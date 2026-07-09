@@ -1,0 +1,390 @@
+Title: Chad c. La reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/500982/index.do
+Corpus path: corpus/cases/tcc/2021/2021-cci-45-500982-chad-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2021-07-29
+
+# Chad c. La reine
+
+- Citation: 2021 CCI 45
+- Decision date: 2021-07-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4459, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chad c. La reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-07-29
+Référence neutre
+2021 CCI 45
+Numéro de dossier
+2017-1458(IT)G
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-1458(IT)G
+ENTRE :
+S. ROBERT CHAD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue par visioconférence les 27 et 28 janvier 2021, à Ottawa, Canada.
+Devant : L'honorable juge Don R. Sommerfeldt
+Comparutions :
+Avocats de l'appelant :
+Me Guy Du Pont, Ad.E.
+Me Dov Whitman
+Me James Trougakas
+Avocats de l'intimée :
+Me Charles Camirand
+Me Shane Aikat
+Me Grant Nash
+Me Bryn Frape
+ORDONNANCE
+La requête de l'appelant est rejetée avec dépens payables par l'appelant à l'intimée.
+Si les parties n'arrivent pas à parvenir à un accord sur les dépens dans un délai de 30 jours suivant la date de la présente ordonnance, l'intimée peut, dans les 30 jours suivants, déposer des observations écrites sur les dépens, après quoi l'appelant disposera d'un délai de 30 jours pour déposer sa réponse écrite. Les observations des parties n'excéderont pas cinq pages. Si les parties n'informent pas la Cour qu'elles sont parvenues à un accord et ne déposent pas d'observations dans les délais impartis, les dépens payables par l'appelant à l'intimée seront établis conformément au tarif.
+Signé à Ottawa, Canada, ce 29e jour de juillet 2021.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Référence : 2021 CCI 45
+Date : 20210729
+Dossier : 2017-1458(IT)G
+ENTRE :
+S. ROBERT CHAD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Sommerfeldt
+I. INTRODUCTION
+[1] Les présents motifs portent sur la requête de l'appelant, S. Robert Chad, en vue d'obtenir la radiation d'un nombre important de passages de la seconde réponse modifiée de l'intimée. Les passages contestés s'inscrivent dans les cinq catégories suivantes :
+a) des allégations de trompe‑l'oeil;
+b) des conclusions de droit;
+c) un passage qui contreviendrait à une ordonnance judiciaire antérieure;
+d) des hypothèses de fait erronées qu'on a corrigées durant l'interrogatoire préalable;
+e) des prétentions retirées.
+II. RÉSUMÉ DES FAITS
+A. Les faits
+[2] Comme aucun élément de preuve ni aucun document sur le fond du présent appel ne m'a encore été présenté, ce que je sais des faits de l'appel repose sur les actes de procédure. Dans l'avis d'appel modifié, l'appelant a invoqué notamment les faits suivants :
+[TRADUCTION]
+1. Durant son année d'imposition 2011, M. Chad a subi une perte autre qu'en capital de 22 184 108,67 $.
+2. Ces pertes résultaient de contrats à terme sur devises visant la réalisation d'un bénéfice.
+3. M. Chad menait des opérations sur devises avec Velocity Trade, une maison de courtage mondiale qui a des bureaux en Amérique du Nord, en Europe, en Australie et en Afrique et qui est détenue en partie par la Banque de Montréal et la MacQuarie Bank, la plus grande institution bancaire et banque d'affaires d'Australie, dont l'actif sous gestion s'élève à 500 milliards de dollars australiens.
+4. M. Chad a effectué ses opérations sur devises avec la filiale britannique de Velocity; toutes les opérations étaient assujetties aux règlements établis par les instances gouvernementales pertinentes du Royaume‑Uni [1] .
+[3] M. Chad a donc fait valoir qu'il avait subi une perte autre qu'en capital de 22 184 108,67 $ (la « perte autre qu'en capital ») en raison de la négociation de contrats à terme sur devises en 2011. Ailleurs dans l'avis d'appel modifié, M. Chad a également allégué avoir subi une perte en capital de 6 289 014,93 $ (la « perte en capital ») en 2011, à la suite de l'aliénation d'une participation dans la société de personnes « SRC 2004 Investments Co. ».
+[4] Par voie d'une nouvelle cotisation établie le 23 septembre 2016, le ministre du Revenu national, représenté par l'Agence du revenu du Canada (l'« ARC »), a refusé la déduction de la perte autre qu'en capital pour plusieurs raisons, notamment le fait que les opérations sur devises (les « opérations ») étaient des trompe‑l'oeil. La nouvelle cotisation refusait également la déduction de la perte en capital au motif que M. Chad n'avait pas fourni suffisamment de documents ou de renseignements à l'appui.
+[5] L'une des hypothèses de fait du ministre était la suivante :
+[TRADUCTION]
+Velocity [Trade] participait à la promotion d'un stratagème d'évitement fiscal communément appelé « pertes sur options doubles sur devises » [...] [2] .
+[6] Par conséquent, je crois comprendre que deux des questions à trancher dans le présent appel sont de savoir si l'appelant a subi des pertes autres qu'en capital du fait de ces opérations et, dans l'affirmative, si ces pertes étaient déductibles dans le calcul de son revenu pour l'année 2011.
+B. La procédure
+[7] La procédure du présent appel comprend les étapes suivantes :
+a) Le 26 septembre 2013, le ministre, représenté par l'ARC, a envoyé un avis de cotisation à l'appelant relativement à l'année d'imposition 2011.
+b) Le 23 septembre 2016, le ministre a envoyé un avis de nouvelle cotisation à l'appelant relativement à l'année d'imposition 2011 [3] .
+c) Le 14 ou 15 octobre 2016 [4] , ou vers ces dates, l'appelant a signifié un avis d'opposition au ministre.
+d) Dans les 90 jours suivant la signification de l'avis d'opposition, le ministre n'avait pas indiqué s'il avait annulé ou ratifié la nouvelle cotisation ou s'il avait établi une nouvelle cotisation. L'appelant a déposé un avis d'appel le 28 mars 2017.
+e) Le 12 juin 2017, l'intimée a déposé sa réponse.
+f) Le 4 août 2017, l'intimée a déposé sa liste de documents.
+g) L'appelant a déposé sa liste de documents avec effet le 3 juillet 2018.
+h) Du 16 au 18 avril 2018, l'appelant et l'intimée ont mené des interrogatoires préalables.
+i) Le 23 juillet 2018, les parties ont répondu aux questions auxquelles elles s'étaient engagées de répondre.
+j) Les 14 et 15 novembre 2018, les parties ont fourni des réponses aux questions de suivi.
+k) Le 10 avril 2019, la Cour a rendu une ordonnance fixant la date du début de l'audition du présent appel au 27 janvier 2020; la durée prévue était de cinq jours.
+l) Le 13 septembre 2019, les parties ont déposé une demande conjointe d'ajournement de l'audition prévue.
+m) Selon une lettre du 20 septembre 2019 et une ordonnance rendue le 23 septembre 2019, l'audition du présent appel a été reportée au 22 juin 2020, pour une durée prévue de sept jours.
+n) Le 15 janvier 2020, l'appelant a déposé un avis de constitution d'un nouvel avocat.
+o) Le 20 février 2020, l'appelant a envoyé à la Cour un projet d'avis de requête en autorisation de modification de l'avis d'appel.
+p) Dans une lettre commune du 25 avril 2020, alors que les greffes de notre Cour étaient entièrement fermés en raison de la pandémie de COVID‑19 [5] , les parties ont demandé :
+(i) l'ajournement, à une date et un lieu à déterminer, de l'audience qui devait débuter le 22 juin 2020;
+(ii) la tenue d'une conférence de gestion de l'instance pour discuter de l'échéancier et fixer la date de l'audience lorsque la Cour reprendrait ses activités.
+q) Le 25 mai 2020, l'audition du présent appel a été ajournée en raison de la pandémie de COVID‑19.
+r) Le 29 juillet 2020, l'intimée a déposé un avis de requête en vue d'obtenir :
+(i) une ordonnance enjoignant à l'appelant de produire à des fins d'examen par la Cour certains documents portant sur des communications entre l'appelant et un avocat américain;
+(ii) une ordonnance portant que certaines questions posées durant les interrogatoires préalables étaient appropriées et que l'appelant a refusé à tort d'y répondre;
+(iii) une ordonnance enjoignant à l'appelant de se présenter de nouveau à un interrogatoire préalable et de répondre aux questions susmentionnées ainsi qu'à tout engagement en résultant.
+s) Le 29 juillet 2020, avec le consentement de l'appelant, l'intimée a déposé et signifié une réponse modifiée.
+t) Le 30 juillet 2020, la Cour a rendu une ordonnance :
+(i) portant que la requête de l'appelant en modification de l'avis d'appel et la requête de l'intimée visant à décider si l'appelant devait répondre à certaines questions posées lors de l'interrogatoire préalable soient entendues le 21 septembre 2020;
+(ii) fixant l'audience du présent appel au 16 février 2021, pour une durée de sept jours.
+u) Le 14 septembre 2020, l'appelant a déposé un avis de requête relativement à la requête qui avait fait l'objet du projet d'avis de requête en autorisation de modification de l'avis d'appel qu'il avait précédemment envoyé à la Cour [6] .
+v) Le 18 septembre 2020, les parties ont déposé conjointement un avis de requête demandant que soit rendue une ordonnance autorisant la participation à distance de certains experts au Royaume‑Uni lors de l'audition du présent appel.
+w) Le 21 septembre 2020, le juge Favreau a entendu la requête de l'appelant visant à modifier l'avis d'appel, la requête de l'intimée visant à reprendre les interrogatoires préalables, ainsi que la requête conjointe visant à autoriser certains témoins experts à témoigner à distance par visioconférence.
+x) Le 24 septembre 2020, le juge Favreau a rendu une ordonnance autorisant l'appelant à modifier son avis d'appel, avec certaines conditions.
+y) Le 7 octobre 2020, le juge Favreau a rendu une ordonnance autorisant la présentation de la preuve à distance par visioconférence par des témoins experts au sujet du droit de l'Angleterre et du Pays de Galles.
+z) Le 8 octobre 2020, l'appelant a déposé et signifié son avis d'appel modifié.
+aa) Le 20 octobre 2020, l'intimée a déposé un avis de requête en radiation de certains passages de l'avis d'appel modifié, notamment la dernière phrase du paragraphe 4.1, au motif que ces passages :
+(i) n'étaient pas conformes à l'ordonnance du 24 septembre 2020;
+(ii) comportaient des faits à l'égard desquels l'intimée ne pourrait pas mener un interrogatoire préalable en raison de l'ordonnance rendue le 24 septembre 2020;
+(iii) étaient tendancieux;
+(iv) énonçaient des conclusions de fait et des conclusions mixtes de droit et de fait sur la question déterminante que devrait trancher notre Cour.
+bb) Le 29 octobre 2020, le juge Favreau a rendu une ordonnance enjoignant à l'appelant de produire certains documents afin que la Cour puisse les examiner pour trancher la question du secret professionnel de l'avocat invoqué par l'appelant.
+cc) Le 29 octobre 2020, le juge Favreau a entendu la requête de l'intimée en radiation de certains passages de l'avis d'appel modifié de l'appelant [7] .
+dd) Le 5 novembre 2020, le juge Favreau a rendu une ordonnance confirmant que la dernière phrase du paragraphe 4.1 de l'avis d'appel modifié de l'appelant était légitime (car le juge Favreau avait expressément approuvé cette phrase dans son ordonnance du 24 septembre 2020), mais radiant d'autres paragraphes de l'avis d'appel modifié de l'appelant, au motif que ces paragraphes n'invoquaient aucun principe, loi ou jurisprudence étranger sur lequel l'appelant se fondait ou énonçaient des conclusions concernant l'application du droit étranger aux faits du présent appel. L'ordonnance du 5 novembre 2020 prorogeait également jusqu'au 16 novembre 2020 le délai accordé à l'intimée pour répondre à l'avis d'appel modifié de l'appelant.
+ee) Le 16 novembre 2020, l'intimée a déposé et signifié la seconde réponse modifiée.
+ff) Le 20 novembre 2020, le juge Favreau a rendu une ordonnance enjoignant à l'appelant de se présenter de nouveau, à ses propres frais, à un interrogatoire préalable pour répondre à des questions précises auxquelles il n'avait pas répondu lors d'un précédent interrogatoire préalable et de satisfaire à tout engagement découlant de l'interrogatoire préalable au plus tard le 30 décembre 2020.
+gg) Le 25 novembre 2020, l'intimée a déposé un avis de requête en radiation de passages de trois rapports d'expert obtenus par l'appelant.
+hh) Le 2 décembre 2020, l'appelant a déposé une demande de précisions.
+ii) Le 14 décembre 2020, l'appelant a déposé un avis de requête en radiation de passages contestés de la seconde réponse modifiée. Les présents motifs portent sur cette requête.
+jj) Le 21 décembre 2020, l'appelant a déposé et signifié un nouvel avis d'appel modifié.
+kk) Le 4 janvier 2021, l'intimée a déposé un avis de requête en vue d'obtenir une ordonnance enjoignant à l'appelant de répondre à certaines questions et à satisfaire à certains engagements relatifs à son interrogatoire préalable [8] .
+ll) Par ordonnance du 1er février 2021, l'audition du présent appel qui devait commencer le 16 février 2021 a été ajournée sine die en raison de la pandémie de COVID‑19.
+III. ANALYSE
+A. La règle de la nouvelle mesure
+[8] Comme l'indique le résumé qui précède de la procédure, un délai important s'est écoulé et plusieurs mesures ont été prises par les parties après le dépôt de la réponse le 12 juin 2017. En s'opposant à la requête de l'appelant, l'intimée a renvoyé à l'article 8 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »), qui est rédigé comme suit :
+8. La requête qui vise à contester, pour cause d'irrégularité, une instance ou une mesure prise, un document donné ou une directive rendue dans le cadre de celle‑ci, ne peut être présentée, sauf avec l'autorisation de la Cour :
+a) après l'expiration d'un délai raisonnable après que l'auteur de la requête a pris ou aurait raisonnablement dû prendre connaissance de l'irrégularité, ou
+b) si l'auteur de la requête a pris une autre mesure dans le cadre de l'instance après avoir pris connaissance de l'irrégularité.
+L'appelant n'a pas en fait demandé l'autorisation de la Cour au titre de l'article 8 des Règles pour présenter la présente requête en radiation de certains passages de la seconde réponse modifiée. L'appelant fait valoir que l'article 8 des Règles ne s'applique pas, car le fondement de sa requête est l'ordonnance du juge Favreau du 5 novembre 2020. L'intimée ne s'est pas opposée à la requête au motif que l'appelant n'avait pas obtenu au préalable l'autorisation requise au titre de l'article 8 des Règles, mais plutôt que la requête de l'appelant ne peut être accueillie du fait de l'article 8.
+[9] Ainsi qu'il est indiqué dans le paragraphe qui précède, l'appelant prétend que le fondement de sa requête est l'ordonnance du juge Favreau du 5 novembre 2020 [9] . L'appelant fait donc valoir que la requête n'aurait pas pu être présentée avant cette date. L'ordonnance du juge Favreau du 5 novembre 2020 a radié plusieurs paragraphes de l'avis d'appel modifié. L'avocat de l'appelant prétend que les passages contestés de la seconde réponse modifiée correspondent aux paragraphes qui ont été radiés de l'avis d'appel modifié, bien que les passages en cause de l'avis d'appel modifié portaient sur le droit étranger, alors que les passages contestés de la seconde réponse modifiée portent sur le droit intérieur. Je n'accepte pas l'affirmation de l'appelant selon laquelle l'ordonnance du juge Favreau du 5 novembre 2020 est le fondement de la présente requête en radiation des passages contestés de la seconde réponse modifiée. En d'autres termes, je ne partage pas l'opinion de l'appelant selon laquelle on peut interpréter l'ordonnance du 5 novembre 2020 de sorte qu'elle soit le fondement de la présente requête. L'avocat de l'appelant aurait pu présenter plusieurs des observations à l'appui de la présente requête avant que le juge Favreau rende son ordonnance du 5 novembre 2020. Qui plus est, certaines observations de l'appelant ne renvoient même pas à l'ordonnance du juge Favreau du 5 novembre 2020.
+[10] Comme je l'indique ci‑après, tous les passages contestés, sauf deux, figuraient dans les actes de procédure de l'intimée bien avant l'ordonnance du juge Favreau. Par conséquent, l'article 8 des Règles est pertinent et on doit en tenir compte lors de la présente requête [10] .
+[11] Il faut examiner l'article 8 des Règles en tenant compte de l'article 7 des Règles, qui dispose qu'une irrégularité n'est pas cause de nullité d'un document dans une instance. En général, les actes de procédure fautifs constituent une irrégularité aux termes des articles 7 et 8 des Règles [11] .
+[12] En commentant la règle de la nouvelle mesure, la Cour d'appel fédérale a récemment déclaré ce qui suit :
+[...] La règle de la nouvelle mesure vise à assurer le déroulement ordonné du contentieux jusqu'au procès. La règle est fondée sur l'idée que, si une partie répond à un acte de procédure, cela sous‑entend qu'elle renonce à contester toute irrégularité qui s'y trouve. [...] Ce pouvoir a également été exercé d'une manière conforme à la jurisprudence existante, en appliquant la règle de la nouvelle mesure lorsqu'une partie cherche à obtenir la radiation d'une réponse en se fondant sur le fait que les hypothèses qui y sont contenues sont des conclusions de droit plutôt que de fait [...] [12] .
+[13] La presque totalité des passages contestés figuraient dans la réponse qui a été déposée le 12 juin 2017, ainsi que dans la réponse modifiée déposée le 29 juillet 2020. Les seuls passages contestés qui apparaissaient pour la première fois dans la seconde réponse modifiée déposée le 16 novembre 2020 étaient le paragraphe 5.1 et l'alinéa 5.2b) [13] .
+[14] En d'autres termes, tous les passages contestés, sauf deux, ont été énoncés pour la première fois dans les actes de procédure de l'intimée plus de trois ans et demi avant que l'appelant dépose la présente requête. Durant cette période, l'appelant a déposé une liste de documents, a effectué des interrogatoires préalables et a déposé un avis d'appel modifié ainsi que plusieurs requêtes. Élément encore plus révélateur, l'appelant a accepté que l'intimée dépose la réponse modifiée qui, tout comme la réponse initiale, énonçait tous les passages contestés, sauf deux.
+[15] Il y a eu plus qu'un délai raisonnable, comme le prévoit l'alinéa 8a) des Règles, depuis que l'appelant a pris connaissance de la plupart des irrégularités alléguées dans la réponse. L'appelant a pris plusieurs mesures, que j'énumère aux paragraphes 7 et 14 qui précèdent, comme le prévoit l'alinéa 8b) des Règles, après avoir pris connaissance des irrégularités, sauf deux.
+[16] Dans la décision rendue en première instance dans Kossow, la juge Valerie Miller a déclaré : « Le principe des “nouvelles mesures” a pour objet d'empêcher une partie d'agir d'une façon qui contredit ses agissements antérieurs dans l'instance » [14] . Elle a également confirmé le principe énoncé précédemment selon lequel la règle de la nouvelle mesure reconnaît que « si une partie répond à un acte de procédure, cela implique la renonciation à une irrégularité qui eût autrement pu être attaquée » [15] . En l'espèce, la requête en radiation des passages contestés est incompatible avec la conduite antérieure de l'appelant à l'égard de l'appel (notamment le fait que l'appelant a consenti au dépôt de la réponse modifiée le 29 juillet 2020). De plus, en déposant l'avis d'appel modifié le 8 octobre 2020, l'appelant a en fait réagi à la réponse déposée le12 juin 2017 et à la réponse modifiée déposée le 29 juillet 2020 [16] , laissant ainsi supposer une renonciation aux irrégularités dans la réponse et la réponse modifiée.
+[17] Comme l'appelant est limité par les alinéas a) et b) de l'article 8 des Règles, la requête est rejetée en raison de l'article 8 des Règles, sauf pour ce qui est du paragraphe 5.1 et de l'alinéa 5.2b) de la seconde réponse modifiée.
+[18] Au cas où j'aurais exercé à tort le pouvoir discrétionnaire que me confère l'article 8 des Règles, j'examinerai les cinq observations de l'appelant. Quoi qu'il en soit, cette analyse est nécessaire pour examiner la requête visant à radier le paragraphe 5.1 et l'alinéa 5.2b) de la seconde réponse modifiée.
+B. Les allégations de trompe‑l'oeil
+1) La thèse de l'appelant
+[19] Pour comprendre l'observation de l'appelant relativement aux allégations de trompe‑l'oeil dans les passages contestés, il paraît utile de fournir quelques renseignements de base. L'alinéa 15ww) de la réponse, de la réponse modifiée et de la seconde réponse modifiée est rédigé comme suit :
+[TRADUCTION]
+ww) Les opérations sur devises alléguées étaient des trompe‑l'oeil;
+[20] Durant l'interrogatoire préalable de la représentante désignée de l'intimée le 18 avril 2018, l'échange suivant a eu lieu :
+[TRADUCTION]
+Q. En ensuite l'alinéa ww), Madame, vous n'avez pas réellement conclu que ces opérations sur devises étaient des trompe‑l'oeil, car vous ne saviez même pas vraiment en quoi consistaient ces opérations, n'est-ce pas?
+R. Ce n'est qu'une hypothèse, d'après ce que j'ai pu voir, il est possible que les opérations n'aient en fait jamais eu lieu. C'était possible, car je n'avais aucun document à l'appui [17] . [Non souligné dans l'original.]
+[21] Lors de l'audition de la présente requête, l'avocat de l'appelant a insisté sur la déclaration de la représentante désignée de l'intimée : [TRADUCTION] « il est possible que les opérations n'aient en fait jamais eu lieu ». En d'autres termes, l'avocat de l'appelant a fait valoir que l'hypothèse du ministre selon laquelle les opérations sur devises étaient des trompe‑l'oeil n'était fondée que sur l'hypothèse que ces opérations n'avaient en fait pas eu lieu (et non, je suppose, parce que le ministre estimait que les opérations n'avaient pas les effets juridiques qu'elles semblaient avoir) [18] .
+[22] Le 29 juillet 2020, l'intimée a déposé un avis de requête afin que la Cour déclare que trois questions que l'intimée avait posées à l'appelant lors de l'interrogatoire préalable et auxquelles l'appelant avait refusé de répondre au motif que les renseignements demandés étaient visés par le secret professionnel de l'avocat étaient des questions valables. L'intimée a également demandé une ordonnance enjoignant à l'appelant de produire, à des fins d'examen par la Cour, des copies de documents mentionnés dans un courriel entre l'appelant et un avocat américain. L'intimée a déposé des observations écrites à l'égard de cette requête. Ces observations affirmaient notamment ce qui suit :
+[TRADUCTION]
+9. Lors de l'interrogatoire préalable, durant la discussion des activités boursières et l'examen de la pièce R‑4, il est devenu évident que Me Lemons [l'avocat américain] a semblé jouer un rôle dans les décisions prises au sujet des opérations sur devises. Bien que l'appelant ait nié que Me Lemons lui a donné des conseils d'affaires, les éléments de preuve indiquent ou laissent penser que ses avocats ont donné des avis non juridiques ou qu'ils auraient pu avoir participé aux décisions concernant les opérations en cause. Cette communication ne serait donc pas visée par le secret professionnel [...] [19] .
+[...]
+18. Un courriel du 20 janvier 2012 que l'appelant a envoyé à Velocity Trading indique que « Bruce » — c'est‑à‑dire Me Lemons — « souhaitait attendre un peu plus longtemps avant d'envisager de liquider les placements ». Cela laisse entendre que Me Lemons participait aux décisions quant au meilleur moment d'effectuer les opérations sur devises ou qu'il donnait par ailleurs des avis non juridiques. L'appelant a refusé de répondre à la question de savoir si Me Lemons était autorisé à exercer le droit au Canada, en revendiquant le secret professionnel. Lorsqu'on lui a demandé quels types de conseils Me Lemons lui avait donnés, l'appelant a refusé de répondre en raison du secret professionnel, mais il a répondu « non » lorsqu'on lui a demandé si Me Lemons lui avait donné des conseils d'affaires. Compte tenu de ce qui précède et de la nature de l'opposition, il a été impossible pour l'intimée de déterminer s'il était juste d'invoquer le secret professionnel de l'avocat [20] . [Non souligné dans l'original.]
+[23] L'appelant fait valoir que les passages soulignés qui précèdent étaient des déclarations inconditionnelles qui étaient des aveux judiciaires de la part de l'intimée selon lesquels les opérations avaient réellement eu lieu [21] . L'appelant prétend en outre que [TRADUCTION] « l'intimée ne peut renier les aveux contraignants qu'elle a faits et que la Cour a reconnus » [22] .
+[24] En rendant son ordonnance du 20 novembre 2020 qui accueillait la requête de l'intimée au sujet des questions auxquelles l'appelant n'avait pas répondu lors de l'interrogatoire préalable et du secret professionnel, le juge Favreau a déclaré ce qui suit :
+[TRADUCTION]
+Comme les échanges de courriels entre l'appelant et Me Lemons portent exclusivement sur les prix du marché des placements de l'appelant et sur le bon moment pour liquider ses placements pour passer à l'étape suivante des opérations, l'appelant ne pouvait invoquer le secret professionnel dans les circonstances.
+Les documents que j'ai examinés indiquent fortement que Me Lemons a donné des avis non juridiques et a participé aux décisions de l'appelant relativement aux opérations en cause [23] . [Non souligné dans l'original.]
+[25] L'avocat de l'appelant prétend que les passages soulignés de l'ordonnance qui précède sont [TRADUCTION] « une conclusion judiciaire de notre Cour relativement aux opérations sur devises qui sont au cœur du présent appel [...], qui va totalement à l'encontre de toute allégation voulant que les opérations aient été des trompe‑l'oeil » [24] . L'appelant prétend en outre qu'en rendant son ordonnance le 20 novembre 2020, la Cour a adopté la déclaration de l'intimée quant au rôle de Me Lemons et qu'elle a de ce fait engagé la règle de la préclusion découlant d'une question déjà tranchée, ce qui empêche l'intimée de prétendre que les opérations étaient des trompe‑l'oeil [25] .
+[26] L'appelant fait également valoir que les mots [TRADUCTION] « prétendu » et « prétendument » dans la seconde réponse modifiée utilisés pour décrire les opérations, les contrats d'achat et de vente de devises étrangères et le fait de conclure ces contrats font également l'objet de la préclusion, car l'intimée a reconnu l'existence des opérations et ne peut donc pas prétendre que les opérations n'ont pas eu lieu.
+2) L'aveu judiciaire
+[27] Pour être un aveu judiciaire, une déclaration doit être « une concession délibérée faite par une partie au profit de l'autre » [26] . La déclaration doit non seulement être délibérée, elle doit aussi être claire [27] .
+[28] Dans Continental Bank Leasing, le juge Bowman (ensuite juge en chef) a déclaré ce qui suit :
+Le système judiciaire au Canada perdrait de sa crédibilité si les tribunaux étaient limités, dans leur examen du fond d'une affaire, par un aveu irréfléchi qui est incompatible avec une autre thèse avancée [...] [28] .
+En citant le juge Bowman, je ne veux pas dire que les déclarations de l'avocat de l'intimée dans les observations écrites présentées au juge Favreau constituaient un aveu que les opérations n'étaient pas des trompe‑l'oeil, et je ne pense pas que ces déclarations étaient fautives. Cependant, si ces déclarations signifient que les opérations n'étaient pas des trompe‑l'oeil, elles allaient clairement à l'encontre des déclarations expresses faites par l'intimée dans la réponse, la réponse modifiée et la seconde réponse modifiée, dans lesquelles on affirme que les opérations étaient des trompe‑l'oeil. À l'alinéa 15ww) et au paragraphe 33 de la réponse, de la réponse modifiée et de la seconde réponse modifiée, l'intimée a clairement indiqué qu'elle estimait que les opérations étaient des trompe‑l'oeil. Je ne considère pas que les observations présentées par l'intimée au juge Favreau annulent l'allégation de trompe‑l'oeil. Je suis d'avis que l'allégation de trompe‑l'oeil est « un point justiciable, lequel doit être déféré au juge dans l'intérêt de la justice » [29] .
+3) La préclusion découlant d'une question déjà tranchée
+[29] La règle de la préclusion découlant d'une question déjà tranchée vise à limiter les remises en cause. En établissant un équilibre entre le caractère définitif des décisions judiciaires, l'usage prudent des ressources judiciaires et l'équité entre les parties, cette règle prévoit qu'une partie ne peut contester une question qui a été tranchée de façon définitive lors d'une instance judiciaire antérieure opposant les mêmes parties ou celles qui les remplacent [30] . Cette règle repose sur les principes du caractère définitif des litiges et de la protection des parties contre l'iniquité de poursuites répétées [31] . Les tribunaux conservent toutefois le pouvoir discrétionnaire de ne pas appliquer la préclusion découlant d'une question déjà tranchée si cela donnerait lieu à une injustice [32] .
+[30] En 1975, le juge Dickson (plus tard juge en chef), s'exprimant au nom des juges majoritaires de la Cour suprême du Canada dans l'arrêt Angle, et citant l'arrêt Carl Zeiss Stiftung, a défini comme suit les exigences de la préclusion découlant d'une question déjà tranchée :
+[TRADUCTION]
+[...] (1) que la même question ait été décidée; (2) que la décision judiciaire invoquée comme créant la fin de non‑recevoir soit finale, et, (3) que les parties dans la décision judiciaire invoquée, ou leurs ayants droit, soient les mêmes que les parties engagées dans l'affaire où la fin de non‑recevoir est soulevée, ou leurs ayants droit [...] [33] .
+Au sujet de la première exigence portant sur la question décidée, le juge Dickson a ajouté ce qui suit :
+Il ne suffira pas que la question ait été soulevée de façon annexe ou incidente dans l'affaire antérieure ou qu'elle doive être inférée du jugement par raisonnement [...]. La question qui est censée donner lieu à la fin de non-recevoir doit avoir été « fondamentale à la décision à laquelle on est arrivé » dans l'affaire antérieure [...] [34] . [Non souligné dans l'original.]
+[31] Dans ses motifs dissidents dans Angle, le juge Laskin (plus tard juge en chef) a cité l'énoncé suivant tiré de l'arrêt McIntosh v. Parent :
+[TRADUCTION]
+Lorsqu'une question est soumise à un tribunal le jugement de la cour devient une décision finale entre les parties et leurs ayants droit. Les droits, questions ou faits distinctement mis en cause et directement réglés par un tribunal compétent comme motifs de recouvrement ou comme réponses à une prétention qu'on met de l'avant, ne peuvent être jugés de nouveau dans une poursuite subséquente entre les mêmes parties ou leurs ayants droit, même si la cause d'action est différente. Le droit, la question ou le fait, une fois qu'on a statué à son égard, doit être considéré entre les parties comme établi de façon concluante aussi longtemps que le jugement demeure [35] . [Non souligné dans l'original.]
+[32] Je ne crois pas que la question tranchée par le juge Favreau dans son ordonnance du 20 novembre 2020 était la même question que celle qui a été soulevée dans les hypothèses et les actes de procédure du ministre au sujet du trompe‑l'oeil. Le juge Favreau a examiné la question de savoir si certaines communications entre l'appelant et son avocat américain au sujet des opérations étaient confidentielles. Je crois comprendre que, lors de l'audition de cette requête, personne n'a témoigné et on n'a présenté aucun élément de preuve portant sur la question du trompe‑l'oeil. En d'autres termes, le caractère réel, l'existence et la nature des opérations n'ont pas été « distinctement mis en cause » lors de l'audition de la requête et n'ont pas été « directement réglés » par le juge Favreau lorsqu'il a rendu son ordonnance [36] . L'avocat de l'appelant m'exhorte à déclarer que le juge Favreau a conclu que les opérations étaient réelles; cependant, s'il l'a effectivement conclu, alors cette conclusion « doit être inférée » [37] de l'ordonnance qu'il a rendue. En d'autres termes, la question de savoir si les opérations ont eu lieu ou non n'était pas « fondamentale à la décision à laquelle » en est arrivé le juge Favreau dans son ordonnance sur l'existence du secret professionnel de l'avocat [38] .
+[33] En résumé, l'appelant n'a pas établi que le principe de la préclusion découlant d'une question déjà tranchée empêche l'intimée, dans la présente situation, de faire valoir que les opérations étaient un trompe‑l'oeil. Cela suffit pour rejeter la requête présentée par l'appelant relativement aux alinéas 5.2b), 15ff), 15ww) et 15zz) et aux paragraphes 33 et 34 de la seconde réponse modifiée.
+[34] Même si les exigences de la préclusion découlant d'une question déjà tranchée sont présentes, la cour peut « néanmoins exercer son pouvoir discrétionnaire et refuser l'application de la préclusion » [39] , mais « ce pouvoir discrétionnaire est très limité dans son application » [40] . Comme j'ai conclu que la première exigence de la préclusion découlant d'une question déjà tranchée n'a pas été satisfaite (c.‑à‑d. que la question de savoir si les opérations étaient un trompe‑l'oeil n'est pas la question que le juge Favreau a tranchée dans la requête qu'il a entendue), il est inutile que je détermine si le « pouvoir discrétionnaire résiduel » [41] associé à la préclusion découlant d'une question déjà tranchée devrait être exercé dans la présente situation.
+4) Les termes [TRADUCTION] « prétendu » et « prétendument »
+[35] La conclusion qui précède voulant qu'il n'y a pas préclusion découlant d'une question déjà tranchée, de sorte qu'il n'est pas interdit au ministre d'alléguer que les opérations étaient un trompe‑l'oeil, suffit pour rejeter la requête en radiation des mots [TRADUCTION] « prétendu » et « prétendument » de la seconde réponse modifiée. Un autre motif justifiant la non‑radiation de ces mots a été énoncé par la Cour d'appel fédérale dans l'arrêt Loewen, où on interjetait appel de la décision de la Cour canadienne de l'impôt de radier les mots « présumé », « intitulé », « censément » et « prétendu » de la réponse de la Couronne. En appel, la juge Sharlow a déclaré ce qui suit :
+Le juge a conclu que les mots en question sont toujours ambigus et trompeurs et qu'ils n'ont donc jamais leur place dans les actes de procédure. Il m'est impossible d'être d'accord avec lui sur ce point. Il y a en effet des cas où il convient d'employer ces mots dans les actes de procédure. Ainsi, si, dans les faits qui sont articulés dans un appel en matière d'impôt sur le revenu, le contribuable allègue qu'une dette déterminée existe et que les modalités de cette dette sont constatées par un écrit appelé « billet », on ne peut forcer Sa Majesté à admettre ces allégations. Si Sa Majesté ne souhaite pas admettre que l'écrit en question est un billet, qu'il y a une dette ou que les modalités de la dette sont précisées dans cet écrit, il lui est alors loisible de qualifier l'écrit de « prétendu billet » et de parler de « présumée dette » [42] .
+[36] Je suis d'avis que l'intimée a utilisé les mots [TRADUCTION] « prétendu » et « prétendument » dans la réponse, la réponse modifiée et la seconde réponse modifiée pour renvoyer aux opérations et aux contrats sur devises allégués sans admettre l'existence ou la validité juridique de ces opérations et contrats. Je ne vois pas comment l'emploi des mots [TRADUCTION] « prétendu » et « prétendument » dans ces circonstances peut être ambigu ou trompeur. Il s'agit simplement d'un moyen utilisé pour renvoyer aux opérations et contrats allégués sans admettre qu'il s'agissait bien d'opérations et de contrats. Selon Loewen, il s'agit d'un acte de procédure acceptable [43] .
+5) L'alinéa 5.2b) de la seconde réponse modifiée
+[37] Pour comprendre le contexte de l'alinéa 5.2b) de la seconde réponse modifiée, nous devons d'abord examiner le paragraphe 4.2 de l'avis d'appel modifié (qui est l'un des nouveaux passages ajoutés en réponse aux directives du juge Favreau au paragraphe 9 de son ordonnance du 24 septembre 2020) [44] . Le paragraphe 4.2 de l'avis d'appel modifié est rédigé comme suit :
+[TRADUCTION]
+4.2. Plus précisément, les opérations sur devises étaient régies notamment par les lois de l'Angleterre et du Pays de Galles qui sont énoncées à l'annexe A. Le libellé de ces lois et d'autres lois, règlements, décrets et résolutions est, par les présentes, incorporé par renvoi.
+[38] L'alinéa 5.2b) de la seconde réponse modifiée est rédigé ainsi :
+[TRADUCTION]
+5.2 Pour ce qui est du paragraphe 4.2 de l'avis d'appel modifié, le procureur général du Canada :
+[...]
+b) déclare que, si les opérations sur devises n'étaient pas un trompe‑l'oeil, elles seraient régies par les lois de l'Angleterre et du Pays de Galles.
+Tout comme dans le cas des autres allégations de trompe‑l'oeil dans les passages contestés, l'appelant fait valoir que le passage [TRADUCTION] « si les opérations sur devises n'étaient pas un trompe‑l'oeil » à l'alinéa 5.2b) de la seconde réponse modifiée devrait être radié [45] .
+[39] Comme je l'ai indiqué précédemment, l'appelant n'a pas établi l'existence d'un aveu judiciaire par l'intimée quant à l'existence des opérations, ni n'a établi que la préclusion découlant d'une question déjà tranchée empêche l'intimée de prétendre que les opérations étaient un trompe‑l'oeil [46] . Bien que cette conclusion suffise pour rejeter la requête quant au passage contesté à l'alinéa 5.2b) de la seconde réponse modifiée, il convient également de mentionner que ce passage n'affirme pas que les opérations étaient un trompe‑l'oeil. Le passage contesté à l'alinéa 5.2b) ne fait que reconnaître que les opérations n'étaient peut‑être pas un trompe‑l'oeil. Cela ne constitue pas un motif pour radier le passage contesté à l'alinéa 5.2b) de la seconde réponse modifiée.
+C. Les hypothèses de droit
+[40] L'appelant demande la radiation des alinéas 15ww), 15xx), 15zz), 15aaa) et 15bbb) (les hypothèses de droit) de la seconde réponse modifiée, au motif que ces alinéas, qui figurent dans la liste des hypothèses de fait formulées par le ministre au moment d'établir la dette fiscale de l'appelant pour l'année d'imposition 2011, renferment des conclusions de droit. Les deux passages les plus courts et les plus évidents (quant à la formulation d'une hypothèse de droit) sont les alinéas 15ww) et 15xx), qui sont rédigés comme suit :
+[TRADUCTION]
+ww) Les opérations sur devises alléguées étaient des trompe‑l'oeil;
+xx) Les contrats sur devises allégués n'avaient pas d'effet juridique; [...]
+[41] Il est bien établi qu'on ne peut énoncer une conclusion de droit comme hypothèse de fait du ministre lors de l'établissement de la cotisation [47] . Si le ministre, au moment d'établir la cotisation, a tiré une conclusion mixte de fait et de droit, la Couronne doit, dans ses actes de procédure, dégager les éléments factuels de la conclusion juridique qu'il a tirée. On peut énoncer les éléments factuels en tant qu'hypothèses de fait du ministre [48] , mais la conclusion de droit doit être énoncée dans la section de la réponse qui expose les arguments juridiques de la Couronne (c.‑à‑d. les moyens sur lesquels la Couronne entend se fonder) [49] .
+[42] Bien que les éléments ou fondements factuels d'une allégation de trompe‑l'oeil puissent être énoncés en tant qu'hypothèses de fait, la conclusion voulant qu'il y ait eu un trompe‑l'oeil doit être énoncée en tant que moyen sur lequel la Couronne entend se fonder [50] . En d'autres termes, en cas de trompe‑l'oeil, le ministre peut énoncer les fondements factuels (comme l'intention d'induire en erreur) comme hypothèses de fait, mais l'allégation de trompe‑l'oeil et les conclusions de droit doivent figurer ailleurs dans la réponse [51] .
+[43] L'observation de l'appelant au sujet des hypothèses de droit pourrait bien être fondée. Cependant, en raison de la décision que j'ai rendue concernant l'application de la règle de la nouvelle mesure [52] , je ne radierai pas les hypothèses de droit et je n'ai pas à examiner si chacune d'elles énonce en fait une conclusion de droit. J'ajouterai cependant que, n'eût été le retard de l'appelant à déposer la présente requête, il aurait bien pu réussir à faire radier les hypothèses de droit de la seconde réponse modifiée.
+[44] Le fait que l'appelant a été débouté et que les hypothèses de droit n'ont pas été radiées de la seconde réponse modifiée ne devrait pas rassurer l'intimée, comme le dit la juge en chef adjointe Lamarre dans la décision Gerbro Holdings :
+[67] Les hypothèses de droit ou mixtes de fait et de droit ne lient pas notre Cour, indépendamment du fait qu'elles auraient pu ou auraient dû être radiées des actes de procédure. Conclure le contraire équivaudrait à priver la Cour de son pouvoir de trancher des questions de droit. Dans la décision Kopstein [...], le juge Jorré, rendant une décision sur une requête en radiation, a décrit cette proposition de la manière suivante :
+[TRADUCTION]
+[67] Au moment d'évaluer s'il convient de radier un paragraphe d'un acte de procédure, il faut tenir compte de l'effet réel du paragraphe.
+[68] Dans ce contexte, il faut garder à l'esprit qu'une hypothèse invalide ou non pertinente n'a pas pour effet de transférer le fardeau de la preuve à un appelant simplement parce que ladite hypothèse a été invoquée. Par exemple, s'il s'avère lors de l'interrogatoire préalable qu'une hypothèse n'a jamais été soulevée, alors il n'incombe pas à l'appelant de la réfuter; si l'intimée souhaite se fonder sur ce fait précis, elle devra en faire la preuve. De même, si ce qui est invoqué comme une hypothèse de fait s'avère n'être qu'une conclusion sur une question de droit et qu'aucun fait sous‑jacent à cette conclusion n'a été tenu pour acquis ailleurs, il n'incombera pas à l'appelant de la réfuter.
+[68] En outre, la Cour ne devrait pas être tenue de dégager les éléments factuels des hypothèses mixtes de fait et de droit, lorsque celles-ci sont invoquées à tort [53] . [...]
+Par conséquent, si les alinéas du paragraphe 15 de la seconde réponse modifiée énoncent des conclusions de droit ou des conclusions mixtes de fait et de droit, le juge chargé d'entendre l'appel écartera probablement l'intégralité de ces alinéas, sans tenter d'en dégager les faits qui pourraient y être énoncés (car ce n'est pas le rôle du juge du procès) [54] .
+D. Le paragraphe 5.1 de la seconde réponse modifiée
+[45] Il convient de rappeler certains faits pour comprendre les préoccupations de l'appelant au sujet du paragraphe 5.1 de la seconde réponse modifiée. Ainsi qu'il est indiqué dans le résumé chronologique qui précède, le 21 septembre 2020, le juge Favreau a entendu la requête de l'appelant visant à obtenir l'autorisation de modifier son avis d'appel conformément au projet d'avis d'appel modifié joint à l'avis de requête. L'intimée ne s'est opposée qu'à une seule des modifications proposées, à savoir l'ajout du paragraphe 4.1 proposé qui, dans le projet d'avis d'appel modifié, était rédigé comme suit :
+[TRADUCTION]
+4.1 Les opérations sur devises étaient régies par le droit de l'Angleterre et du Pays de Galles. Selon ce droit, les opérations sur devises étaient juridiquement valides.
+Dans l'ordonnance du 24 septembre 2020, le juge Favreau a accordé à l'appelant l'autorisation de modifier son avis d'appel. Le paragraphe 9 de cette ordonnance est rédigé comme suit :
+[TRADUCTION]
+9. Compte tenu de ce qui précède et des observations faites par les parties lors de l'audition, la Cour accorde par les présentes à l'appelant l'autorisation de modifier son avis d'appel conformément aux modifications proposées, à condition que soient respectées les exigences suivantes relativement au paragraphe 4.1 :
+a) le libellé des lois, règlements, décrets et résolutions que l'appelant entend invoquer doit être incorporé par renvoi dans l'avis d'appel;
+b) il faut énoncer l'effet de la jurisprudence censée établir une règle ou un principe précis qui n'est pas prévu par la loi, mais non des décisions qui ne font qu'appliquer les dispositions légales.
+[46] En tentant de se conformer à l'ordonnance du 24 septembre 2020, l'appelant a ajouté non seulement le paragraphe 4.1 à l'avis d'appel, mais également les paragraphes 4.2 à 4.34, qui font un peu plus de 13 pages, qui ne figuraient pas dans le projet d'avis d'appel modifié précédemment présenté à l'intimée et à la Cour et qui contiennent une analyse détaillée des lois et de la jurisprudence pertinentes de l'Angleterre et du Pays de Galles (comme l'exigeait le paragraphe 9 de l'ordonnance du 24 septembre 2020). L'avis d'appel modifié a été signifié à l'intimée le 8 octobre 2020, à la suite de quoi l'intimée a déposé une requête en radiation de certains passages (les « paragraphes contestés ») de l'avis d'appel modifié (notamment la dernière phrase du paragraphe 4.1, qui figurait dans l'avis d'appel modifié de la même manière que dans le projet d'avis d'appel modifié mentionné précédemment). Dans des observations écrites déposées le 22 octobre 2020 à l'appui de sa requête, l'intimée a fait valoir que les paragraphes contestés étaient inadmissibles, car ils [TRADUCTION] « n'alléguaient aucun fait portant sur les lois, les règlements ou la jurisprudence étrangers que l'appelant entendait invoquer ». Les paragraphes contestés énonçaient plutôt [TRADUCTION] « des conclusions sur l'application du droit étranger aux faits du présent appel » [55] .
+[47] Aux termes du paragraphe 12 de l'ordonnance du 5 novembre 2020, le juge Favreau a radié les paragraphes contestés [56] , à l'exception de la dernière phrase du paragraphe 4.1, dont il a autorisé le maintien car il l'avait expressément approuvée dans son ordonnance du 24 septembre 2020. Au paragraphe 13 de l'ordonnance du 5 novembre 2020, le juge Favreau a ajouté ce qui suit :
+[TRADUCTION]
+13. Les paragraphes contestés, à l'exception de la dernière phrase du paragraphe 4.1, ne sont pas conformes à l'ordonnance du 24 septembre. Les paragraphes contestés, à l'exception de la dernière phrase du paragraphe 4.1, soit n'énoncent ni loi, ni jurisprudence, ni principe étranger que l'appelant entend invoquer, soit énoncent des conclusions sur l'application du droit étranger aux faits du présent appel. L'ajout des paragraphes contestés, à l'exception de la dernière phrase du paragraphe 4.1 de l'avis d'appel modifié, causerait à l'intimée un préjudice qui ne pourrait être compensé par l'adjudication des dépens.
+L'appelant interprète le paragraphe 13 de l'ordonnance du 5 novembre 2020 du juge Favreau comme reconnaissant que la dernière phrase du paragraphe 4.1 de l'avis d'appel modifié [TRADUCTION] « énonce un principe, une loi ou une jurisprudence étranger que l'appelant entend invoquer et [...] n'énonce pas de conclusions sur l'application du droit étranger aux faits du présent appel » [57] .
+[48] C'est alors que l'intimée a invoqué ce qui suit au paragraphe 5.1 de la seconde réponse modifiée (qui a été déposée le 16 novembre 2020) :
+[TRADUCTION]
+5.1 Pour ce qui est du paragraphe 4.1 de l'avis d'appel modifié, le procureur général du Canada n'y a trouvé aucun fait au sujet du droit étranger qu'il aurait à admettre ou à nier. Il affirme que le paragraphe est une observation et, si on y affirme des faits, il les nie.
+[49] En présentant la présente requête, l'appelant affirme que l'énoncé au paragraphe 5.1 de la seconde réponse modifiée, voulant que le paragraphe 4.1 de l'avis d'appel modifié ne faisait état d'aucune affirmation de fait quant au droit étranger, va directement à l'encontre de la conclusion du juge Favreau selon laquelle le paragraphe 4.1 de l'avis d'appel modifié énonce un principe, une loi ou une jurisprudence étranger. Le paragraphe 5.1 de la seconde réponse modifiée devrait donc être radié [58] . Bien que je reconnaisse que le paragraphe 13 de l'ordonnance du juge Favreau du 5 novembre 2020 pourrait peut‑être être interprété comme le propose l'appelant, je préfère en faire une interprétation plus restreinte. À mon avis, le juge Favreau ne faisait qu'indiquer que les paragraphes contestés, à l'exception de la dernière phrase du paragraphe 4.1, n'énonçaient aucun droit étranger ou énonçaient des conclusions sur l'application du droit étranger. Le paragraphe 13 ne mentionne pas expressément que la dernière phrase du paragraphe 4.1 comprenait une affirmation sur le droit étranger et n'énonçait aucune conclusion sur l'application du droit étranger. Il est possible, notamment en raison du paragraphe 12 de l'ordonnance qu'il a rendue le 5 novembre 2020, que le juge Favreau ait autorisé le maintien de la dernière phrase du paragraphe 4.1 pour la simple raison qu'il l'avait expressément approuvée dans son ordonnance du 24 septembre 2020. Il est en outre possible que le juge Favreau ait décidé d'appliquer le principe énoncé comme suit dans l'arrêt BCIC :
+[...] Il se peut fort bien que, dans certains cas, il soit raisonnable de laisser en l'état un acte de procédure qui présente certaines lacunes si, par exemple, les faits sont relativement simples, qu'il y ait peu ou pas de controverse au sujet des principes juridiques applicables, ou s'il y a peu de risques que la partie adverse subisse un préjudice ou soit obligée de consacrer à l'affaire inutilement des ressources [59] . [...]
+En d'autres termes, je ne suis pas convaincu que le paragraphe 5.1 de la seconde réponse modifiée aille directement à l'encontre de ce que le juge Favreau a déclaré au paragraphe 13 de son ordonnance du 5 novembre 2020.
+[50] D'après les observations orales de l'avocat de l'appelant lors de l'audition de la présente requête, je crois comprendre que l'appelant n'a formulé aucune réserve au sujet de la deuxième phrase du paragraphe 5.1 de la seconde réponse modifiée. Les préoccupations de l'appelant portent plutôt sur la première phrase de ce paragraphe, c'est‑à‑dire sur le fait que le procureur général du Canada n'a pas trouvé, au paragraphe 4.1 de l'avis d'appel modifié, une allégation de fait sur le droit étranger. Je crois également comprendre que l'avocat de l'appelant veut simplement que l'intimée nie le paragraphe 4.1 de l'avis d'appel modifié.
+[51] Si le paragraphe 4.1 de l'avis d'appel modifié comprend une allégation au sujet du droit étranger que le procureur général n'a pu trouver, ainsi qu'il est indiqué à la première phrase du paragraphe 5.1 de la seconde réponse modifiée, le procureur général nie dans la deuxième phrase du paragraphe 5.1 tout fait qui pourrait être énoncé au paragraphe 4.1 de l'avis d'appel modifié.
+[52] Je ne considère pas que le paragraphe 5.1 de la seconde réponse modifiée peut compromettre ou retarder l'instruction équitable de l'appel, qu'il est scandaleux, frivole ou vexatoire ou qu'il constitue un recours abusif à la Cour, pas plus que je ne considère que le paragraphe 5.1 fait partie d'un acte de procédure qui ne révèle aucun moyen raisonnable de contestation de l'appel. Par conséquent, je ne crois pas que le paragraphe 5.1 de la seconde réponse modifiée devrait être radié en application du paragraphe 53(1) des Règles, notamment compte tenu du fait [TRADUCTION] qu'« il est bien établi dans la jurisprudence que, pour qu'une requête en radiation soit accueillie [...], le demandeur doit démontrer que l'acte de procédure contesté est à ce point sans conséquence, frivole, embarrassant, abusif, etc., qu'il est manifestement vain et futile » [60] . Par conséquent, je ne vois rien dans le paragraphe 53(1) des Règles qui justifie la radiation du paragraphe 5.1 de la seconde réponse modifiée.
+E. Les corrections ou les aveux faits durant l'interrogatoire préalable
+[53] Le 18 avril 2018, l'intimée a présenté son représentant à l'interrogatoire préalable mené par l'avocat de l'appelant. Durant cet interrogatoire, ce représentant et l'avocat de l'intimée ont tous deux fait certaines déclarations qui font penser que les alinéas 15cc), 15pp), 15tt) et 15aaa) de la réponse, qui énonçaient certaines hypothèses de fait du ministre, étaient, selon l'appelant, imprécis ou inexacts. L'intimée ne reconnaît pas que ces déclarations faites durant l'interrogatoire étaient aussi nettes et absolues que l'affirme l'appelant. L'intimée prétend plutôt que le représentant a simplement reconnu que les renseignements contenus dans certains documents laissaient penser que les faits réels étaient autres que les faits présumés, mais il n'a ni admis ni reconnu que les hypothèses de fait étaient inexactes.
+[54] Comme je l'ai mentionné, l'interrogatoire préalable a eu lieu le 18 avril 2018, près de trois ans avant que l'appelant dépose l'avis de la présente requête. Par conséquent, comme je l'ai expliqué précédemment dans mon analyse de la règle de la nouvelle mesure, il n'y a pas lieu que j'examine ces quatre hypothèses de fait, car l'article 8 des Règles empêche l'appelant d'avoir gain de cause dans la présente requête.
+[55] N'eût été le temps qui s'est écoulé avant que l'appelant dépose la présente requête, et si je devais décider si l'article 53 des Règles permet la radiation des alinéas 15cc), 15pp), 15tt) et 15aaa), je pencherais sans doute en faveur de l'approche prise par la juge Miller dans Kossow qui a déclaré ce qui suit relativement à certains actes de procédure dont on a établi, durant l'interrogatoire préalable du représentant de la Couronne, qu'ils étaient inexacts :
+[11] L'avocat de l'intimée admet qu'il y a une erreur à l'alinéa 39e). Sa thèse est que les actes de procédure peuvent être modifiés avec l'autorisation de la Cour. À titre subsidiaire, il affirme que l'alinéa peut demeurer comme il est. L'appelante dispose de l'aveu de l'intimée que l'alinéa est inexact et il ne peut lui être opposé au procès.
+[12] [...] Je suis toutefois d'accord avec l'avocat de l'intimée pour dire que l'appelante dispose de l'aveu que l'alinéa 39e) comporte une inexactitude et que cet aveu ne peut être invoqué contre elle lors de l'instruction du présent appel. Je ne vois pas l'utilité à ce moment‑ci d'accorder d'autres réparations [61] .
+[56] Bien que l'avocat de l'intimée n'ait pas reconnu, lors de la présente requête, que les alinéas 15cc), 15pp), 15tt) et 15aaa) comportaient des erreurs, le principe général énoncé par la juge Miller s'applique toujours. L'appelant dispose des précisions apportées par le représentant et l'avocat de l'intimée et il pourrait les exposer au juge du procès en versant au dossier les extraits de la transcription de l'interrogatoire préalable.
+F. Observations retirées
+1) Observation relative aux pertes en capital
+[57] Au paragraphe 12 de la réponse (ainsi que de la réponse modifiée et de la seconde réponse modifiée), l'intimée a indiqué que l'appelant avait déclaré des pertes en capital de 6 289 014 $ pour l'année d'imposition 2011. Aux alinéas 15kkk) et 15lll) de la réponse, l'intimée a indiqué que le ministre avait supposé que l'appelant n'avait pas subi de pertes en capital de 6 289 014 $ durant l'année d'imposition 2011 et que l'appelant n'avait pas fourni de renseignements étayant ces pertes. À l'alinéa 30a) de la réponse (ainsi que de la réponse modifiée et de la seconde réponse modifiée), l'intimée a indiqué qu'une des questions en litige dans l'appel était de savoir si l'appelant avait subi des pertes en capital de 6 289 014 $.
+[58] Dans une lettre commune du 13 septembre 2019 signée par les avocats de l'intimée et de l'appelant, les parties ont informé la Cour de ce qui suit :
+[TRADUCTION]
+Les parties travaillent sans relâche en vue de régler les questions en litige dans l'appel. Les parties ont réalisé d'importants progrès en vue de parvenir à un règlement. En ce qui concerne les pertes en capital de 6 289 014 $, à savoir les « pertes en capital » visées au paragraphe 12 de la réponse ainsi que dans l'énoncé des questions en litige dans l'appel à l'alinéa 30a) de la réponse, la Couronne a accepté de reconnaître les pertes en capital. En conséquence, la Couronne n'invoquera pas les alinéas 15kkk) et 15lll) de la réponse. Comme cette concession ne règle pas complètement l'appel, les parties conviennent que toute nouvelle cotisation reconnaissant les pertes en capital sera établie après le règlement définitif de l'appel. Les modalités de la concession de la Couronne relativement à la question des pertes en capital ont été ratifiées par écrit par les parties [62] .
+[59] Durant l'audition de la présente requête, l'avocat de l'intimée a informé la Cour que l'intimée maintenait sa concession sur la question des pertes en capital et qu'elle avait l'intention de déposer un consentement à jugement partiel pour reconnaître les pertes en capital. Ce document, intitulé [TRADUCTION] « Consentement au règlement partiel de l'appel », a été déposé le 9 mars 2021. La Cour a rendu un jugement partiel fondé sur le consentement le 17 mars 2021.
+[60] Compte tenu des commentaires formulés par les avocats des deux parties dans l'extrait précité de la lettre du 13 septembre 2019, et puisque l'intimée a confirmé sa concession lors de l'audition de la présente requête, je ne vois pas la nécessité de radier les alinéas 15kkk), 15lll) et 30a) (les passages relatifs aux pertes en capital) de la seconde réponse modifiée. Le principe qui s'applique en l'espèce est semblable à celui que la juge Miller a énoncé dans Kossow et qui a été exposé précédemment [63] . L'appelant dispose de la concession faite par l'intimée relativement aux pertes en capital, cette concession ayant été faite par écrit et versée au dossier, et il pourrait la présenter au juge du procès si cela était nécessaire (cela ne devrait toutefois pas l'être, étant donné le consentement récemment déposé et le jugement partiel récemment rendu). Qui plus est, je suis d'avis que rendre une ordonnance radiant les passages relatifs aux pertes en capital de la seconde réponse modifiée ne constituerait pas un emploi judicieux ou prudent des ressources judiciaires limitées [64] .
+2) Observations relatives à l'abri fiscal
+[61] Les alinéas 15eee), 15fff), 15hhh), 15iii) et 15jjj) de la réponse (ainsi que de la réponse modifiée et de la seconde réponse modifiée) énoncent des hypothèses de fait formulées par le ministre pour étayer le fait que les opérations constituaient un abri fiscal et que les promoteurs de ces opérations n'ont pas fait de demande en vue d'obtenir un numéro d'inscription d'abri fiscal. Au paragraphe 31 de la réponse (ainsi que de la réponse modifiée et de la seconde réponse modifiée), il est indiqué que le procureur général invoque notamment l'article 237.1 de la Loi de l'impôt sur le revenu [65] .
+[62] Lors de l'interrogatoire préalable de la représentante de l'intimée le 18 avril 2018, l'échange suivant a eu lieu entre les avocats :
+[TRADUCTION]
+[Avocat de l'appelant, s'adressant à l'avocate de l'intimée] : Me [...], la Couronne a‑t‑elle l'intention d'aller de l'avant — en ce qui a trait à l'allégation et aux observations au sujet de l'abri fiscal pour l'année d'imposition 2011 de M. Chad?
+[Avocate de l'intimée] : À l'heure actuelle, la réponse ne fait état d'aucun motif invoqué au sujet de l'abri fiscal, et cela est conforme aux directives que nous avons reçues lors de la rédaction de la réponse, à savoir que nous n'avons pas fait valoir cette thèse. Nous avons effectivement des hypothèses de fait relativement à la thèse de l'abri fiscal, car, comme vous pourrez le constater des renseignements qui ont été communiqués à M. Chad lors de la vérification, la thèse de l'abri fiscal fut l'un des aspects examinés pour l'établissement de la cotisation. Cependant, et comme il s'agissait d'hypothèses, le ministre a formulé des hypothèses relatives à la thèse de l'abri fiscal; celles‑ci sont bien sûr énoncées en tant qu'hypothèses, mais la thèse juridique énoncée dans la réponse ne comporte aucun élément lié à la thèse de l'abri fiscal. Nous vous informerons évidemment si cela devait changer et, si nous devions faire valoir cette thèse, il faudra selon nous modifier la réponse [66] .
+[63] Entre cet interrogatoire préalable et l'audition de la présente requête, l'intimée n'a pas indiqué que sa position avait changé, ni n'a cherché à modifier la réponse (ou la réponse modifiée ou la seconde réponse modifiée) afin d'y ajouter des motifs étayant l'argument relatif à l'abri fiscal. L'appelant demande malgré tout la radiation des alinéas 15eee), 15fff), 15hhh), 15iii) et 15jjj) ainsi que du paragraphe 31 (les passages relatifs à l'abri fiscal). Durant l'audition de la présente requête, l'avocat de l'intimée a indiqué que l'intimée n'invoquera pas l'abri fiscal lors du procès et qu'elle pouvait accepter que l'alinéa 15iii) soit radié. L'intimée était toutefois d'avis que certains passages relatifs à l'abri fiscal demeuraient pertinents, car ils portaient également sur les arguments de l'intimée relatifs au trompe‑l'oeil et à la disposition générale anti‑évitement.
+[64] Le 29 juin 2021, l'intimée a, de façon inattendue, déposé un avis de requête demandant l'autorisation de déposer une troisième réponse modifiée afin, notamment, d'ajouter d'autres faits au sujet de l'abri fiscal et d'autres moyens que l'intimée entend maintenant invoquer. En raison des déclarations faites par l'avocat de l'intimée lors de l'audition de la présente requête, je fus moi‑même surpris des modifications qu'on venait de proposer relativement à l'abri fiscal.
+[65] N'eût été le dépôt récent de l'avis de requête de l'intimée demandant l'autorisation de déposer une troisième réponse modifiée, j'aurais été enclin, pour des motifs comparables à ceux énoncés relativement aux pertes en capital, à affirmer explicitement que les passages relatifs à l'abri fiscal ne devraient pas être radiés. Ces motifs auraient plus précisément prévu ce qui suit :
+a) La thèse de l'intimée concernant l'abri fiscal a été énoncée lors de l'interrogatoire préalable tenu le 18 avril 2018, près de trois ans avant que l'appelant dépose la présente requête.
+b) Puisqu'on l'avait affirmé lors de l'interrogatoire préalable et de l'audition de la présente requête, l'appelant savait que l'intimée ne comptait pas invoquer l'argument de l'abri fiscal [67] .
+c) En raison de ce qui précède, la radiation des passages sur l'abri fiscal n'aurait pas été une utilisation judicieuse ou prudente des ressources judiciaires limitées.
+Cependant, comme l'intimée a récemment présenté un avis de requête en vue d'obtenir l'autorisation de déposer une troisième réponse modifiée, je préfère maintenant m'abstenir de faire tout commentaire définitif quant à la radiation ou non des passages relatifs à l'abri fiscal (à l'exception de la décision que j'ai déjà rendue de ne pas radier en raison de l'article 8 des Règles), tant que la requête de l'intimée n'aura pas été entendue.
+IV. CONCLUSION
+[66] La requête de l'appelant est rejetée avec dépens payables par l'appelant à l'intimée.
+[67] Si les parties n'arrivent pas à parvenir à un accord sur les dépens dans un délai de 30 jours suivant la date de l'ordonnance portant sur la présente requête, l'intimée peut, dans les 30 jours suivants, déposer des observations écrites sur les dépens, après quoi l'appelant disposera d'un délai de 30 jours pour déposer sa réponse écrite. Les observations des parties n'excéderont pas cinq pages. Si les parties n'informent pas la Cour qu'elles sont parvenues à un accord et ne déposent pas d'observations dans les délais impartis, les dépens payables par l'appelant à l'intimée seront établis conformément au tarif.
+Signé à Ottawa, Canada, ce 29e jour de juillet 2021.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+RÉFÉRENCE :
+2021 CCI 45
+NO DU DOSSIER DE LA COUR :
+2017-1458(IT)G
+INTITULÉ :
+S. ROBERT CHAD c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Ottawa, Canada
+DATES DE L'AUDIENCE :
+Les 27 et 28 janvier 2021
+MOTIFS DE L'ORDONNANCE :
+L'honorable juge Don R. Sommerfeldt
+DATE DE L'ORDONNANCE :
+Le 29 juillet 2021
+COMPARUTIONS :
+Avocats de l'appelant :
+Me Guy Du Pont, Ad.E.
+Me Dov Whitman
+Me James Trougakas
+Avocats de l'intimée :
+Me Charles Camirand
+Me Shane Aikat
+Me Grant Nash
+Me Bryn Frape
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Me Guy Du Pont, Ad.E.
+Me Dov Whitman
+Me James Trougakas
+Cabinet :
+Davies Ward Phillips & Vineberg S.E.N.C.R.L., s.r.l.
+Pour l'intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Avis d'appel modifié déposé le 8 octobre 2020, p. 1, partie c), par. 1 à 4.
+[2] Seconde réponse modifiée déposée le 16 novembre 2020, p. 12, al. 15eee).
+[3] L'avis de nouvelle cotisation du 23 septembre 2016 faisait état de la nouvelle cotisation susmentionnée au paragraphe 4.
+[4] Au paragraphe 14 de l'avis d'appel modifié, l'appelant a indiqué avoir déposé l'avis d'opposition le 15 octobre 2016. Au paragraphe 14 de la seconde réponse modifiée, l'intimée a indiqué que le ministre avait reçu l'avis d'opposition de l'appelant le 14 octobre 2016.
+[5] Voir la Directive sur la procédure et ordonnance du 16 mars 2020.
+[6] Voir l'alinéa 7(o) ci-dessus.
+[7] Voir l'alinéa 7(aa) qui précède.
+[8] Au début de l'audition de la requête visée par les présents motifs, l'avocat de l'intimée a retiré la requête enjoignant à l'appelant de répondre à certaines questions et de satisfaire à certains engagements.
+[9] J'exprime mes réflexions au sujet de l'ordonnance du juge Favreau du 5 novembre 2020 aux paragraphes 47 et 49 qui suivent.
+[10] Je suis d'avis que l'appelant aurait dû obtenir l'autorisation de la Cour, comme l'exige l'article 8 des Règles, avant de présenter la présente requête. Je ne fonde toutefois pas mon rejet de la présente requête sur le défaut d'obtenir cette autorisation. Mon rejet repose plutôt principalement sur les restrictions imposées par les alinéas a) et b) de l'article 8 des Règles, ainsi qu'il est expliqué dans les présents motifs.
+[11] Okoroze c. La Reine, 2012 CCI 360, par. 15, et Kossow c. La Reine, 2008 CCI 422, par. 20, conf. par 2009 CAF 83, par. 16.
+[12] Dilalla c. La Reine, 2020 CAF 39, par. 8. Voir aussi Kossow (C.C.I.), précité (note 11), par. 20 à 22, et Kossow (C.A.F.), précité (note 11), par. 17 et 18.
+[13] Nous discuterons ci‑après du paragraphe 5.1 de la seconde réponse modifiée, sous l'intertitre renvoyant à cette disposition, et de l'alinéa 5.2b) de la seconde réponse modifiée sous l'intertitre « Les allégations de trompe‑l'oeil ».
+[14] Kossow (C.C.I.), précité (note 11), par. 21, qui cite Vogo Inc. c. Acme Window Hardware Ltd., 2004 CF 851, par. 60.
+[15] Kossow (C.C.I.), précité (note 11), par. 22, qui cite Imperial Oil Limited c. La Reine, 2003 CCI 46, par. 20.
+[16] Bryan A. Garner (réd.), Black's Law Dictionary, 10e éd. (St. Paul, Thomson Reuters, 2014), p. 1340, définit le terme « plead over » (répondre) comme suit : [TRADUCTION] « Le défaut de relever une allégation irrégulière dans l'acte de procédure de la partie adverse avant d'y répondre. » Je reconnais que l'avis d'appel modifié n'a pas été déposé en réaction à la réponse ou à la réponse modifiée. Cependant, s'il y avait des irrégularités dans la réponse et la réponse modifiée, l'appelant ne les a pas relevées ou ne les a pas contestées avant de déposer son avis d'appel modifié.
+[17] Transcription de l'interrogatoire préalable de Parmpal Sandhu le 18 avril 2018, p. 102, lignes 4 à 11, soit la pièce A jointe à l'affidavit d'Arianna Yoffe du 26 octobre 2020 déposé le même jour par l'appelant.
+[18] Voir Stubart Investments Limited c. La Reine, [1984] 1 R.C.S. 536, aux pp. 539, 572 et 573.
+[19] Observations écrites de l'intimée du 29 juillet 2020 et déposées le même jour, par. 9.
+[20] Ibid., par. 18.
+[21] Avis de requête du 14 décembre 2020 et déposé le même jour, par. II.4 et II.5; Notes et jurisprudence de l'appelant — Requête en radiation de passages de la seconde réponse modifiée de l'intimée du 26 janvier 2021, par. 6, 9 et 10.
+[22] Avis de requête du 14 décembre 2020 et déposé le même jour, par. II.5.
+[23] Ordonnance du juge Favreau du 20 novembre 2020, p. 2.
+[24] Avis de requête du 14 décembre 2020 et déposé le même jour, par. II.4.
+[25] Notes de l'appelant, précitées (note 21), p. 4, par. 11.
+[26] Leckie Morel c. La Reine, 2008 CCI 433, par. 11.
+[27] Burlington Resources Finance Company c. La Reine, 2020 CCI 32, par. 80.
+[28] Continental Bank Leasing Corporation v. The Queen, 93 D.T.C. 298, no 93‑684(IT), 4 février 1993 (C.C.I.), par. 22.
+[29] Voir Burlington Resources Finance, précité (note 27), par. 82. Voir aussi Paletta c. La Reine, 2019 CCI 205, par. 102 et 103.
+[30] Penner c. Niagara (Commission régionale de services policiers), [2013] 2 R.C.S. 125, 2013 CSC 19, par. 29 et 88.
+[31] Ibid., par. 89.
+[32] Ibid., par. 29 et 93.
+[33] Angle c. Ministre du Revenu national, [1975] 2 R.C.S. 248, p. 254, qui cite Carl Zeiss Stiftung v. Rayner & Keeler Ltd. (No. 2), [1967] 1 A.C. 853, p. 935. Voir aussi Danyluk c. Ainsworth Technologies Inc., [2001] 2 R.C.S. 460, 2001 CSC 44, par. 25, Toronto (Ville) c. S.C.F.P., section locale 79, [2003] 3 R.C.S. 77, 2003 CSC 63, par. 23, Penner, précité (note 30), par. 92, et Havaris c. Procureur général du Canada, 2021 CAF 124, par. 10.
+[34] Angle, précité (note 33), p. 255, qui cite Hoystead v. Federal Commissioner of Taxation, (1921), 29 C.L.R. 537, [1926] A.C. 155 (H.C. Aust.). Voir également Danyluk, précité (note 33), par. 24.
+[35] Angle, précité (note 33), p. 267 et 268, qui cite McIntosh v. Parent, (1924) 55 O.L.R. 552, p. 555. Voir aussi Danyluk, précité (note 33), par. 24, qui cite McIntosh v. Parent, 1924 CanLII 401, [1924] 4 D.L.R. 420, p. 422.
+[36] Voir McIntosh v. Parent, précité (note 35), cité dans l'arrêt Angle, précité (note 33), pp. 267 et 268, et dans Danyluk, précité (note 33), par. 24.
+[37] Voir Angle, précité (note 33), p. 255.
+[38] Ibid.
+[39] Danyluk, précité (note 33), par. 33 et 62. Voir aussi Wamboldt v. Wellman, 2007 CanLII 57092, [2007] O.J. No. 5063 (QL) (C. div. Ont.), par. 30 et 31, et Penner, précité (note 30), par. 29, 30 et 93.
+[40] General Motors of Canada Limited c. Naken, [1983] 1 R.C.S. 72, p. 101, cité dans Danyluk, précité (note 33), par. 62. Dans l'arrêt General Motors, le juge Estey a commenté le pouvoir discrétionnaire des tribunaux dans le cas du moyen de défense de la chose jugée (res judicata). La préclusion découlant d'une question déjà tranchée est un type de chose jugée; voir Penner, précité (note 30), par. 91.
+[41] Penner, précité (note 30), par. 31 et 93.
+[42] Canada c. Loewen, [2004] 4 R.C.F. 3, 2004 CAF 146, par. 50, infirmant 2003 CCI 101. Voir aussi Strother c. La Reine, 2011 CCI 251, par. 54.
+[43] Dans l'arrêt Loewen, la juge Sharlow a indiqué qu'il peut y avoir des cas où l'emploi des mots « prétendu » et « prétendument » peut donner lieu à un acte de procédure ambigu ou trompeur, et donc à un acte de procédure fautif (voir les paragraphes 51 et 52). Je suis d'avis qu'il ne s'agit pas ici de l'un de ces cas.
+[44] Le paragraphe 9 de l'ordonnance du 24 septembre 2020 apparaît au paragraphe 45 qui suit.
+[45] Le paragraphe 34 de la seconde réponse modifiée renferme un passage semblable, dont le libellé exact est [TRADUCTION] « si les opérations sur devises présumées n'étaient pas un trompe‑l'oeil », et dont la requête demandait également la radiation. Comme je l'ai mentionné précédemment, le passage figurait à la fois dans la réponse et la réponse modifiée, et j'ai déjà conclu que la règle de la nouvelle mesure empêche l'appelant d'avoir gain de cause sur ce point. De plus, les commentaires formulés au paragraphe 39 des présents motifs s'appliquent aux passages contestés au paragraphe 34 et à l'alinéa 5.2b) de la seconde réponse modifiée.
+[46] Voir le paragraphe 33 qui précède.
+[47] Canada c. Anchor Pointe Energy Ltd, 2003 CAF 294, [2004] 1 R.C.F. F‑5, par. 25, et Banque Canadienne Impériale de Commerce c. Canada, 2013 CAF 122, [2013] 3 R.C.F. F‑17, par. 92 et 93. Dans Strother, précité (note 42), par. 10 et 11, le juge en chef Rip a indiqué qu'énoncer une conclusion de droit constitue une irrégularité. Voir aussi AgraCity Ltd. c. La Reine, 2015 CAF 288, par. 40 et 41, où la Cour d'appel fédérale a indiqué que la question de savoir si certains faits mèneraient à la conclusion qu'une opération ou une série d'opérations constitue un trompe-l'œil est une question mixte de droit et de fait qu'on ne peut énoncer comme hypothèse de fait. Il faut plutôt dégager les faits de cette question mixte.
+[48] Anchor Pointe, précité (note 47), par. 26.
+[49] BCIC, précité (note 47), par. 93, et Strother, précité (note 42), par. 19.
+[50] BCIC, précité (note 47), par. 92 et 93, et Strother, précité (note 42), par. 32.
+[51] BCIC, précité (note 47), par. 93, Strother, précité (note 42), par. 32, et Bemco Confectionery and Sales Ltd. c. La Reine, 2015 TCC 48, par. 40 et 41.
+[52] Voir les paragraphes 13 à 17 qui précèdent.
+[53] Gerbro Holdings Company c. La Reine, 2016 CCI 173, par. 67 et 68, conf. par 2018 CAF 197. La juge en chef adjointe Lamarre a cité un passage de la décision Kopstein v. The Queen, 2010 TCC 448, par. 67 et 68.
+[54] À ce moment, je suis le juge désigné pour le présent appel. Si cette affectation est maintenue, lors du procès, j'entends suivre les directives données dans les décisions Kopstein et Gerbro Holdings.
+[55] Observations écrites de l'intimée du 22 octobre 2020 déposées le même jour, p. 4, par. 16.
+[56] Les paragraphes contestés qui ont été radiés ne sont pas pertinents à la présente requête.
+[57] Notes de l'appelant, précitées (note 21), p. 7, par. 20.
+[58] Ibid., par. 23.
+[59] BCIC, précité (note 47), par. 94.
+[60] Duquette c. La Reine, 93 D.T.C. 833 (C.C.I.), par. 14, qui cite un extrait de Burnaby Machine & Mill Equipment Ltd. v. Berglund Industrial Supply Co. (1982), 64 C.P.R. (2d) 206 (C.F. 1re inst.). Voir aussi R. c. Imperial Tobacco Canada Ltée, [2011] 3 R.C.S. 45, 2011 CSC 42, par. 17, et BCIC, précité (note 47), par. 7, qui confirment tous deux ce qu'on appelle parfois le critère du caractère « évident et manifeste ».
+[61] Kossow (C.C.I.), précité (note 11), par. 11 et 12. La contribuable n'a pas interjeté appel à la Cour d'appel fédérale de la décision rendue par la juge Miller sur cette question précise.
+[62] Lettre à la Cour du 13 septembre 2019 des avocats de l'intimée et de l'appelant, pp. 1 et 2.
+[63] Kossow (C.C.I.), précité (note 11), par. 11 et 12, et voir le paragraphe 55 qui précède.
+[64] Voir La coopérative de transport maritime et aérien c. Syndicat des Métallos, section locale 9538, 2015 CAF 287, par. 8(b), Express File, Inc. c. HRB Royalty Inc., 2004 CAF 341, [2005] 4 R.C.F. F‑11, par. 3, et Wood c. La Reine, 1999 CanLII 540 (C.C.I.), par. 11.
+[65] Loi de l'impôt sur le revenu, L.R.C. (1985), ch. 1 (5e supplément), en sa version modifiée.
+[66] Transcription de l'interrogatoire préalable du 18 avril 2018, de la page 18, ligne 11, à la page 19, ligne 5, pièce A de l'affidavit de Michelle Fung du 14 décembre 2020 déposé le même jour par l'appelant.
+[67] Il semble que l'intimée ait récemment changé d'avis et qu'elle souhaite maintenant revenir sur la thèse exposée lors de l'interrogatoire préalable et de l'audition de la présente requête.

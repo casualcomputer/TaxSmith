@@ -1,0 +1,187 @@
+Title: Pakarinen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29977/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-456-29977-pakarinen-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-09-10
+
+# Pakarinen v. The Queen
+
+- Citation: 2010 TCC 456
+- Decision date: 2010-09-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6460, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pakarinen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-09-10
+Neutral citation
+2010 TCC 456
+File numbers
+2009-593(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-593(IT)I
+BETWEEN:
+HAROLD A. PAKARINEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 25, 2010, at Kenora, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Cameron G. Regehr
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2007 Taxation Year is dismissed, without costs.
+Signed at Vancouver, British Columbia, this 10th day of September 2010.
+“L.M. Little”
+Little J.
+Citation: 2010 TCC 456
+Date: September 10, 2010
+Docket: 2009-593(IT)I
+BETWEEN:
+HAROLD A. PAKARINEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellant resides in Wabigoon, Ontario.
+[2] The Appellant has suffered from seizure episodes since 2003.
+[3] In a Medical Report dated May 7, 2008, Dr. M.A. Cortens, a physician in Dryden, Ontario, made the following comment about the Appellant’s medical condition:
+… For the most part he experiences petit mal, but he has experienced the occasional grand mal seizure. He experiences, on average, three petit mal seizures a day.
+[4] When the Appellant filed his income tax return for the 2007 Taxation Year, he claimed $6,890 of non-refundable tax credits.
+[5] The Minister of National Revenue (the “Minister”) did not allow any of the tax credits claimed by the Appellant.
+[6] The Appellant filed a Notice of Objection and the Minister issued a Notification of Confirmation on February 2, 2009.
+[7] The Appellant filed a Notice of Appeal to the Tax Court on February 23, 2009.
+B. ISSUE
+[8] The issue is whether the Appellant is allowed to deduct the amount of $6,890 as disability tax credits, pursuant to paragraph 118.4(1)(b) of the Income Tax Act (the “Act”).
+C. ANALYSIS AND DECISION
+[9] The disability tax credit provided for in section 118.3 of the Act is a non‑refundable tax credit that may be claimed by an individual who suffers from one or more severe and prolonged impairments in mental or physical functions.
+[10] Subsections 118.4(1) and (2) contain rules which explain what is covered by the words “mental or physical impairment”. Subsections 118.4(1) and (2) read as follows:
+(1) Nature of Impairment. For the purposes of subsection 6(16), sections 118.2 and 118.3 and this subsection,
+(a) an impairment is prolonged where it has lasted, or can reasonably be expected to last, for a continuous period of at least 12 months;
+(b) an individual's ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is blind or is unable (or requires an inordinate amount of time) to perform a basic activity of daily living;
+(b.1) an individual is considered to have the equivalent of a marked restriction in a basic activity of daily living only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual's ability to perform more than one basic activity of daily living (including for this purpose, the ability to see) is significantly restricted, and the cumulative effect of those restrictions is tantamount to the individual's ability to perform a basic activity of daily living being markedly restricted;
+(c) a basic activity of daily living in relation to an individual means
+(i) mental functions necessary for everyday life,
+(ii) feeding oneself or dressing oneself,
+(iii) speaking so as to be understood, in a quiet setting, by another person familiar with the individual,
+(iv) hearing so as to understand, in a quiet setting, another person familiar with the individual,
+(v) eliminating (bowel or bladder functions), or
+(vi) walking;
+(c.1) mental functions necessary for everyday life include
+(i) memory,
+(ii) problem solving, goal-setting and judgement (taken together), and
+(iii) adaptive functioning;
+(d) for greater certainty, no other activity, including working, housekeeping or a social or recreational activity, shall be considered as a basic activity of daily living;
+(e) feeding oneself does not include
+(i) any of the activities of identifying, finding, shopping for or otherwise procuring food, or
+(ii) the activity of preparing food to the extent that the time associated with the activity would not have been necessary in the absence of a dietary restriction or regime; and
+(f) dressing oneself does not include any of the activities of identifying, finding, shopping for or otherwise procuring clothing.
+(2) Reference to medical practitioners, etc. For the purposes of sections 63, 64, 118.2, 118.3 and 118.6, a reference to an audiologist, dentist, medical doctor, medical practitioner, nurse, occupational therapist, optometrist, pharmacist, physiotherapist, psychologist, or speech-language pathologist is a reference to a person authorized to practise as such,
+(a) where the reference is used in respect of a service rendered to a taxpayer, pursuant to the laws of the jurisdiction in which the service is rendered;
+(b) where the reference is used in respect of a certificate issued by the person in respect of a taxpayer, pursuant to the laws of the jurisdiction in which the taxpayer resides or of a province; and
+(c) where the reference is used in respect of a prescription issued by the person for property to be provided to or for the use of a taxpayer, pursuant to the laws of the jurisdiction in which the taxpayer resides, of a province or of the jurisdiction in which the property is provided.
+[11] The Appellant said that he suffers from petit mal seizures (sometimes one or more a day) and grand mal seizures one or two times per year.
+[12] As a result of the seizures, the Appellant’s driver’s licence was revoked by the Province of Ontario. However, the Appellant said that it is not just his ability to drive a vehicle,
+… [i]t’s my ability to concentrate and it’s my memory, …
+(Transcript, page 21, line 14)
+[13] In argument, the Appellant said that the statement by the Canada Revenue Agency (the “CRA”) of his disability was either too limited or too vague (Transcript, page 34, lines 7 - 8).
+[14] During the hearing, Counsel for the Respondent filed a copy of a letter to Dr. Cortens from J. Preston of the CRA dated April 25, 2008 (Exhibit R-1).
+[15] The letter from Mr. Preston contained a copy of a questionnaire which Mr. Preston asked Dr. Cortens to complete. The questions asked and the answers supplied by Dr. Cortens were:
+Question: Can your patient perform daily living skills (e.g., simple chores, personal hygiene, go out in the community, make simple purchases) without the assistance/supervision of another person?
+Answer: YES X NO -
+Question: Please explain and indicate if assistance/supervision is required.
+Answer: However, he is unable to drive, he lives in the country and so he requires someone to drive him into town to perform tasks in the community.
+Question: Can your patient make appropriate decisions and judgements in day‑to‑day situations?
+Answer: YES X NO -
+Question: Please explain and indicate any safety concerns, if applicable.
+Answer: However, there are some safety concerns because he does experience seizures, at which time he is not conscious of what is going on. During those times, he is unable to make any decisions as he essentially loses consciousness.
+Question: Does your patient require frequent reminders or excessive use of memory aids on a daily basis (e.g., step by step instructions to perform routine activities, or detailed written instructions to get to familiar places)?
+Answer: YES - NO X
+Question: Can your patient live independently (WITHOUT daily supervision from family or the community)?
+Answer: YES X NO -
+Question: Does your patient require an “inordinate amount of time” to perform the mental functions necessary for everyday life by himself/herself, using as needed, any appropriate therapy, medications, and devices?
+[Emphasis added]
+NOTE: To meet the requirement for an “inordinate amount of time”, the mental functions necessary for everyday life must take significantly more time than would be taken by an average person who does not have the impairment.
+Answer: YES - NO X
+[Emphasis added]
+Question: Please state the frequency, type and duration of your patient’s seizure episodes.
+Answer: For the most part he experiences petit mal, but he has experienced the occasional grand mal seizure. He experiences, on average, three petit mal seizures a day.
+Question: Are these episodes controlled with medication?
+Answer: YES - NO X
+Question: Please explain.
+Answer: The patient has been on numerous medications over the years including Tegretol, Lamictal, Epival, Topamax, Lamotrigine, and in spite of this we have not been able to obtain control of his seizures. Recently he has been started on Keppra.
+Question: To the best of your knowledge are the limitations described in the previous questions present all or substantially all the time?
+Dr. Cortens did not “tick off” the YES or NO box. However, he stated:
+As mentioned, when he is having seizures, he loses consciousness and is not able to do anything that requires any cognitive function. At other times he is able to make decisions.
+Question: If yes, please state the year(s) or period(s) of time for which that was the case.
+Answer: 2003
+Question: Please give any comments that may help to clarify the effects of your patient’s impairment as it restricts his/her mental functions necessary for everyday life.
+Answer: The patient has frequent seizure episodes during which time he is totally disabled.
+Question: Please state the approximate year when your patient began having severe functional limitations.
+Answer: 2003
+Question: Is your patient’s ability to perform the mental functions necessary for everyday life likely to improve?
+Answer: YES - NO X
+Question: What is the nature of your patient’s impairment?
+Answer: Prolonged seizure disorder.
+Question: Has your patient’s impairment lasted, or is it expected to last, for a continuous period of at least 12 months?
+Answer: YES X NO -
+I believe that it is necessary for me to comment upon some of the answers provided by Dr. Cortens in the questionnaire. I cite the following:
+1. Question
+Can your patient perform daily living skills (e.g. simple chores, personal hygiene, go out in the community, make simple purchases) without the assistance/supervision of another person?
+Dr. Cortens answered YES.
+2. Question
+Does your patient require frequent reminders or excessive use of memory aids on a daily basis (e.g. step by step instructions to perform routine activities, or detailed written instructions to get to familiar places?
+Dr. Cortens answered NO.
+3. Question
+Can your patient live independently (without daily supervision from family or the community)?
+Dr. Cortens answered YES.
+4. Question
+Does your patient require an “inordinate amount of time” to perform the mental functions necessary for everyday life by himself/herself, using as needed, any appropriate therapy, medications and devices?
+Dr. Cortens answered NO.
+Based upon my analysis of the above answers, I have concluded that the Appellant is able to perform the mental functions necessary for everyday life without taking an inordinate amount of time (possibly with the use of appropriate therapy, medications and devices).
+[16] Counsel for the Minister referred to the decision of the Federal Court of Appeal in A.G. of Canada v. MacIsaac et. al., 2000 D.T.C. 6020. In that decision, Sexton, JJ.A. said, at paragraph 5:
+[5] … Section 118.3(1)(a.2) of the Income Tax Act is not merely directory. It is mandatory. Simply put, there must be a certificate by the doctor that the individual suffers impairments in the language of these subsections. …
+[17] Based on the answers provided by Dr. Cortens in the questionnaire, I have concluded that the requirements for the disability tax credit contained in subsection 118.1(1) are not met in this case. In my opinion, the Appellant is not entitled to claim a non-refundable disability tax credit for the 2007 Taxation Year.
+[18] The appeal is dismissed without costs.
+Signed at Vancouver, British Columbia, this 10th day of September 2010.
+“L.M. Little”
+Little J.
+CITATION: 2010 TCC 456
+COURT FILE NO.: 2009-593(IT)I
+STYLE OF CAUSE: HAROLD A. PAKARINEN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Kenora, Ontario
+DATE OF HEARING: June 25, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: September 10, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Cameron G. Regehr
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

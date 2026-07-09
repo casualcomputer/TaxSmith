@@ -1,0 +1,197 @@
+---
+title: "Cormier v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25616/index.do"
+last_modified: "2007-02-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 88"
+citation2: ""
+neutral_citation: "2007 TCC 88"
+decision_date: "2007-02-19"
+language: "en"
+item_id: "25616"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2423
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:23:35.460000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ed14b6dc87254f4810ed0edcb778f69aa5ee35d6800f4a83861e8b591089865c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cormier v. The Queen
+
+- Citation: 2007 TCC 88
+- Decision date: 2007-02-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2423, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cormier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-02-19
+Neutral citation
+2007 TCC 88
+File numbers
+2003-4404(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4404(IT)G
+BETWEEN:
+JOANNE CORMIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on June 20, 2006, at Moncton, New Brunswick
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Guy G. Couturier
+Counsel for the Respondent:
+Carole Benoit
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1997, 1998, 1999 and 2000 taxation years are dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 19th day of February 2007.
+« François Angers
+Angers, J.
+Citation: 2007TCC88
+Date: 20070219
+Docket: 2003-4404(IT)G
+BETWEEN:
+JOANNE CORMIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal concerning the appellant's 1997, 1998, 1999 and 2000 taxation years. She was initially assessed for the 2000 taxation year on April 2, 2001, and for the 1997, 1998 and 1999 taxation years on June 14, 2001. The appellant was reassessed on April 3, 2003, for the four taxation years. The Minister of National Revenue (the "Minister") included in the appellant's income child support payments in the amount of $5,700 for the years 1997, 1998 and 1999 and $2,850 for the year 2000 on the basis that she had failed to include those amounts in her tax returns. The appellant was also assessed penalties for repeated late filing for the 1997, 1998 and 1999 taxation years. The appellant having filed a notice of objection, the reassessments were confirmed by the Minister on September 9, 2003.
+[2] The appellant and Roger Poirier were married on July 21, 1984. They had one child, born on July 17, 1989. They separated on August 9, 1996, and both met a mediator for the Court of Queen's Bench of New Brunswick, Family Division to discuss custody, access rights and support for the child. On November 7, 1996, they signed an agreement whereby they would have joint custody of their child and the child's principal residence would be that of her mother. They also agreed that the signed agreement would be the subject of a court order. On November 20, 1996, the Court of Queen's Bench of New Brunswick, Family Division signed an order in accordance with the November 7 written agreement. The relevant paragraph on support reads as follows:
+L'intimé, Roger Poirier, paiera le montant de $ 475.00 par mois envers le soutien de J.P., payable directement à la requérante, le 1er de chaque mois, à partir du 1er novembre, et ce jusqu'à ordonnance contraire de la Cour. Le montant de soutien sera revisé le ou vers le 1er mai 1997.
+[3] According to the appellant, the last sentence of the above paragraph was worded as such in order to take into account the new guidelines that were expected in May of 1997. Roger Poirier began making the payments on December 1, 1996, and, according to the appellant, made his last payment on May 1, 1997. The appellant says that he never paid on the first of each month and that payments were often made in two instalments. She further testified that she and her husband orally agreed that the payments beyond May 1997 were to be made under the new guidelines, and that she received, on average, $375 per month, which amount included reimbursement for day care.
+[4] The appellant retained counsel in March 1997. In a letter she wrote to Mr. Poirier's counsel on March 24, 1997, the appellant's counsel indicated that custody, maintenance and the division of marital assets and debts as well as the family residence had been agreed upon. The only remaining issue was the division of the appellant's pension with her employer, and an offer was made with respect thereto along with a request that a separation agreement be drafted to include, inter alia, a provision that custody and maintenance be determined in accordance with the consent order of November 20, 1996. Mr. Poirier's counsel replied on May 1. His letter dealt with other contentious issues but contained nothing on maintenance for the child other than an undertaking by Mr. Poirier to obtain life insurance, the proceeds of which were to be held in trust and used to make the monthly child maintenance payments in case of his death. Both parties subsequently agreed on these other matters. On July 10, 1997, Mr. Poirier's counsel again wrote to the appellant's counsel, this time to advise her that he was in the process of obtaining from Mr. Poirier the requisite financial information regarding his income so that the support issue could be adjudicated upon pursuant to the new guidelines.
+[5] The appellant signed a domestic contract (separation agreement) on July 21, 1997. In the covering letter accompanying the contract her counsel referred to child support and requested that Mr. Poirier's income tax returns for the previous three years be sent. She also proposed that the day care cost of $75, which had been paid entirely by the appellant till then, be shared equally by Mr. Poirier and the appellant and again that child support be in accordance with the new guidelines. The domestic contract was signed by Mr. Poirier on August 28, 1997. The covering letter from Mr. Poirier's counsel to the appellant's counsel included information regarding Mr. Poirier's tax returns from 1994 to 1996 and his current rate of pay. He requested from the appellant's counsel confirmation that the appellant would agree to the "charted" amount of support for the child, which were along with the sale of the house, clear up any and all outstanding issues aside from the final divorce.
+[6] The domestic contract reads as follows under the heading "Custody":
+Agreed to pursuant to the Consent order of November 20th, 1996 and annexed hereto as Schedule "A".
+[7] On May 19, 1998, the appellant signed a petition for divorce. In the section dealing with the existing arrangements between the spouses regarding the child, the appellant declares that she is receiving $475 a month (taxable) for the child and that the support arrangements are being complied with. She asks that this amount be reduced to $345 a month but that it be made non-taxable. The petition, though, was served on Mr. Poirier's counsel, on May 6, 1999, almost a year later. The appellant received a letter from her counsel dated May 14, 1999, advising her that the petition had been received by Mr. Poirier's counsel, who would be advising Mr. Poirier to sign a consent order so that the support payable for the child would be in accordance with the support tables.
+[8] A further letter by the appellant's counsel to Mr. Poirier's counsel on August 31, 1999, requested confirmation that Mr. Poirier was willing to sign a consent order regarding child support and providing that the amount thereof would be determined in accordance with the new guidelines on support. Mr. Poirier's counsel replied on September 15, 1999. That letter contained an offer on child support which was forwarded to the appellant on the same day. A further letter by Mr. Poirier's counsel sent on September 30, 1999, proposed changes concerning access with respect to the child and concluded by stating that Mr. Poirier would provide financial statements and tax returns and would pay child support as per the Federal Child Support Guidelines.
+[9] A reply from the appellant's counsel was sent on November 4, 1999. The last two paragraphs of the letter read as follows:
+With respect to child support, you have advised me that you would provide me with your client's financial statement and Income Tax Returns and I would request that you forward same to the undersigned within a period of 7 days.
+Unless I am in possession of these documents, I will have no other choice but to file the Trial Record in order to obtain a court date given that it has been now some time since we have tried to come to an agreement with respect to this issue.
+[10] On November 10, 1999, Mr. Poirier's counsel wrote to the appellant's counsel stating that the parties had agreed on access and that child support would be determined pursuant to the guidelines and on the basis of an income of $39,520 a year, but the amount was to be reduced by 30% as per the parties' agreement. Mr. Poirier was also to be responsible for half of any and all extra expenses for schooling and extracurricular activities for the child and half of the school child care expenses. Enclosed with the letter there was a sworn financial statement by Mr. Poirier in which he indicated a payment of $475 representing part of his monthly child support expense and also an allowance of $100 per month for the child. The letter also contained Mr. Poirier's assessment for the 1996 taxation year, which shows that he deducted $950 from his income for child support for that year (the equivalent of two months of support). Included as well were his 1997 and 1998 income tax returns in which he claimed $5,700 in support payments.
+[11] Yet another letter, dated January 24, 2000, from Mr. Poirier's counsel to the appellant's counsel indicates that their respective clients had agreed to child support in the amount of $228, that is, 70% of $325, payable on a monthly basis. He suggested that other expenses, such as those for child care and extracurricular activities, be settled on an as necessary basis, since they change every month and both parties communicated well enough with each other to be able to handle this themselves. That letter was forwarded to the appellant by her counsel on January 31, 2000, with a request that she confirm whether the proposal was acceptable.
+[12] The reply to the letter of January 24, 2000, came on June 28, 2000. The appellant's counsel wrote that she had met her client and that she would agree to a total child support payment of $350, $200 of which would be payable under a consent order. She requested that Mr. Poirier's counsel draft the consent order as well as a second agreement between the parties wherein Mr. Poirier would agree to pay the sum of $100 per month tax-free on the first of each month until further order of the court.
+[13] A consent order was signed by Mr. Poirier and the appellant on July 18, 2000, and approved by the Court of Queen's Bench on July 25, 2000. The consent order makes reference, inter alia, to support for the child, to the parties' consent order approved by the court on November 20, 1996, and to their agreement to amend the said consent order with respect to the matter of child support payable by Mr. Poirier. Both parties acknowledged that support for one child was $339 per month according to the guidelines, but agreed to payment of an amount of $250 per month commencing on the first day of July 2000. The parties also confirmed that the consent order of November 20, 1996, still applied except for the above changes.
+[14] The parties were eventually divorced on August 25, 2000, and corollary relief was ordered in accordance with the consent order dated July 18, 2000.
+[15] The first issue before this court is whether the appellant was required to include in her income for the 1997, 1998, 1999 and 2000 taxation years the child support payments she received from Mr. Poirier in those years until June 2000 inclusive.
+[16] The relevant legislative provisions that determine a taxpayer's obligation to include child support payments in income and the support payer's entitlement to deduct them are found in sections 56, 56.1, 60, 60.1 and 118 of the Income Tax Act (the Act). Prior to the legislative amendments of 1997, child support was considered a source of income and had to be included in the receiving taxpayer's income. The new provisions eliminated the inclusion-deduction system for child support and thus provided a tax exemption for the receiving taxpayer.
+[17] Before the amendments, paragraph 56(1)(b) reads as follows:
+56. (1) Amounts to be included in income for year
+Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+. . .
+(b) Alimony - an amount received by the taxpayer in the year as alimony or other allowance payable on a periodic basis for the maintenance of the taxpayer, children of the taxpayer or both the taxpayer and the children if the taxpayer, because of the breakdown of the taxpayer's marriage, was living separate and apart from the spouse or former spouse who was required to make the payment at the time the payment was received and throughout the remainder of the year and the amount was received under a decree, order or judgment of a competent tribunal or under a written agreement.
+[18]Paragraph 56(1)(b) as amended in both 1997 and 1998 reads as follows:
+Subdivision d - Other Sources of Income
+56.(1) Amounts to be included in income for year - Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year
+. . .
+(b) Support - the total of all amounts each of which is an amount determined by the formula
+A - (B +C)
+where
+A is the total of all amounts each of which is a support amount received after 1996 and before the end of the year by the taxpayer from a particular person where the taxpayer and the particular person were living separate and apart at the time the amount was received,
+B is the total of all amounts each of which is a child support amount that became receivable by the taxpayer from the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began after its commencement day, and
+C is the total of all amounts each of which is a support amount received after 1996 by the taxpayer from the particular person and included in the taxpayer's income for a preceding taxation year;
+[as amended by s.c. 1998, c.19]
+56.(1) Amounts to be included in income for year - Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+. . .
+(b) Support - the total of all amounts each of which is an amount determined by the formula
+A - (B +C)
+where
+A is the total of all amounts each of which is a support amount received after 1996 and before the end of the year by the taxpayer from a particular person where the taxpayer and the particular person were living separate and apart at the time the amount was received,
+B is the total of all amounts each of which is a child support amount that became receivable by the taxpayer from the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount received after 1996 by the taxpayer from the particular person and included in the taxpayer's income for a preceding taxation year;
+[19]The emphasis added in the 1998 amended version is minor and intended only to indicate the change from the 1997 amendment.
+[20]There is no dispute that the court-approved consent order of November 20, 1996, makes provision for the payment by Mr. Poirier to the appellant of alimony or an allowance payable on a periodic basis for the maintenance of the child. Those payments were clearly taxable in the hands of the appellant by virtue of paragraph 56(1)(b) of the Act. The issue is whether the circumstances of this case are such that the support amounts that became receivable by the appellant from Mr. Poirier were child support amounts received after 1996 under an agreement or order on or after its commencement day, which agreement was made after April 1997, subject of course to the payer and the recipient living separate and apart.
+[21]Child support amount, commencement day and support amount are defined in subsection 56.1(4) of the Act.
+S. 56.1(4) Definitions - The definitions in this subsection apply in this section and section 56.
+"child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a legal parent.
+"commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[22]The argument raised by the appellant is that Mr. Poirier was no longer required to pay her the $475 a month for the support of their child because that requirement lapsed in May of 1997. The basis for this argument is that the consent order clearly provides for this event in stating that: "[1] le montant de soutien sera révisé le ou vers le 1er mai 1997"; it is based as well on the conduct of the parties in that the appellant says that the monthly support amount was reduced following May 1997 and that the correspondence exchanged between their solicitors supports that assertion. The appellant also relies on the definition of "support amount", which requires that the payment be receivable under an order made by a competent tribunal or under a written agreement, and she suggests there is neither here. With respect to the "commencement day" the appellant also argues that since the consent order of November 20, 1996, ceased to exist when the parties agreed to abide by the new guidelines, the day the domestic contract of August 1997 took effect, namely, August 28, 1997, ought to be deemed the "commencement day" pursuant to subparagraph (b)(ii) of the definition of "commencement day" in subsection 56.1(4) of the Act or, alternatively, August 28, 1997, ought to be recognized as the "commencement day" pursuant to subparagraph (b)(iii) of the definition because the consent order of 1996 was varied by the subsequent domestic contract of August 1997.
+[23]It is true that in the consent order of November 20, 1996, the parties agreed that the amount of support was to be revised on or about May 1, 1997, but the consent order does not say that Mr. Poirier's obligation to pay support is going to end on that day. In fact, the consent order provides that child support (le soutien) is payable until the court orders otherwise, and there was no contrary order of the court until the divorce was granted in July 2000, nor was there any written agreement between the parties that changed the child support amount to be paid by Mr. Poirier to the appellant. The domestic contract of August 28, 1997, signed by both parties makes reference to the consent order of November 20, 1996, and that consent order dealt exclusively with custody and child support. It did not amend the consent order. A close reading of the correspondence exchanged between the appellant's and Mr. Poirier's solicitors indicates clearly the parties' intention to abide by the new guidelines but shows that no agreement was reached on the amount to be paid until almost the divorce date. This, in my opinion, is a clear indication that no agreement had been reached between the appellant and Mr. Poirier other than, as the appellant readily admitted at trial, an agreement to agree to follow these new guidelines. The support obligation in my opinion, did not lapse in May of 1997 and all sums paid thereafter were so paid as a result of the consent order of November 20, 1996, and constituted taxable child support amounts in the hands of the appellant. Given this conclusion and the fact that the domestic contract of 1997 simply kept alive the November 20, 1996, consent order (see clause 6 of domestic contract) and therefore left unchanged the total child support amounts payable, the requirements of subparagraph (b)(ii) of the definition of "commencement day" are not met. It is clear, though, that the domestic contract and the consent order signed by the parties on July 18, 2000, did vary the child support amount fixed in the consent order of November 20, 1996. In fact, the corollary relief order issued by the court on July 25, 2000, refers to paragraphs 7 and 8 of Mr. Poirier's affidavit filed with respect to the petition for divorce, which affidavit in turn refers to the November 20, 1996, consent order. That, in my opinion, meets the requirement of subparagraph (b)(ii) of the definition of "commencement day".
+[24]In the event that the payments are held to be taxable in her hands, the appellant argues that she did not receive the amount of $5,700 in any of the taxation years under appeal. To support her position, she testified that she received, on average, an amount of $375 a month. In addition she obtained her Caisse Populaire statements for the period from October 1998 to December 2000 and from her records identified certain deposits she claims represent payments she received from Mr. Poirier, as they are round numbers. She was unable, though, to get other statements from another account. In 1999, the appellant received $475 for each of the months of February, April, May and September. That amount is identical to the monthly payment amount in the consent order of November 20, 1996. We also see that Mr. Poirier was paying in two monthly instalments, one of $275 and one of $200. The $275 instalment was paid in nine of the twelve months, which seems to indicate a certain pattern consistent with the consent order. The same pattern can be seen for 2000, except that there is one payment of $475 in April 2000. None of the statements show any monthly payment of $375.
+[25]The appellant also testified that she was unaware that Mr. Poirier was deducting child support payments of $475 a month from the period from May 1997 to 2003. Yet included with a letter dated November 10, 1999 (Exhibit R-15) to the appellant's counsel from Mr. Poirier's counsel was a sworn financial statement from Mr. Poirier indicating that he had a $475 a month support expense; also enclosed were Mr. Poirier's 1997 and 1998 tax returns, which show that he deducted $5,700 in support payments for each of these two years.
+[26]In her petition for divorce dated May 9, 1998, the appellant declared that the existing arrangements between Mr. Poirier and her regarding support for the child were for the payment of $475 a month taxable and that those arrangements were being complied with. There is no evidence that enforcement proceedings were initiated and Mr. Poirier did not testify. The correspondence exchanged by the lawyers does not indicate any non-compliance with the consent order of November 20, 1996. In light of the above evidence, I am unable to determine the amount the appellant actually received and I am left with the amount Mr. Poirier says he paid and which the appellant has recognized as being paid in her petition for divorce.
+Penalties for repeated late filing
+[27]The provisions that permit the Minister to assess penalties for repeated late filing are found in subsection 162(2) of the Act, which reads as follows:
+(2) Repeated failure to file. Every person
+(a) who fails to file a return of income for a taxation year as and when required by subsection 150(1),
+(b) on whom a demand for a return for the year has been served under subsection 150(2), and
+(c) by whom, before the time of failure, a penalty was payable under this subsection or subsection (1) in respect of a return of income for any of the 3 preceding taxation years
+is liable to a penalty equal to the total of
+(d) an amount equal to 10% of the person's tax payable under this Part for the year that was unpaid when the return was required to be filed, and
+(e) the product obtained when 2% of the person's tax payable under this Part for the year that was unpaid when the return was required to be filed is multiplied by the number of complete months, not exceeding 20, from the date on which the return was required to be filed to the date on which the return was filed.
+[28]The Minister has assessed penalties for repeated late filing against the appellant for the 1997, 1998 and 1999 taxation years. Subsection 150(1) provides that an individual shall file a tax return for a taxation year by April 30 of the following taxation year. It is not disputed that the appellant did not file her 1997, 1998 and 1999 returns of income as and when required by subsection 150(1) of the Act. She believed she did not have to file as she felt she owed no taxes because her employer was deducting the tax from her salary. The appellant also argues that, for taxation years following 1998, subsection 150(1.1) provides that where an individual taxpayer has no tax payable subsection 150(1) does not apply. The evidence is clear that the tax returns for the above three taxation years were filed by the appellant on March 13, 2001.
+[29]The second requirement under subsection 162(2) is that a demand for a return for the year have been served under subsection 150(2) of the Act. Such demand must be served either personally or by registered letter. The appellant has taken the position that the Crown has failed to prove that a demand was issued and that she was actually served with a demand.
+[30]The evidence of Karen Sceviour, who is a litigation officer with the Canada Revenue (the Agency), established, through a computer printout called an Enforcement Action History, that the appellant was sent requests to file her income tax returns for the 1997, 1998 and 1999 taxation years and that demands that she file her income tax returns for those taxation years were subsequently served on her. The Enforcement Action History reveals that for two of the three years a TX14D form, which is the actual demand for an income tax return, was issued twice, as the first mailing was returned unclaimed. An address search was done and the TX14D form was re-issued on January 17, 2001, for the 1997 and 1998 taxation years. On February 27, 2001, a TX14D was issued for the 1999 taxation year. A TX14D demand form is sent by registered mail while a TX11 request form is sent by regular mail.
+[31]Ms. Sceviour further testified that Exhibit R-1, Tab 22 is proof of service on the appellant by registered mail of the January 17, 2001, demand. The appellant's signature appears on the Canada Post document as the signature of the recipient and the date of signature is January 25, 2001. Tab 23 of Exhibit R-1 is also a Canada Post document showing the signature of the appellant as recipient and March 13, 2001, as the date of signature.
+[32]The appellant testified that she received from the Agency at the end of January 2001 a demand that she file her income tax returns within 90 days, but denies she was served therewith on or about January 17, 2001, by registered letter. She also denies being served with a similar demand for the filing of her 1999 income tax return on or about February 27, 2001. Yet all three income tax returns were filed on March 13, 2001. The appellant was obviously complying with the demands served on her by the Agency. Her conduct in so complying with the demands establishes to my satisfaction that the Minister did send the demands by registered mail as required by the Act.
+[33]The third requirement that must be met in order for the Minister to assess penalties for repeated late filing is that the taxpayer, before the time of the failure to file, have been assessed a penalty under subsection 162(1) or 162(2) in respect of a return of income for any of the three preceding taxation years. The appellant's filing history, according to the records kept by the Agency, indicates that she was assessed a late filing penalty of $339.49 for her 1995 taxation year. The appellant was also assessed a late filing penalty of $470.03 for her 1996 taxation year. These two penalties fulfill the third requirement. The Minister has therefore properly assessed penalties for repeated late filing penalties against the appellant.
+[34]The appellant has a history of late filing and the only evidence to support her defence of due diligence is that she immediately complied with the demands when they were made. She also argues that she felt she did not need to file a tax return since she believed that her taxes were all paid, as tax was deducted from her salary. These reasons are clearly unacceptable given her late filing history that goes back to 1995. Immediate compliance with a demand by the Minister that a tax return be filed may be due diligence with respect to that demand, but it is certainly not with regard to failure to file a tax return in accordance with paragraph 150(1)(d) of the Act. A taxpayer is expected to comply with the requirements of the Act with a high degree of diligence (see Bennett (T.J). v. Canada, [1995] 2 C.T.C. 2308). The evidence does not support a finding of due diligence on the part of the appellant.
+[35]The appeals are therefore dismissed with costs.
+Signed at Ottawa, Canada, this 19th day of February 2007.
+« François Angers »
+Angers, J.
+CITATION: 2007TCC88
+COURT FILE NO.: 2003-4404(IT)G
+STYLE OF CAUSE: Joanne Cormier v. Her Majesty The Queen
+PLACE OF HEARING: Moncton, New Brunswick
+DATE OF HEARING: June 20, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: February 19, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Guy G. Couturier
+Counsel for the Respondent:
+Carole Benoit
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Guy G. Couturier
+Firm: Guy G. Couturier c.p. Inc.
+Avocat - Lawyer
+Moncton, New Brunswick
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,372 @@
+Title: Johnston v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29455/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-327-29455-johnston-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-06-17
+
+# Johnston v. The Queen
+
+- Citation: 2009 TCC 327
+- Decision date: 2009-06-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6946, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnston v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-06-17
+Neutral citation
+2009 TCC 327
+File numbers
+2008-1030(IT)APP
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1030(IT)APP
+BETWEEN:
+PAMELA JOHNSTON,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on common evidence with the applications of
+Cheryl Sutherland (2008-1429(IT)APP),
+Darlene McGregor (2008-1539(IT)APP) and
+Andrew Agawa (2008-1761(IT)APP),
+on March 30 and 31, 2009 at Toronto, Ontario.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Applicant:
+Eric Lay
+Counsel for the Respondent:
+Gordon Bourgard
+____________________________________________________________________
+ORDER
+The application made by Pamela Johnston to extend the time within which the appeal of the reassessment of her liability under the Income Tax Act for her 1999, 2000, 2001, 2002, 2004 and 2005 taxation years may be instituted, is dismissed, without costs.
+Signed at Ottawa, Canada, this 17th day of June, 2009.
+“Wyman W. Webb”
+Webb J.
+Docket: 2008-1429(IT)APP
+BETWEEN:
+CHERYL SUTHERLAND,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on common evidence with the applications of
+Pamela Johnston (2008-1030(IT)APP),
+Darlene McGregor (2008-1539(IT)APP) and
+Andrew Agawa (2008-1761(IT)APP),
+on March 30 and 31, 2009 at Toronto, Ontario.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Applicant:
+Eric Lay
+Counsel for the Respondent:
+Gordon Bourgard
+____________________________________________________________________
+ORDER
+The application made by Cheryl Sutherland to extend the time within which the appeal of the reassessment of her liability under the Income Tax Act for her 1995, 2003 and 2004 taxation years and the appeal of the assessment of her liability under the Income Tax Act for her 2000, 2001, and 2002 taxation years may be instituted, is dismissed, without costs.
+Signed at Ottawa, Canada, this 17th day of June, 2009.
+“Wyman W. Webb”
+Webb J.
+Docket: 2008-1539(IT)APP
+BETWEEN:
+DARLENE MCGREGOR,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on common evidence with the applications of
+Pamela Johnston (2008-1030(IT)APP),
+Cheryl Sutherland (2008-1429(IT)APP) and
+Andrew Agawa (2008-1761(IT)APP),
+on March 30 and 31, 2009 at Toronto, Ontario.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Applicant:
+Eric Lay
+Counsel for the Respondent:
+Gordon Bourgard
+____________________________________________________________________
+ORDER
+The application made by Darlene McGregor to extend the time within which the appeal of the reassessment of her liability under the Income Tax Act for her 1999, 2000, 2001, 2002 and 2003 taxation years may be instituted, is dismissed, without costs.
+Signed at Ottawa, Canada, this 17th day of June, 2009.
+“Wyman W. Webb”
+Webb J.
+Docket: 2008-1761(IT)APP
+BETWEEN:
+ANDREW AGAWA,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on common evidence with the applications of
+Pamela Johnston (2008-1030(IT)APP),
+Cheryl Sutherland (2008-1429(IT)APP and
+Darlene McGregor (2008-1539(IT)APP),
+on March 30 and 31, 2009 at Toronto, Ontario.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Applicant:
+Eric Lay
+Counsel for the Respondent:
+Gordon Bourgard
+____________________________________________________________________
+ORDER
+The application made by Andrew Agawa to extend the time within which the appeal of the assessment of his liability under the Income Tax Act for his 2000 taxation year and the appeal of the reassessment of his liability under the Income Tax Act for his 2001 taxation year may be instituted, is dismissed, without costs.
+Signed at Ottawa, Canada, this 17th day of June, 2009.
+“Wyman W. Webb”
+Webb J.
+Citation: 2009TCC327
+Date: 20090617
+Docket: 2008-1030(IT)APP
+BETWEEN:
+PAMELA JOHNSTON,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2008-1429(IT)APP
+AND BETWEEN:
+CHERYL SUTHERLAND,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2008-1539(IT)APP
+AND BETWEEN:
+DARLENE MCGREGOR,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2008-1761(IT)APP
+AND BETWEEN:
+ANDREW AGAWA,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Webb J.
+[1] A large number of applications to extend the time within which an appeal may be instituted to this Court were filed by or on behalf of individuals claiming that their income earned as a result of their employment with Native Leasing Services or O.I. Employee Leasing Inc. is exempt from taxation as a result of the provisions of section 87 of the Indian Act. By order of Justice Sheridan of this Court signed on December 17, 2008, seven of these applications were set down for hearing. During the course of this hearing notices of withdrawal were filed on behalf of two of these seven applicants (Lou Henry and Frank Horn) and their applications were dismissed. A third applicant (Joanne Miller) did not appear on either of the two days scheduled for the hearing and counsel for the other applicants indicated that he did not have any instructions from Joanne Miller. Her application was also dismissed.
+[2] The remaining four applications were heard together on common evidence. All of the applications are related to appeals that the Applicants are attempting to institute under the Informal Procedure. Subsections 167(1) and (5) of the Income Tax Act provide as follows:
+167 (1) Where an appeal to the Tax Court of Canada has not been instituted by a taxpayer under section 169 within the time limited by that section for doing so, the taxpayer may make an application to the Court for an order extending the time within which the appeal may be instituted and the Court may make an order extending the time for appealing and may impose such terms as it deems just.
+…
+(5) No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time limited by section 169 for appealing; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer's name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted, and
+(iv) there are reasonable grounds for the appeal.
+[3] The following table sets out the relevant taxation years for each Applicant, the date of the applicable notice of confirmation, and the date that the request for an extension of time within which the appeal may be instituted was filed:
+Applicant
+Taxation Years
+Date of the Notice of Confirmation
+Date of Filing the Request for an Extension of Time
+Notes
+Andrew Agawa
+2000 & 2001
+September 19, 2006
+May 30, 2008
+(1)
+Pamela Johnston
+1999, 2000, 2001, & 2002
+July 24, 2006
+February 29, 2008
+(1)
+Pamela Johnston
+2004 & 2005
+May 24, 2007
+February 29, 2008
+(2)
+Darlene McGregor
+1999, 2000, 2001, 2002, & 2003
+September 14, 2006
+May 26, 2008
+(1) & (3)
+Cheryl Sutherland
+1995, 2000, 2001, 2002, 2003 & 2004
+May 31, 2006
+April 30, 2008
+(1) & (3)
+(1) The Application for an extension of time within which the appeal may be instituted was filed after the expiration of the one year time period set out in paragraph 167(5)(a) of the Income Tax Act.
+(2) The Application for an extension of time within which the appeal may be instituted was filed within the one year time period set out in paragraph 167(5)(a) of the Income Tax Act. Pamela Johnston, in her original Notice of Appeal, included a reference to the 2003 taxation year. In her Amended Notice of Appeal, the 2003 taxation year is not included. It would appear that no notice of confirmation in relation to the Notice of Objection that had been filed in relation to the reassessment of her 2003 taxation year had, as of the date of the hearing, been sent to her. Therefore there would be no need to make an application to extend the time to appeal from the reassessment of her 2003 taxation year.
+(3) The Applicant had also filed, within 90 days of the date of the Notice of Confirmation, a Notice of Appeal without including the filing fee (or a request to waive the filing fee).
+[4] As noted above, the application for an extension of time within which an appeal may be instituted was only filed within the time period set out in paragraph 167(5)(a) of the Income Tax Act for one of the Applicants (Pamela Johnston) and only in relation to the notice of confirmation related to the reassessment of her 2004 and 2005 taxation years.
+Prior Filings
+[5] Two of the Applicants, Darlene McGregor and Cheryl Sutherland, had previously filed a notice of appeal under the Informal Procedure within 90 days of the date of their notice of confirmation. However, neither of these Applicants had included the requisite filing fee or a request to have the filing fee waived. Section 18.15 of the Tax Court of Canada Act, prior to December 10, 2008, provided, in part, as follows:
+18.15 (1) An appeal referred to in section 18 shall be made in writing and shall set out, in general terms, the reasons for the appeal and the relevant facts, but no special form of pleadings is required unless the Act out of which the appeal arises expressly provides otherwise.
+…
+(3) An appeal referred to in section 18 shall be instituted by
+(a) filing the original of the written appeal referred to in subsection (1); and
+(b) Paying $100 as a filing fee.
+[6] While subsection 18.15(3) of the Tax Court of Canada Act was amended by SC2006 c. 11 to remove the requirement to pay a filing fee to institute an appeal under the Informal Procedure, the amendment did not come into force until December 10, 2008. Therefore, the amendment to the Tax Court of Canada Act that removed the requirement to pay the filing fee of $100 to institute an appeal was not effective until after the notices of appeal had been filed by Darlene McGregor and Cheryl Sutherland in 2006.
+[7] Neither Darlene McGregor nor Cheryl Sutherland paid the $100 filing fee with their notices of appeal that were filed in 2006. As well neither person requested a waiver of the filing fee. There were a number of notices of appeal that had been filed at that time in 2006 and there was an order of the then Chief Justice Bowman dated December 6, 2006 that had provided in part as follows:
+The Appellants who have received Notices of Confirmation dated before December 6, 2006 and who have filed Notices of Appeal are permitted until March 8, 2007, or such further time as the Court may on application permit, either to pay the filing fee or to file with the Tax Court of Canada a letter application for waiver of the filing fee. In the case of Notices of Appeals sent to the Court before December 6, 2006, where such appeals were received after 90 days from the mailing of the Notice of Confirmation, such Notices of Appeal are deemed to be applications for an extension of time to file a Notice of Appeal and such applications are deemed, with the consent of counsel for the Respondent, to be unopposed and are therefore granted.
+[8] This order was amended on March 16, 2007 by an Order that was stated to be issued in substitution for the Order signed on December 6, 2006. This Order, in part, provided as follows:
+The Appellants who have received Notices of Confirmation dated before December 6, 2006 and who have filed Notices of Appeal are permitted until May 8, 2007, or such further time as the Court may on application permit, either to pay the filing fee or to file with the Tax Court of Canada a letter application for waiver of the filing fee. In the case of Notices of Appeals sent to the Court before May 8, 2007, where such appeals were received after 90 days from the mailing of the Notice of Confirmation, such Notices of Appeal are deemed to be applications for an extension of time to file a Notice of Appeal and such applications are deemed, with the consent of counsel for the Respondent, to be unopposed and are therefore granted provided that such deemed application is received within one year after the expiration of the time limited by section 169 of the Income Tax Act for appealing.
+[9] An order dated May 18, 2007 was issued in substitution for the amended order signed in March 16, 2007 and this Order provided in part as follows:
+The Appellants who have received Notices of Confirmation dated before December 6, 2006 and who have filed Notices of Appeal are permitted until August 2, 2007, or such further time as the Court may on application permit, either to pay the filing fee or to file with the Tax Court of Canada a letter application for waiver of the filing fee. In the case of Notices of Appeals sent to the Court before August 2, 2007, where such appeals were received after 90 days from the mailing of the Notice of Confirmation, such Notices of Appeal are deemed to be applications for an extension of time to file a Notice of Appeal and such applications are deemed, with the consent of counsel for the Respondent, to be unopposed and are therefore granted provided that such deemed application is received within one year after the expiration of the time limited by section 169 of the Income Tax Act for appealing.
+[10] Since the Order dated May 18, 2007 stated that it was being issued in substitution for the earlier Order, the reference to “The Appellants … who have filed Notices of Appeal” would refer to Appellants who had filed Notices of Appeal by May 18, 2007. Counsel for the Applicants confirmed that it was his understanding that this reference to “Appellants … who have filed Notices of Appeal” in the Order dated May 18, 2007 referred to Appellants who have filed Notices of Appeal by May 18, 2007. This would apply to both Darlene McGregor and Cheryl Sutherland. Darlene McGregor had filed her Notice of Appeal without the filing fee on December 13, 2006 and Cheryl Sutherland had filed her Notice of Appeal without the filing fee on August 24, 2006.
+[11] Neither one of these individuals either paid the filing fee or requested a waiver of the filing fee by the last imposed deadline of August 2, 2007. As a result, neither one of these individuals had instituted an appeal to this Court since the Tax Court of Canada Act at that time had provided that an appeal could only be instituted if the notice of appeal and the filing fee were submitted. Counsel for the Applicants did not argue that either of these individuals had instituted an appeal in 2006 or 2007.
+[12] Both of these individuals in 2008 filed an application to extend the time within which to file an appeal in relation to the same taxation years that were covered by the previous notices of appeal that had been filed. The Application for Cheryl Sutherland was filed on April 30, 2008 and the Application for Darlene McGregor was filed on May 26, 2008. It is these applications that are the subject of this hearing.
+Argument of the Applicants
+[13] Counsel for the Applicants raised two arguments in relation to the applications. The first argument only applies to Pamela Johnston and only with respect to the 2004 and 2005 taxation years. For these taxation years, her application to extend the time within which an appeal may be instituted was filed within the time period set out in paragraph 167(5)(a) of the Income Tax Act. The issue with respect to this application is whether the requirements in paragraph 167(5)(b) of the Income Tax Act are satisfied. The second argument raised by counsel for the Applicants was that as a result of the provisions of the Indian Act (which provide that the exemption from tax applies notwithstanding any other Act), the time limitations on appeals to this Court as set out in the Income Tax Act do not apply to anyone who is claiming an exemption from taxation pursuant to section 87 of the Indian Act.
+Pamela Johnston – 2004 and 2005
+[14] Pamela Johnston testified at the hearing. She is an Indian as defined in section 2 of the Indian Act. The income in issue was earned by her while she was an employee of Native Leasing Services. She had provided services to Anishnawbe Health Toronto in Toronto during these years.
+[15] Justice Sharlow of the Federal Court of Appeal in Dewey v. The Queen, 2004 FCA 82, 2004 DTC 6159, [2004] 2 C.T.C. 311 stated that:
+3 Section 167 of the Income Tax Act permits the Tax Court to extend the time for commencing an appeal to the Tax Court, if a number of the conditions are met. A failure to meet any one of the conditions is fatal to the application.
+[16] In order for Pamela Johnston to be successful in relation to her application to extend the time within which the appeal related to the reassessment of her 2004 and 2005 taxation years may be instituted, all of the conditions as set out in subsection 167(5) of the Income Tax Act must be satisfied. In this case, the concern is related to the requirement contained in subparagraph 167(5)(b)(iv) of the Income Tax Act which provides that:
+(5) No order shall be made under this section unless
+…
+(b) the taxpayer demonstrates that
+…
+(iv) there are reasonable grounds for the appeal.
+[17] Counsel for the Respondent stated that he was not making any argument in relation to the requirement that Pamela Johnston demonstrate that she has reasonable grounds for her appeal nor did he ask Pamela Johnston or Meredith Rose, who was the staff lawyer for O.I. Employee Leasing Inc. and who testified at the hearing, any questions in relation to this requirement. As well no submission in relation to this requirement was made in the Reply to An Application for an Extension of Time that was filed by the Respondent in relation to Pamela Johnston’s Application for an extension of time.
+[18] If the Respondent is not making any argument in relation to this requirement it seems to me that this is the same as the Respondent not opposing the Applicant in relation to this requirement. If the Respondent does not oppose an applicant in relation to this or any of the other requirements of paragraph 167(5)(b) of the Income Tax Act the question is whether the Applicant is then relieved of the obligation to demonstrate such requirement.
+[19] In the text Craies on Legislation, 9th ed, it is stated at page 516 that:
+12.5.1 There is an obligation on all to whom a statutory duty applies to comply with it.
+[20] It seems to me that subparagraph 167(5)(b)(iv) of the Income Tax Act imposes a clear statutory duty on any applicant who seeks to obtain an order extending the time within which his, her or its appeal may be instituted.
+[21] The Respondent not making any submissions on this issue could be interpreted as the Respondent waiving the obligations of the applicant in relation to this requirement. Can the Respondent waive this requirement?
+[22] In the text “The Interpretation of Legislation in Canada” by Pierre-Andrè Côté, 2nd ed, it is stated at page 207 that:
+An individual may waive the benefit of a right enacted in his favour: quilibet licet renuntiare juri pro se introducto. Application of this general principle is confined to situations where the statute has been enacted in the sole interest of one individual or of a category of individuals. But it is not possible to dispense with a statute which has been partially or entirely adopted in the public interest.
+[23] In the text Craies on Legislation, 9th ed, it is stated at page 510 that:
+Despite the principle that the courts will not interfere to relieve against the effect of legislation there is some ancient support for the proposition that people may contract out of, agree not to rely on, waive or establish an estoppel in relation to statutory rights, unless the contrary is expressly provided by the legislation concerned. As Goddard L.J. put it in Bowmaker v. Tabor:
+“… whether it be a case of contracting out or of waiver the same principles apply. The maxim which sanctions the non-observance of a statutory provision is cuilibet licet renuntiare juri pro se introducto. Everyone may waive the advantage of a law made solely for the benefit or protection of him as an individual in his private capacity, but this cannot be done if the waiver would infringe a public right or public policy: see MacAllister v. Bishop of Rochester…
+[24] In footnote 58 on page 510 of this text it is also stated that:
+… But note that there may be unwaivable rights as a matter of public policy, and that a right amounting to a rule of procedure or jurisdiction may not be at the disposal of either party to waive: see the various considerations discussed in Kimmins Ballroom Co. Ltd. v. Zenith Investments (Torquay) Ltd. [1971] A.C. 850, HL and in Equitable Life assurance Society of the United States v. Reed [1914] A.C. 587, PC
+[25] In Nova Scotia (Director of Assessment) v. Warren, 1999 NSCA 135, 180 N.S.R. (2d) 327, the Nova Scotia Court of Appeal stated that:
+7 We are unanimously of the opinion that this appeal must fail because, although s. 86(1) of the Assessment Act was not complied with respecting service on the Municipality, that party expressly waived its right to notice required by the statute. That a party can waive a statutory requirement of notice was recognized by the Rand, J. in Canadian Acceptance Corporation Limited v. Fisher (1958), 14 D.L.R. (2d) 225 (S.C.C.).
+8 The principle of waiver of a statutory requirement was applied by the Divisional Court of the Ontario High Court of Justice In Re N.H.D. Developments Limited and Regional Assessment Commissioner, Region No. 11 et al. (1980) 118 D.L.R. (3d) 365, 30 O.R. (2d) 689. In that case, the Ontario Municipal Board held that it had no jurisdiction to hear an assessment appeal because the taxpayer failed to comply with the service requirement of s. 63(6) of the Assessment Act, R.S.O. 1970, c. 32, notwithstanding that the party who was not properly served waived the service requirement.
+9 Section 63(3) of the Assessment Act, R.S.O. 1970, c. 32, like s. 85 of the Assessment Act, supra, provided a right of appeal to the Ontario Municipal Board. Section 63(6) of the Assessment Act, R.S.O. 1970, c. 32, like s. 86(1) of the Assessment Act, supra, set out the requirements of service of the notice of appeal.
+10 In allowing the appeal from the Board's decision Southey, J. said:
+With the greatest respect to the learned member of the Board, who recognized that the problem was one of some difficulty, we are all of the view that the requirements for service contained in s. 63(6) do not go to the jurisdiction of the Board to hear an appeal from the Assessment Review Court. That jurisdiction is derived in the first instance in this case from s. 63(3).
+Because the matter is not one of jurisdiction, there is no question in our minds that a party for whose benefit the provisions for service set out in s. 63(6) have been enacted can waive compliance with those provisions. When such waiver occurs, the failure to comply with the provisions for service do not constitute a bar to the Board's hearing the appeal.
+(emphasis added)
+[26] In my opinion, the statutory requirement that an applicant demonstrate that there are reasonable grounds for the appeal is a condition that must be satisfied in order for this Court to have the jurisdiction to issue the order extending the time within which an appeal may be instituted and it is not a requirement that can be waived by the Respondent. It is not a requirement that is imposed solely for the benefit of the Respondent. The requirement that an applicant demonstrate that there are reasonable grounds for the appeal is a condition precedent to this Court issuing the requested order.
+[27] In Newmont Canada Ltd. v. The Queen, [2005] 2 C.T.C. 2792, 2005 DTC 617 (affirmed on appeal [2006] 2 C.T.C. 148, 2006 DTC 6029), Sheridan, J. stated that:
+22 The law is well settled that the Court's jurisdiction cannot be expanded by the consent or agreement of the parties.
+[28] Since the jurisdiction of this Court to grant the order to extend the time within which an appeal may be instituted is limited by subsection 167(5) of the Act, this jurisdiction cannot be expanded by the consent or agreement of the parties and therefore if Pamela Johnston is to succeed in her application she must demonstrate that she has reasonable grounds for her appeal.
+[29] Meredith Rose was on maternity leave at the time of the hearing. She testified at the hearing and she described O. I. Group as follows:
+Q. Could you give us a quick overview of what the bulk of the O.I. Group business is.
+A. As you mentioned earlier, it primarily deals with employee leasing. The two major components of O.I. Group are O.I. Employee Leasing and Native Leasing Services, who will lease out their employees to organizations or businesses who have need of those services.
+Q. You mentioned the two components. Just so that we have it on the record as evidence, can you tell us what those components are and how they are structured?
+A. The primary one, and I believe the only one in this situation, is Native Leasing Services. It is a sole proprietorship owned by Roger Obonsawin. Its main offices are on the Six Nations Reserve in Brantford. The other employee leasing business is O.I. Employee Leasing which is a corporation.
+Q. Just to be clear, the distinction you were drawing, I think, at the outset of that answer was that the only one involved in this situation is Native Leasing Services. What do you mean by that?
+A. I believe all the Appellants in this situation are employees of Native Leasing Services.
+Q. Granted that you described one of them as operating as a sole proprietorship and one them operating as a corporation, are they in the same business?
+A. Yes.
+[30] Pamela Johnston identified her employer as O. I. Leasing but in her Notice of Appeal and her Amended Notice of Appeal (that was filed during the hearing) the employer is identified as Native Leasing Services. Counsel for the Applicants (who was acting as agent for Meredith Rose since she is on maternity leave), at the commencement of the hearing confirmed that all of the Applicants were employees of Native Leasing Services. Since the counsel for the Applicants was acting as agent for the staff lawyer of O. I. Employee Leasing Inc. and since there is obviously a very close connection between O. I. Employee Leasing Inc. and Native Leasing Services (the distinction between which was undoubtedly not as important to Pamela Johnston as it was to Meredith Rose or counsel for the Applicants), I accept that the employer of Pamela Johnston was Native Leasing Services.
+[31] Meredith Rose confirmed that she was not familiar with the specific details or facts related to each individual’s appeal as over one thousand appeals were being submitted. She prepared the Notices of Appeal (including the Notice of Appeal for Pamela Johnston). The Notices of Appeal were the same for each applicant except the name and address were changed to reflect the name and address of the particular applicant. Meredith Rose indicated that it was her practice to amend the Notices of Appeal before the hearing to reflect the particular facts of the individual appellants.
+[32] In the original Notice of Appeal for Pamela Johnston, the following paragraph is inserted:
+11. Issues raised in this appeal are currently before the Federal Court of Appeal in the test cases of Horn v. Her Majesty the Queen [HMTQ] and Williams v. HMTQ.
+[33] Justice Phelan of the Federal Court had determined that the income of neither Margaret Horn nor Sandra Williams qualified for the exemption provided by section 87 of the Indian Act [2008] 1 C.T.C. 140, 2007 DTC 5589. The Federal Court of Appeal has now rendered its decision in these cases. Both appeals were dismissed (2008 FCA 352, 2008 DTC 6743). Application for leave to appeal to the Supreme Court of Canada was dismissed ([2009] S.C.C.A. No. 8).
+[34] At the hearing, an amended Notice of Appeal was filed on behalf of Pamela Johnston. Pamela Johnston also testified during the hearing. Based on the facts alleged in the Amended Notice of Appeal and from her testimony, she is an Indian (as defined in section 2 of the Indian Act) she lived in Toronto in 2004 and 2005 (which are the only two years that are relevant in relation to this issue), she was employed by Native Leasing Services and she was working at Anishnawbe Health Toronto in downtown Toronto. There is also a description of Native Leasing Services and Anishnawbe Health Toronto in the amended notice of appeal.
+[35] In Williams v. The Queen, [1992] 1 S.C.R. 877, Gonthier, J. described the connecting factors test that is to be used to determine if the personal property in question is personal property situated on a reserve:
+37 The approach which best reflects these concerns is one which analyzes the matter in terms of categories of property and types of taxation. For instance, connecting factors may have different relevance with regard to unemployment insurance benefits than in respect of employment income, or pension benefits. The first step is to identify the various connecting factors which are potentially relevant. These factors should then be analyzed to determine what weight they should be given in identifying the location of the property, in light of three considerations: (1) the purpose of the exemption under the Indian Act; (2) the type of property in question; and (3) the nature of the taxation of that property. The question with regard to each connecting factor is therefore what weight should be given that factor in answering the question whether to tax that form of property in that manner would amount to the erosion of the entitlement of the Indian qua Indian on a reserve.
+[36] The concern in this case is whether Pamela Johnston has identified any connecting factors or possible connecting factors that have not already been examined in other cases. Not only were the two cases identified as test cases (Horn and Williams) unsuccessful at the Federal Court, the Federal Court of Appeal and the Supreme Court of Canada (with respect to the leave application) but also of particular concern is the case of The Queen v. Shilling, 2001 DTC 5420 (FCA). Leave to appeal this decision to the Supreme Court of Canada was dismissed ([2001] S.C.C.A. No. 434). In that case the Federal Court of Appeal held that the individual’s income was not exempt from taxation pursuant to section 87 of the Indian Act. Ms. Shilling lived in Toronto, was employed by Native Leasing Services and provided services to Anishnawbe Health Toronto, exactly the same organization to which Pamela Johnston provided services.
+[37] The connecting factors identified in the Amended Notice of Appeal for Pamela Johnston are:
+• Her employer was located on a Reserve
+• Native Leasing Services provided real and tangible benefits to the reserve communities on which it was located during the tax years under appeal;
+• Native Leasing Services is devoted to advancing the cause and social welfare of First Nations persons, on and off-reserve
+• Anishnawbe Health, the organization to which the Appellant provided services, served a primarily First Nations clientele, and was dedicated to improving the health and well-being of First Nations persons;
+• Anishnawbe Health employed a model of health care delivery in keeping with traditional First Nations notions and well-being, in a modern multi-disciplinary context;
+• The appellant made a conscious and deliberate choice to be employed by an aboriginal employer located on reserve, and to provide services to a not-for-profit organization serving the interests of the First Nations community
+[38] Pamela Johnston’s employer (Native Leasing Services) and the organization to which the services were provided (Anishnawbe Health Toronto) were the same employer and organization as in Shilling. In Shilling there was also the additional fact that Ms. Shilling performed some of her services on a reserve. There is no indication in this case that Pamela Johnston performed any of her services on a reserve.
+[39] The Federal Court of Appeal in Shilling made the following comments in relation to Mr. Obonsawin and his businesses:
+36 The agreed statement of facts and the transcript of the examination for discovery of Ms. Shilling are singularly lacking in the kind of detail that might add weight to this factor. While the head office of NLS is on one reserve, and its bank accounts are on another, there is nothing to indicate what aspects, if any, of its business are conducted from the head office, whether any residents of the reserve are employed there, or how the reserve benefits from the Shilling employment contract.
+37 The record is also very meagre and unclear with respect to Mr. Obonsawin and his businesses. For example, the agreed statement of facts is silent on the place of residence of Mr. Obonsawin, the sole proprietor of NLS. Further, the agreed statement of facts refers to "OI", which apparently is the umbrella name for various of Mr. Obonsawin's businesses, including NLS. However, the record does not disclose where OI conducts its business. Since the agreed statement of facts says both that Ms. Shilling is an employee of NLS and that she chose the option of becoming an employee of OI, and because NLS is a sole proprietorship, we have assumed for the purpose of this appeal that OI and NLS are legally one and the same.
+38 The only evidence of NLS's operations is that in each pay period, it does the "paper work" for each employee's salary and deductions and provides that information to the CIBC's payroll department. When the CIBC produces a payroll register, NLS approves it. The CIBC then takes funds out of NLS's account and wires the salary amount to each individual employee's account.
+39 Even if NLS received some benefit from the respondent's work, there is no basis for inferring from the record that the Six Nations reserve was in any way the beneficiary of the respondent's employment with NLS. There is simply no evidence that the employment of Ms. Shilling by NLS benefited the Six Nations reserve.
+[40] Subsequent to Shilling, the Federal Court again dealt with Native Leasing Services in Horn and Williams. There are also the subsequent decisions of this Court in Roe v. The Queen, 2009 DTC 1020 and Googoo v. The Queen, 2009 DTC 1061 which also dealt with individuals who were employees of Native Leasing Services. There is no indication of how the facts related to Native Leasing Services in relation to Pamela Johnston’s appeal would be any different than the facts related to Native Leasing Services as established in any of these cases. The individuals involved in all of these cases were unsuccessful in establishing that their income was exempt from taxation. In Roe, there were 9 different appellants whose appeals were heard together and in Googoo there were 7 different appellants whose appeals were heard together.
+[41] The Federal Court of Appeal in Shilling made the following comments in relation to Anishnawbe Health Toronto:
+51 AHT appears to be a social services organization involved in preventative health care and other social assistance for off-reserve Native people in Toronto. The respondent's work benefits AHT and its off-reserve clientele. This is in stark contrast to Folster where the hospital's patients mostly lived on-reserve. As the Trial Judge found, merely because the nature of employment is to provide services to Indians does not connect that employment to an Indian reserve as a physical place.
+52 In finding that the nature of the respondent's duties are not a connecting factor to a reserve, we do not overlook the fact that the services provided are social services to Native people as opposed to employment in a for-profit enterprise. However, many not-for-profit social service organizations exist in Canadian cities. Employees of such organizations are not exempt from income tax. Given the limited purpose of paragraph 87(1)(b) of the Indian Act, the fact that the employment at issue involves providing social services to off-reserve Native people, is no reason for conferring preferred tax treatment under that provision.
+[42] AHT is Anishnawbe Health Toronto.
+[43] With respect to the last connecting factor identified, Pamela Johnston testified as follows in relation to her placement with Anishnawbe Health Toronto:
+Q. When I asked you where you were working, you said that you were placed. What do you mean by that?
+A. I was going to college in Brantford and I was living on Six Nations with my mother. When I graduated from college, I was looking for employment opportunities. O.I. Leasing has an employment opportunity newsletter that comes out that shows various agencies that are under O.I. who are looking for an employment offer.
+I applied to O.I. and they channelled my résumé to Anishnawbe Health.
+[44] It seems to me that she, like many other college graduates, was simply looking for a job. In any event, it is not at all clear how her income is more likely to be personal property of an Indian situated on a reserve if she “made a conscious and deliberate choice” in selecting Native Leasing Services and Anishnawbe Health Toronto than if she took the job because she was unemployed and needed work.
+[45] As a result, in my opinion, Pamela Johnston has failed to demonstrate that she has reasonable grounds for her appeal related to the reassessment of her 2004 and 2005 taxation years.
+All Applicants
+[46] With respect to the application for an extension of time for Pamela Johnston to appeal the reassessment of her 1999, 2000, 2001, and 2002 taxation years as well as the applications by the other three individuals, the argument raised by counsel for the Applicants is related to subsection 87(1) of the Indian Act. Subsections 87(1) and (2) of the Indian Act provide as follows:
+87. (1) Notwithstanding any other Act of Parliament or any Act of the legislature of a province, but subject to section 83 and section 5 of the First Nations Fiscal and Statistical Management Act, the following property is exempt from taxation:
+(a) the interest of an Indian or a band in reserve lands or surrendered lands; and
+(b) the personal property of an Indian or a band situated on a reserve.
+(2) No Indian or band is subject to taxation in respect of the ownership, occupation, possession or use of any property mentioned in paragraph (1)(a) or (b) or is otherwise subject to taxation in respect of any such property.
+[47] The argument of counsel for the applicants is that since subsection 87(1) of the Indian Act provides that “[n]otwithstanding any other Act of Parliament … the personal property of an Indian … situated on a reserve” is exempt from taxation, if the applicants are not permitted to pursue their appeals to this Court then they will be denied the exemption that was granted to them under section 87 of the Indian Act.[1] His argument is that since section 87 of the Indian Act is stated to apply notwithstanding any other Act, the limitation periods for filing appeals as provided in the Income Tax Act (which would extinguish rights of appeal if not complied with) do not apply to individuals claiming an exemption under the Indian Act.
+[48] It seems to me that the submissions of the Applicants would be more compelling if this were the only Court in which the Applicants could seek to enforce their claim for the exemption contained in section 87 of the Indian Act.
+[49] This Court clearly has jurisdiction to hear appeals from assessments or reassessments under the Income Tax Act, following the serving of the notice of objection, if an appellant complies with the time limitations for appealing to this Court[2].
+[50] Paragraph 81(1)(a) of the Income Tax Act provides as follows:
+81. (1) There shall not be included in computing the income of a taxpayer for a taxation year,
+(a) an amount that is declared to be exempt from income tax by any other enactment of Parliament, other than an amount received or receivable by an individual that is exempt by virtue of a provision contained in a tax convention or agreement with another country that has the force of law in Canada;
+[51] Therefore if a person who has been assessed tax claims that the income is exempt from taxation as a result of the provisions of section 87 of the Indian Act, this court has the jurisdiction to hear that person’s appeal. The issue would be whether the income should not have been included in his or her income (as determined for the purposes of the Income Tax Act) as a result of the application of paragraph 81(1)(a) of the Income Tax Act and section 87 of the Indian Act, even though the Indian Act is not one of the statutes listed in section 12 of the Tax Court of Canada Act.
+[52] It would, however, also appear the Federal Court has jurisdiction to hear claims in relation to the issue of whether the exemption contained in section 87 of the Indian Act applies in a particular situation. The following cases dealt with employees of Native Leasing Services and whether the income was exempt from taxation as a result of the provisions of section 87 of the Indian Act:
+Rachel Shilling v. The Queen – heard by the Federal Court – Trial Division in 1999 ([1999] 4 F.C. 178) Rachel Shilling had been assessed tax on the basis that she did qualify for the exemption under section 87 of the Indian Act (paragraph 24). The matter was heard at the Federal Court as a determination of a question of law under rule 220 of the Federal Court Rules, 1998 (paragraph 2);
+Margaret Horn v. The Queen – heard by the Federal Court in 2006 together with the case of Sandra Williams v. The Queen, [2008] 1 C.T.C. 140, 2007 DTC 5589. Justice Phelan stated that both individuals had been assessed by the Canada Revenue Agency on the basis that their income was not exempt from taxation (paragraph 4). Justice Phelan indicated in paragraph 5 that “the Plaintiffs are seeking a declaration that their employment income falls within the tax exemption provided under s. 87 of the Indian Act”.
+[53] Therefore it seems that if the matter is framed as “a determination of a question of law under … the Federal Court Rules” or “a declaration that their employment income falls within the tax exemption provided under s. 87 of the Indian Act” then the Federal Court would have jurisdiction to determine whether the exemption provided under section 87 of the Indian Act has been denied.
+[54] In The Queen v. Addison & Leyen Ltd., [2007] 2 S.C.R. 793 the Supreme Court of Canada allowed with an appeal from the Federal Court of Appeal in which the Federal Court of Appeal held that the Federal Court had the jurisdiction to judicially review the exercise of discretion by the Minister to assess a taxpayer under section 160 of the Income Tax Act. The Supreme Court of Canada stated that:
+7 The issue in this appeal is whether judicial review under s. 18.5 of the Federal Courts Act, R.S.C. 1985, c. F-7, is available to challenge the exercise of the Minister's discretion to assess a taxpayer under s. 160 ITA. What the case actually turns on, however, is the interpretation of s. 160.
+8 We need not engage in a lengthy theoretical discussion on whether s. 18.5 can be used to review the exercise of ministerial discretion. It is not disputed that the Minister belongs to the class of persons and entities that fall within the Federal Court's jurisdiction under s. 18.5. Judicial review is available, provided the matter is not otherwise appealable. It is also available to control abuses of power, including abusive delay. Fact-specific remedies may be crafted to address the wrongs or problems raised by a particular case.
+…
+11 Reviewing courts should be very cautious in authorizing judicial review in such circumstances. The integrity and efficacy of the system of tax assessments and appeals should be preserved. Parliament has set up a complex structure to deal with a multitude of tax-related claims and this structure relies on an independent and specialized court, the Tax Court of Canada. Judicial review should not be used to develop a new form of incidental litigation designed to circumvent the system of tax appeals established by Parliament and the jurisdiction of the Tax Court. Judicial review should remain a remedy of last resort in this context.
+[55] It does not seem to me that the Supreme Court of Canada has ruled out a judicial review by the Federal Court of a decision to assess (or reassess) pursuant to subsection 152(4) of the Income Tax Act (which also refers to “the Minister may … make an assessment, reassessment or additional assessment”)[3] but rather has limited it to a remedy of last resort.
+[56] It therefore seems to me that while this Court has the exclusive jurisdiction to hear appeals from assessments (or reassessments) arising under the Income Tax Act, it would appear that the Federal Court has the jurisdiction to deal with determinations of questions of law or declarations related to whether an individual has been denied his or her exemption as provided by section 87 of the Indian Act. As a remedy of last resort, judicial review by the Federal Court of a decision by the Minister to reassess an individual pursuant to subsection 152(4) of the Income Tax Act based on a determination that the exemption under section 87 of the Indian Act does not apply, may also be available. However whatever remedies may be available at the Federal Court is not a matter for this Court to determine.
+[57] It must also be remembered that the Indian Act is not one of the statutes in relation to which jurisdiction has been granted to this Court pursuant to section 12 of the Tax Court of Canada Act. The jurisdiction of this Court to deal with section 87 of the Indian Act arguably arises because paragraph 81(1)(a) of the Income Tax Act provides that income exempted by another Act of Parliament is not to be included in income as determined for the purposes of the Income Tax Act. Since this Court has jurisdiction to deal with appeals arising under the Income Tax Act, the determination of whether the exemption under the Indian Act is applicable is relevant to an appeal arising under the Income Tax Act from an assessment or reassessment based on a determination that the exemption is not available, as it is necessary to determine whether the income should not be included in determining income for the purposes of the Income Tax Act as a result of the provisions of paragraph 81(1)(a) of the Income Tax Act and section 87 of the Indian Act.
+[58] This Court was formed by an Act of Parliament, the Tax Court of Canada Act. Section 12 of this Act provides that:
+12. (1) The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the Air Travellers Security Charge Act, the Canada Pension Plan, the Cultural Property Export and Import Act, Part V.1 of the Customs Act, the Employment Insurance Act, the Excise Act, 2001, Part IX of the Excise Tax Act, the Income Tax Act, the Old Age Security Act, the Petroleum and Gas Revenue Tax Act and the Softwood Lumber Products Export Charge Act, 2006 when references or appeals to the Court are provided for in those Acts.
+(emphasis added)
+[59] Appeals are provided for in the Income Tax Act when the appeal is filed within the time period as set out in subsection 169(1) of that Act or when requests for extension of time are made within one year from the end of the appeal period. Therefore the jurisdiction of this Court is limited to appeals under the Income Tax Act that are filed within this time period or to applications for extension of time that are filed within the time period set out in subsection 167(5) of the Income Tax Act.
+[60] As noted by the Federal Court of Appeal in The Queen v. Carlson, [2002] 2 C.TC. 212, 2002 DTC 2556:
+13 ... As this Court has held on numerous occasions, when a taxpayer is unable to meet the deadline prescribed by the Act, even by reason of a failure of the postal system, neither the Minister nor the TCC can come to his help. (See Schafer v. Her Majesty the Queen [2000] F.C.J. 1480 (FCA); The Attorney General of Canada v. John F. Bowen [1992] 1 F.C. 311 (FCA)).
+[61] It seems to me that the requirement to file an appeal to this Court within the time period set out in subsection 169(1) of the Income Tax Act or to request, within one year from the expiration of the time limited by section 169 for appealing, an extension of time within which to file an appeal, are simply the requirements that must be satisfied in order for an individual to appeal to this Court. If neither the appeal nor the request for an extension of time is filed within these time periods, the result is that any person (including an Indian as defined in the Indian Act) will lose the right to have the matter determined by this Court. It does not appear that this will result in these Applicants losing all remedies that may be available to them in relation to their claim for the exemption provided by section 87 of the Indian Act, only the right to have the matter of whether this exemption is available to them determined by this Court.
+[62] As a result:
+(a) the application by Pamela Johnston to extend the time within which the appeal of the reassessment of her liability under the Income Tax Act for her 1999, 2000, 2001, 2002, 2004 and 2005 taxation years may be instituted, is dismissed, without costs;
+(b) the application by Andrew Agawa to extend the time within which the appeal of the assessment of his liability under the Income Tax Act for his 2000 taxation year and the appeal of the reassessment of his liability under the Income Tax Act for his 2001 taxation year may be instituted, is dismissed, without costs;
+(c) the application by Darlene McGregor to extend the time within which the appeal of the reassessment of her liability under the Income Tax Act for her 1999, 2000, 2001, 2002 and 2003 taxation years may be instituted, is dismissed, without costs; and
+(d) the application by Cheryl Sutherland to extend the time within which the appeal of the reassessment of her liability under the Income Tax Act for her 1995, 2003 and 2004 taxation years and the appeal of the assessment of her liability under the Income Tax Act for her 2000, 2001, and 2002 taxation years may be instituted, is dismissed, without costs.
+Signed at Ottawa, Canada, this 17th day of June, 2009.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2009TCC327
+COURT FILE NOS.: 2008-1030(IT)APP; 2008-1429(IT)APP;
+2008-1539(IT)APP; 2008-1761(IT)APP
+STYLE OF CAUSE: PAMELA JOHNSTON AND HER MAJESTY THE QUEEN AND BETWEEN CHERYL SUTHERLAND AND HER MAJESTY THE QUEEN AND BETWEEN DARLENE MCGREGOR AND HER MAJESTY THE QUEEN AND BETWEEN ANDREW AGAWA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 30 and 31, 2009
+REASONS FOR ORDER BY: The Honourable Justice Wyman W. Webb
+DATE OF ORDER AND
+REASONSFOR ORDER: June 17, 2009
+APPEARANCES:
+Counsel for the Applicants:
+Eric Lay
+Counsel for the Respondent:
+Gordon Bourgard
+COUNSEL OF RECORD:
+For the Applicants:
+Name: Eric Lay
+Firm: Eric Lay Law
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] While only those individuals who would be successful in establishing that their income qualifies for the exemption would be denied this exemption, since some individuals have been successful in their appeals (e.g. Bourbard v. The Queen 2008 DTC 3015, [2008] 5 C.T.C. 2565 (affirmed on appeal 2009 DTC 5035, [2009] 2 C.T.C. 77, Folster v. The Queen 97 DTC 5315, [1997] 3 C.T.C. 157 (FCA)), some individuals would lose the exemption to which they would otherwise be entitled, if this Court were the only Court that could grant a remedy to a person whose income qualifies for the exemption and to whom the exemption is being denied.
+[2] See section 12 of the Tax Court of Canada Act and section 169 of the Income Tax Act.
+[3] While subsection 152(4) of the Income Tax Act refers to “may”, subsection 152(1) of the Income Tax Act refers to “shall” which therefore removes the discretion to assess if the assessment is issued pursuant to subsection 152(1) of the Income Tax Act.

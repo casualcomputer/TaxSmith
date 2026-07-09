@@ -1,0 +1,193 @@
+---
+title: "Moczulski v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26401/index.do"
+last_modified: "2003-03-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 175"
+citation2: ""
+neutral_citation: "2003 TCC 175"
+decision_date: "2003-03-26"
+language: "en"
+item_id: "26401"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3348
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:23:21.456000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c06261cc53585081789b33cb43c50841694bca428978d29a3b82a2b5d90eeed6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Moczulski v. The Queen
+
+- Citation: 2003 TCC 175
+- Decision date: 2003-03-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3348, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moczulski v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-26
+Neutral citation
+2003 TCC 175
+File numbers
+2002-3727(IT)I
+Judges and Taxing Officers
+Ronald D. Bell
+Subjects
+Income Tax Act
+Decision Content
+Date: 20030326
+Docket:2002-3727(IT)I
+BETWEEN:
+JOSEPH M. MOCZULSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Appeals heard on common evidence with the appeal of Lorraine V. Vallee-Moczulski (2002-3726(IT)I on January 15, 2003 at London, Ontario, by
+The Honourable Judge R.D. Bell
+Appearances:
+Agent for the Appellant:
+Lorraine V. Vallee-Moczulski
+Counsel for the Respondent:
+Jennifer Neill
+_______________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act ("Act") for the 1998, 1999 and 2000 taxation years are allowed, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 26th day of March, 2003.
+"R.D. Bell"
+J.T.C.C.
+Date: 20030326
+Docket:2002-3726(IT)I
+BETWEEN:
+LORRAINE V. VALLEE MOCZULSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Appeals heard on common evidence with the appeal of Joseph M. Moczulski
+(2002-3727(IT)I on January 15, 2003 at London, Ontario, by
+The Honourable Judge R.D. Bell
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jennifer Neill
+_______________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act ("Act") for the 1998, 1999 and 2000 taxation years are allowed, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 26th day of March, 2003.
+"R.D. Bell"
+J.T.C.C.
+Citation:2003TCC175
+Date: 20030326
+Docket:2002-3726(IT)I
+BETWEEN:
+LORRAINE V. VALLEE-MOCZULSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+2002-3727(IT)I
+JOSEPH M. MOCZULSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bell, J.T.C.C.
+ISSUE
+[1] The issue is whether the deduction of the Appellants' losses, for the 1998, 1999 and 2000 taxation years from the operation of their business was properly restricted pursuant to the provisions of subsection 18(12) of the Income Tax Act ("Act").
+FACTS
+[2] The Appellants, Joseph Moczulski ("Joseph") and Lorraine V. Vallee-Moczulski ("Lorraine"), in 1994 purchased a three floor 10,700 square foot building previously operated as a retirement/nursing home. At the time of purchase, the building was considered to be a commercial property requiring the Appellants to become Goods and Services Tax registrants under the Excise Tax Act.
+[3] Lorraine, who represented both Appellants, gave evidence respecting the building's location, size and handicap accessibility. She testified that the building had been fixed up and was used as a bed and breakfast and also for retreats, reunions, weddings, business meetings and seminars.
+[4] She described the guest rooms as being on the second floor, totally separated from the main level. That level contained the breakfast room, common sitting room and office for the business and an office for the Appellants' personal use. It also contained a meeting/dining room for other functions. She described the suite of two rooms and a bathroom on the main floor occupied by the Appellants. They gained access to this suite of rooms by the main entry and the main hall. The rooms described on an exhibit filed by Lorraine were a bedroom, which had no entrance from the main hall, a dressing room/sitting room which had a door entrance from the main hall and a storage room which had a door entrance from the main hall. A fire escape door on the outside wall of those three rooms led into the dressing room and a very small hall area from which a door gave the only entry to the bathroom. There were stairs commencing at the end of the small hall, leading to the second floor. The door at the top of these stairs remained closed. The bathroom appears to be part of the storage room, being walled off from the rest of that room. This suite contained no kitchen and no laundry facilities. The Appellants used the kitchen in which food was prepared for the guests. They used the laundry facilities for themselves and guest linens. The guests were not allowed to use either the kitchen or the laundry.
+[5] Lorraine stated that her family attended for a family dinner on one festival per year. She said they did not stay over night as they recognized the building was a business premise.
+[6] Lorraine testified also that the total personal area of approximately 934 square feet, although less than 10% of the total square footage of the building, was combined with their shared use of the kitchen, laundry and storage areas resulting, therefore, in a claim of 30% of the building space being for the personal use of the Appellants.
+[7] Lorraine also said that no one from the Revenue department examined the premises.
+[8] Respondent's counsel advised that the Minister of National Revenue ("Minister"), in reassessing the Appellants, assumed that the entire property, for the purposes of subsection 18(12), was a "self-contained domestic establishment" as defined in subsection 248(1) of the Act. He also assumed that the two rooms and the bathroom used by the Appellants constituted their personal living area.
+RESPONDENT'S SUBMISSIONS
+[9] Respondent's counsel submitted that the entire building was a "self-contained establishment" as assessed by the Minister and that under subsection 18(12) of the Act the Appellants were entitled to no deduction respecting otherwise deductible amounts for the "work space" in the "self-contained domestic establishment" in which the Appellant resided except to the extent that the "work space" was the Appellants' principal place of business. Having said that, counsel continued with the submission that under paragraph 18(12)(b) the amount for the "work space" that was deductible to the Appellants from the business could not exceed the income from the business for the year.[1]
+[10] Respondent's counsel submitted that there was no separate entrance to the Appellants' unit apart from the fire escape, that they had to enter the main door of the house, that they gained access to their unit from the main hall, that they used the kitchen and laundry facilities of the business located in the basement, that their personal office was not connected to the suite, that the bed and breakfast operation was essentially seasonal and that the Appellants did not reside solely in the apartment. Counsel also referred to a number of cases with respect to bed and breakfast operations.[2]
+APPELLANT'S ARGUMENT
+[11] The Appellants submitted, in effect, that the Appellants had bought a commercial building in order to conduct a business, that they lived there for convenience and that it would be a waste to install another kitchen and laundry for their use.
+ANALYSIS AND CONCLUSION
+[12] Subsection 18(12) reads as follows:
+(12) Work space in home - Notwithstanding any other provision of this Act, in computing an individual's income from a business for a taxation year,
+(a) no amount shall be deducted in respect of an otherwise deductible amount for any part (in this subsection referred to as the "work space") of a self-contained domestic establishment in which the individual resides, except to the extent that the work space is either
+(i) the individual's principal place of business, or
+(ii) used exclusively for the purpose of earning income from business and used on a regular and continuous basis for meeting clients, customers or patients of the individual in respect of the business;
+(b) where the conditions set out in paragraph (a)(i) or (ii) are met, the amount for the work space that is deductible in computing the individual's income for the year from the business shall not exceed the individual's income for the year from the business, computed without reference to the amount and sections 34.1 and 34.2; and
+(c) any amount not deductible by reason only of paragraph (b) in computing the individual's income from the business for the immediately preceding taxation year shall be deemed to be an amount otherwise deductible that, subject to paragraphs (a) and (b), may be deducted for the year for the work space in respect of the business.
+[13] The term "self-contained domestic establishment" is defined in section 248(1) as follows:
+means a dwelling-house, apartment or other similar place of residence in which place a person as a general rule sleeps and eats.
+[14] In examining "self-contained domestic establishment", the question is whether the whole building, purchased primarily for a commercial operation, would fall under any of the three following categories, namely:
+(a) dwelling-house,
+(b) apartment,
+or
+(c) other similar place of residence
+in which place a person, as a general rule, sleeps and eats.
+[15] The Appellants' apartment is, in my judgment, a self-contained domestic establishment. The fact that the Appellants used the kitchen which produced food for guests and the laundry facilities which they used for guest linens does not prevent the apartment from being a "self-contained domestic establishment". That definition includes an apartment or other similar place of residence. The Appellants, as a general rule, sleep in this apartment. There was no evidence that they eat in the apartment. However, the definition does not exclude an apartment or similar place of residence where the occupant or occupants do not eat. The definition uses the qualifying term "as a general rule".
+[16] One should keep in mind the purpose of this provision. The Department of Finance in Explanatory Notes relating to the legislative guidelines for deduction of expenses in respect of space used as an office or other workplace in taxpayers' residences reads as follows:
+New subsection 18(12) of the Act restricts the deduction of expenses incurred by an individual in respect of a home office. No amount may be deducted in respect of a "work space" in a self-contained domestic establishment in which the individual resides unless certain conditions are met. The work place must be either the principal place of business of the individual or used by him exclusively for the purpose of earning income from business and be used on a regular and continuous basis for meeting his clients, customers or patients in respect of the business. Where these conditions are met, the individual may deduct otherwise allowable amounts, but only to the extent of his income from the business for the year. To the extent that this latter requirement restricts the deduction of a portion of work space expenses for a particular year, such expense are treated as work space expenses incurred in the immediately following year, thus permitting an indefinite carryforward of this type of expense. This amendment is applicable to fiscal periods commencing after 1987.
+It is noted that the emphasis of the above explanatory note respects a "work space" in an ordinary domestic establishment. This normally includes reserving and equipping a room or other space for business purposes. The circumstances in the instant appeal do not fall into that category.
+[17] The Appellants, in this case, bought a commercial building and commenced operating it for the purposes described. The use of the main entry to the building and of the main hall leading to the doorway to the Appellants' residential quarters does not diminish the description of such quarters being a self-contained domestic establishment. With respect to use of laundry facilities shared with the business, ordinary apartment buildings routinely share such facilities. There are many persons who live in apartments or houses and do not eat there as they have no interest in shopping or preparing food or washing dishes or cleaning the premises after such use. Surely they cannot be said not to be living in a self-contained domestic establishment.
+[18] Accordingly, the deduction of expenses by the Appellants for the years in question should not be restricted pursuant to the provisions of subsection 18(12) of the Act. The appeal will be allowed.
+Signed at Ottawa, Canada this 26th day of March, 2003.
+"R.D. Bell"
+J.T.C.C.
+CITATION:
+2003TCC175
+COURT FILE NO.:
+2002-3727(IT)I and 2002-3726(IT)I
+STYLE OF CAUSE:
+Moczulski v. The Queen
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+January 15, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge R.D. Bell
+DATE OF JUDGMENT:
+March 26, 2003
+APPEARANCES:
+Agent for the Appellant:
+Lorraine V. Vallee-Moczuski
+Counsel for the Respondent:
+Jennifer Neill
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Apparently there is an indefinite carry-forward of allowable expenses from any eventual income from the business
+[2] Broderick v. Canada, [2001] T.C.J. No. 286, Maitland v. Canada, [2000] T.C.J. No. 423, Rudiak v. Canada, [2002] T.C.J. No. 282, Sudbrack v. Canada, [2000] T.C.J. No. 625.

@@ -1,0 +1,193 @@
+Title: Roy c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26009/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-753-26009-roy-c-la-reine-en.md
+Document type: case_law
+Last modified: 2004-12-06
+
+# Roy c. La Reine
+
+- Citation: 2004 TCC 753
+- Decision date: 2004-12-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3742, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roy c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-06
+Neutral citation
+2004 TCC 753
+File numbers
+2004-1417(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1417(IT)I
+BETWEEN:
+DENIS ROY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on October 5, 2004, at Trois-Rivières, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Annick Provencher
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of December 2004.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 14th day of February 2005
+Jacques Deschênes, Translator
+Citation: 2004TCC753
+Date: 20041206
+Docket: 2004-1417(IT)I
+BETWEEN:
+DENIS ROY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This appeal pertains to the 2002 taxation year. The only issue is whether the Minister of National Revenue ("the Minister") properly disallowed the appellant's claim for a medical expense credit in the amount of $3,375.
+[2] The appellant explained that he spent the claimed amounts for essentially medical reasons, not as part of a spa cure or for relaxation and restorative purposes.
+[3] The appellant suffered from poor circulation that caused painful cramps and swelling in his legs, symptoms he endured for many long years. In 2000, the appellant underwent an operation in which two veins in his legs were removed.
+[4] The operation did not produce the desired results, so the appellant decided to in 2002 to undergo alternative treatment at Aqua-Mer Inc., a thalassotherapy centrein Carleton-sur-Mer on the Gaspé Peninsula.
+[5] In his 2002 income tax return, the appellant claimed $4,491 which he paid for treatments at that health centre. In a reassessment dated September 5, 2003, the Minister allowed a medical expense credit of $1,116 but disallowed $3,375.
+[6] Before resorting to alternative medicine, the appellant consulted all manner of recognized conventional medical doctors over a lengthy period. Although the conventional medical expert said that the surgical removal of two veins from his legs would cure him of his ailments, it did not.
+[7] In desperation, the appellant resorted to alternative medicine, aiming ultimately to improve his condition. By his appeal, he seeks to obtain a credit for the medical expenses that he incurred for treatment.
+[8] Essentially, the appellant's evidence consisted of his testimony, which is aptly summarized in his Notice of Appeal:
+[TRANSLATION]
+Further to your letters of August 14, 2003, and January 12, 2004, regarding account number . . . under the name DENIS ROY.
+I hereby contest your decisions for the following reasons:
+I have a diagnosis from my physician, Dr. Sylvain Gamelin stating that I have poor circulation, which causes cramping pain and swelling in my legs.
+In 2000, I underwent an operation in which my two veins, from my foot to the top of the knee, were removed.
+My pains and circulation were completely unchanged after the operation.
+For two years, I have been getting alternative medicine treatments from the thalassotherapy centre and from a few other specialists who have all the specialized diplomas in therapy, physiotherapy, orthotherapy and kinesitherapy, to get rid of my cramping pain and the swelling in my knees. I have also been getting pedicure treatments because of the fissures in my heals and massage therapy to boost my circulation.
+I got five to seven treatments a day from the aforementioned specialists involving progressive heat, lymphogel, manipulation and massage to soften my vertebrae, nerves, etc. and restore them to good condition. This was also done by getting pressure through specialized inflating equipment, etc., etc.
+I have had no pain whatsoever since getting these treatments twice a year. I have even returned to my normal activities without pain or swelling.
+I trust you can give me back the $3,621 entered on line 332 of the 2002 tax return.
+[9] In establishing and maintaining the assessment for the 2002 taxation year, the Minister relied on the following factual assumptions:
+[TRANSLATION]
+(a) The appellant claimed $4,491 in medical expenses on the income tax return that he filed for the year in issue;
+(b) The Minister allowed $1,116 of this amount in computing the medical expense credit;
+(c) The Minister disallowed the following medical expenses:
+Provider
+Treatment
+Date of receipt
+Amount
+Aqua-Mer Inc.
+thalassotherapy cure
+November 2, 2002
+$2,700.00
+Aqua-Mer Inc.
+Nasal hygiene cure, kinesitherapeutic mobilization, capillary care and bathing cap
+May 26, 2002
+$225.40
+Aqua-Mer Inc.
+kinesitherapeutic mobilization
+May 26, 2002
+$40.26
+Aqua-Mer Inc.
+pedicure
+November 3, 2002
+$48.90
+Centre de gymnastique respiratoire Géraldine Gagné
+respiratory gymnastics session
+September 5, 2002
+$320.00
+Massage therapy
+pedicure
+September 14, 2002
+$40.00
+[10] The Minister allowed $1,116 of the $4,491 claimed as medical expenses, thereby disallowing an amount of $3,375.
+[11] Relying on the Charter of Rights, the appellant also argued that he had the fundamental right and freedom to choose the people best able to treat him and help him with his physical health problems.
+[12] As an additional argument, he submitted that Revenu Québec had recognized the amounts claimed as legitimate.
+[13] The appellant was undoubtedly entitled to choose the person or persons who could help him with his condition. It is also perfectly understandable that the appellant has trouble understanding why his claim was accepted by Revenu Québec and disallowed by the Canada Customs and Revenue Agency.
+[14] Although the appellant's case elicits sympathy, he articulated the facts very clearly, and the evidence showed beyond a doubt that the treatments he obtained were beneficial to his health, the Court must dispose of this appeal essentially by asking whether or not the disallowance was warranted in view of the provisions of the Income Tax Act ("the ITA").
+[15] All assessments must be based on the provisions of the applicable or relevant statute. In the instant case, the only relevant statute is the ITA.
+[16] In order to be able to claim the medical expense credit contemplated in subsection 118.2(1) of the ITA, a taxpayer must inevitably have incurred medical expenses within the meaning of the ITA. The relevant parts of subsections 118.2(1) and (2) provide as follows:
+118.2. (1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted an amount determined by the formula
+A(B - C) - D
+where
+A is the appropriate percentage for the year
+B is the total of the individual's medical expenses that are proven by filing receipts therefor with the Minister, that were not included in determining an amount under this subsection or subsection 122.51(2) for a preceding taxation year and that were paid by either the individual or the individual's legal representative
+(a) where the individual died in the year, within any period of 24 months that includes the day of death, and
+(b) in any other case, within any period of ending in the year;
+. . .
+118.2. (2) For the purposes of subsection (1), a medical expense of an individual is an amount paid
+a) to a medical practitioner, dentist or nurse or a public or licensed private hospital in respect of dental or medical services provided to a person (in this subsection referred to as "the patient") who is the individual, the individual's spouse or common-law partner or a dependant of the individual (within the meaning assigned by subsection 118(6)) in the taxation year in which the expense was incurred;
+. . .
+[Emphasis mine.]
+[17] Paragraph 118.4(2)(a) of the ITA sets out an additional condition that must be met in order for the medical expense to qualify under subsection 118.2(2). The paragraph provides as follows:
+118.4. (2) For the purposes of sections 63, 118.2, 118.3 and 118.6, a reference to an audiologist, dentist, medical doctor, medical practitioner, nurse, occupational therapist, optometrist, pharmacist, psychologist or speech-language pathologist is a reference to a person authorized to practise as such,
+(a) where the reference is used in respect of a service rendered to a taxpayer, pursuant to the laws of the jurisdiction in which the service is rendered;
+. . .
+[Emphasis mine.]
+[18] In order to benefit from the medical expense credit, the appellant had to show that the expenses he incurred for his treatments were medical expenses paid to a medical doctor authorized to practice his profession pursuant to the legislation applicable in the province of Quebec.
+[19] The appellant himself admitted that the payments were made to persons who practiced and offered a non-traditional approach that differed fundamentally from the approaches offered by conventional physicians.
+[20] If Parliament had wished to grant a credit for medical expenses paid to a massage therapist, it would have named the relevant category or categories of alternative medicine practitioners in paragraph 118.2(2)(a) of the ITA.
+[21] In enacting paragraph 118.4(2)(a) and referring to provincial legislation, Parliament was simply seeking to ensure that taxpayers can avail themselves of the medical expense credit only if they have paid the medical expense to a medical doctor authorized to practice his profession. Consequently, the medical doctor must be a member of the Ordre des médecins, a fundamental requirement that must be met in order to be a physician under the laws of the province of Quebec.
+[22] The amount paid and claimed by the appellant was for a thalassotherapy cure at Aqua-Mer Inc., a gymnastics session ($320.00), a nasal hygiene cure ($225.40), some kinesitherapeutic mobilization ($40.26) and a pedicure ($48.90).
+[23] Unfortunately for the appellant, these expenses cannot be considered medical expenses within the meaning of paragraph 118.2(2)(a) of the ITA, even though the care greatly improved his physical condition.
+[24] Paragraph 118.4(2)(a) refers us to the laws of the province of Quebec. Upon reading the provision, it is very clear that "medical doctor" cannot include a thalassotherapist, massage therapist, etc.
+[25] The definition of "physician" in section 1 of the Medical Act, R.S.Q., chapter M-9, refers to a person entered on the roll. The term "roll", also defined in section 1, means the list of the members in good standing of the Order, prepared in accordance with the Professional Code and this Act. Lastly, the term "Order" is a reference to the Ordre des médecins du Québec, constituted by this Act. Here is how these definitions in section 1 of the Medical Act are worded:
+(c) "physician" or "member of the Order": any person entered on the roll;
+(g) "roll": the list of the members in good standing of the Order, prepared in accordance with the Professional Code and this Act.
+(a) "Order": the Ordre des médecins du Québec, constituted by this Act;
+[26] Thus, it is clear that the thalassotherapists and massage therapists that may have provided services for which the appellant seeks a deduction are not entered on the roll of physicians maintained by the Ordre des médecins in the province of Quebec.
+[27] With regard to the argument that Revenu Québec accepted his claim, I will simply note that in order for a medical expense to be eligible for tax credits under Quebec's Taxation Act, it appears to be sufficient that it was paid to a "practitioner". Obviously, the term "practitioner" is more general than the term "medical doctor".
+[28] The appellant undoubtedly did not incur medical expenses within the meaning of the ITA: while he did incur expenses for treatment, these expenses were not paid to a medical doctor, as contemplated in paragraph 118.2(2)(a) of the ITA.
+[29] I understand that most taxpayers faced with health problems clearly feel that expenses paid to alternative medical practitioners should entitle them to the medical expense credit, especially when the treatments in question reduced or even cured or eliminated the pain that conventional medicine could not. However, it is not up to this Court to resolve this issue. In Bley v. Canada, No. 2000-3259(IT)I, April 5, 2001, [2001] T.C.J. No. 206 (QL), Judge Margeson of the Tax Court of Canada closed with the following words of sympathy for the taxpayer:
+17. The Court takes note of the Appellant's arguments, and it has great sympathy for her and realizes that she has spent a large amount of money in trying to benefit herself and improve her condition but there is no section of the Act or the Regulations which would allow the Court to allow the appeal and grant the deductions which are sought.
+18. At the end of the day, unfortunately and regretfully, the Court will confirm the Minister's assessment and dismiss the appeal.
+[30] For the above reasons, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 6th day of December 2004.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 14th day of February 2005
+Jacques Deschênes, Translator
+CITATION:
+2004TCC753
+COURT FILE NO.:
+2004-1417(IT)I
+STYLE OF CAUSE:
+Denis Roy v. Her Majesty the Queen
+PLACE OF HEARING:
+Trois-Rivières, Quebec
+DATE OF HEARING:
+October 5, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+December 6, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Annick Provencher
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

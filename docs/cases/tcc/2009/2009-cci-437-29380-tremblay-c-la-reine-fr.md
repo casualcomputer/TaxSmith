@@ -1,0 +1,254 @@
+---
+title: "Tremblay c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29380/index.do"
+last_modified: "2009-09-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 437"
+citation2: ""
+neutral_citation: "2009 CCI 437"
+decision_date: "2009-09-04"
+language: "fr"
+item_id: "29380"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6871
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:37:30.835000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aa349f9376da70f1b41cf2bb807a3630084ffb7206d1053012481e400a3eea7e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tremblay c. La Reine
+
+- Citation: 2009 CCI 437
+- Decision date: 2009-09-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6871, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-04
+Référence neutre
+2009 CCI 437
+Numéro de dossier
+2004-122(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-122(IT)G
+ENTRE :
+CLAUDETTE TREMBLAY,
+EXÉCUTRICE DE LA SUCCESSION DE MARCEL TREMBLAY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+________________________________________________________________
+Appel entendu le 30 avril et le 1er mai 2009, à Calgary (Alberta).
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Avocats de l'appelante :
+Me James Shea
+Me Adam Hoffman
+Avocate de l'intimée :
+Me Carla Lamash
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté, avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 4e jour de septembre 2009.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 12e jour de novembre 2009.
+Yves Bellefeuille, réviseur
+Référence : 2009 CCI 437
+Date : 20090904
+Dossier : 2004-122(IT)G
+ENTRE :
+CLAUDETTE TREMBLAY,
+EXÉCUTRICE DE LA SUCCESSION DE MARCEL TREMBLAY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. Les faits
+[1] Marcel Tremblay était un particulier qui résidait à Cochrane, en Alberta.
+[2] En 1986, M. Tremblay a fondé le groupe de sociétés Enerplus (« Enerplus »), dont le modèle d'entreprise était de réunir des capitaux et d'attirer des investisseurs afin de faire des placements dans l'industrie pétrolière et gazière. Enerplus Global Energy Management Inc. (« EGEM ») et Enerplus Energy Services Ltd. (« EES »), des sociétés de gestion fermées, étaient chargées de la gestion d'environ six fiducies de revenu, ouvertes et fermées, actives dans l'industrie pétrolière et gazière.
+[3] Selon le témoignage de son fils, Eric Tremblay, M. Tremblay était le « pionnier » dans la création du concept des fiducies de redevances. Suivant ce concept, des fiducies de revenu sont constituées afin d'investir dans l'industrie pétrolière et gazière. Sous la gouverne de M. Tremblay, l'actif géré par Enerplus a dépassé 2,3 milliards de dollars.
+[4] De 1986 au 31 juillet 2000, M. Tremblay était employé d'Enerplus de façon continue.
+[5] La El Paso Energy Corporation (« El Paso »), une société constituée sous le régime des lois des États‑Unis, souhaitait prendre le contrôle d'Enerplus. Elle a entamé des négociations avec M. Tremblay au début de l'an 2000. Le 1er août 2000, El Paso a réussi à prendre le contrôle d'Enerplus en faisant l'acquisition des sociétés de gestion EES et EGEM.
+[6] À la suite de ce changement de propriétaire, M. Tremblay a conclu un nouveau contrat de travail avec EES le 31 juillet 2000 (le « contrat de travail »). En application du contrat de travail, M. Tremblay est devenu président et chef de la direction d'Enerplus, ainsi que membre du conseil d'administration, pour une période de 5 ans. Selon le contrat de travail, le salaire de base de M. Tremblay s'élevait à 328 650 $ par année et devait être révisé annuellement. Monsieur Tremblay était aussi admissible à deux régimes de primes, l'Enerplus Bonus Plan et l'Encap Bonus Plan. Ce deuxième régime de primes garantissait à M. Tremblay un paiement minimal de 380 000 $ par année.
+[7] Le contrat de travail stipulait aussi que [TRADUCTION] « en cas de renvoi sans motif, une indemnité de départ sera payée conformément aux exigences légales de la province d'Alberta et à la politique d'El Paso applicable aux employés ayant des postes semblables au Canada ».
+[8] Peu après le changement de propriétaire, un conflit a éclaté entre M. Tremblay et la nouvelle direction nommée par El Paso. Avec le temps, le conflit s'est envenimé, ce qui a mené El Paso à renvoyer M. Tremblay au début 2001.
+[9] Selon le témoignage de Mme Tremblay (la veuve de M. Tremblay) et d'Eric Tremblay, M. Tremblay avait des problèmes de santé chroniques depuis le début des années 1990. Il souffrait de diabète de type 2 et d'hypertension artérielle chronique, avait un ulcère hémorragique et avait subi plusieurs opérations cardiaques pendant les années 1990. Madame Tremblay et Eric Tremblay ont expliqué que l'état de santé de M. Tremblay s'était détérioré à la suite du conflit qui l'opposait à la direction d'El Paso. Pendant ce conflit et après son renvoi, M. Tremblay a subi plusieurs interventions et opérations cardiaques.
+[10] La preuve montre aussi que M. Tremblay avait envisagé d'intenter des poursuites contre Enerplus et El Paso relativement aux événements ayant suivi l'achat de ses entreprises par El Paso et son renvoi, mais qu'il avait finalement décidé de ne pas le faire. Cependant, la preuve n'a pas révélé les éléments sur lesquels M. Tremblay aurait fondé ses poursuites.
+[11] Une lettre d'intention envoyée par Enerplus à M. Tremblay et datée du 9 mai 2001 (la « lettre d'Enerplus », pièce A‑2) confirmait que les parties avaient conclu un accord de règlement (l'« accord de règlement »). Cette lettre faisait état d'une [TRADUCTION] « indemnité de départ [...] représentant 2 ans de salaire, payée à titre de compensation pour la résiliation de son contrat de travail [...] et en contrepartie de sa démission des conseils d'administration des sociétés ouvertes et fermées ». La lettre d'Enerplus précisait aussi que [TRADUCTION] « l'indemnité de départ sera considérée comme une allocation de retraite ».
+[12] En plus de porter sur l'accord de règlement, la lettre d'Enerplus décrivait un [TRADUCTION] « contrat de conseil » qui devait être conclu entre EGEM et M. Tremblay et en application duquel ce dernier allait fournir des services de conseil à Enerplus en échange d'honoraires annuels jusqu'en août 2005.
+[13] Dans l'accord dont fait état la lettre d'Enerplus, M. Tremblay s'était aussi engagé à envoyer certaines lettres à ses employés et au conseil d'administration. Ces lettres devaient expliquer que les nouveaux propriétaires avaient mis fin à son mandat auprès de la société de gestion à cause des différends irréconciliables qui les opposaient à M. Tremblay, et que, pour réduire les risques de conséquences néfastes pour les détenteurs de parts des fiducies ouvertes et pour les employés, il avait accepté de régler le différend à l'amiable.
+[14] Le 22 juin 2001, EGEM et M. Tremblay ont conclu l'accord de règlement (pièce A‑3).
+[15] À l'article 6 de l'accord de règlement, une clause de confidentialité, M. Tremblay s'est engagé à ne pas se servir des renseignements qu'il avait obtenus à cause de son travail auprès d'Enerplus à ses propres fins ou à d'autres fins que celles d'Enerplus.
+[16] L'article 7 de l'accord de règlement comporte diverses clauses restrictives, notamment :
+a) une clause de non‑concurrence, par laquelle M. Tremblay s'est engagé à ne pas [TRADUCTION] « fonder, gérer ou exploiter une fiducie de revenu ou une entreprise semblable ou une société de gestion canadienne dans le secteur pétrolier et gazier, ou y participer ou y détenir un intérêt de plus de 5 % »;
+b) une clause de non‑sollicitation, par laquelle M. Tremblay s'est engagé à ne pas communiquer avec les clients d'Enerplus;
+c) une clause de non‑sollicitation portant sur les employés d'Enerplus, par laquelle M. Tremblay s'est engagé à ne pas demander aux employés d'Enerplus de démissionner et à ne pas les inciter à le faire;
+d) une clause de non‑diffamation, par laquelle M. Tremblay s'est engagé à ne faire aucune [TRADUCTION] « critique ou remarque défavorable » à propos d'Enerplus, de ses représentants, de ses employés, de ses pratiques commerciales ou de ses activités.
+[17] Selon l'article 9 de l'accord de règlement, si M. Tremblay violait d'une quelconque façon l'accord, y compris les articles 6 ou 7, l'accord serait résilié et tous les paiements encore dus à M. Tremblay par Enerplus seraient annulés.
+[18] L'article 12 de l'accord de règlement stipule que [TRADUCTION] « les clauses restrictives et les engagements établis aux articles 6 et 7 constituent une condition essentielle à l'adhésion de la société à l'accord, et la société n'aurait pas conclu l'accord en l'absence de cette condition ».
+[19] En application de l'article 17 de l'accord de règlement, M. Tremblay a consenti une décharge de responsabilité à Enerplus, à ses filiales et à ses sociétés liées pour toute réclamation que M. Tremblay ou sa succession pourraient faire relativement aux dommages, pertes, réclamations, dettes ou montants de quelque nature que ce soit pouvant découler du travail de M. Tremblay auprès d'Enerplus et de son renvoi, y compris les réclamations ayant trait aux dommages‑intérêts, au salaire ou à l'indemnité de départ.
+[20] Selon l'article 21 de l'accord de règlement, M. Tremblay a déclaré avoir demandé et reçu des conseils juridiques indépendants au sujet des questions faisant l'objet de l'accord de règlement. De plus, les parties ont convenu que toute déclaration orale, toute représentation, toute garantie ou tout engagement ayant pu exister avant la conclusion de l'accord de règlement ne faisait pas partie de l'accord et ne le modifiait pas.
+[21] L'article 23 de l'accord de règlement stipule que l'accord constitue l'intégralité de l'entente conclue par M. Tremblay et Enerplus.
+[22] En application de l'accord de règlement, M. Tremblay a reçu une indemnité de départ de 2 488 064 $ (l'« indemnité de départ »). L'indemnité représentait deux ans de salaire, 2 671 713 $, moins un facteur d'actualisation de 10 % par an et moins le solde impayé d'une dette de M. Tremblay, 27 323,45 $. Le paiement total versé à M. Tremblay s'élevait donc à 2 460 740,55 $, moins les retenues légales applicables.
+[23] L'accord de règlement stipulait aussi que l'indemnité de départ [TRADUCTION] « sera considérée comme une allocation de retraite ».
+[24] Le 22 juin 2001, un contrat de conseil a été conclu entre EGEM et Ghost Lake Manor Corp. (« GLMC »), une société albertaine qui appartenait entièrement à M. Tremblay. Dans le contrat de conseil, GLMC s'est engagée à fournir divers services de conseil pendant une période déterminée prenant fin le 1er août 2005. En contrepartie, Enerplus devait verser 52 433,48 $ par mois à GLMC jusqu'au 31 mars 2003, puis 33 333,33 $ par mois jusqu'à la fin de la période. Le contrat de consultation comportait aussi des clauses restrictives semblables à celles figurant aux articles 6 et 7 de l'accord de règlement.
+[25] Madame Tremblay a témoigné que M. Tremblay n'a jamais remis les pieds aux bureaux d'Enerplus après son renvoi (transcription, page 51).
+[26] Monsieur Tremblay est décédé le 29 décembre 2005.
+[27] Enerplus a envoyé à M. Tremblay un feuillet T4A (« état du revenu de pension, de retraite, de rente ou d'autres sources ») faisant état d'une allocation de retraite admissible de 22 000 $ et d'une allocation de retraite non admissible de 2 438 740,55 $. Enerplus a fait les retenues fiscales applicables.
+[28] Dans sa déclaration de revenus pour l'année d'imposition 2001, M. Tremblay :
+a) a déclaré avoir reçu le paiement net en cause, 2 460 740,55 $, à titre d'« autres revenus »;
+b) a inclus un « sommaire des autres revenus » indiquant qu'il avait reçu une allocation de retraite admissible de 22 000 $ et une allocation de retraite non admissible de 2 438 740,55 $;
+c) a demandé une « autre déduction » (à la ligne 232 de sa déclaration de revenus) de 2 671 713 $ à son revenu net, somme correspondant au montant brut de l'indemnité de départ, en partant du principe que cette indemnité constituait un paiement non imposable reçu en compensation d'un préjudice personnel.
+[29] Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l'égard de M. Tremblay pour l'année d'imposition 2001. Il a refusé l'« autre déduction » de 2 671 714 $ demandée par M. Tremblay.
+[30] Pendant l'audience, l'avocat de l'appelante a déposé en preuve un tableau montrant le calcul ayant permis d'arriver à la somme de 2 671 714 $, qui représente deux années de salaire (pièce A‑6). Ce tableau est ainsi rédigé :
+[TRADUCTION]
+2000
+2001
+Moyenne
+Salaire
+328 650 $
+328 650 $
+328 650 $
+Prime – fiducie
+208 013 $
+806 400 $
+507 207 $
+Prime – société de gestion
+0 $
+500 000 $
+500 000 $
+Salaire moyen des deux années précédentes
+1 335 857 $
+x 2 années
+2 671 714 $
+B. La question en litige
+[31] En l'espèce, la question est de savoir si l'indemnité de départ de 2 488 064 $ devait être incluse dans le calcul des revenus de M. Tremblay pour l'année d'imposition 2001.
+C. Analyse
+[32] Le terme « allocation de retraite » est défini de la façon suivante au paragraphe 248(1) de la Loi de l'impôt sur le revenu (la « Loi ») :
+« allocation de retraite » Somme, sauf une prestation de retraite ou de pension, une somme reçue en raison du décès d'un employé ou un avantage visé au sous‑alinéa 6(1)a)(iv), reçue par un contribuable ou, après son décès, par une personne qui était à sa charge ou qui lui était apparentée, ou par un représentant légal du contribuable :
+a) soit en reconnaissance de longs états de service du contribuable au moment où il prend sa retraite d'une charge ou d'un emploi ou par la suite;
+b) soit à l'égard de la perte par le contribuable d'une charge ou d'un emploi, qu'elle ait été reçue ou non à titre de dommages ou conformément à une ordonnance ou sur jugement d'un tribunal compétent.
+[Non souligné dans l'original.]
+[33] En 1981, la définition d'« allocation de retraite » figurant au paragraphe 248(1) de la Loi a été modifiée pour y inclure expressément les sommes reçues à l'égard d'un renvoi sans motif ou de la perte d'une charge ou d'un emploi. Les renseignements supplémentaires sur le budget de 1981 expliquaient cette modification de la façon suivante :
+Depuis 1978, tous les paiements de cessation d'emploi s'élevant à moins de six mois de salaire sont imposables, quelle qu'en soit la forme, alors que le régime fiscal des paiements plus élevés varie selon qu'ils peuvent ou non passer pour une indemnité. Cela a conduit des personnes à revenu élevé qui reçoivent de grosses sommes à la fin de leur emploi à essayer de les faire passer pour une indemnité de congédiement injustifié, afin d'avoir droit à l'exonération. En fait, l'intégralité de tous les paiements de cessation d'emploi représente une rémunération ou un substitut de cette dernière, ce qui les rend imposables. Pour les cessations d'emploi qui auront lieu après le 12 novembre 1981, les paiements de cessation d'emploi devront être entièrement incorporés au revenu.
+[Non souligné dans l'original.]
+[34] Les notes explicatives de 1982 indiquaient ce qui suit à cet égard :
+La modification apportée à la définition d'une « allocation de retraite » fait suite aux changements du régime fiscal des dédommagements pour renvoi injustifié et des autres sommes du même genre qui étaient auparavant incluses dans la définition des paiements de cessation. En raison de la modification, est considérée comme une allocation de retraite la totalité d'un paiement à un employé reçu au titre de dommages ou conformément à une décision d'un tribunal. [...]
+[Non souligné dans l'original.]
+[35] La Cour doit donc décider si l'indemnité de départ en cause a été versée à M. Tremblay à l'égard de la perte de son emploi.
+[36] L'avocat de l'appelante a soutenu que la preuve démontre qu'une partie de l'indemnité de départ avait trait au silence de M. Tremblay, une autre à la clause de non‑concurrence et une autre partie à la perte de l'emploi (transcription, page 176, lignes 4 à 6).
+[37] L'avocat de l'appelante a aussi fait l'affirmation suivante :
+[TRADUCTION]
+[...] j'insiste sur le fait que c'est la nature qu'a la somme entre les mains de la personne qui la reçoit qui est déterminante; [...]
+(Transcription, page 180, lignes 15 à 17.)
+[38] De plus, l'avocat de l'appelante a fait la remarque suivante :
+[TRADUCTION]
+Cependant, le témoignage d'Enerplus nous permet de savoir que, peu importe comment il est considéré dans le document, le nom qui lui y est donné ou encore comment il pourrait correspondre au concept général de l'allocation de retraite, le paiement visait à garantir, pour reprendre l'expression utilisée, que M. Tremblay ne dise du mal d'El Paso ou d'Enerplus aux acteurs du marché et qu'il ne fonde pas une autre fiducie de revenu concurrente. C'était là l'objectif d'Enerplus et d'El Paso.
+(Transcription, page 182, lignes 23 à 25, et page 183, lignes 1 à 7.)
+[39] Cependant, aucun élément de preuve n'a été présenté pour établir quelle partie de l'indemnité avait trait au « silence », quelle partie avait trait à la clause de « non‑concurrence » et quelle partie avait trait au « renvoi ».
+[40] L'avocate de l'intimée a souligné que M. Tremblay avait déclaré l'indemnité de départ comme un revenu et qu'aucune disposition de la Loi ne lui donnait droit à la déduction qu'il avait demandée. L'avocate de l'intimée a fait l'affirmation suivante :
+[TRADUCTION]
+[...] ce fait‑là, à lui seul, doit entraîner le rejet de l'appel.
+(Transcription, page 222, lignes 1 à 5.)
+[41] L'avocate de l'intimée a aussi fait la remarque suivante :
+[TRADUCTION]
+[...] l'accord de règlement conclu par les parties stipule expressément que le paiement de 2 460 740 $ est une indemnité de départ qui doit être considérée comme une allocation de retraite.
+(Transcription, page 229, lignes 18 à 21.)
+[42] L'avocate de l'intimée a également dit ce qui suit :
+[TRADUCTION]
+Plus loin, [l'accord de règlement] stipule aussi que les déclarations orales, représentations, garanties ou engagements qui auraient pu exister avant la conclusion de l'accord de règlement ne font pas partie de l'accord et ne le modifient pas, et — je résume — M. Tremblay a volontairement accepté les modalités de l'accord de règlement, lequel constituait un règlement final de toutes les réclamations
+À l'article 23 de l'accord, les parties ont convenu que l'accord constitue l'intégralité de l'entente conclue par les parties. C'est donc l'accord qui fixe les modalités de l'indemnité de départ.
+Manifestement, l'accord de règlement conclu par les parties, et je dis « les parties » parce que M. Tremblay a signé l'accord, visait à stipuler clairement que le paiement versé par Enerplus à M. Tremblay devait être considéré comme une allocation de retraite et non pas comme un paiement fait à un autre titre. Il est vrai que les parties ont dit avoir tenu compte d'autres facteurs, mais ces facteurs avaient trait au renvoi de M. Tremblay. Comme je l'expliquerai plus tard, ce fait-là est très important, parce qu'il ne s'agit pas seulement — si on tient compte de l'ensemble des facteurs ayant mené les parties à conclure l'accord — de l'ensemble de l'entente, et je reviendrai sur l'ensemble de ces facteurs.
+L'appelante demande maintenant à la Cour de ne pas tenir compte de l'accord juridique conclu par les parties et de la nature du paiement versé à M. Tremblay. L'exécutrice demande à la Cour de ne pas tenir compte d'un contrat exécutoire et de conclure que la nature du paiement en cause est tout à fait différente de celle dont les parties avaient expressément convenu.
+La nature du paiement en cause ne fait aucun doute : l'accord a été négocié par deux parties bien averties, leur intention a été exprimée clairement et on énonce clairement ce que le paiement devait compenser. Il est précisé de façon certaine et irrévocable. L'appelante cherche à donner un autre sens à l'accord conclu entre M. Tremblay et Enerplus afin d'échapper aux conséquences fiscales de l'entente, ce que le droit fiscal interdit.
+J'invoquerai encore une fois Shell Canada, à l'onglet 2 — plutôt, la décision 2 de mon recueil. Je fais référence au paragraphe 41, je crois que c'est le paragraphe cité par Me Shea. Au lieu de le lire à voix haute, je vais simplement dire que ce passage soutient le principe voulant, comme je l'ai déjà dit, que les tribunaux, l'Agence du revenu du Canada et les parties doivent respecter les conséquences juridiques des transactions valides en droit. On ne peut pas se demander ce que l'entente aurait pu vouloir dire, ce que les parties auraient pu vouloir dire. C'est la nature juridique de la transaction elle‑même qui compte; on ne peut pas la dénaturer pour échapper à ses conséquences fiscales.
+(Transcription, page 233, lignes 15 à 25; page 234, lignes 1 à 25; page 235, lignes 1 à 20.)
+[43] L'avocate de l'intimée a aussi cité Overin c. La Reine, no 95‑3761(IT)G, 25 novembre 1997, 98 D.T.C. 1299, décision rendue par le juge Rip (tel était alors son titre).
+[44] Dans Overin, le juge Rip a établi un critère à deux volets pour savoir si des dommages‑intérêts constituent une « allocation de retraite » au sens du paragraphe 248(1) de la Loi. Le juge Rip est arrivé à la conclusion suivante quant à l'emploi de l'expression « à l'égard de » dans la définition d'« allocation de retraite » :
+[16] L'emploi des mots « à l'égard de » dans la définition de l'« allocation de retraite » a été reconnu comme exprimant un lien entre la perte d'emploi et la réception subséquente d'une somme d'argent. [Niles v. MNR, 91 DTC 806 (C.C.I.), juge Sobier, Merrins v. The Queen, 94 DTC 6669 (C.F. 1re inst.), juge Pinard, en appel d'un jugement de la Cour canadienne de l'impôt; dans les deux décisions, il a été tenu compte de l'interprétation que la Cour suprême du Canada avait donnée à ces mots dans l'arrêt Nowegijick v. The Queen, 83 DTC 5041, à la page 5045 : « À mon avis, les mots « quant à » ont la portée, la plus large possible. Ils signifient, entre autres, « concernant », « relativement à » ou « par rapport à ». Parmi toutes les expressions qui servent à exprimer un lien quelconque entre deux sujets connexes, c'est probablement l'expression « quant à » qui est la plus large. »] Toutefois, pour que la disposition relative à l'allocation de retraite ait réellement un sens, il faut limiter dans une certaine mesure l'étendue du lien nécessaire entre la somme reçue et la perte d'emploi. À cet égard, deux décisions peuvent être utiles. En premier lieu, dans la décision Merrins, ci‑dessus, le juge Pinard a fait observer ce qui suit, à la page 6670 :
+[...] Il ne fait aucun doute que cette somme a été reçue par le demandeur « à l'égard » de la perte de son emploi auprès de l'ÉACL. S'il n'y avait pas eu perte d'emploi, il n'y aurait eu aucun grief, aucun règlement, aucune sentence arbitrale et, par conséquent, aucun versement de cette somme au demandeur.
+L'analyse effectuée par le juge Pinard laisse entendre qu'en déterminant les limites du lien qui existe entre un paiement et la perte d'un emploi, il convient de se poser la question suivante : « S'il n'y avait pas eu perte d'emploi, la somme aurait-elle été reçue? » Si l'on répond à cette question par la négative, il existe entre la somme reçue et la perte d'emploi un lien suffisant pour que le paiement soit considéré comme une allocation de retraite.
+[Non souligné dans l'original.]
+[45] Plus loin, le juge Rip a décrit le deuxième volet du critère :
+[17] Dans la décision Leest, ci‑dessus, le juge Dussault, de cette cour, a fait la remarque suivante :
+Comme je ne doute aucunement que l'appelant a été, en réalité et à toutes fins utiles, sans emploi pendant une longue période, même si la perte n'a pas été permanente puisqu'il a été plus tard rétabli dans ses fonctions par la décision du conseil d'arbitrage, je conclus également que les dommages-intérêts dont le versement a été ordonné par le conseil d'arbitrage étaient directement liés à cette perte et avaient pour objet de la compenser.
+En ce sens, le montant a été versé « relativement à » la perte d'emploi. Ainsi, ces dommages-intérêts peuvent, à bon droit, être considérés comme une « allocation de retraite », au sens donné à cette expression au paragraphe 248(1) de la Loi. Ils sont donc imposables en vertu du sous‑alinéa 56(1)a)(ii) de la Loi.
+[18] Il est tout à fait clair qu'en plus du critère susmentionné, selon lequel le paiement vise à indemniser l'employé de la perte de son emploi, le montant peut être considéré comme ayant été reçu « à l'égard de » cette perte.
+[Non souligné dans l'original.]
+[46] Après avoir soigneusement soupesé la preuve, j'ai conclu que lorsque M. Tremblay et El Paso ont signé l'accord de règlement, M. Tremblay a accepté de recevoir une indemnité de départ de 2 488 064 $ à titre de règlement définitif de toutes ses réclamations envers El Paso. Je suis d'accord avec l'avocate de l'intimée lorsqu'elle affirme que la Cour ne doit pas aller au‑delà de l'accord de règlement pour conclure qu'une partie de l'indemnité de départ avait trait au silence de M. Tremblay, à une clause de non‑concurrence ou à une autre fin. Je note aussi qu'à l'article 17 de l'accord de règlement, M. Tremblay a consenti une décharge de responsabilité à Enerplus, à ses filiales et à ses sociétés liées pour toute réclamation que M. Tremblay ou sa succession pourraient faire relativement aux dommages, pertes, réclamations, dettes ou montants de quelque nature que ce soit pouvant découler du travail de M. Tremblay auprès d'Enerplus et de son renvoi, y compris les réclamations ayant trait aux dommages‑intérêts, au salaire ou à l'indemnité de départ.
+[47] Ainsi, j'ai conclu que l'indemnité de départ de 2 488 064 $ versée à M. Tremblay constitue une allocation de retraite au sens du paragraphe 248(1) de la Loi.
+[48] L'appel est rejeté, avec dépens.
+Signé à Vancouver (Colombie‑Britannique), ce 4e jour de septembre 2009.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 12e jour de novembre 2009.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2009 CCI 437
+No DU DOSSIER DE LA COUR :
+2004-122(IT)G
+INTITULÉ :
+Claudette Tremblay, exécutrice de la succession de Marcel Tremblay, et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Calgary (Alberta)
+DATES DE L'AUDIENCE :
+Les 30 avril et 1er mai 2009
+MOTIFS DU JUGEMENT :
+L'honorable juge L. M. Little
+DATE DU JUGEMENT :
+Le 4 septembre 2009
+COMPARUTIONS :
+Avocats de l'appelante :
+Me James Shea
+Me Adam Hoffman
+Avocate de l'intimée :
+Me Carla Lamash
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+James Shea
+Adam Hoffman
+Cabinet :
+Shea Nerland Calnan LLP
+Calgary (Alberta)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

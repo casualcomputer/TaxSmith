@@ -1,0 +1,94 @@
+Title: Kaushik v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26806/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-207-26806-kaushik-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-03-23
+
+# Kaushik v. The Queen
+
+- Citation: 2005 CCI 207
+- Decision date: 2005-03-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3486, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kaushik v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-23
+Référence neutre
+2005 CCI 207
+Numéro de dossier
+2004-1944(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-1944(IT)I
+ENTRE :
+Azad Kumar Kaushik,
+appelant,
+ET
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 8 mars 2005 à Kitchener (Ontario)
+Devant : Le juge en chef D.G.H. Bowman
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me April Tate
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+JUGEMENT
+Il est ordonné que l'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu visant l'année d'imposition 2002 soit rejeté.
+Signé à Ottawa, Canada, ce 23e jour de mars 2005.
+« D.G.H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 14e jour d'octobre 2004.
+Joanne Robert, traductrice
+Référence : 2005CCI207
+Date : 20050323
+Dossier : 2004-1944(IT)I
+ENTRE :
+Azad Kumar Kaushik,
+appelant,
+ET
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Cet appel de la cotisation d'impôt sur le revenu visant l'année d'imposition 2002 concerne la déduction de 1 498 $ demandée au titre des honoraires d'avocat payés dans le cadre d'une procédure disciplinaire intentée contre l'appelant ainsi que la déduction de 2 440,39 $ en honoraires d'avocat engagés en vue d'obtenir un brevet.
+[2] L'appelant est un professeur permanent d'immunologie du Department of Pathobiology à l'Ontario Veterinary College de l'Université de Guelph. Certains de ses étudiants du deuxième cycle ont porté contre lui une plainte de nature très grave. S'il y avait eu confirmation du bien-fondé de cette plainte, cela aurait pu avoir une incidence défavorable sur sa carrière, entacher sa réputation et compromettre son statut professionnel. Il s'est défendu avec force à la fois devant le département et devant le doyen de l'Ontario Veterinary College. De nombreuses lettres ont été écrites et, finalement, l'université a décidé de laisser tomber la mesure disciplinaire.
+[3] Dans sa préparation visant à répondre à la plainte, le Dr Kaushik a arrêté les services d'un avocat, Me W. Gerald Punnett de Guelph (Ontario), qui lui a donné des conseils concernant les lettres qu'il avait adressées au président du Department of Pathobiology ainsi qu'au doyen de l'Ontario Veterinary College.
+[4] La question en litige concerne la déductibilité des honoraires versés à Me Punnett. Je félicite le Dr Kaushik d'avoir interjeté cet appel. Il met en cause une importante question de principe. Malheureusement, je ne peux lui être d'aucune aide. L'article 8 de la Loi de l'impôt sur le revenu énumère les dépenses qui sont déductibles dans le calcul du revenu tiré d'un emploi. Le paragraphe 8(2) dit ceci :
+(2) Restriction générale. - Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi.
+Rien dans l'article 8 ne vise les dépenses du genre en cause ici qui ont été engagées en vue de préserver la réputation intellectuelle d'un professeur. L'alinéa 8(1)b) est la disposition qui s'approche le plus du sens voulu et il se lit comme suit :
+8. (1) Éléments déductibles - Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant :
+[...]
+b) Frais judiciaires d'un employé - les sommes payées par le contribuable au cours de l'année au titre des frais judiciaires ou extrajudiciaires qu'il a engagés pour recouvrer le traitement ou salaire qui lui est dû par son employeur ou ancien employeur ou pour établir un droit à ceux-ci;
+[5] Cette disposition n'est d'aucune utilité en l'espèce. Le Dr Kaushik n'a pas arrêté les services de Me Punnett pour l'aider à recouvrer un traitement ou un salaire. Il a fait appel à lui pour qu'il l'aide à se défendre contre une atteinte non fondée à son intégrité et à sa compétence professionnelles. Sans trancher la question de savoir si de telles dépenses sont déductibles ou non dans le contexte d'une entreprise, je ne peux pas conclure que le paiement des honoraires d'avocat est déductible dans le calcul du revenu tiré d'un emploi.
+[6] C'est avec une certaine réticence que j'en arrive à cette conclusion. La demande de déduction des honoraires d'avocat est digne d'intérêt mais, malheureusement, la loi est claire. Il s'agit là d'une demande de déduction très semblable à celle que j'ai dû, à contrecoeur, rejeter dans l'affaire Blagdon v. The Queen, 2003 DTC 804. Il s'agissait, dans cette affaire, d'un capitaine de bateau qui avait engagé des frais judiciaires pour se défendre dans une enquête d'accident. Si l'appelant n'avait pas eu gain de cause, il aurait pu perdre sa licence de capitaine. La décision a été confirmée par la Cour d'appel fédérale 2003 DTC 5491 et ensuite par le juge Bowie dans l'affaire Blackburn v. The Queen, 2004 DTC 2409.
+[7] L'autre question en litige concerne la déductibilité des coûts engagés par le Dr Kaushik en vue d'obtenir un brevet américain. Il ne servirait absolument à rien que je décrive en détail l'invention ou son application prévue. L'abrégé de la demande de brevet M.S. no 6740747 B2 est libellé comme suit :
+[TRADUCTION]
+RÉSUMÉ
+La présente invention concerne une cassette VDJ bovine (BF1H1) conférant un caractère nouveau, soit l'aptitude à produire une molécule d'immunoglobuline chimérique pouvant comprendre tant des épitopes linéaires de lymphocyte T (CDR1H et CDR2H) que des épitopes conformationnels de lymphocyte B (CDR3H exceptionnellement long). L'immunoglobuline antigénisée portant à la fois des épitopes de lymphocytes T et B d'intérêt est particulièrement utile dans la mise au point de vaccins oraux pouvant servir non seulement chez des animaux comme les bovins, mais aussi chez l'humain. Le long réarrangement CDR3H du complexe VDJ BF1H1 résulte des longs gènes D germinaux utilisé. Les nouveaux gènes D germinaux bovins donnent de nouvelles possibilités de favoriser chez les bovins la diversification des anticorps essentiels à l'immunocompétence par des stratégies de sélection génétique orientées dans lesquelles on utilise des marqueurs génétiques des immunoglobulines. Comme les nouveaux éléments géniques tels que les gènes D sont spécifiques aux bovins, ils peuvent être utiles pour les analyses médico-légales.
+[8] Le Dr Kaushik a dit avoir payé au cabinet Bereskin & Parr, avocats spécialisés en brevets d'invention, la somme de 2 440,39 $ en 2002 en vue d'obtenir un brevet américain et, en 2003 et en 2004, avoir payé des frais judiciaires de 6 404,85 $ et de 2 374,27 $ respectivement pour la demande de brevet canadien. Au départ, l'Université de Guelph, l'employeur du Dr Kaushik, était propriétaire desdits brevets, en raison, manifestement, de la relation employeur-employé, mais l'université a par la suite cédé les brevets à l'appelant.
+[9] Un brevet est, dans presque tous les cas auxquels je puisse penser, une immobilisation. Le coût d'acquisition d'un brevet, qu'il soit attribuable à la demande ou à l'achat, est donc une dépense en capital. Les frais liés à une demande de brevet qui n'a pas abouti est probablement une dépense en capital admissible aux termes de l'article 14 de la Loi. Toutefois, dans la mesure ou une telle dépense est déductible, elle est déductible dans le calcul du revenu tiré d'une entreprise. Or, en l'espèce, il s'agit d'une demande de brevet qui a été approuvée et il en a résulté l'acquisition d'une immobilisation.
+[10]Un brevet est un bien de la catégorie 14 et, aux termes de l'alinéa 1100(1)c) du règlement pris en vertu de la Loi de l'impôt sur le revenu, son coût est déductible pendant la durée utile du bien. En 2002, 2003 et 2004, l'appelant n'utilisait pas le brevet dans le cadre d'activités commerciales et il n'en a pas octroyé un droit d'utilisation en vue de toucher des redevances. Par conséquent, aucune déduction pour amortissement ni aucune déduction de dépense en capital admissible ne peut être accordée pour 2002. Si dans l'avenir, à un moment quelconque, le Dr Kaushik commence à utiliser le brevet dans le cadre des activités d'une entreprise ou pour toucher des redevances découlant de la concession du droit d'utilisation de ce brevet, on peut alors supposer que lui sera accordée une déduction pour amortissement.
+[11]Par conséquent, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 23e jour de mars 2005.
+« D.G.H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 14e jour d'octobre 2004.
+Joanne Robert, traductrice

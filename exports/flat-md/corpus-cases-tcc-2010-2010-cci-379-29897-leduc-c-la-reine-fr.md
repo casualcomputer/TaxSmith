@@ -1,0 +1,192 @@
+---
+title: "Leduc c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29897/index.do"
+last_modified: "2010-07-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 379"
+citation2: ""
+neutral_citation: "2010 CCI 379"
+decision_date: "2010-07-13"
+language: "fr"
+item_id: "29897"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6403
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:48:23.875000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "695d8babeb231708cc21cb2d6d54ee7f4da17e626daa0a6c18900084d03299ce"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Leduc c. La Reine
+
+- Citation: 2010 CCI 379
+- Decision date: 2010-07-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6403, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leduc c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-07-13
+Référence neutre
+2010 CCI 379
+Numéro de dossier
+2009-231(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-231(IT)G
+ENTRE :
+EUGÈNE LEDUC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus les 28 et 29 juin 2010, et décision rendue oralement
+le 30 juin 2010, à Montréal (Québec)
+Devant : L'honorable juge C.H. McArthur
+Comparutions :
+Avocat de l'appelant :
+Me Marc-André Paquin
+Avocate de l'intimée :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2004, 2005 et 2006 sont accueillis avec dépens de
+4 000 $ en faveur de l’appelant et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant pour acquis que :
+1) un revenu d’entreprise non déclaré de 12 500 $ doit être ajouté au revenu de l’appelant pour l’année d’imposition 2004;
+2) les montants de 2 674 $, de 3 725,41 $ et de 967 $ sont ajoutés au revenu de l’appelant pour les années d’imposition 2004, 2005 et 2006 à titre d’avantages imposables;
+3) la pénalité en vertu du paragraphe 163(2) de la Loi est annulée.
+Signé à Ottawa, Canada, ce 13e jour de juillet 2010.
+« C.H. McArthur »
+Juge McArthur
+Référence : 2010CCI379
+Date : 20100713
+Dossier : 2009-231(IT)G
+ENTRE :
+EUGÈNE LEDUC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Il s’agit d’appels interjetés à l’encontre de cotisations établies le 20 novembre 2007 par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2004, 2005 et 2006.
+Questions en litige
+[2] Les questions en litige sont de savoir si le ministre a eu raison d’ajouter les montants de 54 940 $ et de 3 674 $ en 2004, de 7 780 $ en 2005 et de 1 967 $ en 2006 aux revenus de l’appelant en vertu de l’article 9 et du paragraphe 15(1) de la Loi et d’imposer une pénalité de 5 000 $ selon le paragraphe 163(2) de la Loi.
+Les faits
+[3] L’appelant et le ministre s’entendent sur les faits suivants tirés de la réponse à l’avis d’appel :
+a) Durant les années en litige, l’appelant était coactionnaire de la société 9116-0879 Québec inc. avec son frère Richer Leduc;
+b) La société 9116-0879 Québec inc. opérait dans l’installation d’antennes de télévision par satellite pour Bell Express Vu;
+c) Durant les années en litige, l’appelant n’a déclaré que les revenus suivants provenant de :
+Revenu non déclaré
+d) Le ministre a effectué une vérification auprès de l’appelant pour les années d’imposition 2004 à 2006. La vérification a porté, entre autres, sur les avances de fonds effectuées par l’appelant dans la société 9116-0879 Québec inc.;
+e) Lors de l’analyse du compte « dû à l’administrateur », plusieurs montants y figurent comme avances par l’appelant;
+f) Ces montants constituent des dépôts en argent effectués au cours de l’année d’imposition 2004, lesquels se répartissent comme suit :
+Dates Montants
+19/01/04 4 960 $
+02/03/04 7 000 $
+27/07/04 13 000 $
+07/09/04 17 000 $
+15/11/04 12 980 $
+Montant total : 54 940 $
+[…]
+i) Le montant total de 54 940 $ figurant comme avances de fonds par l’appelant dans le compte « dû à l’administrateur » a donc été ajouté au revenu de l’appelant pour l’année d’imposition 2004 comme revenu non déclaré;
+Avantage à l’actionnaire
+j) La vérification a également porté sur l’analyse des comptes d’avances de l’actionnaire pour la société 9116-0879 Québec inc;
+k) Durant les années en litige, certains des montants ont été inscrits au Grand livre de la société au compte « avances de l’actionnaire »;
+l) Les montants ajoutés à titre d’avantage de l’actionnaire provenant des comptes « avances de l’actionnaire » seraient des dépenses payées en argent par l’appelant;
+m) Les montants inscrits à titre d’avances de l’actionnaire se répartissent comme suit :
+Année
+Avances de l’actionnaire.
+2004
+3 674 $
+2005
+7 780 $
+2006
+1 967 $
+La position des parties
+[4] La vérification a porté sur les avances de l’appelant à 9116-0879 Québec inc. Le ministre a conclu que l’appelant avait déposé dans la société près de 50 000 $ au total en 2004. L’appelant n’avait aucune pièce justificative pour appuyer ses dires.
+[5] L’appelant soutient que cette somme provenait de ses épargnes et non pas de revenus imposables.
+Analyse
+[6] L’appelant, un ami et quatre autres membres de la famille ont témoigné, soit six personnes au total. Madame Julie Dumont, vérificatrice, a témoigné pour le ministre. Dans d’autres circonstances, je pourrais croire que faire témoigner les membres d’une famille pendant l’audition d’un appel de ce genre n’ajoute rien aux prétentions d’un appelant, mais pas dans cette cause. Les témoignages ont été cohérents, sans contradictions majeures et appuient la description de l’appelant fait dans l’avis d’appel. En somme, j’ai trouvé les témoins crédibles et je base ma décision sur les témoignages.
+[7] L’appelant ne dépense pas beaucoup d’argent. Il est une personne simple et réservée. Au cours des années, il a économisé de l’argent et a pu déposer près de 55 000 $ dans le compte de la société avec ses économies et des emprunts de tiers. Il travaille depuis l’âge de 16 ans et a choisi d’habiter avec ses parents jusqu’à l’âge de 32 ans sans avoir à payer de loyer. Il payait ses dépenses personnelles. Il achetait des automobiles d’occasion pour quelques milliers de dollars.
+[8] Lors de son témoignage, le père de l’appelant, Maurice, a mentionné que son fils était très économe. Il a précisé avec fierté que son fils, l’appelant, suivait son exemple.
+[9] Les dépenses de l’appelant sont liées à des activités sportives. Il joue au hockey, au baseball et au golf une dizaine de fois par année. Il dépense environ 1 000 $ par année pour ces activités. Il ne s’achète pas beaucoup de vêtements, préférant des jeans et un t-shirt ou une chemise. Il ne fume pas et consume rarement de l’alcool. Comme son père, lors d’activités sociales, il choisit de ne pas dépenser beaucoup.
+[10] L’appelant s’est acheté une maison en 2000; il a versé 3 000 $ et a fait des paiements mensuels d’un peu plus de 600 $. L’appelant n’a pas emménagé dans la maison. Il a vu l’occasion d’aider sa sœur, Rémie, en lui offrant de lui louer la maison pour 500 $ par mois. La famille Leduc savait que la maison était louée à Rémie pour qu’elle y habite avec sa famille.
+[11] L’appelant a aussi conservé des sommes considérables en argent comptant dans sa chambre chez ses parents. Il est difficile de faire la preuve de ces sommes. Tout contribuable devrait garder à l’esprit qu’il ou qu’elle a un partenariat avec l’Agence du revenu du Canada et qu’il peut être nécessaire de rendre des comptes.
+[12] L’appelant est vu comme une personne économe et généreuse. Il prête souvent de l’argent à son frère et à son ami Guy Breault, et a permis à sa sœur de payer le loyer un peu en retard ou en deux versements.
+[13] En résumé, il a économisé au cours des années les montants suivants :
+a) Avant l’an 2000, il avait accumulé 10 000 $ de son travail et de la vente de ses biens;
+b) À partir de l’an 2000, il a loué sa maison à sa sœur du 15 juin 2000 au 15 décembre 2006 pour 500 $ par mois;
+c) En 2005, il a vendu son automobile pour 3 600 $. Il a déposé 400 $ par mois dans un compte bancaire.
+[14] À mon avis, l’appelant est un jeune homme responsable et plus frugal que la plupart des hommes de son âge. Compte tenu du caractère de l’appelant, je n’ai aucun doute qu’il a pu économiser ces sommes. Il vivait chez ses parents et pouvait économiser de l’argent tiré de son revenu d’emploi. Le ministre ne m’a pas convaincu que la source des 55 000 $ était autre que les épargnes de l’appelant.
+[15] Pendant les années en litige, l’appelant et son frère, Richer, ont exploité 9116-0879 Québec inc., chacun détenant 50 % des actions. Ils ont fait l’installation d’antennes pour Bell Express Vu et Look. Ils ont par la suite acheté un compétiteur, Métropolitain satellite (Métro). Ils confiaient l’installation à des sous-traitants. L’achat de Métro a été financé par un prêt de la banque et par une redevance payée à Metro pour chaque installation.
+[16] Au sein de l’entreprise, l’appelant s’occupait notamment de l’argent ou des finances de l’entreprise et résoudre les urgences lorsqu’il y avait des problèmes. Richer s’occupait de communiquer avec les clients, les magasins de Bell et les installateurs.
+[17] Dans ce domaine, un magasin de Bell vend à un client un forfait qui inclut une antenne. Le magasin prenait alors rendez-vous avec le client, et c’est ce rendez-vous qui était envoyé à 9116-0879 Québec inc. par Internet. Après l’achat de Métro, les installateurs, qui étaient des entrepreneurs indépendants, envoyaient une facture à 9116-0879 Québec inc., qui les payait. De leur côté, Richer et l’appelant envoyaient une liste des installations à être effectuées à Bell. Bell pouvait prendre jusqu’à 90 jours pour payer à 9116-0879 Québec inc. environ 60 % du montant dû.
+[18] En 2004, les deux frères avaient un problème financier. L’appelant a demandé à son père de grever sa maison pour que 9116-0879 Québec inc. obtienne une marge de crédit de 65 000 $. L’appelant et Richer ont tous deux témoigné que cette marge de crédit n’était pas suffisante et que la grande majorité du temps, elle était entièrement utilisée. À ces moments, Richer demandait à l’appelant de déposer l’argent nécessaire dans le compte de la société, et l’appelant obéissait, chacun ayant une confiance aveugle en l’autre. Maurice a aussi prêté 10 000 $ à la société en deux versements. L’appelant a donc demandé à une tierce partie de lui prêter 12 500 $.
+[19] L’appelant a témoigné le premier, mais c’est Richer qui a fourni le plus de détails à la Cour quant aux activités de 9116-0879 Québec inc. Richer a témoigné que l’achat de Métro a chamboulé la façon dont il faisait affaires. Les deux frères étaient alors quelque peu dépassés par les événements. En peu de temps, ils étaient passés de la gestion d’une petite entreprise locale à la gestion d’une entreprise d’envergure provinciale. Métro faisait affaires avec 25 magasins de la rive Sud, de la rive Nord et de Montréal. Selon le désir de Richer, l’entreprise devait croître jusqu’à la frontière de l’Ontario, la ville de Québec et Sherbrooke. Lors de son témoignage, Richer était le premier à admettre qu’il était peut-être trop tôt pour la croissance de l’entreprise, puisque l’installation d’antennes a beaucoup diminué en 2006. Bell voulait faire affaires avec un seul sous-traitant. À ce moment, les deux frères ont décidé d’arrêter de travailler ensemble à la société. L’appelant a quitté au mois d’avril 2006 et s’est fait rembourser la somme de 55 000 $ avancées à la société en deux versements distincts. Ce remboursement était possible car Bell leur avait envoyé le dernier paiement. Ils ont aussi remboursé la marge de crédit, le prêt de 10 000 $ à leur père et le prêt de 12 500 $ d’un tiers non identifié et ont payé les fournisseurs et les installateurs.
+[20] Le fardeau de la preuve de l’appelant est celui de la prépondérance des probabilités. Le principe fondamental qui ressort de la décision Hickman Motors c. La Reine,[1] est que le contribuable doit réfuter les hypothèses de fait du ministre en présentant une preuve prima facie. Le fardeau sera relevé lorsque le contribuable présente une preuve crédible et non contredite sur ce point. En l’espèce, je trouve que l’appelant s’est acquitté de cette tâche, à l’exception du prêt de 12 500 $ d’un tiers. Le nom du tiers n’a pas été dévoilé et la preuve ne me permet pas de conclure à l’existence de ce prêt. Je ne suis pas prêt à donner de poids à cette transaction mystérieuse.
+[21] L’avocate représentant le ministre a déposé, au soutien de son appel, la décision Sanchez c. La Reine.[2] Cette décision du juge Tardif est grandement basée sur les faits qui lui ont été présentés et de la crédibilité des témoins. Cependant, j’arrive à une conclusion de fait différente de celle de mon collègue.
+[22] Quant aux avances de l’actionnaire, le témoignage de la vérificatrice de l’Agence du revenu du Canada, madame Dumont, a été fort utile. En principe, le contribuable a l’obligation de prouver les dépenses effectuées par des pièces justificatives et par son témoignage; si l’appelant ne le fait pas adéquatement, les dépenses ne peuvent être accordées.
+[23] En l’espèce, l’appelant a fourni à la Cour deux enveloppes contenant des factures justifiant les montants pour les années d’imposition 2004 et 2005. Dans son témoignage, l’appelant a indiqué que lorsqu’il payait une facture par chèque, il inscrivait le numéro du chèque sur la facture. Lorsqu’une facture était payée en argent comptant, il n’y avait pas de numéro inscrit sur la facture. Richer a confirmé cette pratique dans son témoignage. Madame Dumont a été capable d’identifier plusieurs factures dans les enveloppes qui avaient été payées par chèque par 9116-0879 Québec inc.
+[24] Le rôle de cette Cour n’est pas d’agir comme vérificateur ou comme comptable. D’une part, la preuve établit que l’appelant et son frère inscrivaient le numéro des chèques sur les factures payées. D’autre part, madame Dumont a trouvé qu’il y avait des erreurs sur les factures dans les enveloppes. Je suis dans une position difficile. L’appelant, en gérant une entreprise en se déplaçant comme il l’a fait, a évidemment eu des dépenses; fidèle à ses habitudes, l’appelant a dû payer comptant.
+Pénalités
+[25] Le ministre demande qu’une pénalité en vertu du paragraphe 163(2) de la Loi soit imposée à l’appelant. Je cite le paragraphe 37 de la décision Venne c. La Reine.[3]
+La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi.
+[26] Pareillement, le juge en chef Bowman a renchéri dans la décision DeCosta c. La Reine. [4]
+Pour établir la distinction entre la faute « ordinaire » ou la négligence et la faute « lourde », il faut examiner plusieurs facteurs. Un de ces facteurs est bien entendu l’importance de l’omission relative au revenu déclaré. Il y a aussi la faculté du contribuable de découvrir l’erreur, ainsi que le niveau d’instruction du contribuable et son intelligence apparente. Il n’existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qu’il convient dans le contexte de l’ensemble de la preuve.
+[27] Je ne crois tout simplement pas que l’appelant ait atteint le seuil de la négligence grave par ses actions, et sa conduite a été adéquate selon les circonstances. Il y a lieu d’annuler la pénalité.
+[28] En conclusion, la somme de 12 500 $ doit être ajoutée au revenu de l’appelant à titre de revenu d’entreprise non déclaré pour l’année d’imposition 2004. Les montants de 2 674 $, de 3 725,41 $ et de 967 $ sont ajoutés au revenu de l’appelant pour les années d’imposition 2004, 2005 et 2006 à titre d’avantages imposables, et la pénalité en vertu du paragraphe 163(2) de la Loi est annulée.
+[29] J’accorde aussi la somme de 4 000 $ à l’appelant compte tenu de son succès mitigé.
+Signé à Ottawa, Canada, ce 13e jour de juillet 2010.
+« C.H. McArthur »
+Juge McArthur
+RÉFÉRENCE : 2010CCI379
+Nº DU DOSSIER DE LA COUR : 2009-231(IT)G
+INTITULÉ : EUGÈNE LEDUC ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : les 28 et 29 juin 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge C.H. McArthur
+DATE DU JUGEMENT : le 13 juillet 2010
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Marc-André Paquin
+Avocate de l'intimée :
+Me Julie David
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant:
+Nom : Me Marc-André Paquin
+Cabinet : Dupuis Paquin
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 97 DTC 5363 (C.S.C.).
+[2] 2010 CCI 283.
+[3] no T-815-82, 9 avril 1984 (C.F. 1re inst.).
+[4] 2005 CCI 545.

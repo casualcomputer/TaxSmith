@@ -1,0 +1,157 @@
+---
+title: "Chabot c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27372/index.do"
+last_modified: "2007-01-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 630"
+citation2: ""
+neutral_citation: "2006 CCI 630"
+decision_date: "2007-01-22"
+language: "fr"
+item_id: "27372"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 129
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:01:09.217000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5e965e4a854add88721cd109f61dc417175be56a5f7e89add0fa2a610f43a042"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chabot c. La Reine
+
+- Citation: 2006 CCI 630
+- Decision date: 2007-01-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 129, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chabot c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-01-22
+Référence neutre
+2006 CCI 630
+Numéro de dossier
+2006-805(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-805(IT)I
+ENTRE :
+MAGELLA CHABOT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 18 août 2006 à Sept-Îles (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Benoit Mandeville
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est admis et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Signé à Bromont, Québec, ce 22 janvier 2007.
+« Paul Bédard »
+Juge Bédard
+Référence : 2006CCI630
+Date : 20070122
+Dossier : 2006-805(IT)I
+ENTRE :
+MAGELLA CHABOT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s'agit d'un appel interjeté sous le régime de la procédure informelle à l'égard d'une nouvelle cotisation datée du 25 février 2005 par laquelle le ministre du Revenu national (le « ministre » ) a refusé à l'appelant une déduction de 5 040 $ à titre de pension alimentaire dans le calcul de son revenu pour l'année d'imposition 2003.
+Les faits
+[2] Dans un jugement daté du 25 octobre 1993 (pièce 1-1, par. 8), le juge Paul Corriveau de la Cour supérieure du Québec déterminait que l'appelant devait payer à son ex-conjointe, madame Christine Martel, une pension alimentaire mensuelle de 265 $ pour leur fille Véronique (la « pension alimentaire » ).
+[3] L'appelant n'a pas versé la pension alimentaire à madame Martel du 1er janvier 2000 au 1er janvier 2002 (la « période pertinente » ). Les arrérages ainsi accumulés pendant la période pertinente représentaient la somme d'environ 7 628 $ (les « arrérages » ).
+[4] Dans un jugement daté du 29 novembre 2002, le même juge :
+i) ordonnait à l'appelant de payer les arrérages à madame Martel [1];
+ii) modifiait le montant de la pension alimentaire à payer pour la période suivant le 1er janvier 2002[2];
+iii) permettait à l'appelant de déduire des arrérages la somme de 1 790 $ qui représentait les aliments que l'appelant avait versés directement à sa fille Véronique en 2000, 2001 et 2002 (les « aliments » ) [3].
+[5] La preuve[4] a révélé que l'appelant avait payé à madame Martel pendant l'année 2003 une partie des arrérages, soit la somme de 3 250 $.
+[6] L'appelant avait déduit les montants suivants à titre de pension alimentaire dans le calcul de son revenu pour l'année d'imposition 2003 :
+i) les arrérages payés (3 250 $) à madame Martel en 2003;
+ii) les aliments (1 790 $) que l'appelant avait versés directement à sa fille en 2000, 2001 et 2002.
+Le droit
+[7] Les dispositions de la Loi de l'impôt sur le revenu (la « Loi » ) qui sont applicables en ce qui concerne le traitement fiscal des paiements de pension alimentaire pour enfants sont les suivantes :
+Article 60 : Autres déductions
+Peuvent être déduites dans le calcul du revenu d'un contribuable pour une année d'imposition les sommes suivantes qui sont appropriées :
+[...]
+b) Pension alimentaire - le total des montants représentant chacun le résultat du calcul suivant :
+A-(B+C)
+où
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l'année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d'imposition antérieure;
+60.1(4) Définitions -- Les définitions figurant au paragraphe 56.1(4) s'appliquent au présent article et à l'article 60.
+56.1 (4) Définitions -- Les définitions qui suivent s'appliquent au présent article et à l'article 56.
+« date d'exécution » Quant à un accord ou une ordonnance :
+a) si l'accord ou l'ordonnance est établi après avril 1997, la date de son établissement;
+[. . .]
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas;
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+« pension alimentaire pour enfants » Pension alimentaire qui, d'après l'accord ou l'ordonnance aux termes duquel elle est à recevoir, n'est pas destinée uniquement à subvenir aux besoins d'un bénéficiaire qui est soit l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur, soit le père ou la mère d'un enfant dont le payeur est le père naturel ou la mère naturelle.
+Analyse et conclusion
+[8] Je suis d'avis que l'appelant pouvait, conformément au paragraphe 60b) de la Loi, déduire les arrérages dans le calcul de son revenu à titre de pension alimentaire parce que l'obligation de les verser était liée à une ordonnance rendue le 25 octobre 1993, donc avant avril 1997. L'ordonnance du 29 novembre 2002 n'a pas créé de date d'exécution, puisqu'elle n'a pas changé le total de la pension alimentaire pour enfants payable à madame Martel aux termes de l'ordonnance de 1993. En effet, l'ordonnance du 29 novembre 2002 n'a que confirmé l'obligation de l'appelant de payer à madame Martel la pension alimentaire pour enfants qu'elle était en droit de recevoir pendant la période pertinente aux termes de l'ordonnance de 1993. Toutefois, je suis d'avis qu'une partie des arrérages (1 790 $), soit le montant dont l'ordonnance de 2002 avait permis la déduction des arrérages payables par ailleurs, n'est pas déductible à titre de pension alimentaire en vertu du paragraphe 60b) de la Loi dans le calcul du revenu de l'appelant pour l'année d'imposition 2003, et ce, pour les motifs suivants :
+i) La somme de 1 790 $ n'a pas été payée conformément à l'ordonnance de 1993. En effet, l'ordonnance prévoyait que l'appelant devait verser la somme mensuelle de 265 $ à madame Martel pour le bénéfice de sa fille Véronique. L'appelant a versé cette somme directement à sa fille.
+ii) Une pension alimentaire n'est déductible que dans l'année où elle est payée. La somme de 1 790 $ n'a pas été payée en 2003, mais plutôt en 2000, 2001 et 2002.
+iii) La somme de 1 790 $ n'est pas une pension alimentaire puisqu'elle a été payée directement par l'appelant à son enfant et non pas à madame Martel pour qu'elle puisse l'utiliser à sa discrétion.
+[10] Pour ces motifs, seule la somme de 3 250 $ pouvait être déduite à titre de pension alimentaire dans le calcul du revenu de l'appelant pour l'année d'imposition 2003 conformément au paragraphe 60b) de la Loi.
+Signé à Bromont, Québec, ce 22 janvier 2007.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2006CCI630
+N º DU DOSSIER DE LA COUR : 2006-805(IT)I
+INTITULÉ DE LA CAUSE : MAGELLA CHABOT ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Sept-Îles (Québec)
+DATE DE L'AUDIENCE : le 18 août 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 22 janvier 2007
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Benoit Mandeville
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1, par. 57
+[2] Pièce A-1, par. 58
+[3] Pièce A-1, par. 59
+[4] Pièce A-2, « Relevé de compte »

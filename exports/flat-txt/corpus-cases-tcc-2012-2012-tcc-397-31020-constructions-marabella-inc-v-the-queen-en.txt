@@ -1,0 +1,174 @@
+Title: Constructions Marabella Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31020/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-397-31020-constructions-marabella-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-11-09
+
+# Constructions Marabella Inc. v. The Queen
+
+- Citation: 2012 TCC 397
+- Decision date: 2012-11-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4902, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Constructions Marabella Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-11-09
+Neutral citation
+2012 TCC 397
+File numbers
+2011-2684(GST)I
+Judges and Taxing Officers
+Jean-Louis Batiot
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-2684(GST)I
+BETWEEN:
+LES CONSTRUCTIONS MARABELLA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on October 1 and 4, 2012, at Montréal, Quebec.
+Before: The Honourable Deputy Judge Jean-Louis Batiot
+Appearances:
+Agent for the appellant:
+Jiuseppina Gracioppo
+Counsel for the respondent:
+Marie-Pierre Létourneau
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under Part IX of the Excise Tax Act, notice of which is dated October 2, 2009, bearing no distinctive number, for the taxation periods from November 1, 2005, to January 31, 2006; from May 1, 2006, to July 31, 2006; from August 1, 2006, to October 31, 2006; from November 1, 2006, to January 31, 2007; and from August 1, 2007, to October 31, 2007, is dismissed.
+Signed at Montréal, Quebec, this 9th day of November 2012.
+"Jean-Louis Batiot"
+Batiot D.J.
+Citation: 2012 TCC 397
+Date: 20121109
+Docket: 2011-2684(GST)I
+BETWEEN:
+LES CONSTRUCTIONS MARABELLA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Batiot D.J.
+[1] Mr. Marabella, the appellant's president and sole shareholder, and Ms. J. Gracioppo, his spouse and the appellant's accountant, are representing the appellant. Both of them testified.
+[2] The Notice of Appeal and the respondent's Reply were in English. The appellant requested that the hearing be held in French and agreed that these documents not be translated.
+[3] The Minister of Revenue of Quebec, acting as agent of the Minister of National Revenue, issued a notice of reassessment dated October 2, 2009, against the appellant, as follows:
+CONSTRUCTION MARABELLA
+ENDING JANUARY 2006
+Adjustments: $1,456.10
+Interest: 360.59
+Late remitting penalty: 1.74
+TOTAL (JANUARY 2006) $1,818.43
+ENDING JULY 2006
+Adjustments: $348.07
+Interest: 77.21
+TOTAL (JULY 2006) $425.28
+ENDING OCTOBER 2006
+Adjustments: $599.44
+Interest: 125.45
+TOTAL (OCTOBER 2006) $724.89
+ENDING JANUARY 2007
+Adjustments: $632.89
+Interest: 129.24
+TOTAL (JANUARY 2007) $762.13
+ENDING OCTOBER 2007
+Adjustments: $961.55
+Interest on reimbursement: 0.55
+Interest: 101.34
+TOTAL (OCTOBER 2007) $1,071.44
+(Section 3, Reply to the Notice of Appeal)
+[4] The total for the five periods at issue, including interest, is $4,796.66. The Goods and Services Tax (GST) totals $3,998.05.
+[5] In section 8 of her Reply to the Notice of Appeal, the respondent sets out her assumptions and findings based on invoices from three of the appellant's suppliers: Construction Lubac Inc., Construction Lido Inc. and Construction Beck Inc. Although these suppliers are registered for the GST, they were not carrying on any commercial activity in the area of expertise for which the appellant allegedly hired them and were not doing business with any subcontractors. They therefore could not have supplied the work carried out at the various residences the appellant built or was building during these periods. Furthermore, the individual with whom the appellant was doing business, Alain Archambault, had no relationship with these three companies. The appellant therefore appeared to be involved in a false invoicing scheme and did not provide any details regarding the employees who were doing the work or any official information from the Commission de la santé et de la sécurité du travail [Quebec workplace health and safety board] or confirmation from the Commission de la construction du Québec [Quebec construction commission] regarding the employees.
+[6] Therefore, the appellant is liable and must pay the sum of $3,998 plus interest and a penalty.
+[7] The appellant objects to this assessment because it received the services requested and paid its supplier, Alain Archambault, in full and in good faith, in accordance with his instructions.
+FALSE INVOICES
+[8] The respondent filed evidence, which the appellant did not contradict, proving that these three companies supplied false invoices on a massive scale (several million dollars each): they did not have the equipment, staff or administration required to carry out the work done for the appellant. They issued— or had issued for them—formal invoices, but these invoices described the work done in very brief terms; the cheques issued in consideration for the work were cashed at a cheque-cashing business the same day for a 3% commission, and the money disappeared. No GST was remitted to the Minister of Revenue of Quebec.
+[9] The respondent has established that these companies were involved in a false invoicing scheme and that none of them did in fact provide supplies to the appellant.
+[10] The evidence introduced at the hearing shows that the work required by the appellant was performed, at its request, by one Alain Archambault.
+[11] The issue to be resolved is therefore the following: Did the appellant make a reasonable mistake of fact or did it take reasonable precautions to comply with the law?
+LEGAL CONTEXT
+[12] When a registrant claims inputs against any amount payable for GST, it must comply with the terms of the law. The Federal Court of Appeal's ruling in Systematix Technology Consultants v. Her Majesty the Queen, 2007 FCA 226, at paragraph 4, is very clear:
+We are of the view that the legislation is mandatory in that it requires persons who have paid GST to suppliers to have valid GST registration numbers from those suppliers when claiming input tax credits.
+[13] Subsection 169(4) of the Excise Tax Act (ETA) states as follows:
+A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; . . .
+Input Tax Credit Information (GST/HST) Regulations, SOR/91-45, subparagraph 3(c)(iii).
+For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed [relevant] information:
+(a) . . .
+(i) . . .
+(ii) where an invoice is issued in respect of the supply or the supplies, the date of the invoice,
+. . .
+(iv) the total amount paid or payable for all of the supplies;
+(b) . . .
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under subsection 241(1) of the Act to the supplier or the intermediary, as the case may be,
+. . .
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient's name, the name under which the recipient does business or the name of the recipient's duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+[14] In this case, I gather from these acts and regulations that, before making a claim, in order to substantiate it, the appellant must have and submit its supplier's true name and registration number and must submit its own name, the amount paid or to be paid, the terms of payment and a description of each supply sufficient to identify it.
+FACTS
+[15] Mr. Marabella is a small contractor doing business under the name Les Constructions Marabella Inc., and is registered for GST/QST purposes. His company has no other employees except perhaps his spouse, Ms. J. Gracioppo, who does the appellant's accounting and is representing the appellant in this appeal. Each year, the company builds up to three houses to sell, depending on the economic situation and the availability of land for construction.
+[16] Mr. Marabella handles his projects personally, through subcontractors. Each subcontractor works in its own area of expertise, from preparing the land to laying foundations, building walls and roofs, installing the plumbing, the wiring and any other system needed for a residential building. Obviously, this includes installing the interior walls of the house and garage, which is where Alain Archambault, a drywall installer and seam caulker, comes in.
+[17] Mr. Marabella needs to obtain the various services at the right time; each task must be done in a specific order. He must retain the services of a given subcontractor based on his own schedule, someone who will do a good job quickly and within the time allotted.
+[18] Mr. Marabella was satisfied with the work of Alain Archambault and his crew. Mr. Archambault had been recommended to him. He also knew that Mr. Archambault was having problems with the authorities and was short of funds so he paid him promptly, within four or five days (this short timeframe attracted the attention of Revenu Québec, hence the audit). He also knew that these invoices were very short on details and came from different companies that he had never dealt with. However, he paid the invoices without questioning them because he was satisfied with the work of Alain Archambault, who presented the invoices as his own.
+[19] There is nothing before me that proves or suggests that Mr. Marabella was aware of the dubious practices identified and proved by the respondent.
+[20] The appellant submits that it does not have to pay a second time the GST it already remitted to Mr. Archambault in accordance with the invoices issued and paid immediately. Indeed, Mr. Marabella makes an emotional plea, asking what he has done wrong. His frustration—and that of Ms. Gracioppo—with the respondent's claim is evident.
+[21] On the basis of the evidence adduced by the appellant, I am satisfied that the work was performed to its satisfaction by Mr. Archambault, who, with his crew, installed the drywall delivered, at Mr. Marabella's request, at a specific site, and that the invoices issued to the appellant represented the work performed.
+[22] We have since learned that these three companies cashed the cheques immediately at cheque‑cashing businesses and that the money disappeared. There is no evidence before me that the appellant was aware of these facts, which were discovered after the cheques were issued.
+[23] I accept the appellant's evidence that it was not an accomplice to this fraud.
+[24] But the appellant, through Mr. Marabella, also knew that Mr. Archambault was having problems with the authorities, including those responsible for the GST, and it accepted Mr. Archambault's representations that these invoices issued by the three companies were in fact his own. Mr. Marbella testified emphatically that he did business with Mr. Archambault alone and did not know any of the three companies; he nevertheless paid them large sums of money, right away, without making any other inquiries.
+[25] Fraudulent activity of this sort has been considered in a number of judgments. I note here the judgment of this Court in Comtronic Computer Inc. and Her Majesty the Queen, 2010 TCC 55, in which Justice Patrick Boyle underscores the duty of an agent under the GST regime to obtain, in accordance with the above‑mentioned Regulations, a valid registration number for any supplier to which it has paid GST if it wants to claim that amount as an ITC.
+[26] Justice Boyle was applying Systematix Technology Consultants Inc., above.
+[27] In this case, it is not the registration number that is in question but the very identity of the supplier. Clearly, if it is not a true supplier, its registration number is invalid in respect of the recipient claiming the ITC. The supplier's name must match the registration number, and the supplier must in fact be the supplier.
+[28] It was a mistake for the appellant to accept the representations of Alain Archambault, its current supplier. It did so without checking to see if they were accurate. Without such verification, this mistake of fact is unreasonable, especially given the circumstances that prompted these representations, namely, the financial problems of the current supplier.
+[29] In Comtronic, above, at paragraph 29, Justice Boyle acknowledges that imposing such a duty on an agent can create hardship:
+. . . [T]his strict approach can result in unfairness to a purchaser who pays the GST in good faith. It leaves Canadian businesses bearing the risk of fraud, identity theft, and wrongdoing and effectively requires them to put into place risk management practices in dealing with new and continuing suppliers to identify supplier information that may require further investigation. A result such as this may prove harsh and unfair but it is open to Parliament to legislate such a regime and I am bound to apply that legislation as it has already been interpreted by the Federal Court of Appeal.
+(referring to Systematix, above).
+[30] I note that Mr. Marabella made this error in good faith. Unfortunately, this is not a defence in administrative matters, where only due diligence excuses either a reasonable error of fact, or the taking of reasonable precautions to comply with the Act (Corporation de l’École Polytechnique v. Canada, 2004 FCA 127, paragraph 28).
+[31] At paragraph 29 of that same judgment, the Federal Court of Appeal explains the distinction:
+. . . The good faith defence enables a person to be exonerated if he or she has made an error of fact in good faith, even if the latter was unreasonable, whereas the due diligence defence requires that the error be reasonable, namely, an error which a reasonable person would have made in the same circumstances. The due diligence defence, which requires a reasonable but erroneous belief in a situation of fact, is thus a higher standard than that of good faith, which only requires an honest, but equally erroneous, belief.
+[32] It was not reasonable (or prudent) for the appellant to pay the invoices presented by Mr. Archambault, its supplier, as he instructed, for work done by other alleged suppliers without obtaining the former’s registration number and without having done business with the latter. Knowing that Alain Archambault, its supplier, was having problems with the GST regime and needed money right away, the appellant should have protected itself by verifying these representations before paying a stranger. In the absence of such verification, these mistakes of fact were not reasonable.
+[33] I note that Mr. Marabella had complete trust in the suppliers with which he usually did business. He placed the same trust in Mr. Archambault, a new supplier, who betrayed that trust. Any business can protect itself by ensuring that the information prescribed by the legislation appears on its invoices, especially the ones it has to pay.
+[34] The appeal is dismissed.
+Signed at Montréal, Quebec, this 9th day of November 2012.
+"Jean-Louis Batiot"
+Batiot D.J.
+Translation certified true
+on this 30th day of November 2012
+Michael Palles, Translator/Language Adviser
+CITATION: 2012 TCC 397
+COURT FILE NO.: 2011-2684(GST)I
+STYLE OF CAUSE: LES CONSTRUCTIONS MARABELLA INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATES OF HEARING: October 1st and 4th, 2012
+REASONS FOR JUDGMENT BY: The Honourable Deputy Judge Jean-Louis
+Batiot
+DATE OF JUDGMENT: November 9, 2012
+APPEARANCES:
+For the appellant:
+Jiuseppina Gracioppo
+Counsel for the respondent:
+Marie-Pierre Létourneau
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

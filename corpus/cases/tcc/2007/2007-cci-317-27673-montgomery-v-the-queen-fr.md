@@ -1,0 +1,148 @@
+---
+title: "Montgomery v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27673/index.do"
+last_modified: "2007-05-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 317"
+citation2: ""
+neutral_citation: "2007 CCI 317"
+decision_date: "2007-05-15"
+language: "fr"
+item_id: "27673"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 494
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:41:11.956000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "99988850d02230b455365a9d45cdc3d7cdadf5ddbfc87e9193daa0a3357becb7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Montgomery v. The Queen
+
+- Citation: 2007 CCI 317
+- Decision date: 2007-05-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 494, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Montgomery v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-15
+Référence neutre
+2007 CCI 317
+Numéro de dossier
+2006-3250(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3250(IT)I
+ENTRE :
+PRISCILLE G. MONTGOMERY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+Appel entendu le 15 mai 2007 à Sudbury (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelante: L’appelante elle-même
+Avocate de l’intimée : Me Jade Boucher
+Jugement
+L’appel à l’égard d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est rejeté.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 15e jour d’octobre 2007.
+Aleksandra Koziorowska, LL.B.
+Référence : 2007CCI317
+Date : 20070601
+Dossier : 2006-3250(IT)I
+ENTRE :
+PRISCILLE G. MONTGOMERY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT La juge Woods [1] Quel sens faut-il donner au mot « intérêts » pour l’application de l’alinéa 12(1)c) de la Loi de l’impôt sur le revenu (la « LIR »)? Cette question est soulevée dans le contexte d’une indemnité reçue par Priscille Montgomery sous le régime de la législation en matière d’équité salariale.
+[2] À la fin des années 70, le Parlement a adopté la Loi canadienne sur les droits de la personne (la « LCDP ») dont l’un des effets est d’interdire au gouvernement fédéral de pratiquer la disparité salariale discriminatoire entre les hommes et les femmes.
+[3] Mme Montgomery, une employée de bureau du gouvernement fédéral durant la période pertinente, a reçu, en l’an 2000, un rajustement salarial rétroactif sous le régime de la législation en matière d’équité salariale. Le paiement a été fait conformément à une ordonnance rendue par le Tribunal canadien des droits de la personne (le « tribunal »), lequel donnait ainsi suite à une plainte déposée au nom d’un grand nombre d’employées de bureau. Cette plainte a été déposée le 19 décembre 1984 et le tribunal a rendu sa décision le 29 juillet 1998. Les employées touchées se sont vu accorder un rajustement salarial rétroactif au 8 mars 1985 et les intérêts sur ce montant jusqu’à la date du paiement.
+[4] Lors d’une révision judiciaire, la Section de première instance de la Cour fédérale a confirmé la décision du tribunal. Peu après, les parties ont réglé certains détails restants, et leur entente a été mise en œuvre par la voie d’une ordonnance sur consentement rendue par le tribunal.
+[5] L’indemnité accordée à Mme Montgomery comprenait un montant de 12 186,25 $ que son employeur a qualifié d’intérêts sur un état T5. Il semble qu’une grande partie de cette somme représente ce qui est habituellement décrit comme des « intérêts antérieurs au jugement » et qu’une petite partie représente des « intérêts postérieurs au jugement ».
+[6] Mme Montgomery affirme que cette somme n’est pas imposable parce qu’elle ne constitue pas des intérêts. Le Couronne admet que cette somme n’est pas imposable à moins qu’elle ne constitue des intérêts.
+[7] Pour éclairer le contexte, je note en passant que plusieurs autres contribuables ont apparemment eux aussi contesté l’imposition de la portion de l’indemnité représentant les intérêts.
+[8] Le premier appel qu’a entendu la Cour est Burrows v. The Queen, (2006) D.T.C. 2172 (C.C.I.), où a été présenté un argument selon lequel l’imposition de la portion de l’indemnité représentant les intérêts était contraire aux dispositions de la Charte canadienne des droits et libertés. Mme Burrows ne s’est pas opposée à ce qu’on qualifie cette somme d’« intérêts ». La juge Lamarre a rejeté cet appel.
+[9] Plus récemment, la Cour a entendu d’autres appels; je crois comprendre qu’ils ont tous été rejetés oralement à l’audience. Au moment de la rédaction du présent jugement, plusieurs autres appels sont en instance.
+[10] Voici le libellé de la disposition pertinente, l’alinéa 12(1)c) de la LIR :
+12. (1) Sont à inclure dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien, au cours d’une année d’imposition, celles des sommes suivantes qui sont applicables :
+[…]
+c) sous réserve des paragraphes (3) et (4.1), les sommes reçues ou à recevoir par le contribuable au cours de l’année (selon la méthode qu’il suit normalement pour le calcul de son revenu) à titre ou en paiement intégral ou partiel d’intérêts, dans la mesure où ces intérêts n’ont pas été inclus dans le calcul de son revenu pour une année d’imposition antérieure;
+[Non souligné dans l’original.]
+[11] Agissant pour son propre compte lors de l’audience, Mme Montgomery a présenté plusieurs arguments. Selon le premier de ses arguments, l’alinéa 12(1)c) ne s’applique pas à tous les types d’intérêts, mais seulement à ceux qui sont tirés d’un bien ou d’une entreprise. À son avis, le montant en cause n’est pas tiré d’un bien ou d’une entreprise.
+[12] Selon le deuxième des arguments de Mme Montgomery, le mot « intérêts » n’englobe, d’après le sens qui lui est généralement donné dans les dictionnaires, que les sommes payées relativement à de l’argent emprunté. Elle note que le présent litige ne vise aucun emprunt.
+[13] On a fait référence à une définition du mot « intérêt » que Mme Montgomery a découverte dans un dictionnaire électronique. En voici le texte :
+[TRADUCTION]
+[n.m.] Une charge fixe liée à l’emprunt d’argent; représente habituellement un pourcentage du montant emprunté; « quel taux d’intérêt payez-vous sur votre prêt hypothécaire? »
+[14] De plus, Mme Montgomery soutient que l’interprétation de l’alinéa 12(1)c) doit être faite d’une façon similaire à celle de la disposition permettant la déduction des intérêts, l’alinéa 20(1)c). Elle affirme que la déduction se limite aux intérêts versés à l’égard de l’argent emprunté, et qu’on devrait considérer qu’une limite semblable est incluse dans l’alinéa 12(1)c).
+[15] Malheureusement pour l’appelante, je ne suis pas d’accord avec ses arguments.
+[16] Premièrement, quant à savoir si la portion de l’indemnité représentant les intérêts tire sa source d’un bien ou d’une entreprise, je crois qu’elle est tirée d’un bien. Le gouvernement fédéral, en ne versant pas aux employées de bureau des salaires correspondant à ceux touchés par les hommes occupant des postes dont les fonctions sont comparables, a donné naissance au droit à une compensation au titre de la LCDP. Ce droit est un bien : terme qui reçoit une définition large au paragraphe 248(1) de la LIR.
+[17] Deuxièmement, je ne me rends pas à l’argument de Mme Montgomery voulant que le sens généralement accepté d’« intérêts », tel qu’il se trouve dans les dictionnaires, se limite aux cas d’emprunts d’argent.
+[18] Mme Montgomery a fait référence à un extrait d’une recherche informatique associant l’intérêt à l’argent emprunté. L’extrait fourni ne révèle pas la source originale de la définition donnée.
+[19] Je pense que la définition fournie par Mme Montgomery est trop étroite. Je relève la définition suivante du mot « intérêt » dans The Canadian Oxford Dictionary, 2e édition, 2004 : [TRADUCTION] « somme payée pour l’usage d’argent prêté ou pour éviter que le créancier n’exige le remboursement d’une dette. » Cette définition porte à croire que l’intérêt peut se rapporter à tout type de dette, et non pas aux seules dettes prenant la forme d’emprunts d’argent.
+[20] Mme Montgomery soutient aussi que l’alinéa 12(1)c) devrait être interprété d’une façon similaire à l’alinéa 20(1)c), lequel, selon elle, ne s’applique qu’à l’intérêt relatif à l’argent emprunté.
+[21] Je ne peux me rendre à son opinion. D’abord, contrairement à ce qu’avance Mme Montgomery, l’alinéa 20(1)c) ne s’applique pas aux seuls cas d’emprunts d’argent. Ensuite, les deux dispositions n’ont pas la même formulation, et il y a donc lieu de croire que le Parlement n’a pas souhaité leur donner une portée similaire. Il n’existe aucune raison de restreindre le sens du mot « intérêts » dans l’alinéa 12(1)c) aux situations impliquant l’emprunt d’argent.
+[22] À mon avis, la portion de l’indemnité représentant les intérêts qu’a reçue Mme Montgomery est correctement qualifiée d’« intérêts » qui doivent être inclus dans le calcul du revenu en application de l’alinéa 12(1)c). Durant la période visée pas l’indemnité, le salaire reçu par Mme Montgomery violait les dispositions de la LCDP. La portion de l’indemnité représentant les intérêts a été versée à Mme Montgomery pour compenser la retenue de sommes qui auraient normalement dû lui être versées sous forme de salaire.
+[23] La décision du juge Reed dans Miller v. The Queen, 85 D.T.C. 5354 (C.F. 1re inst.) est pertinente en l’espèce. Dans Miller, il a été décidé que l’intérêt versé à l’égard d’un versement salarial rétroactif constituait de l’intérêt dans le cadre de la déduction de 1 000 $ prévue par l’article 110.1 de la LIR en vigueur à l’époque. Le rajustement salarial était issu d’un arbitrage exécutoire ayant eu lieu sous le régime d’une convention collective.
+[24] Le juge a résumé ainsi ses conclusions :
+Selon moi, la somme de 62,51 $ constitue véritablement un paiement d'intérêt. Les parties ont convenu que leurs rapports seraient régis par un accord rétroactif, ce qui impliquait la détention de sommes d'argent dues à la demanderesse pour laquelle celle-ci a finalement été dédommagée. Les parties et le conseil d'arbitrage ont considéré que le dédommagement versé constituait un intérêt. Il a été calculé sur une base cumulative et on a tenu compte soit du taux normal d'intérêt qui prévalait alors, soit des frais d'emprunt de l'employeur. Je ne vois pas pourquoi cette somme ne serait pas visée par le mot « intérêt » tel qu'il est utilisé à l'article 110.1 de la Loi de l'impôt sur le revenu.
+[25] Les faits du présent appel sont analogues à ceux dans l’affaire Miller : je ne vois donc pas de raison de ne pas appliquer cette décision en l’espèce.
+[26] Malgré les courageux efforts de Mme Montgomery, je conclus que c’est à bon droit que la portion de l’indemnité représentant des intérêts qu’elle a reçue en 2000 est incluse dans le calcul de son revenu en application de l’alinéa 12(1)c). L’appel est rejeté.
+Signé à Toronto (Ontario) en ce premier jour de juin 2007.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 1er jour d’octobre 2007.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2007CCI317
+No DU DOSSIER DE LA COUR : 2006-3250(IT)I
+INTITULÉ : Pricsille G. Montgomery et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Sudbury (Ontario)
+DATE DE L’AUDIENCE : Le 15 mai 2007
+MOTIFS DU JUGEMENT : L’honorable juge Judith Woods
+DATE DU JUGEMENT : Le 1er juin 2007
+COMPARUTIONS :
+Pour l’appelante : L’appelante elle-même
+Avocate de l’intimée : Me Jade Boucher
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s/o
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)

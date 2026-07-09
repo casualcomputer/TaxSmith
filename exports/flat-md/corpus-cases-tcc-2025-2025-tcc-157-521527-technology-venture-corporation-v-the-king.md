@@ -1,0 +1,226 @@
+---
+title: "Technology Venture Corporation v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521527/index.do"
+last_modified: "2025-10-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 157"
+citation2: ""
+neutral_citation: "2025 TCC 157"
+decision_date: "2025-10-28"
+language: "en"
+item_id: "521527"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5580
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:07:13.130000+00:00"
+cases_cited_count: 12
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c873801c5014e9cdcfb847ec7b1ec5f066486b158172459316020026712f2ecc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Technology Venture Corporation v. The King
+
+- Citation: 2025 TCC 157
+- Decision date: 2025-10-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5580, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Technology Venture Corporation v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-10-28
+Neutral citation
+2025 TCC 157
+File numbers
+2017-947(IT)G
+Judges and Taxing Officers
+Joanna Hill
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-947(IT)G
+BETWEEN:
+TECHNOLOGY VENTURE CORPORATION,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard on March 7, 2024 and August 21, 2025,
+at Toronto, Ontario
+Before: The Honourable Justice Joanna Hill
+Appearances:
+Counsel for the Appellant:
+Jeffrey H. Ellsworth
+Counsel for the Respondent:
+Tokunbo Omisade
+ORDER
+Further to the attached Reasons, the Appellant’s motion for substantial indemnity costs is denied. The Respondent is required to pay the Appellant enhanced costs of $169,995.18 and $132,664.26 in disbursements. No costs are payable on the motion.
+Signed this 28th day of October 2025.
+“Joanna Hill”
+Hill J.
+Citation: 2025 TCC 157
+Date: 20251028
+Docket: 2017-947(IT)G
+BETWEEN:
+TECHNOLOGY VENTURE CORPORATION,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Hill J.
+A. Introduction [1] On June 15, 2023, I rendered an oral decision allowing the Appellant’s appeal from the Minister of National Revenue’s reassessments characterizing five securities portfolios as income earning activities rather than investments on capital account. I also awarded the Appellant costs in accordance with Tariff B of the Tax Court of Canada Rules (General Procedure).
+[2] The Appellant subsequently sought substantial indemnity costs, pursuant to Rule 147(3.1), based on a settlement offer it made to the Respondent shortly after pleadings closed. The Appellant claims $326,417.50, representing 80% of its legal fees since the offer was made, as well as $194,705.59 in disbursements.
+[3] As outlined below, I have concluded that the Appellant is not entitled to substantial indemnity costs because it failed to comply with the confidentiality requirement in Rule 147(3.8) when it sent a copy of its settlement offer to the Court.
+[4] However, I also have concluded that the Appellant is entitled to enhanced costs further to the factors in Rule 147(3). Considering the results of the proceeding and the Appellant’s settlement offer, the Appellant is entitled to 45% of its legal fees and all disbursements, albeit in reduced amounts further to my review below.
+B. The confidentiality requirement for substantial indemnity costs [5] The provisions awarding substantial indemnity costs with respect to settlement offers are found in Rules 147(3.1) to 147(3.8). While these provisions were added effective February 7, 2014, the Court began applying the proposed new rules effective January 2010.[1]
+[6] The parties do not dispute that the threshold requirements of Rules 147(3.1) and 147(3.3) are met. The Appellant sent the Respondent a settlement offer on September 1, 2017, shortly after the close of pleadings. The offer was more favourable to the Respondent than my judgment in that the Appellant was willing to concede that one of the five securities portfolios at issue was held as income. The offer was not withdrawn and the Respondent did not accept it.
+[7] The Respondent’s sole argument against awarding substantial indemnity costs is that the Appellant failed to comply with Rule 147(3.8), which contains a requirement that the offer not be disclosed to the Court until after the trial judge has determined the substantive issues, other than costs.
+[8] In the present case, a copy of the settlement offer also was sent to the Court on September 1, 2017. I was not aware of its existence until after the trial, when the Respondent raised the issue in response to the Appellant’s motion for substantial indemnity costs. The Appellant claims that it was similarly unaware that the Court had received the copy and that it rectified the mistake with the Court Registry soon thereafter.
+[9] The Rules do not specify the consequences for breaching the confidentiality requirement in Rule 147(3.8). The Respondent argues that the breach automatically disentitles the Appellant from substantial indemnity costs. The Appellant argues that a proportional approach is required, taking into account that there was no prejudice from the error since I, as the trier of fact, was not aware of the offer until after I rendered a decision on the substantive issues. The Appellant further argues that strict adherence to Rule 147(3.8) is not required, considering the terms of the other provisions like Rules 147(3.1) and 147(3.3).
+[10] The proper application of Rule 147(3.8) is therefore at issue. As outlined below, I have concluded that it is a mandatory requirement because to hold otherwise would render the Rule meaningless and undermine the purpose of the substantial indemnity costs provisions as a whole.
+The text, context, and purpose of Rule 147(3.8) [11] The Appellant’s position compares the language of Rule 147(3.8) to the other substantial indemnity costs provisions. Rule 147(3.8) is mandatory, but does not contain a specific reference to a party’s entitlement:
+147(3.8) No communication respecting an offer of settlement shall be made to the Court, other than to a judge in a litigation process conference who is not the judge at the hearing, until all of the issues, other than costs, have been determined.
+147(3.8) Tant qu’une décision n’aura pas été rendue sur toutes les questions en litige, à l’exception de celle relative aux dépens, aucune communication concernant une offre de règlement n’est faite à la Cour, sauf à un juge qui préside une conférence dans le cadre d’une instance et qui n’est pas celui qui présidera l’audition de cet appel.
+[12] By contrast, Rule 147(3.1) outlines the general requirements and resulting entitlement for an appellant:[2]
+147(3.1) Unless otherwise ordered by the Court, if an appellant makes an offer of settlement and obtains a judgment as favourable as or more favourable than the terms of the offer of settlement, the appellant is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+147(3.1) Sauf directive contraire de la Cour, lorsque l’appelant fait une offre de règlement et qu’il obtient un jugement qui est au moins aussi favorable que l’offre de règlement, l’appelant a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+[13] Rules 147(3.3) and 147(3.4) list additional, detailed requirements:
+147(3.3) Subsections (3.1) and (3.2) do not apply unless the offer of settlement
+(a) is in writing;
+(b) is served no earlier than 30 days after the close of pleadings and at least 90 days before the commencement of the hearing;
+(c) is not withdrawn; and
+(d) does not expire earlier than 30 days before the commencement of the hearing.
+147(3.3) Les paragraphes (3.1) et (3.2) ne s’appliquent que si l’offre de règlement :
+a) est faite par écrit;
+b) est signifiée au moins trente jours après la clôture de la procédure écrite et au moins quatre-vingt-dix jours avant le début de l’audience;
+c) n’est pas retirée;
+d) n’expire pas moins de trente jours avant le début de l’audience.
+147(3.4) A party who is relying on subsection (3.1) or (3.2) has the burden of proving that
+(a) there is a relationship between the terms of the offer of settlement and the judgment; and
+(b) the judgment is as favourable as or more favourable than the terms of the offer of settlement, or as favourable or less favourable, as the case may be.
+147(3.4) Il incombe à la partie qui invoque le paragraphe (3.1) ou (3.2) de prouver :
+a) qu’il existe un rapport entre la teneur de l’offre de règlement et le jugement;
+b) que le jugement est au moins aussi favorable que l’offre de règlement ou qu’il n’est pas plus favorable que l’offre de règlement, selon le cas.
+[14] While Rule 147(3.8) is not as explicit as these other provisions, the text favours an interpretation that respects the mandatory language therein, as well as the overall purpose of the provision. Rule 147(3.8) cannot be considered in isolation.
+[15] The Regulatory Impact Analysis Statement published in conjunction with the proposed new rules outlines that the purpose of encouraging early settlements applies to all of the new provisions:[3]
+Parties are entitled to make and accept offers of settlement at any time before there is a judgment and any written offer to settle will be considered by the Court in assessing costs under section 147. In addition to this general rule, there is a need to encourage parties to reach an early settlement, ideally before the beginning of the trial or hearing. This is the specific objective of adding subsections 147(3.1) to (3.8). [emphasis added]
+[16] Rule 147(3.8) supports this purpose by reinforcing the importance of maintaining the confidentiality of settlement offers. Rule 147(3.8) is consistent with settlement privilege, the common law rule of evidence that protects communications exchanged by parties trying to settle.[4] The Supreme Court of Canada has recognized that settlement privilege promotes honest and frank discussions between the parties, without fear that information they disclose will be used against them in litigation.[5]
+[17] Like settlement privilege, Rule 147(3.8) preserves the integrity of the settlement process as well as the trial itself because it prohibits communicating the settlement offer to the trial judge.[6]
+[18] Like settlement privilege, there is an exception in Rule 147(3.8) for disclosure to Court after “all of the issues, other than costs, have been determined”. This exception reflects the common law principle that a settlement will cease to be privileged if disclosure is necessary to prove its existence and scope.[7] As outlined by Rules 147(3.1) through 147(3.7), the disclosure of the offer itself is necessary to establish entitlement to substantial indemnity costs in this Court.
+[19] As a result, Rules 147(3.1) through 147(3.8) must be read as a whole, and a breach of Rule 147(3.8) must have consequences. Otherwise, both the mandatory language of the provision and the importance of the underlying principles would be undermined.
+[20] In the present case, the Appellant’s submissions suggest that the disclosure was inadvertent. However, the Appellant did not file any affidavit evidence to that effect.
+[21] Notably, the Appellant specifically invoked Rule 147(3.1), but did not take steps to ensure that it complied with Rule 147(3.8). The cover letter for the offer contains a single sentence stating that it was being served on the Respondent “in accordance with subsection 147(3.1) of the Tax Court of Canada Rules (General Procedure)”.[8] The cover letter then ends with “c.c.: Tax Court of Canada”. The Fax Transmission Cover Page and Transmission Verification Report confirm that a copy was sent to the Court.
+[22] The Appellant is not entitled to substantial indemnity costs because this communication breached the requirement in Rule 147(3.8).
+[23] In any event, the opening words of Rule 147(3.1) provides the Court with the discretion to override the 80% default award.[9] In doing so, the Court must apply a principled approach that respects the entitlement created under the provisions.[10] Recognizing the importance of the confidentiality requirement in Rule 147(3.8) meets that principled requirement.
+C. Enhanced costs [24] While the Appellant has not met the requirements for substantial indemnity costs, I have concluded that enhanced costs are warranted based on three relevant factors in Rule 147(3).[11]
+(1) result of the proceeding [25] This factor favours the Appellant because it was wholly successful in an appeal that could have had different outcomes.[12] Depending on the relevant facts, the five securities portfolios could have received different characterizations.[13] Indeed, the Appellant’s settlement offer proposed a different treatment for one of the securities portfolios at issue.
+(2) Appellant’s settlement offer [26] As outlined above, but for the breach of Rule 147(3.8), the Appellant would have been entitled to substantial indemnity costs of 80% of its legal fees. The Respondent argues that this breach also makes this a neutral factor that does not favour the Appellant. I disagree.
+[27] The Appellant made a written settlement offer shortly after the close of pleadings and before either party incurred significant expense in relation to the appeal. The offer had substance and was a compromise in the circumstances of this appeal.[14] The Appellant obtained a better result at trial, after incurring significant legal fees for the remaining steps in the appeal.
+[28] This factor weighs in favour of enhanced costs, especially in light of my conclusions regarding the Respondent’s position at trial.
+(3) Other matters relevant to the question of costs (a) the Respondent’s position at trial [29] The test to determine whether property is held on capital or income amount is highly factual.[15] In deciding the appeal, I concluded that the Respondent relied on a long list of assumptions of fact that were clearly wrong or had little relevance in the particular context of the Appellant’s case.
+[30] The Respondent’s position at trial suggested that it did not properly assess the validity of its material assumptions of fact and that it did not understand the Appellant’s overall investment strategy, the types of investment, or the management required for sizeable portfolios.
+[31] Indeed, the Respondent’s chronology of the procedural steps in the appeal confirm my conclusions in this regard. For example, although the Respondent described the Appellant’s document production as “voluminous”,[16] the Respondent’s examination for discovery of the Appellant’s nominee lasted less than 90 minutes.[17]
+[32] Similar to this Court’s conclusions in O’Dwyer,[18] I therefore find the Respondent’s failure to appreciate the factual deficiencies of its case warrants enhanced costs.
+(b) the reasonableness of the Appellant’s costs [33] The Respondent argues that the Appellant’s legal fees and disbursements were not reasonable considering the amounts at issue. In this respect, the Appellant is claiming more than $520,000 in costs[19] for an appeal with approximately $560,000 of federal tax at issue.[20] The Respondent also takes issue with the Appellant retaining a total of three law firms to work on the appeal and the lack of specificity regarding the work performed.
+[34] I agree with the Appellant that the tax treatment of its investment portfolios impacted other taxation years, and I am reluctant to doubt the veracity of hours billed by counsel who are officers of the Court.[21] However, the general nature of some of the billing, in particular over $100,000 in fees related to emails reviewed, does not favour the Appellant.
+[35] Furthermore, the claimed legal fees should be reduced from $408,021.87 to $377,767.06, based on excluding the following amounts:
+$6767.76 from the September 12, 2023 and November 14, 2023 invoices for work that post-dated the trial. These amounts relate to the present motion and are addressed separately in these Reasons below.
+$23,487.05 from Lorne Waldman related to the September 2020 motion for an adjournment because (a) the Order granting the motion did not award costs, (b) the Respondent consented to the motion, (c) the amount is not reasonable, and (d) the Appellant did not explain why a separate law firm was retained to perform this interlocutory step.
+[36] In light of the foregoing, I have determined that enhanced costs of $169,995.18, based on 45% of the Appellant’s legal fees, are warranted.
+D. Disbursements [37] The Appellant’s claimed disbursements also should be reduced in light of the requirements that disbursements should be essential for the conduct of the proceeding and reasonable in the circumstances of the case.[22] The following amounts are excluded, accordingly:
+$28,897.50 from six KPMG invoices for work conducted during the audit and objection. Parties cannot include pre-litigation costs in their requests.[23]
+$6,733.95 in disbursements contained in a law firm invoice dated September 12, 2023 for services performed after the trial concluded. Those amounts relate to the present motion and are addressed separately in these Reasons below.
+$11,669.41 for accounting services and travel expenses for Luann Jones-Foster to attend trial, because Ms. Jones-Foster was not a witness and the Appellant did not explain why it needed to have her otherwise available.[24]
+[38] Disbursements also should be sufficiently supported by documentation establishing what the expenses were and that they were in fact incurred. Rather than engaging in a detailed audit of all the amounts challenged by the Respondent, I will apply a 10% discount to address valid concerns regarding various unsupported law firm and travel disbursements, and the large fee paid to Deloitte Management Services for unspecified “support services” provided to the Appellant’s expert.[25]
+[39] The total allowable disbursements is therefore reduced to $132,664.26.[26]
+E. GST/HST [40] The Respondent argues that the amounts claimed by the Appellant should not include GST/HST paid with respect to the legal fees or disbursements on the basis that the Appellant may recover the amounts as input tax credits. The Appellant argues that it cannot recover those amounts because it does not make taxable supplies. In her affidavit in support of this motion, the Appellant’s CEO states that:[27]
+While the Appellant corporation is registered for an HST number, the Appellant is not engaged in any commercial activities in which the Appellant makes any taxable supplies of goods and services, nor has the Appellant ever been engaged in such commercial activities. The Appellant therefore has no means of recovering, as input tax credits under the Excise Tax Act or otherwise, any sales taxes paid on fees or disbursements incurred in the course of the present Appeal.
+[41] Although this statement is a legal conclusion rather than a factual assertion, the Respondent did not provide any affidavit evidence regarding the Appellant’s actual GST/HST filings or submissions regarding the application of relevant provisions of the Excise Tax Act to the Appellant’s business activities.
+[42] Accordingly, I have not been provided with a sufficient basis to exclude GST/HST from the costs award.
+F. Costs on the motion [43] The Appellant is not seeking costs on this motion, in recognition that its conduct unnecessarily delayed this proceeding. Notably, some of these delays occurred because the Appellant:
+wrote to the Court to advise that it was claiming substantial indemnity costs arising from a settlement offer, instead of filing motion materials as and when required by Rule 147(7);
+failed to provide the Respondent with a bill of costs to review and consider for a possible settlement prior to the first hearing date of March 7, 2024; and
+was otherwise not adequately prepared for that first hearing date.[28]
+[44] Despite this concession, the Appellant’s request includes legal fees and disbursements up until it filed its first motion record (see the excluded amounts in paragraphs 35 and 37 above). Considering that those preparations were inadequate, there is no basis to award costs in this regard.
+G. Conclusion [45] Based on the above analysis, the Appellant is entitled to enhanced costs of $169,995.18 and $132,664.26 for disbursements.
+Signed this 28th day of October 2025.
+“Joanna Hill”
+Hill J.
+CITATION:
+2025 TCC 157
+COURT FILE NO.:
+2022-1934(IT)G
+STYLE OF CAUSE:
+TECHNOLOGY VENTURE CORPORATION v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 7, 2024 and August 21, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Joanna Hill
+DATE OF JUDGMENT:
+October 28, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Jeffrey H. Ellsworth
+Counsel for the Respondent:
+Tokunbo Omisade
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jeffrey H. Ellsworth
+Firm:
+Ellsworth, Johnson & Partners
+Moncton, New Brunswick
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Sun Life Assurance Company of Canada v HMTQ, 2015 TCC 171, para 7 (Sun Life).
+[2] Rule 147(3.2) contains identical requirements for the respondent.
+[3] Canada Gazette, Part I, Volume 146, Number 49: SUPPLEMENT, December 8, 2012.
+[4] Union Carbide Canada Inc. v Bombardier Inc., 2014 SCC 35, paras 31-32, and 34 (Union Carbide).
+[5] Union Carbide, para 31.
+[6] Rule 126.2(2) similarly outlines that a judge who presides at a settlement conference shall not preside at the hearing of the appeal and shall not communicate with the judge hearing the appeal concerning anything that was said or done at the settlement conference. Rule 126.2 (settlement conferences) was added at the same time as the substantial indemnity costs provisions in Rules 147(3.1)-147(3.8).
+[7] Union Carbide, para 35.
+[8] Appellant’s August 2023 Motion Record, Exhibit “C” to the Affidavit of Jeffrey H. Ellsworth.
+[9] Hull v HMTK, 2023 FCA 72, para 4. Bowker v HMTQ, 2022 TCC 43, para 34 (Bowker TCC).
+[10] Sun Life, paras 9-11.
+[11] The remaining factors either do not apply or are neutral.
+[12] HMTK v Bowker, 2023 FCA 133, paras 34-37 (Bowker FCA).
+[13] See also Nixon v HMTK, 2024 TCC 4, para 8, where the Court considered this factor in relation to a claimed gift.
+[14] Loblaw Financial Holdings Inc. v HTMQ, 2020 FCA 79, para 95. SCDA (2005) Inc. v HMTQ, 2017 FCA 177, paras 29-30.
+[15] Notably, in paragraphs 54 and 46 of their October 2024 Written Submissions, the Respondent stated that “the case was highly factual” and that “the appeal was largely disposed of by findings of fact with respect to the evidence presented at the hearing”.
+[16] Respondent’s October 2024 Written Submissions, para 51. Paragraphs 9, 14 & 15 outlined that the Appellant’s List of Documents contained 139 tabs sorted by investment portfolio, and its Supplementary List of Documents had an additional 48 tabs.
+[17] Respondent’s October 2024 Written Submissions, para 16. Affidavit of Nancy Snow, Affirmed October 15, 2024, para 15, Exhibit “G”.
+[18] O’Dwyer v HMTQ, 2014 TCC 90, paras 11, 22, & 27. See also Fuhr v HMTK, 2025 TCC 27, paras 37 & 40.
+[19] This amount does not take into account legal fees incurred prior to the settlement offer because the Appellant did not include them in their motion materials. However, as noted by counsel for the Appellant, those legal fees were minimal considering the only steps taken at that point were the filing of the Notice of Appeal and preparation of the settlement offer. I would also note that the claim for disbursements includes KPMG fees for the preparation of both documents.
+[20] Respondent’s October 2024 Written Submissions, para 45. Paragraph 13 of the Appellant’s October 2024 Written Submissions outlines that it received tax refunds totalling $385,654.38 as a result of the appeals being allowed.
+[21] Hansen v HMTQ, 2021 TCC 39, para 50.
+[22] Bowker TCC, paras 37-38.
+[23] Bowker FCA, para 75.
+[24] Repsol Canada v HMTQ, 2015 TCC 154, para 18 (Repsol).
+[25] See Repsol, para 19, where the Court applied a 50% reduction to an amount “rather than conducting a full fledge audit of expenses”.
+[26] $194,705.59 - ($28,897.50 + $6,733.95 + $11,669.41) x .90.
+[27] Affidavit of Susan Hicks, sworn October 13, 2024, para 19, Appellant’s October 2024 Motion Record.
+[28] As a result, I adjourned the motion and ordered the Appellant to file and serve proper materials.

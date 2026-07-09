@@ -1,0 +1,305 @@
+Title: Corner Brook Pulp and Paper Limited (Formerly Deer Lake Power Company Limited) v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25814/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-70-25814-corner-brook-pulp-and-paper-limited-formerly-deer-lake-power-company-limited-v-t-fr.md
+Document type: case_law
+Last modified: 2006-02-16
+
+# Corner Brook Pulp and Paper Limited (Formerly Deer Lake Power Company Limited) v. The Queen
+
+- Citation: 2006 CCI 70
+- Decision date: 2006-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3890, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Corner Brook Pulp and Paper Limited (Formerly Deer Lake Power Company Limited) v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-02-16
+Référence neutre
+2006 CCI 70
+Numéro de dossier
+2003-3375(IT)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003‑3375(IT)G
+ENTRE :
+CORNER BROOK PULP AND PAPER LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu les 1er, 2 et 3 novembre 2005, à Montréal (Québec).
+Devant : L'honorable juge en chef D. G. H. Bowman
+Comparutions :
+Avocats de l'appelante :
+Me André P. Gauthier
+Me Josée Vigeant
+Avocats de l'intimée :
+Me John P. Bodurtha
+Me John W. MacDonald
+________________________________________________________________
+JUGEMENT
+La Cour ordonne que l'appel interjeté à l'égard de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1999 soit accueilli avec dépens et que l'affaire soit déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que la juste valeur marchande des actions émises par Deer Lake Power Company à Corner Brook Pulp and Paper Limited correspondait à tout le moins à la dette de 20 000 000 $ qui a été éteinte, de sorte qu'aucune partie de cette dette de 20 000 000 $ exigible de Deer Lake Power Company Limited par Corner Brook Pulp and Paper Limited n'a fait l'objet d'une renonciation pendant l'année en cause et que, par conséquent, l'article 80 de la Loi de l'impôt sur le revenu est inapplicable.
+Signé à Ottawa, Canada, ce 16e jour de février 2006.
+« D. G. H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 22e jour d'avril 2008.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI70
+Date : 20060216
+Dossier : 2003‑3375(IT)G
+ENTRE :
+CORNER BROOK PULP AND PAPER LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Il s'agit d'un appel visant la cotisation établie à l'égard de l'appelante pour l'année d'imposition 1999. La question en litige peut s'énoncer brièvement. Au moment d'établir la juste valeur marchande (la « JVM ») des actions d'une filiale en propriété exclusive, faut‑il prendre en compte les conditions d'un contrat d'approvisionnement qui a été conclu par la société mère et la filiale et qui est défavorable à cette dernière?
+[2] La question est soulevée dans le contexte suivant. Corner Brook Pulp and Paper Limited (« Corner Brook ») était propriétaire de la totalité des actions de Deer Lake Power Company Limited (« Deer Lake »), jusqu'à la fusion des deux sociétés en décembre 1998. La société découlant de la fusion se nomme aussi Corner Brook Pulp and Paper Limited. Cette société sera désignée comme l'appelante.
+[3] Le 1er février 1995, Deer Lake devait 20 000 000 $ à Corner Brook. À cette date, Corner Brook a souscrit 4 millions d'actions ordinaires de Deer Lake à un prix de souscription de 5 $ l'action. Les actions ont été émises à Corner Brook à titre de paiement de la dette de 20 000 000 $. Par suite de l'émission des actions à Corner Brook, celle‑ci est devenue propriétaire de la totalité des 7 600 000 actions émises et en circulation de Deer Lake.
+[4] Dans le calcul de son revenu imposable pour 1999, l'appelante a déduit des pertes autres qu'en capital de 2 528 224 $. Il s'agissait des pertes que Deer Lake avait accumulées avant la fusion et qui ont été reportées à la société issue de la fusion.
+[5] Le ministre du Revenu national a refusé la déduction des pertes au motif que les pertes autres qu'en capital de la société remplacée, Deer Lake, avaient été réduites à néant en raison de l'application de l'article 80 de la Loi de l'impôt sur le revenu. Le ministre estime que les 4 millions d'actions de Deer Lake qui ont été émises pour régler la dette de 20 000 000 $ n'ont pas eu pour effet d'acquitter la dette et qu'il y a eu une remise de dette de 2 984 000 $.
+[6] La thèse avancée par l'appelante est relativement simple : Deer Lake devait 20 000 000 $ à Corner Brook. Deer Lake a acquitté la dette en entier en émettant des actions d'une valeur de 20 000 000 $.
+[7] Cependant, le ministre ne voit pas les choses du même oeil.
+[8] Les alinéas 80(2)g) et g.1) de la LIR, selon le libellé qui s'applique aux années d'imposition se terminant après le 21 février 1994, sont ainsi rédigés :
+g) dans le cas où une société émet une action, sauf une valeur mobilière exclue, en faveur d'une personne en contrepartie du règlement d'une dette émise par la société et payable à la personne, le montant payé en règlement de la dette en raison de l'émission de l'action est réputé égal à la juste valeur marchande de l'action au moment de son émission;
+g.1) en cas de règlement, à un moment donné, d'une dette émise par une société et payable à une personne, le montant qu'il est raisonnable de considérer comme représentant l'augmentation, découlant du règlement de la dette, de la juste valeur marchande des actions du capital‑actions de la société qui appartiennent à la personne, à l'exception des actions que celle‑ci a acquises en contrepartie du règlement de la dette, est réputé être un montant payé à ce moment en règlement de la dette;
+[9] La seule question soulevée en l'espèce consiste donc à décider si la JVM des 4 millions d'actions correspondait à tout le moins au montant de la dette de 20 000 000 $[1].
+[10] Je vais examiner la présente affaire à la lumière des arguments dont je suis saisi, c'est‑à‑dire la JVM des actions émises afin de liquider la dette.
+[11] Le raisonnement suivi par le ministre pour arriver à la conclusion voulant qu'il y ait eu une remise de dette de 2 984 000 $ est exposé dans la réponse à l'avis d'appel.
+[TRADUCTION]
+8. Par un avis de ratification daté du 25 juin 2003, le ministre a ratifié la cotisation établie pour l'année d'imposition 1999 au motif que la valeur des 7 600 000 actions de Deer Lake Power Company Limited (« Deer Lake ») émises et en circulation au 1er février 1995 s'élevait à 17 016 000 $. Les dispositions de l'article 80 de la Loi ont, à juste titre, été appliquées au règlement de la dette que l'ancienne société Deer Lake devait à l'appelante. Le revenu imposable de l'appelante en 1999 a, à juste titre, fait l'objet d'un redressement afin de refuser les pertes autres qu'en capital de l'ancienne société Deer Lake qui avaient été reportées par suite de la fusion.
+9. Conformément aux dispositions de l'article 80 de la Loi, le montant réputé remis a été calculé de la manière suivante :
+Valeur des 4 millions de nouvelles actions ordinaires (al. 80(2)g))
+8 956 000 $
+Augmentation de la valeur des 3 600 000 actions déjà détenues (al. 80(2)g.1))
+(17 016 000 $ - 8 956 000 $) − néant
+8 060 000 $
+Montant réputé payé
+17 016 000 $
+Valeur nominale de la dette
+20 000 000 $
+Moins : Montant réputé payé (ci‑dessus)
+17 016 000 $
+Montant réputé remis
+2 984 000 $
+10. Dans le calcul du revenu de l'appelante pour l'année d'imposition 1999, les pertes autres qu'en capital de l'ancienne société Deer Lake qui avaient été reportées par suite de la fusion ont été refusées.
+11. Lorsqu'il a établi une nouvelle cotisation à l'égard de l'appelante, le ministre s'est appuyé sur les hypothèses suivantes :
+a) Avant le 24 décembre 1998, Deer Lake était une filiale en propriété exclusive de l'appelante.
+b) L'appelante était située à Corner Brook (T.‑N.‑L.).
+c) Les activités de l'appelante touchaient à la fabrication et à la vente de papier journal sur les marchés internationaux.
+d) Les activités de Deer Lake touchaient à la production d'hydro‑électricité.
+e) Deer Lake avait conclu avec l'appelante deux contrats selon lesquels 75 pour 100 des besoins en électricité de l'appelante étaient remplis par Deer Lake.
+f) Les contrats liaient exclusivement l'appelante et Deer Lake.
+g) La totalité de l'électricité produite par Deer Lake était vendue à l'appelante.
+h) L'actif de Deer Lake se composait d'une centrale électrique située à Deer Lake (T.‑N.‑L.), dotée de neuf turbines et approvisionnée en eau par un réservoir de barrage situé à Grand Lake (T.‑N.‑L.), du barrage de Grand Lake (T.‑N.‑L.), de conduites forcées et de matériel connexe de transmission d'énergie.
+i) Vers le 24 décembre 1998, Deer Lake et l'appelante ont fusionné.
+j) La nouvelle société issue de la fusion a continué d'utiliser la dénomination de l'appelante.
+k) Deer Lake a continué d'être exploitée comme une filiale produisant de l'hydro‑électricité pour son ancienne société mère.
+l) La première année d'imposition de la société issue de la fusion s'est terminée le 23 décembre 1999.
+m) Des pertes autres qu'en capital et des comptes de déduction pour amortissement ont été transférés à la nouvelle société issue de la fusion.
+n) L'appelante a utilisé en entier les pertes autres qu'en capital de 2 528 224 $ reportées de l'ancienne société Deer Lake dans le calcul du revenu imposable pour l'année d'imposition visée par l'appel.
+o) Au 1er février 1995, Deer Lake devait à l'appelante la somme de 20 000 000 $.
+p) Vers le 1er février 1995, Deer Lake a émis à l'appelante 4 millions d'actions à 5 $ l'action pour un coût total de 20 000 000 $.
+q) Les actions ont été émises en contrepartie de la dette mentionnée à l'alinéa o).
+r) La juste valeur marchande des actions émises et en circulation de Deer Lake au 1er février 1995 se chiffrait à 17 016 000 $.
+s) La juste valeur marchande des 4 millions d'actions ordinaires émises le 1er février 1995 était de 8 956 000 $.
+t) La juste valeur marchande des 3 600 000 actions appartenant déjà à l'appelante au 1er février 1995 s'établissait à 8 060 000 $ après l'opération de paiement de la dette.
+u) La juste valeur marchande des 3 600 000 actions émises et en circulation immédiatement avant l'opération de paiement de la dette était nulle.
+v) Le montant réputé remis s'élevait à 2 984 000 $.
+[12] Le raisonnement du ministre paraît être le suivant : tant et aussi longtemps que Deer Lake devait 20 000 000 $ à Corner Brook, ses actions ne valaient rien[2], mais une fois la dette éteinte, l'ensemble de ses actions valait 17 016 000 $ et ce chiffre a été réparti entre les 3 600 000 actions antérieurement détenues et les 4 millions de nouvelles actions émises (17 016 000 $ x 3 600 000 / 7 600 000 = 8 060 000 $ [valeur des 3 600 000 actions antérieurement détenues]; 17 016 000 $ – 8 060 000 $ = 8 956 000 $ [valeur des 4 millions de nouvelles actions]).
+[13] L'appelante n'a pas contesté la méthode employée par le ministre et je ne le ferai pas non plus. En revanche, elle conteste l'hypothèse avancée par le ministre selon laquelle la valeur des actions de Deer Lake se chiffrait à 17 016 000 $. Elle ne propose pas de JVM précise pour les actions émises par Deer Lake. Au regard de l'appelante, il suffit que la valeur excède 20 000 000 $. Au 1er février 1995, la valeur de 17 016 000 $ se fondait sur une évaluation des actions de Deer Lake effectuée par Brian Hawkins, principal évaluateur de biens meubles à l'Agence du revenu du Canada (l'« ARC »). Dans le rapport daté du 8 janvier 2001 qu'il a remis à l'ARC, il tire la conclusion suivante :
+[TRADUCTION]
+3.0 Conclusion
+3.1 À notre avis, sous réserve des restrictions énoncées aux présentes, la valeur des 7 600 000 actions émises et en circulation de Deer Lake Power Company (à savoir les 3 600 000 actions ordinaires initiales et la nouvelle émission de 4 millions d'actions ordinaires) au 1er février 1995 s'établissait à 17 016 000 $, dont 8 956 000 $ sont attribuables aux 4 millions de nouvelles actions émises.
+3.2 À notre avis, sous réserve des restrictions énoncées aux présentes, la juste valeur marchande des 3 600 000 actions émises et en circulation de Deer Lake Power Company immédiatement avant l'opération était nulle.
+Il a donné certaines précisions touchant cette conclusion à la fin de son rapport.
+[TRADUCTION]
+Conclusion relative à la valeur
+12.6 Nous avons appliqué le taux d'actualisation au flux prévu de trésorerie provenant de l'exploitation, après impôt. Nous avons calculé la valeur actuelle de la valeur résiduelle après l'année 50 et actualisé cette donnée pour obtenir la valeur actuelle. La somme de ces valeurs correspond, à notre avis, à la juste valeur marchande de DLPC. Voir l'annexe D.
+12.7 En résumé, sous réserve des restrictions énoncées aux paragraphes 4.5 à 4.8 qui pourraient réduire la valeur, nous arrivons à la conclusion que la valeur probable la plus élevée des 7 600 000 actions ordinaires de DLPC se situe dans une fourchette allant de 16 058 000 $ à 17 016 000 $ à la date de l'évaluation. Par conséquent, la valeur des 4 millions d'actions ordinaires émises le 1er février 1995 se situe entre 8 451 600 $ et 8 956 000 $ à la date de l'évaluation.
+12.8 En outre, bien que, selon nos calculs, la fourchette des valeurs des actions de DLPC aille de 16 058 000 $ à 17 016 000 $, les difficultés liées à la radiation des garanties de prêt et les autres obstacles éventuels à la vente ne peuvent être sous‑estimés, comme il est signalé au paragraphe 8.8. Dans l'éventualité où ces divers empêchements ne pourraient être écartés, la valeur des actions de DLPC serait réduite à NÉANT.
+Valeur des actions avant l'émission
+12.9 Un simple calcul permet de constater que la valeur des 3 600 000 actions ordinaires immédiatement avant l'opération était nulle. À ce moment, la valeur de DLPC se situait entre 16 058 000 $ et 17 016 000 $, la dette s'élevant à 20 000 000 $. La valeur devant être attribuée aux 3 600 000 actions ordinaires est donc nulle.
+[14] Dans le rapport qu'il a préparé pour les besoins de la présente instruction, le témoin expert, M. Hawkins, a revu ses conclusions de la manière suivante :
+[TRADUCTION]
+3.0 Conclusion
+3.1 À mon avis, sous réserve des restrictions énoncées aux présentes, à l'exclusion des paragraphes 4.5 à 4.8 et 4.10, la juste valeur marchande des 7 600 000 actions émises et en circulation de Deer Lake Power Company (à savoir les 3 600 000 actions ordinaires initiales et la nouvelle émission de 4 millions d'actions ordinaires) au 1er février 1995 se situait dans une fourchette allant de 12 100 000 $ à 12 900 000 $, la juste valeur marchande la plus probable étant à mi‑chemin entre les deux, soit 12 500 000 $. Compte tenu des 7 600 000 actions ordinaires en circulation, la somme de 6 580 000 $ correspondait aux 4 millions de nouvelles actions ordinaires émises.
+3.2 À mon avis, sous réserve des restrictions énoncées aux présentes, la juste valeur marchande des 7 600 000 actions émises et en circulation de Deer Lake Power Company (à savoir les 3 600 000 actions ordinaires initiales et la nouvelle émission de 4 millions d'actions ordinaires) au 1er février 1995 serait NULLE en raison de l'application des restrictions afférentes aux garanties de prêt et aux autres obstacles éventuels à la vente, comme il est mentionné aux paragraphes 4.5 à 4.8.
+3.3 À mon avis, sous réserve des restrictions énoncées aux présentes, la juste valeur marchande des 3 600 000 actions émises et en circulation de Deer Lake Power Company immédiatement avant l'émission d'actions du 1er février 1995 était nulle.
+[15] Les restrictions visant l'opinion qui sont mentionnées au paragraphe 3.1 sont les suivantes :
+[TRADUCTION]
+4.5 Les conséquences éventuelles des garanties de prêt ne peuvent être mesurées avec certitude. Au 23 décembre 1994, DLPC garantissait la créance de CBPP s'élevant à 140 000 000 dollars canadiens et à 37 200 000 dollars américains. S'il s'avère qu'elle ne réussira vraisemblablement pas à faire radier les garanties de prêt consenties au titre de la dette de sa société mère, il se pourrait que la conclusion touchant la valeur soit surévaluée.
+4.6 Les conséquences éventuelles d'une intervention de la part du gouvernement de Terre‑Neuve n'ont pas été prises en compte par manque d'information à ce sujet. Antérieurement, le gouvernement de Terre‑Neuve est intervenu et a empêché que la société d'énergie soit vendue séparément de la papeterie. Dans ce cas, il faudrait peut‑être réduire, voire à zéro, la conclusion relative à la valeur.
+4.7 Le gouvernement de Terre‑Neuve est également partie à une convention de vente, laquelle constitue une garantie de prêt. Cette convention ne s'applique que si CBPP omet de rembourser ses emprunts et que les banques sont obligées de rappeler leurs prêts. La convention de vente limite à 50 000 000 $ la somme que le gouvernement de Terre‑Neuve devra payer, mais ce dernier ne versera rien à CBPP, il paiera plutôt les créanciers. La convention de vente précise en outre que le gouvernement souhaite que la papeterie et la centrale électrique soient vendues ensemble parce qu'il « [...] est fortement dans l'intérêt de la viabilité économique de l'Ouest de Terre‑Neuve que la papeterie Corner Brook et la centrale électrique Deer Lake soient cédées ensemble à titre d'entreprise en exploitation de sorte que, dans toute la mesure possible, la personne qui les achètera des banques continue de les exploiter ».
+4.8 Les conséquences éventuelles d'une renégociation du bail visant l'usage du bassin hydrologique Grand Lake ne peuvent être mesurées avec exactitude. À l'heure actuelle, DLPC loue ses droits d'usage de l'eau en vertu d'un bail d'une durée de 99 ans conclu au plus tard en 1938 par une société antérieure. Ce bail expirera en 2037. Il ne fixe pas de frais pour l'exercice des droits d'usage de l'eau. Cependant, il semble que, dans notre société en mutation où la valeur des ressources naturelles est en hausse, n'importe quel bail conclu à l'avenir prévoira un barème tarifaire exigeant le paiement de certaines sommes au gouvernement de Terre‑Neuve. Des renseignements reçus en application de la loi intitulée Crown Lands Act, partie II, Revised Statutes of Newfoundland, ch. 71, permettent de croire qu'en 1995, les frais annuels se situaient entre 0,50 $ le cheval‑vapeur et 0,50 $ le cheval‑vapeur plus huit pour cent du revenu net désigné imposable. La puissance des installations de DLPC est de 188 000 chevaux-vapeur. Cela laisse entendre des frais d'au moins 94 000 $ en 1995. Ces tarifs n'ont pas été revus depuis 1984 et aucune estimation des éventuels changements jusqu'en 2037 n'a été réalisée. (Bien qu'il s'agisse d'une observation rétrospective, l'examen d'un texte réglementaire postérieur, le règlement 64/03, soit le Water Power Rental Regulations, 2003 pris en vertu de la Water Resources Act, propose un tarif de rechange de 0,80 $ le mégawattheure d'énergie produite.) Une augmentation des frais entraînerait une réduction de la valeur de 2037 à l'expiration du contrat de 1955 ainsi que de la valeur résiduelle.
+[...]
+4.10 Sous réserve des restrictions énoncées aux présentes, la juste valeur marchande des 7 600 000 actions émises et en circulation de Deer Lake Power Company (à savoir les 3 600 000 actions ordinaires initiales et la nouvelle émission de 4 millions d'actions ordinaires) au 1er février 1995 serait NULLE en raison de l'application des restrictions afférentes aux garanties de prêt et des autres obstacles éventuels à la vente, comme il est précisé aux paragraphes 4.5 à 4.8.
+[16] Je crois qu'il apparaîtra de manière évidente que les restrictions et réserves mentionnées aux paragraphes 4.5, 4.6, 4.7, 4.8 et 4.10 n'ont pas d'incidence appréciable sur la JVM des actions; M. Hawkins ne leur impute aucun effet défavorable quantifiable sur la JVM.
+[17] La différence importante qui oppose les parties touche à l'effet d'un contrat à long terme conclu par The Bowater Power Company Limited (maintenant Deer Lake) et Bowater's Newfoundland Pulp and Paper Mills Limited (maintenant Corner Brook).
+[18] Ce contrat a été conclu le 1er juin 1955 pour une période de 30 ans devant se terminer le 31 mai 1985, puis pour deux autres périodes de 30 ans, sauf avis contraire de Corner Brook au moins deux ans et au plus trois ans avant l'expiration du contrat. Le contrat a été reconduit une fois en 1985 sans aucune modification aux conditions ou aux tarifs et, le 1er février 1995, il restait une vingtaine d'années à s'écouler jusqu'en 2015. Le contrat pourrait, en 2015, être reconduit pour une autre période de 30 ans jusqu'en 2045 ou être résilié, à la discrétion de Corner Brook.
+[19] Le contrat visait la fourniture d'au plus 80 mégawatts (c.‑à‑d. 80 000 kilowatts ou 80 millions de watts) de [TRADUCTION] « puissance garantie ». L'article 1 de cette convention est ainsi rédigé :
+[TRADUCTION]
+1. Les définitions qui suivent s'appliquent à la présente convention :
+a) « puissance » La quantité d'électricité prise à un moment donné et mesurée en kilowatts;
+b) « énergie » La quantité d'énergie électrique prise pendant une période donnée et mesurée en kilowattheures;
+c) « puissance garantie » La puissance mise à la disposition de la société de fabrication de papier vingt‑quatre heures par jour, tous les jours, tant que la présente convention aura effet;
+d) « énergie secondaire » Les kilowattheures fournis à la société de fabrication de papier pour la production de vapeur.
+[...]
+11. La présente convention est en vigueur à partir de la date des présentes jusqu'au 31e jour de mai 1985 et se poursuivra par la suite pendant deux autres périodes identiques de trente ans chacune à moins que la société de fabrication de papier ne donne à la société d'énergie un avis écrit l'informant qu'elle souhaite réviser, modifier ou résilier la présente convention à la date d'expiration de l'une ou l'autre des périodes de trente ans. Cet avis écrit n'aura effet que s'il est donné au moins deux ans et au plus trois ans avant la date d'expiration de l'une ou l'autre de ces périodes de trente ans.
+12. Pendant la durée des présentes et par la suite jusqu'à ce que la convention ou une quelconque prolongation de celle‑ci prenne fin, la société d'énergie s'engage à fournir à la société de fabrication de papier, laquelle s'engage à acheter et à prendre de la société d'énergie, ce qui suit :
+(a) une puissance garantie d'une quantité d'au moins 60 000 kilowatts, laquelle quantité, ou la quantité augmentée comme il est énoncé plus loin, est ci‑après appelée la « quantité d'énergie garantie commandée »;
+(b) l'énergie secondaire nécessaire à la société de fabrication de papier dans les quantités offertes et pouvant être fournies de façon prudente de temps à autre.
+La société de fabrication de papier peut en tout temps, et de temps à autre, sur avis écrit à la société d'énergie, augmenter la quantité d'énergie garantie commandée, en blocs d'au moins 500 kilowatts, jusqu'à une quantité maximale de 80 000 kilowatts. La quantité d'énergie garantie commandée excédant 60 000 kilowatts sera prise et payée par la société de fabrication de papier pour une période minimale d'un mois.
+La société de fabrication de papier peut utiliser pour la production de vapeur, sans paiement supplémentaire à ce titre, n'importe quelle partie de la puissance et de l'énergie comprise dans la quantité d'énergie garantie commandée qui n'est pas nécessaire à l'exploitation ou à l'éclairage de ses usines et de ses autres installations situées à Terre‑Neuve.
+[20] Le paragraphe 21 prévoit notamment ce qui suit :
+[TRADUCTION]
+21. Le prix à payer par la société de fabrication de papier pour avoir le droit d'utiliser et pour effectivement utiliser les services d'énergie offerts par la société d'énergie en vertu de la présente convention est le suivant :
+(a) pour la quantité d'énergie garantie commandée : 2,80 $ le kilowatt par mois payable aux bureaux de la société d'énergie en monnaie légale du Canada le dernier jour de chaque trimestre pendant toute la durée de la présente convention;
+(b) pour les quantités d'énergie secondaire prises pendant un mois donné et qui ne sont pas comprises dans la quantité d'énergie garantie commandée au cours de ce mois : le prix à être fixé par les parties aux présentes au plus tard le premier jour d'avril de chaque année et devant prendre effet à cette date; le prix par kilowattheure sera fixé de sorte que la société de fabrication de papier, grâce à l'utilisation de cette énergie secondaire, pourra produire de la vapeur pour une somme en dollars inférieure d'au moins dix pour cent au coût du combustible utilisé pour produire de la vapeur dans ses chaudières à combustible de rechange.
+[21] Même s'il semble accepté que, lors de la conclusion de la convention de 1955, le prix de 2,80 $ le kilowattheure par mois que Deer Lake exigeait de Corner Brook correspondait au tarif du marché commercial à ce moment, au 1er février 1995, le prix de l'énergie fournie par Deer Lake à Corner Brook était, selon M. Hawkins, près de dix fois moins élevé que le tarif du marché.
+[22] Je signale en passant qu'un deuxième contrat a été conclu par Corner Brook et Deer Lake le 1er janvier 1983. Ce contrat visait la fourniture de puissance au tarif de 10 $ le kilowatt par mois pour la puissance excédant celle fournie en vertu de la convention de 1955. Ce contrat était renouvelable annuellement et pouvait être résilié après un avis de douze mois. Je ne ferai plus mention de ce contrat puisqu'on peut présumer que les tarifs du marché commercial pouvaient être négociés annuellement. On ne prétend pas que l'existence de ce contrat ait une incidence sur la JVM des actions.
+[23] Je me penche maintenant sur la question fondamentale : la JVM des 4 millions d'actions émises pour éteindre la dette de 20 000 000 $ est‑elle plus ou moins élevée que 20 000 000 $? Il est admis que, si le contrat de 1955 conclu par Corner Brook et Deer Lake ne doit pas être pris en compte pour déterminer la valeur des actions de la filiale, la JVM excède largement 20 000 000 $. Monsieur Denis Labrèche, évaluateur expert chez Conseil en financement Ernst & Young Orenda inc., a conclu qu'aucun des deux contrats d'électricité ne devait être pris en considération pour déterminer la valeur des actions de Deer Lake. Il a renvoyé au rapport de BT Securities Corporation (le « rapport de M. Simons »), lequel a été produit en preuve sur consentement des parties. Le passage suivant figure aux pages 7‑4 et 7‑5 de ce rapport :
+[TRADUCTION]
+On peut avancer que les installations hydroélectriques permettraient d'obtenir un montant net de 0,03 dollar américain le kWh sur le marché local. En utilisant cette donnée, nous estimons (sous réserve de l'existence d'une demande d'énergie sur le marché) que la valeur des installations se situerait entre 175 et 185 millions de dollars américains en tant qu'unité autonome. On ne peut ajouter cette somme en entier à la valeur de la papeterie puisque, si celle‑ci achetait de l'énergie au tarif du marché, sa valeur s'en trouverait réduite d'environ 80 millions de dollars américains. Cela signifie que l'ajout des installations hydroélectriques à la valeur de base se chiffre à 105 millions de dollars américains (185 millions moins 80 millions). Cette évaluation de la papeterie concorde bien avec la vente actuellement proposée de Bear Island, laquelle devrait, selon les estimations actuelles, rapporter 200 millions de dollars. Mis à part la valeur des terrains boisés de Bear Island, cela correspondrait, selon notre modèle, à une valeur d'acquisition de 490 à 560 millions de dollars américains par tonne annuelle de capacité de fabrication.
+Il ajoute ce qui suit à la page 7–10 :
+[TRADUCTION]
+Valeur de Deer Lake Power Company
+La Deer Lake Power Company est non seulement précieuse à titre d'immobilisation, elle possède en outre une valeur intangible importante en ce qu'elle détient des droits sur le bassin hydrologique de l'ensemble de Humber Arm. À elle seule, la région de Silver Mountain offre une capacité hydrologique permettant de produire plus de 75 MW. Le coût de remplacement estimatif de la DLPC, compte tenu du coût prévu d'installations analogues, s'élèverait à 300 millions de dollars. Il convient de préciser que des installations de remplacement comptant une seule installation de production pourraient être construites; cependant, pour des raisons de souplesse, ces installations seraient probablement dotées de deux installations de production d'environ 40 MW chacune. Au fur et à mesure que la situation économique de Terre‑Neuve s'améliorera, les droits liés au bassin hydrologique de Humber Arm pourront être convertis en une source considérable et profitable de production d'énergie hydroélectrique.
+En résumé, les évaluations des installations fondées sur les différentes perspectives figurent au tableau 7.6.
+Tableau 7.6
+Évaluation des installations
+Perspective
+Évaluation de CBPP,
+millions de dollars américains
+Évaluation de DLPC, millions de dollars américains
+Remplacement
+500 à 600
+275 à 325
+Acquisition
+150 à 180
+175 à 195
+Il est important d'observer l'écart qui existe entre la valeur de nouvelles installations ou la valeur de remplacement et la valeur fondée sur une acquisition. Selon notre expérience, l'écart actuel, qui fait que le coût de remplacement serait de 2,5 à 3,0 fois plus élevé que le coût d'acquisition, constitue une barrière à l'entrée de nouvelles installations. Cela signifie que de nouveaux investissements dans le domaine du papier journal sont improbables tant que le prix de ce produit ne se sera pas stabilisé de manière appréciable. Généralement, une nouvelle expansion ne sera amorcée que lorsque le rapport entre le coût de remplacement et le coût d'acquisition passera à 1,5 contre 1 et, sauf quelques cas particuliers, il faudra un certain temps avant qu'une nouvelle expansion ait lieu. Il s'ensuit qu'en l'absence des répercussions sur l'offre qu'entraînent de nouvelles expansions, les prix devraient continuer de se raffermir, ce qui réduira le risque lié au rendement que courent les institutions financières qui soutiennent des installations comme la CBPP.
+[24] Peu importe la méthode d'évaluation utilisée, les 4/7,6 des actions de Deer Lake avaient une JVM largement supérieure à la dette de 20 000 000 $ qui a été éteinte si on ne tient pas compte des contrats d'électricité conclus avec Corner Brook.
+[25] Monsieur Labrèche a donné les raisons suivantes pour expliquer son désaccord avec la Couronne quant à son opinion voulant qu'il convienne de prendre en considération ce contrat conclu par des parties ayant un lien de dépendance.
+[TRADUCTION]
+4.0 QUESTION no 1
+Pour établir la juste valeur marchande des actions de DLPC, l'ADRC devrait‑elle tenir compte des tarifs de l'énergie fixés dans le contrat d'électricité?
+4.1 Définition de l'expression « juste valeur marchande »
+L'expression « juste valeur marchande » est habituellement définie comme le prix le plus élevé, exprimé en argent ou l'équivalent, qui peut être obtenu sur un marché ouvert et sans restriction, entre des parties bien informées et prudentes agissant sans lien de dépendance et sans contrainte de conclure une transaction.
+Dans le contexte d'un marché théorique, cette définition de l'expression « juste valeur marchande » (« JVM ») est habituellement bien acceptée par les tribunaux canadiens.
+La définition de la JVM comporte deux notions importantes qui ont un lien direct avec la réponse qu'appelle la question énoncée plus haut :
+1. le prix le plus élevé;
+2. des parties bien informées et prudentes.
+4.2 Le prix le plus élevé
+« La notion de prix le plus élevé pouvant être obtenu doit tenir compte du fait que le vendeur et l'acheteur ne passeraient un marché qu'à un prix que tous deux estiment juste. »
+L'ADRC, s'appuyant principalement sur les tarifs d'énergie fixés dans les deux contrats d'électricité, a conclu que la JVM des actions de DLPC au 1er février 1995 était de 17 016 000 $.
+Selon le rapport d'évaluation de M. Simons daté d'avril 1995, la valeur marchande de DLPC à titre d'unité autonome se situait entre 175 et 185 millions de dollars américains. Pour arriver à cette conclusion, M. Simons n'a pas tenu compte des contrats d'électricité et il a présumé que l'énergie pouvait être vendue aux tarifs du marché. De plus, suivant le même rapport, le coût de remplacement estimatif de DLPC s'élevait à 300 millions de dollars américains.
+4.3 Parties bien informées et prudentes
+La définition de JVM fait état de parties bien informées et prudentes ainsi que d'acheteurs et de vendeurs qui consentent à passer un marché. Compte tenu des différentes valeurs calculées par les parties, c.‑à‑d. M. Simons et l'ADRC, et de leurs hypothèses sous‑jacentes, nous estimons qu'un vendeur bien informé et prudent modifierait les contrats d'électricité avant la vente et qu'il obtiendrait ainsi la valeur intégrale des actions de DLPC.
+La modification des contrats d'électricité aux tarifs du marché est logique sur le plan économique du point de vue de CBPP puisqu'elle se traduit par une valeur ou une valeur supplémentaire de DLPC beaucoup plus élevée, valeur qui compense largement la réduction de la valeur de CBPP en tant qu'unité autonome. Par conséquent, si CBPP décidait de vendre DLPC, il serait souhaitable de modifier le contrat afin d'augmenter au maximum la valeur globale de CBPP. Cette conclusion se fonde sur le fait que le profil de risque d'une usine d'électricité est moindre que le risque lié à l'exploitation d'une usine de papier journal; c'est donc dire que les mêmes flux monétaires ont une valeur plus élevée dans le cas d'une société qui produit de l'électricité que dans celui d'une société qui fabrique du papier journal.
+Le rapport de M. Simons étaye cette conclusion :
+« On peut avancer que les installations hydroélectriques permettraient d'obtenir un montant net de 0,03 dollar américain le kWh sur le marché local. En utilisant cette donnée, nous estimons (sous réserve de l'existence d'une demande d'énergie sur le marché) que la valeur des installations se situerait entre 175 et 185 millions de dollars américains en tant qu'unité autonome. On ne peut ajouter cette somme en entier à la valeur de la papeterie puisque, si celle‑ci achetait de l'énergie au tarif du marché, sa valeur s'en trouverait réduite d'environ 80 millions de dollars américains. Cela signifie que l'ajout des installations hydroélectriques à la valeur de base se chiffre à 105 millions de dollars américains (185 millions moins 80 millions). »
+Permettez‑nous d'insister : « Cela signifie que l'ajout des installations hydroélectriques à la valeur de base se chiffre à 105 millions de dollars américains. » Il en découle une valeur bien plus élevée que l'évaluation de 17 millions de dollars faite par l'ADRC en ce qui concerne les actions de DLPC. En outre, ces chiffres illustrent sans équivoque notre opinion selon laquelle il serait plus avantageux pour CBPP sur le plan financier et de l'évaluation de modifier les contrats d'électricité, de payer davantage pour l'électricité à l'avenir et donc d'obtenir une évaluation plus élevée pour ses actions de DLPC que de conserver les contrats d'électricité avec ses modalités actuelles et d'obtenir une valeur globale inférieure pour CBPP.
+4.4 Conclusion
+Bref, compte tenu des facteurs suivants :
+1. la définition de la JVM;
+2. la notion relative au prix le plus élevé pouvant être obtenu;
+3. la conclusion du rapport d'évaluation indépendant de M. Simons;
+4. les avantages quant à l'évaluation pour DLPC et CBPP;
+nous concluons que les contrats d'électricité devraient être modifiés de manière à refléter des conditions exemptes de lien de dépendance au moment d'évaluer la valeur des actions de DLPC en tant qu'unité autonome.
+4.5 Absence de lien de dépendance
+Lorsqu'on évalue des biens ou des actions d'une société en tant qu'unité autonome, la possibilité de libeller différemment ou de modifier des contrats ou des ententes conclus entre des parties ayant un lien de dépendance est bien établie dans le domaine de l'évaluation des entreprises et elle est même reconnue par l'ADRC.
+Pour étayer cette assertion, nous avons reproduit ci‑dessous des extraits tirés de diverses publications :
+1. CVS, p. 5A‑55
+« Lorsqu'une entreprise traite avec des parties avec qui elle a un lien de dépendance, il est souvent difficile de déterminer si les coûts engagés et les revenus reçus équivalent aux coûts et aux revenus qui auraient été engagés et reçus en l'absence d'un tel lien. Dans le cas d'opérations entre parties ayant un lien de dépendance effectuées à des tarifs non commerciaux, des rajustements appropriés aux gains (et éventuellement aux éléments d'actif) seront nécessaires. Cela est particulièrement important lorsque seul l'intérêt commercial d'une des parties à l'opération non commerciale fait l'objet de l'évaluation, ou lorsque le risque lié à l'intérêt commercial respectif des deux parties est sensiblement différent. Le fait de répartir le revenu de façon erronée en faveur de l'une ou l'autre entraînerait des conclusions erronées sur la valeur ou le prix. »
+2. Circulaire d'information 89‑3, section intitulée « Options et conventions d'achat‑vente »
+« 20. D'autre part, lorsqu'un actionnaire majoritaire détient des actions visées par des droits de souscription et des restrictions et qu'il peut modifier ces droits et restrictions sans entraîner la possibilité de mesures judiciaires de la part d'actionnaires minoritaires, la valeur des actions ne doit pas être restreinte au montant prescrit par les clauses de la convention. »
+Même si, dans ce cas, l'ADRC s'intéresse aux options et aux conventions d'achat‑vente touchant des actions, nous croyons que la situation de DLPC, en raison des contrats d'électricité conclus, y ressemble beaucoup.
+3. Circulaire d'information 89‑3, section intitulée « Options et conventions d'achat‑vente »
+« 29. Si une convention d'achat‑vente qui normalement déterminerait la valeur des biens est conclue entre des parties qui ont entre elles un lien de dépendance, les dispositions de cette convention doivent servir à déterminer la valeur, pourvu que la convention remplisse les conditions suivantes :
+a) Il s'agit d'une convention commerciale véritable.
+b) Le prix qui est fixé dans la convention ou qui est calculé selon la formule donnée dans celle‑ci constitue une contrepartie suffisante et complète et correspond à la juste valeur marchande des actions déterminée indépendamment de la convention au moment de la signature de celle‑ci.
+c) La convention constitue un contrat légal et exécutoire. »
+À nouveau, même si la circulaire vise les conventions d'achat‑vente plutôt que les contrats d'approvisionnement, la question demeure identique. Nous croyons que les trois mêmes critères devraient s'appliquer aux contrats d'électricité.
+4. CVS – p. 9‑16 – Convention relative à l'usage d'un bien conclue entre des parties ayant un lien de dépendance
+« Le paragraphe 69(1.2) s'applique lorsqu'un contribuable dispose d'un bien sous réserve d'une convention relative à l'usage du bien qu'il conclut avec une personne avec qui il a un lien de dépendance, et qui prévoit le paiement d'un loyer, d'une redevance ou d'un autre versement en contrepartie de l'usage ou du droit d'usage du bien pour un montant inférieur à ce qui aurait été raisonnable si le contribuable et la personne n'avaient pas eu un lien de dépendance. L'existence d'une convention de ce genre peut faire baisser la juste valeur marchande du bien et donc entraîner une réduction du gain en capital tiré de sa disposition. Dans cette éventualité, le paragraphe 69(1.2) prévoit que le produit de disposition est réputé égal au plus élevé des montants suivants, soit le produit qui serait déterminé sans tenir compte du paragraphe 69(1.2) et la juste valeur marchande du bien au moment de la disposition si la convention n'avait pas existé. Cette disposition de la loi vise à empêcher les contribuables de réduire un gain en faisant baisser la juste valeur marchande du bien par le biais d'une telle convention. »
+Les situations susmentionnées sont analogues à la présente affaire et elles montrent sans équivoque que nous ne devons pas tenir compte de l'existence d'une convention entre parties ayant un lien de dépendance entre elles et qu'il y a lieu d'apporter les rajustements appropriés.
+[26] Les experts ont examiné l'effet de certaines autres restrictions sur la valeur des actions de Deer Lake, en particulier :
+a) les contrats de prêt – les garanties de prêt;
+b) l'existence d'une convention de vente et une présumée restriction gouvernementale sur la vente des actions de Deer Lake;
+c) un bail visant l'usage de l'eau.
+[27] L'expert de l'appelante, M. Labrèche, n'a donné aucun effet à ces restrictions tandis que l'expert de l'intimée, M. Hawkins, n'a pas réussi à quantifier en dollars l'effet de ces restrictions, le cas échéant, sur la JVM des actions de Deer Lake. À mon avis, il est inutile d'expliciter ces facteurs en détail puisqu'ils paraissent en grande partie dénués de pertinence pour trancher la question fondamentale soulevée dans le présent appel. Je vais donc exposer brièvement les raisons pour lesquelles je suis d'accord avec M. Labrèche.
+[28] Dans l'arrêt Gold Coast Selection Trust, Ld. v. Humphrey (Inspector of Taxes), [1948] A.C. 459, le vicomte Simon a affirmé ce qui suit à la page 473 :
+[TRADUCTION]
+« [...] L'évaluation est un art et non une science exacte. Aucune certitude mathématique n'est exigée en la matière et, en réalité, aucune n'est possible.
+Cette observation est souvent citée, mais je dois avouer que je ne suis pas tout à fait certain de sa signification. La frontière entre la science et l'art est au mieux indistincte et elle a fait l'objet de bien des débats entre universitaires. Cette assertion suppose à tout le moins que l'évaluation nécessite des compétences qui vont au‑delà de l'application mécanique de règles. De telles compétences englobent le jugement, l'intuition, l'expérience et le bon sens.
+[29] Ma conclusion voulant que le contrat d'électricité conclu par Deer Lake et Corner Brook, qui ont entre elles un lien de dépendance, ne doive pas être pris en compte pour établir la JVM des actions de Deer Lake n'est pas une conclusion de droit et elle ne se fonde pas de manière particulière sur des opinions d'expert. Il s'agit plutôt d'une simple appréciation, fondée sur le bon sens, du fait que l'évaluation des éléments d'actif d'une entreprise ne relève pas d'un exercice théorique. Elle se fait dans le monde réel et dans un contexte commercial. Les conclusions tirées par l'évaluateur doivent être appréciées au regard du bon sens ou, si vous préférez, du point de vue du bon père de famille.
+[30] La présente affaire intéresse une société propriétaire de biens qui valent entre 150 000 000 $ et 300 000 000 $, mais dont la valeur serait pourtant réduite à environ 17 000 000 $ parce que la société a conclu avec son unique propriétaire un contrat à long terme prévoyant la fourniture d'électricité à un prix sensiblement moindre que celui du marché. Je conviens que, si ce contrat ne pouvait être résilié – par exemple, s'il était intervenu avec un tiers sans lien de dépendance –, cela pourrait avoir une incidence importante sur la valeur et même rendre les actions invendables. L'examen vise à établir quelle sorte d'entente serait conclue entre un acheteur et un vendeur bien informés. Aucun acheteur intelligent n'envisagerait d'acquérir les actions de Deer Lake si le contrat d'électricité de 1955 avec Corner Brook demeurait en vigueur. Que ferait Corner Brook si elle voulait vendre les actions de Deer Lake? De toute évidence, elle se débarrasserait du contrat, ce qui ne présenterait aucune difficulté pour elle. Il ne s'agit pas d'une conclusion de droit ni d'une question relevant d'un expert en évaluation. Ce n'est qu'une simple question de bon sens[3].
+[31] L'avocat de l'appelante a invoqué la décision Ford Motor Company of Canada Ltd. v. Ontario Municipal Employees Retirement Board, 2004 D.T.C. 6224, de la Cour supérieure de justice de l'Ontario. Dans cette décision, le juge Cumming, lors d'un recours en cas d'abus, examine comment une entente défavorable intervenue entre la société canadienne et sa société mère américaine a influé sur l'évaluation des actions de la société canadienne. La décision du juge Cumming a été confirmée par la Cour d'appel de l'Ontario, (2006), 79 O.R. (3d) 81, [2006] O.J. no 27 (QL). L'approche que j'ai adoptée en l'espèce n'est pas incompatible avec la conclusion tirée par les tribunaux ontariens, mais la situation dont je suis saisi est tellement différente que j'ai des réticences à accorder trop de poids à ces décisions.
+[32] Il importe d'ajouter que ma décision ne doit pas être appliquée à des faits autres que ceux en l'espèce. Il n'est pas de mon intention de laisser entendre qu'il ne faut jamais tenir compte des relations entre parties ayant un lien de dépendance pour évaluer des biens. Chaque affaire doit être examinée à la lumière des faits qui lui sont propres.
+[33] L'appel est accueilli avec dépens et la cotisation pour l'année d'imposition 1999 de l'appelante est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que la juste valeur marchande des actions émises par Deer Lake Power Company à Corner Brook Pulp and Paper Limited correspondait à tout le moins à la dette de 20 000 000 $ qui a été éteinte, de sorte qu'aucune partie de cette dette de 20 000 000 $ exigible de Deer Lake Power Company Limited par Corner Brook Pulp and Paper Limited n'a fait l'objet d'une renonciation pendant l'année en cause et que, par conséquent, l'article 80 de la Loi de l'impôt sur le revenu est inapplicable.
+Signé à Ottawa, Canada, ce 16e jour de février 2006.
+« D. G. H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 22e jour d'avril 2008.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2006CCI70
+NO DU DOSSIER DE LA COUR :
+2003‑3375(IT)G
+INTITULÉ DE LA CAUSE :
+Cornerbrook Pulp and Paper Limited c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATES DE L'AUDIENCE :
+Les 1er, 2 et 3 novembre 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable D.G.H. Bowman, juge en chef
+DATE DU JUGEMENT :
+Le 16 février 2006
+COMPARUTIONS :
+Avocats de l'appelante :
+Me André P. Gauthier
+Me Josée Vigeant
+Avocats de l'intimée :
+Me John P. Bodurtha
+Me John W. MacDonald
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me André P. Gauthier
+Cabinet :
+Heenan Blaikie LLP
+1250, boul. René‑Lévesque Ouest
+Bureau 2500
+Montréal (Québec)
+Pour l'intimée :
+Me John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] En raison de ces dispositions et de la façon dont la question est énoncée, aucune mention n'a été faite pendant le débat de la décision Tuxedo Holding Co. Ltd. v. M.N.R., 59 D.T.C. 1102, rendue par le juge Cameron de la Cour de l'Échiquier du Canada, lequel établit une distinction avec l'arrêt Craddock v. Zevo Finance Co. Ltd. (1959), 27 T.C.C. 267, de la Chambre des lords. La décision Tuxedo Holding a, du moins jusqu'au prononcé de l'arrêt Téléglobe inc. c. La Reine, 2002 CAF 408, 2002 D.T.C. 7517, de la Cour d'appel fédérale, été considérée comme un précédent valable au Canada. Elle permet d'affirmer que le « coût », pour une société, d'un bien qui est payé au moyen de l'émission d'actions à valeur nominale correspond à la valeur nominale des actions émises. L'applicabilité de la décision Tuxedo Holding lorsque des actions sans valeur nominale sont émises n'a pas été examinée pendant le débat.
+Dans l'arrêt Téléglobe, le juge Pelletier a affirmé ce qui suit aux paragraphes 31 et 32 :
+[31] En l'absence de facteurs qui rendraient la transaction inattaquable, la convention des parties détermine le coût, pour la société, de l'émission d'actions en échange de biens. En vertu de la loi, la société doit refléter la véritable contrepartie reçue pour l'émission des actions de ses comptes de capital. En conséquence, bien que l'on puisse affirmer que les comptes de capital sont une indication de la convention conclue entre les parties, c'est cette dernière et non les comptes de capital qui déterminent le coût. Par conséquent, le juge de première instance avait raison de dire que la contrepartie correspondait au montant convenu entre les parties et « reflété » dans la résolution adoptée par les administrateurs et par l'augmentation du capital déclaré des catégories d'actions émises (voir le paragraphe 12 ci‑dessus).
+[32] Il s'ensuit que le coût pour l'appelante de l'émission d'actions en tant que contrepartie pour les éléments d'actif de l'ancienne Téléglobe correspond au montant convenu entre les parties, comme l'atteste le capital déclaré des actions ordinaires de l'appelante. En conséquence, le prix d'achat des éléments d'actif est égal à la valeur de l'actif corporel, de sorte que l'appelante n'a ni fait ni engagé de débours ou de dépenses pour acquérir l'achalandage. L'appel devrait être rejeté avec dépens.
+Il faudra peut‑être examiner à une autre occasion la question de savoir si la décision Tuxedo Holding et l'arrêt Téléglobe peuvent être réconciliés. Aucun argument sur ce point n'a été présenté et il n'est pas dans mon intention de trancher cette question, si ce n'est de faire l'observation suivante : que le coût nécessaire pour liquider la dette se fonde sur l'augmentation du capital déclaré de Deer Lake ou sur l'entente des parties selon laquelle la dette de 20 000 000 $ serait liquidée par l'émission de 4 millions d'actions, on peut avancer que le résultat, à tout le moins en l'espèce, devrait être le même que si on considère que la somme payée correspond à la JVM des actions. À cet égard, je trouve des plus éclairantes l'analyse des décisions Tuxedo Holding et Téléglobe que font Richard Tremblay et Bradley Warden dans le commentaire d'arrêt publié dans Canadian Current Tax, volume 16, numéro 3, décembre 2005, sous le titre « Tuxedo Doesn't Fit – CRA Tries on Teleglobe for Size ».
+Dans une analyse très approfondie de la jurisprudence touchant la décision Tuxedo faite dans la décision King Rentals Limited c. La Reine, 96 D.T.C. 1132, no 93‑717(IT)G, 11 août 1995 (C.C.I.), le juge Lamarre signale ce qui suit dans une note en bas de page :
+12 Selon l'article 80 dans sa version actuelle, lorsque la contrepartie donnée à une personne en règlement d'une dette prend la forme d'actions, le montant payé en règlement de la dette est réputé être la juste valeur marchande des actions au moment de leur émission. À mon avis, cette disposition qui crée une présomption appuie ma conclusion selon laquelle la juste valeur marchande n'est pas nécessairement pertinente pour déterminer le montant de la contrepartie donnée en règlement d'une dette. Voir l'arrêt La Reine c. Sutherland et autres, [1980] 2 R.C.S. 451, dans lequel le juge Dickson a déclaré, à la page 456 : « L'objet d'une disposition qui crée une "présomption" est d'imposer une signification, de faire en sorte qu'une chose soit interprétée différemment de ce qu'elle aurait été en l'absence de la disposition. » Voir également l'arrêt La Reine c. Verrette, [1978] 2 R.C.S. 838, à la page 844.
+[2] Si, selon la thèse du ministre, l'extinction de la dette de 20 000 000 $ avait pour effet d'augmenter la JVM de l'ensemble des actions de la société à 17 016 000 $, il semble qu'il aurait fallu, pour que cette thèse tienne la route, que Deer Lake ait une valeur négative de 2 984 000 $ avant l'émission des 4 millions d'actions. Or, il est quelque peu irréaliste de penser qu'une société ayant 3 600 000 actions en circulation, toutes détenues par sa société mère, puisse avoir une valeur négative, mais que le règlement d'une dette entre sociétés au moyen de l'émission de nouvelles actions en faveur de la société mère fasse augmenter cette valeur d'une somme égale au montant de la dette qui disparaît. Sur une base consolidée, rien n'a réellement changé. Il importe, cependant, que la prémisse sur laquelle se fondent les dispositions en matière de sociétés de la LIR, c.‑à‑d. l'identité distincte des sociétés au sein du groupe de sociétés, soit respectée.
+[3] Dans le passage auquel il est renvoyé plus haut (par. 4.4 de son rapport), M. Labrèche affirme qu'il y a lieu de modifier les contrats d'électricité de manière à refléter des conditions exemptes de lien de dépendance au moment d'évaluer la valeur des actions de DLPC en tant qu'unité autonome. Ce n'est pas exactement ce que j'ai dit. J'ai proposé qu'il convenait tout simplement de ne pas tenir compte de ces contrats. En fin d'analyse, que les contrats soient libellés différemment ou qu'ils ne soient pas pris en considération ne change pas grand-chose en l'espèce. Dans les deux cas, nous nous retrouvons avec une valeur suffisamment élevée pour qu'aucune remise de dette n'ait lieu. Néanmoins, il faut reconnaître qu'un contrat de fourniture garantie conclu par des parties qui n'ont pas de lien de dépendance entre elles peut se traduire par une valeur différente que celle obtenue en l'absence d'une telle convention. Je n'ai toutefois pas l'intention de me prononcer à cet égard. Cette question pourra être tranchée à une autre occasion, lorsqu'il sera pertinent de le faire.

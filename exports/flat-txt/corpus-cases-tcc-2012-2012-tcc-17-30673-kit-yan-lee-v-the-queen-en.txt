@@ -1,0 +1,142 @@
+Title: Kit Yan Lee v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30673/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-17-30673-kit-yan-lee-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-01-19
+
+# Kit Yan Lee v. The Queen
+
+- Citation: 2012 TCC 17
+- Decision date: 2012-01-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7170, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kit Yan Lee v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-01-19
+Neutral citation
+2012 TCC 17
+File numbers
+2010-105(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-105(IT)I
+BETWEEN:
+VINCENT KIT YAN LEE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 17, 2011, at Vancouver, British Columbia.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Zachary Froese
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2005 and 2006 taxation years is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 19th day of January 2012.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2012 TCC 17
+Date: 20120119
+Docket: 2010-105(IT)I
+BETWEEN:
+VINCENT KIT YAN LEE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] The Appellant, his wife and two children immigrated to Canada from Hong Kong in 1995 under the federal Business Immigration Program. According to the Appellant’s testimony, he had approximately $1,000,000 of capital when he landed in Canada.
+[2] He invested approximately $150,000 in partnership units in order to qualify under the federal Business Immigration Program and paid $260,000 to purchase a condominium in Vancouver, on which a $140,000 mortgage was initially taken out.
+[3] According to the Appellant, he had difficulty finding employment in Canada and held low‑skilled employment. To provide for his family, he found himself having to use his capital to cover the family’s personal expenses, which quickly lead to an erosion of that capital. As proof of this, he points out that he had to remortgage his residence in Vancouver for $140,000.
+[4] To supplement his income, the Appellant engaged in so‑called day trading of marketable securities, starting in 1997 and continuing through the taxation years under review.
+[5] During the period in question, the Appellant had two personal bank accounts (the “Personal Accounts”) and a number of share‑trading accounts (the “Share‑Trading Accounts”).
+[6] The Appellant claims he incurred significant losses from the share‑trading activities, which losses, totalling $154,508 over a 10-year period commencing in 1997, he reported on capital account. More specifically, he reported a loss of $1,275.58 for the 2005 taxation year and $43,931.55 for the 2006 taxation year.
+[7] The Appellant alleges that these losses, coupled with his family’s personal expenditures, have left him with no capital and little means to support his family. According to the Appellant, the deterioration of his net worth led to personal difficulties and he is now estranged from his wife and children. He alleges that he presently holds employment as a low‑paid concierge to provide some support for his estranged family. The principal residence in Vancouver has been sold and the Appellant’s family lives in rented premises.
+[8] The Canada Revenue Agency (the “CRA”) first undertook an audit of the Appellant’s activities in order to determine whether they could be subject to the goods and services tax. The conclusion was that they could not and the CRA undertook an income tax audit of the Appellant’s 2005 and 2006 taxation years.
+[9] Mr. Cen, a CRA auditor with a Bachelor of Business Administration degree, oversaw the audit and concluded that the Appellant failed to report for the 2005 and 2006 taxation years income in the amounts of $64,821 and $107,786 respectively, which figures he based on Statistics Canada expenditure statistics for a family of four. Mr. Cen used this methodology because he was unable to obtain the financial and accounting information that he had requested from the Appellant. He acknowledged, though, that the Appellant was living in Hong Kong at the time of the audit and that he was communicating with the Appellant through the Appellant’s son and daughter, who had difficulty dealing with the requests. The Appellant stated that he did not have access to his financial records, as they were in Canada and he was living in Hong Kong.
+[10] The Appellant’s objection to the reassessments was dealt with by Mr. Leong, an appeals officer employed with the CRA. Mr. Leong set aside the methodology used by Mr. Cen and used a modified deposit method to reconstruct the Appellant’s unreported income for the period in issue.
+[11] The Respondent reassessed the Appellant for his 2005 and 2006 taxation years on the basis that he had failed to report income. The Respondent alleged that instead of the reported losses of $1,275.58 in 2005 and $43,931.55 in 2006, the Appellant had gains of $4,704.87 in 2005 and $2,185.92 in 2006. The Respondent also reassessed the Appellant for unreported income of $27,222 in 2005 ($13,143 of unexplained deposits in the Appellant’s Personal Accounts and $14,079 of deposits in the Appellant’s Personal Accounts from his Share‑Trading Accounts) and $83,218 in 2006 ($13,501 of unexplained deposits in the Appellant’s Personal Accounts and $69,717 of deposits in the Appellant’s Personal Accounts from his Share‑Trading Accounts).
+[12] The Appellant provided the Court with substantial documentary evidence consisting for the most part of documents and statements listing the details of his trading transactions in each of the years under review. These documents were not made available to the appeals officer prior to the issuance of the new reassessments as they were given to counsel for the Respondent at some point prior to the hearing of the Appellant’s appeal.
+[13] Mr. Leong has had the opportunity to review these documents and, as noted above, his detailed calculations reveal that the Appellant had gains in the amounts of $4,704.87 and $2,185.92 for the 2005 and 2006 taxation years rather than losses, as reported by the Appellant, of $1,275.58 and $43,931.55 for each of those years.
+I. Appellant’s Position
+[14] The Appellant argues that, according to the case law, he can succeed in his appeal provided the evidence given by him constitutes a prima facie rebuttal of the assumptions made by the Minister. For example, he can succeed either by establishing on a balance of probabilities new facts not considered by the Minister showing that he did not earn the unreported income alleged by the Respondent, or by demonstrating that the Minister’s assumptions of fact are wrong. Once a prima facie case is made, the burden of proof shifts back to the Minister, who must then establish on a balance of probabilities the facts required to support his reassessments.
+[15] The Appellant maintains that he reported all his income for the period in issue. He supports this position by noting that he was in financial difficulty during that time. The Appellant also alleges that the deposits into his Personal Accounts were not income from taxable sources but transfers of capital and loan amounts from his Share‑Trading Accounts or from his sister’s account. According to the Appellant, he has succeeded in making out a prima facie case that demolishes the Minister’s assumptions supporting the reassessments that are in dispute. He notes that the Respondent’s own investigation revealed that he made very little income from his trading activities.
+[16] While the Appellant admits he was late in filing documents with the Minister due to circumstances beyond his control, he did eventually provide the Minister and his counsel, before the hearing, with all of his financial records pertaining to his trading activities.
+II. Respondent’s Position
+[17] As noted above, the Respondent alleged that instead of the reported losses of $1,275.58 in 2005 and $43,931.55 in 2006, the Appellant had gains of $4,704.87 in 2005 and $2,185.92 in 2006. The Respondent also reassessed the Appellant for unreported income of $27,222 in 2005 ($13,143 of unexplained deposits in the Appellant’s Personal Accounts and $14,079 of deposits in the Appellant’s Personal Accounts from his Share‑Trading Accounts) and $83,218 in 2006 ($13,501 of unexplained deposits in the Appellant’s Personal Accounts and $69,717 of deposits in the Appellant’s Personal Accounts from his Share‑Trading Accounts). In support of the reassessments, the Respondent argues that the Appellant did not demolish the Minister’s assumption that the unexplained deposits and the deposits from the Share‑Trading Accounts into his Personal Accounts were taxable income.
+III. Analysis
+[18] The Appellant’s tax misfortune is due in large part to his failure to provide the CRA auditor with the documents he requested at the audit stage. The Appellant did offer a credible explanation for his inaction: he was in Hong Kong at the time of the audit and the documents were at his family residence in Vancouver. His wife was unable to deal with the requests and the Appellant had to leave the matter in the hands of his son and daughter, who are both inexperienced when it comes to financial records and responding to tax compliance requests. Nonetheless, it is well‑established that the Minister may use alternative methods to determine a taxpayer’s income when that taxpayer fails to file tax returns, maintain or keep reliable books or records, or, as is the case here, fails to grant the Minister access to his financial records.
+[19] In Cantore v. The Queen,[1] I noted the following:
+[11] . . . The two most frequently used methods are commonly referred to as the net worth method and the deposit method. Under the net worth method, the auditor begins with a calculation of the taxpayer’s net assets (assets less liabilities) at the beginning of the relevant period. The same calculation is made at the end of the relevant period. The increase in net worth plus the estimated cost of living for the taxpayer and the taxpayer’s dependants less the declared income of the taxpayer and the taxpayer’s partner, if any, is assumed to be the amount of undeclared income of the taxpayer.
+[12] The deposit method is based on an analysis of all deposits made in all of the taxpayer’s bank accounts. Deposits are assumed by the Minister to constitute taxable revenue. Net income is determined by subtracting transfers of funds among the taxpayer’s bank accounts and also borrowings by the taxpayer. The deposit method has been accepted by this Court as an appropriate alternative audit technique.
+[20] In the present case, the appeals officer used a modified deposit analysis approach. He did not exclude the transfers that were made in the Personal Accounts from the Appellant’s Share‑Trading Accounts as he did not have the records relating thereto for review prior to issuing the new reassessments after consideration of the Appellant’s objection.
+[21] In “Anatomy of a Net Worth Assessment”, David E. Graham comments that the net worth method often produces a more reliable picture of the taxpayer’s income than the deposit method:
+Generally, deposit analyses are not as accurate a method of calculating income as net worth assessments. A deposit analysis may not adequately examine where the money that was deposited into the bank accounts came from (which could result in over taxation) and, similarly, a deposit analysis may omit money that never enters the bank account (which could result in under taxation). Taxpayers who are faced with a deposit analysis, should be careful to ensure that transfers from their other bank accounts have not been treated as deposits.[2]
+[Emphasis added.]
+[22] The method used by the CRA does not affect the legal burden that must be met by the Appellant in this case. The Supreme Court of Canada’s decision in Hickman Motors Ltd. v. Canada[3] reviews the general principles governing the burden of proof in tax appeals:[4]
+· The burden of proof in taxation cases is that of the balance of probabilities.
+· The taxpayer has the initial onus of demolishing[5] the exact assumptions on which the Minister relies for his assessment, but no more.
+· The taxpayer will have met his initial onus when he has made out a prima facie case.[6]
+· Once the taxpayer has made out a prima facie case, the burden then shifts to the Minister, who must rebut the taxpayer’s prima facie case by proving his assumptions on a balance of probabilities.[7]
+· If the Minister fails to adduce satisfactory evidence, the taxpayer will succeed.[8]
+[23] In the article entitled “Onus of Proof and Ministerial Assumptions: The Role and Evolution of Burden of Proof in Income Tax Appeals”, the authors provide what constitutes, in my opinion, an accurate summary of the rules regarding the legal burden that must be met by taxpayers in tax appeals:
+6) If the Crown alleges that the minister relied upon specific assumptions of fact in the course of raising an assessment, the taxpayer must either
+a) prove, on the balance of probabilities, that the minister did not rely upon such assumptions of fact;
+b) demonstrate that the minister’s assumptions of fact are irrelevant; or
+c) demolish the minister’s assumptions of fact.
+7) “Demolition” of the minister’s assumptions of fact involves nothing more complicated than adducing a prima facie case that those assumptions are incorrect.
+. . .
+9) Where a taxpayer has adduced a prima facie case rebutting the minister’s assumptions, the onus and standard of proof revert to the normal rules of civil procedure.[9]
+[24] I adjourned the hearing of this case on January 21, 2011 to allow the Respondent’s representative to analyze the financial reports regarding the Appellant’s trading activities and to examine the possibility of the Appellant using losses from prior periods to offset the unreported income determined by the Minister. Unfortunately, the parties were unable to come to an agreement on the impact of these items on the Minister’s reassessments.
+[25] This brings me to an examination of the evidence. First, the Appellant impressed me as a credible witness and his testimony was corroborated by the evidence noted below. The modified deposit method applied by the Respondent was flawed because it did not take into account transfers of funds between the Appellant’s various accounts. A transfer of funds between two bank accounts held by the same individual cannot give rise to the creation of income. The CRA itself has analyzed the Appellant’s dealings in marketable securities and has accepted the fact that his trading activities gave rise to only nominal income in the years in question. There is no reliable evidence suggesting that the Appellant had another source of unreported income. Considering as a whole the evidence on the trial record, I am of the view that the Appellant’s unreported income was only $4,704.87 and $2,185.92 for the 2005 and 2006 taxation years respectively.
+IV. Conclusion
+[26] On the basis of the conclusions noted above, the Appellant’s unreported income is determined to be $4,704.87 and $2,185.92 for the 2005 and 2006 taxation years respectively. However, as the amount of tax in dispute for the 2006 taxation year exceeds $12,000 and the Appellant elected to have his appeal heard under the informal procedure, the reduction of taxes that the Appellant is entitled to for that year cannot exceed $12,000.
+[27] The appeal is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons for judgment.
+Signed at Ottawa, Canada, this 19th day of January 2012.
+“Robert J. Hogan”
+Hogan J.
+CITATION: 2012 TCC 17
+COURT FILE NO.: 2010-105(IT)I
+STYLE OF CAUSE: VINCENT KIT YAN LEE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: October 17, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: January 19, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Zachary Froese
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2010 TCC 367, 2010 DTC 1242.
+[2] David E. Graham, “Anatomy of a Net Worth Assessment”, 2007 British Columbia Tax Conference (Canadian Tax Foundation, 2007), 11:1-55, at p. 50.
+[3] [1997] 2 S.C.R. 336.
+[4] Ibid. at paras. 92-95.
+[5] See also: Johnston v. Minister of National Revenue, [1948] S.C.R. 486.
+[6] See also: Kamin v. M.N.R., 93 DTC 62 (T.C.C.); Goodwin v. M.N.R., 82 DTC 1679 (T.R.B.).
+[7] See also: Magilb Development Corp. Ltd. v. The Queen, 87 DTC 5012 (F.C.T.D.) at p. 5018.
+[8] See also: MacIsaac v. M.N.R., 74 DTC 6380 (F.C.A.) at p. 6381.
+[9] William Innes & Hemamalini Moorthy, “Onus of Proof and Ministerial Assumptions: The Role and Evolution of Burden of Proof in Income Tax Appeals”, Canadian Tax Journal (1998), Vol. 46, No. 6, 1187 at p. 1210.

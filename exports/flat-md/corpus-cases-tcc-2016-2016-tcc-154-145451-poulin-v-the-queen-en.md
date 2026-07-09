@@ -1,0 +1,552 @@
+---
+title: "Poulin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/145451/index.do"
+last_modified: "2016-06-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 154"
+citation2: ""
+neutral_citation: "2016 TCC 154"
+decision_date: "2016-06-14"
+language: "en"
+item_id: "145451"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2968
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:48:05.762000+00:00"
+cases_cited_count: 6
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cc0c7b6a47c02d3536557dceea86a752e0ac13ea39db64bc18f3e6fe20c34c78"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Poulin v. The Queen
+
+- Citation: 2016 TCC 154
+- Decision date: 2016-06-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2968, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poulin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-06-14
+Neutral citation
+2016 TCC 154
+File numbers
+2013-2554(IT)G, 2013-2555(IT)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2554(IT)G
+BETWEEN:
+GHISLAIN POULIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Herman Turgeon, 2013-2555(IT)G, on September 28, 29 and 30, 2015, at Montréal, Quebec.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the Appellant:
+Geneviève Léveillé
+Laurie Beausoleil
+Counsel for the Respondent:
+Natalie Goulard
+Marissa Figlarz, student-at-law
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2007 taxation year is allowed, without costs, and said assessment is vacated, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 14th day of June 2016.
+"Johanne D’Auray"
+D’Auray J.
+Docket: 2013-2555(IT)G
+BETWEEN:
+HERMAN TURGEON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Ghislain Poulin, 2013-2554(IT)G, on September 28, 29 and 30, 2015, at Montréal, Quebec.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the Appellant:
+Geneviève Léveillé
+Laurie Beausoleil
+Counsel for the Respondent:
+Natalie Goulard
+Marissa Figlarz, student-at-law
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2007 taxation year is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 14th day of June 2016.
+"Johanne D’Auray"
+D’Auray J.
+Citation: 2016 TCC 154
+Date: 20160614
+Docket: 2013-2554(IT)G
+BETWEEN:
+GHISLAIN POULIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2013-2555(IT)G
+BETWEEN:
+HERMAN TURGEON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+D’Auray J.
+BACKGROUND
+[1] These appeals are filed against reassessments made under the Income Tax Act (the "ITA") regarding the 2007 taxation year, during which the appellants disposed of freeze shares that they held in the corporation Les Constructions de l’Amiante Inc. ("Amiante").
+[2] They were sold in a context of reorganization of Amiante’s corporate structure, for the purposes of implementing the terms and conditions of Mr. Ghislain Poulin’s ("Mr. Poulin") gradual departure and integrating Mr. David Hélie ("Mr. Hélie") into the corporation.
+[3] The following sales are the subject of these appeals:
+A. Mr. Poulin’s sale of 450,004 Class F preferred shares in Amiante to 6847161 Canada Inc. ("Gestion Turgeon") for $450,004;
+B. Herman Turgeon’s ("Mr. Turgeon") sale of 388,861 Class D preferred shares in Amiante to Gestion David Hélie Inc. ("Gestion Hélie") for $388,861;
+[4] After the disposition of these shares, when calculating their income for the 2007 taxation year, the appellants reported taxable capital gains for which they each claimed a capital gains deduction as qualified small business corporation shares under subsection 110.6(2.1) of the ITA.
+[5] The Minister of National Revenue ("Minister") disallowed the capital gains deduction claimed by Mr. Poulin. According to the Minister, Mr. Poulin, Mr. Turgeon and Gestion Turgeon acted in concert without separate interests. They were therefore deemed to have had a non-arm’s length relationship under paragraph 251(1)(c) of the ITA. Consequently, the provisions of section 84.1 of the ITA apply and Mr. Poulin is deemed to have received a dividend of $449,911 during the disposition of the Class F shares in Amiante in 2007.
+[6] The Minister also disallowed the capital gains deduction claimed by Mr. Turgeon. According to the Minister, Mr. Turgeon, Mr. Hélie and Gestion Turgeon acted in concert without separate interests. They were therefore deemed to have dealt with one another at arm’s length under paragraph 251(1)(c) of the ITA. Consequently, the section 84.1 provisions apply and Mr. Turgeon is deemed to have received a dividend of $388,861 during the disposition of the Class D shares in Amiante in 2007.
+FACTS I. Partial agreed statement of facts [7] On September 25, 2015, the parties filed a partial agreed statement of facts, which is reproduced below:
+[translation] PARTIAL AGREED STATEMENT OF FACTS
+1. The corporation "Les Constructions de l’Amiante Inc. " ("Amiante") is primarily active in the construction of roads, water supply systems and other related works.
+2. Amiante resulted from mergers under the Canada Business Corporations Act: the first, on April 1, 1999, with 3458130 Canada Inc.;1 and the second, on November 1, 2007, with Ghilin Inc. ("Ghilin").2
+3. Amiante’s Articles of Incorporation were also amended on May 20, 2005, and on September 26, 2007.3
+4. Ghilin was incorporated by Ghislain Poulin on May 26, 2005, under the Canada Business Corporations Act.
+5. The company Les Entreprises G.H.T. Inc. ("G.H.T. ") was incorporated by Herman Turgeon on April 25, 1997, under Part IA of the Companies Act of Quebec.
+6. The company 6847200 Canada Inc. ("Gestion Poulin") was incorporated on September 26, 2007, by Ghislain Poulin under the Canada Business Corporations Act.
+7. The company 6847161 Canada Inc. ("Gestion Turgeon") was incorporated on September 26, 2007, by Herman Turgeon under the Canada Business Corporations Act.
+8. The company Gestion David Hélie Inc. ("Gestion Hélie") was incorporated on November 7, 2007, by David Hélie under the Canada Business Corporations Act.
+9. On September 19, 2005, Ghislain Poulin and Herman Turgeon were equal shareholders in Amiante.
+10. At all relevant times, and up until 2012, Ghislain Poulin and Herman Turgeon were members of Amiante’s Board of Directors.
+Corporate reorganization – September 2005
+11. As at March 31, 2005, the shareholders and characteristics of the shares held in Amiante were as follows:
+Shareholders
+Number
+of shares
+Class
+CV
+M/B ratio
+FMV
+G. Poulin
+16,949
+A
+$200
+$200
+$1,325,000
+10
+E
+$10
+$10
+$10
+H. Turgeon
+16,949
+A
+$200
+$200
+$1,325,000
+10
+E
+$10
+$10
+$10
+12. In September 2005, Amiante underwent a corporate reorganization with a view to, among other objectives, welcoming Bernard Bilodeau, a key Amiante employee, as a shareholder ("2005 Reorganization").4
+13. Among other things, as part of the 2005 Reorganization, 11,512 Class A shares (5,756 per shareholder) in Amiante were converted to Class B shares.
+14. Following the 2005 Reorganization, the shareholders and characteristics of the shares held in Amiante were as follows:
+Shareholders
+Number of shares
+Class
+CV
+M/B ratio
+Redemption value
+Number of votes
+G. Poulin
+5,756
+B
+$68
+$68
+$450,004
+5,756
+Ghilin
+10,000
+A
+$100
+$100
+$100
+10,000
+11,193
+C
+$132
+$132
+$874,996
+10
+E
+$10
+$10
+$10
+H. Turgeon
+5,756
+B
+$68
+$68
+$450,004
+5,756
+G.H.T.
+10,000
+A
+$100
+$100
+$100
+10,000
+11,193
+C
+$132
+$132
+$874,996
+10
+E
+$10
+$10
+$10
+B. Bilodeau
+10,000
+A
+$100
+$100
+$100
+10,000
+10
+E
+$10
+$10
+$10
+15. An Amiante shareholders’ agreement was signed on October 4, 2005.5 That agreement replaced the one signed on March 12, 1991.
+16. On November 30, 2005, Amiante and its shareholders signed a Share Redemption Agreement that took effect on October 4, 2005.6
+17. Between September 2005 and April 2007, Amiante bought back part of its Class C shares.7
+Corporate reorganization – 2007
+18. Raymond Chabot Grant Thornton prepared Amiante’s financial statements as at March 31, 2007.8
+19. From April 1 to November 7, 2007, several transactions9 were carried out regarding Amiante’s corporate structure in order to, among other things: buy back Bernard Bilodeau’s shares; welcome David Hélie, a key Amiante employee, as a shareholder; modify the shareholder participation breakdown of Amiante share capital; plan for Ghislain Poulin’s eventual retirement; and amend the division of roles and responsibilities within the company.10
+20. Among others, the following transactions occurred:
+a. On September 26, 2007, Amiante amended its share capital.11
+b. As part of the changes made to its share capital, Amiante exchanged some of its shares, including the exchange of each Class B share of Amiante’s former share capital for Class D shares in its new share capital, about 78.17 Class D shares for each Class B share. The 5,756 Class B shares held by Ghislain Poulin and Herman Turgeon respectively were thus exchanged for 450,004 Class D shares. Unlike the Class B shares, the Class D shares carried no voting rights.12
+c. On November 1, 2007, Amiante merged with Ghilin.13 Each Class D share held by Ghislain Poulin and Herman Turgeon in the "former" Amiante share capital was converted into a Class D share in the share capital of the merged Amiante.14
+d. On November 1, 2007, the 450,004 Class D shares in Amiante held by Ghislain Poulin were exchanged for 450,004 Class F shares in Amiante.15
+e. On November 1, 2007, Ghislain Poulin disposed of the 450,004 Class F shares in Amiante in exchange for $450,00416 from Gestion Turgeon.
+f. On November 7, 2007, Herman Turgeon disposed of the 388,861 Class D shares in Amiante in exchange for $388,86117 from Gestion Hélie.
+21. Deloitte prepared Amiante’s financial statements as at October 31, 2007.18
+22. On January 8, 2008, the new Amiante shareholders signed an addendum to the shareholder agreement of October 4, 2005.19
+Ghislain Poulin disposed of 450,004 Class F shares in Amiante.
+23. The Share Purchase Agreement20 signed on November 1, 2007, between Ghislain Poulin, Gestion Turgeon and Amiante stipulated that the sale price of the 450,004 Class F shares would be payable, among other things, under the following terms and conditions:
+a. an amount of $45,000 was payable to Ghislain Poulin on December 21, 2007;
+b. the balance of the sale price, i.e. $405,004, would bear interest at 5% per annum commencing on November 1, 2007;
+c. the balance of sale was payable through five (5) annual consecutive payments in capital, in the amount corresponding to the higher of:
+i. $81,000.80; or
+ii. 90% of the sums received by Gestion Turgeon from Amiante; and
+d. As payment of the balance sale, Amiante agreed to pay its shareholders annually at least 80% of its annual net profits, in the form of dividends or otherwise, providing that, however, all of the requirements under the Canada Business Corporations Act were met, including, in particular, those related to accounting and solvency tests.
+24. On July 18, 2008, Amiante bought back 243,408 of its Class F shares held by Gestion Turgeon for the sum of $243,408. Of that amount, $143,083 was paid by Gestion Turgeon to Ghislain Poulin in repayment of the balance of the sale price.
+25. On February 6, 2009, Amiante bought back 151,666 of its Class F shares held by Gestion Turgeon for the sum of $151,666. Of that amount, $131,139 was paid by Gestion Turgeon to Ghislain Poulin in repayment of the balance of the sale price.
+26. On February 6, 2010, Amiante bought back 54,930 of its Class F shares held by Gestion Turgeon for the sum of $54,930.
+27. The balance of the sale price and interest accrued thereon were paid in full in 2010.
+Herman Turgeon disposed of 388,861 Class D shares in Amiante.
+28. The Share Purchase Agreement21 signed on November 7, 2007, between Herman Turgeon, Gestion Hélie and Amiante stipulated that the sale price of the 388,861 Class D shares would be payable, among other things, under the following terms and conditions:
+a. the balance of the sale price, i.e. $388,861, bore interest at 4% per annum commencing on November 1, 2007;
+b. the balance of the sale price was payable based on cash flows generated by Amiante, which agreed to pay its shareholders annually, as payment of the balance of the sale price, at least 80% of its annual net profits, in the form of dividends or otherwise, providing that, however, all of the requirements under the Canada Business Corporations Act were met, including, in particular, those related to accounting and solvency tests.
+c. Gestion Hélie committed itself to using 90% of the sums received from Amiante to pay the amount owing to Herman Turgeon.
+29. On July 18, 2008, Amiante bought back 44,444 of its Class D shares held by Gestion Hélie for the sum of $44,444.22 Of that amount, $40,000 was paid by Gestion Hélie to Herman Turgeon in repayment of the balance of the sale price.
+30. On February 6, 2009, Amiante bought back 27,690 of its Class D shares held by Gestion Hélie for the sum of $27,690. Of that amount, $24,922 was paid by Gestion Hélie to Herman Turgeon in repayment of the balance of the sale price.
+31. On February 6, 2010, Amiante bought back 42,000 of its Class D shares held by Gestion Hélie for the sum of $42,000.
+32. On February 6, 2011, Amiante bought back 42,000 of its Class D shares held by Gestion Hélie for the sum of $42,000.
+33. On March 31, 2012, Amiante bought back 31,500 of its Class D shares held by Gestion Hélie for the sum of $31,500.
+34. On December 28, 2012, Amiante bought back 72,438 of its Class D shares held by Gestion Hélie for the sum of $72,438.
+Ghislain Poulin’s departure
+35. On March 30, 2012, Ghislain Poulin sold his remaining interest in Amiante to Gestion Turgeon for a total sum of $1,370,000.23
+36. It was at that point, in late March 2012, that Ghislain Poulin left Amiante for good.
+Ghislain Poulin’s assessment
+37. Ghislain Poulin reported taxable capital gains of $224,968 resulting from the disposition of 450,004 Class F shares in Amiante. He claimed an equivalent deduction under subsection 110.6(2.1) of the Income Tax Act (the "Act").24
+38. The Minister took the position that Ghislain Poulin’s disposition of 450,004 Class "F" shares in Amiante to Gestion Turgeon triggered application of paragraph 84.1(1)(b) of the Act, and thereby created a dividend deemed to be paid in the amount of $449,911.
+39. By a Notice of Reassessment dated October 31, 2011, the Minister therefore increased Ghislain Poulin’s taxable income by $562,389 for the 2007 taxation year. The Minister also cancelled the taxable capital gain initially reported and the capital gains deduction claimed by Ghislain Poulin in his income tax return prepared for the 2007 taxation year.25
+40. By a Notice of Objection dated November 21, 2011, Ghislain Poulin duly objected to the reassessment made on October 31, 2011.26
+41. A Report on Objection was prepared by the Minister.27
+42. In a Notice of Confirmation dated March 27, 2013, the Minister confirmed the reassessment dated October 31, 2011.28
+Herman Turgeon’s assessment
+43. Herman Turgeon reported taxable capital gains of $194,402 resulting from the disposition of 388,861 Class D shares in Amiante. He claimed an equivalent deduction under subsection 110.6(2.1) of the Act.29
+44. The Minister took the position that the disposition of 388,861 Class "D" shares in Amiante to Gestion Hélie made applicable paragraph 84.1(1)(b) of the Act, and thereby created a dividend deemed to be paid in the amount of $388,802.
+45. By a Notice of Reassessment dated October 31, 2011, the Minister increased Herman Turgeon’s taxable income by $486,003 for the 2007 taxation year. The Minister also cancelled the taxable capital gain initially reported and the capital gains deduction claimed by Herman Turgeon in his income tax return prepared for the 2007 taxation year.30
+46. By a Notice of Objection dated November 21, 2011, Herman Turgeon duly objected to the reassessment made on October 31, 2011.31
+47. A Report on Objection was prepared by the Minister.32
+48. In a Notice of Confirmation dated March 27, 2013, the Minister confirmed the reassessment dated October 31, 2011.33
+Audit
+49. As part of the audit, the Canada Revenue Agency ("CRA") auditor, Benoit Couillard, and representatives from CRA’s Headquarters exchanged various correspondence regarding the assessments in dispute.34
+[The footnotes are reproduced in Appendix 1.]
+II. Additional facts [8] It is also important to add certain facts raised during the hearing.
+[9] Mr. Poulin was hired as an Amiante employee in 1981 and was responsible for the administrative aspect of the company.
+[10] Mr. Turgeon began working for Amiante in 1985. As construction foreman, he was responsible for the construction sites, where he spent most of his time.
+[11] At that time, the Amiante shareholders were Mr. Poulin, Étienne Lacasse, Réal Lessard and Armand Lapointe.
+[12] In 1997, following numerous reorganizations in Amiante’s corporate structure, Mr. Turgeon became an Amiante shareholder, thus joining Mr. Poulin and Étienne Lacasse; each held 33 1/3% of the common shares.
+[13] Étienne Lacasse then retired and left Amiante, leaving Mr. Poulin and Mr. Turgeon as the corporation’s 50% shareholders.
+[14] Several conflicts arose between Mr. Poulin and Mr. Turgeon. They disagreed on the strategy to follow regarding the corporation’s future. Mr. Turgeon wanted to attract new shareholders in order to expand and broaden Amiante’s market share, whereas Mr. Poulin apparently preferred the status quo. The differences worsened to the point that, in 2004, Mr. Turgeon was thinking of leaving Amiante and selling his shares to Mr. Poulin. For his part, Mr. Poulin was also preparing exit scenarios, whereby he would leave Amiante and sell his shares to Mr. Turgeon.
+[15] That being said, despite their differences, in 2005, Mr. Poulin and Mr. Turgeon decided to accept Bernard Bilodeau ("Mr. Bilodeau") as an Amiante shareholder.
+[16] For that purpose, Amiante reorganized its share capital in 2005 and the appellants froze their common shares by converting the value of their common shares into preferred shares. Part of the common shares were converted into Class B preferred shares. Mr. Poulin and Mr. Turgeon each held 5,756 of these Class B preferred shares that had a redemption value of $450,004. That value for the Class B shares matched the amount needed by Mr. Poulin and Mr. Turgeon to claim the capital gains deduction. The remaining common shares were converted into Class C preferred shares. Mr. Poulin and Mr. Turgeon each held 11,193 of these Class C preferred shares that had a redemption value of $874,996.
+[17] To complete Amiante’s reorganization, Mr. Poulin, Mr. Turgeon and Mr. Bilodeau each subscribed to 10,000 voting common shares, at $100 each. Thus, following that reorganization, the three shareholders each held 33 1/3% of Amiante’s new voting common shares.
+[18] The arrival of Mr. Bilodeau as a shareholder and director did not resolve the conflicts between the shareholders. Mr. Poulin submitted a letter of intent dated December 22, 2006, to Mr. Turgeon and Mr. Bilodeau, whereby he expressed his desire to gradually leave Amiante.
+[19] That letter of intent marked the beginning of negotiations that led to Amiante’s 2007 reorganization. Mr. Poulin and Mr. Turgeon each consulted professionals in order to benefit from Amiante’s reorganization, taking into account the gradual departure of Mr. Poulin. It should be noted that once the process began, the appellants only retained the services of Deloitte to conduct the reorganization due to the costs involved.
+[20] On April 1, 2007, the Amiante shareholders agreed on the new distribution of the corporation’s share capital. Thus, Mr. Turgeon became Amiante’s majority shareholder with 51% of the common shares; Mr. Poulin reduced his interest in the common shares to 25%; and Mr. Bilodeau, to 24%. The agreement also stipulated that Mr. Poulin would immediately sell his Class B preferred shares to Gestion Turgeon in exchange for a promissory note payable within a maximum deadline of five years, and that the buyback of his portion would be completed on March 31, 2010, the date on which he would leave Amiante for good.
+[21] Prior to concluding the April 1, 2007 agreement governing Mr. Poulin’s departure, specifically the sale, by Mr. Poulin of his Class B preferred shares to Gestion Turgeon, the shareholders decided to wait until Amiante’s financial statements were prepared.
+[22] However, before the financial statements were prepared, a major conflict arose in September 2007 between Mr. Poulin and Mr. Bilodeau. Mr. Bilodeau immediately quit Amiante and demanded full buyback of his interest. Consequently, the agreement negotiated between the parties regarding Mr. Poulin’s departure was aborted.
+[23] In the light of Mr. Bilodeau’s unexpected departure, Mr. Turgeon decided to persuade Mr. Hélie to become an Amiante shareholder and Mr. Poulin agreed to postpone his departure date for two years, to 2012.
+[24] Mr. Hélie had been working as a controller for Amiante since June 1, 2004. The purpose of having Mr. Hélie as a shareholder was to ensure that he could take over the work done by Mr. Poulin.
+[25] An agreement outlining Amiante’s reorganization and acceptance of Mr. Hélie was signed on September 20, 2007.[1]
+[26] Under the 2007 reorganization, Mr. Poulin formed Gestion Poulin on September 26, 2007,[2] Mr. Turgeon formed Gestion Turgeon[3] on September 26, 2007, and Mr. Hélie formed Gestion Hélie on November 7, 2007.
+[27] On November 1, 2007, Mr. Poulin sold 450,004 Class F preferred shares to Gestion Turgeon for $450,004. These shares were the Class B preferred shares that were converted into Class D preferred shares in 2007, and exchanged for Class F shares on November 1, 2007. The terms and conditions of the purchase are described in paragraphs 23, 24 and 25 of the partial agreed statement of facts.
+[28] On November 7, 2007, Gestion Poulin sold 10.5% of Amiante’s common shares to Gestion Hélie for $1.90.
+[29] Also on November 7 2007, Mr. Turgeon sold 388,861 Class D preferred shares to Gestion Hélie for $388,861. These Class D shares were the Class B preferred freeze shares that were converted to Class D shares in 2007. Mr. Turgeon financed the purchase of these shares by Gestion Hélie.
+[30] Following certain negotiations regarding the interest rate, in exchange for the 388,861 Class D preferred shares, Gestion Hélie issued Mr. Turgeon a promissory note for $388,861 bearing interest at 4%. The promissory note was payable in accordance with the conditions set out in paragraphs 28 to 34 of the partial agreed statement of facts, i.e. even the share redemptions effected by Amiante.
+[31] Following the September 2007 reorganization, Mr. Turgeon held 57.5% of the common shares in Amiante, Mr. Poulin held 32%, and Mr. Hélie, 10.5%.
+[32] Under an addendum to the shareholder agreement, on December 20, 2007, it was agreed that Mr. Poulin was required to dispose of all of his remaining shares in Amiante by no later than December 31, 2012, at the time of his planned departure from Amiante. Mr. Poulin also quit Amiante on March 30, 2012, the date on which his shares were bought back.
+[33] As stipulated by the share purchase agreements, Amiante bought back the Class F preferred shares held by Gestion Turgeon. Gestion Turgeon had repaid in full the promissory note it had issued to Mr. Poulin using sums resulting from Amiante buying back its shares.
+[34] Amiante also bought back most of the Class D preferred shares held by Gestion Hélie for $259,982. Gestion Hélie thus paid that amount to Mr. Turgeon as repayment of the sale price of the preferred shares.[4] During the hearing, Mr. Hélie stated that there was one payment remaining on the promissory note issued by Gestion Hélie to Mr. Turgeon.
+[35] On January 27, 2014, Gestion Hélie’s remaining 128,789 Class D shares were transferred to Groupe Profectus Inc.
+[36] In 2014, Groupe Profectus Inc. was the parent company of Amiante as well as other corporations controlled by Mr. Turgeon. Ownership of Groupe Profectus Inc.’s shares modelled that of Amiante when it was incorporated and the objective was to form an asset management and protection company. Moreover, Mr. Turgeon was President of Groupe Profectus Inc.
+[37] At the hearing, neither Mr. Hélie, nor Mr. Turgeon, nor Amiante’s accountants were able to say whether Gestion Hélie had received consideration in exchange for transferring the Class D preferred shares it had held in Amiante to Groupe Profectus.
+ISSUES [38] In order to determine whether the Minister correctly applied section 84.1 of the ITA to the two share dispositions at issue, the Court must address the following issues:
+A. In 2007, when the 450,004 Class F shares in Amiante were sold, were Mr. Poulin and Gestion Turgeon in a non-arm’s length relationship?
+B. In 2007, when the 388,861 Class D shares in Amiante were sold, were Mr. Turgeon and Gestion Hélie in a non-arm’s length relationship?
+APPELLANTS’ POSITION I. Ghislain Poulin [39] Mr. Poulin submits that he correctly reported the taxable capital gain that resulted from the disposition of the 450,004 Class F shares in Amiante.
+[40] According to Mr. Poulin, during the negotiations that led to the sale of the Class F shares in Amiante, neither he, nor Mr. Turgeon, nor Gestion Turgeon acted in concert without separate interests.
+[41] Indeed, Mr. Poulin had been negotiating his gradual retirement from Amiante since late 2006. Therefore, he wanted to benefit from his interest and did not want to relinquish control of Amiante to Mr. Turgeon until his departure conditions had been fulfilled. That is why the initial agreement dated April 1, 2007, was concluded, which, in the light of the events, was adapted so as to become the final agreement dated September 20, 2007.
+[42] It was the April 1, 2007 agreement that led to the sale of shares on November 1, 2007, and which enabled Mr. Poulin to impose conditions on the sale of his shares and on Mr. Turgeon taking over control of Amiante.
+[43] Consequently, Mr. Poulin and Mr. Turgeon submit that, when the 450,004 Class F preferred shares were sold to Gestion Turgeon, the parties were acting in their own interests and were dealing with one another at arm’s length. Consequently, the provisions of section 84.1 of the ITA did not apply to Mr. Poulin.
+II. Herman Turgeon [44] Mr. Turgeon submits that he correctly reported the taxable capital gain that resulted from the disposition of 388,861 Class D shares in Amiante to Gestion Hélie.
+[45] Hence, in computing his income for the 2007 taxation year, he correctly claimed the capital gains deduction provided for in section 110.6 of the ITA.
+[46] Indeed, Mr. Turgeon submits that he, Gestion Hélie and Mr. Hélie were dealing with one another completely at arm’s length since they were not related persons within the meaning of subsection 251(2) of the ITA and that they had a de facto arm’s length relationship.
+[47] None of the parties to the transaction were acting in concert with one another and the negotiations were conducted so as to protect their respective interests.
+[48] On the one hand, Mr. Turgeon wanted to attract Mr. Hélie into Amiante to benefit from his administrative and financial expertise. On the other hand, Mr. Hélie, through Gestion Hélie, apparently wanted to become an Amiante shareholder.
+[49] Consequently, the sum of $388,861 received by Mr. Turgeon in exchange for the 388,861 Class D shares in Amiante should not be a deemed dividend under the provisions of section 84.1 of the ITA.
+RESPONDENT’S POSITION I. Ghislain Poulin [50] The respondent submits that Mr. Poulin, Mr. Turgeon, as well as Gestion Turgeon, acted in concert, without separate interests, with respect to the sale of 450,004 Class F shares in Amiante.
+[51] The balance of the price of sale for the shares was paid entirely with the funds arising from their buyback by Amiante. Thus, Gestion Turgeon simply acted as a conduit for the money flowing from the corporation. Gestion Turgeon had no interest in buying freeze shares whose value was frozen or, on top of that, in paying 5% interest on that amount. According to the respondent, that transaction does not take the form of ordinary business relations between parties acting in their own interests. Gestion Turgeon was merely helping Mr. Poulin claim a capital gains deduction.
+[52] Consequently, the respondent argues that Mr. Poulin and Gestion Turgeon are deemed not to have acted at arm’s length under subsection 251(1)(c) of the ITA, which made applicable the provisions of paragraph 84.1(1)(b) of the ITA. Mr. Poulin is therefore deemed to have received a dividend of $450,004 during the 2007 disposition of 450,004 Class F shares in Amiante.
+II. Herman Turgeon [53] The respondent submits that Mr. Turgeon, Mr. Hélie, and Gestion Hélie acted in concert, without separate interests, with respect to the sale of 388,861 Class D shares in Amiante.
+[54] For the same reasons as those enumerated regarding the transaction carried out between Mr. Poulin and Gestion Turgeon, Mr. Turgeon is allegedly deemed to have received a dividend of $388,802 during the 2007 disposition of 388,861 Class D shares in Amiante.
+[55] According to the respondent, Gestion Hélie was simply a middleman for Mr. Turgeon, which enabled him to strip Amiante of its surpluses in order to benefit from the capital gains deduction.
+[56] The respondent also argues that Gestion Hélie had no interest in acquiring shares the value of which was not likely to increase, for which no dividend was paid, and for which the payment was subject to 4% interest. According to the respondent, the objective of this transaction was to enable Mr. Turgeon to benefit from the capital gains deduction.
+ANALYSIS [57] The following provisions of the ITA are relevant to the cases at bar:
+Non-arm’s length sale of shares
+84.1 (1) Where after May 22, 1985 a taxpayer resident in Canada (other than a corporation) disposes of shares that are capital property of the taxpayer (in this section referred to as the “subject shares”) of any class of the capital stock of a corporation resident in Canada (in this section referred to as the “subject corporation”) to another corporation (in this section referred to as the “purchaser corporation”) with which the taxpayer does not deal at arm’s length and, immediately after the disposition, the subject corporation would be connected (within the meaning assigned by subsection 186(4) if the references therein to “payer corporation” and to “particular corporation” were read as “subject corporation” and “purchaser corporation” respectively) with the purchaser corporation,
+(a) where shares (in this section referred to as the “new shares”) of the purchaser corporation have been issued as consideration for the subject shares, in computing the paid-up capital, at any particular time after the issue of the new shares, in respect of any particular class of shares of the capital stock of the purchaser corporation, there shall be deducted an amount determined by the formula
+(A - B) × C/A
+where
+A is the increase, if any, determined without reference to this section as it applies to the acquisition of the subject shares, in the paid-up capital in respect of all shares of the capital stock of the purchaser corporation as a result of the issue of the new shares,
+B is the amount, if any, by which the greater of
+(i) the paid-up capital, immediately before the disposition, in respect of the subject shares, and
+(ii) subject to paragraphs 84.1(2)(a) and 84.1(2)(a.1), the adjusted cost base to the taxpayer, immediately before the disposition, of the subject shares,
+exceeds the fair market value, immediately after the disposition, of any consideration (other than the new shares) received by the taxpayer from the purchaser corporation for the subject shares, and
+C is the increase, if any, determined without reference to this section as it applies to the acquisition of the subject shares, in the paid-up capital in respect of the particular class of shares as a result of the issue of the new shares; and
+(b) for the purposes of this Act, a dividend shall be deemed to be paid to the taxpayer by the purchaser corporation and received by the taxpayer from the purchaser corporation at the time of the disposition in an amount determined by the formula
+(A + D) - (E + F)
+where
+A is the increase, if any, determined without reference to this section as it applies to the acquisition of the subject shares, in the paid-up capital in respect of all shares of the capital stock of the purchaser corporation as a result of the issue of the new shares,
+D is the fair market value, immediately after the disposition, of any consideration (other than the new shares) received by the taxpayer from the purchaser corporation for the subject shares,
+E is the greater of
+(i) the paid-up capital, immediately before the disposition, in respect of the subject shares, and
+(ii) subject to paragraphs 84.1(2)(a) and 84.1(2)(a.1), the adjusted cost base to the taxpayer, immediately before the disposition, of the subject shares, and
+F is the total of all amounts each of which is an amount required to be deducted by the purchaser corporation under paragraph 84.1(1)(a) in computing the paid-up capital in respect of any class of shares of its capital stock by virtue of the acquisition of the subject shares.
+Arm’s length
+251 (1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm’s length;
+(b) a taxpayer and a personal trust (other than a trust described in any of paragraphs (a) to (e.1) of the definition trust in subsection 108(1)) are deemed not to deal with each other at arm’s length if the taxpayer, or any person not dealing at arm’s length with the taxpayer, would be beneficially interested in the trust if subsection 248(25) were read without reference to subclauses 248(25)(b)(iii)(A)(II) to (IV); and
+(c) in any other case, it is a question of fact whether persons not related to each other are, at a particular time, dealing with each other at arm’s length.
+[My emphasis.]
+[58] As the parties explained during the hearing, the essential question in these appeals is whether a non-arm’s length relationship existed, on the one hand between Mr. Poulin and Gestion Turgeon, and, on the other hand, between Mr. Turgeon and Gestion Hélie, in which case the appeals should be dismissed.
+[59] Indeed, the parties have acknowledged that, aside from the non-arm’s length issue, the conditions set out by paragraph 84.1(1)(b) of the ITA were also met in the case of the two dispositions at issue.
+[60] I will therefore discuss the issue whether the parties in this case had a de facto non-arm’s length relationship.[5]
+[61] In this regard, in Descarries v. The Queen,[6] Justice Hogan recalled that:
+. . . the specific rules show that the object, spirit or purpose of section 84.1 of the Act is to prevent taxpayers from performing transactions whose goal is to strip a corporation of its surpluses tax-free through the use of a tax-exempt margin or a capital gain exemption[7].
+[62] This comment is consistent with the analysis made by Justice Archambault in Desmarais v. The Queen,[8] where he explained:
+A textual and contextual analysis of section 84.1 establishes that – and this is consistent with the Technical Notes of the Minister of Finance – Parliament intended to prevent stripping of the surpluses of an operating company when the mechanism used for this stripping was similar to that used here by Mr. Desmarais. This was the mechanism he used to receive surpluses from an operating company free of tax following a transfer of the shares of this company to a holding company and, following redemption, out of the surpluses received from the operating company, of the shares issued in consideration of the shares of the operating company[9].
+[63] However, the de facto non-arm’s length relationship notion, first defined in Peter Cundill & Associates Ltd. v. The Queen,[10] was examined by the Supreme Court of Canada in Canada v. McLarty,[11] where Justice Rothstein wrote:
+[62] The Canada Revenue Agency Income Tax Interpretation Bulletin IT-419R2 “Meaning of Arm’s Length” (June 8, 2004) sets out an approach to determine whether the parties are dealing at arm’s length. Each case will depend on its own facts. However, there are some useful criteria that have been developed and accepted by the courts: see for example Peter Cundill & Associates Ltd. v. Canada, [1991] 1 C.T.C. 197 (F.C.T.D.), aff’d [1991] 2 C.T.C. 221 (F.C.A.). The Bulletin provides:
+22. . . . By providing general criteria to determine whether there is an arm’s length relationship between unrelated persons for a given transaction, it must be recognized that all-encompassing guidelines to cover every situation cannot be supplied. Each particular transaction or series of transactions must be examined on its own merits. The following paragraphs set forth the CRA’s general guidelines with some specific comments about certain relationships.
+23. The following criteria have generally been used by the courts in determining whether parties to a transaction are not dealing at “arm’s length”:
+• was there a common mind which directs the bargaining for both parties to a transaction;
+• were the parties to a transaction acting in concert without separate interests; and
+• was there “de facto” control [by one party over another] (one party’s control over the other)[12].
+[My emphasis.]
+[64] It is in accordance with this second criterion, that of parties acting in concert without separate interests, that the respondent argues that a non-arm’s length relationship existed between Mr. Poulin and Gestion Turgeon, and between Mr. Turgeon and Gestion Hélie, during the respective sales of their preferred shares.
+[65] In Petro-Canada v. Canada,[13] Madam Justice Sharlow of the Federal Court of Appeal, after citing Peter Cundill, stated at paragraph 55 of her reasons that if the "terms of the transactions did not reflect ordinary commercial dealings between vendors and purchasers acting in their own interests, " one must conclude that there was a non‑arm’s length relationship between the parties.
+[66] In Gestion Yvan Drouin,[14] at paragraph 75 of his reasons, Mr. Justice Archambault wrote that, in order to determine whether or not parties are acting in concert, without a separate interest, one must examine whether they are acting for their own benefit, or for that of someone else:
+. . . a person merely participates in a transaction, not for his own benefit but for someone else’s or, even if he is acting for his own benefit, if he is also acting for someone else in a context of reciprocity. That person is acting without a separate interest and not independently in his own interest[15].
+[67] As to which transactions must be examined, the Supreme Court of Canada stated in McLarty that the relationship between the parties to a transaction should be examined in the light of all the relevant facts. Rothstein J. stated the following at paragraph 65:
+The Minister states that “it is the relationship between vendor and purchaser at the time of purchase that must be examined, and not the relationship at any other time or with respect to any other transaction” (Minister’s factum on cross-appeal, at para. 26). I am unable to agree with such a restrictive approach. Of necessity, where the acquisition is made by an agent of the purchaser, the purchaser’s connection to the acquisition transaction and to the question of whether the vendor and purchaser were dealing at arm’s length will require that the agreement between the agent and the purchaser be considered. That agreement would normally precede the acquisition agreement (here all documents were signed on December 31, 1992)[16].
+[68] Moreover, in RMM Canadian Enterprises Inc. v. Canada,[17] Mr. Justice Bowman broadened the range of facts that must be analyzed in order to conclude that there is a non-arm’s length relationship under paragraph 251(1)(c) of the ITA. Indeed, in that case, the Court concluded that although the negotiations that led to the transaction took place at arm’s length, the parties’ conduct after that transaction apparently showed that the party who helped the other party clearly had no independent role:
+What, then, is the situation here? We have a corporation that uses another corporation to participate in what is essentially a plan to achieve a particular fiscal result. Does the very act of participation make the relationship non-arm’s length? Admittedly there was clearly arm’s length bargaining about the return that RMM would realize on the transaction. During those negotiations there was no element of control between EC and RMM, and RMM was separately advised. At that stage EC and RMM were at arm’s length. However, once the deal was settled, and as it evolved through the sale, the payment of the funds, the premature payment of the guaranteed amount, the endorsement of the refund cheques by RMM to EC and the virtual disappearance of RMM from the scene once it had served its purpose, it became clear RMM had no independent role. . . . The same result is achieved if one applies the “acting in concert” theory. RMM and EC were in my view not at arm’s length in carrying out the transaction, including the sale.[18]
+[Emphasis added.]
+[69] At the hearing, the appellants insisted that there was a major conflict between Mr. Poulin and Mr. Turgeon. It was in the interests of Amiante that one of the two parties leave the corporation. According to the appellants, the parties came to an agreement following arduous negotiations. The parties called upon several independent professionals to better represent their respective interests. According to the appellants, this demonstrates that the parties were acting independently, with separate interests.
+[70] First, that argument does not apply to the transaction between Mr. Turgeon and Gestion Hélie. There have never been any conflicts between Mr. Turgeon and Mr. Hélie. Moreover, it was not due to conflicts between the shareholder-directors of a corporation that the latter necessarily acted independently with separate interests. In certain transactions, shareholders can act independently with separate interests, and in other transactions, they can act in concert, without separate interests, in spite of strained relationships. In each case, it is a question of fact.
+[71] In this respect, I adopt the following comments of Justice Pizzitelli in Alberta Printed Circuits Inc. v. The Queen.[19] At paragraph 79 of his decision he wrote:
+[79] While I certainly do not doubt that there was much negotiation between Mr. McMuldroch and the Bambers, negotiations leading to the planning, putting into effect, and managing of a common interest do not magically transform those negotiations into evidence of not acting in concert in a common interest or lead to the necessary conclusion that the parties must logically have had separate interests[20].
+[Emphasis added.]
+[72] Nor is it a determinative factor that parties who used the services of the same firm or the same professional in decisions as to whether the parties acted in concert without separate interests.
+[73] Justice Lamarre Proulx made the following comments in Brouillette v. The Queen,[21] and I adopt her reasoning:
+[51] Financial advisors are not the directing minds of the corporations that they advise. They advise. They do not make the decisions. It cannot be determined that parties have acted in concert simply because they have used the same financial advisors. The interests of each party to an agreement must be analysed to determine whether they have acted in concert.[22]
+[74] In the light of the above, I will therefore determine whether the parties to the transactions in this case acted in concert without separate interests when the preferred shares were sold.
+I. Sale of 450,004 Class F shares of Amiante by Mr. Poulin to Gestion Turgeon [75] As regards the sale of shares held by Mr. Poulin, I am of the opinion that he and Gestion Turgeon were not acting in concert without separate interests.
+[76] Indeed, all of the evidence shows that throughout the negotiations prior to said sale, Mr. Poulin had intended to leave the corporation if Mr. Turgeon were not to comply with his conditions. However, one of these conditions for his departure was that he could benefit from his capital gains deduction. As a result, this increased the sale price of his shares.
+[77] As in Brouillette, Mr. Poulin wanted to sell his interest in Amiante at the best price and under the most optimal possible conditions. As for Mr. Turgeon, he wanted to acquire control of Amiante through Mr. Poulin’s departure. In this respect, Lamarre-Proulx J. wrote the following in her reasons:
+[50] In my opinion, the evidence established without a doubt that the interests of Messrs. Chagnon and Brunet were totally separate from those of Mr. Brouillette. Mr. Brouillette tried to sell at the best price he could get. Mr. Chagnon and Mr. Brunet tried to get the lowest price for the shares of a business that they were seeking to purchase and operate.[23]
+[Emphasis added.]
+[78] The report on Mr. Poulin’s departure, initially planned for March 31, 2010, later postponed to December 31, 2012, is, in my view, understandable given the circumstances. During the period when Mr. Turgeon was the majority shareholder, i.e. on April 1, 2007, it was clear that Mr. Poulin would be leaving Amiante and that Amiante would be continuing activities with Mr. Turgeon and Mr. Bilodeau. The unexpected departure of Mr. Bilodeau made it necessary for Amiante to reorganize, to buy back Mr. Bilodeau’s interest, and to accept a new shareholder, Mr. Hélie.
+[79] That being said, the evidence shows that throughout the negotiations, Mr. Poulin had intended to quit Amiante since 2006, and Mr. Bilodeau’s departure, paired with the integration of Mr. Hélie, merely delayed his departure from the corporation.
+[80] Therefore, I only see very few distinctions between the transaction effected between Mr. Poulin and Gestion Turgeon and that at issue in Brouillette, except that in this case, due to unforeseen circumstances, the reorganization did not go smoothly, the terms and conditions of which were first established on April 1, 2007, and which later led to the September 20, 2007 agreement, and that the buyer was already an Amiante shareholder. That being said, both cases bore on the application of the "leveraged buy-out" technique. In my view, these differences are not significant enough to justify a different result.
+[81] The fact that Mr. Poulin and Mr. Turgeon had structured the transaction such that Mr. Poulin could benefit from his capital gains deduction does not mean that the parties acted in concert without separate interests.
+[82] In this regard, Justice Bonner, in McNichol v. The Queen,[24] made a distinction between a buyer and a seller seeking to effect a transaction that is beneficial to both parties, and the aspect of acting in concert without separate interests:
+The evidence in the present case shows that arm’s length bargaining was present in the sale of the Bec shares. The interests of vendors and purchaser were divergent with regard to the purchase price. The appellants were clearly price sensitive for they terminated discussions with regard to the sale of the shares to a prospective purchaser, Malcolm Dunfield, upon learning that Forestell would pay a higher price. . . . The fact that the tax savings potentially accruing to the appellants as a consequence of sale formed not only the reason for the sale but also the boundaries within which sale price might be negotiated does not suggest that the appellants and Forestell acted in concert. Buyer and seller do not act in concert simply because the agreement which they seek to achieve can be expected to benefit both. Section 84.1 is therefore not applicable.[25]
+[Emphasis added.]
+[83] In my view, the sale of shares by Mr. Poulin to Gestion Turgeon reflects ordinary business relations between parties acting in their own interests, with each party guided by its own objectives and benefits. Mr. Poulin was seeking to obtain the best possible price for his shares, taking into account the capital gains deduction, and subjected his departure to conditions in his favour. Mr. Turgeon wanted control of Amiante.
+[84] Consequently, the parties were in an arm’s length relationship when Mr. Poulin sold the 450,004 Class D shares of Amiante to Gestion Turgeon. The provisions of section 84.1 of the ITA do not apply to this transaction.
+II. Sale of 388,861 Class D shares of Amiante by Mr. Turgeon to Gestion Hélie [85] As regards the transaction between Gestion Hélie and Mr. Turgeon, I am of the opinion that the parties acted in concert without separate interests.
+[86] The purpose of that sale was to help Mr. Turgeon claim his capital gains deduction.
+[87] It is evident from the documentation pertaining to each reorganization—the one in 2005, and that in 2007—as well as all of the evidence, that Mr. Turgeon wanted to benefit from his capital gains deduction.
+[88] Mr. Turgeon stated throughout his testimony that he had no idea why the various transactions and tax operations were effected regarding Amiante’s structure. He mentioned several times that he trusted his tax advisors and that he had no specific knowledge of the capital gains deduction.
+[89] I do not accept that claim by Mr. Turgeon. In my opinion, he was well aware of the possibility of benefitting from the capital gains deduction if he disposed of his personally owned shares. The documentation adduced at trial clearly indicated that even before Mr. Bilodeau joined Amiante, Mr. Turgeon wanted to obtain that relief, and he did precisely that by selling his 388,861 Class D shares to Gestion Hélie.
+[90] That being said, while it is completely acceptable for an entrepreneur to want to benefit from tax relief available to them, it is, however, necessary to ensure that the method used is permitted. That was not the case.
+[91] During his testimony, Mr. Hélie often said that he had purchased "voting shares" in Amiante.
+[92] The evidence revealed that through Gestion Hélie, Mr. Hélie had purchased 10.5% of the common shares in Amiante from Mr. Poulin (Gestion Poulin). Again through Gestion Hélie, Mr. Hélie also purchased 388,861 Class D preferred shares in Amiante from Mr. Turgeon—the freeze shares—for $388,861.
+[93] To that end, on behalf of Gestion Hélie, Mr. Hélie issued a promissory note to Mr. Turgeon in the amount of $388,861, bearing interest at an annual rate of 4% beginning on November 1, 2007.
+[94] The Share Purchase Agreement dated November 7, 2007, between Gestion Hélie and Mr. Turgeon stipulated that Amiante was to pay its shareholders at least 80% of its annual net profits in the form of dividends or otherwise–particularly by way of share redemptions. That agreement also stipulated that 90% of the sums received by Gestion Hélie had to be given to Mr. Turgeon in repayment of the balance of sale payable.
+[95] The Class D shares, just as the Class F shares, were freeze shares and could not increase in value. They did not include the right to receive an invitation to, to attend, or to vote at shareholder meetings. The dividend was non-cumulative, varying from 0.3% to 1.25% per month, depending on the share redemption price. No dividend was reported for these shares. However, the shares were redeemable at the option of the holder, for the amount paid for those shares. They also included the right to receive, as a priority, payment of the share redemption price in the event of a liquidation or dissolution.
+[96] Consequently, for Mr. Hélie, there were no risks associated with his involvement in this transaction. Gestion Hélie repaid its debt to Mr. Turgeon through Amiante buying back the shares. Gestion Hélie was able to force Amiante to buy back all of its shares at its discretion. Moreover, no period was stipulated to repay the promissory note that Gestion Hélie issued to Mr. Turgeon. As of the hearing date, i.e. nine years after the transaction, a balance still remained payable on the promissory note.
+[97] I am of the opinion that in no way did Gestion Hélie benefit from buying such shares or, on top of that, from paying interest on shares whose value was frozen. In the absence of any de facto control by Gestion Hélie over the corporation, few scenarios exist in which a person would be interested in obtaining similar freeze shares. For Gestion Hélie, the cost of those shares far exceeded their actual return since it was not shown that any dividend had been paid on them while they were held by Gestion Hélie.
+[98] I am of the view that in buying the Class D shares from Mr. Turgeon, Gestion Hélie had no interest other than to enable Mr. Turgeon to realize a capital gain, so that he could claim the capital gains deduction.
+[99] Furthermore, the evidence revealed that on January 27, 2014, Gestion Hélie transferred the remaining shares that had not yet been bought back by Amiante to Groupe Profectus Inc., of which Mr. Turgeon was President.
+[100] Although that transaction occurred seven years after Gestion Hélie purchased the preferred shares from Mr. Turgeon, just as in RMM Canadian Enterprises, this shows that, with respect to Amiante’s Class D shares, Gestion Hélie had no role independent of Mr. Turgeon. Mr. Hélie repeated on several occasions that he had always wanted to purchase "voting shares" in Amiante, except that he could not say what he received as consideration when his shares were transferred to Profectus.
+[101] In the words of Justice Archambault in Gestion Yvan Drouin, I conclude that Gestion Hélie was only involved in the transaction for the benefit of Mr. Turgeon, thereby allowing him to strip Amiante of its surpluses tax-free through the use of its capital gains deduction.
+[102] Finally, it is important to note that despite the resemblance between the two preferred freeze share sale transactions, namely the sale of Class F shares between Mr. Poulin and Gestion Turgeon, and the sale of Class D shares between Mr. Turgeon and Gestion Hélie, there are clear distinctions that call for a different result, as follows:
+− Mr. Turgeon’s objective was to acquire control of Amiante; this was done through Mr. Poulin’s departure and the purchase of his shares. Mr. Poulin’s objective was to leave Amiante under the best possible conditions. Both parties to the transaction had their own interests and benefits, which was not the case in the sale of shares by Mr. Turgeon to Gestion Hélie.
+− Contrary to the transaction concluded between Mr. Poulin and Gestion Turgeon, the Share Purchase Agreement between Mr. Turgeon and Gestion Hélie did not stipulate any terms and conditions of repayment regarding the promissory note issued to Mr. Turgeon. As I have already mentioned, nine years following the transaction, a balance of the price sale still remained payable.
+− Mr. Poulin quit Amiante as planned. Mr. Turgeon is still working at Amiante and, as majority shareholder and director, he controls the corporation.
+[103] For all of these reasons, I am of the opinion that Gestion Hélie and Mr. Turgeon acted in concert, without separate interests, during the sale of 388,861 Class D shares in Amiante, thereby creating a non-arm’s length relationship between the parties to that transaction. I am of the view that the conditions of the transaction effected between them do not reflect ordinary business dealings between parties acting in their own interests.
+[104] Therefore, the Minister was correct in disallowing the capital gains deduction claimed by Mr. Turgeon and in applying the provisions of section 84.1 of the ITA, namely, that Mr. Turgeon is deemed to have received a dividend during the 2007 taxation year.
+CONCLUSION [105] Mr. Poulin’s appeal is allowed, without costs.
+[106] Mr. Turgeon’s appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 14th day of June 2016.
+"Johanne D’Auray"
+D’Auray J.
+APPENDIX 1 [translation]
+1 Certificate and Articles of Amalgamation, Appendix 1.
+2 Certificate and Articles of Amalgamation, Appendix 2.
+3 Certificate of Amendment and Articles of Amendment dated May 20, 2005, Appendix 3; Certificate of Amendment and Articles of Amendment dated September 26, 2007, Appendix 4.
+4 Note from Rénald Grondin, CA, Raymond Chabot Grant Thornton, to Ghislain Poulin, Herman Turgeon and Les Constructions de l’Amiante Inc., dated December 16, 2004, Appendix 5; letter from Rénald Grondin to Michel Demers, with enclosures, dated March 31, 2005, Appendix 6.
+5 Agreement dated October 4, 2005, between Amiante shareholders; Appendix 7.
+6 Share Redemption Agreement dated October 4, 2005; Appendix 8.
+7 Note from Rénald Grondin to Les Constructions de l’Amiante Inc. shareholders, dated September 7, 2006, Appendix 9; note from Rénald Grondin to Ghislain Poulin, Herman Turgeon and Bernard Bilodeau, dated June 25, 2007, Appendix 10; note from Rénald Grondin to Les Constructions de l’Amiante Inc. shareholders, dated June 25, 2007, Appendix 11; letter from Rénald Grondin to Les Entreprises G.H.T. Inc., with enclosures, dated June 25, 2007, Appendix 12; letter from Rénald Grondin to Ghilin Inc., with enclosures, dated June 25, 2007, Appendix 13.
+8 Amiante’s Financial Statements as at March 31, 2007, Appendix 14.
+9 Letter from Deloitte to Christian Dumoulin, dated September 20, 2007; Appendix 15; letter from Deloitte to Christian Dumoulin, dated September 20, 2007 (amended on December 19, 2007), Appendix 16; organizational chart of transactions prepared by CRA, Appendix 17.
+10 Letter of intent between Amiante shareholders, dated December 22, 2006; Appendix 18; note re: meeting on February 22, 2007, Appendix 19; letter from Gilles Hébert to Ghislain Poulin, dated March 1, 2007, Appendix 20; internal memo from Mario Désilets to Nelson Lamontagne, dated March 15, 2007, Appendix 21; letter from Deloitte to Ghislain Poulin, dated April 12, 2007, Appendix 22; letter from Deloitte to Ghislain Poulin, dated April 12, 2007/April 24, 2007 (revised), Appendix 23; draft letter from Deloitte, dated June 15, 2007, Appendix 24.
+11 Certificate and Articles of Amendment dated September 26, 2007, Appendix 4.
+12 Amiante’s Shareholder Special Resolutions and Board of Directors’ Resolutions, adopted on September 26, 2007; Appendix 25.
+13 Certificate and Articles of Amalgamation, Appendix 2.
+14 Amalgamation Agreement of October 31, 2007, Appendix 26.
+15 Amiante’s Board of Directors’ Resolutions, Appendix 27.
+16 Share Purchase Agreement of November 1, 2007, Appendix 28.
+17 Share Purchase Agreement of November 7, 2007, Appendix 29.
+18 Amiante’s Financial Statements as at October 31, 2007, Appendix 30.
+19 Addendum to Amiante shareholders’ agreement, Appendix 31.
+20 Share Purchase Agreement of November 1, 2007, Appendix 28.
+21 Share Purchase Agreement of November 7, 2007, Appendix 29.
+22 Securities Register of Gestion David Hélie Inc., Appendix 32.
+23 Contract of Sale of Shares and other agreements, dated March 30, 2012, Appendix 33.
+24 Ghislain Poulin’s 2007 income tax return, Appendix 34.
+25 Notice of Reassessment, Appendix 35.
+26 Notice of Objection, Appendix 36.
+27 Report on one objection, name of opponent, Ghislain Poulin, Appendix 37.
+28 Notice of Confirmation, Appendix 38.
+29 Herman Turgeon’s 2007 income tax return, Appendix 39.
+30 Notice of Reassessment, Appendix 40.
+31 Notice of Objection, Appendix 41.
+32 Report on one objection, name of opponent, Herman Turgeon, Appendix 42.
+33 Notice of Confirmation, Appendix 43.
+34 Letter from Benoit Couillard to Suzanne Saydeh dated October 28, 2010 (no enclosures), Appendix 44; Memorandum from Dan Rivet to Benoit Couillard dated March 18, 2011, Appendix 45; Letter from Benoit Couillard to Djelloul Omari dated September 20, 2011 (no enclosures) Appendix 46.
+CITATION:
+2016 TCC 154
+COURT FILE NOS.:
+2013-2554(IT)G
+2013-2555(IT)G
+STYLES OF CAUSE:
+GHISLAIN POULIN v HER MAJESTY THE QUEEN
+HERMAN TURGEON v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATES OF HEARINGS:
+September 28, 29 and 30, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+June 14, 2016
+APPEARANCES:
+Counsel for the Appellants:
+Geneviève Léveillé
+Laurie Beausoleil
+Counsel for the Respondent:
+Natalie Goulard
+Marissa Figlarz, student-at-law
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Geneviève Léveillé
+Laurie Beausoleil
+Firm:
+PwC Law
+LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The September 20, 2007 agreement, amended on December 19, 2007.
+[2] The company that was created by Mr. Poulin is 6847200 Canada Inc. It is called Gestion Poulin.
+[3] The company that was created by Mr. Turgeon is 6847161 Canada Inc. It is called Gestion Turgeon.
+[4] See paragraphs 28 to 34 of the partial agreed statement of facts.
+[5] See Gestion Yvan Drouin v. The Queen, 2001 D.T.C. 72, at paragraph 39 (TCC) [Gestion Yvan Drouin].
+[6] 2014 TCC 75.
+[7] Ibid, at paragraph 53.
+[8] 2006 TCC 44.
+[9] Ibid, at paragraph 32.
+[10] [1991] FCJ No. 1008 (FCA).
+[11] 2008 SCC 26 [McLarty].
+[12] Ibid, at paragraph 62.
+[13] 2004 FCA 158.
+[14] Above, note 5.
+[15] Ibid, at paragraph 75.
+[16] McLarty, above (note 11), at paragraph 65.
+[17] [1997] T.C.J. No. 302 (TCC) [RMM Canadian Enterprises].
+[18] Ibid., at paragraph 39.
+[19] 2011 TCC 232.
+[20] Ibid., at paragraph 79.
+[21] 2005 TCC 203 [Brouillette].
+[22] Ibid., at paragraph 51.
+[23] Brouillette, above (note 20), at paragraph 50.
+[24] [1997] T.C.J. No. 5 (TCC).
+[25] Ibid., at paragraph 17.

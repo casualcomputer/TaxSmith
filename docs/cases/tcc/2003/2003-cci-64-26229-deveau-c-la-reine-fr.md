@@ -1,0 +1,133 @@
+---
+title: "Deveau c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26229/index.do"
+last_modified: "2003-02-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 64"
+citation2: ""
+neutral_citation: "2003 CCI 64"
+decision_date: "2003-02-25"
+language: "fr"
+item_id: "26229"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4026
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:31:22.413000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3666597c86a886cadd02e90dfe9b2defab561d506edad4dd25aa2f4ed166c499"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Deveau c. La Reine
+
+- Citation: 2003 CCI 64
+- Decision date: 2003-02-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4026, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Deveau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-02-25
+Référence neutre
+2003 CCI 64
+Numéro de dossier
+2002-3461(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-3461(IT)I
+ENTRE :
+BRIAN DEVEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appel entendu le 21 janvier 2003, à Moncton (Nouveau-Brunswick)
+Devant : l'honorable juge François Angers
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Christa MacKinnon
+_______________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998 et 1999 sont admis, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que les frais d'automobile, de déplacement et d'hébergement sont admis pour les deux années d'imposition.
+Signé à Edmundston (Nouveau-Brunswick), ce 25e jour de février 2003.
+« François Angers »
+J.C.C.I.
+Traduction certifiée conforme
+ce 10e jour de février 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI64
+Date: 20030225
+Dossier: 2002-3461(IT)I
+ENTRE :
+BRIAN DEVEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers, C.C.I.
+[1] Brian Deveau interjette appel à l'encontre de cotisations établies pour les années d'imposition 1998 et 1999. Dans sa nouvelle cotisation à l'égard de l'appelant pour l'année d'imposition 1998, le ministre du Revenu national (le « ministre » ) a réattribué le revenu d'emploi de l'appelant au revenu d'entreprise et a admis des dépenses de 3 644,32 $ sur les 12 688,59 $ dont la déduction avait été demandée. Dans la nouvelle cotisation pour 1999, le revenu d'emploi de l'appelant a été réattribué au revenu d'entreprise, et un montant de 2 675,32 $ des dépenses d'entreprise de 23 475,32 $ qui avaient été déduites a été admis. Les montants refusés ne sont pas en litige. La question à trancher est de savoir si ces dépenses constituent des dépenses d'entreprise légitimes plutôt que des dépenses personnelles, et si l'appelant est en droit de les déduire.
+[2] Pour l'année d'imposition 1998, l'appelant a demandé la déduction de frais d'automobile de 7 327,27 $, de frais de déplacement de 217 $ et de frais d'hébergement de 1 500 $. Pour l'année d'imposition 1999, l'appelant a demandé la déduction de frais d'automobile de 10 988,27 $ et de frais de déplacement de 9 811,73 $. L'appelant a-t-il droit à la déduction de ces dépenses? Le ministre s'est fondé sur les hypothèses de fait suivantes, lesquelles ont été soit admises ou niées par l'appelant, comme il est indiqué :
+[TRADUCTION]
+(b) à toutes les époques pertinentes, l'appelant avait un contrat (le « contrat » ) avec Gosine Sulley & Associates en vue de fournir des services informatiques à NBTel à Saint John (Nouveau-Brunswick); (nié)
+(c) à toutes les époques pertinentes, l'appelant exploitait une entreprise fournissant des services informatiques; (admis)
+(d) à toutes les époques pertinentes, la résidence de l'appelant se trouvait à Moncton (Nouveau-Brunswick); (admis)
+(e) le contrat spécifiait qu'un bureau devait être mis à la disposition de l'appelant dans les locaux de NBTel à Saint John; (admis)
+(f) le contrat spécifiait que toutes les fournitures et tous les services, y compris les services de secrétariat, nécessaires à l'exécution du contrat seraient fournis à l'appelant par NBTel; (admis)
+(g) le contrat n'obligeait pas l'appelant à conserver un bureau à sa résidence de Moncton; (nié)
+(h) l'appelant a conservé un bureau à sa résidence de Moncton; (admis)
+(i) l'appelant était tenu, conformément aux conditions du contrat, de fournir des services aux locaux de NBTel tous les jours ouvrables, 7 heures et demie par jour; (nié)
+(j) le contrat spécifiait que l'appelant devait prendre en charge tous les frais de subsistance et de déplacements liés à l'exécution du contrat dans la ville de Saint John, mais que les frais de déplacement raisonnables engagés pour la fourniture des services en dehors de la région de Saint John lui seraient remboursés par NBTel; (admis)
+(k) les dépenses refusées ont toutes été engagées par l'appelant pour faire des allers-retours entre sa maison de Moncton et le bureau de NBTel à Saint John, ainsi que pour se loger alors qu'il se trouvait à Saint John; (nié)
+(l) les dépenses mentionnées au paragraphe 11(k) étaient des dépenses personnelles de l'appelant; (nié)
+[3] L'appelant a commencé à travailler à titre d'employé dans le domaine de l'informatique en 1996. En 1998, il a été contacté par un groupe de firmes de consultants en vue d'exécuter du travail contractuel; il a finalement accepté leur offre et a quitté son emploi. Avant cela, il s'était informé auprès d'un comptable et auprès de fonctionnaires de l'ADRC au sujet des conséquences fiscales liées au démarrage de sa propre entreprise. On lui a remis un guide sur les petites et moyennes entreprises et on l'a informé que les dépenses afférentes à un véhicule à moteur qui étaient engagées en vue de gagner un revenu pouvaient être déduites (pièce A-1).
+[4] Dans sa résidence à Moncton (Nouveau-Brunswick), il a converti une chambre à coucher en bureau et a exploité son entreprise à partir de cet endroit. Il a obtenu son premier contrat en 1998 pour NBTel. Le contrat a été conclu par l'intermédiaire de Gosine Sulley & Associates. Le contrat (onglet 4 de la pièce R-1) stipulait que les services de l'appelant devaient être fournis dans les locaux du client, tous les jours ouvrables, 7 heures et demie par jour. Les locaux du client sont situés à Saint John (Nouveau-Brunswick). Bien que le contrat n'ait pas été modifié, l'appelant a témoigné qu'il n'était pas obligé de se rendre sur place tous les jours et qu'il passait parfois une « semaine complète » à travailler pour le client à partir de sa résidence. Cette affirmation est corroborée par une lettre datée du 9 septembre 2001 de Shelly Bartlett de Xwave Solutions Inc., membre du groupe NBTel (pièce A-2). L'appelant a ajouté qu'il était tenu de fournir ses services « au besoin » et que la clause des 7 heures et demie du contrat ne représentait qu'un mécanisme de contrôle de NBTel lui permettant de ne pas dépasser son budget. Cependant, le nombre d'heures de travail devait être approuvé par NBTel. Cette lettre (A-2) confirme que l'appelant devait prendre en charge les frais de déplacements et d'hébergement qu'il était susceptible d'engager, étant donné que NBTel ou Xwave Solutions Inc. ne couvrirait que les dépenses engagées s'il devait se rendre à un endroit situé en dehors de Saint John (Nouveau-Brunswick).
+[5] L'entente entre l'appelant et NBTel et/ou Xwave Solutions Inc. pouvait être résiliée par l'une ou l'autre des parties sur préavis de 30 jours. Un avenant, daté du 28 mai 2001, a par la suite été signé par les parties (pièce A-3); il prévoyait que le contrat serait résilié sans délai en cas d'inexécution du contrat et qu'il pouvait l'être sur préavis de 15 jours ouvrables pour tout autre motif.
+[6] L'appelant a ensuite témoigné que le contrat ne reflétait pas la manière dont son entreprise était exploitée. Il devait travailler à partir de sa résidence, étant donné qu'il ne pouvait accomplir ses autres tâches dans les locaux de NBTel à Saint John. Il était nécessaire qu'il conserve son bureau à domicile afin de se tenir à jour. Il accédait parfois aux locaux de NBTel grâce à un code d'identification sécurisé, dont il a donné un exemple en preuve (pièce A-5).
+[7] Au contre-interrogatoire, l'appelant a reconnu qu'il avait modifié certaines clauses du contrat initial, mais qu'il n'avait pas senti le besoin de modifier la clause relative aux 7 heures et demie par jour, étant donné qu'il ne considérait pas qu'elle posait problème pour les motifs susmentionnés. Il a également reconnu que NBTel était son seul client pour les deux années d'imposition en cause, mais qu'il avait reçu d'autres offres qu'il avait refusées pour des raisons de coûts. Il préférait avoir un seul bon client vu le recul (repli) subi par l'industrie. Pour ce qui est de ses déplacements, l'appelant a tenu un registre. Au début, il se rendait de Moncton à Saint John sur une base quotidienne; par la suite, il lui arrivait de rester chez un ami pour 50 $ la nuit afin d'éviter de refaire le trajet chaque jour. En bref, certaines semaines il était à Saint John, d'autres semaines il n'y était pas, et lorsqu'il y était, il effectuait parfois des voyages aller-retour. Il a reconnu qu'il n'était pas très souvent présent à son bureau à Moncton.
+[8] Lucie Lajoie, vérificatrice d'entreprises pour l'intimée, a soutenu que, d'après le contrat, l'établissement principal se trouvait à Saint John. Aucun nouveau fait n'a été mis au jour. Elle a signalé de nouveau que les dépenses avaient été refusées car il s'agissait de dépenses personnelles qui n'avaient pas été engagées en vue de produire un revenu. En effet, l'intimée est d'avis que l'appelant ne travaillait pas à partir de son domicile. Il effectuait des voyages aller-retour la plupart des jours et le contrat stipulait qu'il devait travailler sur place. La lettre (pièce A-2) et l'avenant (pièce A-3) n'étaient pas rétroactifs et la situation pour les deux années d'imposition était donc la même (onglet 4 de la pièce R-1).
+[9] L'appelant soutient que les services étaient fournis à l'établissement du client et que les dépenses avaient été engagées en vue de produire un revenu d'entreprise. Son établissement principal se trouvait à Moncton et, bien que son contrat stipulait que les services devaient être exécutés à Saint John, dans les faits, ce n'était pas toujours le cas.
+[10] Le revenu de l'appelant a d'abord été considéré comme étant un revenu d'emploi. Sa vérification et celle de Gosine Sulley & Associates lui ont fait perdre son contrat avec NBTel. L'appelant occupe maintenant de nouveau son ancien emploi.
+[11] Le montant des dépenses n'est pas en litige.
+[12] Bien que l'appelant ait exploité son entreprise à partir de son domicile, il ne fait aucun doute que les conditions du contrat prévoyaient que le travail devait être exécuté dans les locaux de NBTel sur une base quotidienne pour la durée du contrat. Je crois que le ministre s'est fondé sur ces conditions lorsqu'il a établi sa cotisation initiale à l'égard de l'appelant dans laquelle il considérait que son revenu était un revenu d'emploi plutôt qu'un revenu d'entreprise. Après un nouvel examen, le ministre a établi une nouvelle cotisation en tenant compte du fait qu'il s'agissait d'un revenu d'entreprise, mais il a refusé les frais de déplacements et d'hébergement qu'il jugeait de nature personnelle.
+[13] Les faits présentés au cours du procès ont démontré que le travail de l'appelant n'était pas toujours exécuté dans les locaux de NBTel. Bien qu'aucun chiffre spécifique n'ait été donné, il travaillait certains jours à partir de sa résidence de Moncton, parfois durant plusieurs semaines. L'appelant avait accès aux locaux de NBTel grâce à un code d'identification sécurisé et il se rendait dans les locaux de NBTel à Saint John selon les différentes étapes du projet. Bien que cette partie de la preuve n'ait pas été corroborée par d'autres témoins, je n'ai aucune raison de ne pas croire l'appelant.
+[14] L'appelant exploitait une entreprise de conseil en informatique à partir de sa résidence de Moncton (Nouveau-Brunswick) et, en vue de tirer un revenu de son entreprise, sa présence était quelquefois requise, au besoin, dans les locaux du client. Ses dépenses auraient probablement été plus élevées s'il avait choisi de ne pas effectuer des voyages aller-retour sur une base quotidienne; mais d'une façon ou d'une autre, ces dépenses ont été engagées à des fins commerciales puisque son entreprise l'obligeait à se trouver à cet endroit.
+[15] Malgré le fait que le contrat pouvait être résilié à court préavis, on ne peut soutenir en l'espèce que les dépenses étaient déraisonnables en ce sens que l'appelant aurait pu prendre des dispositions afin de se loger à meilleur coût et à plus long terme. Quoiqu'il en soit, lorsque l'appelant n'effectuait pas des voyages aller-retour, il restait chez un ami au coût de 50 $ par nuit.
+[16] Je considère donc que ces dépenses sont raisonnablement applicables à sa source de revenu : l'appelant travaillait à sa résidence de Moncton et se rendait à l'établissement de son client « au besoin » . Les dépenses engagées pour se déplacer d'un endroit à l'autre et pour se loger peuvent raisonnablement être appliquées à l'entreprise qu'il exploitait de sa résidence.
+[17] Par conséquent, les appels sont admis, et l'affaire est déférée au ministre pour recommandation et nouvelles cotisations en tenant compte du fait que les frais d'automobile, de déplacement et d'hébergement sont admis pour les deux années d'imposition.
+Signé à Edmundston (Nouveau-Brunswick), ce 25e jour de février 2003.
+« François Angers »
+J.C.C.I.
+Traduction certifiée conforme
+ce 10e jour de février 2005.
+Sophie Debbané, réviseure

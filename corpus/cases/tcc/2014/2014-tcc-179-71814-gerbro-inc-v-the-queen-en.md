@@ -1,0 +1,251 @@
+---
+title: "Gerbro Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/71814/index.do"
+last_modified: "2014-05-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 179"
+citation2: ""
+neutral_citation: "2014 TCC 179"
+decision_date: "2014-05-27"
+language: "en"
+item_id: "71814"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5387
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:44:13.734000+00:00"
+cases_cited_count: 5
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "366dc2f9dee4d1b3ec03a424c30e19ff80102d6c2ee4724c5e42fc36ef039019"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gerbro Inc. v. The Queen
+
+- Citation: 2014 TCC 179
+- Decision date: 2014-05-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5387, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gerbro Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-05-27
+Neutral citation
+2014 TCC 179
+File numbers
+2012-4194(IT)G, 2012-739(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2012-739(IT)G
+2012-4194(IT)G
+BETWEEN:
+GERBRO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motions heard on December 6, 2013 and February 27, 2014
+at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Stéphane Eljarrat
+Olivier Fournier
+Joel Scheuerman
+Counsel for the Respondent:
+Naomi Goldstein
+Rita Araujo
+ORDER
+UPON motion by the respondent for an Order to quash a notice to attend, it is ordered that:
+1. the notice to attend is quashed, and
+2. the appellant may examine the respondent’s nominee regarding the correction as to whether the conclusion in the auditor’s report regarding the purpose test was based on a template;
+AND UPON motion by the appellant for an Order to strike out the following parts of the Replies:
+a) in the Reply in respect of the 2005 taxation year, subparagraphs 19. ff), zz), ttt), and pppp), and
+b) in the Reply in respect of the 2006 taxation year, paragraphs 14.35, 14.73 and 14.94,
+it is ordered that the motion is dismissed;
+AND UPON motion by the respondent for an Order to require disclosure of legal advice regarding the statement in paragraph 67 of the notice of appeal for the 2005 taxation year, it is ordered that the motion is dismissed;
+AND IN RESPECT OF costs on these motions, in light of mixed success the parties shall bear their own costs.
+Signed at Toronto, Ontario this 27th day of May 2014.
+“J.M. Woods”
+Woods J.
+Citation: 2014 TCC 179
+Date: 20140527
+Dockets: 2012-739(IT)G
+2012-4194(IT)G
+BETWEEN:
+GERBRO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Woods J.
+[1] Three interlocutory motions have been brought by the parties:
+(a) the Crown seeks an Order to quash a notice to attend for examination on an affidavit,
+(b) Gerbro Inc. (“Gerbro”) seeks an Order to strike out certain assumptions set out in the Replies, and
+(c) the Crown seeks an Order for disclosure of solicitor-client communications.
+[2] By way of background, Gerbro is a Canadian-controlled private corporation, the sole shareholder of which is the Marjorie Bronfman Trust. Gerbro appeals in respect of assessments made under the Income Tax Act for the 2005 and 2006 taxation years.
+[3] The appeals concern the application of section 94.1 of the Act in respect of shares that Gerbro owned in four foreign investment entities (the “Funds”). The pleadings identify two issues, which for the purpose of these motions may generally be described as whether the Funds primarily held portfolio investments and whether Gerbro’s interest in the Funds was tax motivated (the “purpose test”).
+[4] These motions were brought after the parties had completed discoveries and satisfied undertakings.
+Motion 1 - Crown’s motion to quash a notice to attend
+Background
+[5] The Crown seeks an Order to quash a notice to attend for examination on an affidavit.
+[6] The relevant background facts are set out below.
+(a) June 28, 2013 - The Crown provided clarifications and corrections to answers given on discovery by Ginette Phisel, who was the auditor on this file on behalf of the Canada Revenue Agency (CRA). The Crown was required to provide this information pursuant to subsection 98(1) of the Tax Court of Canada Rules (General Procedure) (the “Rules”).
+(b) August 28, 2013 - Gerbro requested that the clarifications and corrections be confirmed by affidavit pursuant to s. 98(2)(a) of the Rules.
+(c) September 12, 2013 – An affidavit of Ms. Phisel was provided to Gerbro which confirmed the clarifications and corrections.
+(d) September 30, 2013 - Gerbro informed the Crown that it would not require further examinations for discovery by written questions. Gerbro had earlier agreed that any further discovery would be conducted only in writing.
+(e) October 31, 2013 - Gerbro informed the Crown that it wished to cross-examine Ms. Phisel on her affidavit pursuant to section 74 of the Rules.
+(f) November 11, 2013 - Gerbro serves a notice to attend for Ms. Phisel to be examined on her affidavit.
+Position of parties
+[7] The Crown seeks to quash the notice to attend on grounds that the Rules do not permit the examination, and that it would be unfair for Gerbro to go behind its agreement that discoveries were completed.
+[8] Gerbro submits that s. 98(2)(a) permits the further examination of Ms. Phisel, and that in any event it has an inherent right to cross-examine on an affidavit. With respect to its agreement to end discoveries, Gerbro submits that this agreement only applied to general discoveries and it does not limit Gerbro’s right to cross-examine on the affidavit.
+[9] For clarity, Gerbro does not rely on section 74 of the Rules as it did in its letter of October 31, 2014. This section clearly has no application.
+Analysis
+[10] By letter dated June 28, 2013, the Crown provided several clarifications and corrections to answers given by Ms. Phisel on discovery. Gerbro seeks to examine Ms. Phisel on the corrections, however counsel’s submissions at the hearing focussed on only one correction that it says is key to Gerbro’s case. I will therefore limit my consideration to this one item.
+[11] On discovery, Ms. Phisel was asked whether a number of findings in the auditor’s report were based on a template developed by the CRA. The auditor’s finding that is relevant here is that Gerbro satisfied the purpose test in s. 94.1. The conclusion is stated in paragraph 81 of the report, which reads:
+81. As a result, in our view, using the precise wording of current section 94.1 (OIF regime), one of the main reasons of the holdings of the OIFs was to derive a benefit in such a manner that the taxes on the income, profits and gains from such assets are significantly less than the tax that would have been applicable if the income, profits and gains had been earned directly by Gerbro.
+[12] When asked on discovery whether the finding in paragraph 81 was based on a template, Ms. Phisel answered that it was. She subsequently corrected this answer and stated that paragraph 81 was specific to Gerbro.
+[13] Following the correction, Gerbro requested an affidavit confirming this pursuant to s. 98(2) of the Rules. Gerbro now wishes to cross-examine Ms. Phisel on the affidavit to test the veracity of the correction.
+[14] In my respectful view, Gerbro should not be permitted to cross-examine Ms. Phisel on her affidavit. However, pursuant to s. 98(2)(a) Gerbro should be able to further examine Ms. Phisel regarding the correction.
+[15] Subsection 98(2) of the Rules provides:
+98.(2) Where a party provides information in writing under subsection (1),
+(a) the adverse party may require that the information be verified by affidavit of the party or be the subject of further examination for discovery, and
+(b) the writing may be treated at a hearing as if it formed part of the original examination of the person examined.
+[16] Gerbro submits that there is an inherent right to cross-examine on an affidavit. I was not referred to any specific Rule or jurisprudence which provides for such a right, and this submission is therefore rejected.
+[17] This is not the end of the matter, however, because Gerbro also submits that s. 98(2) gives a right of further examination of Ms. Phisel relating to her corrections. I agree with this view, which is based on an inclusive meaning of the word “or” in s. 98(2)(a).
+[18] When interpreting the word “or” in this context, I see no reason to depart from the meaning that this term has in statutes. In this usage, the term “or” is presumptively used in an inclusive sense so that one or both courses of action may be taken: Sullivan on the Construction of Statutes (fifth edition). This meaning favours Gerbro’s position that it is entitled under s. 98(2) to two courses of action, an affidavit and a further examination.
+[19] The Crown submits that, even if s. 98(2) is interpreted in this manner, further examination should not be permitted because Gerbro itself agreed to end discoveries by its letter dated September 30, 2013.
+[20] The letter dated September 30, 2013 appears to be ambiguous on this point. Gerbro submits that the agreement was only meant to include general discoveries, and not a specific examination on the corrections. This position is consistent with the material before me, and given the importance of the issue to Gerbro, it should be given the benefit of the doubt on this point.
+[21] Where does this leave us? I would note that the notice to attend refers to an examination on Ms. Phisel’s affidavit. This is not the examination that is provided for in s. 98(2) and the notice to attend should be quashed on this basis. However, I conclude that Gerbro should be entitled to further examine Ms. Phisel with respect to the correction that is at issue.
+Motion 2 - Gerbro’s motion to strike out parts of the Replies
+Background
+[22] In the second motion, Gerbro seeks an Order to strike out the parts of the Replies that purport to set out the Minister’s assumptions concerning the purpose test. A separate, but identical, assumption is set out for each of the four Funds that Gerbro held during the period at issue. One of these assumptions is reproduced below.
+19. In determining the appellant’s tax liability for the 2005 taxation year, the Minister made the following assumptions of fact:
+[…]
+zz) one of the appellant’s main reasons for acquiring and holding an interest in Arden was to derive a benefit from portfolio investments, directly or indirectly, in such a manner to reduce or defer Canadian taxes otherwise applicable had the appellant earned the income generated from the underlying assets of the fund directly;
+Position of parties
+[23] Gerbro submits that the assumptions relating to the purpose test should be struck out because they just parrot the Act and are statements of mixed fact and law on a central issue in the appeals. Gerbro also submits that the contradiction of Ms. Phisel relating to this part of her discovery and the failure of the Crown to comply with the notice to attend (Motion 1) which relates to this issue suggests that these assumptions were in fact never made.
+[24] Gerbro also submits that the fresh step rule in section 8 of the Rules should not bar this motion because the motion was delayed in order to expedite the appeals. It was only after Ms. Phisel corrected her answer about the use of templates that Gerbro concluded that it was appropriate that the purported assumptions be struck out.
+[25] The Crown submits that the assumptions about the purpose test are statements of fact, and that in any event the motion should be barred under the fresh step rule. The Crown submits that it is prejudiced because it has conducted discoveries and planned its litigation strategy on the basis that these assumptions are proper.
+Analysis
+[26] I will first consider whether the assumptions that concern the purpose test are impermissible as statements of mixed fact and law or that they simply parrot the Act.
+[27] The relevant part of s. 94.1(1) reads:
+94.1 (1) Offshore investment fund property – Where […] it may reasonably be concluded,
+[…]
+that one of the main reasons for the taxpayer acquiring, holding or having the interest in such property was to derive a benefit from portfolio investments in assets described in any of subparagraphs 94.1(1)(b)(i) to 94.1(1)(b)(ix) in such a manner that the taxes, if any, on the income, profits and gains from such assets for any particular year are significantly less than the tax that would have been applicable under this Part if the income, profits and gains had been earned directly by the taxpayer, there shall be included in computing the taxpayer’s income for the year
+[…]
+[28] Although the assumptions do parrot the statute to some degree, I do not find this to be a helpful way to approach the issue. Parroting the statute is not necessarily problematic in itself. The more important question is whether the assumptions are statements of mixed fact and law.
+[29] It is instructive to consider the guidance provided by Sharlow J.A. in paragraphs 92 to 94 of Canadian Imperial Bank of Commerce v The Queen, 2013 FCA 122 (“CIBC”):
+[92] It is now well established that the statement of factual assumptions must contain no statements of law (Anchor Pointe (2003) at paragraph 25), and where the assessment under appeal is based on a conclusion of mixed fact and law, the factual components must be extricated and stated as factual assumptions (Anchor Pointe (2003) at paragraph 26). The Crown did not observe those principles in many parts of its statement of assumptions, and the judge made no error in requiring the assumptions to be revised accordingly.
+[93] One example will illustrate this point. Paragraph 28.22.7 of the reply reads, “the Settlement Payments were not expenditures incurred by the appellant for the purpose of earning income from the business it carried on”. That is nothing more than an uninformative paraphrase of paragraph 18(1)(a). It would be appropriate in the portion of the reply that states the Crown’s legal arguments. It is not appropriate in a statement of the Minister’s factual assumptions. Despite the difficulty of which the Crown complains in discerning the difference between facts and law, it seems to me that paragraph 28.22.7 of the reply could be revised without difficulty to extricate the facts and state them as factual assumptions. There are potentially a number of factual elements – the purpose of the payments, the business carried on by CIBC, the factual connection or absence of a factual connection between the two – that might have been the subject of factual assumptions made by the Minister in reaching the conclusion that the income earning purpose in paragraph 18(1)(a) was not met. If the Minister made no factual assumptions in reaching that conclusion, then no factual assumptions can be stated, but the conclusion nevertheless may be pleaded elsewhere in the reply.
+[94] I have not disregarded the cases cited by the Crown in which the Tax Court has permitted statements similar to those in paragraph 28.22.7 to remain in the statement of the Minister’s assumptions. It may well be that in certain situations it is reasonable to allow a deficient pleading to stand if, for example, the facts are relatively simple, there is little or no debate about the applicable legal principles, or there is little risk that the other party will be prejudiced or will be obliged to waste resources. However, this is manifestly not such a case.
+[30] In applying this principle to the assumption in paragraph 19(zz) above, it is clear that the paragraph includes elements of fact and law. It contains at least two impermissible elements of law: “What is a portfolio investment?” and “When do tax considerations satisfy the purpose test?”
+[31] If it were not for the potential application of the fresh step rule, the purpose test assumptions should be struck out with leave to amend to extricate the factual elements.
+[32] The second question to be decided is whether this motion should be prohibited by the fresh step rule in section 8 of the Rules because the motion was brought after Gerbro undertook discoveries.
+[33] Section 8 of the Rules provides:
+8. A motion to attack a proceeding or a step, document or direction in a proceeding for irregularity shall not be made,
+(a) after the expiry of a reasonable time after the moving party knows or ought reasonably to have known of the irregularity, or
+(b) if the moving party has taken any further step in the proceeding after obtaining knowledge of the irregularity,
+except with leave of the Court.
+[34] Counsel for Gerbro stated that it did not challenge the assumptions earlier because it felt that it “needed the necessary tools to explore whether there were actual specific facts underpinning that assumption […] in order to expedite the process.” (Transcript of hearing on December 6, 2013, page 94.)
+[35] Presumably the tools referred to above are Gerbro’s discovery of the Crown’s nominee.
+[36] In my view the Crown is at a disadvantage by the lateness of this motion. The Crown filed lists of documents and completed the discovery process believing that there was no irregularity with the assumptions. The Crown may have conducted its case differently if that were not the case.
+[37] I accept that Gerbro was attempting to expedite the process, but this strategy appears to have backfired. Counsel for Gerbro acknowledged at the hearing that if the assumptions are amended to extricate the factual elements, it may require further discoveries. Section 8 is designed to prohibit dragging out the process in this way. I would also note that the parties advised the Court on April 23, 2014 that these appeals were ready for hearing and trial dates have since been set.
+[38] I have concluded that the fresh step rule should be a bar to Gerbro challenging the stated assumptions, which clearly are in the nature of irregularities within the contemplation of section 8 (Sandia Mountain Holdings Inc. v The Queen, 2005 TCC 136, at para. 7-10).
+[39] Finally, Gerbro submits that it only decided to pursue this motion once it became aware that the assumptions may have been based on a template.
+[40] I accept that this was Gerbro’s motivation for bringing this motion, but it is not a sufficient reason to allow Gerbro to raise this issue only after discoveries have been completed. Once having proceeded with discoveries, Gerbro should not be allowed to go backwards in the litigation to the prejudice of the Crown.
+[41] This motion should be dismissed.
+Motion 3 – Crown’s motion for disclosure of solicitor-client communications
+[42] In this motion, the Crown seeks disclosure of legal advice provided to Gerbro concerning proposed amendments to section 94.1. In particular, the Crown seeks disclosure of communications between Gerbro and its lawyers with respect to the following statement in the notice of appeal for the 2005 taxation year:
+67. Until November 8, 2006, and particularly at the time of making the investments in the Funds, it was Gerbro’s understanding that the proposed amendments to section 94.1 of the ITA would come into force with retroactive effect to 2003.
+[43] Gerbro refused to disclose this information during discoveries on grounds of privilege.
+[44] As a preliminary comment, at the hearing the Crown appeared to be taking a very wide view of the legal advice that relates to paragraph 67, namely that it encompasses all legal advice regarding the proposed amendments. I would agree with Gerbro’s submission that the relevant legal advice is only advice relating to the coming into force of the proposed amendments.
+Position of parties
+[45] It is the Crown’s position that privilege was waived by filing the notice of appeal because this document puts in issue Gerbro’s state of mind regarding the law. Since Gerbro’s state of mind is at issue, and it was informed by legal advice, privilege has been waived, it is submitted. It is not determinative, it is suggested, that the pleading does not refer to legal advice.
+[46] The position is set out at paragraph 75 of the Crown’s written submissions:
+Gerbro ought not to be allowed to benefit from pleading its knowledge of the law which was based partly on legal advice while shielding that very same legal advice from disclosure. By pleading its state of mind, Gerbro rendered the privileged communications compellable. The suppression of relevant information should be minimized.
+[47] Gerbro advances two grounds for opposing the motion. First, it submits that the Crown has failed to establish that the reference to legal advice was voluntary. Rather, the matter of legal advice was raised by the Crown in its examination of Gerbro’s nominee on discovery. In addition, Gerbro submits that it has not made legal advice relevant to the appeal, such as by justifying its conduct by relying on legal advice.
+[48] Finally, Gerbro submits that the statement in paragraph 67 of the notice of appeal is not voluntary because Gerbro is forced to prove its motives as a result of the assumptions made by the Minister.
+Analysis
+[49] This motion concerns an important question as to the breadth of the principle of implied waiver of solicitor-client privilege as applied in income tax appeals. The principle was also recently considered by my colleague D’Arcy J. in Imperial Tobacco Canada Limited v The Queen, 2013 TCC 144.
+[50] A general summary of the principles applicable in considering whether there has been implied waiver of privilege can be found in Mahjoub (Re), 2011 FC 887, at para. 10:
+[10] The jurisprudence supports the following propositions relating to implied waiver of the privilege:
+(a) waiver of privilege as to part of a communication will be held to be waiver as to the entire communication. S. & K. Processors Ltd. v Campbell Ave. Herring Producers Ltd (1983), 35 CPC 146, 45 BCLR 218 (SC) (S & K);
+(b) where a litigant relies on legal advice as an element of his claim or defence, the privilege which would otherwise attach to that advice is lost. (S & K);
+(c) in cases where fairness has been held to require implied waiver, there is always some manifestation of a voluntary intention to waive the privilege at least to a limited extent. The law then says that in fairness and consistency, it must be entirely waived. (S & K);
+(d) the privilege will deemed to have been waived where the interests of fairness and consistency so dictate or when a communication between a solicitor and client is legitimately brought into issue in an action. Bank Leu Ag v Gaming Lottery Corp., [1999] OJ No 3949 (Lexis); (1999), 43 C.P.C. (4th) 73 (Ont. S.C.) at paragraph 5;
+(e) the onus of establishing the waiver rests on the party asserting waiver of the privilege. (S & K at paragraph 10).
+[51] This motion relates mainly to part (d) of the summary above, which asks whether fairness or consistency dictate disclosure, or whether the legal communication is legitimately brought into issue. Should the legal advice relating to paragraph 67 be disclosed on either of these grounds?
+[52] I will first consider whether legal advice is brought into issue.
+[53] To place some context around paragraph 67, one of Gerbro’s submissions is that the purpose test is not satisfied because it invested in the Funds knowing that proposed amendments could adversely affect the Canadian tax treatment of the investments.
+[54] In my view, paragraph 67 does not bring legal advice into issue. This paragraph brings knowledge of the effective date of proposed amendments into issue but it does not state, or even imply, that Gerbro intends to rely on legal advice to establish this knowledge.
+[55] It appears that Gerbro has no intention of waiving privilege by relying on this legal advice at trial. Of course, if Gerbro does not waive privilege it takes the risk that the trial judge may find that the evidence that was offered is insufficient. But as things currently stand, Gerbro has not brought legal advice into issue.
+[56] The second question is whether fairness and consistency dictate disclosure even if the legal advice is not put in issue.
+[57] The parties referred me to a great many judicial decisions regarding implied waiver of privilege. Each case appears to depend on its own particular facts, and the general approach that the courts have taken recognizes the importance of upholding solicitor-client privilege.
+[58] In my view, these judicial decisions generally follow the approach described by the British Columbia Court of Appeal in Procon Mining & Tunnelling Ltd. v McNeil, 2009 BCCA 281, at para 19: “[t]o establish waiver, the disclosure sought must be “vital” or necessary to the opposing party’s ability to answer an allegation.”
+[59] The bar is set high for a court to require disclosure when the legal advice has not been put in issue by a party. In this motion, the Crown has not established that the legal communications are so important to their case that they should be divulged.
+[60] It is the Crown’s position that Gerbro has the burden to establish that the Funds were not held for tax reasons. Accordingly, it is up to Gerbro to decide whether it wishes to satisfy this burden by divulging solicitor-client communications. At this stage in the proceedings, it is not vital to the Crown’s case that there be disclosure.
+[61] This motion will be dismissed.
+Costs
+[62] As for costs, in light of the mixed success in these motions, the parties should bear their own costs.
+Signed at Toronto, Ontario this 27th day of May 2014.
+“J.M. Woods”
+Woods J.
+CITATION:
+2014 TCC 179
+COURT FILE NO.:
+2012-739(IT)G
+2012-4194(IT)G
+STYLE OF CAUSE:
+GERBRO INC. and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 6, 2013 and February 27, 2014
+REASONS FOR ORDER BY:
+The Honourable Justice Judith Woods
+DATE OF ORDER:
+May 27, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Stéphane Eljarrat
+Olivier Fournier
+Joel Scheuerman
+Counsel for the Respondent:
+Naomi Goldstein
+Rita Araujo
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Stéphane Eljarrat
+Firm:
+Davies Ward Phillips & Vineberg LLP
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

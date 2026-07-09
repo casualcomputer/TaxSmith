@@ -1,0 +1,190 @@
+---
+title: "Ross v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/349314/index.do"
+last_modified: "2018-11-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 215"
+citation2: ""
+neutral_citation: "2018 TCC 215"
+decision_date: "2018-11-01"
+language: "en"
+item_id: "349314"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5017
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:35:57.179000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b0aba413b9bb1a1dbeecb354089f03251e57e331302008c0859e2e60f226ed2a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ross v. The Queen
+
+- Citation: 2018 TCC 215
+- Decision date: 2018-11-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5017, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ross v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-11-01
+Neutral citation
+2018 TCC 215
+File numbers
+2017-3232(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-3232(IT)I
+BETWEEN:
+LEWIS IRA ROSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 3, 2018, at Yarmouth, Nova Scotia
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rhoda Lemphers
+JUDGMENT
+IN ACCORDANCE with the Reasons for Judgment attached, the appeal is allowed with costs fixed at $150.00 all on the basis that the Appellant’s multiple payments totalling the sum of $42,000.00 were spousal support payable on a periodic basis for the maintenance of his former spouse pursuant to subsections 56.1(4) and 60.1(4) of the Income Tax Act, RSC 1985, c.1, as amended.
+Signed at Ottawa, Canada, this 1st day of November 2018.
+“R.S. Bocock”
+Bocock J.
+Citation: 2018 TCC 215
+Date: 20181101
+Docket: 2017-3232(IT)I
+BETWEEN:
+LEWIS IRA ROSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+Introduction and Facts
+[1] The Appellant, Mr. Ross, brings this appeal because the Minister of National Revenue (the “Minister”) disallowed the sum of $42,000.00 (the “payments”) claimed by Mr. Ross as spousal support in the 2015 taxation year. The Minister asserts the payments were not “paid as an allowance on a periodic basis for the maintenance of a former spouse” as required under subsections 56.1(4) and 60.1(4) of the Income Tax Act (the “Act”).
+[2] There is no dispute that the payments were made to Mr. Ross’s ex-spouse pursuant to a separation agreement. They were paid in five installments: $20,000.00 upon signing a separation agreement on November 26, 2015, a transfer in kind of a 2011 Jeep worth $22,000.00 in December 2015 and 3 further payments by cheque: $4,000.00 on December 8, 2016, $3,000.00 on December 16, 2016 and $3,000.00 on December 31, 2016. The last 3 payments appear to have been allowed as spousal support in the 2016 taxation year.
+[3] The agreement outlines all of the payments as follow, as described by the following excerpts:
+SPOUSAL SUPPORT
+4a. The husband and wife agree that the husband shall pay to the wife spousal support in the amount of $30,000 as well as gift to the wife [sic] the 2011 Jeep Wrangler Unlimited Sahara 4x4 with a current value of $22,000.
+The Spousal support shall be made on the following schedule:
+A lump sum of $20,000 to be paid upon the wife signing this agreement in good faith;
+The aforementioned 2011 Jeep and title shall be delivered to the wife by the husband no later than 5 (five) days after this agreement is signed by both parties;
+A lump sum of $10,000 to be paid no later than January 1, 2017.
+4b. The parties acknowledge that paragraph 4a. is intended to be final, and that their financial, health and other circumstances are subject to change in the future, but that no such change shall constitute a material change in circumstance which would justify changing the provisions of this Agreement.
+[…]
+11b. Neither the husband nor the wife shall contract in the name of the other nor in any way bind the other for any debts or obligations.
+11c. If debts or obligations are incurred by the husband or the wife on behalf of the other after the date of execution of this agreement, he or she, including his or her heirs, executors and assigns shall indemnify the other from all claims, costs, expenses, damages, and actions arising from those debts or obligations.
+[4] Mr. Ross testified at the hearing. Mr. Ross is a lobster fisherman. The lobster fishery is seasonally intensive as to both effort and income. More conventional monthly payments would have been difficult for Mr. Ross given the cash flow constraints of receiving the bulk of his income from the business in the late fall, early winter and thereafter no or little income during the other 3 seasons. These circumstances caused Mr. Ross, through his solicitor, to structure his support payments in larger amounts in the last quarter of the year. No doubt this structure was adopted to prevent missed payments in spring, summer and fall and, should that occur, the commencement of enforcement proceedings by his ex-spouse. The actual cheques described the payments as “spousal support” payments.
+The Law
+[5] The provisions within the Act relevant to this appeal are subsection 56.1(4) and sections 60 and 60.1. These sections define payments which qualify for deduction as support payments and the definition of a “support amount”:
+56.1(4) Support amount means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient […];
+Other deductions
+60 There may be deducted in computing a taxpayer’s income for a taxation year such of the following amounts as are applicable
+[…]
+Support
+(b) the total of all mounts each of which is an amount determined by the formula
+Support
+60.1 (1) For the purposes of paragraph 60(b) and subsection 118(5), where an order or agreement, or any variation thereof, provides for the payment of an amount by a taxpayer (…)
+Definitions
+(4) The definitions in subsection 56.1(4) apply in this section and section 60.
+[6] In considering the meaning of such provisions, the Federal Court of Appeal in McKimmon v HMQ, DTC 6088 wrote as follows:
+8. Since the payments with which we are here concerned were made after the pronouncement of the divorce between the parties, the issue is to know whether they were paid as an “allowance payable on a periodic basis for the maintenance” of the taxpayer’s former wife.
+9. The problem of distinguishing between periodic payments made as an allowance for maintenance, which are deductible for income tax purposes, and periodic payments made as instalments of a lump or capital sum, which are not so deductible, is one which has given rise to considerable discussion and jurisprudence. It is not dissimilar, and is indeed related to the problem, common in income tax law, of determining if sums of money expended or received are of an income or of a capital nature. As with that problem there can be very few hard and fast rules. On the contrary, the Court is required to look at all the circumstances surrounding the payment and to determine what, in the light of those circumstances, is its proper characterisation. Because of the correlation between paragraphs 60(b) and 56(1)(b), a finding that a payment is deductible by the payer will normally result in this being taxable in the hands of the recipient. Conversely, a determination that a payment is not so deductible will result in the recipient having it free of tax.
+10. The following are, as it seems to me, some of the considerations which may properly be taken, into account in making such a determination. The list is not, of course, intended to be exhaustive.
+Factors from McKimmon
+[7] The description of the list by the Court in McKimmon which followed the preceding excerpt was quite lengthy. The informing considerations (“factors”) may be summarized by the following abbreviated list:
+(1) the length of the periods over which or between which payments are made;
+(2) the comparison of the size of the amounts of the payments to existing living standards;
+(3) whether the payments bear interest;
+(4) whether the payor may accelerate payments or be subject to penalty if payments are not made;
+(5) whether the payment by its nature afford the recipient the accumulation of capital;
+(6) are the payments for an indefinite period or a fixed term;
+(7) may the payments be assigned to a third party and do they survive death; and
+(8) is there a correlated release of future obligations for maintenance in consideration of the payments.
+[8] When embarking on the analysis of the factors, importantly, the Court must isolate the over-arching factual and documentary landscape before it. The importance of the circumstances and the examination thereof are, as identified by the Court in McKimmon, paramount to determining the proper characterization. As such, the Court identified the following facts, when analysing the factors.
+[9] Firstly, a written agreement mandated the terms and nature of the multiple payments. They were five payments in total, they were unequal. One was also satisfied by a payment-in-kind: an in specie payment of an automobile assigned an identified fixed value. The unequal payments were made principally to accommodate the financial circumstances of a party, in this case, Mr. Ross, the payor. All cheques issued consistently referenced “spousal support”, all mandated by the agreement.
+Length of Periods of Payments
+[10] The payments were made over two years. They were not, as in some cases, made in a single lump sum payment. On this basis, the payments gyrate towards periodic.
+Relative Value of Payments to Living Standards
+[11] Respondent’s counsel conceded that the amounts were not of such an inordinate value or magnitude that prima facie they represented an accumulation of capital. Within the agreement and various correspondences adduced as evidence, it was intended the payments would assist with living and maintenance costs.
+Payments Bearing Interest
+[12] Payments bearing interest, whether in arrears or upon late payment are frequently associated with capital payments. There was no provision for interest to be paid. This tips the scale in favour of support payments.
+Whether Acceleration Permitted or Penalty Imposed
+[13] The right to accelerate or face a penalty for a missed payment is associated with a lump sum capital payment. While there was an implicit right to make one payment “no later than January 17, 2017”, the other payments had fixed dates for payment: “upon the … signing of this agreement “and” no later than 5 days after this agreement is signed …” This did not represent a right to pre-payment, but rather recognized the vagaries of Mr. Ross’s business. There was no penalty provision. These facts marginally lean away from a right to accelerate payment and face a penalty. Slightly, these facts favour a periodic payment.
+Affording Accumulation of Capital
+[14] Not unlike the relative value of the payments, Respondent’s counsel conceded that the payments could not easily be constructed as capital accumulation given their quantum. As such, on this basis the payments were not lump sum capital payments.
+Indefinite Period or Fixed Term
+[15] The payments were to be concluded and determined within a fixed term, before the end of two years. This factor is more closely associated with lump sum capital payments, rationally, at least, because they are reflective of a capital value rather than a long term defrayal of living expenses. On this basis, the payments were more capital than on account of a long term living expenses.
+Payments Assigned to Third Parties and Right of Survivorship
+[16] A term in the agreement provided for two distinct clauses concerning successors, heirs and assigns. The first bound such parties: section 11(c). The second indicated the agreement would not merge with, but survive a judgment of divorce. Both these “boiler plate” clauses would appear in any type of agreement where payments are made under agreement, whether lump sum or over the longer term. There is a slight predisposition towards a lump sum capital characterization of the payments, but given the common place occurrence of such clauses, the presence of such clauses cannot be particularly determinative of capital over periodic spousal support.
+Correlated Release of Future Obligations
+[17] The agreement provides for a release: 4b and 15(a). On this ground, the payments are more in the nature of capital lump sum payments.
+[18] The foregoing factors are intended to inform, but in the words of McKimmon, “not be exhaustive”. After such an analysis based upon the circumstances, the factors are fairly evenly aside. In ultimately deciding this appeal, the Court is guided by the particularity of the following circumstances of the spouses.
+[19] The payments were paid in lump sums specifically to accommodate the seasonal ability of Mr. Ross, the payor, to pay without default or tardiness. The Court heard and fully expects that if Mr. Ross had been employed in a weekly paying job, the payments would have been more conventional monthly payments. Secondly, the payment of the motor vehicle was specifically intended to allow Mr. Ross’s ex-spouse to have the ability to travel routinely to undertake the normal tasks of daily life. This was not a transfer of a recreational property, piece of art or an heirloom piece of furniture; it did not represent a lump sum capital payment in the context, but support to assist in daily transportation. There were multiple payments and all, without exception, coincided on or near the predictive payments dates of Mr. Ross’s personal and seasonal (not periodic) cash flow.
+[20] Finally, Mr. Ross raised before the Court the CRA’s interpretation on its website of “periodic payments”. As explained to Mr. Ross, the CRA’s view is not binding on this Court as the Tax Court has held on many occasions. However, it is evidence of how the CRA interprets the provision. Mr. Ross produced a screen shot from his smart phone of the CRA’s website providing the Agency’s explanation of “periodic”. Mr. Ross indicates that wording influenced his solicitor’s choice of wording within the spousal support section. The wording is as follows:
+Periodic payments – the term “periodic” means there is a series of payments, but does not necessarily mean “frequent”. For example, the payments could be made monthly, quarterly, semi-annually, or annually. The court order or written agreement must set out the timing of the payments. Only a new order or agreement can change the payment schedule.
+[21] In reviewing this interpretation, the Court notes, that in respect of Mr. Ross’s own situation, the following:
+(i) there was a series of payments;
+(ii) they were “not” necessarily frequent;
+(iii) they were made on some combination of an annual or semi-annual basis; and
+(iv) the written agreement set out the timing of the payments.
+[22] It would appear the CRA was slightly unfocused in recognizing this compliance. That blurriness arose from the odd combination of seasonally necessary payments and a payment-in-kind from the same taxpayer. However, as in McKimmon, those specific circumstances do not render such payments lump sum capital amounts where and once the other factors are analyzed.
+[23] Based upon all these factual circumstances, the balance ultimately tilts towards payments on a periodic basis for maintenance. Thus, the appeal is allowed with costs fixed at $150.00.
+Signed at Ottawa, Canada, this 1st day of November 2018.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2018 TCC 215
+COURT FILE NO.:
+2017-3232(IT)I
+STYLE OF CAUSE:
+LEWIS IRA ROSS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Yarmouth, Nova Scotia
+DATE OF HEARING:
+October 3, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+November 1, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Counsel for the Respondent:
+Rhoda Lemphers
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

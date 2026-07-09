@@ -1,0 +1,173 @@
+---
+title: "Allchin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25880/index.do"
+last_modified: "2003-07-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 476"
+citation2: ""
+neutral_citation: "2003 TCC 476"
+decision_date: "2003-07-14"
+language: "en"
+item_id: "25880"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3874
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:57:29.941000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "871396b03aa696ed655e551431681ea5cf7db70ef156716c07074f85420cb000"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Allchin v. The Queen
+
+- Citation: 2003 TCC 476
+- Decision date: 2003-07-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3874, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Allchin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-14
+Neutral citation
+2003 TCC 476
+File numbers
+2000-2643(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-2643(IT)G
+BETWEEN:
+PAMELA ALLCHIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 30, 2003 at Windsor, Ontario
+Before: The Honourable Mr. Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+John Mill
+Counsel for the Respondent:
+Roger Leclaire
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1993, 1994 and 1995 taxation years are allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+There shall be no order as to costs.
+Signed at Vancouver, British Columbia, this 14th day of July 2003.
+"L.M. Little"
+Little, J.
+Citation: 2003TCC476
+Date: 20030714
+Docket: 2000-2643(IT)G
+BETWEEN:
+PAMELA ALLCHIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little, J.
+A. FACTS
+[1] The Appellant is a Canadian citizen.
+[2] The Appellant was a Registered Nurse employed at the Metropolitan General Hospital in Windsor, Ontario. Because of employment problems at the hospital in Windsor, the Appellant submitted her resignation on April 28, 1991 and decided to seek employment in the United States.
+[3] The Appellant enrolled at a school in the State of Michigan to obtain further education.
+[4] In September 1992 the Appellant obtained a position with Repak Surgical Enterprises Inc. selling hospital supplies in various locations throughout the United States. In January 1996 the Appellant was hired by Johnson & Johnson.
+[5] The Appellant takes the position that she gave up her residence in Canada in 1992. The Appellant maintains that she is not required to pay tax under the Canadian Income Tax Act for the 1993, 1994 and 1995 taxation years.
+[6] The Minister of National Revenue (the "Minister") determined that the Appellant did not sever her ties with Canada and therefore she must report her worldwide income pursuant to the Canadian Income Tax Act for the 1993, 1994 and 1995 taxation years.
+B. ISSUE:
+[7] Was the Appellant a resident of Canada for tax purposes in the 1993, 1994 and 1995 taxation years?
+C. ANALYSIS:
+[8] During the argument both counsel stated that the determination of residence for tax purposes depends upon an interpretation of the relevant facts. I agree.
+[9] In order to determine if the Appellant was a resident of Canada in the 1993, 1994 and 1995 taxation years I will outline the Appellant's connections to Canada and the Appellant's connections to the United States.
+Connections to Canada in the 1993, 1994 and 1995 Taxation Years
+(a) The Appellant was born in Canada and is a Canadian citizen;
+(b) The Appellant is married to Dennis Allchin, a Canadian citizen who resided in Windsor, Ontario and carried on business in the Windsor area; (The Appellant testified that her husband also has business interests in the State of Michigan.);
+(c) In the relevant years the Appellant continued to provide parental and financial support to her two children who lived in the family home at 621 Tecumseh Road East, in the City of Windsor. (Note: In the 1993-1995 period the Appellant's son, Jason, lived in the family home and her daughter, Jackie, lived in the family home for part of the time.);
+(d) The Appellant retained her coverage under the Ontario Medical Plan (OHIP). OHIP was cancelled by the Appellant in November 1996;
+(e) The Appellant retained her Ontario driver's licence until May of 1995;
+(f) In the 1993, 1994 and 1995 taxation years the Appellant continued to use the services of her family doctor in Windsor and the dentist in Windsor;
+(g) The Appellant and her husband Dennis were active members of the Windsor Yacht Club. The Windsor Yacht Club provides for an "out of town" membership but the Appellant was listed in the Club's Annual Membership Roster for 1995, 1996 and 1997 as an active member (Exhibit R-1);
+(h) When the Appellant's husband purchased a home in the Windsor area in March 1995 he signed an affidavit in which he stated that his wife was a resident of Canada. In addition, the home that was purchased in 1995 was registered in the name of Mr. and Mrs. Allchin (see Exhibit R-4);
+(i) While the Appellant was working in the United States she sent substantial amounts of money to her husband in Canada. The funds were deposited in the husband's Canadian bank account;
+(j) The Appellant visited her husband and children in Canada on a regular and frequent basis during the years under appeal.
+Connection to the United States in 1993, 1994 and 1995
+(a) During the years under appeal the Appellant worked in the United States;
+(b) The Appellant's job required that she travel on a regular basis to different parts of the United States;
+(c) The Appellant testified that she maintained a "residence" in the United States at all relevant times. However, for a part of the time the "residence" in the United States was a room in a cousin's home with no lease and no evidence of any rent being paid by the Appellant for the room. For part of the time the Appellant lived in a back room of a friend's condominium at St. Claire Shores, Michigan. The Appellant said that she did not pay rent to her friends (the Wilsons) for the use of the room but she claims that she purchased some of the groceries when she was staying at the Wilson's condominium unit;
+(d) The Appellant said that she lived on her boat for part of the time. In connection with her allegation that she lived on her boat I note that Tab 3 of Exhibit A-1 contains a copy of a lease dated January 20, 1996 between the Appellant and the Shore Club Marina. In this lease the Appellant lists her residence as 621 Tecumseh E., Windsor, Ontario. (Note: This is the family home address in Windsor.) (see page 132 of Exhibit A-1);
+(e) On various documents that were filed as exhibits the Appellant showed P.O. Box numbers in the United States. For example, the address shown on the Renewal Declarations for the insurance on the boat is "Pamela P. Allchin, P.O. Box 0408, Allen Park, Michigan" (Note: The insurance renewal was from June 9, 1995 to June 9, 1996) (see page 121 of Exhibit A-1). In another insurance renewal declaration from June 9, 1995 to June 9, 1996 the Appellant's address is shown as P.O. Box 43738, Detroit, Michigan (see page 122 of Exhibit A-1);
+(f) The Appellant held a green card issued by U.S. authorities which enabled her to work in the United States;
+(g) The Appellant retained the services of a Canadian immigration lawyer to assist her and members of her family to move to the United States. Significant delays resulted with the plan to move members of her family to the United States. In 1997 the Appellant eventually decided to give up on her plans to move with her family to the United States and she returned to Canada on a full-time basis;
+(h) The Appellant had credit cards with American Express and Master Card. Invoices on the credit cards were sent to the Appellant at a U.S. address;
+(i) The Appellant had bank accounts in the United States and she paid for miscellaneous expenses with cheques drawn on this bank account. However, as noted above, the Appellant sent substantial sums of money from her bank accounts to her husband in Canada and he deposited this money in his Canadian bank account. (Note: Many of the cheques in Tab 5 of Exhibit A-1 show the Appellant's address as P.O. Box 0408, Allen Park, Michigan.);
+(j) Tab 3 of Exhibit A-1 contains a copy of an insurance binder for the boat owned by the Appellant (see page 119 of Exhibit A-1). The insurance binder is effective for the period June 9, 1994 to June 9, 1995. The insurance binder lists the Appellant's address as 1406 Shore Club Drive, St. Claire Shores, Michigan. (Note: This is the address of the condominium owned by the Appellant's friends Mr. and Mrs. Wilson.) The insurance binder also states that the Appellant's mailing address is 621 Tecumseh Road East, Windsor, Ontario. ____________
+[10] The leading case in Canada on the question of residence is Thomson v. M.N.R. (1941-46), 2 DTC 812. In Thomson Mr. Justice Rand of the Supreme Court of Canada said at page 815:
+The graduation of degrees of time, object, intention, continuity and other relevant circumstances, shows, I think, that in common parlance "residing" is not a term of invariable elements, all of which must be satisfied in each instance. It is quite impossible to give it a precise and inclusive definition. It is highly flexible, and it's many shades of meaning vary not only in the contexts of different matters, but also in different aspects of the same matter.
+[11] At page 817, Mr. Justice Rand referred to Mr. Thomson's home in East Riverside, New Brunswick and said:
+He is at East Riverside as at his "home" and the mere limitation of time does not qualify that fact."
+[12] In his argument counsel for the Respondent referred to the attempt by the Appellant to become a non-resident of Canada and said:
+The intention was always there, but it was never carried out appropriately or properly to the point that the Canadian ties were severed.
+[13] I have carefully examined all of the relevant facts and I have concluded that there is no sufficient permanency involving the Appellant's connections to the United States that would result in the severing of the Appellant's residence ties to Canada in the 1993, 1994 and 1995 taxation years. If we were to paraphrase the words of Mr. Justice Rand in Thomson quoted above we could say "when the Appellant was in the family home in Windsor, she was" as at her home". In reaching this conclusion I have relied mainly on connections with Canada such as the Ontario drivers licence, her OHIP coverage, her membership in the Windsor Yacht Club, the location of her husband and two children in the family home during the years in question and the fact that her husband swore in an affidavit when he purchased a home for the family in 1995 that his wife was a resident of Canada. I find that her connections to the United States were of a very temporary nature. The P.O. Box numbers and a sharing of a room with a relative or a friend with no lease or indication of rent being paid is too temporary to establish a residence in the United States. I agree with the comments made by counsel for the Respondent when he said that while the Appellant may have intended to sever her ties to Canada she did not sever the ties properly or appropriately.
+[14] Before concluding my comments I wish to add that since I have determined that the Appellant was not a resident of the United States in the 1993, 1994 and 1995 taxation years the tie breaking provisions contained in the Canada - U.S. Tax Treaty do not apply in this situation.
+[15] The Minister imposed penalties under subsection 163(2) of the Income Tax Act because the Appellant did not declare her worldwide income on her tax returns for the relevant years. On the evidence presented to me, I have concluded that the Appellant believed that she was a non-resident of Canada and therefore her method of filing her tax returns does not constitute gross negligence.
+[16] In my opinion there is no basis for a penalty being imposed under subsection 163(2) of the Act. The penalty should be deleted.
+[17] For the reasons outlined above I allow the appeals and refer the matter back to the Minister for reconsideration and reassessment on the basis that the Appellant was a resident of Canada for the 1993, 1994 and 1995 taxation years and that the penalties be deleted. I make no award of costs.
+Signed at Vancouver, British Columbia, this 14th day of July 2003.
+"L.M. Little"
+Little, J.
+CITATION:
+2003TCC476
+COURT FILE NO.:
+2000-2643(IT)G
+STYLE OF CAUSE:
+Pamela Allchin and
+Her Majesty the Queen
+PLACE OF HEARING:
+Windsor, Ontario
+DATE OF HEARING:
+April 30, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice L.M. Little
+DATE OF JUDGMENT:
+July 14, 2003
+APPEARANCES:
+Counsel for the Appellant:
+John Mill
+Counsel for the Respondent:
+Roger Leclaire
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John Mill
+Firm:
+Mill Professional Corporation
+Windsor, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

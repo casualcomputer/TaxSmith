@@ -1,0 +1,225 @@
+---
+title: "Johnson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27658/index.do"
+last_modified: "2007-03-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 288"
+citation2: ""
+neutral_citation: "2007 TCC 288"
+decision_date: "2007-03-26"
+language: "en"
+item_id: "27658"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 414
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:16:43.955000+00:00"
+cases_cited_count: 3
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "50b6668908ec6b41b722f25a6519a7137441f6b254f6fd7c59b30663539ce01b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Johnson v. The Queen
+
+- Citation: 2007 TCC 288
+- Decision date: 2007-03-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 414, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-26
+Neutral citation
+2007 TCC 288
+File numbers
+2006-459(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-459(IT)G
+BETWEEN:
+EARL JOHNSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 26, 2007, at Sudbury, Ontario
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Paul A. Lefebvre
+Counsel for the Respondent:
+George Boyd Aitken
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2001 and 2002 taxation years are dismissed with cost.
+Signed at Ottawa, Canada, this 22nd day of May 2007.
+“Brent Paris”
+Paris J.
+Citation: 2007TCC288
+Date: 20070522
+Docket: 2006-459(IT)G
+BETWEEN:
+EARL JOHNSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] This is an appeal from a reassessment of the Appellant’s 2001 taxation year and from an assessment of his 2002 taxation year whereby the Minister of National Revenue determined that the Appellant was ordinarily resident in Canada and taxed him on his worldwide income for those years pursuant to subsection 2(1) of the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.) the (“Act”).
+[2] The Appellant claims that he ceased to be resident in Canada on March 22, 2001, when he moved to Dubai in the United Arab Emirates (UAE).
+[3] The Respondent concedes that the Appellant was a resident of the UAE in 2001 and 2002 but says that he was also a resident of Canada in those years. Canada does not have a tax treaty with the UAE, and, therefore, the only issue in this appeal is whether the Appellant was ordinarily resident in Canada within the meaning of subsection 250(3) of the Act in the years under appeal.
+[4] The provisions of the Act relevant to the disposition of this appeal are as follows:
+2(1) Tax payable by persons resident in Canada -- An income tax shall be paid, as required by this Act, on the taxable income for each taxation year of every person resident in Canada at any time in the year.
+250(3) Ordinarily resident -- In this Act, a reference to a person resident in Canada includes a person who was at the relevant time ordinarily resident in Canada.
+Facts
+[5] In reassessing the Appellant, the Minister relied on the following assumptions of fact as set out in paragraph 20 of the Reply to Notice of Appeal:
+(a) on July 20, 2000, the Appellant entered into an agreement for “temporary assignment of international service” (the “Agreement”) with Mitel Corporation (“Mitel”) which included the following terms and conditions:
+(1) the Agreement identified Ottawa as the Appellant’s home base and identified the currency used in the contract is Canadian dollars with only certain exceptions;
+(2) the Appellant assumed duties of Director, Business Development at a place of work in Dubai, United Arab Emirates;
+(3) the Agreement provided for a term of 36 months, which could be renewed and extended for a further period;
+(4) the Agreement was voluntarily revocable by either party with ninety days written notice after a period of one year from the effective date of the work assignment unless for “cause”;
+(5) upon completion or termination of the assignment, the contract provided that the Appellant and his Spouse would be returned to Canada at Mitel’s expense;
+(6) throughout the term of the Agreement, Mitel agreed to provide fully furnished accommodation in the United Arab Emirates;
+(7) Mitel would provide tax protection and equalization for each completed or party completed calendar year of foreign assignment;
+(8) If the Appellant sought but was not granted “non-resident status” for tax purposes, Mitel agreed to pay an additional amount that would effectively ensure that the Appellant would not pay any taxes on the income, benefits and allowances received earned pursuant to the Agreement while in the UAE; and
+(9) Mitel agreed to provide tax-consulting services and tax preperstion services to be provided by the accounting firm of Ernst & Young in Ottawa.
+(b) Mitel is a corporation resident in Canada;
+(c) the Agreement was intended to provide the Appellant with a level of income and benefits based on the level of income and benefits that the Appellant would receive in Canada;
+(d) the Appellant’s employment relationship with Mitel during the 2001 and 2002 taxation years followed the terms of the Agreement;
+(e) at no time, did the Appellant intend to sever ties with Canada;
+(f) during the 2001 taxation year, the taxpayer owned a property situated at 11 Parkmount Crescent, Nepean, Ontario (the “Parkmount Property”);
+(g) by lease dated February 14, 2001, the Parkmount Property was leased to Alex and Eliyanah Fitzpatrick for the period from April 1, 2001 to June 30, 2003;
+(h) the Parkmount Property was available for occupation by the Appellant upon ninety days notice;
+(i) during the 2002 taxation year, the Appellant purchased a property located at 32 Bentgrass Green in Nepean, Ontario (the “Bentgrass Property”);
+(j) by lease dated June 10, 2002, the Bentgrass Property was leased to Ian and Anna Woods for the period from July 1, 2002 to May 30, 2003;
+(k) throughout the 2001 and 2002 taxation years, the Appellant maintained residential ties with Canada which included:
+(1) Canadian RRSP accounts;
+(2) investments in Canadian public companies;
+(3) a Canadian driver’s licence;
+(4) Canadian credit cards;
+(5) bank accounts with Canadian financial institutions;
+(6) a principal residence in Canada for tax purposes;
+(7) a Canadian passport;
+(8) storage of furniture in Canada; and
+(9) he maintained ties with family and friends in Canada.
+(l) the Appellant’s ties with the Arab Emirates were driven by his employment with Mitel; and
+(m) the Appellant returned to Canada in July, 2003, and has resided in the Bentgrass Property since that time.
+[6] The evidence showed that the Appellant was born in England and trained there as an engineer. He came to Canada with his wife and two sons in 1980 and began working for Bell Northern Research in Ottawa in 1981. He took a secondment through Bell Canada International to work in Saudi Arabia from 1985 until 1989. He returned to Canada when that contract ended and obtained a position as a manager at Telesat Canada, which was then a new division of Bell. While working for Telesat, the Appellant set up a new business unit for the company in Phoenix, where he lived with his family for five years.
+[7] Towards the end of his time in Phoenix, the Appellant met an executive of Mitel Corporation who encouraged him to apply for a position with that company. This co-incided roughly with the Appellant’s transfer back to Ottawa with Telesat. He continued to work for Telesat in Ottawa until June 2000, and on June 30 accepted a job at Mitel as Director of Business Development in the Middle East. Shortly after being hired his job duties were expanded to include responsibility for sales for Mitel’s entire Asia-Pacific region. The Appellant’s main responsibility was to open an office for Mitel in the Middle East. His employment contract with Mitel stated:
+Your home country will be Canada and you will be regionally based in Dubai, of the United Arab Emirates Republic on an expatriate assignment. It is our intent that this transition will take place by the fall of 2000. Full details of his expatriate assignment will be discussed and documented in an expatriate agreement.
+[8] The details of the expatriate assignment were set out in a letter from Mitel to the Appellant dated July 12, 2000 and in two addenda to the letter dated December 21, 2000 and February 27, 2001.
+[9] According to the terms of the assignment, the Appellant’s home base was Ottawa, and the assignment was for a minimum of 36 months, but revocable by either party after two years (originally 1 year) upon 90 days notice. The assignment could be extended upon mutual agreement. The Appellant’s salary was paid by Mitel in Ottawa and he received a “Foreign Service Premium” of 15% of base salary and received a payment to offset the higher cost of goods and services in the UAE. He was given tax protection by Mitel, which meant that if he was unable to obtain non-resident status for income tax purposes, Mitel would pay him a further amount to ensure that he would “effectively not pay any taxes on the income benefits or allowances earned whilst on expatriate assignment”.
+[10] Mitel also agreed to provide the Appellant with a vehicle and fully furnished accommodations in the UAE, to reimburse any property management expenses incurred by the Appellant to rent out his house in Canada, to pay an amount equivalent to the cost of airfare for two round trips from the foreign location to Ottawa for the Appellant’s spouse and two sons each year, and to pay the cost of storing the Appellant’s furnishing and household goods in Ottawa. Mitel also agreed to provide medical and dental benefits in accordance with its International Benefits Plan.
+[11] The Appellant could also be reassigned with his consent to any other Mitel location. At the end of the term of the assignment, Mitel agreed to return the Appellant and his spouse to his home base of Ottawa and to reimburse him for up to 30 days temporary living expenses. The agreement also provided that at the end of the term, Mitel would make every effort to place the Appellant in a similar position in the company in Canada within three months of his repatriation.
+[12] The Appellant worked in Ottawa for Mitel until March 21, 2001 when he left Canada with his spouse for the UAE. He and his spouse hired an Ottawa property management company to manage the rental of their house on Parkmount Crescent in Nepean. The Appellant and his spouse had acquired this house in 1981.
+[13] A lease for the house was signed on behalf of the Appellant and his spouse by the property manager on February 14, 2001. The lease ran from April 1, 2001 to June 30, 2003 and contained a clause allowing the Appellant and his spouse to terminate the lease on three months notice in the event the Appellant was transferred back to Ottawa by his employer. The Appellant said that he had left the leasing of the house in the hands of the property manager and was unaware of this provision of the lease. He also said that he believed he did not have anything to do with the choice of the end date of the lease, which was 2 years and 90 days from the date the tenants began renting the house.
+[14] The Appellant and his spouse also purchased another house in November 2000, prior to leaving for the UAE. The house was to be constructed at 32 Bentgrass Green in Nepean. The Appellant said he felt that the house would be a good alternative to investing in tech stocks, and that it was bought to be rented out. The house was completed in mid-2002 and leased out from July 1, 2002 to May 31, 2003 using the same property management company. The same residential lease form was used, but in this case the three months notice provision was crossed out. The Appellant again said he was unaware of the details of the lease, which had been handled by the property manager. The Appellant admitted that he designated the Bentgrass Green house as his principal residence under section 45(2) of the Act, but said this was done simply for tax planning purposes.
+[15] The rents from both properties were deposited to a Bank of Montreal joint chequing account belonging to the Appellant and his spouse. Withholding tax was deducted by the property manager from the rents paid to the Appellant. The Appellant also maintained a savings account at the same bank, although he said that before he left for the UAE, he made arrangements so that neither account would pay interest. He understood this was a factor that could be taken into account in determining his country of residence for income tax purposes.
+[16] Prior to leaving for the UAE the Appellant and his spouse also cancelled their telephone and utility accounts, sold two of their three vehicles, gifted one vehicle to their son, sold some small electric household goods, and put most of their furniture and belongings in storage after giving some away, and took 90% of their clothing with them along with household items such as photos, pictures, ornaments and kitchen ware. In all, the Appellant said they had twenty six boxes of belongings shipped to the UAE.
+[17] The Appellant did not cancel his Ontario driver’s licence, and retained his RRSP and shares in BCE, Telus and some high tech companies. On the other hand, he allowed his OHIP coverage and his membership in the Professional Engineers of Ontario to lapse and he changed his mailing address to the UAE.
+[18] The Appellant testified that he wanted to stay in the UAE as long as possible when he left Canada. He said he hoped and expected that Mitel would extend his term beyond 36 months. The Appellant admitted that the assignment was for a limited term and that there was no certainty that it would be renewed. The length of stay was apparently dependent on the success of Mitel’s operation there. In the initial July 12, 2000 letter which set out the terms and conditions of the Appellant’s expatriate assignment, the assignment was made revocable after one year, which was changed to two years in the final agreement. The Appellant said that he negotiated this change because he felt that a longer start-up period would be needed for the office. While in the UAE the Appellant said he and his spouse contemplated moving to Spain after completing the assignment because they had a number of friends who had retired in Spain.
+[19] In the UAE the Appellant obtained a renewable 3 year residence permit, a driver’s licence, a credit card and membership in a golf club. He changed his mailing address to the UAE. He joined a business networking club, a social club and a health club there as well. He was unable to find suitable furnished accommodation and so rented an unfurnished villa beginning in June 2001 and Mitel agreed to buy furniture. It was necessary to purchase small electrical appliances and devices because the UAE’s electrical supply runs at a different voltage than Canada.
+[20] The Appellant said that, while he lived there, the UAE was the centre of his business and social life. His wife did not return to Canada and his sons visited them there. He only returned to Canada four or five times and only then on business. While in Canada he stayed in hotels and did not see friends or family. He said he traveled once every 3 or 4 weeks to the U.K. to meet with his immediate supervisor, although on his “Determination of Residence” form filed with the Canada Revenue Agency in November 2002 he listed only having spent two or three days in the U.K. on business during that calendar year.
+[21] The Appellant and his spouse lived in a villa in Dubai, UAE until April 2002, and then moved closer in to the centre of Dubai into an apartment in the residential tower of the Fairmont Hotel to accommodate his business needs. Both properties were leased for one year.
+[22] The Appellant said that he did not consider purchasing property in the UAE. He was not interested in doing so and, at least when he first arrived, foreigners were not allowed to own property there.
+[23] The Appellant leased an office space for Mitel in Dubai and began trying to obtain business for Mitel in the Middle East market. He said he was working on a joint venture with the government organizations from the UAE and Kuwait to set up a chip or handset manufacturing facility, and was involved in high level discussions with the UAE government. He also traveled to the Far East as Director of Sales for that region. However, in November 2002 he was advised by Mitel that his contract in the UAE would be terminated. He believed this was because he had not been successful in obtaining non-resident status for tax purposes in Canada. This meant Mitel was obligated to pay him a substantial amount to compensate him for taxes payable in Canada, since no income tax was payable in the UAE.
+[24] The Appellant continued to work in the UAE until June 28, 2003 when he and his spouse returned to Canada and moved into their house on Bentgrass Green. He did not say if Mitel hired someone to replace him in the UAE. He continued to work for Mitel in Ottawa until September 28, 2003, when his position was terminated.
+Appellant’s Arguments
+[25] The Appellant’s first argument relates to the onus of proof. Counsel argues that the Respondent has the onus of proving that the Appellant was ordinarily resident in Canada because it was not pleaded specifically as an assumption in the Reply to the Notice of Appeal that the Appellant was ordinarily resident in Canada in 2001 and 2002.
+[26] The Appellant relies on the decision of this Court in Laurin v. The Queen, 2006 TCC 634. That case which dealt with the issue of whether the taxpayer was resident in Canada during certain periods. Bowman, C.J. found that the reassessment in that case was made on the basis that the taxpayer was deemed to be a resident of Canada pursuant to subsection 250(1) of the Income Tax Act by virtue of his having sojourned in Canada for 183 days or more in each year in issue. At the hearing of the appeal, the Respondent conceded that the taxpayer had not spent 183 days or more in Canada each year, but argued in the alternative that the taxpayer was ordinarily resident in Canada within the meaning of subsection 250(3) of the Act.
+[27] The Court noted that this point was not raised in the Reply and went on to say that the Respondent had not pleaded “as an assumption or otherwise” that the taxpayer was ordinarily resident in Canada, and found that the Appellant had no onus to prove that he was ordinarily resident. Although the Court stated that it was unnecessary to determine the point, it held that on the evidence before the Court, the taxpayer was not ordinarily resident in Canada.
+[28] In the case before me, references to the Appellant being ordinarily resident in Canada are found in paragraphs 16 and 17 of the Reply which read as follows:
+16. The Minister accepted the Appellant’s income tax return for the 2002 taxation year as filed and assessed the Appellant’s tax liability as a factual resident of Canada for tax purposes by Notice dated November 22, 2004.
+17. By Notices of Reassessment dated July 26, 2004, the Minister reassessed the Appellant’s tax liability for the 2001 taxation year as follows:
+(a) He determined that the Appellant was ordinarily resident in Canada for the 2001 taxation year;
+(b) He disallowed the Appellant’s deduction of a Canadian employment income exclusion in the amount of $137,021.00; and
+(c) He deleted the Minister’s assessment dated September 3, 2002 with respect to the Appellant non-resident elective return filed pursuant to subsection 216(1) of the Act.
+[29] The Appellant’s counsel asserts that these references are not sufficient to put the onus on the Appellant to prove that he was not ordinarily resident in Canada.
+[30] The Appellant argues that the Respondent has failed to adduce evidence to prove that the Appellant was ordinarily resident, having called no witnesses or presented any evidence to contradict credible testimony given by the Appellant.
+[31] The Appellant’s counsel argues that even if I find that the onus was on the Appellant to prove he was not ordinarily resident, the evidence shows clearly that during his 2001 and 2002 taxation years he was ordinarily resident in the UAE, and not ordinarily resident in Canada. The Appellant lived and worked in the UAE, his spouse lived with him, and he had no dependants or home in Canada. He intended to stay in the UAE as long as possible and did not intend to return to Canada. His social and business life was centred in the UAE, and he had severed all relevant residential ties with Canada.
+[32] Counsel argues that the Appellant’s employment by a Canadian company, his ownership of property and investments in Canada and his holding of a Canadian passport were not sufficient in themselves to create Canadian residency. Counsel relied on the decision of this Court in Boston v. The Queen, 98 D.T.C. 1124, where the taxpayer left Canada to work overseas under a three year contract. In Boston the taxpayer’s spouse remained in Canada and his visits to Canada lasted longer than the Appellant’s visits in this case, his salary was paid by his Canadian employer. The taxpayer in that case was found not to be ordinarily resident in Canada while working overseas.
+[33] Counsel says that the facts of the Appellant’s situation are even stronger than those in Boston because he had no family ties to Canada and because he made no visits to friends or family in Canada during the time he was in the UAE. Like in Boston, the Appellant intended to stay on after the initial 3 year term of his contract. Counsel relied on the following passage at paragraph 26 of the Boston case:
+A long history of case law teaches us that residence is very different from domicile. A person can be domiciled in a particular jurisdiction without being physically present there. In order to be resident in a particular jurisdiction, however, it is usually necessary to be present there at least part of the time. The Appellant's presence in Canada during the four years 1989, 1990, 1991 and 1992 in terms of time was minuscule. In fact, he was here for only 14 days in 1990 and for another 14 days in 1992. He was not here at all in 1989 or 1991. If as Rand J. observed in Thomson, the word residence is to be distinguished from "stay" or "visit", I should think that the time which the Appellant spent in Canada in 1990 and 1992 is more accurately characterized as a visit to Canada in each of those years. I find that the Appellant was not resident in Canada in the years 1989 to 1992.
+[34] Finally, counsel for the Appellant argues that the question of a taxpayer’s country of residence should be determined on an annual basis according to his or her circumstances during the year and without taking into account where the taxpayer was ordinarily resident in prior years.
+Respondent’s Argument
+[35] The Respondent’s counsel argues that the Appellant did not sever his permanent residential ties with Canada when he left to work in the UAE in 2001. Canada remained his home base, both for personal and business purposes, as it had during the time he worked in Saudia Arabia and Phoenix in earlier years. Counsel points to the Appellant’s ownership of two houses in Canada, one which he had owned for 20 years and which had served as the Appellant’s principal residence for many years, and the other which was being built, at least in part, in accordance with the Appellant’s directions and which was designated as his principal residence. Counsel also notes the fact that the Appellant could get possession of one of the houses on 90 days notice and that in any event, both of the leases on the houses ended roughly at the same time as the earliest possible termination date of the Appellant’s assignment to the UAE. The Appellant had RRSP, credit cards and investments and left most of his belongings in storage in Canada.
+[36] Counsel suggests that the Appellant did not develop any permanent ties in the UAE in 2001 and 2002, and that the nature of his stay there was transitory and short term. His assignment and accommodation were temporary, his vehicle was leased, and the household furnishings belonged to Mitel. The Appellant’s return to Canada was foreseeable from the outset of the assignment and the Appellant intended to return after the completion of the assignment.
+[37] The Respondent’s counsel likens the Appellant’s situation to that of the taxpayer in Gaudreau v. The Queen, 2004 TCJ 673, who was found to have remained resident in Canada while living and working in Egypt for over three years. In that case, the taxpayer’s ties to Canada were substantially similar to the Appellant’s ties in this case.
+Analysis
+[38] I do not agree with Appellant’s counsel that the Respondent bears the onus of proving that the Appellant was ordinarily resident in Canada in 2001 and 2002. This case differs significantly from Laurin. The basis for the reassessment in Laurin was not that the taxpayer was ordinarily resident in Canada in the years under appeal and the point of whether the taxpayer was ordinarily resident in Canada was not raised anywhere in the Reply.
+[39] Here the only basis of reassessment set out in the Reply is that the Appellant was ordinarily resident in Canada in 2001 and 2002. This is clear from paragraphs 16 and 17 of the Reply. Furthermore, the Appellant’s failure to plead a specific assumption that the Appellant was ordinarily resident in Canada during the material times will not reverse the onus of proof where the Respondent has pleaded, as assumptions relied on by the Minister, sufficient factual elements leading to that conclusion. The assumptions in this case would be sufficient along with the statements concerning the basis of the reassessment for 2001 and the assessment for 2002 in paragraph 16 and 17 of the Reply, to support the reassessments in question in the absence of any evidence from the Appellant.
+[40] Turning to the main issue, the leading case on the determination of residence of an individual for income tax purposes is Thompson v. MNR [1946] SCR 209. At page 231 of that decision Estey, J. stated at page 231-232 that:
+. . . one is "ordinarily resident" in the place where in the settled routine of his life he regularly, normally or customarily lives. One "sojourns" at a place where he unusually, casually or intermittently visits or stays. In the former the element of permanence; in the latter that of the temporary predominates. The difference cannot be stated in precise and definite terms, but each case must be determined after all of the relevant factors are taken into consideration, but the foregoing indicates in a general way the essential difference. It is not the length of the visit or stay that determines the question....
+It is well established that a person may have more than one residence
+In the same decision, Rand, J. stated at pages 224-225:
+The expression "ordinarily resident" carries a restricted signification, and although the first impression seems to be that of preponderance in time, the decisions on the English Act reject that view. It is held to mean residence in the course of the customary mode of life of the person concerned, and it is contrasted with special or occasional or casual residence. The general mode of life is, therefore, relevant to a question of its application.
+For the purposes of income tax legislation, it must be assumed that every person has at all times a residence. It is not necessary to this that he should have a home or a particular place of abode or even a shelter. He may sleep in the open. It is important only to ascertain the spatial bounds within which he spends his life or to which his ordered or customary living is related. Ordinary residence can best be appreciated by considering its antithesis, occasional or casual or deviatory residence. The latter would seem clearly to be not only temporary in time and exceptional in circumstance, but also accompanied by a sense of transitoriness and of return.
+But in the different situations of so-called "permanent residence", "temporary residence", "ordinary residence", "principal residence" and the like, the adjectives do not affect the fact that there is in all cases residence; and that quality is chiefly a matter of the degree to which a person in mind and fact settles into or maintains or centralizes his ordinary mode of living with its accessories in social relations, interests and conveniences at or in the place in question. It may be limited in time from the outset, or it may be indefinite, or so far as it is thought of, unlimited. On the lower level, the expressions involving residence should be distinguished, as I think they are in ordinary speech, from the field of "stay" or "visit".
+[41] In this case, in my view, the Appellant did not sever his residential ties with Canada when he left to work in the UAE in April 2001, and his ordinarily mode of living was in fact still centered in Canada throughout 2001 and 2002. From all of the evidence before me, it appears that the Appellant’s move to the UAE with his spouse was a temporary one only.
+[42] Although the Appellant stated that he intended to work in the UAE for at least 5 years, the assignment was only set up for a three year term and was ended at the earliest possible date, after two years and three months. It is also material that the assignment provided that at the conclusion of the assignment Mitel was required to bring the Appellant and his spouse back to Canada, and was obligated to make best efforts to find a position for the Appellant in its Canadian operations.
+[43] Throughout the time the Appellant and his spouse were in the UAE, they retained ownership their house on Parkmount Crescent, which had been their family home for 20 years. Even after accepting the UAE assignment, the Appellant and his spouse purchased a second house in Ottawa, which they designated as their principal residence. I do not accept that the principal residence designation was simply made to reduce taxes. In my view it is indicative of the Appellant’s intention at the time the house was acquired to use it as his and his spouse’s residence at the conclusion of their stay in the UAE. Upon their return in July 2003 they occupied that house and have continued to live there up to the present time.
+[44] It is true that both houses were rented out while the Appellant was in the UAE, but at least one of them was available to the Appellant to move back into upon three months notice to the tenants. Although the Appellant claims that he was unaware of the three month notice clause in the lease of Parkmount Crescent property, I note that the NR-73 Determination of Residency form that he completed in November 2002 showed that he owned a house in Canada that was “rented to an arm’s length person under a written lease with a three month cancellation clause”.
+[45] The Appellant and his spouse also placed most of their belonging in storage in Ottawa, and took only small household items and clothing with them to the UAE.
+[46] The Appellant’s suggestion that he and his spouse intended to move to Spain from the UAE, rather than return to Canada was uncorroborated by any other evidence and I do not accept it. The Appellant was unable to point to any steps taken by him or his spouse towards the realization of such a plan.
+[47] Further ties that the Appellant maintained with Canada in this case included his RRSPs, his Ontario driver’s license some Canadian credit cards and investments in Canadian stocks.
+[48] While I agree with counsel for the appellant that the Appellant’s employment by a Canadian employer is not sufficient in itself to create residency, the terms and conditions of that employment are relevant. In this case, Mitel was obliged to return the Appellant and his spouse to Canada at the end of the assignment and was also obliged to try to find an equivalent position for the Appellant within Mitel’s Canadian operations.
+[49] I agree as well that the Appellant had no substantial ties with any location other than Canada and the UAE in 2001 and 2002, and that the Appellant’s ties to the UAE were only temporary in nature. The properties in which the Appellant resided in the UAE were rented under one year leases, his vehicle was leased, his work assignment was for 36 months and he chose not to bring the bulk of his belongings with him. Although the Appellant said that he had joined certain clubs in the UAE, there was no evidence to suggest that the Appellant had paid any permanent membership fees to join these organisations.
+[50] I agree with the Respondent that the Appellant’s ties to the UAE were similar in nature to those established by the taxpayer in Gaudreau v. The Queen in Egypt, which were described by Lamarre, J. as ties undertaken during the term of the taxpayer’s absence which were necessary to permit him and his wife to enjoy an acceptable and expected lifestyle while in Egypt and abandoned on his return to Canada. As in Gaudreau, the Appellant’s ties to the UAE were abandoned completely upon his return to Canada.
+[51] The Appellant’s ties to Canada were also similar in nature and extent to those maintained by the taxpayer in the case of McFadyen v. The Queen, 2000 DTC 2473 during three years the taxpayer lived in Japan. In McFadyen, the Court said:
+103 I have concluded that the Appellant's ties with Canada during the three-year period were significant.
+104 In my view of the evidence, the Appellant can be considered to have accompanied his spouse on a temporary, overseas posting. He returned to Canada on three occasions during his spouse's assignment to Japan. He maintained with his spouse two joint bank accounts in Canada, one was used for the mortgage in connection with one of their properties and the other was used for everything else including another mortgage. He owned two houses in Canada, one of which was later occupied as his home on his return to Canada after giving two months notice. He maintained at his own expense during the years in issue his professional membership in the Association of Professional Engineers in Ontario. The transitory nature of his posting in Japan is reflected by the storage of items of furniture, which were large and bulky, and appliances in Canada, the retaining of a safety deposit box and the maintaining of a registered retirement savings plan, a credit card, and a current Ontario driver's license. These ties were largely economical but in part personal.
+105 The evidence supports the contention that the Appellant left Canada for Japan with the intention that he may not return and I accept his evidence that he made significant efforts not to return. However, the Appellant maintained the Canadian connections with Canada in case he did return. He did in fact return and resumed his ties to Canada.
+[52] As in the case before me, neither taxpayer in Gaudreau and McFadyen, returned to Canada frequently in the years in issue yet both were held to be ordinarily resident in Canada. As well the taxpayers in both cases were away from Canada over 3 years, longer than the Appellant in this case, and both cases, the finding that the taxpayers were ordinarily resident in Canada in the years they were absent from Canada was upheld by the Federal Court of Appeal.
+[53] Finally, the following comments of Mahoney, J. in Reeder v. The Queen, 75 D.T.C. 5160 at page 5163 also appear apt to the Appellant’s situation in this case:
+The Defendant was at a stage in life when he was highly mobile. He was able, willing, even eager, to travel. In that, he was not atypical of his contemporaries and the relevant factors must be considered in that context. It is not contested that he was, before March 29, 1972 and has, since December 1, 1972, been resident in Canada. Throughout, his ties of whatever description have all been with Canada, save only those ties, undertaken during the term of his absence, which were necessary to permit him and his family to enjoy an acceptable and expected lifestyle while in France. That absence was temporary even though, strictly speaking, indeterminate in length. The ties in France were temporarily undertaken and abandoned on his return to Canada.
+I am satisfied that had the Defendant been asked, while in France, where he regularly, normally or customarily lived, Canada must have been the answer. I find that the Defendant was resident in Canada throughout all of 1972.
+[54] I also agree with counsel for the Appellant that each year in issue must be looked at individually for the purpose of determining whether the Appellant was ordinarily resident in Canada. However, I am unable to draw any material distinction between the Appellant’s circumstances in the two years in question, and it was not argued that such distinctions were present.
+[55] For all of these reasons I find that the Appellant was ordinarily resident in Canada in 2001 and 2002, and the appeal is therefore dismissed, with costs.
+Signed at Ottawa, Canada, this 22nd day of May 2007.
+“Brent Paris”
+Paris J.
+CITATION: 2007TCC288
+COURT FILE NO.: 2006-459(IT)G
+STYLE OF CAUSE: EARL JOHNSON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sudbury, Ontario
+DATE OF HEARING: March 26, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: May 22, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Paul A. Lefebvre
+Counsel for the Respondent:
+George Boyd Aitken
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Paul A. Lefebvre
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

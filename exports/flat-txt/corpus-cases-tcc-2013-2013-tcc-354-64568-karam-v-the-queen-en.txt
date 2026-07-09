@@ -1,0 +1,313 @@
+Title: Karam v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64568/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-354-64568-karam-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-11-04
+
+# Karam v. The Queen
+
+- Citation: 2013 TCC 354
+- Decision date: 2013-11-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5944, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Karam v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-11-04
+Neutral citation
+2013 TCC 354
+File numbers
+2011-494(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-494(IT)G
+BETWEEN:
+BRIAN WILLIAM KARAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 17 to 21, 24 and 26, 2013, at Ottawa, Canada.
+Before: The Honourable Justice Steven K. D’Arcy
+Appearances:
+Counsel for the Appellant:
+Robert McMechan
+Counsel for the Respondent:
+André LeBlanc
+Hong Ky (Eric) Luu
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the Appellant’s 2007 taxation year is dismissed, with costs to the Respondent, in accordance with the attached Reasons for Judgment.
+FURTHER, IT IS ORDERED THAT:
+1. The Respondent shall have 30 days from the date of this Judgment to file submissions with the Court if she believes the Court should award costs in excess of the tariff. Such submissions shall not exceed 30 pages.
+2. The Appellant shall have 30 days from the filing of the Respondent’s submissions with the Court, to file a Reply (if any) (not to exceed 30 pages).
+3. The Respondent shall have 10 days from the filing of the Appellant’s Reply to file an Answer (if any) to the Appellant’s Reply (not to exceed 10 pages).
+Signed at Ottawa, Canada, this 4th day of November 2013.
+“S. D’Arcy”
+D’Arcy J.
+Citation: 2013 TCC 354
+Date: 20131104
+Docket: 2011-494(IT)G
+BETWEEN:
+BRIAN WILLIAM KARAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Arcy J.
+[1] The Appellant is a member of a limited partnership (the “Limited Partnership”) which purchased 350 acres of land between 1990 and 1995 in the City of Kanata (now part of the City of Ottawa). The Limited Partnership sold a portion of these lands, comprising 200 acres, in 2007. The 200 acres were referred to as the “Monarch Properties”. The primary issue before the Court is whether the substantial gain realized on the sale of the Monarch Properties is on account of income or capital.
+[2] There is a secondary issue relating to an amount the Appellant received on the sale of the Monarch Properties. As the Respondent noted in her Reply, I will only need to consider this issue if I find the sale of the Monarch Properties was on account of capital.
+[3] The Court heard from 22 witnesses. The witnesses testified over five full days, of which three days were taken up by the oral testimony of the Appellant.[1] Twenty of the witnesses testified very briefly. The Appellant called all of the witnesses.
+The Appellant, the Limited Partnership and the Lands
+[4] The Appellant began practising as a real estate lawyer in 1973. Around this time, he began investing in numerous real estate ventures. In addition to the real estate venture at issue, he invested in the following:
+- Beginning in the 1970’s and ending in the early 1980’s, a real estate development involving 100 acres of land that contained 27 estate lots.
+- Between 1990 and 1998, a subdivision containing 126 lots.
+- Beginning in June 2011, another subdivision venture.[2]
+[5] On April 27, 1990, 12 limited partners, including the Appellant, and a general partner formed the Limited Partnership. The general partner was 830289 Ontario Limited, a company controlled by the Appellant.[3]
+[6] A number of the limited partners testified. It is clear from this testimony that all of the limited partners either were related to the Appellant or were friends of the Appellant. The Minister of National Revenue (the “Minister”) has assessed all of the limited partners in respect of the sale of the Monarch Properties. The limited partners have chosen the Appellant to be the test case and have agreed to be bound by the final decision of the Courts in this appeal. This is not surprising since the Appellant, through the general partner, made all decisions with respect to the Monarch Properties. Further, the limited partners testified that they were not involved in any way with any lands held by the Limited Partnership, including the Monarch Properties.[4]
+[7] Exhibit A-1 is attached as Appendix 1 to these Reasons for Judgment. It shows the three sections of land that are relevant for the purposes of this appeal.
+[8] The first section is the Monarch Properties. It comprises the three parcels of land numbered 1, 2 and 3 on Exhibit A-1. The parties referred to the three individual parcels of land that comprise the Monarch Properties as the “Moore Property”, the “McKinley Property” and the “Crowe Property”. The Monarch Properties comprise 200 acres and are the most westerly of the lands shown on Exhibit A-1.
+[9] The second section of land was referred to as the “Neighbouring Properties”. It is located immediately to the east of the Monarch Properties and comprises the parcels of land numbered 4 and 5 on Exhibit A-1. The two individual parcels of land that comprise the Neighbouring Properties total 180 acres and were referred to as the “Van Doormaal” and “Van Gaal” properties. The Neighbouring Properties also include the road referred to as Terry Fox Drive. Terry Fox Drive is significant since, at the time the Limited Partnership purchased the Monarch Properties, it was the so-called urban boundary.
+[10] The third section of land was referred to as the “Calmar Properties”. It is located immediately to the east of the Neighbouring Properties and comprises the parcels of land numbered 7, 8 and 9. The three parcels of land that comprise the Calmar Properties total 150 acres and were referred to as the “KTI”, “Centrefund” and “Soho West” properties respectively. The Calmar Properties are the most easterly of the three sections of land. At all relevant times, the Calmar Properties were within the urban boundary.
+[11] During the hearing the Monarch Properties, the Neighbouring Properties and the Calmar Properties were referred to jointly as the “WestPark Lands”.
+Summary of Facts
+[12] The partners formed the Limited Partnership to acquire interests in the Moore Property and the McKinley Property and to acquire the first right of refusal to purchase the abutting property to the west of the Moore Property.[5]
+[13] The Appellant described how he came to acquire the Moore Property on behalf of the Limited Partnership. He noted that a client of his law firm, a Mr. Abraham, was trying to do a land assembly of approximately 800 acres. This land assembly would have comprised the Moore Property, the McKinley Property and the 600 acres to the west of the Moore Property (during the hearing the 600 acres were referred to as the “Brookfield Property”). Mr. Abraham had acquired the right to purchase the Moore Property, but was not able to acquire either the McKinley Property or the Brookfield Property. A group led by a Mr. McKinley (the “McKinley group”) purchased these properties.
+[14] Mr. Abraham then decided that he did not want to acquire the Moore Property. As a result, he sold the right to purchase the Moore Property to the Appellant for $10,000.[6] The Appellant noted that the Moore Property was “in the middle of everything. . . .”[7] It was in Kanata and was close to two or three existing residential subdivisions.[8]
+[15] The Limited Partnership subsequently acquired the 100-acre Moore Property from a Mr. Moore for $2 million. The purchase price was satisfied by a $500,000 cash payment and a $1.5 million mortgage at 8%. The mortgage was fully open with monthly payments of the 8% interest.[9]
+[16] The Moore Property was located outside of Kanata’s urban boundary and was zoned agricultural.[10] A house and some farm buildings were located on the Moore Property. The Limited Partnership immediately leased the property to Mr. Moore for $600 per month. This rent was paid until the end of 1995, when the rent was reduced to a $1 per month. The Appellant testified that the Limited Partnership reduced the rent to $1 per month in consideration of Mr. Moore extending the $1.5 million mortgage.[11]
+[17] The Limited Partnership paid $200,000 of the $1.5 million mortgage during the term of the lease. The Limited Partnership paid the balance of the mortgage, $1.3 million, in April 2007, when it sold the Monarch Properties.[12]
+[18] After the McKinley group acquired the Brookfield Properties and the McKinley Property, it approached the Appellant and attempted to purchase the Moore Property. Eventually the McKinley group offered the Appellant $500,000 for the right to purchase the Moore Property. The Appellant turned down the offer and instead purchased the 88-acre McKinley Property for $1.95 million. The Appellant noted that he purchased the McKinley Property because “. . . it was a next‑door property, and we just felt that it would add value to what we were doing if we picked it up.”[13]
+[19] The Limited Partnership satisfied the purchase price for the McKinley Property by a $450,000 cash payment and a $1.5 million mortgage at 8%. Similar to the mortgage on the Moore Property, the mortgage on the McKinley Property was fully open with monthly payments of the 8% interest.[14] The Limited Partnership paid the mortgage on the McKinley Property in full by 2000.[15]
+[20] The McKinley Property was also outside of the urban boundary and was zoned agricultural.[16] There were no buildings on the land. The Limited Partnership leased the McKinley Property to a relative of Mr. Moore for $4,000 per year. The tenant farmed the land.[17]
+[21] The Limited Partnership Agreement states that the Limited Partnership also intended to acquire the first right of refusal with regard to purchasing the abutting property to the west of the Moore Property.[18] This appears to refer to the Brookfield Property. The Appellant did not explain to the Court whether the Limited Partnership attempted to acquire this right or if it actually did acquire the right.
+[22] The Limited Partnership did acquire additional properties. It purchased the third and final piece of the Monarch Properties, the 12-acre Crowe Property, in August 1993. The Limited Partnership purchased the land because it “squared off” the properties”. The Limited Partnership paid the $225,000 purchase price in cash. It borrowed $150,000 from Investors Group to fund the purchase.[19] The Limited Partnership paid the Investors Group mortgage in full by the end of 2002.[20]
+[23] The Limited Partnership rented a home located on the Crowe Property to third parties. It originally received rent of $820 per month, which at some point increased to $900 per month.[21]
+[24] In summary, by August 1993, the Limited Partnership had acquired all of the Monarch Properties.
+[25] In early 1992, certain third parties, who had acquired the agricultural-zoned lands adjacent to the Monarch Properties, asked the Limited Partnership to participate in applications to the City of Kanata and the Regional Municipality of Ottawa-Carleton to bring all of the lands (including the Monarch Properties) within the urban boundary. The Limited Partnership elected not to participate in this application.[22]
+[26] However, in early 1994, the Limited Partnership retained a consulting firm, Novatech, to prepare applications to the City of Kanata and the Regional Municipality of Ottawa-Carleton to have the Monarch Properties brought within the urban boundary. A consortium of consultants was retained in the spring/summer of 1994.[23]
+[27] While the consultants were preparing the rezoning application, the Limited Partnership continued its land assembly by entering into an agreement to purchase the 150-acre Calmar Properties. Unlike the Monarch Properties, the Calmar Properties were within the urban boundary.[24] They were zoned industrial.[25] The Appellant testified that the Limited Partnership could access water and sewer lines from the east side of the Calmar lands, which could “feed” all of the WestPark Lands. In addition, an area of the Calmar lands referred to as the “Monahan Drain” drained the entire WestPark area.[26]
+[28] As I will discuss later in my Reasons for Judgment, I received conflicting evidence on the timing of the acquisition of the Calmar Properties. On the basis of the testimony of the Appellant and the objective documentary evidence before me, I have concluded that the Limited Partnership purchased the Calmar Properties in 1995. What is not clear is whether the Limited Partnership purchased the properties in early 1995[27] or October/November 1995.[28]
+[29] The Appellant testified that the Limited Partnership purchased the Calmar Properties from Arthur Andersen, who held the lands as trustee in bankruptcy. The Appellant did not provide the Court with the actual purchase price, but it appears to have been between $850,000 and $900,000. The Limited Partnership satisfied the purchase price by a $50,000 cash payment and a mortgage back of “$800-and-some-thousand dollars” at 2%.[29]
+[30] The Limited Partnership filed the rezoning application prepared by Novatech and the other consultants in July 1996. The application was to extend the Kanata urban boundary to include the Monarch Properties and most of the Neighbouring Properties. [30] A lengthy document referred to as the WestPark Master Plan Report (the “WestPark Master Plan”) set out the basis for the application. The plan incorporated all of the WestPark Lands, specifically the Monarch Properties, the Neighbouring Properties and the Calmar Properties.[31]
+[31] The WestPark Master Plan set out a proposal for a mixed-use “wired community”. The community was to mix residences, shops, community facilities and public space with workplaces and education and research institutions. The key concepts were the availability of electronic technology and the creation of a community where residents worked in their homes or in nearby information technology plants.[32]
+[32] The City of Kanata rejected the application on May 20, 1997.[33] Once the city rejected the application, the parties withdrew the identical application made to the Regional Municipality of Ottawa-Carleton.[34]
+[33] It appears the Limited Partnership did not take any further steps to develop the Monarch Properties until early 2001. During this period, it appeared to focus its attention on the Calmar Properties. It sold 11 acres of the Calmar Properties to a third party on December 11, 1998 for approximately $26,000 per acre[35] and 11.5 acres of the Calmar Properties on June 10, 1999 for approximately $65,000 per acre.[36] The Appellant noted that between October 1997 and November 2001 the Limited Partnership received numerous offers from third parties to purchase other pieces of the Calmar Properties. These offers ranged from $17,800 per acre in 1997 to $120,000 per acre in 2001.[37]
+[34] On April 30, 2001, the Limited Partnership resubmitted the rezoning application to have the Monarch Properties and most of the Neighbouring Properties brought within the urban boundary. The parties refiled the WestPark Master Plan that had been prepared for the 1996 application. They filed the application with the City of Ottawa, with which the City of Kanata had been amalgamated.[38] The Appellant testified that this second application was made to coincide with similar applications that were made by the owners of the Brookfield Property (the agricultural lands to the west of the Monarch Properties) and the owner of the agricultural lands to the north of the Monarch Properties (which were referred to as the “Tridel lands”).
+[35] In 2003, the City of Ottawa rejected the applications filed in respect of the Monarch Properties, the Neighbouring Properties, the Brookfield Property and the Tridel lands. All of the parties appealed the city’s decisions to the Ontario Municipal Board (the “OMB”). The OMB subsequently joined the appeals into a single appeal.[39]
+[36] While the Limited Partnership was waiting for the OMB to hear its appeal, it had the portion of the Calmar Properties that it still owned rezoned from industrial to a zoning called enterprise. This allowed for residential development on the lands. The Appellant did not discuss the rezoning of the Calmar Properties; however, the Appellant’s witness, Mr. Shotten, discussed it. [40]
+[37] After the Limited Partnership obtained the rezoning, it sold a 50% interest in the 125 acres of the Calmar Properties that it still owned to a number of companies controlled by the Cavanagh family (jointly referred to as the “Cavanagh Companies”). The Appellant testified that the Limited Partnership required the resources and skills of the Cavanagh Companies in order to develop the land.[41]
+[38] The parties entered into an agreement on November 30, 2004 that provided for the sale by the Limited Partnership for $5 million of 50% of its interest in the Calmar Properties. The Limited Partnership then entered into a joint venture development agreement with one of the Cavanagh Companies (the “Joint Venture”). The parties agreed to use their best efforts to ensure that they sold the lands subject to the Joint Venture on a timely basis, with as large a residential component as possible. The parties also agreed that another Cavanagh Company would have the right to provide, for a fee, all servicing necessary to develop and sell the property.[42]
+[39] On August 11, 2005, the OMB issued its decision, which provided that the urban boundary was to be extended to include the Monarch Properties, the Neighbouring Properties, the Brookfield Property and the Tridel lands.[43]
+[40] Shortly after the OMB released its decision, the Limited Partnership received an offer from the Monarch Corporation to purchase the Monarch Properties. The Limited Partnership declined the offer.[44]
+[41] Between January and July 2006, the Limited Partnership and the Cavanagh Companies sold a significant portion of the Calmar Properties subject to the Joint Venture to a number of home builders.
+[42] On December 19, 2006, the Limited Partnership entered into an agreement to sell the Monarch Properties to the Monarch Corporation for $24 million. The sale was closed on April 11, 2007.[45]
+Credibility of the Appellant
+[43] I did not find the Appellant to be a credible witness. I believe he was very selective in his disclosure of the activities of the Limited Partnership, especially with respect to the WestPark Lands. In addition, on several occasions, the objective evidence before the Court contradicted his oral testimony. I will provide two examples.
+[44] Early in his evidence-in-chief, the Appellant testified that, while the Monarch Properties were outside the urban boundary, they could still be used for certain activities other than farming. He told the Court that the Limited Partnership investigated using some of the lands for three of the purported permitted uses: a cemetery, a drive-in theatre, and a golf driving range.[46] On cross-examination, counsel for the Respondent challenged the Appellant on this point. He produced a document entitled “Official Plan of the Regional Municipality of Ottawa-Carleton” which implies that land, such as the Monarch Properties, that is zoned agricultural cannot be used for any of the purposes noted by the Appellant.[47]
+[45] After I had heard from the Appellant’s witnesses, the parties provided the Court with a Partial Statement of Agreed Facts. Paragraph 2 of the Partial Statement of Agreed Facts states that the following uses were not permitted on the Monarch Properties: cemetery, drive-in theatre and golf driving range.
+[46] At the time the Appellant acquired the Monarch Properties, he was an experienced real estate lawyer. I find it very difficult to believe that he did not know, when he acquired the Monarch Properties on behalf of the Limited Partnership, the permitted uses of the properties. Further, I do not accept that he would have pursued certain uses, such as a cemetery, drive-in theatre or golf driving range, without first determining that they were permitted uses. His testimony on this point damaged his credibility and brought into question whether, as a question of fact, the Limited Partnership did pursue these other uses.
+[47] Far more damaging to the Appellant was his testimony with respect to the acquisition of the Calmar Properties. On the first day of his examination-in-chief, the Appellant described in some detail how he came to purchase the Calmar Properties on behalf of the Limited Partnership. He stated that in September or October 1997, after the City of Kanata had turned down the rezoning application, he received a call from someone at Arthur Andersen. This person allegedly told the Appellant that Arthur Andersen was “going to get rid of the [Calmar] property, and because we’d worked on the WestPark project together, they wanted to give me first chance at it.” The Appellant testified that he then flew to Toronto and negotiated the purchase of the Calmar Properties on behalf of the Limited Partnership. He noted that he bought the Calmar Properties “so that we could keep the WestPark concept together.” [48]
+[48] The Appellant’s testimony on the purchase was very detailed; however, it appears that the events as he described them simply did not occur. During additional testimony-in-chief, the Appellant provided numerous examples of proposals made by the Limited Partnership and certain third parties to build commercial rental buildings on the Calmar Properties.[49] One of these examples related to a February 1996 proposal to build a computer chip plant on the Calmar Properties.[50]
+[49] The third parties made this proposal to the Appellant over a year and half before the October 1997 acquisition date previously provided to the Court with respect to the Calmar Properties. When this was brought to the Appellant’s attention, he told the Court a new story with respect to the acquisition of the Calmar Properties. He testified that the Limited Partnership entered into an Agreement of Purchase and Sale with Arthur Andersen for the Calmar Properties in early 1995, not the September/October 1997 date previously provided to the Court. Arthur Andersen, as trustee in bankruptcy, required court approval to sell the lands. The Appellant stated that it took two years to obtain this court approval and that the transaction closed on October 30, 1997.[51]
+[50] The Appellant’s testimony with respect to the acquisition of the Calmar Properties destroyed his already damaged credibility. First, he told me a detailed story of how the Limited Partnership, in order to protect the WestPark project, purchased the lands after the City of Kanata had rejected the rezoning application. However, after he produced the conflicting evidence, it became clear that this story did not reflect what had actually occurred; he had negotiated the right to purchase the property two years earlier, before the Limited Partnership had even filed the rezoning application with the city.
+Expert Witness
+[51] I heard from one expert witness, a Pierre Dufresne. He provided his opinion on whether the Limited Partnership, in the course of its ownership of the Monarch Properties and the Calmar Properties, dealt with those properties “in the [same] manner as someone in the land development business”.
+[52] Mr. Dufresne opined that the Limited Partnership did not deal with the properties in the same manner as someone in the land development business.
+[53] I did not find Mr. Dufresne’s opinion to be helpful in reaching my decision.
+[54] His opinion is based upon eight pages of assumed facts, which do not include all of the relevant facts before me. Further, in certain instances, the assumed facts are not consistent with the facts before me.
+[55] My second concern relates to the actual opinion. Whether or not the Limited Partnership acted in the same manner as Mr. Dufresne’s hypothetical person in the land development business is not determinative of the issue before me. What I must determine is whether the Limited Partnership and the Appellant purchased the Monarch Properties with the intention to resell the lands.
+Positions of the Parties
+[56] Counsel for the Appellant argued that the Limited Partnership (and the Appellant) always held the Monarch Properties as capital property. His argument relied on the Appellant’s repeated assertion that he intended to build “live/work rentals with a future-proof infrastructure” on the Monarch Properties.[52]
+[57] Counsel stated that the Limited Partnership did not carry on a land development business in respect of the Monarch Properties. He noted that the Appellant had always classified the Monarch Properties as an asset rather than inventory. In his view, the Limited Partnership intended to carry on two businesses: “smart rentals” on the Monarch Properties and a business that generated a revenue stream from technology such as the transmission of electronic data over fibre optics. Further, the Appellant and the Limited Partnership did not have the operating motivation/secondary intention to resell the property.
+[58] In the alternative, the Appellant argued that if the Monarch Properties are not characterized as being capital property at the time of their acquisition, they were converted to capital property on April 6, 2005, when there was a change in intention.
+[59] It is the Respondent’s position that it was always the intention of the Limited Partnership and the Appellant to resell the Monarch Properties. The Respondent argues that this was the intention at the time the Appellant purchased the property on behalf of the Limited Partnership and that intention did not change between the time the property was acquired and the time it was sold.
+[60] Both counsel for the Appellant and counsel for the Respondent argued that the Court must determine the intention of the Limited Partnership at the time it acquired the Monarch Properties.
+Was the sale of the Monarch Properties on account of income or capital?
+[61] The issue of whether the sale of vacant land is on account of capital or income has been considered by the courts on numerous occasions. Regardless of whether I am determining whether the Limited Partnership was engaged in an adventure or concern in the nature of trade with respect to the Monarch Properties or whether the lands were held by the Limited Partnership in the course of a business, the most important factor I must consider is the Appellant’s (and the Limited Partnership’s) intention at the time of the purchase of the Monarch Properties.
+[62] In particular, I must determine whether it was the Appellant’s and Limited Partnership’s intention to hold and use the Monarch Properties as an investment to derive income therefrom (the “smart rentals” concept) or whether it was their intention to realize a profit from the sale of the Monarch Properties.
+[63] The learned authors Hogg, Magee and Li, in Principles of Canadian Income Tax Law, summarize as follows the method used by the courts to determine the intention of the taxpayer in such situations:
+How to establish a taxpayer's intention? In the nature of things, the taxpayer's oral evidence of his or her intention is self-serving and is bound to be suspect, so the courts have tended to rely primarily on the objective facts surrounding the purchase of the property, the subsequent course of dealing and the circumstances of the sale in order to determine whether the taxpayer acquired the property as an investment or as a speculation.[53]
+[64] This is particularly true in situations, such as the one before me, where the appellant is found not to be a credible witness.
+[65] The most relevant objective evidence before me is the Limited Partnership Agreement, the nature of the property, and the documents filed by the Limited Partnership with the rezoning application. I will first consider the Limited Partnership Agreement.
+[66] The language of the Limited Partnership Agreement supports a finding that the intention of the Appellant and the other limited partners, at the time the Monarch Properties were acquired, was to resell the lands at a profit once the rezoning was obtained and the lands had appreciated in value. Specifically, section 1.03 of the Limited Partnership Agreement states the following:
+1.03 The Partnership is established for the sole purpose of acquiring interests in the two parcels of land described in Schedule “B” . . . and the first right of refusal to purchase the abutting property to the west of the lands and developing some of all of such lands or parts thereof and generally dealing in and with such lands with a view to turning them to account at a profit. [Emphasis added.][54]
+[67] This intention is also reflected in Schedule C to the Limited Partnership Agreement, which deals with the monthly costs of the Limited Partnership and provides, in part, as follows:
+The General Partner will be paid a fixed amount of $3,000.00 monthly for its services until draft plan approval is obtained and every attempt will be made to obtain same as soon as possible. At such time a decision will be made as to whether to hold the property and allow it to appreciate or to sell. [Emphasis added.][55]
+[68] There is no reference in the Limited Partnership Agreement to the building of rental units on the Monarch Properties for lease to third parties.
+[69] The Appellant, during his testimony, tried to downplay the significance of this wording, implying that he had based the Limited Partnership Agreement on a precedent and that the wording did not reflect the actual intention of the parties.[56] I do not accept the Appellant’s testimony on this point. At the time he drafted this agreement, the Appellant had been a practising real estate lawyer for 17 years. I do not accept that he would not have turned his mind to the wording of a partnership agreement relating to a $4 million purchase of real estate involving 12 individuals. Further, as I will discuss, the above-noted wording of the Limited Partnership Agreement is consistent with other objective evidence before me.
+[70] I will next consider the nature of the Monarch Properties.
+[71] At the time the Limited Partnership purchased the Monarch Properties, they were located just outside of the urban boundary, in an area subject to significant speculation. When the Appellant purchased the Monarch Properties on behalf of the Limited Partnership he knew that other developers had purchased the surrounding lands, which were also outside of the urban boundary.
+[72] Something the Appellant experienced when acquiring the Monarch Properties clearly evidences the speculative nature of those lands: just before the Appellant purchased the McKinley Property, he received a $500,000 offer for the right to purchase the Moore Property. He had acquired this right a few months earlier for only $10,000.
+[73] At the end of the hearing, the Appellant acknowledged the speculative nature of the Monarch Properties. Paragraph 5 of the Partial Statement of Agreed Facts (filed at the end of the evidentiary stage of the hearing) states the following:
+Because of the long term prospects to develop the Monarch property as part of an urban area, the highest and Best Use of the lands until August of 2005 was their speculative long term holding until incorporation into the Urban Area of the Official Plan.
+[74] August 2005 is the month in which the OMB issued its favourable decision with respect to the rezoning request.
+[75] The fact that the Monarch Properties only generated nominal revenue is also important. In the five years after the Limited Partnership acquired the Monarch Properties it received rental income of $11,200 per year. This was in respect of land that it had acquired for $4 million and for which the annual carrying costs were at least $325,000.[57]
+[76] The location of the property in an area subject to significant speculation and the nominal income received from the land support a finding that price appreciation was the primary motive of the Limited Partnership at the time it acquired the Monarch Properties.
+[77] The documents filed with the rezoning application also evidence an intention to resell the Monarch Properties.
+[78] The Limited Partnership filed two substantial documents with the City of Kanata in 1996 and 1997 as part of its rezoning application: the WestPark Master Plan and the WestPark Opportunity Justification study (the “WestPark Justification Study”). [58]
+[79] The WestPark Master Plan describes a mixed-use “wired” community for all of the Westpark Lands. The community would revolve around a hub located on Terry Fox Drive. The hub would feature a 20-acre university campus and a 150,000-square-foot shopping centre. Lands adjacent to Terry Fox Drive would accommodate 2- to 4- storey mixed residential, commercial and office buildings.[59]
+[80] The lands to the east of Terry Fox Drive (the Calmar Properties and some of the Neighbouring Properties) would be used primarily for commercial development.[60]
+[81] The land to the west of Terry Fox Drive (the Monarch Properties and the remainder of the Neighbouring Properties) would be for residential housing.[61] This housing would in three neighbourhoods. Two of these neighbourhoods would have “convenience centres” as their focal points and include day care facilities, churches, and schools. The third neighbourhood would have the central hub as its focus. Each of the neighbourhoods would accommodate 20,000 square feet of commercial space for neighbourhood commercial uses.[62]
+[82] The WestPark Master Plan states that the residential area would consist of 2,200 to 2,500 units with a projected population of 6,500 to 7,500. There would be both multiple-unit housing and detached housing, with 60% of the housing being detached units.[63] The WestPark Master Plan notes that “each neighbourhood will be comprised of a mix of residential densities, ownership, price and building forms to ensure affordability and social mix.”[64]
+[83] After reading the WestPark Master Plan, I have concluded that it envisages the sale of most of the WestPark Lands, in particular the residential area, which includes all of the Monarch Properties. The WestPark Justification Study verifies my conclusion.[65]
+[84] In the section of the WestPark Justification Study entitled “Market Analysis”, the authors attempt to determine who would buy homes in a development such as WestPark. The study states the following:
+Thus, the market to which the WestPark concept would appeal is quite likely to be somewhat different from the general population as a whole. It is most likely the ‘innovators’ and ‘early adoptors’ (16 percent of purchasers) who will buy homes in an innovative integrated community development such as WestPark.[66]
+[Emphasis added.]
+[85] The authors then estimate the general size of the market for the WestPark homes as follows:
+- the estimated 2,200 homes generated by WestPark divided by a ten year build-out period produces 220 dwelling units per year; and,
+- 220 divided by 16 percent equals 1,375.
+Therefore, the regional market in which WestPark is situated must generate at least 1,375 new home sales per year.[67]
+[86] The WestPark Justification Study is based on the assumption that the applicants would build 2,200 residential homes on the WestPark Lands (including all of the Monarch Properties) for sale to third parties. This provides very strong objective evidence that the Appellant and the Limited Partnership intended to sell the Monarch Properties if the city rezoned those lands.
+[87] In summary, it is clear from the objective evidence before me that the Appellant and the Limited Partnership purchased the Monarch Properties with the intention of reselling the lands once they were included within the urban boundary.
+[88] There is no mention in the partnership agreement, the WestPark Master Plan or the WestPark Justification Study of the Limited Partnership using the lands (including the Monarch Properties) exclusively for rental properties. That omission from the WestPark Master Plan and the WestPark Justification Study is particularly damaging to the Appellant’s argument since the Limited Partnership required the city’s approval before it could build rental units.[68]
+[89] Further, the Appellant testified that no feasibility study was prepared for rental properties.[69] In fact, the Appellant did not provide the Court with any planning documents for the 2,200 rental units he claimed the Limited Partnership intended to build on the Monarch Properties. The Appellant’s oral testimony was the only evidence that the Limited Partnership intended to use the Monarch Properties exclusively for rental units. This was oral evidence from a witness whom I did not find credible and whose testimony on this point was not consistent with the objective evidence before me.
+Appellant’s Alternative Argument
+[90] The Appellant argues, in the alternative, that if the Monarch Properties are not characterized as having been capital property at the time of their acquisition, they were converted to capital property on April 6, 2005 when there was a change in intention.
+[91] Counsel for the Appellant argued that the Limited Partnership’s intention changed during an April 6, 2005 meeting that the Appellant had with senior officials from the City of Ottawa, including the mayor. It is the Appellant’s position that, during this meeting, he (and the Limited Partnership) committed to a “smart community concept” consisting of “smart rentals” and related fibre infrastructure on the Monarch Properties.
+[92] Counsel for the Appellant argued that this was one of the reasons that between January and July 2006, the parties to the Joint Venture entered into the agreements to sell a significant portion of the Calmar Properties to the home builders. Counsel argued that this sale resulted in the Limited Partnership incurring a loss of $2.3 million.
+[93] The evidence before me does not support the Appellant’s alternative argument.
+[94] In the first instance, the Appellant testified that, after the meeting with the City of Ottawa, he hoped that some rental units would be constructed on the Calmar Properties. However, he knew that the city would only allow a few to be constructed. He hoped that “the original WestPark master plan would apply to the balance of WestPark”.[70]
+[95] The difficulty for the Appellant is that, as I previously discussed, the WestPark Master Plan envisages the building of 2,200 homes for resale on the Monarch Properties and the relevant portions of the Neighbouring Properties. In short, by stating that he intended to follow the WestPark Master Plan, the Appellant is stating that his intention did not change after the meeting with the City of Ottawa.
+[96] The Appellant also testified that the rental units would be built on the Monarch Properties and single-family residential homes on the Van Doormaal Property. He offered no documentary evidence to support this statement. Further, such a statement is completely inconsistent with the WestPark Master Plan.
+[97] Mr. McGuinty, the Appellant’s consultant who arranged and attended the meeting with the City of Ottawa, testified that the concept was for some rental units, some residential ownership, and some mixed-use commercial/retail. He also testified that the city places limits on the number of rental units that can be built in a specific area.[71]
+[98] On the basis of the evidence before me, I have concluded that the only commitment the Appellant made at the meeting with the City of Ottawa was to ensure that the fibre infrastructure was installed on the WestPark Lands to allow for “fibre to the door”. He did not make a commitment to only build rental housing units on the Monarch Properties.
+[99] It is not clear to me what the significance is of the Appellant’s claim that the sale of the Calmar lands to the builders in 2006 resulted in a loss of $2.3 million.[72] Although the Appellant did not provide any schedules showing how the loss was calculated, he testified that he based the loss on the revenue realized in the agreements filed as Exhibits A-69 to A-72. These agreements show a total consideration (including the consideration for a number of options) of $33.6 million.[73] However, between October 2008 and July 2011 the parties renegotiated these agreements with the total consideration increasing to $55.9 million.[74] Even if I accept that the Limited Partnership suffered a loss of $2.3 million on a $33.6 million sale price (which I do not, in light of the limited evidence before me), there is no evidence before me to support a finding that the Limited Partnership incurred a loss once the sale price increased from $33.6 million to $55.9 million.
+[100] Counsel for the Appellant also argued that the sale of the Monarch Properties was not triggered by the August 11, 2005 OMB decision, but rather occurred as a result of a November 20, 2006 meeting the Appellant had with the owners of the Brookfield and Tridel lands.
+[101] The Appellant testified that this meeting triggered the sale decision for the following reason:
+Well, I was told by them for the first time that they weren’t going to have anything . . . to do with fibre to the home as part of the CDP [Community Design Plan] process. At that point, since they weren’t going to cooperate with me in terms of allowing me to install fibre in their lands and have the appropriate easements, my plans were completely frustrated.[75]
+[102] There is no evidence before me that, prior to November 2006, the Limited Partnership’s plan to install fibre infrastructure on the WestPark Lands was contingent on the owners of the Brookfield and Tridel lands agreeing to the installation of such fibre infrastructure on their lands. There is no mention of reliance on their cooperation in the WestPark Master Plan. In addition, there is no evidence that the Appellant referred to such reliance when he made his “fibre to the door” commitment to Ottawa city officials.
+[103] In fact, his testimony on this issue is inconsistent with his testimony that one of the reasons he purchased the Calmar Properties was that the fibre for all of WestPark could go through that property.[76] In addition, the Appellant testified that one of the reasons he sold the 11-acre portion of the Calmar Properties in December 1998 was to allow him to say that there was fibre at the doorstep of WestPark.[77]
+Summary
+[104] It is my view, which is based primarily on the objective evidence before me, that the Limited Partnership purchased the Monarch Properties with the intention of reselling the land at a profit once the land was included within the urban boundary. I have also concluded that the Limited Partnership sold the Monarch Properties in the course of its business of buying and selling land.
+[105] My conclusion that the Limited Partnership was carrying on a business of buying and selling land is based upon its activities between 1990 and 2006, including the following:
+- Between 1990 and 1995, the Limited Partnership acquired 350 acres of land either in or on the border of an expanding residential area. The area was subject to significant speculation.
+- In 1994, the Limited Partnership retained a consortium of consultants to prepare a rezoning application.
+- In 1996, within a year of purchasing all of the 350 acres, the Limited Partnership filed a rezoning application in an attempt to bring the Monarch Properties within the urban boundary. The detailed documents that were part of the application envisage the applicants building 2,200 residential homes on the Monarch Properties and a portion of the Neighbouring Properties for sale to third parties.
+- In 1998 and 1999, the Limited Partnership sold two parcels of its land.
+- Early in 2001, the Limited Partnership refiled its rezoning application.
+- In 2003, the Limited Partnership appealed the rejection of its second rezoning application to the OMB.
+- Sometime during 2003 and 2004, the Limited Partnership had the Calmar Properties rezoned to increase the allowed residential development on the lands.
+- In November 2004, the Limited Partnership sold a 50% interest in the Calmar Properties and entered into a joint venture agreement with the purchaser of the 50% interest. The Limited Partnership agreed to sell the lands on a timely basis with as large a residential component as possible.
+- In August 2005, the OMB issued a decision providing that the urban boundary should be extended to include the Monarch Properties.
+- Between January and July 2006, the Limited Partnership sold a substantial portion of its 50% interest in the Calmar Properties.
+- In December 2006, the Limited Partnership sold the Monarch Properties.
+[106] In my view, these activities together evidence the carrying on of a business. During the relevant period, the Limited Partnership was engaged in a continuous operation whose purpose was the buying and selling of land at a profit.
+Second Issue
+[107] The second issue relates to whether the Appellant received an amount as consideration for services in respect of the sale of the Monarch Properties or as consideration for representation services. I do not need to consider this issue since I have determined that the gain realized by the Limited Partnership and the Appellant from the sale of the Monarch Properties was on account of income.
+[108] For the foregoing reasons, the appeal is dismissed, with costs to the Respondent. The Respondent shall have 30 days to file submissions with the Court if she believes the Court should award costs in excess of the tariff. Such submissions shall not exceed 30 pages. The Appellant shall have 30 days to file a reply (not to exceed 30 pages). The Respondent shall have 10 days to file an answer to the Appellant’s reply (not to exceed 10 pages).
+Signed at Ottawa, Canada this 4th day of November 2013.
+“S. D’Arcy”
+D'Arcy J.
+APPENDIX 1
+CITATION: 2013 TCC 354
+COURT FILE NO.: 2011-494(IT)G
+STYLE OF CAUSE: BRIAN WILLIAM KARAM V. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: June 17 to 21, 24 and 26, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Steven K. D’Arcy
+DATE OF JUDGMENT: November 4, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Robert McMechan
+Counsel for the Respondent:
+André LeBlanc
+Hong Ky (Eric) Luu
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Robert McMechan
+Barrister and Solicitor
+Firm: 28 Glengarry Road
+Ottawa, Ontario, K1S 0L5
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The testimony was actually heard over 6 days, however on two of these days I adjourned the hearing in the morning since the Appellant’s witnesses were not available.
+[2] Transcript, Testimony of Brian Karam, pages 31-40.
+[3] See Exhibits A-6 and A-8.
+[4] See Transcript pages 632-651 (testimony of Margaret Watters), pages 652-658 (testimony of Lawrence Greenspon), pages 658-666 (testimony of Dominic Giampaolo), pages 690-694 (testimony of Margret Tapp), pages 698-701 (testimony of Claudette Carson).
+[5] Exhibit A-6, page 174.
+[6] Transcript, Testimony of Brian Karam, pages 42-43, 46-47.
+[7] Ibid., page 59.
+[8] Ibid., pages 61-62. Exhibit A-2.
+[9] Transcript, Testimony of Brian Karam, pages 42-43, 64-67.
+[10] Ibid., page 130. Exhibit A-1.
+[11] Transcript, Testimony of Brian Karam, pages 66-67.
+[12] Ibid., pages 488-489.
+[13] Ibid., pages 67-68.
+[14] Ibid., pages 67-70.
+[15] Ibid., page 488.
+[16] Ibid., page 130. Exhibit A-1.
+[17] Transcript, Testimony of Brian Karam, page 69.
+[18] Exhibit A-6, page 174.
+[19] Transcript, Testimony of Brian Karam, pages 82-87.
+[20] Ibid., page 488.
+[21] Ibid., pages 86-87.
+[22] Ibid., pages 92-94.
+[23] See Exhibits A-18; A-21, page 1776; and A-22, page 1917. Transcript, Testimony of Brian Karam, pages 146-149.
+[24] Transcript, Testimony of Brian Karam, page 130. Exhibit A-1.
+[25] Ibid., Transcript, Testimony of Brian Karam, page 176.
+[26] Ibid., page 178.
+[27] Ibid., page 471.
+[28] Ibid., pages 432-434.
+[29] Ibid., pages 176-177.
+[30] Exhibit A-22.
+[31] Exhibits A-22 and A-21.
+[32] See, for example, Exhibit A-21, pages 1768 to 1773.
+[33] Exhibit A-26, page 1934.
+[34] Transcript, Testimony of Brian Karam, page 173.
+[35] Exhibit A-41 (the KTI land, shown as lot No. 7 on Exhibit A-1).
+[36] Exhibit A-42 (the Centrefund land, shown as lot No. 8 on Exhibit A-1).
+[37] Transcript, Testimony of Brian Karam, pages 180-202.
+[38] Exhibit A-36.
+[39] See Exhibits A-50 and A-48.
+[40] Transcript, Testimony of James Shotten, pages 765-767.
+[41] Testimony of Brian Karam, pages 313-319.
+[42] Exhibits A-62 and A-63.
+[43] Exhibit A-48.
+[44] Transcript, Testimony of Brian Karam page 403.
+[45] Exhibit A-81.
+[46] Transcript, Testimony of Brian Karam, pages 70-81.
+[47] Exhibit R-1.
+[48] Transcript, Testimony of Brian Karam, pages 175-178.
+[49] Transcript, Testimony of Brian Karam, pages 427-460.
+[50] Exhibit A-87.
+[51] Transcript, Testimony of Brian Karam, pages 432-434 and pages 471-472.
+[52] See, for example, Transcript, Testimony of Brian Karam, page 103.
+[53] Peter, W. Hogg, Joanne E. Magee & Jinyan Li, Principles of Canadian Income Tax Law, 7th ed. (Toronto: Carswell, 2010) at page 354-355.
+[54] Exhibit A-6, page 174.
+[55] Ibid., page 219.
+[56] Transcript, Testimony of Brian Karam, pages 94-100.
+[57] Exhibit A-6, page 219.
+[58] Exhibits A-21 and A-25.
+[59] Exhibit A-21, pages 1782-1783.
+[60] Ibid., pages 1780, 1786.
+[61] Ibid., pages 1768-1773, 1780.
+[62] Ibid., page 1783.
+[63] Ibid., page 1784.
+[64] Ibid.
+[65] Exhibit A-25.
+[66] Ibid., page 2009.
+[67] Ibid., page 2010.
+[68] Transcript, Testimony of Brian Karam, pages 567-568.
+[69] Ibid., page 522.
+[70] Ibid., pages 332-333.
+[71] Transcript, Testimony of Brendan McGuinty, pages 789-791.
+[72] Transcript, Testimony of Brian Karam, pages 372-373.
+[73] Exhibits A-69 to A-72.
+[74] Exhibit A-74.
+[75] Transcript, Testimony of Brian Karam, page 400.
+[76] Ibid., pages 197-198, 554-555.
+[77] Ibid., page 233.

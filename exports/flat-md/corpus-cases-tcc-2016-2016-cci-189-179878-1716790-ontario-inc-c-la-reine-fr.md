@@ -1,0 +1,478 @@
+---
+title: "1716790 Ontario Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/179878/index.do"
+last_modified: "2016-08-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 189"
+citation2: ""
+neutral_citation: "2016 CCI 189"
+decision_date: "2016-08-31"
+language: "fr"
+item_id: "179878"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2877
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:54:53.484000+00:00"
+cases_cited_count: 12
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7c5589016a214a8926ce791ecef1aaa6c54ab393d68865f5ccdb2c64ca50d2a8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1716790 Ontario Inc. c. La Reine
+
+- Citation: 2016 CCI 189
+- Decision date: 2016-08-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2877, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1716790 Ontario Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-08-31
+Référence neutre
+2016 CCI 189
+Numéro de dossier
+2014-2383(GST)G, 2014-2385(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2014-2383(GST)G
+2014-2385(IT)G
+ENTRE :
+1716790 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête en ordonnance enjoignant à répondre à des questions entendue le 29 janvier 2016, à Ottawa (Ontario)
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocats de l’appelante :
+Me Paul C. LaBarge
+Me Anne M. Tardif
+Avocat de l’intimée :
+Me Pascal Tétrault
+ORDONNANCE
+Vu la requête présentée par l’intimée en vertu de l’article 110 des Règles de la Cour canadienne de l’impôt (procédure générale) en vue d’obtenir une ordonnance :
+enjoignant à l’appelante de répondre aux questions auxquelles elle n’a pas répondu ou a refusé de répondre lors de l’interrogatoire préalable du 24 juin 2015;
+enjoignant à l’appelante de fournir des renseignements et des documents pour s’acquitter de l’engagement numéro 12 (question 215 à la page 94) pris lors de l’interrogatoire préalable du 24 juin 2015;
+enjoignant à la représentante de l’appelante de se présenter de nouveau à l’interrogatoire préalable, aux frais de l’appelante, pour répondre aux questions auxquelles elle n’a pas répondu ou a refusé de répondre lors de l’interrogatoire préalable et pour répondre aux questions complémentaires posées en réponse aux engagements;
+enjoignant à l’appelante de payer les dépens de la présente requête, ceux qui ont été engagés inutilement et ceux de la poursuite de l’interrogatoire préalable;
+ET vu les documents produits;
+ET vu les plaidoiries des avocats des parties;
+La requête est accueillie en partie. L’appelante devra répondre aux questions 41, 92, 182, 202, 203, 210, 215 et 396, conformément aux motifs.
+Une conférence téléphonique aura lieu pour établir la façon de procéder et fixer les délais.
+Les dépens suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 31e jour d’août 2016.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 26e jour de juin 2018.
+Elisabeth Ross, jurilinguiste
+Référence : 2016 CCI 189
+Date : 20160831
+Dossiers : 2014-2383(GST)G
+2014-2385(IT)G
+ENTRE :
+1716790 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge D’Auray
+I. APERÇU
+[1] L’appelante a déposé trois appels auprès de notre Cour. Dans l’appel numéro 2014-2385(IT)G, l’appelante a soulevé deux questions. La première question à trancher est de savoir si l’appelante doit déclarer le produit de la vente de la résidence pour personnes âgées « Stonehaven Manor » comme revenu d’entreprise ou comme gain en capital pour son année d’imposition 2008. La deuxième question à trancher concerne le rejet de la prétention de l’appelante qui avait traité sa nouvelle résidence pour personnes âgées « Windsor Park » comme un bien de remplacement de Stonehaven Manor au titre de l’article 44 de la Loi de l’impôt sur le revenu (la « LIR »).
+[2] L’appel numéro 2014-2383(GST)G porte sur la juste valeur marchande de la phase II de la résidence pour personnes âgées « Stonehaven Manor » déclarée par l’appelante comme fourniture à soi-même en application du paragraphe 191(4) de la Loi sur la taxe d’accise (la « LTA ») pour la période prenant fin le 30 novembre 2006. Le ministre du Revenu national (le « ministre ») a augmenté la juste valeur marchande du Stonehaven Manor, ce qui a eu pour conséquence d’augmenter le montant de la fourniture à soi-même déclarée par l’appelante.
+[3] L’appel dont le numéro est 2014-3835(IT)G porte sur la question de savoir si l’appelante devrait déclarer le produit de la vente de la résidence pour personnes âgées « Windsor Park » comme revenu d’entreprise ou comme gain en capital pour son année d’imposition 2013.
+[4] La présente requête concerne les appels numéro 2014-2383(GST)G et 2014‑2385 (IT)G seulement.
+[5] L’appelante soutient que son entreprise consiste à exploiter des résidences pour personnes âgées et non pas à construire et à vendre ce type d’immeuble. Par conséquent, l’appelante affirme qu’elle a correctement déclaré un gain en capital sur la vente de la résidence pour personnes âgées « Stonehaven Manor » pour son année d’imposition 2008.
+[6] L’intimée soutient que les activités de l’appelante consistent à construire des résidences pour personnes âgées et à les vendre à profit et que, par conséquent, le ministre a correctement établi la nouvelle cotisation à l’égard de l’appelante en considérant la vente de la résidence pour personnes âgées « Stonehaven Manor » comme un revenu d’entreprise.
+[7] Le 24 juin 2015, dans le cadre de l’interrogatoire préalable, l’intimée a interrogé la représentante de l’appelante, Mme Diane Chénier Thauvette (« Mme Thauvette »).
+[8] Mme Thauvette, sur les conseils de l’avocat de l’appelante, a refusé de répondre à certaines des questions posées par l’intimée pendant l’interrogatoire préalable. En outre, l’appelante n’a pas rempli un engagement pris lors de l’interrogatoire préalable.
+[9] Le 21 janvier 2016, l’intimée a déposé un avis de requête auprès de notre Cour, en vertu de l’article 110 des Règles de la Cour canadienne de l’impôt (procédure générale) [1] (les « Règles »), demandant à la Cour de rendre une ordonnance :
+enjoignant à l’appelante de répondre aux questions auxquelles elle n’a pas répondu ou a refusé de répondre lors de l’interrogatoire préalable du 24 juin 2015;
+enjoignant à l’appelante de fournir des renseignements et des documents pour s’acquitter de l’engagement numéro 12 (question 215 à la page 94) pris lors de l’interrogatoire préalable du 24 juin 2015;
+enjoignant à la représentante de l’appelante de se présenter de nouveau à l’interrogatoire préalable, aux frais de l’appelante, pour répondre aux questions auxquelles elle n’a pas répondu ou a refusé de répondre lors de l’interrogatoire préalable et répondre aux questions complémentaires posées en réponse aux engagements;
+enjoignant à l’appelante de payer les dépens de la présente requête, ceux engagés inutilementet ceux de la poursuite de l’interrogatoire préalable;
+[10] Pour les motifs qui suivent, j’accueillerais en partie la requête.
+II. LES FAITS
+[11] L’appelante a été constituée en société le 1er octobre 1998 sous la dénomination sociale « 1310021 Ontario Inc. » et, par la suite, a exercé ses activités sous cette dénomination. Le 19 avril 2007, l’appelante a fusionné avec une société liée et a commencé à exercer ses activités sous sa dénomination actuelle.
+[12] En août 1999, l’appelante a terminé la construction de la résidence pour personnes âgées « Belcourt Manor » à Orléans, en Ontario. Cette résidence pour personnes âgées a été vendue en novembre 2002 à la société Maestro Limited Partnership pour 10 250 000 $.
+[13] Le 11 décembre 2003, l’appelante a utilisé le produit de la vente de la résidence « Belcourt Manor » pour acquérir le terrain sur lequel la résidence pour personnes âgées « Stonehaven Manor » a été construite.
+[14] La résidence « Stonehaven Manor » a été construite en deux phases : la phase I a été achevée le 30 septembre 2004 et la phase II a été achevée le 1er octobre 2006.
+[15] Le 30 octobre 2006, l’appelante a conclu une convention de vente visant la résidence « Stonehaven Manor » avec un acheteur sans lien de dépendance, Allegro Residences, qui est une division de Maestro Limited Partnership. La vente a été réalisée le 2 mai 2007 pour 26 000 000 $. Dans sa déclaration de revenus pour son année d’imposition se terminant le 19 avril 2008, l’appelante a déclaré un gain en capital de plus de 15 000 000 $.
+[16] En février 2008, l’appelante a déclaré et versé des dividendes en capital de 4 031 931 $. L’appelante a également demandé un report du gain réalisé sur la vente de la résidence « Stonehaven Manor » au titre de l’article 44 de la LIR.
+[17] Le 4 avril 2008, l’appelante a utilisé le produit de la vente de la résidence « Stonehaven Manor » pour acquérir un terrain afin d’y bâtir une nouvelle résidence pour personnes âgées, la résidence « Windsor Park Manor ».
+[18] Le 24 mai 2012, l’appelante a conclu une convention de vente de la résidence « Windsor Park Manor » avec un acheteur sans lien de dépendance, Regal Lifestyle Communities Inc., pour 36 600 000 $. L’appelante a déclaré un gain en capital de 11 011 166 $ et un gain imposable de 5 505 583 $.
+[19] Voici la structure d’entreprise de l’appelante :
+- M. Réjean Lemay détient 30 % des actions en circulation de l’appelante par l’entremise d’une société en propriété exclusive, 1323456 Ontario Inc.;
+- Les autres actions de l’appelante sont détenues directement ou indirectement par Jacques Potvin (30 %), Paul Cuerrier (30 %) et Diane Thauvette (10 %).
+[20] Le ministre a établi de nouvelles cotisations à l’égard de l’appelante pour son année d’imposition 2008 en se fondant sur différentes hypothèses de fait, à savoir que M. Lemay était l’âme dirigeante de l’appelante et des autres sociétés impliquées dans la construction et la vente de résidences pour personnes âgées et que l’intention de M. Lemay et des autres actionnaires de l’appelante était de construire des résidences pour personnes âgées et de les vendre à profit.
+[21] Une autre hypothèse formulée par le ministre et exposée dans la réponse à l’avis d’appel est que M. Lemay était directement ou indirectement actionnaire de sociétés ayant participé à la construction et à la vente des douze résidences pour personnes âgées suivantes :
+[EN BLANC]
+Résidence pour personnes âgées
+Actions de Réjean Lemay (directement ou indirectement)
+Construction
+Vente
+Nombre d’années de possession
+Acheteur
+Vente d’actif ou d’actions
+1
+Vankleek Hill
+50 %
+1989
+1993
+4
+Guy Desjardins
+Actions
+2
+Arnprior Villa
+33 %
+1990
+Mars 1998
+8
+Central Lodge Park Ltd.
+Actions
+3
+Queenswood Villa
+25 %
+1992
+Mars 1998
+6
+Central Lodge Park Ltd.
+Actions
+4
+Ogilvie
+25 %
+1995
+Mars 1998
+3
+Central Lodge Park Ltd.
+Actif
+5
+Stittsville Villa
+25 %
+(ex-époux)
+1996
+Février 1999
+3
+Central Lodge Park Ltd.
+Actions
+6
+Belcourt Manor
+25 %
+1999
+Juin 2002
+3
+Maestro Limited Partnership
+Actif
+7
+Pembroke Heritage Manor
+25 %
+1999
+Octobre 2007
+8
+Maestro Limited Partnership
+Actif
+8
+Barrhaven Manor
+18 %
+(conjoint de fait)
+1999
+2005
+6
+Maestro Limited Partnership
+Actions
+9
+Stonehaven
+30%
+2004
+Mai 2007
+3
+Membres de la famille
+Actif
+10
+Alta Vista Manor
+16,67 %
+2004
+2006
+3
+Maestro Limited Partnership
+Actions
+11
+Portobello Manor
+12,5 % (privilégiées) + 11,25 %
+(ordinaires)
+2008
+2012
+4
+Regal Lifestyle Communities Inc.
+Actif
+12
+Windsor
+25 %
+2009
+2012
+3
+Regal Lifestyle Communities Inc.
+Actif
+III. LES QUESTIONS EN LITIGE
+[22] L’appelante est-elle tenue :
+- de répondre aux questions auxquelles elle a refusé de répondre?
+- de fournir des réponses complètes aux questions auxquelles elle n’a pas répondu adéquatement?
+- de remplir un engagement qu’elle a pris lors de l’interrogatoire préalable?
+IV. LES THÈSES DES PARTIES
+[23] La plupart des questions auxquelles l’appelante n’a pas répondu traitent des antécédents commerciaux de M. Lemay, à savoir la construction et la vente de résidences pour personnes âgées.
+A. LA THÈSE DE L’INTIMÉE
+[24] L’intimée soutient que l’appelante doit répondre aux questions puisqu’elles sont pertinentes étant donné qu’elles portent sur des points en litige.
+[25] L’intimée soutient que, dans les décisions portant sur le commerce, lorsque les tribunaux devaient déterminer si un contribuable exploitait une entreprise ou si le contribuable œuvrait dans le domaine de la construction et de la vente à profit, notre Cour et la Cour d’appel fédérale ont indiqué que les antécédents commerciaux des actionnaires et des dirigeants devraient être pris en considération pour établir l’intention de la société. Par conséquent, l’intimée soutient que l’appelante doit répondre aux questions portant sur les antécédents commerciaux de M. Lemay.
+[26] L’intimée fait également valoir que les questions posées à Mme Thauvette au sujet d’allégations formulées par Mme Lemay dans un affidavit qu’elle a déposé dans le cadre d’une procédure de divorce contestée contre M. Lemay sont pertinentes parce que l’affidavit étaye des faits invoqués dans la réponse à l’avis d’appel. Selon l’intimée, M. Lemay ne devrait pas être considéré comme un tiers puisqu’il est actionnaire, président et employé de l’appelante.
+[27] Enfin, l’intimée fait valoir que les questions ne constituent pas une recherche à l’aveuglette puisque les questions sont pertinentes quant aux points en litige.
+B. LA THÈSE DE L’APPELANTE
+[28] L’appelante soutient qu’elle a dûment refusé de répondre aux questions relatives aux antécédents commerciaux de M. Lemay. M. Lemay n’est pas l’appelante, mais un tiers dans le présent appel.
+[29] L’appelante soutient que les questions relatives aux affaires personnelles de M. Lemay ne sont pas pertinentes. Elle soutient que les questions relatives aux renseignements des tiers ne devraient être autorisées que dans des circonstances exceptionnelles. Par conséquent, Mme Thauvette n’a pas à trouver réponse aux questions relatives aux antécédents commerciaux de M. Lemay ni à fournir ces réponses. L’appelante soutient que la portée de l’interrogatoire préalable devrait se limiter aux questions relatives à la partie faisant l’objet de l’interrogatoire préalable dans le présent appel, c’est‑à‑dire l’appelante.
+[30] De plus, l’appelante fait également valoir que ce n’est pas parce qu’un fait est allégué qu’il est automatiquement pertinent. L’appelante renvoie au paragraphe 95(2) des Règles qui, à son avis, limite la portée de l’interrogatoire préalable à des recherches raisonnables. Les recherches raisonnables concernant des tiers sont limitées aux affaires de l’appelante. L’appelante soutient que, même si certaines des questions posées par l’intimée concernant les antécédents commerciaux de M. Lemay peuvent être soulevées au procès, elles ne peuvent être soulevées à l’interrogatoire préalable.
+[31] L’appelante soutient également que les questions visant à amener Mme Thauvette à confirmer les allégations formulées par Mme Lemay dans un affidavit dans le cadre d’une procédure de divorce engagée contre M. Lemay ne sont pas pertinentes. Ces questions concernent les affaires personnelles de Mme Lemay et de M. Lemay dans le cadre d’un divorce contesté. En outre, l’appelante soutient que, s’il était répondu à ces questions, les réponses constitueraient du ouï-dire.
+[32] Enfin, l’appelante allègue que l’intimée se livre à une recherche à l’aveuglette pour étayer l’hypothèse du ministre selon laquelle M. Lemay est l’âme dirigeante de l’appelante en posant des questions sur les affaires personnelles de M. Lemay, à savoir ses antécédents commerciaux. L’appelante soutient qu’elle n’a pas à répondre aux questions concernant les affaires personnelles de M. Lemay.
+V. LE DROIT APPLICABLE
+A. LES DISPOSITIONS LÉGALES
+[33] L’article 95 des Règles régit la portée de l’interrogatoire préalable. Cette disposition est libellée ainsi :
+95. Portée de l’interrogatoire
+(1) La personne interrogée au préalable répond, soit au mieux de sa connaissance directe, soit des renseignements qu’elle tient pour véridiques, aux questions pertinentes à une question en litige ou aux questions qui peuvent, aux termes du paragraphe (3), faire l’objet de l’interrogatoire préalable. Elle ne peut refuser de répondre pour les motifs suivants :
+a) le renseignement demandé est un élément de preuve ou du ouï-dire;
+b) la question constitue un contre-interrogatoire, à moins qu’elle ne vise uniquement la crédibilité du témoin
+c) la question constitue un contre-interrogatoire sur la déclaration sous serment de documents déposée par la partie interrogée.
+(2) Avant l’interrogatoire préalable, la personne interrogée doit faire toutes les recherches raisonnables portant sur les points en litige auprès de tous les dirigeants, préposés, agents et employés, passés ou présents, au Canada ou à l’étranger; si cela est nécessaire, la personne interrogée au préalable peut être tenue de se renseigner davantage et, à cette fin, l’interrogatoire préalable peut être ajourné.
+(3) [Abrogé, DORS/2014-26, art. 10]
+(4) Sauf ordonnance contraire de la Cour, une partie qui interroge au préalable peut obtenir la divulgation des noms et adresses des personnes dont on pourrait raisonnablement s’attendre à ce qu’elles aient connaissance des opérations ou des situations en litige en l’instance.
+[34] L’article 110 des Règles prévoit qu’une partie peut demander à la Cour une ordonnance obligeant le représentant à répondre aux questions auxquelles il a refusé de répondre, à fournir des réponses complètes et pertinentes et à répondre aux questions auxquelles elle s’est engagée à répondre. Cet article est rédigé ainsi :
+Sanctions en cas de défaut ou d’inconduite de la personne devant être interrogée
+110. Si une personne ne se présente pas à l’heure, à la date et au lieu fixés pour un interrogatoire dans l’avis de convocation ou le subpœna, ou à l’heure, à la date et au lieu convenus par les parties, ou qu’elle refuse de prêter serment ou de faire une affirmation solennelle, de répondre à une question légitime, de produire un document ou un objet qu’elle est tenue de produire ou de se conformer à une directive rendue en application de l’article 108, la Cour peut :
+a) en cas d’objection jugée injustifiée à une question, ordonner ou permettre à la personne interrogée de se présenter à nouveau, à ses propres frais, pour répondre à la question, auquel cas elle doit répondre aussi aux autres questions légitimes qui découlent de sa réponse;
+b) rejeter ou accueillir l’appel, selon le cas, si cette personne est une partie ou, dans le cas d’un interrogatoire préalable, une personne interrogée à la place ou au nom d’une partie;
+c) radier, en totalité ou en partie, la déposition de cette personne, y compris une déclaration sous serment faite par cette personne;
+d) ordonner à toute partie ou à toute autre personne de payer sans délai et personnellement les dépens de la requête, ceux qui ont été engagés inutilement et ceux de la poursuite de l’interrogatoire.
+B. LA JURISPRUDENCE
+[35] Il existe de nombreuses décisions concernant le but et la portée des interrogatoires préalables. Il n’est pas nécessaire de toutes les examiner : les principes généraux sont bien établis étant donné que leur application entraîne souvent des différends. J’examinerai également des décisions concernant les situations où il est demandé au représentant de fournir de l’information d’un tiers.
+[36] En ce qui concerne le but de l’interrogatoire préalable, la juge Dawson de la Cour d’appel fédérale a déclaré, dans l’arrêt Lehigh Cement Limited [2] , que :
+L’interrogatoire préalable a pour objectif général de favoriser l’équité et l’efficacité de l’instruction en permettant à chacune des parties de se renseigner pleinement, avant l’instruction, sur la nature exacte des positions de toutes les autres parties, de façon à pouvoir définir avec précision les questions qui se posent. Il est dans l’intérêt de la justice que chaque partie soit le mieux informée au sujet des positions des autres parties afin de ne pas être défavorisée en étant surprise à l’instruction. Il est tout à fait approprié pour la Cour d’adopter une démarche libérale face à l’étendue des questions pouvant être posées au cours de l’interrogatoire préalable puisqu’une erreur qui serait commise en autorisant des questions non appropriées peut toujours être corrigée par le juge présidant l’instruction qui décide ultimement de toutes les questions ayant trait à l’admissibilité de la preuve; par ailleurs, toute erreur qui restreindrait indûment l’étendue de l’interrogatoire préalable peut mener à de graves problèmes ou même à des injustices au cours de l’instruction.
+[37] C’est aussi un principe bien connu qu’une question ne peut être posée lors de l’interrogatoire préalable que si elle est pertinente.
+[38] Dans l’arrêt Lehigh Cement Limited, la juge Dawson de la Cour d’appel fédérale a conclu qu’une question est considérée comme pertinente lorsqu’il est possible qu’elle aide la partie qui pose la question, qu’elle serve à réfuter la thèse de la partie adverse ou qu’elle mène à une série de questions qui permettront d’accomplir l’une des deux possibilités précédentes [3] . Toutefois, elle a aussi conclu que, même si la pertinence était établie, la Cour aurait toujours le pouvoir discrétionnaire de refuser de permettre une question [4] . Elle s’est exprimée en ces termes :
+35 Lorsque la pertinence est établie, la Cour conserve le pouvoir discrétionnaire de refuser de permettre une question. Pour exercer ce pouvoir discrétionnaire, il convient de soupeser la valeur possible de la réponse au regard du risque qu’une partie abuse du processus de communication préalable. Voir Bristol-Myers Squibb Co. c. Apotex Inc., au paragraphe 34. La Cour peut refuser d’autoriser une question pertinente lorsque la réponse exigerait trop d’efforts et de dépenses de la part de la partie à laquelle elle est posée, lorsqu’il y a d’autres moyens d’obtenir les renseignements sollicités ou lorsque la question fait partie d’une « recherche à l’aveuglette » de portée vague et étendue : Merck & Co. c. Apotex Inc., 2003 CAF 438, 312 N.R. 273, au paragraphe 10; Apotex Inc. c. Wellcome Foundation Ltd., 2008 CAF 131, 166 A.C.W.S. (3d) 850, au paragraphe 3.
+[39] Dans la décision Kossow [5] , la juge Valerie Miller de notre Cour a présenté un résumé utile des principes applicables à l’interrogatoire préalable. Au paragraphe 60 de sa décision, elle a observé ce qui suit :
+1. Les principes concernant la pertinence des questions ont été énoncés par le juge en chef Bowman et ils sont reproduits au paragraphe 50 :
+a) la question de la pertinence, dans le cadre de l’interrogatoire préalable, doit être interprétée d’une façon large et libérale et il faut accorder une grande latitude;
+b) le juge des requêtes ne doit pas remettre en question le pouvoir discrétionnaire en examinant minutieusement chaque question ou en demandant à l’avocat de la partie interrogée de justifier chaque question ou d’expliquer sa pertinence;
+c) le juge des requêtes ne devrait pas chercher à imposer son opinion au sujet de la pertinence au juge qui entend l’affaire en excluant des questions qu’il estime non pertinentes, mais que ce dernier, dans le contexte de la preuve dans son ensemble, pourrait considérer comme pertinentes;
+d) les questions manifestement non pertinentes ou abusives ou les questions destinées à embarrasser ou à harceler le témoin ou à retarder le procès ne doivent pas être autorisées.
+2. Bien que le critère de la pertinence à l’étape de la communication de la preuve soit très généreux, il ne permet pas une pure « recherche à l’aveuglette » : Lubrizol Corp. c. Compagnie Pétrolière Impériale Ltée, [1997] 2 CF 3.
+3. Il est légitime de poser des questions sur les faits sous-tendant une allégation strictement en vue de prendre en note les faits, mais il n’est pas légitime de chercher à savoir quelle preuve un témoin a à l’appui d’une allégation : Sandia Mountain Holdings Inc. c. La Reine, [2005] 2 CTC 2297.
+4. Il n’est pas légitime de poser une question qui obligerait l’avocat à faire une classification des documents qu’il a produits et de préciser ensuite quels documents se rapportent à une question particulière. Agir ainsi revient en réalité à chercher à obtenir le produit du travail de l’avocat de la partie adverse : SmithKline Beecham Animal Health Inc. c. La Reine, [2001] 2 CTC 2086.
+5. Une partie n’a pas droit à l’expression de l’opinion de l’avocat de la partie adverse quant à l’utilisation pouvant légitimement être faite des documents produits par la partie adverse : SmithKline Beecham Animal Health Inc. c. La Reine, [2001] 2 CTC 2086.
+6. Une partie a droit à la communication intégrale de tous les documents sur lesquels le ministre s’est fondé pour établir sa cotisation : Amp of Canada Ltd., c. Canada, [1987] A.C.F. nº 149.
+7. Le privilège relatif aux indicateurs de police empêche la divulgation de renseignements qui pourraient révéler l’identité d’un informateur qui a fourni une aide en vue d’assurer l’application de la loi en fournissant des renseignements sur des cotisations à titre confidentiel. Ce principe s’applique tant en matières civiles que pénales : Webster c. La Reine, 2003 DTC 211.
+8. Les Règles n’obligent pas une partie à fournir à la partie adverse une liste de témoins. En conséquence, une partie n’est pas tenue de fournir un résumé du témoignage de ses témoins ou de ses témoins éventuels : Loewen c. La Reine, [2007] 1 CTC 2151.
+9. Il est légitime de poser des questions pour déterminer la position juridique de la partie adverse : Six Nations of the Grand River Band c. Canada, [2000] OJ nº 1431.
+10. Il n’est pas légitime de poser des questions qui portent sur le raisonnement suivi par le ministre ou par ses fonctionnaires pour établir une cotisation : Webster c. La Reine, 2003 DTC 211.
+[40] Le juge Campbell Miller dans la décision HSBC [6] , après avoir cité la juge Miller dans Kossow, a également affirmé que les questions hypothétiques qui appellent à des conjectures et à l’expression d’opinions ne devraient pas être posées lors d’un interrogatoire préalable. Il a également ajouté deux principes clés en ce qui concerne l’interrogatoire préalable :
+[traduction]
+1. La partie menant l’interrogatoire a droit « à tout renseignement et à tout document qui peut raisonnablement mener à une série de questions susceptibles, directement ou indirectement, d’étayer sa thèse ou d’infirmer celle de la partie adverse » : Teelucksingh c. La Reine;
+2. La Cour ne devrait interdire que les questions qui « (1) constituent manifestement un abus; (2) sont manifestement dilatoires; (3) sont manifestement sans pertinence » : John Fluevog Boots & Shoes Ltd. c. La Reine;
+[41] De même, le juge en chef Rossiter de notre Cour a affirmé, dans la décision CIBC [7] , que « [l]e seuil de la pertinence à l’étape de l’interrogatoire préalable, quoique peu élevé, ne permet pas une pure “recherche à l’aveuglette”, les questions abusives, les stratégies de temporisation, ni les questions dénuées de toute pertinence » [8] .
+[42] L’expression « recherche à l’aveuglette » a été définie dans la décision Harris [9] , de la façon suivante :
+[45] [...] L’expression « recherche à l’aveuglette » a généralement été utilisée pour décrire une demande non sélective de production de documents, dans l’espoir d’y trouver des renseignements utiles.
+[43] Le juge Mahoney de la Cour fédérale, dans la décision Monarch Marking Systems [10] , s’est fondé sur la définition de l’expression « recherche à l’aveuglette » donnée par Lord Esher dans Hennessy [11] . Lord Esher a déclaré ce qui suit à l’égard de ce qui constitue une recherche à l’aveuglette :
+[traduction] [...] En d’autres termes, le demandeur souhaite maintenir ses questions et insiste pour obtenir des réponses, afin de pouvoir découvrir quelque chose dont il ne sait rien maintenant, qui pourrait lui fournir un moyen valable qu’il ignore totalement pour le moment. Si tel est l’objet des interrogatoires, il me semble qu’ils répondent à la description des interrogatoires « à l’aveuglette » et pour ce motif ne peuvent être autorisés.
+[44] Dans la décision GLP NT [12] , le juge Little de notre Cour, invoquant Sydney Steel Corp. c. Omisalj (Le), [1992] 2 C.F. 193, a déclaré que le bien-fondé des questions posées ne s’évalue pas aussi strictement dans le cadre d’un interrogatoire préalable qu’au cours du procès. Au paragraphe 18 de ses motifs, le juge Nadon cite le passage suivant :
+Les avocats des parties conviennent que le critère relatif au bien-fondé d’une question posée dans le cadre d’un interrogatoire préalable est moins rigoureux que le critère relatif à l’admissibilité de la preuve au procès, et que le critère qu’il convient d’appliquer est de savoir si les renseignements sollicités par une question peuvent être pertinents aux points qui, au stade de l’interrogatoire préalable, sont litigieux dans les actes de procédure déposés par les parties.
+[45] En ce qui concerne les questions posées à l’égard de M. Lemay en tant que tierce partie, l’un des jugements faisant autorité est l’arrêt rendu par la Cour d’appel fédérale dans Crestbrook [13] . Les deux parties invoquent cet arrêt pour étayer leurs thèses.
+[46] L’arrêt Crestbrook portait sur un appel en matière d’impôt sur le revenu. La question en litige était le caractère raisonnable du montant de l’abattement sur le prix de la pâte accordé par Crestbrook à ses deux sociétés actionnaires non résidantes, Honshu et Mitsubishi.
+[47] Dans l’affaire Crestbrook, l’intimée avait posé des questions lors de l’interrogatoire préalable concernant le rôle joué par Honshu et Mitsubishi dans l’établissement de l’abattement. Le représentant dans Crestbrook s’était engagé à répondre aux questions et avait écrit à Honshu et à Mitsubishi pour obtenir des renseignements. Les deux sociétés ont refusé de répondre.
+[48] Le juge en chef Isaac de la Cour d’appel fédérale devait décider si une partie à une action peut être tenue d’obtenir d’actionnaires majoritaires non résidants qui ne sont pas parties à l’action, mais avec lesquels elle a conclu une entente commerciale internationale, les réponses aux questions, posées pendant les interrogatoires préalables, qui sont pertinentes dans le cadre du litige.
+[49] Dans l’arrêt Crestbrook, le juge en chef Isaac a reconnu que la Cour a, dans les cas appropriés, la faculté d’exiger des réponses d’un tiers, mais que la Cour ne devait le faire que s’il est démontré qu’il y va de l’intérêt de l’administration de la justice de faire abstraction de la personnalité morale pour les besoins de l’affaire et exceptionnellement seulement.
+[50] Le juge en chef Isaac a cité la décision Monarch Marking Systems [14] , dans laquelle le juge Mahoney devait trancher une affaire impliquant des parties étrangères où les réponses dont avaient connaissances des sociétés étrangères liées. Le juge Mahoney a contraint les tierces parties à répondre. Il a été d’avis que le représentant était en mesure d’obtenir les renseignements appropriés des sociétés tierces liées. De plus, le juge Mahoney a conclu que la notion de personnalité morale ne devait pas faire obstacle à l’administration de la justice.
+[51] Dans l’arrêt Crestbrook, le juge en chef Isaac a jugé que Honshu et Mitsubishi devaient répondre aux questions. Dans ses motifs, il a énoncé un principe important concernant l’interrogatoire préalable de tiers, à savoir que, si une question est pertinente dans le cadre du litige et qu’elle est définie dans les actes de procédure, il faut y répondre. Au paragraphe 55 de ses motifs, il affirme ce qui suit :
+[...] Encore une fois, ce qui nous intéresse ici est de savoir dans quelle mesure chacune des parties doit informer l’autre afin que les questions soulevées dans les plaidoiries écrites soient examinées en profondeur, pour reprendre les mots du juge Strayer, dans le jugement Champion Truck Bodies Ltd. c. R. (précité). […]
+[52] Dans une décision plus récente portant sur des tiers, GLP NT, précitée, notre Cour a été saisie d’une requête visant à obliger le représentant de l’appelante à répondre aux questions sur les relations et liens entre diverses sociétés qui interagissaient d’une manière ou d’une autre. Les deux parties dans la décision GLP NT ont invoqué l’arrêt Crestbrook.
+[53] Le juge Little a conclu qu’il convenait de répondre aux questions concernant les renseignements relatifs à des tiers. Il était d’avis que les sociétés étaient étroitement liées et que les renseignements pouvaient être utiles à la thèse de l’intimée. Aux paragraphes 26, 27 et 28 de ses motifs, il a tiré la conclusion suivante :
+[26] Je ne souscris pas au point de vue strict adopté par l’avocat de l’appelante et je retiens d’une façon générale les arguments soulevés par l’avocat de l’intimée.
+[27] À mon avis, ce qu’on a appelé le « groupe de sociétés Edper » est lié à l’appelante à un point tel que « dans l’intérêt de la justice », le témoin de l’appelante devrait être contraint à répondre à la majorité des questions susmentionnées.
+[28] En arrivant à cette conclusion, j’ai conclu que les renseignements demandés par l’avocat de l’intimée pourraient être pertinents lorsqu’il s’agit d’établir la position de l’intimée ou de se prononcer sur la position adoptée par l’appelante. Si M. Myhal ne répondait pas à ces questions, l’appel serait un « procès qui constitue une embuscade » qu’un tribunal judiciaire n’autorisera pas. (Voir Elders Grain Co. c. Ralph Misener (Le), C.F. 1re inst., no T-1836-90, 10 novembre 2000, 2000 A.C.F. no 1862).
+[54] Dans la décision GLP NT, le juge Little ne s’est pas fondé sur l’approche de l’alter ego pour obliger l’appelante à obtenir des renseignements de tiers. Il s’est plutôt appuyé sur le fait que l’appelante était liée aux tierces parties, que les questions étaient pertinentes et que l’intérêt de la justice serait servi puisqu’on éviterait un procès qui constituerait une embuscade.
+[55] Dans la décision Michelin North America [15] , la juge Tremblay‑Lamer, s’appuyant sur la décision Eli Lilly c. Apotex, [2000] A.C.F. no 154, rendue par le juge Hughessen, a également conclu que l’appelante devait fournir des renseignements à un tiers lié.
+[56] Enfin, en conclusion de ce survol des décisions concernant des tiers, le juge en chef Rossiter de notre Cour, dans la décision CIBC, précitée, a également ordonné à la CIBC de fournir des renseignements provenant d’un tiers, puisque la question était pertinente dans le cadre du litige et définie dans les actes de procédure.
+[57] De ces précédents, il est clair que le contribuable n’a pas à être l’alter ego du tiers pour être tenu de fournir des renseignements de ce dernier.
+[58] Par conséquent, depuis l’arrêt Crestbrook, les tribunaux ont obligé des contribuables à répondre aux questions visant des renseignements de tiers si les renseignements recherchés sont pertinents par rapport à la question en litige, concernent les questions définies dans les actes de procédure et s’il y va de l’intérêt de l’administration de la justice de le faire.
+[59] Cela dit, la jurisprudence reconnaît des limites à ce qui peut être demandé. Comme nous l’avons déjà mentionné, la pertinence est la principale limite, mais il y en a d’autres. Il n’est pas nécessaire de répondre aux questions qui sont vagues, hypothétiques, larges, excessives, abusives. Il n’est pas non plus nécessaire de répondre aux questions qui constituent une recherche à l’aveuglette. Également, il n’est pas nécessaire de répondre aux questions dans les cas où la réponse exigerait trop d’efforts et de dépenses de la part du répondant.
+VI. ANALYSE
+[60] J’analyserai en premier lieu les principaux motifs opposés par l’appelante pour refuser de répondre à certaines des questions posées par l’intimée lors de l’interrogatoire préalable de Mme Thauvette. J’analyserai en deuxième lieu chaque question à laquelle l’appelante a refusé de répondre.
+A. ANALYSE GÉNÉRALE
+[61] Le principal motif opposé par l’appelante lors de l’interrogatoire préalable est fondé sur la pertinence. L’appelante soutient que les questions de l’intimée ne sont pas pertinentes dans le cadre des questions en litige dans l’appel.
+[62] S’appuyant sur l’arrêt Crestbrook, l’appelante soutient que son représentant n’a pas à répondre aux questions relatives aux antécédents commerciaux de M. Lemay puisqu’il n’est pas partie à l’appel, étant un tiers. L’appelante soutient que les faits du présent appel se distinguent de ceux de l’arrêt Crestbrook. Contrairement à Crestbrook, où le juge en chef Isaac a conclu que la société appelante était contrôlée par Honshu et Mitsubishi, ce n’est pas le cas en l’espèce. M. Lemay détient une participation minoritaire dans l’appelante. On ne peut pas non plus affirmer que l’appelante était l’alter ego de M. Lemay comme c’était le cas dans l’arrêt Crestbrook. Toujours en invoquant l’arrêt Crestbrook, l’appelante soutient qu’un tribunal peut exiger d’un représentant qu’il réponde à des questions à l’égard d’un tiers, mais seulement dans des circonstances exceptionnelles. Elle soutient qu’il n’y a pas de circonstances exceptionnelles dans le présent appel qui permettraient à la Cour de faire abstraction de la personnalité morale. Elle soutient également qu’aucun élément de preuve n’étaye l’hypothèse de fait du ministre selon laquelle M. Lemay était l’âme dirigeante de l’appelante et des autres sociétés, en d’autres termes, qu’il contrôlait l’appelante. À son avis, le ministre s’est appuyé sur des affidavits faits par Mme Lemay dans le cadre d’une procédure de divorce, ce qui constitue du ouï-dire. Par conséquent, les questions posées par l’intimée au sujet des résidences pour personnes âgées qui n’ont jamais appartenu à l’appelante ne sont pas pertinentes. De l’avis de l’appelante, ces questions constituent une recherche à l’aveuglette.
+[63] L’intimée aussi s’appuie sur l’arrêt Crestbrook, faisant valoir que les questions sont pertinentes puisque le ministre a supposé dans les actes de procédure que M. Lemay était l’âme dirigeante de l’appelante et des autres sociétés qui détenaient et vendaient des résidences pour personnes âgées.
+[64] Je souscris à la thèse de l’intimée. Bien que j’accepte que l’appelante ne soit pas l’alter ego de M. Lemay, l’affaire n’est pas pour autant réglée. Comme je l’ai mentionné précédemment, de nombreuses décisions ont autorisé que des renseignements soient demandés à un tiers sans que l’appelante soit considérée comme étant l’alter ego du tiers. Comme le juge Little l’a mentionné dans la décision GLP NT, un représentant devrait obtenir les renseignements nécessaires pour répondre à des questions relatives à un tiers si ces questions sont pertinentes par rapport aux questions en litige, si le tiers est lié à l’appelant et si cela sert les intérêts de l’administration de la justice.
+[65] Il est bien établi par la jurisprudence de la Cour d’appel fédérale et de notre Cour que, dans les cas où la question en litige consiste à déterminer si la somme en cause doit être considérée comme un revenu ou un gain en capital, les antécédents commerciaux des actionnaires sont pertinents pour établir l’intention du contribuable.
+[66] Par exemple, dans la décision Roseland Farms Ltd c. Canada [16] , la juge Sharlow a déclaré :
+23 Il incombe au contribuable de réfuter l’hypothèse factuelle sur laquelle se fonde un avis de cotisation : Johnston v. Canada (Minister of National Revenue), [1948] R.C.S. 486. Le fardeau de la preuve ne revient à la Couronne que dans le cas où les éléments de preuve présentés contredisent l’hypothèse. Par conséquent, une cotisation fondée sur une hypothèse factuelle doit être maintenue, à moins qu’il n’existe des éléments de preuve réfutant cette hypothèse. L’avocat de la demanderesse a cité plusieurs décisions qui iraient dans le sens contraire, mais ces décisions sont toutes antérieures à l’arrêt Johnston, précité. En l’espèce, il incombait à la demanderesse de présenter des éléments de preuve pour contredire l’hypothèse factuelle avancée par la Couronne, suivant laquelle la perspective de revendre la terre à profit constituait un motif déterminant de son acquisition.
+24 L’intention d’une société est révélée par celle des personnes physiques qui en assument la gestion et la direction : Metropolitan Motels Corporation v. Minister of National Revenue (1966), 66 D.T.C. 5208, [1966] C.T.C. 246 (C.F. 1re inst.); Leonard Reeves Inc. c. Ministre du Revenu national (1985), 85 D.T.C. 419, [1985] 2 C.T.C. 2054 (C.C.I.). En ce qui concerne les sociétés à grand nombre d’actionnaires, l’intention requise pourrait être celle d’un cadre ou celle d’un groupe de cadres ou d’administrateurs ayant pris la décision quant à l’achat. Toutefois, l’intention dans le cas d’une société à peu d’actionnaires se manifeste normalement par l’intention de ses actionnaires.
+25 En l’espèce, il ressort clairement de la preuve présentée par M. MacKay que ce sont les actionnaires qui sont à l’origine de la décision de faire acheter la terre agricole par la demanderesse. Les démarches que M. MacKay et les autres administrateurs ont entreprises relativement à l’acquisition et à la vente du bien immobilier visaient seulement à exécuter les directives provenant des actionnaires.
+[Non souligné dans l’original.]
+[67] Plus récemment, dans la décision Von Reality Limited [17] , le juge Pizzitelli de notre Cour a déclaré que « [l]’intention du seul président et actionnaire de l’appelante, M. Patrick Harrison, est l’intention pertinente qu’il faut imputer à l’appelante, comme le serait l’intention du conseil d’administration, des actionnaires, des âmes dirigeantes et des autres personnes jugées comme ayant la maîtrise d’une société aux fins de la Loi ». Il a ajouté : « Il est évident que ce n’est qu’au moyen des décisions et mesures prises par ces personnes qu’une personne morale peut s’exprimer. »
+[68] Même si M. Lemay n’est pas partie à l’appel, il est actionnaire et président de l’appelante. Une société ne peut agir que par l’intermédiaire de ses dirigeants et de ses actionnaires. Dans des affaires commerciales, afin de déterminer l’intention d’une société, les antécédents commerciaux d’un actionnaire majoritaire seront pris en compte.
+[69] À mon avis, les questions relatives aux antécédents commerciaux de M. Lemay sont pertinentes. M. Lemay, actionnaire et président de l’appelante, est lié à cette dernière. L’intimée a soutenu qu’il est l’âme dirigeante de l’appelante et des autres sociétés impliquées dans la construction et la vente de résidences pour personnes âgées. L’appelante ne peut empêcher l’intimée de poser des questions sur les faits invoqués dans les actes de procédure en déclarant qu’elle n’est pas d’accord avec les hypothèses de fait retenues par le ministre ou la position défendue par l’intimée dans sa réponse à l’avis d’appel. À mon avis, les questions sont pertinentes et il faut y répondre.
+[70] Selon moi, contrairement à l’affirmation de l’appelante, ces questions ne constituent pas une recherche à l’aveuglette puisqu’elles sont pertinentes dans le cadre du litige et sont définies dans les actes de procédure.
+[71] L’appelante soutient également que les questions portant sur les antécédents commerciaux des actionnaires pourraient être pertinentes pour les besoins de l’instance, mais non ceux de l’interrogatoire préalable. Je ne puis souscrire à cette observation. Comme je l’ai mentionné au paragraphe 44 des présents motifs, le critère de pertinence applicable à la question posée lors de l’interrogatoire préalable est extrêmement large et moins rigoureux que celui applicable au cours de l’instance.
+[72] L’appelante soutient par ailleurs que les questions relatives aux affidavits de Mme Lemay sont sans pertinence parce que ceux-ci constituent du ouï-dire par une personne non disponible pour le contre-interrogatoire, puisque Mme Lemay est décédée. De plus, l’appelante affirme que Mme Lemay a déclaré dans ses affidavits que son ex-époux, M. Lemay, était un actionnaire majoritaire, bien que cette déclaration soit contredite par le registre des actionnaires. L’appelante soutient également que les faits contenus dans les affidavits de Mme Lemay sont antérieurs à l’acquisition, au développement et à l’exploitation de la résidence pour personnes âgées « Stonehaven Manor » en 2003-2004. Par conséquent, ces questions ne sont pas pertinentes dans le cadre du présent appel.
+[73] L’appelante s’appuie également sur l’arrêt Remo Imports Ltd. c. Jaguar Canada Inc., [2000] A.C.F. no 406 (QL), rendu par la Cour fédérale du Canada, pour refuser de répondre aux questions relatives aux antécédents commerciaux de M. Lemay. Dans ses observations écrites, au paragraphe 39, elle fait valoir ce qui suit :
+[traduction] La Cour fédérale a précisé que le bien-fondé des questions posées lors de l’interrogatoire préalable doit être déterminé en fonction de leur pertinence par rapport aux faits allégués dans la déclaration censés constituer la cause de l’action plutôt qu’en fonction de leur pertinence par rapport aux faits qu’une partie a l’intention d’établir pour démontrer les faits constituants la cause d’action. Ce principe s’applique en l’espèce : la vente de résidences pour personnes âgées par des tiers dans lesquelles M. Lemay détiendrait un intérêt est alléguée comme preuve que l’appelante fait le commerce de résidences pour personnes âgées. Le ministre cherche à prouver ces faits afin d’établir que les activités du contribuable consistaient à vendre à profit des résidences pour personnes âgées, notamment Stonehaven.
+[74] L’intimée fait valoir que ces questions sont pertinentes puisqu’elles sont fondées sur les actes de procédure. Il y est allégué que M. Lemay est l’âme dirigeante de l’appelante et des autres sociétés mentionnées dans la réponse à l’avis d’appel déposée par l’intimée. M. Lemay est actionnaire, dirigeant et employé de l’appelante.
+[75] Aux termes de l’alinéa 95(1)a) des Règles, une partie ne peut pas refuser de répondre à une question au motif que les renseignements demandés sont du ouï-dire. La décision Remo Imports Ltd. ne s’applique pas étant donné que l’intimée a écrit dans sa réponse à l’avis d’appel que M. Lemay était l’âme dirigeante de l’appelante et des autres sociétés qui ont construit et vendu les résidences pour personnes âgées. L’appelante n’a pas demandé que les paragraphes traitant de ces faits concernant M. Lemay soient radiés. Les faits antérieurs à la résidence pour personnes âgées « Stonehaven Manor » sont pertinents puisque, comme je l’ai déjà mentionné, les antécédents commerciaux de l’actionnaire sont pertinents dans des affaires commerciales. Dans l’arrêt Crestbrook, le juge en chef McIsaack a précisé qu’il n’y avait pas lieu de faire de distinction entre les événements qui étaient antérieurs et ceux qui étaient postérieurs aux faits ayant donné lieu au litige. À la lumière de ces principes, j’analyserai les questions suivantes.
+B. ANALYSE DES QUESTIONS AUXQUELLES L’APPELANTE N’A PAS RÉPONDU
+[76] Le premier groupe de questions, à savoir les questions 41, 46, 92, 215 et 396, concerne les antécédents commerciaux de M. Lemay.
+[77] Le deuxième groupe de questions, soit les questions 174, 182, 198, 202, 203, 205, 210 et 213, concerne les affidavits faits par Mme Lemay dans le cadre d’une procédure de divorce contestée engagée contre M. Lemay.
+Premier groupe de questions
+[78] Question 41 : L’intimée a demandé si la déclaration faite par M. Gilles Gratton, comptable agréé, dans une lettre du 5 août 2003 à Me Julius Dawn, avocat de Mme Lemay, « représente bien la politique de Monsieur Lemay relativement aux résidences ».
+[79] Le paragraphe 3 de cette lettre du 5 août 2003 est rédigé ainsi :
+[traduction] Les transactions bancaires de 171218 Canada Inc. et de 1323456 Canada Ontario Inc. confirment le fait que des fonds sont investis dans les divers projets de résidence pour personnes âgées et que, lorsque le flux de trésorerie de ces projets devient positif ou lorsque ces projets permettent un financement externe, les fonds investis sont récupérés, majorés des intérêts y afférents, permettant ainsi à M. Lemay de disposer d’un flux de trésorerie pour ses besoins personnels, sans épuiser ses capitaux propres, car la valeur du fonds commercial augmente lorsqu’un flux de trésorerie additionnel est généré. Les états financiers suivants montrent des réductions des avances d’actionnaires grâce au financement externe :
+1) 1278545 Ontario Inc. au 31 mars 1998
+2) 898646 Ontario Inc. au 31 juillet 1996
+3) 1301867 Ontario Inc. au 31 mars 2003
+[80] La représentante de l’appelante a répondu à la question concernant les résidences pour personnes âgées appartenant à l’appelante. Elle a déclaré que le paragraphe 3 de la lettre du 5 août 2003 ne représentait pas la politique de l’appelante relativement aux résidences pour personnes âgées. Toutefois, elle a refusé de préciser si la déclaration au paragraphe 3 représentait la politique habituelle de M. Lemay à l’égard des autres résidences pour personnes âgées. L’appelante allègue que les questions portant sur les intentions de M. Lemay ne sont pas des questions pertinentes, car il n’est pas l’appelante. Elle fait également valoir que la lettre a été rédigée par M. Gratton dans le contexte de la procédure de divorce contestée entre M. Lemay et Mme Lemay.
+[81] L’intimée soutient que la question est pertinente puisque le ministre, lorsqu’il a établi la cotisation de l’appelante, a considéré que M. Lemay était l’âme dirigeante de l’appelante et des autres sociétés qui ont construit et vendu des résidences pour personnes âgées comme il est indiqué dans la réponse à l’avis d’appel
+[82] J’obligerai l’appelante à répondre à la question seulement dans la mesure où elle se rapporte à une partie de la déclaration figurant au paragraphe 3, à savoir [traduction] « [l]es transactions bancaires de 171218 Canada Inc. et de 1323456 Canada Ontario Inc. confirment le fait que des fonds sont investis dans les divers projets de résidence pour personnes âgées et que, lorsque le flux de trésorerie de ces projets devient positif ou lorsque ces projets permettent un financement externe, les fonds investis sont récupérés, majorés des intérêts y afférents ». Cette déclaration est pertinente à l’égard des antécédents commerciaux de M. Lemay, alors que le reste du paragraphe 3 porte sur les affaires personnelles de M. Lemay.
+[83] Question 46 : « Est-ce que vous pouvez prendre l’engagement de communiquer avec Monsieur Lemay et lui demander si Monsieur Gratton était son comptable, puis si à ce moment‑là, au moment de l’écriture de la lettre du 5 août 2003, s’il agissait bien pour le compte de Monsieur Réjean Lemay? »
+[84] L’appelante soutient que la lettre du 5 août 2003 a été préparée dans le cadre d’une procédure de divorce. Elle ne concerne pas l’appel en l’espèce, mais plutôt les affaires personnelles de M. Lemay. Selon l’appelante, il n’est pas pertinent en l’espèce que M. Gratton soit ou non le comptable de M. Lemay.
+[85] À mon avis, cette question n’est pas pertinente. La question de savoir si M. Gratton était le comptable de M. Lemay en 2003 porte sur les affaires personnelles de M. Lemay et n’a rien à voir avec l’entreprise de l’appelante et les questions en litige dans l’appel. Ce renseignement n’aurait pas aidé l’intimée à étayer sa thèse ni à infirmer celle de son adversaire. La question ne vise pas non plus à obtenir des renseignements qui pourraient raisonnablement mener à une série de questions susceptibles d’avoir l’une ou l’autre de ces conséquences.
+[86] Question 92 : Communiquer avec M. Lemay pour lui demander quel était l’objet de la société 1323456 Ontario Inc.
+[87] Selon l’appelante, 1323456 Ontario Inc. n’est pas l’appelante, mais plutôt une actionnaire de celle-ci.
+[88] L’intimée soutient que la question est pertinente compte tenu des actes de procédure. L’intimée affirme également que M. Lemay serait l’âme dirigeante de l’appelante et des autres sociétés, et qu’il contrôle 1323456 Ontario Inc.
+[89] Je suis d’accord avec l’intimée : la question 92 est pertinente. La question vise à obtenir des renseignements sur le but de 1323456 Ontario Inc. Cette société est une société qui appartient intégralement à M. Lemay et qui détient des actions de l’appelante. La question est pertinente, car les renseignements demandés pourraient aider l’intimée à étayer sa thèse ou à infirmer celle de son adversaire, ou bien pourrait raisonnablement mener à une série de questions susceptibles d’avoir l’une ou l’autre de ces conséquences.
+[90] Question 215 : Au sujet des projections financières à l’égard de la résidence « Belcourt Manor » : « Est-ce que vous pourriez les produire? »
+[91] L’appelante affirme que les prévisions financières de la résidence pour personnes âgées « Belcourt Manor » dépassent le cadre du présent appel. L’appelante fait également valoir que l’intimée tente d’obtenir des renseignements dont elle n’a aucune connaissance dans l’espoir d’étayer sa thèse. Elle affirme que l’intimée tente de montrer que l’appelante a déjà acquis et développé une résidence pour personnes âgées dans l’intention de la vendre à profit. Elle soutient que la question n’est pas pertinente quant à son intention d’acquérir et de développer la résidence pour personnes âgées visée par l’appel, à savoir la résidence pour personnes âgées « Stonehaven ». La question constitue donc une recherche à l’aveuglette.
+[92] L’intimée soutient que la question est pertinente et que les faits concernant la résidence pour personnes âgées « Belcourt Manor » ont été invoqués dans les actes de procédure. Elle soutient également que la question est pertinente parce qu’elle se rapporte aux activités commerciales de l’appelante et de M. Lemay.
+[93] Les faits concernant la résidence pour personnes âgées « Belcourt Manor » se trouvent dans les actes de procédure de l’appelante et de l’intimée. Les fonds tirés de la vente de la résidence pour personnes âgées « Belcourt Manor » ont servi à acquérir le terrain sur lequel la résidence pour personnes âgées « Stonehaven Manor » a été construite par la suite. Étant donné que la question peut être pertinente dans le contexte de la preuve dans son ensemble, je l’autoriserai, compte tenu du critère peu rigoureux s’appliquant aux questions lors de l’interrogatoire préalable.
+[94] Question 396 : « Alors, si on peut recommencer. Maintenant j’aimerais qu’on parle des autres résidences qui sont mentionnées dans la réponse à l’avis d’appel qu’on n’a pas encore traitée, puis de passer [aux] faits qui sont énoncés [dans] la réponse. »
+[95] Selon l’appelante, l’intimée n’a pas le droit de poser de questions à l’égard de transactions concernant des résidences pour personnes âgées dont M. Lemay était actionnaire, directement ou par l’intermédiaire d’une société. M. Lemay n’est pas l’appelante, mais un tiers. M. Lemay n’a jamais contrôlé les sociétés qui détenaient ces résidences pour personnes âgées. L’appelante n’a jamais été partie à ces transactions et n’a jamais détenu de participation dans ces résidences. Par conséquent, les questions ne sont pas pertinentes.
+[96] L’intimée soutient que les transactions de vente relatives à chaque résidence pour personnes âgées dont M. Lemay était actionnaire sont pertinentes et soulevées dans les actes de procédure. L’intimée a donc le droit de poser des questions au sujet des transactions impliquant des sociétés dont M. Lemay était actionnaire, soit directement, soit par l’intermédiaire d’une autre société.
+[97] Je suis d’avis qu’il faut répondre à ces questions. Elles sont pertinentes dans le cadre de l’appel. Les questions portent sur les activités commerciales d’un particulier qui est actionnaire et président de l’appelante. Comme je l’ai mentionné dans mon analyse, l’intention des actionnaires est pertinente, car elle sert à déterminer l’intention de la société contribuable dans des affaires commerciales. Dans ses actes de procédure, l’intimée a considéré que M. Lemay était l’âme dirigeante du contribuable à l’égard de la résidence pour personnes âgées « Stonehaven Manor » et des autres résidences pour personnes âgées. Comme je l’ai déjà indiqué, l’appelante ne peut empêcher l’intimée de poser des questions sur des faits allégués simplement en disant qu’elle ne souscrit pas à la thèse de l’intimée selon laquelle M. Lemay était l’âme dirigeante de l’appelante et des autres sociétés. L’appelante doit répondre à ces questions.
+Deuxième groupe de questions
+[98] Question 174 : Confirmer si, pendant son mariage avec Mme Lemay en 1989, M. Lemay détenait des participations minoritaires dans un certain nombre de résidences pour personnes âgées avec Mme Lemay.
+[99] Au paragraphe 10 de son affidavit daté du 5 juin 2002, Mme Lemay a déclaré ceci :
+[traduction] Au cours du mariage, [...] nous détenions une participation minoritaire dans chacun de ces projets avec trois autres sociétés qui sont des investisseurs sans lien de dépendance.
+[100] L’appelante soutient que M. Lemay n’est pas son alter ego. Par conséquent, elle affirme que l’avocat de l’intimée mène une recherche à l’aveuglette et outrepasse les limites d’un interrogatoire approprié.
+[101] Il n’est pas nécessaire de répondre à la question 174. La question de savoir si M. Lemay détenait une participation minoritaire dans un certain nombre de résidences pour personnes âgées avec Mme Lemay n’est pas pertinente dans le cadre de l’appel. Mme Lemay n’est pas actionnaire et n’a rien à voir avec l’appelante. Ce renseignement ne permettrait pas à l’intimée, directement ou indirectement, d’étayer sa thèse ou d’infirmer celle de l’appelante, ni ne pourrait raisonnablement mener à une série de questions susceptibles d’avoir l’une ou l’autre de ces conséquences.
+[102] Question 182 : Confirmer que M. Lemay était la personne qui contrôlait les résidences pour personnes âgées « Pembroke Heritage Manor », « Belcourt Manor » et « Barrhaven Manor ».
+[103] Le représentant de l’appelante a répondu que M. Lemay ne contrôlait pas la résidence pour personnes âgées « Belcourt Manor », mais a refusé de répondre à l’égard des autres résidences.
+[104] J’autoriserai la question concernant les autres résidences puisqu’elle porte sur les antécédents commerciaux de M. Lemay. Les faits concernant ces résidences pour personnes âgées sont présentés dans la réponse à l’avis d’appel déposée par l’intimée.
+[105] Question 198 :
+1. Confirmer que M. Cuerrier est un ami proche de M. Lemay et que M. Potvin est un ami depuis l’école secondaire.
+2. Préciser la thèse de l’appelante, à savoir s’il s’agissait d’une opération entre des parties, soit M. Lemay, M. Potvin et M. Cuerrier, ayant un lien de dépendance.
+[106] La question de savoir si M. Cuerrier et M. Poitvin sont des amis de M. Lemay n’est pas pertinente. Même s’ils étaient amis, cela ne signifierait pas qu’ils ont agi de concert. Quoi qu’il en soit, comme l’a mentionné l’appelante, le ministre considère que M. Lemay est l’âme dirigeante du contribuable. L’intimée n’a pas fait valoir dans les actes de procédure que M. Lemay avait agi de concert avec M. Cuerrier et M. Potvin. Il n’est pas nécessaire de répondre à cette question.
+[107] Il n’est pas nécessaire de répondre à la question de savoir si M. Lemay, M. Potvin et M. Cuerrier avaient un lien de dépendance. Il est légitime de poser des questions sur les faits sous-tendant une allégation, mais les questions doivent se limiter à l’établissement des faits. L’intimée demande que soit tirée une conclusion de droit. De plus, la question du lien de dépendance n’a pas été soulevée dans les actes de procédure.
+[108] Question 202 : Indiquer si l’appelante est d’accord avec l’allégation faite par Mme Lemay dans son affidavit le 11 novembre 2002 selon laquelle, [traduction] « pendant le développement de ces projets, mon mari a constitué quatorze sociétés à numéro différentes, constituées sous le régime des lois fédérales ou provinciales, pour agir à titre de sociétés exploitantes et de sociétés de portefeuille détenant ma participation et celle de mon mari dans ces projets de développement ».
+[109] Dans la réponse à l’avis d’appel, le ministre, en établissant une nouvelle cotisation à l’égard de l’appelante, a formulé l’hypothèse de fait voulant que M. Lemay, par l’entremise de ses sociétés de portefeuille, détenait des actions dans des sociétés qui à leur tour détenaient des actions dans des résidences pour personnes âgées. Les faits concernant ces sociétés de portefeuille ont été allégués par l’intimée. La question 202 porte sur les activités de M. Lemay en ce qui concerne les résidences pour personnes âgées et peut être pertinente dans le contexte du procès. Il faut répondre à la question.
+[110] Question 203 : Indiquer si l’appelante est d’accord avec Mme Lemay selon laquelle [traduction] « la structure d’entreprise pour ces placements a toujours été plus ou moins la même. Les mêmes personnes étaient toujours impliquées, et, ensemble avec leurs conjoints, occupaient les fonctions de dirigeants, d’administrateurs et d’actionnaires. Les conjoints étaient toujours des “partenaires silencieux” servant à optimiser le partage du revenu et les avantages en matière de planification fiscale. Quelle que soit la structure du capital-actions, dans chaque projet, mon mari était l’actionnaire majoritaire, le président et directeur général. »
+[111] L’appelante doit dire si elle est d’accord avec les faits énoncés dans la première, la deuxième et la dernière phrase de la question. Il n’est pas nécessaire de répondre à la phrase commençant par « [l]es conjoints étaient toujours des “partenaires silencieux” », car elle concerne les affaires personnelles de M. Lemay et n’est donc pas pertinente pour les questions en litige en appel.
+[112] Question 205 : « Indiquer si l’appelante est d’accord avec la déclaration de Mme Lise Lemay dans son affidavit de novembre 2002 selon laquelle, [traduction] « tout au long du mariage, mon mari était l’âme dirigeante qui a orchestré tous les arrangements financiers et corporatifs de notre entreprise familiale de développement de projets de résidence pour personnes âgées ».
+[113] Je suis d’accord avec l’appelante pour dire que la question est trop vague pour qu’on puisse y répondre en raison du manque de clarté de l’expression [traduction] « entreprise familiale ».
+[114] Question 210 : La question 210 comporte deux volets. Je commencerai par la première partie, à savoir la question portant sur les paragraphes 22, 25 et 29 de l’affidavit de Mme Lemay du 11 novembre 2002.
+[115] Aux paragraphes 22, 25 et 29 de son affidavit, Mme Lemay déclare avoir demandé à son avocat d’effectuer une recherche dans les registres de sociétés au sujet des résidences pour personnes âgées « Belcourt Manor » (paragraphe 22) et « Pembroke Heritage Manor » (paragraphe 25) et de la société 1394824 Ontario Inc. (paragraphe 29). Les paragraphes 22, 25 et 29 présentent le résultat de cette recherche effectuée par l’avocat de Mme Lemay à l’égard des résidences pour personnes âgées susmentionnées.
+[116] Après s’y être engagée, l’appelante a fourni à l’intimée la structure du capital-actions de la résidence pour personnes âgées « Belcourt Manor », mais a refusé de le faire pour les deux autres résidences. L’appelante est d’avis que la question de savoir si l’appelante est d’accord avec le résultat de la recherche à l’égard de la résidence « Pembroke Heritage Manor » et de la société 1394824 Ontario Inc. n’est pas pertinente puisque l’appelante n’a jamais détenu d’actions de ces sociétés. L’intimée affirme qu’elle est pertinente pour établir les activités commerciales de M. Lemay et que les faits concernant ces résidences ont été allégués dans la réponse à l’avis d’appel.
+[117] Dans l’arrêt Six Nations of the Grand River Band [18] , la juge Dawson de la Cour d’appel fédérale a soutenu que l’on peut refuser d’autoriser une question lorsqu’il existe d’autres moyens d’obtenir les renseignements recherchés. L’intimée peut facilement effectuer une recherche dans les registres à l’égard de chaque société. Par conséquent, l’appelante n’a pas à confirmer si les renseignements contenus dans l’affidavit de Mme Lemay reflètent fidèlement les recherches effectuées sur les sociétés.
+[118] Dans la deuxième partie de la question 210, l’intimée demande à l’appelante de dire si elle est d’accord avec le paragraphe 26 de l’affidavit de Mme Lemay du 11 novembre 2002.
+[119] Au paragraphe 26 de son affidavit de novembre, Mme Lemay déclare ceci : [traduction] « [M]on mari est le président de cette société (Pembroke Heritage Manor) et les dirigeants sont Robert Lemay et Paul Cuerrier. Ce sont les mêmes amis et parents qui étaient co-investisseurs dans les autres résidences pour personnes âgées qui ont été construites pendant le mariage. »
+[120] L’appelante n’a qu’à répondre à la première partie de la déclaration énoncée au paragraphe 26, étant donné qu’elle est pertinente pour établir les activités commerciales de M. Lemay, mais elle n’a pas besoin de confirmer le reste de la déclaration puisque ce n’est pas pertinent dans le cadre du litige.
+[121] Question 213 : Confirmer le paragraphe 30 de l’affidavit de Mme Lemay, dans lequel elle déclare que [traduction] « la maîtresse de mon mari ne peut puiser dans ses ressources personnelles pour investir dans ces projets de développement résidentiel de plusieurs millions de dollars. Cette tendance à utiliser un conjoint comme administrateur et actionnaire sur papier correspond à ce que mon mari a toujours fait en affaires au cours de notre mariage. On m’a informée que, selon les modalités de l’accord de séparation, l’actif de la maîtresse de mon mari ne s’élevait qu’à 20 000 $ en 1999. »
+[122] Cette question n’est pas pertinente. Elle porte sur les affaires personnelles de M. Lemay et n’a rien à voir avec les questions en litige.
+Autres questions
+[123] Question 394 : « Confirmer si M. Guglielmelli était impliqué dans la vente de Belcourt, et si oui, quelle était l’étendue de son implication, et s’il y avait une entente, la fournir. »
+[124] L’appelante a répondu que M. Guglielmelli a participé à la vente de la résidence pour personnes âgées « Belcourt Manor », mais elle n’a pas été en mesure de trouver une convention écrite. L’intimée soutient que cette réponse ne satisfait pas à l’engagement pris. L’appelante a répondu en disant qu’elle avait fait de son mieux.
+[125] Conformément à l’article 95 des Règles, le représentant de l’appelante doit répondre aux questions au mieux de sa connaissance. J’accepte que l’appelante a fait de son mieux.
+[126] Les parties ont fait savoir à la Cour que les questions 47, 87, 246, 391 et 607 ne sont plus en litige.
+VII. DÉCISION
+[127] La requête est accueillie en partie. L’appelante devra répondre aux questions 41, 92, 182, 202, 203, 210, 215 et 396, conformément aux présents motifs.
+[128] Une conférence téléphonique aura lieu pour établir la façon de procéder et fixer les délais.
+[129] Les dépens suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 31e jour d’août 2016.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 26e jour de juin 2018.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2016 CCI 189
+No DU DOSSIER DE LA COUR :
+2014-2383(GST)G
+2014-2385(IT)G
+INTITULÉ :
+1716790 ONTARIO INC. c. LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 29 janvier 2016
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Johanne D’Auray
+DATE DE L’ORDONNANCE :
+Le 31 août 2016
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Paul C. Labarge
+Me Anne M. Tardif
+Avocat de l’intimée :
+Me Pascal Tétrault
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Paul C. Labarge
+Me Anne M. Tardif
+Cabinet :
+LaBarge Weinstein LLP
+Caza Saikely LLP
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] DORS/90-688.
+[2] Canada c. Lehigh Cement Limited, 2011 CAF 120, au paragraphe 30.
+[3] Ibid, au paragraphe 34.
+[4] Ibid, au paragraphe 35.
+[5] Kossow c. La Reine, 2008 CCI 422.
+[6] Banque HSBC Canada c. La Reine, 2010 CCI 228.
+[7] Banque canadienne impériale de commerce c. La Reine, 2015 CCI 280.
+[8] Ibid.
+[9] Harris c. La Reine, 2001 CFPI 498, [2001] A.C.F. no 782 (QL).
+[10] Monarch Marking Systems Inc. c. Esselte Meto Ltd, [1984] 1 C.F. 641 (1ère instance).
+[11] Hennessy c. Wright No. 2, [(1888), 24 Q.B.D. 445 (C.A.), à la page 448].
+[12] GLP NT Corporation (autrefois Varitech Investors Corporation) c. La Reine, 2004 CCI 738.
+[13] Crestbrook Forest Industries Limited c. Canada, [1993] 3 C.F. 251 (C.A.F.). L’autorisation d’interjeter appel devant la Cour suprême du Canada a été refusée.
+[14] Précitée, note 10.
+[15] Michelin North America (Canada) Inc. c. 9130 Québec Inc. (D.B.A. Distribution Nortop), 2008 CF 1101.
+[16] [1999] A.C.F. no 348 (QL) (C.F. 1ère inst.). Confirmée par la CAF : 2001 CAF 167. L’autorisation d’interjeter appel à la Cour suprême du Canada a été refusée : [2001] C.S.C.R. no 377 (QL).
+[17] Von Reality Limited c. La Reine, 2011 CCI 345, au paragraphe 20.
+[18] Six Nations of the Grand River Band c. Canada (Attorney General), [2000] O.J. no 1431.

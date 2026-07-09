@@ -1,0 +1,216 @@
+---
+title: "Wayne et Cozart c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28276/index.do"
+last_modified: "2007-04-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 528"
+citation2: ""
+neutral_citation: "2007 CCI 528"
+decision_date: "2007-04-02"
+language: "fr"
+item_id: "28276"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1860
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:49:33.541000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7674931fd6c097557c2e9cc91af9611c408299b63aaf6b5a01e1e864ac9c9816"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wayne et Cozart c. M.R.N.
+
+- Citation: 2007 CCI 528
+- Decision date: 2007-04-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1860, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wayne et Cozart c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-02
+Référence neutre
+2007 CCI 528
+Numéro de dossier
+2006-2975(CPP)
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2006-2975(CPP)
+ENTRE :
+R. WAYNE ET ELAINE COZART,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DENNIS FOULSTON,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+R. Wayne et Elaine Cozart (2006-2976(EI))
+le 6 juin 2007, à Regina (Saskatchewan).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Avocate des appelants :
+Me Kerry R. Chow
+Avocat de l’intimé :
+Me Julien Bedard
+Pour l’intervenant :
+L’intervenant lui‑même
+___________________________________________________________________
+JUGEMENT
+Conformément aux motifs de jugement ci‑joints, les appels sont accueillis, et la décision rendue par le ministre du Revenu national est annulée au motif que Dennis Foulston, Kelvin Olson et Dwayne Cozart n’exerçaient pas un emploi ouvrant droit à pension pendant les périodes frappées d’appel.
+Signé à Ottawa, Canada, ce 9e jour d’octobre 2007.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 14e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Dossier : 2006-2976(EI)
+ENTRE :
+R. WAYNE ET ELAINE COZART,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DENNIS FOULSTON,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+R. Wayne et Elaine Cozart (2006-2975(CPP))
+le 6 juin 2007, à Regina (Saskatchewan).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Avocate des appelants :
+Me Kerry R. Chow
+Avocat de l’intimé :
+Me Julien Bedard
+Pour l’intervenant :
+L’intervenant lui‑même
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs de jugement ci‑joints, les appels sont accueillis, et la décision rendue par le ministre du Revenu national est annulée au motif que Dennis Foulston, Kelvin Olson et Dwayne Cozart n’exerçaient pas un emploi assurable pendant les périodes frappées d’appel.
+Signé à Ottawa, Canada, ce 9e jour d’octobre 2007.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 14e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI528
+Date : 20071009
+Dossiers : 2006-2975(CPP)
+2006-2976(EI)
+ENTRE :
+R. WAYNE ET ELAINE COZART,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DENNIS FOULSTON,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] Les appelants, Wayne et Elaine Cozart, interjettent appel de la décision rendue par le ministre du Revenu national (le « ministre ») portant que Dwayne Cozart[1], Kelvin Olson[2] et Dennis Foulston[3] travaillaient à titre d’employés et exerçaient un emploi ouvrant droit à pension[4] et un emploi assurable[5]. M. Foulston est intervenu dans l’appel et il appuyait la position des Cozart selon laquelle il avait travaillé à titre d’entrepreneur indépendant, tout comme Dwayne et Kelvin. Dwayne et Kelvin ne sont pas intervenus ni n’étaient présents à l’audience.
+[2] M. et Mme Cozart ont témoigné avec franchise à l’audience, et leur témoignage était entièrement crédible. M. Foulston a aussi témoigné; son témoignage était tout aussi persuasif.
+[3] Pendant les périodes pertinentes, les Cozart avaient une ferme près de Brownlee, en Saskatchewan, et exploitaient également une entreprise de camionnage longue distance. À l’origine, l’entreprise était celle de leur fils, Dwayne. Ils en sont venus avec réticence à s’occuper de l’entreprise après que Dwayne eut éprouvé des difficultés financières et ont pris en charge ses obligations liées à la location d’un véhicule tracteur.
+[4] Les Cozart avaient conclu une entente avec Schneider’s Trucking Ltd. (« Schneider »), de Regina. Aux termes de cette entente, les Cozart fournissaient les conducteurs et le véhicule tracteur pour le transport des chargements que Schneider leur attribuait, sur des remorques que cette dernière leur louait. Schneider (par l’intermédiaire de son répartiteur) communiquait directement avec les conducteurs afin de leur attribuer les chargements qu’ils devaient venir prendre et de leur donner des instructions sur les horaires, les voyages, les échéanciers et les destinations. Les conducteurs conservaient les journaux de bord et les connaissements, et ils remettaient leurs feuilles de temps à Schneider et aux Cozart. Mme Cozart, qui tenait les livres de la société, payait les conducteurs en fonction de leurs feuilles de temps.
+[5] C’est dans ce contexte général que travaillaient M. Foulston, M. Olson et Dwayne. L’avocat de l’intimé a soutenu que les appels devaient être tranchés selon le principe du « tout ou rien », c’est‑à‑dire que les conducteurs devaient être considérés tous les trois comme des employés, ou tous les trois comme des entrepreneurs indépendants. Je ne suis pas de cet avis. Même si le payeur est le même dans les trois cas, la détermination du statut de chaque travailleur doit se faire à la lumière des éléments de preuve concernant la relation que chacun entretenait avec le payeur.
+[6] Les deux avocats ont fait référence au critère à quatre volets qui sert à établir si le travailleur est un employé ou un entrepreneur indépendant. Ce critère a été élaboré dans l’arrêt Wiebe Door Services Ltd. v. Canada (Minister of National Revenue)[6] et appliqué par la Cour Suprême du Canada dans 671121 Ontario Ltd. c. Sagaz Industries Canada Inc.[7] :
+[47] Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+[48] Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[7] L’avocat de l’intimé a renvoyé la Cour à la décision Andres (s/n. L. Andres Transport) c. Canada (Ministre du Revenu national)[8], dans laquelle le juge Porter avait cité un passage de l’arrêt Charbonneau c. Canada[9]. Dans cette dernière affaire, le juge Décary avait défini l’approche qu’il fallait adopter pour l’application de ces critères :
+Les critères énoncés par cette cour […] ne sont pas les recettes d’une formule magique. Ce sont des points de repère qu’il sera généralement utiles de considérer, mais pas au point de mettre en péril l’objectif ultime de l’exercice qui est de rechercher la relation globale que les parties entretiennent entre elles. Ce qu’il s’agit, toujours, de déterminer, une fois acquise l’existence d’un véritable contrat, c’est s’il y a, entre les parties, un lien de subordination tel qu’il s’agisse d’un contrat de travail […] ou s’il n’y a pas […] un degré d’autonomie tel qu’il s’agisse d’un contrat […] de service […]. En d’autres termes, il ne faut pas […] examiner les arbres de si près qu’on perde de vue la forêt. Les parties doivent s’effacer devant le tout[10].
+[Non souligné dans l’original.]
+[8] En plus de tenir compte du degré de contrôle, de la propriété des outils, de la possibilité de profit ou du risque de perte et du degré d’intégration à l’entreprise, la Cour peut aussi examiner l’intention des parties[11].
+[9] Afin que leurs appels soient accueillis, les Cozart (et M. Foulston, dans son intervention) ont le fardeau de démontrer que les hypothèses sur lesquelles le ministre a fondé ses décisions sont erronées. Les hypothèses du ministre sont largement, si ce n’est totalement, fondées sur les brèves réponses écrites que Mme Cozart a données sur le questionnaire normalisé du Ministère[12]. Même si ces formulaires sont utiles pour dresser une ébauche rudimentaire des faits, ils procurent rarement la même qualité ou quantité d’information qu’une audience. En l’espèce, les témoignages de M. et de Mme Cozart et de M. Foulston ont offert une description beaucoup plus complète du contexte dans lequel les travailleurs fournissaient leurs services. Je suis convaincue qu’ils se sont acquittés du fardeau qui leur incombait de prouver que les travailleurs étaient engagés à titre d’entrepreneurs indépendants. La preuve concernant la relation que chaque travailleur entretenait avec les Cozart est examinée séparément ci‑dessous.
+Dennis Foulston
+[10] M. Foulston est un agriculteur voisin des Cozart. Il a travaillé quatre mois seulement, de janvier à avril 2004. À cette époque de l’année, la ferme marchait au ralenti. Il avait entendu dire que Dwayne, le fils des Cozart, était incapable de travailler en raison d’une fracture à l’épaule. Il a donc offert aux Cozart de travailler jusqu’aux semailles du printemps. Il voulait travailler à titre de [traduction] « sous‑entrepreneur » parce qu’il ne souhaitait pas s’embêter avec les retenues et la paperasserie pour une aussi courte période. Cette formule convenait aux Cozart qui avaient toujours cru, jusqu’à ce que le ministre rende sa décision, passer des contrats avec des conducteurs qui étaient entrepreneurs indépendants. Ils offraient un taux de 30 sous le mille, que M. Foulston a dûment accepté.
+[11] Étant donné qu’il avait de l’expérience en matière de camionnage et possédait déjà le permis de classe 1A nécessaire, M. Foulston n’avait pas besoin de formation, et on ne lui en a pas offert non plus. Comme il l’a dit, après avoir discuté avec les Cozart, il avait [traduction] « sauté dans le camion » et était parti avec le chargement qui se trouvait déjà à la ferme des Cozart.
+[12] À partir de ce moment‑là, M. Foulston n’a plus eu de contact avec les Cozart à propos de son travail, à l’exception des appels impromptus entre bons voisins que ces derniers faisaient pour savoir comment les choses se passaient. Les Cozart ne lui disaient pas comment faire son travail ni ne surveillaient son rendement. M. Foulston recevait ses affectations et ses instructions directement de Schneider.
+[13] M. Foulston établissait ses propres heures de travail; il devait seulement tenir compte des règlements externes qui régissaient l’industrie et qui limitaient les heures de travail d’un conducteur à 13 heures par jour et à 70 heures par semaine. Il était responsable du paiement des contraventions, des amendes et des pénalités similaires qui étaient attribuables à sa conduite. M. Foulston a travaillé le plus possible pendant cette courte période afin de maximiser ses revenus. Il aurait pu engager un remplaçant (à condition que le remplaçant ait la certification de l’industrie nécessaire), mais une telle mesure aurait été à l’encontre de l’objectif qu’il visait lorsqu’il avait accepté ce travail. Les feuilles de temps[13] de M. Foulston servaient en fait de factures. Mme Cozart se fondait sur ces documents pour calculer la part qui revenait à M. Foulston sur les sommes que Schneider versait. Elle ne faisait aucune retenue gouvernementale sur ces paiements. M. Foulston n’avait ni vacances payées, ni congés de maladie payés, ni avantages sociaux. M. Foulston a déclaré ses revenus à titre de travailleur autonome.
+[14] Le facteur de la propriété des instruments de travail a une application restreinte en l’espèce. Les Cozart fournissaient le véhicule tracteur; Schneider fournissait les remorques. Dans la mesure où d’autres instruments de travail étaient nécessaires, M. Foulston fournissait ses propres petits outils, en cas de panne. Il avait aussi la responsabilité d’acheter le permis de classe 1A, exigé des camionneurs. Il n’avait rien besoin de plus pour faire son travail que ses compétences et son jugement, qui constituent de plus en plus, dans l’économie d’aujourd’hui, les instruments de travail essentiels de l’entrepreneur indépendant.
+[15] Je conviens avec l’avocat de l’intimé que le facteur de la possibilité de profit et du risque de perte a également une application restreinte en l’espèce. Il faut rappeler qu’aucun des facteurs ne prévaut. C’est le contexte dans son ensemble qui importe.
+[16] Sur ce dernier point, l’avocat de l’intimé soutient que parce que M. Foulston n’avait pas de nom commercial ni de licence et qu’il n’était pas inscrit aux fins de la TPS, il devait être un employé. Cependant, de tels détails ne doivent pas être considérés, pour reprendre les mots du juge Décary, « au point de mettre en péril l’objectif ultime de l’exercice qui est de rechercher la relation globale que les parties entretiennent entre elles ». M. Foulston était essentiellement un agriculteur; étant donné la courte durée du contrat qu’il avait conclu avec les Cozart, il n’aurait pas été logique qu’il obtienne un nom commercial ou une licence. En outre, il est peu probable qu’il ait gagné suffisamment d’argent, pendant le temps où il a travaillé comme conducteur, pour atteindre le seuil à partir duquel l’inscription aux fins de la TPS est obligatoire.
+[17] Après avoir examiné la relation globale qui existait entre M. Foulston et les Cozart, et à la lumière de leur nette intention d’établir une relation d’entrepreneur indépendant, je suis convaincue que la preuve démontre un degré d’autonomie compatible avec la conclusion selon laquelle M. Foulston a travaillé aux termes d’un contrat d’entreprise, à titre d’entrepreneur indépendant.
+Kelvin Olson
+[18] Bon nombre des constatations énoncées ci‑dessus s’appliquent également à Kelvin Olson. À l’instar de M. Foulston, M. Olson n’a été ni supervisé, ni formé par les Cozart; il recevait ses instructions de Schneider; il décidait de ses heures de travail; il présentait des factures pour être payé; il n’avait pas d’avantages sociaux, et aucune retenue n’était faite sur les paiements qu’il recevait. En outre, M. Olson avait conclu une entente écrite[14] avec les Cozart. Le paragraphe 12 de cette entente appuie le témoignage des Cozart, selon lequel l’intention avait toujours été que M. Olson travaille à titre d’entrepreneur indépendant :
+[traduction]
+Les propriétaires [Wayne et Elaine Cozart et Dwayne Cozart] et l’entrepreneur [Kelvin Olson] (ci‑après « les parties ») conviennent et confirment que la présente entente est un contrat d’entreprise indépendant et non un contrat de louage de services exclusif entre les parties. Les parties reconnaissent et confirment que la responsabilité des retenues relatives à l’Agence des douanes et du revenu du Canada, au Régime de pensions du Canada, à l’assurance‑emploi et aux autres avantages payables régulièrement dans le cadre d’un contrat de louage de services n’est pas prévue aux termes de ce contrat d’entreprise indépendant.
+[19] Malgré cette entente écrite, M. Olson (qui a cessé de travailler pour les Cozart le 31 décembre 2004) a déclaré ses revenus pour 2004 en tant que revenus d’emploi. Il semble que M. Olson ait l’habitude d’accepter de faire quelque chose et d’agir autrement. Par exemple, contrairement à ce qui était attendu de lui, lorsqu’il avait le camion des Cozart, il l’utilisait souvent à des fins personnelles. Cette pratique avait pour effet de faire gonfler artificiellement non seulement les frais d’essence et d’entretien que devaient payer les Cozart, mais aussi les factures de M. Olson, puisqu’il était payé en fonction de la distance parcourue. L’avocat de l’intimé soutient, à juste titre, que cette inconduite de M. Olson n’est pas pertinente quand il s’agit de décider de son statut d’emploi. Je mentionne cette constatation sur sa conduite seulement parce qu’elle a pour effet de diminuer l’importance qu’il faut accorder au fait qu’il a rempli sa déclaration de revenus pour 2004 en tant qu’employé. Globalement, je suis convaincue que les Cozart ont produit suffisamment d’éléments de preuve pour démontrer que Kelvin Olson travaillait comme entrepreneur indépendant pendant la période en cause.
+Dwayne Cozart
+[20] Ayant conclu que Dwayne travaillait aux termes d’un contrat de louage de services, le ministre a exercé son pouvoir discrétionnaire en vertu du paragraphe 5(3) pour décider que Dwayne et les Cozart auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance. Je souscris à la décision discrétionnaire rendue par le ministre, mais je ne crois pas que la preuve démontre qu’il s’agissait d’un contrat de louage de services.
+[21] L’entreprise de camionnage des Cozart avait d’abord été celle de Dwayne. À l’audience, il n’a pas été établi clairement si des mesures officielles avaient été prises afin de définir les rôles respectifs dans la nouvelle entreprise. Je suis toutefois convaincue que Dwayne s’était établi à titre de travailleur autonome à l’origine et qu’il a continué d’agir ainsi après que ses parents eurent repris l’entreprise. Il n’a pas été en mesure de travailler pendant un certain temps en 2004, en raison d’une blessure et d’autres problèmes. Lorsque Dwayne est revenu au travail en 2005, même s’il fonctionnait de la même façon qu’avant, le comptable des Cozart a conseillé à Mme Cozart de faire des retenues à la source et de délivrer un T4 à l’intention de Dwayne, qui a alors déclaré ses revenus en tant que revenus d’emploi. Les témoignages présentés à l’audience n’ont pas permis de comprendre le raisonnement du comptable. Je retiens cependant le témoignage non contesté des Cozart selon lequel l’intention avait toujours été que Dwayne, comme MM. Foulston et Olson, travaille à titre d’entrepreneur indépendant pendant la période en cause.
+[22] Les appels sont accueillis, et la décision rendue par le ministre du Revenu national est annulée au motif que Dennis Foulston, Kelvin Olson et Dwayne Cozart n’exerçaient pas un emploi ouvrant droit à pension ni un emploi assurable pendant les périodes frappées d’appel.
+Signé à Ottawa, Canada, ce 9e jour d’octobre 2007.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 14e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI528
+Nos DES DOSSIERS DE LA COUR : 2006-2975(CPP) et 2006-2976(EI)
+INTITULÉ : R. Wayne et Elaine Cozart c.
+Le ministre du Revenu national et Dennis Foulston
+LIEU DE L’AUDIENCE : Regina (Saskatchewan)
+DATE DE L’AUDIENCE : Le 6 juin 2007
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 9 octobre 2007
+COMPARUTIONS :
+Avocate des appelants :
+Me Kerry R. Chow
+Avocat de l’intimé :
+Me Julien Bedard
+Pour l’intervenant :
+L’intervenant lui‑même
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Me Kerry R. Chow
+Cabinet : Chow & Company
+Moose Jaw (Saskatchewan)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pour la période du 1er janvier 2005 au 30 septembre 2005.
+[2] Pour la période du 25 mars 2004 au 31 décembre 2004.
+[3] Pour la période du 1er janvier 2004 au 30 avril 2004.
+[4] Au sens de l’alinéa 6(1)a) du Régime de pensions du Canada.
+[5] Au sens des alinéas 5(1)a) et 5(2)i) de la Loi sur l’assurance‑emploi et, dans le cas de Dwayne seulement, du paragraphe 5(3) de la Loi.
+[6] 87 DTC 5025.
+[7] [2001] 2 R.C.S. 983.
+[8] [2000] A.C.I. no 89.
+[9] [1996] A.C.I. no 1337 (C.A.F.).
+[10] Précité, au paragraphe 3.
+[11] Wolf v. Canada, 2002 DTC 6853 (C.A.F.); The Royal Winnipeg Ballet v. Canada (Minister of National Revenue), 2006 DTC 6323 (C.A.F.).
+[12] Pièces R-2, 3 et 4.
+[13] Pièces A-2, 3 et 4.
+[14] Pièce A-4.

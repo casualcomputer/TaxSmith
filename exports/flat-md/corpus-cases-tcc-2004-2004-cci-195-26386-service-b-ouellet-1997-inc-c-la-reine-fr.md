@@ -1,0 +1,220 @@
+---
+title: "Service B. Ouellet (1997) inc c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26386/index.do"
+last_modified: "2004-03-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 195"
+citation2: ""
+neutral_citation: "2004 CCI 195"
+decision_date: "2004-03-04"
+language: "fr"
+item_id: "26386"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3333
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:44:32.334000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "08bfac786173cef83b6808f633b0f38c2821c1c0d6bc078b2dad3c8327214816"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Service B. Ouellet (1997) inc c. La Reine
+
+- Citation: 2004 CCI 195
+- Decision date: 2004-03-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3333, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Service B. Ouellet (1997) inc c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-04
+Référence neutre
+2004 CCI 195
+Numéro de dossier
+2002-4623(GST)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-4623(GST)I
+ENTRE :
+SERVICE B. OUELLET (1997) INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 5 novembre 2003 à Québec (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Représentant de l'appelante :
+Bertin Ouellet
+Avocat de l'intimée :
+Me Louis Cliche
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise dont l'avis porte le numéro 213487 et est daté du 25 janvier 2002, pour la période du 1er janvier 1998 au 28 février 2001, est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 4e jour de mars, 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2004CCI195
+Date : 20040304
+Dossier : 2002-4623(GST)I
+ENTRE :
+SERVICE B. OUELLET (1997) INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Louise Lamarre Proulx
+[1] Il s'agit d'un appel d'une cotisation dont l'avis porte le numéro 213487 établie par le ministre du Revenu national (le « Ministre » ), en vertu de la Loi sur la taxe d'accise (la « Loi » ), pour la période du 1er janvier 1998 au 28 février 2001.
+[2] La question en litige est de savoir si l'appelante a conféré un avantage à son actionnaire principal relativement à l'utilisation d'une automobile au sens des paragraphes 15(1), 15(5), de l'alinéa 6(1)e) et du paragraphe 6(2) de la Loi de l'impôt sur le revenu. Le paragraphe 173(1) de la Loi prévoit l'imposition de la taxe sur cet avantage.
+[3] Les faits sur lesquels le Ministre s'est appuyé pour établir sa cotisation sont décrits au paragraphe 32 de la Réponse à l'avis d'appel (la « Réponse » ) comme suit :
+a) les faits ci-dessus admis;
+b) l'appelante est un inscrit aux fins de l'application de la TPS;
+c) en sa qualité d'inscrit, l'appelante est également mandataire du ministre avec obligation de percevoir et de remettre la TPS applicable à l'égard des fournitures taxables qu'elle effectue;
+d) l'appelante exploite une entreprise qui consiste en l'opération d'un poste d'essence avec atelier de mécanique;
+e) au cours de la période en litige, l'appelante a mis à la disposition de son président et principal actionnaire, monsieur Bertin Ouellet ou de personnes qui lui sont liées, des véhicules lui appartenant soit une Volvo de modèle 850 laquelle fut remplacée par une Volvo de modèle S70;
+f) tel qu'il sera démontré à l'enquête, l'utilisation de ces deux véhicules par M. Bertin Ouellet ou de personnes qui lui sont liées, n'a pas été faite dans le cadre des activités commerciales de l'appelante;
+g) pour les fins de l'impôt, l'utilisation personnelle de ces deux véhicules, de façon successive, par M. Bertin Ouellet ou de personnes qui lui sont liées, fut déterminée et évaluée à 14%;
+h) l'appelante fut dûment cotisée pour la TPS à verser sur la valeur de l'avantage imposable résultant de la mise à la disposition de ces véhicules par l'appelante à M. Bertin Ouellet ou de personnes qui lui sont liées;
+i) l'appelante n'a pas été en mesure de démontrer que les véhicules de marque Volvo, dont elle a été propriétaire durant la période en litige, étaient utilisés dans le cadre de ses activités commerciales et selon quelle proportion;
+j) l'appelante n'a pas tenu de carnet de route permettant d'établir à quelles fins les véhicules étaient utilisés;
+k) de plus, les véhicules appartenant à M. Bertin Ouellet lesquels étaient utilisés, selon les prétentions de l'appelante, pour les déplacements personnels de M. Bertin Ouellet, étaient utilisés dans les faits par son épouse et ses filles;
+l) au cours de la période en litige, M. Bertin Ouellet a été propriétaire d'une Mercury Lynx 1984 (du 96.05.28 au 99.11.05 - date probable de mise au rancart par la police), d'une Toyota Corolla 1986 (acquise le 99.12.01), d'une Pontiac Sunbird (du 99.11.05 au 99.11.18) et d'une Honda Civic 1997 (du 98.11.04 au 01.10.01);
+m) ces véhicules sont considérés comme des véhicules de catégorie sous-compacte;
+n) au cours des années 1999 et 2000, M. Bertin Ouellet ne possédait que deux véhicules en état de marche, lesquels étaient à la disposition de quatre conducteurs;
+o) tel qu'il sera démontré à l'enquête, la conjointe de M. Bertin Ouellet ne possédait pas de véhicule et travaillait à l'extérieur au cours de la période en litige;
+p) de plus, la Honda Civic 1997 était assurée pour la région de Montréal où une des deux filles du couple Ouellet étudie;
+q) si on tient compte du fait que la Honda Civic 1997 était utilisée à Montréal et que la conjointe de M. Bertin Ouellet utilisait l'autre véhicule pour les fins de son travail ou au fait que ce dernier véhicule pouvait être utilisé également par l'autre fille du couple Ouellet, M. Bertin Ouellet n'avait donc plus de véhicule à sa disposition sauf celui que l'appelante mettait à sa disposition;
+r) au surplus, il est tout à fait invraisemblable en l'espèce, que M. Bertin Ouellet n'ait utilisé que parcimonieusement les véhicules luxueux que l'appelante a mis à sa disposition, préférant plutôt rouler en modeste sous-compacte pour ses déplacements personnels;
+[4] Les faits décrits à l'Avis d'appel se trouvent aux paragraphes 3 à 12 :
+3. Monsieur Bertin Ouellet est employé et actionnaire de l'appelante dont il est aussi le seul administrateur;
+4. L'appelante opère une station service avec service de mécanique;
+5. Bertin Ouellet habite une résidence située à environ 8 kilomètres de la place d'affaires de la compagnie Service B. Ouellet (1997) inc.;
+6. La résidence de Bertin Ouellet inclut un garage qui sert notamment d'entrepôt pour des pneus de clients de l'appelant;
+7. Au cours des années d'imposition 1998, 1999 et 2000, l'appelant était propriétaire de véhicules automobiles qui étaient utilisés comme véhicules de service et servaient de véhicules de courtoisie pour les clients;
+8. Au cours des années d'imposition 1998, 1999 et 2000, l'appelant possédait tous les permis nécessaires pour effectuer la vente d'automobiles;
+9. Au cours des années d'imposition 1998, 1999 et 2000, Bertin Ouellet était propriétaire personnellement de véhicules automobiles;
+10. Au cours des années d'imposition 1998, 1999 et 2000, les véhicules personnels de Bertin Ouellet étaient normalement utilisés par celui-ci pour se rendre à son travail à la place d'affaires de l'appelante en plus d'être utilisés comme véhicules de service et servaient de véhicules de courtoisie pour les clients de l'appelante;
+11. Au cours des années d'imposition 1998, 1999 et 2000, Bertin Ouellet a entreposé les véhicules automobiles de l'appelante à sa résidence durant des fins de semaines afin notamment de les protéger du vandalisme;
+12. Lors d'une vérification, le vérificateur du Ministère du Revenu du Québec a établi que Bertin Ouellet utilisait les véhicules automobiles de l'appelante à des fins personnelles et a estimé à 2 432 kilomètres le kilométrage personnel annuel fait par Bertin Ouellet et à 17 665 kilomètres le kilométrage annuel total fait sur les véhicules automobiles de l'appelante utilisés par Bertin Ouellet à des fins personnelles, tel qu'il appert du document intitulé ANNEXE qui sera produit au soutien des présentes;
+[5] Par la suite, aux paragraphes 16 et suivants de l'Avis d'appel, il est mentionné que pour chacune des années 1998 à 2000, un montant à titre d'avantage pour mise à disposition d'une voiture Volvo a été ajouté au revenu de M. Bertin Ouellet en vertu de la Loi de l'impôt sur le revenu. Étrangement, rien n'a été mentionné à cet égard lors de l'audience. S'il y a eu appel de ces cotisations d'impôt sur le revenu, il aurait été préférable d'entendre ces appels avant le présent appel puisque le paragraphe 173(1) de la Loi prévoit tout simplement l'imposition d'une taxe sur cet avantage.
+[6] En fait, ce qui est contesté dans la présente affaire est qu'il y ait eu un usage personnel plus que minimal au sens du paragraphe 6(2) de la Loi de l'impôt sur le revenu. Selon le Ministre, la totalité, ou presque, de la distance parcourue par la voiture Volvo n'a pas été parcourue pour fins d'affaires.
+[7] L'appelante était représentée lors de l'audition par son actionnaire principal et président, monsieur Bertin Ouellet. Ce dernier a admis les alinéas 32(a), (c), (d), (k), (n), (o) et (p) de la Réponse.
+[8] M. Ouellet affirme que la voiture Volvo était à l'usage pour fins d'affaires de l'entreprise. Elle aurait été utilisée comme voiture de courtoisie. Elle aurait été prêtée à des clients de la station service quand ces derniers faisaient réparer leur voiture.
+[9] Il amenait le véhicule chez lui les fins de semaine par mesure de sécurité. Il pouvait aussi l'utiliser pour transporter des pneus à sa résidence ou encore répondre à des appels de client en panne.
+[10] La station service est située à neuf kilomètres de la résidence. Le bureau de l'entreprise serait situé à la maison. L'ordinateur pour faire les paies y serait. À la station service, il y a un bureau pour inscrire les transactions avec les clients.
+[11] Il est admis de part et d'autre que le kilométrage annuel de la voiture a été de 17 665 kilomètres. Selon le vérificateur, il y aurait eu un kilométrage personnel annuel de 2 432 kilomètres. Quant à M. Ouellet, le kilométrage personnel serait d'un maximum de 667 kilomètres annuellement. Il affirme que l'usage personnel qu'il aurait pu en faire ne dépassait sûrement pas 6 p. 100.
+[12] Selon M. Ouellet, il utilisait pour ses déplacements une voiture Honda Civic ou autre voiture personnelle de la même catégorie.
+[13] En contre-interrogatoire, il admet que du Pont Pierre-Laporte à Matane, le lieu où l'appelant a acheté sa voiture, il y a 400 kilomètres et que lui et son épouse ont de la parenté dans la région de Trois-Pistoles, une distance d'environ 260 kilomètres. Ils sont tous les deux originaires de cette région.
+[14] M. Ouellet prend une semaine de vacances au mois d'août. Il va chez sa famille. Il lui est arrivé également d'aller voir la parenté à l'époque des fêtes. Selon monsieur Ouellet, il aurait pris la Honda Civic parce que la Volvo serait restée au garage, au cas où un client en aurait eu besoin.
+[15] Les voitures que M. Ouellet et sa famille auraient utilisées pour leurs fins personnelles sont celles décrites dans un document (pièce A-2) rédigé au stade des oppositions par leur avocat d'alors :
+Tout au cours de la période de vérification, monsieur Ouellet a toujours été propriétaire personnellement d'au moins un véhicule automobile, allant même jusqu'à détenir 3 automobiles en même temps. Au cours de cette période, il a été propriétaire d'une Honda Civic 1998, d'une Honda Civic 1996, d'une Ford Escort, d'une Pontiac Sunbird 1985 et d'une Toyota Corolla 1988. Tous ces véhicules étaient très propres et en excellant état de fonctionnement.
+[16] Pour quelque raison, l'appelant admet difficilement que ces voitures sont des voitures de la catégorie des voitures sous-compactes. Il est à noter que les deux voitures Volvo ont été achetées neuves.
+[17] Monsieur Ouellet prétend que l'appelante tenait un carnet de route au sujet de la voiture Volvo. Lors de l'audition, il a présenté un cahier qui était censé représenter les prêts des voitures faits aux clients. Ce carnet indique le prêt de diverses voitures pour des journées ou demi-journées. Il n'y a aucune mention de kilométrage. Il est à noter que ce carnet n'a pas été montré au vérificateur.
+[18] Il admet que son épouse aurait eu des problèmes de dos en 1999.
+[19] Madame Gaétane Bérubé, l'épouse de monsieur Bertin Ouellet, a témoigné pour l'appelante. Elle a mentionné que, souvent, ils prenaient la voiture personnelle, comme la Honda Civic, pour descendre dans le bas du fleuve. Pour se déplacer, elle affirme qu'elle utilisait la Honda Civic. Elle est enseignante. Son école est à peu près à un kilomètre de distance de la station service. Monsieur Ouellet prenait plutôt la Toyota et elle prenait la Honda Civic.
+[20] Madame Bérubé a mentionné que l'entreprise ne vendait pas des voitures Volvo usagées, à part celles qui ont été la propriété de l'appelante. Les voitures usagées qui sont vendues sont en majorité des voitures sous-compactes qui ont en moyenne une dizaine d'années d'âge. L'appelante vend environ 25 à 30 véhicules par année. En ce qui concerne le carnet montré par M. Ouellet, il s'agit des prêts des voitures qui sont à vendre.
+[21] Monsieur Sylvain Martin, vérificateur du Ministre, a dit que les conversations qu'il a eues avec madame Bérubé étaient que la Volvo était toujours à la maison les fins de semaine. Lors de discussions avec madame Bérubé, elle a mentionné que c'était arrivé à l'occasion qu'ils soient aller visiter leur fille à Montréal avec la Volvo.
+[22] Le vérificateur a porté beaucoup d'attention à la police d'assurance qui fait partie de la pièce I-2. Pour la période du 29 octobre 2000 au 29 octobre 2001, il y a trois voitures qui sont assurées : une Honda Civic 1998, une Volvo 1999 et un Nissan Pick-up 1999. Ces trois véhicules sont assurés pour un territoire particulier. La Honda Civic est assurée pour la région 1C, la Volvo pour la région 2C et la Nissan Pick-up pour la région 2A.
+[23] En ce qui concerne les remarques de la police d'assurance en bas de la page on y lit que la Honda Civic était pour un étudiant et que la conductrice principale était Caroline Ouellet, fille de l'assuré et que le véhicule était utilisé dans la région de Montréal.
+[24] En ce qui concerne le véhicule no 2, la Volvo, le conducteur est féminin, la principale utilisation est par une personne de genre féminin. La région 2 C correspondrait à St-Augustin, selon le vérificateur qui se serait informé auprès de l'assureur.
+[25] Le véhicule no 3, la Nissan Pick-up est notée comme étant un véhicule de service sans conducteurs de moins de 25 ans pour la région 2A qui correspond à la région de Québec.
+Arguments
+[26] L'avocat de l'intimée s'est référé, à cause de la similitude des faits (à part l'aveu initial de mise à la disposition du contribuable), à une décision du juge Tardif dans Tremblay c. Canada [2000] A.C.I. no 547 (Q.L.), dont le sommaire tiré de 2000 DTC 2414 se lit ainsi :
+[TRADUCTON]
+Arrêt : L'appel du contribuable a été rejeté. De son propre aveu, le véhicule Dodge Caravan était à sa disposition 95 p. 100 du temps. Il s'agissait d'un véhicule plus spacieux et sécuritaire que celui qu'il possédait, et il n'y avait aucune contrainte quant à la fréquence d'utilisation. Cette réalité seule suffisait à faire en sorte de lui conférer un avantage. Cet avantage, cependant, n'a pas été annulé par le fait qu'il peut avoir utilisé le véhicule seulement rarement à des fins personnelles. Le paragraphe 6(2) de la Loi contient la formule de calcul des frais pour droit d'usage d'un véhicule automobile. Cette formule prévoit explicitement les montants à être ajoutés au revenu des bénéficiaires des avantages visés par la formule. De plus, l'alinéa 6(1)e) et le paragraphe 6(2) ne prennent pas en considération le fait que le bénéficiaire peut ne pas avoir utilisé le véhicule. La formule comporte également la présomption selon laquelle une fois que l'utilisation personnelle du véhicule a été permise, 12 000 kilomètres par année (ou 1 000 kilomètres par mois) sont attribuables à cette utilisation personnelle. Une telle présomption, bien entendu, peut être réfutée, mais la preuve de cette réfutation doit être claire et expresse. Le recours à un registre du kilométrage s'avère pratiquement indispensable. Cependant, le contribuable en l'espèce n'a pas tenu un tel registre. Il avait le fardeau de prouver précisément la partie personnelle des 25 000 à 30 000 kilomètres par année qu'il avait parcourus avec le véhicule pendant les années d'imposition en litige. Il ne lui suffisait pas de simplement prétendre de façon répétée qu'il utilisait le véhicule à des fins personnelles dans une proportion inférieure à 10 p. 100 du temps. Selon la preuve, il était plus que probable qu'il utilisait le véhicule de façon régulière à des fins familiales en dehors des périodes d'activités de Q Inc. Il est vrai qu'il n'existe pas de règle stricte imposant la tenue d'un registre. Cependant, la décision de ne pas en tenir un fait en sorte d'aggraver le problème ayant trait à la preuve auquel est confronté le contribuable qui doit prouver, avec précision, la partie personnelle du kilométrage parcouru. En l'espèce, le contribuable ne s'est tout simplement pas déchargé du fardeau. Ainsi, l'inclusion du montant de 9 358 $ dans son revenu pour chacune des années d'imposition en litige était justifiée. Les cotisations du ministre étaient confirmées en conséquence.
+[27] L'avocat fait remarquer que selon le témoignage des témoins de l'appelante, la Honda Civic aurait été utilisée par trois chauffeurs, madame, monsieur et l'étudiante. Il fait remarquer qu'il n'y a pas de carnet de route. Il pose la question à savoir s'il est plausible que des personnes roulent en voiture sous-compacte sur l'autoroute les menant de Québec à la région de Trois-Pistoles, alors qu'il y a une Volvo confortable et sécuritaire qui est à leur disposition. Il appartient au contribuable de prouver le kilométrage pour affaires et le kilométrage personnel minimal et cette preuve ne peut pas se faire par l'à peu près.
+[28] Le contribuable fait valoir qu'il y a eu une utilisation personnelle minimale et que l'entreprise n'est pas tenue de tenir un carnet de route pour un véhicule dont elle est propriétaire.
+Analyse et conclusion
+[29] Le paragraphe 173(1) de la Loi prévoit que dans le cas où un inscrit effectue la fourniture d'un bien au profit d'un particulier ou d'une personne liée à celui-ci et qu'un avantage relatif à la fourniture est à inclure en application des alinéas 6(1)a), e), k) ou l) ou du paragraphe 15(1) de la Loi, l'inscrit doit percevoir la taxe sur cet avantage calculée en conformité avec cette disposition.
+[30] Les dispositions de la Loi de l'impôt sur le revenu qui sont d'application dans la présente affaire sont le paragraphe 15(5), l'alinéa 6(1)e) et le paragraphe 6(2) de cette loi qui se lisent comme suit :
+6(1) Éléments à inclure à titre de revenu tiré d'une charge ou d'un emploi - Sont à inclure dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi, ceux des éléments suivants qui sont applicables :
+. . .
+e) Frais pour droit d'usage d'une automobile - lorsque son employeur ou une personne liée à son employeur a mis au cours de l'année une automobile à sa disposition (ou à la disposition d'une personne qui lui est liée), l'excédent éventuel de la somme visée au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+(i) la somme qui représente les frais raisonnables pour droit d'usage de l'automobile pendant le nombre de jours de l'année où elle était ainsi à sa disposition,
+(ii) le total des sommes dont chacune représente une somme (autre qu'une dépense liée au fonctionnement de l'automobile) payée au cours de l'année à l'employeur ou à la personne liée à l'employeur par le contribuable ou par la personne qui lui est liée pour l'usage de l'automobile;
+6(2) Frais raisonnables pour droit d'usage d'une automobile - Pour l'application de l'alinéa (1)e), la somme qui représente les frais raisonnables pour droit d'usage d'une automobile pendant le nombre total de jours d'une année d'imposition durant lesquels l'employeur d'un contribuable ou une personne liée à l'employeur a mis l'automobile à la disposition du contribuable ou d'une personne qui lui est liée est réputée égale au montant calculé selon la formule suivante :
+A/B × [(2 % × (C × D) + 2/3 × (E - F)]
+où :
+A représente le moins élevé des éléments suivants :
+a) le nombre de kilomètres parcourus par l'automobile, autrement que dans l'accomplissement des fonctions de la charge ou de l'emploi du contribuable, pendant le nombre de jours ci-dessus;
+b) le montant représenté par l'élément B;
+toutefois, le nombre visé à l'alinéa a) est réputé égal au montant représenté par l'élément B, sauf si l'employeur ou la personne liée à celui-ci exige du contribuable qu'il utilise l'automobile dans l'accomplissement des fonctions de sa charge ou de son emploi et si la totalité, ou presque, de la distance parcourue par l'automobile pendant le nombre de jours ci-dessus est parcourue dans l'accomplissement des fonctions de la charge ou de l'emploi;
+B le produit de 1 000 par le quotient de la division, par 30, du nombre de jours ci-dessus, ce quotient étant, s'il est supérieur à un, arrondi, le cas échéant, au nombre entier le plus proche, les résultats ayant cinq au plus en première décimale l'étant à l'entier inférieur;
+C le coût de l'automobile pour l'employeur ou pour la personne qui lui est liée si l'un ou l'autre est propriétaire de l'automobile à un moment de l'année;
+D le quotient de la division, par 30, du nombre de jours où l'employeur ou la personne qui lui est liée est propriétaire de l'automobile, compris dans le nombre total de jours ci-dessus, ce quotient étant, s'il est supérieur à un, arrondi, le cas échéant, au nombre entier le plus proche, les résultats ayant cinq au plus en première décimale l'étant à l'entier inférieur;
+E le total des montants qu'il est raisonnable de considérer comme payables à un bailleur par l'employeur ou par la personne qui lui est liée, pour la location de l'automobile, pendant le nombre de jours où l'automobile est louée à l'employeur ou à la personne qui lui est liée, compris dans le nombre total de jours ci-dessus;
+F la partie du total représenté par l'élément E qu'il est raisonnable de considérer comme payable au bailleur au titre de tout ou partie du coût, pour celui-ci, de l'assurance :
+a) contre la perte de l'automobile ou les dommages à celle-ci;
+b) pour la responsabilité qui peut découler de son utilisation ou de son fonctionnement.
+[31] Les voitures Volvo, à tour de rôle, ont-elles été mises à la disposition de M. Ouellet pendant les années en cause? Je me réfère à cet égard à la décision de la Cour d'appel fédérale dans Canada c. Adams (C.A.), [1998] A.C.F. no 477 (Q.L.). On lit au paragraphe 8 de cette décision, qu'une voiture est mise à la disposition d'un contribuable s'il a un droit d'usage de la voiture. Je cite ce paragraphe :
+8 Les versions française et anglaise ont ceci de commun qu'elles formulent en termes larges le critère qui déclenche l'application de l'alinéa 6(1)e). Parallèlement, la version française semble plus précise, faisant référence à une automobile qui est à la « disposition » d'un employé et au « droit d'usage de l'automobile » d'un employeur. En bref, une automobile est mise à la disposition d'un employé si elle est à sa disposition et s'il y a un droit d'usage concomitant. En fait, l'usage réel qu'en fait l'employé, pour des fins personnelles ou commerciales, n'est pas une condition expresse. Il suffit qu'il y ait un droit d'usage, et nous reviendrons sur cette expression. Dans ce contexte, il m'apparaît clairement que la formulation large et sans réserve que l'on retrouve dans les deux versions de l'alinéa 6(1)e) renforce l'argument du ministre selon lequel l'usage non restreint d'une automobile n'est pas une condition préalable à l'application de cette disposition. L'historique législatif de cette disposition appuie également cette interprétation.
+[32] M. Ouellet a affirmé que l'entreprise avait acquis les voitures Volvo pour les mettre à la disposition de la clientèle de la station service. Or, il n'y avait aucun carnet de route spécifique pour ces voitures acquises neuves et de bonne gamme.
+[33] L'usage exclusif des voitures Volvo par les clients de l'appelante ne paraît sûrement pas à prime abord une coutume commerciale normale. Pour faire la démonstration qu'elle était authentique, il aurait fallu un journal indiquant le nom de la personne à qui elle a été prêtée, le jour du prêt et le nombre de kilomètres parcourus. De cette manière, le vérificateur aurait pu faire un échantillonnage et vérifier la véracité de la version de l'actionnaire principal de l'appelante. Aucun registre n'a été montré au vérificateur. Celui qui a été présenté à l'audience ne prouve rien.
+[34] Le carnet présenté comme un journal concernant l'utilisation ou le prêt des voitures ne pouvait être que relié au commerce des voitures usagées pour les tests routiers. C'est ce que l'épouse de M. Ouellet a d'ailleurs mentionné. Ce carnet de route n'indiquait pas le kilométrage et rarement le prêt d'une voiture Volvo. Je dois dire que la preuve concernant ce carnet est obscure et que je dois prendre en compte que ce carnet n'a pas été présenté au vérificateur lors de la vérification.
+[35] Il faut se souvenir que l'entreprise faisait de la vente de voitures usagées en majorité sous-compactes. Il n'y avait pas de vente de Volvo. La seule vente d'une Volvo aurait été la vente d'une Volvo, propriété de l'entreprise.
+[36] Je suis donc d'avis que la preuve a révélé que tout au cours des années de la période en litige, la voiture Volvo était à la disposition du contribuable parce qu'il a détenu constamment un droit d'usage de ces voitures que cet usage ait été restreint ou non.
+[37] Selon l'alinéa 6(1)e) de la Loi de l'impôt sur le revenu, les frais raisonnables pour droit d'usage de la voiture pendant le nombre total de jours dans l'année durant lesquels elle a été ainsi disponible doivent être inclus dans le calcul du revenu du contribuable.
+[38] Le paragraphe 6(2) de la Loi de l'impôt sur le revenu dicte le calcul de ces frais raisonnables. Ces frais deviennent très réduits si le contribuable peut se prévaloir de l'exception pour usage personnel minimal. Il s'agit de déterminer si la totalité ou presque de la distance parcourue par l'automobile a été parcourue dans l'accomplissement des fins d'affaires de l'entreprise.
+[39] Il ne me paraît pas plausible que l'actionnaire principal de l'appelante et sa femme aient utilisé une Honda Civic pour les grands voyages alors qu'ils avaient à leur disposition une voiture Volvo.
+[40] Je dois dire aussi que la preuve apportée par la police d'assurance des voitures est déterminante. Ce n'est pas la Volvo qui est assurée comme voiture de service mais la Nissan Pick-up. En ce qui concerne la Volvo, elle est utilisée dans la région de St-Augustin principalement par un conducteur de genre féminin.
+[41] La Honda Civic était assurée pour la région de Montréal où étudiait la fille de M. Ouellet. Cette voiture ne pouvait être utilisée principalement par trois conducteurs, dont deux à Québec, et une troisième personne à Montréal.
+[42] La preuve documentaire et testimoniale présentée ne peut me convaincre d'un usage personnel minimal des voitures Volvo ou encore que la totalité ou presque du kilométrage parcouru par les voitures Volvo l'ait été pour les fins d'affaires de l'entreprise.
+[43] L'appel est en conséquence rejeté.
+Signé à Ottawa, Canada ce 4e jour de mars 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2004CCI195
+No DU DOSSIER DE LA COUR :
+2002-4623(GST)I
+INTITULÉ DE LA CAUSE :
+Service B. Ouellet (1997) Inc. et
+Sa Majesté La Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 5 novembre 2003
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 4 mars 2004
+COMPARUTIONS :
+Pour l'appelante :
+Bertin Ouellet (représentant)
+Pour l'intimée :
+Me Louis Cliche
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

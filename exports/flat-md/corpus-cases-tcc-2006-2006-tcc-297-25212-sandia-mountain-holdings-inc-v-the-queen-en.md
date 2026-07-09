@@ -1,0 +1,110 @@
+---
+title: "Sandia Mountain Holdings Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25212/index.do"
+last_modified: "2006-05-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 297"
+citation2: ""
+neutral_citation: "2006 TCC 297"
+decision_date: "2006-05-25"
+language: "en"
+item_id: "25212"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2572
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:04:22.728000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2112627ce9ce25b79a39a1281d4f8ec52753ad5900b14472f7278a75350571a2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sandia Mountain Holdings Inc. v. The Queen
+
+- Citation: 2006 TCC 297
+- Decision date: 2006-05-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2572, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sandia Mountain Holdings Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-05-25
+Neutral citation
+2006 TCC 297
+File numbers
+2003-1672(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC297
+Date: 20060525
+Docket: 2003-1672(IT)G
+BETWEEN:
+SANDIA MOUNTAIN HOLDINGS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+(edited from reasons delivered orally from the Bench
+on March 24, 2006 at Toronto, Ontario)
+Woods J.
+[1] These are reasons delivered orally in a motion brought by the respondent in the matter of Sandia Mountain Holdings Inc. and Her Majesty the Queen.
+[2] The respondent seeks leave of the Court for pre-trial cross-examination of an expert who has been retained by the appellant and whose expert opinion has been filed with the Court. Under s. 145(5) of the General Procedure rules, another party's expert may not be cross-examined before the hearing without leave of the Court and if leave is granted the witness may not be further cross-examined at the hearing without additional leave of the Court.
+[3] The respondent suggests that leave should be granted because full discovery is in the interests of justice and it may facilitate a shortening of the hearing.
+[4] The hearing of this appeal was originally scheduled for last January and was adjourned to May 15. The adjournment was ordered following a motion by the appellant to abridge the time for filing an affidavit of an expert regarding an opinion as to generally accepted accounting principles. The Court allowed the affidavit to be filed but adjourned the hearing and gave the respondent leave to cross-examine the witness. That cross-examination was completed some time ago.
+[5] More recently, the appellant filed an affidavit from another expert who has given an opinion on the same GAAP issues.
+[6] The respondent seeks leave to cross-examine the second expert. According to both counsel, cross-examination of experts before trial is rarely done either in this Court or in the Federal Court which has a similar rule. Accordingly, there does not appear to be any precedent as to the considerations that I should take into account in considering whether to grant leave.
+[7] The respondent suggests that although the rule is not generally used as a matter of practice, that it makes good sense for a party to cross-examine the other party's experts before the hearing for the same reasons that full discovery is encouraged. No authorities were provided.
+[8] Counsel for the appellant on the other hand suggests that because the rule requires leave of the court that it is implicit that leave should only be granted in exceptional circumstances. The appellant argues that there are no exceptional circumstances in this case.
+[9] The appellant referred me to two decisions from other courts. Although they are not directly on point because the applicable rules in those jurisdictions are different from the Tax Court rules, the decisions do provide useful background on the issue.
+[10] The first of these cases is an oral decision from the Supreme Court of Ontario in the matter of Snively v. Schacher. The decision dealt with an application for leave for an oral examination for discovery of an expert. Under the applicable rule, the Ontario court could grant leave to examine non-parties but not if the person sought to be examined is an expert who was retained in contemplation of litigation. The exclusion of experts appears to be related to concerns about privilege. The application for leave in Snively v. Schacher was denied on the basis that person to be examined in that case was an expert who was retained in contemplation of litigation.
+[11] The other decision that the appellant referred to was a decision of the Nova Scotia appellate court, Central Mortgage & Housing Corporation v. Foundation Company of Canada Ltd. The applicable rule in that case was just the opposite of Ontario's. It followed the United States model of allowing examination of any non-party without leave and that included experts. The issue before the appeal court was whether the examination of the expert was limited to the facts on which the expert relied or whether the expert could be examined with respect to his or her opinion. The court held that the examination should not be restricted to facts. The court noted that sometimes courts have prohibited an examination of experts on their opinions on the basis of privilege but noted that there was no issue of privilege in that case. Accordingly, the court saw no reason to restrict the examination.
+[12] Turning to the applicable rule in this Court, s. 145(5), I agree with the appellant that the wording of this provision implies that the granting of leave should be the exception rather than the rule. I am not satisfied that there are special circumstances in this case that would warrant the respondent's application to be granted.
+[13] The respondent suggests that it is desirable for the court to liberally grant applications for leave because a pre-trial examination of experts would generally assist the trial process. I am not satisfied that all the relevant considerations were brought to my attention in this motion in order for me to properly consider this issue. Based on the current wording of s. 145(5), I am not satisfied that leave should be liberally granted. I would note that if the respondent believes that pre-trial examination of experts is generally desirable, this is something that could be considered in the context of a proposal to amend s. 145(5) and the matter could then be studied in depth.
+[14] For the above reasons, the motion is denied. Costs of the motion shall be in the discretion of the trial judge.
+Signed at Ottawa, Canada this 25th day of May 2006.
+"J. Woods"
+Woods J.
+CITATION: 2006TCC297
+COURT FILE NO.: 2003-1672(IT)G
+STYLE OF CAUSE: Sandia Mountain Holdings Inc. and Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 24, 2006
+REASONS FOR ORDER BY: The Honourable Justice Judith Woods
+DATE OF ORDER: March 28, 2006
+APPEARANCES:
+Counsel for the Appellant: Richard Fitzsimmons
+Peter Aprile (student-at-law)
+Counsel for the Respondent: Bobby J. Sood
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Richard Fitzsimmons
+Firm: Fitzsimmons & Company
+Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

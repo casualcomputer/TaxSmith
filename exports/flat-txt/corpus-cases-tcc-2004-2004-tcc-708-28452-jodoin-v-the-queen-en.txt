@@ -1,0 +1,208 @@
+Title: Jodoin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28452/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-708-28452-jodoin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-11-08
+
+# Jodoin v. The Queen
+
+- Citation: 2004 TCC 708
+- Decision date: 2004-11-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1185, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jodoin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-08
+Neutral citation
+2004 TCC 708
+File numbers
+2004-433(IT)I
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-433(IT)I
+BETWEEN:
+CLÉMENT JODOIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+MARIE-CLAUDE NOËL,
+Joined Party.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on September 2, 2004, in Montréal, Quebec
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+Counsel for the Appellant:
+Lysane Tougas
+Counsel for the Respondent:
+Stéphanie Côté
+For the Joined Party:
+the Joined Party herself
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act in respect of the 2001 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Mr. Jodoin is entitled, in computing his income, to deduct the $8,352 in support that he paid. Mr. Jodoin and Ms. Noël are both bound by this decision, to the effect that the support amount paid under the divorce judgment dated March 17, 1997 ¾ specifically $8,352 for the 2001 taxation year and $8,689 for the 2002 taxation year ¾ must be included in Ms. Noël's income, and to the effect that the support amount of $8,689 paid for the year 2002 may be deducted by Mr. Jodoin. Mr. Jodoin is entitled to his costs, which shall be determined in accordance with the rules of the Court but payable only by the respondent.
+The Court also orders that sections 18.14, 18.15 and 18.23 to 18.27, and subsection 18.22(3) of the Tax Court of Canada Act, apply to the decision regarding the questions set out in paragraph 3 of the application, as stated in section 18.33 of the said Act.
+All of which is in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of November 2004.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 24th day of March 2005
+Jacques Deschênes, Translator
+Citation: 2004TCC708
+Date: 20041108
+Docket: 2004-433(IT)I
+BETWEEN:
+CLÉMENT JODOIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+MARIE-CLAUDE NOËL,
+Joined Party.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Archambault J.
+[1] As a result of an application for a reference under section 174 of the Income Tax Act, Marie‑Claude Noël was joined to the appeal of Clément Jodoin, which pertains to the 2001 taxation year. Both taxpayers will be bound by the decision of this Court with regard to their income tax assessment, not only for the 2001 taxation year, but also for 2002. The question before the Court is whether Mr. Jodoin was entitled to deduct from his income, and whether Ms. Noël was required to include in her income, for each of these two taxation years, the amount of the pension that he paid her for the benefit of their son Yoan.
+[2] The parties admitted the following facts at the beginning of the hearing:
+[TRANSLATION]
+4. Clément Jodoin and Marie‑Claude Noël married and had a child whose first name is Yoan.
+5. Clément Jodoin and Marie-Claude Noël were divorced on March 17, 1997.
+6. On August 30, 1996, based on an agreement respecting corollary relief (hereinafter "the Agreement") between Clément Jodoin and Marie‑Claude Noël, Mr. Jodoin was ordered, inter alia, to pay Ms. Noël the following amounts:
+(a) effective August 30, 1996, an amount of $300.00 per week as support for her and their child Yoan; and
+(b) effective August 1, 1997, an amount of $150.00 per week as support for their child Yoan only.
+7. On March 17, 1997, in the judgment of divorce between Clément Jodoin and Marie-Claude Noël, Justice Robert Legris confirmed and gave effect to the Agreement of August 30, 1996, between Clément Jodoin and Marie‑Claude Noël. Justice Legris also ordered the parties to comply with the Agreement.
+8. Clément Jodoin claimed a deduction on his income tax returns for years 2001 and 2002 as support paid to Marie-Claude Noël for the benefit of Yoan in the course of the taxation years 2001 and 2002.
+9. In the income tax returns that she filed for the taxation years 2001 and 2002, Marie‑Claude Noël did not report any amount as support received from Clément Jodoin for the benefit of Yoan in the course of those years.
+10. In a reassessment of Clément Jodoin dated February 27, 2003, concerning the 2001 taxation year, the Minister of National Revenue (hereinafter "the Minister") disallowed his deduction of $8,352 on account of support paid to Marie‑Claude Noël for the benefit of Yoan.
+11. On March 13, 2003, Clément Jodoin served a Notice of Objection on the Minister in respect of the 2001 taxation year.
+12. In a reassessment of Marie-Claude Noël dated June 5, 2003, concerning the 2002 taxation year, the Minister added to the income of Marie-Claude Noël an amount of $8,689 received from Clément Jodoin as support for the benefit of Yoan in the course of that taxation year.
+13. On June 11, 2003, Marie-Claude Noël served a Notice of Objection on the Minister in respect of the 2002 objection year [sic].
+14. In a reassessment of Marie-Claude Noël dated September 5, 2003, concerning the 2001 taxation year, the Minister added to the income of Marie‑Claude Noël an amount of $8,352 received from Clément Jodoin as support for the benefit of Yoan in the course of that taxation year.
+15. On November 25, 2003, Marie-Claude Noël served a Notice of Objection on the Minister in respect of the 2001 objection year [sic].
+16. On December 12, 2003, the Minister confirmed the reassessment of Clément Jodoin for the 2001 taxation year.
+17. On February 3, 2004, Clément Jodoin filed a Notice of Appeal with the Registry of the Tax Court of Canada in respect of the 2001 taxation year.
+[3] Both of Yoan's parents testified about the circumstances surrounding the negotiation of the August 30, 1996, agreement ("the Agreement"). Mr. Jodoin said that Ms. Noël was working for his business at the time that their marriage broke down. To give Ms. Noël the time to find new employment, Mr. Jodoin agreed to pay her $150 a week for one year. In addition, the $150 payable to her for Yoan commencing August 1, 1997, which was 11 months after the signing of the agreement, were to be deductible from Mr. Jodoin's income.
+[4] After signing the Agreement, the parties made an unsuccessful attempt at reconciliation and cohabitation. On the advice of his lawyer, Mr. Jodoin had the Superior Court ratify the Agreement before the new rules regarding the non‑taxation of support payments for the benefit of children ("the new rules") came into effect. The Superior Court ratified the Agreement in its divorce judgment dated March 17, 1997.
+[5] Mr. Jodoin claims that he would never have agreed to pay the $150 if it had not been deductible, because the amount was established based on the tax savings that he could get by deducting it. He also claims that, on July 21, 2004, he and Ms. Noël agreed that the amount would be tax‑free. That was the day on which the Superior Court ratified their July 19, 2004, agreement, under which the support payable for the benefit of Yoan was fixed at $120. Before that date, the support of $150 determined in 1996 had risen to roughly $190 based on the indexation rate specified in the divorce judgment.
+[6] Ms. Noël's account of the facts was entirely different from Mr. Jodoin's. While she acknowledged that he had to pay her $150 in support to enable her to find new employment, Ms. Noël insisted that the $150 payable for the benefit of Yoan effective August 1, 1997, was to be tax‑free. As evidence of this, she cited the fact that this date was clearly subsequent to the coming into force of the new rules. She claims that her son would be penalized if it were held that the $150 in support paid pursuant to the divorce judgment of March 17, 1997, was to be included in her income.
+[7] In support of her contentions, Ms. Noël tendered a letter from the lawyer who represented her when the August 1996 support was being negotiated. In the letter, which was faxed to the Ministère de la Justice and contains no date, Ms. Noël's lawyer confirms that he represented her for her divorce. At page 2 of the letter, he states:
+[TRANSLATION]
+The support payable effective August 1, 1997, was purposefully made payable for the child only, as the support had previously been both for Ms. Noël and the child without any allocation between them.
+In the course that we took, and from which we have reproduced the cover page and pages 4-5, it was specified that [in] a case such as the instant one, the judgment of March 17, 1997, fell squarely within the three cases that were subject to the new statute determining the support amount.
+In particular, we draw your attention to situation #2, which is set out at page 5 and reads as follows: "If an agreement or order made prior to May 1, 1997, specifically provides that the new tax rules will apply to payments made after a stated date, which date can be no earlier than April 30, 1997, then the new [rules] will apply to the agreement or order commencing May 1, 1997, or the agreed upon date."
+This is why, at the time, we provided that the support amount would be modified effective August 1, 1997.
+Analysis
+[8] The relevant provisions of the Act are paragraphs 56(1)(b)[1] and 60(b), as well as subsection 56.1(4), which contains the definition of "commencement day", "support amount" and "child support amount":
+60. Other deductions. There may be deducted in computing a taxpayer's income for a taxation year such of the following amounts as are applicable:
+. . .
+(b) Support — the total of all amounts each of which is an amount determined by the formula
+A – (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+. . .
+60. Autres déductions. Peuvent être déduites dans le calcul du revenu d'un contribuable pour une année d'imposition les sommes suivantes qui sont appropriées :
+[...]
+b) Pension alimentaire — le total des montants représentant chacun le résultat du calcul suivant :
+A – (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l'année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement,
+[...]
+56.1(4) Definitions. The definitions in this subsection apply in this section and section 56.
+"commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+56.1(4) Définitions. Les définitions qui suivent s'appliquent au présent article et à l'article 56.[2]
+« date d'exécution » Quant à un accord ou une ordonnance :
+a) si l'accord ou l'ordonnance est établi après avril 1997, la date de son établissement;
+b) si l'accord ou l'ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l'accord ou de l'ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l'accord ou l'ordonnance fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d'exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l'accord ou l'ordonnance, ou dans toute modification s'y rapportant, pour l'application de la présente loi.
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+"child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a natural parent.
+« pension alimentaire pour enfants »
+Pension alimentaire qui, d'après l'accord ou l'ordonnance aux termes duquel elle est à recevoir, n'est pas destinée uniquement à subvenir aux besoins d'un bénéficiaire qui est soit l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur, soit le père ou la mère d'un enfant dont le payeur est le père naturel ou la mère naturelle.
+[Emphasis added.]
+[9] A reading the provisions of the Act discloses that child support amounts payable on or after the commencement day are the only ones that are tax‑free. And in order for an agreement or order to have a commencement day, the agreement or order must have been made after April 1997, which it was not in the instant case. The new rules can also apply if the agreement or order was made before May 1997 and one of the four conditions described in subparagraphs (b)(i) through (iv) of the definition of "commencement day" is met. Of these subparagraphs, the only ones that can possibly apply here are (b)(ii) and (b)(iv). As counsel for Mr. Jodoin noted, the order of March 17, 1997, was in no way varied after April 1997; only the amount payable was changed. Consequently, I do not believe that subparagraph (b)(ii) can apply in the instant case.
+[10] While counsel for the respondent only invoked the argument based on subparagraph (b)(ii) of her Reply to the Notice of Appeal — as counsel for Mr. Jodoin pointed out — it is still appropriate to determine whether subparagraph (b)(iv) applies in the instant case.
+[11] In support of her argument, counsel for the respondent cited the decision in Dangerfield v. Canada, [2003] F.C.J. No. 930 (QL). To resolve the dispute in that case, the Federal Court of Appeal used the approach that I adopted in Veilleux v. Canada, [2002] F.C.J. No. 737 (QL), 2002 FCA 201.
+[12] In Veilleux, the Federal Court of Appeal had to decide whether an agreement enshrined in an order provided that subsection 60.1(2)[3] of the Act applied. If it did, an amount was deemed to be an allowance on a periodic basis and the recipient had discretion over the use of it. The Court held that an express reference to the numbers of subsections 56.1(2) and 60.1(2) is not required in the written agreement. In his reasons, Létourneau J.A. wrote: ". . . it need only be apparent from the written agreement that the parties have understood the tax consequences of that agreement."
+[13] In coming to this conclusion, Létourneau J.A. expressed a preference for the approach that I took in Pelchat v. The Queen, 97 DTC 945, and Ferron v. The Queen, 2001 DTC 230. In Pelchat and Ferron, it was clear that the parties had agreed that the support was to be taxable in the hands of the recipient and could be deducted by the payer. Consequently, the objective of subsections 56.1(2) and 60.1(2) was clearly met. However, as Létourneau J.A. stated in Veilleux, it is important that it "be apparent from the [order] that the parties have understood the tax consequences of the [order]." I could not possibly have concluded, in Pelchat and Ferron, that an order or written agreement provided that subsections 56.1(2) and 60.1(2) applied if it did not appear from a reading of the order or written agreement that the amounts would be deductible by the payer and taxable in the hands of the recipient. Indeed, one of the important aims that Parliament sought to achieve when it stated that the order or written agreement must provide that a specific provision of the Act applies is to ensure that the parties have clearly understood that their affairs will be governed by that provision.
+[14] The interests of justice and the sound application of tax legislation would certainly be disserved if taxpayers had no way of knowing the tax consequences of their transactions in advance. In my view, it is crucial that taxpayers be able to arrange their affairs knowing in advance the tax consequences of their transactions. Any interpretation of the Act that requires taxpayers to resort systematically to the courts to determine the tax consequences of their transactions must be avoided. If the Act states that an order or written agreement must provide that a certain provision of the Act applies, it is essential that an intent to apply that provision be apparent from the order or agreement. If that intent is not clear from the wording of the order or written agreement, I do not believe that the condition specified in the Act can be considered met.
+[15] When we apply this approach to the facts of the instant case, we face an inescapable fact: unfortunately for Ms. Noël, the Agreement does not stipulate that the $150, payable as of August 1, 1997, is to be tax-free. There would have been several ways to specify that the amount would be subject to the new rules. The parties could have stated that, commencing August 1, 1997, the $150 would not be taxable in Ms. Noël's hands and would not be deductible by Mr. Jodoin. They could have stipulated that August 1, 1997, would be a commencement day for the purposes of the application of the Act, or that paragraph (b)(iv) of the definition of "commencement day" contained in subsection 56.1(4) of the Act would apply from that day onward. They could have stated that the amount of $150 would be tax‑free as of that day. Any of these various references would have enabled this Court to find that the parties had agreed that the amount paid by Mr. Jodoin commencing August 1, 1997, was not to be included in Ms. Noël's income.
+[16] However, nothing in the wording of the Agreement of August 30, 1996, or in the divorce judgment that gives effect to it, enables me to find that the support was to be subject to the new rules. The fact that one must consider either of Yoan's parents' testimony clearly shows that the order giving effect to the Agreement does not meet the conditions set out in the Act, notably the requirement that the order specify a day as the commencement day "for the purposes of this Act" In fact, the contradictions between the interpretations adopted by Ms. Noël and Mr. Jodoin eloquently illustrate the importance of respecting the spirit and the letter of the Act, under which the intent apply the new rules must be apparent from any agreement or order made before May 1997 (or any variation thereof.)
+[17] Most surprisingly, the explanation that Ms. Noël's lawyer provides in his letter supporting her position establishes the exact opposite of her argument. The case that he invokes is completely consistent with the interpretation that I have adopted above. In order for the new rules to apply, "an agreement or order made prior to May 1, 1997" must "specifically provide that the new tax rules will apply." This being the case, why did the agreement that he drafted for Ms. Noël not expressly state that the new rules were to apply? If the lawyer in question had followed the rule described in his letter, we would not be in the situation. Quite clearly, the parties may actually have determined that the $150 in support would not be tax‑free.
+[18] Since a reading of the Agreement and the wording of the order do not make it possible to determine whether the parties intended to apply the new tax rules, I have no choice but to find that there was no "day specified in the . . . order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act."[4] Consequently, there was no commencement day in 2001 and 2001 for the order of March 17, 1997, giving effect to the Agreement of August 30, 1996.
+[19] For all the above reasons, the Court allows Mr. Jodoin's appeal in respect of the 2001 taxation year and refers the assessment for that year back to the Minister for reconsideration and reassessment on the basis that Mr. Jodoin is entitled, in computing his income, to deduct the $8,352 in support that he paid. Mr. Jodoin and Ms. Noël are both bound by this decision, to the effect that the support amount paid under the divorce judgment dated March 17, 1997 ¾ specifically $8,352 for the 2001 taxation year and $8,689 for the 2002 taxation year ¾ must be included in Ms. Noël's income, and to the effect that the support amount of $8,689 paid for the year 2002 may be deducted by Mr. Jodoin. Mr. Jodoin is entitled to his costs, which shall be determined in accordance with the rules of the Court but payable only by the respondent.
+[20] The Court also orders that sections 18.14, 18.15 and 18.23 to 18.27, and subsection 18.22(3) of the Tax Court of Canada Act, apply to the decision regarding the questions set out in paragraph 3 of the application, as stated in section 18.33 of the said Act.
+Signed at Ottawa, Canada, this 8th day of November 2004.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 24th day of March 2005
+Jacques Deschênes, Translator
+CITATION:
+2004TCC708
+COURT FILE NO.:
+2004-433(IT)I
+STYLE OF CAUSE :
+Clément Jodoin and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+September 2, 2004
+REASONS FOR JUDGMENT BY:
+Justice Pierre Archambault
+DATE OF JUDGMENT:
+November 8, 2004
+APPEARANCES:
+For the Appellant:
+Lysane Tougas
+For the Respondent:
+Stéphanie Côté
+For the Joined Party:
+the Joined Party herself
+COUNSEL:
+For the Appellant:
+Name:
+Lysane Tougas
+Firm:
+Lacoursière Lebrun Vézina
+Trois-Rivières, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Since the wording of this provision is very similar to the wording of paragraph 60(b) of the Act, I am not reproducing it in these Reasons.
+[2] By virtue of subsection 60.1(4) of the Act, the definitions in subsection 56.1(4) apply to section 60.
+[3] Subsection 60.1(2) provides as follows:
+Agreement. — For the purposes of section 60, this section and subsection 118(5), the amount determined by the formula
+A – B
+. . .
+is, where the order or written agreement, as the case may be, provides that this subsection and subsection 56.1(2) shall apply to any amount paid or payable thereunder, deemed to be an amount payable by the taxpayer to that person and receivable by that person as an allowance on a periodic basis, and that person is deemed to have discretion as to the use of that amount.
+[4] Subparagraph 56.1(4)(b)(iv).

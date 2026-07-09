@@ -1,0 +1,196 @@
+Title: Grant v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27313/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-373-27313-grant-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-06-29
+
+# Grant v. The Queen
+
+- Citation: 2006 TCC 373
+- Decision date: 2006-06-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 853, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grant v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-06-29
+Neutral citation
+2006 TCC 373
+File numbers
+2004-933(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-933(IT)G
+BETWEEN:
+DAVID GRANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2004-935(IT)G
+CATHERINE GRANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 18 and 19, 2006 at Vancouver, British Columbia
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellants:
+Joel A. Nitikman
+Lynn Jenkins
+Counsel for the Respondent:
+Robert Carvalho
+Ron D.F. Wilhelm
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeals in respect of assessments made under the Income Tax Act, in respect of the 1997 and 1998 taxation years of David Grant and in respect of the 1998 taxation year of Catherine Grant, are dismissed.
+The respondent is awarded one set of costs.
+Signed at Ottawa, Canada, this 29th day of June 2006.
+"J. Woods"
+Woods J.
+Citation: 2006TCC373
+Date: 20060629
+Dockets: 2004-933(IT)G
+2004-935(IT)G
+BETWEEN:
+DAVID GRANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+CATHERINE GRANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+I. Introduction
+[1] The appellants, David and Catherine Grant, appeal assessments made under the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.), as amended,in respect of a series of transactions referred to as a "departure trade."
+[2] I would note that the appellants are not the only taxpayers with appeals involving departure trades. Counsel informed me that the appeals of other taxpayers are scheduled for hearing later this summer.
+[3] The general concept of a departure trade is to create interest deductions that reduce tax of an individual who is planning to emigrate from Canada. The departing taxpayer borrows money from a financial institution and incurs interest which is deductible in part for the period prior to the departure. The borrowed money is simultaneously reinvested with the same financial institution and the taxpayer earns interest that is not taxable because it is received after the taxpayer has terminated Canadian residence.
+[4] The appellants, who are husband and wife, entered into an arrangement of this type with a financial institution on December 24, 1998, and then ceased to be residents of Canada on December 30, 1998. On December 24, they borrowed a large sum of money from the Canadian Imperial Bank of Commerce (CIBC) and deposited the same amount with one of the bank's subsidiaries. Both obligations matured on January 4, 1999 when the appellants were not longer residents of Canada.
+[5] Approximately US$1 billion was borrowed by the appellants in aggregate and they incurred interest expense of about US$1.7 million to be applied against their taxable income in the year of departure.
+[6] The appeals were heard together on common evidence. The relevant taxation year for both appellants is 1998 but the 1997 taxation year is also relevant for Mr. Grant because he claimed sufficient interest deductions to generate in an overall loss for the 1998 taxation year that he requested be carried back to 1997.
+II. Facts
+[7] Sometime in 1998, the appellants decided to move to Singapore and on December 30, 1998 they ceased to be residents of Canadafor purposes of the Act.
+[8] Shortly before terminating Canadian residence, the appellants negotiated a series of transactions with the CIBC. The following is a summary of these transactions which is based on the written submissions of the appellants.
+The Borrowings
+(a) On December 24, 1998 the appellants borrowed in aggregate approximately US$1 billion from the New York branch of the CIBC (the "Borrowings").
+(b) The appellants were required to repay the full principal amount on January 4, 1999.
+(c) Interest on the Borrowings accrued at 7.9756% from December 24 to 30, 1998. Interest for that period was payable on December 31, 1998.
+(d) Interest on the Borrowings accrued at 7.9756% from December 31, 1998 to January 3, 1999. Interest for that period was payable on January 4, 1999.
+(e) The 7.9756% interest rate was within normal commercial parameters.
+The Bridge Loans
+(f) The CIBC agreed to lend to the appellants approximately US$1.5 million (the "Bridge Loans") in order to finance some of the interest payable on December 31, 1998.
+The Notes
+(g) On December 24, 1998 the appellants purchased notes issued by Canadian Imperial Holdings Inc. (CIHI) in the aggregate amount of approximately US$1 billion (the "Notes"). CIHI is a resident of the United States and a wholly-owned subsidiary of the CIBC.
+(h) The Notes were repayable in full with interest on January 4, 1999.
+(i) Interest on the Notes accrued at the greater of (i) 7.3850% and (ii) USD-LIBOR-BBA + 1.9000%. USD-LIBOR-BBA is the US dollar London Inter-Branch Offered Rates as set by the British Bankers Association, and is a floating rate.
+(j) The interest rate on the Notes was within normal commercial parameters.
+Interaction between the Borrowings and the Notes
+(k) To secure the Borrowings the appellants pledged to the CIBC (i) the Notes, and (ii) cash of about US$220,000 (the "Cash Collateral").
+(l) By set off agreements dated December 24, 1998, the parties agreed inter alia that all amounts payable under the Notes would be
+paid to the CIBC to discharge the Borrowings and any balance owing under the Notes would be novated and replaced by a reduced obligation from CIHI. (This is not a complete description of the set off agreements but it is not necessary for purposes of this decision to describe them in detail.)
+Payment of the December 31, 1998 Interest
+(m) The appellants borrowed the Bridge Loans from the CIBC on December 31, 1998 with interest at 7.9756%, due and payable on January 4, 1999.
+(n) On December 31, 1998 the appellants used (i) the amounts borrowed under the Bridge Loans, (ii) the Cash Collateral, and (iii) interest accrued on the Cash Collateral from December 24 to 30, 1998, to pay interest to the CIBC of about US$1.7 million.
+The January 4, 1999 Payments on Maturity
+(o) On January 4, 1999 CIHI repaid the Notes, together with interest of US$2.5 million.
+(p) On January 4, 1999 the appellants used the proceeds from the Notes to repay the Borrowings and the Bridge Loans, together with interest on both totalling about US$1 million.
+(q) Taking into account the various steps in the transactions, the appellants lost a net total of about US$200,000.
+[9] In their Canadian income tax returns for the 1998 taxation year, the appellants claimed a deduction for interest paid on December 31 in an aggregate amount of approximately US$1.5 million. The Minister reassessed the tax payable for the year to disallow this deduction.
+[10] This is not the only amount that is at issue because the appellants actually paid interest of approximately US$1.7 million on December 31. It appears that the additional amount of approximately US$200,000 may have been inadvertently overlooked when the income tax returns were prepared.
+[11] The deductibility of US$1.7 million is the only issue in these appeals. The appellants paid an additional amount of interest on January 4, 1999 for which they did not claim a deduction. And nor did the appellants include in computing income the interest that was received on January 4. The respondent does not challenge this aspect of the transaction.
+III. Preliminary matters
+[12] At the commencement of the hearing, counsel for the appellants stated that one of the issues in the appeals is the date on which the appellants ceased to be residents of Canada. This came as a surprise to me because there was no suggestion in the pleadings that this was an issue.
+[13] Counsel informed me that the appellants were not seeking leave to amend the pleadings to add this as an issue because they did not want to go through further discoveries. Counsel argued, however, that an amendment should not be necessary because counsel for the respondent had asked numerous questions regarding residence at the discoveries.
+[14] The respondent vigorously opposed allowing the appellants to argue any issue concerning residence without an amendment to the pleadings on the ground that the questions on discovery did not fully deal with the issues.
+[15] I agreed with the respondent on this issue and declined to hear arguments regarding the time at which the appellants ceased to be residents of Canada. No application to amend the pleadings was brought. In my view it would be quite unfair to allow the appellants to raise an issue concerning residence at the hearing without such an amendment.
+[16] The hearing proceeded then on the basis that the appellants ceased to be residents of Canada on December 30, 1998.
+[17] For the sake of completeness, I would also comment that another issue that was raised in the notice of appeal was withdrawn by the appellants at the commencement of the hearing. This was a statute bar issue relating to an argument that was first raised by the respondent after the normal reassessment period had expired. Counsel for the appellants stated that he was not pursuing the statute bar argument because it was not supported by recent jurisprudence.
+IV. Issue
+[18] The sole issue to be decided is whether the interest paid by the appellants on December 31, 1998 in the amount of US$1.7 million, or some lesser portion, is deductible in computing the appellants' income for the 1998 taxation year.
+[19] The respondent's arguments are threefold.
+[20] The primary argument of the respondent is that the interest paid on December 31, 1998 cannot be deducted by virtue of the rules applicable to part-time residents in section 114 of the Act. The respondent submits that section 114 precludes the deduction because the interest was paid at a time when the appellants were not residents of Canada.
+[21] In the alternative, the respondent submits that the interest expense does not satisfy one of the conditions for the deductibility of interest set out in s. 20(1)(c) of the Act. I note that the condition that is being disputed does not relate to the income-earning purpose test in s. 20(1)(c). Rather, the respondent argues that s. 20(1)(c) prohibits the deduction because the money borrowed by the appellants was used to earn income that was exempt from tax.
+[22] Finally, the respondent submits that the deduction should be disallowed pursuant to the general anti-avoidance rule in s. 245(2) of the Act. In this regard, the appellants concede that the transactions result in a "tax benefit" and are "avoidance transactions" for purposes of s. 245(2) but they argue that the transactions do not constitute an abuse.
+V. Analysis
+[23] I will confine the analysis to the respondent's primary argument which involves section 114. Because of my conclusion on this issue, it is not necessary that I consider the respondent's alternative arguments concerning s. 20(1)(c) or s. 245(2).
+[24] Section 114 provides a special formula for the computation of taxable income of an individual who is a resident of Canadafor only part of a taxation year. Since the appellants were residents of Canadauntil December 30, 1998 and were not residents for the brief remaining part of the year, the provisions of s. 114 apply for the purposes of computing their taxable income for the entire year.
+[25] The question is whether the interest paid by the appellants on December 31 may be deducted for purposes of the computation of taxable income in section 114.
+[26] A general understanding of the scheme of section 114 is required in order to proceed with the analysis. The section provides:
+114. Notwithstanding subsection 2(2), the taxable income for a taxation year of an individual who is resident in Canada throughout part of the year and non-resident throughout another part of the year is the amount, if any, by which
+(a) the amount that would be the individual's income for the year if the individual had no income or losses, for the part of the year throughout which the individual was non-resident, other than
+(i) income or losses described in paragraphs 115(1)(a) to (c), and
+(ii) income that would have been included in the individual's taxable income earned in Canada for the year under subparagraph 115(1)(a)(v) if the part of the year throughout which the individual was non-resident were the whole taxation year,
+exceeds the total of
+(b) the deductions permitted by subsection 111(1) and, to the extent that they relate to amounts included in computing the amount determined under paragraph (a), the deductions permitted by any of paragraphs 110(1)(d) to (d.2) and (f), and
+(c) any other deduction permitted for the purpose of computing taxable income to the extent that
+(i) it can reasonably be considered to be applicable to the part of the year throughout which the individual was resident in Canada, or
+(ii) if all or substantially all of the individual's income for the part of the year throughout which the individual was non-resident is included in the amount determined under paragraph (a), it can reasonably be considered to be applicable to that part of the year.
+[27] Section 114 provides for a determination of the taxable income of a part-time resident in three steps.
+[28] First the taxpayer computes the amount described in paragraph (a) which is a modification of the computation of income in Division B.
+[29] Division B is titled "Computation of Income" and is comprised of a number of deductions and inclusions to be taken into account in the computation of income in sections 3 to 108 of the Act. It includes the deduction of interest expense in s. 20(1)(c).
+[30] Essentially paragraph (a) modifies the computation of income by requiring the taxation year to be divided into two periods - the period of residence and the period of non-residence. Income for each period is then computed in a manner similar to that generally required for Canadian residents and non-residents, respectively.
+[31] After determining the modified income in paragraph 114(a), the taxpayer is required under paragraph 114(b) to subtract specifically listed deductions. These deductions are some of the deductions provided for in Division C.
+[32] Division C is titled "Computation of Taxable Income" and is comprised of sections 109 to 114.2. It includes a number of specific deductions and inclusions in the computation of taxable income and it also includes section 114.
+[33] Lastly the taxpayer is required under paragraph 114(c) to subtract other deductions permitted in computing taxable income. The amounts that are allowed are generally limited to those that reasonably relate to the Canadian resident period.
+[34] I now apply this formula to the facts of the case. As mentioned above, interest expense is an item that is taken into account in the computation of income in Division B. As such it is taken into account in determining the amount in paragraph 114(a).
+[35] The parties agree that the interest paid by the appellants on December 31 is not taken into account in the computation in paragraph 114(a) because the interest was paid at a time when the appellants were not residents of Canada. It is not in dispute that the appropriate method of accounting for this transaction is the cash method.
+[36] The debate between the parties is whether the interest is deductible under paragraph 114(c). This turns on the proper interpretation of the following phrase in s. 114(c): "any other deduction permitted for the purpose of computing taxable income."
+[37] The respondent submits that s. 114(c) only applies to those deductions that are specifically allowed in computing taxable income, namely those deductions set out in Division C of the Act. It is argued that the wording used in s. 114(c) follows the general wording used in specific sections in Division C and should be given the same meaning.
+[38] The appellants on the other hand suggest that paragraph 114(c) permits a deduction for any expense that is deductible in arriving at a figure for taxable income provided that the expense is reasonably attributable to the part of the year that the taxpayer is a resident.
+[39] They argue that this includes deductions such as interest expense that are deductible in computing income under Division B. Further they argue that six-sevenths of the interest paid by them on December 31 is reasonably attributable to a period of Canadian residence because it relates to the period from December 24 to December 30 during which the appellants were residents of Canada.
+[40] The essential question, then, is whether paragraph 114(c) applies to deductions allowed in computing both income and taxable income, that is deductions under Divisions B and C, or whether paragraph 114(c) is restricted to deductions that are specifically allowed in computing taxable income, that is deductions under Division C.
+[41] For the reasons below, I conclude that the respondent's interpretation of s. 114(c) is the correct one based on a textual, contextual, and purposive interpretation of the legislation. The reference in paragraph 114(c) to "any other deduction permitted for the purpose of computing taxable income" is to those deductions in Division C that are stated to be deductions in computing taxable income.
+[42] The first reason is that, if Parliament had intended the result that the appellants seek, it would have provided for it more clearly.
+[43] As mentioned above, the interest expense incurred by the appellants cannot be deducted under paragraph 114(a). The interest paid on December 31 generates a loss from property which is not taken into account in paragraph 114(a) because it arises in the non-resident period of the year. Since the cash basis of accounting applies to this income, the loss arises in a non-resident period.
+[44] If Parliament had intended that cash basis taxpayers like the appellants be allowed to deduct interest on an accrual basis, which is what the appellants are effectively suggesting, it is likely that Parliament would have enacted a specific provision that modified paragraph 114(a) to explicitly give that result rather than grafting on an overlapping provision in paragraph 114(c).
+[45] If the appellants' interpretation is accepted, taxpayers would be able to claim interest deductions on a cash basis under paragraph 114(a) or on an accrual basis under paragraph 114(c).
+[46] Second, I am troubled by the fact that the interpretation suggested by the appellants would have the result that cash basis taxpayers could claim interest expense on an accrual basis and yet report the related interest income on a cash basis.
+[47] This may be illustrated by considering how the taxable income of the appellants would be calculated if the appellants had paid and received interest on December 31. Under their interpretation, six-sevenths of the interest paid would be deductible but none of the interest received would be included in income. An interpretation that gives this result should not be preferred over another interpretation unless it is clear that Parliament intended this result.
+[48] Third, I note that there are some provisions in the Act that make reference to deductions under both Division B and Division C. The wording of these provisions suggests that, when Parliament wishes to refer to both divisions, it does so explicitly. Reference may be made to sections 245(5)(a) and 248(28)(a) of the Act.
+[49] To conclude, although the wording of section 114 does present some ambiguity, in my view the ambiguity is resolved by a textual, contextual and purposive interpretation that clearly indicates that the deductions referred to in s. 114(c) are only those deductions permitted in computing taxable income under Division C.
+[50] For these reasons, I conclude that the interest paid by the appellants on December 31, 1998 is not deductible under section 114 of the Act.
+[51] The appeals will be dismissed. The respondent is awarded one set of costs.
+Signed at Ottawa, Canada, this 29th day of June 2006.
+"J. Woods"
+Woods J.
+CITATION: 2006TCC373
+COURT FILE NOS.: 2004-933(IT)G and 2004-935(IT)G
+STYLE OF CAUSE: DAVID GRANT AND HER MAJESTY THE QUEEN
+and
+CATHERINE GRANT AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: May 18 and 19, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: June 29, 2006
+APPEARANCES:
+Counsel for the Appellants:
+Joel A. Nitikman
+Lynn Jenkins
+Counsel for the Respondent:
+Robert Carvalho
+Ron D.F. Wilhelm
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Joel A. Nitikman
+Firm: Fraser Milner Casgrain LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

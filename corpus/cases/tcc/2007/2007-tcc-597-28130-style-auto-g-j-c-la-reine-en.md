@@ -1,0 +1,151 @@
+---
+title: "Style Auto G.J. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28130/index.do"
+last_modified: "2007-09-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 597"
+citation2: ""
+neutral_citation: "2007 TCC 597"
+decision_date: "2007-09-27"
+language: "en"
+item_id: "28130"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1650
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:42:00.859000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "beaa10f4d3637ff713f71845516913eb6fadb12fc9dce35201c691c4d87211d9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Style Auto G.J. c. La Reine
+
+- Citation: 2007 TCC 597
+- Decision date: 2007-09-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1650, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Style Auto G.J. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-27
+Neutral citation
+2007 TCC 597
+File numbers
+2005-864(GST)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-864(GST)G
+BETWEEN:
+STYLE AUTO G.J.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on September 27, 2007, at Montréal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Agent for the Appellant:
+Jihad Moujaes
+Counsel for the Respondent:
+Benoît Denis
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated September 1, 1998, and bears the number 032G0106194, for the period from July 12, 1995, to October 31, 1997, is allowed in part, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment so that the amount of $15,021.92 be reduced by $2,009 and set at $13,012.92, plus interest and penalties. The Respondent is entitled to her costs.
+Signed at Ottawa, Canada, this 16th day of November 2007.
+“François Angers”
+Angers J.
+Translation certified true
+on this 20th day of February 2008.
+François Brunet, Revisor
+Citation: 2007TCC597 Date: 20071116
+Docket: 2005-864(GST)G
+BETWEEN:
+STYLE AUTO G.J.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal from an assessment dated September 1, 1998, and bearing the number 032G0106194 for the period from July 12, 1995, to October 31, 1997, made against the Appellant under the provisions of the Excise Tax Act (the Act). In the assessment, the Minister of National Revenue (the Minister) added to the net tax declared by the Appellant the amount of $15,021.92, which represents the goods and services tax (GST) the Appellant should have collected on the supply of cars, as well as $1,276.47 in interest and $1,958.46 in penalties. The total amount of the assessment was therefore $18,256.85.
+[2] The issue is whether the supply of 33 cars was a zero-rated supply within the meaning of sections 1 and 12 of Part V of Schedule VI of the Act.
+[3] The Appellant, which is not incorporated, operates a car sales business. Jihad Moujaes is the owner and person in charge. His business was audited and it was determined that the Appellant did not have enough documentation to satisfy the Minister that 33 cars were sold abroad, that is to say that they were exported, or that the recipient was not a consumer. In view of those circumstances, the Minister based his assessment on the fact that the GST should have been collected when the cars were sold on the following grounds, inter alia:
+[TRANSLATION]
+. . . the supply of the motor vehicles in issue is not a zero-rated supply within the meaning of section 1 of Part V of Schedule VI of the ETA as the Appellant does not have any evidence demonstrating the exportation of the motor vehicles by the recipients, who must not be consumers and must not have acquired them for consumption, use or supply in Canada before the exportation of the property by the recipient, among other conditions;
+. . . the supply of the motor vehicles in issue is not a zero-rated supply within the meaning of section 12 of Part V of Schedule VI of the ETA as the Appellant does not have any evidence that it shipped the motor vehicles to a destination outside Canada that is specified in the contract for carriage, or that it transferred possession of the motor vehicles to a common carrier that has been retained, to ship the property to a destination outside Canada.
+[4] Mr. Moujaes submits that he co-operated and provided the Respondent’s auditor with everything he had. He states that he has other documents at his home but that he did not feel it was necessary to bring them, knowing how difficult it would be to try to find them. Mr. Moujaes also explained that he was unable to find the documentation for one of the ocean carriers as it went bankrupt. He submits that he acted in good faith and that the cars were exported. He adds that he has a form identified as “B‑13” for each of the cars exported, but he only produced one at the hearing, accompanied by a contract of sale (Exhibit A‑1), for a car whose sale was disallowed by the auditor. He submits that an employee of Revenu Québec suggested to him that it sufficed to keep that document as proof of the exportation of the cars he sold outside Canada. Form B‑13 is entitled “Export Declaration” and contains information on the exportation of goods. Those forms were submitted to the auditor at the time of the audit and some were deemed incomplete, as were some contracts for carriage that are also in issue here.
+[5] According to Sonia Moujaes, who is responsible for the Appellant’s accounting activities, the contract of sale filed together with Form B‑13 and which was disallowed is not signed by the buyer because the transaction took place either over the telephone or via the Internet and in those cases, the buyer does not see the car prior to receiving it. Wholesalers purchase cars without seeing them and if a problem arises, they renegotiate the price or cancel the sale. She states that exported cars are usually intended for merchants. The Appellant rarely pays freight costs, and payment for the cars is made by money transfer or cheques sent by mail.
+[6] A table of the supplies covered by the assessment and prepared by the auditor identifies the 33 cars in issue and the reasons for denying the exemption. While the table includes the date and price of the sale, it does not provide information on the vehicle, serial number, recipient and country of destination for each of the sales. There are 17 cars for which Form B‑13 was deemed insufficient because it was not validated and stamped by Canada Customs and because it was impossible to trace in detail the transactions. The auditor also described the Appellant’s accounting as minimal and inadequate at the time of the audit.
+[7] The auditor also assessed seven cars on the ground that the contracts for carriage were incomplete, as the recipients were not identified in the Appellant’s accounting records and because the transactions were conducted with individuals. Eight transactions indicated in the table were assessed as no documentation was provided. A final transaction was assessed as the evidence was incomplete, because the shipper was not a carrier and the auditor did not find any sales invoice beyond an entry in the Appellant’s accounting records.
+[8] Sections 1 and 12 of Part V of Schedule VI of the Act, which deal with zero-rated supplies, read as follows at the relevant time:
+PART V – EXPORTS
+1 Tangible personal property A supply of tangible personal property (other than an excisable good) made by a person to a recipient (other than a consumer) who intends to export the property where
+(a) the recipient exports the property as soon after the property is delivered by the person to the recipient as is reasonable having regard to the circumstances surrounding the exportation and, where applicable, to the normal business practice of the recipient;
+(b) the property is not acquired by the recipient for consumption, use or supply in Canada before the exportation of the property by the recipient;
+(c) after the supply is made and before the recipient exports the property, the property is not further processed, transformed or altered in Canada except to the extent reasonably necessary or incidental to its transportation; and
+(d) the person maintains evidence satisfactory to the Minister of the exportation of the property by the recipient or, where the recipient is authorized under subsection 221.1(2) of the Act, the recipient provides the person with a certificate in which the recipient certifies that the property will be exported in the circumstances described in paragraphs (a) to (c).
+. . .
+12 Tangible personal property delivered to a common carrier A supply of tangible personal property where the supplier delivers the property to a common carrier, or mails the property, for export.
+[9] The burden is therefore on the Appellant to provide proof, on a balance of probabilities, that the 33 cars it sold were exported, either because it sold the cars to a recipient other than a consumer who intended to export them or because it delivered them to a common carrier for export.
+[10] In the case as bar, some contracts of carriage were tendered in evidence, as well as only one contract of sale accompanied by a Form B‑13. Mr. Moujaes did not feel it was necessary to bring the other documents or contracts of sale that he apparently had in his possession, but at his home. It therefore becomes difficult for the Court to determine whether the Minister properly exercised his discretionary power in deciding whether the evidence of the exportation provided by the Appellant was acceptable.
+[11] In Uranus Auto Sales v. The Queen, No. 2001‑2820(GST)I, April 8, 2002, [2002] G.S.T.C. 39, this Court held that only the Minister could decide whether the evidence of the exportation provided by a taxpayer was acceptable and that the Court could not intervene unless the evidence demonstrated that, in reaching his decision, the Minister took into account extraneous factors, failed to take into account relevant facts, violated a legal principle or acted in bad faith.
+[12] In the case at bar, the auditor testified that the Appellant’s accounting was minimal and inadequate, at least during the years in issue. In most instances, he had to trace the sale of the automobiles by relying on the accounting record, as many sales invoices were non-existent. In fact, in the case of Forms B‑13, which were not stamped by Revenue Canada – Customs and Excise, it was impossible to trace in detail the transactions. The same holds true for the contracts of carriage in which the recipients were not identified, or cases where the purchaser was an individual. The Appellant did not provide any evidence that would allow me to rule that the Minister erred in evaluating the evidence of exportation provided by the Appellant.
+[13] Mr. Moujaes states that 33 cars were exported, but that he was unable to produce reliable evidence to establish that fact, either at the time of the audit or at the hearing of this case. There are eight cars for which no documentary evidence was provided at any time. It is important to reiterate the duty of every person who carries on a business in Canada in accordance with subsection 286(1) of the Act:
+286(1) Keeping books and records Every person who carries on a business or is engaged in a commercial activity in Canada, every person who is required under this Part to file a return and every person who makes an application for a rebate or refund shall keep records in English or in French in Canada, or at such other place and on such terms and conditions as the Minister may specify in writing, in such form and containing such information as will enable the determination of the person’s liabilities and obligations under this Part or the amount of any rebate or refund to which the person is entitled.
+[14] Mr. Moujaes submits that he always acted in good faith. According to him, an employee of Revenu Québec told him on two occasions that Form B‑13 was sufficient to demonstrate that a car was exported, and he relied on that information to do so. He therefore pleaded the defence of due diligence to avoid the penalty imposed. It is important to note the difference between the defence of due diligence and the defence of good faith. The Federal Court of Appeal stated the following on the issue at paragraph 29 of Corporation de l’École polytechnique v. The Queen, 2004 FCA 127:
+29 The defence of due diligence should not be confused with the defence of good faith, which applies in the area of criminal liability, requiring proof of intent or guilty knowledge. The good faith defence enables a person to be exonerated if he or she has made an error of fact in good faith, even if the latter was unreasonable, whereas the due diligence defence requires that the error be reasonable, namely, an error which a reasonable person would have made in the same circumstances. The due diligence defence, which requires a reasonable but erroneous belief in a situation of fact, is thus a higher standard than that of good faith, which only requires an honest, but equally erroneous, belief.
+[15] The fact that Mr. Moujaes relied on the information provided to him by an employee of Revenu Québec is not sufficient to establish the due diligence defence. This Court also indicated in Stafford, Stafford and Jakeman v. Canada, No. 94‑582(GST)I, February 13, 1995, [1995] G.S.T.C. 7, that “due diligence involves more than merely accepting, without more, some oral advice that an assessor with the Department of National Revenue may have given them,” and in Wong v. The Queen, No. 94‑2918(GST)I, January 9, 1996, [1996] G.S.T.C. 73, the Court stated:
+. . . Due diligence is nothing more than the degree care that a reasonable person would take to ensure compliance with the Act. It does not require perfection or infallibility. It does, however, require more than a casual inquiry of an official in the Tax Department. . . .
+[16] In conclusion, the Appellant has not succeeded in showing, on a balance of probabilities, that the Minister improperly exercised his discretionary power in reviewing the evidence of the exportation of the cars in issue, thereby necessitating the intervention of this Court. Nor has it succeeded in establishing that it delivered some of the cars to a common carrier for export or that it simply exported the cars in issue. The Appellant has also failed to establish a defence of due diligence in relation to the penalties.
+[17] The Respondent has however agreed that the assessment be referred back to the Minister of National Revenue for reconsideration and reassessment so that the amount of $15,021.92 be reduced by $2,009 and set at $13,012.92, plus interest and penalties. The appeal is allowed in part. However, the Respondent shall be entitled to her costs.
+Signed at Ottawa, Canada, this 16th day of November 2007.
+“François Angers”
+Angers J.
+Translation certified true
+on this 20th day of February 2008.
+Françoi Brunet, Revisor
+CITATION: 2007TCC597
+COURT FILE NO.: 2005-864(GST)G
+STYLE OF CAUSE: Style Auto G.J. and Her Majesty The Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 27, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: November 16, 2007
+APPEARANCES:
+Agent for the Appellant:
+Jihad Moujaes
+Counsel for the Respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

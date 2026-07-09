@@ -1,0 +1,270 @@
+---
+title: "Shoeman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25800/index.do"
+last_modified: "2004-03-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 215"
+citation2: ""
+neutral_citation: "2004 TCC 215"
+decision_date: "2004-03-26"
+language: "en"
+item_id: "25800"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3810
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:39:39.463000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2119b77e549c3b2f679ec96c81a3c485b95a7cbe803177f060c1dfc59139247e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shoeman v. The Queen
+
+- Citation: 2004 TCC 215
+- Decision date: 2004-03-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3810, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shoeman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-26
+Neutral citation
+2004 TCC 215
+File numbers
+2003-1806(IT)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1806(IT)G
+BETWEEN:
+RANDALL H. SHOEMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 11, 2004 at Regina, Saskatchewan,
+By: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Ralph Ottenbreit, Q.C.
+Counsel for the Respondent:
+Robert Gosman
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2000 taxation year is allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The Appellant is awarded party and party costs.
+Signed at Vancouver, British Columbia, this 26th day of March, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2004TCC215
+Date: 20040326
+Docket: 2003-1806(IT)G
+BETWEEN:
+RANDALL H. SHOEMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the General Procedure was heard at Regina, Saskatchewan on March 11 and 12, 2004, together with the appeal of Randall's father, Harry, on common evidence by consent of the parties. Randall, Harry Shoeman and Randall's brother, Russell Shoeman, testified for the Appellant.
+[2] Paragraphs 17 to 31 of the Reply to Randall's Notice of Appeal outline the matters in dispute. They read:
+17. In computing his income for 2000 the Appellant reported the following amounts (amounts rounded):
+interest income
+52.
+capital gains
+638.
+RRSP income
+19,168.
+other income
+1.
+net business income
+(32,469.)
+net commission income
+19,816.
+taxable income
+7,206.
+18. The Minister of National Revenue (the "Minister") initially assessed the Appellant as filed for 2000. The Notice of Assessment was dated May 3, 2001.
+19. The Minister reassessed the Appellant for 2000 and disallowed the net business loss the Appellant had claimed. The Notice of Reassessment was dated May 30, 2002.
+20. The Appellant objected to the Notice of Reassessment by a Notice of Objection received June 26, 2002.
+21. By a Notice of Reassessment dated February 19, 2003, the Minister allowed the objection in part and reassessed the Appellant to allow an allowable business investment loss of $15,670.24.
+22. The Minister initially assessed the Appellant for 2001 by a Notice of Assessment dated May 9, 2002. The Appellant did not file an objection to this assessment.
+23. In so assessing the Appellant, the Minister made the following assumptions of fact:
+(a) at all material times the Appellant was a commissioned salesperson;
+(b) the Appellant claimed a net business loss of $32,469.97 on his 2000 income tax return;
+(c) the net business loss the Appellant claimed on his 2000 income tax return was calculated as follows:
+income
+0.00
+expenses
+insurance
+24.00
+interest
+1,616.79
+office expenses
+5,915.68
+supplies
+559.51
+legal, etc.
+80.00
+travel
+2,092.48
+telephone, utilities
+1,663.42
+Ken Newman, book printing
+20,518.09
+subtotal
+32,469.97
+net business income*
+(32,469.97)
+(d) Ken Newman, who is also known as Kenneth Eugene Newman, loaned money to Russell's Company;
+(e) the Appellant's father, Harry Shoeman, not the Appellant, guaranteed the loan Ken Newman made to Russell's Company;
+(f) the $20,518.09 the Appellant included when calculating the net business loss he claimed on his 2000 income tax return was not paid by the Appellant;
+(g) the expenses the Appellant claimed when calculating the net business loss he claimed on his 2000 income tax return related to a business carried on by Russell, rather than a business carried on by the Appellant;
+(h) Russell is the Appellant's brother;
+(i) Russell wrote a book entitled "The Nature of Golf";
+(j) the first production run of Russell's Book began in 1995;
+(k) in 1999 a limited printing run of 5,000 copies of Russell's Book was done;
+(l) in order to market his book Russell incorporated 610807 Saskatchewan Ltd.;
+(m) at all material times Russell was the sole direction of 610807 Saskatchewan Ltd.;
+(n) at all material times Russell owned 100% of the issue and outstanding shares of 610807 Saskatchewan Ltd.;
+(o) Russell's Company was incorporated on or about March 29, 1995;
+(p) neither Russell not Russell's Company generated any income from Russell's Book;
+(q) neither Russell not Russell's Company sold any copies of Russell's Book;
+(r) Russell's Company did not file any income tax returns;
+(s) Russell's Company filed for bankruptcy on December 20, 2001;
+(t) on or about July 1, 1999, the Appellant entered into an agreement with Russell's Company (the "Agreement");
+(u) pursuant to the terms of the Agreement the Appellant was to pay the business related expenses of Russell's Company;
+(v) the Agreement did not include repayment terms for any amounts that the Appellant paid pursuant to the Agreement;
+(w) the Agreement did not specify that interest was payable on any amounts that the Appellant paid pursuant to the Agreement;
+(x) the Appellant earned no income from the Agreement;
+(y) all other financing agreements Russell's Company entered into included repayment terms and interest of 10% per annum;
+(z) the Appellant and Russell's Company were not dealing with each other at arm's length;
+(aa) the Appellant did not advertise or promote a company;
+(bb) the Appellant's only "client" was Russell's Company;
+(cc) the Appellant took no steps to create a client base;
+(dd) the activities specified in the Agreement were not undertaken in pursuit or profit or in a commercial manner;
+(ee) other than being a commissioned salesperson, the Appellant was not involved in a business;
+(ff) the Appellant paid some of Russell's Company's expenses;
+(gg) the Appellant was an investor in Russell's Company, not a financing company;
+(hh) any amounts the Appellant paid to or on behalf of Russell or Russell's Company were not paid for the purpose of gaining or producing income from a business or property;
+(ii) any amounts the Appellant advanced to or on behalf of Russell or Russell's Company were paid to assist a family member who was in financial difficulties;
+(jj) the Appellant did not intend to carry on the activities specified in the Agreement for profit;
+(kk) by an agreement dated August 16, 1999 and a subsequent agreement dated February 26, 2001, the Appellant guaranteed the repayment of the amount that Wayne Leibel and Robert Pyne loaned to Russell's Company.
+(ll) other than Wayne Leibel and Robert Pyne, none of the creditors of Russell's Company could take any actions against the Appellant to ensure that they were paid.
+(mm) the Appellant made the following 4 payments, which totalled $33,000.00, to Wayne Leibel and Robert Pyne in 2000:
+paid to Rob Pyne September 19, 2000
+25,000.00
+paid to Wayne Leibel September 28, 2000
+3,000
+paid to Wayne Leibel November 3, 2000
+3,500.00
+paid to Rob Pyne November 3, 2000
+1,500.00
+subtotal
+33,000.00
+(nn) other than the amounts referred to in the previous subparagraph the Appellant did not pay any amount under the personal guarantee referred to in subparagraph 23(kk) during 2000;
+(oo) the Appellant did not incur a business investment loss in excess of $33,000 in 2000; and
+(pp) the Appellant did not incur an allowable business investment loss in excess of $15,670.24 in 2000, calculated as follows:
+paid to Wayne Leibel September 28, 2000
+3,000
+paid to Wayne Leibel November 3, 2000
+3,500.00
+paid to Rob Pyne November 3, 2000
+1,500.00
+subtotal
+33,000.00
+less capital gain previously claimed
+8,541.00
+business investment loss
+24,459.00
+allowable business investment loss
+15,670.24
+B. ISSUES TO BE DECIDED
+24. The issues to be decided in this appeal are:
+(a) whether the Appellant was involved is in a business in 2000, other than being a commissioned salesperson; and if so, the net business income or loss from that business in 2000; and
+(b) whether the Appellant is entitled to deduct an allowable business investment loss in excess of the amount allowed by the Minister in 2000.
+C. STATORY PROVISIONS, GROUND RELIED ON AND RELIEF SOUGHT
+25. He relies on sections 3, 38, 111, 165 and 169, subsection 18(1), 39(9), 39(12), 50(1), 125(7), 152(8) and 248(1) and paragraphs 39(1)(c) and 40(2)(g) of the Income Tax Act (the "Act") R.S.C. 1985, c. 1 (5th Supp.) as amended for the 2000 taxation year.
+26. In response to subparagraphs 3(o) and 9(b) and paragraphs 5 and 8 of the Notice of Appeal, it is submitted that as the Appellant did not file a Notice of Objection to the assessment that was issued for the 2001 taxation year, he cannot, pursuant to subsection 169(1) of the act, appeal the assessment for the 2001 taxation year to the Tax Court of Canada and the Court cannot, therefore, grant the relief that is sought in subparagraph 9(b) of the Notice of Appeal.
+27. It is submitted that Russell, not Russell's Company, wrote the book entitled "The Nature of Golf". It is, therefore, submitted that any expenses incurred to write the book were Russell's expenses, not the Appellant's or Russell's Company's expenses.
+28. Furthermore, it is submitted that as the Appellant's brother owned 100% of the shares and was the only director of 610807 Saskatchewan Ltd., the Appellant and Russell's Company were not dealing at arm's length.
+29. Moreover, it is submitted that the Agreement did not contain any repayment terms or any interest for any amounts that the Appellant paid pursuant to the Agreement, while all of the other financing agreements Russell's Company entered into contained such terms.
+30. In addition, it is submitted that the Appellant's only "client" was Russell's Company and that the Appellant did not take any steps, such as advertising, to create a client base.
+31. Additionally, it is submitted that any amount the Appellant paid to either Russell or Russell's Company was paid to assist Russell when he was in financial difficulty, which is entirely personal and not a commercial endeavour. Furthermore, it is submitted that the Appellant did not receive any revenue from either Russell or Russell's Company with respect to any amounts he paid pursuant to the Agreement. It is, therefore, submitted that the Appellant had no source of income from the amounts he advanced to Russell or Russell's Company and that the Appellant is not entitled to deduct any business losses when computing his income under section 3 of the Act.
+[3] At the outset, Respondent's counsel pointed out the particulars contained in paragraph 26 of the Reply and it was ruled that the Court would not hear evidence relating to the objection for the Appellant's 2001 year since there have been no further proceedings respecting it.
+[4] Assumptions 23(b), (c), (d), (e), (h), (i), (l), (m), (n), (o), (r), (s), (t), (u), (v), (w), (x), (y), (z), (aa), (bb), (cc), (ff), (kk), (ll) and (mm) were not refuted by the evidence.
+[5] Respecting the remaining assumptions in paragraph 23, by subparagraph number, the Court finds:
+(a) The appellant was also a "business consultant" during the material times as he testified. However, there is no evidence that he did anything in this field except that he worked for a trucking business in an unspecified capacity to about the end of 1999, did some work pursuant to the contracts in question and helped invest his father, Harry Shoemaker's money. (All of Harry's alleged "investments" in this period appear to have been the money in question in his appeal.)
+(f, mm and nn) Randall never paid Ken Newman any money for anything. Randall did repay some money to Pyne and Leibel in 2000 on account of loans they made to Russell. He filed evidence of this consisting of $38,000 in cheques dated in 2000 (Exhibit A-30, Tab A). This was pursuant to his guarantee dated August 16, 1999, described in assumption (kk) (Exhibit A-16). It should be noted that the first of these cheques was for $25,000 to Rob Pyne on September 19, 2000 and refers to two items - "Lifesaver (Cherry) NOG Loan". The $5,000 not described in assumption (mm) is shown as a photocopy of a cheque dated October 11, 2000 to Rob Pyne.
+(g) See (gg) and (hh).
+(j and k). The only "production" of Russell's book was a printing of 5,000 copies in November, 1999.
+(l and r) Deserve substantial additional comment. Russell testified that 610807 Saskatchewan Ltd. ("610") was incorporated for tax reasons. The only tax returns 610 filed were GST returns for Input Tax Credits (Exhibit A-11) commencing effective April, 1995. The only other corporate documents it executed were corporate annual returns. Any other documents executed in 610's name are in exhibit, according to Russell's testimony. However, early in 1996, 610 did open a corporate bank account at the Sherwood Credit Union in Regina. Despite this, much of the money that Randall and Harry allege to have advanced to 610 was paid to Russell or to various creditors who were dealing with or billing Russell or, in the case of telephone bills and credit cards, Randall or Harry.
+(p and q) There were sales of Russell's Book. Some were sold in the United States for cash and none of that income was reported or recorded. Some were sold in Canada and Russell listed these in Exhibit A-33. In all, to date, the estimate is of a sale of about 1,300 or 1400 copies at $50 per copy. This appears to be the wholesale price. The book (Exhibit A-1) records a retail price of $100 per copy.
+(t, u, v, w, x) Randall's July 1, 1999 Agreement (Exhibit A-17) with 610 was for a consideration of $5.00 per copy sold after the first 5,000 copies are sold. Randall testified that before that he had an oral agreement with Russell for $1.00 per copy sold which A-17 replaced. A-17 contained no time limit. Paragraph 1. specified Randall's future services and financial commitment. It reads:
+1. Engagement
+Company hereby engaged Consultant, and Consultant accepts engagement, to provide to Company the following services:
+1) Advise the Company on business related matters such as accounting, legal, financing, administrative, marketing, technology, and others.
+2) Pay business related expenses of the Company including costs of accounting, legal, financing, administrative, marketing, technology, and others.
+(dd and ee) Despite Russell's testimony of sales in Canada (A-33) and the United States, 5,000 were not sold and Randall has received nothing. Respondent's counsel suggested to Harry and Russell that, by July 1, 1999, the book was a financial disaster and that this was completely known by July 1, 1999 when, on Russell's testimony, only 700 books had been sold. All the Shoemakers denied this. In particular, they felt that Randall "coming on board" would provide the necessary marketing impetus. Randall did assist in financing, administering and marketing. Respecting marketing, Randall and Russell met with representatives of a proposed marketing advisor and charitable sponsor in Orlando, Florida in late January, 2001; but any possible transaction fell through when a contract could not be agreed on.
+(gg and hh) Based on Exhibit A-17, Randall was not an investor in 610. Exhibit A-17 was a venture by Russell to make $5.00 per copy sold as stated therein and the amounts that he paid and the time he expended were for that purpose. He was a co-venturer with 610. Respondent's counsel argued properly that this was a venture to help out Randall's brother and father and that was the basis of the deal - personal affection. However, judging by Randall's appearance, he was in his late 30's or early 40's by 1999, he had business experience, and even though all three men lived at 23 Cowburn Crescent, Regina, Randall had his own personal responsibilities and he decided, independent of his father and his similarly mature brother, to enter into the contract of July 1, 1999. He limited his contracted time and the term of the contract to an average of ten hours per week from July 1, 1999 to December 31, 2001. Nonetheless, the $5.00 per copy would continue for the full run of the book, which they expected would amount to or exceed 100,000 copies.
+(ii, jj, kk, ll, mm, nn) It was on the basis of Exhibit A-17 that Randall signed the guarantees of August 16, 1999 and February 26, 2001 guaranteeing Leibel and Pyne. The Court accepts Exhibit A-30, Tab A, that this amounted to $38,000 in 2000 (and not the $20,518.09 described as paid to Ken Newman in assumption 23(c)). Exhibit A-17 indicates that the remaining expenses claimed in assumption 23(c) also constitute business expenses incurred as an adventure in the nature of trade. In the Court's view it is pursuant to and as a natural consequence of Exhibit A-17 that Randall guaranteed Pyne and Leibel in Exhibits A-16 and A-18 when they agreed to lend 610 the overdue money due from Russell and 610 to Newman for his loan and interest incurred for printing and, in addition, for the costs necessary for distribution. This money would fund the distribution steps necessary for the book to succeed and pay off Newman.
+(oo and pp) For these reasons, the Court finds that the business expenses described herein under the previous reference (ii, jj, kk, ll, mm, nn) constitute business expenses and a business loss to Randall from an adventure in the nature of trade in the year 2000.
+[6] The appeal is allowed and this matter is referred to the Minister of National Revenue for reconsideration and reassessment pursuant thereto. The Appellant is awarded his party and party costs.
+Signed at Vancouver, British Columbia, this 26th day of March, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC215
+COURT FILE NO.:
+2003-1806(IT)G
+STYLE OF CAUSE:
+Randall H. Shoeman v. The Queen
+PLACE OF HEARING:
+Regina, Saskatchewan
+DATE OF HEARING:
+March 11, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT:
+March 26, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Ralph Ottenbreit, Q.C.
+Counsel for the Respondent:
+Robert Gosman
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Ralph Ottenbriet, Q.C.
+Firm:
+Robertson Stromberg
+Regina, Saskatchewan
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,104 @@
+Title: Comparelli v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27613/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-238-27613-comparelli-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-04-24
+
+# Comparelli v. The Queen
+
+- Citation: 2007 CCI 238
+- Decision date: 2007-04-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 434, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Comparelli v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-24
+Référence neutre
+2007 CCI 238
+Numéro de dossier
+2005-193(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2007CCI238
+Date : 20070504
+Dossier : 2005-193(IT)G
+ENTRE :
+ANTHONY COMPARELLI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Avocat de l’appelant : Me Douglas D. Langley Avocate de l’intimée : Me Jenny P. Mboutsiadis
+____________________________________________________________________
+MOTIFS DE L’ORDONNANCE
+(Rendus oralement à l’audience
+à Toronto (Ontario) le 19 janvier 2007)
+Le juge McArthur
+[1] Il s’agit d’une requête visant l’obtention d’une ordonnance portant que le ministre du Revenu national doit faire en sorte que Hillary Fox, pour le compte de l’intimée, comparaisse de nouveau en vue de répondre aux questions auxquelles elle a refusé de répondre lors de son interrogatoire préalable, le 20 octobre 2006. La requête renferme en outre une demande en vue de l’obtention d’une ordonnance concernant une prorogation de délai. J’examinerai cette question en dernier lieu.
+[2] La requête est notamment fondée sur ce que, le 20 octobre 2006, Hillary Fox a comparu à un interrogatoire préalable. Au cours de l’interrogatoire, Mme Fox a refusé sans motif légitime de répondre à certaines questions portant sur la responsabilité d’autres administrateurs de mindthestore.com, que j’appellerai la société.
+[3] L’appel qui est à l’origine de la présente requête découle d’une cotisation établie en vertu du paragraphe 227.1(1) de la Loi de l’impôt sur le revenu et de dispositions connexes, par suite de l’omission de la société de verser des retenues à la source, l’appelant étant l’un des cinq administrateurs de la société. L’appelant cherche à obtenir des renseignements au sujet des quatre autres actionnaires; il veut notamment savoir s’ils ont fait l’objet de cotisations à l’égard de la responsabilité de la société et, dans la négative, pourquoi pas. Dans l’affirmative, les autres actionnaires ont‑ils interjeté appel? L’appelant demande des copies des lettres et des rapports ainsi que d’autres renseignements détaillés au sujet des quatre autres actionnaires.
+[4] Le ministre prend la position selon laquelle l’alinéa 241(4)l) de la Loi de l’impôt sur le revenu interdit à l’intimée de répondre, et en outre que ces renseignements n’ont rien à voir avec les questions qui se posent dans l’appel.
+[5] La position prise par l’appelant est notamment que les renseignements concernant les autres administrateurs sont pertinents dans son appel, en particulier parce que des erreurs ont peut‑être été commises au sujet des quatre actionnaires, erreurs qui ont influé sur la cotisation dont il a fait l’objet. Il demande que le ministre divulgue les renseignements en question conformément à l’alinéa 241(4)b). Le règlement de la présente requête est principalement fondé sur l’application des dispositions ci‑après reproduites :
+241(1) Sauf autorisation prévue au présent article, il est interdit à un fonctionnaire:
+a) de fournir sciemment à quiconque un renseignement confidentiel ou d’en permettre sciemment la prestation;
+Mais il y a encore plus. L’exception que l’appelant invoque figure à l’alinéa 241(4)b), selon lequel des renseignements confidentiels peuvent être divulgués :
+241(4) Un fonctionnaire peut:
+[...]
+b) fournir à une personne un renseignement confidentiel qu’il est raisonnable de considérer comme nécessaire à la détermination de quelque impôt, intérêt, pénalité ou autre montant [...]
+Et des précisions sont ensuite données.
+[6] La question se résume à savoir s’il est raisonnable de considérer comme nécessaires les renseignements que l’appelant cherche à obtenir pour ce qui est de la question qui se pose dans le présent appel. Les deux parties conviennent qu’il s’agit de savoir si l’appelant a agi avec le degré de soin, de diligence et d’habileté pour prévenir le manquement de la société d’effectuer et de verser les retenues qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables, comme le prévoit le paragraphe 227.1(3).
+[7] L’appelant se trouve dans une situation peu enviable : il ne sait pas si les renseignements demandés lui seront utiles, ou s’ils sont nécessaires à ses fins. Les quatre autres actionnaires ont peut‑être fait l’objet de cotisations ou ils n’en ont peut‑être pas fait l’objet; nous ne le savons pas.
+[8] Une chose est constante au paragraphe 227.1(3), dans les « affaires de diligence raisonnable » : chaque appel doit être examiné selon les faits qui lui sont propres. Ce qui s’applique à un actionnaire ne s’applique peut‑être pas à un autre actionnaire. Les critères à appliquer sont à la fois subjectifs et objectifs, et je me reporte sur ce point à la décision Soper v. The Queen[1]. L’appelant craint que les renseignements sur lesquels le ministre s’est fondé dans le cas de ses collègues ne soient peut‑être pas exacts. Ainsi, il est possible qu’il ait été soutenu que l’appelant était le seul actionnaire pleinement informé. On ne m’a fourni aucun renseignement qui me soit utile sur ce point. Il n’existe absolument aucun élément de preuve qui aide à déterminer s’il est raisonnable de considérer les dossiers des autres actionnaires comme nécessaires lorsqu’il s’agit de décider si l’appelant a satisfait aux exigences de la Loi de l’impôt sur le revenu en ce qui concerne la diligence raisonnable.
+[9] L’appelant n’a pas témoigné. Nous ne savons pas s’il s’est informé auprès de ses collègues au sujet des cotisations passées dont ils ont fait l’objet. Les actes de procédure de l’appelant ne nous aident pas sur ce point. L’appelant conteste uniquement la question de la diligence raisonnable. Les hypothèses émises par le ministre ne traitent pas des autres administrateurs et, conformément au paragraphe 227.1(1), l’appelant est solidairement responsable de l’omission de la société.
+[10] De toute évidence, le ministre ne peut pas percevoir plus que ce que la société doit et il doit fournir une comptabilité à l’appelant. Toutefois, il ressort de la lecture du paragraphe 227.1(1) que le ministre n’est pas tenu d’établir des cotisations à l’égard des autres actionnaires. L’application du paragraphe 227.1(1) est peut-être plutôt dure pour l’appelant dans ce cas‑ci. On s’attend à ce que le ministre déploie des efforts raisonnables afin d’obtenir le paiement demandé en établissant des cotisations à l’égard de tous les administrateurs, pour satisfaire aux exigences des paragraphes 227.1(1) et 227.1(3).
+[11] Les deux parties ont mentionné plusieurs décisions. En particulier, l’appelant a invoqué la décision Page v. The Queen[2], dans laquelle trois appelants étaient administrateurs, avec deux autres appelants, d’une société de gestion d’un cabinet d’avocats qui avait omis de déduire ou de retenir certains montants et de les verser au receveur général. Les appelants avaient fait l’objet de cotisations à l’égard de ces montants, mais les deux autres administrateurs n’avaient fait l’objet d’aucune cotisation. Les appelants avaient présenté une requête conformément au paragraphe 241(4) de la Loi en vue d’obliger le ministre à produire certains documents concernant les deux autres administrateurs. En conclusion, le juge Bell a dit ce qui suit :
+Dans chacune des affaires des appelants, les documents recherchés ne sont pas les déclarations de revenus d'une autre personne. Dans la mesure où de tels documents existent, il se peut qu'ils renferment des renseignements inexacts. En outre, il est possible que ces documents aient influé sur la décision ou les décisions des fonctionnaires du ministère concernant la responsabilité des administrateurs [...]
+[12] De plus, dans la décision General Motors Acceptance Corp. of Canada Ltd. v. R.[3], le juge Bell a mentionné la décision Page; il a notamment dit que les cinq administrateurs collaboraient à une initiative commune. De l’avis de la Cour, il était raisonnable de considérer les documents en question comme nécessaires à la détermination de quelque impôt, intérêt ou pénalité en vertu de la Loi.
+[13] En l’espèce, nous ne disposons d’aucun élément de preuve en vue de nous aider à décider s’il y a, ou s’il peut y avoir, des renseignements inexacts et je ne suis pas prêt à supposer ou inférer que les renseignements obtenus des autres actionnaires ont peut‑être influencé le ministre. Dans la décision Hockhold v. The Queen[4], qui se rapportait expressément à une requête visant à faire rejeter certaines allégations, le juge Rothstein a dit ce qui suit :
+Le demandeur semble se préoccuper de ce que d’autres contribuables ont connu un traitement différent de celui que Revenu Canada lui a réservé. Quels que soient les motifs de l’action de Revenu Canada à l’égard d’autres contribuables, ils ne se rapportent pas au cas du demandeur.
+Le juge a ajouté ce qui suit à la page 5344 :
+[...] Bien qu’on comprenne que le demandeur trouve injuste le fait que Revenu Canada semble avoir traité différemment les contribuables se trouvant dans des circonstances semblables, cela ne peut constituer le fondement de l’appel du demandeur.
+Ces remarques sont pertinentes dans le cas qui nous occupe, et ce, même si l’appelant ne demande pas à être traité de la même façon que les autres contribuables, ou à ne pas être traité différemment des autres contribuables. L’appelant demande des renseignements qui peuvent, ou ne peuvent pas, l’aider.
+[14] Le ministre a une obligation sérieuse envers les contribuables lorsqu’il s’agit d’assurer la confidentialité de dossiers individuels. Pour trahir la confiance qui lui est accordée, il faut des motifs plus sérieux que ceux qui m’ont été présentés. Je ne puis conclure qu’il est raisonnable de considérer comme nécessaires les renseignements demandés pour ce qui est de la question de savoir si l’appelant a fait preuve d’une diligence raisonnable. Pour ces motifs, la requête de l’appelant est rejetée et les dépens sont adjugés à l’intimée.
+[15] En outre, l’appelant a demandé une prorogation de délai en vertu de l’article 125 des Règles de la Cour canadienne de l’impôt (procédure générale) afin de satisfaire à certains engagements; après avoir consulté les avocats des parties, j’ai prorogé le délai jusqu’au 5 mars 2007.
+Signé à Ottawa, Canada, ce 4e jour de mai 2007.
+« C.H. McArthur »
+Juge McArthur
+RÉFÉRENCE : 2007CCI334
+No DU DOSSIER DE LA COUR : 2005-193(IT)G
+INTITULÉ : Anthony Comparelli
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 17 janvier 2007
+MOTIFS DE L’ORDONNANCE : L’honorable C.H. McArthur
+DATE DE L’ORDONNANCE : Le 5 février 2007
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Douglas D. Langley
+Avocate de l’intimée :
+Me Jenny P. Mboutsiadis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Douglas D. Langley
+Cabinet : Wilson Vukelich LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 97 DTC 5407.
+[2] [1996] 1 C.T.C. 2697.
+[3] [1999] 3 C.T.C. 2069.
+[4] 93 DTC 5339.

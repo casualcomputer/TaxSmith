@@ -1,0 +1,198 @@
+---
+title: "Meyer v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28761/index.do"
+last_modified: "2004-03-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 199"
+citation2: ""
+neutral_citation: "2004 TCC 199"
+decision_date: "2004-03-04"
+language: "en"
+item_id: "28761"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1548
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:44:18.593000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "670e8226c52ee8001be5c26df3365fa0b7127f9eb2465916964ae84c4d1e91fc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Meyer v. The Queen
+
+- Citation: 2004 TCC 199
+- Decision date: 2004-03-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1548, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Meyer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-04
+Neutral citation
+2004 TCC 199
+File numbers
+2003-1851(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1851(IT)I
+BETWEEN:
+PHILIP A. MEYER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 18, 2003 at Victoria, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gavin Laird
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is dismissed for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of March 2004.
+"J.E. Hershfield"
+Hershfield, J.
+Citation: 2004TCC199
+Date: 20040304
+Docket: 2003-1851(IT)I
+BETWEEN:
+PHILIP A. MEYER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hershfield, J.
+[1] The Appellant was a resident of Canada at all relevant times. He was a citizen of both the United States and Canada and filed income tax returns in both jurisdictions in respect of his 2001 taxation year.
+[2] As a resident of Canada the Appellant is subject to tax on his income earned anywhere in the world subject to limitations and restrictions agreed to by Canada in applicable tax treaties with foreign jurisdictions. As well, section 126 of the Income Tax Act of Canada (the "Act") provides credits for foreign taxes paid to foreign jurisdictions on foreign source income.
+[3] Aside from some nominal Canadian source investment income reported only in Canada, the Appellant had only two sources of income in the subject year: U.S. employment income of $57,180.00 (US) and U.S. sourced pension income of $43,000.00 (US). The income inclusion amounts including the currency conversion rate used (1.5748) are not in dispute. That is, it is acknowledged that the Appellant had $90,047.00 (CDN) of U.S. source wages and $67,716.00 (CDN) in U.S. sourced pension income.
+[4] Having filed an income tax return in the United States respecting such income and having paid tax in the United States on such income, the Appellant claimed a credit for U.S. taxes paid against his Canadian tax liability attributable to such income pursuant to section 126 of the Act. The Canada Customs and Revenue Agency ("CCRA") denied a portion of the credit claimed on the basis that the U.S. tax paid on the U.S. source pension income exceeded the tax allowed under the Canada-U.S. Income Tax Convention (the "Treaty"). Article XXVIII of the Treaty would limit the tax that the U.S. can impose on a resident of Canada to 15% of periodic pension payments arising in the U.S. There is no dispute that the pension income in this case is subject to such limit imposed by such article of the Treaty.[1]
+[5] The issue in this appeal, then, as raised by the Appellant, is whether the Appellant is entitled to a credit under section 126 of the Act for tax actually paid in the U.S. notwithstanding that the tax that ought to have been imposed by the U.S. under the Treaty was less.
+[6] The Appellant filed a joint form 1040 return in the U.S. with his wife. Such return does not state that the Appellant was not a resident of the U.S. nor does it state that he was a Canadian resident although the address on the return is a Canadian address. Further, the U.S. return does not include any forms, schedules or returns (prescribed or otherwise) pertaining to non-resident Treaty claims. Indeed, nothing in the return (except the address) would signal a Treaty issue. As such it seems, and I accept on the evidence, that the Appellant was assessed tax in the U.S. without regard to the Treaty as if he were a U.S. resident on his U.S. reported income which was, as stated, his U.S. source pension and his U.S. employment income. That is, Article XXVIII of the Treaty has not been applied by the U.S. and the Appellant maintains that it is not his responsibility to seek U.S. compliance with the Treaty. The Appellant, in effect, asserts that section 126 of the Act and paragraph 2 of Article XXIV of the Treaty permit the full credit as claimed and that it is incumbent on the Respondent to seek payment from the U.S. of the excess U.S. taxes paid by him on his U.S. pension source income or to take steps on his behalf to ensure that the U.S. applies the Treaty rate to the U.S. source of pension income.
+[7] Before referring to the text of the relevant provisions of the Act and the Treaty, it might be helpful to review the mechanics applied by the CCRA in determining that the rate of tax applied by the U.S. on the Appellant's U.S. source pension income was in excess of the 15% permitted by the Treaty.
+[8] In calculating the reduction of the credit, the CCRA has attributed the U.S. tax payable to each income source. The attribution of the tax liability to each source is fairly straightforward since the allowable deductions in computing taxable income in the U.S. were non-source deductions. This enabled the CCRA to allocate the tax paid in the U.S. pro rata as between the pension source income and the employment source income on the basis of relative gross amounts reported.[2] Following this approach it was determined that the tax paid on the U.S. source pension income was $12,118.00 (CDN) compared to the $10,157.00 (CDN) that would be payable if the maximum Treaty rate of 15% had been applied.
+[9] I accept that if the Appellant had identified a Treaty issue when filing U.S. returns and claimed the benefit of the Treaty in respect of his pension income, that the U.S. tax liability would have been reduced. It is also safe to conclude, I believe, that the reduction in U.S. tax would at least equal the amount determined by the CCRA although ultimately it seems that the correct U.S. tax can only be absolutely determined by subjecting the Appellant's U.S. position to the appropriate U.S. filing and assessment regimes which has not been done and which the Appellant refused to do.[3] In any event, I have not been asked to determine the correct U.S. tax liability in this case. It is sufficient, in terms of framing the issue before me, that I am satisfied that the U.S. taxes paid in this case were in excess of the applicable Treaty rate and that the amount disallowed by the CCRA as a credit, was not greater than such excess. However, that said, it must be acknowledged that there is no statutory basis for the attribution theory being applied by the CCRA.
+[10] Indeed, the Appellant takes issue with this method of attributing U.S. tax liability as between his two sources of income and argues that he should be given the benefit of any imprecision in these matters. For example, the Appellant urges me to assume that the rate of tax on the pension income was in fact 15% and that the rate of tax on the employment income was that rate required to effect the actual tax imposed on the aggregate amount. Indeed, the Appellant has produced evidence that his pension receipts were subject to a 15% withholding tax which was remitted to the U.S. Treasury. The Appellant argues that such remittance demonstrates that the tax paid in respect of the U.S. source pensions was only such 15% amount. The Respondent argues that such withholding and remittance identifies an amount of money credited in the U.S. against U.S. tax liability but does not itself fix the liability in respect of any particular source of income. I agree with the Respondent on this point. The withholding and remittance is on account of an estimated or presumed tax liability.[4] If the liability proves to be in excess of the amounts withheld or remitted based on the filing approach adopted by the taxpayer and accepted by the taxing authority, the difference must be made up by the taxpayer. In this case the return filed and accepted in the U.S. put all U.S. source income in the same basket and tax was determined on that basis. It is not possible to say that a particular source of income enjoyed one bracket (or rate) of tax or another when it is the aggregate amount from all sources that dictated the effective rate of tax. Once determined, it is the effective rate of tax on the aggregate income that determines the actual rate of tax on each component comprising that aggregate.
+[11] Regardless of the rate of tax paid in the U.S. and whether a lower rate ought to have been applied, the Appellant did pay U.S. tax in excess of the amount of the credit allowed by the Respondent. Does the Act not simply allow a credit for taxes actually paid to a foreign jurisdiction? Does the Treaty not allow the credit on a similar basis? Can it be argued that an excessive payment is not a "tax"?
+[12] Consider section 126 of the Act. Editing out all portions of that subsection that have no relevance to this case, the subsection reads as follows:
+126. (1) A taxpayer who was resident in Canada at any time in a taxation year may deduct from the tax for the year otherwise payable under this Part by the taxpayer an amount equal to
+(a) such part of any non-business-income tax paid by the taxpayer for the year to the government of a country other than Canada . . . as the taxpayer may claim (emphasis added)
+not exceeding, however,
+(b) that proportion of the tax for the year otherwise payable under this Part by the taxpayer that
+(i) . . . the total of the taxpayer's qualifying incomes . . .
+is of
+(ii) the total of
+(A) the amount, if any, by which,
+(I) . . .
+(II) . . . the total of the taxpayer's income for the period . . .
+exceeds
+(III) . . . an amount deducted by the taxpayer under . . .paragraph 110(1)(f) . . .; and
+(B) . . .
+[13] There is no dispute that all the incomes in the case at bar are "qualifying incomes" for the purposes of subparagraph (b)(i) above. The Respondent denies, however, that all the tax paid by the Appellant in the U.S. was "non‑business‑income tax". Only the "non-business-income tax" is creditable under paragraph (a) above. The Respondent relies on the definition of "non‑business‑income tax" in subsection 126(7) of the Act which the Respondent asserts would reduce the tax recognized as paid by the Appellant in the U.S. for the purposes of the credit by the amount referred to in paragraph (i) of that definition. Paragraph (i) of the definition of "non-business-income tax" reads as follows:
+"non-business-income tax" paid by a taxpayer for a taxation year to the government of a country other than Canada means, subject to subsections (4.1) and (4.2), the portion of any income or profits tax paid by the taxpayer for the year to the government of that country that
+. . .
+but does not include a tax, or portion of a tax, . . .
+(i) that can reasonably be regarded as relating to an amount that was deductible under subparagraph 110(1)(f)(i) in computing the taxpayer's taxable income for the year.
+[14] Subparagraph 110(1)(f)(i) of the Act reads as follows:
+(i) an amount exempt from income tax in Canada because of a provision contained in a tax convention or agreement with another country that has the force of law in Canada. (emphasis added)
+[15] At trial Respondent's counsel urged me to find that allowing a credit for taxes paid to a foreign jurisdiction can reasonably be regarded as relating to an amount exempt from tax because of the Treaty. It is a strange notion to think of a credit as an exemption from tax.[5] Further with or without the Treaty, the credit is afforded by subsection 126(1) so it cannot be said that it is an exemption because of the Treaty. Assuming then that paragraph 126(7)(i) does not apply to reduce the Appellant's "non-business-income tax", the amount of the credit in this case under paragraph 126(7)(a) would simply be the amount of U.S. income tax paid by the Appellant which was $28,209.00 (CDN). This amount is reduced if the amount calculated under paragraph (b) of subsection 126(7) is a lower amount. The amount calculated in paragraph (b) is the proportion of the Canadian tax otherwise payable that the taxpayer's qualifying incomes is of the taxpayer's total income for the year less amounts deducted under paragraph 110(1)(f). Applying this formula on the same basis referred to above,[6] the proportion referred to would be one-to-one so that the paragraph 126(1)(b) amount would be the Canadian tax payable which was $27,210.00. In fact this is what the Appellant claimed.[7]
+[16] Having cautioned Respondent's counsel that his argument was not persuasive, I allowed him to make a written submission to better explain the CCRA's position. The relevant part of his submission reads as follows:
+14. The Preamble of the definition of "non-business-income tax" clearly requires payment of an "income or profits tax".
+15. Caselaw regarding what constitutes a tax for purposes of "non-business-income tax" was reviewed by the Tax Court in Yates v. The Queen, 2001 DTC 761 (T.C.C.). In Paragraphs 15-21 Justice Campbell illustrates that an essential component of a tax is that payment is not voluntary but rather compulsory.
+16. In Kempe v. R. [2001] 1 C.T.C. 2060 (T.C.C.) Judge Hamlyn relied upon the Supreme Court of Canada decision in Lawson v. Interior Fruit Committee (1930), [1931] S.C.R. 357 (S.C.C.) to find that a German church tax was a compulsory obligation and therefore a tax for purposes of the foreign tax credit. Specifically, Judge Hamlyn stated:
+A tax is a levy, enforceable by law imposed under the authority of a legislature, imposed by a public body and levied for a public purpose.
+17. In Yates, Justice Campbell also relies upon Canada (Attorney General) v. British Columbia (Registrar of Titles of Vancouver Land Registration District), [1934] 4 D.L.R. 764 (B.C.C.A.) as dictating that the "essentials" of a tax must meet two tests:
+The tests are (1) it must be enforceable by law; (2) imposed by a public body under legislative authority and for a public purpose. In addition "compulsion is an essential feature" (Halifax v. Nova Scotia Car Works (1914), 18 D.L.R. 649, at p. 652).
+Shawinigan Water & Power Co. (1953), 53 DTC 1036 (Can. Ex. Ct.).
+18. Justice Campbell also relies upon the Black's Law Dictionary definition of a tax:
+[20] Black's Law Dictionary defines "tax" as follows:
+A charge by the government on the income of an individual, corporation, or trust, as well as on the value of an estate or gift or property. The objective in assessing the tax is to generate revenue to be used for the needs of the public.
+A pecuniary burden laid upon individuals or property to support the government, and is a payment exacted by legislative authority. Essential characteristics of a tax are that it is not a voluntary payment or donation, but an enforced contribution, exacted pursuant to legislative authority.
+19. In the case at bar it is common ground that because of the Treaty Benefit the Appellant was only required to pay 15% tax to the United States on his U.S. source pension income.
+20. The amount paid to the U.S. taxing authority in excess of the 15% was apparently a mistake.
+21. A mistaken excessive payment cannot be a tax. It lacks the necessary element of compulsion – the source of the overpayment was not the U.S. taxing authority but rather the Appellant himself.
+22. Moreover, the excessive payment should be refundable. Admittedly, there is no evidence supporting this contention. However, there is also no evidence before the Court that the U.S. would be unwilling to refund the excessive payment once properly informed of the mistake.
+23. If the Appellant has missed the limitation period and cannot receive a refund due to inaction on his part, that does not make the initial mistaken payment compulsory.
+24. For these reasons the excessive payment by the Appellant was not a tax and therefore cannot be included in the definition of "non‑business‑income tax".
+[17] The Appellant submitted a response to the Respondent's submission. He denies that he did not advise the U.S. of his Canadian residence status and submitted a letter, not introduced at trial, that he asserts was sufficient advice to the IRS of such status. He asserts that the letter was a cover letter enclosed with his U.S. tax return. The letter states that he is a U.S. citizen living in Canada and required to pay tax in Canada. He refers to Article XXIV, paragraph 4(b), of the Treaty (referring to U.S. citizens resident in Canada) and requests a review of the issue of a U.S. tax credit for Canadian taxes paid. The letter makes no reference to a review of any U.S. tax reductions (as opposed to U.S. tax credits) available under the Treaty. Even accepting this letter as evidence, to which the Respondent might properly object, I cannot accept that it is a notice of his claiming a tax rate benefit under the Treaty or even a review of such entitlement. The Respondent's position that the U.S. tax paid constitutes a voluntary tax is not undermined by the review sought in the letter. The burden of proof is on the Appellant to show that there was, having regard to his circumstances, a liability for the amount paid as a tax payable. That might be established, prima facie, by an assessment of a return as filed where the return as filed included the information necessary to draw that inference. That is not the case here.
+[18] The Appellant also urges me in his submission to accept a literal construction of the words "tax paid" used in the provisions of the Act cited above. This begs the question as to the meaning of the word "tax". Clearly something was "paid". That it was intended to be paid as a "tax", that it was erroneously believed to be a "tax" owing and that it was calculated on a return determining "tax" payable, do not make it a "tax". The question remains, was it a compulsory amount required to be paid? If not, the authorities suggest it is not a "tax".
+[19] The Appellant also referred me to an exchange of information Article in the Treaty but the reference appears incorrect. I suspect the reference was intended to be to Article XXVI which I shall deal with later in these Reasons.
+[20] While I have some reservations in accepting the notion that the CCRA can determine if a foreign tax paid is a voluntary payment and therefore not a "tax", on the facts of this case, based on the authorities cited by the Respondent, I accept that the amount in dispute was not a "tax" paid to the foreign jurisdiction in question. That is not to say however that all voluntary payments are not a "tax". For example, that one might not claim discretionary deductions and voluntarily increase the tax in a foreign jurisdiction would not entitle the CCRA to deny a credit on that basis. Nor should the CCRA dictate any foreign filing position on a resident taxpayer. However, where the resident taxpayer has approached his foreign filing position without regard to providing the information necessary to determine the tax payable, such as not submitting required forms or return information to claim a Treaty entitlement, and has refused to correct the error or establish that it was not in error, the resultant overpayment can be regarded as an amount paid other than as a "tax".
+[21] I would add that my reservations in accepting the notion that the CCRA can determine if a foreign tax paid is a voluntary payment and therefore not a "tax", are also rooted in the Treaty. Article XXIV, paragraph 2 of the Treaty provides as follows:
+2. In the case of Canada, subject to the provisions of paragraphs 4, 5 and 6, double taxation shall be avoided as follows:
+(a) Subject to the provisions of the law of Canada regarding the deduction from tax payable in Canada of tax paid in a territory outside Canada and to any subsequent modification of those provisions (which shall not affect the general principle hereof)
+(i) Income tax paid or accrued to the United States on profits, income or gains arising in the United States, and (emphasis added)
+. . .
+shall be deducted from any Canadian tax payable in respect of such profits, income
+or gains; . . .
+In contrast, paragraph 1 of that Article, addressing the case of the United States, provides that the credit is limited to "the appropriate amount of income tax paid or accrued to Canada". One might argue then that Canada saw fit not to provide such safeguard against the allowance of a credit for "inappropriate" taxes paid to the United States. On the other hand, the Canadian drafters of the Treaty would be allowed to rely on jurisprudence or opinions that would confirm that an amount paid gratuitously without basis under the laws of the foreign jurisdiction would not be a "tax" and to thereby choose not to embrace language in the Treaty that is as dangerously wide as the language the United States chose to embrace in respect of crediting foreign taxes paid by its residents.
+[22] With that said, I wish to emphasize that it is always open to the taxpayer to bring evidence that the foreign tax paid was not gratuitously paid without basis under the laws of the foreign jurisdiction. That is a question this Court can determine but the onus is on the taxpayer. The Appellant chose to ignore that onus and simply wanted the CCRA to work it out with the U.S. Treasury or Internal Revenue Service and leave him out of it. This is not an acceptable position in my view. That is, while the language of section 126 does not ultimately permit the CCRA to deny a credit because it has reason to believe that the foreign tax has been erroneously calculated under the laws of that foreign jurisdiction or is limited by provisions of the tax Treaty between that jurisdiction and Canada, nothing prevents it from taking that position and putting the onus on the taxpayer to show that such belief is not well-founded. In any event Article XVIII, paragraph 2(a), expressly provides that the U.S. cannot charge a tax in excess of 15% in respect of pensions received from the U.S. by a Canadian resident. Article XXIX, paragraph 3, provides that this limitation applies to citizens of the U.S. An excess amount paid then is not a "tax".
+[23] In arguing that Canada and the U.S. should work this out between them and leave him out of it, the Appellant has by the nature of his argument effectively referred me to Article XXVI of the Treaty. In general terms this Article permits taxpayers to request that the competent authority of the Contracting State of which he is a resident resolve by agreement with the other Contracting State a justifiable assertion that the actions of a Contracting State will result in taxation not in accordance with the provisions of the Treaty. The question under that Article is whether the CCRA ought to have caused the competent authority to seek an agreement with the U.S. to determine the appropriate U.S. tax liability and Canadian foreign tax credits in respect of the Appellant's U.S. source income before assessing him and denying the credit in excess of the agreed tax limit under the Treaty.
+[24] I do not believe that the Appellant can take this position. Ignoring that he has not made a written request to the competent authority (other than the implicit request suggested by his appeal), it would be open to the competent authority to refuse the request on the basis that it was not justified. Implicitly I might assume that that is what has occurred. While my jurisdiction to consider a "justification" issue is limited at best, I note that the Respondent's decision not to use the competent authority provision of the Treaty to seek an agreement in the Appellant's case with the U.S. is readily justified. The Appellant has made no attempt to at least claim his entitlement under the Treaty. Whether intentional or not, his approach is to allow the U.S. Treasury a greater amount of "tax" than it has agreed to exact under the Treaty and to then seek a credit for that excess amount voluntarily paid in the U.S. against his Canadian tax liability. By not claiming the benefit of the Treaty in favour of himself as a Canadian resident, the Appellant has gifted the United States Treasury a fiscal advantage that it agreed in the Treaty not to have. In self-assessing systems, it is incumbent on taxpayers to file on the basis prescribed by their circumstances. That requires the Appellant in this case to establish that he filed in the U.S. as required to ensure the benefit of rate limitations under the Treaty. This has not been established. If this were established and the U.S. tax was assessed without benefit under the Treaty, the Appellant could then have sought to invoke the provisions of Article XXVI of the Treaty. To impose the competent authority provision of the Treaty, in the circumstances of this case, prior to fulfilling this requirement, would not be justified in my view.
+[25] Lastly I note that the Respondent might have relied on paragraph 4(a) of Article XXIV of the Treaty which expressly limits the credit that Canada is required to allow a U.S. citizen resident in Canada to the rates specified in the Treaty. This provision lends some support to the Respondent's construction of the credit provisions in both the Act and the Treaty.
+[26] Accordingly, the appeal is dismissed.
+Signed at Ottawa, Canada, this 4th day of March 2004.
+"J.E. Hershfield"
+Hershfield, J.
+CITATION:
+2004TCC199
+COURT FILE NO.:
+2003-1851(IT)I
+STYLE OF CAUSE:
+Philip a. Meyer and Her Majesty the Queen
+PLACE OF HEARING:
+Victoria, British Columbia
+DATE OF HEARING:
+November 18, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT:
+March 4, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gavin Laird
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] While the Appellant may not have meant to concede this, he brought no evidence to contradict the Respondent's assumption on the point.
+[2] The CCRA relied on the U.S. tax table put in evidence by the Respondent. That table clearly evidences that the tax paid in the U.S. is calculated at a rate or series of progressive rates effecting an overall effective rate of some 21% of the total taxable income of the Appellant in this case.
+[3] No reliable expert evidence was brought as to the appropriate filing required in the U.S. Regardless, the CCRA has not challenged the credit except in respect of the U.S. tax attributable to the U.S. source pension income and the Appellant has chosen not to re-file in the U.S. As such, it seems appropriate to rely on the likelihood that the overall excess U.S. tax paid at least equalled the excess identified by the CCRA. Such reliance is justified as well on the basis of the assumptions made by the Respondent in its Reply and the failure of the Appellant to bring any evidence to rebut such assumptions. The onus is on the Appellant to establish his correct or appropriate foreign taxes paid unless it is found that foreign taxes actually paid (irrespective of correctness or appropriateness) are creditable under the Act or the Treaty.
+[4] The Appellant was unprepared and unwilling to bring evidence as to U.S. law. He said he relied on his U.S. tax adviser and regarded that as sufficient. He ill-advisedly took the position that it was the Respondent's burden to prove that its position on this point was correct. Regardless, I am of the view that the Respondent's position on this point is correct.
+[5] The term "exempt income" is defined in subsection 248(1) of the Act and it does not cover income that has been taxed in a foreign jurisdiction in respect of which a credit is allowed. The term used in subparagraph 110(1)(f)(i) is different ("an amount exempt from income tax") but that does not suggest that the credit constitutes an exemption.
+[6] If the assumption in this example is that there is no reduction in creditable foreign tax by virtue of the definition of "non-business-income tax" in subsection 126(7), then there would be no reduction in the denominator of the proportion described in subclause 126(1)(b)(ii)(A)(III) since the reduction effected by that subclause is, in this case, the amount referred to in paragraph 110(1)(f) which, it seems to me at least, is the same amount referred to in paragraph 126(7)(i).
+[7] This simply demonstrates that the Appellant's taxes in Canada were not sufficient to absorb the full credit. The Appellant takes no issue with this.

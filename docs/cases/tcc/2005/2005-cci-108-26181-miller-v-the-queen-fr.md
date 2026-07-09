@@ -1,0 +1,154 @@
+---
+title: "Miller v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26181/index.do"
+last_modified: "2005-02-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 108"
+citation2: ""
+neutral_citation: "2005 CCI 108"
+decision_date: "2005-02-15"
+language: "fr"
+item_id: "26181"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3949
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:15:10.662000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "73773034c0bb185b3c805f960964f94879a3155adeb280ab8936dedcdb25b352"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Miller v. The Queen
+
+- Citation: 2005 CCI 108
+- Decision date: 2005-02-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3949, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Miller v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-15
+Référence neutre
+2005 CCI 108
+Numéro de dossier
+2002-3798(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002-3798(IT)G
+ENTRE :
+SA MAJESTÉ LA REINE,
+requérante,
+et
+EDWARD MILLER,
+intimé.
+Demande entendue par conférence téléphonique à Ottawa, Canada, le 6 décembre 2004
+Devant : L'honorable juge G. Sheridan
+Comparutions :
+Avocat de la requérante :
+Me John R. Shipley
+Avocat de l'intimé :
+Me Nicholas F. Ferguson
+Avocat de Maeve Wilson :
+Me Richard Barch, c.r.
+ORDONNANCE
+Vu la demande faite par le ministre du Revenu national en application du paragraphe 174(1) de la Loi de l'impôt sur le revenu;
+Et vu les allégations des parties et les documents déposés par celles-ci;
+La demande est rejetée selon les motifs de l'ordonnance ci-joints, les dépens étant adjugés à Mme Maeve Wilson et étant payables immédiatement; en ce qui concerne l'intimé, les dépens suivront l'issue de la cause.
+Signé à Ottawa, Canada, ce 15e jour de février 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 12e jour de décembre 2005.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2005CCI108
+Date : 20050215
+Dossier : 2002-3798(IT)G
+ENTRE :
+SA MAJESTÉ LA REINE,
+requérante,
+et
+EDWARD MILLER,
+intimé.
+MOTIFS DE L'ORDONNANCE
+Le juge Sheridan
+[1] Il s'agit d'une demande présentée par le ministre du Revenu national en application du paragraphe 174(1) de la Loi de l'impôt sur le revenu :
+(1) Renvoi à la Cour canadienne de l'impôt de questions communes. Lorsque le ministre est d'avis qu'une même opération ou un même événement ou qu'une même série d'opérations ou d'événements a donné naissance à une question de droit, de fait ou de droit et de fait qui se rapporte à des cotisations, réelles ou projetées, relatives à plusieurs contribuables, il peut demander à la Cour canadienne de l'impôt de se prononcer sur la question.
+[2] Conformément au paragraphe 174(2) de la Loi, le ministre a fait état de la question qui se pose, des noms des contribuables qui doivent être liés par la décision ainsi que des faits et motifs sur lesquels il s'appuie et sur lesquels il s'est fondé ou a l'intention de se fonder pour établir les cotisations concernant l'impôt payable :
+[traduction]
+A. LES NOMS ET ADRESSES DES CONTRIBUABLES QUI DOIVENT ÊTRE LIÉS PAR LA DÉCISION RELATIVE À LA QUESTION FIGURENT CI-DESSOUS :
+1. Edward Miller, 16, chemin Lakeshore, Fort Erie (Ontario)
+2. Patricia Maeve Wilson, 165, avenue Tennessee, Port Colborne (Ontario) L3X 2R8
+B. LES COTISATIONS OU COTISATIONS PROJETÉES À L'ÉGARD DESQUELLES LA DÉCISION EST DEMANDÉE SONT LES SUIVANTES :
+3. Avis de nouvelle cotisation concernant Edward Miller pour l'année d'imposition 1998 en date du 5 juillet 2002.
+4. Nouvelle cotisation projetée concernant Patricia Maeve Wilson pour son année d'imposition 1995.
+C. LES QUESTIONS DE DROIT, DE FAIT OU DE DROIT ET DE FAIT À L'ÉGARD DESQUELLES LE MINISTRE DU REVENU NATIONAL DEMANDE UNE DÉCISION SONT LES SUIVANTES :
+5. Quel était le prix d'achat qu'Edward Miller a versé à Patricia Maeve Railton, maintenant Mme Wilson (ci-après appelée « Mme Wilson » ) en 1995 pour le bien-fonds [...] [description juridique du bien-fonds omise] [...] ci-après appelé « le bien-fonds en question » )?
+D. LES FAITS SUR LESQUELS LE MINISTRE S'APPUIE ET SUR LESQUELS IL S'EST FONDÉ OU A L'INTENTION DE SE FONDER POUR ÉTABLIR LES COTISATIONS CONCERNANT L'IMPÔT PAYABLE PAR CHACUN DES CONTRIBUABLES NOMMÉS DANS LA DEMANDE SONT LES SUIVANTS :
+6. Dans sa déclaration de revenus de 1998, l'appelant a déclaré une perte en capital à l'égard de la vente du bien-fonds en question.
+7. L'appelant a calculé sa perte en capital en utilisant le montant de 180 000 $ comme prix d'achat du bien-fonds en question.
+8. En 1995, l'appelant a acheté le bien-fonds en question de Mme Wilson.
+9. Dans sa déclaration de revenus de 1995, Mme Wilson a calculé son gain en capital sur la vente du bien-fonds en question en utilisant un montant de 100 000 $ comme prix de vente du bien-fonds.
+10. Le ministre a établi une cotisation à l'égard de l'appelant pour son année d'imposition 1998 et à l'égard de Mme Wilson pour son année d'imposition 1995 en se fondant sur le fait que le prix payé pour le bien-fonds en question était de 100 000 $.
+11. Si la Cour concluait que le prix payé pour le bien-fonds en question était de 100 000 $, le ministre chercherait à maintenir les cotisations applicables à l'appelant et à Mme Wilson.
+12. Si la Cour concluait que le prix payé pour le bien-fonds en question était de 180 000 $, le ministre envisagerait de modifier les cotisations applicables à l'appelant et à Mme Wilson. Dans ces conditions, le ministre envisagerait d'établir une cotisation à l'égard de l'appelant en calculant son prix de base rajusté pour le bien-fonds en question en utilisant un prix d'achat de 180 000 $. De même, le ministre envisagerait d'établir une nouvelle cotisation à l'égard de Mme Wilson en calculant le gain en capital réalisé par suite de la vente du bien-fonds en question en utilisant un prix d'achat de 180 000 $ à titre de produit de disposition, plutôt que le montant de 100 000 $ qui a été déclaré.
+[3] La Cour a le pouvoir discrétionnaire, « de la façon qu'elle juge appropriée » , d'accueillir la demande de la Couronne en application du paragraphe 174(3) de la Loi, qui est rédigé comme suit :
+(3) Lorsque la Cour canadienne de l'impôt peut statuer sur une question.Lorsque la Cour canadienne de l'impôt est convaincue que la décision rendue concernant la question exposée dans une demande présentée en vertu du présent article influera sur des cotisations ou des cotisations éventuelles intéressant plusieurs contribuables à qui une copie de la demande a été signifiée et qui sont nommés dans une ordonnance de la Cour canadienne de l'impôt conformément au présent paragraphe, elle peut :
+a) si aucun des contribuables ainsi nommés n'en a appelé d'une de ces cotisations, entreprendre de statuer sur la question de la façon qu'elle juge appropriée;
+b) si un ou plusieurs des contribuables ainsi nommés se sont pourvus en appel, rendre une ordonnance groupant dans cet ou ces appels les parties appelantes comme elle le juge à propos et entreprendre de statuer sur la question.
+[4] La partie éventuelle, Patricia Maeve Wilson, s'oppose à la demande de la Couronne; l'appelant (l'intimé dans la présente demande), Edward Miller, l'appuie. Avant de se demander s'il convient, dans ces conditions, d'accueillir la demande, il est utile de faire un bref historique de l'appel interjeté par M. Miller : en 2002, M. Miller a interjeté appel de la nouvelle cotisation concernant son année d'imposition 1998, dans laquelle le ministre a maintenu le calcul de l'obligation fiscale en se fondant sur un prix d'achat de 100 000 $ pour le bien-fonds. Au mois de janvier 2003, le ministre a déposé sa réponse, en émettant l'hypothèque suivante à l'alinéa 12f) : [TRADUCTION] « [M. Miller] a versé un montant de 100 000 $ seulement à Mme Wilson pour le bien-fonds » , ce qui mène à conclure que, du moins à cette date, le ministre était au courant de l'opération relative au bien-fonds, de l'identité de la venderesse et de l'identité de l'acheteur ainsi que des deux chiffres différents mentionnés dans leurs déclarations de revenus à l'égard du prix d'achat. Il est également clair qu'à ce moment-là, le ministre a accepté la version des faits donnée par Mme Wilson. Toutes les étapes préalables à l'audience dans l'appel interjeté par M. Miller ont été achevées et, à la suite de la demande conjointe que les parties ont présentée en vue de faire fixer la date et le lieu de l'audience, il a été décidé que l'audience aurait lieu le 27 septembre 2004, à St. Catharines (Ontario). Au cours de la période qui a précédé l'audience, le ministre traitait avec Mme Wilson à titre de témoin éventuel de la Couronne. Toutefois, le 9 septembre 2004, l'avocat de la Couronne a demandé l'ajournement de l'appel en vue de permettre au ministre de présenter une demande fondée sur l'article 174 [TRADUCTION] « pour faire trancher la question de fait relative au montant que l'appelant avait versé à Mme Wilson » . Avec le consentement des parties, l'audience a été ajournée afin de permettre à l'avocat de Mme Wilson de consulter sa cliente et d'obtenir des instructions de cette dernière. Cette demande a été entendue le 6 décembre 2004.
+[5] Le dossier de requête de la Couronne ne renferme aucune mention expresse du fait qu'il ne peut être établi de nouvelle cotisation pour l'année d'imposition 1995 de Mme Wilson en raison de prescription, à moins que le ministre ne puisse satisfaire aux exigences du sous-alinéa 152(4)a)(i) de la Loi :
+(4) Cotisation et nouvelle cotisation. Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l'impôt pour une année d'imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu'aucun impôt n'est payable pour l'année à toute personne qui a produit une déclaration de revenu pour une année d'imposition. Pareille cotisation ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[...]
+[6] L'avocat de Mme Wilson a soulevé ce point dans l'argumentation qu'il a soumise à l'encontre de la demande de la Couronne. L'avocat de la Couronne a cité la décision Nesbitt c. La Reine[1], et il a rejeté cet argument en faisant valoir que l'exigence préliminaire, lorsqu'il s'agit de satisfaire aux dispositions du sous-alinéa 152(4)a)(i), est peu rigoureuse. À mon avis, la décision Nesbitt n'étaye pas la thèse voulant que, parce que la Couronne croit qu'elle surmontera facilement cet obstacle légal, la Cour ne devrait pas se préoccuper du droit du contribuable de placer cet obstacle sur le chemin du ministre. La jurisprudence est bien établie[2] : c'est le ministre qui a la charge de prouver, selon la prépondérance des probabilités, que les conditions prévues au sous-alinéa 152(4)a)(i) sont réunies. Pour ce faire, il ne suffit pas que le ministre prouve simplement que la déclaration de revenus du contribuable est inexacte, comme le juge en chef Garon (tel était alors son titre) l'a expliqué dans la décision Demers c. Canada[3] :
+[11] Au sujet de l'application du sous-alinéa 152(4)a)(i) de la Loi, le juge Strayer de la Cour d'appel fédérale s'est exprimé ainsi dans l'affaire Nesbitt c. Canada, 96 DTC 6588, [1996] A.C.F. no 1470 (QL) (Fr.) :
+C'est au moment où la déclaration est produite que l'on peut déterminer s'il y a eu ou non présentation erronée de faits par négligence ou inattention en remplissant la déclaration. Des faits ont été présentés erronément s'il se trouve un élément inexact dans la déclaration, du moins un élément qui est important pour les fins de la déclaration ainsi que de toute nouvelle cotisation ultérieure.
+[...]
+[14] Pour que le sous-alinéa 152(4)a)(i) de la Loi s'applique, il faut non seulement qu'il y ait erreur ou inexactitude dans la déclaration de revenu d'un contribuable ou dans la documentation fournie au ministre du Revenu national, mais il faut en outre que le contribuable n'ait pas fait preuve de diligence raisonnable, comme cela appert de la décision du juge Strayer, alors qu'il était juge à la Section de première instance de la Cour fédérale, dans l'affaire Venne c. Canada, 84 DTC 6247; [1984] A.C.F. no 314 (QL) (Fr.). Dans sa conclusion, le juge Strayer formulait les commentaires suivants :
+Je suis convaincu qu'il suffit au Ministre, pour invoquer son pouvoir en vertu de l'alinéa 152(4)a)(i) de la Loi, de démontrer la négligence du contribuable, à l'égard d'un ou plusieurs éléments de sa déclaration de revenus au titre d'une année donnée. Cette négligence est établie s'il est démontré que le contribuable n'a pas fait preuve de diligence raisonnable. C'est sûrement là le sens des termes « présentation erronée des faits, par négligence » , en particulier avec d'autres motifs comme l'inattention ou l'omission volontaire qui font référence à un degré de négligence plus élevé ou à une mauvaise conduite délibérée. Sauf si ces termes étaient superflus dans cet article, hypothèse que je ne puis accepter, le terme « négligence » impose un critère moins strict de faute, semblable à celui qui est utilisé dans les autres domaines du droit, comme la responsabilité délictuelle. Voir Jet Metal Products Limited c. le ministre du Revenu national (1979) 79 DTC 624, pp. 636-37 (C.R.I.).
+[8] Il convient d'examiner les résultats possibles si la demande de la Couronne était accueillie. À supposer que la Cour conclue par la suite que le prix d'achat était de 100 000 $, l'appel interjeté par M. Miller serait rejeté et la nouvelle cotisation établie par le ministre pour l'année d'imposition 1998 de M. Miller serait confirmée. Dans ces conditions, le ministre n'envisage pas de prendre d'autres mesures contre Mme Wilson[4]. D'autre part, si la Cour concluait que le prix d'achat était de 180 000 $, l'appel interjeté par M. Miller serait admis et la nouvelle cotisation dont M. Miller a fait l'objet serait déférée au ministre pour nouvel examen et nouvelle cotisation sur cette base. Quant à Mme Wilson, à ce jour, l'année d'imposition 1995 de cette dernière n'a jamais donné lieu à une nouvelle cotisation. Tant qu'une décision favorable ne sera pas rendue[5], telle est la mesure envisagée par le ministre, même si, conformément à l'article 152, le ministre peut établir une nouvelle cotisation après la période normale de nouvelle cotisation[6] uniquement si le contribuable a fait « une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi » .
+[9] Si le ministre tentait de son propre chef d'établir une nouvelle cotisation à l'égard de l'année d'imposition 1995 de Mme Wilson, qui est prescrite, Mme Wilson aurait le droit de contester cette nouvelle cotisation et d'exiger que le ministre prouve ses allégations. Si Mme Wilson était constituée à titre de partie dans ces circonstances, lorsque par suite du résultat de l'appel son année d'imposition 1995, qui est prescrite, pourrait tomber sous le coup d'une nouvelle cotisation sans que l'on exige que le ministre se conforme aux dispositions du sous-alinéa 152(4)a)(i), on permettrait au ministre de faire indirectement ce qu'il ne peut pas faire directement. Bref, accueillir la présente demande aurait pour effet de priver Mme Wilson des droits qui lui sont reconnus par la Loi tout en libérant le ministre de ses obligations légales.
+[10] Je retiens l'argument de la Couronne selon lequel il serait utile pour la Cour d'avoir à sa disposition le témoignage de Mme Wilson à l'audition de l'appel interjeté par M. Miller, mais cela peut se faire sans que Mme Wilson soit constituée à titre de partie : Mme Wilson peut être citée pour témoigner, comme la Couronne avait apparemment l'intention de le faire initialement. Si M. Miller et Mme Wilson étaient sur un pied d'égalité avec le ministre, il existerait peut-être des circonstances justifiant l'octroi de la demande de la Couronne. Cependant, ce n'est pas le cas. J'ai entendu les avocats des parties et de Mme Wilson et j'ai lu les documents qui ont été déposés et je ne suis pas convaincue qu'il convienne, somme toute, de constituer Mme Wilson comme partie dans l'appel interjeté par M. Miller.
+La demande est rejetée, les dépens devant être payés immédiatement à Mme Wilson; quant à l'intimé, les dépens suivront l'issue de la cause
+Signé à Ottawa, Canada, ce 15e jour de février 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 12e jour de décembre 2005.
+Yves Bellefeuille, réviseur
+[1]no A-54-96, 15 novembre 1996, 96 D.T.C. 6588 (C.A.F.).
+[2]Ministerof National Revenue v. Taylor, 61 D.T.C. 1139 (Cour de l'Échiquier)
+[3]no 2001-1131(IT)I, 25 juin 2002, [2004] 2 C.T.C. 2618 (C.C.I.).
+[4]Dossier de requête, affidavit de Mabel Poon, paragraphe 6.
+[5]Dossier de requête, affidavit de Mabel Poon, paragraphe 7.
+[6]Il s'agit du paragraphe 152(3.1), qui est rédigé comme suit : « Période normale de nouvelle cotisation. Pour l'application des paragraphes (4), (4.01), (4.2), (4.3), (5) et (9), la période normale de nouvelle cotisation applicable à un contribuable pour une année d'imposition s'étend sur les périodes suivantes :
+a) quatre ans suivant soit le jour de mise à la poste d'un avis de première cotisation en vertu de la présente partie le concernant pour l'année, soit, s'il est antérieur, le jour de mise à la poste d'une première notification portant qu'aucun impôt n'est payable par lui pour l'année, si, à la fin de l'année, le contribuable est une fiducie de fonds commun de placement ou une société autre qu'une société privée sous contrôle canadien;
+b) trois ans suivant le premier en date de ces jours, dans les autres cas. »

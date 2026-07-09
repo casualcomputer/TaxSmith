@@ -1,0 +1,248 @@
+Title: Pintendre Autos Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28158/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-818-28158-pintendre-autos-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-12-05
+
+# Pintendre Autos Inc. c. La Reine
+
+- Citation: 2003 CCI 818
+- Decision date: 2003-12-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2004, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pintendre Autos Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-05
+Référence neutre
+2003 CCI 818
+Numéro de dossier
+2003-24(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-24(IT)G
+ENTRE :
+PINTENDRE AUTOS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue le 28 mai 2003 à Québec (Québec)
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Avocat de l’appelante :
+Me Michel Beaupré
+Avocate de l’intimée :
+Me Nathalie Lessard
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l’intimée visant à :
+faire trancher une question de droit, à savoir :
+une fin de non-recevoir fondée sur l’article 1457 du Code civil du Québec ou sur l’article 3 de la Loi sur la responsabilité civile de l’État et le contentieux administratif peut-elle être soulevée devant la Cour canadienne de l’impôt en appel d’un avis de cotisation?
+et, dans l’éventualité où la question de droit reçoit une réponse négative,
+obtenir la radiation de l’avis d’appel modifié et le rejet de l’appel, au motif de l’absence de compétence de la Cour sur l’objet de l’appel et parce que l’avis d’appel modifié ne révèle alors plus aucun motif raisonnable d’appel.
+Et vu les allégations des parties;
+La requête est accueillie et l’avis d’appel est radié selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 5e jour de décembre 2003.
+« B. Paris »
+Juge Paris
+Référence : 2003CCI818
+Date :20031205
+Dossier : 2003-24(IT)G
+ENTRE :
+PINTENDRE AUTOS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Paris
+[1] La présente requête de l’intimée vise ce qui suit :
+a) la détermination d’une question de droit en vertu de l’alinéa 58(1)a) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), soit de savoir si une fin de non-recevoir fondée sur l’article 1457 du Code civil du Québec ou sur l’article 3 de la Loi sur la responsabilité civile de l’État et le contentieux administratif peut être soulevée devant la Cour canadienne de l’impôt, en appel d’une cotisation?
+b) dans l’éventualité où la question de droit reçoit une réponse négative, la radiation de l’avis d’appel modifié; ou
+c) dans l’éventualité où la question de droit reçoit une réponse affirmative, obtenir une prorogation de délai pour déposer une réponse à l’avis d’appel.
+[2] L’intimée se fonde sur le dossier de la Cour ainsi que sur l’avis d’appel modifié déposé par l’appelante le 21 février 2003.
+[3] La requête de l’intimée est fondée sur les motifs suivants :
+a) la question devant être déterminée est une question de droit; et
+b) la décision pourrait régler l’instance en totalité.
+[4] L’appelante s’oppose à la requête.
+[5] L’appelante soutient que les parties ne s’entendent pas sur les faits dont la Cour doit tenir compte et que, par conséquent, la requête de l’intimée ne devrait pas être entendue. Elle soutient de plus que la détermination d’une question de droit ne peut être faite que lorsque le fondement factuel pour une telle détermination a été établi. Étant donné que le paragraphe 58(2) des Règles prévoit qu’aucune preuve n’est admissible à l’égard d’une telle requête, sauf avec l’autorisation de la Cour ou avec le consentement des parties, l’appelante soutient que la requête ne peut être entendue puisque aucune de ces conditions n’a été respectée en l’espèce.
+[6] Toutefois, il n’est pas nécessaire que les parties s’entendent sur les faits à l’origine de la question à chaque fois qu’une requête est présentée à la Cour pour la détermination d’une question de droit. Dans l’arrêt Perera c. Canada[1], le juge Létourneau a formulé les commentaires suivants aux pages 391 et 392 :
+Il peut être utile de rappeler que la Règle 474 ne confère pas, à qui que ce soit, le droit d’obtenir une décision sur les questions de droit avant l’instruction; elle attribue simplement à la Cour le pouvoir discrétionnaire d’ordonner, sur présentation d’une requête, qu’une telle décision soit rendue. Pour que la Cour soit en mesure d’exercer ce pouvoir discrétionnaire, elle doit être convaincue, comme l’a précisé l’arrêt Berneche, que les questions proposées sont de pures questions de droit, c’est-à-dire des questions auxquelles il est possible de répondre sans tirer quelque conclusion de fait que ce soit. En fait, l’objet de cette règle est de répondre aux questions avant l’instruction; elle ne vise pas à morceler l’instruction ni à remplacer une partie de l’instruction par une autre instruction tenue au moyen d’affidavits. Cela ne signifie toutefois pas que les parties doivent s’entendre sur les faits à l’origine des questions de droit; une question de droit peut se fonder sur une présomption de véracité des allégations énoncées dans les actes de procédure, à condition que les faits invoqués suffisent pour permettre à la Cour de répondre à la question. (Je souligne.)
+[7] Je suis d’avis que la requête de l’intimée peut être entendue sur le fondement des allégations contenues dans les actes de procédure déposés par l’appelante et en présumant que les faits qui y sont allégués sont vrais. Les faits allégués dans l’avis d'appel modifié sont suffisants pour permettre à la Cour de répondre à la question de droit soulevée par l’intimée dans sa requête.
+[8] Je suis également d’avis que la détermination à l’égard de la question de droit soulevée dans la présente requête pourrait régler l’instance en totalité puisque la question porte sur la compétence de la Cour et sur ses pouvoirs d’accorder le redressement demandé par l’appelante.
+Faits :
+[9] Le ministre du Revenu national (le « ministre ») a établi deux avis de cotisation à l’égard de l’appelante, qui est une société québécoise, pour avoir fait défaut de remettre les retenues à la source prélevées sur le salaire de ses employés, pour la période du 31 décembre 2001 au 16 mai 2002. L’appelante a conclu un contrat avec une autre partie (« Les Services de personnel »), en vertu duquel cette dernière s’est engagée à fournir des services de paie à l’appelante.
+[10] Dans l’avis d’appel modifié, l’appelante déclare ce qui suit aux paragraphes 9 à 32 :
+9. Conformément à un usage déjà répandu depuis quelques années au sein de grandes, moyennes et petites entreprises, le 23 novembre 2001, l’appelante concluait avec une entreprise faisant affaires sous la raison sociale «Les Services de personnel» un contrat visant le traitement par cette dernière, en impartition, des services de paye, incluant le versement de la paye proprement dite aux employés de l’appelante, de même que les remises des D.A.S. aux paliers de gouvernement;
+10. Ce contrat était prévu pour une période de deux ans, débutant le 24 décembre 2001;
+11. Avant que «Les Services de personnels» ne soit chargée du traitement de la paye des employés de la demanderesse et des remises des D.A.S. aux paliers de gouvernement, l’appelante effectuait elle-même remise de ses D.A.S. sur une base hebdomadaire, ce qu’elle avait toujours fait régulièrement d’ailleurs depuis de nombreuses années;
+12. Les montants ainsi remis par l’appelante à l’intimée étaient significatifs et s’élevaient en moyenne à 23 000 $ à chaque semaine;
+13. Hors la connaissance de l’appelante, aucune déduction ne fut versée à l’intimée par «Les Services de personnels» pendant la période visée par les cotisations en litige, soit du 31 décembre 2001 au 16 mai 2002, ce dont l’appelante n’a été informée par les préposés de l’intimée que vers le 13 mai 2002;
+14. L’appelante n’avait aucune raison de se douter que tels versements n’étaient pas effectués et n’a eu aucun moyen de vérifier ce manquement;
+15. En effet, d’une part, l’appelante recevait de «Les Services de personnels» à toutes les semaines copie d’un chèque représentant les versements apparemment effectués auprès de l’intimée par «Les Services de personnels»;
+16. D’autre part, dès le 13 mars 2002, l’une des préposés de l’intimée (dont l’identité exacte ne peut être établie en date des présentes), requit du contrôleur de l’appelante la confirmation du fait que «Les Services de personnels» traitait la paye des employés de l’appelante et qui effectuait les versements des D.A.S. auprès de l’intimée;
+17. Une telle confirmation écrite fut transmise par télécopieur aux «comptes en fiducie», à la demande de la préposée de l’intimée;
+18. À aucun moment lors de cet entretien téléphonique le contrôleur de l’appelante ne fut informé que les D.A.S. des 11 semaines précédentes n’avaient toujours pas été versées à l’intimée;
+19. Encore le 15 avril suivant, un autre préposé de l’intimée, en l’occurrence M. Mario Simard, communiquait avec l’appelante afin de savoir dans quel compte les remises de D.A.S. de l’appelante étaient versées;
+20. Le contrôleur de l’appelante réitéra que cette dernière n’avait plus de compte actif à son nom propre puisque les D.A.S. étaient prélevées et versées par «Les Services de personnels», tel que confirmé par lettre le 13 mars précédent;
+21. À ce moment, l’appelante croyait que le tout reflétait une confusion purement administrative chez l’Agence et non pas que «Les Services de personnels» n’effectuait pas les versements de D.A.S.;
+22. Ni M. Simard, ni l’autre préposée de l’intimée qui avait communiqué avec l’appelante le 13 mars 2002 n’ont informé l’appelante de ce dont ils devaient manifestement savoir depuis plusieurs semaines déjà, savoir le défaut de «Les Services de personnels» d’effectuer le versement des D.A.S.;
+23. Au surplus, dès l’automne 2001 à tout le moins, il semble que «Les Services de personnels» était l’objet d’une enquête ou investigation ou autre forme de vérification de la part de l’intimée;
+24. Enfin, lors d’une rencontre des représentants de l’appelante avec M. Mario Simard, préposé de l’intimé, tenue le 13 mai 2002, ce dernier a admis que l’Agence avait commis des erreurs dans le dossier et que ce n’était pas la première fois que l’Agence avait affaires avec «Les Services de personnels», ce sur quoi il n’a par ailleurs pas voulu élaborer;
+25. C’est lors de cette rencontre du 13 mai 2002 que pour la première fois l’appelante a été informée que «Les Services de personnels» n’avait effectué aucun versement hebdomadaire des D.A.S. depuis le tout début de l’année 2002;
+26. L’appelante était pourtant un employeur de «seuil 2», c’est‑à‑dire qu’elle devait effectuer un versement de D.A.S. à chaque semaine;
+27. Le montant payé hebdomadaire était tel que susdit d’environ 23 000 $, donc assez significatif, le suivi des encaissements des D.A.S. pour le genre d’entreprise exploitée par l’appelante étant très simple contrairement par exemple à un commerce saisonnier;
+28. L’intimée, ses représentants et préposés ont en conséquence dû s’apercevoir très rapidement de l’absence de versement des D.A.S. pour les employés de l’appelante et ce, en opposition flagrante avec la pratique de l’appelante au cours des années antérieures où le versement était effectué intégralement et régulièrement, sans omission;
+29. Le 29 mai 2002, l’appelante reçut un «relevé de compte du vérificateur» établissant que suite à une vérification des registres de paye effectuée le 29 mai 2002 pour la période du 31 décembre 2001 au 16 mai 2002 une balance de 410 573,61 $ était due;
+30. Le même relevé de compte du vérificateur mentionnait qu’un «dossier équité sera présenté pour les pénalités de 36 127,72 $ et les intérêts de 5 668 $»;
+31. Le 7 juin 2002, l’appelante reçut une confirmation qu’en application des dispositions d’équité l’intimée renonçait aux pénalités et intérêts dans le cas en litige;
+32. Les cotisations en litige du 10 juin 2002 furent transmises subséquemment;
+[11] Comme l’a souligné l’intimée dans son avis de requête, le seul motif d’appel de l’appelante à l’encontre des cotisations est que les montants des cotisations sont non recevables en totalité étant donné les « fautes et omissions des représentants du ministre » au cours de la période visée par les cotisations. Ce motif est énoncé aux paragraphes 33 à 36 de l’avis d’appel modifié :
+33. Il est évident que si l’appelante avait été informée en temps opportun des irrégularités constatées dans son compte, elle aurait pris les mesures qui s’imposaient dès ce moment pour éviter ou minimiser le préjudice financier auquel elle est maintenant exposée par suite des cotisations en litige et de leur ratification par l’intimée;
+34. Étant donné tout ce qui précède, l’intimée, ses représentants et/ou préposés avaient l’obligation légale de transmettre à l’appelante, à tout le moins dès la fin janvier 2002, l’information à laquelle cette dernière ne pouvait avoir accès et dont elle ne pouvait soupçonner l’existence;
+35. Le 13 mars et 15 avril 2002, lors d’entretiens avec les représentants et/ou préposés de l’intimée, l’appelante aurait encore dû être informée des irrégularités figurant à son dossier et du défaut de «Les Services de personnels» d’effectuer les versements des D.A.S. depuis le début de l’année;
+36. Les fautes et omissions de divulgation ou d’information précitées de la part de l’intimée et de ses représentants et/ou préposés constituent une fin de non-recevoir à l’encontre des cotisations en litige, voire d’une partie substantielle de ces dernières;
+[12] L’appelante conclut son avis d’appel modifié en demandant à la Cour de :
+DÉCLARER irrecevables et annulées les créances de l’intimée telles qu’établies à la cotisation du 10 juin 2002 au montant de 369 506 $ visant la période du 31 décembre 2001 au 16 mai 2002 (no de compte 10420 7337 RP0001) et à la cotisation du 10 juin 2002 au montant de 4 887,25 $ visant la période du 31 décembre 2001 au 16 mai 2002 (no de compte 10420 7337 RP0002);
+Subsidiairement, MODIFIER les cotisations précitées pour les réduire à la somme de 93 806,53 $;
+Subsidiairement, MODIFIER les cotisations précitées pour les réduire à la somme de 232 087,03 $;
+Subsidiairement, MODIFIER les cotisations précitées pour les réduire à la somme de 350 528,57 $;
+Arguments de l’intimée
+[13] L’intimée soutient que la Cour n’a pas compétence pour se prononcer sur la fin de non-recevoir invoquée par l’appelante, car elle porte sur le recouvrement du montant des cotisations, plutôt que sur le montant d’impôt des cotisations.
+1) Compétence de la Cour canadienne de l’impôt
+[14] L’intimée soutient que la compétence de cette cour, aux fins des cotisations en litige, est déterminée par l’article 12 de la Loi sur la Cour canadienne de l’impôt[2] (LCCI). Elle se reporte également aux articles 169 et 171 de la Loi de l’impôt sur le revenu[3] (la « LIR ») et à l’article 103 de la Loi sur l’assurance-emploi[4] (la « LAE »). Ces articles se lisent comme suit :
+Loi sur la Cour canadienne de l’impôt
+12.(1) La Cour a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions découlant de l’application de la Loi sur le droit pour la sécurité des passagers du transport aérien, du Régime de pensions du Canada, de la Loi sur l’exportation et l’importation de biens culturels, de la partie V.1 de la Loi sur les douanes, de la Loi sur l’assurance-emploi, de la Loi de 2001 sur l’accise, de la partie IX de la Loi sur la taxe d’accise, de la Loi de l’impôt sur le revenu, de la Loi sur la sécurité de la vieillesse et de la Loi de l’impôt sur les revenus pétroliers, dans la mesure où ces lois prévoient un droit de renvoi ou d’appel devant elle.
+(2) La Cour a compétence exclusive pour entendre les appels portés devant elle sur les questions découlant de l’application de la Loi sur les allocations aux anciens combattants et de la Loi sur les prestations de guerre pour les civils et visées à l’article 33 de la Loi sur le Tribunal des anciens combattants (révision et appel).
+(3) La Cour a compétence exclusive pour entendre les questions qui sont portées devant elle en vertu des articles 51 ou 52 de la Loi sur le droit pour la sécurité des passagers du transport aérien, de l’article 97.58 de la Loi sur les douanes, des articles 204 ou 205 de la Loi de 2001 sur l’accise, des articles 310 ou 311 de la Loi sur la taxe d’accise ou des articles 173 ou 174 de la Loi de l’impôt sur le revenu.
+(4) La Cour a compétence exclusive pour entendre toute demande de prorogation de délai présentée en vertu des articles 45 ou 47 de la Loi sur le droit pour la sécurité des passagers du transport aérien, du paragraphe 28(1) du Régime de pensions du Canada, de l’article 33.2 de la Loi sur l’exportation et l’importation de biens culturels, des articles 97.52 ou 97.53 de la Loi sur les douanes, du paragraphe 103(1) de la Loi sur l’assurance-emploi, des articles 197 ou 199 de la Loi de 2001 sur l’accise, des articles 304 ou 305 de la Loi sur la taxe d’accise ou des articles 166.2 ou 167 de la Loi de l’impôt sur le revenu.
+Loi de l’impôt sur le revenu
+Appel
+169.(1) Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l’expiration des 90 jours qui suivent la signification de l’avis d’opposition sans que le ministre ait notifié au contribuable le fait qu’il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l’expiration des 90 jours qui suivent la date où avis a été expédié par la poste au contribuable, en vertu de l’article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+Règlement d’un appel
+171.(1) La Cour canadienne de l’impôt peut statuer sur un appel :
+a) en le rejetant;
+b) en l’admettant et en :
+(i) annulant la cotisation,
+(ii) modifiant la cotisation,
+(iii) déférant la cotisation au ministre pour nouvel examen et nouvelle cotisation.
+Loi sur l’assurance-emploi
+Appel devant la Cour canadienne de l’impôt
+(Opposition et révision)
+103.(1) La Commission ou une personne que concerne une décision rendue au titre de l’article 91 ou 92, peut, dans les quatre-vingt-dix jours suivant la communication de la décision ou dans le délai supplémentaire que peut accorder la Cour canadienne de l’impôt sur demande à elle présentée dans ces quatre-vingt-dix jours, interjeter appel devant la Cour canadienne de l’impôt de la manière prévue par règlement.
+[15] En vertu de ces dispositions, la Cour canadienne de l’impôt a compétence pour entendre les appels à l’encontre de cotisations établies en vertu de la LIR et d'évaluations établies en vertu de la LAE, mais non à l’égard des litiges portant sur le recouvrement des montants des cotisations ou des évaluations établies en vertu de ces lois.
+2) Fin de non-recevoir
+[16] L’appelante soutient qu’une fin de non-recevoir, comme celle qu'elle invoque en l’espèce, est un moyen d’empêcher un créancier de prendre action en vue d’obtenir le remboursement de sa créance. La Cour suprême du Canada s’est penchée sur la nature de la fin de non-recevoir dans l’arrêt Banque Nationale du Canada c. Soucisse[5]. Monsieur le juge Beetz s’est reporté aux descriptions suivantes de la fin de non-recevoir, à la page 359 :
+Les fins de non-recevoir contre les créances, sont certaines causes qui empêchent le créancier d’être écouté en justice pour exiger sa créance.
+[…]
+Les fins de non-recevoir n’éteignent pas la créance, mais ils la rendent inefficace en rendant le créancier non recevable à intenter l’action qui en naît.
+[17] La fin de non-recevoir constitue une sorte d’objection préliminaire à la réclamation d’un créancier. Elle n’a pas pour effet de contester l’existence d’une créance mais plutôt le droit d’un créancier de faire appel aux tribunaux pour en exiger le paiement. Lorsqu’une fin de non-recevoir est accueillie, la créance n’est pas éteinte; le créancier ne peut tout simplement pas la recouvrer.
+[18] Toutefois, la Cour canadienne de l’impôt n’a pas le pouvoir de se prononcer sur les questions relatives au recouvrement des créances fiscales. La Cour ne peut entendre que les appels à l’encontre de cotisations établies en vertu de la LIR et d'évaluations établies en vertu de la LAE qui portent sur l’existence d’une dette fiscale ou sur l'obligation de payer des cotisations d’assurance-emploi. Le recouvrement des créances fiscales est une toute autre chose et, puisqu’une fin de non-recevoir vise à empêcher le recouvrement d’une dette existante, la Cour canadienne de l’impôt n’a pas la compétence pour accorder ce redressement[6].
+[19] Dans la seule décision publiée où un appelant a tenté d’obtenir devant la Cour canadienne de l’impôt une fin de non-recevoir comme celle en l’espèce, la demande a été rejetée au motif que l’appelante n’avait pas prouvé les éléments requis pour opposer une fin de non-recevoir[7]. Ainsi, la Cour n’a pas eu à décider si la requête fondée sur une fin de non-recevoir aurait pu être accueillie. Par conséquent, cette décision ne peut être considérée comme un précédent appuyant la proposition que la Cour a le pouvoir d’accorder ce redressement.
+De plus, puisque la fin de non-recevoir est fondée sur la responsabilité civile, elle ne peut être accordée que par un tribunal ayant compétence pour trancher les demandes de dommages-intérêts, une compétence que la Cour canadienne de l’impôt ne possède pas.
+Arguments de l’appelante
+1) Fin de non-recevoir
+[20] L’appelante allègue que la conduite des représentants du ministre en l’espèce allait à l’encontre de l’obligation qui leur incombait en vertu de l’article 1457 du Code civil du Québec (anciennement l’article 1053), et que cette violation donne ouverture à une fin de non-recevoir. L’article 1457 se lit comme suit :
+Toute personne a le devoir de respecter les règles de conduite qui, suivant les circonstances, les usages ou la loi, s’imposent à elle, de manière à ne pas causer de préjudice à autrui.
+Elle est, lorsqu’elle est douée de raison et qu’elle manque à ce devoir, responsable du préjudice qu’elle cause par cette faute à autrui et tenue de réparer ce préjudice, qu’il soit corporel, moral ou matériel.
+Elle est aussi tenue, en certains cas, de réparer le préjudice causé à autrui par le fait ou la faute d’une autre personne ou par le fait des biens qu’elle a sous sa garde.
+[21] En droit civil, la responsabilité civile (en vertu de l’article 1457 et suivants du Code civil du Québec) peut être invoquée par un défendeur comme fin de non-recevoir. La fin de non-recevoir constitue une objection préliminaire à la recevabilité de la demande d’une partie.
+[22] L’appelante s’appuie sur la décision de la Cour suprême du Canada dans l’arrêt Soucisse, précité, où le juge Beetz affirme ce qui suit :
+L’un des fondements juridiques possibles d’une fin de non-recevoir est le comportement fautif de la partie contre qui la fin de non-recevoir est invoquée. Le juge Mignault y fait allusion dans le passage cité plus haut de Grace and Company c. Perras (précité) lorsqu’il réfère aux art. 1053 et suivants du Code civil. C’est ce qu’enseigne Lemerle à la p. 144 de son traité où il écrit :
+On n’est pas recevable à se plaindre ni à se prévaloir de son propre fait, de sa négligence, de son imprudence, de son impuissance, à plus forte raison de sa faute, au préjudice d’autrui. Proposition fondée sur ce que [...] on ne doit pas tirer avantage d’une faute que l’on a commise: il est juste, au contraire, de réparer le tort qu’on a fait.
+2) Compétence de la Cour canadienne de l’impôt
+[23] L’appelante soutient que le libellé de l’article 12 de la Loi sur la Cour canadienne de l’impôt a une portée suffisamment large pour englober le pouvoir de prononcer une fin de non-recevoir fondée sur la responsabilité civile en vertu de l’article 1457 du Code civil du Québec. L’appelante se fonde en particulier sur la portion suivante de l’article 12 :
+La Cour a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions découlant de l’application de la Loi sur le droit pour la sécurité des passagers du transport aérien, du Régime de pensions du Canada, de la Loi sur l’exportation et l’importation de biens culturels, de la partie V.1 de la Loi sur les douanes, de la Loi sur l’assurance-emploi ... (C’est l’appelante qui souligne.)
+[24] L’appelante invoque le libellé différent des paragraphes 12(3) et 12(4) de la LCCI, qui énoncent que les « questions qui sont portées devant [la Cour] en vertu des articles 173 et 174 de la Loi de l’impôt sur le revenu … » et que « toute demande de prorogation de délai présentée en vertu des articles 97.52 ou 97.53 de la Loi sur les douanes… » (c’est l’appelante qui souligne), à l’appui de son argument que les termes « découlant de l’application » des lois en litige devraient recevoir une interprétation plus large que celle alléguée par l’intimée. Selon l’appelante, la Cour a compétence à l’égard de toute question liée au processus suivi par les représentants du ministre pour établir une cotisation et pour déterminer la légalité des actes et des omissions de ces représentants dans le cadre d’un tel processus.
+[25] De plus, au soutien de sa position, l’appelante s’appuie sur le paragraphe 152(1) de la LIR qui exige que le ministre examine la déclaration de revenus d’un contribuable et fixe l’impôt pour l’année « avec diligence », et soutient que le ministre a, par conséquent, une obligation d'agir avec soin dans le cadre du processus de cotisation. Le défaut pour le ministre d'agir avec soin dans le cadre de ce processus serait une question qui pourrait faire l’objet d’un appel à l’égard duquel la Cour canadienne de l’impôt serait compétente.
+[26] L’appelante demande à la Cour d’appliquer l’article 12 de la Loi d’interprétation afin de déterminer le cadre de la compétence de la Cour canadienne de l’impôt. Cet article se lit comme suit :
+Solution de droit
+Tout texte est censé apporter une solution de droit et s’interprète de la manière la plus équitable et la plus large qui soit compatible avec la réalisation de son objet.
+[27] L’appelante soutient que les termes « les questions découlant de l’application » des lois en cause incluraient des questions liées à tout élément qui permettrait de jeter quelque lumière sur les circonstances entourant la détermination de la dette fiscale du contribuable.
+[28] L’appelante invoque les décisions Manke c. Canada[8] et Ramsay c. Canada[9], dans lesquelles cette cour a conclu qu’elle avait compétence pour entendre des appels portant sur la question de savoir si les appelants avaient droit à un crédit au titre des retenues à la source effectuées sur leur salaire mais non remises par leur employeur. Dans ces décisions, l’intimée a soutenu que la Cour n’avait pas compétence pour trancher ces questions car elles étaient liées au paiement de la dette fiscale et non à l'établissement de la dette en tant que telle.
+[29] L’appelante soutient qu’elle en appelle du calcul par le ministre des crédits relatifs à ses retenues à la source et que la Cour a compétence à l’égard de cet appel, pour les mêmes motifs que ceux invoqués dans les décisions Manke et Ramsay, précitées.
+[30] Finalement, l’appelante soutient que, pour la saine administration de la justice et l’efficacité procédurale, son appel devrait être entendu par la présente cour. Autrement, elle sera obligée d’entreprendre des procédures identiques en Cour fédérale ou en Cour supérieure du Québec.
+Analyse
+[31] La question à trancher dans la présente requête est de savoir si la Cour a compétence pour se prononcer à l’égard de la fin de non-recevoir invoquée par l’appelante et fondée sur le prétendu non-respect par les représentants du ministre des dispositions de l’article 1457 du Code civil du Québec.
+[32] La Cour canadienne de l’impôt est une cour qui a été créée par la Loi sur la Cour canadienne de l’impôt, L.R.C. 1985 ch. T-2, dans sa forme modifiée. Bien que la Cour soit une « cour supérieure d’archives » selon l’article 3 de la LCCI, cela ne signifie pas qu’elle possède des pouvoirs équivalant à ceux d’une cour supérieure d’une province. Dans l’arrêt Puerto Rico c. Hernandez[10], la Cour suprême du Canada s’est penchée sur la compétence de la Cour fédérale, qui est également une cour créée par la loi. Monsieur le juge Pigeon déclarait ce qui suit aux pages 232 et 233 :
+Je ne dis pas que les derniers mots de l’art. 3 de la Loi sur la Cour fédérale : « demeure une cour supérieure d’archives ayant compétence en matière civile et pénale », doivent être interprétés comme faisant de la Cour fédérale, en matière fédérale, une « cour supérieure » au sens que possède cette expression lorsqu’elle est appliquée aux cours supérieures des provinces, c’est-à-dire à des cours qui ont compétence dans toutes les matières qui ne sont pas exclues de leur juridiction ou, pour employer les termes du Juge en chef Ritchie dans l’arrêt Valin c. Langlois, p.19 [TRADUCTION] « des cours tenues de prendre connaissance de toutes les lois et de les appliquer … ». […] Vu tout ce qui précède, il me paraît que la Cour fédérale est une « cour supérieure » au sens d’une cour ayant un pouvoir de surveillance. C’est là un sens souvent employé, comme le démontrent les nombreux précédents étudiés dans l’arrêt Re Macdonald, et il est significatif que pareille compétence soit conférée par la Loi.
+[33] La loi constitutive de la Cour canadienne de l’impôt lui accorde une compétence exclusive pour entendre les appels portés devant elle sur les questions découlant de l’application de la Loi de l’impôt sur le revenu et de la Loi sur l’assurance-emploi (notamment) « dans la mesure où ces lois prévoient un droit de renvoi ou d’appel devant elle » (article 12 LCCI)[11]. Le renvoi dans ces lois aux dispositions concernant les appels limite la compétence de la Cour canadienne de l’impôt aux appels interjetés à l’encontre de cotisations ou d'évaluations[12]. Les arguments invoqués par l’appelante au soutien d’une interprétation plus large de la compétence de la Cour ne tiennent pas compte de ce libellé.
+[34] Dans la décision MacMillen Holdings Limited c. M.R.N.[13], le juge Rip affirmait ce qui suit :
+L’article 12 de la Loi sur la Cour canadienne de l’impôt permet à la Cour d’entendre les appels portés devant elle sur les questions découlant de l’application de la Loi de l’impôt sur le revenu et de diverses autres lois. […] S’agissant des questions découlant de l’application de la Loi, la Cour est dûment compétente pour entendre et juger les appels interjetés au sujet des cotisations d’impôt. Je n’insisterai jamais assez sur le fait que la compétence première de la Cour est d’entendre et de juger les appels sur les questions découlant de l’application de la Loi et que toute poursuite intentée contre l’État en vertu de l’application de la Loi, sans toutefois qu’il s’agisse de l’appel d’une cotisation, n’est pas un appel découlant de l’application de la Loi, seul cas où la Cour est compétente.
+[35] En ce qui a trait à la nature d’une cotisation, le juge Rip citait le juge Thorson dans l’arrêt Pure Spring Co. Ltd. c. Le ministre du Revenu national[14] :
+[traduction]
+… La cotisation est à mes yeux la somme de tous les facteurs qui représentent l'obligation fiscale, déterminés de façon diverse et permettant d'arriver à un total une fois que tous les calculs nécessaires ont été faits.
+[36] Le juge Rip a conclu que « de par sa nature, une cotisation revient à déterminer ce que doit le contribuable ».[15]
+[37] Les appels interjetés conformément au paragraphe 169(1) de la LIR, et les appels interjetés conformément au paragraphe 103(1) de la LAE sont des appels à l’encontre du montant de la dette fixé par la cotisation ou l'évaluation. La compétence de la Cour, à l’égard de la détermination par le ministre de la créance fiscale, lui permet de décider si le montant d’impôt de la cotisation est exact « en se fondant sur les faits et les dispositions applicables ».[16] Récemment, dans l'arrêt A.G. Canada c. Webster, la Cour d'appel fédérale a accepté que la compétence de la Cour canadienne de l'impôt se limite à déterminer si une cotisation est bien fondée en droit ou non.[17]
+[38] En cherchant à opposer une fin de non-recevoir, l’appelante ne conteste pas le montant des cotisations. Dans l’avis d’appel modifié, l’appelante ne conteste pas le fait que « Les Services de personnel » a fait défaut de remettre les retenues à la source qui devaient être remises au nom de l’appelante[18].
+[39] L’appelante n’allègue pas que le ministre a commis une erreur, d’une manière quelconque, dans l’application des dispositions de la LIR ou de la LAE à l’égard de sa situation ou relativement à tout autre élément constitutif de la cotisation. L’appelante conteste seulement la conduite des représentants du ministre au cours de la période visée par les cotisations et elle soutient qu’en vertu du Code civil, cette prétendue conduite devrait empêcher le ministre de recouvrer les retenues à la source non remises. Je suis d’accord avec l’avocate de l’intimée que la fin de non-recevoir invoquée par l’appelante vise la possibilité de recouvrer les montants visés par les cotisations, plutôt qu’un défaut ou une erreur dans les cotisations. L’appelante cherche à empêcher le ministre de recouvrer la créance fiscale établie dans les cotisations.
+[40] Cela appert également du redressement demandé par l’appelante, soit une déclaration relative aux créances établies par les cotisations :
+DÉCLARER irrecevables et annulées les créances de l’intimée telles qu’établies à la cotisation du 10 juin 2002 au montant de 369 506 $ visant la période du 31 décembre 2001 au 16 mai 2002
+(no de compte 10420 7337 RP0001) et à la cotisation du 10 juin 2002 au montant de 4 887,25 $ visant la période du 31 décembre 2001 au 16 mai 2002 (no de compte 10420 7337 RP0002);
+[41] Dans la mesure où l’appelante tente, subsidiairement, d’obtenir la réduction des cotisations en opposant une fin de non-recevoir, le fondement de la réduction est le même — l’« irrecevabilité des créances ».
+[42] On a conclu que les questions liées au recouvrement de l’impôt ne relèvent pas de la compétence de cette cour. Dans la décision Liu c. La Reine[19], le juge Bowman (tel était alors son titre) a considéré la compétence de cette cour relativement à un crédit au titre des retenues à la source non remises par l’employeur et a déclaré ce qui suit au paragraphe 14 :
+Même si j’en étais venu à une conclusion différente, la Cour n’aurait pas eu la compétence voulue pour déclarer qu’en déterminant le solde que M. Liu doit au gouvernement du Canada, il faudrait tenir compte du montant retenu sur les commissions, mais non versé. La compétence de la Cour, en l’espèce, consiste à entendre les renvois et les appels sur les questions découlant de l’application de la Loi de l’impôt sur le revenu. Essentiellement, les appels fondés sur la Loi de l’impôt sur le revenu visent à déterminer si une cotisation est exacte ou si une perte a été subie. En l’espèce, l’exactitude de la cotisation n’est pas en cause. La question du montant du solde de l’impôt dû par le contribuable relève peut-être de la compétence de la Cour fédérale, mais si cette dernière interprète la question de fond de la même façon que moi, je doute qu’elle puisse accorder un redressement à l’appelant. [Je souligne.]
+[43] La présente cour ne possède pas non plus le pouvoir de prononcer un jugement déclaratoire, comme le demande l’appelante en l’espèce. Elle peut seulement régler les appels relatifs à l’impôt sur le revenu, de la manière prévue au paragraphe 171(1) de la LIR[20].
+[44] La décision de cette cour dans l'affaire Alameda Holdings Limited n’est pas un précédent à l’appui de la proposition que cette cour peut accueillir une requête visant une fin de non-recevoir fondée sur l’article 1457 du Code civil du Québec, puisque cette question n’a pas été décidée par la Cour. En l’espèce, la demande de l’appelante est essentiellement une action contre le ministre pour des dommages découlant d’une prétendue inconduite de ses représentants. La détermination de la responsabilité civile et des dommages en découlant excède la compétence de cette cour.
+[45] Pour ces motifs, je conclus que la question de droit posée par l’intimée doit recevoir une réponse négative, c’est-à-dire que l’appelante ne peut invoquer une fin de non-recevoir fondée sur la responsabilité civile comme motif d’appel à l’encontre d’une cotisation d’impôt établie en vertu de la LIR et d’une évaluation des cotisations établie en vertu de la LAE.
+[46] Dans l’éventualité où la question de droit soumise dans la présente requête recevait une réponse négative, l’intimée a demandé que l’avis d’appel modifié soit radié au motif qu’il ne révèlerait alors plus aucun motif raisonnable d’appel. Le critère pour déterminer si une action devrait être rejetée pour ce motif est connu sous le nom du caractère « évident » : il doit être évident que l’avis d’appel modifié de l’appelante ne révèle aucun motif raisonnable d’appel avant qu’il puisse être radié[21]. Le juge Estey affirmait ce qui suit à la page 740 :
+[…] Sur une requête comme celle-ci, un tribunal doit rejeter l’action ou radier une déclaration du demandeur seulement dans les cas évidents et lorsqu’il est convaincu qu’il s’agit d’un cas « au-delà de tout doute » […]
+[47] Étant donné ma conclusion que la Cour n’a pas compétence pour se prononcer à l’égard du seul motif d’appel invoqué par l’appelante à l’encontre des cotisations, il est évident que son avis d’appel modifié ne révèle aucun motif d’appel raisonnable et qu’il n’a aucune chance de réussir. Par conséquent, l’avis d’appel modifié sera radié.
+[48] L’intimée n’ayant pas demandé de dépens, la Cour n'en adjugera pas.
+Signé à Ottawa, Canada, ce 5e jour de décembre 2003.
+« B. Paris »
+Juge Paris
+No DE RÉFÉRENCE : 2003CCI818
+No DU DOSSIER DE LA COUR : 2003-24(IT)G
+INTITULÉ DE LA CAUSE : Pintendre Autos Inc. et S.M.R.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 28 mai 2003
+MOTIFS DE L'ORDONNANCE PAR : l'honorable juge B. Paris
+DATE DE L'ORDONNANCE : le 5 décembre
+COMPARUTIONS :
+Avocat de l’appelant : Me Michel Beaupré
+Avocate de l’intimé : Me Nathalie Lessard
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom : Me Michel Beaupré
+Étude : Langlois Kronström Desjardins
+Québec (Québec)
+Pour l’intimé : Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1998] 3 C.F. 381 (C.A.F.).
+[2] L.R.C. 1985, ch. T-2.
+[3] L.R.C. 1985 (5e suppl.) ch. 1, dans sa forme modifiée.
+[4] L.C. 1996, ch. 23.
+[5] [1981] 2 R.C.S. 339.
+[6] Voir Perley c. La Reine, C.C.I., no 95-3647(IT)G, le 25 juin 1997 (97 DTC 1352).
+[7] Voir Alameda Holdings Limited c. Canada, [1999] A.C.I. no 839 (2000 DTC 1544) et Houde c. La Reine, C.C.I., no 1999-4349(IT)I, le 8 mars 2001 ([2001] 2 C.T.C. 2695).
+[8] [1998] A.C.I. no 759.
+[9] [2000] A.C.I. no 606.
+[10] [1975] 1 R.C.S. 228.
+[11] L’article 12 de la LCCI confère à la Cour canadienne de l’impôt une compétence à l’égard d’autres questions qui ne sont pas liées à la question en litige et prévoit la compétence pour entendre et trancher d’autres questions.
+[12] En ce qui a trait à la LAE, la Cour a également compétence à l’égard des appels à l’encontre de déterminations relatives à l’emploi d’une personne, mais cette catégorie d’appel n’est pas importante aux fins de la présente requête, puisque l’appelante ne conteste aucune détermination faite par le ministre.
+[13] 87 DTC 585 at page 591.
+[14] 2 DTC 844, à la page 857.
+[15] MacMillen Holdings Ltd. c. M.R.N. (supra) à la page 591
+[16] Milliron c. Canada, 2003 C.A.F. 283.
+[17] 2003 CAF 388
+[18] Voir les paragraphes 25, 35, 41, 43 et 45 de l’avis d’appel modifié.
+[19] C.C.I., no 94-3087(IT)I, le 26 juin 1995 ([1995] 2 C.T.C. 2971).
+[20] Voir : Ramsay c. Canada, 2000 A.C.I. no 606, au paragraphe 15 et 460354 Ontario Inc. c. M.R.N., C.C.I., no 88-482(IT), le 26 octobre 1988 (88 DTC 1679).
+[21] Procureur général du Canada. c. Inuit Tapirisat, [1980] 2 R.C.S. 735, à la page 740.

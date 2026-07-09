@@ -1,0 +1,139 @@
+Title: Le Tremble c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27357/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-568-27357-le-tremble-c-la-reine-en.md
+Document type: case_law
+Last modified: 2006-11-16
+
+# Le Tremble c. La Reine
+
+- Citation: 2006 TCC 568
+- Decision date: 2006-11-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 179, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Le Tremble c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-11-16
+Neutral citation
+2006 TCC 568
+File numbers
+2006-1354(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1354(IT)I
+BETWEEN:
+CHRISTIANE LE TREMBLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on October 13, 2006, at Montréal, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Vlad Zolia
+_____________________________________________________________
+JUDGMENT
+The appeal from assessments made under the Income Tax Act for the 2001 and 2002 taxation years is dismissed and the penalties are confirmed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of November 2006.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 28th day of May 2007.
+Gibson Boyd, Translator
+Citation: 2006TCC568
+Date: 20061116
+Docket: 2006-1354(IT)I
+BETWEEN:
+CHRISTIANE LE TREMBLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from assessments for the 2000 and 2001 taxation years essentially pertaining to penalties assessed under subsection 163(2) of the Income Tax Act (the “Act”).
+[2] In assessing the penalties provided in subsection 163(2) of the Act, the Minister of National Revenue (the “Minister”) relied on the following facts:
+[TRANSLATION]
+8. . . .
+(a) concerning the taxation years at issue, the Minister performed an audit using the deposit method, and the Appellant acknowledged the unreported income that it revealed; (admitted)
+9. The Minister determined that the Appellant had knowingly or under circumstances tantamount to gross negligence, made a false statement or omission in her income tax returns for the 2001 and 2002 taxation years, or had participated in, consented to or acquiesced to this false statement or omission, resulting in the tax that the Appellant would have had to pay according to the information provided for those years being less than the amount of tax payable for those years:
+(a) the Appellant was aware of the professional fees that she earned because all earnings were deposited to her bank books; (denied)
+(b) inexistent account books; (admitted)
+(c) neglect to submit all documents to the accountant; (denied)
+(d) the net worth method confirmed yearly that the Appellant’s cost of living corresponded with her revised net income; (neither admitted nor denied)
+(e) the undeclared amounts represent 72% and 134% respectively of the net professional income reported for 2001 and 2002. (admitted)
+[3] The Appellant admitted paragraphs 8 (a), 9 (a) and 9 (e).
+[4] The Appellant stated that she had never had any knowledge of how to account for the income that she had to report. She indicated that she collected her professional fees and deposited them to her bank account without thinking of the total amount. She deposited the fees that she received and, as long as the deposits enabled her to cover her various expenses, whether personal or professional, she did not ask herself any more questions.
+[5] The Appellant also stated that she was not interested in anything to do with the accounting of her income; all that mattered was to have enough income to meet her obligations. She did not have the interest, the knowledge, the will to understand or the time to do so given the demands of her workload. She put the documents she thought were important in a plastic bag; she gave the contents to an accountant who completed her tax returns.
+[6] As the Appellant had admitted that the accountant in question had used and taken into consideration all information documents that she provided in order to calculate her taxable income, consequently the Appellant must have omitted to supply certain documents because the auditor’s verification of the deposits showed that significant income had not been reported.
+[7] She explained that she worked very long hours as a self-employed psychologist in a private clinic. She indicated that someone else did what she described as file management, which included billings.
+[8] She had two types of patients, those who consulted her individually and those who were under an assistance program. In the second case, the fees were paid to her by the centre or the business responsible for the program.
+[9] She explained that she put everything concerning her fees and expenses pell-mell in a plastic bag and submitted everything to an accountant at year end.
+[10] Though she was present at the hearing, the accountant did not testify, as the Appellant had admitted that she had done the work correctly from the information that she had provided. In other words, the Appellant acknowledged that the work performed by the accountant based on the contents of the plastic bag was appropriate.
+[11] During the audit, the Appellant and her new accountant collaborated and provided everything relevant. The Appellant submitted that the Court should take this collaboration into account and set aside the penalties for this reason.
+[12] Not being interested in the tax treatment of one’s income, not understanding it or even not wanting to understand it is not, in itself, reprehensible. However, taxpayers are required to do what is necessary to compensate for this shortcoming by entrusting the task to a competent person and, in particular, provide that person with all relevant documentation required to prepare an income tax return corresponding with the actual revenues and expenses.
+[13] If a taxpayer is ignorant or uninterested to the point of omitting to communicate certain essential documents and information, he or she takes the risk of having serious problems potentially resulting in reassessments and heavy penalties.
+[14] Section 230 of the Act reads as follows:
+Records and books
+230. (1) Every person carrying on business and every person who is required, by or pursuant to this Act, to pay or collect taxes or other amounts shall keep records and books of account (including an annual inventory kept in prescribed manner) at the person's place of business or residence in Canada or at such other place as may be designated by the Minister, in such form and containing such information as will enable the taxes payable under this Act or the taxes or other amounts that should have been deducted, withheld or collected to be determined.
+[15] This is a legal obligation that everyone must respect. It is not a simple obligation of means where one must do one’s best according to one’s upbringing, education and interest.
+[16] Although, a priori, taxation can be complex, this is not different from other fields of activity. Indeed, automobile mechanics, construction, electricity and anything relating to good health are fields where it is necessary to rely on skilled individuals to solve certain problems.
+[17] There are countless fields in which the assistance of third parties is required. Taxation is not an exception to this rule, especially if one does not have the interest, knowledge or desire to do what is necessary to figure it out.
+[18] In tax matters, without being able to respect one’s obligations using one’s own knowledge and experience, it is imperative to rely on skilled individuals. Ignorance and inexperience are not acceptable excuses because everyone must report all income.
+[19] In this case, the Appellant no doubt did not intend to deliberately hide certain income; in other words, she had not set up a system designed to hide part of her income. Is this a sufficient reason to set aside the penalties?
+[20] I do not think so. The Appellant was very well educated. She practised a professional occupation and was the only one in charge of managing her revenue. The Appellant stated that she had always acted in good faith. If she did not declare all of her income, it was because she had no tax knowledge, was not interested in this field and relied on an accountant to whom she had submitted documents in a plastic bag and to whom she had assigned the task of completing her income tax returns. All of the explanations submitted to the Court were moreover consistent with the content of her Notice of Appeal:
+[TRANSLATION]
+1: I never had any intention of not reporting my income to the tax authorities and I find your claim that I “knowingly” (written in your letter of April 27) made an omission in my returns is offensive, out of place and false.
+I was working a lot and I had complete faith in my accountant at the time, Patricia Ménard CA. She seemed satisfied with the documents I submitted to her and I had complete faith in her professionalism.
+Furthermore, I was never informed by anyone that the deposits were required to determine my income since the invoices and stubs from my clients’ cheques seemed to be sufficient for my returns.
+2: On that subject, I must point out to you that, at the time of Mr. Froment’s audit, my current accountant, Mr. Correia, and I very quickly and efficiently provided him with all the documents that he asked us for. I consider that if I had wanted to “knowingly” make omissions, our work methods with Mr. Froment would have been very different.
+3: At our first meeting with Mr. Froment, his unit head and my accountant, I stated in front of everyone that I did not know anything about my income or any of the tax procedures.
+This declaration, made in good faith, was sincere, honest and true. The proof is that after that I hastened to provide Mr. Froment with all the requested documents and to pay the taxes in arrears. I consider that this all demonstrates my good faith.
+4: I was informed by my accountant that he was never called or informed about the progress of my application to set aside the section 163.2 penalties. He only received your notice of April 27, 2006, with no possibility for discussion of my case.
+[21] The audit of the Appellant’s deposit books revealed a substantial discrepancy between reported income and real income, respectively evaluated by the Respondent at 72% for the 2001 taxation year and 134% for the 2002 taxation year. The Appellant’s accountant did the same exercise based on her net income and came up with discrepancies of 26% and 57%. Again, this is a significant difference between reported income and real income.
+[22] To conclude that there was gross negligence, it is not necessary to demonstrate the intentional or deliberate aspect or the setting up of a system designed to hide part of her income.
+[23] Nonchalance, imprudence, negligence, total disinterest and absence of accounting records are indeed sufficient to conclude that there was gross negligence, all the more so when reported income is substantially lower than real income and when the person put in charge of reporting has not received all information or documentation to prepare the income tax return.
+[24] Just being uncomfortable with anything to do with taxes, or the Appellant’s ignorance, lack of interest or excessive workload, do not diminish in any way her duty to report all of her income. Being unable to meet this obligation on her own, she had the responsibility to find an alternative that would have allowed all of her income to be reported.
+[25] The Appellant should have compensated for her lack of interest, time and knowledge of the field by hiring a qualified individual to set up an accounting system that would report all of the Appellant’s income.
+[26] This omission in itself constitutes gross negligence justifying the penalties. To subscribe to the Appellant’s explanations and excuses to justify setting aside the penalties would result in limiting the application of the penalty set out in subsection 163(2) to situations where the taxpayer expressly intended to hide income.
+[27] However, commission of gross negligence can result from carelessness, negligence or simply unjustifiable disinterest in one’s tax obligations, or, what often summarizes all of these qualifiers, very convenient voluntary blindness.
+[28] The excuses submitted by the Appellant are not admissible to explain or justify the failure to report a significant part of her income. Therefore I confirm the ground of the penalties and dismiss the appeal, without costs.
+Signed at Ottawa, Canada, this 16th day of November 2006.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 28th day of May 2007.
+Gibson Boyd, Translator
+CITATION: 2006TCC568
+COURT FILE NUMBER: 2006-1354(IT)I
+STYLE OF CAUSE: Christiane Le Tremble and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: October 13, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: November 16, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+For the Respondent:
+Vlad Zolia
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

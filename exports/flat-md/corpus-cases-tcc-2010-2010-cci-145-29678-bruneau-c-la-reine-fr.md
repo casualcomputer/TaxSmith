@@ -1,0 +1,172 @@
+---
+title: "Bruneau c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29678/index.do"
+last_modified: "2010-03-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 145"
+citation2: ""
+neutral_citation: "2010 CCI 145"
+decision_date: "2010-03-11"
+language: "fr"
+item_id: "29678"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6244
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:11:40.330000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1d381cde4b233b241b413028c83cc1c9e8d1ba4f02b84c4f3f55e50146ef4e1c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bruneau c. La Reine
+
+- Citation: 2010 CCI 145
+- Decision date: 2010-03-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6244, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bruneau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-11
+Référence neutre
+2010 CCI 145
+Numéro de dossier
+2008-1683(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1683(IT)G
+ENTRE :
+MARIO BRUNEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 12 novembre 2009, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Sarom Bahk
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de la cotisation établie en date du 2 mars 2007 et dont l’avis portait le numéro 43344 en vertu de laquelle le ministre du Revenu national a réclamé de l’appelant le paiement d’une somme de 18 348 $ relativement à des transferts de biens entre personnes ayant un lien de dépendance effectués au cours des années d’imposition 1999, 2000 et 2001 est rejeté, avec dépens, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour de mars 2010.
+« Réal Favreau »
+Juge Favreau
+Référence : 2010 CCI 145
+Date : 20100311
+Dossier : 2008-1683(IT)G
+ENTRE :
+MARIO BRUNEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel par voie de la procédure générale à l’encontre d’une cotisation établie en date du 2 mars 2007 et dont l’avis portait le numéro 43344 en vertu de laquelle le ministre du Revenu national (le « ministre ») a réclamé de l’appelant le paiement d’une somme de 18 348 $ relativement à des transferts de biens entre personnes ayant un lien de dépendance, effectués au cours des années d’imposition 1999, 2000 et 2001 sous forme de dividendes provenant de la société 2635‑9257 Québec Inc. (la « société »).
+[2] La société a été constituée le 22 décembre 1988 en vertu de la Partie 1A de la Loi sur les compagnies du Québec et elle a été immatriculée le 4 mars 1995. Sa principale activité consistait à détenir un placement dans une société de personnes dont la raison sociale était Services de prévention, d’évaluation et de ressources (« SPER ») et dont la principale activité consistait à offrir des services d’aide thérapeutique professionnelle aux entreprises. L’exercice financier de la SPER se terminait le 31 décembre de chaque année alors que l’exercice financier de la société se terminait le 31 mars de chaque année.
+[3] Au cours des années d’imposition 1999, 2000 et 2001, l’appelant était le seul actionnaire et le seul administrateur de la société et il détenait une participation de 5 % dans la SPER alors que la société détenait une participation de 95 % dans ladite société de personnes. L’appelant agissait en tant que directeur général de la SPER et en tant que thérapeute principal.
+[4] Selon les états financiers de la société au 31 mars 1999, 2000 et 2001, et selon les déclarations de revenu (T‑2) produites par la société pour chacune de ces années d’imposition, la société a versé les dividendes suivants sur les actions catégorie « A » de son capital‑actions :
+1999 :
+10 160 $
+2000 :
+15 000 $
+2001 :
+15 001 $
+[5] L'appelant a produit en retard ses déclarations de revenu (T‑1) pour les années d’imposition 1999, 2000 et 2001; ses déclarations de revenu pour les années 1999 et 2000 ont été produites le 15 juin 2001 et celle pour 2001 a été produite le 22 avril 2003. Pour chacune de ces années, l’appelant a réclamé et obtenu un crédit d’impôt fédéral pour dividendes, soit :
+Réclamé
+Accordé
+1999
+1 693,33 $
+1 148,56 $
+2000
+2 500,00 $
+2 290,34 $
+2001
+1 666,67 $
+1 154,20 $
+[6] Au 2 mars 2007, la société était redevable envers le ministre des sommes suivantes à l’égard des années d’imposition 1999, 2000 et 2001 :
+Impôt fédéral :
+9 448,42 $
+Pénalités :
+969,48 $
+Intérêts :
+7 930,10 $
+Total :
+18 348,00 $
+[7] La seule question en litige consiste à déterminer si l’appelant est tenu de payer la somme de 18 348,00 $, soit la dette fiscale de la société pour les années d’imposition 1999, 2000 et 2001 compte tenu de l’encaissement des dividendes que lui a versés la société au cours desdites années d’imposition.
+[8] La responsabilité de l’appelant, si responsabilité il y a, découle de l’application du paragraphe 160(1) de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e Suppl.), telle que modifiée (la « Loi »). Le paragraphe 160(1) se lit comme suit :
+160. Transfert de biens entre personnes ayant un lien de dépendance
+(1) Lorsqu'une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d'une fiducie ou de toute autre façon à l'une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s'appliquent :
+d) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement d'une partie de l'impôt de l'auteur du transfert en vertu de la présente partie pour chaque année d'imposition égale à l'excédent de l'impôt pour l'année sur ce que cet impôt aurait été sans l'application des articles 74.1 à 75.1 de la présente loi et de l'article 74 de la Loi de l'impôt sur le revenu, chapitre 148 des Statuts revisés du Canada de 1952, à l'égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l'égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d'un montant égal au moins élevé des montants suivants :
+(i) l'excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l'auteur du transfert doit payer en vertu de la présente loi au cours de l'année d'imposition dans laquelle les biens ont été transférés ou d'une année d'imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n'est toutefois réputée limiter la responsabilité de l'auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[9] Pour que le paragraphe 160(1) de la Loi puisse s’appliquer, il faut qu’il y ait, entre des personnes ayant un lien de dépendance, un transfert de bien sans contrepartie ou dont la juste valeur marchande de la contrepartie serait inférieure à la juste valeur marchande du bien au moment du transfert.
+[10] Pour déterminer si des personnes ont un lien de dépendance entre elles, il faut regarder les dispositions de l’article 251 de la Loi. Selon l’alinéa 251(1)(a) de la Loi, des personnes liées sont réputées, pour l’application de la Loi, avoir entre elles un lien de dépendance. Selon la définition de « personnes liées » que l’on trouve au paragraphe 251(2), sont des « personnes liées » ou des « personnes liées entre elles », une société est une personne qui contrôle la société si cette dernière est contrôlée par une personne. Dans la présente affaire, il ne fait pas de doute que l’appelant avait, au cours des années d’imposition 1999, 2000 et 2001, un lien de dépendance avec la société puisqu’il était le seul et unique actionnaire de la société. L’appelant et la société étaient donc des personnes liées qui étaient réputées avoir entre elles un lien de dépendance.
+[11] Une autre condition d’application du paragraphe 160(1) est qu’il y a eu transfert d’un bien lorsqu’un dividende a été versé. La question de savoir si le paiement d’un dividende en espèces peut constituer un transfert de biens aux fins du paragraphe 160(1) a fait l’objet de plusieurs décisions de cette Cour, de la Cour d’appel fédérale et de la Cour suprême du Canada.
+[12] Le juge Rip de cette Cour a conclu, dans la décision Algoa Trust c. La Reine, [1993] 1 C.T.C. 2294, que l’article 160 de la Loi s’appliquait à un dividende de sorte que son paiement constituait un transfert de biens. Cette conclusion du juge Rip a été, notamment, confirmée par madame la juge Sharlow de la Cour d’appel fédérale dans l’arrêt Addison & Leyen Ltd. c. Canada, [2006] A.C.F. no 489 en ces termes :
+[60] [. . .] Ainsi, la décision rendue en 1993 par la Cour de l'impôt dans Algoa Trust fait autorité en ce qui a trait à la proposition selon laquelle l'article 160 peut s'appliquer aux dividendes.
+[13] Cette décision de madame la juge Sharlow a été confirmée par la Cour suprême du Canada, [2007] 2 S.C.R. 793, bien que l’arrêt a porté sur d’autres motifs.
+[14] En plus de considérer le versement d’un dividende comme un transfert de bien aux fins de l’application de l’article 160 de la Loi, nos Cours de justice ont conclu qu’un dividende versé à des actionnaires constituait un transfert sans contrepartie au sens de l’article 160 de la Loi. C’est notamment le cas de la décision rendue par le juge Nadon de la Cour d’appel fédérale dans La Reine c. Gilbert, 2007 CAF 136, qui a confirmé la décision de la juge Lamarre Proulx à l’effet que les dividendes versés constituaient un transfert sans contrepartie au sens de l’article 160 de la Loi.
+[15] Comme le disait si bien le juge Angers de cette Cour dans l’arrêt Gestion André Pomerleau Inc. c. Canada, [2009] D.T.C. 1208, au paragraphe 24 :
+La jurisprudence et l'état du droit actuel font en sorte qu'il n'y a pas de contrepartie pour l'obtention d'un dividende puisque celui-ci découle de la propriété des actions. Voir Algoa Trust c. la Reine, [1993] 1 C.T.C. 2294, Addison & Leyen Ltd. c. Canada, [2006] A.C.F. no 489, Neuman c. MRN, [1998] 1 R.C.S. 770, La Reine c. Gilbert, [2007] A.C.F. no 483, 2007 CAF 136, Gosselin c. Canada, [1996] A.C.I. no 206, Côté c. Canada, [2002] A.C.I. no 76 et Larouche c. La Reine, [2008] A.C.I. no 374, en date du 3 septembre 2008.
+[16] Selon ce qui est indiqué aux états financiers de la société et aux déclarations de revenu de la société et de l’appelant, des dividendes ont été versés par la société à l’appelant au cours de chacune des années d’imposition en litige. Les conditions d’application du paragraphe 160(1) de la Loi sont donc toutes rencontrées.
+[17] Comme aucune contrepartie ne peut être considérée comme ayant été fournie par l’appelant pour le versement des dividendes, la juste valeur marchande des biens transférés excédait la juste valeur marchande de la contrepartie donnée pour les biens. Par conséquent, le ministre était justifié d’établir une cotisation à l’égard de l’appelant pour les impôts, pénalités et intérêts dus par la société à l’égard des années d’imposition 1999, 2000 et 2001.
+[18] Dans son avis d’appel, l’appelant a demandé à ce que la Cour considère les sommes versées sous forme de dividendes comme un cachet versé en vertu du travail rendu à raison de 50 heures par semaine à titre de directeur de la SPER. Cela n’est évidemment pas possible puisque les services auxquels l’appelant fait référence ont été rendus à la SPER et non à la société. La société est une entité légale séparée et distincte de la SPER. L’appelant n’a fourni aucun service ni aucune prestation de travail à la société qui ne faisait que détenir une participation dans la SPER.
+[19] Pour ces motifs, l’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 11e jour de mars 2010.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2010 CCI 145
+Nº DU DOSSIER DE LA COUR : 2008-1683(IT)G
+INTITULÉ DE LA CAUSE : Mario Bruneau et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 12 novembre 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 11 mars 2010
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Sarom Bahk
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

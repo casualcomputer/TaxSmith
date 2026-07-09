@@ -1,0 +1,161 @@
+---
+title: "Onischuk v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521392/index.do"
+last_modified: "2025-02-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 17"
+citation2: ""
+neutral_citation: "2025 TCC 17"
+decision_date: "2025-02-03"
+language: "en"
+item_id: "521392"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6019
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:46:50.149000+00:00"
+cases_cited_count: 11
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ea5f754bc94b7d9f1bce234fda8aa56eec76d4899366b532afea487101b5eb18"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Onischuk v. The King
+
+- Citation: 2025 TCC 17
+- Decision date: 2025-02-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6019, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Onischuk v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-02-03
+Neutral citation
+2025 TCC 17
+File numbers
+2023-1476(IT)APP
+Judges and Taxing Officers
+Ted Cook
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2023-1476(IT)APP
+BETWEEN:
+DANIEL ONISCHUK,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on November 7, 2024, at Edmonton, Alberta
+Before: The Honourable Justice Edward (Ted) Cook
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Georgina Ilechie
+JUDGMENT
+In accordance with the attached reasons for judgment;
+The application for an extension of time within which appeals to the Tax Court of Canada may be instituted for the Applicant’s 2011, 2012 and 2013 taxation years is dismissed, without costs.
+Signed at Ottawa, Ontario, this 3rd day of February 2025.
+“Ted Cook”
+Cook J.
+Citation: 2025 TCC 17
+Date: 20250203
+Docket: 2023-1476(IT)APP
+BETWEEN:
+DANIEL ONISCHUK,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Cook J.
+I. Introduction
+[1] The Applicant, Mr. Daniel Onischuk, applies for an extension of time within which appeals to this Court may be instituted for his 2011, 2012 and 2013 taxation years.
+[2] The Minister of National Revenue (“Minister”) reassessed the 2011 and 2012 years in October 2014. Mr. Onischuk’s balance owing was nil for both those reassessments. The Minister assessed the 2013 year, as filed, in March 2014 and Mr. Onischuk received a refund of $627 (collectively, the “Assessments”).
+[3] Mr. Onischuk filed a purported notice of objection to the Assessments in January 2015. The Minister refused to consider the objection because there were no taxes payable for each of 2011, 2012 and 2013, and no appeal can be taken from a nil assessment (Minister’s letter dated February 25, 2015). Mr. Onischuk filed a second purported notice of objection to the Assessments in May 2022. The Minister again refused to consider the objection for the same reasons (Minister’s letter dated June 20, 2022). Neither of the Minister’s letters confirmed, varied or vacated the Assessments.
+[4] In June 2023, Mr. Onischuk made an application to this Court for an extension of time within which to institute appeals for those years.
+[5] The substantive issue Mr. Onischuk wishes to dispute with the Canada Revenue Agency (“CRA”) relates to its denial of business losses of both Mr. Onischuk and his wife, Mrs. Therese Onischuk, for those years. Mr. Onischuk argues that Mrs. Onischuk’s losses are intertwined with his own tax affairs.
+II. Issues
+[6] It is common ground between the parties that the Assessments do not impose tax, interest or penalties. That is, the Assessments are all what are referred to as “nil assessments”. The questions before me are:
+whether subsection 21(3) of the Tax Court of Canada Rules (Informal Procedure) (“Informal Rules”) gives me the authority to allow an appeal from a nil assessment to proceed; and
+if it does, have the requirements in subsection 167(5) of the Income Tax Act to grant the application been met?
+III. Analysis
+[7] Subsection 169(1) of the Income Tax Act allows a taxpayer to appeal to the Tax Court of Canada to have an assessment vacated or varied after the taxpayer has served a notice of objection to the assessment. Where the Minister confirms the assessment or reassesses the taxpayer, the taxpayer must institute the appeal within 90 days of written notification of the confirmation or reassessment being sent to the taxpayer.
+[8] If a taxpayer has not met the 90-day deadline, section 167 of the Income Tax Act allows the taxpayer to apply to the Tax Court for an extension of time within which to institute an appeal. Mr. Onischuk has applied for such an extension.
+[9] The problem Mr. Onischuk faces in trying to appeal the Assessments is that the Assessments do not impose any tax, interest or penalties (an amount of $2.92 in interest was both included and reversed for the 2012 year, so I do not take it as being relevant). The case law is clear that a nil assessment is not an assessment, and it cannot be objected to or appealed from.
+[10] As pointed out in Nagel v The Queen, 2018 TCC 32, aff’d 2022 FCA 5039, at para 16, in respect of an application for an extension of time within which to institute an appeal:
+Thus, the Minister may make an assessment or reassessment of tax, interest or penalties payable by a taxpayer or notify a person that no tax is payable. Having no tax payable is also referred to as a nil assessment. An appeal must be directed against an assessment and an assessment which assesses no tax is not an assessment.
+See also, for example, Okalta Oils Limited v MNR, [1955] S.C.R. 824; Interior Savings Credit Union v The Queen, 2007 FCA 151; and Terek v The Queen, 2008 TCC 665.
+[11] Mr. Onischuk submits that subsection 21(3) of the Informal Rules, however, gives this Court the authority to allow his appeal to proceed. Subsection 21(3) provides as follows:
+The Court may, where and as necessary in the interests of justice, dispense with compliance with any rule at any time.
+[12] His view is that subsection 21(3) allows me to dispense with the requirement of an assessment with tax payable from which to appeal and that granting the requested extension of time would be in the interests of justice. Mr. Onischuk feels that he is being unfairly targeted by the CRA and that the CRA is hiding behind the protection of nil assessments in order to avoid being challenged by him. I note in passing that the Minister’s letters invited Mr. Onischuk to seek a loss determination for 2011 and 2012, but, evidently, he declined to do so.
+[13] He argues that his interpretation of subsection 21(3) is consistent with other provisions of the Income Tax Act providing extensions of time, such as subsection 152(4.2), and sections 166.1 and 166.2. Subsection 152(4.2) allows the reassessment of an individual (other than a trust) within 10 calendar years with the taxpayer’s consent while sections 166.1 and 166.2 allow extensions of time to file a notice of objection. His interpretation is also mandated by the interpretation acts of both Canada and the Province of Alberta.
+[14] Mr. Onischuck cites cases, such as Rizzo & Rizzo Shoes Ltd. (Re), [1998] 1 S.C.R. 27 and Bowes v Edmonton (City), 2007 ABCA 347, to argue that subsection 21(3) should be given a broad, liberal interpretation so as to allow his matter to proceed and that it should not be given a narrow interpretation to the benefit of one litigant (in this case, the Minister). He also cites Danyluk v Ainsworth Technologies Inc., 2001 SCC 44; Canada v TeleZone Inc., 2010 SCC 62; and Toronto (City) v Canadian Union of Public Employees (C.U.P.E.), Local 79, 2003 SCC 63 to argue that subsection 21(3) should be interpreted in a fair manner. Certain other cases referred to (e.g., Canada v Craig, 2012 SCC 43) relate to the substantive issue Mr. Onischuk would like to appeal. None of the cases raised by Mr. Onischuk directly address the use of a court’s rules to override statutory requirements.
+[15] More broadly, Mr. Onischuk also appeals to Charter values, and in particular, sections 6, 7 and 12, and subsection 15(1) of the Charter of Rights and Freedoms, to support his interpretation of subsection 21(3).
+[16] Mr. Onischuk asks me to use subsection 21(3) of the Informal Rules to overcome the limitations imposed by the Income Tax Act as interpreted by the case law with respect to nil assessments. Subsection 21(3) cannot do this. It only provides the authority to modify the application of other rules in the Informal Rules. The cases and legislation Mr. Onischuk relies on do not support the proposition that procedural rules can be used to override the statutory requirements of the Income Tax Act. As stated by the Federal Court of Appeal in Chaya v The Queen, 2004 FCA 327 at para 4, “[t]he Court must take the statute as it finds it. It is not open to the Court to make exceptions to statutory provisions on the grounds of fairness or equity.”
+[17] Subsection 21(3) cannot alter or expand the conditions for an appeal found in the Income Tax Act. In Pervais v The Queen, 1996 CarswellNat 127, 192 N.R. 269 (F.C.A.D.), Justice Strayer speaking for the Court, held that a similar rule for unemployment insurance could not be used to extend a deadline in the Unemployment Insurance Act:
+We are all of the view that this application for judicial review must be dismissed. The only right of appeal from a decision of the Minister with respect to insurability of employment is that provided in subsection 70(1) of the Unemployment Insurance Act. That right to appeal is conditioned on the appeal being filed within 90 days of communication of the Minister’s decision, or within such further time allowed by the Tax Court on an application made within those 90 days. No such application was made in this case and this appeal was filed 92 days after communication of the Minister’s decision.
+While rule 27 of the Tax Court Rules for Unemployment Insurance appeals, made under the authority of the Tax Court Act, permits that Court to dispense with compliance with any rule, this clearly does not authorize the Court to alter the statutory conditions for appeal in subsection 70(1) of the Unemployment Insurance Act.
+[emphasis in original]
+[18] Pervais was followed in Peddle v MNR, 1996 CarswellNat 4077 (T.C.C.), at para 3:
+To begin with, the Rules [Tax Court of Canada Rules (Unemployment Insurance)] are one thing. The Act [Unemployment Insurance Act] is what governs and subsection 70(1) states that the appeal must be filed within the 90 day period.
+[19] In Linett v The Queen (1979), [1980] CTC 36, 79 DTC 5471 (F.C.A.D.), the Court held that the Federal Court Rules dealing with the computation of time did not apply to the computation of time for instituting an appeal under the Income Tax Act.
+[20] The same approach was also taken in Dawe v The Queen, 1994 CarswellNat 1325, 174 N.R. 1 (F.C.A.D.). The Court (at para 13) considered whether a similar rule in the Federal Court Rules could be used to extend a limitation period in the Customs Act and held that it could not:
+Furthermore, it seems clear to me on a plain reading of Rules 6 and 302 that they have no application to the case at hand. Rule 6 empowers the Court to dispense with compliance with any Rule where it is necessary to do so in the interest of justice. It does not authorize the Court to dispense with compliance with a statutory provision enacted by Parliament. It is the Customs Act, not a rule of the Court, which sets up the limitation period.
+[emphasis in original]
+[21] Although these decisions relate to statutory deadlines, they all demonstrate that more generally a court’s rules cannot operate to override statutory requirements. Flexibility in a court’s rules of procedure cannot be used to abridge or overcome a statutory requirement. In this case, subsection 21(3) cannot be used to override the requirement that an appeal must be from an assessment.
+[22] This interpretation is consistent with the authority underpinning the Informal Rules. The Informal Rules are promulgated under the authority of section 20 of the Tax Court of Canada Act. Subsection 20(1) of that act allows for the creation of “rules for regulating the pleadings, practice and procedure in the Court[.]” What Mr. Onischuk is requesting goes well beyond regulating the pleading, practice and procedure of the Tax Court.
+[23] As well, the use of subsection 21(3) in this manner would be using the Informal Rules to expand the jurisdiction of the Tax Court. The jurisdiction of the Tax Court is determined by the relevant statutory provisions and cannot be expanded by its own rules. Where the Tax Court does not have jurisdiction over the subject matter of an appeal, the appeal should be quashed. See, for example, Brouillette v The Queen, 2010 TCC 616; and Consoltex Inc. v The Queen (1991), [1992] 2 C.T.C. 2040, 92 D.T.C. 1567 (T.C.C.).
+[24] Given my decision with respect to the applicability of subsection 21(3), it is not necessary to decide whether Mr. Onischuk has met the requirements set out in subsection 167(5) of the Income Tax Act for an extension of time within which to institute an appeal.
+IV. Conclusion
+[25] The relevant assessments are nil assessments. As such, they cannot be objected to or appealed from. Subsection 21(3) of the Informal Rules does not give me the authority to allow an appeal of a nil assessment to proceed.
+[26] The application is dismissed, without costs.
+Signed at Ottawa, Ontario, this 3rd day of February 2025.
+“Ted Cook”
+Cook J.
+CITATION:
+2025 TCC 17
+COURT FILE NO.:
+2023-1476(IT)APP
+STYLE OF CAUSE:
+DANIEL ONISCHUK AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+November 7, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Edward (Ted) Cook
+DATE OF JUDGMENT:
+February 3, 2025
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Georgina Ilechie
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+The Applicant Himself
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

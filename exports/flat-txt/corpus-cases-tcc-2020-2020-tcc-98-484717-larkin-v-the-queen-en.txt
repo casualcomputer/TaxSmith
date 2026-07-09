@@ -1,0 +1,221 @@
+Title: Larkin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/484717/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-98-484717-larkin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-09-01
+
+# Larkin v. The Queen
+
+- Citation: 2020 TCC 98
+- Decision date: 2020-09-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4572, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Larkin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-09-01
+Neutral citation
+2020 TCC 98
+File numbers
+2019-328(IT)I
+Judges and Taxing Officers
+Rommel G. Masse
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-328(IT)I
+BETWEEN:
+DANIEL B. LARKIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 9, 2020 at Ottawa, Ontario.
+Before: The Honourable Rommel G. Masse, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ahmed Ali
+Christopher Kitchen
+JUDGMENT
+The appeal from an assessment made under the Income Tax Act for the 2011 taxation year is allowed in part and the matter is referred back to the Minister for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Kingston, Ontario, this 1st day of September 2020.
+“Rommel G. Masse”
+Masse D.J.
+Citation: 2020 TCC 98
+Date: 20200901
+Docket: 2019-328(IT)I
+BETWEEN:
+DANIEL B. LARKIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Masse D.J.
+[1] The Appellant, Mr. Daniel Larkin, appeals a reassessment made under the Income Tax Act, RSC 1985, c.1 (5th Supp) (the “Act”), for his 2011 taxation year. This appeal concerns claimed deductions of $20,156 as business expenses that were disallowed by the Minister of National Revenue (the “Minister”).
+Background
+[2] By way of letter dated January 10, 2013, the Minister requested the Appellant to file his 2008 through to 2011 tax returns. The Appellant did so. In calculating his 2011 net income, the Appellant claimed, among other deductions, the sum of $12,000 as business expenses related to his work as a geologist, prospector and inventor. On March 19, 2015, the Minister initially assessed the Appellant’s 2011 tax year as filed. By way of letter dated September 3, 2015, the Minister requested the production of supporting documentation for the claimed business deductions of $12,000 for the 2011 taxation year. On March 3, 2016, the Minister issued a Notice of Reassessment for the 2011 taxation year, disallowing deductions of $12,000 claimed by the Appellant as business expenses. The Appellant filed a Notice of Objection that was received by the Minister on May 12, 2016. Among other things, the Appellant sought to increase his claimed business expenses from $12,000 that was originally claimed to $20,156. After due consideration the Minister confirmed the reassessment and so notified Mr. Larkin by Notice of Confirmation dated October 5, 2018. Mr. Larkin now challenges the Minister’s decision to disallow theses business expenses. Hence the appeal to this Court.
+[3] Mr. Larkin is 76 years old and resides in Arnprior Ontario. He has worked in the resource extraction industry just about all of his life. He was the only witness who testified at this hearing. I found him to be a credible witness. He was an educated, articulate, intelligent and honest witness.
+[4] Mr. Larkin is a geologist by education, training and profession. He is a professional geologist and member of the APEGA. He obtained a B.Sc. degree in geology from the University of Ottawa and he followed this up with an MBA from the Schulich School of Business at York University in the late ‘70s. He has spent his working life as a prospector, entrepreneur and inventor. He described his life experiences and it is evident that he has had a very interesting life with many and varied experiences.
+[5] He testified that during his 2011 taxation year and for some time before and after 2011, he worked on a variety of entrepreneurial projects. It is his evidence that these activities were of a business nature in pursuit of profit.
+[6] Exhibit A-1 sets out bare-bones descriptions of his projects.
+Graphite/Expanded Graphene/Graphene
+[7] Graphene is derived from graphite and according to Mr. Larkin, it has great potential and unlimited technological applications. Exhibit A-1 claims that the new technology will dramatically change the world. In 2010, Mr. Larkin visited old graphite sites in order to acquire graphite resources (mineral claims). However, his first choice was no longer available due to development in the area. The mineral rights of his second choice were staked out three weeks before he visited them. He has identified another very good graphite resource, which he is keeping secret, and he is seeking funds to acquire the land. He says that he has acquired technology from a retired scientist that will lower costs, increase quality and be better for the environment in the production of expanded graphite. In 2011, he and his brother-in-law built a prototype which he hopes will lead to a graphene production process. He expects his graphite project to be successful and to yield significant income. He is currently discussing an arrangement with a Canadian University that is working in this technological area.
+Oil Sands
+[8] During 2011, he continued to seek financing for a new oil sands discovery. Although exploration remained to be done, it was estimated that the minimum recoverable bitumen was 66 billion barrels. He tried to obtain financing from Chinese interests and he also explored opportunities with Valero Energy Corporation (“Valero”), a Texas refining company that he thought would be a good fit for this project as a co-venture. Exhibit A-3 is a preliminary letter of proposal to Valero outlining the anticipated yield from the oil-sands, the terms of the co-venture and a time-frame for the development of the project to the production stage. This proposal letter invites further negotiations.
+Ore Processing
+[9] Mr. Larkin is continuing to develop a new technique to liberate ore from mineral deposits obtained from his nickel property.
+Down Hole Water Separation
+[10] Mr. Larkin states that he has acquired patent rights and other assets relating to methods and apparatus for hydrocarbon production and water disposal. These include reports and knowledge relating to the technology, any art involved, and other intellectual property associated with the technology that are held by the original patent owner and others. During his travels across Canada, including in 2011, he visited and examined oil wells that are “watering out” to determine if they might be appropriate for the application of the technology. Opportunities exist to make deals only in Saskatchewan and Manitoba where farmers and individuals own wells. Big companies located in Alberta will only consider the sale of oil wells by the hundreds and this is neither feasible nor affordable for him.
+Kerogen Mining Property
+[11] In 2011, Mr. Larkin explored and made efforts to obtain the rights to a property known as the Albert Mines in New Brunswick. Kerogen is an oil precursor and falls under the Petroleum Act. Thus, the property rights were opened up for bids. There were three bidders; his was a bid of $3,000,000 for developmental work and he had a commitment for this level of investment. Unfortunately, his bid was not the winning one and he lost by only $50,000. The proposed developmental work included new technology from Germany for the processing of kerogen into high value oil.
+Nickel Claims
+[12] In 2011, Mr. Larkin had discussions with Synotech, China’s main mineral company, looking to arrive at a deal.
+[13] All of the ventures testified to by Mr. Larkin are high risk and high speculation – such is the nature of his chosen activities.
+Issue
+[14] The issues in this case can be simply stated:
+a. Was the Appellant engaged in a business during the 2011 taxation year?
+b. If yes, can the Appellant legitimately claim the $20,156 of expenses incurred during that year?
+Position of the Parties
+[15] Mr. Larkin takes the position that the expenses claimed were legitimate business expenses related to his business activities as a geologist, prospector and inventor during the 2011 taxation year. They were incurred for the purpose of gaining or producing income from these business activities. They were not related to personal or living expenses. The Appellant therefore urges this Court to allow the appeal and refer the matter back to the Minister for reassessment on the basis that the expenses claimed were valid business expenses.
+[16] The Respondent takes the position that the Appellant’s activities were not carried out with a sufficient enough degree of commerciality to constitute a source of business income within the meaning of subsection 9(2) of the Act. Consequently, the claimed expenditures were not tax deductible expenses since the Appellant was not carrying on a business. Alternatively, if the Appellant’s activities constituted a business, the expenses claimed were not made or incurred for the purpose of gaining or producing income. They were personal or living expenses and thus not tax deductible. In addition, the claimed expenses were not reasonable in all the circumstances. The Respondent therefore urges this Court to dismiss the appeal.
+Analysis
+Overarching Principles
+[17] Section 3 of the Act divides a taxpayer’s income into various sources: office, employment, business and property.
+[18] A taxpayer who seeks to deduct an expense from business income must first establish that he/she has a source of income from a business.
+[19] Subsection 248(1) of the Act gives a very broad definition of “business”. A “business” includes “a profession, trade, manufacture or undertaking of any kind” and generally includes “an adventure or concern in the nature of trade.”
+[20] The calculation of income or loss from a business is outlined in the provisions of section 9 of the Act which provide:
+9(1) Income – Subject to this Part, a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that business or property for the year.
+(2) Loss – Subject to section 31, a taxpayer’s loss for a taxation year from a business or property is the amount of the taxpayer’s loss, if any, for the taxation year from that source of income computed by applying the provisions of this Act respecting computation of income from that source with such modifications as the circumstances require.
+[21] Under section 9 of the Act, a taxpayer can deduct expenses that are incurred to earn that profit, subject to limitations set out in the Act. Section 18 of the Act sets out general limitations on deductions. Paragraph 18(1)(a) provides that an expense is deductible only to the extent that it was incurred by the taxpayer for the purpose of gaining or producing income from the business. Paragraph 18(1)(h) disallows the deduction from business income of expenses that are for personal purposes or for living expenses. The provisions of these two paragraphs are as follows:
+18(1) General limitations – In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) general limitation – an outlay, loss or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+(b) …
+…
+(h) personal and living expenses – personal or living expenses of the taxpayer, other than travel expenses incurred by the taxpayer while away from home in the course of carrying on the taxpayer’s business;
+[22] Section 248 of the Act defines “personal or living expenses” as follows:
+248.(1) In this Act
+…
+“personal or living expenses” includes
+(a) the expenses of properties maintained by any person for the use or benefit of the taxpayer or any person connected with the taxpayer by blood relationship, marriage or common-law partnership or adoption, and not maintained in connection with a business carried on for profit or with a reasonable expectation of profit,
+[23] In addition, under section 67 of the Act, a taxpayer may not deduct an “unreasonable”expense, even if the expense is otherwise deductible under the Act. Section 67 of the Act provides:
+67. In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+Was the Appellant operating a business?
+[24] In Stewart v. Canada, [2002] 2 S.C.R. 645, the Supreme Court of Canada adopted a “pursuit of profit” test in preference to the “reasonable expectation of property” test to distinguish between commercial and personal activities. The Court set out a two-stage test for identifying the source of income:
+a. Is the activity undertaken in pursuit of profit, or is it a personal endeavour?
+b. If it is not a personal endeavour, is the source of the income a business or property?
+[25] The first stage of the test assesses the general question of whether or not a source of income exists. Its purpose is simply to distinguish between commercial and personal activities. The second stage categorizes the source as either business or property. Where the nature of a taxpayer’s activities contains elements that suggest that the activities could be considered a hobby or other personal pursuit, the venture will be considered a source of business income for the purposes of the Act if it is undertaken in a sufficiently commercial manner (Stewart, paragraph 52).
+[26] Where the nature of an activity is clearly commercial, there is no need to analyze the taxpayer’s business decisions. Such endeavours necessarily involve the pursuit of profit and as such, a source of income by definition exists. There is no need to take the inquiry any further (Stewart, paragraph 53).
+[27] The Court went on to note at paragraph 54 in Stewart:
+… in order for an activity to be classified commercial in nature, the taxpayer must have the subjective intention to profit, in addition, … this determination should be made by looking at a variety of objective factors … This requires the taxpayer to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour.
+[Emphasis added.]
+[28] The “reasonable expectation of profit”, which was the test prior to Stewart, is one possible indicia of commerciality which are to be considered if there is some personal or hobby element to the activity in question. Although the reasonable expectation of profit is a factor to be considered, it is not the only factor nor is it determinative of the issue. The overall assessment to be made is whether or not the taxpayer is carrying on the activity in a commercial manner.
+[29] In Stewart at paragraph 55, the Court went on to adopt the objective standards of businesslike behaviour listed by Dickson J. in Moldowan v. Minister of National Revenue, [1978] 1 S.C.R. 480 (S.C.C.), at page 486 to determine the subjective intention to generate a profit. These are:
+1) The profit and loss experience in past years;
+2) The taxpayer’s training;
+3) The taxpayer’s intended course of action; and,
+4) The capability of the venture to show a profit.
+These factors are not intended to be exhaustive and the factors will differ with the nature and extent of the undertaking. The Court in Stewart at paragraph 55 cautions that it is not for this Court to evaluate the taxpayer’s business acumen or to second-guess the business decisions of the taxpayer.
+[30] In paragraph 56 of Stewart the Court observed that the activity which the taxpayer claims constitutes a source of income must be distinguished from particular deductions that the taxpayer associates with that source. An attempt to deduct what is essentially a personal expense does not influence the characterization of the source to which that deduction relates; it only affects the deductibility of that particular expense.
+[31] The Court summarized in paragraphs 60 and 61 of Stewart:
+[60] In summary, the issue of whether or not a taxpayer has a source of income is to be determined by looking at the commerciality of the activity in question. Where the activity contains no personal element and is clearly commercial, no further inquiry is necessary. Where the activity could be classified as a personal pursuit, then it must be determined whether or not the activity is being carried on in a sufficiently commercial manner to constitute a source of income …
+[61] As stated above, whether or not a taxpayer has a source of income from a particular activity is determined by considering whether the taxpayer intends to carry on the activity for profit, and whether there is evidence to support that intention. As well, where an activity is clearly commercial and lacks any personal element, there is no need to search further. Such activities are sources of income.
+[32] In answering the question “does the taxpayer intend to carry on an activity for profit and is there evidence to support that intention?” the taxpayer needs to establish that his predominant intention was to make a profit from the activity and carry out the activity in accordance with businesslike behaviour.
+[33] The Respondent argues that Mr. Larkin was not carrying on any business activities. He did not produce any business plan. He did not produce any trip itineraries relating to specific dates or projects. He did not indicate the identity of persons visited or contacted. He did not produce any diaries of business meetings, no follow-up correspondence, no budget projections and no travel logs. Mr. Larkin did not produce any marketing materials or any research materials regarding any of his ventures. In addition, he did not earn any business revenue during the 2011 taxation year.
+[34] Although it is true that Mr. Larkin earned no business income during the 2011 taxation year, he argues that any profits to be realized in his activities may be years in the making. Indeed, it is not uncommon for high risk and speculative ventures such as prospecting, mining, resource extraction and indeed many other entrepreneurial activities, not to show any profit for many years. The risk is such that no profits at all may be generated. On the other hand, an enterprising individual might strike it rich and earn considerable income. My colleague, Justice Hogan of this Court, commented on the speculative nature of such activities as well as the difficulty in securing profits from such activities in the matter of Michaud v. the Queen, 2014 TCC 83, at paragraph 14:
+Prospecting is a first step that precedes investment in the commencement of mining operations. Ore must by found in sufficient quantities before capital will be committed to mine development and to production. More often than not, prospecting activities are not successful. A great deal of time may pass between the prospecting, mine development and actual production stages.
+The same can be said of many ventures.
+[35] In Newell v. the Queen, 2010 TCC 196, Justice Margeson found that although the taxpayer did not earn income in the years under review, this was not conclusive of the issue (paragraph 143). Stewart confirms this proposition, namely, that the non-existence of income is not determinative of whether a taxpayer’s activities constitute a source of income.
+[36] Mr. Larkin has had success in the past and he has made significant amounts of money and has paid much in the way of income taxes on earnings from his past ventures. He is continuing to pursue similar opportunities in hopes of repeating his success. His previous profit and loss experience in his ventures militate in favour of a finding that he was conducting business.
+[37] There is no question of Mr. Larkin’s qualifications to pursue commercial activities in the resource industry given that he obtained a BSc degree in geology and he has been working in the resource industry for most of his professional life. He has, as well, knowledge of business practices given that he has obtained an MBA degree. He has committed a considerable amount of time and resources pursuing opportunities in this economic sector and he will likely continue to do so. His training and experience militate in favour of a finding that he was conducting business.
+[38] Mr. Larkin’s intended course of action, or his business plan, is not complex. His past activities involved mostly networking and seeking out opportunities. He attended meetings, attended conferences and conventions and he otherwise networked and created contacts. His activities involved monetizing resource assets. He was and is always on the look-out for claims and opportunities. It would appear that Mr. Larkin’s activities were in research and preparation and not technically in resource extraction from the claims that he was looking into. His activities are directed at bringing together investors with resource assets to be exploited over time and he would then share in the profits. Some of his projects show the promise of future rewards but all of the pieces for success have not yet fallen into place. This is the case with the graphene project where he has the technology and know-how, but does not yet have a source of graphite nor the funding to develop the project. His business plan is focused on finding and exploiting opportunities. His activities represent sustained efforts by him to secure avenues of profit. His intended course of activities militate in favour of a finding that he was conducting business.
+[39] There can be no doubt that Mr. Larkin’s activities have the capability to show profits and the proof of that is that he has in fact shown profits in the past. Consequently, Mr. Larkin has demonstrated a reasonable expectation of profit.
+[40] In conclusion, I hold that Mr. Larkin has demonstrated an intention to carry on his activities for the purpose of earning a profit and has conducted these activities with a level of commerciality sufficient to constitute a business. He certainly could demonstrate better business practices and I note that his record keeping leaves much to be desired but I still conclude that he conducted his activities with a level of commerciality sufficient to constitute a business. His activities represented sustained efforts on his behalf to secure avenues of profit. His ventures have seen prior successes and he has earned profits in the past. He is continuing to pursue similar opportunities in hopes of repeating his prior success.
+Are the claimed expenditures deductible as business expenses?
+[41] The Appellant produced Exhibit A-2 in support of his claimed expenses for the 2011 taxation year. This Exhibit consists of 13 pages of spreadsheets setting out approximately 390 separate expense items, listed in chronological order providing details of the amount paid, item paid for, location, percentage claimed as business expense, and a file reference number. This Exhibit gives a grand total of $20,155.96, the amount here under dispute. The expenses were not organized into categories nor was the Court provided any expense category subtotals.
+[42] Mr. Larkin did not produce any source documents relating to the claimed expenses; he only produced his spreadsheets. However, counsel for the Respondent concedes that the subject expenses were in fact incurred by the Appellant but they are simply not deductible as business expenses. Therefore, in view of the fact that the expenses were in fact incurred, it is not necessary to produce original source documents.
+[43] Mr. Larkin’s claimed business expenses are only legitimate if it can be shown that the claimed expense was incurred for the purpose of gaining or producing income from the business (paragraph 18(1)(a) of the Act), was not incurred for personal or living expenses of the taxpayer (paragraph 18(1)(h) of the Act) and were reasonable in the circumstances (section 67 of the Act).
+[44] It is the Respondent’s position that these expenses were not incurred to earn business income, were personal in nature, were for living expenses or were unreasonable.
+[45] Mr. Larkin concedes that some of the listed expenses have a personal use component. He has provided an estimated percentage apportionment between business use and personal use. These apportionments are as follows:
+Item
+Business Use %
+Clothing
+10%
+House
+15%
+Personal line of credit
+10%
+Primus internet and long distance
+60%
+Hydro
+15%
+Bell Telephone line 9781
+80%
+Bell Telephone line 7562
+30%
+Bell Mobility
+95%
+Auto
+30%
+Entertainment
+50%
+[46] Other expenses indicated on this spreadsheet are indicated at 100%. These include travel and hotel expenses, conference or educational programme attendance fees, food, Virgin Mobile, Canada Post, etc. I have reviewed all of the items in Exhibit A-2 and I am prepared to allow all of the listed expenditures as business expenses except for the following:
+a. Food – The Appellant originally claimed 100% of all food expenses as a deduction. He now concedes that he can only claim 50% of these expenses as a deduction pursuant to subsection 67.1(1) of the Act.
+b. Auto Expenses – The Appellant claims that 30% of the use of his personally owned automobile is in relation to business activity. However, it is to be noted that almost all of the business related travels are out of province which would require transportation by airplane. In addition, the Appellant has not maintained any kind of log-book to establish what proportion of the distance driven in his personal motor vehicle were for personal use and what was for business use. He did not keep a record of the distance he travelled for business, the places visited, the purpose of visit, etc. In the absence of such a log or other proof showing the proportion of these expenses attributable to business activities, these expenses ought not be allowed.
+c. Personal Line of Credit- The Appellant claims 10% of all interest paid on his personal line of credit as a business expense. No bank statements were filed showing the amounts borrowed nor the amounts paid back on the line of credit nor the rate of interest that was charged. I have no idea at all how much of what he borrowed was dedicated to his business ventures. He does not describe how he arrived at 10% of interest payment being attributable to business purposes.
+d. Clothing – The Appellant claims 10% of everything he spent on clothing as attributable to business purposes. I have no idea what clothing we are talking about. If there is any clothing that is necessary for this kind of work, then that specific item of clothing or equipment should be claimed as a business expense rather than arbitrarily claiming a percentage of the total spent on clothing. The claimed expenditure for clothing (if indeed there was any since I did not see any clothing items in Exhibit A-2) is disallowed.
+e. Telephone Services – It would appear that the Appellant used as many as three different telephones for both personal use and business use:
+i. Bell Telephone land line 9781 of which he claims 80% was for business use,
+ii. Bell Telephone land line 7562 of which he claims 30% was for business use,
+iii. Virgin Mobile cell phone of which he claimed 100% was for business use.
+[47] It is not reasonable to have three different telephones that are used for both personal and business use. If one is going to have more than one telephone, then it is more reasonable to dedicate one telephone for personal use and the other for business use. That makes it easier for record keeping purposes. Mr. Larkin’s business activities were in large part conducted away from home throughout Canada. Therefore, it is reasonable that he would use his cell phone for business to the exclusion of the other telephones which can be dedicated to personal use. I am not satisfied that it was reasonable nor necessary for Mr. Larkin to make use of three telephones for business purposes. If he has three phones he can choose one to be dedicated to his business ventures. The expenditures for the two Bell telephone lines are disallowed.
+Conclusion
+[48] In conclusion, the appeal from the reassessment made under the Income Tax Act for the 2011 taxation year is allowed, in part, and the matter is referred back to the Minister for reconsideration and reassessment on the basis that:
+a. The Appellant is allowed as a business expense only 50% of the amount expended throughout the 2011 taxation year for food;
+b. All expenditures claimed on account of automobile expenses throughout 2011 taxation year are disallowed;
+c. All expenditures claimed on account of interest paid on moneys borrowed on the Appellant’s line of credit are disallowed;
+d. All expenditures claimed on account of clothing are disallowed; and
+e. All expenditures claimed for Bell telephone lines 9781 and 7562 are disallowed.
+[49] All other claimed expenditures are allowed.
+Signed at Kingston, Ontario, this 1st day of September 2020.
+“Rommel G. Masse”
+Masse D.J
+CITATION:
+2020 TCC 98
+COURT FILE NO.:
+2019-328(IT)I
+STYLE OF CAUSE:
+DANIEL B. LARKIN V. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario.
+DATE OF HEARING:
+March 9, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Rommel G. Masse, Deputy Judge
+DATE OF JUDGMENT:
+September 1, 2020
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent
+Ahmed Ali
+Christopher Kitchen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

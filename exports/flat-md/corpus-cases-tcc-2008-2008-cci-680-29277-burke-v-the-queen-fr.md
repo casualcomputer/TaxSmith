@@ -1,0 +1,233 @@
+---
+title: "Burke v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29277/index.do"
+last_modified: "2008-12-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 680"
+citation2: ""
+neutral_citation: "2008 CCI 680"
+decision_date: "2008-12-21"
+language: "fr"
+item_id: "29277"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7078
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:04:58.104000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "67942c60b0a08b9ae188186b6ecae9067d2e44e01656f1cdf1ebcc91d5a34886"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Burke v. The Queen
+
+- Citation: 2008 CCI 680
+- Decision date: 2008-12-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7078, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burke v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-12-21
+Référence neutre
+2008 CCI 680
+Numéro de dossier
+2004-4073(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004‑4073(IT)G
+ENTRE :
+PATRICK JOSEPH EMILE BURKE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue par conférence téléphonique le 28 novembre 2008.
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimé :
+Me Kathleen Lyons
+____________________________________________________________________
+ORDONNANCE
+La demande de l’appelant en vue de faire annuler le jugement daté du 15 août 2008 par lequel la présente Cour a rejeté son appel est accueillie, et le jugement en question est annulé. Les dépens de la présente requête suivront l’issue de la cause.
+Signé à Halifax (Nouvelle‑Écosse), ce 21e jour de décembre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 28e jour de mai 2009.
+David Aubry, LL.B.
+Réviseur
+Référence : 2008CCI680
+Date : 20081221
+Dossier : 2004‑4073(IT)G
+ENTRE :
+PATRICK JOSEPH EMILE BURKE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Webb
+[1] Il s’agit d’une demande de l’appelant visant à faire annuler l’ordonnance datée du 15 août 2008 par laquelle la présente Cour a rejeté son appel. Cette ordonnance a été rendue à la suite du défaut de l’appelant de comparaître à l’audition de son appel qui avait été fixée au 5 août 2008.
+[2] Les Règles de la Cour canadienne de l’impôt (procédure générale) s’appliquent en l’espèce, et le paragraphe 140 de ces dernières est libellé en ces termes :
+140. (1) Si à l'audience, une partie omet de comparaître, la Cour peut accueillir l'appel, rejeter l'appel ou donner une directive appropriée.
+(2) Pourvu que la demande soit faite dans les trente jours qui suivent le prononcé du jugement ou de l'ordonnance, la Cour peut infirmer ou modifier, aux conditions qui sont appropriées, un jugement ou une ordonnance obtenu contre une partie qui n'a pas comparu à l'audience, à l'audience sur l'état de l'instance ou à la conférence préparatoire à l'audience.
+[3] Le 8 septembre 2008, l’appelant a écrit à la Cour pour demander la remise en état de son appel. Cependant, sa lettre n’était accompagnée d’aucun affidavit.
+[4] Dans la décision Farrow c. La Reine, [2003] A.C.I. no 713, [2004] 2 C.T.C. 2223, 2004 DTC 2055, le juge en chef adjoint Bowman a décrit les principes qu’il convient d’appliquer pour infirmer un jugement par défaut :
+[17] Les principes sur lesquels la présente Cour s'appuiera pour infirmer un jugement par défaut sont analysés plus à fond dans l'affaire Hamel, précitée. Aux pages 117 et 118, le juge en chef Culliton (Saskatchewan) déclare ceci :
+[traduction]
+Le juge d'appel Lamont, dans l'affaire Klein v. Schile [1921] 2 WWR 78, 14 Sask LR 220, énonce les principes sur lesquels une cour, à sa discrétion, s'appuiera pour infirmer un jugement légalement enregistré. Ainsi, à la page 79, il affirme ce qui suit :
+Les circonstances dans lesquelles une cour exercera son pouvoir discrétionnaire en vue d'infirmer un jugement consigné en toute régularité sont assez bien établies. La demande devrait être déposée dès que possible, après que le défendeur aura pris connaissance du jugement. Toutefois, un simple délai ne fera pas obstacle à la demande, sauf si un dommage irréparable est causé au demandeur ou si le délai est délibéré (Tomlinson v. Kiddo (1914), 7 WWR 93, 29 WLR 325, 7 Sask LR 132; Mills v. Harris & Craske (1915), 8 WWR 428, 8 Sask LR 114). Par ailleurs, la demande devrait être appuyée par un affidavit qui doit énoncer les circonstances dans lesquelles le jugement par défaut a été prononcé et présenter une défense valable (Chitty's Forms, 13e éd., p. 83).
+Il ne suffit pas de déclarer simplement que le défendeur dispose d'une défense valable. Les affidavits doivent révéler la nature de la défense et exposer les faits qui permettront à la Cour ou au juge de déterminer s'il y a lieu de présenter une défense à l'égard de l'action en justice intentée (Stewart v. McMahon (1908), 7 WLR 643, 1 Sask LR 209).
+Si la demande n'est pas déposée immédiatement après que le défendeur a pris connaissance du jugement qui a été consigné contre lui, les affidavits devraient aussi expliquer la raison du délai qui s'est écoulé avant de déposer la demande; de même, si le délai est de trop longue durée, la défense sur le fond doit être clairement établie (Sandhoff v. Metzer (1906), 4 WLR 18 (N.W.T.).
+[Non souligné dans l’original.]
+[5] Le juge en chef adjoint Bowman a fait aussi les commentaires suivants :
+[15] […] Je reconnais que la Cour doit être convaincue que la partie en litige qui tente d'obtenir l'annulation d'un jugement par défaut a une cause défendable, mais le seuil est relativement peu élevé. Je ne crois pas qu'il soit nécessaire qu'une partie en litige témoigne ou qu'elle appelle à témoigner pour démontrer qu'il existe une preuve prima facie. De plus, le fait pour l'appelant ou pour son avocat de faire une déclaration intéressée telle que « je suis convaincu que mes motifs sont valables » n'ajoute pas grand poids à l'affaire du requérant.
+[6] Dans la décision Amethyst Greenhouses Ltd. c. La Reine, 2006 CCI 575, 2006 DTC 13 (ang.), [2007] 1 C.T.C. 2323, le juge Sheridan a résumé la situation comme suit :
+[6] L’obstacle auquel doit faire face l’appelante dans le cadre de la présente requête est de démontrer que, dans ses appels, elle avait une cause défendable sur le fond et que les circonstances pour lesquelles elle n’a pas comparu justifient l’infirmation du jugement par défaut.
+[7] L’appelant, dans son affidavit, avait à traiter des deux questions suivantes :
+a) les motifs pour lesquels il ne s’est pas présenté à son audience;
+b) le caractère défendable de sa cause.
+[8] Dans son affidavit, l’appelant a indiqué qu’il souffre depuis de nombreuses années de plusieurs problèmes de santé et que, deux mois environ avant la date de l’audience, s’est ajoutée à ces problèmes la découverte d’une masse de tissus mous de 18 cm dans la poitrine. Le stress causé par le fait de ne pas savoir si cette masse était maligne ou bénigne a amené l’appelant à perdre de vue ses questions personnelles, y compris la date de son audience. J’accepte que son affidavit traite de manière satisfaisante de la première question susmentionnée, soit les motifs de son défaut de comparution.
+[9] La question suivante consiste à savoir si l’appelant a une cause défendable. Les faits présumés par l’intimé dans la réponse modifiée sont les suivants :
+[traduction]
+a) l’appelant détenait un REER immobilisé qu’il ne pouvait pas encaisser avant d’avoir atteint l’âge de 65 ans;
+b) l’appelant a ouvert un compte de REER autogéré, soit le régime 22110723‑15, et « Investor Line » était le fiduciaire désigné;
+c) l’appelant a transféré son REER immobilisé au compte d’Investor Line (la« fiducie »);
+d) le 27 janvier 1999, l’appelant a signé une instruction destinée à Investor Line en vue de l’achat de 80 000 actions de catégorie A de First‑One Investments Corp. (« First One »);
+e) [supprimé];
+f) la seule activité de First One consiste à recevoir des fonds en vue d’acheter des actions de Total Success Systems (« TSS ») ou de prêter de l’argent aux détenteurs de REER qui font un placement dans First One;
+g) le 25 février 1999, l’appelant a reçu un prêt de 56 000 $ de Total Success Systems (« TSS »);
+h) le 4 mars 1999, First One a établi un chèque d’un montant de 45 280 $ à l’ordre de l’appelant;
+i) la juste valeur marchande des 80 000 actions de catégorie A, en date du 29 janvier 1999, soit la date de leur achat, était de 80 000 $.
+[10] La question en litige que l’appelant a énoncée dans son avis d’appel est la suivante :
+[traduction]
+c) l’impôt était basé sur un prêt que l’intimé (sic) a reçu de First‑One Investments et il fonde l’appel sur le fait qu’il s’agissait d’un prêt. En outre, le montant des fonds que l’intimé (sic) a reçu était inférieur à 20 000 $;
+d) la question en litige consiste à savoir s’il s’agit d’un placement admissible ou si un prêt doit être imposable.
+[11] La question en litige formulée dans la réponse modifiée est la suivante :
+[traduction]
+14 […] si le placement fait par Investor Line, pour le compte du REER de l’appelant, dans First One est un placement non admissible, au titre de l’alinéa 146(10)a) de la Loi.
+[12] Le paragraphe 15 de la réponse modifiée comporte une question subsidiaire :
+[traduction]
+Subsidiairement, la question consiste à savoir si la fiducie a utilisé ou a eu la permission d’utiliser le bien de la fiducie à titre de garantie d’un prêt, au titre de l’alinéa 146(10)b) de la Loi.
+[13] Le texte du paragraphe 146(10) de la Loi de l’impôt sur le revenu est le suivant :
+Acquisition d’un placement non admissible par une fiducie
+(10) Lorsque, à un moment donné d’une année d’imposition, une fiducie régie par un régime enregistré d’épargne‑retraite :
+a) acquiert un placement non admissible;
+b) utilise à titre de garantie d’un prêt un bien quelconque de la fiducie ou en permet l’utilisation,
+la juste valeur marchande :
+c) du placement non admissible au moment de son acquisition par la fiducie;
+d) du bien utilisé à titre de garantie, au moment où il a commencé à être ainsi utilisé,
+selon le cas, doit être incluse dans le calcul du revenu, pour l’année, du contribuable qui est le rentier en vertu du régime à ce moment.
+[14] Un placement non admissible s’entend d’un placement qui n’est pas un placement admissible, ainsi qu’il est défini au paragraphe 146(1) de la Loi de l’impôt sur le revenu. L’article 4900 du Règlement de l’impôt sur le revenu (le « Règlement ») comporte une liste détaillée de placements qui seraient considérés comme admissibles.
+[15] L’appelant devait montrer qu’il avait une cause défendable relativement à la question de savoir si les actions de catégorie A de First One Investments Corp. (« First One ») constituaient un placement admissible pour un REER. La question de savoir si l’appelant a une cause défendable dépendra, en l’espèce, du fait de savoir si c’est l’appelant ou l’intimé qui supporterait le fardeau de la preuve.
+[16] Les deux premiers paragraphes de l’affidavit de l’appelant, sous la rubrique [traduction] « Justification de l’instruction », sont les suivants :
+[traduction]
+12. Je souhaite exposer ma cause devant la présente Cour parce qu’il y a des faits pertinents qui doivent être présentés.
+13. Les faits qui se rapportent à ma situation sont analogues à ceux dont il est question dans des décisions que la Cour a déjà rendues. Ma position est ‑ et sera ‑ que les fonds qui m’ont été avancés dans le cadre de l’entente initiale étaient un prêt, et qu’ils ne sont donc pas imposables.
+[17] Toutefois, la question n’est pas de savoir si l’appelant a reçu un prêt, mais si les actions de catégorie A de First One constituaient un placement admissible. Dans les paragraphes suivants de son affidavit, l’appelant traite du remboursement du prêt qu’il a reçu, de ses rapports avec l’Agence du revenu du Canada (« ARC »), ainsi que d’autres points qui sont sans rapport avec la question de savoir si les actions de First One étaient un placement admissible. L’appelant ne parle pas de cette question dans son affidavit.
+[18] À la conclusion de la conférence téléphonique concernant la requête de l’appelant, j’ai accordé à ce dernier un délai additionnel de deux semaines pour produire un affidavit supplémentaire sur la question. L’appelant n’a pas produit cet affidavit, mais une lettre. Sans s’en rendre compte, l’appelant a soulevé un point intéressant. Celui‑ci consiste à savoir si c’est l’appelant ou l’intimé qui aurait eu le fardeau de prouver que les actions de First One étaient un placement admissible (ou, au contraire, ne l’étaient pas).
+[19] L’avocate de l’intimé a présumé que c’est l’appelant qui aurait le fardeau de prouver que les actions constituaient un placement admissible. Dans une décision récente de la Cour d’appel fédérale, Anchor Pointe Energy Ltd., 2007 CAF 188, le juge Létourneau écrit ceci :
+[35] Il est bien établi en droit que, sauf exception, le fardeau de preuve initial à l’égard des hypothèses de fait retenues par le ministre lorsqu’il a établi l’obligation fiscale du contribuable et le montant à payer incombe au contribuable […]
+[36] Je conviens avec le juge Bowman, alors juge en chef adjoint de la Cour de l’impôt, qu’il peut y avoir des cas où les hypothèses de fait invoquées relèvent de la connaissance exclusive ou particulière du ministre et que la règle concernant le fardeau de la preuve peut avoir des conséquences inéquitables au point de justifier une mesure corrective : voir la décision Holm et al. c. La Reine, précitée, paragraphe 20.
+[20] En l’espèce, nul ne laisse entendre que l’appelant a eu des rapports avec First One autrement qu’à titre d’investisseur par l’intermédiaire de son REER. A‑t‑on affaire ici à une situation dans laquelle « la règle concernant le fardeau de la preuve peut avoir des conséquences inéquitables au point de justifier une mesure corrective »? Comment peut‑on s’attendre à ce que l’appelant produise les éléments de preuve qui seraient nécessaires pour établir que les actions de First One étaient un placement admissible pour un REER?
+[21] Rien n’indique que First One est une société ouverte. C’est donc dire que, pour qu’elles soient considérées comme un placement admissible, il faudrait vraisemblablement que les actions satisfassent aux dispositions du paragraphe 4900(6) ou du paragraphe 4900(12) du Règlement de l’impôt sur le revenu. Il suffit que le placement remplisse les exigences de l’une ou l’autre de ces deux dispositions, et non des deux. Étant donné que, pour l’application du paragraphe 4900(6) du Règlement de l’impôt sur le revenu, une société admissible n’inclut pas « une société dont l’activité d’entreprise principale consiste à prêter de l’argent […] (paragraphe 5100(1) du Règlement de l’impôt sur le revenu), ce sont les dispositions du paragraphe 4900(12) du Règlement de l’impôt sur le revenu qui seront examinées. Ce paragraphe est libellé en ces termes :
+(12) Pour l’application de l’alinéa d) de la définition de « placement admissible » au paragraphe 146(1) de la Loi, de l’alinéa e) de la définition de « placement admissible » au paragraphe 146.1(1) de la Loi et de l’alinéa c) de la définition de « placement admissible » au paragraphe 146.3(1) de la Loi, un bien est un placement admissible pour une fiducie régie par un régime enregistré d’épargne‑retraite, un régime enregistré d’épargne‑études ou un fonds enregistré de revenu de retraite s’il constitue l’un des biens suivants au moment où la fiducie l’acquiert et si chaque personne qui est un rentier, un bénéficiaire ou un souscripteur en vertu du régime ou du fonds immédiatement après ce moment n’est pas alors un actionnaire rattaché de la société applicable visée aux alinéas a) à c) :
+a) une action du capital‑actions d’une société, sauf une société coopérative, qui, au moment où la fiducie l’acquiert ou à la fin de la dernière année d’imposition de la société terminée avant ce moment, serait une société exploitant une petite entreprise si le passage de la définition de « société » exploitant une petite entreprise » au paragraphe 248(1) de la Loi précédant l’alinéa a) était remplacé par le passage « S’entend à une date donnée, sous réserve du paragraphe 110.6(15), d’une société canadienne (sauf une société alors contrôlée, directement ou directement de quelque manière que ce soit par au moins une personne non‑résidente) dont la totalité, ou presque, de la juste valeur marchande des éléments d’actifs est alors attribuable à des éléments qui sont : »;
+b) une action du capital‑actions d’une société qui est visée à l’un des articles 6700, 6700.1 ou 6700.2;
+c) une part admissible quant à une coopérative déterminée et au fond ou régime.
+[22] Pour répondre aux conditions énoncées au paragraphe 4900(12) du Règlement de l’impôt sur le revenu, la société (First One) doit satisfaire à certains critères, et il en est de même de l’actionnaire (c’est‑à‑dire que l’appelant ne doit pas être un actionnaire rattaché). En particulier, il faudrait que First One soit une petite entreprise soit à l’époque où les actions ont été acquises, soit à la fin de la dernière année d’imposition de First One se terminant avant cette date. Le paragraphe 4900(12) du Règlement de l’impôt sur le revenu fait référence à une « société exploitant une petite entreprise » et non pas à une « société admissible ». La définition d’une « société exploitant une petite entreprise », telle que modifiée par le paragraphe 4900(12) du Règlement de l’impôt sur le revenu, est la suivante :
+« société exploitant une petite entreprise » Sous réserve du paragraphe 110.6(15), société privée [sous contrôle canadien (sauf une société alors contrôlée, directement ou directement de quelque manière que ce soit par au moins une personne non‑résidente) et dont la totalité, ou presque, de la juste valeur marchande des éléments d’actif est attribuable, à un moment donné, à des éléments qui sont :
+a) soit utilisés principalement dans une entreprise que la société ou une société qui lui est liée exploite activement principalement au Canada;
+b) soit constitués d’actions du capital‑actions ou de dettes d’une ou de plusieurs sociétés exploitant une petite entreprise rattachées à la société au moment donné, au sens du paragraphe 186(4) selon l’hypothèse que les sociétés exploitant une petite entreprise sont, à ce moment, des sociétés payantes au sens de ce paragraphe;
+c) soit visés aux alinéas a) et b).
+Pour l’application de l’alinéa 39(1)c), est une société exploitant une petite entreprise la société qui était une telle société à un moment de la période de douze mois précédant le moment donné; par ailleurs, pour l’application de la présente définition, la juste valeur marchande d’un compte de stabilisation du revenu net est réputée nulle.
+[23] Une entreprise exploitée activement est définie au paragraphe 248(1) de la Loi de l’impôt sur le revenu :
+« entreprise exploitée activement » Relativement à toute entreprise exploitée par un contribuable résidant au Canada, toute entreprise exploitée par le contribuable autre qu’une entreprise de placement déterminée ou une entreprise de prestation de services personnels.
+[24] Une entreprise de placement déterminée est définie au paragraphe 125(7) de la Loi de l’impôt sur le revenu :
+« entreprise de placement déterminée » Entreprise, sauf une entreprise exploitée par une caisse de crédit ou une entreprise de location de biens autres que des biens immeubles, dont le but principal est de tirer un revenu de biens, notamment des intérêts, des dividendes, des loyers et des redevances. Toutefois, sauf dans le cas où la société est une société à capital de risque de travailleurs visée par règlement au cours de l’année, l’entreprise exploitée par une société au cours d’une année d’imposition n’est pas une entreprise de placement déterminée si, selon le cas :
+a) la société emploie dans l’entreprise plus de cinq employés à plein temps tout au long de l’année;
+b) une autre société associée à la société lui fournit au cours de l’année, dans le cadre de l’exploitation active d’une entreprise, des services de gestion ou d’administration, des services financiers, des services d’entretien ou d’autres services semblables et il est raisonnable de considérer que la société aurait eu besoin de plus de cinq employés à plein temps si ces services ne lui avaient pas été fournis.
+[25] Il y a fort peu de faits sur First One qui sont révélés soit dans l’avis d’appel, soit dans la réponse modifiée. Le seul fait indiqué dans la réponse modifiée qui se rapporte à l’activité de First One est le suivant : [traduction] « la seule activité de First One consiste à recevoir des fonds en vue d’acheter des actions de Total Success Systems (« TSS ») ou de prêter de l’argent aux détenteurs de REER qui font un placement dans First One ». Rien n’indique non plus si cette activité ou l’activité de TSS était une entreprise ou si First One ou TSS avaient plus de cinq employés à plein temps. Rien n’indique également si TSS était liée ou rattachée à First One. Il convient de signaler que la définition d’une entreprise exploitée activement, au paragraphe 248(1) de la Loi de l’impôt sur le revenu, ne fait pas mention d’un projet comportant un risque ou d’une affaire de caractère commercial, ce qui doit être mis en contraste avec la définition d’une « entreprise exploitée activement » au paragraphe 125(7) de la Loi de l’impôt sur le revenu, qui n’inclut pas un projet comportant un risque ou une affaire de caractère commercial. C’est la définition d’une « entreprise exploitée activement » qui figure au paragraphe 248(1) de la Loi de l’impôt sur le revenu et non pas celle d’une « entreprise exploitée activement » qui figure au paragraphe 125(7) de la Loi de l’impôt sur le revenu qui s’appliquerait en l’espèce.
+[26] Les faits présumés par l’intimé dans la réponse modifiée ne sont pas suffisants pour que l’on puisse déterminer de quelque manière si les activités de First One étaient une entreprise ou si First One avait plus de cinq employés à plein temps. Lorsqu’une société emploie plus de cinq employés à plein temps dans le cadre d’une entreprise consistant à prêter de l’argent en vue de gagner un revenu d’intérêts, alors cette entreprise est une entreprise exploitée activement, pas une entreprise de placement déterminée. La question de savoir qui aurait le fardeau d’établir que First One exploitait une entreprise (ou non) et que, en supposant qu’elle en exploitait une, cette entreprise était exploitée activement (ou était une entreprise de placement déterminée) devrait être réglée dans le cadre d’une audience.
+[27] En outre, dans la réponse modifiée, aucun fait n’a été présumé en ce qui concerne la propriété des actions de First One, ou la question de savoir qui avait le contrôle de First One. La question de savoir qui aurait le fardeau de la preuve à l’égard des faits permettant de déterminer si First One était « contrôlée, directement ou indirectement de quelque manière que ce soit, par au moins une personne non‑résidente » est un point qui devrait être réglé dans le cadre d’une audience. La question de savoir s’il s’agit même d’un point en litige en l’espèce n’est pas claire, pas plus d’ailleurs que celle de savoir si le fait que l’appelant était un actionnaire rattaché de First One suscite un litige quelconque. Fort peu de faits sont présumés à l’égard de First One.
+[28] Dans l’arrêt Loewen, [2004] A.C.F. no 638, 2004 CAF 146, la juge Sharlow, s’exprimant au nom de la Cour d’appel fédérale, a fait les commentaires suivants :
+[11] Les contraintes imposées au ministre lorsqu'il invoque des hypothèses n'empêchent cependant pas Sa Majesté de soulever, ailleurs dans la réponse, des allégations de fait et des moyens de droit qui sont étrangers au fondement de la cotisation. Si Sa Majesté allègue un fait qui ne fait pas partie des faits présumés par le ministre, la charge de la preuve repose sur elle. Ce principe est bien expliqué dans la décision Schultz c. Canada, [1996] 1 C.F. 423, [1996] 2 C.T.C. 127, 95 D.T.C. 5657 (C.A.F.) (autorisation d'appel refusée [1996] A.C.S.C. no 4).
+[Non souligné dans l’original.]
+[29] L’autorisation d’interjeter appel de l’arrêt de la Cour d’appel fédérale dans Loewen devant la Cour suprême du Canada a été refusée (338 N.R. 195 (note)). Si « Sa Majesté » a la charge de prouver les faits soulevés « ailleurs dans la réponse », il lui incomberait dans ce cas de prouver les faits qui ne sont pas soulevés du tout dans la réponse.
+[30] Selon l’intimé, la cause de l’appelant est régie par l’arrêt que la Cour d’appel fédérale a rendu dans l’affaire Nunn c. La Reine, 2006 CAF 403, [2007] 2 C.T.C. 222, 2007 DTC 5111. Dans cette affaire, la Cour d’appel fédérale a fait remarquer qu’une fois que l’on fait acquisition dans un compte de REER d’actions qui ne constituent pas un placement admissible, les dispositions du paragraphe 146 (10) de la Loi de l’impôt sur le revenu s’appliquent. Les actions acquises dans l’affaire Nunn étaient des actions de Jovalguy Inc. Dans cette affaire, Jovalguy Inc. avait acquis par la suite des actions de La Financière Inc. Il ne s’agit pas des mêmes entreprises qui sont en cause en l’espèce. Une conclusion selon laquelle les actions de Jovalguy Inc. ne sont pas un placement admissible pour un REER ne veut pas forcément dire que c’est également le cas pour les actions de First One (une société différente).
+[31] Dans l’arrêt Nunn, la Cour d’appel fédérale a soulevé la question de la juste valeur marchande des actions. En l’espèce, dans son avis d’appel, l’appelant indique ce qui suit :
+[traduction]
+e) […] et la valeur marchande de mon placement de 80 000 $ a été incluse dans mon revenu, conformément au paragraphe 146(10).
+[32] L’appelant semble admettre que la juste valeur marchande de son placement était de 80 000 $ et il n’a pas fait état de l’évaluation du placement à titre de question en litige dans son avis d’appel.
+[33] Cependant, il est important de se souvenir que, dans la présente requête, le point en litige consiste simplement à savoir si l’appelant devrait avoir droit à une audience. Il n’est pas question de décider si l’appelant aura gain de cause, mais uniquement s’il a une cause défendable et s’il est dans l’intérêt de la justice qu’on autorise l’instruction de son appel. À mon avis, il est dans l’intérêt de la justice qu’on autorise l’appelant à faire entendre son appel concernant la question de savoir si les actions de First One constituaient un placement admissible pour un REER. Dans une audience, il est possible de déterminer qui a le fardeau de la preuve, et les éléments de preuve présentés peuvent être examinés afin de déterminer si la cotisation fondée sur l’alinéa 146(10)a) de la Loi de l’impôt sur le revenu est exacte. Les faits présumés qui sont énoncés dans la réponse modifiée sont insuffisants pour déterminer de quelque façon que ce soit si First One est une société exploitant une petite entreprise, qui exerce un contrôle sur First One ou si l’appelant était un actionnaire rattaché. La question de savoir si c’est l’appelant ou l’intimé qui devrait supporter le fardeau de la preuve en l’espèce est une question qu’il serait préférable de régler dans le cadre d’une audience.
+[34] La question subsidiaire qui est soulevée dans la réponse modifiée consiste à savoir si [traduction] « la fiducie […] a utilisé ou a eu la permission d’utiliser le bien de la fiducie à titre de garantie d’un prêt, au titre de l’alinéa 146(10)b) de la Loi ». Cet alinéa de la Loi de l’impôt sur le revenu indique ce qui suit :
+(10) Lorsque, à un moment donné d’une année d’imposition, une fiducie régie par un régime enregistré d’épargne‑retraite :
+[…]
+b) utilise à titre de garantie d’un prêt un bien quelconque de la fiducie ou en permet l’utilisation,
+la juste valeur marchande :
+[…]
+d) du bien utilisé à titre de garantie, au moment où il a commencé à être ainsi utilisé,
+selon le cas, doit être incluse dans le calcul du revenu, pour l’année, du contribuable qui est le rentier en vertu du régime à ce moment.
+[35] Dans la réponse modifiée il est indiqué, aux alinéas 12 g) et h), que :
+g) le 25 février 1999, l’appelant a reçu un prêt de 56 000 $ de Total Success Systems (« TSS »);
+h) le 4 mars 1999, First One a établi un chèque de 45 280 $ à l’ordre de l’appelant;
+[36] On ne sait pas comment il faut interpréter ces deux alinéas. L’intimé présume‑t‑il que l’appelant a reçu deux montants : 56 000 $ + 45 280 $? L’alinéa g) indique que l’appelant a reçu 56 000 $ à titre de prêt de TSS et l’alinéa h) indique que First One a établi un chèque de 45 280 $ à l’ordre de l’appelant. Étant donné que le montant investi n’était que de 80 000 $, il ne semble pas logique que l’appelant ait reçu plus de 100 000 $. Dans l’avis d’appel, l’appelant indique qu’il a reçu moins de 20 000 $. Manifestement, il faudrait déterminer les faits exacts et cela ne pourrait se faire que dans le cadre d’une audience. La question en litige, relativement à une cotisation fondée sur l’alinéa 146(10)b) de la Loi de l’impôt sur le revenu, serait la juste valeur marchande du bien utilisé à titre de garantie. Quel bien a‑t‑on utilisé à titre de garantie pour le prêt que l’appelant a réellement reçu? Quelle était la juste valeur marchande de ce bien au moment où le prêt a été consenti? Il n’y a, dans la réponse modifiée, aucune présomption quant au bien qui a été utilisé à titre de garantie pour le prêt. Il est dit au paragraphe 13 de la réponse modifiée que le ministre se fonde [traduction] « sur le fait que l’appelant s’est servi de la fiducie en garantie du prêt obtenu de TSS ». Cependant, il ne s’agissait pas de l’un des faits qui ont été présumés, et la question serait de savoir quel bien de la fiducie a été utilisé à titre de garantie (ainsi que la juste valeur marchande de ce bien), et non pas si l’appelant a utilisé la fiducie comme garantie.
+[37] Il convient également de noter que la seule présomption relative à la juste valeur marchande d’un bien quelconque était la juste valeur marchande des actions de catégorie A de First One en date du 29 janvier 2999. Aucune présomption n’a été faite à propos de la juste valeur marchande en date du 25 février 1999 ou du 4 mars 1999.
+[38] Il me semble aussi que, dans l’intérêt de la justice, il faudrait entendre l’appel de l’appelant à l’égard de la question subsidiaire. Compte tenu des présomptions limitées que l’intimé a formulées, il faudrait également déterminer dans le cadre d’une audience quelle partie supporte le fardeau de la preuve concernant les faits liés à la question subsidiaire, et trancher la question de savoir si les éléments de preuve présentés à l’audience étayent la conclusion de faits particulière qu’avance la partie qui a le fardeau de prouver ces faits.
+[39] La requête de l’appelant en vue de faire annuler l’ordonnance rejetant son appel est accueillie. Les dépens de la présente requête suivront l’issue de la cause.
+Signé à Halifax (Nouvelle‑Écosse), ce 21e jour de décembre 2008
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 28e jour de mai 2009.
+David Aubry, LL.B.
+Réviseur
+RÉFÉRENCE : 2008CCI680
+NO DU DOSSIER DE LA COUR : 2004‑4073(IT)G
+INTITULÉ : Patrick Joseph Emile Burke et La Reine
+LIEU DE L’AUDIENCE : Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE : Le 28 novembre 2008
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 21 décembre 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Kathleen Lyons
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

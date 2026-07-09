@@ -1,0 +1,107 @@
+Title: Asiedu v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30255/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-150-30255-asiedu-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-03-08
+
+# Asiedu v. The Queen
+
+- Citation: 2011 TCC 150
+- Decision date: 2011-03-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7977, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Asiedu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-08
+Neutral citation
+2011 TCC 150
+File numbers
+2011-100(IT)APP
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-100(IT)APP
+BETWEEN:
+CELESTINA ASIEDU,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on March 3, 2011 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Applicant:
+The Applicant herself
+Counsel for the Respondent:
+Cenobar Parker
+Laurent Bartleman
+____________________________________________________________________
+JUDGMENT
+The application for an order extending the time within which to serve a notice of objection in respect of assessments made under the Income Tax Act for the 2005 and 2006 taxation years is dismissed. Each party shall bear their own costs.
+Signed at Ottawa, Canada this 8th day of March 2011.
+“J. M. Woods”
+Woods J.
+Citation: 2011 TCC 150
+Date: 20110308
+Docket: 2011-100(IT)APP
+BETWEEN:
+CELESTINA ASIEDU,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This is an application by Celestina Asiedu for an extension of time to serve a notice of objection. The applicant wishes to dispute assessments made under the Income Tax Act relating to her participation in a program known as the Global Learning Donation Program.
+[2] The respondent objects to the granting of the order on the ground that the applicant did not first apply to the Minister for the extension.
+[3] Excerpts of the relevant provisions, s. 166.2(1) and (5) of the Act, are reproduced below:
+166.2(1) A taxpayer who has made an application under subsection 166.1 may apply to the Tax Court of Canada to have the application granted after either
+(a) the Minister has refused the application, or
+(b) 90 days have elapsed after service of the application under subsection 166.1(1) and the Minister has not notified the taxpayer of the Minister’s decision,
+but no application under this section may be made after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer.
+166.2(5) No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+[…]
+[4] As a result of these provisions, this application cannot be granted unless the applicant has previously made an application to the Minister for an extension of time under section 166.1 and that application was made in a timely manner.
+[5] Subsection 166.1(1) is reproduced below:
+166.1(1) Where no notice of objection to an assessment has been served under section 165, nor any request under subsection 245(6) made, within the time limited by those provisions for doing so, the taxpayer may apply to the Minister to extend the time for serving the notice of objection or making the request.
+[6] The requirements of these provisions are strict and cannot be ignored by the Court on grounds of fairness: Bormann v The Queen, 2006 FCA 83; 2006 DTC 6147.
+[7] Unfortunately for the applicant, an application was not made to the Minister within the time required. The reassessments were dated April 9, 2009, and the deadline for applying to the Minister was July 8, 2010.
+[8] The applicant testified that she was unaware of the reassessments until after this deadline. Apparently, she became aware of them during a telephone conversation with the collections branch on November 16, 2010.
+[9] At the time that the reassessments were sent by the Canada Revenue Agency, the applicant testified that she was not living in her usual residence, having had to rent it out due to very tragic circumstances. Also due to these circumstances, the applicant was not able to make appropriate arrangements to receive her mail.
+[10] The circumstances that the applicant testified to are certainly sympathetic, but there is nothing the Court can do. The timelines for objecting and applying for extensions are set by Parliament and they are strict.
+[11] The application will have to be dismissed.
+Signed at Ottawa, Canada this 8th day of March 2011.
+“J. M. Woods”
+Woods J.
+CITATION: 2011 TCC 150
+COURT FILE NO.: 2011-100(IT)APP
+STYLE OF CAUSE: CELESTINA ASIEDU and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 3, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: March 8, 2011
+APPEARANCES:
+For the Applicant:
+The Applicant herself
+Counsel for the Respondent:
+Cenobar Parker
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Applicant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

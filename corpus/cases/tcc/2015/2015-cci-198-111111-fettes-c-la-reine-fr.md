@@ -1,0 +1,373 @@
+---
+title: "Fettes c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/111111/index.do"
+last_modified: "2015-08-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 198"
+citation2: ""
+neutral_citation: "2015 CCI 198"
+decision_date: "2015-08-06"
+language: "fr"
+item_id: "111111"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2622
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:24:46.246000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "abf63feb5f0dcf1f2c7c33d83ac09fe03f95c0225edc034aef01217d76415281"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fettes c. La Reine
+
+- Citation: 2015 CCI 198
+- Decision date: 2015-08-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2622, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fettes c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-08-06
+Référence neutre
+2015 CCI 198
+Numéro de dossier
+2012-1230(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1230(IT)G
+ENTRE :
+DONALD FETTES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 17 juin 2015, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelant :
+Me T. John Agioritis
+Avocat de l’intimée :
+Me John Krowina
+JUGEMENT
+L’appel interjeté de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008 est rejeté avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 6e jour d’août 2015.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 22e jour de décembre 2015.
+François Brunet, réviseur
+Référence : 2015 CCI 198
+Date : 20150806
+Dossier : 2012-1230(IT)G
+ENTRE :
+DONALD FETTES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] M. Donald Fettes était au service de la société USFWatergroup Inc., qui est par la suite devenue Watergroup Companies Inc. Il s’est vu accorder des options d’achat d’actions dans une société liée, Culligan Ltd., le 30 décembre 2004 et le 10 février 2005. Aux termes des deux conventions d’option, le prix d’achat des actions était de 10 $ par action et le nombre d’actions qu’il était possible d’acheter était de 10 000 actions et 45 000 actions, respectivement, et la valeur des actions à cette époque‑là était évaluée au même prix de 10 $ l’action. En 2008, M. Fettes a levé les options pour 41 250 actions qui étaient acquises, au prix de levée ou d’exercice de 2,02 $ par action : la juste valeur marchande des actions à ce moment‑là était de 8,05 $. Le ministre du Revenu national (le « ministre ») a appliqué l’article 7 de la Loi de l’impôt sur le revenu (la « Loi ») afin d’inclure dans le revenu de M. Fettes pour 2008, comme avantage lié à son emploi, une somme presque égale à la différence entre la valeur des actions et le montant qu’il a payé pour les actions (8,05 $ - 2,02 $). Nul montant n’a été déduit du revenu en application de l’alinéa 110(1)d) de la Loi. M. Fettes interjette appel en soutenant qu’il a droit à une déduction, en application de l’alinéa 110(1)d) de la Loi tel qu’il était libellé en 2008, équivalente à la moitié de la valeur de l’avantage inclus dans le revenu, parce qu’il a respecté les trois exigences suivantes énoncées à cet alinéa :
+i. il s’agissait d’actions ordinaires;
+ii. il n’avait pas de lien de dépendance avec son employeur et l’émetteur des actions;
+iii. le montant qu’il devait payer aux termes de la convention d’option était au moins égal à la juste valeur marchande des actions au moment de la conclusion des conventions.
+[2] L’intimée reconnaît que M. Fettes a respecté les deux premières exigences, mais soutient qu’en raison du fait que le prix de levée ou d’exercice est passé de 10 $ à 2,02 $, il n’a pas respecté la troisième exigence.
+[3] Au départ, cette affaire a soulevé un certain nombre de questions, mais celles susmentionnées résument la situation des parties à l’audience. Par conséquent, j’examinerai seulement les faits qui se rapportent directement à l’unique question de savoir si les circonstances entourant les options de M. Fettes respectent les exigences énoncées à l’alinéa 110(1)d) de la Loi, en particulier si le montant que M. Fettes devait payer pour acquérir les actions aux termes de la convention était au moins égal à la juste valeur marchande des actions au moment de la conclusion de la convention.
+[4] M. Fettes occupait, en 2004 et jusqu’à son congédiement en 2008, un poste de cadre chez Watergroup Companies Inc., sous le régime d’un contrat de travail qu’il avait conclu le 30 septembre 1997 avec la société qui s’appelait alors USFWatergroup Inc. J’utiliserai simplement le nom « Watergroup » pour désigner les sociétés Watergroup. Au moyen de divers acquisitions et changements de contrôle survenus depuis 1998, Watergroup était, en 2004, une filiale de Culligan of Canada Ltd., qui faisait partie du groupe des sociétés Culligan, comprenant une société des Bermudes, soit Culligan Ltd. Les sociétés Culligan, comme Watergroup, oeuvraient dans le domaine du traitement des eaux, mais étaient exploitées comme des entreprises distinctes. Culligan Ltd. et Watergroup n’avaient pas de lien de dépendance.
+[5] M. Fettes assurait des conseils au groupe Culligan. On lui a proposé d’acquérir 5 000 actions ordinaires de Culligan Ltd., et, en conséquence, de participer au régime incitatif relatif aux actions de Culligan Ltd.
+[6] Aux termes d’un régime d’options d’achat d’actions des employés auquel M. Fettes a adhéré le 30 décembre 2004, Culligan Ltd. a accordé à M. Fettes l’option d’acheter 10 000 actions ordinaires de Culligan Ltd. à un prix de levée de 10 $ par action. De même, le 10 février 2005, M. Fettes s’est vu accorder l’option d’acheter 45 000 actions ordinaires de plus à 10 $ l’action. Conformément à ces conventions, les actions seraient acquises sur une période de quatre ans en quatre versements égaux. Au moment de la conclusion de ces conventions, la juste valeur marchande des actions était de 10 $ l’action. Le 8 août, 41 250 actions avaient été acquises.
+[7] L’avocat de M. Fettes a souligné l’importance de l’article 4 de la convention d’options d’achat d’actions des employés. J’en reproduis donc certaines parties ci‑après :
+[traduction]
+a) Généralités. Sous réserve des règlements administratifs raisonnables que le conseil peut adopter de temps à autre, l’employé peut lever les options acquises en donnant un préavis écrit d’au moins 15 jours ouvrables au secrétaire de la compagnie, qui précise la date à laquelle l’employé souhaite lever une option acquise (la « date de levée »), le nombre d’actions entières auxquelles se rapporte la levée d’option (les « actions levées ») et le prix total des options pour les actions levées (le « prix de levée »); [...] Sauf décision contraire du conseil et sous réserve d’autres conditions, déclarations et garanties prévues dans la convention relative à la souscription d’actions des employés (i) au plus tard à la date de la levée d’option, l’employé doit payer à la société la totalité des actions levées en dollars des États‑Unis en espèces ou en quasi‑espèces, à la satisfaction de la société; le montant doit être égal au prix de levée, plus les retenues d’impôts exigées ou les autres taxes, frais ou honoraires semblables; (ii) la société doit enregistrer l’émission des actions levées au nom du fiduciaire ayant droit de vote aux termes de la convention de vote fiduciaire (ou ordonner à l’agent de transfert de la société d’enregistrer l’émission des actions).
+[8] L’emploi de M. Fette au sein de Watergroup a pris fin le 15 juillet 2008 et son congédiement est entré en vigueur le 1er août 2008. Par lettre datée du 15 juillet 2008, M. Seales, le directeur général, a avisé M. Fettes que la société l’aiderait à lever les options qu’il avait acquises pour acheter des actions. Cette lettre a été suivie par un courriel d’une technicienne juridique, Amy McLean, auquel était annexée une convention relative à la levée des options d’achat d’actions, qui donnait des précisions sur les calculs relatifs aux retenues et dans lequel on demandait un chèque de 46 866,02 $ US (ce qui représente un prix de levée de 2,02 $ par action pour 23 201,01 actions). Ce montant provient du calcul des retenues suivant fourni par Mme McLean :
+[traduction]
+Culligan Ltd.
+Analyse des retenues sur les options
+41 250 options * 8,05 $ – 2,02 $ = 248 737,50
+Revenu
+Fédéral
+Provincial
+Retenues d’impôt
+RPC AE
+Total
+Prix des actions
+Nombre d’actions
+Nombre net d’actions émises
+248 737,50
+71 690,44
+37 144,99
+-
+-
+108 835,43
+8,05
+18 048,99
+248 737,50
+71 690,44
+37 144,99
+-
+-
+108 835,43
+18 048,99
+23 201,01
+[9] Lorsqu’il a envisagé la possibilité de lever les options, M. Fettes a demandé certains renseignements à Culligan et a reçu une feuille intitulée [traduction] « Régime incitatif relatif aux actions de Culligan Ltd. – Résumé de la valeur nette – Exemple », qui se trouve à Annexe A ci‑jointe.
+[10] Je relève qu’il ressort du dernier tableau de l’Annexe A ci‑jointe que, le 28 mai 2007, le prix d’exercice s’élevait à 2,02 $; il avait sans doute baissé en raison de ce qui apparaît dans le tableau comme étant une prime en espèces versée ce jour-là. M. Fettes, le seul témoin, ne pouvait pas expliquer les circonstances entourant cette réduction du prix de levée établi dans les conventions d’options d’achat d’actions initiales. Il a payé les 46 866,02 $ US demandés lorsqu’il a levé les options.
+[11] M. Fettes a signé la convention relative à la levée des options d’achat d’actions en septembre 2008, mais n’a jamais reçu de copie de cette convention signée par Culligan Ltd. L’alinéa 1a) de cette convention était formulé en ces termes :
+[traduction]
+En général. Sous réserve de toutes les conditions de la présente convention, à la clôture, l’ancien employé achètera, et la société vendra, le nombre total des actions ordinaires précisé sur la page de signature des présentes (les « actions ») à un prix d’achat de 2,02 $ par action, conformément à la levée des options de l’ancien employé.
+[12] La convention stipulait également que les actions ne pouvaient pas être revendues à la société pendant au moins six mois. Au début de l’année 2009, M. Fettes a revendu les 23 201 actions à la compagnie à raison de 5,00 $ par action, comme le stipule l’article 2 d’une convention relative à l’achat d’actions :
+[traduction]
+Prix d’achat des actions. La société et l’actionnaire s’entendent pour fixer le prix d’achat des actions à 116 005 $ US (le « prix d’achat »). La société et l’actionnaire reconnaissent et conviennent que le prix d’achat équivaut au nombre d’actions multiplié par la juste valeur marchande de 5 $ par action (selon la définition énoncée dans le régime incitatif relatif aux actions de Culligan Ltd.) à la date de la présente convention.
+[13] M. Fettes a témoigné qu’après son congédiement en 2008, sa relation avec Culligan et Watergroup s’était considérablement détériorée et qu’il y avait eu un long contentieux par la suite. Au début de l’année 2009, M. Fettes a reçu un feuillet T4 de la part de Watergroup sur lequel figurait sa rémunération, y compris son salaire et une indemnité de départ de 458 856 $. Ce feuillet ne mentionnait aucun avantage découlant de la levée des options. L’intimée a produit l’affidavit d’un agent de l’Agence du revenu du Canada (« ARC ») auquel était annexée la copie d’une impression d’écran de l’ARC précisant qu’elle avait reçu de Watergroup une version modifiée du feuillet T4, et que le revenu de M. Fettes s’élevait à 692 620 $ (soit 233 764 $ de plus que le revenu mentionné sur le feuillet T4 initial). M. Fettes n’a jamais reçu la copie du feuillet T4 modifié.
+[14] Au cours de l’interrogatoire préalable, le représentant de l’intimée a signalé que nulle déduction prévue à l’alinéa 110(1)d) de la Loi n’avait été accordée, étant donné que le feuillet T4 modifié, à la case 39, ne précisait pas que M. Fettes avait droit à cette déduction.
+Textes légaux [15] L’article 7 de la Loi se lit en partie ainsi :
+(1) Sous réserve du paragraphe (1.1), lorsqu’une personne admissible donnée est convenue d’émettre ou de vendre de ses titres, ou des titres d’une personne admissible avec laquelle elle a un lien de dépendance, à l’un de ses employés ou à un employé d’une personne admissible avec laquelle elle a un lien de dépendance, les règles suivantes s’appliquent :
+a) l’employé qui a acquis des titres en vertu de la convention est réputé avoir reçu, en raison de son emploi et au cours de l’année d’imposition où il a acquis les titres, un avantage égal à l’excédent éventuel de la valeur des titres au moment où il les a acquis sur le total de la somme qu’il a payée ou doit payer à la personne admissible donnée pour ces titres et de la somme qu’il a payée pour acquérir le droit d’acquérir les titres;
+[…]
+(1.4) Dans le cas où les conditions suivantes sont réunies :
+a) un contribuable dispose de droits prévus par une convention visée au paragraphe (1) visant l’acquisition de titres de la personne admissible donnée qui a conclu la convention ou d’une personne admissible avec laquelle elle a un lien de dépendance (ces droits et titres étant appelés respectivement « option échangée » et « anciens titres » au présent paragraphe),
+b) le contribuable ne reçoit en contrepartie de la disposition de l’option échangée que des droits prévus par une convention conclue avec l’une des personnes suivantes (appelée « personne désignée » au présent paragraphe) visant l’acquisition de titres de celle-ci ou d’une personne admissible avec laquelle elle a un lien de dépendance (ces droits et titres étant appelés respectivement « nouvelle option » et « nouveaux titres » au présent paragraphe) :
+(i) la personne donnée,
+(ii) une personne admissible avec laquelle la personne donnée a un lien de dépendance immédiatement après la disposition,
+(iii) la société issue de la fusion ou de l’unification de la personne donnée et d’une ou de plusieurs autres sociétés,
+(iv) une fiducie de fonds commun de placement à laquelle la personne donnée a transféré des biens dans les circonstances visées au paragraphe 132.2(1),
+(v) une personne admissible avec laquelle la société visée au sous-alinéa (iii) a un lien de dépendance immédiatement après la disposition,
+(vi) si la disposition est antérieure à 2013 et que les anciens titres étaient des intérêts dans une EIPD convertible qui était une fiducie de fonds commun de placement au moment de la disposition, une société de conversion d’EIPD quant à l’EIPD convertible,
+c) l’excédent éventuel de la valeur globale des nouveaux titres immédiatement après la disposition sur le montant total payable par le contribuable pour acquérir ceux-ci aux termes de la nouvelle option ne dépasse pas l’excédent éventuel de la valeur globale des anciens titres immédiatement avant la disposition sur le montant payable par le contribuable pour acquérir les anciens titres aux termes de l’option échangée,
+les présomptions suivantes s’appliquent dans le cadre du présent article :
+d) le contribuable est réputé (sauf pour l’application du sous-alinéa (9)d)(ii)) ne pas avoir disposé de l’option échangée et ne pas avoir acquis la nouvelle option;
+e) la nouvelle option est réputée être la même option que l’option échangée et en être la continuation;
+f) si elle n’est pas la personne donnée, la personne désignée est réputée être la même personne que la personne donnée et en être la continuation.
+[…]
+[16] Pendant les périodes pertinentes, les sous‑alinéas 110(1)d)(i) et (ii) de la Loi disposaient :
+110(1) Pour le calcul du revenu imposable d’un contribuable pour une année d’imposition, il peut être déduit celles des sommes suivantes qui sont appropriées :
+d) la moitié de la valeur de l’avantage que le contribuable est réputé par le paragraphe 7(1) avoir reçu au cours de l’année relativement à un titre qu’une personne admissible donnée est convenue, après le 15 février 1984, d’émettre ou de vendre aux termes d’une convention, ou relativement au transfert ou à une autre forme de disposition des droits prévus par la convention, dans le cas où les conditions suivantes sont réunies :
+(i) le titre, selon le cas :
+(A) est une action visée par règlement au moment de sa vente ou de son émission,
+(B) aurait été une action visée par règlement s’il avait été vendu au contribuable, ou émis en sa faveur, au moment où il a disposé de ses droits prévus par la convention,
+(C) aurait été une part d’une fiducie de fonds commun de placement au moment de sa vente ou de son émission si les parts émises par la fiducie qui n’étaient pas identiques au titre n’avaient pas été émises,
+(D) aurait été une part d’une fiducie de fonds commun de placement si, à la fois :
+(I) il avait été vendu au contribuable, ou émis en sa faveur, au moment où celui-ci a disposé de ses droits prévus par la convention,
+(II) les parts émises par la fiducie qui n’étaient pas identiques au titre n’avaient pas été émises,
+(ii) si les droits prévus par la convention n’ont pas été acquis par le contribuable par suite d’une disposition de droits à laquelle le paragraphe 7(1.4) s’applique, à la fois :
+(A) le montant que le contribuable doit payer pour acquérir le titre aux termes de la convention est au moins égal à l’excédent du montant visé à la subdivision (I) sur le montant visé à la subdivision (II) :
+(I) la juste valeur marchande du titre au moment de la conclusion de la convention,
+(II) le montant éventuel que le contribuable a payé pour acquérir le droit d’acquérir le titre,
+(B) immédiatement après la conclusion de la convention, le contribuable n’avait de lien de dépendance avec aucune des personnes suivantes :
+(I) la personne admissible donnée,
+(II) chacune des autres personnes admissibles qui, immédiatement après la conclusion de la convention, était un employeur du contribuable et avait un lien de dépendance avec la personne admissible donnée,
+(III) la personne admissible dont le contribuable avait le droit d’acquérir un titre aux termes de la convention,
+[…]
+Question en litige [17] M. Fettes a‑t‑il droit à la déduction prévue par l’alinéa 110(1)d) de la Loi? Plus précisément, le montant qu’il devait payer pour acquérir les actions aux termes de la convention est‑il au moins égal à la juste valeur marchande des actions au moment de la conclusion de la convention? Quel était alors le montant que M. Fettes devait payer pour acquérir les actions aux termes de la convention? Si le montant était de 10 $ par action, il a droit à la déduction prévue à l’alinéa 110(1)d) de la Loi. S’il était de 2,02 $ par action, il n’a pas droit à la déduction.
+[18] L’avocat de M. Fettes soutient que je ne peux que tenir compte de la convention initiale selon laquelle le prix de l’option était de 10 $. L’avocat de l’intimée soutient que la convention a été modifiée afin qu’il soit précisé que le prix de l’option était de 2,02 $, et tel est le montant qui doit être payé aux termes de la convention.
+[19] J’avais demandé aux parties de se pencher sur la question de savoir si le paragraphe 7(1.4) et le sous-alinéa 110(1)d)(iii) de la Loi jouaient. Elles ont produit des observations par lesquelles elles reconnaissaient toutes deux que le paragraphe 7(1.4) de la Loi ne jouait pas, car il n’y avait pas de disposition de droits prévus dans la convention relative à l’option d’achat d’actions initiale. Par conséquent, je ne pousserai pas cette analyse plus loin.
+[20] L’intimée a souligné ceci : le moment où il convient de déterminer le montant à payer aux termes de la convention est celui de la conclusion de la convention. Manifestement, la convention initiale précisait que le prix de levée était de 10 $ par action et, à ce moment‑là, la valeur des actions était de 10 $ par action. L’appelant soutient qu’en conséquence, il respecte la condition énoncée à la division 110(1)d)(ii)(A) de la Loi. Toutefois, il est tout aussi manifeste que la convention a été modifiée à un certain moment afin qu’il soit indiqué que le prix de levée était de 2,02 $ par action. Tel est le prix que M. Fettes a finalement payé. Il ressort des preuves que ce montant était inférieur à la juste valeur marchande au moment de la conclusion de la convention initiale et aussi lorsque les options ont été levées à 2,02 $. Je conclus également qu’au moment où une convention prévoyait que le prix de levée était de 2,02 $, ce prix était inférieur à la juste valeur marchande.
+[21] La convention relative à une option d’achat d’actions initiale fixait le prix de l’option à 10 $ et définissait, à l’article 4, le prix de levée comme étant le prix total des options. Toutefois, comme tel n’est pas le prix qui a été réellement payé, comment peut‑on dire qu’il s’agit de la convention initiale aux termes de laquelle M. Fettes a acquis les actions? L’appelant soutient que l’article 4 en question définit la procédure de levée des options et offre une souplesse quant aux modifications de prix. Je rejette la thèse de l’appelant portant que cela a en quelque sorte figé le prix à 10 $ par action, de telle sorte que les parties pouvaient simplement changer le prix et continuer à se prévaloir de l’alinéa 110(1)d) de la Loi, et de bénéficier du traitement de gains en capital. En fait, la convention aux termes de laquelle M. Fettes a acquis les actions visées par le paragraphe 7(1) de la Loi ne pouvait être qu’une convention dont le prix de l’option était de 2,02 $. Il n’existe aucune convention écrite à cet égard ni aucune explication détaillée justifiant comment ou quand le prix de l’option a été modifié pour passer à 2,02 $, mais la modification a manifestement eu lieu.
+[22] Le prix prévu par la convention a été modifié et c’est la convention comportant le prix de l’option modifié qui a été appliquée.
+[23] A mon avis, il est absolument absurde, sur le plan des principes, de soutenir qu’une convention d’option établissant le prix de l’option à un prix équivalent à la juste valeur marchande peut être modifiée au hasard pour un prix de l’option inférieur à celui de la juste valeur marchande, et de continuer à faire valoir qu’elle est le reflet d’une politique visant à offrir un incitatif à un employé. Il n’y a aucun incitatif futur : l’employé reçoit un avantage immédiat. Le fait d'envisager de traiter cette situation autrement serait laisser la porte grande ouverte à une planification fiscale abusive permettant d’énoncer quelque chose dans une convention écrite, et de faire autre chose dans la réalité. Je ne soutiens aucunement que tel est le cas de M. Fettes. Il s’est présenté comme une personne honnête et franche prise dans l’entrelacs des lois fiscales compliquées.
+[24] En résumé, selon ma lecture du mot « convention » figurant au sous‑alinéa 110(1)d)(ii) de la Loi, il renvoie à la convention selon laquelle M. Fettes devait acquérir les actions à 2,02 $ par action, un prix inférieur à la juste valeur marchande des actions au moment de la conclusion de la convention initiale, au moment où le prix a été modifié et au moment de la levée d’option. Dans ces circonstances, l’avantage que M. Fettes a reçu aux termes du paragraphe 7(1) de la Loi ne correspond pas au type d’avantage entrant dans les prévisions de l’alinéa 110(1)d) de la Loi, qui permet effectivement au bénéficiaire de l’avantage de bénéficier du traitement de gain en capital. Il s’agissait simplement d’un avantage rattaché à l’emploi qui devait être inclus dans le revenu.
+[25] L’appelant soutient ensuite que si je conclus que M. Fettes a un avantage relié à l’emploi, l’ARC n’a pas correctement calculé le montant. L’ARC s’est appuyée sur le feuillet T4 modifié produit par Watergroup, qui faisait état d’un revenu supplémentaire de 233 765 $ et d’une augmentation de l’impôt déduit de 102 250 $. Toutefois, selon l’analyse des retenues effectuée par Culligan (voir au paragraphe 8 des présents motifs), elles s’élèvent à 108 830 $ US. Il n’existe aucun élément de preuve quant à ce que Culligan a réellement remis à l’ARC. Bien que je retienne la thèse de l’appelant portant que cela soulève certaines questions en ce qui a trait à l’exactitude des chiffres sur lesquels s’est appuyée l’intimée, l’appelant n’a pas pu me fournir une autre solution exacte. Dans ces circonstances, je ne suis pas disposé à accepter que l’appelant a démoli les présomptions du ministre.
+[26] L’appel est rejeté avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 6e jour d’août 2015.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 22e jour de décembre 2015.
+François Brunet, réviseur.
+ANNEXE A
+[traduction]
+Régime d’incitatifs relatif aux actions de Culligan Ltd.
+Résumé de la valeur nette – Exemple
+En date du 29 mai 2007
+Valeur du portefeuille 52 290,54 $
+Investissement initial 11 000 $
+Rendement à ce jour 36 155,00 $
+Actions
+Culligan Ltd.
+Date
+Actions achetées
+Base
+Formule de répartition
+Répartition
+JVM par action
+Valeur marchande
+30 décembre 2004
+1 000
+10,00 $
+10,00 $
+10 000,00 $
+30 juin 2006
+13,75 $
+13 750,00 $
+14 août 2006
+8,59 $
+Actions * 1,41 $
+1 410,00 $
+12,34 $
+12 340,00 $
+15 septembre 2006
+7,47 $
+Actions * 1,12 $
+1 120,00 $
+11,22 $
+11 220,00 $
+31 décembre 2006
+12,35 $
+12 350,00 $
+29 mai 2007
+8,05 $
+Actions *16,72 $
+16,720,00 $
+8,05 $
+8 050,00 $
+Total
+1 000
+19 250,00 $
+8 050,00 $
+Valeur totale des actions 8 050,00 $
+Unités d’actions différées (« UAD »)
+Culligan Ltd.
+Date
+UAD
+Base
+Formule pour les dividendes
+JVM par UAD
+Valeur marchande
+30 décembre 2004
+100
+0,00 $
+10,00 $
+1 000,00 $
+30 juin 2006
+0,00 $
+13,75 $
+1 375,00 $
+14 août 2006
+11
+0,00 $
+UAD * 1,41 $/JVM
+12,34 $
+1 375,00 $
+15 septembre 2006
+11
+0,00 $
+UAD *1,12 $/JVM
+11,22 $
+1 375,00 $
+31 décembre 2006
+0,00 $
+12,35 $
+1 513,48 $
+29 mai 2007
+255
+0,00 $
+UAD *16,72 $/JVM
+8,05 $
+3 035,54 $
+Total
+377
+3 035,54 $
+Valeur totale des UAD* 3 035,54 $
+Options*
+Régime d’incitatif relatif aux actions de Culligan Ltd.
+Date
+Options accordées
+Prix d’exercice
+Options acquises
+Options non acquises
+Nombre d’options acquises
+Prime en espèces versée
+Valeur
+Nombre d’options non acquises
+Prime reportée (non acquise)
+Valeur possible
+30 décembre 2004
+2 000
+10,00 $
+1 000
+1 000
+9 février 2005
+1 000
+10,00 $
+500
+500
+14 août 2006
+8,59 $
+15 septembre 2006
+7,47 $
+8 février 2007
+500
+12,35 $
+500
+28 mai 2007
+2,02 $
+16 905,00 $
+20 100,00 $
+Total
+3 500
+1 500
+16 905,00 $
+9 045,00 $
+2 000
+20 100,00 $
+12 060,00 $
+Valeur totale des options*
+41 205,00 $
+Options acquises dans les quatre ans suivant la date à laquelle elles ont été accordées.
+Valeur de l’option = Nombre • (JVM - Exercice)
+Prime en espèces = Options acquises • (16,72 $ - Exercice précédent + Nouvel exercice) Prime reportée = Options non acquises • (16,72 $ - Exercice précédent + Nouvel exercice) *Assujetti à un impôt au moment de l’exercice. Confirmez le traitement avec votre conseiller fiscal.
+RÉFÉRENCE :
+2015 CCI 198
+No DU DOSSIER DE LA COUR :
+2012-1230(IT)G
+INTITULÉ:
+DONALD FETTES et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 17 juin 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 6 août 2015
+COMPARUTIONS :
+Avocat de l’appelant :
+Me T. John Agioritis
+Avocat de l’intimée :
+Me John Krowina
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+T. John Agioritis
+Cabinet :
+MacPherson Leslie & Tyerman LLP
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

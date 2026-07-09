@@ -1,0 +1,140 @@
+Title: Parisée v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29154/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-132-29154-paris-e-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-03-23
+
+# Parisée v. The Queen
+
+- Citation: 2009 TCC 132
+- Decision date: 2009-03-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6714, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Parisée v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-03-23
+Neutral citation
+2009 TCC 132
+File numbers
+2008-924(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-924(IT)I
+BETWEEN:
+CLAUDE PARISÉE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 2, 2009, at Ottawa, Ontario
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ageliki Apostolakos (law student)
+Justine Malone
+____________________________________________________________________
+JUDGMENT
+The appeal against the reassessment made under the Income Tax Act for the 2005 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of March 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+On this 1st day of April 2009
+Monica Chamberlain, Reviser
+Citation: 2009 TCC 132
+Date: 20090323
+Docket: 2008-924(IT)I
+BETWEEN:
+CLAUDE PARISÉE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal, heard under the informal procedure, from an assessment made by the Minister of National Revenue (the Minister) in respect of the Appellant for the 2005 taxation year. By this assessment, the Minister determined that the Appellant owed $5,318.10 in income tax on Old Age Security benefits under subsection 180.2(2) of the Income Tax Act for his 2005 taxation year.
+Background
+[2] Upon filing his income tax return for the 2005 taxation year, the Appellant reported a total of $98,629 in income, consisting of the following:
+Old Age Security pension
+$5,706
+Quebec Pension Plan benefits
+$10,091
+Other pensions:
+Commission administrative des régimes
+de retraite et d'assurances (CARRA)
+$81,377
+Desjardins Financial Security
+$607
+Taxable dividends
+$350
+Taxable capital gains
+$8
+Net federal supplement payments
+$490
+[3] By notice of assessment dated June 19, 2006, the Minister determined the amount of income tax payable by the Appellant for the 2005 taxation year, and allowed the following deductions:
+Claimed
+Allowed
+RRSP deduction
+$2,700.00
+$2,369.00
+Social benefits repayment
+$490.86
+$5,318.10
+Additional deduction: Eligible retroactive lump-sum payment
+nil
+$51,800.00
+[4] In determining the amount of income tax payable for the Appellant's 2005 taxation year, the Minister relied on the following factual assumptions:
+(a) The Appellant received $81,377 in pension benefits from CARRA. (admitted)
+(b) The amount that the Appellant received from CARRA includes $76,448 received on November 15, 2005, on account of pension arrears for the period from April 3, 2003, to November 30, 2005. (admitted)
+(c) CARRA made a $76,448 retroactive lump-sum payment to the Appellant, with no interest. The amount consists of $22,404 for 2003, $29,396 for 2004, and $24,648 for 2005. (admitted)
+(d) In computing the taxable income for the 2005 taxation year, the deduction allowed on account of the eligible retroactive lump-sum payment is $51,800. (admitted)
+(e) In computing the social benefits repayment, the Appellant's adjusted income for the 2005 taxation year is $96,260, which consists of his total income less his RRSP deduction ($98,629 – $2,369). (denied)
+(f) The Appellant's adjusted income is above the $60,806 threshold, and the excess is taxed at a rate of 15%. (denied)
+Issue
+[5] The issue is whether the Minister correctly computed the income tax of $5,318.10 on the Old Age Security pension. More specifically, the question to be decided is whether the deduction contemplated in section 110.2 of the Act should have been taken into consideration in computing the "adjusted income" defined in subsection 180.2(1) of the Act.
+Analysis and conclusion
+[6] In light of the case law on this issue,[1] I must conclude that the phrase "the amount that would be the individual’s income under Part I", employed in section 180.2 of the Act, refers to "income" determined under Division B of Part I of the Act. Thus, the deduction contemplated in section 110.2 of the Act is not to be taken into account in computing the Appellant's "adjusted income". Indeed, the deduction in section 110.2 is in Division C, entitled "Computation of Taxable Income". The appeal is therefore dismissed, and the Appellant must pay a total of $5,318.10 in income tax in accordance with section 180.2 of the Act, that is to say, 15% of the amount by which his adjusted income ($96,260 in this instance) exceeds the threshold of $60,806.
+Signed at Ottawa, Canada, this 23rd day of March 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+On this 1st day of April 2009
+Monica Chamberlain, Reviser
+CITATION: 2009 TCC 132
+COURT FILE NO.: 2008-924(IT)I
+STYLE OF CAUSE: CLAUDE PARISÉE and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: March 2, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: March 23, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ageliki Apostolakos (law student)
+Justine Malone
+COUNSEL OF RECORD:
+For the Appellant
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Poulin v. Canada, [1998] T.C.J. No. 36 (QL).
+Côté v. Canada, [2001] T.C.J. No. 637 (QL).

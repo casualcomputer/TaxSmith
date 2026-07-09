@@ -1,0 +1,256 @@
+---
+title: "Soneil International Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30472/index.do"
+last_modified: "2011-08-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 391"
+citation2: ""
+neutral_citation: "2011 CCI 391"
+decision_date: "2011-08-19"
+language: "fr"
+item_id: "30472"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7268
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:41:51.555000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e324466a6f5a0d8119a518140d3ac1c06bb41c7756a35b67701186bc4becf24b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Soneil International Limited c. La Reine
+
+- Citation: 2011 CCI 391
+- Decision date: 2011-08-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7268, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Soneil International Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-08-19
+Référence neutre
+2011 CCI 391
+Numéro de dossier
+2007-4786(IT)G, 2007-4787IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4786(IT)G
+ENTRE :
+SONEIL INTERNATIONAL LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Soneil Usha Inc. (2007‑4787(IT)G), les 17, 18 et 19 novembre 2010, à Toronto (Ontario).
+Devant : L'honorable juge Steven K. D'Arcy
+Comparutions :
+Représentant de l'appelante :
+Sachindra Jain
+Avocate de l'intimée :
+Me Eleanor H. Thorn
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie au titre de la Loi de l'impôt sur le revenu pour l'année d'imposition 2002 de l'appelante est rejeté.
+Les dépens sont adjugés à l'intimée. Aucuns dépens ne sont adjugés à l'intimée à l'égard de son témoin expert.
+Signé à Antigonish (Nouvelle‑Écosse), ce 19e jour d'août 2011.
+« S. D'Arcy »
+Le juge D'Arcy
+Traduction certifiée conforme
+ce 4e jour de novembre 2011.
+Yves Bellefeuille, réviseur
+Dossier : 2007-4787(IT)G
+ENTRE :
+SONEIL USHA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Soneil International Limited (2007‑4786(IT)G), les 17, 18 et 19 novembre 2010, à Toronto (Ontario).
+Devant : L'honorable juge Steven K. D'Arcy
+Comparutions :
+Représentant de l'appelante :
+Sachindra Jain
+Avocate de l'intimée :
+Me Eleanor H. Thorn
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie au titre de la Loi de l'impôt sur le revenu pour l'année d'imposition 2002 de l'appelante est rejeté.
+Les dépens sont adjugés à l'intimée. Aucuns dépens ne sont adjugés à l'intimée à l'égard de son témoin expert.
+Signé à Antigonish (Nouvelle‑Écosse), ce 19e jour d'août 2011.
+« S. D'Arcy »
+Le juge D'Arcy
+Traduction certifiée conforme
+ce 4e jour de novembre 2011.
+Yves Bellefeuille, réviseur
+Référence : 2011 CCI 391
+Date : 20110819
+Dossier : 2007-4786(IT)G
+ENTRE :
+SONEIL INTERNATIONAL LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2007-4787(IT)G
+ET ENTRE :
+SONEIL USHA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D'Arcy
+[1] Chacune des appelantes a interjeté appel d'un avis de cotisation à l'égard de son année d'imposition 2002[1]. Les deux appels ont été entendus ensemble sur preuve commune. La Cour est appelée à décider si certaines dépenses effectuées par les appelantes au cours de leur année d'imposition 2002 constituent des dépenses relatives à des activités de recherche scientifique et de développement expérimental (« RSDE »).
+[2] À l'audience, j'ai entendu trois témoins. M. Sachindra Jain a témoigné pour le compte des appelantes. M. Jain est président et vice‑président responsable du développement de produits et de la recherche et du développement de Soneil International Limited (la société « International ») et vice‑président responsable du développement de produits et de la recherche et du développement de Soneil Usha Inc. (« Soneil »). M. Jain a fondé les deux sociétés.
+[3] L'intimée a appelé deux témoins, à savoir M. Yashvant Parmar et M. Christopher Stoute. M. Parmar est conseiller en recherche et en technologie pour l'Agence du revenu du Canada (l'« ARC »). M. Stoute s'est présenté à l'audience en qualité de témoin expert. Il est un consultant qui a auparavant travaillé pour l'ARC.
+Résumé des faits pertinents
+[4] M. Jain a déclaré qu'il avait démarré l'entreprise des appelantes dans le sous‑sol de sa maison en 1994. M. Jain a affirmé qu'il [TRADUCTION] « a commercialisé l'utilisation d'une technologie d'alimentation à découpage pour des chargeurs de piles, ce qui a fait en sorte que les chargeurs étaient très petits et légers et pouvaient accompagner les appareils qu'alimentaient les piles »[2]. La technologie était différente de celle des chargeurs classiques qui se trouvaient sur le marché en 1994.
+[5] Il a noté que les chargeurs de piles ont plusieurs utilisations, comme les voiturettes de golf, les dispositifs de manutention des matériaux et les appareils de nettoyage et de récurage. Toutefois, l'utilisation principale des chargeurs est le chargement de fauteuils roulants à piles.
+[6] Les appelantes ont très bien réussi. Leurs produits sont conçus au Canada et fabriqués en Chine et en Malaisie. Les appelantes vendent environ 95 % de leurs produits à l'extérieur du Canada.
+[7] M. Jain est de toute évidence compétent pour mener des activités de RSDE liées à l'activité des appelantes. Il est détenteur de quatre diplômes universitaires (un baccalauréat ès sciences avec spécialisation en physique, un baccalauréat en technologie avec spécialisation en génie mécanique, une maîtrise ès sciences avec spécialisation en automatique et une maîtrise en administration des affaires) et a remporté de nombreux prix universitaires. En outre, il a obtenu le titre de comptable en administration industrielle (maintenant connu sous le nom de comptable en management accrédité, ou CMA) et d'ingénieur. M. Jain a une grande expérience professionnelle de plusieurs domaines, notamment le génie mécanique, le génie électrique et l'électronique.
+[8] M. Jain a déclaré qu'il était la personne clé en matière de technologie relativement aux recherches effectuées par les appelantes. Il a déposé auprès de la Cour une liste du matériel utilisé à l'installation d'essais des appelantes (pièce A‑3). Toutefois, il a fourni peu de détails relativement à l'installation d'essais proprement dite.
+[9] Les appelantes soutiennent qu'elles ont mené des activités de RSDE pendant leur année d'imposition 2002 relativement aux quatre projets suivants :
+1. Optimisation de l'alimentation en électricité pour application double pour des fauteuils roulants et des scooters à traction ou à propulsion (le « projet d'optimisation de puissance »). La société International a réalisé ce projet, qui portait sur la conception d'un système permettant à l'alimentation en électricité d'être transférée des roues avant vers les roues arrière d'un fauteuil roulant (ou vice versa).
+2. Mise au point d'un système d'inhibiteurs (le « projet des inhibiteurs »). La société International a réalisé ce projet, qui portait sur la conception d'un dispositif (l'inhibiteur) veillant à ce que l'alimentation en électricité des roues d'un fauteuil roulant soit coupée lorsque la pile du fauteuil roulant est en train de se charger.
+3. Création d'un système virtuel d'alimentation par piles (le « projet des piles virtuelles »). Soneil a réalisé ce projet, qui portait sur l'élaboration d'une méthode permettant d'extraire 36 volts de deux piles de 12 volts.
+4. Création d'un chargeur multitension capable de détecter la tension d'une pile (le « projet multitension »). Soneil a réalisé ce projet, qui portait sur la création d'un chargeur multitension capable de détecter la tension de la pile du fauteuil roulant, et de charger ensuite la pile à la tension appropriée.
+Le droit
+[10] La seule question dont la Cour est saisie est de savoir si le travail effectué par les appelantes constituait des activités de RSDE au sens du paragraphe 248(1) de la Loi de l'impôt sur le revenu (la « Loi »).
+[11] Le libellé pertinent, pour les besoins du présent appel, se trouve à l'alinéa c) de la définition de cette expression :
+« activités de recherche scientifique et de développement expérimental » Investigation ou recherche systématique d'ordre scientifique ou technologique, effectuée par voie d'expérimentation ou d'analyse, c'est‑à‑dire :
+[...]
+c) le développement expérimental, à savoir les travaux entrepris dans l'intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l'amélioration, même légère, de ceux qui existent.
+[12] L'annexe A des motifs du jugement contient la définition complète de l'expression « activités de recherche scientifique et de développement expérimental » au paragraphe 248(1) de la Loi.
+[13] La jurisprudence a élaboré cinq critères pour déterminer si une activité donnée est une activité de RSDE. Ces critères ont été énoncés pour la première fois dans la décision rendue par le juge Bowman (tel était alors son titre) dans l'affaire Northwest Hydraulic Consultants Limited c. La Reine[3]. La Cour d'appel fédérale a résumé ces critères dans l'arrêt C.W. Agencies Inc. c. La Reine[4] de la manière suivante :
+1. Existait‑il un risque ou une incertitude technologique qui ne pouvait être éliminé par les procédures habituelles ou les études techniques courantes?
+2. La personne qui prétend faire de la RS&DE a‑t‑elle formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique?
+3. La procédure adoptée était‑elle complètement conforme à la discipline de la méthode scientifique, notamment dans la formulation, la vérification et la modification des hypothèses?
+4. Le processus a-t-il abouti à un progrès technologique?
+5. Un compte rendu détaillé des hypothèses vérifiées et des résultats a‑t‑il été fait au fur et à mesure de l'avancement des travaux?
+[14] Il incombe à l'appelante de démontrer, selon la prépondérance des probabilités, que les dépenses qu'elle a supportées se rapportaient à des activités de RSDE au sens du paragraphe 248(1) de la Loi[5].
+Application du droit aux faits
+[15] Pour chacun des projets, M. Jain a décrit les diverses étapes de développement sous les rubriques suivantes :
+- l'observation de l'objet du problème;
+- la formulation d'un objectif clair;
+- la détermination et la formulation de l'incertitude technologique constatée;
+- la formulation d'une hypothèse destinée à réduire ou à éliminer l'incertitude;
+- la vérification méthodique et systématique de l'hypothèse;
+- le progrès technologique;
+- le contenu technologique.
+[16] Il ressort clairement du témoignage de M. Jain qu'il a (avec son assistant) passé beaucoup de temps à travailler à l'amélioration des produits de l'appelante, mais je ne dispose pas d'éléments de preuve suffisants pour conclure que, selon la prépondérance des probabilités, le travail effectué par l'appelante constituait de la RSDE.
+[17] Quant à la question de savoir s'il existait un risque ou une incertitude technologique, le juge Bowman a fait les observations suivantes dans la décision Northwest Hydraulic (au paragraphe 16) :
+Lorsqu'on parle de « risque ou [d']incertitude technologique » dans ce contexte, on laisse implicitement entendre qu'il doit exister une incertitude quelconque qui ne peut pas être éliminée par les études techniques courantes ou par les procédures habituelles. Je ne parle pas du fait que dès qu'un problème est décelé, il peut exister un certain doute au sujet de la façon dont il sera réglé. Si la résolution du problème est raisonnablement prévisible à l'aide de la procédure habituelle ou des études techniques courantes, il n'y a pas d'incertitude technologique telle que cette expression est utilisée dans ce contexte.
+Qu'entend‑on par « études techniques courantes »? C'est cette question (ainsi que celle qui se rapporte au progrès technologique) qui semble avoir divisé les experts plus que toute autre. En résumé, cela se rapporte aux techniques, aux procédures et aux données qui sont généralement accessibles aux spécialistes compétents dans le domaine.
+[18] M. Jain a décrit ce qu'il croyait être l'incertitude technologique à laquelle il devait faire face pour chaque projet de la manière suivante :
+Le projet d'optimisation de puissance : la question de savoir s'il était possible de concevoir un système de transfert sûr et efficace qui conviendrait aux personnes handicapées qui utilisent des fauteuils roulants et des scooters électriques à l'intérieur et à l'extérieur. Des incertitudes supplémentaires étaient liées à l'optimisation de la puissance et à la capacité d'intégrer le système aux fauteuils roulants électriques existants.
+Le projet des inhibiteurs : la question de savoir s'il était possible de concevoir un inhibiteur sûr et efficace qui conviendrait aux personnes handicapées qui utilisent des fauteuils roulants et des scooters électriques à l'intérieur et à l'extérieur. L'incertitude clé consistait en des problèmes mécaniques et électriques liés à l'intégration aux fauteuils roulants électriques existants.
+Le projet des piles virtuelles : la question de savoir s'il était possible de concevoir une pile virtuelle sûre et efficace qui conviendrait aux personnes handicapées qui utilisent des fauteuils roulants électriques. L'incertitude clé consistait en certains problèmes mécaniques liés à l'optimisation de la puissance et à l'intégration aux fauteuils roulants électriques existants.
+Le projet multitension : La question de savoir s'il était possible de concevoir un chargeur multitension sûr et efficace qui conviendrait aux personnes handicapées qui utilisent un fauteuil roulant électrique. L'incertitude est apparue lorsqu'il a été temps d'essayer d'intégrer le chargeur aux différents systèmes d'alimentation électrique pour fauteuils roulants.
+[19] Ce témoignage a été la seule preuve fournie par les appelantes à l'égard de l'incertitude technologique à laquelle elles devraient faire face. Après avoir examiné le témoignage de M. Jain, je ne suis simplement pas certain s'il parle d'incertitudes qui ne pouvaient être résolues que par un recours à des activités de RSDE ou s'il parle de questions de conception qui auraient pu être résolues par une utilisation de techniques, de procédures et de données qui étaient généralement accessibles aux spécialistes compétents dans le domaine.
+[20] M. Jain a déclaré, en contre‑interrogatoire, qu'il n'a produit aucun nouveau composant lorsqu'il menait ses travaux relatifs aux quatre projets. Il a aussi reconnu que chacun des projets mettait en cause des domaines où des produits effectuant des fonctions semblables existaient déjà. Il a témoigné qu'il existait un ensemble considérable de connaissances concernant l'utilisation de différents systèmes de contrôle pour l'alimentation en électricité des roues avant ou des roues arrière, concernant le signal envoyé aux dispositifs de contrôle de vitesse du moteur pour le système inhibiteur, concernant l'alimentation pour un transfert de puissance ainsi que concernant les systèmes de chargement de piles. Il a précisé que, bien que les appelantes utilisaient des pièces et composants existants, la recherche portait sur l'application des pièces et composants.
+[21] Les appelantes n'ont pas fourni d'éléments de preuve suffisants pour démontrer que les travaux qu'elles menaient relativement à l'application des pièces et composants existants exigeaient plus que des études techniques courantes ou des procédures habituelles.
+[22] En outre, la crédibilité de M. Jain a été minée sur ce point lors du contre‑interrogatoire. Il éprouvait des difficultés à expliquer certains courriels échangés entre lui et un fabricant indépendant, qui semblent montrer qu'une partie indépendante avait fait une nouvelle conception des pièces de la pile virtuelle[6]. M. Jain a déclaré que la nouvelle conception par la partie indépendante dont il est question dans les courriels constitue des études techniques courantes. J'ai de la difficulté à conclure, compte tenu de la preuve dont je suis saisi, que la nouvelle conception de pièces et de composants existants constitue des études techniques courantes lorsqu'elle est effectuée par une partie indépendante et qu'il s'agit de RSDE lorsqu'elle est effectuée par les appelantes.
+[23] Les appelantes n'ont pas fourni d'éléments de preuve suffisants pour démontrer l'existence d'un risque ou d'une incertitude technologique; elles n'en ont pas fourni non plus à l'égard des essais effectués. Le juge Bowman a fait l'observation suivante dans la décision Northwest Hydraulic (au paragraphe 16) : « La Loi et son règlement d'application ne le prévoient pas expressément, mais il semble évident qu'un compte rendu détaillé des hypothèses, des essais et des résultats, doive être fait, et ce, au fur et à mesure de l'avancement des travaux. »
+[24] Lorsqu'un appelant détermine l'existence d'un risque ou d'une incertitude technologique, il est important qu'il fournisse à la Cour des éléments de preuve qui montrent qu'il a effectué une vérification méthodique et systématique d'hypothèses en vue de réduire ou d'éliminer l'incertitude.
+[25] Mon collègue le juge Little a fait l'observation suivante dans Zeuter Development, au paragraphe 28 :
+[...] Bien que ceux‑ci ne soient pas absolument nécessaires, il ne fait aucun doute qu'un contribuable qui présente une demande accompagnée de pièces justificatives appropriées facilitera la tâche de décider si une activité est admissible en tant que RS&DE. Comme il a été affirmé dans l'arrêt RIS‑Christie, le seul moyen fiable de prouver que la recherche scientifique a été effectuée de façon systématique consiste à produire des preuves documentaires.
+[26] Compte tenu du témoignage de M. Jain, il semble que les appelantes n'ont pas fait un compte rendu détaillé des essais relatifs aux hypothèses formulées pour les projets ou des résultats des essais, au fur et à mesure de l'avancement des travaux.
+[27] M. Jain a témoigné qu'il était aidé par un assistant pour effectuer les travaux qu'il a menés pour chaque projet. Il a reconnu qu'ils n'ont pas fait de compte rendu détaillé de leurs travaux. Il a signalé que son assistant effectuait une série d'essais, et que bon nombre de ces essais produisaient des résultats semblables. Il a précisé qu'une fois que les appelantes se trouvaient en présence d'un changement, elles effectuaient des essais détaillés. M. Jain n'a produit aucun élément de preuve qui montre que les appelantes se sont trouvées en présence d'un changement ou qui décrit l'incidence de tout changement sur une hypothèse précise. Il n'a pas non plus mentionné s'il fallait modifier l'hypothèse.
+[28] Ce qui précède peut être constaté à l'examen des éléments de preuve que les appelantes ont fournis à la Cour (et à l'ARC) relativement aux essais effectués pour chacun des quatre projets.
+[29] La seule preuve fournie concernant le projet d'optimisation de puissance était une seule page intitulée [TRADUCTION] « Projet 02SILA – Optimisation de puissance – Spécifications »[7]. M. Jain a décrit cette page comme étant un plan d'essai systématique. Toutefois, elle contient à peine 11 éléments en abrégé, et il n'y a aucun indice qu'il s'agit d'un plan.
+[30] La société International n'a déposé à la Cour aucune analyse d'essais précis effectués à l'égard du projet d'optimisation de puissance ni aucun résultat de tels essais. M. Jain a déclaré que l'appelante n'avait pas fait de compte rendu détaillé de l'analyse de chaque essai.
+[31] La société International a aussi produit ce que M. Jain a décrit comme étant un plan d'essai systématique à l'égard du projet des inhibiteurs[8]. Il est semblable au plan d'essai systématique du projet d'optimisation de puissance. Le plan d'essai du projet des inhibiteurs contient neuf éléments en abrégé, dont six apparaissent dans le plan d'essai systématique du projet d'optimisation de puissance.
+[32] M. Jain a renvoyé à la pièce A‑9 et à la page 7 de la pièce A‑4 comme contenant la preuve des essais méthodiques et systématiques effectués à l'égard du projet des inhibiteurs. Je ne souscris pas à cette description des documents. Quatre des pages mentionnées sont des notes manuscrites qui ne comportent pas de phrases ni de commentaires détaillés. Deux des pages manuscrites contiennent des diagrammes simples. Les pages ne comportent aucun détail concernant la nature des essais ou leurs résultats. Il n'y a pas de certitude sur la personne qui a rédigé les notes ni sur le moment où ces notes ont été rédigées. La deuxième page de la pièce A‑9 est un diagramme que M. Jain a désigné comme étant la conception de l'inhibiteur. M. Jain n'était pas certain si ce sont des employés de la société International ou de parties indépendantes qui avaient préparé ce diagramme.
+[33] Lors du contre‑interrogatoire, M. Jain a confirmé que la société International n'avait présenté à la Cour aucune analyse d'essais précis effectués à l'égard du projet des inhibiteurs ou aucun résultat de tels essais[9].
+[34] Soneil a fourni un certain nombre de pages qui, d'après le témoignage de M. Jain, donnent la preuve des essais effectués par Soneil à l'égard du projet des piles virtuelles. M. Jain a renvoyé aux pièces A‑8, de la page 2 à la page 21, A‑11 et A‑12. M. Jain a déclaré que la pièce A‑12 constitue une preuve des essais effectués pendant un certain nombre de jours.
+[35] Toutefois, lors du contre‑interrogatoire, l'avocate de l'intimée a demandé à M. Jain si une société de Hong Kong appelée « Le Fronte » avait préparé les pages 2 à 7 de la pièce A‑8. Ces pages contenaient des diagrammes de conception détaillés. M. Jain a dit qu'il n'était pas certain si Le Fronte avait fait les dessins. Ce témoignage a entaché la crédibilité de M. Jain. Il avait d'abord déclaré que les documents prouvaient les essais effectués par Soneil, et, ensuite, lors du contre‑interrogatoire, il ne pouvait pas dire à la Cour si les documents prouvaient en réalité les essais de Soneil ou s'il s'agissait de documents de conception préparés par une société de Hong Kong.
+[36] En ce qui concerne le dernier projet, le projet multitension, Soneil a fourni à la Cour un plan d'essai systématique d'une seule page[10]. Semblable aux autres plans d'essai, ce plan était rédigé en abrégé, et signalait simplement sept éléments qui étaient nécessaires dans un prototype.
+[37] Soneil a aussi présenté à la Cour un document d'une page intitulé [TRADUCTION] « Rapport d'essai no 1 ». D'après M. Jain, ce document démontrait le résultat d'un essai effectué à l'égard du dispositif multitension[11]. M. Jain n'était pas certain quant à la personne qui avait établi le rapport, mais il pensait qu'il s'agissait de son assistant.
+[38] Après examen de tous les éléments de preuve versés au dossier, j'ai conclu que les appelantes n'ont pas fourni à la Cour une preuve suffisante à l'appui d'une conclusion selon laquelle elles ont adopté des procédures qui sont conformes aux principes établis et objectifs de la méthode scientifique. En particulier, les appelantes n'ont pas fourni à la Cour une preuve suffisante à l'appui d'une conclusion selon laquelle leurs travaux étaient caractérisés par l'observation scientifique systématique par des chercheurs chevronnés, la mesure et l'expérimentation, ainsi que la vérification et la modification d'hypothèses.
+[39] M. Jain, un comptable en management accrédité, comprend parfaitement l'importance de tenir des registres adéquats.
+[40] Pour les motifs exposés ci‑dessus, les appels sont rejetés.
+[41] Comme la Cour a conclu que les appelantes n'ont pas réussi à prouver, selon la prépondérance des probabilités, que les dépenses supportées étaient afférentes à des activités de RSDE, il n'est pas nécessaire que j'examine la preuve fournie par l'intimée, particulièrement celle de son témoin expert. Toutefois, la décision de la Cour à l'égard de la preuve du témoin expert, M. Stoute, est importante pour des raisons qui touchent aux dépens.
+[42] Le représentant des appelantes s'est opposé à ce que la Cour accepte M. Stoute en qualité de témoin expert, compte tenu du fait qu'il n'avait pas le degré requis d'indépendance ou d'impartialité. M. Stoute ne travaille pas actuellement pour l'ARC et ne la conseille plus. Toutefois, au cours d'années antérieures, il a fourni des services de consultation à l'ARC. En 2004, il a préparé pour l'ARC un rapport d'examen dans lequel il recommandait à l'ARC de refuser la demande de RSDE des appelantes. Après avoir reçu de M. Stoute l'assurance qu'il avait établi son rapport d'expert déposé à la Cour en se fondant sur un examen objectif des éléments de preuve que les appelantes avaient déposés à la Cour, je l'ai accepté en qualité de témoin expert.
+[43] Toutefois, lorsque j'ai écouté le témoignage de M. Stoute et après avoir brièvement examiné son rapport d'expert, il est devenu évident pour moi que son rapport d'expert était plus une défense de position qu'un rapport d'expert. Au cours de son témoignage, il en revenait constamment aux réunions tenues avec les employés des appelantes en 2004. En outre, le rapport d'expert de M. Stoute est en grande partie fondé sur les réunions tenues avec M. Jain en 2004. Il me semble que le but principal du rapport d'expert de M. Stoute était de justifier la conclusion qu'il avait tirée en 2004 selon laquelle les quatre projets des appelantes n'étaient pas admissibles comme projets de RSDE. Je n'aurais donc accordé aucun poids au rapport d'expert. Par conséquent, bien que les dépens soient adjugés à l'intimée, aucuns dépens ne lui seront adjugés relativement à son témoin expert.
+Signé à Antigonish (Nouvelle‑Écosse), ce 19e jour d'août 2011.
+« S. D'Arcy »
+Le juge D'Arcy
+Traduction certifiée conforme
+ce 4e jour de novembre 2011.
+Yves Bellefeuille, réviseur
+Annexe A
+Loi de l'impôt sur le revenu, paragraphe 248(1)
+« activités de recherche scientifique et de développement expérimental » Investigation ou recherche systématique d'ordre scientifique ou technologique, effectuée par voie d'expérimentation ou d'analyse, c'est‑à‑dire :
+a) la recherche pure, à savoir les travaux entrepris pour l'avancement de la science sans aucune application pratique en vue;
+b) la recherche appliquée, à savoir les travaux entrepris pour l'avancement de la science avec application pratique en vue;
+c) le développement expérimental, à savoir les travaux entrepris dans l'intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l'amélioration, même légère, de ceux qui existent.
+Pour l'application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+d) les travaux entrepris par le contribuable ou pour son compte relativement aux travaux techniques, à la conception, à la recherche opérationnelle, à l'analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et à la recherche psychologique, lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada par le contribuable ou pour son compte et servent à les appuyer directement.
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+e) l'étude du marché et la promotion des ventes;
+f) le contrôle de la qualité ou la mise à l'essai normale des matériaux, dispositifs, produits ou procédés;
+g) la recherche dans les sciences sociales ou humaines;
+h) la prospection, l'exploration et le forage fait en vue de la découverte de minéraux, de pétrole ou de gaz naturel et leur production;
+i) la production commerciale d'un matériau, d'un dispositif ou d'un produit nouveau ou amélioré, et l'utilisation commerciale d'un procédé nouveau ou amélioré;
+j) les modifications de style;
+k) la collecte normale de données.
+RÉFÉRENCE : 2011 CCI 391
+NOS DES DOSSIERS DE LA COUR : 2007-4786(IT)G et 2007-4787(IT)G
+INTITULÉS : SONEIL INTERNATIONAL LIMITED c. SA MAJESTÉ LA REINE et SONEIL USHA INC. c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATES DE L'AUDIENCE : Les 17, 18 et 19 novembre 2010
+MOTIFS DU JUGEMENT : L'honorable juge Steven K. D'Arcy
+DATE DU JUGEMENT : Le 19 août 2011
+COMPARUTIONS :
+Représentant des appelantes :
+Sachindra Jain
+Avocate de l'intimée :
+Me Eleanor H. Thorn
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom : s.o.
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L'année d'imposition 2002 de Soneil Usha Inc. s'est terminée le 31 octobre 2002. L'année d'imposition 2002 de Soneil International Limited s'est terminée le 30 septembre 2002.
+[2] Transcription, à la page 29.
+[3] 98 D.T.C. 1839, no 97‑531(IT)G, 1er mai 1998 (C.C.I.).
+[4] 2001 CAF 393, au paragraphe 17.
+[5] Voir Zeuter Development Corporation c. La Reine, 2006 CCI 597, au paragraphe 26.
+[6] Pièce R‑6.
+[7] Pièce A-4, à la page 1.
+[8] Pièce A‑4, à la page 4.
+[9] Transcription, à la page 221.
+[10] Pièce A‑4, à la page 6.
+[11] Pièce A‑4, à la page 3.

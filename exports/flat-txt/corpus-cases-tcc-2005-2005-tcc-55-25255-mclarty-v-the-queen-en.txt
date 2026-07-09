@@ -1,0 +1,355 @@
+Title: McLarty v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25255/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-55-25255-mclarty-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-01-26
+
+# McLarty v. The Queen
+
+- Citation: 2005 TCC 55
+- Decision date: 2005-01-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2384, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McLarty v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-26
+Neutral citation
+2005 TCC 55
+File numbers
+97-3628(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 97-3628(IT)G
+BETWEEN:
+ALLAN MCLARTY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on September 8-12, 15-19, 22-23, 25-26, 2003 at
+Calgary, Alberta,
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Carman R. McNary, Jehad Haymour,
+Denny Kwan
+Counsel for the Respondent:
+Wendy Burnham, Deborah Horowitz
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1992 and 1994 taxation years are allowed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 26th day of January 2005.
+"L.M. Little"
+Little J.
+Citation: 2005TCC55
+Date: 20050126
+Docket: 97-3628(IT)G
+BETWEEN:
+ALLAN MCLARTY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. Facts:
+[1] The Appellant is one of a number of investors who invested in proprietary seismic data (the "Venture Data").
+[2] The Appellant's share of the purchase price of the Venture Data was $100,000.00. The amount of $100,000.00 was satisfied by a cash payment of $15,000.00 and a limited recourse promissory note (the "Note") in the amount of $85,000.00.
+[3] The Appellant added the amount of $100,000.00 to his Cumulative Canadian Exploration Expenses ("CCEE") and claimed CCEE deductions when he filed his income tax returns for the 1992 and 1994 taxation years.
+[4] The Minister of National Revenue (the "Minister") reassessed the Appellant's 1992 and 1994 taxation years. The Minister allowed CCEE in the amount of $32,182.00 and disallowed the remainder of the purchase price of the Venture Data on the basis that the price that was paid was in excess of fair market value.
+[5] The Appellant filed appeals to the Notices of Assessment.
+[6] During the hearing of the appeals the parties filed a document referred to as Facts Admitted (see Exhibit A-5):
+1. Western Geophysical Ltd. ("Western") was engaged in the business of providing seismic data and other geophysical services.
+Paragraph 18(a) of the Reply to Amended Notice of Appeal dated August 15, 2003 (the "Reply")
+2. On June 26, 1992, Western sold its entire Canadian proprietary data library (the "Data") to Canadian Hunter Exploration Ltd. ("Hunter").
+Paragraph 18(b) of the Reply; Paragraph 4(e) of the
+Response to Request to Admit sent September 2,
+2003 (the "Response")
+3. On June 26, 1992, Hunter sold the Data to Seitel Inc. ("Seitel").
+Paragraph 18(h) of the Reply; Paragraph 4(f) of the Response
+5. Pursuant to a Purchase and Sales Agreement dated December 30, 1992 (the "Seitel Agreement"), Compton Resource Corporation ("Compton") acquired the "seismic business" from Seitel for consideration totalling $21,000,000 satisfied by cash in the amount of $2,375,000 and a debenture in the amount of $18,625,000 in favour of Seitel due on December 31, 2001 (the "Compton Debenture"). The "seismic business" was defined as the seismic business carried on by Seitel in Canada, consisting of the following three components: seismographic material, the Data, and the Dyad Agreement.
+Paragraph 5 of the Amended Notice of Appeal dated August 7, 2002 (the "Notice of Appeal") and paragraph 4, 18(n), 18(o) and 18(p) of the Reply
+6. Compton was in 1992 and still is owned 100% by Ernie Sapieha, who and remains its sole officer and director.
+Paragraph 1 of the Request to Admit and Paragraph 1
+of the Response
+7. Pursuant to the Seitel Agreement, the purchase price of $21,000,000 was allocated as follows: $20,999,998 to the Data; $1.00 to each of the seismographic material and the Dyad Agreement.
+Paragraph 18(m) and 18(p) of the Reply
+8. Also included in the purchase agreement was an obligation for Seitel to provide one copy of the Data to Compton by February 28, 1993.
+Paragraph 18(q) of the Reply
+9. The Compton Debenture required that 60% of the revenues (net of commission) from the sale of licensed copies of the Data be applied to the Debenture, first to interest and then to principal.
+Paragraph 18(r) of the Reply
+10. On December 31, 1992, Seitel and Compton entered into a Data Management and Sale Agreement whereby Seitel agreed to act as Compton's agent for the marketing and licensing of the Data in exchange for a commission not exceeding 10%.
+Paragraph 18(t) of the Reply
+11. Compton received three appraisals of the Western Data Base which purported to estimate the fair market value of the data as follows:
+(a) Curts Seismic Consultants Ltd. $41,930,760
+(b) Jaskella (sic) Resources Consulting Ltd. $39,787,800
+(c) Citadel Engineering Ltd. $34,405,000
+Paragraph 6 of the Notice of Appeal and paragraph 5 of the Reply
+12. On December 31, 1992, the Appellant entered into a Subscription Agreement (the "Subscription Agreement") with Compton, pursuant to which the Appellant acquired an undivided interest in the Compton Resource Corporation 1992/1993 Oil and Gas Investment Fund (the "Joint Venture").
+Paragraph 7 of the Notice of Appeal and paragraph 7 of the Reply
+13. The Appellant and other individuals (collectively the "Individual Joint Venturers") entered into a joint venture agreement dated December 31, 1992 (the "Joint Venture Agreement") with Compton.
+Paragraph 10 of the Notice of Appeal and paragraph 8
+of the Reply
+14. Under the Joint Venture Agreement, the Individual Joint Venturers appointed Compton as their agent to purchase seismic data for the use of the Joint Venture from Compton. On December 31, 1992, pursuant to a Technical Data Base Purchase Agreement, the Individual Joint Venturers, through their agent Compton, purchased a 30.35% undivided interest in the propriety interest in the "Venture Data", being the Data, excluding the Nova Scotia data, from Compton.
+Paragraph 11 of the Notice of Appeal and paragraphs 9 and 18(dd) of the Reply
+15. The total consideration given by the Individual Joint Venturers for the Venture Data was $6,373,335 satisfied by $956,002 in cash and $5,417,333 by way of promissory notes in favour of Compton (the "Promissory Notes"). This consideration was the same amount as the consideration given by Compton to Seitel in proportion to the percentage interest in the Western Data Base (i.e. 30.35%).
+Paragraph 12 of the Notice of Appeal and paragraph 1 of the Reply
+16. The Appellant's Promissory Note is one of the Promissory Notes referred to in paragraph 15 above.
+Paragraph 13 of the Notice of Appeal and paragraph 1 of the Reply
+17. The terms of the Promissory Notes include the following items:
+(a) the Promissory Notes bear interest at a rate of 8% per annum on any unpaid portion of the principal sum;
+(b) pursuant to the Joint Venture Agreement which is incorporated by reference into the terms of the Promissory Notes, the Individual Joint Venturers assigned to Compton sixty percent (60%) of the proceeds of the sales of licensed copies of the Venture Data and twenty percent (20%) of the cash flow from the drilling programs (the "Drilling Program") carried on by the Joint Venture as repayment of the Promissory Notes, first to interest then to principal;
+(c) the Promissory Notes are secured by sixty percent (60%) of the sale proceeds from the disposition of the proprietary interest in the Venture Data and an undivided twenty percent (20%) of the rights acquired by the Individual Joint Venturers pursuant to the Drilling Program (collectively, the "Security"), with no further recourse against other assets of the Individual Joint Venturers; and
+(d) in the event that any portion of the Promissory Notes remain unpaid on the due date, Compton will appoint an independent trustee to sell the Individual Joint Venturers' interests in the Security, with such proceeds being applied to the unpaid portion of the Promissory Notes and any shortfall would be forgiven.
+Paragraph 14 of the Notice of Appeal and paragraphs 1, 18(ee) and 18(kk) of the Reply
+18. Pursuant to the Exploration Agreement, a portion of the Appellant's Consideration was used by the Joint Venture to acquire an undivided share of the Venture Data. The portion of the Consideration used to acquire the Appellant's individual interest in the Venture Data is equal to $100,000 and was satisfied by cash in the amount of $15,000 and the Promissory Note referred to in paragraphs 15-17 above.
+Paragraph 15 of the Notice of Appeal and paragraph 1 of the Reply
+19. The Appellant also provided cash in the amount of $8,000 and a promissory note for $7,000 to the Joint Venture.
+Paragraph 17 of the Notice of Appeal and paragraphs 12 and 18(jj) of the Reply
+20. Compton also sold percentage interests in the Western Data Base through three other agreements as follows:
+(a) on December 31, 1992, a 28.5714% undivided interest in Ricinus Resources Ltd.;
+(b) on December 31, 1992, a 14.38571% undivided interest to RFM Capital Corporation Ltd.;
+(c) on January 1, 1993, a 26.7936% undivided interest in Ricinus Resources Ltd.;
+Paragraph 18(gg) of the Reply
+21. Carl Ringdahl reviewed the paper copy of the Western Data Base.
+Paragraph 10 of the Request and paragraph 1 of the Response
+22. On December 31, 1994, the Appellant transferred his interest in the assets of the Joint Venture, excluding the Venture Data, to Compton Petroleum Corporation.
+Paragraph 22 of the Notice of Appeal and paragraph 13 of the Reply
+23. The Appellant added accrued interest expense to his Cumulative Canadian Exploration Expense ("CCEE") pool.
+Paragraph 24 of the Notice of Appeal and paragraph 14 of the Reply
+24. Pursuant to the definition of CCEE in subsection 66.1(6) of the Income Tax Act and paragraph 66(12.1)(a) thereof, the taxpayer deducted amounts from his CCEE pool to the extent that these amounts became receivable by him as a result of sales of the Venture Data.
+Paragraph 25 of the Notice of Appeal and paragraph 1 of the Reply
+25. The Appellant filed his 1992 return of income claiming an addition of $100,000 to his CCEE pool in respect of his expenditure of funds for the acquisition of his share of the Venture Data and an additional $1,000 in respect of the associated set-up costs.
+Paragraph 26 of the Notice of Appeal and paragraph 1 of the Reply
+26. The Appellant claimed an addition of $7,718 to his CCEE pool in the 1993 taxation year and a reduction of $6,396 to his CCEE pool in the 1994 taxation year.
+Paragraph 27 of the Notice of Appeal and paragraph 15 of the Reply
+27. In his 1992 and 1994 returns of income, the Appellant claimed deductions as a result of drawing down his CCEE pool. In particular, the Appellant claimed Canadian Exploration Expense ("CEE") of $81,655 in 1992 and $14,854 in 1994.
+Paragraph 28 of the Notice of Appeal and paragraph 16 of the Reply
+28. By letter dated January 6, 1997, the Minister of National Revenue (the "Minister") proposed to reassess the taxpayer on the basis that the Venture Data had a value of $2,050,142 (the "Minister's Value") and the Appellant's share of the Venture Data had a value of $32,182, with the result that $78,676 of the additions to his CCEE account would be disallowed as follows:
+CCEE Pool 1992-1994 in Respect of the Joint Venture
+As
+Proposed
+Filed Reassessment
+1992 (Purchase of Venture Data) 100,000 32,182
+(Set-up Costs)
+1,000 1,000
+1993
+7,718 2,293
+1994
+(6,396) (11,829)
+Total 102,322 23,646
+Paragraph 29 of the Notice of Appeal and paragraph 1 of the Reply
+29. In the Minister's letter of January 6, 1997, the Minister also proposed to disallow interest expenses such that only the interest on the Minister's Value would be allowed, calculated as follows:
+Minister's Value of Venture Data $2,050,142
+Less: Cash Component (955,414)
+Minister Recognized Value of Notes $1,094,728
+Interest expense allowed = Minister's Value of Notes x interest
+expense claimed Total Face Value of Notes
+= $1,094,728 x interest expense claimed
+$5,417,333
+Paragraph 30 of the Notice of Appeal and paragraph 1 of the Reply
+30. As a result of the calculation referred to in paragraph 29 above, the Minister reassessed to disallow the Appellant interest expense in the amounts of $5,429 for each of the 1993 and 1994 taxation years. The Minister instead allowed interest expenses on the Appellant's Promissory Note of $1,375 for each of the 1993 and 1994 taxation years, being the Appellant's proportionate share of the interest expense relating to the Minister's perceived value of the Promissory Notes.
+Paragraph 31 of the Notice of Appeal and paragraph 1 of the Reply
+31. As a result of the above, the Minister reassessed the Appellant so as to disallow the deductions described in paragraph 25 to the extent of $78,676 as follows:
+1992: $48,523 CEE deduction disallowed
+1994: $30,153 CEE deduction disallowed
+Paragraph 32 of the Notice of Appeal and paragraph 1 of the Reply
+32. The balance of the Compton Debenture of $18,625,000 was $22,775,419 as set at the end of November 20, 2001.
+Paragraph 7 of the Request and paragraph 1 of the Response
+33. The balance of the Appellant's Promissory Note of $85,000 was $93,242 as at the end of 2001.
+Paragraph 6 of the Request and paragraph 1 of the Response
+34. The Appellant was an investor in the Petroleum Capital 1987 Partnership, which purchased 13,795 kilometres of proprietary seismic data. The partnership financed the $20,524,799 purchase of the proprietary seismic database by payment of cash in the amount of $2,932,114 and payment by granting an 8% demand convertible debenture in the amount of $17,592,685 payable to Petroleum Capital Operations Ltd., a subsidiary of the general partner, Petroleum Capital Management Ltd. The debenture was converted into Class B Partnership Units on January 1, 1990, as a result of a demand for repayment made by Petroleum Capital Operations Ltd. prior to December 31, 1989.
+Paragraph 8 of the Request and paragraph 2 of the Response
+35. The Appellant claimed CEE in excess of the cash he invested in the Petroleum Capital 1987 Partnership.
+Paragraph 9 of the Request and paragraph 1 of the Response
+[7] The facts that were established may be summarized as follows. In the fall of 1992, Mr. Sapieha, the President and sole shareholder of Compton Resource Corporation ("CRC"), was in the midst of building an oil and gas exploration and development corporation. He envisioned that an interest in a proprietary seismic database would be the cornerstone of the company and attempted to gather investors to join CRC in the purchase of a seismic database.
+[8] Mr. Sapieha contacted the Appellant as one of the potential investors in a joint venture (the "Joint Venture"). The Appellant was presented with and reviewed the offering memorandum (the "Memorandum") which outlined the actions of the proposed Joint Venture.
+[9] The Memorandum outlined the purposes for which the Joint Venture would purchase an interest in the technical Venture Data. The Memorandum stated:
+(a) [t]he principle objectives of this offering are to provide subscribers with an opportunity to participate in the acquisition of, exploration for and development of Petroleum Rights while at the same time enabling investors to avail themselves of the income tax deductions and federal incentive programs which have been proposed to encourage petroleum and natural gas exploration developments; and
+(b) [t]he primary purpose of the purchase of the Technical Data Base will be to analyze the data with a view to determining development and exploration prospects of the Joint Venture and to assist with the identification of producing PNG Properties for the Joint Venture to purchase. However, after a review and analysis of the Technical Data Base, some portion of the data may be licensed or sold to the industry in a manner and under circumstances consistent with industry practice.
+[10] The Memorandum also stated:
+[t]he Joint Venture will re-invest the Investor's uncommitted Production Cash Flow from the Drilling Program for up to two years in further exploration and development based on its analysis of the Technical Data Base.
+[11] In the fall of 1992 Mr. Sapieha was introduced to Mr. Talbot who was the president of Seitel, the company that owned the proprietary rights of the Western Geophysical seismic database. After completing his own due diligence, which included determining a value for the Venture Data and hiring three independent appraisers, Mr. Sapieha was satisfied with the quality of the Venture Data and began negotiations with Mr. Talbot for the purchase of the Venture Data.
+[12] On December 30, 1992, Seitel sold the seismic business (which included the Venture Data) to CRC for $21,000,000.00 payable by $2,375,000.00 cash and a debenture of $18,625,000.00. In its financial statements Seitel recorded the amount of the promissory note as a contingent liability.
+[13] The Appellant testified that he had been involved in previous investments involving seismic data because he wanted to be "in on the ground floor" of an oil and gas exploration and development company and that the tax deduction was a factor. I accept the testimony of the Appellant on this point.
+[14] On December 31, 1992, the following day, the Appellant entered into a subscription agreement and executed a Joint Venture Agreement with CRC (the "Joint Venture Agreement").
+[15] On that day, pursuant to the Joint Venture Agreement, CRC − as agent, and on behalf of the Joint Venture participants - acquired a 30.35% undivided interest in all of the Venture Data, excluding that relating to Nova Scotia. The Nova Scotia data and the Venture Data combined is referred to as the "Data". The Appellant's proportion was a 1.57% undivided interest in the Venture Data.
+[16] Mr. Sapieha then established an office for CRC. The office included mapping services, a facility for the storing of well logs, geophysical software and other technical services. He then began to put together an exploration team for CRC that was to analyze and review the Venture Data for the Joint Venture.
+[17] Mr. Carl Ringdahl, an experienced geophysicist, was hired as part of the exploration team. Mr. Ringdahl testified that the team began reviewing the Venture Data in the south and "worked up the play" using all of the information available (including the existing wells and the Venture Data). Mr. Ringdahl further testified that over a period of time, he reviewed every seismic line systematically from south to north in order to ascertain whether there was an opportunity to develop a trend or play, and to decide whether to buy into a land sale.
+[18] Mr. Sapieha testified that he believed that by owning the proprietary rights of the Venture Data (instead of only a copy), the Joint Venture would obtain a number of benefits. In particular, he planned to reinvest sales of the Venture Data back into CRC to pay for exploration expenses and to use the Venture Data in negotiations with other companies to swap portions of the Venture Data for petroleum rights and interests in land.
+[19] Mr. Sapieha testified that after two years, the investors would review the progress of the Joint Venture and determine whether to continue exploration; however, the Venture Data licensing revenues were reinvested into exploration for less than two years. On December 31, 1994, the properties of the Joint Venture were rolled over to Compton Petroleum Corporation and $375,000.00 was paid on the promissory notes.
+B. Issues:
+[20] The issues in these appeals may be summarized as follows:
+(i) Did the Appellant purchase the Venture Data for the purpose of exploration for petroleum or natural gas as required in paragraph 66.1(6)(a) of the Income Tax Act (the "Act")?
+(ii) Does the debenture provided by the Appellant constitute an expense as required by paragraph 66.1(6)(a)?
+(iii) Was the purchase by the Appellant of the 1.57% interest in the Venture Data a non-arm's length transaction?
+(iv) If the purchase by the Appellant was an arm's length transaction did the Appellant pay a reasonable price for his interest?
+(v) If so, what is the fair market value of the Appellant's share of the Venture Data?
+C. Analysis
+[21] Subsection 66.1(6) of the Act reads as follows:
+66.1 (6) "Canadian exploration expense" of a taxpayer means any expense incurred after May 6, 1974 that is
+(a) any expense including a geological, geophysical or geochemical expense incurred by the taxpayer (other than an expense incurred in drilling or completing an oil or gas well or in building a temporary access road to, or preparing a site in respect of, any such well) for the purpose of determining the existence, location, extent or quality of an accumulation of petroleum or natural gas (other than a mineral resource) in Canada.
+[22] This provision has two requirements - (1) the outlay must be an expense incurred, and (2) the expense must be for the purpose of determining the existence, location, extent or quality of an accumulation of petroleum or natural gas in Canada.
+The Purpose Test
+(i) Did the Appellant purchase the Venture Data for the purpose of exploration as required in paragraph 66.1(6)(a) of the Act?
+[23] The courts have generally held that it is not necessary that the statutory purpose within a provision be the taxpayer's primary motive.[1] It is sufficient that the statutory purpose be an ancillary purpose, even if the primary purpose is a tax benefit.[2] This principle was followed with respect to the application of subsection 66.1(6) in Petro-Canada v. The Queen.[3] At paragraph 34, Sharlow J.A. said:
+... the statutory purpose test in the definition of "Canadian exploration expense" may be met by an expenditure that is made for more than one purpose. However, one of the purposes of the expenditure must be the determination of the existence, location, extent or quality of an accumulation of petroleum or natural gas.
+[24] Sharlow J.A. then confirmed that in Global Communications Limited v. The Queen[4] and Gulf Canada Ltd. v. Canada[5] the courts asserted that "the purpose test in the definition of 'Canadian Exploration Expense' ("CEE") requires at least some connection between the purchase of seismic data and actual exploration work". At paragraph 35 Sharlow J.A. noted that such a test may be too strict:
+Evidence of the actual use of the seismic data for exploration could provide that connection. However, in the absence of such evidence, there must be at least a credible plan for the use of the seismic data in an exploration program within a reasonable time after its acquisition. A hypothetical connection to exploration work that might be done in the future cannot suffice.
+[25] In determining whether a taxpayer has the requisite intention to satisfy the purpose tests, the courts have looked at both the taxpayer's subjective intention and a variety of objective factors. (See Moldowan v. The Queen[6] and Stewart v. The Queen.[7]) This approach was applied to section 66 in Mickelborough v. The Queen.[8] It is not sufficient to look at the Appellant's subjective intention without determining - whether considering all the circumstances - the taxpayer had a reasonable expectation that the Venture Data would be used for the purpose of exploration.
+[26] As noted above, the Appellant testified that when he acquired his interest in the Joint Venture his primary purpose was to get in on the ground floor of an oil and gas exploration company. His subjective primary intention is corroborated by the objective evidence of his acceptance of the terms in the Memorandum. It might be that these actions alone are sufficient to meet the purpose test: because the Appellant bought his 1.57% interest in the Venture Data on the "good faith" belief that the Joint Venture would follow through on its planned exploration.
+[27] The fact that there was only a two-year time frame for the Joint Venture does not change my conclusions. Two years was sufficient to process and review the Venture Data to determine the possible exploration and development opportunities.
+[28] Although, in previous cases involving subsection 66.1(6), courts have looked at what was actually done to the land or with the seismic data, in this case it is not necessary to look beyond the Appellant's purpose in obtaining the Venture Data.
+[29] Unlike in Global Communications and Petro-Canada here, the Appellant is an individual who entered an agreement that stipulated that exploration for oil and gas would occur. As a consequence, the purpose test should be applied in relation to the Appellant's purchase. The Appellant had no control over what would be done and relied on the stated purpose in the Memorandum. There was no indication that the Appellant's reliance on the Memorandum was unreasonable.
+[30] It should be noted that CRC took a number of steps to use the Venture Data for the purpose of determining the existence, location, extent or quality of petroleum or natural gas. These steps included setting up an office, organizing an exploration team and systematically reviewing all of the Venture Data. In addition, the Venture Data was re-examined when land became available. In my opinion, such a systematic use of data is sufficient to meet the purpose test in subsection 66.1(6).
+[31] Counsel for the Respondent exerted much energy arguing that there were minimal drillings in the areas where the Venture Data was shot. Based on the evidence that was presented to me, I cannot accept the general proposition that if no drilling occurs that seismic data was not purchased for the purpose articulated in subsection 66.1(6). Seismic data is used to reduce the risk in drilling, and can be used to determine both where to drill and where not to drill. Here, I find that, the Venture Data was used for both purposes; however mainly to determine where not to drill.
+[32] The Appellant's case should be distinguished from Petro-Canada and Global Communications. In Global Communications, the Federal Court of Appeal determined that "Global failed to establish that it was carrying on the business of oil and gas exploration" or that Four Star was carrying out exploration on Global's behalf. In addition, Global failed to show "its data was being used in an organized and systematic manner in the search for oil and gas reserves with a view to a reasonable expectation of profit". In short, the Court determined that none of the seismic data was actually used in exploration.
+[33] In the trial decision of Petro-Canada v. The Queen,[9] Justice Bowie determined that only a small portion (6.5%) of the seismic data was used for the purposes of exploration. He concluded that the real purpose of acquiring the data was to transfer CEE. The Federal Court of Appeal upheld Justice Bowie's decision and determined that it is not necessary that there is actual use of the data for exploration: "a credible plan" for the use of the Venture Data, "within a reasonable period of time after its acquisition," could be sufficient.[10]
+The Debenture
+(ii) Does the debenture provided by the Appellant constitute an expense as required by paragraph 66.1(6)(a)?
+[34] Subsection 66(1) precludes the deduction of an amount that was not an expense. Justice Pratte, speaking for the Federal Court of Appeal in The Queen v. Burnco Industries Ltd. et al.[11] held:
+In our opinion, an expense, within the meaning of paragraph 18(1)(a) of the Income Tax Act, is an obligation to pay a sum of money. An expense cannot be said to be incurred by a taxpayer who is under no obligation to pay money to anyone.
+[35] This definition of an incurred expense has been used to distinguish between situations where money is owing and when it is contingent on another event. The courts have held that when the amount is contingent on whether or not something is to occur the amount is not an expense but a contingent liability. The Respondent submits that the Appellant's Note is a contingent liability.
+[36] In order to answer this question we must carefully consider the wording of the Note. The Note reads as follows:
+The undersigned, FOR VALUE RECEIVED, hereby promises to pay to COMPTON RESOURCE CORPORATION (the "Noteholder") on the 31st day of December 1999, the sum of Eighty-five Thousand ($85,000) in lawful money of Canada together with any accrued and unpaid interest on any unpaid portion of the said principal sum, which interest shall accrue from and after December 31, 1992, at the rate of eight percent (8%) per annum calculated annually and not in advance.
+The terms of repayment of this promissory note to the Noteholder shall be limited to those terms set out herein and no other action shall lie against the undersigned in respect of any covenant for payment.
+The indebtedness of the undersigned shall be reduced only in accordance with the provisions set forth in Schedule 1 attached hereto, which schedule is incorporated into and forms part of this promissory note.
+This promissory note shall be non-negotiable and non-assignable by the Noteholder without the prior written consent of the undersigned and the assignee first agreeing in writing with the undersigned to be bound by the terms hereof. The Noteholder shall have no right of recourse against any legal person other than the undersigned in respect of the covenants contained herein and shall further have no greater rights hereunder than as are conferred hereunder and in Schedule 1 attached hereto.
+DATED this 30th day of December, 1992.
+[37] Sections 2 and 3 of Schedule 1 to the Note stipulate that the interest and principal shall be paid through the proceeds of the sales of the licensed copies of the Venture Data and through the cash flow from the drilling program. If the amount is not paid in full by December 31, 1999 - that is in the event of default - section 7 provides as follows:
+7. If the indebtedness created hereby either with respect to principal or interest remains in whole or in part unpaid as of December 31, 1999, the Noteholder will appoint an independent trustee to sell for cash only:
+a. the Technical Assets; and
+b. an undivided 20% of the undersigned's Participating Interest in Petroleum Rights acquired by the Joint Venture pursuant to the Drilling Program.
+The proceeds of the sale will be allocated as follows:
+a. Technical Assets:
+i. 60% (net of commissions, if any) to the Noteholder as a reduction of amounts owing by the undersigned under this promissory note; and
+ii. 40% (net commissions, if any) to the undersigned;
+b. an undivided 20% of the undersigned's Participating Interest in Petroleum Rights acquired by the Joint Venture pursuant to the Drilling Program:[12]
+100% to the Noteholder as a reduction of amounts owing by the undersigned under this promissory note, allocated firstly as to interest and the remainder as to principal.
+Any balance owing by the undersigned on this note after the allocation of the proceeds of the sale as described above will be forgiven by the Noteholder and the undersigned will have no further liability under this promissory note.
+The actual terms of the Note require payment of 60% of the profits from the sale of the Venture Data and 20% of the Appellant's drilling rights acquired by the Joint Venture pursuant to drilling. Thus, if no profits were made the noteholder would, at a minimum, receive 60% of the proceeds of sale of the Venture Data.
+[38] Black's Law Dictionary, 8th Edition, defines "contingent liability" as:
+a liability that will occur only if a specific event happens; a liability that depends on the occurrence of a future and uncertain event.
+[39] The Oxford English Dictionary defines "contingent" as "liable to happen or not; of uncertain occurrence or incidence".
+[40] There have been several occasions where the courts have been called upon to determine whether there is a contingent liability.
+[41] In Canadian Pacific Limited v. The Minister of Revenue (Ontario)[13] the Ontario Court of Appeal determined that not knowing what the liability will be does not make it contingent. In determining there was not a contingent account the Court stated, "... where a taxpayer has incurred liability in a taxation year, and has placed money into an account to enable it to fulfil the liability, uncertainties surrounding the amount which will ultimately be paid will not per se result in the liabilities being classed as a contingent account".[14]
+[42] In Wawang Forest Products Limited and Nerak Contractors Inc. v. The Queen[15] the Federal Court of Appeal considered whether the taxpayer was entitled to deduct the full cost of work completed by the subcontractors that year even though a portion of the payments were held back until the workers produced clearance certificates from the Workers' Compensation Board.
+[43] Justice Sharlow held that the payments were not contingent liabilities. In reaching this conclusion, Justice Sharlow noted that the three uncertainties in Samuel F. Investments Limited v. M.N.R.[16] do not by themselves establish a test to determine whether a liability is contingent.[17] Instead, Sharlow J.A. reaffirmed that the generally accepted test was set down by Lord Guest in Winter and Others (Executors of Sir Arthur Munro Sutherland deceased) v. Inland Revenue Commissioners.[18] At page 262 Lord Guest said:
+I should define a contingency as an event which may or may not occur and a contingent liability as a liability which depends for its existence upon an event which may or may not happen.
+[44] At paragraph 15 Sharlow J.A. further stated: "nor does a legal obligation to pay an amount become contingent merely because payment may be postponed in certain events or no date is stipulated for payment."
+[45] In Frederick W. Hill v. The Queen,[19] Justice Miller determined that there was no contingency where the mortgagee could not seek any deficiency but could take possession or sell the land. In reaching this conclusion Miller, J. said, "To deny interest deductibility on the basis that a limited recourse mortgage creates a contingent liability, creates the possibility of every such mortgagor being denied any interest deductibility."[20]
+[46] When we look strictly at the terms of the Note there are a number of apparent uncertainties. However, in the light of Wawang and Canadian Pacific Limited, I find that the Note is not a contingent liability simply because we do not know how much or at what time the promissory note will be paid. However, although there is a provision that requires the noteholder to appoint a trustee to sell the Venture Data the actual sale of the Venture Data could be contingent if there was some uncertainty if the Venture Data can be sold.
+[47] It is in this instance where the terms of the contract may not be enough to determine whether or not a liability is contingent. In Webster et al. v. The Queen[21] Bowman A.C.J. determined that despite the fact that the seismic data in question was purchased from the same parties under substantially similar terms as those in Global Communications the matter should proceed to trial.
+[48] Associate Chief Justice Bowman's decision was upheld by the Federal Court of Appeal where Rothstein J.A. wrote for the majority:
+In Wawang, supra, the question of contingency was dependent on the terms of certain contracts. In my opinion, the fact that the terms of the contracts were the relevant considerations in Wawang, supra, does not necessarily mean that, in every case, it will only be the terms of the contracts that will be determinative of whether a liability is contingent or absolute. Each case will depend on its own facts.
+Referring to the observation in Wawang, supra, that the risk of non-payment does not render a liability contingent, Strayer J.A. says that the realization of revenues or sales proceeds, even if highly probable, would not make a liability absolute. However, as I understand it, it was the Minister's concern that the revenues and proceeds of sale of the seismic assets would be insufficient to satisfy the tax appellant's liability that gave rise to the reassessment. By adducing valuation evidence, they apparently wish to dispel this concern. It may be that whether the liability is contingent or absolute will not turn on valuation evidence and will be based on whether the seismic assets is or is (sic) not within the discretion of the tax appellants if revenues are insufficient to pay their liability. However, I would, at this stage, prefer to leave these considerations to the Trial Judge.[22]
+[49] Ultimately, to determine whether the Appellant's Note is a contingent liability it is necessary to look at the surrounding facts. The ongoing market for quality seismic data, and relative rarity of such quality (especially at the time the Venture Data was purchased) leads me to the determination that the Venture Data could be sold. I find that at the time the Appellant purchased his interest in the Venture Data there was no contingent liability because the Venture Data was required to be and could be sold upon default.
+[50] The fact that the noteholder has not yet appointed an independent trustee does not make the Note contingent. To determine otherwise would create an unnecessary ambiguity within our tax system and encourage a system where a transaction that is originally certain could become contingent due to someone's failure to comply with a contract or some other uncertain event.
+Arm's Length Transaction
+(iii) Was the Appellant's purchase of the 1.57% interest in the Venture Data a non-arm's length transaction?
+[51] This was not an issue in the Minister's original assessing position. As a consequence, the Respondent has the burden of proving that this is a non-arm's length transaction.
+[52] Subsection 251(1) of the Act provides:
+251. (1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm's length; and
+(b) it is a question of fact whether persons not related to each other were at a particular time dealing with each other at arm's length.
+[53] The parties are in agreement that it is not an issue of whether the Appellant and Mr. Sapieha are "related persons".
+[54] The Appellant's counsel submits that Mr. Sapieha was strictly an agent and that the Court has to look through the agency to see if the Appellant was dealing at arm's length with CRC. The Appellant's counsel submits that the issue is the Appellant's relationship to CRC.
+[55] The Respondent's counsel submits that the Court should only look at Mr. Sapieha's relationship to CRC and find that because Mr. Sapieha was the sole director and shareholder of CRC the transaction was non-arm's length.
+[56] In Peter Cundill & Associates Ltd. v. The Queen[23] McArthur J. discussed the factors to be considered in determining whether there is an arm's length transaction. He stated that the parties are not at arm's length: (1) if there is the existence of a common mind that dictates the terms of the bargain on both sides of the transaction; (2) if the parties to the transaction are acting in concert and without separate interests; or (3) if there is de facto control.
+[57] In the case at bar, the Appellant chose to accept the terms within the Memorandum specifying that CRC would be the operator of the Joint Venture and purchase an undivided interest in the Venture Data for the investors. The Memorandum indicated that the exploration was to occur in Western Canada. Thus, although Mr. Sapieha devised the plan and introduced the Appellant to the Memorandum, it was ultimately the Appellant's decision to invest. No evidence was presented at trial that indicated that Mr. Sapieha influenced the decision of the Appellant or any of the Joint Venture participants. The appropriate relationship to assess is that between CRC and the Appellant.
+[58] The Appellant chose to subscribe to the Joint Venture and executed the subscription agreement, confirming his agreement to be bound by the Joint Venture Agreement and the Memorandum.
+[59] In H.T. Hoy Holdings Limited v. The Queen[24] McArthur J. addressed the significance of choice in arm's length transactions:
+Of importance in establishing that the vendor and the purchaser dealt with each other at arm's length is of course the fact that Mr. Cloutier did not have to purchase Plaza nor did Mr. Hoy have to sell to him. Each party had his or its own individual needs [...] No one was obliged to act. Each participant was looking after his or its own interest while having a common goal.
+[60] There is no evidence to indicate the Appellant and CRC, through Mr. Sapieha, acted in concert without separate interests. Nor was there any evidence that Mr. Sapieha unilaterally imposed the purchase of the Venture Data on the Appellant or had the power to do so. There was no collusion to inflate the price of the Venture Data because the Appellant had accepted the terms of the Memorandum which limited the purchase price to not higher than the lowest valuation. Here, there is no party in a position to impose its will on others and the parties cannot be said to be acting in concert without separate interests.[25] I have therefore concluded that the purchase by the Appellant of the 1.57% interest in the Venture Data was an arm's length transaction.
+The Reasonableness of the Expense
+(iv) If the purchase by the Appellant was an arm's length transaction did the Appellant pay a reasonable price for his interest?
+[61] Section 67 of the Act provides:
+67. In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount that is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+[62] Section 67 requires that the expense be reasonable in the circumstances. In this situation, the Appellant paid $100,000.00 in return for an undivided interest in the Venture Data. Pursuant to the Joint Venture Agreement, dated December 31, 1992, this undivided interest gave the Appellant the ability to use the Venture Data for independent exploration and to receive a percentage of any proceeds and income from the PNG properties, Drilling Program and sales of copies of the Venture Data.
+[63] In deciding to make an investment in the Joint Venture, the Appellant relied on the terms of the Memorandum which stated, "The purchase price of the Technical Data Base will not be higher than the lowest appraised value received from three experienced, independent valuators".
+[64] Before the Venture Data was purchased, on behalf of the Joint Venture participants, Mr. Sapieha took several steps to determine an appropriate purchase price. He reviewed the Data (which included the Nova Scotia data) and looked at it on an area-by-area basis. In arriving at a valuation, in consultation with Mr. Fairs and Mr. McCombs, he looked at the replacement cost of the Data and considered the fact that it was likely he could have the Data shot at a reduced price because the market was depressed and crews were looking for business. Mr. Sapieha was unaware of previous sales of the Data and believed it was valued at $30,300,000.00.
+[65] As indicated in the Memorandum, Mr. Sapieha obtained three appraisals from Mr. Jaskela, Mr. Curts and Mr. Webb. Messr. Jaskela, Curts and Webb were individuals who regularly valued seismic data. These independent appraisals of the Venture Data came back significantly higher than the amount of the purchase price.
+[66] Mr. Jaskela, a professional geophysicist, appraised the Venture Data at $39,787,800.00. He testified that in doing so, he determined the cost to acquire or shoot the Venture Data and then applied a discount of 25%- 50% per kilometre. The discount varied by area and was based on the quality of the Venture Data. There was no reduction based on the age of the Venture Data as he opined that seismic data retains its value for over 30 years.
+[67] Mr. Brian Curts, a geophysicist from Curts Seismic Ltd. testified that in determining the value of seismic data he primarily looks at the exploration value. Mr. Curts first looked at the cost related to the location of the Venture Data and then at the "source effort". Once he determined the cost to re-shoot the Venture Data in 1992, he added costs such as permits. He then applied a discount to the total based on lack of quality, age and the need to reprocess some of the Venture Data. He applied a separate price for the 3-D data. He estimated the Venture Data was worth $41,930,760.00.
+[68] Mr. Webb, a professional Engineer from Citadel Engineering Ltd., testified that they verified the data length and looked to see if there were any existing reserve accumulations that would enhance or reduce the price/value per kilometre per program. He established the sales value of a licensed copy by calling five or more brokerage firms and then used a multiple of the replacement value to arrive at fair market value. He determined the replacement of the Venture Data value was $ 56,285,000.00 dollars, the estimated resale value was $32,866,000.00 and the fair market value was $31,912,000.00. Mr. Webb also valued the Nova Scotia data.
+[69] In my opinion, it is relevant that on a previous occasion, Mr. Jaskela and Mr. Webb had been asked by Mr. McCombs (a former business partner of Mr. Sapieha) to value the seismic data that the Petroleum Capital Partnership was to purchase. During the period that Mr. Sapieha was creating his business plan he was in discussions with Revenue Canada (as it then was) about the valuations of the seismic data used in that partnership. The purchase price was approximately $20,500,000.00 and was based on those valuations. The investors were assessed because Revenue Canada determined the purchase price of the data was in excess of the fair market value. By a letter dated September 30, 1992, Revenue Canada advised Mr. Sapieha that the settlement offer relating to "The Petroleum Capital 1987-1 Partnership", which reduced the tax deduction by approximately one-third, was accepted. Mr. Webb and Mr. Jaskela used a similar method in appraising that seismic data (i.e. the seismic data in the Petroleum Capital 1987-1 Partnership) as they used in determining a value for the Venture Data.
+[70] The purchase price of the Data (including the Venture Data) was less than two-thirds of Mr. Webb's appraisal. Mr. Webb's appraisal was the lowest for the Venture Data.
+[71] Although in the trial decision of Petro-Canada Bowie J. discredited the replacement cost methodology in determining the fair market value of seismic data, I was advised that at the time of the transaction in question it was the standard approach of businessmen in Calgary. Canadian Hunter used that method in obtaining a value of $27,000,000.00 for the Data and Mr. Webb testified that he did not know of anyone in the oil business with the designation of valuator. Thus while it may be that relying on the replacement cost methodology is inappropriate for determining the fair market value of seismic data, I find it is not unreasonable for such valuations to be relied upon for this transaction.
+[72] In Petro-Canada Sharlow J.A. reconfirmed the applicability of the test for reasonableness as articulated in Gabco Limited v. M.N.R.[26] At page 5216 of Gabco Cattanach J. articulated the test for determining whether something was reasonable:
+It is not a question of the Minister or this Court substituting its judgment for what is a reasonable amount to pay, but rather a case of the Minister or the Court coming to the conclusion that no reasonable businessman would have contracted to pay such an amount having only the business consideration the appellant had in mind.
+[73] Given the highly speculative nature of the oil and gas exploration industry, the fact that seismic data is very difficult to value as well as the experience of Mr. Sapieha in the oil and gas exploration industry, this is not an appropriate case to question the participants' business judgment. This is not a situation where paying more than the fair market value would be unreasonable. However, I find that a reasonable businessman in the Appellant's position would have paid at least $100,000.00 in return for the undivided interest in the Venture Data and the unlimited access that the Appellant obtained.
+[74] Since this was an arm's length transaction, and the expense was reasonable this is not an issue of fair market value. That being said, I will briefly address the evidence relating to the fair market value. It is significant that there has been no qualified opinion relating to the specific value of the Appellant's 1.57% undivided interest. Mr Siebert, the only expert qualified to opine on the fair market value of the Venture Data, was not instructed by the Respondent to value the Appellant's interest. Mr. Siebert's opinion was that the fair market value of the Venture Data would not exceed $6,000,000.00. As a consequence, I find that it does not address the issue at hand.
+[75] Moreover, I have trouble accepting much of Mr. Siebert's opinion related to the value of the entire Venture Data for several reasons. Mr. Siebert failed to take into account the exploration value of the Venture Data and the fact that there might have been a special purchaser. He was also conservative in his cash flow projections and discount rates.
+[76] For the reasons as outlined above I have concluded that the appeals should be allowed, with costs.
+Signed at Vancouver, British Columbia, this 26th day of January 2005.
+"L.M. Little"
+Little J.
+CITATION:
+2005TCC55
+COURT FILE NO.:
+97-3628(IT)G
+STYLE OF CAUSE:
+Allan McLarty and
+Her Majesty the Queen
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+September 8-12, 15-19, 22-23, 25-26,
+2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+January 26, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Carman R. McNary, Jehad Haymour,
+Denny Kwan
+Counsel for the Respondent:
+Wendy Burnham, Deborah Horowitz
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jehad Haymour, Carman R. McNary,
+Denny Kwan
+Firm:
+Fraser, Milner, Casgrain
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Continental Bank Leasing Corp. v. Canada, [2001] S.C.R. 1082; Backman v. Canada, [2004] F.C.R. 158; Ludco Enterprises Ltd. v. Canada, [2001] 2 S.C.R. 1082.
+[2] Walls v. The Queen, 2002 DTC 6960 (S.C.C.).
+[3] 2004 DTC 6329 (F.C.A) [Petro-Canada].
+[4] 99 DTC 5377 (F.C.A.) [Global Communications].
+[5] 92 DTC 6123 (FCA) [Gulf].
+[6] 77 DTC 5213 (S.C.C).
+[7] 2002 DTC 6969 (F.C.A).
+[8] 99 DTC 47 (T.C.C.).
+[9] 2003 DTC 94 (T.C.C.) [trial decision of Petro-Canada].
+[10] Ibid, paragraph 35.
+[11] 84 DTC 6348 (F.C.A.).
+[12] As of the date of the trial the noteholder had not appointed an independent trustee.
+[13] 99 DTC 5286 (Ont. C.A.) [Canadian Pacific Limited].
+[14] Ibid, paragraph 43.
+[15] 2001 DTC 5212 (F.C.A.) [Wawang].
+[16] 88 DTC 1106 (T.C.C.).
+[17] Ibid, where it was noted that a liability could be conditional if there was "uncertainty in respect of any of these three things: (1) whether the payment will be made; (2) the amount payable; or (3) the time by which payment shall be made."
+[18] [1963] A.C. 235 (H.L.).
+[19] 2002 DTC 1749 (T.C.C.).
+[20] Ibid, paragraph 42.
+[21] 2001 DTC 738 (T.C.C.).
+[22] [2002] F.C.J. No. 773.
+[23] 91 DTC 5543 (T.C.C.).
+[24] 97 DTC 1180 (T.C.C.).
+[25] Ibid, Beaumont v. The Queen, 86 DTC 6264; Special Risk Holdings Inc. v. The Queen, 86 DTC 6035.
+[26] 68 DTC 5210 (Exch. Ct.) [Gabco].

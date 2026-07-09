@@ -1,0 +1,305 @@
+---
+title: "Ferlaino v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/143869/index.do"
+last_modified: "2016-04-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 105"
+citation2: ""
+neutral_citation: "2016 TCC 105"
+decision_date: "2016-04-28"
+language: "en"
+item_id: "143869"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3101
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:52:38.530000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "809a44a452846cab23757c2a2540e08021bec8ea5c031f0919363b2129f39ecf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ferlaino v. The Queen
+
+- Citation: 2016 TCC 105
+- Decision date: 2016-04-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3101, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ferlaino v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-04-28
+Neutral citation
+2016 TCC 105
+File numbers
+2015-1025(IT)I
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-1025(IT)I
+BETWEEN:
+NATALE FERLAINO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on November 18, 2015, at Montreal, Quebec.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+Vincent Dionne
+Counsel for the Respondent:
+Valerie Messore
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2010 and 2012 taxation years are dismissed, without costs.
+Signed at Ottawa, Canada, this 28th day of April 2016.
+“Guy Smith”
+Smith J.
+Citation: 2016 TCC 105
+Date: 20160428
+Docket: 2015-1025(IT)I
+BETWEEN:
+NATALE FERLAINO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Smith J.
+Overview [1] This is an appeal from reassessments made by the Minister of National Revenue (the “Minister”) for the 2010 and 2012 taxation years, and relates to the calculation of employment benefits received by Natale Ferlaino (the “Appellant”) following the exercise of employee stock options denominated in US dollars.
+[2] It is not disputed that the Appellant exercised the stock options at a profit and that he is deemed to have received an employment benefit in the taxation years in which they were exercised. It is also agreed that he is entitled to a deduction equal to one-half of the benefit for the relevant taxation year.
+[3] While it is also agreed that the Appellant was required to report the benefit in Canadian dollars, at issue is the calculation of the benefit in Canadian dollars.
+[4] The Appellant calculated the benefit with reference to the exercise price of the shares converted into Canadian dollars using the exchange rate effective the date of the grant of the stock options. The Minister reassessed the Appellant on the basis that he should have converted the exercise price of the shares to Canadian dollars effective on the date that the stock options were finally exercised.
+[5] For reasons set out below, this appeal should be dismissed on the basis that the Minister properly converted the exercise price of the shares using the spot rate applicable on the date the stock options were exercised.
+Factual Background [6] The material facts are not in dispute. The Appellant was a senior employee of Pratt & Whitney Canada (“PWC”), a wholly-owned subsidiary of United Technologies Corporation (“UTC”), a Delaware corporation whose shares trade on the New York Stock Exchange (“NYSE”). As a senior employee, he received stock options to purchase shares of UTC (the “shares” or the “securities”).
+[7] The Appellant was a resident of Quebec. According to his testimony, he earned a Bachelor of Commerce degree at Concordia University in 1974 and worked for a number of technology companies including Nortel, BCE and finally PWC, where he was involved in tax compliance and planning. He held the position of Director of taxes at PWC until his retirement in 2012.
+[8] UTC offered stock options to key employees through an incentive plan designed to attract, retain and motivate senior employees of UTC and its subsidiaries, which included employees of PWC such as the Appellant.
+[9] The plan is described in a document entitled “2005 Long Term Incentive Plan” (the “Plan”), an attachment to a prospectus filed with the US Securities and Exchange Commission. A copy was provided to the Court.
+[10] The Plan provides that an “option” entitles a participant to purchase shares of UTC at a specified price and includes a number of relevant definitions that I would paraphrase as follows:
+“Exercise Price” - is the price fixed at the time the stock options are granted. It must be equal to or greater than the fair market value of the UTC shares traded on the NYSE on that day;
+“Term” - the stock options are valid for a maximum period of 10 years from the date of the grant (though it may be less in the event of the participant’s death or termination of employment);
+“Vesting” - an option vests and becomes exercisable at such time or times, or subject to such terms and conditions, as are set out in the award agreement;
+“Method of Exercise” – a vested option may be exercised in whole or in part at any time prior to its expiration date by giving notice to UTC followed by payment of the exercise price. This may be achieved either by:
+i) delivery of the UTC shares in exchange for payment of the exercise price; or
+ii) a broker-assisted transaction in which the designated broker commits to delivering the proceeds in satisfaction of the exercise price to UTC in exchange for the shares issuable upon the exercise of the option.
+[11] The Appellant confirmed and it is not disputed that the stock options that are the subject of this appeal vested after three years and were subject to expiry after ten years from the date of the grant. In terms of how the stock options were exercised, the Appellant had a choice between the two methods noted above.
+[12] On December 1, 2000, he received an award letter from UTC confirming the grant of 1000 stock options at an exercise price of $35.25 US dollars per share and on February 4, 2002, he received a second letter confirming the grant of 500 stock options with an exercise price of $33.495 US dollars per share.
+[13] As explained by the Appellant during his testimony, one of the advantages of receiving stock options was that the exercise price was locked-in from the date of the grant for a period of up to ten years but he was not required to advance any capital at any time. He viewed this as the equivalent of an interest-free loan.
+[14] The UTC shares eventually increased in value and, with the expiry date approaching (in both instances), the Appellant decided to lock-in his gains.
+[15] Since he preferred not to hold the shares for investment purposes, he chose to exercise the stock options using the second method noted above (which he described as a “cashless” exercise), using the services of the designated broker known as UBS, a Swiss-based investment dealer with operations in the US.
+[16] The Appellant had access to an online account and was able to enter trading instructions. The net effect of the cashless exercise was that a sufficient number of treasury shares were issued by UTC, delivered to the designated broker and immediately sold according to instructions given by the Appellant.
+[17] Following the date of settlement of the order, the designated broker would issue a cheque to UTC representing the “Exercise Price”, and the balance of the proceeds of sale, net of transaction costs, was forwarded to the Appellant.
+[18] On April 26, 2010, the Appellant completed a cashless exercise of 1000 stock options, acquiring UTC shares at $35.25 US dollars per share and immediately selling them at $75.75 US dollars per share.
+[19] On January 25, 2012, he completed a cashless exercise of 500 stock options, acquiring UTC shares at $33.495 US dollars per share and immediately disposing of them in the open market at $78.60 US dollars per share.
+[20] During cross-examinations, it became apparent that the Appellant was unable to produce a copy of the cheque or transaction slip from UBS or to provide any other form of evidence as to the amount actually received.
+[21] Counsel for the Appellant argued that since the material facts were not in dispute, there was no need to attempt to obtain and provide such documentation. I accept this explanation but will provide further comments below.
+[22] During examination in chief, the Appellant explained his understanding of the cashless exercise and it was apparent that he viewed the granting of the stock options as one transaction and the process of acquiring and selling the shares as another transaction:
+Q: Let’s get back to the tax treatment that you used in terms of essentially declaring or reporting a benefit, a tax benefit earned under the stock option plan:
+A: . . . So when I exercised my shares, the options, in my opinion, it is a matter of how do I calculate the employment benefit? Well, the employment benefit is in Canadian dollars and I must use exchange rates applicable on the exercise date, which is when I exercised and sold. And we use the term a cashless exercise, meaning when I went online and I exercised the options, there was no cheque that I issued for the grant price and everything was done; it was sold. And then UBS, the broker, issued two cheques, one to UTC for the grant price, and one to me for the net amount.
+. . .
+Q: And as for the tax revenues?
+A: . . . in calculating that employment benefit I compared the selling price of the shares, as I exercised and sold, in US dollars at the exchange rate on the date that the shares were sold and exercise, and I compared that to the price or the cost of acquiring those shares, the options, using the grant price and the exchange rate on the date that the options were granted.
+And to me, that is critical and it’s important to note that the employment benefit calculation is in Canadian dollars and must look at – there’s two events, two taxable events, two tax transactions that we’re talking about. Not one as the Minister has reassessed me, but two. One is what is my cost? And for purposes of Canada my cost is in Canadian dollars and the only relevant spot rate is the rate of the year 2000 when the options were granted. And the second transaction is when I exercised and sold. [1]
+[23] On the basis of the Appellant’s understanding that the granting of the stock options was one transaction and the exercise of the options and sale of the shares was another transaction, he completed his income tax return for the 2010 taxation year reporting the following transaction:
+Result in US dollars
+Declared for 2010
+Proceeds of Disposition
+US$75,750.00
+CAD$75,682.00*
+Exercise price
+US$35,250.00
+CAD$54,124.00**
+Net proceeds of Sale
+US$40,500.00
+CAD$21,558.00
+* @ Exchange rate of 0.9991
+** @ Exchange rate of 1.53545
+[24] The Appellant used the same methodology to complete his income tax return for the 2012 taxation year and reported employment income calculated as follows:
+Result in US dollars
+Declared for 2012
+Proceeds of Disposition
+US$39,300.00
+CAD$39,821.00*
+Exercise price
+US$16,747.50
+CAD$26,695.00**
+Net proceeds of Sale
+US$22,552.50
+CAD$13,126.00
+* @ Exchange rate of 1.0132619
+** @ Exchange rate of 1.59401185
+[25] In both instances, he calculated his cost base with reference to the Canada/US exchange rate in effect on the date the stock options were granted and his proceeds of sale on the basis of the Canada/US exchange rate in effect on the date of exercise. The Minister reassessed the Appellant for both the 2010 and 2012 taxation years on the basis that he was required to report the actual cost of the securities acquired and converted into Canadian dollars using the Canada/US exchange rate in effect on the date the stock options were exercised.
+[26] The Minister took the position that the appropriate Canada/US exchange rate on April 26, 2010 was 0.9984, resulting in employment income of $40,435, and the Appellant was reassessed accordingly.
+[27] The Minister also took the position that the appropriate Canada/US exchange rate on January 25, 2012 was 0.9956, resulting in employment income of $22,451, and the Appellant was reassessed accordingly.
+[28] In both instances, the Minister was of the view that the Appellant was entitled to a corresponding deduction equal to one-half or 50% of the employment benefit, pursuant to paragraph 110(1)(d) of the Income Tax Act[2] (the “ITA”).
+The Appellant’s position [29] The Appellant acknowledges that any gain arising from the exercise of employee stock options is deemed to be an employment benefit but he argues that the benefit received on the date of the grant of the stock options is suspended until such time as they are exercised.
+[30] He argues that his employment gain is to be calculated as the difference between i) the value of the securities at the time he exercised his stock options (which refers to the market value of the UTC shares on the NYSE on the date of exercise) and ii) the amount paid or to be paid for the securities (which refers to the exercise price) as set out in the stock option agreement.
+[31] He argues that the amount set out in the option agreement is fixed in time and that he must ascertain that amount for tax purposes, using the Canada/US exchange rate effective on the date of the grant.
+[32] The Appellant finds support for this argument in paragraph 110(1.5)(a), which provides that the exercise price of stock options “shall be determined without reference to any change in the value of a currency of a country other than Canada, relative to Canadian currency, occurring after the agreement was made”. He argues that Parliament has expressed the view that any changes in the Canada/US exchange rate occurring after the date of the grant are to be ignored and that this is consistent with his view that the benefit is suspended until the date of exercise.
+[33] The Appellant acknowledges that he is required to report his Canadian tax results for the taxation year in Canadian currency. He finds further support for his position in paragraph 261(2)(b), which provides that “if a particular amount that is relevant in computing those Canadian tax results is expressed in a currency other than Canadian currency, the particular amount is to be converted to an amount expressed in Canadian currency using the relevant spot rate for the day on the particular amount arose.”
+[34] The Appellant argues that the time when “the particular amount arose” is when the stock options were granted and that is the appropriate time to calculate the cost base of the shares by converting the exercise price expressed in US dollars to Canadian dollars by referring to the relevant spot rate on that date.
+[35] The Appellant also refers to the French version of paragraph 261(2)(b) and the expression “selon le taux de change au comptant affiché le jour ou elle a pris naissance” to emphasize the point that he must calculate his Canadian tax results from the time the stock options were granted.
+The Respondent’s position [36] The Respondent argues that the relevant date to determine the cost base of the shares is when the stock options are exercised, and that this is apparent on the plain reading of paragraph 7(1)(a), adding that Parliament has expressed the view that until such time as the stock options are exercised, an employee is deemed neither to have received nor enjoyed any benefit.
+[37] The Respondent argues that the reference to Canadian currency in paragraph 110(1.5)(a) and to changes “occurring after the agreement was made” is simply to ensure that stock options that are out-of-the-money (where the exercise price is at or above the market value of the underlying stock) are not found to be in-the-money as a result of currency exchange fluctuations occurring after the date of the grant (such as when the Canadian dollar is trading above the US dollar).
+[38] The Respondent adds that employment income, including employment benefits that may arise from the exercise of employee stock options, are taxed on a cash basis in the year they are received and not on an accrual basis.
+[39] Since the expression “Canadian tax results” is defined in paragraph 261(1)(a) as “the amount of income, taxable income . . . of the taxpayer for the taxation year”, the Appellant was not required to report any income relating to the stock options until the taxation year when they were exercised.
+[40] On the basis of the above, the Respondent argues that the cost base of the shares must be determined in the taxation year when the stock options were actually exercised, using the spot rate applicable at that time.
+The Law and Analysis A. Employee stock options taxable as an employment benefit [41] Sections 5 to 8 (located in Part I, subdivision (a) of the ITA) deal with the computation of income from an office or employment. While section 5 refers to “salary, wages and other remuneration including gratuities”, section 6 provides for the taxation of a broad variety of employments benefits.
+[42] Stock options granted to employees are also treated as an employment benefit but dealt with separately in section 7. It provides as follows:
+7. (1) Agreement to issue securities to employees — Subject to subsection (1.1), where a particular qualifying person has agreed to sell or issue securities of the particular qualifying person (or of a qualifying person with which the particular qualifying person does not deal at arm’s length) to an employee of the particular qualifying person (or of a qualifying person with which the particular qualifying person does not deal at arm’s length),
+(a) if the employee has acquired securities under the agreement, a benefit equal to the amount, if any, by which
+(i) the value of the securities at the time the employee acquired them
+exceeds the total of
+(ii) the amount paid or to be paid to the particular qualifying person by the employee for the securities, and
+(iii) the amount, if any, paid by the employee to acquire the right to acquire the securities
+is deemed to have been received, in the taxation year in which the employee acquired the securities, by the employee because of the employee’s employment;
+. . .
+7. (3) Special provision — If a particular qualifying person has agreed to sell or issue securities of the particular person, or of a qualifying person with which it does not deal at arm’s length, to an employee of the particular person or of a qualifying person with which it does not deal at arm’s length,
+(a) except as provided by this section, the employee is deemed to have neither received nor enjoyed any benefit under or because of the agreement; and
+[My emphasis.]
+[43] As a general rule, employment income and benefits are taxed on a cash basis and must be reported in the taxation year in which they are received.
+[44] This is also apparent from a reading of paragraph 7(1)(a), which begins with the words “if the employee has acquired securities under the agreement,” followed by a formula for the calculation of the employment benefit. The word “if” speaks to the timing of the receipt of the securities following the exercise of the stock options. If the stock options are not exercised, there is no benefit.
+[45] In other words, section 7 defers the recognition of the employment benefit derived from the granting of stock options until such time as it is quantifiable: see Rogers Estate v R., 2014 TCC 348 at paragraphs 28 and 29.
+[46] Any doubt as to whether an employee has received a taxable benefit effective the date of the grant of the stock options is resolved by a reading of paragraph 7(3)(a). It provides that an employee is “deemed to have neither received nor enjoyed any benefit under or because of the agreement”. Any perceived economic benefit is to be ignored for tax purposes.
+[47] This is not to suggest that the Appellant had not received an economic advantage when the stock options were granted to him. As acknowledged in his testimony, the stock options provided him with the opportunity of locking-in the price of the UTC shares for up to ten years without advancing any capital. There was of course a certain risk (and I use the word “risk” loosely since it did not involve a loss of invested capital) that the stock options would not vest (for example, if he left his employment prior to vesting) or that they would expire worthless if the market value declined below the exercise price prior to expiry.
+[48] While the Appellant clearly received an economic advantage when the stock options were granted to him, the question is whether he received a taxable benefit. The response to this is that Parliament has decided, for policy reasons, that employee stock options are not taxable as an employment benefit until such time as they are exercised. As indicated by Hogan J. in Rogers Estate, supra:
+38. . . . A textual, contextual and purposive reading of section 7 of the Act leads me to conclude that this provision is meant to provide a complete code for the taxing of benefits arising under or because of a stock option agreement. The text of paragraph 7(3)(a) is clear and unambiguous: it deems an employee to have neither received nor enjoyed any benefit under or because of a stock option agreement, except as provided by that section.
+[49] I agree that section 7 is intended as a complete code for the taxation of employee stock options. Other cases have similarly concluded that the benefit that arises under this section is to be calculated from the moment a taxpayer obtains legal ownership or the incidence of legal ownership in and to the shares: See Steen v Canada, [1987] 1 FC 139 at paragraph 29, confirmed on appeal to the Federal Court of Appeal and: Steen v R., [1988] 1 C.T.C. 256, where Hugessen JA, for the Court stated:
+3. The appellant argues that “the value of the shares at the time he acquired them” is the option price. He is plainly wrong. He acquired the shares only at the time he exercised the option, not when it was granted. There is no basis for thinking that their value then was any different from that of all other outstanding shares of the same class . . . it is the price freely established on the Exchange on the date of acquisition . . .
+[50] The decision of Mathieu v Canada, 2014 TCC 207 (at paragraphs 48 and 49) cited by the Appellant and the decision of Van de Velde v Canada, 2007 TCC 533 (at paragraph 11) cited by the Respondent both support the proposition that the appropriate date to quantify the benefit is at the date of exercise.
+[51] While the express terms of the stock option agreement (notably the exercise price, vesting, expiry, method of exercise) are critical from a contractual point of view, we need to look at the legislation to determine how the benefit that arises from the exercise of the stock option is to be calculated for tax purposes.
+[52] In my view, there is nothing in section 7 that suggests that the cost base of the shares should be established as of the date of the grant of the stock options. On the contrary, I am of the view that the words “the amount paid or to be paid . . . for the securities”, as set out in subparagraph 7(1)(a)(ii), refer to the amount actually paid to UTC on the date when the stock options were exercised.
+[53] I find that this conclusion is consistent with the notion that employment income is taxed on a cash basis and not on an accrual basis. If the cost base of the shares was fixed for tax purposes effective the date of the grant of the stock options, there would in fact be an accrual of the benefit from that date.
+[54] The Appellant, while acknowledging that section 7 defers the recognition of the employment gain until the date of exercise, has argued that there was nonetheless a benefit but that it was suspended until the date of exercise.
+[55] Before addressing the argument that the benefit was “suspended” from the date of grant to the date of exercise, a further point needs to be made to emphasize the distinction between employment income and capital gains treatment. Where shares are acquired as a result of the exercise of stock options and retained for investment purposes, the deemed employment benefit is used to determine the adjusted cost base of the shares for capital gains purposes.
+[56] Paragraph 53(1)(j) (located in Part I, subdivision (c) of the ITA, dealing with taxable capital gains and losses) provides for an adjustment to the adjusted cost base of shares acquired as a result of the exercise of employee stock options:
+53(1) Adjustments to cost base — In computing the adjusted cost base to a taxpayer of property at any time, there shall be added to the cost to the taxpayer of the property such of the following amounts in respect of the property as are applicable:
+. . .
+(j) share or fund unit taxed as stock option benefit — if the property is a security (within the meaning assigned by subsection 7(7)) and, in respect of its acquisition by the taxpayer, a benefit was deemed by section 7 to have been received in any taxation year that ends after 1971 and begins before that time by the taxpayer or by a person that did not deal at arm’s length with the taxpayer or, if the security was acquired after February 27, 2000, would have been so deemed if section 7 were read without reference to subsections 7(1.1) and (8), the amount of the benefit that was, or would have been, so deemed to have been received;
+[My emphasis.]
+[57] Therefore, had the Appellant decided to exercise his stock options and acquire the UTC shares for investment purposes, the employment benefit deemed to have been received by virtue of section 7 would have been added to the exercise price for the computation of the adjusted cost base of the shares. Were this not the case, the employment benefit, together with any further increase in the value of the shares following the exercise date, could be taxed again as a capital gain.
+[58] The Appellant referred the Court to the so-called “Gaynor principle” derived from the decision of Gaynor v Canada (Minister of National Revenue), [3] which dealt with a situation where US shares, acquired in a US dollar account, were eventually disposed of, triggering a gain. The taxpayer converted the capital gain (the difference between the cost of the shares and the proceeds of disposition) using the average Canada/US exchange rate for the taxation year of disposition and reported a capital gain in Canadian currency on that basis.
+[59] Sarchuk J. held that the cost base of the US securities was to be determined with reference to the exchange rate at the time of acquisition rather than the exchange rate at the date of disposition. This decision was confirmed on appeal by the Federal Court of Appeal in Gaynor v Canada (FCA),[4] where Pratte J.A held:
+. . . the cost of the securities to the appellant must be expressed in Canadian currency at the exchange rate prevailing at the time of their acquisition while the valuation of the proceeds of disposition of the same securities must be made in the Canadian currency at the rate of exchange prevailing at the time of disposition.
+[60] The Appellant has argued that the Gaynor decision was correctly decided and that it supports his position that the benefit accrues to him from the date of the grant but that it is suspended until such time as the stock options are exercised.
+[61] I am far from being convinced that this is a proper application of the Gaynor principle for the simple reason that, as indicated above, while the recipient of employee stock options may have received an economic advantage or benefit on the date of the grant, Parliament has decided, for policy reasons, that there is a deferral of that benefit until it is quantifiable; that is, until such time as the stock options are exercised. Any other benefit is to be ignored for tax purposes.
+[62] The Appellant cannot have his cake and eat it too. Having reported the gain from the exercise of his stock options as an employment benefit and claimed the one-half deduction provided for in paragraph 110(1)(d), he cannot then superimpose capital gains treatment by tracking his adjusted cost base using the exchange rate on the date of the grant as if he had acquired capital property.
+[63] I would conclude this analysis with the observation that employee stock options must not be confused with publicly traded stock options (taxable under section 39 and more specifically under section 49). Although both are derivative instruments in the sense that their value is inextricably linked to the value of a publicly traded security, the latter stock options are actually purchased and their adjusted cost base is established as of the date of acquisition. While such stock options are valued on the basis of intrinsic value (whether the exercise price is below the market value) and time value (the time remaining to expiry), the net effect of paragraph 7(3)(a), consistent with the authorities cited above, is that employee stock options have no value for tax purposes until they are exercised.
+[64] Even if the Appellant had paid some money to UTC in exchange for the stock options on the date of the grant, he would still not be entitled to capital gains treatment, though he would, by virtue of subparagraph 7(1)(a)(ii), be entitled to deduct that amount in the calculation of his employment benefit.
+B. Does paragraph 110(1)(d) change anything? [65] While the gain arising out of the exercise of employee stock options is taxed as an employment benefit under section 7, paragraph 110(1)(d) provides a deduction equal to one-half of the gain where certain conditions are met. It provides as follows:
+110 (1) Deductions permitted — For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such of the following amounts as are applicable
+(d) Employee options — an amount equal to 1/2 of the amount of the benefit deemed by subsection 7(1) to have been received by the taxpayer in the year in respect of a security that a particular qualifying person has agreed after February 15, 1984 to sell or issue under an agreement, or in respect of the transfer or other disposition of rights under the agreement, if
+(i) the security was acquired under the agreement by the taxpayer or a person not dealing at arm’s length with the taxpayer in circumstances described in paragraph 7(1)(c),
+. . .
+(ii) where rights under the agreement were not acquired by the taxpayer as a result of a disposition of rights to which subsection 7(1.4) applied,
+(A) the amount payable by the taxpayer to acquire the security under the agreement is not less than the amount by which
+(I) the fair market value of the security at the time the agreement was made
+exceeds
+(II) the amount, if any, paid by the taxpayer to acquire the right to acquire the security, and
+[My emphasis.]
+[66] Although a stock option benefit realized as of the date of exercise is initially taxed as an employment benefit, the net effect of this provision is that “the stock option benefit is taxed like a capital gain in terms of its inclusion rate, but it is not characterized as a capital gain so it is not eligible for the capital gains exemption and it cannot be offset by a capital loss.”[5]
+[67] As noted above, the availability of this provision requires that a number of conditions are met (i.e., that the employee be at arm’s length with the employer, that the shares are prescribed shares, etc.), one of which is that the market value of the securities is equal to or greater than the exercise price set out in the stock option agreement at the time of the grant. I note that the statutory language set out in subparagraph 110(1)(d)(ii) meshes with the definition of the “Exercise Price” set out in the Plan, as indicated above.
+[68] Where this condition is met, stock options are said to be “out-of-the-money” (a term that also applies to publicly traded options). Absent this condition, there would be nothing to prevent an employer from granting in‑the‑money stock options (or what are known as “deep” in-the-money stock options), thus conferring an immediate benefit on an employee.
+[69] The recent case of Fettes v R., 2015 TCC 198, illustrates the point. It dealt with a situation where stock options, initially priced above market value and thus out-of-the-money, were later repriced below market value and exercised by the taxpayer prior to his retirement. Miller J. found that while the taxpayer had realized an employment benefit pursuant to subsection 7(1), he was not entitled to the capital gains treatment contemplated by paragraph 110(1)(d).
+[70] Where, as in this case, employee stock options are denominated in a currency other than Canadian currency, subsection 110(1.5) provides that:
+110 (1.5) Determination of amounts relating to employee security options —For the purpose of paragraph (1)(d),
+(a) the amount payable by a taxpayer to acquire a security under an agreement referred to in subsection 7(1) shall be determined without reference to any change in the value of a currency of a country other than Canada, relative to Canadian currency, occurring after the agreement was made;
+[71] Considering the use of the words “for the purpose of paragraph (1)(d)”, it is apparent that this provision seeks to eliminate a situation where, although the exercise price is equal to or below the market value of the security on the date of the grant, a benefit has accrued to an employee as a result of currency fluctuations occurring after the grant of the stock options.
+[72] As a result, I agree with the Respondent that the deduction of one-half the employment benefit made available under paragraph 110(1)(d) is only available where the exercise price of the stock option is set at a price that is above the fair market value of the stock at the time it is granted and that the purpose of paragraph 110(1.5)(a) is to ensure that stock options that are out-of-the-money when they are granted, are not, through no fault of the taxpayer, later found to be in-the-money as a result of currency fluctuations occurring after the date of the grant.
+[73] Moreover, since I have already concluded that section 7 provides a complete code for the taxing of employment benefits arising out of the exercise of stock options, there is nothing that compels me to agree with the Appellant’s suggestion that paragraph 110(1.5)(a) somehow relates to the expression “the amount paid or to be paid . . . by the employee for the securities” in subparagraph 7(1)(a)(ii) and suggests that the exercise price should be converted into Canadian dollars using the exchange rate effective as of the date of the grant.
+[74] While the Appellant has argued that Parliament has filled a gap in section 7, which is a situation where securities are denominated in a currency other than Canadian currency, there is nothing in the statutory language of paragraph 110(1)(d) to suggest that it needs to be considered for any other reason than to determine whether the taxpayer is entitled to the one-half deduction.
+[75] The Appellant referred to Canadian Occidental U.S. Petroleum Corp v The Queen,[6] but I do not think that decision is particularly relevant, as it dealt with the non-binding nature of departmental or technical interpretations and a situation where the Minister had effectively inserted words into a statutory provision. In this instance, the Minister has merely calculated the Appellant’s employment benefit following the plain and ordinary language of paragraph 7(1)(a). No words have been inserted nor is there any need to do so.
+C. Obligation to report Canadian tax results [76] Subsection 261(2) of the ITA requires that any amount that is expressed in another currency be converted into Canadian dollars for Canadian income tax purposes. It provides as follows:
+261(2) Canadian currency requirement — In determining the Canadian tax results of a taxpayer for a particular taxation year,
+(a) subject to this section, other than this subsection, Canadian currency is to be used; and
+(b) subject to this section, other than this subsection, subsection 79(7) and paragraphs 80(2)(k) and 142.7(8)(b), if a particular amount that is relevant in computing those Canadian tax results is expressed in a currency other than Canadian currency, the particular amount is to be converted to an amount expressed in Canadian currency using the relevant spot rate for the day on which the particular amount arose.
+[My emphasis.]
+[77] Since the Appellant has also referred me to the French equivalent, I reproduce it here:
+261(2) Monnaie canadienne — exigences Les règles ci-après s’appliquent au calcul des résultats fiscaux canadiens d’un contribuable pour une année d’imposition :
+a) sous réserve du présent article, à l’exception du présent paragraphe, la monnaie à utiliser est le dollar canadien;
+b) sous réserve du présent article, à l’exception du présent paragraphe, du paragraphe 79(7) et des alinéas 80(2)k) et 142.7(8)b), toute somme prise en compte dans le calcul de ces résultats qui est exprimée dans une monnaie autre que le dollar canadien est convertie en son équivalence en dollars canadiens selon le taux de change au comptant affiché le jour où elle a pris naissance.
+[My emphasis.]
+[78] Subsection 261(1) of the ITA also provides the following definitions:
+261 (1) Definitions — The following definitions apply in this section.
+“Canadian tax results” of a taxpayer for a taxation year means
+(a) the amount of the income, taxable income or taxable income earned in Canada of the taxpayer for the taxation year;
+(b) the amount (other than an amount payable on behalf of another person under subsection 153(1) or section 215) of tax or other amount payable under this Act by the taxpayer in respect of the taxation year;
+(c) the amount (other than an amount refundable on behalf of another person in respect of amounts payable on behalf of that person under subsection 153(1) or section 215) of tax or other amount refundable under this Act to the taxpayer in respect of the taxation year; and
+(d) any amount that is relevant in determining the amounts described in respect of the taxpayer under paragraphs (a) to (c). (résultats fiscaux canadiens)
+“relevant spot rate” for a particular day means, in respect of a conversion of an amount from a particular currency to another currency,
+(a) if the particular currency or the other currency is Canadian currency, the rate quoted by the Bank of Canada for noon on the particular day (or, if there is no such rate quoted for the particular day, the closest preceding day for which such a rate is quoted) for the exchange of the particular currency for the other currency, or, in applying paragraphs (2)(b) and (5)(c), another rate of exchange that is acceptable to the Minister; and
+[My emphasis.]
+[79] Subsection 261(2) refers to a taxpayer’s obligation to report his or her “Canadian tax results” for a particular taxation year in Canadian currency but paragraph 261(2)(b) provides that the day on which the taxable amount arose determines the appropriate exchange rate that should be used.
+[80] The question is when did the particular amount arise? The Appellant argues that we need to look back in time to determine the genesis or source of that amount. He concludes that it was on the date of the grant of the stock options.
+[81] The Appellant relies on Agnico-Eagle Mines Limited v The Queen, 2014 TCC 324, a decision of Woods J. In that case, Agnico had issued convertible debentures with a face value of $1,000 US dollars, convertible into a fixed number of common shares that traded on the NYSE.
+[82] The debentures were issued on February 15, 2002 and converted into common shares in 2005. The main issue was whether Agnico had realized currency gains when the debentures were converted into common shares.
+[83] Woods J. reviewed the requirements of subsection 261(2) and the need to translate the amounts into Canadian dollars “using the relevant spot rate for the day on which the particular amount arose”. She concluded at paragraph 61 and 62 of her decision that the appropriate date was when the convertible debentures were issued in 2002 (when the spot rate was 1.588 Canadian dollars) since that reflected the true consideration received.
+[84] The Appellant points out that the Canada/US exchange rate in effect when the debenture was issued was applied in Agnico even though the conversion to common shares took place at a later date (in 2005) and suggests that this supports his position that the appropriate time to determine the cost base of the stock options is on the date that they were granted.
+[85] I find that this decision does not assist the Appellant since Agnico had actually received $1,000 US per debenture in February 2002, whereas in this instance, the Appellant received the stock options as part of an incentive plan, without advancing any monetary consideration whatsoever.
+[86] It is clear that there will be situations where the “particular amount” described in paragraph 261(2)(b) will have arisen at some point in time that predates the actual taxation year when the taxpayer is required to determine his “Canadian tax results”. But that is no different from the principle established in Gaynor, supra, that the adjusted cost base of a capital property must be tracked in Canadian dollars from the date of acquisition.
+[87] I conclude that “the day on which the particular amount arose” for the purposes of paragraph 261(2)(b) was when the Appellant exercised his stock options, that is, the date on which he acquired the UTC shares and simultaneously disposed of them. Since the process of a cashless exercise allowed him to complete both transactions on the same day, that determines the appropriate spot rate.
+Conclusion [88] I indicated above that I would comment on the lack of documentation to confirm the net proceeds of disposition actually received by the Appellant following the exercise of the stock options.
+[89] While I am tempted to conclude that the Appellant was simply “caught in the tangled web of complicated tax legislation” (Fettes, supra, at paragraph 23), I feel compelled to state that I have some difficulty with the fact that the net proceeds of sale received by him following the cashless exercise differ materially from the amounts reported for the taxation years in question. This must have been obvious to the Appellant and should have raised a red flag.
+[90] I conclude by thanking counsel for their able submissions.
+[91] The Appeals are dismissed without costs.
+Signed at Ottawa, Canada, this 28th day of April 2016.
+“Guy Smith”
+Smith J.
+CITATION:
+2016 TCC 105
+COURT FILE NO.:
+2015-1025(IT)I
+STYLE OF CAUSE:
+NATALE FERLAINO v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+November 18, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+April 28, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Vincent Dionne
+Counsel for the Respondent:
+Valerie Messore
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Vincent Dionne
+Firm:
+Norton Rose Fulbright Canada LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript at pages 17-21.
+[2] R.S.C., 1985, c. 1 (5th Supp.)
+[3] [1987] 1 CTC 2359 (TCC).
+[4] [1991] 1 C.T.C. 470.
+[5] Peter Hogg, Joanne Magee and Jinyon Li, Principles of Canadian Income Tax Law, 8th ed. (Toronto: Carswell, 2013) at page 148.
+[6] [2001] 2 C.T.C. 2113 (TCC).

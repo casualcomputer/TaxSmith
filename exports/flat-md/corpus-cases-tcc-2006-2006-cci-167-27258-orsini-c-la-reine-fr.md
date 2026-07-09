@@ -1,0 +1,175 @@
+---
+title: "Orsini c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27258/index.do"
+last_modified: "2006-03-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 167"
+citation2: ""
+neutral_citation: "2006 CCI 167"
+decision_date: "2006-03-16"
+language: "fr"
+item_id: "27258"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 799
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:47:51.139000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "256b01ecc73212b127359b61a61ffa7af68756dc2b16816ce150f07b160da341"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Orsini c. La Reine
+
+- Citation: 2006 CCI 167
+- Decision date: 2006-03-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 799, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Orsini c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-16
+Référence neutre
+2006 CCI 167
+Numéro de dossier
+2005-3058(IT)I
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3058(IT)I
+ENTRE :
+DANIEL Y. ORSINI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec l'appel de Jo-Ann Batah (2005-3092(IT)I) le 14 février 2006, à Montréal (Québec).
+Devant : L'honorable juge Pierre R. Dussault
+Comparutions :
+Représentante de l'appelant :
+Christine M. Halse
+Avocat de l'intimée :
+Me Simon Petit
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2002 et 2003 sont rejetés.
+Signé à Ottawa, Canada, ce 16e jour de mars 2006.
+« P. R. Dussault »
+Juge Dussault
+Dossier : 2005-3092(IT)I
+ENTRE :
+JO-ANN BATAH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Daniel Y. Orsini (2005-3058(IT)I) le 14 février 2006, à Montréal (Québec).
+Devant : L'honorable juge Pierre R. Dussault
+Comparutions :
+Représentant de l'appelante :
+Jean-Lucien Lemire
+Avocat de l'intimée :
+Me Simon Petit
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte de ce que madame Batah n'avait pas à inclure dans son revenu le montant de 5 335 $ reçu en 2003 à titre de pension alimentaire pour son fils.
+Signé à Ottawa, Canada, ce 16e jour de mars 2006.
+« P. R. Dussault »
+Juge Dussault
+Référence : 2006CCI167
+Date : 20060316
+Dossier : 2005-3058(IT)I
+ENTRE :
+DANIEL Y. ORSINI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2005-3092(IT)I
+ENTRE :
+JO-ANN BATAH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] Ces appels ont été entendus sur preuve commune selon la procédure informelle de la Cour.
+[2] Monsieur Orsini en appelle de cotisations par lesquelles le ministre du Revenu national (le « ministre » ) lui a refusé la déduction des montants de 5 659 $ et de 5 335 $ versés à titre de pension alimentaire à son ex-conjointe, madame Jo-Ann Batah, pour les années 2002 et 2003 respectivement.
+[3] Madame Batah en appelle d'une cotisation par laquelle le ministre a ajouté à son revenu la somme de 5 335 $ à titre de pension alimentaire reçue de son ex-conjoint pour l'année 2003.
+[4] Dans le cas de monsieur Orsini, les hypothèses de fait sur lesquelles le ministre s'est fondé pour établir les nouvelles cotisations sont énoncées aux alinéas a) à f) du paragraphe 12 de la réponse à l'avis d'appel. Ces alinéas se lisent comme suit :
+a) The Appellant and Mrs. Jo Ann Batah (hereinafter, the "former-spouse" [sic]) were married on the 22nd of August 1987;
+b) The Appellant and his former-spouse [sic] had a child: Anthony, born on March 13, 1990 (hereinafter, the "child");
+c) The Appellant and the former-spouse [sic] were divorced by judgment dated July 14, 1993;
+d) According to the judgment mentioned in the preceding sub-paragraph [sic] :
+i) The custody of the child was granted to the former-spouse [sic];
+ii) The Appellant was ordered to pay the former-spouse [sic] for the maintenance of the child, an alimentary pension of $90 per week, following the date of the judgment;
+e) According to a "Motion to vary accessory measures" dated January 24, 1997, a judgment of [the] Quebec Superior Court was rendered as follow [sic]:
+i) During summer holidays, between June 24th and August 30th, the Appellant was having the custody of the child;
+ii) The Appellant was ordered to pay fifty percent of the alimentary pension for the child, during the summer months;
+f) By "Agreement" ratified by the Appeal Court of Quebec on November 23, 1998, the parties agreed to modify, in the following manner, the judgment rendered on January 24th, 1997;
+i) During the summer, between June 25th and August 27th, the parties agreed to share equally the time of [the] child, so that he [would] be one week with each parent alternately;
+ii) The alimentary pension for the child, had to be payable each and every week of the year.
+[5] Tous ces alinéas sont admis par l'appelant.
+[6] Dans le cas de madame Batah, les hypothèses de fait sur lesquelles le ministre s'est fondé pour établir la cotisation pour l'année 2003 sont essentiellement les mêmes que celles sur lesquelles il s'est fondé pour établir les cotisations à l'égard de monsieur Orsini et elles sont admises par l'appelante.
+[7] Il importe d'apporter ici quelques précisions.
+[8] D'abord, le jugement rendu le 24 janvier 1997 par le juge James T. Kennedy de la Cour supérieure modifiait le jugement du juge Michel Côté rendu le 14 juillet 1993 et il était déclaré exécutoire nonobstant appel (pièce A-1, onglet C-1). Le jugement du juge Kennedy stipulait que monsieur Orsini aurait la garde de l'enfant durant les vacances d'été, soit du 24 juin au 30 août, et que madame Batah aurait pendant cette période les mêmes droits d'accès que monsieur Orsini avait durant le reste de l'année. Le jugement ordonnait à monsieur Orsini de continuer de payer 50 % de la pension alimentaire à madame Batah durant les mois d'été de façon à compenser les dépenses additionnelles de celle-ci.
+[9] Le jugement rendu par le juge James T. Kennedy le 24 janvier 1997 a immédiatement été porté en appel par madame Batah le 19 février 1997 (pièce A-1, onglet D-1). Par la suite, une requête pour faire suspendre l'exécution provisoire a été rejetée par la juge Louise Mailhot de la Cour d'appel (pièce A-1, onglet D-2). Lors de son témoignage, monsieur Orsini a affirmé s'être conformé au jugement rendu par le juge James T. Kennedy et avoir ainsi payé une pension alimentaire réduite durant l'été 1997 et 1998.
+[10] À la suite d'une séance de médiation tenue par la juge Louise Otis de la Cour d'appel du Québec, madame Batah et monsieur Orsini signaient une entente le 17 novembre 1998 et cette entente a été homologuée et rendue exécutoire par un jugement de la Cour d'appel du Québec le 23 novembre 1998 (pièce A-1, onglet B-1).
+[11] Aux termes de l'entente visant à modifier le jugement rendu le 24 janvier 1997 par le juge James T. Kennedy, les parties convenaient de se partager le temps passé avec leur fils durant la période d'été, c'est-à-dire entre le 25 juin et le 27 août, de façon égale, et ce, en alternance, à toutes les semaines. Il était également stipulé que la pension alimentaire pour l'enfant, telle qu'elle était fixée par le jugement du 14 juillet 1993 et qui n'était pas l'objet de l'appel, serait payable pour chaque semaine de l'année.
+[12] Le jugement de la Cour d'appel du Québec du 23 novembre 1998 rendant exécutoire l'entente intervenue entre madame Batah et monsieur Orsini le 17 novembre 1998, étant postérieur à avril 1997, sa date d'exécution est réputée être le 23 novembre 1998 aux fins de l'alinéa a) de la définition de « date d'exécution » au paragraphe 56.1(4) de la Loi de l'impôt sur le revenu (la « Loi » ). Comme c'est le jugement du juge James T. Kennedy qui était jusque-là exécutoire, que le montant de la pension alimentaire payable par monsieur Orsini durant la période d'été selon les termes de ce jugement n'était que de 50 % du montant qu'il devait payer durant le reste de l'année et que l'entente du 17 novembre 1998 rendue exécutoire par le jugement du 23 novembre 1998 venait modifier le montant de la pension payable par monsieur Orsini durant la période d'été par rapport à ce qu'il devait payer selon le jugement du juge James T. Kennedy, on peut également conclure qu'il y a une date d'exécution se situant au début de la période d'été de 1999, et ce, en vertu du sous-alinéa b)(ii) de la définition de « date d'exécution » au paragraphe 56.1(4) de la Loi. Par ailleurs, comme le jugement de la Cour d'appel du Québec du 23 novembre 1998 a pour effet de changer le total des montants de pension alimentaire payables à madame Batah par monsieur Orsini pour la période d'été de 1999 et la période d'été des années suivantes et ainsi d'augmenter le total des montants de pension alimentaire payables annuellement, la date d'exécution serait alors le 23 novembre 1998, soit la date du jugement, selon le sous-alinéa b)(iii) de la définition de « date d'exécution » au paragraphe 56.1(4) de la Loi. Enfin, comme l'alinéa b) de la même définition prévoit que la date d'exécution est le premier en date des jours mentionnés aux sous-alinéas b)(i) à b)(iv), c'est la date du 23 novembre 1998 qui doit être retenue.
+[13] Ainsi, tant selon l'alinéa a) que selon l'alinéa b) de la définition, la date d'exécution est le 23 novembre 1998.
+[14] Lorsqu'une pension alimentaire pour enfants est versé selon une entente ou une ordonnance ayant une date d'exécution postérieure à avril 1997, les conséquences sont que l'ex-conjoint bénéficiaire de la pension ainsi reçue au cours d'une année n'a aucun montant à inclure dans son revenu en vertu de l'alinéa 56(1)b) de la Loi et que l'ex-conjoint tenu de verser cette pension alimentaire pour enfants ne peut déduire en vertu de l'alinéa 60b) de la Loi le montant de la pension payée au cours de l'année.
+[15] Compte tenu de ce qui précède, madame Batah n'avait pas à inclure dans son revenu le montant de 5 335 $ reçu en 2003 de monsieur Orsini à titre de pension alimentaire pour leur fils Anthony et son appel est donc accueilli.
+[16] En ce qui concerne monsieur Orsini, les montants de 5 659 $ et de 5 335 $ payés à madame Batah à titre de pension alimentaire pour leur fils Anthony en 2002 et 2003 respectivement ne sont pas déductibles dans le calcul de son revenu pour ces années et ses appels des cotisations pour ces années sont en conséquence rejetés.
+Signé à Ottawa, Canada, ce 16e jour de mars 2006.
+« P. R. Dussault »
+Juge Dussault
+RÉFÉRENCE : 2006CCI167
+N º s DES DOSSIERS DE LA COUR : 2005-3058(IT)I et 2005-3092(IT)I
+INTITULÉS DES CAUSES : DANIEL Y. ORSINI c.LA REINE
+et JO-ANN BATAH c. LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 14 février 2006
+MOTIFS DU JUGEMENT PAR : l'honorable juge Pierre R. Dussault
+DATE DU JUGEMENT : le 16 mars 2006
+COMPARUTIONS :
+Représentante de l'appelant :
+Représentant de l'appelante :
+Christine M. Halse
+Jean-Lucien Lemire
+Avocat de l'intimée :
+Me Simon Petit
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

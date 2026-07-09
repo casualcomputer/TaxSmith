@@ -1,0 +1,223 @@
+---
+title: "Mann v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28316/index.do"
+last_modified: "2007-12-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 732"
+citation2: ""
+neutral_citation: "2007 CCI 732"
+decision_date: "2007-12-07"
+language: "fr"
+item_id: "28316"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1835
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:02:12.779000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3997c8c36ecbc21ef2dd7bd481baccc4ccc2d7bdab671ecc405da776e6866e93"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mann v. The Queen
+
+- Citation: 2007 CCI 732
+- Decision date: 2007-12-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1835, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mann v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-12-07
+Référence neutre
+2007 CCI 732
+Numéro de dossier
+2006-2702(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2702(IT)I
+ENTRE :
+RON MANN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 31 mai 2007, à Edmonton (Alberta).
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Avocat de l’appelant :
+Me David Skrypichayko
+Avocate de l’intimée :
+Me Carrie Mymko
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2001, 2002 et 2003 sont rejetés, les dépens étant adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2007.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 28e jour de janvier 2008
+D. Laberge, LL.L.
+Référence : 2007CCI732
+Date : 20071207
+Dossier : 2006-2702(IT)I
+ENTRE :
+RON MANN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Il s’agit d’appels de nouvelles cotisations concernant les années d’imposition 2001, 2002 et 2003 de l’appelant, par lesquelles le ministre du Revenu national a réduit les dépenses que l’appelant avait déduites pour les années en question. En outre, le ministre a inclus dans le revenu gagné par l’appelant en 2002 et en 2003 des montants additionnels de 35 559 $ et de 30 941 $ respectivement.
+[2] L’appelant était représenté par un avocat, lequel demandait l’annulation des nouvelles cotisations compte tenu du fait que, selon la prépondérance des probabilités, l’appelant avait, en toute bonne foi et en vue de gagner un revenu, effectué des dépenses pour sa résidence, pour un véhicule et pour des services de gestion.
+[3] Les présents appels ont été entendus immédiatement après l’audition des appels interjetés par l’épouse de l’appelant, Phyllis Jensen; sur consentement, certains faits au sujet desquels l’appelant avait témoigné dans les appels interjetés par son épouse sont incorporés dans les présents appels.
+[4] L’appelant est un ingénieur semi‑retraité qui a participé à de multiples entreprises au fil des ans. Son épouse, Phyllis Jensen, avait enseigné dans plusieurs écoles élémentaires de l’Alberta pendant 35 ans. Elle a pris sa retraite en 2004, mais elle a continué à s’occuper de l’éducation des enfants en préparant et en vendant des programmes éducatifs visant à aider d’autres enseignants. Mme Jensen élabore et commercialise ses programmes partout en Alberta et, dans une certaine mesure, ailleurs au Canada. Elle a lancé son entreprise, Rodeo Chaps, à temps partiel, en 1991. Lorsqu’elle a pris sa retraite, Rodeo Chaps est clairement devenue une occupation dont Mme Jensen, et probablement l’appelant, s’occupaient à plein temps. Cette entreprise appartient encore uniquement à l’épouse de l’appelant.
+[5] L’appelant a commencé à s’occuper de la gestion de l’entreprise en 1999. Il s’occupait de l’administration de l’entreprise; il se considère comme un conseiller en gestion, et non comme un employé, ce que le ministre accepte. Avant les années ici en cause, l’appelant exploitait de petites entreprises, dans le cadre desquelles il agissait à titre d’ingénieur-conseil ou il s’occupait de la transplantation de gros arbres à l’aide de matériel lourd.
+[6] À titre de rémunération de ses services de gestion, l’appelant déposait tout le produit des ventes conclues par Rodeo Chaps dont le paiement était effectué à l’aide de cartes de crédit Visa dans son compte bancaire personnel et il payait l’impôt sur le revenu sur le produit de ces ventes. L’appelant estimait que c’était la méthode comptable la plus simple. En effet, il n’avait pas à déposer dans le compte de Rodeo les paiements effectués (en faveur de Rodeo) au moyen de cartes Visa et à établir des factures à l’intention de Rodeo pour les heures qu’il effectuait. L’appelant a déclaré ne pas avoir de formation régulière en matière comptable, mais il estimait que les méthodes qu’il employait pour la tenue de registres et la production de déclarations de revenus étaient supérieures à celles qu’employaient à tout le moins certains experts. En ce qui concerne la législation fiscale, il a déclaré ce qui suit (page 75 de la transcription) :
+[traduction] Je lisais le petit livre environ une fois par cinq ans, et c’était toujours essentiellement la même chose. Il arrivait que le taux de quelque chose change, mais non, je... ne passais pas plus de cinq minutes tous les cinq ans à mettre à jour mes connaissances.
+L’appelant exploitait sa propre entreprise, connue sous le nom de « Mann Consultants ». En général, il ne fournissait des services qu’à Rodeo Chaps, entreprise qui appartient à son épouse et qui est exploitée par son épouse. Ils s’occupaient tous deux de la tenue de livres et de registres. En 2002 et en 2003, l’appelant a tiré de Rodeo un revenu de 35 559 $ et de 30 941 $ respectivement. L’appelant tire peu de revenus d’autres sources ou même il n’en tire aucun.
+[7] Les observations que l’avocat de l’appelant a faites sont d’une nature générale. Dans l’avis d’appel (paragraphes 20, 21 et 24), l’avocat a déclaré que l’appelant a des dizaines d’années d’expérience en matière de gestion et d’administration et qu’il devrait être bien rémunéré pour ses services.
+[8] Je ne crois pas que le ministre conteste le montant de la rémunération; cependant, il met en question les modalités de rémunération. Le produit des ventes conclues à l’aide de cartes Visa aurait dû être inclus dans le revenu de Rodeo Chaps, qui aurait dû verser un montant raisonnable à l’appelant pour les services fournis (et passer ce montant en charges). Je ne crois pas que le ministre s’oppose au montant de la rémunération.
+Frais relatifs au véhicule à moteur et au bureau à domicile et frais divers
+[9] Il s’agit ensuite de savoir si l’appelant a droit à des déductions pour diverses dépenses en sus des montants admis par le ministre au cours des années d’imposition visées par les appels.
+[10] Je traiterai d’abord des frais de déplacement et des frais relatifs au véhicule à moteur. L’appelant a affirmé que la distance parcourue visait, dans une proportion de 80 p. 100 en 2001 et dans une proportion de 90 p. 100 en 2002 et en 2003, à lui permettre de tirer un revenu d’une entreprise[1]. Le ministre a admis 50 p. 100 des montants en cause à des fins commerciales. Dans les appels interjetés par son épouse, l’appelant a témoigné effectuer chaque année environ 12 500 kilomètres, notamment environ 36 kilomètres trois ou quatre fois par semaine pour aller prendre son petit déjeuner, et qu’il se rendait à Calgary trois fois l’an en moyenne, ce qui représente environ 7 500 kilomètres par année. Je conclus que ces déplacements n’étaient pas effectués à des fins commerciales; cela représente plus de la moitié de la distance totale parcourue chaque année et il s’agit d’une dépense personnelle. Les 50 p. 100 que le ministre a alloués à des fins commerciales sont raisonnables, sinon généreux.
+[11] Le contribuable qui déduit les frais de bureau à domicile doit conserver des documents en ordre indiquant les dépenses se rattachant à l’entreprise; de plus, il doit établir un carnet de route indiquant les dépenses relatives à l’automobile. À l’instruction, l’appelant a reconnu n’utiliser que 50 pieds carrés dans une résidence d’une superficie d’environ 3 612 pieds carrés, ce qui représente 1,38 p. 100 pour sa propre entreprise personnelle. Tout montant déduit par l’appelant devrait réduire la déduction demandée par Mme Jensen puisque la preuve donne à entendre que l’aire utilisée par M. Mann est située dans les mêmes pièces que celles qui ont antérieurement été allouées pour l’entreprise de Rodeo Chaps. Au cours des présents appels, l’appelant n’a pas pu prouver une utilisation additionnelle de la résidence visant à lui permettre de tirer un revenu d’une entreprise. Aucun montant n’est alloué pour le bureau à domicile en sus des montants admis par le ministre.
+Autres frais
+[12] À la suite de la vérification, le ministre a refusé presque toutes les autres dépenses déduites par M. Mann pour la période en question, et ce, principalement parce que certaines dépenses n’avaient tout simplement pas été effectuées et que, si elles l’avaient été, il s’agissait de dépenses de nature personnelle qui n’avaient pas été effectuées en vue de permettre à l’appelant de gagner un revenu. L’appelant n’a pas pu établir de sources de revenu à l’appui de la plupart des dépenses qu’il avait déduites. Il travaille comme conseiller autonome et fournit presque exclusivement ses services à Rodeo Chaps; cela étant, il a inclus le revenu d’entreprise résultant de cette activité, mais il n’a pas déclaré d’autres revenus tirés de ses anciennes entreprises, comme ses services d’ingénieur-conseil ou de transplantation d’arbres. L’appelant a déduit des dépenses qui ne visent pas à lui permettre de tirer un revenu des services de conseiller fournis à Rodeo Chaps. Ainsi, je ne puis établir de lien entre les dépenses se rattachant au carburant utilisé pour la machinerie et les services rendus à Rodeo Chaps. Pour être admise, une dépense doit être effectuée aux fins de la réalisation d’un revenu (alinéa 18(1)a)) et, selon l’article 67, la dépense doit être raisonnable. La remarque suivante que le juge en chef Bowman a faite dans la décision Chrabalowski c. La Reine[2] s’applique également au cas qui nous occupe :
+Un problème auquel fait face l’appelant dans ce genre de cas est que, s’il y a une série de dépenses excessives, invraisemblables ou déraisonnables, la chose laisse planer un doute sur toutes les dépenses. En d’autres termes, une fois qu’une tendance à l’invraisemblance ou au caractère excessif est établie, la Cour est portée à examiner avec plus de soin des dépenses qui, isolément, pourraient être justifiables. Bref, toute lacune de la preuve est comblée, et tout doute est résolu, d’une façon qui est compatible avec la tendance. [...]
+[13] Dans son témoignage, l’appelant n’a pas présenté de nouveaux éléments de preuve susceptibles de laisser planer un doute sur l’exactitude des hypothèses émises par le ministre au sujet des dépenses suivantes qui avaient été déduites :
+Année d’imposition 2001
+Sous-traitance
+341,06 $
+Taxe professionnelle, honoraires
+2 733,97 $[3]
+Frais de carburant (matériel)
+168,28 $
+Intérêts
+853,51 $
+Téléphone
+968,36 $
+Publicité et promotion
+1 129,53 $
+Repas et représentation
+984,35 $
+Bureau
+1 517,75 $
+Fournitures
+1 443,80 $
+Déplacements
+1 138,90 $
+Année d’imposition 2002
+Taxe professionnelle, honoraires
+2 739,77 $
+Intérêts
+160,02 $
+Téléphone
+358,66 $
+Frais de livraison et service express
+40,00 $
+Matériel
+255,01 $
+Bureau
+1 466,91 $
+Fournitures
+5 513,37 $
+Déplacements
+3 301,79 $[4]
+Location de matériel
+820,18 $
+Année d’imposition 2003
+Taxe professionnelle, honoraires
+3 093,50 $
+Frais de carburant (matériel)
+439,51 $
+Intérêts
+785,13 $
+Bureau
+2 604,80 $
+Fournitures
+5 034,39 $
+Déplacements
+1 631,34 $[5]
+Location de matériel
+2 717,72 $[6]
+Réunions de gestion
+806,34 $
+La taxe professionnelle et les honoraires susmentionnés concernant les années d’imposition en question comprenaient la taxe professionnelle, les primes d’assurance‑vie, les frais de carte MasterCard, l’immatriculation du véhicule, les renouvellements et les primes d’assurance se rapportant à l’autocaravane de l’appelant. Aucun élément de preuve n’étayait la déductibilité de ces dépenses. Dans presque tous les cas, ces dépenses n’étaient pas accompagnées de véritables reçus. Les relevés ou les reçus de cartes de crédit ne constituent qu’une preuve de paiement n’expliquant nullement ce qui a réellement été acheté et les fins auxquelles les achats étaient effectués. La plupart des dépenses ont été effectuées chez Canadian Tire, Revy Home, UFA Coop, Rona et Sears. Encore une fois, aucun élément de preuve n’étayait la déductibilité de ces dépenses.
+[14] Comme il en a été fait mention, l’appelant n’a pas établi qu’au cours des années pertinentes, il exerçait des activités commerciales autres que celles qu’il exerçait pour Rodeo Chaps à titre d’entrepreneur indépendant; il n’a pas produit de revenu tiré de ses anciennes entreprises et la condition prévue à l’alinéa 18(1)a) de la Loi n’est pas remplie. Il n’est pas nécessaire qu’il y ait un revenu, mais le contribuable doit à tout le moins démontrer qu’il exploitait une entreprise au cours des années pour lesquelles il a déduit des dépenses d’entreprise. Le contribuable doit donner des détails au sujet du revenu et des dépenses connexes.
+[15] Il y a une exception. Je crois qu’en 2002, l’appelant a reçu des honoraires de 1 305 $ pour les services de conseil fournis à l’égard du placement d’un GAB (guichet automatique bancaire). Aucun élément de preuve n’indique les dépenses précises se rattachant à ce contrat isolé; seuls des renseignements généraux sont fournis, comme le fait que les dépenses se rapportaient au véhicule à moteur, à la taxe professionnelle, aux intérêts, au téléphone, à la publicité, aux repas, et ainsi de suite. Aucun élément de preuve n’indiquait des dépenses précises associées à cette activité.
+[16] Le ministre a refusé les pertes finales déduites par l’appelant pour les années d’imposition en question compte tenu du fait qu’il n’y avait pas eu disposition de ces biens amortissables au cours des années d’imposition en question. Une perte finale peut être déduite lorsqu’il y a disposition de tous les biens amortissables d’une catégorie donnée; or, il existe encore un coût en capital non amorti qui n’a pas été utilisé. Aucun élément de preuve n’établissait que l’appelant satisfaisait à l’exigence à cet égard.
+[17] Le paragraphe 20(16) de la Loi permet au contribuable de déduire une perte finale à certaines conditions. Il doit notamment y avoir disposition d’un bien amortissable. En l’espèce, l’appelant a peut‑être disposé des biens, mais non au cours des années d’imposition ici en cause. Les observations de l’appelant étaient principalement de la nature d’une anecdote et elles se rapportaient à des renseignements généraux sur des activités professionnelles exercées peut-être vingt ans avant les années pertinentes.
+[18] Pour qu’un bien soit amortissable, il faut que l’appelant soit autorisé à effectuer une déduction pour amortissement en vertu de l’alinéa 20(1)a) à l’égard du bien en cause. L’appelant n’était pas autorisé à effectuer une telle déduction étant donné qu’aucun de ces biens n’était encore utilisé pour produire un revenu au moment où l’appelant a déduit la perte finale ou juste avant. Par conséquent, ces biens n’étaient pas des biens amortissables au cours des années où la perte finale a été déduite, ni au cours de l’année précédente.
+[19] L’avocat de l’appelant a soutenu que M. Mann mettait peu à peu fin à ses activités de transplantation d’arbres. Cet argument n’est étayé par aucun élément de preuve étant donné que la diminution graduelle des activités se rapporte habituellement à une entreprise qui est encore exploitée, mais qui réduit graduellement ses activités. En l’espèce, rien ne donne à entendre que l’entreprise de transplantation d’arbres de M. Mann était encore exploitée ou qu’elle avait été exploitée peu de temps avant l’année 2001, si ce n’est que l’appelant exécutait gratuitement des travaux pour des voisins.
+[20] L’appelant a demandé une déduction pour amortissement à l’égard d’un grand nombre de biens. Le ministre a refusé ces déductions étant donné qu’aucun élément de preuve ne donnait à entendre que les biens étaient utilisés en vue de permettre à l’appelant de tirer un revenu d’une entreprise. L’appelant n’a pas pu démontrer qu’il gagnait de fait un revenu à l’aide de ces biens au cours des années d’imposition en question. De fait, certains biens n’ont peut‑être pas été acquis afin de permettre à l’appelant de gagner un revenu d’entreprise et l’alinéa 1102(1)c) du Règlement empêche l’appelant de demander une déduction pour amortissement (la « DPA ») à l’égard de ces biens. L’appelant a demandé une DPA pour son autocaravane et pour un tracteur de jardin qu’il utilisait à des fins personnelles. Il va trop loin en cherchant à se prévaloir de l’exception prévue à l’alinéa 18(1)a).
+Conclusion
+[21] Certains points litigieux dans les présents appels se rapportent à des erreurs de comptabilité. La Loi ne prescrit pas de méthode comptable précise à suivre dans le calcul du bénéfice tiré d’une entreprise, mais au fil des ans, les tribunaux ont établi des lignes directrices à suivre. Le contribuable n’est pas obligé de suivre les principes comptables généralement reconnus (les « PCGR »). Voir l’arrêt Canderel Ltée. c. R.[7] de la Cour suprême du Canada. Le contribuable est libre d’adopter toute méthode comptable qui n’est pas incompatible avec : (i) les dispositions de la Loi; (ii) les principes dégagés de la jurisprudence ou les « règles de droit » établis; (iii) les principes commerciaux reconnus. Cependant, il faut se rappeler que l’objectif principal est d’avoir une méthode comptable qui donne une image fidèle du bénéfice réalisé par le contribuable au cours d’une année donnée.
+[22] L’appelant n’a pas présenté de méthode comptable qui est toujours conforme au droit et il n’a pas donné une image fidèle de sa situation financière réelle pour les années visées par les appels. Je crois que sa démarche se rapprochait davantage de l’idée selon laquelle « s’il existe une dépense qui est liée, ne serait‑ce que de loin, à une entreprise, présente ou passée, cette dépense est déductible aux fins de l’impôt »[8].
+[23] L’approche à adopter qui est peut‑être la plus humble en matière fiscale est de reconnaître que la chose est loin d’être simple, contrairement aux généralisations et aux raccourcis sur lesquels l’appelant s’est fondé. Il existe des ressources mises à la disposition des contribuables pour les aider à accomplir la tâche parfois complexe d’avoir à produire les déclarations de revenus.
+[24] Dans l’avis d’appel de l’appelant et dans ses conclusions finales, l’avocat de l’appelant présente des arguments fondés sur l’équité, en priant la Cour de tenir compte de la situation dans son ensemble, remontant à une époque bien antérieure à celle qui nous occupe, d’une façon équitable et pondérée. La Cour n’est pas un tribunal d’équité et elle hésite fort à accorder une réparation en se fondant sur des assertions générales, sauf s’il existe des circonstances exceptionnelles[9]. Je ne puis supposer ou conclure qu’à cause du travail acharné accompli par le passé et de son esprit d’entreprise, l’appelant mérite les déductions demandées étant donné son rendement passé. Certaines dépenses qui ont été déduites devraient sans aucun doute être admises, mais je ne puis déterminer quelles sont ces dépenses, parce qu’elles sont mêlées à un grand nombre de déductions non établies ou invraisemblables.
+[25] Les appels sont rejetés, les dépens étant adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2007.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 28e jour de janvier 2008
+D. Laberge, LL.L.
+RÉFÉRENCE : 2007CCI732
+No DU DOSSIER DE LA COUR : 2006-2702(IT)I
+INTITULÉ : RON MANN
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 31 mai et le 19 juin 2007
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 7 décembre 2007
+COMPARUTIONS :
+Avocat de l’appelant :
+Me David Skrypichayko
+Avocate de l’intimée :
+Me Carrie Mymko
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : David Skrypichayko
+Cabinet : Skrypichayko LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] M. Mann possède son propre véhicule. Mme Jensen possède un véhicule utilitaire sport.
+[2] 2004 CCI 644 – [2005] 1 C.T.C. 2054, paragraphe 12.
+[3] La taxe professionnelle et les honoraires comprennent la prime d’assurance‑vie, des frais de cartes de crédit MasterCard, l’immatriculation du véhicule, le renouvellement et la prime d’assurance se rapportant à l’autocaravane.
+[4] Voyage à Toronto, vins et spiritueux, restaurant, Safeway, boulangerie, et ainsi de suite.
+[5] Canadian Tire, Rona, Sears, et ainsi de suite.
+[6] L.A. Lube, atelier de pneus, pièces de voiture, location de matériel, UFA, COOP.
+[7] [1998] 1 R.C.S. 147.
+[8] Ces mots sont les miens et non ceux de l’appelant.
+[9] Par exemple, lorsqu’il y a clairement des activités et un revenu d’entreprise courants ainsi que des dépenses évidentes, même si les livres du contribuable sont inadéquats.

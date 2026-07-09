@@ -1,0 +1,244 @@
+---
+title: "La Survivance c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27834/index.do"
+last_modified: "2005-04-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 245"
+citation2: ""
+neutral_citation: "2005 CCI 245"
+decision_date: "2005-04-26"
+language: "fr"
+item_id: "27834"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 374
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:58:25.868000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "41d4900d977cb5f7366e2836625fe1b98ac6a3952d10a0b8fec539075004234e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# La Survivance c. La Reine
+
+- Citation: 2005 CCI 245
+- Decision date: 2005-04-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 374, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+La Survivance c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-26
+Référence neutre
+2005 CCI 245
+Numéro de dossier
+2001-4281(IT)G
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-4281(IT)G
+ENTRE :
+LA SURVIVANCE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 15 février 2005, à Montréal (Québec)
+Devant : L'honorable juge Pierre R. Dussault
+Comparutions :
+Avocat de l'appelante :
+Me Robert Couzin
+Avocats de l'intimée :
+Me Daniel Verdon et Me Yanick Houle
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1998 est rejeté, avec dépens en faveur de l'intimée, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 26e jour d'avril 2005.
+« P. R. Dussault »
+Juge Dussault
+Référence : 2005CCI245
+Date : 20050426
+Dossier : 2001-4281(IT)G
+ENTRE :
+LA SURVIVANCE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] L'appelante conteste une cotisation établie à l'égard de son année d'imposition 1998 en vertu de la Loi de l'impôt sur le revenu (« Loi »), cotisation par laquelle le ministre du Revenu national (« ministre ») lui a refusé le report d'une perte autre qu'en capital (« PAQC ») résultant d'une perte au titre d'un placement d'entreprise (« PTPE ») subie en 1994, en traitant cette perte comme une simple perte en capital.
+[2] Aux fins de l'appel, les parties ont produit une entente sur les faits rédigée dans les termes suivants :
+[...]
+Les parties, par leurs procureurs soussignés, admettent les faits suivants; ces admissions ne sont faites que pour les fins du présent appel et que pour la période visée par la présente entente; elles ne pourront être utilisées par quiconque ni à aucune autre occasion contre l'une ou l'autre partie; les parties conviennent aussi que les questions de faits dans le présent appel se limitent aux faits ci-après exposés et qu'il n'y aura ainsi audition d'aucun témoin ni présentation d'aucun document en preuve lors de l'audition :
+1. À tout moment pertinent au présent litige, l'appelante, La Survivance, est une compagnie mutuelle d'assurance-vie (« La Survivance ») qui réside au Canada et dont le siège social est situé au 1555, rue Girouard Ouest, Casier postal 10 000, Sainte-Hyacinthe, Québec, J2S 7C8. Elle a été constituée en vertu des lois du Québec, tel qu'il appert de la pièce « A » ci-annexée, pour valoir comme si au long récitée. L'appelante a toujours fait affaire dans le domaine de l'assurance-vie.
+2. De 1988 à 1992, La Survivance a acquis, par voie de souscription au capital-actions, une participation d'environ 66 % dans Les Clairvoyants, Compagnie d'Assurance Générale Inc. (« Les Clairvoyants »), une compagnie d'assurance de dommages constituée en vertu des lois du Québec et résidant au Canada, pour une somme de plus de 3 000 000 $.
+3. Une entente est intervenue le 3 mai 1994 entre la Survivance et la Société Nationale d'Assurance Inc. (« Société Nationale ») concernant les actions de Les Clairvoyants, tel qu'il appert de la pièce « B » ci-annexée, pour valoir comme si au long récitée.
+4. Société Nationale est une compagnie d'assurance de dommages qui se qualifie au titre de « société privée » au sens du paragraphe 89(1) de la Loi de l'impôt sur le revenu (« LIR ) ».
+5. Le 13 mai 1994, La Survivance a augmenté sa participation de 66 % à plus de 90 % en souscrivant à 10 000 000 nouvelles actions émises par Les Clairvoyants pour la somme de 1 500 000 $, tel qu'il appert de la pièce « C » ci-annexée, pour valoir comme si au long récitée. Le total des actions détenues par La Survivance, après cette souscription, s'élevait à 12 543 486 actions ordinaires.
+6. Le 8 juin 1994, une offre publique d'achat (« OPA ») visant toutes les actions en circulation de Les Clairvoyants au prix de 0,15 $ l'action et expirant le 30 juin 1994 à 17 h 00 est lancée par Société Nationale, tel qu'il appert de la pièce « D » ci-annexée, pour valoir comme si au long récitée.
+7. Le 16 juin 1994, La Survivance dépose la totalité de ses actions ordinaires de Les Clairvoyants conformément aux termes de l'OPA, tel qu'il appert de la pièce « E » ci-annexée, pour valoir comme si au long récitée.
+8. Le 30 juin 1994 à 17 h 00, toutes les conditions mentionnées dans l'OPA ont été remplies.
+9. Le 5 juillet 1994 durant les heures d'affaires, Société Nationale remet un chèque au montant de 1 881 522,90 $ à La Survivance en paiement de la totalité de ses actions ordinaires de Les Clairvoyants, tel qu'il appert de la pièce « F » ci-annexée, pour valoir comme si au long récitée. Le chèque est encaissé par La Survivance le même jour.
+10. Le 5 juillet 1994 durant les heures d'affaires, le registre des actionnaires de Les Clairvoyants est modifié pour y inscrire Société Nationale et radier La Survivance.
+11. La vente des actions de Les Clairvoyants a résulté en une perte de 2 654 323 $, calculée comme suit :
+Produit de disposition
+Prix de base rajusté
+(Perte)
+1 881 523 $
+(4 535 895)
+(2 654 372 $)
+12. Dans sa déclaration de revenus pour l'année d'imposition se terminant le 4 juillet 1994 en vertu de l'alinéa 249(4)(a) de la LIR, les Clairvoyants n'a pas fait le choix mentionné au paragraphe 256(9) de la LIR.
+13. Étant donné l'application de l'article 141 de la LIR à La Survivance, Les Clairvoyants ne se considérait pas et n'était pas une « société privée sous contrôle canadien » tout au long de la période durant laquelle elle était contrôlée par La Survivance aux fins de la LIR, soit jusqu'au moment immédiatement avant l'acquisition du contrôle le 5 juillet 1994. N'eût été de l'article 141 de la LIR, Les Clairvoyants aurait été considérée comme une « société privée sous contrôle canadien » tout au long de la même période. Par ailleurs, dès l'acquisition du contrôle aux fins de la LIR par Société Nationale, Les Clairvoyants était une « société privée sous contrôle canadien » au sens du paragraphe 125(7) de la LIR.
+14. Au moment où les actions de Les Clairvoyants ont été disposées par La Survivance, Les Clairvoyants était une société dont la totalité, ou presque, de la juste valeur marchande des éléments d'actif était attribuable à des éléments utilisés principalement dans le cadre de l'entreprise qu'elle exploitait activement principalement au Canada.
+15. Au moment où les actions de Les Clairvoyants ont été disposées par La Survivance, il n'y avait aucun lien de dépendance entre La Survivance et Société Nationale.
+16. Le ministre du Revenu national (« ministre ») a émis des avis de nouvelle cotisation pour les années d'imposition 1994 à 1998 en date du 20 juillet 2000. Aux termes de ces avis de nouvelle cotisation, le ministre a refusé la qualification de la perte de La Survivance découlant de la disposition des actions de Les Clairvoyants au titre de « perte au titre d'un placement d'entreprise » (« PTPE ») et il a traité cette perte comme une simple perte en capital. Si cette perte était admissible à titre de PTPE, elle aurait généré une perte autre qu'en capital en 1994 (ci-après « la PAQC 1994 »).
+17. De plus, aux termes de l'avis de nouvelle cotisation émis pour l'année d'imposition 1998, le ministre a refusé qu'une partie de la PAQC 1994 soit appliquée à l'encontre du revenu imposable de La Survivance en 1998 afin de ramener celui-ci à zéro. En conséquence, la nouvelle cotisation relative à l'année d'imposition 1998 indique un revenu imposable révisé de 730 766 $ pour La Survivance de même qu'un impôt de la Partie I de la LIR de 212 799 $.
+18. La Survivance s'est opposée à la nouvelle cotisation pour l'année d'imposition 1998 dans le délai prévu par la LIR.
+19. Le 29 août 2001, le ministre a confirmé la nouvelle cotisation pour l'année d'imposition 1998.
+20. La déclaration de revenus de La Survivance pour l'année d'imposition 1994 et les états financiers l'accompagnant sont reproduits à la pièce « G » ci-annexée, pour valoir comme si au long récitée.
+OTTAWA, le 30 septembre 2004
+[...]
+[3] Le litige porte essentiellement sur le moment de la disposition des actions du capital-actions de Les Clairvoyants par La Survivance en faveur de Société Nationale et sur l'application de la présomption énoncée au paragraphe 256(9) de la Loi. Cette disposition se lit comme suit :
+256(9) Moment d'acquisition du contrôle. Pour l'application de la présente loi, le contrôle d'une société qui est acquis à un moment donné est réputé l'être au début du jour où tombe ce moment ou, si la société en fait le choix, au moment de ce jour où le contrôle est effectivement acquis. Le choix se fait dans la déclaration de revenu de la société produite en vertu de la partie I pour l'année d'imposition se terminant immédiatement avant l'acquisition du contrôle.
+Position de l'appelante
+[4] La Survivance prétend que la perte qu'elle a subie en 1994 résultant de la disposition des actions du capital-actions de Les Clairvoyants est une PTPE.
+[5] La raison de cette prétention est fort simple. En vertu de la présomption que l'on trouve au paragraphe 256(9) de la Loi, La Survivance est d'avis qu'au moment de la disposition des actions de Les Clairvoyants durant les heures du bureau le 5 juillet 1994, cette société était contrôlée non plus par La Survivance, une société réputée être une société publique par l'article 141 de la Loi tel qu'il se lisait à l'époque pertinente, mais bien par Société Nationale, une société privée.
+[6] L'avocat de l'appelante soutient que, par l'effet du paragraphe 256(9) de la Loi, l'acquisition du contrôle de Les Clairvoyants par Société Nationale est déplacée au début du jour de l'acquisition du contrôle. Selon lui, c'est à partir de ce moment que Société Nationale a le contrôle exclusif de Les Clairvoyants, qui devient en conséquence, dès ce moment, une société privée sous contrôle canadien (« SPCC ») selon la définition du paragraphe 125(7) de la Loi et une société exploitant une petite entreprise (« SEPE ») selon la définition du paragraphe 248(1) de la Loi.
+[7] Par ailleurs, selon l'avocat de l'appelante, la disposition et l'acquisition des actions du capital-actions de Les Clairvoyants doivent correspondre au même moment. Citée à l'appui de cet argument est la récente décision de la Cour d'appel fédérale Hewlett Packard (Canada) Ltée c. Canada, [2004] A.C.F. no 1084 (Q.L.). Selon elle, l'acquisition de 90 % des actions du capital-actions de Les Clairvoyants par Société Nationale a déclenché également, au même moment, une acquisition du contrôle. Cependant, étant donné la règle déterminative, la présomption irréfragable, contenue dans le paragraphe 256(9) de la Loi, le contrôle qui est acquis à un moment donné est réputé l'être au début du jour où tombe ce moment, soit, en l'occurrence, au début de la journée du 5 juillet 1994. Ainsi, selon l'avocat de l'appelante, au moment où il y a eu disposition et acquisition des actions du capital-actions de Les Clairvoyants, cette dernière était contrôlée non plus par La Survivance, une société publique, mais par Société Nationale, une société privée. Les Clairvoyants était donc, dès le début de la journée du 5 juillet 1994, une SPCC. Selon l'avocat de l'appelante, il en découle donc que, lors de la disposition ultérieure des actions par La Survivance durant les heures normales de bureau le même jour, toutes les conditions étaient remplies pour que la perte subie soit une PTPE. L'avocat de l'appelante est conscient que cet argument repose sur une fiction mais, selon lui, les paragraphes 256(9) et 125(7) de la Loi sont clairs et le sens ordinaire et grammatical des mots doit prévaloir.
+[8] L'avocat de l'appelante soutient que le moment de la disposition des actions est bien le 5 juillet 1994 et non le 30 juin 1994 comme le soutiennent les avocats de l'intimée. En effet, selon lui, les définitions de « disposition de biens » et de « produit de disposition » que l'on trouvait à l'article 54 de la Loi à l'époque pertinente doivent être interprétées à la lumière des propos du juge Noël dans l'affaire Hewlett Packard (précitée). Plus précisément, l'avocat de l'appelante soutient qu'étant donné la mention, dans la définition de « produit de disposition », du « prix de vente du bien qui a été vendu », il faut nécessairement que le bien ait été vendu. Selon lui, l'entente[1] conclue était une promesse de vente et ne pouvait constituer qu'un avant-contrat. Elle était une convention de dépôt par laquelle Société Nationale offrait d'acheter et La Survivance acceptait de vendre les actions du capital-actions de Les Clairvoyants, sous réserve d'un processus de vérification diligente et de nombreuses autres conditions. Ce n'est que le 5 juillet 1994 que Société Nationale a pris livraison des actions déposées par La Survivance et les a payées et c'est également à cette date que Société Nationale a été inscrite au registre des actionnaires de Les Clairvoyants et que La Survivance a été radiée. Ce n'est donc qu'à ce moment qu'il y aurait eu vente.
+[9] L'avocat de l'appelante mentionne également que la commune intention des parties à l'entente était que les évènements se déroulent en conformité avec les dispositions de la Loi sur les valeurs mobilières[2] du Québec, que La Survivance dépose ses actions de Les Clairvoyants en conformité avec les termes de l'offre publique d'achat (« OPA »), que les conditions stipulées soient remplies avant le 30 juin 1994 et qu'au plus tard le 11 juillet 1994 Société Nationale prenne livraison de toutes les actions déposées par tout actionnaire de Les Clairvoyants et les paie (« takes up and pays for »). Ainsi, les effets de la vente auraient été différés au 5 juillet 1994 et c'est alors que la propriété des actions du capital-actions de Les Clairvoyants aurait été transférée par La Survivance à Société Nationale de manière à lui conférer le droit réel justifiant son inscription en tant qu'actionnaire.
+[10] Sur ce point, l'avocat de l'appelante fait valoir que sa position est conforme à l'opinion courante exprimée par J. George Vesely et Robert A. Roberts dans une étude intitulée « Takeover Bids: Selected Tax, Corporate, and Securities Law Considerations », dans Report of Proceedings of the Forty-Third Tax Conference, 1991 Conference Report, Toronto Canadian Tax Foundation/Association canadienne d'études fiscales, 1992, 11:1-47, où les auteurs affirment à la page 11:11, à la note 42 :
+The date on which the acquiror takes up and pays for deposited target shares is generally regarded as the date on which the vendor disposes of his target shares.
+[11] Il se réfère aussi à cet égard à la décision de la Commission de révision de l'impôt dans l'affaire Nauss et al v. M.N.R., 78 DTC 1796.
+[12] L'avocat de l'appelante souligne également l'opinion du cabinet Ogilvy Renault communiquée aux actionnaires de Les Clairvoyants dans la Note d'information accompagnant l'offre d'achat au comptant faite par Société Nationale, opinion qui est exprimée dans les termes suivants:
+L'actionnaire ne sera pas considéré comme ayant disposé de ses actions au moment du dépôt des actions en réponse à l'offre, mais il sera plutôt considéré comme ayant disposé de ses actions au moment où il est pris livraison des actions, contre paiement.[3]
+[13] L'avocat de l'appelante souligne que si cette opinion ne peut être déterminante pour trancher la question en litige, elle peut certainement valoir comme élément de doctrine pertinent puisqu'elle porte sur la transaction en litige. De plus, selon lui, elle peut être considérée comme un indice de l'intention commune des parties.
+[14] Comme argument subsidiaire, l'avocat de l'appelante soutient que si la Cour en venait à la conclusion que la disposition des actions du capital-actions de Les Clairvoyants par La Survivance est survenue à une date antérieure au 5 juillet 1994, la perte subie serait toujours une PTPE puisque l'application du paragraphe 256(9) aurait produit les mêmes effets à cette date antérieure. Cela s'expliquerait par le fait que le moment de la disposition des actions du capital‑actions de Les Clairvoyants par La Survivance est nécessairement contemporain du moment de l'acquisition de ces actions par Société Nationale.
+Position de l'intimée
+[15] La position de l'intimée est que la disposition des actions du capital-actions de Les Clairvoyants par La Survivance est survenue le 30 juin 1994, mais que le contrôle de Les Clairvoyants n'a été acquis par Société Nationale que le 5 juillet 1994, soit au moment de son inscription au registre des actionnaires de Les Clairvoyants. Il en résulte que, lors de la disposition des actions du capital‑actions de Les Clairvoyants par La Survivance, Les Clairvoyants était toujours contrôlée par celle-ci, une société publique selon la présomption établie à l'article 141 de la Loi tel qu'il était rédigé à l'époque en cause. Les Clairvoyants ne pouvait donc, à ce moment, être considérée comme une SPCC, de sorte que la disposition des actions de son capital‑actions par La Survivance ne pouvait donner lieu à une PTPE.
+[16] Les avocats de l'intimée soutiennent que La Survivance a disposé des actions de Les Clairvoyants le 30 juin 1994, car l'évènement donnant droit au prix de vente s'est produit le 30 juin 1994. Selon eux, les conditions de l'OPA étaient remplies le 30 juin 1994 et la vente des actions de Les Clairvoyants devenait alors exécutoire et irrévocable et ne pouvait plus être modifiée unilatéralement ni par La Survivance ni par Société Nationale. De plus, selon eux, le délai dont disposait Société Nationale pour prendre livraison des actions de Les Clairvoyants vendues par La Survivance et pour les payer n'avait pas la moindre incidence sur le droit absolu au prix de vente des actions qu'avait La Survivance à partir du 30 juin 1994.
+[17] Les avocats de l'intimée invoquent la décision de la Cour de l'Échiquier Victory Hotels Ltd v. M.N.R., [1963] R. C de l'É. 123, à l'appui de la thèse que le droit au produit de disposition, c'est-à-dire le droit au prix de vente du bien qui a été vendu, a été acquis le 30 juin 1994 par La Survivance. Ils s'appuient également sur le Bulletin d'interprétation IT-170R intitulé « Vente de biens – Quand elle doit être incluse dans le calcul du revenu » en date du 25 août 1980. Au paragraphe 12 de ce bulletin il est fait mention qu'un actionnaire qui dépose une action chez un dépositaire conformément à une « offre d'acquisition » a droit au produit de la vente à la première des deux dates suivantes, soit la date où l'offrant prend livraison des actions ou la date à laquelle toutes les conditions de l'offre ont été respectées.
+[18] Selon les avocats de l'intimée, le fait qu'il y ait eu disposition le 30 juin 1994 n'entraîne pas automatiquement une acquisition de contrôle de la part de Société Nationale à cette date. S'il est vrai que l'on ne peut dissocier la disposition et l'acquisition des mêmes actions, les avocats de l'intimée sont d'avis qu'il est tout à fait possible que l'appelante ait disposé de ses actions le 30 juin 1994, mais que l'acquisition du contrôle de Les Clairvoyants par Société Nationale ne soit survenue que le 5 juillet 1994.
+[19] Selon eux, le contrôle de Les Clairvoyants n'aurait été acquis que le 5 juillet 1994 puisque c'est à cette date seulement que Société Nationale a été inscrite au registre des actionnaires de Les Clairvoyants. Les avocats de l'intimée soutiennent que tant et aussi longtemps que l'inscription au registre des actionnaires n'avait pas été faite, Société Nationale ne pouvait prétendre avoir acquis le contrôle de Les Clairvoyants puisqu'elle ne pouvait détenir la majorité des voix dans l'élection du conseil d'administration de Les Clairvoyants, car les actions acquises ne conféraient pas à Société Nationale le droit de vote. En effet, selon eux, jusqu'à l'enregistrement dans son registre des transferts, Les Clairvoyants devait agir comme si le transfert n'avait pas eu lieu et, par conséquent, ne pouvait reconnaître de droit de vote à Société Nationale. Sur ce point, les avocats de l'intimée se réfèrent à la décision de la Cour d'appel du Québec dans l'affaire Québec (Inspecteur général des institutions financières) c. Assurances funéraires Rousseau et frère Ltée, [1990] A.Q. no 605 (Q.L.), dans laquelle le juge Baudouin affirmait ce qui suit :
+[...]
+La loi ne prévoit pas que le transfert non enregistré soit nul ab initio. La Compagnie doit toutefois, si le transfert n'a pas été enregistré, agir comme si celui-ci ne s'était pas produit, et ne tenir que ceux dont les noms apparaissent au registre comme actionnaires, avec les conséquences qui en découlent en droit corporatif quant au versement des dividendes, à l'exercice du droit de vote et à la convocation aux assemblées (voir M. Martel et P. Martel « La Compagnie au Québec. Les aspects juridiques », nouvelle édition, Montréal, Wilson et Lafleur, 1989, p. 315; L'article 71.1 est cependant clair. L'absence d'enregistrement n'affecte pas la validité du transfert entre les parties. Elle ne fait que le rendre inopposable aux tiers. La sanction est donc l'inopposabilité et non la nullité.
+[...]
+[...] Certes l'enregistrement est un accessoire du transfert. Son caractère d'accessoire cependant ne signifie pas, à mon avis, qu'il ne puisse être annulé sans que le transfert le soit également. Ce serait en effet nier la distinction entre l'acte juridique et la formalité de publicité et donner à la seconde une valeur juridique égale au premier.
+[20] Les avocats de l'intimée soulignent, en se fondant sur la décision de la Cour suprême du Canada dans l'affaire Duha Printers (Western) Ltd. c. Canada, [1998] 1 R.C.S. 795, aux paragraphes 35 et 40, que c'est la détention d'un nombre d'actions tel qu'il confère à leur détenteur la majorité des voix dans l'élection du conseil d'administration qui permet de contrôler une société. Cependant, selon l'article 71.1 de la Loi sur les compagnies[4] du Québec et le paragraphe 51(1) de la Loi canadienne sur les sociétés par actions[5] l'exercice de ce droit de vote est subordonné à l'inscription de son titulaire au registre de la société.
+[21] Finalement, les avocats de l'intimée soutiennent que la thèse proposée par l'avocat de l'appelante va à l'encontre du texte de l'alinéa 39(1)c) de la Loi, de l'objectif législatif visé par la PTPE et du régime général établit par la Loi. Selon eux, le résultat pratique de la théorie proposée par La Survivance est inacceptable puisque, si cette dernière vend ses actions à une société publique, sa perte est une simple perte en capital, alors que si elle vend ses actions à une société privée, sa perte constitue une PTPE. L'effet d'une telle pratique serait que le statut de l'acheteur déterminerait le droit à une PTPE alors que le législateur voulait accorder ce droit uniquement lorsqu'il y a disposition d'actions du capital‑actions d'une SPCC. Également, ils soulignent que l'intention du Parlement derrière le régime des PTPE était d'encourager et de stimuler l'investissement dans les petites entreprises canadiennes afin d'encourager la formation de telles entreprises et d'appuyer leur développement. À cet égard, les avocats de l'intimée se sont référés au Débats des Communes du 29 juin 1978 et au discours de la même date de l'honorable Jean Chrétien, alors ministre des Finances. Il se sont également référés au communiqué no 87‑09 du ministère des Finances du 15 février 1987 afin de démontrer que le paragraphe 256(9) de la Loi a vu le jour dans le cadre d'une série de mesures adoptées en 1987 pour lutter contre l'évitement fiscal commis par le transfert de pertes et d'autres déductions entre sociétés non liées.
+Analyse
+La date de disposition
+[22] Je suis d'accord avec l'avocat de l'appelante que la disposition des actions du capital-actions de Les Clairvoyants par La Survivance est survenue le 5 juillet 1994 et non le 30 juin 1994 comme le soutiennent les avocats de l'intimée. À mon avis, c'est le 5 juillet 1994 que La Survivance a eu droit au prix de vente des biens vendus. Dans sa décision dans l'affaire Hewlett Packard (Canada) Ltée c. Canada (précitée), le juge Noël de la Cour d'appel fédérale s'exprimait sur ce point dans les termes suivants, aux paragraphes 45 à 51 :
+45 Toutefois, en s'appuyant sur la définition large de l'expression « disposition de biens » donnée au paragraphe 13(21), le juge de la Cour de l'impôt a statué qu'il peut également y avoir disposition de biens quand le droit au produit de disposition devient absolu, même si la propriété n'a pas encore été transférée. Selon la règle nouvelle qu'il a adoptée, il y a disposition soit quand la propriété du bien est transférée à l'acheteur, soit quand le droit à la contrepartie devient absolu (motifs, paragraphe 47), selon la première éventualité qui se réalise.
+46 J'ai de la difficulté à concevoir comment, d'après les faits de l'espèce, HP peut être considérée comme ayant eu un droit absolu d'être payée le 31 octobre de chaque année, si la propriété de l'ancien parc demeurait entre ses mains à cette date. Par exemple, que serait-il arrivé si une voiture faisant partie de l'ancien parc avait été détruite par un acte fortuit vers la fin du 31 octobre d'une année donnée? Puisque le risque est un attribut du titre de propriété en vertu des lois provinciales sur la vente d'objets, il en découlerait que HP aurait assumé la perte. Après avoir analysé la preuve, le juge de la Cour de l'impôt a été incapable de conclure que le risque pouvait être assumé par quelqu'un d'autre. Dans les circonstances, je ne vois pas comment le droit de HP au produit de l'ancien parc soit devenu absolu avant le transfert du titre.
+47 Mais même si HP pouvait être considérée comme ayant eu un droit inconditionnel au produit de la disposition avant le transfert du titre, je ne crois pas que la règle proposée par le juge de la Cour de l'impôt puisse être justifiée, et cela pour une simple question d'interprétation législative.
+48 Le juge de la Cour de l'impôt a statué que, en adoptant une définition inclusive de l'expression « disposition de biens », le législateur avait l'intention de donner une « directive expresse » selon laquelle le moment de la disposition ne pouvait être laissé à la discrétion des parties (motifs, paragraphe 47). Le fait que le « produit de la disposition » d'un bien soit défini à l'égard d'une vente comme étant « le prix de vente du bien qui a été vendu » [ ... ] n'est pas un obstacle parce que la définition de l'expression « disposition de biens » ne fait pas référence à la « date de la vente » (motifs, paragraphe 48).
+49 En toute déférence, je ne peux déceler la « directive expresse » sur laquelle s'appuie l'interprétation du juge de la Cour de l'impôt. Le législateur a défini l'expression « disposition de biens » d'une manière inclusive avec l'intention évidente de ne pas limiter la catégorie d'opérations susceptibles de donner lieu à une disposition. Toutefois, pour ce qui a trait à une opération de vente, le législateur a précisé à l'alinéa 13(21)a) le droit auquel donne lieu une disposition.
+50 Dans le contexte de la Loi, les mots utilisés pour définir ce droit (« le prix de vente du bien qui a été vendu » ) sont présumés avoir leur sens légal (Will-Kare Paving Contracting Limited c. La Reine, 2000 DTC 6467, au paragraphe 33), et pour ce qui a trait à la définition susmentionnée qui est donnée à l'article 54, il ne fait aucun doute que le législateur a adopté le concept d'une vente tel qu'il est connu en droit.
+51 En agissant ainsi, le législateur s'est assuré que la date de la disposition d'un bien correspond à la date de son acquisition, un résultat qui est non seulement souhaitable, mais essentiel à la bonne application de la Loi. À cet égard, je note que, selon l'analyse du juge de la Cour de l'impôt, personne n'aurait été propriétaire de l'ancien parc pour des fins fiscales le 31 octobre, puisque HP en aurait eu disposé à cette date, mais que Ford ne l'aurait acquis que le lendemain.
+[Je souligne.]
+[23] À mon avis, il n'y a eu vente que le 5 juillet 1994, soit au moment où le transfert de la propriété des actions de Les Clairvoyants a eu lieu. L'article 1708 du Code civil du Québec (« C.c.Q. ») définit la vente comme étant le contrat par lequel une personne transfère la propriété d'un bien à une autre personne. Tout ce qui s'est passé avant le 5 juillet 1994 constituait une promesse de vente et aucun effet de la vente elle‑même ne peut avoir été créé puisque la promesse de vente n'était pas accompagnée de délivrance et possession (1710 C.c.Q.). L'opinion que l'on trouve exprimée dans la Note d'information à l'annexe D de l'Entente sur les faits et qui est reproduite au paragraphe 12 ci‑dessus, peut certes constituer un indice de ce qu'était l'intention des parties, bien qu'elle ne puisse, comme l'a souligné l'avocat de l'appelante, être déterminante relativement à la question de droit en litige. Toutefois, cette opinion est claire et elle a été transmise, au nom de Société Nationale, à tous les actionnaires de Les Clairvoyants en même temps que l'offre. Sur ce point, j'aimerais également me référer à un passage de la décision dans l'affaire Raschella c. 3633713 Canada inc., [2003] J.Q. no 23 (Q.L.), où le juge Rochon de la Cour d'appel du Québec en vient à la conclusion qu'il ne peut y avoir vente lorsque les parties s'accordent sur une promesse de vente, et qu'il faut donner préséance à l'intention des parties dans l'interprétation du contrat :
+12 La convention des parties constitue une promesse synallagmatique qui n'équivaut pas à vente puisque les parties ont notamment convenu de reporter à plus tard la conclusion du contrat de vente et le transfert de propriété (1396 C.c.Q.). Récemment, dans l'arrêt Amiska Corporation Immobilière inc. c. Alain Bellerive, [[2001] R.J.Q. 1495 (C.A.)], le juge Forget écrit :
+À ce sujet également, je suis d'avis que le premier juge n'a pas commis d'erreur en concluant que la promesse d'achat du 16 décembre 1994 ne constituait pas une vente.
+Il est vrai que sous l'ancien droit, il y avait une certaine controverse à savoir si la promesse de vente synallagmatique équivalait à vente. La jurisprudence avait toutefois tranché qu'une telle promesse ne pouvait équivaloir à une vente lorsque le transfert de la propriété était reporté au moment du contrat de vente, ce qui est le cas en l'espèce.
+La situation serait la même si on appliquait, comme l'a fait le premier juge, le droit nouveau qui avait cours au moment de la signature de la promesse d'achat. Il faudrait également conclure qu'il n'y a pas eu vente (1396 C.c.Q.) [id.. p. 1499].
+[Je souligne.]
+[24] J'estime donc que les effets de la vente ont été différés au 5 juillet 1994 puisque l'entente transfère à cette date la propriété des actions de Les Clairvoyants à Société Nationale et lui confère le droit réel qui justifie son inscription en tant qu'actionnaire.
+La présomption du paragraphe 256(9) de la Loi
+[25] Étant donné que la disposition et l'acquisition des mêmes actions sont contemporaines (Hewlett Packard (précitée), par. 51) et que, par conséquent, l'acquisition du contrôle de Les Clairvoyants par Société Nationale est réputée avoir eu lieu au début de la journée du 5 juillet 1994, il s'agit de déterminer si l'application de la présomption énoncée au paragraphe 256(9) de la Loi peut comporter d'autres conséquences.
+[26] La dernière phrase du paragraphe 13 de l'Entente sur les faits se lit ainsi :
+Par ailleurs, dès l'acquisition du contrôle aux fins de la LIR par Société Nationale, Les Clairvoyants était une « société privée sous contrôle canadien » au sens du paragraphe 125(7) de la LIR.
+[27] Au paragraphe 51 de son Aide-mémoire, l'avocat de l'appelante commente cette admission dans les termes suivants :
+Le déplacement de l'acquisition du contrôle de Les Clairvoyants par Société Nationale au début du jour de l'acquisition des actions signifie que, dès ce moment, Société Nationale a le contrôle exclusif de cette autre société qui est en conséquence une SPCC. Tant que cette conclusion en est une de fait, elle est admise par les parties : « ... dès l'acquisition du contrôle aux fins de la LIR par Société Nationale, Les Clairvoyants était une « société privée sous contrôle canadien » au sens du paragraphe 125(7) de la LIR » (53)
+________________________________
+(53) Entente sur les faits, par. 13, dernière phrase.
+[28] Toutefois, estimant que la dernière phrase du paragraphe 13 de l'Entente sur les faits exprimait une conclusion constituant une admission sur une question de droit, à la suite de l'audience, j'ai fait part aux avocats des parties de ma préoccupation à cet égard; je les ai informés que je ne pouvais être lié par une telle admission et j'ai sollicité des observations additionnelles sur la question.
+[29] Dans ses observations sur la question[6], l'avocat de l'appelante écrit notamment ce qui suit aux pages 3 et 4 :
+c. L'Admission signifie que dès l'acquisition du contrôle toutes les conditions de fait nécessaires pour qualifier Les Clairvoyants en tant que SPCC sont remplies. « L'acquisition du contrôle », pour les raisons énoncées ci-dessus et dans l'argument écrit de l'appelante, est survenue pour toutes fins de la LIR, y compris la définition de SPCC au paragraphe 125(7) de la LIR, au début du jour du 5 juillet 1994. Dès ce moment, les conditions de fait énoncées dans cette définition sont réunies. Nous ne croyons pas qu'il y ait des conditions de droit qui ne sont pas remplies.
+d. Le mot « exclusif » employé au paragraphe 51 de l'argument écrit de l'appelante est choisi pour signifier que le contrôle de Les Clairvoyants pendant la période qui commence au début du jour du 5 juillet 1994 jusqu'au moment durant les heures d'affaires où Société Nationale a acquis les actions de cette dernière et est enregistré en tant qu'actionnaire n'est pas scindé. Le contrôle est « exclusif » dans le sens que l'acquisition du contrôle de Les Clairvoyants par Société Nationale au début du jour, en vertu de la présomption du paragraphe 256(9), prive La Survivance du contrôle de cette société dès ce moment. Lorsqu'une personne acquiert le contrôle d'une société, cette dernière n'est plus contrôlée par une autre personne qui la contrôlait avant la prise du contrôle.
+[30] Quant aux avocats de l'intimée[7], ils sont d'accord que la dernière phrase du paragraphe 13 de l'Entente sur les faits exprime une conclusion sur une question de droit mais font par ailleurs les observations suivantes :
+[...] afin de donner un sens aux mots « dès l'acquisition du contrôle », il est important de se rappeler que l'enregistrement de Société Nationale et la radiation de La Survivance au registre des actionnaires de Les Clairvoyants ont été effectués durant les heures d'affaires le 5 juillet 19941 et que c'est cette modification du registre des actionnaires de Les Clairvoyants qui a déclenché l'acquisition du contrôle de Les Clairvoyants par Société Nationale2.
+Ceci étant, la Couronne réitère que « [c]e n'est que suite à l'inscription du transfert d'actions qu'il y a acquisition du contrôle et que la présomption prévue au paragraphe 256(9) de la Loi trouve application. Au moment du transfert d'actions, le contrôle est toujours entre les mains du disposant »3
+________________________________________________
+1 Voir le paragraphe 10 de l'entente sur les faits.
+2 Voir les pages 13 et suivantes du plan d'argumentation de l'intimée.
+3 Voir le paragraphe 33 du plan d'argumentation de l'intimée.
+[31] À mon avis, la question se résume à déterminer les conséquences exactes de la présomption établie au paragraphe 256(9) de la Loi, compte tenu de la définition de SPCC énoncée au paragraphe 125(7) de la Loi. L'avocat de l'appelante soutient que le déplacement de l'acquisition du contrôle de Les Clairvoyants par Société Nationale, une société privée, jusqu'au début de la journée du 5 juillet 1994 fait en sorte que La Survivance, une société publique, ne contrôle plus Les Clairvoyants à partir du même moment, de sorte qu'au moment de la disposition et de l'acquisition des actions de son capital-actions durant les heures de bureau le même jour, Les Clairvoyants est déjà une SPCC, étant contrôlée exclusivement par Société Nationale.
+[32] Au paragraphe 55 de son Aide-mémoire, l'avocat de l'appelante aborde d'ailleurs directement cette question dans les termes suivants :
+55. Il est théoriquement possible qu'une règle déterminative donne le contrôle d'une société à une personne sans l'ôter de la personne qui, sauf cette présomption, l'aurait. Mais ce n'est pas le cas du paragraphe 256(9) de la LIR. Il stipule que « le contrôle d'une société qui est acquis à un moment donné est réputé l'être au début du jour où tombe ce moment ». Rien dans le texte ne justifie un dédoublement du contrôle. Le paragraphe 256(9) vise précisément la qualité de la société elle-même comme étant une société contrôlée par une personne ou un groupe de personnes à un moment donné. Les effets du paragraphe ne sont pas limités à la situation fiscale de la personne qui en fait l'acquisition ou de la personne qui l'abandonne.
+[33] Je suis en désaccord avec l'avocat de l'appelante. Le but du paragraphe 256(9) est de fixer l'acquisition du contrôle d'une société survenue durant un jour donné à un moment qui est au début de ce jour plutôt qu'au moment réel de l'acquisition de contrôle (sous réserve du choix en sens contraire) de sorte que l'année d'imposition de cette société se terminant immédiatement avant l'acquisition de contrôle puisse se terminer à la fin du jour précédant celui au cours duquel le contrôle est réellement acquis plutôt qu'à un moment quelconque du jour au cours duquel le contrôle est acquis c'est-à-dire au moment de ce jour qui précède immédiatement le moment réel de l'acquisition de contrôle. Pour la société, il s'ensuit qu'une nouvelle année d'imposition commence alors également au début du jour au cours duquel le contrôle est acquis. La règle évite qu'une année d'imposition se termine et une autre commence au milieu d'une journée avec toutes les complications que cela peut entraîner notamment sur les calculs requis par la Loi dans de telles circonstances.
+[34] À mon avis, le paragraphe 256(9) ne modifie pas autrement la situation réelle qui doit prévaloir. Ce paragraphe ne comporte pas de corollaire pour l'autre partie à la transaction comme le font d'autres dispositions déterminatives de la Loi comme le paragraphe 85(1) par exemple. Il est plutôt du même ordre que l'alinéa 69(1)a) de la Loi qui prévoit qu'un contribuable qui acquiert un bien auprès d'une personne avec laquelle il avait un lien de dépendance pour une somme supérieure à la valeur marchande est réputé l'avoir acquis pour une somme égale à cette juste valeur marchande. Cet alinéa ne comporte pas de corollaire non plus et il est reconnu que les conséquences fiscales pour le vendeur seront établies en fonction de la somme supérieure réellement reçue.
+[35] Dans l'affaire La Reine c. Verrette, [1978] 2 R.C.S. 838, le juge Beetz de la Cour suprême du Canada précisait la portée d'une présomption ou d'une disposition déterminative dans les termes suivants, à la page 845 :
+[...] Une disposition déterminative est une fiction légale; elle reconnaît implicitement qu'une chose n'est pas ce qu'elle est censée être, mais décrète qu'à des fins particulières, elle sera considérée comme étant ce qu'elle n'est pas ou ne semble pas être. [...]
+[36] Dans la mesure où une présomption ou une disposition déterminative a précisément pour effet de travestir la réalité, j'estime que l'on doit l'interpréter de façon stricte et en limiter la portée à ce qu'elle exprime clairement. Dans le cas présent, Société Nationale a acquis le contrôle de Les Clairvoyants durant la journée du 5 juillet 1994. Le paragraphe 256(9) établit que ce contrôle est réputé avoir été acquis au début de cette journée du 5 juillet 1994, rien de plus. Il n'établit pas que la personne qui détenait le contrôle légal ou effectif de Les Clairvoyants, soit La Survivance, a cessé simultanément de détenir ce contrôle. Rien non plus dans ce paragraphe ne permet de conclure que La Survivance serait réputée avoir disposé des actions du capital‑actions de Les Clairvoyants avant le moment réel de leur disposition durant la journée du 5 juillet 1994, de sorte qu'au moment où cette disposition est survenue elle avait toujours le contrôle légal ou effectif de Les Clairvoyants. Dans l'affaire Viking Food Products Ltd. v. M.N.R., [1967] 2 R.C. de l'É. 11, 67 DTC 5067, le président Jackett de la Cour de l'Échiquier affirmait que ce n'est pas parce qu'une personne est réputée contrôler une société que la personne qui contrôlerait cette société n'eût été la présomption cesse de la contrôler. Voici comment il s'exprimait à cet égard aux pages 13 et 14 R.C. de l'É. et 5068, 5070 et 5071 DTC :
+The question that I have to decide is therefore a question as to the effect of subsection (5d) of section 139, which may be put in general terms as follows:
+If a person, by virtue of subsection (5d), is "deemed" to have had during a certain period "the same position in relation to ... control" of a corporation "as if" he owned certain shares in that corporation, does it follow that the person who during that period actually owned those shares is "deemed" to have had during that period "the same position in relation to ... control" of that corporation "as if" he did not own those shares?
+[...]
+Having regard to the general scheme of the provisions in which the concept of not dealing at arm's length was employed, as I understand it, and to the expressed legislative intent that the non-arm's length concept extends not only to any case where parties were not, in fact, dealing at arm's length (subsection (5)(b)) but also to a variety of arbitrarily defined circumstances where the parties might, in fact, be dealing at arm's length, it seems improbable that Parliament intended that paragraph (b) of subsection (5d) would have the unexpressed effect of artificially deeming a person to have ceased to control a company whose issued shares all belonged to him merely because he had granted an option to someone else to buy such shares.
+[Je souligne.]
+[37] Évidemment, le contexte de la présente affaire est différent. Toutefois, à mon avis le paragraphe 256(9) n'interdit aucunement la coexistence du contrôle légal ou effectif d'une société et du contrôle réputé de cette même société pour l'espace d'une journée, ou plutôt de quelques heures, jusqu'au moment de la disposition des actions déclenchant l'application de la présomption.
+[38] Par ailleurs, si je retiens l'argument que ce ne sont pas la disposition et l'acquisition des actions qui ont sanctionné le changement de contrôle mais plutôt l'inscription au registre des transferts qui a suivi, je dois également conclure qu'au moment de la dispositions des actions du capital-actions de Les Clairvoyants, La Survivance en détenait toujours le contrôle légal ou effectif.
+[39] Cela étant, La Survivance n'a pas disposé d'actions du capital-actions d'une SPCC selon la définition du paragraphe 125(7) de la Loi et partant, de telles actions d'une SEPE selon la définition du paragraphe 248(1) de la Loi. La perte subie par La Survivance lors de la disposition des actions du capital-actions de Les Clairvoyants n'est donc pas une PTPE selon la définition de l'alinéa 39(1)c) de la Loi.
+[40] En terminant, j'ajouterai simplement que cette conclusion permet d'éviter le résultat incongru que La Survivance puisse réclamer une PTPE suite à la disposition d'actions du capital-actions d'une société se qualifiant comme une SPCC et une SEPE au motif que Société Nationale qui en a acquis le contrôle était une société privée alors qu'elle ne pouvait ni détenir ni disposer de telles actions puisqu'elle était elle-même, en tout temps pertinent, une société réputée une société publique qui contrôlait cette société.
+[41] En conséquence, l'appel est rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 26e jour d'avril 2005.
+« P. R. Dussault »
+Juge Dussault
+RÉFÉRENCE : 2005CCI245
+Nº DU DOSSIER DE LA COUR : 2001-4281(IT)G
+INTITULÉ DE LA CAUSE : La Survivance c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATES
+de l'audience : le 15 février 2005
+des observations additionnelles
+de l'appelante : le 9 mars 2005
+des observations additionnelles
+de l'intimée : le 9 mars 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge P. R. Dussault
+DATE DU JUGEMENT : le 26 avril 2005
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Robert Couzin
+Avocats de l'intimée :
+Me Daniel Verdon et Me Yanick Houle
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom : Me Robert Couzin
+Étude : Couzin Taylor s.r.l./S.E.N.C.R.L.
+Ville : Toronto (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Cette entente est intervenue le 3 mai 1994 entre La Survivance et Société Nationale. En vertu de cette entente, Société Nationale offrait d'acheter et La Survivance acceptait de vendre les actions de Les Clairvoyants qu'elle détenait à cette date ainsi que la totalité des nouvelles actions à être émises en conformité avec l'entente, le tout dans le cadre d'une offre publique d'achat d'actions faite en conformité avec les lois applicables du Québec et portant sur la totalité des actions ordinaires émises et en cours de la société Les Clairvoyants.
+(Voir paragraphes 24 et 36 de l'Aide-mémoire de l'argument de l'appelante.)
+[2] L.R.Q., ch. V-1.1.
+[3] Entente sur les faits, annexe D, Note d'information, page 10.
+[4] L.R.Q., ch. C-38.
+[5] L.R.C. (1985), ch. C-44.
+[6] Lettre du 9 mars 2005.
+[7] Lettre du 9 mars 2005.

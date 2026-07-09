@@ -1,0 +1,360 @@
+---
+title: "Harris v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26494/index.do"
+last_modified: "2004-11-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 737"
+citation2: ""
+neutral_citation: "2004 TCC 737"
+decision_date: "2004-11-23"
+language: "en"
+item_id: "26494"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3242
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:49:22.583000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "19b0e0eae68b08d968474125a03c00b8d9d4b2be497c4b6308f1ea464cf508ce"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Harris v. The Queen
+
+- Citation: 2004 TCC 737
+- Decision date: 2004-11-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3242, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Harris v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-23
+Neutral citation
+2004 TCC 737
+File numbers
+2003-3024(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3024(IT)I
+BETWEEN:
+DAVID J. HARRIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on October 25, 2004 at Vancouver, British Columbia
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Agent for the Appellant:
+Ron Ilner
+Counsel for the Respondent:
+Nadine Taylor Pickering
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(1) the Appellant is entitled to deductions:
+(i) for travel expenses of $1,847.04 in the year 1999 and $1,405.04 in the year 2000;
+(ii) for telephone expenses of $486.00 in the year 1999 and $511.00 in the year 2000; and
+(iii) for office expenses and supplies of $70.00 plus $66.00 for capital cost allowance, (a total of $136.00) in the year 2000;
+(2) on the further basis that the Appellant's incomes are increased by adding net rental incomes of $447.21 in the year 1999 and $398.18 in the year 2000; and
+(3) that the penalties assessed by the Minister for late filing were properly assessed in accordance with section 162 of the Income Tax Act, the whole in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of November, 2004.
+"T. O'Connor"
+O'Connor, J.
+Citation:2004TCC737
+Date: 20041123
+Docket: 2003-3024(IT)I
+BETWEEN:
+DAVID J. HARRIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] The history of how these appeals evolved and the issues are described in the following paragraphs of the Reply to the Notice of Appeal ("Reply"):
+...
+2. By a letter dated January 12, 2001, the Minister of National Revenue ("Minister") requested that the Appellant file his 1999 income tax return.
+3. By a letter dated February 27, 2001, the Minister reminded the Appellant of the previous request to file his 1999 income tax return.
+4. By a letter dated January 9, 2002, the Minister requested that the Appellant file his 2000 income tax return.
+5. By a letter dated February 22, 2002, the Minister served a demand on the Appellant to file his 2000 income tax return.
+6. By Notices dated June 6, 2002, the Minister initially assessed the Appellant for the 1999 and 2000 taxation years under subsection 152(7) of the Income Tax Act ("Act"), for taxable income of $42,428.89 and $37,965.64, respectively, as detailed in the attached Schedules "A" and "B". The Minister also assessed the Appellant for late filing penalties in accordance with section 162 of the Act.
+7. The Appellant objected to the assessments by Notice of Objection dated October 17, 2002.
+8. On October 21, 2002, the Appellant submitted his 1999 and 2000 income tax returns, and reported taxable income of $31,126.85 and $26,131.64, respectively, as detailed in the attached Schedules "A" and "B".
+9. By Notice dated May 21, 2003, the Minister confirmed the assessments for the Appellant's 1999 and 2000 taxation years.
+10. In assessing taxes for the 1999 and 2000 taxation years and in confirming those assessments, the Minister assumed the same facts, as follows:
+a) the Appellant earned employment income of $40,583.01 in 1999 and $37,965.64 in 2000 from 3003300 Nova Scotia Company operating as Petsmart, and $830.00 in 1999 from The Rockhouse Indoor Climbing Centre Ltd.;
+b) the Appellant also realized a net capital gain of $1,015.88 in 1999 from the disposition of securities issued by Canada Life;
+c) the Appellant did not earn other employment income of $7,230.26 in 1999 and $4,396.68 in 2000;
+d) the Appellant did not incur expenses of $9,863.56 in 1999 and $11,230.62 in 2000 to earn income from employment;
+e) the Appellant did not incur expenses of $7,369.96 in 1999 and $6,000.00 in 2000 to gain or produce business income;
+f) the Appellant's spouse earned not less than $6,290.00 in 1999 and $6,754.00 in 2000;
+g) the Appellant did not submit income tax returns for the 1999 and 2000 taxation years until October 21, 2002; and
+h) the Appellant filed his 1999 and 2000 income tax returns beyond the time limit, and therefore late filing penalties in the amounts of $1,351.27 for 1999 and $2,613.54 for 2000 were payable by him.
+B. ISSUES TO BE DECIDED
+11. The issues are whether:
+a) the Minister properly determined the taxable income of the Appellant for the 1999 and 2000 taxation years; and
+b) the Minister properly levied late filing penalties under section 162 of the Act.
+...
+16. The Appellant is not entitled to claim a spousal amount of $5,718.00 in 1999 and $6,140.00 as a non-refundable tax credit under paragraph 118(1)(a) of the Act, as his spouse's income was in excess of the base amount for each of the 1999 and 2000 taxation years.
+[2] Schedules "A" and "B" of the Reply read as follows:
+SCHEDULE "A"
+David J. Harris - Tax Court of Canada Appeal #2003-3024(IT)I
+Income, deduction and non-refundable tax credits claimed and allowed for 1999
+June 6, 2002
+Assessment
+Oct. 21, 2002
+Revised Claim
+Amounts
+In Issue
+Income:
+Employment income
+$
+41,413.01
+$
+41,130.01
+$
+283.00
+Other employment income
+-
+7,230.26
+(7,230.26)
+Taxable capital gains
+1,015.88
+-
+1,015.88
+Discrepancies
+-
+0.10
+(0.10)
+Total Income
+42,428.89
+48,360.37
+(5,931.48)
+Deductions:
+Other employment expenses
+$
+-
+$
+9,863.56
+$
+(9,863.56)
+Other deductions
+-
+7,369.96
+(7,369.96)
+Total Deductions
+-
+17,233.52
+(17,233.52)
+Net & Taxable Income
+$
+42,428.89
+$
+31,126.85
+$
+11,302.04
+Non-refundable Tax Credits
+Basic personal amount
+$
+6,794.00
+$
+6,794.00
+$
+-
+Spousal amount
+-
+5,718.00
+(5,718.00)
+CPP contributions through employment
+1,186.50
+1,186.50
+-
+Employment insurance premiums
+994.50
+936.00
+58.50
+Total Non-refundable Tax Credits
+$
+8,975.00
+$
+14,634.50
+$
+(5,659.50)
+SCHEDULE "B"
+David J. Harris - Tax Court of Canada Appeal #2003-3024(IT)I
+Income, deductions and non-refundable tax credits claimed and allowed for 2000
+June 6, 2002
+Assessment
+Oct. 21, 2002
+Revised Claim
+Amounts
+In Issue
+Income:
+Employment income
+$
+37,965.64
+$
+38,965.58
+$
+(999.94)
+Other employment income
+-
+4,396.68
+(4,396.68)
+Total Income
+37,965.64
+43,362.26
+(5,396.62)
+Deductions:
+Other employment expenses
+$
+-
+$
+11,230.62
+$
+(11,230.62)
+Other deductions
+-
+6,000.00
+(6,000.00)
+Total Deductions
+-
+17,230.62
+(17,230.62)
+Net & Taxable Income
+$
+37,965.64
+$
+26,131.64
+$
+11,834.00
+Non-refundable Tax Credits
+Basic personal amount
+$
+7,231.00
+$
+7,231.00
+$
+-
+Spousal amount
+-
+6,140.00
+(6,140.00)
+CPP contributions through employment
+1,329.90
+1,329.90
+-
+Employment insurance premiums
+911.19
+877.36
+33.83
+Total Non-refundable Tax Credits
+$
+9,472.09
+$
+15,578.26
+$
+(6,106.17)
+[3] It should be noted at the outset that the Appellant has the burden of proof to prove the assessments wrong. Speaking generally, in view of the almost total lack of documentation, such as receipts and/or other proofs of expenses, and record keeping, the Appellant had an extremely difficult task of meeting that burden of proof. He was given considerable delays to file documentation and to a very great extent these delays were never met. Documentation continued to be submitted in dribs and drabs as late as one week prior to the hearing of these appeals.
+[4] Having stated the above, it is to be noted that the following matters were agreed to by the parties or otherwise established at the hearing.
+1. The capital gain of $ 1,015.88 referred to in paragraph 10(b) of the Reply was properly assessed.
+2. The "other employment incomes" of $ 7,230.26 in the year 1999 and $4,396.68 in the year 2000 referred to in paragraph 10(c) of the Reply were not earned and therefore were not taxable.
+3. The credits for spousal amounts of $5,718.00 in the years 1999 and $6,140.00 in the year 2000, referred in paragraph 16 of the Reply and in Schedules "A" and "B" were correctly disallowed because the Appellant's spouse's incomes were in excess of the base amounts for these years.
+4. The correct credits for employment insurance premiums were $994.50 in the year 1999 and $911.19 in the year 2000, as indicated in Schedules "A" and "B" of the Reply.
+5. Although not mentioned in the Notice of Appeal nor in the Reply, the Appellant had net rental income of $447.21 in the year 1999 and $398.18 in the year 2000 from the rental of space in his home in Mission, British Columbia to Rockhouse Indoor Climbing Centre Ltd. ("Rockhouse").
+6. The Appellant has established:
+(i) that Rockhouse was a wholly owned subsidiary of SCM Industries Ltd., the shares of which were in turn owned 33 1/3 by the Appellant, 33 1/3 by another person and 33 1/3 by a third person;
+(ii) that Rockhouse in 1999 and 2000 operated an indoor rock climbing centre at Richmond, British Columbia;
+(iii) that during those years the Appellant provided to Rockhouse consultancy services and to a lesser degree other services such as banking, lines of credit, arranging loans with the Federal Business Development Bank, G.S.T. and workmen's compensation matters, license requirements, marketing and business proposals;
+(iv) that the Appellant devoted 20 - 35 hours per week to the Rockhouse operation and,
+(v) that the Appellant was also in the years in question an employee of a Nova Scotia company acting as Petsmart, where he worked 60 - 70 hours per week. The Appellant points to this extremely heavy work load and the Rockhouse operation as an excuse for not being able to spare the time to properly locate and present all the necessary documentation and receipts to prove the expenses he has claimed.
+7. The parties have agreed that the debate is about the expenses that the Appellant claims in respect to the consulting business with Rockhouse.
+[5] It is proposed to discuss the various expenses under the headings submitted by the parties.
+Travel
+The Appellant's uncontested testimony is that the travel distance from the Mission office to the Rockhouse gym facility in Richmond was 120 kilometres round trip. At first the Appellant indicated that this distance was actually 240 kilometres but on clarification from the Appellant's Agent, the Appellant agreed that the actual amount of the round distance travelled was 120 kilometres. The Appellant claims on the basis of the trips from the office in Mission to the gym facility in Richmond about 3 - 4 times per week plus trips to perform banking and marketing operations, trips to drive another shareholder from time to time, trips to Squamish, British Columbia, to attempt to set up an outdoor rock climbing site, all using his Mazda truck, that he travelled 24,960 kilometres in 1999 and 18,987 kilometres in 2000 which at 37 cents per kilometre entitled him to claim travel expenses of $9,235.20 in the year 1999 and $7,025.19 in the year 2000. Because the Appellant could not produce receipts or other evidence or a travel log nor essentially any satisfactory proof of the actual business travel, the Minister of National Revenue ("Minister") allowed zero dollars in each year.
+[6] In my opinion there must have been some travel, given the description of the work that the Appellant performed and although the Appellant was extremely remiss in documentation I believe it is reasonable to allow a reasonable estimate which in my opinion is 20 percent of the amounts claimed, 20 percent of $9,235.20 being $1,847.04 in the year 1999 and 20 percent of $7,025.19 being $1,405.04 in the year 2000.
+Telephone
+The Appellant claimed expenses for telephones as follows:
+1999
+cell
+$ 674.57
+home telephone
+$1,966.38
+2000
+cell
+$1,369.01
+home telephone
+$1,535.24
+The Minister allowed a total of $486.00 in 1999 and $511.00 in 2000. The Minister cited reasons for the lesser amounts allowed in both years in Exhibit R-2 which was elaborated upon in the verbal testimony of Janice Wandler, an Appeals Officer of Canada Revenue Agency ("CRA"). In my opinion the amounts allowed by the Minister were reasonable in the circumstances. Once again in this respect the Appellant was unable to accurately establish the correct amounts for the business use of the telephones.
+Meals and Entertainment
+The amounts originally claimed by the Appellant were $705.88 in the year 1999 and $310.85 in the year 2000. The Minister has allowed zero dollars as the proof of the expenses was extremely unsatisfactory. Some of the expenses submitted as business entertainment were clearly receipts for personal meals and in my opinion the zero dollar amounts allowed in both years by the Minister were reasonable.
+Office Expenses
+The Appellant claimed $1,112.52 in the year 1999 and the Minister allowed zero dollars. In the year 2000 the Appellant claimed $705.47 as office expenses and based on receipts submitted the Minister allowed an amount of $70.00 plus a further amount of $66.00 representing capital cost allowance. In my opinion owing to the lack of receipts or other documentation the assessments for office expenses by the Minister were reasonable in the circumstances.
+Supplies
+The Appellant claimed $1,613.75 in the year 1999 and the Minister allowed zero dollars. In the year 2000, nothing was claimed and nothing was allowed. Again in my opinion the Minister's assessments were reasonable.
+Other Expenses
+The Appellant claimed $361.85 in the year 1999 and $123.84 in the year 2000 and again because of absence of proof and documentation and lack of receipts the Minister's allowances of zero dollars in each year are reasonable in the circumstances.
+Operating Expenses
+No further operating expenses were allowed by the Minister as either the expenses were not proven or in certain cases certain items were personal. In my opinion the allowance of zero dollars by the Minister was reasonable in the circumstances.
+Conclusion
+[7] In conclusion, the appeals from the reassessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(1) the Appellant is entitled to deductions:
+(i) for travel expenses of $1,847.04 in the year 1999 and $1,405.04 in the year 2000;
+(ii) for telephone expenses of $486.00 in the year 1999 and $511.00 in the year 2000; and
+(iii) for office expenses and supplies of $70.00 plus $66.00 for capital cost allowance, (a total of $136.00) in the year 2000;
+(2) on the further basis that the Appellant's incomes are increased by adding net rental incomes of $447.21 in the year 1999 and $398.18 in the year 2000; and
+(3) that the penalties assessed by the Minister for late filing were properly assessed in accordance with section 162 of the Income Tax Act, the whole in accordance with these Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of November, 2004.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2004TCC737
+COURT FILE NO.:
+2003-3024(IT)I
+STYLE OF CAUSE:
+David J. Harris v. H.M.Q.
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+October 25, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice T. O'Connor
+DATE OF JUDGMENT:
+November 23, 2004
+APPEARANCES:
+Agent for the Appellant:
+Ron Ilner
+Counsel for the Respondent:
+Nadine Taylor Pickering
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

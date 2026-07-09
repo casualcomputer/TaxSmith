@@ -1,0 +1,144 @@
+---
+title: "572256 Ontario Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/233237/index.do"
+last_modified: "2017-06-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 108"
+citation2: ""
+neutral_citation: "2017 CCI 108"
+decision_date: "2017-06-09"
+language: "fr"
+item_id: "233237"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2114
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:28:09.388000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d190b74d96f4c84ae2cfbe267238c4b58a96a8a8307b356502d8c6d16c9215d4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 572256 Ontario Limited c. La Reine
+
+- Citation: 2017 CCI 108
+- Decision date: 2017-06-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2114, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+572256 Ontario Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-06-09
+Référence neutre
+2017 CCI 108
+Numéro de dossier
+2015-4326(GST)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2015-4326(GST)I
+ENTRE :
+572256 ONTARIO LIMITED.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 10 mai et décision rendue de vive voix le 11 mai 2017,
+à Toronto (Ontario)
+Devant : L’honorable juge B. Paris
+Comparutions :
+Représentant de l’appelante :
+Donald AC Stewart
+Avocat de l’intimée :
+Me Derek Edwards
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi sur la taxe d’accise pour la période de déclaration comprise entre le 1er avril 2013 et le 30 juin 2013 est accueilli, sans dépens, conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 9e jour de juin 2017.
+« B. Paris »
+Le juge Paris
+Référence : 2017 CCI 108
+Date : 20170609
+Dossier : 2015-4326(GST)I
+ENTRE :
+572256 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] En l’espèce, la question en litige est de savoir si l’appelante est admissible aux crédits de taxe sur les intrants (« CTI ») de 685,68 $ à l’égard de la TVH payée par une entreprise appelée SVO-Phase Two Management Inc. (« SVO ») pendant la période de déclaration de l’appelante comprise entre le 1er avril 2013 et le 30 juin 2013. Selon l’appelante, SVO agissait en tout temps comme son mandataire ou simple fiduciaire, et la TVH payée par SVO concernait les activités commerciales de l’appelante.
+[2] Le ministre du Revenu national (le « ministre ») a refusé la demande aux motifs que l’appelante n’a pas fourni la preuve de la relation de mandataire ou de fiduciaire entre l’appelante et SVO.
+Faits [3] L’actionnaire de l’appelante, M. Donald AC Stewart, était le seul témoin à l’audience. Il a affirmé que l’appelante était la propriétaire de deux immeubles locatifs commerciaux qui faisaient partie d’un complexe de copropriétés en common law construit dans le milieu des années 1980. Les autres immeubles du complexe sont détenus par divers particuliers ou diverses entreprises, et certaines aires communes sont détenues par l’ensemble des propriétaires, qui sont tenants en commun. Les immeubles font l’objet d’une entente de copropriété conclue entre tous les propriétaires. L’entente de copropriété initiale a été conclue en 1986 ou vers cette date, et une entente modifiée a été signée par les propriétaires en octobre 2007.
+[4] M. Stewart a fourni une copie d’une entente de gestion non signée à l’égard de tous les immeubles et biens communs datée du 6 mai 1986 et conclue entre les propriétaires et Collins Barrow Consultants Ltd. La preuve a démontré que Collins Barrow Consultants Ltd. a ensuite changé son nom pour SVO-Phase Two Management Inc. et que l’entente de gestion a continué d’être en vigueur entre les parties jusqu’à maintenant.
+[5] Selon l’entente de gestion, SVO a accepté de gérer l’entretien et le maintien en bon état de tous les éléments extérieurs des immeubles du complexe, de même que des aires communes, notamment le stationnement, en tant que mandataire de tous les propriétaires. Les propriétaires ont payé leur part proportionnelle de toutes les dépenses engagées par SVO en leur nom, y compris la TVH, et ils ont versé des frais de gestion à SVO.
+[6] M. Stewart a témoigné que SVO n’était pas constituée pour réaliser un profit et que les fonds excédentaires à la fin de l’année faisaient partie d’un fonds de réserve appartenant aux propriétaires des immeubles. M. Stewart a également affirmé que SVO n’était pas un inscrit en vertu de la Loi sur la taxe d’accise et, par conséquent, n’a jamais demandé de CTI pour la TPS ou la TVH payée à l’égard des services sous-traités au nom des propriétaires. Les propriétaires ont remboursé la TPS ou la TVH à SVO, ainsi que le coût des services. Les propriétaires comme l’appelante ont ensuite demandé des CTI concernant la TPS ou la TVH remboursée à SVO.
+[7] La relation entre SVO et les propriétaires était compliquée, du moins aux fins du présent appel, par le fait que SVO avait, en 1995 ou vers cette date, acquis le stationnement qui faisait partie du complexe. Avant cette date, le stationnement était la propriété du promoteur initial du complexe. Le promoteur était également propriétaire de deux immeubles. Au début des années 1990, le promoteur a eu des difficultés financières et les autres propriétaires ont décidé qu’il était dans leur intérêt de lui racheter le stationnement. Il a été convenu que SVO achèterait le bien avec les fonds versés par les propriétaires. M. Stewart mentionne qu’une convention de fiducie a été élaborée, stipulant que SVO détiendrait le titre juridique et que les propriétaires détiendraient la propriété bénéficiaire du bien. Malheureusement, il n’a pas réussi à trouver une copie de la convention de fiducie pour la présente audience.
+[8] M. Stewart a également déclaré que SVO était responsable du maintien en bon état et de l’entretien du stationnement, en plus du reste des biens communs et de l’extérieur des immeubles. Je déduis de son témoignage que les dépenses engagées par SVO en lien avec l’entretien et le maintien en bon état du stationnement étaient traitées de la même manière que les autres dépenses engagées au nom des propriétaires.
+Décision [9] L’intimée soutient qu’il n’y a pas suffisamment d’éléments de preuve concernant l’existence d’une relation simple de fiducie ou de mandataire entre SVO et les propriétaires et que, par conséquent, on ne peut pas dire que les dépenses engagées par SVO étaient liées aux activités commerciales des propriétaires, y compris l’appelante, plutôt qu’aux activités commerciales de SVO.
+[10] Je ne suis pas de cet avis. Je reconnais que l’entente de gestion fournie par l’appelante à l’audience était en vigueur pendant la période de déclaration en litige et qu’elle établissait une relation de mandataire entre les propriétaires (y compris l’appelante) et SVO. L’entente prévoit précisément (au paragraphe 2) que SVO [traduction] « accepte, à titre de mandataire des propriétaires, de conclure les contrats nécessaires pour le maintien en bon état et l’entretien des immeubles et des biens communs ». SVO avait également droit au remboursement complet des montants qu’elle engageait au nom des propriétaires. Comme je l’ai indiqué à l’audience, il est regrettable que l’appelante n’ait pas été en mesure de fournir une copie de l’entente à l’intimée avant l’audience. Toutefois, je n’ai aucune préoccupation quant à l’authenticité de l’entente qui a été finalement fournie.
+[11] En ce qui concerne la question de savoir si une simple fiducie existe en lien avec le stationnement acquis par SVO, je suis prêt à exclure le témoignage de M. Stewart selon lequel la convention de fiducie a été conclue au moment de l’achat du stationnement. J’estime plus probable qu’improbable que les propriétaires visaient seulement à ce que SVO obtienne le titre juridique, étant donné qu’ils, les propriétaires, ont fourni les fonds pour l’acquisition. Encore une fois, il est regrettable que M. Stewart n’ait pas été en mesure de trouver une copie de la convention, mais j’accepte son témoignage concernant l’existence de cette convention.
+[12] L’intimée a soutenu que l’appelante n’avait pas démontré que la fiducie était une simple fiducie et a suggéré que le degré de contrôle et de discrétion exercé par SVO à l’égard du stationnement était incompatible avec une convention de simple fiducie.
+[13] Toutefois, à mon avis, SVO n’avait aucun pouvoir discrétionnaire indépendant ni de contrôle sur le stationnement qui nierait l’existence d’une simple fiducie. La transaction du stationnement était assujettie au contrôle des propriétaires, comme le prouve l’entente de gestion qui établit les responsabilités de SVO. La description des biens assujettis à l’entente figure au premier paragraphe de l’entente, et comprend le stationnement. Par conséquent, toutes les tâches ou responsabilités de gestion que SVO a pu avoir concernant le stationnement découlaient de l’entente de gestion, et non de la convention de fiducie.
+[14] Les passages suivants tirés de Scott, The law of Trusts, 4e éd. (1987), cités par la juge Lamarre (tel était alors son titre), dans l’arrêt De Mond Jr. c. La Reine, 1999 CanLII 466, au paragraphe 37, décrivent la situation lorsqu’un tiers agit à titre de fiduciaire et de mandataire et s’appliquent, je crois, aux faits en l’espèce.
+Le mandataire agit pour son mandant et en son nom, et il est assujetti à son contrôle; le fiduciaire en tant que tel n’est pas assujetti au contrôle de son bénéficiaire, bien qu’il soit tenu d’agir à l’égard des biens en fiducie pour le bénéfice de ce dernier et en conformité avec les termes de la fiducie, et qu’il puisse être contraint par le bénéficiaire de s’acquitter de cette obligation. Le mandataire a une obligation d’obéissance envers son mandant; le fiduciaire est tenu de se conformer aux termes de la fiducie [vol. 1, p. 88].
+…
+Une personne peut être à la fois mandataire et fiduciaire d’une autre personne. Si elle entreprend d’agir pour le compte de l’autre personne et sous réserve de son contrôle, elle est mandataire, mais si elle détient le titre des biens pour son mandant, elle est également fiduciaire. Dans un tel cas, cependant, c’est la relation de mandataire qui prédomine, et les principes du mandat, et non ceux de la fiducie, s’appliquent [vol. 1, p. 95].
+[15] En l’espèce, je conclus que la relation de mandataire entre SVO et les propriétaires, y compris l’appelante, prédomine et que SVO agissait à titre de mandataire des propriétaires concernant les contrats d’entretien et de maintien en bon état de l’extérieur des immeubles et des aires communes y compris le stationnement. Par conséquent, je conclus que la TVH qui a donné naissance aux CTI en litige concernait les activités commerciales de l’appelante. Pour ces motifs, l’appel est accueilli et la question est renvoyée au ministre pour l’établissement d’une nouvelle cotisation au motif que l’appelante était admissible aux CTI de 685,68 $ pour la période de déclaration comprise entre le 1er avril 2013 et le 30 juin 2013.
+Signé à Ottawa, Canada, ce 9e jour de juin 2017.
+« B. Paris »
+Le juge Paris
+RÉFÉRENCE :
+2017 CCI 108
+NO DU DOSSIER DE LA COUR :
+2015-4326(GST)I
+INTITULÉ :
+572256 ONTARIO LIMITED c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+DATE DE L’AUDIENCE :
+Toronto (Ontario)
+Les 10 et 11 mai 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 9 juin 2017
+COMPARUTIONS :
+Représentant de l’appelante :
+Donald AC Stewart
+Avocat de l’intimée :
+Me Derek Edwards
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

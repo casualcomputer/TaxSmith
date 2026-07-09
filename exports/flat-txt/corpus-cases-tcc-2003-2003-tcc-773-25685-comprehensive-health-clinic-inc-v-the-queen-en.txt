@@ -1,0 +1,104 @@
+Title: Comprehensive Health Clinic Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25685/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-773-25685-comprehensive-health-clinic-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-10-29
+
+# Comprehensive Health Clinic Inc. v. The Queen
+
+- Citation: 2003 TCC 773
+- Decision date: 2003-10-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3843, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Comprehensive Health Clinic Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-29
+Neutral citation
+2003 TCC 773
+File numbers
+2002-3478(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC773
+Date: 20031029
+Docket: 2002-3478(IT)I
+BETWEEN:
+COMPREHENSIVE HEALTH CLINIC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Agent for the Appellant: Michael Venneri
+Counsel for the Respondent: Ifeanyichukwu Nwachukwu
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+St. Catharines, Ontario, on September 4, 2003)
+Miller J.
+[1] The Appellant in this informal procedure appeal, Comprehensive Health Clinic Inc. (Comprehensive), is a management company for Mr. Venneri's chiropractic and related professional practice. Mr. Venneri is the sole shareholder of Comprehensive. The only issue in this matter is the deductibility of $60,000 which Comprehensive maintains was a consultant fee paid in 1997 to Nancy Cannon, a chiropractor in the United States. The Crown contends that the $60,000 was not paid by the company in 1997, or if it was, it was not reasonable nor incurred for the purpose of gaining or producing income.
+[2] Mr. Venneri's home is St. Catharines. When he completed chiropractic school in Illinois, he very much wanted to return to practice in the St. Catharines area. His investigation of possibilities in St. Catharines led him to the conclusion that St. Catharines had a disproportionately high number of chiropractors per capita, with some leading figures in Ontario practising here. As a young chiropractor starting out, he felt he needed help in carving a niche for himself. The statistics on chiropractic failures were not promising. For this reason, he testified that he enlisted the help of a chiropractor he knew from his education days in Illinois who offered practice-consulting assistance.
+[3] Mr. Venneri incorporated Comprehensive in 1996, though initially he testified he thought it was 1997 and questioned whether the corporate records from Ontario Corporate Registry correctly identified his company. He submitted an Agreement dated January 15, 1997,[1] between himself personally and Nancy Cannon. He testified, however, that he understood that he was acting for the company, though there was no mention of Comprehensive anywhere in the Agreement. Notwithstanding that he had been in the throes of attempting to resolve this issue with Canada Customs and Revenue Agency (CCRA) for some considerable period of time, the CCRA auditor had never been shown this Agreement. Mr. Venneri testified he was unclear as to the import of the document and had not personally been asked for it. The auditor confirmed that she had asked Mr. Venneri's accountant, not Mr. Venneri directly. The Agreement identifies the duties to be performed by Ms. Cannon. It is a fairly extensive list.
+[4] I will just read a few items from the Agreement. This is from article 3.1 of the Agreement:
+... Cannon will provide but not be limited to: Office location, Sign Development, Marketing, ... Office Management, ... Acupuncture Training, ... Accounting Procedures, ... Contract with Massage Therapists, Office Forms, ... Selecting Supplies, ... Billing Set-up procedure, Hyperbaric Oxygen Research, ...
+and there are several other items listed. It also stipulates Ms. Cannon was to be paid US$54,000 for the one-year contract.
+[5] Mr. Venneri went into some length as to what she did for him. The following is a summary of those activities that Mr. Venneri claims she provided: research on appropriate techniques; types of training; motivational help on dealing with the terminally ill; mentoring generally; help with writing articles; establishing forms and procedures for Workers' Compensation work; marketing; developing smoking-related programs; home programs for patients; preparing office manual; and helping establish hyperbaric oxygen facility.
+[6] Mr. Venneri provided copies of brochures of other organizations suggesting what they offered was what Ms. Cannon provided to him. He offered copies of forms saying that she helped to prepare those forms. He offered copies of newspaper articles saying Ms. Cannon was the marketing manager behind these. He then indicated how his professional income was significantly higher than the average chiropractor and concluded that was because of Ms. Cannon's efforts.
+[7] Mr. Venneri's testimony was at times contradictory and confusing for, as he put it, he was not an accountant. He struggled with explaining the interplay between his professional practice and the management company. At one point he stated the company only managed his own professional practice, but at other times suggested it managed the services of other professionals at the clinic. At one point he suggested the other professionals, nutritionists, massage therapists and others, were subcontracted by the company, but later said no, they were subcontracted to him personally.
+[8] He said the company earned fees by charging a 15 per cent up-charge on his expenses incurred in the professional practice. He later indicated it also earned fees on other services. The financial statements of the company for 1997 showed revenue of $302,000 with cost of sales of $245,000, which included the $60,000 claimed for the Cannon fee, plus approximately $140,000 for other consultants' fees. When asked who the other consultants were, he could not initially recall, but when suggested to him they were his parents and siblings, he acknowledged that fact. The $140,000 consultant fee for family were for renovation work, computer work and other such services. CCRA allowed that deduction as it was supported by invoices, cancelled cheques and reporting of the income by the family.
+[9] Mr. Venneri presented phone records from 1997 indicating approximately 3,000 minutes of calls to Illinois throughout the year. He maintained these were for the management services provided by Ms. Cannon. He also testified she came to St. Catharines on occasion to assist directly. Ms. Cannon did not testify. With respect to the payment to Ms. Cannon, Mr. Venneri indicated he paid her cash both when visiting her in the United States and also when she came to Canada. He provided a page from a Daytimer which listed all the months of the year. It had a handwritten "1997" at the top of the page. Payments of 4, 5 or $6,000 were shown in each month except March, totalling C$75,000. The page appeared to be a summary rather than an original expense ledger. He could offer no explanation why payments were $75,000 and the company only claimed $60,000 other than to say it was something he had asked his accountant. He could offer no explanation why payments were in Canadian dollars and not U.S. dollars, as called for by the contract. He offered no evidence of how the exchange rate was determined. His explanation for paying Ms. Cannon in cash and not by cheque or money order was that she was concerned about whether his cheque would clear, and also concerned about the time it would take for the cheque to clear.
+[10] Mr. Venneri stated he did not have a bookkeeper in 1997 but subcontracted with a person to make deposits. That person was not called to testify. He could not recall how the company got paid from his professional practice in 1997 though thought it may have been a year-end payment. Later he indicated payment may have been by cash or cheque or a combination. He suggested his accountant would know that information.
+[11] Notwithstanding an opportunity of a day's adjournment so Mr. Venneri could call his accountant, he was unable to make that arrangement. Mr. Venneri thought goods and services tax was paid on the fee but was not sure. He testified no withholding was made on any of the payments to the non-resident.
+[12] The issue is simply whether Comprehensive incurred a $60,000 deductible expenditure in 1997. I find it did not. Mr. Venneri, you must have satisfied me on balance that the company paid Ms. Cannon $60,000 for services she provided to the company for the purpose of gaining income. You simply have not been able to move that balance in your favour when I weigh all the evidence.
+[13] The first issue which Mr. Nwachukwu raised is whether Ms. Cannon was paid by the company. Mr. Venneri submitted a page of a Daytimer with no indication other than a written-in year as to what year it pertains, indicating a listing of one or two cash payments a month. He provided no formal expense ledger, accounts, anything at all resembling business records to support those payments. No other expenses were listed in this fashion.
+[14] Mr. Venneri, you were operating a one-half of a million-dollar business in 1997, yet this considerable expense is not formally recorded. A simple page of a Daytimer is not adequate or persuasive evidence of the payment. The following factors have also influenced my finding: - the discrepancy as to the actual amount you say was paid, $75,000, and the amount claimed, $60,000, - no explanation of why the payment was in Canadian funds, - no explanation of exchange rates; - a questionable explanation of why payments were in cash; - some confusion as to whether the payment was from Mr. Venneri himself or the company; - no bank records of withdrawals; - no expense ledgers in a one-half of a million-dollar business; - no third-party testimony or corroborating evidence. I am led to conclude that while there is a possibility the company paid $60,000 to Ms. Cannon, there is an equal possibility some differing amount was paid or that the company was not the payor. In other words, the balance has not been tipped in favour of the proposition that the company paid $60,000.
+[15] Mr. Venneri, it is not always the case that cash payments are not deductible or that lack of hard-written evidence of an expense is fatal, but in this case I simply do not find sufficient evidence of the payment to Ms. Cannon by the company to support your claim. Had you got over the hurdle of proving the payment, you must then have satisfied me that the payment was for the purpose of gaining or producing income. There is no question a consultant can add value to a small business first starting out. Your business appears to have flourished and you have attributed a good deal of that to the consultant. But, again, you have provided no direct link -- no memos and reports authored by her, no reference to her efforts in any of the pamphlets or articles you provided, no correspondence, no advertising materials from her suggesting she does this type of consulting, no evidence of her credentials, no evidence other than the phone records of time spent. With respect to the phone records, there is nothing to tie those calls in with the nature of the advice she offered during those calls. Mr. Venneri, this is a difficult, expensive lesson to learn, but business calls are best tracked as such. The phone bill just shows a call was made.
+[16] I have not been convinced Ms. Cannon did all that you suggest, let alone that the effect of her efforts was directly to increase your bottom line. I have no doubts you are very good at what you do and are to be commended for building a successful, diverse professional practice in what you have described as a difficult market. But generalizations of this success without any support of independent witnesses or documents is insufficient proof that Ms. Cannon's activities were as extensive, focused, and productive as you suggest.
+[17] Mr. Venneri, while I appreciate it is difficult for someone to represent themselves, I have been influenced in my decision by how you presented your testimony. In answer to a straight-forward question about the incorporation of Comprehensive, you suggested the government record shown to you might pertain to another company. In answer to the question of who were the other consultants, who earned $140,000 in 1997, you could not recall, but later acknowledged they were your family. You have not produced Ms. Cannon, nor your accountant, nor any of your employees to support your position. Many of the documents you tendered related to other consultants or training programs and not to Ms. Cannon. The key agreement with Ms. Cannon was with you, not with Comprehensive, an agreement you did not produce until trial on the basis you were not personally asked for it.
+[18] These factors all negatively influence the weight I attach to your claim that the company paid Ms. Cannon for consulting advice that effectively increased your bottom line, and as was indicated by Mr. Nwachukwu, the onus is on you to prove that claim and you simply have not done so for the reasons I have given.
+[19] Theappeal is dismissed.
+Signed at Ottawa, Canada, this 29th day of October, 2003.
+"Campbell J. Miller"
+Miller J.
+CITATION:
+2003TCC773
+COURT FILE NO.:
+2002-3478(IT)I
+STYLE OF CAUSE:
+Comprehensive Health Clinic Inc. and
+Her Majesty the Queen
+PLACE OF HEARING
+St. Catharines, Ontario
+DATE OF HEARING
+September 3, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT
+September 9, 2003
+APPEARANCES:
+For the Appellant:
+Michael Venneri
+Counsel for the Respondent:
+Ifeanyichukwu Nwachukwu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-3.

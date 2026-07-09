@@ -1,0 +1,199 @@
+---
+title: "Celeste Resources Canada Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/301132/index.do"
+last_modified: "2017-11-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 200"
+citation2: ""
+neutral_citation: "2017 TCC 200"
+decision_date: "2017-11-14"
+language: "en"
+item_id: "301132"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7634
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:07:01.525000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "40cfcd316be7164255a493362303b2e04c1381bf5d3b4d1059b6a122a8ac573f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Celeste Resources Canada Inc. v. The Queen
+
+- Citation: 2017 TCC 200
+- Decision date: 2017-11-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7634, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Celeste Resources Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-11-14
+Neutral citation
+2017 TCC 200
+File numbers
+2016-813(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-813(IT)I
+BETWEEN:
+CELESTE RESOURCES CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 24, 2017, at Toronto, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Warren Viegas
+Counsel for the Respondent:
+Nimanthika Kaneira
+JUDGMENT
+The appeal from the reassessments dated April 20, 2015 made under the Income Tax Act for the 2011 and 2012 taxation years is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 14th day of November 2017.
+“Réal Favreau”
+Favreau J.
+Citation: 2017 TCC 200
+Date: 20171114
+Docket: 2016-813(IT)I
+BETWEEN:
+CELESTE RESOURCES CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from the reassessments dated April 20, 2015, made under the Income Tax Act, R.S.C. 1985, c. 1, (5th supp.), as amended (the “Act” ), by the Minister of National Revenue (the “Minister”) concerning the appellant’s 2011 and 2012 taxation years.
+[2] By way of the reassessments, Minister disallowed claimed business expenses of $73,742 and $95,756 in respect of the appellant’s 2011 and 2012 taxation years and the Minister applied gross negligence penalties pursuant to subsection 163(2) of the Act.
+[3] In determining the appellant’s tax liability for the 2011 and 2012 taxation years, the Minister made the following assumptions of fact, as set out in paragraph 13 of the Reply to the Notice of Appeal:
+a) the appellant was incorporated on March 10, 2003;
+b) at all material times, the shareholders of the appellant were:
+Ismail Sheikhani 25% share
+Sikander Sheikhani 25% share
+Siraj Sheikhani 25% share
+Saad Sheikhani 25% share
+c) the appellant is in the business of importing and exporting textile products;
+d) the appellant imports and exports products that are manufactured in Karachi, Pakistan by Naeem Enterprise (“Naeem”);
+e) the manufactured products were shipped directly from Pakistan to the appellant’s customers;
+f) the appellant maintained a separate account named Naeem Account, where it recorded all invoices received from Naeem and all payments made to Naeem by the appellant;
+g) the Naeem account also included payments received by Naeem directly from customers, which reduced the amounts payable to Naeem;
+Other expenses
+h) the appellant claimed other expenses of $71,895 and $92,195 for the 2011 and 2012 taxation years;
+i) the amounts claimed as other expenses were classified by the appellant as Management Expenses–Overseas;
+j) the other expenses claimed by the appellant did not relate to the distribution/ shipment of merchandise to customers;
+k) the invoices issued by Naeem did not contain descriptions or a breakdown of the amounts;
+l) the appellant paid service charges of US $55,000 and US $ 71,000 to Naeem in the 2011 and 2012 taxation years and claimed them as part of the cost of goods sold;
+m) the appellant and Naeem were not at arm’s length;
+n) the appellant did not pay or incur the other expenses of $71,895 and $92,195 to earn business income for the 2011 and 2012 taxation years;
+Travel expenses
+o) the appellant claimed travel expenses of $7,860 and $8,654 for the 2011 and 2012 taxation years;
+p) the appellant did not incur travel expenses of $1,847 and $3,561 for the 2011 and 2012 taxation years (the “disallowed travel expenses”); and
+q) the appellant did not incur travel expenses of more than $6,013 and $5,093 for the 2011 and 2012 taxation years; and
+r) the appellant did not incur the disallowed travel expenses to earn business income for the 2011 and 2012 taxation years.
+[4] In determining that the appellant was liable to penalties pursuant to subsection 163(2) of the Act for the 2011 and 2012 taxation years, the Minister relied on the following facts, set out in paragraph 14 of the Reply to the Notice of Appeal:
+a) those facts assumed in paragraph 13;
+b) the disallowed other expense of $71,895 is material, and represents 478% of the income of $15,045 reported by the appellant for the 2011 taxation year;
+c) the disallowed other expense of $91,195 is material, and represents 498% of the income of $18,501 reported by the appellant for the 2012 taxation year;
+d) the corporation is a family owned business;
+e) the shareholders are actively involved in the business;
+f) the shareholders handle the day-to-day transactions themselves;
+g) the appellant has been in business for more than 10 years;
+h) the appellant retained the services of a chartered accountant to compile the financial statements based on information given by the appellant;
+i) the appellant had a chartered accountant prepare their income tax returns;
+j) the appellant had the opportunity to review its income tax return for correctness prior to forwarding the returns to the Canada Revenue Agency;
+k) all the imports are from Naeem;
+l) the Appellant knowingly, or under circumstances amounting to gross negligence, made or participated in, assented to or acquiesced in the making of a false statement or omission in his income tax return filed for the 2011 and 2012 taxation years in relation to the disallowed other expenses.
+[5] At the opening of the hearing, the appellant informed the Court that the disallowed travel expenses were not contested anymore.
+[6] Mr. Muhammad Ismail Sheikhani (“Mr. Sheikhani”), one of the four appellant’s shareholders, testified at the hearing. He stated that he worked in the textile business for 30 years in Pakistan. Before immigrating to Canada in 2001, he held 50% of the shares of Naeem Enterprise, an import and export textile company in Pakistan doing business around the world including Canada and the United States of America. The other shareholders of Naeem Enterprise were his nephew Naeem, a Canadian citizen and his brothers.
+[7] Mr. Sheikhani with three of his four sons started up Celeste Resources Canada Inc. in 2003, to act as an intermediary between Naeem Enterprise and its clients in Canada and the United States of America. The appellant takes orders from clients and passes them over to Naeem Enterprise. The goods ordered are usually delivered directly to the clients after the appellant clears customs. The clients pay the cost of the goods to the appellant who then pay Naeem Enterprise. Sometimes, the clients pay Naeem Enterprise directly. For his services, the appellant charges a 10% to 15% profit margin.
+[8] Mr. Sheikhani explained that there is no formal agreement between the appellant and Naeem Enterprise, except for the Service and Funding Agreement entered into on July 2, 2007. Under that agreement, Naeem Enterprise was appointed by the appellant as its agent in Pakistan for the purposes of marketing, procuring goods/material/manufacturing facilities and accounting/bookkeeping services in Pakistan. Based on this agreement, the appellant had to pay for the services provided by Naeem Enterprise on a monthly basis upon receipt of invoices made at the end of each month effective from January 1, 2007. The appellant maintained a separate account named “Naeem Account” where it recorded all invoices received from Naeem Enterprise and all payments it made to Naeem Enterprise. The “Naeem Account” also included payments received by Naeem Enterprise directly from clients which reduced the appellant’s amounts payable to Naeem Enterprise.
+[9] Mr. Sheikhani further explained that in 2011 and 2012, the appellant paid Naeem Enterprise two types of expenses: one for the physical overseas office and the other for management of the overseas office, all classified by the appellant as “Management Expenses – Overseas”. The appellant had no permanent staff at Naeem’s Enterprise’s office but may have from time to time between 8 to 12 employees there depending on the number of orders received. All travel expenses to Pakistan made by the appellant’s employees were initially paid by Naeem Enterprise and were reimbursed to Naeem Enterprise by the appellant. The reimbursed expenses included airfares, the expenses for the use of Naeem Enterprise’s offices, the cost of rental apartments, the medical insurances, the local transportation costs, the utilities expenses (hydro, gas, water, sewer) and the entertainment expenses. The expenses assumed by the appellant were not part of the costs of goods.
+[10] During Mr. Sheikhani’s testimony, the unaudited appellant’s balance sheet and statement of income and expenditures for the year ended June 30, 2011 were filed as exhibits. The financial statements showed that the appellant had total sale revenues of $1,960,155, composing of the cost of the goods sold in the amount of $1,718,225 and a gross profit of $241,930. The operating expenses for that year amounted to $227,592 which included the overseas management fee of $71,895 and salaries and benefits of $103,000. The net income for the year was only $14,338. These statements showed that the appellant was paying a lot of expenses but reported a very low income for tax purposes.
+[11] Mr. Sheikhani explained that the interval financial books and records were kept by his son, Siraj, and consisted mainly of spreadsheets for various types of expenses. No computer program was used by the appellant for this purpose. The internal control was done through the bank account statements. The financial information was transmitted to the external accountant for the preparation of the annual financial statements and the tax returns of the appellant.
+[12] The second witness who testified on behalf of the appellant was Mr. Saalman Alvi, a partner of BDO Canada LLP. The services of Mr. Alvi were retained by the appellant after the Canada Revenue Agency (“CRA”) sent the appellant a proposal letter dated January 7, 2015 which included adjustments disallowing the claim of “Other Expenses” of $71,895 and $92,195 for the taxation years ended June 30, 2011 and June 30, 2012, respectively, and after a post-proposal meeting with the appellant and his then external accountant who did not have any grounds to oppose the adjustments made by CRA. BDO replied by a letter dated March 12, 2015. The proposal letter and BDO’s reply were filed as exhibits.
+[13] Mr. Alvi explained that Naeem Enterprise’s ledger provided by the appellant for the audit period reflected total purchases of $1,660,343.60 from Naeem Enterprise for the June 30, 2011 taxation year which included both the purchase of goods as well as other expenses charged by Naeem Enterprise. Total purchases from Naeem Enterprise were reconciled to the financial statements and the overseas expenses were included in this reconciliation. The same exercise was done for the taxation year ending June 30, 2012 and the total purchases from Naeem Enterprise were reconciled to the financial statements and the overseas expenses were included in this reconciliation. Mr. Alvi’s view was that there was sufficient proof to support the overseas expenses being included in Naeem Account and proofs of payment have also been provided.
+[14] During his cross-examination, Mr. Alvi recognized that his reply was based on the ledger provided. As he did not prepare the ledger, he could not certify that the ledger was accurate. Mr. Alvi admitted that if the ledger is not accurate, it will not be reliable.
+[15] The CRA’s auditor, Mr. Anil K. Agnihotri, testified at the hearing and he explained why BDO’s reply was considered to not bring any new information which may help change the proposed adjustments relating to the appellant’s “Other Expenses” claim.
+[16] The CRA’s auditor reiterated the fact that at the beginning of the audit, the appellant submitted only two spreadsheets outlining various expenses to substantiate the amounts of the “Other Expenses” account. After being asked for more documentation to support these amounts, the appellant submitted the quarterly invoices of the Naeem Enterprise’s ledger and advised that those expenses were incurred by Naeem Enterprise on the appellant’s behalf. The appellant also provided a copy of the Naeem Account so that it can be verified that the invoices were accounted for and paid.
+[17] The CRA’s auditor did not accept BDO’s reply as he could not rely on the ledger submitted and as no documentation to substantiate the amounts in each separate category of expenses included in the “Other Expenses” claim was provided. Furthermore, the Naeem Account showed a debit balance of $234,993.51 as of July 1, 2010 which means that Naeem Enterprise owed $234,993.51 to the appellant on that date. A review of appellant’s balance sheet for the year ended June 30, 2010 showed that no such amount was receivable. The appellant and its auditors did not provide any explanation for this inconsistency.
+[18] The CRA’s auditor noted that four invoices pertaining to the account “Clearance Invoice-Export” totalling $13,394.48 were not included in the purchase figures in BDO’S reply. This means that the four invoices were not paid. The CRA’s auditor also pointed out that the Naeem Enterprise’s invoices were not paid every time an invoice was received.
+[19] The CRA’s auditor also stated that he had not seen during the audit, the Naeem Enterprise’s payment vouchers contained in the four volumes of the Book of Documents that were submitted to the respondent on May 19, 2017, a few days before the hearing of the appellant’s appeal and filed in court as Exhibit A-1 on the day of the hearing.
+[20] Concerning the gross negligence penalties, the CRA’s auditor stated that the appellant is a sophisticated taxpayer involved in international import and export of textile products. The appellant had a knowledgeable chartered accountant. The appellant initially provided the spreadsheets with no supporting documentation and advised that the expenses were incurred by Naeem Enterprise and that it had paid the said amounts to Naeem Enterprise. Then, the appellant provided invoices from Naeem Enterprise which could not be accounted for payment in Naeem Account. Finally, the expense amounts involved are substantial, e.g. 478% of its reported income.
+Legislation
+[21] The following provisions of the Act are relevant for the purposes of this appeal:
+9(1) Income: Subject to this Part, a taxpayer's income for a taxation year from a business or property is the taxpayer's profit from that business or property for the year.
+18(1) General limitations: In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+. . .
+(h) personal or living expenses of the taxpayer, other than travel expenses incurred by the taxpayer while away from home in the course of carrying on the taxpayer's business;
+163(2) False statements or omissions Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+. . .
+248(1) “Personal or living expenses” includes
+(a) the expenses of properties maintained by any person for the use or benefit of the taxpayer or any person connected with the taxpayer by blood relationship, marriage or common-law partnership or adoption, and not maintained in connection with a business carried on for profit or with a reasonable expectation of profit,
+. . .
+Analysis and Conclusion
+[22] The income tax system is based on self-monitoring and the burden of proof of deductions and claims properly rests with the taxpayers. The taxpayers must maintain and have detailed information and documentation available in support of the claims they make.
+[23] In this instance, the books and records maintained by the appellant were deficient in many aspects. No computer program was used for accounting purposes and the internal controls were weak as they were only done through bank account statements.
+[24] The appellant initially provided spreadsheets with no substantiating documentation and advised that the amounts claimed, were paid by Naeem Enterprise and were reimbursed to Naeem Enterprise. Thereafter, it provided quarterly invoices from Naeem Enterprise which could not be accounted for in Naeem Account for payment.
+[25] The appellant did not provide any document to substantiate the amounts in each category of expenses included in the “Other Expenses” claim and did not explain how these expenses were incurred for the purpose of earning income from its business.
+[26] The appellant did not provide the names of the employees who worked at Naeem Enterprise’s office in Pakistan during the 2011 and 2012 taxation years, the length of their stays and the purpose of their trips (business, personal or a combination of business and personal).
+[27] Concerning the penalty imposed, it is well established that the burden of proof rests on the respondent to establish on a balance of probabilities that misrepresentation by the appellant was attributable to the appellant’s neglect or carelessness.
+[28] In this instance, the respondent has met her burden. The appellant operated an international trade business for many years and used the services of a chartered accountant to prepare its financial statements and its tax returns. The appellant and its shareholders knew or ought to have known that they were not dealing at arm’s length with Naeem Enterprise and that one of the purposes of the Service and Funding Agreement entered into with Naeem Enterprise was to reduce the appellant’s income in Canada.
+[29] The appellant knowingly misrepresented its reported income or has been grossly negligent by not paying attention to the claimed expenses. The amounts subject to penalty are material to the reported income.
+[30] For all these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 14th day of November 2017.
+Réal Favreau
+Favreau J.
+CITATION:
+2017 TCC 200
+COURT FILE NO.:
+20175-813(IT)I
+STYLE OF CAUSE:
+Celeste Resources Canada Inc. and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 24, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+November 14, 2017
+APPEARANCES:
+Agent for the Appellant:
+Warren Viegas
+Counsel for the Respondent:
+Nimanthika Kaneira
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

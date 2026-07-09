@@ -1,0 +1,174 @@
+---
+title: "Lack v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26569/index.do"
+last_modified: "2003-04-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 230"
+citation2: ""
+neutral_citation: "2003 CCI 230"
+decision_date: "2003-04-14"
+language: "fr"
+item_id: "26569"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3577
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:18:04.659000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "08fa4ef66ff8315f212da8ccf8655fbbc6811819a8bcfb56518f3f7601742506"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lack v. The Queen
+
+- Citation: 2003 CCI 230
+- Decision date: 2003-04-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3577, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lack v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-14
+Référence neutre
+2003 CCI 230
+Numéro de dossier
+2002-3277(IT)I
+Juges et Officiers taxateurs
+Gordon Teskey
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-3277(IT)I
+ENTRE :
+TRISHA LYNN LACK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 21 mars 2003 à Calgary (Alberta)
+Devant : L'honorable juge Gordon Teskey
+Comparutions
+Avocate de l'appelante :
+Me Natalie Fenez
+Avocate de l'intimée :
+Me Brooke Sittler
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour l'année d'imposition 1999 est rejeté.
+Sur consentement des parties, l'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi pour l'année d'imposition 2000 est accueilli, sans dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que le revenu de l'appelante doit être réduit de 800 $ puisque le total des paiements de pension alimentaire n'était que de 4 000 $ pour l'année d'imposition 2000, et ce, conformément aux motifs du jugement ci-joints.
+Signé à Toronto (Ontario), ce 14e jour d'avril 2003.
+« Gordon Teskey »
+J.C.C.I.
+Traduction certifiée conforme
+ce 29e jour de mars 2004.
+Louise-Marie LeBlanc, traductrice
+Référence : 2003CCI230
+Date : 20030414
+Dossier : 2002-3277(IT)I
+ENTRE :
+TRISHA LYNN LACK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Teskey
+[1] Dans l'Avis d'appel par lequel l'appelante a interjeté appel à l'encontre des nouvelles cotisations d'impôt sur le revenu pour les années 1999 et 2000, l'appelante a choisi la procédure informelle.
+Question en litige
+[2] La seule question en litige que doit trancher la Cour consiste à savoir si le ministre du Revenu national (le « ministre » ) a inclus comme revenu les paiements que versait à l'appelante son ancien conjoint à titre de pension alimentaire pour enfants.
+Faits
+[3] Il faut se rappeler que la Loi de l'impôt sur le revenu (la « Loi » ) a été modifiée le 1er mai 1997, une modification prévoyant que le payeur visé par toute ordonnance d'un tribunal ou convention alimentaire datée du 1er mai 1997 ou après cette date ne peut déduire de son revenu les paiements de pension alimentaire et que le bénéficiaire ne peux inscrire ces paiements à titre de revenu.
+[4] Le mercredi 30 avril 1997, le juge Moore de la Cour du Banc de la Reine d'Alberta a rendu un jugement de divorce et une ordonnance de mesures accessoires sans avoir entendu de témoignage.
+[5] L'ordonnance officielle indique qu'à la lecture des plaidoiries (dans l'action de l'appelante contre son conjoint) et dans la déclaration sous serment de l'appelante, il avait été établi qu'ils étaient divorcés dans le premier paragraphe de ce document.
+[6] Le paragraphe 4 de ce document est rédigé en ces termes :
+[traduction]
+4. IL EST EN OUTRE ORDONNÉ
+QUE l'intimé devra verser à la requérante pour l'entretien d'un enfant la somme de 400 $ par mois à partir du premier jour du mois suivant le jugement de divorce et le premier jour de chaque mois consécutif tant qu'il est un enfant à charge au sens de la Loi de 1985 sur le divorce.
+[7] Le jugement et l'ordonnance officiels ont été inscrits par le greffier de la Cour le 2 mai 1997 et le seau de la Cour y a été apposé.
+[8] Le jugement de divorce n'a pris effet que le 31 mai 1997 et seulement à ce moment si aucune des parties ne présentait d'appel.
+[9] On a présenté un document imprimé intitulé [traduction] « Procès-verbal de transaction » . On peut lire à l'entête du document :
+[traduction]
+avril
+Cet accord a été conclu ce 30e jour de mars 1997.
+La dernière phrase est formulée en ces termes :
+[traduction]
+EN FOI DE QUOI, à la date susmentionnée, les parties aux présentes ont ici apposé leur signature.
+[10] On avait présenté en annexe au procès-verbal de la transaction, un acte de reconnaissance rédigé en vertu de l'article 38 de la Property Act de l'Alberta et signé par le conjoint le 5 mai 1997.
+[11] On avait présenté en annexe à l'accord une déclaration sous serment de l'avocat du conjoint dans lequel il indiquait savoir que le conjoint avait signé le procès-verbal de la transaction parce qu'il en avait été témoin. La déclaration, faite sous serment le 5 mai 1997, ne précise pas la date véritable à laquelle le conjoint a signé l'accord.
+[12] Le 21 mars 1997, l'avocat du conjoint a fait parvenir à l'appelante par messagerie le procès-verbal de la transaction aux fins de signature à la condition que les documents ainsi qu'une décharge soient retournés dûment signés. Plus loin dans la lettre, on pouvait lire ceci :
+[traduction]
+Sous réserve du respect des conditions prévues, vous avez toute liberté d'utiliser les documents finaux du divorce et de considérer le divorce complété.
+[13] De nouveau le 30 avril, l'avocat du conjoint a fait parvenir à l'avocate de l'appelante par messagerie certains documents relatifs à une des conditions prévues qui est ainsi formulée :
+[traduction]
+Quant à la condition selon laquelle avant d'utiliser d'une façon ou d'une autre ces documents ou les documents accompagnant le consentement au divorce qui vous ont déjà été envoyés, vous devez retourner à notre bureau les documents ainsi décrits :
+Le quatrième point du présent document, soit deux copies du Procès-verbal de la transaction dûment signées par l'appelante identifiée dans le présent document.
+[14] Le même jour, soit le 30 avril 1997, tel que cela avait été demandé, l'avocate de l'appelante a retourné par messagerie à l'avocat du conjoint le procès-verbal dûment signé par l'appelante.
+[15] L'avocat du conjoint a retourné deux copies du procès-verbal dûment signées par le conjoint ainsi que la décharge dûment signée par les deux parties le 6 mai 1997.
+La jurisprudence
+[16] On trouve la définition du terme « date d'exécution » à l'alinéa 56.1b) de la Loi qui est ainsi formulée :
+« date d'exécution » Quant à un accord ou une ordonnance :
+a) si l'accord ou l'ordonnance est établi après avril 1997, la date de son établissement;
+b) si l'accord ou l'ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l'accord ou de l'ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l'accord ou l'ordonnance fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d'exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l'accord ou l'ordonnance, ou dans toute modification s'y rapportant, pour l'application de la présente loi.
+Il est clair que les dispositions (i), (ii) et (iii) ne s'appliquent pas.
+[17] Bien que l'avocate de l'appelante ait renvoyé la Cour à plusieurs affaires différentes, je ne mentionnerai que celles pouvant nous être utiles pour trancher la question en litige.
+[18] Mon collègue le juge Rip, dans la décision Collins c. La Reine, C.C.I., no 2000-5203(IT)I, 16 août 2001 ([2001] 3 C.T.C. 2456), a affirmé ceci au paragraphe 14 :
+14 La « date d'exécution » ne détermine pas l'entrée en vigueur d'un jugement ou d'une ordonnance. La jurisprudence mentionnée précédemment n'est guère utile en l'espèce, si ce n'est qu'elle confirme que la rétroactivité est une réalité de la vie et qu'elle est maintenant bien ancrée dans le droit fiscal, tant au regard de la loi qu'au regard de la jurisprudence. Le pouvoir d'un tribunal d'indiquer une « date d'exécution » découle de la Loi même, non des règles d'une cour. Un accord peut prévoir une « date d'exécution » différente de la date à laquelle il est conclu. La définition de « date d'exécution » envisage clairement la possibilité qu'un accord ou une ordonnance puisse préciser la date d'exécution. En toute logique, cette date ne peut être que rétroactive, compte tenu de l'expression « le premier en date des jours suivants » à l'alinéa 56.1(4)b). Sinon, le sous-alinéa 56.1(4)b)(iv) n'aurait pour ainsi dire aucune raison d'être. Le libellé de la Loi est tout à fait clair à cet égard, tant en anglais qu'en français, établissant notamment, au sous-alinéa (iv), que la « date d'exécution » ( « commencement day » ) est « the day specified in the agreement or order » .
+[19] Mon collègue le juge en chef adjoint Bowman s'est exprimé en ces termes aux paragraphes 8 et 9 de la décision Kovarik c. La Reine, C.C.I., no 2000-4906(IT)I, 27 mars 2001 ([2001] 2 C.T.C. 2503) :
+8 En vertu de ce que je pourrais décrire comme l'ancien régime (antérieur à mai 1997), les conjoints effectuant des paiements à leurs conjoints dont ils étaient séparés ou à leurs anciens conjoints à titre d'aliments pour les enfants pouvaient déduire ces paiements et les bénéficiaires devaient les inclure dans leur revenu. À la suite de la décision de la Cour suprême du Canada dans l'affaire Thibaudeau c. Canada, [1995] 2 R.C.S. 627, la loi a changé. Tant qu'un accord antérieur à mai 1997 demeurait inchangé, le système de déduction et d'inclusion en vertu de l'ancien régime prévalait.
+9 Si un nouvel accord était conclu ou si un ancien accord était modifié d'une manière particulière, le régime de déduction et d'inclusion cessait, et seuls les paiements effectués à la « date d'exécution » , ainsi qu'elle est définie, étaient déductibles par le payeur et devaient être inclus par le bénéficiaire dans son revenu.
+[20] Dans la décision Dangerfield v. The Queen, 2002 CarswellNet 990, [2002] 3 C.T.C. 2086, mon collègue le juge Herschfield a dû aborder quelques points semblables à ceux du présent appel. Au paragraphe 3 de cette décision, on décrit de la manière suivante l'affaire présentée devant la Cour :
+[traduction]
+3 Au début de l'audience, on a présenté à la Cour un exposé conjoint des faits qui a restreint la question en litige dans la présente affaire à savoir si le jugement de la Cour du Banc de la Reine (Division de la famille) du secteur centre de Winnipeg ordonnant des paiements de pension alimentaire pour enfants en question a été « établi » le 21 avril 1997 (ou à une date postérieur au 30 avril 1997) et, si l'ordonnance avait été rendu le 21 avril 1997, y avait-on indiqué que le 1er mai 1997 constituait la date d'exécution de l'ordonnance aux fins de la Loi de l'impôt sur le revenu (la « Loi » ). Si le jugement a été « établi » le 21 avril 1997 sans qu'on y précise que le 1er mai 1997 constituait la « date d'exécution » de l'ordonnance aux fins de la Loi,les paiements de pension alimentaire, comme l'a indiqué l'intimée, seraient imposables et l'appel serait rejeté; autrement, l'appel serait accueilli.
+Aux paragraphes 24, 25, 26, 27 et 28, il s'est exprimé en ces termes :
+[traduction]
+24 L'article 1.04.1 des Règles de la Cour du Banc de la Reine prévoit qu'une ordonnance est « rendue » au moment où elle est prononcée et, selon moi, l'affaire May Estate fait suffisamment autorité pour me permettre de conclure que la date d'exécution d'une ordonnance ou d'un jugement est la date où l'ordonnance ou le jugement est rendu, autrement dit, la date où le juge prononce ce jugement ou cette ordonnance. Toute autre conclusion compromettrait l'interaction entre les dispositions applicables des Règles de la Cour du Banc de la Reine auxquelles on a fait référence et qui sont énoncées ci-dessus, et semble-t-il irait à l'encontre de l'ensemble de ces Règles puisque ces dernières régissent la prise de décision et la délivrance des jugements et des ordonnances de la Cour du Banc de la Reine du Manitoba. Par exemple, en vertu du paragraphe 59.02(1) de ces Règles, le juge prononçant une ordonnance doit l'inscrire sur une feuille de résumé d'ordonnance « au moment où elle est rendue » . Je constate que la feuille de résumé d'ordonnance portant la date du « 21 avril 1997 » a été signée par le juge ce même jour. Selon les Règles, cette inscription constitue une autre preuve que l'ordonnance a été rendue à cette date puisque l'inscription doit être faite au moment où l'ordonnance est rendue. Même si le juge a utilisé le temps futur lorsqu'il a établi l'ordonnance le 21 avril, cela ne prouve pas pour autant qu'il s'agit d'une ordonnance rendue ce jour-là, le fait que la feuille de résumé d'ordonnance a été signée à la même date constitue une preuve suffisante pour déterminer que la date « rendue » de l'ordonnance est bien le 21 avril. De plus, le paragraphe 59.03(3) des Règles du Banc de la Reine prévoit que l'ordonnance doit comprendre le nom du juge qui l'a rendue ainsi que la date à laquelle elle a été rendue. Le nom du juge qui a prononcé l'ordonnance et cette date (le 21 avril 1997) apparaissent sur la première page du jugement entrepris.
+25 L'avocat de l'appelante soutient que, dans l'affaire qui nous occupe, la date à laquelle on a rendu ou prononcé l'ordonnance devrait être la date d'entrée en vigueur, soit le 1er mai 1997. Il soutient qu'aucune disposition de l'ordonnance ne devait être mise en oeuvre avant cette date. Tout ce qui a trait à cette ordonnance entrait en vigueur après cette date.
+26 Les Règles de la Cour du Banc de la Reine n'appuient pas cette approche. Premièrement, il n'y a aucune raison d'affirmer que la date « rendue » d'une ordonnance ne peut pas être une date antérieure à la date d'entrée en vigueur, même si cette dernière est postérieure à date « rendue » , deuxièmement, dans l'ordonnance pertinente à la présente affaire, on ne peut pas vraiment dire qu'on y a rendu une date d'entrée en vigueur ultérieure uniquement parce qu'un seul élément de l'ordonnance auquel est associé un facteur temps, soit la date du premier paiement de pension alimentaire, entre en vigueur à une date ultérieure. La date du premier paiement mensuel obligatoire aux termes de l'ordonnance n'établit pas la date d'entrée en vigueur de l'ordonnance. De toute façon, dans la présente affaire, c'est la date « rendue » qui prime, et non la date d'entrée en vigueur de l'ordonnance. La date « rendue » de l'ordonnance dans la présente affaire est le 21 avril 1997. Cela règle donc la question, à moins qu'il y ait une « date d'exécution » rendue aux termes du sous-alinéa b)(iv) de la définition du terme « date d'exécution » . Aux fins d'application de cette loi, ce sous-alinéa prévoit que la « date d'exécution » de l'ordonnance est, le cas échéant après avril 1997, le jour « précisé » dans l'ordonnance, ou dans toute modification s'y rapportant. L'intimé soutient que ce jour n'est pas « précisé » dans l'ordonnance « aux fins d'application » de la Loi ou du moins le jour n'y est pas expressément précisé.
+27 Dans sa deuxième observation, l'avocat de l'appelante semblait vouloir tirer une inférence pertinente de l'observation liée à la date d'exécution selon laquelle étant donné qu'aux termes de l'ordonnance, aucune mesure ne devait être prise avant mai 1997 et étant donné qu'il était convenu ou entendu par toutes les parties, y compris le juge, que les conséquences fiscales qui devaient résulter de cette ordonnance étaient que les paiements de pension alimentaire pour enfants ne devaient pas être imposables pour le bénéficiaire et qu'il y a en fait une date d'exécution précisée dans l'ordonnance aux fins de la Loi. Autrement dit, l'appelante insiste que, dans les circonstances, l'article 59.01 des Règles de la Cour du Banc de la Reine permet d'établir qu'aux fins fiscales, la date d'exécution de l'ordonnance est le 1er mai 1997 même si ce n'est pas exactement ce qui est indiqué dans l'ordonnance et même si la Loi ne fait aucune référence à la « date d'exécution » d'une ordonnance aux fins fiscales. Cette approche a un certain mérite, mais dans l'affaire qui nous occupe, elle s'appuie sur un trop grand nombre d'inférences. Si je reconnais que la date d'entrée en vigueur prévue dans l'ordonnance peut constituer le jour « précisé » , alors le présent appel pourrait être accueilli en autant que je puisse également conclure que cette date d'entrée en vigueur était prévue dans le but de s'assurer que les paiements versés aux termes de l'ordonnance ne seraient pas imposables pour la bénéficiaire en vertu du régime des pensions alimentaires mis en oeuvre après avril 1997 et intégré à la Loi. Je devrais être en mesure de conclure qu'il y avait une date d'entrée en vigueur aux fins fiscales devant constituer la « date d'exécution » de l'ordonnance sans que l'on n'utilise la même terminologie. Bien que ce soit une approche intéressante qui donne effet aux intentions apparentes, ce n'en est pas une qui corresponde déjà aux dispositions formelles de la Loi, et, selon moi, il est impossible d'utiliser cette approche dans le cas où la partie fondant son affaire sur cette approche doit non seulement s'appuyer sur une série d'inférences, mais n'a pas réussi à établir qu'il s'agissait en fait d'inférences pertinentes. Dans l'affaire qui nous occupe, il n'y a pas d'inférence pertinente selon laquelle la date d'entrée en vigueur prévue dans l'ordonnance était le 1er mai. La date d'exécution des paiements en soi ne permet pas de tirer de telles conclusions. On ne précise pas dans l'ordonnance une date d'entrée en vigueur, et on ne fait aucune allusion aux conséquences fiscales. Le juge a demandé quelle devait être la « date d'exécution » , et on lui a répondu que ce n'était nécessaire d'aborder ce sujet. Si on l'avait informé qu'en fait elle devait établir un jour d'exécution, on ne peut que spéculer sur ce qu'elle aurait fait puisque nulle part dans son ordonnance fait-elle référence au traitement fiscal des paiements de pension alimentaire pour enfants. Bien que la lettre adressée au père de l'enfant ait indiqué que les paiements de pension alimentaire pour enfants devaient être libres d'impôt pour la bénéficiaire, on n'indique pas dans la transcription de la procédure que cette lettre a été présentée au juge. De plus, on indiquait dans cette lettre que les paiements devaient débuter en janvier 1997, ce qui ne correspond pas aux conséquences fiscales que l'on prétendait décrire. [Voir la note 2 ci-dessous]. Il semble que tout le monde recevait des renseignements erronés, et il est au mieux dangereux de tirer des inférences pertinentes fondées sur ces circonstances. Cette approche me semblerait intéressante si le juge avait formellement dit quelque chose confirmant son intention ou son interprétation que les paiements ordonnés devaient être libres d'impôt en vertu du nouveau régime fiscal sur la pension alimentaire. Si cela avait été son intention et qu'elle n'était pas disposée à laisser à l'avocate qui avait préparé l'ordonnance signée le soin d'établir une date d'exécution, comme je l'ai indiqué à l'avocat de l'appelante, la meilleure façon d'obtenir une réponse juste dans cette affaire aurait été de retourner voir le juge qui a rendu l'ordonnance. Il semble que l'on n'ait pas donné suite à cette proposition.
+Note 2 : il est impossible au sens de la définition du terme « date d'exécution » d'établir cette dernière avant le 1er mai 1997. Par conséquent, la lettre indiquant que les paiements de pension alimentaire pour enfants devant débuter en janvier 1997 étaient libres d'impôt pour le bénéficiaire et non déductibles pour le contribuable n'était pas exacte si elle suggérait qu'il y avait une ordonnance antérieure.
+28 Selon la troisième observation de l'avocat de l'appelante, il me faudrait conclure qu'aux fins de la Loi on devrait considérer que la date d'exécution des paiements de pension alimentaire pour enfants doit être considérée comme la date d'exécution « déterminée » aux fins de la Loi. On a fait valoir que l'on avait supposé que si le premier paiement était effectué le 1er mai, le nouveau régime serait alors en vigueur, et je conclus que c'était là l'intention de l'appelante. Je reconnais que l'avocat de l'appelante à cette époque ait pu croire qu'étant donné que la date d'exécution des paiements était le 1er mai 1997, cela répondrait aux exigences prévues par la Loi et ainsi l'appelante pourrait profiter du nouveau régime. Je reconnais également qu'elle ait pu croire que lorsque le juge a rendu l'ordonnance, elle le faisait en fonction du nouveau régime. Il est même possible que le juge ait cru qu'il en était ainsi si on n'avait pas indiqué à ce dernier qu'il n'avait pas à établir de date d'exécution. [Voir la note 3 ci-dessous.] Toutefois, cela ne suffit pas pour convaincre la Cour d'interpréter les termes utilisées dans une ordonnance qui, selon la Loi, doivent être précisés. De plus, le sous-alinéa b)(ii) de la définition du terme « date d'exécution » fait référence au jour où le premier paiement est effectué en vertu de diverses ordonnances comme la « date d'exécution » . Ni l'alinéa a) ni le sous-alinéa b)(iv) de la définition du terme « date d'exécution » ne fait référence à la date du premier paiement. Il faut croire qu'un tel changement d'optique est intentionnel. Par conséquent, la date du premier paiement de soutien alimentaire pour enfants ne peut pas être considérée comme la « date d'exécution » de l'ordonnance même en vertu du sous-alinéa b)(iv) de la définition du terme « date d'exécution » .
+Note 3 : étant donné le contexte dans lequel la juge a posé la question quant à la date d'exécution dans la transcription, elle ne faisait peut-être référence qu'au montant des paiements exigés pour la pension alimentaire, mais même ce point serait nécessairement lié à une prétendue position quant à l'obligation fiscale. C'est-à-dire qu'en vertu du nouveau régime de pension alimentaire, on considère que les paiements de pension alimentaire pour enfants ne sont pas déductibles du revenu du payeur et sont libres d'impôt pour le bénéficiaire, puis on établit les montants en conséquence. Le fait d'indiquer à la Cour que la question en litige ne visait pas le montant des paiements aurait pu suggérer que le nouveau régime ne s'appliquait pas aux paiements. Finalement, je n'ai rien sur quoi me fonder pour déterminer l'intention de la juge relativement aux conséquences fiscales des paiements de pension alimentaire pour enfants. L'avocat de l'appelante avait la responsabilité d'aborder ce point de façon claire et formelle dans l'intérêt des parties et celui de l'ADRC également.
+[21] Je suis convaincu que le jugement et l'ordonnance du juge Moore ont été rendus le 30 avril 1997. Par conséquent, il s'agit d'une ordonnance d'un tribunal rendue avant mai 1997 et puisqu'on n'y indique pas de date d'exécution, le sous-alinéa 56.1b)(iv) ne s'applique pas et l'appelante doit inclure les paiements versés aux termes de cette ordonnance à titre de revenu imposable.
+Le procès-verbal de transaction
+[22] L'appelante soutient qu'il s'agit d'un document autonome et qu'il devrait me permettre de conclure que le conjoint a signé le document le 5 mai 1997, et qu'étant donné qu'il s'agit d'un accord conclu après avril 1997, l'appelante ne devrait pas avoir d'obligation fiscale quant aux paiements de pension alimentaire pour enfants. Elle indique également que la formulation de l'accord, au début et à la fin du document, ne constitue que le jargon des juristes et qu'on ne devrait pas en tenir compte.
+[23] Le procès-verbal de transaction constitue un document très officiel, et en l'absence de preuve directe, claire et sans équivoque, je conclus que les parties ont exécuté l'accord à la date prétendue du 30 avril 1997.
+[24] Le 30 avril 1997, l'appelante a obtenu un jugement de divorce et une ordonnance alimentaire fondée sur un consentement (lettre datée du 30 avril 1997) et la délivrance du procès-verbal dûment exécuté par l'appelante à l'avocat du conjoint.
+[25] La seule différence entre l'ordonnance et le procès-verbal de transaction en ce qui concerne les paiements de pension alimentaire se trouve dans le paragraphe qui est ainsi rédigée :
+[traduction]
+Les sommes versées par le conjoint à la conjointe pour l'entretien dudit enfant seront incluses dans le revenu de la conjointe à des fins fiscales, malgré toute modification législative à la Loi de l'impôt sur le revenu du Canada. Le conjoint et la conjointe s'entendent que cette dernière est responsable de payer l'impôt sur le revenu, le cas échéant, sur la pension alimentaire et que le conjoint pourra déduire de son revenu les paiements de pension alimentaire pour enfants versés à la conjointe.
+Il est évident que ce paragraphe ne serait pas inclus dans l'ordonnance de la Cour.
+[26] Par conséquent, un accord a été conclu le 30 avril, et même si je n'avais pas conclu qu'il avait été signé le 30 avril 1997, le fait que le conjoint ait signé le procès-verbal de transaction le 5 mai 1997 est non substantiel. L'appelante a respecté ces conditions pour obtenir son divorce aux termes du procès-verbal de transaction. L'ordonnance de la Cour précise les conditions de la pension alimentaire établies par un jugement de la Cour.
+[27] Pour ces raisons, l'appel lié à l'année 1999 est rejeté. Pendant l'audience, les parties ont confirmé que l'appelante n'avait reçu que 4 000 $ en 2000. Par conséquent, cet appel est accueilli sans dépens et cette cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation au motif que le revenu de l'appelante doit être réduit de 800 $ puisque le total des paiements de pension alimentaire n'était que de 4 000 $ pour l'année d'imposition 2000.
+Signé à Toronto (Ontario), ce 14e jour d'avril 2003.
+« Gordon Teskey »
+J.C.C.I.
+Traduction certifiée conforme
+ce 29e jour de mars 2004.
+Louise-Marie LeBlanc, traductrice

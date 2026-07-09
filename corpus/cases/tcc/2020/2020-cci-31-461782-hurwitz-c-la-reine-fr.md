@@ -1,0 +1,179 @@
+---
+title: "Hurwitz c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/461782/index.do"
+last_modified: "2020-02-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 31"
+citation2: ""
+neutral_citation: "2020 CCI 31"
+decision_date: "2020-02-19"
+language: "fr"
+item_id: "461782"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4543
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T07:05:32.705000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "396123ffb943c4a8c07949e125069f931fe8b42561eeabb5c2a4324ea00e0843"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hurwitz c. La Reine
+
+- Citation: 2020 CCI 31
+- Decision date: 2020-02-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4543, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hurwitz c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-02-19
+Référence neutre
+2020 CCI 31
+Numéro de dossier
+2018-406(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-406(IT)I
+ENTRE :
+RONALD HURWITZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 25 octobre 2019, à Toronto (Ontario)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Représentant de l’appelant :
+James M. Hartford
+Avocat de l’intimée :
+Me Rebecca L. Louis
+JUGEMENT
+ATTENDU QUE la Cour, à cette date, a rendu les motifs de son jugement, ci-joints.
+LA COUR ORDONNE CE QUI SUIT :
+L’appel interjeté à l’encontre des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2013 et 2014 est rejeté.
+Il n’y aura aucune adjudication de dépens.
+Signé à Ottawa, Canada, ce 19e jour de février 2020.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2020CCI31
+Date : 20200219
+Dossier : 2018-406(IT)I
+ENTRE :
+RONALD HURWITZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+Introduction et questions en litige
+[1] Le ministre a établi une nouvelle cotisation à l’égard de l’appelant, M. Hurwitz afin de contester de façon subsidiaire chacun des éléments suivants : l’existence de toute entreprise (l’existence d’une entreprise), la nature commerciale des dépenses (la nature commerciale) et le caractère raisonnable des dépenses (dépenses déraisonnables). Le ministre a procédé ainsi en lien avec deux activités distinctes menées par M. Hurwitz au cours des années d’imposition 2013 et 2014 : l’une liée à la photographie abstraite et l’autre, en tant que membre d’un quatuor à cordes. Cela a mené au refus des pertes d’entreprise déclarées par M. Hurwitz pour les années visées.
+[2] La Loi de l’impôt sur le revenu impose une structure générale concernant la déclaration des revenus et des pertes liés à des sources de revenus d’entreprise. En général, les dépenses liées à des sources de revenus d’entreprise peuvent être déduites des revenus tirés de ces sources. Lorsque de telles dépenses annuelles, après déduction, sont supérieures aux recettes provenant d’une source de revenus gagnés au cours de la même année, le contribuable subira une perte commerciale ou matérielle.
+[3] Par déduction et par définition, lorsqu’il n’existe aucune entreprise et qu’il ne s’agit que d’une activité personnelle, aucune dépense ne peut être déduite, et aucune perte ne peut être subie. Il n’existe aucune perte commerciale ou matérielle en l’absence d’une source de revenus.
+[4] Par ailleurs, même lorsqu’il existe une entreprise, les dépenses, pour être déductibles, doivent avoir été engagées afin de tirer ou de gagner un revenu au moyen de l’entreprise. Plus encore, il existe une restriction supplémentaire : lorsque les dépenses sont engagées pour tirer ou gagner un revenu au moyen de l’entreprise, et dans la mesure où de telles dépenses sont déraisonnables, ces dépenses déraisonnables ne doivent pas être déduites du revenu, dans la même mesure.
+Aperçu des deux entreprises
+[5] M. Hurwitz est un concertiste à la retraite. Avant 2006, il était violoniste au sein de l’orchestre symphonique de Toronto. Pendant les 12 années suivantes, M. Hurwitz affirme qu’il a poursuivi des activités en photographie et en musique au sein d’un quatuor à cordes, en tant qu’entreprises distinctes.
+[6] Au cours de ces années, le revenu d’entreprise brut tiré de ces deux activités variait de 5 000 $ à 10 000 $, et les dépenses variaient de 35 000 $ à 50 000 $, entraînant ainsi des pertes de 30 000 $ à 50 000 $ chaque année. Pour ces deux années, M. Hurwitz n’a payé aucun impôt sur le revenu et il a reçu des remboursements pouvant atteindre 22 000 $.
+Question préliminaire
+[7] M. Hurwitz n’a présenté aucun élément de preuve lié au quatuor à cordes. C’est probablement en raison de cette absence que l’avocat de l’appelant, dans ses arguments d’ouverture, a reconnu qu’il n’y avait aucune activité de nature commerciale liée au quatuor à cordes. Ainsi, comme il est indiqué au début des présents motifs, l’appel est rejeté en ce qui concerne toute entreprise commerciale alléguée liée au quatuor à cordes.
+Historique de l’activité de photographie
+[8] M. Hurwitz a déclaré que son intérêt pour la photographie abstraite remonte à quelque 35 ans. Le plus souvent, il prenait des photos dans la ville de Paris, et sa démarche reposait sur la transformation de scènes urbaines en un milieu abstrait. D’un point de vue technique, les photographies sont en noir et blanc, sur pellicule et développées à la main.
+[9] Ses travaux ont abouti à la publication d’un livre de photographies haut de gamme, en 2002, intitulé « The Gryphons of Paris » (The Gryphons).
+[10] Dans les années qui sont suivies, The Gryphons a été commercialisé auprès de galeries d’art et de musées. Afin de commercialiser son livre, M. Hurwitz menait lui-même des recherches et communiquait avec les galeries d’art repérées. Avant les années visées par l’appel, M. Hurwitz a déclaré que The Gryphons avait également été commercialisé auprès de conseils de financement.
+[11] Pour produire les photographies originales, M. Hurwitz possédait et utilisait différents appareils et différentes fournitures : appareils-photo, chambre noire, plateaux de développement, pellicule, fournitures de développement et agrandisseur. Outre la vente ou la location de photographies autonomes à des bureaux, le produit principal était la vente du livre The Gryphons. Le prix de vente habituel était d’environ 650 $.
+[12] Afin de poursuivre son activité pendant les années visées par l’appel, M. Hurwitz s’est souvent rendu à Paris, où il prenait ses photos. Il s’est rendu dans les villes de New York, Cleveland, Washington D.C. et Bloomington (Indiana) pour vendre et commercialiser son livre. Ainsi, plus de la moitié des dépenses déclarées étaient liées aux frais de déplacement. Le reste des dépenses étaient liées aux fournitures et au matériel. Outre The Gryphons, M. Hurwitz n’a produit aucun livre ni registre présentant des reçus ou des dépenses. Il n’y avait aucun plan d’affaires ni aucun document de commercialisation, outre la description des ventes directes effectuées, l’approche sur le terrain adoptée auprès des conservateurs de musée et des propriétaires de galeries d’art, ainsi qu’un site Web rudimentaire. Tous les contrats étaient verbaux, comme l’étaient probablement les factures et les reçus pour les paiements. Au cours des années d’imposition 2013 et 2014, M. Hurwitz a vendu six livres au total, dont quatre en 2013 et deux en 2014. Cela contrastait avec la vente de 236 exemplaires de The Gryphons, en 2006.
+[13] Certains documents concernant la source de revenus ont été produits aux termes d’une entente de location de photographies conclue avec un cabinet d’avocats de Toronto. Des factures ont été produites. Les factures indiquent que 25 photographies ont été louées à un tarif de 4 800 $ par année, de 2009 à 2015. Un document datant de 2015 fait état d’une proposition de vente. Ce document indiquait que tous les paiements antérieurs pour la location seraient déduits du prix de vente. Comme il est décrit ci-après, les paiements reçus pour la location ne visaient que les années 2003, 2008 et 2009.
+[14] En ce qui concerne les voyages de commercialisation, aucun journal n’a été produit pour indiquer les lieux visités, les personnes rencontrées et les dates connexes; aucun compte tenu de réunion de mise en marché; aucun courriel de suivi ni aucune lettre ou correspondance de suivi. Aucun budget de déplacement, aucune projection de vente ni aucun registre de voyage n’a été produit en preuve. Une liste générale des dépenses a été produite. L’intimée n’a pas contesté le fait que M. Hurwitz a engagé les sommes déclarées; elle a plutôt contesté, comme il est indiqué, l’existence d’une entreprise, la nature commerciale de ces dépenses et les dépenses déraisonnables.
+[15] Lors de son témoignage, M. Hurwitz a indiqué qu’il était né à Cleveland, où sa mère habite. Son propre curriculum vitæ révèle qu’il a étudié à l’Université de l’Indiana, située à Bloomington (Indiana). Sa formation en photographie, clairement distincte de la musique, était entièrement autodidacte. Il n’existait aucune preuve d’études supérieures, d’aide par les pairs ni aucune preuve de mentorat de la part de photographes professionnels. Il a confirmé que sa formation reposait sur la visite de musées et de galeries d’art publiques pour observer le style et la technique, suivie de la création de photographies.
+Le droit – l’existence d’une entreprise
+[16] Comme il a été mentionné, afin de pouvoir déduire des dépenses commerciales, M. Hurwitz doit avoir une source de revenus tirée d’une activité commerciale. L’arrêt Stewart c. Canada, [2002] 2 RCS 645 fait autorité en ce qui concerne l’existence d’une source de revenus, plus précisément les paragraphes 50 et 51. La jurisprudence établie contient un critère à deux volets. La première question consiste à déterminer s’il y a ou non une source de revenus : autrement dit, l’activité du contribuable est-elle exercée en vue de réaliser un profit, ou s’agit-il d’une activité personnelle? Si l’activité est exercée en vue de réaliser un profit, il faut passer au deuxième volet afin de déterminer si les revenus sont de source commerciale ou matérielle. Dans le présent appel, la principale question en litige est de savoir si l’activité est menée en vue de réaliser un profit.
+[17] Pour remplir le critère du premier volet, un contribuable doit avoir l’intention subjective de réaliser un profit, étayée par des éléments de preuve objectifs révélés par l’intermédiaire d’une analyse factuelle qui démontre que l’activité a été menée à des fins commerciales. En bref, les éléments de preuve concernant l’activité révèlent-ils les caractéristiques habituelles d’une activité menée à des fins commerciales? Dans l’arrêt Stewart, la Cour suprême a réaffirmé la nécessité de tenir compte de certains facteurs non exhaustifs dont l’ordre de priorité n’est pas établi; ces facteurs ont déjà été décrits au paragraphe 486 de l’arrêt Moldowan c. La Reine, [1978] 1 R.C.S. 480. Les facteurs sont censés être variables et malléables en fonction des circonstances, mais ils devraient constituer le fondement de l’analyse.
+[18] Les facteurs pertinents pour l’appel de M. Hurwitz sont les suivants : l’historique des profits et des pertes; la formation et la scolarité; la voie sur laquelle la personne entend s’engager, et la capacité de réaliser un profit. En outre, à titre de mise en garde, la réussite commerciale ou la rentabilité ne constitue pas une mesure; il s’agit plutôt de la capacité théorique de réaliser un profit, qui englobe le dernier facteur. Autrement dit, il faut tenter de savoir si des mesures, prises ou non, permettent au contribuable de réaliser un profit.
+Historique des profits et des pertes
+[19] Après plus d’une décennie, l’activité n’a jamais permis de tirer un revenu brut s’élevant à 10 % des dépenses. Au cours des années visées, un total de six ventes ont été réalisées. Même s’il s’agit d’une publication de collection haut de gamme, les ventes anémiques du The Gryphons pour la période visée sont davantage liées à l’effort déployé qu’au produit en vente. Pendant la période d’appel, l’appelant a pu recevoir de faibles sommes d’un cabinet d’avocats pour la location de photographies, mais la fiabilité de cette preuve est abordée plus loin. La possibilité de réaliser un profit à l’avenir découlant de l’activité de photographie était et demeure infime, sinon nulle : Johnson c. La Reine, 2003 CCI 152, au paragraphe 19.
+Formation et scolarité
+[20] Concernant le présent facteur, il n’existe aucune preuve au-delà d’une formation épisodique, anecdotique ou ponctuelle à titre de photographe. La formation et la scolarité se limitent à la visite de galeries d’art, à l’observation et à l’émulation.
+Voie sur laquelle la personne entend s’engager
+[21] Pour résumer, il n’y avait aucun :
+plan d’affaires;
+itinéraire de voyage précis indiquant les lieux visités, les personnes rencontrées ou les dates connexes;
+journal de réunions d’affaires;
+courriel ou correspondance de suivi;
+budget (projections);
+registre de voyage.
+[22] En outre, la plupart des lieux visités aux fins d’éventuelles ventes ont un lien accessoire, qu’il soit personnel, historique ou social, avec M. Hurwitz, chacun étant distinct de l’activité de photographie et antérieur à elle.
+Livres et registres
+[23] Aucun livre ou registre n’a été produit à l’audience, à l’exception de la location de photographies par un cabinet d’avocats. M. Hurwitz a indiqué qu’il échangeait des livres contre le logement, mais ces échanges n’étaient pas inscrits et ne figuraient pas dans les registres commerciaux. Il n’y avait aucune approche, aucun système ni aucun suivi rudimentaire lié aux comptes, aux pièces justificatives et aux factures.
+Manquement à l’obligation juridique et conclusion
+[24] Les hypothèses du ministre concernant l’existence d’une entreprise étaient les suivantes :
+a) L’activité de photographie de M. Hurwitz comprenait un élément personnel.
+b) M. Hurwitz n’avait ni ne suivait aucun plan d’affaires concernant l’activité de photographie.
+c) M. Hurwitz a déclaré des dépenses personnelles en lien avec son activité de photographie.
+d) M. Hurwitz ne comptait tirer aucun profit de son activité de photographie.
+e) M. Hurwitz n’a pas mené son activité de photographie à des fins suffisamment commerciales.
+[25] Les hypothèses sont au cœur de l’existence d’une source de revenus d’entreprise tirés d’une activité visant à réaliser un profit.
+[26] Dans l’ensemble, d’autres faits et conclusions, tout bien pesé, ont mené à la conclusion que, même si l’activité a pu revêtir une certaine nature commerciale par le passé, ce n’était déjà plus le cas en 2013 et 2014.
+[27] Il n’y avait aucune preuve substantielle d’un effort commercial. Le seul événement s’approchant d’une présentation, d’une exposition, d’un lancement ou d’une séance de signature au cours des deux années était une exposition en solo qui s’est déroulée en 2015. Aucun élément de preuve réel n’a été présenté au sujet de la présentation. M. Hurwitz a admis que la relation a pris fin en 2015 parce que son œuvre ne se vendait pas. Toutefois, un cadeau a été fait en décembre 2014. Ce cadeau a été fait par M. Hurwitz au Kinsey Institute. Encore une fois, il existait un lien personnel. Le Kinsey Institute est situé à l’Université de l’Indiana, alma mater de M. Hurwitz. Qui plus est, la « transaction », si on peut l’appeler ainsi, était gratuite. Elle ne revêtait aucune nature commerciale. Sa présence à titre d’élément de preuve semble incongrue et contre-productive, compte tenu de ce que tente de prouver M. Hurwitz.
+[28] Ce constat est corroboré par l’approche non commerciale qui caractérise les actions liées à l’activité. Comme il est mentionné précédemment, même la location de photographies amène à se demander si un revenu a été tiré de cette activité pendant les années visées par l’appel. Les crédits de proposition de vente correspondant aux paiements de location sont liés à des sommes versées en 2003, 2008 et 2009. Les photographies énumérées sont les mêmes pour toute la durée du bail. Rien ne prouve que la location avait donné lieu à une vente en 2015 et aucun témoignage devant la Cour n’indique qu’un loyer a été perçu pour les années autres que les années visées (2003, 2008 et 2009) pour lesquelles un crédit à l’achat était offert. Tout bien pesé, la Cour ne peut pas conclure qu’un loyer a été perçu en 2013 et en 2014.
+[29] En dernière analyse, M. Hurwitz, à titre de contribuable, n’a pas réussi à s’acquitter du fardeau de traiter et de réfuter les hypothèses du ministre au sujet de la non-existence d’une entreprise, qui figuraient dans la réponse. Il n’y avait aucune activité commerciale si l’on tient compte des facteurs présentés dans les arrêts Moldowan et Stewart. Sur ce fondement, l’appel est rejeté, sans dépens, à l’égard des années d’imposition 2013 et 2014. Il n’y avait aucune source de revenus d’entreprise de laquelle déduire les dépenses déclarées.
+[30] Comme il n’existe aucune entreprise, les questions en litige concernant la nature commerciale des dépenses refusées et leur caractère raisonnable ne doivent pas être prises en compte.
+Signé à Ottawa, Canada, ce 19e jour de février 2020.
+« R.S. Bocock »
+Le juge Bocock
+RÉFÉRENCE :
+2020 CCI 31
+No DU DOSSIER DE LA COUR :
+2018-406(IT)I
+INTITULÉ :
+RONALD HURWITZ c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+25 octobre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 19 février 2020
+COMPARUTIONS :
+Représentant de l’appelant :
+James M. Hartford
+Avocat de l’intimée :
+Me Rebecca L. Louis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Me Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

@@ -1,0 +1,156 @@
+Title: Morgan v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521404/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-36-521404-morgan-v-the-king.md
+Document type: case_law
+Last modified: 2025-03-04
+
+# Morgan v. The King
+
+- Citation: 2025 TCC 36
+- Decision date: 2025-03-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6031, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morgan v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-03-10
+Neutral citation
+2025 TCC 36
+File numbers
+2024-550(GST)I
+Judges and Taxing Officers
+John Yuan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2024-550(GST)I
+BETWEEN:
+PETER R. MORGAN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on August 21, 2024 and October 18, 2024, at Toronto, Ontario
+Before: The Honourable Justice John C. Yuan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Janice Calzavara
+JUDGMENT
+UPON hearing from the parties;
+The appeal from an assessment under the Excise Tax Act (“ETA”) is allowed, without costs, and the matter is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to the rebate under subsection 256.21(1) of the ETA in the amount of $16,080.
+Signed this 4th day of March 2025.
+“John C. Yuan”
+Yuan J.
+Citation: 2025 TCC 36
+Date: 20250310
+Docket: 2024-550(GST)I
+BETWEEN:
+PETER R. MORGAN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Yuan J.
+[1] This appeal concerns the Appellant’s entitlement to the Ontario component of GST/HST New Housing Rebate for owner-built homes under subsection 256.21(1) of the Excise Tax Act (“ETA”).
+BACKGROUND
+[2] During a period that began in 2019 and ended in early 2020, the Appellant, Peter Morgan, and his spouse made substantial renovations to their family home located at 56 Market Street, Stouffville, Ontario (“Property”).
+[3] Around two years after completing the renovations to the Property, the Appellant filed an application for the GST/HST New Housing Rebate for owner-built homes to recover some of the Ontario portion of the HST that he and his spouse paid in the course of construction (“Application”).[1]
+[4] The Minister of National Revenue rejected the Application by issuing a notice of assessment dated March 9, 2022 that denied the rebate claim in its entirety.
+[5] In rejecting the Application, the Minister did not dispute that the amounts claimed and the circumstances concerning the Property and its renovations met the requirements for receiving the $16,080 maximum rebate under subsection 256.21(1) of ETA. Rather, the Minister concluded that the Application was not filed on time and denied the claim on that basis.
+ISSUE
+[6] The sole issue in this appeal is whether the Application was filed on or before the deadline prescribed by subsection 46(6) of the New Harmonized Value-added Tax System Regulations (“Regulation”), as required by subsection 256.21(2) of the ETA.
+[7] Paragraphs (a), (b), and (c) of subsection 46(6) of the Regulation establish various deadlines for applying for the Ontario component of the GST/HST New Housing Rebate for owner-built homes. The only relevant deadline at issue in this appeal is the one described in paragraph 46(6)(a); paragraphs (b) and (c) are relieving provisions that require Ministerial discretion in favour of the applicant, which discretion was not exercised here.
+[8] Paragraph 46(6)(a) of the Regulation creates a due date for an application that is the earliest of the three dates. In the circumstances of the Appellant’s renovations to the Property, the earliest date is the one established by subparagraph 46(6)(a)(iii), which is the date that is two years after the construction or substantial renovation of the Property was substantially completed (“Substantial Completion Date”). Consequently, the due date for the Application in connection with the Property is the date that is two years after the Substantial Completion Date for the Property.
+DISCUSSION
+[9] Two dates need to be established to determine whether the Application was filed on or before the due date: (i) the Substantial Completion Date, and (ii) the date the Application was filed.
+[10] The Appellant’s position is that:
+The Substantial Completion Date was no earlier than January 25, 2020; and
+The Application was filed on December 31, 2021.
+[11] The Respondent’s position is that:
+The Substantial Completion Date was January 13, 2020; and
+The Application was filed no earlier than January 24, 2022.
+[12] I begin by considering the Substantial Completion Date and then move on to the date the Application was filed.
+Substantial Completion Date
+[13] Neither the ETA nor the Regulation provide any guidance on how to determine the point in time at which the construction or renovation of a residential complex is substantially complete.
+[14] As noted above, the Respondent treats January 13, 2020 as the Substantial Completion Date. January 13, 2020 is the date that the Town of Stouffville conducted its final inspection of the Property to confirm that the work authorized by the town-issued building permit was completed within its scope. This is also the date that the Appellant reported as the Substantial Completion Date on the Construction Summary Worksheet in an amended Application that the Appellant filed on January 27, 2023 (concurrently with the Appellant’s notice of objection to the assessment that is the subject of this appeal).
+[15] It appears that the Canada Revenue Agency (“CRA”) oftentimes applies a 90% threshold based the proportion of total construction-related expenses that has been incurred at a particular time and, at the hearing of the appeal, the Appellant conceded that the 90% of the total renovation costs for the Property would have been incurred by January 13, 2020.
+[16] Notwithstanding the above, the Appellant argued for a Substantial Completion Date of January 25, 2020 at the hearing because, in that scenario, the deadline for filing the Application would be January 25, 2022, which is exactly one day after the date that the Minister considers the Appellant to have filed the Application, i.e. January 24, 2022.
+[17] In support of a January 25, 2020 Substantial Completion Date, the Appellant relied on the fact that the couple did not move back into the Property until that date, and that gas and telephone services at the Property were not restarted before then. The Appellant also directed the Court to the fall 2020 installation of the concrete driveway pad for the Property and to several Property-related expenses that were identified in the Application and incurred after January 13, 2020.
+[18] However, the weight of the evidence strongly supports the Respondent’s position on the Substantial Completion Date. The Appellant did not make a link between the state of completion of the renovation work on the Property and either the date the couple chose to move back into the Property or the start of the gas and telephone services. Moreover, the Appellant conceded that the nature of the work completed after January 13, 2020 was not critical to occupancy of the Property, as confirmed by a review of the descriptions of post-January 13, 2020 invoices appearing on the listing of construction invoices that was included in the Application.
+[19] Accordingly, I find that the Substantial Completion Date for the Property was January 13, 2020.
+Application Filing Date
+[20] The Application was sent to the CRA by mail using Canada Post. It was mailed by the accountant that the Appellant engaged to prepare and file it on his behalf. The front page of the copy of the Application that the Respondent put into evidence bore a stamp stating that it was received on January 31, 2022 by “Sudbury Mail Exam”.
+[21] Subsection 334(1) of the ETA provides that, for GST/HST purposes, anything sent by mail is deemed to be received by the person to whom it is sent on the day it was mailed. Accordingly, for purposes of this appeal, the Application is to be considered filed with the CRA on the date that it was mailed.
+January 24, 2022 [22] As noted earlier, the Respondent’s position is that the Application was filed no earlier than January 24, 2022.
+[23] In support of its position, the Respondent relied on the evidence of Ms. Katie Su, a CRA litigation officer who testified at the hearing and also swore an affidavit that was filed with the Court.
+[24] According to Ms. Su, the CRA’s decision to treat January 24, 2022 as the mailing date flows from a departmental policy in place since 2007 to treat incoming mail as having been sent five business days before its receipt by the mailroom at the CRA facility. Of course, the fact that the CRA regarded the Application as having been mailed on January 24, 2022 based on its own policy is not evidence that the Application was actually mailed by the Appellant on that date.
+[25] The only evidence entered by the Respondent that was specific to the mailing of the Application was the Application itself, which had a January 31, 2022 date stamp the CRA made on its face. Neither Ms. Su’s testimony in direct nor her affidavit addressed the possibility of delays between the CRA mailroom receipt of incoming mail and the placement of a date-stamp on its contents. Undoubtedly, the Sudbury CRA Tax Services Office receives a large daily volume of incoming mail and I presume that, due to volume, it is impractical for the CRA to open and stamp each piece of incoming mail immediately upon receipt. The possibility of such a delay was briefly covered in Ms. Su’s cross-examination and she indicated that her understanding is that, if there was a delay between receipt and opening, CRA personnel would date-stamp the opened document with the earlier date. However, she did not identify the basis for her understanding and, since I have no reason to believe that Ms. Su’s capacities within the CRA included working in the mailroom, I do not find that part of her evidence to be persuasive. Accordingly, I am not satisfied that the Respondent has shown that the Application was actually received by the CRA mailroom on January 31, 2022, notwithstanding the date the CRA stamped on the document.
+December 31, 2021 [26] The Appellant’s position that the Application was mailed on December 31, 2021 mostly relies (i) on the testimony of the accountant retained to prepare and file the Application, Ms. Joan Vanderbeke, and (ii) a Canada Post receipt.
+[27] Mr. Vanderbeke acknowledged that the Application was the first GST/HST New House Rebate application that she had prepared but she also testified that, at the time, she was well aware there was a two-year time limit within which an application had to be filed.
+[28] She testified that, in the course of preparing the Application, she completed a date box on the Application with a January 10, 2022 date — I presume that she meant the date in Part E (Certification) — to serve as a reminder to herself of the filing deadline for the Application and that she was not concerned if the actual filing date was earlier than the January 10, 2022 date that she had entered somewhere on the application form.
+[29] She further testified that, for business, her routine is to go to the post office once a month and that she personally attended the Canada Post location near her home in Pickering, Ontario on December 31, 2021 to mail the Application along with other work-related items for the month.
+[30] She indicated that, when she mails something on behalf of a client, she would always obtain a receipt to place in the client file to support the billing of the postage as a disbursement to the client on whose behalf the item was sent.
+[31] In the course of the CRA’s review of the Application, Ms. Vanderbeke provided the CRA with a copy of a Canada Post receipt dated December 31, 2021 that showed the mailing of multiple items. Ms. Vanderbeke testified that the copy was made from the original receipt she retrieved from the client file she maintained for the Appellant. The receipt did not identify a specific address to which the listed items were sent but it showed that a parcel weighing 1.131 kilograms was sent to postal code A1B 3Z1 (corresponding to a CRA Tax Centre in St. John’s, Newfoundland), and that a piece of letter mail weighing 0.323 kilograms was sent to postal code P3A 5C1 (corresponding to a CRA Tax Services Office in Sudbury, Ontario).
+[32] On cross-examination, counsel for the Respondent sought to discredit Ms. Vanderbeke’s evidence on the mailing date of the Application by having her acknowledge that neither the December 31, 2022 mailing date nor the Canada Post receipt was mentioned in the body of the notice of objection that she filed on behalf of the Appellant. However, it is not clear to me that either Ms. Vanderbeke or the Appellant were familiar enough with the rules governing applications for the GST/HST Housing Rebate at the relevant time to appreciate that the deadline for filing the application is based on the mailing date and not the date of receipt by the CRA. Accordingly, I did not consider that omission to have any meaning for present purposes.
+[33] I found Ms. Vanderbeke’s testimony to be credible, reliable and corroborated by the Canada Post receipt, which contained an entry that was entirely consistent with the mailing of the approximately 22 page Application to the Sudbury CRA Tax Services Office.
+[34] I have thus concluded that the Application was mailed to the Sudbury CRA Tax Services Office by Ms. Vanderbeke on December 31, 2021.
+CONCLUSON AND DISPOSITION
+[35] My finding that the Substantial Completion Date was January 13, 2020 corresponds to a January 13, 2022 due date under subsection 46(6) of the Regulation for filing the Application. As I have found that the Application was filed on December 31, 2021, the rebate should not have been denied by the Minister on the basis that it was late-filed.
+[36] The assessment will be referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to the rebate under subsection 256.21(1) of the ETA in respect of the Property in the amount of $16,080.
+[37] There will be no award as to costs, since section 18.009 of the Tax Court of Canada Act precludes an award of costs in the circumstances, notwithstanding the Appellant’s success.
+CLOSING OBSERVATION
+[38] Now that I have disposed of the appeal, I have a closing observation.
+[39] In his closing submissions, Mr. Morgan noted that the GST/HST New Housing Rebate is part of a government incentive regime for encouraging residential housing activity and that he carried out the very activity that the program was intended to encourage. His eligibility for that incentive was factored into his budgeting for the renovation work, yet when it came time to collect those monies, it seemed to me that Mr. Morgan was left with the impression that the CRA was looking for ways to disallow his otherwise valid claim.
+[40] To that end, I can understand how it was discouraging for Mr. Morgan that, despite CRA being given documentary proof of mailing in the course of their review of the Application, the Minister would force Mr. Morgan into litigation over whether the Application was filed on time.
+[41] The Minister did not have any direct evidence of a mailing date other than the one on the Appellant’s Canada Post receipt and I have difficulty imagining what better evidence the CRA could reasonably expect an applicant to produce as proof of filing where the application was submitted by regular mail, as is allowed in the circumstances.
+[42] Moreover, the CRA’s position on the mailing date was predicated on a sweeping (and perhaps dubious) assumption that Canada Post could not possibly take more than five business days to deliver mail between locations in Canada. While it is prudent for the CRA to adopt such a policy for purposes of identifying filings that may not have been made on time and require further audit or review on the point, it is something altogether different for the CRA to apply the policy as if it was a legal presumption established by statute.
+[43] Here, the January 13, 2022 due date for filing the Application preceded the January 31, 2022 receipt date stamped on the Application by eighteen days, a period that contains twelve business days. One would have thought the margin between the twelve business days here and the five business days under the CRA policy is small enough that the CRA personnel could readily accept that the Application was mailed on or before January 13, 2022, notwithstanding its receipt by CRA on January 31, 2022. And it is worth noting that, on January 7, 2022, the Government of Canada made a public announcement about the exponential spread of the omicron strain of COVID-19 and Canada Post issued a concurrent press release advising customers that they may experience service delays at that time.
+[44] It also seems that, in the circumstances, there might have been an easier pathway for both parties to resolve this dispute through the exercise of Ministerial discretion.
+[45] As noted earlier, subsection 46(6) of the Regulation contains relieving provisions that allow the Minister to apply discretion to accept applications beyond the normal deadline. Ministerial discretion to accept a late-filed application was not initially part of the New Housing Rebate regime when the GST was initially introduced in 1991 but was added in 2007 as part of a package of ETA amendments aimed at improving the operation of the GST/HST system. Presumably, Parliament recognized that giving the Minister the ability to accept late-filed applications in appropriate circumstances was necessary to ensure that the public interest and policy objectives underlying the GST/HST New Housing Rebate provisions could be properly served.
+[46] The legislative authority for Ministerial discretion in the case of a claim for the Ontario component of the GST/HST New Housing Rebate for owner-built homes is found in paragraph 46(6)(c) of the Regulation.
+[47] The text of paragraph 46(6)(c) does not provide any guidance on the circumstances in which it would be appropriate for the Minister to exercise discretion. The CRA’s Guide for the GST/HST New Housing Rebate (RC4028) advises applicants that late-filed rebate applications may be accepted if they could not be filed on time due to “extraordinary consequences”. Also, it is now well-established in the jurisprudence that the Minister cannot limit the exercise of discretion to the circumstances described in publications like the CRA guide.[2]
+[48] Turning back to Mr. Morgan’s dealings with the CRA in connection with the Application, neither Mr. Morgan nor Ms. Vanderbeke are as familiar with the GST/HST New Housing Rebate provisions as the CRA personnel they encountered concerning the Application. The notice of objection that Ms. Vanderbeke filed on behalf of Mr. Morgan referenced both COVID-19 delays and a death in the family as reasons for why the Application was not filed earlier than it was. Yet, over the many months that the parties were engaged in the dispute concerning the Application, it does not seem that the CRA alerted Mr. Morgan to the possibility of applying for the exercise of Ministerial discretion to accept a late-filed application in exceptional circumstances.
+[49] Of course, even had CRA directed Mr. Morgan or Ms. Vanderbeke to the possibility of applying for relief under paragraph 46(6)(c), there is no assurance that their application for relief would have been granted by the Minister. However, had the CRA done so, perhaps Mr. Morgan would have been left feeling that the CRA personnel were working with him to try to ensure that the incentive under the HST/GST rules was being delivered, rather than focussing their efforts on disallowing his claim.
+The Amended Reasons for Judgment are issued in substitution for the Reasons for Judgment dated March 4, 2025 in order to correct the typographical errors underscored in paragraphs 12 and 49 hereof.
+Signed this 10th day of March 2025.
+“John C. Yuan”
+Yuan J.
+CITATION:
+2025 TCC 36
+COURT FILE NO.:
+2024-550(GST)I
+STYLE OF CAUSE:
+PETER R. MORGAN AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+August 21, 2024 and October 18, 2024
+AMENDED REASONS FOR JUDGMENT BY:
+The Honourable Justice John C. Yuan
+DATE OF AMENDED REASONS FOR JUDGMENT:
+March 10, 2025
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Janice Calzavara
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blank
+Firm:
+Blank
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] The Appellant was not eligible for the federal portion of the GST/HST New Housing Rebate for owner-built homes in section 256 of the ETA because the value of the Property after completion of the renovations exceeded the federal limit of $450,000 under paragraph 256(2)(b).
+[2] See, for example, Stemijon Investments Ltd. v. Canada, 2011 FCA 299 at paragraph 28, and Guidon v. R., 2013 FCA 153 at paragraph 58.

@@ -1,0 +1,390 @@
+Title: Levert c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/235936/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-208-235936-levert-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-10-10
+
+# Levert c. La Reine
+
+- Citation: 2017 CCI 208
+- Decision date: 2017-10-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2168, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Levert c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-10-10
+Référence neutre
+2017 CCI 208
+Numéro de dossier
+2014-2822(IT)I, 2014-2840(IT)I
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-2822(IT)I
+ENTRE :
+MARC LEVERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec l’appel de
+9109-1165 Québec inc. (2014-2840(IT)I) le 9 décembre 2015
+et le 24 novembre 2016, à Québec (Québec).
+Observations écrites de l’appelant reçues le 14 décembre 2016
+et le 15 juin 2017 et celles de l’intimée reçues
+le 29 décembre 2016 et le 30 mars 2017.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Anne Poirier
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2006 et 2009 est accueilli, c’est‑à‑dire que M. Levert n’avait pas à inclure à titre d’avantages conférés à un contribuable un montant de 18 660 $ pour l’année d’imposition 2006 et un montant de 6 000 $ pour l’année d’imposition 2009. Les pénalités imposées en vertu du paragraphe 163(2) de la Loi doivent être recalculées à cet égard.
+À tous autres égards, les nouvelles cotisations établies quant aux années d’imposition 2006, 2007, 2008 et 2009 demeurent inchangées.
+Sans frais.
+Signé à Ottawa, Canada, ce 10e jour d’octobre 2017.
+« Johanne D’Auray »
+Juge D’Auray
+Dossier : 2014-2840(IT)I
+ENTRE :
+9109-1165 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec l’appel de Marc Levert (2014‑2822(IT)I) le 9 décembre 2015
+et le 24 novembre 2016, à Québec (Québec).
+Observations écrites de l’appelante reçues le 14 décembre 2016
+et le 15 juin 2017 et celles de l’intimée reçues
+le 29 décembre 2016 et le 30 mars 2017.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Représentant de l’appelante :
+Marc Levert
+Avocate de l’intimée :
+Me Anne Poirier
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2006 et 2009 est accueilli, c’est‑à‑dire que la société appelante pouvait déduire dans le calcul de ses revenus pour l’année d’imposition 2006 un montant de 18 660 $, et pour l’année d’imposition 2009, un montant de 6 000 $, à titre de dépenses d’entreprise en vertu du paragraphe 9(1) de la Loi. Les pénalités imposées en vertu du paragraphe 163(2) de la Loi doivent être recalculées à cet égard.
+Quant à l’année d’imposition 2008, cette Cour n’a pas compétence pour entendre l’appel relatif à cette année d’imposition, car un avis d’opposition pour ladite année d’imposition n’a pas été présenté à la ministre. Par conséquent, l’appel de l’année d’imposition 2008 est annulé.
+À tous autres égards, les cotisations quant aux années d’imposition 2006, 2007, 2009 et 2011 précédemment établies par la ministre demeurent inchangées.
+Sans frais.
+Signé à Ottawa, Canada, ce 10e jour d’octobre 2017.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2017 CCI 208
+Date : 20171010
+Dossier : 2014-2822(IT)I
+ENTRE :
+MARC LEVERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2014-2840(IT)I
+ET ENTRE :
+9109-1165 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge D’Auray
+I. CONTEXTE [1] La société 9109-1165 Québec inc. exploite une entreprise sous la raison sociale Galerie L’Art Ancien (“Galerie L’Art” ou “société”) à Québec. M. Marc Levert est actionnaire et administrateur de la société, agissant aussi à titre de président.
+[2] En 2003, la société devient membre du réseau ITEX.
+[3] ITEX est un réseau d’échange commercial où les membres peuvent vendre et acheter des biens et des services. En vertu du contrat d’adhésion ITEX, la devise utilisée par les membres est le dollar ITEX; ce dernier équivaut à un dollar canadien. À titre d’exemple, dans le cas en l’espèce, la Galerie L’Art pouvait, par l’entremise du réseau ITEX, vendre une toile pour 10 000 dollars ITEX et acheter un bien ou un service en utilisant ces dollars ITEX.
+[4] Durant les années en litige, soit les années d’imposition 2006, 2007, 2008, 2009 et 2011, la société a effectué plusieurs transactions par l’entremise du réseau ITEX.
+[5] Dans le calcul de son revenu pour les années d’imposition en litige, la société n’a jamais déclaré les ventes qu’elle a effectuées par l’entremise du réseau ITEX ni réclamé la déduction des achats qu’elle a effectués par l’intermédiaire du réseau ITEX afin de gagner un revenu d’entreprise.
+[6] Le 27 novembre 2012, la ministre du Revenu national (la « ministre ») a établi à l’égard de la société de nouvelles cotisations pour les années d’imposition 2006, 2007, 2008 et 2009 afin d’inclure dans le calcul de son revenu les ventes effectuées par l’entremise du réseau ITEX. La ministre a aussi accordé à titre de déduction certaines dépenses, dont les achats effectués par la société par l’intermédiaire du réseau ITEX dans le but de gagner un revenu d’entreprise. La ministre a également imposé une pénalité en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi ») pour chacune des années visées par les nouvelles cotisations.
+[7] En ce qui a trait aux années d’imposition 2006 et 2007, la ministre a également ajouté dans le calcul des revenus de M. Levert des montants à titre d’avantages conférés à un actionnaire, en vertu du paragraphe 15(1) de la Loi. Toutefois, pour les années d’imposition 2008 et 2009, c’est à titre d’avantages conférés à un contribuable visés à l’article 246 de la Loi que la ministre a ajouté des montants dans le calcul du revenu de M. Levert. Une pénalité a également été imposée par la ministre en vertu du paragraphe 163(2) de la Loi pour chacune des années visées par les nouvelles cotisations.
+[8] Les nouvelles cotisations à l’égard de la société pour les années d’imposition 2006 et 2007 ont été établies par la ministre après la période normale de nouvelle cotisation. Pour ce qui est de l’année d’imposition 2008 de la société, la société n’a pas déposé d’avis d’opposition à l’égard de cette année, comme l’exige la Loi. Il est également à noter que la cotisation relative à l’année d’imposition 2011 ne vise pas les questions en litige puisqu’il s’agit simplement, pour cette année, d’un report de perte effectué par la société en 2011. Le sort de l’année d’imposition 2011 sera donc déterminé en fonction du jugement en l’espèce.
+[9] Finalement, en ce qui a trait aux nouvelles cotisations établies à l’encontre de M. Levert pour les années d’imposition 2006, 2007 et 2008, celles-ci ont aussi été établies par la ministre après la période normale de nouvelle cotisation.
+II. FAITS [10] La Galerie L’Art est une société exerçant des activités dans le domaine artistique et ayant comme principale activité l’achat et la vente de tableaux.
+[11] Tel qu’il a été mentionné précédemment, la Galerie L’Art est devenue membre du réseau d’échange commercial ITEX en 2003. À ce titre, elle devait payer, en vertu du contrat d’adhésion ITEX, des frais mensuels de 21 $. Des frais étaient également à payer chaque fois qu’une transaction de vente ou d’achat était effectuée par la société par le truchement du réseau ITEX.
+[12] Les conditions pertinentes du contrat d’adhésion au réseau ITEX sont les suivantes :
+CONDITIONS GÉNÉRALES :
+ATTENDU QUE ITEX QUÉBEC (ITEX) gère un Réseau d’entreprises commerciales et professionnelles échangeant leurs produits et services en Échange Commercial dans le cours normal de leurs affaires, et leur fournit des services d’enregistrement ponctuel et de suivi administratif des transactions d’échange commercial intervenues entre elles;
+ATTENDU QUE les parties désirent établir par la présente convention, leurs droits et obligations suite à l’adhésion au Réseau ITEX;
+[…]
+DEVISE ITEX (DI) : il s’agit d’une unité comptable destinée à faciliter les opérations de débit et de crédit entre Membres, et à permettre aux Membres d’effectuer les entrées appropriées à leur propre environnement comptable, commercial et fiscal. Pour les fins de toute transaction ou opération d’échange commercial, une DI équivaut à un dollar canadiens [sic] (1$); une DI ne peut être échangée contre de l’argent comptant.
+[…]
+MEMBRE EN RÈGLE : il s’agit d’un Membre qui observe les dispositions des présentes ainsi que les Règles établies par ITEX, qui a un compte régulier ouvert chez ITEX et à jour concernant toute somme due à ITEX en dollars canadiens comptant ou en DI. Seuls les Membres en règle […] aux services de ITEX ;
+[…]
+9. TRANSACTIONS D’ÉCHANGE COMMERCIAL
+[…]
+A. Le coupon de transaction, fourni par ITEX, doit être lisiblement complété et comporter les numéros de comptes des Parties, leurs noms exacts, de même que le montant et la date de la transaction. Ce coupon doit être signé par la Partie débitrice (l’acheteur);
+9.7 Par ses services informatisés, par télécopieur et par l’entremise des Agences régionales, ITEX rendra accessible [sic] au Membre ses états de comptes personnalisés, reflétant les activités du ou de ses comptes. Les états de comptes mensuels seront présumés exacts tels que divulgués à moins que le Membre n’avise ITEX par écrit de toute imprécision et ce, dans les trente (30) jours suivant la date d’émission de l’état de compte. ITEX pourra exiger des frais raisonnables pour toute copie de pièce au dossier du Membre;
+[…]
+12. ASPECTS FISCAUX
+Le Membre, lorsqu’il agit comme partie créditrice (vendeur) devra percevoir les taxes appropriées pour les transactions en DI et/ou en argent canadien et consigner celles-ci tel que requis par la loi. ITEX ne peut être tenu responsable quant au paiement de toutes taxes au nom ou à l’acquit de tout Membre. Les transactions effectuées en DI sont généralement traitées comme des événements taxables pour fins fiscales et le Membre reconnaît en être informé et avisé.
+[…]
+Je, soussig[n]é, déclare avoir lu et compris les CONDITIONS GÉNÉRALES qui règlement[ent] l’utilisation d’un compte ITEX et je m’engage au nom de ma compagnie, en mon nom propre et au nom de tous les signataires autorisés à respecter les termes des CONDITIONS GÉNÉRALES et tous amendements thereto [sic] et à m’y conformer.
+[…] (en lettre moulée) MARC LEVERT signature du courtier (s) _________
+Signature autorisée : (s) Marc Levert Titre ____________ Date ____________
+[13] La société n’a jamais inscrit dans ses états financiers les transactions qu’elle a effectuées par l’entremise du réseau ITEX. Elle n’a conservé aucune preuve documentaire relative à ces transactions.
+[14] La société n’a jamais déclaré dans ses déclarations de revenus les transactions qu’elle effectuait par l’entremise du réseau ITEX.
+[15] Lors de l’établissement des nouvelles cotisations, la ministre a ajouté, dans le calcul du revenu de la société, les ventes effectuées par cette dernière par l’intermédiaire du réseau ITEX. La ministre a également accordé à la société la déduction de certains achats à titre de dépenses d’entreprise. Ces ajustements sont reproduits ci-après :
+Revenus ajoutés
+2006
+2007
+2009
+Ventes ITEX non déclarées
+108 700 $
+52 477 $
+90 540 $
+Frais ITEX accordés
+9 038 $
+4 033 $
+6 622 $
+Achats accordés
+63 900 $
+12 471 $
+20 325 $
+Repas accordés
+183 $
+259 $
+216 $
+Total revenu imposable
+35 579 $
+35 714 $
+63 377$
+[16] Lors de l’audience, Mme Couturier, agente des appels à l’Agence du Revenu du Canada (l’« ARC ») à l’époque en cause, a témoigné. Elle a indiqué qu’elle était responsable d’examiner les avis d’opposition des appelants.
+[17] Mme Couturier a indiqué qu’afin d’établir les nouvelles cotisations à l’égard des appelants, elle s’est appuyée sur les états de compte fournis par M. Arès, le représentant de la société ITEX. Les états de compte montrent les transactions d’achat et de vente effectuées par la Galerie l’Art par le truchement du réseau ITEX depuis son inscription en 2003.
+[18] Mme Couturier dit avoir demandé à plusieurs reprises à M. Levert de lui fournir des documents afin de prouver ses allégations. À ce propos, ses notes au dossier démontrent qu’elle a donné plusieurs occasions à M. Levert de lui fournir des documents. Elle a repoussé plusieurs fois les délais établis pour permettre à M. Levert de lui fournir des documents. Cependant, n’ayant pas reçu de documents de M. Levert quant aux transactions effectuées par la société par l’entremise du réseau ITEX, elle s’est fiée aux documents fournis par M. Arès d’ITEX.
+[19] Mme Couturier a examiné la description de chaque achat et n’a accordé à titre de dépenses déductibles que les achats qu’elle estimait avoir été faits dans le but de gagner un revenu d’entreprise. Ainsi, les dépenses engagées par la société par l’entremise du réseau ITEX qui étaient considérées par Mme Couturier comme personnelles ont toutes été refusées. Selon Mme Couturier, les transactions de nature personnelle effectuées par la société par l’intermédiaire du réseau ITEX représentent 55 % de l’ensemble des transactions d’achat de la société.
+[20] Les seuls changements effectués par Mme Couturier à l’étape de l’opposition ont été les suivants : elle a accordé la déduction à la société de tous les frais d’ITEX pour toutes les années en litige et la déduction d’une dépense de 325 $ pour l’année d’imposition 2009.
+[21] Selon Mme Couturier, la société n’a jamais été remboursée des dépenses personnelles qu’elle a effectuées au profit de M. Levert. La ministre a donc ajouté dans le calcul des revenus de M. Levert des montants à titre d’avantages conférés à un actionnaire et à titre d’avantages conférés à un contribuable :
+Revenu ajouté
+2006
+2007
+2008
+2009
+Avantage conféré à l’actionnaire en vertu du par. 15(1) de la Loi
+70 211 $
+14 524 $
+s. o.
+s. o.
+Avantage conféré à un contribuable en vertu du par. 246(1) de la Loi
+s. o.
+s. o.
+2 868 $
+5 135 $
+[22] Lors de l’audience, M. Levert a fait valoir à plusieurs reprises que, si Mme Couturier avait fait correctement son travail et avait obtenu non seulement les états de compte des transactions indiquant les ventes et les achats effectués par la société par l’entremise du réseau ITEX, mais également les bordereaux ou les chèques ITEX justifiant chaque vente ou dépense, elle se serait rendu compte que la société a souvent vendu des objets d’art à perte.
+[23] De plus, bien que M. Levert admette que certaines transactions effectuées par la société par l’entremise du réseau ITEX l’aient avantagé, il fait valoir que d’autres transactions ne lui ont conféré aucun avantage. M. Levert a aussi fait valoir lors de l’audience qu’il n’était pas actionnaire de la société durant les années d’imposition 2006 et 2007.
+III. QUESTIONS EN LITIGE A. Appel de la société [24] Les questions en litige sont les suivantes :
+1. Est-ce à bon droit que la ministre, après la période normale de nouvelle cotisation, a établi en vertu du sous-alinéa 152(4)a)(i) de la Loi de nouvelles cotisations à l’égard de la société pour les années d’imposition 2006 et 2007?
+2. Est-ce à bon droit que la ministre a ajouté aux revenus de la société, à titre de ventes non déclarées, les montants de 35 579 $, de 35 714 $ et de 63 377 $ pour les années d’imposition 2006, 2007 et 2009 respectivement?
+3. Est-ce à bon droit que la ministre a imposé une pénalité à la société en vertu du paragraphe 163(2) de la Loi pour les années d’imposition 2006, 2007 et 2009?
+B. Appel de M. Levert [25] Les questions en litige sont les suivantes :
+1. Est-ce à bon droit que la ministre, après la période normale de nouvelle cotisation, a établi en vertu du sous-alinéa 152(4)a)(i) de la Loi de nouvelles cotisations à l’égard de M. Levert pour les années d’imposition 2006, 2007 et 2008?
+2. Est-ce à bon droit que la ministre, en vertu du paragraphe 15(1) de la Loi, a ajouté aux revenus de M. Levert, à titre d’avantages conférés à un actionnaire, les montants de 70 211 $ et de 14 524 $, pour les années d’imposition 2006 et 2007 respectivement?
+3. Est-ce à bon droit que la ministre, en vertu de l’article 246 de la Loi, a ajouté aux revenus de M. Levert, à titre d’avantages conférés à un contribuable, les montants de 2 868 $ et de 5 135 $ pour les années d’imposition 2008 et 2009 respectivement?
+4. Est-ce à bon droit que la ministre a imposé une pénalité à M. Levert en vertu du paragraphe 163(2) de la Loi pour les années d’imposition 2006, 2007, 2008 et 2009?
+IV. POSITION DES PARTIES ET ANALYSE A. Est-ce que la ministre pouvait établir de nouvelles cotisations à l’égard de la société et de M. Levert après la période normale de nouvelle cotisation en vertu du sous‑alinéa 152(4)a)(i) de la Loi? (1) À l’égard de la société [26] Je vais d’abord déterminer si la ministre avait autorité pour établir en vertu du sous-alinéa 152(4)a)(i) de la Loi après la période normale de nouvelle cotisation, de nouvelles cotisations à l’égard de la société pour les années d’imposition 2006 et 2007.
+[27] Le sous-alinéa 152(4)a)(i) de la Loi énonce ce qui suit :
+(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[Je souligne.]
+[28] Dans la décision College Park Motor Products Ltd.[1], le juge Bowie indique au paragraphe 20 de ses motifs la portée du sous-alinéa 152(4)a)(i) de la Loi :
+[20] Au risque de me répéter, je tiens à souligner encore une fois que le sous-alinéa 152(4)a)(i) est une disposition réparatrice, et non pénale. Elle concilie la nécessité, pour le contribuable, que son obligation fiscale afférente à une année d’imposition soit arrêtée de façon définitive, avec les exigences propres à un système autodéclaratif faisant en sorte que le fisc ne soit pas empêché d’établir une nouvelle cotisation lorsque, en raison de sa conduite, un contribuable a bénéficié d’une cotisation plus avantageuse que celle qui aurait dû être établie, au mieux, par manque de diligence ou d’attention ou, au pire, par fraude volontaire. [...]
+[Je souligne.]
+[29] Lors de l’audience, M. Levert a donné des versions contradictoires. Dans un premier temps, il a indiqué que la société avait commis une erreur en ne déclarant pas ses ventes et que c’était lui qui en était responsable. M. Levert avait l’impression que les ventes et les achats étaient de valeur égale. Ainsi, comme les ventes avaient la même valeur que les achats, il a décidé que la société n’avait à déclarer aucune transaction faite par le truchement du réseau ITEX. Or, il appert de la preuve que cette allégation de M. Levert n’est pas exacte. Les ventes et les achats ne s’équivalent pas automatiquement.
+[30] M. Levert a également indiqué que la société n’avait pas déclaré les transactions ITEX parce que la société avait subi des pertes importantes à la suite des ventes effectuées par l’entremise du réseau ITEX et que la société a préféré ne pas déclarer ces pertes afin d’éviter « de subir une vérification ».
+[31] À la lumière de ces versions contradictoires, la crédibilité de M. Levert en tant que président de la société est sérieusement mise en doute. Cela étant dit, mis à part les versions contradictoires présentées pour expliquer pourquoi la société n’a pas déclaré ses ventes effectuées par l’intermédiaire du réseau ITEX, d’autres indices démontrent que la société n’a pas été diligente ou qu’elle a fait une omission volontaire dans ses déclarations de revenus pour les années d’imposition 2006 et 2007.
+[32] Par exemple, M. Levert a signé le contrat d’adhésion ITEX pour la société. La clause 12 de ce contrat mentionne le caractère taxable des ventes faites par l’entremise du réseau ITEX[2]. Son témoignage selon lequel il n’avait pas lu ce contrat avant d’y apposer sa signature et selon lequel il ne savait pas que les transactions faites par l’intermédiaire du réseau ITEX étaient imposables ne tient pas la route.
+[33] M. Levert œuvre dans le monde des affaires depuis plus de 20 ans. S’il a effectivement signé un contrat pour la société sans en avoir pris connaissance, cela démontre un comportement négligent à titre de président de la société.
+[34] De plus, M. Levert a admis que la société a fait de faux énoncés en ne déclarant pas les transactions ITEX dans ses déclarations de revenus. La société aurait agi ainsi afin d’éviter une vérification de la part de l’ARC. Ce qui ressort clairement de ce témoignage, c’est que la société a fait une omission volontaire dans ses déclarations de revenus afin d’éviter une telle vérification.
+[35] À la lumière de ces faits, les conditions du sous-alinéa 152(4)a)(i) de la Loi sont remplies. Par conséquent, la ministre avait autorité pour établir, après la période normale de nouvelle cotisation, de nouvelles cotisations à l’égard de la société pour les années d’imposition 2006 et 2007.
+(2) À l’égard de M. Levert [36] M. Levert fait valoir qu’il est normal qu’il n’ait pas inclus dans le calcul de son revenu la valeur de certains avantages reçus par lui pour les années visées par la prescription, puisqu’il croyait que les transactions effectuées par l’entremise du réseau ITEX ne devaient tout simplement pas être déclarées.
+[37] Selon moi, cette explication n’est pas crédible, et ce, pour plusieurs raisons. En voici quelques exemples :
+- M. Levert a reconnu, lors de l’audience, que plusieurs achats effectués par la société par le truchement du réseau ITEX l’avaient avantagé personnellement et donc que le traitement de ceux-ci par la ministre était légitime. Il a aussi reconnu ne pas avoir remboursé la société.
+- Cela est reconnu également dans une lettre en date du 25 juillet 2012 adressée à l’ARC par M. Boileau, comptable, représentant la société à l’étape des oppositions. Dans son projet de cotisation, la ministre avait établi une cotisation à l’égard de la conjointe de M. Levert en vertu du paragraphe 15(1) (avantage conféré à une actionnaire). En réponse, à la lettre de l’ARC, le comptable M. Boileau indique ce qui suit :
+Nous ne sommes pas d’accord avec votre projet de cotisation.
+[…]
+C’est Monsieur Marc Levert qui a profité de ces avantages.
+[Je souligne.]
+[38] Parmi les dépenses effectuées par la société, on note celles pour des soins dentaires, des lunettes et des voyages pour des vacances familiales. Il va de soi que ce type de dépenses n’était pas engagé par la société pour gagner du revenu d’entreprise en l’espèce.
+[39] Je suis d’avis, à la lumière des faits, qu’en ne déclarant pas dans de ses déclarations de revenus les avantages que lui a conférés la société, M. Levert a fait une présentation erronée des faits, soit par négligence, soit par omission volontaire d’inclure dans ses revenus les avantages conférés par la société pour les années d’imposition 2006, 2007 et 2008. Par conséquent, c’est à bon droit que la ministre a établi, après la période normale de nouvelle cotisation, de nouvelles cotisations à l’égard de M. Levert pour les années d’imposition 2006, 2007 et 2008.
+B. Ajout des transactions faites par l’entremise du réseau ITEX dans le calcul des revenus de la société et ajout, dans le calcul des revenus de M. Levert, des avantages conférés à ce dernier par la société [40] Je dois donc maintenant déterminer si c’est à bon droit que la ministre a ajouté aux revenus de la société des montants au titre de ventes non déclarées et analyser si certaines dépenses effectuées par la société par le truchement du réseau ITEX sont de nature personnelle ou si elles ont été faites pour gagner un revenu d’entreprise.
+[41] Je dois également analyser si c’est à bon droit que la ministre a ajouté aux revenus de M. Levert, en vertu du paragraphe 15(1) de la Loi, pour les années d’imposition 2006 et 2007, des montants à titre d’avantages conférés par la société à un actionnaire et, en vertu du paragraphe 246(1) de la Loi, pour les années d’imposition 2008 et 2009, des montants à titre d’avantages conférés à un contribuable par une personne.
+[42] À ce propos, M. Levert fait valoir qu’il n’a pas bénéficié de plusieurs des achats effectués par la société par l’intermédiaire du réseau ITEX. Il prétend que la ministre n’aurait pas dû inclure certains achats dans le calcul de ses revenus. Il prétend également que ces achats ont été correctement déduits à titre de dépenses dans le calcul du revenu de la société, ces dépenses ayant été engagées en vue de gagner du revenu d’entreprise.
+[43] De plus, M. Levert a soulevé pour la première fois lors de l’audience un nouvel argument, soit celui selon lequel la ministre ne pouvait pas établir une nouvelle cotisation en vertu du paragraphe 15(1) de la Loi, qui vise les avantages conférés par une société à un actionnaire, car il n’était pas actionnaire de la société durant les années d’imposition 2006 et 2007.
+[44] À cet égard, M. Levert soutient qu’il a fait faillite le 5 juillet 2005 et que toutes ses actions dans la société ont dès lors été transférées au syndic de faillite LeBlond & Associés[3].
+[45] Une lettre du syndic, LeBlond & Associés, en date du 4 novembre 2005[4], indique que la conjointe de M. Levert, Mme Lise Girard, a acheté pour un montant de 20 000 $, le 4 novembre 2005, la demie indivise d’un immeuble ainsi que toutes les actions que M. Levert détenait dans la société. L’appelant soutient que, de ce fait, il ne pouvait détenir les actions de la société, car la totalité de celles‑ci avait été transférée à son épouse par le syndic[5].
+[46] Selon le jugement de la Cour supérieure du Québec dans l’affaire de la faillite de M. Levert, ce dernier a été libéré de sa faillite en date du 28 février 2007, soit après les années en litige pour lesquelles la ministre a établi de nouvelles cotisations en vertu du paragraphe 15(1) de la Loi (avantage conféré à un actionnaire)[6].
+[47] Lors d’une téléconférence qui a eu lieu après l’audience pour discuter des points à traiter dans les plaidoiries écrites et pour discuter également d’une prolongation du délai pour le dépôt des plaidoiries écrites par suite de l’hospitalisation de M. Levert, l’intimée a reconnu que M. Levert n’était pas actionnaire de la société dans les années 2006 et 2007. Cependant, comme elle l’avait fait lors de l’audience, l’intimée a fait valoir dans ses observations écrites que, de toute manière, selon l’article 246 de la Loi, un avantage avait été conféré par la société à M. Levert à titre de contribuable dans les années 2006 et 2007.
+[48] L’intimée soutient qu’en vertu du paragraphe 152(9) de la Loi la ministre peut soulever un nouvel argument à l’appui des nouvelles cotisations pour les années d’imposition 2006 et 2007. Le paragraphe 152(9) indique ce qui suit :
+152(9) Nouveau fondement ou nouvel argument
+Après l’expiration de la période normale de nouvelle cotisation, le ministre peut avancer un nouveau fondement ou un nouvel argument — y compris un fondement ou un argument selon lequel tout ou partie du revenu auquel une somme se rapporte provenait d’une autre source — à l’appui de tout ou partie de la somme totale qui est déterminée lors de l’établissement d’une cotisation comme étant à payer ou à verser par un contribuable en vertu de la présente loi, sauf si, sur appel interjeté en vertu de la présente loi :
+a) d’une part, il existe des éléments de preuve que le contribuable n’est plus en mesure de produire sans l’autorisation du tribunal;
+b) d’autre part, il ne convient pas que le tribunal ordonne la production des éléments de preuve dans les circonstances.
+[49] À cet égard, la Cour d’appel fédérale, dans l’arrêt Walsh[7] conclut que la ministre peut invoquer le paragraphe 152(9) de la Loi si elle satisfait aux trois conditions suivantes :
+[18] Les conditions suivantes sont applicables lorsque le ministre veut invoquer le paragraphe 152(9) de la Loi:
+1) Le ministre ne peut pas inclure de transactions non comptées dans la nouvelle cotisation du contribuable.
+2) Le droit du ministre de proposer un autre argument à l’appui d’une cotisation est assujetti aux alinéas 152(9)a) et b), qui ont trait au préjudice causé au contribuable.
+3) Le ministre ne peut pas invoquer le paragraphe 152(9) pour établir une nouvelle cotisation au-delà du délai prévu au paragraphe 152(4) de la Loi ou pour percevoir un impôt dépassant le montant de la cotisation contestée.
+[50] Il va de soi que la ministre ne peut utiliser le paragraphe 152(9) de la Loi pour augmenter l’impôt à payer par rapport au montant à payer établi dans la cotisation. Ce principe bien établi est confirmé par la Cour d’appel fédérale dans la décision Anchor Pointe Energy Ltd.[8] :
+39 Le ministre ne le visait pas, à mon avis. La présente affaire diffère d’autres, comme Pedwell v. R., 2000 D.T.C. 6405 (Fed. C.A.), où le ministre avait visé à prendre en compte des transactions différentes de celles ayant servi de fondement aux nouvelles cotisations établies pendant la période de la nouvelle cotisation. Je ne dis pas que la seule chose que le ministre ne peut faire après l’expiration de la période normale de nouvelle cotisation c’est prendre en compte d’autres transactions. Tout ce qui ferait augmenter l’impôt à payer par rapport à ce qui devrait l’être à la fin de la période de nouvelle cotisation serait répréhensible.
+[Je souligne.]
+[51] De plus, en l’espèce, il ne faut pas perdre de vue que M. Levert a soulevé ce moyen de défense pour la première fois lors de l’audience. M. Levert n’a cru bon de mentionner ni à l’étape de la vérification ni à l’étape de l’opposition qu’il n’était pas actionnaire durant les années d’imposition 2006 et 2007. De plus, un nombre important de documents signés par M. Levert mentionnent que ce dernier était actionnaire de la société en 2006 et en 2007. À titre d’exemple, dans la déclaration de revenus de la société pour 2006 ainsi que dans les déclarations annuelles faites au Registraire des entreprises du Québec, il est indiqué que M. Levert est actionnaire. À la lumière de ces documents, il est facile de comprendre pourquoi la ministre, en établissant les nouvelles cotisations à l’égard de M. Levert, s’est appuyée sur le paragraphe 15(1) de la Loi.
+[52] Tel que l’indique le juge Bonner dans la décision Chan[9], si les conditions du paragraphe 152(9) sont remplies, la ministre peut soulever de nouveaux motifs pour appuyer la cotisation s’il s’agit de motifs dont elle n’était pas au courant lors de l’établissement des nouvelles cotisations :
+[…] Le fait de permettre au ministre de plaider et de démontrer que la cotisation d’impôt qu’il a établie est défendable compte tenu du droit et des faits dont il ne connaissait pas l’existence lorsqu’il a établi la cotisation ne revient pas, comme l’avocat le suggère, à permettre au ministre de porter en appel sa propre cotisation. Manifestement, la Loi ne permet pas au ministre de porter en appel sa propre cotisation, mais cela ne décrit pas avec justesse ce que le ministre tente de faire aujourd’hui. Il ne prétend pas que sa cotisation était erronée. Il prétend plutôt que la cotisation est juste, mais pour des motifs dont il n’était pas au courant antérieurement. L’argument de l’appelant confond les motifs qui appuient une cotisation et la cotisation elle-même. Ce que l’on établit n’est pas un motif, mais plutôt «l’impôt [à payer] pour l’année». Je me reporte au paragraphe 152(1) de la Loi. La modification de l’article 152 fait ressortir la distinction entre la cotisation et les arguments qui peuvent appuyer celle-ci, et elle établit clairement que l’on peut dire que le ministre tente de porter en appel sa cotisation uniquement lorsqu’il cherche à augmenter le montant de l’impôt établi. […]
+[Je souligne.]
+[53] Je suis d’avis que l’intimée peut invoquer le paragraphe 246(1) de la Loi au soutien des nouvelles cotisations à l’égard de M. Levert pour les années d’imposition 2006 et 2007. La trame factuelle sous-tendant les cotisations est la même. Par conséquent, M. Levert n’a subi aucun préjudice. L’impôt à payer n’est pas augmenté. En l’espèce, tout comme dans la décision Chan[10], l’intimée, au nom de la ministre, ne prétend pas que les cotisations sont erronées; elle ne fait que soulever de nouveaux motifs, comme le permet le paragraphe 152(9) de la Loi.
+C. Est-ce que certains achats considérés comme personnels par la ministre peuvent être déduits dans le calcul des revenus de la société et ne pas être considérés comme des avantages conférés par la société à M. Levert? [54] M. Levert fait valoir que certains achats effectués par la société ne l’ont pas avantagé, car ces achats étaient faits dans le but de gagner du revenu d’entreprise; donc la ministre aurait dû permettre à la société de déduire ces achats et, par conséquent, ces achats ne devraient pas être inclus dans son revenu à titre d’avantage conféré à un contribuable par une personne, soit la société.
+[55] M. Levert a soutenu tout au long de la vérification, durant la première partie de l’audience et même lors de la continuation de l’audience que c’est à l’ARC qu’il incombe d’obtenir les documents justifiant les nouvelles cotisations.
+[56] Toutefois, lors de la première partie de l’audience le 9 décembre 2015, j’ai informé M. Levert qu’il aurait avantage à trouver des pièces justificatives afin d’appuyer ses allégations. J’ai également mentionné qu’il était de sa responsabilité de contacter les personnes impliquées dans les transactions en litige afin d’établir comme il le prétend, que certains achats par la société étaient faits pour gagner du revenu d’entreprise ou qu’il n’avait pas bénéficié d’un avantage, car il avait vendu des dollars ITEX à des non-membres. Je lui aussi indiqué qu’il serait avantageux de faire témoigner son comptable, M. Boileau, ainsi que M. Arès, le représentant d’ITEX.
+[57] Lors de la reprise de l’audience le 24 novembre 2016, soit un peu moins d’un an après la première journée de l’audience, M. Levert n’avait assigné aucun témoin et n’avait toujours aucune pièce justificative pertinente lui permettant de soutenir que certains achats effectués par la société par le truchement du réseau ITEX avaient été faits dans le but de gagner du revenu d’entreprise et non à des fins personnelles. À la fin de l’audience, M. Levert m’a demandé du temps supplémentaire pour fournir des preuves documentaires; j’ai acquiescé à sa demande. Par suite de l’hospitalisation de M. Levert, j’ai prolongé les délais à quelques reprises afin que ce dernier puisse fournir des documents au soutien de ses arguments.
+[58] La Cour a reçu les documents suivants le 14 décembre 2016 de la part de la société :
+1. En liasse, des exemples de chèques-cadeaux d’ITEX, déposés sous la cote A-10.
+2. Relevé bancaire montrant un dépôt de 29 525 $ dans le compte bancaire de la société, déposé sous la cote A-11.
+3. Facture manuscrite, en date du 13 juin 2008, indiquant la vente d’un lot de bijoux à M. Claude Belley, déposée sous la cote A-12.
+4. Contrat notarié du 13 juin 2008 relatif à la vente d’un terrain par M. Claude Belley à la société pour un montant de 25 000 $, déposé sous la cote A-13.
+[59] Le 29 décembre 2016, l’intimée a également déposé les documents suivants:
+1. Copie du grand livre détaillé de la société pour la période du 28 février 2008 au 30 novembre 2008, déposée sous la cote I-25.
+2. Copie d’imprimés du site Internet de la Galerie d’Art le Belley et de celui du Registraire des entreprises, déposée sous la cote I-26.
+3. Copie d’un échange de courriels avec M. Claude Belley, déposée sous la cote I-27.
+[60] Tel que je l’ai déjà indiqué, M. Levert ne conteste pas qu’il a été avantagé par certains achats faits par la société par l’entremise du réseau ITEX. Cependant, il fait valoir que certains achats n’auraient pas dû être ajoutés à son revenu comme des avantages conférés à un contribuable, car il n’en a pas bénéficié. Selon M. Levert, les achats énumérés ci-dessous ont été effectués par la société par l’intermédiaire du réseau ITEX afin de gagner du revenu d’entreprise.
+[61] Les achats contestés par M. Levert sont les suivants :
+1. D. N. Autos et Groupe TC
+2. Mazda MPV
+3. Bijoux
+4. Fenestration Rénov Concept
+4. Déry Capital inc.
+(1) D.N. Autos et Groupe TC [62] Pour ce qui est des transactions D.N. Autos et Groupe TC, l’intimée prétend qu’il s’agit de l’achat d’une automobile et d’une motocyclette d’une valeur de 5 000 $ et de 6 000 $ respectivement, le tout fait par la société par l’entremise du réseau ITEX. Lors de son témoignage, Mme Couturier de l’ARC a indiqué qu’il s’agissait d’achats personnels, car aux états financiers de la société les montants inscrits au poste du matériel roulant (les automobiles) n’ont pas été modifiés, c’est-à-dire que, durant les années d’imposition 2005 et 2006, aucun ajout d’actifs n’apparaît à ce poste aux états financiers de la société.
+[63] M. Levert fait valoir qu’il a indiqué à plusieurs reprises qu’aucune transaction par l’entremise du réseau ITEX n’était inscrite aux états financiers de la société. Donc, le motif invoqué par Mme Couturier pour inclure ces transactions dans son revenu à titre d’avantages lui ayant été conférés est un non‑sens.
+[64] Cependant, lors de son témoignage, M. Levert a donné deux versions factuelles à l’égard de ces transactions.
+[65] M. Levert a premièrement soutenu que la société a vendu des dollars ITEX à des non-membres en 2006 pour un montant inférieur de 10 % à 20 % à la valeur de ces dollars ITEX. Selon M. Levert, après avoir vendu des dollars ITEX à M. Vachon, un non-membre d’ITEX en échange d’argent comptant, la société aurait obtenu pour celui‑ci des chèques-cadeaux d’ITEX afin qu’il puisse acheter l’auto et la moto par l’entremise d’ITEX. Pour étayer sa version des faits, M. Levert a fait parvenir à la Cour, après l’audience, des exemples de chèques-cadeaux. Ces chèques-cadeaux ne se rapportent cependant pas aux transactions conclues avec D.N. Autos et Groupe TC.
+[66] Dans un deuxième temps, M. Levert a indiqué que la société avait acheté la motocyclette et l’auto afin de les revendre, donc pour gagner du revenu d’entreprise. M. Levert a toutefois soutenu que les véhicules n’avaient jamais été enregistrés au nom de la société et c’est pourquoi il n’avait pas de pièces justificatives pour les transactions en question. Il prétend que les véhicules auraient été achetés aux sociétés D.N. Autos et Groupe TC par l’entremise du réseau ITEX et vendus à un acheteur à l’aide d’une procuration signée par D.N. Autos et Groupe TC. Aucune preuve n’a été déposée pour étayer cette version de M. Levert.
+[67] M. Levert a indiqué que, malgré que le contrat d’adhésion ITEX défende aux membres d’ITEX de vendre des dollars ITEX en échange d’argent comptant, plusieurs membres, dont lui, en vendaient.
+[68] Lors de l’audience, l’intimée a réitéré qu’elle avait demandé à plusieurs reprises à M. Levert de lui démontrer que le montant prétendument payé par M. Vachon pour l’achat de l’auto et de la moto avait été déposé dans le compte bancaire de la société. L’intimée a fait valoir que, puisque M. Levert n’avait pas cru nécessaire de faire témoigner M. Vachon et/ou de faire la preuve que le montant reçu pour cette vente avait été déposé dans le compte bancaire de la société, M. Levert n’avait pas renversé le fardeau de la preuve et les cotisations devaient être maintenues à cet égard.
+[69] Je suis d’accord avec l’intimée. M. Levert n’a pas réussi à démontrer que sa première version des faits était véridique. Si effectivement, la société a vendu des dollars ITEX, et ce, pour un montant inférieur de 10% à 20% à la valeur des dollars ITEX, la société n’a pas démontré que ce montant avait été déposé dans son compte bancaire. Je suis donc d’avis que ni la société (quant à la déduction), ni M. Levert (quant à l’avantage conféré) n’ont renversé le fardeau de la preuve.
+[70] Quant à la deuxième version des faits donnée par M. Levert, elle ne tient pas. Par exemple, si les véhicules n’ont jamais été enregistrés au nom de la société, comment M. Levert peut-il faire valoir que la société a vendu ces véhicules à une tierce personne en vue de gagner du revenu d’entreprise? La Société de l’assurance automobile du Québec ne pouvait transférer à un tiers des véhicules dont la société n’était pas propriétaire puisqu’elle n’avait jamais enregistré les véhicules en son nom. De plus, si cette version de M. Levert est véridique, ce dont je doute fortement, aucune preuve n’a été faite qui établissait que les montants reçus pour l’automobile et la motocyclette ont été déposées dans le compte bancaire de la société.
+[71] Conséquemment, je suis d’avis que la ministre a correctement établi les nouvelles cotisations à l’égard des transactions D.N. Autos et Groupe TC, autant pour la société que pour M. Levert.
+(2) Mazda MPV [72] Selon M. Levert, la société a acheté une Mazda MPV de l’Auberge Manoir Ville Marie par l’intermédiaire du réseau ITEX pour 6 000 dollars ITEX. Au soutien de son allégation, M. Levert a déposé en preuve un contrat notarié daté du 29 août 2009, représentant l’acte de vente des actifs de la société[11]. On constate que selon les termes de ce document, l’un des actifs exclus de la vente est un véhicule Mazda. Selon M. Levert, cela démontre que la société était propriétaire du véhicule et que ce véhicule était utilisé à des fins d’affaires.
+[73] L’intimée n’a présenté aucun argument convaincant à l’encontre de cette assertion de M. Levert. Selon le contrat de vente des actifs, la société demeurait propriétaire de la Mazda MPV. La prépondérance des probabilités joue en faveur de la société; cette dernière, pour exercer ses activités, devait posséder une auto.
+[74] Je suis donc d’avis que, pour l’année d’imposition 2009, la société pouvait déduire 6 000 $ pour l’achat de la Mazda MPV et que ce montant n’aurait pas dû être inclus à titre d’avantage conféré à un contribuable dans le calcul du revenu de M. Levert pour l’année d’imposition 2009.
+(3) Bijoux [75] En ce qui a trait à la transaction relative à l’achat de bijoux, M. Levert a fait valoir à l’étape de la vérification que la société avait acheté des bijoux par l’entremise du réseau ITEX pour 18 860 $ en 2006 et que la société les avait vendus le 11 juillet 2008 pour un montant de 29 525,03 $. Conséquemment, cet achat a été effectué dans le but de gagner du revenu d’entreprise.
+[76] À l’étape de l’opposition et à l’audience, M. Levert a modifié sa version des faits relatifs à cette transaction. M. Levert a fait valoir que la société a échangé les bijoux contre un terrain détenu par M. Claude Belley dans la paroisse de Saint‑Didace. À l’appui de son assertion, M. Levert a déposé, à la suite de l’audience, un reçu de transaction fait au nom de M. Claude Belley, daté du 13 juin 2008, et faisant état d’un montant de 25 000 $. On peut voir sur le reçu la mention suivante : « lot de bijoux valeur de 25,000.00 en paiement (contrepartie) pour un terrain situé à St-Didace dans Maskinongé ».
+[77] M. Levert a également déposé en preuve l’acte de vente du terrain, également daté du 13 juin 2008, par lequel M. Claude Belley vendait à la société le terrain situé à Maskinongé. Toutefois, rien dans l’acte de vente ne fait mention d’un échange de bijoux. La clause quant au prix se lit comme suit :
+Prix
+Cette vente est faite pour le prix de VINGT-CINQ MILLE DOLLARS (25 000.00$) payé par l’acquéreur avant ce jour, dont quittance finale de la part du vendeur.
+[78] M. Levert a indiqué que, par la suite, la société a vendu ce terrain pour la somme de 28 000 $ à la société 9161-4032 Québec inc. représentée par son président, M. Alain Gravel. L’acte de vente notarié est en date du 7 juillet 2008[12].
+[79] Selon M. Levert, cette transaction ne lui a conféré aucun avantage puisque le produit de la vente du terrain à la société d’Alain Gravel, soit un montant de 28 000 $, a été déposé au compte de la société le 11 juillet 2008, le tout tel qu’il appert du relevé bancaire soumis par l’appelant.
+[80] De son côté, l’intimée soutient que l’achat des bijoux constitue une transaction personnelle effectuée par la société par l’entremise du réseau ITEX. Par conséquent, l’intimée fait valoir que la société ne peut déduire l’achat des bijoux dans le calcul de ses revenus pour l’année d’imposition 2006 et que le montant de l’achat doit être ajouté dans le calcul du revenu de M. Levert pour l’année d’imposition 2006.
+[81] Selon l’intimée, la vente du terrain pour 28 000 $ en date du 7 juillet 2008 n’a pas été déclarée par la société. De plus, les inscriptions au grand livre de la société indiquent un dépôt de 29 525,03 $, mais ce dépôt est annulé par le retrait du même montant avec la mention « vente terrain perso ». Selon l’intimée, le grand livre de la société démontre que la transaction relative au terrain est personnelle[13].
+[82] De plus, l’intimée fait valoir que le relevé bancaire[14] démontre que le dépôt de 29 525,03 $ est suivi immédiatement d’un retrait de 30 000 $ effectué par M. Levert dans le compte bancaire de la société. Selon la feuille de travail de Mme Couturier, l’écriture comptable soumise par la société lors de l’opposition démontre que le poste « dû aux administrateurs » a été crédité du même montant, ce qui démontre la nature personnelle de cette transaction[15].
+[83] Finalement, l’intimée fait valoir que la version des faits de M. Levert est peu crédible, puisqu’en cours d’opposition son comptable, M. Boileau, se serait retiré du dossier en indiquant que M. Levert avait trop de versions contradictoires relativement à cette transaction et « qu’il n’y aurait jamais eût [sic] de terrain de mêlé à ça. »[16]
+[84] Cela étant dit, le comptable, M. Boileau, était aussi membre d’ITEX et, comme il n’a pas témoigné, quand Mme Couturier de l’ARC rapporte ses paroles, cela constitue du ouï-dire.
+[85] De plus, en réponse à un courriel de l’intimée, le vendeur du terrain, M. Belley, dit : « bien que je préférais les œuvres d’arts [sic], il est possible que j’ai reçu un lot de bijoux en échange de ce terrain probablement pour une partie et le reste en tableaux ».
+[86] M. Levert n’est pas une personne crédible. De plus, il n’a pas aidé la cause de la société en choisissant de ne pas faire témoigner lors de l’audience le vendeur du terrain, M. Belley, ou le comptable, M. Boileau. Cependant, je doute que ces bijoux aient été achetés à des fins personnelles. Les activités de la société ne se limitent pas à la vente de tableaux, mais comprennent aussi la vente d’objets anciens. De plus, le relevé bancaire démontre que le montant provenant de la vente du terrain a été déposé dans le compte bancaire de la société. La preuve est loin d’être parfaite pour la société, mais j’ai décidé de donner le bénéfice du doute à la société. Par conséquent, la société peut déduire le montant de 18 660 $ dans le calcul de ses revenus pour l’année d’imposition 2006, et ce montant ne doit pas être inclus dans le calcul du revenu de M. Levert, également pour l’année d’imposition 2006.
+(4) Fenestration Rénov Concept [87] En ce qui a trait à la transaction Rénov Concept, il appert des documents provenant d’ITEX que la société a acheté par l’intermédiaire du réseau ITEX des fenêtres ainsi que le service d’installation de celles-ci.
+[88] M. Levert soutient qu’il s’agit d’une transaction effectuée avec un non‑membre à la suite de la vente de dollars ITEX par la société. Lors de l’opposition, M. Levert a fait valoir que les fenêtres avaient été vendues à un non-membre, soit M. Martin Pouliot[17]. Toutefois, lors de l’audience, M. Levert a fait valoir que c’était plutôt un nommé M. Duchesné qui lui avait acheté des dollars ITEX. À cet égard, il aurait été facile de faire témoigner M. Pouliot ou M. Duchesné afin de prouver que ces derniers avaient acheté des fenêtres à la suite de la vente des dollars ITEX par la société. M. Levert aurait pu aussi faire témoigner un représentant de Rénov Concept afin de prouver que les fenêtres n’avaient pas été achetées par M. Levert ni installées à sa résidence. Nécessairement, la société doit également établir l’utilisation et la comptabilisation des montants reçus afin de prouver que les montants reçus en échange des dollars ITEX ont profité à la société et non pas à M. Levert personnellement.
+[89] Mme Couturier a conclu que cette transaction était de nature personnelle puisque la société louait un local pour ses opérations. La société ne possédant pas d’immeuble, la transaction était nécessairement personnelle et conférait un avantage à M. Levert. Mme Couturier a tenu pour acquis que l’achat des fenêtres par l’entremise du réseau ITEX était pour la résidence personnelle de M. Levert et de sa conjointe Mme Girard.
+[90] M. Levert n’a tenu aucune comptabilité des dollars ITEX que la société aurait vendus en échange d’argent comptant. De plus, M. Levert a choisi de ne pas faire témoigner M. Duchesné et/ou M. Pouliot ou un représentant de Rénov Concept. Une facture a sûrement été établie après l’installation des fenêtres par Rénov Concept. J’ai avisé M. Levert à plusieurs reprises de faire témoigner les personnes qui pouvaient confirmer ses dires ou au moins de tenter d’obtenir la facture de Rénov Concept afin de prouver qu’il n’avait pas reçu un avantage à l’égard de ces fenêtres et de prouver que les montants reçus étaient déposés au compte bancaire de la société. M. Levert a choisi de ne pas faire témoigner les personnes qui auraient participé à la transaction. Il m’est donc difficile de ne pas tirer une inférence négative de l’inaction de M. Levert.
+[91] Je suis d’avis que la nouvelle cotisation à l’égard de cette transaction doit être maintenue, c’est-à-dire que la société ne pouvait déduire un montant de 5 000 $ en 2006 et ce montant a été correctement ajouté à titre d’avantage conféré par la société dans le calcul des revenus de M. Levert.
+(5) Déry Capital inc. [92] Selon les états de compte de la société obtenus par l’ARC auprès d’ITEX, la transaction impliquant Déry Capital inc. représente l’achat par la société d’une assurance vie pour 15 000 $.
+[93] Selon l’agente des appels, Mme Couturier, la seule façon d’obtenir une déduction relativement à une police d’assurance vie dans le calcul du revenu de la société est de prouver que cette police d’assurance vie est requise par une institution financière afin de garantir un prêt. Or, lors de l’opposition, l’agente des appels a conclu que cet achat était nécessairement personnel puisqu’aucun prêt n’apparaissait aux états financiers de la société. Ainsi, selon elle, cette dépense ne peut pas constituer une dépense d’affaires.
+[94] De son côté, M. Levert soutient qu’il s’agit une fois de plus d’une transaction ayant été effectuée à la suite de la vente de dollars ITEX par sa société à des non-membres et qu’il n’a pas été avantagé par cette transaction.
+[95] M. Levert soutient que c’est M. Duchesné qui a acheté l’assurance auprès de Déry Capital inc. avec les chèques-cadeaux ITEX. Encore une fois, bien qu’avisé à plusieurs reprises, M. Levert n’a pas jugé bon de faire témoigner M. Duchesné ou M. Déry de Déry Capital inc. — ce qui aurait été facile — afin d’établir que l’assurance a été achetée par M. Duchesné. De plus, M. Levert n’a déposé aucune autre pièce justificative au soutien de son allégation relative à cette transaction.
+[96] Par conséquent, la nouvelle cotisation relative à cette transaction doit être maintenue autant pour la société que pour M. Levert.
+[97] Je tiens également à souligner qu’il n’est pas facile de faire la part des choses dans les appels en l’espèce. Outre qu’il présentait différentes versions factuelles, le témoignage de M. Levert était tellement confus à l’occasion qu’il n’était pas facile à circonscrire. L’agente des appels, Mme Couturier, s’est fiée aux dires de M. Arès d’ITEX pour comprendre le fonctionnement d’ITEX. Ce dernier a indiqué à Mme Couturier qu’ITEX n’émettait pas de chèques-cadeaux, ce qui s’avère inexact. M. Arès a aussi indiqué que les membres ne pouvaient vendre des dollars ITEX à des non-membres, ce qui est véridique selon le contrat d’adhésion, mais, selon M. Levert, il s’agit également d’un faux énoncé de la part de M. Arès, puisque ce dernier savait que les membres vendaient des dollars ITEX. Il est clair que chacun des acteurs dans ces transactions, soit M. Arès d’ITEX, M. Boileau (le comptable) et M. Levert, a, en donnant des informations à l’ARC, veillé à protéger ses propres intérêts.
+V. Est-ce à bon droit que la ministre a imposé une pénalité à la société et/ou à M. Levert en vertu du paragraphe 163(2) de la Loi pour les années d’imposition 2006, 2007, 2008 et 2009? [98] Le paragraphe 163(2) de la Loi énonce ce qui suit :
+163(2) Faux énoncés ou omissions Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé «déclaration» au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+a) l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
+(i) l’excédent éventuel de l’impôt qui serait payable par cette personne pour l’année en vertu de la présente loi sur les sommes qui seraient réputées par les paragraphes 120(2) et (2.2) payées au titre de l’impôt de la personne pour l’année, s’il était ajouté au revenu imposable déclaré par cette personne dans la déclaration pour l’année la partie de son revenu déclaré en moins pour l’année qu’il est raisonnable d’attribuer au faux énoncé ou à l’omission et si son impôt payable pour l’année était calculé en soustrayant des déductions de l’impôt payable par ailleurs par cette personne pour l’année, la partie de ces déductions qu’il est raisonnable d’attribuer au faux énoncé ou à l’omission,
+(ii) l’excédent éventuel de l’impôt qui aurait été payable par cette personne pour l’année en vertu de la présente loi sur les sommes qui auraient été réputées par les paragraphes 120(2) et (2.2) payées au titre de l’impôt de la personne pour l’année, si l’impôt payable pour l’année avait fait l’objet d’une cotisation établie d’après les renseignements indiqués dans la déclaration pour l’année;
+[…]
+[99] Dans la décision De Gennaro[18], le juge Owen de notre Cour explique le fardeau de la preuve qui incombe à la ministre lorsqu’une pénalité a été établie par la ministre en vertu du paragraphe 163(2) de la Loi. À ce propos, il écrit ce qui suit aux paragraphes 33 et 34 de ses motifs:
+[33] En vertu du paragraphe 163(3) de la LIR, il incombe au ministre d’établir les faits qui justifient l’imposition d’une pénalité prévue au paragraphe 163(2) de la LIR. Ce fardeau est décrit par la Cour d’appel fédérale dans l’arrêt Lacroix c. La Reine, 2008 CAF 241, au paragraphe 26, comme suit :
+Bien que le ministre bénéficie des présomptions de fait qui sous-tendent la nouvelle cotisation, il ne jouit d’aucun avantage semblable pour ce qui est de la preuve des faits justifiant l’établissement d’une nouvelle cotisation hors de la période statutaire, ou encore des faits justifiant l’imposition d’une pénalité en raison de l’inconduite du contribuable dans la production de sa déclaration de revenu. Le ministre est indéniablement dans l’obligation de mettre en preuve les faits justifiant l’invocation de ces mesures exceptionnelles.
+[34] La manière dont on peut s’acquitter de ce fardeau est décrite par la Cour d’appel fédérale au paragraphe 32 :
+Qu’en est-il alors du fardeau du ministre? Comment s’en acquitte-t-il? Il se peut que, dans certaines circonstances, le ministre soit en mesure de montrer une preuve directe de l’état d’esprit du contribuable lorsque ce dernier a produit sa déclaration de revenu. Mais dans la grande majorité des cas, le ministre ne pourra que miner la crédibilité du contribuable, soit par des éléments de preuve qu’il apporte, soit en contre-interrogatoire du contribuable. Dans la mesure où la Cour canadienne de l’impôt est persuadée que le contribuable touche un revenu qu’il n’a pas déclaré et que l’explication offerte par le contribuable pour l’écart constaté entre son revenu déclaré et l’accroissement de son actif est non crédible, le ministre s’est acquitté du fardeau de preuve qui lui incombe aux termes du sous-alinéa 152(4)(a)(i) et du paragraphe 162(3) [sic].
+[100] Par conséquent, la ministre doit prouver dans les appels en l’espèce que la société et M. Levert ont :
+1) sciemment fait un faux énoncé ou une omission dans leurs déclarations de revenus;
+2) dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans leurs déclarations de revenus.
+A. La société [101] Donc, l’intimée doit prouver que la société, selon la première partie du critère établi au paragraphe 163(2) de la Loi, savait au moment de la production de ses déclarations de revenus que les énoncés contestés étaient faux, ou qu’elle avait omis de déclarer des revenus. Si cette condition n’est pas remplie par l’intimée, selon la deuxième partie du critère au paragraphe 163(2), elle doit établir que, dans des circonstances équivalant à faute lourde, la société a fait un faux énoncé ou a omis de déclarer des revenus lors de la production de ses déclarations de revenus.
+[102] La société a été constituée en société par actions le 17 octobre 2001. M. Levert, pour sa part, a vingt ans d’expérience dans le domaine des affaires. La société est membre du réseau ITEX depuis 2001 par l’entremise d’une autre société.
+[103] M. Levert a aussi agi à titre de vérificateur du Comité paritaire de l’automobile pendant environ 30 ans. À titre de vérificateur, M. Levert s’assurait que les sociétés exerçant des activités dans le secteur de l’automobile déclaraient correctement au Comité paritaire les heures travaillées par leurs employés. M. Levert a indiqué qu’il est important que les heures des employés soient correctement comptabilisées pour enrayer le marché noir et favoriser une saine concurrence dans le milieu de l’automobile. Il a d’ailleurs indiqué que, selon lui, ITEX offrait un marché qui équivalait à un marché noir. M. Levert, sans être expert en fiscalité, connait donc ce qui constitue un marché noir et comprend qu’une société qui ne déclare qu’une partie de ses ventes participe au marché noir.
+[104] La société a choisi de ne déclarer aucune des transactions ITEX, car elle voulait éviter une vérification compte tenu des ventes qu’elle disait effectuées à perte. Selon une deuxième version des faits, la société n’aurait pas déclaré ses transactions faites dans le réseau ITEX, car elle avait l’impression que ses ventes et ses achats dans le réseau ITEX s’équivalaient.
+[105] Premièrement, pourquoi être resté dans le réseau ITEX si la société ne faisait que des pertes sur les transactions effectuées par le truchement du réseau ITEX? De plus, si effectivement il y avait des pertes, ces pertes auraient pu être déduites dans le calcul de ses revenus. De plus, la preuve a établi que l’énoncé de M. Levert est faux, puisque les ventes n’équivalaient pas toujours aux achats. De toute manière, en tant qu’homme d’affaires d’expérience et président de la société, M. Levert savait que, peu importe la nature des transactions d’une entreprise, elles devaient être intégrées aux états financiers d’une société et inscrites dans les déclarations de revenus de cette société. De plus, M. Levert n’a jamais indiqué, lors de l’audience, qu’il ne savait pas que les transactions ITEX devaient être incluses dans le calcul des revenus de la société.
+[106] À mon avis, M. Levert savait que la société avait omis d’inclure les transactions ITEX dans ses déclarations de revenus pour les années 2006, 2007 et 2009. C’est sûrement cela qui l’a motivé à ne conserver aucun document relatif aux transactions de la société faites par l’entremise du réseau ITEX. De plus, il est clair qu’en vertu du contrat d’adhésion, en tant que membre au réseau ITEX, les transactions faites par l’entremise de ce réseau sont imposables. À cet égard, la clause 12 du contrat stipule ce qui suit :
+Le Membre, lorsqu’il agit comme partie créditrice (vendeur) devra percevoir les taxes appropriées pour les transactions en DI et/ou en argent canadien et consigner celles-ci tel que requis par la loi. ITEX ne peut être tenu responsable quant au paiement de toutes taxes au nom ou à l’acquit de tout Membre. Les transactions effectuées en DI sont généralement traitées comme des événements taxables pour fins fiscales et le Membre reconnaît en être informé et avisé.
+[107] À la lumière de ces faits, l’intimée a établi que la société a sciemment fait de faux énoncés et des omissions dans la déclaration de ses revenus relativement aux années d’imposition 2006, 2007 et 2009.
+[108] De toute manière, si je me suis trompée quant à la première partie du critère énoncé au paragraphe 163(2) de la Loi, je suis d’avis que les faits que j’ai mentionnés ci-dessus, notamment le fait pour la société de ne pas avoir déclaré ses revenus pour éviter une vérification, révèlent que la société a, dans des circonstances équivalant à faute lourde, fait des faux énoncés et omis d’inclure dans ses déclarations les revenus relatifs aux transactions effectuées par l’entremise du réseau ITEX. Le juge Strayer de la Cour fédérale énonce ce qui suit dans la décision Venne[19] :
+[...] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi. […]
+[109] À mon avis, à la lumière de son comportement, la société a agi d’une manière délibérée et a démontré une indifférence quant au respect de la Loi.
+B. M. Levert [110] Appliquant le même raisonnement à M. Levert, je suis également d’avis que M. Levert, dans ses déclarations de revenus relatives aux années d’imposition 2006, 2007, 2008 et 2009, a sciemment fait un faux énoncé et a sciemment omis d’inclure dans le calcul de ses revenus les avantages accordés par la société.
+[111] Par exemple, M. Levert savait que, comme il ne remboursait pas à la société les dépenses personnelles que la société avait payées à son bénéfice, la valeur des avantages ainsi conférés devait être incluse dans le calcul de ses revenus dans ses déclarations de revenus. En l’espèce, 55 % des dépenses de la société sont de nature personnelle. M. Levert savait que des soins dentaires, des lunettes ou des voyages familiaux achetés par la société par l’entremise du réseau ITEX constituaient des dépenses personnelles pour la société et un avantage pour lui. De plus, M. Levert n’est pas un novice en ce qui concerne l’application du paragraphe 163(2) de la Loi. Une pénalité lui a déjà été imposée en vertu du paragraphe 163(2) de la Loi pour les années d’imposition 1999 à 2001 relativement à des revenus non déclarés établis selon la méthode de l’avoir net. D’ailleurs, M. Levert ne s’était pas opposé aux cotisations pour ces années.
+[112] De plus, pour les années d’imposition 2006, 2007, 2008 et 2009, les avantages reçus par M. Levert sont importants. En effet, la ministre a ajouté des montants de 70 211 $, de 14 524 $, de 2 868 $ et de 5 135 $ respectivement dans le calcul de ses revenus, alors que M. Levert a initialement déclaré des revenus totaux de 18 630 $, de 11 769 $, de 9 671 $ et de 16 305 $ respectivement.
+[113] Ainsi, à la lumière de ces faits, je suis d’avis que la ministre a établi que M. Levert a sciemment omis de déclarer dans ses déclarations de revenus relatives aux années d’imposition 2006, 2007, 2008 et 2009, des revenus reçus à titre d’avantages conférés par la société.
+[114] Si je me suis trompée en concluant ainsi, je suis d’avis que les faits ont établi que M. Levert a, dans des circonstances équivalant à faute lourde, omis de déclarer certains de ses revenus dans ses déclarations de revenus. Le montant des dépenses personnelles effectuées par la société par l’entremise du réseau ITEX représente 55 % du total des achats. De plus, M. Levert ne se souciait pas de respecter la Loi. Son comportement démontrait une indifférence envers la Loi; des dépenses telles que des voyages familiaux, des soins dentaires et des lunettes sont manifestement de nature personnelle.
+VI. Dispositif A. La Société [115] L’appel est accueilli, c’est-à-dire que la société appelante pouvait déduire dans le calcul de ses revenus pour l’année d’imposition 2006 un montant de 18 660 $, et pour l’année d’imposition 2009, un montant de 6 000 $, à titre de dépenses d’entreprise en vertu du paragraphe 9(1) de la Loi. Les pénalités imposées en vertu du paragraphe 163(2) de la Loi doivent être recalculées à cet égard.
+[116] À tous autres égards, les nouvelles cotisations pour les années d’imposition 2006, 2007, 2009 et 2011 précédemment établies par la ministre demeurent inchangées.
+[117] Quant à l’année d’imposition 2008, cette Cour n’a pas compétence pour entendre l’appel relatif à cette année d’imposition, car un avis d’opposition pour ladite année d’imposition n’a pas été présenté à la ministre. L’appel est donc annulé.
+[118] Sans frais.
+B. M. Levert [119] L’appel de M. Levert est accueilli, c’est-à-dire que M. Levert n’avait pas à inclure à titre d’avantages conférés à un contribuable un montant de 18 660 $ pour l’année d’imposition 2006 et un montant de 6 000 $ pour l’année d’imposition 2009. Les pénalités imposées en vertu du paragraphe 163(2) doivent être recalculées à cet égard.
+[120] À tous autres égards, les nouvelles cotisations quant aux années d’imposition 2006, 2007, 2008 et 2009 précédemment établies demeurent inchangées.
+[121] Sans frais.
+Signé à Ottawa, Canada, ce 10e jour d’octobre 2017.
+« Johanne D’Auray »
+Juge D’Auray
+RÉFÉRENCE :
+2017 CCI 208
+Nº DU DOSSIER DE LA COUR :
+2014-2822(IT)I
+2014-2840(IT)I
+INTITULÉ DE LA CAUSE :
+MARC LEVERT c SA MAJESTÉ LA REINE
+9109-1165 QUÉBEC INC. c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+Le 9 décembre 2015 et le 24 novembre 2016
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 10 octobre 2017
+COMPARUTIONS :
+Pour les appelants :
+Marc Levert
+Avocate de l’intimée :
+Me Anne Poirier
+AVOCAT INSCRIT AU DOSSIER :
+Pour :
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] College Park Motor Products Ltd. c La Reine, 2009 CCI 409.
+[2] Voir la pièce I-1.
+[3] Voir la pièce A-3.
+[4] Voir la pièce I-7.
+[5] Voir les pièces A-3 et I-7.
+[6] Voir les pièces A-3 et A-9.
+[7] Walsh c La Reine, 2007 CAF 222.
+[8] La Reine c Anchor Pointe Energy Ltd., 2003 CAF 294, 2004 CarswellNat 3104.
+[9] 1999 CarswellNat 4042, [1999] ACI no 661 (QL), confirmée par Chan c La Reine, 2001 CAF 302.
+[10] Précitée, note 9 ci-dessus.
+[11] Voir la pièce A-5.
+[12] Voir la pièce A-6.
+[13] Voir la pièce I-25.
+[14] Voir la pièce A-10.
+[15] Voir la pièce I-12.
+[16] Voir la pièce I-12, page 4000/5.
+[17] Voir la pièce I-17.
+[18] De Gennaro c La Reine, 2016 CCI 108.
+[19] Venne c Canada (ministre du Revenu national – MRN), [1984] ACF no 314 (QL), 84 DTC 6247 (angl.).

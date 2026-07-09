@@ -1,0 +1,166 @@
+Title: Masson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/62743/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-277-62743-masson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-09-11
+
+# Masson v. The Queen
+
+- Citation: 2013 TCC 277
+- Decision date: 2013-09-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6124, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Masson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-09-11
+Neutral citation
+2013 TCC 277
+File numbers
+2011-472(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-472(IT)I
+BETWEEN:
+CLAUDE MASSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+CHANTAL BOUTHILLIER,
+Added party.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on June 5, 2013, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Chantal Roberge
+Julien Wohlhuter (student-at-law)
+For the added party:
+No one appeared
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made by the Minister of National Revenue under the Income Tax Act, dated December 14, 2010, in respect of the 2007 taxation year and September 17, 2009, in respect of the 2008 taxation year are dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of September 2013.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 29th day of October 2013
+Margarita Gorbounova, Translator
+Citation: 2013 TCC 277
+Date: 20130911
+Docket: 2011-472(IT)I
+BETWEEN:
+CLAUDE MASSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+CHANTAL BOUTHILLIER,
+Added party.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] These are appeals under the informal procedure from reassessments made by the Minister of National Revenue (the Minister) under the Income Tax Act, R.S.C. 1985 (5th Supp.), c. 1, as amended (the Act), dated December 14, 2010, for the 2007 taxation year and dated September 17, 2009, for the 2008 taxation year.
+[2] Under a Court order dated April 17, 2012, issued under paragraph 174(3)(b) of the Act, Chantal Bouthillier was joined to Claude Masson’s appeals from the above‑mentioned reassessments. At the beginning of the hearing, the parties agreed that the appeals be heard despite the added party’s absence.
+[3] The issues are as follows:
+(a) May Claude Masson deduct, in computing his income for the 2007 and 2008 taxation years, the following amounts paid to Chantal Bouthillier during each of those taxation years as child support:
+2007: $4,812
+2008: $4,440
+(b) Must Chantal Bouthillier include in computing her income for the 2007 and 2008 taxation years the following amounts received from Claude Masson during each of those taxation years as child support:
+2007: $4,812
+2008: $4,440
+[4] In making the reassessment dated December 14, 2010, for the 2007 taxation year and in making and confirming the reassessment for the 2008 taxation year, the Minister based himself on the following findings and assumptions of fact, stated at paragraph 8 of the Reply to the Notice of Appeal:
+(a) The appellant and Chantal Bouthillier, his former common-law spouse, separated on January 1, 1997; (admitted)
+(b) Child J was born of their union in 1996; (admitted)
+(c) Since their separation, the appellant has been paying to his former spouse a support amount of $340 per month, which is equivalent to $4,080 per year; (admitted)
+(d) A motion for custody of a child and for support was filed with the Quebec Superior Court in or around April 1997 and was served on the appellant on May 7, 1997; (admitted)
+(e) On July 17, 1997, a judgment was rendered by the Superior Court ratifying the consent on corollary relief concluded between the parties. The judgment recognized that, since January 1997, the appellant had always paid a support amount of $340 per month and confirmed that, starting on June 1, 1997, the appellant would pay to his former spouse a support amount of $340 per month; (admitted)
+(f) In August 2003, the parties reciprocally applied for motions before the Court in order to amend the judgment rendered on July 17, 1997, regarding custody, access rights and support; (denied for support)
+(g) Given the lengthening of the child custody periods, the appellant was informed by his counsel, on August 15, 2003, that he may be justified in requesting a reduction of the support amount to $4,019.30 per year; (admitted)
+(h) He was also informed that unless he stated otherwise, the support amount would be kept the same; (admitted)
+(i) On August 20 and 26, 2003, the parties and their respective counsel signed a consent to judgment, which stated that the child support paid by the appellant to his former spouse would be $4,019.30 per year, payable in accordance with the Act to Facilitate the Payment of Support, in two instalments on the 1st and 15th of each month, starting on September 1, 2003; (admitted)
+[5] Under the judgment rendered by the Superior Court of Québec dated July 17, 1997, the support amount payable to Chantal Bouthillier had to be indexed based on the Consumer Price Index for Montréal (Montréal CPI) in January of the following year based on the average of the preceding twelve 12 months.
+[6] Under the consent to judgment ratified by the Superior Court of Québec on August 28, 2003, the support amount that the appellant had to pay to his former spouse was established at $4,019.30 per year starting on September 1, 2003, and the support amount had to be indexed in accordance with the Act (Civil Code of Québec) on January 1 of each year.
+[7] It has been put in evidence that Ms. Bouthillier did not originally report in her income for the 2007 and 2008 taxation years the support amounts paid to her by her former spouse, but, on November 24, 2011, she filed a request for adjustment of her T-1 for each of those years by adding at line 156 of her income tax returns an amount of $4,812 for 2007 and of $4,740 for 2008. The taxable part of the support amounts was not specified.
+[8] The appellant put in evidence all of the letters and documents from his counsel, Edith Provost, relating to his conjugal file.
+[9] In a letter addressed to counsel for Ms. Bouthillier, Yves Barron, dated November 15, 2002, Ms. Provost proposed that the support amount previously established be kept as is and continue to be subject to taxation.
+[10] In another letter dated August 15, 2003, addressed to the appellant, Ms. Provost stated the following at page 4 of her letter filed as Exhibit A-3:
+[Translation]
+We have noted your wish to keep unchanged the previous support amount given that your only objective is an increased presence and protection for your daughter and Ms. Bouthillier’s promise to abstain in her presence.
+[11] In a motion to the Superior Court of Québec dated July 1, 2008, the following was alleged:
+[Translation]
+14. The respondent, however, agreed to shared custody starting in 2003, only on the condition that the support and tax benefits would be maintained, as shown more fully by the undertaking made in support of this motion filed as Exhibit P-4;
+[12] In a letter to an unknown recipient dated October 23, 2009, Ms. Provost provided the following information:
+[Translation]
+Thus, our client, concerned with obtaining additional custody days for his child J, agreed to make no changes to the previous support amount despite the extension of the time he has custody of his daughter.
+[13] In another letter without a recipient dated December 6, 2010, Ms. Provost indicated that she had received from the other party a draft consent stating a support amount of $4,019.30, which she presumed was identical to the previous support amount paid. Below are some excerpts from pages 2 and 3:
+[Translation]
+Therefore, it was by mistake that the undersigned then specified that there was no issue of re-specifying the current support amount because it was the same amount, without making an in-depth verification.
+Indeed, it would have been more appropriate to specify that the support amount established in the previous agreement was kept the same without specifying the amount and running the risk of a clerical error.
+Unfortunately, a clerical error was made in transcribing the previous support amount in that the support amount of $4,019.30 per year indicated in the consent should rather have been $4,571.66.
+Parties’ submissions
+[14] The appellant alleges that he always intended to continue paying the support set out in the agreement dated July 1997, and that, in reality, in the last few years, he always paid Ms. Bouthillier higher support amounts than those he had to pay under the August 2003 agreement.
+[15] Ms. Bouthillier’s position is that there is an agreement modifying the support amount after April 30, 1997, which made the appellant lose the benefit of deductibility of support payments.
+Analysis and conclusion
+[16] The tax treatment of a child support amount depends on the date on which the agreement between parties was concluded or on the date on which an order by a court having jurisdiction in these matters was made. This concept was brought into the Act by the definition of “commencement day” found at subsection 56.1(4), which reads as follows:
+(4) The definitions in this subsection apply in this section and section 56.
+“commencement day” at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+[17] The Act is very clear. If an agreement or order made before May 1997 is varied after April 1997 to change the child support amount payable to the recipient, the commencement date of the agreement or order is that on which the first payment of the varied amount is to be paid.
+[18] Without taking into account the indexing factor, the support amount paid in 1997 changed from $4,080 per year to $4,019.30 in 2003. Taking into account the indexing factor, the support amount should have been $4,608.08 according to the Montréal CPI and $4,571.66 according to the Civil Code of Québec. Therefore, there was a substantial reduction of the support amount attributable to the increase in custody time with the child’s father.
+[19] Based on the evidence, not only was the support amount reduced, but there was also a variation with regard to the indexing conditions and the way in which the support was paid. Based on the 2003 order, the support amount must be indexed in accordance with the Act, on January 1 of each year, while under the 1997 order, the support amount must be indexed under the Montréal CPI in January of the following year based on the average of the preceding twelve (12) months. Regarding the way in which the support was paid, the 1997 order provided for the payment of support payable on the first day of each month, while the 2003 order provided for the payment of a support amount of $4,019.30 per year, payable in accordance with the Act to Facilitate the Payment of Support by way of two instalments on the 1st and 15th of each month. It should be mentioned here that the parties agreed that the father be exempted from having to pay the support directly to the Ministère du revenu du Québec for the child’s benefit in accordance with section 3 of the Act to Facilitate the Payment of Support on the condition of his undertaking to provide the security required by the Ministère du revenu du Québec to guarantee the payment of support.
+[20] The appellant’s main claim is based on the fact that his former spouse and he did not intend to vary the support amount payable under the 1997 agreement and he referred to his counsel’s letters to confirm the parties’ intention.
+[21] Counsel for the respondent referred to Friedberg v. Canada, (F.C.A.) [1991] F.C.J. No. 1255, to establish the principle that “evidence of subjective intention cannot be used to ‘correct’ documents which clearly point in a particular direction”. According to them, the letters from the appellant’s counsel have no probative value because the author of these letters could not be cross-examined and because Ms. Bouthillier was not party to these letters, some of which were drafted on the appellant’s request as part of his dispute with the Canada Revenue Agency more than seven (7) years after the events that took place in 2003.
+[22] Regardless of the parties’ intention at the time of the 2003 order, the evidence does not show that the amounts paid by the appellant as support for 2007 and 2008 correspond to the amount payable under the April 5, 1997 agreement. Even though the appellant always paid more than the amount of $4,019.30 per year starting on September 1, 2003, this does not confer on him the benefit of deductibility of the support payments if the eligibility criteria set out in the Act are no longer met.
+[23] I cannot agree with the appellant’s position that the reduction of the support amount starting on September 1, 2003, was moot and fictitious and out of step with reality.
+[24] At the hearing, the Court was informed that Judge Georges Massol of the Court of Québec rendered a decision on May 29, 2012, in which he dismissed Claude Masson’s appeal concerning the deductibility, for the purposes of the Quebec Taxation Act, of support payments paid to Ms. Bouthillier during the 2005, 2006, 2007 and 2008 taxation years.
+[25] For these reasons the appellant’s appeals are dismissed.
+Signed at Ottawa, Canada, this 11th day of September 2013.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 29th day of October 2013
+Margarita Gorbounova, Translator
+CITATION: 2013 TCC 277
+COURT FILE No.: 2011-472(IT)I
+STYLE OF CAUSE: Claude Masson and Her Majesty the Queen and Chantal Bouthillier
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: June 5, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: September 11, 2013
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Chantal Roberge
+Julien Wohlhuter (student-at-law)
+For the added party:
+No one appeared
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,109 @@
+Title: Palmer v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27425/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-684-27425-palmer-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-12-13
+
+# Palmer v. The Queen
+
+- Citation: 2006 CCI 684
+- Decision date: 2006-12-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 247, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Palmer v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-13
+Référence neutre
+2006 CCI 684
+Numéro de dossier
+2005-239(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-239(IT)G
+ENTRE :
+CHRISTOPHER PALMER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels devant être entendus le 21 novembre 2006,
+à Charlottetown (Île‑du‑Prince‑Édouard)
+Devant : l'honorable juge E.A. Bowie
+Comparutions :
+Pour l'appelant :
+Personne n'a comparu
+Avocat de l'intimée :
+Me Marcel Prévost
+____________________________________________________________________
+ORDONNANCE
+Ces appels devant être entendus le 21 novembre 2006 et l'appelant n'ayant pas comparu devant la Cour ce jour‑là;
+Les arguments de l'avocat de l'intimée ayant été entendus et les observations écrites de l'appelant, en date du 21 novembre 2006, ayant été lues ainsi que les observations écrites, en date du 4 décembre 2006, que l'avocat de l'intimée a présentées en réponse;
+LA COUR ORDONNE PAR LES PRÉSENTES :
+1. L'audition des appels est ajournée, la date de l'audience devant être fixée d'une façon péremptoire par le greffe;
+2. L'adjudication des frais inutilement engagés par suite de la non‑comparution de l'appelant, le 21 novembre 2006, est laissée à l'appréciation du juge qui présidera l'instruction.
+Signé à Ottawa, Canada, ce 13e jour de décembre 2006.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 8e jour de juin 2007.
+Maurice Audet, réviseur
+Référence : 2006CCI684
+Date : 20061213
+Dossier : 2005-239(IT)G
+ENTRE :
+CHRISTOPHER PALMER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Bowie
+[1] Dans ces appels, interjetés sous le régime de la procédure générale en vertu de la Loi de l'impôt sur le revenu, l'appelant agit pour son propre compte. Par une ordonnance de l'administrateur judiciaire datée du 20 juillet 2006, il a été informé que les appels seraient entendus au palais de justice Sir Louis Henry Davies, 42, rue Water, Charlottetown, le 21 novembre 2006, à 9 h 30. Le 24 août 2006, le coordonnateur des audiences a écrit à l'appelant pour l'informer que l'audience ne serait pas tenue au palais de justice Sir Louis Henry Davies, mais qu'elle aurait plutôt lieu à l'hôtel Delta Prince Edward, au 18 de la rue Queen, à Charlottetown. L'appelant ne s'est pas présenté à la salle d'audience, à l'hôtel Delta, ce matin‑là, à 9 h 30. La séance a été suspendue jusqu'à 10 h 16; pendant ce temps, le greffier a tenté de joindre l'appelant chez lui par téléphone et il a également téléphoné au palais de justice pour demander si l'appelant s'y était rendu. Les efforts faits en vue de trouver l'appelant ayant échoué et l'avocat de l'intimée ayant demandé qu'un jugement soit rendu, j'ai annoncé que les appels seraient rejetés pour défaut de poursuite, avec dépens. Ce jugement n'a pas encore été rendu ni enregistré, et ce, pour les motifs énoncés ci‑après.
+[2] Plus tard, ce jour‑là, une lettre de l'appelant m'a été remise à l'hôtel Delta. L'appelant déclarait qu'il s'était rendu au palais de justice, qu'il y était arrivé en retard et qu'on lui avait dit que l'audience avait lieu à l'hôtel Delta. L'appelant déclarait s'être rendu à l'hôtel Delta et avoir attendu une heure avant d'être informé que [traduction] « tout le monde était parti ».
+[3] L'avocat de l'intimée a été invité à présenter des observations au sujet de la lettre de l'appelant. Selon lui, [traduction] « [...] [l']ordonnance ne devait pas être annulée ». À l'appui de cette prétention, l'avocat a fait valoir que [traduction] « [...] conformément au paragraphe 18.21(3) de la Loi sur la Cour canadienne de l'impôt, [l']appelant n'a pas présenté de demande démontrant que, compte tenu de toutes les circonstances, il n'était pas raisonnable de s'attendre à ce qu'il soit présent à l'audition, le 21 novembre 2006, à 9 h 30 ». Cette disposition de la Loi sur la Cour canadienne de l'impôt s'applique uniquement aux appels régis par la procédure informelle et n'entre donc pas en ligne de compte en l'espèce. La disposition applicable figure à l'article 140 des Règles de procédure générale :
+140(1) Si à l'audience, une partie omet de comparaître, la Cour peut accueillir l'appel, rejeter l'appel ou donner une directive appropriée.
+140(2) Pourvu que la demande soit faite dans les trente jours qui suivent le prononcé du jugement ou de l'ordonnance, la Cour peut infirmer ou modifier, aux conditions qui sont appropriées, un jugement ou une ordonnance obtenu contre une partie qui n'a pas comparu à l'audience, à l'audience sur l'état de l'instance ou à la conférence préparatoire à l'audience.
+Étant donné que le jugement n'a pas encore été rendu ni enregistré, il n'est pas nécessaire de recourir au paragraphe 140(2) des Règles. Je demeure saisi de l'affaire : voir A. Chadwick Estate v. Canada[1] et les décisions qui y sont citées.
+[4] Je me rends bien compte que le récit des faits figurant dans la lettre de l'appelant n'est pas fait sous serment et qu'il n'a pas donné lieu à un contre‑interrogatoire. Néanmoins, eu égard aux circonstances de l'affaire dans leur ensemble et compte tenu en particulier du changement de lieu de l'audience, dont l'appelant a été informé par lettre, je suis d'avis que l'intérêt de la justice et les objectifs du paragraphe 4(1) des Règles exigent qu'une ordonnance ajournant l'audition des appels soit rendue, la date de l'audience devant être fixée d'une façon péremptoire par le greffe, sur consultation des parties. Le juge qui présidera l'instruction sera mieux placé que moi pour traiter de la question des frais inutilement engagés par suite de la non‑comparution de l'appelant le 21 novembre 2006.
+Signé à Ottawa, Canada, ce 13e jour de décembre 2006.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 8e jour de juin 2007.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2006CCI684
+No DU DOSSIER DE LA COUR : 2005-239(IT)G
+INTITULÉ : CHRISTOPHER PALMER
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Charlottetown (Île‑du‑Prince‑Édouard)
+DATE DE L’AUDIENCE : Le 21 novembre 2006
+MOTIFS DE L'ORDONNANCE : L’honorable juge E.A. Bowie
+DATE DE L'ORDONNANCE : Le 13 décembre 2006
+COMPARUTIONS :
+Pour l'appelant :
+Personne n'a comparu
+Avocat de l’intimée :
+Me Marcel Prévost
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : S/O
+Cabinet : S/O
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1994] 1 C.T.C. 2628, pages 2628 et 2629.

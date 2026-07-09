@@ -1,0 +1,137 @@
+---
+title: "Anderson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26212/index.do"
+last_modified: "2003-03-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 180"
+citation2: ""
+neutral_citation: "2003 CCI 180"
+decision_date: "2003-03-31"
+language: "fr"
+item_id: "26212"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3943
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:22:09.256000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6bddb9c717dfecd5de95ceabefc02710083d838af444b76fc4eb5d55934512d0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Anderson v. The Queen
+
+- Citation: 2003 CCI 180
+- Decision date: 2003-03-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3943, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Anderson v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-31
+Référence neutre
+2003 CCI 180
+Numéro de dossier
+2002-2203(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-2203(IT)I
+ENTRE :
+DEBORAH ANDERSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 3 mars 2003, à Edmonton (Alberta)
+Devant: l'honorable juge L. M. Little
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Mark Heseltine
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté sans frais, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), le 31 mars 2003.
+« L. M. Little »
+J.C.C.I
+Traduction certifiée conforme
+ce 10e jour de février 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI180
+Date: 20030331
+Dossier: 2002-2203(IT)I
+ENTRE :
+DEBORAH ANDERSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Little, C.C.I.
+A. FAITS :
+[1] L'appelante a divorcé de William Aldridge (l' « ancien conjoint » ).
+[2] Trois enfants sont issus du mariage de l'appelante et de l'ancien conjoint : Jodi, Robert et Neil.
+[3] Conformément à une ordonnance de la Cour datée du 21 décembre 1982, l'ancien conjoint devait verser à l'appelante le montant de 100,00 $ par mois par enfant, soit un total de 300,00 $ par mois ou 3 600,00 $ par année à compter du 1er janvier 1983.
+[4] En 1983, l'ancien conjoint a versé une pension alimentaire de 3 450,00 $ à l'appelante. L'ancien conjoint n'a versé aucune autre pension à l'appelante de 1983 à 1999.
+[5] La mère de l'ancien conjoint, Dorys Aldridge, est décédée en 1998-1999. L'ancien conjoint a reçu un héritage de sa mère.
+[6] L'appelante a entamé une procédure de saisie à la Cour du Banc de la Reine de l'Alberta contre la succession de Dorys Aldridge afin de récupérer les montants de pension alimentaire qui lui étaient dus par l'ancien conjoint pour les années 1983 et suivantes.
+[7] En 1999, l'appelante a reçu un montant de 51 500,00 $ de la succession de Dorys Aldridge pour couvrir les versements précédents de pension alimentaire qui lui étaient dus par l'ancien conjoint de 1983 à 1999, plus intérêts. Le montant de 51 500,00 $ est ventilé comme suit :
+Pension alimentaire payable et en souffrance 48 050,00 $
+Intérêts 2 401,00
+Plus brefs afférents plus coûts probables 1 000,00
+Total 51 451,00 $
+(arrondi à 51 500,00 $)
+[8] Au moment de produire sa T1 générale, déclaration générale de revenus pour l'année d'imposition 2000, l'appelante a avisé les fonctionnaires de l'Agence des douanes et du revenu du Canada (l' « ADRC » ) qu'elle avait reçu un montant forfaitaire couvrant les montants de pension alimentaire qui lui étaient dus. L'appelante a demandé à Revenu Canada (l'ancien nom de l'ADRC) d'établir une nouvelle cotisation relativement à ses impôts de 1993 à 1999 selon la ventilation annexée à la demande indiquant les versements de pension reçus par elle pour chaque année au lieu d'assujettir le montant entier de 51 451,00 $ à l'impôt pour l'année d'imposition 2000.
+[9] Par note de service de l'ADRC datée du 23 juillet 2001, le ministre du Revenu national (le « ministre » ) a expliqué qu'à l'égard d'un paiement forfaitaire rétroactif admissible ( « PFRA » ), l'ADRC retranche de l'impôt payable pour l'année la part du versement qui a trait aux années d'imposition admissibles pour lesquelles les déclarations de revenus ont été produites. La note du ministre explique que ce calcul spécial est utilisé s'il est à l'avantage du contribuable. L'énoncé suivant figure à la note :
+[TRADUCTION]
+Le tableau ci-joint montre les détails de notre calcul. Puisque le montant d'impôt fédéral de base selon le calcul ordinaire (ligne B) est inférieur au montant établi à l'aide du calcul spécial (ligne A), le calcul spécial pour le PFRA n'est pas à votre avantage. Par conséquent, nous avons établi votre cotisation de la manière habituelle.
+L'impôt fédéral déterminé en fonction de la méthode ordinaire était de 11 344,83 $. L'impôt fédéral déterminé à l'aide de la méthode spéciale pour le PFRA était de 15 557,30 $.
+B. QUESTION EN LITIGE
+[10] Il s'agit de savoir si le ministre a correctement déterminé l'impôt applicable au versement forfaitaire reçu par l'appelante.
+C. ANALYSE
+[11] Les articles 110.2 et 120.31 de la Loi de l'impôt sur le revenu (la « Loi » ) ont été adoptés pour permettre à un particulier tel que l'appelante, qui a reçu un paiement forfaitaire rétroactif admissible, de bénéficier d'un calcul d'imposition spécial.
+[12] Dans la situation en l'espèce, le ministre a appliqué les dispositions des articles 110.2 et 120.31 et a déterminé que l'application de ces dispositions produirait pour l'appelante un montant d'impôt payable supérieur à celui qui s'appliquerait si le principal était inclus dans le revenu pour l'année d'imposition 2000.
+[13] L'appelante plaide qu'elle est pénalisée puisque l'ADRC a inclus un impôt « théorique » dans ses calculs.
+[14] Conformément à l'article 110.2, le montant principal peut être déduit du revenu de l'appelante pour l'année d'imposition 2000. L'article 120.31 de la Loi prévoit qu'un montant est ajouté à l'impôt payable égal au montant éventuel par lequel l'impôt théorique ou hypothétique payable excède l'impôt payable en vertu de la partie 1. L'impôt théorique ou hypothétique payable correspond au total des deux éléments suivants :
+1. l'impôt en sus qui aurait pu être imposé pour chaque année précédente pertinente si une partie déterminée avait été ajoutée au revenu imposable (N.B. - dans cette situation, le montant de 3 600,00 $ (c'est-à-dire 12 x 300,00 $ par mois = 3 600,00 $) a été ajouté au revenu de l'appelante pour chaque année à compter de 1984 jusqu'en 1998, moins une réduction pour les enfants qui avaient atteint l'âge de 18 ans;
+PLUS
+2. les intérêts pour tenir compte de l'impôt qui n'a pas été versé par l'appelante pendant les années en question.
+[15] L'impôt calculé à l'aide du « calcul spécial » était de 15 440,45 $. L'impôt calculé à l'aide du calcul ordinaire de l'impôt était de 11 344,83 $.
+[16] J'ai examiné la situation en détail, et je ne puis déceler d'erreur dans les calculs effectués par les fonctionnaires de l'ADRC. Autrement dit, le « calcul spécial » prévu par les articles 110.2 et 120.31 de la Loi ne confère à l'appelante aucun allègement ni aucune économie.
+[17] Il m'incombe d'interpréter la loi. Je n'ai pas le pouvoir de la modifier. L'appelante a fait preuve d'honnêteté et de franchise quand elle a avisé l'ADRC du montant forfaitaire qu'elle avait reçu. Cela est louable. Toutefois, je ne puis affirmer qu'elle a été pénalisée pour son honnêteté. Elle faisait ce que la loi exige qu'elle fasse, c'est-à-dire, déclarer ce genre de revenu. Si elle ne l'avait pas fait, elle aurait pu être pénalisée pour cette omission.
+[18] Par lettre datée du 19 septembre 2001, l'appelante a été avisée par Mona Berry, de l'ADRC, que la Loi de l'impôt sur le revenu permet la déduction des frais juridiques engagés pour obtenir ce règlement. D'après le dossier de la Cour, je ne puis confirmer si l'appelante a été autorisée à déduire les frais juridiques engagés par elle pour obtenir ce règlement.
+[19] L'appel est rejeté sans frais.
+Signé à Vancouver (Colombie-Britannique), le 31 mars 2003.
+« L. M. Little »
+J.C.C.I.
+Traduction certifiée conforme
+ce 10e jour de février 2005.
+Sophie Debbané, réviseure

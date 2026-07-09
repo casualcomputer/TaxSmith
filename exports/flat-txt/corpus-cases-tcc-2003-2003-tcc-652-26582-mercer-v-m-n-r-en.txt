@@ -1,0 +1,213 @@
+Title: Mercer v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26582/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-652-26582-mercer-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-09-22
+
+# Mercer v. M.N.R.
+
+- Citation: 2003 TCC 652
+- Decision date: 2003-09-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3539, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mercer v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-22
+Neutral citation
+2003 TCC 652
+File numbers
+2003-374(EI)
+Judges and Taxing Officers
+Murray F. Cain
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-374(EI)
+BETWEEN:
+SHELLY MERCER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 27, 2003 at St. John's, Newfoundland
+Before: The Honourable M.F. Cain, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Thomas Johnson
+Counsel for the Respondent:
+Susan McKinney
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Rothesay, New Brunswick, this 22nd day of September 2003.
+"M.F. Cain"
+Cain, D.J.
+Citation: 2003TCC652
+Date: 20030922
+Docket: 2003-374(EI)
+BETWEEN:
+SHELLY MERCER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Cain, D.J.
+[1] The Appellant Shelly Mercer (the "Worker") appeals the decision of the Respondent, dated January 17, 2003, that she was employed by John Griffin (the "Payor") by a contract of service from May 13, 2001 to June 9, 2001 and from June 7, 2001 to June 27, 2001 (the "periods in question") but that she was not engaged in insurable employment as she and the Payor were not dealing with each other at arm's length pursuant to paragraph 5(2)(i) of the Employment Insurance Act (the Act").
+[2] The appeal was heard at St. John's, Newfoundland on May 27, 2003. At the conclusion of the hearing the Court reserved judgment.
+[3] The Respondent based his decision on the following assumptions of fact:
+a) the Payor is the Appellant's spouse;
+b) the Payor owns a 34-foot long liner and a 21-foot speed boat which he uses to fish for lobster, lump fish, flounder and cod;
+c) the Appellant's duties were to pick out the fish from the nets, wash the pans and put ice on the fish;
+d) the Appellant did not have a species fishing licence;
+e) the Appellant had an apprentice licence;
+f) the Appellant co-singed a loan with the Payor in respect of the long liner;
+g) the Appellant did not own the boat and gear;
+h) the Appellant did not share in the fishing expenses and did not assume a risk of loss;
+i) the Appellant had no control over any of the fishing activities;
+j) the Appellant was employed by the Payor pursuant to a contract of service;
+k) the Payor sold lobster and lumpfish to H. Hopkins Ltd. and sold codfish to Woodman's Sea Products Ltd.;
+l) for the periods in question the Appellant received a record of employment ("ROE") from H. Hopkins Ltd. reporting the Appellant's earnings as follows:
+Fishing trips Share of earnings
+May 13 to May 19, 2001 $1,705.77 90%
+May 20 to May 26, 2001 $ 761.31 90%
+May 27 to June 2, 2001 $ 308.79 90%
+June 3 to June 9, 2001 $ 299.52 90%
+m) for the periods in question the Appellant also received an ROE from Woodman's Sea Products Ltd. reporting the Appellant's earnings as follows:
+Fishing trips Share of earnings
+June 7 to June 9, 2001 $ 721.37 90%
+June 11 to June 16, 2001 $3,579.04 80%
+June 17 to June 23, 2001 $2,882.70 80%
+June 25 to June 27, 2001 $ 392.53 20%
+n) the Appellant decided in which fishing trips she would participate;
+o) the Payor reported a fishing loss of $12,040;
+p) the Appellant's share of the catches as reported was excessive for the duties performed;
+q) the Appellant is related to the Payor within the meaning of the Income Tax Act;
+r) the Appellant was not dealing with the Payor at arm's length;
+s) having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is not reasonable to conclude that the Appellant and the Payor would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[4] The Appellant admitted only assumptions a), d) to f) inclusive, l) to n) inclusive, and q).
+[5] The Court makes the following finding of fact.
+[6] The Worker and the Payor are common-law spouses. On or about May 13, 2001, as self-employed fishers, they entered into an agreement to fish for various species, which agreement was in effect during the periods in question.
+[7] In a Letter Of Offer dated October 12, 2000 (Exhibit A-1) the Avalon West Community Business Development Corporation loaned to the Payor and Worker $50,000 to be used for the construction and purchase of a 34'11" fishing vessel (the "long liner") and they executed a Guarantee And Postponement Of Claim agreement to the Corporation jointly and severally agreeing to repay the loan. The long liner was subsequently constructed and delivered to the parties. The evidence establishes that the long liner was owned jointly by the Appellant and the Payor notwithstanding that the Payor stated that he owned the boat (see Exhibit R-4 sixth question from the top).
+[8] The Appellant had an apprentice licence but not a species fishing licence. 99% of the duties of the Payor and the Worker while fishing were the same. The Worker described her duties as follows:
+1. Preparation of lunch, gathering bait, putting ice in boat and procuring fuel if needed;
+2. When fishing cod, cleaning and icing the fish;
+3. When fishing lobster, cutting up the bait;
+4. When fishing lump roe, emptying the spawn and icing it (See Exhibit R-3, last questions pages 2 and 3).
+[9] The Payor and the Worker embarked on fishing trips from May 13, 2001 to June 9, 2001, both dates inclusive, being part of the periods in question. The several catches were sold to H. Hopkins Ltd. of Arnold's Cove Newfoundland/Labrador.
+[10] The Record of Employment issued by that Company to the Worker and the support documents attached thereto provide the following information (see Exhibit R-1). The value of the several catches was $3,391.43. For $2,571.43 of those earnings the Worker received credit for 90% thereof. For the balance of $820 the Worker received 100%. The total insurable earnings of the Worker were reported at $3,075.39. From this amount $849.79 representing expenses and advances associated with the several catches and due H. Hopkins Ltd. were deducted from the Worker's payments and credited to an account of the Payor. The sum of $500 that had been advanced to the Payor prior to the commencement of this fishery was deducted from the Worker's share. In addition, $69.20 for employment insurance premiums and $52.00 for union dues were deducted from the Worker's share. In summary the Worker received in hand a total of $1,504.44 being total insurable earnings of $3,075.39 less expenses, advances, employment insurance premiums and union dues. The Payor received $257.12.
+[11] No Record of Employment was submitted in evidence for the fishery conducted from June 7 to June 9, 2001, June 11 to June 23, 2001 inclusive and from June 25 to June 27, 2001. However, from the information contained in subparagraph 8 m) of the Reply to the Notice of Appeal, which the Worker admitted, the Court has calculated that the total value of the several catches was $10,801.15. The total insurable earnings of the Worker were $7,585.64. Apparently no expenses were incurred or advances made by the buyer Woodsman's Sea Products Ltd. since all of the equipment used by the Payor and the Worker were owned by them and they shared the cost of the fuel, the amount of which was not disclosed by the evidence.
+[12] The total insurable earnings of the Worker for the periods in question were $10,661.03 less the amount of gas paid for by the Worker which was not disclosed in the evidence.
+DECISION
+[13] During the hearing, the Court raised the question of whether the employment of the Worker was excluded employment under the Act, since the arrangement made by the Worker and the Payor to split the share of the catch unevenly, without consideration of the actual work performed, created a non-arm's length relationship. The Court referred the parties to paragraph 5(2)(i) of the Act and section 2 of the Fishing Regulations. Following the hearing the Court requested and received submissions from the parties on this issue.
+[14] Non-arm's length relationships are ones in which there are the existence of a common mind which directs the bargaining for both parties to the transaction or that the parties to the transaction are acting in concert without separate interests or that either party to a transaction did or had the power to influence or exert control over the other and that the dealings of the parties are not consistent with the object and spirit of the provisions of the law and they do not demonstrate a fair participation in the ordinary operation of the economic forces of the market place. (See Attorney General of Canada v. Rousselle et al., 124 N.R. 339.)
+[15] Paragraph 5(2)(i) of the Act reads as follows:
+(2) Excluded employment - insurable employment does not include
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+[16] Section 153 of the Act reads as follows:
+153.(1) Regulations - Notwithstanding anything in this Act, the Commission may, with the approval of the Governor in Council, make such regulations as it deems necessary respecting the establishment and operation of a scheme of employment insurance for self-employed persons engaged in fishing, including regulations
+(a) including as a self-employed person engaged in fishing any person engaged in an activity or occupation related to or incidental to fishing; and
+(b) including as an employer of a self-employed person engaged in fishing any person with whom the self-employed person enters into a contractual or other commercial relationship in respect of their occupation as a self-employed person engaged in fishing.
+(2) Scheme may be different - The scheme established by the regulations may, with respect to any matter, be different from the provisions of this Act relating to that matter.
+[17] Section 2 of the Regulations reads as follows:
+General - A person who is a fisher shall be included as an insured person and, subject to these Regulations, the Act and any regulations made under the Act apply to that person with such modifications as the circumstances require.
+[18] If the application of section 2 of the Fishing Regulations permits one to modify paragraph 5(2)(i) of the Act by substituting the words "self-employed persons engaged in fishing" for the words "employer and employee", then the employment would not be insurable.
+[19] The evidence of the Worker was that 99% of the duties of she and the Payor were the same. Presumably the 1% would involve the occasional heavy lifting which a man would do. That being the case, the Worker's share of the catches was well in excess with what two self-employed persons operating at arm's length would have bargained for. And the Worker was candid about how the share arrangement was arrived at. They agreed to split the catch on an unequal basis without consideration of the actual work involved performed by each. No explanation was given why such an allocation was made or that while the Worker and the Payor fished together the latter claimed an unequal portion of the catch. Had the Worker actually done work equal to the claimed portion of the catch, then that share of the catch would have been insurable earnings, provided evidence was led to support that fact.
+[20] Had the Payor and the Worker been in such a relationship governed by the Employment Insurance Act, other than for fishers, and the facts and terms of the remuneration were the same, that relationship would have been adjudged to be either a contract of service but one of non-arm's length or a contract for services. In either case the employment would not have been insurable.
+[21] Using the formula set out in the Act and Regulations, the Worker earned $10,661.03 during her qualifying period. Assuming the unemployment rate to be in excess of 13.1% in the area of Newfoundland/Labrador where the Worker fished, the divisor would be 14 giving her weekly insurable earnings of $761.50. Her benefit rate would be $761.50 X 55%=$418.82. She would receive the maximum benefit of $413.
+[22] The Worker testified that her duties and the Payor's were 99% the same. That would dictate that they each contributed one half of the effort required to land the catch. Such a relationship would also dictate a 50/50 split of the expenses. Calculated roughly, the Worker would have received approximately 79% of the share of the catches and the Payor 21% during the periods in question. The catches total $14,192.58. The Worker's share at 50% would have been $7,096.29. Her share of the expenses and advances would have been 50% of $1,349.79 or $674.89. Her fishing earnings would have been $5,746.50.
+[23] Using the above formula, her weekly insurance earnings ($7,096.29 divided by 14) would have been $505.16 and her benefit (X 55%) $277.83. While the Worker testified that she and the Payor varied the allocation of the shares of the catches to give the Payor a larger percentage, no evidence was led to show that she actually fished at any other time, or if she did, what share allocations were made at those times.
+[24] While there may be some slight variables not taken into consideration in the above calculations, they at least show that the share agreement between the Payor and the Worker resulted in a substantial increase in employment insurance benefit. Since no explanation was offered for the unequal share distribution, one concludes that it was designed to obtain for the Worker, the maximum benefits under the Act in the shortest period of time.
+[25] The thrust of the submission of counsel for the Worker was as follows:
+...Second, Section 2 of the Regulations clearly gives paramountcy to the Fishing Regulations. It states, "subject to these Regulations". We would read that phrase as signalling a parliamentary intention that the Act and any regulations made under the Act cannot apply so as to "undo" the Fishing Regulations where they apply. In our view, this would be the result were this Court to hold that one cannot avail of an earnings based system where one's earnings for a particular period are greater (or less) than you would have received over that period had you been in an arm's length relationship with your business partner. These particular business partners would regularly alternate as to who took the greater percentage. It is quite noteworthy that S. 5 of the Fishing Regulations which specifically deals with the Determination of Earnings of a fisher provides a complete scheme for doing so. There is nothing to say that the share arrangement must be that which persons at arm's length would arrive at. Instead, Parliament has provided that whatever the share arrangement is, deductions must be made from the amount paid or payable to the fisher is accordance with subsections (2) and (3) for the purposes of determining the earnings. To impose an arm's length analysis in such a circumstance by applying S. 5(2)(i) of the Act and reading into it "self employed persons engaged in fishing" would negate the scheme for determining earnings under Section 5 of the Regulations. That, it is submitted, cannot be the proper legal result given the Act's application is expressly subject to the Fishing Regulations. Section 5(2)(i) is not applicable.
+[26] Counsel for the Worker further argues that to substitute the words "self-employed persons engaged in fishing" for the words "employer and employee" in paragraph 5(2)(i) of the Act by the application of section 2 of the Fishing Regulations is to radically alter section 5 of the Fishing Regulations and to stretch the meaning of the word "modifications" beyond that intended by Parliament. It would radically change the Determination of Earnings rules in section 5 of the Fishing Regulations. In addition he argues there is no mention of arm's length considerations in the Fishing Regulations.
+[27] The Respondent's position was that the Worker was not a self-employed person but an employee of the Payor under a contract of service and that the relationship was not one of arm's length and therefore the employment was not insurable. If the Court finds that the Payor and the Worker are self-employed persons, the Respondent submitted as follows:
+By virtue of section 2 of the Fishing Regulations, the EIA and any regulations made under the EIA apply to fishers with such modifications as the circumstances require. It is the Respondent's position that subsection 5(2) of the EIA applies to fishers. However, subsection 5(2) and any other provision of the EIA is modified for purposes of reviewing the employment of a fisher only to the extent required. The employer of a fisher is determined pursuant to section 3 of the Fishing Regulations. The Respondent submits that there is no requirement to redefine the term employer for purposes of subsection 5(2) to be anyone other than the employer as defined in section 3 of the Fishing Regulations.
+In the present case the Appellant's employer was the buyer. There is no indication that the Appellant was not at arm's length with the buyer. The Appellant's spouse and fishing partner was not her employer pursuant to section 3 of the Fishing Regulations. Consequently, subsection 5(2) of the EIA would not operate to exclude the Appellant's employment from insurable employment on the basis of the terms of her working relationship with her spouse.
+[28] The Fishing Regulations create several types of employers. In this case the employers were H. Hopkins Ltd. and Woodman's Sea Products Ltd. because the Payor and the Worker agreed to sell their catch to those Companies. If the parties had sold through an agent, then the agent would have been the employer.
+[29] The relationship of employer in this case as it relates to both the Payor and the Worker was a relationship created by statute and differs from the usual employment relationship. Under the Fishing Regulations, H. Hopkins Ltd. and Woodman's Sea Products Ltd. are the buyers of the catch. These Companies had nothing to do with the share arrangement agreed to by the Worker and the Payor and nothing in the Fishing Regulations gives them the power to question or vary the share arrangement. It appears obvious from a reading of section 3 of the Fishing Regulations, Determination of Employer, that the employer is the buyer of the catch, the collector of employment insurance premiums on behalf of the Commission, maintainer of records of the all transactions and ultimately the issuer of records of employment from which benefits are calculated. Presumably the Fishing Regulations were structured in this manner to ensure that an independent third party confirmed the value of the catch and thus the insurable earnings. Accordingly the employer mentioned in paragraph 5(2)(i) of the Act bears no resemblance to the employer contemplated by section 3 of the Fishing Regulations.
+[30] The key word is "modifications" in section 2 and what it means in the context of the Fishing Regulations and the Employment Insurance Act. But before dealing with that issue, it is important to review what the employment insurance scheme is and what it is not.
+[31] In Tanguay et al. v. Unemployment Insurance Commission et al., 68 N.R. 154, several employees left their employment for the purpose of turning their jobs over to younger employees. The Commission found that they had left their employment without just cause within the meaning of section 41 of the then Unemployment Insurance Act and were disqualified from receiving benefits. The Federal Court of Appeal cited with approval the decision of the English Court of Appeal in Social Security Act, 1975 in Crewe et al. v. Social Security Commissioner [1982] 2 All E.R. 745 which case raised exactly the same problem as Tanguay. Donaldson, L.J. said as follows:
+In my judgment it is crucial to reaching a decision on this appeal to remember that this is an insurance scheme, however it may be funded, and that it is an insurance against unemployment. It is of the essence of insurance that the assured shall not deliberately create or increase the risk...
+[32] The key word is "risk" and the Act and the Regulations are replete with safeguards to protect the employment insurance fund from employment that is specifically excluded. Clearly by allowing self-employed fishers to either manipulate the system or enter into non-arm's length contractual relationships to create greater benefits over a shorter period of employment is creating risk to the fund not contemplated by the Act.
+[33] The Worker argues that any arrangement entered into by two or more self-employed persons is acceptable under the Regulations and the arm's length standard that applies to a normal employer/employee relationship should have no application. In other words, self-employed persons can manipulate the system and create greater risk to the fund by entering into relationships that if entered into between an employer and a non-fishing employee would exclude the employment from the benefits of the Act.
+[34] The word "modifications" in section 5 of the Fishing Regulations is designed to meld the special concept of insured employment conferred on fishers with the other provisions of the Act and particularly to prevent the application of any provision of the Act or any other regulations thereunder from defeating the scheme of the Fishing Regulations.
+[35] There is a paucity of jurisprudence in respect to the use of the word "modifications". Counsel referred none to the Court and the only cases that the Court could find were cases involving collective agreements.
+[36] In Re Atlantic Sugar Division of Atlantic Consolidated Foods Ltd. and Local 443, Bakery and Confectionery Workers International Union of America, 56 D.L.R. (3d) 474, a decision of the New Brunswick Court of Appeal, the collective agreement between the parties did not provide for final settlement by arbitration of differences between the parties as required by section 56(1) of the Industrial Relations Act. On an application by the union, the Board found the provisions of the agreement to be inadequate and substituted the statutory provision respecting arbitration. Section 56(4) of the Act empowered it to determine, inter alia, that the arbitration provision in the collective agreement was inadequate and "to modify" the same so long as it did not conflict with 56(1). Section 56(2) of the Act provided for the statutory arbitration "where the collective agreement does not contain one".
+[37] On application to quash the decision of the Board, the application was granted. Hughes C.J.N.B. writing for the majority said at page 80:
+The only remaining question is whether, as contended by counsel for the Employer, the Board exceeded its powers by ordering that the provisions of the collective agreement "be amended to include the provisions of section 56(2) of the Industrial Relations Act".
+The Board's power was "to modify any part of the arbitration provisions in the collective bargaining agreement ... where, in the opinion of the Board" they are inadequate.
+The Oxford English Dictionary gives as one meaning to "modify", "to make partial changes in; to change (an object) in respect of some of its qualities; to alter or vary without radical transformation".
+Webster's New English Dictionary gives as the primary meaning of "modify" - "to change slightly or partially in character, form, etc".
+In my opinion, the Board's order did not "modify" the provisions of the collective agreement which the Board found to be "inadequate" but directed the amendment of the collective agreement to include the statutory formula set out in s. 56(2), thereby either substituting a new arbitration provision for settlement of differences or creating a parallel arbitration procedure applicable to the settlement of certain differences not provided for in the collective agreement. This in my opinion constituted an excess of jurisdiction.
+[38] In Re Miramichi Pulp and Paper Inc. and Canadian Paperworkers Union, Local 869, 29 L.A.C. (3d) 48, a decision of the Industrial Relations Board of New Brunswick, the issue was modifications made to work schedules in a collective agreement pursuant to the following section:
+SECTION 4
+Hours of Work
+4.01
+Exceptional circumstances may arise which, although not covered by the following schedule, may, in the judgment of Management, warrant modification of the following schedules. Such cases will be dealt with as they occur.
+[39] It is not necessary to set out the schedules and the changes made. Management not only changed the hours of work but also eliminated special pay rates and benefits. Suffice to say the Board found that Management had not modified the schedules but had in fact created a whole new scheme of work.
+[40] The Board quoted from Black's Law Dictionary 5th ed. (1979) as follows:
+Modification. A change; an alteration ... which introduces new elements into the details, or cancels some of them, but leaves the general purpose and effect of the subject-matter intact ....
+"Modification" is not exactly synonymous with "amendment" for the former term denotes some minor change in the substance of the thing, without reference to its improvement or deterioration thereby, while the latter word imports an amelioration of the thing (as by changing the phraseology of an instrument, so as to make it more distinct or specific) without involving the idea of any change in substance or essence.
+[41] The Board made the following comment preceding its finding that the changes made in the schedules were not a modification but a new schedule:
+The concept of a modification to the schedules must also take some flavour from the context ...
+[42] The "context" of course is reference to the use of the word "modification" in the text in which it appears. In the case at bar, the text is section 2 of the Fishing Regulations and the "flavour" sought is the retention of the characteristic or predominant quality of the Act, an insurance fund available to bona fide beneficiaries whose qualification for benefits meet its standards.
+[43] The suggested change to paragraph 5(2)(i) was not a change in phraseology and therefore not an amendment. The modification merely makes the provisions of the Act excluding employment applicable to all who seek benefits under the Act. It does not destroy or "undo" as suggested by counsel for the Worker, the special nature of calculating benefits for fishers.
+[44] Applying the arm's length provisions to the share arrangement of self-employed persons would not defeat the provisions of the Fishing Regulations but merely bring share arrangements within the same scrutiny as any other employment arrangements under the Act.
+[45] Counsel makes the point that no mention is made of arm's length relationships in respect to the Determination of Earnings under section 5 of the Fishing Regulations. Section 35 of the Employment Insurance Regulations governs the determination of earnings for benefit purposes for employment other than employment under the Fishing Regulations. Nowhere in section 35 is there any mention of arm's length relationships or should there be. Before earnings are determined one must firstly determine whether the employment is insurable.
+[46] Counsel for the Worker noted that the Minister in his Reply to the Notice of Appeal and his counsel's submissions before this Court did not take the position that the arm's length analysis would be applicable to the Worker were she to be found to be self-employed.
+[47] Sections 103 and 104 of the Act read as follows:
+103(1) Appeal to the Tax Court of Canada - The Commission or a person affected by a decision on an appeal to the Minister under section 91 or 92 may appeal from the decision to the Tax Court of Canada in accordance with the Tax Court of Canada Act and the applicable rules of court made thereunder within 90 days after the decision is communicated to the Commission or the person, or within such longer time as the Court allows on application made to it within 90 days after the expiration of those 90 days.
+104(1) Authority to decide questions - The Tax Court of Canada and the Minister have authority to decide any question of fact or law necessary to be decided in the course of an appeal under section 91 or 103 or to reconsider an assessment under section 92 and to decide whether a person may be or is affected by the decision or assessment.
+[48] In Schnurer v. Canada (Minister of National Revenue) [1997] F.C. 545 at page 556 at paragraph 16, Chief Justice Issac explained:
+...establish that in a section 70 appeal, the Tax Court must focus on the validity of the Minister's determination, and not on the validity of the Minister's specific reasons, or the subsections of the Unemployment Insurance Act relied upon, for that determination ...
+Also, Justice Marceau, in Canada (Attorney General) v. Doucet (1993), 172 N.R. 374 at paragraph 10 stated:
+...It is the Minister's determination which was at issue before the judge, and that determination was strictly that the employment was not insurable. The judge had the power and duty to consider any point of fact or law that had to be decided in order for him to rule on the validity of that determination. This is assumed by s. 70(2) of the Act ... and s. 71(1) of the Act ... so provides immediately afterwards, and this is also the effect of the rules of judicial review and appeal, which require that the gist of a judgment, which is all that is directly at issue, should not be confused with the reasons given in support of it.
+Reference to s. 70 and s. 71(1) refer to the Unemployment Insurance Act and are now s. 103 and s. 104 of the Employment Insurance Act with minor variations in the language.
+[49] This Court is, therefore, concerned only with the question of whether the employment of the Worker was insurable and not the reasons given to support it or is it bound to adopt the submissions made by counsel for the Respondent.
+[50] The Court finds that by virtue of section 2 of the Fishing Regulations, paragraph 5(2)(i) as it relates to fishers, and in particular the Worker, can be modified by deleting the words "employer and employee" and substituting the words "self-employed persons engaged in fishing" and the Court so modifies it and applies it to the case at bar.
+[51] The Court further finds that the share agreement or agreements entered into by the Payor and the Worker as they relate to the fishing conducted during the periods in question violated paragraph 5(2)(i) as modified and the employment of the Worker during the said periods was not insurable.
+[52] The appeal of the Worker is dismissed and the decision of the Respondent is confirmed.
+Signed at Rothesay, New Brunswick, this 22nd day of September 2003.
+"M.F. Cain"
+Cain, D.J.
+CITATION:
+2003TCC652
+COURT FILE NO.:
+2003-374(EI)
+STYLE OF CAUSE:
+Shelley Mercer and M.N.R.
+PLACE OF HEARING:
+St. John's, Newfoundland
+DATE OF HEARING:
+May 27, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable M.F. Cain,
+Deputy Judge
+DATE OF JUDGMENT:
+September 22, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Thomas Johnson
+Counsel for the Respondent:
+Susan McKinney
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Thomas Johnson
+Firm:
+O'Dea, Earle
+St. John's, Newfoundland
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

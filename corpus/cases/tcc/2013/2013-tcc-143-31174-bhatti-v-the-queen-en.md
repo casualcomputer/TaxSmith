@@ -1,0 +1,220 @@
+---
+title: "Bhatti v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31174/index.do"
+last_modified: "2013-05-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 143"
+citation2: ""
+neutral_citation: "2013 TCC 143"
+decision_date: "2013-05-06"
+language: "en"
+item_id: "31174"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5068
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:08:05.885000+00:00"
+cases_cited_count: 4
+cases_citing_count: 32
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8e60c0eda5dd73a35e4ebcfbc6dffb0d0e22be67e767e456243bd52d76c15641"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bhatti v. The Queen
+
+- Citation: 2013 TCC 143
+- Decision date: 2013-05-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5068, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bhatti v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-05-06
+Neutral citation
+2013 TCC 143
+File numbers
+2011-3754(IT)I, 2011-3755(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3755(IT)G
+BETWEEN:
+RAJPAL BHATTI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the Appeals of
+Manjit Bhatti (2011-3754(IT)I) on April 29, 2013,
+at Vancouver, British Columbia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kristian DeJong and
+Pavanjit K. Mahil Pandher
+____________________________________________________________________
+JUDGMENT
+The Appeals from the assessments made under the Income Tax Act for the 2007 and 2008 taxation years are dismissed.
+Signed at Vancouver, British Columbia, this 6th day of May 2013.
+"Campbell J. Miller"
+C. Miller J.
+Docket: 2011-3754(IT)I
+BETWEEN:
+MANJIT BHATTI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the Appeals of
+Rajpal Bhatti (2011-3755(IT)G on April 29, 2013,
+at Vancouver, British Columbia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+Bijay Ram
+Counsel for the Respondent:
+Pavanjit K. Mahil Pandher and
+Kristian DeJong
+____________________________________________________________________
+JUDGMENT
+The Appeal from the assessment made under the Income Tax Act (the "Act") for the 2007 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+a) no penalties pursuant to subsection 163(2) of the Act are exigible in connection with the purported taxable capital gain of $39,418 on the rental property at 6838 135 th Street in Surrey, British Columbia.
+The Appeal from the assessment made under the Income Tax Act for the 2008 taxation year is dismissed.
+Signed at Vancouver, British Columbia, this 6th day of May 2013.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2013 TCC 143
+Date: 20130506
+Docket: 2011-3755(IT)G
+BETWEEN:
+RAJPAL BHATTI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 2011-3754(IT)I
+BETWEEN:
+MANJIT BHATTI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] "I got greedy" – so acknowledged Mr. Bhatti in explaining how he could file a return claiming a $31,000 refund, an amount promised by a nefarious organization that prepared returns based on fictitious business losses. How often this Court suspects what Mr. Bhatti has blurted outright – greed can all too often be an unfortunate motivator.
+[2] Mr. Bhatti’s General Procedure case and Ms. Bhatti’s Informal Procedure case were heard together. In both matters the only issue is the penalties imposed by the Government. Ms. Bhatti’s penalties were imposed pursuant to subsection 163(2) of the Income Tax Act (the "Act") (commonly referred to as gross negligence penalties) based on her failure to report rental income in 2007 and 2008 and her failure to report a capital gain on the disposition of a rental property in 2007. Mr. Bhatti also faces subsection 163(2) penalties based on the same issues as Ms. Bhatti, but also based on failure to report business income in 2008 and also based on reporting $477,716 of fictitious business losses in 2008.
+[3] Neither Mr. Bhatti nor Ms. Bhatti gave much testimony in examination‑in‑chief, other than to suggest that they simply followed professional advice in filing their returns, and if there is any gross negligence, it lay with their tax return preparers and not with them personally.
+[4] Unfortunately, Ms. Bhatti was not at all well: her voice was weak and her recollection dim. What I could discern, however, was that in 2007 and 2008 part of the home in which she and Mr. Bhatti resided in Surrey was rented to four tenants in downstairs’ suites. It was primarily Mr. Bhatti who found the tenants and collected the rent. Ms. Bhatti did take care of the household bills. She worked as a home-support worker, having obtained a diploma in that regard after a six-month course.
+[5] Ms. Bhatti had no involvement in the preparation of her tax returns. It was Mr. Bhatti who would take all the necessary papers to their accountant, Mr. Sidhu, who would prepare the returns. Mr. Bhatti would simply bring the returns home for Ms. Bhatti to sign. She maintained that she would simply sign them without looking at her returns.
+[6] Mr. Bhatti testified that with respect to the rental income in 2007 and 2008 ($13,950 and $9,700 respectively) from the suites in their principal residence that he discussed this with Mr. Sidhu, in whom he had a great deal of confidence, who advised him that expenses would likely be greater than income, and it was therefore not necessary to report this income. This story did not accord with both what Mr. Bhatti said on examinations for discovery, nor what he raised in his Notice of Appeal. At discovery and in his Notice of Appeal, Mr. Bhatti suggests that he never actually advised Mr. Sidhu with respect to the rent from the suites in their home. I consider this discrepancy in light of the fact that Mr. Sidhu was not called to testify and conclude that Mr. Bhatti’s story at trial is simply not accurate. He may have believed that his expenses might have exceeded his rental income, but he did not hear that from Mr. Sidhu.
+[7] In 2007, a rental property at 6838 135th Street in Surrey (the "Rental Property"), registered in both Mr. Bhatti’s and Ms. Bhatti’s name, was sold, realizing a taxable capital gain of approximately $78,800 or $39,000 each. Mr. Bhatti and Ms. Bhatti had reported rental income from this property in 2004, 2005 and 2006, though Ms. Bhatti claimed to have had no rental income before 2007. In fact, she disavowed any knowledge of the Rental Property. Neither she nor Mr. Bhatti reported the taxable capital gain. Ms. Bhatti was confused, vague and somewhat obtuse in her responses concerning this property. She claimed she prepared her Notice of Appeal, which clearly refers to the sale of the Rental Property. She maintained reference to the Rental Property in the Notice of Appeal was simply a mistake.
+[8] Mr. Bhatti testified that their new accountant, Mr. Ram, who acted as Ms. Bhatti’s agent at trial, assisted in the preparation of the Notices of Appeal. Given the similarity between Mr. Bhatti’s and Ms. Bhatti’s Notices of Appeal, I conclude that Ms. Bhatti actually had little hand in its preparation. It is not surprising she was perplexed at the reference to the sale of the Rental Property. The fact she left the return preparation to her husband and accountant, the fact she believed she had no rental income prior to 2007, the fact that I do not believe that she prepared her Notice of Appeal and her utter confusion over the sale of this property leads me to find that the Rental Property was handled entirely by Mr. Bhatti. Ms. Bhatti knew nothing of it.
+[9] Mr. Bhatti, however, was very much aware of the proceeds arising from the sale of the Rental Property. He did not advise Mr. Sidhu of the disposition, on a mistaken belief he was not aware such proceeds should be reported. This is not Mr. Bhatti’s first capital gain. Neither was it his only real property sale. Mr. Bhatti had not only built the home he and his wife lived in in 2004, but in 2006 he started a construction business, under the name Jivu Construction, with a partner, Mr. Gandhi. In 2007, the partnership constructed and sold a duplex in Surrey. In 2008, Mr. Bhatti, with Mr. Gandhi and a third partner, Mr. Gill, built and sold another home in Surrey. Mr. Bhatti earned a profit of approximately $23,160 on this sale, which he failed to report.
+[10] Before reviewing Mr. Bhatti’s testimony with respect to the fictitious $477,000 loss claim in 2008, it should be noted that until 2008 he had relied on Mr. Sidhu to prepare his returns. His income consisted primarily of employment income as a longshoreman, with some smaller investment income and rental income. Mr. Sidhu would prepare returns based on what Mr. Bhatti provided to him. Mr. Bhatti indicated that he would average tax refunds of $3,000 o $4,000 a year.
+[11] I turn now to Mr. Bhatti’s testimony regarding the fictitious business losses claimed by him, that resulted in a $31,000 refund for his 2008 taxation year. Mr. Bhatti and his co-workers were drawn to a poster by an organization known as Fiscal Arbitrators, a poster that had been displayed at their workplace. One of Mr. Bhatti’s co-workers, Mr. Bal, confirmed the poster and its appeal to their co‑workers, which led to several of them meeting with Fiscal Arbitrators. This meeting was with Mr. John Gillespie who was later joined by Mr. Larry Watts, who explained that expenses could be claimed to obtain significant tax refunds. Mr. Gillespie and Mr. Watts appeared professional to Mr. Bal and Mr. Bhatti as well as being knowledgeable, one of them even claiming to have worked for some period of time for the Canada Revenue Agency ("CRA"). Mr. Bhatti and his co‑workers were advised by Fiscal Arbitrators to obtain assessments going back 10 years from the CRA. Mr. Bhatti proceeded to do this and took that information to Mr. John Gillespie with Fiscal Arbitrators. Mr. Bhatti was advised that he would get a refund of all of his 2008 taxes that had been remitted through his employment (some $31,000). At some later point, Fiscal Arbitrators provided Mr. Bhatti with a schedule indicating that losses could be used to offset prior years’ taxes to the tune of approximately $103,000. Mr. Bhatti was also advised that he would have to pay $500 for the initial preparation of his return if he wanted to proceed, and ultimately he would have to pay 20% of any refund he received from the CRA to Fiscal Arbitrators, but that the $500 would be taken off that 20% amount. Mr. Bhatti did in fact pay 20% of his $31,000 refund to Fiscal Arbitrators less the $500.
+[12] Mr. Bhatti did not sign up right away with Fiscal Arbitrators, but received calls from Mr. John Gillespie pressuring him to do so. He discussed this with both his wife and his accountant, Mr. Sidhu, who both advised against it. At his examination for discovery, Mr. Bhatti acknowledged that both his wife and accountant suggested he would be engaging in fraud: Mr. Bhatti did not have such a clear memory of that at trial.
+[13] Mr. Bhatti ignored his wife and accountant and advised Mr. Sidhu not to prepare his 2008 return, and instead he proceeded to have the return prepared by Fiscal Arbitrators. He was sent his tax return by Fiscal Arbitrators, which had yellow stickers where he was supposed to sign. The package included instructions that he was to write "per" before his signature. The return included a "statement of agent activity" showing money "collected as agent for principals" of approximately $1,000,000 with costs of goods sold and expenses of Jivu Construction of $744,000 plus $612,000 for "amount to principal in exchange for labour", leaving a loss of some $477,000. This was sheer nonsense.
+[14] Mr. Bhatti forthrightly acknowledged these were all simply made up numbers. He had no idea what they meant and he certainly knew they did not pertain to any of his business or employment income: in fact, he had no idea what it meant other than it would result in a significant return. As he said, "all I was happy about was getting my money". At the time, he paid little attention to the numbers.
+[15] Mr. Bhatti signed the return. He never called CRA, a tax lawyer or any other accountant. He maintains he was brainwashed by Fiscal Arbitrators.
+[16] Mr. Bhatti obtained his $31,000 refund. The CRA then reassessed and disallowed Mr. Bhatti the fictitious business losses of $477,716, assessed additional income in both Mr. Bhatti’s and Ms. Bhatti’s 2007 and 2008 returns to include the net rental income of $4,471 and $2,943 each respectively, assessed a taxable capital gain of $39,418 arising on the sale of the rental property against each of Mr. and Mrs. Bhatti and added $23,116 in 2008 to Mr. Bhatti’s income from business, from the sale of the Surrey home he and his partners had constructed. The CRA also assessed penalties pursuant to subsection 163(2) of the Act based on these amounts. It is the penalties that are at issue before me.
+Analysis
+[17] Subsection 163(2) of the Act reads in part as follows:
+Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+…
+[18] Pursuant to subsection 163(3) of the Act, the onus is on the Crown to prove subsection 163(2) of the Act applies. The Crown must therefore prove:
+a) a false statement or omission;
+b) such statement or omission was either made:
+i) knowingly, or
+ii) under circumstances amounting to gross negligence.
+There is considerable jurisprudence as to what is intended by gross negligence. The classic statement of the term is found in the Federal Court of Appeal decision in Venne v. Canada:[1]
+With respect to the possibility of gross negligence, I have with some difficulty come to the conclusion that this has not been established either. "Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, and indifference as to whether the law is complied with or not. I do not find that high degree of negligence in connection with his misstatements of business income. To be sure the Plaintiff did not exercise the care of a reasonable man, and as I have noted earlier should have at least reviewed his tax returns before signing them. A reasonable man in doing so, having regard to other information available to him, would have been led to believe that something was amiss and would have pursued the matter further with his bookkeeper.
+[19] Indeed, in a recent 2012 case, Chénard v. The Queen[2] which dealt with the same nefarious organization, Fiscal Arbitrators, Justice Bédard relied on former Chief Justice Bowman’s explanation of the difference between ordinary and gross negligence in DaCosta v. The Queen:[3]
+11. In drawing the line between "ordinary" negligence or neglect and "gross" negligence a number of factors have to be considered. One of course is the magnitude of the omission in relation to the income declared. Another is the opportunity the taxpayer had to detect the error. Another is the taxpayer’s education and apparent intelligence. No single factor predominates. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence.
+12. What do we have here? A highly intelligent man who declares $30,000 in employment income and fails to declare gross sales of about $134,000 and net profits of $54,000. While of course his accountant must bear some responsibility, I do not think it could be said that the appellant can nonchalantly sign his return and turn a blind eye to the omission of an amount that is almost twice as much as that which he declared. So cavalier an attitude goes beyond simple carelessness.
+[20] The Federal Court of Appeal has adopted the term "willful blindness" as a description of what can constitute gross negligence (see for example Villeneuve v. Canada, 2004 FCA 20). Justice Favreau relied on this concept in the case of Brochu v. Canada[4] in concluding penalties were applicable:
+Since Villeneuve, the issue is no longer confined to determining whether a taxpayer was aware of the specialist’s negligence and whether he or she was indifferent, but also includes cases where the taxpayer blindly trusts the person preparing the return. In this case, even though the Appellant had no intentional and deliberate knowledge of Ms. Tremblay’s errors, she was still wilfully blind.
+[21] Given this state of the law, have Mr. Bhatti and Ms. Bhatti properly been assessed penalties pursuant to subsection 163(2) of the Act?
+[22] I will first address the penalties in connection with the $477,000 fictitious business losses claimed by Mr. Bhatti. First, is this claim a false statement? Yes, Mr. Bhatti admitted this. Second, did he make it knowingly or under circumstances amounting to gross negligence? Mr. Bhatti saw and signed his return. I believe he saw the $1,000,000 income and $477,000 loss. He knew they were simply not true. He knowingly made a false statement in this regard.
+[23] Even if I accept his explanation that he did not review the return in such detail as to have known the refund was drawn from made up numbers, then his conduct was so wilfully blind, not caring whether or not he complied with the law, that it constituted gross negligence.
+[24] The reason I reach this conclusion is because:
+a) The magnitude of the claim was huge compared to his overall income.
+b) He had many opportunities to detect the false assertion:
+i) just the size of the refund alone should have raised suspicions.
+ii) both his wife and his accountant told him it smacked of fraud.
+iii) a cursory review of the return itself would reveal the completely unaccountable $500,000 loss.
+iv) the request to sign the return with the insertion of "per".
+These are not subtle signs of a possible problem, but glaring flashing red lights. Mr. Bhatti did nothing.
+c) Mr. Bhatti was not inexperienced when it came to knowing what business income and losses were. He not only had employment income, but also business income from his construction business. As well, he had some investment income and rental income. He was not inexperienced commercially.
+He had the opportunity, the experience and the knowledge to appreciate this $31,000 could only be triggered by false assertions. This is a classic case of wilfull blindness to which penalties should apply.
+[25] I understand there have been a handful of Fiscal Arbitrators related penalty appeals, all of which have been dismissed, though this is the first such case heard under the General Procedure. No doubt others who have let greed get the better of them share Mr. Bhatti’s concern that the Fiscal Arbitrators principals are truly the ones to blame. Sadly, they were the ones that led the horses to water, that Mr. Bhatti was all too keen to drink.
+[26] I turn next to the failure of Mr. Bhatti to report the $23,160 business income from the sale of the Surrey house with his two partners in 2008. Again, I find Mr. Bhatti knew he had this income and therefore he knowingly made this false omission. His own partnership financial statements indicated as much.
+[27] Next, with respect to the rental income from the suites in their principal residence, I do not accept Mr. Bhatti’s assertion that because the rent was derived from his principal residence, he was not aware he had to report it. He had other rental income: he knew what rent was. He collected the rent himself from his tenants. He knowingly made this false omission.
+[28] Finally, with respect to the failure to report the capital gain on the disposition of the Rental Property, Mr. Bhatti was no stranger to capital gains nor to proceeds from the disposition of real property. He was in the house construction business and knew the proceeds from such sales were business income. He would have known an $80,000 gain on the sale of a rental property would attract some tax consequences. Even if he was not sure, to assume there were no tax ramifications goes beyond simple carelessness. It is the very sort of cavalier attitude or nonchalance as to whether or not to comply with the law that jurisprudence suggests is gross negligence that attracts the subsection 163(2) of the Act penalties.
+[29] While I have no doubt the result of these penalties imposes a severe financial burden on Mr. Bhatti, one he claims he may never be able to satisfy, that is no reason to not impose a penalty that is clearly justified. It is a harsh result and a painful lesson to Mr. Bhatti. One can only hope that this will be a lesson for others attracted by a tax deal that seems too good to be true. It inevitably will be just that.
+[30] I turn now to Ms. Bhatti’s penalties. While she is not as intimately involved with the rental arrangement at home, she knew very well they were receiving rent from their tenants. She knowingly did not report it. It is simply insufficient to say I did not review my returns. Blindly entrusting your affairs to another without even a minimal amount of verifying the correctness of the return goes beyond carelessness. So, even if she did not knowingly make a false omission, she certainly displayed the cavalier attitude of not caring one way or the other. She handled the family’s household bills, she had received training in her chosen career; she was an intelligent woman. Signing a return is just the opportunity to ensure its correctness. While the rental amounts ($4,471 and $2,943) may not have been significant in Mr. Bhatti’s returns, Ms. Bhatti’s income was substantially less and these amounts would not be insignificant.
+[31] Finally, with respect to the capital gains on the sale of the Rental Property, I find the Respondent has not proven on balance that Ms. Bhatti knew or should have known she had either knowingly or in circumstances amounting to gross negligence made a false omission. I interpret Ms. Bhatti’s evidence to favour, on balance, a finding that she simply knew nothing of the Rental Property. She did not believe she had rental income from such a property and, indeed, did not appear to know what property she was being questioned about. I conclude that while the property may have been held jointly, she knew nothing of it. I cannot on that basis find that she acted either knowingly or with gross negligence in failing to report a gain.
+[32] In conclusion, I dismiss Mr. Bhatti’s Appeals for both years and Ms. Bhatti’s Appeal for 2008. I allow Ms. Bhatti’s Appeal with respect to her 2007 taxation year, and refer the matter back to the Minister of National Revenue for reconsideration and reassessment on the basis no penalties pursuant to subsection 163(2) of the Act are exigible in connection with the purported taxable capital gain of $39,418 on the Rental Property.
+[33] I do not intend to pour salt into an open wound by ordering any costs.
+Signed at Vancouver, British Columbia, this 6th day of May 2013.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2013 TCC 143
+COURT FILE NO.: 2011-3755(IT)G and 2011-3754(IT)I
+STYLE OF CAUSE: RAJPAL BHATTI AND HER MAJESTY THE QUEEN and MANJIT BHATTI AND HER MAJESTY THE
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: April 29, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: May 6, 2013
+APPEARANCES:
+For the Appellant
+(Rajpal Bhatti):
+The Appellant himself
+Counsel for the Respondent:
+Kristian DeJong and
+Pavanjit K. Mahil Pandher
+Agent for the Appellant (Manjit Bhatti):
+Bijay Ram
+Counsel for the Respondent:
+Pavanjit K. Mahil Pandher and
+Kristian DeJong
+COUNSEL OF RECORD:
+For the Appellant: Rajpal Bhatti
+Name: n/a
+Firm:
+For the Appellant: Manjit Bhatti
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 1984 FCJ No. 314 (TD) at p. 13.
+[2] 2012 TCC 211.
+[3] 2005 DTC 1436.
+[4] 2011 TCC 75.

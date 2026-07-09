@@ -1,0 +1,144 @@
+---
+title: "Pelletier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26731/index.do"
+last_modified: "2003-08-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 420"
+citation2: ""
+neutral_citation: "2003 CCI 420"
+decision_date: "2003-08-06"
+language: "fr"
+item_id: "26731"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3412
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:54:03.060000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7c32c9644f1433fca0b34880e4ba19e43d396b2fb854ebd3f17c8edb89edfcbf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pelletier c. La Reine
+
+- Citation: 2003 CCI 420
+- Decision date: 2003-08-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3412, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pelletier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-08-06
+Référence neutre
+2003 CCI 420
+Numéro de dossier
+2002-647(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-647(IT)I
+ENTRE :
+RÉNALDO PELLETIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+___________________________________________________________________
+Appel entendu le 27 mai 2003 à Québec (Québec)
+Devant : L'honorable juge B. Paris
+Comparutions :
+Avocat de l'appelant :
+Me Daniel Cantin
+Avocate de l'intimée :
+Me Nancy Dagenais
+____________________________________________________________________
+JUGEMENT
+L'appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998 et 1999 est admis, sans frais, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations selon les motifs du jugement ci-joints.
+Signé à Ottawa (Canada), ce 6e jour d'août 2003.
+« B. Paris »
+Paris, J.
+Référence : 2003CCI420
+Date : 20030806
+Dossier : 2002-647(IT)I
+ENTRE :
+RÉNALDO PELLETIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L'appelant interjette appel à l'encontre de nouvelles cotisations pour ses années d'imposition 1998 et 1999, soit des cotisations en date du 21 janvier 2002 par lesquelles le ministre du Revenu national (le « ministre » ) a inclus comme revenus non déclarés les montants de 21 727 $ et de 13 149 $ respectivement. En établissant ces nouvelles cotisations à l'égard de l'appelant, le ministre a calculé le revenu de l'appelant en se fondant sur une vérification relative à l'avoir net.
+[2] La preuve a révélé que, durant toute la période pertinente, l'appelant exploitait une scierie à Rivière-du-Loup et employait deux ouvriers dans cette entreprise. L'appelant s'occupait de tout l'argent provenant de l'entreprise. L'appelant a témoigné qu'il avait des reçus et des relevés bancaires pour son entreprise et qu'il remettait ces documents à son comptable à la fin de chaque exercice pour le calcul de ses impôts. Aucun grand livre ou journal comptable n'était tenu pour l'entreprise. L'appelant a dit qu'il estimait que la méthode qu'il utilisait pour faire état de son revenu était adéquate et il a insisté sur le fait qu'il donnait à tous ses clients des reçus des sommes qu'il recevait comme revenus.
+[3] L'appelant avait déclaré comme revenus bruts provenant de son entreprise 38 200 $ pour 1998 et 35 488 $ pour 1999. Quand on lui a montré ses déclarations de revenu pour ces années-là, il a admis qu'il les avait signées, mais, quand on lui a demandé s'il les avait d'abord lues, il a dit qu'il avait « fait confiance à son comptable » . Quand on lui a montré qu'il avait indiqué le plein montant pour conjoint pour chaque année, bien que sa conjointe exploitait une entreprise pendant ces années-là, il a dit que cet élément lui avait échappé et que cela avait été fait par son comptable.
+[4] L'appelant a dit que, durant les années en cause, il avait eu des revenus relatifs à deux contrats d'assurance-vie rachetés à la fin de 1997. Il a produit une photocopie d'un extrait de livret de banque indiquant qu'un dépôt de 2 421,43 $ a été fait le 28 octobre 1997 et qu'un dépôt de 3 132,04 $ a été fait le 12 décembre 1997. Il n'a pu produire les autres documents relatifs à ce compte ou aux contrats d'assurance en question parce que, a-t-il dit, il les avait jetés. Il a affirmé qu'il n'avait pas informé la vérificatrice quant à l'existence de ce compte parce qu'elle ne l'avait pas interrogé à ce sujet. Il a également affirmé que ses frais personnels, tout comme ceux de sa conjointe, étaient peu élevés parce qu'ils vivaient chez sa belle-mère et qu'ils ne payaient pas de loyer.
+[5] Dans l'ensemble, on ne peut pas dire que l'appelant ait été communicatif au cours de son témoignage, et ses explications relatives aux événements et aux opérations étaient incomplètes et parfois confuses.
+[6] La conjointe de l'appelant, Mme Claire Ouellet, a témoigné que, en 1998 et en 1999, elle avait une entreprise de vente de vêtements au détail qu'elle exploitait à partir du sous-sol de la maison. Elle a témoigné qu'elle avait exploité cette entreprise pendant 35 ans. En 1997, il y avait eu un incendie qui l'avait obligée à fermer l'entreprise pendant un certain nombre de mois, et les ventes n'ont jamais repris. Elle a définitivement fermé l'entreprise à la fin de 1999. Elle a produit des états financiers de sa compagnie qui indiquaient un revenu net de 7 746 $ pour l'exercice se terminant le 30 juin 1997, un revenu net de 5 379 $ pour l'exercice se terminant le 30 juin 1998 et une perte de 888 $ pour l'exercice se terminant le 30 juin 1999. D'après ce que dit Mme Ouellet, sa compagnie n'avait qu'un revenu suffisant pour rembourser les emprunts qu'elle avait faits. Mme Ouellet a admis que le revenu provenant de son entreprise de vente de vêtements n'était pas suffisant pour payer les frais du ménage. L'appelant a confirmé que sa conjointe ne payait qu'une fraction des frais du ménage.
+[7] Mme Ouellet a toutefois bel et bien fourni une liste manuscrite de chèques qu'elle dit avoir tirés sur son compte bancaire personnel en 1998 et en 1999. La vérificatrice avait présumé que l'appelant approvisionnait ce compte et que Mme Ouellet n'avait pas de revenu personnel. La vérificatrice croyait donc que les sommes payées sur ce compte provenaient de revenus que l'appelant avait omis de déclarer. Mme Ouellet a témoigné que bon nombre des chèques qu'elle tirait sur ce compte (ainsi que les fonds qui y étaient déposés) se rapportaient à son travail consistant à vendre des produits Avon. La liste de chèques (pièce A-5) faisait état de sommes payables à Avon d'un montant total de 4 895,47 $ pour 1998 et de 4 687,71 $ pour 1999. Mme Ouellet n'a pas produit les chèques oblitérés ou d'autres documents pour corroborer son témoignage, mais elle a dit qu'elle avait réuni ces renseignements à partir de ses talons de chèque (qui n'ont pas été produits non plus). Elle a admis qu'elle et son conjoint n'avaient pas révélé l'existence de l'entreprise de vente de produits Avon à la vérificatrice de l'ADRC au cours de la vérification et qu'en fait ils l'avaient révélée à leur comptable seulement après que l'on eut traité l'avis d'opposition de l'appelant.
+[8] Mme Anne Morin, comptable travaillant pour le cabinet d'expertise comptable dont l'appelant retenait les services, a présenté un témoignage au sujet de l'examen qu'elle avait fait de l'état relatif à l'avoir net et au sujet des efforts qu'elle avait faits pour trouver des erreurs dans les calculs de la vérificatrice. Elle a dit que c'est grâce à ses efforts qu'ont été découverts les achats et ventes de produits Avon faits par Mme Ouellet. Mme Morin ne semblait pas avoir une connaissance directe des opérations et événements décrits par l'appelant et sa conjointe, et pour cette raison j'accorde très peu de poids à son témoignage.
+[9] L'agent des appels de l'ADRC qui avait traité l'avis d'opposition de l'appelant a également témoigné, mais, encore là, cette personne n'avait pas une connaissance directe de la vérification qui a été effectuée, et j'accorde également peu de poids à son témoignage.
+[10] Il est bien établi en droit que c'est à la partie appelante qu'incombe la charge de prouver l'inexactitude des faits sur lesquels est basée une cotisation fiscale. L'appelant a affirmé qu'il avait reçu certaines sommes au titre d'assurances en 1997 et il soutient que les cotisations devraient être réduites en conséquence. Toutefois, comme je l'ai fait remarquer précédemment, l'appelant n'avait pas présenté cette information à la vérificatrice, pour fins de contrôle, et il n'a pu fournir à la Cour quelque pièce justificative que ce soit. Il est également à noter que l'extrait de livret de banque n'indique pas le nom de l'appelant ou quoi que ce soit d'autre qui montrerait qu'il s'agissait du livret de l'appelant et, sans une telle corroboration, je n'accepte pas l'assertion selon laquelle l'appelant avait une source non imposable de revenu permettant de payer certains des frais personnels qui sont indiqués dans le calcul de l'avoir net.
+[11] Cependant, en ce qui a trait au témoignage de Mme Ouellet, je suis disposé à accepter l'assertion selon laquelle bon nombre des chèques que Mme Ouellet a tirés sur son compte personnel en 1998 et en 1999 se rapportaient comme elle l'a dit à des frais relatifs à des produits Avon et non à des frais du ménage comme l'avait présumé la vérificatrice. J'ai trouvé que le témoignage de Mme Ouellet était plus clair, plus direct et plus crédible que celui de l'appelant. J'accepte l'assertion selon laquelle les fonds déposés dans le compte personnel de Mme Ouellet ne venaient pas du conjoint de cette dernière; par conséquent, les montants au sujet desquels on a présumé qu'ils représentaient des frais personnels payés par l'appelant sur ce compte devraient être supprimés, et le revenu de l'appelant devrait être réduit de 6 700,78 $ pour 1998 et de 6 932,03 $ pour 1999.
+[12] Je ne suis pas convaincu que la preuve révèle que la vérificatrice a fait quelque autre erreur en déterminant le revenu de l'appelant pour 1998 et 1999.
+[13] Des pénalités ont été imposées en vertu du paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi » ), dans ce cas-ci à l'égard des montants inclus dans le revenu par suite de la vérification relative à l'avoir net. L'appelant soutient que ces pénalités devraient être supprimées parce qu'il a fait un effort raisonnable pour s'acquitter de ses obligations selon la Loi et que c'était la première fois qu'il faisait l'objet d'une vérification. Il a fait référence à l'affaire Venne c. Canada (ministre du Revenu national - M.R.N.), C.F. 1re inst., no T-815-82, 9 avril 1984 ([1984] A.C.F. no 314), dans laquelle le juge Strayer (titre qu'il portait alors) a dit :
+[...] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. [...]
+[14] La preuve n'est pas claire quant à l'état des livres et registres de l'appelant. La vérificatrice n'a pas témoigné. Les revenus qui n'ont pas été déclarés sont relativement élevés en comparaison avec ce qui a été déclaré, mais, en soi, ce n'est pas suffisant pour considérer que l'appelant a commis une faute lourde. Le critère est en partie subjectif en l'espèce. L'appelant est un homme simple, et il n'a pas une formation en affaires. Pour ce qui est des pénalités, c'est à la partie intimée qu'incombe la charge de prouver qu'une pénalité doit être imposée et, en l'espèce, la Cour conclut que l'intimée ne s'est pas acquittée de cette charge.
+[15] En conséquence, l'appel est admis, sans frais, en tenant compte de ce qui suit :
+- le revenu de l'appelant pour les années d'imposition 1998 et 1999 doit être réduit de 6 700,78 $ et de 6 932,03 $ respectivement;
+- les pénalités imposées en vertu du paragraphe 163(2) de la Loi doivent être supprimées.
+Signé à Ottawa (Canada), ce 6e jour d'août 2003.
+« B. Paris »
+Paris, J.
+RÉFÉRENCE :
+2003CCI420
+No DU DOSSIER DE LA COUR :
+2002-647(IT)I
+INTITULÉ DE LA CAUSE :
+RÉNALDO PELLETIER et SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 27 mai 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Brent Paris
+DATE DU JUGEMENT :
+le 6 août 2003
+COMPARUTIONS :
+Pour l'appelant :
+Me Daniel Cantin
+Pour l'intimée :
+Me Nancy Dagenais
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Daniel Cantin
+Étude :
+Gagné Letarte
+Québec (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

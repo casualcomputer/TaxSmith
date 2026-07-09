@@ -1,0 +1,156 @@
+---
+title: "Bleiler c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/98043/index.do"
+last_modified: "2014-10-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 296"
+citation2: ""
+neutral_citation: "2014 CCI 296"
+decision_date: "2014-10-06"
+language: "fr"
+item_id: "98043"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5178
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:42:55.139000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9ab74b9d7b7b49f7837088dda86b12d170eeb848269d748ad518f3af8e020211"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bleiler c. La Reine
+
+- Citation: 2014 CCI 296
+- Decision date: 2014-10-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5178, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bleiler c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-10-06
+Référence neutre
+2014 CCI 296
+Numéro de dossier
+2013-1924(IT)I
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-1924(IT)I
+ENTRE :
+GERALD G. BLEILER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 13 mai 2014, à Kelowna (Colombie-Britannique).
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Devi Ramachandran
+JUGEMENT
+L’appel interjeté à l’encontre de l’année d’imposition 2012 de l’appelant est rejeté sans frais.
+Signé à Toronto (Ontario), ce 6e jour d’octobre 2014.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 27e jour de novembre 2014.
+Marie-Christine Gervais, traductrice
+Référence : 2014 CCI 296
+Date : 20141006
+Dossier : 2013-1924(IT)I
+ENTRE :
+GERALD G. BLEILER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Motifs du jugement
+Le juge Graham
+[1] Gerald Bleiler s’est fait enlever l’œil gauche en 1938, à l’âge de quatre ans. Il porte maintenant une prothèse oculaire. La vue de son œil droit est supérieure à la moyenne. M. Bleiler a demandé le crédit d’impôt pour personnes handicapées à l’égard de son année d’imposition 2012. Le ministre du Revenu national a refusé de lui accorder le crédit compte tenu du fait que M. Bleiler n’était pas « aveugle » selon les paramètres ayant été appliqués par les tribunaux pour interpréter l’emploi de ce terme à l’alinéa 118.4(1)b) de la Loi de l’impôt sur le revenu (la « Loi »)[1]. M. Bleiler a porté cette décision en appel.
+[2] M. Bleiler admet qu’il n’est pas « aveugle » et qu’il n’a donc pas droit au crédit d’impôt pour personnes handicapées selon le critère énoncé actuellement dans la Loi. Il admet également qu’il ne remplit pas par ailleurs les critères établis pour demander le crédit d’impôt pour personnes handicapées au titre des articles 118.3 et 118.4 de la Loi, quoiqu’il ait un peu de difficulté à marcher et que sa déficience visuelle lui occasionne une certaine souffrance morale. Cependant, M. Bleiler soutient que la façon étroite dont ces articles ont été rédigés constitue une violation de ses droits à l’égalité garantis par l’article 15 de la Charte canadienne des droits et libertés (la « Charte »). M. Bleiler dit que les articles 118.3 et 118.4 violent l’article 15 de la Charte parce que ces articles définissent les attributs d’une personne ayant une déficience de façon étroite de manière à exclure les personnes, comme lui‑même, qui souffrent d’une déficience leur imposant des limitations moindres.
+[3] M. Bleiler a donné l’avis exigé par la Charte au procureur général du Canada et aux procureurs généraux de chaque province et territoire.
+La question en litige [4] La question à trancher dans le présent appel est de savoir si la façon étroite dont les articles 118.3 et 118.4 de la Loi prescrivent les attributs que doit posséder une personne pour avoir droit au crédit d’impôt pour personnes handicapées porte atteinte aux droits garantis par le paragraphe 15(1) de la Charte.
+[5] Le critère à deux volets à appliquer dans une analyse fondée sur l’article 15 a été confirmé par la Cour suprême du Canada dans l’arrêt Withler c. Canada (Procureur général)[2]. Dans un premier temps, je dois me demander si la loi crée une distinction fondée sur un motif énuméré à l’article 15 ou sur un motif analogue. Dans un deuxième temps, je dois me demander si cette distinction crée un désavantage par la perpétuation d’un préjugé ou l’application de stéréotypes.
+La loi crée-t-elle une distinction fondée sur un motif énuméré ou analogue? [6] Les déficiences physiques et mentales font partie des motifs énumérés à l’article 15 de la Charte. M. Bleiler allègue que les articles 118.3 et 118.4 créent une distinction entre les personnes souffrant de déficiences moindres et les personnes ne souffrant pas de déficiences. Cependant, les personnes souffrant de déficiences moindres et les personnes ne souffrant pas de déficiences sont traitées de la même manière selon ces deux articles : elles n’ont pas droit au crédit d’impôt pour personnes handicapées.
+[7] La meilleure façon de qualifier la distinction pour l’application du critère à deux volets énoncé dans l’arrêt Withler est de dire qu’il s’agit d’une distinction entre les personnes souffrant de déficiences moindres et les personnes souffrant de déficiences graves, étant donné que ces deux groupes sont traités différemment selon la Loi. L’intimée concède que les articles 118.3 et 118.4 créent une distinction entre ces deux groupes de personnes et que le premier volet du critère énoncé dans l’arrêt Withler est donc rempli. La concession de l’intimée est fondée sur le raisonnement suivi par la Cour suprême du Canada dans l’arrêt Granovsky c. Canada (Ministre de l’Emploi et de l’Immigration)[3].
+La distinction crée-t-elle un désavantage par la perpétuation d’un préjugé ou l’application de stéréotypes? [8] Le deuxième volet du critère énoncé dans l’arrêt Withler comporte un examen de divers facteurs contextuels dans le but d’établir si la distinction dans la loi crée un désavantage par la perpétuation d’un préjugé ou l’application de stéréotypes. Au paragraphe 38 de l’arrêt Withler, la Cour suprême du Canada énumère une liste non exhaustive des facteurs contextuels qui peuvent être pris en considération :
+Sans vouloir limiter les facteurs susceptibles d’être utiles dans l’appréciation d’une allégation de discrimination, disons que, dans les cas où l’effet discriminatoire découlerait de la perpétuation d’un désavantage ou d’un préjugé, entreront en ligne de compte les éléments tendant à prouver qu’un demandeur a été historiquement désavantagé ou fait l’objet de préjugés, ainsi que la nature de l’intérêt touché. […] Lorsque la mesure contestée s’inscrit dans un vaste régime de prestations, comme c’est le cas en l’espèce, son effet d’amélioration sur la situation des autres participants et la multiplicité des intérêts qu’elle tente de concilier joueront également dans l’analyse du caractère discriminatoire.
+[9] Il ne fait aucun doute que la déficience visuelle de M. Bleiler lui cause certaines difficultés personnelles. M. Bleiler a décrit les divers problèmes que lui posent son champ visuel réduit et son absence de perception de la profondeur, qui font qu’il lui est difficile d’éviter les personnes et les objets lorsqu’il marche. Il a aussi expliqué que, bien qu’il puisse lire, la lecture pendant de longues périodes lui cause de la fatigue oculaire, ce qui, selon lui, n’est pas le cas pour les personnes dotées d’une vision stéréoscopique. Il a également déclaré qu’il doit supporter des dépenses supplémentaires relativement à l’achat de sa prothèse oculaire, ainsi que pour l’entretien de sa prothèse et de son orbite. Enfin, M. Bleiler a témoigné que sa déficience visuelle lui a occasionné une souffrance morale pour de nombreuses raisons. La première raison est ce que je décrirai de façon informelle la culpabilité du survivant qu’il ressent parce qu’il a été libéré de l’armée avant le déploiement de son unité pendant la guerre de Corée. La deuxième raison est la souffrance que lui occasionne la peur accrue qu’il a de perdre complètement la vue si quelque chose devait arriver à son œil droit. La dernière raison est la souffrance que lui occasionne la façon dont il considère que les autres le perçoivent en raison de sa déficience[4].
+[10] Cela étant dit, la question qui se pose n’est pas de savoir si M. Bleiler éprouve lui‑même des difficultés en raison de sa déficience visuelle, mais plutôt de savoir si, en général, les personnes souffrant de déficiences moindres font l’objet de préjugés ou de l’application de stéréotypes. M. Bleiler n’a présenté que très peu d’éléments de preuve à ce sujet. Toutefois, comme l’existence de tels préjugés ou stéréotypes à l’égard des personnes souffrant de déficiences n’est pas vraiment controversée et comme le fait de reconnaître l’existence de tels préjugés ou stéréotypes en l’absence de preuve directe n’aura pas d’incidence sur l’issue de la présente affaire, je suis disposé à prendre connaissance d’office de l’existence de tels préjugés ou stéréotypes pour les besoins de la présente affaire. Les normes établies par les articles 118.3 et 118.4 sont suffisamment élevées pour qu’au moins certaines personnes qui seraient généralement considérées comme ayant une déficience physique ou mentale et qui pourraient être victimes de préjugés et de stéréotypes du fait de cette déficience n’aient pas droit au crédit d’impôt pour personnes handicapées.
+[11] Cependant, cela n’est pas suffisant pour permettre à M. Bleiler d’établir que les personnes souffrant de déficiences moindres sont victimes de préjugés ou de stéréotypes. M. Bleiler doit aussi établir que le refus d’accorder le crédit d’impôt pour personnes handicapées à ces personnes a pour effet de perpétuer ces préjugés ou ces désavantages. Selon M. Bleiler, le refus d’accorder le crédit d’impôt pour personnes handicapées n’a eu pour effet que de lui faire payer plus d’impôt qu’il n’en aurait payé s’il avait reçu le crédit. Dans l’arrêt Granovsky, la Cour suprême du Canada a fait remarquer ce qui suit, au paragraphe 58 :
+La question n’est donc pas seulement de savoir si l’appelant a été privé d’un avantage financier, ce qui est le cas, mais plutôt de savoir si cette privation favorise l’opinion que les individus souffrant d’une déficience temporaire sont « moins capables ou [...] moins [dignes] d’être reconnus ou valorisés en tant qu’êtres humains ou en tant que membres de la société canadienne qui méritent le même intérêt, le même respect et la même considération ».
+[Souligné dans l’original.]
+[12] J’ai du mal à voir comment le fait de ne pas recevoir le crédit d’impôt pour personnes handicapées perpétue les préjugés ou les stéréotypes dont sont victimes les personnes souffrant de déficiences moindres. M. Bleiler n’a pas présenté d’élément de preuve démontrant que le refus d’accorder le crédit d’impôt pour personnes handicapées à une personne souffrant d’une déficience moindres favorise de quelque façon que ce soit l’opinion que ces personnes sont moins capables ou moins dignes d’être reconnues ou valorisées en tant qu’êtres humains ou en tant que membres de la société canadienne.
+[13] Comme le crédit d’impôt pour personnes handicapées vise à accorder un allégement fiscal, il aurait fallu que M. Bleiler démontre que l’allégement accordé ne tenait pas compte des besoins ou de la situation véritables des personnes souffrant de déficiences moindres. M. Bleiler n’a pas présenté d’éléments de preuve au sujet des besoins financiers de ce groupe. Il n’a décrit que sa propre situation financière. Le fait qu’une personne souffre d’une déficience ne signifie pas que cette personne gagne un revenu moins élevé. Le cas de M. Bleiler constitue un bon exemple. Bien que sa déficience visuelle ait eu pour effet de limiter d’une certaine façon ses possibilités d’emploi[5], elle ne l’a pas empêché de gagner ce que je présume être au moins un bon revenu dans la classe moyenne en tant que directeur du personnel dans un établissement de santé important pendant 17 ans et, après avoir quitté cet emploi pour prendre sa retraite, en tant que professeur à temps partiel.
+[14] Même si M. Bleiler avait fourni des éléments de preuve démontrant que le crédit d’impôt pour personnes handicapées ne tenait pas compte des besoins financiers des personnes souffrant de déficiences moins graves, il aurait quand même dû démontrer que, si l’on considère le régime prévu par la Loi dans son ensemble, la limite que le législateur a choisi d’établir entre les personnes souffrant de déficiences graves et les personnes souffrant de déficiences moindres n’était pas généralement opportune. La Cour suprême du Canada a expliqué cet aspect du critère au paragraphe 67 de l’arrêt Withler :
+Lorsqu’il est question d’un régime de prestations de retraite, comme dans le cas qui nous occupe, l’examen des facteurs contextuels à la deuxième étape de l’analyse requise par le par. 15(1) porte en général sur l’objet de la disposition présentée comme discriminatoire, et se fait à la lumière du régime législatif complet. À qui le législateur voulait-il accorder un avantage et pourquoi? Pour trancher la question de savoir si la distinction perpétue un préjugé ou applique un stéréotype à un certain groupe, le tribunal tient compte du fait que de tels programmes sont conçus dans l’intérêt de divers groupes et doivent forcément établir des limites en fonction de certains facteurs comme l’âge. Le tribunal s’interrogera sur l’opportunité générale de telles limites, compte tenu de la situation des personnes touchées et des objets du régime. Point n’est besoin que le programme de prestations corresponde parfaitement à la situation et aux besoins véritables du groupe de demandeurs. Le tribunal pourra également prendre en considération l’affectation des ressources et les objectifs particuliers d’intérêt public visés par le législateur.
+[15] M. Bleiler n’a pas présenté d’éléments de preuve qui montreraient que les limites établies par le législateur entre les personnes souffrant de déficiences graves et les personnes souffrant de déficiences moindres n’étaient pas généralement opportunes.
+[16] Étant donné tout ce qui précède, je conclus que M. Bleiler n’a pas établi que les articles 118.3 et 118.4 portent atteinte aux droits garantis par l’article 15 de la Charte.
+Analyse de l’article premier [17] Comme j’ai conclu que les articles 118.3 et 118.4 ne portent pas atteinte aux droits garantis par l’article 15 de la Charte, il n’est pas nécessaire que je procède à une analyse fondée sur l’article premier de la Charte.
+Conclusion [18] Compte tenu de tout ce qui précède, l’appel est rejeté sans frais.
+Signé à Toronto (Ontario), ce 6e jour d’octobre 2014.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 27e jour de novembre 2014.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2014 CCI 296
+NO DU DOSSIER DE LA COUR :
+2013-1924(IT)I
+INTITULÉ :
+GERALD G. BLEILER c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Kelowna (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 13 mai 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Graham
+DATE DU JUGEMENT :
+Le 6 octobre 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Devi Ramachandran
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir, par exemple, les décisions Blondin c. Canada, [1994] ACI no 987, Islam c. Canada, 2013 CCI 175, Hoben c. Canada, 2003 CCI 658, Riley c. Canada, 2003 CCI 916, et Ewen c. Canada, [2000] ACI no 845.
+[2] 2011 CSC 12.
+[3] 2000 CSC 28.
+[4] Je suppose que la prothèse oculaire de M. Bleiler doit être perceptible par les autres de près, étant donné que je n’ai pas constaté de différence entre ses yeux à l’audience.
+[5] M. Bleiler a témoigné qu’il n’avait pas pu poursuivre son service militaire ni devenir pilote.

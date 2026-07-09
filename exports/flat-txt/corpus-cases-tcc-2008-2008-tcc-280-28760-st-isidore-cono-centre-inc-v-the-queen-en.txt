@@ -1,0 +1,381 @@
+Title: St-Isidore Écono Centre Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28760/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-280-28760-st-isidore-cono-centre-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-07-09
+
+# St-Isidore Écono Centre Inc. v. The Queen
+
+- Citation: 2008 TCC 280
+- Decision date: 2008-07-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1547, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Isidore Écono Centre Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-07-09
+Neutral citation
+2008 TCC 280
+File numbers
+2007-2478(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-2478(GST)I
+BETWEEN:
+ST-ISIDORE ÉCONO CENTRE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+D.H. Ventilation S.E.N.C. (2007-2477(GST)I) and
+Ferblanterie Alexandre Enr. (2007-2476(GST)I)
+on December 10, 2007, at Montréal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Martin Fortier
+Counsel for the Respondent:
+Brigitte Landry
+____________________________________________________________________
+JUDGMENT
+The Appellant's appeal from the notice of assessment dated March 3, 2006, and bearing the number 03404350, in respect of the period from August 1, 1994, to October 31, 2004, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 9th day of July 2008.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 1st day of October 2008.
+Brian McCordick, Translator
+Docket: 2007-2477(GST)I
+BETWEEN:
+D.H. VENTILATION S.E.N.C.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+St-Isidore Écono Centre Inc. (2007-2478(GST)I) and
+Ferblanterie Alexandre Enr. (2007-2476(GST)I)
+on December 10, 2007, at Montréal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Martin Fortier
+Counsel for the Respondent:
+Brigitte Landry
+____________________________________________________________________
+JUDGMENT
+The Appellant's appeal from the notice of assessment dated March 3, 2006, and bearing the number 03404349, for the period from May 28, 2004, to September 30, 2005, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 9th day of July 2008.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 1st day of October 2008.
+Brian McCordick, Translator
+Docket: 2007-2476(GST)I
+BETWEEN:
+FERBLANTERIE ALEXANDRE ENR.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+St-Isidore Écono Centre Inc. (2007-2478(GST)I) and
+D.H. Ventilation (2007-2477(GST)I)
+on December 10, 2007, at Montréal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Martin Fortier
+Counsel for the Respondent:
+Brigitte Landry
+____________________________________________________________________
+JUDGMENT
+The Appellant's appeal from the notice of assessment dated March 3, 2006, and bearing the number 03404348, for the period from January 1, 2002, to September 30, 2005, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 9th day of July 2008.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 1st day of October 2008.
+Brian McCordick, Translator
+Citation: 2008 TCC 280
+Date: 20080709
+Dockets: 2007-2478(GST)I
+2007-2477(GST)I
+2007-2476(GST)I
+BETWEEN:
+ST-ISIDORE ÉCONO CENTRE INC.,
+D.H. VENTILATION S.E.N.C.,
+FERBLANTERIE ALEXANDRE ENR.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] These are three appeals against notices of assessment dated March 3, 2006, and bearing the numbers 03404350, 03404349 and 03404348, for the period from August 1, 1994, to October 31, 2004 in the case of St-Isidore Écono Centre Inc. ("St‑Isidore"); the period from May 28, 2004 to September 30, 2005 in the case of D.H. Ventilation S.E.N.C. ("D.H. Ventilation"); and the period from January 1, 2002 to September 30, 2005 in the case of Ferblanterie Alexandre Enr. ("Ferblanterie Alexandre").
+[2] In the notice of assessment issued to St-Isidore under Part IX of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (hereinafter "ETA"), the following amounts are assessed:
+[TRANSLATION]
+Adjustments to reported net tax:
+$53,601.70
+Interest
+$10,422.16
+Penalties
+Section 280 of the ETA:
+Section 285 of the ETA:
+$20,476.72
+$13,400.43
+Total
+$97,901.01
+[3] In its Notice of Appeal, St-Isidore contests solely the part of the assessment that pertains to the input tax credits (ITCs) disallowed in relation to the invoices of D.H. Ventilation ($2,266.25) and Ferblanterie Alexandre ($7,728.00), and to the interest and penalties related to the disallowed ITCs.
+[4] In the notice of assessment issued to D.H. Ventilation, the following amounts are assessed:
+[TRANSLATION]
+Adjustments to reported net tax (ITCs disallowed on purchases from St-Isidore Écono Centre Inc. and on services provided to that company):
+$331.31
+Interest:
+$80.21
+Penalties:
+$200.67
+Total
+$612.19
+[5] In the notice of assessment issued to Ferblanterie Alexandre, the following amounts are assessed:
+[TRANSLATION]
+Adjustments to reported net tax (GST billed but not remitted, and ITCs disallowed on invoices from St-Isidore Écono Centre Inc.):
+$8,236.26
+Interest:
+$383.34
+Penalties:
+Section 280 of the ETA
+Section 285 of the ETA
+$694.42
+$2,320.98
+Total
+$11,635.00
+[6] In issuing the notice of assessment in respect of St-Isidore, the Minister of Revenue of Quebec, in his capacity as agent of the Minister of National Revenue ("the Minister") relied, among other things, on the following findings and assumptions, set out in subparagraphs 25(a) to (ff) of the Reply to the Notice of Appeal:
+[TRANSLATION]
+(a) During the period in issue, the Appellant was a registrant for the purposes of Part IX of the ETA.
+(b) During the period in issue, the Appellant operated a business engaged in the sale and installation of air conditioning and heating devices.
+(c) The Appellant's books were audited at the same time as those of Ferblanterie Alexandre and D.H. Ventilation.
+(d) During the period in issue, Jean-Yves Legault was the Appellant's majority shareholder.
+(e) During the period in issue, Jean-Yves Legault and his son Alexandre Legault were the partners of Ferblanterie Alexandre.
+(f) During the period in issue, Jean-Yves Legault was also one of the four partners of D.H. Ventilation.
+(g) While auditing the Appellant's books, the Minister's auditor noticed that, in computing its net tax, the Appellant, starting in 2001, had been claiming undocumented ITCs in connection with supplies purportedly received from Ferblanterie Alexandre and D.H. Ventilation.
+(h) While auditing Ferblanterie Alexandre, the auditor noticed that it kept no books of account and reported zero net tax for the period in issue.
+(i) While auditing the books of D.H. Ventilation, the auditor noticed that it kept no books of account, and that it only became a registrant for the purposes of Part IX of the ETA on February 2, 2005.
+(j) During the audit, the Appellant, seeking to justify the ITCs reported in relation to supplies purportedly received from Ferblanterie Alexandre and D.H. Ventilation, submitted sales invoices that it supposedly issued to the two entities: specifically, 38 invoices issued to D.H. Ventilation, of which 33 (all dated November 15, 2004) are in an unbroken numerical sequence from 5363 to 5395, and five (dated December 31, 2004) bear the numbers D.H.1 to D.H.3, D.H.5 and D.H.8; and 33 invoices issued to Ferblanterie Alexandre, 30 of which are in an unbroken numerical sequence from 5322 to 5351 and three of which are numbered 5398 to 5400.
+(k) Lastly, following discussions, and in order to justify the ITC claim in respect of supplies purportedly received from Ferblanterie Alexandre and D.H. Ventilation, the Appellant submitted purchase invoices issued by those two entities.
+(l) As for the invoices submitted in connection with the ITCs claimed on supplies purportedly received from Ferblanterie Alexandre, with the exception of four invoices prepared by hand, they consist of 30 invoices in a broken numerical sequence from 246 to 310 (invoice 264 is dated December 19, 2003, invoice 265 is dated November 3, 2003, invoice 266 is dated December 19, 2003, and so on) and three invoices numbered 350 to 352 (invoice 350 is dated March 15, 2005, invoice 351 is dated July 5, 2004, and invoice 352 is dated October 3, 2005).
+(m) As for the invoices submitted in connection with the ITCs claimed on supplies purportedly received from D.H. Ventilation, they consist of 33 invoices in an unbroken numerical sequence from 201 to 233 (22 invoices dated May 28, 2004, eight dated June 28, 2004, two dated July 30, 2004, and one bearing no date) and 13 invoices numbered 250 through 263 (with dates in 2005). None of these invoices contains a GST number.
+(n) The Respondent disallowed the ITCs claimed by the Appellant in relation to the supplies purportedly received from Ferblanterie Alexandre and D.H. Ventilation.
+(o) Her position was that there had been no exchange of services between the Appellant and these entities, and that this was a scheme put in place to enable the Appellant to claim ITCs even though neither Ferblanterie Alexandre nor D.H. Ventilation remitted the GST that was billed.
+(p) In addition, the Respondent refused to allow the ITCs claimed in the course of the audit by D.H. Ventilation and Ferblanterie Alexandre. She did so for the same reason, namely, that there had been no exchange of services and that the invoices submitted were false.
+(q) None of the aforementioned invoices was paid.
+(r) The invoices issued by Ferblanterie Alexandre and D.H. Ventilation were entered as accounts payable in the Appellant's books starting in 2001.
+(s) By means of an adjusting entry (#35) dated July 31, 2004, the Appellant created an account receivable in the amount of $124,848 in consideration of other purported sales to Ferblanterie Alexandre and D.H. Ventilation.
+(t) However, it is unlikely that accounts receivable from 2004 are applicable to accounts payable dating back to 2001.
+(u) The auditor noticed that Ferblanterie Alexandre and D.H. Ventilation had no employees and that Alexandre Legault was an employee of the Appellant's.
+(v) The financial statements of Ferblanterie Alexandre and D.H. Ventilation make no reference to any manufacturing costs, rent costs or production outlays.
+(w) Ferblanterie Alexandre and D.H. Ventilation have the same address as the Appellant, which owns the building, tools and machinery.
+(x) Ferblanterie Alexandre does not make any contributions to the Commission de la Construction du Québec (CCQ) and does not report having any employees.
+(y) Although D.H. Ventilation pays a contribution to the CCQ, it does not report having any employees.
+(z) The bank records of Ferblanterie Alexandre and D.H. Ventilation disclose very little activity.
+(aa) Payments on the vehicle for which the lease contract and registration are under the Appellant's name are made from the bank account of Ferblanterie Alexandre and are taken from bank transfers that come out of the Appellant's bank account.
+(bb) The vehicle bearing D.H. Ventilation markings is registered under the Appellant's name.
+(cc) The Minister's auditor therefore disallowed $9,494.25 in ITCs ($7,228 for Ferblanterie Alexandre and $2,266.25 for D.H. Ventilation).
+(dd) Lastly, the Respondent assessed a penalty under section 285 of the ETA because the Appellant failed, for a three-year period, to pay the Minister the amounts of the discrepancies that it had recorded in its books of account, and because the value of the unreported supplies is high and the Appellant participated in a scheme that enabled it to claim ITCs.
+(ee) At the beginning of the audit, the Appellant's accountant gave the auditor work sheets that showed a significant discrepancy between the GST in the books of account and the GST reported.
+(ff) The Appellant's president was aware that these work sheets existed, but refused to correct the situation.
+[7] In issuing the notice of reassessment in respect of D.H. Ventilation, the Minister relied, among other things, on the following findings and assumptions, set out in subparagraphs 20(a) through (i) and subparagraphs 20(u) and (v) of the Reply to the Notice of Appeal:
+[TRANSLATION]
+(a) The Appellant registered for the purposes of Part IX of the ETA on February 2, 2005.
+(b) Since the Appellant collected GST — at least since May 28, 2004 — the Minister amended the registration date and business start date to coincide with the date on which the Appellant issued its first invoice, that is to say, May 28, 2004.
+(c) While auditing the Appellant's business, the Minister's auditor found that the Appellant did not keep any books of account until February 2005, at which time it became a registrant for the purposes of Part IX of the ETA and began using an accounting system.
+(d) The Minister's auditor found that, during the period in issue, the Appellant issued invoices to St-Isidore with GST amounts on them (hereinafter "the GST billed").
+(e) The Minister's auditor found that the Appellant did not report any of the GST billed for the quarter ended June 30, 2004 ($2,133.25) or the quarter ended September 30, 2004 ($133.00).
+(f) For the quarters ended March 31, 2005, and June 30, 2005, the auditor found that the GST billed was the same as the GST reported.
+(g) For the quarter ended September 30, 2005, the auditor noted that GST billed was $2,599.44 but that the GST reported was $4,911.43.
+(h) Consequently, the auditor assessed a negative amount of $45.74 on account of unpaid tax under section 278 and paragraph 296(1)(b) of the ETA.
+(i) The Minister disallowed the ITCs claimed, on the ground that the Appellant did not submit the supporting documents required by subsection 169(4) of the ETA.
+. . .
+(u) The Respondent was of the view that there was no exchange of services between the Appellant and St-Isidore and that this was a scheme put in place to enable St‑Isidore to claim ITCs even though neither the Appellant nor Ferblanterie Alexandre remitted any GST billed.
+(v) She also refused to grant the ITCs claimed by the Appellant in the course of the audit. She did so for the same reason, namely, that there was no exchange of services between these entities, and that the invoices submitted by St‑Isidore were false.
+. . .
+[8] In making the notice of assessment in respect of Ferblanterie Alexandre, the Minister relied, among other things, on the findings and assumptions set out in subparagraphs 21(a), (h), (i), (j), (ff), (gg) and (hh) of the Reply to the Notice of Appeal:
+(a) During the period in issue, the Appellant was a registrant for the purposes of Part IX of the ETA, but filed returns reporting zero net tax.
+. . .
+(h) The Minister's auditor found that, starting on August 31, 2001, the Appellant issued invoices to St-Isidore on which it stated a GST amount ("the GST billed").
+(i) The Minister's auditor found that the Appellant reported no GST billed for the period in issue, because it filed returns where that amount is reported as zero or where no activity is reported for the period.
+(j) Consequently, the auditor assessed the Appellant for $8,305.86 in unpaid tax under section 278 and paragraph 296(1)(b) of the ETA.
+. . .
+(ff) During the audit, the Minister's auditor therefore disallowed ITCs claimed by the Appellant in connection with the invoices purportedly issued by St-Isidore.
+(gg) Lastly, the Respondent assessed a penalty under section 285 of the ETA, because the Appellant had failed to include, in computing its net tax, the GST that it had stated on its invoices.
+(hh) Moreover, even though the Respondent entered a GST amount on the invoices submitted to St-Isidore, its returns for the same periods stated that it had no activity.
+. . .
+[9] To put things in simple terms, this dispute is mainly about the ITCs that St‑Isidore claimed in respect of GST on supplies purportedly made to it by D.H. Ventilation and Ferblanterie Alexandre from November 2003 to July 2004, during which period D.H. Ventilation and Ferblanterie Alexandre remitted no GST to the Minister.
+[10] The audit of St-Isidore's business began in late January 2005, and a first meeting was held with Daniel Dupuis, an external accountant who looked after Jean‑Yves Legault's affairs with the help of a partner. At that first meeting, Mr. Dupuis gave the auditor worksheets showing GST discrepancies starting in 2002. The amount of net tax payable was shown on St-Isidore's financial statements.
+[11] Initially, all the ITCs claimed in relation to the invoices of D.H. Ventilation and Ferblanterie Alexandre were disallowed because the invoices had not been submitted. The sales invoices issued by St-Isidore to D.H. Ventilation and Ferblanterie Alexandre were the first to be submitted, and the invoices for purchases by St-Isidore from D.H. Ventilation and Ferblanterie Alexandre were submitted later.
+[12] Even though the sales and purchase invoices had now been submitted, the auditor continued to disallow the ITCs on the basis that D.H. Ventilation and Ferblanterie Alexandre had not been engaged in genuine commercial activities. D.H. Ventilation was not a GST registrant, and Ferblanterie Alexandre filed returns reporting zero net tax. According to the auditor, the invoices of D.H. Ventilation and Ferblanterie Alexandre were invoices of convenience, because there were no true supplies of services or goods between the entities involved.
+[13] For the following reasons, the auditor determined that neither D.H. Ventilation nor Ferblanterie Alexandre had been engaged in any true commercial activity:
+[TRANSLATION]
+(a) With respect to Ferblanterie Alexandre :
+(i) All of its tax returns had zero balances, and only one adjustment was done, at the end of the year.
+(ii) It had no accounting journals, except for a year-end disbursement account.
+(iii) It had no employees, and was not registered for payroll deductions.
+(iv) It was not registered with the CCQ, and no hours of labour were reported to the CCQ.
+(v) It paid no rent and had no equipment, and the only vehicle that it used was registered to St‑Isidore.
+(vi) There were almost no transactions on its bank account, except an exchange of cheques at year-end.
+(b) With respect to D.H. Ventilation :
+(i) It was not registered for consumption taxes; it only registered in February 2005.
+(ii) It had no accounting journals, except for a year-end disbursement account.
+(iii) It was not registered for payroll deductions.
+(iv) It was not registered with the CCQ, and no hours of labour were reported to the CCQ.
+The Appellants' position
+[14] Based on the following grounds, which are set out in paragraphs 7 to 18 of its Notice of Appeal, St-Isidore is challenging the validity of the amounts claimed back:
+[TRANSLATION]
+7. Indeed, the Respondent improperly failed to take account of the invoices issued by subcontractors of the Appellant, namely Ferblanterie Alexandre and D.H. Ventilation, which justify the ITC claims.
+8. The division of labour, and the exchange of business services between the Appellant and the subcontractors, were such that the Appellant sold contracts to customers.
+9. Ferblanterie Alexandre, for its part, made ventilation ducts for the Appellant on subcontract.
+10. D.H. Ventilation installed heating and air conditioning systems for the Appellant.
+11. Thus, services were exchanged between the three entities as part of their respective commercial activities.
+12. The reason that the sectors of activity were allocated in this way between the Appellant and Ferblanterie Alexandre , and the Appellant and D.H. Ventilation, was to facilitate their operations and significantly reduce related financial costs.
+13. The Appellant meets the ETA's ITC entitlement criteria.
+14. Indeed, the Appellant was a registrant throughout the period in issue.
+15. The Appellant did pay taxes, and no one contests this.
+16. The services that the subcontractors supplied to the Appellant were supplied for a commercial activity of the Appellant's.
+17. Lastly, these were expenses for services that were neither exempt nor zero-rated, and moreover, the purchases were made from registrants.
+18. The subcontractors had the production capacity necessary to render the services to the Appellant, and they actually fulfilled the related orders.
+[15] As for D.H. Ventilation and Ferblanterie Alexandre, they submit that there was an exchange of services with St-Isidore, and they claim ITCs on purchases from St‑Isidore which would have the effect of cancelling the amounts that they would otherwise owe. Both subcontractors allege that they paid taxes on purchases from St‑Isidore which would have the effect of cancelling the amounts that they would otherwise owe. Both allege that they paid taxes on purchases from a registrant, namely St‑Isidore.
+Analysis
+[16] The first question for consideration is whether St-Isidore was eligible for the ITCs claimed in respect of the invoices of D.H. Ventilation and Ferblanterie Alexandre. The disallowed ITCs were related to the invoices issued from November 2003 to July 2004 ("the ITC period").
+[17] The impugned invoices from D.H. Ventilation are described above at paragraph 6, item (m). None of them contains a GST registration number. This is because D.H. Ventilation Inc. did not register for consumption taxes until February 2005. As a result of this technical problem, St-Isidore automatically lost the benefit of the ITCs in respect of supplies made by D.H. Ventilation. The ETA and the Input Tax Credit (GST/HST) Regulations, SOR/91‑45, as amended ("the Regulations"), are very specific about the information that must be provided in order to obtain an ITC. Paragraph 169(4)(a) of the ETA requires as follows:
+(4) Required documentation − A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+[18] Paragraph 3(c) of the Regulations enunciates the following requirement:
+3. Prescribed information − For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+. . .
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient's name, the name under which the recipient does business or the name of the recipient's duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+[19] Where the total amount paid or payable shown on the supporting document in respect of the supply or supplies is $150 or more, the information required by paragraphs 3(a) and 3(b) must be provided. Subparagraph 3(b)(i) specifically refers to the registration number assigned under subsection 241(1) of the ETA to the supplier.
+[20] The courts have had numerous occasions to rule on these provisions of the ETA and the Regulations, and have confirmed several times that the requisite information is mandatory (see Systematix Technology Consultants Inc. v. The Queen, [2007] G.T.C. 1541 (F.C.A.), [2006] G.T.C. 510 (T.C.C.); Helsi Construction Management Inc. v. The Queen, [2001] G.T.C. 396; Key Property Management Corp. v. The Queen, [2004] G.S.T.C. 32 and Davis v. The Queen, [2004] G.S.T.C. 134). Bédard J. of this Court also had occasion to speak to this issue, and he made the following comments in Bobby Lee Baker v. The Queen, 2007 TCC 106, at paragraph 28:
+28. Subsection 169(4) of the Act and the Regulations are clear and the courts have adopted the position that a registrant is not entitled to receive the ITCs claimed before the required supporting documentation has been filed. In this case, the appellant did not produce as evidence the required supporting documentation and, therefore, he was not entitled to receive the ITCs claimed.
+[21] The information contemplated in section 3 of the Regulations is exhaustive, and the duty of taxpayers to provide it is an onerous one. In the instant case, St‑Isidore did not fulfil its duty to produce the supporting documents necessary to obtain ITCs in respect of the invoices issued by D.H. Ventilation.
+[22] In addition to the technical considerations, one must determine whether the invoices of D.H. Ventilation are invoices of convenience, or whether supplies were really made to St‑Isidore.
+[23] D.H. Ventilation, which has been doing business since 1999, installs ventilation systems. According to the information provided in Jean‑Yves Legault's income tax return, the partners in 2004 were Jean‑Yves Legault (33.33%), Daniel Hébert (33.33%) and Martin Turcotte (33.33%).
+[24] D.H. Ventilation held a building contractor's permit issued by the Régie du bâtiment du Québec. The designated employee card was issued to Martin Turcotte, but the primary competency card holder was Jean‑Yves Legault. The business filed monthly reports with the CCQ and paid the required fees. The hours reported to the CCQ were very limited because non-construction-related residential work was not regulated by the CCQ.
+[25] D.H. Ventilation occupied separate premises in the building that belonged to Jean‑Yves Legault, but, according to the balance sheet as at December 31, 2005, and the Statement of Business Activities attached to Jean‑Yves Legault's 2004 income tax return, the business had no assets in the nature of machinery or equipment.
+[26] D.H. Ventilation filed no financial statements and had no books of account during the ITC period. According to the profit and loss statement for 2004, the only revenues of the business consisted of $32,375 from St-Isidore. The document entitled [TRANSLATION] "Cash Receipts and Cash Expenditures", prepared by the external auditor from the 2004 bank statements, shows that the business had few activities in the course of the year, and that the business was not a profit centre.
+[27] The invoices from Ferblanterie Alexandre are described above at paragraph 6, item (l). Since the conditions in the ETA and the Regulations for claiming ITCs are met, the question whether the invoices were made merely for the sake of accommodation, or whether services were genuinely rendered by Ferblanterie Alexandre, becomes an important one to determine.
+[28] Ferblanterie Alexandre, which was founded in 1999, made ventilation ducts. It has a building contractor licence issued by the Régie du bâtiment du Québec. During the ITC period, it had no employees, and Alexandre Legault had no duct‑making competency card. The only customer of the business was St‑Isidore. Ferblanterie Alexandre occupied premises in the building owned by Jean‑Yves Legault. There was no lease with the building's owner. St‑Isidore occupied premises in the same building along with D.H. Ventilation and did not pay rent to Jean‑Yves Legault but paid the operating expenses of the building and then billed Ferblanterie Alexandre and D.H. Ventilation for their respective shares of the operating expenses. According to the information contained in Jean‑Yves Legault's income tax returns, Mr. Legault reported $6,972 in gross rental income in 2004, and $33,972 in gross rental income in 2005.
+[29] Ferblanterie Alexandre had practically no equipment or machinery assets ($997 as at December 31, 2005) and the vehicle that it used was registered under the name St‑Isidore. The bank statements of the business showed almost no activity, and the document entitled [TRANSLATION] "Cash Receipts and Cash Disbursements", prepared by the external accountant, shows no purchases in 2003, aside from a few miscellaneous items. For 2004, a materials purchase account was opened with St‑Isidore and another such account was opened with Brock.
+[30] All the GST returns of Ferblanterie Alexandre for the 2002, 2003 and 2004 years are nil and indicate no commercial activity, and no year-end adjustments were made. Ferblanterie Alexandre had no books of account, and only one disbursement account was created, at year-end.
+[31] Mr. Jean‑Yves Legault testified that the invoices of Ferblanterie Alexandre were paid by cheques that were deposited into its bank account. Contrary to Mr. Legault's allegations, the evidence discloses that no cheques from St‑Isidore were deposited into the bank account of Ferblanterie Alexandre in 2003 or 2004. In St-Isidore's books, the invoices issued by Ferblanterie Alexandre are listed as accounts payable from 2001 onward.
+[32] Based on the foregoing, I find that the Appellants have not shown, on a balance of probabilities, that the Minister erred in determining that Ferblanterie Alexandre and D.H. Ventilation did not actually render services to St‑Isidore, and that a scheme had been put in place to enable St‑Isidore to claim ITCs even though neither Ferblanterie Alexandre nor D.H. Ventilation were remitting the tax that they were billing, and Ferblanterie Alexandre was filing GST returns that reported zero balances.
+[33] The following factors that weigh heavily against the Appellants are worth noting:
+(i) The conduct of the Appellants during the audit: they were extremely reluctant to submit the purchase and sale invoices.
+(ii) The laconic invoices, in numeric sequence, that were tendered in evidence; these invoices were based on the same template and often bore the same dates.
+(iii) The fact that St‑Isidore did not pay the invoices.
+(iv) The fact that Ferblanterie Alexandre and D.H. Ventilation had no operational structure or production capacity.
+(v) The fact that neither entity had adequate books of account.
+(vi) The fact that each had just one customer during the ITC period.
+[34] As Lamarre J. of this Court so aptly stated in Les Constructions L.J.P. Inc. v. The Queen, 2005 TCC 508, at paragraph 21:
+. . . I agree with counsel for the Respondent, who submits that the appellants would have needed to provide more substantial additional evidence to counter the Minister's allegation that the suppliers did not actually make any supplies or perform any services for the appellants. . . .
+[35] Consequently, I confirm the Minister's assessment disallowing the ITCs for St‑Isidore.
+[36] The second question to be considered is whether Ferblanterie Alexandre and D.H. Ventilation are eligible for the ITCs that each claimed in respect of the invoices issued by St‑Isidore during the period from January 1, 2002, to September 30, 2005, in the case of Ferblanterie Alexandre, and from May 28, 2004, to September 30, 2005, in the case of D.H. Ventilation. In addition, it must be determined whether Ferblanterie Alexandre is required to remit to the Receiver General the GST billed but not remitted in respect of St‑Isidore's invoices.
+[37] The impugned invoices issued by St‑Isidore are described above at paragraph 6, item (j). Of the 33 invoices issued to D.H. Ventilation, 28 are dated November 15, 2004, and five are dated December 31, 2004. The 28 invoices dated November 15, 2004, purport to be for supplies for ventilation jobs. These invoices are difficult to explain considering the fact that D.H. Ventilation was unable to tender into evidence the sales invoices issued to its customers for the installation and for the necessary supplies acquired from St‑Isidore. This absence of evidence leads me to conclude that the invoices from St‑Isidore were issued merely for the sake of accommodation. In fact, the invoices were not paid, and it was simply by means of an adjusting entry that St‑Isidore created an account receivable of $128,848 in consideration of sales to D.H. Ventilation and Ferblanterie Alexandre.
+[38] Ten of the 33 invoices issued by St‑Isidore to Ferblanterie Alexandre are dated November 1, 2004, five are dated November 30, 2004, and 18 are dated December 15, 2004. The invoices generally purport to cover materials for [TRANSLATION] "duct jobs", [TRANSLATION] "A/C jobs", [TRANSLATION] "natural gas jobs" or [TRANSLATION] "heat pump jobs". They are also difficult to explain in view of the fact that Ferblanterie Alexandre was unable to tender in evidence any sales invoices issued to customers other than St‑Isidore — for example, invoices issued to D.H. Ventilation, which did the installation. If Ferblanterie Alexandre was to manufacture exclusively for St-Isidore, it could simply have charged the cost of the duct‑making labour. Much like the invoices issued to D.H. Ventilation, these invoices bear all the hallmarks of invoices of accommodation. And in fact, they were not paid by St‑Isidore.
+[39] Consequently, I confirm the Minister's assessments to the extent that they disallow the ITCs claimed by Ferblanterie Alexandre and D.H. Ventilation.
+[40] As for the question whether Ferblanterie Alexandre is required to remit, to the Receiver General, the GST that it billed St‑Isidore but did not collect during the relevant period, and did not remit to the Receiver General, that question must be answered in the affirmative. The ETA is very clear about this, and it is helpful to reproduce the wording of paragraph 225(1)(a) and subsection 225(2) of the statute:
+Net tax
+225. (1) Subject to this Subdivision, the net tax for a particular reporting period of a person is the positive or negative amount determined by the formula
+A - B
+where
+A is the total of
+(a) all amounts that became collectible and all other amounts collected by the person in the particular reporting period as or on account of tax under Division II, and
+. . .
+Restriction
+225. (2) An amount shall not be included in the total for A in the formula set out in subsection (1) for a reporting period of a person to the extent that that amount was included in that total for a preceding reporting period of the person.
+[41] Paragraph 225(1)(a) of the ETA refers specifically to amounts that became collectible, i.e. tax billed by the registrant during a given reporting period. Subsection 225(2) of the ETA seeks to prevent double inclusion in the total for A in subsection (1) for the reporting period. It does so by specifying that an amount shall not be included in A if it has already been included in a preceding reporting period; this is what happens, for example, where a tax amount was billed in one reporting period but collected in the subsequent one.
+[42] Subsection 278(2) of the ETA requires every person required to pay or remit tax to pay or remit it to the Receiver General. It reads:
+278. (2) [Place of payment] Every person who is required under this Part to pay or remit an amount shall, except where the amount is required under section 221 to be collected by another person, pay or remit the amount to the Receiver General.
+[43] Lastly, the ETA provides that the Minister has the power to make an assessment to determine the amount of a person's unremitted net tax for a reporting period. This power is conferred on the Minister by paragraph 296(1)(a) of the ETA, which reads:
+296. (1) [Assessment] The Minister may assess
+(a) the net tax of a person under Division V for a reporting period of the person
+. . .
+and may reassess or make an additional assessment of tax, net tax, penalty, interest or an amount referred to in paragraph (d) or (e).
+[44] Thus, these provisions enable the Minister to assess Ferblanterie Alexandre for the tax that it did not remit for the reporting periods from January 1, 2002, to September 30, 2005, even though St‑Isidore has no right to the ITCs in respect of the invoices of Ferblanterie Alexandre, and even if a final determination is made that Ferblanterie Alexandre was not engaged in commercial activities and did not make any taxable supplies during the relevant reporting periods. Where taxes have been overpaid, the ETA provides for adjustment and reimbursement measures in order to prevent double taxation.
+[45] Several decisions of this Court, and of the Federal Court of Appeal, have confirmed the principle that a person who has collected tax, whether it was collectible or not, must include it in the amount of net tax under subsection 225(1) of the ETA and remit it to the Receiver General, and that, if the person does not remit the net tax amounts, a notice of assessment may be issued against the person.
+[46] In 800537 Ontario Inc. v. Canada, [2005] G.S.T.C. 165, [2005] F.C.J. No. 1732 (QL), Sexton J.A. adopted, as his own, paragraph 10 of the reasons of Sharlow J.A. in Gastown Actors Studio Ltd. v. Canada, [2000] G.S.T.C. 108, [2000] F.C.J. No. 2047:
+. . . a taxpayer who has in fact collected GST, whether for services that are taxable or for services that are later determined to be exempt supplies, must remit those amounts and is liable to be assessed if they are not remitted. . . .
+[47] The same principle applies to GST collectible at the end of a reporting period.
+The penalties
+[48] The notices of assessment dated March 3, 2006, and issued to St-Isidore, Ferblanterie Alexandre and D.H. Ventilation, contain a 6% penalty under subsection 280(1) of the ETA, which reads:
+280. (1) [Penalty and interest] — Subject to this section and section 281, where a person fails to remit or pay an amount to the Receiver General when required under this Part, the person shall pay on the amount not remitted or paid:
+(a) a penalty of 6% per year; and
+(b) interest at the prescribed rate,
+[49] The Federal Court of Appeal has already held that nothing prevents a defence of due diligence from being asserted against a penalty imposed under section 280 of the ETA (see Canada (Attorney General) v. Consolidated Canadian Contractors Inc., [1999] 1 F.C. 209 (C.A.) and Corporation de l’école polytechnique v. Canada, 2004 FCA 127).
+[50] However, nothing in the record suggests that the Appellants have shown due diligence or that they took any measures whatsoever to comply with the ETA. St‑Isidore claimed ITCs when no taxes were being remitted to the Receiver General by Ferblanterie Alexandre and D.H. Ventilation. Jean‑Yves Legault, the Appellants' directing mind, could not have overlooked this situation, which persisted for several years (2002 to 2005) without any corrective action.
+[51] To closely paraphrase Létourneau J.A. in Folz Vending Co. v. Canada, 2008 FCA 160, at paragraph 25, the Appellants were unable to identify an error in fact which led them to believe on reasonable grounds in a non-existent state of facts which, if it had existed, would have made their failure to collect and remit the tax innocent.
+[52] The notices of assessment against St-Isidore and Ferblanterie Alexandre, dated March 3, 2006, also contain a 25% penalty under section 285 of the ETA. The part of section 285 of the ETA that precedes paragraph (a) reads as follows:
+285. [False statements or omissions] Every person who knowingly, or under circumstances amounting to gross negligence, makes or participates in, assents to or acquiesces in the making of a false statement or omission in a return, application, form, certificate, statement, invoice or answer (each of which is in this section referred to as a “return”) made in respect of a reporting period or transaction is liable to a penalty of the greater of $250 and 25% of the total of
+. . .
+[53] Since I have already determined that the invoices of St-Isidore, Ferblanterie Alexandre and D.H. Ventilation were invoices of accommodation, and that the system put in place was a scheme enabling St-Isidore to benefit from ITCs even though the GST amounts were not remitted by Ferblanterie Alexandre or D.H. Ventilation, I have no choice but to confirm the penalties under section 285 of the ETA.
+[54] The evidence discloses several facts showing a degree of intent or gross negligence that warrants the imposition of the penalty:
+(a) Jean‑Yves Legault knew that there were GST discrepancies, because tax liabilities had been posted to the financial statements of St‑Isidore since 2002.
+(b) Ferblanterie Alexandre filed returns reporting zero net tax while it was billing St‑Isidore for taxable supplies.
+(c) Ferblanterie Alexandre and D.H. Ventilation kept no books of account.
+(d) There was no genuine commercial activity carried on by Ferblanterie Alexandre and D.H. Ventilation.
+(e) The Appellants' invoices went unpaid.
+[55] In view of the foregoing evidence, I am of the opinion that the Respondent has met her burden of proof.
+[56] Consequently, the Appellants' appeal against the penalties under sections 280 and 285 of the ETA is dismissed.
+[57] For the foregoing reasons, the Appellants' appeals are dismissed.
+Signed at Montréal, Quebec, this 9th day of July 2008.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 1st day of October 2008.
+Brian McCordick, Translator
+CITATION: 2008 TCC 280
+COURT FILE NOS.: 2007-2476(GST)I,
+2007-2477(GST)I, and
+2007-2478(GST)I
+STYLES OF CAUSE: D.H. Ventilation S.E.N.C.,
+Ferblanterie Alexandre Enr. and
+St-Isidore Écono Centre Inc. v.
+Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: December 10, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENTS: July 9, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Martin Fortier
+Counsel for the Respondent:
+Brigitte Landry
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Martin Fortier
+Firm: De Chantal, D'amour, Fortier
+City: Longueuil, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

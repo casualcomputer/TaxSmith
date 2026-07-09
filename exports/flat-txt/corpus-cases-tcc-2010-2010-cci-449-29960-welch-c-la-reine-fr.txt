@@ -1,0 +1,216 @@
+Title: Welch c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29960/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-449-29960-welch-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-08-27
+
+# Welch c. La Reine
+
+- Citation: 2010 CCI 449
+- Decision date: 2010-08-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6445, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Welch c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-08-27
+Référence neutre
+2010 CCI 449
+Numéro de dossier
+2008-1387(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1387(IT)G
+ENTRE :
+GREGORY J. WELCH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 8 avril 2010, à Winnipeg (Manitoba).
+Devant : L’honorable juge Steven K. D'Arcy
+Comparutions :
+Avocat de l’appelant :
+Me Gregory M. Fleetwood
+Avocat de l’intimée :
+Me Cameron G. Regehr
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 sont rejetés, avec dépens en faveur de l’intimée.
+Signé à Antigonish (Nouvelle-Écosse), ce 27e jour d’août 2010.
+« S. D’Arcy »
+Juge D'Arcy
+Traduction certifiée conforme
+ce 2e jour de décembre 2010.
+Mario Lagacé, jurilinguiste
+Dossier : 2009-470(GST)G
+ENTRE :
+GREGORY J. WELCH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 8 avril 2010, à Winnipeg (Manitoba).
+Devant : L’honorable juge Steven K. D'Arcy
+Comparutions :
+Avocat de l’appelant :
+Me Gregory M. Fleetwood
+Avocat de l’intimée :
+Me Cameron G. Regehr
+___________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise, pour les périodes de déclaration comprises entre le 1er janvier 2003 et le 31 décembre 2004, est accueilli sans dépens.
+La cotisation, datée du 15 mars 2007, est renvoyée au ministre du Revenu national (le « ministre ») pour nouvel examen et nouvelle cotisation sur le fondement que le ministre était tenu de déduire de la taxe nette de l’appelant le montant de TPS que celui‑ci avait payé relativement aux paiements à Cactus Cowboys Inc. durant les périodes de déclaration visées par la cotisation.
+Signé à Antigonish (Nouvelle-Écosse), ce 27e jour d’août 2010.
+« S. D’Arcy »
+Juge D'Arcy
+Traduction certifiée conforme
+ce 2e jour de décembre 2010.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 449
+Date : 20100827
+Dossier : 2008-1387(IT)G
+2009-470(GST)G
+ENTRE :
+GREGORY J. WELCH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D'Arcy
+[1] L’appelant a interjeté appel de nouvelles cotisations d’impôt sur le revenu relatives à ses années d’imposition 2003 et 2004 et d’une cotisation de TPS relative à ses périodes de déclaration qui ont débuté le 1er janvier 2003 et se sont terminées le 31 décembre 2004.
+[2] Les points en litige dans les deux appels découlent des paiements de certains montants que l’appelant a faits à Cactus Cowboys Inc. (les « paiements à Cactus Cowboys »). J’examinerai tout d’abord l’appel relatif à l’impôt sur le revenu.
+Aperçu des points en litige relatifs à l’impôt sur le revenu
+[3] Le premier point en litige relatif à l’impôt sur le revenu concerne la déductibilité des paiements à Cactus Cowboys.
+[4] L’appelant est un avocat âgé de 62 ans qui, au cours des années en cause, exerçait sa profession seul à Winnipeg, au Manitoba. Il a fourni des services juridiques à des clients situés au Manitoba et en Ontario. L’appelant a affirmé qu’en 2003 et en 2004, il avait exploité, au Manitoba, un cabinet spécialisé dans le domaine du droit immobilier, du droit des sociétés, du droit de la famille et du droit des successions. Il a mentionné qu’avant 1994 il avait beaucoup pratiqué au Manitoba le droit dans le domaine des dommages corporels causés par des véhicules à moteur; il a cependant cessé de pratiquer dans ce domaine après que le Manitoba eut adopté un régime d’assurance sans égard à la faute[1].
+[5] L’appelant a affirmé qu’en Ontario, il exerçait en tant qu’avocat généraliste. Il fournissait des conseils dans les domaines du droit immobilier, du droit de la famille et des réclamations relatives à des dommages corporels. Comme je l’expliquerai sous peu, les points en litige dans les appels concernent la pratique de l’appelant, en Ontario, dans le domaine des dommages corporels.
+[6] Cactus Cowboys Inc. (« Cactus Cowboys ») a été constituée en société en 1996. Elle avait à l’origine trois actionnaires, dont l’appelant. Le 16 octobre 1998, l’appelant a acheté les actions des deux autres actionnaires. À partir de 1999, l’appelant a été l’unique actionnaire, administrateur et dirigeant de la société.
+[7] De 1998 à 2004, Cactus Cowboys a subi des pertes relativement à ses activités dans le domaine des courses de chevaux et des écuries. Ces pertes se sont élevées à 96 826 $ en 2003 et à 170 036 $ en 2004.
+[8] L’appelant a fait les paiements à Cactus Cowboys en 2003 et en 2004 à l’égard de factures établies par Cactus Cowboys. Chaque facture visait [traduction] « tous les services de consultation fournis jusqu’à ce jour » et comportait la mention d’un client ontarien précis de l’appelant. Les factures ne comportaient aucune autre description des services fournis à l’appelant par Cactus Cowboys. Les paiements relatifs à ces factures ont totalisé 92 028 $ en 2003 et 163 712 $ en 2004. Les paiements correspondaient à peu de choses près aux montants que l’appelant avait facturés à ses clients ontariens.
+[9] L’appelant n’a pas déclaré les honoraires qu’il avait reçus de ses clients ontariens dans ses déclarations de revenu pour 2003 et 2004. Il n’a pas non plus demandé de déductions ces années-là à l’égard des paiements à Cactus Cowboys. Il a affirmé qu’il s’agissait là d’une erreur[2] commise par son comptable et qu’il avait toujours eu l’intention d’inclure dans son revenu imposable les honoraires qu’il avait reçus de ses clients ontariens et de demander une déduction compensatoire à l’égard des paiements à Cactus Cowboys.
+[10] Le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations à l’égard de Cactus Cowboys le 3 avril 2007 dans lesquelles les paiements que celle‑ci avait reçus ont été retirés de son revenu.
+[11] Le 29 mars 2007, le ministre a établi de nouvelles cotisations à l’égard de l’appelant relativement à ses années d’imposition 2003 et 2004. Dans les nouvelles cotisations, la déduction demandée à l’égard des paiements à Cactus Cowboys était refusée. Le ministre a donc inclus dans le revenu de l’appelant les honoraires qu’il avait reçus de ses clients ontariens au cours des années en cause et a refusé d’accorder toute déduction à l’égard des paiements à Cactus Cowboys.
+[12] L’appelant soutient que les paiements à Cactus Cowboys ont été faits en contrepartie de services que Cactus Cowboys avait fournis à l’appelant. L’avocat de l’appelant a allégué que, lorsque l’appelant avait fourni les services, il l’avait fait en sa qualité d’employé de Cactus Cowboys et non à titre personnel en tant qu’avocat. Il a soutenu que les paiements à Cactus Cowboys étaient déductibles, étant donné qu’ils avaient été faits afin de permettre à l’appelant de gagner un revenu et qu’ils étaient raisonnables.
+[13] L’intimée soutient que Cactus Cowboys n’a fourni aucun service à l’appelant. Les seuls services qui ont été fournis sont ceux que l’appelant a fournis à ses clients. L’intimée a fait valoir que l’appelant tentait simplement de transférer des revenus tirés de sa pratique du droit à Cactus Cowboys, qui avait subi d’importantes pertes autres qu’en capital.
+[14] Le deuxième point en litige relatif à l’impôt sur le revenu concerne l’inclusion dans le revenu de l’appelant de certains montants figurant sur des factures qu’il avait établies.
+[15] Au cours de chacune des années d’imposition 2003 et 2004, l’appelant a adressé une seule facture à Cactus Cowboys pour des [traduction] « services professionnels fournis ». Ces factures ne comportaient aucune autre description des services fournis. La première facture, datée du 3 décembre 2003, était de 12 500 $, plus la TPS. La deuxième facture, datée du 30 décembre 2004, était de 28 000 $, plus la TPS.
+[16] L’appelant a inclus le montant de 12 500 $ dans le calcul de son revenu imposable pour l’année d’imposition 2003 et le montant de 28 000 $ dans le calcul de son revenu pour l’année d’imposition 2004. De même, Cactus Cowboys a déduit des montants de 12 500 $ et 28 000 $ dans le calcul de son revenu imposable pour ces années.
+[17] Lorsqu’il a établi les nouvelles cotisations à l’égard de l’appelant et de Cactus Cowboys, le ministre n’a pas rajusté les montants inclus dans le revenu de l’appelant ni les montants déduits par Cactus Cowboys.
+[18] L’avocat de l’appelant a soutenu qu’en refusant à l’appelant la déduction des paiements à Cactus Cowboys et en incluant dans son revenu les montants de 12 500 $ et de 28 000 $ qu’il avait facturés à Cactus Cowboys, le ministre avait comptabilisé en double les montants que l’appelant avait facturés relativement au travail accompli pour le compte de ses clients ontariens.
+[19] L’avocat de l’intimée a fait valoir que les factures de l’appelant à Cactus Cowboys étaient des factures légitimes relatives à des services professionnels que l’appelant avait fournis.
+Le droit
+[20] Comme l’avocat de l’appelant l’a affirmé dans ses observations finales, la présente affaire doit être tranchée en fonction des faits qui lui sont propres.
+[21] L’appelant a le fardeau d’établir que les paiements à Cactus Cowboys ont été faits en contrepartie de services fournis par Cactus Cowboys, que ces services, s’ils ont effectivement été fournis, ont été obtenus par l’appelant en vue de tirer un revenu de sa pratique du droit, et, enfin, que les paiements à Cactus Cowboys étaient raisonnables.
+Le témoignage de l’appelant
+[22] Les parties ont déposé un recueil conjoint de documents; cependant, le témoignage de l’appelant a constitué le gros de sa preuve concernant les paiements à Cactus Cowboys.
+[23] L’appelant a commencé son témoignage en résumant ses activités liées au régime ontarien d’indemnisation pour dommages corporels. Il a mentionné qu’à la fin de 1996, l’Ontario avait instauré un nouveau régime d’indemnisation des personnes ayant été blessées lors d’accidents de la route. L’appelant a décrit le nouveau régime comme un régime hybride; il comportait un volet « sans égard à la faute », mais, s’il était satisfait à certains critères, la partie lésée pouvait intenter une action en responsabilité civile délictuelle.
+[24] Apparemment, le régime était compliqué et, aux dires de l’appelant, afin de s’en prévaloir, il fallait faire appel à une personne ayant des connaissances spécialisées.
+[25] L’appelant a représenté son premier client ontarien ayant subi des dommages corporels en janvier 1998 et, à l’été 1998, quatre autres personnes avaient fait appel à ses services pour obtenir des conseils relativement à des demandes d’indemnisation en vertu du régime ontarien d’indemnisation pour dommages corporels. L’appelant s’est aperçu qu’il s’agissait là d’une excellente source de nouveau travail, et il a commencé à acquérir les connaissances nécessaires à cet égard.
+[26] L’appelant a affirmé qu’il n’avait pas acquis personnellement les connaissances nécessaires et que, à son avis, c’était plutôt Cactus Cowboys qui avait acquis ces connaissances, et ce, par l’intermédiaire de l’appelant qui, en sa qualité d’employé de Cactus Cowboys, avait assisté à de nombreux séminaires offerts par le Barreau du Haut-Canada et l’Independent Insurance Adjusters Association de l’Ontario. L’appelant a aussi appelé plusieurs avocats à Thunder Bay[3] pour discuter de la nouvelle loi ontarienne.
+[27] L’appelant a affirmé qu’en 1998 et en 1999, Cactus Cowboys avait supporté le coût de copies de la loi ontarienne, de la participation de l’appelant aux séminaires et des chambres d’hôtel où il avait passé la nuit pour participer aux séminaires, et que Cactus Cowboys avait payé les frais de représentation que l’appelant avait supportés pendant qu’il participait aux séminaires. L’appelant n’a fourni aucun élément de preuve documentaire à l’appui de son témoignage.
+[28] Selon l’appelant, après qu’il eut acquis les connaissances nécessaires, Cactus Cowboys a commencé à donner des avis d’expert relativement au règlement de demandes d’indemnisation pour dommages corporels subis lors d’accidents de la route présentées en vertu de la loi ontarienne. L’appelant a mentionné qu’avant 2008, les personnes qui n’étaient pas des avocats étaient autorisées à fournir des conseils concernant la loi ontarienne.
+[29] L’appelant [traduction] « a eu l’idée » d’utiliser Cactus Cowboys en 1998. Il a demandé conseil à son comptable. Ce dernier pensait qu’il était acceptable d’utiliser une société comme Cactus Cowboys pour acquérir les connaissances spécialisées au sujet de la loi ontarienne. L’appelant n’a fourni aucune documentation prouvant les conseils donnés par le comptable.
+[30] L’appelant a affirmé que Cactus Cowboys avait fourni ses services principalement à son cabinet d’avocat. Il a affirmé que Cactus Cowboys lui avait fourni des conseils relativement à des questions comme le rapport entre les indemnités pour accident en vertu de la loi ontarienne et les montants que devait payer la société d’assurance de l’auteur du délit, quoi faire dans les cas où la loi ne prévoyait aucun recours, et comment déterminer quelle société d’assurance était tenue d’indemniser son client des blessures qu’il avait subies.
+[31] Il a affirmé qu’il n’avait pas conclu de contrat écrit avec Cactus Cowboys. En fait, il semble n’y avoir eu aucune correspondance entre Cactus Cowboys et l’appelant relativement à la nature des services fournis par Cactus Cowboys. En outre, l’appelant n’a présenté à la Cour aucune copie de notes de service ou de courriels ou de tout autre correspondance attestant le produit du travail de Cactus Cowboys. Le seul élément de preuve documentaire dont la Cour dispose relativement aux services fournis par Cactus Cowboys, ce sont les copies de factures que Cactus Cowboys a adressées à l’appelant.
+[32] L’appelant a affirmé que Cactus Cowboys lui avait facturé ses services au terme de chaque affaire, étant donné que c’était à ce moment que l’appelant était payé par la société d’assurance en cause (il semblerait que la plupart des clients, sinon tous, aient retenu les services de l’appelant moyennant des honoraires dépendant des résultats). Le recueil conjoint de documents comportait des exemples de cette facturation. L’appelant a expliqué que cette facturation se faisait toujours ainsi :
+· L’appelant facturait au particulier qui avait engagé ses services un certain montant à titre d’honoraires d’avocat, plus les débours, et plus la TPS.
+· Le jour même où le client était facturé, ou le lendemain ou le surlendemain, Cactus Cowboys facturait à l’appelant un montant égal aux honoraires d’avocat facturés au client, plus les débours figurant sur la facture qui étaient assujettis à la TPS[4].
+· Les honoraires de l’appelant provenaient des montants de règlement payés par la société d’assurance en cause. Après avoir reçu ses honoraires provenant du paiement du montant du règlement, l’appelant payait le montant facturé par Cactus Cowboys relativement au client en cause[5].
+[33] Dans chacune des factures adressées à ses clients, l’appelant résumait les divers services juridiques qu’il avait fournis. Les factures mentionnaient des choses comme la participation à des interrogatoires préalables, la rédaction de documents, la signification de documents et des conversations téléphoniques. Aucune des factures que Cactus Cowboys a adressées à l’appelant ne comportait de description de la nature des services fournis, mis à part un commentaire général selon lequel la facture était établie au titre de [traduction] « tous les services de consultation fournis jusqu’à ce jour ».
+Analyse
+[34] Je commencerai mon analyse en signalant que, pour les motifs exposés ci‑dessous, j’ai accordé très peu de poids au témoignage de vive voix de l’appelant.
+[35] Mes réserves à l’égard de la preuve orale de l’appelant sont illustrées par son témoignage relatif à ce qui suit : le recours aux services de tiers par Cactus Cowboys, la fourniture de services par Cactus Cowboys à d’autres avocats que l’appelant et la nature du travail accompli par Cactus Cowboys.
+La fourniture de services par Cactus Cowboys à d’autres avocats que l’appelant
+[36] L’appelant a affirmé que Cactus Cowboys avait fourni des services de consultation à d’autres avocats. Dans une lettre au vérificateur de l’Agence du revenu du Canada (l’« ARC ») datée du 23 février 2007[6], Me Robert Lee, du cabinet Aikins, MacAulay & Thorvaldson (un des avocats de l’appelant), a affirmé : [traduction] « Toutefois, dans le passé, la société [Cactus Cowboys] a fourni des services de consultation à d’autres parties à titre gratuit, dans l’espoir de développer ses activités de consultation. »
+[37] Lors de son contre-interrogatoire, le témoin, contredisant son avocat, a affirmé que Cactus Cowboys avait fourni des conseils à certains tiers moyennant honoraires, [traduction] « dépendant du type d’avis qui était demandé et certainement de la question de savoir si l’avis devait être donné par écrit ou non. »[7] L’histoire a changé encore une fois lorsque la Cour a interrogé l’appelant.
+[38] Après que l’appelant eut confirmé que Cactus Cowboys avait donné des avis à des tiers moyennant honoraires, je lui ai demandé comment un avis juridique pouvait être donné sur le papier à en-tête de Cactus Cowboys. L’appelant a semblé dire que le document écrit n’était pas un avis, mais plutôt un résumé de ce qu’il croyait être la situation sous le régime ontarien[8].
+[39] L’appelant n’a produit aucune facture ni aucune autre documentation attestant l’établissement de factures par Cactus Cowboys à des tiers. En outre, il n’a pas présenté à la Cour des copies des avis écrits qu’il prétendait que Cactus Cowboys avait donnés aux tiers en question. Lorsque l’avocat de l’intimée lui a demandé pourquoi il n’avait pas produit de tels éléments de preuve, l’appelant a affirmé que, comme l’intimé n’avait pas demandé les renseignements, il n’avait pas éprouvé le besoin de les déposer auprès de la Cour.
+Le recours aux services de tiers par Cactus Cowboys
+[40] L’appelant a affirmé que Cactus Cowboys avait eu recours aux services d’avocats ontariens pour que ceux-ci lui fournissent des conseils dans des domaines où elle ne possédait pas les compétences nécessaires. Il a donné deux exemples.
+[41] Le premier exemple était celui de conseils qui auraient été fournis à Cactus Cowboys en 2004. L’appelant a affirmé que Cactus Cowboys avait eu recours aux services d’un stagiaire en droit travaillant pour un cabinet d’avocats ontarien afin de mener une recherche relativement à une question qui s’était posée dans une affaire de dommages corporels. Le seul élément de preuve documentaire que l’appelant a fourni à cet égard est une copie d’un chèque au montant de 2 402 $[9]. L’appelant a affirmé que Cactus Cowboys avait fait le chèque à l’ordre du cabinet d’avocats qui employait le stagiaire en droit. La ligne [traduction] « objet » du chèque avait été laissée en blanc. Bien que l’appelant ait affirmé que le stagiaire en droit avait donné un avis écrit à Cactus Cowboys, il n’a pas présenté à la Cour une copie de l’avis écrit. L’appelant ne parvenait pas à se souvenir si l’avis lui avait été adressé (c.-à-d. à son cabinet d’avocat) ou s’il avait été adressé à Cactus Cowboys. En outre, l’appelant n’a pas présenté de copie de communication écrite ou électronique entre Cactus Cowboys et le stagiaire en droit (ou son cabinet), ni de copie de la facture établie par le cabinet d’avocats.
+[42] Le deuxième exemple concernait des conseils que le cabinet d’avocats ontarien Martin, Scrimshaw, Scott aurait fournis à Cactus Cowboys en 2004. Encore une fois, l’appelant n’a produit aucun élément de preuve documentaire à l’appui de son témoignage, mis à part une copie d’un chèque fait par Cactus Cowboys à l’ordre du cabinet d’avocats. Il n’a pas présenté à la Cour de copies de l’avis, de la correspondance avec le cabinet d’avocats ou de la facture que ce dernier aurait établie. Il ne parvenait pas à se souvenir de la question relativement à laquelle des recherches avaient été effectuées ni du nom du dossier y afférent.
+La nature du travail accompli par Cactus Cowboys
+[43] La cause de l’appelant reposait essentiellement sur son témoignage selon lequel Cactus Cowboys lui avait fourni des conseils relativement à des personnes qui avaient subi des dommages corporels lors d’accidents de la route. Sous l’onglet 20 du recueil conjoint de documents se trouvaient vingt‑cinq exemples de factures que Cactus Cowboys avait adressées à l’appelant en 2004. Chaque facture comporte une ligne relative à son objet, sur laquelle figurait, selon le témoignage de l’appelant, le nom du client concerné de l’appelant. Par exemple, la facture de Cactus Cowboys à la page 1 de l’onglet 20 du recueil conjoint de documents comporte un montant de 3 733 $, plus la TPS, et on y mentionne qu’il s’agit d’une facture établie pour [traduction] « tous les services de consultation fournis jusqu’à ce jour » relativement à un client de l’appelant qui est identifié, à la ligne relative à l’objet de la facture, comme « Besyk ». L’appelant a affirmé que « Besyk » était une personne qui avait subi des dommages corporels lors d’un accident de la route en Ontario.
+[44] Si j’ai des réserves au sujet du témoignage de l’appelant sur ce point, c’est parce que sept des vingt-cinq factures sous l’onglet 20 renvoient à un client de l’appelant qui est une société. Évidemment, les sociétés n’ont pas subi de dommages corporels lors d’accidents de la route. Lorsqu’on a demandé à l’appelant d’expliquer cette incohérence, j’ai trouvé sa réponse évasive. Il a affirmé qu’il n’avait pas examiné ces dossiers et qu’il ne parvenait pas à se souvenir quels services il avait fournis aux clients qui étaient des sociétés[10].
+[45] Les factures sous l’onglet 20 ne sont pas compatibles avec le témoignage de l’appelant selon lequel les paiements à Cactus Cowboys étaient liés à des services fournis relativement à des personnes. Cependant, les factures sont compatibles avec une note du 1er novembre 2006 que le comptable de l’appelant a envoyée au vérificateur de l’ARC. Le comptable affirme dans la note que [traduction] « la pratique du droit de Greg [l’appelant] génère des honoraires du Manitoba et de l’Ontario, et les honoraires que Greg tire de son cabinet d’avocat plaidant en Ontario sont déclarés dans Cactus Cowboys Inc., numéro d’entreprise 894925031RC0001. Tous les autres honoraires sont déclarés dans la déclaration de revenus personnelle de Greg, plus précisément à l’annexe T2124. »[11]
+[46] Le recueil conjoint de documents comportait deux documents financiers, que l’appelant a décrits comme étant les états des résultats de sa pratique du droit en Ontario[12]. Ces documents indiquent que les paiements à Cactus Cowboys étaient égaux au total des revenus que l’appelant avait reçus de ses clients ontariens. L’appelant a affirmé qu’en plus de donner des conseils en matière de dommages corporels, il avait fourni des conseils juridiques à ses clients ontariens relativement à des questions touchant le droit immobilier et le droit de la famille.
+[47] Compte tenu de ces éléments de preuve documentaire, j’ai conclu que les paiements à Cactus Cowboys étaient liés à l’ensemble de la pratique du droit de l’appelant en Ontario, et non uniquement au volet de sa pratique qui touchait le domaine des dommages corporels.
+[48] Les trois exemples précités du témoignage de l’appelant sont compatibles avec une part importante de son témoignage. Ils illustrent pourquoi j’ai accordé peu de poids à son témoignage de vive voix.
+[49] Je suis particulièrement préoccupé par le fait que la quasi-totalité des éléments de preuve de l’appelant se trouve dans sa preuve orale, à savoir dans son propre témoignage. Il n’a produit aucun élément de preuve documentaire à l’égard des activités de Cactus Cowboys. En particulier, il n’a produit :
+· aucune communication écrite ou électronique entre lui et Cactus Cowboys démontrant l’existence d’une entente relative à la fourniture de services à l’appelant par Cactus Cowboys;
+· aucun élément de preuve documentaire démontrant qu’il aurait été un employé de Cactus Cowboys;
+· aucun document, comme des copies de notes, de lettres ou de courriels, prouvant le produit du travail que Cactus Cowboys aurait accompli.
+[50] L’appelant est un avocat plaidant expérimenté qui connaît l’importance des éléments de preuve documentaire. Il n’a pas expliqué pourquoi il n’avait produit aucun des éléments de preuve documentaire susmentionnés. J’ai donc tiré une conclusion défavorable de cette omission : soit la documentation n’existe pas ou, si elle existe, elle est incompatible avec son témoignage.
+[51] Comme je l’ai mentionné précédemment, l’appelant a le fardeau d’établir qu’il a fait les paiements à Cactus Cowboys en contrepartie de services fournis par Cactus Cowboys. Il ne s’est pas acquitté de ce fardeau. Je ne dispose d’aucun élément de preuve fiable qui puisse étayer la conclusion de fait selon laquelle Cactus Cowboys aurait fourni des services à l’appelant.
+[52] Après avoir examiné l’ensemble des éléments de preuve, j’ai conclu que les seuls services qui ont été fournis sont les services juridiques que l’appelant a fournis à ses clients.
+[53] L’avocat de l’appelant a soutenu que les affaires comme celle-ci dépendaient des faits qui lui étaient propres. C’est juste. Les éléments de preuve dont je dispose n’étayent pas la position de l’appelant. Les éléments de preuve étayent la position de l’avocat de l’intimée selon laquelle l’appelant a simplement tenté de transférer à Cactus Cowboys des revenus tirés de sa pratique du droit.
+[54] Le deuxième point en litige relatif à l’impôt sur le revenu concerne l’inclusion dans le revenu de l’appelant de montants que l’appelant a facturés à Cactus Cowboys.
+[55] L’appelant a affirmé qu’il n’était pas [traduction] « juste » que Cactus Cowboys conserve la totalité des honoraires et des débours facturés à ses clients ontariens. Il avait décidé que Cactus Cowboys devrait lui payer un montant en contrepartie de ses services juridiques. Il avait déterminé qu’environ 15 % des montants facturés à ses clients représentaient une contrepartie raisonnable pour ses services juridiques. Il a affirmé qu’il avait ensuite établi une facture de 12 500 $ au cours du dernier mois de 2003, puis une facture de 28 000 $ au cours du dernier mois de 2004. Des copies des factures ont été incluses dans le recueil conjoint de documents. Les factures décrivent les services fournis comme suit : [traduction] « Pour tous les services professionnels qui vous ont été fournis relativement à Cactus Cowboys »[13]. L’appelant n’a présenté aucun élément de preuve documentaire à la Cour pour établir un lien entre les paiements à Cactus Cowboys et les factures annuelles qu’il avait adressées à Cactus Cowboys.
+[56] Compte tenu des éléments de preuve dont la Cour dispose, je conviens avec l’avocat de l’intimée que les factures semblent être des factures légitimes relatives à des services fournis. Les factures mentionnent tous les services professionnels fournis relativement à Cactus Cowboys. Il ressort clairement des états financiers inclus dans le recueil conjoint de documents que les activités exercées par Cactus Cowboys dans le domaine des écuries et des chevaux sont importantes. Généralement, l’entreprise qui exerce des activités de cette envergure a besoin, tôt ou tard, de conseils juridiques. En conséquence, je ne vois pas pourquoi je devrais déduire du revenu imposable de l’appelant des honoraires d’avocats constatés par une facture valide établie par un avocat (l’appelant) relativement à des services juridiques.
+[57] Pour les motifs qui précèdent, les appels de l’appelant concernant des questions relatives à l’impôt sur le revenu sont rejetés, avec dépens en faveur de l’intimée.
+L’appel relatif à la TPS
+[58] Dans ses déclarations de TPS pour les périodes de déclaration qui ont commencé le 1er janvier 2003 et se sont terminées le 31 décembre 2004 (les « périodes de déclaration de la TPS »), l’appelant n’a déclaré aucune taxe nette relativement à ses clients ontariens. Il n’a pas déclaré de TPS perçue ou à percevoir et n’a pas demandé de crédits de taxe sur les intrants.
+[59] Lorsqu’il a établi une cotisation à l’égard de l’appelant pour les périodes de déclaration de la TPS, le ministre a augmenté la taxe nette de l’appelant de 17 901,80 $, soit le montant de la TPS perçue ou à percevoir relativement aux fournitures que l’appelant avait effectuées à ses clients ontariens. Le ministre n’a accordé aucun crédit de taxe sur les intrants au titre des paiements à Cactus Cowboys.
+[60] Les deux parties ont admis le fait que l’appelant avait payé de la TPS à Cactus Cowboys relativement aux paiements à Cactus Cowboys, que Cactus Cowboys avait versé la TPS, et que le montant de TPS en question était égal au montant de la TPS devant être payée par les clients ontariens de l’appelant.
+[61] L’intimée a soutenu que l’appelant n’avait droit à aucun crédit de taxe sur les intrants en vertu du paragraphe 169(1) de la partie IX de la Loi sur la taxe d’accise (la « loi relative à la TPS »), étant donné qu’il n’avait obtenu aucun service de Cactus Cowboys. Les paiements à Cactus Cowboys étaient simplement des transferts de fonds. L’avocat de l’intimée a aussi invoqué le fait que l’ARC avait remboursé à Cactus Cowboys la TPS relative aux paiements à Cactus Cowboys.
+[62] Je ne comprends pas très bien pour quelle raison le ministre a remboursé la TPS à Cactus Cowboys. Le paragraphe 225(1) de la loi relative à la TPS exige que la personne visée ajoute à sa taxe nette tous les montants perçus ou percevables par elle au titre de la taxe. Il ressort clairement des factures incluses sous les onglets 19, 20 et 22 de la pièce R‑1 que Cactus Cowboys a perçu les montants en question à titre de taxe, et que ces montants devaient donc être versés en application du paragraphe 225(1) de la loi relative à la TPS. Je ne connais aucune disposition de la loi relative à la TPS qui accorde au ministre le pouvoir discrétionnaire de rembourser à un inscrit un montant de taxe que l’inscrit a remis à juste titre. L’article 232 de la loi relative à la TPS permet à un inscrit, comme Cactus Cowboys, de demander un crédit lorsqu’il rembourse un montant perçu par erreur au titre de la taxe et remet une note de crédit en la forme prescrite. L’appelant a affirmé que cela ne s’était pas produit, et l’intimée n’a pas soutenu que Cactus Cowboys avait remboursé la taxe à l’appelant ni qu’elle avait remis la note de crédit prévue par la loi.
+[63] La question de savoir si l’ARC a remboursé de la taxe à Cactus Cowboys n’est pas pertinente lorsqu’il s’agit de savoir si l’appelant avait droit à des crédits relativement aux paiements à Cactus Cowboys.
+[64] Lorsqu’il a établi la cotisation relative à la taxe nette de l’appelant, le ministre était tenu, en vertu des paragraphes 296(2) et (2.1) de la loi relative à la TPS, de tenir compte de tout crédit de taxe sur les intrants ou remboursement que l’appelant avait le droit de demander au cours de la période de déclaration visée. En d’autres mots, le ministre avait l’obligation légale de vérifier la taxe nette.
+[65] L’appelant a payé des montants à Cactus Cowboys au titre de la taxe. Cependant, Cactus Cowboys n’a pas effectué une fourniture à l’appelant. En conséquence, toute la taxe payée par l’appelant relativement aux paiements à Cactus Cowboys a été payée par erreur. L’appelant avait le droit de demander, en vertu de l’article 261 de la loi relative à la TPS, un remboursement au titre de la taxe payée par erreur. Lorsqu’il a établi la cotisation relative à la taxe nette de l’appelant, le ministre était tenu, en vertu du paragraphe 296(2.1) de la loi relative à la TPS, de déduire de la taxe nette de l’appelant le remboursement auquel il avait droit au titre d’un montant de taxe payé par erreur.
+[66] Pour ces motifs, l’appel interjeté à l’encontre de la cotisation établie en vertu de la loi relative à la TPS pour les périodes de déclaration de l’appelant qui ont commencé le 1er janvier 2003 et se sont terminées le 31 décembre 2004, est accueilli sans dépens. La cotisation, datée du 15 mars 2007, est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation sur le fondement que le ministre était tenu de déduire de la taxe nette de l’appelant le montant de TPS que l’appelant avait payé pendant les périodes de déclaration visées relativement aux paiements à Cactus Cowboys.
+Signé à Antigonish (Nouvelle-Écosse), ce 27e jour d’août 2010.
+« S. D’Arcy »
+Juge D'Arcy
+Traduction certifiée conforme
+ce 2e jour de décembre 2010.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2010 CCI 449
+No DU DOSSIER DE LA COUR : 2008-1387(IT)G
+2009-470(GST)G
+INTITULÉ : GREGORY J. WELCH c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 8 avril 2010
+MOTIFS DU JUGEMENT : L’honorable juge Steven K. D'Arcy
+DATE DU JUGEMENT : Le 27 août 2010
+COMPARUTIONS :
+Pour l’appelant :
+Me Gregory M. Fleetwood
+Pour l’intimée :
+Me Cameron G. Regehr
+AVOCATS INSCRITS AU
+DOSSIER :
+Pour l’appelant :
+Nom : Gregory M. Fleetwood
+Cabinet : Aikins, MacAulay & Thorvaldson LLP
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Apparemment, le Manitoba a adopté ce régime en 1994.
+[2] L’appelant a affirmé qu’il s’était seulement rendu compte de l’erreur lorsqu’il avait reçu le recueil de documents de l’intimée en octobre 2009.
+[3] Il avait pratiqué le droit antérieurement à Thunder Bay.
+[4] La Cour ne sait pas très bien pourquoi les paiements à Cactus Cowboys étaient fondés, en partie, sur les débours assujettis à la TPS. Je conviens avec l’avocat de l’intimée que les paiements ont probablement été calculés en divisant le montant total de la TPS figurant sur la facture adressée au client de l’appelant par 0,07 $ (le taux de la TPS).
+[5] Le montant du paiement à Cactus Cowboys était généralement égal au montant perçu sur le montant du règlement payé par la société d’assurance.
+[6] Pièce R-1, onglet 1.
+[7] Transcription, à la page 122.
+[8] Transcription, à la page 152.
+[9] Pièce R-1, onglet 26.
+[10] Bien qu’il ne soit pas parvenu à se souvenir des services précis qui auraient été fournis, il pensait que les services devaient se rapporter à un employé d’une société qui avait eu un accident de la route. Il n’a produit aucune documentation à l’appui de cette hypothèse.
+[11] Pièce R-1, onglet 17.
+[12] Pièce R-1, onglets 32 et 34.
+[13] Pièce R-1, onglets 24 et 25.

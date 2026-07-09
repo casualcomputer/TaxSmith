@@ -1,0 +1,119 @@
+Title: Raja c. Le Roi
+Source: https://norma.lexum.com/tcc-cci/decisions/fr/item/521323/index.do
+Corpus path: corpus/cases/tcc/2024/2024-cci-118-521323-raja-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2024-09-10
+
+# Raja c. Le Roi
+
+- Citation: 2024 CCI 118
+- Decision date: 2024-09-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5498, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Raja c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-09-10
+Référence neutre
+2024 CCI 118
+Numéro de dossier
+2023-2083(IT)APP
+Juges et Officiers taxateurs
+Michael U. Ezri
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2023-2083(IT)APP
+ENTRE :
+SULAKSHANA RAJA,
+requérante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête présentée par la requérante pour un nouvel examen de l’ordonnance datée du 14 août 2024.
+Devant : l’honorable juge Michael U. Ezri.
+Observations écrites :
+Pour la requérante :
+Me Vinod Raja
+Avocate de l’intimé :
+Me Rameek Kaur Sidhu
+ORDONNANCE
+ATTENDU qu’une requête datée du 22 août 2024 déposée par la requérante pour [traduction] « interjeter appel de la décision du juge Michael Ezri rendue le 14 août 2024 » en se fondant sur l’alinéa 168b) des Règles de la Cour canadienne de l’impôt (procédure générale), requête qui a été décrite par la requérante dans une lettre datée du 27 août 2024 comme un [traduction] « Avis de requête déposé le 22 août 2024 en vue d’un nouvel examen »;
+APRÈS avoir lu les observations des parties;
+LA COUR ORDONNE :
+La requête de la requérante est rejetée sans dépens conformément aux motifs de l’ordonnance ci-jointe.
+Signé à Ottawa, Canada, ce 10e jour de septembre 2024.
+« Michael Ezri »
+Le juge Ezri
+Traduction certifiée conforme
+ce 27e jour de mai 2025.
+Guillaume Chénard, jurilinguiste principal
+Référence : 2024 CCI 118
+Date : 20250319
+Dossier : 2023-2083(IT)APP
+ENTRE :
+SULAKSHANA RAJA,
+requérante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS MODIFIÉS DE L’ORDONNANCE
+Le juge Ezri
+I. Les faits [1] Cette requête est présentée par la requérante, Sulakshana Raja, en vue d’un nouvel examen d’une ordonnance datée du 14 août 2024 rejetant une demande de prolongation du délai pour déposer des appels des cotisations émises pour les années d’imposition 2007, 2010 et 2011 de la requérante. Les motifs oraux ont été donnés le 13 août 2024 à la suite de l’audience de la demande de prolongation du délai.
+[2] La requérante demande un nouvel examen en soutenant que lors de l’audience de la présente demande, je n’ai pas été informé que la requérante avait tenté de déposer un avis d’appel le 12 septembre 2023. Cette date se situe dans un délai d’un an et 90 jours suivant la date du 16 juin 2022 sur les avis de confirmation des cotisations.
+[3] La requérante se fonde sur l’article 168 des Règles de la Cour canadienne de l’impôt (procédure générale) qui permet à une partie de demander à la Cour un nouvel examen des décisions lorsque le prononcé n’est pas en accord avec les motifs ou on a négligé ou accidentellement omis de traiter dans le jugement d’une question dont on aurait dû traiter. Bien que non mentionné dans la requête, l’article 172 permet à un jugement d’être modifié s’il comporte une erreur découlant d’un lapsus ou d’une omission ou s’il doit être modifié relativement à une question sur laquelle la Cour n’a pas statué.
+II. La loi du Functus Officio [4] Une fois qu’un juge de la Cour rend une décision, il ou elle est, pour utiliser une expression latine, « functus officio ». Cela se traduit par [traduction] « avoir exercé ses fonctions[1] ». La doctrine du functus officio stipule qu’un juge qui a rendu un jugement n’a plus la capacité de corriger le jugement, car il a pleinement rempli l’obligation qui lui incombe. Le but de la doctrine est de donner un caractère définitif à la conduite de la procédure. En l’absence d’une telle finalité, les mêmes questions pourraient être renvoyées devant la même cour encore et encore à mesure que chaque partie soulève de nouvelles preuves et arguments sur l’affaire. Par conséquent, l’absence de finalité prive une cour d’appel d’un dossier stable sur lequel elle pourrait se baser pour réviser les décisions d’une cour de première instance[2].
+[5] Exceptionnellement, les Règles de la Cour canadienne de l’impôt (procédure générale) permettent à la Cour de corriger, « les erreurs légères sans devoir s’adresser à une cour d’instance supérieure lorsque les conditions de l’article 168 sont réunies[3] ».
+III. Aucun fondement pour appliquer l’article 168 ici [6] La décision de la Cour rendue le 14 août 2024 est conforme aux motifs oraux que j’ai énoncés ce jour-là. Aucun élément n’a été omis ou oublié par inadvertance. La Cour a été appelée à décider si la requérante pouvait prolonger le délai pour déposer un avis d’appel et elle a tranché cette question.
+[7] Cette requête vise à expliquer davantage les faits et les circonstances qui ont mené à la demande de prolongation du délai. L’article 168 traite des lacunes involontaires dans les décisions de la Cour. Il n’offre aucun répit face aux erreurs de fond dans un jugement, et encore moins n’ouvre la porte à la production de nouvelles preuves ou à la présentation d’arguments supplémentaires devant la Cour après la publication d’une décision.
+[8] Même si des motifs de révision en vertu de l’article 168 existaient, les arguments de la requérante sont sans fondement. L’affidavit comprenant l’avis de requête de la requérante atteste qu’elle a tenté de déposer un appel le 12 septembre 2023, mais que [traduction] « La Cour canadienne de l’impôt à Calgary a incorrectement refusé de déposer lesdits appels en déclarant que le délai de dépôt était expiré, ce qui était incorrect[4]. »
+[9] Si l’on prend au pied de la lettre la preuve par affidavit dans l’affidavit, la requérante a tout simplement tort. Le Registre de la Cour canadienne de l’impôt n’a pas commis d’erreur en rejetant toute tentative de dépôt d’un avis d’appel le 12 septembre 2023.
+[10] Le délai pour déposer l’avis d’appel a expiré 90 jours après le 16 juin 2022, c’est-à-dire à la mi-septembre 2022. Il n’était pas loisible pour la requérante de déposer un avis d’appel presque un an plus tard, le 12 septembre 2023. Comme je l’ai expliqué à la requérante dans mes motifs oraux, ce qu’elle aurait pu déposer le 12 septembre 2023 était une demande de prorogation du délai, mais elle ne l’a pas fait. Aucune demande de ce type n’a été reçue avant le 2 octobre 2023. À ce moment-là, il était trop tard, car plus d’un an et 90 jours s’étaient écoulés depuis la date du 16 juin 2022 de l’avis de confirmation.
+[11] Par conséquent, cette requête en vue d’un nouvel examen doit être rejetée, sans dépens.
+Les présents motifs modifiés de l’ordonnance remplacent les motifs de l’ordonnance du 10 septembre 2024. La correction apportée paraît à la note de bas de page no 3, à la page 2, de la version anglaise des présents motifs.
+Signé à Montréal (Québec), ce 19e jour de mars 2025.
+« Michael Ezri »
+Le juge Ezri
+Traduction certifiée conforme
+ce 27e jour de mai 2025.
+Guillaume Chénard, jurilinguiste principal
+RÉFÉRENCE :
+2024 CCI 118
+NO DU DOSSIER DE LA COUR :
+2023-2083(IT)APP
+INTITULÉ :
+SULUKSHANA RAJA ET SA MAJESTÉ LE ROI
+REQUÊTE RENVOYÉE AU JUGE :
+Semaine du 2 septembre 2024
+MOTIFS MODIFIÉS DE L’ORDONNANCE :
+L’honorable juge Michael U. Ezri
+DATE DES MOTIFS MODIFIÉS DE L’ORDONNANCE :
+Le 19 mars 2025
+COMPARUTIONS :
+Pour la requérante :
+Me Vinod Raja
+Avocate de l’intimé
+Me Rameek Kaur Sidhu
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimé :
+Me Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Voir, Wong, Anna, SP, « The Doctrine of Functus Officio: The Changing Face of Finality’s Old Guard » (2020), CBR, vol. 98 no 3, 543, à la p. 546.
+[2] Ibid., p. 547 et 548.
+[3] Nicholls c. La Reine, 2011 CCI 272, par. 12.
+[4] Non souligné dans l’original.

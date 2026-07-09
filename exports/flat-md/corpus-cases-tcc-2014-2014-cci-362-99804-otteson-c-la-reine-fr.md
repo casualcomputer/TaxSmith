@@ -1,0 +1,200 @@
+---
+title: "Otteson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/99804/index.do"
+last_modified: "2014-12-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 362"
+citation2: ""
+neutral_citation: "2014 CCI 362"
+decision_date: "2014-12-02"
+language: "fr"
+item_id: "99804"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5228
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:36:49.979000+00:00"
+cases_cited_count: 13
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fd8041bd76a268c7f9b446a062b367846e903bb5eec11dd400b062d30956fc95"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Otteson c. La Reine
+
+- Citation: 2014 CCI 362
+- Decision date: 2014-12-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5228, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Otteson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-12-02
+Référence neutre
+2014 CCI 362
+Numéro de dossier
+2012-438(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2012-438(IT)G
+2012-439(IT)G
+ENTRE :
+RONALD OTTESON,
+DONNA OTTESON,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande tranchée suivant l’article 147 des Règles de la Cour canadienne de l’impôt (procédure générale)
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocate des appelants :
+Me Sanjaya R. Ranasinghe
+Avocates de l’intimée :
+Me Gergely Hegedus
+Me Donna Tomljanovic
+ORDONNANCE
+Attendu qu’un jugement a été rendu le 13 août 2014;
+Attendu que les parties devaient fournir des observations écrites sur la question des dépens;
+Attendu que des observations ont été déposées et prises en considération;
+La Cour ordonne que des dépens de 13 000 $, auxquels s’ajoutent des débours de 1 714,50 $, soient adjugés aux appelants, conformément aux motifs ci‑joints.
+Signé à Ottawa, Canada, ce 2e jour de décembre 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 15e jour de janvier 2015.
+M.-C. Gervais
+Référence : 2014 CCI 362
+Date : 20141202
+Dossiers : 2012-438(IT)G
+2012-439(IT)G
+ENTRE :
+RONALD OTTESON,
+DONNA OTTESON,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Hogan
+I. Aperçu
+[1] Les appels interjetés intéressaient la question de savoir si Ronald et Donna Otteson (les « appelants ») avaient droit à une exemption pour gains en capital liés à un bien agricole. J’ai accueilli les appels pour 25,91 des 50,16 acres de terrain aliénés par les appelants et j’ai demandé des observations écrites au cas où les parties ne réussiraient pas à s’entendre sur les dépens. Les deux parties ont déposé des observations écrites et je suis maintenant disposé à trancher la question.
+[2] Les appelants demandent que leur soit adjugée une somme forfaitaire de 20 000 $ (10 000 $ chacun) au titre des dépens et des débours de 1 714,50 $. Ils soutiennent que ces montants se justifient par le fait qu’ils ont en majeure partie obtenu gain de cause dans leurs appels.
+[3] Pour commencer, je crois qu’il est nécessaire de souligner que le calcul des appelants n’est pas tout à fait exact. Ils affirment que la somme de 20 000 $ équivaut à environ 25 % des frais de 65 680 $ qu’ils ont engagés sur la base avocat-client. Or, cette somme équivaut en fait à environ 30 % de ces frais. Il ressort de la jurisprudence que, dans le contexte de l’adjudication des dépens, les pourcentages sont calculés en fonction des honoraires seulement, et non en fonction des honoraires, des débours et de la TPS, comme les appelants l’ont peut‑être fait.
+[4] L’intimée avance que chaque partie devrait supporter ses propres frais en raison du résultat partagé obtenu dans ces appels. Subsidiairement, elle soutient que les dépens devraient être limités à ce que prévoit le tarif B, étant donné qu’aucune circonstance spéciale ne justifie l’adjudication de dépens plus élevés.
+II. Analyse
+[5] Dans ses observations écrites, l’intimée présente plusieurs arguments concernant les principes d’adjudication des dépens, lesquels méritent qu’on s’y attarde.
+[6] Elle avance que, si les dépens sont adjugés après un appel, la règle générale veut qu’ils le soient conformément au tarif. Comme le juge C. Miller l’a souligné récemment dans la décision Henco Industries Limited v. The Queen [1] :
+[traduction] La Cour canadienne de l’impôt a rendu récemment un nombre considérable de décisions sur la question des dépens (voir par exemple Spruce Credit Union c La Reine, Velcro Canada Inc. c La Reine, Sommerer c La Reine, Jolly Farmer Products Inc. c La Reine, General Electric Capital Canada Inc. v The Queen et Dickie v The Queen). La décision Spruce Credit Union donne un résumé particulièrement utile des récentes tendances en matière d’adjudication des dépens à la Cour canadienne de l’impôt. Il est inutile de reproduire les opinions avancées dans toutes ces affaires; il suffit de dire que la Cour canadienne de l’impôt est tout à fait disposée à écarter le tarif et à privilégier une analyse plus approfondie fondée sur les facteurs énoncés au paragraphe 147(1) des Règles de la Cour canadienne de l’impôt (procédure générale). Comme le juge Rothstein l’affirmait déjà en 2002, de manière succincte, dans la décision Consorzio del Prosciutto di Parma c Maple Leaf Meats Inc. :
+Une adjudication de dépens partie-partie ne constitue pas un exercice exact. Il ne s’agit que d’une estimation du montant que la Cour juge approprié à titre de contribution aux dépens avocat‑client de la partie qui a obtenu gain de cause […].
+[7] De plus, dans la décision Dickie v. The Queen, le juge Pizzitelli a fait remarquer ce qui suit [2] :
+[traduction]
+[…] Je suis également conscient que la règle générale veut qu’une partie ayant obtenu gain de cause ait droit aux dépens partie‑partie, comme le juge Bowman, tel était alors son titre, l’a affirmé dans la décision Merchant v. Canada, [1998] 3 DTC 2505, et dans la décision Continental Bank of Canada c. Canada, [1994] A.C.I. no 863 (QL). Toutefois, je partage également l’avis du juge Hogan, qui a soutenu, au paragraphe 26 de la décision General Electric Capital Canada Inc. v. Canada, 2010 TCC 490, 2010 DTC 1353, que, abstraction faite des dépens avocat‑client :
+[…] à mon avis, le comité des règles savait pertinemment qu’il existe de nombreux facteurs pouvant justifier un écart du tarif et l’adjudication des dépens entre parties sur un fondement différent, y compris l’adjudication d’une somme forfaitaire. Le paragraphe 147(3) des Règles confirme cette réalité en énumérant des facteurs précis, puis en ajoutant l’alinéa j), disposition fourre‑tout qui renvoie à « toute autre question pouvant influer sur la détermination des dépens ». Si l’inconduite était le seul cas où la Cour pouvait s’écarter du tarif, le paragraphe 147(3) serait superflu. Les mots que comporte un texte légal ne sont généralement pas considérés comme des mots superflus. […]
+[8] L’intimée affirme que la nouveauté, le caractère unique, la complexité, la difficulté ou le fait que le montant en cause soit très élevé ne constituent pas nécessairement une raison de s’écarter de ce que prévoit le tarif. Cet argument trouve appui dans la décision H.B. Barton Trucking Ltd. c. La Reine [3] , qui soutient la même proposition en se fondant sur la décision du juge Bowman, tel était alors son titre, dans la décision Alemu v. R. [4] .
+[9] Tel que je l’ai souligné dans la décision General Electric Capital Canada Inc. v. The Queen [5] et, comme le juge en chef adjoint Rossiter l’a fait remarquer dans la décision Velcro Canada Inc. c. La Reine [6] , l’analyse du juge Bowman sur la question de la nouveauté, du caractère unique, de la complexité et de la difficulté de l’affaire et de l’importance du montant en cause s’applique au contexte de l’adjudication de dépens sur la base avocat‑client, qui dépassent considérablement les montants prévus au tarif, et soulèvent des questions complètement différentes de celle de la compétence générale que possède la Cour pour exercer son pouvoir discrétionnaire en appliquant les facteurs de l’article 147.
+[10] Je souscris à l’argument de l’intimée suivant lequel la Cour doit faire preuve de prudence dans l’exercice de son pouvoir discrétionnaire et l’exercer en conformité avec les principes établis, mais il est reconnu, de par ces mêmes principes, que la Cour a compétence pour adjuger des dépens dépassant les montants prévus au tarif, en s’appuyant sur les facteurs énoncés à l’article 147.
+[11] En tenant compte de ce contexte, j’appliquerai maintenant les facteurs énoncés à l’article 147 pour fixer des dépens appropriés.
+A. L’issue de l’instance
+[12] Les appelants prétendent avoir [traduction] « en majeure partie obtenu gain de cause » dans leurs appels.
+[13] L’intimée qualifie le résultat de [traduction] « partagé », quoique légèrement en faveur des appelants.
+[14] Selon moi, ce sont les appelants qui ont raison. Ils devaient démontrer, entre autres choses, que le bien était utilisé dans une entreprise agricole exploitée par une société de personnes et que leur intérêt dans cette société satisfaisait aux critères de la définition législative pertinente.
+[15] Bien que, au bout du compte, seulement un peu plus de la moitié du bien donnât droit à l’exemption pour gains en capital, les appelants ont en majeure partie obtenu gain de cause dans l’ensemble. Cela milite en faveur d’une adjudication de dépens plus élevés que le montant prévu au tarif.
+B. Le montant en cause
+[16] Bien que les parties ne s’entendent pas tout à fait sur le montant exact, il est juste de dire que le montant d’impôt dû a été réduit d’environ 150 000 $. L’intimée fait valoir qu’il s’agit d’un montant plutôt modeste qui ne justifie pas des dépens excédant ce que prévoit le tarif et elle souligne que, dans la décision Velcro, l’appelante s’est vu adjuger des dépens de 60 000 $ seulement, alors que le montant en cause se chiffrait à plus de 9 000 000 $.
+[17] À mon avis, il est déraisonnable d’établir un lien direct entre le montant en cause et le montant véritable des dépens adjugés. Dans la détermination d’un montant adéquat pour les dépens, il est plus approprié d’établir quel pourcentage des frais engagés par les parties ayant obtenu gain de cause correspond aux dépens adjugés par la Cour. L’adjudication de dépens vise à compenser les frais juridiques engagés par la partie ayant obtenu gain de cause.
+[18] Compte tenu de cela, il convient de noter que, dans l’affaire Velcro, où le montant en cause se chiffrait à 9 000 000 $, les dépens de 60 000 $ adjugés représentaient environ 17 % des frais engagés par l’appelante dans cette affaire. Il convient également de noter que, dans l’affaire Spruce Credit Union c. La Reine [7] , où le montant en cause était de 7 000 000 $, les dépens de 410 000 $ adjugés représentaient environ 50 % des honoraires payés. Cette différence montre que le montant en cause est simplement un facteur à prendre en considération parmi tous ceux qui sont énoncés à l’article 147.
+[19] Dans l’ensemble, le montant en cause en l’espèce était relativement peu élevé et milite en faveur d’un pourcentage qui pourrait excéder légèrement ce que prévoit le tarif.
+C. L’importance des questions en litige
+[20] Les appelants avancent que les questions en l’espèce revêtaient une [traduction] « importance nationale » et soulevaient de nouveaux arguments. À l’inverse, l’intimée prétend que les questions étaient propres aux faits de l’affaire et ne présentaient aucun intérêt pour une vaste majorité de contribuables.
+[21] À mon avis, l’importance des questions en l’espèce se situe quelque part à mi-chemin entre les deux positions décrites précédemment. La présente affaire comportait effectivement de nouveaux arguments et aura certainement valeur de précédent pour des affaires semblables. Ce facteur milite donc en faveur d’une adjudication de dépens dépassant ce que prévoit le tarif, mais pas par un grand écart.
+D. L’offre de règlement
+[22] La seule offre a été faite par l’intimée : celle‑ci a proposé de régler l’affaire sans dépens si les appelants reconnaissaient qu’ils n’avaient pas droit à l’exemption pour gains en capital. Étant donné que les appelants n’ont pas fait d’offre de règlement, ce facteur ne joue aucun rôle dans la détermination du montant des dépens.
+E. La charge de travail
+[23] L’avocat des appelants leur a facturé 218 heures de travail pour l’affaire, ce qui, selon les appelants, était approprié, compte tenu des questions en litige, de la nouveauté de l’affaire et des deux journées passées en cour. L’intimée souligne que la charge de travail était réduite du fait que tous les documents ont été déposés sur consentement et qu’il n’y a eu aucun témoin expert.
+[24] La charge de travail semble à peu près normale, quoique la nouveauté des arguments signifie effectivement plus de travail en l’espèce que dans une simple affaire courante dont la Cour serait saisie. Ce facteur milite en faveur de dépens dépassant légèrement le tarif.
+F. La complexité des questions en litige
+[25] Les appelants affirment que l’affaire était très complexe, en raison de la complexité des dispositions de la Loi de l’impôt sur le revenu concernant la société de personnes agricole familiale. L’intimée prétend que l’affaire présentait une complexité moyenne et que les faits étaient clairs.
+[26] Je préfère la position des appelants. Les faits étaient peut-être clairs, mais les questions juridiques en litige – et celle de savoir si les appelants satisfaisaient aux critères nécessaires prévus par la loi – présentaient une certaine complexité. Ce facteur fait pencher la balance en faveur de dépens dépassant ce que prévoit le tarif.
+G. La conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance
+[27] Les parties s’accusent l’une l’autre d’avoir prolongé inutilement l’instance. Les appelants allèguent que le refus de l’intimée de reconnaître qu’ils exploitaient une société de personnes allait à l’encontre d’une preuve importante, ce qui a eu pour effet de prolonger l’instance. Les appelants s’insurgent également contre la prétention de l’intimée selon laquelle les terres n’étaient pas utilisées à des fins admissibles.
+[28] À mon avis, ces arguments de l’intimée que contestent les appelantes sont simplement des [traduction] « questions qui font partie des coups normalement portés durant le litige », comme le juge C. Miller l’a mentionné dans la décision Henco, précitée, au paragraphe 14. L’intimée n’a pas prolongé indûment l’instance.
+[29] L’intimée, pour sa part, avance que les appelants ont changé d’idée trois fois dans leur argumentation, ce qui a eu pour effet de prolonger l’audience parce que l’intimée a dû s’adapter à ces changements. Toutefois, bien que j’aie fait état de ces changements dans ma décision [8] , j’ai aussi ajouté que les positions inconciliables des appelants n’avaient causé aucun préjudice à l’intimée sur le plan de l’équité procédurale [9] .
+[30] Par conséquent, ce facteur n’a pas ou à peu près pas d’incidence dans la fixation des dépens.
+III. Conclusion
+[31] Compte tenu des motifs qui précèdent et du fait qu’il n’y a aucun autre facteur à prendre en considération pour fixer les dépens en l’espèce, je crois que les dépens appropriés à adjuger conformément à l’article 147 devraient correspondre à 20 % des frais engagés, plus les débours, à savoir une somme forfaitaire de 13 000 $, plus les débours de 1 714,50 $.
+[32] Cette adjudication est compatible avec un appel en majeure partie couronné de succès où la somme en cause était relativement peu élevée, où les questions en litige étaient nouvelles et avaient valeur de précédent, quoique peu susceptibles d’être très applicables dans l’avenir, où la charge de travail était relativement normale et où le degré de complexité était légèrement élevé.
+Signé à Ottawa, Canada, ce 2e jour de décembre 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 15e jour de janvier 2015.
+M.-C. Gervais
+RÉFÉRENCE :
+2014 CCI 362
+NOS DES DOSSIERS DE LA COUR :
+2012-438(IT)G
+2012-439(IT)G
+INTITULÉ :
+RONALD OTTESON et DONNA OTTESON c. LA REINE
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Les 26 et 27 mars 2014
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Robert J. Hogan
+DATE DE L’ORDONNANCE :
+Le 2 décembre 2014
+COMPARUTIONS :
+Avocate des appelants :
+Me Mme Sanjaya R. Ranasinghe
+Avocates de l’intimée :
+Me Gergely Hegedus
+Me Donna Tomljanovic
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Sanjaya R. Ranasinghe
+Cabinet :
+Felesky Flynn LLP
+Edmonton (
+Alberta
+)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2014 TCC 278, au paragraphe 2.
+[2] 2012 TCC 327, 2012 DTC 1276, au paragraphe 25.
+[3] 2009 CCI 472, 2009 DTC 1308.
+[4] [1999] 3 C.T.C. 2024.
+[5] 2010 TCC 490, 2010 DTC 1353, au paragraphe 24.
+[6] 2012 CCI 273, 2012 DTC 1222.
+[7] 2014 CCI 42, 2014 DTC 1063.
+[8] Otteson c. La Reine, 2014 CCI 250, 2014 DTC 1173, aux paragraphes 25 et 35.
+[9] Ibidem, au paragraphe 38.

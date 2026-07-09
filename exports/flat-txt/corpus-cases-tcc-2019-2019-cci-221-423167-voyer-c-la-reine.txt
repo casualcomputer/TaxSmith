@@ -1,0 +1,296 @@
+Title: Voyer c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/423167/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-221-423167-voyer-c-la-reine.md
+Document type: case_law
+Last modified: 2019-10-15
+
+# Voyer c. La Reine
+
+- Citation: 2019 CCI 221
+- Decision date: 2019-10-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4195, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Voyer c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-10-15
+Référence neutre
+2019 CCI 221
+Numéro de dossier
+2013-3726(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-3726(IT)G
+ENTRE :
+CAROL VOYER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu 16 et 17 novembre 2015 et les 14 et 15 février 2019 à Québec (Québec)
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelant :
+Me Jean-Paul Boily
+Avocat de l’intimée :
+Me Michel Lamarre
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004, 2005 et 2006 est rejeté.
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2007 et 2008 est admis seulement en ce qui a trait aux dépenses encourues pour gagner du revenu d’entreprise, soit les montants de 23 465,32 $ et de 3 370,44 $ pour les années d’imposition 2007 et 2008 réciproquement.
+Les dépens sont en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 15e jour d’octobre 2019.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2019 CCI 221
+Date : 20191015
+Dossier : 2013-3726(IT)G
+ENTRE :
+CAROL VOYER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge D’Auray
+[1] Durant les années en litige, soit les années d’imposition 2003, 2004, 2005, 2006, 2007 et 2008, l’appelant est un courtier en valeurs mobilières. Vers 2007, l’appelant s’identifie comme conseiller en sécurité financière, conseiller en placements et courtier en prêt hypothécaire. En 2008, l’appelant vend également de l’assurance vie.
+[2] La majorité des revenus de l’appelant proviennent de commissions alors qu’il était à l’emploi de Les valeurs mobilières Peak Inc. (« Peak »). Bien qu’il ait énoncé dans son avis d’appel qu’il était à l’emploi de Peak, l’appelant a indiqué qu’il était rémunéré par le Centre Financier de Rimouski Inc. (« CFR »). Le CFR est une société incorporée par l’appelant et son partenaire, M. Vilmond Beaudin. Le CFR détenait des contrats avec plusieurs courtiers en valeurs immobilières, dont Peak. Le CFR versait les commissions gagnées par différents contrats à l’appelant moins un pourcentage de 20%, afin de pallier aux dépenses d’exploitation de CFR, soit les frais engendrés par les courtiers en valeurs mobilières.
+[3] L’appelant détient 35% des actions de CFR par l’entremise de la société Il faut beaucoup de patience Inc. (« IFBP »). L’appelant détient 100% des actions d’IFBP.
+[4] La clientèle de l’appelant provient surtout de Rimouski, du Bas-St-Laurent et de Québec.
+[5] Durant les années en litige, l’appelant a conseillé à certains de ses clients d’investir dans les sociétés Emergensys Solutions Inc. (« Emergensys »), CCE Multimédia Inc. (anciennement MID Multimédia Inc.) (« Multimédia ») et la Centrafricaine Diamant et Or Cadior Inc. (« Cadior »). Ces sociétés n’ont jamais été en mesure de faire un premier appel public à l’épargne. Par conséquent, les clients qui ont acheté des actions dans ces sociétés ont perdu leurs investissements.
+[6] L’appelant a témoigné qu’il a dû gérer plusieurs clients mécontents. Pour conserver sa clientèle et ne pas entacher sa réputation, l’appelant a témoigné qu’il a remboursé à certains de ses clients les pertes que ces derniers avaient subies relativement aux années d’imposition 2003, 2004, 2005, 2006, 2007 et 2008. Je vais référer à ces montants en tant que rendus et rabais.
+[7] L’appelant fait valoir que les rendus et rabais ont été encourus pour gagner du revenu d’entreprise et donc déductibles. Lors de l’audience, l’appelant a indiqué qu’il ne contestait pas les années d’imposition 2003 et 2008 relativement aux rendus et rabais.
+[8] La société IFBP a avancé des fonds à l’appelant au cours des années 2004, 2005, 2006 et 2007. Le ministre du Revenu national (le « ministre ») a ajouté aux revenus de l’appelant les montants respectifs de 15 029 $, 13 508 $, 5 114 $, et 2 456 $ selon l’article 80.4 de la Loi de l’impôt sur le revenu (la « LIR »). Lors de l’audience, l’appelant a indiqué qu’il ne contestait pas l’inclusion de ces montants. Donc cette question n’est plus en litige.
+[9] En ce qui a trait à l’année d’imposition 2004, le ministre a également refusé un montant de 30 000 $ selon l’alinéa 18(1)e) de la LIR. Lors de l’audience, l’appelant a indiqué qu’il ne contestait pas le refus du ministre de déduire ce montant dans le calcul de ses revenus. Cette question n’est également plus en litige.
+[10] L’appelant demande également qu’une perte autre qu’en capital pour l’année d’imposition 2009 pour un montant de 153 399 $ soit reportée à l’année d’imposition 2007. À cet effet, le 10 mars 2105, le ministre a établi une nouvelle cotisation concernant l’année d’imposition 2009. Le ministre a refusé deux déductions réclamées par l’appelant. La première est relative à des dépenses d’entreprise pour un montant de 108 188 $. La deuxième déduction refusée est un montant de 32 992 $ relatif à un remboursement d’un emprunt par un actionnaire selon l’alinéa 20(1)j) de la LIR. Ainsi, le ministre a refusé pour l’année d’imposition 2009 des déductions pour un total de 141 180 $. Cela a eu pour effet de réduire la perte autre qu’en capital à être reportée de l’année 2009 à l’année 2007 à 12 219 $. Lors de l’audience, l’appelant a indiqué qu’il ne contestait plus la déduction de 32 992 $ refusée par le ministre.
+[11] Au paragraphe 19 de son avis d’appel ré-réamendé, l’appelant allègue qu’il est en droit de réclamer une perte au titre d’un placement d’entreprise (« PTPE ») pour un montant de 795 602,29 $. L’appelant avait acheté des actions dans Cadior, qui s’est avérée être un échec financier. Le ministre avait déjà refusé une PTPE en ce qui a trait à Cadior. Lors de l’audition, l’appelant a fait valoir qu’il ne réclamait plus une PTPE mais plutôt une perte d’entreprise, soit une perte autre qu’en capital.
+[12] Par conséquent, en l’espèce, les questions en litige sont :
+a) Est-ce que l’appelant peut déduire dans le calcul de ses revenus pour les années d’imposition 2004, 2005, 2006, 2007 et 2009, les montants à titre de rendus et rabais, qu’il allègue avoir payés à certains de ses clients et autres personnes afin de conserver sa clientèle et afin de ne pas entacher sa réputation?
+b) Est-ce que l’appelant peut déduire des dépenses à l’égard des années d’imposition 2006, 2007 et 2008? Est-ce que ces dépenses ont été faites dans le but de gagner du revenu d’entreprise selon le paragraphe 9(1) de la LIR?
+c) Est-ce que l’appelant peut reporter une perte autre qu’en capital de 105 520 $ provenant de l’année d’imposition 2009 à l’année d’imposition 2007?
+d) Est-ce que l’appelant peut réclamer une perte autre qu’en capital pour un montant de 795 602,29 $ en ce qui a trait à l’année d’imposition 2009, suite à la fermeture de Cadior en 2007?
+Rendus et rabais
+[13] Je vais commencer par analyser les rendus et rabais. Lors de son témoignage, l’appelant a indiqué qu’il a recommandé à certains de ses clients d’acheter des actions dans les sociétés Emergensys, Multimédia Inc, Multimédia et Cadior. Ces sociétés se sont avérées être des échecs au point de vue financier. L’appelant allègue qu’il a remboursé les montants que ses clients avaient déboursés pour acheter des actions dans ces sociétés. L’appelant a indiqué avoir fait ces paiements afin de conserver sa clientèle et pour préserver sa réputation. Par conséquent, selon l’appelant ces paiements ont été effectués dans le but de gagner du revenu d’entreprise et donc déductibles dans le calcul de son revenu.
+[14] Tel qu’en fait foi le tableau ci-après, les montants réclamés par l’appelant à titre de rendus et rabais varient d’une étape procédurale à l’autre. Par exemple, les montants réclamés à titre de rendus et rabais en vertu de la déclaration de revenus initiale, à la vérification et lors de l’audition ne sont pas les mêmes. Et cela, sans compter que les montants relatifs aux rendus et rabais ont aussi varié à l’étape du dépôt de l’avis d’appel, de l’avis d’appel amendé et de l’avis d’appel ré-réamendé:
+Rendus et rabais
+Déclaration de revenus initiale
+Opposition
+Montant accepté par le ministre
+Avis d’appel
+Avis d’appel amendé
+Avis d’appel ré-réamendé
+Montant demandé lors de l’audition
+2004
+66 082 $
+83 900 $
+17 500 $
+77 500 $
+49 171 $
+49 171 $
+67 671 $
+2005
+227 674 $
+133 130 $
+35 174 $
+207 629 $
+210 930 $
+210 930 $
+246 930 $
+2006
+35 520 $
+48 598 $
+26 398 $
+23 384 $
+42 202 $
+42 202 $
+68 598 $
+2007
+58 461 $
+71 400 $
+25 461 $
+38 114 $
+137 300 $
+137 300 $
+137 300 $
+[15] Pour les fins de mes motifs, je n’analyserai pas chaque remboursement que l’appelant prétend avoir fait à certains de ses clients pour des raisons qui deviendront évidentes à la lecture de ces motifs.
+[16] En 2004, il suffit d’analyser le tableau ci-haut pour constater que les montants réclamés par l’appelant changent à travers le temps. À titre d’exemple, des documents joints à l’avis d’opposition ont été présentés par l’appelant à l’Agence du Revenu du Canada (l’« ARC »), justifiant des rendus et rabais pour un montant de 83 900 $. Lors de l’audience, des documents ont été déposés par l’appelant, justifiant des rendus et rabais pour un montant de 67 671 $. Si les modifications ne portaient que sur les montants réclamés, ce serait un moindre mal, mais non seulement les montants sont modifiés, mais les clients à qui les remboursements sont faits diffèrent. À titre d’exemple, selon la liste des clients remboursés fournie par l’appelant lors de l’opposition, l’appelant aurait remboursé à Carmel Jean un montant de 5 000 $, à Mario Fillion un montant de 5 000 $ et à Gertrude Imbeault-Vallée un montant de 7 000 $. Il est à noter que lors de l’opposition l’appelant a fourni une preuve documentaire établissant ces rendus et rabais. Cependant, ces clients ne se retrouvent pas sur la liste des clients remboursés fournie par l’appelant lors de l’audition. Il est difficile de comprendre comment on peut alléguer avoir remboursé un client pour de mauvais placements et à cet effet, fournir une liste de clients remboursés appuyée par une preuve documentaire, alors que dans une réclamation postérieure soit à l’audition, ces clients ne font plus partie de la liste des clients remboursés.
+[17] En soi, au stade de l’opposition, l’appelant avait justifié ces remboursements de la même manière qu’il justifie les montants qu’il réclame lors de l’audition, soit avec des dépôts avec annotations manuscrites par l’appelant indiquant le nom du client, par des paiements en comptant, des chèques et des traites bancaires. Aucune explication n’a été fournie par l’appelant pour expliquer pourquoi les clients ne sont pas les mêmes et pourquoi les montants réclamés diffèrent.
+[18] La même situation s’applique aux années d’imposition 2005, 2006 et 2007.
+[19] Pour 2005, la liste de clients pour lesquels l’appelant demande des déductions à l’égard des paiements qu’il a effectués à ses clients pour leur avoir proposé des investissements infructueux est passée d’une douzaine de clients à l’opposition à plus de 25 clients lors de l’audience. Tel que pour l’année d’imposition 2004, certains noms de clients sur la liste de clients remboursés remise par l’appelant lors de l’opposition pour 2005 ne se retrouvent plus sur la liste des clients remboursés, déposée lors de l’audience. De plus, il a été établi en preuve que certaines personnes mentionnées sur la liste n’étaient pas des clients de l’appelant. Ainsi, comment prétendre que ces montants auraient été encourus par l’appelant pour préserver sa clientèle. Par exemple, en 2005, trois individus auraient perdu leur investissement, chacun pour un montant de 192 500 $ suite à l’achat d’actions de Cadior. Toujours à titre d’exemple, dans un premier temps, l’appelant réclame avoir remboursé un montant de 192 500 $ à M. Marmen pour ses actions. Cependant, lors de l’audience, il a été établi que M. Marmen ne détenait que 67 500 actions dans Cadior, les actions avaient été achetées par M. Marmen à un dollar par action. L’appelant a alors réajusté le tir et indiqué qu’il n’avait remboursé qu’un montant de 67 500 $ à M. Marmen à titre de remboursement d’actions de Cadior. Selon l’appelant M. Marmen le menaçait d’entacher sa réputation. M. Marmen n’a pas témoigné à cet effet.
+[20] Cependant, la preuve est confuse relativement au paiement fait par l’appelant à M. Marmen. L’appelant a aussi témoigné que M. Marmen avait consenti un prêt à Cadior. L’appelant et son partenaire, Serge Vallée, auraient remboursé le prêt en payant chacun 67 500 $ à M. Marmen. Aucun document n’a été déposé établissant un prêt entre M. Marmen et Cadior. De plus, aucune quittance n’a été déposée. L’appelant prétend aussi avoir remboursé d’autres individus pour des prêts faits à Cadior alors que ces derniers étaient actionnaires. Aucune preuve à cet effet, n’a été déposée par l’appelant.
+[21] L’intimée fait valoir que l’appelant n’a pas établi qu’il a remboursé M. Marmen pour les actions de Cadior ou qu’il a payé un montant de 67 500 $ en remboursement de prêt à M. Marmen. L’intimée fait aussi valoir que l’appelant n’a présenté aucune preuve à l’égard des prêts qui auraient été faits à Cadior par d’autres actionnaires. Je suis d’accord avec l’intimée. La preuve documentaire n’est pas fiable et le témoignage de l’appelant à cet effet est confus et contradictoire.
+[22] Un autre exemple s’impose quant aux montants réclamés à titre de dépenses relatives aux rendus et rabais. En 2005, l’appelant aurait aussi remboursé un prêt à Mme Colette Hébert. Cette dernière aurait prêté à son conjoint, M. Jean-Marc Gagné, un montant de 40 000 $ pour qu’il achète des actions de Cadior. L’investissement dans Cadior n’étant pas fructueux, l’appelant aurait remboursé à Mme Hébert le prêt de 40 000 $ qu’elle avait effectué à son conjoint, M. Gagné. L’appelant réclame une déduction de 40 000 $ pour avoir remboursé Mme Hébert à titre de rendus et rabais. Ni Mme Hébert, ni M. Gagné n’ont été appelés comme témoins par l’appelant lors de l’audience pour corroborer le témoignage de l’appelant. Il est difficile de comprendre pourquoi le paiement fait par l’appelant à Mme Hébert est une dépense déductible. Cette dernière n’a pas investi dans Cadior, ni prêté un montant à Cadior.
+[23] En ce qui a trait aux années 2006 et 2007, la situation est la même. Certains noms qui sont sur la liste des clients remboursés, produite à l’opposition, ne font pas partie de la liste des clients remboursés déposée lors de l’audition. De plus, de nouveaux noms de clients à qui l’appelant aurait remboursé leurs investissements se sont ajoutés à la liste produite lors de l’audition. L’appelant a également remboursé des prêts qu’il a déduits à titre de rendus et rabais alors que les individus ne sont pas des clients de l’appelant. L’appelant ne peut donc pas faire valoir que ces remboursements ont été faits pour conserver sa clientèle, car ces individus ne sont pas des clients de l’appelant.
+[24] En l’espèce, l’appelant ne maintenait pas des registres comptables. La preuve présentée par l’appelant pour établir les remboursements est constituée de retraits bancaires, de paiements en comptant faits aux clients avec annotations manuscrites faites par l’appelant indiquant le nom du client, ou de chèques et traites bancaires.
+[25] En soi, ces documents n’établissent pas que l’appelant a payé des montants à des clients à la suite de mauvais placements que ces derniers auraient effectués sous sa gouverne. À cet effet, aucun des clients de l’appelant n’a témoigné lors de l’audience afin de corroborer le témoignage de l’appelant. Il aurait été facile de faire témoigner un ou quelques clients. De plus, les montants réclamés et les clients auxquels l’appelant aurait remboursé des sommes changent d’une étape procédurale à l’autre ainsi que la preuve documentaire justifiant les dépenses réclamées à titre de rendus et rabais.
+[26] Les documents déposés par l’appelant pour justifier les rendus et rabais ne sont pas fiables. De plus, certaines personnes pour lesquelles l’appelant demande des déductions ne sont pas des clients. Il est difficile, dans l’affaire en l’espèce, de ne pas mettre en doute la crédibilité de l’appelant. Dès que la Couronne lui indiquait une incohérence, l’appelant ajustait son témoignage en conséquence. Cela a fait en sorte que non seulement les documents déposés ne sont pas fiables, mais le témoignage de l’appelant n’est pas fiable et crédible.
+[27] De plus, les démêlés que l’appelant a connus avec la Chambre de la sécurité financière et l’Association canadienne des courtiers en valeurs mobilières n’ont pas eu pour effet de renforcer la crédibilité de l’appelant. Par exemple, entre 2005 et février 2006, l’appelant a, à deux reprises, emprunté de l’argent à un client, « A », une connaissance de longue date, et a également prêté de l’argent à son client « A » pour l’achat d’actions dans la compagnie Ressources Plexmar. L’appelant a aussi permis à son client de participer dans un placement privé sachant que les revenus de son client n’étaient pas d’au moins 200 000 $. Il a également fait des placements sans aviser son employeur. Il s’est aussi placé en conflits d’intérêts en n’avisant pas son employeur qu’il était actionnaire et administrateur d’une compagnie. L’appelant a été congédié par son employeur, Peak, le 8 septembre 2006. L’appelant a aussi indiqué que CFR a racheté les actions qu’il détenait dans CFR par l’entremise d’IFBP en 2006.
+[28] Également, l’appelant, entre le 11 mars 2009 et le 19 janvier 2010, s’est approprié pour ses fins personnelles approximativement 295 000 $ composés en partie des profits générés à la suite de ventes d’actions souscrites avec les 200 000 $ confiés un client. À cet effet, il a été établi en preuve que l’appelant n’a pas inclus dans le calcul de ses revenus, les profits qu’il a générés suite à l’appropriation des fonds de son client. Il a été radié pour une période de dix ans à titre de membre de la Chambre de la sécurité financière. L’appelant a eu aussi, à plus d’une occasion, des démêlés avec l’Autorité des valeurs mobilières notamment pour opérer sans prospectus et pour l’exercice illégal de l’activité de courtier en valeurs.
+[29] De plus, lors de son témoignage l’appelant ne pouvait pas expliquer de quelle source provenaient les fonds pour rembourser les clients. Selon son témoignage, les clients étaient remboursés par lui directement ou par sa société IFBP, sauf qu’il est clair qu’en vertu des états financiers d’IFBP, que les fonds ne proviennent pas d’IFBP. Durant certaines années IFBP n’a pas les fonds nécessaires pour rembourser les clients et de plus, les bénéfices non répartis ne fluctuent pas.
+[30] À la lumière des faits ci-haut mentionnés, je suis d’avis que l’appelant n’a pas établi qu’il était en droit de réclamer à titre de dépenses d’entreprises les rendus et rabais à titre de déduction dans le calcul de son revenu pour les années d’imposition 2004 à 2007.
+[31] Qui plus est, les montants payés pour préserver la clientèle et la réputation sont de nature capitale et non déductibles selon l’article 9 et le paragraphe 18(1)b) de la LIR [1] . En l’espèce, il est clair selon la preuve que les paiements ont été faits à des clients pour préserver la réputation de l’appelant et pour lui permettre de continuer à gagner sa vie, ces paiements sont de nature capitale et ils ne sont pas déductibles.
+Dépenses réclamées par l’appelant
+[32] L’appelant était le seul détenteur d’actions dans la société IFBP qui elle détenait 35% des actions dans CFR. Selon l’entente avec CFR, cette dernière payait les dépenses de l’appelant relatives à ses activités de conseiller en valeurs mobilières. À cette fin, CFR gardait 20% des profits pour payer lesdites dépenses.
+[33] Cependant, l’appelant a témoigné que pour les années 2006 à 2008, il n’a pas fait de demandes de remboursements dans un délai jugé acceptable par CFR. Lorsqu’il a réclamé les dépenses qu’il avait encourues, CFR lui a indiqué qu’il était trop tard et qu’il ne serait pas remboursé. L’appelant a témoigné que le délai était dû à des circonstances personnelles.
+[34] Dans sa déclaration de revenus pour les années 2006 et 2007, l’appelant réclame les dépenses suivantes :
+2006
+2007
+Publicité
+8 000,00 $
+Taxes d’affaires, droit d’adhésion, permis et cotisations
+350,00 $
+Repas et frais de représentation
+6 178,00 $
+Frais de bureau
+481,25 $
+723,34 $
+Frais comptables, juridiques, etc.
+3 269,15 $
+1 225,20 $
+Frais de voyage
+6 846,00 $
+Autres dépenses
+Frais bancaires
+869,40 $
+Essence
+3 818,00 $
+Frais de stationnement
+122,00 $
+Frais de gestion
+170,92 $
+Loyer
+1 600,00 $
+Formation
+1 726,34 $
+Total:
+30 293,80 $ [2]
+5 445,80 $
+[35] En 2006, l’appelant a reçu de CFR un montant de 183 510,62 $ à titre de revenus de commissions. L’ARC a admis à titre de déduction pour l’année 2006, les dépenses réclamées par l’appelant dans sa déclaration de revenus, soit 30 293,80 $.
+[36] Lors de l’audition, l’appelant réclamait pour l’année d’imposition 2006, un montant additionnel de 8 845 $ à titre de frais de déplacement. Il a témoigné qu’il avait un calepin dans lequel il notait ses déplacements. Ce calepin n’a pas été déposé en preuve. L’appelant a aussi indiqué qu’il transposait par la suite dans son téléphone « BlackBerry » les notes relatives à ses dépenses prises dans son calepin. C’est à partir des données inscrites dans son téléphone qu’il a établi qu’il avait encouru un montant de 8 845 $ à titre de frais de déplacement. À cet effet, il a déposé des feuilles manuscrites énonçant les déplacements qu’il a effectués dans le cadre de son travail avec CFR. De plus, la preuve a démontré que les dépenses d’essence avaient déjà été réclamées.
+[37] Lors du contre-interrogatoire, l’appelant n’a pas été en mesure d’expliquer pourquoi sa demande additionnelle pour frais de déplacement ne faisait pas déjà partie des dépenses réclamées dans sa déclaration de revenus 2006. L’appelant a témoigné que seulement son comptable, M. Mallette, pourrait répondre à cette question.
+[38] L’appelant n’a donc pas été en mesure d’établir que le montant de 8 845 $ n’était pas déjà inclus dans les dépenses qu’il a réclamées dans sa déclaration de revenus 2006 et qui ont été admises par le ministre. Par conséquent, je suis d’avis qu’à la lumière de la preuve, l’appelant n’a pas établi qu’il était en droit de réclamer un montant additionnel de 8 845 $, à titre de frais de déplacement.
+[39] En ce qui a trait à l’année d’imposition 2007, il a réclamé dans sa déclaration de revenus initiale des dépenses de 5 445 $.
+[40] L’appelant a demandé que ses dépenses de 2007 et 2008 soient redressées pour inclure les dépenses qu’il a encourues dans le cadre de son travail pour CFR [3] . À cet effet, au stade de l’opposition, l’appelant a réclamé pour les années d’imposition 2007 et 2008 les dépenses suivantes pour son travail à titre de travailleur autonome :
+Dépenses relatives à CFR
+2007
+2008
+Frais de déplacement
+14 515,00 $
+11 586,00 $
+Hôtel, train, avion et stationnement
+11 181,00 $
+7 958,58 $
+Frais de repas
+4 199,00 $
+(50% de 8 398 $)
+3 687,50 $
+(50% de 7 375 $)
+Frais de bureau
+800,00 $
+2 417,00 $
+Frais de gestion et administration
+9 449,00 $
+Autres dépenses
+1 946,00 $
+Total :
+30 695,00 $
+33 356,58 $
+[41] Lors de l’audience, l’appelant a modifié sa réclamation et a réclamé les dépenses suivantes pour 2007 et 2008 relativement au travail relatif à CFR, soit :
+Dépenses réclamées lors de l’audience
+2007
+2008
+Frais de déplacement
+10 396,11 $
+3 823,28 $
+Frais de déplacement
+14 515,30 $
+11 586,48 $
+Repas
+8 390,11 $
+(50% de 4 195,06 $)
+3 480,85 $
+(50% de 6 961,69 $)
+Fournitures de bureau
+299,34 $
+21,21 $
+Fournitures autres
+599,96$
+Publicité, cadeaux
+577,53$
+513,35 $
+Total
+34 778,45 $
+19 425,17 $
+[42] L’appelant n’a tenu aucun registre comptable étayant ces dépenses pour 2007 et 2008. Aucune facture n’a été produite lors de l’audition. À titre de preuve documentaire, l’appelant a déposé des listes énumérant les dépenses encourues. De l’aveu de l’appelant, les listes énumérant les dépenses ont été préparées par lui en 2008.
+[43] Premièrement, il est facile de constater que les montants de dépenses réclamées par l’appelant lors de l’opposition ne concordent pas avec les dépenses réclamées lors de l’audition. De plus, j’ai constaté, suite à l’analyse des listes de dépenses pour 2007 et 2008, que plusieurs dépenses réclamées sont de nature personnelle.
+[44] Les listes de dépenses déposées par l’appelant contiennent aussi des dépenses qui ont été encourues par sa conjointe, Mme Sonia Gagnon. Selon l’appelant, sa conjointe, a suivi la formation requise qui lui permet d’agir à titre de courtière en valeurs mobilières. À cet effet, l’appelant a indiqué lui avoir transféré sa clientèle en novembre 2007. L’appelant a indiqué que sa conjointe devait voyager avec lui afin que ce dernier la présente à ses anciens clients et pour fin de formation.
+[45] Le ministre n’a accordé aucune dépense à l’appelant pour les années d’imposition 2007 et 2008. En 2007, l’appelant a gagné des revenus de commissions de CFR de 142 658,26 $. En 2008, selon sa demande de redressement, le revenu de l’appelant était de 14 554,28 $. Il aurait également reçu de CFR un montant de 6 511 $ à titre de commissions.
+[46] Bien que l’appelant n’ait pas déposé en preuve des documents pertinents afin d’établir les dépenses qu’il a réclamées en 2007 et 2008, il va de soi que l’appelant est dans un domaine où il doit encourir certaines dépenses. Cela étant dit, certaines dépenses réclamées par l’appelant sont personnelles et d’autres sont pour sa conjointe; ces dépenses ne sont pas déductibles dans le calcul du revenu de l’appelant.
+[47] L’appelant ne tenait pas de registres comptables étayant ses dépenses. Je ne peux donc pas accorder toutes les dépenses que l’appelant réclame. À la lumière de ses revenus et du type de dépenses réclamées, je suis d’avis qu’il est raisonnable d’accorder le même ratio de dépenses qu’il a été accordé par le ministre pour l’année d’imposition 2006 [4] . Cette méthode n’est pas parfaite, mais à mon avis, à défaut de documents pertinents justifiant les dépenses de l’appelant, cette méthode est juste et raisonnable. Ainsi, l’appelant pourra réclamer un montant à titre de dépenses de l’ordre de 23 465,32 $ pour l’année d’imposition 2007 et un montant de 3 370,44 $ pour l’année d’imposition 2008.
+Année d’imposition 2009
+[48] L’appelant a ré-réamendé son avis d’appel ré-amendé pour inclure l’année d’imposition 2009. L’appelant a réclamé des rendus et rabais de 106 024 $ pour 2009. À cette époque, il semble que l’appelant ne pouvait pas agir à titre de courtier en valeurs mobilières. L’appelant a témoigné qu’il pouvait cependant vendre des placements privés. Les placements privés qu’il aurait conseillés à ses clients se sont avérés infructueux et l’appelant aurait remboursé ses clients pour préserver sa réputation et pour conserver sa clientèle.
+[49] Tel que pour les rendus et rabais pour les années précédentes, la preuve produite par l’appelant n’est pas fiable, ni son témoignage. Donc, il n’est pas pertinent de passer chaque remboursement effectué par l’appelant.
+[50] Cela étant dit, il est clair que certains rendus et rabais n’ont pas été engagés pour gagner du revenu d’entreprise. À titre d’exemple, l’appelant a indiqué qu’il a payé en comptant en 2009, un montant de 22 200 $ à M. Vincent Petrantonio pour rembourser la dette de son ami et actionnaire dans Cadior, M. Jean-Marc Gagné. Ce dernier aurait emprunté un montant de 22 200 $ de M. Petrantonio pour investir dans Cadior. Selon l’appelant, M. Petrantonio exerçait beaucoup de pression sur M. Gagné pour que ce dernier le rembourse, à un tel point que M. Gagné était inquiet et craintif. L’appelant a donc décidé de rembourser M. Petrantonio. Ce dernier n’est pas un client de l’appelant.
+[51] De toute manière, si l’appelant a effectivement fait des paiements à ses clients pour préserver sa réputation et pour conserver sa clientèle, les montants payés ne sont pas déductibles, car ce sont des paiements de nature capitale en vertu de l’article 9 et de l’alinéa 18(1)b) de la LIR. Par conséquent, les rendus et rabais pour l’année d’imposition 2009 ne sont pas déductibles du calcul des revenus de l’appelant.
+Cadior
+[52] Dans son avis d’appel ré-réamendé, l’appelant réclame une perte à titre de placement d’entreprise de l’ordre de 795 602,29 $ relativement à l’investissement qu’il a effectué dans Cadior. Lors de l’audition, l’appelant a reconnu qu’il ne pouvait pas réclamer une perte à titre de placement d’entreprise, il a alors demandé que ce montant soit reconnu à titre de perte d’entreprise, soit une perte autre qu’en capital.
+[53] Selon les documents déposés par l’intimée, Cadior est une société constituée en vertu de la Loi canadienne sur les sociétés par actions. Cette dernière devait exploiter une mine de diamants en Afrique.
+[54] L’appelant a témoigné qu’il détenait 836 144 actions dans Cadior. Il aurait payé un dollar par action. Selon les documents déposés par l’intimée, les autres détenteurs d’actions de Cadior étaient Jacques Desjardins − 408 200 actions, Pierre-Yves Caron − 305 755 actions, Serge Valée − 163 359 actions, Layachi Houasna − 100 000 actions, Jean-Marc Gagné − 58 839 actions et Guy Marmen − 67 500 actions.
+[55] Selon les états financiers de Cadior pour l’année financière qui se termine le 30 juin 2006, il est indiqué que « la société a émis 1 448 392 actions de catégorie « A » en contrepartie à des frais payés par les actionnaires ».
+[56] L’appelant fait valoir qu’il a investi 836 144 $ dans la société Cadior et qu’il serait en mesure de réclamer une perte autre qu’en capital de 836 144 $. Lors de l’audition, l’appelant a indiqué qu’il n’avait pas retracé les documents pouvant justifier une perte de 836 144 $. Cependant, il a fait valoir qu’il pouvait justifier une perte autre qu’en capital pour un montant de 191 000 $.
+[57] À cet effet, l’appelant a déposé sous la cote A-19 une liste énumérant des frais que ce dernier aurait payés à M. Bryce Pyau à l’égard de la société Cadior. Selon l’appelant, ce dernier était localisé en Afrique et s’occupait des affaires de Cadior. L’appelant aussi indiqué que M. Pyau était aussi actionnaire de Cadior. Cependant, selon les documents déposés par l’intimée, ce dernier n’est pas actionnaire. Cela étant dit, il est possible que M. Pyau ait acheté des actions par la suite.
+[58] M. Pyau ou autres actionnaires de Cadior n’ont pas témoigné pour corroborer le témoignage de l’appelant.
+[59] Les pièces justificatives déposées par l’appelant pour établir son investissement dans Cadior sont une traite bancaire et des relevés de dépôt à la Banque Nationale et à la Caisse populaire Desjardins. Sur ces relevés, l’appelant a inscrit manuellement le prénom Bryce pour Bruce Pyau. La preuve n’indique pas si ces montants ont été déposés dans le compte bancaire de Cadior en Afrique.
+[60] De plus, lors du contre-interrogatoire, l’intimée a démontré que l’appelant avait en 2005 disposé de 276 500 actions de Cadior. À cet effet, l’appelant avait réclamé une perte en capital de 276 500 $. La perte a été admise par le ministre. Ainsi, l’appelant ne pouvait avoir subi une perte autre qu’en capital de l’ordre de 836 144 $ puisqu’il avait déjà disposé d’une partie de ses actions de Cadior.
+[61] L’appelant n’a pas été en mesure de répondre aux questions de l’intimée, soit qu’il avait déjà disposé d’une partie des actions de Cadior et qu’il avait réclamé une perte en capital en 2005. L’appelant a répondu que seul son comptable, M. Malette pouvait répondre à ces questions. Ce dernier a indiqué qu’il n’était pas comptable et qu’il ne faisait que remettre les documents à son comptable afin qu’il prépare ses déclarations de revenus. J’éprouve une certaine difficulté à croire la version de l’appelant, ce dernier travaille dans le milieu des affaires depuis plusieurs années, il devait savoir qu’il avait déjà réclamé une perte en capital en ce qui a trait à la disposition des actions de Cadior.
+[62] De plus, la preuve a démontré que dans sa déclaration de revenus de 2007, l’appelant avait aussi réclamé un montant de 836 144 $ comme perte au titre d’un placement d’entreprise relativement à Cadior. Le ministre a refusé ladite perte. Par la suite, l’appelant a produit une demande de redressement relativement à Cadior, il réclamait une autre fois une perte à titre d’un placement d’entreprise de l’ordre de 795 602,29 $. L’appelant a donc continué, dans ses déclarations de revenus postérieures à 2005 de réclamer l’entièreté d’une perte à titre de placement d’entreprise à l’égard de Cadior, alors qu’il avait déjà disposé d’une partie des actions de cette société en 2005 et qu’une perte en capital avait été admise par le ministre à cet effet.
+[63] De toute manière, je suis d’avis que les documents déposés par l’appelant ne sont pas fiables, ni son témoignage. Il n’y a aucune preuve fiable qui me permet d’établir que l’appelant a payé des frais en échange d’actions pour un montant de 836 144 $ ou pour un montant de 191 000 $.
+[64] À la lumière de la preuve, je suis d’avis que l’appelant n’a pas établi qu’il était en droit de réclamer une perte d’entreprise relativement à Cadior pour un montant de 191 000 $.
+[65] Quant aux reports de pertes demandés, ces derniers seront établis, le cas échéant, en fonction des motifs de ce jugement.
+[66] L’appel est admis seulement en ce qui a trait aux dépenses encourues pour gagner du revenu d’entreprise, soit les montants de 23 465,32 $ et de 3 370,44 $ pour les années d’imposition 2007 et 2008 réciproquement. Toutes les autres questions soulevées en l’espèce sont rejetées.
+[67] Les dépens sont en faveur de l’intimée.
+Signé à Ottawa, Canada, ce15e jour d’octobre 2019.
+« Johanne D’Auray »
+Juge D’Auray
+RÉFÉRENCE :
+2019 CCI 221
+Nº DU DOSSIER DE LA COUR :
+2013-3726(IT)G
+INTITULÉ DE LA CAUSE :
+CAROL VOYER c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+Les 16 et 17 novembre 2015 et les 14 et 15 février 2019
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 15 octobre 2019
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Jean-Paul Boily
+Avocat de l’intimée :
+Me Michel Lamarre
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant:
+Nom :
+Me Jean-Paul Boily
+Cabinet :
+Le Cabinet Légaliste
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] L’appelant a cité la décision Frappier c La Reine, 1998 CanLII 129, pour faire valoir qu’il avait droit à cette déduction. Cependant, plusieurs décisions énoncent par la suite, dont celle de la Cour d’appel fédérale Cimolai c Canada, 2006 FCA, qu’une personne qui engage des frais juridiques en vue de sauvegarder sa réputation professionnelle et donc sa capacité à continuer à gagner sa vie, relèvent par définition du compte en capital. En l’espèce, les paiements ont été faits à des clients afin de les conserver à titre de clients pour préserver la réputation de l’appelant et pour lui permettre de continuer à gagner sa vie.
+[2] Un calcul des frais réclamés en 2006 donne un total de 29 933,80 $ alors que dans la déclaration de revenus il est indiqué 30 293,80 $.
+[3] La preuve n’est pas claire quant au moment précis où l’appelant a cessé ses activités de courtier avec CFR.
+[4] Le ratio de dépenses accordées par le ministre en 2006 était de 16.5%.

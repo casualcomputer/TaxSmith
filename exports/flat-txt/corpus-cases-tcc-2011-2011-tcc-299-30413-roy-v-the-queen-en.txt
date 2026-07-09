@@ -1,0 +1,148 @@
+Title: Roy v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30413/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-299-30413-roy-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-06-22
+
+# Roy v. The Queen
+
+- Citation: 2011 TCC 299
+- Decision date: 2011-06-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7942, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-22
+Neutral citation
+2011 TCC 299
+File numbers
+2007-3748(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3748(IT)G
+BETWEEN:
+RICHARD ROY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 19, 2011, at Ottawa, Ontario
+By: The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Natasha Wallace and
+Geneviève Léveillé
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation years are allowed and the reassessments are varied to delete the penalties.
+Signed at Ottawa, Canada, this 22nd day of June, 2011.
+“E.A. Bowie”
+Bowie J.
+Citation: 2011 TCC 299
+Date: 20110622
+Docket: 2007-3748(IT)G
+BETWEEN:
+RICHARD ROY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] Mr. Roy appeals from his reassessments under the Income Tax Act [1] (the Act) for the 2000, 2001 and 2002 taxation years. In each of those years he filed a return in which he claimed to have sustained substantial losses from a business carried on by him in partnership with two other individuals. He was initially assessed as filed, with his claimed losses set off against his other income. In March 2004, however, he was reassessed and the claimed business losses were disallowed and gross negligence penalties were assessed. It is from these reassessments that these appeals are brought.
+[2] The losses reported by Mr. Roy were arrived at in this way:
+Taxation year
+2000
+2001
+2002
+Gross partnership income
+$42,455
+$42,385
+$36,995
+Expenses claimed
+102,804
+100,048
+95,180
+Total business loss
+60,349
+57,663
+58,185
+Mr. Roy’s partnership interest
+80%
+80%
+89.1%
+Mr. Roy’s claimed loss
+48,279
+46,130
+51,842
+On reassessment the Minister took the position that the total expenses incurred by the partnership in each year were equal to the gross income declared, so that the partnership had neither a profit nor a loss in each year. The Minister’s assumptions on assessing, as pleaded by the Deputy Attorney General, specifically accept that the appellant was a member of a partnership, but allege that the partnership “did not incur business losses in excess of nil in the 2000, 2001 and 2002 taxation years.” It is trite that in order to succeed in his appeals from the assessments of tax Mr. Roy must discharge the burden of proving by cogent evidence that this fact, assumed by the Minister in reassessing him, is incorrect. That is what the Supreme Court of Canada decided in 1924,[2] and has reiterated several times since.[3]
+[3] The Reply to the Notice of Appeal goes on to assert in paragraph 13, although not as an assumption made by the Minister, that “the Partnership did not operate a boat charter business in the 2000, 2001 or 2002 taxation years”. It is difficult to see how the respondent could advance such a plea; if the partnership did not operate a boat charter business in those years then it simply could not be a partnership at all, as there is no evidence of it operating any other kind of business, and without a business being carried on with a view to profit there cannot be a partnership: see Backman v. Canada.[4] The appellant filed his tax returns on the basis that he was a member of a partnership, that the boat was partnership property, and that the partnership carried on a bareboat charter business. The Minister assessed him, and reassessed him, on that basis. There was evidence that the boat was advertised on a website as being available for charter. I shall therefore consider his appeal on the assumption that there was such a business. The only issues, then, are whether the appellant has overcome the Minister’s assumption that the partnership did not incur losses in the three years in issue, and whether the Minister has discharged the onus that subsection 163(3) imposes on him “… of establishing the facts justifying the assessment of the penalty…” for each of the years under appeal.
+[4] Mr. Roy gave evidence. Generally I accept his evidence as being truthful, but it suffered from the fact that much of what he had to say was hearsay, and while I am satisfied that he told the truth as he understood it, much of it was necessarily based on what he had been told by his friend Mr. Jarvis. Most important for purposes of these appeals is the absence of any firsthand evidence of the partnership’s financial transactions, and the absence of any partnership books and records. These were not available to the accountant who prepared the income tax returns filed by Mr. Roy and the other partners, they were not available to the Minister’s assessor who performed the audit for tax purposes, and they are not available to the court. As a result, it is simply not possible to know what the revenues and expenses of the charter operation were during the years in issue.
+[5] Mr. Roy is a military pilot. During his training for that occupation he met and became friendly with Bruce Jarvis. They saw a great deal of each other during the 1990s when they were both stationed at Greenwood in Nova Scotia working as instructors. During this period they had many discussions about the possibility of going into business together. In 1996 Mr. Jarvis became a civilian pilot with Cathay Pacific airline and was stationed in Vancouver. It was soon after that they took the initial steps towards realizing their ambition to develop a yacht charter business. Mr. Jarvis was an accomplished sailor, qualified to captain a fifty foot sailing vessel. He had another former military friend, Sean Dunn, who also lived in Vancouver and was a capable sailor. The plan was that the three of them would acquire a 50 foot Beneteau sailboat, to be located in Vancouver, where Mr. Jarvis and Mr. Dunn would operate it as a vessel available for bareboat charter. Mr. Jarvis was apparently the driving force behind the plan. As the most experienced sailor, he would assess the ability of prospective charterers and take charge of the day-to-day running of the business. Mr. Dunn would assist him in looking after the care and maintenance of the boat. Mr. Roy, stationed on the other coast, would not be in a position to take part in the daily operations, but would contribute to the acquisition cost of the vessel.
+[6] It does not appear to me from the evidence that any of the participants had substantial liquid resources with which to buy a high quality 50 foot sailboat. Certainly Mr. Roy did not. Mr. Dunn was employed in Vancouver as a bus driver, and it seems unlikely that he had much capital to contribute. Mr. Roy testified that he did not know exactly what Mr. Jarvis contributed to the purchase price, but apparently he owned some land on Vancouver Island that he put up as collateral to secure a loan from the CIBC. With the proceeds of this loan Bruce Jarvis and Sean Dunn were able to order the boat sometime around the end of 1998. The evidence does not reveal either the original amount of the CIBC loan or the price paid to the builder of the vessel. However the income tax return filed by Mr. Roy for the 2001 taxation year shows the undepreciated capital cost of the vessel as $577,590, and correspondence from CIBC indicates that the interest paid on the loan during the year 2000 was $39,472.50. Mr. Roy did testify that he, Bruce Jarvis and Sean Dunn all signed the CIBC loan agreement, and that the boat was ordered to be delivered to them in Vancouver. It was at this point that things began to go very wrong.
+[7] At some time after the boat had been ordered, and before it was delivered, Cathay Pacific relocated Mr. Jarvis from Vancouver to Hong Kong. Mr. Jarvis then, without consulting Mr. Roy, instructed the builder to deliver the boat to him in Hong Kong, which it did. From this point on the relationship between Mr. Roy and Mr. Jarvis seems to have become strained, at best, and Mr. Roy’s input to the decision-making process was greatly diminished. His evidence as to the subsequent events is simply hearsay based upon what Mr. Jarvis chose to tell him from time to time. According to Mr. Roy’s evidence, Mr. Jarvis did manage to produce some revenue from charters in Hong Kong, but not enough to cover costs. At some point Mr. Dunn went to Hong Kong, and he and Mr. Jarvis attempted to sail the vessel to Vancouver, but they encountered a typhoon and had to abandon the attempt. By the time of the trial the boat was moored in Thailand and advertised for sale there.
+[8] Documents entered into evidence at the trial reveal the following facts about the partnership and the ownership of the vessel. The name “Offshore Adventures” was registered under the Business Names Act of Ontario as the name of a general partnership, the partners of which are shown as Barbara Jarvis of Etobicoke, Ontario and Richard A. Roy of North Alton, Nova Scotia. Barbara Jarvis is the mother of Bruce Jarvis. Mr. Roy’s income tax returns for 2000 and 2001 state that Mr Roy owns an 80% interest and Barbara Jarvis and Sean Dunn each own a 10% interest in the partnership “Offshore Adventures”. By 2002 Mr. Dunn had become bankrupt, and Mr. Roy’s return shows his interest as 89%, with no particulars as to the other partners.
+[9] The other significant document in evidence is the registration of the vessel “Trionos” under the Canada Shipping Act. It is shown to be a 14.3 m, 23.37t Beneteau pleasure craft, the ownership of which is shown to be:
+Sean Patrick Dunn - 10 shares (15.625%)
+Bruce Robert Jarvis - 2 shares (3.125%)
+Richard Allan Roy - 52 shares (81.25%)
+Nothing in the evidence explains either the relative contributions of the owners to the purchase price, or the manner in which they decided upon the division of the shares in the vessel as registered. Nor is there any explanation of the fact that Bruce Jarvis is an owner of the vessel, but it is his mother who is a partner in “Offshore Adventures”.
+[10] The partnership of which Mr. Roy claims to be a partner has no partnership agreement, no bank account, and he has not been able to produce any books or records from which its financial transactions could be verified. Mr. Roy said in his evidence that he may have met Mrs. Jarvis on one occasion, but clearly they have never discussed the business of Offshore Adventures with each other or, apparently, with Mr. Dunn.
+[11] Mr Kenneth Bower is a Certified General Accountant. He prepared Mr. Roy’s income tax returns for the years that are under appeal, and those of the other partners, Mr. Dunn and Ms. Jarvis. His evidence was that he prepared the returns from summary information as to revenues and expenses that was provided by Mr. Jarvis from Hong Kong where he was carrying on whatever charter business existed. Neither he nor Mr. Roy nor anyone else who gave evidence had any significant amount of firsthand knowledge of the partnership’s affairs. The major items that make up the claimed expenses of the partnership business, of course, are interest on the CIBC loan and capital cost allowance on the vessel. There are letters from CIBC in evidence that establish the interest paid on the loan as $39,472.50 for the year 2000, and $31,688.29 for the year 2001. At some point the payments fell into arrears and CIBC began an action in the Supreme Court of British Columbia against Mr. Jarvis, Mr. Roy and Mr. Dunn for the outstanding balance. Mr. Bower testified that he had not seen the invoice for the vessel. He had seen a few receipts, but almost all the information that he used to prepare the returns came in summary form from Mr. Jarvis.
+[12] Were it not for the fact that the respondent in her pleading accepts that there was a partnership, of which the appellant, Sean Dunn and Barbara Jarvis were the partners, I would find that no partnership ever existed in this case. There is no written partnership agreement, and it is difficult to see how there could have been an oral agreement among them as Mr. Roy could tell us nothing of any business discussion that he ever had with either Mr. Dunn or Ms. Jarvis. There is simply no evidence to suggest that the three of them, or any two of them, ever discussed the charter business or the use of the Trionos. Nor is there any evidence of activities in connection with the vessel being carried on “in accordance with objective standards of businesslike behaviour.”[5] With no business plan, no bank account, no lines of authority and the vessel in the de facto possession and control of Mr. Jarvis in Hong Kong, the test for a business as elucidated by the Supreme Court in the Stewart[6] case simply could not be met. In view of the state of the pleadings, however, I shall not decide the case on that basis.
+[13] The case pleaded by the respondent is that the partnership did not have expenses greater than the gross income in any of the three years in issue. With the singular exception of the loan interest, none of the expenses claimed by the appellant to have been incurred by the partnership have been proved. Such records as there may be, and there may be none, are apparently in the possession of Mr. Jarvis in Hong Kong. Neither Mr. Roy nor Mr. Bower had seen the invoice for the vessel, but there is some evidence of its cost in a letter written by the assessor, Wayne Chiasson to Mr. Roy on January 5, 2004. He lists in that letter “… the information provided to us by Mr. Bower’s office on October 29 …” One of the items listed is described as:
+A December 19, 1998 order contract SM 0361, showing basic boat plus modifications of F2,121,868 in French Francs (FF), freight and shipping charges of F289,809FF with a destination of Vancouver, Canada. It also states name and address of purchaser as Offshore Adventures, 59 Waterford Drive, Etobicoke, Ontario, Canada M9R 2N7. This receipt names Sean Dunn as the purchaser.
+At the then current rate of exchange that would suggest a capital cost for the vessel of about $590,000 CAD.
+[14] With no evidence at all as to the partnership revenue, and only scant evidence as to its expenses, the appellant has not been able to discharge the onus upon him to displace the Minister's assumption that the partnership did not suffer a loss in any of the three years under appeal.
+[15] Mr. Roy also argued that as Mr. Dunn and Ms. Jarvis had not been reassessed to disallow their shares of the claimed losses, it would be unfair to let the reassessment in respect of himself stand. This point was addressed in evidence by Mr. Chiasson, the Minister’s auditor. The other two partners were not reassessed, he said, because their relatively small shares of the claimed losses did not warrant the cost of auditing them. The appellant’s argument is without merit. It is well settled that a taxpayer does not become entitled to relief simply because another taxpayer similarly situated was assessed differently: see Ludmer v. Canada[7] and Sinclair v. Canada.[8]
+[16] I turn now to the penalty issue. The Minister assessed gross negligence penalties under subsection 163(2). Subsection 163(3) says this:
+163(3) Where, in an appeal under this Act, a penalty assessed by the Minister under this section or section 163.2 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+I have already found that the appellant has failed to discharge the burden of proving that the partnership suffered the losses of which he claimed to be entitled to deduct his share from his other income. The necessary evidence is with Mr. Jarvis in Hong Kong. For the same reason the Minister has been unable to satisfy the burden on him to establish that the losses claimed were not suffered, as he is required to do in order to justify the penalties: see James v. M.N.R.[9] The penalties must therefore be vacated.
+[17] The appeals will be allowed and the reassessments will be varied to delete the penalties. It is a case in which the parties should each bear their own costs.
+Signed at Ottawa, Canada, this 22nd day of June, 2011.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2011 TCC 299
+COURT FILE NO.: 2007-3748(IT)G
+STYLE OF CAUSE: RICHARD ROY and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: January 19, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: June 22, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Natasha Wallace and
+Geneviève Léveillé
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. 1985 c.1 (5th supp.), as amended.
+[2] Anderson Logging Company v. The King, [1925] S.C.R. 45.
+[3] Johnston v. Minister of National Revenue, [1948] S.C.R. 486; Minister of National Revenue v. Sedgwick, [1964] S.C.R. 177; Hickman Motors Ltd. v. Canada,[1997] 2 S.C.R. 336.
+[4] [2001] S.C.R. 367.
+[5] See Stewart v. Canada, 2002 SCC 46; [2002] 2 SCR 645 @ para. 54.
+[6] Supra note 5.
+[7] 1995 2 F.C. 3.
+[8] 57 DTC 5624.
+[9] 93 DTC 161.

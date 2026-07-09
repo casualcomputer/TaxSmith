@@ -1,0 +1,137 @@
+---
+title: "Landry c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29583/index.do"
+last_modified: "2009-03-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 49"
+citation2: ""
+neutral_citation: "2009 CCI 49"
+decision_date: "2009-03-17"
+language: "fr"
+item_id: "29583"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6337
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:03:21.833000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ea346bc4c16bfcf5fe45afef31d1c9283c8732e7b4d8d58cc5ec7e60d18ebf88"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Landry c. La Reine
+
+- Citation: 2009 CCI 49
+- Decision date: 2009-03-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6337, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landry c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-17
+Référence neutre
+2009 CCI 49
+Numéro de dossier
+2006-500(GST)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2009CCI49
+2006-500(GST)I
+ENTRE :
+CHRISTIAN-DANIEL LANDRY,
+APPELLANT,
+ET
+SA MAJESTÉ LA REINE,
+INTIMÉE.
+TRANSCRIPTION
+DES MOTIFS DU JUGEMENT
+Je demande que la copie certifiée ci-jointe des motifs du jugement prononcés à l’audience à Ottawa (Ontario) le 23 octobre 2007, soit déposée.
+« B.Paris »
+Juge Paris
+Signé à Ottawa, ce 6e jour de février 2009.
+Dossier No. 2006-500(GST)I
+RÉFÉRENCE: 2009 CCI 49
+COUR CANADIENNE DE L’IMPÔT
+ENTRE:
+CHRISTIAN-DANIEL LANDRY,
+Appelant,
+- et -
+SA MAJESTÉ LA REINE
+Intimée.
+MOTIFS DU JUGEMENT
+Prononcés oralement à l'audience le mardi 23 octobre 2007 à 200, rue Kent,
+Ottawa (Ontario)
+COMPARUTIONS:
+Christian-Daniel Landry L’Appelant lui-même
+Denis Emond Pour l’intimée
+A.S.A.P. Reporting Services Inc. 8 2007
+200 Elgin Street, Suite 1004 130 King Street West, Suite 1800
+Ottawa, Ontario K2P 1L5 Toronto, Ontario M5X 1E3
+(613) 564-2727 (416) 861-8720
+MOTIFS DU JUGEMENT
+(Prononcés oralement à l'audience le 23 octobre 2007 à Ottawa (Ontario) et modifiés pour plus de clarté et de précision)
+MONSIEUR LE JUGE PARIS: Il s'agit d'un appel d'une nouvelle cotisation établit par le ministre de Revenu Québec en vertu de la Loi sur la taxe d'accise pour la période du 13 juillet 2002 au 6 septembre 2003.
+Le ministre affirme que l'appelant a omis de percevoir et de remettre la TPS au montant de 5105,17 $ sur les fournitures taxables de 72 231 $ qu'il a effectuées pour la période visée. La cotisation comprend aussi des intérêts de 270 $ et une pénalité de 645 $ sous l'article 280 de la Loi.
+L'appelant soutient qu'il a été dans l'impossibilité de percevoir la TPS en question parce que les agents du ministère du Revenu du Québec ont refusé de lui émettre un numéro d'inscription pour fins de la TPS.
+Alternativement, l'appelant prétend avoir été un petit fournisseur selon le paragraphe 148(2) de la Loi et que ses services étaient détaxés jusqu'à ce que la contrepartie reçue pour ses services dépasse les 30 000 $.
+Si la Cour décide que l'appelant devait percevoir et remettre la TPS, l'appelant demande des crédits de taxe sur les intrants pour la période visée. Finalement, l'appelant conteste la pénalité.
+La preuve révèle que l'appelant, avocat, a fait faillite le 12 juillet 2002 à la suite d'une convalescence. L'appelant a pu continuer à pratiquer le droit, mais de façon limitée. Il a mis ses affaires entre les mains de son syndic et de son comptable, monsieur Godin.
+Pour la période du 12 juillet au 30 septembre 2002, monsieur Godin a fait une déclaration de TPS pour l'appelant en indiquant le numéro d'inscription de l'appelant qui était en vigueur avant la faillite. Revenu Québec n'a pas traité cette déclaration, prétextant que le numéro d'inscription n'était plus valide suite à la faillite.
+L'appelant a alors fait une demande de nouvelle inscription auprès de Revenu Québec, mais cette demande a été refusée pour motif que l'appelant était un failli non libéré.
+L'appelant et monsieur Godin ont fait encore deux demandes pour un nouveau numéro d'inscription de TPS qui auraient été refusées.
+Finalement, une fois que l'appelant avait été libéré de sa faillite, Revenu Québec lui a accordé un numéro de TPS. Depuis ce temps, l'appelant a fait toutes les déclarations de TPS exigées par la Loi.
+L’appelant dit qu’avant de recevoir le nouveau numéro d’inscription par contre, il croyait ne pas avoir le droit de charger la TPS aux clients parce qu’il n'était pas inscrit.
+L'appelant dit aussi qu'il n'aurait pas pu percevoir la TPS de ses clients sans numéro d'inscription parce que ses clients n'auraient pas eu droit au crédit de taxes sur les intrants pour la taxe payée.
+Le procureur de l'intimée a choisi de ne pas contre‑interroger ni l'appelant ni monsieur Godin. Il n'a pas contesté les faits qu'ils ont mis en preuve.
+La Loi est claire que toute personne qui effectue des fournitures taxables dans le cadre d'une activité commerciale est tenue d’être inscrit aux fins de la Partie IX de la Loi sur la taxe d’accise, à moins d'en être exclu en vertu des exceptions prévues au paragraphe 240(1) de la Loi, dont une concerne les petits fournisseurs.
+La définition du terme « inscrit » se trouve au paragraphe 123(1) de la Loi et se lit:
+“ Personne inscrite, ou tenue de l'être, aux termes de la sous‑section d de la section V de la Loi. ”
+Alors, toute disposition dans la Partie IX de la Loi qui s'applique à un inscrit s'applique également à toute personne tenue d'être inscrite même si elle n'est pas. Donc, les obligations de percevoir la TPS sur les fournitures taxables et de remettre la TPS au gouvernement en vertu des articles 165 et 228 de la Loi incombent également à toute personne devant être inscrit.
+Il n'y a pas de doute en l'espèce que l'appelant a effectué des fournitures taxables au cours d'une activité commerciale au cours de la période visée et a moins de tomber dans une des exceptions au paragraphe 240(1), il devait être inscrit.
+Je suis d'avis que l'appelant était un petit fournisseur selon le paragraphe 240(1) jusqu'au 30 avril 2003. La valeur de la contrepartie devenue due à l'appelant au cours des quatre trimestres civils suivant sa faillite sont indiqués à l'annexe 1 de la réponse modifiée à l’avis d’appel.
+Puisque la valeur totale des fournitures taxables effectuées par l'appelant au cours des trois trimestres incluant le 31 mars 2003 a dépassé les 30 000 $, l'appelant a cessé d'être un petit fournisseur un mois après le 31 mars 2003.
+Bien que l’appelant n’ait pas précisé la partie de ses revenu qu’il avait réalisé entre le 1 et le 30 avril 2003, je suis prêt à accepter qu’un tiers des fournitures effectuées au 2ième trimestre de 2003 ont été effectué en avril, soit un montant de 6 570 $.
+Pendant la période visée, donc l’appelant était un petit fournisseur jusqu’au 30 avril 2003 et le montant de ses fournitures taxables entre le 12 juillet 2002 et le 30 avril 2003 était 45 063,77 $.
+Il reste que l’appelant devait percevoir et remettre la TPS sur les fournitures taxables d’une valeur de 27 867,23 $ faites entre le 1er mai au 6 septembre 2003.
+Je ne peux donner raison à l'appelant que les refus de la part des agents Revenu Québec de l’inscrire a eu pour effet de le soustraire à ses obligations en vertu de la Loi. Les refus étaient apparemment sans fondement légal à la lumière de l'alinéa 265(1)f) qui se lit:
+“ Les règles suivantes s'appliquent aux fins de la présente partie en cas de faillite d'une personne:
+f) les activités non visées par la faillite que le failli commence à exercer au plus tôt le jour de la faillite sont réputées être distinctes des activités du failli qui sont visées dans la faillite comme si les activités non visées étaient celles d'une autre personne; le failli peut, à l'égard des activités non visées, demander et obtenir l'inscription aux termes de la sous‑section d de la section V, établir des exercices et faire des choix relativement à des périodes de déclaration comme si ces activités étaient les seules qu'il exerçait; ”
+(Je souligne)
+Le procureur de l'intimée n’a pas prétendu que les activités de l'appelant après sa faillite étaient visées par la faillite, et je ne vois pas de raison pour considérer ces activités de l'être.
+Il n'y a pas d'explication pourquoi les agents ont refusé les demandes de l’appelant. Pourtant selon la Cour d'appel fédérale dans l'affaire Main Rehabilitation Co. c. la Reine, 2004, FCA 403, un appel devant cette Cour met en cause la validité de la cotisation et non le processus ayant conduit à l’établir.
+Alors, il ne s'agit pas pour moi de déterminer si les fonctionnaires du MRQ ont correctement exercé leur pouvoir, mais plutôt de déterminer si les montants peuvent valablement être cotisés sous le régime de la Loi.
+Alors, les refus des agents du ministre de fournir à l’appelant un numéro d’inscription ne justifient pas une modification du montant de la cotisation de TPS pour la période entre le 1er mai et le 6 septembre 2003.
+L'appelant demande dans l’alternatif que la Cour lui permet de faire une preuve du montant des crédits de taxe sur les intrants auquel il a droit pour la période du 1er mai au 6 septembre 2003 et qui n'ont pas été accordés par le ministre.
+Il ne m’est pas clair pourquoi le ministre n'a pas reconnu que l'appelant aurait eu droit à des crédits de taxes sur les intrants couvrant la période visée par la cotisation. De toute façon, il n'y a rien dans la preuve qui indique que l'appelant ne rencontre pas les exigences au paragraphe 169(1) de la Loi, qui donne droit aux crédits. Cet article s'applique à tout inscrit, ce qui comprend, tel que je l’ai déjà mentionné, toute personne inscrite ou tenue de l'être aux termes de la sous‑section (d) de la section V de la Loi. Ayant déjà décidé que l'appelant est tenu d'être inscrit parce qu'il a effectué des fournitures taxables dans le cadre d’une activité commerciale, l’appelant aurait droit aux crédits de taxe sur les intrants par rapport à cette activité.
+Dans les circonstances, je suis d'avis qu'il serait juste d'accorder aux parties un délai de 60 jours pour régler la question de ces crédits pour la période pertinente.
+Si les parties ne peuvent pas arriver à une entente au sujet du montant de ces crédits, la Cour réouvrera la preuve pour permettre à l'appelant de faire une preuve supplémentaire à cet égard.
+L’appelant cherche aussi l'annulation de la pénalité imposée en vertu de l'article 280 de la Loi. L'appelant soutient qu'il a fait preuve de diligence raisonnable à l'égard de son obligation de s'inscrire par la loi, que son manquement à cette obligation de percevoir et de remettre la TPS relativement à ses fournitures taxables vu les circonstances était hors de son contrôle,
+L'intimée n'a pas présenté d'arguments à l'encontre de la position de l'appelant au sujet de la pénalité.
+Il est bien établi dans la jurisprudence que la Cour peut ordonner au ministre de rayer une pénalité en vertu du paragraphe 280(1)de la Loi dans les circonstances où le contribuable a exercé une diligence raisonnable en tentant de se conformer aux exigences de la Loi. Je me réfère à la décision de la Cour fédérale dans la cause Canadian Consolidated Contractors Ltd. c. la Reine, 1999, GSTC 91.
+La preuve me convainc que l'appelant en l'espèce a fait preuve de diligence raisonnable. Il a tenté de faire ce qu'il fallait pour rencontrer les obligations imposées par la Partie IX de la Loi d'abord en tenant de faire une déclaration pour le trimestre le 30 septembre 2002 et ensuite, en tentant trois fois d’obtenir son numéro d’inscriptions. Les mesures erronées prises par les agents de Revenu Québec étaient à l'origine des difficultés auxquelles l’appelant a fait face et il n’y avait pas de comportement fautif de sa part. La pénalité sera rayée
+Pour tous ces motifs, l'appel sera accueilli en partie et l'émission du jugement sera suspendue pour permettre à l'appelant de prouver le montant des crédits auxquels il a droit.
+.

@@ -1,0 +1,381 @@
+---
+title: "Redash Trading Incorporated v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26425/index.do"
+last_modified: "2004-06-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 446"
+citation2: ""
+neutral_citation: "2004 CCI 446"
+decision_date: "2004-06-16"
+language: "fr"
+item_id: "26425"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3176
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:20:16.833000+00:00"
+cases_cited_count: 0
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d026956c69b7a3022a6cc4de407b6a52cc15ea8af9f6cb0ec3893a2db44f6f2c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Redash Trading Incorporated v. The Queen
+
+- Citation: 2004 CCI 446
+- Decision date: 2004-06-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3176, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Redash Trading Incorporated v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-16
+Référence neutre
+2004 CCI 446
+Numéro de dossier
+2001-2284(GST)G
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2001-2284(GST)G
+ENTRE :
+REDASH TRADING INCORPORATED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 1er mars 2004 à Halifax (Nouvelle-Écosse)
+Par : L'honorable juge R. D. Bell
+Comparutions
+Avocat de l'appelante :
+Me P. Robert Arkin
+Avocat de l'intimée :
+Me Peter J. Leslie
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 22 mars 2001 et porte le numéro 01CB-117059402, est accueilli, et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+L'appelante se voit adjuger les dépens selon ce qui est prévu aux présents motifs.
+Signé à Ottawa, Canada, ce 16e jour de juin 2004.
+« R. D Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 26e jour de novembre 2004.
+Louise-Marie LeBlanc, traductrice
+Référence : 2004CCI446
+Date : 20040616
+Dossier : 2001-2284(GST)G
+ENTRE :
+REDASH TRADING INCORPORATED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bell
+QUESTION EN LITIGE
+[1] La question en litige est celle qui consiste à savoir, relativement à quelque 210 transactions effectuées pendant la période allant du 1er octobre 1997 au 30 septembre 1998, si l'appelante, qui réclame des crédits de taxe sur les intrants (CTI) pour ces transactions, a acquis des véhicules, ce qui la rend admissible à ces CTI.
+FAITS
+[2] Pendant la période pertinente, M. Evong ( « M. E. » ) était président, secrétaire et trésorier de l'appelante. Lui et sa conjointe possédaient chacun 50 p. 100 des actions émises et des actions en circulation de cette entreprise. Il était le seul témoin pour l'appelante. Il était courtier en douane accrédité de 1971 jusqu'à ce qu'il vende ses parts dans cette entreprise en avril 2002. Selon la description qu'il en a faite, les activités de l'appelante visaient l'exportation de véhicules du Canada à Larh en Allemagne qui étaient achetées par les militaires canadiens qui s'y trouvaient. M. E. a affirmé que les fabricants de véhicules n'aimaient pas voir des concessionnaires comme lui exporter des véhicules dans d'autres pays et, par conséquent, l'appelante utilisait environ 30 noms différents dans le cadre de ses activités afin que les fabricants ne soient pas au courant de ces ventes. Il a indiqué que l'appelante avait une police d'assurance « garage » ouverte qui couvrait les véhicules pendant le transport vers leur destination. Il a témoigné que l'appelante avait mis fin à l'expédition de véhicules pour les militaires en 1997.
+[3] M. E. a indiqué qu'en 1994 ou en 1995, il avait rencontré John Bruce ( « M. Bruce » ) à un terminal d'expédition, ils étaient tous deux à cet endroit pour la même raison et ils se sont mis à discuter pendant qu'ils attendaient. M. E. a indiqué que M. Bruce lui avait dit qu'il cherchait toujours de nouveaux fournisseurs de véhicules. M. E. a alors indiqué que l'appelante avait commencé à envoyer par télécopieur les factures du fabricant à M. Bruce et qu'ensuite, il les envoyait par télécopieur à ses clients. Selon M. E., l'appelante vendait des véhicules à l'entreprise de M. Bruce et envoyait ses factures préparées par M. E. Ce dernier a également affirmé qu'étant donné qu'il ne voulait pas que M. Bruce sache qui étaient ses concessionnaires sources, il passait prendre les véhicules et les livrait lui-même au terminal. Il a affirmé que l'appelante ajoutait de 500 $ à 1 000 $ au prix du concessionnaire. Il a indiqué que M. Bruce savait combien le concessionnaire payait et combien l'appelante recevait.
+[4] M. E. a ensuite témoigné qu'un jour, M. Bruce lui avait téléphoné et lui avait demandé s'il pouvait obtenir plus de véhicules. Il a indiqué que M. Bruce était un entrepreneur « indépendant » , et que ce dernier était un compétiteur de l'appelante. M. E. a déclaré que M. Bruce n'avait pas les moyens financiers pour effectuer toutes les transactions désirées et qu'il lui avait demandé de « s'occuper des transactions » pour lui. Il a affirmé qu'il devait recevoir l'argent des acheteurs et payer les fournisseurs. Il a ajouté que les fonds que ne pouvait fournir M. Bruce visaient à payer la taxe de vente harmonisée (TVH)[1]. M. E. a également déclaré que, lorsque M. Bruce lui demandait si l'appelante était en mesure de conclure un contrat, la réponse de cette dernière dépendait de sa capacité à faire face financièrement à toute transaction donnée.
+[5] On a versé à la preuve des documents relatifs à deux transactions représentatives. Les détails d'une de ces transactions sont rédigés en ces termes :
+[traduction]
+1) M. Bruce a envoyé, par télécopie, à l'appelante une facture sur laquelle on indiquait que l'appelante était la « cliente » ainsi que son adresse complète. Cela provenait de 1206866 Ontario Inc. (adresse indiquée), une partie des renseignements se trouvant dans une case de la facture,
+Date
+25 février 1998
+No de facture
+R-120
+Représentant
+JOHN BRUCE
+FOB
+Toronto
+La description de la voiture était rédigée en ces termes :
+1 1998 - JEEP GRAND CHEROKEE LIMITED
+VIN : 1 J4GZ88Z4WC279526
+TON PERLE FONCÉ
+Le « prix à l'unité » indiqué était de 41 700 $, et le montant total était de 47 955 $, soit 41 700 $ plus la TVH de 6 255 $.
+2) M. E. a témoigné qu'il avait alors préparé une facture. Il s'agissait d'un formulaire imprimé sur lequel étaient inscrits dans le coin supérieur droit les nom, adresse, numéros de téléphone et de télécopieur de l'appelante. La facture était faite au nom de BRAVO MANAGEMENT SERVICES et indiquait son adresse complète. La description du véhicule était la même que celle susmentionnée. Le « PRIX À L'UNITÉ » indiqué était de 42 700 $, le montant de la « TPS » était de 2 989 $ et le « MONTANT TOTAL DÛ » était de 45 689 $. La différence de prix, bien que le témoignage n'était pas précis, semble constituer le profit. M. E. a déclaré que cette facture n'avait pas été envoyée, mais qu'elle était destinée à ses livres comptables et devait constituer un document pour justifier sa réclamation de TVH.
+3) M. E. a affirmé que M. Bruce préparait et télécopiait à l'appelante un « CONTRAT DE VENTE » portant le nom de l'appelante à titre de vendeuse (on y indiquait également son adresse et un numéro de TPS) et le nom de l'acheteuse
+BRAVO MANAGEMENT SERVICES
+101 SUBWAY CRESCENT
+ETOBICOKE, ONTARIO
+M9B 6K4
+On trouvait, dans ce document, la même description complète du véhicule que celle susmentionnée, et le prix à l'unité indiqué était de 42 700 $, la TPS de 2 989 $ et la somme totale due était de 45 689 $ comme susmentionné. M. E. indiquait que l'appelante avait facturé la TPS parce que la vente avait lieu au Canada[2].
+4) On a également joint aux documents susmentionnés une copie de la facture de Chrysler Canada Ltd. envoyée par télécopieur à un concessionnaire de Mississauga. On a également inclu une photocopie d'un document qui semble être une traite bancaire pour un montant de 47 995 $ préparée au nom de 1206866 Ontario Inc. sur laquelle on pouvait lire
+« FONDS PROVENANT DE REDASH »
+Le nom REDASH remplaçait un autre nom qu'on avait barré.
+[6] M. E. a déclaré que l'appelante avait reçu 45 689 $ de Bravo. Il a également indiqué qu'on ne lui avait jamais dit pourquoi l'appelante était « intermédiaire » . Il a affirmé qu'il croyait que c'était pour protéger l'acheteur. Il a indiqué qu'il n'avait jamais vu les véhicules et qu'il n'avait jamais eu de raison de croire que les véhicules n'existaient pas. Il a ajouté qu'il n'avait jamais entendu dire qu'un véhicule n'avait pas été livré. Il a également déclaré qu'il avait effectué « d'autres transactions » avec un certain M. Best à Vancouver qui avait des clients en Allemagne et en Autriche.
+[7] M. E. a déclaré que l'appelante avait payé la TVH pour chacune des 210 transactions. Il a affirmé que l'appelante était en Nouvelle-Écosse et que par conséquent la TVH était applicable.
+[8] On a présenté à M. E. l'avis de cotisation qui semblait être un document original[3] indiquant qu'il devait payer un montant égal au CTI reçu, soit 1 029 121,06 $. On en donnait une brève description dans l'avis de cotisation en indiquant « Rajustement aux crédits de taxe sur les intrants » . Une lettre rédigée sept jours avant l'Avis de cotisation fait référence à :
+[TRADUCTION]
+un résumé des rajustements apportés à votre déclaration de taxe sur les produits et les services et de taxe de vente harmonisée pour les périodes de vérification susmentionnées.
+Dans les quatre pages jointes, on fournissait un « État des rajustements de vérification » assez complet dans lequel on trouvait, comme à l'habitude, un exemple représentatif en ce qui a trait aux rajustements :
+[TRADUCTION]
+[...] le crédit de taxe sur les intrants réclamé est refusé en vertu de l'article 169 de la Loi. Voir la feuille de travail no 0915 pour plus de détails.
+L'Avis de (NOUVELLE) COTISATION continuait en ces termes :
+Rajustement total pour la période de cotisation
+1 029 121,06 $
+Pénalité
+110 115,32
+Intérêts
+86 021,99
+Autre pénalité
+344 332,03
+Montant dû
+1 569 550,40
+On n'indiquait pas la loi faisant autorité quant aux pénalités ni la méthode de calcul.
+[9] Le ministre a établi la nouvelle cotisation à l'égard de l'appelante pour la période visée par le présent appel. Il s'agit de la nouvelle cotisation qui fait l'objet du présent appel. On n'a présenté, à la Cour, aucune copie de ce document. Cependant, on en donne une description dans la réponse à l'avis d'appel rédigé en ces termes :
+Rajustements liés au CTI
+1 395 586,87 $
+Intérêts nets
+90 294,87 $
+Pénalités
+460 084,25 $
+Total
+1 945 965,99 $
+[10] M. E. a affirmé qu'il avait reçu les CTI et que, [TRADUCTION] « maintenant, on voulait qu'il les rembourse » . Il a déclaré qu'il avait « entré, dans les registres » , la TPS perçue, et qu'il avait fait les paiements à Revenu. Il a en outre ajouté qu'on n'en avait pas tenu compte dans la nouvelle cotisation et que Revenu avait retenu ce montant même s'il avait été déclaré. Selon lui, Revenu affirmait d'une part que les transactions étaient véritables et, d'autre part, qu'elles ne l'étaient pas.
+[11] M. E. a ensuite témoigné qu'il s'attendait à ce que les vendeurs remettent à Revenu les montants de taxe qu'il leur avait avancés, et qu'il n'avait su qu'après la rencontre avec les vérificateurs de Revenu que cela n'avait pas été fait. À ce sujet, il a affirmé que des vérificateurs étaient venus sur le lieu d'affaire de l'appelante en septembre 1998 afin de discuter des transactions, et que c'était la première fois qu'on l'informait qu'il y avait un problème. Il a affirmé qu'il leur avait remis ses dossiers et avait répondu à toutes leurs questions, et qu'il était accablé de savoir qu'il était en partie responsable du problème. Il a informé ces vérificateurs qu'il avait alors pris part à une transaction pour laquelle l'appelante devait payer sur le champ sept véhicules et qu'il les aiderait à obtenir cet argent. Il a indiqué qu'il avait retardé l'envoi du paiement au vendeur jusqu'au lendemain et que des agents de Revenu « étaient passés » et avaient pris plus de 300 000 $.
+[12] M. E. a indiqué que l'on n'avait accusé, ni lui, ni l'appelante, aux termes de la Loi sur la taxe d'accise. Il a ajouté qu'il achetait simplement un véhicule et le vendait à un client et que cela constituait son entreprise. Il a témoigné qu'il n'avait jamais été mis au courant d'une relation entre le vendeur original et la dernière acheteuse. Il a affirmé qu'on le pénalisait en lui faisant payer ce que quelqu'un d'autre avait volé et qu'il « était pris entre deux feux » .
+[13] Au cours du contre-interrogatoire, M. E. a admis que l'appelante se trouvait sur la liste noire des fabricants et que c'était la raison pour laquelle il achetait les véhicules sous différents noms. Il a ajouté qu'il faisait affaire avec des concessionnaires particuliers intéressés par les ventes et qu'ils avaient un vendeur désigné pour les contrats[4]. M. E. a déclaré qu'il n'avait révélé cela à personne et que M. Bruce ne connaissait pas les contacts de l'appelante et que lui-même ne connaissait pas les contacts de M. Bruce.
+[14] M. E. a affirmé que M. Bruce n'était pas un employé de l'appelante, qu'il n'était pas un mandataire de l'appelante et qu'il n'était pas autorisé à signer au nom de l'appelante ou à lier l'appelante. Il a indiqué : [TRADUCTION] « Il était un autre de mes clients » .
+[15] Dans son témoignage, M. E. a indiqué qu'il n'avait négocié l'achat d'aucun des véhicules visés par les transactions et qu'il ne les avait jamais vus. Lorsqu'on lui a demandé le prix des véhicules, il a répondu que les prix étaient raisonnables, si les véhicules étaient en bonne condition. Il a affirmé qu'il n'avait jamais parlé à un acheteur relativement aux transactions. Lorsqu'on lui a demandé si c'était la façon habituelle de faire des affaires, M. E. a répondu qu'il avait procédé à des transactions semblables. Lorsqu'on lui a demandé s'il était certain de l'existence des véhicules, il a répondu qu'il avait la facture du fabricant et qu'il y avait un véhicule correspondant à cette facture. Lorsqu'on lui a demandé s'il s'était déjà questionné quant à ces transactions, il a répondu qu'il était très occupé et a ajouté : [TRADUCTION] « Je ne sais pas si je l'ai fait ou non » . Il a indiqué qu'on vendait beaucoup de voitures et que beaucoup d'entre elles étaient envoyées au-delà de la frontière. Il a indiqué qu'il croyait que M. Bruce dissimulait ses sources. Quant à l'argent saisi par les vérificateurs, M. E. a expliqué que l'acheteur qui avait envoyé l'argent voulait se faire rembourser parce qu'il n'avait pas reçu les voitures.
+[16] Lorsqu'on lui a demandé s'il avait déjà demandé à M. Bruce ce qui se passait, il a répondu qu'il ne pensait pas l'avoir fait, qu'il ne s'agissait que de transactions semblables à celles qu'il effectuait. Elles étaient légèrement différentes, tout en étant néanmoins des achats et des ventes. Lorsqu'on lui a demandé s'il était possible qu'il ne voulait pas le savoir, il a répondu que cela était possible.
+[17] Dans la réponse, en ce qui concerne des questions autres que les pénalités, on a présenté 28 hypothèses de fait. L'une d'entre elles contenait neuf sous-paragraphes. Étant donné que j'ai proposé d'aborder la question qui consiste à savoir si les hypothèses de fait n'ayant pas été précisément niées par l'appelante devraient être considérées comme des faits dans le présent appel, je présente ces hypothèses rédigées en ces termes :
+[traduction]
+8. En établissant ainsi la cotisation de l'appelante, le ministre s'est fondé notamment sur les hypothèses de fait suivantes :
+a) les faits établis et admis ci-dessus;
+b) l'appelante est inscrite aux fins de la TPS et son numéro d'inscription est le 132477787RT;
+c) l'appelante est une société qui vend des véhicules à moteur;
+d) la Loi sur la taxe d'accise modifiée, L.R.C. 1985, ch. E-15, dans sa version modifiée, prévoit que l'appelante doit fournir des déclarations de TPS tous les mois;
+e) entre octobre 1997 et août 1998, l'appelante aurait acheté 210 véhicules à moteur de trois sociétés à dénomination numérique constituées en personnes morales en Ontario et de deux entreprises individuelles situées en Ontario (les « vendeuses » );
+f) les vendeuses étaient :
+Dénomination sociale
+Nom commercial
+1206866 Ontario Inc.
+Parkerville Enterprises
+1283915 Ontario Ltd.
+Aucun
+Mathew Owl
+Capital Cars & trucks
+1265111 Ontario Inc.
+Owl & Associates
+Ezra Owl
+Belmont Auto
+g) l'appelante aurait également acheté d'autres véhicules à moteur des vendeuses en septembre 1998;
+h) les vendeuses travaillaient principalement sous la direction d'une personne nommée Ken Parker qui était originaire de la Nouvelle-Écosse, bien qu'il se soit trouvé dans la province d'Ontario pendant toute la période pertinente au présent appel;
+i) il y avait une relation étroite entre Ken Parker et John Bruce;
+j) l'appelante et les vendeuses participaient à un stratagème frauduleux visant l'achat et la vente de véhicules à moteur;
+(i) Ken Parker négociait une vente de véhicules à moteur avec une acheteuse ( « l'acheteuse » ), une des conditions était que l'acheteuse fasse un paiement à l'appelante;
+(ii) pour chacune des transactions, Ken Parker envoyait des directives à John Bruce, en général par télécopieur, dont le nom de la vendeuse et de l'acheteuse ainsi que la marque, le modèle, l'année et le numéro d'identification du véhicule;
+(iii) selon les directives, on indiquait également le prix d'achat présumé de la vendeuse et le prix de vente présumé de l'acheteuse;
+(iv) l'appelante faisait parvenir son « prix d'achat » à Ken Parker après avoir reçu, de l'acheteuse le produit de la vente;
+(v) le « prix d'achat » moyen de l'appelante au moment de l'achat auprès de la vendeuse était inférieur de 800 $ au prix payé par l'acheteuse, un montant représentant la rémunération de l'appelante pour sa participation à la transaction, soit un montant total de 195 924 $ pour la période faisant l'objet du présent appel;
+(vi) John Bruce préparait ensuite des factures au nom de la vendeuse et de l'appelante afin de documenter le présumé achat de la vendeuse et la présumée vente du véhicule par l'appelante;
+(vii) les vendeuses ont prétendu avoir facturé à l'appelante la TVH à un taux de 15 p. 100 sur les transactions auxquelles on fait référence aux paragraphes 8e) et 8g) et avoir perçu ces montants;
+(viii) l'annexe A, ci-jointe, présente les détails de chaque transaction présumée relative à un véhicule comme les a enregistrés John Bruce, y compris le montant qu'il aurait payé en taxe et représentant le CTI réclamé par l'appelante et qui a été refusé;
+(ix) l'appelante aurait facturé la TPS à un taux de 7 p. 100;
+k) Les acheteuses étaient :
+Dénomination sociale
+Nom commercial
+1070699 Ontario Ltd.
+Corporate Leasing & Rental
+1081528 Ontario Ltd.
+Federal Leasing & Rental
+1261531 Ontario Ltd.
+K & M Motors
+1211863 Ontario Ltd.
+A & T Leasing
+1265111 Ontario Ltd.
+Owl & Associates
+Ezra Owl
+Belmont Auto
+1262672 Ontario Ltd.
+s/o
+Waytee Inc.
+s/o
+1283915 Ontario Ltd.
+s/o
+Bravo Management Services Inc.
+s/o
+Peleshok Motors (Ajax) Ltd.
+s/o
+Technessen Ltd.
+s/o
+The American German Connection Inc.
+s/o
+l) Ken Parker avait un lien de dépendance avec 1070699 Ontario Ltd. et 1081528 Ontario Ltd.;
+m) toutes les acheteuses avaient déjà traité avec Ken Parker et étaient prêtes à accepter les transactions et les transactions présumées afin de faciliter l'exécution du stratagème susmentionné;
+n) les véhicules à moteur auxquels on a fait référence aux paragraphes 8e) et 8g) n'ont jamais été livrés ou mis à la disposition de l'appelante et n'ont jamais été sous l'autorité ou le contrôle de l'appelante;
+o) l'appelante n'a jamais négocié la vente ou l'achat de l'un ou l'autre des véhicules auxquels on a fait référence aux paragraphes 8e) et 8g), mais elle agissait simplement comme intermédiaire pour les transferts de fonds et a permis qu'on prépare des factures à son nom;
+p) ni l'appelante, ni un mandataire de l'appelante ne possédait de titre de propriété ni d'intérêt pour l'un ou l'autre des véhicules à moteur auxquels on a fait référence aux paragraphes 8e) et 8g) pendant la période pertinente;
+q) lorsqu'elle remplissait ses déclarations de TPS/TVH pour la période pertinente, l'appelante a déclaré un taux de TVH de 7 p. 100 perçu dans le cadre des transactions auxquelles on a fait référence aux paragraphes 8e) et 8g), et a réclamé la TVH de 15 p. 100 que l'appelante a payé relativement à ces mêmes transactions à titre de CTI;
+r) aucune des vendeuses n'a rempli de déclaration de TPS;
+s) certains des véhicules à moteur auxquels on a fait référence aux paragraphes 8e) et 8g) appartenaient à un tiers au moment des achats et des ventes présumés de l'appelante, et ni l'appelante ni les vendeuses ne possédaient de titre de propriété ou d'intérêt de quelque nature que ce soit pour ces véhicules à moteur;
+t) certains des véhicules à moteur auxquels on a fait référence aux paragraphes 8e) et 8f) n'existaient pas au moment des achats et ventes présumés de l'appelante;
+u) certains des véhicules à moteur auxquels on a fait référence aux paragraphes 8e) et 8f) n'ont jamais changé de main entre le propriétaire et l'appelante au moment des achats et ventes présumés de l'appelante;
+v) dans sa déclaration de revenus pour le mois de septembre 1998, l'appelante a déclaré un montant de 82 358 $ en taxe perçue et a réclamé un CTI de 176 979 $;
+w) du CTI réclamé en septembre 1998, 168 075 $ étaient liés aux présumées transactions susmentionnées;
+x) l'appelante n'avait aucun document, livre ou registre de quelque sorte que ce soit pour justifier le CTI réclamé en septembre 1998 bien qu'un montant total de 1 288 575 $ ait été versé à l'une des vendeuses pour ce mois;
+y) les transactions auxquelles on a fait référence aux paragraphes 8e) et 8g) ne constituaient pas des opérations commerciales véritables;
+z) l'appelante a réclamé, à deux reprises, un CTI pour les véhicules suivants :
+VIN du véhicule
+Première réclamation
+Deuxième réclamation
+CTI réclamé
+018111
+Octobre 1997
+Novembre 1997
+6 505,65 $
+WE147418
+Novembre 1997
+Janvier 1998
+5 753,10 $
+W0181700
+Juillet 1998
+Juillet 1998
+6 000,00 $
+aa) le stratagème frauduleux décrit ci-dessus, surtout au paragraphe 8j), constituait une entente factice exécutée par l'appelante et les vendeuses afin de donner l'impression que l'appelante achetait et vendait les automobiles décrites aux paragraphes 8e) et 8g) alors que ce n'était pas le cas;
+bb) les factures préparées par John Bruce selon les directives des vendeuses ne l'étaient que dans le but de documenter l'entente factice susmentionnée et ne reflétaient pas des achats et des ventes réels.
+ANALYSE ET CONCLUSIONS
+[18] Je constate que M. E. est un témoin tout à fait crédible. Selon moi, cette crédibilité n'est pas compromise par le fait qu'il a affirmé, à la fin du contre-interrogatoire, qu'il était possible qu'il n'ait pas voulu savoir ce que M. Bruce faisait. M. E. savait exactement ce qu'il faisait lui-même.
+[19] M. E., le président de l'appelante exploitait une entreprise d'achat et de vente de véhicules. M. Bruce l'a approché et lui a proposé de participer à l'achat et à la vente d'autres véhicules. M. Bruce fournissait à M. E. les documents nécessaires dont certains avaient été préparés par M. Bruce. Le fait que ce dernier trouvait les vendeuses et les acheteurs n'avait aucune incidence sur les activités de l'appelante à l'exception du fait qu'il pouvait effectuer une transaction qui nécessitait moins de travail qu'à l'ordinaire. L'appelante percevait le prix d'achat des véhicules vendus et facturait la TPS appropriée et elle payait à la vendeuse le montant facturé qui incluait la TVH.
+[20] Dans ses brèves observations écrites, l'avocat de l'appelante a indiqué que M. E. communiquait à M. Bruce chacune des décisions qu'il prenait au nom de l'appelante quant à l'achat d'un véhicule aux fins de vente dans l'espoir que ces renseignements seraient transmis par M. Bruce au propriétaire du véhicule. De plus, l'avocat a affirmé que cette chaîne de communication aurait permis, dans chaque cas, de communiquer une offre à l'appelante quant à l'achat d'un véhicule et, au nom de l'appelante, il communiquait avec le propriétaire du véhicule afin de l'informer que l'offre avait été acceptée. L'avocat a ajouté que l'octroi ultérieur de fonds par l'appelante au propriétaire, soit un montant égal à celui du prix d'achat convenu (comprenant le montant de taxe réclamé par la vendeuse et que l'appelante devait verser relativement à l'achat), représentait la contribution de l'appelante aux termes de l'entente. L'avocat a ajouté que l'appelante concluait un accord contraignant et exécutoire avec le propriétaire de chacun de ces véhicules aux termes duquel l'appelante acquérait un droit contractuel d'avoir en sa possession le véhicule livré à l'appelante ou à son directeur de même que son titre, rendant ainsi l'appelante responsable de payer le prix d'achat. Selon les faits présentés à la Cour, j'appuie cette observation.
+[21] Le présent appel nous amène à discuter de la question du fardeau reposant sur l'appelante qui doit nier les hypothèses de fait établies par le ministre. Un examen historique de la jurisprudence ainsi que la référence à des commentaires écrits vont de soi.
+[22] Dans l'arrêt Pleet v. Canadian Northern Quebec R.W. Co., 50 O.L.R. 223, (confirmé par la C.S.C. [1923] 4 D.L.R. 1116) la Division d'appel de la Cour suprême de l'Ontario a conclu que les défendeurs étaient des transporteurs publics de pommes de terre à partir du moment de la réception jusqu'à ce qu'on les trouvent gelées dans leur benne appuyée contre le mur. La Cour a conclu qu'ils auraient pu se libérer de la responsabilité de la perte des pommes de terre s'ils avaient établi que le gel n'était pas attribuable en tout ou en partie à une négligence de leur part. La Cour a également conclu que le fardeau reposait sur eux et qu'ils ne s'en étaient pas déchargés. Le juge d'appel Ferguson s'est exprimé en ces termes à la page 227 :
+[traduction]
+Il ne fait aucun doute que, d'après la règle générale, l'auteur d'une affirmation doit en faire la preuve, et que cette charge incombe généralement à la partie demanderesse, mais il y a deux exceptions bien connues :
+1) Lorsque l'objet de l'allégation relève spécifiquement du domaine des connaissances de l'une des parties, c'est à cette partie qu'il incombe d'en faire la preuve, d'une façon positive ou négative: Mahony v. Waterford Limerick and Western R.W. Co., [1900] 2 I.R. 273, à la p. 280; Kent v. Midland R.W. Co. (1874), L.R. 10 Q.B. 1.
+Celui qui invoque une exception à la règle générale doit prouver qu'il a le droit de s'en prévaloir : Ashton & Co. v. London and North-Western R.W. Co., [1918] 2 K.B. 488; London and North-Western R.W. Co. v. Ashton & Co., [1920] A.C. 84.
+Le demandeur a établi que les biens sont passés en la possession de ces défendeurs et qu'ils sont restés en leur possession, leur maîtrise et leur contrôle ou en la possession, la maîtrise et le contrôle du transporteur correspondant, Grand Trunk, jusqu'à ce qu'ils soient détruits. Le demandeur n'a eu aucune possibilité de savoir ce qui est arrivé aux pommes de terre, la façon dont elles ont été traitées, la façon dont elles ont été manipulées, et la façon dont elles ont gelé de même que l'heure et l'endroit où elles l'ont été. D'autre part, les défendeurs savaient ou avaient tout le loisir de savoir, d'apprendre et de présenter des renseignements à la Cour. Les défendeurs possédaient une connaissance particulière des faits et, dans les circonstances, il me semble qu'il leur incombait de les fournir. Taylor on Evidence, 11e éd., p. 375; 1 Sm. L. C., 12e éd., p. 257; etSt. John v. Illinois Central R.R. Co. (1912), 168 Ill. App. 599; [...]
+(Je souligne)
+[23] Dans l'arrêt Anderson Logging Co. v. British Columbia, [1925] R.C.S. 45, le juge Duff, s'est exprimé en ces termes à la page 46 :
+[traduction]
+La principale question en litige dans le présent appel consiste à savoir si le profit accumulé par la vente était, en tout ou en partie, assujetti à l'impôt sur le revenu. La réponse à cette question dépend essentiellement de la réponse à la question de savoir si on pouvait classer le profit dans la catégorie « revenu » au sens de la loi de la Colombie-Britannique.
+[...]
+Il a également dit ce qui suit à la page 49 :
+[traduction]
+Au nom de la compagnie appelante, on allègue d'abord qu'il revenait à la Couronne de démontrer que le profit a été tiré d'une activité qui faisait partie de l'entreprise réellement exploitée par la compagnie et ensuite que, selon ce que l'on décrit comme un cas isolé d'achat et de vente de ces concessions forestières, on ne peut honnêtement tirer aucune inférence quant aux activités de la compagnie.
+Premièrement, examinons le débat sur la question du fardeau de la preuve. Si, dans le cadre d'un appel devant le juge de la Cour de révision, il semble, d'après les faits véridiques, que l'application de la loi pertinente soulève des doutes, il semblerait, en principe, que la Couronne doive être déboutée. Ce serait la conséquence nécessaire du principe à la lumière duquel les lois imposant un fardeau de preuve au sujet ont, selon une pratique bien enracinée, été interprétées et appliquées. Mais en ce qui a trait à l'enquête sur les faits, l'appelant se trouve dans la même position que tout autre appelant. Il doit démontrer que la cotisation contestée n'aurait jamais dû être établie; c'est-à-dire qu'il doit faire la preuve de faits qui permettent d'affirmer que la cotisation n'était pas autorisée par la loi fiscale ou qui jettent un tel doute sur la question qu'en vertu des principes susmentionnés, la responsabilité de l'appelant ne peut être retenue. Naturellement, on peut établir les faits véridiques au moyen d'éléments de preuve directe ou d'inférences probables. L'appelant peut présenter des faits pour établir une prétention prima facie qui demeure incontestée; mais pour déterminer si une telle preuve a été établie, il est important de ne pas oublier, si tel est le cas, que les faits sont jusqu'à un certain point, sinon exclusivement, du domaine de la connaissance de l'appelant; bien que, pour des raisons évidentes, il convienne de ne pas trop insister sur cette dernière question.
+(Je souligne)
+[24] Dans l'arrêt Johnston v. Canada (Minister of National Revenue), [1948] S.C.R. 486, on a examiné en vertu de la Loi de l'impôt de guerre sur le revenu le taux d'impôt approprié applicable à l'année 1944. Le juge Rand s'est exprimé en ces termes à la page 488 :
+[TRADUCTION]
+L'appel soulève également la question du fardeau. En vertu de l'article 58, toute personne s'opposant au montant de sa cotisation peut interjeter appel auprès du ministre. Si le ministre rejette l'appel, en vertu du paragraphe 60(1), un avis d'insatisfaction peut être signifié au ministre et le contribuable devra y indiquer son intention d'avoir son appel inscrit au rôle. En vertu du paragraphe (2),
+L'appelant devra y joindre un compte-rendu définitif des faits supplémentaires, des dispositions législatives et des motifs qu'il prévoit invoquer devant la Cour à l'appui de son appel et qui n'avaient pas été énoncés dans l'avis d'appel susmentionné ou, de façon subsidiaire, une récapitulation de tous les faits, dispositions législatives et motifs indiqués dans l'avis d'appel susmentionné ainsi que les faits supplémentaires, dispositions législatives et les motifs que le contribuable prévoit invoquer devant la Cour à l'appui de l'appel.
+[...]
+Et à la page 489, il a ajouté :
+[TRADUCTION]
+Bien qu'elle soit considérée, aux termes du paragraphe 63(2), comme une action prête pour le procès ou l'audience, l'instance est un appel à l'encontre de la taxation; de plus, puisque la taxation se fonde sur certains faits et certaines dispositions de la loi, soit ces faits soit l'application de la loi est contestée. Tout fait de ce genreconstaté ou présumé par le répartiteur ou le ministre doit alors être admis tel qu'il a été traité par ces personnes, à moins qu'il ne soit contesté par l'appelant. En l'espèce, si le contribuable avait eu l'intention de contester le fait qu'il subvenait aux besoins de son épouse au sens des Règles mentionnées, il aurait dû soulever cette question dans son acte de procédure et la charge lui serait revenue, comme à tout appelant, de démontrer que la conclusion formulée ci-dessous n'était pas justifiée. À cette fin, il aurait pu déposer une preuve devant la Cour, même si cette preuve n'avait pas été présentée au répartiteur ou au ministre, mais la charge lui revenait de réfuter le fait principal sur lequel la taxation était fondée.
+(je souligne)
+[25] Dans la décision Eli Lilly and Co. c. Nu-Pharm Inc., [1997] 1 C.F. 3, la Cour d'appel fédérale s'est exprimée ainsi au paragraphe 23 :
+Le juge des requêtes a défini la présomption créée par la common law en ces termes, aux pages 152 et 153 :
+[...] lorsqu'une des parties ne produit aucune preuve touchant un fait qu'elle est la mieux à même de démontrer, la Cour en inférera que les faits sont contraires à l'intérêt de cette partie.
+Cette exception est fondée sur la maxime énoncée par lord Mansfield dans la décision Blatch v. Archer (1774), 1 Cowp. 63, à la page 65; 98 E.R. 969, à la page 970 :
+[Traduction] Il existe certainement un principe voulant que tous les faits soient appréciés à la lumière de la preuve que l'une des parties était en mesure de produire et que l'autre partie était en mesure de réfuter.
+Le savant juge a ensuite fait référence aux arrêts Pleet (précités) de la Cour d'appel et de la Cour suprême du Canada.
+[26] Dans l'arrêt Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, la Cour s'est exprimée en ces termes :
+Comme je l'ai signalé, l'appelante a produit une preuve claire et non contredite, alors que l'intimée n'a produit absolument aucune preuve. À mon avis, le droit sur ce point est bien établi et l'intimée ne s'est pas acquittée de son fardeau de preuve pour les raisons suivantes.
+La Cour a ensuite indiqué que l'appelant se décharge du fardeau initial visant à « démolir » les hypothèses établies par le ministre lorsqu'il présente au moins une preuve prima facie. Elle ajoute que l'appelant a présenté une preuve qui non seulement répond au critère de la preuve prima facie, mais va même encore plus loin. La Cour s'est exprimée en ces termes au paragraphe 93 :
+Il est établi en droit qu'une preuve non contestée ni contredite « démolit » les présomptions du ministre [...] Comme je l'ai dit, aucune partie de la preuve produite par l'appelante en l'espèce n'a été contestée ni contredite. [...]
+Et au paragraphe 94 :
+Lorsque l'appelant a « démoli » les présomptions du ministre, le « fardeau de la preuve [...] passe [...] au ministre qui doit réfuter la preuve prima facie » faite par l'appelant et prouver les présomptions [...]
+Au paragraphe 95, la Cour s'est exprimée en ces termes :
+Lorsque le fardeau est passé au ministre et que celui-ci ne produit absolument aucune preuve, le contribuable est fondé à obtenir gain de cause
+[...]
+[27] Dans un article intitulé « TheBurden of Proof in Income Tax Cases » publié dans la Revue fiscale canadienne, 1978, Charles MacNab s'est exprimé ainsi à la page 406 après avoir fait référence aux déclarations du juge Duff dans l'arrêt Anderson Logging :
+[traduction]
+Il va sans dire qu'on y examine plus en détail les politiques et l'équité relativement à la façon dont le fardeau dépend des hypothèses exactes présentées selon lesquelles aucun contribuable ne devrait être placé dans une situation où il doit réfuter une avalanche d'hypothèses en matière de cotisations qui, semble-t-il, pourraient entraîner des investissements importants tant en matière d'argent que de temps.
+[28] Dans un article publié par l'Association canadienne d'études fiscales et rédigé par William Innes et Hemamalini Moorthy (William Innes and Hemamalini Moorthy, « Onus of Proof and Ministerial Asumptions [sic]: The Role and Evolution of Burden of Proof in Income Tax Appeals » , 1998, no 46, Revue fiscale canadienne, page 1187. On retrouve les conclusions et les commentaires suivants à la page 1188 :
+[traduction]
+Les auteurs concluent que, lorsque le contribuable et non le ministre possède une connaissance particulière des faits sous-jacents, le fardeau qui incombe au contribuable de réfuter les hypothèses du ministre constitue une forme d'inférence négative tirée par les tribunaux au titre de l'ordre public. Lorsqu'un contribuable doit « démolir » les hypothèses de fait du ministre, il n'a qu'à établir une preuve prima facie selon lesquelles les hypothèses sont inexactes. Si la Couronne ne présente aucun élément de preuve, les éléments de preuve présentés par le contribuable seront habituellement réputés démolir les hypothèses du ministre à moins qu'ils ne soient contestés avec succès dans le cadre du contre-interrogatoire, ou s'ils présentent des questions graves de crédibilité ou que la Cour tire une inférence négative du défaut du contribuable d'avoir présenté une preuve déterminante dont il disposait.
+(Je souligne)
+Et à la page 1190 :
+[TRADUCTION]
+[...] à notre avis, afin de « démolir » une hypothèse du ministre, il suffit de faire la preuve de faits pertinents dont le contribuable a connaissance si ces faits réfutent les hypothèses du ministre. Si la Cour est convaincue que tous les faits pertinents dont le contribuable a connaissance lui ont été présentés à la Cour et que ces faits réfutent à première vue les hypothèses du ministre, de telles hypothèses ne seront plus appliquées dans le cadre de l'audience.
+(Je souligne)
+[...]
+Et à la page 1209 :
+[TRADUCTION]
+Il nous semble clair qu'au cours des dernières années, les tribunaux ont davantage simplifié et clarifié les règles en matière de fardeau et d'hypothèses du ministre dans le cadre de contestations fiscales. Outre certaines exceptions, telles que des déclarations fausses ou des omissions, des années prescrites et des actes de procédures subsidiaires [...], nous croyons que les règles peuvent être résumées de la façon suivante :
+1) La règle en matière d'hypothèses du ministre constitue une forme d'inférence négative tirée par les tribunaux au titre d'ordre public compte tenu de la thèse du bon sens selon laquelle le contribuable et non le ministre possède la connaissance particulière des faits pertinents sous-jacents à la cotisation.
+2) Bien que tout doute ne soit pas exclu à cet égard, la règle ne s'étend probablement pas aux hypothèses de faits du ministre qu'on ne pourrait pas raisonnablement s'attendre à ce que le contribuable prouve ou réfute (par exemple, les activités de tiers dont le contribuable n'a aucune connaissance) et il est probable qu'il incombe à la Couronne de faire la preuve de tels faits.
+(Je souligne)
+[29] En dernier lieu, à la page 1211, les auteurs susmentionnés se sont exprimés en ces termes :
+Les hypothèses du ministre devraient être invoquées uniquement en vue de rejeter l'appel et seulement dans les affaires où la Cour conclut que le contribuable n'a pas présenté une preuve déterminante qu'il possédait ou qui était sous son contrôle. [...]
+(Je souligne)
+[30] L'appelante n'avait aucune connaissance des hypothèses présentées aux paragraphes 8h) et i) et aux sous-paragraphes (i), (ii) et (iii) du paragraphe j) ainsi qu'aux paragraphes l), m), n), p), r), s), t) et u). Le langage utilisé au début du paragraphe j) qui indique que : « participaient à un stratagème frauduleux visant l'achat et la vente de véhicules à moteur » a été clairement nié par l'appelante. Les hypothèses présentées aux paragraphes aa) et bb) où l'on a fait référence à des « ententes factices » semblent fondées davantage sur le droit que sur les faits et semblent n'avoir été présentées que pour appuyer la conclusion du ministre. On peut dire la même chose du paragraphe y) où l'on indique que les transactions n'étaient pas de véritables opérations commerciales.
+[31] Comme il est indiqué ci-dessus, les hypothèses contiennent un certain nombre d'affirmations qui, selon la preuve, ne pouvaient être connues de M. E. Par exemple, l'hypothèse vague selon laquelle certains des véhicules visés par les transactions pertinentes « n'existaient pas au moment des achats et ventes présumés de l'appelante » semble être utilisée afin de décrire les activités de l'appelante de façon à ce qu'elles ne soient pas admissibles au CTI réclamé. La perception de faits qui ne sont connus que de l'intimée et qui sont présentées dans la réponse à l'avis d'appel comme des hypothèses, n'étant pas connus de l'appelante et difficiles ou impossibles à réfuter sans que cette dernière n'ait à fournir un effort extraordinaire ou à engager des frais importants, ne doivent pas être considérés comme des faits simplement parce qu'ils n'ont pas été précisément réfutés par l'appelante dans son témoignage. Dans ces circonstances, les hypothèses de fait ne peuvent pas remplacer le devoir de l'intimée de présenter des preuves pour justifier ou appuyer ce qui peut être pertinent afin de contrer ou influencer la version des faits de l'appelante.
+[32] L'intimée n'a présenté aucun élément de preuve en ce qui concerne la question à trancher et n'a offert aucune observation quant à ces hypothèses. Cela ne fait que renforcer les affirmations de lord Mansfield dans la décision Blatch v. Archer, précitée, lorsqu'il s'est exprimé en ces termes :
+[TRADUCTION]
+Il existe certainement un principe voulant que tous les faits soient appréciés à la lumière de la preuve que l'une des parties était en mesure de produire et que l'autre partie était en mesure de réfuter.
+[33] Les hypothèses du ministre en ce qui concerne les faits dont il avait connaissance ont été démolies par l'appelante. Conformément à la décision Hickman Motors Ltd., le fardeau passe donc au ministre, et lorsque le ministre ne présente pas de preuve, le contribuable est fondé à obtenir gain de cause. Cela correspond à l'affirmation susmentionnée de la décision Pleet qui est rédigée en ces termes :
+[traduction]
+Les défendeurs possédaient une connaissance particulière des faits et, dans les circonstances, il me semble qu'il leur incombait de les fournir.
+Cela correspond également aux sentiments du juge Duff dans la décision Anderson Logging Co., précitée, et que nous répétons ici :
+[TRADUCTION]
+L'appelant peut présenter des faits pour établir une prétention prima facie qui demeure incontestée; mais pour déterminer si une telle preuve a été établie, il est important de ne pas oublier, si tel est le cas, que les faits sont jusqu'à un certain point, sinon exclusivement, du domaine de la connaissance de l'appelant; bien que, pour des raisons évidentes, il convienne de ne pas trop insister sur cette dernière question.
+(Je souligne)
+[34] De plus, en me fondant sur mon analyse de la preuve, je conclus que l'appelante a réussi, en ce qui concerne les faits connus par M. E., à réfuter « le fait principal sur lequel la taxation était fondée » tel que cela est énoncé dans l'affaire Johnston.
+[35] On se demande si, comme il est proposé dans la Réponse, les responsables de ce stratagème frauduleux ont été poursuivis par le fisc pour des fonds que l'intimée tentait de recouvrer en imposant la nouvelle cotisation qui fait l'objet du présent appel.
+[36] J'ai pris ma décision en me fondant sur le témoignage de M. E. auquel j'ajoute entièrement foi. Il était le seul témoin présent à l'audience. L'avocat de l'intimée a procédé à un contre-interrogatoire et, pendant tout l'interrogatoire, il ne m'a donné aucune raison de croire qu'il n'était pas honnête et franc quant à ce qu'il connaissait.
+[37] En ce qui concerne les transactions pertinentes, des documents ont été présentés à l'appelante. On y indique son accord pour procéder aux transactions. L'appelante a reçu le prix d'achat et la TPS appropriée d'une personne dont elle n'avait aucune raison de croire qu'elle n'était pas l'acheteuse. Elle a payé à la vendeuse le montant de sa facture, y compris la TVH. Elle a payé le montant approprié d'impôt sur le revenu, un fait non signalé dans la réponse de l'intimée. L'appelante a également demandé et reçu un crédit de taxe sur les intrants.
+[38] J'ai conclu, en me fondant sur la preuve, ce qui ne comprend pas les hypothèses du ministre susmentionnées que l'appelante a acheté les véhicules, au sens et aux fins de l'article 169 de la Partie IX de la Loi sur la taxe d'accise qui concerne la TPS. La partie pertinente de cet article est formulée de cette manière :
+[...] [u]n crédit de taxe sur les intrants d'une personne, [...] relativement à un bien [...] qu'elle acquiert [...] correspond au résultat du calcul suivant si [...] la taxe [...] devient payable par la personne [...].
+[39] Par conséquent, l'appelante a droit aux CTI demandés à l'exception du montant de 168 075 $ lié à certaines des transactions pertinentes et réclamé en septembre 1998. Comme l'ont confirmé les avocats des deux parties, il n'y avait aucune preuve à l'appui comme l'exige le paragraphe 169(4) de la Loi dont la partie pertinente est rédigée en ces termes :
+L'inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+[40] L'avis de (nouvelle) cotisation contenu dans le recueil des pièces de l'appelante n'explique pas la raison ni la formule du calcul des pénalités imposées. L'article 280.1 de la Loi prévoit qu'une personne qui ne verse pas ou ne paie pas un montant au receveur général dans le délai prévu est tenue de payer une pénalité de 6 p. 100 par année sur ce montant. Dans la présente affaire, si ce montant n'a pas été versé ou payé, la pénalité sera applicable. L'article 285 de la Loi prévoit une pénalité pour toute personne qui sciemment ou dans des circonstances équivalant à faute lourde fait un faux énoncé ou une omission dans une déclaration, une demande, un formulaire, un certificat, un état, une facture ou une réponse, y participe, y consent ou y acquiesce. L'avocat de l'intimée a fait remarquer que l'on avait imposé ces pénalités à l'appelante en vertu de cet article pour les CTI réclamés et refusés.
+[TRADUCTION]
+parce qu'elle a sciemment ou dans des circonstances équivalant à faute lourde, a fait un faux énoncé ou une omission dans une déclaration de TPS/TVH établie pour la période visée par le présent appel dans laquelle elle a réclamé des CTI auxquels elle n'avait pas droit.
+Dans ses observations écrites, l'avocat de l'intimée déclare entre autre que M. E. savait que l'appelante n'avait acheté aucun des véhicules en question et qu'il n'était pas obligé de payer la TPS/TVH sur des achats non effectués. Dans ses observations orales, il a indiqué que M. E. n'avait pas cherché à savoir ce qui se passait et que, pour cette raison, il y a eu faute lourde. Ces observations ne tiennent pas compte de la preuve et n'ont aucun fondement en droit. M. E. croyait fermement que l'appelante achetait les voitures. Le fait qu'il n'ait pas demandé « ce qui se passait » ne pourrait probablement pas, dans ces circonstances, constituer une faute lourde. M. E., lorsqu'il a participé aux transactions que lui proposait M. Bruce, ne le faisait que dans le cadre de l'entreprise de véhicules commerciaux qu'il exploitait.
+[41] De toute façon, étant donné que l'appelante obtient gain de cause dans la présente affaire, aucune pénalité ne s'applique, y compris les pénalités imposées sur le montant de 168 075 $ susmentionné pour lequel on n'a présenté aucune preuve pour justifier les pénalités.
+[42] Pour les motifs susmentionnés, l'appel est accueilli à l'exception des CTI d'un montant susmentionné de 168 075 $.
+DÉPENS
+[43] L'avocat a rédigé des observations relativement aux dépens. L'avocat de l'appelante a détaillé les services fournis, indiquant que le montant total serait de 4 000 $. Il s'est fondé sur l'article 147 des Règles de la Cour canadienne de l'impôt (procédure générale) qui est rédigé en ces termes :
+La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l'annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+Il a ensuite décrit le montant visé, soit 1 945 965,99 $, en fait plus de dix fois le montant minimal établi pour les procédures de type C. Il s'est ensuite exprimé en ces termes :
+[traduction]
+L'intimée a porté de graves allégations contre Redash et son directeur William Evong dans sa réponse. Essentiellement, l'intimée prétend que l'appelante était complice d'un stratagème frauduleux de transactions factices visant à frauder l'Agence de revenu du Canada. Ces allégations ont été présentées comme hypothèses de fait dans la réponse de l'intimée sans avoir été justifiées pendant l'audience et ont été rejetées par la Cour.
+[44] Dans la demande conjointe relativement à une date et à un endroit pour l'audience, on a indiqué ce qui suit :
+[traduction]
+L'appelante présentera environ quatre témoins et cinquante documents et l'intimée présentera trois témoins et dix-sept documents ou feuillets.
+Il était logique pour l'avocat de l'appelante de supposer que la preuve fournie par l'intimée serait liée aux hypothèses de fait présentées dans la réponse à l'avis d'appel et d'avoir consacré beaucoup d'énergie pour se préparer dans ce sens.
+[45] L'appelante a réussi à démolir les hypothèses dont elle avait connaissance. L'intimée n'a présenté aucune preuve permettant d'établir ces hypothèses de fait comme elle devait le faire.
+[46] Compte tenu
+1) de la nature des hypothèses présentées dans l'observation de l'appelante relativement aux frais;
+2) du fait que l'intimée n'a produit aucune preuve à ce sujet;
+3) des observations de l'avocat de l'appelante,
+des frais de 8 000 $, plus des débours appropriés, sont accordés à l'appelante.
+Signé à Ottawa, Canada, ce 16e jour de juin 2004.
+« R. D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 26e jour de novembre 2004.
+Louise-Marie LeBlanc, traductrice
+[1] Ce qui laisse entendre qu'il ne pouvait avancer le montant de la taxe et attendre le CTI qu'il devait recevoir.
+[2] La TPS ne s'applique pas à certains biens exportés à l'extérieur du Canada.
+[3] Il était intitulé AVIS DE (NOUVELLE) COTISATION.
+[4] Il est clair qu'il s'agissait de ventes non souhaitées des fabricants.

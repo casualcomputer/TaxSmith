@@ -1,0 +1,130 @@
+Title: Grenier v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29780/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-234-29780-grenier-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-05-03
+
+# Grenier v. The Queen
+
+- Citation: 2010 TCC 234
+- Decision date: 2010-05-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6556, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grenier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-03
+Neutral citation
+2010 TCC 234
+File numbers
+2009-2986(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2986(IT)I
+BETWEEN:
+SYLVIE GRENIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Patricia Couture (2009‑3308(IT)I), on March 10, 2010, at Sherbrooke, Quebec.
+Before: The honourable Justice Robert J. Hogan
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Marjolaine Breton
+____________________________________________________________________
+JUDGMENT
+The appeal from the redetermination made under the Income Tax Act for the 2007 base taxation year is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and redetermination, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 3rd day of May 2010.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+on this 24th day of June 2010
+Margarita Gorbounova, Translator
+Citation: 2010 TCC 234
+Date: 20100503
+Docket: 2009-2986(IT)I
+BETWEEN:
+SYLVIE GRENIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+INTRODUCTION
+[1] The appellant is appealing from the redetermination made by the Minister of National Revenue (the Minister), according to which, for the period from July to November 2008, she was not the "eligible individual" within the meaning of section 122.6 of the Income Tax Act (ITA), and as a result, was not entitled to the Canada Child Tax Benefit (CCTB) in respect of her child P. because P. did not live with the appellant during the period at issue.
+[2] Patricia Couture applied for the CCTB in respect of P. for the period from June to November 2008. Following a review, that application was also refused. The two appeals were heard on common evidence.
+[3] The CCTB Customer Service granted the CCTB for P. to Ms. Couture starting in June 2008. The appellant then received a notice of determination stating that she was no longer entitled to the CCTB for her son P. because the benefits were granted to Ms. Couture. The appellant objected to the Minister's decision according to which P. had gone to live at Ms. Couture's house around mid‑June 2008 in order to babysit Ms. Couture's child while she worked part time in the evenings. The appellant claims that Ms. Couture offered to lodge P. at her house during the 2008–09 school year in order to allow P. to finish his studies at the École secondaire de l’Escale in Asbestos. According to the appellant, her son P. had had difficulties at the school he had attended in Sherbrooke. P. wanted to make a fresh start at a school in the area where his father and the appellant's former spouse, Mr. Turcotte, lived. The appellant alleges that P. had a room that was always ready for him at her residence. The appellant is also alleging that she continued to provide for her son's needs while he stayed with Ms. Couture. She stated that she had bought clothes and school supplies at the beginning of the school year. She enrolled P. at the new school in Asbestos, and she was indicated as the person responsible for P. in the school's records. P.'s father corroborated the testimony of his former spouse, the appellant. He also added that his son and he often had lunch together at the local snack bar near Ms. Couture's house. He testified that he gave P. spending money for small expenses. He confirmed that the appellant and he bought groceries for their son at least twice while P. lived with Ms. Couture.
+[4] According to Mr. Turcotte, if the appellant was unable to meet with the school staff, he made arrangements to replace her. The documents provided by the École secondaire de l’Escale filed as Exhibit A-1-G indicate that P.'s mother had parental authority in respect of P. P.’s 2008–09 report card also indicates that the person responsible for him was his mother.
+[5] P. corroborated his parents' testimony.
+[6] Ms. Couture testified that she had moved to Asbestos in May 2008. She had found a part-time job at a social club. She took steps to find a babysitter for her 12‑year‑old son. She met P.'s father in May 2008, and he indicated that his son P. might want to babysit Ms. Couture's son. According to her, at first P. babysat her son at her house on weekends at the start of June. During his visits, P. told Ms. Couture that he did not want to return to live with his mother during the school year. Although Ms. Couture lost her job at the end of June, which ended P.'s babysitting contract, he continued living at Ms. Couture's house during the summer. About mid‑August 2008, Ms. Couture confirmed to P. that he could stay at her house during the 2008–09 school year. P. moved his personal effects to Ms. Couture’s house around mid‑August 2008 and stayed there until November 29, 2008, when he returned to the appellant's house.
+[7] According to Ms. Couture, it was Marie-Renée Ruel, a social worker at the Centre de jeunesse de Plessisville, who suggested that she apply for the CCTB for P. Ms. Couture stated that she did not understand why she was entitled to support from the provincial government, but not the federal government in regard to providing lodging to P. According to her, she provided for P.'s needs alone. P. had a schedule, curfew and bedtime. According to her, P. very rarely visited his parents during the period at issue.
+ANALYSIS
+[8] The only issue in this case is whether the Minister was incorrect in deciding that the appellant was not the "eligible individual" for the period at issue.
+[9] Section 122.6 of the ITA defines the expression "eligible individual" as follows:
+“eligible individual” in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+(c) is resident in Canada or, where the person is the cohabiting spouse or common-law partner of a person who is deemed under subsection 250(1) to be resident in Canada throughout the taxation year that includes that time, was resident in Canada in any preceding taxation year,
+(d) is not described in paragraph 149(1)(a) or 149(1)(b), and
+(e) is, or whose cohabiting spouse or common-law partner is, a Canadian citizen or a person who
+(i) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act,
+ii) is a temporary resident within the meaning of the Immigration and Refugee Protection Act, who was resident in Canada throughout the 18 month period preceding that time, or
+(iii) is a protected person within the meaning of the Immigration and Refugee Protection Act
+(iv) was determined before that time to be a member of a class defined in the Humanitarian Designated Classes Regulations made under the Immigration Act,.
+and for the purposes of this definition,
+(f) where the qualified dependant resides with the dependant’s female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph 122.6 eligible individual (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing.
+[10] The Minister concluded that the appellant was not entitled to the CCTB for her son only because P. lived with Ms. Couture for the period between May 29 and November 29, 2008.
+[11] Accordingly, I will consider only the issue of whether the appellant resided with P. in accordance with the conditions set out in paragraphs 122.6(a) and (b) of the definition.
+[12] In Lapierre v. The Queen, 2005 TCC 720, Justice Dussault also considered the concept of residence and wrote the following:
+13. Although residence is the fundamental concept applied to determine if a person is subject to income tax under the Act, that term is nonetheless not defined therein and it is the courts that have attempted to establish its scope. Essentially a question of fact, a person’s residence in a given place is determined by a certain number of criteria of time, object, intention and continuity that do not necessarily always carry the same weight and which can vary according to the circumstances of each case. (see Thomson v. M.N.R., [1946] S.C.R. 209). All things considered, residence implies a certain constancy, a certain regularity or else a certain permanence according to a person’s usual lifestyle in relation to a given place and is to be distinguished from what might be called visits or stays for specific purposes or of a sporadic nature. When the Act sets as a condition to reside with another person, I do not consider it appropriate to attribute to the verb “to reside” a meaning which deviates from the concept of residence as it has been developed by the courts. To reside with someone is to live or stay with someone in a given place with a certain constancy, a certain regularity or else in an habitual manner.
+[13] In Carnochan v. The Queen, 2006 TCC 13, Justice Sheridan considered the decision in Lapierre and stated the following:
+8 . . . the definition of "eligible individual" does not require that such a person "primarily" reside with the children; mere residence is enough. . . .
+[14] In Penner v. The Queen, 2006 TCC 413, Justice Beaubier decided that the child's grandmother was entitled to the CCTB. According to the facts of that case, in order to send her granddaughter to a school in another town, the grandmother placed her with a couple who could provide lodging to her during the school year. To cover expenses, the grandmother paid a monthly amount for the child's room and board. Despite the fact that the granddaughter lived with the couple during the school year, the Court found that the child was merely staying with the couple in order to attend school, that she returned to her grandmother's home for the holidays and that it was her grandmother who primarily fulfilled the responsibility for her care and upbringing.
+[15] Lucie Déry, an appeals officer at the Canada Revenue Agency, recorded her conclusions with respect to the appellant's objection to the Minister's decision refusing her the CCTB in a report filed as Exhibit I-2. Ms. Déry confirmed the Minister's decision, according to which the child P. stayed with Ms. Couture during the period at issue, and as a result, Ms. Couture was not the "eligible individual". I agree with that conclusion. I would add that the fact that P. stayed with Ms. Couture does not contradict the conclusion that P. continued to reside with his mother, the appellant, during the period at issue. It is not rare for students today to live outside their primary residence during the school year. Sometimes they live in school dormitories or with people that agree to lodge them. The words “reside with” used in section 122.6 do not mean that the child must sleep under the same roof as the eligible parent during the entire period at issue. The opposite interpretation would mean that the person who primarily fulfils the responsibility for the child’s care and upbringing would not be entitled to the CCTB if, for example, the child attended a summer camp. In these situations, the child would continue to reside with the responsible parent if the child returned home to resume family life after staying somewhere else.
+[16] The evidence showed that P. stayed at the appellant's residence at the end of June 2008 in order to finish his end-of-year exams for the 2007–08 school year. The appellant and P. went on vacation together to Québec and Val-Cartier for a few days at the start of August 2008. The appellant continued to keep a room ready for her child's return. P. kept clothes and personal effects at the appellant's house. Accordingly, I find that the appellant resided with P. during the entire period at issue and that the appellant was the "eligible individual" within the meaning of section 122.6 of the ITA.
+CONCLUSION
+[17] For these reasons, the appeal is allowed.
+Signed at Ottawa, Canada, this 3rd of May 2010.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 24th day of June 2010
+Margarita Gorbounova, Translator
+Citation: 2010 TCC 234
+COURT FILE NO: 2009-2986(IT)I
+STYLE OF CAUSE: SYLVIE GRENIER v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: March 10, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: May 3, 2010
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Marjolaine Breton
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

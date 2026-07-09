@@ -1,0 +1,125 @@
+Title: Persaud c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/65213/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-405-65213-persaud-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-12-13
+
+# Persaud c. La Reine
+
+- Citation: 2013 CCI 405
+- Decision date: 2013-12-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5912, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Persaud c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-12-13
+Référence neutre
+2013 CCI 405
+Numéro de dossier
+2013-1510(IT)APP
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-1510(IT)APP
+ENTRE :
+STEPHEN PERSAUD,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 17 juillet 2013, à Toronto (Ontario).
+Devant : L’honorable juge Judith M. Woods
+Comparutions :
+Pour le requérant :
+Le requérant lui‑même
+Avocat de l’intimée :
+Me Ernesto Caceres
+____________________________________________________________________
+ORDONNANCE
+La requête que Stephen Persaud a présentée pour obtenir de l’aide en vue que [traduction] « [s]on avis d’opposition pour 2007 soit versé au dossier » est rejetée.
+Signé à Toronto (Ontario), ce 13e jour de décembre 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 24e jour de décembre 2013.
+Alya Kaddour-Lord, traductrice
+Référence : 2013 CCI 405
+Date : 20131213
+Dossier : 2013-1510(IT)APP
+ENTRE :
+STEPHEN PERSAUD,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Woods
+[1] En l’espèce, il est question de la requête présentée par Stephen Persaud, qui demande que la mesure de redressement suivante lui soit accordée :
+[traduction]
+Je vous prie de bien vouloir m’aider à faire verser au dossier mon avis d’opposition relatif à l’année 2007.
+[2] Après examen de la requête, il semble que M. Persaud demande confirmation du fait qu’il a produit un avis d’opposition valide dans les délais impartis. L’extrait pertinent de sa requête est reproduit ci‑dessous.
+[traduction]
+J’ai produit deux avis d’opposition. En septembre 2010. Un des avis d’opposition avait trait à l’année 2006 et l’autre à l’année 2007. J’ai envoyé ces deux avis d’opposition aux bureaux de Markham. En septembre 2010, les représentants de Revenu Canada ont déclaré qu’ils avaient reçu l’avis d’opposition relatif à l’année 2006, mais pas l’avis relatif à l’année 2007. Je n’ai pas envoyé de nouvel avis d’opposition pour 2007, parce que j’avais déjà produit des avis d’opposition pour les deux années. J’ai appelé Revenu Canada à de nombreuses reprises pour expliquer que j’avais déjà envoyé un avis d’opposition relatif à l’année 2007.
+La question préliminaire
+[3] Bien que M. Persaud fasse valoir qu’il a produit un avis d’opposition dans les délais impartis, le greffe de la Cour a ouvert le dossier comme si M. Persaud présentait une demande de prorogation du délai imparti pour signifier un avis d’opposition. Dans sa réponse à l’avis d’opposition, plutôt que de répondre aux affirmations contenues dans la requête de M. Persaud, la Couronne a formulé une réponse à une demande de prorogation du délai. C’est regrettable.
+[4] Le greffe semble avoir ouvert le dossier d’une curieuse manière, mais la Cour n’a pas la compétence voulue pour rendre un jugement déclaratoire, ce qui semble être la mesure de redressement que M. Persaud demande.
+Les faits
+[5] Par une lettre datée du 15 septembre 2010, l’Agence du revenu du Canada (l’« ARC ») a informé M. Persaud qu’elle avait terminé la vérification menée à l’égard de la demande de déduction au titre d’un don de bienfaisance que ce dernier avait fait au Global Learning Gifting Initiative en 2007. On a informé M. Persaud qu’il ne pourrait déduire aucune somme à titre de don de bienfaisance dans le calcul de son revenu.
+[6] M. Persaud a déclaré qu’à la réception de cette lettre, il avait décidé de produire un avis d’opposition similaire à celui qu’il avait produit à l’égard de l’année d’imposition précédente, dans lequel il était aussi question de la déduction du montant d’un don de bienfaisance qu’on lui avait refusée. L’avis d’opposition à l’égard de l’année d’imposition 2007 était daté du 30 septembre 2010 et il a été envoyé par courrier ordinaire à cette époque. M. Persaud a joint une copie de l’avis d’appel à la demande qu’il a présentée à la Cour.
+[7] L’avis d’opposition fait référence à une nouvelle cotisation datée du 15 septembre 2010, mais il s’agit en fait de la date qui apparaît sur la lettre que l’ARC a envoyée, et non de la date de l’avis de nouvelle cotisation. L’avis de nouvelle cotisation a été établi quelques mois plus tard, le 24 janvier 2011.
+[8] L’ARC n’a jamais accusé réception de l’avis d’opposition de M. Persaud daté du 30 septembre 2010. On en ignore la raison et, comme je l’ai mentionné plus tôt, la réponse ne répondait pas expressément à l’observation formulée par M. Persaud selon laquelle il avait envoyé un avis d’opposition le 30 septembre 2010.
+[9] Après l’envoi de la nouvelle cotisation et l’expiration du délai imparti pour signifier un avis d’opposition, l’ARC a envoyé à M. Persaud de nombreuses lettres pour lui demander de régler le montant impayé. M. Persaud a déclaré qu’il avait appelé l’ARC à de nombreuses reprises pour expliquer qu’il avait déjà produit un avis d’opposition. Il a déclaré qu’il avait laissé des messages sur répondeur, mais qu’on ne lui avait jamais répondu. Les choses ont culminé quand l’ARC a signifié un bref de saisie-arrêt en 2013, ce qui a finalement conduit au dépôt de la requête en cause.
+Analyse
+[10] Compte tenu de l’ensemble de la preuve, j’accepte le témoignage de M. Persaud selon lequel il a envoyé un avis d’opposition par la poste à l’ARC le ou vers le 30 septembre 2010. On ignore ce qu’il est advenu de ce document, vu que l’ARC n’en a jamais accusé réception. Selon toute vraisemblance, je dirais que l’ARC a bien reçu le document en question. Il se peut que l’ARC n’ait pas répondu parce qu’elle n’avait pas encore établi la nouvelle cotisation.
+[11] L’avocat de la Couronne fait valoir que ce document ne constitue pas un avis d’appel de la nouvelle cotisation établie par avis daté du 24 janvier 2011, parce que l’avis d’opposition en cause ne faisait pas mention de cette nouvelle cotisation.
+[12] Il s’agit selon moi d’une interprétation trop restreinte du paragraphe 165(1) de la Loi de l’impôt sur le revenu, qui prévoit la production d’un avis d’opposition.
+[13] Le paragraphe 165(1) est ainsi libellé :
+165.(1) Opposition à la cotisation - Le contribuable qui s’oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d’opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants :
+a) lorsqu’il s’agit d’une cotisation relative à un contribuable qui est un particulier (sauf une fiducie) ou une fiducie testamentaire, pour une année d’imposition, au plus tard le dernier en date des jours suivants :
+(i) le jour qui tombe un an après la date d’échéance de production qui est applicable au contribuable pour l’année,
+(ii) le quatre-vingt-dixième jour suivant la date d’envoi de l’avis de cotisation;
+b) dans les autres cas, au plus tard le quatre-vingt-dixième jour suivant la date d’envoi de l’avis de cotisation.
+[14] Le document que M. Persaud a envoyé fait référence à une nouvelle cotisation datée du 15 septembre 2010. C’est la date de la lettre qui a précédé la nouvelle cotisation et par laquelle M. Persaud a été informé qu’il ne pouvait pas déduire le don de bienfaisance dans le calcul de son revenu. Il en ressort clairement que M. Persaud avait l’intention de s’opposer à cette décision. Une interprétation raisonnable du document consiste à dire que M. Persaud s’opposait à la nouvelle cotisation aux termes de laquelle on lui refusait la déduction en cause.
+[15] Que devons-nous en conclure? Je dirais ce qui suit :
+1. Selon moi, l’avis d’opposition daté du 30 septembre 2010 est un avis d’opposition signifié en bonne et due forme, applicable à l’encontre de la nouvelle cotisation établie ultérieurement par avis daté du 24 janvier 2011.
+2. La Cour ne peut pas accorder à M. Persaud le jugement déclaratoire qu’il demande. Vu que la Cour n’a pas la compétence voulue pour se prononcer à l’égard de la validité de l’avis d’opposition, je me vois contrainte de rejeter la requête de M. Persaud.
+3. Bien que M. Persaud ne demande pas une prorogation du délai imparti, je voudrais souligner qu’il n’existe aucun fondement sur la base duquel accorder une prorogation de délai compte tenu des faits en cause en l’espèce.
+[16] En conclusion, je rendrai une ordonnance en rejet de la requête de M. Persaud. Toutefois, j’espère que l’ARC reconnaîtra le document qui a été posté le 30 septembre 2010 comme un avis d’opposition à la nouvelle cotisation établie par avis daté du 24 janvier 2011.
+Signé à Toronto (Ontario), ce 13e jour de décembre 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 24e jour de décembre 2013.
+Alya Kaddour-Lord, traductrice
+RÉFÉRENCE : 2013 TCC 405
+NO DU DOSSIER DE LA COUR : 2013-1510(IT)APP
+INTITULÉ : Stephen Persaud c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 17 juillet 2013
+MOTIFS DE L’ORDONNANCE : L’honorable juge J.M. Woods
+DATE DE L’ORDONNANCE : Le 13 décembre 2013
+COMPARUTIONS :
+Pour le requérant :
+Le requérant lui‑même
+Avocat de l’intimée :
+Me Ernesto Caceres
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

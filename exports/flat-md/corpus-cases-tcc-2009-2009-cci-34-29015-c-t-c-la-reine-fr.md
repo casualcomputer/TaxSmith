@@ -1,0 +1,214 @@
+---
+title: "Côté c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29015/index.do"
+last_modified: "2009-01-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 34"
+citation2: ""
+neutral_citation: "2009 CCI 34"
+decision_date: "2009-01-15"
+language: "fr"
+item_id: "29015"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6763
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:17:48.744000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4e9f30ae731f6ff07a9ebcbf9a6d73c15ea71f7a637b2f9b3089a65f2d758b1b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Côté c. La Reine
+
+- Citation: 2009 CCI 34
+- Decision date: 2009-01-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6763, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Côté c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-15
+Référence neutre
+2009 CCI 34
+Numéro de dossier
+2008-783(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-783(IT)I
+ENTRE :
+LAVAL CÔTÉ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 23 octobre 2008, à Chicoutimi (Québec).
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Marie-Claude Landry
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2001, 2002 et 2003 est accueilli, sans frais, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que le revenu net non déclaré de l’appelant indiqué dans les nouvelles cotisations en litige doit être diminué de 14 700 $ pour chacune des années 2001 et 2002 et de 7 400 $ pour l’année 2003. Les pénalités imposées en vertu du paragraphe 163(2) de la Loi sont annulées.
+Signé à Ottawa, Canada, ce 15e jour de janvier 2009.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2009 CCI 34
+Date : 20090115
+Dossier : 2008-783(IT)I
+ENTRE :
+LAVAL CÔTÉ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] L’appelant a interjeté appel à l’encontre des avis de nouvelle cotisation établis par le ministre du Revenu national (le « ministre ») à l’égard des années d’imposition 2001, 2002 et 2003. Les avis de nouvelle cotisation ont été établis au moyen de la méthode de l’avoir net.
+[2] Les faits tenus pour acquis par le ministre pour établir les cotisations sont énoncés aux paragraphes 9, 10 et 11 de la réponse à l’avis d’appel, qui se lisent comme suit (les réponses données par l’appelant au début de l’audience au sujet des hypothèses de fait du ministre sont indiquées après chaque hypothèse) :
+9. Pour établir et maintenir les nouvelles cotisations datées du 5 avril 2006, à l’égard des années d’imposition 2001, 2002 et 2003, le ministre a tenu pour acquis les faits suivants, à savoir :
+a) par suite d’un contrôle fiscal de la société « Chenil Chicoutimi inc. », dont l’appelant était l’actionnaire principal durant les années d’imposition en litige, il est apparu que des dépenses personnelles dudit appelant étaient défrayées par la société, et que des mises de fonds dudit appelant l’appelant dans la dite société pouvaient provenir de revenus non déclarés; (nié)
+b) l’analyse des comptes bancaires personnels de l’appelant et de sa conjointe, madame Michèle Morissette, a permis de déceler des dépôts non identifiés; (nié)
+c) devant une telle situation, le ministre a vérifié les revenus de l’appelant en utilisant la méthode d’avoir net, une copie de l’état de la valeur nette de l’appelant est jointe en annexe aux présentes (pages numérotées de 1 à 8); (nié)
+d) le coût de vie de l’appelant a été établi principalement par les retraits dans les comptes de banques du couple et les dépenses personnelles payées par la société; (nié)
+e) pour la période s’échelonnant entre le 31 décembre 2000 au 31 décembre 2003, la vérification par la méthode dite d’avoir net a permis d’établir, à titre de revenus non déclarés, les sommes suivantes :
+Année d’imposition
+Revenus additionnels
+i) 2001
+35 395 $
+ii) 2002
+20 247 $
+iii) 2003
+18 010 $
+73 652 $
+(nié)
+f) la ventilation des revenus non déclarés est la suivante :
+2001
+2002
+2003
+i) revenu de location – roulotte
+2 500 $
+(nié)
+ii) revenus de dividendes
+2 664 $
+(nié)
+iii) gain en capital imposable
+1 000 $
+(nié)
+iv) avantages imposables reçus
+« Chenil Chicoutimi inc. »
+a) dépenses personnelles payées
+par la société
+8 706 $
+6 549 $
+10 926 $
+b) gain en capital imposable
+tracteur
+4 793 $
+c) autres revenus
+24 189 $
+5 241 $
+7 084 $
+35 395 $
+20 247 $
+18 010 $
+(nié)
+v) pendant la période en litige, madame Michèle Morissette n’a produit qu’une seule déclaration de revenus, soit pour l’année d’imposition 2003. (admis)
+10. Le ministre a déterminé que l’appelant, lors de la production de sa déclaration de revenus pour l’année d’imposition 2001, avait fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, en se fondant sur les éléments suivants :
+a) le revenu non déclaré, calculé par la méthode de l’avoir net, est considérable par rapport au revenu déclaré (122%); (nié)
+b) l’appelant a omis de déclarer du revenu de location (roulotte); (nié)
+c) dépenses personnelles payées par la société; (nié)
+d) l’appelant s’occupe des revenus et des dépenses de la société, il aurait dû savoir que le revenu déclaré était sous-estimé dans sa déclaration produite pour l’année d’imposition 2001. (nié)
+11. Le ministre a déterminé que l’appelant avait fait sciemment, ou dans des circonstances qui justifient l’imputation d’une faute lourde, un faux énoncé ou une omission dans les déclarations de revenus produites pour les années d’imposition 2001, 2002 et 2003, ou avait participé, consenti ou acquiescé à ce faux énoncé ou cette omission, d’où il résulte que l’impôt qu’elle aurait été tenu de payer d’après les renseignements fournis dans les déclarations de revenus déposées pour ces années-là était inférieur au montant d’impôt à payer pour ces années-là, en se fondant sur les éléments suivants :
+a) l’appelant a omis de déclarer du revenu de location (roulotte) et de dividendes; (nié)
+b) dépenses personnelles payées par la société pour chacune des années d’imposition en litige; (nié)
+c) redressement du revenu non déclaré par rapport au revenu net déclaré est considérable pour la période sous litige :
+i) 2001- 122%,
+ii) 2002- 62%,
+iii) 2003- 60%.
+(nié)
+[3] Le ministre a également imposé les pénalités suivantes pour faute lourde :
+Année
+d’imposition
+Pénalité
+imposée
+Sommes assujetties
+à la pénalité
+i) 2001
+4 697,78 $
+35 595 $
+ii) 2002
+2 210,75 $
+20 247 $
+iii) 2003
+1 712,18 $
+18 010 $
+[4] L’appelant a fait entendre trois témoins, soit sa belle-sœur Mme Marie‑Reine Ménard, sa belle-sœur Mme Lise Champagne, son épouse Mme Michelle Morissette, et il a lui-même témoigné.
+[5] Mme Ménard a témoigné qu’elle était très proche de sa belle-mère, la regrettée Imelda Boivin, mère de l’épouse de l’appelant, qui est décédée en mai 1999. Mme Ménard a expliqué à la Cour que sa belle-mère s’inquiétait de savoir que si elle vivait très longtemps, ses ressources financières ne seraient pas suffisantes pour subvenir à ses besoins. Mme Boivin économisait ainsi une grande partie de ses revenus.
+[6] Mme Ménard a témoigné qu’elle savait que sa belle-mère avait un coffre à la Caisse populaire de Chicoutimi, là où elle encaissait ses chèques de sécurité de la vieillesse. Mme Boivin gardait un peu d’argent pour ses besoins quotidiens et déposait le solde des sommes dans son coffre. Toutefois, Mme Ménard a admis qu’elle n’avait jamais accompagné Mme Boivin lorsqu’elle avait utilisé son coffre.
+[7] Mme Champagne a présenté les mêmes faits que Mme Ménard. Elle a expliqué à la Cour que l’épouse de l’appelant était l’unique fille de la regrettée Mme Boivin. Elle a préparé les déclarations de revenus de Mme Boivin pendant de nombreuses années. Elle a expliqué que Mme Boivin économisait beaucoup pour ses vieux jours et qu’elle mettait ses fonds dans son coffre à la Caisse populaire de Chicoutimi. Mme Boivin gardait dans son foyer pour personnes âgées un coffre-fort dans sa garde-robe, où elle mettait de côté de l’argent comptant.
+[8] Mme Michelle Morissette a témoigné que sa mère a vécu avec son père pendant 45 ans jusqu’au décès de ce dernier. Après son décès, elle a vendu la résidence principale pour aller vivre dans un petit appartement. Elle s’est remariée avec M. Paul Tremblay de Chicoutimi-Nord. Elle a été mariée pendant 10 ans jusqu’au décès de ce dernier. Mme Morissette a témoigné que sa mère ne payait rien pendant ce deuxième mariage. M. Tremblay payait toutes les dépenses engagées. Au décès de M. Tremblay, ce dernier a laissé un peu d’argent et des biens meubles à sa mère. Mme Morissette a expliqué à la Cour que sa mère s’inquiétait toujours d’être malade et d’être hospitalisée. Elle ne voulait pas être à la charge de ses enfants.
+[9] Mme Morissette a témoigné que sa mère avait un coffre à la Caisse populaire de Chicoutimi-Nord, rue Roussel, pendant plus de 20 ans. Elle encaissait ses chèques de sécurité de la vieillesse et mettait la plus grande partie du montant reçu dans son coffre. Elle gardait un peu d’argent pour le strict minimum, c’est‑à‑dire pour payer ses menues dépenses. Mme Morissette a également témoigné que sa mère gardait un coffre-fort en métal dans sa garde-robe au foyer pour personnes âgées.
+[10] Mme Morissette a expliqué qu’elle a choisi de vivre à Chicoutimi près de sa mère afin de prendre soin de cette dernière. Mme Morissette a été surprise d’apprendre qu’elle était la légataire universelle de sa mère. Elle a témoigné qu’elle s’est rendue à la Caisse populaire Desjardins et que lors de l’ouverture du coffre de sa mère, elle a trouvé une somme de 35 000 $ en espèces. Avec le produit de l’assurance et la vente des biens meubles, la somme totale recueillie par Mme Morissette de la succession de sa mère montait à 66 900 $.
+[11] Mme Morissette a expliqué à la Cour qu’après le décès de sa mère, elle a obtenu un coffre à son nom à la Caisse populaire de Chicoutimi, boulevard Ste‑Geneviève, près de sa maison. Au cours de plusieurs mois, elle a déposé toutes les sommes qu’elle avait reçues de sa mère.
+[12] L’appelant a déposé en preuve une lettre non datée adressée à Mme Sophie Rousseau, agente des appels à l’Agence du revenu du Canada (l’« ARC »), et préparée par son comptable, Serge Brassard. Cette lettre a été produite sous la cote A-1. Dans cette lettre, M. Brassard explique à l’agente des appels que le montant total reçu de la succession par Mme Michelle Morissette était de 66 900 $. M. Brassard explique que selon son client, l’appelant a utilisé environ 19 000 $, ce qui laissait une somme d’environ 47 900 $ dont il tenait compte dans le bilan personnel de l’appelant au 31 décembre 2000. La lettre explique que l’avoir net de l’appelant devrait être augmenté de 136 736 $, la somme calculée par le vérificateur de l’ARC au 31 décembre 2000, à 203 636 $ pour tenir compte de ce montant en espèces important.
+[13] L’appelant a expliqué qu’en 2001, en 2002 et en 2003, son épouse et lui ont agi comme famille d’accueil pour des gens souffrant de problèmes psychiatriques ou mentaux. L’une des personnes a été envoyée par l’Institut Roland-Saucier de Chicoutimi, et l’autre personne a été recommandée par un fonctionnaire de la municipalité de Chicoutimi-Nord. Ces personnes n’avaient aucune famille et vivaient de l’assistance sociale. En 2002, l’appelant avait à sa résidence deux adultes, soit M. Bruno Simard et Mme Fernande Girard. Ces derniers payaient à l’appelant et à son épouse un loyer mensuel d’environ 650 $ et 625 $. L’appelant et son épouse ont reçu 14 700 $ au total en 2001, 14 700 $ en 2002 et 7 400 $ en 2003. En 2003, seul M. Bruno Simard restait avec le couple et payait une allocation annuelle de 7 500 $. L’appelant a expliqué qu’il a rencontré le tuteur de M. Simard en 2001 et que ce dernier lui a demandé de prendre M. Simard en charge chez lui. L’Institut Roland-Saucier, hôpital psychiatrique de Chicoutimi, a communiqué avec l’épouse de l’appelant et a placé Mme Girard chez lui. L’appelant a allégué que, selon lui, les allocations qu’il recevait pour la garde de ces deux personnes n’étaient pas imposables. Il a admis qu’il n’a pas inclus ces montants dans ses déclarations de revenus. Deuxièmement, l’appelant a corroboré la version des faits de son épouse quant à l’héritage et au dépôt des sommes reçues de l’héritage dans le coffre. Selon l’appelant, son épouse et lui ont utilisé ces sommes pour vivre et pour payer les frais de construction de leur nouvelle résidence, qu’ils ont depuis vendue pour déménager à Gatineau.
+[14] M. Guy Dion, le vérificateur de l’ARC responsable du dossier de l’appelant, a témoigné que l’appelant avait fait l’objet d’une cotisation suivant l’avoir net relativement à son commerce de Chicoutimi, qui était situé près de sa résidence principale. Au début de sa vérification, il a constaté que l’appelant avait peu de contrôles internes qui lui auraient permis de procéder à une vérification selon les méthodes traditionnelles. M. Dion a expliqué à la Cour qu’il a vérifié les comptes bancaires de l’appelant et de Mme Morissette. Mme Morissette avait deux comptes de banque, et l’appelant, un seul. Il a expliqué que lors de la vérification des comptes bancaires, il a constaté que beaucoup de chèques avaient été encaissés directement au comptoir de la banque sans que les sommes soient déposées aux comptes bancaires du couple. M. Dion a décrit ces transactions comme des « dépôts à zéro ». Il a pu constater que les chèques ont été encaissés sans qu’un dépôt net ait été fait au compte bancaire de l’appelant et de son épouse. Par conséquent, il a décidé de procéder selon la méthode de l’avoir net.
+[15] M. Dion a dressé l’actif de l’appelant au 31 décembre 2000. À cette époque, le solde net était de 136 736 $. Pour les années 2001, 2002 et 2003, il a fait une vérification complète des transactions bancaires. Des calculs de l’écart par l’avoir net sont joints à l’annexe 6 de la réponse à l’avis d’appel. M. Dion a dressé les dépenses personnelles de l’appelant et de son épouse pour les années 2001, 2002 et 2003. Il a traité tous les retraits ou les encaissements de chèques comme des dépenses personnelles, à moins qu’il ne puisse établir que ces fonds aient été utilisés afin de payer des dépenses d’entreprise engagées par la société de chenil détenue à 100 % par l’appelant. Il a également ajouté aux revenus de l’appelant toutes les dépenses personnelles payées par la société pour le compte de l’appelant. Il a calculé que les dépenses personnelles de l’appelant étaient de 50 652 $ en 2001, de 48 584 $ en 2002 et de 40 309 $ en 2003. Il a ajouté ces montants au calcul de l’avoir net de l’appelant. Il a déduit des sommes non imposables et des revenus nets déclarés par l’appelant et son épouse. Après le calcul complet, il a déterminé que l’appelant avait des revenus non déclarés de 35 395 $, de 20 247 $ et de 18 010 $ pour les années d’imposition 2001, 2002 et 2003 respectivement.
+[16] Il a témoigné qu’il n’a pas tenu compte des montants en espèces que Mme Morissette aurait pu recevoir lors du décès de sa mère. Il a indiqué à la Cour qu’il ne trouvait aucune trace du dépôt de ces sommes dans le compte bancaire de l’appelant et de son épouse en 2001, en 2002 et en 2003. Il a aussi expliqué à la Cour que, puisque son redressement pour dépenses personnelles tenait seulement compte des sommes retirées directement des comptes bancaires de l’appelant et de son épouse et des chèques encaissés par l’appelant, son calcul serait faussé s’il tenait compte des sommes qui n’étaient pas déposées dans le compte bancaire. Selon le vérificateur, le seul effet aurait été qu’il serait obligé d’augmenter les dépenses personnelles de l’appelant s’il tenait compte du montant de 47 900 $ dont l’appelant prétendait qu’il aurait dû être ajouté à l’actif en début de période. Comme il a pu constater que les dépenses de construction de la nouvelle résidence de l’appelant et de son épouse ont été payées à même les chèques tirés sur les comptes bancaires, il a expliqué qu’il ne devrait pas tenir compte des montants en espèces dont Mme Morissette aurait pu disposer. Finalement, il a expliqué à la Cour qu’il n’avait aucune preuve du montant que Mme Morissette a reçu et que cette dernière aurait pu utiliser ces sommes pour vivre durant les années antérieures ou pour faire des placements importants qu’elle détenait lors de l’état financier d’ouverture en date du 31 décembre 2000.
+[17] M. Dion a admis qu’il n’a pas tenu compte du fait que les sommes versées pour l’hébergement de M. Simard et de Mme Girard auraient pu être non imposables en vertu de la Loi de l’impôt sur le revenu (la « Loi »). Il n’a pas exclu ces montants lors du calcul des retraits qu’il a traités comme des dépenses personnelles de l’appelant.
+Analyse
+[18] L’appelant a affirmé que les sommes que son épouse et lui ont reçues pour l’hébergement de Mme Girard et de M. Simard dans leur résidence principale transformée, en partie, en résidence d’accueil pour des personnes handicapées ne sont pas imposables. Le fondement de cette prétention est l’alinéa 81(1)h) de la Loi, qui se lit comme suit :
+81(1) Sommes à exclure du revenu — Assistance sociale — Ne sont pas inclus dans le calcul du revenu d’un contribuable pour une année d’imposition : […]
+h) la prestation d’assistance sociale, sauf une prestation visée par règlement, qui est habituellement payée à un particulier, à l’exclusion d’une fiducie, dans le cadre d’un programme prévu par une loi fédérale ou provinciale, après examen des ressources, des besoins et du revenu — dans la mesure où il la reçoit, directement ou indirectement, au profit d’un autre particulier, à l’exception de son époux ou conjoint de fait ou d’une personne qui lui est liée ou qui est liée à son époux ou conjoint de fait — si, à la fois : […]
+[Je souligne.]
+[19] Selon cette disposition, une personne qui héberge un bénéficiaire d’assistance sociale et qui reçoit des prestations directement ou indirectement ne paie pas d’impôt sur ces montants. Dans les circonstances, l’appelant et son épouse ont témoigné qu’ils hébergeaient des bénéficiaires de prestations d’assistance sociale chez eux et que les tuteurs de ces derniers ont utilisé leurs prestations afin de payer les frais d’hébergement. De même, l’appelant et son épouse ont témoigné que ces sommes ont été déposées dans leur compte bancaire. À mon avis, leur témoignage non contredit équivaut à une preuve prima facie de la réception par l’appelant et son épouse de sommes non imposables qui auraient dû être exclues des retraits bancaires qui ont été traités comme des revenus non déclarés de l’appelant. En raison de cette preuve prima facie, le fardeau de la preuve reposait alors sur le ministre. Comme aucune preuve n’a été présentée par le ministre sur ce point, je dois conclure que la somme de 14 700 $ doit être retranchée du revenu non déclaré de l’appelant pour chacune des années 2000 et 2001, ainsi que la somme de 7 400 $ pour l’année 2003.
+[20] Sur le deuxième point en litige, je dois conclure que l’appelant n’a pas réussi à établir que les sommes provenant de la succession de Mme Boivin ont été déposées dans son compte de banque personnel en 2001, en 2002 et en 2003. Comme seuls les fonds déposés et retirés des comptes bancaires du couple en 2001, en 2002 et en 2003 ont été traités comme des dépenses personnelles aux fins du calcul de l’avoir net rajusté, il n’y a pas de risque que le capital provenant de la succession de Mme Boivin ait été traité comme un revenu non déclaré.
+[21] Je dois rappeler que l’intimée a le fardeau de prouver selon la prépondérance des probabilités les circonstances qui justifieraient l’imposition d’une pénalité en vertu du paragraphe 163(2) de la Loi. J’estime que l’intimée n’a pas réussi à satisfaire à ce fardeau de la preuve. D’une part, la méthode utilisée par le vérificateur pour compléter le calcul de l’avoir net rajusté est très imprécise. Le vérificateur a supposé que tous les retraits des comptes bancaires du couple étaient des dépenses personnelles. J’estime qu’un calcul fondé sur un examen des dépenses réelles ou fondé sur des statistiques publiques aurait mené à un meilleur calcul des dépenses personnelles du couple. Cette preuve est suffisante pour établir un revenu non déclaré lorsque le fardeau incombe à l’appelant. Toutefois, en matière de pénalité, elle est insuffisante, puisque le fardeau incombe au ministre. Je note qu’après rajustement des sommes non imposables mentionnées précédemment, les revenus non déclarés de l’appelant sont de 20 895 $, de 5 547 $ et de 10 610 $ pour les années d’imposition 2001, 2002 et 2003 respectivement. Après ces rajustements, le pourcentage du revenu net non déclaré par rapport au revenu déclaré est inférieur à celui noté par l’intimée. Pour tous ces motifs, j’ordonne que les cotisations soient déférées au ministre pour que de nouvelles cotisations soient établies diminuant le revenu net non déclaré de l’appelant calculé en vertu des cotisations en litige de 14 700 $ pour chacune des années 2001 et 2002 et de 7 400 $ pour l’année 2003. J’ordonne aussi que les pénalités imposées en vertu du paragraphe 163(2) de la Loi soient annulées.
+Signé à Ottawa, Canada, ce 15e jour de janvier 2009.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE : 2009 CCI 34
+Nº DU DOSSIER DE LA COUR : 2008-783(IT)I
+INTITULÉ DE LA CAUSE : LAVAL CÔTÉ c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Chicoutimi (Québec)
+DATE DE L’AUDIENCE : Le 23 octobre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 15 janvier 2009
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Marie-Claude Landry
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

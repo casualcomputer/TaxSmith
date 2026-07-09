@@ -1,0 +1,267 @@
+Title: Bobic c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/231875/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-107-231875-bobic-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-06-21
+
+# Bobic c. La Reine
+
+- Citation: 2017 CCI 107
+- Decision date: 2017-06-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2149, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bobic c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-06-21
+Référence neutre
+2017 CCI 107
+Numéro de dossier
+2016-2774(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-2774(IT)I
+ENTRE :
+MARIJA BOBIC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 21 février 2017, à Hamilton (Ontario).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Gregory B. King
+JUGEMENT
+Pour les motifs du jugement ci-joints, l’appel des cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2008 et 2009 est accueilli, sans dépens, et la question est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que :
+1. en ce qui concerne l’année d’imposition 2008, l’appelante a droit à un montant de 400 $ en dépenses d’emploi, et la pénalité pour faute lourde imposée en application du paragraphe 163(2) de la Loi doit être ajustée afin de tenir compte de ce changement;
+2. en ce qui concerne l’année d’imposition 2009 :
+a. le revenu net de camionnage de l’appelante doit être réduit de 12 165 $;
+b. l’appelante peut, en ce qui a trait au camion, déduire un montant pour amortissement ne dépassant pas le montant maximal autorisé aux termes de la Loi et du Règlement de l’impôt sur le revenu. L’appelante devra indiquer au ministre, dans les deux mois suivant la date du présent jugement, quel montant, le cas échéant, elle souhaite déduire pour amortissement;
+c. le montant de la pénalité pour faute lourde imposée en application du paragraphe 163(2) de la Loi doit être ajusté pour tenir compte de la réduction du revenu de camionnage, par suite de ce qui figure aux points a. et b.
+Signé à Ottawa (Ontario), ce 8e jour de juin 2017.
+« Gaston Jorré »
+Le juge Jorré
+Référence : 2017 CCI 107
+Date : 20170621
+Dossier : 2016-2774(IT)I
+ENTRE :
+MARIJA BOBIC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS MODIFIÉS DU JUGEMENT
+(Les présents motifs modifiés du jugement remplacent
+les motifs du jugement signés le 8 juin 2017; ils ont pour but
+de supprimer un mot de la première ligne du paragraphe 12.)
+Le juge Jorré
+[1] L’appelante interjette appel des nouvelles cotisations établies pour les années d’imposition 2008 et 2009.
+[2] Dans les nouvelles cotisations établies :
+i. en ce qui concerne l’année d’imposition 2008, le ministre :
+a. a refusé la totalité des dépenses d’emploi déduites, s’élevant à 12 136,40 $,
+b. a refusé les frais administratifs et les frais de location de coffre-fort de 2 419 $ déduits du revenu de placement,
+c. a imposé une pénalité pour faute lourde de 638,60 $ en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu[1] (la « Loi »), concernant les montants refusés aux points a. et b.;
+ii. en ce qui concerne l’année d’imposition 2009, le ministre :
+a. a ajouté au revenu de l’appelante des prestations d’assurance-emploi de 17 501 $,
+b. a refusé la perte locative déduite de 4 701,08 $ (le ministre a jugé que l’appelante n’avait pas de source de revenu de location),
+c. a refusé la totalité des dépenses déduites relativement à une entreprise de camionnage,
+d. a imposé une pénalité pour faute lourde de 682,50 $ en application du paragraphe 163(2) de la Loi, concernant les montants refusés aux points b. et c[2].
+[3] Les questions en litige en l’espèce sont principalement des questions de fait et j’aborderai tour à tour chacun des changements apportés par le ministre.
+Année d’imposition 2008 [4] En 2008, l’appelante travaillait comme serveuse dans le restaurant d’un hôtel; elle a également travaillé de temps en temps à l’extérieur, parce que son employeur offrait un service de traiteur à l’extérieur. L’employeur était une entreprise. Selon le relevé d’emploi déposé, la période d’emploi allait du 1er janvier au 29 novembre 2008[3].
+[5] Sa déclaration de revenus pour l’année d’imposition 2008 montrait un revenu d’emploi de 26 868,48 $. Ayant demandé diverses déductions, elle a produit une déclaration indiquant qu’elle ne devait aucun impôt sur le revenu fédéral ou de l’Ontario et donnant lieu au remboursement de la totalité de l’impôt retenu de même qu’à une prestation fiscale pour le revenu de travail remboursable d’un peu plus de 1 000 $.
+Frais administratifs et frais de location de coffre-fort [6] En ce qui concerne les frais administratifs et les frais de location de coffre-fort de 2 419 $ déduits du revenu de placement, l’appelante ne savait pas réellement en quoi ils consistaient. Elle a dit croire que les frais administratifs pouvaient être liés au montant payé à l’homme qui a préparé sa déclaration fiscale; quant au coffre-fort, elle a affirmé qu’elle y gardait son passeport. L’appelante n’avait pas de revenu de placement et n’avait aucun placement. Par conséquent, il n’y a aucun fondement à ces déductions demandées.
+Dépenses d’emploi [7] Aux termes du paragraphe 8(2) de la Loi, les employés ne peuvent déduire que les dépenses qui sont autorisées en vertu de l’article 8. Le paragraphe 8(1) se lit comme suit :
+Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[8] Les seules dispositions qui pourraient s’appliquer en l’espèce sont les alinéas 8(1)h), h.1), i) ou j) de la Loi; les paragraphes 8(4) et 8(10) sont également pertinents[4].
+[9] En ce qui concerne le revenu d’emploi, l’appelante a déduit les dépenses d’emploi suivantes :
+Divertissement
+430,00 $
+Frais juridiques, comptables et professionnels
+500,00 $
+Entretien et réparations
+239,70 $
+Repas
+499,30 $
+Droits d’adhésion et abonnements
+132,00 $
+Frais de bureau
+250,00 $
+Fournitures
+247,80 $
+Télécommunications
+1 458,30 $
+Outils
+263,70 $
+Déplacements (4 950 km @ 0,52 $)
+2 574,00 $
+Uniformes
+1 887,60 $
+Véhicules
+Essence et huile
+1 180,00 $
+Assurances et permis
+1 374,00 $
+Frais de stationnement et droits de péage
+550,00 $
+Réparations et entretien
+550,00 $
+[Blank/En blanc]
+[Blank/En blanc]
+Total
+12 136,40 $
+[10] L’état des dépenses d’emploi joint à la déclaration de revenus porte l’en-tête « Cleaners » (employés d’entretien), ce qui est étrange, bien que l’appelante ait témoigné que lorsqu’il n’y avait pas de clients à servir, elle pouvait nettoyer le bar.
+[11] Plusieurs problèmes se posent quant aux dépenses déduites et, sauf pour une infime partie, je suis convaincu que le ministre avait raison de refuser les dépenses.
+[12] D’abord, j’aborderai la question des dépenses liées au véhicule; elles incluent non seulement l’essence et l’huile, les assurances et les permis, les frais de stationnement et les droits de péage, les réparations et l’entretien, mais aussi les frais de déplacement à 0,52 $ le kilomètre. Ensemble, ces dépenses liées au véhicule représentent un peu plus de la moitié des dépenses d’emploi déduites.
+[13] Je souligne qu’on ne peut déduire à la fois la part déductible de dépenses réelles comme l’essence et déduire également un montant par kilomètre déductible. Il s’agit d’un double comptage; la déduction d’un montant par kilomètre déductible constitue une approximation pour la portion déductible des frais réels.
+[14] Toutefois, il convient en premier lieu de déterminer si l’appelante avait effectivement des dépenses de véhicule déductibles. Les frais encourus pour se rendre au travail ne sont normalement pas déductibles. Toutefois, lorsque le contribuable « [...] a été habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits », sont déductibles « les sommes qu’il a dépensées [...] pour se déplacer dans l’exercice des fonctions de son emploi » (non souligné dans l’original).
+[15] La preuve montrait que la majeure partie du travail de l’appelante s’effectuait au restaurant de son employeur. À quelques reprises, elle a travaillé à un endroit différent où son employeur offrait un service de traiteur.
+[16] Même si l’appelante avait un long trajet à faire pour se rendre au restaurant de son employeur, environ 300 km aller-retour, il est bien établi que les frais de déplacement d’un employé à son lieu de travail ne sont pas déductibles. Cela couvrirait la majeure partie des dépenses déduites liées au véhicule, quel que soit le montant approprié.
+[17] On pourrait peut-être déduire les déplacements pour le travail effectué ailleurs qu’au restaurant, lorsque son employeur offrait un service de traiteur pour un client et qu’il ne s’agissait pas d’un lieu de travail régulier; malheureusement, l’appelante n’a pas conservé de registre et la preuve ne me permet pas de déterminer combien de fois l’appelante est allée travailler à ces autres endroits, ni où cela se trouvait ou quelles distances l’appelante a pu parcourir pour s’y rendre[5].
+[18] Ainsi, même si je conviens qu’à l’occasion, l’appelante a exécuté ses fonctions à des endroits autres que le restaurant et qu’un montant modeste de dépenses liées au véhicule pourrait être admissible, il y a peu d’éléments qui me permettraient de reconnaître ces dépenses. Dans les circonstances, j’autoriserai un montant très modeste pour les dépenses liées au véhicule parce que je reconnais qu’il y a eu de telles dépenses, montant que je fixe à 400 $.
+[19] Un montant important a été déduit pour des uniformes, mais la preuve ne montre pas que le restaurant exigeait un uniforme. Selon le témoignage et les reçus présentés comme éléments de preuve, les dépenses semblent avoir été faites simplement pour acheter des vêtements. La loi établit très clairement que les vêtements normaux portés pour travailler ne sont pas déductibles.
+[20] L’appelante a affirmé qu’à certaines occasions, lorsqu’ils devaient servir pour un événement thématique, ils devaient porter un costume; elle a donné deux ou trois exemples. Cela aurait pu soulever une question intéressante, mais puisque l’appelante n’a précisé aucun montant dépensé, il n’y a aucun élément sur lequel je peux m’appuyer pour conclure qu’un montant devrait être accepté pour un costume.
+[21] Le montant pour des dépenses de télécommunications semble être lié à l’utilisation d’un téléphone cellulaire[6]. L’appelante en avait besoin pour pouvoir être jointe facilement si, par exemple, le restaurant souhaitait qu’elle vienne travailler, et aussi pour localiser des endroits grâce à Internet. Cela semble constituer un usage plutôt accessoire du téléphone. Peut-être qu’une portion des frais mensuels liés au téléphone aurait pu entrer dans la catégorie des « fournitures qui ont été consommées » prévue au sous-alinéa 8(1)i)(iii), si la preuve avait pu démontrer que l’utilisation liée au travail avait engendré certains coûts supplémentaires[7]. Il n’existait pas de tels éléments de preuve.
+[22] Il n’y a aucune raison d’accepter un quelconque montant pour des télécommunications.
+[23] Les repas ne sont en général pas déductibles, sauf dans le cadre de dépenses de déplacement, auquel cas les exigences du paragraphe 8(4) de la Loi doivent être satisfaites. Le paragraphe est ainsi libellé :
+La somme dépensée par [...] un employé pour son repas ne peut être incluse dans le calcul du montant d’une déduction en vertu de l’alinéa (1)f) ou h) que si le repas a été pris au cours d’une période où les fonctions de [...] cet employé l’obligeaient à être absent, durant une période d’au moins douze heures, de la municipalité dans laquelle était situé l’établissement de l’employeur où il se présentait habituellement pour son travail et à être absent, le cas échéant, de la région métropolitaine où cet établissement était situé.
+[Non souligné dans l’original.]
+[24] Rien dans la preuve ne montre que les conditions de ce paragraphe sont satisfaites[8].
+[25] Enfin, en qui concerne le reste des montants déduits pour des frais de divertissement, des frais juridiques, comptables et professionnels, des frais d’entretien et de réparations, des droits d’adhésion et d’abonnement, des dépenses de bureau, des fournitures et des outils, il n’y a aucun fondement à ces déductions : pour la majeure partie des montants déduits, je ne suis pas convaincu de l’existence des dépenses (par exemple, les dépenses de divertissement déduites ou les droits d’adhésion et d’abonnement déduits); fait également important, si de telles dépenses ont réellement été engagées, je ne suis pas convaincu que la preuve montre qu’il y avait raison de croire qu’il s’agissait là de montants « qui se rapportent entièrement » au revenu de l’appelante à titre de serveuse de restaurant ou de dépenses « qu’il est raisonnable de considérer comme [se] rapportant » en partie au revenu de l’appelante à titre de serveuse de restaurant, comme l’exige le paragraphe d’ouverture du paragraphe 8(1)[9].
+Pénalités pour 2008 [26] En vertu du paragraphe 163(2), une pénalité a été imposée relativement aux montants refusés. Le paragraphe énonce, en partie, ce qui suit :
+Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration [...] rempli[e], produit[e] ou présenté[e] [...] pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+[…]
+[27] La pénalité comporte deux éléments clés : premièrement, il doit y avoir une fausse déclaration et, deuxièmement, la personne doit faire la déclaration ou y consentir sciemment ou dans des circonstances équivalant à une faute lourde.
+[28] Il ne fait aucun doute qu’il y a de fausses déclarations en l’espèce.
+[29] Quant à la question de la faute lourde, il faut se rappeler que la faute lourde inclut l’aveuglement volontaire[10].
+[30] L’appelante avance qu’elle connaît peu de choses sur la fiscalité et qu’elle s’en remet à la personne qui lui a été recommandée et qui a préparé ses déclarations.
+[31] Même si on ne s’attend pas à ce que les particuliers soient des fiscalistes, le fait de s’en remettre à quelqu’un d’autre ne dégage pas une personne de l’obligation de faire des efforts raisonnables dans les circonstances pour garantir l’exactitude de sa déclaration de revenus.
+[32] Je ne suis pas convaincu que l’appelante a fait de tels efforts. Un certain nombre de signaux d’alarme auraient dû amener l’appelante à remettre en question la déclaration préparée en son nom et à prendre des mesures. Voici quelques exemples d’éléments qui auraient incontestablement dû soulever des questions dans l’esprit de l’appelante : déduire d’un revenu de placement inexistant des frais administratifs et des frais de location de coffre-fort, alors qu’elle n’avait aucun placement; déduire des dépenses de divertissement ou déduire des droits d’adhésion et d’abonnement. De façon plus générale, les montants élevés de dépenses déduites par rapport à son revenu aurait dû lui mettre la puce à l’oreille.
+[33] Seul l’aveuglement volontaire peut expliquer raisonnablement cet échec à voir ces « signaux d’alarme ». En conséquence, la pénalité est justifiée et devrait être maintenue, hormis un ajustement de son montant pour tenir compte du montant autorisé de 400 $ pour des dépenses liées au véhicule.
+2009 [34] Pour 2009, l’appelante a rempli une déclaration de revenus indiquant qu’elle ne devait aucun impôt sur le revenu fédéral ou de l’Ontario. La déclaration indiquait qu’elle devait payer 389 $ de cotisations au Régime de pensions du Canada (RPC).
+Prestations d’assurance-emploi [35] Le ministre a ajouté au revenu de l’appelante des prestations d’assurance-emploi de 17 501 $ qui n’avaient pas été incluses dans sa déclaration de revenus. Aucune pénalité n’a été imposée relativement à ce montant et ce changement n’est pas contesté.
+Perte locative [36] L’appelante a déclaré des revenus locatifs bruts de 4 800 $ et a déduit les dépenses suivantes :
+Assurances
+655,00 $
+Intérêts
+2 144,85 $
+Entretien et réparations
+877,00 $
+Frais de véhicule à moteur
+2 485,00 $
+Frais de bureau
+125,00 $
+Frais juridiques, comptables et professionnels
+550,00 $
+Services publics
+1 337,31 $
+Autres dépenses[11]
+1 326,92 $
+[37] Ces dépenses totalisent 9 501,08 $ pour une perte locative nette déclarée de 4 701 $.
+[38] Le ministre a jugé que l’appelante n’avait pas de source de revenus locatifs et a simplement refusé la perte de 4 701 $[12]. À titre subsidiaire, le ministre a contesté les dépenses.
+[39] Le condo de l’appelante comportait deux niveaux et elle a indiqué, dans son témoignage, qu’elle avait loué le second niveau durant les cinq ou six derniers mois de l’année à trois étudiants étrangers, le loyer s’élevant à 400 $ (ou 380 $) par mois pour chaque étudiant. Elle a agi ainsi par nécessité parce que son mari s’apprêtait à déclarer faillite à ce moment-là.
+[40] Alors qu’au début de l’année, le second niveau ne comportait aucune division, son mari et elle ont construit des murs de manière à créer trois chambres individuelles pour les étudiants. Il n’y avait qu’une seule chambre au premier niveau pour sa famille, laquelle comprenait l’appelante et son mari, des jumeaux d’environ deux ans et un bébé né récemment. L’appelante a affirmé que la famille pouvait supporter cet entassement étant donné que son mari, conducteur de camion sur longue distance, était absent la plupart du temps.
+[41] Cinq mois de location auraient dû générer des revenus locatifs d’environ 6 000 $, mais seul un montant de 4 800 $ a été déclaré. L’appelante a expliqué que les trois étudiants ne pouvaient pas toujours payer et qu’elle avait accepté de prendre ce qu’ils pouvaient payer parce qu’ils étaient de bons locataires.
+[42] Étant donné les difficultés que l’appelante et son mari vivaient, je trouve cette explication difficile à accepter.
+[43] Il y a une raison plus importante pour laquelle je ne peux accepter le témoignage de l’appelante concernant les locations. Elle a affirmé assez clairement qu’étant donné que son mari était absent, elle ne voulait louer qu’à des étudiantes, et que c’était effectivement ce qu’elle avait fait.
+[44] Son témoignage sur ce point et sur certaines autres questions liées à la location est carrément contredit par une lettre datée du 16 janvier 2016 qu’elle a fait parvenir à l’Agence du revenu du Canada (ARC), où elle déclare :
+[traduction] Mes locataires pour l’année étaient M. Chen, Ye Tse, et M. Hwang, Ji Yu. Ils étaient étudiants et venaient de Chine. Ils se sont installés en juillet et sont partis le 31 décembre 2009. Ils ont payé 400 $ par mois chacun, en argent comptant. Le loyer total s’est élevé à 4 800 $[13].
+[45] L’appelante a expliqué ces contradictions par le fait que le spécialiste ayant préparé sa déclaration de revenus avait rédigé la lettre. Je n’accepte pas cette explication : l’appelante a envoyé la lettre et, même si l’anglais n’est pas sa langue maternelle, je ne doute pas qu’elle pouvait comprendre ce que je viens de citer. Je souligne également la divergence entre les deux locataires de la lettre et les trois locataires de son témoignage.
+[46] En conséquence, je n’accepte pas le témoignage de l’appelante au sujet des locations et je ne suis donc pas convaincu qu’une partie de la maison a bien été louée. Il n’y avait donc aucune source de revenus locatifs et le ministre a eu raison de refuser la perte déduite[14].
+[47] En conséquence, il n’y a aucune raison de modifier cet aspect de la nouvelle cotisation.
+Entreprise de camionnage [48] Le mari de l’appelante était conducteur de camion sur longue distance. Il a fait faillite et, en 2009, l’appelante a acheté un camion et s’est lancée dans l’industrie du camionnage afin que son mari puisse être employé pour conduire le camion qu’elle avait acheté. Selon la facture de vente, le camion a été acheté en août et, selon les relevés de paie du tractionnaire du Rosedale Group, le camion a commencé à générer des revenus au début de septembre.
+[49] La déclaration de revenus de l’appelante montrait des ventes de 38 565 $. Elle montrait également un sous-contrat de 9 109 $ et diverses autres dépenses totalisant 22 027,45 $, laissant un revenu net de 7 428,55 $.
+[50] Pour établir une cotisation, le ministre a accepté le montant de revenu brut, mais a refusé toutes les dépenses. Il est bien sûr difficile d’imaginer une entreprise sans dépenses[15].
+[51] À l’audience, l’appelante a déposé une variété de documents, mais elle ne semble pas avoir conservé de relevés comptables conventionnels de quelque type que ce soit relativement à l’entreprise de camionnage. Les documents les plus utiles étaient les relevés de paie du tractionnaire. J’y reviendrai dans un moment. L’appelante a également déposé un tas de reçus, dont un bon nombre ne concernent pas l’entreprise de camionnage[16].
+[52] Certaines parties des relevés de paie du tractionnaire ne sont pas toujours lisibles. D’après ces relevés, il semblerait que Rosedale ait versé à l’appelante un montant d’environ 53 400 $ pour des services de camionnage. Cette somme semble inclure un montant d’environ 7 000 $ en réductions sur le prix du carburant. Les relevés montrent également qu’environ 24 500 $ ont été déduits des paiements, ce qui semble correspondre aux frais payés par Rosedale au nom de l’appelante, principalement pour du carburant.
+[53] Je souhaite prendre un instant pour reconnaître les efforts consentis durant l’audience par l’avocat de l’intimée, Me King, pour passer en revue les documents, qu’il n’avait pour la plupart jamais vus auparavant, et concéder un certain nombre de dépenses. Ces concessions incluent les déductions mentionnées précédemment sur les relevés du tractionnaire et des montants additionnels s’élevant à environ 1 750 $, pour un total d’environ 26 250 $, soit un total qui dépasse la somme de 22 027,45 $ pour des dépenses déduites dans la déclaration de revenus, sans compter le montant déduit de 9 109 $ pour un sous-contrat. En effet, l’avocat a commenté ses concessions, affirmant qu’elles étaient faites au motif que si l’on acceptait les déductions montrées par Rosedale, alors on devait également accepter les revenus bruts de l’appelante apparaissant sur les mêmes relevés. Je suis d’accord. Le résultat nous mène toujours à une réduction du revenu net de camionnage, et par conséquent de la cotisation d’impôt établie[17].
+[54] Y a-t-il d’autres dépenses valides pour cette entreprise? L’appelante a déduit une dépense de 9 109 $ pour un sous-contrat. Elle a affirmé que c’était là le montant qu’elle avait versé à son mari pour conduire le camion et qu’il avait été payé en argent comptant. Je n’accepte pas son témoignage sur ce point pour trois raisons. Premièrement, il est étrange de classer un tel montant comme un sous-contrat, par opposition aux salaires de la partie 5 de l’État des résultats des activités d’une entreprise jointe à la déclaration de revenus. Deuxièmement, ce montant ne correspond pas aux deux relevés qu’elle a préparés et qui montrent prétendument les montants versés à son mari durant quatre mois, soit de septembre à décembre 2009 inclusivement; selon ces relevés, plus de 13 600 $ ont été versés à son mari[18]. Troisièmement, je suis incapable de concevoir comment elle aurait pu verser 9 109 $ ou plus de 13 600 $ à son mari, et indiquer à la première page de sa déclaration de revenus que le revenu net de son mari était de 902,48 $[19]. En conséquence, je n’accepte pas qu’il y ait eu une telle dépense.
+[55] La principale dépense figurant sur sa déclaration de revenus est un montant d’environ 19 000 $ en frais de véhicule à moteur; ce montant est plus que compensé par les 26 250 $ concédés par l’intimée. Il n’est pas nécessaire d’accorder d’autres déductions concernant des frais de véhicule à moteur, sauf la déduction pour amortissement.
+[56] L’appelante a acheté un camion usagé en 2009 pour la somme de 52 950 $, sans la TPS[20], et aucun montant n’a été déduit pour l’amortissement dans sa déclaration de revenus. L’intimée concède que l’appelante aurait dû être autorisée à déduire l’amortissement sur le camion si tel est son choix. Le jugement tiendra compte de ce point.
+[57] L’appelante a aussi déduit divers petits montants pour des intérêts, des fournitures, des frais juridiques, comptables et professionnels, de même que pour le téléphone et les services publics; ces montants totalisaient un peu moins de 2 950 $. Même s’il y avait sans doute des montants pour d’autres dépenses diverses, aucune explication n’a été donnée pour ces montants. Par exemple, il n’était pas expliqué quels intérêts, versés à qui, ont été payés en lien avec l’entreprise. Certaines factures de téléphone et de services publics figurent dans les reçus, mais aucun témoignage n’explique ce qui est lié à l’entreprise et comment l’imputation a été faite[21]. Dans les circonstances, il y a lieu de reconnaître un petit montant de 750 $ pour les autres dépenses.
+[58] Je ne suis pas convaincu que l’appelante a droit à d’autres dépenses relativement à l’entreprise de camionnage.
+[59] Par conséquent, avec 53 400 $ de revenus et 27 000 $ de dépenses de camionnage, l’appelante a un revenu net de camionnage de 26 400 $ avant toute déduction pour amortissement.
+[60] Puisque le ministre a établi la cotisation en fonction d’un revenu net de camionnage de 38 565 $, il faut réduire le revenu de camionnage de l’appelante de 12 165 $. De plus, l’appelante peut déduire un montant pour amortissement ne dépassant pas le montant maximal autorisé en 2009 en ce qui concerne le camion. L’appelante devra informer le ministre du montant pour amortissement qu’elle souhaite déduire.
+Pénalités pour 2009 [61] Enfin, j’en arrive à la pénalité pour faute lourde imposée par le ministre en 2009. Il ne fait aucun doute que la déclaration de revenus contient de faux énoncés. Je suis également convaincu qu’il faut, à tout le moins, que l’appelante ait fait preuve d’aveuglement volontaire pour penser que, dans les circonstances, il pouvait y avoir une perte locative et que le revenu net de l’entreprise de camionnage était de 7 428,55 $ ou que son revenu brut était d’environ 38 000 $[22].
+[62] Par conséquent, le ministre a raison d’appliquer une pénalité pour faute lourde en 2009[23].
+Conclusion [63] Pour les motifs qui précèdent, un nombre limité de changements doivent être apportés aux cotisations établies pour 2008 et 2009. Par conséquent, l’appel est accueilli et la question est déférée au ministre pour nouvel examen et nouvelle cotisation, au motif que :
+1. en ce qui concerne l’année d’imposition 2008, l’appelante a droit à un montant de 400 $ en dépenses d’emploi, et la pénalité pour faute lourde imposée en application du paragraphe 163(2) de la Loi doit être ajustée afin de tenir compte de ce changement;
+2. en ce qui concerne l’année d’imposition 2009 :
+a. le revenu net de camionnage de l’appelante doit être réduit de 12 165 $;
+b. l’appelante peut, en ce qui a trait au camion, déduire un montant pour amortissement ne dépassant pas le montant maximal autorisé aux termes de la Loi et du Règlement de l’impôt sur le revenu. L’appelante devra indiquer au ministre, dans les deux mois suivant la date du présent jugement, quel montant, le cas échéant, elle souhaite déduire pour amortissement;
+c. le montant de la pénalité pour faute lourde imposée en application du paragraphe 163(2) de la Loi doit être ajusté pour tenir compte de la réduction du revenu de camionnage, par suite de ce qui figure aux points a. et b.
+Signé à Ottawa (Ontario), ce 21e jour de juin 2017.
+« Gaston Jorré »
+Le juge Jorré
+RÉFÉRENCE :
+2017 TCC 107
+No DU DOSSIER DE LA COUR :
+2016-2774(IT)I
+INTITULÉ :
+MARIJA BOBIC c. LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 21 février 2017
+DATE DE RÉCEPTION DE LA TRANSCRIPTION :
+Le 22 mars 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Gaston Jorré
+DATE DU JUGEMENT :
+Le 8 juin 2017
+DATE DES MOTIFS MODIFIÉS DU JUGEMENT :
+Le 21 juin 2017
+COMPARUTIONS :
+[Blank/En blanc]
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Gregory B. King
+AVOCATS INSCRITS AU DOSSIER :
+[Blank/En blanc]
+Pour l’appelante :
+[Blank/En blanc]
+Cabinet :
+[Blank/En blanc]
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. 1985, ch. 1 (5e suppl.).
+[2] Selon la réponse à l’avis d’appel, aucune pénalité n’a été imposée relativement au montant omis de prestations d’assurance-emploi.
+[3] Le relevé d’emploi est inclus dans la pièce A-1.
+[4] En vertu du paragraphe 8(10), le formulaire T2200 (Déclaration des conditions de travail), signé par l’employeur, constitue une condition préalable à toute déduction en application des alinéas 8(1)h), h.1) ou i); il constitue indirectement une condition préalable à toute déduction en application de l’alinéa 8(1)j) puisque, en l’espèce, l’alinéa 8(1)j) ne s’applique que si l’appelante est admissible à une déduction en application des alinéas 8(1)h) ou h.1). En l’espèce, comme l’a souligné l’intimée, un formulaire T2200 n’a pas été fourni avant 2016; il était daté du 11 janvier 2016 et signé par le beau-frère de l’appelante qui est, selon le formulaire, propriétaire de l’entreprise. Contrairement au relevé d’emploi, le formulaire indique que l’appelante a travaillé jusqu’au 31 décembre. Le formulaire indique que l’appelante était responsable des dépenses quant à son propre véhicule, de son cellulaire et de ses uniformes; je souligne que le formulaire n’est pas concluant quant à la déductibilité des dépenses. Enfin, je souligne que même si le paragraphe 8(10) exige que le formulaire soit joint à la déclaration de revenus, le formulaire lui-même est libellé ainsi : « L’employé n’a pas à produire ce formulaire avec sa déclaration. Il doit cependant le conserver pour nous le fournir sur demande ». C’est vrai autant pour la version 2008 que pour la version 2016 du formulaire.
+[5] Je souligne également que l’appelante a déposé un nombre limité de pièces justificatives mal organisées pour les dépenses déduites liées au véhicule; par conséquent, non seulement je ne suis pas convaincu qu’un nombre précis de kilomètres admissibles ait été prouvé, mais je ne suis également pas convaincu que l’appelante ait prouvé que les dépenses ont été réellement engagées, sauf pour quelques dépenses, qu’elles soient ou non déductibles.
+[6] Transcription, à la page 88.
+[7] Ou si un élément de preuve avait démontré que la part liée au travail représentait une part relativement importante de l’usage entraînant des dépenses qui autrement n’auraient pas été engagées. Toutefois, ce n’était pas le cas; en fait, la seule facture de téléphone pour 2008, à la pièce A-1, était datée du 4 mars 2008, et semble liée à une ligne téléphonique résidentielle.
+[8] Ainsi, il n’est pas nécessaire que je parle des nombreux problèmes quant aux copies des reçus fournis pour appuyer cette déduction et les autres dépenses d’emploi déduites.
+[9] Je soulignerais qu’en ce qui concerne les outils, l’entretien et les réparations, certains éléments de preuve se rapportant aux dépenses liées au véhicule entraient dans ces catégories, mais rien n’indiquait d’autres dépenses déductibles. J’ai déjà abordé la question des dépenses liées au véhicule.
+[10] Voir Panini c. Canada, 2006 CAF 224 (CanLII).
+[11] Un montant de 280 $ pour des frais de divertissement a été inclus dans ces autres dépenses.
+[12] Plutôt que de refuser les dépenses et de créer un revenu imposable.
+[13] La lettre fait partie de la pièce R-4; voir le point 2 au milieu de la première page.
+[14] Il n’est ainsi pas nécessaire de traiter des dépenses déduites. Je voudrais seulement souligner que les dépenses déduites suscitent de nombreuses préoccupations, même s’il y avait eu une source de revenus. Par exemple, même s’il y avait eu une source de revenus locatifs, il est difficile de concevoir, selon les éléments de preuve, comment il aurait pu y avoir des dépenses pour un véhicule à moteur s’élevant à 2 485 $; en fait, lorsqu’on lui a posé la question, l’appelante a semblé penser qu’il s’agissait peut-être là des dépenses de voiture de son mari, dépenses qu’elle a payées parce qu’il s’apprêtait à déclarer faillite (voir page 126 de la transcription). Un autre exemple est le montant de 2 144,85 $ pour des frais d’intérêts déduits; lorsqu’on l’a questionnée à ce sujet, l’appelante ne savait pas trop de quoi il s’agissait, mais a affirmé que ce montant provenait sans doute de la carte de crédit (voir page 119 de la transcription). Rien dans la preuve ne montre en quoi les intérêts de la carte de crédit pourraient être liés à une location, si tant est qu’il y ait eu location. Ces deux éléments de dépenses totalisent 4 629,85 $, soit un montant presque équivalent à la perte de 4 701,00 $ qui a été déduite.
+[15] À moins que les sommes versées par les clients soient nettes de toutes dépenses; ce n’est pas le cas ici.
+[16] Par exemple, il y a des reçus de Walmart, de Metro, de Wendy’s, de la Régie des alcools de l’Ontario et du magasin The Beer Store. Dans le cas de la Régie des alcools et du magasin The Beer Store, l’appelante a indiqué dans son témoignage que ces reçus concernaient des cadeaux de Noël achetés pour les répartiteurs de l’entreprise de camionnage et qu’il s’agissait donc de dépenses d’entreprise. Je n’accepte pas ce témoignage, étant donné que dans l’état des dépenses, aucun montant n’a été déduit pour des dépenses de divertissement ou de publicité.
+[17] Il n’y a donc pas violation du principe selon lequel la Cour ne peut augmenter le montant de la cotisation d’impôt établie. Aucune objection n’a été formulée au dépôt des relevés de paie du tractionnaire et je ne vois aucune raison de douter de la véracité des relevés préparés par un tiers. Si j’accepte la véracité des relevés, je ne peux ignorer les revenus qui y sont indiqués. En outre, l’appelante, ayant déposé les relevés, ne pouvait objecter qu’on l’avait prise par surprise.
+Je souligne également que j’utilise des chiffres arrondis parce que la preuve ne permet pas d’établir des montants exacts. Les montants additionnels totalisant environ 1 750 $ sont concédés aux pages 138, 154, 161, 162, 164, 167, 168, 169, 185, 196 et 199 de la transcription.
+[18] Ces deux relevés se trouvent à la pièce A-4; dans la partie supérieure droite des relevés, les mots « Driver Statements » (relevés des conducteurs) sont écrits à la main.
+[19] Voir pièce R-5.
+[20] Voir la facture de vente à la pièce A-4.
+[21] Certaines dépenses ne figurant pas dans la déclaration de revenus ont également été déduites, mais une fois encore, il y a peu d’éléments de preuve permettant de conclure que certains montants étaient déductibles.
+[22] Simplement en ce qui concerne les revenus, selon une comptabilité fondée sur les flux de trésorerie par opposition à une comptabilité d’exercice, l’entreprise de camionnage a reçu environ 48 000 $.
+[23] Comme il a été dit précédemment, aucune pénalité n’a été appliquée relativement aux prestations d’assurance-emploi non déclarées.

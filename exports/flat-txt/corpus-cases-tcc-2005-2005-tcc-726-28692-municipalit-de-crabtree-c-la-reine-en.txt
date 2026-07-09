@@ -1,0 +1,193 @@
+Title: Municipalité de Crabtree c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28692/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-726-28692-municipalit-de-crabtree-c-la-reine-en.md
+Document type: case_law
+Last modified: 2005-12-01
+
+# Municipalité de Crabtree c. La Reine
+
+- Citation: 2005 TCC 726
+- Decision date: 2005-12-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1482, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Municipalité de Crabtree c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-01
+Neutral citation
+2005 TCC 726
+File numbers
+2004-3987(GST)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-3987(GST)I
+BETWEEN:
+MUNICIPALITY OF CRABTREE,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 9, 2005, at Montréal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Nadine Deschênes
+Counsel for the Respondent:
+Benoît Denis
+____________________________________________________________________
+AMENDED JUDGMENT
+This judgment replaces the judgment dated December 1, 2005.
+The appeal from the assessment made under the Excise Tax Act for the period from April 1, 1999 to September 30, 2002, notice of which is numbered 032G0110821 and dated July 7, 2004, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of December 2005.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 5th day of May 2008.
+Brian McCordick, Translator
+Citation: 2005TCC726
+Date: 20051206
+Docket: 2004-3987(GST)I
+BETWEEN:
+MUNICIPALITY OF CRABTREE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR AMENDED JUDGMENT
+Bédard J.
+[1] On May 31, 2002, the municipality of Crabtree ("the Appellant") acquired vacant land for $181,700 plus $12,719 in goods and services tax (GST).
+[2] On June 7, 2002, the Appellant entered into an agricultural lease, which is attached to these Reasons as Schedule A. The lease was for a term of one year and was renewable automatically for successive one‑year periods unless notice was given to the contrary. The annual consideration was $1,000. The Appellant claimed an input tax credit (ITC) of 100% of the GST it had paid when it acquired the land, that is, $12,719. The Respondent, through the Quebec Minister of Revenue, instead granted the Appellant a partial rebate (57.14%) of the GST it had paid when it acquired the land.
+[3] The Appellant is appealing under the informal procedure from the assessment granting it a partial rebate (57.14%) rather than an ITC of 100% of the $12,719 in GST paid when the land was acquired.
+Issue
+[4] The issue is whether the Appellant is entitled, in relation to the land, to an ITC in the amount of $12,719 ($181,700 x 7%) or a partial GST rebate of $7,267.64 ($181,700 x 7% x 57.14%), that is, whether the Appellant acquired the land for consumption, use or supply in the course of its commercial activities or for making an exempt supply. To decide this issue, I will have to characterize the agreement of June 7, 2002. I will therefore have to determine whether that agreement is a lease or whether it instead grants a right of use, as the Appellant submits.
+The Law
+[5] To fully appreciate what is at issue, it is necessary to understand various parts of the GST scheme and the way they apply to the facts of this case.
+[6] The GST is a tax imposed under the Excise Tax Act ("ETA").[1] It is payable by the recipient[2] when a taxable supply[3] is made. In this case, the Appellant had to pay the GST when it acquired the vacant land.
+[7] A person whose business is to make taxable supplies may apply for a rebate of the GST the person has paid for property and services acquired for the person's business.[4] That rebate is an "input tax credit" (ITC).
+[8] To be entitled to ITCs, a registrant must have acquired or imported property or a service for consumption or supply in the course of the registrant's commercial activities.[5] Subsection 123(1) of the ETA defines the term "commercial activity" as follows:
+"commercial activity" of a person means
+. . .
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply;
+Thus, the supply of real property is a supply made in the course of a commercial activity, provided that it is not an exempt supply.
+[9] The terms "real property" and "exempt supply" are defined as follows in subsection 123(1):
+"real property" includes
+(a) in respect of property in the Province of Quebec, immovable property and every lease thereof,
+. . .
+"exempt supply" means a supply included in Schedule V;
+[10] To focus the debate here, it should be added that the Appellant is a municipality within the meaning of subsection 123(1) of the ETA and that a municipality is a public service body within the meaning of the same subsection.
+[11] Finally, it is necessary to refer to sections 20 and 25 of Part VI of Schedule V to the ETA, which, for the relevant period, listed exempt and non‑exempt supplies made by a municipality. Section 20 provided, inter alia, that the supplies referred to in paragraphs (a) to (i) were exempt while those referred to in paragraphs (j) to (l) were not. Paragraph 20(l), which is particularly important for the purposes of this case, provided that a supply of a right to use property of the municipality was not an exempt supply. Section 25 provided, inter alia, that a supply of real property made by a public service body (including a municipality) was an exempt supply, but this did not include certain supplies set out in paragraphs (a) to (j). Paragraph 25(f), which is particularly important for the purposes of this case, was worded as follows:
+real property (other than short‑term accommodation) made by way of
+(i) lease, where the period throughout which continuous possession or use of the property is provided under the lease is less than one month,
+(ii) a licence,
+where the supply is made in the course of a business carried on by the body;
+Appellant's arguments
+[12] During her oral argument, counsel for the Appellant basically reiterated the arguments set out in paragraph 7 of the Notice of Appeal, which read as follows:
+[TRANSLATION]
+a. The contract entered into on June 7, 2002 is not a lease but a right of use under articles 1172 to 1176 of the Civil Code of Québec;
+b. As provided for in article 1427 of the Civil Code of Québec, each clause of the contract must be interpreted in light of the others so that each is given the meaning derived from the contract as a whole;
+c. If the contract is analysed in accordance with article 1427 of the Civil Code of Québec, it can be concluded that it has the characteristics of a right of use, since it provides that:
+i. the lessee does not have full enjoyment of the leased property and is entitled to use the premises only for agricultural purposes;
+ii. the lessee must pay $1,000 a year;
+iii. that $1,000 a year is not rent but an amount paid by the lessee for the right to cut the grass on the lots and use it for the lessee's own agricultural purposes;
+iv. the lessee appropriates the fruits produced by the property, namely grass in this case;
+v. the lessee is responsible for the expenses incurred to produce the fruits and revenues, since it is responsible for the expenses that must be incurred to cut the grass;
+vi. the lessee undertakes to maintain $1,000,000 in risk and liability insurance;
+d. The objections officer adhered to the literal meaning of the words and did not interpret the contract in accordance with the parties' intention as provided for in article 1425 of the Civil Code of Québec;
+e. The parties' intention was to enter into a contract providing for a right of use;
+f. The supply of a right of use is a taxable supply under paragraph 20(l) of Part VI of Schedule V to the Excise Tax Act (GST) and under the definition of "commercial activity" in subsection 123(1) of the same Act;
+g. Accordingly, the Appellant is entitled to full input tax credits for the supply of lots G, H, I and J;
+h. The Appellant disagrees with the objections officer's assertion that paragraph 25(f) of Part VI of Schedule V to the Excise Tax Act takes priority over the application of paragraph 20(l) of Part VI of Schedule V to the same Act;
+i. The Ministère du revenu du Québec recognized that all the parts of lots described in the contract, Exhibit R‑1, except lots G, H, I and J, were purchased by the Appellant for use in the course of its commercial activities;
+j. All the lots described in the contract, Exhibit R‑1, including lots G, H, I and J, were acquired from a contractor by the Appellant under a single contract with a single objective, namely residential development, as can be seen from a copy of the extract from the minutes of a regular session of the Appellant's council held on January 14, 2002, Exhibit R‑6.
+Analysis
+[13] First of all, I want to emphasize that, where a contract is clear, the judge's role is to apply it rather than interpret it. However, if there is ambiguity, the rules of interpretation will exclude the literal meaning to make way for the real intention of the contracting parties at the time the contract was formed – contracting parties who, I stress, did not come to testify in this case. I would add that a difference of opinion on the interpretation of a contract does not necessarily mean that there is ambiguity. In the instant case, it seems very clear that the agreement of June 7, 2002 is a lease. Indeed, the terms [translation] "lease", "lessor", "lessee", "leased premises" and "rent" are used extensively in the agreement. The agreement also contains the basic elements of a contract of lease, namely the obligation to provide enjoyment of property, the obligation to pay rent and, from a certain standpoint, the term of the contract. Although the agreement limits enjoyment to agricultural purposes as well as entry onto the leased property for farming work, the lessee always had enjoyment of property within the meaning of the Civil Code of Québec. There is no provision of public order that prohibits a lessor under a commercial lease from limiting enjoyment of the leased property. In other words, the lessor in this case could limit enjoyment of the leased property without the agreement of June 7, 2002 ceasing to be a contract of lease. The other clauses of the agreement of June 7, 2002 are the usual clauses found in agricultural leases. It should be noted that the parties to a commercial lease may agree to almost anything that is not contrary to provisions of public order. Anything that is contrary to public order is simply deemed unwritten. Here, the three essential elements of a lease of property are found in the agreement of June 7, 2002, and this is all that matters. The right of use is, of course, an institution comparable to a contract of lease in some respects. The agreement of June 7, 2002 does, of course, have some characteristics of a contract of use. Where an agreement has the essential characteristics of a contract of lease and is described by the contracting parties as a lease, does the fact that it has certain characteristics of a right of use mean that it cannot be characterized as a contract of lease? I would add that the agreement of June 7, 2002 does not include the essential element of the right of use, which is the right to take the fruits and revenues of property to the extent of the needs of the holder of the right and the persons living with the holder or the holder's dependants.
+[14] Since the agreement of June 7, 2002 is, in my opinion, a lease for a term of more than one month and thus an exempt supply, the Appellant was not entitled to ITCs. It will be recalled that a registrant is not entitled to ITCs unless, inter alia, the registrant has acquired property in the course of commercial activities and that a supply of real property (which in Quebec includes a lease of immovable property) is a supply made in the course of a commercial activity, provided that it is not an exempt supply. The opening portion of section 25 of Part VI of Schedule V clearly provides that a lease is an exempt supply for a municipality. Certainly, paragraph 20(l) of Part VI seems at first glance to contradict the opening portion of section 25 of Part VI of Schedule V, since it provides that a supply of a right to use property of the municipality is not an exempt supply. However, this is not the case. A statute must be interpreted in a manner that avoids, to the extent possible, inconsistencies or contradictions between its components or parts. A clear, more specific provision must therefore take precedence over a general provision. In my opinion, the provision in paragraph 20(l) is more general than the one in section 25.
+[15] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 6th day of December 2005.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 5th day of May 2008.
+Brian McCordick, Translator
+Schedule A
+[TRANSLATION]
+LEASE OF LOTS P-475-1 AND P-476 FOR FARMING PURPOSES
+LEASE ENTERED INTO BY
+THE MUNICIPALITY OF CRABTREE, A LAWFULLY CONSTITUTED CORPORATION HAVING ITS PRINCIPAL PLACE OF BUSINESS IN THE MUNICIPALITY OF CRABTREE AT 111 4th AVENUE, REPRESENTED BY ITS MAYOR, DENIS LAPORTE, AND ITS SECRETARY‑TREASURER, SYLVIE MALO, BOTH OF WHOM ARE AUTHORIZED FOR THE PURPOSES HEREOF, HEREINAFTER REFERRED TO AS "THE LESSOR",
+AND
+ANDRÉ THIBODEAU, RESIDING AT 1268 RANG DES CONTINUATIONS IN SAINT‑JACQUES, HEREINAFTER REFERRED TO AS "THE LESSEE".
+SPACE LEASED
+The Lessor hereby leases to the Lessee a parcel of land having an area of 22.34 ACRES entered on the assessment roll in force; the said land being in the municipality of Crabtree and bearing lot numbers P‑475‑1 and P‑476.
+As the whole stands at present, with and subject to all active and passive servitudes attached to the said property, the Lessee being familiar with the leased premises and their current condition.
+CHARGES AND CONDITIONS
+This lease is granted subject to the following charges, clauses and conditions, which the Lessee undertakes and obligates himself to fulfil and comply with:
+(a) To pay rent of $1,000 a year for the said leased premises.
+(b) To use the leased premises only for agricultural purposes.
+(c) To maintain $1,000,000 in risk and liability insurance and provide the Lessee with proof of that insurance.
+(d) Not to use the leased premises for purposes that may seem reprehensible to the Lessor.
+(e) Not to sublease the premises in whole or in part without the Lessor's written consent.
+(f) Not to erect any building, structure or other thing on the leased premises unless it is approved by the Lessor.
+(g) To comply with all municipal by‑laws, health regulations and provincial regulations, including but not limited to environmental by‑laws and regulations.
+(h) To indemnify the Lessor and hold it harmless from all losses, expenses or damages it may incur and from all claims, losses, expenses, actions or other proceedings brought or introduced by anyone that are attributable in any way to or result in any way from the existence of this lease.
+(i) The Lessee shall go onto the above‑mentioned lots only to do farming work.
+(j) If any work whatsoever must be done, such as access culverts or other work, it shall be done entirely at your expense, and you shall notify the Lessor before beginning such work.
+TERM AND RENEWAL
+It is agreed that this lease shall be for a term of one (1) year from January 1, 2002 to December 31, 2002.
+Subsequently, this lease shall be renewed automatically for successive periods of one (1) year from January 1 to December 31 of each year unless either party wishes to terminate it; in such case, it shall give the other party two (2) months' notice by November 1 of each year at the latest.
+PAYMENT
+The rent shall be $1,000 a year and shall be payable on December 1 of each year.
+SIGNATURES
+In witness whereof, the parties have signed at Crabtree on this 7th day of the month of June 2002.
+MUNICIPALITY OF CRABTREE LESSEE
+_________________________________ ________________
+Denis Laporte, Mayor André Thibodeau
+_________________________________
+Sylvie Malo, Secretary-Treasurer
+CITATION:
+2005TCC726
+COURT FILE NO.:
+2004-3987(GST)I
+STYLE OF CAUSE:
+Municipality of Crabtree and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+May 9, 2005
+REASONS FOR AMENDED JUDGMENT BY:
+The Honourable Justice Paul Bédard
+DATE OF AMENDED JUDGMENT:
+December 6, 2005
+APPEARANCES:
+For the Appellant:
+Nadine Deschênes
+For the Respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Nadine Deschênes
+Firm:
+Boucher, Champagne, Thiffault, Pellerin & Forest
+Joliette, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] ETA, R.S.C. 1985, c. E-15.
+[2] Subsection 123(1) ETA.
+[3] Subsection 123(1) ETA.
+[4] Subsection 169(1) ETA.
+[5] Subsection 123(1) ETA.

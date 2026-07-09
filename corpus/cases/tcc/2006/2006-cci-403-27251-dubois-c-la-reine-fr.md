@@ -1,0 +1,140 @@
+---
+title: "Dubois c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27251/index.do"
+last_modified: "2006-07-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 403"
+citation2: ""
+neutral_citation: "2006 CCI 403"
+decision_date: "2006-07-28"
+language: "fr"
+item_id: "27251"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 792
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:51:29.965000+00:00"
+cases_cited_count: 5
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "36fd872262da0e6753230de695202f8653c312fb2090d9f1ea127d2214f9ffd4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dubois c. La Reine
+
+- Citation: 2006 CCI 403
+- Decision date: 2006-07-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 792, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dubois c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-28
+Référence neutre
+2006 CCI 403
+Numéro de dossier
+2005-2963(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2963(IT)I
+ENTRE :
+MARIE-THÉRÈSE DUBOIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 3 février 2006, à Trois-Rivières (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelante :
+Jean-Louis Dubois
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est rejeté, sans frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour de juillet 2006.
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI403
+Date : 20060728
+Dossier : 2005-2963(IT)I
+ENTRE :
+MARIE-THÉRÈSE DUBOIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel d'une cotisation établie en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) par le ministre du Revenu national (le « ministre » ) concernant l'année d'imposition 2003.
+[2] La question en litige consiste à déterminer si le ministre a correctement déduit dans le calcul du revenu de l'appelante, la somme de 2 667,98 $ à titre de remboursement partiel de prestations de sécurité de la vieillesse déjà incluses dans son revenu pour l'année d'imposition 2003 et ajouté dans le calcul de l'impôt total à payer, une somme équivalente à titre de remboursement de prestations de programmes sociaux.
+[3] Pour établir et ratifier la cotisation, l'intimée a tenu pour acquis les faits suivants :
+a) l'appelante, au cours de l'année d'imposition en litige, fut bénéficiaire de la pension de sécurité de la vieillesse pour une somme totale de 5 497,62 $;
+b) le ministre calcula une somme de 75 662 $, au titre de revenu net avant rajustements, à l'égard de l'année d'imposition 2003;
+c) étant donné que le revenu net avant rajustements excède le seuil indexé de 57 879 $, l'appelante est dans l'obligation de rembourser, en totalité ou en partie, la pension de sécurité de la vieillesse qui lui a été versée pendant l'année d'imposition 2003;
+d) le 6 mai 2004, le ministre a émis un avis de cotisation, à l'égard de l'année d'imposition 2003, dans lequel il accordait, dans le calcul du revenu de l'appelante, une déduction de 2 667,98 $ à titre de remboursement de prestations de pension de sécurité de la vieillesse, mais ajoutait, dans le calcul de l'impôt total à payer, une somme équivalente au titre de remboursement des prestations de programmes sociaux.
+[4] L'appelante était représentée par son conjoint, lequel s'était manifestement bien préparé. Il a fait valoir des arguments basés essentiellement sur l'équité.
+[5] Malheureusement, ce tribunal doit prendre en considération tous les faits pertinents afin de vérifier si la cotisation a été correctement établie en conformité avec les dispositions de la Loi, auquel cas la cotisation doit être confirmée; la Cour canadienne de l'impôt n'a pas l'autorité légale pour annuler ou modifier une cotisation pour des motifs basés essentiellement sur l'équité. En d'autres termes, le rôle du juge consiste à décider si la cotisation est bien fondée ou non et non pas de faire ou de refaire la loi.
+[6] À cet égard, il m'apparaît utile de faire un survol de la jurisprudence. Le juge Rip, dans l'affaire Smith v. M.N.R., no 88-465(IT), 1er mai 1989, 89 DTC 299, affirmait :
+. . . This Court, a creation of a federal statute, is not a court of equity and cannot take it upon itself to interpret the Agreement on the basis paragraph 7 has been severed from the Agreement. This Court's jurisdiction is found in its enabling statute: see Union Oil of Canada Ltd. v. The Queen (1975), 72 D.L.R. (3d) 81. The Agreement must be interpreted as executed, without modification. . . .
+[TRADUCTION]
+[...] Notre cour, qui a été créée par une loi fédérale, n'est pas une cour d'equity et ne peut donc pas entreprendre d'interpréter l'entente en supposant que l'article 7 en est disjoint. La compétence de notre cour est précisée dans la loi habilitante : voir la décision Union Oil Company of Canada Ltd. c. La Reine, [1976] 1 C.F. 74, 72 D.L.R. (3d) 81. L'entente doit être interprétée telle qu'elle a été conclue, sans modification. [...]
+[7] En 1990, l'honorable juge en chef adjoint Christie, dans l'affaire Smith, Exécuteur Testamentaire de Lamash c. M.R.N., no 88-902(IT), 19 octobre 1990, 91 DTC 9, disait ce qui suit :
+La Cour canadienne de l'impôt est une pure création de la loi et sa compétence se limite à ce qui lui est conféré expressément par le Parlement et à ce qui se déduit nécessairement de ce qui lui est conféré expressément.
+[8] Ces deux jugements seront ultérieurement cités ensemble par le juge Sobier dans deux jugements qu'il a rendus en 1993. D'une part, il dira dans Sunil Lighting Products c. M.R.N., no 91-125(UI), 5 octobre 1993, [1993] A.C.I. no 666 (QL), à la page 5:
+La jurisprudence indique clairement que la Cour canadienne de l'impôt n'est pas une cour d'équité et que sa compétence repose sur les dispositions de sa loi d'habilitation. En outre, la Cour n'est pas habilitée à rendre un jugement déclaratoire, étant donné que cela excède sa compétence. Dans le cas des appels portant sur l'impôt sur le revenu, les pouvoirs de la Cour sont énoncés au paragraphe 171(1) de la Loi de l'impôt sur le revenu. Ces pouvoirs consistent donc essentiellement à déterminer si la cotisation a été établie conformément aux dispositions de la Loi de l'impôt sur le revenu.
+[9] D'autre part, dans le second jugement, toujours en 1993, il exposera dans Tignish Auto Parts Inc. c. M.R.N., no 92-601(UI), 11 août 1993, [1993] A.C.I. no 446 (QL), à la page 10 :
+La Cour canadienne de l'impôt est une cour inférieure d'archives investie de certains pouvoirs d'une cour supérieure d'archives. La jurisprudence affirme clairement qu'elle n'est pas une cour d'equity et que sa compétence est prévue dans sa loi habilitante. Dans une récente décision, le juge en chef adjoint Christie de la Cour canadienne de l'impôt a, au sujet d'une question de compétence, conclu que :
+[TRADUCTION FRANÇAISE OFFICIELLE]
+[...] La Cour canadienne de l'impôt est une pure création de la loi et sa compétence se limite à ce qui lui est conféré expressément par le Parlement et à ce qui se déduit nécessairement de ce qui lui est conféré expressément.
+[10] Le dernier jugement fréquemment cité affirme ce qui suit dans l'affaire Impact Shipping Inc. c. Canada, no 94-2239(GST)I, 9 mai 1995, [1995] A.C.I. no 409 (QL), à la page 5 :
+Les observations présentées pour le compte de l'appelante indiquent essentiellement qu'il serait injuste ou inéquitable, compte tenu des circonstances, de maintenir le refus du remboursement et qu'une rectification par la Cour s'impose. Ces observations laissent supposer qu'il a été conféré à la Cour canadienne de l'impôt une certaine compétence générale en matière d'équité pour remédier à ce qui pourrait lui paraître inéquitable, peu importe le fait que les dispositions législatives qui créent la prétendue iniquité sont parfaitement claires. À mon avis, cette supposition est inexacte. [...]
+[11] Enfin, il existe également un jugement de la Cour d'appel fédérale dans Lassonde c. Canada, 2005 CAF 323, au paragraphe 3 :
+3 Il est certain que cet appel doit être rejeté, ne serait-ce qu'en raison de l'absence de compétence. Quelques semaines avant la décision de la juge Lamarre Proulx et dans les mois qui ont suivi, notre Cour a rappelé à plusieurs reprises que la compétence de la Cour canadienne de l'impôt, dans le cadre d'un appel de cotisation, se limite à décider si la cotisation est conforme à la loi, en se fondant sur les faits et les dispositions applicables (voir Milliron c. Canada, 2003 CAF 283; Sinclair c. Canada, 2003 CAF 348; Webster c. Canada, 2003 CAF 388 et Main Rehabilitation Co. c. Canada, 2004 CAF 403.)
+[12] Notre cour n'a pas le pouvoir de faire ce que l'appelante lui demande. Elle a uniquement le pouvoir d'examiner si la cotisation a été établie en conformité avec les dispositions de la Loi, ce qui en l'espèce est le cas.
+[13] En conséquence, l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 28e jour de juillet 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2006CCI403
+N º DU DOSSIER DE LA COUR : 2005-2963(IT)I
+INTITULÉ DE LA CAUSE : Marie-Thérèse Dubois c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Trois-Rivières (Québec)
+DATE DE L'AUDIENCE : le 3 février 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 28 juillet 2006
+COMPARUTIONS :
+Représentant de l'appelante :
+Jean-Louis Dubois
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante:
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

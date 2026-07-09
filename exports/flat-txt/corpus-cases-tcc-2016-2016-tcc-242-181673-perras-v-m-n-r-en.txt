@@ -1,0 +1,202 @@
+Title: Perras v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/181673/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-242-181673-perras-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2016-10-27
+
+# Perras v. M.N.R.
+
+- Citation: 2016 TCC 242
+- Decision date: 2016-10-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2985, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perras v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-10-27
+Neutral citation
+2016 TCC 242
+File numbers
+2012-1637(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2012-1637(EI)
+BETWEEN:
+BENOÎT PERRAS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+D.M.O. CONSTRUCTION INC.,
+Intervener.
+[ENGLISH TRANSLATION]
+Appeal heard on August 20, 2015; January 14, 2016
+and June 1, 2016, at Montréal, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Stéphane Larochelle
+Sandra Beauregard
+Counsel for the Respondent:
+Gabriel Girouard
+Counsel for the Intervener:
+Sarto Landry (January 14 and June 1, 2016)
+Michel Desmarais (representative, August 20, 2015)
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is allowed and the decision made by the Minister is dismissed with regard to the work performed by the Appellant during the period at issue for the account and benefit of the Intervener constituting a contract of service and, consequently, insurable employment, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 27th day of October 2016.
+“Alain Tardif”
+Tardif J.
+Citation: 2016 TCC 242
+Date: 20161027
+Docket: 2012-1637(EI)
+BETWEEN:
+BENOÎT PERRAS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+D.M.O. CONSTRUCTION INC.,
+Intervener.
+[ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a case regarding the insurability of work performed by the Appellant for the account and benefit of the Intervener during the period from January 9, 2009, to December 16, 2009.
+[2] From the outset, the Intervener and the Respondent argued that the work at issue was performed under an enterprise contract as a subcontractor and, consequently, was not insurable.
+[3] However, the Appellant argues that the work was performed under a contract of service and was insurable under the Employment Insurance Act.
+[4] After the Appellant had testified regarding the relevant facts supporting his arguments, the Respondent told the Court that it had no evidence to submit and because of that it intended to consent to judgment in favour of the Appellant.
+[5] The Intervener told the Court that it was in total disagreement with the Respondent's assessment of the case. It then told the Court that it intended to prove that its intervention had merit.
+[6] After having testified, noting the particularity of the situation, it asked the Court for a postponement so that it could hire a lawyer; the Appellant objected to this.
+[7] The Court granted the postponement request on the condition that the Intervener cover only the cost of transcripts and copies for the parties and the Court.
+[8] The proceedings resumed on January 14, 2016. There was not enough time to continue with the Intervener's case; the proceedings continued in Montréal on June 1, 2016.
+Facts [9] The Appellant argued that he received the job at issue in this case through a newspaper advertisement. He stated that he signed no written contract, but entered into a verbal agreement with the Intervener on the nature of the work to be performed.
+[10] The Appellant argued that the verbal agreement set out conditions in terms of hours worked, how to calculate them, the remuneration involved, and the location of the work; he maintained that he required net pay of $1000 per week.
+[11] The Appellant argued that the Intervener had agreed to the $1000 amount that was to have been, and was, deposited directly into his bank account. Copies of statements were produced and they confirmed the payments and the regularity. With a few minor exceptions, the Appellant received the dollar amounts at issue on a regular basis and continued to do so throughout the period at issue.
+[12] The Intervener provided the necessary tools to perform the agreed-upon work: an office, a computer, rulers, and so on.
+[13] As part of his work, the Appellant also acted as a key person to train Martin Cayer, who worked in the same office in a building that the Intervener rented; Mr. Cayer was the brother-in-law of one of the two shareholders.
+[14] The Appellant was the first to show up on the premises, arriving very early. He opened the office and his brother-in-law, Martin Cayer, generally showed up a bit later. The Appellant always filled out a timesheet that he submitted to Mr. Cayer.
+[15] His work included obtaining plans and specifications for construction projects that were in progress or likely to begin. From the plan, the Appellant determined how many materials were required to carry out the projected subcontract; this involved assessing the materials required to divide the surfaces. These materials included plywood or drywall for the walls, ceilings, and so on; in other words, the Appellant made a detailed determination of the material required to do the ceilings and divide the various surfaces.
+[16] Once the exact quantities were established and determined, he submitted everything to his bosses, who then calculated the related prices to submit a bid to the recipient of the contract for the entire project; the Intervener would still act as a subcontractor.
+[17] When he wanted time off, he had to ask for it. Vacations fell under the rules governing the construction sector. He was paid the agreed-upon amount ($1000/week) through direct deposits into his bank account.
+[18] Lastly, the Appellant explained the circumstances surrounding his layoff. Upon noting that part of the agreed-upon payment had not been deposited into his bank account, and being very surprised with the situation, which had never happened before, he contacted the Intervener's representative and was told that his services were no longer required.
+[19] He then requested a record of employment that he could use to file an Employment Insurance claim. The Intervener refused on the pretext that he had always worked as a self-employed person and was not employed under a contract of service.
+[20] He therefore took various steps to request and obtain the possible compensation set out in various regulations, namely with the Commission des normes, which referred him to the Employment Insurance Commission. Those are the main facts submitted by the Appellant to support his appeal.
+[21] The Intervener's representative, Michel Desmarais, also testified. He argued that the work performed by the Appellant had been done under an enterprise contract. He explained that the Appellant's services were not exclusive; he gave an example where the Appellant allegedly performed work for someone else without giving any details, leaving even this aspect of the case rather vague and ambiguous.
+[22] Mr. Desmarais said that the Appellant had carte blanche to perform the work. The Intervener said that the Appellant had no restrictions to comply with except delivering the work within the required time frame to formalize a bid within the deadlines imposed by the general contractor.
+[23] It also referred to and formally insisted on account statements and a contract signed by the Appellant. The content of this contract refers to an enterprise contract, not a contract of service as the Appellant contends.
+[24] It also explained that the Appellant had the experience and knowledge to differentiate the nuances and tell the difference between an enterprise contract and a contract of service.
+[25] It submitted several documents containing the Appellant's signature. These documents consist of a contract stating that it was essentially an enterprise contract, on the one hand, and of several invoices, on the other.
+[26] Essentially, the evidence presented by the Intervener's representative, Mr. Desmarais, maintained that the contract that bound the Intervener to the Appellant was an enterprise contract for the following reasons:
+− Willingness clearly stated by the parties;
+− Flexibility;
+− Non-exclusivity of the work;
+− No relationship of subordination;
+− No control;
+− No supervision;
+− Plurality of very relevant documents signed by the Appellant.
+[27] The issue became very tense when the question of the Appellant's signature on the documents (contract and invoices) came up. Categorically denying having signed the documents at issue, the Appellant told the Court that he filed a criminal complaint alleging that the documents were forged; he then hired an expert to prove that it was not his signature on the documents.
+[28] The expert at issue testified. She corroborated another expert's findings that the signatures were forged and did not belong to the Appellant; however, this expert was not present to testify.
+[29] Subsequently, the Intervener's representative, Mr. Desmarais, reacted as if the Appellant were accusing him of forging his signature. The Appellant never directly or indirectly accused Mr. Desmarais of having forged his signature; essentially, he vehemently argued that it was not his signature.
+[30] To refute the Appellant's arguments, the Intervener hired two experts: a handwriting expert and a polygraph operation expert.
+[31] The first expert firmly held that the documents at issue had indeed been signed by the Appellant.
+[32] The second held that Mr. Desmarais took a lie detector test and it was determined that he was not the originator of the signatures and that if they were forgeries, he did not know who was responsible; in other words, the signatures and documents were forged and Mr. Desmarais was in no way involved.
+[33] The Intervener also asked and vehemently insisted that the Appellant also take a lie detector test; he agreed on the condition that his brother and brother-in-law also take one. In the end, he simply refused.
+[34] To support its evidence, the Intervener called one of its co-shareholders, Mario Desmarais, and Martin Cayer, the Appellant's brother-in-law.
+[35] The testimony contradicted part of the evidence submitted by the Appellant, namely with regard to when he was on the premises and the date of a meeting.
+[36] Overall, the testimony at issue was vague, unclear, and full of hostility. As a significant example of the evidence being questionable, Mr. Desmarais strongly contradicted the Appellant to the effect that there was no meeting on December 28. To validate his argument, he produced evidence of a reservation for several days in the North during the 2009 holiday season, which, needless to say, included December 28.
+[37] This evidence is in no way decisive because Mr. Desmarais could have decided to cut his trip short so that he could attend the meeting with Mr. Perras. The documents mention several people without stating their names. Yet it is clear that this does not prove that Mr. Desmarais was there and if he were, he could very well have cut his trip short and gone to the office for December 28.
+[38] In addition, when cross-examined again about the December 28 meeting, the Appellant again confirmed it, even adding having reached Mr. Desmarais by telephone, and that he told him that he was in the North but that he would be at the office on December 28 to meet with him.
+[39] So this supposedly decisive argument just fell apart, at least in terms of its probative value. Several times, the Intervener gave explanations and reasons that seemed relevant at first glance, but whose credibility crumbled after cross-examination; the trip to the North, the letter to a car dealership, when the Appellant showed up for work, and the non-exclusivity of the Appellant's work are telling facts.
+[40] The Intervener's submissions in no way proved its inability to attend a meeting with the Appellant. Moreover, he did not insist on having one.
+[41] Martin Cayer argued with hesitation and discomfort that the Appellant was rarely at the office very early in the morning.
+[42] On the issue of when the Appellant showed up for work, the owner of the premises rented by the Intervener where the Appellant worked, totally uninterested in the case, unequivocally upheld and confirmed the Appellant's testimony regarding when he showed up on the premises in the morning.
+[43] The testimony given by the Desmarais brothers and the brother-in-law of one of them all have the same characteristics: vague and unclear. A lot of implications and answers that varied with regard to the insistence of the questions in a context of arrogance can be explained by the complaint filed against the Intervener by the Appellant.
+[44] Did Mr. Desmarais or anyone else forge the Appellant's signature? That is a question whose answer does not fall under this Court's jurisdiction. In addition, yes-or-no answers add absolutely nothing to the relevant evidence available to me. I therefore have no reason to doubt Mr. Desmarais when he says that he did not forge the Appellant's signature. The signatures at issue could have been forged by anyone.
+[45] Although the Appellant did indeed sign the documents at issue, this factor in and of itself would not have been enough to dismiss the appeal. Case law makes several mentions of the relative importance of written and signed contracts.
+[46] To determine the nature of a working contract, having them in writing is certainly important, but they must essentially validate the facts in terms of how the work will be performed and under what conditions and circumstances.
+[47] Only the facts inherent to its performance, context and terms have decisive importance for differentiating an enterprise contract from a contract of service.
+[48] The intent written and signed by the parties to a contract is helpful and may be considered as an addition in situations that are very difficult to assess. However, it will always be essential for written contracts to be validated by facts; otherwise, these contracts will be removed from the analysis.
+[49] In other words, the conditions, terms, and methods are factors that must reflect the terms of the written contracts; otherwise, the Court will conduct its analysis based on the facts and will not take the written contracts into consideration.
+[50] In this case, the preponderance of evidence is to the effect that the facts related to how the work was performed are in no way consistent with the content of the written contracts.
+[51] The Intervener's representative, Mr. Desmarais, argues that he told the truth and that everything is confirmed by the two expert assessments: from the handwriting expert and the polygraph expert. He adds that the Appellant who refused to take the same test is lying on all fronts.
+[52] Yet the testimony given by Mr. Perras (the Appellant) was clear and accurate and the explanations were reasonable, logical and credible. The answers never varied despite the insistence and repetition of the questions.
+[53] With regard to evidence, the number of witnesses and testimonies is in no way decisive. Only quality and credibility have a relevant impact.
+[54] With regard to the three expert assessments in the record, I will limit myself to the following comments: the record gives a rather clear account of the issue of experts in a case. Generally, expert assessments produce plausible, reasonable, probative, but never irrefutable, findings. The findings generally confirm the position put forward by whoever receives the fees for preparing the assessment.
+[55] The direct effect of such a reality is that the findings retained are generally consistent with the expectations of the agent or agents. Moreover, it is still possible not to use the findings in an assessment that allegedly did not meet their expectations.
+[56] In this case, the Court listened very carefully to the expert testimony.
+[57] However, contradictory findings arise from a serious, thorough and professional analysis.
+[58] Consequently, I essentially trust the facts and elements highlighted by the evidence with regard to the work at issue concerning the circumstances and terms of its performance during the period at issue.
+[59] Mr. Perras' testimony was clear, accurate and very detailed. The explanations submitted were reasonable and very credible. In the two very important meetings, I refer to that where he was informed that his services were no longer required and to that where he met with the person responsible for his Employment Insurance file.
+[60] On each occasion, the Appellant reacted spontaneously and forcefully and clearly expressed his disappointment, but especially his very firm intention to contest the facts before him (namely, that he had worked as a self-employed person).
+[61] To sum up, I noted certain elements that unequivocally confirm or uphold the presence of an actual contract of service. The facts include:
+• The Appellant opened the office and had the access code;
+• The Appellant completed an activities report and filled out timesheets every week;
+• Remuneration was always the same and was deposited directly into his bank account continuously and without interruption;
+• The Appellant had business cards that were provided to him and paid for by the payer of the weekly remuneration;.
+• The Appellant's duties were defined, specific and repetitive;
+• All tools, including pencils, paper, a computer, rulers, an office and a telephone were provided to him by the payer of the remuneration;
+• Fixed working hours (7 a.m. to 4 p.m. every business day);
+• Needed permission to change or modify his regular work schedule, including to prepare for his wedding;
+• Very special circumstances when he was laid off, when the Appellant spontaneously asked for a record of employment for Employment Insurance purposes. At his request, he was told that he would be declared a self-employed person and that he will have to get GST and QST registration numbers;
+• Correspondence from the Intervener regarding the Appellant's actual status with the authorities;
+• No application for a GST or QST registration number from the Intervener upon hiring.
+[62] To begin with, counsel for the Respondent had told the Court that he would consent to judgment immediately after the Appellant presented his evidence on the first day of the hearing.
+[63] Later, he reserved his right to slightly modify his final position.
+[64] Counsel for the Respondent was very diligent throughout the case. When the Appellant and the Intervener rested their cases, the Court asked the Respondent to clearly state his position.
+[65] To this effect, counsel for the Respondent upheld and confirmed his initial assessment of the case and told the Court that the Appellant had established the merit of his appeal by retaining a few elements also held by the Court regarding the existence of an actual contract of service.
+[66] The arguments and submissions put forth by the Intervener are not upheld and are therefore overruled.
+[67] The appeal is allowed and the Minister's decision is set aside in that the work performed by the Appellant during the period at issue for the account and benefit of the Intervener was a contract of service and therefore insurable.
+Signed at Ottawa, Canada, this 27th day of October 2016.
+“Alain Tardif”
+Tardif J.
+CITATION:
+2016 TCC 242
+COURT FILE NO.:
+2012-1637(EI)
+STYLE OF CAUSE:
+BENOÎT PERRAS v. THE MINISTER OF NATIONAL REVENUE and
+D.M.O. CONSTRUCTION INC.
+PLACE OF HEARING:
+Montréal, Quebec
+DATES OF HEARINGS:
+August 20, 2015, January 14, 2016, and June 1, 2016.
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+October 27, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Stéphane Larochelle
+Sandra Beauregard
+Counsel for the Respondent:
+Gabriel Girouard
+Counsel for the Intervener:
+Sarto Landry (January 14 and June 1, 2016)
+Michel Desmarais (representative, August 20, 2015)
+COUNSEL OF RECORD:
+For the Appellant:
+Stéphane Larochelle
+Sandra Beauregard
+Firm:
+Ekitas, avocats & fiscalistes inc.
+Laval, Quebec
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervener:
+Sarto Landry
+Firm:
+Québec, Quebec

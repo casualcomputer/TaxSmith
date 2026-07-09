@@ -1,0 +1,135 @@
+Title: Arain v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26699/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-573-26699-arain-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-10-26
+
+# Arain v. The Queen
+
+- Citation: 2006 TCC 573
+- Decision date: 2006-10-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3445, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arain v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-26
+Neutral citation
+2006 TCC 573
+File numbers
+2006-1006(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1006(IT)I
+BETWEEN:
+MUMTAZ ARAIN,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 19, 2006, at Winnipeg, Manitoba
+Before: Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Ainslie Schroeder
+____________________________________________________________________
+AMENDEDJUDGMENT
+The appeal from assessment number 28741, dated June 15, 2005, made under section 160 of the Income Tax Act, is dismissed without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 23rd day of November 2006.
+"L.M. Little"
+Little J.
+Citation: 2006TCC573
+Date:20061026
+Docket: 2006-1006(IT)I
+BETWEEN:
+MUMTAZ ARAIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellant is the spouse of Mohammed Sharif Arain ("Mohammed").
+[2] On December 19, 1989 the Appellant and Mohammed purchased as joint tenants a house located at 22 Amberwood Place (the "Property") in the City of Winnipeg. The purchase price was $80,000.00. However, Mohammed, the Appellant's husband and agent, said that the purchase price also included the furniture plus all of the appliances. Mohammed said that in his opinion the price paid for the house was approximately $75,000.00 and the balance of the purchase price was paid for the furniture and the appliances.
+[3] On March 1, 1999 Mohammed transferred his interest in the Property to the Appellant (see Exhibit A-1).
+[4] The transfer document used to transfer Mohammed's interest in the Property stated that the consideration paid by the Appellant was $1.00.
+[5] The transfer document also stated that the fair market value of the Property was $80,000.00.
+[6] At the time of the transfer of the Property to the Appellant the balance outstanding on the mortgage was $52,000.00. On the basis that the fair market value of the Property was $80,000.00 on March 1, 1999 the equity owned by the Appellant and Mohammed in the Property was $28,000.00 ($80,000.00 − $52,000.00) and the equity owned by the Appellant and Mohammed in the Property was $14,000.00 each.
+[7] At the time of the transfer of his interest in the Property to the Appellant in March 1999, Mohammed owed unpaid taxes to the Minister of National Revenue (the "Minister") in the sum of not less than $12,542.07.
+[8] Mohammed declared bankruptcy in 2000 or later and in 2003 he was given a full discharge of his debts by the Trustee in Bankruptcy.
+[9] Mohammed testified that at the time that he declared bankruptcy he owed the Minister the sum of approximately $20,000.00. in unpaid taxes.
+[10] By Notice of Assessment dated June 15, 2005 the Minister assessed the Appellant in the amount of $12,542.07 in respect of the transfer by Mohammed to the Appellant of his interest in the Property. The Notice of Assessment was issued pursuant to section 160 of the Income Tax Act (the "Act").
+B. ISSUE
+[11] The issue to be determined is whether the Appellant has been properly assessed in accordance with section 160 of the Act.
+C. ANAYLSIS
+[12] Section 160 of the Act provides as follows:
+(1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust by any other means whatever, to
+(a) the person's spouse or a person who has since become the person's spouse,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm's length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor's tax under this Part for each taxation year equal to the amount by which the tax for year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefore, and
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year.
+(iii)the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+[13] In order to understand how section 160 of the Act is to be applied I refer to the decision of my colleague Justice Angers in Burns v. Canada, [2006] T.C.J. No. 320 at paragraph 18:
+[14] In order for subsection 160(1) of the Act to apply, four conditions have to be met.:
+1) there must be a transfer of property;
+2) the transferor and transferee must not have been dealing at arm's length;
+3) there must have been no consideration or inadequate consideration given by the transferee to the transferor; and
+4) the transferor must be liable to pay an amount under the Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year.
+[15] From an analysis of the evidence before me it is clear that conditions (1), (2) and (4) have been met. However, Mohammed, the spouse of the Appellant and agent for the Appellant, maintains that section 160 of the Act should not be applied in this situation since the Appellant had given consideration to him when he transferred his interest in the Property to her (see condition (3)).
+[16] In support of his argument Mohammed said that the Appellant paid property taxes on the Property and in 2004 the Appellant paid for windows that were installed in the Property.
+Re: Property Tax
+[17] I will first examine the Appellant's position with respect to property taxes on the Property:
+1. In the Notice of Appeal the Appellant stated that she paid $8,300.00 of "arrears property tax on 22 Amberwood ...";
+2. The agent for the Appellant filed Exhibit A-2 issued by the Taxation Division of the City of Winnipeg for the period January 1, 1999 to December 31, 1999. This statement indicates that the opening balance of taxes owing as of December 31, 1998 was zero. The statement indicates that the arrears of taxes as of June 30, 1999 were $1,273.49 plus current taxes of $2,662.25 for a total owing on June 30, 1999 of $3,935.74. Interest was then imposed as of June 30, 1999 and the balance of taxes owing on December 31, 1999 was $4,228.35;
+3. The agent for the Appellant also filed Exhibit A-7 which indicates that property taxes of $7,205.84 were paid on the Property for the period December 30, 2001 to November 1, 2002. The date of payment was November 19, 2002;
+4. The agent for the Appellant said that the Appellant borrowed money, in cash, from their daughter Mesba in order to pay the property taxes.
+[18] I find that it is implausible for me to accept that the Appellant borrowed over $8,000.00 in cash from her daughter to pay the property taxes on the Property. I also note that there were no cheques produced to show payments to the Appellant or payments to the City of Winnipegand that the daughter was not called as a witness to support this argument.
+[19] I also note that any payments of taxes made by the Appellant with respect to the Property after March 1, 1999 would not constitute any consideration given to Mohammed since he had disposed of his interest in the Property on March 1, 1999.
+Re: Cost of Windows
+[20] The Appellant filed a copy of a contract with Polar Window of Canada (Exhibit A-5). This document, dated October 30, 2004, indicated that Sharif and Mumtaz Arain agreed to purchase windows for the Property at a contract price of $8,200.00. The document indicated that $5,000.00 of the price was to be financed.
+[21] The agent for the Appellant also filed a Power Smart Residential Loan dated December 13, 2004 (Exhibit A-8) which indicated that in December 2004 Manitoba Hydro lent Sharif and Mumtaz Arain the sum of $5,000.00 in connection with the installation of the windows on the Property.
+[22] The agent for the Appellant argued that the Appellant should be recognized as giving consideration to him in the amount of $8,200.00 in March 1999 because in 2004 she paid for new windows on the Property.
+[23] I reject this evidence because the windows were not paid for until 2004, i.e. five years after the transfer of the interest in the Property by Mohammed to the Appellant.
+[24] Furthermore, I also note that the agent for the Appellant disposed of his interest in the Property in March 1999 and therefore Mohammed did not benefit personally from any payments made by the Appellant in 2004 to install windows on the Property.
+[25] The appeal is dismissed without costs.
+Signed at Vancouver, British Columbia, this 26th day of October 2006.
+"L.M. Little"
+Little J.
+CITATION: 2006TCC573
+COURT FILE NO.: 2006-1006(IT)I
+STYLE OF CAUSE: Mumtaz Arain and
+Her Majesty the Queen
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: October 19, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: October 26, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Robert Gosman
+COUNSEL OF RECORD:
+For the :
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

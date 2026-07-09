@@ -1,0 +1,289 @@
+Title: O'Dwyer v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30889/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-261-30889-o-dwyer-v-the-queen.md
+Document type: case_law
+Last modified: 2012-07-20
+
+# O'Dwyer v. The Queen
+
+- Citation: 2012 TCC 261
+- Decision date: 2012-07-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7448, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+O'Dwyer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-07-20
+Neutral citation
+2012 TCC 261
+File numbers
+2011-3234(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3234(IT)G
+BETWEEN:
+THOMAS O’DWYER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on May 14, 2012 at Vancouver, British Columbia
+Before: The Honourable Mr. Justice Randall Bocock
+Appearances:
+Counsel for the Appellant:
+Alistair G. Campbell
+Michelle Moriartey
+Counsel for the Respondent:
+William L. Softley
+Darcie Charlton
+____________________________________________________________________
+ORDER
+UPON motion by the Appellant to alternatively:
+1. strike the Reply; or
+2. (a) to strike certain portions of the Reply; and/or
+(b) to compel the Respondent to answer item #4 of the Appellant’s Demand for Particulars;
+AND UPON hearing the motion and reviewing the written submissions of counsel for both parties;
+THIS COURT ORDERS THAT;
+1. the Reply, pursuant to the Reasons for Order attached, be struck in its entirety because it discloses no reasonable grounds for opposing the appeal under paragraph 58(1)(b) of the Tax Court of Canada Rules (General Procedure);
+2. the balance of the relief sought regarding the striking of certain paragraphs in the Reply and compelling the Respondent to answer the Demand for Particulars need not be addressed.; and
+3. costs be awarded to the Appellant.
+Signed and issued at Ottawa, Canada, this 20th day of July 2012.
+“R.S. Bocock”
+Bocock J.
+Citation: 2012 TCC 261
+Date: 20120720
+Docket: 2011-3234(IT)G
+BETWEEN:
+THOMAS O’DWYER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bocock J.
+I. Motion Relief Sought
+[1] This motion, brought by the Appellant, requests the Court:
+a) to strike the Reply to the Notice of Appeal (the “Reply”) under s.58(1)(b) of the Tax Court of Canada Rules (General Procedure)(“Rules”) on the basis that there exists no reasonable grounds for opposing the appeal; or,
+b) in the alternative to strike out certain portions of the Reply as an abuse of process in accordance with paragraph 53(c) of the Rules, namely:
+i. paragraph 11(r) which in its entirety reads:
+SRLP made statements or representations that would cause an investor to believe that the loss that would be deductible in respect of their[sic] partnership interest would exceed the cost to the investor of the partnership interest less the value of the investor’s promissory note;
+ii. paragraph 18 which in its entirety reads:
+The Appellant is liable for a penalty because he acted as a principal or agent to sell, issue or accept consideration in respect of the SRLP tax shelter before the Minister issued a tax shelter identification number, pursuant to subsection 237.1.(7.4) of the Act.;
+iii. in paragraph 3, the words “but he has no knowledge and puts in issue whether the Appellant held any interest or units in an indirect manner.”;
+iv. in each of paragraphs 4, 5, 12 and 18 of the Reply, the words “principal or”;
+v. in paragraph 6, the words “or principal.” and/or;
+vi. in the final alternative, to order the Respondent to answer item #4 of the Appellant’s Demand for Particulars, namely:
+11 r) SRLP made statements or representations that would cause an investor to believe that the loss that would be deductible in respect of their partnership interest would exceed the cost to the investor of the partnership interest less the value of the investor’s promissory note;
+Demand 4
+In respect of paragraph 11(r) of the Reply, provide full particulars of each statement or representation that the Minister assumed was made, including but not limited to the following:
+(a) the complete statement or representation itself;
+(b) who made the statement or representation;
+(c) who the statement or representation was made to;
+(d) the date on which the stamen [sic] or representation was made;
+(e) whether the statement or representation was written or verbal; and
+(f) if the statement is written, the document in which that statement is found and the precise words of the document which constitute the alleged statement or representation.
+The Respondent’s response to Demand #4 of the Demand for Particulars was as follows:
+The Respondent states that the information demanded by the Appellant in respect of subparagraph 11(r) of the Reply is not the proper subject of a demand for particulars. Subparagraph 11(r) sets out a material assumption of fact made by the Minister. The Appellant is demanding evidence in respect of that fact. The information sought is not necessary in order for the Appellant to determine the issues in dispute.
+II. Striking the Reply as an Abuse of Process
+A. Statutory References and Definition of Tax Shelter
+[2] As to striking the Reply in toto, the Court shall consider this request firstly since its outcome will determine the need to address any of the subsequent relief sought.
+[3] In order to assist in the analysis of the relevant statement of facts made by the Respondent which are to be assumed as proven Appendix “A” includes excerpts of the relevant Statement of Fact made by the Respondent in determining that a tax shelter existed and assessing the penalty. Similarly the Court upon motion may also accept those factual statements of the Appellant which have been admitted by the Respondent in the Reply. These relevant admitted facts are reproduced in Appendix “B” to these Reasons for Order.
+[4] As to the precise procedural basis for the motion, paragraph 58(1)(b) of the Rules provides:
+58(1) A party may apply to the Court,
+[…]
+(b) to strike out a pleading because it discloses no reasonable grounds for …. opposing the appeal,
+[…]
+[5] As to the definition of “tax shelter”, both parties directed the Court to subsection 237.1(1) of the Income Tax Act (“Act”) which, (with appropriate omissions and emphasis), provides the following critical definition:
+237.1(1) “tax shelter” means
+[…]
+(b) … a property (including any right to income) other than a flow-through share or a prescribed property, in respect of which it can reasonably be considered, having regard to statements or representations made or proposed to be made in connection with … the property, that, if a person were to … acquire an interest in the property, at the end of a particular taxation year that ends within four years after the day on which … the interest is acquired,
+(i) the total of all amounts each of which is,
+(A) an amount, or a loss in the case of a partnership interest, represented to be deductible in computing the person’s income for the particular year or any preceding taxation year in respect of … the interest in the property (including, if the property is a right to income, an amount or loss in respect of that right that is stated or represented to be so deductible), or
+(B) any other amount stated or represented to be deemed under this Act to be paid on account of the person’s tax payable, or to be deductible in computing the person’s income, taxable income or tax payable under this Act, for the particular year or any preceding taxation year in respect of … the interest in the property, other than an amount so stated or represented that is included in computing a loss described in clause (A),
+would equal or exceed
+(ii) the amount, if any, by which
+(A) the cost to the person of … the interest in the property at the end of the particular year, determined without reference to section 143.2,
+would exceed
+(B) the total of all amounts each of which is the amount of any prescribed benefit that is expected to be received or enjoyed, directly or indirectly, in respect of … the interest in the property, by the person or another person with whom the person does not deal at arm’s length.
+[6] Were a tax shelter to exist, the constituent legal elements of the penalty imposed are to be established by the Minister’s argument (as identified by the Respondent) that the Appellant, as agent or principal sold, issued or accepted consideration in respect of the tax shelter before the issuance of an identification number and is therefore statutorily liable for a penalty in respect thereof under subsection 237.1(7.4) of the Act as follows (again with appropriate omissions and emphasis):
+237.1(7.4) Every person who …. whether as a principal or as an agent, sells, issues or accepts consideration in respect of a tax shelter before the Minister has issued an identification number for the tax shelter is liable to a penalty equal to the greater of
+(a) $500, and
+(b) 25% of the total of all amounts each of which is the consideration received or receivable from a person in respect of the tax shelter before the correct information is filed with the Minister or the identification number is issued, as the case may be.
+[7] The Appellant submits that Baxter v. The Queen 2007 FCA 172 establishes that a “tax shelter” exists where:
+(i) property is offered for sale to prospective purchasers (the “Property Element”);
+(ii) statements or representations have been made or proposed in connection with the property describing the loss in excess of the cost (the “Statement Element”); and
+(iii) in respect of the Statement Element, it may be reasonably considered that the loss will exceed the cost within four years all in accordance with the formula contained in subsection 237.1(1) (the “Calculation Element”);
+Once each individual tax shelter element is established, a tax shelter penalty (“Penalty”) may be imposed provided the assessed party “as a principal or as an agent sells, issues or accepts consideration in respect of a tax shelter before the Minister has issued an identification number”(the “Role Element”).
+B. Submissions of Parties
+[8] The Appellant has offered four distinct grounds under paragraph 58(1)(b) of the Rules as the legal bases upon which the entire Reply of the Respondent should be struck. The Respondent’s submissions in reply follow in sequence.
+(1) Tax Shelter Definition Must Include “Property”
+[9] The Appellant has submitted that, pursuant to subsection 237.1(1) of the Act, the assumptions of the Minister when assessing a tax shelter penalty under subsection 237.1(7.4) of the Act must be in connection with a tax shelter. The Appellant asserts that the relevant definition of tax shelter must reference and identify “property” as clearly enumerated in subsection 237.1(1) of the Act. The Appellant relies upon the authority of Baxter, supra and infra, as authority for the proposition that the statements and representations necessary for the application of the Penalty must also be in respect of “property”.
+[10] In a technical and textual legal argument, the Appellant has argued, by reference to certain authorities (notably the Partnerships Act of British Columbia and the case of Madsen cit. infra) that Solid Resources No. 1 Limited Partnership (“SRLP”), as a limited partnership, cannot be property at law. It may well be that the limited partnership units or interests subscribed in SRLP (the “LP Units”) by the limited partners constitute the “property”, but the Appellant argues that the Reply and submissions by the Respondent made before the Court identify only SRLP as the “tax shelter” or “property”. Legally, whatever the “property” comprising the tax shelter might be, the Appellant contends it cannot at law be SRLP, a limited partnership.
+[11] The Appellant concedes that the general test for striking an appeal or a reply as a whole, under R v. Imperial Tobacco Canada Ltd., [2011] 3 S.C.R. 45, allocates a very high onus upon the party seeking to strike the pleading. Facts alleged must be assumed to be proved, and once so assumed, such a motion to strike will not succeed unless the facts are manifestly incapable of being or once proven do not amount to the legal requirements for the assessment. In addition, one cannot hope for new facts to be adduced at trial or, in the present case, any new assumptions to be made in future. Simply put, the Appellant states that if certain and necessary assumptions and facts are absent from the Reply and, correspondingly, the facts which are present fail factually or legally to establish the Property Element of the Legal Elements for the assessment of the Penalty, then the Reply must be struck.
+[12] In response, the Respondent directed the Court to the general assertion in its submissions that the Legal Elements of subsection 237.1(7.4) had been properly pleaded. The Respondent has consistently contended that SRLP is the tax shelter. No further specific representations were made by the Respondent in reply (either in the written submissions or orally before the Court) on whether the partnership itself (SRLP), identified and defined by the Respondent as the “property” of the tax shelter, could constitute property at law.
+(2) No Identification of Statements or Representations re: Property or Calculation of Losses
+[13] As an alternative ground to striking the entire Reply, the Appellant has argued that even if the Respondent had pleaded facts which establish the Property Element, the Reply has not disclosed material facts related to the Statement Element. The Appellant states that the only factual reference in the Reply to statements or representations in respect of the “property” or “tax shelter” are disparate and irrelevant facts attributed circumstantially to the Appellant merely and indirectly as implicit agent or principal and are limited to one statement contained in the offering memorandum(“OM”).
+[14] If there must be statements concerning “property” as defined in the Act in order to establish a tax shelter, and no clear statements by the Appellant concerning “property” exist in the pleadings, then the Penalty lacks the Statement Element and the Reply, on a prima facie basis even when all facts are assumed to be proved, cannot defeat the appeal since the Reply lacks a Legal Element necessary for the imposition of the Penalty.
+[15] As regards the Calculation Element, the Appellant states that nothing in the Reply nor specifically anything in paragraph 11(r) describe an amount that a prospective purchaser would be able to deduct in computing income. No comparative language of the deductible amount in relation to the cost less prescribed benefits over the four year duration otherwise defined in subsection 237.1(1) is present in the Reply as an alleged fact.
+[16] In response, the Respondent has stated that “it is clear from the terms of the OM that the purpose of the [OM] was to create a tax shelter”. In its Reply, and relevant to the Statement Element, the Respondent assumes by allegation that the Appellant prepared the OM, submitted all documentation to the relevant security regulations for approval, had signing authority for the SRLP, and otherwise exhibited management and control over SRLP through its general partner in the process. Moreover, counsel for the Respondent suggested the facts pleaded in its Reply as a whole, lead to the conclusion that SRLP made statements and representations (by virtue of the Appellant as principal and agent) concerning the tax shelter which actions, taken as a whole, would cause a person to reasonably believe that SRLP was a tax shelter.
+(3) The Appellant did not have a “Role” within the Tax Shelter
+[17] The Appellant states that paragraph 18 of the Respondent’s Reply is a bald conclusion of law which does not factually express or even infer that the Appellant acted as a principal or agent to “sell, issue or accept consideration” in respect of the SRLP tax shelter and thereby fails to establish a factual basis for the Role Element. In short, no identifiable assumption or assertion of fact appears in the Reply which directly describes, categorizes, differentiates or identifies the actions of the Appellant as a principal or agent who has sold, issued or accepted consideration in respect of a tax shelter necessary to establish the Legal Elements of the Penalty.
+[18] The Appellant submits that there is no clear and explicit statement as to the facts assumed to assess the Penalty. The Appellant referenced paragraph 9 of Johnston v. M.N.R., [1948] S.C.R. 486 which assigns to the Crown the duty to fully disclose “the precise findings of fact and rulings of law which have given rise to the controversy”. Similarly, the Appellant states that pursuant to the principles outlined in Continental Bank of Canada v. The Queen, [1998] 2 S.C.R. 358 and Anchor Pointe Energy Ltd. v. The Queen, [2004] 5 C.T.C. 98 (F.C.A.), the Respondent has failed to disclose the material facts necessary and correlative to establish the Legal Elements of the Penalty. It is argued that the Appellant cannot know the basis of the factual assumptions with sufficient definition to allow the Appellant to meet the case against him. Additionally, compliance with the direction of Sharlow J.A., at paragraph 4 of Canada v. Loewen 2004 FCA 146 has not been achieved since the Reply fails to “state the Crown’s position with respect to each factual allegation and argument in the notice of appeal, and … [to] state the facts and arguments upon which the Crown relies to defend the correctness of the assessment”.
+[19] The Respondent states that only in the “most plain and obvious cases”, where the case is beyond doubt, should the Reply be struck. The Respondent argued assuredly that the material facts necessary to support the legal position that “Appellant acted as a principal or agent in selling, issuing or accepting consideration in respect of that SRLP tax shelter … and are” found in paragraphs 11 (bb) through (mm). On the basis of these facts, the Respondent asserts that the Appellant acted as principal or agent for SRLP. The Respondent contends that it is not required to specify to which of “sold, issued or accepted consideration” these facts pertain.
+(4) Striking of Critical Paragraphs
+[20] On a final point in support of striking the entire Reply, the Appellant has requested that certain critical paragraphs be struck on the basis that they are in the nature of argument, are superfluous and/or do not appropriately disclose, or relate to, allegations which have as their underpinning pleaded facts or assumptions needed to establish prima facie the Legal Elements of the Penalty. Specifically, the request is to strike paragraphs 11(r) and 18 within the Reply.
+[21] The Appellant argues that paragraph 11(r) is simply a conclusion of law, and is absent of any material facts relating to the Legal Elements of the Penalty. Secondly, paragraph 18 is simply a statement or conclusion that the Appellant has otherwise committed the Legal Elements of the Penalty but does not plead any facts tending to establish, as factual allegations or assumptions, the Legal Elements of the Penalty.
+[22] Since these paragraphs are not properly pleaded in accordance with paragraph 53(c) of the Rules, the Appellant argues this constitutes an opportunity on the part of the Respondent to discover new facts necessary to build new assumptions at discovery. The Appellant argues this is an abuse of process and these two paragraphs should be struck. In turn, once struck, the Reply discloses no reasonable basis for opposing the appeal since those paragraphs contain the only reference to statements and representations, the Appellant’s role and capacity in the tax shelter and the financial metrics sufficient to establish the tax shelter threshold -- the Legal Elements of the Penalty.
+[23] The Respondent argues that Paragraph 11(r) represents a concise statement that certain statements were made. This pleading of material fact is to be proven at trial, needs to be considered in conjunction with the other facts pleaded and must be weighed by the trial judge charged with the task of assessing all the factual assumptions at the hearing.
+[24] The Respondent states that paragraph 18 is simply an argument which identifies the components of subsection 237.1(7.4) which must be present for the Appellant to be liable for the Penalty – the Role Component.
+C. Analysis of Submissions
+(1) Tax Shelter must be “Property”
+[25] The Appellant’s assertion that subsection a “237.1(1) penalty” may not be imposed where the Respondent has failed to legally identify a “property” is not the question of preference and style in pleadings which it may otherwise appear to be at first glance. Only indirect submissions were made before the Court by the Respondent to refute this legal argument. It justifies serious consideration by the Court. It is also noted that the Respondent did not, although it was drawn to counsel’s attention, request leave to amend the pleadings in order to otherwise refer to the LP Units, per se, as the “property” rather than SRLP. The Respondent also challenged the use of affidavit evidence introduced by the Appellant at the motion relating to the Notice of Confirmation dated September 6, 2011. This objection need not be addressed since the Respondent in its Reply admitted paragraph 26 of the Notice of Appeal which contained the relevant identification by the Canada Revenue Agency of SRLP and not the LP Units as the “tax shelter”. No other evidence from the affidavit was considered.
+[26] In terms of the substantive underlying law relevant to SRLP’s legal character, it should be noted that in the province of British Columbia, unlike certain other common law provinces in Canada, limited partnerships are in law described, defined and otherwise created statutorily within the Partnerships Act of British Columbia R.S.B.C.1996, c.348 (the “Partnerships Act”). In certain other provinces, there is a separate statute governing limited partnerships per se.
+[27] Much has been said and written, sometimes inconsistently, about limited partnerships. Limited partnerships do not exist at common law. They are created entirely by statute. This is to be differentiated greatly from the concept of partnership and general partnerships generally which exist at common law, and which relevant body of law has over the years been codified under various legislation within the provinces. By direct reference to the Partnerships Act (under which SRLP was created), section 49 at the outset of Part III of the Partnerships Act provides:
+49 The provisions of this Act must in the case of limited partnerships be read subject to this Part.
+[28] The intent of this particular clause is to ensure that the Partnerships Act, which otherwise applies to limited partnerships must be read in the context of partnership law as a whole, but nonetheless expressly subject to this specific part of the Partnerships Act. British Columbia’s Partnerships Act provides that a limited partnership will exist, as if and as though, it is a general partnership, but specifically subject to the statutory differences and exceptions provided for in Part III. Nothing within Part III of the Partnerships Act alters the relevant common law definition of a partnership properly characterized as a relationship or arrangement subsisting between persons carrying on business in common with a view to profit. Therefore, the legal character of SRLP, which is a British Columbia limited partnership, is such an arrangement or relationship since it is not otherwise modified by the Partnerships Act.
+[29] As to the issue of partnership constituting property for the purposes of the Act, in the case of Madsen v. The Queen, [2001] 1 C.T.C. 244 (F.C.A.) the Federal Court of Appeal, at paragraph 16, characterized the nature of the partnership for the purposes of the Act as follows (with emphasis added):
+[16] A partnership’s lack of separate legal personality is what distinguishes it from an individual or corporation. The Act maintains this lack of legal personality, and does not generally treat partnerships as taxpayers. Instead, it is the individual partners who pay tax on the basis of their particular share of the income or losses of the partnership. In order for this ‘flow through’ of tax consequences to take place, subsection 96(1) of the Act requires that the income or losses of the partnership be computed as if the partnership were a ‘separate person’ and each “partnership activity … were carried on by the partnership as a separate person …” As a part of this conceptual separation, expenditures to acquire depreciable property are capitalized at the partnership level, and capital cost allowance is only deductible at that stage. Section 1102(1a) protects the integrity of calculating capital cost allowance at the partnership level by ensuring that depreciable assets owned by a partner in his or her personal capacity are not intermingled with assets of the same class owned by the partnership. In my view, the foregoing ‘regime’ implies nothing more than a notional construct for calculating a taxpayer’s tax liability. It is a purely administrative convenience necessary to sustain the Act’s view of the partnership as a conduit or vehicle for taxpayers.
+This constitutes the relevant and topical authority to this Court on the legal character of partnerships within the context of the Act.
+(2) No Identification of Statements re: Property or Calculation of Losses
+[30] Regarding the necessary pre-conditions to establish a tax shelter, the case of Baxter is particularly instructive. Specifically, paragraphs 8 through 11, provide informative and direct authority to this Court of the need for each of the Property, Statement and Calculation Elements. Those paragraphs are as follows (with emphasis added):
+[8] The property contemplated by the definition of tax shelter is each and every property that is offered for sale to prospective purchasers. However, not every property that is proposed to be sold will constitute a tax shelter.
+[9] The definition requires that statements or representations must be made, at some time, in connection with the property that is offered for sale. If no statements or representations have ever been made in connection with a property, then that property cannot constitute a tax shelter. Because the property that is contemplated by the definition of tax shelter is a property that is assumed to have been acquired by the prospective purchaser and the statements or representations are required to have been made in connection with that property, it follows that the statements or representations must have been made prior to any actual sale of the property that is offered for sale. Further, while the definition does not specify to whom or by whom the statements or representations must be made, in my view they must be made to the prospective purchasers of the property by or on behalf of the person who proposes to sell the property.
+[10] The subject matter of the statements or representations is essentially a description of an amount that the prospective purchaser would be able to deduct, in computing income in respect of the property, as a consequence of an assumed acquisition of the property, that is to say, if the prospective purchaser had actually acquired the property, whether the amount constitutes the acquisition cost of the property, a cost incurred in order to obtain the property (e.g. a drilling cost incurred to acquire an interest in an oil and gas property in a farm-out transaction) or an amount allocated to the holder of the property (e.g. a loss allocated to partner holding a partnership interest).
+[11] The definition of tax shelter does not specify the form that the statements or representations must take or the manner in which they must be made. It is clear that there must be a communication to prospective purchasers which would inform them that a deductible amount would become available to each of them as a consequence of an acquisition by any of them of the property that is offered for sale. Nothing in the definition indicates that the requisite communication must be made in writing.
+[31] The Court notes that the assumed statements and representations, both as to association and quantum, are limited to paragraph 11(m) of the Reply and specifically the reference in the OM to “the majority of the partnerships expenses occurring in 2006”. In turn, this statement was made by SRLP for whom the Appellant it alleged to have acted as agent or principal, again with no distinction between the two capacities.
+(3) The Appellant did not have a “Role” within the Tax Shelter
+[32] Subsection 49(1) of the Rules provide that a Reply must identify: the admitted, denied and unknown facts; the findings or assumptions of fact made by the Minister when making the assessment; any other material fact; issues to be decided; statutory authority relied on; the reasons the Respondent intends to rely on; and, the relief sought.
+[33] Johnston, Continental Bank of Canada, Anchor Pointe Energy Ltd. and Loewen, supra, provide ample direction to the Crown that Reply pleadings must provide the Appellant with a clear and unequivocal map to the sequence, detail, depth and chronology of the facts assumed by the Crown. Johnston mandates precision of fact and rules of pleadings, Continental requires disclosure of the basis of assessment, Anchor Pointe directs Ministerial elucidation and explanation of the facts and assumptions and Loewen reflects the requirement that assumptions must have clarity, accuracy, and consistency.
+[34] In short, the static and stoic state of the facts, conclusions and assumptions in the Reply must reflect the precise, fulsome, evolved and clear basis of the assessment and comprise the factually established case theory to be disproved, discredited or demolished by the Appellant, who is required to challenge same or lose the appeal. All such Reply facts are assumed to be correct until the Appellant mounts such a challenge and defeats the assumptions. On a motion to strike, if the facts, after being assigned their highest credibility, lack sufficient precision, clarity, fulsomeness and sequence to establish the elemental basis of an assessment (in this case a penalty with a clearly alleged Role Element), then liability for the Penalty cannot, on a plain and obvious basis, succeed.
+(4) Striking of Critical Paragraphs 11(r) and 18
+[35] Paragraphs 11(r) and 18 of the Reply constitute the allegations that SRLP made statements and representation causing an investor to believe a partnership interest would exceed the cost -- the Statement Element, and that the Appellant acted as agent or principal in selling, issuing or receiving consideration for the SRLP tax shelter – the Role Element.
+[36] To the extent these summaries are reasoning or argument, they have no probative value. To the extent they relate to other alleged facts in the Reply it can be argued they are superfluous. To the extent they are intended to be a general allegation, without further detail, precision or clarity, they do not establish the Legal Elements of the Penalty. Pure Spring Co v. M.N.R., [1996] C.T.C. 169 (Ex. Ct.) stands for the proposition that an assessment is “the summation of all the factors representing tax liability, ascertained in a variety of ways, and the fixation of the total after all of the necessary computations have been made.”
+[37] As to the interpretation and classification of statements contained in pleadings, in Strother v. The Queen 2011 TCC 251, CJ Rip stated at paragraphs 15, 16, 24 and 39.
+[15] Once the respondent has admitted and denied facts and stated she has no knowledge of certain facts alleged in the Notice of Appeal and puts these facts in issue, there are only two more statement of facts for the respondent to plead: the finding or assumptions of fact made by the Minister when making the assessment, and any other material fact. All these statements of fact are to be statements of material fact, not immaterial facts, not statements or principles of law and not statements mixing fact with law. Subparagraphs f), g) and h) of Rule 49 accord the respondent opportunity to describe the issues, state the statutory provisions in play and submit the reasons she is relying on in this appeal.
+[16] It is poor and improper pleading when a litigant admits or denies a fact in a pleading but couples the admission or denial with a conclusion of law or some extraneous comments that add nothing to the process. The assumptions of fact should be facts the Minister relied on in assessing and the facts so relied on should be material facts. Otherwise, why were these facts relied on if they were not material? In Foss v. The Queen my colleague Bowie J. explained that:
+The purpose of pleadings is to define the issues between the parties for the purposes of discovery, both documentary and testamentary, and trial. That requires no more than a statement of the “precise findings of fact” that underpin the assessment. It is potentially prejudicial to the appellant to plead more - certainly to plead more by way of assumptions of fact. The appellant is, of course, entitled to particulars of the evidence that the Crown intends to lead at trial, but these are properly obtained on discovery, not disguised as material facts as to which the Crown at trial may claim a presumption of truth. …
+[24] It is frequently difficult to draw the line between a question of fact and a question of law. It is more difficult when the third category, mixed question of fact and law, is considered. Iacobucci J. of the Supreme Court of Canada recognized this problem and stated the following:
+…Briefly stated, questions of law are questions about what the correct legal test is; questions of fact are questions about what actually took place between the parties; and questions of mixed law and fact are questions about whether the facts satisfy the legal tests. A simple example will illustrate these concepts. In the law of tort, the question what “negligence” means is a question of law. The question whether the defendant did this or that is a question of fact. And, once it has been decided that the applicable standard is one of negligence, the question whether the defendant satisfied the appropriate standard of care is a question of mixed law and fact. I recognize, however, that the distinction between law on the one hand and mixed law and fact on the other is difficult. On occasion, what appears to be mixed law and fact turns out to be law, or vice versa.
+[39] The appellants’ alternative argument to strike is based on the repetition and redundancy of the Replies. When reading through redundant and repetitive portions of the Replies it is only a matter of pages before one has the feeling that one of the parties is trying to beat the other into submission, never mind the judge who is only just entering the fray. The appellants rely on Mudrick v Mississauga Oakville Veterinary Emergency Professional Corporation, in which Master Haberman of the Ontario Superior Court of Justice struck out the plaintiff’s overview and summary for this very reason. In reaching this conclusion Master Haberman stated:
+The pleading contains a summary, which essentially repeats the overview. This will be unnecessary when the claim is pleaded properly. Including the summary and the overview means the same things are repeated three times in the pleading. They should only be discussed once, in the body of the claim, where they fall chronologically.
+In concluding, she added the following general comments regarding pleadings in general:
+Repetition should be avoided. Superfluous detail should be eliminated. Editorialized comments should be removed. … This is not “the last chance” to tell the whole story – it is only an overview of what the case will be about. …
+[38] Therefore, should either of paragraph 11(r) or 18 relate inconsequentially to other alleged facts, are argument or law or are too general, they shall be struck, unless they are clearly identified as argument in which case they are not to be assumed for the purposes of this motion.
+III. Decision
+[39] In a different kind of proceeding, the failure to identify the “property” with legal exactitude would not necessarily militate the outcome of the matter in favour of striking the Reply. However, the Legal Elements of the Penalty in respect of tax shelters require the Minister and the Canada Revenue Agency to have thoroughly and accurately understood the nature of “the property” related to the factual allegations against a person so assessed. With respect to the Property Element, the SRLP cannot be a tax shelter, within the definition of the Act, since it is not property, but rather as the Federal Court of Appeal has said in Madsen “partnerships are a conduit or vehicle for taxpayers.” Nothing can possibly remedy the fundamental allegations in the Reply that SRLP is tax shelter or property which, even when assumed true, will not definitionally establish the Property Element required for the assessment of the Penalty. This reference to SRLP as the tax shelter is not passing or inadvertent reference. The Respondent has stated many times in the Reply and in the written submissions in reply to this motion that SRLP (a partnership) is the tax shelter. Since a tax shelter must be “property” under subsection 237.1(1) of the Act, it is not legally possible for SRLP to be a tax shelter. The LP Units may well be property and a tax shelter, but this allegation was not assumed, pleaded or argued by the Respondent. This is evident from paragraph 1 of its motion submissions, paragraphs 14 of the Reply and the admitted Notice of Confirmation of September 6, 2011.
+[40] The Court has assumed that the Minister, through the Canada Revenue Agency, when assessing a Penalty, will have thoroughly, accurately and fulsomely analysed the legal structure and character of the “tax shelter” and what constitutes the legal “property”. This Property Element of the Penalty is fundamental and the Court assumes the Minister and Canada Revenue Agency have conducted the appropriate review of the assessment through audit and has nonetheless identified SRLP as the property constituting the tax shelter as borne out by the consistency of approach. By making this logical inference, this Court of law is left with a legally impossible conclusion of law, witnessed repeatedly in the Respondent’s pleading, namely that, SRLP, a legal limited partnership, is property for the purposes of subsection 237.1(1) of the Act. This error in law fails to establish a critical Legal Element of the transgression giving rise to the Penalty.
+[41] In addition, apart from the forgoing legal determination, the Court also finds that the present Reply pleadings in respect of the Statement Element and Calculation Element of the Penalty are lacking in a level of factual specificity and disclosure which would otherwise allow the Appellant to meet the case that has been alleged against him as to statements and representations made relating to the actual loss accruing to the tax shelter property and the quantum of the loss in excess of the cost. There is a dearth of factual assertions and assumptions beyond the single “expense statement” in the OM which provide a nexus of SRLP statements regarding the duration, character and quantum of losses of the “tax shelter”. Once these limited factual allegations are transferred to the context of the Appellant, vaguely referenced by incorporating the statutory language of “agent or principal” without specific factual assertions concerning same, the factual association becomes even more remote.
+[42] Generally, the factual assertions in the Reply concerning the Role Element, beyond the single paragraph in the OM, lack even a general description as to dates, addressees, meetings and time frames of such statements. Paragraphs 11(r) and 18 do not disclose sufficient summary material facts to establish a Role Element which the Appellant can reasonably recognize in order to muster a case in his attempt to demolish the facts establishing the Legal Elements of the Penalty.
+[43] In summary the critical, general facts, if they exist, have simply not been pleaded. The Respondent’s unwillingness to respond to the Request for Particulars, other than by denying the need for same on the basis that the request for particulars relates to evidence, is premature (i.e. brought before discoveries) and/or should ultimately be tested at discoveries, suggests a possibility that the necessary facts and assumptions which can be fairly placed in the Reply regarding the Statement Element, the Calculation Element and/or the Role Element do not exist to establish the Legal Elements of the Penalty.
+[44] Accordingly, although the Court agrees that the Reply and Notice of Confirmation do not identify property which can, by legal logic and analysis identified in the authorities, amount to a tax shelter (as assumed and defined within the pleadings by the Respondent), the Court also finds that the Reply does not contain a reasonable and sufficient description of facts concerning: (i) the statements or representations made in connection with the property of the tax shelter; (ii) statements of the quantum of the losses in excess of the cost; nor, (iii) the Appellant’s alleged actions as an agent or principal -- all of which are not only legally required to afford the Appellant an opportunity to identify the case to be met by him, but also to factually establish the Legal Elements of the Penalty.
+[45] Therefore, on the basis of the foregoing, and after affording the Respondent the most favourable weight to all of the facts as alleged by the Minister in the Reply, the presence of several insurmountable hurdles makes it plain and obvious that the Respondent has failed to plead sufficient facts and assumptions which would otherwise comprise the Legal Elements necessary to establish the Penalty. To reiterate, these impediments are:
+a) SRLP will never legally be “property” within the definition of a tax shelter, but nonetheless SRLP has been consistently characterized as the “property” constituting the tax shelter from the very inception of the confirmation of the assessment (as included in the pleadings), through the pleadings and within the Respondent’s own submissions at the motion;
+b) the Reply does not contain specific, precise or clear factual allegations and/or assumptions needed to establish statements and representations made by the Appellant in respect of the property offered for sale;
+c) the Reply does not contain direct or inferred facts or allegations concerning the sufficiency of the calculations and quantum of the losses in excess of the cost within the threshold formulae described in subsection 237.1(1) of the Act; and
+d) the Reply fails to factually assert facts relating to the capacity or acts of the Appellant in the sale, issuance or acceptance of consideration in respect of the alleged tax shelter.
+[46] Therefore, for the reasons stated above, the motion to strike the Reply under paragraph 58(1)(b) of the Rules, for failing to disclose reasonable grounds to oppose the appeal, is granted. Therefore the remaining relief sought regarding the striking of certain paragraphs in the Reply and compelling the Respondent to answer the Demand for Particulars need not be addressed. Costs are awarded to the Appellant.
+Signed and issued at Ottawa, Canada this 20th day of July 2012.
+“R.S. Bocock”
+Bocock J.
+CITATION: 2012 TCC 261
+COURT FILE NO.: 2011-3234(IT)G
+STYLE OF CAUSE: THOMAS O’DWYER AND THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: May 14, 2012
+REASONS FOR ORDER BY: The Honourable Mr. Justice Randall Bocock
+DATE OF ORDER: July 20, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Alistair G. Campbell
+Michelle Moriartey
+Counsel for the Respondent:
+William L. Softley
+Darcie Charlton
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Alistair G. Campbell
+Firm: Lagacy Tax and Trust Lawyers
+Vancouver, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+Appendix “A”
+Material and Relevant Statement of Fact within the Reply
+1. He admits the allegations of fact stated in paragraphs 1, 2, 3, 4, 5, 6, 7, 10, 13, 14, 15, 16, 17, 23, 24, 25, and 26 of the Notice of Appeal.
+2. He denies the allegations of fact stated in paragraph 11, 12, 18, 19, and 20 of the Notice of Appeal.
+3. With respect to paragraph 8 of the Notice of Appeal, he admits that the Appellant did not directly hold any interests or units in SRLP at the time but he has no knowledge and puts in issue whether the appellant held any interest or units in an indirect manner.
+4. With respect to paragraph 9 of the Notice of Appeal, he admits the allegations of fact but, for clarification, states that the offers were made by the Appellant acting as principal or agent for SRLP.
+5. With respect to paragraph 21 of the Notice of Appeal, he admits only that all of the interests or units of SRLP were sold or issued by SRLP with the Appellant acting as principal or agent for SRLP in respect of the sales and issuances.
+6. With respect to paragraph 22 of the Notice of Appeal he admits that all consideration paid in respect of the interests in or units of SRLP was paid to SLRP but, for clarification, he states that the Appellant accepted the payment of the consideration on behalf of SRLP as its agent or principal.
+[…]
+8. By Notice dated May 27, 2009, the Minister of National Revenue (“Minister”) assessed a penalty totalling $2,352,500 pursuant to subsection 237.1(7.4) of the Income Tax Act (the “Act”). The penalty was assessed on the basis that the Appellant, acting as a principal or as an agent, sold, issued or accepted consideration in respect of the Solid Resource #1 Limited Partnership tax shelter before the Minister had issued an identification number for the tax shelter.
+[…]
+11. In determining that the Appellant was liable to a penalty pursuant to subsection 237.1(7.4) of the Act, the Minister relied on the following facts:
+The Tax Shelter
+a) Solid Resources #1 Limited Partnership (SRLP) was structured as a limited partnership;
+b) SRLP’s first taxation year was from December 15, 2006 to December 31, 2006 (“2006 taxation year”);
+c) SRLP has never had a tax shelter identification number;
+[…]
+SRLP’s partners
+[…]
+g) In 2006, SRLP’s limited partners paid the Total Cost of the Partnership and acquired the partnership units by paying 25% by cash, money order, bank draft or certified cheque payable to SRLP ($2,352,500) and 75% by promissory note ($7,057,500)(the “Promissory Notes”);
+h) When SRLP’s limited partners purchased their limited partnership units, they filled out forms and submitted amounts equal to 25% of the subscription cost of the partnership units to Ken Legasse Inc.;
+[…]
+m) The Offering Memorandum states that the majority of the partnership’s expenses would occur in 2006;
+n) SRLP had no revenue in 2006;
+o) SRLP incurred expenses of $8,798,935 in its 2006 taxation year resulting in a loss of the same amount (the “2006 SRLP Loss”);
+p) SRLP allocated the 2006 SRLP loss to SRLP’s limited partners;
+q) For the 2007 fiscal period, SRLP reported a loss of $201,132, which was allocated to SRLP’s limited partners;
+r) SRLP made statements or representations that would cause an investor to believe that the loss that would be deductible in respect of their partnership interest would exceed the cost to the investor of the partnership interest less the value of the investor’s promissory note;
+[…]
+The Appellant’s role in SRLP
+bb) The Appellant is the “Director Tax Services” for Ken Legasse Inc.;
+cc) Ken Legasse Inc. is a firm of Chartered Accountants;
+dd) The Appellant prepared the Offering Memorandum;
+ee) The Appellant submitted all the required documents relating to SRLP with the Security Exchange Commission;
+ff) The Appellant has signing authority over SRLP’s bank account;
+gg) 25% of the subscription cost of each SRLP partnership were deposited to SRLP’s bank account;
+hh) The Appellant issued cheques for the payment of SRLP’s expenses;
+ii) The Appellant is the authorized signing officer of SRLP;
+kk) The Appellant was the sole director of the General Partner until December 11, 2007;
+ll) The General Partner is responsible for the management and control of SRLP; and
+mm) The General Partner describes itself as a promoter of SRLP.
+[…]
+14. SRLP is a tax shelter pursuant to section 237.1 of the Act because it can reasonably be considered, having regard to statements or representations made in connection with SRLP, that, if an investor were to acquire an interest in SRLP, at the end of the particular taxation year that ends within four years after the day on which the partnership interest was acquired, the total of the loss represented to be deductible in respect of the partnership interest would exceed the cost to the investor of the partnership interest less the value of the investor’s promissory note.
+18. The Appellant is liable for a penalty because he acted as a principal or agent to sell, issue or accept consideration in respect of the SRLP tax shelter before the Minister issued a tax shelter identification number, pursuant to subsection 237.1(7.4) of the Act.
+Appendix “B”
+Facts in Notice of Appeal Admitted by the Respondent
+4. Solid Resources No. 1 Limited Partnership (“SRLP”) is a limited partnership formed under the laws of British Columbia on December 12, 2006.
+5. Bearstone GP Management Ltd. (“Bearstone”) is a “taxable Canadian corporation”, as defined in subsection 89(1).
+6. At all relevant times, Bearstone was the general partner of SRLP.
+[…]
+10. The terms and conditions attached to the offer of and subscription for units of SRLP were set out in an Offering Memorandum dated December 15, 2006.
+[…]
+17. The Offering Memorandum stated as follows under the heading “Partnership Expenses”
+Partnership Expenses
+Organization expenses incurred by the Partnership are “eligible capital expenditures”, three-quarters of which are added to the cumulative eligible capital of the Partnership and may be deducted commencing in its 2006 Fiscal Period at the rate of 7% per year on a declining-balance basis.
+The expenses incurred by the Partnership in the course of the issue and marketing of the Units will be deducted ratably over a five-year amortization period, provided and to the extent that the expenses are reasonable and no portion of the amount can be reasonably, allocated to the cost of Partnership property or the interest in the Partnership, or the initial organization of the Partnership.
+The Partnership has engaged Bearstone GP Management Ltd. to provide management services as the General Partner to the Partnership. A fee for services are rendered to the extent the fee is not a payment on account of capital, is not a prepaid expense, is reasonable in the circumstances and is made or incurred for the purpose of gaining or producing income from a business or property. The reasonableness of a particular expense is a question of fact that must be determined with regard to all of the surrounding circumstances. The issue of whether a particular expense has been made or incurred for the purpose of gaining or producing income from a business or property is also a question of fact that must be determined with regard to all of the surrounding circumstances.
+The annual operating expenses of the Partnership will be deductible as current expenses by the Partnership in the year to which they relate to the extent they are not on account of capital and are reasonable in the circumstances. It is expected the majority of current expenses of the Partnership will occur in 2006 due to the terms of the Funding and Revenue Agreement of the Partnership wild [sic] Solid Resources Ltd. (See Item 2.3 – Material Agreements).
+[…]
+23. By the Assessment dated May 27, 2009, the Minister assessed a penalty in the amount of $2,352,500.00 and accrued interest of $485,312.34 under subsection 237.1(7.4) apparently on the basis that:
+(a) SRLP was a “tax shelter” as defined in subsection 237.1(1); and
+(b) the Appellant was a “promoter”, as defined in subsection 237.1(1), and the Appellant sold, issued or accepted consideration totalling $9,410,000 in respect of SRLP (being a tax shelter) before the Minister had issued an identification number for the purported tax shelter.
+24. The Appellant served a Notice of Objection on the Minister objecting to the Assessment.
+25. By Notice of Confirmation dated September 6, 2011, the Minister confirmed the Assessment.
+26. The Notice of Confirmation stated that the Assessment was confirmed on the following basis:
+Solid Resources #1 Limited Partnership is a tax shelter provided in subsection 237.1(1) of the Act, but an application for an identification number as required by subsection 237.1(2) has not been made.
+You act as principal or as an agent, sell, issue or accept consideration in respect of Solid Resources # 1 Limited Partnership before the Minister has issued an identification number for this tax shelter. Therefore, you are liable to a penalty totalling $2,352,500under subsection 237.1(7.4) of the Act.

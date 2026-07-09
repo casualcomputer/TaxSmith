@@ -1,0 +1,129 @@
+Title: Labow v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30165/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-26-30165-labow-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-01-18
+
+# Labow v. The Queen
+
+- Citation: 2011 TCC 26
+- Decision date: 2011-01-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7823, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Labow v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-01-18
+Neutral citation
+2011 TCC 26
+File numbers
+2006-3533(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3533(IT)G
+BETWEEN:
+STANLEY LABOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Applications under Rule 147(7) determined pursuant to Rule 69 of the
+Tax Court of Canada Rules (General Procedure)
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Shelly J. Kamin and
+Kimberley Cunnington-Taylor
+Counsel for the Respondent:
+Luther P. Chambers, Q.C.
+and Jennifer Neill
+____________________________________________________________________
+JUDGMENT AS TO COSTS
+UPON application for reconsideration of the award of costs herein;
+AND UPON having read the material filed by both parties;
+IT IS HEREBY ORDERED that the appellant shall pay the costs of the respondent to be taxed in accordance with Tariff A and Tariff B of Schedule II of the Rules, subject to the following directions to the Taxing Officer:
+(i) There shall be a second counsel fee allowed at 50% of the fee for the first counsel; and
+(ii) The cost of daily transcripts is to be borne by the party ordering them.
+Signed at Ottawa, Canada, this 18th day of January, 2011.
+“E.A. Bowie”
+Bowie J.
+Citation: 2011 TCC 26
+Date: 20110118
+Docket: 2006-3533(IT)G, 2007-2496(IT)G
+2007-2611(IT)G, 2007-3038(T)G
+and 2007-3039(IT)G
+BETWEEN:
+STANLEY LABOW, DANNY S. TENASCHUK,
+MARCANTONIO CONSTRUCTORS INC.,
+GIUSEPPE MARCANTONIO and DOMENICO FILOSO,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT AS TO COSTS
+Bowie J.
+[1] There is an application before me to reconsider the disposition of costs in the three appeals of Stanley Labow, Danny Tenaschuk and Marcantonio Constructors Inc. (MCI). Both counsel have filed written submissions in accordance with my direction. Included in those are submissions as to the disposition of costs in the two appeals of Guiseppe Marcantonio and Domenico Filoso. Those two matters were the subject of consent judgments allowing the appeals and reserving the disposition of costs to be dealt with at the same time as the costs in the other three cases.
+[2] These five cases involve several overlapping issues, and were originally scheduled to be heard as a group, one after the other, in January 2009. The then estimated total length of the hearings was four days. Some ten days prior to the scheduled hearing date senior counsel for the respondent was hospitalized on an emergency basis and the trials were adjourned, and later rescheduled to take place beginning on May 5, 2009. On May 1, 2009 senior counsel for the respondent wrote to counsel for the appellants to indicate that the Minister of National Revenue was now abandoning the reassessments of Giuseppe Marcantonio and Domenico Filoso, and would apply to the Court at the opening of the trial for judgment allowing the appeals and referring the reassessments back to the Minister to restore their previous assessments. The trials in the remaining three cases then took place. There were six full days and two half days of evidence, and two days of argument. Some of the evidence and much of the argument was common to all three cases.
+Stanley Labow, Danny Tenaschuk and MCI
+[3] The appellants’ position is that although their appeals were dismissed, the respondent should be denied costs. Counsel advances several reasons in support of this position. I summarize:
+(a) Counsel for the appellant was required to waste 42 hours responding to 5 Requests to Admit. Although she admitted “nearly half” of the facts requested, and many others on a qualified basis, counsel for the respondent declined to put the admissions before the Court and objected to the appellant putting summaries of them before the Court.
+(b) At a case management conference, I directed that the parties prepare a statement of those facts that could be agreed upon. Counsel for the appellants spent 33 hours trying to comply with this direction, to no avail. She lays the failure to reach any agreement at the feet of counsel for the respondent.
+(c) Counsel for the respondent, she says, caused the hearing to be unnecessarily long by his conduct of the cross examination of witnesses.
+(d) Counsel for the respondent clung to some issues until the last moment that should have been abandoned much earlier than they were, and added some new issues between the close of the evidence and the beginning of argument. Ms. Kamin characterizes this as “litigation by stealth”.
+(e) The respondent unnecessarily ordered transcripts on an expedited basis; the appellants ought not to be required to pay for these.
+(f) The appellants made written offers to settle that were rejected out of hand. Although the result was less favourable to the appellants than the proposed settlements, the appellants’ counsel argues that their attempt to promote settlement discussions, and the respondent’s cursory refusal of the offer, should be considered in exercising my discretion as to costs under Rule 147.
+(g) These cases are representative of a substantial number of similar cases, and so the appellant’s should not be subject to the general rule regarding the award of costs.
+The appellants also submit that even if the respondent is awarded costs, there should be no counsel fee awarded for junior counsel because her participation in the trial was, in Ms. Kamin’s view, minimal.
+[4] Mr. Chambers, on behalf of the respondent, takes the position that I should award costs to the respondent on a solicitor and client basis. He advances this submission supported by an allegation, couched in intemperate language, to the effect that counsel for the appellants “proffer[ed] false evidence in the hope that it would not be exposed”. While I did not accept the evidence of the appellants as to their motivation in making the expenditures in issue in these cases, the suggestion that their counsel was therefore proffering false evidence is totally unwarranted by the facts and improper. It is just one more example of the regrettable emergence recently of incivility at the bar that is of great concern to this and other courts in Canada.
+[5] Mr. Chambers goes on to submit, in the alternative, that I should increase the fees provided for in Tariff B, for reasons that may be summarized this way.
+(a) The volume of work was “enormous”, for various reasons, such as the inability of counsel to agree to any facts, the “bewildering” number of so-called trust deeds, at least one of which was produced for the first time during the trial, and the need to cross examine a lawyer and two actuaries at some length.
+(b) The complexity of the issues.
+(c) The volume of the trial evidence.
+(d) The time spent by counsel for the respondent in producing written argument.
+[6] I am not greatly moved by either of these submissions. Certainly, it was a group of cases that presented some difficulties to both counsel. In the context of this application, it is impossible to place responsibility for the failure of counsel to agree before trial on even a few facts entirely on either side. There were some molehills that were turned into mountains by respondent’s counsel, leading to lengthy cross‑examinations that would have benefited greatly from some curtailment. Certainly, the trial would have been shorter (and more pleasant for all concerned) if it had had the benefit of more focus and more civility. That said, nothing in the circumstances warrants either the extreme sanction of depriving the respondent of costs, or the equally extreme sanction of awarding costs to the respondent on a solicitor and client basis.
+[7] I am in complete agreement with what was said by Bowman J., as he then was, in RMM Canadian Enterprises Inc. v The Queen[1] at paragraphs 3 to 5:
+3 With respect to the first point, I can see no basis for awarding the appellants any portion of their costs. The usual rule is that costs should follow the event and the fact that a case is difficult or important or that it raises novel points of law is no reason to depart from that rule. Income tax litigation is frequently complex and with the complexity of modern commercial life and the intricacy of the constantly changing Canadian fiscal legislation, new and important issues will frequently come before the courts.
+4 Counsel's second contention was that in any event the costs and length of the trial were increased by reason of respondent's counsel's refusal to admit certain facts that ought to have been admitted and that, generally, in light of the importance of the case, counsel engaged in a measure of overkill. It was contended that the case could have been simplified and shortened if the Crown had confined it to the application of sections 84 and 212 and had not, to use the phrase from in (sic) the reasons for judgment, called in the heavy artillery of GAAR.
+5 It is true that I decided that the assessments were supportable on the basis of sections 84 and 212 alone but it was not unreasonable for the Crown to rely, both in assessing and at trial, on section 245. Indeed, in McNichol et al. v. The Queen, 97 D.T.C. 111, Judge Bonner relied solely on that section. It frequently happens in litigation that arguments are advanced in support of positions that, with the benefit of hindsight, turn out to have been unnecessary. Unless such arguments are plainly frivolous or untenable, I do not think that a litigant should be penalized in costs simply because its counsel decides to pull out all the stops, nor do I think that it is my place to second guess counsel's judgment, after the event, and say, in effect. "If you had had the prescience to realize how I was going to decide we could have saved a lot of time by confining the case to one issue." Moreover, one of counsel's responsibilities is to build a record which will enable an appellate court to consider all of the issues. (emphasis added)
+[8] The respondent should have costs of these three cases, to be taxed on a party and party basis, subject to the following directions made under Rule 150.
+[9] The size, complexity and importance of these cases warrants a second counsel fee. The taxing officer is directed to allow a second counsel fee at 50% of the fee for first counsel.
+[10] Where, as here, there are two counsel at trial, daily transcripts are an expensive luxury. Usually when daily transcripts are ordered it is done following a discussion among counsel and the Court that results in an agreement as to the division of the cost. Absent any discussion and agreement, the cost of daily transcripts should be borne by the party ordering them, regardless of the result. The taxing officer is directed accordingly.
+Guiseppe Marcantonio and Domenico Filoso
+[11] The default rule is that on discontinuance the party discontinuing is liable to pay costs, taxed on a party and party basis, up to the point of discontinuance. Ms. Kamin asks for party and party costs up to January 28, 2009, when the initially scheduled trial date was cancelled due to illness of counsel, with a lump sum of $5,000 in each case for the period thereafter until the discontinuance in May. Mr. Chambers asks that I limit the amounts that would otherwise be taxable on a party and party basis in these two cases because the issues in each are essentially the same.
+[12] The ostensible reason that the respondent abandoned the assessments and consented to judgment allowing the appeals in these cases was because the Minister had no evidence to support the value that he had attributed in the assessments to the benefits said to have been conferred by MCI on the two individual appellants. This must surely have been apparent to the Minister, and to counsel, long before May 2009. The trials were scheduled to begin on Tuesday May 5. To wait until Friday May 1 to advise opposing counsel that the respondent was going to consent to judgment allowing the appeals is unjustifiable. The taxing officer is directed to allow a fee of $5,000.00 for preparation for trial in each of these cases.
+Signed at Ottawa, Canada, this 18th day of January, 2011.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2011 TCC 26
+COURT FILE NO.: 2006-3533(IT)G, 2007-2496(IT)G,
+2007-2611(IT)G, 2007-3038(T)G
+and 2007-3039(IT)G
+STYLE OF CAUSE: STANLEY LABOW, DANNY S. TENASCHUK, MARCANTONIO CONSTRUCTORS INC., GIUSEPPE MARCANTONIO and DOMENICO FILOSO and HER MAJESTY THE QUEEN
+REASONS FOR JUDGMENT
+AS TO COSTS BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT AS TO COSTS: January 18, 2011
+APPEARANCES:
+Counsel for the Appellants:
+Shelly J. Kamin and Kimberley and Cunnington-Taylor
+Counsel for the Respondent:
+Luther P. Chambers, Q.C.
+and Jennifer Neill
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Shelly J. Kamin
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 97 DTC 420; [1997] 3 C.T.C. 2103.

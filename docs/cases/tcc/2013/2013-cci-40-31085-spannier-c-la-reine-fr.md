@@ -1,0 +1,218 @@
+---
+title: "Spannier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31085/index.do"
+last_modified: "2013-02-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 40"
+citation2: ""
+neutral_citation: "2013 CCI 40"
+decision_date: "2013-02-04"
+language: "fr"
+item_id: "31085"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4669
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:30:36.104000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9c17dab9f5ff9ca7684816ce5426d0c8100488c0241e12024d51090939c9abea"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Spannier c. La Reine
+
+- Citation: 2013 CCI 40
+- Decision date: 2013-02-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4669, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Spannier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-02-04
+Référence neutre
+2013 CCI 40
+Numéro de dossier
+2012-2239(IT)I
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2239(IT)I
+ENTRE :
+SHEENA SPANNIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 23 janvier 2013, à Edmonton (Alberta).
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Représentant de l’appelante :
+M. Brad Tetz
+Avocat de l’intimée :
+Me Jeff Watson
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008 est accueilli, avec dépens de 400 $ plus débours, et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que l’allocation n’aurait pas dû être incluse dans le revenu de l’appelante.
+Signé à Vancouver (Colombie‑Britannique), ce 4e jour de février 2013.
+« David Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 20e jour de mars 2013.
+Alya Kaddour-Lord, traductrice
+Référence : 2013CCI40
+Date : 20130204
+Dossier : 2012-2239(IT)I
+ENTRE :
+SHEENA SPANNIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] Il s’agit d’un appel interjeté sous le régime de la procédure informelle à l’égard d’une nouvelle cotisation d’impôt sur le revenu relative à l’année d’imposition 2008 de l’appelante. La seule question en litige est de savoir si l’appelante tenait un établissement domestique autonome à Kelowna, en Colombie‑Britannique, qui constituait son lieu principal de résidence de janvier à octobre ou novembre 2008, au sens du paragraphe 6(6) de la Loi de l’impôt sur le revenu (la « Loi »). Quand l’appelante a produit sa déclaration de revenus pour 2008, elle n’a pas inclus dans son revenu une allocation qu’elle avait reçue de son employeur au motif qu’il ne s’agissait pas d’un revenu en application du paragraphe 6(6). Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard de l’appelante pour inclure l’allocation dans le revenu de cette dernière, en partant du principe que le paragraphe 6(6) ne s’appliquait pas.
+LES FAITS
+[2] L’appelante a témoigné pour son propre compte. L’intimée n’a cité aucun témoin à comparaître. J’ai trouvé que l’appelante était un témoin crédible.
+L’emploi
+[3] En mai 2007, l’appelante a été engagée comme coordonnatrice de la sécurité par 2950-0519 Quebec Inc. (l’« employeur »). L’appelante a continué de travailler pour l’employeur jusqu’en octobre ou novembre 2008. L’emploi de l’appelante exigeait qu’elle travaille sur un chantier situé à 45 à 90 minutes de route de Fort McMurray, en Alberta.
+[4] Quand l’appelante a été engagée, elle s’attendait à rester au service de l’employeur pendant un an ou deux. Aux termes de son contrat d’embauche, l’appelante travaillait pendant 20 jours et disposait ensuite de 8 jours de congé. Quand elle travaillait, l’appelante habitait à Fort McMurray. Exception faite des quelques fois où elle s’est rendue à Edmonton pour rendre visite à des membres de sa famille, l’appelante vivait à Kelowna pendant ses jours de congé.
+L’allocation
+[5] En 2008, l’employeur a versé à l’appelante une allocation de subsistance de 25 200 $ (l’« allocation »). L’intimée a émis des doutes quant fait que l’appelante a véritablement dépensé 25 200 $ en loyer et en nourriture à Fort McMurray ainsi qu’en déplacements entre Fort McMurray et d’autres lieux en 2008. J’accepte le témoignage de l’appelante selon lequel elle a dépensé au moins cette somme.
+Le logement de Fort McMurray
+[6] Pendant la période où elle travaillait, l’appelant logeait dans un appartement meublé situé dans un sous‑sol à Fort McMurray. L’appelante payait un loyer mensuel de 2 000 $ pendant la période en cause. L’appelante faisait ses allers et retours quotidiens entre l’appartement et le chantier dans un véhicule fourni par l’employeur. L’appelante laissait ses vêtements de travail à Fort McMurray, mais elle n’avait là‑bas que très peu d’effets personnels.
+Le logement de Kelowna
+[7] Quand elle se trouvait à Kelowna, l’appelante vivait dans une maison appartenant à une dénommée Shirley Metcalfe (le « logement de Kelowna »). Les membres de la famille de l’appelante et de celle de Mme Metcalfe étaient amis de longue date. Le mari de Mme Metcalfe est décédé en 2004. Quelque temps plus tard, les enfants de Mme Metcalfe ont demandé à l’appelante si elle serait disposée à vivre avec Mme Metcalfe. L’appelante a accepté. Elle a emménagé chez Mme Metcalfe en 2005 et a continué de vivre avec elle jusqu’en 2011.
+[8] Les conditions de logement de l’appelante chez Mme Metcalfe tenaient d’un système d’échange. L’appelante n’avait pas de loyer à payer, mais il était attendu qu’elle rendrait divers services à Mme Metcalfe de temps en temps. L’appelante a décrit les services rendus à Mme Metcalfe du temps où elle vivait chez cette dernière de la manière suivante :
+· faire l’époussetage (particulièrement dans les endroits que Mme Metcalfe avait du mal à atteindre);
+· nettoyer les grandes fenêtres de la maison;
+· assurer l’approvisionnement en bois de chauffage;
+· porter le bois de chauffage dans la maison pour l’usage de Mme Metcalfe;
+· ratisser les feuilles mortes;
+· entretenir les jardins;
+· s’occuper du déneigement;
+· emmener Mme Metcalfe au restaurant;
+· peindre le quai;
+· remettre à neuf la terrasse et y installer des rampes en verre pour améliorer la vue;
+· remplacer une partie du couvre-plancher du sous‑sol par du bois franc.
+Aucune entente spécifique préalable n’avait été conclue quant aux services à rendre, mais il était entendu que l’appelante rendrait ce genre de services au besoin.
+[9] L’appelante payait les menues dépenses associées aux services énumérés ci‑dessus. Elle a estimé qu’au fil des ans, ces dépenses s’étaient élevées à plus de 3 500 $. En outre, elle contribuait aux dépenses d’épicerie faites pour elle et Mme Metcalfe.
+[10] En plus de tout ce qui précède, j’ai l’impression que Mme Metcalfe souhaitait surtout vivre avec l’appelante pour qu’elle lui tienne compagnie.
+[11] L’appelante ne semble pas posséder beaucoup d’effets personnels, mais elle a déclaré qu’elle laissait la plupart de ces effets au logement de Kelowna. Il s’agissait de quelques plantes, d’albums photo, d’une causeuse, de mobilier de jardin, d’une bicyclette et d’une voiture. Elle a ajouté qu’elle possédait d’autres meubles, qu’elle entreposait dans le garage du logement de Kelowna. L’appelante avait également un chat, qui vivait au logement de Kelowna.
+Les autres éléments relatifs au logement
+[12] L’appelante est née à Salmon Arm, en Colombie‑Britannique, et elle a grandi à Kelowna. Pendant la période en cause, si on lui avait demandé où elle vivait, l’appelante aurait répondu qu’elle vivait à Kelowna. L’appelante n’avait aucune intention de déménager à Fort McMurray.
+[13] Le dentiste et le médecin de l’appelante pratiquaient tous deux à Kelowna. L’appelante s’est rendue deux fois chez son dentiste pendant la période en cause.
+[14] L’adresse postale de l’appelante était l’adresse du logement de Kelowna. Son numéro de téléphone apparaissait également dans l’annuaire de Kelowna. Le compte bancaire de l’appelante se trouvait à Kelowna et c’est son adresse à Kelowna qui apparaissait sur les chèques qu’elle tirait à partir de ce compte.
+[15] La province de la Colombie‑Britannique a considéré qu’en 2008, pour l’application de son régime de services médicaux, l’appelante était une résidente de la Colombie‑Britannique. L’appelante détenait un permis de conduire de la Colombie‑Britannique sur lequel figurait l’adresse de son logement de Kelowna. L’appelante a assuré sa voiture auprès de la Insurance Corporation of British Columbia (la société d’assurance automobile de la Colombie-Britannique).
+[16] Pour l’année en cause, l’appelante a produit sa déclaration de revenus en tenant pour acquis qu’elle était résidente de la Colombie‑Britannique.
+[17] L’appelante n’avait souscrit aucun abonnement, que ce soit à Kelowna ou à Fort McMurray.
+LES DISPOSITIONS DE LA LOI
+[18] L’alinéa 6(1)b) de la Loi exige que le contribuable inclue dans le calcul de son revenu tiré d’un emploi « les sommes qu’il a reçues au cours de l’année à titre d’allocations pour frais personnels ou de subsistance ou à titre d’allocations à toute autre fin […] ». Le paragraphe 6(6) constitue une exception à la règle générale énoncée à l’alinéa 6(1)b). Le paragraphe 6(6) est ainsi libellé :
+6(6) Emploi sur un chantier particulier ou en un endroit éloigné
+Malgré le paragraphe (1), un contribuable n’inclut, dans le calcul de son revenu tiré, pour une année d’imposition, d’une charge ou d’un emploi, aucun montant qu’il a reçu, ou dont il a joui, au titre, dans l’occupation ou en vertu de sa charge ou de son emploi et qui représente la valeur des frais – ou une allocation (n’excédant pas un montant raisonnable) se rapportant aux frais – qu’il a supportés pour :
+a) sa pension et son logement pendant une période donnée :
+(i) soit sur un chantier particulier qui est un endroit où le travail accompli par lui était un travail de nature temporaire, alors qu’il tenait ailleurs et comme lieu principal de résidence, un établissement domestique autonome :
+(A) d’une part, qui est resté à sa disposition pendant toute la période et qu’il n’a pas loué à une autre personne,
+(B) d’autre part, où on ne pouvait raisonnablement s’attendre à ce qu’il retourne quotidiennement étant donné la distance entre l’établissement et le chantier,
+(ii) soit à un endroit où on ne pouvait raisonnablement s’attendre à ce qu’il établisse et tienne un établissement domestique autonome, étant donné l’éloignement de cet endroit de toute agglomération,
+si la période au cours de laquelle son travail l’a obligé à s’absenter de son lieu principal de résidence ou à être sur ce chantier ou à cet endroit était d’au moins 36 heures;
+b) le transport, au titre d’une période visée à l’alinéa a) pendant laquelle il a reçu de son employeur la pension et le logement ou une allocation raisonnable au titre de la pension et du logement, entre :
+(i) soit son lieu principal de résidence et le chantier particulier visés au sous-alinéa a)(i),
+(ii) soit l’endroit mentionné au sous-alinéa a)(ii) et un endroit au Canada ou un endroit dans un pays où le contribuable est employé.
+[Non souligné dans l’original.]
+[19] Le terme « établissement domestique autonome » est défini au paragraphe 248(1) de la Loi de la manière suivante : « Habitation, appartement ou autre logement de ce genre dans lequel, en règle générale, une personne prend ses repas et couche ».
+LA POSITION DE L’INTIMÉE
+[20] L’intimée fait valoir que l’allocation ne relève pas de l’exception énoncée à l’alinéa 6(6)a) au motif que le logement de Kelowna n’était pas un établissement domestique autonome que l’appelante tenait comme lieu principal de résidence. Plus précisément, l’intimée affirme que le logement de Kelowna :
+a) n’était pas un établissement domestique autonome;
+b) n’était pas le lieu principal de résidence de l’appelante;
+c) n’était pas tenu par l’appelante.
+[21] L’intimée convient du fait que l’allocation satisfait à tous les autres critères énoncés à l’alinéa 6(6)a) de la Loi.
+ANALYSE
+L’établissement domestique autonome
+[22] L’intimée affirme que le logement de Kelowna n’était pas un établissement domestique autonome. L’intimée admet que le logement de Kelowna était une habitation, mais elle prétend qu’il ne s’agissait pas d’un établissement domestique autonome parce que, en règle générale, l’appelante n’y prenait pas ses repas ni n’y couchait vu qu’elle mangeait et couchait à Fort McMurray 20 jours sur 28.
+[23] Je n’accepte pas la position de l’intimée. L’expression « en règle générale » ne fait pas référence à la période pendant laquelle le contribuable se trouvait loin de la maison d’habitation, mais plutôt aux habitudes de vie ordinaires du contribuable. Dans le cas de l’appelante, il est clair que de 2005 à 2011, à l’exception des périodes en 2007 et en 2008 où elle travaillait à Fort McMurray, elle mangeait et couchait généralement au logement de Kelowna.
+[24] Le paragraphe 6(6) de la Loi a pour objet de faire en sorte que les contribuables qui doivent supporter des dépenses du fait d’un emploi temporaire qui les amène à travailler loin de chez eux n’ont pas d’impôt à payer sur l’allocation raisonnable qui leur est versée par leur employeur pour couvrir ces dépenses. Le fait de devoir payer de l’impôt sur une telle allocation désavantagerait les contribuables ayant dû se déplacer pour leur travail, vu que ces contribuables devraient payer leur logement temporaire au moyen d’une somme nette d’impôt.
+[25] Si la vision de la définition donnée par l’intimée prévalait, alors une personne contrainte de quitter sa maison et sa famille à Calgary pour travailler à temps plein à Winnipeg pendant deux mois sans rentrer chez elle ne pourrait pas se prévaloir du paragraphe 6(6) simplement parce que pendant cette période de deux mois, elle n’aurait ni couché ni mangé chez elle. Ce résultat irait complètement à l’encontre de l’objet du paragraphe 6(6).
+[26] Je conclus par conséquent que le logement de Kelowna était un établissement domestique autonome.
+Lieu principal de résidence
+[27] L’appelante et l’intimée ne s’entendent pas sur la signification de l’expression « lieu principal de résidence ». L’appelante fait valoir que cette expression exige simplement d’établir, à l’aide des indices habituels de résidence, si l’appelante était principalement une résidente de Fort McMurray ou bien de Kelowna. En revanche, l’intimée soutient que le critère consiste à établir si l’appelante résidait principalement à Kelowna ou à Fort McMurray.
+[28] L’intimée convient du fait que l’appelante résidait à Kelowna et, en fait, elle accepte que la vie de l’appelante semblait tourner autour de Kelowna. Toutefois, l’intimée soutient que même s’il se pouvait que l’appelante ait eu une résidence à la fois à Kelowna et à Fort McMurray, parce qu’elle vivait à Fort McMurray 20 jours sur 28, elle résidait principalement à Fort McMurray. Je ne souscris pas à l’interprétation que l’intimée a faite de l’expression « lieu principal de résidence ».
+[29] La Cour s’est déjà penchée sur la question de la signification de l’expression « lieu principal de résidence » telle qu’elle est employée à l’alinéa 6(6)a) de la Loi. Au paragraphe 9 de la décision Larson c. La Reine, 2003 CCI 560, le juge Bowie s’est ainsi exprimé :
+[…] on ne détermine pas la résidence principale en comptant tout simplement les nuits qu’on y passe. Si telle était l’intention du législateur, il aurait été très facile de le dire. Il s’agit d’une question à laquelle on doit répondre du point de vue qualitatif plutôt que quantitatif. C’est inévitable dans un monde où les travailleurs doivent consacrer plus de jours au travail qu’aux loisirs.
+[30] L’appelante soutient que même si elle avait une résidence à Kelowna aussi bien qu’à Fort McMurray, selon les indices habituels de résidence, il est clair qu’elle était une résidente de Kelowna pendant la période en cause. Je souscris à l’interprétation que l’appelante a faite de l’expression « lieu principal de résidence » ainsi qu’à la conclusion selon laquelle elle était principalement une résidente de Kelowna. En dehors de son travail et de l’appartement situé au sous‑sol qu’elle louait à Fort McMurray, tous les liens que l’appelante entretenait étaient à Kelowna. C’est à Kelowna qu’elle était chez elle.
+[31] Pour parvenir à la conclusion selon laquelle l’appelante était principalement une résidente de Kelowna, je n’ai accordé aucun poids au fait que l’appelante a produit sa déclaration de revenus pour 2008 à titre de résidente de la Colombie‑Britannique et que c’est à ce titre qu’une cotisation et une nouvelle cotisation ont été établies à son égard. Pour établir quelle était la province de résidence de l’appelante pendant son année d’imposition 2008, il convient d’établir où se trouvait sa résidence au 31 décembre 2008. En l’espèce, je dois établir où se trouvait la résidence de l’appelante entre le 1er janvier 2008 et le mois d’octobre ou de novembre de cette même année. Ainsi, la province où elle résidait au 31 décembre 2008 n’est que peu, voire pas du tout, pertinente pour ma décision.
+« Tenait »
+[32] Les parties adoptent des positions diamétralement opposées en ce qui a trait à la signification du mot « tenait » dans l’expression « tenait ailleurs et comme lieu principal de résidence, un établissement domestique autonome ».
+[33] L’intimée prétend que, dans le présent contexte, le mot « tenait » signifie « payait pour ». L’intimée est d’avis que le contribuable doit payer un loyer, rembourser une hypothèque, payer les services publics, des taxes d’habitation ou quelque somme équivalente pour qu’on considère qu’il tient un établissement domestique autonome. L’intimée est d’avis que le paragraphe 6(6) vise à dédommager les contribuables qui supportent les coûts associés à deux résidences en même temps, et, par conséquent, que l’article ne s’applique pas à un contribuable qui ne supporte aucuns frais à l’égard de sa résidence principale. L’intimée ajoute que les services que l’appelante rendait à Mme Metcalfe ne constituaient pas à un paiement pour l’utilisation du logement de Kelowna.
+[34] Par opposition, l’appelante soutient que le mot « tenait » au sens du paragraphe 6(6) peut concerner le fait de tenir physiquement une maison. L’appelante dit que le travail qu’elle accomplissait en faisant le ménage et en assurant l’entretien du logement de Kelowna consistait à tenir la maison et que, par conséquent, elle peut se prévaloir du paragraphe 6(6).
+[35] Je n’accepte pas les interprétations que les parties ont données au mot « tenait ». Même si je conviens du fait que leurs deux interprétations correspondent à des sens communs du mot, dans le contexte du paragraphe 6(6) de la Loi, l’interprétation de l’intimée est trop restrictive et celle de l’appelante trop large.
+[36] Si le point de vue de l’intimée était juste, alors une contribuable âgée de 20 ans qui vivait chez ses parents à Halifax sans payer de loyer et dont l’emploi exigerait qu’elle quitte son domicile et travaille à temps plein à Toronto pendant deux mois ne satisferait pas aux exigences du paragraphe 6(6) simplement parce que ses parents payaient tous les frais afférents à la maison située à Halifax. Ce résultat irait complètement à l’encontre de l’objet du paragraphe 6(6). En outre, selon l’interprétation de l’intimée, un contribuable ayant un domicile fixe, mais qui ne paierait pas de frais de logement serait désavantagé par rapport à un contribuable qui aurait le même domicile, mais qui paierait des frais de logement. Les deux contribuables supporteraient les mêmes frais de logement relativement à leur lieu de travail éloigné, mais l’un d’eux devrait payer ces frais avec une somme nette d’impôt. L’intimée a été incapable de présenter quelque argument donnant à entendre que telle était l’intention du législateur.
+[37] Si le législateur avait voulu que le mot « tenait » signifie « payait pour », alors il aurait certainement ajouté un certain critère pour mesurer la tenue en question. Il est difficile de croire que le législateur ait pu souhaiter qu’un contribuable payant 1 $ de loyer par mois puisse se réclamer du paragraphe 6(6), mais qu’une contribuable comme la femme dont il est question dans l’exemple ci‑dessus ne puisse pas en bénéficier.
+[38] Je reconnais que, au paragraphe 10 de la décision Larson, le juge Bowie a tiré la conclusion suivante :
+[…]
+Le paragraphe 6(6) prévoit que les contribuables qui doivent travailler temporairement à une telle distance de leur domicile que faire la navette devient impossible ne doivent pas payer d’impôt sur les indemnités de logement à l’extérieur lorsqu’ils continuent d’encourir invariablement les frais normaux d’un foyer où ils retourneront une fois que le travail temporaire a été fait.
+[39] En toute déférence, je ne souscris pas à l’idée selon laquelle il s’agit de l’objet du paragraphe 6(6). Comme il a été mentionné précédemment, l’objet de cette disposition est de faire en sorte que les contribuables qui doivent supporter des dépenses à cause d’un emploi temporaire pour lequel ils doivent se rendre loin de chez eux n’aient pas d’impôt à payer sur l’allocation raisonnable que leur verse leur employeur afin de couvrir ces dépenses. Je ne vois rien dans ce paragraphe qui exige du contribuable qu’il effectue des paiements relatifs à son lieu principal de résidence. Le juge Bowie n’a pas été spécifiquement saisi de la question de la signification du mot « tenait », et, par conséquent, j’imagine qu’il ne s’est pas attardé sur la question quand il a formulé l’énoncé reproduit ci‑dessus.
+[40] L’avocat de l’intimée m’a renvoyé aux conclusions tirées par la Cour dans la décision Poulton v. The Queen, 2002 DTC 3847. Je comprends de l’argument de l’intimée que l’article 6 vise les contribuables qui ont reçu un avantage matériel net et que, parce que l’appelante n’avait que le loyer du logement de Fort McMurray à payer et que ce loyer était couvert par l’allocation, l’appelante a reçu un avantage matériel net. Même si je reconnais que la décision Poulton étaye la thèse selon laquelle les contribuables qui ont reçu un avantage matériel devraient être imposés en application du seul alinéa 6(1)a), en toute déférence, je ne vois pas quelle est sa pertinence en l’espèce. Premièrement, la décision Poulton portait sur l’alinéa 6(1)a) alors que nous examinons ici l’alinéa 6(1)b) au regard du paragraphe 6(6). Le paragraphe 6(6) se veut une exception à la règle générale énoncée à l’alinéa 6(1)b). Deuxièmement, je n’accepte pas le fait que l’appelante a reçu un avantage matériel. Si elle n’avait pas accepté l’emploi à Fort McMurray, elle n’aurait pas eu de loyer à payer à Fort McMurray. L’allocation ne couvre que les frais supplémentaires qu’elle a supportés du fait qu’elle a accepté l’emploi. Elle n’a pas été avantagée par cette allocation. Quand j’ai soumis cette observation à l’avocat de l’intimée, il a déclaré que l’appelante se trouvait dans une meilleure position que celle dans laquelle elle se serait trouvée si elle avait pris l’emploi et qu’elle n’avait pas reçu l’allocation. J’en conviens, mais, par définition, toute personne qui reçoit une allocation en tire un avantage si on tient pour acquis que cette personne aurait de toute manière supporté les frais en cause. Le préambule du paragraphe 6(6) fait référence au fait de recevoir une allocation. Il est donc impossible que cet article ne s’applique pas aux personnes qui ont reçu une allocation.
+[41] L’avocat de l’intimée m’a aussi renvoyé aux conclusions tirées par la Cour dans la décision Pezzelato v. The Queen, 1995 CarswellNat 606. Je conclus que la partie de la décision à laquelle il m’a renvoyé n’est pas utile, pour les mêmes raisons que la décision Poulton n’était pas utile. Toutefois, au paragraphe 20, le juge Bowman, (tel était alors son titre), s’est ainsi exprimé :
+Il faut évidemment prendre garde d’utiliser sans aucun sens critique les termes « avantage économique ». Le remboursement ou la prévention d’une perte, comme dans les affaires Ransom ou Splane, est certes un avantage économique en ce sens que l’employé est économiquement plus avancé qu’il l’aurait été en l’absence d’un remboursement. Toutefois, ce n’est pas selon moi ce que les tribunaux entendaient par un avantage économique dans les affaires précitées. L’employé doit être économiquement plus avancé qu’il l’aurait été s’il n’avait pas subi la perte ou engagé la dépense liée à l’emploi et faisant l’objet du remboursement.
+[Non souligné dans l’original]
+[42] L’avocat de l’intimée m’a aussi renvoyé aux conclusions que la Cour a tirées dans la décision Rozumiak v. The Queen, 2006 DTC 2165. L’avocat a fait des références précises au paragraphe 7 de la décision, dans lequel il est tenu pour acquis que l’appelant conservait son domicile et continuait de payer les frais y afférents pendant qu’il travaillait sur un chantier éloigné. La question en litige dans la décision Rozumiak était de savoir si le travail de l’appelant était de nature temporaire. La Cour a conclu que c’était le cas et a affirmé que le paragraphe 6(6) s’appliquait. Je suis incapable de trouver dans cette décision quelque élément donnant à entendre que la décision d’appliquer le paragraphe 6(6) était fondée sur le fait que l’appelant payait les frais afférents à son domicile quand il se trouvait au loin, et je ne trouve donc pas que cette décision soit utile.
+[43] Je conclus que, dans le contexte du paragraphe 6(6), « tenait » signifie [traduction] « conserver pour utilisation » ou [traduction] « garder à sa disposition ». Cette interprétation est conforme à la division 6(6)a)(i)(A), qui affine la distinction relative au genre d’établissement qui satisfait au critère en exigeant qu’il s’agisse d’un établissement « qui est resté à [l]a disposition [du contribuable] pendant toute la période et [que le contribuable] n’a pas loué à une autre personne ». L’objet de cette disposition est d’accorder un allègement fiscal aux seuls contribuables qui conservent un établissement domestique pour leur propre usage pendant qu’ils se trouvent au loin pour leur travail. Un contribuable qui ne garde pas un tel établissement à sa disposition a, essentiellement, déménagé dans le lieu éloigné où se trouve le chantier. Les frais de logement payés par ce contribuable dans son lieu de travail éloigné sont des frais de subsistance normale qui, s’ils étaient couverts par l’employeur du contribuable, seraient imposables en tant qu’avantage au titre d’un emploi en application de l’alinéa 6(1)b).
+[44] Je conclus que le logement de Kelowna a été en tout temps tenu à la disposition de l’appelante. Son utilisation du logement de Kelowna n’avait pas à être renégociée quand elle revenait à Kelowna. L’appelante et Mme Metcalfe avaient toutes deux accepté le fait que l’appelante résiderait dans la maison quand elle serait à Kelowna, comme elle le faisait depuis 2005.
+[45] Si je suis dans l’erreur, et que, comme l’intimée l’a proposé, le mot « tenait » signifie « payait pour », alors je conclus que les services rendus par l’appelante à Mme Metcalfe constituaient une contrepartie donnée pour que l’appelante habite au logement de Kelowna, et, par conséquent, que l’appelante payait pour ce logement.
+CONCLUSION
+[46] Pour l’ensemble des motifs susmentionnés, je conclus que l’appelante tenait un établissement domestique autonome à Kelowna, lequel constituait son lieu principal de résidence de janvier jusqu’en octobre ou en novembre 2008, aux termes du paragraphe 6(6). Étant donné que l’intimée a concédé le fait qu’il avait été satisfait à tous les autres critères du paragraphe 6(6), je conclus que le paragraphe 6(6) s’applique à l’égard de l’appelante.
+L’ARGUMENT SUBSIDIAIRE DE L’INTIMÉE
+[47] L’intimée a prétendu que, si le paragraphe 6(6) s’appliquait à l’égard de l’appelante, alors l’allocation excédait le montant raisonnable. Je note que l’intimée n’a formulé aucune hypothèse de fait relative au caractère raisonnable de l’allocation, pas plus qu’elle n’a produit d’éléments de preuve relatifs à ce caractère raisonnable. L’appelante a déclaré qu’elle avait utilisé la totalité de l’allocation pour payer ses frais de logement et de repas à Fort McMurray ainsi que ses frais de transport pour se rendre à Fort McMurray et en revenir. J’accepte le témoignage de l’appelante et je conclus que l’allocation n’excédait pas le montant raisonnable.
+DÉCISION
+[48] Pour l’ensemble des motifs exposés ci‑dessus, l’appel de l’appelante est accueilli avec dépens de 400 $ plus débours. L’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que l’allocation n’aurait pas dû être incluse dans le revenu de l’appelante.
+Signé à Vancouver (Colombie‑Britannique), ce 4e jour de février 2013.
+« David Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 20e jour de mars 2013.
+Alya Kaddour-Lord, traductrice
+RÉFÉRENCE : 2013 CCI 40
+NO DU DOSSIER DE LA COUR : 2012-2239(IT)I
+INTITULÉ : Sheena Spannier c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 23 janvier 2013
+MOTIFS DU JUGEMENT : L’honorable juge David E. Graham
+DATE DU JUGEMENT : Le 4 février 2013
+COMPARUTIONS :
+Pour l’appelante :
+M. Brad Tetz
+Avocat de l’intimée :
+Me Jeff Watson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

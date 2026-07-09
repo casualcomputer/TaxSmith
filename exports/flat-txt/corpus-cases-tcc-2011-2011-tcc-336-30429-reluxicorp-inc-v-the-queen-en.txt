@@ -1,0 +1,268 @@
+Title: Reluxicorp Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30429/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-336-30429-reluxicorp-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-07-07
+
+# Reluxicorp Inc. v. The Queen
+
+- Citation: 2011 TCC 336
+- Decision date: 2011-07-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7960, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Reluxicorp Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-07-07
+Neutral citation
+2011 TCC 336
+File numbers
+2009-2793(GST)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2011 TCC 336
+Date: 20110707
+Docket: 2009-2793(GST)G
+BETWEEN:
+reluxicorp Inc.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT
+Lamarre J.
+[1] This is an appeal from an assessment made by the Quebec Minister of Revenue (Minister) dated February 9, 2009, under Part IX of the Excise Tax Act (ETA), for 24 periods (i.e., quarterly periods and monthly periods) from October 1, 2003, to August 31, 2007. Specifically, the appellant disputes the assessment of $30,720.51 that the Minister made in determining the goods and services tax (GST) on supplies of tangible personal property and services acquired outside Canada by the appellant from a non-resident person who is not registered, under sections 217 and 218 of the ETA. After hearing the evidence, counsel for the respondent advised the Court that the respondent was agreeing to reduce the amount of GST assessed in this regard by $3,430.28, which corresponds to the tax calculated on the portion of the commissions paid by the appellant outside Canada as shown in the assessment filed as Exhibit I-2. The statutory provisions that are the basis for this part of the assessment are reproduced below:
+DIVISION I — interpretation
+123. (1) Definitions — In section 121, this Part and Schedules V to X,
+. . .
+"commercial activity" of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply;
+. . .
+"exclusive" means
+(a) in respect of the consumption, use or supply of property or a service by a person that is not a financial institution, all or substantially all of the consumption, use or supply of the property or service, and
+(b) in respect of the consumption, use or supply of property or a service by a financial institution, all of the consumption, use or supply of the property or service;
+. . .
+“exempt supply” means a supply included in Schedule V;
+. . .
+DIVISION IV — Tax ON IMPORTED TAXABLE SUPPLIES
+217. Definitions — The following definitions apply in this Division.
+. . .
+"imported taxable supply" means
+(a) a taxable supply (other than a zero-rated or prescribed supply) of a service made outside Canada to a person who is resident in Canada, other than a supply of a service that is
+(i) acquired for consumption, use or supply exclusively in the course of commercial activities of the person or activities that are engaged in exclusively outside Canada by the person and that are not part of a business or an adventure or concern in the nature of trade engaged in by the person in Canada,
+. . .
+(c) a taxable supply (other than a zero-rated or prescribed supply) of intangible personal property made outside Canada to a person who is resident in Canada, other than a supply of property that
+(i) is acquired for consumption, use or supply exclusively in the course of commercial activities of the person or activities that are engaged in exclusively outside Canada by the person and that are not part of a business or an adventure or concern in the nature of trade engaged in by the person in Canada,
+. . .
+[In force from 2003-07-02 to 2006-06-21]
+218. Imposition of goods and services tax — Subject to this Part, every recipient of an imported taxable supply shall pay to Her Majesty in right of Canada tax calculated at the rate of 7% on the value of the consideration for the imported taxable supply.
+[In force from 2006-06-22 to 2007-12-13]
+218. Imposition of goods and services tax — Subject to this Part, every recipient of an imported taxable supply shall pay to Her Majesty in right of Canada tax calculated at the rate of 6% on the value of the consideration for the imported taxable supply.
+. . .
+SCHEDULE V — EXEMPT SUPPLIES
+subsection 123(1)
+Part I — Real Property
+. . .
+6. [Rental of a residential complex or a residential unit in a residential complex] — A supply
+(a) of a residential complex or a residential unit in a residential complex by way of lease, licence or similar arrangement for the purpose of its occupancy as a place of residence or lodging by an individual, where the period throughout which continuous occupancy of the complex or unit is given to the same individual under the arrangement is at least one month;
+[Emphasis added.]
+[2] The appellant also challenges the assessment of $7,032.34 that the Minister added as GST and that the appellant collected with respect to various taxable supplies and did not include in determining its net tax for the periods from October 2003 to December 2003 ($5,939.72) and from October 2004 to December 2004 ($1,092.62). The appellant contends that these periods were statute-barred at the time of the assessment and that it is incumbent on the respondent to prove that the appellant made a misrepresentation that is attributable to neglect, carelessness or wilful default in determining its net tax during the two periods at issue, which the appellant denies. At the commencement of the hearing, counsel for the respondent informed the Court that his client was conceding the amount of $1,092.62 and that it agreed with the appellant on this amount. The statutory provisions that are the basis of this second part of the assessment are reproduced below:
+Subdivision b — Input Tax Credits
+169. (1) General rule for credits — Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+. . .
+169. (4) Required documentation — A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+(b) where the credit is in respect of property or a service supplied to the registrant in circumstances in which the registrant is required to report the tax payable in respect of the supply in a return filed with the Minister under this Part, the registrant has so reported the tax in a return filed under this Part.
+. . .
+DIVISION V — COLLECTION AND REMITTANCE OF DIVISION II TAX
+Subdivision a —Collection
+221. (1) Collection of tax — Every person who makes a taxable supply shall, as agent of Her Majesty in right of Canada, collect the tax under Division II payable by the recipient in respect of the supply.
+. . .
+Subdivision b — Remittance of Tax
+225. (1) Net tax — Subject to this Subdivision, the net tax for a particular reporting period of a person is the positive or negative amount determined by the formula
+A - B
+Where
+A is the total of
+(a) all amounts that became collectible and all other amounts collected by the person in the particular reporting period as or on account of tax under Division II, and
+(b) all amounts that are required under this Part to be added in determining the net tax of the person for the particular reporting period; and
+B is the total of
+(a) all amounts each of which is an input tax credit for the particular reporting period or a preceding reporting period of the person claimed by the person in the return under this Division filed by the person for the particular reporting period, and
+(b) all amounts each of which is an amount that may be deducted by the person under this Part in determining the net tax of the person for the particular reporting period and that is claimed by the person in the return under this Division filed by the person for the particular reporting period.
+. . .
+228. (1) Calculation of net tax — Every person who is required to file a return under this Division shall, in the return, calculate the net tax of the person for the reporting period for which the return is required to be filed, except where subsection (2.1) or (2.3) applies in respect of the reporting period.
+228. (2) Remittance — Where the net tax for a reporting period of a person is a positive amount, the person shall, except where subsection (2.1) or (2.3) applies in respect of the reporting period, remit that amount to the Receiver General,
+(a) where the person is an individual to whom subparagraph 238(1)(a)(ii) applies in respect of the reporting period, on or before April 30 of the year following the end of the reporting period;
+(b) in any other case, on or before the day on or before which the return for that period is required to be filed.
+. . .
+298. . . .
+(4) Idem — An assessment in respect of any matter may be made at any time where the person to be assessed has, in respect of that matter,
+(a) made a misrepresentation that is attributable to the person’s neglect, carelessness or wilful default;
+INPUT TAX CREDIT INFORMATION (GST/HST) REGULATIONS
+3. Prescribed information — For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+(a) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is less than $30,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business,
+(ii) where an invoice is issued in respect of the supply or the supplies, the date of the invoice,
+(iii) where an invoice is not issued in respect of the supply or the supplies, the date on which there is tax paid or payable in respect thereof, and
+(iv) the total amount paid or payable for all of the supplies;
+(b) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under subsection 241(1) of the Act to the supplier or the intermediary, as the case may be,
+(ii) the information set out in subparagraphs (a)(ii) to (iv),
+(iii) where the amount paid or payable for the supply or the supplies does not include the amount of tax paid or payable in respect thereof,
+(A) the amount of tax paid or payable in respect of each supply or in respect of all of the supplies, or
+(B) where provincial sales tax is payable in respect of each taxable supply that is not a zero-rated supply and is not payable in respect of any exempt supply or zero-rated supply,
+(I) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of each taxable supply, and a statement to the effect that the total in respect of each taxable supply includes the tax paid or payable under that Division, or
+(II) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of all taxable supplies, and a statement to the effect that the total includes the tax paid or payable under that Division,
+(iv) where the amount paid or payable for the supply or the supplies includes the amount of tax paid or payable in respect thereof and one or more supplies are taxable supplies that are not zero-rated supplies,
+(A) a statement to the effect that tax is included in the amount paid or payable for each taxable supply,
+(B) the total (referred to in this paragraph as the “total tax rate”) of the rates at which tax was paid or payable in respect of each of the taxable supplies that is not a zero-rated supply, and
+(C) the amount paid or payable for each such supply or the total amount paid or payable for all such supplies to which the same total tax rate applies, and
+(v) where the status of two or more supplies is different, an indication of the status of each taxable supply that is not a zero-rated supply; and
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient’s name, the name under which the recipient does business or the name of the recipient’s duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+[Emphasis added.]
+Facts
+[3] It is common ground that the appellant is the owner as nominee of the hotel operated under the banner "Residence Inn by Marriott" and located in downtown Montréal. It signed a franchise agreement with Marriott Worldwide Corporation (Marriott), a non‑resident corporation, on or about January 23, 2003 (Exhibit A‑1, tab 4). Under this franchise agreement, the appellant is required to remit the following amounts to Marriott, as stated in paragraph 15 of the Amended Notice of Appeal:
+[translation]
+(a) A 5 % royalty on its annual gross room revenues for the right to use the "Residence Inn by Marriott" banner in the course of its business;
+(b) A contribution of 2.5 % on its annual gross room revenues for marketing contributions; and
+(c) Additional fixed and mandatory costs related to various services, i.e., (1) costs associated with a customer loyalty program available to all clients of the Hotel (Marriott Reward Expenses), (2) costs associated with the use of Marriott’s reservation system and invoicing system (Software Support, Hardware Expenses, Security Service), and (3) commissions with respect to Short Term Rentals.
+[4] In making the assessment at issue, the Minister was of the view that 30% of the above‑noted royalties paid by the appellant to Marriott were subject to the GST because those royalties, according to the Minister, were related to exempt supplies, i.e., the long‑term rental of units for a period of at least one month (this constitutes an exempt supply under paragraph 6(a) of Part I of Schedule V to the ETA). Accordingly, the Minister determined that the appellant was required to pay the GST on the imported taxable supplies in accordance with sections 217 and 218 of the ETA with respect to the following amounts, as reproduced below and set out in paragraph 18 of the Amended Notice of Appeal:
+[translation]
+18. Accordingly, the Minister assessed the Appellant with respect to the following amounts:
+Total expense
+Portion subject to the GST according to the MRQ
+GST
+Marriott Rewards Expenses
+$117,015.35
+$35,104.61
+$2,332.57
+Software Support
+8,995.37
+2,968.61
+186.56
+Commissions
+172,253.71
+51,676.11
+3,430.28
+Hardware Expenses
+12,518.07
+3,755.42
+232.75
+Security Service
+5,534.42
+1,660.33
+107.56
+Marketing Expenses
+441,653.76
+132,496.13
+8,777.57
+Franchise Fees
+785,873.57
+235,762.07
+15,653.21
+TOTAL
+1,543,844.25
+463,153.28
+30,720.50
+[5] For the appellant, I heard testimony from its president, Javier Planas, as well as from Gilles Larivière, President of Horwath Hotels, a consultant specializing in the hotel industry, and Marc Cerri, who has been the appellant’s financial controller since 2007. The respondent called Natasha Jean‑Baptiste, tax auditor with Revenu Québec, who conducted the audit that resulted in the assessment at issue.
+[6] Mr. Planas explained that the "Residence Inn by Marriott" banner was directed to a clientele interested in renting units for a period varying from 5 to 29 days (the average being 5 to 9 days). Other banners specifically serve stays of short duration (1 to 4 days) or long duration (30 days or more). For long‑term stays, he mentioned the names of three banners that Marriott used: "Marriott Execustay", "Marriott Executive Apartments" and "Grand Residences by Marriott". The services offered for long‑term rentals are not the same. There is no daily room cleaning service, and breakfast is not included. Sometimes, long‑term rental units offer the use of a washing machine and dryer. With respect to the “Residence Inn by Marriott” banner, the units are generally larger than short‑term rental units and include a kitchenette with a dishwasher, stove, microwave and small refrigerator. Cleaning service is provided daily, and breakfast is included.
+[7] According to Mr. Planas, the franchise agreement that the appellant signed with Marriott did not permit him to use the Marriott banners for long‑term rentals. However, nothing prevented the appellant from offering long‑term stays that it itself sold through its commercial division in Montréal. In addition, Marriott may, through its centralized reservation service, rent units in the appellant’s hotel on a long‑term basis. Mr. Planas provided a chart showing the percentage of nights for stays of more than 30 days and less than 30 days at his establishment (Exhibit A‑1, tab 7). It appears from this chart that stays of less than 30 days increased from 54.78% in 2004 to 74.91% in 2007. At the same time, stays of 30 days or more fell from 45.2% in 2004 to 25.1% in 2007. This indicated to Mr. Planas that the franchise agreement signed by the appellant with Marriott in 2003 had the positive effect of increasing the target clientele looking for stays from 5 to 29 days and decreasing long‑term rentals of 30 days or more. As Mr. Planas explained, stays of 30 days or more are a good basis for hotel operations but do not bring in as much money for the appellant as shorter stays. This is because clients who stay for a longer period negotiate lower rental rates, but the appellant is responsible for the same fixed costs. In fact, by using the "Residence Inn by Marriott" banner, the appellant is required under the franchise agreement to provide daily room cleaning service and breakfast.
+[8] Moreover, Mr. Planas and Mr. Cerri traced the source of the reservations for stays of 30 days or more (Exhibit A-1, tab 8). It was determined that in 2007 74.83% of these reservations were made by the hotel’s internal management in Montréal without going through Marriott’s central reservation service. It was not possible to determine the source of the other reservations. Accordingly, Mr. Cerri applied the figure of 74.83% to the total number of reservations of unknown origin on the assumption that those reservations must have been made in the same proportion by the hotel’s internal management without going through Marriott’s central reservation service. He therefore concluded that 94.28% of the reservations for stays of 30 days or more were made directly by the hotel’s internal management in Montréal without going through Marriott. According to Mr. Planas, this percentage is very plausible since it is very rare that reservations for stays of 30 days or more are made through Marriott given that the franchise agreement signed by the appellant was aimed at stays of less than 30 days. He even said that, after deciding to operate his hotel under the "Residence Inn by Marriott" banner, he had to work hard to retain the existing clientele for long‑term stays. From what I understand, until 2003, the year the franchise agreement was signed, the hotel, then in an inferior category, had many more clients for prolonged stays at lower rates. With the new Marriott banner, those clients were no longer as interested, which indicated to Mr. Planas that the arrival of Marriott was a disincentive to long‑term rentals rather than an incentive. He said that this also explains the reduction in rentals of 30 days or more, which the chart above demonstrates (Exhibit A‑1, tab 7).
+[9] This calculation suggested to him that almost all the reservations for stays of 30 days or more, which constitute an exempt supply, had no connection with the franchise agreement with Marriott, and that, as a result, the appellant was not required to pay the GST on the amounts remitted to Marriott.
+[10] Mr. Planas explained the advantages of operating under the Marriott banner. It provides access to the central reservation network, the customer loyalty program, software and business programs, the data processing system and to suppliers at better prices.
+[11] Moreover, the royalties paid to Marriott under the franchise agreement are calculated on the appellant’s annual gross room revenues, including the revenues from short- and long‑term rentals. According to Mr. Planas, this is standard practice in the hotel industry. Separate contracts are not entered into. Nonetheless, he said that the net result is advantageous to the appellant because the Marriott banner brings in a lot. In addition, he stated that Marriott uses the 2.5% royalties on annual gross room revenues for [translation] "marketing contributions" solely to advertise "Residence Inn by Marriott."
+[12] With respect to the royalties paid to Marriott that are related to a customer loyalty program (Marriott Reward Expenses) and to the costs of using Marriott’s reservation and invoicing system (Software Support, Hardware Expenses, Security Service), Mr. Planas stated that this was aimed at everything involving the short- and long‑term clientele, without distinction. Finally, the amount the appellant paid to Marriott for commissions is used only to reimburse the commissions Marriott pays to travel agencies for short‑term rentals. Mr. Cerri confirmed this.
+[13] Mr. Larivière did not testify as an expert but simply on his general knowledge of the hotel industry. He said that Marriott has a range of banners serving various markets. The banners respond to the needs of the clientele in terms of both the category of hotel (economy, average or superior quality) and the length of stay. Thus, the "Residence Inn by Marriott" banner is aimed at a target clientele of superior quality for stays varying from 5 to 29 days and, on the basis of certain statistics from the United States, the average stay is from 4 to 6 days. However, he also said that this banner (like all the others) could accept clients looking for shorter or longer stays. In other words, each banner seeks a primary market but accepts any clientele, depending on demand. He explained that the Marriott chain guarantees clients a high standard for maintenance and cleanliness of the premises and that clients expect to pay a higher price. According to him, the "Residence Inn by Marriott" banner has little impact on the rental of units for 30 days or more. As I understand it, he explained this by the reduced services in long‑term rentals whereas the "Residence Inn by Marriott" banner offers a standard number of services with the result that rates are higher.
+[14] For his part, Mr. Cerri explained why the amount of $5,939.72 had not been reported in determining the net tax for the period from October 2003 to December 2003. During that time, the hotel was undergoing major renovations, and one of Marriott’s regular clients, the Shriners Hospital, was transferred to the Clarion Hotel. The appellant invoiced the hospital, including the GST, and sent the full amount collected to the Clarion Hotel. Mr. Cerri confirmed that the Clarion Hotel had remitted the entire amount of the tax collected to the government, but he had no evidence with him to substantiate this. He explained that he was not the appellant’s controller at that time but that he probably would have done the same thing. He explained that the net result would have been the same had the tax collected from the Shriners Hospital been reported and reduced by an equivalent amount for the input tax credits (ITCs) on the tax paid to the Clarion Hotel. In his view, the appellant was not required to include that amount in its net tax return for this period. Moreover, he confirmed that the appellant was collecting GST on every short‑term rental (less than 30 days) and was not collecting it for long‑term rentals (30 days or more) because the latter were exempt supplies. He also confirmed that the appellant’s books showed that 30% of the appellant’s total revenues were derived from long‑term rentals and 70% from short‑term rentals. In this context, the appellant generally claimed ITCs in a ratio of 70%.
+[15] Ms. Jean‑Baptiste determined the GST payable by the appellant on 30% of the royalties paid to Marriott since that was the percentage of the appellant’s gross room rentals that were derived from long‑term rentals, which are exempt supplies. The appellant was required to pay tax on the royalties remitted to Marriott under section 218 of the ETA because it was the recipient of an imported taxable supply that was not acquired in the course of commercial activities. Commercial activity is defined in section 123 of the ETA and excludes the making of exempt supplies.
+[16] With respect to the amount determined for the prescribed period of 2003, she was of the view that, without a mandator‑mandatary (principal-agent) contract between the appellant and the Clarion Hotel or re-invoicing the latter, the appellant could not transfer the amount of tax collected from the Shriners Hospital to the Clarion Hotel but was required to remit that amount to the government. As soon as the appellant itself invoiced the hospital, its fiscal duty was to collect (which it did) and to remit the tax to the government (which it failed to do). In this context, she determined that the appellant had made a misrepresentation that was attributable to neglect, carelessness or wilful default and that the Minister was justified in assessing the appellant on that amount beyond the statute-barred period.
+Analysis
+I. Assessment under section 218 of the ETA
+[17] As stated above, the assessment of $30,720.51 made in this connection is now reduced to $27,290.23 to reflect the respondent’s concession of $3,430.28 with respect to the royalties paid by the appellant to Marriott for commissions paid to travel agents on short‑term rentals.
+[18] Under section 218 of the ETA, the recipient of an imported taxable supply is required to pay tax on the value of the consideration for the supply. An imported taxable supply is defined in section 217 of the ETA. In the case at bar, subparagraphs (a)(i) and (c)(i) apply. Thus, an imported taxable supply is the taxable supply of a service or intangible personal property made outside Canada to a person who is resident in Canada, other than a supply of a service or property that is acquired for consumption, use or supply exclusively in the course of commercial activities of the person residing in Canada. If we transpose these terms here, the royalties paid by the appellant to Marriott for the use of the "Residence Inn by Marriott" banner and the services associated with it are the consideration for the imported taxable supplies unless it is determined that the appellant acquired the right to use the banner and the services for consumption, use or supply exclusively in the course of its commercial activities. A commercial activity is defined in section 123 of the ETA as, inter alia, a business carried on [by a person] . . . except to the extent to which the business involves the making of exempt supplies. A supply of a residential complex or a residential unit in a residential complex by way of lease for the purpose of its occupancy as a place of residence or lodging by the same individual for a period of at least one month is an exempt supply under paragraph 6(a) of Part I of Schedule V to the ETA. The term "exclusive" is defined in section 123 of the ETA as meaning all or substantially all of the consumption, use or supply of a property or a service.
+[19] In the appellant’s view, it acquired the franchise rights from Marriott for consumption, use or supply exclusively in the course of its commercial activities. It claims that it acquired these rights with the sole intention of increasing the hotel’s short‑term rentals, for which it collects the GST from its clients, which is a “commercial activity” under the ETA. It submits that all or substantially all of the long‑term rentals, which are exempt supplies and therefore not commercial activities under the ETA, are made by its internal sales team, not by Marriott’s central reservation service. Consequently, the applicant says, long‑term rentals have no impact and are separate from the franchise agreement signed with Marriott. For these reasons, it submits that it was not required to pay tax on the royalties paid to Marriott because the supplies acquired from Marriott fall under the exception in subparagraphs (a)(i) and (c)(i) of the definition of "imported taxable supply" in section 217 of the ETA.
+[20] For its part, the respondent is of the view that the appellant has not demonstrated that the long‑term rentals were not connected to the franchise agreement with Marriott. In support of its arguments, the respondent submits that the royalties paid to Marriott for the use of its banner were calculated based on a percentage of the appellant’s gross room revenues, including long‑term rentals. Since the appellant believed that 30% of its gross room revenues were derived from long‑term rentals, the Minister assessed the tax on 30% of the royalties paid to Marriott during the period at issue.
+[21] In my view, the respondent is correct. I find that the evidence is not sufficiently cogent to determine that the royalties paid to Marriott under the franchise agreement for the use of the "Residence Inn by Marriott" banner did not constitute imported taxable supplies in a 30% ratio, under section 217 of the ETA.
+[22] The appellant attempted to demonstrate that by acquiring the "Residence Inn by Marriott" banner, it undertook to pay royalties to Marriott for the use of Marriott’s services related to the rental of units for stays of less than 30 days quasi‑exclusively. At least, that is what emerges from the testimony of Messrs. Planas and Larivière. As I have already stated, Mr. Larivière did not testify as an expert but simply shared his general knowledge of the hotel business.
+[23] A careful reading of the franchise agreement shows that the concept of the "Residence Inn by Marriott" banner is defined as follows in the preamble (Exhibit A‑1, tab 4, page 1):
+WHEREAS, Franchisor [Marriott] and its affiliates and predecessors have developed and own a concept and system (“System”) for the establishment and operation of hotels under the names “Residence Inn by Marriott” and “Residence Inn,” which typically feature suites with living rooms, fireplaces, fully-equipped kitchens and breakfast bars, patios or balconies, sleeping quarters and baths, recreational facilities and swimming pools; all references herein to the “System” shall be to the Residence Inn by Marriott System in the United States and Canada;
+WHEREAS, the distinguishing characteristics of the System, all of which may be changed, improved or further developed by Franchisor, include, without limitation:
+1. The trade names, trademarks and service marks “The Residence Inn,” “Residence Inn by Marriott [sic], “Gatehouse,” and “Residence Inn-Sider,” and such other trade names, trademarks and service marks as are now or as may hereafter be designated by Franchisor in writing as part of the System (“Proprietary Marks”);
+2. design & construction criteria documents for Residence Inn by Marriott hotels;
+3. high standards of cleanliness, quality and service as prescribed in the Residence Inn by Marriott System Standards Manual (the “Manual”);
+4. management training;
+5. advertising, marketing and promotional programs;
+6. the Residence Inn by Marriott Reservation System; and
+7. the Residence Inn by Marriott Property Management System.
+[24] The entire contract subsequently refers to "System" to designate the "Residence Inn by Marriott" or "Residence Inn" banners.
+[25] Although I realize after reading the preamble and other provisions in the agreement that this banner may be directed to a superior category hotel (as Mr. Larivière suggested), there is no indication or reference anywhere regarding the targeted clientele’s length of stay. Royalties must be paid in accordance with "gross room revenues", which is defined as follows in paragraph III. I of the agreement at page 6:
+I. "Gross room revenues" as used herein shall include all gross revenues attributable to or payable for rental of guest suites at the Hotel including, without limitation, all credit transactions, whether or not collected, but excluding (i) any sales taxes, room taxes, or goods or services taxes collected by Franchisee [appellant] for transmittal to and sent to the appropriate taxing authority, and (ii) any revenues from sales or rentals of ancillary goods, such as VCR rentals, telephone income and fireplace log sales. Gross room revenues shall also include the proceeds from any business interruption insurance applicable to loss of revenues due to the non-availability of guest rooms and for guaranteed no-show revenue that is collected. Gross room revenues shall be accounted for in accordance with the Uniform System of Accounts for Hotels Ninth Revised Edition 1996 as published by the Hotel Association of New York City, Inc. or any later edition or revision that Franchisor approves or designates.
+[26] No distinction is made between short‑term and long‑term rentals. At various places in the agreement, reference is made to the superior quality of establishments managed under the "Residence Inn by Marriott" banner (or the "System", which is the name used to refer to this banner in the agreement), but there is no reference or association made between the “Residence Inn by Marriott” banner or the “System” and the clientele’s length of stay.
+[27] The appellant tried using another method to show that long-term rentals were not related to the use of the "Residence Inn by Marriott" banner. It wanted to demonstrate that all or substantially all of the reservations for stays of 30 days or more were made by the hotel’s internal management in Montréal. According to Exhibit A-1, tab 8, the source of the reservations made directly from Montréal in 2007 was traced, and that resulted in a percentage of 74.83. The extrapolation of the appellant’s calculations to attribute the same percentage to the reservations of unknown origin (and thus to arrive at the figure of 94.28% of reservations made by the hotel’s commercial management in Montréal without going through the Marriott banner) appears unfounded to me. On the one hand, applying the same percentage seems completely arbitrary and unverified to me. On the other hand, if it was possible to trace the reservations made by the hotel’s internal management, it is difficult to imagine that the reservations of unknown origin could have also been made by the hotel management. If that had been the case, it seems to me that they would have been traced in the same way as the others. In my view, the appellant’s approach is rather incongruous and is not based in any way on any probative evidence.
+[28] Moreover, the appellant argued that, even if the 94.28% were not accepted, the 74.83% could be regarded as sufficient to say that all or substantially all of the reservations for long‑term stays were made by the hotel’s internal management in Montréal. Its counsel referred to certain cases that hold that the percentage to be applied to satisfy the condition set by Parliament when it used the expression "all or substantially all" may be less than 90% (which is the administrative standard required by the Minister). In McDonald v. Canada, [1998] T.C.J. No. 621 (QL), Judge Rip stated that the so‑called "90% rule" is a rule of thumb but that the expression is elastic and does not convey "the concept of an ascertainable proportion of the whole". That case involved determining the percentage of the distance driven by a taxpayer in connection with his employment under subsection 6(2) of the Income Tax Act (ITA), and he decided that 85% could be considered "all or substantially all". In Keefe v. The Queen, 2003 TCC 791, Justice Sheridan found that 81% of the distance driven in the course of employment could be considered "all or substantially all" of the distance travelled in the course of employment for the purposes of the ITA. In McKay v. Canada, [2000] T.C.J. No. 712 (QL), Judge Rip held that an 80% use of a vehicle in the taxpayer’s business was sufficient to say that the vehicle was used "exclusively" in commercial activities under the ETA. In Watts v. The Queen, 2004 TCC 535, Justice Bowman decided that an amount varying from 76% to 81% of the taxpayer’s income that was taxable in Canada over a three‑year period could qualify as "all or substantially all". He held that the difference between 81, 77 and 76 (or 81, 81 and 76), depending on the calculation, was not large enough to warrant a different treatment in the three years.
+[29] I conclude from these cases that the meaning to be given to the expression “all or substantially all” must be left to the discretion of the trier of fact, to decide as best he or she can according to the circumstances of each case. In this case, internal management in Montréal made 74.83% of the reservations for long‑term stays for 2007 (Exhibit A-1, tab 8). We do not have the figures for the preceding years, which would certainly have helped. In Watts, above, Justice Bowman knew the percentages for each of the three years and took care to say that the difference between 81% and 76% was not large enough to warrant a different treatment. Would his decision have been the same if the cap of 80% had not been reached in any of the years? In my opinion, there is a limit to be observed. Parliament used the expression "all or substantially all", which means, in my view, that the figure must be closer to the totality than half‑way between the majority and the totality.
+[30] In the particular circumstances of this case, it would have been more than desirable to have the data for each year. Although I understand that this would have required substantial effort, the fact is that the onus is on the appellant, and it is incumbent on it to demonstrate that all or substantially all of the royalties paid to Marriott were used for short‑term rentals. In my view, it has failed to do so. The appellant did not provide data on the reservations made by the Marriott reservation centre. In addition, Mr. Planas acknowledged that one of the advantages of the franchise agreement was, in fact, being able to benefit from the Marriott reservation centre. The franchise agreement does not stipulate anywhere that Marriott undertook to make reservations for rentals that are exclusively or all or substantially all short- term rentals, and to make a minimum percentage of long‑term reservations. The evidence revealed that the "Residence Inn by Marriott" banner focused on stays of 5 to 29 days, but Mr. Planas himself acknowledged that Marriott could make reservations for long‑term stays. Rentals for 30 days or more decreased over the years, but based on the appellant's data they currently stand at 25% according to the chart in Exhibit A-1, tab 7, and 30% according to the books. This is still significant.
+[31] I therefore find that the royalties paid to Marriott to have the right to use its banner and the other services (which royalties are calculated on the gross room rentals that the appellant generates) also include revenues from long‑term rentals. Since, according to the appellant’s books, 30% of its rental revenues are derived from the rental of units for 30 days or more,[1] which constitutes an exempt supply under the ETA, the respondent was justified in requiring the GST on 30% of the royalties paid to Marriott during the period at issue, under sections 217 and 218 of the ETA. However, the respondent conceded the portion attributable to the commissions paid to travel agents on the basis that these commissions were paid only for short‑term rentals. The appeal will therefore be allowed on this point to reduce the amount of the assessment by the amount conceded ($3,430.28).
+II Assessment for the statute-barred period in 2003
+[32] Subsection 298(4) of the ETA allows the Minister to make an assessment at any time where the person to be assessed has made a misrepresentation that is attributable to the person’s neglect, carelessness or wilful default. The appellant acknowledges that it collected the GST on the rental expenses for which it itself invoiced the Shriners Hospital but that it did not remit the GST to the government because it transferred the amounts collected to the Clarion Hotel, which had actually provided accommodation to the client. The respondent must first prove that the appellant made a misrepresentation. Mr. Cerri contends there was none since the net result would have been the same had the tax been reported because it would have been cancelled out by the equivalent ITCs. The respondent submits that, in order to be entitled to ITCs, the appellant was required to send an invoice, which it did not do.
+[33] The appellant does not dispute that it invoiced the Shriners Hospital, collected the GST and did not remit it to the government. Nor does it dispute that it did not invoice the Clarion Hotel. In this context, it appears that the appellant did not comply with the ETA. Under sections 221, 225 and 228 of the ETA, a registrant that collects the GST when it makes a taxable supply must remit to the Receiver General the positive amount of its net tax for a reporting period. In this case, the appellant had to claim an equivalent amount of ITCs to reduce the positive amount of the net tax to zero by providing the documentation required under section 169 of the ETA and under the applicable regulations on the necessary information for an ITC claim. This was not done. Therefore, a misrepresentation was made.
+[34] The next question is whether the misrepresentation was attributable to neglect, carelessness or wilful default. There will be negligence where the respondent establishes that the appellant did not exercise reasonable care (Venne v. Canada, [1984] F.C.J. No. 314 (QL)). If the taxpayer demonstrates that even with the exercise of due diligence the mistake was unavoidable, there will be no negligence. Moreover, good faith does not amount to due diligence (see Pillar Oilfield Projects Ltd. v. The Queen, Tax Court of Canada, 93-614 (GST)I, November 19, 2003, pages 5, 6 and 10, [1993] G.S.T.C. 49, pages 49‑4 and 49‑7). In addition, there will be carelessness if the person failed to make reasonable efforts to comply with the Act (Misiak v. The Queen, 2011 TCC 1, which refers to Bérubé v. Canada, [2002] T.C.J. No. 107 (QL)). In this case, we do not know what really happened. We did not have the version of the then‑controller. We note that the provisions of the Act were not followed correctly. In addition, although the onus was not on the appellant, Mr. Cerri took the trouble to say before the Court that he had taken the necessary steps to ensure that the GST collected by the appellant from the Shriners Hospital in the 2003 reporting period at issue had been remitted by the Clarion Hotel. If that were the case, I find it a little strange that he did not bring the documentary evidence on this point or, at the very least, some kind of evidence of the checks he conducted.
+[35] The appellant knew the rules about collecting and remitting tax because it collected taxes regularly on all short‑term rentals. In my opinion, it cannot be said that the mistake was unavoidable. In addition, the appellant gave no indication that it had obtained a professional opinion prompting it, after a thoughtful, deliberate and careful analysis, to not report the tax it had collected, with the assurance that the net tax would be reduced to zero through the ITC claim (see Regina Shoppers Mall Limited v. The Queen, 90 DTC 6427, 1990 CarswellNat 344 (F.C.T.D.), affirmed by the Federal Court of Appeal, [1991] F.C.J. No. 52 (QL), 91 DTC 5101, 1991 CarswellNat 382; Reilly Estate v. The Queen, 84 DTC 6001, 1983 CarswellNat 357 (F.C.T.D.)). Furthermore, the fact that the amount collected was not included in the net tax return meant that the Minister could not necessarily detect the error during the normal assessment period (see General Park Motors Ltd. v. The Queen, 2009 TCC 409).
+[36] Therefore, in my view, the appellant failed to exercise reasonable care in the circumstances. Consequently, I find that the respondent has demonstrated that the appellant made a misrepresentation attributable to its neglect, carelessness or wilful default by not reporting the tax collected in the amount of $5,939.72 for the reporting period from October 2003 to December 2003.
+[37] As stated at the outset, the respondent concedes the amount of $1,092.62 for the reporting period from October 2004 to December 2004.
+Decision
+[38] For these reasons, the appeal is allowed only to reflect the concessions made by the respondent, and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the amount of $30,720.51 assessed under section 218 of the ETA should be reduced to $27,290.23 and that the tax of $1,092.62 assessed for the period from October to December 2004 should be cancelled. Interest and penalties are to be readjusted accordingly.
+Costs
+[39] Since the respondent waived its costs, each party shall bear their own costs.
+Signed at Ottawa, Canada, this 7th day of July 2011.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+On this 22th day of September 2011
+François Brunet, Revisor
+CITATION: 2011 TCC 336
+COURT FILE NO.: 2009-2793(GST)G
+STYLE OF CAUSE: reluxicorp Inc. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: June 13, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: July 7, 2011
+APPEARANCES:
+Counsel for the appellant:
+Louis Tassé
+Marie‑Claude Marcil
+Counsel for the respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the appellant:
+Name: Louis Tassé
+Marie-Claude Marcil
+Firm: Couzin Taylor s.r.l.
+Montréal, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Both parties agreed on 30% of exempt supplies as reflecting a fair and reasonable method for establishing the appellant's right to ITCs under section 169 of the ETA (in accordance with the terms used in subsection 141.05 of the ETA, to determine the extent to which the property or service was acquired to make a taxable supply).

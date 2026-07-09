@@ -1,0 +1,154 @@
+---
+title: "DaSilva v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/309165/index.do"
+last_modified: "2018-04-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 74"
+citation2: ""
+neutral_citation: "2018 TCC 74"
+decision_date: "2018-04-19"
+language: "en"
+item_id: "309165"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7441
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:50:07.095000+00:00"
+cases_cited_count: 6
+cases_citing_count: 10
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "40c1e8987dc2de69d7691b99180df2b97350346dbdae6a69455ecd2d6227b4b3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# DaSilva v. The Queen
+
+- Citation: 2018 TCC 74
+- Decision date: 2018-04-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7441, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DaSilva v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-04-19
+Neutral citation
+2018 TCC 74
+File numbers
+2017-840(GST)I
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2017-840(GST)I
+BETWEEN:
+KERRY DaSILVA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 9, 2018, at Toronto, Ontario
+Before: The Honourable Justice David E. Graham
+Appearances:
+Counsel for the Appellant:
+John Sorensen
+Counsel for the Respondent:
+Sabina Burdo (student-at-law) Rita Araujo
+JUDGMENT
+The appeal of the denial of the GST/HST new housing rebate is allowed without costs and the matter referred back to the Minister for reassessment on the basis that the Appellant is entitled to the rebate.
+Signed at Ottawa, Canada, this 19th day of April 2018.
+“David E. Graham”
+Graham J.
+Citation: 2018 TCC 74
+Date: 20180419
+Docket: 2017-840(GST)I
+BETWEEN:
+KERRY DaSILVA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] Kerry DaSilva applied for a GST/HST new housing rebate. The Minister of National Revenue denied the rebate. Ms. DaSilva appealed that denial. The Respondent brought a preliminary motion to quash the appeal on the grounds that the preconditions for filing the appeal were not met. Specifically, the Respondent submits that Ms. DaSilva failed to object to the assessment within the time limited for doing so, failed to apply for an extension of time to object within the time limited for doing so and is now out of time to make such an application. Since objecting to an assessment is a precondition to appealing the assessment to this Court, the Respondent submits that the appeal should be quashed. [1]
+[2] By contrast, Ms. DaSilva takes the position that she filed a notice of objection within the 90-day time period for doing so, that she then waited the required 180 days to see if the Minister would deal with the objection and that, when the Minister failed to do so, she exercised her right to appeal directly to this Court. [2]
+[3] While these seem like drastically different positions, the parties’ disagreement essentially comes down to one issue: When was the notice of assessment sent? The Respondent says that the notice of assessment in question was mailed on January 11, 2013. Ms. DaSilva admits that, if the notice of assessment was mailed on that date, the appeal should be quashed. Ms. DaSilva says that the notice of assessment was not mailed on January 11, 2013, but rather that it was first sent on August 22, 2016 when a CRA Collections officer provided her with a copy of it. The Respondent admits that, if the notice of assessment was first sent on that date, Ms. DaSilva objected within time and the appeal should not be quashed. Thus, the only issue on this preliminary motion is when the notice of assessment was sent.
+[4] The Tax Court of Canada and Federal Court of Appeal have had many opportunities to consider what happens when a taxpayer alleges that the Minister did not mail a notice of assessment or a notice of confirmation. I have previously summarized the steps that have emerged from those cases in respect of notices of assessment (see Mpamugo v. The Queen [3] ) and notices of confirmation (see Boroumend v. The Queen [4] ) under the Income Tax Act. I reproduce those steps below, with the modifications necessary to cover notices of assessment issued under the Excise Tax Act.
+a) Step 1: The taxpayer must assert that the notice of assessment was not sent. [5] A taxpayer normally does so in one of two ways. The taxpayer may assert that he or she did not receive the notice of assessment and thus believes that it was not mailed. Alternatively, the taxpayer may assert that the notice was mailed to the wrong address through no fault of the taxpayer and was thus, in effect, not mailed. The Federal Court of Appeal has made it clear that if the taxpayer’s assertion is not credible, there is no need to proceed to Step 2. [6]
+b) Step 2: If the taxpayer asserts that the notice of assessment was not sent, the Minister must introduce sufficient evidence to prove, on a balance of probabilities, that the notice of assessment was indeed sent or, if the taxpayer has asserted that it was sent to the wrong address, that it was sent to the address that the CRA properly had on file. [7]
+c) Step 3: If the Minister is able to prove that the notice of assessment was sent, then the sending is presumed to have occurred on the date set out on the notice (subsection 335(10)). This is a rebuttable presumption. [8] The taxpayer may introduce evidence to prove that it was actually sent on a different date. The deadline for filing a notice of objection is calculated from the date established by this step (subsection 301(1.1)).
+d) Step 4: Once the sending date is established (either through the presumption or through proof of a different date), the assessment is deemed to have been made on that date (subsection 335(11)) and the notice of assessment is deemed to have been received on that date (subsection 334(1)). These deeming provisions are not rebuttable. [9] Step 4 is not strictly relevant for the purpose of determining the deadline for filing a notice of objection. That determination is made in Step 3. Step 4 simply makes it clear that the fact that a taxpayer did not actually receive the notice of assessment is irrelevant.
+Step 1: Credible assertion that the notice of assessment was not mailed
+[5] Ms. DaSilva has asserted that the notice of assessment in question was not mailed. I heard the testimony and cross-examination of Ms. DaSilva and her mother, Margaret DaSilva. I found both of them to be credible witnesses. Ms. DaSilva was assessed in three different ways in respect of the same condo purchase and sale. She and her mother testified that Ms. DaSilva received an income tax notice of reassessment and a HST notice of assessment and objected to both of them but did not receive the GST/HST rebate notice of assessment in issue. I find it very unlikely that Ms. DaSilva would have received three notices of assessment related to the purchase and sale of a condo and objected to only two of them. Accordingly, I find that Ms. DaSilva has raised a credible assertion that the Minister did not mail the notice of assessment in issue.
+Step 2: Proof of Mailing
+[6] Since Ms. DaSilva has raised a credible assertion that the notice of assessment was not mailed, the Minister must prove that it was. Given the size of the CRA's operations and the sheer number of notices of assessment that are mailed each year, the Minister will generally adduce evidence indicating the normal procedure that is followed by the CRA in mailing notices of assessment and provide a reason why the Court should accept that that procedure was followed in the taxpayer's case.
+[7] The Respondent relies on the affidavit of Trevor Neill to prove that the notice of assessment was mailed to Ms. DaSilva. Mr. Neill is a manager in the Print to Mail Division at the CRA. Mr. Neill was cross-examined at the hearing. I found him to be a credible and knowledgeable witness.
+[8] Subsection 335(6) sets out specific requirements that must be met in order for the Minister to rely on an affidavit to prove mailing. Mr. Neill’s affidavit does not satisfy these requirements. Mr. Neill sets out in detail how the mailing system works at the CRA. Mr. Neill has personal knowledge of that system. I accept his evidence in this regard. However, Mr. Neill relied on a senior programs officer named Stacey Dougay to provide him with a key piece of information. That key piece of information is the number of the business client communications system cycle (the “BCCS cycle”) in which Ms. DaSilva’s notice of assessment was to be printed. Mr. Neill personally confirmed that the BCCS cycle whose number was provided by Ms. Dougay ran without errors. It was on that basis that he concluded that Ms. DaSilva’s notice of assessment had been mailed. The problem is that Mr. Neill did not have personal knowledge of which BCCS cycle contained Ms. DaSilva’s notice of reassessment. Subsection 335(6) requires that, if the Minister wants to rely on an affidavit to prove mailing, the affiant must have charge of the appropriate records and must have reviewed them. Mr. Neill cannot be said to have reviewed the records that were, in fact, reviewed by Ms. Dougay.
+[9] The fact that this portion of Mr. Neill's affidavit does not comply with subsection 335(6) does not mean that I must disregard it. If the Minister is unable to provide an affidavit that complies with subsection 335(6), the Court must weigh the evidence provided by the Minister against the evidence provided by the taxpayer in order to determine whether it is more likely than not that the notice was mailed.
+[10] Mr. Neill’s evidence regarding the BCCS cycle is based on information and belief. Section 72 of the Tax Court of Canada Rules (General Procedure) permits affidavit evidence based on information and belief to be admitted if the source of the information and the fact of the belief are stated in the affidavit. Any concerns about the necessity of the resulting hearsay evidence or its reliability go to the weight the Court should give to the evidence. Mr. Neill’s affidavit complies with section 72. He identifies which statements are made on information and belief and states the sources of that information and his belief in them. Accordingly, I find Mr. Neill’s evidence regarding the BCCS cycle to be admissible. However, the question of how much weight I should give to that evidence remains.
+[11] It clearly would have been preferable to have an affidavit from Ms. Dougay in respect of the BCCS cycle. This is important evidence, without which all that I have is evidence as to how the mailing system works and evidence that it worked properly on one occasion. There is nothing to link that occasion to Ms. DaSilva’s notice of assessment. I know that a specific BCCS cycle was successfully mailed but I do not know that Ms. DaSilva’s notice of assessment was part of that cycle. Ms. DaSilva was deprived of the opportunity to cross-examine anyone in respect of that issue even though Ms. Dougay is employed by the CRA and, in fact, works in the same office as Mr. Neill. I am not satisfied that there was any necessity for the Respondent to rely on information and belief in Mr. Neill’s affidavit. The Respondent could easily have obtained an affidavit from Ms. Dougay on that issue. As a result, I give no weight to that portion of Mr. Neill’s affidavit.
+[12] I am thus left with unsatisfactory evidence that the notice of assessment was mailed to be balanced against credible evidence that it was never received. In the circumstances, I find that the Respondent has failed to discharge her burden of proving mailing.
+[13] Accordingly, the Respondent’s motion to quash the appeal is denied.
+Remaining Issue
+[14] The Respondent concedes that, if the motion to quash is denied, then the appeal should be allowed. Accordingly, the appeal is allowed and the matter referred back to the Minister for reassessment on the basis that Ms. DaSilva was entitled to the rebate.
+Signed at Ottawa, Canada, this 19th day of April 2018.
+“David E. Graham”
+Graham J.
+CITATION:
+2018 TCC 74
+COURT FILE NO.:
+2017-840(GST)I
+STYLE OF CAUSE:
+KERRY DaSILVA v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 9, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+April 19, 2018
+APPEARANCES:
+Counsel for the Appellant:
+John Sorensen
+Counsel for the Respondent:
+Sabina Burdo (student-at-law) Rita Araujo
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John Sorensen
+Firm:
+Gowling WLG (Canada) LLP
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The time limited for objecting is set out in subsection 301(1.1) of the Excise Tax Act. The time limit for applying for an extension of time is set out in paragraph 303(7)(a). The requirement that an objection be filed prior to appealing to the Tax Court of Canada is set out in section 306.
+[2] The ability to appeal directly to the Tax Court of Canada after 180 days is set out in paragraph 306(b).
+[3] 2016 TCC 215. Upheld on appeal (2017 FCA 136).
+[4] 2016 TCC 256. Upheld on appeal (2017 FCA 245).
+[5] Aztec Industries Inc. v. Canada, 1995 CarswellNat 278 (F.C.A.); Schafer v. R., 2000 CarswellNat 1948 (F.C.A.); applied in obiter to the GST context in Chomatas v. The Queen, 2013 TCC 319.
+[6] Mpamugo (F.C.A.) at paras. 11 and 12.
+[7] Schafer v. R., 2000 CarswellNat 1948 (F.C.A.); Scott v. Minister of National Revenue, [1961] Ex. C.R. 120 (Ex. Ct. Can.); The Queen v. 236130 British Columbia Ltd., 2006 FCA 352; Bowen v. Minister of National Revenue, 1991 CarswellNat 520 (F.C.A.).
+[8] McGowan (R.) v. Canada, 1995 CarswellNat 381 (F.C.A.) in obiter at para. 19.
+[9] Schafer (FCA).

@@ -1,0 +1,520 @@
+Title: Blais c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29735/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-195-29735-blais-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-04-09
+
+# Blais c. La Reine
+
+- Citation: 2010 CCI 195
+- Decision date: 2010-04-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6542, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blais c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-04-09
+Référence neutre
+2010 CCI 195
+Numéro de dossier
+2006-2103(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2103(IT)I
+ENTRE :
+JEAN-FRANÇOIS BLAIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec l’appel de
+Christiane Auray-Blais (2006-2106(IT)I),
+le 1er décembre 2008, à Sherbrooke (Québec).
+Devant : L'honorable juge Gaston Jorré
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 est accueilli, avec frais de 400 $, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci‑joints.
+Il est ordonné que le droit de dépôt de 100 $ soit remboursé à l’appelant.
+Signé à Ottawa, Canada, ce 9e jour d’avril 2010.
+« Gaston Jorré »
+Juge Jorré
+Dossier : 2006-2106(IT)I
+ENTRE :
+CHRISTIANE AURAY-BLAIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec l’appel de
+Jean-François Blais (2006-2103(IT)I),
+le 1er décembre 2008, à Sherbrooke (Québec).
+Devant : L'honorable juge Gaston Jorré
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 est accueilli, avec frais de 400 $, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci‑joints.
+Il est ordonné que le droit de dépôt de 100 $ soit remboursé à l’appelante.
+Signé à Ottawa, Canada, ce 9e jour d’avril 2010.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2010 CCI 195
+Date : 20100412
+Dossiers : 2006-2103(IT)I
+2006-2106(IT)I
+ENTRE :
+JEAN-FRANÇOIS BLAIS,
+CHRISTIANE AURAY-BLAIS,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉS
+[Ces motifs du jugement modifiés sont émis en remplacement des motifs du jugement signés le 9 avril 2010, et ce, pour corriger des erreurs découlant d’un lapsus ou d’une omission à la note 4 et aux paragraphes 25 et 97. À tout autre égard, les motifs du jugement demeurent inchangés.]
+Le juge Jorré
+INTRODUCTION
+[1] Les appelants appellent de leurs cotisations d’impôt pour l’année d’imposition 2002. Ils ont choisi la procédure informelle.
+COURT HISTORIQUE
+[2] À l’origine, il y avait un débat entre les parties pour savoir si les appelants faisaient ou non de la recherche scientifique et du développement expérimental (« RS&DE »). Cette question a été le sujet de décisions de cette Cour relativement à des années d’imposition avant l’année en litige et l’intimée accepte que les appelants faisaient de la RS&DE en 2002[1].
+[3] Le débat dans le présent litige n’était pas toujours facile à suivre. Le processus suivi dans les présentes causes est inhabituel. Sans faire tout l’historique, à un certain moment, le ministre du Revenu national[2] (le « ministre ») a voulu faire une vérification à l’égard de l’année en litige. Par contre, les appelants voulaient que les appels à l’égard d’années antérieures soient jugés en premier et ils ont refusé de produire les documents demandés. Après le refus, le ministre a établi des cotisations à l’endroit des appelants sans faire de vérification. Ces derniers ont déposé des avis d’opposition qui ont été mis en suspens pour un certain temps et les cotisations ont par la suite été ratifiées. Au stade de l’opposition, il n’y a pas eu de production de documents par les appelants ni de vérification par le ministre[3].
+[4] Ce n’est qu’après que les appelants ont déposé leurs avis d’appel en juillet 2006 que les appelants ont fourni des documents par lettre du 1er avril 2007. Le ministre a ensuite fait une vérification[4].
+POSITION DES APPELANTS AU MOMENT DE LA PRODUCTION DE LEURS DÉCLARATIONS DE REVENUS
+[5] Les appelants sont mariés et ils étaient associés dans une entreprise constituée en société de personnes et dénommée Société Christiane Auray-Blais et Jean‑François Blais (la « société »). Chacun des appelants avait une participation de 50 % dans la société. Les appels concernent les activités de la société de personnes.
+[6] Cette société faisait de la RS&DE.
+[7] Aux fins de leurs déclarations de revenus, les appelants ont utilisé l’état des résultats suivant[5] :
+SOMMAIRE DE LA SOCIÉTÉ POUR L’ANNÉE 2002
+[…]
+Revenu de location et autres
+12 425,68 $
+Traitement d’un sociétaire recherche
+(5 000,00 $)
+Total des dépenses de recherche pour CII
+(32 543,79 $)
+Crédits (CII) de recherche au Fédéral (2001)
+7 508,76 $
+Immobilisation
+Amortissement
+(12 259,27 $)
+Frais généraux (intérêts payés) R & D
+(7 034,28 $)
+Compte de dépenses de recherche de fin d’année
+(49 328,58 $)
+PERTE OU GAIN DE LA SOCIÉTÉ
+(36 902,90 $)
+[8] M. Blais a déclaré dans sa déclaration de revenus une perte de 13 451,45 $ provenant de la société[6]. Le montant de 13 451,45 $ représente la moitié de la perte de la société, 18 451,45 $, moins le salaire de 5 000 $ à la deuxième ligne de l’état précité. Le résultat est le même que si M. Blais avait inclus le salaire de 5 000 $ et déduit le montant de 18 451,45 $.
+[9] Mme Auray-Blais a réclamé une perte de 18 451,45 $[7], soit la moitié de la perte de 36 902,90 $ de la société.
+[10] M. Blais a également réclamé un crédit d’impôt à l’investissement (« CII ») de 3 758,29 $[8], soit 20 % de la moitié des dépenses courantes de 33 450 $ et 20 % de la moitié des dépenses en capital de 4 094 $[9]. Le montant du CII réclamé par Mme Auray‑Blais n’est pas en preuve[10].
+Les cotisations d’août 2004
+[11] À la suite du refus de fournir des documents, l’Agence du revenu du Canada (l’« ARC ») a établi des cotisations à l’endroit des appelants[11]. L’ARC a pris comme point de départ un état des résultats révisé que les appelants ont adopté et signé le 21 décembre 2003[12] :
+SOMMAIRE DE LA SOCIÉTÉ DE RECHERCHE POUR 2002
+[…]
+Revenus
+12 425,68 $
+Dépenses courantes de recherche
+28 450,26 $
+Dépenses en capital[13]
+4 093,53 $
+Frais généraux [intérêts]
+7 034,28 $
+Traitement d’un sociétaire recherche
+5 000,00 $
+Immobilisation [amortissement]
+12 259,27 $
+Total des dépenses de recherche
+56 837,34 $
+Total des gains ou pertes
+(44 411,66 $)
+[12] Dans les cotisations d’août 2004, les changements suivants ont été faits par rapport aux déclarations de revenus :
+a) La perte de la société a été recalculée :
+i) en refusant la déduction pour salaire de 5 000 $,
+ii) en refusant les dépenses en capital de 4 093,53 $;
+iii) par contre, l’ARC a accordé 18 234 $ en déduction pour amortissement au lieu du montant de 12 259,27 $ réclamé;
+iv) l’ARC a par ailleurs accepté que la société avait fait toutes les autres dépenses que l’ARC n’avait pu vérifier.
+Ceci a donné le résultat[14] suivant :
+Revenus :
+Location et autres
+12 425,68
+C.I.I. pour rs&de de l’année 2001
+0,00
+Total revenu
+12 425,68
+Dépenses :
+Opérations :
+Salaire d’un sociétaire
+0,00
+Matériaux
+28 450,26
+Frais généraux : intérêts
+7 034,28
+Amortissement : alloué
+18 234,00
+Dépenses en capital
+0,00
+Total des dépenses
+53 718,54
+Total partiel
+-41 292,86
+Moins :
+Traitement d’un sociétaire
+0,00
+Perte nette
+-41 292,86
+L’ARC a divisé cette perte en parts égales entre les appelants.
+b) Ceci a eu pour effet d’augmenter la perte réclamée par M. Blais de 13 451,45 $ à 20 646,43 $. Par contre, dans le cas de Mme Auray-Blais, la perte a diminué de 18 451,45 $ à 9 073,22 $ parce que l’ARC a appliqué l’article 31 de la Loi de l’impôt sur le revenu (la « LIR »)[15].
+c) L’ARC a par ailleurs supposé que les appelants n’avaient exercé aucune activité de RS&DE[16] et, en conséquence, a refusé toute réclamation de CII.
+[13] Ce n’est qu’après que les appelants ont déposé leurs avis d’appel en juillet 2006 qu’ils ont fourni des documents par lettre du 1er avril 2007. Le ministre a ensuite fait une vérification.
+[14] Les réponses ont été déposées le 27 avril 2007.
+POSITION DES PARTIES À L’AUDIENCE
+[15] Les avis d’appel du 5 juillet 2006, y compris l’annexe 1 du 7 juillet 2006[17], sont très courts et se limitent à affirmer que l’ARC a tort de ne pas accorder les dépenses de RS&DE et les CII s’y rattachant[18]. Les avis d’appel ne soulèvent pas d’autres questions telles que le refus du salaire d’un sociétaire, M. Blais, et l’application de l’article 31 de la LIR à Mme Auray-Blais. Les avis d’appel ne fournissent aucun chiffre quant au montant des dépenses, mais en considérant la preuve, il est devenu évident que les montants au paragraphe 11 ci-dessus représentent le point de départ des appelants[19].
+[16] Les réponses aux avis d’appel de l’intimée ne tiennent compte qu’en partie de la vérification faite après les avis d’appel et n’incluent pas directement certains aspects de la position de l’intimée. Ladite position a dû être clarifiée à l’audience et était la suivante par rapport à l’état des résultats au paragraphe 11 ci‑dessus aux fins du calcul de la perte de l’entreprise[20] :
+a) L’intimée accepte que la société fait de la RS&DE.
+b) L’intimée accepte que le revenu de la société n’est pas un revenu agricole et que l’article 31 n’a aucune application.
+c) Les revenus de 12 425,68 $ de la société (voir le paragraphe 11 ci‑dessus) doivent être réduits de 2 425,68 $, soit les montants de TPS et de TVQ perçus par la société.
+d) Du montant de 28 450,26 $ pour les dépenses courantes de recherche selon l’état des résultats révisé du 21 décembre 2003[21] :
+i) il y a un montant de 3 033,99 $ en TPS et en TVQ payé par l’entreprise qui n’est pas déductible comme dépense de l’entreprise,
+ii) il y a un montant de 10 525,09 $ en dépenses personnelles non déductibles comme dépense de l’entreprise,
+iii) il y a un montant de 554,94 $ qui a été dépensé pour gagner un revenu, mais qui représente des dépenses en capital plutôt que courantes.
+En conséquence, les dépenses courantes doivent être réduites de 28 450,26 $ à 14 336,24 $.
+e) Le salaire de 5 000 $ n’est pas déductible.
+f) L’amortissement de 12 259,27 $ doit être augmenté à 15 506 $.
+g) Le montant des dépenses en capital déductibles est de 3 458,90 $ et non de 4 093,53 $[22].
+[17] Pour résumer, voici les revenus et les dépenses selon les appelants et selon le ministre :
+Contribuable[23]
+Ministre[24]
+Revenus
+12 425,68 $
+10 000,00 $
+Dépenses
+Dépenses courantes
+28 450,26 $
+14 336,24 $
+Dépenses en capital
+4 093,53 $
+3 458,90 $
+Intérêt
+7 034,28 $
+7 034,28 $
+Traitement de M. Blais
+5 000,00 $
+—
+Amortissement
+12 259,27 $
+15 506,00 $
+Total des dépenses
+56 837,34 $
+40 335,42 $
+Perte nette[25]
+44 411,66 $
+30 335,42 $
+Je parlerai plus tard du débat quant aux CII.
+FARDEAU DE LA PREUVE
+[18] Les réponses aux avis d’appel du ministre n’expliquent pas clairement toute la position du ministre. Elles ne le font que partiellement. De plus, il y a certains faits allégués au paragraphe 6 et aux annexes I et II des réponses qui résultent de la vérification faite après le dépôt des avis d’appel. Deux questions se posent.
+[19] Premièrement, dans la mesure où le fardeau de la preuve a une importance pratique[26], qui a le fardeau relativement aux faits allégués au paragraphe 6 et aux annexes des réponses?
+[20] Deuxièmement, quelle est la conséquence du fait que les réponses sont incomplètes ou imprécises quant à la position du ministre?
+[21] Quant au fardeau de la preuve, il est établi que l’appelant a le fardeau de réfuter les faits tenus pour acquis par le ministre. Il est établi que le ministre peut établir les faits qu’il tient pour acquis jusqu’au moment de la ratification d’une cotisation quand le contribuable a déposé un avis d’opposition[27].
+[22] Il est également bien établi qu’il faut aussi que les faits tenus pour acquis soient communiqués au contribuable pour que le fardeau incombe à l’appelant.
+[23] Il y a, entre autres, des considérations pratiques derrière ces principes. D’une part, le contribuable est mieux placé pour connaître ces circonstances, et ainsi pour prouver les faits; d’autre part, il faut que l’appelant sache ce qui est en litige afin de limiter le débat[28].
+[24] Ces principes et ces considérations sont reflétés dans le commentaire suivant de la Cour d’appel fédérale dans Hillsdale Shopping Centre c. Canada, [1981] A.C.F. no 544 (QL), 1981 DTC 5261 :
+22 Si un contribuable, après avoir examiné une nouvelle cotisation établie par le Ministre, la réponse du Ministre à son opposition et les moyens invoqués par le Ministre au cours de l'appel, n'a pas été informé de la base sur laquelle on cherche à l'imposer, le fardeau de prouver la responsabilité du contribuable dans une procédure semblable à celle de l'espèce incomberait au Ministre. Ce défaut peut résulter d'un certain nombre de motifs tels qu'un manque de clarté dans l'exposé du Ministre sur le fondement allégué de la responsabilité fiscale, ce qui pourrait comprendre une tentative du Ministre de rattacher cette responsabilité à l'un de deux ou plusieurs fondements possibles, ne permettant pas ainsi au contribuable de voir clairement l'hypothèse sur lequel il s'appuie.
+23 Dans tous les autres cas, il incombe au contribuable de réfuter l'allégation de responsabilité faite par le Ministre sur les hypothèses avancées. En l'espèce, pendant toute la procédure, l'appelante a été bien informée du fait que le Ministre avait cotisé une partie du produit de l'expropriation comme bénéfice provenant d'une entreprise contrairement à l'allégation du contribuable, de sorte que ce moyen d'attaque est sans fondement.
+[25] Nous sommes toutefois dans une situation très inhabituelle qui est différente des situations typiques. Dans les présentes causes, le ministre n’a pu faire de vérification avant la ratification parce que les appelants ont refusé de produire leurs documents. Je ne crois pas que la jurisprudence telle que Canada c. Anchor Pointe Energy Ltd., 2007 CAF 188, vise une situation comme celle-ci.
+[26] Vu les considérations pratiques derrière ces principes et les commentaires dans la décision Hillsdale que je viens de citer, dans les circonstances de l’espèce, où une vérification n’a pu être faite avant la ratification à cause de l’absence de collaboration des appelants, le fardeau de la preuve relative aux faits tenus pour acquis au moment de la vérification incombe aux appelants malgré le fait que la vérification a été faite après les avis d’appel.
+[27] Dans ce cas particulier, il y a une autre raison qui justifie cette conclusion en ce qui concerne la question suivante : quel est le montant des dépenses de RS&DE[29]? Au moment des cotisations, le ministre a, en effet, supposé qu’il n’y avait aucune dépense de RS&DE. Si les appelants avaient le fardeau de la preuve à l’égard de ces faits tenus pour acquis au moment des cotisations, il faudrait qu’ils prouvent tout au sujet des dépenses de RS&DE réclamées.
+[28] La conséquence de la position du ministre, telle qu’elle est exprimée au paragraphe 6 et aux annexes, est qu’il admet un certain nombre de choses que les appelants auraient à prouver si ce n’était pas le cas. Par exemple, le ministre admet que la société a fait de la recherche et il précise qu’un montant de 13 559,08 $ est refusé, parce qu’il s’agit de TPS ou de TVQ payée par la société et ensuite remboursée (3 033,99 $) ou de dépenses inadmissibles parce qu’il s’agit de dépenses personnelles (10 525,09 $). Il admet également qu’il y a des dépenses courantes de 14 336,24 $ pour la RS&DE et des dépenses en capital de 3 458,90 $ pour la RS&DE.
+[29] Il serait illogique que ces faits tenus pour acquis après le dépôt des avis d’appel et allégeant le fardeau de la preuve des appelants aient pour effet que le ministre ait le fardeau de la preuve en ce qui concerne le montant des dépenses de RS&DE. Sur cette question, le résultat pratique est le même que si le ministre avait fait des admissions par rapport aux faits tenus pour acquis au moment des cotisations et de la ratification des cotisations en ce qui concerne les dépenses de RS&DE[30].
+[30] Toutefois, comme il est expliqué dans Hillsdale, ce fardeau ne revient aux appelants que dans la mesure où les faits ont été communiqués aux appelants.
+[31] Il en résulte que relativement aux allégations au paragraphe 6, aux annexes et aux faits tenus pour acquis au paragraphe 5 des réponses, le fardeau de la preuve incombe aux appelants.
+[32] Dans les présentes causes, en appliquant Hillsdale, dans la mesure où il y a d’autres faits tenus pour acquis qui ne sont pas dans les réponses, mais qui ont été communiqués aux appelants, par exemple dans les cotisations ou avec celles-ci, le fardeau incombe également aux appelants[31].
+[33] J’ajouterai que ces faits additionnels doivent non seulement être communiqués clairement, mais qu’ils doivent aussi être communiqués suffisamment tôt pour que les appelants puissent raisonnablement se préparer pour l’audience. Cela n’est pas le cas des faits tenus pour acquis dans « la nouvelle proposition de cotisation de 2002 datée le 26-11-08 »[32], sauf pour la partie qui est tout simplement une répétition i) des annexes I et II des réponses[33] ou ii) d’informations communiquées clairement à un stade antérieur, comme le refus du salaire de M. Blais au moment des cotisations[34]. Pour ce qui est nouveau, vu que cette « nouvelle proposition de cotisation »[35] a été reçue par les appelants quatre jours avant le procès, il serait complètement déraisonnable que le fardeau de la preuve incombe aux appelants.
+RÉPONSES
+[34] Il reste la question des conséquences du fait que les réponses étaient imprécises sur certains points ou n’y faisaient pas référence. Je parlerai de cela de façon spécifique au moment où les questions se présenteront, mais le principe est le suivant : si la position n’était pas claire sur un point et que cela portait préjudice à la capacité de l’autre partie, les appelants, d’avancer leur cause, je dois résoudre la question en faveur des appelants[36].
+[35] Une question séparée se pose quant aux effets sur l’adjudication des dépens.
+ANALYSE DU MONTANT DE LA PERTE DE LA SOCIÉTÉ DE PERSONNES
+[36] Il y a cinq différences entre les positions des parties relativement au calcul de la perte incluse dans le revenu.
+I. Réduction du revenu
+[37] Le montant de TPS et de TVQ en question, soit 2 425,68 $, représente les crédits de taxe sur les intrants (les « CTI ») remboursés par le fisc[37]. L’intimée prétend qu’il faut exclure ce montant des revenus. Bien qu’en général les entreprises font le calcul des revenus et des dépenses hors TPS et TVQ, ceci n’est pas obligatoire. L’alinéa 12(1)x) de la LIR oblige l’inclusion du remboursement de la TPS, à moins que le contribuable choisisse de réduire ses dépenses du montant de TPS et de TVQ remboursables[38].
+[38] Dans les présentes causes, les appelants n’ont pas fait ce choix et veulent, d’une part, inclure les CTI et, d’autre part, déduire le montant de TPS et de TVQ payé qui fait partie de leurs dépenses déductibles. Le montant de 2 425,68 $ doit être inclus dans le revenu.
+II. Montant des dépenses courantes
+[39] Quant au montant de la perte, la catégorie « dépenses courantes » est celle où il y a la plus grande divergence. À la pièce I-2, l’intimée a fourni une analyse des montants refusés regroupés selon la nature de la dépense. Je vais examiner les dépenses catégorie par catégorie.
+[40] Les changements suivants qu’il faut faire selon les prétentions du ministre sont clairement énumérés au paragraphe 6 des réponses ou aux annexes où le ministre prend la position qu’il s’agit de dépenses personnelles ou des montants de TPS ou de TVQ payés. Il s’agit donc de questions où le fardeau de la preuve incombe aux appelants.
+i) TPS et TVQ
+[41] Il n’y a aucun litige quant au fait que les dépenses courantes comprenaient 3 033,99 $ en TPS et en TVQ. Les appelants n’ayant pas élu de réduire leurs dépenses selon l’alinéa 12(1)x) et le paragraphe 12(2.2) de la LIR, le montant de TPS et de TVQ payé pour les dépenses, par ailleurs déductibles, est déductible. En premier lieu, il faut ajouter la TPS et la TVQ de 2 154,02 $ au montant de 14 336,24 $ que le ministre a reconnu pour les dépenses[39]. Ensuite, il sera nécessaire d’inclure le montant de TPS et de TVQ payé pour toute autre dépense déductible.
+ii) Moulée[40]
+[42] La première catégorie des dépenses est un montant de 227,73 $ pour acheter de la moulée qui servait à nourrir un chien berger allemand et quelques chats.
+[43] M. Blais a témoigné que les chats en question ne vivaient pas dans la maison et servaient à protéger les cultures des rongeurs. Le chien servait de gardien et, entre autres, il éloignait les chevreuils.
+[44] J’accepte que ces animaux sont utiles à l’entreprise, mais vu que M. Blais a témoigné qu’il a toujours l’intention d’avoir un chien berger allemand et vu que le chien aide également à garder la maison[41], je conclus qu’il y a un élément de bénéfice personnel. En conséquence, le montant de moulée déductible sera de 150 $ plus 22,54 $ pour la TPS et la TVQ, un total de 172,54 $[42].
+iii) Frais d’automobiles : essence 457,07 $, réparations et Société de l’assurance automobile du Québec 2 258,23 $[43]
+[45] Le témoignage de M. Blais était qu’il se servait de deux véhicules. Mme Auray-Blais avait un troisième véhicule dont elle se servait et qui ne figurait pas dans les dépenses réclamées.
+[46] Vers le début de son témoignage, M. Blais a dit que les frais d’essence comprenaient une partie des montants pour du carburant diesel qui ne pouvait servir qu’à l’équipement agricole et que la majorité du montant pour l’essence n’était pas pour un usage personnel[44].
+[47] Plus tard dans son témoignage, il a dit qu’il utilisait le véhicule principalement pour aller chercher des produits et pour se rendre à des conférences ou à des consultations.
+[48] En contre-interrogatoire, M. Blais a semblé dire qu’il ne se sert pas ou presque pas des deux véhicules en question à des fins personnelles[45].
+[49] M. Blais a travaillé pour la société Innovations et intégrations brassicoles inc.[46] (« IIB inc. ») pendant l’année en litige, société qui était sa principale source de revenu[47]. De plus, il a dit qu’il exploitait une entreprise de conseil de gestion[48].
+[50] En contre-interrogatoire, quand on a demandé à M. Blais comment il se rendait aux conférences qu’il donnait, il a répondu que quelqu’un venait le chercher.
+[51] M. Blais n’a jamais gardé de carnet de route.
+[52] Je n’accepte pas que M. Blais n’ait fait aucune utilisation personnelle des véhicules en question. D’ailleurs, vers le début de son témoignage, il a parlé d’utilisation principalement pour affaires.
+[53] J’accepte qu’il y ait eu utilisation des véhicules aux fins de la société, mais il est difficile de voir comment le pourcentage d’utilisation par la société peut être établi.
+[54] La preuve ne révèle pas beaucoup l’étendue des activités de la société. Nous ne savons pas combien d’heures M. Blais consacrait à la société, à IIB inc. ou à son entreprise de conseil de gestion. Nous savons seulement qu’il a reçu un salaire de 40 000 $[49] de IIB inc. en 2002.
+[55] Mme Auray-Blais ne travaillait pour la société qu’à temps partiel parce qu’elle avait un emploi à temps plein comme directrice d’un programme de dépistage de nouveaux-nés qui faisait l’analyse génétique d’à peu près 90 % des nouveaux‑nés au Québec à l’aide d’échantillons d’urine.
+[56] Nous savons aussi que l’équipement de laboratoire était à la disposition de la société pendant 115 heures en 2002, un peu moins que trois semaines de 40 heures[50]. Rien n’indique le nombre d’heures des activités à l’extérieur du laboratoire[51].
+[57] En l’absence de preuves concrètes sur la proportion de l’utilisation pour affaires de la société, mais reconnaissant toutefois qu’il doit y avoir eu une telle utilisation, je conclus qu’il serait raisonnable d’accorder un montant de 1 000 $ pour les dépenses dans cette catégorie, plus 116,16 $[52] pour la TPS et la TVQ, ce qui fait un total de 1 116,16 $[53].
+iv) Dépenses non reliées à une piscine[54]
+[58] Malgré le fait que les trois articles en questions totalisant 56,64 $ ont été achetés des détaillants qui vendent de l’équipement pour piscines, j’accepte le témoignage de M. Blais selon lequel l’algicide acheté était utilisé pour combattre les bactéries au cours des expériences de laboratoire, et le thermomètre, pour mesurer la température au cours des expériences de la société. Il s’agissait de sources relativement peu coûteuses de ces produits. Le montant de 56,64 $ est déductible, plus 8,47 $[55] pour la TPS et la TVQ, ce qui fait un total de 65,11 $.
+v) Téléphone[56]
+[59] J’accepte le témoignage de M. Blais selon lequel les montants en question sont relatifs à la ligne téléphonique pour affaires et ne comprennent pas les montants pour la ligne téléphonique personnelle des appelants. En conséquence, le montant de 280,75 $ en question est déductible, plus 42,18 $ pour la TPS et la TVQ, ce qui fait un total de 322,93 $.
+vi) Matériel pour les scies[57]
+[60] Il y a quatre articles. À part le premier qui coûtait 1 $, les trois autres sont des pièces pour les scies mécaniques qui ont servi, selon M. Blais, à construire les « lignes du houblon »[58]. Je suis d’accord que ces dépenses totalisant 296,75 $ servaient à l’entreprise et qu’elles sont déductibles. Il faut ajouter 44,59 $ pour la TPS et la TVQ, pour un total de 341,34 $.
+vii) Élément chauffant[59]
+[61] J’accepte le témoignage de M. Blais selon lequel cette dépense de 40,45 $ était pour un élément chauffant brisé qu’il fallait remplacer dans un poêle Gibson qui servait à sécher certains matériaux de laboratoire et à faire certaines réactions chimiques. La dépense de 46,53 $, incluant la TPS et la TVQ, est donc déductible.
+viii) Matériaux, taxes scolaires et municipales (6 907,47 $)[60]/« loyer »
+[62] M. Blais a loué en 2002 ses terrains et ses bâtiments à la société de personnes pour la recherche scientifique et, en contrepartie, la société devait payer les taxes municipales et scolaires ainsi que l’assurance. De plus, « […] ladite Société voit à l’amélioration et à l’entretien des locaux nécessaires à la recherche scientifique […] »[61].
+[63] À part les taxes municipales et scolaires, les assurances et les frais de notaire, les autres dépenses étaient pour l’amélioration des bâtiments servant à la recherche, pour isoler le laboratoire d’une part, et, d’autre part, pour construire une animalerie dans le garage[62].
+[64] J’accepte qu’il y eût un contrat de location. Les dépenses sous cette rubrique, sauf celle du notaire[63], ne sont pas des dépenses personnelles. Les montants pour l’assurance et les taxes scolaires sont la quantification du loyer. Ces montants totalisent 4 141,23 $[64] et sont déductibles comme loyer par la société.
+[65] Les dépenses pour l’amélioration ont un caractère de capital et peuvent être amorties selon les dispositions pour les améliorations locatives. Il s’agit de montants totalisant 2 066,24 $, plus 310,45 $ de TPS et de TVQ, pour un total de 2 376,69 $[65].
+[66] M. Blais aurait dû déclarer comme revenu locatif le montant de 4 141,23 $ et déduire les dépenses pertinentes. Vu qu’il y a sa maison sur le terrain[66], une partie des montants payés pour les taxes municipales et scolaires est personnelle[67]. Toutefois, rien de ceci n’a été soulevé par l’intimée dans les réponses et mon jugement n’en tiendra pas compte puisque M. Blais aurait pu, s’il en avait été informé, apporter la preuve quant à la quantification.
+[67] Finalement, dans ce groupe de dépenses, il y a les frais de notaire payés pour la nouvelle hypothèque sur la propriété de M. Blais. Selon ce dernier, les fonds ont servi à financer la recherche et le développement. Toutefois, à part son affirmation à cet égard, il n’a pas clairement expliqué l’utilisation des fonds[68]. Il a dit que les fonds ont servi à consolider les dettes qui existaient. L’emprunt de 145 000 $ reçu le 29 août a aussitôt servi à rembourser une marge de crédit de 57 446 $, un autre emprunt de 8 100,70 $ et l’hypothèque précédente de 70 000 $, ce qui a laissé un montant d’à peu près 9 400 $. Il n’y avait pas d’explications détaillées sur l’utilisation des fonds[69].
+[68] Il n’y a en preuve aucun contrat au sujet de cet emprunt et des obligations entre M. Blais et la société. Il n’est pas démontré qu’il s’agit de fonds utilisés par la société. En conséquence, les frais de notaire ne sont pas déductibles[70].
+Sommaire des dépenses courantes
+[69] Il faudra donc rajouter aux dépenses acceptées par le ministre les montants suivants :
+i) TPS/TVQ sur les dépenses acceptées :
+2 154,02 $
+ii) Moulée :
+172,54 $
+iii) Frais d’automobiles :
+1 116,16 $
+iv) Dépenses non reliées à une piscine :
+65,11 $
+v) Téléphone :
+322,93 $
+vi) Matériel pour les scies :
+341,34 $
+vii) Élément chauffant :
+46,53 $
+viii) Matériaux, taxes et « loyer » :
+4 141,23 $
+TOTAL :
+8 359,86 $
+[70] De plus, un montant de 2 376,69 $ représente des améliorations locatives qui peuvent potentiellement être amorties.
+III. Dépenses en capital
+[71] Troisièmement, l’intimée prétend qu’il faut réduire le montant des dépenses en capital de 634,63 $. Ceci provient de trois choses, selon les prétentions de l’intimée[71] :
+a) la TPS et la TVQ au montant de 534,71 $ qui ne devrait pas être inclus dans le coût,
+b) les trois dépenses (les trois premières lignes de l’annexe I des réponses, qui totalisent 654,86 $) qui n’auraient pas été entièrement faites pour la RS&DE et qui, en conséquence, ne devraient pas être considérées comme des dépenses en capital engagées pour faire de la RS&DE, et
+c) l’ajout de 554,94 $ aux dépenses en capital (les dépenses courantes réclamées que le ministre prétend avoir le caractère de capital).
+[72] Pour ce qui est du point a) précédent, pour les mêmes raisons que je viens d’expliquer qui justifient l’inclusion de la TPS et de la TVQ dans le coût des dépenses, la TPS et la TVQ doivent être incluses dans les dépenses en capital.
+[73] Pour ce qui est des trois dépenses qui ne seraient pas entièrement pour la recherche, j’accepte le témoignage de M. Blais selon lequel l’aspirateur était utilisé au laboratoire afin de s’assurer d’éliminer les micro-particules au cours des expériences et l’ensemble de lettres-poinçons et la scie à onglets servaient à préparer l’étiquetage des différentes sortes de houblon. Je conclus que ces articles étaient utilisés seulement pour la recherche.
+[74] Il faut donc ajouter des montants de 534,71 $ et de 654,86 $[72] au montant de 3 458,90 $, plus 72,12 $ de TPS[73] sur le montant de 554,94 $ reclassé aux dépenses en capital selon le ministre, ce qui fait un total de dépenses en capital de 4 720,59 $.
+IV. Salaire de M. Blais
+[75] Le ministre prétend que la société ne peut pas déduire le salaire de 5 000 $ de M. Blais qu’elle a réclamé.
+[76] Le fait que ce montant de 5 000 $ est réclamé à titre de salaire n’est pas contesté et il est bien établi en droit qu’un salaire à un membre d’une société de personnes ne peut être réclamé par la société[74].
+[77] On ne retrouve pas cette question dans les avis d’appel, ni dans les réponses. Par contre, cela a été soulevé à l’audience et l’on constate clairement que dans sa lettre du 27 juillet 2004 aux appelants, le ministre inclut un sommaire des rajustements faits dans les cotisations en litige[75]. On y voit clairement que le salaire est réduit à 0 $.
+[78] Je ne vois pas comment il peut y avoir préjudice aux appelants i) vu que les avis d’appel n’ont jamais soulevé la question du refus du salaire, bien que cela apparaisse clairement dans le résumé des rajustements envoyé par l’ARC, ii) qu’il n’y a aucun débat factuel et iii) que le droit est bien établi.
+[79] En conséquence, le ministre avait raison de refuser le salaire.
+V. Amortissement
+[80] L’intimée prétend qu’il faut augmenter l’amortissement à 15 506 $[76]. Vu que les appelants n’ont pas contesté ce montant et que cela augmente le montant de l’amortissement de plus de 3 000 $ par rapport à leur état financier, je retiens le montant de 15 506 $ comme étant l’amortissement déductible en 2002.
+Conclusion quant à la perte de la société
+[81] Aux fins du calcul de la perte de la société, les revenus et les dépenses sont :
+Revenus
+12 425,68 $
+Dépenses
+Dépenses courantes[77]
+22 696,10 $
+Dépenses en capital
+4 720,59 $
+Intérêt
+7 034,28 $
+Traitement de M. Blais
+0,00 $
+Amortissement
+15 506,00 $
+Total des dépenses
+49 956,97 $
+Perte nette
+37 531,29 $
+[82] De plus, les améliorations locatives de 2 376,69 $ peuvent potentiellement être amorties.
+[83] Chaque appelant a droit à la moitié de cette perte.
+CRÉDITS D’IMPÔT À L’INVESTISSEMENT
+[84] Le point de départ pour ce calcul est les dépenses courantes et les dépenses en capital, soit 22 691,10 $ et 4 720,59 $ respectivement, un total de 27 416,69 $. En commençant par le montant de 27 416,69 $, il faut faire un certain nombre de rajustements selon les prétentions de l’une ou l’autre des parties.
+Dépenses pour l’utilisation des bâtiments
+[85] En vertu du sous-alinéa 37(8)d)(ii) de la LIR, aucune dépense pour l’utilisation d’un bâtiment ne peut être comprise dans les dépenses de RS&DE et, en conséquence, une telle dépense ne peut faire partie des « dépenses admissibles » pour les CII[78]. Je suis d’accord qu’il faut donc réduire les dépenses courantes du « loyer » de 4 141,23 $[79].
+TPS/TVQ/crédits de taxe sur les intrants
+[86] En vertu des paragraphes 127(18) et 248(16) de la LIR, les crédits sont traités comme aide gouvernementale, et il faut réduire les dépenses pour le calcul des CII du montant des CTI auquel la société a droit. Il faut donc réduire les dépenses courantes de 2 394,04 $[80], soit le montant de TPS et de TVQ inclus dans les dépenses courantes[81].
+[87] En ce qui concerne les dépenses en capital, il faut, pour les mêmes raisons, réduire lesdites dépenses du montant de TPS et de TVQ payé, c’est-à-dire de 534,71 $ sur le montant de 4 093,53 $ réclamé, et de 72,12 $ sur le montant de 554,94 $ reclassé, un total de 606,83 $[82].
+Intérêt
+[88] Il n’y a aucun doute que le montant de 7 034,28 $ est de l’intérêt payé et que cela ne donne pas droit au CII en vertu de la division 2902a)(i)(C) du Règlement de l’impôt sur le revenu (le « Règlement ») et de l’alinéa 20(1)c) de la LIR. Factuellement, les appelants ne contestent pas qu’il s’agit d’intérêt.
+[89] Existe-t-il un préjudice vu que l’application de la division 2902a)(i)(C) du Règlement n’est pas soulevée dans les réponses de l’intimée? Il n’y a pas de préjudice pour les raisons suivantes.
+[90] À un certain moment de l’audition, M. Blais semble dire que les appelants n’ont pas réclamé de CII sur l’intérêt dans leurs déclarations de revenus et qu’ils ne contestent pas la position du ministre. Par contre, tout de suite après, il semble contester la position du ministre sur cette question[83].
+[91] Quand on examine attentivement la preuve, il devient évident que les appelants n’ont jamais réclamé de CII sur le montant d’intérêt payé.
+[92] Ceci se voit de la façon suivante. Dans sa déclaration de revenus, M. Blais a réclamé des CII de 3 758 $. Puisqu’il avait le droit à la moitié des CII et que les CII sont de 20 % du montant admissible, cela veut dire qu’il a fait sa déclaration de revenus sur la base qu’il y avait des dépenses de 37 580 $ donnant lieu aux CII, soit, à quelques dollars près, le total des dépenses courantes, des dépenses en capital et du salaire pour associé (total de 37 544 $) qu’on retrouve dans l’état des résultats de 2002 adopté le 21 décembre 2003. Mathématiquement, on constate que les montants utilisés pour le calcul du montant de 37 580 $ ne pouvaient pas inclure l’amortissement et l’intérêt.
+[93] Ceci est confirmé dans le résumé des rajustements fait par le vérificateur de l’ARC et envoyé aux appelants où il indique le calcul fait par les appelants[84]. On constate que les appelants ont exclu des dépenses admissibles de RS&DE un montant de 19 293 $[85], ce qui est exactement égal à la somme d’amortissement incluant l’intérêt apparaissant dans l’état des résultats révisé adopté le 21 décembre 2003.
+[94] Dans ces circonstances, je ne vois pas comment il peut y avoir préjudice parce que les réponses n’ont pas traité du refus de tenir compte de l’intérêt dans le calcul du CII qui n’a pas été réclamé dans les déclarations de revenus, ni dans les avis d’appel. Ce serait plutôt aux appelants de soulever dans leurs avis d’appel une réclamation qu’ils n’ont pas faite dans leurs déclarations de revenus. De plus, il n’y a aucune contestation des faits et le Règlement est très clair.
+[95] Le montant d’intérêt ne fait pas partie du calcul des CII.
+Le loyer de 10 000 $ pour le laboratoire
+[96] La société a payé un loyer de 10 000 $ plus 1 502,50 $ en TPS et en TVQ à IIB inc. Le ministre dit qu’il s’agit d’une dépense payée à une personne avec laquelle les appelants ont un lien de dépendance et qu’en conséquence, la dépense ne peut être déduite qu’à concurrence du coût de la présentation du service pour le fournisseur (IIB inc.)[86].
+[97] Ceci n’est pas soulevé dans les réponses et je ne considère pas que le fait d’indiquer que ledit montant de 10 000 $ a été « reclassé »[87] soit suffisant pour soulever cette question. La seule fois où apparaît « personnes ayant un lien de dépendance : - dépenses courantes » est à la ligne 522 de l’annexe 32 de la « nouvelle proposition de cotisation » reçue par les appelants quelques jours avant l’audience.
+[98] Non seulement le fardeau sur cette question repose sur l’intimée, mais les faits relatifs au coût de l’équipement de laboratoire sont importants et il y a très peu d’éléments de preuve à ce sujet. Dans ces circonstances, il y a préjudice car les appelants auraient pu faire d’autres preuves. Pour cette raison, la dépense doit être incluse dans le calcul des CII[88].
+[99] L’intimée prétend toutefois que cette question a déjà été réglée en ce sens qu’il s’agit de la chose jugée en vertu de l’article 2848 du Code civil du Québec (le « CCQ »)[89] pour faire suite au jugement dans Blais[90]. Dans la cause précédente entre les parties, il s’agit d’années antérieures à l’année en litige dans les présentes causes, et les contrats de location d’équipement furent signés le 30 juin 1998 et le 1er janvier 2000[91] tandis que dans les présentes causes, il s’agit d’un contrat signé le 1er janvier 2002[92] pour l’année en litige. Rien ne démontre que les contrats sont les mêmes quant aux termes, à l’équipement loué ou aux coûts. En conséquence, une des conditions essentielles à l’application de l’article 2848 du CCQ, l’identité des causes, n’est pas établie, et ledit article ne s’applique pas.
+L’armoire
+[100] L’armoire en question a été achetée du Centre hospitalier universitaire de Sherbrooke (le « CHUS ») pour 75 $. L’armoire était en métal et servait à garder les produits chimiques.
+[101] L’intimée invoque le sous-alinéa 2902b)(iii) du Règlement qui exclut de la définition de « dépense admissible » :
+(iii) […] l’acquisition d’un bien utilisé ou acquis pour être utilisé […] à quelque fin que ce soit avant son acquisition par le contribuable;
+[102] Les réponses aux avis d’appel ne soulèvent pas cet argument directement. Il y a seulement une référence générale aux articles 2900 à 2903 du Règlement au paragraphe 8 et, à la ligne portant la date « 2002-05-17 » à la page 2 de l’annexe II, on constate que le fournisseur était le CHUS et que le ministre a « reclassé » le montant de 75 $. Il n’y a aucune autre mention au sujet de l’armoire dans les réponses.
+[103] Le fait que l’armoire a été acquise du CHUS suggère qu’elle était usagée. Toutefois, vu que M. Blais a témoigné qu’il a acheté une armoire qui n’avait pas été utilisée et que cet argument n’a pas été soulevé dans les réponses, c’est au ministre de démontrer que l’armoire avait été acquise par le CHUS pour être utilisée avant l’achat par le contribuable.
+[104] En conséquence, il n’est pas établi que le sous-alinéa 2902b)(iii) s’applique à l’armoire.
+Conclusion pour les crédits d’impôt à l’investissement
+[105] Il faut donc déduire les montants suivants des dépenses courantes et des dépenses en capital :
+Dépenses
+27 416,69 $
+Déductions
+a) le « loyer » :
+(4 141,23 $)
+b) les CTI sur les dépenses courantes :
+(2 394,04 $)
+c) les CTI sur les dépenses en capital :
+(606,83 $)
+Total
+(7 142,10 $)
+Résultat
+20 274,59 $
+[106] En conséquence, le montant admissible aux CII est de 20 274,59 $ et, vu que le taux applicable est de 20 %, les CII de la société sont de 4 054,92 $ en 2002.
+CONCLUSION GÉNÉRALE
+[107] Les appels sont accueillis, avec frais de 400 $ à chaque appelant, et le tout est déféré au ministre pour nouvel examen et nouvelles cotisations, selon les présents motifs, en tenant pour acquis que :
+a) la perte de la société est de 37 531,29 $,
+b) de plus, la société a fait des améliorations locatives de 2 376,69 $ qui sont potentiellement amortissables,
+c) chaque appelant a le droit de réclamer la moitié de la perte de la société,
+d) la société a des CII de 4 054,92 $,
+e) chaque appelant a le droit de réclamer la moitié du montant des CII.
+[108] À part ces changements et le nouveau calcul de l’intérêt qui en résulte, il n’y aura aucun autre ajustement aux cotisations.
+Signé à Ottawa, Canada, ce 12e jour d’avril 2010.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE : 2010 CCI 195
+Nos DES DOSSIERS DE LA COUR : 2006-2103(IT)I, 2006-2106(IT)I
+INTITULÉS DES CAUSES : JEAN-FRANÇOIS BLAIS c. SA MAJESTÉ LA REINE, CHRISTIANE AURAY-BLAIS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L’AUDIENCE : Le 1er décembre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 9 avril 2010
+DATE DES MOTIFS DU
+JUGEMENT MODIFIÉS : Le 12 avril 2010
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocat de l'intimée :
+Me Claude Lamoureux
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir Blais c. La Reine, 2005 CCI 417, 2005 DTC 1600, 2006 DTC 2235. Voir aussi Innovations et intégrations brassicoles inc., 2008 CCI 339, conf. par 2009 CAF 302.
+[2] Pour être plus précis, l'Agence du revenu du Canada, exerçant les fonctions du ministre du Revenu national, voulait faire une vérification.
+[3] Pièce A-1, pages 1, 2, 24 à 27; transcription, question 7.
+[4] Pièce A-1, page 32.
+[5] Ibid., onglet 5, page 103 (état adopté le 25 mai 2003). Il y a un autre état des résultats pour l'année 2002 à la page 104 de la même pièce, mais vu le montant des pertes déclarées par les appelants, il devient mathématiquement évident que c'est l’état à la page 103, et non celui à la page 104, qui a été utilisé dans les déclarations de revenus pour le calcul de la perte. Cela ne semble pas être le cas pour le calcul des CII.
+[6] Pièce I-3, page 2, ligne 135. La déclaration de revenus est datée du « 05-12-03 ».
+[7] La déclaration de revenus de Mme Auray-Blais n'est pas en preuve, mais nous constatons la perte réclamée au projet de cotisation devenu la cotisation en litige de Mme Auray-Blais. Voir la pièce A-1, onglet 0, page 19.
+[8] Pièce I-3, quatrième page, ligne 454.
+[9] Pièce A-1, onglet 0, page 8. Il y a une différence de 4,29 $ entre la ligne 540 de la page 8 et la ligne 454 de la quatrième page de la pièce I-3. Pour des raisons qui ne sont pas en preuve, les appelants ont fait le calcul du CII en utilisant les mêmes chiffres que dans l’état des résultats révisé et adopté le 21 décembre 2003 et non l’état des résultats adopté le 25 mai 2003 qui a été utilisé pour le calcul des pertes. On constate ceci en examinant la colonne de gauche « Réclamés selon le contribuable » aux pages 6 à 7 de l’onglet 0 de la pièce A-1. Dans ces trois pages, la colonne de gauche répète le calcul qu’a fait le contribuable et au milieu de la page 8 on constate que le résultat arrive au montant réclamé par le contribuable. La différence entre les états du 25 mai 2003 et du 21 décembre 2003 provient de deux choses : i) le premier état pour 2002 réduit les dépenses du montant des CII reçus (7 508,76 $) pour l’année précédente — une erreur, ii) les dépenses courantes et en capital sont combinées dans le premier état sous le titre « Total des dépenses de recherche pour CII ».
+[10] Logiquement, le montant devrait être identique à celui réclamé par M. Blais.
+[11] Pièce A-1, onglet 0, pages 13 à 17.
+[12] Ceci peut être constaté en examinant les chiffres retenus pour les cotisations d'août 2004 (voir la pièce A‑1, onglet 0, page 4) et en comparant ces données avec l’état des résultats révisé que les appelants ont adopté le 21 décembre 2003 (voir la pièce A-1, onglet 2, page 39 ou onglet 5, page 104). Les chiffres aux pages 4 et 39 sont les mêmes sauf pour le salaire refusé par le ministre et l’amortissement qui a été rajusté à la hausse par le ministre (pièce A-1, onglet 0, page 5).
+[13] Le total des deux premières lignes des dépenses est égal au « total des dépenses de recherche pour CII » précité au paragraphe 7.
+[14] Pièce A-1, onglet 0, page 20.
+[15] Ibid., onglet 0, page 19.
+[16] Ibid., onglet 0, pages 1 et 2.
+[17] Il y a aussi une autre lettre en date du 4 juillet 2006 adressée à la Cour qui fait partie des avis d'appel et qui n'ajoute rien de pertinent aux avis du 5 juillet et à l'annexe 1 du 7 juillet.
+[18] Ce qui était encore le cas au moment du dépôt des avis d'appel.
+[19] Vu que cet état des résultats révisé fut adopté le 21 décembre 2003, tandis que l'autre fut adopté le 25 mai 2003.
+[20] Au cours de l'audience, il est devenu apparent que la position du ministre était celle de la « nouvelle proposition de cotisation de 2002 datée le 26-11-08 » (voir la table des matières de la pièce A-1) qui se trouve aux pages 80 à 95 de l’onglet 3 de la pièce A-1 et à la pièce I-1. Plusieurs aspects de la position de l’intimée apparaissent aux annexes des réponses sans être expliqués.
+Le fait que les avis d’appel ne soulèvent pas certaines questions a également contribué aux difficultés.
+[21] Réponses aux avis d'appel, paragraphe 6b) et annexes I et II (notamment les pages 6 et 7 de l'annexe II).
+[22] Cette différence provient de trois changements (voir l’annexe I des réponses aux avis d’appel). Premièrement, selon l'intimée, il faut enlever du montant de 4 093,53 $ un montant de 534,71 $ en TPS et en TVQ. Deuxièmement, il faut enlever un montant de 654,86 $ (les trois premiers articles à l’annexe I des réponses qui ne sont pas utilisés totalement pour la recherche, mais qui doivent être inclus dans la classe 8 et qui peuvent donner droit à l’amortissement). Troisièmement, il faut ajouter le montant de 554,94 $ reclassé de dépense courante à dépense en capital.
+[23] Voir le paragraphe 11 ci-dessus.
+[24] Pièce A-1, onglet 3, page 82, ou la première page de la pièce I-1. Le montant de 14 336,24 $ est composé des montants de 184,60 $ + 10 000 $ + 4 151,64 $ qu’on voit à la page 82.
+[25] La différence entre ce calcul de la perte selon les appelants et le calcul initial des appelants (voir le paragraphe 7 ci‑dessus) provient du fait que les appelants n’ont pas inclus les CII de 2001 au montant de 7 508,76 $ comme revenus.
+[26] C'est-à-dire dans les circonstances où la preuve ne permet pas d'établir une conclusion de fait.
+[27] Voir la décision de la Cour d'appel fédérale dans Canada c. Anchor Pointe Energy Ltd., 2007 CAF 188.
+[28] Voir la décision du juge Rand dans Johnston v. Minister of National Revenue, [1948] R.C.S. 486, notamment la première phrase à la page 490. La nécessité de cerner le débat a une importance particulière pour les litiges suivant la procédure informelle de cette Cour, où il n'y a pas d'interrogatoires préalables.
+[29] Une question séparée de la question du montant des dépenses de l’entreprise.
+[30] Autrement dit, si la partie A a le fardeau de prouver les faits X et Y et si plus tard la partie B, après avoir obtenu plus d’information, conclut et admet que le fait X a eu lieu, il serait étonnant que la partie B devienne obligée de prouver le contraire du fait Y simplement parce qu’elle vient d’admettre le fait X.
+[31] Notamment, dans la mesure où c’est pertinent, les informations fournies au sujet des cotisations qui sont à l'onglet 0 de la pièce A-1, pages 1 à 20 (documents fournis en 2004).
+[32] Pièce I-1; pièce A-1, onglet 3, pages 80 à 95 (au bas des pages 83 à 85, on constate la date du « 2008‑11-26 »). J’utilise la description de ces documents qu’on retrouve à la première page de la pièce A-1, la table des matières.
+[33] Pièce A-1, onglet 3, pages 88 à 95.
+[34] Le salaire fut refusé non seulement aux fins du calcul des CII, mais également comme dépense de la société. Ce refus du salaire n’est pas soulevé dans les avis d’appel.
+[35] Pièce A-1, onglet 3, pages 80 à 87.
+[36] Les nouveaux points soulevés dans les présentes causes sont liés aux cotisations. Voir la pièce A-1, onglet 0, aux pages 1 à 20. On constate que des considérations de préjudice ont motivé le législateur quand il a imposé les conditions aux alinéas 152(9)a) et b) de la LIR.
+[37] Pièce A-1, onglet 2, page 33.
+[38] Voir les paragraphes 12(2.2) et 248(16) de la LIR.
+[39] Le calcul est le montant de 14 336,24 $ multiplié par 1,07 (TPS) plus le résultat multiplié par 1,075 (TVQ), puisque la TVQ s'applique au prix incluant la TPS.
+[40] Pièce I-2, page 1.
+[41] En examinant la preuve, on constate que le terrain en question comprend non seulement le lieu de recherche et les terres cultivées, mais également la maison. Voir la transcription, à la fin de la question 516, et les questions 560, 579 et 652.
+[42] Vu que IIB inc. cultivait également le terrain, IIB inc. était également bénéficiaire de ces animaux. Voir la note 51 ci‑dessous.
+[43] Ces montants hors TPS et TVQ se retrouvent aux pages 1 et 2 de la pièce I-2 et à l’annexe II des réponses aux avis d’appel.
+[44] Transcription, pages 250 et 251.
+[45] Ibid., questions 646 à 648 et 652 à 657.
+[46] Pièce I-4, relevé T-4.
+[47] Pièce I-3, page 2.
+[48] Transcription, questions 548 et 564. Par contre, il n'y a aucune indication de cette activité dans sa déclaration de revenus (pièce I-3).
+[49] Pièce I-4.
+[50] Pièce A-1, onglet 2, page 61.
+[51] La preuve ne révèle pas très clairement la relation entre IIB inc. et la société de personnes, mais aux pages 178 à 180 de la transcription, M. Blais explique que la société loue de IIB inc. l'équipement de laboratoire tandis que IIB inc. loue de la société l'équipement agricole, ce qui permet à IIB inc. de poursuivre « [...] ses recherches au niveau du houblon à l'extérieur [...] ». Chacune des deux locations prévoit un loyer de 10 000 $, hors taxes. Voir la pièce A-1, onglet 2, page 61, pour ce qui est de l’équipement de laboratoire.
+[52] Le montant accordé pour la TPS et la TVQ est réduit au prorata pour refléter qu'il n'y avait pas de montant de TPS et de TVQ payé sur les montants payables à la SAAQ.
+[53] Les montants de 457,07 $ et de 2 258,23 $ sont hors TPS et TVQ.
+[54] Pièce I-2, au milieu de la page 2.
+[55] Ibid., page 2.
+[56] Ibid., pages 2 et 3.
+[57] Ibid., page 3.
+[58] Transcription, page 265.
+[59] Pièce I-2, page 3.
+[60] Ibid., page 3 (hors TPS et TVQ).
+[61] Pièce A-1, onglet 2, page 60, « Contrat de location ».
+[62] Transcription, pages 268 et 269.
+[63] Voir ci-dessous.
+[64] Il n'y avait pas de TPS ni de TVQ sur ces montants.
+[65] Le sous-alinéa 37(8)d)(ii) de la LIR s'applique et, en conséquence, le montant de 2 066,24 $ ne peut pas être considéré comme une dépense de RS&DE et ne peut pas être déduit comme dépense dans l’année en litige.
+[66] Voir la note 41 ci-dessus.
+[67] De plus, il faudrait considérer s'il faut tenir compte du bénéfice résultant de l'amélioration des bâtiments.
+[68] Transcription, pages 273 à 277.
+[69] De façon générale, la preuve me fait conclure que les appelants n'ont pas toujours établi de distinctions claires et nettes entre les activités de la société, celles de IIB inc. et leurs activités purement personnelles.
+[70] Même si ce montant était une dépense de la société, il s’agirait d’un montant ayant un caractère de capital dont seulement une portion de moins de 20 % serait déductible en 2002 en vertu de l’alinéa 20(1)e) de la LIR.
+[71] Voir l'annexe I des réponses aux avis d'appel.
+[72] La TPS et la TVQ sur le montant de 654,86 $ sont déjà incluses dans le montant de 534,71 $.
+[73] Voir l'annexe I des réponses aux avis d'appel.
+[74] Blais, note 1 ci-dessus, paragraphes 20 à 30.
+[75] Pièce A-1, onglet 0, pages 1 à 20, et en particulier les pages 4 et 6 (ligne 305).
+[76] Le calcul est à la septième page de la pièce I-1.
+[77] C'est-à-dire 14 336,24 $ + 8 359,86 $ = 22 696,10 $.
+[78] Voir « dépense admissible » aux paragraphes 127(5) et 127(9) de la LIR.
+[79] Pour les mêmes raisons, l'amortissement sur les améliorations locatives ne pourrait être inclus dans le calcul des CII.
+[80] Ce montant est composé de 2 154,02 $ (paragraphe 41), de 22,54 $ (paragraphe 44), de 116,16 $ (paragraphe 57), de 8,47 $ (paragraphe 58), de 42,18 $ (paragraphe 59), de 44,59 $ (paragraphe 60) et de 6,08 $ (paragraphe 61).
+[81] Voir aussi l'alinéa 12(1)x) et la définition du terme « aide non gouvernementale » au paragraphe 127(9).
+[82] Voir l'annexe I des réponses aux avis d'appel.
+[83] Transcription, du bas de la page 429 au haut de la page 432.
+[84] La lettre et le résumé se retrouvent à la pièce A-1, onglet 0, pages 1 à 12, et le calcul des CII avec les chiffres des appelants est aux pages 6 à 8. Il y a une divergence de 4,29 $ non expliquée entre le montant dans ce calcul et le montant dans la déclaration de revenus T1 de M. Blais.
+[85] Pièce A-1, onglet 0, page 7, ligne 530, colonne de gauche.
+[86] Ceci résulte de l'alinéa f) de la définition de « dépense admissible » au paragraphe 127(9) de la LIR et des paragraphes 127(11.5) à (11.8) et 127(8) de la LIR. Voir aussi Blais, note 1, aux paragraphes 7 à 19.
+[87] Annexe II des réponses.
+[88] Les mêmes dispositions de droit ont été invoquées par l'intimée à l'encontre des appelants dans la cause relative à des années fiscales précédentes (Blais, note 1 ci-dessus, paragraphes 7 à 19). Cela ne constitue pas un avis approprié pour que la question soit en litige dans les présentes causes.
+[89] Il est bien établi que le droit supplétif applicable est le droit des différentes provinces, donc dans les présentes causes, le CCQ prévaut, et non la common law. Voir, entre autres, les articles 8.1 et 8.2 de la Loi d’interprétation.
+[90] Blais, note 1 ci-dessus, paragraphes 7 à 19.
+[91] Ibid., note 3.
+[92] Pièce A-1, onglet 2, page 61.

@@ -1,0 +1,117 @@
+Title: Killick v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26216/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-118-26216-killick-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-03-07
+
+# Killick v. The Queen
+
+- Citation: 2003 CCI 118
+- Decision date: 2003-03-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3980, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Killick v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-07
+Référence neutre
+2003 CCI 118
+Numéro de dossier
+2002-3565(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-3565(IT)I
+ENTRE :
+DONALD JAMES KILLICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 28 février 2003, à Saskatoon (Saskatchewan)
+Devant : l'honorable juge Diane Campbell
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Lyle Bouvier
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est admis, sans frais, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 7e jour de mars 2003.
+« Diane Campbell »
+J.C.C.I.
+Traduction certifiée conforme
+ce 10e jour de février 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI118
+Date: 20030307
+Dossier: 2002-3565(IT)I
+ENTRE :
+DONALD JAMES KILLICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Campbell
+[1] Le présent appel a été interjeté à l'encontre des cotisations établies par le ministre du Revenu national pour les années d'imposition 2000 et 2001. La demande par l'appelant du crédit équivalent pour personne entièrement à charge d'un montant de 6 140 $ pour 2000 et de 5 293 $ pour 2001 a été refusée.
+[2] Au tout début de l'audience, l'avocat de l'intimée a informé la Cour qu'aucun avis d'opposition à la cotisation établie pour l'année d'imposition 2001 n'a été signifié au ministre. J'ai informé l'appelant de ses délais de prescription relativement à la cotisation datée du 10 juin 2002 et de l'obligation de déposer un avis d'opposition avant que cette cour puisse entendre l'appel qu'il a interjeté pour cette année-là. L'avocat de l'intimée a fait observer que la Couronne serait disposée, au besoin, à consentir à une prorogation du délai de dépôt de l'avis. Par conséquent, l'année d'imposition 2000 s'avère la seule année dont je suis saisie présentement.
+[3] Le ministre s'est fondé sur les hypothèses de fait suivantes qui figurent au paragraphe 10 de la réponse à l'avis d'appel :
+[TRADUCTION]
+10. Lorsqu'il a établi ladite cotisation à l'égard de l'appelant, le ministre s'est appuyé sur les hypothèses de fait suivantes :
+(a) l'appelant est le père naturel de deux enfants, Steven James Frank Killick, né le 15 juillet 1985, et Ian Patrick Killick, né le 31 août 1987 (collectivement appelés les « enfants » );
+(b) Elizabeth Joan Shaw est la mère naturelle des enfants;
+(c) l'appelant et Elizabeth Joan Shaw se sont divorcés en 1996;
+(d) le crédit équivalent pour personne entièrement à charge que l'appelant a demandé pour les années d'imposition 2000 et 2001 concernait l'un des enfants;
+(e) aux termes d'une entente de pension alimentaire pour enfants conclue le 17 décembre 1999 (l' « entente » ), Elizabeth Joan Shaw était tenue de verser pour les enfants une pension alimentaire d'un montant de 831 $ par mois aux grands-parents paternels de ces derniers, Victor Killick et Ethel Killick (collectivement appelés les « grands-parents » ), à compter du 1er septembre 1999;
+(f) aux termes de l'entente, l'appelant était tenu de verser pour les enfants une pension alimentaire d'un montant de 580 $ par mois aux grands-parents de ces derniers, à compter du 1er août 1999;
+(g) aux termes de l'entente, les enfants devaient résider principalement chez les grands-parents;
+(h) au cours des années d'imposition 2000 et 2001, l'appelant a versé une pension alimentaire pour les enfants aux grands-parents;
+(i) pendant toute la période pertinente, à savoir les années d'imposition 2000 et 2001, les enfants résidaient chez leurs grands-parents dans le même établissement domestique situé au 1901, Amisk Drive, Denare Beach (Saskatchewan);
+(j) pendant toute la période pertinente, l'appelant travaillait comme pilote de ligne;
+(k) pendant toute la période pertinente, l'appelant n'a pas résidé avec les enfants, mais a plutôt habité un appartement sis au 102B - 111 Tait Crescent, Saskatoon (Saskatchewan);
+(l) l'appelant n'a pas résidé avec les enfants au cours des années d'imposition 2000 et 2001 en raison de la nature de son emploi, qui l'obligeait à voyager beaucoup;
+(m) l'appelant a effectivement passé du temps avec ses enfants au cours des années d'imposition 2000 et 2001 lorsqu'il ne voyageait pas dans le cadre de son travail;
+(n) pendant toute la période pertinente, à savoir les années d'imposition 2000 et 2001, les enfants n'étaient pas entièrement à la charge de l'appelant, mais plutôt à la charge des grands-parents.
+[4] Cette affaire est axée sur l'interprétation de l'alinéa 118(1)b) qui se lit comme suit :
+118(1)b) Crédit équivalent pour personne entièrement à charge - la somme de 7 131 $ et du résultat du calcul suivant :
+6 055 $ - (D - 606 $)
+où :
+D représente 606 $ ou, s'il est plus élevé, le revenu d'une personne à charge pour l'année, si le particulier ne demande pas de déduction pour l'année par l'effet de l'alinéa a) et si, à un moment de l'année :
+(i) d'une part, il n'est pas marié ou ne vit pas en union de fait ou, dans le cas contraire, ne vit pas avec son époux ou conjoint de fait ni ne subvient aux besoins de celui-ci, pas plus que son époux ou conjoint de fait ne subvient à ses besoins,
+(ii) d'autre part, il tient, seul ou avec une ou plusieurs autres personnes, et habite un établissement domestique autonome où il subvient réellement aux besoins d'une personne qui, à ce moment, remplit les conditions suivantes :
+(A) elle réside au Canada, sauf s'il s'agit d'un enfant du particulier,
+(B) elle est entièrement à la charge soit du particulier, soit du particulier et d'une ou plusieurs de ces autres personnes,
+(C) elle est liée au particulier,
+(D) sauf s'il s'agit du père, de la mère, du grand-père ou de la grand-mère du particulier, elle est soit âgée de moins de 18 ans, soit à charge en raison d'une infirmité mentale ou physique;
+[5] L'appelant a déposé une entente de pension alimentaire pour enfants (pièce A-1). Les dispositions de cette entente qui sont pertinentes dans le cas du présent appel figurent aux paragraphes 1 et 2(c). Ces derniers se lisent comme suit :
+[TRADUCTION]
+1. GARDE D'ENFANTS
+La mère et le père conviennent qu'ils continuent d'assumer la garde conjointe des enfants; toutefois, ils résideront principalement chez leurs grands-parents paternels, Victor et Ethel Killick, au 1901, Amisk Drive, Denare Beach (Saskatchewan) ainsi que chez leur père. Compte tenu de l'âge et du degré de maturité des enfants, les parties conviennent qu'ils pourront choisir le lieu où ils résideront et que toutes les parties respecteront leur choix.
+[...]
+2. (c) Le père versera aux grands-parents paternels, Victor et Ethel Killick, conformément aux Lignes directrices fédérales sur les pensions alimentaires pour enfants, une pension alimentaire d'un montant de 580 $ par mois, basé sur le revenu annuel du père qui est de 42 300 $, à compter du 1er août 1999 et continuera à le faire le premier jour de chaque mois tant que les enfants demeureront des enfants au sens de la Loi sur le divorce ou jusqu'à ce qu'une autre entente soit conclue ou qu'une ordonnance de la Cour soit rendue.
+[6] L'appelant réside dans un appartement à Saskatoon pendant environ 200 jours par an. En tant que pilote de ligne, il pourrait se trouver n'importe où en Amérique du Nord au cours de cette période de 200 jours. Quand il est de réserve, il doit rester disponible et se présenter à l'aéroport de Saskatoon dans un délai de deux heures. Pendant le reste de l'année, quand il ne vole pas ou n'est pas de réserve, il habite avec ses enfants chez ses parents à Denare Beach, en Saskatchewan.
+[7] Aux termes de l'entente de pension alimentaire pour enfants, la mère et l'appelant (le père des enfants) se partagent la garde des enfants mais l'entente prévoit que ces derniers doivent résider chez les grands-parents paternels et chez le père. Il ressort clairement de l'entente que l'appelant fournit une pension alimentaire aux enfants. Toutefois, en vertu de l'alinéa 118(1)b), l'appelant doit également tenir un établissement domestique autonome et dans lequel il doit subvenir aux besoins des enfants.
+[8] Bien que l'appelant ait tenu un appartement ou un établissement domestique autonome à Saskatoon, il a témoigné que ce dernier lui permettait de conserver son poste de pilote de ligne. Quand il n'était pas tenu de rester à Saskatoon, il résidait à Denare Beach et y prenait soin de ses enfants. L'appelant n'a pas tenu à lui seul l'établissement domestique autonome de Denare Beach mais l'a fait conjointement avec ses parents. L'entente stipule qu'il devait verser une pension alimentaire mensuelle de 580 $. Cependant, il indique dans son avis d'appel qu'il verse volontairement le montant mensuel de 750 $. Je vois ce versement mensuel comme une autre indication qu'il aidait ses parents à payer les coûts d'entretien de cet établissement où résidaient ses enfants. En outre, selon l'avis d'appel de l'appelant, il paie également pour leurs activités parascolaires, leurs vêtements et leurs déplacements pour voir leur mère. Le fait que l'entente stipule que les enfants doivent résider chez l'appelant et ses parents est une autre indication que l'appelant résiderait avec ses enfants à Denare Beach et aiderait ses parents à tenir cet établissement. L'appelant répond à la condition du sous-alinéa 118(1)b)(ii). Il ne tient pas à lui seul l'établissement domestique autonome mais le fait conjointement avec une ou plusieurs autres personnes, à savoir ses parents. Le fait que ce soit la résidence de ses parents est dénué de toute pertinence. Il les aide à tenir cet établissement domestique et subvient aux besoins de ses enfants qui y résident.
+[9] Je ne vois rien dans l'alinéa 118(1)b) qui empêcherait un particulier de tenir plus d'un établissement domestique autonome. Le juge Lamarre est arrivé à la même conclusion dans l'affaire Mujawamariya c. La Reine, 2001 DTC 396. L'appartement de Saskatoon est nécessaire à son travail. C'est son poste de travail. De toute manière, je vois cet établissement comme un élément relativement négligeable de la présente affaire. Il travaille à partir de cet appartement pendant environ 200 jours par an mais, étant donné qu'il est pilote, il est clair qu'il ne passe pas 200 nuits dans l'appartement de Saskatoon. On ne m'a présenté aucun élément de preuve relativement à la répartition des jours et des nuits passés dans chaque établissement mais je pense qu'il est raisonnable de conclure selon toute probabilité qu'il passe réellement plus de temps à l'établissement de Denare Beach qu'à celui de Saskatoon. De toute façon, les premières lignes de l'alinéa 118(1)b) précisent que le particulier doit « à un moment de l'année » tenir et habiter un établissement domestique autonome où il subvient aux besoins d'une personne qui est entièrement à sa charge.
+[10] J'en conclus que l'appelant a dûment répondu aux conditions de cet article. Il subvient aux besoins de ses enfants; il réside dans un établissement domestique autonome avec ses enfants pendant une grande partie de l'année et certainement pendant toutes les périodes au cours desquelles il ne travaille pas; il a tenu cet établissement conjointement avec ses parents et verse à ces derniers des sommes supplémentaires qui excèdent le montant de base obligatoire de la pension alimentaire pour les aider à tenir ledit établissement où résident ses enfants.
+[11] L'appel est admis et la cotisation est déférée au ministre pour nouvel examen et nouvelles cotisations en tenant compte du fait que l'appelant a droit, en vertu de l'alinéa 118(1)b) de la Loi, au crédit équivalent pour personne entièrement à charge d'un montant de 6 140 $ pour l'année d'imposition 2000.
+Signé à Ottawa, Canada, ce 7e jour de mars 2003.
+« Diane Campbell »
+J.C.C.I.
+Traduction certifiée conforme
+ce 10e jour de février 2005.
+Sophie Debbané, réviseure

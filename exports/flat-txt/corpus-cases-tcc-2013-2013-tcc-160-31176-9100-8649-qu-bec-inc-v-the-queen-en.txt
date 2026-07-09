@@ -1,0 +1,256 @@
+Title: 9100-8649 Québec inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31176/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-160-31176-9100-8649-qu-bec-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-05-14
+
+# 9100-8649 Québec inc. v. The Queen
+
+- Citation: 2013 TCC 160
+- Decision date: 2013-05-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5070, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9100-8649 Québec inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-05-14
+Neutral citation
+2013 TCC 160
+File numbers
+2011-335(GST)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-335(GST)G
+BETWEEN:
+9100-8649 QUÉBEC INC.
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on October 22 and 23, 2012, at Montréal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Jacques Plante
+Counsel for the respondent:
+Philippe Morin
+_________________________________________________________________
+JUDGMENT
+The appeal from the assessment dated December 17, 2009, made under Part IX of the Excise Tax Act for the period from January 1, 2006, to December 31, 2008, is dismissed with costs in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 14th day of May 2013.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+On this 11th day of July 2013
+François Brunet, Revisor
+Citation: 2013 TCC 160
+Date: 20130514
+Docket: 2011-335(GST)G
+BETWEEN:
+9100-8649 QUÉBEC INC.
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal against an assessment dated December 17, 2009, issued by the Minister of Revenue of Quebec, acting as an agent for the Minister of National Revenue (the Minister), under Part IX of the Excise Tax Act (ETA) with respect to the goods and services tax (GST) for the period from January 1, 2006, to December 31, 2008 (the period).
+[2] In the assessment dated December 17, 2009, the Minister assessed the appellant for an amount of $197,251.44 in GST, for a total of $285,709.86 in duties, interest ($42,499.39) and penalties ($45,947.23) under section 285 of the ETA.
+[3] In assessing the appellant, the Minister based himself on the following findings and assumptions of fact, stated at paragraph 11 of the Reply to the Notice of Appeal:
+[translation]
+(a) During the period at issue, the appellant operated two licensed restaurants under the names "Torii Sushi" and "Kingyo", and Phan Thi Dien Trang is the president, sole director and sole shareholder of the appellant;
+(b) The respondent's representatives audited the appellant for the period from January 1, 2006, to December 31, 2008;
+(c) Applying the sampling method during the audit, they noted significant discrepancies between the daily sales and the daily compilations prepared by Ms. Trang, the director of the appellant;
+(d) A significant discrepancy was observed during the audit between the invoices for beer purchases and the beer sales reports obtained by making a copy of the hard drive for 2008, in that more than 350 cases of beer had been purchased by the appellant but never sold;
+(e) Also, after making a copy of the hard drive of the appellant's accounting system, the respondent observed a difference of about $79,000 between the income stated in the 2008 copy and the income reported by the appellant in its financial statements;
+(f) Accordingly, the respondent had serious reasons to suspect that there was additional unreported income;
+(g) The respondent applied a method of reconstructing the appellant's sales to determine the appellant's total sales and the amount of taxable supplies during the period at issue, namely, from January 1, 2006, to December 31, 2008, for each of the appellant's businesses;
+(h) The alternative audit method consisted of reconstructing the appellant's sales from its purchases by applying a fixed ratio to certain items calculated on the basis of a sampling of invoices, and the items selected for this audit were beer, wine and sake;
+(i) The respondent's representatives calculated the quantity of litres of beer, wine and sake purchased between 2006 and 2008 from the invoices of the appellant's suppliers and determined the quantity of alcohol poured into the wine glasses and the small and large sake carafes in the presence of the appellant's representatives;
+(j) The respondent's representatives determined the number of litres available for resale by the appellant per restaurant and per year;
+(k) On the basis of the information about the appellant's 2008 tax year drawn from the copy of the hard drive, the respondent's representatives determined the exact number [of litres] of beer, wine and sake sold during the year at issue, and on that basis an average unit price per litre of alcohol sold for each of the selected items was established;
+(l) For 2006 and 2007, the respondent applied the sampling method to each restaurant to establish an average unit price per litre of alcohol sold for each of the selected items, namely, beer, wine and sake;
+(m) A loss rate of 8% for personal consumption and promotion was allowed by the respondent, despite the fact that the appellant did not maintain a register of losses, and this ratio was multiplied by the litres of alcohol purchased by each of the two restaurants;
+(n) The respondent established the following:
+(Amended table)
+Torii
+2008
+2007
+2006
+Ratio (sales$/litre)
+226.30
+208.02
+205.16
+Litres of wine, sake, beer purchased and deemed to have been sold
+5,815.34
+6,488.61
+8,072.22
+Reconstructed sales Torii
+1,316,038.76
+1,349,759.45
+1,656,077.86
+Kingyo
+Ratio (sales$/litre)
+286.71
+285.00
+257.90
+Litres of wine, sake, beer purchased and deemed to have been sold
+7,701.54
+7,539.83
+6,496.61
+Reconstructed sales Kingyo
+2,208,072.15
+2,148,883.04
+1,675,454.85
+2008
+2007
+2006
+Total reconstructed
+$3,524,110.91
+$3,498,642.49
+$3,331,551.71
+sales Torii et Kingyo
+8% loss allowed
+281,928.87
+279,891.40
+266,524.14
+Sales reported in financial statements
+$2,033,936.00
+$2,237,591.00
+$2,093,475.00
+Unreported income
+$1,208,246.04
+$981,160.09
+$971,552.57
+as appears from the worksheets attached to and included in this Reply;
+(l) The Minister has therefore established that taxable sales of $3,160,958.70 were not reported by the appellant for 2006 to 2008 and that an amount of $184,423.86 was not remitted to the respondent.
+[4] The issues are the following:
+(a) Was the Minister entitled to use an alternative audit method in the circumstances?
+(b) Did the alternative audit method, as applied by the Minister, produce reliable results?
+(c) Was the Minister entitled to impose penalties on the appellant?
+[5] According to the appellant, the Minister was not entitled to use the alternative audit method in this case for the following reasons, as set out at paragraph 14 of its Notice of Appeal:
+[translation]
+(a) The auditor relied on erroneous, misleading and irrelevant assumptions of fact in deciding to apply an alternative audit method.
+(b) The auditor failed to certify the accuracy and relevance of the assumptions of fact on which she relied in deciding to apply an alternative audit method.
+(c) The appellant duly kept all of the books, registers and other documents or items that it was required to keep under the applicable tax legislation (the Documents).
+(d) The Documents were available and could have been verified by the auditor in order to determine, through an exhaustive analysis of these, the appellant's actual tax liability under the ETA, but she did not do so.
+(e) The appellant duly submitted to the Minister all of the returns it was required to produce under the ETA.
+(f) The Appellant duly collected and remitted to the Minister all of the amounts it was required to collect and remit under the ETA.
+(g) The adjustments made by the Minister with respect to the amounts allegedly owed by the appellant under the ETA for the period covered by the assessment are inaccurate and excessive.
+[6] In the alternative, the appellant submits that the alternative audit method used by the Minister did not produce reliable results supporting the adjustments made under the assessment dated December 17, 2009, for the following reasons in particular, listed at paragraph 16 of the Notice of Appeal:
+[translation]
+(a) The sample used by the auditor, namely, the Appellant's alcohol purchases during the course of the Period at issue, is clearly not representative of the total sales generated by the appellant during the course of that Period.
+(b) In this respect, the sales reconstructed by the auditor are based on the false assumption that 92% of the alcohol purchased by the Appellant had been sold during the course of the Period at issue, thereby failing to take into account important factors such as the following:
+(i) personal consumption of alcohol by the Appellant's directors and managers;
+(ii) alcohol provided free of charge to the Appellant's clients;
+(iii) the use of alcohol in meal preparation;
+(iv) alcohol provided on a sponsorship basis; and
+(v) breakage.
+(c) The samples taken by the auditor and on which the Assessment is based are inaccurate and not statistically reliable.
+[7] Finally, the appellant submits that the Minister was not entitled to impose the penalties, in particular for the following reasons, set out at paragraph 18 of the Notice of Appeal:
+[translation]
+(a) The Appellant duly collected and remitted to the Minister all of the amounts it was required to collect and remit under the ETA for the Period at issue.
+(b) The Appellant is not liable for any further amounts to the Minister under the ETA for the Period at issue.
+(c) The Appellant made no statement or omission in any document, whether voluntarily or in circumstances equivalent to gross negligence.
+(d) More specifically, and without limiting the generality of the above, the Appellant is not liable for any penalties to the Minister under section 285 of the ETA for the Period at issue.
+[8] The appellant is not contesting the purchases of beer, wine or sake it made during the period.
+[9] The appellant adduced the following documents before the Court:
+(a) the audit report dated December 8, 2009 (Exhibit A-1);
+(b) the detailed reconciliation of GST, Quebec sales tax, input tax credits (ITC) and input tax rebates (ITR) (Exhibit A-2); and
+(c) a worksheet showing the available litres of beer, wine and sake for each restaurant and the number of litres sold, as well as the number of litres consumed by the employees and the number of litres provided free of charge at events and for the Christmas and New Year holidays, with a confirmation of consumption by the employees of each restaurant attached (Exhibit A-3).
+[10] The evidence filed in Court by the respondent includes the following documents:
+(a) the Notice of Assessment dated December 17, 2009; the Minister's decisions on the objection and the GST/HST audit adjustment statements (Exhibit I-1);
+(b) the appellant's unaudited financial statements for December 31, 2008, 2007, and 2006 (Exhibit I-2);
+(c) a compilation made by the appellant of its monthly sales (Exhibit I‑3);
+(d) additional worksheets from the auditor (Exhibit I‑4); and
+(e) the summary of the appellant's unreported income (Exhibit I-5).
+[11] Several people testified on the appellant's behalf, including Thi Diem Trang Phan, sole director and owner of the appellant; Nguyen Chau, her spouse and the manager of both restaurants; Thang Phat Vuong, a head cook; Minh Hue Dang, a cook; Le Tri Dung, a cook; Mr. Jaccrya, a sushi chef; and Le Quang Trung, a server.
+[12] The purpose of the testimony of the appellant's employees was to confirm their unsworn written statements regarding their wine and beer consumption in the workplace, after the closing of the restaurant each evening and on special occasions (Exhibit A-3). According to them, the employees' consumption of beer and wine in the two restaurants during the period was approximately seven to nine cases of 24 bottles of beer per week, generally provided free of charge and sometimes charged at $1 per bottle. They also said that they would consume three to five bottles of wine per week that were charged at cost, while another two to three bottles of wine were consumed each week in tastings with clients and for new recipes. Finally, the employees confirmed that alcohol consumption was free on special occasions such as Christmas, the New Year, the Chinese New Year, restaurant anniversaries and other such celebrations.
+[13] Thi Diem Trang Phan first confirmed the restaurants' opening hours. Torii is open from Monday to Saturday. From Monday to Friday, the restaurant is open from 11:30 a.m. to 2:30 p.m. and 5:00 p.m. to 10:00 p.m.; on Saturdays, the restaurant is open from 5:00 p.m. to 10:00 p.m. Kingyo is open from Tuesday to Sunday, and the weekly opening hours are from 11:30 a.m. to 2:00 p.m. and 5:00 p.m. to 9:00 or 10:00 p.m. On weekends, the restaurant is open from 5:00 p.m. to 10:00 p.m. Ms. Phan explained that the restaurants seated about 90 people each and employed 30 to 35 people in total, including full-time and part-time employees, most of whom were of Asian origin and living in Montreal. Torii is in Laval, while Kingyo, which opened in October 2005, is in Blainville.
+[14] Ms. Phan, who studied accounting at University of Quebec at Montréal, explained that all sales and payments were recorded in the ALOHA computer system. A compilation of tips was prepared for each shift and a sales report provided to each server. At the end of each workday, a cash register reconciliation was prepared for each shift. At the end of each month, the consolidated operation results for both restaurants were prepared using Quick Book software. Ms. Phan herself prepared the tax returns and kept all the registers. Ms. Phan stated that she had given all of the documents and a copy of the computer system to the auditor and that she had answered all of the auditor's questions.
+[15] During the audit, Ms. Phan provided the auditor with the monthly sales reports (Exhibit I-3), which were compiled from invoices and servers' reports. On cross-examination, Ms. Phan admitted that the data in the monthly sales reports did not match the data in the ALOHA computer system, blaming the discrepancies on a loss of data caused by power outages in the new shopping centre where Kingyo was located. For 2008, the errors amounted to about $79,000, which Ms. Phan characterized as insignificant.
+[16] To justify the low ratio of alcohol sales to litres purchased, Ms. Phan pointed to her employees' consumption, which she estimated at eight to ten cases of 24 bottles of beer per week for the two restaurants, and complimentary drinks offered to customers by the manager in the dining rooms. However, Ms. Phan admitted that there was neither a button on the cash registers nor any other log for complimentary beverages, and no log to record consumption.
+[17] Nguyen Chau is the manager and sommelier for both restaurants and is in charge of hiring cooks and sushi chefs, most of whom live in Montreal. He explained that, during the afternoon break, from 2:00 to 5:00 p.m., the cooks eat, sleep, play poker or drink beer. He states that it is important to provide beer to the cooks to create a good atmosphere and maintain good relations with them. Beer is also provided as a reward for meeting sales targets. Cases of beer available to the employees are left in the restaurant kitchen refrigerators. Mr. Chau confirmed that no record was kept of the employees' beer consumption. Mr. Chau stated that he drank an average of six bottles of beer each day with the employees. Finally, Mr. Chau explained that once the free beer ran out, employees could obtain more by placing $1.00 per beer in a box left out for that purpose; the appellant would lose 0.25¢ per beer.
+[18] Mr. Chau was not able to explain the number and frequency of power outages in the restaurants. However, he stated that a generator was purchased for $6,000 and installed in the Kingyo restaurant.
+[19] Dario Grimard, a computer technician, testified at the hearing on the respondent's behalf and stated that, on May 14, 2009, he had made a copy of the hard drive of the server for each restaurant for 2008.
+[20] Sophie Leduc, the auditor from Revenu Québec, testified at the hearing and explained how she had conducted the audit and her findings. The audit commenced on January 27, 2009, at the accounting firm of Vinh, Prévost, Patenaude CA Inc. The appellant then provided the auditor with its monthly sales reports (Exhibit I-3). Before this meeting, the auditor made an initial visit on June 3, 2008, to the Torii restaurant, and made incognito visits to Torii on October 18, 2008, and Kingyo on November 20, 2008.
+[21] On February 18, 2009, the auditor visited the Torii restaurant to measure the amount of liquid poured into the wine glasses and the small and large sake carafes. She did the same thing on March 18, 2009, at the Kingyo restaurant.
+[22] On May 6, 2009, the auditor prepared an inventory of the alcohol in the Torii restaurant, in the presence of a representative of the appellant. On May 7, 2009, the exercise was repeated at the Kingyo restaurant and at Ms. Phan's residence.
+[23] On May 14, 2009, a copy was made of the hard drive of the server of each of the two restaurants.
+[24] The auditor explained that she had first performed a reconciliation of the tax returns, a supply risk assessment and a comparison of the deposit list with the reported income. No significant discrepancy was noted as a result of these analyses.
+[25] The auditor also reviewed the method for recording sales and noted that all client invoices were saved and compiled in daily summaries and that all the information was combined in the monthly sheets prepared by Ms. Phan.
+[26] The auditor audited the data from Ms. Phan's monthly sheets by randomly selecting the month of February 2007 for the Kingyo restaurant and November 2007 for the Torii restaurant. Each day's invoices for those months were compared with the information provided in Ms. Phan's monthly sheets. The auditor noted several discrepancies, but these were not substantial. According to the auditor, this exercise led her to conclude that the data in Ms. Phan's monthly sheets was not reliable.
+[27] The auditor also analyzed the income reported in the financial statements with the appellant's reported income. A small discrepancy was observed, but a discrepancy of $79,000 was observed when the income reported in the financial statements was compared with the income recorded in the 2008 hard drive copy.
+[28] However, the auditor found a large discrepancy when she analyzed the invoices for beer purchases with the statement of beer sales from the 2008 hard drive copy. For 2008, the auditor noted that 274 cases of beer in 341‑mL bottles and 85 cases of beer in 650‑mL bottles had been purchased without being sold and that 2,770 bottles of wine were missing. In terms of litres, a discrepancy of 6,000 litres of beverage was found for 2008, between litres purchased (14,051 litres) and litres sold (8,346 litres), according to the copy. For 2006 and 2007, beer sales were lower than beer purchases.
+[29] On the basis of these observations, the auditor decided to use an alternative method to ensure that all of the appellant's income was reported. The selected method consisted of reconstructing sales from purchases by applying a fixed ratio to certain items (beer, wine and sake) from a sampling of invoices. For 2006 and 2007, a 45‑day sample was chosen at random for each restaurant. For 2008, the number of litres of beer, wine and sake sold was easy to determine from the information in the hard drive copy. Estimated sales were established on the basis of an average unit price calculated in litres for each of the selected items multiplied by the number of litres purchased.
+[30] This reconstruction of sales revealed a discrepancy of $3,167,703.82 in income for the three audit years for the two restaurants, or about $1,000,000 per year.
+[31] Based on the appellant's submissions and the letter signed by all the employees who consumed alcohol in the restaurants, the auditor raised from 3% to 8% of the income the percentage of loss, complimentary beverages and personal consumption, representing $828,930.94 for the three years audited. According to the letter signed by the employees, their alcohol consumption represented about 60% of the purchases of both restaurants, but the appellant asked them to cover 35%.
+[32] Penalties of 25% were applied under section 285 of the ETA, representing $45, 947.25, given that the unreported amounts represented 49.76% of reported sales and that the false statements and omissions occurred repeatedly.
+Applicable legislative provisions and standard of proof
+[33] Subsection 286(1) of the ETA provides for the agent's duty to keep records:
+Every person who carries on a business or is engaged in a commercial activity in Canada, every person who is required under this Part to file a return and every person who makes an application for a rebate or refund shall keep records in English or in French in Canada, or at such other place and on such terms and conditions as the Minister may specify in writing, in such form and containing such information as will enable the determination of the person’s liabilities and obligations under this Part or the amount of any rebate or refund to which the person is entitled.
+[34] Subsection 288(1) of the ETA grants duly authorized persons the authority to audit, among other things, an agent's documents to determine his or her tax liability:
+An authorized person may, at all reasonable times, for any purpose related to the administration or enforcement of this Part, inspect, audit or examine the documents, property or processes of a person that may be relevant in determining the obligations of that or any other person under this Part or the amount of any rebate or refund to which that or any other person is entitled . . . .
+[35] Under subsection 296(1) of the ETA, the Minister of National Revenue may make an assessment, reassessment or additional assessment to determine, among other things, the net tax of an agent for a reporting period as well as the applicable penalties and interest.
+[36] Under subsection 299(3) of the ETA, an assessment is deemed valid and binding, subject to a reassessment and subject to being vacated on an objection or appeal under the same Part.
+[37] In Amiante Spec Inc. and Her Majesty the Queen, 2009 FCA 139 (CanLII), the Federal Court of Appeal made the following comments about the standard of proof applicable when a taxpayer wishes to challenge the validity of an assessment or reassessment:
+[15] Hickman reminded us that the Minister proceeds on assumptions in order to make assessments and that the taxpayer has the initial burden of demolishing the exact assumptions stated by the Minister. This initial onus is met where the taxpayer makes out at least a prima facie case that demolishes the accuracy of the assumptions made in the assessment. Lastly, when the taxpayer has met his or her onus, the onus shifts to the Minister to rebut the prima facie case made out by the taxpayer and prove the assumptions (Hickman, supra, at paragraphs 92, 93 and 94).
+. . .
+[23] A prima facie case is one "supported by evidence which raises such a degree of probability in its favour that it must be accepted if believed by the Court unless it is rebutted or the contrary is proved. It may be contrasted with conclusive evidence which excludes the possibility of the truth of any other conclusion than the one established by that evidence" (Stewart v. Canada, [2000] T.C.J. No. 53, paragraph 23).
+[24] Although it is not conclusive evidence, "the burden of proof put on the taxpayer is not to be lightly, capriciously or casually shifted", considering that "[i]t is the taxpayer’s business" (Orly Automobiles Inc. v. Canada, 2005 FCA 425, paragraph 20). This Court stated that the taxpayer "knows how and why it is run in a particular fashion rather than in some other ways. He [or she] knows and possesses information that the Minister does not. He [or she] has information within his [or her] reach and under his [or her] control" (ibid.).
+Analysis and conclusion
+[38] Counsel for the appellant argued that an alternative audit method may not be used in this case because the appellant had all of its accounting records and, after conducting four audits, the auditor found income discrepancies that varied between only 0.2% and 3.8%.
+[39] Courts allow tax authorities to use alternative audit methods not only in cases where the taxpayer does not have adequate accounting records, but also when the books, registers and financial statements are not reliable.
+[40] In this case, the appellant had no documents in support of the inventory counts. In the circumstances, it is not open to the appellant to argue that its books, registers and financial statements are complete, adequate and reliable.
+[41] The reconciliation of the income reported in the financial statements and the income obtained from the 2008 copy revealed that the income in the financial statements had been underestimated by $79,000. During the hearing, the appellant was unable to explain this discrepancy.
+[42] The analysis of the beer purchase invoices and the statement of beer sales obtained from the 2008 copy revealed a significant discrepancy, namely, that 274 cases of 341-mL bottles of beer and 85 cases of 650‑mL bottles of beer had been purchased without being sold, and that more than 2,128 litres of wine were missing.
+[43] The sampling of sales for the month of February 2007 for the Kingyo restaurant and November 2007 for the Torii restaurant compared with the information contained in the owner's monthly sheet did not reveal significant discrepancies, but the frequency and regularity of the discrepancies indicated that the appellant's reports were not reliable.
+[44] In the light of the evidence, I am of the view that the Minister was justified in using an indirect method to ensure that all of the appellant's income was reported.
+[45] Counsel for the appellant questions the reliability of the alternative method applied by the Minister, which was based on estimates and samples that could only produce approximate results. He argues that the case law consistently holds that the tax authorities must show that the premises upon which the alternative method is based are reliable.
+[46] With respect, I am of the view that the alternative method applied by the Minister produced reliable results. All of the invoices for the purchases of beer, wine and sake for the two restaurants and for the three years at issue were checked, and this has not been challenged by the appellant.
+[47] The number of litres of alcohol available for resale by the restaurant each year was calculated on the basis of the number of litres purchased and adjusted to take into account variations in inventory. The number of litres available for resale was multiplied by the ratio established during the capture of alcohol sales to calculate the estimated sales.
+[48] With the copy of the hard drive, all the information for 2008 was available, which allowed for a complete audit by census. The total sales and litres sold could be determined precisely. For 2006 and 2007, the auditor relied on a 45-day sample for each of the restaurants. The estimated sales were determined on the basis of an average unit price calculated in litres for each of the selected items multiplied by the number of litres purchased. This is how the discrepancies between the reconstructed sales and the reported sales were calculated.
+[49] Counsel for the appellant has not challenged any of the steps of the alternative method used by the auditor, instead submitting that, following the appellant's verifications of the internal consumption of beer by the appellant's employees, the auditor should have done a further audit to corroborate the results of the audit conducted using the alternative method. According to him, the 8% loss based on Restaurant Barolo Inc. c. Québec (Sous-ministre du Revenu), 2007 QCCQ 316 (CanLII) is arbitrary and fails to take into account the appellant's explanations. He also submits that he presented uncontested evidence that employees had consumed about 60% of the beer purchased by the appellant during the audit period. This does not constitute standard loss, in his view, but rather the consumption by employees of the majority of the purchases of an item used to reconstruct sales. In short, counsel for the appellant submits that the letter produced by the employees who had consumed alcohol and their testimony at the hearing should be accepted as prima facie evidence and that the respondent should bear the burden of proof.
+[50] For the following reasons, I cannot accept the above-mentioned testimony and letters as prima facie evidence, as the figures provided for the consumption of alcohol were implausible, vague and unreliable. The appellant produced no record of alcohol losses, complimentary drinks for clients, bottles of wine used in the kitchen or employee consumption of beer. Employee consumption of beer represented approximately 60% of the beer purchased by the appellant for the two restaurants, but for the Kingyo restaurant alone, employee consumption of beer represented 80% to 85% of the beer purchased for that restaurant. These consumption figures are impossible. The letters and testimony of the appellant's employees refer to their beer and wine consumption in general terms, about seven to nine cases of 24 bottles of beer and about three to five bottles of wine per week. The size of the bottles of beer and wine in millilitres is not specified, nor are the brands of the beer and wine consumed. The testimony of the appellant's managers was vague with respect to the employees who were allowed to drink beer at no charge and how the cases of beer were put at the employees' disposal. No explanation was provided for why, or according to what rules, the cases of beer were made available to the employees.
+[51] In the circumstances, the appellant did not provide sufficient evidence to demonstrate that the allocation of 8% by the auditor for promotion and internal use should be raised.
+[52] Counsel for the appellant did not make any submissions regarding the 25% penalty provided for at section 285 of the ETA. Section 285 provides that the penalty may be applied where a person "knowingly, or under circumstances amounting to gross negligence, makes or participates in, assents to or acquiesces in the making of a false statement or omission in a return". The respondent bears the burden of proof with respect to this provision.
+[53] The evidence shows significant and repeated omissions in the goods and services tax returns, namely, unreported sales representing 49.76% of reported sales, or $3,167,703.82 compared with reported sales of $6,365,002.00. The evidence shows that the appellant repeatedly made false statements and omissions in its tax returns. The appellant did not provide explanations for these omissions, and the only possible conclusion is that they are the result of gross negligence on its part.
+[54] For these reasons, the appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 14th day of May 2013.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+On this 11th day of July 2013
+François Brunet, Revisor
+CITATION: 2013 TCC 160
+COURT FILE NO.: 2011-335(GST)G
+STYLE OF CAUSE: 9100-8649 QUÉBEC INC.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: October 22 and 23, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: May 14, 2013
+APPEARANCES:
+Counsel for the appellant:
+Jacques Plante
+Counsel for the respondent:
+Philippe Morin
+COUNSEL OF RECORD:
+For the appellant:
+Name: Jacques Plante
+Firm: Fraser Milner Casgrain
+Montréal, Quebec
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

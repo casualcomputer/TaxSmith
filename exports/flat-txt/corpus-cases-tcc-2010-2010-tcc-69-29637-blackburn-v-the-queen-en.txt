@@ -1,0 +1,146 @@
+Title: Blackburn v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29637/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-69-29637-blackburn-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-02-04
+
+# Blackburn v. The Queen
+
+- Citation: 2010 TCC 69
+- Decision date: 2010-02-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6144, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blackburn v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-02-04
+Neutral citation
+2010 TCC 69
+File numbers
+2007-4989(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4989(IT)I
+BETWEEN:
+MEICHLAND BLACKBURN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 25, 2010 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ian Theil
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2003 taxation year is dismissed.
+Each party shall bear their own costs.
+Signed at Ottawa, Canada this 4th day of February 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 69
+Date: 20100204
+Docket: 2007-4989(IT)I
+BETWEEN:
+MEICHLAND BLACKBURN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Meichland Blackburn appeals in respect of an assessment made under the Income Tax Act for the 2003 taxation year.
+[2] In the assessment, the Minister of National Revenue disallowed a deduction claimed for legal expenses in the amount of $14,420.
+Preliminary matter
+[3] At the commencement of the hearing, the respondent brought a motion requesting an order that the appeal be quashed on the basis that no notice of objection had been properly served in respect of this matter as required by s. 169(1) of the Act.
+[4] Subsection 169(1) provides:
+169(1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+(Emphasis added.)
+[5] The appellant stated that he did serve a notice of objection within the time required by mailing a letter to the Kitchener/Waterloo tax service office. A copy of the letter, which was dated May 5, 2006, was included in the motion record.
+[6] The respondent submits that no notice of objection was received by the Canada Revenue Agency on or before the filing deadline. An affidavit of Stephanie Fong, a litigation officer, stated that she was unable to find in the CRA records evidence that the appellant had served a notice of objection in time.
+[7] The problem that I have with this evidence is that Ms. Fong did not attend court to be cross-examined on this affidavit. No out-of-court examination on the affidavit was held, which is understandable in the context of an informal procedure appeal.
+[8] Counsel for the respondent did not press the point and argued in the alternative that the letter dated May 5, 2006 was not properly served because the letter was not addressed to the chief of appeals. The letter was addressed simply to the Canada Customs and Revenue Agency, Kitchener/Waterloo Tax Service Office.
+[9] The respondent relies on the reasoning of Bowie J. in Mohammed v. The Queen, 2006 DTC 3156. The relevant passage provides, at para. 26 and 27:
+[26] […] I turn to subsection 165(1) of the Act which says that:
+A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection in writing setting out the reasons for the objection and all the relevant facts.
+It goes on to prescribe the time within which that must be done, and for the purposes of the present case, it would be 90 days following the mailing of the notice of assessment. Then it goes to on to provide in subsection (2):
+A notice of objection under this section shall be served by being addressed to the chief of appeals in a district office or a taxation centre of the Canada Customs and Revenue Agency and delivered or mailed to that office or centre.
+One notices at once that the language of subsection (2) is mandatory, and that of course, is reinforced by Justice Sexton's reasons in McClelland. Presumably, the reason that the language is mandatory is because a lot of documents are mailed or delivered to CRA at many offices throughout Canada. A notice of objection is a document of great significance because –– and this isn’t in dispute before me –– a valid notice of objection validly served is a necessary prerequisite to an appeal to this Court.
+[27] The importance of the document is obvious, and the importance of the document is the reason for the mandatory language, and that the language is indeed mandatory is affirmed both by the Interpretation Act and by the judgment in McClelland. Subsection 165(6) provides that:
+The Minister may accept the notice of objection served under this section that was not served in the manner required by subsection (2).
+It is inescapable, I think, that that is a discretionary matter with the Minister. The contrast between the mandatory language of subsections (1) and (2) and the permissive language of subsection (6) is no accident of drafting, and if the Minister does not choose in any particular case to accept an irregularly served notice of objection as a valid one, in my view this Court has no power to either overrule his declining to do so, or in any other way to validate an irregularly served notice of objection.
+[10] The problem that I have with this argument is that it was not mentioned either in the reply or in the motion record filed before the hearing. I am not satisfied that the appellant had sufficient notice of the argument prior to the hearing to be able to prepare a response.
+[11] Counsel for the respondent informed me at the hearing that the appellant did have prior notice of this argument by way of correspondence.
+[12] In my view, informal correspondence is not sufficient notice of the arguments that are to be made at the hearing. The appellant should be able to rely on the reply and motion material that are filed with the Court in order to understand the issues that the respondent intends to raise.
+[13] I see no reason why this issue could not have been raised by the respondent earlier. It is clear that the respondent knew about the letter dated May 5, 2006 because a copy was included in the motion record. However, no position was taken with respect to this letter in the motion material.
+[14] In the circumstances, it would be unfair in my view for the respondent to raise this issue at the commencement of the trial.
+Deductibility of legal expenses
+[15] As for the substantive issue, many of the relevant facts are set out in two prior decisions of this Court, both cited as Blackburn v. The Queen: 2004 DTC 2409 and 2006 DTC 3108. A brief summary will suffice here.
+[16] In October 1997, the appellant, a police officer, was charged with the criminal offence of dangerous driving. The incident occurred while the appellant was off duty.
+[17] The appellant was found guilty and in August 1999 he received a 30 day jail sentence. From the time of sentencing, the appellant was suspended from the police force without pay.
+[18] In July 2000, the conviction was quashed on appeal. The appellant was reassigned to duties with the police force and he received back pay for the period of suspension.
+[19] In February 2002, the criminal charges were retried. The outcome of the retrial was another conviction in June 2002.
+[20] An appeal of the subsequent conviction was instituted by the appellant but was unsuccessful.
+[21] From July 2002 until December 2002, the appellant was on sick leave without pay from his employment. In December 2002, the employment was terminated by the employer.
+[22] The appellant claims a deduction for legal expenses paid in 2003 in connection with the conduct of the appeal of the retrial.
+[23] In order for the appellant to be entitled to this deduction, the expenses must be incurred to collect or establish a right to salary or wages owed. The relevant legislative provisions, subsection 8(2) and paragraph 8(1)(b) of the Act, read as follows:
+8(2) Except as permitted by this section, no deductions shall be made in computing a taxpayer's income for a taxation year from an office or employment.
+8(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+[…]
+(b) amounts paid by the taxpayer in the year as or on account of legal expenses incurred by the taxpayer to collect or establish a right to salary or wages owed to the taxpayer by the employer or former employer of the taxpayer; (Emphasis added.)
+[24] I would first comment about the onus of proof on this issue. According to the reply, no assumptions were made by the Minister as to the nature of the legal expenses incurred. Counsel for the respondent acknowledged that the respondent has the burden of proof.
+[25] The appellant submitted in argument that if he had been successful in having the subsequent criminal conviction overturned, he would have been entitled to damages for wrongful termination of employment.
+[26] The problem that I have with this argument is that damages for wrongful termination of employment are not “salary or wages,” as that phrase is defined in the Act.
+[27] The relevant legislative provisions are the definitions of “salary or wages" and “retiring allowance" in subsection 248 of the Act.
+"salary or wages", except in sections 5 and 63 and the definition "death benefit" in this subsection, means the income of a taxpayer from an office or employment as computed under subdivision a of Division B of Part I and includes all fees received for services not rendered in the course of the taxpayer's business but does not include superannuation or pension benefits or retiring allowances;
+"retiring allowance" means an amount (other than a superannuation or pension benefit, an amount received as a consequence of the death of an employee or a benefit described in subparagraph 6(1)(a)(iv)) received
+(a) on or after retirement of a taxpayer from an office or employment in recognition of the taxpayer's long service, or
+(b) in respect of a loss of an office or employment of a taxpayer, whether or not received as, on account or in lieu of payment of, damages or pursuant to an order or judgment of a competent tribunal,
+by the taxpayer or, after the taxpayer's death, by a dependant or a relation of the taxpayer or by the legal representative of the taxpayer;
+(Emphasis added)
+[28] It is clear from the above definitions that damages for wrongful dismissal from an employment do not qualify as “salary or wages” for the purposes of s. 8(1)(b) of the Act. Accordingly, even if a successful appeal would have led to an award of damages, the legal expenses would not qualify for deduction pursuant to this provision.
+[29] The appellant submits that the reasoning of Bowie J. in the decision respecting the 2000 taxation year supports his position. I disagree.
+[30] The circumstances that were considered by Justice Bowie were significantly different than those here. In the facts before Justice Bowie, the legal expenses were incurred in connection with the appeal of the first conviction. These expenses were deductible because the successful appeal resulted in the appellant receiving remuneration for the period during which he had been suspended without pay. These amounts were salary or wages owed, and not damages for wrongful termination of employment.
+[31] In my view, the decision of Justice Bowie is not of assistance in this case.
+Disposition
+[32] The appeal will be dismissed. Each party shall bear their own costs.
+Signed at Ottawa, Canada this 4th day of February 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 69
+COURT FILE NO.: 2007-4989(IT)I
+STYLE OF CAUSE: MEICHLAND BLACKBURN and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 25, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: February 4, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ian Theil
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

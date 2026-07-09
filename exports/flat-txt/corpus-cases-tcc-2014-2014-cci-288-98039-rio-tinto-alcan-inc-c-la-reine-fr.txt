@@ -1,0 +1,144 @@
+Title: Rio Tinto Alcan inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/98039/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-288-98039-rio-tinto-alcan-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-10-14
+
+# Rio Tinto Alcan inc. c. La Reine
+
+- Citation: 2014 CCI 288
+- Decision date: 2014-10-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5177, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rio Tinto Alcan inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-10-14
+Référence neutre
+2014 CCI 288
+Numéro de dossier
+2012-1020(IT)G, 2012-4808(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2012-1020(IT)G,
+2012-4808(IT)G
+ENTRE :
+RIO TINTO ALCAN INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Requêtes entendues le 3 avril 2014, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de la requérante :
+Me Yves St-Cyr
+Avocates de l'intimée :
+Me Nathalie Labbé
+Me Susan Shaughnessy
+ORDONNANCE
+VU les requêtes présentées par la requérante afin d'obtenir des ordonnances confirmant, notamment, que de nouvelles cotisations établies à l'égard de la requérante pour les années d'imposition 2006 et 2007 constituent des cotisations supplémentaires et non des nouvelles cotisations aux fins de la Loi de l'impôt sur le revenu;
+ET VU les représentations des avocats et les documents déposés;
+LA COUR ORDONNE, conformément aux motifs de l'ordonnance ci-joints, ce qui suit :
+1. les requêtes sont rejetées sans frais;
+2. la requérante est autorisée à modifier au plus tard le 7 janvier 2015, son avis d'appel pour contester la nouvelle cotisation établie à son égard en date du 19 avril 2013 pour son année d'imposition 2006 conformément à l'article 54 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »);
+3. la requérante est autorisée à modifier au plus tard le 7 janvier 2015, son avis d'appel pour contester les nouvelles cotisations établies à son égard en date du 3 septembre 2013 et du 3 octobre 2013 pour son année d'imposition 2007, conformément à l'article 54 des Règles, pourvu que la requérante apporte préalablement des précisions dans son avis d'opposition concernant les redressements demandés à l'égard des nouvelles cotisations en date du 3 septembre 2013 et du 3 octobre 2013.
+Signé à Ottawa, Canada, ce 7e jour d'octobre 2014.
+« Réal Favreau »
+Juge Favreau
+Référence : 2014 CCI 288
+Date : 20141007
+Dossiers : 2012-1020(IT)G,
+2012-4808(IT)G
+ENTRE :
+RIO TINTO ALCAN INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Favreau
+[1] Il s'agit ici de deux (2) requêtes présentées par la requérante visant à obtenir des ordonnances de la Cour confirmant, notamment, que de nouvelles cotisations établies à l'égard de la requérante pour les années d'imposition se terminant le 31 décembre 2006 et le 31 octobre 2007 constituent des cotisations supplémentaires et non de nouvelles cotisations annulant les cotisations précédentes.
+[2] La distinction entre « nouvelles cotisations » et « cotisations supplémentaires » est importante pour la requérante pour s'assurer que les exigences prévues aux paragraphes 165(1.11) et 169(2.1) de la Loi de l’impôt sur le revenu, L.R.C. (1985) ch. 1 (5e Suppl.), telle que modifiée (ci-après la « Loi ») sont satisfaites dans le cadre de ses avis d'opposition et de ses appels auprès de la Cour canadienne de l'impôt.
+[3] Comme la requérante était une grande société au cours des années d'imposition en litige, des exigences particulières s'appliquent aux oppositions formulées par cette dernière. Ces exigences sont énoncées au paragraphe 165(1.11) de la Loi et son défaut de s'y conformer pourrait lui faire perdre son droit d'appel à la Cour canadienne de l'impôt. Le paragraphe 165(1.11) se lit comme suit :
+Oppositions par les grandes sociétés — Dans le cas où une société qui était une grande société au cours d'une année d'imposition, au sens du paragraphe 225.1(8), s'oppose à une cotisation établie en vertu de la présente partie pour l'année, l'avis d'opposition doit, à la fois :
+a) donner une description suffisante de chaque question à trancher;
+b) préciser pour chaque question, le redressement demandé, sous la forme du montant qui représente la modification d'un solde, au sens du paragraphe 152(4.4), ou d'un solde de dépenses ou autres montants non déduits applicable à la société;
+c) fournir, pour chaque question, les motifs et les faits sur lesquels se fonde la société.
+[4] Le paragraphe 169(2.1) précise en effet que seule une question soulevée dans un avis d'opposition qui rencontre les exigences du paragraphe 165(1.11) peut faire l'objet d'un appel à la Cour canadienne de l'impôt. Le paragraphe 169(2.1) se lit comme suit :
+Restrictions touchant l'appel d'une grande société — Malgré les paragraphes (1) et (2), la société qui était une grande société au cours d'une année d'imposition, au sens du paragraphe 225.1(8) et qui signifie un avis d'opposition à une cotisation établie en vertu de la présente partie pour l'année ne peut interjeter appel devant la Cour canadienne de l'impôt pour faire annuler ou modifier la cotisation qu'à l'égard des questions suivantes :
+a) une question relativement à laquelle elle s'est conformée au paragraphe 165(1.11) dans l'avis, mais seulement à l'égard du redressement, tel qu'il est exposé dans l'avis, qu'elle demande relativement à cette question;
+b) une question visée au paragraphe 165(1.14), dans le cas où elle n'a pas, à cause du paragraphe 165(7), signifier d'avis d'opposition à la cotisation qui a donné lieu à la question.
+[5] Par contre, le paragraphe 165(7) de la Loi prévoit qu'un avis d'opposition à une nouvelle cotisation ou à une cotisation supplémentaire est non requis lorsque la nouvelle cotisation ou la cotisation supplémentaire concerne une question visée par l'avis d'opposition signifié à l'encontre d'une cotisation. Le paragraphe 165(7) se lit comme suit :
+Avis d'opposition non requis — Lorsqu'un contribuable a signifié un avis d'opposition à une cotisation conformément au présent article et que, par la suite, le ministre procède à une nouvelle cotisation ou établit une cotisation supplémentaire concernant l'impôt, les intérêts, les pénalités ou autres montants que l'avis d'opposition visait et envoie au contribuable un avis de nouvelle cotisation ou de cotisation supplémentaire, le contribuable peut, sans signifier d'avis d'opposition à la nouvelle cotisation ou la cotisation supplémentaire :
+a) interjeter appel auprès de la Cour canadienne de l'impôt conformément à l'article 169;
+b) si un appel a déjà été interjeté auprès de la Cour canadienne de l'impôt relativement à cette cotisation, modifier l'avis d'appel en y joignant un appel relativement à la nouvelle cotisation ou à la cotisation supplémentaire, dans la forme et selon les modalités qui peuvent être fixées par la Cour canadienne de l'impôt.
+A. Faits relatifs à l’année d’imposition se terminant le 31 décembre 2006 - dossier 2012-1020(IT)G
+[6] La requérante est actuellement en appel durant la Cour canadienne de l’impôt (dossier 2012-1020(IT)G) d’une cotisation émise par le ministre du Revenu national (le « ministre ») le 14 juillet 2011 à l’endroit de la requérante pour son année d’imposition 2006 (la « première cotisation »).
+[7] Les interrogatoires au préalable furent complétés par les parties avant le 2 avril 2013 en ce qui a trait à la partie la plus importante de l’appel, soit le processus de vérification et l’éligibilité des dépenses réclamées au titre de dépenses de recherche scientifique de développement expérimental, encourues par la requérante et refusées par la première cotisation. Les engagements pris à cet égard ont presque tous été complétés.
+[8] Le 19 avril 2013, le ministre a établi une autre cotisation à l’endroit de la requérante pour son année d’imposition 2006 (la « deuxième cotisation ») afin de refuser des pertes de sociétés étrangères affiliées déduites par la requérante.
+[9] La requérante a, le 18 juillet 2013, signifié au ministre un avis d’opposition à l’encontre de la deuxième cotisation étant d'avis qu’il s’agissait d’une cotisation supplémentaire et non d’une nouvelle cotisation.
+[10] Selon l’intimée, la cotisation en date du 19 avril 2013 établie en vertu du sous-alinéa 152(4)b) (iii) de la Loi à l’égard de la requérante pour l’année d’imposition 2006 est une nouvelle cotisation et non une cotisation supplémentaire.
+[11] La position de l’intimée repose sur la déclaration sous serment de madame Monique Poirier produite en vertu de l’article 68 des Règles, laquelle a complété le formulaire T7W-C expliquant les changements apportés au revenu imposable de la requérante. Ledit formulaire T7W-C a été déposé comme pièce à la déclaration sous serment de la vérificatrice de l’Agence du Revenu du Canada (l’« ARC »).
+[12] Tel qu’indiqué au formulaire T7W-C, le point de départ de la nouvelle cotisation du 19 avril 2013 est le « revenu net aux fins de l’impôt antérieurement cotisé » au montant de 1 694 939 106 $, lequel montant comprenait les ajustements effectués par la cotisation précédente du 14 juillet 2011 pour l’année d’imposition 2006 de la requérante. Aucune modification n’a été apportée à ces ajustements.
+[13] Au montant du « revenu net aux fins de l’impôt antérieurement cotisé », un montant de 1 681 804 $ a été ajouté à titre de « revenu étranger accumulé tiré de biens » en vertu du paragraphe 91(1) de la Loi. Comme la déduction prévue au paragraphe 91(4) de la Loi au montant de 281 696 $ a été refusée, un montant de 1 963 500 $ a été ajouté au revenu de la requérante. Le revenu net révisé aux fins de l’impôt de la requérante a été établi à 1 696 902 606 $.
+[14] Du montant du revenu net révisé, les montants des dividendes imposables, des pertes autres qu’en capital, des pertes en capital et des dons ont été soustraits de sorte que le revenu imposable révisé de la requérante pour son année d’imposition 2006 a été établi à 169 828 709 $.
+[15] La jurisprudence et la doctrine abondent dans le même sens dans la situation où le revenu imposable révisé du contribuable a été augmenté en tenant compte des ajustements antérieurs, en ce que cela constitue une indication très claire pour qualifier la cotisation comme étant une « nouvelle cotisation » au lieu d'une « cotisation supplémentaire ».
+[16] Les décisions Parent c. Canada, [2003] A.C.I. no 445 (CCI)(QL), Walkem c. M.N.R., 71 DTC 5288 (C.F. 1re instance) et Lucien Rémillard c. Sa Majesté la Reine, 2011 CCI 327 répondent à la question soulevée par la requérante dans sa requête et permettent à la Cour de conclure que la cotisation du 19 avril 2013 constitue bel et bien une nouvelle cotisation.
+[17] Dans le même sens, les auteurs qui se sont penchés sur la distinction entre « nouvelle cotisation » et « cotisation supplémentaire » considèrent que l’augmentation du revenu imposable total sur un avis de cotisation indique qu’il s’agit d’une nouvelle cotisation et non d’une cotisation supplémentaire (voir à ce sujet C. Campbell dont l’ouvrage intitulé « Administration of Income Tax 2013 » a été cité par la Cour Suprême du Canada dans l’arrêt Agence du Revenu c. Services Environnementaux AES, [2013] 3 S.C.R. p. 859, (2013) page 398; B. Russell, "Assessments, Reassessments and Waivers, 2012 Tax Dispute Resolution Compliance and Administration", Conference Report (Toronto: Canadian Tax Foundation, 2013) 26: 1-15; et D. Smith « Reassessments, Waivers, Amended Returns and Refunds », Corporate Management Tax Conference 1988, à la page 8:8).
+[18] Puisque, par son avis d’opposition du 18 juillet 2013, la requérante s’est dûment opposée aux redressements qui ont fait l’objet de la nouvelle cotisation établie le 19 avril 2013 pour l’année d’imposition 2006 et que les exigences prévues aux paragraphes 165(1.11) et 169(2.1) de la Loi ont été satisfaites, la Cour autorise la requérante à modifier au plus tard le 7 janvier 2015, son avis d’appel pour contester la nouvelle cotisation établie à son égard pour l'année d’imposition 2006, conformément à l’article 54 des Règles.
+B. Faits relatifs à l’année d’imposition se terminant le 31 octobre 2007 - dossier no. 2012-4808(IT)G [19] Les nouvelles cotisations en date du 3 septembre et du 3 octobre 2013 ont été établies par le ministre suite à une demande de rajustement de la part de la requérante et ces nouvelles cotisations ont eu pour effet de diminuer l’impôt payable par la requérante.
+[20] En vertu de la nouvelle cotisation datée du 3 septembre 2013, le total de l’impôt fédéral à payer par la requérante en vertu de la Partie I de la Loi a été diminué de 5 492 114 $ par rapport au montant d’impôt à payer établi par la nouvelle cotisation datée du 11 mai 2012.
+[21] En vertu de la nouvelle cotisation datée du 3 octobre 2013, le total de l'impôt fédéral à payer par la requérante en vertu de la Partie I de la Loi a été diminué d’un montant additionnel de 1 053 087 $ par rapport au montant d’impôt à payer établi par la nouvelle cotisation datée du 11 mai 2012.
+[22] Suite à ces nouvelles cotisations datées du 3 septembre 2013 et du 3 octobre 2013, l’impôt à payer sur le revenu en vertu de la Partie I de la Loi, est passé de 99 413 327 $ à 92 867 526 $, établi par la nouvelle cotisation datée du 11 mai 2012.
+[23] Selon les principes énoncées ci-dessus à la section A pour l’année d’imposition 2006, les nouvelles cotisations établies en date du 3 septembre 2013 et du 3 octobre 2013, relativement à l’année d’imposition se terminant le 31 octobre 2007, sont de « nouvelles cotisations ».
+[24] Le 29 novembre 2013, la requérante a signifié un avis d’opposition à l’encontre des nouvelles cotisations datées du 3 septembre et du 3 octobre 2013 à l’égard de l’année d’imposition se terminant le 31 octobre 2007. L’avis d’opposition fait spécifiquement référence aux nouvelles cotisations datées du 3 septembre et du 3 octobre dans le titre de l’avis d’opposition et aux paragraphes 221, 262 à 268 et 432. Par contre, les paragraphes 262 à 268 ne décrivent pas avec suffisamment de précisions, les ajustements effectués par le ministre pour établir les nouvelles cotisations du 3 septembre et du 3 octobre 2013.
+[25] Au paragraphe 264 de l’avis d’opposition, il est mentionné qu’un montant de 18 356 946 $ a été ajouté au revenu de la requérante à titre de « revenu étranger accumulé tiré de biens » mais il n’est pas précisé qu’il s’agit de changements apportés à l’année d’imposition 2005 de la requérante. L’inclusion de ce montant de 18 356 946 $ dans le revenu de la requérante pour l’année d’imposition 2005 a eu pour effet de baisser le « solde des pertes autres qu’en capital » pour l’année d’imposition 2005 d’un montant de 15 664 647 $. Par conséquent, cela a eu un impact sur le montant des « pertes autres qu’en capital » que la requérante peut appliquer à l’année d’imposition 2007 en vertu de l’alinéa 111(1)(a) de la Loi.
+[26] Lors de l’audience, les avocates de l’intimée ont suggéré à la requérante de préciser dans son avis d’opposition, le redressement décrit au paragraphe précédent, comme le prévoit le paragraphe 165(1.11) de la Loi, dans le but de lui permettre d’appeler devant la Cour canadienne de l’impôt des redressements effectués par les nouvelles cotisations datées du 3 septembre et du 3 octobre 2013.
+[27] Compte tenu de ce qui précède, la Cour autorise la requérante à modifier, au plus tard le 7 janvier 2015, son avis d’appel pour contester les nouvelles cotisations établies à son égard pour l'année d’imposition 2007, conformément à l’article 54 des Règles, pourvu que la requérante apporte préalablement des précisions dans son avis d’opposition concernant les redressements demandés à l’égard des nouvelles cotisations établies en date du 3 septembre et du 3 octobre 2013.
+[28] Pour ces motifs, les requêtes de la requérante sont rejetées sans frais.
+Signé à Ottawa, Canada ce 7e jour d’octobre 2014.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2014 CCI 288
+Nº DES DOSSIERS DE LA COUR :
+2012-1020(IT)G
+2012-4808(IT)G
+INTITULÉ DE LA CAUSE :
+Rio Titan Alcan Inc. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 3 avril 2014
+MOTIFS DE L'ORDONNANCE PAR :
+L'honorable juge Réal Favreau
+DATE DE L'ORDONNANCE :
+le 7 octobre 2014
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Yves St-Cyr
+Avocates de l'intimée :
+Me Nathalie Labbé
+Me Susan Shaughnessy
+AVOCAT INSCRIT AU DOSSIER :
+Pour la requérante :
+Nom :
+Me Yves St-Cyr
+Cabinet :
+Dentons Canada LLP
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

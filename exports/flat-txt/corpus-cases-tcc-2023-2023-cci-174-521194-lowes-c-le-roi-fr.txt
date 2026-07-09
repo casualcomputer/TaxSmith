@@ -1,0 +1,137 @@
+Title: Lowes c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521194/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-174-521194-lowes-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-12-20
+
+# Lowes c. Le Roi
+
+- Citation: 2023 CCI 174
+- Decision date: 2023-12-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5649, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lowes c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-12-20
+Référence neutre
+2023 CCI 174
+Numéro de dossier
+2022-3121(GST)APP
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2022-3121(GST)APP
+ENTRE :
+BETTY LOWES,
+requérante,
+et
+SA MAJESTÉ LE ROI
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 11 décembre 2023 à Toronto (Ontario)
+Devant : l’honorable juge David E. Spiro
+Comparutions :
+Pour la requérante :
+La requérante elle-même
+Avocat de l’intimé :
+Me Eric Myles
+JUGEMENT
+La demande d’ordonnance en vertu du paragraphe 304(1) de la Loi sur la taxe d’accise visant à proroger le délai accordé à la requérante pour déposer un avis d’opposition auprès du ministre du Revenu national à l’encontre de cotisations pour les périodes de déclaration annuelles commençant le 1ᵉʳ janvier 2013 et se terminant le 31 décembre 2013 et commençant le 1ᵉʳ janvier 2014 et se terminant le 31 décembre 2014 est rejetée, sans dépens.
+Signé à Ottawa, Canada, ce 20e jour de décembre 2023.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 3e jour de janvier 2024.
+Liette Girard
+Référence : 2023 CCI 174
+Date : 20231220
+Dossier : 2022-3121(GST)APP
+ENTRE :
+BETTY LOWES,
+requérante,
+et
+SA MAJESTÉ LE ROI
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Spiro
+[1] La requérante, Mme Betty Lowes, demande qu’une ordonnance soit rendue en vertu du paragraphe 304(1) de la Loi sur la taxe d’accise (la « LTA ») prorogeant le délai pour déposer un avis d’opposition auprès du ministre du Revenu national (le « ministre ») à l’encontre de cotisations pour les périodes de déclaration annuelles commençant le 1ᵉʳ janvier 2013 et se terminant le 31 décembre 2013 et commençant le 1ᵉʳ janvier 2014 et se terminant le 31 décembre 2014.
+[2] Pour en arriver à ma décision, je me suis fondé sur les faits énoncés dans l’affidavit modifié d’un agent de l’Agence du revenu du Canada produit par l’intimé et sur le témoignage de vive voix de Mme Lowes. J’ai également pris connaissance d’un document qu’elle a transmis à la Cour le 15 décembre 2023.
+[3] Selon les faits non contestés énoncés dans l’affidavit modifié déposé par l’intimé, le ministre a conclu le processus de cotisation en envoyant à Mme Lowes un avis de cotisation pour chacune de ces deux périodes de déclaration le 31 décembre 2015 (les « cotisations de 2015 »).
+[4] En vertu du paragraphe 301(1.1) de la LTA, Mme Lowes avait 90 jours à compter du 31 décembre 2015 pour déposer un avis d’opposition auprès du ministre pour contester les cotisations de 2015. Le paragraphe 301(1.1) de la LTA prévoit ce qui suit :
+301(1.1) La personne qui fait opposition à la cotisation établie à son égard peut, dans les 90 jours suivant le jour où l’avis de cotisation lui est envoyé, présenter au ministre un avis d’opposition, en la forme et selon les modalités déterminées par celui-ci, exposant les motifs de son opposition et tous les faits pertinents..
+[Non souligné dans l’original.]
+[5] Le délai de 90 jours accordé à Mme Lowes pour déposer un avis d’opposition à l’encontre des cotisations de 2015 se terminait le 30 mars 2016.
+[6] Même si Mme Lowes n’avait pas déposé d’avis d’opposition à cette date, elle avait encore le temps de présenter une demande de prorogation du délai de dépôt au ministre. Mais elle devait demander cette prorogation de délai dans l’année suivant le 30 mars 2016, soit au plus tard le 30 mars 2017. Cette exigence est énoncée aux alinéas 303(7)a) et 304(5)a) de la LTA :
+Article 303 – Prorogation du délai par le ministre
+303 (1) Le ministre peut proroger le délai pour produire un avis d’opposition dans le cas où la personne qui n’a pas fait opposition à une cotisation en application de l’article 301 […] dans le délai par ailleurs imparti lui présente une demande à cet effet.
+***
+303 (5) Sur réception de la demande, le ministre l’examine avec diligence et y fait droit ou la rejette. Dès lors, il avise la personne de sa décision par courrier certifié ou recommandé.
+***
+303 (7) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande est présentée dans l’année suivant l’expiration du délai par ailleurs imparti pour faire opposition […];
+b) la personne démontre ce qui suit :
+(i) dans le délai d’opposition par ailleurs imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou avait l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+Article 304 – Prorogation du délai par la Cour canadienne de l’impôt
+304 (1) La personne qui a présenté une demande en application de l’article 303 peut demander à la Cour canadienne de l’impôt d’y faire droit après :
+a) le rejet de la demande par le ministre;
+b) l’expiration d’un délai de 90 jours suivant la signification de la demande, si le ministre n’a pas avisé la personne de sa décision.
+Toutefois, une telle demande ne peut être présentée après l’expiration d’un délai de 30 jours suivant l’envoi de la décision à la personne selon le paragraphe 303(5).
+***
+304 (4) La Cour canadienne de l’impôt peut rejeter la demande ou y faire droit. Dans ce dernier cas, elle peut imposer les conditions qu’elle estime justes ou ordonner que l’avis d’opposition soit réputé valide à compter de la date de l’ordonnance.
+304 (5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l’année suivant l’expiration du délai d’appel par ailleurs imparti;
+b) la personne démontre ce qui suit :
+(i) dans le délai d’appel par ailleurs imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+[Non souligné dans l’original.]
+[7] Mme Lowes a tenté de déposer un avis d’opposition auprès du ministre le 14 septembre 2022. Le ministre a écrit à Mme Lowes le 8 novembre 2022 pour lui dire qu’il rejetait l’avis d’opposition parce qu’il avait été déposé en retard.
+[8] Mme Lowes a déposé une demande de prorogation du délai auprès de la Cour le 13 décembre 2022[1].
+[9] Au cours de sa plaidoirie, Mme Lowes a mentionné qu’elle aurait peut-être reçu des avis de nouvelle cotisation pour ses périodes de déclaration de 2013 et 2014. Comme cela aurait prorogé son délai pour s’opposer et pour demander une prorogation du délai pour déposer un avis d’opposition, j’ai ajourné l’audience pour lui donner l’occasion de trouver ces avis. Elle a transmis un document à la Cour le 15 décembre 2023. Il s’avère que le ministre n’a pas établi de nouvelle cotisation à l’égard de ses périodes de déclaration de 2013 ou de 2014. Toutefois, dans ce document, Mme Lowes a décrit en détail de nombreuses conversations qu’elle a eues avec des représentants de l’ARC, qui ont toutes eu lieu après le 30 mars 2017. Ces conversations n’ont aucune pertinence pour disposer de la présente demande.
+[10] Étant donné qu’elle n’a pas présenté de demande de prorogation du délai pour déposer un avis d’opposition dans le délai d’un an prévu aux alinéas 303(7)a) et 304(5)a) de la LTA, je n’ai d’autre choix que de rejeter la demande de prorogation du délai de Mme Lowes pour déposer un avis d’opposition à l’encontre des cotisations de 2015.
+Signé à Ottawa, Canada, ce 20e jour de décembre 2023.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 3e jour de janvier 2024.
+Liette Girard
+RÉFÉRENCE :
+2023 CCI 174
+NO DU DOSSIER DE LA COUR :
+2022-3121(GST)APP
+INTITULÉ :
+BETTY LOWES ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 11 décembre 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Spiro
+DATE DU JUGEMENT :
+Le 20 décembre 2023
+COMPARUTIONS :
+Pour la requérante :
+La requérante elle-même
+Avocat de l’intimé :
+Me Eric Myles
+AVOCAT INSCRIT AU DOSSIER :
+Pour la requérante :
+Nom :
+S.O.
+Cabinet :
+Pour l’intimé :
+Shalene Curtis-Micallef Procureure générale adjointe du Canada Ottawa, Canada
+[1]L’avocat de l’intimé m’a exhorté à rejeter la demande au motif qu’elle ne satisfaisait pas à l’exigence de dépôt de 30 jours prévue au paragraphe 304(1) de la LTA. Bien que cet argument ne soit pas dénué de fondement, je préfère rejeter cette demande en raison du délai d’un an plus souvent problématique prévu aux alinéas 303(7)a) et 304(5)a) de la LTA.

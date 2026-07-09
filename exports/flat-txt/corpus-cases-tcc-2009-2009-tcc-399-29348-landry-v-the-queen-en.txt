@@ -1,0 +1,256 @@
+Title: Landry v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29348/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-399-29348-landry-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-08-10
+
+# Landry v. The Queen
+
+- Citation: 2009 TCC 399
+- Decision date: 2009-08-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6903, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landry v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-08-10
+Neutral citation
+2009 TCC 399
+File numbers
+2007-3211(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3211(IT)G
+BETWEEN:
+MARTINE LANDRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 9, 10, 11, 12 and 13, 2009, at Montreal, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Yves Ouellette
+Nicolas Cayouette
+Nicolas Dubé (student-at-law)
+Counsel for the Respondent:
+Marie-Claude Landry
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 1998, 1999, 2000, 2001 and 2002 taxation years is allowed, with costs in the amount of $35,000, and the reassessments are vacated.
+Signed at Ottawa, Canada, this 10th day of August 2009.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 30th day of September 2009.
+Erich Klein, Revisor
+Citation: 2009 TCC 399
+Date: 20090810
+Docket: 2007-3211(IT)G
+BETWEEN:
+MARTINE LANDRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+Factual Background
+Appellant's testimony
+[1] The appellant has appealed from the reassessments made against her under the Income Tax Act ("the ITA") for the 1998, 1999, 2000, 2001 and 2002 taxation years. The assessments were made using the net worth method, and the Minister of National Revenue ("the Minister") added the amounts of $91,388, $89,146, $68,068, $181,849 and $172,176 as unreported income to the appellant's income for the 1998, 1999, 2000, 2001 and 2002 taxation years respectively.
+[2] The issue I must decide is whether the appellant has established, on a balance of probabilities, that the assessments in issue are incorrect and that the increase in her net worth during the period in question is attributable entirely to non-taxable gifts received during the 2001 and 2002 taxation years. The 1998, 1999 and 2000 taxation years are statute-barred and the respondent has the burden of proving the circumstances warranting reassessments with regard to those years. With respect to the penalties, the burden of proof is on the respondent.
+[3] The appellant testified that the discrepancies calculated by the Minister using the net worth method were attributable largely to non-taxable gifts made to her by Mr. X.[1] The discrepancies were also attributable in part to money she won at the Casino de Montréal.
+[4] The Appellant met Mr. X when she was working as an erotic dancer at the Chez Parée club in Montreal. Mr. X visited the club occasionally, approximately two or three times a week. Most of the time, he went there alone.
+[5] Mr. X is a well-known businessman in Montreal. Today Mr. X is 80 years old, while at the beginning of his relationship with the appellant he was about 68 years old.
+[6] The appellant testified that at first Mr. X was simply a client. However, their relationship soon changed. He paid the appellant to keep him company rather than to dance. The appellant said that she was attracted by the important people Mr. X knew. Little by little, he introduced her to a world she did not know. According to the appellant, Mr. X was impressed by her determination to succeed despite her modest background; she is the adopted daughter of a single mother.
+[7] According to the appellant, their relationship evolved into a symbolic father‑daughter relationship. As the relationship developed, Mr. X gave her increasingly generous gifts. At first, he bought her luxury items such as luggage, scarves, Louis Vuitton handbags, jewellery, eight fur coats and various cars, including a Corvette. Later on, he gave her large cash gifts as set out below.
+[8] The appellant testified that she left Chez Parée following an altercation with a client who, she said, was dangerous. At that time, she was concerned about her future. According to her testimony, Mr. X promised he would help her get started in business.
+[9] The appellant was looking to buy a business she could run. After some unsuccessful efforts, Mr. X mentioned to her that he knew of a pub, Le Sainte‑Élisabeth, located near the headquarters of his business. The owners of the business had gone bankrupt.
+[10] One of Mr. X's companies, Les Immeubles Léopold Inc., lent $150,000 to 9057-6042 Québec Inc., a management company owned by the appellant, so that it could buy shares of the company that held the business.[2]
+[11] The appellant rented the premises in Montreal where the pub was located. She testified that she had a lot of problems with the lease and that she feared that the rent would eventually increase. The appellant at that point persuaded Mr. X to buy the building in question. According to the appellant, Mr. X wanted to buy the building at the best price. Since he was a very well-known businessman, he told her she could negotiate a better price, given her modest means. The offer to purchase was subsequently assigned to one of Mr. X's real estate companies.
+[12] A few years later, the appellant noticed that a member of Mr. X's family was interested in the pub. She was afraid of losing the business on the death of Mr. X. He accordingly agreed to forgive the $150,000 loan. In addition, he sold the building in which the pub was located for the modest sum of approximately $50,000, according to Exhibit A-2, Tab 14. The cost of the building to the seller, including improvements, was approximately $315,000.[3]
+[13] The appellant testified that during the years in question, she usually met Mr. X in the evening, around 5:00 or 6:00 p.m., at the pub Le Sainte‑Élisabeth. Three or four times a week, they went to the Casino de Montréal. According to the appellant's testimony, Mr. X was a VIP gambler and he bet between $5,000 and $12,000 every time they went to the casino.
+[14] At the end of each visit to the casino, Mr. X gave the appellant the amount of his initial stake, plus the evening's winnings or minus the losses. The appellant used to take those amounts and deposit them in automatic teller machines (ATMs) at her bank. Since the amounts were large, she sometimes jammed the ATMs. A representative of her bank warned her that she could not put more than twenty bills in an envelope. This explains why there was sometimes more than one deposit of $1,000 in a single evening. Each envelope contained twenty $50 bills.
+[15] The appellant explained that she was caught off guard when she learned that her personal income tax file had been transferred to the Investigations Division of the Canada Revenue Agency ("CRA") because of the information collected by a CRA liaison officer. Liaison officers work closely with police forces to gather information that could lead to the taxing of the proceeds of crime.
+[16] Taken by surprise, the appellant telephoned Mr. X to persuade him to go and explain to the CRA that the discrepancy calculated by the Agency was attributable to the large gifts he had made to her. At that time, the appellant was worried that Mr. X would be reluctant to admit that he had made large gifts to her, since the cash amounts she had received came from cash sales made at retail outlets belonging to Mr. X. According to the appellant, the members of Mr. X's family had access to the cash registers and arranged things so that certain sales were not recorded. The appellant explained that the proceeds of those sales were placed in a safe located at the headquarters of Mr. X's business.
+[17] Mr. X did not want to get involved in the precarious situation in which the appellant found herself. She then turned to her lawyer, Mr. Ouellette, so that he could guide her in her dealings with the CRA. From the beginning of her first meeting with her lawyer, the appellant indicated that she wanted to do everything possible to protect the identity of Mr. X. She was concerned about Mr. X's reputation and about the effect that their relationship might have on his business. The appellant also wanted to defend herself during the CRA's audit, while protecting the identity of Mr. X.[4] The appellant, with the help of her lawyer, devised a strategy aimed at making a full defence during the CRA audit and at the same time protecting the identity and reputation of Mr. X. An agreement was reached between the appellant's lawyer and a CRA representative. Under that agreement, Mr. X's name would be provided in a sealed letter to senior officials of the Investigations Division so that his name would remain secret. Subsequently, however, Mr. X's name was revealed to the CRA because the Agency did not believe the version of the facts given by the appellant's lawyer.
+Testimony of Mr. Noiseux, CRA auditor
+[18] Following the identification of Mr. X, the CRA waited a few months before setting up a meeting with him to verify the appellant's version of the facts.
+[19] Mr. Noiseux testified that following that interview, no audit of Mr. X personally, nor of his businesses, was undertaken. Mr. Noiseux had had considerable difficulty reaching Mr. X. He had tried several times to telephone him, but without success. He had even tried to reach him at his businesses and telephoned some of his employees in order to contact Mr. X, but once again without success.
+[20] On October 21, 2004, Mr. Noiseux received a telephone call from Mr. X. According to Mr. Noiseux's notes, Mr. X was very reluctant and did not want to make an appointment to meet with him. During that conversation, Mr. X explained to him that all the documents he was looking for were with his accountant, Mr. Landreville. He also stated that he had no memory of the contents of those documents.[5] Mr. X mentioned as well that his companies had been audited some time before and that no changes had been made.
+[21] On October 26, 2004, Mr. Noiseux finally met with Mr. X. With the latter's consent, the interview was recorded on DVD. During the meeting, Mr. X stated repeatedly that he had never given the appellant large sums of money during the period from January 1, 1997, to December 31, 2003. However, he admitted that he had advanced her, at some fifteen book launches, amounts varying between $1,000 and $1,500.
+[22] Following the interview, Mr. Noiseux received a call from Mr. X on March 22, 2005. Mr. X confirmed to him that he had written a cheque for $150,000 in 1997, when he had made a loan to 9057-6042 Québec Inc., which the appellant owned.[6] Mr. X also said that the appellant had financial problems and that she had never repaid the principal amount of the loan, nor had she paid any of the interest stipulated. Moreover, Mr. X said that he had received a cheque for $160,000 in connection with the sale of the building on Sainte-Élisabeth Street in 2003.[7] However, the appellant demonstrated, on a balance of probabilities, that the amount received for the building was $52,137.30 and not $160,000. Mr. X said, however, that the cheque had possibly been deposited into the account of Les Immeubles Léopold, but that he would have to look into the matter to be sure.[8] He said he would get back to Mr. Noiseux later to confirm that detail.
+Testimony of Robert Paquette and Mélanie Chrétien
+[23] The appellant's common-law spouse, Mr. Paquette, corroborated the appellant's testimony that she had received, in the spring of 1998,[9] the sum of $168,000, in wads of $1,000, from Mr. X.[10] According to Mr. Paquette, that amount was used to build a house for the appellant in Blainville, Quebec.[11]
+[24] Ms. Chrétien testified that she was a childhood friend of the appellant. For several years, she was employed as an erotic dancer at the same club as the appellant. Ms. Chrétien said that Mr. X was a very big customer of the appellant. She explained that Mr. X had given them a trip to the Bahamas. He had accompanied them to the airport and given the appellant a large sum of money for everyday expenses on the trip. Ms. Chrétien also testified that when the appellant left her employment at Chez Parée, Mr. X, the appellant and she celebrated by partying in the restaurants and bars of Montreal. Moreover, during that evening Mr. X gave the appellant a large sum of money in an IGA grocery bag. That money was later in the Appellant's handbag when she and Ms. Chrétien were dancing in a bar near the Hôtel de la Montagne.[12]
+[25] Ms. Chrétien mentioned that she was also present at the appellant's home when the appellant returned from an outing with Mr. X. She observed that Mr. X gave the appellant a grocery bag containing cash. Ms. Chrétien explained that she was at the appellant's home that evening because she had to pick up her mother, who was babysitting the appellant's children.
+Testimony of John Baril, Bernard Durand and Paul-André Cyr
+[26] Mr. Baril, who has been the manager of the Chez Parée club for many years, confirmed that Mr. X was a very important client of the appellant. He explained that Mr. X was in the habit of buying expensive fur coats for the appellant. The appellant testified and the documentary evidence has established that she received approximately eight fur coats from Mr. X. In addition, Mr. X even introduced Mr. Baril to the fur coat manufacturer because Mr. Baril was looking to buy a coat for his wife.
+[27] Mr. Durand, the person in charge of luxury cars at the John Scotti dealership, testified that a man resembling Mr. X bought a 1995 Corvette for the appellant. The cheque for that purchase was drawn on Mr. X's [TRANSLATION] "family patrimony" bank account.
+[28] Mr. Cyr, executive director, VIP clients, at the Casino de Montréal, testified that Mr. X and the appellant were in the habit of coming to the casino two or three times a week during the taxation years in question. He explained that Mr. X could spend from $5,000 to $15,000 during each visit to the casino. On several occasions, Mr. X and the appellant succeeded in winning large sums. At the end of the evening, Mr. X gave the appellant his winnings or what remained of the initial stake.
+Testimony of Lorraine Jolicoeur and Mireille Fortier, notary
+[29] Mr. X used the services of the notary Ms. Fortier on several occasions. She is the widow of his cousin.
+[30] The testimony of Ms. Fortier corroborates that of the appellant to the effect that Mr. X helped the appellant to acquire the pub Le Sainte-Élisabeth. In addition, the appellant testified that she received a considerable sum from Mr. X for the purchase of her condominium. Ms. Fortier's records contain an invoice for the exact amount of the purchase price of the condominium. Ms. Fortier also testified during the trial that Mr. X had telephoned her to ask her to prepare a $150,000 loan. This corroborates the appellant's version, namely that Mr. X transferred the amounts in question to her company. Ms. Fortier also admitted during the trial that she had wondered if Les Immeubles Léopold Inc. had made a gift of the building to the appellant's holding company, since the building was sold at a price below its market value. Even though the building was sold after the assessment period, this corroborates the appellant's version of the facts, according to which she received many gifts from Mr. X.[13]
+[31] Ms. Jolicoeur, the senior bookkeeper of Mr. X's business, confirmed that there was a safe in Mr. X's office at the company's headquarters. She testified that the interest on the $150,000 note was paid and that the pub Le Sainte‑Élisabeth paid rent to Les Immeubles Léopold Inc. until the building was transferred to the appellant's management company. However, during her testimony, Ms. Jolicoeur explained that she could not provide details regarding the discharge with respect to the $150,000 loan, since she was not aware of it.[14]
+Testimony of Mr. X
+[32] Mr. X was called to testify by counsel for the appellant. At the request of counsel, I declared Mr. X an adverse witness within the meaning of subsections 9(1) and 9(2) of the Canada Evidence Act. From the very beginning of his testimony, he evaded the questions put to him by counsel for the appellant. He was unhappy at the fact that the messages he had left in confidence in the appellant's voice mailbox were filed in evidence. During his testimony, Mr. X stated that the person who had advised the appellant to transcribe those digital messages was, as he put it, [TRANSLATION] "stupid". It is clear that this comment was aimed, unequivocally, at counsel for the appellant.
+[33] I noted that Mr. X contradicted himself since his testimony and his previous statements made during his interview with the CRA were inconsistent. Mr. X stated during his interview with the CRA that he had given only a few flowers and cords of wood to the appellant's business, and that he had paid modest sums during book launches. During his testimony, he admitted that he had financed the purchase of the pub Le Sainte‑Élisabeth and that he had sold the building in which the pub was located to the appellant's management company at a price far below the building's fair market value. When he was shown written documents and large invoices, Mr. X admitted that he had bought numerous fur coats and luxury goods for the appellant. He also admitted that he had helped set her up in business. Mr. X admitted as well that he had paid for the 1995 Corvette and that he had given the appellant cash so that she could buy a BMW. In addition, he admitted that the appellant had accompanied him on several occasions to the Casino de Montréal. However, he refused to comment on the sums of money he had given the appellant.
+[34] Suffice it to say that I did not find Mr. X very credible. I had the impression that Mr. X regretted the admissions he made little by little as he was shown his previous statements and the written documents filed in evidence. I explained to him that the aim of the cross-examination was to establish his credibility and especially to allow the Court to get at the truth. I explained to him that he could leave the witness stand once counsel for the appellant was satisfied that the Court had heard convincing evidence.
+[35] I asked Mr. X if it was possible that he had given the appellant over $500,000 during the taxation years in question, as the appellant had alleged. He replied: [TRANSLATION] "Yes, it's possible." That admission was made at the end of the day, and I warned Mr. X that he should think about his answers before the hearing resumed the following day because such admissions could have consequences for him.
+[36] First, if the cash amounts he gave the appellant were subject to corporate tax or came from unreported cash sales made by his company, there could be tax consequences. Furthermore, if that money came from the assets of his businesses and Mr. X had had his hand in the till, there could be personal tax liability for Mr. X under section 15 of the ITA. In short, in these circumstances, the amounts could be subject to both corporate and personal tax.
+[37] When the hearing resumed, Mr. X changed his testimony under cross‑examination by counsel for the appellant. He said that the only property he had given the appellant was that noted in the Court record. I do not believe Mr. X's amended version of the facts. He repeatedly changed at trial his version of the facts regarding his interview with the CRA when he was shown the documents filed in evidence during his cross-examination by counsel for the appellant.
+[38] When counsel for the appellant questioned Mr. X about the sale by his real estate company to the appellant's management company of the building in which the pub Le Sainte‑Élisabeth was located, Mr. X admitted that he had paid $300,000 for the building.[15] That amount included the purchase price and the cost of improvements to the building. Moreover, he admitted the truthfulness of Exhibit A‑8 which shows that he had been very generous toward the appellant. He denied that he wanted to make a gift, but he testified that he could have sold the building for $700,000 to a third party. What is certain is that there is a good chance Mr. X will have problems with the tax authorities with respect to the sale of that building. The property belonged to a company wholly owned by Mr. X. He played a major role in the sale and sought to confer a benefit on the appellant. At first glance, the facts would appear to suggest that there was an appropriation of property belonging to Mr. X's real estate company at his request. In such circumstances, there may have been a breach of section 15 or subsection 56(2) of the ITA. However, this is a debate for another day.
+[39] Mr. X is clearly a very experienced businessman who has had considerable success in the Canadian business world. He mentioned that he had talked to his accountant before appearing at the interview with the CRA. The tax treatment of appropriations by shareholders is a basic element of Canadian taxation. I assume that Mr. X was duly cautioned and that he was aware of the risks that these transactions could entail for him when he appeared at the interview with the CRA officer. I also assume that when the tax returns of Mr. X's real estate company were filed, the external accountants had examined the transaction, since it was after all a major transaction for the company, and that they had issued the necessary warnings to prevent an additional assessment.
+[40] I note that Ms. Fortier, the notary, had in fact wondered about that when Mr. X had asked her to draw up the bill of sale. She said that Mr. X had given her satisfactory answers to the effect that there was no gift. However, I have doubts in that regard. The notary is clearly not a tax expert.
+Analysis
+[41] In Lacroix v. Canada,[16] the Federal Court of Appeal held that:
+18 . . . Our tax collection system is based on the taxpayer’s self-reporting of the income he or she has earned during a taxation year. Should the Minister doubt, for whatever reason, the accuracy of the taxpayer’s return, the Minister may conduct an investigation in such manner as deemed necessary. The Minister may then make a reassessment. . . .
+[42] The net worth method is arbitrary, unsatisfactory and imprecise. It is a blunt instrument of which the Minister must avail himself as a last resort, for instance where the taxpayer's accounting makes it impossible to adequately assess his or her income and expenses for a given period. Judge Bowman (as he then was) had this to say about the net worth method at paragraph 6 of Ramey v. Canada:[17]
+6 . . . A net worth assessment involves a comparison of a taxpayer's net worth, i.e. the cost of his assets less his liabilities, at the beginning of a year, with his net worth at the end of the year. To the difference so determined there are added his expenditures in the year. The resulting figure is assumed to be his income unless the taxpayer establishes the contrary. Such assessments may be inaccurate within a range of indeterminate magnitude but unless they are shown to be wrong they stand. . . .
+[43] Judge Tardif summarized the salient aspects of the net worth process in Bastille v. Canada:[18]
+7 Moreover, use of this method of assessment is not the rule. It is, in a way, an exception for situations where the taxpayer is not in possession of all the information, documents and vouchers needed in order to carry out an audit that would be more in accordance with good auditing practice, and most importantly, that would produce a more accurate result.
+8 The bases or foundations of the calculations done in a net worth assessment depend largely on information provided by the taxpayer who is the subject of the audit.
+9 The quality, plausibility and reasonableness of that information therefore take on absolutely fundamental importance.
+[44] In Hsu v. Canada,[19] the Federal Court of Appeal stated the aim and the usefulness of the net worth method:
+29 Net worth assessments are a method of last resort, commonly utilized in cases where the taxpayer refuses to file a tax return, has filed a return which is grossly inaccurate or refuses to furnish documentation which would enable Revenue Canada to verify the return (V. Krishna, The Fundamentals of Canadian Income Tax Law, 5th ed. (Toronto: Carswell, 1995) at 1089). The net worth method is premised on the assumption that an appreciation of a taxpayer's wealth over a period of time can be imputed as income for that period unless the taxpayer demonstrates otherwise (Bigayan, supra, at 1619). Its purpose is to relieve the Minister of his ordinary burden of proving a taxable source of income. The Minister is only required to show that the taxpayer's net worth has increased between two points in time. In other words, a net worth assessment is not concerned with identifying the source or nature of the taxpayer's appreciation in wealth. Once an increase is demonstrated, the onus lay entirely with the taxpayer to separate his or her taxable income from gains resulting from non‑taxable sources (Gentile v. The Queen, [1988] 1 C.T.C. 253 at 256 (F.C.T.D.)).
+30 By its very nature, a net worth assessment is an arbitrary and imprecise approximation of a taxpayer's income. Any perceived unfairness relating to this type of assessment is resolved by recognizing that the taxpayer is in the best position to know his or her own taxable income. Where the factual basis of the Minister's estimation is inaccurate, it should be a simple matter for the taxpayer to correct the Minister's error to the satisfaction of the Court.
+[45] I am of the opinion that the Minister was right to resort to this exceptional method in the circumstances herein. Initially, the appellant adopted a reserved attitude with a view to protecting the identity of Mr. X. It was therefore difficult for the Minister to conduct a normal audit. Only if Mr. X's identity was revealed could there be any question of an audit conducted in the usual manner.
+[46] With regard to the burden of proof, it is up to the appellant to rebut the assumptions of fact on which the Minister based himself in making the assessments for the 2000 and 2001 taxation years. The standard of evidence that the appellant must meet in order to rebut the Minister's assumptions is proof on the balance of probabilities. Essentially, the onus of proving the inaccuracy of the assessments in this case is on the appellant, who must provide prima facie evidence to show that the amounts thus arrived at do not represent, from a tax standpoint, the true state of her income. It is up to the appellant to identify the source and establish the non-taxable nature of her income. The Federal Court of Appeal stated that onus in Lacroix:[20]
+19 The Supreme Court has endorsed this approach on a number of occasions, including in Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, to name just one example. In that case, the Court stated the following at paragraphs 92-93:
+92 … The Minister, in making assessments, proceeds on assumptions (Bayridge Estates Ltd. v. M.N.R., 59 D.T.C. 1098 (Ex. Ct.), at p. 1101) and the initial onus is on the taxpayer to “demolish” the Minister’s assumptions in the assessment (Johnston v. Minister of National Revenue, [1948] S.C.R. 486; Kennedy v. M.N.R., 73 D.T.C. 5359 (F.C.A.), at p. 5361). The initial burden is only to “demolish” the exact assumptions made by the Minister but no more: First Fund Genesis Corp. v. The Queen, 90 D.T.C. 6337 (F.C.T.D.), at p. 6340.
+93 This initial onus of “demolishing” the Minister’s exact assumptions is met where the Appellant makes out at least a prima facie case: Kamin v. M.N.R., 93 D.T.C. 62 (T.C.C.); Goodwin v. M.N.R., 82 D.T.C. 1679 (T.R.B.). … The law is settled that unchallenged and uncontradicted evidence “demolishes” the Minister’s assumptions: see for example MacIsaac v. M.N.R., 74 D.T.C. 6380 (F.C.A.), at p. 6381; Zink v. M.N.R., 87 D.T.C. 652 (T.C.C.) …
+20 Applying the net worth method changes nothing in this method of proof. Where the Minister presumes that the income detected using the net worth method is taxable income, the onus is on the taxpayer to demolish this presumption. If the taxpayer presents credible evidence that the amount in question is not income, the Minister must then go beyond these assumptions of fact and file evidence proving the existence of this income.
+[47] The credibility of the appellant and the sufficiency of the evidence against the net worth calculations play a crucial role. The fate of the appeal will depend entirely on those two factors.[21]
+[48] Judge Bowman (as he then was) stated the best method of challenging such assessments in Bigayan:
+3 The best method of challenging a net worth assessment is to put forth evidence of what the taxpayer's income actually is. A less satisfactory, but nonetheless acceptable method is described by Cameron J. in Chernenkoff v. Minister of National Revenue, 49 DTC 680 at page 683:
+In the absence of records, the alternative course open to the appellant was to prove that even on a proper and complete "net worth" basis the assessments were wrong.
+4 This method of challenging a net worth assessment is accepted, but even after the adjustments have been completed one is left with the uneasy feeling that the truth has not been fully uncovered. Tinkering with an inherently flawed and imperfect vehicle is not likely to perfect it. The appellant chose to use the second method.
+[49] In Saikely v. Canada,[22] Judge Hamlyn had this to say concerning net worth assessments:
+36 The taxpayer may attack the assessments in various ways. A taxpayer may prove that some of his increase arose from non-taxable receipts, such as inheritances or gambling; that his net worth at the beginning of the period was undervalued or that his assets at the end were overvalued; that liabilities existing at the end were omitted or undervalued; that the money had been borrowed or that income losses were greater than assessed. Whatever is alleged by the taxpayer must be proved by him; a mere statement is not enough. Moreover, cogent evidence is required to disprove a net worth assessment.
+[Emphasis added.]
+[50] In addition, in Morneau v. Canada,[23] the Federal Court of Appeal noted that net worth assessments are frequently vacated when viva voce or documentary evidence succeeds in discharging the burden on the taxpayer challenging those assessments.
+[51] The evidence adduced by the appellant is very persuasive and I am of the opinion that she has discharged her onus of proof on a balance of probabilities in all respects regarding the notices of reassessment she received. This was done for the 2001 and 2002 taxation years, and for the 1998, 1999 and 2000 taxation years, with respect to which the burden of proof was on the respondent. Mr. X made substantial gifts to the appellant during the taxation years in question. There is abundant evidence of his state of mind, and also evidence of the nature of the gifts he had made to the appellant before the period in question. There is no doubt that Mr. X induced his company to sell the building at a very favourable price to the appellant's management company. I also believe that the evidence is very conclusive and shows that Mr. X forgave a $150,000 loan that had been made to the appellant's company so that she could acquire the capital stock of the pub Le Sainte-Élisabeth. I also believe that Mr. X gave the appellant $128,000 so that she could buy herself a condominium. These transactions are outside the period in issue, but they demonstrate Mr. X's affection for the appellant. The appendix to this judgment was prepared on the basis of the testimony I accepted as credible. The appendix provides a summary of the gifts made before, during and after the period in question.
+[52] As for the taxation years in issue, I believe that Mr. X gave $168,000 to the appellant in order to help her buy a house in Blainville. The appellant also proved that Mr. X gave her large sums of money, two or three times a week, when they left the Casino de Montréal. According to the testimony of both parties, Mr. X began his evenings with stakes ranging from $5,000 to $12,000. If I subtract possible losses, it is not inconceivable that Mr. X gave cash amounts of at least $3,000 to the appellant every time they visited the casino, which was on average three times a week. The amount given could have been $9,000 per week. Assuming that the visits to the casino occurred in 30 weeks, one can easily conceive of amounts totalling as much as $1,350,000 for the five years in question. I must at least conclude that the appellant succeeded in adducing on this point prima facie evidence that was not contradicted by the respondent.
+[53] During the trial, counsel for the respondent stated that Mr. X had indeed made gifts to the appellant. However, the respondent did not concede the amount thereof. These facts were corroborated by an independent witness, Paul-André Cyr, executive director, VIP clients, at the Casino de Montréal. I believe the appellant's testimony that she habitually deposited the cash amounts in ATMs at her bank. Someone pocketing money subject to Canadian tax would not, I believe, have deposited these sums of money in the bank so casually.
+[54] Since gifts are not taxable under the ITA, there is no provision requiring taxpayers to keep records with respect thereto. Moreover, since Mr. X was in the habit of making cash gifts, the only way to prove those gifts was through testimonial evidence. Four witnesses testified that Mr. X was in the habit of making cash gifts to the appellant. Mr. X understood that when I put the question to him, but he changed his testimony. I assume that his testimony changed because his advisors made him aware of the tax cost that this admission could entail for him.
+[55] In awarding costs, the Court has broad discretion under section 147 of the Tax Court of Canada Rules (General Procedure) ("the Rules") and section 18.26 of the Tax Court of Canada Act.
+[56] According to subsection 147(4) of the Rules, the Court may fix all or part of the costs with or without reference to Schedule II, Tariff B of the Rules and may award a lump sum in lieu of or in addition to any taxed costs. In addition, subsection 147(3) of the Rules provides that the Court, in exercising its discretionary power, may consider several factors, including the result of the proceeding, the amounts in issue, conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding and the question of whether any stage in the proceeding was undertaken through negligence, mistake or excessive caution.
+[57] In Lau v. Canada,[24] the issue was whether Associate Chief Judge Bowman (as he then was) had erred in awarding a lump sum in lieu of or in addition to the taxed costs. Upholding the judgment below, the Federal Court of Appeal found as follows:
+4 Bowman A.C.J. rejected the awarding of costs on a solicitor and client basis. He said so explicitly. Instead, he took into account certain of the criteria set out in subsection 147(3) of the Rules as well as his discretionary power to award a lump sum pursuant to subsection 147(4). He noted that at the request of the Crown the appeals were "bumped up" from the informal to the General Procedure. The effect, in his view, was to "put a considerable burden on both appellants". He also intimated that the case against Agatha Lau was utterly without merit, and that the Crown should have been "a little more ready to accept" an offer to settle before trial. He compared the amount of party and party costs under the Court's Tariff with solicitor and client costs of more than $103,000.00 which he regarded as "rather high". In the end, he found that "a fair disposition of this matter and one that partially compensates the appellants for their ordeal of having to come to court and justify their position is $52,000.00".
+5 It can be seen that the awarding of costs under rule 147 is highly discretionary although, of course, that discretion must be exercised on a principled basis. We are all of the view that it was so exercised by the Tax Court and that no basis has been shown for interfering with the judgment below.
+[58] In Taylor v. Canada,[25] Judge Garon, in awarding an amount greater than the costs provided for in Tariff B, noted:
+27 I should also point out that subsection 147(4) of the Rules provides that the Court "may ... award a lump sum in lieu of or in addition to any taxed costs." This provision clearly suggests that there might be cases where a Court could be justified to award a lump sum which could exceed the costs provided by Tariff B found in Schedule II of the Rules with respect to the services of counsel. However, the lump sum award should not be tantamount to an award of solicitor-client costs.
+[59] In RCP Inc. v. Minister of National Revenue and Deputy Minister of National Revenue for Customs and Excise,[26] Justice Rouleau held as follows with regard to costs on considering the previous conduct of the respondents:
+I am satisfied that in this case I can take into account the previous conduct of the respondents which led to this litigation and it is my duty to consider the whole of the circumstances of the case and what led to the action, the necessity of lengthy cross-examinations of witnesses and the unusually prolonged argument for costs. For these and other reasons already outlined, I will exercise my discretion and fix a lump sum.
+[60] In Hunter v. Canada,[27] Judge Bell stated that the Rules specifically provide for the Court's awarding a lump sum in lieu of or in addition to any taxed costs. Taking into account the factors set out in subsection 147(3) of the Rules, the Honourable Judge awarded the appellant a lump sum of $22,000 owing to the conduct of the Minister's officials.
+[61] Mr. Ouellette, counsel for the appellant, urged me at the hearing to award exemplary costs to the appellant in view of the fact that the CRA had botched the audit of his client by neglecting to check into the merit of her claims that Mr. X had made generous and non-taxable gifts to her and that those gifts were the reason for the increase in her net worth. According to Mr. Ouellette, Mr. X was treated with deference during his interview with the CRA. Mr. Noiseux did not conduct an in‑depth investigation; he accepted without any basis for so doing the version of the facts given by Mr. X, a businessman, rather than believe the appellant, a former erotic dancer. In my opinion, Mr. Noiseux's conduct amounted, in the circumstances, to an unfounded bias in favour of Mr. X because of his social standing, which bias would have been dissipated by an investigation and a normal audit of Mr. X or his businesses. Mr. Ouellette argued that Mr. X's conduct was suspicious from his first meetings with the CRA and that if Mr. Noiseux had followed normal procedures, the CRA would have discovered the existence of the large gifts that Mr. X had made to the appellant.
+[62] For her part, counsel for the respondent argued that the conduct of the appellant contributed in large part to the making of the assessments concerning her. The fact that the appellant tried to protect the identity of Mr. X is perhaps in itself a noble impulse. However, in a system based on self-assessment, when the Minister notices increases in net worth unexplained by a taxpayer's income, the taxpayer has an obligation to provide the Minister with clear explanations. It should also be noted that the conduct of Mr. Noiseux might have been different if the evidence possessed by the appellant (including voice recordings) had been made available to him.
+[63] After hearing the evidence as a whole and listening to the testimony of Mr. X, I must find that the CRA failed in its duty to conduct a reasonable investigation into the merit of the statements made by the appellant regarding Mr. X. Moreover, if the CRA had pushed its investigation with Mr. X further, it would have easily been able to discover the truth and the existence of the gifts. The CRA had the authority to conduct such an investigation or audit of Mr. X. Moreover, Mr. Noiseux had no possible explanation as to the sources of the appellant's income. In his testimony, he admitted that the tax accounts of the appellant's companies were in order and he had no indication of unreported income. In most cases where net worth assessments are made and confirmed by the courts, there is found to be unreported income from taxpayers' businesses. Mr. Noiseux had no valid grounds for believing Mr. X's version of the facts, namely that there were no cash gifts.
+[64] That said, I believe on the other hand that if the appellant had made available to the CRA some of the evidence submitted during the trial, the CRA's attitude might have been different. I therefore believe that the appellant is partly responsible for the length of the proceedings. However, I consider the CRA's fault to have been much greater and, accordingly, I award the appellant $35,000 in costs rather than the amount of $50,000 sought by her counsel.
+[65] For all these reasons, I allow the appeal and I order that the reassessments be vacated.
+Signed at Ottawa, Canada, this 10th day of August 2009.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 30th day of September 2009.
+Erich Klein, Revisor
+APPENDIX
+Assets and gifts received by the appellant and her companies according to
+the testimony accepted by the Court
+Assets and gifts given to the appellant during the taxation years in question (1998‑2002)
+· Lease of a Jeep Grand Cherokee – price of the initial leasing contract: $6,455 (April 9, 1999).
+· Purchase of a home theatre system costing $5,164 (July 9, 1999).
+· Purchase of a house at 69 Fontainebleau Boulevard, in Blainville, costing $168,000 (November 19, 1999).
+· Furniture costing $2,000 in 1999.
+· Purchase of jewellery costing $6,096 at Birks (December 20, 1999).
+· Lease of a Chrysler Town & Country – price of the initial leasing contract: $4,464 (May 18, 2000).
+· Child care expenses of $14,445 in 2001.
+· Lease of a Mercedes-Benz – price of the initial leasing contract: $8,448 (March 1, 2002).
+· Louis Vuitton handbags and belts costing $1,127.83 (September 11, 2002).
+· Payment of $16,000 with respect to the appellant's credit cards in 2002.
+· Payment of cash amounts remaining at the end of casino visits: $3,000 (average) x 30 weeks x 5 years (1998‑2002) = $1,350,000.
+Assets and gifts given to the appellant before or after the taxation years in question (1998-2002)
+· Purchase of a 1995 Corvette costing $55,000 (May 3, 1996).
+· Purchase of a condominium costing $128,000 at 4132 Avenue du Parc Lafontaine, in Montreal (October 24, 1996).
+· Purchase of a Jeep Cherokee costing $36,124 (June 30, 1997).
+· Bank deposits of $32,660.50 in 1997.
+· Automobile insurance policy costing $3,179.40 (March 29, 2003).
+· Louis Vuitton handbags and belts costing $26,433 (2004).
+· Trips (costs not specified).
+· Jewellery (costs not specified).
+· Eight fur coats (costs not specified).
+· Payments with respect to the appellant's credit cards (amounts not specified).
+Gifts made directly to the appellant's company during the taxation years in question (1998-2002)
+· Purchase of the pub Le Sainte‑Elisabeth, at a cost of $150,000 (December 5, 1997). This was entered on February 4, 1998 as a $150,000 loan. Full and final discharge with respect to the loan was given on June 1, 1999 and was equivalent to a forgiveness of debt.
+· $13,000 in purchases entered in inventory in 1997.
+· Bank deposits of $3,450 in 1997.
+· Rent of $3,275.31 in 1997.
+· $18,715 received for notary fees, telephone expenses and advances from directors in 1998.
+· Purchase of a computer and telephone expenses of $1,997 in 1999.
+· $9,936 received for telephone expenses and advances to start using the access card machine in 2001.
+· $3,132 Lumideco adjustment for the pub in 2002.
+Gifts made directly to the appellant's company before the taxation years in question (1998-2002)
+· Purchase of the building on Sainte‑Elisabeth Street – the appellant's company paid $52,000, but the building had a market value of $315,000 (October 30, 2003).
+· $3,450 paid in 1997.
+CITATION: 2009 TCC 399
+COURT FILE NO.: 2007-3211(IT)G
+STYLE OF CAUSE: MARTINE LANDRY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: March 9, 10, 11, 12 and 13, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: August 10, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Yves Ouellette
+Nicolas Cayouette
+Nicolas Dubé (student-at-law)
+Counsel for the Respondent:
+Marie-Claude Landry
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Yves Ouellette
+Firm: Gowling Lafleur Henderson
+Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Namely the person declared an adverse witness by the Court (see paragraph 32 of these reasons).
+[2] See the transcript of March 9, 2009, Appellant's testimony, paragraphs 113, 117 and 118.
+[3] See the transcript of March 9, 2009, Appellant's testimony, paragraphs 148 and 161. See also Exhibit A-2, Tab 14.
+[4] Idem.
+[5] See the transcript of March 13, 2009, testimony of Mr. Noiseux, paragraphs 526-527. See also Exhibit I-3, Tab 52.
+[6] See the transcript of March 13, 2009, testimony of Mr. Noiseux, paragraphs 581-590. See also Exhibit I-3, Tab 52.
+[7] See the transcript of March 13, 2009, testimony of Mr. Noiseux, paragraph 588. See also Exhibit I-3, Tab 52.
+[8] See the transcript of March 13, 2009, testimony of Mr. Noiseux, paragraph 588. See also Exhibit I-3, Tab 52.
+[9] See the transcript of March 9, 2009, testimony of Robert Paquette, paragraphs 638-640.
+[10] See the transcript of March 9, 2009, testimony of Robert Paquette, paragraphs 622-632.
+[11] See the transcript of March 9, 2009, testimony of Robert Paquette, paragraph 627.
+[12] See the transcript of March 10, 2009, testimony of Mélanie Chrétien, paragraph 194.
+[13] See the transcript of March 11, 2009, testimony of Mireille Fortier, paragraphs 58-64, 68-69, 204-215 and 233-241.
+[14] See the transcript of March 10, 2009, testimony of Lorraine Jolicoeur, paragraphs 309 and 310.
+[15] See the transcript of March 11, 2009, testimony of Mr. X, paragraph 631. See also Exhibit A-8.
+[16] 2008 FCA 241.
+[17] [1993] T.C.J. No. 142 (QL), at paragraph 6. See also Bigayan v. Canada, [1999] T.C.J. No. 778 (QL), at paragraph 2.
+[18] [1998] T.C.J. No. 1080 (QL).
+[19] 2001 FCA 240.
+[20] See also Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336.
+[21] See Roy v. The Queen, 2006 TCC 226.
+[22] [1992] T.C.J. No. 803 (QL).
+[23] 2003 FCA 472.
+[24] [2004] F.C.J. No. 35 (QL).
+[25] [2000] T.C.J. No. 854 (QL).
+[26] [1986] 1 F.C. 485, at page 495.
+[27] [2002] T.C.J. No. 625 (QL).

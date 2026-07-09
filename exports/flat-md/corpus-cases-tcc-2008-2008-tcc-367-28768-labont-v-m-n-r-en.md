@@ -1,0 +1,153 @@
+---
+title: "Labonté v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28768/index.do"
+last_modified: "2008-07-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 367"
+citation2: ""
+neutral_citation: "2008 TCC 367"
+decision_date: "2008-07-14"
+language: "en"
+item_id: "28768"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1555
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:00:21.030000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "644889ee95448cb944326cf1d87ee906bd22d6938b1f99b89b692f4b0d9f62a0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Labonté v. M.N.R.
+
+- Citation: 2008 TCC 367
+- Decision date: 2008-07-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1555, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Labonté v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-07-14
+Neutral citation
+2008 TCC 367
+File numbers
+2007-4317(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-4317(EI)
+BETWEEN:
+ROGER LABONTÉ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 9, 2008, at Fredericton, New Brunswick
+Before: The Honourable Justice François Angers
+Appearances:
+Agent for the Appellant:
+Gérard St-Pierre
+Counsel for the Respondent:
+Nathalie Khlat
+____________________________________________________________________
+JUDGMENT
+The appeal from the determination by the Minister of National Revenue that the Appellant was not employed in insurable employment within the meaning of paragraph 5(2)(i) of the Employment Insurance Act by Entreprise RTL & Fils Ltée from October 30, 2006, to March 16, 2007, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 14th day of July 2008.
+"François Angers"
+Angers J.
+Translation certified true
+on this 2nd day of September 2008.
+Susan Deichert, Reviser
+Citation: 2008TCC367
+Date: 20080714
+Docket: 2007-4317(EI)
+BETWEEN:
+ROGER LABONTÉ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] The Appellant is appealing from the determination by the Minister of National Revenue ("the Minister") that his employment with Entreprise RTL & Fils Ltée ("the Payor") from October 30, 2006, to March 16, 2007, was not insurable employment because the Appellant and the Payor were not dealing with each other at arm's length within the meaning of paragraph 5(2)(i) of the Employment Insurance Act ("the Act").
+[2] The non-arm's length relationship between the Appellant and the Payor is admitted. The Appellant's wife is the sole shareholder of the Payor. Her business operates a bowling alley with 8 lanes which was acquired in November 2005. Prior to this acquisition, the Appellant was the owner of the business, but he did not work there very much because he provided his services to another business. Experiencing financial difficulties that led him to declare personal bankruptcy, the Appellant obtained employment with the Payor in October 2006 as a lane mechanic and technician. His duties involved maintaining the equipment, lubricating the lanes and drilling bowling balls.
+[3] Since 2005, the bowling alley had been managed by another employee, Gérald Thériault. After the arrival of the Appellant, Mr. Thériault continued to be employed by the Payor, but his work weeks were considerably reduced because the available work had been given to the Appellant. However, Mr. Thériault remained available in emergencies and was called from time to time and even fairly often to handle problems that the Appellant alone could not handle. The Appellant stated that Mr. Thériault provided him with the required training.
+[4] The Payor's business was seasonal. The busy season began in the month of October and ended in the month of April. Business hours were from noon to midnight on Thurdays and Sundays, from 7 p.m. to 11 p.m. on Mondays and Tuesdays, from noon to 11 p.m. on Wednesdays and from noon to 2 a.m. on Fridays and Saturdays.
+[5] During the period at issue, Mr. Thériault worked four weeks during which, according to the Appellant, he supervised and directed the Appellant. The Appellant eventually replaced Mr. Thériault, although the latter was always available because he apparently worked one week at the end of the season in April 2007.
+[6] The Appellant was hired at a salary of $750 per week for 50 hours of work for the Payor. He said that although the Payor did not require him to complete a time sheet, he still completed one every week and gave it to the Payor. These time sheets show that he worked seven days per week and that his hours varied from 1½ to 13 hours per day. I can see only three weeks during the period at issue when he took a full day's holiday. He was paid weekly by cheque and sometimes cashed several cheques at the same time.
+[7] Mr. Thériault worked 8 hours per day or 40 hours per week and was entitled to at least two days off per week at a salary of $780 per week. The Appellant admitted that, during the 2006 calendar year, Mr. Thériault was listed in the Payor's payroll register only during the months of January, February and March. He also admitted that prior to the period at issue and from June 1, 2005, to March 1, 2006, Mr. Thériault was listed in the register only for 15 weeks at 40 hours of work per week. For the period at issue, the weeks in which Mr. Thériault was listed in the register are those ending on January 13, 2007, January 27, 2007, February 10, 2007, and March 10, 2007.
+[8] The Appellant also admitted that the Payor's busy season ended in April and he was laid off on March 16, 2007. According to the Payor, the Appellant was laid off due to a shortage of work. However, the Appellant admitted that, during the two weeks immediately following the period at issue, no employee was listed in the Payor's payroll register, because his wife replaced him and Mr. Thériault's name was listed in the register for the week ending on April 7, 2007. The Appellant also admitted that the busy season ended on April 15, 2007.
+[9] The time sheets filed in evidence and prepared by the Appellant indicate that he apparently worked from October 6, 2006, and did not enter his time during the month of November 2006. For the last week, the week of March 12, he apparently worked two days more than his record of employment indicates. Another curious fact is that the days shown on the time sheets for the weeks of October 2006 do not correspond to the calendar days. For example, the first day of the weeks beginning on October 6, 13, 20 and 27, 2006, is a Friday whereas the time sheets on which the hours are recorded begin on Monday. Commencing in December 2006, the time sheets indicate that the work week begins on Monday.
+[10] The Appellant's wife, Ms. Labonté, also testified. In her opinion, the busy season really ended at the end of March although she admitted that there was activity from the end of September to the end of April. She was responsible for the computer system and the canteen and organizing the various bowling leagues. She had only two employees, the Appellant and Mr. Thériault. She had more employees before the period at issue, because at the time she was receiving financial assistance in the form of wage subsidies. She stated that Mr. Thériault and the Appellant were paid on an hourly basis of 40 and 50 hours per week, respectively. There were no benefits and they were paid vacation pay. She stated that the Appellant was hired at the end of October 2006 and was required to provide her with his time sheet. According to Exhibit I-2, the Appellant had begun to work on October 30, 2006, and received his first pay on November 3, 2006. She also stated that between October 2006 and April 2007, Mr. Thériault had worked 40 hours per week.
+[11] Ms. Labonté also stated that the Appellant was laid off on March 16, 2007, because there was less work for him to do. She did the necessary work herself. Mr. Thériault was asked to work one week in April, due to what she called a [TRANSLATION] "major breakdown", but she did not provide further explanations on the subject.
+[12] The Appellant needed 840 hours of insurable employment to qualify for employment insurance benefits. According to the record of employment, he accumulated 1,000 insurable hours and worked 20 weeks.
+[13] Accordingly, the Appellant has the burden of proving on a balance of probabilities that he worked in insurable employment for the Payor within the meaning of the Act during the period at issue, and that it was therefore unreasonable for the Minister to conclude that he and the Payor would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, and the nature and importance of the work performed. They would then be deemed to be dealing with each other at arm's length.
+[14] The relevant legislative provisions are paragraphs 5(2)(i) and 5(3)(b) of the Act which I am reproducing here.
+5. …
+Excluded employment
+(2) Insurable employment does not include:
+...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+Arm's length dealing
+(3) For the purposes of paragraph (2)(i),
+...
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[15] The Minister's position is based primarily on the fact that the Appellant was replacing Mr. Thériault and, for this reason, he contests the argument that the Appellant had to work 50 hours per week for 20 weeks when Mr. Thériault worked only 40 hours per week for 15 weeks during the previous season. The Minister also doubts that Mr. Thériault was the supervisor who had to supervise and train the Appellant because he worked only four weeks in total during the period at issue, namely, from mid-January to mid-March 2007. The Minister questions the layoff of the Appellant on March 16, 2007, for lack of work because the regular season ends in April and the Payor had to hire Mr. Thériault for one week in April 2007. In addition, the Appellant's time sheet shows that he worked 10 and 9 hours on March 17 and 18 respectively, or two days more than the date indicated on the record of employment.
+[16] However, the Minister does not contest the fact that there was a contract of service between the Appellant and the Payor and that the Appellant actually performed the services for the Payor. For his part, the Appellant submits that he worked the number of hours at issue and that his conditions of work are acceptable despite his non-arm's length relationship with the Payor.
+[17] However, the Appellant's evidence remains unclear on the points raised by the Minister. The Appellant testified that he had been hired to replace Mr. Thériault. There is no evidence that he had to take on additional duties to justify a longer period of employment, namely, 20 weeks instead of 15 weeks like Mr. Thériault. Nor does the evidence indicate why Mr. Thériault could do his work in 40 hours per week for 15 weeks while the Appellant needed 50 hours per week for 20 weeks. It therefore becomes difficult to explain the incongruity between the duration of the employment and the number of hours worked in the case of the Appellant and of the person he was supposed to replace. In addition, I must question the Appellant's statement that Mr. Thériault was his superior and supervisor who had to pass on his knowledge to the Appellant about his duties. After all, during the Appellant's 20 weeks of work, Mr. Thériault worked only four weeks commencing only in mid-January 2007, or two months after the Appellant was hired. It seems reasonable to assume that if Mr. Thériault was to provide any training to the Appellant, he would have provided it at the commencement of his employment.
+[18] On the issue of the period of his employment, there is a clear contradiction between the time sheets completed by the Appellant and the duration of the employment shown on the record of employment. The time sheets (Exhibit I-1) indicate that the Appellant's work began on October 6, 2006, whereas the record of employment shows that the employment began on October 30, 2006. The time sheet does not indicate any period for the month of November 2006 and it indicates that the Appellant worked until March 18, 2007, compared to March 16, 2007, on the record of employment. The evidence shows that there would have been work after March 16, 2007, because Mr. Thériault worked 40 hours to repair a [TRANSLATION] "major breakdown". I do not contest the fact that there may have been a [TRANSLATION] "major breakdown", but I wonder why it took exactly 40 hours to repair it. I must also point out the contradiction between the Appellant's statement that the Payor did not require him to keep time records and the Payor's testimony to the contrary.
+[19] In conclusion, I must mention that the Appellant was available and worked seven days per week throughout his employment with the Payor, except for only three days. That represents 20 long weeks of availability and I wish to point out that the Payor never expected this much from Mr. Thériault.
+[20] Considering this file and specifically the contradictions and inaccuracies regarding the circumstances, terms and conditions, duration and nature of the Appellant's work, I find that he has not discharged the burden of proof and therefore that the Minister's decision was reasonable under the circumstances.
+[21] The appeal is therefore dismissed.
+Signed at Emundston, New Brunswick, this 14th day of July 2008.
+"François Angers"
+Angers J.
+Translation certified true
+on this 2nd day of September 2008.
+Susan Deichert, Reviser
+CITATION: 2008TCC367
+COURT FILE NO.: 2007-4317(EI)
+STYLE OF CAUSE: Roger Labonté and M.N.R.
+PLACE OF HEARING: Fredericton, New Brunswick
+DATE OF HEARING: June 9, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: July 14, 2008
+APPEARANCES:
+Agent of the Appellant:
+Gérard St-Pierre
+Counsel for the Respondent:
+Nathalie Khlat
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

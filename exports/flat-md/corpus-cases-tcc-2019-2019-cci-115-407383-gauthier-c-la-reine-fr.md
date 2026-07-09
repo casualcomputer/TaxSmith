@@ -1,0 +1,211 @@
+---
+title: "Gauthier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/407383/index.do"
+last_modified: "2019-05-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 115"
+citation2: ""
+neutral_citation: "2019 CCI 115"
+decision_date: "2019-05-13"
+language: "fr"
+item_id: "407383"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4368
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:18:05.602000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "13d08d1dc331e48b9c452ddd9ff91b545631f3b763634f32df8bb0564865da97"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gauthier c. La Reine
+
+- Citation: 2019 CCI 115
+- Decision date: 2019-05-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4368, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gauthier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-05-13
+Référence neutre
+2019 CCI 115
+Numéro de dossier
+2018-4119(IT)APP
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Notes
+Une modification a été effectuée le 7 juin 2019
+Contenu de la décision
+Dossier : 2018-4119(IT)APP
+ENTRE :
+GHYSLAIN GAUTHIER,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Demande entendue le 8 avril 2019 à Montréal (Québec).
+Devant : L'honorable juge Guy R. Smith
+Comparutions :
+Pour le requérant :
+Le requérant lui-même
+Pour l'intimée :
+Justine Allaire-Rondeau
+(stagiaire en droit)
+ORDONNANCE MODIFIÉE
+La demande faite en vue d’obtenir une ordonnance de prorogation du délai imparti pour interjeter appel de la cotisation du 24 juillet 2014 établie en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2009 et 2010 est rejetée, sans frais, selon les motifs de l’ordonnance ci-joints.
+« Cette ordonnance modifiée est émise en remplacement de l’ordonnance datée du 13e jour de mai 2019 ».
+Signé à Montréal, Québec, ce 5e jour de juin 2019.
+« Guy R. Smith »
+Juge Smith
+Référence : 2019 CCI 115
+Date : 20190605
+Dossier : 2018-4119(IT)APP
+ENTRE :
+GHYSLAIN GAUTHIER,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE MODIFIÉS
+Le juge Smith
+[1] Ghyslain Gauthier, le requérant dans cette instance, demande une prorogation du délai imparti pour la production d’un avis d’appel relativement à une nouvelle cotisation datée du 24 juillet 2014 pour les années d’imposition 2009 et 2010. Ladite cotisation a été confirmée par le ministre du Revenu national (le « ministre ») le 16 mai 2016 et la demande de prorogation est datée du 24 octobre 2018, soit plus de 29 mois plus tard.
+[2] Le ministre s’oppose à la requête.
+[3] La Cour a pris connaissance des faits essentiels suivants :
+a) Le 21 juillet 2011, le ministre a établi une cotisation pour l’année d’imposition 2009. Il s’agissait de la cotisation initiale;
+b) Le 19 décembre 2011, le ministre a établi une cotisation pour l’année d’imposition 2010. Il s’agissait aussi de l’avis de cotisation initiale;
+c) Le 24 juillet 2014, le ministre a établi une nouvelle cotisation pour les années d’imposition 2009 et 2010;
+d) Le requérant, par l’entremise de son comptable, soit monsieur Raymond Frenette, a déposé un avis d’opposition le 31 octobre 2014. Il est entendu que l’avis d’opposition a été déposé à l’intérieur des délais prévus par la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la « Loi »);
+e) Pendant la période de 2011 à 2015 et possiblement jusqu’au printemps 2016, le requérant est en congé de maladie prolongé, souffrant notamment de dépression et de troubles psychiatriques. Le ministre ne conteste pas ceci, notamment pour la période de 2011 à 2015;
+f) À la fin 2015 ou au début 2016, le requérant prend connaissance de l’incapacité de son comptable qui souffre d’un cancer. Il reprend ses dossiers pour ensuite les remettre à un nouveau comptable, soit, monsieur Georges Tremblay, du cabinet de comptable Gagnon, Tremblay Inc.;
+g) Au mois de février 2016, monsieur Tremblay prend connaissance du dossier et dépose des déclarations amendées pour les années d’imposition 2009 et 2010;
+h) Le 16 mai 2016, le ministre confirme l'avis de cotisation du 24 juillet 2014;
+i) Le requérant ajoute un sommaire des faits dans le paragraphe 11 de la demande de prorogation :
+J’ai mandaté le comptable M. Georges Tremblay pour faire un suivi et contester l’avis de cotisation de l’ARC et de Revenu Québec. Ce dernier n’a pas logé d’avis d’opposition et n’a pas demander [sic] une prorogation du délai pour interjeter appel (ce que je fais dans ce dossier).
+La procédure d’appel en vertu de la Loi
+[4] Avant de revoir les arguments du requérant, je vais faire un survol rapide des dispositions législatives pertinentes de la Loi.
+[5] En vertu du paragraphe 169(1), un contribuable doit déposer un avis d’appel auprès de la Cour canadienne de l’impôt dans un délai de 90 jours à partir du moment où le ministre a ratifié la cotisation. Cette étape présume que le contribuable a préalablement déposé un avis d’opposition, ce qui avait été fait dans cette instance, par le premier comptable, soit monsieur Frenette.
+[6] Selon le paragraphe 167(1), le contribuable qui n’a pas interjeté appel en vertu du paragraphe 169(1), c’est-à-dire qui n’a pas déposé un avis d’appel avant l’expiration de la période de 90 jours, peut présenter à la Cour une demande de prorogation du délai imparti pour interjeter appel. L’alinéa 167(5)(a) précise que la demande doit être présentée dans un délai d’un an à partir de l’expiration du délai de 90 jours.
+[7] Les paragraphes 167(1) et (5) de la Loi prévoient ce qui suit :
+167 (1) Prorogation du délai d’appel – Le contribuable qui n’a pas interjeté appel en application de l’article 169 dans le délai imparti peut présenter à la Cour canadienne de l’impôt une demande de prorogation du délai pour interjeter appel. La Cour peut faire droit à la demande et imposer les conditions qu’elle estime justes.
+[…]
+(5) Acceptation de la demande – Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l’année suivant l’expiration du délai imparti en vertu de l’article 169 pour interjeter appel;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+[8] Si le contribuable ne peut satisfaire à la condition exprimée dans l’alinéa 167(5)(a), il n’y a pas lieu de revoir s’il peut satisfaire aux conditions de l’alinéa 167(5)(b).
+[9] Dans cette instance, le requérant avait donc jusqu’au 14 août 2016 pour déposer un avis d’appel et jusqu’au 14 août 2017 pour déposer sa demande de prorogation.
+[10] Tel que l’indique la juge Lamarre (tel était alors son titre) dans la décision Moon c. La Reine, 2010 CCI 393 (à l’onglet 3 du cahier d’autorité de l’intimée) :
+[11] À partir du moment où il a été conclu que la demande de prorogation du délai n’a pas été faite dans le délai d’un an prescrit par l’alinéa 167(5)(a) de la [Loi], la Cour ne dispose d’un pouvoir discrétionnaire pour proroger ce délai et la question de savoir s’il serait juste et équitable d’accorder une prorogation du délai ne peut être soulevée […]
+[11] Pour conclure, étant donné que la demande de prorogation n’a pas été déposée « dans l’année suivant l’expiration du délai imparti en vertu de l’article 169 pour interjeter appel », tel qu’indiqué par la juge Lamarre, la Cour « ne dispose d’un pouvoir discrétionnaire pour proroger ce délai (…) ».
+La question du mandataire
+[12] Le requérant prétend qu’il a remis la correspondance et la documentation reçues de l’Agence du revenu du Canada (« ARC ») à ses comptables, soit monsieur Frenette ou monsieur Tremblay, et qu’il a compté sur eux pour répondre adéquatement ou selon la Loi. Le requérant prétend qu’il ne peut être tenu responsable d’un manquement à leur devoir professionnel.
+[13] Cet argument a fait l’objet de plusieurs décisions de cette Cour, notamment dans la décision Lamothe c. La Reine, 2001-3019(IT)APP (à l’onglet 4 du cahier d’autorité de l’intimée) où la juge Lamarre-Proulx a indiqué ce qui suit :
+[26] Je n'ai pas à déterminer s'il y a eu négligence de la part du comptable ou de la part du requérant dans les circonstances de cette affaire. Il ne s'agit pas d'éléments pertinents. J'ai relaté la preuve qui a été présentée puisqu'elle avait été présentée. Toutefois, ainsi que l'affirme la Cour d'appel fédérale dans Minuteman Press of Canada Company Limited (supra), dès qu'il a été statué qu'aucune demande de prorogation n'a été présentée dans l'année suivant l'expiration du délai imparti en vertu de l'article 169 pour interjeter appel, la question de savoir s'il serait juste et équitable d'accorder une prorogation ne se pose pas.
+[27] D'une part, les avis de ratification des années d'imposition en cause ont été envoyés en conformité avec la Loi et ils ont été reçus par le requérant. D'autre part, les demandes de prorogation pour chacune de ces années ont été faites en dehors du délai d'un an prévu à l'alinéa 167(5)a) de la Loi. La Cour n'a pas le pouvoir discrétionnaire de proroger ce délai, qui est un délai de rigueur. Le seul pouvoir discrétionnaire qu'elle possède est celui de proroger la période de 90 jours prévue au paragraphe 169(1) de la Loi et il ne s'agit pas de ce délai.
+[Mon soulignement.]
+[14] Le requérant prétend que son premier comptable a manqué à son devoir professionnel mais la trame factuelle indique plutôt qu’il a déposé un avis d’opposition en bonne et due forme à la nouvelle cotisation du 24 juillet 2014, et ce à l’intérieur des délais prévus par la Loi.
+[15] Est-ce que le deuxième comptable a manqué à son devoir professionnel? Il ne relève pas de cette Cour d’en faire l’analyse puisque, tel qu’indiqué dans la décision ci-haut, du moment qu’il est établi qu’une demande de prorogation n’a pas été déposée dans le délai d’un an, « la Cour n’a pas le pouvoir discrétionnaire de proroger ce délai ».
+Des cotisations prescrites?
+[16] Le requérant prétend aussi, subsidiairement, que la cotisation du 24 juillet 2014 était prescrite étant donné qu’elle a été établie après la période normale de nouvelle cotisation. Le requérant maintient qu’il n’y a pas eu de présentation erronée des faits, de fausses représentations et ainsi de suite, de sorte que le ministre ne pouvait établir une nouvelle cotisation au-delà de la période normale de prescription.
+[17] Bien qu’il n’a pas cité la disposition applicable, la Cour doit présumer qu’il s’agit d’une référence aux paragraphes 152(3.1) et (4) de la Loi qui prévoit que le ministre ne peut cotiser un contribuable après l’expiration de la période normale de prescription, soit trois ans à partir de l’envoi des cotisations initiales.
+[18] La Cour est d’avis que cet argument est irrecevable étant donné qu’il n’a pas été soulevé dans la demande de prorogation. De toute façon, il s’agit d’un argument de fonds et, tel qu’indiqué par la juge Lamarre dans la décision précitée, dès que la Cour conclut que la demande de prorogation n’a pas été déposée dans les délais, elle ne dispose d’aucun pouvoir discrétionnaire d’analyser des questions de fond pour déterminer s’il serait juste et raisonnable d’accorder une prorogation du délai.
+Procédures parallèles
+[19] Dans un troisième temps, et subsidiairement, le requérant maintient que le ministre est lié par la décision prise dans un autre dossier de litige fiscal (2018‑121(IT)I), dans lequel le ministre aurait accepté d’accorder au requérant la prestation universelle pour la garde d’enfants et l’allocation canadienne pour enfants pour les années d’imposition 2009, 2010 et 2011.
+[20] La décision de l’ARC dans ce dossier est datée du 1 février 2019, faisait suite à l’avis d’opposition du requérant en date du 20 septembre 2018 aux avis de déterminations établis le 7 septembre 2018.
+[21] Il appert de l’avis d’opposition que le requérant a indiqué qu’il était en congé de maladie, qu’il était incapable d’agir dans les faits, que le délai de prescription était interrompu et qu’il ne recommençait que lorsque sa santé était rétablie.
+[22] Il a demandé au ministre de revoir sa demande de façon rétroactive.
+[23] La Cour note que la décision du ministre qui a été déposée en preuve, n’est pas motivée de sorte qu’il n’est pas possible de conclure avec certitude pour quelle raison le ministre a accepté la demande. De plus, contrairement au cas en l’espèce, il n’était pas question d’un mandataire ou d’un tiers qui agissait pour lui.
+[24] Il va de soi que la Cour n’est pas liée par une décision prise par l’ARC dans un autre dossier, même s’il s’agit du même contribuable. En fin de compte, la Cour est d’avis que la décision du ministre dans un autre dossier d’appel est non pertinente.
+Suspension de la période de prescription
+[25] Finalement, et subsidiairement, le requérant s’appuie sur les articles 2904 et 2925 du Code civil du Québec, L.Q. 1991, ch. 64 (« C.c.Q. »), qui prévoient ce qui suit :
+2904. Impossibilité d’agir - La prescription ne court pas contre les personnes qui sont dans l’impossibilité en fait d’agir soit par elles-mêmes, soit en se faisant représenter par d’autres.
+[…]
+2925. Droit personnel et réel mobilier – L’action qui tend à faire valoir un droit personnel ou un droit réel mobilier et dont le délai de prescription n’est pas autrement fixé se prescrit par trois ans.
+[26] Dans un premier temps, la Cour est d’avis que cet argument est irrecevable puisqu’il ne figure pas dans la demande de prorogation et a seulement été soulevé lors de l’audience. Ceci dit, la Cour a néanmoins accepté de considérer des soumissions écrites des deux parties étant donné qu’il s’agissait d’une question inusitée dans le contexte d’une demande de prorogation devant cette Cour.
+[27] De prime abord, il est bien établi que la Cour doit s’en remettre au droit applicable des provinces, notamment le Québec, le lieu de résidence du requérant, pour les questions de droit civil, notamment les questions de compétence et de capacité.
+[28] Tel qu’indiqué par l’intimée dans ses soumissions écrites, la Loi d’interprétation, L.R.C. (1985), ch. I‑21, consacre le principe de la complémentarité entre le droit fédéral et le droit privé des différentes provinces. L’article 8.1 prévoit ce qui suit :
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s’il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d’assurer l’application d’un texte dans une province, il faut, sauf règle de droit s’y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l’application du texte.
+[29] Ceci dit, tel que précisé par l’intimée, cette disposition est applicable « soit par mesure de nécessité et pourvu qu’il n’y ait pas de règle de droit fédérale incompatible » : Bouchard c. Canada (Procureur général), 2009 CAF 321, par. 17.
+[30] Le requérant prétend que les dispositions du C.c.Q. mentionnées ci‑haut ont préséance sur les dispositions de la Loi en ce qui concerne le processus d’appel et que les périodes prévues pour la production d’un avis d’appel et pour la production d’une demande de prorogation sont suspendues en raison de son incapacité d’agir pour une période de trois ans.
+[31] Tel qu’indiqué par l’intimée, il incombe au requérant de démontrer qu’il « est nécessaire de recourir à ces règles », selon le sens de l’article 8.1, précité.
+[32] Or, la Loi prévoit déjà un délai pour la production d’un avis d’appel ou pour une demande de prorogation. Il n’y a donc pas lieu de recourir au droit provincial : Markevich c. Canada, [2003] 1 R.C.S. 94, 2003 CSC 9.
+[33] Les délais prévus par la Loi dans le cadre du mécanisme d’appel d’une décision du ministre en matière fiscale, sont « claires et sans ambiguïté », tel que l’indique l’intimée. Le délai de « trois ans » prévu par l’article 2925 du C.c.Q. s’applique seulement lorsque « le délai de prescription n’est pas autrement fixé », ce qui n’est pas le cas.
+[34] Le requérant maintient qu’il était dans l’impossibilité d’agir pendant la période de 2011 à 2015, ce que l’intimée ne conteste pas. Mais l’article 2904 du C.c.Q. trouve seulement application lorsque la personne ne pouvait se faire « représenter par d’autres ».
+[35] Il y a lieu de revoir les faits dans cette instance.
+[36] Il est clair que monsieur Frenette a déposé un avis d’opposition à la nouvelle cotisation du 24 juillet 2014 et c’est d’ailleurs suite à ceci que le ministre a confirmé ladite cotisation le 16 mai 2016.
+[37] Il n’est pas contesté que le requérant a reçu l’avis de confirmation et qu’il l’a remis à son nouveau comptable, soit monsieur Georges Tremblay. D’ailleurs, le requérant reconnaît au paragraphe 11 de sa demande de prorogation, tel que précité, qu’il avait mandaté monsieur Tremblay pour faire un suivi et de contester l’avis de cotisation de l’ARC, ce qu’il n’a pas fait et, toujours selon le paragraphe 11, « il n’a pas demandé une prorogation du délai pour interjeter appel ».
+[38] Tel qu’indiqué ci-haut, le délai pour déposer un avis appel était le 14 août 2016 mais le mandataire du requérant à cette époque ne l’a pas fait. Il a choisi plutôt de déposer des déclarations de revenus modifiées pour les années d’imposition 2009 et 2010.
+[39] Selon le requérant, il était en congé de maladie et incapable d’agir pendant la période de 2011 à 2015, mais de toute évidence ceci ne l’a pas empêché de récupérer son dossier de monsieur Frenette pour ensuite mandater monsieur Tremblay.
+[40] La période de prescription dont il est question ici, soit la période de 90 jours pour déposer l’avis d’appel, débutait le 16 mai 2016, alors que le requérant avait, selon sa preuve testimoniale, mandaté monsieur Tremblay.
+[41] Tel qu’indiqué dans la décision Lamothe c. La Reine, précitée, ce n’est pas le rôle de cette Cour de déterminer s’il y a eu négligence de la part de monsieur Tremblay.
+[42] D’ailleurs, comme l’a indiqué le juge Tardif dans la décision Carrier c. Canada, 2005 TCC 182 (à l’onglet 7 du cahier des autorités de l’intimée), au paragraphe 19 :
+19 […] Même si le représentant de l’appelant a admis avoir été à l’origine de l’oubli, le requérant doit assumer la responsabilité de l’oubli de son mandataire, en ce qu’il avait l’obligation de s’assurer que ce dernier avait les qualités nécessaires pour agir dans les délais prescrits.
+[43] La Cour doit conclure que ce n’est pas en raison d’une incapacité quelconque que le requérant n’a pu agir à partir du 16 mai 2016 et donc l’article 2904 du C.c.Q. n’a pas d’application dans cette instance.
+[44] Dans ses soumissions écrites, l’intimée ajoute que l’article 2878 du C.c.Q. prévoit deux types de délais, soit un délai de prescription et un délai de déchéance.
+[45] Dans la décision récente de Andreou c. Agence du Revenu du Québec, 2018 QCCA 695 (« Andreou »), la Cour d’appel du Québec devait examiner la nature du délai d’appel prévu dans la Loi sur l’administration fiscale, L.Q. ch. A-6.002. Celle-ci prévoit des dispositions pour faire appel à la Cour du Québec d’une décision de l’Agence de revenu du Québec qui sont analogues aux dispositions de la présente Loi. La Cour d’appel a conclu qu’il s’agissait d’un délai de déchéance et non d’un délai de prescription. La distinction a été expliquée de la façon suivante :
+[10] Le délai de prescription peut être suspendu et interrompu, alors que ce n’est pas le cas pour le délai de déchéance. Cette différence résulte du fait que la prescription concerne les intérêts privés alors que la déchéance d’un recours a trait à l’ordre public. Le délai de déchéance « ne fait pas qu’empêcher la possibilité d’invoquer des moyens de droit, elle entraîne aussi la perte du droit lui-même ». M. Andreou reconnaît qu’il s’agit ici d’un délai de déchéance.
+[46] Et donc, même si la Cour conclut que le requérant était dans l’impossibilité d’agir en raison d’une incapacité quelconque et qu’il ne pouvait se faire « représenter par d’autres », selon le libellé de l’article 2904 du C.c.Q., les délais prévus par les articles 167 et 169 de la Loi sont des délais de déchéance qui ne peuvent être « suspendus ou interrompus ». L’expiration de ces délais entraîne donc « la perte du droit lui‑même ».
+Conclusion
+[47] Pour résumer, les délais prévus par le législateur sont de rigueur et la Cour ne dispose d’un pouvoir discrétionnaire pour proroger ces délais.
+[48] Puisque le délai pour déposer une demande de prorogation est un « délai de déchéance », il ne peut être « suspendu ou interrompu » et donc les articles 2904 et 2925 du C.c.Q. n’ont aucune application dans cette instance.
+[49] Pour ces raisons, la demande de prorogation de délai est rejetée.
+« Ces motifs de l’ordonnance modifiés sont émis en remplacement des motifs de l’ordonnance modifiés datés du 13e jour de mai 2019 afin de corriger la page des avocats. »
+Signé à Montréal, Québec, ce 5e jour de juin 2019.
+« Guy R. Smith »
+Juge Smith
+RÉFÉRENCE :
+2019 CCI 115
+Nº DU DOSSIER DE LA COUR :
+2018-4119(IT)APP
+INTITULÉ DE LA CAUSE :
+GHYSLAIN GAUTHIER c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 8 avril 2019
+MOTIFS DE L’ORDONNANCE MODIFIÉS PAR :
+L'honorable juge Guy R. Smith
+DATE DE L’ORDONNANCE MODIFIÉE :
+le 5 juin 2019
+COMPARUTIONS :
+Pour le requérant :
+L'appelant lui-même
+Pour l'intimée :
+Justine Allaire-Rondeau
+(stagiaire en droit)
+AVOCAT INSCRIT AU DOSSIER :
+Pour le requérant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur générale du Canada
+Ottawa, Canada

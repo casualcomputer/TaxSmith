@@ -1,0 +1,448 @@
+---
+title: "Assurance-Vie Banque Nationale, Compagnie d'Assurance-Vie c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27559/index.do"
+last_modified: "2005-07-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 425"
+citation2: ""
+neutral_citation: "2005 CCI 425"
+decision_date: "2005-07-07"
+language: "fr"
+item_id: "27559"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 121
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:46:24.928000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "81f0d937b57db74d382ae09464b8a2211159b55ad0199891138d3a47a7298f2b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Assurance-Vie Banque Nationale, Compagnie d'Assurance-Vie c. La Reine
+
+- Citation: 2005 CCI 425
+- Decision date: 2005-07-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 121, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Assurance-Vie Banque Nationale, Compagnie d'Assurance-Vie c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-07-07
+Référence neutre
+2005 CCI 425
+Numéro de dossier
+2004-128(GST)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2004-128(GST)I
+2002-4863(GST)G
+ENTRE :
+ASSURANCE-VIE BANQUE NATIONALE,
+COMPAGNIE D'ASSURANCE-VIE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 12 octobre 2004 à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l'appelante :
+Me Richard Généreux
+Avocat de l'intimée :
+Me Gérald Danis
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la partie IX de la Loi sur la taxe d'accise ( « LTA » ), dont un premier avis est daté du 10 janvier 2003 pour la période du 1er janvier 2001 au 31 décembre 2001 et le deuxième avis est daté du 10 juin 2003 pour la période du 1er janvier 2002 au 31 décembre 2002, dans le dossier numéro 2004-128(GST)I, sont rejetés.
+L'appel de la cotisation établie en vertu de la partie IX de la LTA dont l'avis est daté du 18 septembre 2001 pour la période du 1er janvier 2000 au 31 décembre 2000, dans le dossier numéro 2002-4863(GST)G, est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 7e jour de juillet 2005.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2005CCI425
+Date : 20050707
+Dossiers : 2004-128(GST)I
+2002-4863(GST)G
+ENTRE :
+ASSURANCE-VIE BANQUE NATIONALE,
+COMPAGNIE D'ASSURANCE-VIE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L'appelante en appelle de cotisations établies en vertu de la Loi sur la taxe d'accise ( « LTA » ) par lesquelles le ministre du Revenu national ( « Ministre » ) lui a refusé les crédits de taxe sur les intrants ( « CTI » ) pour les années 2000 à 2002 inclusivement. Dans une entente partielle sur les faits, les parties ont résumé les faits, et exposé les questions en litige. Cette entente se lit comme suit :
+1. L'appelante a réclamé des crédits de taxe sur les intrants au ministre du revenu national (ci-après « ministre » ) pour les années suivantes :
+Pour le dossier 2002-4863(GST)G
+1998
+76 872 $ *
+1999
+109 645 $ *
+2000
+140 667 $
+Pour le dossier 2004-128(GST)I
+2001
+177 499 $
+2002
+147 368 $
+2. Par son avis de cotisation en date du 18 septembre 2001, le ministre a refusé à l'appelante les crédits de taxe sur les intrants pour un montant de 327 183,80 $ concernant les années 1998 à 2000* et également un remboursement de taxes au montant de 14 276,42 $, tel qu'il appert de l'avis de cotisation en date du 18 septembre 2001 joint à l'onglet 1 du dossier des parties;
+3. Par son avis de cotisation en date du 10 janvier 2003 concernant l'année 2001, le ministre a refusé à l'appelante les crédits de taxe sur les intrants pour un montant de 177 499 $ ainsi que le redressement de la taxe nette à l'égard duquel l'appelante est admissible à un remboursement de taxe de 3 608,20 $, tel qu'il appert de l'avis de cotisation en date du 10 janvier 2003 joint à l'onglet 2 du dossier des parties;
+4. Par son avis de cotisation en date du 10 juin 2003 concernant l'année 2002, le ministre a refusé à l'appelante les crédits de taxe sur les intrants pour un montant de 154 847 $ ainsi que le redressement de la taxe nette à l'égard duquel l'appelante est admissible à un remboursement de taxe de 2 790,47 $ tel qu'il appert de l'avis de cotisation en date du 10 juin 2003 à l'onglet 3 du dossier des parties;
+5. L'appelante a signifié des avis d'opposition au ministre concernant les cotisations en litige, à savoir :
+Période
+Date
+1998 à 2000
+9 novembre 2001
+2001
+2 avril 2003
+2002
+8 août 2003
+tel qu'il appert des avis d'opposition joint à l'onglet 4 du dossier des parties;
+6. Par les avis de ratification qui suivent, le ministre a confirmé les cotisations en litige en invoquant essentiellement comme motif que « la fourniture d'un service financier lié à une police d'assurance est détaxée uniquement si toutes et chacune des conditions de l'article 2 de la partie IX de l'annexe VI de la Loi sur la taxe d'accise sont rencontrées » , à savoir :
+Période
+Date
+1998 à 2000
+9 octobre 2002
+2001
+23 octobre 2003
+2002
+17 novembre 2003
+7. L'appelante utilise dans le cadre de ses opérations de la réassurance afin de limiter son risque à l'égard des produits qu'elle offre à ses assurés;
+8. Les produits que l'appelante offre à ses assurés sont essentiellement des contrats d'assurance collective sur la vie ou la santé des assurés;
+9. La réassurance est effectuée auprès de quelques réassureurs qui assument une partie importante du risque, c'est-à-dire jusqu'à 90%. Toutefois, la réassurance ne libère pas l'appelante de ses obligations envers les titulaires de police d'assurance;
+10. Bien que cet élément n'a pas fait l'objet d'une vérification, les parties reconnaissent que pour les fins de l'audition, les titulaires de polices d'assurance sont des particuliers résidants au Canada;
+11. On retrouve parmi les principaux réassureurs de l'appelante, RGA et Natcan Insuance Company Limited (ci-après « NATCAN » );
+12. NATCAN est une personne non-résidente du Canada et durant les périodes en litige elle était la filiale à part entière de Banque Nationale du Canada;
+13. Les services de réassurance fournis par NATCAN à l'appelante constituent un « service financier » au sens du paragraphe 123(1) de la Loi sur la taxe d'accise;
+14. L'appelante est une « institution financière » au sens de la Loi sur la taxe d'accise;
+15. Par ailleurs, des contrats de réassurance ont été signés entre l'appelante et NATCAN notamment ceux en date du 31 octobre 1996 et en date du 12 avril 1999 joints à l'onglet 5 du dossier des parties;
+16. La fourniture des services par l'appelante à NATCAN constituent un « service financier » au sens du paragraphe 123(1) de la Loi sur la taxe d'accise;
+17. L'appelante a inclus dans le calcul de son revenu sous la rubrique « redevance des réassureurs » les montants qu'elle a reçus de NATCAN en vertu des contrats joints à l'onglet 5, tel qu'il appert des états financiers vérifiés de l'appelante pour les années suivantes, soit :
+31 décembre 1999
+onglet 6
+31 décembre 2000
+onglet 7
+31 décembre 2001
+onglet 8
+31 décembre 2002
+onglet 9
+18. La fourniture des services de l'appelante à NATCAN n'est pas liée à une police d'assurance qui :
+a) au moment de l'entrée en vigueur de la police, l'assuré est un particulier non-résident;
+b) concerne des particuliers non-résidents qui sont assurés aux termes de la police;
+c) concerne un immeuble situé à l'étranger;
+d) concerne des risques qui sont habituellement situés à l'étranger;
+19. Bien que contesté par l'intimée, la méthode de calcul de l'appelante pour les fins de sa réclamation des crédits de taxe sur les intrants en litige est un pourcentage de la TPS payée sur certaines dépenses d'opération de l'appelante. Ce pourcentage est établi par le montant des primes assumées par NATCAN divisé par le montant des primes brutes émises, tel qu'il appert des tableaux de calcul pour les années en litige joint en liasse à l'onglet 10 du dossier des parties;
+20. Le quantum des dépenses d'opération et le montant de la TPS payée par l'appelante relativement à ces dépenses n'ont pas fait l'objet d'une vérification, mais ils ne sont pas contestés par l'intimée pour les fins de l'audition. Le détail des différents postes de dépenses et le montant de TPS payé par l'appelante pour les années en litige est joint en liasse à l'onglet 11 du dossier des parties;
+QUESTIONS EN LITIGE
+21. Est-ce que les fournitures effectuées par l'appelante à NATCAN sont des fournitures exonérées au sens de la partie VII de l'annexe V, ou sont-elles plutôt des fournitures détaxées au sens de la partie IX de l'Annexe VI de la Loi sur la taxe d'accise?
+22. Subsidiairement, est-ce que la méthode utilisée par l'appelante pour calculer ses crédits de taxe sur les intrants est juste et raisonnable au sens du paragraphe 141.01(5) de la Loi sur la taxe d'accise?
+[2] Par ailleurs, il est utile de relater en partie le contenu des contrats de réassurance auxquels on fait référence à l'article 15 de l'entente partielle sur les faits, et qui est pertinent au présent litige. Le contrat du 31 octobre 1996 stipule, entre autres, ce qui suit :
+REINSURANCE AGREEMENT # 3
+between
+NATIONAL BANK LIFE INSURANCE COMPANY
+(hereinafter called the "Company")
+and
+NATCAN INSURANCE COMPANY LIMITED
+(hereinafter called the "Reinsurer")
+In witness of the Agreement hereinafter set forth, the Company and the Reinsurer have hereunto affixed their signatures.
+. . .
+1. SCOPE OF THE AGREEMENT
+This Agreement applies to National Bank Life Insurance company risks under the Company's policies 70003-70004 including life benefits, which are accepted by the Company in accordance with its normal underwriting rules at premium rates and on policies forms filed with the Reinsurer at the date of this Agreement and from time to time.
+Such risks shall be reinsured with the Reinsurer and such reinsurance shall be ceded on an automatic basis as herein provided.
+2. EFFECTIVE DATE
+All of the risks shall be reinsured on and after January 1st, 1996.
+3. POLICY CONDITIONS
+The current general and special policy conditions and premium schedules of the Company applying to the business covered by this Agreement shall form an integral part of this Agreement. Any additions or alterations to any of these conditions or schedules shall be reported in writing to the Reinsurer without delay.
+4. REINSURER'S SHARE
+The Company agrees to cede to the Reinsurer 90% of the first $150,000 in coverage under the Company's policies on a coinsurance basis and the Reinsurer agrees to accept these risks.
+5. COMMENCEMENT AND TERMINATION OF LIABILITY
+On and after the Effective Date of this Agreement, the liability of the Reinsurer shall commence and terminate simultaneously with that of the Company.
+The liability of the Reinsurer shall commence on the Effective Date of this Agreement for any liability of the Company that commenced prior to the Effective Date of this Agreement, and that had not been settled as of the date of this Agreement, whether reported or not.
+. . .
+7. REINSURANCE PREMIUMS
+7.1 For all certificates, the Reinsurer shall receive a reinsurance premium which shall be the Reinsurer's Share of the Company's regular monthly premium due and received on or after the Effective Date of this Agreement for the Reinsurer's share of each risk.
+. . .
+7.4 The Reinsurer shall reimburse the Company for its share of any premium refunded to an Insured Borrower by the Company.
+. . .
+8. EXPENSES
+The Reinsurer shall grant an expense allowance to the Company expressed as a percentage of reinsurance premiums which recognizes the expense ratio incurred by the Company. The expense allowance will not exceed 35% of:
+a) the reinsurance premiums stated in section 7.1 above
+b) less any premium refund according to 7.4 above
+This expense allowance includes premium taxes.
+. . .
+9. MONTHLY STATEMENT
+At the end of each month, the Company will produce a statement showing for the month:
+a) Reinsurance premiums due in accordance with provision 7;
+b) Reinsurance expense allowances applicable in accordance with provision 8;
+c) Claims paid during the month;
+d) Net reinsurance payment (amount due) for the month.
+The Company (Reinsurer) will pay to the Reinsurer (Company) any positive (negative) reinsurance payment before the end of the following month.
+In the event of late payment by either party for any reason, interest on the overdue amount will be added to the amount otherwise due. This interest will be calculated at an annual rate of 3% over the then current prime rate of the National Bank of Canada from the due date of the overdue amount to the date of payment.
+10. QUARTERLY REPORT
+Within 30 days from the end of each quarter, or as soon thereafter as reasonably possible, the Company shall prepare and send to the Reinsurer a quarterly report containing information satisfactory to the Reinsurer for the maintenance of proper records and appropriate actuarial reserves (including the assumptions and methods) in respect of the Reinsurer's Share of the risks.
+11. LETTER OF CREDIT
+The Reinsurer agrees to provide the Company with an irrevocable Letter of Credit in favour of the Company drawn on a bank acceptable to the Company in an amount equal to 120% of the Company's statutory reserves and provisions on the reinsured risks at the most recent annual valuation date.
+The Reinsurer agrees to renew such Letter of Credit at least 30 days before its expiry.
+The Company shall be entitled to draw down the Letter of Credit if the Reinsurer fails to make payment in timely fashion of claims or any other amounts due to the Company under this Agreement or if the Reinsurer commits a financial breach of this Agreement.
+Before drawing down the Letter of Credit, the Company will notify the Reinsurer of its intention to do so and provide a delay of at least fourteen days for the Reinsurer to pay the amount due or remedy the breach, provided however that no such delay shall extend beyond the day one week prior to the expiration date of the current Letter of Credit.
+If the Letter of Credit is drawn down in accordance with this provision, this Agreement shall immediately and automatically terminate without any further notice being necessary. The Reinsurer remains liable for all claims and is entitled to all premiums up to the date of termination. The reinsured proportion of reserves and provisions of the Company shall be reimbursed by the Reinsurer on termination, plus any claim handling expenses applicable. The proceeds of the Letter of Credit shall be treated as a payment on account pending final settlement of all amounts owing between the parties.
+12. SETTLEMENT OF CLAIMS
+The Company shall report promptly to the Reinsurer information respecting any claim received which is covered by this Agreement. The claim made upon the Company shall be accepted by the Reinsurer as a claim upon it for the Reinsurer's Share on the date the claim is incurred. The proofs of claim accepted by the Company shall be taken as sufficient by the Reinsurer.
+Except as provided herein, the Reinsurer shall abide by the claim as it shall be settled by the Company, with or without contest.
+Any suit or claim may be contested, compromised or settled for a reduced amount by the Company and the Reinsurer shall participate in any reduction. Any such reduction shall be shared by the Company and the Reinsurer in proportion to the net sum at risk of the Company and the Reinsurer at the time the claim occurred. The same proportion of any special expenses incurred by the Company (excluding the routine cost of claim investigation and the salary of its full-time employees) in defending or contesting any claim shall be paid by the Reinsurer. The Company shall promptly notify the Reinsurer of any suit or proceeding in court respecting any claims, furnish the details thereof on request, and shall furnish an itemized statement of the expenses incurred thereby.
+13. REDUCTIONS (INCLUDING TERMINATIONS)
+If there is any decrease in the amount of any risk covered by this Agreement the amount of reinsurance shall be decreased in the same proportion.
+. . .
+16. ACCESS TO RECORDS
+The Reinsurer shall have the right, at any reasonable time, to inspect at the principal office of the Company all books and documents relating to reinsurance under this Agreement.
+Upon request, the Company shall furnish the Reinsurer with copies of its files.
+. . .
+18. PARTIES TO AGREEMENT
+This is an Agreement of indemnity reinsurance solely between the Company and the Reinsurer. The acceptance of reinsurance by the Reinsurer under this Agreement shall not create any right of legal relation between the Reinsurer and the Policyholder or any of the Insured Borrowers under the Company's policies.
+. . .
+21. GOVERNING LAW
+This Agreement shall be interpreted in accordance with the law of the Province of Quebec.
+[3] Les mêmes parties ont signé un autre contrat « Reinsurance Agreement #5 » , le 12 avril 1999, reprenant généralement les termes du contrat du 31 octobre 1996, à peu d'exceptions près. Ainsi, on fait référence dans ce nouveau contrat à des numéros de police différents sous l'article 1; la date d'entrée en vigueur de la réassurance ("effective date") a été établie au 7 décembre 1998, à l'article 2. Les articles suivants ont par ailleurs été modifiés :
+REINSURANCE AGREEMENT # 5
+between
+NATIONAL BANK LIFE INSURANCE COMPANY
+(hereinafter called the "Company")
+and
+NATCAN INSURANCE COMPANY LIMITED
+(hereinafter called the "Reinsurer")
+. . .
+4. REINSURER'S SHARE
+The Company agrees to cede to the Reinsurer 90% of the first $150,000 of life insurance coverage and 100% in excess of $150,000 of life insurance coverage under the Company's policies on a coinsurance basis and the Reinsurer agrees to accept these risks. The Company agrees to cede 100% of dismemberment coverage and the Reinsurer agrees to accept these risks.
+. . .
+7. REINSURANCE PREMIUMS
+7.1 For all certificates, the Reinsurer shall receive a reinsurance premium which shall be the Reinsurer's Share of the Company's regular monthly premium due and received on or after the Effective Date of this Agreement for the Reinsurer's share of each risk.
+7.2 The Reinsurer shall reimburse the Company for its share of any premium refunded to an Insured Borrower by the Company.
+8. EXPENSES
+The Reinsurer shall grant an expense allowance to the Company expressed as a percentage of reinsurance premiums which recognizes the expense ratio incurred by the Company. The expense allowance will not exceed 35% of:
+a) the reinsurance premiums stated in section 7.1 above
+b) less any premium refund according to 7.2 above
+This expense allowance includes premium taxes. The expense allowance percentages will be revised each year in order to reflect the current level of expenses incurred by the Company.
+[4] Monsieur Georges Ferland, vice-président de la direction des services actuariels de l'appelante, est venu expliquer le rôle de Natcan Insurance Company Limited ( « Natcan » ) auprès de l'appelante. Natcan réassure l'assurance-vie vendue par l'appelante sur les prêts octroyés par la Banque Nationale du Canada à ses clients canadiens. Natcan réassure 90 pour cent de toute police d'assurance-vie prise sur des prêts octroyés de 150 000 $ ou moins. En agissant ainsi, l'appelante n'assume ainsi que 10 pour cent du risque, alors que Natcan en assume 90 pour cent. Depuis le 7 décembre 1998, dans les cas où la couverture ( « life insurance coverage » ) excède 150 000 $, Natcan assume 100 pour cent du risque (voir article 4 du « Reinsurance Agreement #5 » signé le 12 avril 1999).
+[5] Puisque l'appelante continue de s'occuper de toute l'administration des dossiers d'assurance, elle demande une redevance à Natcan, laquelle redevance est déduite de la portion des primes d'assurance qui est normalement remise à Natcan. Ainsi, Natcan reçoit 90 pour cent des primes d'assurance (puisqu'elle assume 90 pour cent du risque) - ou 100 pour cent si elle assume 100 pour cent des risques - duquel est déduit un montant correspondant à 26 pour cent des primes ainsi cédées à Natcan par l'appelante (le contrat écrit stipule que l'appelante pourrait exiger jusqu'à 35 pour cent des primes ainsi cédées à Natcan). Ainsi, l'appelante remet à Natcan la différence, soit 64 pour cent des primes (ou 74 pour cent si Natcan assume 100 pour cent du risque), une fois par mois. Le montant des primes nettes remis à Natcan peut être ajusté selon les réclamations d'assurance faites au cours du mois.
+[6] Monsieur Ferland a rajouté que toute l'administration des assurances sur les prêts hypothécaires occupe une centaine de personnes travaillant pour l'appelante.
+[7] Selon monsieur Ferland, l'appelante rend un service à Natcan, en ce que, avant d'octroyer une assurance et d'établir la prime d'assurance, elle fait la sélection du risque. Comme Natcan sera appelé à partager le paiement de la réclamation, l'appelante considère que toute l'administration des assurances est faite non seulement pour l'appelante elle-même, mais pour Natcan également, et ce, contre rétribution (soit 26 pour cent des primes cédées).
+[8] C'est ainsi que l'appelante a considéré qu'elle rendait un service financier à Natcan. Normalement, la fourniture d'un service financier est une fourniture exonérée ne donnant pas droit à des CTI. Toutefois, certaines exportations de services financiers deviennent des fournitures détaxées, donnant droit à des CTI si elles rencontrent les exigences de la partie IX de l'annexe VI de la LTA. Comme Natcan est non résidente du Canada, l'appelante a considéré que la fourniture des services à Natcan (incluant toute l'administration des polices d'assurance, dans la proportion attribuable à Natcan) constituait une fourniture détaxée au sens de la partie IX de l'annexe VI de la LTA.
+[9] L'appelante a donc réclamé des CTI selon un pourcentage du coût de tous les services administratifs exécutés par l'appelante au cours de la période en litige. Comme l'appelante ne pouvait départager de façon exacte les services administratifs rendus à un réassureur ou à un autre, elle a calculé le pourcentage applicable à Natcan en divisant le montant des primes réassurées par cette dernière sur le montant des primes totales exigées dans une année par l'appelante des personnes assurées. Ainsi par exemple en 1999, Natcan recevait 64,77 pour cent des primes brutes totales perçues par l'appelante (i.e. 64,77 du total des primes recouvrées du public assuré par l'appelante). L'appelante a donc réclamé en 1999 des CTI dans une proportion de 64,77 pour cent de la taxe sur les produits et services ( « TPS » ) payée sur la totalité de ses dépenses d'opérations (soit le coût des services financiers de souscription, d'inscription, de perception des primes sur les polices, de règlement des réclamations, etc, c'est-à-dire toutes les dépenses normalement assumées par l'assureur primaire), considérant qu'elle réclamait ces CTI sur des activités détaxées. Cette méthode a été utilisée pour toutes les années en litige.
+Question en litige
+[10] La question est donc de déterminer si la fourniture par l'appelante de services financiers à Natcan constitue une fourniture exonérée (ne donnant pas droit à des CTI) aux termes de l'article 1 de la partie VII de l'annexe V, ou si elle constitue plutôt une fourniture détaxée (donnant droit à des CTI), par application de la partie IX de l'annexe VI de la LTA.
+Dispositions statutaires
+DÉFINITIONS ET INTERPRÉTATION
+Art. 123. Définitions. - (1) Les définitions qui suivent s'appliquent à l'article 121, à la présente partie et aux annexes V à X.
+« acquéreur » . - « acquéreur »
+a) Personne qui est tenue, aux termes d'une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+b) personne qui est tenue, autrement qu'aux termes d'une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+c) si nulle contrepartie n'est payable pour une fourniture :
+(i) personne à qui un bien, fourni par vente, est livré ou à la disposition de qui le bien est mis,
+(ii) personne à qui la possession ou l'utilisation d'un bien, fourni autrement que par vente, est transférée ou à la disposition de qui le bien est mis,
+(iii) personne à qui un service est rendu.
+« activité commerciale » . - « activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l'exploitation d'une entreprise (à l'exception d'une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l'ensemble des associés sont des particuliers), sauf dans la mesure où l'entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (à l'exception de quelque projet ou affaire qu'entreprend, sans attente raisonnable de profit, un particulier, une fiducie personnelle ou une société de personnes dont l'ensemble des associés sont des particuliers), sauf dans la mesure où le projet ou l'affaire comporte la réalisation par la personne de fournitures exonérées;
+c) la réalisation de fournitures, sauf des fournitures exonérées, d'immeubles appartenant à la personne, y compris les actes qu'elle accomplit dans le cadre ou à l'occasion des fournitures.
+« assureur » . - « assureur » Personne titulaire d'un permis ou autrement autorisée par la législation fédérale ou provinciale à exploiter une entreprise d'assurance au Canada, ou par la législation d'une autre administration à exploiter une telle entreprise dans cette administration.
+« effet financier » . - « effet financier »
+a) Titre de créance;
+b) titre de participation;
+c) police d'assurance;
+d) participation dans une société de personnes ou une fiducie ou droit dans une succession, ou droit y afférent;
+e) métal précieux;
+f) option ou contrat, négocié dans une bourse de commerce reconnue, pour la fourniture à terme de marchandises;
+g) effet visé par règlement;
+h) garantie, acceptation ou indemnité visant un effet visé à l'alinéa a), b), d), e) ou g);
+i) option ou contrat pour la fourniture à terme d'argent ou d'un effet visé à l'un des alinéas a) à h).
+« fourniture » . - « fourniture » Sous réserve des articles 133 et 134, livraison de biens ou prestation de services, notamment par vente, transfert, troc, échange, louage, licence, donation ou aliénation.
+« fourniture détaxée » . - « fourniture détaxée » Fourniture figurant à l'annexe VI.
+« fourniture exonérée » . - « fourniture exonérée » Fourniture figurant à l'annexe V.
+« institution financière » . - « institution financière » Personne qui, à un moment donné, est une institution financière aux termes de l'article 149.
+« personne » . - « personne » Particulier, société de personnes, personne morale, fiducie ou succession, ainsi que l'organisme qui est un syndicat, un club, une association, une commission ou autre organisation; ces notions sont visées dans des formulations générales, impersonnelles ou comportant des pronoms ou adjectifs indéfinis.
+« police d'assurance » . - « police d'assurance »
+a) Police ou contrat d'assurance (sauf une garantie portant sur la qualité, le bon état ou le bon fonctionnement d'un bien corporel, lorsque la garantie est fournie à une personne qui acquiert le bien à une fin autre que sa vente) établis par un assureur, y compris :
+(i) la police de réassurance établie par un assureur,
+« service » . - « service » Tout ce qui n'est ni un bien, ni de l'argent, ni fourni à un employeur par une personne qui est un salarié de l'employeur, ou a accepté de l'être, relativement à sa charge ou à son emploi.
+« service financier » . - « service financier »
+[...]
+f.1) le paiement ou la réception d'un montant en règlement total ou partiel d'une réclamation découlant d'une police d'assurance;
+[...]
+l) le fait de consentir à effectuer un service visé à l'un des alinéas a) à i) ou de prendre les mesures en vue de l'effectuer;
+[...]
+Institutions financières
+Art. 149. Institutions financières. - (1) Pour l'application de la présente partie, une personne est une institution financière tout au long de son année d'imposition si, selon le cas :
+a) elle est, à un moment de l'année :
+[...]
+(v) un assureur ou une autre personne dont l'entreprise principale consiste à offrir de l'assurance dans le cadre de polices d'assurance,
+[...]
+Sous-section b
+Crédit de taxe sur les intrants
+Art. 169. Règle générale. - (1) Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d'une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu'elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l'importation ou au transfert devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable :
+A x B
+où :
+A représente la taxe relative à la fourniture, à l'importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable;
+B : [...]
+(c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service, ou l'a transféré dans la province, selon le cas, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+[...]
+ANNEXE V
+FOURNITURES EXONÉRÉES
+[...]
+PARTIE VII
+SERVICES FINANCIERS
+Art. 1 [Fourniture de services financiers]. - La fourniture de services financiers qui ne figurent pas à la partie IX de l'annexe VI.
+[...]
+ANNEXE VI
+FOURNITURES DÉTAXÉES
+[...]
+PARTIE IX
+SERVICES FINANCIERS
+Art. 1. [Fourniture d'un service financier effectué au profit d'une personne non résidante]. - La fourniture d'un service financier, à l'exception d'une fourniture figurant à l'article 2, effectuée par une institution financière au profit d'une personne non résidante, sauf s'il est lié à ce qui suit :
+a) une dette qui découle :
+(i) soit du dépôt de fonds au Canada, si l'effet faisant foi du dépôt est négociable,
+(ii) soit du prêt d'argent à utiliser principalement au Canada;
+b) une dette pour tout ou partie de la contrepartie de la fourniture d'un immeuble situé au Canada;
+c) une dette pour tout ou partie de la contrepartie de la fourniture d'un bien meuble à utiliser principalement au Canada;
+d) une dette pour tout ou partie de la contrepartie de la fourniture d'un service à exécuter principalement au Canada;
+e) un effet financier, sauf une police d'assurance ou un métal précieux, acquis, autrement que directement d'un émetteur non-résident, par l'institution financière agissant à titre de mandant.
+Art. 2. [Fourniture d'un service financier lié à une police d'assurance]. - La fourniture par une institution financière d'un service financier lié à une police d'assurance établie par l'institution, à l'exception d'un service lié aux placements de l'institution, dans la mesure où :
+a) s'agissant d'une police d'assurance-vie, d'assurance-accident ou d'assurance-maladie (sauf une police collective), la police est établie au titre d'un particulier qui, au moment de l'entrée en vigueur de la police, est un particulier non résidant;
+b) s'agissant d'une police collective d'assurance-vie, d'assurance-accident ou d'assurance-maladie, la police concerne des particuliers non résidants qui sont assurés aux termes de la police;
+c) s'agissant d'une police visant un immeuble, la police concerne un immeuble situé à l'étranger;
+d) s'agissant d'un autre type de police, la police concerne des risques qui sont habituellement situés à l'étranger.
+Art. 3. [Fourniture d'un service financier qui consiste en la fourniture de métaux précieux]. - La fourniture d'un service financier qui consiste en la fourniture de métaux précieux par le raffineur ou par la personne pour le compte de laquelle les métaux ont été raffinés.
+Arguments des parties
+[11] L'intimée est d'avis que l'appelante n'a pas droit aux CTI réclamés au motif qu'ils sont reliés à la fourniture de services financiers qui constituent une fourniture exonérée au sens de l'article 1 de la partie VII de l'annexe V de la LTA. Toute fourniture exonérée ne donne pas droit à des CTI aux termes de l'article 169 de la LTA, puisque pour y donner droit, une fourniture doit avoir été réalisée dans le cadre d'une activité commerciale. Or, la réalisation d'une fourniture exonérée est spécifiquement exclue de toute activité commerciale à l'article 123 de la LTA.
+[12] L'intimée est d'avis que les services financiers reliés à des polices d'assurance ne pourront donner droit à des CTI que s'ils deviennent détaxés par l'application de l'article 2 de la partie IX de l'annexe VI de la LTA. Les parties ont admis dans l'entente partielle sur les faits que la fourniture des services de l'appelante à Natcan n'est pas liée à une police d'assurance visée à l'article 2 de la partie IX de l'annexe VI de la LTA. En conséquence, cette fourniture ne peut être détaxée, et demeure exonérée en vertu de l'article 1 de la partie VII de l'annexe V de la LTA.
+[13] Subsidiairement, l'intimée considère que même si l'on pouvait considérer la fourniture de services de l'appelante à Natcan comme une fourniture détaxée, les CTI réclamés n'ont pas été établis sur le montant réel des CTI liés aux fournitures de services rendus à Natcan. Selon l'intimée, l'appelante a calculé les CTI selon une proportion de l'ensemble de ses dépenses d'opération, alors que selon elle, les services fournis par l'appelante à Natcan sont beaucoup plus restreints. Les services rendus en vertu du contrat de réassurance se limitent à la cession des polices d'assurance uniquement. Selon l'intimée, les dépenses reliées aux services administratifs, en général, sont rendus aux bénéficiaires des polices d'assurance et non à Natcan.
+[14] De son côté, l'appelante soutient que même si la fourniture des services ne se classe pas sous l'article 2 de la partie IX de l'annexe VI de la LTA, si l'on décortique mot par mot l'article 1 de la partie IX de l'annexe VI, on peut déduire qu'il s'agit quand même d'une fourniture détaxée au sens de cet article 1. Selon l'appelante, en sous-contractant avec Natcan un contrat de réassurance, elle a accepté de fournir des services financiers qui comprennent tous les services administratifs reliés à l'émission de polices d'assurance, au profit d'une personne non résidente, Natcan. Selon l'appelante, les services rendus à Natcan en vertu du contrat de réassurance, rencontrent les conditions d'ordre général requises à l'article 1 de la partie IX de l'annexe VI, pour en faire une fourniture détaxée qui donne droit à des CTI.
+[15] Par ailleurs, l'appelante considère que la méthode utilisée pour calculer les CTI, selon le pourcentage des primes réassurées par Natcan par rapport aux primes brutes totales perçues par l'appelante, est raisonnable dans les circonstances. En fait, l'intimée ne conteste pas tant le calcul du pourcentage que les dépenses retenues pour établir le montant total de la taxe payée. L'appelante considère que toutes les dépenses d'opération doivent être tenues en compte. L'intimée considère, dans son argument alternatif, que seules les dépenses reliées à la cession des polices d'assurance doivent être tenues en compte. L'intimée ne précise pas toutefois le quantum précis de ces dépenses, considérant qu'il appartient à l'appelante de faire cette répartition.
+Analyse
+[16] La question principale en litige est de déterminer si, en décidant de sous-contracter un contrat de réassurance avec sa filiale étrangère Natcan, l'appelante a fait en sorte que les services financiers qu'elle effectue relativement aux polices d'assurance qu'elle émet, deviennent non plus des fournitures exonérées mais des fournitures détaxées.
+[17] En règle générale, les services financiers reliés à l'émission de polices d'assurance sont des fournitures exonérées. En effet, un service financier inclut « le paiement ou la réception d'un montant en règlement total ou partiel d'une réclamation découlant d'une police d'assurance » ou « le fait de consentir à effectuer un [tel service] ou de prendre les mesures en vue de l'effectuer » (voir définition de « service financier » à l'article 123 aux alinéas f.1) et l) de la LTA).
+[18] Il n'est pas contesté par les parties que les services pour lesquels l'appelante réclame maintenant des CTI, sont des services financiers au sens de la LTA.
+[19] Par ailleurs, l'article 1 de la partie VII de l'annexe V de la LTA prévoit explicitement que constitue une fourniture exonérée, la fourniture de services financiers qui ne figurent pas à la partie IX de l'annexe VI de la LTA.
+[20] La question qui se pose dès lors, est celle de savoir si les services rendus par l'appelante dans le cadre du contrat de réassurance avec Natcan, figurent à la partie IX de l'annexe VI de la LTA. Il est utile de dire dès le départ, que bien que l'on admette de part et d'autre que l'appelante a rendu des services financiers à Natcan, il n'y a pas consensus entre les parties quant aux services spécifiques qui sont rendus par l'appelante à Natcan.
+[21] L'appelante soutient que la totalité des services administratifs qu'elle régit lorsqu'elle émet des polices d'assurance sont des services qu'elle rend à Natcan, dans la proportion du risque que cette dernière assume. L'intimée croit plutôt que ces services sont rendus aux bénéficiaires des polices d'assurance puisque ces services sont générés par l'émission des polices, qu'il y ait réassurance ou non. Selon l'intimée, les services se rattachant à la cession d'une partie du risque relié à ces polices d'assurance sont limités. Ainsi, l'intimée suggère que ces services se limitent, à la lecture du contrat liant l'appelante à Natcan, à la production d'états de compte mensuels (article 9), de rapports trimestriels (article 10), ou à l'obligation de prévenir Natcan de l'existence et de l'acceptation d'une réclamation (article 12).
+[22] Sur ce point, je suis plutôt d'avis que les services administratifs rendus à Natcan ne se limitent pas à ce que prétend l'intimée. En effet, Natcan remet à l'appelante 26 pour cent des primes qui lui sont cédées, ce qui selon les termes du contrat à l'article 8, correspond au pourcentage des frais généraux de l'appelante ( « recognizes the expense ratio incurred by the Company [l'appelante] » ). En cas de réclamation par un assuré, les preuves de réclamation acceptées par l'appelante doivent être considérées suffisantes par Natcan, et celle-ci doit se conformer au règlement convenu par l'appelante avec l'assuré (article 12 du contrat).
+[23] Dans ce contexte, vu que Natcan doit assumer une partie importante de la réclamation, elle se trouve en quelque sorte à mandater l'appelante pour effectuer tous les services administratifs qui s'imposent pour s'assurer d'une part qu'une première sélection a été faite avant d'émettre la police d'assurance et d'autre part, que la réclamation est bien fondée. Le coût de ces services, qui doivent à la base être assumés par l'appelante en tant qu'assureur primaire (comme le qualifie l'intimée), est réparti avec Natcan, qui verse 26 pour cent des primes cédées sous forme de redevances.
+[24] Ceci étant dit, il faut maintenant déterminer si ces services figurent à la partie IX de l'annexe VI, afin de se qualifier comme fourniture détaxée et donner ainsi droit à des CTI.
+[25] Il est important de mentionner ici que si un service financier n'est pas spécifiquement détaxé par la partie IX de l'annexe VI, il est dès lors automatiquement exonéré par l'article 1 de la partie VII de l'annexe V.
+[26] Les notes explicatives accompagnant le projet de loi de mai 1990, disent ce qui suit au sujet des services financiers :
+PARTIE IX
+SERVICES FINANCIERS
+Services financiers [Projet de loi C-62 (L.C. 1990, ch. 45)] - Cette partie énumère les conditions requises pour qu'un service financier soit détaxé. Un service financier est exonéré à moins d'être nommément inclus dans cette partie. Le paragraphe 123(1) de la loi définit les services financiers et les termes connexes. Une institution financière est admissible au crédit de taxe sur intrants relativement à des acquisitions par vente dans la mesure où ces acquisitions sont afférentes aux services décrits dans cette partie.
+(Version anglaise)
+Technical Notes (May 1990)
+This Part describes the circumstances in which a financial service is zero-rated. A financial service is exempt unless it is explicitly included in this Part. "Financial services" and other related terms are defined in subsection 123(1) of the Act. A financial institution is eligible to claim an input tax credit in respect of purchases to the extent they relate to services described in this Part.
+[Je souligne.]
+[27] Les notes explicatives accompagnant le projet de loi de février 1993, disent en partie ce qui suit relativement à la modification apportée pour exclure des fournitures détaxées dans certains cas, la fourniture d'un service financier effectué au profit d'une personne non résidente et qui est lié à un effet financier :
+Art. 1e) [Fourniture d'un service financier effectué au profit d'une personne non résidante]
+Effets financiers de personnes non résidantes [Projet de loi C-112 (L.C. 1993, ch. 27)] - L'article 1 de la partie IX de l'annexe VI prévoit la détaxation de certaines exportations de services financiers autres que certains services d'assurance. L'alinéa 1e) exclut actuellement des fournitures détaxées la fourniture d'un service financier lié à l'achat ou à la vente de valeurs mobilières à titre de mandant, autrement qu'à titre de souscripteur. L'alinéa 1e) modifié exclut la fourniture d'un service financier lié à un effet financier (autre qu'une police d'assurance ou métal précieux) si l'effet financier n'est pas acquis directement d'une société émettrice non résidante par une institution financière mandatée à cette fin.
+Cette modification a été annoncée dans le communiqué du 5 novembre 1991 et s'applique aux services financiers fournis après cette date.
+(version anglaise)
+Technical Notes (February 1993)
+Section 1 of Part IX of Schedule VI provides for the zero-rating of certain exports of financial services other than certain insurance services. Paragraph (e) of that section currently excludes from the zero-rated supplies a supply of a financial service related to the buying or selling of securities as a principal, other than in the capacity of an underwriter. The amended paragraph (e) excludes a supply of a financial service related to a financial instrument (other than an insurance policy or a precious metal) if the financial instrument is not acquired directly from a non-resident issuer by a financial institution acting as principal.
+This amendment was announced in the November 5, 1991 press release and applies to financial services supplied after that date.
+[28] Ainsi, la fourniture d'un service financier peut être détaxée par l'application de l'article 1 de la partie IX de l'annexe VI. Cet article détaxe
+[l]a fourniture d'un service financier, à l'exception d'une fourniture figurant à l'article 2, effectuée par une institution financière au profit d'une personne non résidante, sauf s'il est lié à [...]
+e) un effet financier, sauf une police d'assurance ou un métal précieux, acquis, autrement que directement d'un émetteur non-résident, par l'institution financière agissant à titre de mandant.
+La version anglaise dit ce qui suit :
+Part IX - Financial Services
+1. A supply of a financial service (other than a supply that is included in section 2) made by a financial institution to a non-resident person, except where the service relates to
+. . .
+(e) a financial instrument (other than an insurance policy or a precious metal) acquired, otherwise than directly from a non-resident issuer, by the financial institution acting as a principal.
+[29] Une fourniture figurant à l'article 2 est, selon le préambule de cet article, une fourniture par une institution financière d'un service financier lié à une police d'assurance établie par l'institution, à l'exception d'un service lié aux placements de cette institution. Une telle fourniture sera alors détaxée s'il s'agit a) d'une police d'assurance-vie [...], et que cette police est établie au titre d'un particulier qui, au moment de l'entrée en vigueur de la police, est un particulier non résident; ou b) d'une police collective d'assurance-vie, [...], et que cette police concerne des particuliers non résidents qui sont assurés aux termes de la police; ou c) d'une police visant un immeuble, et que cette police concerne un immeuble situé à l'étranger; ou d) d'un autre type de police et que cette police concerne des risques qui sont habituellement situés à l'étranger.
+[30] La version anglaise de l'article 2, se lit comme suit :
+2. A supply made by a financial institution of a financial service that relates to an insurance policy issued by the institution (other than a service that relates to investments made by the institution), to the extent that
+(a) where the policy is a life or accident and sickness insurance policy (other than a group policy), it is issued in respect of an individual who at the time the policy becomes effective, is a non-resident individual;
+(b) where the policy is a group life or accident and sickness insurance policy, it relates to non-resident individuals who are insured under the policy;
+(c) where the policy is a policy in respect of real property, it relates to property situated outside Canada; and
+(d) where the policy is a policy of any other kind, it relates to risks that are ordinarily situated outside Canada.
+[31] L'appelante soutient que si le service financier lié à une police d'assurance ne figure pas dans les cas prévus aux alinéas 2a) à d), alors ce service financier qui est rendu à un non-résident par l'institution financière tombe automatiquement sous l'article 1, qui prévoit expressément à l'alinéa e) qu'une police d'assurance n'est pas un effet financier exclu des services financiers détaxés visés à l'article 1.
+[32] L'intimée soutient de son côté, qu'en excluant à l'article 1 une fourniture figurant à l'article 2, lequel vise un service financier lié à une police d'assurance, tout service financier lié à une telle police d'assurance qui n'est pas spécifiquement détaxé par l'article 2, reste donc une fourniture exonérée.
+[33] Je dois reconnaître d'emblée que la rédaction de ces textes législatifs n'est pas limpide. Dans les circonstances, je crois que les notes explicatives accompagnant le projet de loi instaurant ces dispositions législatives, sont utiles pour établir l'intention générale du législateur. Dans leCanadian Master Tax Guide, 56th Edition, 2001, CCH Canadian Limited, paragraph 835, on précise :
+¶ 835. Technical notes and explanations
+Recently, technical notes have been issued by the Department of Finance to explain new legislation. Although the impact of the technical notes on judicial decisions has yet to be determined, they should at least establish the general or broad intention of Parliament in respect of a particular issue.
+[34] Le professeur Pierre-André Côté recommande également l'utilisation de ces notes explicatives dans l'interprétation d'un texte de loi.[1] Il dit ce qui suit :
+À mon avis, les tribunaux devraient admettre les notes explicatives d'un projet de loi de la même façon et pour le même motif qu'ils acceptent de tenir compte de l'opinion de la doctrine : une note explicative devrait être considérée comme l'expression d'une opinion sur les sujets dont elle traite, le juge restant toujours libre de lui reconnaître l'autorité qui convient aux circonstances. Si le texte paraît clair, les notes auront peu de poids. Si le texte présente des obscurités, les notes pourront indiquer une interprétation plausible ou confirmer celle que le juge aura déduite par d'autres moyens.
+De plus, on a considéré les notes explicatives comme des outils d'interprétation législative dans l'arrêt Ast, succession c. Canada, [1997] A.C.F. no 267 (Q.L.), au paragraphe 27 :
+Les interprétations administratives, comme les notes techniques, ne lient pas les tribunaux, mais elles peuvent avoir un certain poids et même constituer un facteur important dans l'interprétation des lois.[2] Les notes techniques sont très largement acceptées par les tribunaux pour aider à l'interprétation des lois.[3] L'importance accordée aux notes techniques au niveau de l'interprétation est particulièrement grande lorsque, au moment où une modification était à l'étude, le législateur était conscient que cette modification pouvait donner lieu à une interprétation administrative particulière, et qu'il a néanmoins décidé de l'adopter. [...]
+[35] Selon les notes explicatives auxquelles j'ai fait référence plus haut, la partie IX de l'annexe VI décrit les circonstances dans lesquelles un service financier sera détaxé. On y spécifie qu'un tel service est une fourniture exonérée sauf si cette fourniture est nommément (ou « explicitely » en anglais) incluse dans la partie IX.
+[36] À mon avis, on ne peut dire, comme le voudrait l'appelante, que les services financiers liés à une police d'assurance sont nommément ou « explicitely » visés par l'article 1 de la partie IX. On semble plutôt les exclure dans le préambule en précisant « à l'exception d'une fourniture figurant à l'article 2 » . Lorsque l'on exclut à l'article 1 « une fourniture figurant à l'article 2 » , je suis d'avis que cette fourniture vise les services financiers liés à une police d'assurance fournis par une institution financière tel que spécifié dans le préambule de l'article 2. Si d'aventure, il s'agit d'une police d'assurance visée aux alinéas a) à d) de l'article 2, ces services financiers donneront lieu à une fourniture détaxée. Sinon, il s'agira d'une fourniture exonérée, puisqu'à mon avis, ces services financiers ne sont pas inclus dans l'article 1.
+[37] Selon moi, le fait que l'on n'inclut pas une police d'assurance dans un effet financier à l'alinéa 1e), ne doit pas servir à modifier le préambule de l'article 1, qui exclut toute fourniture figurant à l'article 2, (soit la fourniture d'un service financier relié à une police d'assurance). Je crois que si l'on exclut la police d'assurance d'un effet financier à l'alinéa 1e), c'est pour rester conséquent avec le préambule. En effet, comme un effet financier comprend en règle générale une police d'assurance (voir définition « d'effet financier » à l'article 123 de la LTA), le fait d'exclure une telle police d'assurance de la définition d'un « effet financier » pour l'application de l'article 1, confirme à mon avis, que les services financiers reliés aux polices d'assurance sont exclus de la portée de l'article 1 et que seuls les services financiers reliés aux polices d'assurance visées à l'article 2 peuvent être détaxés.
+[38] Cette interprétation est, à mon avis, plus conforme avec le sens général de la LTA. En effet, il est clair que le législateur a voulu exonérer de la taxe les services financiers en instaurant l'article 1 de la partie VII de l'annexe V. Les seuls services financiers qui pourront être détaxés sont prévus à la partie IX de l'annexe VI, et constituent l'exception. Ainsi normalement, tout service financier relié à l'émission de polices d'assurance dont les bénéficiaires sont résidents canadiens est exonéré. Si l'appelante avait sous-contracté un contrat de réassurance avec une compagnie canadienne, aucun des services pour lesquels l'appelante demande aujourd'hui des CTI, ne serait détaxé. Il n'est pas logique de conclure que les mêmes services rendus dans le cadre de l'émission de polices d'assurance à des bénéficiaires résidents canadiens, deviendraient détaxés du seul fait que l'appelant a décidé de faire assumer une partie du risque par sa filiale étrangère.
+[39] À mon avis, ceci irait à l'encontre de l'intention du législateur. L'appelante, à la base, émet des polices d'assurance pour des bénéficiaires résidents canadiens. Ces derniers n'ont aucune connaissance et ne sont aucunement partie au contrat de réassurance. Ce contrat ne lie que l'appelante et Natcan. Au bout du compte, c'est l'appelante qui sera responsable du paiement de la réclamation auprès de l'assuré résident canadien.
+[40] Selon moi, l'interprétation que veut donner l'appelante à l'article 1, c'est-à-dire que tout service financier relié à une police d'assurance qui n'est pas visé par les alinéas 2a) à d), tombe automatiquement sous le joug de l'article 1, n'est pas valide. Ces deux articles sont des articles d'exception. En mesure d'exception, la clarté est de mise. Je me réfère encore une fois à un principe d'interprétation relevé par le professeur P.A. Côté, qui a été repris par la Cour d'appel du Québec dans Pétro-Canada inc. c. Ville de Montréal-Est, [2003] J.Q. no 7894, (Q.L.), et qui dit ce qui suit :
+Le juge Gonthier a donné une juste expression du principe dont il est ici question lorsqu'il a écrit que "lorsque le législateur prévoit une règle générale et énumère certaines exceptions, ces dernières doivent être considérées comme exhaustives et dès lors interprétées de façon stricte" [Communauté urbaine de Québec c. Corp. Notre-Dame de Bon-Secours, [1994] 3 R.C.S. 3, 18.] On aura noté qu'il est ici question de ne pas étendre une disposition d'exception et non pas de l'interpréter de la façon la plus étroite possible. [...] Le principe est donc que les exceptions ne doivent pas être étendues : dans le doute, on doit favoriser l'application de la règle générale plutôt que celle de l'exception.[4]
+[41] L'article 1 n'est pas une disposition statutaire d'ordre général mais plutôt une mesure d'exception. Ainsi, il faut que le service financier soit nommément (ou « explicitely » ) inclus aux articles 1 et 2 pour être détaxé. À mon avis, le seul fait que l'appelante ait eu à triturer ces deux articles dans tous les sens pour tenter de me convaincre de sa thèse, ne fait que démontrer que les services financiers dont il est question ici ne sont pas spécifiquement détaxés par la partie IX de l'annexe VI.
+[42] La position que tente de défendre l'appelante est loin d'être convaincante à la lecture des textes de loi sous étude, et en cas de doute, il faut favoriser l'application de la règle générale. Or, la règle générale veut que les services financiers reliés à des polices d'assurance soient des fournitures exonérées.
+[43] J'en viens donc à la conclusion que l'appelante n'a pas démontré que les services financiers pour lesquels elle réclame des CTI étaient des fournitures détaxées au sens de la LTA. N'étant pas des fournitures détaxées, ces services financiers constituent des fournitures exonérées, lesquelles ne donnent pas droit à des CTI, aux termes de la LTA. Les cotisations sous appel sont donc bien fondées.
+Décision
+[44] Les appels sont rejetés pour le dossier 2004-128(GST)I et l'appel est rejeté avec dépens pour ce qui est de l'appel en procédure générale dossier 2002-4863(GST)G.
+Signé à Ottawa, Canada, ce 7e jour de juillet 2005.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE :
+2005CCI425
+Nos DES DOSSIERS
+DE LA COUR :
+2002-4863(GST)G
+2004-128(GST)I
+INTITULÉ DE LA CAUSE :
+Assurance-Vie Banque Nationale, compagnie d'assurance-vie
+et La Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 12 octobre 2004
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Lucie Lamarre
+DATE DU JUGEMENT :
+le 7 juillet 2005
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Richard Généreux
+Avocat de l'intimé :
+Me Gérald Danis
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Richard Généreux
+Étude :
+Généreux, Côté, Avocats
+Montréal (Québec)
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+* L'entente partielle sur les faits fait référence aux années 1998 à 2000. Or la cotisation datée du 18 septembre 2001 qui est sous appel et à laquelle on réfère à la pièce A-1, onglet 1, ne porte que sur l'année 2000.
+[1] 2 Côté, Pierre-André. Interprétation des lois, 3e édition, Scarborough, Carswell, 2000.
+[2] Mattabi Mines Ltd. c. Ontario (M.R.), [1988] 2 R.C.S. 175, p. 195; Nowegijick c. R., [1983] 1 R.C.S. 29, p. 37; Bryden c. Commission de l'emploi et de l'immigration, [1982] 1 R.C.S. 443, p. 450.
+[3] Voir, p. ex., Maritime Telegraph and Telephone Company c. La Reine (1992), 1 C.T.C. 264 (C.A.F.); Glaxo Wellcome Inc. c. La Reine (1996), 1 C.T.C. 2904 (C.C.I.).
+[4] Pierre-André CÔTÉ, Interprétation des lois, 3e édition, Montréal, Éditions Thémis, 1999, p. 633.

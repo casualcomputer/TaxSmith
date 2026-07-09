@@ -1,0 +1,283 @@
+---
+title: "Banks c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30513/index.do"
+last_modified: "2011-09-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 415"
+citation2: ""
+neutral_citation: "2011 CCI 415"
+decision_date: "2011-09-23"
+language: "fr"
+item_id: "30513"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7253
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:36:41.675000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5efa1fb71c8cb759e334626c2f2e9de6b1464d9b753419bd818b44951ca6a717"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Banks c. La Reine
+
+- Citation: 2011 CCI 415
+- Decision date: 2011-09-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7253, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Banks c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-09-23
+Référence neutre
+2011 CCI 415
+Numéro de dossier
+2008-3627(IT)G, 2008-3628(GST)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3628(GST)G
+ENTRE :
+EVA BANKS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+___________________________________________________________________
+Appel entendu sur preuve commune avec l’appel
+d’Eva Banks (2008-3627(IT)G)
+le 24 juin 2010, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Avocat de l’appelante :
+Me Craig C. Sturrock
+Avocat de l’intimée :
+Me Victor Caux
+___________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d’accise datée du 20 février 2008 à l’égard de l’année d’imposition 2004 de l’appelante est rejeté avec dépens en conformité avec les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour de septembre 2011.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 7e jour de décembre 2011.
+Mario Lagacé, jurilinguiste
+Dossier : 2008-3627(IT)G
+ENTRE :
+EVA BANKS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+___________________________________________________________________
+Appel entendu sur preuve commune avec l’appel
+d’Eva Banks (2008-3628(GST)G)
+le 24 juin 2010, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Avocat de l’appelante :
+Me Craig C. Sturrock
+Avocat de l’intimée :
+Me Victor Caux
+___________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu datée du 20 février 2008 à l’égard de l’année d’imposition 2004 de l’appelante est rejeté avec dépens en conformité avec les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour de septembre 2011.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 7e jour de décembre 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2011 CCI 415
+Date : 20110923
+Dossiers : 2008-3627(IT)G
+2008-3628(GST)G
+ENTRE :
+EVA BANKS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Les présents appels interjetés en vertu de la procédure générale ont été entendus sur preuve commune puisque les cotisations établies en vertu de la Loi de l’impôt sur le revenu et de la Loi sur la taxe d’accise résultaient de la même opération.
+[2] Le 20 février 2008, le ministre du Revenu national (le « ministre ») a établi les cotisations suivantes à l’égard de l’appelante :
+a) 91 961,86 $ relativement au transfert d’un bien à l’appelante au sens de l’article 160 de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), modifiée (la « LIR »), et le ministre a établi en conséquence à cette date un avis de cotisation portant le numéro 45367;
+b) 117 943,67 $ relativement au transfert d’un bien à l’appelante au sens du paragraphe 325(1) de la partie IX de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15, modifiée (la « LTA »), et le ministre a établi en conséquence à cette date un avis de cotisation portant le numéro A116569.
+[3] Le transfert de bien susmentionné a été effectué le ou vers le 16 juillet 2004 par James Alexander Mitchell (« M. J. Mitchell »), sous la forme d’un chèque de 224 631,08 $ de Me Richard Mayhue, compte en fidéicommis général, fait à l’ordre de M. J. Mitchell et déposé dans le compte de l’appelante.
+La question en litige
+[4] La question en litige dans les présents appels est celle de savoir si le débiteur fiscal, M. J. Mitchell, a transféré un bien à l’appelante lorsqu’il a endossé un chèque de 224 631,08 $ et l’a donné à l’appelante et, le cas échéant, quelle était la valeur de ce transfert.
+[5] À l’audience, l’allégation selon laquelle l’appelante avait agi exclusivement à titre de fiduciaire a été abandonnée et les parties ont convenu que l’appelante avait un lien de dépendance avec M. J. Mitchell et qu’elle ne vivait pas en union de fait avec M. J. Mitchell.
+Les faits
+[6] M. J. Mitchell est un comptable et un homme d’affaires qui réside à Sooke, en Colombie-Britannique. Au fil des ans, ses entreprises commerciales n’ont pas connu de succès, et il a dû emprunter de l’argent à sa famille et à ses amis, dont Mme Banks, pour s’acquitter de ses obligations financières.
+[7] Selon le témoin de l’intimée, M. Monroe, un agent de perception de l’Agence du revenu du Canada (« ARC »), de nombreuses sociétés détenues ou contrôlées par M. J. Mitchell ont omis de produire leurs déclarations de revenus et leurs déclarations de taxe sur les produits et services (« TPS »), et elles ont omis d’effectuer des retenues sur salaire et des versements de TPS, et l’ARC n’a pas réussi à percevoir d’argent directement de M. J. Mitchell.
+[8] Tel qu’énoncé dans le mémoire de l’appelante, les faits suivants ont été établis au moyen des témoignages de l’appelante et de M. J. Mitchell :
+[TRADUCTION]
+549471 B.C. Ltd. (« 549 »)
+(a) En 1997, M. Mitchell, trois de ses partenaires commerciaux et un tiers, Gary Brooks, ont planifié d’acheter une parcelle de terrain à Port Renfrew (le « bien de Port Renfrew »), au prix approximatif de 150 000 $.
+(b) Aux environs de 1998, M. Mitchell et ses trois partenaires ont convenu de payer environ 1/3 du prix d’achat du terrain au comptant et Gary Brooks a convenu de payer les autres 2/3. M. Mitchell et ses trois partenaires devaient détenir un intérêt d’environ 1/3 dans l’entreprise tandis que Gary Brooks devait détenir un intérêt d’environ 2/3. Le bien de Port Renfrew devait être détenu par une société nommée 549471 B.C. Ltd. (« 549 »), dont les actions devaient être détenues au prorata de l’intérêt financier respectif de chacune des parties à l’affaire.
+(c) Gary Brooks devait contracter un emprunt pour financer sa part des 2/3 du prix d’achat, qu’il ne pouvait pas obtenir sans garantie. M. Mitchell et ses trois partenaires ont permis à M. Brooks d’hypothéquer le bien de Port Renfrew afin de garantir l’emprunt qu’il contracterait pour acheter le bien de Port Renfrew.
+(d) Comme condition d’octroi du prêt garanti par cette hypothèque (la « 1re hypothèque »), le prêteur, Coast Capital Savings Credit Union, a exigé que le titre de propriété soit inscrit au nom de M. Brooks. M. Mitchell et ses partenaires y ont consenti à la condition que M. Brooks détienne le bien de Port Renfrew en fiducie pour 549, et qu’il ne la grève pas ni ne transige dessus sauf en conformité avec les instructions de 549.
+(e) Au cours des années suivantes, M. Brooks a omis de faire certains versements en remboursement du prêt garanti par la 1re hypothèque et, en fait, il a grevé le bien de Port Renfrew d’une deuxième hypothèque.
+L’héritage précoce de Jim Mitchell
+(f) Jim Mitchell a un frère, Ross Mitchell, et, avant 1998, il s’attendait à hériter de la moitié de la succession de ses parents.
+(g) En 1998, Jim Mitchell avait reçu une importante somme d’argent de ses parents pour l’aider à financer ses différentes dépenses d’entreprise. En 1998, son père étant déjà décédé, la mère de M. Mitchell a pris des dispositions pour que son frère, Ross, hérite du gros de sa succession.
+(h) En conséquence, en 1998, Mme Mitchell a transféré sa résidence personnelle et son portefeuille de placements en copropriété entre elle‑même et Ross Mitchell.
+(i) Le seul bien matériel qui a été exclu de l’arrangement était un terrain non bâti (le « bien de Mitchlu ») appartenant à Mme Mitchell qui était situé en face de sa résidence. En 1998, Mme Mitchell a transféré ce terrain à une société nouvellement constituée, Mitchlu Enterprises Inc., dont les actions étaient détenues à parts égales par Jim Mitchell et Ross Mitchell.
+(j) En conséquence, Jim Mitchell n’hériterait plus du gros de la succession de sa mère, mais il aurait tout de même un intérêt dans le terrain non bâti.
+(k) Jim Mitchell a accepté cet arrangement, qu’il estimait équitable étant donné la somme d’argent qu’il avait déjà reçue.
+(l) En d’autres mots, en 1998, Jim Mitchell avait déjà utilisé sa part équitable de tout héritage envisagé, de sorte que son frère recevrait le gros de tous les biens de valeur importante de sa mère lorsque celle-ci décéderait, à l’exception d’un intérêt de 50 % dans le bien de Mitchlu, qu’il détenait déjà en tant que détenteur de 50 % des actions de Mitchlu.
+Forclusion à l’égard du bien de Port Renfrew
+(m) En 2001, Coast Capital Savings Credit Union avait l’intention d’exercer son droit de forclusion à l’égard de la 1re hypothèque.
+(n) Afin d’empêcher la forclusion envisagée, 549 devrait réunir les fonds nécessaires pour rembourser l’emprunt garanti par la 1re hypothèque.
+(o) Avec la permission de son frère, Jim Mitchell a pris des dispositions pour que Mitchlu contracte un emprunt garanti par le bien de Mitchlu et emploie les fonds ainsi empruntés pour accorder un prêt à 549, qui emploierait ensuite les fonds prêtés pour rembourser l’emprunt garanti par la 1re hypothèque.
+(p) Le prêteur envisagé de Mitchlu, la Banque Royale du Canada, ne voulait pas accorder un prêt garanti par une hypothèque grevant un bien appartenant à Mitchlu et exigeait que le bien de Mitchlu soit transféré à un particulier avant d’accorder le prêt hypothécaire. En mars 2002, Mitchlu a transféré le titre en common law dans le bien de Mitchlu à Jim Mitchell en fiducie pour le compte de Mitchlu afin d’obtenir le prêt hypothécaire. Jim Mitchell a signé une déclaration de fiducie à cet égard.
+(q) L’avocat spécialisé en droit immobilier de 549, Me Michael B. Ellis, a conseillé à 549 de prendre en charge la 1re hypothèque détenue par Coast Capital Savings Credit Union plutôt que de rembourser le prêt garanti par cette hypothèque. L’idée était qu’en prenant en charge la 1re hypothèque, le droit de 549 dans le bien de Port Renfrew, dont elle était propriétaire à hauteur de la valeur de la 1re hypothèque, conserverait sa préséance sur les droits du prêteur qui détenait la deuxième hypothèque grevant le bien de 549.
+(r) Me Ellis a indiqué en outre que 549 ne pourrait pas détenir la 1re hypothèque en son nom propre sans purger la 1re hypothèque. En conséquence, 549 a eu recours à Jim Mitchell comme prête-nom pour prendre en charge la 1re hypothèque. M. Mitchell a donc détenu la 1re hypothèque en fiducie pour le compte de 549. M. Mitchell a signé une déclaration de fiducie à cet égard.
+Eva Banks aide son ami
+(s) Mme Banks est une proche amie de Jim Mitchell, et elle était une vieille amie de sa mère du vivant de cette dernière.
+(t) Mme Banks a utilisé environ 100 000 $ de ses propres fonds pour appuyer les entreprises commerciales de M. Mitchell jusqu’en 2003.
+(u) En 2003, Mme Banks a accepté d’aider encore Jim Mitchell en devenant propriétaire de ses différentes entreprises commerciales. Depuis, ils ont travaillé ensemble à tenter de rendre les entreprises commerciales rentables.
+(v) Ross Mitchell a prêté à Mme Banks environ 230 000 $ en mars 2004 et environ 230 000 $ en juin 2004. Mme Banks a employé les fonds ainsi empruntés principalement pour financer les entreprises commerciales dans lesquelles ils avaient maintenant tous deux des participations. Mme Banks a également employé une partie des fonds pour couvrir ses dépenses personnelles.
+(w) Ross Mitchell avait acquis les fonds pour ces prêts en aliénant la résidence personnelle et les placements de sa mère qu’il avait acquis du fait du droit de survie (tenance conjointe) lors du décès de sa mère. À l’époque, ces biens appartenaient à Ross Mitchell, et il a accordé son prêt à Mme Banks de son plein gré et non en vertu de quelque obligation légale que ce soit envers Mme Banks ou Jim Mitchell.
+Eva Banks cherche à obtenir des garanties pour ses prêts
+(x) Certains des fonds que Mme Banks avait remis aux différentes entreprises commerciales l’avaient été par l’entremise de la société dont elle était l’unique actionnaire, Future Finishing Ltd.
+(y) Mme Banks était au courant des hypothèques que 549 avait consenties sur le bien de Port Renfrew, et elle voulait que 549 transfère la 1re hypothèque à Future Finishing Ltd. pour garantir les prêts que celle-ci accordait à 549.
+(z) Jim Mitchell a retenu les services de Me Richard Mayhue, un avocat spécialisé en droit immobilier à Sooke, en Colombie-Britannique, pour l’aider à transférer la 1re hypothèque à Future Finishing Ltd.
+(aa) Future Finishing Ltd. a transféré 225 137,28 $ à Me Mayhue, qui a tiré un chèque de 224 631,08 $ sur son compte en fiducie et l’a libellé à l’ordre de Jim Mitchell. Me Mayhue a conservé la différence entre ces deux montants pour couvrir ses honoraires et ses débours.
+(bb) Le montant du chèque était fondé sur un calcul du montant précis du solde du prêt garanti par la 1re hypothèque à ce moment.
+(cc) Jim Mitchell a accepté le chèque, il a transféré la 1re hypothèque à Future Finishing Ltd., et il a endossé le chèque et l’a remis à Mme Banks, le tout pour le compte de 549.
+(dd) Mme Banks a encaissé le chèque et a employé les fonds ainsi obtenus pour régler différents comptes pour le compte de Future Finishing Ltd.
+La position de l’appelante
+[9] L’appelante a allégué que M. J. Mitchell ne lui avait transféré aucun bien, que le chèque susmentionné de 224 631,08 $ de Me Richard Mayhue était lié au solde dû au titre de la cession d’une hypothèque détenue en fiducie par M. J. Mitchell pour le compte de 549 et que M. J. Mitchell n’avait aucun intérêt de quelque nature que ce soit dans les fonds en question. Le chèque avait été émis en contrepartie du transfert de l’hypothèque en question de 549 à Future Finishing Ltd. L’appelante a allégué en outre que M. J. Mitchell ne s’était départi d’aucuns fonds quels qu’ils soient en endossant le chèque en question.
+[10] L’appelante a allégué en outre que, même si la Cour devait conclure que l’intérêt en common law dans le bien avait été transféré, la Cour devrait déterminer la valeur de cet intérêt en common law. Dans une situation comme celle‑ci, où seul l’intérêt en common law est transféré, le bénéficiaire conserve la pleine valeur de l’intérêt bénéficiaire, et la valeur de l’intérêt en common law est donc nulle.
+Position de l’intimée
+[11] L’intimée soutient qu’il y a eu un transfert de 224 631,08 $ de M. J. Mitchell à Mme Banks, et l’intimée a allégué les faits suivants :
+(i) aucun élément de preuve documentaire n’a été présenté qui confirmait les deux prêts de 230 000 $ chacun que Ross Mitchell aurait consentis à Mme Eva Banks ou à Sooke Office Services Ltd., une société pour laquelle Mme Banks agit comme prête-nom;
+(ii) aucun élément de preuve documentaire ou testimonial n’a été présenté qui confirmait la source des fonds que Ross Mitchell aurait utilisés pour accorder les prêts à Mme Eva Banks. Les deux chèques représentent environ 50 % du reliquat de la succession de la mère de M. J. Mitchell;
+(iii) le transfert de l’hypothèque de 549 à Future Finishing Ltd. n’a été étayé ni confirmé par aucun acte de cession, résolution de société ou document comptable, à l’exception du chèque fait par Me Mayhue, du chèque fait par M. J. Mitchell et des témoignages de Mme Eva Banks et de M. J. Mitchell.
+[12] Selon l’intimée, la série d’opérations avait pour but de frauder l’ARC et de permettre à M. J. Mitchell d’éviter de payer l’impôt sur le revenu et la TPS qui étaient dus.
+Examen des éléments de preuve documentaire
+[13] L’appelante a produit une copie des documents suivants :
+(i) une lettre de Me Michael B. Ellis datée du 11 janvier 2002 qui confirme l’intention de 549 de rembourser le prêt garanti par la 1re hypothèque détenue par Coast Capital Savings Credit Union;
+(ii) un document général de cession daté du 6 mars 2002, signé par Coast Capital Savings Credit Union, en vertu duquel celle-ci cédait à M. J. Mitchell, en contrepartie de la somme de 114 800 $ qui lui avait été payée, l’intégralité de son droit, titre et intérêt dans les réclamations découlant de l’action numéro 01-2469, greffe de Victoria, dont étaient saisis les tribunaux de la Colombie‑Britannique;
+(iii) un formulaire 27 établi en vertu de la Land Title Act relativement au transfert de la 1re hypothèque à M. J. Mitchell signé le 3 mars 2002;
+(iv) une déclaration de fiducie datée du 28 mars 2002 relative à la 1re hypothèque appartenant à 549 et détenue par M. J. Mitchell en qualité de fiduciaire;
+(v) un formulaire A établi en vertu de la Land Title Act daté du 28 mars 2002 relativement au transfert du bien de Mitchlu, d’une valeur marchande de 134 000 $, de Mitchlu à M. J. Mitchell;
+(vi) une déclaration de fiducie datée du 28 mars 2002 relative au bien de Mitchlu appartenant à Mitchlu et détenu par M. J. Mitchell en qualité de fiduciaire;
+(vii) un formulaire A établi en vertu de la Land Title Act daté du 30 mai 2003 relativement à la rétrocession du bien de Mitchlu de M. J. Mitchell à Mitchlu;
+(viii) un compte de prêt manuscrit concernant un prêt au taux d’intérêt de 12 % de Mme Banks à 549 indiquant un solde de zéro le 14 avril 2004, avec une note indiquant que le prêt a été remboursé par Future Finishing Ltd.;
+(ix) un relevé bancaire de Future Finishing Ltd. pour la période du 8 avril 2004 au 10 mai 2004 indiquant notamment un paiement de 95 099,22 $ en remboursement d’un prêt le 13 avril 2004 et un chèque de 19 453,59 $;
+(x) un bordereau de paiement de la Banque Royale daté du 13 avril 2004 relatif à un paiement de 95 099,22 $ effectué par Future Finishing Ltd. en remboursement d’un prêt garanti par une hypothèque grevant le bien de Mitchlu;
+(xi) un chèque de 19 453,19 $ daté du 14 avril 2004 fait à l’ordre de Mme Eva Banks relativement à un prêt qu’elle avait accordé à 549;
+(xii) un calcul manuscrit du solde (224 336,88 $) du prêt garanti par l’hypothèque de 549 au 9 juillet 2004;
+(xiii) un relevé bancaire de Sooke Office Services Ltd. pour la période du 30 juin 2004 au 30 juillet 2004 indiquant notamment une traite bancaire de 225 137,28 $ datée du 12 juillet 2004;
+(xiv) une traite bancaire datée du 12 juillet 2004, faite par Sooke Office Services Ltd. à l’ordre de [TRADUCTION] « Me Richard Mayhue en fiducie »;
+(xv) un compte rendu manuscrit de l’utilisation par Mme Eva Banks des fonds reçus de [TRADUCTION] « Me Richard Mayhue en fiducie »;
+(xvi) un relevé de compte de placement de Ross Mitchell et de Janet Helen Mitchell en qualité de tenants conjoints pour 1998;
+(xvii) le formulaire A, un document de transfert en propriété franche, relatif au terrain non bâti de Janet Helen Mitchell, daté du 28 mars 2002;
+(xviii) le formulaire A, un document de transfert en propriété franche, relatif à la résidence de Janet Helen Mitchell, daté du 18 avril 2002;
+(xix) le relevé d’un compte de placement détenu en tenance conjointe par Ross Mitchell et Janet Helen Mitchell pour la période se terminant le 28 février 2004;
+(xx) une recherche électronique de titre foncier relative au bien de 549 datée du 18 novembre 2009, indiquant notamment l’enregistrement d’une hypothèque par Future Finishing Ltd. le 23 septembre 1998.
+Dispositions législatives
+[14] Le paragraphe 160(1) de la LIR est ainsi rédigé :
+Transfert de biens entre personnes ayant un lien de dépendance — Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts revisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n’est toutefois réputée limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[15] Le paragraphe 325(1) de la LTA est ainsi rédigé :
+Transfert entre personnes ayant un lien de dépendance — La personne qui transfère un bien, directement ou indirectement, par le biais d’une fiducie ou par tout autre moyen, à son époux ou conjoint de fait, ou à un particulier qui l’est devenu depuis, à un particulier de moins de 18 ans ou à une personne avec laquelle elle a un lien de dépendance, est solidairement tenue, avec le cessionnaire, de payer en application de la présente partie le moins élevé des montants suivants :
+a) le résultat du calcul suivant :
+A - B
+où :
+A représente l’excédent éventuel de la juste valeur marchande du bien au moment du transfert sur la juste valeur marchande, à ce moment, de la contrepartie payée par le cessionnaire pour le transfert du bien,
+B l’excédent éventuel du montant de la cotisation établie à l’égard du cessionnaire en application du paragraphe 160(2) de la Loi de l’impôt sur le revenu relativement au bien sur la somme payée par le cédant relativement à ce montant;
+b) le total des montants représentant chacun :
+(i) le montant dont le cédant est redevable en vertu de la présente partie pour sa période de déclaration qui comprend le moment du transfert ou pour ses périodes de déclaration antérieures,
+(ii) les intérêts ou les pénalités dont le cédant est redevable à ce moment.
+Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédant découlant d’une autre disposition de la présente partie.
+[16] Pour les besoins des présents appels, le libellé et les règles de droit pertinentes sont les mêmes au paragraphe 160(1) de la LIR et au paragraphe 325(1) de la LTA. Les quatre conditions suivantes doivent être remplies pour que les paragraphes 160(1) de la LIR et 325(1) de la LTA s’appliquent :
+(i) il doit y avoir eu un transfert d’un bien;
+(ii) l’auteur et le bénéficiaire du transfert doivent avoir un lien de dépendance;
+(iii) le bénéficiaire du transfert ne doit avoir donné aucune contrepartie à l’auteur du transfert (ou doit lui avoir donné une contrepartie insuffisante);
+(iv) l’auteur du transfert devait payer un montant en vertu de la LIR ou de la LTA (selon le cas) au cours de l’année dans laquelle les biens ont été transférés ou d’une année antérieure ou pour une de ces années.
+Seules les première et troisième conditions sont en litige dans les présents appels.
+[17] Les paragraphes 160(1) de la LIR et 325(1) de la LTA visent à procurer à l’ARC un mécanisme de perception lorsque des débiteurs fiscaux transfèrent des biens à des parties avec lesquelles ils ont un lien de dépendance et que la juste valeur marchande des biens transférés excède la juste valeur marchande de la contrepartie payée par le bénéficiaire du transfert.
+Analyse
+Y a-t-il eu transfert d’un bien?
+[18] Il ne fait aucun doute dans mon esprit que le chèque de 224 631,08 $ endossé par M. J. Mitchell et remis à l’appelante constituait un transfert d’un bien au sens des paragraphes 160(1) de la LIR et 325(1) de la LTA.
+[19] Les tribunaux fédéraux ont examiné à de nombreuses occasions le sens du mot « transfert » dans la LIR. La définition suivante dans David Fasken Estate v. Minister of National Revenue, [1948] Ex. C.R. 580, est généralement admise :
+[traduction] Le mot « transfert » n’est pas un terme technique et n’a pas un sens technique. Il n’est pas nécessaire qu’un transfert de biens par un mari à son épouse revête une forme particulière ni qu’il se fasse directement. Il suffit que le mari agisse de façon à se dessaisir des biens et les faire acquérir à son épouse, c’est-à-dire transmettre les biens de lui à elle. Les moyens par lesquels il arrive à cette fin, qu’ils soient directs ou détournés, peuvent être à juste titre appelés un transfert […]
+[20] Le chèque de 224 631,08 $ a été tiré sur le compte en fiducie de Me Richard Mayhue et a été fait à l’ordre de James Alexander Mitchell sans aucune indication que ce dernier ne devait pas recevoir le chèque à titre personnel et sans aucune indication quant à savoir à quelle fin ni pour quels motifs le chèque avait été fait. M. J. Mitchell a traité le chèque comme s’il lui appartenait. Il l’a endossé et l’a remis à Mme Banks. M. J. Mitchell savait très bien pourquoi le chèque avait été fait à son ordre, à quelle fin et d’où l’argent provenait.
+[21] Dans son témoignage, M. J. Mitchell n’a donné aucune explication plausible quant à savoir pourquoi il n’avait pas endossé le chèque en faveur de 549 au lieu de l’endosser et le remettre à Mme Banks, ni quant à savoir pourquoi il ne s’était pas conformé aux dispositions de la déclaration de fiducie datée du 28 mars 2002. Il était l’unique signataire de la déclaration de fiducie; il aurait dû se souvenir de son existence.
+[22] Me Richard Mayhue, l’avocat spécialisé en droit immobilier engagé par M. J. Mitchell pour réaliser le transfert de la 1re hypothèque de 549 à Future Finishing Ltd., a suggéré, selon le témoignage de Mme Banks, d’utiliser des chèques distincts au lieu de simples entrées aux livres. Me Mayhue, qui connaissait tous les faits entourant les opérations en question, n’a pas témoigné à l’audience. Il aurait pu expliquer pourquoi le chèque de 224 631,08 $ avait été émis et pourquoi il avait été fait à l’ordre de M. J. Mitchell personnellement. Chose plus importante, il aurait pu confirmer si le transfert de la 1re hypothèque de 549 à Future Finishing Ltd. avait été réalisé conformément à ce qui avait été prévu à l’origine.
+[23] Les seuls éléments de preuve déposés à la Cour concernant le transfert de la 1re hypothèque de 549 à Future Finishing Ltd. sont :
+(i) le chèque de 225 137,28 $ de Sooke Office Services Ltd. (le chèque n’était pas de Future Finishing Ltd.) à Me Richard Mayhue en fiducie;
+(ii) le chèque susmentionné de 224 631,08 $;
+(iii) un relevé bancaire de Sooke Office Services Ltd.;
+(iv) un calcul manuscrit du solde du prêt garanti par la 1re hypothèque en date du 9 juillet 2004.
+Cela démontre un manque de preuve clair. Aucune résolution de société, aucun document comptable, aucun document général de cession ni aucun formulaire 27, un document de transfert d’hypothèque, n’ont été produits. Aucun témoin n’a confirmé la date réelle du transfert. Dans ces circonstances, j’ai beaucoup de mal à accepter les témoignages des témoins, M. J. Mitchell et Mme Eva Banks, selon lesquels le chèque de 224 631,08 $ fait à l’ordre de M. J. Mitchell avait pour objet de réaliser un transfert de la 1re hypothèque de 549 à Future Finishing Ltd. En outre, je ne vois aucun lien entre ce chèque et la déclaration de fiducie.
+Le bénéficiaire du transfert a-t-il donné une contrepartie suffisante à l’auteur du transfert?
+[24] Les parties ont admis que Mme Banks avait déposé dans son propre compte bancaire le chèque de 224 631,08 $ et qu’elle avait utilisé cet argent pour couvrir des dépenses personnelles et des dépenses de différentes sociétés du groupe. Elle a eu la pleine jouissance de tout cet argent. Au moment de l’audience, il n’y avait aucune preuve de réclamations formulées ou d’actions intentées par 549 ou des créanciers de 549 contre Mme Eva Banks ou M. J. Mitchell pour recouvrer les fonds transférés à Mme Banks.
+[25] Il a été allégué que le chèque de 224 631,08 $ avait été endossé et remis à Mme Banks en remboursement de fonds que celle-ci avait avancés. Ici encore, les éléments de preuve n’indiquent pas clairement quels étaient les montants précis que Mme Banks avait avancés et à qui : à 549 ou directement à M. J. Mitchell? La preuve a révélé que Mme Banks avait avancé des fonds à 549 dans le passé, soit 22 000 $ le 28 mars 2002, pour éviter la forclusion à l’égard du bien de Port Renfrew. Le solde de ce prêt en date du 14 avril 2004 (19 453,59 $) a été remboursé intégralement par Future Finishing Ltd., de même que le solde du prêt garanti par l’hypothèque de la Banque Royale grevant le bien de Mitchlu (95 099,22 $). Les fonds employés pour faire ces paiements provenaient d’un prêt de 120 000 $ de Sooke Office Services Ltd.
+[26] Même si je devais accepter le fait que Mme Banks a avancé de ses propres fonds et des fonds provenant de Ross Mitchell par l’intermédiaire de Sooke Office Services Ltd. pour appuyer les entreprises commerciales de M. J. Mitchell, il n’y a aucun élément de preuve qui indique combien d’argent 549 ou M. J. Mitchell devaient à Mme Banks lorsque M. J. Mitchell a endossé le chèque de 224 631,08 $ et le lui a remis. En outre, si 549 ou M. J. Mitchell devaient de l’argent, il n’y a aucun élément de preuve qui indique à qui ils le devaient; que ce fut à Mme Banks, à Future Finishing Ltd. ou à Sooke Office Services Ltd.
+[27] Compte tenu de ce qui précède, je conclus qu’il y a effectivement eu un transfert de M. J. Mitchell à l’appelante et que l’appelante n’a donné aucune contrepartie à M. J. Mitchell.
+[28] Les appels sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 23e jour de septembre 2011.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 7e jour de décembre 2011.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2011 CCI 415
+NOS DE DOSSIERS DE LA COUR : 2008-3627(IT)G et 2008-3628(GST)G
+INTITULÉ : Eva Banks c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 24 juin 2010
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 23 septembre 2011
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Craig C. Sturrock
+Avocat de l’intimée :
+Me Victor Caux
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Craig C. Sturrock
+Cabinet : Thorsteinssons LLP
+Vancouver (Colombie-Britannique)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

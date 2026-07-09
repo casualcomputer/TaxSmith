@@ -1,0 +1,183 @@
+---
+title: "Venditti v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28898/index.do"
+last_modified: "2008-09-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 553"
+citation2: ""
+neutral_citation: "2008 TCC 553"
+decision_date: "2008-09-30"
+language: "en"
+item_id: "28898"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1406
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:47:28.999000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2826421ad3af254dc5d86604e34313176315cb863f6c1be109604cc9be7de488"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Venditti v. The Queen
+
+- Citation: 2008 TCC 553
+- Decision date: 2008-09-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1406, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Venditti v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-30
+Neutral citation
+2008 TCC 553
+File numbers
+2007-4815(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4815(IT)I
+BETWEEN:
+CARMINA M. VENDITTI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of
+Sam Ruberto (2007-4870(IT)I) and Anthony Disanto (2007-4919(IT)I) on September 17, 2008, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Samantha Hurst
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2001 and 2002 taxation years are allowed, and the Appellant’s share of the rental losses for the 2001 and 2002 taxation years is increased by the amounts of $818.77 and $791.08 respectively.
+The reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the foregoing basis.
+Signed at Ottawa, Canada, this 30th day of September 2008.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2008TCC553
+Date: 20080930
+Docket: 2007-4815(IT)I
+BETWEEN:
+CARMINA M. VENDITTI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2007-4870(IT)I
+AND BETWEEN:
+SAM RUBERTO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2007-4919(IT)I
+AND BETWEEN:
+ANTHONY DISANTO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] These appeals were heard on common evidence and involve a property owned in partnership by the three Appellants (the “Partnership”). The appeals were in respect of the 2001 and 2002 taxation years for each of the Appellants.
+[2] The issues are: 1) whether the losses claimed by the Partnership were from business or property; 2) whether the claimed motor vehicle expenses were incurred to earn income or were personal expenses; and 3) whether expenditures for furniture were capital or current expenditures. An additional issue for Ms. Venditti was whether she was allowed to deduct an additional interest expense beyond the amount paid as interest on the mortgage against the property.
+BUSINESS LOSSES OR PROPERTY LOSSES
+Facts
+[3] The Appellants live full time in Ontario, Canada. Carmina Venditti is a management consultant, Anthony Disanto is an account manager and Sam Roberto is a project manager. During the relevant time they were all employed on a full time basis in Ontario, Canada.
+[4] On October 18, 1996 the Partnership acquired Unit 418 at 3950 South Pointe Drive, Orlando, Florida. The unit is a three bedroom condominium in a development called The Oasis II.
+[5] The Appellants stated that prior to purchasing the property they had consulted with Ventura Resort Rentals, Inc. (“Ventura”) to ascertain the expected rentals for the property. They were told that a reasonable occupancy was 26 weeks and the rate for short term rentals was between $75 and $90 a night; whereas for long term rentals the rate was approximately $52 a night.
+[6] It was the Appellants evidence that their primary intention in purchasing the property was to register it as a business. In this regard they hired Ventura to assist them with the rental of the property. The Appellants did not produce any documentation to show that they registered their property as a business.
+[7] The Appellants tendered an exhibit which showed that the Appellants’ rental had “met the sales and use tax registration requirements for the business location as required by Florida Law”. The property was inspected and approved for short term rentals on October 30, 1996. According to the Appellants’ evidence the property had to be inspected before it could be rented.
+[8] The Appellants agreed that all expenses with respect to the property were shared. The rental of the property included various amenities. These amenities were utilities, toiletries, furnishings, linen and a heated pool.
+[9] The Appellants were required to inspect the property and to do any major repairs such as painting and replacing furniture. It was their evidence that they visited the property twice a year for these purposes and they lived in the property on these occasions.
+[10] In 2001 and 2002 only Carmina Venditti and Sam Roberto and their spouses visited the property.
+[11] The Appellants stated that they treated their endeavour as a business and not a rental property. In support of this statement they tendered exhibit A-6 which detailed the capital cost allowance for the furniture and a 1999 vehicle which they assert was designated solely for the business purpose of traveling to the vacation property for regular inspection and condo meetings.
+[12] The Appellants had a Canadian and a US bank account for the property. All partners had signing authority on the Canadian bank account whereas only Ms. Venditti and her spouse had signing authority on the US bank account. Ms. Venditti stated that all expenses which had to be paid in Florida were paid through the US bank account.
+[13] There were cash flow problems with the property and each Appellant was required to put additional funds in the bank account each year. In 2001 and 2002 the property generated gross income of $8,492.67 and $12,475.20 respectively. The expenses claimed before capital cost allowance (CCA) were $22,956.98 and $19, 511.46 in 2001 and 2002 respectively.
+[14] There was no evidence concerning the number of days the property was rented in 2001 and 2002. Likewise, there no evidence of the rental rate received in 2001 and 2002.
+[15] There was no evidence that there were books kept for the property. The evidence established that the indicia of a commercial enterprise were missing.
+The Law
+[16] It is a question of fact whether income derived from the rental of a property is income from property or income from business. In Walsh v. Minister of National Revenue, [1965] C.T.C. 478 (Ex.Ct.) Justice Cattanach said at paragraph 22:
+In my view, prima facie the perception of rent as land owner is not the conduct of a business, but cases can arise where the extent of the various services provided by the landlord under the terms of a leasing contract and the time and labour devoted by him are such that the rental paid by the tenant can be regarded as in a substantial measure payment for such services as well as for the use of the property and the interrelation of the use of the premises with the use of such services may be so extensive that the whole sum could readily be regarded not as mere rental of property, but as true receipts of a business of providing apartment suites and services to tenants. It is a question of fact as to what point mere ownership of real property and the letting thereof has passed into commercial enterprise and administration.
+[17] Judge Bowman, as he then was, dealt with this issue in Arbutus Gardens Apartments Corp. v. R., [1998] 3 C.T.C. 2972 (TCC). In that case the Arbutus Gardens Apartments Corp. (“Arbutus”) owned an apartment complex which consisted of seven buildings containing 302 units on 12 acres in Vancouver. It engaged five full time managers, who lived in the project with their spouses, two full time maintenance persons and two full time gardeners. When the project had problems with a high vacancy rate, Arbutus hired an individual to help improve the situation. Justice Bowman found that far more services were provided to the tenants than would normally be the case in an apartment building. He concluded that on the facts before him, Arbutus carried on a business.
+[18] In Orcheson v. R, 2004 TCC 247, the taxpayers claimed that their rental income was business income. They rented out three fully furnished cottages which were located on Lake Simcoe. They provided various services including firewood, barbecues, picnic tables, swimming, fishing, boat and snowmobiles. Judge Teskey, at paragraphs 30 and 31 of his decision concluded:
+30 The use of Lake Simcoe for boating, swimming or fishing is not a service. The use of a barbeque, a picnic table, a phone, a television and deck chairs are likewise not a service. Clean linen changed daily as well as daily cleaning of the cottages would be services. There is no evidence that this volume of service was performed. Both appellants have full time jobs in Toronto.
+31 Since income herein is rental income, the Court must start with the premises that it is income from property, as opposed to income from a business. Since the evidence has not established that a substantial portion of the rents were for services, I can only find that the income was from property.
+[19] The evidence presented by the Appellants does not allow me to conclude that a substantial portion of the rentals they received from the property was for the services they offered. The Appellants stated that the property was fully furnished including linen. There was no evidence that the services provided by the Appellants were anything beyond what would have been provided by any landlord offering furnished apartments for rent.
+[20] On the evidence before me I have concluded that the income received from the rental of the Appellants’ property was income from property. Likewise, the losses incurred by the Appellants are losses from property.
+MOTOR VEHICLE EXPENSES
+[21] The Minister disallowed the travel and motor vehicle expenses on the basis that:
+a) the property was managed by an independent company;
+b) the Partnership did not do the necessary repairs and maintenance of the Property;
+c) the Partnership did not transport tools and materials to the Property;
+d) the Property was not located in the area where the Partnership resides;
+e) the disallowed travel and motor vehicle expenses were the personal or living expenses of one or more members of the Partnership and are prohibited pursuant to paragraph 18(1)(h).
+[22] Each of the Appellants testified that Ms. Venditti and her spouse travelled to Florida in February 2001 to inspect the property and meet with the condo association to review the interview process for renting the property. They lived in the property for two days.
+[23] In August 2001 Ms. Venditti, Mr. Roberto and their spouses travelled to Florida in two separate vehicles to repair and paint the property. It was the first time they had painted the property since they purchased it in 1996. They said that they required the two vehicles as they carried their tools with them. It was cheaper to buy the materials in Canada than it would have been to purchase them in Florida. They lived in the property for two weeks as they repaired and painted it.
+[24] Ms. Venditti, Mr. Roberto and their spouses drove to Florida in February and August 2002 again to inspect the property, meet with the property manager and purchase minor items for the property. On the trip in August the Appellants unsuccessfully searched for a second rental property.
+[25] In 2002 the Appellants lived in the property for two days in February and two weeks in August.
+[26] According to the Appellants the trips did not have a personal component and the travel and motor vehicle expenses were incurred to generate income. I accept their evidence. The Appellants tendered a log (exhibit A-10) on which they recorded 14,596 kilometres for the trips in 2001 and 10,927 kilometres for the trips in 2002. There was no evidence as to when this log was made.
+[27] I have concluded from the testimony of the Appellants that the Partnership is entitled to deduct travel and motor vehicle expenses as it had originally claimed in the amount of $2,456.30 and $2,373.25 for 2001 and 2002 respectively. Each Appellant’s share of the motor vehicle expenses is $818.77 in 2001 and $791.08 in 2002.
+FURNITURE
+[28] In 2000 when the Appellants inspected the property, they found that the sofa had been destroyed by one of their tenants. Exhibit A-7 shows that the Appellants replaced the sofa on July 31, 2000 at a cost of $1,228.54. They included this amount as a current expense in 2001 in their calculation of rental income and expenses for the property.
+[29] There was no evidence to substantiate that the purchase price for the sofa was paid in 2001. The evidence submitted is insufficient to allow me to conclude that the amount paid for the sofa was a current or a capital expense in the 2001 year.
+INTEREST EXPENSE – Carmina Venditti
+[30] In her income tax returns Ms. Venditti claimed interest expense in the amount of $4,724.39 and $5,225.27 in 2001 and 2002 respectively. At the hearing of the appeal she asked that she be allowed an interest expense in the amount of $2,297.71 and $1,151.50 in 2001 and 2002 respectively.
+[31] Ms. Venditti stated that she had to borrow the monies that she invested in the property. The amounts of $2,297.71 and $1,151.50 are the interest that she paid on the monies borrowed to make the investment.
+[32] In support of the interest expense Ms. Venditti submitted the statements from her Line of Credit as of January 31, 2002 and January 31, 2003. There was no evidence to support that the interest expense claimed was incurred to earn income from property or business. In fact, the advances shown on these statements were transferred to Ms. Venditti’s personal bank account.
+[33] There was no evidence before me that would allow me to conclude that Ms. Venditti had to pay interest on borrowed money used for the purpose of earning income from a business or property.
+[34] In conclusion the appeals are allowed with respect to the travel and motor vehicle expenses.
+Signed at Ottawa, Canada, this 30th day of September 2008.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2008TCC553
+COURT FILE NO.: 2007-4815(IT)I
+STYLE OF CAUSE: CARMINA M. VENDITTI AND HER MAJESTY THE QUEEN
+COURT FILE NO: 2007-4870(IT)I
+STYLE OF CAUSE SAM RUBERTO AND HER MAJESTY THE QUEEN
+COURT FILE NO: 2007-4919(IT)I
+STYLE OF CAUSE ANTHONY DISANTO AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 17, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: September 30, 2008
+APPEARANCES:
+For the Appellant:
+The Appellants themselves
+Counsel for the Respondent:
+Samantha Hurst
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

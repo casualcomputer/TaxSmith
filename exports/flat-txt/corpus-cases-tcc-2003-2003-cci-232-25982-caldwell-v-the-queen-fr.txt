@@ -1,0 +1,60 @@
+Title: Caldwell v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25982/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-232-25982-caldwell-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-04-24
+
+# Caldwell v. The Queen
+
+- Citation: 2003 CCI 232
+- Decision date: 2003-04-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3780, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Caldwell v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-24
+Référence neutre
+2003 CCI 232
+Numéro de dossier
+2002-598(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2003CCI232
+Date : 20030424
+Dossier : 2002-598(IT)I
+ENTRE :
+CHARLES CALDWELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à
+Saskatoon (Saskatchewan), le 5 février 2003.)
+Le juge Beaubier, C.C.I.
+[1] Le présent appel a été entendu sous le régime de la procédure informelle à Saskatoon (Saskatchewan), le 4 février 2003. L'appelant était le seul témoin.
+[2] L'appelant est un conseiller en placements, et il est employé par CIBC - Wood Gundy à Saskatoon depuis plus de quinze ans. Il a fait appel du refus de déductions relatives à des dépenses engagées pendant ses années d'imposition 1998 et 1999. Pour 1998, des dépenses de 2 657,14 $ restent en litige (pièce A-4); pour 1999, le montant est de 3 881,97 $ (pièce A-5).
+[3] L'appelant était sous serment. Nous ajoutons foi à ses dires. En particulier, il a parlé franchement de certaines dépenses déduites sur lesquelles il insistait, par exemple des beignets qu'il achetait de temps à autre à la douzaine pour les déposer dans les salles de repas des succursales de la CIBC qui lui envoyaient des clients, et d'autres dépenses réclamées auxquelles il renonçait. Il a également déclaré que l'ADRC permet aux mécaniciens de déduire de petits outils valant moins de 300 $, et la Cour estime que cela correspond à de petits articles informatiques et téléphoniques pour des employés comme l'appelant en tant que conseiller en placements pour CIBC - Wood Gundy. De l'avis de la Cour, le montant de 300 $, majoré de la taxe de vente de la Saskatchewan et arrondi, équivaut à 350 $ pour ces articles. L'appelant a également soutenu qu'un contribuable comme lui devrait être autorisé à déduire la dépréciation du matériel informatique; la Cour est d'accord en principe, mais la Loi de l'impôt sur le revenu précise bien que la déduction pour amortissement n'est accordée à des employés que pour les véhicules à moteur et les aéronefs (alinéa 8(1)j)), et donc la meilleure chose à faire du point de vue fiscal est de louer ces biens ( « la forme a de l'importance » , comme disait le juge Linden).
+[4] En particulier, les petits articles qui seraient normalement considérés comme des « immobilisations » ont tendance à être égarés, volés ou « empruntés » , ou à s'user, et c'est pour cela que je conclus qu'ils s'apparentent à de « petits outils » . En ce qui concerne les articles comme les beignets, c'est un geste normal de bonne volonté qui encourage les gens à référer des clients. Ce n'est pas équivalent à un « repas » , mais plutôt à une boîte de bonbons qu'on laisserait dans la cuisine de la succursale.
+[5] Par conséquent, l'appel est admis pour 1998 relativement aux dépenses suivantes qui avaient été réclamées et qui figuraient avec le symbole du dollar aux pages 2 et 3 de la colonne des montants refusés de la pièce A-4 : 96,19 $, 10,31 $, 192 $, 340 $, 340 $, 68,39 $, 23,68 $, 99 $, 10,31 $, 66,07 $, 11,61 $, 5,81 $, 5,60 $, 4,95 $, soit un total de 1 273,92 $.
+[6] Pour 1999, l'appel est admis relativement aux dépenses suivantes qui avaient été réclamées et qui figuraient avec le symbole du dollar aux pages 3 et 4 de la colonne des montants refusés de la pièce A-5 : 7,29 $, 3,21 $, 6,37 $, 2,50 $, 5,60 $, 5,60 $, 38 $, 150 $, 309,68 $ (en particulier, l'appelant n'avait pas de droit de propriété), 129,90 $, 7,97 $, 22,59 $ (la Cour considère que le montant de 225,99 $ déduit pour un poste de radio est une dépense personnelle), 316,38 $, 12,42 $, 22,79 $, 70,64 $, 45,59 $, soit un total de 1 156,53 $.
+[7] L'appelant a soulevé la question de savoir s'il était un employé ou s'il exploitait une entreprise dans le cadre de son travail. La Cour convient qu'il s'agit d'une question justifiée, mais sans les relevés, les documents et les registres de l'employeur, et vu que l'appelant se désignait lui-même à l'occasion comme un employé, la Cour estime qu'il était un employé en 1998 et en 1999.
+[8] La Cour défère ces conclusions au ministre du Revenu national pour nouvel examen et nouvelles cotisations à l'endroit de l'appelant pour les années en question afin d'autoriser les dépenses supplémentaires décrites ici, soit 1 273,52 $ en 1998 et 1 147,53 $ en 1999.
+Signé à Saskatoon (Saskatchewan), ce 24e jour d'avril 2003.
+« D. W. Beaubier »
+J.C.C.I.
+Traduction certifiée conforme
+ce 11e jour d'avril 2005.
+Yves Bellefeuille, réviseur

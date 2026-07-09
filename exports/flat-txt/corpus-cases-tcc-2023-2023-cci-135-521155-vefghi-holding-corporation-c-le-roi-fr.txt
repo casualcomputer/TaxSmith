@@ -1,0 +1,318 @@
+Title: Vefghi Holding Corporation c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521155/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-135-521155-vefghi-holding-corporation-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-09-07
+
+# Vefghi Holding Corporation c. Le Roi
+
+- Citation: 2023 CCI 135
+- Decision date: 2023-09-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5683, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vefghi Holding Corp. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-09-05
+Référence neutre
+2023 CCI 135
+Numéro de dossier
+2020-1216(IT)G, 2020-1231(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2020-1216(IT)G
+ENTRE :
+VEFGHI HOLDING CORP.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2020-1231(IT)G
+ET ENTRE :
+S.O.N.S. ENVIRONMENTAL LTD.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 22 septembre 2022 à Vancouver (Colombie‑Britannique)
+Devant : l’honorable juge Steven K. D’Arcy.
+Comparutions :
+Avocats des appelantes :
+Me Robert Carvalho
+Me Alvin T.L. Lun
+Avocats de l’intimé :
+Me Spencer Landsiedel
+Me Whitney Dunn
+ORDONNANCE
+Conformément à mes motifs de l’ordonnance;
+La réponse à la question fondée sur l’article 58 des Règles est la suivante :
+Lorsqu’une fiducie attribue une partie d’un dividende imposable (la « somme ») reçu sur une action du capital-actions d’une société canadienne imposable (l’« émettrice »), conformément au paragraphe 104(19) de la Loi de l’impôt sur le revenu (Canada) (la « Loi »), de sorte que la somme est réputée avoir été reçue par un bénéficiaire (le « bénéficiaire »), c’est le moment où la fiducie reçoit dans les faits le dividende imposable qui est pris en compte pour déterminer si l’émettrice est rattachée au bénéficiaire, à condition que le bénéficiaire soit réputé, en vertu du paragraphe 104(19), avoir reçu la somme au cours de la même année d’imposition que celle au cours de laquelle la fiducie reçoit en fait le dividende imposable.
+Toutefois, si le bénéficiaire est réputé, en vertu du paragraphe 104(19), avoir reçu la somme au cours d’une année d’imposition subséquente à son année d’imposition au cours de laquelle la fiducie reçoit en fait le dividende imposable, c’est l’année d’imposition subséquente du bénéficiaire qui est prise en compte pour déterminer si l’émettrice est rattachée au bénéficiaire.
+Chaque partie assume ses propres dépens afférents à la requête fondée sur l’article 58 des Règles.
+Signé à Toronto (Ontario), ce 5e jour de septembre 2023.
+« S. D’Arcy »
+Le juge D’Arcy
+Traduction certifiée conforme
+ce 2e jour de décembre 2024.
+Mylène Boudreau, jurilinguiste
+Référence : 2023 CCI 135
+Date : 20230905
+Dossier : 2020-1216(IT)G
+ENTRE :
+VEFGHI HOLDING CORP.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2020-1231(IT)G
+ET ENTRE :
+S.O.N.S. ENVIRONMENTAL LTD.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge D’Arcy
+[1] Les présents motifs portent sur une requête en détermination d’une question mixte de droit et de fait présentée au titre de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale), DORS/90-688a (la « requête fondée sur l’article 58 des Règles »). La question proprement dite (la « question fondée sur l’article 58 des Règles ») est rédigée comme suit :
+[traduction]
+Lorsqu’une fiducie attribue une partie d’un dividende imposable (la « somme ») reçu sur une action du capital-actions d’une société canadienne imposable (l’« émettrice »), conformément au paragraphe 104(19) de la Loi de l’impôt sur le revenu (Canada) (la « Loi »), de sorte que la somme est réputée avoir été reçue par un bénéficiaire (le « bénéficiaire »), quel moment doit être pris en compte lorsqu’il s’agit de déterminer si l’émettrice est rattachée au bénéficiaire pour l’application de l’alinéa 186(1)a) de la Loi?
+[2] La question découle de la décision du ministre de percevoir de l’impôt en vertu de la partie IV de la Loi de l’impôt sur le revenu[1] (la « Loi ») dans le cas suivant :
+–une société canadienne imposable a versé un dividende à une fiducie à un moment où la fiducie, ou une personne avec laquelle la fiducie avait un lien de dépendance, contrôlait la société;
+–la fiducie, en vertu du paragraphe 104(19), a par la suite attribué les dividendes à une société bénéficiaire de la fiducie;
+–la fiducie ou la personne avec laquelle elle a un lien de dépendance, après le versement des dividendes et avant la fin de l’exercice de la fiducie, a renoncé au contrôle de la société.
+[3] Les appelantes, Vefghi Holding Corporation (« Vefghi Corp. ») et S.O.N.S. Environmental Ltd. (« S.O.N.S. »), ont toutes deux déposé une requête pour que soit tranchée avant l’audience la question fondée sur l’article 58 des Règles. L’intimé a consenti à la requête. Après avoir entendu les parties, j’ai rendu une ordonnance le 29 juillet 2022 prévoyant l’audition de la question fondée sur l’article 58 des Règles.
+Faits
+[4] Conformément à l’ordonnance du 29 juillet 2022, les éléments de preuve suivants ont été déposés devant la Cour dans le cadre de la requête fondée sur l’article 58 des Règles :
+–les actes de procédure;
+–les exposés conjoints des faits, joints aux annexes A et B des présents motifs.
+[5] Les faits qui présentent un intérêt pour l’appel interjeté par Vefghi Corp. (l’« appel de Vefghi ») sont les suivants :
+–Vefghi Corp. est une société constituée en vertu des lois de la Colombie‑Britannique. Au cours de la période en cause, elle était une « société canadienne imposable » et une « société privée » au sens du paragraphe 89(1) de la Loi. Rahmatollah Vefghi et Parvin Yavari détenaient toutes les actions émises et en circulation de Vefghi Corp.
+–Rahmatollah Vefghi et Parvin Yavari étaient les fiduciaires d’une fiducie non testamentaire résidant au Canada appelée Vefghi Family Trust (la « fiducie Vefghi »). Vefghi Corp. était bénéficiaire de la fiducie Vefghi.
+–L’exercice de Vefghi Corp. et celui de la fiducie Vefghi se terminaient le 31 décembre.
+–R. Vefghi EnvironmentalConsultant Inc. (« Consultant Inc. ») a été constituée en société en Colombie-Britannique et était également, pendant la période en cause, une société canadienne imposable et une société privée. Rahmatollah Vefghi et Parvin Yavari détenaient toutes les actions privilégiées sans droit de vote de Consultant Inc. La fiducie Vefghi détenait toutes les actions ordinaires de catégorie A avec droit de vote de Consultant Inc.
+–Le 1er juillet 2015, Consultant Inc. a déclaré et versé un dividende sur ses actions ordinaires de catégorie A avec droit de vote.
+–Le 1er juillet 2015, la fiducie Vefghi a vendu toutes les actions ordinaires de catégorie A avec droit de vote de Consultant Inc. à une personne avec laquelle la fiducie Vefghi et Vefghi Corp. n’avaient pas de lien de dépendance aux termes de la Loi.
+–La fiducie Vefghi a attribué le 1er juillet 2015 un revenu de 1 363 283 $ à Vefghi Corp.
+–Dans le calcul de son revenu pour l’année d’imposition qui s’est terminée le 31 décembre 2015, la fiducie Vefghi a déduit 1 363 283 $, conformément au paragraphe 104(6) de la Loi de l’impôt sur le revenu.
+–Dans sa déclaration de revenus pour l’année d’imposition qui s’est terminée le 31 décembre 2015, la fiducie Vefghi a attribué 1 363 283 $ à Vefghi Corp. à titre de dividende imposable reçu sur les actions ordinaires de catégorie A avec droit de vote de Consultant Inc., conformément au paragraphe 104(19) de la Loi.
+–Dans sa déclaration de revenus pour l’année d’imposition qui s’est terminée le 31 décembre 2015, Vefghi Corp. a déclaré 1 363 283 $ à titre de dividende imposable reçu et a inclus ce montant dans le calcul de son revenu, conformément à l’alinéa 104(13)a) de la Loi[2]. Elle a considéré qu’elle n’avait aucun impôt à payer au titre de la partie IV de la Loi sur le dividende.
+–Le ministre a par la suite établi une nouvelle cotisation de 454 428 $ à l’égard de Vefghi Corp. pour l’année d’imposition qui s’est terminée le 31 décembre 2015 concernant l’impôt à payer au titre de la partie IV de la Loi.
+[6] Les faits qui présentent un intérêt pour l’appel interjeté par S.O.N.S. (l’« appel de S.O.N.S. ») sont les suivants :
+–S.O.N.S. est une société constituée en vertu des lois de la Colombie‑Britannique. Au cours de la période en cause, elle était une « société canadienne imposable » et une « société privée » au sens du paragraphe 89(1) de la Loi. Les époux George et Dani Mate, ainsi que quatre autres membres de la famille, détenaient toutes les actions émises et en circulation de S.O.N.S.
+–George Mate était le fiduciaire d’une fiducie non testamentaire résidant au Canada appelée Mate Family Trust (la « fiducie Mate »). S.O.N.S. était bénéficiaire de la fiducie Mate.
+–L’exercice de la fiducie Mate se terminait le 31 décembre et celui de S.O.N.S. se terminait le 31 août.
+–M&R Environmental Ltd. (« Environmental Corp. ») a été constituée en société en Colombie-Britannique et était également, pendant la période en cause, une société canadienne imposable et une société privée. George Mate et Dani Mate détenaient la majorité des actions ordinaires de catégorie A avec droit de vote d’Environmental Corp. La fiducie Mate détenait la majorité des actions ordinaires de catégorie B sans droit de vote d’Environmental Corp.
+–Le 30 juin 2015, Environmental Corp. a déclaré une série de dividendes d’un total de 3 100 000 $ sur ses actions ordinaires de catégorie B (les « dividendes de catégorie B »). La partie des dividendes de catégorie B attribuable aux actions de catégorie B détenues par la fiducie Mate totalisait 1 968 500 $. Environmental Corp. a versé les dividendes de catégorie B le 30 juin 2015 par l’émission d’un billet à ordre.
+–Le 1er juillet 2015, George Mate, Dani Mate et la fiducie Mate ont vendu toutes leurs actions d’Environmental Corp. à une personne avec laquelle la fiducie Mate et S.O.N.S. n’avaient pas de lien de dépendance aux termes de la Loi.
+–La fiducie Mate a attribué le 1er juillet 2015 un revenu de 1 967 731,25 $ à S.O.N.S.
+–Dans le calcul de son revenu pour l’année d’imposition qui s’est terminée le 31 décembre 2015, la fiducie Mate a déduit 1 967 731,25 $, conformément au paragraphe 104(6) de la Loi.
+–Dans sa déclaration de revenus pour l’année d’imposition qui s’est terminée le 31 décembre 2015, la fiducie Mate a attribué 1 967 731,25 $ à S.O.N.S. à titre de dividende imposable reçusur les actions ordinaires de catégorie B sans droit de vote d’Environmental Corp., conformément au paragraphe 104(19) de la Loi.
+–Dans sa déclaration de revenus pour l’année d’imposition qui s’est terminée le 31 août 2015, S.O.N.S. a déclaré 1 967 731,25 $ à titre de dividende imposable reçu et a inclus ce montant dans le calcul de son revenu, conformément à l’alinéa 104(13)a) de la Loi[3]. Elle a considéré qu’elle n’avait aucun impôt à payer au titre de la partie IV de la Loi sur le dividende.
+–Le ministre a par la suite établi une nouvelle cotisation de 655 910 $ à l’égard de S.O.N.S. pour l’année d’imposition s’étant terminée le 31 août 2016 concernant l’impôt à payer au titre de la partie IV de la Loi.
+Loi
+A. Impôt remboursable de la partie IV
+[7] La question fondée sur l’article 58 des Règles découle de l’impôt perçu en vertu de la partie IV de la Loi. L’impôt remboursable de la partie IV vise à empêcher que les sociétés reportent le paiement de l’impôt sur leur revenu de placement passif. Linda Woo et Gavin Friedley ont expliqué son objectif général et son fonctionnement dans le chapitre 9 de la 5e édition de l’ouvrage Taxation of Private Corporations and Their Shareholders[4] :
+[traduction]
+Le régime d’impôt remboursable a été adopté pour empêcher les sociétés de reporter le paiement de l’impôt sur leur revenu de placement passif. Suivant ce régime, les sociétés privées sont tenues de payer à l’avance l’impôt sur leur revenu de placement; l’impôt payé à l’avance correspond approximativement au montant d’impôt qu’un particulier assujetti à l’impôt au taux marginal le plus élevé aurait payé s’il avait lui-même gagné ce revenu de placement. Une partie de l’impôt est ensuite remboursée à la société au moment où elle verse les dividendes imposables à ses actionnaires. Ce mécanisme d’impôt remboursable vise à dissuader les particuliers de se servir d’une société pour gagner un revenu de placement passif afin de reporter le paiement de l’impôt[5].
+[8] Dans les appels en l’espèce, le report découle de la déduction accordée à une société pour dividende imposable reçu d’une société canadienne imposable prévue au paragraphe 112(1). De façon générale, le montant du dividende imposable est inclus dans le calcul du revenu de la société, puis déduit en application du paragraphe 112(1). Par conséquent, la société ne paie pas d’impôt de la partie I sur le dividende.
+[9] La déduction prévue au paragraphe 112(1) évite la double imposition du dividende imposable versé à une société. L’ancienne juge en chef adjointe Lamarre a expliqué l’objet du paragraphe 112(1) dans la décision Fiducie financière Satoma, aux paragraphes 98 et 99 :
+[98] Par ailleurs, aux fins d’éviter la double imposition des mêmes revenus, les dividendes inter sociétés bénéficient de la déduction prévue au paragraphe 112(1) de la LIR (Report of the Technical Committee on Business Taxation (Mintz Committee Report on Business Taxation), December 1997, section 7.8 : « The Inter-corporate Dividend Deduction ». (Cahier des autorités de l’intimée, onglet 27.)
+[99] Selon le principe d’intégration, le dividende ne sera imposable qu’à la toute fin de la chaîne, lorsque le particulier recevra ce montant. Ainsi, on peut dire que le paragraphe 112(1) est nécessaire afin de permettre la distribution de revenus d’une société canadienne à ses actionnaires sans qu’il n’y ait de double imposition s’il y a des sociétés interposées, dans la mesure, bien évidemment, où les conditions prévues à l’article 112 sont en place[6].
+[10] Toutefois, le dividende versé à une société peut être assujetti à l’impôt remboursable perçu en vertu de la partie IV de la Loi. Plus précisément, l’alinéa 186(1)a) prévoit qu’une société qui est une société privée[7] au cours d’une année d’imposition est tenue de payer un impôt égal à « 38 1/3 %[8] de l’ensemble des dividendes imposables déterminés qu’elle a reçus au cours de l’année de sociétés autres que des sociétés payantes auxquelles elle est rattachée[9] ».
+[11] Le dividende imposable déterminé est défini au paragraphe 186(3) et s’entend d’un dividende reçu par une société privée qui est déductible en vertu de l’article 112. La disposition est ainsi rédigée :
+« dividende imposable déterminé » Somme reçue par une société, à un moment où elle est une société privée ou une société assujettie, au titre ou en paiement intégral ou partiel d’un dividende imposable d’une société, jusqu’à concurrence de la somme relative au dividende qui est déductible en application de l’article 112, des alinéas 113(1)a), a.1), b) ou d) ou du paragraphe 113(2) dans le calcul du revenu imposable pour l’année de la société qui a reçu le dividende.
+[12] Selon le paragraphe 89(1), la société privée s’entend, à un moment donné, d’une société qui, à ce moment, réside au Canada, n’est pas une société publique et n’est pas contrôlée par une ou plusieurs sociétés publiques ou sociétés d’État prévues par règlement, ou par l’une et l’autre de celles-ci.
+[13] La question fondée sur l’article 58 des Règles dont la Cour est saisie découle du fait que l’impôt de la partie IV perçu en vertu de l’alinéa 186(1)a) ne s’applique pas aux dividendes reçus par la société privée d’une société payante à laquelle elle est rattachée.
+[14] Le paragraphe 186(4) détermine les circonstances dans lesquelles deux sociétés sont rattachées pour l’application de la partie IV. Il prévoit ce qui suit :
+(4) Pour l’application de la présente partie, une société payante est rattachée à une société donnée à un moment donné d’une année d’imposition (appelée l’« année donnée » au présent paragraphe) de cette dernière dans l’un ou l’autre des cas suivants :
+a) la société payante est contrôlée (autrement qu’au moyen du droit visé à l’alinéa 251(5)b)) par la société donnée à ce moment;
+b) la société donnée a possédé à ce moment :
+(i) d’une part, plus de 10 % des actions émises (comportant plein droit de vote en toutes circonstances) du capital-actions de la société payante,
+(ii) d’autre part, des actions du capital-actions de la société payante dont la juste valeur marchande est de plus de 10 % de la juste valeur marchande de toutes les actions émises du capital-actions de la société payante.
+[15] Le paragraphe 186(4) fait en sorte que l’impôt de la partie IV ne s’applique pas aux dividendes qu’une société reçoit d’une société qu’elle contrôle ou dans laquelle elle détient une participation de 10 % ou plus. Il ressort clairement du libellé de la disposition que l’impôt de la partie IV n’est censé s’appliquer qu’aux dividendes reçus sur des actions détenues dans un portefeuille de placements. Ma conclusion est conforme aux diverses notes explicatives publiées par le ministère des Finances concernant le paragraphe 186(1). Ces notes mentionnent systématiquement que l’impôt de la partie IV s’applique au revenu passif.
+[16] Le paragraphe 186(2) prévoit que, pour l’application de la partie IV[10], une société est contrôlée par une autre société si plus de 50 % des actions émises de son capital-actions (comportant plein droit de vote en toutes circonstances) appartiennent à l’autre société, à des personnes avec lesquelles l’autre société a un lien de dépendance ou à la fois à l’autre société et à des personnes avec lesquelles l’autre société a un lien de dépendance.
+B. Règles déterminatives sur les fiducies
+[17] La sous-section K de la partie I de la Loi prévoit un régime fiscal complexe pour les fiducies, y compris des règles spéciales qui s’appliquent aux montants versés au cours d’une année d’imposition à un bénéficiaire ou qui sont devenus payables au bénéficiaire au cours de l’année. Les dispositions applicables à la question fondée sur l’article 58 des Règles sont les alinéas 104(13)a) et 108(5)a) et le paragraphe 104(19).
+[18] En règle générale, l’alinéa 104(13)a) prévoit que le bénéficiaire d’une fiducie est tenu d’inclure dans le calcul de son revenu pour une année d’imposition donnée la partie du montant qui représente son revenu pour son année d’imposition s’étant terminée dans l’année donnée, qui est devenue payable au bénéficiaire au cours de l’année de la fiducie. Dans la plupart des cas, ce montant est déductible par la fiducie en vertu de l’alinéa 104(6)b).
+[19] En vertu de la règle générale énoncée à l’alinéa 108(5)a), le montant que le bénéficiaire est tenu d’inclure dans le calcul de son revenu est réputé être un revenu qu’il a tiré d’un bien qui constitue une participation dans une fiducie et non un revenu tiré d’une autre source. Par conséquent, les dividendes imposables reçus par une fiducie et inclus dans le calcul du revenu du bénéficiaire sont réputés être un revenu tiré d’un bien provenant d’une participation dans une fiducie et non un revenu de dividendes.
+[20] Toutefois, la règle générale énoncée à l’alinéa 108(5)a) est assujettie aux autres dispositions de la partie I, y compris le paragraphe 104(19).
+[21] Si les conditions du paragraphe 104(19) sont remplies, la totalité ou une partie d’un dividende imposable qu’une fiducie reçoit sur une action du capital-actions d’une société canadienne imposable est alors réputée, pour l’application de la Loi[11], être un dividende imposable sur l’action reçu par un bénéficiaire au cours de son année d’imposition dans laquelle l’année d’imposition de la fiducie au cours de laquelle le dividende a été reçu par celle-ci prend fin. Le paragraphe 104(19) prévoit également que le dividende est réputé ne pas avoir été reçu par la fiducie aux fins de la majoration des dividendes prévue à l’alinéa 82(1)b) et des règles sur la minimisation des pertes énoncées aux alinéas 107(1)c) et d) et à l’article 112.
+[22] Le paragraphe 104(19) est ainsi rédigé :
+(19) La partie d’un dividende imposable qu’une fiducie reçoit, au cours de son année d’imposition donnée, sur une action du capital-actions d’une société canadienne imposable est réputée, pour l’application de la présente loi, sauf la partie XIII, être un dividende imposable sur l’action reçu par un contribuable au cours de son année d’imposition dans laquelle l’année donnée prend fin, et est réputée, pour l’application des alinéas 82(1)b) et 107(1)c) et d) et de l’article 112, ne pas avoir été reçue par la fiducie, si, à la fois :
+a) une somme égale à cette partie :
+(i) d’une part, est attribuée au contribuable par la fiducie dans la déclaration de revenu qu’elle produit pour l’année donnée en vertu de la présente partie,
+(ii) d’autre part, peut raisonnablement être considérée, compte tenu des circonstances, y compris les modalités de l’acte de fiducie, comme faisant partie du montant qui, par l’effet de l’alinéa (13)a), du paragraphe (14) ou de l’article 105, a été inclus dans le calcul du revenu du contribuable pour l’année d’imposition en cause de celui-ci;
+b) le contribuable est bénéficiaire de la fiducie au cours de l’année donnée;
+c) la fiducie réside au Canada tout au long de l’année donnée;
+d) le total des sommes représentant chacune une somme que la fiducie a attribuée à l’un de ses bénéficiaires, aux termes du présent paragraphe, dans la déclaration de revenu qu’elle produit pour l’année donnée en vertu de la présente partie n’excède pas le total des sommes dont chacune est un dividende imposable qu’elle a reçu au cours de cette année sur une action du capital-actions d’une société canadienne imposable.
+[23] Selon le libellé du paragraphe 104(19), les conditions suivantes doivent être réunies pour que la règle déterminative du paragraphe s’applique à la totalité ou à une partie d’un dividende imposable :
+–au cours d’une année d’imposition donnée de la fiducie, celle-ci a reçu un dividende imposable sur une action du capital-actions d’une société canadienne imposable;
+–une somme égale à la totalité ou à une partie du dividende imposable (la « somme attribuée ») est attribuée au contribuable par la fiducie dans la déclaration de revenus qu’elle produit pour l’année donnée;
+–une somme égale à la somme attribuée peut raisonnablement être considérée comme faisant partie du montant qui a été inclus dans le calcul du revenu du contribuable en vertu de l’alinéa 104(13)a)[12];
+–le contribuable est bénéficiaire de la fiducie au cours de l’année donnée;
+–la fiducie réside au Canada tout au long de l’année donnée;
+–le total des sommes que la fiducie a attribuées en vertu du paragraphe 104(19) à un bénéficiaire pour l’année donnée n’excède pas le total des dividendes imposables qu’elle a reçus au cours de l’année donnée sur les actions d’une société canadienne imposable.
+[24] L’objet du paragraphe 104(19) se dégage de son libellé, lu dans le contexte de la sous-section K de la partie I de la Loi. Cette disposition prévoit que le montant d’un dividende sur une action qu’une fiducie reçoit d’une société canadienne imposable et attribue comme revenu à un bénéficiaire est réputé être un dividende imposable reçu au cours de l’année d’imposition du bénéficiaire dans laquelle l’année d’imposition de la fiducie prend fin[13]. En l’absence du paragraphe 104(19), le montant du dividende serait traité par le bénéficiaire, en vertu de l’alinéa 108(5)a), comme un revenu tiré d’un bien provenant d’une participation dans une fiducie.
+[25] L’aspect temporel du paragraphe 104(19) témoigne du fait que la nature du revenu attribué par une fiducie n’est pertinente que pour l’année d’imposition du bénéficiaire au cours de laquelle l’année d’imposition de la fiducie prend fin.
+[26] En résumé, la sous‑section K comporte une hiérarchie de règles déterminatives qui portent sur la nature du revenu attribué par une fiducie à l’un de ses bénéficiaires. Le paragraphe 108(5) s’applique « [s]auf disposition contraire de la présente partie », et le paragraphe 104(19) l’emporte sur la règle générale déterminative énoncée à l’alinéa 108(5)a) en conservant la nature des dividendes imposables qui comprennent la totalité ou une partie du revenu de la fiducie attribué par celle-ci à l’un de ses bénéficiaires. Conformément au moment où le revenu d’une fiducie est attribué à l’un de ses bénéficiaires, le paragraphe 104(19) ne s’applique qu’à l’année d’imposition du bénéficiaire au cours de laquelle l’année d’imposition de la fiducie prend fin.
+C. Thèse des parties
+[27] Les appelantes font valoir que le libellé de l’alinéa 186(1)a) donne à penser que la question de savoir si deux sociétés sont rattachées doit être examinée à un moment donné, mais qu’il ne précise pas ce moment. À leur avis, une analyse téléologique démontre que l’impôt de la partie IV devait s’appliquer uniquement aux dividendes tirés d’un portefeuille de placements, le critère pour décider s’il y a un portefeuille de placements étant celui du rattachement.
+[28] Selon elles, une analyse textuelle, contextuelle et téléologique de l’article 186 permet de conclure que c’est le moment où la société payante déclare ou verse le dividende qui compte lorsqu’il s’agit de déterminer si la société est rattachée à la société payante, car :
+a)selon le législateur, le contrôle ou l’influence importante est une caractéristique déterminante d’un placement qui n’est pas détenu dans un portefeuille;
+b)la déclaration et le versement d’un dividende sont des actions étroitement liées au contrôle ou à l’exercice d’une influence importante;
+c)l’interprétation favorise la neutralité.
+[29] Subsidiairement, les appelantes soutiennent que, si la Cour conclut que le moment pour établir si deux sociétés sont rattachées est le moment où la société bénéficiaire est réputée avoir reçu le dividende en vertu du paragraphe 104(19), alors, compte tenu du texte, du contexte et de l’objet du paragraphe 104(19) et de la jurisprudence existante, la Cour devrait conclure que la société bénéficiaire est réputée avoir reçu le dividende au moment où la fiducie l’a reçu.
+[30] Suivant l’un ou l’autre des arguments des appelantes, il semble, d’après les exposés conjoints des faits, qu’aucun impôt de la partie IV ne serait payable en l’espèce. Dans l’appel de Vefghi, l’appelante était rattachée à Consultant Inc. le 1er juillet 2015, date à laquelle Consultant Inc. a versé le dividende en cause et la fiducie Vefghi l’a reçu. De même, dans l’appel de S.O.N.S., l’appelante était rattachée à Environmental Corp. le 30 juin 2015, date à laquelle Environmental Corp. a versé le dividende en cause et la fiducie Mate l’a reçu.
+[31] L’intimé soutient que l’effet déterminatif du paragraphe 104(19) n’est déclenché que lorsqu’il est conclu que toutes les exigences du paragraphe sont remplies, et que cette conclusion ne peut avoir lieu qu’à la fin de l’exercice financier de la fiducie. Jusqu’à ce que les attributions prévues au paragraphe 104(19) prennent effet à la fin de l’année d’imposition de la fiducie, les sommes en cause sont considérées comme des répartitions de revenus de fiducie, et non comme des dividendes. Par conséquent, c’est la fin de l’exercice financier de la fiducie dont il faut tenir compte pour déterminer si les sociétés sont rattachées.
+[32] Suivant l’argument de l’intimé, il semble, d’après les exposés conjoints des faits, que l’impôt de la partie IV s’appliquerait en l’espèce. Dans l’appel de Vefghi, il faudrait déterminer si l’appelante était rattachée à Consultant Inc. le 31 décembre 2015. Puisque la fiducie Vefghi a vendu toutes les actions ordinaires de Consultant Inc. le 1er juillet 2015, l’appelante n’aurait pas été rattachée à Consultant Inc. le 31 décembre 2015.
+[33] Dans l’appel de S.O.N.S., il faudrait déterminer si l’appelante était rattachée à Environmental Corp. le 31 décembre 2015 aussi. Toutefois, le 1er juillet 2015, George Mate, Dani Mate et la fiducie Mate ont vendu toutes leurs actions d’Environmental Corp. Par conséquent, l’appelante n’aurait pas été rattachée à Environmental Corp. le 31 décembre 2015.
+D. Réponse à la question fondée sur l’article 58
+[34] Dans l’arrêt Trustco Canada[14], la Cour suprême du Canada a établi que le principe de l’« analyse textuelle, contextuelle et téléologique » est le principe qui s’applique dans l’interprétation de la Loi. Au paragraphe 10 de ses motifs, la Cour a expliqué le principe ainsi :
+10 […] L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux.
+[35] Pour répondre à la question fondée sur l’article 58 des Règles, la Cour doit d’abord examiner les paragraphes 186(1), (3) et (4).
+[36] Le paragraphe 186(4) prévoit le critère pour déterminer si deux sociétés sont rattachées. Selon le libellé du paragraphe 186(4), le moment qui compte pour déterminer si deux sociétés sont rattachées est « un moment donné ». Les alinéas 186(4)a) et 186(4)b) renvoient à un moment précis au cours d’une année d’imposition. Par exemple, selon l’alinéa 186(4)a), deux sociétés sont rattachées à un moment donné d’une année d’imposition si la société payante est contrôlée par la société donnée à ce moment-là.
+[37] À mon avis, une analyse textuelle des paragraphes 186(1), 186(3) et 186(4) mène à la conclusion que le moment précis dont il faut tenir compte lorsqu’il s’agit de déterminer si deux sociétés sont rattachées est le moment où la société assujettie à l’impôt de la partie IV reçoit les dividendes.
+[38] L’impôt de la partie IV est perçu en vertu du paragraphe 186(1) sur tous les dividendes imposables déterminés que la société privée a reçus au cours de l’année de sociétés autres que des sociétés payantes auxquelles elle est rattachée. Le dividende imposable déterminé, défini au paragraphe 186(3), s’entend d’une somme reçue par une société à un moment précis.
+[39] Le libellé des paragraphes 186(1) et 186(3) indique clairement que l’impôt de la partie IV est perçu sur les dividendes reçus par le contribuable. En d’autres termes, l’impôt est perçu sur les dividendes reçus par la société et non sur les dividendes versés par la société payante.
+[40] Étant donné que le paragraphe 186(1) prévoit que la partie IV impose les dividendes reçus par le contribuable, la conclusion logique est que, lorsqu’il s’agit de déterminer si deux sociétés sont rattachées, il faut tenir compte du moment où le dividende est reçu par la société contribuable, bien que, dans la plupart des cas, le dividende soit versé par la société payante en même temps qu’il est reçu par la société assujettie à l’impôt de la partie IV.
+[41] De plus, cette conclusion est conforme à l’objet du paragraphe 186(1), qui est de percevoir l’impôt de la partie IV uniquement sur les dividendes que le contribuable reçoit de sociétés payantes qu’il ne contrôle pas ou sur lesquelles il n’exerce pas d’influence du fait qu’il détient moins de 10 % des actions avec droit de vote de la société payante, c’est-à-dire les dividendes qu’il reçoit sur les actions qu’il détient, au moment où il les reçoit, dans un portefeuille de placements.
+[42] Pour ce faire, il faut déterminer si la société payante et le contribuable sont rattachés au moment où le dividende est reçu. Si le critère est appliqué ultérieurement, le contribuable, en achetant des actions de la société payante, pourrait facilement aller à l’encontre de l’objet du paragraphe 186(1).
+[43] Au vu des faits dont dispose la Cour, si les dividendes en cause avaient été versés directement par les sociétés payantes à l’appelante concernée, l’impôt de la partie IV ne se serait pas appliqué aux dividendes. Cependant, ce n’est pas ce qui s’est produit. Les dividendes ont été versés à des fiducies, qui les ont ensuite attribués aux appelantes. Par conséquent, la question fondée sur l’article 58 des Règles exige que la Cour détermine quand, en vertu des dispositions déterminatives du paragraphe 104(19), les dividendes sont réputés avoir été reçus par le bénéficiaire, comme les appelantes.
+[44] La règle déterminative du paragraphe 104(19) crée une fiction juridique. La Cour suprême du Canada a déclaré ce qui suit à la page 845 de l’arrêt Verrette[15], l’arrêt de principe sur les règles déterminatives :
+[…] Une disposition déterminative est une fiction légale; elle reconnaît implicitement qu’une chose n’est pas ce qu’elle est censée être, mais décrète qu’à des fins particulières, elle sera considérée comme étant ce qu’elle n’est pas ou ne semble pas être. […]
+[45] Le paragraphe 104(19) crée une fiction juridique en indiquant que le contribuable qui est bénéficiaire d’une fiducie a reçu des dividendes qui, dans les faits, ont été reçus par la fiducie.
+[46] En raison de cette fiction juridique, la fiducie est toujours considérée comme ayant reçu le dividende, sauf aux fins de la majoration des dividendes prévue à l’alinéa 82(1)b) et des règles sur la minimisation des pertes énoncées aux alinéas 107(1)c) et d) et à l’article 112[16].
+[47] Comme je le mentionne plus haut, si les conditions du paragraphe 104(19) sont remplies, la partie d’un dividende imposable qu’une fiducie reçoit, au cours de son année d’imposition donnée, sur une action du capital-actions d’une société canadienne imposable est alors réputée, pour l’application de la Loi, sauf la partie XIII, « être un dividende imposable sur l’action reçu par un contribuable au cours de son année d’imposition dans laquelle l’année donnée prend fin ».
+[48] En vertu du paragraphe 104(19), le dividende réputé conserve sa nature de dividende imposable sur les actions du capital-actions de la société canadienne imposable qui a versé le dividende à la fiducie (c.-à-d. la société payante). Par conséquent, en vertu de l’article 112, la société qui a reçu le dividende peut le déduire dans l’année d’imposition au cours de laquelle elle l’a reçu. Par conséquent, le dividende réputé est un dividende imposable déterminé pour l’application du paragraphe 186(1). La société bénéficiaire sera assujettie à l’impôt de la partie IV sur le dividende réputé, sauf si elle était rattachée à la société payante au moment où elle a reçu le dividende.
+[49] La question dont la Cour est saisie est la suivante : eu égard à la fiction juridique créée par le paragraphe 104(19), à quel moment la société bénéficiaire est-elle réputée avoir reçu le dividende pour l’application de l’impôt de la partie IV perçu en vertu du paragraphe 186(1)?
+[50] Selon le paragraphe 104(19), le dividende est réputé avoir été reçu par la société bénéficiaire au cours de son année d’imposition dans laquelle l’année d’imposition de la fiducie prend fin. Toutefois, le paragraphe ne précise pas à quel moment exact de l’année d’imposition le dividende est réputé avoir été reçu.
+[51] L’intimé demande à la Cour de conclure que ce moment est la date de fin de l’exercice de la fiducie. Je ne puis retenir cet argument.
+[52] Premièrement, l’intimé me demande d’interpréter la disposition comme si elle comprenait des mots qui n’y figurent pas. Il revient non pas à la Cour, mais au législateur d’établir le libellé d’une disposition. Si le législateur avait voulu que le moment soit la fin de l’exercice de la fiducie, il aurait alors déclaré expressément que la société bénéficiaire est réputée avoir reçu le dividende le dernier jour de l’année d’imposition de la fiducie.
+[53] Deuxièmement, je ne souscris pas au fondement de l’argument de l’intimé. Il fait valoir que, puisque toutes les exigences du paragraphe 104(19) ne sont remplies qu’à la fin de l’exercice de la fiducie (en particulier l’exigence que la fiducie réside au Canada tout au long de l’année d’imposition donnée), la disposition déterminative ne peut donc s’appliquer qu’à la fin de l’exercice. Par conséquent, le moment pertinent pour déterminer si les sociétés sont rattachées est la fin de l’exercice de la fiducie.
+[54] Je suis d’accord avec l’intimé pour dire que ce n’est qu’à la fin de l’exercice de la fiducie que l’on peut déterminer si le paragraphe 104(19) s’applique. Toutefois, je ne suis pas d’accord qu’il en découle que le moment pertinent pour déterminer si les sociétés sont rattachées est la fin de l’exercice de la fiducie.
+[55] Une fois qu’il est établi qu’une disposition déterminative s’applique, il faut alors examiner le libellé de cette disposition pour déterminer quelle fiction juridique est créée. Plus précisément, il faut déterminer dans quelle mesure la fiction juridique créée change ce qui, dans les faits, s’est réellement produit. Pour ce faire, il faut se rappeler que la portée d’une disposition déterminative se limite à ce qui est clairement exprimé dans la disposition[17].
+[56] Le paragraphe 104(19) crée la fiction juridique selon laquelle un bénéficiaire, y compris une société bénéficiaire, a reçu un dividende sur les actions de la société payante. Le bénéficiaire est réputé avoir reçu le même dividende que celui reçu par la fiducie.
+[57] En fait, la fiducie a reçu ce dividende à une date précise. À mon avis, à moins que la fiction juridique créée par la règle déterminative n’ait pour effet d’entraîner la réception du dividende à un moment différent, le dividende est alors reçu par la société bénéficiaire à la même date que celle à laquelle il a été reçu par la fiducie. C’est ce moment qui compte lorsqu’il s’agit de déterminer, pour l’application du paragraphe 186(1), si les sociétés concernées sont rattachées.
+[58] Mon interprétation est conforme à l’objet du paragraphe 186(1) et à celui du paragraphe 104(19).
+[59] Comme je le mentionne plus haut, l’objet du paragraphe 186(1) est de percevoir l’impôt de la partie IV sur les dividendes reçus sur les actions détenues, au moment où le dividende est reçu, dans un portefeuille de placements.
+[60] Rien dans le paragraphe 104(19) ne donne à penser que son objet est de dicter l’application de la partie IV. Il précise seulement que, lorsque les conditions qui y sont énoncées sont remplies, la fiducie peut choisir de traiter le revenu attribué à l’un de ses bénéficiaires comme un dividende imposable reçu par le bénéficiaire au cours de son année d’imposition dans laquelle l’année d’imposition de la fiducie prend fin. Le paragraphe 104(19) s’applique à l’année d’imposition du bénéficiaire dans laquelle l’année d’imposition de la fiducie prend fin parce que c’est à ce moment que, selon l’alinéa 108(5)a), le revenu attribué par la fiducie serait par ailleurs réputé être un revenu tiré d’un bien qui constitue une participation dans la fiducie. Hormis le fait qu’il précise l’année d’imposition du bénéficiaire au cours de laquelle il est réputé avoir reçu le dividende imposable reçu par la fiducie, le paragraphe 104(19) ne dit rien à propos du moment exact pour l’application de la partie IV.
+[61] Si la société bénéficiaire est réputée, en vertu du paragraphe 104(19), avoir reçu le même dividende que celui reçu par la fiducie au cours de la même année d’imposition que celle au cours de laquelle le dividende a été, dans les faits, reçu par la fiducie, la fiction juridique créée par le paragraphe 104(19) ne change pas la date réelle à laquelle le dividende a été reçu. Il a été reçu par la société bénéficiaire à la même date que celle à laquelle il a été reçu par la fiducie.
+[62] La fiction juridique créée par le paragraphe 104(19) fait en sorte que le dividende est réputé avoir été reçu au cours d’une année d’imposition donnée. Toutefois, le paragraphe 104(19) ne précise pas à quel moment exact de l’année d’imposition le dividende est réputé avoir été reçu. Cette fiction juridique ne change pas le moment où le dividende a été reçu, sauf si le dividende est réputé avoir été reçu au cours d’une année d’imposition de la société bénéficiaire qui ne recoupe pas le moment précis où le dividende a été reçu par la fiducie.
+[63] Par exemple, au vu des faits dont dispose la Cour dans l’appel de Vefghi, l’appelante serait réputée avoir reçu le dividende le même jour que celui où il a été reçu par la fiducie Vefghi, puisque l’appelante est réputée avoir reçu le dividende au cours de son année d’imposition s’étant terminée le 31 décembre 2015 et, dans les faits, le dividende a été reçu par la fiducie Vefghi au cours de cette année d’imposition.
+[64] Toutefois, toujours au vu des faits présentés à la Cour, il semble que le résultat soit différent dans l’appel de S.O.N.S. Dans cet appel, l’année d’imposition de l’appelante s’est terminée le 31 août 2015. La fiducie Mate a reçu le dividende en question au cours de son année d’imposition qui s’est terminée le 31 décembre 2015. Par conséquent, l’appelante était réputée, en vertu du paragraphe 104(19), avoir reçu le dividende au cours de son année d’imposition s’étant terminée le 31 août 2016. Dans cette situation, la règle déterminative crée une fiction juridique qui fait en sorte que le dividende est réputé avoir été reçu au cours d’une année d’imposition de l’appelante différente de celle au cours de laquelle la fiducie Mate a effectivement reçu le dividende. Par conséquent, pour l’application du paragraphe 186(1), l’appelante est réputée avoir reçu le dividende au cours de son année d’imposition s’étant terminée le 31 août 2016.
+Conclusion
+[65] La réponse à la question fondée sur l’article 58 des Règles est la suivante :
+Lorsqu’une fiducie attribue une partie d’un dividende imposable (la « somme ») reçu sur une action du capital-actions d’une société canadienne imposable (l’« émettrice »), conformément au paragraphe 104(19) de la Loi de l’impôt sur le revenu (Canada) (la « Loi »), de sorte que la somme est réputée avoir été reçue par un bénéficiaire (le « bénéficiaire »), c’est le moment où la fiducie reçoit dans les faits le dividende imposable qui est pris en compte pour déterminer si l’émettrice est rattachée au bénéficiaire, à condition que le bénéficiaire soit réputé, en vertu du paragraphe 104(19), avoir reçu la somme au cours de la même année d’imposition que celle au cours de laquelle la fiducie reçoit en fait le dividende imposable.
+Toutefois, si le bénéficiaire est réputé, en vertu du paragraphe 104(19), avoir reçu la somme au cours d’une année d’imposition subséquente à son année d’imposition au cours de laquelle la fiducie reçoit en fait le dividende imposable, c’est l’année d’imposition subséquente du bénéficiaire qui est prise en compte pour déterminer si l’émettrice est rattachée au bénéficiaire.
+[66] Chaque partie assume ses propres dépens afférents à la requête fondée sur l’article 58 des Règles.
+Signé à Toronto (Ontario), ce 5e jour de septembre 2023.
+« S. D’Arcy »
+Le juge D’Arcy
+Traduction certifiée conforme
+ce 2e jour de décembre 2024.
+Mylène Boudreau, jurilinguiste
+ANNEXE A
+EXPOSÉ CONJOINT DES FAITS
+L’appelante, Vefghi Holding Corporation (la « bénéficiaire »), et R. Vefghi EnvironmentalConsultant Inc. (l’« émettrice ») sont toutes deux des sociétés constituées en vertu des lois de la Colombie‑Britannique.
+La bénéficiaire et l’émettrice étaient des « société[s] canadienne[s] imposable[s] » et des « société[s] privée[s] » (au sens du paragraphe 89(1) de la Loi).
+Rahmatollah Vefghi et Parvin Yavari :
+détenaient toutes les actions privilégiées sans droit de vote de l’émettrice;
+détenaient toutes les actions émises et en circulation de la bénéficiaire;
+étaient les fiduciaires d’une fiducie non testamentaire appelée Vefghi FamilyTrust (la « fiducie »).
+La bénéficiaire était bénéficiaire de la fiducie.
+La fiducie résidait au Canada.
+La fiducie détenait toutes les actions ordinaires de catégorie A avec droit de vote de l’émettrice (les « actions »).
+L’exercice financier de la fiducie et celui de la bénéficiaire se terminaient le 31 décembre.
+Le 1er juillet 2015 :
+l’émettrice a déclaré et versé un dividende de 1 363 283 $ sur les actions;
+la fiducie a vendu les actions à une personne avec laquelle la fiducie et la bénéficiaire n’avaient pas de lien de dépendance aux fins de la Loi.
+La fiducie a attribué le 1er juillet 2015 un revenu de 1 363 283 $ à la bénéficiaire.
+Dans le calcul de son revenu pour l’année d’imposition s’étant terminée le 31 décembre 2015, la fiducie a déduit 1 363 283 $, conformément au paragraphe 104(6) de la Loi.
+Dans sa déclaration de revenus pour l’année d’imposition s’étant terminée le 31 décembre 2015, la fiducie a attribué 1 363 283 $ (la « somme ») à titre de dividende imposable reçu sur les actions par la bénéficiaire, et non par la fiducie, conformément au paragraphe 104(19) de la Loi.
+Dans sa déclaration de revenus pour l’année d’imposition s’étant terminée le 31 décembre 2015, la bénéficiaire a déclaré la somme à titre de dividende imposable reçu et a inclus cette somme dans le calcul de son revenu, conformément à l’alinéa 104(13)a) de la Loi.
+ANNEXE B
+EXPOSÉ CONJOINT DES FAITS
+L’appelante, S.O.N.S. Environmental Ltd. (la « bénéficiaire »), et M&R Environmental Ltd. (l’« émettrice ») sont toutes deux des sociétés constituées en vertu des lois de la Colombie‑Britannique.
+La bénéficiaire et l’émettrice étaient des « société[s] canadienne[s] imposable[s] » et des « société[s] privée[s] » (au sens du paragraphe 89(1) de la Loi).
+George Mate et Dani Mate :
+étaient mariés;
+détenaient la majorité des actions ordinaires de catégorie A avec droit de vote de l’émettrice;
+détenaient, avec quatre autres membres de la famille, toutes les actions émises et en circulation de la bénéficiaire;
+George Mate était le fiduciaire d’une fiducie non testamentaire appelée MateFamilyTrust (la « fiducie »).
+La bénéficiaire était bénéficiaire de la fiducie.
+La fiducie résidait au Canada.
+La fiducie détenait la majorité des actions ordinaires de catégorie B sans droit de vote de l’émettrice (les « actions »).
+L’exercice financier de la fiducie se terminait le 31 décembre et celui de la bénéficiaire se terminait le 31 août.
+Le 30 juin 2015, l’émettrice a déclaré une série de dividendes d’un total de 3 100 000 $ sur ses actions ordinaires de catégorie B (les « dividendes de catégorie B »).
+La partie des dividendes de catégorie B attribuable aux actions totalisait 1 968 500 $.
+Le 30 juin 2015, l’émettrice a versé les dividendes de catégorie B par l’émission d’un billet à ordre.
+Le 1er juillet 2015, George Mate, Dani Mate et la fiducie ont vendu toutes leurs actions de l’émettrice à une personne avec laquelle la fiducie et la bénéficiaire n’avaient pas de lien de dépendance aux termes de la Loi.
+La fiducie a déclaré avoir attribué le 1er juillet 2015 un revenu de 1 967 731,25 $ à la bénéficiaire.
+Dans le calcul de son revenu pour l’année d’imposition s’étant terminée le 31 décembre 2015, la fiducie a déduit 1 967 731,25 $, conformément au paragraphe 104(6) de la Loi.
+Dans sa déclaration de revenus pour l’année d’imposition s’étant terminée le 31 décembre 2015, la fiducie a attribué 1 967 731,25 $ (la « somme ») à titre de dividende imposable reçu sur les actions par la bénéficiaire, et non par la fiducie, conformément au paragraphe 104(19) de la Loi.
+Dans sa déclaration de revenus pour l’année d’imposition s’étant terminée le 31 août 2015, la bénéficiaire a déclaré la somme à titre de dividende imposable reçu et a inclus cette somme dans le calcul de son revenu, conformément à l’alinéa 104(13)a) de la Loi.
+Le ministre du Revenu national a établi une nouvelle cotisation à l’égard de la bénéficiaire pour l’année d’imposition s’étant terminée le 31 août 2016 concernant l’impôt à payer en vertu de la partie IV de la Loi sur les dividendes imposables reçus de 1 967 731,25 $.
+RÉFÉRENCE :
+2023 CCI 135
+NOS DES DOSSIERS DE LA COUR :
+2020-1216(IT)G
+2020-1231(IT)G
+INTITULÉS :
+Vefghi Holding Corp. c. Sa Majesté le Roi
+S.O.N.S. Environmental Ltd. c. Sa Majesté le Roi
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 22 septembre 2022
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Steven K. D’Arcy
+DATE DE L’ORDONNANCE :
+Le 5 septembre 2023
+COMPARUTIONS :
+Avocats des appelantes :
+Me Robert Carvalho
+Me Alvin T.L. Lun
+Avocats de l’intimé :
+Me Spencer Landsiedel
+Me Whitney Dunn
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Noms :
+Me Robert Carvalho
+Me Alvin T.L. Lun
+Cabinet :
+Thorsteinssons LLP
+Vancouver (Colombie-Britannique)
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] L.R.C. 1985, ch.1 (5e suppl.).
+[2] Je suppose que Vefghi Corp. a demandé une déduction au titre du paragraphe 112(1) pour le montant total du dividende imposable.
+[3] Je suppose que S.O.N.S. a demandé une déduction au titre du paragraphe 112(1) pour le montant total du dividende imposable.
+[4] Richard Gervais et al., Taxation of Private Corporations and Their Shareholders, 5e éd. Toronto (Ontario), Fondation canadienne de fiscalité, 2020.
+[5] Ibid., Linda Woo et Gavin Friedley, « Dividend Taxation and the Passive Income Rules », chap. 9, p. 41.
+[6] Fiducie financière Satoma c. La Reine, 2017 CCI 84, conf. par 2018 CAF 74.
+[7] Les sociétés assujetties doivent également payer cet impôt. Selon le paragraphe 183(3), la société assujettie s’entend d’une société, sauf une société privée, qui réside au Canada et qui est contrôlée, au moyen d’un droit de bénéficiaire sur une fiducie ou autrement, par un particulier ou par un groupe lié de particuliers, ou pour le compte d’un tel particulier ou groupe.
+[8] Le pourcentage était de 33 1/3 % pour les années d’imposition qui se terminaient avant le 31 décembre 2016. Une règle transitoire spéciale s’appliquait aux années d’imposition chevauchant le 31 décembre 2015.
+[9] L’alinéa 186(1)b) prévoit qu’une société privée est tenue de payer l’impôt de 38 1/3 % de la partie IV sur les dividendes imposables déterminés selon la proportion dans laquelle la société rattachée a reçu un remboursement au titre de dividendes en vertu de l’article 129 pour son année d’imposition au cours de laquelle elle a versé le dividende.
+[10] Sauf lorsqu’il s’agit de déterminer si une société est une société assujettie.
+[11] Sauf la partie XIII.
+[12] Le montant peut également être inclus en vertu du paragraphe 104(14) ou de l’article 105.
+[13] Voir les Notes explicatives du ministère des Finances, 24 octobre 2012, paragraphe 104(19).
+[14] Hypothèques Trustco Canada c. Canada, 2005 CSC 54.
+[15] R. c. Verrette, [1978] 2 R.C.S. 838.
+[16] Avant 2001, le dividende était réputé ne pas avoir été reçu par la fiducie. Les Notes explicatives du ministère des Finances publiées en mars 2001 précisent que le paragraphe 104(19) a été modifié de façon à ce qu’une fiducie, « sauf aux fins de la majoration du dividende en application de l’alinéa 82(1)b) et des règles sur la minimisation des pertes aux alinéas 107(1)c) et d) et à l’article 112, la fiducie sera réputée avoir reçu les dividendes même si elle les attribue à un bénéficiaire ».
+[17] Voir par exemple la décision Moules Industriels (C.H.F.G.) inc. c. La Reine, 2018 CCI 85, aux paragraphes 82 à 84.

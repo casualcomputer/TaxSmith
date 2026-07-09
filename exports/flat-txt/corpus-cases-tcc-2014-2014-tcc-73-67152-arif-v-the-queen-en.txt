@@ -1,0 +1,115 @@
+Title: Arif v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/67152/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-73-67152-arif-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-02-24
+
+# Arif v. The Queen
+
+- Citation: 2014 TCC 73
+- Decision date: 2014-02-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5642, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arif v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-02-24
+Neutral citation
+2014 TCC 73
+File numbers
+2012-4694(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-4694(IT)I
+BETWEEN:
+ADNAN ARIF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 24, 2014 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+Mohammed Amin Miah
+Counsel for the Respondent:
+Lindsay Beelen
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2007 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the income of the appellant should be reduced by $500. The parties shall bear their own costs.
+Signed at Ottawa, Ontario this 6th day of March 2014.
+“J.M. Woods”
+Woods J.
+Citation: 2014 TCC 73
+Date: 20140306
+Docket: 2012-4694(IT)I
+BETWEEN:
+ADNAN ARIF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Adnan Arif appeals from a reassessment made under the Income Tax Act which assumed that Mr. Arif earned gross business income in the amount of $48,500 in the 2007 taxation year. Mr. Arif submits that $35,000 of this amount was sourced from casino winnings and not from his business.
+[2] As a preliminary matter, the respondent informed the Court that the reassessment contained an arithmetic error and that the income should be reduced by $500. A correction for this amount will be reflected in the judgment attached to these reasons.
+Background
+[3] Mr. Arif testified that in the 2007 taxation year he operated a sole proprietorship in which he negotiated benefits with insurance companies on behalf of clients for a fee. He said that he was in this business for about a year, and after that the business was discontinued due to new regulations governing paralegals.
+[4] Mr. Arif was delinquent in filing an income tax return for this year. Accordingly, on December 1, 2008 the Minister issued an assessment for that year without reviewing a return. The assessment assumed that Mr. Arif earned gross and net business income in the amount of $53,260.
+[5] Subsequently, on July 30, 2009 Mr. Arif filed an income tax return. In it, Mr. Arif reported gross business income in the amount of $12,500 and net commission income in the amount of $7,155.
+[6] During the subsequent review of the return, on February 2, 2011 Mr. Arif provided the Canada Revenue Agency (CRA) with copies of statements of his business bank account for 2007. He also provided information as to the source of the deposits in the account as well as a reconciliation of the bank deposits and his reported income in the amount of $12,500.
+[7] Mr. Arif’s explanation to the CRA was contained in a chart which provided the information below.
+(a) Each bank deposit was categorized as being sourced from either business or non-business transactions. Mr. Arif categorized eight deposits totaling $11,660 as having a business source. He also categorized ten deposits totaling $35,000 as being sourced from casino winnings.
+(b) The eight deposits that were categorized as having a business source were $840 short of the business income that was reported on the income tax return. The chart provided to the CRA identified the $840 as business income paid in cash and not represented by a bank deposit.
+[8] On July 8, 2011, the Minister reassessed the 2007 taxation year to reduce gross business income to $48,500 and net business income to $44,820.
+[9] The only issue in this appeal is whether the Minister properly determined that the deposits of purported casino wins in the amount of $35,000 were actually sourced from a business.
+Discussion
+[10] The question to be decided is whether the ten deposits totaling $35,000 are from casino winnings, as Mr. Arif suggests, or from business income, as the Minister suggests.
+[11] Mr. Arif has the burden to establish at least a prima facie case that the deposits did not have a business source. For the reasons below, I have concluded that this burden has not been satisfied.
+[12] I would first comment that Mr. Arif’s case depends to a great extent on his own self-interested testimony. He did not introduce any other witnesses or provide any documents that supported his position.
+[13] The lack of supporting evidence is a problem for Mr. Arif because he is required by the Act to keep records to support his business income. Mr. Arif acknowledged that he kept no business records, and he justified this by saying that the business was too small. This is not an acceptable explanation for failing to comply with a legislative requirement that has the important objective of assisting in the verification of income reported by a taxpayer.
+[14] Second, Mr. Arif did not provide a persuasive explanation for how he determined which deposits were sourced from casino winnings. Mr. Arif provided this information to the CRA in 2011 which was long after the taxation year at issue.
+[15] Mr. Arif attempted to explain this by giving vague testimony that he kept contemporaneous handwritten notes of his casino results. These notes were not introduced at the hearing and I did not find this testimony to be reliable.
+[16] Third, Mr. Arif submitted records kept by the casino as to his daily wins and losses in 2007 (Exhibit A-1). These records show an aggregate net betting loss for the year in the amount of $12,995. The records do not correspond at all with the bank deposits which Mr. Arif suggests are from casino wins.
+[17] Mr. Arif testified that when he won money at the casino he promptly deposited it in the bank account. He attempted to explain the lack of correspondence between the casino records and the bank deposits by suggesting that the casino records were not accurate.
+[18] The records of daily wins and losses that are kept by the casino are based on bets that are recorded through the use of Mr. Arif’s casino rewards card. Mr. Arif testified that he did not use the rewards card for 60 to 70 percent of his bets. His explanation for not using the card was that it was commonly believed by casino patrons that if they used the rewards card they tended to lose money. This self-interested testimony is not reliable.
+[19] In addition, there is a further problem in relation to the casino records.
+[20] Mr. Arif testified that he routinely deposited casino wins into the bank account either on the same day or the next day. If this were the case, I would have thought that the wins recorded by the casino would be reflected in bank deposits. However, this is not the case.
+[21] According to the casino records, Mr. Arif won over $2,000 on five occasions in the period from May to November of 2007. Only one of these wins appears to coincide in time with a bank deposit (win on July 22 of $2,700 and a deposit on July 25 of $2,200).
+[22] The conclusion that I have reached based on the evidence as a whole is that the business income reported on Mr. Arif’s income tax return ($12,500) is an arbitrary figure. I am not satisfied that it bears any relation to reality.
+[23] I am also not satisfied that any of the bank deposits were sourced from casino wins. Even though there is a bank deposit of $2,200 that could possibly be sourced from a casino win, it is not appropriate to give Mr. Arif the benefit of the doubt with respect to this deposit given the weakness of Mr. Arif’s evidence overall.
+[24] The appeal will be allowed only with respect to the $500 error mentioned above.
+Signed at Ottawa, Ontario this 6th day of March 2014.
+“J.M. Woods”
+Woods J.
+CITATION: 2014 TCC 73
+COURT FILE NO.: 2012-4694(IT)I
+STYLE OF CAUSE: ADNAN ARIF and HER MAJESTY
+THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 24, 2014
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: March 6, 2014
+APPEARANCES:
+Agent for the Appellant:
+Mohammed Amin Miah
+Counsel for the Respondent:
+Lindsay Beelen
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

@@ -1,0 +1,185 @@
+---
+title: "Kufsky v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/424142/index.do"
+last_modified: "2019-11-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 254"
+citation2: ""
+neutral_citation: "2019 TCC 254"
+decision_date: "2019-11-07"
+language: "en"
+item_id: "424142"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4272
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:00:09.029000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "36d0f274d39a11300c37e040805bf2441b2f573047e40000b8d27c14650d3cf5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kufsky v. The Queen
+
+- Citation: 2019 TCC 254
+- Decision date: 2019-11-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4272, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kufsky v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-11-07
+Neutral citation
+2019 TCC 254
+File numbers
+2017-3092(IT)G
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-3092(IT)G
+BETWEEN:
+MICHELLE KUFSKY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 7, 2019, at Ottawa, Ontario
+By: The Honourable Justice Ronald MacPhee
+Appearances:
+Counsel for the Appellant:
+George Boyd Aitken
+Counsel for the Respondent:
+Cedric Renaud-Lafrance
+JUDGMENT
+The Appeal from reassessment number 3772285, Notice of Confirmation dated April 21, 2017 is dismissed, with costs payable by the Appellant to the Respondent in accordance with the Tariff.
+Signed at Ottawa, Canada, this 7th day of November 2019.
+“R. MacPhee”
+MacPhee J.
+Citation: 2019 TCC 254
+Date: 20191107
+Docket: 2017-3092(IT)G
+BETWEEN:
+MICHELLE KUFSKY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+MacPhee J.
+I. INTRODUCTION
+[1] Michelle Kufsky (the “Appellant”) appeals from a third party assessment issued by the Minister of National Revenue (the “Minister”) pursuant to section 160 of the Income Tax Act, RSC 1985, c 1 (5th Supp) (the “Act”) in respect of a tax debt owed by Mon Refuge Décor Inc. (the “Corporation”).
+II. ISSUE
+[2] The issue is whether the Appellant may be held jointly and severally liable for $68,615.69 in income taxes previously assessed against the Corporation pursuant to section 160 of the Act.
+III. FACTS
+[3] The Appellant worked in the marital home for a number of years but became involved in business after the Kufsky children grew up and left the home. Her business involvement culminated in her ownership (she was also director) of the Corporation, a home décor business.
+[4] The Corporation was managed by the Appellant and her husband and provided interior home decorating and furnishing advice and products primarily for condominiums in the area of Mont-Tremblant, Québec. The Corporation had an internal bookkeeper and an external accountant but the Kufsky’s themselves are not particularly familiar with accounting and tax matters. Shortly before and during the relevant time period before the Court the Appellant and her husband changed accountants after being with their previous accountants for 30 years. The transition to the new accountant did not go smoothly, ultimately leading to a statement of claim being filed against the new accountant.
+[5] The business of the Corporation succeeded for a number of years but, following the financial crisis in 2008, took a turn for the worst and ultimately ceased operations with a significant unpaid tax debt. This tax debt accrued in respect of the Corporation’s 2008 and 2010 taxation years. The majority of this tax debt and the accrued interest remain outstanding.
+[6] From 2009 to 2011, the Corporation issued T5 slips stating that it had paid dividends to Ms. Kufsky according to the following schedule:
+2009: $35,000.00
+2010: $15,000.00
+2011: $35,000.00
+[7] However, these amounts had not been reported by the Appellant in their initial tax filings. To correct this, on July 30, 2012, the Accountant filed T1 Adjustment Requests on behalf of the Appellant which reported that the above amounts were received by the Appellant as dividends.
+[8] The Appellant contends that these reported dividend receipts were not in line with actual payments received by her but represented an annual “balancing of the books” to reconcile the Appellant’s use of corporate accounts during the year. The Appellant did not sign the T1 Adjustment requests filed by the Accountant and the Appellant testified that corporate resolutions were never passed in respect of the dividends.
+[9] The Appellant and her husband provided evidence that there had been civil litigation and a settlement with her Accountant regarding services rendered during the relevant years. Two of the issues in the civil litigation was the recording of payments the Appellant received from the company as a dividend, as well as subrogated preparation and filing of the T1 Adjustment requests. The civil litigation was settled prior to this proceeding. The knowledge I have concerning the settlement is extremely limited, as it had been settled on a without prejudice basis.
+[10] On June 7, 2013, the Minister reassessed the Appellant as being jointly and severally liable for the tax debt of the Corporation pursuant to section 160 of the Act. On June 13, 2013, the Appellant objected to the reassessment.
+[11] After the Corporation filed amended T2 returns of income for the Corporation’s 2008 and 2010 taxation years, the Minister reassessed the Appellant again under subsection 160(1) of the Act for the revised amount of $68,615.69 by notice dated April 11, 2016.
+IV. ANALYSIS
+[12] The analysis in The Queen v Livingston, 2008 FCA 89 concerning section 160 of the Act is often applied by this Court. In Livingston the Federal Court of Appeal affirmed the four step common law test used to determine whether a section 160 assessment may stand. These four steps can be summarized as follows:
+1) the transferor must be liable to pay tax under the Act at the time of the transfer;
+2) there must be a transfer of property either directly or indirectly by any means whatever;
+3) the transferee must be someone with whom the transferor was not dealing at arm’s length; and
+4) The fair market value of the property transferred must exceed the fair market value of the consideration given by the transferee. [1]
+[13] Steps 1 and 3 of the above test were clearly met and admitted by the Appellant. Steps 2 and 4 of the above noted test were contested at trial.
+[14] The Appellant makes three arguments with respect to why her circumstances did not satisfy steps 2 or 4 of the Livingston framework. These arguments are: (1) there was consideration provided by her for the dividends she received; (2) the dividends were not a transfer of property because they did not occur at law due to of non-compliance with the provincial corporate law; and (3) a portion of the dividends were actually loan repayments.
+[15] I will consider each of these in turn.
+(1) There was consideration for the dividends
+[16] The Appellant argues that there was in fact consideration for the dividends paid to her because, in the years in which dividends were reported, she was owed salary amounts.
+[17] The seminal case on this matter is Neuman v Minister of National Revenue, [1998] 1 SCR 770 (SCC). In Neuman, the Supreme Court of Canada held that the payment of a dividend relates to the entitlement of the shareholder to a capital interest in a corporation and not to any other consideration the corporation may receive from the shareholder.
+[18] The Tax Court has ruled on this issue in several appeals, consistently finding that the right of a shareholder to receive a dividend flows from his or her status as a shareholder and not from any consideration the shareholder may have given. In other words, dividends attach to the shares and not to the shareholder.
+[19] In Algoa Trust v R, [1993] 1 CTC 2294, 93 DTC 405 (TCC), Justice Rip, as he then was, found that a dividend was a transfer of property within the meaning of subsection 160(1). In doing so, he wrote:
+When a corporation pays a dividend to its shareholders the corporation gives or hands over property to its shareholders. Property is taken from the patrimony of a corporation and placed in the patrimony of a shareholder. When the dividend is declared, the corporation becomes indebted to the shareholder. When the dividend is paid, the corporation divests itself of ownership of the money (or other property) used to pay the dividend. [2]
+[20] The Appellant therefore cannot be successful on the basis that she provided consideration for the dividends.
+(2) The dividends did not occur because of non-compliance with the provincial corporate law
+[21] The Appellant argued that the dividends reported in her tax return did not occur because they did not comply with section 38 of the Ontario Business Corporations Act, RSO 1990, c B.16, which provides that a dividend must be declared by the directors and shall not be declared if there are reasonable grounds for believing the corporation is insolvent:
+38(1) Subject to its articles and any unanimous shareholder agreement, the directors may declare and a corporation may pay a dividend by issuing fully paid shares of the corporation or options or rights to acquire fully paid shares of the corporation and, subject to subsection (3), a corporation may pay a dividend in money or property.
+…
+(3) The directors shall not declare and the corporation shall not pay a dividend if there are reasonable grounds for believing that,
+(a) the corporation is or, after the payment, would be unable to pay its liabilities as they become due; or
+(b) the realizable value of the corporation’s assets would thereby be less than the aggregate of,
+(i) its liabilities, and
+(ii) its stated capital of all classes. [3]
+[22] Leaving aside the discretionary component of ss. 38(3) of the above legislation, I still find that this argument does not assist the Appellant. In short, the fact that the reported dividends did not comply with the provincial corporate law does not invalidate them for tax purposes. As per section 253 of the Ontario Business Corporations Act, supra, a breach of the provincial law may be punished with penalties or may allow an aggrieved party to bring an application for relief. However, nowhere is it stated that non-compliance with the statute voids a reported dividend for the purposes of a section 160 assessment.
+[23] In Larouche v R, 2010 FCA 32, the Federal Court of Appeal considered a similar case in which a taxpayer argued the treatment of a dividend must be determined based on principles of provincial corporate and civil law. The Federal Court of Appeal did not accept this argument and stated that a reported dividend, even if not in compliance with the provincial statute, remains valid for tax purposes:
+Dividends are property within the meaning of the Act: see subsection 248(1). According to case law, there is no doubt that the payment of dividends is a transfer of property within the meaning of section 160.
+In addition, it is difficult to see how the legal treatment of a dividend under corporate and civil law would prevent Parliament from regarding that dividend, for tax purposes, as a transfer of property without consideration when made by persons who are not dealing at arm's length. [4]
+(3) A portion of the dividends were loan repayments
+[24] The Appellant also argues that a portion of the dividends were in fact loan repayments. The Appellant tendered evidence which showed that a transfer of monies occurred from the Appellant’s mother-in-law to the Corporation. The Appellant contends this was used to purchase a motor vehicle which the Appellant used in respect of the business.
+[25] However, this does not change the fact that the dividends which are at the heart of this Appeal were reported as dividends issued by the Corporation and received by the Appellant. Other than the brief testimony of the Appellant, I have no other evidence that supports the contention that the amounts in issue were loan repayments.
+[26] For the Appellant to be successful, it appears that I would have to deal with this matter as if it were an application for rectification, which is clearly outside this Court’s jurisdiction. I am not able to recharacterize what a taxpayer filed with the Minister. Justice Lamarre Proulx explained this in the analogous case of Côte v R, (2002) 2003 DTC 813 (TCC):
+There are different paths a taxpayer may take in organizing his affairs, and each of those paths entails a specific tax treatment. It is well-settled in tax matters that the Court must consider what the taxpayer has done. Here the taxpayer chose not to pay himself a salary but to take advances and to repay those advances by means of a dividend. The tax treatment of a dividend is different from the treatment of salaries or other payments for services rendered. Unfortunately, I can only conclude as follows: the corporation's payment of a dividend to the appellant in 1992 was a transfer of property within the meaning of section 160 of the Act, and no consideration was given in respect of that property because, according to corporate law and the provisions of the Act applicable in the instant case, the dividend in question is a share of the corporation's profits allocated to the appellant as a shareholder. It is not a salary or other payment for services rendered. [5]
+[Emphasis added]
+[27] Similarly, in Gestion André Pomerleau v R, 2008 TCC 539, Justice Angers quoted Justice Linden from Friedberg v R, [1991] FCJ No 1255 (FCA) to explain that when a taxpayer files their taxes and recognizes income in a particular way, they must take the advantages of that position along with the disadvantages:
+In tax law, form matters. A mere subjective intention, here as elsewhere in the tax field, is not by itself sufficient to alter the characterization of a transaction for tax purposes. If a taxpayer arranges his affairs in certain formal ways, enormous tax advantages can be obtained, even though the main reason for these arrangements may be to save tax (see The Queen v. Irving Oil, 91 D.T.C. 5106, per Mahoney J.A.). If a taxpayer fails to take the correct formal steps, however, tax may have to be paid. If this were not so, Revenue Canada and the courts would be engaged in endless exercises to determine the true intentions behind certain transactions. Taxpayers and the Crown would seek to restructure dealings after the fact so as to take advantage of the tax law or to make taxpayers pay tax that they might otherwise not have to pay. While evidence of intention may be used by the Courts on occasion to clarify dealings, it is rarely determinative. In sum, evidence of subjective intention cannot be used to 'correct' documents which clearly point in a particular direction. [6]
+[Emphasis added]
+[28] By reporting the relevant amounts as dividends and receiving the potentially better tax treatment of a dividend, Ms. Kufsky cannot now succeed in claiming that those payments were salary or loan repayments for the purposes of a section 160 assessment. I am unable to view these amounts in any other manner.
+V. CONCLUSION
+[29] Given my conclusion as set out above the Appeal must be dismissed with costs payable by the Appellant to the Respondent in accordance with the Tariff.
+Signed at Ottawa, Canada, this 7th day of November 2019.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2019 TCC 254
+COURT FILE NO.:
+2017-3092(IT)G
+STYLE OF CAUSE:
+MICHELLE KUFSKY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+October 7, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+November 7, 2019
+APPEARANCES:
+Counsel for the Appellant:
+George Boyd Aitken
+Counsel for the Respondent:
+Cedric Renaud-Lafrance
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Queen v Livingston, supra, at para 17.
+[2] Algoa Trust v R, supra, at para 46.
+[3] Business Corporations Act, supra, s 38.
+[4] Larouche v R, supra, at paras 9-10.
+[5] Côte v R, [2002] TCJ No 76 at para 24, 2003 DTC 813 (TCC).
+[6] Friedberg v R, [1991] FCJ No 1255 at 6032, 92 DTC 6031(FCA).

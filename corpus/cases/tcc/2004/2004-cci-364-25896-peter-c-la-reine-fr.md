@@ -1,0 +1,96 @@
+---
+title: "Peter c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25896/index.do"
+last_modified: "2004-06-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 364"
+citation2: ""
+neutral_citation: "2004 CCI 364"
+decision_date: "2004-06-14"
+language: "fr"
+item_id: "25896"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3694
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:21:41.004000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "09ddac9cd39261561e4306e305c413c629a5d163bee6cac503b37646896021ae"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Peter c. La Reine
+
+- Citation: 2004 CCI 364
+- Decision date: 2004-06-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3694, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Peter c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-14
+Référence neutre
+2004 CCI 364
+Numéro de dossier
+2001-2293(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI364
+Date : 20040614
+Dossier : 2001‑2293(IT)I
+ENTRE :
+VERNON PETER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Avocat de l’appelant : Me C. Michael Ollier Avocate de l’intimée : Me Bonnie Boucher
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+à Hamilton (Ontario), le 22 mars 2004)
+Le juge McArthur
+[1] Les présents appels sont interjetés par Vernon Peter à l’encontre d’une décision du ministre du Revenu national refusant la déduction d’un crédit d’impôt non remboursable à l’égard d’une invalidité pour les années d’imposition 1998 et 1999. Selon les hypothèses de fait et la position du ministre, à aucun moment au cours des années d’imposition 1998 et 1999 l’appelant n’était atteint d’une déficience mentale ou physique grave et prolongée dont les effets étaient tels que la capacité de l’appelant d’accomplir une activité courante de la vie quotidienne était limitée de façon marquée, toujours ou presque toujours, même avec des soins thérapeutiques, et l’aide des appareils et des médicaments indiqués.
+[2] Les deux parties ont fait référence aux articles 118.3 et 118.4 de la Loi de l’impôt sur le revenu. Dans son avis d’appel, l’appelant énonce brièvement plusieurs incapacités, dont la plus grave affecte sa vision (kérato‑conjonctivite sèche), en plus de la dépression, de l’anxiété et du diabète de type II. Il déclare ce qui suit :
+[TRADUCTION]
+[…] à cause de la kérato-conjonctivite sèche, je suis incapable de garder mes yeux ouverts pendant plus de quatre heures. Je dois habituellement garder mes yeux complètement férmés pendant environ une heure sur quatre. De plus, ma vision est trouble et je suis atteint de photophobie. À cause de ma dépression et de mon anxiété, je suis souvent replié sur moi-même et j’évite de sortir de chez moi à cause d’une incapacité d’interagir avec les gens. J’estime que mon diabète est grave et incontrôlable du fait que je suis allergique à l’insuline.
+Pour résumer, l’appelant, âgé d’environ 45 ans, a travaillé pour l’aciérie Dofasco jusqu’en 1992 ou 1993; il a alors été mis en congé d’invalidité, et il y est toujours. L’invalidité découle de l’exposition, dans son travail, à un éclairage à haute intensité qui a gravement endommagé sa vision.
+[3] L’appelant a indiqué en interrogatoire et en contre-interrogatoire qu’il est obligé de porter d’épaisses lunettes de soleil qui lui ont été prescrites par un médecin, bien qu’elles puissent être achetées facilement sans ordonnance et qu’il n’a pas besoin d’ordonnance pour acheter les siennes. Il a indiqué que sa routine quotidienne, y compris celle au cours des deux années en cause, est telle qu’il reste au lit jusque vers midi. Il fonctionne très mal en plein jour à cause des restrictions relatives à sa vision. Après avoir mangé, vers midi, il fait de l’exercice afin de réduire les effets de son diabète, puis il fait une sieste et ne sort pas du tout, ou presque pas, en plein jour. Il habite avec sa mère. Il conduit une automobile dans une certaine limite, mais pendant de courtes périodes, et dans le voisinage immédiat de son domicile. Il ne peut conduire plus d’une heure. Il peut sortir, se rendre à la banque ou à l’épicerie, à des rendez‑vous médicaux et à tout autre rendez‑vous, mais si possible, il le fait après 18 h 30, selon la période de l’année. Une fois que la lumière du jour laisse la place à la brunante, s’il sort pendant plus d’une heure, il doit se reposer toutes les heures.
+[4] Il ressent une douleur constante. Les gouttes pour les yeux empirent sa situation, mais il utilise un lubrifiant parfois jusqu’à 20 fois par jour. Il a décrit son état comme étant une kérato‑conjonctivite sèche. Il peut lire pendant de très courtes périodes, mais son état empire s’il lit longtemps. Il peut s’habiller, préparer ses repas, faire de l’exercice et utiliser une bicyclette stationnaire, et ses jambes sont physiquement capables de l’amener là où il le désire. C’est sa vision qui limite considérablement ses activités de la vie quotidienne. En contre‑interrogatoire, il a déclaré que, si sa mère lui demande d’aller acheter du lait, il n’y va pas tant que la nuit n’est pas tombée. S’il le fait en plein jour, il tombe malade. Il a déclaré : [TRADUCTION] « Je vis dans un isolement total. Je fais de l’exercice à la maison. Je ne peux pas aller à une salle de conditionnement physique. »
+[5] À une occasion, on lui a demandé de faire un exposé, à l’invitation de la Commission des accidents du travail ou d’un organisme connexe. Il a dû partir avant d’avoir fait son exposé, car il n’a pu tolérer d’être exposé à la lumière. Il a déclaré : [TRADUCTION] « Si j’étais aveugle ou en fauteuil roulant, je pourrais fonctionner et peut‑être même aller à l’université. Mais dans ma situation actuelle, cela m’est impossible parce que j’ai besoin de beaucoup de temps pour lire et pour fonctionner en plein jour. Cela empire le problème et mes déplacements à pied sont gravement limités à cause de cela. » Il se couche finalement pour la soirée, ou pour la nuit vers 3 ou 4 heures du matin, et ne dort pas très bien. Il peut écouter la radio et de la musique. Il n’a pas été diagnostiqué comme étant légalement aveugle et ne porte pas de verres de prescription. S’il expose sa cornée à la lumière, celle‑ci enfle. La cornée de ses yeux a été brûlée à cause des conditions dans lesquelles il travaillait à la Dofasco.
+[6] L’intimée a appelé un témoin, le Dr Haines, qui a signé les Certificats pour le crédit d’impôt pour personnes handicapées qui ont été déposés sous les cotes R‑1 et R‑2 pour les années en litige. Le Dr Haines avait entendu la déposition de l’appelant (à laquelle il souscrivait) et a confirmé que, dans ses transactions professionnelles avec l’appelant, il a considéré ce dernier comme étant aveugle la plupart du temps à cause de cette restriction. Même s’il peut parfois lire, il est limité. Le médecin a fait référence au sous‑alinéa 118.4(1)c)(i) de la Loi qui traite de la vision. Le Dr Haines n’est pas ophtalmologue et a envoyé l’appelant consulter quatre ou cinq ophtalmologues au fil des années. En lisant leurs rapports, le Dr Haines en est venu à la conclusion que l’appelant était limité de façon marquée presque toujours et qu’il est aveugle ou incapable d’accomplir une activité courante de la vie quotidienne. Il fait référence au critère de « perception » du paragraphe 118(4). Il est arrivé à cette conclusion puisqu'il voyait l’appelant depuis environ 1994 ou 1995 et qu'il correspondait avec un spécialiste.
+[7] Je n’ai aucune difficulté à conclure, pour les fins du crédit d’impôt pour personnes handicapées, que l’appelant est effectivement aveugle. De plus, il a besoin d’un temps anormalement élevé pour accomplir les activités courantes de la vie quotidienne qui comprennent la perception. Je partage l’avis de l’avocat de l’appelant, Me Ollier, qui a soumis à la Cour l’arrêt Johnston c. La Reine,[1] et particulièrement le passage dans lequel la Cour reconnaît qu’il faut adopter un point de vue compatissant. Il a été répété à de nombreuses reprises qu’il faut interpréter les paragraphes 11.8(3) et 118(4) d’une manière humaine et compatissante.
+[8] L’appelant est très méritant, et les appels pour les années d’imposition 1998 et 1999 sont accueillis.
+Signé à Ottawa, Canada, ce 14e jour de juin 2004.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 10e jour de septembre 2004.
+Jacinthe Roy, traductrice
+[1] C.A.F., nos A‑347‑97, A‑348‑97, 6 février 1998 (98 DTC 619).

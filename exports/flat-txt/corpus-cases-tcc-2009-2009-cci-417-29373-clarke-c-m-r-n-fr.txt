@@ -1,0 +1,116 @@
+Title: Clarke c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29373/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-417-29373-clarke-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2009-09-01
+
+# Clarke c. M.R.N.
+
+- Citation: 2009 CCI 417
+- Decision date: 2009-09-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6877, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Clarke c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-01
+Référence neutre
+2009 CCI 417
+Numéro de dossier
+2008-3660(EI)
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-3660(EI)
+ENTRE :
+MICHELLE CLARKE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 août 2009, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Cam Regehr
+____________________________________________________________________
+JUGEMENT Conformément aux motifs du jugement ci‑joints, l’appel est accueilli en tenant compte du fait que Mme Clarke exerçait un emploi assurable pendant la période allant du 3 janvier au 20 décembre 2007.
+Signé à Ottawa, Canada, ce 1er jour de septembre 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 13e jour d’octobre 2009.
+Alya Kaddour‑Lord, traductrice
+Référence : 2009 CCI 417
+Date : 20090901
+Dossier : 2008-3660(EI)
+ENTRE :
+MICHELLE CLARKE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] Michelle Clarke a interjeté appel de la décision que le ministre du Revenu national (le « ministre ») a rendu à son égard, affirmant qu’elle exerçait un emploi donnant lieu à restriction au sens de l’alinéa 5(3)b) de la Loi sur l'assurance-emploi (la « Loi »).
+[2] L’alinéa 5(3)b) de la Loi est ainsi rédigé :
+(3) Personnes liées – Pour l’application de l’alinéa (2)i) :
+[…]
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[3] Il ne fait aucun doute que By-Son Enterprises Ltd. et Mme Clarke sont « liées », considérant que l’appelante est l’épouse du directeur de la société. À la lumière des faits dont il disposait, le ministre du Revenu national (le « ministre ») n’était pas convaincu que By‑Son Enterprises Ltd. et Mme Clarke auraient conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance.
+[4] La jurisprudence a établi qu’il fallait faire preuve de retenue judiciaire à l’égard de la décision rendue par le ministre en vertu du pouvoir discrétionnaire que lui confère l’alinéa 5(3)b)[1]. Il n’appartient pas à la Cour de tout bonnement substituer sa décision à celle du ministre; il s’agit plutôt de convaincre la Cour que le ministre a mal interprété les faits ou que l’exposé de ces faits était incomplet. En l’espèce, je suis convaincue que le ministre n’a pas pu se faire une idée précise des conditions dans lesquelles Mme Clarke exerçait son emploi.
+[5] Afin de comprendre la véritable nature de l’emploi exercé par l’appelante en 2007, il est important de se remettre en contexte. Mme Clarke et son époux, Byron Clarke, directeur de By-Son Enterprises Ltd., vivaient près de Denzel, petite communauté rurale de l’ouest de la Saskatchewan.
+[6] Pendant toute la période en cause en l’espèce, By-Son Enterprises Ltd. fournissait des services secondaires à des sociétés travaillant dans les champs de pétrole de l’Alberta. Les impératifs de l’industrie exigeaient que les employés de By‑Son Enterprises Ltd. soient disponibles sur le terrain sept jours sur sept et vingt‑quatre heures sur vingt-quatre. Par conséquent, M. Clarke et deux ou trois employés effectuaient des quarts de travail en rotation, partageant leur temps entre le travail sur le terrain et le siège social de la société, en Saskatchewan : ils passaient normalement 21 jours dans le champ de pétrole et quatre ou cinq jours « en dehors ».
+[7] De janvier à avril 2007, By-Son Enterprises Ltd. a employé Mme Clarke, qui s’occupait du transport des employés, de l’équipement et du matériel entre le siège social de la société en Saskatchewan et les champs de pétrole de l’Alberta. À l’époque, elle travaillait également comme employée occasionnelle auprès d’un cabinet médical et de deux coopératives de la communauté. Pendant ce temps, son époux travaillait au loin, dans les champs de pétrole albertains, se consacrant à la prospérité de sa société.
+[8] Étant donné que By-Son Enterprises Ltd. mettait alors sur pied ses opérations en Alberta et que Mme Clarke n’avait encore jamais exercé le type d’emploi demandé, la société a eu des difficultés à établir un énoncé de travail précis et à fixer le montant exact de son salaire. Toutefois, aussi bien Mme Clarke que By-Son Enterprises Ltd. comprenaient la nature générale de l’emploi que Mme Clarke s’apprêtait à exercer. Ils étaient également en mesure d’estimer les coûts que Mme Clarke devrait assumer dans le cadre de ses fonctions : l’usure de son véhicule, les frais d’essence et de réparations et les offres d’emploi local auxquelles elle devrait renoncer. Tout en gardant ces données à l’esprit, Mme Clarke et By-Son Enterprises Ltd. ont conclu une entente verbale en vertu de laquelle il était convenu que Mme Clarke recevrait un montant raisonnable pour le temps qu’elle consacrerait à des tâches relatives au transport et qu’on lui rembourserait les dépenses qu’elle engagerait. Pour les raisons exposées ci‑dessous, By‑Son Enterprises Ltd. n’a pas versé de salaire à Mme Clarke pendant la période allant de janvier à novembre 2007.
+[9] En mai 2007, la banque avec laquelle By-Son Enterprises Ltd. faisait affaire a connu des difficultés, indépendantes du présent appel. Ces circonstances, conjuguées au désir de la société de mettre de l’ordre dans ses dossiers et au fait que l’ancienne commis aux écritures demeurait dans une autre communauté, située à environ 45 minutes de Denzel, ont incité By-Son Enterprises Ltd. à offrir à Mme Clarke un nouveau poste d’administratrice. À la même période, By-Son Enterprises Ltd. a remis ses livres comptables et ses dossiers entre les mains de son comptable afin que celui‑ci les étudie et les mette à jour. Ces documents n’ont pas été restitués avant novembre 2007.
+[10] Dans le cadre de ses nouvelles fonctions, Mme Clarke a repris à sa charge les tâches qu’accomplissait l’ancienne commis aux écritures de la société, avec la responsabilité additionnelle de mettre en place un nouveau système de tenue des documents financiers, d’y transférer les dossiers existants et d’y consigner les données courantes. Quand, quelques temps plus tard, Mme Clarke a constaté qu’elle était enceinte, elle a également dû se charger de former son époux au nouveau système de comptabilité.
+[11] Détentrice d’un diplôme en administration des affaires[2], Mme Clarke avait les compétences requises pour exécuter des tâches de comptabilité générale. Toutefois, étant donné qu’elle n’avait pas suivi de cours spécialisés sur les questions de paie, By‑Son Enterprises Ltd. a engagé un consultant afin de la former et de l’aider à tout mettre en place. Tandis qu’elle améliorait ses connaissances en matière de paie et qu’elle réorganisait la gestion administrative de la société, Mme Clarke a rencontré à deux reprises l’ancienne commis aux écritures, qui l’a aidée à mener à bien la transition.
+[12] Mme Clarke coûtait plus cher à la société que l’ancienne commis aux écritures, qui avait fourni des services de comptabilité à temps partiel au sujet de plusieurs questions d’intérêt local. En plus d’avoir repris à sa charge les tâches de comptabilité, Mme Clarke était chargée de confirmer l’exactitude des reçus et des factures de By‑Son Enterprises Ltd., d’enregistrer le kilométrage effectué par les véhicules utilisés dans le cadre des opérations interprovinciales de la société et d’en faire rapport à l’assureur de la société, et de rapprocher les montants reçus au titre des services rendus par la société avec les montants facturés aux clients. L’ancienne commis aux écritures avait été payée pour son travail à temps partiel sur une base horaire. Mme Clarke et By-Son Enterprises Ltd. avaient conclu une entente verbale selon laquelle Mme Clarke recevrait un salaire fixe de 1 000 $ par mois en échange des tâches comptables et administratives dont elle s’acquitterait. Dans ces circonstances, il est compréhensible que les gains de Mme Clarke aient différé de ceux de l’ancienne commis aux écritures.
+[13] Il s’est avéré que Mme Clarke n’a pas été rémunérée pour les services qu’elle a offerts sur le terrain ou pour avoir exercé les fonctions d’administratrice de la société jusqu’en novembre 2007. J’accepte l’explication de Mme Clarke voulant que cela soit dû, en partie, au temps qu’elle a consacré à réorganiser les livres comptables de la société, y compris le délai nécessaire au comptable pour effectuer l’analyse et la révision des documents financiers, au passage de l’ancien système au nouveau, au fait que la fin de la période de déclaration aux fins de la TPS et la fin d’exercice de la société se chevauchent, aux imprévus associés au fait de constituer une nouvelle société dans une économie soumise à de fortes tensions et à sa propre inexpérience dans certains aspects de ses fonctions. Toutefois, pendant toute cette période, By-Son Enterprises Ltd. a offert de payer des avances à Mme Clarke, comme elle l’avait fait pour un ou deux autres employés. Mme Clarke a décliné cette offre, pensant que sa tâche consistant à remettre en ordre les dossiers de la société s’en trouverait d’autant plus compliquée. D’autant qu’elle devait continuer de s’initier au nouveau système de paie. Finalement, elle n’avait aucune raison de douter de la société, qui lui avait assuré qu’elle serait payée conformément à leur entente verbale. En attendant, elle était satisfaite de pouvoir compter sur son autre emploi afin de combler ses besoins financiers.
+[14] Mme Clarke ne se prétendait pas une experte de l’économie de l’Ouest canadien rural. Toutefois, la description qu’elle a faite de ses expériences d’employée et de résidente de cette région était totalement crédible. Elle a déclaré qu’il était habituel, pour des entreprises aussi précaires que celles œuvrant dans les domaines du commerce du pétrole et de l’agriculture, de devoir patienter avant de récolter les fruits de leur travail. Par exemple, elle a déclaré avoir été employée comme commis aux écritures par une société agricole avec laquelle elle n’avait aucun lien de dépendance et avoir dû attendre 8 mois et demi pour être payée. Dans la même veine, elle a expliqué que By-Son Enterprises Ltd. avait dû attendre jusqu’en avril 2007 pour être payée pour des services rendus à des sociétés de l’Alberta en janvier de la même année. Mme Clarke et son époux (en tant que président de By-Son Enterprises Ltd.) avaient coutume de devoir attendre que la société ait réalisé ses revenus avant d’être eux-mêmes rémunérés.
+[15] En novembre, quand le comptable a terminé l’analyse des dossiers de la société, les livres comptables ont été rendus à Mme Clarke, qui, d’ici là, avait mis en place le nouveau système. La société lui a rapidement émis des chèques, comme promis, au titre de ses salaires des mois passés. Toutes les déductions et versements nécessaires ont été faites à ce moment[3]. Son salaire du mois suivant, le mois de décembre, lui a été versé par chèque le 9 janvier 2008. Le léger retard enregistré dans ce qui était, à tous les autres égards, un paiement en temps opportun, est compréhensible compte tenu de deux événements significatifs survenus ce mois‑là : les fêtes de fin d’année et la naissance de l’enfant de Mme Clarke le 22 décembre 2007.
+[16] Selon l’avocat de l’intimée, la décision du ministre a surtout été influencée par la manière dont Mme Clarke a été rémunérée. Cette décision était sans doute compréhensible, dans la mesure où le ministre n’avait pas eu l’occasion d’entendre une explication détaillée au sujet de toutes les circonstances de l’emploi de Mme Clarke. Toutefois, il convient d’interpréter ce qui est raisonnable au sens de l’alinéa 5(3)b) à la lumière des circonstances entrant en compte pendant la période en cause pour l’employé et l’employeur concernés. La question est de savoir si, dans ces circonstances, les individus en cause auraient conclu un contrat de travail « à peu près semblable » s’ils n’avaient pas eu de lien de dépendance. À la lumière de la preuve fournie par Mme Clarke à l’égard de son emploi, preuve tout à la fois crédible, exhaustive et bien préparée, je suis convaincue, à la lumière des motifs susmentionnés, qu’il convient de conclure que Mme Clarke et By-Son Enterprises Ltd. auraient conclu un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance.
+[17] L’appel est accueilli en tenant compte du fait que Mme Clarke exerçait un emploi assurable pendant la période allant du 3 janvier au 20 décembre 2007.
+Signé à Ottawa, Canada, ce 1er jour de septembre 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 13e jour d’octobre 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2009 CCI 417
+NO DU DOSSIER DE LA COUR : 2008-3660(EI)
+INTITULÉ : Michelle Clarke et Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE : Le 26 août 2009
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 1er septembre 2009
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimé :
+Me Cam Regehr
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Pérusse c. Canada (Ministre du Revenu national), [2000] A.C.F. n° 310 (C.A.F.); Porter c. M.R.N., [2005] A.C.I. n° 266.
+[2] Pièce A-1.
+[3] Pièce A-2.

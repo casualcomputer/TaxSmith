@@ -1,0 +1,193 @@
+---
+title: "Gilao v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/460378/index.do"
+last_modified: "2020-01-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 14"
+citation2: ""
+neutral_citation: "2020 TCC 14"
+decision_date: "2020-01-23"
+language: "en"
+item_id: "460378"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4250
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:12:20.723000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b78e611f941ec892d82e95ca76fb71116fc47cc4f1a1168bb8bb447d5a0b4d23"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gilao v. The Queen
+
+- Citation: 2020 TCC 14
+- Decision date: 2020-01-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4250, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gilao v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-01-23
+Neutral citation
+2020 TCC 14
+File numbers
+2018-1781(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-1781(IT)I
+BETWEEN:
+MOHAMMED GILAO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on June 25, 2019, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Agent for the Appellant:
+Ahmed Abdallah
+Counsel for the Respondent:
+Kevin Hong
+JUDGMENT
+WHEREAS the Court has written its Reasons for Judgment on this date.
+NOW THEREFORE the appeal in respect of the Appellant’s 2011, 2012 and 2013 taxation years is hereby dismissed, without costs.
+Signed at Toronto, Canada, this 23rd day of January 2020.
+“R.S. Bocock”
+Bocock J.
+Citation: 2020TCC14
+Date: 20200123
+Docket: 2018-1781(IT)I
+BETWEEN:
+MOHAMMED GILAO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+[1] The Appellant, Mr. Gilao, has not filed income tax returns for the 2011, 2012 and 2013 taxation years (the “appeal years”). As a result, the Minister assessed Mr. Gilao for those years under section 152(7) of the Income Tax Act, RSC 1985, c.1, as amended (the “ITA”). The Minister also levied failure to file penalties and assessed arrears interest on the unreported income for the appeal years.
+[2] The assessment under 152(7) included employment income received from several different employers over the appeal years. The Minister gave credit for certain non-refundable tax credits and amounts deducted and remitted at source. Mr. Gilao does not challenge these calculations, the necessity for the arbitrary assessment or the methodology.
+[3] Mr. Gilao takes exception with the following calculations in the Minister’s assessment:
+a) The non-recognition of disability tax credits in respect of Mr. Gilao’s father otherwise accepted by the Minister in other tax years, but not for the appeal years or in 2010 (the “DTC issue”);
+b) The late filing penalties and arrears interest. Mr. Gilao seeks forgiveness of these amounts because he experienced personal family issues during the appeal years which took his time, attention and efforts away from filing his tax returns (the “late penalty issue”); and
+c) The non-recognition of the deductibility of certain employment expenses for 2010 and the appeal years (the “employment expenses”).
+I. DTC ISSUE
+[4] Testimony was received from Mr. Gilao at the hearing. There was no evidence in Mr. Gilao’s possession or produced at the hearing concerning the DTC issue. The contesting of the DTC issue was not present in the notice of appeal. Instead, Mr. Gilao’s submission concerning this issue was based upon the allowance of deductibility of expenses and granting the related disability tax credit in Mr. Gilao’s hands for certain taxation years before 2010 and after the appeal years. Mr. Gilao simply indicated the circumstances were identical in all years, but no documentation for 2010 or the appeal years existed.
+[5] The Court, as it stated at the hearing, cannot allow such a claim for several reasons. The DTC issue was not referenced in the notice of appeal. Taxation year 2010 is not before the Court. There is no evidence of any incurred expenses as a basis for the claim or of a completed request to the Minister concerning the appeal years. On this issue, the appeal fails.
+II. LATE FILING PENALTIES
+[6] No due diligence defence was offered by Mr. Gilao to the Court concerning the missing tax returns. It was indicated that prior to 2016, Mr. Gilao suffered some tragic family losses leading to depression. However, no tax returns for the appeal years have ever been filed. Each is now at least five and one-half years beyond the filing and balance due date. Mr. Gilao believes his personal circumstances alleviate his responsibility to file his tax returns on time. This may explain a delay; it does not excuse a complete omission. The fact remains that Mr. Gilao has never filed the tax returns for the appeal years. He has no excuse which rises to a due diligence defence afforded under the ITA. The penalties must stand. The arrears interest follows logically from that.
+III. EMPLOYMENT EXPENSES
+(1) Testimony at hearing
+[7] Mr. Gilao provided his oral testimony at the hearing concerning his employment during the appeal years. During those years, he worked for three community outreach and service associations dedicated to the noble task of assisting the settlement, community integration and social needs of Somali and Somali-Canadian immigrants.
+[8] Mr. Gilao testified that it was a financially lean, but dedicated organization funded entirely from government agencies, primarily that of Immigration Canada.
+[9] His tasks were varied, widespread and took him around the GTA. As executive director he supervised the centre, Mr. Gilao solicited funding from government, prepared reports, reported to the Board, ran the annual general meeting and administered the bank and payroll. Travel was required for meetings, workshops and various community gatherings. He testified he used his own car, and paid for fuel, parking, insurance and repairs. He estimated his mileage to be “not less than” 30,000 kilometres in each of the years. He stated that he had no capacity to track this without his records.
+[10] As to the share of expenses, Mr. Gilao was quite vague. He indicated his expenses in respect of employment were “not less than” $9,000, $9,000-$10,000 and $6000 to $7000 in each of 2011, 2012 and 2013, respectively.
+[11] During his testimony Mr. Gilao indicated he had many documents which he had elected not to collate and bring to the hearing. Mr. Gilao had anticipated that his freshly rejected request for an adjournment of two days before the hearing by the Chief Justice would be overturned by this trial judge. Mr. Gilao was wrong. Instead, Mr. Gilao’s oral evidence was heard. During that testimony, he stated that he had in his possession the following documents concerning the appeal years:
+a) Completed T2200s – Declarations of Conditions of Employment;
+b) Signed employment agreement(s);
+c) Car lease agreement(s);
+d) Vouchers, receipts and expense records for fuel, insurance and maintenance;
+e) Completed travel log; and
+f) Other summary records with his accountant.
+[12] As a result of such detailed recollection and certainty of information and records, the Court delayed argument and submissions. The Court gave Mr. Gilao two months to file these detailed, specific and probative documents and make submissions regarding same. Thirty days later, the Respondent would make submissions in reply and thirty days after that, the Appellant’s agent in rebuttal.
+[13] Mr. Gilao served his documents late. The Court amended its order to permit the Respondent more time to provide submissions followed by the Appellant’s reply submissions. All of this concluded on November 30, 2019. As such, the Court now renders its decision.
+(2) The post-hearing documents and submissions
+[14] Mr. Gilao’s agent submitted certain documents and made submissions. Mr. Gilao submitted the following documents:
+a) T2200 Declaration of Conditions of Employment for the 2011 taxation year dated May 3, 2014;
+b) T2200 Declaration of Conditions of Employment for the 2012 taxation year dated May 3, 2014;
+c) T2200 Declaration of Conditions of Employment for the 2018 taxation year dated May 3, 2014;
+d) Cantax software printout: T777A Allowable Automobile Expenses worksheet for the 2011 taxation year;
+e) Cantax software printout: T777A Allowable Automobile Expenses worksheet for the 2012 taxation year;
+f) Cantax software printout: T777A Allowable Automobile Expenses worksheet for the 2013 taxation year;
+g) Cantax software printout: Tax Return Summary for the 2011 taxation year;
+h) Cantax software printout: Tax Return Summary for the 2012 taxation year;
+i) Cantax software printout: Tax Return Summary for the 2013 taxation year;
+j) unsigned T1 General Return for the 2011 taxation year dated August 25, 2019;
+k) unsigned T1 General Return for the 2012 taxation year dated August 25, 2019;
+l) unsigned T1 General Return for the 2013 taxation year dated August 75, 2019;
+m) five service invoices issued by Family Honda to Ayah Osman with respect to a 2008 Honda Civic with various dates in 2013;
+n) transaction history from Honda Financial Services for Ayan Osman with respect to a lease of a 2009 Honda Civic dated August 22, 2014;
+o) transaction history from Honda Financial Services for Ayan M Osman with respect to a lease of a 2013 Honda Civic dated August 22, 2014; and
+p) 15 gas station receipts.
+[15] To assess the credibility of testimony the Court is permitted to focus upon comparative weaknesses, differences and gaps arising during different stages or sources of evidence, the demeanour of the witness, existence of motive to enhance testimony and the overall tenor of the evidence.
+(3) Analysis
+[16] There are critical conditions to be established before the deductibility of employment expenses from employment income is permitted: (a) was the expenditure and incurrence a necessary condition of employment? (b) is there evidence of the actual expense? and, (c) were the expenses incurred by the employee?
+(a) Necessary expenditure by employee as a condition of employment
+[17] The necessary expenditure by the employee may be established in several ways: a T2200 (Declaration of Conditions of Employment), a written employment contract or in the absence of either, some compelling evidence of a clear requirement as a condition.
+i) Existence of T2200
+[18] As noted, the hearing was held in June 2019. Mr. Gilao asserted he had executed T2200s for each taxation year, in addition to 2010. Based on those received, the Court notes that all T2200 documents were dated May 3, 2014. Certain versions had confusing indications of which terms applied. No version consistently described Mr. Gilao’s job title and description of duties consistently with any other year. In one year, 2011, a signatory spelled his or her own name differently from other years.
+ii) Evidence of Employment Terms
+[19] Mr. Gilao produced no written employment agreement. No representative of the employer testified at the hearing or provided other confirming evidence. Mr. Gilao’s testimony is the contractual evidence before the Court of the requirement of a motor vehicle as a condition of employment.
+(b) Evidence of Amounts of Expenses
+[20] Mr. Gilao submitted tax returns dated after the hearing date for each year under appeal. There was no evidence they have been filed with the Minister. These were generated utilizing a tax preparation software program. In each case, T777 schedules identified the aggregate employment expenses identified across the usual expense categories. The expenses recorded consisted of motor vehicle expenses: fuel, repairs and maintenance, lease payments, insurance and licence fees.
+[21] An examination of the T1 tax returns reveals:
+a) all were prepared and dated after the hearing date and are unsigned;
+b) each year contains an identical Schedule T777 claiming identical amounts within each year for each category of expense relating to lease payments, repairs and maintenance in 2 out of 3 years; and
+c) fuel costs were identical in 2012 and 2013 as were the total distances driven in those two years.
+[22] A lease payment print out recorded in the name of Ayan Osman was provided for a 2009 Honda Civic with payments recorded from January 2009 through to February 1, 2014. From February 26, 2014 through to August 15, 2014, a lease payment record was submitted for a 2013 Honda Civic.
+[23] Similarly, various maintenance invoices for a customer named Ayan Osman were submitted. Such invoices were all incurred in 2013 referencing a 2009 Honda Civic. When factoring out duplication, the expenses were less than $500.
+(c) Evidence of employee having incurred expenses
+[24] The evidence before the Court concerning Mr. Gilao’s personal incurrence of the expenses is supported solely by his oral testimony. He asserted he expended certain amounts personally, but was reimbursed for others. No log or record differentiating between personal or employment expenses was produced.
+(4) Conclusion and Decision
+[25] For the most part Mr. Gilao’s testimony is uncorroborated and self-serving concerning his conditions of employment. The T2200s were created not only after the fact, but no employer representative offered any clarification or support.
+[26] The evidence of the quantum of the expenses, whoever incurred such expenses, is missing for most years, unreliable for others and inconsistent with the amounts sought to be deducted. Even the lately created tax returns do not support the amounts asserted to have been expended. There is no mileage or expense log.
+[27] Lastly, there is no objective evidence Mr. Gilao incurred the expenses. Almost all invoices are in his spouse’s name. Possibly, he may have been reimbursed. There is no evidence or log of the proration among personal, reimbursed expenses and/or unreimbursed employment expenses.
+[28] In short, there is little reliable evidence Mr. Gilao was required to have a motor vehicle for employment purposes as a condition of employment mandated by his employer. As well, there are no ascertainable amounts approaching the amounts claimed or a log of the miles driven. Finally, whoever incurred those expenses, for what purpose and the extent of reimbursement all remain a mystery.
+[29] For these reasons, the appeal is dismissed, without costs.
+Signed at Toronto, Canada, this 23rd day of January 2020.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2020TCC14
+COURT FILE NO.:
+2018-1781(IT)I
+STYLE OF CAUSE:
+MOHAMMED GILAO AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 25, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+January 23, 2020
+APPEARANCES:
+Agent for the Appellant:
+Ahmed Abdallah
+Counsel for the Respondent:
+Kevin Hong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blank
+Firm:
+Blank
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

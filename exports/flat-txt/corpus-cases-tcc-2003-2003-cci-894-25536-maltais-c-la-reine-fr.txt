@@ -1,0 +1,139 @@
+Title: Maltais c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25536/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-894-25536-maltais-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-12-02
+
+# Maltais c. La Reine
+
+- Citation: 2003 CCI 894
+- Decision date: 2003-12-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2376, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maltais c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-02
+Référence neutre
+2003 CCI 894
+Numéro de dossier
+2002-1241(GST)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-1241(GST)I
+ENTRE :
+ROSAIRE MALTAIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 3 novembre 2003
+et décision rendue oralement le 6 novembre 2003 à Québec (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelant :
+Me Louis Sirois
+Avocat de l'intimée :
+Me Michel Morel
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise dont l'avis porte le numéro 2-17-5002 daté du 4 avril 2002 pour la période du 1er août 1996 au 31 décembre 1999 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada ce 2e jour de décembre 2003.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2003CCI894
+Date : 20031202
+Dossier : 2002-1241(GST)I
+ENTRE :
+ROSAIRE MALTAIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx,
+[1] Il s'agit d'un appel par voie de la procédure informelle d'une nouvelle cotisation concernant la période du 1er août 1996 au 31 décembre 1999 établie en vertu de la Loi sur la taxe d'accise (la « Loi » ). L'avis de la cotisation porte le numéro 2-17-5002 et est en date du 4 avril 2002.
+[2] La question en litige est de déterminer si l'appelant au cours des années en litige était un petit fournisseur au sens de cette définition au paragraphe 123(1) et au sens de l'article 148 de la Loi. Si tel était le cas, l'appelant n'aurait pas à percevoir la taxe sur la contrepartie des services fournis par son entreprise.
+[3] Durant les années en litige, selon la pièce A-1, l'appelant a fait affaire d'abord sous le nom de « Massage RM Imm » et ensuite sous le nom de « Pro-massage Enr. » . Il est admis que l'appelant exploitait un salon de massage dans le sous-sol de sa résidence.
+[4] Pour savoir si l'appelant peut se qualifier comme petit fournisseur, il faut déterminer si les sommes reçues des clients en contrepartie des services rendus doivent être imputées en totalité à l'entreprise de l'appelant ou si elles peuvent être imputées en partie aux personnes travaillant dans l'entreprise.
+[5] Le ministre du Revenu national (le « Ministre » ) est d'avis que les travailleuses sont des employées. L'appelant prétend qu'elles sont des travailleuses autonomes. C'est le débat que je vais trancher bien que je ne sois pas certaine que ce soit le bon débat.
+[6] À mon sens, le débat aurait dû plutôt être sur la contrepartie unique par rapport à des contreparties distinctes. Une entreprise peut fournir ses services par l'intermédiaire d'employés ou de travailleurs autonomes. Cela ne modifie pas la qualité de fournisseur de services de cette entreprise. C'est la nature de l'opération qu'il faut considérer. S'agit-il d'une opération où les services peuvent utilement être acquis de façon distincte? Les clients en tant qu'acquéreurs de services payaient une somme unique au salon de massage. Cette somme était déterminée par l'appelant pour les services du salon de massage. L'appelant en tant que propriétaire et exploitant du salon de massage était à mon sens le fournisseur du service pour lequel les clients payaient une contrepartie unique.
+[7] De toute façon, tel que je l'ai mentionné, je trancherai le débat sur la base de la nature de la situation juridique des travailleuses à savoir s'agissait-il d'un contrat de travail ou d'entreprise?
+[8] Le premier témoin pour la partie appelante fut madame Suzie Côté. Elle travaille présentement pour le salon de massage de l'appelant depuis deux ans et demi. Elle a relaté qu'elle a eu une formation en massothérapie et elle a travaillé avant dans un autre salon de massage.
+[9] L'avocat de l'intimée s'est opposé à son témoignage vu qu'elle ne travaillait pas au salon de l'appelant lors des années en litige. L'avocat de l'appelant a fait valoir que son témoignage avait pour but d'expliquer le mode opérationnel du salon de massage.
+[10] Le témoignage de madame Côté n'a pas été tellement différent de celui des personnes ayant travaillé durant l'époque en litige, sauf en ce qui concerne le mode de recrutement des travailleuses et l'aspect sexuel des massages.
+[11] L'appelant a témoigné. Il est un électricien de formation. Durant les années en litige, il travaillait à titre de contremaître électricien pour les Industries Davie Inc.
+[12] Il a relaté qu'il a appris à faire des massages californiens et suédois ainsi que des massages spécifiques. En 1995, il a transformé le sous-sol de sa résidence en salon de massage. Les clients viennent à partir d'annonces faites dans les journaux. Les heures d'ouverture du salon sont de 9 h 30 à 23 h.
+[13] Il affirme que ce n'est pas lui qui remplace une masseuse qui ne peut se présenter. C'est celle-ci qui arrange son remplacement avec ses autres collègues de travail.
+[14] Trois travailleuses ont témoigné à la demande de l'avocat de l'intimée. Ces personnes ont travaillé au salon de massage durant la période en litige.
+[15] Les masseuses ont relaté qu'elles ont été recrutées par la voie d'annonces dans les journaux faites par l'appelant. De telles annonces ont été produites comme pièce I-3. Sous la rubrique « Emplois offerts » , on y lit que des masseuses sont demandées pour donner massage californien à temps plein sur la Rive-sud. L'appelant a admis que le numéro de téléphone indiqué était le sien.
+[16] Une des jeunes femmes savait déjà masser. Les deux autres ont eu leur formation de la part de l'appelant.
+[17] L'horaire de travail était établi par l'appelant. La travailleuse devait être présente au salon selon cet horaire. Elle n'était pas payée à un tarif horaire mais selon le nombre de massages qu'elle exécutait. Elle ne savait pas d'avance quel serait le nombre de clients.
+[18] Chacune a mentionné que c'était à l'appelant qu'elle se rapportait, que c'était lui le patron et qu'il devait approuver leur absence ou leur remplacement par une autre collègue.
+[19] Chacune a mentionné que l'appelant voulait que l'endroit soit gardé propre. Les travailleuses devaient laver les draps et les serviettes. Elles devaient aussi entretenir les lieux.
+[20] Les masseuses devaient répondre au téléphone et prendre les rendez-vous. Ces rendez-vous se prenaient pour le jour même. Le numéro de téléphone d'où provenait l'appel était noté.
+[21] Ce n'était pas elles qui s'occupaient de la publicité ni ne la payait. Cette publicité était faite au nom de « Pro massage Enr. » . De telles annonces ont été déposées comme pièce I-3.
+[22] Chaque masseuse avait la clé du local. Elles ouvraient le local quand elles arrivaient et le fermaient à leur départ.
+[23] Il n'y avait pas de salaire garanti. Un client payait la séance de massage selon un tarif déterminé par l'appelant, au début 35 $ et par la suite 40 $. Les travailleuses remettaient 15 $ et 20 $ à l'appelant, elles gardaient 20 $. S'il y avait des extras, comme se dénuder, ces extras leur appartenaient.
+[24] Lors d'une descente policière en octobre 1999, un système d'interphone a été trouvé dans le panneau électrique d'une des salles du salon. L'appelant a dit qu'il ne fonctionnait pas. Par contre, une des masseuses a mentionné qu'il entendait tout. Chacune des travailleuses était sous l'impression très nette qu'il savait tout ce qui se passait au salon.
+[25] Madame Suzanne Tremblay était la vérificatrice au niveau des impôts et des taxes. Elle a rencontré une masseuse. Elle a parlé aux autres par téléphone. Le rapport de vérification a été déposé comme pièce A-2 par l'avocat de l'appelant. La vérificatrice s'est référée à l'annexe 2 pour expliquer qu'à la fin juin 1996, en ajoutant la partie reçue par les masseuses, l'appelant avait passé le cap du 30 000 $. Il avait un mois de délai pour s'inscrire. Donc le compte de taxe commence à partir du début d'août 1996. De plus pour l'année 1998, selon les livres saisis, un montant de 7 361 $ n'avait pas été déclaré. Il a été ajouté au montant des fournitures totales à déclarer.
+[26] La vérificatrice a aussi constaté que la totalité des dépenses étaient payées par l'appelant. Les travailleuses ne décidaient rien. La vérificatrice a aussi mentionné qu'au niveau de l'impôt, les montants d'argent versés aux masseuses, ont été déduits dans le calcul du revenu de l'appelant.
+Analyse et conclusion
+[27] Il s'agit de déterminer si les personnes rendant services à l'entreprise de l'appelant les rendaient à titre d'employés ou de travailleuses autonomes.
+[28] Je me réfère à la décision de la Cour suprême du Canada dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983 :
+... La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+[29] Les jeunes femmes étaient recrutées par une annonce dans les journaux pour un travail à temps plein. Quelques-unes avaient déjà fait des massages. D'autres étaient formées par l'appelant. Elles devaient mettre à la disposition de l'entreprise de l'appelant leur temps. Ceci pour moi est un élément important. Elles n'étaient pas payées selon un tarif horaire mais devaient travailler selon ce mode. Chacune avait trois rôles, soit celui de réceptionniste, de masseuse et préposée à l'entretien.
+[30] Prenons les différents tests. Le contrôle. L'appelant décidait tout : l'horaire, les modalités du travail et le tarif à charger au client.
+[31] La propriété des outils : tout appartenait à l'appelant et était payé par lui.
+[32] Les possibilités de gains ou de pertes : la publicité se faisait au nom d'affaires de l'appelant. Les clients étaient les clients du salon de massage. Les travailleuses devaient tenir le temps et leur rémunération étaient en fonction du nombre de clients. Les pourboires ou le nombre de clients d'un établissement ne peuvent être considérés comme des éléments de source de gains du travail autonome.
+[33] L'intégration. L'entreprise était celle de l'appelant et non celle des travailleuses. La preuve n'a révélé dans cette affaire aucun élément d'entreprise de la part des travailleuses.
+[34] La totalité des contreparties reçues pour les services de massages doit être incluse dans le calcul du revenu brut de l'appelant. Il n'y a pas eu contestation de ce calcul.
+[35] En conséquence l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 2e jour de décembre 2003.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2003CCI894
+No DU DOSSIER DE LA COUR :
+2002-1241(GST)I
+INTITULÉ DE LA CAUSE :
+Rosaire Maltais et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 3 novembre 2003
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 2 décembre 2003
+DÉCISION RENDUE ORALEMENT :
+le 6 novembre 2003
+MOTIFS RÉVISÉS DU JUGEMENT :
+le 2 décembre 2003
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Louis Sirois
+Avocat de l'intimée :
+Me Michel Morel
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Louis Sirois
+Étude :
+Gosselin Daigle Sirois & Associés
+Québec (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

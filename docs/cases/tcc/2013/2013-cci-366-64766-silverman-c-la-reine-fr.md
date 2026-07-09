@@ -1,0 +1,165 @@
+---
+title: "Silverman c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/64766/index.do"
+last_modified: "2013-11-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 366"
+citation2: ""
+neutral_citation: "2013 CCI 366"
+decision_date: "2013-11-21"
+language: "fr"
+item_id: "64766"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5893
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:56:22.202000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3a900cd129e9eb9cf50827074ec9bfcadf0a7d2f38f104774ed41573c0ea0f80"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Silverman c. La Reine
+
+- Citation: 2013 CCI 366
+- Decision date: 2013-11-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5893, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Silverman c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-11-21
+Référence neutre
+2013 CCI 366
+Numéro de dossier
+2012-3454(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-3454(IT)I
+ENTRE :
+DAVID ABRAHAM SILVERMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 4 octobre 2013 à Toronto (Ontario).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Stephen Oakey
+JUGEMENT
+L’appel relatif à la nouvelle cotisation datée du 26 juin 2012 qu’a établie le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu, relativement à l’année d’imposition 2006 de l’appelant, est rejeté, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 21e jour de novembre 2013.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 7e jour de janvier 2013.
+S. Tasset
+Référence : 2013 CCI 366
+Date : 20131121
+Dossier : 2012-3454(IT)I
+ENTRE :
+DAVID ABRAHAM SILVERMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel, interjeté sous le régime de la procédure informelle, concernant une nouvelle cotisation datée du 26 juin 2012 que le ministre du Revenu national (le « ministre ») a établie en vertu de la Loi de l’impôt sur le revenu, L.R.C., 1985, ch. 1 (5e suppl.), dans sa forme modifiée (la « Loi »), relativement à l’année d’imposition 2006 de l’appelant. Les appels de ce dernier pour les années d’imposition 2010 et 2011 ont été traités par voie d’objection préliminaire et ils ont été annulés au motif qu’il s’agissait d’appels relatifs à des cotisations « néant ». L’appel de l’appelant à l’égard de la nouvelle cotisation datée du 26 juin 2012 concernant son année d’imposition 2005 a été rejeté, car il n’a pas contesté le rajustement de 1 447 $ qui a été fait à son obligation fiscale pour cette année-là.
+[2] La seule question à trancher dans le cadre du présent appel consiste à savoir si l’appelant avait le droit de déduire, dans le calcul de son revenu pour l’année d’imposition 2006, une somme de 13 320 $ payée à un agent d’édition américain appelé William S. Hein & Co., Inc. (« WS Hein »). Les autres questions que l’appelant a soulevées dans son avis d’appel modifié concernant son année d’imposition 2006 ne sont plus contestées.
+[3] Pour déterminer l’obligation fiscale de l’appelant pour l’année d’imposition 2006, le ministre s’est fondé sur les hypothèses de fait suivantes au sujet du remboursement fait à WS Hein, comme il est indiqué au paragraphe 27 de la réponse à l’avis d’appel modifié :
+[traduction]
+a) pendant toute la période pertinente, l’appelant était associé à parts égales (50 %) dans une société à responsabilité limitée appelée Silverman and Silverman, SLR (la « Société »);
+b) pendant toute la période pertinente, la mère de l’appelant, Anne Silverman, était l’autre associée à parts égales (50 %) de la société;
+c) la société, un cabinet d’avocats, a été constituée en juin 2003 et s’est spécialisée en droit de la famille, en testaments et en successions, en droit de l’immigration ainsi qu’en services de notariat;
+d) l’appelant est autorisé à exercer le droit dans une province du Canada ainsi que dans une partie des États-Unis;
+e) l’appelant exerce le droit depuis 22 ans environ;
+[…]
+k) dans les années antérieures à 2003, l’appelant était résident et citoyen des États-Unis et il produisait des déclarations de revenus des États-Unis;
+l) dans les années antérieures à 2003, l’appelant possédait et exploitait, à titre d’entreprise individuelle, une entreprise d’édition appelée Jonah Publications;
+m) l’appelant exploitait Jonah Publications à partir de Buffalo, dans l’État de New York (États-Unis);
+n) la totalité des revenus tirés de Jonah Pulications a été déclarée dans les déclarations de revenus des États-Unis de l’appelant;
+o) en 2003, l’appelant a fermé Jonah Publications;
+p) en 2003, l’appelant a quitté les États-Unis pour le Canada;
+q) l’appelant résidait au Canada pendant la totalité des années d’imposition 2005 et 2006;
+r) pour l’année d’imposition 2006, l’appelant a déclaré un montant de 13 320 $ CAN au titre d'autres dépenses, séparément des dépenses liées à la Société;
+s) le montant déclaré de 13 320 $ CAN se rapportait à un présumé paiement fait à un agent d’édition américain, William S. Hein & Co., Inc. (« WS Hein »), en dollars américains, d’un montant de 11 745 $ US, que l’appelant a calculé comme étant d’une valeur de 13 320 $ CAN en utilisant le taux de conversion annuel moyen qui s’appliquait à l’année 2006;
+t) l’appelant a prétendu avoir reçu dans une année antérieure à 2003 un revenu de 11 745 $ US de WS Hein, une cliente de Jonah Publications, et d’avoir remboursé cette somme à WS Hein en 2006 pour services non rendus;
+u) la somme de 11 745 $ US, ou toute somme équivalente en dollars canadiens, n’avait été incluse ni dans le revenu de l’appelant pour l’année d’imposition 2006, ni dans aucune année d’imposition antérieure;
+v) le présumé versement de 11 745 $ US à WS Hein n'a pas été fait par l’appelant dans l’année d’imposition 2006;
+w) la présumée dépense de 11 745 $ US (13 320 $ CAN), si elle a eu lieu, n’a pas été faite relativement à la Société ou à une entreprise ou à une profession dont le revenu tiré était assujetti à l’impôt au Canada;
+x) la présumée dépense de 11 745 $ US (13 320 $ CAN), si elle a eu lieu, n’a pas été faite ou engagée en vue de tirer un revenu d’entreprise lié à la Société ou à toute autre entreprise commerciale de l’appelant au cours de l’année d’imposition 2006.
+[4] M. Silverman a témoigné à l’audience et a confirmé que, dans les années antérieures à 2003, il possédait et exploitait à titre de propriétaire unique une entreprise d’édition appelée Jonah Publications. L’appelant a fermé Jonah Publications en 2003 quand il a quitté les États-Unis pour le Canada. Dans les années antérieures à 2003, l’appelant était résident et citoyen des États-Unis et il produisait des déclarations de revenus des États-Unis. Jonah Publications était exploitée à partir de Buffalo, dans l'État de New York. La totalité du revenu tiré de Jonah Publications a été déclarée dans les déclarations de revenus des États-Unis de l’appelant.
+[5] L’appelant a expliqué que le paiement de 11 745 $ US (13 320 $ CAN) qu’il avait fait à WS Hein le 10 avril 2006, par un chèque tiré sur son compte personnel américain, représentait un remboursement de fonds avancés par WS Hein pour des revues de droit qui n’avaient pas été publiées. WS Hein agissait comme intermédiaire entre l’éditeur et les abonnés. D’après des documents que l’appelant a déposés (pièces A-1, A-2 et A-3), WS Hein faisait à Jonah Publications des avances qui étaient soustraites de la redevance de 20 % calculée en fonction de ventes à laquelle Jonah Publications avait droit.
+[6] L’appelant a produit un courriel de M. Dale Missert, gestionnaire, Service aux comptes/administration des redevances auprès de WS Hein, qui confirmait que l’appelant avait touché une avance sur redevance pour les titres Chitty’s Law Journal, Family Law Review et Legal Medical Quarterly; ce montant, de 1 500 $ US, avait été payé par un chèque portant le no 602366 et daté du 9 février 2011. L’appelant n’a reçu aucun autre paiement de redevance depuis 2006.
+[7] En contre-interrogatoire, l’appelant n’a pas pu confirmer quand les avances avaient été faites à Jonah Publications, ni pour quelles raisons. Il a déclaré que Jonah Publications les avait peut-être reçues avant 2004. Il a soutenu que la somme de 13 320 $ CAN était due à WS Hein et que, si cette somme n’avait pas été payée, il n’aurait pas pu recevoir par la suite d’autres redevances.
+Analyse
+[8] Pour les besoins du présent appel, les dispositions applicables de la Loi sont le paragraphe 9(1) ainsi que les alinéas 18(1)a), 18(1)b) et 20(1)m.2) :
+9(1) Revenu. Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+18(1) Exceptions d’ordre général. Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+b) une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[…]
+20(1) Déductions admises dans le calcul du revenu tiré d’une entreprise ou d’un bien. Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+m.2) Remboursement d’un montant antérieurement inclus dans le revenu — un remboursement au cours de l’année par le contribuable d’un montant qui, en application de l’alinéa 12(1)a), doit être inclus dans le calcul de son revenu tiré d’une entreprise pour l’année ou une année d’imposition antérieure;
+[…]
+[9] L’appelant a fait valoir que les déductions qu’autorisent le paragraphe 9(1) et l’alinéa 18(1)a) s’appliquent à des dépenses engagées en vue de tirer un revenu pour l’année dans laquelle elles sont déduites, peu importe le moment où le revenu est réellement gagné. Selon lui, le remboursement fait en 2006 avait pour but de gagner un revenu de redevance, encore qu’il n’y ait aucune preuve qu’il a reçu une redevance quelconque de WS Hein entre 2006 et 2010.
+[10] L’avocat de l’intimée a fait valoir que la dépense de 13 320 $ a été refusée parce qu’il s’agissait d’un remboursement de revenu se rapportant à une entreprise d’édition que l’appelant possédait et exploitait seul pendant qu'il était un résident des États-Unis. L’obligation de remboursement était liée à une opération datant d’avant 2003. Cette dépense n’a pas été faite en vue de tirer un revenu d’entreprise de l’activité commerciale présente de l’appelant, en tant qu’associé du cabinet d’avocats Silverman S. Silverman S.R.L. Cette dépense n’était pas déductible au titre de l’alinéa 20(1)m.2) de la Loi parce que la somme remboursée n’a pas été incluse dans le revenu du contribuable tiré d’une entreprise pour l’année ou une année précédente, aux termes de l’alinéa 12(1)a) de la Loi. Dans le présent appel, il n’existe aucune preuve que les avances que WS Hein a faites à Jonah Publications ont été incluses dans le revenu de l’appelant ou dans celui de Jonah Publications en ce qui concerne l'impôt canadien.
+[11] J’ai de la difficulté à admettre que le remboursement de 13 320 $ à WS Hein a été fait par l’appelant en vue de tirer un revenu de redevance de publications appartenant à Jonah Publications Inc., étant donné que : a) le remboursement a eu lieu en 2006, b) l’appelant n’a reçu aucune redevance entre 2006 et 2010, et c) la redevance reçue en 2011 n’a été que de 1 500 $ US. À mon avis, le remboursement à WS Hein a été fait pour régler une dette que Jonah Publications Inc. avait contractée en vue d’éviter des mesures de recouvrement ou des procédures judiciaires. Le seul lien, si lien il y a, que je puisse voir entre le remboursement et la redevance est que l’on peut considérer que le remboursement a été fait pour préserver ou protéger un bien en capital ou une source de revenus de l’appelant. Une telle dépense est décrite à l’alinéa 18(1)b) de la Loi comme une dépense en capital, et elle n’est pas déductible, sauf dans la mesure prévue à la partie I de la Loi.
+[12] Pour ces motifs, je rejette l’appel de l’appelant.
+Signé à Ottawa, Canada, ce 21e jour de novembre 2013.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 7e jour de janvier 2013.
+S. Dasset
+RÉFÉRENCE : 2013 CCI 366
+No DU DOSSIER DE LA COUR : 2012-3454(IT)I
+INTITULÉ : David Abraham Silverman et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 4 octobre 2013
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 21 novembre 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Stephen Oakey
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

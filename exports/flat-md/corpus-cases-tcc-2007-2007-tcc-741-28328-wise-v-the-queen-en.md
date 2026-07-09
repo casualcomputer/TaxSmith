@@ -1,0 +1,153 @@
+---
+title: "Wise v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28328/index.do"
+last_modified: "2007-12-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 741"
+citation2: ""
+neutral_citation: "2007 TCC 741"
+decision_date: "2007-12-13"
+language: "en"
+item_id: "28328"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1847
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:28:44.128000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "af4514473b878c2341f461580d32948b1aef874b4f9705833db9616cb34094e3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wise v. The Queen
+
+- Citation: 2007 TCC 741
+- Decision date: 2007-12-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1847, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wise v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-12-13
+Neutral citation
+2007 TCC 741
+File numbers
+2007-2600(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2600(IT)I
+BETWEEN:
+KARYN MARIE WISE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 21, 2007 at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Max Matas
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2005 taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 13th day of December 2007.
+“L.M. Little”
+Little J.
+Citation: 2007TCC741
+Date: 20071213
+Docket: 2007-2600(IT)I
+BETWEEN:
+KARYN MARIE WISE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. Facts
+[1] The Appellant is the mother of Vanessa Marie Panton (“Vanessa”).
+[2] Vanessa was an international student at the New South Wales Technical and Further Education School (“TAFE”) in Sydney, Australia.
+[3] TAFE is a school located in Sydney, Australia that provides education in a variety of subjects. During the hearing, Vanessa said that TAFE was somewhat similar to the British Columbia Institute of Technology.
+[4] The course that was taken by Vanessa provided her with a Diploma in Events Management. The Diploma was awarded to Vanessa in December 2005 (Exhibit A-3).
+[5] The Appellant testified that she paid the amount of $8,922.05 (AUD$) in tuition fees for Vanessa in 2004. The Appellant also said that she paid a further $3,012.00 (AUD$) in tuition fees for Vanessa in 2005.
+[6] When the Appellant filed her income tax return for the 2005 taxation year, she deducted tuition fees in the amount of $5,000.00 (Cdn) that she had paid for Vanessa.
+[7] On August 21, 2006 the Minister of National Revenue (the “Minister”) issued a Notice of Reassessment. In the said Reassessment, the Minister denied the tuition credits transferred from Vanessa to the Appellant.
+[8] The Appellant filed a Notice of Objection to the Reassessment and by Notification dated December 13, 2006 the Minister confirmed the Reassessment.
+B. Issue
+[9] The issue is whether the Appellant is allowed to claim tuition fees of $5,000.00 that were transferred to the Appellant by Vanessa in determining the Appellant’s income for the 2005 taxation year.
+C. Analysis and Decision
+[10] Subsection 118.5(1) of the Income Tax Act (the “Act”) reads as follows:
+118.5(1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there my be deducted,
+(a) where the individual was during the year a student enrolled at an educational institution in Canada that is
+(i) a university, college or other educational institution providing courses at a post-secondary school level, or
+(emphasis added)
+…
+Subsection 118.5(1) reads as follows:
+(b) where the individual was during the year a student in full-time attendance at a university outside Canada in a course leading to a degree, an amount equal to the product obtained when the appropriate percentage for the year is multiplied by the amount of any fees for the individual’s tuition paid in respect of the year to the university, except any such fees …
+(Note: The exceptions that are referred to are not relevant to this appeal).
+(emphasis added)
+(In this situation the Appellant paid the tuition fee for Vanessa and Vanessa transferred a portion of the fee to the Appellant. The Minister does not dispute that Vanessa may transfer the fee (or a portion thereof) to the Appellant.)
+[11] It will be noted that subsection 118.5(1) of the Act provides for certain conditions:
+If the person is attending an educational institution in Canada, that institution may be a university or a college or another educational institution, i.e. the educational institution does not have to be a university if it is located in Canada.
+However, if a person is attending an educational institution outside Canada, it is clear from the legislation that the person must be in full-time attendance at a university outside Canada in a course leading to a degree.
+Support for this conclusion can be found in a number of Court decisions. I refer to a decision of Justice Mogan of the Tax Court in Gilbert v. Canada, [1998] T.C.J. No. 1091. In Gilbert, Justice Mogan said at paragraph 21:
+21. Parliament has created a broader spectrum of institutions which a person can attend at the post-secondary level within Canada and still get the tuition credit, but Parliament has restricted the number of institutions outside Canada for which a tuition credit can be achieved. I have already given what I regard as the generally accepted definition of a university being one to grant a degree. I speculate that the distinction is to place some control on the kind of post-secondary institutions which may exist in countries outside of Canada where it would be impossible to determine whether they were truly of an educational nature in that they grant a degree. I think the legislation is more confining in paragraph (b) to give some measure of control as to the kinds of tuition paid to institutions outside Canada which will give the payer or parent a tax credit. For these two reasons, the interpretation of the word “university” on a stand-alone basis and the comparison of paragraphs 118.5(1)(a) and (b) lead me to the conclusion that this appeal must be dismissed.
+[12] Following the hearing, counsel for the Respondent, Mr. Max Matas, provided the Appellant and the Court with a copy of a recent decision of the Federal Court of Appeal in Klassen v. Canada, [2007] F.C.J. No. 1442. In that case, Justice Noël said at paragraph 17:
+17. The expression “university outside Canada” must be read in context, according to its ordinary sense, harmoniously with the scheme of the ITA, its object and the intention of Parliament. At the same time, it is important to pay particular attention to the textual meaning of the words when attempting to construe detailed provisions of the ITA such as the ones here in issue (A.Y.S.A. Amateur Youth Soccer Association v. Canada (Revenue Agency), [2007] S.C.J. No. 42, 2007 SCC 42, at para. 16).
+18. The common feature which runs through the above quoted definitions is that a university is an institution of higher learning which confers degrees attesting to some definite proficiency. A bachelor degree is generally recognized as a minimum requirement for the pursuit of higher studies (usually referred to as “graduate” studies) leading to masters and doctorate degrees.
+19. It is significant that in the case of educational institutions located in Canada, and in the case of cross-border commuters (i.e., those who commute daily to an educational institution in the United States), the benefit of the credits extends not only to those enrolled in a university, but also in a “college or other educational institution providing courses at a post-secondary school level, …” (see subparagraphs 118.5(1)(a)(i), 118.5(1)(c)(i) and paragraph 118.6(i)(c)). It seems clear that Parliament, in extending the benefit of the credits in those two instances, drew a distinction between a “university” on the one hand, and the other educational institutions referred to in that phrase, on the other.
+20. I agree with the statement made by Mogan J. in Gilbert supra, (at para. 21) and adopted by McArthur J. in Cleveland supra (at para. 16) that Parliament in limiting the application of paragraphs 118.5(1)(b) and 118.6(1)(b) to a “university outside Canada” opted for a more restrictive approach with respect to foreign institutions. This was done in order to allow the Minister to exercise some measure of control over the type and level of education supported by the credits. In giving effect to the distinction drawn by Parliament, the most salient feature which distinguishes a “university” is the type of degree which a university grants and in particular the baccalaureate degree, which is the threshold requirement imposed by universities for the pursuit of graduate studies. I can think of no other reliable or objectively ascertainable criteria on which the distinction drawn by Parliament could rest.
+21. I therefore conclude that the expression “university outside Canada” refers to an educational institution which confers degrees usually granted by universities, that is a doctorate degree, a master degree or at minimum degrees at the baccalaureate level or its equivalent. The degree granted by MSU-Bottineau in this case (i.e., the “associate degree”) attests to the successful completion of a two year undergraduate program. As this is the highest degree which MSU-Bottineau can confer, it does not qualify as a “university outside Canada”. The fact that MSU-Bottineau calls itself a university cannot alter this conclusion.
+[13] Based on the evidence before me, I have concluded that TAFE was not a university and that Vanessa received a diploma and not a degree from TAFE. It follows that Vanessa was not a student in attendance at a university outside Canada in a course leading to a degree and therefore she does not come within the words contained in paragraph 118.5(1)(b) of the Act.
+[14] The appeal is dismissed without costs.
+[15] Before closing I wish to note that it is my responsibility to interpret the words contained in the Income Tax Act. I do not have the authority to amend the Act.
+Signed at Vancouver, British Columbia, this 13th day of December 2007.
+“L.M. Little”
+Little J.
+CITATION: 2007TCC741
+COURT FILE NO.: 2007-2600(IT)I
+STYLE OF CAUSE: Karyn Marie Wise
+and Her Majesty the Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: November 21, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: December 13, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Max Matas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

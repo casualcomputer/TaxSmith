@@ -1,0 +1,132 @@
+---
+title: "9079-2276 Québec inc c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/70950/index.do"
+last_modified: "2014-04-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 106"
+citation2: ""
+neutral_citation: "2014 CCI 106"
+decision_date: "2014-04-08"
+language: "fr"
+item_id: "70950"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5290
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:01:22.657000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "566555850fce97d9fc6b98bb01e65113d1b490effb0e1dffcf197af1f51f9d43"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9079-2276 Québec inc c. M.R.N.
+
+- Citation: 2014 CCI 106
+- Decision date: 2014-04-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5290, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9079-2276 Québec inc c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-04-08
+Référence neutre
+2014 CCI 106
+Numéro de dossier
+2013-1319(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2013-1319(EI)
+ENTRE :
+9079-2276 Québec Inc.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 14 mars 2014, à Shawinigan (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l'appelante :
+André Lauzon
+Avocat de l'intimé :
+Me Emmanuel Jilwan
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté et la décision du ministre du Revenu national est confirmée, en tenant pour acquis que monsieur Michel Boulet exerçait un emploi assurable alors qu’il travaillait pour l’appelante au cours de la période du 9 janvier 2011 au 10 décembre 2011.
+Signé à Ottawa, Canada, ce 8e jour d'avril 2014.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2014 CCI 106
+Date : 20140408
+Dossier : 2013-1319(EI)
+ENTRE :
+9079-2276 Québec Inc.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelante en appelle d’une décision du ministre du Revenu national (ministre) par laquelle il fut décidé que monsieur Michel Boulet exerçait un emploi assurable alors qu’il travaillait pour elle au cours de la période du 9 janvier 2011 au 10 décembre 2011.
+[2] L’appelante est détenue à parts entières par madame Solange Plante. Elle exploite un bar à Plessisville. Son conjoint, monsieur André Lauzon, supervisait en partie les activités en soirée.
+[3] Selon le témoignage de monsieur Lauzon, il a engagé monsieur Boulet pour l’aider financièrement. Ce dernier travaillait de jour dans un restaurant, et on lui a offert de travailler de nuit, après la fermeture du bar, pour l’entretien ménager. Monsieur Lauzon lui a fourni l’équipement puisque le travailleur n’avait pas les moyens de s’en procurer.
+[4] Monsieur Boulet lui aurait mentionné qu’il avait son permis de travailleur autonome, et ils auraient convenu d’une rémunération de 280 $ par semaine.
+[5] Monsieur Gilles Mathieu était le gérant du bar. Il a expliqué que monsieur Boulet a commencé à négliger son travail vers la fin de la période. Il lui a servi trois avertissements avant de le remercier de ses services, après s’être informé, auprès de la Commission des normes du travail, des droits et obligations de l’appelante.
+[6] Monsieur Lauzon a mentionné qu’il a dû se débrouiller seul pour faire l’entretien suite au défaut du travailleur de se présenter au bar à plusieurs reprises.
+[7] Dans son témoignage, monsieur Boulet a dit que monsieur Lauzon lui avait demandé de s’enregistrer auprès de Revenu Québec comme propriétaire d’entreprise. Il l’a accompagné au palais de justice pour ce faire (pièce A-1).
+[8] Selon monsieur Boulet, il était payé 10 $ l’heure pour travailler chaque jour de la semaine (7 jours) de 2 h 45 à 7 h. Madame Plante a confirmé qu’il était rémunéré 280 $ par semaine, pour 4 heures par jour, les 7 jours de la semaine (pièce A-2). Il a pris des vacances de dix jours non payées quand cela lui a été proposé et ce n’est pas lui qui a trouvé son remplaçant.
+[9] Monsieur Boulet a également mentionné que c’est monsieur Lauzon et son employé qui lui ont montré comment faire le travail et il faisait ce qu’on lui demandait de faire. Madame Plante vérifiait si le travail était bien fait et lui en parlait au besoin.
+Analyse
+[10] L’existence d’un contrat de travail (relation employeur-employé) se détermine par la présence d’une direction ou d’un contrôle du travail par l’employeur (article 2085 du Code civil du Québec et Grimard c. Canada, [2009] A.C.F. no 167, par.30). La commune intention des parties, si elle existe, doit également être tenue en compte, mais elle doit se refléter dans le comportement des parties dans l’exécution du contrat (Grimard, par. 32 et 33).
+[11] Ici, il est clair de la preuve qu’il n’y avait pas une intention commune des parties dans la qualification du statut légal de monsieur Boulet. Ce dernier, de toute évidence, ne se considérait pas comme un travailleur autonome.
+[12] À tout événement, c’est la réalité factuelle qu’il faut analyser et non ce que prétend l’une ou l’autre des parties.
+[13] Bien que l’appelante semblait de bonne foi en voulant engager monsieur Boulet comme un travailleur autonome afin de lui donner un coup de main financièrement, il ressort des faits que ce dernier travaillait sous la direction et la supervision, tant de monsieur Lauzon que de madame Plante.
+[14] Monsieur Boulet travaillait selon un horaire et une rémunération établis par ces derniers. Madame Plante vérifiait le travail accompli. Monsieur Lauzon le remplaçait lors de ses absences. L’équipement lui était fourni et on lui avait défini précisément ses tâches. Malgré ses absences de plus en plus nombreuses en fin de période selon les divers témoignages, il a reçu sa pleine rémunération (sauf pour ses deux semaines de vacances) jusqu'à`son congédiement (pièce A-2).
+[15] Je conclus donc que monsieur Boulet a été engagé comme un employé, sous la direction et le contrôle de l’appelante au cours de la période en litige.
+[16] L’appel est rejeté et la décision du ministre est confirmée.
+Signé à Ottawa, Canada, ce 8e jour d'avril 2014.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2014 CCI 106
+Nº DU DOSSIER DE LA COUR : 2013-1319(EI)
+INTITULÉ DE LA CAUSE : 9079-2276 Québec Inc. c. Le Ministre du Revenu National
+LIEU DE L’AUDIENCE : Shawinigan (Québec)
+DATE DE L’AUDIENCE : Le 14 mars 2014
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 8 avril 2014
+COMPARUTIONS :
+Représentant de l'appelante :
+André Lauzon
+Avocat de l'intimé :
+Me Emmanuel Jilwan
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

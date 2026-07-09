@@ -1,0 +1,161 @@
+Title: Chouinard c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26384/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-566-26384-chouinard-c-m-r-n-en.md
+Document type: case_law
+Last modified: 2004-08-30
+
+# Chouinard c. M.R.N.
+
+- Citation: 2004 TCC 566
+- Decision date: 2004-08-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3331, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chouinard c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-08-30
+Neutral citation
+2004 TCC 566
+File numbers
+2004-1895(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2004-1895(EI)
+BETWEEN:
+DANY CHOUINARD,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 10, 2004, at Percé, Quebec
+Before: The Honourable Judge Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Agathe Cavanagh
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed, and the decision by the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of August 2004.
+"Paul Bédard"
+Bédard J.
+Certified true translation
+Colette Dupuis-Beaulne
+[OFFICIAL ENGLISH TRANSLATION
+Citation: 2004TCC566
+Date: 20040830
+Docket: 2004-1895(EI)
+BETWEEN:
+DANY CHOUINARD,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Appellant is appealing from the decision of the Minister of National Revenue (the "Minister"), who contends that the Appellant did not hold insurable employment under a genuine contract of service, within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (the "Act"), when in the service of Daniel Queenton (the "Payer") during the period in issue, from October 1 to 15, 2003.
+[2] The facts on which the Minister relied in making his decision are described in paragraph 5 of the Reply to the Notice of Appeal and are as follows:
+[TRANSLATION]
+(a) Danny Queenton is a quadriplegic as a result of a car accident;
+(b) the Payer and his spouse, Lyne Reeves, took care of Danny Queenton for three years;
+(c) Danny Queenton is the Payer's twin brother;
+(d) Danny Queenton was housed in an addition to the Payer's residence;
+(e) the Payer received a weekly amount from the S.A.A.Q. to house and support his brother;
+(f) during the period in issue, the Payer and his spouse had no employment apart from taking care of Danny Queenton;
+(g) the Appellant was a friend of Danny Queenton;
+(h) the Appellant claims that he was employed full time by the Payer as a personal assistant, whereas the Payer and his spouse in fact continued to take care of Danny Queenton;
+(i) during the period in issue, the Appellant did not render services to the Payer or rendered services for a very short period of time;
+(j) the Payer had never hired a personal assistant during the three years when he took care of his brother;
+(k) during the respondent's investigation, the Appellant and the Payer gave the Respondent's representatives contradictory versions of the Appellant's conditions of employment;
+(l) during the period in issue, the Appellant claimed that the Payer and his spouse had left on vacation, whereas they were in fact at their home;
+(m) during the period in issue, the Appellant claims that he worked for the Payer every week from Monday to Friday, from 8:00 a.m. to 5:00 p.m., whereas the Payer initially claimed that the Appellant had worked for the Payer on weekends;
+(n) during the period in issue, the Appellant claims that he received gross remuneration of $600 a week, whereas neither the Appellant nor the Payer could provide evidence that the Appellant had in fact been paid, except by presenting two unsigned receipts for $400 each at the end of the respondent's investigation in March 2004;
+(o) the Appellant initially claimed that he had been paid by means of a single cheque for $800 and subsequently changed his version of the facts, claiming that he had been paid in cash by the Payer;
+(p) on November 1, 2003, the Payer issued a record of employment to the Appellant for the period starting on October 1 and ending on October 15, 2003, showing 80 insurable hours and total insurable earnings of $800;
+(q) the record of employment does not reflect the actual situation with regard to the period worked, the hours worked or the remuneration paid;
+(r) the Appellant needed 75 hours to qualify for unemployment insurance benefits;
+(s) the Appellant and the Payer entered into an arrangement to enable the Payer to qualify for unemployment benefits.
+Analysis
+[3] Employment that is not a sham and that meets all the conditions set out in the Civil Code of Quebec constitutes a genuine contract of employment for the purposes of the Act, even if the purpose of the contract of employment was to render a person eligible for employment insurance benefits. However, this Court has an obligation to take a careful look at the agreement that existed between the parties - the Appellant and the Payer in this instance - to ensure that a genuine contract of employment existed.
+[4] The first question that must be resolved here is whether the contract binding on the Appellant constituted a genuine contract of employment. The three essential elements of a contract of employment are: the provision of a service, payment of remuneration, and the existence of a relationship of subordination. The terms and conditions of a genuine contract of employment must centre on the work to be performed, a mechanism for controlling the performance of the work and, finally, on the payment of remuneration that basically corresponds to the quantity and quality of the work done.
+Provision of Services
+[5] It is appropriate first to cite certain relevant passages from the statutory declaration the Appellant made before Ms. Coulombe, an officer with Human Resources Development Canada (HRDC), Exhibit I-1, on November 25, 2003:
+[TRANSLATION]
+...I've been a fisherman's helper by trade for 17 years ... I had to leave my job on August 2, 2003, because my sciatic nerve let go on me... Then I worked for Daniel Queenton as a personal assistant. My work consisted in taking care of Daniel's disabled brother, who is 27 years old and is called Danny Queenton. He's in a wheelchair. Daniel and his wife took some vacation and I replaced them. So I went to stay at the home that belongs to Danny, where Daniel and his wife, Lyne Reeves, also live. My duties were to take care of him at all times. I helped him eat and smoke, I lifted him to put him to bed, and so on. Usually Daniel and Lyne took care of him, and Daniel is paid by the S.A.A.Q. to perform that task. They were away for 15 days; I don't know where they went; they came back to the house a few times, then left again.
+[6] Nathalie Bédard, an appeals officer with the Employment Insurance Section of the Canada Customs and Revenue Agency, whose credibility is not in question, testified that paragraphs 21, 24, 30, 31, 32 and 33 of her written report (Exhibit I-3) faithfully reflected the Appellant's statements made during the telephone interview that she had conducted with her on March 11, 2004. Those paragraphs read as follows:
+[TRANSLATION]
+21. The worker's duties were to take care of Danny Queenton from 8:00 a.m. to 5:00 p.m., Monday to Friday; his lunch was provided by the Payer. According to the worker, Danny Queenton is a paraplegic. When the Payer and his spouse arrived at the house around 5:00 p.m., the worker returned to his home. Daniel Queenton and Lynne Reeves took care of Danny Queenton on weekends.
+24. Dany Chouinard was to administer medication (pills) to Danny Queenton every day, at 11:00 a.m. and 3:00 p.m. The medication was administered at 10:00 p.m. by Danielle [sic] Queenton or his spouse, since the worker had left at 5:00 p.m.
+30. Reading of the worker's statutory declaration made at Rivière-au-Renard on November 25, 2003, before Carole Coulombe, HRDC officer...
+31. The worker corroborated the facts of the statutory declaration and clarified the following points.
+32. "Daniel and his wife took some vacation and I replaced them. So I went to stay at the house that belonged to Danny and where Daniel and his wife, Lyne Reeves, also lived."
+- Dany Chouinard declares that Daniel Queenton and his wife returned to the house in the evenings, around 5:00 p.m., that they came home for lunch on some occasions and not on others; they left for 15 consecutive days.
+33. "They were away for 15 days; I don't know where they went; they came back to the house a few times, then left again."
+- Dany Chouinard mentions that Daniel Queenton and Lyne Reeves returned to the house in the evenings.
+[7] In addition, Ms. Bédard testified that paragraph 55 of her written report (Exhibit I-3) faithfully reflected the statements made by the Payer during the telephone interview that she had conducted with her on March 18, 2004. That paragraph reads as follows:
+[TRANSLATION]
+"We were here, at the house during the time he worked for me, but we left for two weekends."
+- I pointed out to Daniel Queenton that he and his spouse were not at the house during the two weekends and that Dany Chouinard did not work on the weekend; who then took care of his brother?
+- Daniel Queenton said that he and his spouse left the house to go have some fun. Dany Chouinard took care of his brother on the weekend; he was paid from Monday to Friday, but the contract was for 15 days.
+- Dany Chouinard was at the house almost 24 hours a day for 15 working days; he was paid on a 40-hour basis, but it is very difficult to estimate, since his brother requires care 24 hours a day. Dany Chouinard slept in the addition where his brother lives.
+[8] The testimony of the Appellant and the Payer on the terms and conditions of the contract of employment merely added confusion.
+[9] The Appellant and the Payer undeniably gave the respondent's representatives contradictory versions of the Appellant's conditions of employment. First, the Appellant declared before Ms. Coulombe that the Payer and his spouse had been away for 15 days, that he did not know where they had gone and that they came to the house a few times, then left again. Second, he told Ms. Bédard that he had taken care of Danny Queenton from 8:00 a.m. to 5:00 p.m., Monday to Friday, and that he had returned to his home around 5:00 p.m., when the Payer and his spouse returned to the house.
+[10] As to the Payer, he told Ms. Bédard that he and his spouse had not been at the house during the two weekends. Who then took care of Daniel Queenton on the weekends, since the Appellant declared that he had worked only from Monday to Friday? He also told Ms. Bédard that the Appellant had been at the house 24 hours a day for 15 days, whereas the Appellant declared to Ms. Coulombe that he had gone home at the end of his work day, which ended at 5:00 p.m. Lastly, the Payer testified that the Appellant had only worked one weekend out of two.
+[11] Lastly, I would emphasize that the Appellant said he lifted Danny Queenton in order to put him to bed, even though he told Ms. Coulombe that he had had to leave his job on August 2, 2003, because of sciatic nerve pain.
+[12] The burden was on the Appellant to show on a balance of probabilities that the Minister had wrongly claimed that he had rendered no services to the Payer during the period in issue. The Appellant definitely did not discharge his obligation to do so by making contradictory statements about his terms and conditions of work. What is more, the Appellant's statements were contradicted by the Payer, who contradicted himself on a number of occasions regarding the same conditions of employment.
+Remuneration
+[13] The Appellant testified that he had received remuneration of $400 a week in cash. The Payer's testimony was the same.
+[14] And yet, in the statutory declaration of November 25, 2003 (Exhibit I-1), the Appellant stated:
+[TRANSLATION]
+... I don't remember the wages I received, and I believe he paid me with a single cheque for $800. I don't really remember where I cashed it.
+[15] The Appellant claimed in his testimony that he had simply made an error in making such a written declaration before Ms. Coulombe and that that error was due to the fact that he had partied a little too much the evening before his meeting with Ms. Coulombe.
+[16] I find the Appellant's testimony on this matter not very credible and utterly implausible. How could he contradict himself on two such simple points as the number of payments (one or two) that he received from the Payer and the nature of the payments (in cash or by cheque)? I find it implausible that a moderately intelligent person could be so confused.
+[17] For these reasons, I conclude that the Appellant did not show on a balance of probabilities that the Minister wrongly claimed that the Payer's record of employment did not reflect the actual situation with regard to the remuneration paid.
+[18] I find that this employment was only a sham and that the Appellant and the Payer entered into an arrangement to enable the Appellant to receive employment insurance benefits. I am of the view that the contract binding the Appellant and the Payer did not constitute a genuine contract of employment. The Appellant had to show that the contract of employment binding him to the Payer met all the conditions set forth in the Civil Code of Quebec. He therefore had to show that remuneration was actually paid and that services were in fact performed, two of the elements essential to the existence of his contract of employment. The Appellant simply did not discharge his obligation to prove on a balance of probabilities that the contract binding him to the Payer was a genuine contract of employment.
+[19] For these reasons, the appeal is dismissed, and the Minister's decision is confirmed.
+Signed at Ottawa, Canada, this 30th day of August 2004.
+"Paul Bédard"
+Bédard J.
+Certified true translation
+Colette Dupuis-Beaulne
+CITATION:
+2004TCC566
+COURT FILE NUMBER:
+2004-1895(EI)
+STYLE OF CAUSE:
+Dany Chouinard and M.N.R.
+PLACE OF HEARING:
+Percé, Quebec
+DATE OF HEARING:
+August 10, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Judge Paul Bédard
+DATE OF JUDGMENT:
+August 30, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+For the Respondent:
+Agathe Cavanagh
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

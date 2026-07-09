@@ -1,0 +1,227 @@
+---
+title: "Dionne c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27506/index.do"
+last_modified: "2005-05-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 320"
+citation2: ""
+neutral_citation: "2005 CCI 320"
+decision_date: "2005-05-04"
+language: "fr"
+item_id: "27506"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:57:23.672000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aed505f210f6dd2bdf07bf5056587555f4eaf04b0873931964f5283589e63255"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dionne c. La Reine
+
+- Citation: 2005 CCI 320
+- Decision date: 2005-05-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dionne c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-04
+Référence neutre
+2005 CCI 320
+Numéro de dossier
+2004-1091(GST)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-1091(GST)I
+ENTRE :
+MICHEL DIONNE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 1er décembre 2004 à Québec (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Louis Cliche
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise dont l'avis porte le numéro 202603 et est daté du 7 février 2003, pour la période du 1er janvier 1998 au 31 décembre 2000 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Montréal, Québec, ce 4e jour de mai 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2005CCI320
+Date : 20050504
+Dossier : 2004-1091(GST)I
+ENTRE :
+MICHEL DIONNE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Cet appel est par voie de la procédure informelle. Il s'agit de savoir si un revenu non déclaré établi par la méthode de l'avoir net pour les fins de la Loi de l'impôt sur le revenu peut s'ajouter au revenu brut déclaré aux fins de la Loi sur la taxe d'accise (la « Loi » ).
+[2] La cotisation en vertu de la Loi est établie pour la période du 1er janvier 1998 au 31 décembre 2000. La cotisation a été déposée comme pièce I-1.
+[3] L'avis d'appel indique comme seul motif d'appel, le suivant : « La taxe n'est pas applicable car le revenu n'excède pas 30 000 $. »
+[4] Les faits sur lesquels s'est basé le ministre du Revenu national (le « Ministre » ) pour établir sa cotisation sont décrits au paragraphe 7 de la Réponse à l'avis d'appel (la « Réponse » ) et se lisent comme suit :
+a) au cours des années 1997, 1998, 1999 et 2000, l'appelant exerçait des activités commerciales dans le domaine de l'audio-visuel et de la disco mobile;
+b) les années d'imposition 1997, 1998 et 1999 ont fait l'objet d'une vérification par l'Agence des douanes du Canada (ADRC) en matière d'impôt;
+c) le vérificateur du ministre, en procédant selon la méthode de l'avoir net, a décelé des ventes additionnelles aux montants suivants :
+Année d'imposition
+Ventes additionnelles
+1997
+7 987 $
+1998
+9 805 $
+1999
+8 682 $
+d) ces ventes additionnelles ont été ajoutées au chiffre d'affaires originalement déclaré par l'appelant pour obtenir le revenu d'affaires total suivant :
+Année
+Revenu
+d'affaires déclaré
+Revenu additionnel
+Revenu
+d'affaires total
+1997
+29 817 $
+7 987 $
+37 804 $
+1998
+24 932 $
+9 805 $
+34 737 $
+1999
+26 536 $
+8 682 $
+34 523 $
+e) au niveau de la TPS, l'appelant a effectué des fournitures taxables pour des contreparties totalisant les montants suivants pour la période du 1er janvier 1998 au 31 décembre 2000 soit la période en litige :
+Année
+Contrepartie
+TPS
+Total
+1998
+34 737,00 $
+2 431,59 $
+37 168,59 $
+1999
+34 523,00 $
+2 416,61 $
+36 939,61 $
+2000
+28 954,90 $
+2 026,43 $
+30 981,43 $
+f) le ministre a procédé à l'inscription de l'appelant à partir du 1er janvier 1998;
+g) le ministre a accepté l'utilisation par l'appelant de la « méthode rapide » pour la détermination de la taxe nette et à cette fin le montant que l'appelant aurait dû remettre pour chaque période a été établi comme suit :
+Année
+Montant
+1998
+1 558,43 $
+1999
+1 546,98 $
+2000
+1 249,09 $
+Total
+4 354,50 $
+h) l'appelant n'a pas conservé ses pièces justificatives et il n'a pas tenu de registres adéquats.
+[5] L'appelant est un technicien en sonorisation et musicien. Il possède un studio d'enregistrement.
+[6] L'appelant a affirmé qu'il n'avait pas interjeté appel des cotisations fiscales du Ministre établies sur la base de l'avoir net parce qu'il ne savait pas que cet avoir net serait utilisé pour les fins de la taxe d'accise.
+[7] Le calcul de l'écart par avoir net a été produit comme pièce A-1.
+[8] L'appelant a produit comme pièce A-2 une lettre signée par le directeur général de la Caisse populaire de la Chaudière en date du 30 novembre 2004 voulant qu'un prêt de 4 000 $ lui aurait été consenti en 1999 pour payer l'impôt dû.
+[9] Cette lettre se lit comme suit :
+Le 30 novembre 2004
+À qui de droit,
+Par la présente, nous confirmons que la Caisse populaire de St-Lambert a consenti en 1999 un prêt de 4 000 $ à monsieur Michel Dionne, propriétaire des Productions Michel Dionne, pour régler l'entente intervenue du 11 juin 1999 entre celui-ci et le Ministère de l'impôt afin de clore ce dossier.
+...
+[10] Madame Nancy Racine a agi comme vérificatrice dans ce dossier. Elle a reçu l'information de la division de l'impôt que des revenus additionnels avaient été ajoutés au revenu déclaré de l'appelant. Une vérification par la méthode de l'avoir net a ajouté au revenu déclaré de l'appelant un revenu additionnel de 7 987 $, 9 805 $ et 8 682 $ pour les années 1997 à 1999 respectivement.
+[11] Ces revenus additionnels ont été considérés comme des revenus d'entreprise puisque l'appelant était un particulier en affaires. En additionnant ces revenus au revenu brut déclaré par l'appelant, ce dernier dépassait le plafond de 30 000 $ du petit fournisseur pour les années 1997 à 1999.
+[12] Les états financiers de l'appelant pour les années 1996 à 2000 ont été produits comme pièce I-2. L'appelant avait déclaré des ventes pour les années 1997 à 2000 de 29 817 $, 24 932 $, 26 536 $ et 28 954,90 $. L'avoir net ne considérait pas l'année 2000. Donc pour cette année, c'est sur le montant tel que déclaré par l'appelant que la cotisation a été établie.
+[13] La vérificatrice a rencontré l'appelant au début du mois de juillet 2002. Elle explique qu'elle aurait accepté de revoir l'état des dépenses et des revenus s'il y avait eu des registres ou pièces justificatives. En ce qui concerne la réclamation des intrants, elle a expliqué au contribuable qu'il y avait deux méthodes pour obtenir le crédit sur les intrants soit la méthode longue avec toutes les pièces ou la méthode rapide qui était la plus avantageuse pour lui s'il n'avait aucune pièce à fournir. La vérificatrice a établi la taxe nette en lui donnant un crédit de taxe sur les intrants en utilisant la méthode rapide tel que mentionné au paragraphe g) de la Réponse. Ainsi, le montant de taxe n'est pas 2 431,59 $ mais 1 558,43 $ pour l'année 1998.
+[14] La vérificatrice fait état que selon les dispositions des articles 148 et 240 de la Loi, une personne doit s'inscrire pour l'année qui suit l'année où cette personne excède le 30 000 $ de ventes. C'est la raison pour laquelle la cotisation commence en 1998. La cotisation inclut l'année 2000 en fonction de la description d'un petit fournisseur à l'article 148 de la Loi et en fonction du paragraphe 242(2) de la Loi. Selon cette dernière disposition, la personne qui a la qualité de petit fournisseur a droit à l'annulation de son inscription qui prend effet le lendemain du dernier jour de son exercice s'il a présenté au Ministre une demande à cette fin et si ce jour-là, il était inscrit depuis au moins un an.
+[15] Par l'intermédiaire de monsieur Marc Robitaille, un agent de perception de Revenu Québec, l'appelant a produit comme pièce A-3 une entente intervenue entre Les productions Michel Dionne de St-Jean Inc. et Revenu Québec (service de la perception) aux fins d'un règlement final pour une somme de 4 000 $. Monsieur Robitaille indique que ce document ne vaut que pour la société qui, elle, a cessé d'exister en 1997. C'est en cette année 1997 que l'appelant a commencé à faire affaires à titre de particulier.
+Arguments
+[16] En ce qui concerne le revenu additionnel établi par la méthode de l'avoir net, l'appelant prétend que ce n'est pas son revenu brut qui a augmenté mais les déductions qui ont été réduites. Il soutient qu'il n'y a pas eu démonstration de ventes supplémentaires.
+[17] L'avocat de l'intimée s'appuie sur la décision de la Cour d'appel fédérale dans l'affaire Pal c. Canada, [2003] A.C.F. no 726 (Q.L.), où il s'agissait d'une cotisation établie en vertu de la Loi mais fondée sur un avoir net fait pour des fins fiscales. Il fait donc valoir qu'il n'y a pas de raison pour empêcher l'utilisation des résultats d'un avoir net pour les fins de la Loi.
+Analyse et conclusion
+[18] L'appelant était en droit relativement à la cotisation dont il y a appel, de contester le calcul du revenu par avoir net tel que fait pour la Loi de l'impôt sur le revenu. Il n'était plus en droit de le faire pour les fins d'un appel en vertu de la Loi de l'impôt sur le revenu puisque les délais étaient expirés mais rien ne l'empêchait de le faire pour la Loi.
+[19] La seule contestation documentaire a été faite au moyen d'un document émis la veille de l'audience tel que rapporté aux paragraphes 8 et 9 de ces motifs. Le signataire de la lettre n'était pas présent pour témoigner. Aucun document n'accompagnait cette lettre. Ce document ne peut pas être accepté comme une preuve d'endettement à la fin de l'année 1999, car dans un avoir net, un montant est inscrit au passif s'il est dû à la fin de l'année.
+[20] Les contestations de l'appelant ont autrement consisté en des affirmations verbales. L'appelant prétend que l'accroissement du revenu établi par l'avoir net n'était pas dû à un accroissement de ses ventes mais au fait que les dépenses réclamées à l'encontre du total des ventes brutes mentionné à ses bilans auraient peut-être été trop élevées. À cet égard, il me faut dire qu'il appartenait à l'appelant de faire la preuve de ses prétentions et en quoi les dépenses devraient être diminuées. Pour ceci, il faut évidemment des registres ou des factures. De plus, ces documents devraient être présentés à la partie intimée avant l'audition.
+[21] Si je prends l'année 1997, l'appelant a indiqué dans ses états des résultats un chiffre d'affaires au montant de 29 817 $. Le profit net est indiqué comme étant de 4 440 $. C'est son revenu déclaré. Son revenu total par avoir net est de 12 427 $. Si les dépenses étaient gonflées, c'était à l'appelant d'indiquer quel en aurait dû être le montant.
+[22] L'appelant a aussi mentionné qu'il avait vendu quelques pièces d'équipement ce qui aurait augmenté le revenu par avoir net. Là aussi, on ne peut rester qu'au stade de l'affirmation. Il faut avoir préparé des papiers qui indiquent ces montants et quel est l'effet sur le revenu par avoir net.
+[23] Une cour ne peut pas juger sur des suggestions ou de simples prétentions. L'avis d'appel on ne peut plus laconique indique à quel point l'appelant n'avait pas fourni l'information adéquate en temps opportun. Il me faut penser qu'il n'était pas en mesure de la fournir.
+[24] Pour l'année 2000, je me réfère au mémorandum 2.7 ayant pour titre : « Annulation de l'inscription » , en date de mai 1999 et plus particulièrement aux paragraphes 6 et 7 :
+Demande d'annulation par un inscrit (paragr. 242(2))
+6. Le ministre peut, à la demande de la personne concernée (sauf un exploitant de taxis), annuler l'inscription si la personne répond aux critères suivants :
+a) elle est un petit fournisseur (voyez le mémorandum sur la TPS/TVH 2.2, Petits fournisseurs, pour la définition de petit fournisseur);
+b) elle était inscrite depuis au moins un an.
+7. Dans de telles circonstances, l'annulation prend effet généralement le lendemain du dernier jour de l'exercice de la personne pourvu qu'elle ait été inscrite depuis au moins un an. Toutefois, pour des fins administratives, la date d'entrée en vigueur de l'annulation peut être une autre date fixée en consultation avec l'inscrit, pourvu que les conditions énoncées ci-dessus soient remplies.
+[25] L'article 240 de la Loi prévoit que toute personne qui effectue une fourniture taxable est tenue d'être inscrite pour l'application de la Loi.
+[26] Le paragraphe 242(2) de la Loi se lit comme suit :
+242(2) Demande d'annulation
+(2) Le petit fournisseur qui n'exploite pas d'entreprise de taxis a droit à l'annulation de son inscription, qui prend effet le lendemain du dernier jour de son exercice, s'il remplit les conditions suivantes :
+a) il a présenté au ministre une demande à cette fin en la forme, selon les modalités et avec les renseignements déterminés par celui-ci;
+b) ce jour-là, il était inscrit depuis au moins un an.
+[27] La personne qui reprend la qualité de petit fournisseur a droit à l'annulation de son inscription. Cette personne doit tout de même en faire la demande en la forme selon les modalités et avec les renseignements déterminés par le Ministre. Cette demande n'a pas été faite.
+[28] Je dois conclure que l'appelant n'a pas prouvé qu'il était un petit fournisseur au cours des années en litige au sens de l'article 148 de la Loi.
+[29] L'appel est en conséquence rejeté.
+Signé à Montréal, Québec, ce 4e jour de mai 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2005CCI320
+No DU DOSSIER DE LA COUR :
+2004-1091(GST)I
+INTITULÉ DE LA CAUSE :
+Michel Dionne et La Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+1er décembre 2004
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 4 mai 2005
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Pour l'intimée :
+Me Louis Cliche
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

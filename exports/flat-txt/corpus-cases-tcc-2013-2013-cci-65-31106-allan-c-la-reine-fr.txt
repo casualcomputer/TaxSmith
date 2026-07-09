@@ -1,0 +1,166 @@
+Title: Allan c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31106/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-65-31106-allan-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-02-15
+
+# Allan c. La Reine
+
+- Citation: 2013 CCI 65
+- Decision date: 2013-02-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4692, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Allan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-02-15
+Référence neutre
+2013 CCI 65
+Numéro de dossier
+2009-3477(IT)G
+Juges et Officiers taxateurs
+Frank J. Pizzitelli
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3477(IT)G
+ENTRE :
+RICHARD ALLAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 15 février 2013, à Kingston (Ontario).
+Devant : L’honorable juge F. J. Pizzitelli
+Comparutions :
+Avocat de l’appelant :
+Me John M. Farant
+Avocate de l’intimée :
+Me Sara Chaudhary
+____________________________________________________________________
+JUGEMENT
+Comme les parties ont reconnu que le présent appel ne concernait pas l’année d’imposition 2000, l’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est rejeté.
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est rejeté. Les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 22e jour de février 2013.
+« F. J. Pizzitelli »
+Juge Pizzitelli
+Traduction certifiée conforme
+ce 27e jour de mai 2013.
+Mario Lagacé, jurilinguiste
+Référence : 2013 CCI 65
+Date : 20130222
+Dossier : 2009-3477(IT)G
+ENTRE :
+RICHARD ALLAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Pizzitelli
+[1] Les parties ont reconnu que le présent appel ne porte que sur l’année d’imposition 2001 bien que l’avis d’appel mentionne un appel interjeté à l’encontre de la ratification faite par le ministre du Revenu national (le « ministre ») relativement aux années d’imposition 2000 et 2001.
+[2] L’appelant interjette appel à l’encontre d’une cotisation établie à son égard pour l’année d’imposition 2001, par laquelle on lui a refusé la déduction d’honoraires d’avocat de 48 164 $ et d’une somme de 70 000 $ qu’il avait cédée à Sa Majesté la Reine du chef de l’Ontario relativement à une entente conclue dans le contexte d’une procédure pénale intentée contre l’appelant pour des accusations selon lesquelles il vivait des produits de la prostitution.
+[3] Selon la preuve non contestée, en 2001, l’appelant gérait l’entreprise d’escorte exploitée principalement à Toronto par deux sociétés, à savoir Nu‑Deal Holdings Inc. (la « Nu‑Deal ») et D.J.A. Holdings Inc. (la « DJA ») (les « sociétés »), dont l’appelant et son frère étaient co‑propriétaires jusqu’à ce que l’appelant vende ses parts à son frère en janvier 2001. L’appelant a admis qu’il possédait 50 % des actions, comme l’avait supposé le ministre.
+[4] Dans le contexte de l’opération de vente, un contrat de travail daté du 1er août 2001 (le « contrat ») a été conclu entre l’appelant et la DJA. Le contrat stipulait que l’appelant devait être employé jusqu’au 31 juillet 2004, soit pendant trois ans, à moins que le contrat ne soit résilié plus tôt, et, aux termes du paragraphe 2.1 du contrat, il devait occuper le poste de [traduction] « superviseur » pour [traduction] « exercer les fonctions et les pouvoirs se rapportant à la gestion et à l’exploitation de la société que détermine selon les besoins le conseil d’administration en accord avec la direction » et, selon le paragraphe 3.1 du contrat, [traduction] « de faire rapport au président de la société », moyennant une rémunération fixée au paragraphe 4.1 de [traduction] « 96 000 $ par année payable par versements mensuels de 8 000 $, exigibles pour le mois écoulé, déduction faite de toutes les retenues à la source ».
+[5] Malgré le fait que le contrat d’emploi exigeait que l’appelant consacre tout son temps et toute son attention à la société ou à ses sociétés affiliées, l’appelant a affirmé qu’après la vente de ses parts à son frère, son rôle dans la société était celui d’un expert-conseil qui intervenait pour remplacer son frère et [traduction] « s’occuper des affaires » de temps en temps en son absence. L’appelant a toutefois reconnu qu’il n’avait jamais facturé de services d’expert-conseil aux sociétés et qu’il avait seulement reçu la rémunération convenue dans le contrat d’emploi jusqu’en avril 2009, moment où l’exploitation a cessé, et qu’il n’est jamais désigné comme expert-conseil ou entrepreneur indépendant dans le contrat d’emploi. Avant la vente des actions, le rôle de l’appelant avait été en fait de gérer les sociétés, notamment d’effectuer la tenue des documents comptables, les dépôts bancaires, le paiement des factures et d’établir l’horaire concernant les activités d’escorte, mais, selon le témoignage de l’appelant, tout cela avait changé lorsqu’il avait vendu ses parts et qu’il s’était [traduction] « retiré de l’entreprise ».
+[6] Peu de temps après que l’appelant a vendu ses actions, son frère et lui ont fait l’objet d’accusations au pénal comme je l’ai mentionné précédemment, et l’appelant a été emprisonné pendant au moins une trentaine de jours jusqu’à sa libération sous caution lors d’une audience à Toronto et, pendant la période de 18 mois qui a suivi alors qu’il attendait son procès, il devait, selon une condition de la libération sous caution, se présenter sur une base hebdomadaire ou aux deux semaines et n’avait donc pas pu travailler. Selon la preuve, l’appelant n’avait d’autres sources de revenus en 2002 ou en 2003 que la somme d’environ 24 000 $ en 2002, qui représentait le revenu gagné en vertu du contrat de travail pour les trois premiers mois de cette année‑là. Il convient de signaler que les deux sociétés ont effectivement cessé leurs activités à cause des accusations pénales qui avaient été portées contre l’appelant et son frère. Selon le témoignage de l’appelant, ce sont notamment les retards qui ont précédé la tenue du procès et son incapacité de travailler qui l’ont poussé à signer une entente intitulée [traduction] « renonciation ». Selon cette entente, l’appelant a renoncé à tous les intérêts qu’il détenait dans divers biens, y compris une somme de 70 000 $ qu’il avait dans un compte bancaire, intérêts qui provenaient tous de ses activités criminelles selon ce qu’il avait admis dans cette renonciation que son avocat avait décrite comme étant une entente avec la Couronne.
+[7] Ce n’est qu’en 2007 que l’appelant a pu produire ses déclarations de revenus pour les années d’imposition 2001 et 2002, parce que l’Agence du revenu du Canada (l’« ARC ») avait saisi les dossiers de l’appelant qui étaient détenus par celui‑ci ainsi que par son comptable et par son frère, et qu’ils ne lui avaient été retournés que quelques années plus tard. En outre, après que les documents saisis avaient été retournés à l’appelant, son comptable, qui avait au départ indiqué qu’il préparerait et produirait ses déclarations de revenus, s’était ravisé et l’appelant avait été obligé de retenir les services d’un nouveau comptable, à savoir M. L, en 2006.
+[8] Avec l’aide de M. L, que l’appelant avait rencontré et à qui il avait remis tous les documents, la déclaration T1 générale de l’appelant de l’année 2001 a été préparée et l’appelant l’a examinée et signée. Cette déclaration faisait état d’un revenu d’emploi de 98 000 $ tirés de la DJA, d’autres revenus d’emploi de 12 666 $ tirés de la Nu‑Deal, ainsi que d’autres dividendes imposables et gains en capital imposables, mais elle ne comportait aucun revenu provenant d’un travail indépendant. En fait, selon la preuve produite par l’intimée et admise par l’appelant, celui‑ci n’avait tiré aucun revenu d’un travail indépendant ou d’une entreprise pour les années allant de 1998 à ce jour, comme nous l’avons vu plus tôt.
+La position des parties
+[9] L’appelant soutient qu’il peut être considéré comme ayant exploité une agence d’escorte compte tenu du rôle qu’il jouait dans les sociétés, et que les honoraires d’avocat et les frais concernant la renonciation en cause sont des dépenses directement liées à cette activité. L’appelant soutient en outre, qu’à tout le moins, il est un employé et que de telles dépenses ont été supportées pour protéger et préserver sa source de revenus, malgré le fait qu’elles aient été supportées en 2003, mais qu’elles aient été déduites à l’égard de l’année d’imposition 2001. L’appelant estime que, sans égard au moment où elles ont été supportées, les dépenses se rapportaient au processus qui avait commencé peu après son arrestation relativement à son activité et avaient été financées au moyen du revenu qu’il avait tiré de l’activité des sociétés et que, par conséquent, selon les principes comptables, la déduction devrait correspondre au revenu qui leur avait servi de base.
+[10] L’intimée soutient que l’appelant n’exploitait aucune entreprise, mais qu’il n’était qu’un employé et qu’il ne peut donc pas demander de déductions pour les dépenses en cause, étant donné qu’elles n’ont pas été engagées en vue de gagner un revenu et qu’elles ne peuvent pas être déduites à titre de dépenses d’emploi. L’intimée soutient essentiellement qu’il s’agissait de dépenses personnelles que l’appelant avait engagées pour assurer sa défense concernant des accusations pénales ou pour régler ses affaires avec la Couronne relativement à ses activités criminelles et qu’elles ne sont pas déductibles.
+Le droit
+[11] Les dispositions pertinentes de la Loi de l’impôt sur le revenu (la « Loi ») sont énoncées ci‑après :
+8(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+Frais judiciaires d’un employé
+b) les sommes payées par le contribuable au cours de l’année au titre des frais judiciaires ou extrajudiciaires qu’il a engagés pour recouvrer le traitement ou salaire qui lui est dû par son employeur ou ancien employeur ou pour établir un droit à ceux-ci;
+[…]
+Dépenses de vendeurs
+f) lorsque le contribuable a été, au cours de l’année, employé pour remplir des fonctions liées à la vente de biens ou à la négociation de contrats pour son employeur, et lorsque, à la fois:
+(i) il était tenu, en vertu de son contrat, d’acquitter ses propres dépenses,
+(ii) il était habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur,
+(iii) sa rémunération consistait en tout ou en partie en commissions ou autres rétributions semblables fixées par rapport au volume des ventes effectuées ou aux contrats négociés,
+(iv) il ne recevait pas, relativement à l’année d’imposition, une allocation pour frais de déplacement qui, en vertu du sous-alinéa 6(1)b)(v), n’était pas incluse dans le calcul de son revenu,
+les sommes qu’il a dépensées au cours de l’année pour gagner le revenu provenant de son emploi (jusqu’à concurrence des commissions ou autres rétributions semblables fixées de la manière prévue au sous-alinéa (iii) et reçues par lui au cours de l’année) dans la mesure où ces sommes n’étaient pas :
+(v) des dépenses, des pertes ou des remplacements de capital ou des paiements au titre du capital, exception faite du cas prévu à l’alinéa j),
+(vi) des dépenses qui ne seraient pas, en vertu de l’alinéa 18(1)l), déductibles dans le calcul du revenu du contribuable pour l’année, si son emploi relevait d’une entreprise exploitée par lui;
+(vii) des montants dont le paiement a entraîné la réduction du montant qui serait inclus par ailleurs dans le calcul du revenu du contribuable pour l’année en application de l’alinéa 6(1)e);
+[…]
+Restriction générale
+(2) Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi.
+[…]
+18(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+Restriction générale
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+[…]
+Frais personnels ou de subsistance
+h) le montant des frais personnels ou de subsistance du contribuable — à l’exception des frais de déplacement engagés par celui-ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+L’analyse
+[12] J’examinerai d’abord la question de savoir si l’appelant peut déduire les dépenses en question à titre de dépenses engagées en vue de tirer un revenu d’une entreprise ou d’un bien en application de l’alinéa 18(1)a) de la Loi.
+1. Déduction de dépenses engagées en vue de tirer un revenu d’une entreprise
+[13] L’appelant admet que, bien qu’il n’était pas actionnaire des sociétés après la vente de ses actions à son frère en janvier 2001, il avait essentiellement pour fonction de diriger les sociétés en l’absence de son frère et qu’ainsi, il devrait être considéré comme s’il exploitait une entreprise. Franchement, je trouve que cet argument n’est pas du tout convaincant.
+[14] Premièrement, l’appelant n’exploitait pas directement l’agence d’escorte qu’il prétend avoir dirigée, mais ce sont plutôt les sociétés qui l’exploitaient. Il est bien établi en droit dans ce pays que les sociétés sont considérées comme une entité juridique distincte de ses actionnaires ou de ses employés et la Loi reconnaît cela par le fait qu’elle inclut les sociétés dans la définition du terme « personne » au paragraphe 248(1).
+[15] Deuxièmement, l’appelant a lui‑même admis qu’après avoir vendu ses parts, il s’était effectivement retiré de l’entreprise et ses fonctions avaient changé : il avait renoncé à la gestion et à l’exploitation des sociétés pour conclure un contrat d’emploi en vertu duquel, selon sa propre déclaration, il n’était tenu que de [traduction] « s’occuper des affaires » en l’absence de son frère lorsque cela était nécessaire, ce qui n’arrivait pas fréquemment selon ce qu’il a laissé entendre. Selon le témoignage de l’appelant lui‑même, on ne peut pas dire qu’il assumait un rôle suffisamment important pour conclure qu’il devrait personnellement être considéré comme ayant exploité l’entreprise, même si cet argument aurait pu être invoqué.
+[16] Troisièmement, même si l’appelant avait continué à exploiter l’entreprise des sociétés à temps plein après la vente de ses actions, je ne trouve aucun fondement en droit pour conclure qu’un directeur ou un cadre supérieur est réputé exploiter l’entreprise de la société pour laquelle il travaille.
+[17] En l’espèce, il n’existe absolument aucun élément de preuve selon lequel l’appelant exploitait une quelconque entreprise en 2001, ni à aucun moment de 1998 à 2003, étant donné que, selon le témoignage de l’appelant lui‑même, son frère et lui avaient constitué l’entreprise en société à un certain moment en 1997. Il admet qu’il n’a pas déclaré de revenus provenant d’un travail indépendant en 2001 ni à partir de 1997 et qu’il a tiré un revenu d’emploi des sociétés en 2001. Étant donné que l’appelant n’a exploité aucune entreprise, il ne peut pas demander la déduction de dépenses engagées en vue de tirer un revenu d’une entreprise en vertu de l’alinéa 18(1)a) de la Loi, qu’il s’agisse d’honoraires d’avocat ou de frais liés à la confiscation de biens.
+[18] L’appelant s’est fondé sur la décision Partykan v. The Minister of National Revenue, 80 DTC 1475, rendue en 1980 par la Commission de révision de l’impôt, dans laquelle le contribuable avait été autorisé à déduire les honoraires d’avocat et la valeur des actions cédées à son ancien employeur dans le contexte du règlement d’une plainte pour utilisation abusive de renseignements confidentiels, à savoir les listes de clients, au motif que les paiements dont il était question avaient permis au contribuable d’utiliser ces renseignements dans sa propre entreprise, et ainsi de faire concurrence à l’entreprise de son ancien employeur. L’appelant laisse entendre que cela appuie sa position selon laquelle les dépenses qu’il a supportées pour pouvoir travailler sont déductibles.
+[19] En ce qui concerne l’appelant dans la décision Partykan, il n’était pas contesté que le contribuable exploitait une entreprise et que des fonds avaient été dépensés pour lui permettre d’entrer en concurrence et de tirer un revenu d’une entreprise ou d’un bien. En l’espèce, l’appelant n’a aucune source de revenu d’entreprise à l’égard de laquelle il peut demander des déductions, étant donné qu’il n’a pas d’entreprise.
+[20] L’appelant a également soutenu que les honoraires d’avocat étaient nécessaires pour préserver l’entreprise afin de protéger sa source de revenus, mais, honnêtement, il ressort du témoignage de l’appelant lui‑même que l’entreprise des sociétés avait cessé ses activités lorsque l’appelant et son frère avaient été arrêtés, et rien n’indique dans la facture concernant les honoraires d’avocat quelque mesure que ce soit prise par les avocats en vue de permettre aux sociétés de continuer à exploiter l’agence d’escorte. La facture concernant les honoraires d’avocat ne fait état que des accusations pénales concernant l’appelant ainsi que cela a été indiqué ci‑dessus.
+[21] L’appelant a invoqué la décision St-Germain v. The Minister of National Revenue, 83 DTC 36 rendue par la Commission de révision de l’impôt, dans laquelle il a été conclu qu’en application de l’alinéa 18(1)a) de la Loi, un médecin pouvait déduire les frais judiciaires qu’il avait engagés pour assurer sa défense relativement à une accusation de négligence criminelle à l’égard de laquelle une déclaration de culpabilité aurait entraîné une interdiction d’exercer la profession de médecin et partant une interdiction d’exploiter son entreprise. Une fois de plus, en l’espèce, l’appelant n’exploitait aucune entreprise avant ou après le moment où les dépenses ont été engagées; il y a donc lieu d’établir clairement une distinction entre l’espèce et la décision invoquée, qui n’est d’aucun secours pour l’appelant.
+2. Montants à déduire d’un revenu d’emploi
+[22] L’appelant soutient aussi qu’il a le droit de déduire de telles dépenses de son revenu d’emploi. Il n’est nullement contesté que l’appelant était un employé des sociétés durant l’année d’imposition 2001. L’appelant l’a admis. Il ressort de la preuve que les sociétés avaient établi des feuillets T4 à l’égard de l’appelant et qu’elles avaient produit des déclarations concernant les retenues à la source qui en faisaient état. Même si l’appelant a tenté de faire valoir que l’ARC avait établi ces déclarations, aucun élément de preuve ne justifie cet argument et, honnêtement, il ressort clairement des éléments de preuve produits par l’intimée que l’ARC avait traité les déclarations de revenus des sociétés dans un délai raisonnable après la production de la déclaration de revenus pour 2001 et j’accepte la preuve présentée par l’ARC comme étant plus crédible que celle produite par l’appelant en ce qui a trait à cette question. L’appelant n’a présenté aucune preuve contraire.
+[23] Il n’est pas contesté que l’appelant était un employé des sociétés en 2001 et qu’il avait tiré un revenu de cet emploi. Il ressort clairement de la preuve que l’appelant était un employé avant la vente de ses actions et par la suite, puisque le contrat d’emploi décrit sans équivoque que la relation de l’appelant à l’égard des sociétés est celle d’un employé qui reçoit une rémunération mensuelle sujette aux [traduction] « retenues à la source obligatoires » tel que cela est prévu au paragraphe 4.1 du contrat. En outre, la preuve démontre que la DJA avait établi un feuillet T4 - État de la rémunération payée à l’égard de l’appelant, qui faisait état du revenu d’emploi alors que la Nu-Deal avait établi un feuillet T4A, État du revenu de pension, de retraite, de rente ou d’autres sources relativement à l’appelant. Celui‑ci a admis qu’il n’avait reçu aucun revenu de commission des sociétés et qu’il n’avait déclaré ou gagné aucun revenu tiré d’un travail indépendant comme il a déjà été mentionné.
+[24] L’appelant soutient que les honoraires d’avocat engagés en 2003 l’ont été en vue de régler l’affaire, de protéger sa source de revenus et de préserver sa dignité, et devraient être déductibles. En ce qui concerne l’appelant, il convient de signaler que le paragraphe 8(2) de la Loi est sans équivoque en ce sens qu’il précise que seuls les montants prévus au paragraphe 8(1) de la Loi sont déductibles dans le calcul du revenu d’emploi. La seule disposition du paragraphe 8(1) de la Loi qui se rapporte à l’une ou l’autre des deux déductions demandées est l’alinéa 8(1)b) qui exige expressément que les sommes payées par le contribuable soient « payées » au cours de l’année et que les frais soient « engagés pour recouvrer le traitement ou salaire qui lui est dû par son employeur ou ancien employeur ou pour établir un droit à ceux‑ci ».
+[25] La facture concernant les honoraires judiciaires a été établie le 24 juillet 2003 et elle a été réglée par l’appelant au cours de cette année‑là selon son témoignage. En conséquence, il est évident que, si ces frais sont déductibles, ils ne peuvent être déduits qu’à l’égard de l’année où ils ont été payés. En l’espèce, l’appelant a payé la facture en 2003 et a demandé une déduction à l’égard de l’année 2001 lorsqu’il a produit tardivement sa déclaration de revenus pour cette année‑là et, par conséquent, de tels honoraires d’avocat ne sont pas déductibles à l’égard de l’année 2001 selon le libellé précis de l’alinéa 8(1)b) de la Loi. Cela règle manifestement la prétention de l’appelant en ce qui a trait au moment de la déduction.
+[26] Outre la question concernant le moment de la déduction, l’autre exigence énoncée à l’alinéa 8(1)b) de la Loi est qu’il doit s’agir de frais engagés par le contribuable pour recouvrer un traitement ou salaire qui lui est dû par son employeur ou ancien employeur. La facture établie par les avocats de l’appelant ne mentionne aucune discussion avec l’une ou l’autre société ou une quelconque mesure prise pour recouvrer un traitement ou salaire dû. La facture ne fait état que de questions ayant trait à la représentation que l’avocat assure pour l’appelant concernant l’affaire pénale, dont la présence à l’audience sur la libération sous caution, la phase préalable à l’instruction, les tentatives d’accès aux fonds saisis, les interactions avec la police et les discussions concernant la suspension de la peine d’emprisonnement et la probation. À mon avis, il n’y a absolument rien qui se rapporte à quelque demande que ce soit de l’appelant concernant un traitement ou salaire dû en vertu du contrat d’emploi ou autrement, et je suis d’avis que de tels honoraires d’avocat n’ont été engagés que relativement aux accusations pénales portées contre l’appelant, ce qui n’a strictement rien à voir avec le traitement ou le salaire dû. En conséquence, il n’a pas été satisfait aux autres exigences énoncées à l’alinéa 8(1)b) de la Loi.
+[27] Dans la décision Wilson v. Canada, 90 DTC 6382, la Section de première instance de la Cour fédérale qui, à l’époque, avait compétence pour connaître de l’appel des décisions rendues par la Cour canadienne de l’impôt, a conclu qu’un enseignant salarié ne pouvait pas déduire des honoraires judiciaires engagés pour assurer sa défense relativement à des accusations de viol et de séquestration. Le juge Addy a fait les observations suivantes, à la page 2 de la décision :
+J’estime aussi, comme le juge Sarchuk, que le libellé de la disposition [en parlant de l’alinéa 8(1)b)] est clair et sans ambiguïté et qu’il incombe au contribuable d’établir qu’il a engagé les dépenses en question pour recouvrer un traitement ou un salaire. Il doit donc les avoir engagées à l’occasion de procédures quelconques entreprises contre l’employeur ou la personne qui doit les sommes revendiquées.
+[28] L’argument de l’appelant est encore plus faible. Il dit en fait qu’il était essentiel de régler l’affaire pénale afin qu’il puisse préserver sa dignité et sa réputation et continuer à travailler.
+[29] Dans la décision Esposito c. Canada, 2004 CCI 102, [2004] 2 C.T.C. 2840, un policier a tenté de déduire des honoraires d’avocat engagés pour se défendre contre des accusations de voie de fait à l’égard d’un prisonnier et a été acquitté des accusations portées contre lui, mais on lui a néanmoins refusé le droit de déduire ces honoraires d’avocat. Le policier avait soutenu qu’il était nécessaire de se défendre contre de telles accusations afin de pouvoir continuer à travailler en tant que policier. La juge Woods, de la Cour, a fait les observations suivantes au paragraphe 7 de cette décision :
+[…] Selon la preuve présentée à l’audience, les frais judiciaires engagés par la défense pour les accusations au criminel l’ont été pour protéger une source de revenus futurs. Ils n’ont pas été engagés pour recouvrer un salaire qui était dû.
+[30] J’estime qu’en l’espèce, l’appelant a aussi essayé, au sens le plus général, de protéger des revenus futurs.
+[31] L’appelant s’est également fondé sur la décision Raphael c. Canada, 2008 CCI 202, 2008 DTC 3559, dans laquelle le juge McArthur a accordé à un contribuable qui était courtier en placements, le droit de déduire le montant de 49 759 $ qui avait été adjugé en faveur de son ancien employeur pour rupture de contrat de travail, plus les frais judiciaires et les honoraires d’avocat supportés par l’appelant. Toutefois, dans cette décision, le contribuable était un vendeur à commission qui avait changé d’employeur, et le fondement de la déductibilité des frais se trouvait à l’alinéa 8(1)f) et non à l’alinéa 8(1)b) de la Loi. Il en est de même pour le contribuable en cause dans la décision Douthwright c. Canada, 2007 CCI 560, 2007 DTC 1614, que l’appelant a également invoquée, qui avait été autorisé à déduire les honoraires d’avocat et les frais de règlement relativement à une rupture du contrat de travail engagés pour que le contribuable puisse trouver un travail mieux rémunéré. Dans ces deux affaires, les contribuables ont pu, à titre de vendeurs à commission, se fonder sur une autre disposition précise du paragraphe 8(1) de la Loi pour obtenir que des montants soient déduits du revenu d’emploi.
+[32] En l’espèce, l’appelant a admis qu’il n’avait pas reçu de commissions et que, par conséquent, il ne pouvait pas tomber sous le coup de l’alinéa 8(1)f) de la Loi à l’instar des contribuables dans les décisions susmentionnées.
+[33] Je tiens également à signaler qu’en ce qui concerne la demande de l’appelant de déduire, à titre de dépense d’emploi, la somme de 70 000 $ qu’il avait cédée à la Couronne comme cela a été précisé ci‑dessus, je ne puis trouver aucune disposition du paragraphe 8(1) de la Loi qui, par ailleurs, autoriserait expressément cette déduction et l’appelant n’a invoqué aucune disposition à cet égard. Le paragraphe 8(2) de la Loi est sans équivoque : seuls les montants prévus au paragraphe 8(1) de Loi sont déductibles dans le calcul du revenu tiré d’un emploi.
+[34] L’appelant n’a présenté aucun élément de preuve justifiant les demandes de déductions à l’égard du traitement ou du salaire en application de l’article 8 de la Loi.
+Les arguments fondés sur l’équité
+[35] J’aimerais examiner l’autre argument que l’appelant a invoqué à l’appui du redressement qu’il a demandé, ainsi que cela a été mentionné dans son avis d’appel, argument qui est fondé sur l’équité et la justice, compte tenu des difficultés que l’appelant a dû subir relativement à la perte d’emploi et à la procédure concernant les accusations pénales auxquelles il a eu à répondre. L’appelant s’est également plaint, dans les actes de procédure, de la conduite de l’ARC et a notamment laissé entendre qu’en ce qui a trait à la cession de l’élément du compte bancaire au moins, la position du ministre ne reposait pas sur un fondement clair pendant toute la période de l’opposition. En application de l’article 171 de la Loi, la Cour a le pouvoir d’examiner la cotisation seulement et non la conduite de l’ARC ou les questions d’équité qui ne relèvent pas de la Loi. La Cour ne peut pas accorder la réparation en equity demandée par l’appelant, étant donné qu’elle ne peut pas faire fi de ses conclusions portant sur la cotisation et par ailleurs venir en aide à l’appelant en invoquant des motifs liés aux difficultés ou à l’équité. Quant à l’affirmation de l’appelant selon laquelle les raisons invoquées par le ministre pour refuser la déduction de certaines dépenses n’étaient pas cohérentes, je ne souscris tout simplement pas à l’avis selon lequel le fait d’avancer que l’appelant n’exploitait pas une entreprise et d’avancer ensuite que la Loi ne comportait aucune disposition autorisant une telle déduction est incohérent, d’autant plus que je viens de tirer une conclusion en ce sens.
+Conclusion
+[36] Compte tenu de ce qui précède, je dois conclure que la déduction demandée par l’appelant en vertu du paragraphe 18(1) ou de l’article 8 de la Loi ne repose sur aucun fondement juridique tant à l’égard des honoraires d’avocat que de la valeur du solde de son compte bancaire cédé à Sa Majesté la Reine du chef de l’Ontario. Par conséquent, l’appel concernant l’année 2001 est rejeté; en outre, selon l’accord des parties, le présent appel ne concernait pas l’année d’imposition 2000 et l’appel à l’égard de cette année‑là est également rejeté. L’intimée a droit aux dépens.
+Signé à Ottawa, Canada, ce 22e jour de février 2013.
+« F. J. Pizzitelli »
+Juge Pizzitelli
+Traduction certifiée conforme
+ce 27e jour de mai 2013.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2013 CCI 65
+No DU DOSSIER DE LA COUR : 2009-3477(IT)G
+INTITULÉ : RICHARD ALLAN c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Kingston (Ontario)
+DATE DE L’AUDIENCE : Le 15 février 2013
+MOTIFS DU JUGEMENT : L’honorable juge F.J. Pizzitelli
+DATE DU JUGEMENT : Le 22 février 2013
+COMPARUTIONS :
+Avocat de l’appelant :
+Me John M. Farant
+Avocate de l’intimée :
+Me Sara Chaudhary
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : John M. Farant
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

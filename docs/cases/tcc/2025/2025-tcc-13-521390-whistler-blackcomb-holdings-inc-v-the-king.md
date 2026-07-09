@@ -1,0 +1,248 @@
+---
+title: "Whistler Blackcomb Holdings Inc. v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521390/index.do"
+last_modified: "2025-01-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 13"
+citation2: ""
+neutral_citation: "2025 TCC 13"
+decision_date: "2025-01-22"
+language: "en"
+item_id: "521390"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6017
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:47:05.867000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a7f392b653e0fdc5dc679b328adb297c0dde63ad0524d522628339b4ecdf303b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Whistler Blackcomb Holdings Inc. v. The King
+
+- Citation: 2025 TCC 13
+- Decision date: 2025-01-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6017, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Whistler Blackcomb Holdings Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-01-22
+Neutral citation
+2025 TCC 13
+File numbers
+2023-611(GST)G
+Judges and Taxing Officers
+Scott Bodie
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2023-611(GST)G
+BETWEEN:
+WHISTLER BLACKCOMB HOLDINGS INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motions heard on November 13, 2024 at Calgary, Alberta
+Before: The Honourable Justice Scott Bodie
+Appearances:
+Counsel for the Appellant:
+Jonathan Ip
+Emily Pritchard
+Counsel for the Respondent:
+Bruce Senkpiel
+Jonathan Cooper
+ORDER
+WHEREAS the Respondent brought a motion seeking an order requiring a new nominee to attend on behalf of the Appellant in this matter at the examination for discovery;
+AND WHEREAS the Appellant brought a motion seeking an order:
+(a)directing the Respondent’s nominee to answer a particular question asked, and
+(b)directing the Respondent to produce certain documents requested in the course of examinations for discovery;
+AND UPON hearing from the parties;
+AND UPON review of all material relevant to the within motions;
+AND IN ACCORDANCE with the attached Reasons for Order;
+IT IS ORDERED that:
+The Respondent’s motion is dismissed.
+The Appellant’s motion is dismissed.
+The costs of both motions shall be in the cause.
+Signed at Ottawa, Ontario, this 22nd day of January 2025.
+“J. Scott Bodie”
+Bodie J.
+Citation: 2025 TCC 13
+Date: 20250122
+Docket: 2023-611(GST)G
+BETWEEN:
+WHISTLER BLACKCOMB HOLDINGS INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Bodie J.
+I. INTRODUCTION [1] There are two motions under consideration, both arising out of examinations for discovery in the appeal of the matter described below.
+[2] First, the Respondent brings a motion for an order naming Michele Romanow to appear on behalf of the Appellant in this matter, Whistler Blackcomb Holdings Inc. (“Whistler Blackcomb”) as a second nominee to be examined for discovery. I will refer to this motion as the Respondent’s Motion.
+[3] Secondly, Whistler Blackcomb brings a motion for an Order directing the Respondent’s nominee to answer a certain question asked, and to produce certain documents requested, during the examinations for discovery. I will refer to this motion as the Whistler Blackcomb Motion.
+II. OVERVIEW OF UNDERLYING ACTION
+[4] I will start by briefly describing the circumstances giving rise to the appeal. Whistler Blackcomb owns a 75% interest in two partnerships that, together, operate the Whistler Blackcomb Ski Resort in Whistler, British Columbia and shares of
+various subsidiaries. In 2015, Vail Resorts Inc. (“Vail”) made an unsolicited offer to purchase all of the shares of Whistler Blackcomb. Whistler Blackcomb established a committee of independent directors (the “Special Committee”) to assess the offer. To assist with its assessment, the Special Committee retained the services of Greenhill & Co Canada Ltd. (“Greenhill”). After considering this initial offer, Whistler Blackcomb decided not to pursue it. However, in 2016, Vail made a second offer, which Whistler Blackcomb accepted, after receiving advice from the Special Committee, Greenhill and its legal counsel, Osler, Hoskin & Harcourt LLP (“Osler”). Vail acquired the shares of Whistler Blackcomb in October of 2016, pursuant to this second offer.
+[5] In the course of this transaction, Whistler Blackcomb incurred significant fees for advisory services provided by both Greenhill and Osler and paid an aggregate amount of $1,618,846 in Goods and Services Tax/Harmonized Sales Tax in respect of such fees. The Minister of National Revenue denied Whistler Blackcomb’s claim for input tax credits in respect of this amount on the basis that the advisory services were not acquired by Whistler Blackcomb for the purpose of making taxable supplies, or for consumption, use or supply in the course of commercial activities. Whistler Blackcomb is appealing this decision.
+[6] The examinations for discovery that give rise to these two motions took place over a three‑day period on January 17, 2024 (the “Examination of the Respondent”), January 18, 2024 (the “Initial Examination of Whistler Blackcomb”) and February 27, 2024 (the “Continued Examination of Whistler Blackcomb”). Whistler Blackcomb examined the Respondent’s nominee on January 17, 2024. The Respondent examined Whistler Blackcomb’s nominee during both the Initial Examination of Whistler Blackcomb and the Continued Examination of Whistler Blackcomb. I will consider each motion in turn.
+III. THE MOTIONS A. The Respondent’s Motion
+[7] For both the Initial Examination of Whistler Blackcomb and the Continued Examination of Whistler Blackcomb, Whistler Blackcomb selected Ms. Toni Marie Mitchell as its nominee. The Respondent placed on the record, in this motion, copies of extracts from the discovery transcripts of Ms. Mitchell. At
+the time of the examinations, Ms. Mitchell was the Head of Tax at Vail. During the Initial Examination of Whistler Blackcomb, Ms. Mitchell testified that she was not a current or former officer, director or employee of Whistler Blackcomb. The Respondent then adjourned the Initial Examination of Whistler Blackcomb to determine next steps, as it was the Respondent’s stated view that since Ms. Mitchell was not a current or former officer, director or employee of Whistler Blackcomb, she was not a person qualified to be examined on behalf Whistler Blackcomb under Rule 93(2) of the Tax Court of Canada Rules (General Procedure) (the “Rules”), which provides as follows:
+A party to be examined, other than an individual or the Crown, shall select a knowledgeable current or former officer, director, member or employee, to be examined on behalf of that party, but, if the examining party is not satisfied with that person, the examining party may apply to the Court to name some other person.
+[8] Accordingly, the Respondent’s motion is centered around the following two issues:
+Was Ms. Mitchell an officer of Whistler Blackcomb; and
+Was Ms. Mitchell knowledgeable for purposes of Rule 93(2)?
+(1) Was Ms. Mitchell an Officer of Whistler Blackcomb?
+[9] The Respondent conducted a fulsome examination at the Continued Examination of Whistler Blackcomb on February 27, 2024, with Ms. Mitchell again appearing on behalf of Whistler Blackcomb. Ms. Mitchell testified that, by that point, she had been appointed as the “Assistant Treasurer” of Whistler Blackcomb and undertook to provide the Respondent with a copy of the director’s resolution making this appointment. The resolution that Whistler Blackcomb produced in answer to this undertaking (the “Director’s Resolution”), raised, in the Respondent’s view, inconsistencies with certain elements of Ms. Mitchell’s testimony. It is the Respondent’s positon that such inconsistencies indicate that Ms. Mitchell was not a person qualified to be examined on behalf of Whistler Blackcomb, under Rule 93(2) at either the Initial Examination of Whistler Blackcomb or the Continued Examination of Whistler Blackcomb.
+[10] In support of this position, the Respondent pointed to the following:
+The Director’s Resolution, which was consented to as of January 26, 2024, appointed Ms. Mitchell as “Senior Director, Tax” of Whistler Blackcomb, effective October 6, 2023.
+Had Ms. Mitchell actually been appointed as an officer of Whistler Blackcomb before the Continued Examination, she would have known that she had been appointed Senior Director, Tax as opposed to Assistant Treasurer, as she testified.
+If her appointment were actually effective on October 6, 2023, she would have known that she was an officer of Whistler Blackcomb at the time of the Initial Examination of Whistler Blackcomb, when she testified that she was not a current or former officer of Whistler Blackcomb.
+[11] Therefore, it is the Respondent’s position that the Director’s Resolution is not effective and Ms. Mitchell is not, therefore, a properly appointed officer of Whistler Blackcomb.
+[12] On the other hand, it is Whistler Blackcomb’s position that Ms. Mitchell was properly appointed as an officer of Whistler Blackcomb in accordance with the Director’s Resolution, and, therefore, she meets the requirements of Rule 93(2).
+[13] There is nothing in the record before me which definitively impugns either the credibility of Ms. Mitchell’s testimony or the effectiveness of the Director’s Resolution, which Whistler Blackcomb produced in support of that testimony. I do note the inconsistencies that have been highlighted by the Respondent. However, I also note that Respondent’s counsel did not ask any follow‑up questions after the receipt of the Director’s Resolution, which might have led to an explanation for any such inconsistencies between the Director’s Resolution and Ms. Mitchell’s testimony. As Ms. Mitchell has not been given the opportunity to speak to these matters, I am not prepared to attempt to assess issues of credibility based on the written record. Nor am I prepared to draw any inferences invited by the Respondent’s counsel. Accordingly, for the purposes of this motion, on the basis of Ms. Mitchell’s testimony and the Director’s Resolution produced by Whistler Blackcomb in support of that testimony, I accept that at the time of the Continued Examination of Whistler Blackcomb, Ms. Mitchell was an officer of Whistler Blackcomb, as required by Rule 93(2).
+(2) Was Ms. Mitchell Knowledgeable Regarding the Matters in Issue?
+[14] It is the Respondent’s position that, even if Ms. Mitchell were an officer of Whistler Blackcomb at the time of the Continued Examination, she was not knowledgeable regarding the matters in issue, as required by Rule 93(2). In support of this position, the Respondent points to two factors that emerge from Ms. Mitchell’s testimony. First, Ms. Mitchell did not become an employee of either Whistler or Vail until August 15, 2022, which was many years after the transactions that lie at the centre of the appeal. Therefore, Ms. Mitchell did not have any personal knowledge of the transactions that formed the basis of this appeal. Secondly, Ms. Mitchell prepared for the examination solely by reviewing the documents in the parties’ books of documents, and by speaking with two Vail employees, Michael Bosco and Nathan Gronberg, to go over the information that was contained in the parties’ books of documents. It is the Respondent’s position that this was insufficient preparation, which led to an insufficient degree of knowledge of the matters in issue.
+[15] As evidence that Ms. Mitchell was not knowledgeable, the Respondent points out that in the Respondent’s view, Ms. Mitchell was unable to answer many questions put to her accurately. Specifically, counsel for the Respondent argued that Ms. Mitchell was unable to answer accurately questions regarding:
+the current directors of Whistler Blackcomb;
+the nature of “Project Hemlock”, which was the description of the services provided by Osler on its invoice;
+the nature of the legal work provided by Osler;
+the client for whom Osler worked, and the law firm retained by the Special Committee;
+the ownership structure of Blackcomb Skiing Enterprises Limited Partnership;
+the partnership structure of Blackcomb Skiing Enterprises Limited Partnership as described in the documents in the parties’ books of documents;
+whether the Vail transaction involved any change to the partnership units;
+the nature of the business of Nippon Cable Company Limited (“Nippon Cable”), a 25% owner of the operating partnerships;
+the identity of Whistler Blackcomb’s contact with Nippon Cable during the relevant period;
+the reason why Whistler Blackcomb did not seek reimbursement from the operating partnerships under the applicable partnership agreements for the costs of the advisory services;
+the business activities of Whistler Blackcomb’s subsidiaries;
+the identity of key personnel of the operating partnerships at the time of the applicable transactions;
+the dissolution of the operating partnerships in 2010 as indicated in Whistler Blackcomb’s books of documents;
+the partnership agreements in force at the time of the applicable transactions;
+whether or not Whistler Blackcomb was interested in Vail’s initial offer;
+the types of services offered by Greenhill;
+the identity of the individuals at Greenhill who provided services to Whistler Blackcomb;
+the annotations on the September 17, 2015 Greenhill invoice;
+the identity of the individuals who made such annotations; and,
+how Whistler Blackcomb used the partnership distributions it received in 2015 and 2016.
+[16] In contrast, it is Whistler Blackcomb’s position that Ms. Mitchell made reasonable inquiries and reviewed all relevant documentation in the course of preparing for examinations for discovery, consulted with Mr. Bosco and Mr. Gronberg, and became knowledgeable with respect to the matters in issue. Further, she provided answers to the best of her and Whistler Blackcomb’s knowledge, information and belief, and the examination was concluded without any objections or concerns from the Respondent that Ms. Mitchell was not a knowledgeable or informed nominee.
+[17] In support of the Respondent’s specific application for an order naming Ms. Romanow to appear on behalf of Whistler Blackcomb, counsel noted that Ms. Romanow is currently a director of Vail and at the time that the applicable transactions occurred, she was both a director of Whistler Blackcomb and a member of the Special Committee.
+(3) The Law
+[18] Rule 95(2) sets out what is expected of a person selected to be examined on behalf a party under Rule 93(2). It provides as follows:
+Prior to the examination for discovery, the person to be examined shall make all reasonable inquiries regarding the matters in issue from all of the party’s officers, servants, agents and employees, past or present, either within or outside Canada and, if necessary, the person being examined for discovery may be required to become better informed and for that purpose the examination may be adjourned.
+[19] In considering Rule 93(2) in Imperial Tobacco Canada Ltd. v R, 2012 TCC 135 at paragraphs 42‑43, Justice Webb said:
+[42] It is important to understand the role that a nominee for a corporation has at a discovery examination and what knowledge is required of that person. Justice Strayer stated in Champion Truck Bodies Ltd. v Canada, [1986] 3 F.C. 245 (Fed T.D), that:
+…An examinee is not necessarily giving “evidence” of his personal knowledge and observations as does a witness at trial, but rather is there to state the position of the party he represents. In doing so, he may be giving purely hearsay evidence. The purpose of the examination is not to obtain disclosure of the intended evidence of the particular examinee but rather of facts relevant to the pleadings which are within the knowledge of the other party….
+[43] The representative of a corporate party is to answer questions related to the relevant facts that are within the knowledge of the corporate party, not just the facts that are within the personal knowledge of the representative. Facts, which are within the knowledge of the Appellant, would include facts that are within the knowledge of the directors who approved the acquisition of the shares (and without whose approval the shares would not have been acquired). If the representative of the Appellant does not personally know a particular relevant fact and is unwilling to make inquiries of other individuals who would or should know that relevant fact, then the examination of another person on behalf of the Appellant would be justified.
+[20] In his decision, Justice Webb ordered that the Respondent in that case be allowed to conduct a second examination of a former director of the Appellant within a tight range of questions, as the Respondent had previously conducted a thorough examination of the officer initially selected by the Appellant. However, in that case it was clear that the Appellant’s representative had been uncooperative with respect to key aspects of the case, thereby frustrating the purpose of the examination from the perspective of the Respondent. At paragraph 46 of his decision, Justice Webb expressed the applicable principle as follows: “It seems to me that an examination of a representative is unsatisfactory if the representative has not informed himself or herself of relevant facts and refuses to make the inquiries necessary that would be necessary to so inform himself or herself”. He then concluded at paragraph 57, “This examination is granted in relation to the line of inquiry that was frustrated by the refusal of the representative of the Appellant to answer questions or to seek information in relation to the priorities of the board of directors in relation to the purpose for acquiring the preferred shares.”
+[21] In Morguard Corp v R 2011 TCC 116, Justice Miller granted an order for a director of the Appellant, Mr. Sahi, to appear for a second examination. In her decision, Justice Miller did not impose any restrictions on the scope of the examination. However it was again clear in that case that the Appellant had been uncooperative and had thereby frustrated the purposes of the examination. At paragraph 9, Justice Miller wrote:
+At the examination for discovery, when counsel for the Respondent raised the issue of Mr. Miatello’s [the appellant’s initial nominee] lack of knowledge, counsel for the Appellant flippantly told counsel for the Respondent to either get an expert or read about takeover bids to inform himself about how takeover bids generally work. This is wholly unsatisfactory and frustrates the very purpose for a discovery. That purpose being to find out facts which will allow the party to know the case it has to meet; to obtain admissions that will facilitate the proof of its case or will assist it in destroying the other party’s case.
+[22] Further at paragraph 12, Justice Miller wrote, “In the present case, in response to counsel’s questions, Mr. Miatello frequently answered that Mr. Sahi would be able to give the best answer; or that ‘if anybody could answer that question, it would be Mr. Sahi’; or that he had no personal knowledge; or, he had no knowledge.”
+[23] In Oral Reasons delivered on October 11, 2019, in Husky Energy Inc. v Her Majesty the Queen 2017-1252(IT)G, Justice D’Arcy granted an order requiring the Appellant in that case to produce an additional nominee to appear for examination for discovery. He also directed the Appellant to ensure that the additional nominee be well‑informed. However, it was clear in that case that in the first round of discoveries the Appellant had frustrated the purposes of the discovery process. Justice D’Arcy’s Oral Reasons indicate that it was the Respondent’s position in that case that the Appellant’s initial nominee did not have personal knowledge of the matters at issue, did not inform herself prior to the examination, refused to submit to further discovery to answer follow‑up questions and to answer proper questions.
+[24] In granting the Respondent’s motion, Justice D’Arcy said the following on page 20 of the transcript:
+The Appellant’s responses, both at oral discovery and through undertaking, clearly illustrates how the Respondent’s efforts to have a full and complete discovery of the Appellant were defeated by the actions of the Appellant and its counsel. Not only was discovery not full and complete, it was not, with respect to the major issues I was taken to, even the least bit useful to the Respondent.
+[25] Later, on page 22 of the transcript, Justice D’Arcy concluded as follows:
+For the above reasons, it is my view that the Appellant has taken an oral discovery and converted it into a written discovery with selected answers. After reviewing numerous comments from counsel for the Appellant in the discovery transcripts and responses to undertakings, I am left with the impression that this was the Appellant’s plan all along.
+A number of objections and the responses to undertakings appear to be an attempt to limit the disclosure of information. The Appellant’s behaviour is simply not acceptable. It is counter to the Court’s Rules and defeats the various purposes of discovery. It has denied the Respondent’s right to full and complete disclosure. It is not going to happen again.
+[26] From my review of the extracts from the discovery transcripts that were placed on the record, I cannot attribute to Whistler Blackcomb the same level of an overt attempt to frustrate the process as was found by Justice D’Arcy in the decision discussed above.
+[27] It is clear that Ms. Mitchell did not have personal knowledge of the transactions or any other facts which are at the heart of this appeal. She did not join Vail until many years after the transaction took place. The fact that Ms. Romanow was a director of Whistler Blackcomb and member of the Special Committee at the time of the relevant transactions, may mean that Ms. Mitchell may not have been the most knowledgeable person or even the best person to examine from the Respondent’s perspective. However, that is not a proper consideration for an application brought under Rule 93(2). Nor should it be. The rule gives a party other than an individual or the Crown a significant amount of discretion in the selection of its nominee.
+[28] Further, as was made clear by Justice Webb in the Imperial Tobacco decision discussed above, a nominee is not necessarily produced at an examination to provide information within the individual’s personal knowledge. Rather, the nominee is produced to represent the corporate party involved in the litigation, and to provide, to the best of his or her ability, the knowledge of the corporation.
+[29] An examination of Rule 93(2) clearly gives the corporate party the ability to select its own nominee. However, that discretion bestowed on the corporate party is not limitless under the Rule. Rule 93(2) requires that the person selected be first, a current or former officer, director, member or employee and secondly, be knowledgeable. As discussed above, on the basis of the record presented in this matter, for purposes of this application, I have accepted that Ms. Mitchell was an officer, director, member or employee of Whistler Blackcomb at the time of the Continued Examination of Whistler Blackcomb.
+[30] In order to ensure that a nominee produced by a corporate party to provide testimony on its behalf is knowledgeable, Rule 95(2) requires that prior to an examination for discovery, the person to be examined make all reasonable inquiries regarding the matter in issue. It was the Respondent’s position that Ms. Mitchell failed to do this. However, on my reading of the extracts of the discovery transcripts that were placed on the record, I am not convinced that the Respondent made a proper assessment of Ms. Mitchell’s preparations for the discovery.
+[31] Her testimony indicated that in her preparations she spoke with two current employees of Vail. However, counsel for the Respondent did not follow up with questions to find out the positions of those two employees, their positions with either Vail or Whistler Blackcomb at the time of the applicable transactions, if any, the degree of their knowledge with respect to such transactions or even what was discussed prior to the examination, except in the vaguest of terms. Without knowledge of such matters it is not possible to make a proper assessment of Ms. Mitchell’s compliance with the requirements of Rule 95(2).
+[32] Further, while I acknowledge that the transcripts placed before me indicate that Ms. Mitchell’s knowledge may have been lacking in some areas, some of which I would describe as periphery issues and others more central to the matter under appeal, I note that counsel for the Respondent did not, in every case, follow up with requests for undertakings where her knowledge seemed to be lacking. Further, he did not place on the record any indication that he found Ms. Mitchell’s level of knowledge to be unsatisfactory.
+[33] In Bathurst Machine Shop Ltd v The Queen 2006 TCC 378 at paragraph 4, this Court said:
+Counsel who accepts an answer without asking follow‑up questions or requesting an undertaking to provide a more complete reply cannot later complain that the reply given was inadequate.
+[34] During his argument, counsel for the Respondent noted that he did ask for several undertakings in the form of the production of additional documentation and brought this application only after Whistler Blackcomb delivered its answer, which indicated, in several cases, that after conducting a proper search it was unable to locate the requested documentation. While I understand counsel’s frustration, the fact that a party who provides an undertaking cannot locate documentation that was the subject of that undertaking does not necessarily warrant the examining party being given the right to select a second nominee to be examined which it believes may have more personal knowledge of the relevant facts than the first party selected, especially in circumstances where the examining party did not previously put in issue the question of whether the first selected party was knowledgeable.
+[35] Rule 93 clearly seeks to limit the ability of an opposing party to conduct additional discoveries of additional individuals.
+[36] Rule 93(1) provides as follows:
+A party to a proceeding may examine for discovery an adverse party once, and may examine that party more than once only with leave of the Court.
+[37] Further, Rule 93(4) provides as follows:
+If a current or former officer, director or employee of a corporation or of the Crown has been examined, no other person may be examined without leave of the Court.
+[38] In any event, where the examining party is unsatisfied with a nominee’s preparation for an examination to become knowledgeable, Rule 95(2) provides a remedy for the examining party. It has the ability to adjourn the examination and request that the nominee become better informed. Given that the role of a corporate nominee is to provide testimony within the knowledge of a corporation as opposed to provide evidence within the personal knowledge of the nominee, this seems to be the appropriate remedy. The Respondent did not seek this.
+[39] As seen from the cases reviewed above, there are situations where it would be appropriate for an examining party to apply to this Court to name an alternative person to be examined under Rule 93(2). However, in my view, such case law indicates that in order to be successful, an applicant must show first, that the person initially selected by a corporation to provide evidence on its behalf did not have personal knowledge of the relevant facts; and secondly, that such person was unwilling to make inquiries of those who would or should know the relevant fact.
+[40] My review of the record does not indicate that Ms. Mitchell ever refused to answer an undertaking that the counsel representing the parties agreed was a proper undertaking. Although counsel for the Respondent indicated that he was unsatisfied with some of Whistler Blackcomb’s answers to the undertakings he received, I did not understand his position to be that Ms. Mitchell had refused to answer properly requested undertakings or questions which counsel agreed were proper in the circumstances.
+[41] For the above reasons, the Respondent’s motion is dismissed.
+B. The Whistler Blackcomb Motion
+[42] Whistler Blackcomb brings an application under Rules 95, 105, 107 and 110 for an order directing the Respondent’s nominee to:
+1)Answer the following question from Whistler Blackcomb’s examination of the Respondent’s nominee, Ms. Susan Ferguson, which took place on January 17, 2024:
+I’m going to ask you for an undertaking from the respondent to a copy of all of the working papers that Ms. Ferguson reviewed in these audit and appeals file. I will also request the memo that Ms. Ferguson prepared for the referral to the appeals officer and I will also be requesting the T401 report on objection, the auditor, the appeals officer’s and Ms. Ferguson’s T2020 memos and to the extent there is one, the audit report prepared by the CRA examiner. (“Motion 1”); and
+2)Produce and disclose all working papers within the audit and appeals file, regardless of whether or not they were reviewed by Ms. Ferguson, pursuant to Whistler Blackcomb’s requested undertaking. (“Motion 2”).
+(1) Motion 1 [43] With respect to Motion 1, the extract of the discovery transcript from Ms. Ferguson’s examination, which was placed on the record, indicates that after counsel for Whistler Blackcomb asked the question which is set out in Motion 1 above, there was a back and forth legal discussion between counsel as to the extent of the undertaking which should be given as a result of such question. Counsel for the Respondent indicated that under his view of the applicable law, any such undertaking should be limited to relevant documents from the audit and appeals files. In contrast, Whistler Blackcomb’s counsel took the view that the undertaking should be broader to include all documents from such files that were reviewed by Ms. Ferguson, and potentially all documents from such files regardless of whether or not they were reviewed by Ms. Ferguson.
+[44] It is unclear from the transcript whether counsel reached agreement on the exact nature of the undertaking flowing from the question raised by counsel for Whistler Blackcomb. The transcript indicates Whistler Blackcomb made the following requests for information:
+Initially, after counsel for Whistler Blackcomb asked the question outlined above:
+Request 1: Produce copies of all the working papers that Ms. Ferguson reviewed in these audit and appeals file. Produce the memo that Ms. Ferguson prepared for the referral to the appeals officer. Produce the T401 report on objection, the auditor, the appeals officer’s and Ms. Ferguson’s T2020 memos, and to the extent there is one, the audit report prepared by the examiner; and
+After counsel had the discussion described above:
+Request 2: Produce copies of all working papers that Ms. Ferguson reviewed in these audit and appeals file and produce the memo that Ms. Ferguson reviewed in these audit and appeals file and produce the memo that Ms. Ferguson prepared for the referral to the appeals officer. Produce the T401 report on objection, the auditor, the appeals officer’s and Ms. Ferguson’s T2020 memos, and to the extent there is one, the audit request report prepared by the CRA examiner.
+[45] On June 27, 2024, the Respondent provided to counsel for Whistler Blackcomb a letter providing it answers to the Respondent’s undertakings together with any copies of any additional documents. The letter described the documents submitted by the Respondent in answer to Requests 1 and 2 as “all relevant working papers that Ms. Ferguson reviewed in the audit and appeals files in preparing for her discovery.”
+[46] I understand that counsel for Whistler Blackcomb was unsatisfied, as he was expecting to receive all working papers reviewed by Ms. Ferguson as opposed to just all relevant working papers reviewed by Ms. Ferguson. Accordingly, it brought the Whistler Blackcomb Motion.
+[47] Such motion was heard on November 13, 2024. The week prior to the hearing, the Respondent provided counsel for Whistler Blackcomb with an affidavit sworn by a legal assistant for the Respondent, Enriko Trefa, dated November 5, 2024. Attached to such affidavit was an additional set of documents (the “Additional Documents”). At the hearing of this motion, counsel for the Respondent at page 185 of the transcript described the affidavit of Ms. Trefa as follows:
+We have now prepared an affidavit that includes all documents she [Ms. Ferguson] reviewed…To the extent there was anything in there that we didn’t produce for one reason or another, we gave it now. We didn’t think they were relevant. But the only other thing we didn’t produce, which we highlighted in yellow in our affidavit, is just legal research.
+[48] Accordingly, it was the position of the Respondent, that all documents reviewed by Ms. Ferguson which had not been previously provided with its letter of June 27, 2024 because of relevancy, and which were requested as part of Motion 1 were, in fact, delivered to counsel for Whistler Blackcomb a week before the hearing of the motion.
+[49] Counsel for Whistler Blackcomb advised that she had not had the time since receiving the affidavit of Ms. Trefa to fully review the documents attached. Nevertheless, she admitted that it appeared that Motion 1 had been fulfilled by the Respondent. She said at page 194 of the transcript the following:
+So we admit that it appears that the Crown has now produced the relevant working papers as reviewed by Ms. Ferguson.
+[50] Accordingly, as Motion 1 has been fulfilled, it is unnecessary to order anything further of the Respondent pursuant to such motion.
+(2) Motion 2 [51] Pursuant to Motion 2, Whistler Blackcomb requests production of all working papers within the audit and appeals file, regardless of whether or not they were reviewed by Ms. Ferguson.
+[52] The basis of this request goes back to the discussion that occurred between counsel regarding the extent of the undertaking, arising from the question asked by counsel for Whistler Blackcomb, as outlined above. Counsel for Whistler Blackcomb indicated that in its view, counsel had made a request for all working papers and that this request had been narrowed to a request for working papers reviewed by Ms. Ferguson in the course of the discussion between counsel due to an improper refusal by counsel for the Respondent, and by the court reporter. At page 194 of the transcript, counsel for Whistler Blackcomb said the following:
+But, again, to point you to page 17 [of the transcript of Ms. Ferguson’s examination], we requested the audit and appeals file and it was narrowed in the request by the court reporter for it to be specifically as reviewed by Ms. Ferguson.
+[53] It was the Respondent’s position that when it provided the affidavit of Ms. Trefa, which included all of the working papers that Ms. Ferguson reviewed, it fulfilled the undertaking given at the examination, as described in Request 1 and Request 2 of the transcript, in its entirety. In the Respondent’s view, Whistler Blackcomb had not requested and the Respondent had not promised anything beyond what was reviewed by Ms. Ferguson.
+[54] I agree with the Respondent. The exchange between opposing counsel described above began with counsel for Whistler Blackcomb’s question set out in Motion 1. My reading of that question is that counsel for Whistler Blackcomb clearly asked for all working papers reviewed by Ms. Ferguson. This is consistent with Request 1 as recorded in the transcript. That question then began a wide‑ranging discussion between opposing counsel over the extent of the undertaking which should flow from that question, specifically, whether or not the undertaking should be limited to only relevant documents reviewed by Ms. Ferguson. During this discussion, both counsel provided his view of the relevant law and in the course of giving his view, counsel for Whistler Blackcomb expressed his view that under the law the Respondent may be required to produce the whole of the audit and appeals file, including documents which were not reviewed by Ms. Ferguson. However, the discussion returned to what was requested in the original question asked by counsel for Whistler Blackcomb. Nothing further was requested by counsel for Whistler Blackcomb. Nothing further was refused by counsel for the Respondent. Nothing further was undertaken by counsel for the Respondent. This is apparent from the description of Request 2 in the transcript.
+[55] Whistler Blackcomb is not entitled to anything beyond what was requested at the examination of Ms. Ferguson.
+[56] The Whistler Blackcomb motion is dismissed.
+C. Costs
+[57] Each party requested costs with respect to each of these two motions. Given that each party has had mixed results with respect to each motion, I will order that the costs of each motion shall be in the cause.
+Signed at Ottawa, Ontario, this 22nd day of January 2025.
+“J. Scott Bodie”
+Bodie J.
+CITATION:
+2025 TCC 13
+COURT FILE NO.:
+2023-611(GST)G
+STYLE OF CAUSE:
+Whistler Blackcomb Holdings Inc. v. His Majesty the King
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+November 13, 2024
+REASONS FOR ORDER BY:
+The Honourable Justice Scott Bodie
+DATE OF ORDER:
+January 22, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Jonathan Ip
+Emily Pritchard
+Counsel for the Respondent:
+Bruce Senkpiel
+Jonathan Cooper
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jonathan Ip
+Firm:
+EY Law LLP Calgary City Centre Suite 2250, 215‑2nd Street SW Calgary, AB T2P 1M4
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

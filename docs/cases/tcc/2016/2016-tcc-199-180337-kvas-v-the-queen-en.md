@@ -1,0 +1,228 @@
+---
+title: "Kvas v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/180337/index.do"
+last_modified: "2016-09-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 199"
+citation2: ""
+neutral_citation: "2016 TCC 199"
+decision_date: "2016-09-15"
+language: "en"
+item_id: "180337"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2887
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:42:10.457000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "54c42d7dd465e133efae43b1f5f9a5024f79bf18bd71094719740bcc210578f7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kvas v. The Queen
+
+- Citation: 2016 TCC 199
+- Decision date: 2016-09-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2887, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kvas v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-09-15
+Neutral citation
+2016 TCC 199
+File numbers
+2014-4517(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-4517(IT)G
+BETWEEN:
+PAUL KVAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2014-4518(IT)G
+AND BETWEEN:
+PETER KVAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard together on common evidence on April 4-5, 2016, in Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant: Richard Yasny Counsel for the Respondent: Rishma Bhimji
+JUDGMENT
+IN ACCORDANCE with the Reasons for Judgment attached, the appeals are allowed, assessments number 2516570 and number 2516677 both dated April 3rd, 2014 are vacated and the matters are referred back to the Minister of National Revenue for reconsideration and reassessment.
+The Court shall receive submissions from the parties concerning costs within 30 days hereof, unless the parties are able to resolve the issue.
+Signed at Ottawa, Canada, this 15th day of September 2016.
+“R.S. Bocock”
+Bocock J.
+Citation: 2016 TCC 199
+Date:20160915
+Docket: 2014-4517(IT)G
+BETWEEN:
+PAUL KVAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2014-4518(IT)G
+AND BETWEEN:
+PETER KVAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction [1] The appeals concern two brothers, Paul and Peter Kvas (the “Kvas brothers”). They incorporated a company, Commercial Interior Alterations Inc. (“CIA”) in 2002. It was dissolved by the Province of Ontario for failure to file corporate tax returns in January of 2008. The Minister raised a section 160 assessment against the Kvas brothers in 2014. The Minister specifically allege in the notices of assessment that “on or about” December 31, 2008 a “transfer of Dividends” was made by CIA to the Kvas brothers. The Minister relied upon the following: (i) CIA no longer existed; (ii) the balance sheet completed by an accountant after the dissolution afforded a deductive dissipation of assets; and, (iii) a T-5 was filed in 2009 by the same accountant describing dividends paid in 2008 to the Kvas brothers relating to the assets which roughly corresponded to the assumed dissipated assets. No relevant facts are materially in dispute; however, whether the facts hold CIA to be a “transferor” of the “transfer of dividends” or whether a transfer within the meaning of section 160 has occurred are the issues very much in dispute in this appeal.
+[2] The balance of these reasons concern these primary issues: may an entity, involuntarily dissolved at law and having undertaken no step on its own, either through incapacity or inaction, be a transferor and transfer property within the meaning of section 160 where actions are undertaken by others?
+II. Some additional facts: [3] The unique and relevant facts, their sequence and actors, within these appeals are key to these reasons and related judgement.
+[4] The Kvas brothers are both carpenters by trade. They started their own business after 20 years of union jobs. They soon discovered general contractors on large jobs demand a company rather than individuals as a contracting party. Therefore they incorporated CIA in 2002 under the Ontario Business Corporations Act, RSO 1990 c. B.16 (the “OBCA”). Business was slow at first, but, meeting their objective of incorporation, CIA was placed on pre-approved bidders’ lists.
+[5] CIA won and executed a big contract during 2005. This proved to be both a blessing and a curse. It generated profits for CIA of $336,000.00, but exhausted resources and alternative bidding efforts. When it remained partially unpaid as a sub-trade, CIA turned its attention to other jobs and bids. It was too late. Losses ensued in years 2006 and 2007.
+[6] Both the Kvas brothers stated during testimony that as a result of directing efforts towards job completion and lack of accounting background and skills, CIA’s tax and other filings were in default. Steps were taken in mid-2007 to begin correcting the situation.
+[7] The Kvas brothers, through inquiries of the Government of Ontario, were directed to the Canada Revenue Agency (“CRA”). Both brothers acknowledged they needed “to work with the CRA”. From mid-2007 and until September of 2009 their efforts were avidly directed towards continuing CIA’s operations and paying its corporate taxes. However, on February 3rd, 2008, a notice of dissolution from the Government of Ontario was sent to CIA advising of its dissolution as of January 21, 2008 (the “Dissolution Date”) for default in filing its corporate tax returns (“Notice of Dissolution”).
+[8] Before, and especially after the Dissolution Date, the Kvas brothers acted with due dispatch. They preserved the cash in CIA’s bank account, used it to fund operations and pay taxes. One brother went to school to learn accounting software programs. They retained accountants. From the time of the first meetings in mid-2007 through 2009, materials were gathered, financial statements for years 2002-2007 were prepared and corporate tax returns were filed. Again, these efforts were directed towards bringing CIA into compliance and, after the Dissolution Date, having it revived.
+[9] Ultimately, this course of conduct was in vain. It was an agreed fact that in November 2009, CRA indicated it would not consent to CIA’s revival no matter what. Throughout, CRA was aware of the Kvas brothers’ attempt to revive the company for both CIA’s operational and tax purposes.
+[10] Once CRA provided the determinative “No” for CIA’s revival, CIA’s accountant changed tack. Previously issued T-4s reflecting employment income paid to the Kvas brothers and other amounts remaining on the financial statements of CIA for the period December 31, 2007 were addressed in the final stub year-end financial statements and tax filings for CIA ending on the Date of Dissolution: January 18, 2008. This, chronologically, occurred retroactively and only after it become known, in the fall of 2009, that revival was impossible because of CRA’s refusal to consent.
+[11] Therefore, T-4s (totalling $17,000.00) were cancelled and newly created T-5s (totalling $107,146.00) were issued on October 29, 2009. Corresponding financial statements for CIA were prepared on October 29, 2009 (the “2009 T-5 issuance date”). According to the CIA accountant during testimony, he created the T-5s on the 2009 T-5 issuance date to record reflective dividends to each of the Kvas brothers in order to retroactively settle or reconcile the assets still remaining in the fall of 2009 on the year financial statements of CIA as at December 31, 2007. He did so in light of the dissolution of January 21, 2008 becoming irrevocable in 2009.
+[12] For some time after the 2009 T-5 issuance date and the filing of personal tax returns for the Kvas brothers, the bank account of the former CIA and its cash simply remained in place. Their mother advanced some $60,000.00 to the CIA account in May and June 2009 to assist CIA and her sons. Payments from the account were mainly to the federal and provincial Crowns and agencies. It was not until March, 2010 that the funds in the former CIA account were depleted and used by the Kvas brothers.
+[13] In March 2010, CRA began its formal assessment process. On March 16, 2010, the CRA issued a director’s liability demand for unpaid source deductions in the amount of $125,450.78. As a result of this amount remaining unpaid, submissions by the taxpayers and an ensuing CRA investigation, in December, 2010 CRA threatened the Kvas brothers with two twin section 160 assessments relating to the unpaid source deductions. In May, 2013, by letter CRA specifically referenced the unpaid source deductions, the transfer of dividends in the 2008 tax year which CRA asserted constituted “funds or property…distributed or appropriated for the benefit of the shareholders on the winding-up, discontinuance or reorganization of its business” such that, under subsection 84(2) of the Act, “the corporation shall be deemed to have paid a dividend”.
+[14] Similarly, the section 160 Notice of Assessment issued subsequently specifically referenced “the amount of $53,573.00 in respect of the transfer of Dividends, on or about December 31, 2008 from Commercial Interior Alterations Inc.”
+[15] The Respondent’s reply specifically references the November 4, 2009 filed CIA 2008 corporate tax return “reporting dividends paid to” each Kvas brother who:
+(i) withdrew CIA funds to pay personal tax in the 2008 taxation year totalling $44,590.47; (ii) withdrew CIA funds in the 2008 taxation year of $17,000.00 for personal use; (iii) owed CIA $22,308.00 in the 2008 taxation year which was never repaid; and (iv) received a transfer of corporate assets of CIA property and equipment valued at not less than $23,882.00. [16] The reply concludes with the statement that each Kvas brother received a total shareholder benefit from CIA of at least $53,880.24 (which it is admitted should have read $53,573.00 for each brother).
+[17] During testimony and specifically cross-examination at trial, CRA team leader, Mr. Yarahmadi, confirmed that he authored the written response dated September 22, 2014 and delivered to the Kvas brothers during representations. This letter confirmed CRA’s understanding of the facts and timing. He acknowledged he knew that CIA had been dissolved, but the 2009 T-5 reflected the payment of a dividend by CIA to Kvas brothers. As the Appellant’s document, Mr. Yarahmadi flatly asserted at trial “it speaks for itself”.
+[18] Mr. Yarahmadi further conceded that the Kvas brothers received no benefit or moneys until after the Dissolution Date. Mr. Yarahmadi was unaware that the $17,000.00 in cancelled T-4s related to personal wages paid to the Kvas brothers for services rendered to CIA. With respect to shareholder debt, Mr. Yarahmadi concluded that the disappearance of the amount owed to the Kvas brothers from the amount of $22,803.00 on December 31, 2007 to nil on January 18, 2008 constituted a transfer from CIA in favour of the Kvas brothers and was an “automatic benefit”. Mr. Yarahmadi concluded the Kvas brothers operated the bank account and likely paid the amount after the Dissolution Date. Similarly, on the issue of the transfer of corporate assets and equipment, Mr. Yarahmadi indicated that since there was no sale or write down of the assets, the dissipation from the value of $23,882.00 to zero deductively evidenced a transfer and benefit to the Kvas brothers.
+[19] On the issue of “transfer of Dividends”, Mr. Yarahmadi reiterated that the T-5, filed to reflect the dissolution, fit factually within the ambit of subsection 84(2). He reasoned that such amounts were paid and satisfied subsequently through the personal tax payments, personal wages, repayment of shareholder debt and transfer of assets by CIA to the Kvas brothers.
+III. Statutory Conditions Engaging Section 160 [20] Section 160 shall only be engaged where there is a transfer, the parties are not dealing at arm’s length, there is an absence or insufficiency of consideration and the transferor is liable for tax at the time of transfer[1]. Aside from the secondary issue and alternative submission of partial consideration for the transfers related to wages and debts owed to the Kvas brothers and their alternate source of funds invested in CIA, the Court determines and counsel agreed that the only other section 160 element in this dispute is whether a transfer occurred. On the issue of consideration for any transfer, the reasons below render consideration of that evidence unnecessary.
+[21] The elements of a transfer within the context of section 160 are themselves somewhat unique jurisprudentially: the transferee need not consent, be aware of the transfer or benefit from the asset transferred[2]. What remain more clear, or at least consistent with the generally received notion of a transfer, are the elements or actions required of the transferor: the commission of an act or execution of a document divesting the transferor and investing the recipient with the property[3], the identification of some memorialized event or document which has the legal effect of conveyance[4] and the contemporaneous placement of that action at the time the tax debt is owed[5].
+[22] Within the context of considering whether a transfer occurred there are three sub-issues to be considered;
+(i) the application of section 84(2): deemed dividend on winding-up; (ii) the effect of the Notice of Dissolution: Section 241 of the OBCA; (iii) apart from the legal subsistence of CIA after the Dissolution Date, did actions occur which constitute a transfer within section 160. IV. Application of deemed dividend under subsection 84(2) [23] Although quite present and looming in the Minister’s original reasons for confirmation and a live issue during testimony, this point concerning a subsection 84(2) deemed dividend was implicitly conceded by Respondent’s counsel at the outset of closing argument wherein no further reference to it was made. Simply, the section provides for a deemed dividend “where funds or property” have been distributed or appropriated to or for the benefit of the shareholders on the “winding-up, discontinuance or reorganization” of a business. Factually, there was no winding-up or discontinuance undertaken by anyone relevant at the time of assessment. Factually, CIA was dissolved involuntary by ministerial order without knowledge or consent of its directors or shareholders on the Dissolution Date. A winding-up transaction referenced in subsection 84(2) involves a more orderly and conceived transaction or series of transactions undertaken by the directors during winding-up, culminating in the final act of dissolution[6], reorganization or arrangement. This did not factually occur. Consideration in costs will be given to the late surrender of this ground for opposing the appeal. This is needed to address the costs thrown away by the Appellants in the trial preparation of overcoming this allegation as a live element of the Respondent’s case.
+V. The effect of the Notice of Dissolution on CIA [24] Sub-sections 241(1), 241(5) and 244(1) of the OBCA provide as follows:
+Notice of dissolution
+241(1) Where the Director is notified by the Minister of Finance that a corporation is in default of complying with any of the following Acts, the Director may give notice by registered mail to the corporation or by publication once in The Ontario Gazette that an order dissolving the corporation will be issued unless the corporation remedies its default within 90 days after the notice is given:
+0.1 Alcohol and Gaming Regulation and Public Protection Act, 1996.
+1. Corporations Tax Act.
+2. Employer Health Tax Act.
+3. Fuel Tax Act.
+4. Gasoline Tax Act.
+5. Land Transfer Tax Act.
+6. Retail Sales Tax Act.
+6.1 Taxation Act, 2007.
+7. Tobacco Tax Act, 2004, c. 31, Sched. 4, s. 1; 2008, c. 19, Sched. V, s. 1; 2010, c. 1, Sched. 1, s. 12.
+Revival
+241(5) Where a corporation is dissolved under subsection (4) or any predecessor of it, the Director on the application of any interested person, may, in his or her discretion, on the terms and conditions that the Director sees fit to impose, revive the corporation; upon revival, the corporation, subject to the terms and conditions imposed by the Director and to the rights, if any, acquired by any person during the period of dissolution, shall be deemed for all purposes to have never been dissolved.
+Forfeiture of undisposed property
+244(1) Any property of a corporation that has not been disposed of at the date of its dissolution is immediately upon such dissolution forfeit to and vests in the Crown.
+[25] The Respondent submits that the subsisting, filed T-5 reflecting the dividend engages section 160. It reflects a transfer between CIA and the Kvas brothers in tax year 2008, which by definition for CIA pre-dates the Dissolution Date. The parties were not at arms’ length during that period, a tax debt was owed and no consideration was tendered or flowed from the Kvas brothers to CIA.
+[26] Further that Respondent contends that the creation and filing of the T-5 after the Dissolution Date is sufficient because, by the hand of the Appellants’ own professional adviser, it memorializes the existence, quantum, and transfer of the dividends by CIA to the Kvas brothers.
+[27] The Respondent further asserts that no limitation exists on when the Minister may assess under subsection 160(2)[7]. Further, there need not be an intention on the part of the transferee to defraud the Minister. The simple receipt of the transferred property is sufficient[8]. The T-5 reflected this transfer and the other statutory conditions have been met.
+[28] Factually, this case reaches the tipping point of the definition of a transfer within section 160. The statutory requirement of a transfer has not been satisfied under this ground or the ground dealt with subsequently. First and foremost, section 160 requires a transfer by a transferor. The alleged transferor, CIA, did not exist after the Dissolution Date. While CIA had all the powers of a natural person, it ceased to do so upon its involuntary dissolution. The reference in subsection 160(1) to a transferor having “transferred property, either directly or indirectly, by means of a trust or by any other means whatever” is expansive and broad. However, there is no case law that suggests a transferor includes a person who ceases to exist and has not otherwise undertaken some act or omission which transfers property prior to its, her or his demise or dissolution, as the case may be. This was discussed by Justice Lamarre of this Court in Kiperchuk, supra when she identified documents such as a will and RRSP beneficial designation as documents of transfer which, prior to death (in that case), would constitute a transfer. At paragraph 20, Justice Lamarre, as she then was, states:
+Thus, the respondent concluded — rightly, in my view — in the present case that, because the appellant was the designated beneficiary of the RRSP owned by her former husband, there was a transfer of property which took place at the time of his death. From that moment, the appellant had a right to claim the RRSP to which she had become entitled as the designated beneficiary.
+[29] In Kiperchuk, the “dissolving” of the relationship by death was held to end the “non-arm’s length” condition. The consequence of that logic follows at paragraph 24 through 28:
+[24] The question, therefore, is whether the transferor and transferee were dealing with each other at arm’s length.
+[25] Assuming that the transferor is the former husband, he was not related to the appellant by marriage at the time she became entitled to the RRSP. Indeed, the status of marriage is ended by death or by a decree absolute of divorce (Kindl Estate, Re 1982 CarswellOnt 340, paragraph 10 (Ontario Supreme Court)).
+[26] Therefore, the appellant was not related by marriage to her former husband at the time of the transfer as she was then no longer his spouse (paragraphs 251(1)(a) and 251(2)(a) of the ITA). Nor was she deemed not to have dealt at arm’s length with her former husband under paragraph 251(1)(b) of the ITA, as the RRSP did not devolve to her through the estate.
+[27] Finally, there remains the question whether the appellant was in fact, for the purposes of paragraph 251(1)(c) of ITA, related to her former husband on the basis of circumstances existing at a particular time. The respondent argued that the relevant particular time was the time at which the appellant was designated as the beneficiary of the RRSP, that is, in 1990, at which time she was married to her former husband. The respondent relied on the conclusion reached by Angers J. in Homer at paragraph 25.
+[28] I have difficulty adopting here that same conclusion, which, moreover, was not really elaborated upon by Angers J. On close examination, it can be seen that the relevant portion of subsection 160(1) states that “where a person has . . . transferred property, either directly or indirectly, by . . . any . . . means whatever, to (a) the person’s spouse or . . . a person who has since become the person’s spouse . . . (c) a person with whom the person was not dealing at arm’s length, the following rules apply:
+. . .
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any proceeding taxation year”.
+[30] On the basis of CIA’s involuntary dissolution and the absence of any prior “transfer documentation”, there simply was no transfer possible after the Dissolution Date. To paraphrase paragraphs 25 and 26 above in the present context: CIA is the dissolved corporation, it did not exist and was not “non-arms’ length” to the Kvas brothers at the time of transfer, all assumed by the Minister to have occurred on December 31, 2008, well after the Dissolution Date.
+[31] The dissolution was not undertaken by CIA or the Kvas brothers as part of a winding-up transaction (lately conceded by the Minister). It does not constitute a precise plan directed and caused by the transferor, CIA, to thwart the Minister[9].
+[32] In conclusion, in Kiperchuk, Justice Lamarre wrote:
+[29] There is nothing in the wording of that subsection that relates the relationship between the transferor and the transferee to any moment other than that of the transfer of the property (or a moment after the transfer in a case where the transferee has since become the transferor’s spouse). The subsection refers throughout to the act of transferring and the time of the transfer, without specifying that other moments in time, previous to the transfer, could be contemplated for the purpose of its application to the transferee.
+[30] Further, in Livingston, supra, the Federal Court of Appeal stated as one of the applicable criteria that the transferee must be one of the following: the transferor’s spouse at the time of the transfer, a person who was under 18 years of age at the time of the transfer, or a person with whom the transferor was not dealing at arm’s length (paragraph 17).
+[33] Ceasing to exist, as CIA did on the Dissolution Date by virtue of the Notice of Dissolution, required the pre-existence of an act of transfer or authoring a subsequent transfer for section 160 to be engaged: some declaration, direction and/or payment of dividends by its directors and CIA respectively and/or articles of dissolution or winding-up agreement which reflected some act by CIA to transfer assets to the Kvas brothers, its shareholders. These or similar facts do not exist. After its dissolution, CIA could not legally, and as discussed below, did not factually direct, author or contemplate such a transfer, particularly on or about December 31, 2008.
+VI. Were there actions of CIA constituting a transfer under section 160 [34] Consistent with the finding above, on the basis of the evidence adduced by the Appellants, the Minister’s assumption that a transfer of dividends was made by CIA to the Kvas brothers “on or about December 31, 2008” has been demolished. The Court has analyzed below each of the Respondent’s submissions to the contrary quite apart from the non-existence of the transferor any time after the Dissolution Date.
+[35] Respondent’s counsel quite ably marshalled submissions to de-emphasize the issues of dissolution and actual transfer at the assumed date of transfer. Focus was instead trained on the unrevoked, subsequently issued T-5s, the company’s closing balance sheet and the Minister’s deductive assumption from these and other taxpayer created filings and returns that property previously held by a tax debtor, CIA, was transferred to the transferees, the Kvas brothers, who received, used and/or benefitted from the tax debtor’s assets.
+[36] Counsel for the Respondent further submitted that section 160 applies to dividends which are transfers of property[10], themselves definitially made without consideration[11]. Further, subsequent repayment by a transferee after the transfer does not reverse the benefit, once received[12].
+[37] Respondent’s counsel states that the “deductive dissipation” of assets is sufficient to support the Minister’s conclusion that a transfer of assets occurred coincident with the reported dividends. No retraction of such dividends ever occurred, notwithstanding that the Kvas brothers were well aware of the collection proceedings against CIA. It is noted that the Minister denied such a request during representations. The Kvas brothers chosen course of action, according to the Respondent, was to wind-up CIA, issue the T-5s and reflect the withdrawal of the net assets upon wind-up, all of which actions were confirmed at trial by the accountant for the Kvas brothers.
+[38] Lastly, Respondent’s counsel submitted there was no evidence of an effective forfeiture to the provincial Crown. Moreover, the Kvas brothers need not have had any intention to defraud the Minister[13] or thwart the Minister’s collection process. Section 160 is solely a collection mechanism under the Act.
+[39] However draconian a provision section 160 is, where it is invoked by the Crown, it shall be engaged if the statutory conditions are met[14]. The first criteria is that there must be a transfer[15]. The primary element of a transfer occurs where “a person makes a transfer of property to another person if he does the act or executes the instrument which divests him of the property and at the same time vests it in the other person”[16]. This includes the payment of dividends as previously stated. Moreover, for the purposes of section 160, relevant to this appeal, the “transfer of Dividends” must have occurred at the alleged time of transfer[17].
+[40] CIA never “transferred property” by way of a “transfer of Dividends” on or about December 31, 2008. Unlike in MacDonald, supra, there was no transaction or a series of transactions directed towards the planned, anticipated or desired dissolution or winding-up CIA. The normal hallmarks of such a taxpayer initiated goal were non-existent in this appeal: authorizing resolutions, declarations of dividends, articles of dissolution or a ministerial consent to dissolve (a pre-condition of which ironically is the filing of all tax returns and payment of all corporate tax). Instead, the OBCA Director of Companies, upon notification from the Ontario Ministry of Finance, dissolved CIA. The Kvas brothers were stunned. They worked for half a year before to prevent involuntary dissolution and for 18 months afterward to revive CIA. Moreover, upon such dissolution, the property of CIA technically and legally escheated to the provincial Crown[18]. CIA, the critical section 160 transferor and tax debtor, took no act or proximately omitted nothing that can factually comprise a plain-meaning, common-sense and widely-understood “transfer of property”. There is no jurisprudence which suggests that the act or intention of a transferor (as opposed to that of a transferee) is unnecessary in order to engage section 160. Quite the opposite is true: the overall purpose of section 160, expressed multiple times, is to prevent the transferor qua tax debtor from conveying property to avoid tax[19]. Plainly, some act of conveyance or, arguably deliberate omission, must be undertaken or caused, directly or indirectly, by or attributable to the transferor/tax debtor.
+[41] The date of transfer by the transferor is also relevant to a section 160 assessment. Relevant again to this argument is the fact CIA could undertake no such act after the Dissolution Date and before December 31, 2008 (the assumed transfer of dividends date). Moreover, the Minister’s assessment references multiple (in excess of 25) assumed transfers from the Dissolution Date until December 31, 2008. Factually, such payments are not a “transfer of Dividends” at the relevant “time of transfer”[20], namely, on or about December 31, 2008, but multiple assumed “mini transfers”, all of which, from uncontroverted testimony, were effected to third parties in order to allow CIA to continue its business, pay its taxes and revive and were funded, at least partially, by contributions of capital.
+[42] Based upon the evidence before the Court, the Minister through the CRA was well aware of these clear goals. The CRA, in combination with the Ontario Government authored, directed and, ultimately, effectively controlled when CIA was involuntary dissolved and ultimately determined that it was never revived. The CRA, itself, suggested the creation of a successor partnership in September, 2009. At that time, CRA issued BIN and GST numbers to such partnership retroactive to January 1, 2008. This direction and suggestion by CRA led to the need to retroactively reflect conforming accounting steps to give the partnership provenance back in time once revival was no longer possible. That impossibility itself was dictated by the CRA’s refusal to grant consent. In turn, the revised financial statements and T-5s in October 2009 were effected by a well-meaning, but independently-acting, accountant in order to “clean up” the irrevocably defunct CIA’s balance sheet.
+[43] These ironies are not lost on the Court. As stated by Respondent’s counsel, the “pink elephant in the room” in October, 2009 were the retroactive T-5s and revised financial statements as referenced by Respondent’s counsel. However, the earlier “pink elephants in the room” are the involuntary dissolution of CIA for failure to file its corporate tax returns, initiated by the CRA and followed by demands for payments, tax returns and other “catch up” compliance steps, culminating 18 months later in a refusal by CRA to consent to its revival, its directed conversion of CIA to a partnership and a section 160 assessment in respect of the “former” corporate assets. Curiously as well, the section 160 assessment relates to unremitted source deductions which appear not to have been pursued in the more usual and direct manner.
+[44] CIA’s property was not “transferred” by CIA, but ascribed by CRA through a deemed dividend under subsection 84(2) which itself initially formed the basis for the section 160 assessment by virtue of a deductive dissipation of assets. However, the fact remains that a retroactive T-5 and post-facto financial statements, necessitated by CRA’s “managed enforcement” cannot create a transfer where none exists. That transfer is an essential element to a section 160 assessment. It must be undertaken or effected at the relevant time by the tax debtor/transferor, not constructed through multiple third party payments, deductive dissipation of assets over many months or the “deeming” of dividends or the “conjecture” of a benefit. Moreover, the assessment, when raised, must accurately depict these “quantitative” and “timing” components.
+[45] For these reasons, the bridge too far was not reached. No transfer of property under section 160 occurred. Since such a transfer must occur, the section was not engaged. Therefore, the appeal is allowed.
+[46] As previously referenced, the Court shall receive submissions from the parties within 30 days concerning all costs, unless the parties are able to resolve that issue among themselves before that time.
+Signed at Ottawa, Canada, this 15th day of September 2016.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2016 TCC 199
+COURT FILE NOs.:
+2014-4517(IT)G, 2014-4518(IT)G
+STYLE OF CAUSE:
+PAUL KVAS, PETER KVAS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 4-5, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+September 15, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Richard Yasny
+Counsel for the Respondent:
+Rishma Bhimji
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Richard Yasny
+Firm:
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Livingston v Canada, 2008 FCA 89 at paragraph 9.
+[2] Livingston, supra at paragraph 24.
+[3] Algoa Trust v Canada, 1993 CarswellNat 881 at paragraph 44.
+[4] Canada v Gilbert, 2007 FCA 136 at paragraphs 14 and 15.
+[5] Kiperchuk v The Queen, 2013 TCC 60 at paragraph 29.
+[6] Canada v MacDonald, 2013 FCA 110 at paragraph 21.
+[7] Canada v Addison and Leyen Ltd. [2007] 2 SCR 793 at paragraphs 9 and 10.
+[8] Wannan v Canada, 2003 FCA 423 at paragraph 3.
+[9] Canada v MacDonald, supra at paragraphs 5 and 25.
+[10] Addison and Leyend, supra, at paragraphs 58 and 59.
+[11] Gilbert, supra, at paragraphs 14 and 15.
+[12] Livingston, supra, at paragraph 24.
+[13] Livingston, supra, at paragraph 19, referencing Wannan, supra, at paragraph 3.
+[14] Wannan, surpra, at paragraph 3.
+[15] Livingston, supra, at paragraph 9.
+[16] Algoa Trust, supra, at paragraph 44 citing St. Aubyn v A-G [1952] AC 15 (HL).
+[17] Kiperchuk, supra, at paragraph 29.
+[18] OBCA, subsection 244(1).
+[19] Livingston, supra, referencing Medland v Canada, 98 DTC 6358(FCA); Heavyside v Canada [1996] FCJ No 1608 (FC) at paragraph 10.
+[20] Livingston, supra, paragraph 24.

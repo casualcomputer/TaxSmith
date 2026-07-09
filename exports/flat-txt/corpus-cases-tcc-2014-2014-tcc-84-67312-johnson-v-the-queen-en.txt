@@ -1,0 +1,141 @@
+Title: Johnson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/67312/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-84-67312-johnson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-03-18
+
+# Johnson v. The Queen
+
+- Citation: 2014 TCC 84
+- Decision date: 2014-03-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5315, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-03-18
+Neutral citation
+2014 TCC 84
+File numbers
+2013-1231(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-1231(IT)I
+BETWEEN:
+NEIL JOHNSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 30, 2013, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Erin Strashin
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the Appellant’s 2002 and 2003 taxation years is dismissed.
+Signed at Ottawa, Canada, this 18th day of March 2014.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2014TCC84
+Date: 20140318
+Docket: 2013-1231(IT)I
+BETWEEN:
+NEIL JOHNSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] This appeal relates to Mr. Johnson’s 2002 and 2003 taxation years in which he claimed non-refundable tax credits for charitable donations he allegedly made to Canadian Foundation for Child Development (“CFCD”) in the amount of $18,550 and $15,500 respectively.
+[2] The Appellant’s testimony was as follows.
+[3] When he came to Canada in 1995, he attended school. After he finished his studies, he started to work and he earned $55,000 making parts for automobiles. He lived at home with his parents; he did not pay rent; and, he had no expenses. He attended church both while he was in school and after he started to work. He met a couple of people outside the church who told him about CFCD and he wanted to help the “needy kids”.
+[4] The Appellant stated that he made his donations in cash every two weeks at CFCD’s office on Beaconfield Road in Mississauga. He said that he gave “$350 or so” every two weeks. He stated that he had no records to prove that he made the donations because CRA took too long to reassess him and his records were now lost or destroyed.
+[5] In support of his evidence that he made donations to CFCD, the Appellant submitted two receipts from CFCD; one for 2002 in the amount of $18,550 and one for 2003 in the amount of $15,550.
+[6] It was his evidence that he had previously donated $15,400 in 2001 and claimed this amount on his 2001 income tax return. In July 2002, the Canada Revenue Agency (“CRA”) requested that he provide proof of his 2001 donation. He sent the charitable donation receipt to them; it was accepted; and, no adjustment was made to his return. He believed that his charitable donations for 2002 and 2003 were also accepted because he was not reassessed for these years until December 7, 2009. It was his position that he was led astray by the CRA.
+[7] The Appellant stated that for one of the years under appeal his income tax return was prepared by his sister and e-filed by Cantax Tax Preparers. He wasn’t sure whether this occurred in 2002 or 2003. However, in the other year, his income tax return was prepared and e-filed by ADD Accounting Services (“ADD Accounting”). The Appellant later said that in 2002 or 2003 he filed a paper copy of his return.
+[8] According to the records held by the CRA, the Appellant’s 2002 and 2003 tax returns were both e-filed by ADD Accounting.
+[9] Barbara Lovie, a former employee with the Investigations Division of the CRA, testified that in January 2006 she was assigned the investigation of the CanAfrica International Foundation (“CanAfrica”) and ADD Accounting. CanAfrica was a registered charity whose alleged purpose was to aid poor women and children in Africa. Ambrose Danso-Dapaah was the president of the charity CanAfrica and the sole proprietor of ADD Accounting. ADD Accounting was an income tax return preparation service. Ms. Lovie’s investigation related to the 2002 to 2005 years, inclusive.
+[10] Pursuant to search warrants issued during the investigation, Ms. Lovie seized both financial records and a computer from Ambrose Danso-Dapaah’s home. She found approximately 3800 Cantax files on the hard drive of the computer. Cantax is a software program used to prepare income tax returns. In particular, she found the Appellant’s 2002, 2003 and 2004 Cantax returns on the hard drive of Ambrose Danso-Dapaah’s computer. According to these returns, the Appellant donated $18,550.21 and $15,500.00 to CanAfrica in 2002 and 2003 respectively. Included in the Appellant’s Cantax return for 2003 was a receipt for $1,550 which equalled 10% of his alleged donation for that year.
+[11] Ms. Lovie stated that Ambrose Danso-Dapaah was charged with one count of fraud over $5,000. He entered a guilty plea to selling false charitable donation receipts. He charged his clients a fee of 10% of the false donation for the charitable receipts. The total amount of false donation receipts provided to taxpayers by Ambrose Danso-Dapaah was $21,400,000 which equated to $6,200,000 in false non-refundable tax credits.
+[12] The Appellant denied that he donated any amount to CanAfrica and stated that his donations were made to CFCD.
+[13] The issues in this appeal are: (1) whether the Appellant made a donation to a charity in 2002 and 2003 which would entitle him to claim non-refundable tax credits pursuant to section 118.1 of the Income Tax Act (the “Act”); (2) whether the receipts issued by CFCD are in prescribed form in accordance with subsection 118.1(2) of the Act and sections 3500 and 3501 of the Income Tax Regulations (the “Regulations”); and, (3) whether the Minister of National Revenue (the “Minister”) was entitled to reassess the Appellant after the normal reassessment period.
+[14] It is my view that the Appellant did not make any donations to CFCD in 2002 and 2003. Aside from having no records to support that he made these cash donations, I concluded from the Appellant’s evidence that he was not credible. His evidence was imprecise, confused and changed when he was questioned. As an example, when he was asked if he learned about CFCD from people at his church, he answered that he met its representative at a portable office outside his church; then he stated that he met the representative at a plaza down the road from his church. He stated that one Sunday when he was leaving church he saw a portable sign and a man who was speaking to a group of people who were gathered around the sign. He was driving past the plaza and he stopped to listen. He learned that he could help children in Singapore (sic), Africa if he donated to CFCD.
+[15] The Appellant stated that he gave $350 in cash every two weeks to CFCD. When counsel for the Respondent told him that this amount would not equal his alleged donations, the Appellant said that he gave “$700 or so” every two weeks in 2002 and “$600 or so” every two weeks in 2003. First he stated that his donations for both years were entirely in cash. Then, during cross examination, he stated that in 2002, his donation was 95% cash and 5% gifts in kind which consisted of a television, a DVD player and some clothes. In 2003, his donation was entirely cash.
+[16] Initially, the Appellant stated that he went to CFCD’s office on Beaconfield Road in Mississauga to make his donations. When reminded by me that the address on the receipts from CFCD was Battleford Road in Mississauga, the Appellant changed his evidence.
+[17] According to the documents submitted by the Respondent, the Appellant’s income in 2002 and 2003, after deductions, was $39,336.88 and $32,412.24 respectively. I find it implausible that he gave almost one-half of it to a charity that he really knew nothing about.
+[18] The Appellant stated that he did not pay rent to his parents yet in 2002, he reported in his income tax return that he paid rent of $6,000.
+[19] The Appellant’s evidence as to who prepared his income tax returns and who e-filed his returns kept changing. He said that Cantax e-filed his tax return for one of the years in issue when Cantax is not a tax preparer who would be registered to file tax returns but is a software program used to prepare tax returns. The Appellant stated that he only went to ADD Accounting once to e-file one of his returns. However, the evidence established that both his 2002 and 2003 returns were e-filed by ADD Accounting.
+[20] ADD Accounting was owned by Ambrose Danso-Dapaah who pled guilty to selling fake charitable donations and Ambrose Danso-Dapaah was also a director and officer of CFCD.
+[21] When I consider all of this evidence, I have concluded that the Appellant did not donate $18,550 and $15,500 to CFCD in 2002 and 2003. Rather he purchased the charitable donation receipts for 10% of their face value. See exhibit R-3.
+[22] I will review the receipts submitted by the Appellant.
+[23] Subsection 118.1(2) of the Act provides that proof of a charitable gift shall be made by filing an official receipt which contains prescribed information. Section 3501 of the Regulations sets out the prescribed information as follows:
+(1) Every official receipt issued by a registered organization shall contain a statement that it is an official receipt for income tax purposes, and shall show clearly, in such a manner that it cannot readily be altered,
+(a) the name and address in of the organization as recorded with the Minister;
+(b) the registration number assigned by the Minister to the organization;
+(c) the serial number of the receipt;
+(d) the place or locality where the receipt was issued;
+(e) where the gift is a cash gift, the date on which or the year during which the gift was received;
+(e.1) where the gift is of property other than cash
+(i) the day on which the gift was received,
+(ii) a brief description of the property, and
+(iii) the name and address of the appraiser of the property if an appraisal is done;
+(f) the date on which the receipt was issued;
+(g) the name and address of the donor including, in the case of an individual, the individual's first name and initial;
+(h) the amount that is
+(i) the amount of a cash gift, or
+(ii) if the gift is of property other than cash, the amount that is the fair market value of the property at the time that the gift is made;
+(h.1) a description of the advantage, if any, in respect of the gift and the amount of that advantage;
+(h.2) the eligible amount of the gift;
+(i) the signature, as provided in subsection (2) or (3), of a responsible individual who has been authorized by the organization to acknowledge gifts; and
+(j) the name and Internet website of the Revenue Agency.
+[24] Neither of the receipts submitted by the Appellant contained the information prescribed in paragraphs (e.1), (f), (h) and (j) of section 3501.
+[25] The Appellant stated that in 2002 a portion of his alleged donation consisted of gifts in kind. Contrary to paragraph 3501(e.1), the 2002 receipt did not contain the day on which this alleged donation was made; nor did it contain a description of the goods. The receipt did not show that an appraisal of the goods was completed. It did not give the fair market value of the property at the time that the goods were donated as required by subparagraph 3501(h)(ii).
+[26] Neither receipt contained the date on which it was issued. The name and Internet website of the CRA was missing from each receipt.
+[27] The requirements in section 3501 are not frivolous but are absolutely necessary for ensuring that a gift was actually made. The purpose of the requirements is to prevent abuses of any kind: Plante v The Queen, [1999] TCJ No. 51.
+[28] However, even if the requirements of section 3501 had been met, as I stated earlier, I would have found that the Appellant did not make “a gift” to CFCD. There was no credible evidence to support his assertion that he made the donations in issue and I have concluded that he bought the receipts from Ambrose Danso-Dapaah.
+[29] It was the Appellant’s position that the CRA led him astray by accepting that he made a donation in 2001 and they took too long to reassess his 2002 and 2003 years.
+[30] Subparagraph 152(4)(a)(i) of the Act provides that the Minister can reassess a taxpayer at any time if the taxpayer or the person filing the return of income has made a misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return of income. The Respondent had the onus of establishing that this subparagraph applied.
+[31] In this case, counsel for the Respondent showed that the Appellant was not credible. When questioned, his evidence changed continuously. In addition, the Appellant had no records to support that he made a donation of any amount to any charity. I have inferred from these two factors that the Appellant made a misrepresentation in claiming the credits for charitable donations in 2002 and 2003.
+[32] The Respondent also established that Ambrose Danso-Dapaah was charged with fraud and he entered a guilty plea to selling false charitable donation receipts. Ambrose Danso-Dapaah was a director and officer of CFCD. There were three crucial pieces of evidence which connected the Appellant to Ambrose Danso-Dapaah’s fraud. The first was that his 2002 and 2003 income tax returns were e-filed by Ambrose Danso-Dapaah. The second piece of evidence was a receipt for $1,550 for the Appellant’s 2003 year which was found on Ambrose Danso-Dapaah’s computer. The amount of this receipt equalled 10% of the Appellant’s alleged donation which was the amount Ambrose Danso-Dapaah charged his clients for the false charitable donation receipts. The third were the charitable donation receipts themselves. Ambrose Danso-Dapaah, as director and officer of CFCD, had access to these receipts.
+[33] It is my opinion that the Respondent has met the onus given in subparagraph 152(4)(a)(i).
+[34] It is my view that the Appellant did not make any donations to a charity in 2002 and 2003 and he and the person filing his tax returns for those years made misrepresentations that were attributable to fraud. The Minister was justified in reassessing the Appellant beyond the limitation period.
+[35] The appeal is dismissed.
+Signed at Ottawa, Canada, this 18th day of March 2014.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2014TCC84
+COURT FILE NO.: 2013-1231(IT)I
+STYLE OF CAUSE: NEIL JOHNSON AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 30, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: March 18, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Erin Strashin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

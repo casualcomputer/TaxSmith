@@ -1,0 +1,159 @@
+---
+title: "Ghaith v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25938/index.do"
+last_modified: "2004-10-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 686"
+citation2: ""
+neutral_citation: "2004 TCC 686"
+decision_date: "2004-10-21"
+language: "en"
+item_id: "25938"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3685
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:54:02.908000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2ef318faccbd55ed91361d029ed25af5d76f037b95e4b5e36f137bab5d64671b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ghaith v. The Queen
+
+- Citation: 2004 TCC 686
+- Decision date: 2004-10-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3685, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ghaith v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-21
+Neutral citation
+2004 TCC 686
+File numbers
+2002-2671(IT)G
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2671(IT)G
+BETWEEN:
+ALI GHAITH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on September 21, 2004 at Montreal, Québec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Valérie Tardif
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act (the "Act") for the 1996 and 1997 taxation years are dismissed;
+The appeal from the assessment made under the Act for the 1998 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that an additional income of $15,356 should be added and not $69,439.
+All in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of October, 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+Citation: 2004TCC686
+Date: 20041021
+Docket: 2002-2671(IT)G
+BETWEEN:
+ALI GHAITH,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre Proulx, J.
+[1] This is an appeal from assessments for 1996, 1997 and 1998 taxation years made on the basis of the net worth method.
+[2] The appellant contests two inclusions:
+(1) For the year 1996, the purchase price of a 1991 Pontiac Bonneville. The purchase price of the Bonneville was established by the auditor at $12 791 using the Red Book, a specialized publication on used car value.
+(2) For the year 1998, the amount of $60,000, being the balance of the purchase price of a building acquired by the appellant. The building is the one in which the appellant carries on a car wash business, under the name of Centre d'auto Picci Enr.
+[3] As regards the appellant's income:
+(a)
+The appellant declared the following total income in his tax returns for the 1996, 1997 and 1998 taxation years:
+< 1996: $15 276
+< 1997: $24 204
+< 1998: $20 374
+(b)
+The minister added the following amounts to the appellant's income by using the net worth method:
+< 1996: $13 666
+< 1997: $18 314
+< 1998: $69 439
+[4] The appellant produced as part of Exhibit A-1 a number of documents designated as tabs A to M. The respondent produced as Exhibit R-1 a book of documents containing 38 tabs.
+[5] Respecting the amount of the purchase price of the Pontiac Bonneville, the appellant referred to Tab L of his documents. Tab L is a document, undated and unsigned, wherein a named person declares that he sold the appellant a Pontiac Bonneville SSE for $3,500.
+[6] In 1997, the car was stolen. The insurance company paid the appellant an amount of $10,571. The two pertinent cheques are shown at Tab 18 of Exhibit R-1.
+[7] The auditor stated that these cheques were not deposited and were not taken into account by him. However, he did enter for the year 1997 a loss of $2,220 on the disposition of the car.
+[8] Respecting the amount of $60,000 added for the year 1998, the appellant produced documents emanating from Lebanon to show that a cousin had sent him money to assist him in paying for a building.
+[9] Indeed, on March 24, 1998, the appellant acquired from Mr. Eddy Wilkinson a building situated at 11,770 5th Avenue in the City of Montreal. The clause concerning the price stated that:
+Cette vente est faite pour le prix de CENT CINQUANTE MILLE DOLLARS (150 000,00 $) payé par l'acquéreur, dont quittance finale de la part du vendeur.
+[10] The contract appears at Tab 37 of Exhibit R-1. Tab 38 is the mortgage agreement relating to the mortgage loan granted by La Banque Laurentienne du Canada. The loan is in the amount of $100,000. However, the appellant stated that he borrowed $90,000, which is accepted by the respondent. It is the balance of $60,000 that was added to his income for the year 1998.
+[11] The Appellant said that he did not pay the entire amount to Mr. Wilkinson at the time of acquisition and that Mr. Wilkinson had agreed to be paid later in cash amounts.
+[12] As he was being pressed by the vendor for payment of those amounts, the appellant said, he called his cousin, Ibrahim Youssef, a businessman residing in Lebanon. This cousin then sent him money in envelopes entrusted to various carriers.
+[13] There were two amounts of $15,000 sent on May 23 and June 20, 1998, and three amounts of $10,000 sent on July 15, August 20 and August 28, 1998. The five carriers came to testify. Their testimony was about the same: they had gone to Lebanon; they were related to the appellant and to the rich Lebanese cousin; and they brought back an envelope for the appellant.
+Analysis and conclusion
+[14] Respecting the first question at issue, the document produced at Tab L of Exhibit A-1 and described in paragraph 4 of these reasons cannot be accepted as proof of payment in the absence of some other evidence to the same effect. As it was, there were no official documents showing the transfer of the car, the name of the previous owner or the transfer price indicated to the SAAQ. Moreover, the appellant obtained $10,571 in insurance proceeds on the theft of the car, and a loss of $2,220 was entered on the statement of net worth. I thus consider that the appellant received fair tax treatment regarding that car and that he was dealt with in conformity with the Income Tax Act.
+[15] As for the second point at issue, at the beginning of the hearing the appellant emphasized the following appearing in a written statement addressed to counsel for the respondent and forming part of Exhibit A-1:
+It is impossible and inconceivable that I could have made an additional $60000 in revenues from washing cars in 1998. It is a given that in any business there are fluctuations in revenue from one year to the next, however such an increase compared to other years is totally unrealistic.
+[16] I have previously considered the matter of a significant increase in income in Badaan v. The Queen, 2000 DTC 2610, and I expressed the view that where there is such an increase in income some evidence or at least some statistical evidence should be adduced by the respondent to show that this increase may possibly come from the appellant's type of business activities in that year.
+[17] I understand that in fact the appellant's net worth increased by $60,000, but at the same time, one should not be taxed on savings from previous years or from amounts on money borrowed from undisclosed sources in cases where the increase is really abnormally high in comparison with other years. I am not convinced that the appellant received the entire amount of $60,000 from his Lebanese cousin, but neither am I convinced that this amount came from his business activities in 1998.
+[18] Therefore, I find that there could be added to his income for the year 1998 an amount that takes into account both the uncertainty as to the source of the money and the fact that the appellant's net worth did increase in that year.
+[19] The appellant's average income for the years 1996 and 1997 was $35,730. I have calculated it on the basis of the declared income and of the added income described in paragraph 2 of these reasons. I take that amount to have also been the appellant's income for the year 1998. As an amount of 20 374 $ was declared by him, I consider that there could be added for 1998 an amount of $15,356 rather than the $69,439 added by the Minister.
+[20] With respect to the penalties as assessed pursuant to paragraph 163(2) of the Income Tax Act, I am of the view that they should be maintained. No daily record of sales was kept, nor were there any books of account: the accounting was absolutely deficient. Those are circumstances in which penalties are warranted.
+[21] The appeals are dismissed for the years 1996 and 1997. The appeal for the year 1998 is allowed on the basis that additional income of $15,356 and not $69,439 should be added.
+Signed at Ottawa, Canada, this 21st day of October, 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+CITATION:
+2004TCC686
+COURT FILE NO.:
+2002-2671(IT)G
+STYLE OF CAUSE:
+Ali Ghaith and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+September 21, 2004
+REASONS FOR JUDGMENT BY:
+The Hon. Justice Louise Lamarre Proulx
+DATE OF JUDGMENT:
+October 21, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Valérie Tardif
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

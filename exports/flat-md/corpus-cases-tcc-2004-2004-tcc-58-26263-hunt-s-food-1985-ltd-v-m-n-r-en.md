@@ -1,0 +1,258 @@
+---
+title: "Hunt's Food (1985)Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26263/index.do"
+last_modified: "2004-02-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 58"
+citation2: ""
+neutral_citation: "2004 TCC 58"
+decision_date: "2004-02-03"
+language: "en"
+item_id: "26263"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3994
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:51:20.398000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a9c8e488025b4810f8f418dae85e34789a0ef698b3524a6c7bd54b503923ec1c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hunt's Food (1985)Ltd. v. M.N.R.
+
+- Citation: 2004 TCC 58
+- Decision date: 2004-02-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3994, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hunt's Food (1985)Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-02-03
+Neutral citation
+2004 TCC 58
+File numbers
+2001-4252(EI)
+Judges and Taxing Officers
+Michael H. Porter
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2001-4252(EI)
+BETWEEN:
+HUNT'S FOOD (1985) LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 6, 2003 at Prince Albert, Saskatchewan
+Before: The Honourable M.H. Porter, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Nicholas Marchessault
+Counsel for the Respondent:
+Anne Jinnouchi
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Calgary, Alberta, this 3rd day of February 2004.
+"Michael H. Porter"
+Porter, D.J.
+Citation: 2004TCC58
+Date: 20040203
+Docket: 2001-4252(EI)
+BETWEEN:
+HUNT'S FOOD (1985) LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Porter, D.J.
+[1] This appeal was heard at Prince Albert, in the Province of Saskatchewan, on the 6th of August, 2003.
+[2] The Appellant has appealed from the decision of the Minister of National Revenue (hereinafter call the "Minister") dated the 18th of December 2001, that the employment with it of Rick Hunt (the "Worker") from January 1, 2000 to April 11, 2001 was insurable under the Employment Insurance Act (the "EI Act") for the following reason:
+"Rick Hunt was employed under a contract of service and therefore he was an employee. Although you were not dealing with each other at arm’s length, the Minister is satisfied that you would have entered into a substantially similar contract of employment if you had been dealing with each other at arm’s length. Therefore his employment cannot be excluded from insurability."
+The decision was said to be issued in accordance with section 93 of the EI Act and was based on paragraphs 5(1)(a) and 5(2)(i) thereof.
+[3] The material facts revealed that during the time in question, the Appellant owned and operated a grocery store in Prince Albert and that the Worker was the manager of that store. The shares in the corporation were owned fifty percent by Vern Hunt and fifty percent by Eileen Hunt, his wife. The Worker is their son. Thus, pursuant to the combined effects of paragraph 5(2)(i) and section 251 of the Income Tax Act as a related person, the Worker is deemed not to be dealing with the Appellant at arms’ length, and his employment was not prima facie insurable employment and no employment insurance benefits would have been paid if it had been terminated. It was on this basis that the Appellant and the Worker conducted themselves over a number of years. However, that situation is subject to the exception set out in paragraph 5(3)(b) of the EI Act whereby the Minister may exercise what has been judicially termed a discretion, whereby if he is satisfied, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and nature and importance of the work performed, that it is reasonable to conclude that the parties would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length, he may open the gate and allow the employment to be included in insurable employment. In such circumstances, for the purpose of the EI Act, the parties are then deemed to have dealt with each other at arm’s length.
+[4] Whilst there is no question that the Worker was working under a contract of service, there is a certain element of unfairness here in how the Minister has gone about this situation. It is akin to taxation by discretion. I made reference to this situation in two decided cases in 1999, namely Crawford and Company Ltd. v. M.N.R. [1999] T.C.J. No. 850 and Hoobanoff Logging Limited v. M.N.R. [1999] T.C.J. No. 856. I adopt what I said in those cases, as this is also an instance of the Minister purportedly exercising his discretion expost facto to gather employment situations into the focus of the employment insurance scheme, where the law would otherwise, in the natural course of events, have excluded them and where the Worker for the benefit of whom Parliament appears to have introduced the exception, has not sought to be included.
+[5] I said in the Hoobanoff Logging Limited case:
+"Usually, the Minister is being asked to open the door to persons claiming benefits on the basis that the exception should be applied. Appeals constantly come to the Court after the Minister has refused to exercise his discretion in their favour. In this case, however, as in the Crawford case (above), the Minister is proactively exercising his discretion to bring people into the fold of the employment insurance scheme, who would not otherwise by operation of the law, be there. Thus, as a result of the exercise of his discretion, they are being assessed for premiums. I am of the view that the law enables him to do that in the appropriate circumstances, but that such is hardly consistent with the intent of the amendments made to the Unemployment Insurance Act in 1990 when this discretion was first introduced. In the House of Commons André Plourde, MP speaking on behalf of the government of the day, at the time the amendments to the Unemployment Insurance Act were introduced, said that Bill C-21 had provisions to eliminate unfair restrictions on eligibility of benefits and:
+"All the changes proposed in Bill C-21 have essentially been designed to make that system more efficient and equitable and to meet the needs of workers." (see Hansard June 7, 1989 House of Commons Debates page 2722)
+Nonetheless, as a matter of strict interpretation of the law, I am satisfied that the legal capacity for the Minister to do this exists. It is not for the Court to get involved in policy matters, but I do point out the difference between the developing practice, as evidenced by these cases, and the apparent intention of Parliament with respect to this section, at the time it was introduced, namely to alleviate the hardship and inequity that would be faced by related people in genuine virtual arm’s length relationships, who would otherwise be unable to participate in the scheme. There was never any suggestion that it was designed to provide a large net to the Minister to go fishing and haul in those he could catch by exercising his discretion, proactively.
+Furthermore, this interpretation of the section by the Minister seems inherently unfair, in that if these brothers were not related to the major shareholder and the Minister had decided as a matter of fact that they were dealing with the Corporation at arm’s length, they would have the right to appeal to this Court on a de novo basis. As it is, because they are related to the majority shareholder, although the basic law says that they are out of the scheme due to the exercise of the discretion by the Minister, they are brought into it against their wishes and they have only a limited right of appeal; that is, their right to appeal is curtailed by the deference the Court must give to the Minister in the exercise of his discretion, in these circumstances.
+While that deference and the limited appeal rights seem perfectly logical and fair when people who are basically excluded by the law are trying to bring themselves within the terms of an exception, and the Minister is charged with the responsibility by Parliament to exercise his discretion, the same cannot be said when the Minister by the exercise of that discretion, proactively reaches out to bring people into the scheme, when they have no wish to be there."
+[6] Having said that, I recognize that my duty now is clear. I must consider whether the decision of the Minister was lawfully taken, affording him all the deference due to the exercise of his discretion, and only if I find that it was exercised unlawfully within the meaning of that term as judicially defined, may I consider the whole situation do novo.
+The Law
+[7] In the scheme established under the EI Act, Parliament has made provision for certain employment to be insurable, leading to the payment of benefits upon termination, and other employment which is "not included" and thus carrying no benefits upon termination. Employment arrangements made between persons, who are not dealing with each other at arm’s length, are categorized as not included. Family members and corporations controlled by persons related to them are deemed not to be dealing with each other at arm’s length pursuant to subsection 251(1) of the Income Tax Act, which governs the situation. Quite clearly the original purpose of this legislation was to safeguard the system from having to pay out a multitude of benefits based on artificial or fictitious employment arrangements, see the comments of the Federal Court of Appeal in Paul v. The Minister of National Revenue, #A-223-86 unreported, where Hugessen J. said:
+"We are all prepared to assume, as invited by appellant’s counsel, that paragraph 3(2)(c) of the Unemployment Insurance Act, 1971, and subsection 14(a) of the Unemployment Insurance Regulations have for at least one of their purposes the prevention of abuse of the Unemployment Insurance Fund through the creation of so-called "employer-employee" relationships between persons whose relationship is, in fact, quite different. That purpose finds obvious relevance and rational justification in the case of spouses who are living together in a marital relationship. But even if, as appellant would have us do, we must look only at spouses who are legally separated and may be dealing at arm’s length with one another, the nature of their relationship as spouses is such as, in our view, to justify excluding from the scheme of the Act the employment of one by the other.
+...
+We do not exclude the possibility that the provisions may have other purposes, such as a social policy decision to remove all employment within the family unit from the operation of the Unemployment Insurance Act, 1971, as was suggested by respondent’s counsel." (emphasis mine)
+[8] The harshness of this situation has however been tempered by paragraph 5(3)(b) of the EI Act, which provides for such employment between related persons deemed to be at arm’s length and thus in turn to be treated as insurable employment, if it meets all the other provisions, where the Minister is satisfied having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, that it is reasonable to conclude that they would have entered into a substantially similar contract if they had (in fact) been dealing with each other at arm’s length.
+[9] It may be helpful to reframe my understanding of this section. For people related to each other the gate is closed by the statute to any claim for employment benefits unless the Minister can be satisfied that in effect the employment arrangement is the same as that which unrelated persons, that is persons who are clearly at arm’s length, would have made. If it is a substantially similar contract of employment, Parliament has deemed it to be only fair that it should be included in the scheme. However, the Minister is the gatekeeper. Unless he is so satisfied the gate remains closed, the employment remains excepted and the employee is not eligible for benefits.
+[10] Subsection 93(3) of the EI Act deals with appeals to and the determination of questions by the Minister. It requires that:
+"The Minister shall decide the appeal within a reasonable time after receiving it and shall notify the affected persons of the decision."
+[11] Thus, the Minister has no discretion whether or not to decide the question. He is required by law to do so. If he is not satisfied, the gate remains closed and the employee is not eligible. If however, he is satisfied, without more ado or any action on the part of the Minister (other than notification of the decision) the employee becomes eligible for benefits, provided he is otherwise qualified. It is not a discretionary power in the sense that if the Minister is satisfied he may then deem the employment to be insurable. He must "determine the question" and depending on that determination the law deems the employment to be either at arm’s length or not at arm’s length. In this sense the Minister has no discretion to exercise in the true sense of the word, for in making his decision he must act quasi-judicially and is not free to choose as he pleases. The various decisions of the Federal Court of Appeal on this issue reveal that the same test applies as to a myriad of other officials making quasi-judicial decisions in many different fields. See Tignish Auto Parts Inc. v. M.N.R., 185 N.R. 73, Ferme Émile Richard et Fils Inc. v. M.N.R., 178 N.R. 361, Attorney General of Canada and Jencan Ltd., (1997) 215 N.R. 352 and Her Majesty the Queen and Bayside Drive-in Ltd., (1997) 218 N.R. 150.
+[12] The function of this Court then, upon appeal, is to review the decision of the Minister and decide whether it was arrived at lawfully that is in accordance with the Act and with the principles of natural justice. In the case Her Majesty the Queen v. Bayside et al., supra, the Federal Court of Appeal laid out certain matters which should be considered by this Court when hearing these appeals. These were:
+"(i) the Minister acted in bad faith or for an improper purpose or motive;
+(ii) the Minister failed to take into account all of the relevant circumstances as expressly required by paragraph 3(2)(c); or
+(iii) the Minister took into account an irrelevant factor."
+[13] The Court went on to say:
+"It is only if the Minister made one or more of these reviewable errors that it can be said that his discretion was exercised in a manner contrary to law, and ... the Tax Court Judge would be justified in conducting his own assessment of the balance of probabilities as to whether the respondents would have entered into substantially similar contracts of service, if they had been at arm’s length."
+[14] I remind myself, when reviewing this case, that it is not for the Court to substitute its opinion of the evidence for that of the Minister. However, if his or her manner of arriving at the decision was unlawful in the context of the judgments set out above, those affected parts of the stated facts may be disregarded and I must then consider whether that which is left affords justifiable grounds for the decision. If those grounds, standing alone, are sufficient for the Minister to form a decision, albeit that the Court may not agree with it, the decision must stand. If on the other hand there is no basis left upon which the Minister might lawfully make such a decision, from an objective and reasonable point of view, then such decision may be struck down and the Court can consider the evidence before it on appeal and make its own decision.
+[15] In summary then, if there are sufficient facts before the Minister for his decision, it is his or her determination to make and if he or she is "not satisfied" it is not for this Court to substitute its view of those facts and say he or she should have been satisfied. Similarly, if he or she was satisfied it is not for this Court to substitute its view that he or she should not have been satisfied. Only if the decision is reached in an improper manner and it is unreasonable, from an objective point of view, on the basis of the facts which were properly before the Minister, may the Court interfere.
+[16] I am fortified in this approach by a number of decisions of various Courts of Appeal across the country and the Supreme Court of Canada in related decisions concerning the issue of various processes under the Criminal Code, which subsequently came to be reviewed by the Courts and are in my view analogous to the present situation. The standard of review of the validity of a search warrant was set out by Cory, J.A. (as he then was) in Times Square Book Store, Re (1985) 21 C.C.C. (3d) 503 (C.A.), where he said that it was not the role of the reviewing judge to look at or consider the authorization of a search warrant de novo and it was not open to the reviewing judge to substitute his or her own opinion for that of the issuing judge. Rather, on review, the first issue to be decided was whether or not there was evidence upon which a justice of the peace, acting judicially, could determine that a search warrant should be issued.
+[17] The Ontario Court of Appeal reiterated and expanded upon this point of view in R. v. Church of Scientology of Toronto and Zaharia (1987) 31 C.C.C. (3d) 449 C.A. leave to appeal refused. In suggesting that the reviewing Court look at the "totality of the circumstances" the Court said at 492:
+"Obviously if there is not such evidence to provide a basis for such a belief (that a criminal offence had been committed) it cannot be said that in those circumstances the justice should be satisfied. There will, however, be cases where such evidence (showing reasonable grounds) does exist and the justice could be satisfied but where he or she is not satisfied and does not exercise his or her discretion in favour of issuing a search warrant. In these circumstances, the reviewing judge must not say that the justice should have been satisfied and should have issued the warrant.
+Similarly, if the justice in such circumstances says that he or she is satisfied and issues the warrant, the reviewing judge must not say that the justice should not have been so satisfied".
+[18] The Supreme Court of Canada endorsed this approach in R. v. Garofoli (1990) 2 S.C.R. 1421. The late Mr. Justice Sopinka, when dealing with the review of the issue of an authorization to wiretap, then said:
+"While a judge exercising this relatively new power need not comply with the Wilson criteria, he should not review the authorization de novo. The correct approach is set out in the reasons of Martin J.A. in this appeal. He states,...
+If the trial judge concludes that, on the material before the authorizing judge, there was no basis upon which he could be satisfied that the pre‑conditions for the granting of the authorization exist, then, it seems to me that the trial judge is required to find that the search or seizure contravened s. 8 of the Charter.
+The reviewing judge does not substitute his or her view for that of the authorizing judge. If, based on the record which was before the authorizing judge as amplified on the review, the reviewing judge concludes that the authorizing judge could have granted the authorization, then he or she should not interfere. In this process, the existence of fraud, non-disclosure, misleading evidence and new evidence are all relevant, but, rather than being a prerequisite to review, their sole impact is to determine whether there continues to be any basis for the decision of the authorizing judge."
+[19] This approach appears to have been adopted by almost every appellate court in the country. (See R. v. Jackson (1983) 9 C.C.C. (3d) 125 (B.C. C.A.); R. v. Conrad et al. (1989) 99 A.R. 197; 79 Alta. L.R.; (2d) 307; 51 C.C.C. (3d) 311 (C.A.); Hudon v. R. (1989) 74 Sask. R. 204 (C.A.); and R. v. Turcotte (1988) 60 Sask. R. 289; 39 C.C.C. (3d) 193 (C.A.); R. v. Borowski (1990) 66 Man. R. (2d) 49; 57 C.C.C. (3d) 87 (C.A.); Bâtiments Fafard Inc. et autres c. Canada et autres (1991) 41 Q.A.C. 254 (C.A.); Société Radio-Canada v. Nouveau-Brunswick (Procureur général) et autres (1991) 104 N.B.R. (2d) 1; 261 A.P.R. 1; 55 C.C.C. (3d) 133 (C.A.); R. v. Carroll and Barker (1989) 88 N.S.R. (2d) 165; 225 A.P.R. 165; 47 C.C.C. (3d) 263 (C.A.); R. v. MacFarlane (K.R.) (1993) 100 Nfld. & P.E.I.R. 302; 318 A.P.R. 302; 76 C.C.C. (3d) 54 (P.E.I. C.A.). It seems to me most relevant to a review of the Minister’s determination, which is itself a quasi judicial decision.
+Stage I Analysis of the Minister’s Decision
+[20] I turn now to consider in detail how the Appellant challenges the decision of the Minister. There is no suggestion before me that he acted in bad faith or for any improper motive or purpose. Thus, it boils down to a question of whether he took into account irrelevant factors or failed to consider relevant facts, such that if he had not or had done so, as the case may be, he could not reasonably have come to the decision he did.
+[21] In the Reply to the Notice of Appeal signed on his behalf, the Minister was said to admit the following facts alleged by the Appellant, 1(a), (e), (f), (g), (h) and (j):
+(a) admits that Vern Hunt and Eileen Hunt were shareholders of the Appellant,
+(e) admits that the Worker's work included managerial duties,
+(f) admits that the Worker's hours were flexible,
+(g) admits that the Worker worked 8 hours per day and 40 to 70 hours per week,
+(h) admits that the Worker did not keep a record of his hours,
+(j) admits that the Worker took holidays,
+[22] It was also stated on behalf of the Minister that he had no knowledge of the reason why the Worker was hired, his prior work, his accommodation, his working during statutory holidays, how his original wage was determined, his present salary, his taking more vacation time and his signing authority for the Appellant corporation.
+[23] The Minister was said in the Reply to the Notice of Appeal to have relied upon the following assumptions of fact with which the Appellant agreed or disagreed as set out in parenthesis:
+(a) the Appellant owned and operated a grocery store; (Agreed)
+(b) the voting share structure of the Appellant, for the period under review, was as follows: (Disagreed)
+Vern Hunt (husband) 50%
+Eileen Hunt (wife) 50%
+(c) the Worker is the son of Vern and Eileen Hunt; (Agreed)
+(d) the Worker owns non-voting shares of the Appellant; (Disagreed)
+(e) the Worker is a director of the Appellant, along with his parents; (Agreed)
+(f) the Worker has worked for the Appellant for more than 15 years; (Agreed)
+(g) the Worker is the store manager and his duties included ordering products, hiring, firing, supervision of staff, and administration; (Agreed)
+(h) the Worker normally works regular business hours; (Disagreed)
+(i) the Worker normally works 60 to 70 hours per week; (Agreed)
+(j) the Worker earned a set salary of $29,712 per year; (Agreed)
+(k) the directors of the Appellant set the Worker's salary; (Not agreed)
+(l) the Worker was paid bi-weekly by cheque; (Agreed)
+(m) deductions were withheld from the Worker's wages; (Agreed)
+(n) the Worker did not receive any draws, advances, or bonuses; (Not agreed)
+(o) the Worker takes extra time off in lieu of overtime; (Not agreed)
+(p) the Worker received his salary regularly throughout the period under review; (Not agreed)
+(q) the Appellant paid some of it's other employees on a salary basis; (Agreed)
+(r) the Worker reported to the other shareholders; (Not agreed)
+(s) Vern Hunt stated in his request for a ruling that he had control over the Worker because he was the major shareholder; (Not agreed)
+(t) the Worker has not signed any loans for the Appellant; (Not agreed)
+(u) the Worker has not pledged any security on behalf of the Appellant; (Agreed)
+(v) the Appellant has other employees who can cover for the Worker; (Not agreed)
+(w) the Worker would have to be replaced if he was unable to perform his duties; (Not agreed)
+(x) the Appellant provided the work location; (Agreed)
+(y) the Worker normally performed his services at the Appellant's premises; (Not agreed)
+(z) the Appellant provided all of the tools and equipment required; (Agreed)
+(aa) the Worker did not incur any expenses in the performance of his duties; (Not agreed)
+(bb) the Appellant reported the following income on his tax returns: (Agreed)
+Year T4 Earnings
+2000 $29,712
+1999 $29,600
+1998 $28,700
+1997 $30,953
+1996 $29,872
+1995 $29,695
+1994 $30,530
+1993 $29,076
+(cc) in deciding that the Worker and the Appellant dealt with each other at arm's length, the Minister considered all of the relevant facts that were available to him, including the remuneration paid, the terms and conditions, the duration, and the nature an importance of the work performed; (The subject of the appeal – not agreed)
+(dd) the Minister was satisfied that it was reasonable to conclude that the Worker and the Appellant would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length. (The subject of the appeal – not agreed.)
+[24] Evidence was given at the hearing of the appeal by both Vern Hunt and Rick Hunt, the Worker.
+[25] I found Vern Hunt when he gave his evidence, to be a totally credible witness. I have no difficulty in accepting his evidence in its entirety.
+[26] Vern Hunt explained the share structure of the corporation which was different to that set out before the Minister. Whilst the corporate registry only showed Vern and his wife, Eileen, as shareholders of the Appellant corporation, in fact he said 10 shares had been issued, each of them to Rick Hunt, their son, and Tracey White, their daughter, in the early 1980’s. There was no written evidence of that as such, but there was filed with me as Exhibit A-1 a copy of an Agreement of Sale dated December 1, 1993 whereby Tracey transferred her shares to Rick and a copy of a set of Minutes of a Meeting of Directors, with their solicitor present, approving the transfer, of the same date.
+[27] This corroborated the evidence of Vern Hunt that the children owned shares and I am quite satisfied beyond any doubt that Rick Hunt was the owner of 20% of the common Class "C" non-voting shares at the material times, for this appeal. The fact that they did not bring the corporate registry up to date seems to have been an oversight and makes no difference.
+[28] The witness took issue with items (b) and (d) of the assumptions and was of the view that he and his wife had transferred voting shares to Rick and Tracey. As it turned out, the witness accepted the Minister was correct in his assumptions.
+[29] With respect to item (h), Vern Hunt pointed out that the regular business hours of the store were from 8:00 a.m. to 8:00 p.m. and Rick worked generally from 7:00 a.m. to 7:00 p.m. with 15 minutes taken for each of lunch and supper. He would work Saturdays generally until 3:00 p.m. and then return in the afternoon on Sunday. Thus, it could hardly be said that he worked ‘normal’ business hours.
+[30] With respect to the salary paid, Vern Hunt said that the Appellant paid Rick what they thought they could afford to pay, rather than a going-rate salary. It had been left the same for the 15 years he worked there because the store could not afford more. The business was struggling to compete with major stores that had moved into town. Thus, to some extent, the Minister’s assumption is correct insofar as it goes, but it totally fails to take into account the fact that the salary was not the equivalent of the going-rate for such employment and had not been increased for 15 years duly to the financial difficulties the Appellant was facing. What the Minister has ignored is the fact that this hardly equates with an arm’s length situation. Few arm’s length employees would work for an employer for 15 years without pay increases, because the employer could not afford to pay them the going rate.
+[31] Further to that, when dealing with item (n), the witness said that not only did he not get bonuses, but the job was really worth $40,000.00 plus per year which they could not afford to pay to Rick.
+[32] With respect to item (o), it was pointed out that no record was kept of Rick’s hours worked, so there was no option of paying overtime or taking time off in lieu. If he wanted to take time off to golf or something similar, he would just take it but it was not in lieu of being paid for overtime. Again, the Minister was mistaken.
+[33] The witness said that although the salary paid to Rick was usually paid regularly, there were times when there was a shortage in cash flow and he would be asked to not cash his cheque for days at a time. They never asked any of the regular employees to hold their cheque because he said it simply would not have worked. In cross-examination, he said this had only occurred three to four times in the last two to three years. Again, the Minister failed to take into account a significant factor which showed a considerable distinction between the working arrangement with Rick and that with regular arm’s length employees.
+[34] The witness took complete issue with item (r). He said that at the material time in this appeal, Rick was running the business as he saw fit. Whilst he might refer to Vern or Eileen for their opinion, he did not report to them as such.
+[35] Vern at no time denied that he had stated that he had this element of control. In fact, he only had majority control if his wife voted with him.
+[36] With respect to item (t), the witness said that Rick made all the financial arrangements with the banks for lines of credit and such. Although Vern and his wife had to sign, they left such things up to Vern on the basis that it was or was going to be his store and he had to look after it. He would not have allowed an arm’s length employee such latitude or ever assigned such duties to someone who was not family. Again, the Minister failed to take this very interconnected and trusting relationship into account.
+[37] The witness took definite issue with items (v) and (w). He said that if something happened to Rick so he could not continue, he in turn, would go back in and do the job until the business could be sold. He said it would be impossible to get an outsider to do that job for the salary they were paying.
+[38] The witness pointed out that even if Rick was away from the store, he was constantly on his cell phone dealing with store matters. Whilst normally he would be at the store, and the Minister is correct so far as it goes, he has failed to take into account that Rick was really on duty 7 days per week, 12 hours per day.
+[39] The witness said item (aa) not completely accurate. Rick used his own vehicle to do local deliveries for which he was not reimbursed, although if he drove long distances he was reimbursed.
+[40] Lastly the witness said that he and his wife had talked to the accountant about transferring their shares over to Rick because they wanted him to be the fully fledged owner of the business. However, there had been some income tax implications to doing that and the arrangements had not been implemented. Nevertheless, they considered it to be his business in fact, albeit not in law.
+[41] In cross-examination, the witness agreed that on one occasion Rick had a paid dealer trip outside the country; that he was paid bi-monthly similarly to other employees; that of 22 workers only 6 were full time and they were salaried; that all workers except Rick recorded hours of work; that Rick made all the financial arrangements with the bank; that the accountant only referred to him, Vern, about something major, such as renovations to the store; that there were many things that he, the witness, did not know about; that full-time employees worked 40 hours per week and were paid overtime if they worked more than that.
+[42] The witness also said that before joining the store in 1981/82, Rick had worked for a large grocery chain and took a drop in salary when he joined the family business. Rick took over as manager from Vern in due course.
+[43] The witness further said that none of the department heads in the store had any signing authority on behalf of the corporation. They could make general orders for produce but if there was anything new they had to refer to Rick. Rick in turn never had to refer to Vern.
+[44] The witness said that the building, where the store was located, was 7,000 square feet and owned by the Appellant. In addition, there was an apartment above the store in which Rick and his family resided. They paid rent to the Appellant for the apartment. No other employee lived on the premises.
+[45] He agreed that Rick was paid vacation pay or statutory holiday pay in accordance with the Provincial regulations.
+[46] Finally, the witness said that Rick had called all the shots in the business for the last 20 years. If it was not his son in there, he the witness, would have been in the business every day. He had absolute trust in him as he was his son.
+[47] Rick Hunt also gave evidence. I also found him to be an honest and straight‑forward witness.
+[48] He pointed out that as he lived above the store, he was really there 24 hours per day. He opened the store himself every morning and generally closed it last thing each day. Whilst the employees had left by 8:15 p.m., he turned the lights out generally between 8:30 and 9:00 p.m. So again, I find that the Minister did not take into account the distinction between the time worked by regular arm’s length employees and the time put in by Rick.
+[49] With respect to the control issue, he indicated again that he made all the decisions about running the business and its financial affairs with the bank. His parents actually signed the documents but he set up the arrangements.
+[50] Rick said that he was not paid extra for working statutory holidays and I accept his evidence in this respect.
+[51] Again, he pointed out that sometimes there was not enough cash flow in the bank account of the corporation to put his pay cheque in so he would wait for a number of days until he could, as he said, "sneak it through".
+[52] He gave evidence that managers of independent stores would make $40,000.00 per year. He has a friend earning $50,000.00 per year in a similar store. He felt that he worked for about the half of what he was worth; being the owner/manager he said he had no choice. That is how he and his parents viewed his position. He worked for less because he considered it his own business. Before he joined the business and was working as manager in a large chain store, he did not work such hours.
+[53] He pointed out that he fired and hired staff, operated the bank account, had signing authority for purchases, made arrangement with the bank for cheques to go through and paid $400.00 per month rent for his apartment since the beginning.
+[54] That really was the extent of his evidence and I have no difficulty in accepting his evidence as the truth.
+[55] That, then, is the evidence before me.
+[56] All in all, I am of the view that there were a considerable number of relevant factors that the Minister failed to take into account. There were some factors that he considered just superficially and others about which he was mistaken. The most significant factor of all not taken into account by the Minister was the relationship between the parents and the son whereby, although not in law, they had relinquished the business to Rick to do with as he saw fit. People at arm’s length do not do that and the Minister ignored this in coming to his decision. Everything really flows from that. As a result of it being considered his business, Rick worked in the business for far longer hours than any arm’s length employee would, for a far lower salary. He felt a complete independence as to how he ran the business and organized his life, something an arm’s length employee would not have done. As Vern Hunt said, he trusted him as his son in a way that he would never have trusted an arm’s length person. There was a total intertwining of Rick’s life and finances with that of the corporation, all of which was not taken into account by the Minister.
+[57] When I consider all the significant and relevant factors that have come from the evidence and the irrelevant, incorrect or incomplete factors that the Minister took into account, I have absolutely no hesitation in saying that, if the Minister had considered those factors which should have been before him and ignored those that should not have been taken into account as being incorrect or irrelevant, he could not from a reasonable and objective point of view have lawfully arrived at the decision which he did. It is thus not sustainable in law and I must now advance to the second stage of the appeal process and decide whether, on all the evidence, the parties, had they been at arm’s length, would have entered into a substantially similar contract of employment, taking into account all of the circumstances including those specifically set out in paragraph 5(3)(b) of the EI Act.
+Part 2 – Review of the Evidence as it relates to Rick Hunt
+[58] I do not intend to review the evidence afresh. It seems perfectly clear to me that Rick Hunt operated this business as if it was his own with the consensus of his parents, who wished it to legally become his. He lived the business every day, for a lesser salary than he would get elsewhere, working longer hours and taking full responsibility, all because he considered it to be his own business, thus acting in a way that no arm’s length employee who had no stake in it, ever would. I could not help but think that many of these factors are exactly those that the Minister often cites in cases where he has refused to exercise his discretion. There can be no double standard here.
+[59] I have absolutely no hesitation in coming to the conclusion in this case that Rick Hunt was not dealing with the Appellant corporation at arm’s length. Had he been doing so, he would not have been working these long hours, for a salary that did not increase over 15 years, holding his pay cheques when there was insufficient funds to put them through. All of these factors are hallmarks of being not at arm’s length.
+[60] On a final note, it seems to me, in general terms, that quite clearly the scheme set up by Parliament excludes from insurable employment, those situations where people are in business for themselves, or have substantial control of the corporations for whom they work, either with persons to whom they are related or with whom they are not dealing at arm’s length. If in those situations the working relationship is substantially the same as that which exists between unrelated people dealing with each other at arm’s length, then clearly Parliament has tempered the severity of depriving such people of the opportunity to participate, by giving the Minister a discretion to let them into the scheme. It seems clear that this process was not designed by Parliament to draw into the net of the employment insurance scheme, employment arrangements, where people are virtually operating their corporate businesses as their own business; where they are economically intertwined with their corporations to such an extent that there is really no adverse economic interest between them; where in essence they are entrepreneurs not workers engaged in employment.
+[61] Whilst it is clear that there are many who make contributions to the scheme, who might never expect to claim from it, which is not the point, it is equally clear that the scheme is designed to be for the benefit of and to be supported by contributions from genuine employees and not from those, who somewhat go out on a limb to pursue their own entrepreneurial interests. Those who do that, take their own risks and are expected by Parliament to look after themselves in the event of bad times. The scheme has been very much set up for the benefit of those in regular employment situations and not for those in business for themselves. Clearly in the appeal at hand, the worker in question was effectively in business for himself.
+Conclusion
+[62] I am of the view that there did not exist between this worker and the Appellant corporation, the degree of adverse economic interest, such that one could say there were separate economic interests. Their economic interests were so closely linked that the Appellant could not be said to be acting with a separate mind. The same kind of negotiating that would take place in the market place between traders who were strangers, was not present in these arrangements. There was not the kind of independence of thought or purpose between the Appellant and Rick Hunt that one could say they were dealing with each other at arm’s length, particularly when one looks at the remuneration paid, the terms and conditions under which he worked and the nature and importance of the work. Accordingly, I find that Rick Hunt was not in insurable employment.
+[63] In the result, the appeal is allowed and the decision of the Minister is vacated.
+Signed at Calgary, Alberta, this 3rd day of February 2004.
+"Michael H. Porter"
+Porter, D.J.
+CITATION:
+2004TCC58
+COURT FILE NO.:
+2001-4252(EI)
+STYLE OF CAUSE:
+Hunt's Foods (1985) Ltd. and M.N.R.
+PLACE OF HEARING:
+Prince Albert, Saskatchewan
+DATE OF HEARING:
+August 6, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable M.H. Porter,
+Deputy Judge
+DATE OF JUDGMENT:
+February 3, 2004
+APPEARANCES:
+Agent for the Appellant:
+Nicholas Marchessault
+Counsel for the Respondent:
+Anne Jinnouchi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

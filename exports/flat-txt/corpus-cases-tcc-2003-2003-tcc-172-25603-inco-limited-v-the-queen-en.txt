@@ -1,0 +1,184 @@
+Title: Inco Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25603/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-172-25603-inco-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-03-25
+
+# Inco Limited v. The Queen
+
+- Citation: 2003 TCC 172
+- Decision date: 2003-03-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2447, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Inco Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-25
+Neutral citation
+2003 TCC 172
+File numbers
+2002-2695(IT)G
+Judges and Taxing Officers
+Ronald D. Bell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2695(IT)G
+BETWEEN:
+INCO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on March 4, 2003 in Toronto, Canada
+Before: The Honourable Judge R.D. Bell
+Appearances:
+Counsel for the Appellant:
+Al Meghji
+Counsel for the Respondent:
+Luther P. Chambers
+____________________________________________________________________
+ORDER
+Upon hearing the Appellant's motion for the referral of the question described below to this Court for determination under section 58 of the Tax Court of Canada Rules (General Procedure),
+With respect to the question of whether the Minister determined the losses of 321821 referred to in the July 4, 1997 letter, set forth in numerical paragraph 5 of the Reasons attached hereto, such that the non-capital losses realized by 321821 in its 1996 taxation year are available to be applied by the Appellant in its 2000 taxation year by virtue of paragraph 88(1.1)(c) and 111(1)(a) of the Income Tax Act,
+IT IS ORDERED THAT:
+(a) such question is a question of law raised by the Notice of Appeal properly determinable by this Court, before the hearing, the relevant facts pertaining thereto having been agreed in the pleadings and at the hearing seeking such section 58 reference, and
+(b) the determination of such question will dispose of part of the proceeding, thereby substantially shortening the hearing.
+The hearing of such determination, estimated by counsel to last one and one-half days, will be held on June 23 and 24, 2003, at the Tax Court of Canada, Sun Life Centre, 200 King Street West, Suite 902, Toronto, Ontario, commencing at 9:30 a.m.
+The Appellant is entitled to costs payable forthwith by the Respondent.
+Signed at Ottawa, Canada this 25th day of March, 2003.
+"R.D. Bell"
+J.T.C.C.
+Citation: 2003TCC172
+Date:20030325
+Docket: 2002-2695(IT)G
+BETWEEN:
+INCO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bell, J.T.C.C.
+[1] The Appellant has filed a Notice of Motion pursuant to section 58 of the Tax Court of Canada Rules (General Procedure) ("Rules") for an Order referring what it describes as a question of law raised in paragraph 17(a) of the Notice of Appeal to a hearing for the determination of that question.
+[2] Section 58(1) of the Rules reads:
+A party may apply to the Court,
+(a) for the determination, before hearing, of a question of law raised by a pleading in a proceeding where the determination of the question may dispose of all or part of the proceeding, substantially shorten the hearing or result in a substantial saving of costs, ...
+and the Court may grant judgment accordingly.
+[3] The issue described in paragraph 17(a) of the Notice of Appeal is:
+whether the Minister determined the losses of 321821 in the Letter such that the non-capital losses realized by 321821 in its 1996 taxation years are available to be applied by the Appellant in its 2000 taxation year by virtue of paragraphs 88(1.1)(c) and (111)(1)(a) of the Act.
+The letter referred to is quoted in numerical paragraph 5 below.
+[4] The Respondent does not agree with the Appellant that the question to be determined is one purely of law within the meaning of section 58(1)(a) of the Rules. This Court's present task is, therefore, to determine whether the question posed by the Appellant for determination is a question of law properly referable to a hearing for its determination.
+[5] Accordingly, the Appellant seeks a hearing of its motion for an Order of this Court as to whether:
+(a) the letter from the Minister is a Notice of Determination, and
+(b) if so, that the determination of that question before hearing may dispose of all or part of the proceeding, substantially shorten the hearing or result in a substantial saving of costs.
+[6] Appellant's counsel referred to the Notice of Appeal and allegations of fact therein that had been admitted by the Respondent. Those facts are as follows:
+1. On August 21, 1996, the Appellant acquired all of the issued and outstanding shares of 321821 B.C. Ltd. ("321821"), formerly Diamond Field Resources Inc. ("Inc."), a British Columbia corporation.
+2. Immediately following this acquisition, the Appellant resolved to wind up 321821 and commenced winding up into the Appellant. This winding up was completed by dissolution of 321821 on December 11, 2001.
+3. By virtue of that winding up, any non-capital losses of 321821 for its taxation years ending June 30, 1996 and August 21, 1996 would be deemed by paragraph 88(1.1)(c) of the Income Tax Act ("Act") to be non-capital losses of the Appellant for its taxation year ending December 31, 1996. Accordingly, any such non-capital losses would be available to the Appellant to deduct in computing its taxable income for taxation years ending after December 31, 1996.
+4. By two separate letters dated May 22, 1997, 321821 requested that the Minister of National Revenue ("Minister") to determine its non-capital losses for its taxation years ending June 30, 1996 and August 21, 1995 respectively.
+5. The Surrey Taxation Centre responded to 321821 by letter dated July 4, 1997 which stated:
+We are replying to your letter requesting the non-capital losses available to the corporation for application against taxable income in future years. We are pleased to offer the following information for your records:
+Origin Year
+Amount Available
+Balance Forward
+1993
+$144,137.00
+$144,137.00
+1994
+2,450,430.00
+2,594,567.00
+1996(30/06)
+65,684,989.00
+68,279,556.00
+1996(21/08)
+131,933,429.00
+200,212,985.00
+We trust this information will help you.
+6. The Appellant reported a non-capital loss in the amount of $161,450,228.00 in its December 31, 1997 taxation year.
+7. The Appellant reported a non-capital loss in the amount of $287,212,120.00 in its December 31, 1998 taxation year.
+8. On or before June 30, 2001 the Appellant filed its income tax return for its 2000 taxation year.
+9. The Minister assessed the Appellant's income tax return for its 2000 taxation year on July 17, 2001.
+[7] Appellant's counsel then referred to paragraph 25(a) of the Reply to the Notice of Appeal which reads as follows:
+whether the letter from the Minister to 321821, dated July 4, 1997 constituted a determination of 321821's noncapital losses for the 1993, 1994 and 1996 taxation years, within the meaning of subsection 152(1.1) of the Income Tax Act.
+and said that there was "no difference in the issue as the parties have pleaded it."
+[8] Appellant's counsel then referred to paragraph 27 of the Reply to the Notice of Appeal which reads as follows:
+He says that the Minister's letter to 321821, dated July 4, 1997 did not constitute a determination of 321821's noncapital losses, within the meaning of subsection 152(1.1) of the Income Tax Act, in that the Minister did not thereby ascertain 321821's said losses in amounts that were different from those reported by 321821.
+[9] Appellant's counsel then submitted that, based on the pleadings, there are no facts in dispute relevant to the question. He added that the sole question is whether the letter constitutes a Notice of Determination. He then said that that was a matter of argument on how "152(1.1) and the related provisions work - a pure question of law for a judge to hear."
+[10] Appellant's counsel then referred to the affidavit of Carme Lau ("Lau") filed by the Respondent in support of its application on a different matter before Associate Chief Judge Bowman. He then referred to his cross-examination of Lau ending with this exchange:
+Question: So there is no more audit work to be done on that question, on whether there is a determination?
+Answer: No.
+Lau was, at the time of the affidavit, an officer of Canada Customs and Revenue Agency.
+[11] Appellant's counsel, with reference to that cross-examination, said that it conclusively established that there is nothing left to do "except for a judge...to hear argument on whether that letter constitutes a determination of loss."
+[12] Counsel then said that he was required by section 58 of the Rules to establish that the determination of the question of law may dispose of all or part of the proceedings. He submitted that determination of the question of law sought would clearly so do.
+[13] Respondent's counsel submitted that the question was not appropriate for determination under section 58 of the Rules for three reasons:
+1. The Order of this Court by Associate Chief Judge Bowman on February 4, 2003 is under appeal to the Federal Court of Appeal.
+2. The issue is not one purely of law but is one of mixed fact and law, the issue of fact requiring evidence for its resolution.
+3. A determination of the issue would not substantially shorten the length of the trial or result in a substantial saving of costs.
+[14] When the Court referred to another condition, namely whether it disposed of all or part of the proceeding, counsel replied that he was also challenging that.
+[15] Respecting his first submission, Respondent's counsel stated that if the Federal Court of Appeal reversed Judge Bowman, the matters sought to be determined would become academic because there would be no issue to be tried.
+[16] Respecting Counsel's second point he stated that this determination involved a question of mixed fact and law. He referred to the Reply to the Notice of Appeal alleging that the non-capital losses "had not as yet been ascertained." He said that whether the losses had been ascertained was therefore in dispute and that evidence would be required in order to resolve that dispute. The following exchange took place:
+HIS HONOUR: So you are saying that your own act was not an ascertainment.
+MR. CHAMBERS: Well, that's what we're saying, yes. And no evidence is admissible. So you have two conflicting allegations, the resolution of which requires evidence.
+[17] Counsel also referred to subsection 152(1.1) of the Income Tax Act ("Act") saying that it required that if there was such an ascertainment, it must have been in amounts different from that reported by the taxpayer in its own income tax return. He stated further that there was no allegation in the Notice of Appeal "what 321821 reported its losses to be in its income tax returns." Respondent's counsel, still in connection with the second point, said:
+There are certain administrative practices, information circulars and information bulletins, information circulars, and the understanding of the tax community of what constitutes a notice of loss determination.
+[18] He then stated that the question of what constitutes a notice of loss determination is, in part, a question of fact on which evidence would have to be introduced. He then said that since section 58 of the Rules does not allow the introduction of evidence it is not a proper question to be determined.
+[19] With respect to the third point, he said that:
+the entire noncapital loss issue would have to be revisited at trial and in some detail, I submit to you. So, therefore, no costs would be saved and the trial would not be appreciatively shortened.
+[20] He then referred to two cases respecting section 58 applications, namely Chutka et al. v. The Queen, 97 DTC 377 (T.C.C.) and John N. Gregory v. The Queen, 2000 DTC 2027 (T.C.C.) and 2000 DTC 6561 (F.C.A.). He also referred to Webster v. R, [2002] 3 C.T.C. 326 (F.C.A.).
+[21] In reply, Appellant's counsel, with respect to the submission that, because of Judge Bowman's Order, no hearing for determination of the question should be made was brief. He submitted that this suggestion essentially constituted an appeal from Judge Bowman's decision, that Judge Bowman refused his request for a stay of proceedings and that his Order should not be frustrated by the Court now granting the Respondent's request.
+[22] Respecting the second point, Appellant's counsel said no question of difference remains regarding amounts of losses claimed and amounts in the letter above referred to. He said that the Minister did not ascertain the losses in amounts different from those reported by 321821.
+[23] He then said:
+I admit that. The numbers we reported in their tax return are identical to the numbers in the letter.
+He also referred to the fact raised by him in his submission that, as stated in Lau's affidavit, there was no more audit work to be done in order for a determination to be made.
+[24] He referred to Webster, which at 330 refers to Berneche v. R, (1991), 133 N.R. 232 (F.C.A.) as follows:
+In Berneche, supra, at paragraph 7, Mahoney J.A. noted that the requirement that there be no dispute as to any material fact is often stated in terms of an agreement or admission of facts. However, agreement is not a requirement. The Motions Judge may draw a conclusion that there are no material facts in dispute, and such conclusion might be drawn from the entire pleadings of the respondent on the motion, on the assumption that what has been pleaded is true, much as in the case of a motion to strike a statement of claim as disclosing no reasonable cause of action.
+ANALYSIS AND CONCLUSION
+[25] I am satisfied that there is no fact material to the determination of the question sought by the Appellant to be determined under section 58 of the Rules which is not presently agreed to by the parties.
+[26] The Respondent's position with respect to amounts of losses reported has no merit given the statement by Appellant's counsel that those amounts were the same as the amounts contained in the letter. The Respondent's position respecting information circulars, interpretation bulletins and practice of the tax community as to what constitutes an ascertainment is not a matter which has any relevance in the determination under section 58. That submission is a signpost for the other two submissions.
+[27] Firstly, the Respondent's suggestion that reference under section 58 of the Rules should not be made because Judge Bowman's Order is under appeal is, in my estimation, an attempt to do "an end run" around a previous Order of this Court, the application for a stay of proceedings in that motion being denied.
+[28] Secondly, no evidence is required in order for the Court to answer the question being referred to it under section 58, the facts agreed upon by the pleadings and admission at the hearing of this motion being sufficient for such determination.
+[29] Thirdly, there is absolutely no merit in the contention that no part of the proceeding would be disposed of by the resolution of this question.
+[30] Although the Appellant's Notice of Motion referred to a second matter, namely leave of this Court to admit the affidavit of Carme K. Lau to be used at the hearing of the determination of the question of law, that matter was abandoned by Appellant's counsel at the hearing of this motion.
+[31] Accordingly, the Appellant's motion for a referral of the aforesaid question to a hearing as above described, will be granted with costs payable forthwith by the Respondent.
+Signed at Ottawa, Canada this 25th day of March, 2003.
+"R.D. Bell"
+J.T.C.C.
+CITATION:
+2003TCC172
+COURT FILE NO.:
+2002-2695(IT)G
+STYLE OF CAUSE:
+Inco Limited v. The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 4, 2003
+REASONS FOR ORDER BY:
+The Honourable Judge R.D. Bell
+DATE OF ORDER:
+March 25, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Al Meghji
+Counsel for the Respondent:
+Luther P. Chambers
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Al Meghji
+Firm:
+Osler, Hoskin & Harcourt LLP
+Toronto, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

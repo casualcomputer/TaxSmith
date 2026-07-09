@@ -1,0 +1,329 @@
+---
+title: "Demers c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27311/index.do"
+last_modified: "2006-10-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 504"
+citation2: ""
+neutral_citation: "2006 TCC 504"
+decision_date: "2006-10-17"
+language: "en"
+item_id: "27311"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 851
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:40:44.419000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d2dc1f444973eae8159f9a6ced3a2df5c769ec96546ff2d617e65d6695e4f288"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Demers c. La Reine
+
+- Citation: 2006 TCC 504
+- Decision date: 2006-10-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 851, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Demers c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-17
+Neutral citation
+2006 TCC 504
+File numbers
+2004-3701(IT)G
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3701(IT)G
+BETWEEN:
+PATRICE DEMERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 26, 2006, at Québec, Quebec.
+Before: The Honourable Justice Pierre R. Dussault
+Appearances:
+Counsel for the Appellant:
+Éric Lewis
+Counsel for the Respondent:
+Benoit Mandeville
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment under the Income Tax Act for the 1999 taxation year is dismissed with costs to the Respondent in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of October 2006.
+“Pierre R. Dussault”
+Dussault J.
+Translation certified true
+on this 29th day of January 2008
+François Brunet, Revisor
+Citation: 2006TCC504
+Date: 20061017
+Docket: 2004-3701(IT)G
+BETWEEN:
+PATRICE DEMERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Dussault J.
+[1] This is an appeal from an assessment under the Income Tax Act (the “Act”) for the 1999 taxation year.
+[2] By this assessment, the Minister of National Revenue (the “Minister”) added to the Appellant’s income $60,000 with regard to taxable dividends of $48,000 paid on August 23 and December 31, 1999, on class D shares of the capital stock of Genex Communications Inc. (“Genex”) issued in the names of his two minor daughters on March 3, 1999.
+[3] The facts relied on to make the assessment are stated in subparagraphs (a) to (ii) of paragraph 9 of the Reply to the Notice of Appeal. These subparagraphs read as follows:
+[TRANSLATION]
+(a) Genex Communications Inc. (“Genex”) was incorporated on June 16, 1996, under the Canadian Business Corporations Act, R.S.C. (1985), c. C-44).
+(b) Genex operates a radio station (CHOI FM) in Quebec City.
+(c) Genex’s fiscal year ends on August 31 of each year.
+(d) During the period in issue, Genex’s authorized capital stock consisted in the following categories of shares:
+(i) Class A: voting and participating;
+(ii) Class B: voting and participating;
+(iii) Class C: non-voting, non-participating, non-cumulative dividend of 4%, non-preferential, callable and puttable at the amount of capital paid;
+(iv) Class D: non-voting, non-participating, non-cumulative dividend.
+(e) Before March 3, 1999, Genex’s issued and paid capital stock was distributed as follows:
+(i) Appellant: 50,000 class A shares;
+(ii) Télémédia Inc.: 10,000 class A shares;
+(iii) Télémédia Inc.: 5,000 class B shares;
+(iv) Octave Inc.: 15,000 class B shares;
+(v) Télémédia Inc.: 500,000 class C shares;
+(vi) Appellant: 1 class D share.
+(f) On March 3, 1999, the following shares of Genex capital stock were issued in favour of the following shareholders:
+(i) Appellant: 6,000 class B shares;
+(ii) Télémédia Inc.: 2,000 class B shares;
+(iii) Octave Inc.: 2,000 class B shares.
+(g) On March 3, 1999, the shareholders of Genex accepted the subscriptions of Valérie Rochette Demers and Marie‑Noël Rochette Demers for one class D share each of the capital stock of Genex and authorized the issue of these shares.
+(h) Valérie Rochette Demers was born on October 8, 1992, and Marie‑Noël Rochette Demers was born on April 14, 1996.
+(i) On March 3, 1999, Valérie Rochette Demers was 6 years old and Marie‑Noël Rochette Demers was 2 years old.
+(j) During the period in issue, Télémédia Inc. was a company controlled by Claude Beaudoin and this company was not related to Genex.
+(k) During the period in issue, Octave Inc. was a company controlled by Jean Morin and this company was not related to Genex.
+(l) During the period in issue, the Appellant was sole director and chief executive officer of Genex.
+(m) The Appellant is the father of Valérie Rochette Demers and Marie‑Noël Rochette Demers (the “Appellant’s daughters”).
+(n) The 2 class D shares of Genex’s capital stock that were issued to the Appellant’s daughters on March 3, 1999, were issued with the sole purpose of dividing the taxation of a part of the Appellant’s compensation, as chief executive officer of Genex, between the Appellant’s daughters.
+(o) On March 3, 1999, the Appellant and his spouse, Sonia Rochette, who is also the mother of the Appellant’s daughters, as legal tutors of the Appellant’s daughters, entered into an agreement under which (1) the Appellant exercised alone and in the name of the Appellant’s daughters all of the rights associated with the two shares mentioned at point (n) of this paragraph and (2) the Appellant’s daughters had to sell those shares to the Appellant on December 31, 1999 for $1 each.
+(p) Contrary to what was set out in the agreement mentioned in subparagraph (o) of this paragraph, the 2 class D shares of Genex’s capital stock mentioned in point (n) of this paragraph were transferred on January 2, 2000, to 3689735 Canada Inc.
+(q) 3689735 Canada Inc. is a management company controlled by the Appellant.
+(r) Under a compensation agreement dated August 21, 1997, the Appellant and Genex agreed that the Appellant would receive, as chief executive officer of Genex from September 1, 1997 to August 31, 1998, total compensation of $130,000 of which $60,000 would be paid in the form of salary and $36,000 would be paid in dividends on class D shares of Genex’s capital stock.
+(s) Under the agreement mentioned in point (r) of this paragraph, the portion of compensation payable in dividends had to be declared as of August 31, 1998, but paid in advances of $3,000 each on the 1st of each month.
+(t) Prior to the compensation agreement mentioned in point (r) of this paragraph, there was no written compensation agreement between the Appellant and Genex concerning his duties as chief executive officer, but in practice, he received approximately $100,000 per year in that capacity.
+(u) During Genex’s fiscal year from September 1, 1997 to August 31, 1998, the Appellant received advances of $36,000 $ ($3,000 per month) from Genex and a dividend of $12,000 on his class D share of Genex’s capital stock.
+(v) Under a compensation agreement dated June 29, 1998, the Appellant and Genex agreed that the Appellant would receive, as chief executive officer of Genex, for Genex’s fiscal year from September 1, 1998 to August 31, 1999; a total compensation of $150,000, of which $60,000 would be paid in the form of salary and $36,000 would be paid in dividends on class D shares of Genex’s capital stock.
+(w) Under the agreement mentioned in point (v) of this paragraph, the portion of compensation paid in dividends had to be declared as of August 31, 1999, but paid in the form of advances of $3,000 each on the 1st of each month.
+(x) During Genex’s fiscal year from September 1, 1998 to August 31, 1999, the Appellant received $36,000 in advances ($3,000 per month) and Genex declared a total dividend of $36,000 on class D shares of its capital stock in circulation.
+(y) The dividend mentioned in point (x) of this paragraph was declared on June 28, 1999, and paid on August 23, 1999.
+(z) In payment of the dividend of $36,000 mentioned in point (x) of this paragraph, Genex issued:
+(i) a cheque for $12,000 made out to the Appellant;
+(ii) a cheque for $12,000 made out to Valérie Rochette Demers; and
+(iii) a cheque for $12,000 made out to Marie‑Noël Rochette Demers.
+(aa) The two cheques for $12,000 issued in the names of the Appellant’s daughters and mentioned in points (z)(ii) and (z)(iii) of this paragraph were cashed by the Appellant. The money from this transaction was deposited in the Appellant’s bank account and the Appellant used this money to repay Genex $24,000 in advances.
+(bb) Under a compensation agreement dated June 28, 1999, the Appellant and Genex agreed that the Appellant would receive, as chief executive officer of Genex, for Genex’s fiscal year from September 1, 1999 to August 31, 2000, a total compensation of $134,000, of which, $60,000 would be paid as salary and $36,000 would be paid in dividends on class D shares of Genex’s capital stock.
+(cc) Under the agreement mentioned in point (bb) of this paragraph, the portion of compensation paid in dividends had to be declared in part on December 31, 1999, but paid in the form of advances of $3,000 each on the 1st of each month.
+(dd) On December 31, 1999, the Appellant transferred the class D share that he held in the capital stock of Genex to 3689735 Canada Inc.
+(ee) During the period from September 1, 1999 to December 31, 1999, the Appellant received $12,000 in advances ($3,000 per month) and Genex declared, on December 31, 1999, a total dividend of $36,000 on the class D shares of its capital stock in circulation.
+(ff) In payment of the dividend of $36,000 mentioned in point (ee) of this paragraph, Genex issued:
+(i) a cheque for $12,000 made out to 3689735 Canada Inc.;
+(ii) a cheque for $12,000 made out to Valérie Rochette Demers; and
+(iii) a cheque for $12,000 made out to Marie‑Noël Rochette Demers.
+(gg) The two cheques for $12,000 issued in the names of the Appellant’s daughters mentioned in points (ff)(ii) and (ff)(iii) of this paragraph were cashed by the Appellant. The money from this transaction was deposited in the Appellant’s bank account and the Appellant used it to reimburse Genex for $24,000 in advances.
+(hh) The total amount of $72,000 in dividends paid by Genex on August 23 and December 31, 1999, on the class D shares of its capital stock were an integral part of the compensation payable to the Appellant as chief executive officer of Genex pursuant to the compensation agreements mentioned in points ( r), (v) and (bb) of this paragraph.
+(ii) The unanimous agreement of August 31, 1997, between Genex shareholders set out in clause 4.1.8 that the expression “Demers’ compensation,” for the purposes of said agreement, which also provided that any increase in the Appellant’s compensation had to be approved by the shareholders of Genex, [TRANSLATION] “. . . includes any salary, bonus or other form of benefit (including personal use of contra advertising, at the value of said contra advertising) paid in favour of Mr. Demers or any person who is related or connected to him under the meaning of Canadian tax legislation, including dividends on class D shares, adjusted for the purposes of the tax laws applicable to companies.”
+[4] For the purposes of the appeal, the parties submitted an agreement on certain facts, which reads as follows:
+[TRANSLATION]
+. . .
+1. Genex Communications Inc. (“Genex”) was incorporated on June 16, 1996, under the Canadian Business Corporations Act, R.S.C. (1985), c. C-44). (9(a) of the Reply to the Notice of Appeal).
+2. Genex operates a radio station (CHOI FM) in the city of Québec. (9(b) of the Reply to the Notice of Appeal).
+3. Genex’s fiscal year ends on August 31 of each year. (9(c) of the Reply to the Notice of Appeal).
+4. During the period in issue, Genex’s authorized capital stock consisted in of the following categories of shares:
+(i) Class A: voting and participating;
+(ii) Class B: voting and participating;
+(iii) Class C: non-voting, non-participating, non-cumulative dividend of 4%, non-preferential, callable and puttable at the amount of capital paid;
+(iv) Class D: non-voting, non-participating, non-cumulative dividend. (9(d) of the Reply to the Notice of Appeal).
+5. Before March 3, 1999, Genex’s issued and paid capital stock was distributed as follows:
+(i) Appellant: 45,000 class A shares;
+(ii) Télémédia Inc.: 10,000 class A shares;
+(iii) Télémédia Inc.: 5,000 class B shares;
+(iv) Octave Inc.: 15,000 class B shares;
+(v) Télémédia Inc.: 500,000 class C shares;
+(vi) Appellant: 1 class D share. (9(e) of the Reply to the Notice of except for (i)).
+6. On March 3, 1999, the following shares of Genex capital stock were issued in favour of the following shareholders:
+(i) Appellant: 6,000 class B shares;
+(ii) Télémédia Inc.: 2,000 class B shares;
+(iii) Octave Inc.: 2,000 class B shares; (9(f) of the Reply to the Notice of Appeal).
+7. On March 3, 1999, the shareholders of Genex accepted the subscriptions of Valérie Rochette Demers and Marie‑Noël Rochette Demers for one class D share each of the capital stock of Genex and authorized the issue of these shares. (9(g) of the Reply to the Notice of Appeal).
+8. Valérie Rochette Demers was born on October 8, 1992 and Marie‑Noël Rochette Demers was born on April 14, 1996. (9(h) of the Reply to the Notice of Appeal).
+9. On March 3, 1999, Valérie Rochette Demers was 6 years old and Marie‑Noël Rochette Demers was 2 years old. (9(i) of the Reply to the Notice of Appeal).
+10. During the period in issue, Télémédia Inc. was a company not related to Genex. (9(j) (in part) of the Reply to the Notice of Appeal).
+11. During the period in issue, Octave Inc. was a company controlled by Jean Morin and this company was not related to Genex. (9(k) of the Reply to the Notice of Appeal).
+12. During the period in issue, the Appellant was sole director and chief executive officer of Genex. (9(l) of the Reply to the Notice of Appeal).
+13. The Appellant is the father of Valérie Rochette Demers and Marie‑Noël Rochette Demers. (9(m) of the Reply to the Notice of Appeal).
+14. During Genex’s fiscal year from September 1, 1997 to August 31, 1998, the Appellant received advances of $36,000 $ ($3,000 per month) from Genex and a dividend of $12,000 on his class D share of Genex’s capital stock. (9(u) of the Reply to the Notice of Appeal).
+15. During Genex’s fiscal year from September 1, 1998 to August 31, 1999, the Appellant received $36,000 in advances ($3,000 per month) and Genex declared a total dividend of $36,000 on class D shares of its capital stock in circulation. (9(x) of the Reply to the Notice of Appeal).
+16. The dividend mentioned in point 15 of this paragraph was declared on June 28, 1999, and paid on August 23, 1999. (9(y) of the Reply to the Notice of Appeal).
+17. In payment of the dividend of $36,000 mentioned in point 15 of this paragraph, Genex issued:
+(i) a $12,000 reduction of the advances account;
+(ii) a cheque for $12,000 made out to Valérie Rochette Demers; and
+(iii) a cheque for $12,000 made out to Marie‑Noël Rochette Demers. (9(z) of the Reply to the Notice of Appeal).
+18. On December 31, 1999, the Appellant transferred the class D share that he held in the capital stock of Genex to 3689735 Canada Inc. (9(dd) of the Reply to the Notice of Appeal).
+19. During the period from September 1, 1999 to December 31, 1999, the Appellant received $12,000 in advances ($3,000 per month) and Genex declared, on December 31, 1999, a total dividend of $36,000 on the class D shares of its capital stock in circulation. (9(ee) of the Reply to the Notice of Appeal).
+20. In payment of the dividend of $36,000 mentioned in point 19 of this paragraph, Genex issued:
+(i) a cheque for $12,000 made out to 3689735 Canada Inc.;
+(ii) a cheque for $12,000 made out to Valérie Rochette Demers; and
+(iii) a cheque for $12,000 made out to Marie‑Noël Rochette Demers. (9(ff) of the Reply to the Notice of Appeal).
+21. The unanimous agreement of August 31, 1997 between Genex shareholders set out at clause 4.1.8 that the expression “Demers’ compensation,” for the purposes of said agreement, which also provided that any increase in the Appellant’s compensation had to be approved by the shareholders of Genex, [TRANSLATION] “. . . includes any salary, bonus or other form of benefit (including personal use of contra advertising, at the value of said contra advertising) paid in favour of Mr. Demers or any person who is related or connected to him within the meaning of Canadian tax legislation, including dividends on class D shares, adjusted for the purposes of the tax laws applicable to companies.”
+[5] On August 21, 1997, the Appellant signed with Genex a first one-year agreement concerning his compensation as chief executive officer. The agreement covered the period from September 1, 1997 to August 31, 1998 (Exhibit I‑1). Clause 3 set out the following:
+[TRANSLATION]
+3. In return for services provided hereunder, CHOI will pay the chief executive compensation as follows
+Form of compensation
+Annual amount
+a. Base salary
+b. Apartment
+c. Automobile
+d. Automobiles expenses
+e. Dividends on class D shares
+f. Professional fees
+$ 60,000
+10,000
+8,000
+4,000
+36,000
+12,000
+$ 130,000
+a. Payable according to the practices in use at CHOI.
+b. In accordance with the lease currently in effect with CHOI.
+c. In the form of an exchange contract.
+d. Upon production of supporting documentation.
+e. Declared on August 31, 1998, with an advance of $3,000 on the 1st of each month.
+f. Payable to Rochette Demers c.a. $1,000 on the 1st of each month.
+[6] On June 29, 1998, the Appellant signed a second one-year agreement with Genex concerning his compensation as chief executive officer. The agreement covered the period from September 1, 1998 to August 31, 1999 (Exhibit I‑2). clause 3 provided as follows:
+3. In return for services provided hereunder, CHOI will pay the chief executive compensation as follows
+Form of compensation
+Annual amount
+a. Base salary
+b. Apartment
+c. Automobile
+d. Automobiles expenses
+e. Dividends on class D shares
+f. Professional fees
+g. Personal use of c/a
+$ 60,000
+10,000
+12,000
+4,000
+36,000
+18,000
+10,000
+$150,000
+a. Payable according to the practices in use at Genex.
+b. In accordance with the lease currently in effect.
+c. In the form of a taxable allowance, payable according to the practices in use at Genex.
+d. Upon production of supporting documentation.
+e. Declared as of August 31, 1999, with an advance of $3,000 on the 1st of each month, a residual amount of $24,000 remains to be declared as of August 31, 1998, and will be carried forward year after year.
+f. Payable to Rochette Demers c.a. $1,500 on the first of each month.
+g. Depending on the station’s cash flow.
+[7] A third agreement, again concerning the Appellant’s compensation as chief executive officer of Genex, was signed on June 28, 1999, for the period from September 1, 1999 to August 31, 2000 (Exhibit I‑3). Clause 3 provided as follows:
+3. In return for services provided hereunder, CHOI will pay the chief executive compensation as follows
+Form of compensation
+Annual amount
+a. Base salary
+b. Automobile
+c. Automobile expenses
+d. Dividends on class D shares
+e. Professional fees
+f. Personal use of c/a
+$ 60,000
+6,000
+4,000
+36,000
+18,000
+10,000
+$ 134,000
+a. Payable according to the practices in use at Genex.
+b. In the form of a taxable allowance, payable according to the practices in use at Genex.
+c. Upon production of supporting documentation.
+d. Partially declared on December 31, 1999, with an advance of $3,000 on the 1st of each month, a residual amount of $24,000 remains to be declared as of August 31, 2000, and will be carried forward year after year.
+e. Payable to Rochette Demers c.a. $1,500 on the 1st of each month.
+f. Depending on the station’s cash flow.
+[8] In July 1996, Genex acquired the assets of the radio station CHOI FM from Télémédia. Approval of the transaction by the Canadian Radio-television and Telecommunications Commission was delayed until September 1997. The Appellant, previously vice-president of Télémédia, owned 60% of the voting and participating (class A) shares of the capital stock of Genex and one non-voting class D share. Two other shareholders, Télémédia and Les Entreprises Octave Inc. (“Octave”), shared 40% of the voting and participating (class A and B) shares of Genex’s capital stock. Another shareholder, Les Entreprises de Radiodiffusion de la Capitale Inc., owned non-voting and non-participating preferred (class C) shares of Genex’s capital stock.
+[9] On August 31, 1997 the shareholders signed a unanimous shareholder agreement taking away from the directors the powers vested in them under the law, reserving the exclusive exercise of these powers to holders of ordinary (class A and B) shares (Exhibit I‑4, clauses 3.2 and 4). These powers that the ordinary shareholders intended to exercise themselves included the power to issue shares or other securities of Genex and the power to effect any increase in the Appellant’s compensation as chief executive officer of Genex (Exhibit I‑4, clauses 4.1.5 and 4.1.8). The Appellant’s compensation was also fixed at a minimum of $150,000 and a maximum of $500,000 per year (Exhibit I‑4, clause 4.5).
+[10] In his testimony, the Appellant explained that the different agreements concerning his compensation represented a sort of budget, a global envelope that the ordinary shareholders could control thanks to the unanimous shareholder agreement (Exhibit I‑4). However, these are indeed agreements providing the terms of the Appellant’s compensation. It cannot be denied that all of the shareholders holding voting shares unanimously agreed to pay dividends on class D shares and that advances of $3,000 per month payable to the Appellant were provided to reflect these dividends, which were to be declared and paid later.
+[11] On March 3, 1999, class D shares were issued, one each, in favour of each of the Appellant’s minor daughters, for the sum of $1 each. According to Marie‑Claude Poitras, tax avoidance officer from the Canada Revenue Agency, no payment was made by the Appellant’s daughters or on their behalf and a simple accounting entry for $2 was made in Genex’s travel expense account. This fact was not contested by the Appellant, who simply affirmed that it was possible, as he did not check everything.
+[12] On the same day, an agreement was made between Genex and all of its shareholders, including the Appellant’s two daughters represented by the Appellant and his spouse as legal tutors (Exhibit I‑5). According to this agreement, the legal tutors agreed that the Appellant would exercise alone, on behalf of their daughters, all rights associated with the shares they held. Moreover, the Appellant’s two daughters offered to sell him their class D shares on December 31, 1999, for an amount equal to the subscription price. This offer was accepted by the Appellant in the same agreement.
+[13] In his testimony, the Appellant admitted that this issue of one class D share each to his daughters was done with a view to reducing his tax burden to a minimum.
+[14] On August 23, 1999, a dividend of $36,000 was paid on the three class D shares of Genex’s capital stock, i.e. a dividend of $12,000 per share. Cheques for $12,000 were issued in the names of each of the Appellant’s daughters and deposited in their accounts. The amount was then transferred to the Appellant’s bank account and was used to pay back the advances received from Genex (Exhibits I‑6 and I‑7). Moreover, each of the Appellant’s daughters, who were represented by their mother as legal tutor, granted the Appellant interest-free loans of $12,000 that the Appellant could pay back through contributions to their registered education savings plans (Exhibits I‑8 and I‑9). The Appellant stated that he had indeed made contributions to the registered education savings plans of each of his daughters. His contribution, according to what he indicated at the audit, came to $15,000. No document has been offered to prove this fact.
+[15] On December 31, 1999, another dividend of $36,000 was paid on class D shares of Genex’s capital stock. As the Appellant had transferred his class D share to 3689735 Canada Inc. on the same day, this company received a dividend of $12,000. The Appellant’s two daughters also received dividends of $12,000 each on their class D shares of the capital stock of Genex. Just like in August 1999, $12,000 was then transferred from each of their bank accounts to the Appellant’s bank account, then used to reimburse the advances received from Genex (Exhibits I‑6 and I‑7). According to the Appellant, he was also granted loans, corresponding to the amounts transferred, by his daughters, who were represented by their mother as legal tutor. No documentation has been provided to this effect.
+[16] On January 1, 2000, each of the Appellant’s daughters allegedly transferred their class D share of Genex’s capital stock to 3689735 Canada Inc., a company controlled by the Appellant (Exhibit I‑10).
+[17] Exhibit I‑12 gives the breakdown of Genex’s advances to the Appellant over the years. On August 30, 1998, after paying a dividend of $12,000 on the only class D share issued at that time, held by the Appellant, the advances of $36,000 paid by Genex to the Appellant were reduced to $24,000. From September 1, 1998 to August 31, 1999, additional advances were paid to him ($3,000 x 12 months). The total of $60,000 was reduced by $36,000 by the dividend paid on August 23, 1999, of which $24,000 was paid on the two shares issued in the names of the Appellant’s daughters. The balance of $24,000 plus additional advances of $12,000 given from September 1 to December 31, 1999 ($3,000 x 4 months) was reimbursed by the dividend of $36,000 paid on December 31, 1999, of which $24,000 was paid on the two shares issued in the names of the Appellant’s daughters.
+[18] Counsel for the Appellant submitted that the agreements signed between him and Genex were drafted by the Appellant himself, who was not an expert in that area, that these agreements did not necessarily reflect the intention of the parties, that they were not mandatory and that the objective sought was simply to set out a budget allowance for his compensation. According to him, even if the term “compensation” was used to include dividends on class D shares of Genex capital stock, it is a description that is not necessarily accurate since a dividend is not paid as compensation, but simply as the result of owning shares.
+[19] According to counsel for the Appellant, the agreements provided for payment of dividends on class D shares and not only on the share of this class held by the Appellant. According to him, it had been provided that other class D shares of the capital stock of Genex could be issued. Counsel for the Appellant submitted that, despite the advances, the Appellant had no right to dividends that had not yet been declared, that his daughters had become fully entitled shareholders and that, as such, they were entitled to the dividends on the class D shares of the capital stock of Genex that each of them owned.
+[20] Counsel for the Appellant argued that income splitting through dividends was a legitimate and recognized tax planning technique until the Act was amended by the addition of section 120.4, applicable from 2000 onward.
+[21] In support of his arguments, Counsel for the Appellant cited Neuman v. M.N.R., [1998] 1 S.C.R. 770, a decision of the Supreme Court. This Court was referred to Stubart Investments Ltd. v. The Queen, [1984] 1 S.R.C. 536, Shell Canada Ltd v. Canada, [1999] 3 S.R.C. 622 and Singleton v. Canada, [2001] 2 S.R.C. 1046, also decisions of the Supreme Court.
+[22] Counsel for the Respondent argued first of all that the issue of shares to the Appellant’s daughters and the repurchase of the shares by the Appellant in a contract signed on the same day was a sham and that there had never been any intention for the Appellant’s daughters to become and remain true shareholders of Genex. First, he pointed out that the shares were never paid for, as is required by subsection 25(3) of the Canadian Business Corporations Act, and that their cost was simply considered a Genex expense. Furthermore, he submitted that their value exceeded $1 when they were subscribed, considering the dividends they carried. In short, counsel for the Respondent argued that only the Appellant was truly a class D shareholder in the capital stock of Genex, that the dividends were payable to him on a monthly basis in the form of advances and that the dividends on the class D shares issued in the names of the Appellant’s daughters ended up being used to reimburse advances received by the Appellant from Genex. He also argued that the notes signed by the Appellant in favour of his daughters carried no interest, which was unusual, and that the girls had never been reimbursed, despite the fact that the Appellant stated that he had made contributions to their registered education savings plans.
+[23] Another argument put forward by counsel for the Respondent is that the Appellant’s daughters were only used as nominees by the Appellant, who put himself in a situation of conflict of interest by abusing, in a way, his position as tutor for the purposes of issuing shares in his daughters’ names, buying their shares in his name, transferring the amount of the dividends on their shares to his personal bank account and issuing notes to them, which were never honoured. According to counsel for the Respondent, the different transactions completed by the Appellant were in violation of the provisions of the Civil Code of Quebec concerning conflict of interest in the administration of the property of others or the rules on presumed sound investments, to which the administrators of such property are bound to observe. In support of his arguments, he invoked articles 208, 1304, 1305, 1310, 1312, 1314, 1315 and 1339 of the Civil Code of Quebec.
+[24] Furthermore, counsel for the Respondent submitted that the Appellant, as chief executive officer of Genex, was entitled to a certain compensation defined in the unanimous shareholder agreement, including, according to the terms of the agreements with Genex, $36,000 per year in dividends paid monthly in advances of $3,000. In August 1998, an amount of $24,000 in advances had not yet been paid in dividends and its payment was simply carried forward to the following year (Exhibit I‑2). According to counsel, this fact demonstrates that the Appellant had a pre-existing right to this amount, which was part of his compensation. Counsel for the Respondent therefore argued that the Appellant, by allowing shares to be issued to his daughters, actually transferred to them an employment income to which the Appellant had a pre-existing right under the agreements with Genex. According to him the word "transfer" received a very broad interpretation and could include the issue of shares. Therefore, since the Appellant transferred an employment income to which he was entitled under the agreements with Genex, subsection 56(4) of the Act should apply and the Appellant should be taxed on the taxable amount of $48,000 in dividends transferred to his daughters.
+[25] In support of his arguments, counsel for the Respondent referred to the following decisions:
+ Transport Desgagné Inc. v. M.N.R., [1990] T.C.J. No. 812 (QL);
+ Calce Holdings Ltd. v. Canada, [2005] T.C.J. No. 265 (QL);
+ Addison & Leyen Ltd. v. Canada, [2006] F.C.J. No. 489 (QL);
+ Canada v. Kieboom, [1992] F.C.J. No. 605 (QL);
+ Fasken Estate v. M.N.R., 49 DTC 491;
+ No. 727 v. M.N.R., 61 DTC 52.
+[26] The shareholders, by their unanimous shareholder agreement, signed on August 31, 1997, took away from the Appellant, sole director of Genex, all of the powers normally vested in him under the law, reserving them exclusively to themselves (Exhibit I‑4, clause 3.2). The shareholders holding so-called “ordinary” shares agreed that what is referred to in clause 4.1.8. of the agreement as any increase in “Demers’ compensation” be subject to their approval. This expression is defined as follows:
+[TRANSLATION]
+. . . “Demers’ compensation” includes any, salary, bonus or other form of benefit (including personal use of contra advertising, at the value of said contra advertising) paid in favour of Mr. Demers or any person who is related or connected to him under the meaning of Canadian tax legislation, including dividends on class D shares, adjusted for the purposes of the tax laws applicable to companies.
+[27] Through three yearly agreements, of which the last one, dated June 28, 1999, was for the period from September 1, 1999 to August 31, 2000 (Exhibit I‑3), the shareholders holding voting shares of Genex’s capital stock set what they called the Appellant’s “compensation” as chief executive officer for the year. Regardless of the word used, it was clearly a matter of determining the maximum amount that the Appellant could receive, whether in straight compensation or in benefits, whatever they may be, from the company. Among these benefits, these shareholders agreed to pay dividends on class D shares, but paid in advances of $3,000 per month to the Appellant until the dividends were actually declared. The Appellant received these advances each month and reimbursed them using the dividends paid on August 23 and December 31, 1999, on the three class D shares issued at the time, including one share issued to each to his two minor daughters on March 3, 1999. On December 31, 1999, the Appellant and his spouse, acting as legal tutors of the children, had the shares issued in the children’s names, and the children offered to sell them, on the same day, to the Appellant, who accepted to purchase them. Obviously the purpose of the whole transaction was for the children to receive two thirds of the dividends that would be paid on class D shares in 1999 and to resell them immediately after. I believe this operation is a sham. Moreover, the evidence shows that the shares issued to the Appellant’s minor daughters were never really paid for and that there was no intention that they would in fact become or remain real shareholders of Genex. Simply adding $2 for the purchase of shares as an expense in the “travel” account to balance the books demonstrates that no real contribution was made by the Appellant’s daughters for the purchase of their class D shares of Genex’s capital stock. This is in violation of section 25(3) of the Canadian Business Corporations Act, and it can be concluded that the issue of one class D share of Genex’s capital stock to each of the Appellant’s daughters was not done in a valid manner. On that question, the facts of this case are clearly distinct from those in Neuman v. M.N.R., supra, in which Iacobucci J. pointed out in paragraph 60 that he assumed that “proper consideration was given for the shares when issued.” Even if such tax planning is allowed, it still has to be demonstrated that all of the legal conditions essential to its validity have been met; that has not been done in this case.
+[28] I will add that the artificial aspect of the entire transaction is also reflected in the notes signed by the Appellant — one for each of his daughters — regarding the amounts of $12,000 transferred to his own bank account after the dividends were paid to them on August 23, 1999 (Exhibits I‑8 and I‑9). That the notes carried no interest is one thing. But that the Appellant planned to reimburse the sums allegedly owed to his daughters via contributions to their registered education savings plans seems to me entirely abusive and artificial. That is to claim to reimburse a debt to the children by using money that is supposed to belong to them to make contributions to their registered education savings plans. In addition, the Appellant never offered any proof of such contributions, nor did he demonstrate that notes had also been signed in relation to the dividends paid on December 31, 1999.
+[29] Even if it were possible to hold that the issue of category D shares to the Appellant’s daughters was valid, I find that the Appellant and his spouse used their position as legal tutors to use their minor daughters as nominees to issue to each of them a class D share of Genex’s capital stock so that they could receive dividends on these shares in place of the Appellant. Through a yearly agreement, the shareholders with voting shares, acting under the unanimous agreement, set at $36,000 per year the dividends that would be paid on class D shares and decided that advances of $3,000 would be paid to Appellant in the meantime, which was done. Indeed, both the unanimous agreement and the yearly agreements with the Appellant describe the dividends on class D shares as part of the Appellant’s “compensation” for his services as chief executive officer. Even if this description is erroneous in law and dividends are related essentially to ownership of shares (see Neuman v. M.N.R., supra, paragraphs 57 et seq.), the holders of voting shares had nonetheless agreed that the sums in question would be paid to him in advances of $3,000 per month. In this context, the decision to have one class D share each issued to each of the Appellant’s minor daughters to pay them part of the same sums in the form of dividends appears artificial, especially given that no real contribution was provided to Genex for the issue of these shares, as I mentioned above. I find that, as legal tutors, the Appellant and his spouse simply used their daughters as nominees to receive sums that were clearly intended for the Appellant and which he should have included in his income.
+[30] I find that this is sufficient to rule on the appeal, which is dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada, the 17th day of October 2006.
+“P. R. Dussault”
+Dussault J.
+Translation certified true
+on this 29th day of January 2008
+François Brunet, Revisor
+CITATION: 2006TCC504
+COURT FILE NUMBER: 2004-3701(IT)G
+STYLE OF CAUSE: Patrice Demers v. Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: April 26, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre R. Dussault
+DATE OF JUDGMENT: October 17, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Éric Lewis
+Counsel for the Respondent:
+Benoit Mandeville
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Éric Lewis
+Firm: René Dion, Avocats
+City: Québec, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

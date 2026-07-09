@@ -1,0 +1,119 @@
+---
+title: "3040585 Canada Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26618/index.do"
+last_modified: "2005-06-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 371"
+citation2: ""
+neutral_citation: "2005 CCI 371"
+decision_date: "2005-06-09"
+language: "fr"
+item_id: "26618"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3626
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:50:27.658000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "679a84dbce9a1fa7c89194c1fee106b7f16a56b376d56c96d9459105655f68f9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 3040585 Canada Inc. v. The Queen
+
+- Citation: 2005 CCI 371
+- Decision date: 2005-06-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3626, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+3040585 Canada Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-09
+Référence neutre
+2005 CCI 371
+Numéro de dossier
+2004-3107(GST)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2005CCI371
+Date : 20050609
+Dossier : 2004-3107(GST)I
+ENTRE :
+3040585 CANADA INC.,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience
+à Ottawa, Canada le 29 avril 2005)
+Le juge Rip
+[1] M. Gallagher, je vais devoir rejeter votre appel. Il y a plusieurs raisons pour cela. D'abord, il y a la confusion soulevée par les documents que vous avez présentés à la Cour, par exemple.
+[2] Il y a certains documents qui, si je peux m'y référer, ont été fournis par vous et si je les compare, je trouve des différences importantes.
+[3] Par exemple, si je regarde les pièces R-1 et A-2, deux documents qui viennent de vous. L'un est adressé à un étranger. La pièce A-2 serait un document rédigé par une société connue sous le nom de Prospective Group Canada Limited et non 3040585 Canada Inc. Il apparaît que la société Prospective Group Canada Limited n'existe pas.
+[4] La société 3040585 Canada Inc. exploite une entreprise, si j'ai bien compris, sous le nom de Prospective Group Canada.
+[5] À la pièce A-2, par exemple, j'ai relevé des différences que je trouve particulièrement étonnantes - il y a des dépenses d'ADP, les services informatiques sont de 1 346,80 $ et à la pièceR-1, ils ne sont que de 180 $. Pour les logiciels d'ADP à la pièce A-2, le montant est de 5 309,72 $, alors qu'à la pièce R-1 il est de 989,29 $. Ce sont des exemples. Je ne veux pas passer le tout en revue. Ce n'est qu'un exemple de la difficulté qu'un vérificateur, quel qu'il soit, aurait eue.
+[6] Une autre chose que je veux dire, c'est qu'il s'agit peut-être d'une occasion pour vous de faire une distinction entre ce que vos accords disent et ce que vos factures disent.
+[7] Même si je regarde la pièce A-4, votre facture encore une fois mentionne la société Prospective Group Canada Ltd., qui n'est pas une entité. Ce n'est pas une personne.
+[8] Votre accord de consultation ne mentionne même pas le nom de la société. Dans un contrat passé par une société, le nom de la société devrait y figurer.
+[9] Ainsi, lorsqu'on essaie de faire une vérification, il est très difficile pour le Ministère, pour le « fonctionnaire » , pour les bureaucrates de voir ce qu'il en est exactement.
+[10] Vous savez, au début du procès, j'ai eu beaucoup de difficulté à cerner les parties au contrat, et vous avez parfois mis ma patience à l'épreuve.
+[11] Vous devez indiquer dans chaque contrat le nom de la société, dans vos documents, le nom de la société qui exploite une entreprise. Quand vous voyez un camion dans la rue, par exemple, il peut y avoir une enseigne qui dit « 1234 Canada limitée » ou une barre oblique et « Livraison par camion » . Il n'y a pas de « ltée » dans le nom de l'entreprise qui est exploitée à moins que le nom de l'entreprise exploitée corresponde au nom de la société.
+[12]Je ne doute pas que votre compagnie, la 3040585 Canada Inc., exploitait une entreprise quelconque. C'était votre intention que d'exploiter une entreprise par l'entremise de cette société.
+[13] Mais ce que je ne peux pas déterminer d'après les piètres registres tenus, à quels crédits de taxe sur les intrants cette compagnie a droit.
+[14]Je ne veux pas revoir tous les cas de Me Danis et les divers articles de la Loi sur la taxe d'accise, la partie IX de la Loi sur la taxe d'accise, auxquels Me Danis s'est référé. Mais il y a des éléments qui sont requis.
+[15]Le juge en chef Bowman a dit dans l'arrêt Helsi Construction Management v. The Queen, qui se trouve à l'onglet 5. Au paragraphe 13, il dit [TRADUCTION] « malheureusement » , il dit [TRADUCTION] « il faut respecter les règles, et je ne puis être d'aucun secours. Je ne peux rien faire pour aider le contribuable à cet égard » . Le problème, dit-il, dans une certaine mesure [TRADUCTION] « résulte de l'appelant lui-même » . Et c'est dans cette situation que je me trouve. Bon nombre des problèmes dont nous avons entendu parler aujourd'hui sont dans vos jambes.
+[16]Maintenant, j'ai observé le témoin de l'appelant et de l'intimée, Mademoiselle Després. J'ai trouvé qu'elle était un témoin crédible. Je ne vous trouve pas non crédible. Je pense qu'au fil du temps, cette affaire vous a sapé. Mais en même temps, je pense que Revenu Québec a essayé de faire quelque chose avec ces chiffres, mais il est très difficile quand les documents lui sont envoyés alors qu'ils ne comportent pas les bons noms. Vous ne pouvez pas vous attendre à ce que des étrangers essaient de comprendre ces chiffres. Il faut que vous les aidiez. Il faut que vous mettiez de l'ordre dans tout ça.
+[17]D'après ce que j'ai vu ici aujourd'hui, les registres n'étaient pas tenus de la manière dont l'exige la loi. Il faut que vous vous aidiez si vous voulez obtenir ces crédits; il faut que vous gardiez un certain ordre dans vos affaires.
+[18]Malheureusement, monsieur, je vais devoir rejeter votre appel.
+Signé à Ottawa, Canada, ce 9e jour de juin 2005.
+« Gerald J. Rip »
+Le juge Rip
+Traduction certifiée conforme
+ce 15e jour de mai 2006.
+Joanne Robert, traductrice
+RÉFÉRENCE : 2005CCI371
+NO DU DOSSIER DE LACOUR : 2004-3107(GST)I
+INTITULÉ DE LA CAUSE : 3040585 Canada Inc. c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Ottawa (Ontario)
+DATE DE L'AUDIENCE : Le 29 avril 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge Gerald J. Rip
+DATE DES MOTIFS : Le 9 juin 2005
+COMPARUTIONS :
+Avocat de l'appelant :
+Me K. Robert Gallagher
+Avocat de l'intimée :
+Me Gérald Danis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Me K. Robert Gallagher
+Étude :
+Pour l'intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

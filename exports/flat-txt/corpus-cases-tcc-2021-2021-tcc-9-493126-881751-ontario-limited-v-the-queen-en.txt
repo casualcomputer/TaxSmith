@@ -1,0 +1,287 @@
+Title: 881751 Ontario Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/493126/index.do
+Corpus path: corpus/cases/tcc/2021/2021-tcc-9-493126-881751-ontario-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2021-02-17
+
+# 881751 Ontario Limited v. The Queen
+
+- Citation: 2021 TCC 9
+- Decision date: 2021-02-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4634, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+881751 Ontario Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-02-17
+Neutral citation
+2021 TCC 9
+File numbers
+2017-4363(IT)G, 2018-931(IT)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-4363(IT)G
+BETWEEN:
+881751 ONTARIO LIMITED
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion in Writing
+Before: The Honourable Justice Johanne D'Auray
+Parties:
+Counsel for the Appellants:
+Gregory J. Ducharme
+Counsel for the Respondent:
+Charlotte Deslauriers
+Tanis Halpape
+ORDER
+UPON MOTION of the respondent for:
+An Order striking out certain paragraphs of the Notice of Appeal pursuant to Rule 53 of the Rules, namely:
+a) in the heading “Material Facts – Non-Charter Issues”, the words “–Non-Charter Issues”;
+b) under the heading “Material Facts – Charter Issues”, paragraphs 13, 14, 15, 16, 17, 18 and 19;
+c) the heading “Material Facts – Charter Issues”;
+d) under the heading “Issues to be Decided”, paragraphs 4, 5, 6, 7, and 8;
+e) under the heading “Statutory Provisions”, paragraph 4;
+f) under the heading “Reasons”, paragraph 5;
+g) under the heading “Relief Sought”, paragraph 4 (collectively, the paragraphs of the Notice of Appeal cited above are referred to below as the “impugned paragraphs”); and
+the respondent’s costs of this Motion.
+UPON READING the materials filed by the appellants’ counsel and the respondent’s counsel;
+THIS COURT ORDERS that:
+The respondent is granted leave to file the Motion to strike parts of the Notice of Appeal of 881751 Ontario Limited and,
+The respondent’s Motion to strike parts of the Notice of Appeal of 881751 Ontario Limited is allowed on the following bases:
+The following paragraphs of the Notice of Appeal of 881751 Ontario Limited shall be struck as follows:
+a) under the heading “Material Facts - Charter Issues”, paragraphs 13, 14, 15 and 19 are struck;
+b) under the heading “Issues to be Decided”, paragraphs 4, 5, 6, 7 and 8 are struck;
+c) under the heading “Statutory Provisions”, except for the reference to section 8 and subsection 24(1) of the Charter, paragraph 4 is struck;
+d) under the heading “Reasons”, paragraph 5 is struck; and
+e) under the heading “Relief Sought”, paragraph 4 is struck.
+3. Costs in the cause.
+Signed at Ottawa, Canada, this 17th day of February 2021.
+“Johanne D’Auray”
+D'Auray J.
+Docket: 2018-931(IT)G
+BETWEEN:
+DENIS ROY
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion in Writing
+Before: The Honourable Justice Johanne D'Auray
+Parties:
+Counsel for the Appellants:
+Gregory J. Ducharme
+Counsel for the Respondent:
+Charlotte Deslauriers
+Tanis Halpape
+ORDER
+UPON MOTION of the respondent for:
+an Order striking out certain paragraphs of the Notice of Appeal pursuant to Rule 53 of the Rules, namely:
+a) in the heading “Material Facts – Non-Charter Issues”, the words “–Non-Charter Issues”;
+b) under the heading “Material Facts – Charter Issues”, paragraphs 12, 13, 14, 15, 16, 17 and 18;
+c) the heading “Material Facts – Charter Issues”;
+d) under the heading “Issues to be Decided”, paragraphs 4, 5, 6, 7, and 8;
+e) under the heading “Statutory Provisions”, paragraph 4;
+f) under the heading “Reasons”, paragraph 4;
+g) under the heading “Relief Sought”, paragraph 4 (collectively, the paragraphs of the Notice of Appeal cited above are referred to below as the “impugned paragraphs”); and
+the respondent’s costs of this Motion.
+UPON READING the materials filed by the appellants’ counsel and the respondent’s counsel;
+THIS COURT ORDERS that:
+1. The respondent is granted leave to file the Motion to strike parts of the Notice of Appeal of Denis Roy and;
+2. The respondent’s Motion to strike parts of the Notice of Appeal of Denis Roy is allowed on the following bases:
+The following paragraphs of the Notice of Appeal of Denis Roy shall be struck as follows:
+a) under the heading “Material Facts - Charter Issues”, paragraphs 12, 13, 14 and 18 are struck;
+b) under the heading “Issues to be Decided”, paragraphs 4, 5, 6, 7 and 8 are struck;
+c) under the heading “Statutory Provisions”, except for the reference to section 8 and subsection 24(1) of the Charter, paragraph 4 is struck;
+d) under the heading “Reasons”, paragraph 4 is struck; and
+e) under the heading “Relief Sought”, paragraph 4 is struck.
+3. Costs in the cause.
+Signed at Ottawa, Canada, this 17th day of February 2021.
+“Johanne D’Auray”
+D'Auray J.
+Docket: 2017-4363(IT)G
+BETWEEN:
+881751 ONTARIO LIMITED
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2018-931(IT)G
+AND BETWEEN:
+DENIS ROY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion in Writing
+Before: The Honourable Justice Johanne D'Auray
+Parties:
+Counsel for the Appellants:
+Gregory J. Ducharme
+Counsel for the Respondent:
+Charlotte Deslauriers
+Tanis Halpape
+ORDER
+UPON MOTION of the appellants for:
+An abridgment of the time for service of this Notice of Motion as required by Rule 67 of the Rules.
+An Order that this Notice of Motion be heard in conjunction with the Respondent’s Motion dated November 19, 2019, and in writing.
+In the event that, with respect to the Respondent’s Motion dated November 19, 2019, seeking an Order striking out certain paragraphs of the Notice of Appeal, the Court finds that the Appellants’ Notices of Appeal are lacking particularity, an Order granting leave to the Appellants to amend their Notices of Appeal pursuant to Rule 54 of the Rules.
+UPON READING the materials filed by the appellants’ counsel and the respondent’s counsel;
+THIS COURT ORDERS:
+That the appellants are granted leave to amend their Notices of Appeal; and
+Costs in the cause.
+Signed at Ottawa, Canada, this 17th day of February 2021.
+“Johanne D’Auray”
+D'Auray J.
+Citation: 2021 TCC 9
+Date: 20210217
+Docket: 2017-4363(IT)G
+BETWEEN:
+881751 ONTARIO LIMITED
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2018-931(IT)G
+AND BETWEEN:
+DENIS ROY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+D’Auray J.
+[1] The appellants and the respondent have each filed Notices of Motion in these two related appeals.
+[2] By letter dated December 21, 2020, the parties asked, pursuant to section 69 of the Tax Court of Canada Rules (General Procedure), ( the “Rules”), that their respective Motions be disposed of upon consideration of their written representations and without the appearance of the parties.
+[3] The respondent has filed two Motions, one in respect of the appeal of 881751 Ontario Limited (“881751”) and the other with respect to the appeal of Mr. Denis Roy. The respondent filed a single set of written submissions addressing both Motions. In these Reasons for Order, I will refer to 881751 and Denis Roy collectively as “the appellants”.
+[4] The appellants, who are represented by the same counsel, filed a single Motion and written submissions applicable to both appeals.
+[5] The respondent’s Motions are to strike parts of the Notices of Appeal of the appellants pursuant to section 53 of the Rules. The respondent also seeks leave under section 8 of the Rules to file her Motions, since the irregularities in the pleadings which she alleges should have been attacked by the respondent before she filed her Lists of Documents and completed the examinations for discovery of the appellants.
+[6] In their Motion, the appellants seek leave to amend their Notices of Appeals in the event that I decide to strike any allegations in their Notices of Appeal. The appellants also request that I address the respondent’s Motions and theirs at the same time.
+[7] I will, as suggested by the appellants, address the respondent’s and the appellants’ Motions in one set of reasons. However, I will issue separate Orders.
+[8] The first issue is whether the respondent should be given leave to file her Motions to strike. Section 53 of the Rules does not expressly state when a Motion to strike should be made. However, guidance is provided by section 8 of the Rules which tells us when such a Motion should not be filed absent leave of the Court. Section 8 reads as follows:
+8. A motion to attack a proceeding or a step, document or direction in a proceeding for irregularity shall not be made,
+(a) after the expiry of a reasonable time after the moving party knows or ought reasonably to have known of the irregularity, or
+(b) if the moving party has taken any further step in the proceeding after obtaining knowledge of the irregularity,
+except with leave of the Court.
+[9] In both appeals, the respondent has taken steps after the exchange of the pleadings. Lists of documents have been exchanged and the examinations for discovery completed in each. Therefore, the respondent requires leave under section 8 of the Rules to file her Motions.
+[10] The respondent argues that leave should be granted since the Notices of Appeal contain allegations which are beyond the jurisdiction of the Court to entertain and that some of the allegations do not contain sufficient material facts that, if proven, could establish any Canadian Charter of Rights and Freedoms (“Charter”) breach.
+[11] In their written submissions, the appellants neither oppose nor consent to the granting of leave. Their written submissions are silent on this point.
+[12] The respondent is not attacking mere irregularities but the lack of the jurisdiction of the Court to entertain some of the allegations and the non‑application of the Charter in the context of income tax assessments. These are substantial attacks on the appellants’ pleadings that the Court has to address. In light of this, I am of the view that the respondent’s Motions to strike should proceed.
+[13] Authority to strike all or part of a pleading is found in section 53 of the Rules. It reads as follows:
+53(1) The Court may, on its own initiative or on application by a party, strike out or expunge all or part of a pleading or other document with or without leave to amend, on the ground that the pleading or other document
+(a) may prejudice or delay the fair hearing of the appeal;
+(b) is scandalous, frivolous or vexatious;
+(c) is an abuse of the process of the Court; or
+(d) discloses no reasonable grounds for appeal or opposing the appeal.
+(2) No evidence is admissible on an application under paragraph (1)(d).
+(3) On application by the respondent, the Court may quash an appeal if
+(a) the Court has no jurisdiction over the subject matter of the appeal;
+(b) a condition precedent to instituting an appeal has not been met; or
+(c) the appellant is without legal capacity to commence or continue the proceeding.
+[14] The test to strike a pleading, or a part thereof, is stringent. A pleading will only be struck if it is plain and obvious that the pleading discloses no reasonable cause of action or has no reasonable prospect of success.
+[15] In a Motion to strike, the Court does not hear any evidence and assumes the facts pleaded to be true. The Court’s approach must be generous and err on the side of permitting a novel but arguable claim to proceed to trial. It is not the job of a Motions judge to determine if an argument is worth considering or to reach a conclusion on a disputed point of statutory interpretation. Therefore, for a Motion to strike to succeed, the irregularity or the irrelevancy must be clear and apparent at first glance.
+[16] Keeping in mind the above principles, I will now determine if any of the allegations made by the appellants in their Notices of Appeal should be struck.
+I. Respondent’s Motions
+[17] To facilitate the reading of these reasons, I have attached the appellants’ Notices of Appeal as Annex 1.
+[18] The respondent’s position is that the allegations in the Notices of Appeal alleging wrongful conduct on the part of officials of the Canada Revenue Agency (“CRA”) should be struck. The respondent argues that the Court does not have the jurisdiction to vacate assessments on the basis of such allegations.
+[19] I agree with the respondent’s position. The Court’s jurisdiction is limited to the validity of the assessment. In other words, the Court can only examine whether the Minister of National Revenue correctly assessed the amount of taxes owed by a taxpayer. The conduct of the officials of the CRA is irrelevant in determining the amount of taxes owed by a taxpayer.
+[20] This point is clearly made by the Federal Court of Appeal in Main Rehabilitation Co. v R, 2004 FCA 403 [Main Rehabilitation]. Justice Sharlow there stated that the Tax Court of Canada’s role on a tax appeal is to consider the validity of the assessment and not the process by which it is established. At paragraph 8 of her reasons for judgment, Justice Sharlow explained why this Court does not have jurisdiction with respect to the actions taken by CRA officials:
+[8] This is because what is in issue in an appeal pursuant to section 169 is the validity of the assessment and not the process by which it is established (see for instance the Queen v. the Consumers' Gas Company Ltd. 87 D.T.C. 5008 (F.C.A.) at p. 5012). Put another way, the question is not whether the CCRA officials exercised their powers properly, but whether the amounts assessed can be shown to be properly owing under the Act (Ludco Enterprises Ltd. v. R. [1996] 3 C.T.C. 74 (F.C.A.) at p. 84).
+[21] The principle enunciated in Main Rehabilitation was reaffirmed by the Federal Court of Appeal in Ereiser v The Queen, 2013 FCA 20. The Court of Appeal again clearly stated that wrongful conduct by a tax official is not relevant to the determination by the Tax Court of the validity or correctness of an assessment and that allegations of wrongful conduct of CRA officials have no place in the pleadings and should be struck.
+[22] Therefore, all allegations that allege wrongful conduct on the part of officials of the CRA are struck. In the Notice of Appeal of 881751, these allegations are found at paragraphs 4-8, 13, 14, 15 and 19. In the Notice of Appeal of Denis Roy, the allegations are found at paragraphs 4-8, 12, 13, 14 and 18.
+[23] In their Notices of Appeal, the appellants submit that their Charter rights were violated. The appellants allege that the audit was carried out from the beginning in a manner which made it a de facto tax evasion investigation and that the audit was phony. The appellants argue that the officials at the CRA used documents obtained during the civil audit to further a criminal investigation. The appellants’ position is that in doing so, officials at the CRA violated their Charter rights under sections 7, 8 and 11(b) of the Charter.
+[24] The respondent argues that as pleaded in their Notices of Appeal, the Court could not render a decision because the appellants have not alleged sufficient material facts for the Court to establish that their Charter rights were violated.
+[25] In Klundert v HMQ, 2013 TCC 208 [Klundert], my colleague Pizzitelli J. faced a similar argument. He held that an appellant must make more than broad statements in his or her pleadings. The allegations in a Notice of Appeal must set out a concise statement of the material facts that an appellant is relying on in sufficient detail to allow the respondent and the Court to know and properly address each cause of action in issue. The following passages from the reasons of Pizzitelli J. in Klundert are applicable to the Motions at bar:
+[20] The Appellant must make more than broad statements inviting conjecture on the part of the Court. His pleadings must set out a concise statement of the material facts he relies on in sufficient detail to enable the Court and the Respondent to know each cause of action to properly address. Here, the Appellant has done no such thing. In Simon v Canada, 2011 FCA 6, 2011 DTC 5016, Dawson J.A. said at paragraph 18:
+18. The requirement that a pleading contain a concise statement of the material facts relied upon is a technical requirement with a precise meaning at law. Each constituent element of each cause of action must be pleaded with sufficient particularity. A narrative of what happened and when it happened is unlikely to meet the requirements of the Rules. …
+[21] This sentiment was also expressed by the Federal Court of Appeal in Merchant Law Group v Canada (Revenue Agency), 2010 FCA 184, [2010] GST 105 (FCA), where Stratas J.A., relying on that Court’s earlier decision in Vojic v Canada (MNR), 87 DTC 5384 (FCA), confirmed that where a pleading “contains a set of conclusions, but does not provide any material facts for the conclusions”, then “The bare assertion of a conclusion upon which the court is called upon to pronounce is not an allegation of a material fact”.
+[22] In Nelson v Canada (Minister of Customs and Revenue Agency), 2001 DTC 5644, Rouleau J. also stated at paragraph 15:
+15. … Generally material facts in the statement of claim must be taken as true and in determining whether a reasonable cause of action is disclosed, cannot be based on assumptions and speculations and they cannot be taken as true simply because they are bold statements unless there is substantive facts to support the allegations. …
+[23] There is no evidence in the pleadings that would allow the Court to come to the conclusion the Appellant’s Charter rights were violated. Unlike in O’Neill Motors above, here there is no admission of the Respondent that evidence was illegally obtained nor do we have a finding from the Ontario Superior Court of Justice as to same notwithstanding that the Appellant had multiple opportunities to plead such issue before both trial and appellate courts. In short, there is no evidence, finding or pleading that would permit this Court to find that the pleadings are sufficient to establish any cause of action. All we have is conjecture, speculation and innuendo. These are not enough to meet the threshold that the Appellant has any chance whatsoever to succeed in his claim.
+[26] Sections 7, 8 and 11(b) of the Charter read as follows:
+Section 7 - Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.
+Section 8 - Everyone has the right to be secure against unreasonable search and seizure.
+Section 11(b) - Any person charged with an offence has the right to be tried within a reasonable time.
+[27] In addition, in Gratl v HMQ, 2010 TCC 491 [Gratl], Bowie J. of this Court held that section 7 of the Charter did not apply to a tax audit and struck a paragraph and a consequential reference to section 7 in Ms. Gralt’s Notice of Appeal. Justice Bowie wrote:
+3. … It is, however, plain and obvious that her reliance on sections 7, 12 and 15 of the Charter is foreclosed by authority. In Tyler v. M.N.R.[91 DTC 5022] the Federal Court of Appeal noted the distinction between criminal proceedings and a tax audit, and held that in the case of a tax audit, which is a purely an administrative proceeding, there is no suspect and no accused; see also Kaulius v. The Queen [2003 DTC 564 (FCA)]. Section 7 simply does not apply to the tax audit process.
+[28] Bowie J.’s decision in Gratl was upheld by the Federal Court of Appeal. [1] Sharlow J. for the Court of Appeal concluded that an income tax assessment is a civil matter involving only economic interests. It does not deprive the assessed person of life, liberty or security of the person within the meaning of section 7 of the Charter. She reasoned as follows:
+[6] The appellant argues that the Tax Court has the jurisdiction to grant remedies based on the Charter. We agree that the Tax Court has the legal authority to grant a Charter remedy. However, we also agree with Justice Bowie’s conclusion that it is plain and obvious that an order vacating or varying an assessment of tax, administrative penalties and interest cannot be justified by section 7 or 12 of the Charter. In other words, even if it is assumed that the facts alleged in paragraph 5 of the third amended notice of appeal are true, they disclose no breach of section 7 or 12 of the Charter.
+…
+[8] Under the Income Tax Act as it now reads, and as it read in 2001 and 2002, an income tax assessment is a civil matter involving only economic interests. It does not deprive the assessed person of life, liberty or security of the person within the meaning of section 7 of the Charter, and it does not place the assessed person under state control in a manner that could possibly be considered treatment or punishment within the meaning of section 12 of the Charter.
+[29] A similar conclusion was reached by the Federal Court of Appeal in Bauer v Canada, 2018 FCA 62, where the Court explained when Charter rights might come into play in tax matters. Webb J.A. explained at paragraph 15 of his reasons:
+… [a] taxpayer's Charter rights are engaged when an audit becomes a criminal investigation”. Since these Charter rights are engaged when this criminal investigation commences, these Charter rights, that could affect the admissibility of documents in court proceedings, must relate to proceedings arising from this criminal investigation and not to proceedings that do not relate to the commission of a criminal offence under the ITA or the Excise Tax Act.
+[30] For subsection 11(b) of the Charter to apply, a person has to be charged with an offence. That is simply not the situation here.
+[31] What is in issue in these appeals is the amount of the tax assessed, a civil procedure. Therefore, I agree with the respondent that the allegations and the references to sections 7 and 11(b) of the Charter in the Notices of Appeal of the appellants should be struck.
+[32] The above being said, the appellants are correct in submitting that the conduct of officials of the CRA may in certain situations be raised in a civil matter. Some conduct may affect the validity of the assessment, namely the amounts of taxes owed by a taxpayer. For example, section 8 of the Charter has been raised in situations where the Minister, after the normal reassessment period, reassessed relying only on documents obtained under an illegal search warrant. [2] Such reassessments were invalidated by the Courts. While this does not appear to be the case in these appeals, I am mindful that on a Motion to strike, the Court should not prevent parties from pleading novel arguments so long as they are arguable. In light of this, I will not strike the paragraphs that could lead to an argument under section 8 of the Charter. Accordingly, paragraphs 16, 17 and 18 of the 881751 Notice of Appeal and paragraphs 15, 16 and 17 of the Denis Roy Notice of Appeal may remain.
+[33] The respondent also submits that certain of the allegations in the appellants’ Notices of Appeal do not contain material facts that evidence a cause of action. The respondent argues that it is plain and obvious that the appellant’s allegations suggesting unlawful conduct such as, the audit was phony and it was a de facto tax evasion investigation from the beginning, cannot succeed because the pleadings do not contain sufficient material facts that if proven, could establish unlawful conduct.
+[34] I agree with the respondent’s that many of the paragraphs under the heading Material Facts – Charter Issues in the Notices of Appeal of the appellants do not contain sufficient material facts that evidence a cause of action. That being said, I already struck these paragraphs. Some were struck on the basis that the appellants could not raise section 7 or subsection 11(b) of the Charter and others were struck because the wrongful conduct of the CRA officials does not have any impact on the validity of an assessment.
+II. Appellants’ Motion to amend
+[35] I will grant the appellants leave to amend their Notices of Appeal. Although, as mentioned above, I doubt that the appellants have an argument based on section 8 of the Charter, I did not strike the paragraphs that could lead to an argument under section 8. I however remind the appellants that the Rules require them to plead material facts in support of their allegations with respect to section 8 of the Charter.
+III. Disposition
+[36] Leave is granted. The respondent’s Motions to strike parts of the Notices of Appeal of 881751 and Denis Roy are validly filed with this Court.
+[37] The respondent’s Motions to strike parts of the Notice of Appeal of 881751 is allowed on the following bases:
+The following paragraphs of the Notice of Appeal of 881751 Ontario Limited shall be struck as follows:
+a) under the heading “Material Facts - Charter Issues”, paragraphs 13, 14, 15 and 19 are struck;
+b) under the heading “Issues to be Decided”, paragraphs 4, 5, 6, 7 and 8 are struck;
+c) under the heading “Statutory Provisions”, except for the reference to section 8 and subsection 24(1) of the Charter paragraph 4 is struck;
+d) under the heading “Reasons”, paragraph 5 is struck; and
+e) under the heading “Relief Sought”, paragraph 4 is struck.
+Costs in the cause.
+[38] The respondent’s Motions to strike parts of the Notice of Appeal of Denis Roy is allowed on the following bases:
+The following paragraphs of the Notice of Appeal of Denis Roy shall be struck as follows:
+a) under the heading “Material Facts - Charter Issues”, paragraphs 12, 13, 14 and 18 are struck;
+b) under the heading “Issues to be Decided”, paragraphs 4, 5, 6, 7 and 8 are struck;
+c) under the heading “Statutory Provisions”, except for the reference to section 8 and subsection 24(1) of the Charter paragraph 4 is struck;
+d) under the heading “Reasons”, paragraph 4 is struck; and
+e) under the heading “Relief Sought”, paragraph 4 is struck.
+Costs in the cause.
+[39] The Motion of the appellants requesting leave to amend their Notices of Appeal, is granted in accordance with the above reasons. Costs in the cause.
+Signed at Ottawa, Canada, this 17th day of February 2021.
+“Johanne D’Auray”
+D’Auray J.
+ANNEX 1
+CITATION:
+2021 TCC 9
+COURT FILE NO.:
+2017-4363(IT)G, 2018-931(IT)G
+STYLE OF CAUSE:
+881751 ONTARIO LIMITED and HER MAJESTY THE QUEEN
+DENIS ROY and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Motions in Writing
+DATE OF HEARING:
+N/A
+REASONS FOR ORDER BY:
+The Honourable Justice Johanne D'Auray
+DATE OF ORDER:
+February 17, 2021
+APPEARANCES:
+Counsel for the Appellants:
+Gregory J. Ducharme
+Counsel for the Respondent:
+Charlotte Deslauriers and
+Tanis Halpape
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Gregory J. Ducharme
+Firm:
+Gregory J. Ducharme Professional Corporation
+North Bay, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Gralt v HMQ, 2012 FCA 88.
+[2] See O’Neill Motors Ltd. v HMQ, 1998 FCA 180, Brown v R, 2013 FCA 111 and SFP Valeur Assurable et Robert Plante v SMR, 2019 CCI 174 (the decision has not yet been translated in English and is under appeal before the Federal Court of Appeal).

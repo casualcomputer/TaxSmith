@@ -1,0 +1,156 @@
+Title: Dietrich v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26718/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-326-26718-dietrich-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-06-23
+
+# Dietrich v. The Queen
+
+- Citation: 2005 TCC 326
+- Decision date: 2005-06-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3399, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dietrich v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-23
+Neutral citation
+2005 TCC 326
+File numbers
+2002-1198(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-1198(IT)G
+BETWEEN:
+JAMES D. DIETRICH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 4, 2005 at Toronto, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+A'Amer Ather
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1998 and 1999 taxation years are dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of June 2005.
+"Diane Campbell"
+Campbell J.
+Citation: 2005TCC326
+Date: 20050623
+Docket: 2002-1198(IT)G
+BETWEEN:
+JAMES D. DIETRICH,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+CampbellJ.
+[1] These are appeals from Notices of Reassessment for the Appellant's 1998 and 1999 taxation years. The Minister of National Revenue (the "Minister") disallowed the deduction of $71,250.00 in 1998 and $112,500.00 in 1999 as allowable business investment losses ("ABIL") in respect of business investment losses of $95,000.00 and $150,000.00 respectively.
+[2] The Appellant incorporated a company in 1982, Norwess Group Inc. ("Norwess"). The company completed small to medium sized construction projects. A related company, 379092 Ontario Limited ("Ontario") was incorporated to hold the assets of Norwess. The Appellant was the sole shareholder, officer and director of both Norwess and Ontario. Norwess got into financial difficulties around 1990. The Bank of Montreal called in the guarantees which the Appellant had signed to support the corporate loans. The Appellant had no resources to pay the Bank and his accountants suggested that he approach family members for assistance. His father, Gerhard Dietrich, agreed to mortgage his farm so that he could advance $250,000.00 to the Bank to assist his son. The Bank agreed to accept fifty cents on the dollar in settlement of the judgment which the Bank had already obtained against both the Appellant and his wife. The $250,000.00 was paid by the father in full satisfaction of the amount owed by the son pursuant to the guarantees. Consequently the father became subrogated to the bank's rights in respect to the Appellant.
+[3] The Appellant's father as Assignee and the Bank as Assignor signed an Assignment Agreement in July 1993 (Exhibit R-1, Tab 3). This Assignment made reference to the Judgment which the Bank held and at paragraph 4 of the preamble it stated:
+AND WHEREAS the Assignee has agreed to pay to the Bank the sum of $250,000.00 in order to purchase from the Bank the Indebtedness and Security and generally any and all claims which the Bank has or may have against the debtors by reason of any cause, matter or thing existing to the present time;
+This Assignment listed the various Securities which the Bank held, for payment of the indebtedness in Schedule "A". That list included the following:
+1. Judgment in favour of Bank of Montreal dated the 19th day of November, 1992 in Court File Number 92-CU-54700CM;
+2. A mortgage for $425,000.00 against the lands and premises described as Parcel 64-1, Section M-32, Lot 64, Plan M-32, township of King, regional Municipality of York, Land Titles Division of York Region (No. 65) registered as Instrument No. LT573520;
+3. Guarantee for indebtedness of an incorporated company signed by James Dietrich guaranteeing the debts of 379092 Ontario Limited, limited to the amount of $40,000.00 with interest thereon at a rate of 13.25 per cent per annum dated the 15th day of October, 1986;
+4. Guarantee for indebtedness of an incorporated company signed by James Dietrich guaranteeing the debts of 379092 Ontario Limited, limited to the amount of $30,000.00 with interest thereon at a rate of 13.25 per cent per annum dated the 23rd day of June, 1987;
+5. Guarantee for indebtedness of an incorporated company signed by James Dietrich and Julie Dietrich dated March 6, 1990 in the amount of $300,000.00 with interest thereon at the prime rate of interest plus 2 1/2 per cent guaranteeing the indebtedness of the Norwess Group Inc.
+6. Guarantee for indebtedness of an incorporated company signed by 379092 Ontario Limited dated March 6, 1990 limited to the amount of $300,000.00 with interest thereon at a rate of prime plus 2 1/2 per cent guaranteeing the indebtedness of the Norwess Group Inc.
+7. Personal Line of Credit agreement with the Bank dated March 11, 1988 executed by James Dietrich.
+[4] In addition to this Assignment the Bank executed a Notice and Direction, (R-1, Tab 4) which referenced the mortgage which the Bank held against the Appellant's property and which is listed as Security # 2 in Schedule "A" attached to the Assignment. The Bank transferred all of its rights to receive future mortgage payments pursuant to this mortgage to Gerhard Dietrich.
+[5] The Appellant did not dispute the validity or contents of any of these documents.
+[6] The Appellant subsequently repaid his father $94,800.00 in 1998 and $150,000.00 in 1999. He considered these amounts to be business investment losses as per paragraph 39(1)(c) of the Income Tax Act (the "Act"). Accordingly the Appellant claimed ABILs of $71,250.00 and $112,500.00 in 1998 and 1999 respectively.
+[7] The Minister disallowed these ABILs on the basis that the payments were not made to a person with whom the Appellant dealt at arm's length as required by subsection 39(12) and consequently a deduction under paragraph 39(1)(c) could not be taken. The Minister's position assumes that the requirements of subsection 39(12) must be met before a deduction is taken under paragraph 39(1)(c).
+[8] The Respondent's position is that the language of this section is clear and straightforward and the facts of this case prevent the Appellant from falling within subsection 39(12) because he made his payments to his father, who held the guarantee pursuant to the Assignment by the Bank. Since the father and son are not dealing with each other at arm's length, as required by the wording of subsection 39(12), the Appellant is prevented from claiming an ABIL in 1998 and 1999. The Appellant is caught by more than a simple technicality of the provision. He is prevented from using subsection 39(12) to claim an ABIL because of a legal relationship legitimately created in 1993 between his father, Gerhard Dietrich, and a third party, the Bank. The Respondent also referred me to a number of cases contained in his Book of Authorities to support his argument that this Court must give effect to what the Appellant has done and the legal relationships as they existed between the Appellant and his father in 1998 and 1999 when the payments were made.
+[9] The Appellant's main argument was that his father was simply the vehicle or conduit which allowed him to deal with repayment to the Bank and this should not prevent him from claiming the ABILs. In response to this argument the Respondent referred me to the case of Jenset v. Canada, [2003] T.C.J. No. 350, where on an informal procedure Justice Mogan held that an agency relationship existed between the taxpayer and the trustee in bankruptcy so that an ABIL could be claimed. The Respondent submitted that this case can be distinguished from Jenset because that particular relationship could more easily be characterized as one of agency due to the nature of a trustee in bankruptcy. The Respondent argued that once a debtor is partitioned into bankruptcy, the trustee stands in the same position as the debtor and is almost the same person. In addition, in Jenset, the payments originate from funds that the trustee had ultimate control over. In this case, the Respondent submitted that there was no agency relationship, express or implied, and that even if one could argue implied agency, it would have to be offset by the Assignment Agreement of 1993, which suggests a relationship of guarantor and guarantee between the father and the son. If this Agreement was being signed in the capacity of an agent, then the Appellant here owed the liability to himself and the effect of the transaction is that it would be awash with no debt owing to the corporation.
+[10] The issue is whether the Appellant can claim a business investment loss in each of the 1998 and 1999 taxation years pursuant to paragraph 39(1)(c) in respect to the amounts he paid, on behalf of his company, as guarantor, to his father, as subrogated creditor, even though the arm's length requirement of subsection 39(12) has not been met. More generally, must a guarantor meet the requirements of subsection 39(12) in order to have a business investment loss pursuant to paragraph 39(1)(c).
+[11] The relevant provisions of the Act are subsection 38(c), paragraph 39(1)(c) and subsection 39(12). Although subsection 50(1) was not specifically relied upon by either party to these appeals, it is referred to in subsection 39(1)(c) and will be relevant to my analysis of the issue.
+[12] Subsection 39(12) states:
+For the purpose of paragraph (1)(c), where
+(a) an amount was paid by a taxpayer in respect of a debt of a corporation under an arrangement under which the taxpayer guaranteed the debt,
+(b) the amount was paid to a person with whom the taxpayer was dealing at arm's length, and
+(c) the corporation was a small business corporation
+(i) at the time the debt was incurred, and
+(ii) at any time in the 12 months before the time an amount first became payable by the taxpayer under the arrangement in respect of a debt of the corporation,
+that part of the amount that is owing to the taxpayer by the corporation shall be deemed to be a debt owing to the taxpayer by a small business corporation.
+[13] This subsection is a deeming provision. The purpose of the provision appears to be the protection of guarantors by ensuring that the corporation is considered a small business corporation for the purposes of determining whether there is a business investment loss under paragraph 39(1)(c). This will assist a guarantor, who pays an amount on behalf of a corporation but is not reimbursed by the corporation, to claim that amount as a business investment loss even where the corporation is not technically a small business corporation as required by paragraph 39(1)(c). If I am correct, that the purpose of this provision is to widen a guarantor's access to paragraph 39(1)(c), it would be unreasonable to find that Parliament intended it to be interpreted and applied to deny a guarantor from claiming a business investment loss under paragraph 39(1)(c).
+[14] I am supported in this view by the C.R.A. Technical Notes to subsection 39(12) which state:
+May 1991 TN: New subsection 39(12) provides a special rule that applies for the purposes of the provisions relating to business investment losses. Paragraph 39(1)(c) defines a taxpayer's business investment loss for the year as his capital loss for the year from disposition of shares or debt of a small business corporation to an arm's length person or from a disposition to which subsection 50(1) applies. For the purposes of paragraph 39(1)(c), a small business corporation includes a corporation that was a small business corporation (as defined in subsection 248(1)) at any time in the 12-month period preceding the disposition of the shares or debt.
+In the case of a payment made by a taxpayer under a guarantee in respect of a corporation's liabilities, a debt does not arise between the corporation and the taxpayer until the payment is made. In such a case, the 12-month period may not allow sufficient time for the creditor to dispose of his debt or to establish that it has become bad so that it may be treated as having been disposed of by reason of subsection 50(1). For example, where the guarantor contests his liability under the guarantee or where the payments under the guarantee are to be made over a period of time, the corporation may no longer qualify as a small business corporation by reason of its having become inactive at the time the payment is made under the guarantee.
+New subsection 39(12) will treat a payment made by a taxpayer under an arm's length guarantee of the debts of a corporation as a debt owing by a small business corporation where the corporation was a small business corporation both at the time the debt in respect of which the payment was made was incurred and at the time an amount first became payable under the guarantee. Where these conditions are met, the taxpayer will be eligible to claim a business investment loss on any payments made under the guarantee even where the corporation has ceased to carry on an active business.
+[15] Subsection 39(12) is intended to broaden the definition of a business investment loss and consequently an ABIL for guarantors who pay an amount to an arm's length party on behalf of a company that was, but perhaps may no longer be, a small business corporation. The language and intent of subsection 39(12) allow me to conclude that it is not necessary for a guarantor to meet the requirements set out in the subsection in order to claim a business investment loss pursuant to paragraph 39(1)(c). Accordingly it follows that a taxpayer may claim a business investment loss provided he can meet the requirements of paragraph 39(1)(c).
+[16] It is clear that the Appellant cannot avail himself of subsection 39(12) because he simply does not meet the arm's length requirement contained in that provision. However if he is able to satisfy the requirements of paragraph 39(1)(c), without the assistance of subsection 39(12), he will have a business investment loss according to that paragraph.
+[17] The question then is really whether the Appellant can qualify for a business investment loss by virtue of paragraph 39(1)(c). Paragraph 39(1)(c) states:
+39. (1) For the purposes of this Act,
+[...]
+(c) a taxpayer's business investment loss for a taxation year from the disposition of any property is the amount, if any, by which the taxpayer's capital loss for the year from a disposition after 1977
+(i) to which subsection 50(1) applies, or
+(ii) to a person with whom the taxpayer was dealing at arm's length any property that is
+(iii) a share of the capital stock of a small business corporation, or
+(iv) a debt owing to the taxpayer by a Canadian-controlled private corporation (other than, where the taxpayer is a corporation, a debt owing to it by a corporation with which it does not deal at arm's length) that is
+(A) a small business corporation,
+(B) a bankrupt (within the meaning assigned by subsection 12(3)) that was a small business corporation at the time it last became a bankrupt, or
+(C) a corporation referred to in section 6 of the Winding-up and Restructuring Act that was insolvent (within the meaning of that Act) and was a small business corporation at the time a winding-up order under that Act was made in respect of the corporation,
+exceeds the total of
+[...] [emphasis added]
+[18] If the Appellant is to claim a business investment loss pursuant to paragraph 39(1)(c), in the facts of this case, he must answer in the affirmative the following two questions:
+(a) Does subsection 50(1) apply (under subparagraph 39(1)(c)(i))?
+and
+(b) Was the corporation a Canadian-controlled private corporation that was a small business corporation at the required time (subparagraph 39(1)(c)(iv))?
+[19] Subparagraph 39(1)(c)(ii) cannot apply since the Appellant did not dispose of his property, being the debt owed to him by his company, to a non-arm's length person. However the Appellant may be able to satisfy subparagraph 31(1)(c)(i) if he can show that subsection 50(1) applies. Subsection 50(1) states:
+50. (1) For the purposes of this subdivision, where
+(a) a debt owing to a taxpayer at the end of a taxation year (other than a debt owing to the taxpayer in respect of the disposition of personal-use property) is established by the taxpayer to have become a bad debt in the year, or
+[...]
+and the taxpayer elects in the taxpayer's return of income for the year to have this subsection apply in respect of the debt or the share, as the case may be, the taxpayer shall be deemed to have disposed of the debt or the share, as the case may be, at the end of the year for proceeds equal to nil and to have reacquired it immediately after the end of the year at a cost of equal to nil. [emphasis added]
+[20] For subsection 50(1) to apply, the Appellant must have (a) established that the debt owed to him by the corporation became a bad debt in the year and (b) made an election to this effect in his income tax return for the year. I believe the facts of this case establish that the debt owing became a bad debt in the year. However there is no evidence one way or the other as to whether the Appellant made the necessary election as required by subsection 50(1). Without the evidence and with the onus on the Appellant, I must dismiss the appeals on this basis. Nevertheless, I believe it is open to the Appellant to submit an application to the Minister pursuant to subsection 220(3.2) requesting an extension of time to file an election for each of the 1998 and 1999 taxation years. Under Regulation 600, subsection 50(1) is in fact a prescribed provision as referred to in subsection 220(3.2). If the Minister were to deny such an application, the Appellant could instead file his election in respect to the current taxation year. The only disadvantage to filing for the current year may be that the proportion of the business investment loss that can be claimed as an ABIL would be reduced because paragraph 38(c) has been amended to reduce that proportion from three-quarters to one-half. In any event, although I must dismiss the appeals for the reasons given, I believe there are avenues open to the Appellant to pursue his claim for a deduction for business investment losses.
+[21] Although I have effectively disposed of these appeals for the above reasons, I want to briefly address the second question which the Appellant would have to answer in the affirmative in order to fulfill the requirements of paragraph 39(1)(c). Only losses relating to certain types of property will qualify as business investment losses. Subparagraph 39(1)(c)(iii) does not apply in this case but subparagraph 39(1)(c)(iv) does, as the appeals are dealing with debt. Pursuant to subparagraph 39(1)(c)(iv) it must be determined whether the Appellant's company, at the time the debt was disposed of, was a Canadian-controlled private corporation that was a small business corporation, a bankrupt that was formerly a small business corporation or an insolvent corporation that was a small business corporation when it became subject to a winding-up order. The timing of the disposition will be determined according to subsection 50(1), which provides that a bad debt is deemed disposed at the end of the taxation year in which the Appellant files the appropriate election. According to the evidence presented before me, I believe that once the Appellant files his election, he will have no problem in establishing the appropriate corporate status to enable him to fulfill the requirement of subparagraph 39(1)(c)(iv), and therefore the second condition of paragraph 39(1)(c) will be met.
+[22] In summary, it is not necessary for a guarantor to meet the requirements of subsection 39(12) in order to claim a business investment loss pursuant to paragraph 39(1)(c). However, to fulfill the requirements of subsection 39(1)(c), the Appellant had to satisfy me that the two questions I have outlined in my reasons could be answered in the affirmative. Based on the facts, I believe that the Appellant could fulfill these requirements except that he may not have filed his election as required by subsection 50(1). Because the evidence is simply silent in this regard, as neither party took the approach which I have taken, I must assume he has not filed an election. Therefore I must dismiss the appeals, without costs, but with the proviso that I believe it is still open to the Appellant to take the necessary steps to file an election and avail himself of the deduction for business investment losses pursuant to paragraph 39(1)(c).
+Signed at Ottawa, Canada, this 23rd day of June 2005.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2005TCC326
+COURT FILE NO.:
+2002-1198(IT)G
+STYLE OF CAUSE:
+James D. Dietrich and
+Her Majesty the Queen
+PLACE OF HEARING
+Toronto, Ontario
+DATE OF HEARING
+May 4, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice
+Diane Campbell
+DATE OF JUDGMENT
+June 23, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+A'Amer Ather
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

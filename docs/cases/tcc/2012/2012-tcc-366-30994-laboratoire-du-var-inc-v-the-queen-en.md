@@ -1,0 +1,331 @@
+---
+title: "Laboratoire Du-Var Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30994/index.do"
+last_modified: "2012-10-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 366"
+citation2: ""
+neutral_citation: "2012 TCC 366"
+decision_date: "2012-10-17"
+language: "en"
+item_id: "30994"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4813
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:05:59.444000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e897dcd39126cc25b96dfc05b754015af82f6a90021ac881cf2e18a829f23cb3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Laboratoire Du-Var Inc. v. The Queen
+
+- Citation: 2012 TCC 366
+- Decision date: 2012-10-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4813, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laboratoire Du-Var Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-10-17
+Neutral citation
+2012 TCC 366
+File numbers
+2010-2038(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2038(IT)G
+BETWEEN:
+LABORATOIRE DU-VAR INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard July 9, 2012, at Montréal, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the appellant:
+Richard Généreux
+Counsel for the respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal from assessments is allowed in part; first for the 2003 and 2004 taxation years, the Court relies on the Consent to Judgment between the parties, the original of which is enclosed as an integral part of the judgment.
+As for the 2005 and 2006 taxation years, the parties agreed it essentially concerned the wages claimed by Pierre J. Trudeau and his spouse Louise Nadon. The appellant also agreed that certain projects, namely projects 11, 12, 13 and 34 identified, respectively, as: [translation] "Control Panel", "Air/electricity Project" and "Preventive Maintenance", could be excluded from the debate, and also consented to the respondent's findings in this regard.
+The appeal from the assessments made pursuant to the Income Tax Act by the Minister of National Revenue for the 2005 and 2006 taxation years, clearly defined by the parties as regarding the wages claimed by Pierre J. Trudeau and Louise Nadon, is dismissed, without costs.
+Signed at Ottawa, Canada, this 17th day of October 2012.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 6th day of February 2013.
+François Brunet, Revisor
+Citation: 2012 TCC 366
+Date: 20121017
+Docket: 2010-2038(IT)G
+BETWEEN:
+LABORATOIRE DU-VAR INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal regarding expenses related to various research and development projects. The parties came to an agreement regarding part of the case in question. The parties agreed to a consent to judgment in favour of the appellant for the 2003 and 2004 taxation years.
+[2] Since the consent to judgment in question is part of this judgment, it shall be reproduced in whole.
+[translation]
+The parties consent to the Court rendering judgment, allowing the appeal from the assessments for the 2003 and 2004 taxation years and referring the case to the Minister of National Revenue for reconsideration and reassessment, accepting the following additional expenses as eligible experimental research and development expenditures for the purposes of calculating the investment tax credit:
+2003
+2004
+Salary for undetermined employees
+$18,842
+-
+Material
+$131
+$371
+Contractors
+-
+$2,420
+Salary for determined employee (Pierre Trudeau)
+$5,486
+$2,794
+Salary for determined employee (Louise Nadon)
+$6,171
+$8,488
+Total:
+$30,630
+$14,073
+On all other matters, the reassessments remain unchanged.
+WITHOUT COSTS.
+Ile-des-Sœurs, July , 2012
+By: _______________________________
+Richard Généreux
+Counsel for the appellant
+MONTREAL, July , 2012
+Myles J. Kirvan
+Deputy Attorney General of Canada
+Counsel for the respondent
+By: ________________________________
+Christina Ham
+Counsel for the respondent
+[3] As a result, the appeal pertains essentially to the 2005 and 2006 taxation years; the appellant also stated that certain research projects for 2005 and 2006 were no longer at issue. They are the following projects: for 2005, project number 11, [Translation] "Control Panel"; project number 12, [Translation] "Air/electricity Project"; project number 13, [Translation] "Preventive Maintenance" and project number 34. For 2006, project number 34, identified as [Translation] "Control Panels".
+[4] Therefore, the only issue is the following: were the salaries of Pierre Trudeau and his spouse Louise Nadon considered eligible expenditures? The respondent disallowed, in part, the salary expenditures claimed for Mr. Trudeau and all the salary expenditures for Ms. Nadon, Mr. Trudeau's spouse. Should the salary expenditures claimed by Mr. Trudeau and his spouse as eligible expenditures be allowed?
+[5] For the 2003 and 2004 taxation years, all the salary paid to Mr. Trudeau and his spouse as salary expenditures for various research and development projects was allowed; for the 2005 and 2006 years, the Canada Revenue Agency (the Agency) allowed Mr. Trudeau's expenditures at 25% and disallowed all of Ms. Nadon's.
+[6] The President and sole shareholder of the appellant, Mr. Trudeau, is a civil engineer with vast knowledge in management and productivity. Throughout his career, he developed many management niches.
+[7] A turn of events led to his being offered the business operated by the appellant.
+[8] Despite its many years in business, excellent reputation and sought-after expertise, the appellant had significant financial problems. Presented with this offer, Mr. Trudeau assessed his situation; he made a plan and recruited reputable and credible individuals in order to face a new challenge: acquiring the appellant.
+[9] Mr. Trudeau's drive, interest and passion for the commercial activity of the business meant he quickly developed and acquired an expertise and vast knowledge in the research and development of toiletry and cosmetic products in all its forms. He became a leader in the field despite the small size of his company and also his lack of academic training in biochemistry.
+[10] The president, Mr. Trudeau, explained that the appellant's success resulted from the company's deep and sincere concern for its clients and its ongoing desire to grow with them, supporting and accompanying them through all the stages of the process leading to the marketing of a new product created at those clients' request.
+[11] Mr. Trudeau explained that the business received clients with ideas for new products that often belonged in the realm of dreams.
+[12] An idea generally targets a finished product. The appellant receives the mandate to undertake all the steps that would lead result in the desired product being ready to market. For the expected outcome, many steps are required and often involve a bona fide research and development project.
+[13] The appellant's success depends also on the quality and abundance of multiple experiences in terms of products to improve and develop, in a context and environment that meet very strict quality standards.
+[14] According to Mr. Trudeau, although they are few in number, the people assigned to research and development are the heart of the business. The research and development component is not significant in terms of labour and revenue, but is absolutely fundamental and strategic for the financial health of the business and its growth.
+[15] As for the years in question, the research and development component and department were directed by Marie‑Claude Nadeau, biochemist with a degree from the University of Sherbrooke.
+[16] As for the appellant's commercial activities, Mr. Trudeau stated that the business hired 50 to 80 people, depending on the period.
+[17] Over the years, the appellant submitted many research and development projects. The vast majority were received favourably by the Canada Revenue Agency that usually accepted them as submitted. Mr. Trudeau explained that the appellant had developed a high level of expertise for preparing, presenting and managing research and development projects.
+[18] Considering the importance of research and development projects for the appellant, Mr. Trudeau added that he invested heavily in order to obtain relevant information so the various research projects would be accepted and to stay up to date with the ever-changing requirements, and also because this was the most important component of the business.
+[19] He noted that the Agency had modified and restricted the qualification criteria by tightening the control mechanisms on one hand, and adding an array of new elements on the other. Aware of the new requirements and constraints clearly designed to allow for better control, he made every effort to conform thereto.
+[20] The president, who was directing a business in which every detail counts, where competition is fierce and efficiency is indispensable, stated that he implemented an accessible, reliable and well-documented system that allowed for the number of hours spent on each research project to be calculated and accurately tracked, and also explained the reason for the hours invested by each intervenor.
+[21] The appellant repeatedly insisted during the examination by the respondent's representatives that they should have considered the prior records where the president and his spouse's salaries were fully allowed, in particular for 2003 and 2004.
+[22] The appellant invested a great deal of energy to show the business had a good reputation in terms of research and development projects; almost all the projects submitted having been accepted, in particular for the salary claimed for Mr. Trudeau and his spouse, Louise Nadon, the respondent should have allowed the salary claims underlying the appeal according to the appellant. Counsel for the appellant asked multiple questions on the previous experiences, claiming that was where the relevant and conclusive evidence was, in terms of the validity of the appeal.
+[23] From the beginning, the analysts clearly indicated that, one one hand, they were not aware of the details of the files that preceded their analysis work that was at the basis of the assessments and, on the other, it was not relevant to the files they audited. Nevertheless, the appellant, through its counsel, vigorously criticized this approach, expressed frustration and severely attacked the lack of continuity in the acceptance process for the president's and his spouse's salary expenditures, in terms of the research projects at issue.
+[24] Marc-André Paquin and Gilles Caron, financial analyst and scientific analyst respectively, were in charge of the case analysis that led to the notice of assessment and explained the work they did. Mr. Paquin was in charge of analyzing the amounts claimed that were invested in the research projects in question; Mr Caron was to ensure that the scientific aspect met the relevant criteria.
+[25] Finally, the analysis and audit were to establish whether all the expenditures, including Mr. Trudeau's and his spouse's salaries, were directly related and necessary to properly conduct the research projects in question.
+[26] The analysts explained and repeated that their work, essentially and exclusively, focused on the projects under their analysis and audit mandate. They repeated that they did not consider or take into account prior experiences. Their work and analysis of the salaries claimed by Mr. Trudeau and his spouse led them to find there was no relationship between the significance of the work and the research and development projects to which the appellant wished to relate them.
+[27] In other words, the salary claims were exaggerated for Mr. Trudeau and completely inadmissible for his spouse. According to the auditors, these expenditures were not relevant to the completion of the research and development projects.
+[28] Meeting such a burden of proof requires not only presenting the most precise details possible but also the most reliable and credible. The fact that the respondent already allowed the claims for work attributed to other research projects does not have a determinative or sufficient impact to modify the rules regarding the burden of proof. Such information has no impact one way or the other. One thing is for sure, this complaint is not sufficient to disqualify or discredit the facts that were taken into consideration to explain or justify the assessments under appeal.
+[29] Every case is unique and the approach used to verify whether it was executed in compliance with the legal requirements to which it is subject is not a purely mathematical exercise. A direct relationship between the various components and the claim submitted is required and must be established on a balance of probabilities, so it would seem that each research and development project is a specific case with specific data.
+[30] The many previous approvals, the usual quality of the business' files, the confusion and possible ambiguity of certain regulatory instruments concerning the requirements, and the lack of clear and precise criteria are not sufficient to explain or justify the lack of a record or documents that show exactly what the president and his spouse contributed in terms of the various research projects accepted.
+[31] The appellant insisted on the fact it generally presented impeccable, even exemplary, research and development files. It noted that the claims submitted for the research and development project were always well received and, generally, obtained what it claimed, in particular regarding the salaries of the president, Mr. Trudeau and his spouse.
+[32] The president of the appellant claimed to have been careful, vigilant and precise regarding the data pertaining to his work and that of his spouse allocated to various research projects. To validate his claims he testified in a rather general manner; he insisted on his good reputation in such matters, on his knowledge, expertise and mastery of the requirements. Although the president, Mr. Trudeau, claimed to have implemented a system or registry that would allow the contribution of each individual to be verified, in terms of time, reason and manner, he was not able to explain exactly why or how he and his spouse contributed or what the impact of their contribution was on the various research and development projects in question.
+[33] The evidence of good conduct, the fact he had previously presented and submitted proper files with near-perfect marks, has nothing to do with a particular assessment for specific projects. It is, at best, a neutral element in itself and possibly useful for context, but certainly not a determining factor regarding the validity of a new file.
+[34] In this case, the assumptions relied on at the basis of the challenged part of the assessment have not been refuted or disqualified. To the contrary, the evidence showed that the work was carried out properly based on the available elements and information.
+[35] Research and development is a complex area in which there is no magic recipe to establish eligibility for all elements. Parliament provided criteria that, over the years, have been clarified, qualified and made easier to understand so that those concerned are better able to submit claims without being disappointed.
+[36] Having criteria and conditions means there are constraints and restrictions that require all expenditures to be shown as having a direct relationship with the research projects and also as being essential to their completion.
+[37] The expenditures claimed must have a direct and relevant relationship with the project submitted and accepted. The expenditures must be required, necessary and relevant. They cannot be circumstantial, indirect or relevant simply according to the promoter's analysis and understanding.
+[38] The various directives the Agency issues are for ease of understanding and accessibility, but also to allow the parties involved to structure and organize the implementation of their records, clear and precise minutes that make it easier to verify the level of the interrelationship and relevance.
+[39] In this case, relying on past experiences and the success of the business he directs, the president himself assessed his participation and that of his spouse in the various research projects. The evidence has established the amounts claimed for the taxation years in question were much higher than the usual claims. Mr. Trudeau essentially justified these gaps by stating they were very important research projects that required more of his and his spouse's involvement.
+[40] When he was questioned in cross-examination on the exact details of his participation to better understand the relevance, reasonableness and eligibility, he responded that the time invested met the criteria and respected the requirements established by the Agency.
+[41] When questioned so that he could clarify his responses, he answered that he respected one or another of the directives formulated by the Agency, referring to a number or series of numbers.
+[42] The president made note of the number of hours invested for each project in a computerized report; according to him, such entries signified that the work in question met one or another of the paragraphs from the statement. To illustrate this, I shall reproduce an excerpt from Mr. Trudeau's testimony.
+[translation]
+…
+Q. O.K.
+A. It's surprising, yes.
+Q. But it's...
+A. And nobody has duplicated it on the market.
+Q. But the six hours specifically that are mentioned for January 8?
+Mr. GÉNÉREUX: In fact, Your Honour, it isn't January 8.
+C. HAM: Or the week of January 8.
+Mr. GÉNÉREUX: Yes, the week of.
+A. I cannot specify. It was five. Four or five. It's always...
+Q. When you say "four, five"…
+A. 95%, it's... At tab 30, ---
+Q. Hm.
+A. ---it's---
+Q. In your task description?
+A. ---review, results analysis, discussions and "scale-up" drafts, theories for formulas with the client or with Du-Var and reviewing lab tests.
+Q. O.K. But you say that...
+A. To go more in depth, to tell you what I did specifically, it began in 2008, in 2008 with Mr. Pâquin's report that stated: [Translation] "Give me a backup." He told me this in December or January 2008, and we started in January 2008 to specifically take notes in the agendas of each intervention.
+Q. Hm.
+A. As I told you, I wrote: [Translation] "S-4d-2 hours."
+Q. O.K.
+A. But before that, it didn't exist.
+Q. So Monsieur Trudeau...
+A. We were asked to create a computer system, we put it in the computer system, and those were the instructions we got in 2004, to do it that way.
+Q. So Mr. Trudeau, for the two Excel files that are at Tab 35, that involve you, ---
+A. Yes Ma'am.
+Q. ---for 2005 and for 2006, is it true to say that you cannot tell me exactly which tasks were carried out in regard to the hours indicated?
+A. It...
+Q. Specifically for which project?
+A. It is summarized in tasks 1 to 10. Exclusively one of those tasks, which is at Tab 30. It is one of those tasks that was carried out.
+Q. Hm. And if I am correct, earlier you...
+A. Did I talk to the client to tell him the product turns blue, we came back… We never went into details and it was not requested.
+Q. The list of tasks at Tab 30 you are referring to, ---
+A. Yes.
+Q. ---that specifically concern you, you said earlier that this list of tasks was developed in 2008, is that correct?
+A. Yes, at the request of the Department.
+Q. Hm.
+A. Before that, if we look at the reports I presented, it's… Basically it's… I described those tasks. I said: [Translation] "Here are the tasks I performed" and these are the tasks described in my presentations. In the answers to Mr. Pâquin, including my letter in 2007, I described my tasks, and in general it is those tasks that are indicated.
+Q. O.K.
+A. Also, to Mr. Bougie, it was the tasks I described on... We talked a bit earlier, at the Department, and it is the same description, always.
+Q. Hm.
+A. The difference here is that I put a number in front of each task.
+Q. O.K. Mr. Trudeau, I will show you Exhibit A-3, A-3 which is the R&D technical report we looked at this morning.
+A. Hm.
+Q. More specifically at page 37.
+C. HAM: Your Honour, the pages are numbered on the top right.
+HIS HONOUR: I've got it.
+Q. So at page 37 here, it says:
+[Translation] "Annex - Task description for employees." – As read.
+Q. Then around the middle of the page, we see your task description.
+A. Yes.
+Q. For you.
+A. Yes.
+Q. You agree with me that the task description there is very different than these...
+A. No, it is the same tasks. It's just that here, they are numbered and here they are described with more verbs, longer, in a paragraph. But it is essentially the same tasks.
+Q. O.K.
+A. Because to write that, we relied on the 1996 enforcement policies.
+Q. O.K. If I show you Exhibit I-1, submitted this morning… I will show it to you now, ---
+A. Yes.
+Q. ---so you have the context.
+A. Hm.
+Q. This is the document Mr. Pâquin says he received as the task description as financial examiner.
+A. Yes.
+Q. O.K.? You agree with me that the task description for you in particular here at I-1 is the same one we find at page 37 of Exhibit A-3?
+A. Yes.
+Q. Take the time to read it…
+A. Essentially, I remember. I helped write it.
+Q. Hm.
+A. It was Marie-Claude, Ms. Nadeau who wrote them. Then, I revised them and it is essentially the same description. I-1, 37 and annex D, I mean...
+Q. At...
+A. At A-1, at Tab 30, ---
+Q. 30.
+A. --- it is essentially the same descriptions, but with slightly different words. Over time we learned that certain words… The government does not want us to use certain words.
+Q. Thank you.
+C. HAM: I do not have any other questions for the witness Your Honour.
+HIS HONOUR: Thank you Mr. Trudeau. This is your evidence?
+Mr. GÉNÉREUX: This is my evidence, Your Honour.
+…
+[43] Meeting a burden of proof requires credibility, indeed, but the basis of this credibility must not be consist essentially of prior non-relevant experiences and general explanations that can be interpreted in many ways.
+[44] The president can be credible when he states that he invested the number of hours defined in such and such a project. However, this quality in itself is not sufficient because the evaluation must be validated so that it can be determined whether the time and energy spent were directly related to the research and development project.
+[45] The subjective assessment of his use of time is not sufficient and determinative. The work must meet the test of relevance and of having a direct and useful relationship with the research project to which it is attached.
+[46] That is certainly not an easy task; therefore it is important to be able to refer to notes, records, minutes, etc., so that the evidence submitted is optimally direct.
+[47] In this case, the appellant's evidence is based essentially on past experiences with the Agency in terms of projects that have absolutely nothing to do with the present case, on the business's reputation, on the quality of the projects submitted, meeting the program's objectives and lastly, on vague and general theories that do not allow for an assessment of compliance with the requirements.
+[48] Despite the many questions the president, Mr. Trudeau, was asked, he was never able to provide specific explanations to establish a direct and unequivocal relationship in terms of the work attributed to the research project for which he billed hours of work that were disallowed, thereby giving rise to the sole issue under appeal.
+[49] As to the hours of work also claimed for Mr. Trudeau's spouse, she did not testify. The reasons given for her absence were that she was seriously ill a few years ago.
+[50] It was noted that she has since recovered, but she stopped taking on full loads at the business, working only a few days a week. Moreover, she avoids stress whenever possible; her presence in Court would have caused her great stress and she was not able to take this on.
+[51] Clearly, these are very touching reasons, but unfortunately they are not sufficient to lead to the conclusion that if she had testified, she would have shown that the work attributed to the various research projects was in compliance, genuine and should be granted as allowable expenses.
+[52] However, if there were good, or excellent records, and if notes or minutes had been taken, the auditors could have verified the relevance and established a direct relationship with the projects being audited.
+[53] In case of doubt or confusion, and in a far less stressful environment than court, they could have obtained clarifications and explanations from Ms. Nadon, which would have allowed them to draw conclusions.
+[54] If the conclusions were neither hoped for nor desired, the Court could have then consulted the documents and, in doing so, it would have been in a better position to assess the relevance of the work in terms of the relationship required to be eligible.
+[55] Since Ms. Nadon was absent, and there were no reliable or detailed records showing the validity of the appellant's claims, and since the explanations submitted by Mr. Trudeau and Marie-Claude Nadeau as heads of the research and development department are insufficient to find, according to the preponderance of evidence, a direct relationship or the relevance of the expenditures related to his work and that of his spouse, the appeal must be dismissed for the 2005 and 2006 taxation years. However, the appeal shall be allowed in accordance with the content of the document, "Consent to Judgment" that provides the following:
+[translation]
+The parties consent to the Court rendering judgment, allowing the appeal from the assessments for the 2003 and 2004 taxation years and referring the case to the Minister of National Revenue for reconsideration and reassessment, accepting the following additional expenses as eligible experimental research and development expenditures for the purposes of calculating the investment tax credit:
+2003
+2004
+Salary for undetermined employees
+$18,842
+-
+Material
+$131
+$371
+Contractors
+-
+$2,420
+Salary for determined employee (Pierre Trudeau)
+$5,486
+$2,794
+Salary for determined employee (Louise Nadon)
+$6,171
+$8,488
+Total:
+$30,630
+$14,073
+On all other matters, the reassessments remain unchanged.
+WITHOUT COSTS.
+Ile-des-Sœurs, July , 2012
+By: _______________________________
+Richard Généreux
+Counsel for the appellant
+MONTREAL, July , 2012
+Myles J. Kirvan
+Deputy Attorney General of Canada
+Counsel for the respondent
+By: ________________________________
+Christina Ham
+Counsel for the respondent
+[56] For all these reasons, the appeal is allowed in part, in that the assessments for the 2003 and 2004 taxation years shall be subject to a correction on the basis of the changes noted in the Consent to Judgment reproduced above.
+[57] In regard to the 2005 and 2006 taxation years, the assessments made are confirmed as valid and the appeal is dismissed for those two years, with costs to the respondent.
+Signed at Ottawa, Canada, this 17th day of October 2012.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 6h day of February 2013.
+François Brunet, Revisor
+CITATION: 2012 TCC 366
+COURT FILE NO.: 2010-2038(IT)G
+STYLE OF CAUSE: LABORATOIRE DU-VAR INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: July 9, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: October 17, 2012
+APPEARANCES:
+Counsel for the appellant:
+Richard Généreux
+Counsel for the respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the appellant:
+Name: Richard Généreux
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

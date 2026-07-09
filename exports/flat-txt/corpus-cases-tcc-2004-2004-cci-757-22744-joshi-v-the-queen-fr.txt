@@ -1,0 +1,239 @@
+Title: Joshi v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22744/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-757-22744-joshi-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-11-26
+
+# Joshi v. The Queen
+
+- Citation: 2004 CCI 757
+- Decision date: 2004-11-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2234, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Joshi v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-11-26
+Référence neutre
+2004 CCI 757
+Numéro de dossier
+2004-1196(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-1196(IT)I
+ENTRE :
+NAVIN JOSHI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu à Toronto (Ontario), le 14 septembre 2004.
+Devant : L'honorable T. O'Connor
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Craig Maw
+JUGEMENT
+Les appels de la cotisation et de la nouvelle cotisation établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2001 et 2002 sont admis dans la mesure énoncée dans les motifs de jugement ci-joints et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 26e jour de novembre 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 19ejour de juillet 2005.
+Sara Tasset
+Référence : 2004CCI757
+Date : 20041126
+Dossier : 2004-1196(IT)I
+ENTRE :
+NAVIN JOSHI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] Dans cet appel, il s'agit principalement de déterminer les montants exacts des déductions applicables aux frais de déménagement de l'appelant dans les années d'imposition 2001 et 2002. L'appel soulève également plusieurs questions accessoires sur lesquelles nous reviendrons plus loin.
+Les faits
+[2] Les faits pertinents sont ci-après énoncés :
+a) l'appelant a commencé à travailler pour le gouvernement de l'Ontario (le « nouveau lieu de travail » ) le 16 juillet 2001;
+b) l'appelant, son épouse et leurs quatre enfants ont quitté le 30-40 Fairfax Court, à London (Ontario) (l' « ancienne résidence » ) pour s'installer au 3832, Coachman Circle, Mississauga (Ontario) (la « nouvelle résidence » ) le 31 août 2001;
+c) la distance entre l'ancienne résidence et le nouveau lieu de travail est supérieure d'au moins 40 kilomètres à la distance entre la nouvelle résidence et le nouveau lieu de travail, de sorte qu'il est satisfait aux exigences de la Loi de l'impôt sur le revenu (la « Loi » ) pour ce qui est de la distance;
+d) le revenu de l'appelant au nouveau lieu de travail pendant l'année 2001 était de 14 140 $ et, pendant l'année 2002, il était de 39 231 $;
+e) pour l'année d'imposition 2001, le ministre du Revenu national (le « ministre » ) a permis à l'appelant de déduire un montant de 7 960,54 $ au titre des frais de déménagement;
+f) l'appelant demande une déduction de 25 203,21 $ au titre des frais de déménagement.
+[3] Il sera question plus loin de la détermination du montant des frais de déménagement à admettre, mais je dois d'abord analyser une question préliminaire soulevée par le ministre, à savoir qu'aucun appel ne peut être interjeté à l'encontre d'une cotisation néant et que l'appel relatif à l'année 2001 devrait donc être annulé étant donné que la nouvelle cotisation applicable à cette année-là est une cotisation néant.
+[4] La thèse selon laquelle le contribuable ne peut pas interjeter appel d'une cotisation néant est bien établie dans la jurisprudence. Dans l'arrêt Canada c. Consumers Gas, [1987] 2 C.F. 60, la Cour d'appel fédérale (la « CAF » ) a dit ce qui suit au paragraphe 13 :
+[...] C'est la cotisation du ministre qui fait l'objet d'un appel devant les tribunaux aux termes de la Loi de l'impôt sur le revenu. Bien que le terme « cotisation » puisse être interprété de deux manières différentes, soit comme la procédure au moyen de laquelle l'impôt est évalué, soit comme le produit de cette évaluation, il me semble évident, à la lecture des articles 152 à 177 de la Loi de l'impôt sur le revenu, que le terme y est employé seulement dans son second sens. Cette conclusion découle en particulier du paragraphe 165(1) et du principe bien établi selon lequel un contribuable ne peut ni s'opposer à une cotisation égale à zéro ni interjeter appel contre celle-ci.
+[5] Toutefois, la jurisprudence a également énoncé diverses exceptions à cette thèse générale. Dans la décision Martens v. M.N.R., 88 DTC 1382 ( « Martens » ), le juge Rip a examiné la question de la cotisation qu'il convient d'établir à l'égard de crédits d'impôt à l'investissement remboursables dans une année où une cotisation néant est établie. Dans l'affaire Martens, l'intimé avait soutenu qu'aucun appel ne pouvait être interjeté à l'encontre d'une cotisation néant et que, si le ministre et le contribuable contestent la détermination du crédit d'impôt à l'investissement remboursable en 1984 et que, dans une année future, lorsqu'un impôt est établi parce que, du fait que le montant des crédits déterminé par le ministre est inférieur à celui du contribuable, il en résulte un revenu, le litige peut alors être réglé par les tribunaux judiciaires à une date ultérieure. Le juge Rip a statué ce qui suit, à la page 3 : « [L]'appelant a le droit en des dispositions du paragraphe 152(1.2) de s'opposer à la détermination du Ministre en signifiant un avis d'opposition de la façon prévue à l'article 165 et, s'il n'est pas satisfait de la décision du Ministre à l'égard de l'opposition, il peut déposer un avis d'appel de la façon prévue à l'article 169. C'est ce que l'appelant a fait. Il n'a pas besoin d'attendre une année d'imposition future pour contester la détermination. »
+[6] De même, dans la décision Joshi v. Canada, 2003 DTC 1550, le juge Hershfield a fait remarquer que la série de causes relatives à des cotisations néant ne portait pas sur des questions de crédit d'impôt. Il a statué que s'il se posait une question au sujet des crédits d'impôt, la Cour canadienne de l'impôt a compétence.
+[7] En outre, dans la décision Aallcann Wood Suppliers Inc. v. Canada, 94 DTC 1475, le juge Bowman a statué que la détermination des pertes en capital dans une cotisation néant peut être prise en compte par la Cour si ces pertes influent sur la situation du contribuable au cours d'années ultérieures (c'est-à-dire dans le cas du report prospectif d'une perte). Voici ce que le juge a dit au paragraphe 4 :
+[...] Une des raisons sous-jacentes à l'adoption du paragraphe 152(1.1) est qu'on ne peut appeler d'une cotisation « NÉANT » . En l'absence d'une détermination exécutoire faite en vertu du paragraphe 152(1.1), un contribuable peut contester le calcul du ministre concernant une perte relative à une année particulière dans un appel portant sur une autre année lorsque le montant du revenu imposable du contribuable est influencé par le montant de la perte pouvant être reportée prospectivement en vertu de l'article 111. En contestant la cotisation portant sur une année pour laquelle de l'impôt est payable au motif que le ministre a incorrectement calculé le montant d'une perte relative à une année antérieure ou subséquente qui peut être déduite en vertu de l'article 111 dans le calcul du revenu imposable du contribuable pour l'année en question dans l'appel, le contribuable demande à la Cour de faire précisément ce que prévoient les dispositions de la Loi de l'impôt sur le revenu en matière d'appel : déterminer l'exactitude d'une cotisation d'impôt en examinant la justesse d'un ou de plusieurs de ses éléments constituants, soit en l'espèce le montant d'une perte d'une autre année pouvant être déduite. La Cour n'a pas à déterminer la perte en vertu du paragraphe 152(1.1) ni à entendre un appel concernant une cotisation « NÉANT » . Elle doit simplement établir l'exactitude de la cotisation portant sur l'année en question dans l'appel dont elle est saisie.
+[8] Dans la décision Liampat Holdings Ltd. c. Canada, [1995] A.C.F. no 1621, la Section de première instance de la Cour fédérale du Canada a dit ce qui suit, à la page 6 :
+[...] Selon moi, il ressort de l'affaire Aallcann que la Cour a compétence pour statuer sur une année ayant fait l'objet d'une cotisation « néant » lorsque les calculs effectués pour arriver à cette cotisation influent réellement sur une autre année d'imposition; cela ne donne pas compétence à la Cour pour statuer directement sur une cotisation « néant » .
+[9] Enfin, dans l'arrêt Bruner c. Canada 2003 CAF 54 ( « Bruner » ), la CAF semble avoir élargi la portée des cas dans lesquels la Cour peut examiner une année d'imposition visée par une cotisation néant :
+Le défendeur interjette appel d'une cotisation dans laquelle aucun montant n'est contesté [...] Les dispositions de la Loi de l'impôt sur le revenu relatives aux cotisations et aux appels trouvent leur pendant dans la Loi sur la taxe d'accise et il n'existe à notre avis aucune raison pour laquelle les principes régissant les appels interjetés de cotisations néant établies sous le régime de la Loi de l'impôt sur le revenu ne devraient pas s'appliquer également aux appels interjetés en vertu de la Loi sur la taxe d'accise, [...] En conséquence, un contribuable n'a pas le droit de contester une cotisation lorsque le fait pour lui d'obtenir gain de cause en appel soit ne changerait rien à l'impôt qu'il doit payer ou à son droit à un crédit de taxe sur les intrants ou à un remboursement, soit augmenterait le montant d'impôt qu'il doit payer. Lorsque le défendeur a soutenu qu'aucun montant n'était contesté, le juge de la Cour de l'impôt aurait dû appliquer la jurisprudence relative aux cotisations néant et annuler l'avis d'appel.
+[10] En l'espèce, l'appelant a soutenu que l'année 2001 était uniquement une année visée par une cotisation néant parce que le ministre, de son propre chef, avait appliqué ses crédits d'impôt pour études et pour frais de scolarité de la même façon que dans l'affaire Joshi c. Canada, précitée. Toutefois, l'intimée a nié la chose, et ce, avec raison. L'année 1991 est une année visée par une cotisation néant indépendamment des crédits d'impôt pour études et pour frais de scolarité.
+[11] Par conséquent, s'il est reconnu que l'année 2001 est une année d'imposition visée par une cotisation néant « valide » , il reste à savoir si l'appel que le contribuable a interjeté à l'égard de l'année d'imposition 2001 doit être annulé. À mon avis, l'appel ne doit pas être annulé parce qu'une détermination relative à l'année d'imposition 2001 influe sur l'obligation fiscale de l'appelant à l'égard de l'année d'imposition 2002, et ce, parce que les frais de déménagement sont déductibles dans l'année où ils sont engagés et dans l'année suivante.
+[12] Les années visées par une cotisation néant ne sont généralement pas assujetties à un examen de la Cour parce que, dans la plupart des cas, il n'en résulterait en pratique aucune conséquence - le contribuable ne doit pas d'argent et il ne peut donc pas être placé dans une meilleure situation. Toutefois, cette théorie ne tient pas dans les cas où, comme en l'espèce, il existe une possibilité que l'obligation du contribuable puisse être touchée (généralement parlant, en vue d'inclure des années postérieures à l'année visée par la cotisation néant). À mon avis, eu égard aux faits de l'affaire, je peux donc examiner l'année d'imposition 2001. En l'espèce, comme l'a dit la CAF dans l'arrêt Bruner, la détermination de la question de savoir quels frais de déménagement sont déductibles par le contribuable dans l'année visée par une cotisation néant (l'année 2001) peut « changer l'impôt qu'il doit payer » dans l'année 2002. Il s'agit donc d'un cas dans lequel il convient d'examiner une année d'imposition visée par une cotisation néant.
+[13] Quel est le montant qu'il convient de déduire au titre des frais de déménagement? Le paragraphe 62(1) de la Loi prévoit ce qui suit :
+Frais de déménagement - Un contribuable peut déduire dans le calcul de son revenu pour une année d'imposition les sommes qu'il a payées au titre des frais de déménagement engagés relativement à une réinstallation admissible dans la mesure où, à la fois :
+a) elles n'ont pas été payées en son nom relativement à sa charge ou à son emploi ou dans le cadre ou en raison de sa charge ou de son emploi;
+b) elles n'étaient pas déductibles par l'effet du présent article dans le calcul de son revenu pour l'année d'imposition précédente;
+c) leur total ne dépasse pas le montant applicable suivant :
+(i) dans le cas visé au sous-alinéa a)(i) de la définition de « réinstallation admissible » au paragraphe 248(1), le revenu du contribuable pour l'année tiré de son emploi au nouveau lieu de travail ou de l'exploitation de l'entreprise au nouveau lieu de travail, selon le cas,
+(ii) dans le cas visé au sous-alinéa a)(ii) de cette définition, le total des montants inclus dans le calcul du revenu du contribuable pour l'année par l'effet des alinéas 56(1)n) et o);
+d) les remboursements et allocations qu'il a reçus relativement à ces frais sont inclus dans le calcul de son revenu.
+Le paragraphe 62(3) de la Loi est ainsi libellé :
+Définition de « frais de déménagement » - Pour l'application du paragraphe (1), sont comprises dans les frais de déménagement toutes dépenses engagées au titre :
+a) des frais de déplacement (y compris les dépenses raisonnables pour repas et logement) engagés pour le déménagement du contribuable et des membres de sa maisonnée qui se transportent de l'ancienne résidence à la nouvelle résidence;
+b) des frais de transport et d'entreposage des meubles du contribuable qui doivent être transportés de son ancienne résidence à sa nouvelle résidence;
+c) des frais de repas et de logement, près de l'ancienne résidence ou de la nouvelle résidence, engagés par le contribuable et les membres de sa maisonnée pendant une période maximale de 15 jours;
+d) des frais de résiliation du bail en vertu duquel il était le locataire de son ancienne résidence;
+e) des frais relatifs à la vente de son ancienne résidence;
+f) lorsque le contribuable ou son époux ou conjoint de fait vend l'ancienne résidence par suite du déménagement, des frais, pour le contribuable, à l'égard des services juridiques relatifs à l'achat de la nouvelle résidence et des impôts, frais, droits et taxes (sauf toute taxe sur les produits et services ou taxe à la valeur ajoutée) applicables au transfert ou à l'enregistrement du droit de propriété de cette résidence;
+g) des intérêts, impôts fonciers, primes d'assurance et coûts du chauffage et des services publics relativement à l'ancienne résidence, jusqu'à concurrence de 5 000 $ ou, s'il est moins élevé, du total des dépenses de cette nature engagées par le contribuable pour la période, à la fois :
+(i) tout au long de laquelle l'ancienne résidence n'est ni ordinairement occupée par le contribuable ou par une autre personne qui y résidait habituellement avec lui immédiatement avant le déménagement, ni louée par le contribuable à une autre personne,
+(ii) au cours de laquelle des efforts sérieux sont faits en vue de vendre l'ancienne résidence;
+h) du coût de la révision de documents juridiques pour tenir compte de l'adresse de la nouvelle résidence du contribuable, du remplacement des permis de conduire et des certificats d'immatriculation de véhicules non commerciaux (à l'exclusion du coût de l'assurance-véhicule) et des connexion et déconnexion des services publics;
+il est toutefois entendu que le terme ne vise pas les frais (autres que les frais visés à l'alinéa f)) engagés par le contribuable pour l'acquisition de sa nouvelle résidence.
+Le paragraphe 248(1) définit l'expression « réinstallation admissible » comme suit :
+« réinstallation admissible » Réinstallation d'un contribuable relativement à laquelle les conditions suivantes sont réunies :
+a) elle est effectuée afin de permettre au contribuable :
+(i) soit d'exploiter une entreprise ou d'occuper un emploi à un endroit au Canada (appelé « nouveau lieu de travail » à l'article 62 et au présent paragraphe),
+(ii) soit de fréquenter, comme étudiant à temps plein inscrit à un programme de niveau postsecondaire, un établissement d'une université, d'un collège ou d'un autre établissement d'enseignement (appelé « nouveau lieu de travail » à l'article 62 et au présent paragraphe);
+b) la résidence que le contribuable habitait ordinairement avant la réinstallation (appelée « ancienne résidence » à l'article 62 et au présent paragraphe) et celle qu'il habitait ordinairement après la réinstallation (appelée « nouvelle résidence » à l'article 62 et au présent paragraphe) sont toutes deux situées au Canada;
+c) la distance entre l'ancienne résidence et le nouveau lieu de travail est supérieure d'au moins 40 kilomètres à la distance entre la nouvelle résidence et le nouveau lieu de travail [...]
+Le paragraphe 248(1) définit le mot « montant » comme suit :
+« montant » Argent, droit ou chose exprimés sous forme d'un montant d'argent, ou valeur du droit ou de la chose exprimée en argent [...]
+[14] À coup sûr, lorsque l'appelant a quitté son ancienne résidence pour s'installer dans sa nouvelle résidence, il y a eu « réinstallation admissible » pour l'application de la Loi. Il s'agit donc de savoir quelles déductions doivent être admises conformément au paragraphe 62(1) de la Loi.
+[15] Les frais de déménagement déduits par l'appelant et ceux que le ministre du Revenu national (le « ministre » ) a admis dans la nouvelle cotisation du 14 octobre 2003 et par la suite (à l'audience et après l'audience) ainsi qu'un montant additionnel admis par le présent jugement sont énumérés ci-dessous :
+Frais déduits par l'appelant
+Frais admis dans la nouvelle cotisation du 14 octobre 2003
+Frais admis par la suite
+Montant additionnel admis par le présent jugement
+Matériel d'emballage
+(entreposage) :
+500 $
+328,78 $
+Emballage et déménagement des meubles :
+9 500 $
+néant
+Logement temporaire et repas pendant 15 jours :
+6 715 $
+198,00 $
+Frais de vente de l'ancienne résidence
+[Commission à l'agent immobilier :
+3 416,20 $]
+3 416,20 $
+[Frais de services juridiques :
+515,74 $]
+515,74 $
+Frais d'achat de la nouvelle résidence :
+[Taxes payées pour l'enregistrement du droit de propriété :
+1 754,10 $]
+1 754,10 $
+[Frais de recherche d'exécution :
+33,00 $]
+33,00 $
+[Frais d'assurance du droit de propriété :
+170,00 $]
+170,00 $
+[Frais de clôture du praticien de l'immobilier :
+58,85 $]
+58,85 $
+[Frais d'enregistrement de l'hypothèque et de transfert :
+140,00 $]
+140,00 $
+[Frais d'inscription à l'ACHDU :
+598,00 $]
+598,00 $
+[Frais de services juridiques : 792,87 $]
+792,87 $
+Frais de connexion des services publics :
+[Électricité et eau :
+642 $]
+642,00 $
+[Frais de téléphone, Bell Canada
+95 $]
+55,00 $
+[Frais, Rogers Cable Vision :
+59,95 $]
+59,95 $
+Frais de déplacement des membres de la maisonnée :
+212,50 $
+106,25 $
+106,25 $
+Total :
+25 203,21 $
+7 960,54 $
+908,00 $
+106,25 $
+Le total des trois derniers montants, c'est-à-dire 7 960,54 $ + 908 $ + 106,25 $ est de 8 974,79 $.
+[16] L'appelant n'aurait pas dû être autorisé à déduire un montant de 500 $ pour le premier article, le « matériel d'emballage » , à l'exception du montant admis par le ministre, à savoir 328,78 $. L'appelant a témoigné que le matériel d'emballage comprenait des articles qu'une personne utiliserait normalement pour entreposer et transporter des meubles. De tels articles seraient normalement déductibles en vertu de l'alinéa 62(3)b), au titre : « de frais de transport et d'entreposage des meubles du contribuable qui doivent être transportés de son ancienne résidence à sa nouvelle résidence » , mais l'appelant n'a pas présenté de preuve devant la Cour afin d'établir qu'il a réellement engagé des frais en sus du montant de 328,78 $.
+[17] L'appelant cherche à déduire un montant de 9 500 $ à l'égard du travail fourni par sa femme et par la famille lorsqu'il s'est agi de transporter leurs possessions de l'ancienne résidence à la nouvelle résidence. L'appelant n'a pas eu recours à des déménageurs pour transporter ses possessions; son épouse et sa famille ont déménagé les effets. L'appelant explique comment il est arrivé au montant de 9 500 $ à l'égard des frais de déménagement et d'emballage : [traduction] « [...] j'ai ajouté toute la main-d'oeuvre, le temps et tout ce qu'il en aurait réellement coûté à ma famille, soit un montant de 9 500 $, afin de rassembler, d'emballer et de déménager les effets et de les déballer à Mississauga [...]. » De plus, l'appelant a appelé plusieurs entreprises de déménagement et a obtenu des estimations de ce qu'il en coûterait pour transporter ses meubles de l'ancienne résidence à la nouvelle résidence. Les estimations dont il a tenu compte dans son calcul lui ont permis de conclure qu'il lui en aurait coûté 9 500 $ pour déménager.
+[18] L'appelant n'a remis à son épouse et aux autres membres de la famille qui l'ont aidé à déménager aucune contrepartie en échange de leur aide. Le paragraphe 62(1) prévoit ce qui suit : « Un contribuable peut déduire dans le calcul de son revenu pour une année d'imposition les sommes qu'il a payées au titre des frais de déménagement [...] » [je souligne]. Selon le paragraphe 248(1) le mot « somme » a le même sens que « montant » , et le mot « montant » est défini comme suit : « Argent, droit ou chose exprimés sous forme d'un montant d'argent, ou valeur du droit ou de la chose exprimée en argent [...]. » En l'espèce, l'appelant n'a pas versé d'argent, de droit ou de chose exprimés sous forme d'un montant d'argent à son épouse ou à sa famille.
+[19] L'appelant cherche essentiellement à attribuer une valeur au temps et à l'énergie que son épouse et sa famille ont consacrés au déménagement. Il fait implicitement valoir que le fait de consacrer ses énergies et son travail, ou le fait que quelqu'un d'autre consacre son énergie pour le compte du contribuable, revient, aux fins de la déduction des frais de déménagement visés par la Loi, à payer des entreprises de déménagement pour le faire. Toutefois, le paragraphe 62(1) ne reconnaît pas la valeur attribuée en tant que dépense déductible; pour qu'une déduction puisse être effectuée, il faut qu'un montant ait été payé. En l'espèce, aucune somme d'argent n'a été dépensée, de sorte qu'aucune déduction ne peut être effectuée.
+[20] En ce qui concerne le logement temporaire et les repas pendant une période de 15 jours, l'appelant cherche à déduire un montant de 6 715 $. Sur ce montant, le ministre a admis un montant de 198 $, représentant les frais de repas de six personnes pour une journée (33 $ par personne). L'alinéa 62(3)c) permet la déduction des frais de repas et de logement, près de l'ancienne résidence ou de la nouvelle résidence, engagés par le contribuable et les membres de sa maisonnée pendant une période maximale de 15 jours, mais l'appelant n'a pas produit de preuve montrant qu'il avait de fait engagé des dépenses s'élevant au montant déduit. À l'instruction, l'appelant a affirmé que sa famille et lui habitaient chez des amis près de la nouvelle résidence, qu'il avait payé ces amis pour les avoir logés et qu'il avait pris la plupart des repas dans des restaurants. Toutefois, aucun reçu n'a été produit et, à mon avis, le montant de 198 $ qui a été admis par le ministre pour le logement temporaire et les repas est exact.
+[21] Le ministre a admis à juste titre la déduction du plein montant des [traduction] « frais de vente de l'ancienne résidence » , à savoir 3 931,94 $ (c'est-à-dire 3 416,20 $ plus 515,74 $).
+[22] En ce qui concerne les frais d'achat de la nouvelle résidence, le ministre a admis avec raison la déduction du plein montant.
+[23] Le ministre a eu raison d'autoriser l'appelant à déduire les frais énumérés à l'article 6. Les frais de connexion des services publics ont été admis au complet, mais les frais de téléphone ont été ramenés de 95 à 55 $ (à mon avis, avec raison), à cause de l'absence de reçus adéquats.
+[24] À mon avis, l'appelant peut déduire tous les frais de déplacement des membres de la maisonnée. Le paragraphe 62(3) permet la déduction des « frais de déplacement [...] engagés pour le déménagement du contribuable et des membres de sa maisonnée qui se transportent de l'ancienne résidence à la nouvelle résidence » . Le ministre a autorisé l'appelant à déduire un montant de 106,25 $ pour les frais de déplacement des membres de la maisonnée (une voiture à 42,5 cents x 250 km). L'appelant cherche à déduire un montant de 212,50 $ parce que les membres de la maisonnée possèdent deux véhicules. Étant donné que l'appelant s'est rendu à son nouveau lieu de travail avant le reste de sa famille, il aurait dû être autorisé à déduire un montant de 106,25 $ pour chaque voiture. Selon l'hypothèse qui a été émise, l'appelant et sa famille se sont rendus au nouveau lieu de travail dans des voitures distinctes. Compte tenu de la preuve, je crois que cette hypothèse est raisonnable.
+[25] À l'instruction, l'appelant a également mentionné la déduction de ce qu'il en avait coûté pour planter des arbres, et pour installer un hangar sur sa nouvelle propriété ainsi que pour une voie d'accès. Aucune de ces dépenses n'est déductible au titre des frais de déménagement.
+[26] En fin de compte, l'appelant devrait être autorisé à déduire un montant de 8 974,79 $ au titre des frais de déménagement pour l'année d'imposition 2001. Étant donné que ce montant est inférieur au revenu gagné par l'appelant à son nouveau lieu de travail en 2001 (14 140 $), il n'y a pas de montant à reporter à l'année d'imposition 2002 et l'appelant n'a donc pas droit à des déductions au titre des frais de déménagement pour l'année d'imposition 2002.
+[27] En outre, l'obligation fiscale de l'appelant à l'égard de l'année d'imposition 2001 demeure la même - elle est nulle.
+[28] Les questions accessoires suivantes ont également été soulevées. L'intimée allègue que l'appelant a peut-être reçu une allocation ou un remboursement de l'employeur au nouveau lieu de travail relativement à tout ou partie des frais de déménagement qui ont été déduits. L'intimée n'a pas avancé de preuve sur ce point. Même si l'appelant a reçu une allocation, elle ne serait pas directement pertinente dans ce cas-ci. Le paragraphe 62(1) prévoit simplement que le contribuable doit inclure l'allocation dans son revenu. Il n'influe pas sur la déductibilité des frais de déménagement. Quant à la possibilité que l'appelant ait été remboursé de certains frais de déménagement, la Cour ne dispose d'aucune preuve en ce sens.
+[29] L'appelant a soutenu que la Cour devrait ordonner au ministre de payer des intérêts parce qu'il a tardé à envoyer par la poste un remboursement de taxe, ce qui n'a rien à voir avec les frais de déménagement. La Cour n'a pas compétence pour ordonner au ministre de payer des intérêts parce que la Loi ne lui confère pas une telle compétence. Il ne peut donc pas être fait droit à la demande de l'appelant sur ce point.
+[30] Il a également été fait mention de crédits d'impôt de l'Ontario et des intérêts connexes. Il est clair que la Cour n'a pas compétence pour entendre un appel portant sur des crédits d'impôt de l'Ontario et qu'elle ne peut pas instruire une demande à ce sujet.
+[31] En conclusion :
+1. L'appel concernant l'année d'imposition 2001 ne doit pas être annulé parce qu'il se rapporte à une année visée par une cotisation néant.
+2. L'appelant a le droit de déduire des frais de déménagement d'un montant de 8 975,19 $ pour l'année d'imposition 2001.
+3. L'appelant n'a pas le droit de déduire des frais de déménagement pour l'année d'imposition 2002.
+4. Le fait que l'appelant a censément reçu une allocation ou un remboursement de l'employeur au nouveau lieu de travail ne devrait pas l'empêcher de déduire une partie des frais de déménagement.
+5. La Cour ne peut pas ordonner au ministre de verser des intérêts à l'appelant parce que le ministre a tardé à lui remettre un chèque de remboursement de taxe.
+6. La Cour n'a pas compétence à l'égard des crédits d'impôt de l'Ontario.
+Signé à Ottawa, Canada, ce 26e jour de novembre 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 19e jour de juillet 2005.
+Sara Tasset
+RÉFÉRENCE :
+2004CCI757
+No DU DOSSIER DE LA COUR :
+2004-1196(IT)I
+INTITULÉ :
+Navin Joshi et S.M.R.
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 14 septembre 2004
+MOTIFS DU JUGEMENT :
+L'honorable T. O'Connor
+DATE DU JUGEMENT :
+Le 26 novembre 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Craig Maw
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

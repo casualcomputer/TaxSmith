@@ -1,0 +1,169 @@
+Title: Voyer c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28118/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-666-28118-voyer-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-09-23
+
+# Voyer c. M.R.N.
+
+- Citation: 2003 CCI 666
+- Decision date: 2003-09-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1638, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Voyer c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-23
+Référence neutre
+2003 CCI 666
+Numéro de dossier
+2002-4204(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-4204(EI)
+ENTRE :
+DENIS VOYER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 27 août 2003 à Trois-Rivières (Québec)
+Devant : L'honorable J.F. Somers, juge suppléant
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Sébastien Gagné
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour de septembre 2003.
+«J.F. Somers»
+Juge suppléant Somers
+Référence : 2003CCI666
+Date : 20030923
+Dossier : 2002-4204(EI)
+ENTRE :
+DENIS VOYER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers
+[1] Cet appel a été entendu à Trois-Rivières (Québec), le 27 août 2003.
+[2] L'appelant interjette appel de la décision du ministre du Revenu national (le «Ministre»), selon laquelle l'emploi exercé durant la période en cause, soit du 1er janvier au 31 décembre 2000, auprès de Luc Roberge faisant affaires sous la raison sociale Mon Gym, le payeur, était assurable parce que cet emploi rencontrait les exigences d'un contrat de louage de services en vertu de l'alinéa 5(1)a) de la Loi sur l'assurance-emploi (la «Loi»); il y avait une relation employeur-employé entre lui et le payeur.
+[3] Le paragraphe 5(1) de la Loi se lit en partie comme suit :
+Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+[4] Le fardeau de la preuve incombe à l'appelant. Ce dernier se doit d'établir, selon la prépondérance de la preuve, que la décision du Ministre est mal fondée en fait et en droit. Chaque cas est un cas d'espèce.
+[5] Le Ministre s'est fondé, pour rendre sa décision, sur les présomptions de fait suivantes lesquelles ont été admises ou niées par l'appelant :
+a) le payeur a enregistré la raison sociale «Mon Gym» le 21 juillet 1999; (admis)
+b) le payeur était le propriétaire unique de l'entreprise; (admis)
+c) le payeur exploitait un centre d'entraînement physique «Mon Gym» et deux cliniques chiropratiques; (admis)
+d) l'appelant possède un baccalauréat en éducation physique; (admis)
+e) l'appelant avait été engagé comme éducateur physique par le payeur; (nié)
+f) les tâches de l'appelant consistaient à monter des programmes spécialisés et à assister les clients; (admis)
+g) les clients étaient les clients du payeur; (nié)
+h) l'appelant avait un horaire de travail qui était établi par le payeur, après qu'il eût obtenu les disponibilités de l'appelant; (nié)
+i) l'appelant ne pouvait pas s'absenter sans avertir le payeur; (nié)
+j) l'appelant remplissait une carte de temps et devait noter toutes les heures travaillées quotidiennement; (admis)
+k) il y avait un lien de subordination entre l'appelant et le payeur; (nié)
+l) l'appelant rendait des services de 30 à 50 heures par semaine au payeur, selon les saisons et l'achalandage; (admis)
+m) l'appelant était rémunéré en fonction du nombre d'heures travaillées; (admis)
+n) l'appelant recevait une rémunération de 10 $ l'heure du payeur; (admis)
+o) l'appelant ne facturait pas les clients du payeur; (admis)
+p) l'appelant n'engageait aucune dépense reliée à ses tâches autre que fournir ses vêtements et souliers de sport; (admis)
+q) l'appelant n'avait aucune chance de profit ou risque de perte mis à part le salaire versé par le payeur; (nié)
+r) le payeur fournissait à l'appelant les locaux et tout l'équipement d'entraînement utilisé par les clients du payeur; (admis)
+s) le travail de l'appelant faisait partie intégrante des activités du payeur. (nié)
+[6] Seuls l'appelant et Louise Dessureault, agent des appels auprès de l'Agence des douanes et du revenu du Canada, ont témoigné à l'audition de cet appel.
+[7] Le payeur, propriétaire unique de l'entreprise, a enregistré la raison sociale «Mon Gym» le 21 juillet 1999. Il exploitait un centre d'entraînement physique et deux cliniques chiropratiques.
+[8] L'appelant possède un baccalauréat en éducation physique; selon lui, ses tâches consistaient à monter des programmes spécialisés et à assister les clients qui étaient ceux du payeur.
+[9] L'appelant a déclaré qu'il travaillait de 5 à 7 jours par semaine à des heures irrégulières qu'il déterminait lui-même. Il a nié qu'il ne pouvait pas s'absenter sans en avertir le payeur et a ajouté que ce dernier était rarement au gym.
+[10] L'appelant travaillait de 30 à 50 heures par semaine, selon les saisons et l'achalandage. Il remplissait une carte de temps, y notait les heures travaillées à chaque jour et facturait le payeur qui le rémunérait 10 $ l'heure. Pour l'année 2000, l'appelant a reçu la somme de 19 655 $ du payeur à titre de rémunération.
+[11] En plus de la rémunération que lui a versée le payeur, l'appelant a reçu la somme de 500 $ qu'il a gagné dans le domaine de la musique. Durant la période en cause, l'appelant avait comme autres occupations, entre autres, des cours universitaires et faisait du bénévolat comme entraîneur.
+[12] L'appelant n'encourait aucune dépense reliée à son emploi autre que ses vêtements et souliers de sport. Le payeur fournissait à l'appelant les locaux et tout l'équipement d'entraînement utilisé par les clients du payeur.
+[13] En contre-interrogatoire, l'appelant a affirmé que les heures d'ouverture du gym étaient de 6 h à 22 h.
+[14] Le payeur étant rarement sur les lieux, un certain Michel Couturier s'occupait du gym. L'appelant comptabilisait ses heures travaillées, les remettait au payeur et recevait sa rémunération selon ce nombre d'heures. Les clients s'abonnaient au gym; il s'agissait des clients du payeur et non ceux de l'appelant et ce dernier ne recevait que son salaire selon le nombre d'heures travaillées.
+[15] L'appelant a affirmé qu'il n'avait aucun employé et que c'est le payeur qui détenait une assurance-responsabilité.
+[16] L'agente des appels Louise Dessureault a relaté les faits sur lesquels le Ministre s'est basé pour rendre sa décision dont, entre autres :
+- le travailleur consultait le payeur quant à l'état de santé des clients du gym;
+- le travailleur ne pouvait s'adjoindre des tiers sans le consentement du payeur.
+[17] Ce témoin a contacté par téléphone Marc-Antoine Deschamps, représentant du payeur, les 12 et 18 septembre 2002. Elle a pris connaissance de l'avis d'appel du payeur (pièce I-2) quant à l'assurabilité de l'emploi de l'appelant durant la période en cause. Il est à noter que le payeur avait interjeté appel de la décision du Ministre et qu'il s'est par la suite désisté (voir l'avis de désistement produit sous la cote I-5).
+[18] Cette agente a communiqué avec l'appelant et a recueilli et noté les faits suivants dans son rapport sur un appel déposé sous la cote I-4 :
+- En 2000 il a travaillé au centre de conditionnement physique du payeur. Il faisait de l'entraînement.
+- Il s'occupait de la clientèle du gym et non de sa clientèle personnelle.
+- Il ne déterminait pas lui-même ses heures de travail. C'est le centre qui déterminait son horaire selon les clients. Son horaire de travail dépendait de la clientèle du gym.
+- Il devait demander et avertir s'il prévoyait prendre un congé et s'il voulait prendre une semaine de congé il devait la prendre l'été, puisque l'été c'est plus tranquille au centre.
+- Il travaillait de 40 à 50 heures par semaine durant l'hiver et 30 heures durant l'été.
+- Il devait remettre une carte de temps au payeur à la fin de chaque semaine, rapportant ses heures travaillées.
+- Il confirme son taux horaire, l'équipement fournit par le payeur, et le paiement de ses heures par chèque du payeur à chaque semaine.
+- Il ne croit qu'il aurait pu engager un étranger pour le remplacer. S'il s'absentait, il était remplacé par quelqu'un qui travaillait au gym.
+- Il ne louait pas les locaux du gym.
+- Il fournissait ses vêtements et souliers de sport.
+[19] Ces affirmations faites à l'agente des appels n'ont pas été niées par l'appelant à l'audition de son appel.
+[20] Selon l'agente des appels, l'appelant travaillait sous la supervision de Michel Couturier à qui l'appelant donnait ses disponibilités après quoi les heures de travail de l'appelant étaient établies. De plus, les clients étaient ceux du payeur et non ceux de l'appelant et c'est le payeur qui détenait une assurance‑responsabilité et non l'appelant. Les équipements et locaux étaient fournis par le payeur; l'appelant ne fournissait que ses vêtements et souliers de sport.
+[21] Le payeur n'a démontré aucun intérêt à déterminer le statut de l'appelant Denis Voyer.
+[22] Afin de distinguer le contrat de louage de services du contrat d'entreprise (travailleur autonome), il faut examiner l'ensemble des divers éléments qui composent la relation entre les parties. L'intention des parties n'est pas nécessairement le facteur déterminant de cette distinction.
+[23] Il est clair que le degré de contrôle exercé par l'employeur sur le travail de l'employé demeure le critère essentiel pour déceler le lien de subordination et ce degré varie selon les circonstances.
+[24] Une jurisprudence constante reconnaît quatre éléments de base pour distinguer un contrat de louage de services d'un contrat d'entreprise : a) le degré ou absence de contrôle exercé par l'employeur; b) la propriété des outils; c) les chances de bénéfice et les risques de perte; et d) le degré d'intégration du travail de l'employé dans l'entreprise de l'employeur (voir Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553).
+a) le contrôle
+[25] L'appelant détenait un baccalauréat en éducation physique : il était donc un spécialiste dans ce domaine et avait une certaine liberté d'appliquer ses connaissances à monter des programmes et assister les clients.
+[26] Le payeur était le propriétaire unique de l'entreprise et détenait une assurance‑responsabilité pour protéger ses clients. Il avait intérêt à garder un certain contrôle sur les activités de son entreprise.
+[27] La preuve a démontré que les clients étaient ceux du payeur et que ceux-ci devaient être abonnés pour suivre un entraînement; l'appelant était un entraîneur des clients du payeur.
+[28] Les heures d'ouverture du gym étaient de 6 h à 22 h. L'appelant devait donner ses disponibilités au surveillant Michel Couturier et ce dernier établissait les heures de travail de l'appelant. Si l'appelant devait s'absenter de son travail il se devait d'en aviser Michel Couturier qui, lui, se chargeait de trouver un remplaçant. L'appelant remplissait une carte de temps en y notant toutes les heures travaillées et le payeur le rémunérait à un taux horaire de 10 $.
+[29] De ces faits, il est évident qu'il existait un lien de subordination suffisant entre le payeur et l'appelant pour conclure que l'appelant était un employé.
+b) la propriété des outils
+[30] Le payeur fournissait les locaux et tout l'équipement d'entraînement nécessaire utilisé par l'appelant dans le cadre de son travail. L'appelant n'encourait aucun frais pour l'utilisation de l'équipement du payeur.
+[31] Selon ce critère, il existait entre les parties un contrat de louage de services.
+c) les chances de profit et risques de perte
+[32] L'appelant a reçu un salaire du payeur basé sur les heures travaillées; le taux horaire était de 10 $. L'appelant était assuré d'un revenu provenant uniquement du payeur; donc il n'a assumé aucune perte dans l'accomplissement de son travail. De ce critère, on peut donc conclure que l'appelant était un employé.
+d) le degré d'intégration
+[33] L'entreprise est celle du payeur et non celle de l'appelant. Le travail de l'appelant était exécuté au bénéfice du payeur et des clients de celui-ci. L'appelant était bien intégré aux opérations de l'entreprise du payeur.
+[34] D'après ce critère, l'appelant était un employé du payeur.
+[35] Compte tenu de l'ensemble de la preuve et des critères énoncés ci-haut, l'emploi de l'appelant durant la période en cause était assurable puisqu'il rencontrait les exigences d'un contrat de louage de services en vertu de l'alinéa 5(1)a) de la Loi; il y avait une relation employeur-employé.
+[36] L'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Ottawa, Canada, ce 23e jour de septembre 2003.
+« J.F. Somers »
+Juge suppléant Somers
+RÉFÉRENCE :
+2003CCI666
+No DU DOSSIER DE LA COUR :
+2002-4204(EI)
+INTITULÉ DE LA CAUSE :
+Denis Voyer et M.R.N.
+LIEU DE L'AUDIENCE :
+Trois-Rivières (Québec)
+DATE DE L'AUDIENCE :
+le 27 août 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable J.F. Somers
+juge suppléant
+DATE DU JUGEMENT :
+Le 23 septembre 2003
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimé :
+Me Sébastien Gagné
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

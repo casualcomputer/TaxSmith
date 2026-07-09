@@ -1,0 +1,267 @@
+---
+title: "9041-6868 Québec Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26358/index.do"
+last_modified: "2004-09-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 648"
+citation2: ""
+neutral_citation: "2004 CCI 648"
+decision_date: "2004-09-27"
+language: "fr"
+item_id: "26358"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3371
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:59:24.417000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7b63e2aad0f2ff9cbf085d91cf4f0302e0e3ff25ce6a993b1f43fa605e4660b9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9041-6868 Québec Inc. c. M.R.N.
+
+- Citation: 2004 CCI 648
+- Decision date: 2004-09-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3371, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9041-6868 Québec Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-27
+Référence neutre
+2004 CCI 648
+Numéro de dossier
+2003-1279(EI)
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-1279(EI)
+ENTRE :
+9041-6868 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+____________________________________________________________________
+Appel entendu le 26 janvier 2004 à Montréal (Québec)
+Devant : L'honorable juge P. R. Dussault
+Comparutions :
+Avocat de l'appelante :
+Me Jean-Félix Racicot
+Avocate de l'intimé :
+Me Mélanie Bélec
+____________________________________________________________________
+JUGEMENT
+L'appel, en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi concernant une décision rendue par le ministre du Revenu national ( « Ministre » ) en date du 8 janvier 2003, est admis et la décision du Ministre est modifiée en ce que monsieur Hermann Tambeau a occupé un emploi assurable auprès de l'appelante 9041-6868 Québec Inc., pour la période débutant le 31 août 2000 et se terminant le 12 avril 2002, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 27e jour de septembre 2004.
+« P.R. Dussault »
+Juge Dussault
+Référence : 2004CCI648
+Date : 20040927
+Dossier : 2003-1279(EI)
+ENTRE :
+9041-6868 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] Il s'agit d'un appel d'une décision de l'intimé en date du 8 janvier 2003 selon laquelle monsieur Hermann Tambeau (le « travailleur » ) a occupé un emploi assurable pendant la période du 18 août 2000 au 12 avril 2002, au motif qu'il était lié à l'appelante par un contrat de louage de services au cours de la période en litige. De plus, la décision indique qu' « aucun document ne valide le fait que Hermann Tambeau avait plus de 40 % des actions à un moment donné au cours de la période en litige » .
+[2] L'appelante conteste la décision rendue en soumettant que monsieur Hermann Tambeau contrôlait plus de 40 % des actions comportant le droit de vote du capital-actions de l'appelante et qu'il n'était pas lié à l'appelante par un contrat de louage de services au cours de la période en litige.
+[3] Pour rendre sa décision, le ministre du Revenu national (le « Ministre » ) s'est fondé sur les hypothèses de fait énoncées aux alinéas a) à s) du paragraphe 14 de la Réponse à l'avis d'appel. Ces alinéas se lisent :
+a) l'appelante a été constituée en société le 26 septembre 1996;
+b) selon le registre de l'Inspecteur Général des Institutions Financières les actionnaires enregistrés sont les suivants :
+Alphonse Verreault
+Symphony Telecom
+Michel Mondoux
+actionnaire majoritaire
+deuxième actionnaire
+troisième actionnaire
+c) l'appelante prétend que le travailleur aurait détenu et contrôlé, durant la période en litige, plus de 40 % de ses actions donnant droit de vote alors que, malgré les demandes de l'intimé, elle n'a pas fourni à l'intimé son livre de la compagnie;
+d) durant la période en litige, Michel Mondoux agissait comme prête-nom pour le travailleur;
+e) durant la période en litige, le travailleur détenait, par l'entremise de Michel Mondoux, un nombre indéterminé d'actions votantes de l'appelante sur un nombre indéterminé d'actions émises par l'appelante;
+f) durant la période en litige, le travailleur n'a jamais contrôlé directement ou indirectement plus de 40 % des actions votantes de l'appelante;
+g) l'appelante faisait affaires sous le nom de plusieurs raisons sociales, entre autres celle de « Directory Management America Point Com » ;
+h) l'appelante exploitait une entreprise de vente de publicité pour des annuaires téléphoniques;
+i) le 18 août 2000, le travailleur avait été engagé pour 4 ans aux termes d'un contrat écrit, comme vice-président exécutif de l'appelante;
+j) les tâches principales du travailleur étaient de recruter des acheteurs d'espace publicitaire pour les bottins téléphoniques;
+k) aux termes du contrat écrit, le travailleur recevait un salaire mensuel de 6 000 $ la première année, de 7 916 $ la deuxième année, de 8 075 $ la troisième année et de 8 237 $ la quatrième année;
+l) le travailleur était rémunéré le 1er et le 15 de chaque mois;
+m) l'appelante accordait au travailleur 20 journées de congé payé par année;
+n) le travailleur devait faire des rapports régulièrement à l'appelante sur l'état des ventes et les clients rencontrés;
+o) l'appelante fournissait une automobile et un téléphone cellulaire au travailleur;
+p) l'appelante remboursait les dépenses d'hébergement du travailleur en plus de lui fournir un per diem pour les séjours éloignés;
+q) le travailleur n'assumait aucun frais dans le cadre de ses fonctions avec l'appelante;
+r) le travailleur n'avait aucune possibilité de perte ou de gain lors de ses fonctions chez l'appelante;
+s) les fonctions du travailleur étaient parfaitement intégrés aux activités de l'appelante.
+[4] La première question est donc celle de savoir si le travailleur Hermann Tambeau était lié à l'appelante par un contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi sur l'assurance-emploi (la « Loi » ) au cours de la période du 18 août 2000 au 12 avril 2002.
+[5] Si la réponse à cette première question est positive, il s'agira de déterminer si l'emploi est par ailleurs exclu des emplois assurables en vertu de l'alinéa 5(2)b) de la Loi au motif que le travailleur contrôlait plus de 40 % des actions avec droit de vote de l'appelante.
+[6] D'abord, il importe de situer cette affaire dans son contexte.
+[7] Me Pierre Lupien et monsieur Alphonse Verreault ont témoigné pour l'appelante. Monsieur Clermont Poulin, de l'Agence des douanes et du revenu du Canada ( « ADRC » ), a témoigné pour l'intimé.
+[8] Me Pierre Lupien s'est décrit comme conseiller juridique de l'appelante à compter de juin ou juillet 2000. Selon lui, l'appelante, dont les actions étaient jusqu'alors détenues par Michel Mondoux, était inactive depuis quelques années. Messieurs Verreault, Mondoux et Tambeau qui désiraient s'associer en affaires pour vendre de la publicité dans les annuaires téléphoniques (pages jaunes), auraient alors demandé une modification du capital-actions. Suite à la modification demandée, 4 000 000 d'actions de catégorie A, comportant le droit de vote, furent alors émises le 25 juillet 2000 selon la répartition suivante :
+Michel Mondoux
+Alphonse Verreault
+Michel Mondoux
+- Certificat no 6 =
+- Certificat no 7 =
+- Certificat no 8 =
+1 900 000 actions
+1 900 000 actions
+200 000 actions
+[9] Selon Me Lupien, les 1 900 000 actions représentées par le certificat no 6 au nom de Michel Mondoux appartenaient en réalité à Hermann Tambeau qui était à l'époque un failli non libéré. Ainsi, monsieur Mondoux aurait agi comme prête-nom pour monsieur Tambeau à l'égard de ces 1 900 000 actions.
+[10] Comme les actionnaires recherchaient un financement additionnel pour démarrer l'entreprise, un groupe de Toronto manifesta son intérêt et une société du nom de Symphony Telecom Corp. ( « Symphony » ) accepta d'investir 500 000 $ en considération de l'émission de 4 163 265 actions de catégorie A à son nom, ce qui avait pour effet de lui assurer le contrôle de l'appelante avec 51.02 % des droits de vote.
+[11] Les actions émises à Symphony le 31 août 2000 sont représentées par les certificats suivants :
+Certificat no 9 =
+Certificat no 10 =
+Certificat no 11 =
+Certificat no 12 =
+1 648 320 actions
+824 160 actions
+824 160 actions
+866 625 actions
+[12] Le montant de 500 000 $ était payable par Symphony à raison de 200 000 $ comptant et 100 000 $ à chacune des dates suivantes : le 30 septembre, le 31 octobre et le 30 novembre 2000. Symphony a payé la somme de 200 000 $ et a acquitté le premier versement de 100 000 $ le 30 septembre 2000. Symphony a fait défaut d'acquitter le versement de 100 000 $ dû le 31 octobre 2000 ainsi que celui de 100 000 $ dû le 30 novembre 2000. D'ailleurs, elle a été poursuivie par l'appelante pour les 200 000 $ impayés et jugement a été rendu contre elle le 21 février 2003 (C.S. district de Longueuil, no : 505-17-001186-024).
+[13] Le 3 avril 2001, l'appelante a émis 1 665 306 nouvelles actions de catégorie A à monsieur Alphonse Verreault. Ces actions sont représentées par le certificat no 13.
+[14] Le 3 avril 2001 également, le certificat no 6 représentant les 1 900 000 actions au nom de Michel Mondoux a été annulé et les actions ont été réparties comme suit :
+Michel Mondoux
+Michel Mondoux
+Bala Capital Management
+Teltech Capital Management
+- Certificat no 14 =
+- Certificat no 15 =
+- Certificat no 16 =
+- Certificat no 17 =
+940 000 actions
+834 000 actions
+63 000 actions
+63 000 actions
+[15] On ne sait rien concernant les transactions ayant donné lieu à cette nouvelle répartition des 1 900 000 actions antérieurement représentées par le certificat no 6 au nom de Michel Mondoux.
+[16] Dans un affidavit daté du 23 novembre 2001, monsieur Tambeau a déclaré être propriétaire des 940 000 actions représentées par le certificat no 14 au nom de Michel Mondoux et qu'une procuration aurait été donnée à monsieur Alphonse Verreault concernant le droit de vote rattaché à ces actions (pièce A-5).
+[17] Par ailleurs, le 12 avril 2002, lors d'un interrogatoire avant défense opposant monsieur Mondoux à l'appelante, celui-ci a simplement déclaré sans plus de précisions que certaines des actions qu'il détenait appartenaient à monsieur Tambeau (pièce A-6).
+[18] Selon le Rapport CPT 110 de monsieur Poulin de l'ADRC, monsieur Tambeau lui aurait déclaré, lors d'une entrevue en date du 16 décembre 2002, que 12 % seulement des actions étaient détenues pour lui sous un prête-nom. Toutefois, lors de la même entrevue monsieur Tambeau aurait déclaré que lui-même n'avait rien investi dans la compagnie mais que sa conjointe y avait investi 40 000 $ (pièce I-3, page 4).
+[19] Finalement, en date du 10 décembre 2001, l'appelante a émis 7 000 000 nouvelles actions de catégorie A à monsieur Alphonse Verreault. Ces actions sont représentées par le certificat no 18.
+[20] Les informations qui précèdent proviennent en grande partie du registre « Compte de capital-actions émis et payé » transmis suite à ma demande par l'avocat de l'appelante après l'audition de la présente affaire. Je dois noter ici que la répartition des actions du capital-actions de l'appelante indiquée par monsieur Tambeau à monsieur Clermont Poulin de l'ADRC lors d'une rencontre survenue le 16 décembre 2002, est complètement différente de celle indiquée ci-haut et ne correspond pas au registre transmis par l'avocat de l'appelante (voir pièce I-3, page 4).
+[21] Qu'en est-il maintenant de la relation entre l'appelante et monsieur Tambeau en ce qui concerne le travail de ce dernier?
+[22] Un contrat d'emploi a été signé le 18 août 2000 entre monsieur Tambeau, désigné comme vice-président exécutif et l'appelante représentée par son président Alphonse Verreault. D'une durée de quatre ans, ce contrat prévoit une rémunération mensuelle fixe payable à toutes les deux semaines, un bonus en fonction des nouvelles affaires transigées ainsi qu'une commission sur les ventes brutes (pièce I-1).
+[23] Selon monsieur Verreault, le travail de monsieur Tambeau consistait essentiellement à « développer les ventes » ce qu'il n'aurait pas fait selon lui. Quant au contrat, c'est à la demande de Symphony qu'un contrat semblable aurait été signé avec les trois actionnaires initiaux soit lui-même, monsieur Mondoux et monsieur Tambeau de façon à s'assurer de la continuité des services de ces personnes importantes pour l'entreprise de l'appelante. Monsieur Verreault a souligné que le contrat signé était valable pour autant que Symphony remplissait ses propres obligations ce qu'elle n'a pas fait puisqu'elle n'a pas totalement acquitté le prix des actions émises à son nom.
+[24] Par ailleurs, un document daté du 1er avril 2000 et signé par messieurs Verreault, Mondoux et Tambeau fait référence au contrat d'emploi signé par chacun d'eux et signale qu'il est pleinement exécutoire en autant que les objectifs du plan d'affaires sont rencontrés. Il y est stipulé que si les objectifs ne sont pas rencontrés, la révision du salaire sera fonction de la capacité de l'appelante à rencontrer ses obligations.
+[25] Il est manifeste que des différends sont survenus assez tôt entre les trois principaux intéressés quant à la façon de financer les activités de l'appelante. Il est également évident que d'autres conflits entre ces individus ont donné lieu à plusieurs actions en justice.
+[26] Ainsi, selon monsieur Verreault, monsieur Tambeau n'aurait accompli aucun travail pour l'appelante à compter de novembre 2001. Prétextant vouloir travailler de sa résidence pour des raisons de santé, monsieur Tambeau aurait, selon monsieur Verreault, tenté de démarrer une entreprise concurrente de concert avec Symphony. Ces activités parallèles de monsieur Tambeau se seraient poursuivies jusqu'en avril 2002. Curieusement, monsieur Verreault a affirmé que monsieur Tambeau n'avait de compte à rendre à personne en ce qui concerne son travail au service de l'appelante.
+[27] Selon monsieur Verreault, monsieur Tambeau n'était pas payé régulièrement et il aurait bénéficié d'avances en fonction des capacités de payer de l'appelante. De plus, il n'aurait rien reçu durant les mois de février et mars 2001. Aucun document ou registre de quelque nature que ce soit n'a été soumis en preuve au soutien de ces affirmations concernant la rémunération de monsieur Tambeau.
+[28] Le 12 avril 2002, l'appelante obtenait un jugement interlocutoire contre Michel Mondoux et Hermann Tambeau (pièce A-3). Le jugement est dans les termes suivants :
+[...]
+ORDONNE aux défendeurs Michel Mondoux, Hermann Tambeau et 9111-2482 Québec Inc. pour une période de 10 jours
+DE NE PAS solliciter de clientèle désirant placer de la publicité annuaire;
+DE NE PAS agir ou chercher à agir comme agence de placement de publicité annuaire (CMR);
+DE REMETTRE à la demanderesse toutes les informations confidentielles, listes de clients, appartenant à la demanderesse;
+DE REMETTRE les clefs du local de la demanderesse, ainsi que la possession et les clefs du véhicule Oldsmobile Aurora de la demanderesse qui était fourni au défendeur Tambeau;
+DE REMETTRE à la demanderesse copie intégrale du disque dur de l'ordinateur du défendeur Tambeau, ainsi que le téléphone cellulaire que la demanderesse lui avait fourni ayant comme numéro (514) 707-9835;
+[...]
+[29] Par ailleurs, l'appelante a poursuivi sa demande d'injonction contre messieurs Mondoux et Tambeau dans le but de les empêcher de dévoiler des informations confidentielles obtenues jusqu'alors et de les forcer à respecter les clauses de non-divulgation et de non-compétition inscrites à leur contrat de travail (pièce I-1). Le jugement rendu en faveur de l'appelante le 24 avril 2002, ordonne en plus à monsieur Tambeau de remettre une copie intégrale du disque dur de son ordinateur et de tout autre document dont il avait la possession ou l'usage lorsqu'il était en fonction chez l'appelante.
+[30] Par la suite, monsieur Tambeau a été reconnu coupable d'outrage au tribunal le 4 avril 2003. Le jugement sur la sanction a été rendu le 5 juin 2003.
+[31] Monsieur Clermont Poulin de l'ADRC a pour sa part recueilli un certain nombre d'informations concernant les conditions de travail de monsieur Tambeau (pièce I-3). D'abord, lors d'une conférence téléphonique avec monsieur Verreault et son avocat Me Jean-Félix Racicot représentant l'appelante, monsieur Poulin a appris que celle-ci fournissait une automobile et un téléphone cellulaire à monsieur Tambeau, que celui-ci était également remboursé de ses frais de séjour et qu'il bénéficiait d'un « per diem » de 40 $ par jour pour ses repas. Quant à sa rémunération, les représentants de l'appelante auraient déclaré que monsieur Tambeau avait bénéficié d'avances sur demande, mais n'auraient pu expliquer les différentes sommes qui lui avaient été remises.
+[32] Les représentants de l'appelante auraient également déclaré à monsieur Poulin que l'appelante n'exerçait aucun contrôle sur monsieur Tambeau et qu'ils n'avaient aucune connaissance des allées et venues de celui-ci. Selon les représentants de l'appelante, monsieur Tambeau faisait ce qu'il voulait au sein de l'entreprise. Bien que ses tâches consistaient à recruter des clients et amener sa clientèle personnelle à l'entreprise, il n'aurait, dans les faits, rapporté que 500 000 $ sur les 6 000 000 $ projetés puisqu'il travaillait pour d'autres entreprises. Lors de réunions, monsieur Tambeau fournissait une liste de clients, mais les représentants de l'appelante ont affirmé qu'ils n'avaient aucun moyen de vérifier.
+[33] Quant aux mauvaises créances, les représentants de l'appelante auraient déclaré à monsieur Poulin que c'est celle-ci qui en assumait la responsabilité et qu'aucune somme n'avait été imputée à monsieur Tambeau à cet égard puisque celui-ci n'avait jamais reçu de commissions, mais uniquement des avances.
+[34] Me Racicot aurait également déclaré à monsieur Poulin que monsieur Tambeau détenait 47.5 % des actions de l'appelante de juillet 2000 à avril 2001. Toutefois, aucun document n'aurait été soumis à l'appui de cette déclaration.
+[35] Monsieur Poulin a également eu une entrevue avec monsieur Tambeau en date du 16 décembre 2002.
+[36] Selon le rapport de monsieur Poulin, monsieur Tambeau lui avait déclaré qu'il détenait 45 % des actions de l'appelante en août 2000, 23 % de ces actions de septembre à décembre 2000 et 12 % seulement des actions à compter de janvier 2001. Monsieur Tambeau aurait également affirmé que seulement 12 % des actions étaient détenues pour lui par Michel Mondoux agissant comme prête-nom.
+[37] Monsieur Tambeau aurait également fait état qu'il devait généralement travailler 40 heures par semaine de 8 h 30 à 17 h 00, du lundi au vendredi et quelquefois les fins de semaine, que son travail consistait à rencontrer les clients pour la vente d'espace publicitaire dans les bottins téléphoniques, qu'il ne pouvait travailler pour d'autres, que sont travail était supervisé par monsieur Verreault et qu'il devait faire des rapports verbaux sur les clients rencontrés et sollicités.
+[38] Selon le rapport de monsieur Poulin, monsieur Tambeau lui aurait aussi dit que monsieur Verreault avait procédé à une description de ses tâches, mais qu'il planifiait lui-même son travail compte tenu des suggestions de monsieur Verreault. Monsieur Tambeau aurait aussi affirmé qu'il devait rencontrer un objectif de ventes de 300 000 $ par année et que le montant de ses ventes a atteint 1 700 000 $.
+[39] Quant à sa rémunération, monsieur Tambeau a affirmé qu'elle avait été différente de celle indiquée au contrat et qu'elle s'était élevée à 6 000 $ par mois de septembre à février 2001, à 2 600 $ aux quinze jours de mars à novembre 2001 et de 1 700 $ aux quinze jours de décembre 2001 à avril 2002. Sa rémunération était payable à toutes les deux semaines et il n'aurait pas été payé durant une période d'un mois.
+[40] Selon le rapport de monsieur Poulin, monsieur Tambeau bénéficiait d'une automobile louée par l'appelante et d'une carte de crédit Ultramar pour l'essence. L'appelante lui fournissait également un téléphone cellulaire.
+[41] Quant à ses dépenses, monsieur Tambeau était remboursé pour ses frais de séjour et il bénéficiait d'un « per diem » de 40 $ pour ses repas.
+[42] Finalement, selon monsieur Poulin, monsieur Tambeau a mentionné ses conflits avec l'appelante et différentes poursuites tant civiles que criminelles à cet égard.
+[43] Il est manifeste que la version des faits relatée par monsieur Verreault et celle de monsieur Tambeau telle que rapportée par monsieur Poulin sont diamétralement opposées non seulement quant au travail véritablement exécuté par monsieur Tambeau pour l'appelante, mais également quant aux résultats obtenus et quant à la rémunération qui lui a été versée.
+[44] Toutefois, un certain nombre de faits demeurent indiscutables. D'abord, monsieur Tambeau a signé un contrat de travail avec l'appelante le 18 août 2000. Bien que monsieur Verreault ait tenté d'en minimiser l'importance, il n'en reste pas moins que l'appelante s'est appuyée sur ce même contrat dans sa demande d'injonction contre monsieur Tambeau en avril 2002. Quant au contrôle exercé par l'appelante sur les activités de monsieur Tambeau, il est difficile de croire que celui-ci pouvait faire et faisait ce qu'il voulait sans rendre compte à personne comme l'a ni plus ni moins affirmé monsieur Verreault. Le pouvoir de contrôle que pouvait exercer l'appelante, compte tenu du contrat signé, peut difficilement être ignoré même si dans les faits, il n'a vraisemblablement pas été exercé de façon très efficace.
+[45] Il est clair également que le travail principal de monsieur Tambeau pour l'appelante était de vendre de la publicité dans les annuaires téléphoniques (pages jaunes) et que pour se faire l'appelante lui fournissait une automobile et un téléphone cellulaire. Elle lui remboursait aussi ses frais de séjour et elle lui versait une allocation quotidienne pour ses repas. Monsieur Tambeau fournissait quant à lui son ordinateur.
+[46] Quant à la rémunération versée, je doute fortement que monsieur Tambeau n'ait pu recevoir que des avances au cours de la période qui s'est échelonnée du 18 août 2000 au 12 avril 2002, soit au cours d'une période de près de 20 mois. Aucun registre ou autre document n'a été soumis en preuve à l'appui de l'affirmation de monsieur Verreault à cet effet.
+[47] Par ailleurs, l'appelante n'a pas non plus apporté quelque preuve que ce soit quant aux sommes réellement versées à un titre ou à un autre à monsieur Tambeau au cours de cette période.
+[48] Si monsieur Tambeau pouvait, selon les termes du contrat, profiter des ventes qu'il faisait à cause du bonus qui y était stipulé et qu'il pouvait aussi recevoir une commission sur les ventes totales, il semble bien que c'est l'appelante elle-même qui assumait les risques de perte dans le cas de mauvaises créances.
+[49] Dans l'affaire Wiebe Door Services Ltd. c. Canada (Ministre du Revenu national - M.R.N.), [1986] 3 C.F. 553, la Cour d'appel fédérale a analysé les critères traditionnellement retenus par les tribunaux pour distinguer le contrat de louage de services et le contrat d'entreprise. Il s'agit des critères de contrôle, de la propriété des instruments de travail, des chances de profit et des risques de perte et de l'intégration à l'entreprise. Dans cette analyse, la Cour d'appel fédérale a insisté sur la nécessité d'examiner les différents critères à la lumière de la relation globale que les parties entretenaient entre elles. Cette analyse a plus récemment été reprise par la Cour suprême du Canada dans l'affaire 671122 Ontario Ltd. c. Sagaz Industries Canada Inc. [2001] 2 R.C.S. 983.
+[50] Dans la présente affaire, les différents éléments mentionnés plus haut conduisent à la conclusion que monsieur Tambeau n'exploitait pas lui-même sa propre entreprise. Au contraire, ses relations avec l'appelante relèvent à mon avis d'un contrat de louage de services. À cet égard, la signature du contrat de travail le 18 août 2000 laisse peu de doute sur la nature des relations que les parties désiraient entretenir entre elles. La fourniture d'une automobile, d'une carte de crédit et d'un téléphone cellulaire par l'appelante à monsieur Tambeau de même que la prise en charge de toutes ses dépenses, soit en lui accordant un remboursement pour ses frais de séjour, soit en lui accordant une allocation quotidienne pour ses repas indiquent également une relation employeur-employé. Si monsieur Tambeau pouvait assurément tirer profit de ses activités compte tenu de la structure de sa rémunération basée en partie sur les performances, c'est l'appelante qui assumait les risques de pertes associés aux mauvaises créances. Quant au contrôle, il importe de rappeler que l'aspect important n'est pas de déterminer le degré de contrôle réel exercé, mais bien plus le pouvoir de contrôle que possède le payeur sur les activités du travailleur compte tenu des obligations des parties (voir inter alia Hennick c. M.R.N., [1995] 179 N.R. 315, [1995] A.C.F. no 294 (Q.L.)). À cet égard, on peut se référer au contrat signé par les parties et plus particulièrement aux clauses 9 et 10 concernant la confidentialité et la non-compétition dont l'appelante a d'ailleurs revendiqué l'application lors d'une demande d'injonction contre monsieur Tambeau en avril 2002 (pièce A-3). Par ailleurs, ces clauses révèlent à quel point, les activités de monsieur Tambeau étaient intimement liées et complètement intégrées à l'entreprise de l'appelante. Somme toute, j'estime que monsieur Tambeau était lié à l'appelante par un contrat de louage de services au cours de la période du 18 août au 12 avril 2002.
+[51] Qu'en est-il maintenant de l'exclusion prévue à l'alinéa 5(2)b) de la Loi ? Essentiellement, l'avocat de l'appelante prétend que monsieur Tambeau contrôlait plus de 40 % des actions avec droit de vote de l'appelante au cours de la période en litige. L'argument est fondé d'abord sur le fait que monsieur Michel Mondoux était un prête-nom pour monsieur Hermann Tambeau et qu'il détenait pour lui 1 900 000 actions de catégorie A de l'appelante émises le 25 juillet 2000 et représentées par le certificat no 6. L'avocat de l'appelante prétend ensuite qu'aux fins du calcul on ne doit pas prendre en compte les 4 163 265 actions émises à Symphony le 31 août 2000, puisque ces actions ne donnaient pas de droit de vote car Symphony était en défaut de payer une somme de 200 000 $ due à l'égard de ces actions. Cette partie de l'argument est fondé sur l'article 102 de la Loi sur les compagnies du Québec.
+[52] L'avocat de l'appelante estime que la décision de la Cour d'appel fédérale dans l'affaire P.G.C. c. Cloutier, [1987] 2 C.F. 222, [1986] A.C.F. no 778 (QL)) n'est pas applicable en l'espèce. Dans cette décision, la Cour d'appel fédérale a décidé que des actions avec droit de vote détenues en fiducie et à l'égard desquelles le droit de vote ne pouvait être exercé ne pouvaient constituer des actions « contrôlées » même si on devait par ailleurs les considérer comme des actions émises aux fins du calcul du 40 % requis en vertu de l'alinéa 14 a) du Règlement sur l'assurance-chômage applicable à l'époque.
+[53] De son côté, l'avocate de l'intimé prétend d'abord qu'il n'y a pas de preuve selon laquelle monsieur Mondoux aurait détenu le certificat no 6 représentant 1 900 000 actions de catégorie A comme prête-nom pour monsieur Hermann Tambeau. Même si l'intimé a reconnu dans sa Réponse à l'avis d'appel que monsieur Mondoux agissait comme prête-nom pour monsieur Tambeau, elle estime que la seule preuve qui a été apportée est que monsieur Mondoux ne détenait pour monsieur Tambeau que le certificat no 14 représentant 940 000 actions. Ce certificat no 14 n'a été émis que le 3 avril 2001.
+[54] Par ailleurs, l'avocate de l'intimé se fonde sur le jugement de la Cour d'appel fédérale dans l'affaire Cloutier (précitée) pour affirmer que même si Symphony ne pouvait, compte tenu de l'article 102 de la Loi sur les compagnies du Québec exercer son droit de vote à l'égard des 4 163 265 actions émises à son nom le 31 août 2000 (certificats nos 9, 10, 11 et 12) et ce, à compter du 31 octobre 2000 pour cause du non paiement du solde dû à l'égard de ces actions, celles-ci devaient quand même être comptabilisées comme étant des actions émises avec droit de vote aux fins du calcul du 40 % requis par l'alinéa 5(2)b) de la Loi.
+[55] Ainsi, selon l'avocate de l'intimé, si on tient compte des émissions d'actions du capital-actions de l'appelante en date du 31 août 2000 et en date du 3 avril 2001, il est clair, de toute façon, que monsieur Tambeau ne contrôlait pas plus de 40 % des actions avec droit de vote de l'appelante à un moment quelconque entre le 31 août 2000 et le 12 avril 2002 que l'on prenne ou non en compte les 4 163 265 actions émises à Symphony après le défaut de paiement, soit après le 31 octobre 2000.
+[56] Dans son témoignage, Me Lupien a affirmé que lors de l'émission des 4 000 000 d'actions aux trois actionnaires initiaux en date du 25 juillet 2000, 1 900 000 actions avaient été émises à monsieur Michel Mondoux comme prête-nom pour monsieur Hermann Tambeau. Ces actions sont représentées par le certificat no 6. Ce fait est confirmé dans un document signé par monsieur Michel Mondoux lui-même en date du 27 mai 2002 (documents transmis à la Cour par Me Jean-Félix Racicot le 26 mai 2004). Par ailleurs, dans un affidavit signé le 23 novembre 2001, Hermann Tambeau a déclaré qu'il était le véritable propriétaire de 940 000 actions représentées par le certificat no 14 (pièce A-5). Il est à noter qu'au moment de cette déclaration, le certificat no 6 avait déjà été annulé et remplacé par les certificats nos 14, 15, 16 et 17 en date du 3 avril 2001. Il est toutefois assez étonnant de constater que monsieur Tambeau aurait déclaré à monsieur Poulin de l'ADRC qu'il n'avait lui-même rien investi dans la société appelante, mais que sa conjointe y avait investi 40 000 $ (pièce I-3, page 4, paragraphe 44).
+[57] Compte tenu des transactions survenues le 3 avril 2001 concernant les 1 900 000 actions jusque là représentées par le certificat no 6 et la nouvelle répartition de ces 1 900 000 actions constatée par les certificats nos 14, 15, 16 et 17, il est fort possible que monsieur Michel Mondoux ait agi comme prête-nom pour monsieur Tombeau dès le départ, c'est-à-dire à compter de l'émission des actions en date du 25 juillet 2000, comme l'a affirmé Me Lupien dans son témoignage. Si je retiens cette hypothèse, la plus probable et la plus logique malgré la preuve contradictoire présentée, monsieur Tambeau aurait contrôlé plus de 40 % des actions avec droit de vote de l'appelante à compter du 25 juillet 2000 et ce, jusqu'au 30 août 2000, puisqu'il aurait alors contrôlé 1 900 000 actions sur les 4 000 000 émises le 25 juillet 2000.
+[58] Le 31 août 2000, 4 163 265 nouvelles actions ont été émises à Symphony en considération d'une somme de 500 000 $ dont une partie a été payée comptant. Symphony n'étant pas alors en défaut de payer le solde, elle pouvait exercer le droit de vote rattaché à ses actions. Comme monsieur Tambeau n'aurait plus, toujours selon la même hypothèse, contrôlé que 1 900 000 actions sur les 8 463 265 actions émises, il est évident qu'il n'aurait alors pas contrôlé plus de 40 % des actions avec droit de vote émises et ce, pour la période du 31 août au 31 octobre 2000.
+[59] Le défaut de paiement de Symphony à l'égard des actions émises le 31 août 2000 est survenu le 31 octobre 2000, quant à une somme de 100 000 $ payable à cette date. On sait que Symphony a également fait défaut d'acquitter le solde de 100 000 $ dû le 30 novembre 2000. Ce n'est donc qu'après le 31 octobre 2000 que Symphony a pu être empêchée d'exercer le droit de vote attaché à ses actions par application de l'article 102 de la Loi sur les compagnies du Québec. On sait que l'article 102 est rendu applicable aux compagnies constituées sous la Partie 1A par l'article 123.6 de cette loi.
+[60] Les parties reconnaissent que l'article 102 est applicable dans les circonstances de la présente affaire. Ainsi, puisque Symphony était en défaut de verser la somme de 100 000 $ le 31 octobre 2000, elle était de ce fait privée d'exercer le droit de vote relatif aux actions qu'elle détenait après cette date. Cette conclusion a d'ailleurs été retenue par le juge Jean-Jude Chabot de la Cour Supérieure du Québec dans un jugement en date du 13 avril 2004 (copie du jugement a été transmise à la Cour par Me Jean-Félix Racicot le 14 avril 2004).
+[61] La seule question qui se pose alors est celle de savoir si les 4 163 265 actions de catégorie A comportant le droit de vote au nom de Symphony doivent être prises en compte comme étant des actions avec droit de vote émises aux fins du calcul du 40 % requis par l'alinéa 5(2)b) de la Loi.
+[62] J'estime que la réponse à cette question ne peut être qu'affirmative et qu'il y a lieu d'appliquer ici la conclusion de la Cour d'appel fédérale dans son jugement dans l'affaire Cloutier (précitée).
+[63] Cette décision de la Cour d'appel fédérale portait sur l'application de l'alinéa 14 a) du Règlement sur l'assurance-chômage qui se lisait alors :
+« 14. Sont exclus des emplois assurables les emplois suivants :
+a) l'emploi au service d'une corporation si l'employé, son conjoint ou les deux contrôlent plus de quarante pour cent des actions donnant droit de vote; »
+[64] Sous la plume du juge Marceau, la Cour a déterminé que le mot « contrôle » aux fins de cette Loi signifiait tant le contrôle « de facto » que le contrôle « de jure » . Ainsi, il a été décidé que des actions donnant le droit de vote mais qui avaient été déposées en fiducie de sorte que leur titulaire ne pouvait exercer son droit de vote n'étaient pas des actions « contrôlées » par lui. En revanche, la Cour a clairement indiqué que le calcul des actions « contrôlées » devait être effectué en fonction du nombre total d'actions donnant le droit de vote émises.
+[65] L'alinéa 14 a) du Règlement sur l'assurance-chômage a été abrogé en date du 18 novembre 1990 (DORS/90-756) et il a été remplacé par l'alinéa 3(2)d) de la Loi sur l'assurance-chômage dans lequel toute référence au conjoint a été éliminée. Aucune autre modification de substance n'a été apportée. Le mot « corporation » a simplement été remplacé par « personne morale » et les mots « actions donnant droit de vote » ont été remplacés par les mots « actions avec droit de vote » . L'alinéa 3(2)d) a par la suite été repris dans l'alinéa 5(2)b) de la Loi sur l'assurance-emploi. Cette disposition se lit maintenant :
+« 5.(2) N'est pas un emploi assurable :
+b) l'emploi d'une personne au service d'une personne morale si cette personne contrôle plus de quarante pour cent des actions avec droit de vote de cette personne morale.
+[66] Dans l'affaire Cloutier (précitée), le dépôt en fiducie de certaines actions à l'égard desquelles le droit de vote ne pouvait être exercé par leur titulaire avait été consenti de façon contractuelle. Dans la présente affaire, c'est l'article 102 de la Loi sur les compagnies du Québec qui empêche un actionnaire en défaut à l'égard d'un appel de versement d'exercer le droit de vote à l'égard des actions qu'il détient. Qu'une restriction au droit de vote soit la conséquence d'un contrat ou qu'elle résulte de la loi ne devrait pas, à mon avis, entraîner de différence de traitement. C'est la restriction au droit de vote qui est pertinente et non sa source.
+[67] Ainsi, dans la présente affaire, puisque monsieur Tambeau aurait contrôlé 1 900 000 actions avec droit de vote sur un total de 8 163 265 avec droit de vote émises, il n'aurait pas, non plus, contrôlé plus de 40 % des actions avec droit de vote pour la période du 1er novembre 2000 au 3 avril 2001.
+[68] En date du 3 avril 2001, 1 665 306 nouvelles actions ont été émises à monsieur Verreault. Il est alors plus qu'évident qu'à compter de cette date, monsieur Tambeau n'aurait pas contrôlé plus de 40 % des actions avec droit de vote d'autant plus que la preuve démontre qu'à compter de cette date ce n'est plus que 940 000 actions représentées par le certificat no 14 qui auraient été détenues par monsieur Mondoux comme prête-nom pour monsieur Tambeau.
+[69] Finalement, l'émission de 7 000 000 nouvelles actions de catégorie A représentées par le certificat no 18 à monsieur Verreault en date du 10 décembre 2001, n'a pu que diluer encore davantage l'intérêt de monsieur Tambeau dans l'appelante.
+[70] En conclusion, même en retenant l'hypothèse la plus favorable à l'appelante, c'est-à-dire que les 1 900 000 actions représentées par le certificat no 6 au nom de Michel Mondoux étaient en réalité détenues par lui comme prête-nom pour monsieur Tambeau, ce dernier n'aurait contrôlé plus de 40 % des actions avec droit de vote de l'appelante que du 25 juillet au 30 août 2000. Comme la période en litige s'étend du 18 août 2000 au 12 avril 2002, l'emploi de monsieur Tambeau n'aurait été un emploi exclu des emplois assurables que pour la période du 18 au 30 août 2000 seulement.
+[71] En conséquence de ce qui précède, l'appel est admis et la décision du ministre est modifiée en ce que monsieur Hermann Tambeau a occupé un emploi assurable auprès de l'appelante pour la période débutant le 31 août 2000 et se terminant le 12 avril 2002.
+Signé à Ottawa, Canada, ce 27e jour de septembre 2004.
+« P.R. Dussault »
+Juge Dussault
+RÉFÉRENCE :
+2004CCI648
+No DU DOSSIER DE LA COUR :
+2003-1729(EI)
+INTITULÉ DE LA CAUSE :
+9041-6868 Québec Inc. et M.R.N.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATES
+de l'audience :
+Argumentation de l'appelante :
+Argumentation de l'intimé :
+Réplique de l'appelante :
+le 26 janvier 2004
+le 13 février 2004
+le 19 février 2004
+le 23 février 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge P.R. Dussault
+DATE DU JUGEMENT :
+le 27 septembre 2004
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jean-Félix Racicot
+Avocate de l'intimé :
+Me Mélanie Bélec
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Me Jean-Félix Racicot, avocat
+St-Lambert (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

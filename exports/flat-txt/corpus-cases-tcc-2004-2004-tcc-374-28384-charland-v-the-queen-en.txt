@@ -1,0 +1,71 @@
+Title: Charland v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28384/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-374-28384-charland-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-05-28
+
+# Charland v. The Queen
+
+- Citation: 2004 TCC 374
+- Decision date: 2004-05-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1903, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Charland v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-28
+Neutral citation
+2004 TCC 374
+File numbers
+1999-3628(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC374
+Date: 20040528
+Docket: 1999-3628(IT)G
+BETWEEN:
+FERDINAND CHARLAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally from the bench
+on March 11, 2004, in Montréal, Quebec,
+and subsequently edited in Ottawa, Canada, on May 27, 2004.)
+Paris J.
+[1] Appeal heard in Montréal, Quebec, on March 11, 2004.
+[2] Mr. Ferdinand Charland is appealing the assessments by the Minister of National Revenue (the "Minister") for the 1991 to 1996 taxation years; said assessments disallow the deduction of substantial business expenses claimed by Mr. Charland in relation to his two businesses, a body shop repair service and a mushroom production enterprise.
+[3] The issue at bar is whether Mr. Charland is entitled to deductions in excess of the amounts allowed by the Minister for the business expenses he incurred through those years. Mr. Charland represented himself and he gave evidence on his behalf. He explained to the Court that he had no documentary evidence to produce in support of his position because the location where he kept his documents, his mushroom production plant, burned down in August 1995.
+[4] However, he stressed that he had incurred all the expenses claimed in his returns. He said that he was in the habit of submitting all the cheques, receipts and invoices related to his businesses to his accountant and that his accountant prepared his financial statements on the basis of these documents. Mr. Charland said he cannot comprehend why the Minister did not allow him to deduct the expenses set out in his financial statements.
+[5] It is conceded that during the taxation years at issue, he worked at a car dealer, Auto Simard ("Simard") as a body worker; he was self employed. Mr. Charland claims that he hired his son to work with him at Simard and that he paid his son half of the revenue that he earned. He also employed a student for a period of time and paid him the amounts that appear as "labour" in the financial statements. He also said that he had incurred automobile expenses during the performance of his duties and that he personally provided some of the tools and other necessary material.
+[6] In terms of the mushroom production enterprise, he again stressed that he had spent the amounts set out in the financial statements. The expenses listed as purchases include material required for his business; the motor vehicle expenses claimed were related to the use of his car, a tractor and various machinery while performing the activities of his business. Insurance expenses claimed were related to the motor vehicles, the machinery and the plant assets.
+[7] When cross‑examined, Mr. Charland admitted that he did not file his tax returns for the years 1991 to 1994 until September 1995. He was aware of his obligation to file them yearly; however, he said he was missing some information that could have had an impact on his income. It seems the information in question was related to a debt incurred in the 1970s. Apparently, a friend of his told him to wait before filing his tax returns.
+[8] Counsel for the Respondent asked Mr. Charland to describe all the steps he took after the beginning of the 1996 audit, to attempt to obtain copies of all the necessary documentation, such as insurance policies, cheques or the notice of claim related to the fire that took place in the mushroom plant.
+[9] His answers were evasive, vague and contradictory. At one point, he claimed that all the documents were in the possession of his attorney; he then suggested that it was his attorney’s fault that there were no documents available, that he had asked his attorney to return the documents.
+[10] He later said that he could not get the insurance documents because the insurance policy was in a friend’s name. He also said that he could not speak with his broker because he was not his broker’s client anymore and he also said that he had no right to speak to the broker anymore because he had retained legal counsel. Finally, he said that the auditor should have gathered all the necessary documents.
+[11] Mr. Marcel Bates, accountant for the Appellant until 1996, testified that he prepared the financial statements, and Mr. Charland’s income tax returns for all the years at issue. The financial statements were prepared at the end of each year, on the basis of the documents provided by Mr. Charland. Mr. Bates returned these documents to the Appellant after completing the financial statements. He testified that he did not keep any worksheet, record or account ledger with respect to these assignments. According to him, he only deducted expenses that were paid by cheque; he did not deduct any expenses that were not supported in this manner. He said that he saw all the documentary evidence in support of the claimed deductions.
+[12] On cross‑examination, Mr. Bates admitted that he had prepared another set of financial statements for 1994 and 1995, different from the statements attached to Mr. Charland’s tax returns, and that the other set had been submitted to the National Bank with an application for a line of credit filed by Mr. Charland. Those financial statements showed a much higher net income resulting from Mr. Charland's businesses than the income declared in his returns. Mr. Bates simply explained that he had made a mistake.
+[13] For its part, the Respondent called auditor Robert Larochelle. His testimony indicated that he had asked Mr. Charland and his representatives several times to provide him with the necessary documentary evidence supporting the expense claims and that he had not received the proof. The auditor kept the file open for two years to give the Appellant opportunity to get them; the auditor received no documents from him.
+[14] In my view, Mr. Charland has not met his burden of proof in this matter. Other than Mr. Bates’ testimony, the Appellant has not submitted any other evidence, neither documentary nor by calling other witnesses to support his assertion that he effectively did incur all the expenses claimed with respect to his businesses for the taxations years at issue.
+[15] I am unable to place much weight on the evidence presented by Mr. Bates' testimony since he admitted to having prepared a second set of financial statements with respect to two of the years at issue, knowing that one of the sets was false; he also experienced significant difficulty remembering the events that took place during this period of time, with the exception of seeing the cheques connected to the expense claims.
+[16] I am also unable to place much weight on the Appellant's testimony. His testimony lacked clarity and detail. It was also contradictory and hard to believe at times. In my opinion, the Appellant is not a credible witness. Neither can I accept his explanation of the lack of documentary evidence in this matter; it does not have the ring of truth.
+[17] It follows that there is insufficient evidence to allow me to conclude that the Minister has erred when he established the assessments with respect to Mr. Charland.
+[18] To summarize, the Appellant failed to establish on a balance of probabilities that he effectively incurred, for the purpose of his businesses, all the expenses that he claims. His appeal will be dismissed with costs.
+Signed in Ottawa, Canada, this 28th day of May 2004.
+"B. Paris"
+Paris J.
+Translation certified true
+on this 25th day of October 2004.
+Ingrid B. Miranda, Translator

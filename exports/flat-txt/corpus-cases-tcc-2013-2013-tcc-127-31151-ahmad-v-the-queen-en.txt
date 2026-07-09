@@ -1,0 +1,139 @@
+Title: Ahmad v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31151/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-127-31151-ahmad-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-04-26
+
+# Ahmad v. The Queen
+
+- Citation: 2013 TCC 127
+- Decision date: 2013-04-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4740, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ahmad v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-04-26
+Neutral citation
+2013 TCC 127
+File numbers
+2012-1687(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1687(IT)I
+BETWEEN:
+JUSTIN AHMAD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 22, 2013, at Toronto, Ontario.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Agent for the Appellant:
+Ijaz Ahmad
+Counsel for the Respondent:
+Lindsay Beelen
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2007 taxation year is dismissed.
+Signed at Ottawa, Canada, this 26th day of April 2013.
+"Gerald J. Rip"
+Rip C.J.
+Citation: 2013 TCC 127
+Date: 20130426
+Docket: 2012-1687(IT)I
+BETWEEN:
+JUSTIN AHMAD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip C.J.
+[1] The issue in this appeal (Informal Procedure), the sixth appeal arising from the same transaction,[1] is whether as a result of a reorganization of Tyco International Ltd. ("Tyco"), a corporation resident in Bermuda, Justin Ahmad, the appellant, received a dividend in 2007. Mr. Ahmad claims he did not, the Minister of National Revenue ("Minister") assessed his 2007 tax return pursuant to subsection 52(2) of the Income Tax Act ("Act") on the basis he received a dividend in kind, namely shares of two other Bermuda resident corporations that immediately prior to the reorganization were wholly owned by Tyco.
+[2] In 2006, Tyco, a publicly traded company, had announced its intent to separate its businesses into three independent public corporations. The businesses that Tyco carried on included:
+(a) providing electronic security, fire and safety services and products, valves and controls and other industrial products under the name Tyco International ("International");
+(b) providing engineered electronic components, network solutions and wireless systems under the name Tyco Electronics ("Electronics"); and
+(c) developing, manufacturing and distributing of medical devices and supplies, diagnostic imaging agents and pharmaceuticals, under the name Tyco Healthcare ("Healthcare").
+[3] According to the U.S. Securities and Exchange Commission forms 10‑K, filed by Covidien Ltd. ("Covidien") on December 13, 2007 and by Tyco Electronics Ltd. ("Tycoelect") on December 18, 2007, Tyco transferred its Healthcare business on June 29, 2007 to Covidien and its Electronics business to Tycoelect, both corporations resident in Bermuda. Both Covidien and Tycolect had been wholly‑owned subsidiaries of Tyco since Tyco's 2000 fiscal year and until June 29, 2007. During that time neither Covidien nor Tycoelect had engaged in any significant business activity and had held minimal assets.
+[4] Tyco transferred its healthcare and electronic businesses to Covidien and Tycoelect, respectively, on June 29, 2007 through a distribution of shares of these companies to its shareholders. Shareholders of Tyco received one common share of Covidien and one common share of Tycoelect for every four common shares of Tyco held at the close of business on June 18, 2007. Immediately after the distribution of the "spin‑off" shares every four shares of Tyco were converted into one common share by way of a "reverse" stock split. This was, in fact, a consolidation of shares; Tyco retained the international business. The shares of all three corporations were publicly traded as of June 29, 2007.
+[5] The reorganization affected the appellant in that before June 29, 2007 he owned 1,000 shares of Tyco. As a result of the distribution of shares, he received 250 shares of Covidien and 250 shares of Tycoelect; his 1,000 shares of Tyco were consolidated into 250 shares of Tyco.
+[6] Mr. Ahmad was assessed on the basis the shares of Covidien and Tycoelect that he received on the reorganization had a value of CDN$22,058 and that these shares were dividends in kind.
+[7] The appellant submits that he received no economic gain by way of dividend or otherwise as a result of the Tyco reorganization and the receipt of shares of Covidien and Tycoelect. Further, TD Waterhouse, his stockbroker, was wrong in sending him a T5 slip (Statement of Investment Income) for 2007 reporting a dividend resulting from the Tyco reorganization. Mr. Ahmad claims that he is being taxed on an amount that is not income to him "but simply what I already owned but in a different form". The shares he owned in each of the three corporations on June 29 "represented the same ownership interest in exactly the same businesses as did my original 1,000 Tyco shares on June 28, 2007". He insisted he incurred no economic gain and ought not be taxed. In fact, the closing price of Tyco shares on June 29, 2007 was US $33.79 or US $33,790 for 1,000 shares and the closing prices on the first day of trading for Covidien, Tycoelect and Tyco, on July 2, 2007, aggregated US $34,185 for Mr. Ahmad's shares[2].
+[8] In short, Mr. Ahmad argues that prior to the Tyco reorganization "my healthcare and electronics assets of US$20,538 (Tyco old shares) came under the name 'Tyco', and after the reorganization the same assets were transferred to Covidien and Tycoelect. It is basically taking my asset, changing its name and giving it back to me as a dividend."
+[9] The appellant argues that what he received was not a dividend. He cites dictionary definitions of the word "dividend"[3] as well as CRA Interpretation Bulletin IT‑67R3 to the effect that a dividend is payable to shareholders from carryings of profits available for distribution. In his view the Covidien and Tycoelect shares were not from earnings or profits or from capital gains.
+[10] In Special Risk Holdings Inc. v. R.[4], the Federal Court Trial Division agreed that a "dividend" is "any distribution by a corporation of its income or capital gains made pro rata among shareholders" and that dividends in kind are specifically contemplated by subsection 52(2) of the Act. I agree with Hershfield J. that "Where the source of the receipt, of anything of value, is from a corporation, and it is paid in respect of a participation right of shares held in that corporation by the recipient, it is, by its nature, a dividend" [5].
+[11] The appellant also referred to Tyco's application to the Ontario Securities Commission ("OSC") for exemptive relief in accordance with the Mutual Reliance Review System ("MRRS"). The MRRS decision was that Tyco's Canadian shareholders who receive Covidien and Tycolect shares as a dividend would have the same rights as U.S. resident shareholders of Tyco receiving these shares which, according to Mr. Ahmad, meant that the dividend would not be taxable.
+[12] The exemption granted by the OSC was not that the distribution of the "spin‑off" shares would be exempt from tax. As my colleague V. Miller J. stated in Marshall[6], the OSC does not have the jurisdiction to make this type of decision. Rather, according to the MRRS decision, the OSC and the other provincial securities regulators agreed that Tyco was exempted from the prospectus and registration requirements of their legislation in respect of the proposed distribution of the spin-off shares. Also, I note as did V. Miller J., that in its application to the provincial securities regulators Tyco stated that its distribution of the spin-off shares "to holders of common shares of Tyco resident in Canada" would be "by way of a pro rata dividend in kind".
+[13] I agree with Mr. Ahmad and his representative that Mr. Ahmad incurred no economic benefit as a result of the Tyco reorganization. However, according to the Act, he did receive dividends in kind from Tyco and the dividends had a value. As Hershfield J. explained in Hamley[7] at paragraphs 8 and 16:
+8. The appellant argued that she did not receive an amount of money, per se, and accordingly she had not received an income amount or dividend, at least as she would understand the idea of what income or a dividend was. While not unsophisticated, she laboured under a misconception of how the Income Tax Act defines income. Income does not have to be money; it is the receipt of anything that derives from certain sources, that has value, and the amount of the receipt is the value of the thing received.
+…
+16. … The Act does not as a starting point work on the theory that a simple change in form of a holding is not a taxable event. Indeed, it works on the theory that every change in holdings that gives you something different than you had before is a taxable event, even if your net economic position has not changed and you have not received actual dollars to suggest that you really received something of value.
+[14] Mr. Ahmad's representative relied on the reasons for judgment in Capancini v. The Queen[8] where, on similar facts, the judge allowed the appeal. The judge in Capancini relied on the reasons for judgment in Morasse v. The Queen[9].
+[15] In Morasse the Minister assessed to include investment income based on the value of a stock distribution. Morasse owned Telmex shares, which traded on the New York Stock Exchange, the underlying shares of which traded on the Mexican stock exchange. The "spin‑off" transaction resulted in each holder of Telmex shares becoming owner of an equal number of Movil shares of the corresponding class. Morasse's T5 Form for income tax indicated the receipt of foreign investment income in the amount of the value of the Movil shares. The taxpayer argued, among other things, that the receipt of the Movil shares was not a stock dividend on income accrued but a non taxable capital receipt.
+[16] The judge agreed, recognizing that the Movil shares would not have been issued but for Telmex's decision to spin‑off its shares. The Movil shares, he concluded, were not received as dividends nor were they received in lieu of payment of dividends on the Telmex shares. The equity among the two companies remained the same; there was no distribution of profit. There was a recognition of a shift of capital from Telmex to Movil. There was a stock distribution but it was as a result of an overall restructuring of Telmex, a restructuring in which Movil shares were never owned by Telmex. There was a shift of value from the Telmex shares to the Movil shares; there was no disposition to constitute a capital gain.
+[17] The reasons for judgment in Morasse, at paragraph 3, include a description of the "spin‑off"of Telmex, pursuant to a procedure particular to Mexico called a "escisión":
+... an existing company is divided, creating a new company to which specified assets and liabilities are allocated. This procedure differs from the procedure by which a spin‑off is typically conducted in the United States, where a parent company distributes to its shareholders shares of a subsidiary. …
+The "spin‑off" of Tyco shares is a traditional "spin‑off" conducted in the United States.
+[18] In the appeal at bar Tyco distributed to its shareholders shares of its two subsidiaries. The Judge in Capancini unfortunately may not have been presented with any evidence that Covidien and Tycoelect had been subsidiaries of Tyco. The SEC Forms 10‑K of Covidien and Tycoelect probably were not before him. As previously stated, Tyco had owned the shares of Covidien and Tycoelect since its 2000 fiscal year. That Covidien and Tycoelect became public companies on June 29, 2007 does not mean they did not exist as non public companies before that time, as Mr. Ahmad's representative appeared to insist. These corporations did exist before 2007.
+[19] Tyco owned property, shares in Covidien and Tycoelect, and it distributed these properties to its shareholders pro rata to their interest as a dividend, the same as if Tyco had distributed widgets to its shareholders. In both cases, Tyco, rather than distributing a dividend in money, distributed a dividend in kind, property it had acquired with profits it had earned and the distributions of the shares were distributions from profits.
+[20] I have found no evidence that TD Waterhouse incorrectly calculated the amount of the dividends in kind received by Mr. Ahmad as he alleges.
+[21] Unfortunately, Tyco did not avail itself of section 86.1 of the Act to categorize the distribution of the Covidien and Tycoelect shares as an "eligible distribution" that would have had the effect of not including the amounts of the dividends in the appellant's income.
+[22] The appeal is dismissed.
+Signed at Ottawa, Canada, this 26th day of April 2013.
+"Gerald J. Rip"
+Rip C.J.
+CITATION: 2013 TCC 127
+COURT FILE NO.: 2012-1687(IT)I
+STYLE OF CAUSE: JUSTIN AHMAD
+v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 22, 2013
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF JUDGMENT: April 26, 2013
+APPEARANCES:
+Agent for the Appellant:
+Ijaz Ahmad
+Counsel for the Respondent:
+Lindsay Beelen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pitney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Marshall v. Canada, 2011 TCC 497, 2011 D.T.C. 1353; Rezayat v. Canada, 2011 TCC 286, 2011 D.T.C. 1211; Yang v. Canada, 2011 TCC 187, 2011 D.T.C. 1156; Capancini v. Canada, 2010 TCC 581, 2010 D.T.C. 1394; Hamley v. Canada, 2010 TCC 459, [2010] T.C.J. No. 372 (QL).
+[2]
+250 Covidien shares
+=
+US $10,352.50
+($43.71 x 250)
+250 Tycoelect shares
+=
+US $ 9,992.50
+($ 39.77 x 250)
+250 Tyco shares
+=
+US $13,340.00
+($53.36 x 250)
+The above data submitted in Mr. Ahmad's documentary evidence.
+[3] Black's Law Dictionary, Oxford Dictionary of Law.
+[4] [1994] 1 C.T.C. 274 (F.C.T.D.) at para. 10.
+[5] Hamley, op. cit, at para. 9.
+[6] Op. cit., at para. 13.
+[7] Hamley, op. cit.
+[8] 2010 TCC 581, [2010] T.C.J. No. 581 (QL), 2010 D.T.C. 1394.
+[9] 2004 TCC 239, [2004] T.C.J. No. 147 (QL), 2004 D.T.C. 2435.

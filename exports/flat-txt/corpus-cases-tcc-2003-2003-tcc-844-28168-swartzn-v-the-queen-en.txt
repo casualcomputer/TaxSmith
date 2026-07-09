@@ -1,0 +1,161 @@
+Title: Swartzn v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28168/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-844-28168-swartzn-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-11-19
+
+# Swartzn v. The Queen
+
+- Citation: 2003 TCC 844
+- Decision date: 2003-11-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2014, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Swartzn v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-19
+Neutral citation
+2003 TCC 844
+File numbers
+2003-1682(IT)APP
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1682(IT)APP
+BETWEEN:
+JEFFREY SWARTZ,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on October 14, 2003 at Toronto, Ontario.
+Before: The Honourable Justice Georgette Sheridan
+Appearances:
+Counsel for the Applicant:
+Joel Lipchitz
+Counsel for the Respondent:
+John Grant
+____________________________________________________________________
+ORDER
+Upon application for an Order extending the time within which an appeal from the reassessment made under the Income Tax Act for the 1995 taxation year may be instituted;
+This Court orders that the time within which an appeal may be instituted is extended to the date of this Order and the Notice of Appeal, received with the application, is deemed to be a valid appeal instituted on the date of this Order if the appropriate filing fee is paid to the Registry on or before December 19th, 2003.
+Signed at Ottawa, Canada, this 19th day of November 2003.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2003TCC844
+Date: 20031119
+Docket: 2003-1682(IT)APP
+BETWEEN:
+JEFFREY SWARTZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] This application is for an extension of time to file an appeal under the Tax Court of Canada Rules, General Procedure from a Notice of Reassessment of the Applicant's 1995 taxation year.
+[2] The reassessment disallowed the deductions claimed by that Applicant for certain business expenses and capital losses for that taxation year of approximately $100,000 and $75,000 respectively.
+ISSUE
+[3] The issue is whether the Applicant has met the requirements of subsection 167(5) of the Income Tax Act permitting the granting of an order to extend the time within which he may institute an appeal for the 1995 taxation year.
+[4] There is no issue as to paragraph 167(5)(a) or subparagraph 167(5)(b)(iv) in that the Respondent concedes that the Applicant made this application within the time permitted and that there are reasonable grounds for the appeal. The Respondent disputes, however, that the Applicant has satisfied any of the remaining criteria set out in subparagraphs 167(5)(b)(i)(A) or (B); (b)(ii) and (b)(iii) of the Act.
+STATUTORY PROVISIONS
+[5] Subsection 167(5) of the Act sets out the requirements for the granting of an application for an extension of time to file an appeal.
+(5) No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time limited by section 169 for appealing; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer's name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted, and
+(iv) there are reasonable grounds for the appeal.
+FACTS
+[6] The relevant dates regarding the reassessment for the 1995 taxation year are:
+October 2, 2000
+Notice of Reassessment received
+January 22, 2001
+Notice of Objection filed
+December 27, 2001
+Notice of Confirmation received
+April 20, 2002
+Applicant’s “letter of appeal” to CCRA
+April 26, 2002
+CCRA's response to Applicant
+July 1, 2002
+Notice of Appeal & filing fee mailed to TCC Registry
+March 23, 2003
+Notice of Appeal & filing fee received by TCC Registry
+March 25, 2003
+TCC Registry call to Applicant re need to file application for extension of time to file appeal and to advise deadline is March 27, 2003
+March 27, 2003
+Application for extension of time filed
+[7] The Applicant is a dentist. He was the only witness called by either party to this application. At some point in the mid-1990’s, the Applicant attempted to sell his practice. For reasons not made entirely clear at the hearing, the sale fell through thus precipitating a decade of fiscal disaster for the Applicant. He ultimately lost his practice and his home. Bankruptcy threatened. He was without resources for legal and accounting advice. In the middle of all this, he and his wife discovered they were to have a child.
+[8] The Applicant made reference to a 10-year history of dealings with the CCRA; in particular, the Collections Department. According to the Applicant, the botched sale severely impaired his ability to assemble the necessary documentation to support the claims he was making to the CCRA.
+ANALYSIS
+[9] It is against this general factual background that each of the criteria in dispute are considered:
+I. s.167(5)
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer's name, or
+(B) had a bona fide intention to appeal,
+[10] There is sufficient evidence on a balance of probabilities to demonstrate that during the 90-day period following the Notice of Confirmation of December 27, 2001, the Applicant was “unable to act or to instruct another to act in his name”. Describing in some detail the impact on his life of the failed sale of his practice, the Applicant testified as to “stolen” and “misplaced” payroll and expense records pertaining to the year in question. He said his lack of access to the offices of his former practice made it difficult for him to assemble the necessary documentation to dispute the 1995 reassessment. Meanwhile, his financial and personal difficulties continued to swirl around him. He testified that he was not thinking as clearly as he otherwise might have been during the period between December 2001 and July 2002, describing his state of mind as “foggy” and recalled feeling “lost in time”.
+[11] I am satisfied that the combined effect of the numerous fiscal, professional and personal pressures on the Applicant during this time effectively rendered him “unable to act or to instruct another” to appeal within the 90-day period following the Notice of Confirmation as set out in subparagraph 167(5)(i)(A). As the legislation requires that the Applicant satisfy only (A) or (B) of subparagraph 167(b)(i), it is not necessary for the Court to consider subparagraph (B).
+II. s. 167(5)(b)
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, ...
+[12] In Meer v. Canada, [2001] T.C.J. No. 321, Mr. Justice Hershfield set out the considerations in making a determination as to whether the requirements of this subsection have been met:
+[20] ... Counsel for the Respondent argued that the requirement that the granting of an extension be just and equitable in the circumstances was a separate test that must be met as a condition to granting the application. Such condition does appear in subsection 167(5) as a separate test. But the condition is derived from the reasons for and circumstances of the request. The reasons and circumstances here do not give rise to any asserted injustice. There has been no assertion here of foul play, dishonesty or prejudice. I can find no cases, nor has the Respondent's counsel offered any cases, that would support the contention or give an illustration of a situation where all the other conditions for the granting of the application are met and it is still found not just and equitable to grant the application. The reassessment is not adversely affected by granting the application except that the reassessment can then be dealt with on its merits. In these circumstances it strikes me as inequitable not to apply the principle set down in Seater v. R., [1997] 1 C.T.C. 2204. ...
+[13] I find that the same reasoning applies to the facts of the present case and that the Applicant has satisfied the requirements of subparagraph 167(5)(b)(ii).
+III. s. 167(5)(b)
+(iii) the application was made as soon as circumstances permitted, and ...
+[14] Subparagraph 167(5)(b)(iii) has as its focus the time period in which the application for an extension of the time to appeal was filed. The key phrase is “as soon as circumstances permitted”.
+[15] In the present case, the Applicant testified that he first realized that he had to make an application for an extension of time in which to appeal the 1995 reassessment on March 25, 2002, a scant two days before the final deadline. The catalyst for his sudden awareness was a telephone call from the Registry of the Tax Court of Canada advising that it had just received his purported Notice of Appeal but that he would need an Order under s. 167 before it could be filed.
+[16] The Applicant testified that he had mailed this material nearly nine months earlier on July 1, 2002. On cross-examination, the Applicant explained that he was not troubled by the lack of response from the Tax Court of Canada Registry between July 1, 2002 and March 25, 2003 because he had had no previous experience with the Court. Further, during this period, he continued to be completely preoccupied with fighting for his financial survival especially with re-establishing himself in practice. Finally, he said that during this period, the Collections Officers at CCRA had stopped “hounding” him for payment – a fact that was consistent with what [he believed] to be CCRA's practice once a taxpayer had filed an appeal. As to why he hadn’t noticed or wondered why he had not received a cancelled cheque for the $400 filing fee, he explained that, because of his still limited financial means, he had opted for a less costly chequing account with reduced services. Under the terms of the account, the bank provided him with a monthly statement but none of the cancelled cheques itemized in it. During this period, there had been “$400” amounts shown in these statements from time to time but the Applicant could not tell what each represented from the statement alone. And so, in this relative period of calm, the Applicant felt no compulsion to check the status of his appeal with the Court.
+[17] In Meer (supra), the learned judge made this observation regarding the standards to which an Applicant may reasonably held:
+The phrase "as soon as circumstances permit" does not preclude prioritizing what one can reasonably do in a particular time frame. The question as set down in Pennington v. M.N.R. comes down to what can be reasonably expected in the circumstances. One does not need to rely on a flood or imprisonment or hospitalization to argue that circumstances did not permit filing the application. This is an area of broad discretion. Keeping one's life work, one's business enterprises or one's financial stake from crumbling is a circumstance that might reasonably be attended to and relieved before circumstances can fairly be said to permit the filing of an application for an extension of time to file an appeal.
+[18] In view of all of the above, I feel compelled to accept that it was not until March 25, 2003 that the Applicant knew he had to apply for an order to extend the time to file his appeal. The evidence was uncontroverted that only then did he learn that the time in which to make his application was about to expire.
+[19] Immediately upon making this discovery, the Applicant called an accountant recommended to him by a friend, Mr. Joel Lipchitz. The Applicant instructed Mr. Lipchitz to make the application and this was done two days later-just in time to make the deadline of March 27, 2003. Accordingly, I find that the Applicant has demonstrated that the application was made “as soon as circumstances permitted”. Thus the final condition is satisfied.
+CONCLUSION
+[20] The case law supports the principle that, except in extreme circumstances, it is better to have an appeal heard on its merits than to see it fail on a procedural matter. In Seater v. Canada., [1996] T.C.J. No. 1363, McArthur, J. stated :
+Generally, it is preferable to have a taxpayer's issues decided on their merits than having them dismissed, for having missed time limits in the Act. The courts must attempt to make a fair and just decision inview of all of the facts.
+[22] There is a substantial amount of money involved in this case. The evidence is clear that the Applicant was experiencing, perhaps in part for reasons of his own making, great turmoil through out the period in question. While, as counsel for the Respondent argued, a man with the Applicant’s experience in business and dealing with CCRA might have done better in handling his difficulties, I accept his evidence that “[he did] what he could under the circumstances”. Although he failed to get his appeal in on time, he meanwhile struggled to survive financially, to avoid bankruptcy and to re-establish his practice. As soon as he was aware of the filing deadline he acted immediately. The Respondent has never disputed there are reasonable grounds for the Applicant’s appeal.
+[23] For all of these reasons, the application is granted and the Applicant shall have a period of not more than 30 days from the date of this order to file his Notice of Assessment and the appropriate filing fee.
+Signed at Ottawa, Canada, this 19th day of November 2003.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2003TCC844
+COURT FILE NO.:
+2003-1682(IT)APP
+STYLE OF CAUSE:
+Jeffrey Swartz v. Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 14, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+November 19, 2003
+APPEARANCES:
+Agent for the Appellant:
+Joel Lipchitz
+Counsel for the Respondent:
+John Grant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

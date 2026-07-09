@@ -1,0 +1,343 @@
+Title: Halls c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520899/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-14-520899-halls-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2022-04-04
+
+# Halls c. La Reine
+
+- Citation: 2022 CCI 14
+- Decision date: 2022-04-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4450, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Halls c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-04-04
+Référence neutre
+2022 CCI 14
+Numéro de dossier
+2018-2670(IT)I, 2020-1129(GST)I
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2018‑2670(IT)I
+2020‑1129(GST)I
+ENTRE :
+PANSY HALLS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+Appels entendus sur preuve commune le 10 novembre 2021 à Toronto (Ontario).
+Devant : l’honorable juge suppléant Rommel G. Masse
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocates de l’intimée :
+Me Cathy Lin
+Me Lesley L’Heureux
+JUGEMENT MODIFIÉ
+Conformément aux motifs du jugement ci‑joints, la Cour a statué sur les appels interjetés à l’encontre des nouvelles cotisations de la manière suivante :
+a) L’appel interjeté au titre de la Loi de l’impôt sur le revenu, dossier no 2018‑2670(IT)I, est rejeté sans dépens.
+b) L’appel interjeté au titre de la Loi sur la taxe d’accise, dossier no 2020‑1129(GST)I, est accueilli en partie, conformément aux concessions faites par l’intimée, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation, en tenant compte de ce qui suit :
+(i) toutes les pénalités imposées au titre de l’article 285 de la Loi sur la taxe d’accise pour les années d’imposition 2011, 2012 et 2013 sont annulées;
+(ii) la TPS/TVH percevable sur les revenus non déclarés pour la période se terminant le 31 décembre 2012 est réduite de 5 014,55 $ à 2 904,29 $;
+(iii) l’appelante n’a droit à aucun autre redressement.
+« Le présent jugement modifié remplace le jugement daté du 9 février 2022. »
+Signé à Kingston (Ontario), Canada, ce 9e jour de février 2022.
+Signé à Kingston (Ontario), Canada, ce 4e jour d’avril 2022.
+« Rommel G. Masse »
+Le juge suppléant Masse
+Traduction certifiée conforme
+ce 15e jour de juin 2022.
+Christian Laroche, LL.B., juriste‑traducteur
+Référence : 2022 CCI 14
+Date : 20220117
+20220404
+Dossiers : 2018‑2670(IT)I
+2020‑1129(GST)I
+ENTRE :
+PANSY HALLS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge suppléant Masse
+[1] Dans le dossier no2018‑2670(IT)I (l’« appel interjeté au titre de la LIR »), l’appelante conteste les revenus non déclarés visés par les nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), dans sa version modifiée (la « LIR »), pour les années d’imposition 2008, 2011, 2012, 2013 et 2014, au moyen d’avis de nouvelle cotisation datés du 26 mars 2018.
+[2] Dans le dossier no 2020‑1129(GST)I, (l’« appel interjeté au titre de la LTA »), l’appelante interjette appel à l’encontre des cotisations connexes datées du 2 août 2018, pour une taxe sur les produits et services (la « TPS/TVH ») non versée, établies au titre de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E‑15, dans sa version modifiée (la « LTA »), pour les périodes de déclaration allant du 1er octobre 2011 au 31 décembre 2011, du 10 octobre 2012 au 31 décembre 2012 et du 10 octobre 2013 au 31 décembre 2013.
+[3] Les deux appels ont été entendus sur preuve commune, étant donné qu’ils ont des liens factuels, juridiques et temporels importants.
+I. La question préliminaire
+[4] À titre de question préliminaire, l’intimée demande à la Cour l’autorisation de déposer une réponse modifiée à l’appel interjeté au titre de la LIR. Compte de la question soulevée, j’accorde à l’intimée l’autorisation de déposer la réponse modifiée, qui est reçue et versée au dossier à la date de la présente audience.
+[5] La réponse modifiée soulève une question importante. L’intimée soutient que la Cour n’a pas compétence pour entendre l’appel interjeté au titre de la LIR concernant les nouvelles cotisations établies à son égard pour ses années d’imposition 2011 et 2012, qui sont toutes les deux datées du 26 mars 2018, au motif que ces cotisations portent que [traduction] « aucun impôt n’est à payer ».
+[6] L’intimée se fonde sur l’affidavit de Ratmono Thejo, souscrit le 9 novembre 2021, qui est produit devant la Cour en tant que pièce R‑1. M. Thejo est agent des litiges auprès de l’Agence du revenu du Canada (l’« ARC ») à Toronto. Il a déclaré dans son témoignage qu’il avait effectué des recherches dans tous les dossiers de l’ARC concernant cette affaire et que, pour les deux années d’imposition 2011 et 2012, le ministre avait établi, à l’égard de l’appelante, une nouvelle cotisation au moyen d’un avis daté du 26 mars 2018, portant ce qui suit, pour ces années‑là : [traduction] « AUCUN IMPÔT N’EST À PAYER ». En outre, aucuns frais d’intérêts ni aucune pénalité n’avaient été fixés pour les années en question. Le ministre n’a pas établi d’autres nouvelles cotisations à l’égard de l’appelante relativement à ces années d’imposition. L’appelante n’a pas déposé d’avis de détermination de perte au titre du paragraphe 152(1.1) de la LIR relativement à des pertes autres que des pertes en capital pour ces années d’imposition. Bien que les avis de nouvelle cotisation fassent état de soldes impayés, ces montants se rapportent à d’autres années d’imposition et ne découlent pas de ces nouvelles cotisations.
+[7] Le paragraphe 171(1) de la LIR est rédigé ainsi :
+171(1) La Cour canadienne de l’impôt peut statuer sur un appel :
+a) en le rejetant;
+b) en l’admettant et en :
+(i) annulant la cotisation,
+(ii) modifiant la cotisation,
+(iii) déférant la cotisation au ministre pour nouvel examen et nouvelle cotisation.
+[8] Dans l’arrêt Interior Savings Credit Union c. R., 2007 CAF 151, le juge Noël, de la Cour d’appel fédérale, a formulé la conclusion suivante, au paragraphe 15 :
+15. […] Conformément aux attributions que lui confère le paragraphe 152(1) de la Loi, le ministre « fixe l’impôt pour l’année, ainsi que les intérêts et les pénalités éventuels payables ». Le droit du contribuable de s’opposer à une cotisation (paragraphe 165(1)) et de faire appel devant la Cour canadienne de l’impôt (paragraphe 169(1)) ne peut être exercé que « pour faire annuler ou modifier la cotisation ». Il s’ensuit qu’à moins de contester l’impôt, les intérêts et les pénalités fixés pour l’année, le contribuable ne peut faire appel et il n’existe en fait aucun recours que la Cour de l’impôt puisse consentir […]
+[9] En l’espèce, il n’y a aucun impôt ni intérêt ou pénalité fixés à l’égard de l’appelante pour ses années d’imposition 2011 et 2012. Il n’y a donc rien dont on puisse interjeter appel, et la Cour ne peut accorder aucun redressement. La Cour n’a donc pas compétence pour entendre un appel portant sur les années d’imposition 2011 et 2012. Les appels interjetés par l’appelante relativement à ses années d’imposition 2011 et 2012 sont annulés.
+II. Les concessions faites par l’intimée
+[10] L’intimée admet qu’aucune pénalité pour faute lourde ne devrait être imposée, au titre de l’article 285 de la LTA, pour les périodes de déclaration se terminant les 31 décembre 2011, 2012 et 2013. Par conséquent, toutes les pénalités imposées au titre de la LTA doivent être annulées.
+[11] En outre, l’intimée accepte que la TPS/TVH percevable sur les revenus non déclarés pour la période se terminant le 31 décembre 2012 soit réduite de 5 014,55 $ à 2 904,29 $.
+III. Le contexte factuel
+[12] L’appelante, Pansy Halls, a témoigné. Elle m’a impressionné; je suis d’avis que c’est une personne honnête et une grande travailleuse. Son conjoint de fait, Bill Liske, et elle sont ensemble depuis 2007. Bill Liske avait déjà travaillé comme chef ou cuisinier dans le passé, et ils ont donc pensé ouvrir un restaurant. Ils savaient qu’il s’agissait d’une entreprise à haut risque et qu’il fallait environ cinq ans pour réaliser des profits dans ce domaine. Ils ont donc négocié une marge de crédit d’exploitation au nom de l’appelante. Ils ont acheté une propriété en novembre 2009 et ont consacré beaucoup de temps et d’argent à des rénovations.
+[13] Le restaurant, situé à Wiarton, en Ontario, a ouvert ses portes le 10 mars 2010 sous le nom de « Roadster’s Smoking Gun Barbecue » (« Roadster’s »). L’appelante et Bill Liske étaient associés à parts égales.
+[14] Tout leur temps était consacré au restaurant. L’appelante a déclaré dans son témoignage que tout l’argent qu’ils possédaient avait été investi dans le restaurant. Les affaires ne se sont pas bien passées. En 2014, ils ne pouvaient plus maintenir les activités. L’appelante a précisé qu’ils en étaient arrivés au point où ils remboursaient leur marge de crédit à l’aide de cartes de crédit personnelles. Ils ont dû transférer de l’argent d’un compte à l’autre pour tenter de garder le contrôle de la situation. Ils ont décidé de fermer le restaurant avant de le perdre, et les activités ont cessé le 31 août 2014.
+[15] La spécialiste en déclaration de revenus et commis comptable avec laquelle ils faisaient affaire était une personne nommée Mary Pretswell, de Liberty Tax. Elle a établi les déclarations de revenus pour les années d’imposition qui sont examinées en l’espèce. Elle n’a pas témoigné. Il me semble qu’elle aurait été un témoin important à l’audience des présents appels. Aucune raison n’a été avancée pour expliquer pourquoi elle n’a pas témoigné. J’en déduis que son témoignage n’aurait pas été favorable à l’appelante. Les déclarations de revenus de l’appelante sont produites devant la Cour en tant que pièce A‑2. L’appelante s’en tient aux renseignements qu’elles contiennent.
+IV. L’appel interjeté au titre de la Loi de l’impôt sur le revenu
+[16] Dans le calcul de son revenu pour les années d’imposition 2008, 2012, 2013 et 2014, l’appelante a déclaré son revenu (ses pertes) de la manière suivante :
+Tableau no 1
+Description
+2008
+2011
+2012
+2013
+2014
+Revenu d’entreprise brut
+250 375 $
+379 319 $
+290 728 $
+198 316 $
+106 109 $
+Revenu d’entreprise net (perte)
+34 927 $
+(76 793 $)
+(61 956 $)
+(28 125 $)
+(20 155 $)
+Revenu total
+40 391 $
+(71 087 $)
+(26 227 $)
+20 324 $
+56 810 $
+[17] En résumé, l’appelante a déclaré de manière constante des pertes d’entreprise nettes pendant que le restaurant était en exploitation. Par conséquent, elle a déclaré des revenus (pertes) de toutes sources de (71 087 $) pour 2011, de (26 227 $) pour 2012 et de 20 324 $ pour 2013 dans ses déclarations de revenus au titre de la LIR.
+[18] Le ministre a établi une cotisation initiale à l’égard de l’appelante pour les années d’imposition pertinentes, selon les déclarations de revenus déposées, au moyen d’avis datés du 30 avril 2009, du 25 mai 2012, du 3 avril 2013, du 7 avril 2014 et du 26 mars 2015.
+[19] À la demande de l’appelante, le ministre a établi une nouvelle cotisation pour l’année d’imposition 2008 afin d’appliquer un report rétrospectif d’une perte autre qu’une perte en capital de 15 173 $ de l’année d’imposition 2010 ainsi qu’un report rétrospectif d’une perte autre qu’une perte en capital de 7 008 $ de l’année d’imposition 2011, au moyen d’avis datés du 19 mai 2011 et du 4 juin 2012, respectivement.
+[20] Quelque temps plus tard, les déclarations de revenus de l’appelante ont été sélectionnées pour être examinées par la Division de la vérification. Il a été décidé de recourir à une cotisation fondée sur la valeur nette, parce que les restaurants ont tendance à reposer sur les opérations au comptant, que le restaurant a constamment déclaré des pertes d’entreprise, que les registres commerciaux et comptables tenus pour le restaurant étaient inadéquats et que les documents commerciaux et les documents relatifs aux finances personnelles n’étaient pas séparés. Le revenu déclaré par l’appelante était tout simplement insuffisant pour soutenir son train de vie et celui de son époux, aussi austères qu’ils fussent.
+[21] Duwayne Renouf, de l’ARC, a effectué une vérification fondée sur la valeur nette. Par suite de cette vérification, le ministre a établi de nouvelles cotisations pour les années d’imposition pertinentes, au moyen d’avis de nouvelle cotisation datés du 5 février 2016 afin de :
+a) refuser un report rétrospectif d’une perte autre qu’une perte en capital de 3 432 $ de 2011 à 2008;
+b) inclure des revenus non déclarés de 67 510 $, de 51 206 $ et de 23 226 $ pour les années 2011, 2012 et 2013;
+c) refuser des pertes autres que des pertes en capital de 34 536 $ pour 2014;
+d) imposer des pénalités pour faute lourde, au titre du paragraphe 163(2) de la LIR, pour 2011, 2012 et 2013.
+[22] L’appelante s’est opposée aux nouvelles cotisations, au moyen d’un avis daté de mars 2016.
+[23] Le ministre a confirmé la nouvelle cotisation établie pour 2008, au moyen d’un avis daté du 31 janvier 2018, étant donné qu’il n’y avait aucune perte à reporter rétrospectivement. Le ministre a en outre établi une nouvelle cotisation à l’égard de l’appelante, au moyen d’un avis daté du 26 mars 2018 afin de :
+a) réduire les revenus non déclarés pour 2011 de 7 000 $ à 60 510 $; réduire les revenus non déclarés pour 2012 de 25 961 $ à 25 245 $; réduire les revenus non déclarés pour 2013 de 8 938 $ à 14 288 $, respectivement;
+b) permettre un report prospectif d’une perte autre qu’une perte en capital de 7 982 $ de 2011 et 2012 à 2014;
+c) supprimer les pénalités pour faute lourde pour 2011, 2012 et 2013;
+V. L’appel interjeté au titre de la Loi sur la taxe d’accise
+[24] Par suite de l’évaluation fondée sur la valeur nette, des revenus supplémentaires ont été déterminés. Ils ne pouvaient provenir que de ventes non déclarées de Roadster’s pour lesquelles aucune TPS/TVH n’avait été facturée ni versée. Cette situation a entraîné l’établissement d’une nouvelle cotisation corrélative pour la TPS/TVH à l’égard des ventes non déclarées. Le ministre a établi une nouvelle cotisation, au moyen d’un avis de nouvelle cotisation daté du 2 août 2018, pour les périodes de déclaration en cause dans la présente affaire, au titre du paragraphe 298(4) de la LTA, ce qui a donné lieu à un rajustement de la taxe nette totalisant 7 181,41 $. Le résumé se trouve dans le tableau suivant :
+Tableau no 2
+Période se terminant le
+Augmentation des ventes
+Augmentation de la TPS/TVH
+Rajustements de la taxe nette
+31 décembre 2011
+14 767,26 $
+1 919,74 $
+1 919,74 $
+31 décembre 2012
+38 573,45 $
+5 914,55 $
+5 014,55 $
+31 décembre 2013
+1 900,89 $
+247,12 $
+247,12 $
+Totaux
+55 241,60 $
+7 181,41 $
+7 181,41 $
+[25] Des pénalités pour faute lourde ont également été imposées au titre de l’article 285 de la LTA.
+[26] Un avis d’opposition a été déposé le 28 décembre 2018, mais le ministre a ratifié la cotisation au moyen d’un avis de ratification daté du 31 janvier 2020.
+VI. L’analyse de la valeur nette : résumé et explication
+[27] Les résultats de la vérification et de l’évaluation fondée sur la valeur nette ainsi que les annexes et les documents de travail sont inclus dans le recueil des documents de l’intimée (pièce R‑3). Les résultats finaux, après tous les rajustements, sont résumés dans le tableau suivant :
+Tableau no 3
+Impôt sur le revenu ‑ Écart
+31 décembre 2010
+31 décembre 2011
+31 décembre 2012
+31 décembre 2013
+Variation de la valeur nette
+S.O.
+(26 059 $)
+(94 448 $)
+(37 142 $)
+Actif
+616 116 $
+618 584 $
+539 349 $
+502 411 $
+Passif
+475 342 $
+503 869 $
+519 082 $
+519 286 $
+Ajout des dépenses personnelles
+[EN BLANC]
+25 913 $
+23 708 $
+24 164 $
+Rajustements
+[EN BLANC]
+(638 $)
+(56 755 $)
+72 540 $
+Revenu en fonction de la valeur nette rajustée
+[EN BLANC]
+(26 697 $)
+(37 694 $)
+35 398 $
+Revenu total déclaré (perte)
+[EN BLANC]
+(147 717 $)
+(88 183 $)
+6 822 $
+Écart (Revenu d’entreprise non déclaré fondé sur la valeur nette)
+[EN BLANC]
+121 021 $
+50 490 $
+28 576 $
+La part de l’appelante – 50 %
+[EN BLANC]
+60 510 $
+25 245 $
+14 288 $
+Valeur nette
+140 774 $
+114 715 $
+20 267 $
+(16 875 $)
+[28] Par conséquent, selon l’évaluation fondée sur la valeur nette qui précède, l’appelante n’a pas déclaré des revenus de 60 510 $, de 25 245 $ et de 14 288 $ pour 2011, 2012 et 2013, respectivement. Une nouvelle cotisation a été établie à son égard en conséquence.
+[29] M. Justin Lai est comptable professionnel agréé. Il travaille à l’ARC en tant qu’agent des appels depuis environ sept ans. Il est chargé d’examiner les oppositions déposées par les contribuables. Son objectif est de présenter un processus impartial pour résoudre les questions soulevées par les contribuables dans un avis d’opposition. Il a déclaré dans son témoignage qu’il avait examiné l’avis d’opposition déposé par l’appelante ainsi que les documents de travail de la vérification.
+[30] Il a expliqué l’objet et la méthodologie d’une cotisation fondée sur la valeur nette. Celle‑ci consiste essentiellement en une évaluation factuelle. Le vérificateur obtient tous les renseignements et documents possibles soit directement du contribuable soit d’autres sources telles que le bureau de crédit, les relevés bancaires, les relevés concernant les marges de crédit, les relevés de cartes de crédit et tout autre document accessible et pertinent. Le vérificateur demande au contribuable s’il possède d’autres biens, comme des véhicules, qui n’ont pas été par ailleurs inclus. Il s’adresse au bureau d’enregistrement immobilier pour se renseigner sur les biens immobiliers et les hypothèques. Le vérificateur compte sur le contribuable et sur des sources liées au contribuable pour obtenir des renseignements pertinents. En l’absence de documents sources, il fait parfois appel aux renseignements fournis par Statistique Canada. Tout ce qui entre ou sort d’un compte bancaire se traduit par des modifications de la valeur nette. Des rajustements doivent être effectués pour les dons non imposables, les gains de loterie et d’autres sources de fonds non imposables. Ces fonds non imposables sont calculés, mais ils ne sont pas inclus dans le revenu. Les transferts internes entre comptes bancaires sont comptabilisés, mais ils n’entraînent aucune modification de la valeur nette. Tous les renseignements sont compilés et saisis dans des feuilles de calcul ou des documents de travail. Une comparaison est ensuite effectuée avec l’actif et le passif du contribuable pour voir s’il y a un changement dans la valeur nette pour la période visée. Le chiffre final est ensuite comparé à la ligne 150, qui correspond au revenu total inscrit dans la déclaration de revenus d’un contribuable. Une lettre de proposition est ensuite envoyée au contribuable afin de lui donner la possibilité d’expliquer toute divergence, de fournir des renseignements supplémentaires ou de rectifier toute erreur ou fausse information.
+[31] Cette vérification particulière a été effectuée, parce que le revenu que l’appelante avait déclaré et son train de vie ne correspondaient pas. Il n’y avait pas de séparation entre les comptes personnels et les comptes de l’entreprise, ce qui fait qu’il était difficile de déterminer quelles étaient les dépenses personnelles et quelles étaient les dépenses d’entreprise. Comme il s’agissait d’une entreprise qui privilégiait les paiements comptants et que ses livres et registres n’étaient pas complets, on a eu recours à la vérification selon la méthode de la valeur nette plutôt qu’à d’autres méthodes de vérification. Étant donné qu’il s’agit de vérifications factuelles, elles sont généralement très conservatrices, car la vérification peut ne pas permettre de repérer une opération en espèces. S’il existe des revenus de l’entreprise qui sont versés à la banque, la vérification selon la méthode de la valeur nette permettra de les détecter. Si une opération en espèces n’est pas consignée à la banque, cette méthode de vérification ne permettra pas de la détecter. C’est pourquoi la vérification est très conservatrice.
+[32] M. Lai a déclaré dans son témoignage qu’il ne voyait pas d’erreurs majeures dans la façon dont l’évaluation fondée sur la valeur nette avait été effectuée. Il a ensuite traité de certaines questions soulevées par l’appelante à l’étape de l’opposition. Une somme de 45 714 $ a été exclue du revenu, étant donné que ces fonds appartenaient à son fils qu’elle avait eu avec son premier époux. Selon l’appelante, les sommes retirées de son REER avaient été comptées deux fois, mais M. Lai a déterminé, en examinant les documents de travail et les annexes, que tel n’était pas le cas. Il a expliqué qu’une somme de 6 025,16 $ déposée dans le compte de l’entreprise était un transfert de fonds et qu’elle n’avait donc pas été considérée comme un revenu. Il a précisé que diverses dépenses personnelles proposées étaient en réalité des dépenses d’entreprise et que les rajustements nécessaires avaient été effectués (ces modifications sont indiquées dans le document de travail no 1001 sur les modifications finales, onglet 17, pièce R‑3). La part des dépenses d’Internet, de téléphone et de télévision attribuée à l’entreprise a été augmentée à 75 pour 100. La part des frais afférents à un véhicule à moteur attribuée à l’entreprise a été fixée à 50 pour 100, bien qu’il n’y ait pas eu de pièces justificatives, telles que des carnets de route. Les intérêts et frais bancaires n’ont pas été rajustés, étant donné que l’ARC a soutenu qu’ils n’étaient pas justifiés en tant que dépenses d’entreprise. Le report prospectif révisé d’une perte autre qu’une perte en capital a pris en compte la perte admise en 2011, qui avait déjà été appliquée à une année antérieure. Toutefois, une application excessive des pertes entraînerait une augmentation du revenu imposable de 3 432 $ en 2008.
+[33] M. Lai souligne qu’il ressort de la vérification que, pendant la période de vérification, l’actif net de l’appelante a diminué de 37 142 $. À première vue, cela représente une détérioration du train de vie. Toutefois, comment cela se compare‑t‑il et se rapporte‑t‑il au revenu déclaré (ou à la perte déclarée)? Pour comparer le revenu inclus dans les déclarations de revenus de l’appelante à la diminution de sa valeur nette, il faut ajouter les dépenses non déductibles qui ont été supportées et déduire les revenus reçus de sources non imposables. Les remboursements d’impôt sur le revenu sont déduits, car ils ne constituent pas des sources de revenus imposables. Les retenues d’impôt sur les sommes encaissées provenant d’un REER sont ajoutées, puisque ces sommes ne sont pas déductibles sur le plan fiscal. L’ajout le plus important concerne les dépenses personnelles. Le contribuable n’est pas autorisé à déduire des dépenses personnelles dans le calcul du revenu total aux fins d’imposition. Par conséquent, il est nécessaire de déterminer et de rajouter toutes les dépenses personnelles supportées pour chaque année. Ces dépenses personnelles ont été analysées, détaillées et reproduites dans le document de travail no 1001 (voir l’onglet 17, pièce R‑3). L’ARC a déterminé que les dépenses personnelles totales de l’appelante étaient de 39 912 $ en 2011, de 75 630 $ en 2012 et de 42 039 $ en 2013. Ces sommes, ajoutées à d’autres rajustements, montrent que l’écart dans la valeur nette est sous‑évalué de 135 020 $ en 2011, de 102 412 $ en 2012 et de 46 451 $ en 2013. Comme la vérification n’a pas permis de déterminer l’origine de ces écarts et que toutes les sources non imposables ont été déterminées, ces chiffres représentaient donc des revenus d’entreprise non déclarés. L’ARC a proposé d’augmenter le revenu imposable de l’appelante de sa part de 50 pour 100 de ces chiffres (ces chiffres ont depuis lors été rajustés à la baisse, ce qui a donné lieu aux chiffres relatifs aux revenus non déclarés figurant au tableau no 3).
+[34] Selon M. Lai, les conclusions tirées de la vérification étaient très conservatrices. Il a communiqué avec l’appelante pour discuter de la question et pour essayer de l’aider à en comprendre tous les aspects. Il a fallu cinq ou six rencontres avec l’appelante. Après ces discussions, il a effectué certains rajustements qui étaient en faveur de l’appelante. Les intérêts et les frais bancaires ont été admis comme dépenses d’entreprise dans une proportion de 50‑50, étant donné qu’il n’y avait aucune séparation entre les dépenses personnelles et les dépenses d’entreprise et que les documents étaient insuffisants. Certaines dépenses d’entreprise supplémentaires ont été admises sur la base d’une preuve verbale fournie par l’appelante, bien qu’il n’y ait eu aucun document justificatif. Il a renoncé aux pénalités pour faute lourde imposées au titre de la LIR et a accordé à l’appelante un allègement d’intérêts sur des arriérés. Une proposition de règlement a été présentée à l’appelante, mais celle‑ci l’a rejetée.
+VII. Les thèses des parties
+[35] L’appelante admet que le restaurant était sa seule source de revenus pendant qu’il était exploité, et qu’elle n’en avait aucune autre. Cependant, elle affirme qu’elle a correctement déclaré tous ses revenus imposables et qu’il n’y a eu aucun revenu non déclaré au cours des années d’imposition pertinentes. Elle est d’avis qu’une cotisation fondée sur la valeur nette n’était pas nécessaire. Le ministre aurait simplement dû se fonder sur les renseignements qu’elle avait initialement fournis dans ses déclarations de revenus et sur ceux fournis par la suite. Elle affirme que la cotisation fondée sur la valeur nette est tout simplement erronée. L’appelante soutient également qu’il incombe au ministre de démontrer qu’elle a tort. Par conséquent, les deux appels devraient être accueillis.
+[36] L’intimée s’en tient à la cotisation fondée sur la valeur nette telle qu’elle a été rajustée. Elle affirme qu’une évaluation de la valeur nette était nécessaire dans les circonstances et que l’appelante n’a pas réussi à contester avec succès les fondements de la cotisation fondée sur la valeur nette et les conclusions qui en ont été tirées, et que les appels se rapportant aussi bien au dossier de la LIR et qu’à celui de la LTA devraient être rejetés sous réserve des concessions faites au début de l’audience.
+VIII. Les points en litige
+[37] À mon avis, la Cour est appelée à statuer sur les questions suivantes :
+1. Le ministre était‑il justifié d’établir une cotisation à l’égard de l’appelante pour les années d’imposition pertinentes après l’expiration de la période normale de nouvelle cotisation au titre du sous‑alinéa 152(4)a)(i) de la LIR et du paragraphe 298(4) de la LTA?
+2. Le ministre était‑il justifié d’utiliser la méthode de cotisation fondée sur la valeur nette comme autre méthode d’établissement de la cotisation?
+3. Le ministre a‑t‑il à juste titre inclus les sommes de 60 510 $, de 25 245 $ et de 14 288 $ dans le revenu de l’appelante pour les années d’imposition 2011, 2012 et 2013, respectivement?
+4. Le ministre a‑t‑il à juste titre appliqué les pertes autres que des pertes en capital de 7 982 $ des années d’imposition 2011 et 2012 à l’année d’imposition 2014, et l’appelante avait‑elle des pertes autres que des pertes en capital de 3 432 $ de l’année d’imposition 2011 qui pouvaient être appliquées à son année d’imposition 2008?
+5. L’appelante est‑elle redevable d’une taxe nette supplémentaire de 7 428,53 $ au titre de la LTA pour les périodes de déclaration en cause?
+[38] À mon avis, le règlement adéquat des questions numéros 3), 4) et 5) dépend entièrement de la question de savoir si oui ou non la Cour accepte la validité de la cotisation fondée sur la valeur nette.
+IX. Analyse
+1) Les années frappées de prescription
+[39] Afin de garantir une certaine certitude et un caractère définitif au contribuable, le ministre doit respecter certains délais pour pouvoir établir de nouvelles cotisations à l’égard du contribuable pour les années antérieures. La période normale de cotisation est de trois (3) ans selon la LIR (al. 152(3.1)b)) et de quatre (4) ans selon la LTA (par. 298(1)). Par conséquent, en l’espèce, les années 2008 et 2011 sont prescrites selon la LIR et les périodes de déclaration se terminant le 31 décembre 2011 et le 31 décembre 2012 sont prescrites selon la LTA.
+[40] Toutefois, le ministre peut à tout moment établir une cotisation à l’égard d’un contribuable, au titre du sous‑alinéa 152(4)a)(i) de la LIR et de l’alinéa 298(4)a) de la LTA, s’il est établi que le contribuable a fait une présentation erronée des faits par négligence, inattention ou omission volontaire. Il incombe au ministre d’établir la preuve à cet égard, même dans le cas d’une cotisation fondée sur la valeur nette, et cela est vrai même dans les cas où le ministre n’est pas en mesure d’identifier la véritable source du revenu du contribuable : voir la décision Boroumand c. R., 2015 CCI 239, rendue par la juge en chef adjointe Lamarre, aux paragraphes 65 à 69.
+[41] Comment le ministre s’acquitte‑t‑il du fardeau de preuve qui lui incombe? Dans l’arrêt Lacroix c. R., 2008 CAF 241, le juge Nadon a formulé les observations suivantes, au paragraphe 32 :
+[32] […] Dans la mesure où la Cour canadienne de l’impôt est persuadée que le contribuable touche un revenu qu’il n’a pas déclaré et que l’explication offerte par le contribuable pour l’écart constaté entre son revenu déclaré et l’accroissement de son actif est non crédible, le ministre s’est acquitté du fardeau de preuve qui lui incombe aux termes du sous‑alinéa 152(4)(a)(i) […]
+[42] En l’espèce, il y a eu à mon avis une présentation erronée des faits concernant le revenu déclaré de l’appelante et les ventes d’entreprise de Roadster’s. La vérification et l’évaluation fondée sur la valeur nette ont été réalisées de manière approfondie, méticuleuse et exhaustive. Tous les renseignements pertinents provenant de diverses sources ont été pris en compte. Dans la présente affaire, il y avait un écart important entre le revenu déclaré et le revenu ayant fait l’objet d’une cotisation. L’appelante a déclaré des pertes d’entreprise de 71 081 $ en 2011 et de 26 227 $ en 2012, et a déclaré un revenu de 20 324 $ en 2013. La vérification et l’évaluation fondée sur la valeur nette font état d’un revenu non déclaré de 60 150 $ pour 2011, de 25 245 $ pour 2012 et de 14 288 $ pour 2013. Il s’agit d’écarts importants. Le revenu personnel et le revenu d’entreprise sont liés, puisque Roadster’s était la seule source de revenus de l’appelante. Tout revenu non déclaré équivaut à des ventes taxables au titre de la LTA. L’appelante n’a pas été en mesure de fournir une explication crédible et plausible des écarts constatés entre le revenu déclaré et le revenu non déclaré déterminé par l’évaluation fondée sur la valeur nette. J’accepte le fait que l’évaluation fondée sur la valeur nette est plus fiable que le revenu déclaré de l’appelante, et, par conséquent, le ministre a démontré qu’il y avait eu une présentation erronée des faits.
+[43] La présentation erronée des faits dont il est question est‑elle attribuable à la négligence, à l’inattention ou à une omission volontaire de la part de l’appelante? Tous les contribuables doivent tenir des registres et des livres de comptes qui permettent d’établir le montant des impôts payables au titre de la LIR (voir le paragraphe 230(1) de la LIR) ainsi que les obligations et responsabilités du contribuable aux termes de la LTA (voir le paragraphe 286(1) de la LTA). En l’espèce, la tenue de comptes de l’appelante n’était pas suffisante pour atteindre l’objectif poursuivi. L’appelante n’a pas séparé ses dépenses personnelles des dépenses de l’entreprise. Il a été jugé que le défaut de tenir des livres de comptes appropriés constituait de la négligence : voir l’arrêt Lacroix, précité, par. 13. À mon avis, le fait pour un contribuable de ne pas tenir des livres de comptes appropriés constitue de la négligence, surtout lorsqu’il existe une obligation légale de le faire. Cette négligence a entraîné une présentation erronée des revenus de l’appelante, qui n’a pas pu établir quels étaient ses véritables revenus ou dépenses. Par conséquent, je suis d’avis que le ministre s’est acquitté du fardeau qui lui incombait de prouver que l’appelante avait fait une présentation erronée des faits par négligence ou inattention et que le ministre a donc démontré que la nouvelle cotisation établie pour les années frappées de prescription était justifiée.
+2) La cotisation fondée sur la valeur nette
+[44] Selon l’appelante, ses déclarations de revenus initiales sont exactes et il n’était pas nécessaire que le ministre recoure à la méthode extraordinaire d’une cotisation fondée sur la valeur nette pour calculer son revenu. Elle fait valoir que les conclusions découlant de l’évaluation fondée sur la valeur nette ne peuvent pas être justes et que le ministre aurait dû simplement se fonder sur les renseignements qu’elle avait fournis. L’appelante soutient aussi que c’est au ministre qu’il appartient de démontrer qu’elle a commis une erreur, et non à elle d’établir qu’elle n’en a pas commis.
+Une cotisation fondée sur la valeur nette était‑elle appropriée?
+[45] Pour déterminer s’il y avait lieu en l’espèce d’appliquer la méthode de la cotisation fondée sur la valeur nette, il faut commencer par analyser le paragraphe 152(4) de la LIR (298(4) de la LTA) qui dispose que le ministre peut établir une cotisation ou une nouvelle cotisation à tout moment. Selon le paragraphe 152(7) de la LIR (299(1) de la LTA), le ministre n’est pas lié par les renseignements fournis par un contribuable. Ces dispositions doivent être interprétées conjointement avec le paragraphe 152(8) de la LIR (299(4) de la LTA) qui prévoit une présomption de validité d’une cotisation ou d’une nouvelle cotisation.
+[46] La méthode de cotisation fondée sur la valeur nette ne peut fournir qu’un revenu estimatif. On y recourt habituellement lorsque le contribuable n’a pas tenu de documents ou que ses documents sont insuffisants, ou lorsqu’il a omis de produire des déclarations de revenus. Dans la décision Bigayan c. R., 97‑2699‑IT‑G, le juge Bowman a expliqué ainsi la nature et la méthodologie de la cotisation fondée sur la valeur nette :
+2. La méthode de la valeur nette est, comme on le faisait observer dans l’affaire Ramey v. The Queen, 93 DTC 791, une solution de dernier recours que l’on emploie lorsque tout le reste a échoué. On l’utilise souvent lorsqu’un contribuable a omis de produire des déclarations de revenus ou n’a pas conservé de documents. C’est un instrument imprécis, exact à l’intérieur d’un registre dont le champ est indéterminé. Elle repose sur le postulat selon lequel, si l’on soustrait la valeur nette d’un contribuable en début d’année à sa valeur nette en fin d’année, si l’on ajoute les dépenses du contribuable durant l’année et si l’on soustrait les encaissements non imposables et les plus‑values d’actifs existants, alors le résultat net, après déduction de toute somme déclarée par le contribuable, doit être attribuable au revenu non déclaré gagné durant l’année, sauf si le contribuable peut apporter une preuve contraire. C’est au mieux une méthode insatisfaisante, qui est arbitraire et inexacte, mais quelquefois c’est le seul moyen d’arriver à un chiffre qui se rapproche du revenu d’un contribuable.
+[47] Le juge Bocock a réaffirmé ce point dans la décision Truong c. R., 2017 CCI 22, de la manière suivante :
+46. Les cotisations subsidiaires, qu’elles soient établies au moyen d’une analyse des dépôts, d’une évaluation de la valeur nette ou d’autres techniques, ne sont pas des expériences scientifiques et, cela étant, elles sont intrinsèquement inexactes. Il est nécessaire d’en établir lorsqu’un contribuable a omis de produire des déclarations de revenus, a produit des déclarations manifestement déficientes ou omet de fournir les livres et les registres qui répondent aux demandes de production ou aux déclarations produites. […]
+[Souligné dans l’original, caractère gras ajouté.]
+[48] Dans la décision Tam c. R., 2010 CCI 157, le juge Boyle, de la Cour, a fait observer, au paragraphe 21, que l’on recourt aux cotisations fondées sur l’avoir net dans les cas où le contribuable n’a pas tenu des livres comptables ou des registres permettant de vérifier les revenus et les dépenses déclarés.
+[49] Le juge Nadon, de la Cour d’appel fédérale, a formulé les observations suivantes dans l’arrêt Lacroix c. R., 2008 CAF 241, au paragraphe 18 :
+18. […] Notre système de perception d’impôt sur le revenu est fondé sur la déclaration du contribuable quant au revenu qu’il a touché au cours d’une année d’imposition. S’il arrive que le ministre doute, pour quelque raison que ce soit, de l’exactitude de la déclaration de revenus produite par le contribuable, il peut entreprendre l’enquête qui lui semble nécessaire. Il peut par la suite établir une nouvelle cotisation. Si le contribuable s’oppose à la nouvelle cotisation par voie d’avis d’appel, le ministre n’a pas à faire la preuve des faits à l’origine de la nouvelle cotisation. Il n’a qu’à étayer dans sa réponse à l’avis d’appel les faits qu’il a tenus pour acquis en établissant la nouvelle cotisation. Le contribuable, qui sait tout ce qu’il y a à savoir au sujet de ses affaires, a le fardeau de « démolir » les présomptions du ministre sinon ces présomptions sont présumées être vraies.
+Et au paragraphe 24, il a donné les explications suivantes :
+24. Il n’y a rien dans ce raisonnement qui impose au contribuable un fardeau inéquitable. Le contribuable a la connaissance des faits et il est en mesure d’en faire la preuve. Il serait tout à fait irréaliste d’imposer au ministre le fardeau de mettre au jour la source d’un revenu dont l’existence même ne peut être constatée qu’indirectement, c’est‑à‑dire par l’application de la méthode de l’avoir net.
+[50] En me fondant sur tous les éléments de preuve que j’ai entendus et lus, j’arrive à la conclusion que la méthode de la cotisation fondée sur la valeur nette était une méthode qu’il convenait d’utiliser en l’espèce. L’appelante n’a pas tenu des registres appropriés ou complets, comme l’exigent le paragraphe 230(1) de la LIR et le paragraphe 286(1) de la LTA. Elle n’a pas séparé ses finances personnelles de celles de l’entreprise. Les restaurants reposent très souvent sur les opérations au comptant. Le restaurant aurait subi des pertes chaque année où il était en exploitation et n’aurait eu qu’un faible revenu en 2013. La seule autre source de revenus de l’appelante consistait en des prélèvements de ses régimes d’épargne‑retraite, de ses comptes non enregistrés et de son Régime de pensions du Canada. Ces montants n’étaient pas suffisants pour couvrir les pertes enregistrées. L’état des registres de l’appelante était tel qu’il était pratiquement impossible de déterminer avec précision ses obligations fiscales au titre de la LIR ou de la LTA. L’appelante n’a pas présenté à la Cour quelque document que ce soit qui permettraient d’établir le contraire.
+La charge de la preuve
+[51] Contrairement à ce qu’affirme l’appelante, la charge de démontrer que la nouvelle cotisation est erronée lui incombe, et il n’appartient pas au ministre de démontrer qu’elle a commis une erreur. Le principe a été établi dans les jugements susmentionnés ainsi que dans la décision Dowling c. R., [1996] A.C.I. no 301, rendue par la juge Lamarre, où elle fait observer ce qui suit, à la page 3 :
+Il incombe à la partie appelante de démontrer que le fondement de la cotisation du ministre est erroné ou qu’il y a des erreurs dans certains éléments de la cotisation. [...] Donc, lorsqu’un contribuable fait l’objet d’une nouvelle cotisation fondée sur le calcul de l’avoir net, il peut essayer de présenter des preuves permettant à la Cour de déterminer son revenu réel net ou chercher à prouver que la cotisation selon l’avoir net est erronée.
+[52] Le juge Hamlyn était du même avis dans la décision Mathur c. R., [2001] A.C.I. no 566, par. 18. Voir aussi la décision Tam c. R., 2010 CCI 157, où le juge Boyle, de la Cour, s’est exprimé ainsi :
+3. Il est bien établi qu’en règle générale, dans les litiges en matière fiscale, il incombe au contribuable de convaincre la Cour selon la prépondérance des probabilités, au moyen d’éléments de preuve crédibles, que les cotisations portées en appel sont erronées. À moins que le contribuable n’établisse une preuve prima facie crédible et cohérente, la Couronne n’est pas tenue de convaincre la Cour que les cotisations sont exactes.
+[53] En outre, selon le paragraphe 152(8) de la LIR et le paragraphe 299(4) de la LTA, une cotisation est réputée valide et exécutoire. Il incombe à l’appelante de démontrer que la cotisation fondée sur la valeur nette est erronée, et non au ministre de démontrer qu’elle est justifiée.
+La contestation de la cotisation fondée sur la valeur nette
+[54] Il existe essentiellement trois façons de contester une cotisation fondée sur la valeur nette. À cet égard, mon collègue, le juge Bocock, a donné les explications suivantes dans la décision Truong, précitée :
+36. Le ministre a le droit d’établir subsidiairement une cotisation à l’endroit d’un contribuable en vertu du paragraphe 152(7) de la LIR et de dispositions analogues figurant au paragraphe 299(1) de la LTA. Le contribuable a le droit de contester une telle cotisation de trois façons :
+(i) contester sa nécessité ou la méthode choisie au départ;
+(ii) contester des aspects précis du montant fixé, la méthode suivie ou des éléments inclus;
+(iii) produire des éléments de preuve au sujet des sources non imposables de revenus que le contribuable a reçus.
+[55] Il a poursuivi en faisant observer ce qui suit, au paragraphe 48 :
+[…] De vagues affirmations, des contestations incohérentes au sujet des éléments de preuve concrets de la part de parties intéressées et liées et l’absence de preuve documentaire ne sauraient réfuter les documents convaincants de tierces parties, les témoignages désintéressés et les conclusions logiques qui font partie intégrante de la cotisation subsidiaire du ministre, laquelle est fondée sur des documents de tiers et est étayée par des témoignages clairs au procès. […]
+[56] En l’espèce, l’appelante n’a pas été en mesure de contester avec succès la nécessité de recourir à la cotisation fondée sur la valeur nette. L’état de ses registres personnels et des registres de comptes de l’entreprise était tel qu’il était nécessaire de procéder à une cotisation fondée sur la valeur nette.
+[57] L’appelante n’a pas non plus réussi à présenter un quelconque argument crédible pour contester la méthodologie utilisée. M. Lai a soigneusement expliqué le processus ainsi que les sources d’information utilisées. Tous les documents de travail et toutes les annexes qui ont été produits et sur lesquels on s’est fondé figurent à la pièce R‑3. En examinant ces documents, je ne vois rien de fautif dans la manière dont la vérification a été effectuée ou dans les conclusions qui en ont été tirées.
+[58] L’appelante n’a pas contesté avec succès la cotisation fondée sur la valeur nette sur des points précis, mais l’a plutôt contestée de façon générale. Tous les points précis qu’elle a soulevés à l’étape de l’opposition ont été traités de manière satisfaisante. L’agent des appels a effectué des rajustements en fonction de renseignements supplémentaires reçus à l’étape de l’opposition et a admis la plupart des dépenses, même celles qui étaient fondées sur des observations verbales, et ce, en l’absence d’une preuve documentaire à l’appui.
+[59] L’appelante n’a pas signalé de sources importantes de revenus non imposables qui ont été incluses à tort dans la cotisation fondée sur la valeur nette.
+[60] En résumé, l’appelante a simplement rejeté la cotisation fondée sur la valeur nette qu’elle considère comme étant erronée. Toutefois, cette cotisation a été effectuée en fonction de documents bancaires produits par elle et par ses institutions bancaires. L’appelante n’a fourni à la Cour aucun document pour étayer des lacunes de la cotisation fondée sur la valeur nette. Elle n’a produit que les documents qui avaient déjà été examinés par le vérificateur et réexaminés par l’agent des appels. Ses registres n’étaient pas suffisants pour étayer l’affirmation selon laquelle elle avait correctement déclaré ses revenus, et elle n’a présenté aucun élément de preuve fiable pour démolir les hypothèses formulées par le ministre.
+[61] Il a souvent été affirmé que le contribuable, non le gouvernement, est le mieux placé pour prouver son revenu imposable, étant donné que c’est lui qui gère sa propre entreprise et qu’il est le gardien de ses registres personnels et des registres de comptes de l’entreprise. Lorsque le contribuable a conservé des documents insuffisants, le ministre peut recourir à d’autres méthodes d’établissement de la cotisation, comme la méthode de cotisation fondée sur la valeur nette. Il se peut que cette méthode ne soit pas entièrement satisfaisante, mais elle fournit bel et bien une estimation fiable. La juge Desjardins, de la Cour d’appel fédérale, a formulé les observations suivantes, dans l’arrêt Hsu c. R., 2001 CAF 240 :
+30. Par sa nature, une évaluation de la valeur nette est une estimation arbitraire et imprécise du revenu du contribuable. Toute iniquité perçue se rapportant à ce genre d’évaluation est réglée en reconnaissant que le contribuable est celui qui est le mieux placé pour connaître son revenu imposable. Lorsque le fondement factuel de l’estimation du ministre est inexact, il devrait être simple pour le contribuable de corriger à la satisfaction de la Cour l’erreur que le ministre a commise.
+[62] En l’espèce, la cotisation établie par le ministre est réputée valide et exécutoire. Si l’estimation du revenu et des taxes dues effectuée par le ministre est inexacte, l’appelante doit en établir la preuve et elle est mieux placée pour le faire. Elle n’y est pas parvenue. Elle n’a produit aucune preuve testimoniale ni documentaire pour démontrer que les hypothèses et les conclusions formulées par le ministre sont inexactes.
+Conclusions
+[63] Compte tenu de la preuve fournie et des résultats découlant de la cotisation fondée sur la valeur nette, que j’admets, la Cour est convaincue que :
+a) le ministre était justifié d’établir une cotisation à l’égard de l’appelante après l’expiration de la période normale de nouvelle cotisation au titre du sous‑alinéa 152(4)a)(i) de la LIR et du paragraphe 298(4) de la LTA;
+b) le ministre était justifié d’utiliser la méthode de cotisation fondée sur la valeur nette comme autre méthode d’établissement de la cotisation;
+c) c’est à juste titre que le ministre a inclus les sommes de 60 510 $, de 25 245 $ et de 14 288 $ dans le revenu de l’appelante pour les années d’imposition 2011, 2012 et 2013, respectivement;
+d) c’est à juste titre que le ministre a effectué un report prospectif et appliqué les pertes autres que des pertes en capital de 7 984 $ des années d’imposition 2011 et 2012 à l’année d’imposition 2014;
+e) selon la cotisation fondée sur la valeur nette, l’appelante n’avait pas de pertes autres que des pertes en capital de 3 432 $ de l’année d’imposition 2011 qui pouvaient être appliquées à son année d’imposition 2008;
+f) l’appelante est redevable d’une taxe nette supplémentaire au titre de la LTA, telle qu’elle a été établie, sous réserve des concessions faites par l’intimée au début de l’audience.
+Dispositif
+[64] Pour les motifs qui précèdent, la Cour conclut ce qui suit :
+a) L’appel interjeté au titre de la Loi de l’impôt sur le revenu, dossier no 2018‑2670(IT)I, est rejeté sans dépens.
+b) L’appel interjeté au titre de la Loi sur la taxe d’accise, dossier no 2020‑1129(GST)I, est accueilli en partie, conformément aux concessions faites par l’intimée, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation, en tenant compte de ce qui suit :
+(i) toutes les pénalités imposées au titre de l’article 285 de la Loi sur la taxe d’accise pour les années d’imposition 2011, 2012 et 2013 sont annulées;
+(ii) la TPS/TVH percevable sur les revenus non déclarés pour la période se terminant le 31 décembre 2012 est réduite de 5 014,55 $ à 2 904,29 $;
+(iii) l’appelante n’a droit à aucun autre redressement.
+« Les présents motifs du jugement modifiés remplacent les motifs du jugement datés du 9 février 2022; ils corrigent les mots et les nombres soulignés au paragraphe [11] et aux sous‑alinéas [64]b(i) et (ii). »
+Signé à Kingston (Ontario), Canada, ce 9e jour de février 2022.
+Signé à Kingston (Ontario), Canada, ce 4e jour d’avril 2022.
+« Rommel G. Masse
+Le juge suppléant Masse
+Traduction certifiée conforme
+ce 15e jour de juin 2022.
+Christian Laroche, LL.B., juriste‑traducteur
+RÉFÉRENCE :
+2022 CCI 14
+NOS DES DOSSIERS DE LA COUR :
+2018‑2670(IT)I
+2020‑1129(GST)I
+INTITULÉ :
+PANSY HALLS ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 10 novembre 2021
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Rommel G. Masse
+DATE DU JUGEMENT :
+Le 9 février 2022
+Le 4 avril 2022
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocates de l’intimée :
+Me Cathy Lin
+Me Lesley L’Heureux
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+L’appelante elle‑même
+Pour l’intimée :
+François Daigle
+Sous‑procureur général du Canada
+Ottawa, Canada

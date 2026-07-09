@@ -1,0 +1,157 @@
+---
+title: "Davis c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26503/index.do"
+last_modified: "2004-10-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 662"
+citation2: ""
+neutral_citation: "2004 CCI 662"
+decision_date: "2004-10-01"
+language: "fr"
+item_id: "26503"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3251
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:58:15.019000+00:00"
+cases_cited_count: 0
+cases_citing_count: 10
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7e9afc7789b39357c7a74a58259270048b618109c9a9a2dde12863da2f9ea10b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Davis c. La Reine
+
+- Citation: 2004 CCI 662
+- Decision date: 2004-10-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3251, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Davis c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-10-01
+Référence neutre
+2004 CCI 662
+Numéro de dossier
+2003-4189(GST)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2004CCI662
+Dossier : 2003-4189(GST)I
+ENTRE :
+BRENT DAVIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+CERTIFICATION DE LA TRANSCRIPTION DES
+MOTIFS DU JUGEMENT
+Je demande que la transcription certifiée ci-jointe des motifs de jugement que j'ai prononcés oralement à l'audience à Halifax (Nouvelle-Écosse) le 7 juillet 2004, soit déposée.
+Signé à Ottawa, Canada, ce 1er jour d'octobre 2004.
+Juge Campbell
+Traduction certifiée conforme
+ce 22e jour d'avril 2005.
+Nathalie Boudreau
+Référence : 2004CCI662
+Date : 20041001
+Dossier : 2003-4189(GST)I
+ENTRE:
+BRENT DAVIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Révisés à partir de la transcription des motifs du jugement rendus oralement à Halifax (Nouvelle-Écosse) le 7 juillet 2004)
+La juge Campbell
+[1] Il s'agit d'un appel d'une cotisation établie à l'égard de la taxe sur les produits et services / taxe de vente harmonisée (TPS/TVH) découlant de redressements de la TPS/TVH percevable et de crédits de taxe sur les intrants (CTI) demandés, en plus des pénalités et de l'intérêt, relativement à la période allant du 1er janvier 1999 au 31 décembre 2000.
+[2] L'appelant est propriétaire unique et exploitant de l'entreprise « Mr. D's Small Engine Repair » , qui répare du matériel pour pelouses et jardins et des souffleuses à neige. Parmi ses travaux de réparation, l'appelant effectuait des travaux relatifs aux garanties, où des clients des environs lui apportaient leurs machines défectueuses pour réparation. L'appelant facturait ensuite ses services au fournisseur ou au fabricant des machines. Parfois, les fabricants en question se trouvaient à l'extérieur de la province ou du pays. En ce qui concernait ce genre de travail, l'appelant ne tenait pas compte de la taxe lorsqu'il était question de fournisseurs ou de fabricants se trouvant à l'étranger.
+[3] En plus des travaux de réparation, l'entreprise vendait des machines, comme des scies à chaîne, des ébouteuses et des tondeuses à siège. Ces machines étaient laissées sur la propriété de l'entreprise par des clients, et dans la plupart des cas, l'appelant vendait les machines pour ces personnes sans recevoir de commission en contrepartie de son aide dans la vente.
+[4] Pendant la période visée par l'appel, il louait une Dodge Stratus 1998 et était propriétaire d'une Jeep Comanche. La jeep était utilisée à 100 % dans le cadre de l'entreprise, et ce, pour effectuer des livraisons et pour transporter de l'équipement. La Dodge était utilisée par l'épouse de l'appelant pour se rendre au travail, mais, dans une certaine mesure, elle était aussi utilisée dans le cadre de l'entreprise. Selon le témoignage de l'appelant, la Dodge était utilisée pour passer chercher et livrer des petites pièces, pour effectuer des longs déplacements à des fins professionnelles, pour faire les dépôts bancaires et pour faire des courses.
+[5] L'appelant a déclaré qu'il utilisait la voiture à des fins professionnelles 92 % du temps, mais le ministre a réduit ce pourcentage pour qu'il se fixe à 15 %.
+[6] L'appelant tenait un seul registre pour les deux véhicules. Il a expliqué qu'il tenait compte du total du kilométrage parcouru par les deux véhicules et, qu'à la fin de l'année, il soustrayait le kilométrage parcouru par la Jeep Comanche, étant donné que celle-ci était utilisée à 100 % dans le cadre de l'entreprise, et que la différence représentait le kilométrage parcouru par la Dodge.
+[7] L'appelant avait deux comptes bancaires pour l'entreprise - l'un auprès de la CIBC et l'autre auprès de la caisse populaire. Il a témoigné qu'il recevait une pension de service militaire et une pension du MAC et qu'il transférait parfois des fonds personnels dans les comptes bancaires de l'entreprise pour pouvoir continuer à exploiter l'entreprise. Toutefois, il n'a pas consigné ces transactions dans son registre, étant donné qu'il les considérait comme étant des transactions personnelles. Les trois montants se rapportant à la période en question sont : 2 000 $, déposés dans le compte bancaire de l'entreprise à la CIBC le 25 février 2000; 300 $, déposés dans le compte bancaire de l'entreprise à la CIBC le 3 mars 2000; 200 $, déposés le 2 mars 2000 toujours dans le compte bancaire à la CIBC. Jacqueline Keating, agente des appels, a témoigné que les feuilles de travail du vérificateur indiquaient que ces trois montants étaient des dépôts indéterminés et qu'il était impossible de les vérifier parce qu'on ne pouvait pas déterminer la source des fonds.
+[8] Le 24 janvier 2000, l'appelant a vendu, pour 500 $, une souffleuse dont le propriétaire était Doug Murdock. Ce montant a été déposé dans le compte bancaire de l'entreprise. Avant de vendre la souffleuse, l'appelant l'a réparée pour le montant de 95 $, taxes comprises. Il n'a pas facturé à Doug Murdock de montant supplémentaire pour la vente de la machine. Le 5 février 2000, l'entreprise a émis un chèque à Doug Murdock pour le solde, soit 405 $. L'appelant s'est reporté à son bordereau de dépôt en date du 24 janvier 2000, date où il a déposé 500 $ en espèces. Le chèque de 405 $ émis à M. Murdock n'a pas bien été consigné dans les livres et n'a pas fait l'objet des renvois nécessaires.
+[9] Dans cet appel, il m'incombe de décider si l'appelant est responsable de la TPS/TVH percevable, telle qu'elle a été calculée par le ministre, et si l'appelant a droit à des CTI excédant le montant que le ministre a accordé.
+[10] Au départ, l'appelant a signalé une petite erreur de 21 $ dans le total des dépôts pour les 9, 14 et 20 juillet 1999.
+[11] L'intimée a reconnu l'erreur, ce qui a fait passer le chiffre établi par le ministre en ce qui concerne le redressement de la TPS/TVH percevable de 2 293 $ à 2 272 $. Mme McIntyre, corrigez-moi si je me trompe. Est-ce que les montants que vous m'avez donnés mercredi donnaient le chiffre révisé de 2 272 $.
+[12] MME MCINTYRE : Je suis désolée, Madame la juge, je n'ai pas apporté mes notes aujourd'hui, mais le chiffre que vous donnez me semble exact. Le chiffre 2 271 $ me semble exact, mais je ne suis pas certaine, parce que je n'ai pas mes notes.
+[13] MADAME LA JUGE CAMPBELL : Je pense que c'était 21 $, et si c'est bien le cas - c'est juste un dollar, mais nous ferions mieux d'avoir les bons chiffres - je pense que le montant serait de 2 272 $ plutôt que de 2 271 $.
+[14] MME MCINTYRE : Ce chiffre me semble exact.
+[15] MADAME LA JUGE CAMPBELL : Étant donné que le redressement relatif aux CTI demandés ne change pas, le montant de la taxe nette établi par le ministre se fixe à - et, encore une fois, il s'agit d'une différence d'un dollar seulement - 4 598 $ plutôt qu'à 4 597 $.
+[16] L'intimée a adopté la position selon laquelle l'appelant avait la charge de réfuter la cotisation établie par le ministre, charge dont il ne s'est pas acquitté étant donné qu'il n'a pas respecté les exigences et les règles techniques prévues par la Loi et qu'il n'a pas tenu les livres et les registres appropriés conformément à la Loi.
+[17] Dans le cas en l'espèce, il n'y a pas de doute que la charge de la preuve repose sur l'appelant. Il n'y a pas de question de crédibilité. Cette affaire porte simplement sur la question de la tenue de livres appropriés.
+[18] L'appelant s'est dit frustré des problèmes qu'il a eus au cours des années pour faire accepter ses méthodes comptables. Au début, il a engagé et payé un comptable pour que celui-ci lui montre une façon acceptable de tenir les livres de l'entreprise.
+[19] L'appelant a dit qu'il a fait l'objet d'une autre vérification avant celle dont il est question dans le cas en l'espèce, et que le vérificateur chargé du dossier lui avait alors dit que son système de tenue de livres était adéquat. Bien que je comprenne la frustration de l'appelant, je dois examiner cet appel en fonction des registres qui m'ont été présentés.
+[20] En ce qui concerne la demande de CTI excédant le montant accordé, l'avocate de l'intimée m'a renvoyée à la décision du juge McArthur dans l'affaire 1116186 Ontario Inc. c. Canada, [2003] A.C.I. no 730.
+[21] L'affaire en question portait sur des demandes de CTI qui ont été rejetées en raison du manque de preuves documentaires. Les opérations s'effectuaient principalement en espèces, et l'appelante ne produisait pas de déclarations de TPS. Le juge McArthur a cité les commentaires qu'a formulés le juge en chef adjoint de la Cour, le juge Bowman, dans l'affaire Helsi Construction Management Inc. c. Canada, [1997] A.C.I. no 1194.
+[22] Dans cette affaire-là, le juge Bowman a jugé que les exigences en matière de documents dont il est question dans le Règlement sont « obligatoires » , pour dire comme lui, et non « indicatives » .
+[23] Je suis d'accord avec les conclusions du juge Bowman dans l'affaire Helsi. L'alinéa 169(4)a) indique les documents nécessaires pour appuyer une demande de CTI. L'article 3 du Règlement indique de façon détaillée les renseignements nécessaires pour appuyer une demande de CTI en vertu de l'alinéa en question. Il s'agit d'exigences techniques qui sont clairement énoncées dans les dispositions applicables et dans le Règlement.
+[24] Je ne pense pas qu'il est possible de contourner ces dispositions, étant donné que leur libellé est très précis. Elles sont manifestement obligatoires, et l'appelant n'a tout simplement pas respecté les exigences techniques que la Loi et le Règlement lui imposent à titre de participant à un régime d'autocotisation.
+[25] Je conclus donc que dans l'affaire qui nous occupe, le ministre a raison de rejeter la demande de CTI de l'appelant en vertu du paragraphe 169(1) de la Loi.
+[26] La question qu'il reste à trancher se rapporte au calcul de la TPS/TVH. En l'espèce, j'accepte les éléments de preuve qu'a présentés l'appelant relativement aux dépôts de 2 000 $, de 300 $ et de 200 $, faits le 25 février 2000, le 3 mars 2000 et le 2 mars 2000, respectivement.
+[27] Bien que la documentation du vérificateur indiquait que ces montants avaient bien été déposés à ces dates, la source des fonds était inconnue, alors les montants n'ont pas été acceptés. L'appelant m'a dit qu'il n'a que récemment trouvé les trois chèques à l'appui de ces montants et qu'il ne les avait pas lors de l'examen du vérificateur.
+[28] Dans ses conclusions finales, l'avocate de l'intimée a convenu que la crédibilité n'était pas en cause dans le cas en l'espèce. Je suis du même avis, alors j'accepte l'explication de l'appelant sur ces trois dépôts, soit qu'à divers moments, il a dû transférer des fonds personnels dans le compte bancaire de l'entreprise pour que celle-ci puisse poursuivre ses activités commerciales.
+[29] Dans le même ordre d'idées, pour ce qui est du chèque de 405 $ émis à Doug Murdock, l'appelant a expliqué de manière plausible les faits entourant le dépôt de 500 $ en espèces et il a produit le chèque pour appuyer son explication. Il vit dans une région rurale et, par courtoisie, il aide ses clients en vendant pour eux des articles sans recevoir de rémunération. Cette situation se produit souvent dans les régions rurales, où les réalités commerciales sont très différentes de celles des régions urbaines.
+[30] Pour ce qui est des véhicules, aucun élément de preuve ne m'a été présenté pour établir que le pourcentage d'utilisation de 15 %, établi par le ministre pour le deuxième véhicule, soit la Dodge 1998, n'était pas raisonnable. Aucun élément de preuve n'établit que le véhicule était utilisé à des fins professionnelles au-delà de 15 % du temps, pourcentage qui a été établi par le ministre. De plus, les travaux relatifs aux garanties effectués au Canada pour des compagnies à l'étranger sont des fournitures taxables, et il faut facturer la TVH relativement à ces travaux.
+[31] L'appel est donc admis sans dépens pour permettre le redressement des calculs du ministre relativement à la TPS/TVH percevable en fonction du fait qu'il a été possible de déterminer la source des fonds pour ce qui est des dépôts de 2 000 $, de 300 $, de 200 $ et de 500 $ faits le 25 février 2000, le 3 mars 2000, le 2 mars 2000 et le 24 janvier 2000, respectivement. Il faut aussi que le redressement tienne compte de l'erreur de 21 $ dans le calcul initial du ministre de la TPS/TVH percevable.
+Signé à Ottawa, Canada, ce 1er jour d'octobre 2004.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 22e jour d'avril.
+Nathalie Boudreau, traductrice
+RÉFÉRENCE :
+2004CCI662
+NO DU GREFFE :
+2003-4189(GST)I
+INTITULÉ DE LA CAUSE :
+Brent Davis et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Halifax (Nouvelle-Écosse)
+DATE DE L'AUDIENCE :
+7 juillet 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable
+Diane Campbell
+DATE DU JUGEMENT :
+1er octobre 2004
+COMPARUTIONS
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Catherine McIntyre
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+M Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

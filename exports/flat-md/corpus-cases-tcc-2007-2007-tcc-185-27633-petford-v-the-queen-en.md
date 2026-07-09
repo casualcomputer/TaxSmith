@@ -1,0 +1,182 @@
+---
+title: "Petford v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27633/index.do"
+last_modified: "2007-04-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 185"
+citation2: ""
+neutral_citation: "2007 TCC 185"
+decision_date: "2007-04-04"
+language: "en"
+item_id: "27633"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 403
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:13:42.046000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a3378eb6af382bc116ab6a4574f3bdb4090bca3d5584e97ba3bda256163461e0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Petford v. The Queen
+
+- Citation: 2007 TCC 185
+- Decision date: 2007-04-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 403, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Petford v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-04
+Neutral citation
+2007 TCC 185
+File numbers
+2006-2980(GST)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-2980(GST)I
+BETWEEN:
+BRIAN PETFORD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 23, 2007, at Victoria, British Columbia.
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Agent for the Appellant:
+Jack Greenwood
+Counsel for the Respondent:
+Max Matas
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated March 13, 2006 and bears number 11CUGB050621141343 for the reporting period commencing January 1, 1996 and ending December 31, 2001 is dismissed.
+Signed at Saskatoon, Saskatchewan, this 4th day of April 2007.
+"D.W. Beaubier"
+Beaubier J.
+Citation: 2007TCC185
+Date: 20070404
+Docket: 2006-2980(GST)I
+BETWEEN:
+BRIAN PETFORD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier J.
+[1] This appeal pursuant to the Informal Procedure was heard at Victoria, British Columbiaon March 23, 2007. The Appellant and his accountant, Jack Greenwood, testified. The Respondent called the auditor on the file, Christopher Skillings and an investigative appeals officer, Sandra Ouellette; both are employees of Canada Revenue Agency ("CRA").
+[2] The particulars in dispute are set out in the Reply to the Notice of Appeal to the end of paragraph 17. They read:
+REPLY
+In reply to the Appellant's Notice of Appeal with respect to the Notice of Reassessment numbered 11CUGB050621141343 and dated March 13, 2006 for period from January 1, 1996 to December 31, 2001 (the "Period"), the Deputy Attorney General of Canada says:
+A. STATEMENT OF FACTS
+1. He denies the allegations of fact stated in paragraphs 2, 3 and 6 of the Notice of Appeal and puts the Appellant to the strict proof thereof.
+2. With respect to the paragraph 1 of the Notice of Appeal:
+a) he states that the Appellant reported gross business income of $30,094.61 in his 1998 T1; and
+b) he admits that the Appellant's total income was less than $30,000.00 each year for the 1996, 1997, 1998, 2000 and 2001 taxation years, respectively.
+3. With respect to paragraph 4 of the Notice of Appeal:
+a) he admits that the Appellant was registered by the Minister of National Revenue (the "Minister") for Goods and Services Tax ("GST") purposes effective October 1, 1993;
+b) he states that the Appellant's business income was greater than $30,000.00 each year for the 1993, 1994 and 1995 taxation years, respectively;
+c) he states that the Appellant made taxable supplies in the boat building business prior to the Period and during the Period; and
+d) he denies the remaining facts alleged in the paragraph.
+4. With respect to paragraph 5 of the Notice of Appeal:
+a) he has no knowledge of whether the Appellant issued any invoices in respect of his business; and
+b) he denies the remaining facts alleged in the paragraph.
+5. With respect to paragraph 7 of the Notice of Appeal:
+a) he states that the Appellant made taxable supplies in the Period; and
+b) he can discern no other relevant allegations of fact stated in the paragraph to admit or deny.
+6. With respect to paragraph 8 of the Notice of Appeal:
+a) he states that the Appeals Officer of Canada Revenue Agency (the "Agency") advised the Appellant's representative that the Appellant had to collect GST regardless of his income level when he was a GST registrant; and
+b) he admits the remaining fact stated in the paragraph.
+7. With respect to paragraph 9 of the Notice of Appeal:
+a) he admits that the Appellant's business income was less than $30,000.00 each year in the 1996, 1997, 1998, 1999, 2000 and 2001 taxation years; and
+b) he denies the remaining fact alleged in the paragraph.
+8. By Notice of Assessment numbered 11CU2002541 and dated January 27, 2005, the Minister assessed the Appellant for GST net tax of $12,574.70, penalty of $6,989.61 and interest of $3,018.10, for the Period. The penalty amount includes a gross negligence penalty of $1,702.00 assessed under section 285 of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended, (the "Act").
+9. The Appellant objected to the January 27, 2005 assessment. The Notice of Objection was received by the Minister on February 17, 2005.
+10. By Notice of Decision dated March 13, 2006, the Minister reduced the GST collectible by $4,784.27 for the Period. The Minister accordingly issued the Notice of Reassessment number 11CUGB050621141343 with net tax of $7,790.43, penalty of $5,261.40 and interest of $1,761.05 on that date. The penalty amount includes a gross negligence penalty of $2,140.13 assessed under section 285 of the Act.
+11. In so reassessing the Appellant, the Minister relied on the following assumptions of fact:
+a) the Appellant is an individual involved in a boat building business;
+b) the Appellant performed his work around the Greater Victoria area;
+c) the Appellant's gross business income in the 1993, 1994 and 1995 taxation years was $497,728.00, $166,327.00 and $30,040.00, respectively;
+d) the Appellant was registered under Part IX of the Act, effective October 1, 1993, and was assigned GST registration number 891651523RT;
+e) the Appellant was required to file his GST returns on an annual basis;
+f) at all material times, the Appellant made taxable supplies;
+g) at all material times, the Appellant collected or was required to collect GST at the standard rate of 7% on the taxable supplies;
+h) the Appellant did not maintain adequate books and records for income tax and GST purposes;
+i) the Appellant had not cancelled or had made a request to cancel his registration under Part IX of the Act;
+j) on September 3, 2002, the Appellant filed GST returns and reported nil GST collectible, nil Input Tax Credits and nil net tax for the Period;
+k) the Appellant's revenue for the business in the 1996, 1997, 1998, 1999, 2000 and 2001 taxation years was $12,180.00, $21,120.00, $25,417.00, $6,620.50, $25,212.08 and $28,532.73, respectively, which represents the revenue earned from making taxable supplies inclusive of GST; and
+l) the Appellant failed to report GST collectible in the amount of $7,790.43 for the Period.
+12. The assumption of fact stated in paragraph 11(i) was first assumed by the Minister in issuing the Notice of Decision dated March 13, 2006.
+13. In addition to the facts assumed by the Minister in paragraph 11 above, the Minister relies on the following facts in support of the assessment of gross negligence penalties under section 285 of the Act;
+a) the unreported GST for the Period is significant;
+b) the Appellant has been in the boat building and repair business for many years;
+c) the Appellant was personally involved in the daily operations of business activities;
+d) the Appellant had extended contact with the Agency in respect [sic] his tax affair; and
+e) the Appellant knew or ought to have known that his GST returns did not accurately reflect his GST collectible in the Period.
+B. ISSUES TO BE DECIDED
+14. The issues under dispute are whether:
+a) the Minister properly assessed the Appellant in respect of the unreported GST collectible for the Period; and
+b) the Minister correctly levied a gross negligence penalty pursuant to section 285 of the Act for the Period.
+C. STATUTORY PROVISIONS RELIED ON
+15. He relies on sections 123, 165, 221, 222, 225, 228, 240, 241, 242, 280, 285, 296, 298 and 299 of the Act.
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+16. He respectfully submits that the Minister properly determined that the Appellant failed to report his GST collectible for the Period in the amount of $7,790.43.
+17. He further submits that the Minister correctly levied a penalty pursuant to section 285 of the Act in the amount of $2,140.13, on the basis that the Appellant knowingly, or under circumstances amounting to gross negligence in carrying out his duties or obligations imposed by the Act, made false statements or omissions in the GST returns filed in respect of the Period.
+[3] None of the assumptions in paragraph 11 of the Reply were refuted by the evidence.
+[4] The Appellant testified at length. In cross-examination he was very general in his answers - some matters were "possible", others he could not remember and as a result his own testimony did not refute the assumptions nor did it serve to refute the testimony of the Respondent's witnesses who established the evidence necessary to impose penalties. In particular Ms. Ouellette is believed when she testified that she asked or told him a great many times beginning in September 1999, that he was a GST registrant and he should file GST returns and remit GST. Mr. Petford had a vague recollection that he had deregistered as a GST registrant; however CRA had reregistered him.
+[5] Mr. Greenwood prepared Mr. Petford's income tax returns which were filed November 21, 2002, reporting gross business income of $28,077.19 in 1996; $28,629.76 in 1997; $30,094.61 in 1998 and $21,000.00 in 2001 - all for services. Mr. Petford's clients supplied the material and he worked as a contract carpenter and deducted his business expenses such as vehicle costs. Mr. Petford's net business income as reported formed the basis for the GST amounts and assessments for these four years. Mr. Petford failed to provide detailed evidence to refute the figures assessed for these four years or the other years within the Period.
+[6] The assessments were all made within the time limitation set out in the Excise Tax Act for assessments after his GST returns for these years, all dated 2002/09/03, were prepared by Mr. Greenwood and filed. All were filed as "nil" returns.
+[7] The Appellant was a GST registrant for the period in question who made taxable supplies as assessed. The assessments were made within three years after the Appellant had filed his GST returns for the period and are not statute-barred. As a result his appeal of GST and the interest thereon is dismissed.
+[8] Respecting the penalties, the Appellant had been engaged in a GST assessment dispute in the early 1990s. He failed to deregister his business and he did not file either income tax returns or GST returns for a number of years despite his earlier problems with CRA. Commencing in September 1999, CRA officials began a great number of phone calls to him, in which GST was mentioned. In particular, Ms. Ouellette asked him to file his GST returns and remit. Ms. Ouellette warned him a number of times that there would be repercussions if he did not. After forms were sent to him in 2003, he filed "nil" returns for the period. Finally in 2005, he applied to be deregistered and was deregistered.
+[9] The evidence establishes that despite these telephone calls by CRA, the Appellant was indifferent as to whether he filed his GST returns and complied with the law, or not. He finally filed "nil" returns in 2003 on forms that CRA provided to him. The "nil" returns and his previous "indifference" indicate a wilful blindness on the part of the Appellant to his duty under the Excise Tax Act. There is no evidence that the Appellant kept any books during the period, despite his previous business experience and his experience with the tax authorities. All of this constitutes gross negligence on the part of the Appellant.
+[10] As a result, the appeal of the penalties imposed is dismissed.
+[11] The appeal is dismissed in its entirety.
+Signed at Saskatoon, Saskatchewan, this 4th day of April 2007.
+"D.W. Beaubier"
+Beaubier J.
+CITATION: 2007TCC185
+COURT FILE NO.: 2006-2980(GST)I
+STYLE OF CAUSE: BRIAN PETFORD AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Victoria, British Columbia
+DATE OF HEARING: March 23, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: April 4, 2007
+APPEARANCES:
+Agent for the Appellant:
+Jack Greenwood
+Counsel for the Respondent:
+Max Matas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

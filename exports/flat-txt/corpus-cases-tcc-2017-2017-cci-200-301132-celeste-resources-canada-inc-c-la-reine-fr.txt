@@ -1,0 +1,178 @@
+Title: Celeste Resources Canada Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/301132/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-200-301132-celeste-resources-canada-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-11-14
+
+# Celeste Resources Canada Inc. c. La Reine
+
+- Citation: 2017 CCI 200
+- Decision date: 2017-11-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7634, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Celeste Resources Canada Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-11-14
+Référence neutre
+2017 CCI 200
+Numéro de dossier
+2016-813(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-813(IT)I
+ENTRE :
+CELESTE RESOURCES CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 24 mai 2017, à Toronto (Ontario).
+Devant l’honorable juge Réal Favreau
+Comparutions :
+Avocat de l’appelante :
+Me Warren Viegas
+Avocat de l’intimée :
+Me Nimanthika Kaneira
+JUGEMENT
+L’appel de la nouvelle cotisation daté du 20 avril 2015, présenté en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2011 et 2012, est rejeté, conformément aux motifs du jugement en pièce jointe.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2017.
+« Réal Favreau »
+Juge Favreau
+Référence : 2017 CCI 200
+Date : 20171114
+Dossier : 2016-813(IT)I
+ENTRE :
+CELESTE RESOURCES CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+JUGEMENT
+Juge Favreau
+[1] La Cour est saisie d’un appel de la nouvelle cotisation daté du 20 avril 2015, présenté en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), modifiée (la « Loi »), par la ministre du Revenu national (la « ministre ») concernant les années d’imposition 2011 et 2012 de l’appelante.
+[2] Au moyen de la nouvelle cotisation, la ministre a rejeté la déduction des dépenses d’entreprise de 73 742 $ et 95 756 $ pour les années d’imposition 2011 et 2012 de l’appelante et la ministre a appliqué des pénalités pour information trompeuse conformément au paragraphe 163(2) de la Loi.
+[3] En établissant l’impôt à payer de l’appelante pour les années d’imposition 2011 et 2012, la ministre a fait les suppositions de faits suivantes, comme l’indique le paragraphe 13 de la réponse à l’avis d’appel :
+a) l’appelante a été incorporée le 10 mars 2003;
+b) à l’époque pertinente, les actionnaires de l’appelante étaient :
+Ismail Sheikhani
+25 % des actions
+Sikander Sheikhani
+25 % des actions
+Siraj Sheikhani
+25 % des actions
+Saad Sheikhani
+25 % des actions
+c) l’appelante est une entreprise d’importation et d’exportation de produits textiles;
+d) les produits d’importation et d’exportation de l’appelante sont fabriqués à Karachi au Pakistan par Naeem Enterprise (« Naeem »);
+e) les produits fabriqués étaient expédiés directement du Pakistan aux clients de l’appelante;
+f) l’appelante a tenu à jour un compte séparé au nom de Naeem Account, où elle enregistrait toutes les factures qu’elle recevait de Naeem et tous les paiements qu’elle effectuait à Naeem;
+g) Le compte de Naeem comprenait également les paiements reçus par Naeem directement de ses clients, ce qui réduisait les montants exigibles à Naeem;
+Autres dépenses
+h) l’appelante a déduit d’autres dépenses de 71 895 $ et de 92 195 $ pour les années d’imposition de 2011 et de 2012;
+i) les montants déduits en tant qu’autres dépenses étaient classés par l’appelante comme des dépenses de gestion outre-mer;
+j) les autres dépenses déduites par l’appelante n’étaient pas liées à la distribution et à l’expédition de marchandises aux clients;
+k) les factures émises par Naeem ne comprenaient pas de descriptions ni la répartition des montants;
+l) l’appelante payait à Naeem des frais de services de 55 000 $ US et de 71 000 $ US pour les années d’imposition de 2011 et de 2012 et les a déduits en tant que partie des coûts associés à la vente des biens;
+m) l’appelante et Naeem n’étaient pas sans lien de dépendance;
+n) l’appelante n’a pas payé ou n’a pas engagé les autres dépenses de 71 895 $ et de 92 195 $ pour gagner un revenu d’entreprise pour les années d’imposition de 2011 et de 2012;
+Frais de déplacement
+o) l’appelante a déduit des frais de déplacement de 7 860 $ et de 8 654 $ pour les années d’imposition de 2011 et de 2012;
+p) l’appelante n’a pas engagé de frais de déplacement de 1 847 $ et de 3 561 $ pour les années d’imposition de 2011 et de 2012 (« frais de déplacement rejetés »);
+q) l’appelant n’a pas engagé de frais de déplacement de plus de 6 013 $ et de plus de 5 093 $ pour les années d’imposition de 2011 et de 2012;
+r) l’appelante n’a pas engagé les frais de déplacement rejetés pour obtenir un revenu d’entreprise pour les années d’imposition de 2011 et de 2012.
+[4] Pour décider si l’appelante était redevable des pénalités en vertu du paragraphe 163(2) de la Loi pour les années d’imposition de 2011 et de 2012, la ministre a tenu compte de faits suivants, exposés au paragraphe 14 de la réponse à l’avis d’appel :
+a) les faits attribués au paragraphe 13;
+b) les autres dépenses rejetées de 71 895 $ sont importantes et représentent 478 % du revenu de 15 045 $ déclaré par l’appelante pour l’année d’imposition de 2011;
+c) les autres dépenses rejetées de 91 195 $ sont importantes et représentent 498 % du revenu de 18 501 $ déclaré par l’appelante pour l’année d’imposition de 2012;
+d) la société est une entreprise familiale;
+e) les actionnaires participent activement à l’entreprise;
+f) les actionnaires s’occupent eux-mêmes des opérations quotidiennes;
+g) l’appelante est dans les affaires depuis plus de 10 ans;
+h) l’appelante a retenu les services d’un comptable agréé pour effectuer les états financiers selon les renseignements que lui a donnés l’appelante;
+i) un comptable agréé a préparé les déclarations de revenus de l’appelante;
+j) l’appelante avait l’occasion de revoir ses déclarations de revenus pour en vérifier l’exactitude avant de les envoyer à l’Agence du revenu du Canada;
+k) toutes les importations proviennent de Naeem;
+l) l’appelante, sciemment ou dans des circonstances équivalant à faute lourde, a fait un faux énoncé ou une omission dans ses déclarations de revenus produites pour les années d’imposition de 2011 et de 2012 concernant les autres dépenses rejetées, y a participé, y a consenti ou y a acquiescé.
+[5] Au début de l’audience, l’appelante a informé la Cour que les frais de déplacement rejetés n’étaient plus contestés.
+[6] M. Muhammad Ismail Sheikhani (« M. Sheikhani »), un des quatre actionnaires de l’appelante, a témoigné à l’audience. Il a déclaré qu’il a travaillé dans l’industrie du textile pendant 30 ans au Pakistan. Avant d’immigrer au Canada en 2001, il détenait 50 % des actions de Naeem Enterprise, une compagnie d’importation et d’exportation textile au Pakistan qui fait des affaires partout dans le monde, y compris au Canada et aux États-Unis d’Amérique. Les autres actionnaires de Naeem Enterprise étaient son neveu Naeem, un citoyen canadien, et ses frères.
+[7] M. Sheikhani a démarré avec trois de ses quatre fils l’entreprise Celeste Resources Canada Inc. en 2003, pour agir en tant qu’intermédiaire entre Naeem Enterprise et ses clients au Canada et aux États-Unis d’Amérique. L’appelante prend les commandes des clients et les remet à Naeem Enterprise. Les produits commandés sont habituellement expédiés directement aux clients après avoir passé les services frontaliers. Les clients payent le coût des produits à l’appelante qui paye ensuite Naeem Enterprise. Il arrive que des clients payent Naeem Enterprise directement. Pour ses services, l’appelante demande 10 % à 15 % de la marge de profit.
+[8] M. Sheikhani a expliqué qu’il n’existe pas d’entente officielle entre l’appelante et Naeem Enterprise, sauf pour l’entente de service et de financement établi le 2 juillet 2007. Dans le cadre de cette entente, Naeem Enterprise a été nommé par l’appelante agissant à titre de mandataire au Pakistan pour des raisons de marketing, d’approvisionnement de biens, de matériel, d’équipements de production et pour les services comptables au Pakistan. Selon cette entente, l’appelante devait payer les services fournis par Naeem Enterprise mensuellement à la réception des factures faites à la fin de chaque mois à partir du 1er janvier 2007. L’appelante a tenu à jour un compte séparé au nom de « Naeem Account » où elle enregistrait toutes les factures qu’elle recevait de Naeem Enterprise et tous les paiements qu’elle effectuait à Naeem Enterprise. Le « Naeem Account » comprenait également les paiements que Naeem Enterprise recevait directement des clients, ce qui réduisait les montants payables de l’appelante à Naeem Enterprise.
+[9] M. Sheikhani a expliqué davantage qu’en 2011 et 2012, l’appelante payait à Naeem Enterprise deux types de dépenses : une dépense associée aux bureaux physiques outremer et l’autre pour la gestion des bureaux outremer, toutes les deux classées par l’appelante comme « Management Expenses – Overseas ». L’appelante n’a pas d’employés permanents au bureau de Naeem Enterprise, mais il peut y avoir à l’occasion de 8 à 12 employés selon le nombre de commandes reçues. Tous les frais de déplacement au Pakistan faits par les employés de l’appelante avaient été d’abord payés par Naeem Enterprise et ils ont été remboursés par l’appelante à Naeem Enterprise. Les frais remboursés comprennent les billets d’avion, les dépenses pour l’utilisation des bureaux de Naeem Enterprise, le coût de la location d’appartements, les assurances médicales, le coût des transports locaux, les dépenses des services publics (l’électricité, le gaz, l’eau et les égouts) et les frais de représentation. Les dépenses engagées par l’appelante ne faisaient pas partie des coûts de marchandises.
+[10] Pendant le témoignage de M. Sheikhani, les états financiers non vérifiés de l’appelante et l’état des résultats et des frais pour l’année prenant fin le 30 juin 2011 ont été présentés à titre de preuve. Les états financiers faisaient état du produit total des ventes de l’appelante s’élevant à 1 960 155 $, y compris les coûts des biens vendus pour une valeur de 1 718 225 $ et un profit brut de 241 930 $. Les dépenses de fonctionnement pour l’année s’élevaient à 227 592 $, dont des frais de gestion outremer de 71 895 $ et les salaires et les avantages sociaux de 103 000 $. Le revenu net pour l’année s’élevait à seulement 14 338 $. Ces états financiers montraient que l’appelante payait beaucoup de dépenses, mais déclarait un revenu imposable très faible.
+[11] M. Sheikhani a expliqué que les livres et les registres financiers provisoires étaient tenus par son fils Siraj et comprenaient surtout des tableaux de ventilation pour différents types de dépenses. Aucun programme d’ordinateur n’était utilisé par l’appelante à cet effet. Le contrôle interne se faisait par les états de comptes bancaires. L’information financière était transmise au comptable externe pour la préparation des états financiers annuels et les déclarations de revenus de l’appelante.
+[12] Le deuxième témoin qui a témoigné au nom de l’appelante était M. Saalman Alvi, un associé de BDO Canada LLP. Les services de M. Alvi avaient été retenus par l’appelante après que l’Agence du revenu du Canada (« ARC ») a envoyé à l’appelante une lettre en date du 7 janvier 2015, qui comprenait des redressements rejetant les déductions des « Other Expenses » de 71 895 $ et de 92 195 $ pour les années d’imposition prenant fin respectivement le 30 juin 2011 et le 30 juin 2012, suivi d’une réunion après proposition avec l’appelante et son comptable externe d’alors, qui n’avait aucun motif de contester les rajustements de l’ARC. BDO a répondu par une lettre en date du 12 mars 2015. La lettre de proposition et la réponse de BDO ont été présentées comme preuves.
+[13] M. Alvi a expliqué que le grand livre de Naeem Enterprise fourni par l’appelante durant la période de vérification reprenait tous les achats de Naeem Enterprise au montant de 1 660 343,60 $ pour l’année d’imposition prenant fin le 30 juin 2011, ce qui comprend à la fois l’achat de biens ainsi que les autres frais imputés à Naeem Enterprise. Les achats totaux de Naeem Enterprise ont été rapprochés avec les états financiers et les dépenses d’outre-mer ont été incluses dans ce rapprochement. Le même exercice a été fait pour l’année d’imposition prenant fin le 30 juin 2012 et les achats totaux de Naeem Enterprise ont été rapprochés aux états financiers et les dépenses d’outre-mer ont été incluses dans ce rapprochement. M. Alvi est d’avis que cela était suffisant pour prouver que les dépenses outre-mer sont incluses dans le Naeem Account et les preuves de paiement ont également été fournies.
+[14] Pendant le contre-interrogatoire, M. Alvi a convenu que sa réponse s’appuyait sur le grand livre qui lui a été fourni. Comme il ne l’a pas préparé, il ne pouvait certifier que le grand livre était exact. M. Alvi a admis que, si le grand livre n’était pas exact, il ne sera pas fiable.
+[15] Le vérificateur de l’ARC, M. Anil K. Agnihotri, a témoigné à l’audience et il a expliqué pourquoi la réponse de BDO était considérée comme n’apportant pas de nouveaux renseignements qui pourraient aider à changer les redressements proposés en lien avec la déduction des « Other Expenses » de l’appelante.
+[16] Le vérificateur de l’ARC a réitéré qu’au début de la vérification, l’appelante a présenté seulement deux tableaux de ventilation donnant un aperçu des diverses dépenses visant à justifier les montants au compte des « Autres dépenses ». Après avoir demandé davantage de documentation concernant ces montants, l’appelante a présenté des factures trimestrielles du grand livre de Naeem Enterprise et a avisé que ces dépenses avaient été engagées par Naeem Enterprise au nom de l’appelante. L’appelante a également fourni une copie du Naeem Account pour vérifier le paiement des factures.
+[17] Le vérificateur de l’ARC n’a pas accepté la réponse de BDO, étant donné qu’il ne pouvait pas se fier au grand livre qui avait été présenté et puisqu’il n’y avait pas de documentation justifiant les montants dans chacune des catégories de dépenses incluses dans les déductions des « Other Expenses » qui avaient été fournies. De plus, le Naeem Account montrait un solde de 234 993,51 $ en date du 1er juillet 2010, ce qui indique que Naeem Enterprise devait 234 993,51 $ à l’appelante à cette date. Un examen des états financiers de l’appelante pour l’année se terminant le 30 juin 2010 indique qu’aucun montant équivalent n’avait été reçu. L’appelante et ses vérificateurs n’ont pas donné d’explications pour cette divergence.
+[18] Le vérificateur de l’ARC a remarqué que quatre factures liées au compte « Clearance Invoice-Export » s’élevant à un montant de 13 394,48 $ n’apparaissaient pas dans les chiffres des achats dans la réponse de BDO. Cela signifie que les quatre factures n’avaient pas été payées. Le vérificateur de l’ARC a également signalé le fait que les factures de Naeem Enterprise n’étaient pas payées à chaque fois qu’une facture était reçue.
+[19] Le vérificateur de l’ARC a également affirmé qu’il n’avait pas vu pendant la vérification les reçus de paiement de Naeem Enterprise compris dans les quatre volumes du livre des documents qui ont été présentés à l’intimée le 19 mai 2017, quelques jours avant l’audience de l’appel de l’appelante et déposés en cour à titre de pièce A-1 le jour de l’audience.
+[20] Concernant les pénalités pour information trompeuse, le vérificateur de l’ARC a affirmé que l’appelante était une contribuable complexe impliquée dans l’importation et l’exportation de produits textiles à l’échelle internationale. L’appelante a des comptables agréés avertis. L’appelante a initialement fourni des tableaux de ventilation sans documentation à l’appui et a communiqué que les dépenses avaient été engagées par Naeem Enterprise et qu’elle avait payé les montants en question à Naeem Enterprise. Ensuite, l’appelante a fourni des factures de Naeem Enterprise qui ne pouvaient pas être vérifiées comme ayant été payées dans le Naeem Account. Enfin, les montants des dépenses sont importants, soit 478 % du revenu qui avait été déclaré.
+Loi
+[21] Les dispositions suivantes de la loi sont pertinentes aux fins de cet appel :
+9(1) Revenu : Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+18(1) Restriction générale : Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+[…]
+h) le montant des frais personnels ou de subsistance du contribuable — à l’exception des frais de déplacement engagés par celui-ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+163(2) Information trompeuse ou omission La personne qui fait ou présente, ou qui fait faire ou présenter par une autre personne, un énoncé dont elle sait ou aurait vraisemblablement su, n’eût été de circonstances équivalant à une conduite coupable, qu’il constitue un faux énoncé qu’un tiers (appelé « autre personne » aux paragraphes (6) et (15)) pourrait utiliser à une fin quelconque de la présente loi, ou qui participe à un tel énoncé, est passible d’une pénalité relativement au faux énoncé du montant le plus grand entre 100 $ et 50 % du total de
+[…]
+248(1) « Frais personnels ou de subsistance » qui comprennent
+a) les dépenses inhérentes aux biens entretenus par toute personne pour l’usage ou l’avantage du contribuable ou de toute personne unie à ce dernier par les liens du sang, du mariage, de l’union de fait ou de l’adoption, et non entretenus dans le but ou avec l’espoir raisonnable de tirer un profit de l’exploitation d’une entreprise;
+[…]
+Discussion et conclusion
+[22] Le régime fiscal s’appuie sur l’auto surveillance et il incombe aux contribuables de présenter les preuves de leurs déductions et de les déclarer de manière appropriée. Les contribuables doivent tenir à jour et avoir des renseignements détaillés et la documentation nécessaire à l’appui des déductions qu’ils font.
+[23] Dans cette affaire, les livres et les registres tenus par l’appelante avaient des lacunes à de nombreux égards. Aucun programme informatique n’était utilisé aux fins comptables et les contrôles internes laissaient à désirer puisqu’ils étaient effectués seulement avec les états de comptes bancaires.
+[24] L’appelante a initialement fourni des tableaux de ventilation sans documentation à l’appui et a avisé que les montants déduits avaient été payés par Naeem Enterprise et avaient été remboursés à Naeem Enterprise. Ensuite, elle a présenté les factures trimestrielles de Naeem Enterprise qui ne permettaient pas de vérifier les paiements dans le Naeem Account.
+[25] L’appelante n’a pas présenté de documents pour appuyer les montants dans chacune des catégories de dépenses incluses dans la déduction des « Other Expenses » et n’a pas expliqué comment ces dépenses avaient été engagées pour gagner un revenu d’entreprise.
+[26] L’appelante n’a pas présenté les noms des employés qui travaillaient aux bureaux de Naeem Enterprise au Pakistan pendant les années d’imposition de 2011 et de 2012, la durée de leur séjour et la raison de leurs déplacements (affaires, personnels ou une combinaison des deux).
+[27] Concernant les pénalités imposées, il est bien établi en droit qu’il incombe à l’intimée de présenter les preuves pour établir selon la prépondérance des probabilités que la fausse déclaration de la part de l’appelante est attribuable à l’inattention et à la négligence de l’appelante.
+[28] Dans cette affaire, l’intimée a fourni ses preuves. L’appelante gère une entreprise de commerce international depuis de nombreuses années et utilise les services d’un comptable agréé pour préparer ses états financiers et ses déclarations de revenus. L’appelante et ses actionnaires savaient ou auraient dû savoir qu’ils étaient liés à Naeem Enterprise, et que l’un des objectifs de l’entente de service et de financement conclue avec Naeem Entreprise était de réduire le revenu de l’appelante au Canada.
+[29] L’appelante a sciemment fait de fausses déclarations dans sa déclaration de revenus ou a commis une faute lourde en ne portant pas attention aux dépenses déduites. Les montants qui font l’objet de la pénalité sont importants au regard du revenu déclaré.
+[30] Pour tous ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2017.
+Réal Favreau
+Juge Favreau
+RÉFÉRENCE :
+2017 CCI 200
+NUMÉRO DU DOSSIER DE LA COUR :
+20175-813(IT)I
+INTITULÉ :
+Celeste Resources Canada Inc. et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+le 24 mai 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 14 novembre 2017
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Warren Viegas
+Avocate de l’intimée :
+Me Nimanthika Kaneira
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[BLANK / EN BLANC]
+Cabinet :
+[BLANK / EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada

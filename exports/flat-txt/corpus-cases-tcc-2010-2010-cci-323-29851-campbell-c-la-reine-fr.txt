@@ -1,0 +1,123 @@
+Title: Campbell c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29851/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-323-29851-campbell-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-06-15
+
+# Campbell c. La Reine
+
+- Citation: 2010 CCI 323
+- Decision date: 2010-06-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6408, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Campbell c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-15
+Référence neutre
+2010 CCI 323
+Numéro de dossier
+2007-3715(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2010 CCI 323
+Date : 20100615
+Dossier : 2007­3715(IT)G
+ENTRE :
+WILLIAM CAMPBELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS CONCERNANT LES OBSERVATIONS SUR LES DÉPENS
+Le juge Campbell
+[1] Le requérant (l'appelant) a présenté une requête en réexamen des dépens qui lui ont été accordés dans les motifs du jugement que j'ai rendu le 19 février 2010.
+[2] L'appel portait sur une nouvelle cotisation établie à l'encontre de M. Campbell en sa qualité d'administrateur de Complete Rent‑Alls Limited (« CRL »), pour des cotisations de l'employeur et des retenues non versées en plus des intérêts et des pénalités applicables. La cotisation du 2 juin 2006 comprenait un montant impayé totalisant 406 222,34 $, dont 207 283 $ étaient exigibles au titre de l'impôt, et le reste, au titre de pénalités et d'intérêts.
+[3] L'audition de l'appel a eu lieu à St. John's, à Terre‑Neuve. Elle a commencé le 14 décembre 2009 et a duré deux jours. J'ai accueilli l'appel avec dépens.
+[4] Dans la requête dont j'ai été saisie, l'avocat du requérant‑appelant a indiqué que, le 8 décembre 2009, une offre de règlement écrite avait été télécopiée à l'avocat de l'intimée. L'offre proposait de régler l'appel par le paiement de 207 283 $ — représentant l'impôt fédéral et l'impôt provincial — en échange de l'annulation des pénalités et des intérêts de la cotisation, conformément au paragraphe 220(3.1) de la Loi de l'impôt sur le revenu (la « Loi »).
+[5] Le 11 décembre 2009, l'avocat de l'intimée a informé l'avocat du requérant‑appelant que l'offre était rejetée dans sa totalité au motif que, selon le paragraphe 220(3.1) de la Loi, les pénalités et les intérêts ne pouvaient faire l'objet d'une renonciation que pour ce qui est des dix années précédentes, et qu'il s'agirait donc de l'annulation d'un montant de 13 000 $. Aucune contre‑offre n'a été présentée.
+[6] Le requérant‑appelant soutient que les dépenses supplémentaires et substantielles qui ont eu lieu pour payer les honoraires et les débours requis pour la préparation de l'audience, ainsi que pour la préparation de la présente requête relative aux dépens, auraient pu être évitées s'il y avait eu règlement de l'affaire. Il se fonde sur les alinéas 147(3)d) et 147(7)a) des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles ») pour demander à la Cour de réexaminer le montant des dépens adjugés en tenant compte du rejet d'une offre de règlement qui était plus avantageuse pour l'intimée que l'issue ultérieure de l'appel. Par conséquent, le requérant‑appelant demande les dépens suivants :
+1. les dépens calculés selon le tarif habituel pour une partie qui a gain de cause en totalité, pour la période allant jusqu'à 12 h le vendredi 11 décembre 2009, ou les dépens entre parties;
+2. à partir de 12 h le vendredi 11 décembre 2009, les dépens calculés sur 100 p. 100 des honoraires et débours facturés pour la préparation finale et la tenue de l'audience, ainsi que pour l'ensemble des observations écrites;
+3. des dépens fixés à 750 $ pour la préparation de la requête;
+4. des dépens fixés à 375 $ pour la préparation de la réplique aux observations écrites de l'intimée à l'égard de la requête.
+[7] L'intimée allègue avoir rejeté l'offre de règlement en raison du fait qu'elle est tenue de régler l'affaire en respectant certains « principes » propres aux questions dont sera saisie la Cour. L'intimée affirme que l'offre de règlement visant le paiement des impôts en échange de l'annulation des pénalités et des intérêts était fondée sur le paragraphe 220(3.1) de la Loi, qui lui confère le pouvoir d'agir ainsi. Le paragraphe 7 des observations écrites de l'intimée est rédigé ainsi :
+[TRADUCTION]
+7. [...] Il ne s'agirait pas d'un règlement fondé sur des principes si l'intimée exerçait le pouvoir discrétionnaire prévu au paragraphe 220(3.1), pouvoir sur lequel la présente cour ne peut exercer son contrôle. De plus, la présente affaire porte principalement sur une période en dehors du délai de dix ans fixé par cette disposition.
+L'intimée soutient que le requérant‑appelant a droit uniquement aux dépens calculés conformément au tarif, en plus des débours, et qu'il n'a pas droit à des dépens majorés comme il le demande dans la présente requête.
+[8] L'article 147 des Règles confère au juge qui préside l'audience de larges pouvoirs discrétionnaires en ce qui concerne la fixation des dépens. Les différents facteurs que la cour peut prendre en considération lorsqu'elle exerce ce pouvoir discrétionnaire sont énoncés au paragraphe 147(3) des Règles :
+147(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l'instance;
+b) des sommes en cause;
+c) de l'importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d'une partie qui aurait abrégé ou prolongé inutilement la durée de l'instance;
+h) de la dénégation d'un fait par une partie ou de sa négligence ou de son refus de l'admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l'instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+[9] Le paragraphe 147(4) des Règles confère à la Cour le pouvoir d'adjuger une somme globale en ce qui a trait aux dépens. Il prévoit ce qui suit :
+147(4) La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l'annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+[10] L'alinéa 147(3)d) permet expressément à la cour de prendre en considération toute offre de règlement présentée par écrit au moment où elle fixe des dépens qui excèdent les montants prévus au tarif. Bien que la cour encourage les parties à négocier un règlement lorsque c'est possible, l'intimée n'avait aucunement l'obligation de faire une contre‑offre, comme le laisse entendre l'appelant, et elle était libre de rejeter immédiatement l'offre qui lui était présentée. Même si elles n'ont aucunement l'obligation de prendre en considération une offre de règlement, on encourage les parties à considérer et à examiner sérieusement une telle offre si elles ne veulent pas risquer de subir une augmentation des dépens si l'issue de l'instance leur est moins favorable que ce qui se serait produit si elles avaient accepté l'offre.
+[11] Certains ressorts prévoient que, lorsque la partie qui n'a pas gain de cause a rejeté une offre de règlement qui est au moins aussi avantageuse que l'issue de l'audience, cette partie est responsable des dépens procureur‑client, ou à tout le moins des dépens majorés, pour la période commençant à la date de la présentation de l'offre et se terminant à la fin de l'audience. Les Règles de la cour ne contiennent aucune disposition précise à ce sujet. Cependant, je ne crois pas que l'absence d'une telle disposition m'empêche d'exercer mon pouvoir discrétionnaire de majorer les dépens lorsque les circonstances justifient une telle majoration, d'autant plus que le paragraphe 147(3) des Règles mentionne expressément l'offre de règlement écrite comme l'un des facteurs dont la cour peut tenir compte.
+[12] Au paragraphe 14 de ses observations écrites, l'intimée énonce ce qui suit (en faisant référence au paragraphe 220(3.1)) :
+[TRADUCTION]
+14. Même si l'intimée avait accepté l'offre non fondée sur des principes de l'appelant (du requérant), les conclusions recherchées n'auraient toujours pas été obtenues, étant donné que la plupart des montants exigibles ont pris naissance en dehors du délai de dix ans.
+Toutefois, l'offre de règlement suggérait clairement qu'au lieu d'appliquer la somme de 207 283 $ aux impôts et d'annuler les pénalités et les intérêts, cette somme [TRADUCTION] « [...] pourrait être ventilée autrement entre les différents montants mis en évidence dans le détail du solde figurant dans la pièce jointe à l'avis de cotisation du 2 juin 2006 ». Au paragraphe 4 de sa réplique aux observations écrites de l'intimée, le requérant‑appelant a décrit cette proposition subsidiaire comme suit :
+[TRADUCTION]
+[...] le montant du règlement aurait pu être imputé à certains montants d'impôt exposés dans la pièce jointe, en plus des pénalités et des intérêts qui s'y rapportent, les montants d'impôt restants étant annulés sur une base consensuelle en tenant compte, dans chaque cas, de la reconnaissance de l'applicabilité du moyen de défense de la diligence raisonnable prévu par la loi. Les pénalités et les intérêts applicables à ces montants d'impôt annulés seraient supprimés en conséquence.
+Il n'y a pas eu de discussions concernant cette proposition subsidiaire; je crois que de telles discussions, si elles avaient eu lieu, auraient pu porter fruit. Je remarque également que l'offre de règlement énonce dans son dernier paragraphe que l'annulation des pénalités et des intérêts pourrait se justifier facilement par la très longue période s'étant écoulée entre la fermeture de l'entreprise de la société au début de l'année 1999 et l'établissement de la cotisation du 2 juin 2006. Comme je l'ai fait remarquer au paragraphe 9 des motifs du jugement, des tiers ayant par inadvertance jeté les registres de son entreprise, l'appelant s'est trouvé dans l'impossibilité de bénéficier de ces registres et d'y faire référence lors de l'audience.
+[13] Considérant que les autres facteurs énumérés au paragraphe 147(3), par exemple la charge de travail, la conduite des parties, la complexité et l'importance des questions en litige, étaient semblables à ceux que l'on rencontre normalement lors d'un tel appel, j'ai accueilli l'appel avec dépens, sans être informée des circonstances entourant l'offre de règlement.
+[14] Même si, à mon sens, on n'a pas justifié l'adjudication de dépens procureur‑client, je crois qu'en ce qui concerne les dépens, les circonstances justifient un traitement plus généreux que celui que prévoit notre tarif.
+[15] En conséquence, outre le droit du requérant‑appelant aux dépens habituels prévus selon le tarif pour la période se terminant à 12 h le vendredi 11 décembre 2009, j'accorde une somme globale de 6 500 $ pour la période commençant à 12 h le vendredi 11 décembre 2009 relativement à la préparation et à la tenue de l'audience de deux jours, ainsi qu'à l'ensemble des observations écrites préparées pour l'audience et la présente requête. J'aurais trouvé utile qu'on me fasse connaître les montants des honoraires et débours subséquents au 11 décembre 2009, mais, en l'absence de ces chiffres, j'ai adjugé un montant que j'estime raisonnable. L'audience ayant commencé le 14 décembre 2009, seulement trois jours après le rejet de l'offre de règlement, j'estime que le travail de préparation était terminé, en grande partie sinon en totalité, bien avant ces dates.
+Signé à Ottawa, Canada, ce 15e jour de juin 2010.
+« Diane Campbell »
+Le juge Campbell
+Traduction certifiée conforme
+ce 13e jour d'octobre 2010.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2010 CCI 323
+NO DU DOSSIER DE LA COUR :
+2007­3715(IT)G
+INTITULÉ :
+William Campbell et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+St. John's (Terre­Neuve)
+DATES DE L'AUDIENCE :
+MOTIFS CONCERNANT LES OBSERVATIONS SUR LES DÉPENS :
+L'honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 19 février 2010
+DATE DES MOTIFS CONCERNANT LES OBSERVATIONS SUR LES DÉPENS :
+Le 15 juin 2010
+OBSERVATIONS :
+Avocat de l'appelant :
+Me Bruce S. Russell
+Avocat de l'intimée :
+Me Stan W. McDonald
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Me Bruce S. Russell
+Cabinet :
+McInnes Cooper
+Halifax (Nouvelle‑Écosse)
+Pour l'intimée :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,237 @@
+---
+title: "Status-One Investments Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25944/index.do"
+last_modified: "2004-07-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 473"
+citation2: ""
+neutral_citation: "2004 TCC 473"
+decision_date: "2004-07-27"
+language: "en"
+item_id: "25944"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3677
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:11:45.811000+00:00"
+cases_cited_count: 4
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "36d5e70fa6aba79b624ac5f5311ed478353a3e3dba4b3756179e9b59f3cb0e68"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Status-One Investments Inc. c. La Reine
+
+- Citation: 2004 TCC 473
+- Decision date: 2004-07-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3677, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Status-One Investments Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-07-27
+Neutral citation
+2004 TCC 473
+File numbers
+2002-2867(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2867(IT)G
+BETWEEN:
+STATUS-ONE INVESTMENTS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Application heard on April 15, 2004, at Montréal, Quebec
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellant:
+André P. Gauthier
+Counsel for the Respondent:
+Daniel Bourgeois
+Gatien Fournier
+____________________________________________________________________
+ORDER
+Upon the appellant's motion for an order under Rule 53 of the Tax Court of Canada Rules (General Procedure) striking out the facts set out in the respondent's amended reply;
+The Court orders that paragraphs 11(uu) and 11(ww) of the respondent's amended reply be struck, with costs in the cause.
+Signed at Ottawa, Canada, this 27th day of July 2004.
+"Gerald J. Rip"
+Rip J.
+Translation certified true
+on this 24th day of March 2005.
+Jacques Deschênes, Translator
+Citation: 2004TCC473
+Date: 20040727
+Docket: 2002-2867(IT)G
+BETWEEN:
+STATUS-ONE INVESTMENTS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Rip J.
+[1] The appellant, Status-One Investments Inc., brought a motion in the Court for an order under Rule 53 of the Tax Court of Canada Rules (General Procedure) (hereinafter "Rule 53") striking out the facts set out in the respondent's amended reply.
+[2] In his assessments with respect to the appellant's 1996, 1998 and 1999 taxation years, the Minister of National Revenue disallowed the deduction of certain losses allocated to the appellant by an alleged limited partnership (called "ASF No. 11") to which another alleged limited partnership (called "ARCP") had allocated losses as well. The reasons for the disallowance included the following: the appellant had participated in a tax shelter; there were no partnerships; and, in any event, the allocated losses were not deductible. According to the respondent, an entity known as Equicap promoted and marketed investments to ASF No.1. The Minister also disallowed the deduction for borrowing costs that the appellant allegedly incurred to invest in ASF No. 11.
+[3] The appellant filed its notice of appeal on July 22, 2002, and the respondent replied to it on September 23, 2002. The answer was filed on October 23, 2002. By order of Judge Dussault dated December 22, 2003, the respondent was granted leave to file an amended reply no later than January 31, 2004, and the appellant was granted leave to bring a motion to strike certain allegations of fact contained in the respondent's amended reply should it wish to bring such a motion.
+[4] The respondent's notice of motion asks for leave to file an amended reply and for an extension of time. In it, the respondent stated that the purposes of the amendments that would be made to the reply included the following:
+(i) to ensure that its contents were in keeping with the recent decision in Anchor Pointe;[1]
+(ii) to specify certain facts; and
+(iii) to improve the clarity, syntax and grammar of the reply.
+[5] The Respondent filed its amended reply on January 30, 2004, and the appellant argued its motion before me on February 16, 2004.
+[6] The instant motion by the appellant asks that:
+(i) subparagraph 11(j), as written, be struck out because the respondent is making an amendment and adding and introducing new allegations of fact;
+(ii) subparagraphs 11(j.1), (j.2) and (j.3) be struck out because the respondent is adding and introducing new allegations of fact;
+(iii) subparagraphs 11(aa.1) and (gg.1) be stuck out because the respondent is adding and introducing new allegations of fact;
+(iv) subparagraph 11(tt), as written, be struck out because the respondent is making an amendment and is adding and introducing new allegations of fact;
+(v) subparagraphs 11(uu) and (ww) be struck out because the respondent is adding and introducing new allegations of fact, these new allegations are entirely unrelated to the appellant and the new allegations broaden the scope of the proceedings to encompass other taxpayers; and
+(vi) paragraphs 11.1 and 11.2 be struck because the respondent is adding and introducing new allegations of fact.
+[7] The portions of the Amended Reply that the appellant seeks to have struck out are reproduced in Schedule I to these Reasons for Order.
+[8] Pleadings fulfil several functions. Among other things, when drafted well, they enable the judge to determine clearly the matter submitted to him for decision, they enable the defendant (or respondent) to know what the plaintiff (or appellant) is alleging against him, and they enable the claimant to know what defences will be raised in answer to his claim.[2] In addition, pleadings often give their drafters a better understanding of their case. After an exchange of pleadings, the parties should know exactly which points are in issue and what proof each of them will have to make.
+[9] By amending a pleading, a party can, among other things, delete an admission made inadvertently without having to prove that the fact admitted was not true,[3] or raise additional issues,[4] provided the amendment is timely and causes the opposing party no injustice.[5] There is no injustice if the other party can be compensated in costs.[6] The fact that amendments may make a case more difficult for a party to win is entirely immaterial on a motion to amend.[7]
+[10] Rule 53 provides:
+53. The Court may strike out or expunge all or part of a pleading or other document, with or without leave to amend, on the ground that the pleading or other document:
+(a) may prejudice or delay the fair hearing of the appeal;
+(b) is scandalous, frivolous or vexatious; or
+(c) is an abuse of the process of the Court.
+[11] Since the taxpayer's motion was brought under Rule 53, it is important to summarize the principles that have emerged from the cases in which a party seeks to strike out pleadings in whole or in part. In Morris v. Canada,[8] Bonner J. summarized the principles as follows:
+1. Generally speaking, allegations of fact in a statement of claim should be taken as being true or capable of being proven. The reference for that is Unterreiner v. Wilson (1982) 40 O.R. 2nd 197, which was later affirmed by the Court of Appeal.
+2. There is a heavy burden on the attacking party to show that it is clear and obvious that the pleading is scandalous, frivolous or vexatious, or that it is otherwise an abuse of the process of the Court. The authority for that proposition is Erasmus v. The Queen, 91 D.T.C. 5415.
+3. "Embarrassing" means that the allegations are so irrelevant that to allow them to stand would involve useless expense and would also prejudice the trial of the action by involving the parties in a dispute that is wholly apart from the issues. "In order that the allegations should be struck out from a defense on that ground, it seems to me that their irrelevancy must be quite clear and, so to speak, apparent at the first glance. It is not enough that on considerable argument it may appear that they do not afford a defense." That is a quotation from City of London v. Horner (1914) 111 LT 512 a decision of Pickford, L.J.
+[12] Similarly, in Enterac Property Corp. v. Canada,[9] the Court hesitated to strike out a pleading in whole or in part, having found that the requesting party had not made it clear and obvious that the impugned paragraphs were not relevant.
+[13] It should also be noted that the decision whether or not to allow a motion under Rule 53 falls within the discretion of the Court.[10] This discretion results from the word "may" which Parliament has used at the beginning of the provision.
+[14] Lastly, this Court has stated on several occasions that the question of whether a pleading should be struck out in whole or in part is one for the trial judge to determine, and is not matter to be determined in an interlocutory motion: see Mungovan v. Canada.[11] The portions of the amended reply that the appellant seeks to strike out are part of the assumptions of fact on which the Minister of National Revenue relied in assessing the appellant. As the Associate Chief Judge stated in Mungovan, "Assumptions are not quite like pleadings in an ordinary lawsuit. They are more in the nature of particulars of the facts on which the Minister acted in assessing. It is essential that they be complete and truthful." The trial judge is in a far better position than a judge hearing a preliminary motion to consider which assumptions of fact, if any, should be stuck out. It is up to the trial judge to decide what is relevant and what is not.
+[15] I have divided into two categories the portions of the amended reply that the appellant seeks to have struck out. One category contains all those portions except subparagraphs 11(uu) and 11(ww). The appellant submits that these portions may be amendments or that they add or introduce new allegations of fact. Subparagraphs 11(uu) and 11(ww) make up the second category. In the appellant's submission, they add or introduce new allegations of fact, the facts alleged therein are entirely unrelated to the appellant, and the new allegations broaden the scope of the proceedings to encompass other taxpayers.
+[16] I will begin with the first category of paragraphs and subparagraphs. The appellant submits that the respondent is raising one or more additional issues in them. However, appeals such as this one, which are commenced under subsection 169(1), do not pertain to particular issues. In TransCanada Pipelines, supra, Rothstein J.A.[12] did not rule out the possibility that a notice of appeal can be amended in a manner that raises additional questions, provided the amendment is timely and complies with the rules of the Court.
+[17] If a party may amend its pleadings to raise an additional issue involving a single assessment, the party may also do so in order to change facts set out in the original pleadings and add new facts and new allegations, provided they are relevant to the appeal. Consequently, there is no reason to strike out any portion of the amended reply simply because that portion deals with an issue that was not raised in the Reply itself. However, such amendments must be timely, and must, as a general rule, be done before the examinations for discovery.
+[18] It should be emphasized that, while all the pleadings have been filed in the instant case, no examinations for discovery have been held so far. Thus, the appellant is not yet in a situation where it can no longer examine an officer of the Crown for discovery to determine exactly which facts the Minister assumed in making the assessments under appeal and which evidence the appellant will have to rebut.
+[19] My colleague Dussault J. allowed the respondent to amend her pleadings because she wanted, among other things, to specify ("préciser") certain facts. He determined that the appellant would be compensated for the costs occasioned by the amendment of the respondent's pleadings. In the case of a reply to the notice of appeal, the word "specify" includes the addition of facts. The Petit Robert (2002) defines the word "préciser" as follows:
+[TRANSLATION]
+1. To express, present in a precise or more precise fashion. . . .
+2. To make clearer or more certain . . .
+3. . . . to make clarifications . . . avoid vagueness or allusion.
+The word "précision" is defined as follows:
+A detail or precise fact, a precise explanation that ensures that information is reliable.
+Lastly, the Petit Robert (2002) gives the following meanings for the word "explication":
+[TRANSLATION]
+1. Substantiation intended to make something understood. . . .
+2. Something that accounts for a fact or event.
+3. Clarification (regarding a person's intentions or conduct).
+These definitions show that "préciser" does not simply mean "reformulate". In sum, it appears that it is possible to add facts in order to specify certain other facts.
+[20] I do not believe that I should touch subparagraphs 11(j), (j.1), (j.2), (j.3), (aa.1), (gg.1) or (tt), or paragraphs 11.1 and 11.2, of the amended reply. I do not find any of the statements therein obviously irrelevant to the issues involved in the appeals.[13] I am not satisfied that these paragraphs and subparagraphs fail to specify certain facts. The trial judge will be in a much better position than me to assess their relevance and determine whether they meet at least one of the stated objectives of the motion for leave to amend the reply, namely to determine whether they truly specify certain facts.
+[21] In the instant case, Mr. Fournier, counsel for the respondent, submitted that subparagraphs 11(uu) and (ww) are relevant in that they serve to determine whether the taxpayer intended to earn a profit from the operation of ASF No. 11.
+[22] The appellant claims that the facts set out in subparagraphs 11(uu) and (ww) may deal with taxpayers other than the appellant. It should be recalled that subparagraphs 11(uu) and (ww) are worded as follows:
+[TRANSLATION]
+11(uu) During the years 1993 to 1998, Equicap promoted an marketed several limited partnership arrangements by means of offering memoranda;
+11(ww)The important aspects of these limited partnership arrangements were identical to AFS No. 11, notably in terms of structure, operating method, agreements signed, parties involved, actions taken, objectives pursued and financial and tax results obtained.
+[23] Were it not for the decision of the Federal Court of Appeal in The Queen v. Global Communications Ltd.,[14] I would dismiss the appellant's motion in respect of subparagraphs 11(uu) and 11(ww) as well. In the instant appeals, to determine whether a partnership existed, regard must be paid, inter alia, to the true intention of the parties as appearing from the whole facts of the case.[15]
+[24] In Global, the Federal Court of Appeal affirmed a decision of this Court dismissing the Crown's application for leave to amend its reply by adding an allegation that a person through whose activities the taxpayer had bought certain seismic data, which data then formed the basis of a deduction for Canadian Exploration Expenses, had engaged in similar activities with other taxpayers. The Federal Court of Appeal agreed with the Tax Court of Canada judge that the allegation was not relevant, and that adding the allegation would have broadened the litigation unnecessarily. Neither court seems to have been unduly influenced by the fact that the application had been made two months before the date set down for the trial. The situation in the instant case is analogous to that in Global, supra: the Crown wishes to add to its reply allegations that a person, through whose activities the appellant acquired a share in a partnership, had engaged in similar activities with other taxpayers.
+[25] In argument, counsel for the appellant stated that the allegations in the Notice of Appeal, the Reply to the Notice of Appeal and the answer contain no reference to any investments other than the appellant's investments in AFS No. 11, with the result that more than 80% of the documents contained in the respondent's list of documents cannot be the subject of questions on discovery. Counsel for the appellant estimates that there are more than 6,000 documents in question.
+[26] The appellant believes that the facts set out in subparagraphs 11(uu) and (ww) merely seek to extend the debate to documents involving investments made by taxpayers other than the appellant ― investments in which the appellant did not participate at all.
+[27] The appellant's counsel, Mr. Gauthier, said that the exception in subsection 241(4) of the Income Tax Act ("the Act") regarding the disclosure of documents to third parties applies only where such disclosure is necessary to determine the amount of tax payable. It is clear, upon reading subparagraphs 11(uu) and (ww) of the amended reply, that the allegations made therein and the documents potentially related thereto are not necessary. Indeed, in subparagraph 11(ww), the respondent clearly states that other limited partnerships's documents are identical to those of AFS No. 11. If so, their production is not just unnecessary but entirely superfluous as well. Reproducing a document four or five times adds nothing to the debate and merely encumbers the Court file.[16]
+[28] I do not agree with counsel for the respondent that subparagraphs 11(uu) and (ww) are relevant in that they serve to determine whether the taxpayer intended to make a profit from the operation of ASF No. 11. At this stage, there is no need to include subparagraphs 11(uu) and 11(ww) in the amended reply. Their inclusion would, as it did in Global, supra, unduly prolong the discovery and the trial without any assurance that the inquiry would deal with questions relevant to the assessments in issue.
+[29] The Minister purportedly assumed the facts set out in subparagraphs 11(uu) and (ww) in assessing the appellant. In Anchor Pointe, supra, Rothstein J.A. explained:
+The pleading of assumptions gives the Crown the powerful tool of shifting the onus to the taxpayer to demolish the Minister's assumptions. The facts pleaded as assumptions must be precise and accurate so that the taxpayer knows exactly the case it has to meet.
+[30] Subparagraphs 11(uu) and (ww) muddy the appeal process. At this stage of the process, Equicap's actions appear to have no direct bearing on the fundamental issues raised by the appeals. Considerable caution should be exercised when third parties are involved. The relevant actions are those of the appellant, which has been assessed and is entitled to know why. In some cases, it is quite possible that relationships or ties between an appellant and third parties will be relevant. Among other things, I have in mind cases involving securities trading. However, I have found nothing in the parties' pleadings to indicate that the facts alleged in subparagraphs 11(uu) and (ww) are relevant. An appellant must always make his own case. The Minister must assess taxpayers based on what the taxpayers have or have not done, and not, generally, on the conduct of a third party.
+[31] Consequently, only subparagraphs 11(uu) and (ww) will be struck from the amended reply. Costs will be in the cause.
+[32] Signed in Ottawa, Canada, this 27th day of July 2004.
+"Gerald J. Rip"
+Rip J.
+Translation certified true
+on this 24th day of March 2005
+Jacques Deschênes, Translator
+CITATION:
+2004TCC473
+COURT FILE NO.:
+2002-2867(IT)G
+STYLE OF CAUSE:
+Status-One Investments Inc. v.
+Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+April 15, 2004
+REASONS FOR ORDER BY:
+The Honourable Justice Gerald J. Rip
+DATE OF ORDER:
+July 27, 2004
+APPEARANCES:
+For the Appellant:
+André P. Gauthier
+For the Respondent:
+Daniel Bourgeois
+Gatien Fournier
+COUNSEL OF RECORD:
+For the Appellant
+Name:
+André P. Gauthier
+Firm:
+Heenan Blaikie LLP
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+SCHEDULE I
+11. The Minister relied on the following assumptions or findings of fact in making the reassessments in issue:
+[TRANSLATION]
+"Tax shelter investment" and "limited-recourse amount"
+(j) having regard inter alia to the statements made in the offering memorandum concerning the units of AFS No. 11 ("Offering Memorandum") and to a financial analysis prepared by Alliance Equicap Inc. ("Equicap"), the Minister determined that it was reasonable to consider that the purchase of a unit of AFS No. 11 in 1996 would give rise, at the end of a taxation year ending within the four coming years, to deductible losses, for the purchaser, that would be equal to or greater than the cost of the unit at the end of the year less the total value of the benefits described in subparagraph 11(p.1);
+(j.1) the Minister determined that it would be reasonable to consider that the acquisition of a unit of Alliance No. 11 in 1996 would give rise, at the end of a taxation year ending within the four coming years, to deductible losses, for the purchaser, that would be equal to or greater than the cost of the unit at the end of the year less the total value of the benefits described in subparagraph 11(p.1);
+(j.2) the loans made by Berkshire to the Participants were debts for which the recourse was limited, having regard to the agreements between Alliance No. 11, Warner Bros, Berkshire, the Bank and Equicap, among others;
+(j.3) the total amount of loans by Berkshire to Participants was $25,403,920;
+...
+Reimbursement of loan resulting from Studio Loan Agreement and reimbursement of promissory notes
+(aa.1) a series of predetermined transactions took place on December 3, 1996, and January 30 1998, so that Alliance No. 11 could reimburse part of the loan resulting from the Studio Loan Agreement, Warner Bros. could pay the Defined Gross Payments, and a mechanism could be set up to distribute revenues to the Participants and enable them to pay interest and reimburse the loan to Berkshire upon maturity;
+(gg.1) under Interest Support Agreement No. 1, signed on January 30, 1998, Equicap acted on the commitment it made in the Offering Memorandum with regard to AFS No. 11, and promised, for the benefit of the Participants, to provide the funds needed to pay the interest that they owed until maturity, i.e. January 30, 2006;
+...
+Alliance No. 11 as a tax shelter
+(tt) having regard inter alia to the statements made in the Offering Memorandum concerning AFS No. 11, and to the financial analysis prepared by Equicap, the Minister determined that it was reasonable to consider that the purchase of a unit of AFS No. 11 in 1996 would give rise, at the end of a taxation year ending within the four coming years, to deductible losses equal to or greater than the cost of the unit at the end of the year less the total value of the benefits described in subparagraph 11(p.1);
+Other limited partnership arrangements similar to AFS No. 11.
+(uu) During the years 1993 to 1998, Equicap promoted and marketed several limited partnership arrangements by means of offering memoranda;
+. . .
+(ww) The important aspects of these limited partnership arrangements were identical to AFS No. 11, notably in terms of structure, operating method, agreements signed, parties involved, actions taken, objectives pursued and financial and tax results obtained;
+11.1 Agreements were signed to enable Alliance Film Holdings No. 11 Inc., a subsidiary of Alliance Communications Corporation, to assume the debt that Alliance No. 11 owed to Warner Bros., under the Studio Loan Agreement, in exchange for Alliance No. 11 Class "B" units. At the time that this purchase option was exercised by Alliance Film Holdings No. 11 Inc., the Alliance Class "B" units had no market value.
+11.2 All the agreements related to the use of the Bank's credit facility grant AFS No. 11 and the Participants the right to receive amounts enabling the Participants to reimburse their loan to Berkshire and the interest thereon. These benefits were granted to eliminate or reduce the effect of a loss that the Participants and AFS No. 11 might have incurred as partners in their respective partnerships.
+[1] Anchor Pointe Energy Ltd. v. The Queen, [2003] F.C.J. No. 1045, 2003 DTC 5512 (F.C.A.).
+[2] D.B. Casson, Odgers On High Court Pleadings and Practice, 23d ed. (London: Sweet & Maxwell, 1991), at pp. 123-24.
+[3] Papp Estate v. M.N.R., 63 DTC 1219 (S.C.C.).
+[4] TransCanada Pipelines Ltd. v. The Queen, [2001] F.C.J. No. 1581, 2001 DTC 5625 (F.C.A.).
+[5] The Queen v. Hollinger Inc., [2000] 1 F.C. 227, 99 DTC 5500 (C.A.). See McMechan & Bourgard, Tax Court Practice, at pp. 4-102 to 4-111, for various examples of cases in which courts have granted or denied leave to amend pleadings.
+[6] VisX Inc. v. Nidek Co., [1998] F.C.J. No. 1766, (1998), 234 N.R. 94 (F.C.A.).
+[7] Andersen Consulting v. The Queen, [1998] 1 F.C. 605, [1998] 1 C.T.C. 322 (F.C.A.).
+[8] [1992] T.C.J. No. 787, 93 DTC 316 (T.C.C.).
+[9] 95 DTC 391, [1995] T.C.J. No. 341 at paras. 7-8; aff'd [1998] F.C.J. No. 302, 98 DTC 6202 (F.C.A.).
+[10] See Dolson v. The Queen, T.C.C., No. 94-688(IT)G, April 12, 1996 (unpublished).
+[11] [2001] T.C.J. No. 445 (QL), 2001 DTC 691 (T.C.C.), at para. 10.
+[12] At para. 21.
+[13] Naturally, if the appellant doubts that the Minister actually assumed the facts set out in paragraph 11 when it made the assessments, the appellant may, in the course of discovery, obtain evidence indicating precisely which facts the Minister relied on to assess it.
+[14] [1997] F.C.J. No. 382, 97 DTC 5194 (F.C.A.), at p. 5195, per Hugessen J.A.
+[15] Backman v. The Queen, [2001] 1 S.C.R. 367, at para. 25, per Iacobucci and Bastarache JJ. See also Grant v. The Queen, [2000] T.C.J. No. 140, at para. 15, 2000 DTC 1985 (T.C.C.), per Bowman A.C.J.
+[16] For example, see Ford Motor Company of Canada v. M.N.R., [1997] F.C.J. No. 505, [1997] 3 C.T.C. 80 (F.C.A.) and W.S. Hawkes v. The Queen, [1996] F.C.J. No. 1694, 97 DTC 5060 (F.C.A.).

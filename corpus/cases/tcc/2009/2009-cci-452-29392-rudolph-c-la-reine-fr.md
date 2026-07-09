@@ -1,0 +1,588 @@
+---
+title: "Rudolph c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29392/index.do"
+last_modified: "2009-09-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 452"
+citation2: ""
+neutral_citation: "2009 CCI 452"
+decision_date: "2009-09-11"
+language: "fr"
+item_id: "29392"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6883
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:35:42.647000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2bc550cd5edfb99074cabaa1d7bacba3fa599e70d6509e83c14a73e441004cd6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rudolph c. La Reine
+
+- Citation: 2009 CCI 452
+- Decision date: 2009-09-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6883, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rudolph c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-11
+Référence neutre
+2009 CCI 452
+Numéro de dossier
+2004-3357(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3357(IT)G
+ENTRE :
+DOUGLAS G. RUDOLPH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 22, 23 et 24 juin 2009, à Halifax (Nouvelle-Écosse).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocats de l’intimée :
+Me John P. Bodurtha et Me Devon E. Peavoy
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté de la nouvelle cotisation établie relativement à l’année d’imposition 1998 de l’appelant est accueilli, sans dépens, et cette nouvelle cotisation est annulée.
+L’appel interjeté de la nouvelle cotisation établie relativement à l’année d’imposition 1999 de l’appelant est accueilli, avec dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu de ce qui suit :
+a) la somme de 11 270 $ ne doit pas être incluse dans le calcul du revenu de l’appelant pour 1999 au titre d’avantages relatifs aux frais pour droit d’usage et aux frais de fonctionnement;
+b) aux fins de détermination de la somme qui était payable par l’appelant à Gravel Ridge Investments Inc. (« Gravel Ridge ») en 1999 et qui n’a pas été remboursée dans le délai fixé au paragraphe 15(2.6) de la Loi de l’impôt sur le revenu, les crédits suivants, qui ont été portés en diminution du compte de prêt aux actionnaires et qui ont été refusés, doivent être acceptés au titre de crédits imputables au compte de prêts aux actionnaires et défalqués de la somme payable par l’appelant à Gravel Ridge en date de ces crédits :
+Élément
+Date du crédit
+Somme
+A
+Le 16 novembre 1998
+5 500 $
+B
+Le 8 décembre 1998
+33 000 $
+C
+Le 11 décembre 1998
+7 500 $
+E
+Le 31 décembre 1998
+25 000 $
+G
+Le 13 janvier 1999
+2 750 $
+H
+Le 13 janvier 1999
+5 000 $
+I
+Le 21 janvier 1999
+6 230 $
+J
+Le 19 février 1999
+16 000 $
+L
+Le 17 juin 1999
+150 000 $
+M
+Le 29 juin 1999
+74 000 $
+N
+Le 28 octobre 1999
+10 000 $
+O
+Le 3 mars 2000
+200 000 $
+Q
+Le 13 avril 2000
+7 500 $
+R
+Le 20 juin 2000
+29 000 $
+S
+Le 14 juillet 2000
+5 000 $
+Crédit supplémentaire :
+Le 30 mai 1999
+249 975 $
+Total :
+826 455 $
+Signé à Ottawa, Canada, ce 11e jour de septembre 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 4e jour de mars 2010.
+François Brunet, réviseur
+Référence : 2009 CCI 452
+Date : 20090911
+Dossier : 2004-3357(IT)G
+ENTRE :
+DOUGLAS G. RUDOLPH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] L’appelant a fait l’objet d’une nouvelle cotisation visant à inclure dans le calcul de son revenu pour 1999 la somme de 1 104 427 $ en application du paragraphe 15(2) de la Loi de l’impôt sur le revenu (la « Loi »). Cette nouvelle cotisation fait suite au refus, par l’Agence du revenu du Canada (l’« ARC »), d’accepter un certain nombre de crédits que l’appelant a imputés à son compte de prêt aux actionnaires (de sorte qu’il doive 1 104 427 $ à Gravel Ridge Investments Inc. (« Gravel Ridge »), somme qui n’a pas été remboursée dans le délai fixé au paragraphe 15(2.6) de la Loi). En l’espèce, la Cour est appelée à rechercher si l’un ou l’autre de ces crédits qui n’ont pas été acceptés comme des déductions valides imputables à la somme que l’appelant devait à la société doit être accepté et donc appliqué en réduction de la dette que l’appelant a envers Gravel Ridge. La présente affaire soulève une autre question, laquelle vise un crédit qui, selon l’appelant, a été corrigé au moyen d’une écriture de journal subséquente.
+[2] Une nouvelle cotisation a également été établie à l’égard de l’appelant relativement à l’année 1998 afin d’inclure dans son revenu la somme de 10 237 $ au titre d’avantages relatifs aux frais pour droit d’usage et aux frais de fonctionnement. En ce qui concerne 1999, il a fait l’objet d’une nouvelle cotisation visant à inclure dans son revenu la somme de 11 270 $ au titre d’avantages relatifs aux frais pour droit d’usage et aux frais de fonctionnement. Au début de l’audience, l’intimée a reconnu que ces sommes ne devaient pas être incluses dans le revenu de l’appelant. La nouvelle cotisation relative à l’année d’imposition 1998 de l’appelant est donc annulée et la somme de 11 270 $ ne doit pas être incluse dans le revenu de l’appelant pour 1999 au titre d’avantages relatifs aux frais pour droit d’usage et aux frais de fonctionnement.
+[3] La Cour restait donc appelée à rechercher s’il y a lieu de reconnaître que certains des crédits imputés au compte de prêt aux actionnaires de l’appelant qui n’ont pas été acceptés par l’ARC ont pour effet de réduire la dette qu’a l’appelant envers Gravel Ridge. L’appelant fait état de plusieurs de ces crédits refusés par l’ARC dans une lettre qu’il a écrite le 31 janvier 2006. Après le début de l’audience, l’avocat de l’intimée a reconnu que sa cliente acceptait maintenant un certain nombre de ces crédits. Au début du deuxième jour de l’audience, l’appelant a produit et versé au dossier la liste de ces crédits. Ceux-ci permettent de réduire d’autant le revenu de l’appelant pour 1999. Les crédits acceptés par l’intimée sont les suivants :
+Élément
+Date du crédit
+Somme
+A
+Le 16 novembre 1998
+5 500 $
+B
+Le 8 décembre 1998
+33 000 $
+C
+Le 11 décembre 1998
+7 500 $
+E
+Le 31 décembre 1998
+25 000 $
+G
+Le 13 janvier 1999
+2 750 $
+H
+Le 13 janvier 1999
+5 000 $
+I
+Le 21 janvier 1999
+6 230 $
+J
+Le 19 février 1999
+16 000 $
+M
+Le 29 juin 1999
+74 000 $
+O
+Le 3 mars 2000
+200 000 $
+R
+Le 20 juin 2000
+29 000 $
+S
+Le 14 juillet 2000
+5 000 $
+Total :
+408 980 $
+[4] À l’audience, l’appelant a fait état des crédits suivants mentionnés dans la lettre du 31 janvier 2006 :
+Élément
+Date du crédit
+Somme
+F
+70 000 $
+K
+Le 30 mai 1999
+500 000 $
+L
+Le 17 juin 1999
+150 000 $
+N
+Le 28 octobre 1999
+10 000 $
+P
+Le 7 avril 2000
+80 300 $
+Q
+Le 13 avril 2000
+7 500 $
+Total:
+817 800 $
+[5] L’élément désigné par la lettre « D » dans la lettre du 31 janvier 2006 (un crédit de 10 000 $ daté du 17 décembre 1998) a été refusé par l’ARC et l’appelant a déclaré qu’il renonçait à sa demande relative à ce crédit.
+[6] Les crédits en litige ont été portés en diminution du compte de prêt aux actionnaires que l’appelant détient auprès de Gravel Ridge. D’une manière générale, pour justifier un crédit à ce compte, il faut que l’appelant établisse qu’il a soit accru l’actif de Gravel Ridge d’une somme correspondant au crédit, soit diminué le passif de Gravel Ridge d’une telle somme. Simplement prouver qu’une écriture de journal a été faite n’est pas suffisant.
+[7] Dans la décision Trudel-Leblanc v. The Queen, 2003 DTC 257, 2004 DTC 3188, [2005] 2 C.T.C. 2361, le juge Tardif a fait l’observation suivante :
+27 [...] Trop souvent, certains professionnels de la comptabilité et fiscalité ont tendance à assumer que les faits devront être façonnés par les entrées comptables alors qu’en réalité, les chiffres doivent refléter les faits et non l’inverse.
+[8] Dans la décision VanNieuwkerk c. La Reine, 2003 CCI 670, [2004] C.T.C. 2577, le juge en chef adjoint Bowman (tel était alors son titre) s’est exprimé en ces termes :
+6 [...] Cette cour a eu maintes fois l’occasion de dire que les écritures comptables ne créent pas la réalité. Elles ne font que refléter la réalité. Il doit y avoir une réalité sous-jacente pouvant exister indépendamment des écritures comptables […]
+[9] C’est la réalité sous‑jacente qui permettra de décider si l’appelant a réduit la somme qu’il devait à Gravel Ridge. La dette de l’appelant envers Gravel Ridge n’a pas été réduite simplement parce qu’une écriture de journal a été faite. La dette de l’appelant envers Gravel Ridge sera réduite s’il a transféré des actifs à cette société ou s’il a diminué les dettes de celle‑ci.
+[10] L’appelant a donné les précisions suivantes au sujet des activités commerciales de Gravel Ridge :
+[traduction]
+M. RUDOLPH : Gravel Ridge est une société laquelle a, pour l’essentiel, été constituée afin de découvrir des sociétés qu’elle pourrait acquérir en réalisant d’importants profits. Elle achetait et vendait des comptes débiteurs. Elle exerçait essentiellement toutes les activités qui sont liées au conseil d’entreprise et à l’acquisition et à la vente d’entreprises. Gravel Ridge s’intéressait à tout ce qui touchait au commerce.
+[11] Au moment de la constitution de celle-ci, Gravel Ridge comptait quatre actionnaires. L’appelant était l’un d’eux. Même s’il était l’actionnaire contrôlant au début, cette situation a pris fin lorsque le nombre d’actionnaire a augmenté. L’appelant a déclaré qu’à la fin il y avait peut‑être six, sept ou même huit actionnaires. La preuve rapportée ne permet pas de savoir exactement pourquoi l’appelant ignorait combien d’actionnaires comptait Gravel Ridge. L’appelant n’a nommé aucun des autres actionnaires de Gravel Ridge. Il est difficile de savoir si l’appelant était l’actionnaire contrôlant de Gravel Ridge en 1999. L’appelant a toutefois défini son rôle auprès de cette société de la façon suivante : il était [traduction] « la personne chargée de trouver les entreprises et de favoriser la conclusion de l’ensemble des marchés ».
+F – Crédit de 70 000 $
+[12] L’appelant a exposé les faits relatifs à ce crédit :
+[traduction]
+M. RUDOLPH : A-4, la traite de banque de soixante‑dix mille dollars. Une société de Sackville, Davis and Davis, avait retenu les services de Gravel Ridge. Il s’agissait d’une société d’enrichissement personnel et Gravel Ridge devait se charger de l’ensemble des services de conseil et aider la société à obtenir un financement-relais.
+Comme par le passé, M. le juge, pendant toute ma carrière, les affaires se concluent souvent au moyen d’une poignée de main. Et lorsque je dis que je vais faire quelque chose, je le fais même si les conditions du marché ne me permettent pas de le faire immédiatement, je suis néanmoins tenu de le faire.
+J’ai donc obtenu ou aidé à obtenir un financement-relais pour cette société. Il y avait une société du nom de Front-Line Investments qui a offert soixante‑dix mille dollars. Et, fondamentalement, l’entente prévoyait que, si la société n’était pas en mesure de rembourser, je serais alors responsable de ces fonds.
+[13] Initialement, l’appelant a déclaré qu’il avait garanti à Front‑Line Investments Ltd. le remboursement de l’argent que cette société avait avancé à Davis and Davis. L’appelant a par la suite affirmé que Gravel Ridge et lui avaient garanti le remboursement de cet argent. Ce crédit donne lieu à deux questions. L’appelant a‑t‑il personnellement payé la somme de 70 000 $ à Front‑Line Investments Ltd.? Dans l’affirmative, le paiement de la somme de 70 000 $ à Front‑Line Investments Ltd. a‑t‑il eu pour effet de réduire d’autant la dette de Gravel Ridge?
+[14] L’appelant a produit trois documents à l’appui de son argument relatif à ce crédit :
+a) le contrat d’affermage de créances non signé intervenu entre l’appelant et K & K Marsh Consultants Incorporated (« K & K Marsh ») le 11 janvier 2001 (lequel, selon l’appelant, mettait en évidence la source des fonds qui ont été utilisés pour payer la somme de 70 000 $ à Front‑Line Investments Ltd. le 29 janvier 1999);
+b) le double du relevé bancaire délivré par la Banque Royale relativement à 2110956 Nova Scotia Limited pour la période du 29 janvier 1999 au 26 février 1999 dans lequel plus de 90 pour 100 des renseignements sont supprimés;
+c) le double d’une traite de banque de 70 000 $ datée du 29 janvier 1999 et payable à Front‑Line Investments Ltd.
+[15] Comme le paiement versé à Front‑Line Investments Ltd. et ayant censément donné lieu au crédit porté au compte de prêt aux actionnaires a été fait le 29 janvier 1999, le contrat d’affermage de créances conclu presque deux ans plus tard (soit le 11 janvier 2001) ne pouvait mettre en évidence la source des fonds utilisés pour payer Front‑Line Investments Ltd.
+[16] L’état de compte dont presque tous les éléments ont été biffés (seul un élément n’a pas été biffé, à savoir la mention d’un chèque de 70 000 $) révèle uniquement que 2110956 Nova Scotia Limited a émis un chèque de cette somme. Comme la date a aussi été biffée, il est impossible de savoir quand le chèque a été tiré.
+[17] La traite bancaire ne précise pas le nom de l’acquéreur de celle-ci. Même s’il est impossible de lire la première partie de la mention figurant sur ce document, l’appelant a affirmé qu’il s’agissait des termes « D G R Accounting Services », lesquels désignent une entreprise individuelle lui appartenant. Ce renseignement ne permet pas de confirmer l’identité de l’acquéreur de la traite bancaire, ce n’est qu’une mention inscrite sur l’effet de commerce. Cependant, comme la somme en cause (70 000 $) correspond au montant du chèque (70 000 $) qui figure sur l’état de compte relatif à 2110956 Nova Scotia Limited, et comme l’appelant a déclaré lors de son témoignage que ce relevé bancaire se rapportait à la traite de banque, il me semble que 2110956 Nova Scotia Limited doit avoir fait le paiement à Front-Line Investments Ltd., et non à l’appelant. Ce dernier a affirmé qu’il avait emprunté la somme à titre personnel, qu’il avait transféré l’argent à 2110956 Nova Scotia Limited et qu’il avait ensuite retiré l’argent de 2110956 Nova Scotia Limited. Si l’appelant devait l’argent à Front‑Line Investments Ltd. et qu’il avait emprunté cette somme pour payer Front‑Line Investments Ltd., pourquoi aurait‑il fait passer les fonds par 2110956 Nova Scotia Limited?
+[18] Je ne suis donc pas convaincu que l’appelant a personnellement payé la somme de 70 000 $ à Front‑Line Investments Ltd. Cependant, même s’il l’a fait, il est difficile de voir comment cela aurait permis de réduire la dette de Gravel Ridge. L’appelant a initialement fait mention d’une garantie qu’il aurait fournie à titre personnel. Si tel était le cas, Gravel Ridge n’aurait pas engagé sa responsabilité et le fait que l’appelant ait rempli sa propre obligation personnelle n’aurait pas pour effet de réduire les dettes de Gravel Ridge.
+[19] L’appelant a plus tard affirmé que Gravel Ridge avait également garanti ce paiement. Aucun document écrit ne constate l’existence de cette garantie, laquelle a été confirmée, comme l’a précisé l’appelant, par une poignée de main. Nul n’a été appelé par l’appelant à témoigner pour le compte de Front‑Line Investments Ltd. afin de confirmer que Gravel Ridge était également responsable. Le financement-relais destiné à Davis and Davis est passé directement de Front‑Line Investments Ltd. à Davis and Davis. La preuve ne révèle pas si les représentants de Front‑Line Investments Ltd. étaient même au courant de la participation, le cas échéant, de Gravel Ridge dans l’obtention de ce financement.
+[20] L’appelant a cité trois personnes à témoigner (en plus de lui‑même). Il a appelé à la barre le vérificateur de l’ARC, Keith Marsh (l’un des clients de Gravel Ridge) et Henry Rudolph (frère de l’appelant).
+[21] Lors de son témoignage, Keith Marsh a affirmé sans équivoque qu’il avait traité avec l’appelant. Voici un extrait du contre‑interrogatoire de Keith Marsh :
+[traduction]
+Q. Ouais. Et je veux juste que vous fassiez attention aux termes que vous employez avec moi, parce que Douglas Rudolph et Gravel Ridge Investments sont deux entités juridiques distinctes. Donc –
+R. Entendu. Eh bien – entendu – j’ai toujours traité avec Douglas Rudolph. J’ai appris que Gravel Ridge servait de véhicule à Doug dans le cadre de ses placements.
+[22] La preuve ne révèle pas exactement quand M. Marsh a appris que Gravel Ridge servait de véhicule financier à l’appelant. Il semble bien toutefois que l’appelant n’a pas précisé à M. Marsh au cours de leurs transactions que Gravel Ridge était, en l’occurrence, la société visée. Rien ne permet de croire que l’appelant a été plus clair lorsqu’il traitait avec les représentants de Front‑Line Investments Ltd. et, par conséquent, rien ne donne à penser que les représentants de Front‑Line Investments Ltd. étaient même au courant de l’existence de Gravel Ridge. La preuve produite est insuffisante pour établir que Gravel Ridge était responsable envers Front‑Line Investments Ltd. du paiement d’une somme de 70 000 $.
+[23] Le financement-relais a été assuré par Front‑Line Investments Ltd. directement à la société Davis and Davis, laquelle a omis de rembourser le prêt. En l’absence d’une garantie offerte par Gravel Ridge, rien n’indique que cette dernière était responsable envers Front‑Line Investments Ltd. Le seul élément de preuve relatif à cette garantie de Gravel Ridge consiste en l’assertion de l’appelant selon laquelle Gravel Ridge avait garanti le paiement (et cette assertion a été formulée uniquement après l’affirmation initiale de l’appelant voulant qu’il ait été personnellement responsable). Compte tenu du témoignage de M. Marsh, selon lequel il avait toujours traité avec l’appelant, et en l’absence d’un élément de preuve laissant à penser que l’appelant a été plus explicite dans ses communications avec Front‑Line Investments Ltd., il me semble que la garantie confirmée par une poignée de main de l’appelant a été donnée par ce dernier et non par Gravel Ridge.
+[24] En conséquence, la thèse de l’appelant en ce qui concerne sa demande au titre de ce crédit de 70 000 $ lié au paiement fait à Front‑Line Investments Ltd. doit être rejetée.
+K – Crédit de 500 000 $
+[25] L’appelant a déclaré que ce crédit concerne des garanties qu’il aurait offertes en signant un billet à ordre de 250 000 $ le 31 mai 1999 en faveur de K & K Marsh et un autre billet à ordre de 250 000 $ le 31 mai 1999 en faveur de Sirah Consulting Limited (« Sirah »). Il a déclaré que lui et les personnes avec lesquelles il traitait employaient le terme « garantie » pour désigner un billet à ordre. Jusqu’à présent, aucun paiement n’a été versé à K & K Marsh ou à Sirah au titre de ces billets.
+[26] Les billets à ordre se rapportent à l’acquisition d’actions d’une société à dénomination numérique, soit 2485969 Nova Scotia Limited. K & K Marsh, notamment, a placé des capitaux dans cette société à dénomination numérique. Keith Marsh et son épouse détiennent les actions de K & K Marsh.
+[27] Voici l’extrait pertinent de la discussion entre l’appelant et Keith Marsh sur ce point :
+[traduction]
+Q. Pouvez-vous dire à la Cour quelle était, en mai 1999 environ, la nature de la relation commerciale ayant pu exister entre Gravel Ridge Investments, laquelle m’appartient en partie, et K&K Marsh Consultants, laquelle appartient à vous et à votre épouse?
+R. Ouais. En 1999, nous nous connaissions depuis peu et nous participions – nous avions plusieurs rencontres, nous faisions des placements et des opérations. Il m’est impossible d’être précis au sujet d’une opération particulière, mais plusieurs opérations étaient en cours.
+Q. Entendu. C’est parfait. Merci.
+À la fin de mai, K&K Marsh s’est engagée à acquérir des actions d’une société à dénomination numérique, 2485969 Nova Scotia Limited. Êtes‑vous en mesure de dire à la Cour combien a coûté cette acquisition d’actions, s’il vous plaît?
+R. Comme je l’ai dit, il y en avait plusieurs à ce moment. Si je me souviens bien, celle‑là a coûté deux cent cinquante mille.
+Q. Oui. Merci. Les deux cent cinquante mille dollars (250 000 $), le – à ce moment, Gravel Ridge Investments était‑elle endettée envers votre société, K&K Marsh Consultants, d’une somme de ce montant environ au titre d’une quelconque opération donnée?
+R. Puis-je – pouvez-vous reformuler? Pour que je comprenne « endettée ». Voulez‑vous dire si cette société me doit cet argent?
+Q. Oui. Est-ce que Gravel Ridge devait de l’argent à K&K Marsh Consultants?
+R. Oui.
+Q. Et est-ce que Gravel Ridge – s’agissait‑il d’une importante somme d’argent ou d’une petite somme d’argent?
+R. Il s’agissait d’une importante somme d’argent.
+Q. Merci. Au moment de la conclusion de cette entente, y avait‑il quoi que ce soit de particulier ou une quelconque garantie supplémentaire que K&K Marsh a pu exiger lorsque ce marché est intervenu?
+R. Oui. Nous voulions une garantie personnelle.
+Q. Et de qui vouliez‑vous cette garantie personnelle?
+R. De la personne à laquelle nous parlions, M. Rudolph, vous‑même.
+[28] Keith Marsh a fait les précisions suivantes au sujet de la garantie :
+[traduction]
+LE TÉMOIN : La garantie faisait en sorte que les deux cent cinquante mille dollars (250 000 $) que nous avions placés dans le cadre du groupe – nous avons tous placé la même somme d’argent – que ce capital soit garanti. Par conséquent, si les placements ne produisaient pas les résultats annoncés, nous pouvions récupérer notre capital initial de deux cent cinquante mille dollars.
+[29] Dans un courriel qu’il a adressé à Keith Marsh le 21 mai 1999, l’appelant donnait les précisions suivantes sur le marché proposé :
+[traduction]
+Placement dans la coquille vide – 2485969 Nova Scotia Limited
+Keith, Gary et Grant payent 250 000 $ chacun pour acquérir 25 pour 100 (75 pour 100 au total) de la coquille vide 2485969 Nova Scotia Limited.
+Les 250 000 $ sont différés – si, à la fin d’un délai de cinq ans, chacun des actionnaires n’a pas touché 500 000 $ en produit annuel (services de conseil et dividendes) de la coquille vide, les actions de 250 000 $ seront rachetées.
+Pour l’instant, la société tirera un revenu de deux sources :
+1) les honoraires des services de conseil au titre du placement d’argent des clubs des 150 000 $ ou des clubs des 75 000 $;
+2) la promotion du concept de location – ventes directes, ventes de franchises et redevances.
+Les actionnaires recevront des fonds de deux manières différentes :
+1) le revenu net excédant 200 000 $ sera distribué également entre les quatre actionnaires à titre d’honoraires de conseil;
+2) les premiers 200 000 $ équivaudront à 164 000 $ après impôt et ils seront distribués à titre de dividendes.
+- La somme initiale de 250 000 $ continuera de donner lieu à des intérêts déductibles.
+Keith, voici des renseignements généraux à ton intention. Je dois rencontrer Richard au début de la semaine prochaine afin de mettre la dernière main à l’organisation du capital social.
+Doug
+[30] Le courriel donne à penser que chaque actionnaire devait toucher 500 000 $ en produit annuel. Dans un document distinct (qui a été présenté par Keith Marsh en tant que document qu’il avait reçu de l’appelant), il est fait mention d’une somme de 500 000 $ après 5 ans et d’un rendement annuel du capital placé de 81,88 pour 100. Ce document ajoute ce qui suit :
+[traduction]
+Ces fonds serviront à l’acquisition d’une coquille vide, aucune somme ne sera remise à la société.
+[31] Il est difficile de saisir le sens du passage [traduction] « aucune somme ne sera remise à la société ». Aucune précision n’a été fournie à cet égard. Dans la ligne précédant le passage susmentionné, il est fait état de placements de 250 000 $ chacun effectués par Gary, Grant et Keith et d’un placement nul de la part de Doug.
+[32] Keith Marsh a présenté le placement proposé en ces termes :
+[traduction]
+R. Nous amassions de l’argent afin de réunir un capital d’un million de dollars que M. Rudolph allait utiliser comme placements, l’un de ceux‑ci étant la location.
+[33] Le double d’une lettre du 4 octobre 2007 adressée à l’intimée par l’avocat[1] de l’appelant a été produit en preuve. Les documents suivants étaient notamment joints à cette lettre :
+a) l’entente non signée datée du 30 juin 1999 entre Rodney Mullen (en qualité de vendeur) et K & K Marsh (en qualité d’acquéreur) selon laquelle Rodney Mullen détenait 50 actions ordinaires de 2485969 Nova Scotia Limited et le prix d’achat pour 25 de ces actions était fixé à 1 $[2];
+b) le double d’une entente non signée datée du 30 juin 1999 entre Rodney Mullen (en qualité de vendeur) et Sirah (en qualité d’acquéreur) selon laquelle Rodney Mullen détenait 50 actions ordinaires de 2485969 Nova Scotia Limited et le prix d’achat pour 25 de ces actions était fixé à 1 $;
+c) le double de l’entente datée du 30 juin 1999 qui paraît être signée par l’appelant pour le compte de Gravel Ridge dans laquelle il est mentionné que cette dernière s’engage à vendre 25 actions ordinaires de 2485969 Nova Scotia Limited à 3030267 Nova Scotia Limited pour une somme de 1 $.
+[34] Comme c’est l’avocat de l’appelant qui a fait parvenir ces ententes à l’avocat de l’intimée, il s’agissait vraisemblablement des ententes relatives à l’acquisition des actions de 2485969 Nova Scotia Limited. Le prix d’achat de 1 $ pour les actions de 2485969 Nova Scotia Limited devant être achetées par chacun des investisseurs tend à confirmer que cette société était une coquille vide. Il me semble donc que les actions de 2485969 Nova Scotia Limited ont été achetées pour 1 $ et que la somme de 250 000 $ a été remise à 2485969 Nova Scotia Limited à titre d’apport de capital ou de prêt aux actionnaires.
+[35] L’appelant a affirmé que Gravel Ridge avait vendu des actions de 2485969 Nova Scotia Limited à l’un des investisseurs (3030267 Nova Scotia Limited) pour la somme de 250 000 $ (ce qui signifierait que les deux autres investisseurs auraient versé 250 000 $ chacun à Rodney Mullen). Or, cette situation n’est compatible ni avec la qualification de coquille vide de la société 2485969 Nova Scotia Limited ni avec les ententes jointes à la lettre de l’avocat de l’appelant – dont celle qui paraît être signée par l’appelant pour le compte de Gravel Ridge et selon laquelle les actions de 2485969 Nova Scotia Limited ont été vendues par Gravel Ridge à 3030267 Nova Scotia Limited pour la somme de 1 $ –, ni avec la description donnée par Keith Marsh de la réunion proposée de capitaux d’un million de dollars devant servir à faire des placements. Il semble par ailleurs illogique qu’une coquille vide soit achetée d’autres actionnaires pour la somme de 750 000 $ (soit la totalité du montant à placer réuni par Gary, Grant et Keith) alors qu’une nouvelle société pouvait être constituée pour une petite fraction de cette somme.
+[36] De plus, si les actions avaient été vendues par Rodney Mullen à raison de 25 actions pour 250 000 $ (500 000 $ pour 50 actions) et par Gravel Ridge à raison de 25 actions pour 250 000 $, il paraît logique de penser qu’une convention d’achat‑vente relative à ces actions et reflétant ce prix d’achat aurait été dressée. Or, les seules conventions produites sont les ententes non signées faisant état d’un prix d’achat de 1 $ et l’unique entente signée par Gravel Ridge stipulant le même prix d’achat de 1 $ pour les actions de 2485969 Nova Scotia Limited. Si 500 000 $ avaient été versés à Rodney Mullen et 250 000 $ à Gravel Ridge, comment 2485969 Nova Scotia Limited (que l’on a qualifiée de coquille vide) aurait‑elle disposé des capitaux nécessaires pour investir dans le concept de l’entreprise de location (laquelle devait être l’une des entreprises exploitées par 2485969 Nova Scotia Limited) ou dans une quelconque autre entreprise? À la lumière de la description du concept de l’entreprise de location qui a été produite, il semble qu’il devait s’agir d’une nouvelle entreprise et non d’une entreprise en exploitation existante.
+[37] En conséquence, je conclus que les actions de 2485969 Nova Scotia Limited ont été acquises par K & K Marsh et Sirah pour la somme de 1 $ et que chaque investisseur devait fournir 250 000 $ à 2485969 Nova Scotia Limited à titre d’apport de capital ou de prêt aux actionnaires.
+[38] K & K Marsh ne disposait pas de 250 000 $ en espèces. Pour financer ce placement, K & K Marsh a utilisé la somme qui lui était payable par Gravel Ridge (et qui comprenait un boni d’intérêt sur cette dette, ce qui portait la somme à 250 000 $). L’appelant s’est exprimé en ces termes :
+[traduction]
+M. RUDOLPH : C’est le marché dont nous discutons, les deux cent cinquante mille dollars et, à l’époque, le solde que Gravel Ridge devait à K&K Marsh selon ce résumé s’élevait à deux cent trente trois mille vingt‑neuf dollars et trente‑deux cents.
+Monsieur Marsh et moi‑même avons convenu que Gravel Ridge offrirait un boni d’intérêt. Cette mesure allait permettre de porter la somme à deux cent cinquante mille dollars de sorte que K&K Marsh dispose de l’argent nécessaire pour respecter l’entente relative aux actions intervenue avec 2485969 Nova Scotia Limited.
+Donc, à l’époque, M. le juge, il a été convenu que – et il y a un tiers en cause et j’essaie de présenter la situation simplement – il a été convenu que Gravel Ridge Investments ne devait plus à K&K Marsh la somme de deux cent cinquante mille dollars.
+Ils obtenaient le bénéfice des actions évaluées à deux cent cinquante mille dollars dans 2485969 Nova Scotia Limited et il y avait une clause de rendement relative à cette société. Mais nous nous demandons maintenant, et c’est cette question dont la Cour est saisie, je vous demande, M. le juge, de vous reporter à la page 2 de l’onglet 7 du recueil I de l’intimée.
+Environ au milieu de cette page, vous verrez le 30 mai 1999, K&K Marsh Consultants, actions deux cent cinquante mille dollars. Tout ce qui est arrivé, M. le juge, c’est que M. Marsh, pour le compte de K&K Marsh Consultants, et moi, pour le compte de Gravel Ridge, avons conclu une entente selon laquelle cette dernière ne devait plus aucune somme à K&K Marsh.
+Et ils ne doivent plus d’argent à K&K Marsh parce que j’ai immédiatement assumé cette dette au moyen d’un billet à ordre, d’une garantie bancaire ou d’une garantie personnelle de sorte que, peu importe ce que réservait l’avenir, K&K Marsh Consultants aurait toujours recours contre moi personnellement pour les deux cent cinquante mille dollars, comme l’a déclaré M. Marsh hier au cours de son témoignage. Et la situation demeure inchangée aujourd’hui.
+[39] Cependant, il me semble que la raison pour laquelle Gravel Ridge n’était plus débitrice d’une somme de 250 000 $ envers K & K Marsh tient plutôt au fait que K & K Marsh avait converti cette créance en actions de 2485969 Nova Scotia Limited (ou en actions et passif de cette société). Je n’ai pas l’impression qu’il était de l’intention des parties que K & K Marsh ait à la fois les actions de la société à dénomination numérique (et ses rendements annoncés de 81,88 pour 100 par année) et la créance de 250 000 $.
+[40] La société à dénomination numérique n’a pas produit le rendement prévu et, dans une lettre du 1er juin 2002 adressée aux autres actionnaires, l’appelant, en qualité de président de 2485969 Nova Scotia Limited, affirmait ce qui suit :
+[traduction]
+Objet : Convention d’achat‑vente du 30 juin 1999
+La présente lettre vise à vous informer que la société n’a pas réussi à remplir les conditions énoncées dans la convention mentionnée en rubrique. La saturation du marché des véhicules d’occasion a nui à notre « stratégie fondée sur le concept de location ».
+Conformément à cette convention, j’ai donné instruction à notre avocat d’annuler les certificats d’actions qui vous ont été délivrés.
+[41] Cette lettre, écrite le 1er juin 2002, laisse entendre que ce n’est qu’à ce moment qu’on a jugé que 2485969 Nova Scotia Limited ne serait pas en mesure de respecter les conditions énoncées dans la convention du 30 juin 1999.
+[42] Dans une lettre qu’il adresse à Keith Marsh et à l’épouse de ce dernier le 31 décembre 2003, l’appelant s’exprime en ces termes :
+[traduction]
+La présente lettre vise à vous informer que, conformément à la condition prévue par notre entente verbale, notre groupe rachètera les actions de 2485969 Nova Scotia Limited que vous détenez.
+Le prix d’achat sera égal au coût initial de deux cent cinquante dollars (250 000 $).
+J’ai l’intention de procéder à ce rachat au plus tard le 31 décembre 2004.
+[43] À mon sens, K & K Marsh a simplement converti la somme que lui devait Gravel Ridge (250 000 $ après le boni d’intérêt) en actions de 2485969 Nova Scotia Limited, et l’appelant a personnellement garanti le rendement sur cette somme à K & K Marsh au cas où la société à dénomination numérique ne respecterait pas les conditions fixées. K & K Marsh avait besoin de 250 000 $ pour financer son obligation au titre de l’acquisition des actions de 2485969 Nova Scotia Limited. Comme les actions ont été achetées pour la somme de 1 $, les 250 000 $ doivent avoir fait partie du fonds de roulement nécessaire de cette société et avoir été versés à celle‑ci en tant qu’apport de capital au titre des actions ou d’un prêt aux actionnaires. Il semble que K & K Marsh ait rempli son obligation relative à la contribution des 250 000 $ par le transfert, à 2485969 Nova Scotia Limited, de la somme que Gravel Ridge devait lui payer. Gravel Ridge ne devait donc plus la somme de 250 000 $ à K & K Marsh, mais cette somme devenait alors exigible par 2485969 Nova Scotia Limited.
+[44] Il semble que telle est la conclusion logique à tirer des déclarations voulant que K & K Marsh ait été tenue de verser 250 000 $ à 2485969 Nova Scotia Limited (en vue de la réunion de capitaux d’un million de dollars), de la mention figurant dans la lettre susmentionnée du 31 décembre 2003 de l’appelant selon laquelle le coût des actions de 2485969 Nova Scotia Limited s’élève à 250 000 $, ainsi que des mentions par l’appelant et Keith Marsh du fait que K & K Marsh, pour financer cette obligation, avait utilisé la somme qui lui était payable par Gravel Ridge. Aucun élément de preuve n’indique si Gravel Ridge avait payé cette somme à 2485969 Nova Scotia Limited.
+[45] En conséquence, au moment où K & K Marsh a effectué son placement dans 2485969 Nova Scotia Limited, la dette de Gravel Ridge n’a pas été réduite; la somme était simplement payable à une personne différente (2485969 Nova Scotia Limited).
+[46] Rien ne permet de croire que Gravel Ridge avait également garanti le remboursement des 250 000 $ à K & K Marsh. Même si Gravel Ridge avait aussi garanti le remboursement de cette somme à K & K Marsh dans l’éventualité où le placement ne produirait pas les résultats prévus, la signature du billet à ordre du 31 mai 1999 par l’appelant ne peut justifier le crédit puisque l’appelant n’a fait aucun paiement au titre de cet effet de commerce. Si elle avait offert une telle garantie, Gravel Ridge serait vraisemblablement toujours responsable aux termes de celle‑ci puisque K & K Marsh n’a obtenu le remboursement d’aucune partie de ses 250 000 $.
+[47] La signature, par l’appelant, du billet à ordre du 31 mai 1999 (lequel, selon l’appelant, constituait en réalité une garantie) n’a donc pas eu pour effet de réduire sa dette envers Gravel Ridge et ne peut réduire la somme qui a été ajoutée à son revenu en application du paragraphe 15(2) de la Loi.
+[48] Le solde du crédit de 500 000 $ vise la société Sirah, laquelle a également placé des fonds dans 2485969 Nova Scotia Limited. Les faits relatifs à Sirah et ceux relatifs à K & K Marsh se distinguent par un seul élément : Sirah paraît avoir contribué une certaine somme en espèces (en sus de la somme qui lui était payable par Gravel Ridge).
+[49] L’appelant a produit un tableau montrant que Gravel Ridge devait 98 532,50 $ à Sirah en date du 30 mai 1999 par suite de trois contrats d’affermage de créances distincts. Deux de ces contrats ont été produits en preuve. Chaque contrat fait état de Gravel Ridge à titre de vendeur et de Sirah à titre d’acquéreur et prévoit que l’acquéreur achète les créances énumérées à l’annexe « A », mais aucune annexe « A » n’était jointe au document. Ces contrats précisaient en outre que le vendeur (Gravel Ridge) s’engageait à payer le prix d’achat initial majoré du rendement sur le placement à la date d’exigibilité. Le tableau suivant présente les sommes que Gravel Ridge devait à Sirah selon cette annexe :
+Date des contrats d’affermage de créances
+Prix d’achat (somme empruntée par Gravel Ridge)
+Intérêt
+Somme payable par Gravel Ridge le 30 mai 1999
+Intérêt annuel exprimé sous forme de pourcentage de la somme empruntée par Gravel Ridge
+Le 12 février 1999
+28 500,00 $
+5 082,50 $
+33 582,50 $
+61 %
+Le 8 mars 1999
+30 000,00 $
+4 150,00 $
+34 150,00 $
+61 %
+Le 19 mars 1999
+27 500,00 $
+3 300,00 $
+30 800,00 $
+61 %
+86 000,00 $
+12 532,50 $
+98 532,50 $
+[50] Lorsqu’il est exprimé sous forme d’intérêt annuel, le taux paraît élevé.
+[51] Gravel Ridge devait également la somme de 200 400 $ à 3027416 Nova Scotia Limited. L’un des actionnaires de cette société (qui détenait 50 pour 100 des actions de celle‑ci) détenait en outre les actions de Sirah et il a donné des instructions afin qu’une portion de 100 000 $ de la somme due à 3027416 Nova Scotia Limited soit utilisée pour financer une portion de 100 000 $ de la somme requise au titre du placement dans 2485969 Nova Scotia Limited.
+[52] Les sommes suivantes payables par Gravel Ridge ont donc servi au financement du placement de Sirah dans 2485969 Nova Scotia Limited :
+Somme payable à Sirah :
+98 532,50 $
+Somme payable à 3027416 Nova Scotia Limited :
+100 000,00 $
+198 532,50 $
+[53] La différence entre 250 000 $ et 198 532,50 $, soit 51 467,50 $, a été reglée par Sirah au moyen de deux chèques : l’un de 18 500 $ en date du 3 juin 1999 et l’autre de 32 967,50 $, soit le solde, en date du 4 juin 1999. Vraisemblablement, ces deux sommes ont été transférées à 2485969 Nova Scotia Limited puisque Sirah devait placer 250 000 $ dans cette société.
+[54] Comme pour K & K Marsh, les sommes payables par Gravel Ridge paraissent avoir servi aux financement (dans ce cas‑ci, en partie seulement) du placement de 250 000 $ que Sirah devait payer à 2485969 Nova Scotia Limited. Même si ce n’est pas tout à fait clair, il semble que Sirah et 3027416 Nova Scotia Limited aient simplement cédé à 2485969 Nova Scotia Limited leur droit collectif de recevoir la somme de 198 532,50 $ de Gravel Ridge. Cette somme serait alors payable par Gravel Ridge à 2485969 Nova Scotia Limited. Sirah a payé le placement nécessaire au moyen de la cession de ses créances (qui étaient payables par Gravel Ridge) en faisant en sorte que 3027416 Nova Scotia Limited cède ses propres créances (qui étaient payables par Gravel Ridge) à 2485969 Nova Scotia Limited et en contribuant le solde au moyen de deux chèques. Il semble que telle est la conclusion logique à tirer du témoignage de l’appelant.
+[55] En conséquence, la dette de Gravel Ridge n’a pas été éteinte puisqu’elle était dorénavant simplement payable à 2485969 Nova Scotia Limited, et Sirah détenait des actions de cette société. L’appelant avait simplement offert une garantie selon laquelle il paierait la somme de 250 000 $ à Sirah dans l’éventualité où le placement ne produirait pas le résultat prévu. Il a affirmé que les termes « billet à ordre » et « garantie » étaient interchangeables. La signature du billet à ordre par l’appelant le 31 mai 1999 n’a pas libéré Gravel Ridge de son obligation de payer 198 532,50 $ à 2485969 Nova Scotia Limited et ne justifie pas un crédit de 250 000 $ au titre du compte de prêt aux actionnaires.
+[56] Même si Gravel Ridge avait également garanti le remboursement de la somme de 250 000 $ à Sirah dans l’éventualité où le placement ne produirait pas les résultats prévus, la simple signature du billet à ordre ne justifie pas le crédit puisque l’appelant n’a fait aucun paiement au titre de ce billet. Si elle avait donné une telle garantie, Gravel Ridge serait alors vraisemblablement toujours responsable selon les modalités de la garantie puisque Sirah n’a obtenu aucun remboursement de ses 250 000 $.
+[57] Par conséquent, doit être rejetée la demande de crédit de 500 000 $ (soit deux crédits distincts de 250 000 $ chacun) de l’appelant au titre des billets à ordre de 250 000 $ chacun qu’il a signés en faveur de K & K Marsh et de Sirah le 31 mai 1999.
+L – Crédit de 150 000 $
+[58] L’appelant et son frère ont tous deux témoigné au sujet de ce crédit. L’appelant et Henry Rudolph (le frère de l’appelant) ont tous deux affirmé que celui-ci a vendu des actions de Town Delivery Services à 3028683 Nova Scotia Limited pour une somme de 400 000 $, qui a été réglée de la façon suivante :
+Payé à Henry Rudolph par chèques :
+204 000 $
+Payé à 2485969 Nova Scotia Limited comme honoraires pour les services de conseil :
+46 000 $
+Solde payable à Henry Rudolph :
+150 000 $
+[59] Selon l’appelant, Henry Rudolph lui a fait don de ce solde impayé de 150 000 $ et il a à son tour cédé ce droit de recevoir 150 000 $ à Gravel Ridge (laquelle a utilisé cette créance pour acquérir des actions de 3028683 Nova Scotia Limited – soit la société qui a acheté les actions de Town Delivery Services de Henry Rudolph). Le frère de l’appelant a confirmé à plusieurs reprises qu’il faisait don de la somme à son frère, mais il a également fait la déclaration suivante :
+[traduction]
+LE TÉMOIN : Conditions. Avec un peu de chance, un jour, je le suppose, la somme allait être remboursée.
+[…]
+Q. Entendu. Et vous avez mentionné, dans votre témoignage, que vous vous attendez à être remboursé de cette somme de cent cinquante mille dollars (150 000 $)?
+R. Un jour, lorsqu’il sera en mesure de le faire, je suis sûr qu’il le fera.
+Q. Et, à l’heure actuelle, a‑t‑il fait un quelconque paiement au titre de la somme de cent cinquante mille dollars (150 000 $)?
+R. Non.
+[60] Ces réponses donnent à penser qu’il s’agissait peut‑être d’un prêt et non d’un don. Toutefois, le fait que Henry Rudolph ait prêté ce bien à l’appelant ou le lui ait donné ne change rien aux fins du présent appel. De toute manière, il semble que ce bien (soit le droit de recevoir la somme de 150 000 $ de 3028683 Nova Scotia Limited) a été transféré de Henry Rudolph à l’appelant. Selon la thèse de l’intimée, comme aucune somme en espèces n’a changé de mains, il ne pouvait y avoir de don ou de transfert. Cependant, il me semble qu’une personne peut faire don de n’importe quel bien, ce qui englobe le droit de recevoir un paiement.
+[61] Dans l’arrêt Hickman Motors Ltd. c. Sa Majesté la Reine, [1997] A.C.S. no 62, [1997] 2 R.C.S. 336, la juge L’Heureux‑Dubé de la Cour suprême du Canada a fait les observations suivantes au sujet du fardeau qui incombe à l’appelant de « démolir » les présomptions formulées par le ministre :
+92 Il est bien établi en droit que, dans le domaine de la fiscalité, la norme de preuve est la prépondérance des probabilités : Dobieco Ltd. c. Minister of National Revenue, [1966] R.C.S. 95, et que, à l’intérieur de cette norme, différents degrés de preuve peuvent être exigés, selon le sujet en cause, pour que soit acquittée la charge de la preuve : Continental Insurance Co. c. Dalton Cartage Co., [1982] 1 R.C.S. 164; Pallan c. M.R.N., 90 D.T.C. 1102 (C.C.I.), à la p. 1106. En établissant des cotisations, le ministre se fonde sur des présomptions: (Bayridge Estates Ltd. c. M.N.R., 59 D.T.C. 1098 (C. de l’É.), à la p. 1101), et la charge initiale de « démolir » les présomptions formulées par le ministre dans sa cotisation est imposée au contribuable (Johnston c. Minister of National Revenue, [1948] R.C.S. 486; Kennedy c. M.R.N., 73 D.T.C. 5359 (C.A.F.), à la p. 5361). Le fardeau initial consiste seulement à « démolir » les présomptions exactes qu’a utilisées le ministre, mais rien de plus : First Fund Genesis Corp. c. La Reine, 90 D.T.C. 6337 (C.F. 1re inst.), à la p. 6340.
+93 L’appelant s’acquitte de cette charge initiale de « démolir » l’exactitude des présomptions du ministre lorsqu’il présente au moins une preuve prima facie : Kamin c. M.R.N., 93 D.T.C. 62 (C.C.I.); Goodwin c. M.R.N., 82 D.T.C. 1679 (C.R.I.). En l’espèce, l’appelante a produit une preuve qui respecte non seulement la norme prima facie, mais, selon moi, une norme encore plus sévère. À mon avis, l’appelante a « démoli » les présomptions suivantes : a) la présomption de l’existence de « deux entreprises », en produisant une preuve claire de l’existence d’une seule entreprise; b) la présomption qu’il n’y a « aucun revenu », en produisant une preuve claire de l’existence d’un revenu. Il est établi en droit qu’une preuve non contestée ni contredite « démolit » les présomptions du ministre : voir par exemple MacIsaac c. M.R.N., 74 D.T.C. 6380 (C.A.F.), à la p. 6381; Zink c. M.R.N., 87 D.T.C. 652 (C.C.I.). Comme je l’ai déjà dit, aucune partie de la preuve produite par l’appelante en l’espèce n’a été contestée ni contredite. Par conséquent, à mon avis, l’appelante a « démoli » les présomptions sur l’existence de « deux entreprises » et sur le fait qu’il n’y a « aucun revenu ».
+94 Lorsque l’appelant a « démoli » les présomptions du ministre, le « fardeau de la preuve [. . .] passe [. . .] au ministre qui doit réfuter la preuve prima facie » faite par l’appelant et prouver les présomptions : Magilb Development Corp. c. La Reine, 87 D.T.C. 5012 (C.F. 1re inst.), à la p. 5018. Ainsi, dans la présente affaire, la charge est passée au ministre, qui doit prouver ses présomptions suivant lesquelles il existe « deux entreprises » et il n’y a « aucun revenu ».
+95 Lorsque le fardeau est passé au ministre et que celui-ci ne produit absolument aucune preuve, le contribuable est fondé à obtenir gain de cause : voir par exemple MacIsaac, précité, où la Cour d’appel fédérale a infirmé le jugement de la Division de première instance (à la p. 6381) pour le motif que le « témoignage n’a été ni contesté ni contredit, et aucune objection ne lui a été opposée ». Voir aussi Waxstein c. M.R.N., 80 D.T.C. 1348 (C.R.I.); Roselawn Investments Ltd. c. M.R.N., 80 D.T.C. 1271 (C.R.I.). Se reporter également à Zink, précité, à la p. 653, où, même si la preuve « échappait à la logique et présentait de graves lacunes de fond et de chronologie », l’appel du contribuable a été accueilli parce que le ministre n’a présenté aucune preuve quant à la source de revenu. Dans la présente affaire, je remarque que la preuve ne contient aucune « lacune » de ce genre. Par conséquent, puisque le ministre n’a produit absolument aucune preuve et que personne n’a soulevé le moindre doute quant à la crédibilité, l’appelante est fondée à obtenir gain de cause.
+96 Dans la présente affaire, sans qu’aucune preuve ne leur ait été présentée, le juge de première instance et la Cour d’appel ont tous deux voulu transformer les présomptions non fondées et non vérifiées en « conclusions de fait », commettant ainsi des erreurs de droit sur la charge de la preuve. Mon collègue le juge Iacobucci exerce de la retenue à l’égard de ces soi‑disant « conclusions concordantes » des cours d’instance inférieure, mais, bien que je sois tout à fait d’accord de façon générale avec le principe de retenue judiciaire, dans la présente affaire, deux décisions incorrectes ne sauraient en faire une bonne. Même si nous sommes en présence de « conclusions concordantes », la preuve non contestée et non contredite réfute positivement les présomptions du ministre : MacIsaac, précité. Comme le juge Rip de la Cour canadienne de l’impôt l’a noté dans Gelber c. M.R.N., 91 D.T.C. 1030, à la p. 1033, « [le ministre] n’est pas l’arbitre de ce qui est fondé ou non en matière de droit fiscal ». Le juge Brulé de la Cour canadienne de l’impôt dans Kamin, précité, a observé à la p. 64 :
+[…] le ministre devrait pouvoir réfuter cette preuve [prima facie] et présenter des arguments à l’appui de ses présomptions.
+[…]
+Le ministre n’a pas carte blanche pour établir les présomptions qui lui conviennent. À l’interrogatoire principal, on s’attend qu’il puisse produire des preuves plus concrètes que de simples présomptions pour réfuter les arguments de l’appelant. [Les soulignements ont été ajoutés par la juge L’Heureux Dubé.]
+[62] À la suite du témoignage de l’appelant et de son frère se rapportant au don ou au transfert de la créance de 150 000 $ par Henry Rudolph à l’appelant, puis à Gravel Ridge, puis à 3028683 Nova Scotia Limited, en contrepartie d’actions, l’intimée n’a produit qu’un seul élément de preuve, à savoir que le vérificateur n’a pas accepté ce crédit parce que la somme de 150 000 $ n’a pas été payée en espèces. Dans son témoignage, le vérificateur de l’ARC a donné les réponses suivantes :
+[traduction]
+R. 302 – laissez‑moi vérifier si j’ai le bon numéro – 3028683 Nova Scotia Limited devait être l’acquéreur des actions de l’entreprise de camionnage de Henry Rudolph que ce dernier détenait à titre personnel.
+Selon l’entente, ces actions valaient quatre cent mille dollars (400 000 $), 3028683 devrait prendre les dispositions pour que des produits ou des espèces soient déposés dans son compte bancaire afin de couvrir le paiement de la somme de deux cent quatre mille à Henry Rudolph et de la somme de quarante‑six mille à 248 concernant – la société 248 concernant de quelconques honoraires liés à l’entente.
+Et cent cinquante mille de ces produits devaient demeurer dans le compte bancaire de 3028683 à la demande de Henry Rudolph, et cette entente avait été conclue – parce que certains autres actionnaires de 3028683 refusaient d’investir dans cette entreprise de camionnage à moins que Gravel Ridge Investments n’y place de l’argent et assume le risque elle aussi.
+Donc, dans le cadre de cette entente, il a été convenu que Henry laisserait cent cinquante mille dans l’entreprise à cette fin, mais il – la somme de cent cinquante mille devait faire l’objet d’un don en faveur de Doug personnellement en premier lieu afin qu’il puisse obtenir le crédit pour lequel la somme était versée – de manière à permettre à Gravel Ridge Investments d’acheter pour cent cinquante mille d’actions non émises de 3028683 et ainsi respecter l’entente intervenue avec ces autres parties.
+Q. Entendu. Donc, c’est ainsi que vous avez compris la situation. Que vouliez‑vous voir pour vérifier que M. Rudolph avait droit à ce crédit de cent cinquante mille dollars (150 000 $)?
+R. Pour confirmer cette entente, il me faudrait les relevés bancaires de 3028683 Limited pour confirmer que quatre cent mille dollars (400 000 $) se trouvaient dans son compte bancaire à la date de l’opération et que – de sorte que deux cent cinquante mille seraient versés à titre de paiement à Henry Rudolph et que 248, la société 248, et que cent cinquante mille demeuraient dans le compte bancaire de 3028683 pour couvrir le – pour mener à terme le processus de don qui – je le répète, le don fait à Doug qui, en réalité, est fait par ce dernier à Gravel Ridge Investments pour lui permettre d’acquérir des actions de cette société afin de remplir cette obligation.
+Cela – je vais vous présenter la situation de la façon suivante. Cela paraît plus simple que d’émettre une série de chèques. Le produit de cent cinquante mille aurait pu être payé à Henry Rudolph, lequel aurait pu émettre un chèque à l’ordre de Doug Rudolph, Doug Rudolph aurait pu émettre un chèque à l’ordre de Gravel Ridge Investments et Gravel Ridge Investments aurait pu émettre un chèque à l’ordre de 3028683 pour lui permettre d’acquérir pour cent cinquante mille dollars de ces actions non émises, mais on pouvait ainsi tout simplifier, si vous me suivez.
+Q. Bien. Entendu. Donc, pourquoi – peut‑être pouvez‑vous, à partir de ce que vous venez de dire, nous informer de la raison pour laquelle vous aviez besoin de voir la somme de quatre cent mille dollars (400 000 $) dans le –
+R. Afin de –
+Q. – la société 302.
+R. Pardon. Pour vérifier que les opérations correspondent bien à ce qu’ils avancent, il doit y avoir pour quatre cent mille dollars (400 000 $) de ce produit dans 3028683, donc – et deux cent cinquante mille dollars doivent avoir été payés non pas à Doug à titre personnel, mais pour mener à terme le processus de don, il devait rester une somme de cent cinquante mille dans le compte bancaire de 3028683 à ce moment.
+[63] Le droit de Henry Rudolph de recevoir 150 000 $ de 3028683 Nova Scotia Limited est un bien susceptible de faire l’objet d’un don. Ce droit de recevoir cette somme pouvait être donné (ou prêté), que 3028683 Nova Scotia Limited ait 150 000 $ sous forme d’espèces ou d’autres éléments d’actif. L’intimée n’a pas contesté l’évaluation de ce droit et, lorsque l’appelant a présenté une preuve à cet égard, l’intimée ne l’a pas réfutée. L’intimée a plutôt affirmé que le don pouvait uniquement avoir lieu si 3028683 Nova Scotia Limited disposait de 150 000 $ en espèces. C’est le droit de recevoir un paiement de 150 000 $ qui a fait l’objet d’un don, non la somme en espèces. Par conséquent, la thèse de l’appelant en ce qui concerne ce crédit de 150 000 $ doit être retenue.
+N – Crédit de 10 000 $
+[64] L’appelant a offert deux explications différentes pour justifier ce crédit – l’une pendant les interrogatoires préalables et l’autre à l’audience. Au cours de l’interrogatoire préalable, l’appelant a donné les réponses suivantes :
+[traduction]
+Q. L’élément suivant est l’élément N.
+R. Oui.
+Q. Et il s’agit d’une somme de 10 000 $?
+R. Exact. Ouais, et malheureusement, ce que je mentionnais au sujet de – au sujet du moment choisi, cette – cette société était le club de placement, et l’un des paiements que nous avions faits à l’homme au Nouveau‑Brunswick aurait été fait par moi‑même à titre personnel, et cela aurait juste constitué un remboursement de ces fonds. Donc, ce que j’ai fait pour l’essentiel, comme je l’ai précisé dans l’explication, au lieu de faire en sorte que la société émette un chèque à mon ordre, puis que j’émette à mon tour un chèque à l’ordre de Gravel Ridge, je leur ai simplement demandé d’émettre le chèque à l’ordre de Gravel Ridge, et j’ai simplement augmenté mon prêt – donc, les espèces ont fait l’objet d’un débit et le compte de prêt à l’actionnaire a fait l’objet d’un crédit. Et souvenez‑vous, John, qu’après tout cela...
+[…]
+Q. Maintenant, en ce qui concerne les tiers dont vous avez fait mention, il s’agit des gens de la carrière au Nouveau‑Brunswick. Est‑ce à eux que vous faisiez allusion?
+R. Eh bien – oh, ouais, je voulais dire le club de placement qui, lorsque nous nous sommes rendus – j’ai personnellement déboursé une partie de l’argent qui a été payé à ces gens. Cette somme a donc simplement été remboursée.
+[…]
+R. Ouais, les 10 000 $. Ils faisaient juste partie du dépôt de 35 111 $.
+Q. Sur le relevé bancaire ici, ouais.
+[…]
+R. Il s’agit d’argent qui a – avec le club de placement, avec ce marché tel qu’il était structuré, j’aurais donné à ces gens une partie de mon propre argent. Il s’agissait donc simplement du club de placement qui me remboursait ces 10 000 $, et au lieu qu’eux émettent un chèque à mon ordre puis que j’émette à mon tour un chèque à l’ordre de Gravel Ridge, je leur ai simplement demandé d’émettre le chèque à l’ordre de Gravel Ridge afin de rembourser les fonds qui m’étaient dus.
+[65] À l’audience, il s’est exprimé en ces termes :
+[traduction]
+M. RUDOLPH : Merci. Puis-je vous demander, M. le juge, de retourner à l’onglet 7 du recueil I de l’intimée, s’il vous plaît. Nous sommes à la page 3. Et à peu près au quart de la page se trouve le 28 octobre 1999.
+On mentionne 3028683 Objet : Jen., Chèque 5, J294, et il y a un crédit de dix mille dollars. Donc, il s’agit de l’élément en cause que j’ai ajouté à mon compte de prêt à l’actionnaire.
+Ce qui se passait à l’époque, M. le juge, c’est que 3028683 Nova Scotia Limited était en voie de prendre une participation dans une clinique de physiothérapie que Jennifer Williamson mettait sur pied. Et comme je connaissais Mme Williamson depuis long temps et que j’avais des liens étroits avec toutes les parties, ce que Gravel Ridge a fait, M. le juge, si nous retournons à la page précédente et que nous allons au bas de la page, à la troisième ligne à partir de la fin, figure la date du 20 août 1999.
+Et il est écrit « Avance, Jennifer Williamson, chèque 288, Journal 240 » et la somme de cinq mille dollars.
+[…]
+M. RUDOLPH : Entendu. Donc, M. le juge, il s’agit de cinq mille dollars que Gravel Ridge a payés à Mme Williamson dans le cadre de la participation prise dans la clinique de physiothérapie pour le compte de 3028683. Et, si vous tournez la page, M. le juge, à la page 3 –
+LE JUGE : Entendu, ils achetaient pour le compte de 302, pourquoi y avait‑il un débit à votre compte de prêt à l’actionnaire?
+M. RUDOLPH : À ce moment, M. le juge, 302 n’avait probablement pas la somme nécessaire dans le compte. Donc, Gravel Ridge, pour le compte de 302, a fait la première avance à Mme Williamson.
+Ou, à ce moment, M. le juge, il s’agissait peut‑être d’un marché que Gravel Ridge – que j’allais personnellement conclure. Et puis, lorsque j’ai parlé aux autres membres de 3028683, il se peut qu’ils aient tous décidé qu’ils voulaient participer à l’affaire.
+Donc, c’est 302, et non Doug Rudolph à titre personnel, qui, dans les faits, prendrait la participation. Et, M. le juge, je présente mes excuses à la Cour mais, après dix ans, je ne suis plus certain de savoir laquelle de ces réponses est la bonne. Donc, à nouveau, M. le juge, à la page 2, au bas de – désolé M. le juge, au bas de la page 2 de l’onglet 7 du recueil I de l’intimée, trois lignes à partir du bas, se trouve l’avance de cinq mille dollars faite à Jennifer Williamson.
+Et, je le répète, il s’agissait – même s’il a été émis par Gravel Ridge Investments, le chèque a été porté au débit du compte de prêt à l’actionnaire. Il n’a jamais été considéré comme une dépense de la société ou comme un actif de la société Gravel Ridge Investments.
+La somme a été portée au débit de mon compte de prêt à l’actionnaire comme si Doug Rudolph avait touché l’argent. Et puis, M. le juge, si nous tournons la page et nous prenons la page 3 et si nous regardons le cinquième élément, nous voyons une écriture du 27 septembre 1999. Le 2 septembre 99, Jennifer Williamson, chèque 304, J268, un autre débit de cinq mille dollars porté à mon compte de prêt à l’actionnaire.
+Ainsi, Mme Williamson a reçu dix mille dollars de Gravel Ridge Investments, mais les dix mille dollars proviennent – désolé, les dix mille dollars de Gravel Ridge Investments ont été portés au débit de mon compte de prêt à l’actionnaire.
+Et, M. le juge, si nous allons seulement dix ou onze éléments plus loin et nous retournons au 28 octobre, 3028683 Objet : Jen, chèque 5, 294, dix mille dollars, soit la pièce A‑10 que vous avez devant vous. Il s’agit de 3028683 qui rembourse ce dix mille dollars.
+Toutefois, comme les débits ont été portés à mon compte de prêt à l’actionnaire et que j’aurais demandé à la société d’émettre le chèque – désolé, j’aurais demandé à 3028683 Nova Scotia Limited d’émettre le chèque à l’ordre de Gravel Ridge, ce que j’avance, M. le juge, c’est que, comme les deux débits proviennent de mon compte de prêt à l’actionnaire, le crédit de dix mille dollars devrait également être porté à mon compte de prêt à l’actionnaire.
+Monsieur le juge, je n’ai rien à ajouter sur ce point.
+[66] Le fondement commun aux deux explications tient au fait que les 10 000 $ constituaient un remboursement auquel l’appelant avait droit. Le double du chèque de 10 000 $ tiré par 3028683 Nova Scotia Limited en faveur de Gravel Ridge a été produit en preuve.
+[67] Comme l’écriture de journal en cause porte la mention [traduction] « 3028683 Objet : Jen », il paraît vraisemblable que les 10 000 $ avaient un lien avec le marché que l’on se proposait de conclure avec Jennifer Williamson. Le crédit était peu élevé au regard de la somme incluse dans le revenu de l’appelant (moins de 1 pour 100 des 1 104 427 $ qui ont été ajoutés au revenu de l’appelant) et, compte tenu du nombre de marchés que l’appelant avait en cours, il semble qu’il aurait aisément pu se tromper lors de l’interrogatoire préalable.
+[68] Je retiens l’explication que l’appelant a donnée à l’audience et je lui accorderai à ce crédit de 10 000 $ en réduction de la somme payable par l’appelant à Gravel Ridge. Il semble que 3028683 Nova Scotia Limited remboursait la somme de 10 000 $ qui avait été portée au débit de son compte de prêt aux actionnaires (et, on le suppose, qui aurait dû être portée au débit d’un compte de prêt de cette société).
+P – Crédit de 80 300 $
+[69] À l’appui de son témoignage selon lequel Norman et Jan Bayers ont avancé 118 000 $ à Gravel Ridge le 12 juillet 1999, l’appelant a produit un contrat d’affermage de créances non signé ainsi que des relevés bancaires dont une grande partie des éléments ont été biffés. Je conclus que Gravel Ridge a bel et bien emprunté 118 000 $ à Norman et Jan Bayers en 1999. Selon les précisions données par l’appelant au sujet du crédit de 80 300 $, Norman et Jan Bayers s’étaient engagés à rembourser à l’appelant la somme de 80 300 $ au titre de dépenses que ce dernier avait engagées dans le cadre du projet de carrière au Nouveau‑Brunswick. L’appelant a notamment fourni les explications suivantes :
+[traduction]
+[…]
+Nous avions conclu qu’ils étaient très intéressés par le projet de carrière. Je les ai rencontrés à plusieurs occasions et je leur ai expliqué tout ce qui devait être fait et en quoi consistait le plan. Et ils ont reconnu qu’ils souhaitaient participer à cette entreprise que je poursuivais à titre personnel.
+Les membres de 3028683 Nova Scotia Limited participaient à l’entreprise. Il y avait une autre société, M. le juge, je pense que c’était 3028051 Nova Scotia Limited. Certains membres de ma famille y participaient, certains de mes amis aussi. Un grand nombre de personnes étaient extrêmement intéressées par ce projet.
+Je vais donc vous renvoyer, M. le juge, à la page 3 du recueil I de l’intimée, où nous venions juste de parler de Kingsway Materials, si vous continuez un peu plus loin, M. le juge, vous verrez une écriture datée du 7 avril 2000 visant à corriger la note d’ajustement J92, ainsi que la somme de quatre vingt mille trois cents dollars.
+Ce qui a été convenu entre moi et Norman et Jan Bayers était très simple. Les quatre vingt mille trois cents dollars que Gravel Ridge Investments leur devait seraient supprimés des livres de cette dernière de sorte qu’ils ne soient plus exigibles et que Gravel Ridge Investments ne soit plus endettée de cette somme envers eux.
+Quatre vingt mille trois cents dollars ont été portés au crédit du compte de prêt à l’actionnaire et M. et Mme Bayers participaient dorénavant à cette entreprise, sorte de partenariat, M. le juge, qui réunissait un grand nombre de personnes chez lesquelles il suscitait beaucoup d’intérêt.
+[70] Cependant, il n’y a aucun document signé par Norman et Jan Bayers confirmant que 80 300 $ de la somme qui leur était due par Gravel Ridge devaient être transférés à l’appelant, et ni Norman ni Jan Bayers n’ont témoigné au cours de l’audience. Il semble que le contrat d’affermage de créances initial ait été constaté par écrit. Alors, pourquoi la cession d’une somme payable n’aurait‑elle pas aussi été couchée par écrit? Il me semble que les autres actionnaires de Gravel Ridge voudraient savoir que Gravel Ridge ne devait plus les 80 300 $ à Norman et à Jan Bayers. L’appelant a affirmé qu’il concluait de nombreuses affaires par une poignée de main, y compris le marché susmentionné intervenu avec Norman et Jan Bayers. Si une dette d’un montant appréciable (80 300 $) est transférée d’un créancier de Gravel Ridge à un autre créancier de la société, il me semble qu’il aurait été très important d’entendre ce que la personne transférant la dette avait à dire. En l’absence du témoignage de Norman ou de Jan Bayers ou d’un quelconque document écrit de leur part, la thèse de l’appelant quant à cette demande de crédit ne peut être retennue. L’écriture de journal ne permet pas d’établir la réalité du transfert de la dette.
+Q - Crédit de 7 500 $
+[71] Selon l’appelant, ce crédit concerne un paiement de 7 500 $ qu’il a personnellement versé à Avon Bayers à titre de paiement partiel de la somme que Gravel Ridge devait à cette entreprise. Le double du chèque personnel de 7 500 $ émis par l’appelant à l’ordre d’Avon Bayers a été produit en preuve. L’appelant s’est acquitté du fardeau de la preuve en ce qui touche cette demande de crédit, et le crédit de 7 500 $ devra donc être pris en compte dans le calcul de la somme qu’il doit payer à Gravel Ridge.
+Observations supplémentaires relatives à un crédit de 250 000 $
+[72] L’appelant a avancé un argument supplémentaire concernant un crédit de 250 000 $ qui a été refusé. Bien que ce point n’ait pas été soulevé par l’appelant dans sa lettre du 31 janvier 2006, on peut toutefois lire ce qui suit vers la fin de ce document :
+[traduction]
+Les documents justificatifs consistent en des dépôts de l’actionnaire totalisant 1 236 780,07 $. Il y a plus toutefois, cette somme est supérieure à la somme ajoutée à mon revenu personnel pour 1999.
+[73] L’avis d’appel produit par l’appelant est bref. La partie de l’avis portant sur la question des montants des prêts à l’actionnaire inclus dans le revenu est ainsi rédigée :
+[traduction]
+Le vérificateur a affirmé que j’avais obtenu un prêt de 1 104 427 $ ou contracté une dette de ce montant auprès d’une personne morale et que cette somme devait être ajoutée à mon revenu pour 1999. Cette somme consiste en des fonds que j’ai moi‑même déposés dans le compte. Les fonds ont été déposés dans le compte de l’entreprise, puis retirés, au besoin. La société n’a pas suffisamment généré de revenu ou augmenté sa dette pour étayer les conclusions du vérificateur. Dans ses calculs, celui-ci a ajouté les retraits du compte bancaire, mais il a omis d’inclure la plupart des dépôts effectués. J’ai fourni l’original de tous les documents, mais la décision a été confirmée. Aucun renseignement ne permettait d’établir que les sommes étaient autre chose que les sommes déposées et retirées, et la décision a néanmoins été confirmée.
+Je soutiens respectueusement qu’aucune somme ne doit être ajoutée à mon revenu pour 1999 puisque les documents qui étayent mes dépôts – documents dont le vérificateur n’a pas tenu compte – visent une somme supérieure à celle utilisée par le vérificateur.
+[74] Il ressort sans équivoque de la preuve produite à l’audience que la question en litige dans le présent appel découle du refus relatif aux crédits demandés au titre du compte de prêt aux actionnaires et que les crédits en cause ne se rapportent pas tous aux dépôts effectués par l’appelant. Il est en outre manifeste que l’intimée ne s’est pas opposée à ce que l’appelant soulève à la question des crédits qui n’avaient pas de lien avec des dépôts qui ont été effectués. L’intimée n’a pas nié que ce crédit de 250 000 $ avait été refusé. La seule opposition formulée par l’intimée touche au fait que l’appelant a soulevé cette question tardivement.
+[75] Dans leur ouvrage intitulé The Law of Civil Procedure, les auteurs Williston et Rolls s’expriment en ces termes à la page 638 :
+[traduction]
+Une partie est liée par ses actes de procédure, et sa preuve doit se limiter aux questions soulevées dans ces documents. Si elle ne soulève pas une question dans les actes de procédure, cela peut exclure l’examen de celle-ci en première instance ou en appel.
+[76] À la page 366 de Canadian Civil Procedure Law, les auteurs Abrams et McGuiness fait les observations suivantes à ce sujet :
+[traduction]
+5.10 La jurisprudence de tout le Commonwealth est assez uniforme quant au rôle des actes de procédure et des limites qu’ils imposent en matière de recours. Comme cela est mentionné plus haut, les actes de procédure ont généralement pour objet de définir les questions en litige, d’informer la partie adverse des thèse qui lui est opposée, de renseigner le tribunal sur les questions en litige, de fixer le dossier sur les questions soulevées et de préciser la portée de la communication préalable.
+[77] Selon l’avis d’appel produit par l’appelant, la question touche au défaut du vérificateur de l’ARC [traduction] « d’inclure la plupart des dépôts effectués ». Comme il a été signalé, même si l’appelant a employé le terme [traduction] « dépôts », il ne fait aucun doute que la question intéresse l’omission, par le vérificateur de l’ARC, d’inclure les crédits dans le compte de prêt aux actionnaires, crédits qui ne se rapportaient pas tous à des dépôts effectués par l’appelant. L’intimée doit savoir que ce crédit faisait partie de ceux qui ont été refusés.
+[78] L’appelant peut donc soulever la question de ce crédit supplémentaire.
+[79] À l’audience, l’appelant a produit en preuve un courriel qu’il a reçu le 22 juin 2009 (après le début de l’audience) de Grant Veroba. L’adresse électronique, l’objet du courriel de M. Veroba et la désignation de la pièce jointe à celui‑ci avaient tous été supprimés.
+[80] Je suis d’avis qu’aucun poids ne peut être accordé à ce courriel. La plupart des observations qui y sont formulées ont trait à la garantie personnelle offerte par l’appelant. Or, la garantie personnelle fournie par ce dernier à la société de Grant Veroba ne se rapportait à aucun des crédits qui sont en cause et au sujet desquels l’appelant a produit des éléments de preuve ou des observations. Il faudrait que les assertions relatives à l’achat d’actions de 2485969 Nova Scotia Limited formulées dans le courriel fassent l’objet d’un contre‑interrogatoire avant qu’on puisse leur donner une quelconque valeur probante. Il est fait mention d’un contrat d’achat d’actions et d’un prix d’achat de 250 000 $ mais, selon la seule entente reçue en preuve, le prix d’achat des actions était de 1 $. La suppression de l’adresse électronique n’aide en rien l’appelant. En conséquence, aucun poids ne sera accordé à ce courriel.
+[81] L’appelant a pour thèse que le crédit de 250 000 $ a été ajusté (corrigé) au moyen d’une somme de 249 975 $ subséquemment portée au débit du compte de prêt aux actionnaires. La première écriture (J130 – qui a donné lieu à un crédit au compte de prêt aux actionnaires) date du 30 mai 1999 et fait état d’un débit de 250 000 $ aux comptes débiteurs et d’un crédit de la même somme [traduction] « exigible par l’actionnaire ». On ajoute les précisions suivantes : [traduction] « Action ? Nova Scotia Limited ». L’appelant a affirmé que « ? Nova Scotia Limited » signifiait 2485969 Nova Scotia Limited et qu’au moment de faire cette écriture, il savait qu’il s’agissait d’une société à dénomination numérique, mais il en ignorait la dénomination.
+[82] La seconde écriture (J338) date du 30 juin 1999 et concerne un débit au titre de placements de 25 $, un débit [traduction] « exigible par l’actionnaire » de 249 975 $ et un crédit au titre d’un placement de 250 000 $. Il est précisé dans l’écriture que celle‑ci vise [traduction] « à consigner la vente d’actions de 2485969 Nova Scotia Limited ».
+[83] L’appelant a fourni les explications suivantes au sujet de ces deux écritures :
+[traduction]
+M. RUDOLPH : Gravel Ridge était la débitrice de ces trois sociétés. Comme nous – comme je l’ai déclaré explicitement dans mon témoignage relatif à Sirah et à K&K Marsh Consultants, le chiffre était deux cent cinquante mille dollars pour cette opération. Également débitrice de M. Veroba.
+Monsieur Veroba allait acheter des actions – ou, pardon, la société 3030267 de M. Veroba a en réalité acheté ses actions de Gravel Ridge. M. Marsh et M. Sweetman ont acheté des actions d’un tiers.
+Donc, si vous regardez – si nous retournons à la page 3 de cet onglet 7 – pardon, page 2 du recueil I de l’intimée, les trois sommes de deux cent cinquante mille ont été consignées afin que chacun soit traité de la même façon. Les garanties, le marché, les actions, tout allait très bien.
+Et je suppose, M. le juge, parce que l’écriture relative à l’ajustement date du 30 et qu’il s’agit de la date à laquelle l’avocat a procédé à l’émission des actions, je suppose qu’on m’a – on m’a peut‑être rappelé ou j’ai peut‑être oublié ou j’ai fait une erreur dans cette écriture voulant que la société 3030267 de M. Veroba achète en réalité les actions de Gravel Ridge Investments.
+Cela voulait dire, M. le juge, que Gravel Ridge devait, dans les faits, montrer le revenu, le produit de la vente de ces actions. Ainsi, ce sur quoi nous nous penchons et, hier, nous avons parlé de la pièce A‑2, que vous avez toujours, M. le juge, avez‑vous toujours cette pièce quelque part?
+LE JUGE : J’ai la pièce A-2, oui.
+M. RUDOLPH : Alors, dans la pièce A-2, les deux écritures de journal en question, le journal 130 et le journal 338, il ne s’agissait pas d’une annulation. Il s’agissait d’une correction. Il importait de bien refléter la situation dans les comptes de la société.
+Et la situation était la suivante : Gravel Ridge avait en réalité vendu les actions et Gravel Ridge, vous remarquerez, M. le juge, la seconde écriture J338, vous allez voir placement mille deux cent quatre‑vingt‑quatorze, deux mille quarante exigible par l’actionnaire, et placement quatre mille quarante.
+Ce compte quatre mille quarante est un compte de produit. Ainsi, l’opération faisait l’objet d’une correction afin de refléter avec exactitude le produit de deux cent cinquante mille dollars tiré de la vente des actions. En raison de cette correction, il fallait traiter la garantie relative à M. Veroba d’une façon quelque peu différente puisque Gravel Ridge Investments ne devait alors pas tout à fait deux cent cinquante mille dollars à M. Veroba ou à la société de ce dernier, 3030267 Nova Scotia Limited.
+Et il n’était que l’une des parties – ou, pardon, M. le juge – 3030267 était la seule partie qui achetait les actions de 2485969 Nova Scotia Limited de –
+[…]
+3030267 a en réalité acheté ses actions de Gravel Ridge Investments tandis que K&K Marsh et Sirah avaient acheté les leurs d’un tiers. Donc, le marché conclu avec 3030267 est simplement un peu différent.
+Ainsi, je ne faisais qu’apporter des corrections afin de refléter avec exactitude ce qui s’était réellement passé. Et ce qui s’est passé, c’est que 3030267 a acheté les actions de Gravel Ridge, qui devait en assumer le revenu.
+Ils détenaient donc effectivement les actions – pardon, Gravel Ridge Investments détenait les actions de 2485969, les a vendues à la société de M. Veroba, 30302 – désolé, M. le juge, je vous demande d’être patient. C’est 30302 – pardon, M. le juge, 3030267 Nova Scotia Limited.
+Ainsi, afin de refléter avec exactitude le crédit de deux cent cinquante mille, il fallait ramener le compte de prêt à l’actionnaire à deux cent quarante‑neuf mille neuf cent soixante‑quinze, M. le juge, et la raison pour laquelle il y a uniquement eu un ajustement et qu’on a laissé vingt‑cinq dollars tient au fait que Gravel Ridge devait montrer dans les livres que les vingt‑cinq actions qu’elle vendait à 3030267 avaient réellement une certaine valeur et, à ce moment, on n’attribue habituellement aux actions qu’une valeur nominale d’un dollar parce qu’il ne s’agit pas d’actions ordinaires ayant une valeur nominale.
+Alors, j’ai porté au débit du compte de prêt à l’actionnaire la somme de deux cent quarante‑neuf mille neuf cent soixante‑quinze. Et j’ai laissé les vingt‑cinq dollars dans le compte de placement afin de montrer que Gravel Ridge a, à un moment donné, acheté les actions.
+Donc, dans la pièce A‑2, M. le juge, au bas, tout ce que j’ai fait c’est de les mettre ensemble et de montrer la situation réelle dans les livres de la société, soit que la société de M. Veroba, 3030267, devait à Gravel Ridge Investments la somme de deux cent cinquante mille dollars au titre de l’achat des actions.
+Selon Gravel Ridge, le prix d’achat initial d’une action était de vingt‑cinq dollars parce qu’évidemment, tout le travail et le peaufinage du concept et toutes les autres stratégies que Gravel Ridge avait élaborées, le crédit net au compte de prêt à l’actionnaire est maintenant de vingt cinq dollars et la société devait consigner quatre – pardon, la société devait consigner – pardon, M. le juge – Gravel Ridge Investments devait consigner dans ses livres le compte de produit quatre mille quarante relatif aux deux cent cinquante mille dollars tirés de la vente.
+[84] Comme il est mentionné plus haut, je conclus que 25 actions de 2485969 Nova Scotia Limited ont été vendues par Rodney Mullen à K & K Marsh pour la somme de 1 $, que 25 actions de 2485969 Nova Scotia Limited ont été vendues par Rodney Mullen à Sirah pour la somme de 1 $ et que 25 actions de 2485969 Nova Scotia Limited ont été vendues par Gravel Ridge à 3030267 Nova Scotia Limited pour la somme de 1 $. Il me semble donc que le crédit de 250 000 $ porté au compte de prêt aux actionnaires le 30 mai 1999 était inexact et ne reflétait pas la réalité. De même, l’écriture de journal J338 datée du 30 juin 1999 ne reflétait pas non plus la réalité puisque Gravel Ridge n’a pas vendu ses actions de 2485969 Nova Scotia Limited à 3030267 Nova Scotia Limited pour la somme de 250 000 $. Cependant, il s’agit uniquement de rechercher si l’appelant a droit au crédit daté du 30 mai 1999 ou à une quelconque partie de ce crédit.
+[85] Comme le crédit de 250 000 $ consigné le 30 mai 1999 avait été corrigé par l’appelant (à hauteur de 249 975 $ au moyen de l’écriture du 30 juin 1999), il n’aurait pas dû être refusé par le vérificateur de l’ARC. Le refus de ce crédit se traduirait par la double annulation de celui‑ci – une fois par l’écriture de journal J338 et une fois par le refus opposé relativement à ce crédit.
+[86] Il me semble que la façon appropriée de régler ce point consisterait à annuler les deux écritures (J130 et J338) et à consigner une vente d’actions de 2485969 Nova Scotia Limited par Gravel Ridge pour la somme de 1 $. Cependant, comme la seule question en jeu dans le présent appel intéresse les crédits qui ont été refusés, je ne puis me prononcer sur un autre point. En outre, comme il ne me paraît pas approprié de refuser le crédit daté du 30 mai 1999 parce qu’il a subséquemment été corrigé par l’appelant, celui-ci y a droit, sauf que le montant du crédit doit s’élever à 249 975 $ puisque, selon l’écriture de correction, seule cette somme a été portée au débit du compte de prêt aux actionnaires.
+Conclusion
+[87] L’appel interjetté de la nouvelle cotisation établie relativement à l’année d’imposition 1998 de l’appelant est accueilli, sans dépens, et cette nouvelle cotisation est annulée.
+[88] L’appel interjeté de la nouvelle cotisation établie relativement à l’année d’imposition 1999 de l’appelant est accueilli, avec dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu de ce qui suit :
+a) la somme de 11 270 $ ne doit pas être incluse dans le calcul du revenu de l’appelant pour 1999 au titre d’avantages relatifs aux frais pour droit d’usage et aux frais de fonctionnement;
+b) aux fins de détermination de la somme qui était payable par l’appelant à Gravel Ridge en 1999 et qui n’a pas été remboursée dans le délai fixé au paragraphe 15(2.6) de la Loi, les crédits suivants, qui ont été portés en diminution du compte de prêt aux actionnaires et qui ont été refusés, doivent être acceptés au titre de crédits imputables au compte de prêts aux actionnaires et défalqués de la somme payable par l’appelant à Gravel Ridge en date de ces crédits :
+Élément
+Date du crédit
+Somme
+A
+Le 16 novembre 1998
+5 500 $
+B
+Le 8 décembre 1998
+33 000 $
+C
+Le 11 décembre 1998
+7 500 $
+E
+Le 31 décembre 1998
+25 000 $
+G
+Le 13 janvier 1999
+2 750 $
+H
+Le 13 janvier 1999
+5 000 $
+I
+Le 21 janvier 1999
+6 230 $
+J
+Le 19 février 1999
+16 000 $
+L
+Le 17 juin 1999
+150 000 $
+M
+Le 29 juin 1999
+74 000 $
+N
+Le 28 octobre 1999
+10 000 $
+O
+Le 3 mars 2000
+200 000 $
+Q
+Le 13 avril 2000
+7 500 $
+R
+Le 20 juin 2000
+29 000 $
+S
+Le 14 juillet 2000
+5 000 $
+Crédit supplémentaire :
+Le 30 mai 1999
+249 975 $
+Total :
+826,455 $
+Signé à Ottawa, Canada, ce 11e jour de septembre 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 4e jour de mars 2010.
+François Brunet, réviseur
+RÉFÉRENCE : 2009 CCI 452
+NO DU DOSSIER DE LA COUR : 2004-3357(IT)G
+INTITULÉ : Douglas G. Rudolph et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE : Les 22, 23 et 24 juin 2009
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 11 septembre 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me John P. Bodurtha et Me Devon E. Peavoy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Jusqu’à la semaine précédant l’audience, l’appelant avait été représenté par un avocat. Au début de l’audience tenue le lundi 22 juin 2009, l’avocat de l’appelant a présenté une requête afin d’obtenir une directive de cessation de représentation. Cette requête avait été déposée le vendredi 19 juin 2009. L’appelant a déclaré qu’il consentait à la requête parce qu’il n’avait pas les moyens de payer son avocat. La requête a été accueillie et l’appelant s’est représenté lui‑même à l’audience.
+[2] Dans chacune des ententes, la contrepartie est fixée à [TRADUCTION] « 1 $ et autre contrepartie de valeur ». À mon sens, la personne qui vend des actions pour une somme de 250 000 $ ne définirait pas la contrepartie par les termes [TRADUCTION] « 1 $ et autre contrepartie de valeur » dans la convention d’achat‑vente puisque cela signifierait pour l’essentiel que la totalité de la contrepartie serait indéterminée et uniquement définie par la vague mention d’une autre contrepartie de valeur.

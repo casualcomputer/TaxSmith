@@ -1,0 +1,247 @@
+Title: McGonagle c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29158/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-168-29158-mcgonagle-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-02-25
+
+# McGonagle c. La Reine
+
+- Citation: 2009 CCI 168
+- Decision date: 2009-02-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6718, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McGonagle c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-02-25
+Référence neutre
+2009 CCI 168
+Numéro de dossier
+2007-3936(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007‑3936(IT)G
+ENTRE :
+REEMA McGONAGLE
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Requête entendue les 24 et 25 février 2009,
+à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me George Douvelos
+Avocat de l’intimée :
+Me Bruce Senkpiel
+____________________________________________________________________
+JUGEMENT
+Vu la requête de l’intimée visant à obtenir une ordonnance annulant les prétendus appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1996, 1997 et 1998, et visant à obtenir une ordonnance lui accordant les dépens;
+Et vu les éléments de preuve déposés, les témoignages et les plaidoiries des avocats des parties;
+La Cour ordonne que la requête de l’intimée est accueillie et que les prétendus appels interjetés à l’égard des nouvelles cotisations pour les années d’imposition 1996, 1997 et 1998 sont annulés, avec dépens.
+Signé à Ottawa, Canada, ce 24e jour de mars 2009.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 30e jour de juin 2009.
+Erich Klein, réviseur
+Dossier : 2007‑3938(IT)G
+ENTRE :
+RANDY PARIHAR
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Requête entendue les 24 et 25 février 2009,
+à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelant :
+Me George Douvelos
+Avocat de l’intimée :
+Me Bruce Senkpiel
+____________________________________________________________________
+JUGEMENT
+Vu la requête de l’intimée visant à obtenir une ordonnance annulant les prétendus appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1997 et 1998, et visant à obtenir une ordonnance lui accordant les dépens;
+Et vu les éléments de preuve déposés, les témoignages et les plaidoiries des avocats des parties;
+La Cour ordonne que la requête de l’intimée est accueillie et que les prétendus appels interjetés à l’égard des nouvelles cotisations pour les années d’imposition 1997 et 1998 sont annulés, avec dépens.
+Signé à Ottawa, Canada, ce 24e jour de mars 2009.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 30e jour de juin 2009.
+Erich Klein, réviseur
+Dossier : 2007‑3939(IT)G
+ENTRE :
+RABINDER PARIHAR
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Requête entendue les 24 et 25 février 2009,
+à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me George Douvelos
+Avocat de l’intimée :
+Me Bruce Senkpiel
+____________________________________________________________________
+JUGEMENT
+Vu la requête de l’intimée visant à obtenir une ordonnance annulant les prétendus appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1996, 1997 et 1998, et visant à obtenir une ordonnance lui accordant les dépens relativement à cette requête;
+Et vu les éléments de preuve déposés, les témoignages et les plaidoiries des avocats des parties;
+La Cour ordonne que la requête de l’intimée est accueillie et que les prétendus appels interjetés à l’égard des nouvelles cotisations pour les années d’imposition 1996, 1997 et 1998 sont annulés, avec dépens.
+Signé à Ottawa, Canada, ce 24e jour de mars 2009.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 30e jour de juin 2009.
+Erich Klein, réviseur
+Dossier : 2008‑207(IT)G
+ENTRE :
+AAREMIC TRAVEL CORP.
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Requête entendue les 24 et 25 février 2009,
+à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me George Douvelos
+Avocat de l’intimée :
+Me Bruce Senkpiel
+____________________________________________________________________
+JUGEMENT
+Vu la requête de l’intimée visant à obtenir une ordonnance annulant les prétendus appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1996, 1997 et 1998, et visant à obtenir une ordonnance lui accordant les dépens relativement à cette requête;
+Et vu les éléments de preuve déposés, les témoignages et les plaidoiries des avocats des parties;
+La Cour ordonne que la requête de l’intimée est accueillie et que les prétendus appels interjetés à l’égard des nouvelles cotisations pour les années d’imposition 1996, 1997 et 1998 sont annulés, avec dépens.
+Signé à Ottawa, Canada, ce 24e jour de mars 2009.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 30e jour de juin 2009.
+Erich Klein, réviseur
+Référence : 2009 CCI 168
+Date : 20090324
+Dossiers : 2007-3936(IT)G
+2007-3938(IT)G
+2007-3939(IT)G
+2008-207(IT)G
+ENTRE :
+REEMA McGONAGLE, RANDY PARIHAR,
+RABINDER PARIHAR et AAREMIC TRAVEL CORP.,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] L’intimée a présenté une requête visant à faire annuler les prétendus appels interjetés par Reema McGonagle, Rabinder Parihar et Aaremic Travel Corp. à l’égard de leurs années d’imposition 1996, 1997 et 1998, de même que les prétendus appels interjetés par Randy Parihar pour ses années d’imposition 1997 et 1998. Le motif de la requête était que, aux termes du paragraphe 169(2.2) de la Loi de l’impôt sur le revenu (la « Loi »), les appelants, ayant signé des renonciations à leur droit d’appel, ne peuvent pas maintenant interjeter appel. Les appelants (particulièrement M. Parihar, qui a influencé son épouse et sa fille) affirment que l’Agence du revenu du Canada (l’« ARC ») a exercé une coercition à leur endroit pour leur faire signer les renonciations, et que je devrais donc conclure que les renonciations ne sont pas valides.
+[2] Les dispositions applicables de la Loi sont rédigées comme suit :
+165(1.2) Malgré les paragraphes (1) et (1.1), aucune opposition ne peut être faite par un contribuable à une cotisation établie en application des paragraphes 118.1(11), 152(4.2), 169(3) ou 220(3.1). Il est entendu que cette interdiction vaut pour les oppositions relatives à une question pour laquelle le contribuable a renoncé par écrit à son droit d’opposition.
+[…]
+169(2.2) Malgré les paragraphes (1) et (2), il est entendu qu’un contribuable ne peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier une cotisation établie en vertu de la présente partie relativement à une question à l’égard de laquelle le contribuable a renoncé par écrit à son droit d’opposition ou d’appel.
+[3] Je tiens à préciser dès le début qu'il ne s'agit pas ici d'un cas où les nouvelles cotisations ne reflètent pas les propositions exprimées dans les renonciations (les appelants reconnaissent que les nouvelles cotisations reflètent bel et bien la teneur des renonciations). C'est plutôt le cas que les renonciations ne reflètent pas la compréhension qu'ont les appelants de l’entente de règlement qu’ils croient avoir conclue avec l’ARC. Malheureusement, les appelants ne semblent avoir compris les conséquences pécuniaires du règlement dont il s'agit dans les renonciations que quand ils ont reçu les nouvelles cotisations.
+Faits
+[4] La présente affaire, dont l’historique couvre plusieurs années, porte sur les années d’imposition 1996, 1997 et 1998 des appelants. Il s’agit manifestement d’une expérience qui a été frustrante pour les contribuables, compte tenu de la succession de vérificateurs, de la lenteur du processus et de la relation tendue entre M. Parihar et le dernier vérificateur, Denis Han, qui a pris le dossier en mains à l'ARC à la fin 2005.
+[5] Les notes détaillées et le témoignage oral de M. Han, corroborés par l’affidavit et le témoignage oral de M. Parihar, révèlent clairement que les deux hommes ont communiqué abondamment tout au long de l’année 2006. M. Parihar a dit que M. Han lui demandait de fournir des documents qu’il croyait avoir déjà donnés à l’ARC. Frustré, M. Parihar a fait intervenir la chef d'équipe de M. Han, Mme Izumi, qui a elle aussi témoigné à l’audience. Mme Izumi a reconnu que la lenteur du processus était en grande partie attribuable à l’ARC et, en septembre 2006, Mme Izumi a autorisé la renonciation aux intérêts pour une période de 26 mois. La question des intérêts est la source d’un profond désaccord entre, d’une part, M. Parihar et, d’autre part, Mme Izumi et M. Han. M. Parihar soutient que lors de ses rencontres avec Mme Izumi et M. Han et au cours de ses communications avec eux, ces derniers avaient accepté de renoncer à tous les intérêts. Mme Izumi et M. Han ont tous deux témoigné n’avoir rien accepté de la sorte; ils ont dit avoir seulement accepté de renoncer aux intérêts pour la période de 26 mois dont j'ai fait mention. L’élément appuyant la version des faits de la Couronne quant aux intérêts est un formulaire de demande d’annulation en vertu des dispositions d’équité, signé le 27 septembre 2006 par Mme Izumi. L’élément appuyant la version de M. Parihar est une lettre qu’il a envoyée par télécopieur à M. Han le 6 octobre 2006, et dans laquelle il affirme avoir reçu l’assurance que l’ARC allait renoncer à la totalité des intérêts et des pénalités dus par les appelants.
+[6] Bien qu’il ne soit pas nécessaire, pour statuer sur la requête, d’arriver à une conclusion concernant la renonciation aux intérêts, j’ai conclu, selon la prépondérance des probabilités, que l’ARC n’avait jamais convenu de renoncer à la totalité des intérêts. Si j’avais conclu autrement, quel recours se serait offert aux appelants? Ce n’est pas à cette Cour, qui a compétence relativement aux cotisations d’impôt et aux pénalités, qu'ils auraient pu s'adresser. Si les appelants croient que l’ARC a manqué à sa promesse de renoncer aux intérêts, ils pourront peut‑être s’adresser à la Cour fédérale.
+[7] Tout au long de l’année 2006, M. Han a demandé à M. Parihar de lui fournir des informations, et celui‑ci a collaboré, même s’il croyait avoir déjà fourni les documents demandés. À la fin d’avril 2006, M. Han a fait savoir à M. Parihar qu’on lui avait donné assez de temps, et qu’il allait clore le dossier. M. Han a mentionné cela dans ses notes à plusieurs reprises d'avril à septembre. M. Parihar a témoigné qu’il avait interprété ces avis comme des menaces. En fait, M. Han n’a pas clos le dossier, malgré les avis qu’il avait donnés à M. Parihar.
+[8] Le 6 octobre 2006, M. Parihar a envoyé à M. Han par télécopieur une lettre dans laquelle il demandait à le rencontrer à nouveau pour se faire expliquer les chiffres que l’ARC lui avait précédemment fournis. Une rencontre a été fixée au 19 octobre. Lors de cette rencontre, M. Parihar était accompagné de son comptable, M. Yasin. M. Han et Mme Izumi de l'ARC étaient tous deux présents. M. Han a présenté une proposition, sous la forme d’une renonciation, qui comprenait les éléments suivants :
+(i) la réduction des avantages inclus, conformément au paragraphe 15(1) de la Loi, dans les revenus de Reema McGonagle et de Rabinder Parihar;
+(ii) la réduction des avantages inclus, conformément au paragraphe 246(1) de la Loi, dans les revenus de Randy Parihar;
+(iii) la réduction des commissions, des déductions admises pour les coûts des ventes et de diverses autres déductions dans le calcul des revenus d’Aaremic Travel Corp. (« Aaremic »);
+(iv) le rajustement correspondant des pénalités pour faute lourde.
+[9] Le comptable de M. Parihar, M. Yasin, a témoigné qu’il n’avait pas lu la proposition lors de la rencontre du 19 octobre. M. Yasin a supposé qu’il avait examiné la proposition plus tard, mais ne savait pas trop quels conseils il avait pu fournir à M. Parihar avant la deuxième rencontre, qui a eu lieu une semaine plus tard, soit le 26 octobre, avec les quatre mêmes personnes. Manifestement, cette deuxième rencontre a été le théâtre de certaines négociations, car l’ARC a renoncé à toutes les pénalités pour faute lourde imposées aux trois particuliers appelants, et a consenti à des modifications importantes aux déductions pour les coûts des ventes d’Aaremic.
+[10] Mme Izumi a témoigné qu’elle avait quitté la deuxième rencontre (celle du 26 octobre 2006) lorsqu’il était évident qu’une entente avait été conclue. M. Parihar a affirmé avoir pris des notes indiquant que les revenus imposables des trois particuliers pour les années concernées totaliseraient 162 000 $ et que l’impôt à payer serait d’environ 65 000 $. M. Han a ensuite préparé de nouvelles renonciations, et M. Parihar est passé les prendre plus tard dans la journée. M. Yasin, qui avait participé aux deux rencontres, a affirmé que M. Parihar ne l’avait pas appelé pour lui demander conseil relativement à la nouvelle proposition de règlement. Ce témoignage m'a semblé douteux. Il est simplement invraisemblable qu’un conseiller professionnel ne fasse aucun suivi auprès d’un client avec qui il a participé à deux rencontres visant à négocier un règlement.
+[11] La renonciation datée du 6 novembre 2006[1], qu’on a demandé à M. Parihar, à son épouse, à sa fille et à Aaremic de signer, est, en partie, rédigée de la façon suivante :
+[TRADUCTION]
+Je renonce à mon droit d’opposition ou d’appel à l’égard de toutes les questions si l’ARC établit des nouvelles cotisations conformément à ce qui suit :
+[…]
+Je sais ce que disent les paragraphes 165(1.2) et 169(2.2) de la Loi de l’impôt sur le revenu et je comprends que je ne pourrai pas faire d'opposition ni interjeter appel relativement à cette question.
+[12] M. Parihar a reconnu qu’il comprenait ce que cela signifiait. Les questions faisant l’objet des renonciations de Mme McConagle et de Mme Parihar avaient trait à des avantages conférés à des actionnaires et à des pénalités pour faute lourde. La renonciation de M. Parihar avait trait à des questions relatives au paragraphe 246(1) de la Loi et à des pénalités pour faute lourde. La renonciation d’Aaremic portait sur des questions relatives aux commissions, à des déductions pour les coûts des ventes, à des déductions pour frais d’automobile, à des déductions pour la publicité et la promotion, à des déductions pour frais d’hôtel et d’hébergement et à des pénalités pour faute lourde.
+[13] M. Parihar a dit que M. Han l’avait appelé le lendemain pour lui demander si les renonciations avaient été signées. M. Parihar a affirmé s’être senti pressé. Les notes détaillées de M. Han concernant tout les appels téléphoniques faits en 2006 n’indiquent pas qu’il a fait cet appel. M. Han a nié avoir menacé M. Parihar.
+[14] M. Parihar a attendu jusqu’au 6 novembre pour signer les renonciations. Il a fait signer à son épouse et à sa fille leurs renonciations au même moment, et a renvoyé toutes les renonciations à M. Han le 8 novembre. L’ARC a établi des nouvelles cotisations à l’égard des appelants en décembre 2006. Je suis convaincu que ces nouvelles cotisations reflètent fidèlement les propositions de règlement énoncées dans les renonciations.
+[15] Lorsque M. Parihar a reçu les nouvelles cotisations en décembre 2006, il s’est rendu compte que l’impôt et les intérêts à payer dépassaient largement ce qu'il croyait avoir accepté. Les appelants ont tous présenté des avis d’opposition, et, le 27 juin 2007, le ministre du Revenu national a ratifié les nouvelles cotisations. Les appelants ont alors interjeté appel, formulant la question en litige de la façon suivante :
+[TRADUCTION]
+d) […]
+Si l’appelant peut interjeter appel relativement à une question à l’égard de laquelle il semble avoir renoncé à son droit d’appel ou à son droit d’opposition dans une renonciation signée le 6 novembre 2006 (la « LA »), si la renonciation n’exprime pas la véritable intention des parties[2].
+[16] Dans les présents appels, les appelants cherchent à obtenir l’annulation des avis de ratification de l’intimée. Je ne comprends pas très bien ce qu’ils entendent par là, et je ne suis même pas certain que la Cour puisse « annuler » un avis de ratification. Il est évident que les appelants veulent faire invalider leurs renonciations, mais je me demande ce que cela changerait pour eux, car leurs appels ne visent pas à obtenir d’autres mesures de redressement. Les appelants n’ont soulevé aucune question sérieuse quant aux cotisations d’impôt. S'ils poursuivaient leurs appels tels qu'ils sont actuellement formulés et qu’ils réussissaient à faire « annuler » les avis de ratification (quel que soit le sens à donner à une telle annulation et à supposer que la Cour canadienne de l’impôt puisse même accorder une telle mesure de redressement, ce qui me semble peu probable), quel résultat obtiendraient‑ils? Les nouvelles cotisations visées par les avis de ratification seraient‑elles encore valides? Dans la négative, est-ce que les cotisations initiales seraient rétablies? Les appelants ne semblent pas en appeler des nouvelles cotisations; ils semblent seulement contester la validité de leurs renonciations. Malgré tout le respect que je dois aux appelants, ils auraient dû interjeter appel contre les nouvelles cotisations, en acceptant le fait que leur premier obstacle à surmonter serait les renonciations qu’ils avaient signées. Par sa requête, l’intimée a clairement présenté la question à la Cour.
+Question en litige
+[17] Ici, la question est de savoir si les renonciations signées par les appelants viennent les empêcher d'interjeter appel relativement aux points faisant l'objet des renonciations.
+Analyse
+[18] Les appelants soutiennent que le vérificateur, M. Han, a exercé de la coercition et des pressions indues à leur égard, ce qui rend leurs renonciations invalides. Les comportements reprochés à M. Han sont les suivants :
+- avoir dit à M. Parihar, à plusieurs reprises pendant l’année 2006, qu’il avait l’intention de clore le dossier;
+- ne pas avoir accordé assez de temps à M. Parihar pour demander conseil à son comptable, M. Yasin, quant aux effets du règlement contenu dans les renonciations; à cet égard, M. Han a notamment demandé les renonciations un jour après les avoir remises à M. Parihar.
+Je me prononcerai sur chacun de ces comportements.
+[19] D’abord, il ressort clairement des commentaires de la Cour suprême du Canada dans l'arrêt Smerchanski c. Ministre du Revenu national[3] qu’une renonciation peut être entachée de nullité si des pressions ont été exercées. Dans cette affaire‑là, la Cour suprême a conclu que la menace de poursuites n’entachait pas de nullité un règlement fondé sur une renonciation. La jurisprudence postérieure à cet arrêt nous éclaire sur ce qui constitue des pressions dans le contexte de la signature d’une renonciation.
+[20] Dans Nguyen c. La Reine[4], le juge Dussault a dit que le fait que l’on a informé le contribuable qu’il était passible de pénalités civiles à la suite d'une vérification ne constituait une menace exceptionnelle ni de l’intimidation. Aucune preuve n’avait été apportée devant le juge Dussault pour démontrer que le contribuable n’avait pas librement consenti ou qu’il avait été victime de pressions indues.
+[21] Dans Anthony c. La Reine[5], le juge Webb a conclu que la seule preuve de pressions exercées par l’ARC était celle selon laquelle le vérificateur voulait clore le dossier. Selon le juge Webb, il ne s'agissait pas là d'influence indue.
+[22] Maintenant, compte tenu des faits qui m’ont été présentés, le comportement du vérificateur de l’ARC a-t-il été de nature à constituer une influence indue qui a poussé les appelants à signer les renonciations? En premier lieu, je traiterai des déclarations répétées de M. Han à M. Parihar qu’il allait clore le dossier. M. Han a pris le dossier en mains à la fin de l’année 2005, et il a communiqué de façon soutenue avec M. Parihar pour obtenir de l’information et pour essayer de faire avancer le dossier. M. Han a affirmé que M. Parihar semblait lui aussi vouloir régler l’affaire rapidement. C’est à la fin d’avril 2006 que M. Han a d’abord averti M. Parihar qu’il voulait clore le dossier, mais il a ensuite accepté de rencontrer M. Parihar à la fin mai pour poursuivre les discussions. M. Han a demandé qu’on lui fournisse davantage d’information. Le 20 juillet, M. Han a dit à M. Parihar qu’il allait clore le dossier si les discussions avec M. Yasin, le comptable, étaient infructueuses. Le 26 juillet, M. Parihar a demandé une autre rencontre, et M. Han lui a dit qu’il entendait clore le dossier dans environ deux semaines. Une proposition de règlement a fait l’objet de discussions à la fin août. M. Parihar la considérait comme inacceptable, mais il souhaitait en discuter avec M. Yasin. Le 11 septembre, M. Han a dit à M. Parihar qu’il avait l’intention de clore le dossier en se fondant sur l’information dont il disposait si M. Parihar n’acceptait pas la proposition de règlement. Les parties se sont ensuite rencontrées les 19 et 26 octobre pour négocier un règlement.
+[23] Bien que je comprenne que l’affaire a traîné longtemps, ce qui a visiblement frustré M. Parihar, je conclus que les déclarations répétées de M. Han qu’il allait clore le dossier, prises dans leur ensemble, ne constituent pas de l'influence indue. Les parties étaient en train de négocier. Cela peut être un processus pénible. Toutefois, M. Han n’a pas clos le dossier en avril, ni en mai, en juin, en juillet, en août ou en septembre. D’ailleurs, il a eu deux rencontres avec M. Parihar et le conseiller de celui‑ci, les 19 et 26 octobre, pour discuter de propositions de règlement très précises. Les moments choisis par M. Han pour exprimer son intention de clore le dossier, le fait qu’il n’a jamais clos le dossier et le fait que deux dernières séances de négociation ont été tenues à une semaine d'intervalle ne sont pas des éléments qui, à mon avis, constituent des menaces ou des pressions de telle nature que M. Parihar a été indûment poussé à signer les renonciations le 6 novembre.
+[24] Je me pencherai maintenant sur l’allégation des appelants voulant que M. Han n’ait pas accordé assez de temps à M. Parihar pour considérer la proposition de règlement exprimée dans les renonciations. Cette allégation n’est aucunement étayée par les faits. M. Parihar savait depuis le 30 août quelle sorte de proposition M. Han faisait. Il était accompagné par son conseiller professionnel lorsqu'il a rencontré, le 19 octobre, M. Han et Mme Izumi pour examiner les détails de la proposition de règlement. M. Parihar a ensuite eu une semaine pour considérer la proposition avant de rencontrer M. Han et Mme Izumi une deuxième fois, toujours accompagné par son conseiller. Sans contredit, l’ARC a fait d’autres concessions lors de cette deuxième rencontre, car les renonciations des particuliers présentées lors de la rencontre du 19 octobre ont été modifiées le 26 octobre par la suppression de toutes les pénalités pour faute lourde. Dans la lettre jointe aux renonciations que M. Parihar est allé chercher plus tard dans la journée du 26 octobre, M. Han demandait effectivement que les renonciations lui soient renvoyées le plus rapidement possible. Il ne s’agit pas là de pressions indues, surtout à la lumière des témoignages de M. Han et de Mme Izumi, qui ont dit que, selon eux, on en était venu à une entente acceptable lors de la rencontre du 26 octobre.
+[25] M. Parihar a témoigné que M. Han l’avait appelé le 27 octobre pour lui demander à quel moment les renonciations allaient être signées. Les notes détaillées de M. Han n’indiquent pas qu’il a fait un tel appel. Et même si M. Han a fait l'appel, cela n’a pas poussé M. Parihar à renvoyer les renonciations immédiatement, car lui et sa famille ont attendu jusqu’au 6 novembre pour les signer – c’est‑à‑dire 10 jours après les avoir reçues. À mon avis, ces circonstances ne permettent pas de conclure que des pressions indues ont été exercées.
+[26] Je n'ai aucun doute que l’expérience de M. Parihar avec l’ARC dans ces dossiers fiscaux a été frustrante et pénible, compte tenu de la lenteur du processus et de la mésentente entre M. Parihar et un vérificateur empressé de clore le dossier. Néanmoins, M. Parihar a signé les renonciations en comprenant très bien les effets de son geste. Les dispositions de règlement que contenaient les renonciations avaient été exposées dans le détail lors de deux rencontres au cours desquelles le conseiller professionnel de M. Parihar a été consulté. À compter du 19 octobre, presque trois semaines se sont écoulées avant qu'on ne signe les renonciations; M. Parihar avait donc eu suffisamment de temps pour les examiner attentivement. Mais lorsqu’il a reçu les nouvelles cotisations, M. Parihar a été frappé par l'importance des sommes exigées, car l’impôt et les intérêts à payer dépassaient largement son estimation de 65 000 $. On ne m’a pas convaincu que l’ARC – par l’entremise de M. Han ou de Mme Izumi – s’était engagée à établir des nouvelles cotisations qui ne fixeraient que ce montant d’impôt à payer. Je conclus que les renonciations sont valides et que les appelants ne peuvent pas interjeter appel relativement aux points dont il est question dans les renonciations. Dans leurs plaidoiries, les appelants n’ont soulevé aucune autre question que celles spécifiées dans les renonciations; de plus, ils n’ont soulevé aucune autre question à l’audition de la requête. Comme je l’ai déjà indiqué, les appels portent seulement sur la validité des renonciations. La requête de l’intimée est accueillie. Les appelants ne peuvent pas interjeter appel des nouvelles cotisations dans la mesure où les appels portent sur des questions à l'égard desquelles ils ont renoncé à leur droit d’appel. L’intimée a droit à la taxation d'un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 24e jour de mars 2009.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 30e jour de juin 2009.
+Erich Klein, réviseur
+RÉFÉRENCE :
+2009 CCI 168
+Nos DES DOSSIERS DE LA COUR :
+2007‑3936(IT)G, 2007‑3938(IT)G,
+2007‑3939(IT)G, 2008‑207(IT)G
+INTITULÉ DE LA CAUSE :
+Reema McGonagle, Randy Parihar, Rabinder Parihar, Aaremic Travel Corp. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATES DE L’AUDIENCE :
+Les 24 et 25 février 2009
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 24 mars 2009
+COMPARUTIONS :
+Avocat des appelants :
+Me George Douvelos
+Avocat de l’intimée :
+Me Bruce Senkpiel
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+George Douvelos
+Cabinet :
+Davison Wiebe Douvelos
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Affidavit de Dennis Han, signé le 16 février 2009 (pièce G).
+[2] Avis d’appel datés du 25 septembre 2007 et du 15 novembre 2007, alinéa d).
+[3] [1977] 2 R.C.S. 23.
+[4] 2005 CCI 697.
+[5] 2007 CCI 606.

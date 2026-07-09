@@ -1,0 +1,112 @@
+Title: Caron v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27535/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-394-27535-caron-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-06-17
+
+# Caron v. M.N.R.
+
+- Citation: 2005 TCC 394
+- Decision date: 2005-06-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 97, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Caron v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-17
+Neutral citation
+2005 TCC 394
+File numbers
+2005-579(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-579(EI)
+BETWEEN:
+RÉAL CARON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 8, 2005, at Matane, Quebec
+Before: The Honourable Judge Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Nicole Sylvestre
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal instituted under subsection 103(1) of the Employment Insurance Act is allowed, for the periods from August 28 to December 19, 2003, and from January 30 to June 23, 2004, when the Appellant worked for Les Transports Claude Perron Inc., on the basis that the Appellant performed 26 hours of insurable work during the regular weeks when he received $300, and the Minister's decision of December 2, 2004, is vacated.
+Signed at Ottawa, Canada, this 17th day of June 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 6th day of March, 2006.
+Garth McLeod, Translator
+Citation: 2005TCC394
+Date: 20050617
+Docket: 2005-579(EI)
+BETWEEN:
+RÉAL CARON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This appeal essentially concerns the number of hours of insurable employment performed by the Appellant during the periods from August 28 to December 19, 2003, and from January 30 to June 23, 2004, when he worked for Les Transports Claude Perron Inc.
+[2] The employer contended that the agreed-upon weekly salary of $300, plus four percent vacation pay, was remuneration for 20 hours of work a week.
+[3] The Respondent assumed that that was the actual situation and adopted the employer's assessment of the number of insurable hours per week.
+[4] The Appellant, for his part, contended instead that his total number of hours per week was 26. In support of his claims, he described in detail the work he had performed daily for his employer. His description was detailed, precise, coherent and very reasonable. The duration of all the activities totalled slightly more than 26 hours, the number of hours claimed by the Appellant.
+[5] The employer, who testified at the Respondent's request, gave evidence that was clearly honest but quite vague. He referred to the Appellant's precarious status and the arbitrary way in which he had recorded 20 hours of work per week: he had simply divided by two the number of hours of one of his employees, who had worked full time as a bus driver (on the same route as that of the Appellant) and who, for the rest of the time, up to a maximum of 40 hours, did mechanical work, which the Appellant never did.
+[6] He also stated that the route could take 18 to 22 hours to drive and that he had taken an average. However, he also said that it could take as many as 24 hours a week. What is certain is that he had no specific idea of the number of hours required to do the route daily. In addition, he had no record of the various routes travelled by the drivers, who were often required to change routes, depending on seniority.
+[7] The overall weekly remuneration was not in dispute; moreover, both the employer and the Appellant gave exactly the same testimony on this point.
+[8] The Appellant stated that, at first, he had not paid attention to the number of hours of work, since the weekly salary suited him; he did whatever work was to be done, without asking any questions.
+[9] He began to more closely examine the assessment of the number of hours shown on his pay stub from the moment one co-worker mentioned to him that it could potentially have an impact on his entitlement to Employment Insurance benefits.
+[10] He then began making requests to his employer to correct the number of hours entered in the payroll so that his pay statement would show the actual number of hours of work, not 20 hours.
+[11] The employer refused to take action because, following a union accreditation, the parties had started to negotiate a labour agreement, which precluded any change or amendment to the working conditions of the employees concerned by the eventual collective agreement.
+[12] The employer, like the Appellant, expressly admitted that, at the time of hiring, the consideration of $300 a week had been the fundamental issue and that the agreement had in fact concerned mainly that issue, while acknowledging that the number of hours that that required had been a more secondary matter.
+[13] Lastly, the parties admitted that the hourly wage paid for the specific work (making special trips) not included in the overall consideration of $300 had been set at $10.
+[14] That hourly wage thus corresponded more to the assessment of the Appellant, according to whom the weekly salary of $300 was paid to him for 26 hours of work, the equivalent of an hourly wage of $11.50.
+[15] If it had been 20 hours of work, as the Respondent determined, that would have represented an hourly wage of $15.
+[16] Based on that assessment, the Appellant would have received one-third less salary when he had to make special trips, which is not very logical. Compared to the Appellant's position that the hourly wage was more or less $11.50, the figure of $10 an hour for special trips is more reasonable. I find that fact helpful, even revealing, in assessing the respective claims of the parties.
+[17] I must decide between two versions. That of the Appellant, whose credibility cannot be questioned, was clear, coherent and highly detailed. That of the payor, who had no records or any recorded figures whatever, was credible as well, although it was vague to the point that it never completely contradicted the Appellant's version.
+[18] The employer, who was vague, even slightly ambiguous, mainly stated, and repeated a number of times, that the Appellant was a casual, not a regular, worker and that the basic agreement at the outset had mainly, even essentially, been based on weekly remuneration of $300, the question of hours being secondary at that time. When it became important to assess the number of hours accurately, the explanation provided was neither thorough nor very convincing, particularly since the formula used was largely arbitrary.
+[19] As to the Appellant, he referred to actual, specific figures that were not contradicted by his employer. The issue of the Appellant's position, that is to say whether he was casual, temporary, a replacement and so on, had nothing to do with the number of hours of work for the agreed-upon and accepted salary of $300 a week.
+[20] For all these reasons, I allow the Appellant's appeal on the basis that the Appellant performed 26 hours of insurable work during the regular weeks when he received $300.
+Signed at Ottawa, Canada, this 17th day of June 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 6th day of March, 2006.
+Garth McLeod, Translator
+CITATION: 2005TCC394
+DOCKET NO.: 2005-579(EI)
+STYLE OF CAUSE: Réal Caron and M.N.R.
+PLACE OF HEARING: Matane, Quebec
+DATE OF HEARING: June 8, 2005
+REASONS FOR JUDGMENT BY: The Honourable Judge Alain Tardif
+DATE OF JUDGMENT: June 17, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Nicole Sylvestre
+Counsel for the Respondent:
+Marie-Claude Landry
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

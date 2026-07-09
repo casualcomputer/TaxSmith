@@ -1,0 +1,127 @@
+---
+title: "Côté c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30716/index.do"
+last_modified: "2012-02-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 61"
+citation2: ""
+neutral_citation: "2012 CCI 61"
+decision_date: "2012-02-23"
+language: "fr"
+item_id: "30716"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7518
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:34:53.771000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eb09b40be633b567ef7f46c392d51a88f257f5684d1d88c3b9c4d62844d49ec6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Côté c. La Reine
+
+- Citation: 2012 CCI 61
+- Decision date: 2012-02-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7518, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Côté c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-02-23
+Référence neutre
+2012 CCI 61
+Numéro de dossier
+2011-2691(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2691(IT)I
+ENTRE :
+DANIELLE CÔTÉ,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande de remise de l’audition par voie de représentations écrites
+Devant : L'honorable Gerald J. Rip, juge en chef
+Comparutions :
+Avocat de l’appelante :
+Me Philippe Thibeault
+Avocat de l’intimée :
+Me Gabriel Girouard
+____________________________________________________________________
+ORDONNANCE
+Vu la demande de remise présentée par l’avocat de l’appelante par voie de représentations écrites;
+La demande de remise de l’audition est rejetée et l’appel sera entendu à la date fixée pour l’audition.
+Signé à Ottawa, Canada, ce 23e jour de février 2012.
+« Gerald J. Rip »
+Juge en chef Rip
+Citation : 2012 CCI 61
+Date : 20120223
+Dossier : 2011-2691(IT)I
+ENTRE :
+DANIELLE CÔTÉ,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge en chef Rip
+[1] L'appelante a fait une seconde demande d'ajournement de l'audience dans la présente affaire. Sa première demande a été rejetée la semaine dernière.
+[2] L'appelante a interjeté appel, sous le régime de la procédure informelle, contre des cotisations pour les années 2005, 2006 et 2007. Ces cotisations sont fondées sur l'augmentation de son avoir net dans chacune des années en question. L'avis d'audition, envoyé aux parties le 28 décembre 2011, fixait l'audition des appels au 25 mars 2012, à Rimouski (Québec).
+[3] Un interrogatoire préalable de l'ex‑mari de l'appelante a apparemment eu lieu en septembre 2011 et au cours de cet interrogatoire certains engagements ont été pris. Il semble que l'interrogatoire préalable et les engagements s'inscrivaient dans le contexte de trois dossiers dont avait été saisie la Cour supérieure du Québec. Nous n'avons aucune information sur la nature des questions soumises à la Cour supérieure du Québec, c'est-à-dire que nous ignorons si elles se rapportent au droit de la famille, à la fiscalité ou à autre chose. La transcription de l'interrogatoire préalable devait apparemment être disponible au cours de la semaine du 13 février 2012, et il semble que les parties ont besoin de quelques mois pour s'acquitter des engagements.
+[4] La nouvelle demande d'ajournement est rejetée. Il s'agit d'un appel régi par la procédure informelle, et l'article 18.2 de la Loi sur la Cour canadienne de l'impôt prévoit ce qui suit :
+(1) La Cour ajourne l'audition d'un appel lorsqu'elle est convaincue qu'il serait difficilement réalisable d'y procéder à la date fixée, compte tenu de toutes les circonstances.
+(1) The Court shall adjourn the hearing of an appeal where, in the opinion of the Court, it would be impractical in all the circumstances to proceed on the day fixed for the hearing.
+(2) À la demande d'une des parties, la Cour peut accorder un ajournement si les autres parties y consentent ou encore s'il s'avère préférable de retarder l'audition jusqu'à ce qu'elle-même ou un autre tribunal canadien ait rendu jugement dans une affaire identique ou semblable.
+(2) The Court may grant a request by a party to have the hearing of al appeal adjourned where the other parties consent thereto or where it would be appropriate to delay that hearing until judgment has been rendered in another case before the Court or before any other court in Canada in which the issue is the same or substantially the same as that raised in the appeal.
+[5] C'est un lieu commun que de dire que la Cour canadienne de l'impôt a le contrôle plein et entier de sa procédure et de sa pratique. La décision d'accorder ou non un ajournement relève de la discrétion de la Cour. L'objet de la procédure informelle est d'accélérer l'audition des appels en faisant en sorte que tout se passe de la manière la plus expéditive et la plus simple possible, et les interrogatoires préalables sont extrêmement rares dans le cadre d'appels interjetés sous le régime de la procédure informelle.
+[6] Il est à noter également qu'il n'existe en l'espèce aucune ordonnance portant sursis à l'audition de l'appel en attendant l'obtention de résultats en ce qui concerne les questions relativement auxquelles l'appelante avait à communiquer de l'information dans le cadre d'un interrogatoire préalable mené en Cour supérieure du Québec. Je ne crois pas qu'il s'agisse en l'occurrence d'un cas où l'ensemble des circonstances justifient un ajournement. En outre, je n'accepte pas l'assertion de l'appelante qu'elle subirait un préjudice si les engagements pris lors de l'interrogatoire préalable n'étaient pas remplis, et si, effectivement, il y avait préjudice, ce préjudice résulterait essentiellement de la façon dont l'appelante a conduit sa cause.
+[7] Il n'y a rien qui démontre que quelque partie que ce soit de l'information résultant de l'interrogatoire préalable, dont l'appelante prétend avoir besoin pour la conduite du procès, est tant soit peu pertinente ou a quelque valeur probante que ce soit relativement aux questions soumises à la Cour canadienne de l'impôt. Nous n'avons aucune idée de la nature ni de la preuve ayant pu être obtenue au moyen de l'interrogatoire préalable ni des engagements. Il n'y a aucune preuve que l'affaire dont se trouve saisie la Cour supérieure du Québec est identique ou semblable à celle soumise à notre Cour.
+[8] De plus, il est à noter que l'interrogatoire préalable a eu lieu, en fait, en septembre 2011. Je m'attendrais donc à ce que l'avocat de l'appelante ait pris des notes copieuses et détaillées de cet interrogatoire et qu'à tout le moins il ait pris en note les engagements pris lors de l'interrogatoire. Il aurait eu, en conséquence, amplement le temps de commencer à réunir les renseignements demandés et de remplir les engagements, étant donné que l'interrogatoire préalable a eu lieu en septembre 2011. L'appelante aurait dû être au courant des engagements pris lors de l'interrogatoire préalable de septembre 2011 et aurait pu prendre en octobre, en novembre ou en décembre 2011, ou même en janvier ou en février 2012 — une période d'environ cinq mois — des mesures pour remplir les engagements en question, à supposer que ces engagements soient pertinents et qu'ils aient une valeur probante quant aux questions soumises à notre Cour. Nous croyons comprendre, d'ailleurs, que la transcription a été reçue en fait durant la semaine du 13 février 2012, donc la question de la disponibilité de la transcription ne se pose pas vraiment.
+[9] L'avis d'audition a été envoyé le 28 décembre 2011, et pourtant une demande d'ajournement n'a été faite qu'à la mi‑février 2012. La Cour est investie du plein pouvoir d'inscrire au rôle pour audition les appels régis par la procédure informelle, et c'est ce qu'elle a fait en temps opportun. Si, comme le prétend l'appelante, il faudra des mois pour remplir les engagements, pourquoi la demande d'ajournement n'a-t-elle pas été faite plus tôt, c'est—à‑dire, immédiatement en janvier 2012 parce qu'on n'était, à ce moment-là, qu'à deux mois et demi de la date prévue de l'audience? Plutôt que d'en faire ainsi, elle a attendu jusqu'à la mi‑février 2012.
+[10] En résumé, la Cour a le contrôle de sa propre procédure en matière d'ajournement. La Cour ne reconnaît aucune circonstance comme justifiant l'octroi d'un ajournement dans une situation comme celle en l'espèce, étant donné l'absence d'information pouvant ressortir de la preuve obtenue grâce à l'interrogatoire préalable et grâce aux engagements, étant donné la non-pertinence d'une telle information, étant donné les délais, étant donné les possibilités qui se seraient offertes à l'appelante si elle s'était bien préparée en vue de l'audience, et étant donné les mesures que l'appelante aurait pu et aurait dû prendre pour s'assurer d'être bien préparée, et en temps utile, en vue de l'audience.
+[11] La requête en ajournement présentée par l'appelante est rejetée.
+Signé à Ottawa, Canada, ce 23e jour de février 2012.
+« Gerald J. Rip »
+Juge en chef Rip
+RÉFÉRENCE : 2012 CCI 61
+Nº DU DOSSIER DE LA COUR : 2011-2691(IT)I
+INTITULÉ DE LA CAUSE : DANIELLE CÔTÉ c.
+SA MAJESTÉ LA REINE
+MOTIFS DE
+L’ORDONNANCE PAR : L'honorable Gerald J. Rip, juge en chef
+DATE DE L’ORDONNANCE : Le 23 février 2012
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Philippe Thibeault
+Cabinet : Roy, Beaulieu, Boudreau, Bélanger
+Rimouski, Québec
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

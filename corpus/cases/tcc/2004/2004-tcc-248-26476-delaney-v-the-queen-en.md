@@ -1,0 +1,145 @@
+---
+title: "Delaney v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26476/index.do"
+last_modified: "2004-04-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 248"
+citation2: ""
+neutral_citation: "2004 TCC 248"
+decision_date: "2004-04-15"
+language: "en"
+item_id: "26476"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3160
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:35:01.294000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "20bd2058417d85ae22b848851979d7e38886aa50ccbf43d9ecc44e0b051abfbb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Delaney v. The Queen
+
+- Citation: 2004 TCC 248
+- Decision date: 2004-04-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3160, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Delaney v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-15
+Neutral citation
+2004 TCC 248
+File numbers
+2003-3637(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3637(IT)I
+BETWEEN:
+ROBERT DELANEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 24, 2004, in Vancouver, British Columbia
+Before: The Honourable Judge François Angers
+Appearances:
+Counsel for the Appellant:
+John Dore
+Counsel for the Respondent:
+Raj Grewal
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1997 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 15th day of April 2004.
+"François Angers"
+Angers, J.
+Citation: 2004TCC248
+Date: 20040415
+Docket: 2003-3637(IT)I
+BETWEEN:
+ROBERT DELANEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers, J.
+[1] This is an appeal from an assessment by the Minister of National Revenue (Minister) of the Appellant's 1997 taxation year. The Minister has assessed the appellant's profit from the sale of certain lots namely, $44,360 as business income instead of a capital gain.
+[2] The appellant operates a building maintenance business. Although most of his income in 1997 and in subsequent years was from repairing apartments and condos, he also had income from three rental properties he owned during those years. He also owned rental properties some 15 years prior to 1997 and apparently has sold three of the properties in the last 20 years, including one house and lot adjacent to the lots in issue in this appeal.
+[3] On December 7, 1984, the appellant, together with a Mr. and Mrs. McBurnie, acquired what was known at the time as lot No. 9 of civic address 1226 160th Street (the property) in Surrey, B.C. The McBurnies and the appellant each held a fifty percent interest in the property. Mr. McBurnie was himself a realtor. A house sat on that property but given the size of the lot, it was possible to make a subdivision and thus create another lot. The house was rented and, on March 28 of the following year, the owners submitted to the District of Surrey a proposed subdivision plan of the property in the form of a rough sketch drawn by Mr. McBurnie. An inter office memo dated May 13, 1985, from the Assistant Municipal Engineer to the Director of Planning for the district provided a list of requirements to be fulfilled in order to approve the proposed subdivision. In a letter dated May 30, 1985, from the Director of Planning to the owners, the conditions for approval of the subdivision were laid down and they were quite extensive. It is not necessary to reproduce the requirements other than to mention that the preliminary layout was valid for 180 days with final approval to be obtained within that time period. The preliminary layout shows a lane and a road that had to be built along the adjoining lots for access and this required the neighbours' involvement. The owners did not pursue the matter further at that time and the conditional approval lapsed.
+[4] In September 1986, the McBurnies sold their fifty percent interest in the property to the appellant's father. The appellant's father was a tugboat captain and the property was to provide him with additional income upon retirement. In 1991, the property was mortgaged and part of the funds was used to pay back a first mortgage that had been given at the time of purchase. In 1995, the neighbours became interested in having the lot subdivided and approached the appellant and his father with that purpose in mind. An application to subdivide the property and adjoining lots No. 7 and 8 was submitted for approval to the municipal authorities. Another mortgage was given by the appellant and his father in the amount of $85,000 in order to finance the cost of the subdivision, which was eventually completed in 1997. Upon completion, the property became known as civic address 1226 160th Street for lot No. 1 that included the house and civic address 1235 160th "A" street for lot No. 2, which was vacant. The final subdivision plan is very similar to the original layout submitted on the first attempt to obtain approval.
+[5] The actual work needed to be done to comply with all the subdivision requirements imposed by the municipal authorities was very costly and very demanding on the applicants. In the course of this process, the appellant and his father acquired an option to purchase the adjoining lot known as civic address 1245 160th "A" Street, in order to protect their investment in the subdivision. This was necessary because the owner of that lot, who had initiated the project, was having financial difficulties and his ability to pay his share of the costs was impaired. The option was eventually exercised by the appellant and his father and immediately thereafter both vacant lots were sold to a purchaser on April 14, 1997, for $160,000 through a real estate agent. The actual cost to have the lots subdivided was around $90,000. This amount covered the engineering fees and the cost for the construction of streets, sidewalks, sewers and other incidentals. It is the actual profit from the sale of those two vacant lots that is in issue. Should it be characterized as income from a business or as a capital gain? This question is known to be one of mixed law and fact, which must be resolved on the basis of each particular case.
+[6] Several tests have been developed by the courts over the years to assist in the determination of that question. The Federal Court in Happy Valley Farms Ltd. v. Her Majesty the Queen, 86 DTC 6421 reproduced these tests and summarized them as follows:
+Since income tax was introduced in Canada, a considerable amount of jurisprudence has arisen from the use of the phrase "adventure or concern in the nature of trade" used in the extended definition of business in subsection 248(1) of the Income Tax Act. This legislative provision states the "business" includes a profession, calling, trade, manufacture or undertaking of any kind whatever and includes "an adventure or concern in the nature of trade but does not include an office or employment." The most comprehensive analysis of the meaning of "adventure in the nature of trade" is found in Minister of National Revenue v. Taylor, 56 DTC 1125, [1956] C.T.C. 189 (Ex. Ct.) where the Court set out a number of tests to be applied to determine when a transaction, which is not itself a trade or business, can be held to be "an adventure or concern in the nature of trade". The decision makes it clear that the question to be answered, in cases of this nature is, was the asset acquired by the taxpayer as an investment or was it not. If not, then any gain realized by the taxpayer upon the sale of the asset is taxable as income. Whether an asset was acquired as an investment is to be determined by all the facts of a particular case including, the course of conduct of the taxpayer, the nature of the subject property, the probability of the asset producing income without the need to be turned over and the similarity of the transaction in question to a trading transaction.
+Several tests, many of them similar to those pronounced by the Court in the Taylor case, have been used by the courts in determining whether a gain is of an income or capital nature. These include:
+1. The nature of the property sold. Although virtually any form of property may be acquired to be dealt in, those forms of property, such as manufactured articles, which are generally the subject of trading only are rarely the subject of investment. Property which does not yield to its owner an income or personal enjoyment simply by virtue of its ownership is more likely to have been acquired for the purpose of sale than property that does.
+2. The length of period of ownership. Generally, property meant to be dealt in is realized within a short time after acquisition. Nevertheless, there are many exceptions to this general rule.
+3. The frequency or number of other similar transactions by the taxpayer. If the same sort of property has been sold in succession over a period of years or there are several sales at about the same date, a presumption arises that there has been dealing in respect of the property.
+4. Work expended on or in connection with the property realized. If effort is put into bringing the property into a more marketable condition during the ownership of the taxpayer or if special efforts are made to find or attract purchasers (such as the opening of an office or advertising) there is some evidence of dealing in the property.
+5. The circumstances that were responsible for the sale of the property. There may exist some explanation, such as a sudden emergency or an opportunity calling for ready money, that will preclude a finding that the plan of dealing in the property was what caused the original purchase.
+6. Motive. The motive of the taxpayer is never irrelevant in any of these cases. The intention at the time of acquiring an asset as inferred from surrounding circumstances and direct evidence is one of the most important elements in determining whether a gain is of a capital or income nature.
+While all of the above factors have been considered by the Courts, it is the last one, the question of motive or intention which has been most developed. That, in addition to consideration of the taxpayer's whole course of conduct while in possession of the asset, is what in the end generally influences the finding of the Court.
+This test has been carried one step further by Canadian Courts into what has generally been referred to as the 'secondary intention' test. This has meant, in some cases, that even where it could be established that a taxpayer's main intention was investment, a gain on the sale of the asset would be held taxable as income if the court believed that, at the time of acquisition, the taxpayer had in mind the possibility of selling the asset if his investment project did not, for whatever reason, materialize. In Racine, Demers and Nolin v. Minister of National Revenue, 65 DTC 5098 (Ex. Ct.), Noël J. provided the following summary of the secondary intention test at p. 5103:
+. . . the fact alone that a person buying a property with the aim of using it as capital could be induced to resell it if a sufficiently high price were offered to him, is not sufficient to change an acquisition of capital into an adventure in the nature of trade. In fact, this is not what must be understood by a "secondary intention" if one wants to utilize this term.
+To give to a transaction which involves the acquisition of capital the double character of also being at the same time an adventure in the nature of trade, the purchaser must have in his mind, at the moment of the purchase, the possibility of reselling as an operating motivation for the acquisition; that is to say that he must have had in mind that upon a certain type of circumstances arising he had hopes of being able to resell it at a profit instead of using the thing purchased for purposes of capital. Generally speaking, a decision that such a motivation exists will have to be based on inferences flowing from circumstances surrounding the transaction rather than on direct evidence of what the purchaser had in mind.
+[7] The same court is now referring to those tests as factors to be considered in such a determination. They are reproduced in Rivermede Developments Ltd. v. R. [1993] F.C.J. No. 778 and have found their way in Interpretation Bulletins. As stated by Justice Teitelbaum in Rivermede (above), none of the factors taken alone is conclusive.
+[8] The appellant, in the present case, is not a stranger to real estate acquisitions and sales. The evidence shows that apart from his building maintenance business, he has acquired rental properties and has sold some of these properties over the years. In the purchase of the property at issue, he worked in partnership with a realtor. Although the evidence did not provide details of his partner's involvement in the real estate business, being a realtor is in itself an indication that the individual has knowledge of that particular activity. Although the appellant's intention in buying that property was to generate rental income, one cannot ignore the potential, given the size and shape of the lot, to subdivide it, create a new lot and sell it. In fact, the appellant and his partner explored that possibility almost immediately after their purchase by submitting an application for subdivision. The neighbours' involvement and the numerous conditions imposed by the District of Surrey hindered their project and caused it to be put on hold for quite some time. When the neighbours were finally ready to share in the costs involved in a subdivision project, the appellant with his new partner became participants. Even though the final subdivision plan may have differed from the original one submitted, the intention to subdivide and sell the vacant lot remained. In this case, I do not believe that the length of ownership is a factor favouring the position that the property was purchased as an investment, thereby giving rise to capital gain. In the present case, it was a question of getting the owners of the adjoining land to cooperate in order to share the costs and therefore yield more profit.
+[9] The appellant may not have initiated the actual subdivision that led to the sale of these lots but his conduct at the time of the purchase in 1985 or immediately thereafter clearly demonstrates that he and his partner had subdivision on their minds with the intention of making a profit from the sale of those lots. The evidence does not indicate that the project of subdividing and selling was the result of unforeseen events. It was rather the culmination of what had been intended. The property was finally put into a marketable condition through a concerted effort by all those with an interest in such a venture. The buyout of some of the co-subdividors and the immediate sale of the lot is also an indication of risks that are taken in a business venture. I find that the appellant's conduct is consistent with a business activity. The initial inquiry about a possible subdivision, the actual subdivision, the costs involved in subdividing, the construction of roads and sidewalks and the purchase and sale of an adjoining lot to save the project all indicate circumstances within the control of the appellant despite his statement that he bought the entire lot as an investment. These activities are, in my opinion, inconsistent with holding property simply as an investment.
+[10] I therefore find that the sale of the property was a business or an adventure in the nature of trade and was therefore properly assessed. The appeal is dismissed.
+Signed at Ottawa, Canada, this 15th day of April 2004.
+"François Angers"
+Angers, J.
+CITATION:
+2004TCC248
+COURT FILE NO.:
+2003-3637(IT)I
+STYLE OF CAUSE:
+Robert Delaney and Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver (British Columbia)
+DATE OF HEARING:
+February 24, 2004
+REASONS FOR JUDGMENT BY:
+The Hon. Justice François Angers
+DATE OF JUDGMENT:
+April 15, 2004
+APPEARANCES:
+Counsel for the Appellant:
+John Dore
+Counsel for the Respondent:
+Raj Grewal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

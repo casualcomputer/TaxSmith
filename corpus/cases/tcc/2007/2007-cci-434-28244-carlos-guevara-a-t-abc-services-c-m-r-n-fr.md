@@ -1,0 +1,172 @@
+---
+title: "Carlos Guevara a/t ABC Services c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28244/index.do"
+last_modified: "2007-07-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 434"
+citation2: ""
+neutral_citation: "2007 CCI 434"
+decision_date: "2007-07-24"
+language: "fr"
+item_id: "28244"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2025
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:27:06.411000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9069b3fdd8ff1f9702ea91319558b0e5c82ce997f570e0135a3ea7e49e1a13d3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Carlos Guevara a/t ABC Services c. M.R.N.
+
+- Citation: 2007 CCI 434
+- Decision date: 2007-07-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2025, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carlos Guevara a/t ABC Services c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-07-24
+Référence neutre
+2007 CCI 434
+Numéro de dossier
+2006-1529(EI)
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2006-1529(EI)
+ENTRE :
+CARLOS GUEVARA, a/t ABC SERVICES,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Requête entendue le 30 janvier 2007 à Winnipeg (Manitoba)
+Devant : L'honorable juge C.H. McArthur
+Comparutions :
+Pour l'appelant :
+Carlos Guevara
+Avocat de l'intimé :
+Me Julien Bédard
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l’intimé concernant la période 2000 et 2001 et visant à obtenir:
+a. un rejet de l’avis d’appel;
+b. subsidiairement un délai de 60 jours pour déposer la réponse du Ministre à l’avis d’appel;
+c. toute réparation demandée par l’intimé ou que la Cour canadienne de l’impôt (« Cour ») estime convenable et juste eu égard aux circonstances ;
+Et vu l’affidavit déposé par René Davidson et les allégations des parties;
+Conformément aux motifs de l’ordonnance ci-joints, la requête est accueillie et le prétendu appel est annulé.
+Signé à Ottawa, Canada, ce 24ième jour de juillet 2007.
+« C.H. McArthur »
+Juge McArthur
+Référence : 2007CCI434
+Date : 20070724
+Dossier : 2006-1529(EI)
+ENTRE :
+CARLOS GUEVARA, a/t ABC SERVICES,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DE L’ORDONNANCE
+Le juge McArthur
+Faits
+[1] Le 26 juin 2002, le ministre du Revenu national (le « Ministre ») a mis à la poste sa décision en vertu de l’article 93 de la Loi sur l’assurance-emploi (la « Loi « ) concernant l’assurabilité de deux travailleurs.
+[2] Le 16 mai 2006, l’appelant a déposé un avis d’appel auprès de la Cour.
+[3] Le 27 octobre 2006, l’intimé a déposé l’avis de requête dont est saisie la Cour.
+Motifs de la requête
+[4] L’avocat de l’intimé soumet que :
+a. La Cour n’a pas compétence sur l’objet de l’appel;
+b. Un appel ne peut être interjeté en vertu du paragraphe 103 de la Loi étant donné que l’appel n’a pas été interjeté dans les 90 jours suivant la date de communication de la décision rendue par le Ministre ;
+c. L’appelant n’a pas fait l’objet d’une cotisation à la suite de la décision en sa faveur qui lui a été communiquée le 26 juin 2002.
+Dispositions
+Loi sur l’assurance-emploi
+Opposition et révision
+Appel devant la Cour canadienne de l’impôt
+103. (1) La Commission ou une personne que concerne une décision rendue au titre de l’article 91 ou 92, peut, dans les quatre-vingt-dix jours suivant la communication de la décision ou dans le délai supplémentaire que peut accorder la Cour canadienne de l’impôt sur demande à elle présentée dans les quatre-vingt-dix jours suivant l’expiration de ces quatre-vingt-dix jours, interjeter appel devant la Cour canadienne de l’impôt de la manière prévue par la Loi sur la Cour canadienne de l’impôt et les règles de cour applicables prises en vertu de cette loi.
+Prorogation du délai d’appel
+(1.1) L’article 167 de la Loi de l’impôt sur le revenu, sauf l’alinéa 167(5)a), s’applique, avec les adaptations nécessaires, aux demandes présentées aux termes du paragraphe (1).
+Communication de la décision
+(2) La détermination du moment auquel une décision rendue au titre de l’article 91 ou 92 est communiquée à la Commission ou à une personne est faite en conformité avec la règle éventuellement établie en vertu de l’alinéa 20(1.1)h.1) de la Loi sur la Cour canadienne de l’impôt.
+Décision de la Cour canadienne de l’impôt
+(3) Sur appel interjeté en vertu du présent article, la Cour canadienne de l’impôt peut annuler, confirmer ou modifier la décision rendue au titre de l’article 91 ou 92 ou, s’il s’agit d’une décision rendue au titre de l’article 92, renvoyer l’affaire au ministre pour qu’il l’étudie de nouveau et rende une nouvelle décision; la Cour :
+a) notifie aux parties à l’appel sa décision par écrit;
+b) motive sa décision, mais elle ne le fait par écrit que si elle l’estime opportun.
+Analyse
+Est-ce qu’il y a une décision à contester?
+[5] Le 29 mai 2002, le Ministre a notifié l’appelant qu’aucun avis de cotisation officielle n’a été établi et qu’un droit d’appel n’existe que lorsqu’un avis de cotisation a été établi. Cette lettre est reproduite ci-dessous :
+CARLOS GUEVARA
+ROSA GUEVARA VALLE
+(ABC Services)
+264 Eugenie St
+WINNIPEG, MB R2H 0Y4
+Le 29 mai, 2002
+Monsieur:
+À la suite de votre correspondance du 20 avril, 2002 et votre demande d’appel de la décision du 6 juillet, 2001 (Relevé de compte du vérificateur du 6 juillet, 2001), nous désirons vous informer au suivant :
+Le crédit de 579,22$ a été appliqué au compte 2001.
+Le compte indiquant le solde de 529,70$ n’a jamais été cotisé par notre système informatique. Par conséquent aucun avis de cotisation officielle n’a été émis.
+Aucun droit d’appel n’existe sur l’état de compte pour 529,70$ pour le moment.
+Un droit d’appel existe seulement lors d’émission d’un avis de cotisation.
+Si vous avez des questions, n’hésitez pas de communiquer avec le vérificateur, Dave Ivey à (202) 983-8182.
+Veuillez agréer, Monsieur l’expression de nos sentiments les meilleurs.
+Paulette Martens
+Agent d’appel (AE/RPC)
+[6] Lors de l’audience, l’avocat de l’intimé a expliqué la raison pour lequelle l’avis de cotisation n’avait pas été établi :
+Me BÉDARD :
+La raison qu’il n’y a jamais eu de cotisation est que le montant n’a jamais été perçu. J’ignore les raisons. Ce que j’ai compris c’est que l’agent de l’Agence a été en congé et son remplaçant n’a pas procédé avec ce dossier-là ou cette vérification-là.
+Peu importe. Il n’y jamais eu de cotisation, il n’y a jamais eu des fonds qui ont été perçus, et le crédit dans le relevé de compte a été appliqué à la dette de M. Guevara.
+[7] Compte tenu des faits, je ne suis pas convaincu qu’il y ait une décision à contester en l’espèce et que, même s’il y en avait une, je pense que la requête devrait être accueillie pour une autre raison.
+Objection en vertu de l’article 103 de la Loi
+[8] Selon le paragraphe 103 (1) de la Loi, l’appelant avait 180 jours suivant la date de communication de la décision pour présenter une demande à la Cour. La décision a été communiquée le 26 juin 2002 et l'appelant devait donc présenter sa demande à la Cour au plus tard le 23 décembre 2002.
+[9] Il est clair que l'appelant n'a pas respecté les délais et n’a pas satisfait aux exigences qui sont énoncées au paragraphe 103(1) de la Loi en déposant un appel le 16 mai 2006 auprès de la Cour.
+[10] René Davidson travaille en tant qu’agent à l’Agence du revenu du Canada (« l’Agence »). Il indique dans son affidavit qu’il n’a pas pu confirmer que l’appelant a signifié un appel à la Cour dans les 90 jours suivant la décision comme l’exige l’article 103 de la Loi. De plus, il n’a pas pu confirmer que l’appelant a fait une demande de prorogation de délai pour déposer son avis d’appel devant la Cour dans les 90 jours suivant l’expiration des 90 jours suivant la décision du Ministre conformément à l’article 103 de la Loi.
+[11] Pour ces raisons, la requête est accueillie et le prétendu appel est annulé.
+Signé à Ottawa, Canada, ce 24ième jour de juillet 2007.
+« C.H. McArthur »
+Juge McArthur
+RÉFÉRENCE : 2007CCI434
+Nº DU DOSSIER DE LA COUR : 2006-1529(EI)
+INTITULÉ DE LA CAUSE : CARLOS GUEVARA a/t ABC SERVICES ET LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : le 30 janvier 2007
+MOTIFS DE L’ORDONNANCE PAR : L'honorable juge C.H. McArthur
+DATE DE L’ORDONNANCE : le 24 juillet 2007
+COMPARUTIONS :
+Pour l'appelant :
+Carlos Guevara
+Avocat de l'intimé :
+Me Julien Bédard
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appellant:
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

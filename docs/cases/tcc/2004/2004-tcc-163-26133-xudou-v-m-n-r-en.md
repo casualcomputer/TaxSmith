@@ -1,0 +1,271 @@
+---
+title: "Xudou v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26133/index.do"
+last_modified: "2004-03-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 163"
+citation2: ""
+neutral_citation: "2004 TCC 163"
+decision_date: "2004-03-05"
+language: "en"
+item_id: "26133"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4128
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:43:59.491000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e735f6681e8d052218040d67cd40fa55155bf8bba268c70caafee5fb3139d018"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Xudou v. M.N.R.
+
+- Citation: 2004 TCC 163
+- Decision date: 2004-03-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4128, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Xudou v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-05
+Neutral citation
+2004 TCC 163
+File numbers
+2003-1808(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-1808(EI)
+BETWEEN:
+CHRISTINA XUDOU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SAFE-TECH SECURITY INC.,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+_______________________________________________________________
+Appeal heard on January 14, 2004, at Montréal, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Pierre Lafontaine
+Counsel for the Respondent:
+Antonia Paraherakis
+Agent for the Intervenor:
+Dimistrios Alexiou
+_______________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision made by the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of March 2004.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+On this 30th day of March 2009
+Monica Chamberlain, Translator
+Citation: 2004TCC163
+Date: 20040305
+Docket: 2003-1808(EI)
+BETWEEN:
+CHRISTINA XUDOU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SAFE-TECH SECURITY INC.,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a determination dated February 11, 2003, concerning the period from September 2 to November 4, 2002, while the Appellant was working for Safe-Tech Security Inc., a company managed and controlled by her spouse, the sole shareholder. The work done by the Appellant was excluded from insurable employment because she and the payor were not dealing with each other at arm's length.
+[2] In making his decision, the Respondent relied on the following presumptions of fact:
+[translation]
+(a) The payor, Safe-Tech Security Inc., specializes in the sale and installation of alarm systems and surveillance cameras;
+(b) The sole shareholder of the payor is Dimistrios Alexiou, the spouse of the Appellant;
+(c) The payor deals with about 200 customers and has annual sales in the range of $200,000;
+(d) The only workers considered to be employees of the payor are the shareholder and the Appellant;
+(e) The payor also employs a number of technicians whom it considers to be subcontractors;
+(f) The shareholder's role consists primarily in handling the sale and installation of alarm systems or cameras, collecting accounts and monitoring customer satisfaction;
+(g) The Appellant, who has training in administration and finance, has provided secretarial and reception services for the payor since 1996;
+(h) Her duties include entering data and preparing files for each customer, preparing estimates, receiving service calls and reminding customers when necessary, making bank deposits, printing the monthly reports, handling collections, keeping the books and other duties relating to the office work;
+(i) The payor also uses the services of a chartered accountant, who prepares the tax returns and T-4 information slips;
+(j) The Appellant works in the family home;
+(k) Neither the payor nor the Appellant records the hours worked by the Appellant;
+(l) During the period in issue, the Appellant had no fixed hours of work. She had to be available seven days a week to deal with any unforeseen situation;
+(m) During the years prior to the period in issue, the Appellant worked an average of 40 hours per week;
+(n) The record of employment submitted by the payor for the period in issue shows that the Appellant worked 60 hours per week;
+(o) Her weekly remuneration was $600, regardless of the number of hours actually worked;
+(p) Prior to the period in issue, the Appellant worked for the payor for 40 hours per week, for weekly remuneration of $600, while during the period in issue she performed the same services, for the same weekly remuneration, but worked 60 hours per week, and this represented a 33 percent salary reduction;
+(q) On November 29, 2002, the Appellant cashed six cheques that applied to the weeks from October 4 to November 8, 2002;
+(r) The Appellant has four children, born on December 18, 1997, July 27, 1999, September 21, 2001, and October 22, 2002;
+(s) During 2001, the Appellant was off work for seven months;
+(t) During 2002, the Appellant was off work for 10 months;
+(u) Because of the confidential nature of the sale of alarm systems, the payer did not replace the Appellant during the periods she was off work;
+(v) The Appellant stated that during the periods she was off work, the shareholder performed the most urgent tasks;
+(w) Between the periods when she was on the payor's payroll, the Appellant continued to perform services for it, without remuneration, while she was off work and was receiving unemployment benefits.
+[3] The Appellant admits subparagraphs 5(a), (b), (e), (f), (g), (h), (i), (j), (k), (n), (r), (s), (t), (u) and (v). She denies subparagraphs (c), (d), (l), (m), (o), (p), (q) and (w).
+[4] The Appellant based her appeal on the grounds stated by her counsel in a letter dated April 30, 2003. The following excerpts are important to note:
+[translation]
+...
+It is our submission that the Tax Court of Canada is justified in intervening in this case for the following reasons:
+(a) In his determination, the Minister failed to have regard to all the circumstances as required by the Act, and considered certain factors that are of no relevance, and violated a principle of law;
+(b) The Minister's determination is the result of an inappropriate use of his discretion;
+...
+In his determination, the Minister had regard to the following irrelevant factors:
+(a) The late cashing of the paycheques by the Appellant is of no relevance to the remuneration paid, the terms and conditions of employment and the duration, nature and importance of the work performed;
+The Appellant was free to cash her paycheques when she wished and that has nothing to do with her contract of employment with Safe‑Tech Security Inc. It is an entirely irrelevant factor to which the Minister gave considerable consideration in his determination;
+(b) The Appellant's latitude in her work hours and the manner in which she managed her work is an entirely irrelevant factor, once the Minister had concluded in his determination that the payor was able to exercise its power to control and supervise the Appellant;
+(c) The erroneous fact that the Appellant banked the necessary number of hours at work before the births of her children is an erroneous and incorrect factor. In addition, that factor is entirely irrelevant and has nothing to do with the Appellant's contract of employment;
+In his determination, the Minister failed to have regard to the following relevant factors:
+(d) The payor's use of subcontractors during the period the Appellant was absent, to make up for her absence during her maternity leave;
+(e) The Appellant's statement concerning her work week varying between 40 and 60 hours per week. The Minister incorrectly established the Appellant's salary on a fixed basis of 60 hours per week;
+(f) That the Appellant received paid vacation days as vacation pay and simply stated in his determination, incorrectly, that the Appellant received no vacation pay;
+...
+[5] The Appellant is the wife of Dimistrios Alexiou, the sole shareholder of Safe-Tech Security Inc., a company incorporated in the early 1990s. She has worked for the company controlled by her spouse since 1996. In her application for review dated January 14, 2003, the Appellant summarized her job description with the company as follows:
+...
+The following letter is an objection to ruling # CEO0300 9111 5110.
+I, Christine Xudou have been employed by Safe-Tech Security Since 1996 to do the following duties:
+- data entry
+- Receptionist
+- Scheduling installations/service calls
+- Preparing files for new customers
+- Downloading
+- Filing
+- Updating file information (new codes, cancelled codes, changes...)
+- Payroll
+- Accounts receivable
+- Accounts payable
+- GST-TVQ etc...
+...
+[6] The evidence is that the Appellant undeniably performed work that was very important, if not essential, for the company controlled by her spouse. The work needed for the proper operation of the company was performed from an office in the family home.
+[7] The Appellant therefore did in fact work, and her work was essential for the proper operation of the company. In fact, Alain Lacoste, the person responsible for the Appellant's case, recognized the contribution made by the Appellant to the Intervenor company.
+[8] However, there is one unique aspect to this case. While the Appellant was such an essential employee, the evidence is that the remuneration she was paid for her work amounted to barely one full year in a five-year period. In other years, in five years, the Appellant received a salary for various periods, interspersed with periods when she received employment insurance and maternity benefits; the total of the periods of remunerated work amount to barely one year.
+[9] Who replaced the Appellant during periods when she was not receiving remuneration?
+[10] Her spouse worked more hours and used the services of subcontractors for certain work.
+[11] Did the Appellant do work during the periods she was off?
+[12] She and her spouse said no; the Appellant stated that she did not perform any work during the periods when she was not on the payroll. According to her, the work simply piled up or was done by her spouse in addition to his regular duties.
+[13] Why did the company not hire someone else during the periods when the Appellant had to be off work for the birth of one of her children or for other reasons? The only explanation was that the business was confidential.
+[14] The company's representative, the Appellant's spouse, placed great emphasis on the fact that this is a very specialized kind of business, in that it has to collect some extremely confidential information at its office. His position was that the presence of a third party could have harmful consequences for the proper operation of his business, if a third party or parties had had access to such information, suggesting that all third parties were unreliable or irresponsible.
+[15] No evidence other than the testimony was presented to show that the company had spent more on subcontractors during the periods when the Appellant was not on the payroll.
+[16] Dimistrios Alexiou placed great emphasis on the unique aspects of the business; on that point, one thing he said was that the company had to be available to listen to its customers' needs seven days a week, 24 hours a day. On that point, he gave the example of a restaurant that was full to bursting when the alarm went off, and an extremely rapid response was needed.
+[17] He also said that with his commercial and corporate customers the work often had to be done outside business hours, or in fact at night.
+[18] All of the facts submitted by both the Appellant and the Respondent raise a very important question. How do we imagine that this company, with the number of customers growing year by year, could do without the Appellant's services, which were unanimously recognized to be essential, for the equivalent of four years out of five?
+[19] To say, essentially, that the work that was not done by the Appellant during periods when she was receiving employment insurance or maternity benefits was done by her spouse, who was partially available because he made more frequent use of subcontractors, is an entirely implausible and even far-fetched explanation.
+[20] In addition to the ground on which the determination was based, the Respondent also took into consideration other less conclusive but certainly relevant facts. I am referring, in particular, to the following excerpts from the report prepared after the Appellant's case had been analyzed:
+Exhibit I‑1, tab 9, p. 5
+[TRANSLATION]
+Remuneration paid
+The worker received weekly remuneration of $600 ($10/hour) with a 60‑hour work week during the period in issue (September 2, 2002, to November 9, 2002). During the previous period of employment (March 5, 2001, to July 20, 2001), the Appellant received the same salary, but for shorter work weeks—40 hours ($15/hour); this represents a salary reduction from the period in issue. Who would agree to a 33 percent salary reduction for longer work weeks? A person dealing with the payor at arm's length would certainly not enter into this kind of agreement.
+In addition, we simply cannot believe that a person dealing with the payor at arm's length would have waited so long to cash her paycheques (see item 23, section 5, of this report).
+Item 23 of section 5
+Paycheques for
+September 6, 2002
+September 13, 2002
+September 20, 2002
+September 27, 2002
+October 4, 2002
+October 11, 2002
+October 18, 2002
+October 25, 2002
+November 1, 2002
+November 8, 2002
+Cashed on
+September 30, 2002
+September 30, 2002
+October 18, 2002
+illegible
+November 29, 2002
+November 29, 2002
+November 29, 2002
+November 29, 2002
+November 29, 2002
+November 29, 2002
+Terms and conditions of employment
+The payor has an opportunity to exercise its power of control and supervision of the Appellant, having regard to the relationship between the two parties; it is obvious that Dimitrios Alexiou of Safe‑Tech Security Inc. has complete confidence in the Appellant and allows her considerable latitude in her work hours and the manner in which she manages her work.
+It is clear, however, that a person dealing with the payor at arm's length would never have waited so long to cash his or her paycheques.
+Duration of the work
+Having regard to the importance of the duties performed by Christina Xudou (see item 13(a) to (u) of section 5 of this report) and the time required to perform them (60 hours per week), it seems improbable that when she was off work, the president would be capable of performing his duties and the worker's duties, because from that perspective we would be looking at 100‑hour work weeks for the payor, for nearly four non-consecutive years (1998 to 2002).
+We might therefore think that the worker reconciled her household duties and her duties for the payor year round (with the exception of the weeks of her children's births, obviously), and she was never completely off work, particularly given that she lives at the place of business. It is unimaginable that a business would employ someone with a 60‑hour work week and specify that her position is vital to the company, and at the same time do without her for nearly four non-consecutive years!
+In addition, the Appellant's employment history over five years demonstrates that she stated that she returned to work for the payor for enough weeks of employment before her children were born to be able to claim employment insurance maternity benefits.
+Nature and importance of the work
+The work performed by the Appellant is real, important and entirely justified in terms of the needs of the business. We cannot believe that the company could have done without the Appellant's services for four non-consecutive years, even though she told us that the payor replaced her and at the same time performed his own duties as president of the company.
+[21] The explanation offered by the Appellant and her spouse, Dimistrios Alexiou, the representative of Safe-Tech Security Inc., are quite simply implausible. It is unimaginable that such an important person, who held a position so strategic for the employer, would be called on in the course of the company's business for only the equivalent of one year out of a five-year period.
+[22] I am entirely persuaded that the Appellant worked without interruption, other than for very short periods when her children were born.
+[23] In fact, I noted that one of the parts of the period in issue, the portion from September 2 to November 9, 2002, included a period when she plainly did not work: the days before and after October 22, 2002, the date on which she gave birth to one of her children. That was admitted by the Appellant, in paragraph (r).
+[24] Where the parties to a contract of employment are not dealing with each other at arm's length, the analysis must take into account periods that are often longer than the periods described in the records of employment, given that the costs and benefits may be discernable outside the period when the person was on the payroll and was remunerated.
+[25] For example, because of the person's proximity to the payor, a person who is not dealing with the payor at arm's length may do all or part of the same work without remuneration, after receiving a separation slip. In that case, it is obvious that the length of the period of paid work was not established based on the needs of the business or determined by essentially economic factors.
+[26] In this case, the evidence submitted by the Appellant and the Intervenor to discredit the exercise of discretion is based on implausible explanations and grounds.
+[27] Where parties not dealing with each other at arm's length collaborate, help each other and support each other, this will not necessarily have consequences for the contract of employment there may be or have been between them; where things are completely different, however, is when remuneration was paid for the same duties during one period according to a certain work schedule, while during another period, or outside that work schedule, no remuneration was paid. In other words, the same duties were performed, but on a volunteer basis or free of charge. Sometimes remuneration is paid, sometimes it is not.
+[28] This case is also an excellent example of the need to have regard to certain facts that may have taken place outside a period in issue. In this case, the Appellant and the payor allegedly agreed to two different work schedules for the performance of work of the same quality and quantity. At one point, the Appellant was working 40 hours and at another point she was working 60 hours, for the same remuneration. That is possible and plausible between people not dealing with each other at arm's length, but not between unrelated parties.
+[29] In this case, the Respondent did an exhaustive analysis of all the relevant facts; he did not ignore or forget anything that could have justified a conclusion other than the one reached. The determination resulted from a judicious analysis of the relevant facts. The various factors taken into consideration were assessed fairly and reasonably and the conclusion reached is also entirely logical and appropriate.
+[30] Contrary to the unsupported assertions by the Appellant, who had the burden of proof, the Respondent did not assign extreme or excessive weight to certain facts and did not exclude any factor that could have called for a different conclusion from his analysis.
+[31] I therefore conclude that the Appellant and the Intervenor have not discharged their burden of proof by establishing, on a balance of probabilities, that the conclusions reached by the Respondent were unreasonable, having regard to the facts analyzed. Rather, the evidence established that the discretion was exercised in a judicious and irreproachable manner, by taking into consideration all of the relevant evidence, with discernment and on a fair balance.
+[32] The evidence is that the Appellant performed work that was essential to the company managed by her spouse. At the same time as she was performing her essential work, the Appellant gave birth to a fourth child. I do not doubt for an instant what the Appellant and her husband had to do to get through that.
+[33] The insurability of employment must be determined on the basis of rational criteria associated with a business relationship in which decisive weight should not be placed on compassionate family considerations. In this case, there is no doubt that there was an agreement under which the Appellant did everything she could to assist her spouse. The extent to which she was available, and the work she did, are reflected in the payroll and on the books, under an apparent contract of service.
+[34] However, the evidence submitted failed to demonstrate that the work was done on terms and conditions that were comparable or similar to what a third party would have been given.
+[35] The analysis of the various factors considered justified the determination that the work performed by the Appellant was excluded from insurable employment.
+[36] I did not note or notice anything that would discredit the quality of the work in terms of the exercise of discretion. The conclusion reached, to which the appeal relates, is logical and reasonable. The facts relied on leave no doubt that a third party would never have agreed to a substantially similar contract of employment.
+[37] Accordingly, the appeal is dismissed.
+Signed at Ottawa, Canada, this 5th day of March 2004.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+On this 30th day of March 2009
+Monica Chamberlain, Translator
+CITATION:
+2004TTC163
+COURT FILE NO.:
+2003-1808(EI)
+STYLE OF CAUSE:
+Christina Xudou
+and The Minister of National Revenue
+and Safe-Tech Security Inc.
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+January 14, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+March 5, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Pierre Lafontaine
+Counsel for the Respondent:
+Antonia Paraherakis
+Agent for the Intervenor:
+Dimistrios Alexiou
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Pierre Lafontaine
+City: Montréal, Quebec
+For the Respondent: Morris Rosenberg, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

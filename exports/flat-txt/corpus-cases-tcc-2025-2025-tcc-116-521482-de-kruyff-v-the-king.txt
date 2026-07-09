@@ -1,0 +1,147 @@
+Title: De Kruyff v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521482/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-116-521482-de-kruyff-v-the-king.md
+Document type: case_law
+Last modified: 2025-08-25
+
+# De Kruyff v. The King
+
+- Citation: 2025 TCC 116
+- Decision date: 2025-08-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5455, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+De Kruyff v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-08-25
+Neutral citation
+2025 TCC 116
+File numbers
+2022-2305(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2022-2305(IT)G
+BETWEEN:
+PATRICK DE KRUYFF,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on April 7, 2025 at Toronto, Ontario
+Before: The Honourable Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Grant MacDonald
+JUDGMENT
+WHEREAS the Court has published its reasons for judgement regarding this appeal on this date.
+NOW THEREFORE THIS COURT ORDER THAT:
+The appeal concerning the relocation expense deduction for the 2020 taxation year is allowed because such expenses were incurred during an eligible relocation within the meaning of the Income Tax Act;
+The matter is referred to the Minister for reconsideration and reassessment.
+Costs payable to the Appellant are fixed in the amount of $1,000, plus disbursements incurred.
+Signed at Ottawa, Ontario, this 25th day of August 2025.
+“R.S Bocock”
+Bocock J.
+Citation: 2025 TCC 116
+Date: 20250825
+Docket: 2022-2305(IT)G
+BETWEEN:
+PATRICK DE KRUYFF,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction The Extent of the Move
+[1] The Appellant Mr. De Kruyff, like many other office workers in the GTA, battles traffic travelling each day to the office. Flex time does not apply to his job. Mr. De Kruyff must be at his investment management job while the financial markets are open in order to carry out his duties. Hence, he has no choice about when and where he must go. Like many others in the 9 to 5 life, he chooses from a limited menu: where he resides, where he works and which route he drives to get to both each business day. Mr. De Kruyff altered both of the first two to optimize his health, time and distance. He sought to deduct the relocation expenses to do so. The Minister of National Revenue said the expenses were not eligible.
+[2] Subject to various conditions, certain provisions of the Income Tax Act (the “Act”) allow a taxpayer to deduct the various moving expenses connected with such a change of job and residence. Mr. De Kruyff expended almost $130,000 on account of a residence change necessitated by his new position. The CRA believes the moving costs (“relocation expenses”) connected with those choices are not eligible relocation expenses within the meaning of the Act. The Minister points to one reason alone: as calculated by the CRA, the reduction in the travel distance between the old residence and the new one does not exceed 40 kilometres.
+II. Additional Facts Where Mr. De Kruyff works, previously lived and lives now [3] Mr. De Kruyff changed his employment in the financial services industry from Canada life to the McFadyen Group. His office is located at 1 Adelaide St. in Toronto. He originally lived at a residence on Fairway in Newmarket (“old residence”). In January 2020, he moved to a house on Kane Rd. in Mississauga (“new residence”).
+[4] There is no dispute between the parties regarding most of the facts and factors necessary to establish the move from the old residence to the new residence as an eligible relocation within the meaning of the Act. The Minister does not dispute the move, the incurring, evidence or quantum of the expenses, or the necessity of the move to accommodate the reduction in travel time from residence to workplace. The parties also agree that the distance from the new residence to Mr. de Kruyff’s office is 26 kilometres.
+The “shortest normal route” [5] The sole and only dispute in this appeal is whether the travel distance difference between the new residence and the old residence (“travel distance”) is 40 kilometres or greater as required by the Act (the “40km threshold”). As seen below, this is because the Minister utilized a different shortest normal route from the old residence to the office than that used by Mr. De Kruyff. Meaningfully, the Minister’s choice results in a distance of approximately 32.8 kilometres and Mr. De Kruyff’s yields a distance of 47.4 km. Since the eligible fall line for the 40 KM threshold is 40 kilometers or greater, the outcome depends on who is correct. Both parties confirm they relied upon Google Maps to obtain the travel distance and related data which informed their conclusions as to whether the distance of the move met or missed the 40km threshold.
+Which route Mr. De Kruyff took to the office from the old residence [6] For each day of the week Mr. De Kruyff produced a series, five in all, of Google Maps which detailed the recommendation of that software algorithm regarding the route he ought to choose. Four days of the week, Monday to Thursday, the suggested homeward route directed Mr. De Kruyff to swing further west, use Highway 427, then travel east, once north of the city of Toronto, back to Highway 400 then to Highway 9 in an easterly direction to his old residence (“western route”) To the office, the route was simply in reverse order. On Friday, Mr. De Kruyff would further shorten the distance somewhat. The daily average each week was 47.4 kilometers.
+The Minister’s view [7] By contrast, the CRA agent who testified virtually from her residence in a suburb of Vancouver, Ms. Choi, presented the Minister’s Google Maps versions. This map selected an “eastern route”. That homeward route directs taking the Gardiner Expressway to the Don Valley Parkway/404 north to Highway 9 then travelling west to the old residence. The single map for this particular route derived from Google Maps yielded a considerably shortened distance of 32.8 kilometers.
+[8] The parties also agree on the outcome of the appeal should the other party be correct in the travel distance preferred by the Court. If the Court agrees with the Minister that the eastern route is the shortest normal route, then the appeal should be dismissed. The selection of the western route would allow the appeal because the travel distance renders the move an eligible relocation within the meaning of section 248 (1).
+Why the difference?: Google from afar may be far from good? [9] Since both parties used the same computer software algorithm one might well ask why the difference in suggested route? In testimony, Ms. Choi confirmed that she had conducted her Google Maps search using the geographical coordinates at approximately 4:45pm. Mr. de Kruyff did the same. Unfortunately, when Ms. Choi measured the distance on various streets and highways, she was uploading “real-time” traffic data from Ontario. However, the “actual time” in Ontario was not 4:45pm. Ms. Choi admitted under cross-examination that the local time she selected was in fact approximately 7:45pm. Judicial notice and the empirical common sense of any motorist in the city of Toronto divines that traffic conditions on the Don Valley Parkway/404 are dramatically different between 4:45pm and 7:45pm of an average weekday, and particularly those of Monday through Thursday utilized by Mr. de Kruyff.
+East is least but west is best? [10] Mr. de Kruyff’s submissions may be summarized as follows. He argues that he used the same input tools to calculate the shortest normal route as the CRA. He has just done so correctly using the proper time parameters of the actual time travel required by his job. When one does that, his western route is chosen four out of five days. A reasonable person would follow and adhere to the route suggested by Google Maps which he has done. Frankly, so has the CRA, just incorrectly because of the time zone faux pas. Further, route selection has changed since the use of printed roadmaps. The concept of the shortest normal route is not offended by the updated utilization of computer algorithms, which when properly deployed, render consistent sets of input data to determine whether the travel distances fit within the parameters necessary to determine whether a move is an eligible relocation or not. New highways, alternative routes in large urban centres, regionalization and the use of AI should now be used to determine whether the established tests within existing case law has been adhered to or not.
+The law not Google provides the right direction for the court [11] Respondent’s counsel did not address the incorrect three-hour time difference in the Minister’s use of Google Maps versus that of Mr. De Kruyff; Google Maps was simply ignored. Instead, Respondent’s counsel focused upon avoiding the historical “litigation trap” which has led to the refined conclusion that the shortest normal route is not a subjective measure of the route chosen by a taxpayer, a direct line as the crow flies or “38 turn slalom course”: Nagy v. HMQ, 2007 TCC 394. Rather the choice of route is an objective measure combining the shortest route with that of the normal route of the travelling public: Giannakopoulos v. MNR 1995 CarswellNat 415, [1995] 2 CTC 316. And in this appeal, that is the eastern route used by the Minister.
+III. The Law (a) Statute [12] Subsection 248(1) of the Act provides the relevant definition:
+eligible relocation means a relocation of a taxpayer in respect of which the following apply:
+(a) the relocation occurs to enable the taxpayer
+(i) to be employed at a location (in section 62 and this definition referred to as “the new work location”) that is, in Canada, or
+(ii) [….] to be a student in full-time attendance enrolled in a program at a post-secondary level at a location of a university, college or other educational institution (in section 62 and this definition referred to as “the new work location”),
+(b) the taxpayer ordinarily resided before the relocation at a residence (in section 62 and this definition referred to as “the old residence”) and ordinarily resided after the relocation at a residence (in section 62 and this definition referred to as “the new residence”),
+(c) both the old residence and the new residence are in Canada, and
+(d) the distance between the old residence and the new work location is not less than 40 kilometres greater than the distance between the new residence and the new work location; (réinstallation admissible).
+(b) Jurisprudence [13] The parties effectively and essentially agree concerning the definition of route to be used to calculate whether the 40km threshold has been met: the “shortest normal route”. Referring to the leading controlling authority, Nagy (as cited above), Justice Webb, as he then was, in Lund v. HMQ. 2010 TCC 252, stated:
+[9] In Nagy v. The Queen, 2007 TCC 394, 2007 D.T.C. 1208, [2007] 5 C.T.C. 2642, after referring to the decision of the Federal Court of Appeal in Giannakopoulos, then Chief Justice Bowman stated that:
+11. Counsel invites me to read the passage from Giannakopoulos as requiring that a mechanical measurement of all possible routes should be made and the shortest chosen, regardless of whether any reasonable person would follow such a route. The route suggested by the respondent as the shortest involves 18 left turns and 19 right turns and requires travelling on about 40 roads, some rural, as well as driving through the heavily congested City of Brampton. I attach as Schedule A, Tab 4 of Exhibit R-1, which sets out the multiplicity of zigging and zagging that the Crown suggests should be followed to achieve the “shortest” route which it says is mandated by the Federal Court of Appeal. The respondent's approach illustrates simply the triumph of mechanical irrationality over common sense. No rational person would follow such a route. Indeed, anyone trying to follow those instructions would get lost unless he or she had a navigator in the passenger seat giving directions. The approach advocated by the Crown represents an attempt to reverse the salutary effect of the Federal Court of Appeal's decision which endeavours to substitute a measure of common sense and rationality for the unthinking mechanical approach that prevailed prior to Giannakopoulos.
+12. The Federal Court of Appeal suggests no such robotic approach. In his reasons Marceau J.A. speaks of a “realistic measurement of travelling distance”. He also says that “the idea of the shortest route that one might travel to work should be coupled with the notion of the normal route to the travelling public” (emphasis added). His use of “realistic” and “normal” implies that reason and common sense should play a part in the determination of distance. The 38 turn slalom suggested by the Crown is neither realistic, nor normal, nor reasonable, nor commonsensical. In some ways it is even more nonsensical than the straight line approach. The straight line approach would at least make sense to a crow. The 40 road zigzag approach makes sense to no one.
+[9] As noted by Justice Marceau above:
+The idea of the shortest route that one might travel to work should be coupled with the notion of the normal route to the travelling public. Thus, the shortest normal route would be a preferable test to the straight line method, for it is both realistic and precise. (emphasis added)
+[11] The Federal Court of Appeal specifically rejected a measurement based merely on the particular individual’s normal route and instead stated that the test should be the “shortest normal route”. In this case the route suggested by the Respondent (the QEW) is clearly shorter than the Appellant’s chosen route (as acknowledged by the Appellant) and was the route that the Appellant would travel downtown when it was not busy. It is clear from the map that was submitted and by the directions given by the Appellant that the Respondent’s route does not suffer from the same problems as the route suggested by the Crown in Nagy. It is also clear from the traffic volumes as noted by the Appellant that many people use the QEW route. The Appellant’s problem was that too many people used the QEW route. If fewer people would have been using the QEW the Appellant would have taken this route as evidenced by his admission that he would use this route when he travelled downtown at times other than the early morning commuting time.
+[12] Unfortunately for the Appellant the test is based on the distance of the “shortest normal route”. The test is not based on the route which takes the least amount of time. The Appellant has not established that the QEW was not a normal route. It seems to me that both routes could be considered normal routes (given the large volumes of traffic on each route). The test is then applied based on the shortest normal route, determined by distance, which would be the QEW.
+[14] Conclusively, Justice Webb indicates the shortest normal route is not based upon which route is quickest, but rather which route most people would normally use. The Court presently anchors its decision in the evidence before it of which route, in regards to the distance between the old residence and the workplace, most people would currently select.
+IV. Analysis The law pre-dates ubiquitous Google Maps [15] In Lund, as in Nagy, the route selection process was not automated, but paper based. In this appeal, both the Minister’s agent and Appellant alike used Google Maps for selection of the shortest normal route. Google Maps itself utilizes a real time algorithm to measure distance, time and road conditions to recommend its version of the shortest normal route.
+[16] Of note, the Income Tax Act does not specify a particular method for measuring geographic distance between two points. This statutory omission necessitated judicial adoption of the most reliable and objective measurement standard available: shortest normal route.
+Can the Court ignore exclusive use of Google Maps in this case? [17] Had the Respondent argued that the Minister’s agent did not use Google Maps, but rather deployed analog maps to calculate the shortest normal route, then the Court would consider those different evidential inputs. But that is not the evidence in this case. Parliament neither framed the test for determining the 40km threshold nor defined the shortest normal route.
+[18] In analogous jurisprudence, the Tax Court and the Federal Court of Appeal created that framework. In Nissim v. R [1999] I CTC 2199, at page 2125, Justice Bowman applicably said:
+Parliament did not define the expressions “outlay ... of capital” or “payment on account of capital”. There being no statutory criterion, the application or non-application of these expressions to any particular expenditures must depend upon the facts of the particular case. We do not think that any single test applies in making that determination and agree with the view expressed, in a recent decision of the Privy Council, B.P. Australia Ltd. v. Commissioner of Taxation of the Commonwealth of Australia, (1966) A.C. 224, by Lord Pearce. In referring to the matter of determining whether an expenditure was of a capital or an income nature, he said, at p.264:
+The solution to the problem is not to be found by any rigid test or description. It has to be derived from many aspects of the whole set of circumstances some of which may point in one direction, some in the other. One consideration may point so clearly that it dominates other and vaguer indications in the contrary direction. It is a commonsense appreciation of all the guiding features which must provide the ultimate answer.
+One cannot read the decision of the Supreme Court of Canada in Symes v. R. (1993), 94 D.T.C. 6001 (S.C.C.) (which otherwise has nothing to do with this case) without being struck by that court's recognition of and sensitivity to the changing realities and exigencies of modern life.
+[19] The commonsense appreciation of the feature in this appeal centres on the use by both parties of the same data by employing a web-based algorithm to measure the shortest normal route with then current, or at least likely predictive, traffic and road conditions which paper maps cannot give. Current social and human habit grasped an updated method to select a shortest normal route. In short, most people who drive each day have the software and consult it to select the route they would follow because it removes variables not otherwise detectable by paper maps. Further, the use of “self-driven” cars looms in the near future. Such vehicles would invariably follow the algorithmic route, or western route in this case, as the shortest normal route. Mr. DeKruyff followed that recommended Google Maps western route 4 out of 5 days; presumably the CRA officer would have selected the western route but for her time of travel error.
+Should Google Maps data inform for the “shortest normal route”? [20] As noted above, the Tax Court has not
+[21] historically resiled from updating critical inputs to infill and inform longstanding phrases themselves, judicially framed to flesh out the Act. The conditions for any such transition have been established: changing technology, wide-acceptance and affinity to the existing term itself: Yankson v. The Queen, 2005 TCC 751[1].
+The Court adapts when habits change how taxpayers live, work and cope
+[22] In Krause v. Canada, 2004 TCC 594, the Court recognized attendance at an educational institution by way of the internet to meet the requirements of “attending” under the Act. At paragraph 18, A.C.J Bowman stated:
+… to say that someone attends university electronically by way of the internet does no violence at all to my understanding of the word "attend". We must recognize that this is 2004 and that whereas even 25 years ago to attend university required that one turn up physically at classes, technology has moved ahead so dramatically that it is entirely possible to attend lectures by seeing and hearing them on a computer.
+Bowman A.C.J. concluded:
+I think it is strongly arguable that full-time attendance at a foreign university can include full-time attendance through the internet or on-line as is the case here. That view conforms to common sense and to the reality of modern technology. If there continues to be doubt on the point Parliament should move to resolve that doubt.
+[23] That changing technology is the embrace of Google Maps in this context and has resulted in taxpayers, or at least Canadians who commute daily, discarding paper maps.
+[24] In Gabie v R, 1 CTC 2352, this Court, now a quarter century ago, foresaw the important uses or software engineering:
+[23] Software engineering is an important function in the present economy. Engineering today includes more than a "hands-on" type of activity resulting in a physical attribute, as submitted by counsel for the respondent. The increasing flow of information and the commercial reality of the modern world has made the development of "databanks" and "integrated systems" important in the construction of bridges, sanitation systems, buildings, roads, hydro, hydraulic and other projects that are traditionally thought of as engineering projects and their development, as explained by Mr. Gabie, constitutes an independent engineering activity. As stated by Iacobucci J., in R. v. Salituro [1991] 3. S.C.R. 654, at p. 670:
+... Judges can and should adapt the common law to reflect the changing social, moral and economic fabric of the country. Judges should not be quick to perpetuate rules whose social foundation has long since disappeared. Nonetheless, there are significant constraints on the power of the judiciary to change the law ... The judiciary should confine itself to those incremental changes which are necessary to keep the common law in step with the dynamic and evolving fabric of our society.
+Wide acceptance and use of Google Maps
+[25] The commercial reality of the modern world employs GPS coordinates and digital mapping in a ubiquitous manner for driving in urban and sub-urban Canada. Google Maps (or other lesser used software) is widely accepted and used, arises from technological change and simply substitutes for all using it (in this case both parties) a new data reservoir from which to inform, calculate and choose the shortest normal route, again when correctly calculated.
+[26] Essentially and prudentially, the measure and test, shortest normal route, remains unaltered and unmaligned. The jurisprudence stands the test of time, while the passage of time in conjunction with technology simply changes how data are collected to determine the shortest normal route.
+No fear of re-setting the litigation trap – the term is not maligned
+[27] Respondent’s counsel cautions against allowing this appeal because such a decision will reset the litigation trap which Nagy and Giannakopoulos removed. That risk will not likely recur. The test remains the same: shortest normal route. Parties can easily set the parameters to summon the results: as both parties would have in this case had they been in the same time-zone (or accommodated for same) when deploying the same software. Ignoring the changing dynamic, which is the use of this ubiquitous software, renders the law obsolete, unreflective and frankly inaccurate. This more likely “traps” the Court and the law in a time now past to which paper-based lawyers and judges nostalgically cling but from which the broader public has enthusiastically sprung by presently tapping smartphones in their hands and commanding the GPS in their cars. The new norm of shortest normal route most people use deploys Google Maps to select such route.
+[28] Moreover, the use of Google Maps to provide data to inform and choose the shortest normal route does not offend or cause “violence” to that established test, the Act or common sense. Since its use applies to both taxpayers and the Minister equally without any more variance than paper-based road maps, it will cut both ways to render some routes under the 40km threshold and some routes over. It will apply as well to the old residence to workplace and new residence to workplace, when used and submitted to the Minister and her agents. Moreover, it will also provide the optimal shortest normal route which the public normally uses and not a “38 turn slalom” or an “as the crow flies” route because the software factors in existing roads, the direction, congestion and time of day.
+[29] For these reasons the appeal is allowed. The average daily travel distance saved by the move between the shortest normal route from the old residence to the workplace and the new residence to the workplace, is greater than 40 kilometres. The 40km threshold established by the Act has been met and the relocation expenses are deductible.
+[30] Costs are awarded to the Appellant and fixed at $1,000 plus disbursements.
+Signed at Ottawa, Ontario, this 25th day of August 2025.
+Bocock J.
+CITATION:
+2025 TCC 116
+COURT FILE NO.:
+2022-2305(IT)G
+STYLE OF CAUSE:
+PATRICK DE KRUYFF AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 07, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Randall S. Bocock
+DATE OF JUDGMENT:
+August 25, 2025
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Grant MacDonald
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

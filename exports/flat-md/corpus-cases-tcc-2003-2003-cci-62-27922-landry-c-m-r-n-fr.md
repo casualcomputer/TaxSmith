@@ -1,0 +1,152 @@
+---
+title: "Landry c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27922/index.do"
+last_modified: "2003-02-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 62"
+citation2: ""
+neutral_citation: "2003 CCI 62"
+decision_date: "2003-02-24"
+language: "fr"
+item_id: "27922"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1705
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:32:17.809000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c2cc0ea18ab172c8187acdfcf77343c6a37997752978f2a68317d777f5353964"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Landry c. M.R.N.
+
+- Citation: 2003 CCI 62
+- Decision date: 2003-02-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1705, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landry c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-02-24
+Référence neutre
+2003 CCI 62
+Numéro de dossier
+2001-4605(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2001-4605(EI)
+ENTRE :
+GILLES LANDRY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_______________________________________________________________
+Appel entendu le 19 décembre 2002 à Bathurst (Nouveau-Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Stéphanie Côté
+_______________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre est confirmée, selon les motifs du jugement ci-joints.
+Signé à Edmundston (Nouveau-Brunswick), ce 24e jour de février 2003.
+« François Angers »
+J.C.C.I.
+Référence : 2003CCI62
+Date : 20030224
+Dossier : 2001-4605(EI)
+ENTRE :
+GILLES LANDRY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Angers, C.C.I.
+[1] Il s'agit d'un appel visant une décision du ministre du Revenu national (le « ministre ») en date du 11 septembre 2001 selon laquelle l'emploi qu'occupait l'appelant auprès de Roger Roy Trucking Ltd. (la « payeuse ») durant la période allant du 5 janvier au 11 juillet 1998 était un emploi assurable, les heures assurables étaient de 945 et les gains assurables de 8 736 $. L'appelant n'interjette appel qu'à l'égard du nombre d'heures assurables accumulées au cours de sa période d'emploi auprès de la payeuse.
+[2] En prenant sa décision, le ministre s'est basé sur les hypothèses de fait suivantes, lesquelles ont été admises ou niées par l'appelant :
+a) La payeuse opère une compagnie de transport pour produits divers; (admis)
+b) l'appelant travaillait comme chauffeur de camion pendant la période en litige; l'appelant aidait aussi quelquefois à l'entretien des camions du payeur; (admis)
+c) l'appelant était payé selon un taux établi pour chaque voyage qu'il faisait; (admis avec application)
+d) la payeuse répartissait les payes de l'appelant sur des semaines de 60 heures à 700,00$ chacune plus la paye de vacances de 28,00$; (admis)
+e) le registre de paye de la payeuse et le relevé d'emploi indiquent 12 semaines de travail entre le 16 février et le 11 juillet 1998:
+la semaine du 16 au 21 février,
+les semaines entre le 30 mars et le 16 mai,
+les semaines entre le 25 mai et le 12 juin,
+la semaine du 6 au 11 juillet;
+(admis)
+f) l'appelant a fait plusieurs voyages pour la payeuse pendant les semaines qui ne sont pas rapportées au registre de paye; (nié)
+g) la payeuse n'a aucune documentation sur le nombre total d'heures travaillées par l'appelant, ni sur les dates des voyages faits par l'appelant; (nié)
+h) le relevé d'emploi émis à l'appelant ne reflète pas les heures de travail de l'appelant. (nié)
+[3] L'appelant a produit en preuve la correspondance qu'il a échangée avec l'Agence des douanes et du revenu du Canada. Il a expliqué qu'à la fin de la période en litige, il travaillait à son propre compte. Il a affirmé avoir travaillé durant douze semaines au cours de la période tel qu'indiqué sur son relevé d'emploi (A-4). Il a également affirmé que, pendant les semaines où il n'avait pas accumulé le nombre d'heures prévues à titre de chauffeur, il avait travaillé à titre de mécanicien pour la payeuse dans le but de combler le déficit. Il a déclaré n'avoir jamais travaillé pour la payeuse en tant que chauffeur avant ou après les semaines où il a été payé. Il faut souligner que le relevé d'emploi indique le 16 février 1998 comme premier jour de travail.
+[4] De son côté, l'intimé a fait témoigner Charles Albert, agent d'enquête et de contrôle. Ce dernier a fait enquête auprès de la payeuse et de l'appelant. Selon l'information recueillie, il lui a été possible de reconstituer les faits en ce qui concerne les semaines où l'appelant aurait travaillé sans être payé, mais que la payeuse aurait cumulées jusqu'à ce qu'il lui soit possible d'attribuer à l'appelant une pleine semaine de travail, et, par la même occasion, de lui verser son plein salaire. C'est avec l'aide de lettres de voiture (I‑2 et I‑4) et d'une facture de livraison de glace qu'il a pu comparer les dates indiquées sur ces documents et celles indiquées sur le relevé d'emploi. Il en est arrivé à la conclusion qu'il avait affaire à un scénario d'accumulation d'heures de travail et que les périodes travaillées ne correspondaient pas au relevé d'emploi. D'ailleurs, le représentant de la payeuse, monsieur Roger Roy, a admis à monsieur Albert qu'il faisait ce que l'on appelle du « bancage », soit de l'accumulation d'heures.
+[5] Poursuivant son témoignage, monsieur Albert a relaté que, à la suite d'une plainte d'un autre employé de la payeuse, il a fait une autre enquête dont les résultats ont été établis dans un tableau produit sous la cote I‑5. À partir des lettres de voiture obtenues de la payeuse, il lui a été possible de reconstituer les dates des voyages effectués par les chauffeurs de la payeuse, dont l'appelant, de même que les dates où ils ont acheté du carburant. Le tableau I‑5 nous permet de conclure que l'appelant a travaillé durant des heures au cours des semaines où il n'a pas été rémunéré.
+[6] Monsieur Albert n'a pas réussi à obtenir le registre de paye ou quelqu'autres documents de la payeuse, tels que les carnets de route des chauffeurs, qui lui auraient permis de reconstituer l'horaire de travail de l'appelant. Ou ces documents ont été détruits, ou ils n'existaient tout simplement pas.
+[7] L'appelant a contesté la validité d'une des factures (I‑3) utilisées par monsieur Albert dans le cadre de son enquête. Quoique la facture ne semble pas identifier le chauffeur de façon précise, l'appelant savait qu'il s'agissait d'une livraison de glace et semblait être au courant.
+[8] Madame Johanne Robichaud est agent d'appel à l'Agence des douanes et du revenu du Canada. Elle avait comme mandat de déterminer les heures assurables de l'appelant. Pour ce faire, elle a analysé les faits recueillis par le témoin Charles Albert et a communiqué avec Roger Roy, le représentant de la payeuse. Ce dernier lui a confirmé que l'appelant et les autres chauffeurs n'avaient jamais travaillé durant le même nombre d'heures ni touché le même salaire d'une semaine à l'autre. La raison pour laquelle le registre de paye de la payeuse indique toujours un salaire de 728 $ par semaine s'explique par le fait que la payeuse procédait à l'accumulation des heures et des salaires.
+[9] L'appelant a signé des lettres de voiture à des dates où son nom ne figure pas au registre de paye. À partir du 5 janvier 1998, il a acheté du carburant et effectué des voyages bien qu'il n'était pas inscrit au registre de paye. Par ailleurs, le 16 février 1998 est indiqué comme premier jour de travail sur son relevé d'emploi.
+[10] Comme il est impossible de reconstituer l'horaire de travail ou la rémunération hebdomadaire de l'appelant, la Cour ne peut établir le nombre d'heures où il a réellement travaillé durant la période. De plus, la preuve a révélé que l'appelant était rémunéré à un taux préétabli par voyage selon la destination et non selon un taux horaire.
+[11] Devant cette situation, madame Robichaud a donc appliqué les dispositions suivantes des paragraphes 10(4) et 10(5) du Règlement sur l'assurance‑emploi :
+(4) Sauf dans les cas où le paragraphe (1) et l'article 9.1 s'appliquent, lorsque l'employeur ne peut établir avec certitude ni ne connaît le nombre réel d'heures d'emploi assurable accumulées par une personne pendant sa période d'emploi, la personne est réputée, sous réserve du paragraphe (5), avoir travaillé au cours de la période d'emploi le nombre d'heures d'emploi assurable obtenu par division de la rémunération totale pour cette période par le salaire minimum, en vigueur au 1er janvier de l'année dans laquelle la rémunération était payable, dans la province où le travail a été accompli.
+(5) En l'absence de preuve des heures travaillées en temps supplémentaire ou en surplus de l'horaire régulier, le nombre maximum d'heures d'emploi assurable qu'une personne est réputée avoir travaillées d'après le calcul prévu au paragraphe (4) est de 7 heures par jour sans dépasser 35 heures par semaine.
+[12] Comme l'appelant a travaillé du 5 janvier au 11 juillet 1998, le ministre, en appliquant la formule, est arrivé à un total de 945 heures.
+[13] Le ministre a fait la preuve de toutes les allégations de fait niées par l'appelant. Les faits établis ont clairement démontré que le relevé d'emploi était erroné et que l'appelant a travaillé en dehors des semaines qui y sont indiquées. Même si l'appelant maintient que le relevé d'emploi est exact, je ne peux ignorer ces faits. Je ne peux donc accorder de crédibilité à la version de l'appelant. Ce dernier n'a apporté aucune autre preuve appuyant sa détermination du nombre d'heures d'emploi assurable. En conséquence, je dois maintenir la détermination du ministre. Pour ces motifs, l'appel est rejeté.
+Signé à Edmundston (Nouveau-Brunswick), ce 24e jour de février 2003.
+« François Angers »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI62
+No DU DOSSIER DE LA COUR :
+2001-4605(EI)
+INTITULÉ DE LA CAUSE :
+GILLES LANDRY
+et Le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Bathurst (Nouveau-Brunswick)
+DATE DE L'AUDIENCE
+19 décembre 2002
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge François Angers
+DATE DU JUGEMENT :
+24 février 2003
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimé :
+Me Stéphanie Côté
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,191 @@
+---
+title: "Ethier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30876/index.do"
+last_modified: "2012-07-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 241"
+citation2: ""
+neutral_citation: "2012 CCI 241"
+decision_date: "2012-07-11"
+language: "fr"
+item_id: "30876"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7375
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:31:04.048000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7c96189ba46679392b0649a1d21b18faec41bf53f58039256a214adc6a5f3f23"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ethier c. La Reine
+
+- Citation: 2012 CCI 241
+- Decision date: 2012-07-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7375, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ethier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-07-11
+Référence neutre
+2012 CCI 241
+Numéro de dossier
+2011-2547(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2547(IT)I
+ENTRE :
+DONNA ETHIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 29 février 2012 à London (Ontario).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Tamara Watters
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, les appels des nouvelles déterminations datées du 20 avril 2011 pour les années de base 2007, 2008 et 2009 sont accueillis, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles déterminations en tenant compte du fait que l’appelante était le particulier admissible à l’égard de l’enfant au début de chaque mois pour la période de six mois se terminant le 30 juin 2009 et pour la période de douze mois se terminant le 30 juin 2010, aux fins du calcul de la prestation fiscale canadienne pour enfants, et que l’enfant était une personne à charge admissible pour l’appelante relativement aux périodes susmentionnées.
+Signé à Ottawa, Canada, ce 11e jour de juillet 2012.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 18e jour de septembre 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2012 CCI 241
+Date : 20120711
+Dossier : 2011-2547(IT)I
+ENTRE:
+DONNA ETHIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] L’appelante interjette appel à l’encontre des nouvelles déterminations établies pour les années de base 2007, 2008 et 2009, dans lesquelles la prestation fiscale canadienne pour enfants (la « PFCE ») qu’elle avait reçue pour ces périodes lui a été refusée.
+[2] Au moyen d’avis de nouvelle détermination datés du 20 avril 2011, le ministre du Revenu national (le « ministre ») a informé l’appelante qu’elle avait reçu des montants en trop au titre de la PFCE, s’élevant à 810,15 $ pour l’année de base 2007 (pour la période allant de juillet 2008 à juin 2009), à 919,10 $ pour l’année de base 2008 (pour la période allant de juillet 2009 à juin 2010) et à 256,86 $ pour l’année de base 2009 (pour la période allant de juillet 2010 à juin 2011). La PFCE avait été versée à l’appelante relativement à son fils (l’« enfant ») né le 1er octobre 1995.
+[3] L’appelante et le père de l’enfant ont divorcé le 10 octobre 2005. Conformément au jugement de divorce, l’appelante a obtenu la garde légale de l’enfant et l’enfant résidait avec elle. Le père de l’enfant avait des droits d’accès.
+[4] À un certain moment en 2009, l’enfant a commencé à demeurer chez son père à St. Thomas, en Ontario, alors qu’il continuait à vivre avec sa mère. La question qu’il faut trancher est celle qui porte sur la date à laquelle l’enfant a commencé à vivre à la fois avec son père et avec l’appelante. Le père a avancé que l’enfant avait commencé à vivre avec lui à temps plein à partir du 1er janvier 2009, alors que l’appelante a soutenu que l’enfant vivait avec elle à temps plein jusqu’au 15 octobre 2009 au moins, et qu’il avait commencé à vivre à la fois avec son père et avec elle après cette date jusqu’en juin 2010.
+[5] La détermination selon laquelle l’appelante n’avait pas droit à la PFCE a été établie en fonction du fait que l’appelante n’était pas le particulier admissible à recevoir la PFCE en vertu de la Loi de l’impôt sur le revenu (la « Loi »), étant donné qu’elle ne résidait pas avec l’enfant et qu’elle n’assumait pas principalement la responsabilité pour le soin et l’éducation de l’enfant de janvier 2009 à mars 2011 au sens de l’article 6302 du Règlement de l’impôt sur le revenu (le « Règlement »).
+Les dispositions légales
+[6] L’expression « particulier admissible » est définie à l’article 122.6 de la Loi de la manière suivante :
+« particulier admissible » S’agissant, à un moment donné, du particulier admissible à l’égard d’une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne — père ou mère de la personne à charge — qui assume principalement la responsabilité pour le soin et l’éducation de cette dernière;
+[. . . ]
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l’éducation d’une personne;
+[7] L’alinéa b) de l’article 122.6 de la Loi a été remplacé par le paragraphe 24(2), L.C. 2010, ch. 25, applicable aux paiements en trop réputés se produire après juin 2011. Cette modification a pour objet de permettre que la PFCE payable à l’égard d’une personne à charge soit partagée également entre deux particuliers admissibles lorsqu’ils vivent séparément, partagent également ou presque la garde de la personne à charge et assument tous les deux principalement la responsabilité pour le soin et l’éducation de la personne à charge. Cette modification n’est pas applicable en l’espèce.
+[8] Les critères dont il est question à l’alinéa h), qui servent à déterminer celui des deux parents qui répond aux conditions prévues à l’alinéa b) sont énoncés à l’article 6302 du Règlement de la manière suivante :
+Pour l’application de l’alinéa h) de la définition de « particulier admissible » à l’article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l’éducation d’une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d’un milieu sécuritaire là où elle réside;
+c) l’obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l’organisation pour elle d’activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu’elle est malade ou a besoin de l’assistance d’une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d’être présent auprès d’elle et de la guider;
+h) l’existence d’une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[9] Les faits énoncés au paragraphe 3 ci‑dessus ne sont pas contestés et le ministre a supposé que l’appelante avait assumé principalement la responsabilité pour le soin et l’éducation de l’enfant jusqu’en décembre 2008.
+Le témoignage de l’appelante
+[10] Au moment de l’audience, l’appelante était directrice municipale, secrétaire du canton de Southwold. Elle a déménagé de Timmins pour s’installer à St. Thomas en février 2008. Ses deux enfants ont déménagé avec elle. Au départ, elle a loué un duplex de cinq chambres et, le 27 septembre 2008, elle a emménagé dans sa propre maison. Il y avait trois chambres à l’étage et une chambre prête à occuper dans le sous‑sol.
+[11] L’ex‑époux de l’appelante a également déménagé à St. Thomas et a trouvé un travail à temps partiel à l’hôpital de St. Thomas. Il a habité au départ dans la maison de l’appelante pendant environ quatre mois et demi, c’est‑à‑dire de mai à septembre 2008. Entre‑temps, il a vendu sa maison de Timmins et a acheté une autre à St. Thomas, à une distance de deux kilomètres de la maison de l’appelante. Il y a emménagé en septembre 2008. C’était une vieille maison à deux étages qui comportait deux chambres.
+[12] Au cours d’une visite de l’appelante à la maison de son ex‑époux, elle a remarqué qu’il n’y avait pas de lit pour son fils dans la maison. Pour y remédier, elle a acheté, en 2009, un nouveau mobilier de chambre à coucher pour son fils et a donné l’ancien mobilier de chambre à coucher à son ex‑époux au printemps 2009 pour que son fils l’utilise.
+[13] L’appelante a fait remarquer que, de janvier à octobre 2009, son fils avait passé la plupart des nuits à son domicile et qu’il avait passé au moins 85 % de son temps chez elle. Elle a expliqué que son ex‑époux travaillait le soir et la nuit et qu’elle n’aimait pas le fait que son fils fût seul à la maison chez son père.
+[14] Jusqu’au 15 octobre 2009, l’appelante a chaque jour préparé le dîner de son fils et elle était responsable du maintien d’un milieu sécuritaire pour lui. Elle le conduisait à l’école chaque matin jusqu’à ce que le fils et la fille de l’appelante obtiennent leur laissez-passer d’autobus pour 2009 et 2010.
+[15] L’appelante a déclaré son fils comme personne à charge pour des raisons d’assurance et elle assumait la responsabilité d’organiser le transport de son fils pour ses rendez‑vous médicaux à intervalles réguliers (médecin, dentiste, optométriste, etc.) même lorsqu’il passait du temps chez ses deux parents. L’ex‑époux de l’appelante n’avait pas d’assurance médicale et il n’avait pas de permis de conduire pour voiture en 2008 et en 2009.
+[16] Le fils de l’appelante jouait au hockey quatre fois par semaine durant la saison 2009 et il a participé à trois tournois. L’appelante a allégué qu’elle avait emmené son fils à ses matchs de hockey pour 90 % du temps en 2009, mais elle a reconnu que l’aréna était situé à une distance de marche du domicile de son ex‑époux et que son fils se faisait occasionnellement conduire par les parents des autres joueurs et par la petite amie de son ex‑époux, Lisa Sambell.
+[17] L’appelante a également mentionné le fait que le formulaire d’inscription de son fils pour la classe de neuvième année au Parkside Collegiate Institute pour l’année scolaire 2009‑2010 (pièce A‑1, onglet 29) et la lettre du 27 octobre 2011 provenant de l’école confirmaient que le fils de l’appelante résidait au domicile de cette dernière le 1er octobre 2009 (pièce A‑1, onglet 22).
+[18] L’appelante a également produit comme preuve un calendrier pour les mois de mars et d’avril 2010, où figurait le nombre de jours que son fils avait passés à son domicile (14 jours en mars et 10 jours en avril (pièce A‑1, onglet 25). En juin 2010, le fils de l’appelante s’est installé chez son père à temps plein. Selon l’appelante, cette époque coïncide avec le moment où elle et son ex‑époux ont conclu une entente verbale en vertu de laquelle l’appelante serait entièrement responsable à l’égard de sa fille et son ex‑époux serait seul entièrement responsable à l’égard de son fils.
+[19] Avant juin 2010, l’ex‑époux de l’appelante a fait de petites contributions pour subvenir aux besoins de son fils. Selon l’entente de divorce, l’ex‑époux de l’appelante devait verser une pension alimentaire de 610 $ pour leurs deux enfants (une somme de 500 $ était versée à l’appelante et une somme de 110 $ était placée dans un fonds destiné aux études). En mai 2008, l’ex‑époux de l’appelante a cessé de verser la pension alimentaire de 500 $ et les cotisations au fonds destiné aux études de leur fille lorsque cette dernière a eu 15 ans en juin 2008.
+[20] L’appelante a produit les copies des documents suivants à l’appui de son appel :
+a) deux reçus : un provenant de Sport Mart, daté du 17 mars 2009 pour l’achat d’un slip suspensoir pour son fils et un autre daté du 26 juillet 2009 pour les leçons de natation de son fils du 27 juillet au 7 août 2009; (pièce A‑1, onglet 23);
+b) des notes personnelles pour la période du 7 mars 2009 au 22 février 2010 faisant état de certains montants que l’appelante avait payés pour son fils et sa fille; (pièce A‑1, onglet 24);
+c) deux factures provenant du cabinet de médecine dentaire familiale de Dr Candice Wakulich datées du 25 janvier 2011 et du 27 octobre 2011 qu’elle avait payées pour des soins dentaires fournis à son fils. (Pièce A‑1, onglet 26).
+Le témoignage de l’ex‑époux de l’appelante
+[21] M. Albert Ethier, l’ex‑époux de l’appelante a également témoigné à l’audience et il a réitéré le fait que son fils avait emménagé chez lui le 4 janvier 2009 et que la maison était vide. Au départ, son fils n’avait pas d’effets personnels. Il avait graduellement apporté ses vêtements au fil du temps et il conservait son équipement de hockey chez ses deux parents.
+[22] Selon M. Ethier, depuis janvier 2009, son fils demeurait avec lui pour la plupart du temps chaque mois. Il a estimé que son fils avait passé chez lui entre 18 et 20 jours de chaque mois en janvier, en février et en mars 2009 et environ 25 à 26 jours en avril 2009 et par la suite.
+[23] M. Ethier a mentionné le fait qu’il avait payé pour son fils les frais d’inscription au hockey pour la saison 2009‑2010. Le paiement de 460 $ avait été fait le 27 mai 2009.
+[24] M. Ethier a reconnu que son fils allait chez sa soeur et sa mère lorsqu’il avait besoin d’aide pour ses devoirs et qu’il assumait entièrement la responsabilité pour les dépenses de son fils depuis octobre 2009.
+[25] M. Ethier a produit les documents suivants à l’appui de ses arguments :
+a) une lettre datée du 23 février 2011 signée par M. Paul Sydor, le directeur du Parkside Collegiate Institute, qui déclarait que, depuis janvier 2009, le fils de l’appelante avait vécu pour la plupart du temps avec son père, qui avait la garde, à savoir Albert Ethier;
+b) une note manuscrite non datée provenant du fils de l’appelante selon laquelle ce dernier vivait avec son père depuis janvier 2009;
+c) une lettre datée du 23 février 2011 signée par Wade W. Sarasin, un associé au cabinet d’avocats Siskinds LLP, où la petite amie de M. Ethier travaillait, dans laquelle Me Sarasin disait qu’il avait été avisé, et qu’il croyait sincèrement que telle était la vérité, que le fils de l’appelante, né le 1er octobre 1995, résidait avec son père, Albert Ethier, depuis le 1er janvier 2009 à temps plein, à sa résidence située au 77, Première avenue, à St. Thomas. Il se fondait sur le témoignage de Mme Lisa Sambell.
+Le témoignage de Lisa Sambell
+[26] Mme Lisa Sambell a témoigné à l’audience. Elle est commis juridique au cabinet d’avocats Siskinds LLP. Elle et M. Ethier sont devenus amis en juillet 2008, mais elle n’a jamais vécu avec lui. En 2009, ils se voyaient trois à quatre fois par semaine les soirs et les fins de semaine. Elle a déclaré que lorsqu’elle allait voir M. Ethier chez lui, le fils de ce dernier était toujours là. Elle a également ajouté que M. Ethier prenait bien soin de son fils depuis janvier 2009 : il préparait ses repas et lavait ses vêtements. M. Ethier louait souvent des films et faisait du camping avec son fils et Mme Sambell. Elle a également mentionné qu’elle conduisait le fils de M. Ethier à ses matchs de hockey et qu’elle assistait à la plupart des matchs. Lors du contre‑interrogatoire, elle a dit qu’en 2009 ses enfants à elle, son fils de 16 ans et sa fille de 12 ans, vivaient à London, en Ontario.
+L’analyse
+[27] En l’espèce, la question à trancher est de savoir quel était celui des deux parents avec lequel l’enfant résidait durant la période allant de janvier 2009 à mars 2011 et quel était le parent qui assumait principalement la responsabilité pour le soin et l’éducation de l’enfant de janvier 2009 à mars 2011.
+[28] L’appelante a initialement indiqué dans sa réponse à une lettre datée du 10 février 2011 provenant de C. Moir, qui travaillait aux programmes de prestations, à la division des services aux particuliers et des prestations de l’Agence du revenu du Canada (l’« ARC »), que son fils avait toujours vécu avec elle jusqu’aux environs du 15 octobre 2009, et que par la suite il avait commencé à vivre avec son père la plupart du temps.
+[29] L’appelante a déposé un avis d’opposition le 5 mai 2011 dans lequel elle a déclaré que son fils avait vécu avec elle jusqu’au 15 octobre 2009 et non jusqu’au 1er janvier 2009 comme le prétendait l’ex‑époux de l’appelante.
+[30] L’appelante a présenté des renseignements supplémentaires le 27 juin 2011 pour justifier davantage son argument selon lequel son fils avait vécu avec elle jusqu’au 15 octobre 2009 au moins et qu’il avait ensuite commencé à vivre aussi bien avec elle qu’avec son père après cette date. L’appelante a maintenu cette position dans son avis d’appel.
+[31] En tenant compte de la preuve présentée par les deux parties et des facteurs à considérer selon l’article 6302 du Règlement, j’ai conclu que l’appelante ne s’était jamais soustraite à sa responsabilité de principale fournisseuse de soins à l’égard de son fils même lorsque l’enfant vivait sous le toit de son père à temps partiel.
+[32] L’appelante avait la garde juridique de son fils et, jusqu’en juin 2010, elle avait continué à assumer la responsabilité pour le soin et l’éducation de l’enfant, notamment en ce qui concerne les soins médicaux et les activités éducatives et récréatives (les leçons de hockey et de natation).
+[33] L’appelante a fourni la preuve documentaire suivante à l’appui de ses allégations :
+- la correspondance entre l’appelante et les services de transport Thames Valley depuis octobre 2008 jusqu’en octobre 2009 afin d’obtenir des laissez‑passer d’autobus pour ses deux enfants;
+- le formulaire d’inscription de son fils en classe de 9e année au Parkside Collegiate Institute;
+- la lettre provenant de Mme A. Morrison, directrice adjointe du Parkside Collegiate Institute confirmant qu’il ressortait de leurs dossiers scolaires que le fils de l’appelante résidait à l’adresse de l’appelante le 1er octobre 2009;
+- le reçu de Sport Mart et celui concernant les leçons de natation de son fils, tous deux datés de 2009;
+- les notes personnelles de l’appelante pour la période allant du 7 mars 2009 jusqu’au 22 février 2010 montrant que l’appelante payait toujours les achats de biens et de services pour son fils ainsi que le calendrier pour les mois de mars et avril 2010 où figuraient les jours où l’enfant était resté au domicile de l’appelante;
+- les deux factures concernant les soins dentaires reçus par son fils, datées en 2011.
+[34] À l’inverse, l’ex‑époux de l’appelante a fourni très peu d’éléments de preuve pour démontrer qu’il était le principal fournisseur de soins à l’égard de son fils lorsque ce dernier vivait sous son toit. Seul le reçu d’inscription au hockey pour la saison 2009‑2010 a été présenté. La lettre de M. Paul Sydor, directeur de Parkside Collegiate Institute, n’a aucune valeur parce qu’il n’est devenu directeur de l’école qu’en septembre 2009 et qu’il n’avait aucune connaissance personnelle du fait que le fils de l’appelante vivait avec son père depuis le 1er janvier 2009. La lettre de M. Sarasin ne doit pas être considérée étant donné qu’il n’avait aucune connaissance personnelle du fait que le fils de l’appelante en fait, vivait avec son père depuis le 1er janvier 2009. La note manuscrite non datée du fils de l’appelante n’a non plus aucune valeur étant donné que l’enfant n’a pas témoigné à l’audience et qu’il ne peut pas être contre‑interrogé par l’appelante.
+[35] Le témoignage de Mme Lisa Sambell a aussi très peu de valeur étant donné que celle‑ci ne vivait pas en permanence avec l’ex‑époux de l’appelante et qu’elle ne pouvait pas confirmer avec certitude le nombre de jours que le fils de l’appelante avait passés au domicile de son père pour chaque mois.
+[36] En conséquence, pour les motifs exposés ci‑dessus, les appels sont accueillis compte tenu du fait que l’appelante était le particulier admissible à l’égard de l’enfant au début de chaque mois pour la période de six mois se terminant le 30 juin 2009 et pour la période de douze mois se terminant le 30 juin 2010, aux fins du calcul de la prestation fiscale canadienne pour enfants, et que l’enfant était une personne à charge admissible pour l’appelante relativement aux périodes susmentionnées.
+Signé à Ottawa, Canada, ce 11e jour de juillet 2012.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 18e jour de septembre 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2012 CCI 241
+No DU DOSSIER DE LA COUR : 2011-2547(IT)I
+INTITULÉ : Donna Ethier c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 29 février 2012
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 11 juillet 2012
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Tamara Watters
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

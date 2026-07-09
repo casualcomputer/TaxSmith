@@ -1,0 +1,165 @@
+Title: Couillard c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29979/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-470-29979-couillard-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-09-14
+
+# Couillard c. La Reine
+
+- Citation: 2010 CCI 470
+- Decision date: 2010-09-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6462, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Couillard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-09-14
+Référence neutre
+2010 CCI 470
+Numéro de dossier
+2009-3943(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3943(IT)I
+ENTRE :
+JOHANNE COUILLARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 26 avril 2010, à Sherbrooke (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocate de l'appelante :
+Me Mélanie Vogt
+Avocat de l'intimée :
+Me Philippe Dupuis
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre d’une nouvelle détermination en date du 20 avril 2009, par laquelle le ministre du Revenu national a révisé la prestation fiscale canadienne pour enfants et le supplément de la prestation nationale pour enfants de l’appelante pour la période du 24 octobre 2008 au 30 juin 2009, relativement à l’année de base 2007, est accueilli et le dossier est déféré au ministre pour nouvelle détermination selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 14e jour de septembre 2010.
+« Réal Favreau »
+Juge Favreau
+Référence : 2010 CCI 470
+Date : 20100914
+Dossier : 2009-3943(IT)I
+ENTRE :
+JOHANNE COUILLARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel d’une nouvelle détermination relativement à la prestation fiscale canadienne pour enfants (« PFCE ») et le supplément de la prestation nationale pour enfants (« PNE ») pour l’année de base 2007. La seule question en litige consiste à déterminer si le ministre du Revenu national (le « ministre ») a correctement conclu que l’appelante n’était pas le parent qui assumait principalement le soin et l’éducation de son enfant, T., à l’égard de l’année de base 2007 pour la période du 24 octobre 2008 au 30 juin 2009 (la « période pertinente »).
+[2] L’appelante est la mère de T. et de J., respectivement nés en 1993 et en 1997. Monsieur Mario Lemay est le père de T. et de J. Le couple s’est séparé et aux termes d’un jugement daté du 27 janvier 1998, une convention intervenue entre les parties a été entérinée, laquelle convention accordait à l’appelante la garde de ses deux enfants.
+[3] Le 24 octobre 2008, monsieur Lemay a présenté une requête en changement de garde et modification de pension alimentaire.
+[4] Le 15 avril 2009, un jugement de la Cour supérieure du Québec a confirmé que l’appelante pouvait continuer d’exercer la garde exclusive de J. et la garde partagée de T. à raison de 166 jours par année pour l’appelante et de 199 jours par année pour son ex‑conjoint (selon la situation qui prévalait depuis le 24 octobre 2008). Le jugement a également confirmé que l’appelante reprendra la garde exclusive de T. à compter du 24 juin 2009, assumant ainsi la garde exclusive des deux enfants.
+[5] Aux termes du jugement mentionné au paragraphe précédent, l’exercice de la garde partagée a été établi de la façon suivante :
+a. le père aura l’enfant T. du lundi matin au vendredi après la fin des classes;
+b. la mère aura l’enfant T. :
+i) du vendredi après la fin des classes au lundi matin et ce, à chaque semaine;
+i. lors de tous les congés fériés et pédagogiques. Dans cette hypothèse, la mère prendra l’enfant le jeudi après la fin des classes au lieu du vendredi si le congé est un vendredi jusqu’au mardi si le congé est un lundi;
+ii. pendant la semaine de relâche;
+iii. durant la période des Fêtes, pendant sept (7) jours incluant soit la semaine de Noël ou au Jour de l’An, en alternance d’année en année entre les parties;
+iv. pendant toute la période estivale à compter du 24 juin 2009, à l’exception de deux (2) semaines de vacances que le père pourra prendre avec les deux (2) enfants en donnant un préavis d’un mois à la mère quant au choix des dates.
+[6] Ledit jugement prévoit également que les dépenses de T. énumérées ci‑après devaient être assumées dans une proportion de 50 % pour la mère et de 50 % pour le père, dont :
+a. les vêtements;
+b. les frais scolaires (inscription, matériel scolaire et activités scolaires);
+c. les frais relatifs à la pratique de sports (inscription et équipement);
+d. les frais de santé à savoir notamment les frais d’optométrie, les frais de dentiste et les frais de consultation auprès des différents professionnels de la santé et médecins.
+[7] Concernant la pension alimentaire, le jugement prévoit le versement à l’appelante par le père d’une pension alimentaire de 42,55 $ par semaine pour les besoins de T. et de J. pour la période 24 octobre 2008 au 23 juin 2009 et de 68,04 $ par semaine à compter du 24 juin 2009.
+[8] L’appelante a témoigné à l’audience et elle a expliqué pourquoi son fils est retourné vivre avec son père à Louiseville à compter du 5 septembre 2008 (comportement agressif envers elle). T. était alors âgé de 15 ans et fréquentait l’école secondaire de Plessisville (secondaire II). Le 11 septembre 2008, le père de T. l’a inscrit à l’école secondaire de Louiseville en secondaire III. En septembre 2009, l’appelante a inscrit T. à l’école secondaire de Plessisville en secondaire IV.
+[9] Les jours d’école, T. demeurait chez son père mais il a continué de demeurer chez sa mère les jours de congé, les fins de semaine et pendant les vacances. Lors de son témoignage, l’appelante a soutenu que T. n’a jamais cessé de résider chez elle, même si la semaine, il demeurait chez son père. Selon elle, T. gardait ses vêtements, son sac à dos, son équipement de hockey et ses trophées chez elle.
+[10] L’appelante a aussi témoigné qu’elle s’occupait des soins médicaux (médecins, dentiste et optométriste) pour T., s’occupait de lui lorsqu’il était malade, lui achetait des vêtements, souliers, bottes d’hiver et les équipements sportifs dont il avait besoin, elle lui coupait les cheveux, veillait à son hygiène personnelle et lavait son linge. Elle a de plus affirmé qu’elle était la personne responsable pour l’école et qu’elle s’occupait des nombreuses activités sportives de T. en plus de s’occuper de transporter T. entre Plessisville et Louiseville à la fin des classes le vendredi et le dimanche soir ou le lundi matin pour le début d’une semaine de classe.
+[11] Monsieur Mario Lemay a lui aussi témoigné à l’audience. Il a expliqué que, suite au déménagement de T., il lui a aménagé une chambre au sous‑sol et a acheté un mobilier de chambre à coucher. Il l’a inscrit à l’école et aux activités de rugby, soccer, hockey intérieur et hockey à l’aréna de Louiseville. Si T. avait des pratiques pendant la semaine, il s’occupait de son transport. Les activités sportives se déroulant les fins de semaine étaient la responsabilité de l’appelante. Le témoin a confirmé que l’appelante s’occupait des soins médicaux pour T. et qu’elle a acheté les vêtements et les équipements sportifs de T. parce qu’elle se dépêchait à tout acheter.
+[12] Madame Marie‑Pier Hamelin, la conjointe de monsieur Lemay, a témoigné qu’elle s’occupait du lavage des vêtements de T. et de la literie de son lit, que son conjoint était la personne à contacter par l’école et qu’elle aidait T. à faire ses devoirs.
+Le droit applicable
+[13] La définition de « particulier admissible » à l’article 122.6 de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e Suppl.), telle que modifiée (la « Loi »), était ainsi rédigée au cours de la période pertinente :
+« particulier admissible » S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a. elle réside avec la personne à charge;
+b. elle est la personne -- père ou mère de la personne à charge -- qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+c. elle réside au Canada ou, si elle est l'époux ou conjoint de fait visé d'une personne qui est réputée, par le paragraphe 250(1), résider au Canada tout au long de l'année d'imposition qui comprend ce moment, y a résidé au cours d'une année d'imposition antérieure;
+d. elle n'est pas visée aux alinéas 149(1)a) ou b);
+e. elle est, ou son époux ou conjoint de fait visé est, soit citoyen canadien, soit :
+1. résident permanent au sens du paragraphe 2(1) de la Loi sur l'immigration et la protection des réfugiés,
+2. résident temporaire ou titulaire d'un permis de séjour temporaire visés par la Loi sur l'immigration et la protection des réfugiés ayant résidé au Canada durant la période de 18 mois précédant ce moment,
+3. personne protégée au titre de la Loi sur l'immigration et la protection des réfugiés,
+4. quelqu'un qui fait partie d'une catégorie précisée dans le Règlement sur les catégories d'immigrants précisées pour des motifs d'ordre humanitaire pris en application de la Loi sur l'immigration.
+Pour l'application de la présente définition :
+f. si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge est présumée être la mère;
+g. la présomption visée à l'alinéa f) ne s'applique pas dans les circonstances prévues par règlement;
+h. les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l'éducation d'une personne.
+[14] Pour l’application des alinéas g) et h) de la définition de « particulier admissible » à l’article 122.6 de la Loi, les articles 6301 et 6302 de la Partie LXIII du Règlement de l’impôt sur le revenu (le « Règlement ») prévoient ce qui suit :
+6301. Non-application de la présomption
+(1) Pour l'application de l'alinéa g) de la définition de « particulier admissible » à l'article 122.6 de la Loi, la présomption mentionnée à l'alinéa f) de cette définition ne s'applique pas dans les circonstances suivantes :
+a. la mère de la personne à charge admissible déclare par écrit au ministre qu'elle réside avec le père de cette personne et qu'il est celui qui assume principalement la responsabilité pour le soin et l'éducation de chacune des personnes à charge admissibles avec lesquelles les deux résident;
+b. la mère est une personne à charge admissible d'un particulier admissible et chacun d'eux présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l'égard de la même personne à charge admissible;
+c. la personne à charge admissible a plus d'une mère avec qui elle réside et chacune des mères présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l'égard de la personne à charge admissible;
+d. plus d'une personne présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l'égard de la même personne à charge admissible qui réside avec chacune d'elles à des endroits différents.
+(2) Il demeure entendu qu'est assimilée à la personne qui présente un avis visé aux alinéas (1)b), c) ou d) la personne qui, en vertu du paragraphe 122.62(3) de la Loi, est soustraite à l'obligation de présenter un tel avis.
+Critères
+6302. -- Pour l'application de l'alinéa h) de la définition de « particulier admissible » à l'article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l'éducation d'une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d'un milieu sécuritaire là où elle réside;
+c) l'obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l'organisation pour elle d'activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu'elle est malade ou a besoin de l'assistance d'une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d'être présent auprès d'elle et de la guider;
+h) l'existence d'une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[15] Pour déterminer si l’appelante était le « particulier admissible » par rapport à T., il y a lieu de considérer d’abord les conditions établies aux alinéas a) et b) de la définition de « particulier admissible » à l’article 122.6 de la Loi, à savoir :
+a. si l’appelante résidait avec T. pendant la période pertinente, et
+b. si l’appelante était le parent qui assumait principalement la responsabilité pour le soin et l’éducation au cours de cette période.
+[16] La preuve présentée par l’appelante est à l’effet que T. n’a jamais cessé de résider avec elle pendant la période au cours de laquelle T. a poursuivi ses études à Louiseville et a demeuré chez son père la semaine pendant le calendrier scolaire.
+[17] Comme le disait le juge Bédard de cette Cour, dans l’arrêt Brigitte Roy c. La Reine, 2007 CCI 496, l’expression « résider avec », telle qu’utilisée par le législateur à l’alinéa a) de l’article 122.6 de la Loi implique « une certaine constance ou encore une certaine permanence selon le mode de vie habituel d’une personne en relation avec le lieu donné et se distingue de ce qu’on peut qualifier de visite ou de séjour sporadique » (paragraphe 7).
+[18] Dans ce cas, T. était comme pensionnaire chez son père pendant son année scolaire 2008/2009. Il s’agissait donc plus qu’une visite ou qu’un séjour sporadique mais le séjour avait tout de même un caractère temporaire, donc limité dans le temps. L’appelante avait la garde exclusive de T. jusqu’au 24 octobre 2008 et, en vertu du jugement du 15 avril 2009, elle a de nouveau obtenu la garde exclusive de T. à compter du 24 juin 2009, ce qui coïncide avec la fin de l’année scolaire 2008/2009.
+[19] Selon la Réponse à l’avis d’appel, l’intimée s’est uniquement basée sur le jugement du 15 avril 2009 par lequel la garde partagée de T. a été reconnue à compter du 24 octobre 2008 à raison de 166 jours par année pour l'appelante et de 199 jours par année pour l’ex‑conjoint. L’attribution d’un nombre de jours de garde par année pour l’appelante et son ex‑conjoint est aléatoire et imprécise puisque la période en garde partagée n’était en vigueur que pour la période du 24 octobre 2008 au 24 juin 2009, soit 244 jours au total. De plus, il est curieux de constater que ledit jugement oblige les parents de T. à supporter ses dépenses sur une base de 50/50 et ce, même si en principe, T. doit passer plus de jours avec son père pendant la garde partagée. Enfin, il y a lieu de souligner que, même pendant la durée de la garde partagée, l’ex‑conjoint de l’appelante doit lui verser une pension alimentaire de 42,55 $ par semaine pour les besoins de T. et de J.
+[20] À mon avis, l’intimée ne pouvait simplement pas s’en remettre uniquement au jugement précité pour conclure qu’il en résultait une présomption que le père assumait principalement la responsabilité pour le soin et l’éducation de T.
+[21] Ayant conclu que T. résidait avec sa mère pendant la période pertinente, l’alinéa f) de l’article 122.6 de la Loi établit une présomption à l’effet que l’appelante est la personne qui assumait principalement la responsabilité pour le soin et l’éducation de T.
+[22] Par contre, l’alinéa g) de l’article 122.6 stipule que la présomption de l’alinéa f) ne s’applique pas dans les circonstances prévues par le Règlement dont celle où plus d’une personne présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l’égard de la même personne à charge admissible qui réside avec chacune d’elle à des endroits différents, prévue à l’alinéa d) de l’article 6301.
+[23] Comme en l’espèce, l’ex‑conjoint a présenté une demande de PFCE le 9 septembre 2008, et que l’appelante a fait de même le 9 juin et le 9 février 2008, la présomption de l’alinéa f) de l’article 122.6 de la Loi n'est pas applicable en l’espèce.
+[24] Dans les circonstances, il y a lieu de considérer les critères énoncés à l’article 6302 du Règlement servant à déterminer en quoi consiste le soin et l’éducation d’une personne à charge admissible. Selon ce qui a été mis en preuve, les critères de surveillance et du maintien d’un milieu sécuritaire pour T. énoncés aux alinéas a) et b) sont également remplis par les deux parents. Les critères énoncés aux alinéas c) à g), soient :
+a. l’obtention de soins médicaux, y compris le transport aux endroits où ces soins sont dispensés;
+b. l’organisation d’activités éducatives, récréatives et athlétiques, y compris le transport à cette fin;
+c. subvenir aux besoins de T. lorsqu’il est malade;
+d. veiller à son hygiène corporelle de façon régulière;
+e. présence auprès de T. pour le guider;
+sont principalement la responsabilité de l’appelante tandis que le jugement du 15 avril 2009 favorise l’ex‑conjoint à cause de l’attribution du nombre de jours à l’appelante et à son ex‑conjoint.
+[25] L’application des critères énoncés à l’article 6302 du Règlement, établit clairement que l’appelante assumait principalement la responsabilité pour le soin et l’éducation de T. pendant la période pertinente. Le témoignage de l’appelante était crédible et plus précis que les témoignages du père et de sa conjointe.
+[26] Bien que la conjointe du père puisse être considérée aux fins de la Loi comme la mère de T., la preuve présentée ne permet pas de conclure que cette dernière a assumé principalement le soin et l’éducation de T. pendant la période pertinente.
+[27] Pour ces motifs, l’appel est accueilli.
+Signé à Ottawa, Canada, ce 14e jour de septembre 2010.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2010 CCI 470
+Nº DU DOSSIER DE LA COUR : 2009-3943(IT)I
+INTITULÉ DE LA CAUSE : JOHANNE COUILLARD c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L’AUDIENCE : le 26 avril 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 14 septembre 2010
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Mélanie Vogt
+Avocat de l'intimée :
+Me Philippe Dupuis
+AVOCATE INSCRITE AU DOSSIER :
+Pour l'appelante:
+Nom : Me Mélanie Vogt
+Cabinet : Landry, Boisvert, Pinard, Vogt
+Victoriaville, Québec
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

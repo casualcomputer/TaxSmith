@@ -1,0 +1,198 @@
+Title: Les Factums Instanter S.E.N.C. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27154/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-53-27154-les-factums-instanter-s-e-n-c-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-01-25
+
+# Les Factums Instanter S.E.N.C. v. The Queen
+
+- Citation: 2006 TCC 53
+- Decision date: 2006-01-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1023, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Factums Instanter S.E.N.C. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-25
+Neutral citation
+2006 TCC 53
+File numbers
+2003-3814(GST)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-3814(GST)G
+BETWEEN:
+LES FACTUMS INSTANTER S.E.N.C.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on November 4, 2005, at Montréal, Quebec.
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+Counsel for the Appellant:
+Bruno Racine
+Counsel for the Respondent:
+Benoît Denis
+____________________________________________________________________
+JUDGMENT
+The appeals under the Excise Tax Act, one of which, dated October 26, 2001, is in respect of the period from February 1, 2001 to April 30, 2001, and the other, dated November 5, 2001, is in respect of the period from May 1, 1999 to July 31, 2001, are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment, with costs.
+Signed at Montréal, Quebec, this 25th day of January 2006.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 25th day of July 2006
+Monica F. Chamberlain, Reviser
+Citation: 2006TCC53
+Date: 20060125
+Docket: 2003-3814(GST)G
+BETWEEN:
+LES FACTUMS INSTANTER S.E.N.C.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Archambault J.
+[1] Les Factums Instanter S.E.N.C. (Instanter) is appealing two assessments, one dated October 26, 2001, in respect of the period from February 1, 2001 to April 30, 2001, the other dated November 5, 2001, in respect of the period from May 1, 1999 to July 31, 2001[1]. Essentially, the amounts of the assessments represent amounts of Goods and Services Tax (GST) which the Minister of Revenue of Quebec (Quebec Minister), acting as the mandatary of the Minister of National Revenue (Minister), claims that Instanter should have collected when it provided taxable supplies – namely the preparation of appeal briefs – to advocates in private practice whose services had been retained in the context of legal aid mandates. The justification for this position depends on whether these advocates – in respect of the acquisition of such supplies – were acting as the mandataries of a provincial government organization that enjoys tax immunity in respect of the applications of the Excise Tax Act (Act). In his pleadings,[2] Counsel for the Respondent acknowledged that advocates in private practice who had obtained a mandate from a legal aid centre (centre) pursuant to the Legal Aid Act, R.S.Q., c. A-14 (LAA) were representing the centre as mandataries when they provided legal services to people (recipients) to whom the director general of the centre had delivered a document entitled "Certification of Eligibility and Mandate" (certification and mandate).
+[2] In addition, there is no dispute over whether the centres constitute government organizations that enjoy the tax immunity that is explicitly stipulated of section 122 of the Act.[3] In admitting that advocates in private practice provided legal services as mandataries of the centres, which enjoy tax exempt status, Counsel for the Respondent drew not only on the LAA, but also on the Interpretation Bulletins and administrative practices of the Quebec Minister in respect of the Quebec tax legislation (Revenu Québec Interpretation Bulletins). In particular, he drew on the following paragraphs of bulletin QST 138‑1 of November 28, 1997:
+APPLICATION OF THE ACT
+1. Under section 138 of the act [Quebec Sales Tax Act (QSTA)], a supply of a professional legal aid service provided under a legal aid program authorized by the Government of Québec and made by a corporation responsible for administering legal aid under the Legal Aid Act (R.S.Q., chapter. A‑14) is exempt.
+Exempt Supply of Professional Legal Aid Services
+2. Under the Legal Aid Act, professional legal aid services are supplied by legal aid centres established in accordance with that act. These services, the supply of which is exempted, may be provided by:
+(a) an advocate or notary in the employ of a legal aid centre;
+(b) an advocate or notary in private practice to whom a legal aid centre has given a mandate.
+...
+Professional Services Supplied to a Legal Aid Corporation by an Advocate or Notary in Private Practice
+5. A supply of professional services by an advocate or notary in private practice made to a legal aid corporation in the course of executing a mandate given to him by that centre constitutes a taxable supply.
+6. In its capacity as a body of the Government of Québec, though, a legal aid centre does not pay any QST when it purchases taxable supplies. Consequently, no QST is payable by the legal aid corporation in respect of the supply of professional services made to it by an advocate or notary in private practice in the course of the performance of a mandate given to him by that centre.
+[My emphasis.]
+[3] In order for a supply to be exempt, both pursuant to section 138 of the QSTA and under schedule V, part V, section 1 of the Act, the exemption must be in respect of the provision of a professional legal aid service dispensed under a legal aid program approved by a government, here the Government of Quebec, and provided by a centre responsible for the administration of legal aid or by the administrator of the program, here a centre or its director.[4] The position taken by the Revenue Quebec interpretation bulletin (supra) thus reveals that the Quebec Minister considers that the director of the centre is the provider, through a mandatary, namely an advocate in private practice, of legal aid services to the recipients.
+[4] Consequently, the only question that remains to be addressed is whether the production of appeal briefs, which are provided by Instanter to advocates in private practice in the course of executing a mandate to provide legal aid services did so on behalf of these advocates or on behalf of the centres. In other words, did these advocates act as mandataries of the centres when they acquired the taxable supplies at issue from Instanter? According to Counsel for the Respondent, the advocates were acting on their own behalf and thus do not enjoy any tax immunity. Counsel for Instanter maintained that the advocates were acting as mandataries of the centres and as a result Instanter did not have to levy any GST in respect of the supplies in question by virtue of the centres' immunity from taxation.
+The facts
+[5] According to section 52 LAA,[5] a recipient has the choice of retaining the services of an advocate employed by a centre or of an advocate in private practice. Once it has been established that the recipient is entitled to legal aid and an advocate in private practice has been chosen, the centre delivers a document of attestation and mandate to the advocate (Exhibit A‑1, tab 5), bearing the name and the address of the recipient and of the advocate to whom the mandate is assigned. It also includes the following certification clause: [translation] "This is to certify that the goods/services ordered/purchased are for the use of, and have been purchased by the ABOVE-NAMED COMMUNITY LEGAL AID CENTRE, with Crown funds and are thus not subject to GST or QST." Below is added: "AT THE REQUEST OF THE PERSON WHOSE NAME APPEARS OPPOSITE, WE GIVE YOU THE FOLLOWING MANDATE.”[6] (My emphasis.) It is stated that the mandate must be carried out personally by the advocate as far as the essential elements are concerned. The certification is signed by the director general (or by another person for the director general).
+[6] Advocates in private practice who used the services of Instanter to produce appeal briefs automatically send it copies of the certification and mandate during the relevant periods. This document allowed Instanter to obtain free of charge from the clerks of the courts the transcript of the evidence presented at the trial hearing.[7]
+[7] According to Jean‑Luc Paris and Marcel Guérin, who testified at the request of Instanter, the vast majority of, if not all, advocates use the services of a company that produces briefs in order to prepare the briefs required by the Court of Appeal of Quebec and by the Supreme Court of Canada. They do so in order to meet the many strict requirements specified in the rules of procedure of these courts. Generally speaking, advocates in private practice can only receive fees for legal aid after they have fulfilled their legal aid mandate. It is possible, however, to send a provisional bill, in which the centre can be asked to reimburse the expenditures on having briefs prepared by a company such as Instanter. Instanter prepares the invoice, on a form belonging to the centre, describing the service provided by Instanter, which also shows the centre's file number and the date of the mandate and other similar information. It is mandatory that the provisional bill be signed by the advocate to whom the centre has assigned the mandate. Initially, Instanter did not show the amount of GST/QST when it prepared the invoices. Following an audit by the Quebec Minister and at the request of the Minister's auditors, Instanter began in 1998 to show the amounts of these taxes. The Commission,[8] however, refused to reimburse them.
+[8] Mr. Paris and Mr. Guérin confirmed that they were not registrants for the purposes of the Act. Mr. Paris stated that, prior to 2001, 99% of his legal services were provided to legal aid. Since 2000-2001, all his mandates had come from legal aid. Mr. Paris has been registered since 2001. From 1996 to 2000, he did not believe that he was required to be registered, as he believed he had the status of a small supplier. In order to determine if he was entitled to this status, he believed that he need only consider his net income and not, as is required, the gross income. He also confirmed that if he claimed from the centre the amount of GST for the services of Instanter, his claim was subject to a correction notice to deduct from the amount reimbursed any amount in relation to taxes (GST/QST). He confirmed that Instanter did not recover from him the amount of these taxes that the centre and the Commission refused to pay and that he himself claimed no Input Tax Credit (ITC) in respect of the supplies provided by Instanter.
+[9] The Secretary of the Commission stated that, to her knowledge, advocates in private practice did not act as mandataries of the centres. They were instead mandataries of the recipients. The role of a centre was limited to certifying the recipients' eligibility for financial aid for the legal services provided by these advocates, checking the extent of the mandate and authorizing this mandate (on behalf of the recipients). This role included retaining the services of experts. That is why the Secretary of the Commission considered the recipients to be the clients of advocates in private practice. In her view, these advocates did not have the power to incur the costs of preparing briefs on behalf of the centres. The centres did not get involved in carrying out the mandate of these advocates. At one time, advocates in private practice could ask the Commission to pay directly companies like Instanter, which produced the briefs. However, the Commission put an end to this practice in 2000. It now pays the advocates' expenses by cheque, and the advocates can either endorse the cheque over to the companies or make out a new cheque to them. Obviously, if the services of Instanter are required by an advocate who is a salaried employee of a centre, the cheques are sent directly to Instanter by the Commission.
+[10] The Secretary of the Commission also acknowledged that advocates in private practice obtained special authorization from the centres with regard to the production of briefs when exceptional expenses were involved. In most cases, such authorization was not necessary, as is the case of the expenses for bailiffs and for law stamps. On the other hand, when the mandate involves representing a recipient in a trial court, authorization must be obtained from the centre to retain the services of experts and in connection with travel costs. According to the Secretary, the mandate given to advocates in private practice had to be fulfilled in accordance with accepted standards. She also confirmed that the Commission refused to pay that portion of the expenses claimed by advocates in private practice that pertained to taxes, namely, the GST and the QST, because the centres enjoyed immunity from taxes. On cross-examination, she also stated that the Commission did not reimburse rental costs nor photocopier repair costs for advocates in private practice.
+Analysis
+[11] In order to determine whether Instanter should collect GST when providing its services to advocates in private practice in the context of a legal aid mandate, it is important to establish whether the real acquirer of this service was the advocate himself, on his own behalf, or whether the acquirer was in fact a centre by virtue of the mandate existing between the centre and the advocate.[9] Since the Act does not specify the circumstances in which a mandate may exist, we must refer to the rules of civil law in Quebec, as they exist within the Civil Code of Quebec (Civil Code or C.C.Q.). This approach is consistent with the provisions of section 8.1 of the Interpretation Act, which reads as follows:
+Property and civil rights
+8.1 Both the common law and the civil law are equally authoritative and recognized sources of the law of property and civil rights in Canada and, unless otherwise provided by law, if in interpreting an enactment it is necessary to refer to a province's rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in the province at the time the enactment is being applied.
+[12] The relevant provisions of the Civil Code can be found at articles 2130 and following. This is what they say:
+2130. Mandate is a contract by which a person, the mandator, empowers another person, the mandatary, to represent him in the performance of a judicial act with a third person, and the mandatary, by his acceptance, binds himself to exercise the power.
+The power, and where applicable, the writing evidencing it are called the power of attorney.
+...
+2136. The powers of a mandatary extend not only to what is expressed in the mandate, but also to anything that may be inferred therefrom. The mandatory may carry out all acts which are incidental to such powers and which are necessary for the performance of the mandate.
+2137. Powers granted to persons to perform an act, which is an ordinary part of their profession or calling or which may be inferred from the nature of such profession or calling, need not be mentioned expressly.
+...
+2142. In the performance of the mandate, the mandatary, unless prohibited by the mandator or usage, may require the assistance of another person and delegate powers to him for that purpose.
+The mandatary remains liable towards the mandator for the acts of the person assisting him.
+...
+2157. Where a mandatary binds himself, within the limits of his mandate, in the name of and on behalf of the mandator, he is not personally liable to the third party with whom he contracts.
+The mandatary is liable to the third person if he acts in his own name, subject to any rights the third person may have against the mandator.
+...
+2160. A mandator is liable to third persons for the acts performed by the mandatary in the performance and within the limits of his mandate unless, under the agreement or by virtue of usage, the mandatary alone is liable.
+The mandator is also liable for any acts which exceed the limits of the mandate, if he has ratified them.
+...
+2163. A person who has allowed it to be believed that a person was his mandatary is liable, as if he were his mandatary, to the third person who has contracted in good faith with the latter, unless, in circumstances in which the error was foreseeable, he has taken appropriate measures to prevent it.
+[My emphasis.]
+[13] In the Dictionnaire de droit québécois et canadien by Hubert Reid, Montréal, Wilson & Lafleur Ltée, 1994, a "juridical act" is defined as: [translation] "A manifestation of one or more desires intended to produce effects of law. E.g., a bilateral contract, a will." In light of the admissions that have been made in this appeal, we must consider the juridical act intended by a mandate conferred by a centre upon an advocate in private practice as being the provision of legal services to a recipient on behalf of the centre, in accordance with the provisions of the LAA. It is accordingly the centre that provides, through the intermediary of the mandatary advocate, the legal service to the recipient. This legal service provided to the recipient consists of representing the recipient in their legal proceedings, which constitutes a separate mandate. There are thus two mandates, one between the centre and the recipient and the other between the centre and the advocate in private practice in order to execute the first mandate. The recipient is thus legally the client of the centre, since an advocate in private practice acts merely as a mandatary of the centre in delivering his services. This description is consistent with the primary mission of the centres, which is to provide legal services to recipients, either through its advocates on staff, or through duly mandated advocates in private practice.
+[14] I believe that the existence of this dual mandate is the source of the confusion in the testimony by the Secretary of Commission when she stated, not only that advocates in private practice did not have a mandate to represent the centres in dealing with Instanter, but that she saw no mandate except that between a recipient and an advocate in private practice. Clearly, Counsel for the Respondent is laying great stress on the first part of the statement in order to conclude that the mandates, whose existence between the centre and an advocate in private practice he acknowledges, did not extend to obtaining services to produce briefs on behalf of the centres.
+[15] In my view, it has been established here not only that advocates in private practice acted as mandataries of the centres when they used the services of Instanter, but also that Instanter was fully aware of the existence and the extent of this mandate. Advocates in private practice who discharged legal aid mandates had the power to perform all the acts which flowed from their obligation to provide legal services on behalf of the centres, as is stipulated in article 2136 C.C.Q. For mandates to act before the Appeal Courts, the acts included producing appeal briefs. As stipulated in article 2137 C.C.Q., the powers of a mandatary do not need to be mentioned expressly in the mandate. They can be deduced from the nature of the mandate bestowed. It is general practice among advocates in private practice to retain the services of a company that writes appeal briefs. The centres were well aware of this practice, as they routinely received requests for reimbursement of this type of expense, and they did reimburse it. Moreover, as is stipulated in article 2142 C.C.Q., the mandataries are entitled to obtain assistance and, in the case of advocates in private practice, here, the preparation of appeal briefs did not constitute an essential aspect of their responsibilities, which they had to discharge personally. Furthermore, there is no existing convention or usage which might show that advocates who accept legal aid mandates must be held personally responsible for the costs of preparing briefs (article 2160 C.C.Q.).
+[16] In support of this conclusion, Counsel for Instanter cited the decision Thémis Multifactum inc. v. Maitre Alain Brassard, REJB 2000‑17469, handed down by Boyer J. of the Court of Quebec and confirmed, for [translation] "the reasons set out by the Trial Judge", on June 9, 2000 by the Quebec Court of Appeal (No. 500‑09‑009271‑008). This case involved a claim made to an advocate by Thémis Multifactum in respect of appeal brief writing services. At issue was whether the advocate could be held personally responsible for payment of the account of $7,046.69. The answer to this question did not depend solely on the existence and the extent of the mandate, but also depended on whether the mandate had been disclosed to the brief writing company, as is required by article 2157 C.C.Q.[10] With regard to the question of the extent of the mandate, Boyer J. concluded as follows:
+[translation]
+(e-) The nature of the use of the service provider
+23 The implementation of the appeal procedure in penal cases requires a number of steps to meet the requirements set by the rules of the Court of Appeal. One of these consists of the preparation of a brief on the facts, the questions at issue and the grounds for appeal invoked. This work is necessary to the exercise of the legal right of his client. As a result, an advocate who places the order to prepare the appeal file with a specialist service provider chooses to obtain the assistance of a third party, as he in principle has the right to do. In so doing, he commits a juridical act, namely that of concluding a contract for services with this third party. With respect to the contrary opinion, the Court considers from then on that this act occurs in the context of the discharge of the mandate ad litem of the advocate, even though the advocate must assume responsibility for the documents prepared by the service provider.
+[My emphasis.]
+[17] In my view, the Secretary of the Commission erred when she testified concerning the nature and extent of the mandate conferred on advocates in private practice and, in particular, when she stated that advocates in private practice did not have a mandate to represent the centres when such advocates retained the services of Instanter. In contrast to what Counsel for the Respondent did and what is also done in the certification and mandate document delivered by the centres (which contains the statement: [translation] "at the request[11] [of the recipient], we assign you the mandate..."), the Secretary of the Commission did not acknowledge that the services of advocates in private practice are provided on behalf of the centres. Since she misconstrued the nature of the legal relationship between the centres and advocates in private practice, it is not surprising that she believed that the advocates did not have a mandate to retain the services of brief writing companies on behalf of the centres.
+[18] Another indication of the confusion of the Secretary of the Commission and the incoherence of her position is the fact that the Commission refused, by virtue of its tax immunity, to pay GST on disbursements billed by advocates in private practice for the services of Instanter. In acting thus, the Commission showed that the services rendered by Instanter to advocates in private practice were on behalf of the centres, since those are the only circumstances under which the Commission could enjoy tax immunity. The Commission had to reimburse the full amount of the disbursements by advocates in private practice, since these were costs inherent in the instances and procedures incident to the legal aid mandate.[12] If the advocates did not act as mandataries of the centres when they used the services of Instanter, the Commission would not have been able to invoke its tax immunity, because it would not have been, at that time "the acquirer" of the taxable supply.[13]
+[19] The Quebec Minister states in his QSTA bulletins that correspondents’ fees, stamp taxes and the advance paid to a sheriff for a seizure of immovables constitute expenses incurred by an advocate as the mandatary of his client.[14] The fees of bailiffs, stenographers and expert witnesses are not included. However, these costs are listed in a previous version, dated June 28, 1996, of the bulletin cited at note 14 of these Reasons! I do not understand how the Quebec Minister can distinguish between these costs which are excluded from the mandate and those that are included and justify his interpretation. The same applies to his position as set out in the Interpretation Bulletin QST 61-3 dated January 31, 2003, where he states at paragraph 4 that, "... the expenses incurred by an attorney in private practice for the services of a business specialized in the preparation of facta on appeal ... in the course of fulfilling a mandate given by a legal aid centre ... do not generally constitute expenses incurred by the attorney in his or her capacity as the client’s mandatary." I prefer to adopt the approach taken by Boyer J. who, in Thémis Multifactum, supra, at paragraph 23, concluded that [translation] "... this action occurs in the context of carrying out the mandate ad litem of the advocate ...".
+[20] In contrast to what occurred in Thémis Multifactum,[15] in the instant case, legal aid mandates were disclosed to Instanter. In fact, the certification and mandate documents given to advocates in private practice were forwarded to Instanter, and this allowed it to obtain without cost the transcript of the debates before the trial courts. According to the claims of Counsel for Instanter, the handing over of these certification and mandate documents to Instanter authorized the latter not to collect taxes when the taxable supplies were billed by Instanter to these advocates, who were acting in the context of a legal aid mandate. The clause that certified tax immunity was included and the administrative requirements of the tax authorities were accordingly met.
+[21] The conditions under which an advocate in private practice operates in discharging a legal aid mandate are public (and not in the private domain as are those in Thémis Multifactum),[16] just as the schedule for his fees are published.[17] They are established by government decree. The fees are modest. According to paragraph 19 of decrees 1455‑97[18] and 539‑2001[19] (applicable during the period at issue): "Disbursements are part of the statement of fees and include fees for expert reports and other fees pertaining to proceedings incidental to the legal aid mandate, including expenses for subpoena by bailiff or by registered or certified mail." They are "paid by the legal aid body."[20] In disclosing their legal aid mandate to Instanter, the advocates clearly indicate that their remuneration is strictly limited to the fees provided for in the tariff and which they will be able to claim from the centres as disbursements[21] the sums committed for the production of an appeal brief. On the other hand, Instanter was involved in the process by which the appeal brief production services that it provided to advocates in private practice were billed to the centres; it further indicated on the invoices the centres' file number. It waited until the advocates received the cheque from the Commission to be repaid for its services. Instanter thus knew full well that these production expenses were not borne by the advocate but rather by the centres.
+[22] Before terminating my analysis of this question, one clarification must be added. Even if the mandate of advocates in private practice had not been disclosed to Instanter and the advocates could be held responsible for the amounts due to Instanter, that would not necessarily mean that no mandate contract existed between the centres and the advocates in respect of the use of Instanter's services.
+[23] For all these reasons,[22] the appeals by Instanter are allowed and the two assessments are referred back to the Minister for reconsideration and reassessment, on the basis that advocates in private practice were acting as mandataries of Her Majesty the Queen in right of the Province of Quebec when they obtained the provision of Instanter services and Instanter was not required to collect GST in respect of this supply. With costs.
+Signed at Montréal, Quebec, this 25th day of January 2006.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 25th day of July 2006
+Monica F. Chamberlain, Reviser
+CITATION: 2006TCC53
+COURT FILE NO.: 2003-3814(GST)G
+STYLE OF CAUSE: LES FACTUMS INSTANTER S.E.N.C. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: November 4, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: January 25, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Bruno Racine
+Counsel for the Respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Bruno Racine
+Firm: Séguin Racine
+Laval, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] The amounts of tax demanded by these assessments are not at issue and, as I understand it, those for the first period are not included in those for the second.
+[2] It is regrettable that Counsel did not do so at the beginning of the hearing, as this would undoubtedly have shortened the discussion.
+[3] This section does not in fact stipulate that the GST stipulated by the Act applies to Her Majesty in right of a province. Subsection 122(b) stipulates that part IX, in respect of the GST, applies to Her Majesty in right of a province only in respect of obligations as a supplier to collect and to remit tax in respect of taxable supplies made by Her Majesty in right of the province. Furthermore, it should be noted that section 125 of the Constitution Act, 1867 stipulates that "no Lands or Property belonging to Canada or any Province shall be liable to Taxation." See also the decision of the Supreme Court of Canada in Reference re: Goods and Services Tax (GST) (Can), [1992] 2 S.C.R. 445, [1992] GSTC. 2. As Counsel for the Respondent agreed that the centres enjoy immunity from taxation, I have assumed, for the purposes of this decision, that they were mandataries of Her Majesty in right of a province. However, we should note that these centres are administered by the Commission des services juridiques (Commission) for each of the regions that it determines, in accordance with section 29 LAA, and that the Commission is a body constituted under section 11 LAA. The duties of the Commission set out at section 22 LAA include seeing that legal aid is provided, to the extent provided for in the LAA, establishing and developing legal aid centres and authorizing them to provide legal aid and seeing to the financing of the centres. Pursuant to section 31 LAA every regional centre is a legal person and may exercise all the powers of a legal person in addition to the special powers conferred on it by the LAA, "within the mandate given it by the Commission". [My emphasis.]
+[4] Schedule V, part V, section 1 reads as follows:
+1. A supply of legal aid services provided under a legal aid plan administered by or under the authority of a government of a province made by the person responsible for administering the plan.
+[My emphasis.]
+[5] Section 52 LAA reads:
+52. The director general shall give a mandate to an advocate or notary not in the employ of the centre, when a recipient specially chooses such advocate or notary and he agrees to provide his professional services to the recipient in accordance with regulations. In such case, the advocate or notary must personally carry out all the essentials of such mandate.
+[My emphasis.]
+[6] For example, "application for leave to appeal [to the Supreme Court of Canada] from the judgment of the Court of Appeal ... and appeal from a verdict."
+[7] According to the secretary of the Commission, who testified at the hearing, the cost of transcription was charged directly to the legal aid budget.
+[8] Although the legal aid mandate is assigned by a centre, the Commission pays the fees of advocates in private practice.
+[9] It is worth noting that section 178 of the Act until April 24, 1996, stipulated that the costs incurred by a supplier as the agent of the acquiror were not part of the compensation received by the supplier. As is apparent from the explanatory notes for July 1997 accompanying the draft bill amending the Act, this section was considered superfluous, "as the treatment it grants is already consistent with the legal nature of these operations."
+[10] With regard to the question of disclosure, Boyer J. concluded that the advocate was not released from his burden of proof and, consequently, was held responsible for the costs of producing briefs.
+[11] And not "on behalf of" the recipient.
+[12] The text of the relevant regulation is cited at para. 21 below.
+[13] I believe, however, that she could have obtained reimbursement of the GST included in the disbursements paid to advocates in private practice, in accordance with section 258 of the Act. This section states as follows:
+258(1) Definition of "legal aid plan" – in this section "legal aid plan" means a legal aid plan administered under the authority of the government of a province.
+(2) Legal aid – Where a person responsible for the administration of a legal aid plan in a particular province pays tax in respect of a taxable supply of legal services under a legal aid plan, the following rules apply:
+(a) the Minister shall pay to the person a rebate equal to the amount of tax payable by the person in respect of the supply; and
+(b) the person shall not be entitled to any other rebate in respect of tax on that supply.
+[14] See para. 5 of QST Bulletin 61‑2/R1 dated May 30, 1997.
+[15] The following are the comments of Boyer J. in Thémis Multifactum:
+[translation]
+(f-) Payment to the service provider
+24 In the instant case, the Defendant cites in his defence the document entitled "mandate" signed by his client Huet, in which Huet undertakes to pay the cost of all expenses and fees. The agreement regarding his payment which the advocate concludes with his client remains alien to the provider whose services he has retained. In respect of this claimant, the legal maxim res inter alios acta alteri nocere non debet must be applied.
+25 The advocate may offer his services at an hourly rate or agree to work for a lump sum or for a total amount. It is thus not always in his interest to inform a third party about his mandate, since he is obliged to assume all the expenses and his remuneration is linked to the profit. The omission, intentional or otherwise, of the appointed advocate, to declare his mandate to a contracting third party inhibits any concept of representation in the eyes of the third party. The absence of representation has the legal consequence that the advocate is no longer acting on behalf of his mandate. This does not have the consequence of cancelling the mandate ad litem between the mandate client (sic) and the mandated advocate.
+...
+[My emphasis.]
+[16] Section 58 LAA stipulates:
+58. When the director general provides a recipient with the professional services of an advocate or notary not in the employ of the regional centre, he shall then fix, within the scope of the regulations, the conditions of the mandate which he gives to such advocate or notary.
+[My emphasis.]
+[17] Section 60 LAA stipulates:
+60. Where an advocate or notary not in the employ of a legal aid centre provides legal services to a recipient with in the scope of this Act, he shall not receive, in respect of such services, any fees or expenses except those provided for by this Act and the regulations.
+...
+[My emphasis.]
+[18] Gazette officielle du Québec, 19 November 1999, 128th year, no. 48, part 2, page 7086.
+[19] Gazette officielle du Québec, 23 May 2001, 133rd year, no. 21, page 3039.
+[20] Para. 19, sub-para 2 of the decrees.
+[21] In the Dictionnaire de droit québécois et canadien, supra, "disbursements" are described as follows:
+[translation]
+Expenses advanced by a person for the benefit of another and which must generally be reimbursed. E.g., the money advanced by an advocate for the benefit of his client.
+[My emphasis.]
+[22] Although this cannot be a reason justifying my conclusion, I cannot but help but note that the result obtained here seems to me consistent with the spirit of the Act, which aims to ensure that no GST is payable for legal aid services. A contrary result would have been completely inequitable. It is true that, as Counsel for the Respondent claimed, the advocates in private practice with whom Instanter dealt would have been able to obtain reimbursement of the tax paid to Instanter by claiming ITCs, if they had been registrants. However, this is not a solution when the advocate is not registered.

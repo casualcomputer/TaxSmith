@@ -1,0 +1,231 @@
+---
+title: "Babich c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29874/index.do"
+last_modified: "2010-06-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 352"
+citation2: ""
+neutral_citation: "2010 CCI 352"
+decision_date: "2010-06-24"
+language: "fr"
+item_id: "29874"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6431
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:50:32.682000+00:00"
+cases_cited_count: 0
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f13a86dc9c72d1e6d5acabeff027f84e32237d4aacdc14ea043ca0c6af04cf3c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Babich c. La Reine
+
+- Citation: 2010 CCI 352
+- Decision date: 2010-06-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6431, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Babich c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-24
+Référence neutre
+2010 CCI 352
+Numéro de dossier
+2008-4022(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-4022(IT)I
+ENTRE :
+EARL BABICH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel d’Able Enterprises Ltd. (2008-4024(GST)I) les 29 et 30 avril 2010,
+à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Matthew Canzer
+____________________________________________________________________
+JUGEMENT
+Vu la requête présentée par l’intimée pour obtenir de la Cour une ordonnance annulant le prétendu appel interjeté par l’appelant à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004;
+La requête est accueillie, sans dépens, et le prétendu appel est annulé.
+Vu la requête présentée par l’intimée pour obtenir de la Cour une ordonnance modifiant la réponse à l’avis d’appel, la requête est accueillie.
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est rejeté, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 24e jour de juin 2010.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 3e jour d’août 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Dossier : 2008-4024(GST)I
+ENTRE :
+ABLE ENTERPRISES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel d’Earl Babich (2008‑4022(IT)I) les 29 et 30 avril 2010,
+à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentant de l’appelante :
+M. Earl Babich
+Avocat de l’intimée :
+Me Matthew Canzer
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 16 juillet 2007, relativement à la période allant du 1er mars 2002 au 29 février 2004 est rejeté, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 24e jour de juin 2010.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 3e jour d’août 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2010 CCI 352
+Date : 20100624
+Dossier : 2008-4022(IT)I
+ENTRE :
+EARL BABICH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2008-4024(GST)I
+ET ENTRE :
+ABLE ENTERPRISES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] L’appelant, Earl Babich (« M. Babich »), a interjeté appel de la nouvelle cotisation établie à son égard pour les années d’imposition 2003 et 2004. Able Enterprises Ltd. (« Able ») a interjeté appel de la nouvelle cotisation établie à son égard pour ses périodes de déclaration allant du 1er mars 2002 au 29 février 2004. Ces deux appels ont été entendus sur preuve commune.
+Questions préliminaires
+[2] En premier lieu, je traiterai des deux requêtes présentées par l’intimée relativement aux appels de M. Babich. La première de ces requêtes vise à faire annuler l’appel pour l’année d’imposition 2004, et la deuxième vise à modifier la réponse à l’avis d’appel.
+[3] La requête d’annulation est fondée sur le fait que l’avis de nouvelle cotisation daté du 25 septembre 2008 et relatif à l’année d’imposition 2004 constituait une cotisation portant qu’aucun impôt n’était payable.
+[4] L’intimée a fondé sa position sur la preuve par affidavit de Daryl Argue, un représentant de l’Agence du revenu du Canada (l’« ARC »). L’affidavit comprenait un avis de nouvelle cotisation reconstitué, daté du 25 septembre 2008, confirmant que la cotisation portait qu’aucun impôt fédéral n’était payable. Cette nouvelle cotisation découlait du fait que l’ARC avait accepté la demande de M. Babich de retirer un revenu d’emploi de 8 990 $ de ses revenus pour 2004.
+[5] Les cotisations portant qu’aucun impôt fédéral n’est payable ne peuvent pas faire l’objet d’appels. Le juge Noël s’est penché sur cette question au paragraphe 17 d’Interior Savings Credit Union c. Canada[1] :
+[17] Néanmoins, l’expression « cotisation portant qu’aucun impôt n’est payable » (ou cotisation « néant ») est souvent employée dans la jurisprudence pour désigner une cotisation dont on ne peut faire appel. Il existe deux raisons pour lesquelles ce type de cotisation ne peut faire l’objet d’un appel. Premièrement, l’appel doit viser une cotisation et la cotisation aux termes de laquelle aucun impôt n’est payable n’est pas une cotisation (voir l’arrêt Okalta Oils Limited c. MRN, 55 DTC 1176 (CSC), à la page 1178 : [traduction] « Aux termes de ces dispositions, il n’y a pas de cotisation si aucun impôt n’a été réclamé. ») Deuxièmement, il n’existe aucun droit d’en appeler d’une cotisation portant qu’aucun impôt n’est payable puisque [traduction] “[t]oute opposition autre que celle qui se rapporte au montant réclamé [au titre des impôts] est dépourvue de l’objet dont découle le droit d’appel […] » (Okalta Oils, précité, à la page 1178).
+[6] La requête d’annulation de l’appel interjeté par M. Babich pour l’année d’imposition 2004 est accueillie.
+[7] L’intimée cherche aussi à modifier la réponse à l’avis d’appel en alléguant que, bien que le ministre du Revenu national (le « ministre ») ait inclus un montant dans les revenus de M. Babich à titre d’avantage conféré à un actionnaire en vertu des paragraphes 15(1) et (5) de la Loi de l’impôt sur le revenu (la « LIR »), ces dispositions‑là n’apparaissent pas dans la réponse à l’avis d’appel.
+[8] Comme M. Babich a consenti à cette modification, la requête de modification de la réponse à l’avis d’appel est accueillie.
+Questions en litige
+[9] Les questions en litige dans les deux appels sont liées. Dans l’appel de M. Babich, la question est de savoir si M. Babich a tiré un avantage de l’utilisation personnelle d’une automobile qui appartenait à Able. Dans l’affirmative, le montant de cet avantage est aussi en litige.
+[10] L’avis d’appel d’Able soulève deux questions :
+a) Si un avantage a été conféré à M. Babich, Able était‑elle tenue de percevoir la taxe sur les produits et services (la « TPS ») à l’égard de cet avantage?
+b) Pour 2002, la somme de 12 624,41 $ devait‑elle être créditée au compte de TPS d’Able ou à son compte de retenues à la source?
+Appel de M. Babich
+[11] Able a été constituée en société en 1999 sous le régime de la British Columbia Corporations Act. M. Babich est l’unique actionnaire et administrateur d’Able. En 2000, Able a commencé ses activités comme fournisseur de bois de chauffage. En 2001, elle a construit une scierie et a commencé à vendre du bardeau de cèdre. En 2004, la scierie a été détruite par un incendie et, comme aucune assurance‑incendie n’avait été contractée, elle n’a pas été reconstruite. Depuis ce moment‑là, Able a tiré ses revenus de la vente de bois de chauffage.
+[12] En 2002, M. Babich a acheté une Hyundai XG350 2002 (l’« automobile »). Il a ensuite établi une convention de fiducie nue selon laquelle il détenait le titre en common law de l’automobile et Able en devenait la propriétaire bénéficiaire. Après avoir reçu des explications de M. Babich, l’ARC a admis que l’automobile était un actif de l’entreprise, elle a permis à Able de demander un crédit de taxe sur les intrants pour l’automobile et elle a fait passer l’automobile de la catégorie 10 à la catégorie 10.1.
+[13] M. Babich n’a conservé aucun dossier au sujet de l’utilisation de l’automobile. À l’étape de la vérification, M. Babich a rencontré Tim Knight, un employé de l’ARC, pour discuter de l’utilisation de l’automobile à des fins commerciales. En se fondant sur les observations fournies à M. Knight par M. Babich, l’ARC a estimé que l’utilisation de l’automobile à des fins commerciales s’élevait à 75 % de son utilisation totale pour 2003 et 2004 et que, pour chacune des années 2003 et 2004, la distance totale parcourue avec l’automobile était de 41 316 kilomètres.
+[14] À l’audience, Ernest Babich, le père d’Earl Babich, a témoigné pour les appelants. Ernest Babich est le directeur général d’Able depuis 2000. Il a affirmé que lui et son épouse, Betty Babich, avaient été les seuls à utiliser l’automobile en 2003 et en 2004.
+[15] Ernest Babich a témoigné que lui et son épouse utilisaient l’automobile pour aller chercher du matériel et des fournitures pour Able, pour aller chercher des chèques chez les clients d’Able, pour conduire des employés entre leur résidence et la scierie, pour aller faire les opérations bancaires d’Able et pour faire la navette entre leur propre résidence et la scierie. Ni Ernest Babich ni son fils n’ont tenu de carnet de route relativement à l’utilisation de l’automobile.
+[16] Le témoignage d’Ernest Babich au sujet de l’utilisation de l’automobile était équivoque. Il a d’abord affirmé que lui et son épouse utilisaient l’automobile à des fins commerciales et à des fins personnelles, puis il a dit que l’automobile était seulement utilisée à des fins commerciales.
+[17] Ernest Babich a dit que son véhicule précédent avait fait l’objet d’une reprise de possession et qu’il avait acquis l’automobile au nom de son fils pour pouvoir travailler pour Able.
+[18] M. Babich a déposé en preuve deux lettres de l’Insurance Corporation of British Columbia. Ces lettres montrent que, pour la police d’assurance no 385DGH, il était le propriétaire enregistré et Ernest Babich était l’utilisateur principal de l’automobile.
+[19] M. Babich n’a jamais dit à l’ARC que son père était le principal utilisateur de l’automobile. Cette information a seulement été révélée lorsqu’Ernest Babich a témoigné. Ce dernier croyait, à tort, que s’il annonçait qu’il était celui qui utilisait l’automobile, aucun avantage ne serait inclus dans les revenus de son fils.
+[20] Vu les éléments de preuve présentés à l’audience, j’ai conclu que l’automobile a été achetée au nom de M. Babich pour que ses parents l’utilisent. J’ai aussi conclu qu’Ernest Babich et son épouse étaient les seuls utilisateurs de l’automobile, et qu’ils l’ont utilisée à des fins personnelles et à des fins commerciales.
+[21] Les dispositions pertinentes de la LIR sont ainsi libellées :
+15(1) Avantages aux actionnaires – La valeur de l’avantage qu’une société confère, à un moment donné d’une année d’imposition, à un actionnaire ou à une personne en passe de le devenir est incluse dans le calcul du revenu de l’actionnaire pour l’année – sauf dans la mesure où cette valeur est réputée par l’article 84 constituer un dividende […]
+15(5) Avantage relatif à l’utilisation d’une automobile – Pour l’application du paragraphe (1), la valeur de l’avantage à inclure dans le calcul du revenu d’un actionnaire pour une année d’imposition, à l’égard d’une automobile mise à sa disposition, ou à celle d’une personne qui lui est liée, par une société est, sauf si un montant est déterminé en application du sous-alinéa 6(1)e)(i) à l’égard de l’automobile dans le calcul du revenu de l’actionnaire pour l’année, calculée à supposer que les paragraphes 6(1), (1.1), (2) et (7) s’appliquent, avec les adaptations nécessaires, et comme si la mention, à ces paragraphes, de « l’employeur » ou de « son employeur », selon le cas, valait mention de « la société ».
+6(1) Éléments à inclure à titre de revenu tiré d’une charge ou d’un emploi – Sont à inclure dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi, ceux des éléments suivants qui sont applicables :
+[…]
+e) Frais pour droit d’usage d’une automobile – lorsque son employeur ou une personne liée à son employeur a mis au cours de l’année une automobile à sa disposition (ou à la disposition d’une personne qui lui est liée), l’excédent éventuel de la somme visée au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+(i) la somme qui représente les frais raisonnables pour droit d’usage de l’automobile pendant le nombre de jours de l’année où elle était ainsi à sa disposition,
+(ii) le total des sommes dont chacune représente une somme (autre qu’une dépense liée au fonctionnement de l’automobile) payée au cours de l’année à l’employeur ou à la personne liée à l’employeur par le contribuable ou par la personne qui lui est liée pour l’usage de l’automobile;
+[…]
+k) Avantage relatif au fonctionnement d’une automobile – lorsqu’une somme est déterminée en application du sous-alinéa e)(i) relativement à une automobile dans le calcul du revenu du contribuable pour l’année, qu’un montant au titre du fonctionnement de l’automobile (autrement que dans l’accomplissement des fonctions de la charge ou de l’emploi du contribuable) pour la ou les périodes de l’année au cours desquelles l’automobile a été mise à sa disposition ou à la disposition d’une personne qui lui est liée est payé ou payable par l’employeur du contribuable ou par une personne liée à cet employeur (l’employeur et cette personne étant appelés « payeur » au présent alinéa) et que le total des montants ainsi payés ou payables n’est pas versé au payeur, au cours de l’année ou des 45 jours suivant la fin de l’année, par le contribuable ou par la personne qui lui est liée, le montant lié au fonctionnement de l’automobile, qui correspond au résultat du calcul suivant :
+A - B
+où :
+A représente :
+(i) dans le cas où l’automobile sert principalement dans l’accomplissement des fonctions de la charge ou de l’emploi du contribuable au cours de la ou des périodes en question et où le contribuable avise son employeur, par écrit, avant la fin de l’année de son intention de se prévaloir du présent sous-alinéa, la moitié de la somme déterminée en application du sous-alinéa e)(i) relativement à l’automobile dans le calcul du revenu du contribuable pour l’année,
+(ii) dans les autres cas, le produit de la multiplication du montant prescrit pour l’année par le nombre total de kilomètres parcourus par l’automobile (autrement que dans l’accomplissement des fonctions de la charge ou de l’emploi du contribuable) au cours de la ou des périodes en question;
+B le total des montants relatifs au fonctionnement de l’automobile au cours de l’année versés au payeur, au cours de l’année ou des 45 jours suivant la fin de l’année, par le contribuable ou par la personne qui lui est liée;
+[Non souligné dans l’original.]
+[22] Compte tenu de l’ensemble de la preuve, j’ai conclu qu’un avantage a été conféré à M. Babich. C’est Able qui était propriétaire de l’automobile et qui payait tous les frais relatifs à l’automobile. M. Babich était l’unique actionnaire d’Able et il a accordé à ses parents l’utilisation exclusive de l’automobile à des fins personnelles et commerciales. En application du paragraphe 15(5) de la LIR, la valeur de l’avantage à inclure dans le calcul du revenu d’un actionnaire à l’égard d’une automobile correspond à une automobile mise à la disposition de l’actionnaire ou à celle d’une personne qui lui est liée.
+[23] Selon les calculs du ministre, la valeur de l’avantage à inclure dans les revenus de M. Babich pour 2003 totalise 6 804,25 $ (5 097,45 $ au titre des frais pour droit d’usage d’une automobile et 1 706,80 $ au titre de l’avantage relatif au fonctionnement d’une automobile). Ce calcul repose sur les hypothèses selon lesquelles le prix d’achat de l’automobile était de 42 318 $[2], la distance parcourue en 2003 était de 41 316 kilomètres, l’utilisation de l’automobile à des fins personnelles était de 25 % chaque année et la distance parcourue à des fins personnelles s’élevait à 10 040 kilomètres.
+[24] Les hypothèses du ministre sont fondées sur les données et les observations que M. Babich lui a fournies. C’est M. Babich qui avait le fardeau de réfuter les hypothèses du ministre, ce qu’il n’a pas su faire. M. Babich n’a présenté aucun élément de preuve pour contester les calculs et les hypothèses du ministre relativement à l’inclusion et au montant des frais pour droit d’usage d’une automobile et de l’avantage relatif au fonctionnement d’une automobile.
+[25] M. Babich a soutenu qu’il devrait pouvoir compenser l’avantage inclus dans ses revenus par le prêt d’actionnaire qu’il avait consenti à Able.
+[26] Aucun élément de preuve n’a été présenté pour établir l’existence d’un prêt d’actionnaire. De plus, l’article 15 de la LIR vise à empêcher les sociétés de conférer indirectement à leurs actionnaires un avantage économique qui ne serait pas imposé.
+[27] L’appel d’Earl Babich est rejeté.
+Appel d’Able
+[28] En application de l’article 173 de la Loi sur la taxe d’accise, Able est réputée avoir perçu la TPS relativement à l’avantage qui a été inclus dans les revenus de M. Babich en application de la LIR. La TPS qu’Able est réputée avoir perçue s’élève à 373,88 $ pour la période se terminant le 28 février 2003 et à 373,88 $ pour la période se terminant le 29 février 2004. Cependant, dans sa nouvelle cotisation, le ministre a exigé 373,84 $ pour chacune de ces périodes. Compte tenu des éléments de preuve présentés, j’ai conclu que le ministre a exigé à juste titre le versement de la TPS relativement à l’avantage inclus dans les revenus de M. Babich.
+[29] La deuxième question soulevée par Able est de savoir si, pour 2002, la somme de 12 624,41 $ aurait dû être créditée à son compte de TPS ou à son compte de retenues à la source.
+[30] Les faits relatifs à cette question ont été résumés dans une lettre datée du 28 mai 2007 qu’Alan McDonnell, un agent de recouvrement de l’ARC, a envoyée à M. Babich. Le deuxième paragraphe de cette lettre est ainsi rédigé :
+[traduction]
+En réponse à votre demande de renseignements de mars 2007, nous avons mené un examen approfondi de votre compte. Nous avons conclu qu’en juillet 2000, nous avions envoyé une demande formelle de paiement (saisie‑arrêt) à Gibson’s Pass Resorts Inc. et recouvré la somme de 12 624,41 $, laquelle a ensuite été appliquée à l’arriéré de Babich Enterprises Ltd. Plus tard, en mai 2003, cette somme a été transférée au compte de retenues à la source d’Able Enterprises Ltd. Notre examen nous a permis de découvrir qu’en décembre 2002, nous avions mené une vérification relative aux retenues à la source et que, comme nous ignorions qu’une somme allait plus tard être transférée, nous avions imposé des pénalités et des intérêts pour les retenues à la source non versées pour 2000, 2001 et 2002. Toutes ces pénalités et tous ces intérêts ont été annulés et des crédits correspondants ont été accordés. Ces crédits ont été appliqués aux montants cotisés à la suite de la vérification relative aux retenues à la source menée en janvier 2005. Suivant ces rajustements, votre solde a été réduit à 244,98 $ en date du 28 mai 2007. J’ai demandé qu’un état de compte détaillé vous soit envoyé par la poste. Vous devriez le recevoir d’ici six semaines.
+[31] La Cour n’a pas compétence pour trancher la question de savoir si la somme de 12 624,41 $ aurait dû être créditée au compte de TPS d’Able ou à son compte de retenues à la source.
+[32] En conclusion, l’appel d’Able Enterprises Ltd. est rejeté.
+Signé à Ottawa, Canada, ce 24e jour de juin 2010.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 3e jour d’août 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2010 CCI 352
+No DU DOSSIER DE LA COUR :
+2008-4022(IT)I
+INTITULÉ :
+Earl Babich c. Sa Majesté la Reine
+No DU DOSSIER DE LA COUR :
+2008-4024(GST)I
+INTITULÉ :
+Able Enterprises Ltd. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Les 29 et 30 avril 2010
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 24 juin 2010
+COMPARUTIONS :
+Représentant des appelants :
+M. Earl Babich
+Avocat de l’intimée :
+Me Matthew Canzer
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [2007] CAF 151.
+[2] Pièce R‑1, onglet 3.

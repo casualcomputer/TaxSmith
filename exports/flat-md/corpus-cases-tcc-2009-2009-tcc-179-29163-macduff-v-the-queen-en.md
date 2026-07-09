@@ -1,0 +1,141 @@
+---
+title: "Macduff v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29163/index.do"
+last_modified: "2009-03-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 179"
+citation2: ""
+neutral_citation: "2009 TCC 179"
+decision_date: "2009-03-31"
+language: "en"
+item_id: "29163"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6723
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:25:03.202000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "01132ea4f453afb952f2c19f7f78352c7df1098fa553d18a73a202731fc44c67"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Macduff v. The Queen
+
+- Citation: 2009 TCC 179
+- Decision date: 2009-03-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6723, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Macduff v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-03-31
+Neutral citation
+2009 TCC 179
+File numbers
+2008-1574(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1574(IT)I
+BETWEEN:
+MARK MACDUFF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 26, 2009, at Winnipeg, Manitoba
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Cam Regehr
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2005 and 2006 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 31st day of March 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2009TCC179
+Date: 20090331
+Docket: 2008-1574(IT)I
+BETWEEN:
+MARK MACDUFF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] The issue in this appeal is whether the amounts paid by the Appellant to The Laureate Academy in 2005 and 2006 are medical expenses in accordance with paragraph 118.2(2)(e) of the Income Tax Act (the “Act”).
+[2] The Appellant was the only witness. He stated that his daughter Kelsey has dyslexia. She has problems reading, understanding and comprehending. He personally knows of the hurdles faced by someone with dyslexia as he himself has the disability.
+[3] He stated that there are no programs in the regular school system to assist students who have dyslexia. Whereas at The Laureate Academy, there were small classes and Kelsey was able to get individual instruction. She was successful in attaining her grade 9 and grade 10 certificates and one credit towards her grade eleven certificate.
+[4] Paragraph 118.2(2)(e) of the Act provides as follows:
+(2) Medical expenses -- For the purposes of subsection (1), a medical expense of an individual is an amount paid
+(e) [school, institution, etc.] -- for the care, or the care and training, at a school, institution or other place of the patient, who has been certified by an appropriately qualified person to be a person who, by reason of a physical or mental handicap, requires the equipment, facilities or personnel specially provided by that school, institution or other place for the care, or the care and training, of individuals suffering from the handicap suffered by the patient;
+[5] To claim an expense under this paragraph, the Appellant must be able to satisfy the following criteria as were set out in Collins v. Canada[1]:
+1. The taxpayer must pay an amount for the care or care and training at a school, institution or other place.
+2. The patient must suffer from a mental handicap.
+3. The school, institution or other place must specially provide to the patient suffering from the handicap, equipment, facilities or personnel for the care or the care and training of other persons suffering from the same handicap.
+4. An appropriately qualified person must certify the mental or physical handicap is the reason the patient requires that the school specially provide the equipment, facilities or personnel for the care or the care and training of individuals suffering from the same handicap.
+[6] The Respondent has conceded that the Appellant has met the first two requirements.
+[7] The Appellant had no documents with him as they had been destroyed. I asked the Respondent to tender the documents that had been reviewed by the Canada Revenue Agency (“CRA”) at the objection stage.
+[8] These documents included a letter from The Laureate Academy dated April 3, 2007, in which the Executive Director of that school states the following:
+The qualification of tuition payments made to the Laureate Academy as a medical expense was reviewed by Revenue Canada in September, 1996. At that time The Laureate Academy was found to have the special equipment, facilities, and/or personnel required to adequately care for the handicapped students we serve. Mr. Vincent Wold of the Revenue Canada Tax Centre in Winnipeg concluded that “the tuition paid to The Laureate Academy will qualify as a medical expense by Revenue Canada.”
+[9] I have not accepted that the letter has established that the Appellant has met the third criteria as the Respondent did not have the opportunity to cross examine the author of the letter.
+[10] As well, the Federal Court of Appeal has held that to determine if an institution provides special care as contemplated by paragraph 118.2(2)(e), the test is one of purpose[2]. There was no evidence with respect to the purpose of The Laureate Academy.
+[11] With respect to whether a qualified person has certified that the Appellant’s daughter required the equipment, facilities or personnel specially provided by The Laureate Academy, Justice Trudel stated the following in The Queen v. Scott[3]:
+23 However there must be true certification: one which specifies the mental or physical handicap from which the patient suffers, and the equipment, facilities or personnel that the patient requires in order to obtain the care or training needed to deal with that handicap: Title Estate v. R., [2001] F.C.J. No. 530 (Fed. C.A.) at paragraph 5.
+[12] Included in the materials reviewed by the CRA was a letter dated May 29, 2007 from a Dr. Robinson. In the letter he stated:
+Kelsey attended the Laureate Academy from September 2005 to June 2007 and she had benefited from this extra resource. It has allowed her to improve her school performance to an acceptable level.
+[13] This letter does not amount to a certification.
+[14] The appeal is dismissed.
+Signed at Ottawa, Canada, this 31st day of March 2009.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2009TCC179
+COURT FILE NO.: 2008-1574(IT)I
+STYLE OF CAUSE: MARK MACDUFF AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: March 26, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: March 31, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Cam Regehr
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1] [1998] T.C.J. No. 396
+[2] Lister v. Canada, 2006 FCA 331
+[3] 2008 FCA 286

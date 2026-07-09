@@ -1,0 +1,117 @@
+Title: Zhang v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31061/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-19-31061-zhang-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-01-18
+
+# Zhang v. The Queen
+
+- Citation: 2013 TCC 19
+- Decision date: 2013-01-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4701, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zhang v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-01-18
+Neutral citation
+2013 TCC 19
+File numbers
+2012-1675(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1675(IT)I
+BETWEEN:
+WEN ZHANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 22, 2012 at Nanaimo, British Columbia
+By: The Honourable Justice J.M. Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Zachary Froese
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act for the 2006, 2007 and 2008 taxation years is dismissed.
+Signed at Ottawa, Ontario this 18th day of January 2013.
+“J. M. Woods”
+Woods J.
+Citation: 2013 TCC 19
+Date: 20130118
+Docket: 2012-1675(IT)I
+BETWEEN:
+WEN ZHANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Wen Zhang appeals assessments made under the Income Tax Act in which Mr. Zhang’s income was determined by what was referred to as an application of funds method. Under this method, the Minister assumed that Mr. Zhang’s personal expenditures were funded from unreported income to the extent that the expenditures exceeded other known sources of funds. Mr. Zhang submits that the assessed amounts were loans and not unreported income.
+[2] The assessments relate to the 2006, 2007 and 2008 taxation years. There are two issues: (1) Are the amounts that have been assessed loans or income? and (2) Is the assessment for the 2006 taxation year statute barred?
+Background
+[3] Mr. Zhang was educated as an engineer in China and immigrated to Canada in 2001. He currently lives in Nanaimo, British Columbia with his wife and three children and is employed as a taxi driver.
+[4] In the relevant period, Mr. Zhang earned income as a consultant by providing assistance for a business operated by his brother and sister in China. The dispute in this appeal centres on the amount of income Mr. Zhang earned from this activity.
+[5] Mr. Zhang testified that when his brother and sister lost their jobs in China, he suggested that they start a business of selling crystal minerals on eBay. Apparently the brother and sister lived in an area where this mineral could be sourced locally.
+[6] Mr. Zhang stated that his brother and sister were reluctant to start the business as they did not know English and had no internet knowledge. Accordingly, Mr. Zhang offered his assistance and this was apparently accepted. He taught the brother and sister how to sell on eBay and he opened eBay and PayPal accounts for them. He also agreed to deal with the English speaking customers as a majority of the customers were in the United States.
+[7] Mr. Zhang testified that he did not want compensation for providing this assistance. However, the brother and sister wanted Mr. Zhang to earn a commission, which was initially settled at 5 percent (excluding shipping costs) and was subsequently changed to 3 percent (including shipping costs) in order to simplify the calculations.
+[8] Mr. Zhang testified that the eBay business did very well. As a result, the brother and sister agreed to help him financially upon the completion of his schooling as he would no longer be receiving student loans. He said that he did not have a record of the actual amount borrowed but that it was in the neighbourhood of $70,000. He also stated that the brother and sister kept track of the amount that he borrowed as he would advise them when money was withdrawn from the accounts. He stated that the brother and sister also helped out other relatives and that they were motivated to make the loans partially because they wanted to keep money in Canada for various personal reasons.
+[9] The eBay business earned annual revenues in the neighbourhood of $1,000,000 during the period at issue.
+[10] In his personal income tax returns, Mr. Zhang reported income from this source in the amounts of $23,768, $36,974 and $28,828 for the 2006, 2007 and 2008 taxation years, respectively.
+[11] The Canada Revenue Agency (CRA) became aware that Mr. Zhang had eBay accounts, and they contacted him for further information. In the initial call Mr. Zhang denied having eBay or PayPal accounts, but he acknowledged the accounts in a subsequent conversation. After further investigation, the CRA determined that Mr. Zhang had approximately 40 bank accounts associated with the eBay business to which significant deposits were made.
+[12] The CRA was not provided with any business records to verify the reported income. Accordingly, income was determined using the “application of funds” method. The starting point was a determination of Mr. Zhang’s actual personal expenditures. These amounts were then reduced by known sources of funds, and the balance was assumed to be unreported income from the consulting business.
+[13] Assessments were issued on the basis that Mr. Zhang failed to report additional income from the consulting business in the amounts of $25,737, $20,425 and $23,304 for the 2006, 2007 and 2008 taxation years, respectively.
+[14] Mr. Zhang does not dispute that he received these amounts by making withdrawals from the bank accounts containing the revenues from the eBay business. He submits, though, that these amounts were loans from his brother and sister and not income.
+[15] None of the money has been repaid to date. Mr. Zhang testified that it would be difficult to repay the money at the present time because his income as a taxi driver is very low. He stated that he was hoping to obtain a better-paying job in the future given his qualifications as a civil engineer in China and having taken computer training in Canada.
+Analysis
+[16] The first issue is whether the assessed amounts are income or loans.
+[17] One of the major difficulties that I have with Mr. Zhang’s position is that it depends largely on his own self-interested testimony. No business records were provided for either the eBay business or Mr. Zhang’s consulting business, and there was no contemporaneous supporting documentation regarding either the commissions or the loans.
+[18] This is not necessarily fatal to Mr. Zhang’s appeal, but in such a case his testimony regarding the relevant circumstances needs to be detailed, cogent and straightforward. I did not find it to be so.
+[19] First, Mr. Zhang did not provide detailed testimony as to the assistance that he provided for the eBay business. For example, in the notice of appeal Mr. Zhang stated that he taught the brother and sister how to sell on eBay and that he opened eBay and PayPal accounts for them. However, it came out in cross-examination that Mr. Zhang opened a great many bank accounts for the business and managed the funds. This suggests that Mr. Zhang may have been quite involved in the day‑to-day business activity and may have earned more than the modest commission that was reported in the income tax returns.
+[20] Second, there was no clear reconciliation between what Mr. Zhang said he earned as commission and what was reported in the income tax returns. Mr. Zhang provided some explanations but the explanations seem to raise more questions than answers. For example, Mr. Zhang provided an after-the-fact calculation of the commission but it does not correspond with the amounts reported in the income tax returns. In addition, Mr. Zhang’s calculation does not add up to 3 percent. The calculation suggests that 97 percent of the funds were transferred to the brother and sister and 3 percent was split between the commission and the wire transfer fee to send the 97 percent to China. Nothing seems to add up.
+[21] Mr. Zhang explained that in two of the income tax returns he reported more than the amount earned in order to satisfy Canadian immigration officials that a visa should be issued to his parents-in-law. It seems strange that reporting a few thousand dollars more in income would assist in obtaining a visa.
+[22] Further, if Mr. Zhang owed money to his sister and brother I find it implausible that he would not keep a record of these amounts.
+[23] The lack of contemporaneous documentation is a serious problem in this case because there is nothing to corroborate Mr. Zhang’s self-interested testimony. Taxpayers are required to keep satisfactory records so that their income can be verified.
+[24] Finally, I would comment that it does not assist Mr. Zhang’s case that he acknowledged that he misled the CRA by telling them that he did not have eBay or PayPal accounts. He also testified that he over-reported his income in order to mislead immigration officials. Even if I accept Mr. Zhang’s explanations for making these false statements, it does not encourage me to find that his testimony at this hearing is reliable.
+[25] Upon consideration of the evidence as a whole, I have concluded that the assessed amounts were unreported income and not loans.
+[26] A second issue concerns the assessment for the 2006 taxation year which was made beyond the normal reassessment period. The Crown submits that the assessment was properly made under s. 152(4) of the Act because the under‑reporting of income was willful.
+[27] The Crown bears the burden to establish that the failure to report income was careless, negligent or willful. It has met this burden by establishing that Mr. Zhang withdrew more from the eBay business than what was reported, and that he attempted to hide this source of income from the CRA. A credible case has been made that Mr. Zhang knowingly under-reported the income, and Mr. Zhang has failed to provide reliable evidence to rebut this finding. I would conclude that the assessment for the 2006 taxation year is not statute barred.
+[28] The appeal will be dismissed.
+Signed at Ottawa, Ontario this 18th day of January 2013.
+“J. M. Woods”
+Woods J.
+CITATION: 2013 TCC 19
+COURT FILE NO.: 2012-1675(IT)I
+STYLE OF CAUSE: WEN ZHANG and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Nanaimo, British Columbia
+DATE OF HEARING: November 22, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: January 18, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Zachary Froese
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

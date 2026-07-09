@@ -1,0 +1,219 @@
+---
+title: "Scharfe v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29630/index.do"
+last_modified: "2010-02-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 39"
+citation2: ""
+neutral_citation: "2010 TCC 39"
+decision_date: "2010-02-02"
+language: "en"
+item_id: "29630"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6137
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:41:51.327000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dc24ddf533bed95ebf89f1299829bc9f0c502e8d3cc431217684bc0757f72ec9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Scharfe v. The Queen
+
+- Citation: 2010 TCC 39
+- Decision date: 2010-02-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6137, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scharfe v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-02-02
+Neutral citation
+2010 TCC 39
+File numbers
+2007-3992(IT)I, 2008-2611(GST)I
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2010 TCC 39
+Date: 20100202
+Docket: 2007-3992(IT)I,
+2008-2611(GST)I.
+BETWEEN:
+MARK SCHARFE,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+____________________________________________________________________
+Agent for the Appellant:
+K.E. Koshy
+Counsel for the Respondent:
+Suzanie Chua
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally by conference call on
+September 25, 2009, at Ottawa, Ontario)
+[1] The Appellant, Mark Scharfe, has filed two appeals. In the first appeal, the Appellant has appealed income tax assessments in respect of his 2002, 2003 and 2004 taxation years. In the second appeal, the Appellant appealed GST assessments in respect of his GST reporting periods that began on January 1, 2002 and ended on December 31, 2004.
+[2] The two appeals were heard together on common evidence.
+[3] I will first provide my decision with respect to the income tax appeal.
+[4] The parties agreed at the commencement of the hearing that the following three issues were before the Court:
+- Whether the Appellant was entitled to the business expenses disallowed by the Minister in the amount of $35,856, $17,519 and $9,771 for the 2002, 2003 and 2004 taxation years respectively;
+- Whether the Appellant was entitled to the farming expenses disallowed by the Minister in the amount of $2,416 and $5,479 for the 2002 and 2003 taxation years respectively;
+- Whether the Minister was correct in restricting the farm loss claimed by the Appellant for the 2004 taxation year.
+[5] Two witnesses testified at the hearing. Mr. Scharfe provided evidence in support of his case and Mr. Michael Kocher, a CRA auditor, testified for the Respondent.
+[6] Counsel for the Respondent questioned the credibility of the Appellant and suggested that his testimony should not be relied upon by the Court.
+[7] I strongly disagree with the Respondent's counsel. I found Mr. Scharfe to be honest. He answered all of the questions to the best of his knowledge. It is not surprising that he cannot provide specific answers to all of the questions considering the time that has lapsed and the fact that during the relevant period, he was trying to maintain his farming operations during a crisis, plus start three new businesses and tried to do all of this while maintaining his job as a police officer.
+[8] Mr. Scharfe was a credible witness and I accept his testimony as reliable.
+[9] The agent for the Appellant appeared to question the methods employed by Mr. Kocher, the employee of the CRA who audited the Appellant. I disagree with any suggestion that Mr. Kocher's work was deficient. It was clear from the evidence provided by both the Appellant and Mr. Kocher that the maintenance of books and records was not one of the Appellant's strengths.
+[10] Mr. Kocher did the best job he could with the information available to him. Mr. Kocher was also a credible witness and I accept his testimony as reliable.
+[11] It should be noted that the Appellant was not the only party who was not able to produce information that would have been helpful to the Court. Counsel for the Respondent informed the Court that all of the CRA's records with respect to the Appellant's 2002 taxation year had been destroyed.
+[12] In addition, counsel for the Respondent informed the Court that the CRA was not able to calculate the amount of taxes at issue for any of the three taxation years under appeal.
+[13] The inability of the CRA to calculate the amount of tax at issue presented a problem for the Court. During the closing argument of the agent for the Appellant, I became aware of the fact that the amounts at issue for at least two of the taxation years under appeal may exceed the $12,000 limitation for proceedings under the Court's informal procedure, or alternatively may exceed the $24,000 limitation for losses.
+[14] I then directed counsel for the Respondent to determine the amounts at issue for each taxation year. After discussing the issue with her client, counsel reiterated that the CRA was unable to calculate the amounts at issue.
+[15] Fortunately, the agent for the Appellant informed me that the Appellant elected to limit the appeal to the statutory limits set out in subsection 18(1) of the Tax Court of Canada Act; amounts in issue equal or less than $12,000 or losses determined under subsection 152(1.1) of the Income Tax Act equal to or less than $24,000.
+[16] As a result of the Appellant's election, the appeal proceeded under the informal procedure rules pursuant to Section 18.13 of the Tax Court of Canada Act.
+[17] I will now turn to the facts before the Court. I will begin by discussing the farm operations.
+[18] It is clear from the evidence that Mr. Scharfe and his family are very hard-working individuals who take great pride in their farm operation and have worked extremely hard over the last few years to ensure that the farm operation survived the mad cow scare.
+[19] The Appellant has either lived or worked on the farm in question for most of his life. The Appellant grew up on the farm, which was originally owned by the Appellant's father. In fact, the farm has been owned by the Appellant's family since 1911.
+[20] The Appellant attended agricultural college and then worked on a government-operated experimental farm for between one and a half and two years.
+[21] In 1981 the Appellant joined the Ottawa Police Force.
+[22] In 1985 the Appellant purchased cattle and farming equipment from his father and agreed to rent 49 acres of farmland from his father.
+[23] In 1998 the Appellant purchased the 49 acres of farmland from his father.
+[24] One acre of this land was used by the Appellant for his home. The remaining 48 acres were used for the farm. In addition, the Appellant testified that during the periods at issue he was renting an additional one hundred acres of adjacent land for his farming business.
+[25] It is clear from the testimony of the Appellant that the farming operation was substantial. There were a number of structures on the farm, including two buildings used for the cattle and hay storage, a 40-by-80 structure that was built some time ago, referred to as the old barn, and a 42-by-110-foot structure that was built in 2002, referred to as the new barn.
+[26] In addition, the Appellant purchased farming equipment from his father, which he was constantly updating, including tractors, hay equipment and cattle-handling equipment.
+[27] The Appellant testified that he divided his time between his work as a police officer and the operation of the farm. He worked 40 hours per week as a police officer and at least 40 hours per week on the farm.
+[28] The running of the farm is a family operation. The Appellant's spouse was raised on a beef cattle farm. She supervises the operation of the farm when the Appellant is at work, watches the cattle, directs trucks and deals with any phone calls.
+[29] The evidence before the Court was that the Appellant's three children also help with the operation of the farm. During the period at issue, the Appellant testified that his three sons devoted most of their time to the operation of the start-up businesses that will be discussed shortly.
+[30] The Appellant testified that it was his intention to grow the farming business so that it could support his family after he retired from the police force.
+[31] During the years under appeal, the Canadian cattle business was hit by the mad cow scare. The Appellant noted that the price for cattle collapsed as a result of the border to the U.S. being closed for Canadian cattle. During this period, the Appellant decided that he needed to find other sources of revenue if he was to save the farm. As a result he started three ancillary businesses: a cold storage business, a business of selling police duty belt suspenders over the Internet, and a home security business.
+[32] It was the evidence before the Court that the old barn and the new barn were used for the cold storage business. This required the cattle and hay to remain in the fields. The farming equipment was removed from the barn and tarped.
+[33] The police duty suspender business was conducted from the Appellant's home. The Appellant designed a suspender that police officers could wear to distribute the weight of their equipment. It was designed to reduce the weight on police officers’ backs. The Appellant outsourced the manufacturing of the belts to companies in Ontario.
+[34] The home security business involved the sale of monitoring systems to homeowners. The Appellant contracted with a third party to provide the monitoring services.
+[35] The Appellant testified that he visited the Canada Revenue Agency’s local office once a year to discuss the reporting of his taxes. He followed the suggestion of the CRA officials and reported the income from all three businesses as one business.
+[36] I will now turn to the issues before the Court.
+[37] I will first consider the deduction of the business expenses disallowed by the Minister.
+[38] These expenses relate to the three ancillary businesses discussed above. The Respondent has not questioned whether the operation of the businesses constituted sources of income. In fact, the CRA has allowed the deduction of numerous expenses.
+[39] The only issue before me is the deduction of certain expenses incurred by the Appellant. I will consider each of the expense categories noted in the reply statement.
+[40] The first category was referred to as wages. The Minister denied the amount of $7,300 deducted by the Appellant in his 2002 taxation year. The Respondent did not appear to deny any amounts deducted by the Appellant for wages in his 2003 and 2004 taxation years.
+[41] The Appellant testified that all three of his children helped with the ancillary businesses. His oldest son, who was 14 in 2002, helped with the operation of the website for the police suspender business. His other two sons, who were 10 and 12 in 2002, performed numerous tasks. For example, they helped prepare the belts for shipment, helped maintain the storage buildings, removed snow, cut the grass, and helped clean up the storage facilities once a tenant left.
+[42] The Appellant paid each of his children $10 per day for the work they performed. He felt that the $10 was a reasonable sum to reflect the average hours they worked throughout the year.
+[43] The CRA allowed the deduction for the Appellant's oldest son, but denied the amounts deducted in respect of the Appellant's youngest two sons. The CRA did not feel that the amounts were reasonable in light of the age of the children.
+[44] I cannot agree with the CRA's position. Ten dollars per day appears to be a reasonable amount to pay the children for the work performed. It is clear from the evidence that this was an extremely difficult financial period for the Appellant and all the family members were required to work in the ancillary businesses.
+[45] In addition, the Appellant testified that his two youngest sons were paid wages in 2003 and 2004. However, the CRA did not disallow the deduction of these wages. If the CRA felt that the amounts paid were reasonable in 2003 and 2004, they were certainly also reasonable in 2002.
+[46] As a result, I find the Appellant was entitled to deduct $7,300 as a business expense in his 2002 taxation year.
+[47] The second category of business expenses was referred to as meals and entertainment. The CRA denied the amounts deducted in each of the relevant years; $1,375, $2,433 and $2,079 for each of the 2002, 2003 and 2004 taxation years respectively.
+[48] The evidence filed by the Respondent indicated that the above amounts equalled 50 per cent of the actual expenses incurred. The Appellant testified that he incurred the meals and entertainment expenses in the course of marketing the cold storage business. His target market was small business operators who required storage space at a low cost.
+[49] He described his target customer as “hard-working people who were responsible”. He felt that these potential customers would eat at local restaurants that served good food at a reasonable price. He felt that by meeting them in their community, he could sell them on the benefits of using a local person for their storage needs.
+[50] The Appellant submitted approximately 250 invoices in support of his deductions. In other words, he visited a lot of restaurants. The CRA denied all amounts claimed on the basis they were personal expenditures.
+[51] The onus is on the Appellant to produce evidence to rebut the assumption made by the CRA that the expenses were not incurred to earn income from a business. I find that the evidence of the Appellant successfully rebuts this assumption.
+[52] However, the witness for the Respondent also provided evidence to support the CRA's position. In particular, the witness referred to nine receipts that had been provided to the CRA by the Appellant. I have reviewed the nine receipts. Seven totalling $386.03 appear to be for food delivered to the Appellant's home. The remaining two receipts support the evidence provided by the Appellant. Further, the Appellant filed another 241 receipts that were only referred to in general terms by the witness for the Respondent.
+[53] While the Respondent has filed evidence to show that $386.03 of the expenses were personal expenditures, I find that the evidence provided by the Appellant supports his position that the remaining $11,387.97 of expenses were incurred to earn income from a business. One-half of these amounts, or $5,693.98, are to be deducted as follows: $1,375 in the 2002 taxation year, $2,331.87 in the 2003 taxation year, and $1,987.11 in the 2004 taxation year.
+[54] The third category of expenses was referred to as repair and maintenance. The Minister disallowed the amounts of $27,181 deducted in the 2002 taxation year and $8,764 in the 2003 taxation year on the basis that such amounts were incurred on account of capital and not income.
+[55] The Appellant argued that such expenses were incurred on account of income. He noted that the expenses were incurred to bring the barns, particularly the old barn, to a state where they could be rented as cold storage.
+[56] In support of the Appellant's position, the Appellant's agent referred the Court to numerous invoices filed by the Respondent (Exhibit R-1, Pages 21, 22, 23 and 28).
+[57] It appears to me that all of the invoices referred to by the Appellant's agent relate to capital expenditures. The expenditures noted in the invoices exceed normal repair and were more in the nature of improvements to the barns.
+[58] As a result, I find that the Appellant has not filed any evidence to rebut the Minister's assumption that the expenses were capital in nature.
+[59] The fourth category of business expenses was referred to as purchases. The Minister disallowed $3,326 that the Appellant deducted in his 2003 taxation year. The Appellant provided evidence (Exhibit A-3, Page 1) that the amount in question was paid to Les Footwear to purchase 74 sets of police duty suspenders. It was the evidence of the Respondent's witness that the amount was deducted twice when calculating the Appellant's income from the business.
+[60] The Appellant noted on cross-examination that the $3,326 was deducted twice. However, he stated that each deduction represented a separate purchase of 74 sets of police duty suspenders.
+[61] I accept the evidence of the Appellant. It is reasonable that a business would purchase supplies in standard quantities. As a result the $3,326 is to be deducted when determining the Appellant's income from a business for his 2003 taxation year.
+[62] The next category of business expenses was referred to as management and administration fees. The Minister disallowed $2,996 and $7,538 that the Appellant deducted in the 2003 and 2004 taxation years respectively under this heading.
+[63] The Appellant did not provide the Court with a complete list of expenses that supported the amounts deducted. The agent for the Appellant referred the Court to the working papers of the auditor (Exhibit A-1, pages 1 to 4) in the hope that they would provide details with respect to the amounts deducted.
+[64] Unfortunately for the Appellant, the working papers provided very few details. Most of the entries are followed by a note that states “No documentation was provided to show that this expense was incurred”. The only reference to actual expenses in the 2003 working papers were amounts paid to Global Payments, Magma, Rogers and Minister of Finance. However, the working papers show that the CRA allowed the Appellant to deduct the amounts paid to Global Payments and Magma.
+[65] The Appellant noted that the primary service purchased from Rogers was the Internet connection required to operate the website. The Appellant explained that when he contacted Rogers to purchase the Internet connection, he was informed that it would be cheaper if the Appellant purchased a so-called bundle that included cable TV.
+[66] In short, the payments to Rogers contained both a personal and a business element. The witness testified that approximately 80 per cent of the expenses were for business. Based on my calculation, this translates into a deductible amount of $355.98 in the 2003 taxation year and $799.48 in the 2004 taxation year.
+[67] The auditor's working papers for the 2004 taxation year also note two additional payees, Ontario Hydro and the Receiver General, in respect of which the Appellant was not allowed deductions.
+[68] With respect to the payment to Ontario Hydro for $2,801.66, the Appellant referred the Court to the receipt filed by the Appellant (Exhibit A-1, page 1) and noted that the payment related to services rendered by Ontario Hydro to run hydro to one of the small buildings being rented to a third party. This building was adjacent to one of the barns.
+[69] With respect to the $500 payment to the Receiver General, the Appellant noted that the expenditure related to the registration of patents and trademarks in respect of the police suspenders.
+[70] I accept the evidence of the Appellant and find that the amounts paid to Ontario Hydro and the Receiver General were incurred to earn income from a business and are deductible.
+[71] In summary, in respect of the management and administration fee category, the Appellant is entitled to additional deductions of $355.98 in the 2003 taxation year and $4,101.14 in the 2004 taxation year.
+[72] I will now turn to the second issue before the Court; whether the Appellant is entitled to the farming expenses disallowed by the Minister in the amount of $2,416 and $5,479 for the 2002 and 2003 taxation years.
+[73] The first amount, $2,416, related to amounts deducted in the 2002 taxation year by the Appellant in respect of property taxes. An amount of $3,777 was deducted in the 2003 taxation year.
+[74] The Appellant provided the CRA with a tax invoice from the City of Ottawa for $2,416 (Exhibit R-1, page 34). However, this invoice related to the family home, not to the farm property. A tax bill was presented for the farm property for the 2003 taxation year (Exhibit R-1, page 36). However, it was for the amount of $217.57, not the $3,777 claimed by the Appellant.
+[75] The Appellant appeared to acknowledge his error during cross-examination, noting that the property tax bill filed related to his home and the ancillary businesses, not the farming business.
+[76] As a result, an additional amount of $217.57 is to be deducted when determining the Appellant's income from farming for his 2003 taxation year. Further, an additional amount of $206 is to be deducted for the Appellant's 2002 taxation years. This is a reasonable estimate of the taxes that he would have paid in 2002 being 95 per cent of the taxes he paid in 2003.
+[77] The remaining amount in dispute related to property insurance. The CRA denied the $1,702 deduction claimed by the Appellant for insurance when calculating his farming income for the 2003 taxation year. The Appellant testified that general liability insurance was purchased for the farm. This was required as the cattle, together with the tractors and other farm vehicles, were occasionally on the road. The Appellant was not able to produce any receipts to support his deduction. He did produce receipts for an insurance policy. However, the policy related to the family home, not the farming property.
+[78] I accept the Appellant's testimony that he purchased liability insurance for the farm. However, the $1,000 premium suggested by the Appellant appears to be high. I will allow $235 as a deduction for the 2003 taxation year, which is one half of the insurance paid on his home.
+[79] I will now address the third issue, the farm losses. Although not raised in the reply statement, the Respondent argued in her closing address that this Court does not have the jurisdiction to review the determination by the Minister under subsection 31(2) of the Income Tax Act, that the Appellant's chief source of income for the 2004 taxation year was neither farming or a combination of farming and some other source of income.
+[80] I do not believe that the Respondent’s argument has any legal merit. Subsection 12(1) of the Tax Court of Canada Act provides this Court with exclusive jurisdiction to hear and determine references and appeals to the Court on matters arising under the Income Tax Act.
+[81] Subsection 169(1) of the Income Tax Act gives the taxpayer the right to appeal an assessment to the Tax Court of Canada. There are limitations to this right listed in subsection 169(2), but none of these relate to the Minister's decision under subsection 31(2) relating to the Appellant's chief source of income.
+[82] Pursuant to these provisions, the Court clearly has the exclusive jurisdiction to hear appeals from assessments under the Income Tax Act, including appeals in respect of section 31. Further, this Court has heard numerous appeals in respect of section 31.
+[83] The principles to be applied when considering whether a taxpayer's chief source of income was either farming or a combination of farming and some other source of income were established by the Supreme Court of Canada in its decision in Moldowan v. Canada [1978] 1 S.C.R. 480 and have been summarized by numerous decisions of the Federal Court of Appeal, including Canada v. Donnelly, [1998] 1 F.C. 513; Taylor v. Canada, [2002] FCA 425; and Gunn v. The Queen, 2006 FCA 281.
+[84] It is clear from these cases that the issue is one of fact and that each case is to be decided on its own facts. However, the Court of Appeal has summarized the factors that should be considered as follows: the capital committed to the farm; the time spent by the taxpayer working the farm; and the profitability of the farm.
+[85] The Court of Appeal found in the Taylor case that “substantial” income from farming was not required to satisfy the chief source of income test. Further, the Court found that the taxpayer’s farming operations were profitable when the operations generated profits before the deduction of CCA.
+[86] The Court of Appeal in Gunn provided guidance with respect to the application of the factors when the taxpayer's chief source of income is a combination of farming and another source of income.
+[87] In particular, the Court stated:
+In my view, the combination question should be interpreted to require only an examination of the cumulative effect of the aggregate of the capital invested in farming and a second source of income, the aggregate of the income derived from farming and a second source of income, and the aggregate of the time spent on farming and on the second source of income, considered in the light of the taxpayer's ordinary mode of living, farming history, and future intentions and expectations.
+[88] The following facts support a finding that the Appellant's chief source of income was a combination of farming and his income from his employment as a police officer:
+- The Appellant has lived and worked on the farm for most of his life.
+- The Appellant attended agricultural college.
+- The Appellant has made substantial investments in the farm. He purchased the 48 acres of farmland, the farm equipment and cattle from his father. He has continuously invested money to update and upgrade the farm equipment and also invested funds to build the new barn.
+- He rented an additional 100 acres of adjacent land for this farming business.
+- He divided his time between working as a police officer and operating the farm; working 40 hours a week as a police officer, and at least 40 hours per week operating the farm.
+- His family assisted with the running of the farm.
+- Documents filed by the Respondent (Exhibit R-1, pages 2 to 4) evidence that, before the deduction of CCA, the operation of the farm was profitable in 2003. It is important to note at the time this occurred the selling price of the main product of the farm, cattle, had collapsed as a result of the mad cow scare.
+- Based upon pages 009 and 010 of R-1, it appears that the large loss suffered in 2004 was mainly as a result of the continuing low prices and a substantial claim for CCA.
+- The Appellant intends to continue to grow the farming business.
+[89] In summary, based upon the evidence provided by the Appellant, I find that the Appellant's chief source of income was a combination of farming and his employment as a police officer. The Appellant has invested substantial capital in the farm and has devoted substantial time to the operation of the farm. Further, it is clear from the evidence that the farm is a profitable enterprise, with the mad cow scare being the primary cause of the loss realized in 2004.
+[90] As a result the Appellant is entitled to deduct the full farming loss of $25,379 when calculating his income for the 2004 taxation year.
+[91] In summary, the appeals with respect to income tax are allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the following basis:
+- With respect to the 2002 taxation year, an additional $8,675 is to be deducted when determining the Appellant's income from his business other than his farming business. An additional $206 is to be deducted when determining the Appellant's income from his farming business.
+- With respect to the 2003 taxation year, an additional $6,014 is to be deducted when determining the Appellant's income from his business, other than his farming business. An additional $453 is to be deducted when determining the Appellant's income from his farming business.
+- With respect to the 2004 taxation year, an additional $6,088 is to be deducted when determining the Appellant's income from his business other than his farming business. The $25,379 loss realized by the Appellant from his farming business is not subject to the restrictions contained in section 31 of the Income Tax Act.
+[92] The second appeal relates to GST assessments in respect to the Appellant's GST reporting periods that began on January 1st, 2002 and ended on December 31st, 2004.
+[93] Two issues are before the Court. The first issue is the failure by the Appellant to remit GST in respect of certain taxable supplies made by his three ancillary businesses. The amounts at issue are $922, $405 and $1,404 for each of the 2002, 2003 and 2004 calendar years respectively.
+[94] During his testimony, the Appellant acknowledged that he had failed to remit the required amounts. He believed he was a small supplier during these calendar years. Unfortunately for the Appellant, he was not a small supplier since he had registered under the GST legislation. As a result, the Appellant was properly assessed for failure to remit the GST in respect of the taxable supplies.
+[95] The second issue relates to the Minister's decision to deny input tax credits in the amount of $3,399.16, $3,429.87 and $4,576.15 for each of the 2002, 2003 and 2004 calendar years respectively.
+[96] The input tax credits denied related to the GST paid by the Appellant in respect of the expenditures that the Minister found were not incurred for purposes of earning income from the ancillary businesses.
+[97] The Appellant is entitled to the input tax credits to the extent I have found that the related expenditures were incurred to earn income from one of the businesses. This will not include amounts in respect of which GST was not paid, such as the amount paid to the Receiver General as registration fees.
+[98] As a result the appeal with respect to GST is allowed without costs and the matters is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis the Appellant is entitled to claim input tax credits equal to 7 per cent of the following:
+- With respect to the 2002 calendar year, the $1,375 allowed as a deduction for meals and entertainment.
+- With respect to the 2003 calendar year, the $2,332 allowed as a deduction for meals and entertainment, the $3,326 allowed as a deduction for purchases, and the $356 allowed as a deduction for management and administration fees.
+- With respect to the 2004 taxation year, the $1,987 allowed as a deduction for meals and entertainment and $3,601.14 of the amount allowed as a deduction for management and administration fees.
+“S. D’Arcy”
+D'Arcy, J.
+CITATION: 2010 TCC 39
+COURT FILE NO.: 2007-3922(IT)I,
+2008-2611(GST)I
+STYLE OF CAUSE: MARK SCHARFE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: September 25, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT: FEBRUARY 2, 2010
+APPEARANCES:
+Agent for the Appellant:
+K.E. Koshy
+Counsel for the Respondent:
+Suzanie Chua
+COUNSEL OF RECORD:
+For the Appellant: N/A
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

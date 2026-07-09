@@ -1,0 +1,236 @@
+---
+title: "Lynch v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28121/index.do"
+last_modified: "2003-10-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 692"
+citation2: ""
+neutral_citation: "2003 TCC 692"
+decision_date: "2003-10-17"
+language: "en"
+item_id: "28121"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1641
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:36:28.215000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "409e80724ae754ef8c439ba1df827c3d8fdf9afb3f58b779bb1e6ce4fa36b8ba"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lynch v. M.N.R.
+
+- Citation: 2003 TCC 692
+- Decision date: 2003-10-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1641, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lynch v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-17
+Neutral citation
+2003 TCC 692
+File numbers
+2002-4492(EI)
+Judges and Taxing Officers
+Jerome F. Somers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002‑4492(EI)
+BETWEEN:
+MARIO LYNCH,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Gérald Lynch (2002‑4493(EI)) on July 28, 2003, at Sherbrooke, Quebec
+Before: The Honourable Deputy Judge J. F. Somers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Emmanuelle Faulkner
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of October 2003.
+"J. F. Somers"
+Somers, D.J.
+Translation certified true
+on this 22nd day of March 2004.
+Maria Fernandes, Translator
+Docket: 2002‑4493(EI)
+BETWEEN:
+GÉRALD LYNCH,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________________
+Appeal heard on common evidence with the appeal of Mario Lynch (2002‑4492(EI)) on July 28, 2003, at Sherbrooke, Quebec
+Before: The Honourable Deputy Judge J. F. Somers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Emmanuelle Faulkner
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the Minister's decision is set aside in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of October 2003.
+"J. F. Somers"
+Somers, D.J.
+Translation certified true
+on this 22nd day of March 2004.
+Maria Fernandes, Translator
+Citation: 2003TCC692
+Date: 20031017
+Docket: 2002‑4492(EI)
+BETWEEN:
+MARIO LYNCH,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+Docket: 2002‑4493(EI)
+GÉRALD LYNCH,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Somers, D.J.
+[1] These appeals were heard at Sherbrooke, Quebec, on July 28, 2003.
+[2] In a letter dated October 8, 2002, the Minister of National Revenue (the "Minister") informed the Appellants of his decisions that they had held insurable employment during the periods at issue, that is, from January 1st, 2001 to May 17, 2002, for Gérald Lynch, and from January 1st, 2001 to July 11, 2002, for Mario Lynch, when employed by the Garage P.E. Lynch Inc., the Payor, because there was an employer‑employee relationship between them and the Payor. Furthermore, the Minister informed the Appellants that despite the existence of a non‑arm's length relationship between them and the Payor and in light of all of the circumstances, they would have entered into a substantially similar contract of employment.
+[3] Subsection 5(1) of the Employment Insurance Act (the "Act") reads, in part, as follows:
+Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+. . .
+[4] Subsections 5(2) and (3) of the Act read, in part, as follows:
+(2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+. . .
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[5] Section 251 of the Income Tax Act reads, in part, as follows:
+Section 251: Arm's length
+(1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm’s length; and
+. . .
+(2) Definition of "related persons". For the purpose of this Act, "related persons", or persons related to each other, are
+(a) individuals connected by blood relationship, marriage or adoption;
+(b) a corporation and
+(i) a person who controls the corporation, if it is controlled by one person,
+(ii) a person who is a member of a related group that controls the corporation,
+(iii) any person related to a person described in subparagraph (i) or (ii); and
+. . .
+[6] The burden of proof lies with the Appellants. They must establish, on a balance of probabilities, that the Minister's decisions are ill‑founded in fact and in law. Each case stands on its own merits.
+[7] In arriving at his decision in the appeal of Mario Lynch, the Minister relied on the following assumptions of fact, which were admitted or denied:
+[translation]
+(a) the Payor was incorporated on February 24, 1983; (admitted)
+(b) during the period at issue, the Payor's shareholders were as follows:
+Paul‑Émile Lynch 90% of the voting shares
+the Appellant 10% of the voting shares (admitted)
+(c) Paul‑Émile Lynch is the Appellant's father; (admitted)
+(d) the Payor specialized in the construction of barns and stables and in the sale and repair of agricultural instruments; (admitted)
+(e) the Payor had a turnover of approximately two million dollars per year and hired between 16 and 20 full‑time employees; (admitted)
+(f) the Appellant, along with his father and his brother, Gérald, were members of the Payor's board of directors; (admitted)
+(g) the Payor had an active corporate life; (admitted)
+(h) the Appellant was in charge of the parts department; (admitted)
+(i) the Appellant's duties consisted of managing the computer system, the parts inventories, the purchasing, the invoicing and counter customer service; (admitted)
+(j) the Appellant had a set work schedule for the Payor, namely Monday to Friday, from 8:00 a.m. to 5:00 p.m. and on Saturday, if required; (admitted)
+(k) the Appellant informed the Payor of any absence; (admitted)
+(l) the Appellant worked for the Payor throughout the year; (admitted)
+(m) during the period at issue, the Appellant received a set, gross weekly pay of $560 per week, paid by cheque; (admitted)
+(n) the Appellant invested nothing in the Payor; (admitted)
+(o) the Appellant had given no personal guarantee or security in the Payor's favour; (denied)
+(p) the Payor paid CSST insurance premiums for the Appellant; (admitted)
+(q) the Appellant had no risk of loss or chance of profit other than his wages; (admitted)
+(r) all of the tools used by the Appellant belonged to the Payor; (denied)
+(s) the services rendered by the Appellant were an integral part of the Payor's activities. (admitted)
+[8] The assumptions of fact on which the Minister relied to rule in the appeal of Gérald Lynch are substantially the same as those set out above and this Appellant admitted subparagraphs (a) to (g), (i), (k) to (m) and (o) to (s) and denied subparagraphs (h), (j) and (n).
+[9] The Payor was incorporated on February 24, 1983. During the periods at issue, the Payor's shareholders were Paul‑Émile Lynch, father of the Appellants, and Mario Lynch, holding 90 and 10 percent of the voting shares, respectively.
+[10] The Payor specializes in the construction of barns and stables and in the sale and repair of agricultural instruments. The Payor had a turnover of approximately two million dollars per year and hired between 16 and 20 full‑time employees.
+[11] The Appellants and Paul‑Émile Lynch were members of the Payor's board of directors and met frequently: moreover, they consulted with each other on matters of the Payor; however, Paul‑Émile Lynch had the last word in major decision‑making.
+[12] Appellant Mario Lynch was responsible for the parts department: his duties consisted of managing the computer system, conducting the parts inventory, taking care of the purchasing, invoicing and counter customer service.
+[13] Mario Lynch worked for the Payor throughout the year and had a set work schedule, Monday to Friday from 8:00 a.m. to 5:00 p.m., and on Saturday, if required, and as with other employees of the Payor, he had to punch in when he arrived to and left from work. During the period at issue, he received a set weekly pay of $560, paid by cheque.
+[14] Mario Lynch affirmed that he had not invested any money in the Payor, but he had contracted a loan for the latter. He stated that he did not recall the loan date and added that it was probably in the amount of $2,500. However, he allegedly told the appeals officer that he was not securing the company's debt on a long‑term basis.
+[15] When he testified at his appeal hearing, Mario Lynch declared that he took approximately two weeks of vacation a year but would sometimes return to the office for urgent matters. He himself decided when he took vacation but he had to inform the Payor; his vacation was not supposed to inconvenience business operations. He admitted that the Payor paid insurance premiums to the Commission de la santé et de la sécurité au travail. He added that he had neither any chance of profit nor any risk of loss; he only received his salary.
+[16] Mario Lynch affirmed that he personally owned mechanic's tools valued at approximately $20,000. He added that he rarely used his tools because he worked as parts manager.
+[17] Appellant Gérald Lynch testified that he was vice‑chair on the Payor's board of directors but was not a shareholder. His tasks consisted of preparing bids with his father, managing the construction sites, negotiating purchases, auditing invoices and providing customer service.
+[18] According to this witness, his work hours were from 8:00 a.m. to 6:00 p.m. He added that he worked over 60 hours a week since he often worked on Saturday and Sunday. During the period at issue, Gérald Lynch initially received a fixed weekly pay, subsequently received an hourly rate and then returned to a fixed salary of $850 a week.
+[19] This Appellant was entitled to four weeks' vacation a year; in fact, he did not take vacation, except for the occasional few days off. He affirmed that he had guaranteed a loan for the Payor by putting up his own home as collateral. The Payor covered all job‑related expenses of the Appellant, including insurance premiums to the Commission de la santé et de la sécurité au travail.
+[20] All of the tools and the truck used by the Appellant belonged to the Payor. The Appellant admitted that there was neither any chance of profit nor any risk of loss: he only received his salary.
+[21] Paul‑Émile Lynch, the Payor's president, essentially corroborated the Appellants' testimony. He stated that unlike other unrelated employees, the Appellants were not paid for overtime (time and one half). According to this witness, Gérald Lynch received a higher pay than Appellant Mario Lynch because he had more responsibilities.
+[22] According to him, Mario Lynch contracted a $5,000 loan for the benefit of the Payor in 1983; that money was used, in part, to purchase shares: therefore, he was later reimbursed for the amount.
+[23] Paul‑Émile Lynch corroborated the affirmation that Appellant Gérald Lynch had guaranteed a $170,000 loan in 1997 by putting up his own home as collateral.
+[24] During her testimony at the appeals hearing, Guylaine Dépot, a decision officer with Human Resources Development Canada, declared that she performed her investigation based on telephone conversations with the two Appellants: Paul‑Émile Lynch and an employee of the Payor.
+[25] She stated that Appellant Gérald Lynch worked between 50 and 57 hours a week and that he was paid $15 an hour while other employees of the Payor were only paid between $9 and $14 an hour. Gérald Lynch told her that he had flexible hours given his managerial responsibilities and that he made note of them. According to her, Gérald Lynch made decisions within his field of authority but Paul‑Émile Lynch had the last word: the Appellant had to prove himself to his father.
+[26] According to that witness, Mario Lynch also had flexible hours because of his responsibilities. He was paid $560 a week, a salary lower than Gérald Lynch's because he had fewer responsibilities.
+[27] Denis Hamel, appeals officer with the Canada Customs and Revenue Agency, testified that he had spoken with Mario Lynch and with Marie‑Claire Belleville, the Payor's accountant.
+[28] That witness obtained some facts from those individuals, including those set out in the Replies to the Notices of Appeal, the majority of which the Appellants admitted.
+[29] Among other things, Mario Lynch allegedly told him that he did not secure loans or loan money to the Payor. He also affirmed that his work hours were from 8:00 a.m. to 5:00 p.m. and that he occasionally worked overtime. He stated that his father was still active in the business and that while he was gradually distancing himself from the company, he was still the one who made the final decisions.
+[30] The appeals officer obtained information from the Payor's accountant, Marie‑Claire Belleville. The latter apparently told him that the Payor had a long‑term debt of $500,000 but that no surety was required: the company owed $162,000 to the Payor's majority shareholder, Paul‑Émile Lynch. Among other things, Marie‑Claire Belleville allegedly told the appeals officer that Gérald Lynch had flexible hours and that he sometimes worked 60 hours a week in addition to occasionally rendering services to the Payor on Saturday and even on Sunday.
+[31] In Ferme Émile Richard et Fils Inc. and the Minister of National Revenue, [1994] F.C.J. No. 1859, the Federal Court of Appeal indicates that in applying subparagraph 3(2)(c)(ii) of the Unemployment Insurance Act, now paragraph 5(3)(b) of the Employment Insurance Act, the Court must consider whether the Minister's decision "resulted from the proper exercise of his discretionary authority". The Court must first require that the Appellant "present evidence of wilful or arbitrary conduct by the Minister".
+[32] The Appellants held management positions within the Payor's business; their positions and tasks were different than those of other employees.
+[33] In Industries J.S.P. Inc. v. Canada (Minister of National Revenue – M.N.R.), [1999] T.C.J. No. 423, Tardif, J. of that Court summarized the facts, which are similar to the cases at bar, and stated the following:
+Marie‑Claude Perreault testified and gave a number of examples to describe and explain her interest, enthusiasm and fervour and that of her brothers with respect to the interests of the appellant company, which operates in the difficult and highly competitive field of furniture building.
+Sharing major strategic responsibilities in the company controlled by Jacques Perreault, who holds 1,000 voting but non‑participating shares, Marie‑Claude Perreault and her brothers left nothing to chance in ensuring the company's well‑being and development.
+Each family member was paid more than a reasonable salary and, at year end, received a bonus that varied depending on the economic performance of the company and the quality of the work performed.
+Major decisions were made jointly and by consensus. The family members each devoted at least 60 hours [per week] to their respective duties for the company.
+The balance of evidence, therefore, was that the Perreault family members dedicated themselves totally and entirely to the company's business. They invested in it most of their available time (at least 60 hours [per week]) to ensure that the company could succeed in a difficult market where competition is stiff.
+. . .
+When a person occupies a strategic, executive position in a business, it is customary and normal for the job description to be very difficult to define. A partner or an individual taking part in the management of a business can hardly hope for a clearly defined, specific, limited job description.
+Contributing to and being a partner in the management, administration or development of a business, particularly a small business, means that a person's job description is strongly marked by responsibilities characteristic of those often fulfilled by actual business owners or persons holding more than 40 per cent of the voting shares in the company employing them. In other words, in assessing remuneration, at this level of responsibility, caution must be exercised when a comparison is made with the salaries of third parties; often there are advantages that offset the lower salaries.
+[34] In Massé et Plante Auto (1997) c. Canada (ministre du Revenu national – M.R.N.), [2001] A.C.I. no 796, Savoie, J. of that Court stated the following:
+[translation]
+In the mind of majority shareholder Denis Pomerleau, he left the management of the business to both his sons. He never stepped in to impose his will against his sons' wishes. However, he admits that some circumstances could and should lead him to intervene.
+The determination of this point at issue rests on the interpretation, in this case, of the person or persons in a position of control or power within the business. The Minister's decision was made based on this test. Therefore, the Minister ruled that Denis Pomerleau retained de facto control over the business. As such, in the Minister's view, he may intervene at any time. The fact that he never exercised this power is of no importance. What is important here is that he still holds this power.
+[35] As for Appellant Mario Lynch, he held a management position in the family business: he was in charge of managing the computer system, conducting the parts inventory, looking after the purchases, invoicing and the counter customer service.
+[36] Mario Lynch worked relatively regular hours: however, he would occasionally work overtime for which, unlike other employees of the Payor, he was not remunerated. He could take two weeks' vacation per year when he wished as long as the Payor was informed of it and business operations did not suffer as a result.
+[37] Mario Lynch, as shareholder of the family business, received a salary that was not unreasonable given the fact that he held a management position. The fact that he was not paid for overtime, as with other employees of the Payor, could not affect the insurability of his employment because working for a family business has its advantages and disadvantages.
+[38] Mario Lynch and the Payor were related persons under the Act. This Appellant's employment is insurable because he and the Payor would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length, and in addition, his employment met the requirements of a genuine contract of service.
+[39] The conditions of employment of Appellant Gérald Lynch were not similar to those of Appellant Mario Lynch. Gérald Lynch was not a company shareholder and he had greater responsibilities that his brother, Mario. This Appellant's tasks consisted of bidding with his father, managing the construction sites, negotiating purchases, auditing invoices and providing customer service.
+[40] Gérald Lynch worked variable hours, five days a week and often on Saturday and Sunday and his salary of $850 a week was not unreasonable. While he was entitled to four weeks' vacation a year, he chose not to take them. Unlike other employees, he was not paid for overtime.
+[41] With respect to his conditions of work, a significant factor distinguishes him from his brother, Mario: Gérald Lynch stated having secured a loan for the Payor and his father, Paul‑Émile Lynch, who exercised considerable control over the business' fortunes, corroborated this affirmation, adding that the loan in the amount of $170,000 was taken out in 1997.
+[42] This loan is a considerable personal undertaking for an employee who is not a shareholder. An employee in a management position dealing with his or her employer at arm's length would not have signed such an undertaking.
+[43] The Appellants could have submitted more complete documentary evidence; however the testimonies of Appellants Mario and Gérald Lynch and that of their father, Paul‑Émile Lynch, are credible: the Court therefore accepts the sufficiency of this evidence on this important fact.
+Conclusions
+[44] The employment held by Appellant Gérald Lynch during the period in question is excluded from insurable employment under paragraph 5(2)(i) and subsection 5(3) of the Act. Accordingly, his appeal is allowed and the Minister's decision is set aside.
+[45] The employment held by Appellant Mario Lynch is insurable employment because he and the Payor would have entered into a substantially similar contract of employment if they were dealing with each other at arm's length and furthermore, his employment met the requirements of a genuine contract of service. Accordingly, his appeal is dismissed and the Minister's decision is confirmed.
+Signed at Ottawa, Canada, this 17th day of October 2003.
+"J. F. Somers"
+Somers, D.J.
+Translation certified true
+on this 22nd day of March 2004.
+Maria Fernandes, Translator

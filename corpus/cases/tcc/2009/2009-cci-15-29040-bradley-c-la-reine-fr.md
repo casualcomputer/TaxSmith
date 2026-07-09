@@ -1,0 +1,162 @@
+---
+title: "Bradley c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29040/index.do"
+last_modified: "2009-01-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 15"
+citation2: ""
+neutral_citation: "2009 CCI 15"
+decision_date: "2009-01-28"
+language: "fr"
+item_id: "29040"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6849
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:15:02.535000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "298eef76d466a131d2b5b5cfe3b17983551907daa7390906e9f2c1a400d63661"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bradley c. La Reine
+
+- Citation: 2009 CCI 15
+- Decision date: 2009-01-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6849, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bradley c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-28
+Référence neutre
+2009 CCI 15
+Numéro de dossier
+2008-804(IT)I
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-804(IT)I
+ENTRE :
+BARRY J. BRADLEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus à Halifax (Nouvelle‑Écosse), le 10 décembre 2008.
+Devant : L’honorable juge T. E. Margeson
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Kendrick Douglas
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004 et 2006 de l’appelant sont rejetés et la décision du ministre du Revenu national est confirmée.
+Signé à Toronto (Ontario), ce 28e jour de janvier 2009.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 13e jour de mars 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 15
+Date : 20090128
+Dossier : 2008-804(IT)I
+ENTRE :
+BARRY J. BRADLEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Margeson
+[1] Les faits en cause dans la présente affaire ne sont pas en litige. Dès le départ, les parties ont reconnu que l’appelant était incarcéré à l’Établissement de Springhill (l’« Établissement ») en avril 2003, et qu’il a continué à l’être tout au long des années 2003, 2004 et 2006 (la « période visée par l’appel »), et au moins jusqu’en novembre 2007.
+[2] L’intimée a reconnu que, durant la période visée par l’appel, l’appelant a bel et bien payé la taxe sur les produits et services (la « TPS ») pour tous ses achats faits dans l’Établissement et pour tous les achats faits pour lui à l’extérieur de l’Établissement.
+[3] Pendant qu’il était incarcéré, l’appelant travaillait dans l’Établissement, et il était rémunéré pour son travail. Il croit avoir droit à un remboursement de TPS parce qu’il devait payer la TPS pour tous ses achats. L’appelant a exprimé son opinion quant à la raison pour laquelle le gouvernement lui avait fait payer la TPS s’il n’avait pas droit à un remboursement.
+[4] Selon l’appelant, le gouvernement devrait exonérer de la TPS les achats faits par des prisonniers.
+[5] Le magasin de l’Établissement est géré de la même façon que le serait tout autre magasin. L’appelant a affirmé que l’article 122.5 de la Loi de l’impôt sur le revenu (la « Loi ») n’était pas applicable en l’espèce.
+[6] L’appelant a reconnu que la Cour canadienne de l’impôt lui avait fait savoir que s’il voulait soulever une question relative à la Charte canadienne des droits et libertés (la « Charte ») dans son appel, il devait aviser la Cour de son intention dans un délai adéquat pour que celle‑ci puisse déclarer invalide une disposition de la Loi, conformément à l’article 57 de la Loi sur les Cours fédérales, L.R. (1985), ch. F‑7, dans sa version modifiée. L’appelant a reconnu qu’il n’avait pas avisé la Cour dans le délai voulu.
+[7] L’avocat de l’intimée a cité Yun v. Minister of National Revenue, [2008] 2 C.T.C. 2465, et il a dit que la Cour devrait entendre l’argumentation relative à la Charte et, si elle la jugeait fondée, ajourner l’affaire pour permettre la signification des avis nécessaires conformément à la Loi sur les Cours fédérales, précitée, et à l’article 19.2 de la Loi sur la Cour canadienne de l’impôt, L.R. (1985), ch. T‑2, de même que la signification d’un avis au procureur général du Canada conformément à la Constitutional Question Act de la Colombie‑Britannique, R.S.B.C. 1996, ch. 68.
+[8] La Cour a donc entendu l’argumentation relative à la Charte canadienne des droits et libertés (la « Charte »). En résumé, l’appelant a soutenu que le refus du ministre du Revenu national de lui accorder le crédit de taxe sur les produits et services (le « CTPS ») pour la période en cause portait atteinte aux droits que lui garantissent l’article premier et l’article 15 de la Charte.
+Arguments de l’intimée
+[9] Selon l’avocat de l’intimée, trois questions sont en litige :
+1. L’appelant a‑t‑il droit au CTPS?
+2. Si l’appelant n’a pas droit au CTPS, les dispositions en cause violent‑elles les droits que la Charte lui garantit?
+3. Si les dispositions contestées sont contraires au paragraphe 15(1) de la Charte, ces violations sont‑elles justifiées en vertu de la Charte?
+[10]Pour répondre à la première question, c’est l’alinéa 122.5(2)b) de la Loi qui prive l’appelant du CTPS parce que l’appelant était détenu dans une prison ou un établissement semblable pendant une période d’au moins 90 jours qui comprend le premier jour du mois pertinent.
+[11]Il n’y a aucun doute que l’appelant était ainsi détenu.
+2. Aucun droit garanti par le paragraphe 15(1) de la Charte n’a été violé;
+3. Comme aucun droit garanti par le paragraphe 15(1) de la Charte n’a été violé, il n’y a pas lieu de se pencher sur le critère de l’article premier de la Charte.
+[12]L’appel doit être rejeté.
+Analyse et décision
+[13]La Cour s’est déjà penchée sur ces questions à plusieurs reprises. Dans Armstrong v. R., [1996] 1 C.T.C. 2745, les arguments présentés au juge Mogan étaient identiques à ceux qui ont été soulevés en l’espèce.
+[14]Le juge Mogan (tel était alors son titre) a cité la décision de la Cour d’appel fédérale dans Lister v. R., [1994] 2 C.T.C. 365, où celle‑ci avait conclu que la disposition législative contestée n’avait pas d’effet discriminatoire. Dans cette affaire‑là, on avait prétendu qu’il y avait discrimination fondée sur l’âge.
+[15]La Cour d’appel fédérale a conclu que « [r]ien dans le dossier ne […] porte à penser que la disposition en cause aurait pour effet de renforcer des désavantages ou de favoriser des stéréotypes ».
+[16]Dans Armstrong v. R., précitée, le juge Mogan a conclu que « […] le fait d'être en prison n'est pas un motif analogue à celui de la race, la religion, le sexe ou l'origine ethnique ». Le prisonnier ne faisait pas partie d’une « minorité distincte et isolée »; il était incarcéré en raison d’un comportement qu’il avait eu avant son incarcération. Le juge Mogan a ensuite rejeté l’appel.
+[17]La même question a été considérée attentivement par le juge Sobier dans McKinnon v. Minister of National Revenue, [1991] 2 C.T.C. 2284, où le juge Sobier est arrivé à la conclusion suivante :
+Le Parlement a choisi d'exclure certaines personnes qu'il a jugé bon de ne pas avantager, à savoir certains types de détenus. Cette distinction est valide puisque la disposition vise à aider les familles et les particuliers à faible revenu et non pas les personnes qui purgent des peines d'emprisonnement.
+[18]Cette distinction a été établie dans le cadre d’un exercice légitime d’élaboration de politiques sociales, qui relève de la compétence du législateur. Le fait de déclarer inopérantes les dispositions contestées équivaudrait à aller « au-delà » de l’objet véritable du droit que l’on cherche à protéger (La Reine c. Big M Drug Mart Ltd, [1985] 1 R.C.S. 295).
+[19]La Cour suprême a rejeté l’appel et a conclu qu’aucun droit garanti par la Charte n’avait été violé.
+[20]Le juge Bowie est arrivé à la même conclusion dans Mulligan v. R., [1997] 2 C.T.C. 2062 (CCI), où il a souscrit aux décisions rendues par les juges Sobier et Mogan.
+[21]Comme l’a expliqué le juge Bowie dans Mulligan, précitée, il estimait être lié par la décision de la Cour d’appel fédérale dans Lister, où le fait qu’un motif soit énuméré à l’article 15 de la Charte n’avait pas suffi pour conclure que les dispositions contestées étaient inconstitutionnelles. Selon lui, il aurait donc été tout à fait insensé de conclure que le refus d’accorder un crédit sur la base d’un motif non énuméré à l’article 15 de la Charte était inconstitutionnel.
+[22]La Cour est convaincue que la jurisprudence citée précédemment correspond parfaitement à la présente affaire et qu’elle la lie dans la détermination des questions en litige.
+[23]Les appels sont rejetés, et la décision du ministre du Revenu national est confirmée.
+Signé à Toronto (Ontario), ce 28e jour de janvier 2009.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 13e jour de mars 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 15
+No DU DOSSIER DE LA COUR :
+2008‑804(IT)I
+INTITULÉ :
+Barry J. Bradley et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE :
+Le 10 décembre 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge T.E. Margeson
+DATE DU JUGEMENT :
+Le 28 janvier 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Kendrick Douglas
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

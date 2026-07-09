@@ -1,0 +1,120 @@
+Title: Leckie v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25796/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-259-25796-leckie-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-04-07
+
+# Leckie v. The Queen
+
+- Citation: 2004 CCI 259
+- Decision date: 2004-04-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3806, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leckie v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-07
+Référence neutre
+2004 CCI 259
+Numéro de dossier
+2003-4103(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-4103(IT)I
+ENTRE :
+MERRILL LECKIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 mars à Nanaimo (Colombie-Britannique)
+Devant : L'honorable juge David W. Beaubier
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Bill J. S. Basran
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2002 est admis, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Regina, Canada, ce 7e jour d'avril 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 31e jour d'août 2004.
+Daniel E. Renaud, traducteur
+Référence : 2004CCI259
+Date : 20040407
+Dossier : 2003-4103(IT)I
+ENTRE :
+MERRILL LECKIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] L'appel en l'espèce, interjeté sous le régime de la procédure informelle, a été entendu à Nanaimo, en Colombie-Britannique, le 26 mars 2004. L'appelant a été le seul témoin à comparaître.
+[2] Les paragraphes 1 à 9 de la Réponse à l'avis d'appel exposent sommairement le litige. Ces paragraphes sont ainsi libellés :
+[TRADUCTION]
+1. Eu égard aux allégations de fait contenues dans l'avis d'appel et ses annexes, il reconnaît que l'Agence des douanes et du revenu du Canada ( « ADRC » ) a modifié le montant de la déduction réclamée par l'appelant au titre du régime enregistré d'épargne-retraite ( « REER » ) de 2 369,39 $ à 602,00 $; que l'appelant a versé la somme de 2 369,39 $ dans son REER; qu'un reçu à cet effet a été joint à sa déclaration de revenus; et que l'ADRC a déduit, dans le calcul du revenu gagné par l'appelant, la somme de 9 815,71 $ au titre de pensions alimentaires payées par l'appelant.
+2. Il nie les autres allégations de fait contenues dans l'avis d'appel et ses annexes.
+3. L'appelant a, dans sa déclaration de revenus pour l'année d'imposition 2002, déduit la somme de 2 369,39 $ au titre des REER.
+4. Le ministre du Revenu national (le « ministre » ) avait initialement établi la une cotisation à l'égard l'appelant pour l'année d'imposition 2002 le 1er mai 2003, et réduit alors la déduction au titre des REER de 2 369,39 $ à 602,00 $.
+5. L'appelant s'est opposé à la cotisation établie le 1er mai 2003 et le ministre a, le 12 septembre 2003, ratifié la cotisation étant donné que le revenu gagné par l'appelant pendant l'année d'imposition 2001, soit la somme de 3 258,00 $, avait été calculé en application de la définition de « revenu gagné » prévue au paragraphe 146(1) de la Loi de l'impôt sur le revenu (la « Loi » ) et qu'en application du paragraphe 146(5) de la Loi, le montant de 602,00 $, soit le maximum déductible au titre des REER auquel l'appelant avait droit pour l'année d'imposition 2002, avait été calculé selon la définition du « maximum déductible au titre des REER » prévue au paragraphe 146(1) de la Loi.
+6. Pour établir et ratifier la cotisation pour l'année d'imposition 2002, le ministre a présumé les faits suivants :
+a) pendant l'année d'imposition 2001, l'appelant avait gagné des revenus de 3 258,00 $, calculés comme suit :
+Revenu de fiduciaire
+3 002,00 $
+Revenu net de profession libérale
+7 283,00 $
+Revenu net de commissions
+2 788,00 $
+TOTAL :
+13 073,00 $
+Moins : pensions alimentaires payées
+9 815,00 $
+REVENU GAGNÉ :
+3 258,00 $
+b) en 2002, l'appelant a versé la somme de 2 369,39 $ dans son REER;
+c) les déductions inutilisées au titre des REER de l'appelant s'élevaient à 16,00 $ à la fin de l'année d'imposition 2001;
+d) dans sa déclaration de revenus pour l'année d'imposition 2001, l'appelant a demandé et obtenu une déduction de 9 815,71 $ au titre de pensions alimentaires payées;
+e) le facteur d'équivalence de l'appelant pour l'année d'imposition 2001, ainsi que son facteur d'équivalence rectifié, son facteur d'équivalence pour services passés et son montant prévu pour l'armée d'imposition 2002, sont tous nuls.
+B. QUESTION EN LITIGE
+8. La question en l'espèce est de savoir si le revenu gagné par l'appelant pendant l'année d'imposition 2001 a été correctement calculé afin d'établir le maximum déductible au titre des REER auquel l'appelant avait droit pour l'année d'imposition 2002.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES
+9. Il invoque les paragraphes 146(1), 146(5) et 248(1), l'alinéa 60b) de la Loi, ainsi que les articles 8303, 8304, 8304.1, 8308, 8308.4 et 8310 du Règlement de l'impôt sur le revenu, dans sa version applicable à l'année d'imposition 2002.
+[3] Dès le début de l'instance, l'avocat de l'intimée a reconnu qu'un montant de 708,25 $ devait être ajouté au revenu gagné par l'appelant décrit à l'alinéa 6a) de la Réponse, soit la part des revenus d'une société de personnes exploitant un hôtel qui revient à l'appelant. Ainsi, l'appel est admis sur ce point et pour les calculs qui en découlent.
+[4] La présomption 7d) est correcte. Les autres hypothèses sont cependant en litige aux motifs que l'appelant prétend ce qui suit :
+[TRADUCTION]
+1. que tous ses revenus ont été gagnés en sa qualité d'avocat,
+2. qu'il ne devrait pas, de toute façon, être contraint de déduire les pensions alimentaires qu'il a payées de son seul « revenu gagné » .
+[5] En substance, la question dont la Cour est saisie repose sur le sens de « revenu gagné » . Le paragraphe 146(1) limite le « maximum déductible au titre des REER » à [...] « 18 % du revenu gagné du contribuable pour l'année d'imposition précédente » [...] etc. Le paragraphe 146(1) définie le « revenu gagné » par un résident comme étant l'excédent éventuel du revenu tiré par un contribuable.
+a) « (i) d'une charge ou d'un emploi [...] »
+« (ii) d'une entreprise qu'il exploite [...] »
+« (iii) d'un bien, s'il s'agit d'un revenu tiré de la location de biens immeubles ou de redevances sur un ouvrage ou une invention dont il est l'auteur [...] »
+sur
+f) « [...] un montant déductible en application des alinéas 60b) [...] »
+(soit les pensions alimentaires versées à un époux)
+[6] Les autres revenus de l'appelant pendant l'année d'imposition 2001 étaient des revenus de pension ou d'intérêts, qui et avaient été dûment déclarés par l'appelant.
+[7] Ainsi, le sens restreint de « revenu gagné » dans la Loi de l'impôt sur le revenu empêche l'appelant d'obtenir gain de cause eu égard à ses arguments principaux.
+[8] Pour les motifs qui précèdent, l'appel est accueilli à l'égard du montant décrit au paragraphe [3] des présents motifs, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation.
+Signé à Regina, Canada, ce 7e jour d'avril 2004.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 31e jour d'août 2004.
+Daniel E. Renaud, traducteur

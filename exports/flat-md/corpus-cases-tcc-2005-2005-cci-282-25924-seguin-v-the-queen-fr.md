@@ -1,0 +1,152 @@
+---
+title: "Seguin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25924/index.do"
+last_modified: "2005-04-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 282"
+citation2: ""
+neutral_citation: "2005 CCI 282"
+decision_date: "2005-04-21"
+language: "fr"
+item_id: "25924"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3657
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:59:48.850000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f59a311157eca4b9571e3309e01410d793c359dbf616e03be74755ddd12492b9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Seguin v. The Queen
+
+- Citation: 2005 CCI 282
+- Decision date: 2005-04-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3657, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Seguin v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-21
+Référence neutre
+2005 CCI 282
+Numéro de dossier
+2004-4319(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4319(IT)I
+ENTRE :
+DANIEL SÉGUIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus à Sudbury (Ontario), le 21 mars 2005.
+Devant : L'honorable juge G. Sheridan
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Sandra Phillips
+JUGEMENT
+Les appels des nouvelles cotisations établies en application de la Loi de l'impôt sur le revenu pour les années d'imposition 2002 et 2003 sont rejetés, conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 21e jour d'avril 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+Ce 13e jour de mars 2006.
+Christian Laroche, LL.B.
+Référence : 2005CCI282
+Date : 20050421
+Dossier : 2004-4319(IT)I
+ENTRE :
+DANIEL SÉGUIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L'appelant, Daniel Séguin, interjette appel de nouvelles cotisations concernant ses années d'imposition 2002 et 2003 par lesquelles le ministre du Revenu national a rejeté les dépenses d'emploi qui avaient été déduites au titre de frais de déplacement et de logement. M. Séguin et son aide-comptable, Muriel Maguire, ont témoigné à l'audience; les deux témoins ont présenté leur témoignage d'une façon sincère et ils étaient tout à fait crédibles.
+[2] M. Séguin travaille comme apprenti-électricien auprès de Hydro One Networks Inc. Dans le cadre de son emploi, M. Séguin doit se rendre sur divers chantiers et s'absenter de chez lui. Conformément à la convention collective qui a été conclue avec l'employeur, M. Séguin avait droit à des allocations, qu'il a reçues, au titre du logement et des repas pour les cinq jours ouvrables de la semaine, ainsi qu'à une indemnité de déplacement pour un voyage aller-retour entre sa résidence et le chantier. Il avait également le droit d'inclure dans sa journée de travail le temps qu'il lui fallait pour effectuer son voyage initial jusqu'au chantier et pour le voyage final jusqu'à sa résidence. Tout cela n'est pas en litige. Les déductions contestées se rapportent aux dépenses que M. Séguin a engagées pour se loger en fin de semaine et pour les voyages additionnels entre les chantiers et sa résidence. Habituellement, M. Séguin devait s'absenter de chez lui pour plus d'une semaine : s'il décidait de rester sur le chantier, il devait alors payer ses frais de logement et de subsistance; d'autre part, s'il décidait de retourner chez lui pour la fin de semaine, il devait payer ses propres frais de déplacement. En pareil cas, il n'avait pas le droit de se déplacer « au compte de la société » ; ainsi, par exemple, au lieu de se rendre en voiture sur le chantier le lundi matin, comme il était autorisé à le faire lors du voyage initial effectué pour se rendre à cet endroit, M. Séguin devait voyager le dimanche, soit pendant son jour de congé, afin d'être en mesure de poursuivre son travail sur les lieux le lundi matin.
+[3] Il s'agit de savoir si pareilles dépenses donnent lieu à des déductions admissibles aux termes des alinéas 8(1)h) et h.1) de la Loi de l'impôt sur le revenu; dans l'affirmative, M. Séguin a également droit à la déduction pour amortissement[1].
+8.(1) Éléments déductibles.
+(1) Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant:
+[...]
+h) Frais de déplacement - lorsque le contribuable, au cours de l'année, à la fois :
+(i) a été habituellement tenu d'exercer les fonctions de son emploi ailleurs qu'au lieu d'affaires de son employeur ou à différents endroits,
+(ii) a été tenu, en vertu de son contrat d'emploi, d'acquitter les frais de déplacement qu'il a engagés pour l'accomplissement des fonctions de sa charge ou de son emploi,
+les sommes qu'il a dépensées pendant l'année (sauf les frais afférents à un véhicule à moteur) pour se déplacer dans l'exercice des fonctions de son emploi, sauf s'il a, selon le cas :
+(iii) reçu une allocation pour frais de déplacement qui, par l'effet des sous-alinéas 6(1)b)(v), (vi) ou (vii), n'est pas incluse dans le calcul de son revenu pour l'année,
+(vi) demandé une déduction pour l'année en application des alinéas e), f) ou g);
+h.1) Frais afférents à un véhicule à moteur - dans le cas où le contribuable, au cours de l'année, a été habituellement tenu d'accomplir les fonctions de son emploi ailleurs qu'au lieu d'affaires de son employeur ou à différents endroits et a été tenu, aux termes de son contrat d'emploi, d'acquitter les frais afférents à un véhicule à moteur qu'il a engagés dans l'accomplissement des fonctions de sa charge ou de son emploi, les sommes qu'il a dépensées au cours de l'année au titre des frais afférents à un véhicule à moteur pour se déplacer dans l'exercice des fonctions de son emploi, sauf s'il a, selon le cas :
+(i) reçu une allocation pour frais afférents à un véhicule à moteur qui, par l'effet de l'alinéa 6(1)b), n'est pas incluse dans le calcul de son revenu pour l'année,
+(ii) demandé une déduction pour l'année en application de l'alinéa f);
+[4] La Cour d'appel fédérale a minutieusement examiné ces dispositions plus d'une fois. Dans l'arrêt Daniels v. Canada (Attorney-General)[2], la juge Desjardinsa dit ce qui suit à la page 379 :
+[7] Il est bien établi que les frais de déplacement encourus par un contribuable pour voyager aller-retour de sa résidence à son lieu d'affaires sont considérés comme des frais personnels. Ce ne sont pas des frais de déplacement assumés dans le cadre des fonctions du contribuable. Ils lui permettent plutôt d'accomplir ces fonctions.
+[5] Pour être déductibles, de telles dépenses doivent avoir été engagées « dans l'exercice des fonctions de son emploi » ; dans la négative, il s'agit par définition de frais personnels. Dans l'arrêt Hogg v. Canada[3], dont il est fait mention dans la décision Daniels, le juge Nadon a expliqué le sens de cette expression :
+[13] Donc, selon moi, suivant le sens ordinaire des versions française et anglaise de l'alinéa 8(1)h.1) de la Loi, il ressort clairement que les termes « frais afférents à un véhicule à moteur pour se déplacer dans l'exercice des fonctions de son emploi » exigent nécessairement que ces frais soient engagés par le contribuable dans l'accomplissement des fonctions de sa charge.
+[6] Dans le présent cas, les frais de déplacement et de logement que M. Séguin a engagés se rapportaient au temps passé sur le chantier en fin de semaine ou visaient à permettre à M. Séguin de retourner chez lui pour y passer son congé. Comme il a été dit dans l'arrêt Hogg, on ne saurait raisonnablement dire que M. Séguin accomplissait les fonctions de son emploi lorsqu'il a engagé pareils frais. Même s'il existait une possibilité qu'il soit rappelé au travail, M. Séguin a clairement témoigné que, pendant la période qui est ici en cause, il n'était pas de service, c'est-à-dire qu'il passait la fin de semaine chez lui ou ailleurs, mais qu'il ne travaillait pas sur le chantier. Le ministre a donc eu raison de rejeter les déductions demandées et ces appels doivent être rejetés. Compte tenu de cette décision, il n'est pas nécessaire d'examiner les documents additionnels que M. Séguin a déposés à l'égard d'une déduction pour amortissement possible.
+Signé à Ottawa, Canada, ce 21e jour d'avril 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+Ce 13e jour de mars 2006
+Christian Laroche, LL.B.
+RÉFÉRENCE :
+2005CCI282
+No DU DOSSIER DE LA COUR :
+2004-4319(IT)I
+INTITULÉ :
+Daniel Seguin c. S.M.R.
+LIEU DE L'AUDIENCE :
+Sudbury (Ontario)
+DATE DE L'AUDIENCE :
+Le 21 mars 2005
+MOTIFS DU JUGEMENT :
+L'honorable juge G. Sheridan
+DATE DU JUGEMENT :
+Le 21 avril 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Sandra Phillips
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] La question n'a été soulevée qu'à la fin de l'audience; sur consentement de l'avocate de la Couronne, M. Séguin a immédiatement fourni à l'intimée des documents à l'appui de sa demande de déduction pour amortissement, lesquels ont été déposés devant la Cour.
+[2][2004] 2 C.T.C. 377
+[3][2002] 3 C.T.C. 177

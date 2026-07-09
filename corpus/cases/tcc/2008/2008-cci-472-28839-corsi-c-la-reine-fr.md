@@ -1,0 +1,173 @@
+---
+title: "Corsi c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28839/index.do"
+last_modified: "2008-08-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 472"
+citation2: ""
+neutral_citation: "2008 CCI 472"
+decision_date: "2008-08-20"
+language: "fr"
+item_id: "28839"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1349
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:28:23.435000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ae3bec3d4b62264e326ca66228a9382dba96f7d2fcd6b5850e5c89e75feb6b8a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Corsi c. La Reine
+
+- Citation: 2008 CCI 472
+- Decision date: 2008-08-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1349, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Corsi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-08-20
+Référence neutre
+2008 CCI 472
+Numéro de dossier
+2008-1374(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1374(IT)G
+ENTRE :
+MARIA CORSI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Requête entendue à Toronto (Ontario), le 31 juillet 2008.
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelante :
+Me R. Daniel Lyons
+Avocate de l’intimée :
+Me Jenny P. Mboutsiadis
+____________________________________________________________________
+JUGEMENT
+Vu la requête présentée par l’avocate de l’intimée visant à faire rejeter l’appel;
+Et vu les observations des deux parties;
+La requête de l’intimée est accueillie et l’appel est rejeté.
+Signé à Ottawa, Canada, ce 20e jour d’août 2008.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 14e jour d’octobre 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2008 CCI 472
+Date : 20080820
+Dossier : 2008-1374(IT)G
+ENTRE :
+MARIA CORSI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience à Toronto (Ontario), le 31 juillet 2008.)
+Le juge Boyle
+[1] La Couronne a présenté une requête en vertu de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») visant à faire radier l’avis d’appel de la contribuable au motif qu’il était frivole parce que la contribuable n’avait pas, au préalable, présenté d’avis d’opposition dans le délai imparti, ou parce qu’elle n’avait pas demandé en temps opportun à la Cour de proroger le délai en question.
+[2] Lors de l’audition de la requête, la Couronne a demandé à la Cour de considérer que la requête avait aussi été présentée en vertu de l’article 58 des Règles, en alléguant que la présentation d’un avis d’opposition ou d’une demande de prorogation de délai en temps opportun constitue une condition préalable pour interjeter appel, et que cette condition n’avait pas été remplie en l’espèce. L’avocat de la contribuable ne s’est pas opposé à cette demande.
+[3] La question soulevée par le litige fiscal auquel est partie Mme Corsi touche la validité de la cotisation qui a été établie à son égard en vertu de l’article 160 de la Loi de l’impôt sur le revenu (la « Loi »), et qui concerne sa responsabilité vis‑à‑vis l’impôt que son époux devait payer sur les dépôts qu’il avait faits dans leur compte de chèques conjoint.
+I. Faits pertinents
+[4] Selon la preuve par affidavit que m’ont fournie les deux parties aujourd’hui, la chronologie des événements entourant la cotisation, l’opposition et l’appel peut être résumée de la façon suivante. La cotisation établie par l’Agence du revenu du Canada (l’« ARC ») porte la date du 21 juin 2004. C’est également à cette date que l’avis de cotisation a été envoyé par messagerie prioritaire à l’adresse domiciliaire de la contribuable. Cette adresse n’était pas l’adresse autorisée par la contribuable pour les envois postaux (l’« adresse autorisée ») auprès de l’ARC aux fins de l’impôt.
+[5] Postes Canada a renvoyé à l’ARC l’enveloppe contenant l’avis de cotisation; l’enveloppe portait une estampe indiquant qu’elle n’avait pas été réclamée et une étiquette portant l’inscription [TRADUCTION] « le destinataire a déménagé/est inconnu à cette adresse ». L’ARC a déposé en preuve une copie de l’enveloppe qui lui avait été renvoyée.
+[6] La copie de l’enveloppe montre que quelqu’un, peut‑être un employé de Postes Canada, avait modifié le code postal initialement inscrit sur l’enveloppe en inscrivant un code postal erroné à la main. L’enveloppe portait aussi des estampes indiquant qu’un rappel avait été envoyé le 24 juin, un avis final le 29 juin et que l’enveloppe elle‑même avait été renvoyée à l’expéditeur le 15 juillet.
+[7] Aujourd’hui, la Couronne a reconnu que, compte tenu de ces faits, elle ne pouvait pas prétendre que l’avis de cotisation avait été envoyé à la contribuable le 21 juin 2004 pour l’application du paragraphe 152(2) de la Loi, et que cette date ne pouvait pas constituer la date de mise à la poste marquant le début de la période 90 jours pendant laquelle un avis d’opposition peut être présenté en vertu de l’article 165 de la Loi.
+[8] Cependant, le dossier semble montrer que l’ARC a jusqu’à maintenant prétendu que la date de mise à la poste était le 21 juin 2004.
+[9] Étonnement, la preuve montre que l’ARC n’a rien fait avec l’avis de cotisation qui lui avait été renvoyé, si ce n’est de garder l’enveloppe. On aurait au moins pu s’attendre à ce que l’adresse inscrite sur l’enveloppe renvoyée ait été revérifiée et comparée à l’adresse figurant aux dossiers de l’expéditeur, peu importe qui il était. Si l’ARC avait agi de la sorte, elle se serait rendu compte qu’elle avait utilisé la mauvaise adresse, et on peut espérer qu’elle aurait alors envoyé l’avis de cotisation à l’adresse autorisée de la contribuable qui figurait dans ses dossiers. Il me semble tout à fait inacceptable que l’ARC ne se donne même pas la peine de vérifier si elle a utilisé la bonne adresse lorsqu’une lettre lui est renvoyée parce qu’elle n’a pas pu être livrée.
+[10] Aucune preuve ni aucune raison n’ont été fournies pour expliquer le fait que l’avis de cotisation avait été envoyé au domicile de la contribuable plutôt qu’à l’adresse qu’elle avait autorisée. Le fait que l’ARC avait utilisé la mauvaise adresse n’a lui non plus pas été expliqué, car l’affidavit de la Couronne et l’imprimé d’ordinateur déposé sous la cote A montrent clairement que la seule adresse postale que l’ARC avait pour la contribuable n’est pas celle où l’avis de cotisation a été envoyé.
+[11] Les pièces présentées par la contribuable montrent que son adresse postale autorisée est en fait celle de son comptable. Mme Corsi n’a jamais reçu l’avis de cotisation. Elle a appris l’existence de la cotisation lorsque l’équipe de l’ARC responsable du recouvrement a commencé à lui demander de payer.
+[12] En octobre 2005, à la demande du comptable de Mme Corsi et avec la permission de cette dernière, une copie de l’avis de cotisation original a été envoyée au comptable de Mme Corsi. Il s’était alors écoulé plus d’une année et 90 jours depuis l’envoi de l’avis de cotisation original.
+[13] En mai 2007, la contribuable a demandé une prorogation du délai pour présenter un avis d’opposition. À ce moment, plus d’un an et 90 jours s’étaient écoulés depuis que la copie de l’avis de cotisation avait été remise au comptable de la contribuable, dont l’adresse était l’adresse autorisée de la contribuable.
+[14] En juillet 2007, l’ARC a rejeté la demande de prorogation du délai de présentation de l’avis d’opposition faite par la contribuable. Il semble que la contribuable n’avait pas reçu l’avis de ce refus, car son comptable a communiqué avec l’ARC en novembre 2007 et il s’est alors fait donner une copie de l’avis de refus de la demande de prorogation de délai par l’ARC.
+[15] L’avis d’appel de la contribuable a été présenté à la Cour en mai 2008. Le premier moyen d’appel invoqué par la contribuable était que la cotisation n’avait pas été valablement établie parce que l’avis de cotisation n’avait pas été envoyé à la bonne adresse.
+II. Droit applicable
+[16] Selon l’article 152 de la Loi, un avis de cotisation doit être envoyé au contribuable. L’article 165 de la Loi prévoit que pour contester une cotisation telle que celle dont Mme Corsi a fait l’objet, le contribuable doit déposer un avis d’opposition dans les 90 jours suivant la mise à la poste de l’avis de cotisation.
+[17] L’arrêt rendu en 2006 par la Cour d’appel fédérale dans 236130 British Columbia Ltd. établit clairement que l’avis de cotisation doit être envoyé à l’adresse autorisée du contribuable et non pas à une autre adresse du contribuable, et qu’un manquement à cette règle entraîne la conclusion que l’avis de cotisation envoyé à la mauvaise adresse n’a pas été établi du tout.
+[18] Selon l’article 166.1 de la Loi, le contribuable qui n’a pas présenté d’avis d’opposition dans les 90 jours impartis peut demander à l’ARC de l’autoriser à présenter son opposition après l’expiration de ce délai, à condition, entre autres, de présenter cette demande dans l’année suivant l’expiration du délai de 90 jours.
+[19] Selon l’article 166.2 de la Loi, le contribuable qui a vu sa demande de prorogation du délai pour signifier un avis d’opposition rejetée par l’ARC peut interjeter appel à la Cour, à condition, entre autres, de le faire dans les 90 jours de la mise à la poste de l’avis de décision, et à condition que la demande de prorogation initiale ait été présentée dans l’année suivant l’expiration du délai imparti pour présenter l’avis d’opposition.
+[20] Selon l’article 169 de la Loi, pour pouvoir interjeter appel d’une cotisation devant la Cour, le contribuable doit avoir signifié au préalable un avis d’opposition à la cotisation en question à l’ARC.
+III. Analyse
+[21] La contribuable a interjeté appel de la cotisation devant la Cour. Pour que cet appel puisse être considéré comme ayant été valablement interjeté, la Loi exige que la procédure d’opposition ait d’abord été suivie. À la lumière des faits en cause, je ne peux pas conclure que la contribuable avait valablement signifié un avis d’opposition à la cotisation, comme elle était tenue de le faire. Aucun avis d’opposition n’a été signifié dans les 90 jours suivant les mois de juin 2004 ou d’octobre 2005, moment où le comptable de la contribuable a reçu l’avis de cotisation. L’avis d’opposition n’a même pas été signifié dans les 90 jours de la date où son nouveau conseiller a reçu une copie de l’avis de cotisation en novembre 2006.
+[22] Si aucun avis d’opposition n’a été signifié concernant une cotisation, la Cour n’a pas compétence pour entendre un appel interjeté à son égard.
+[23] Pour ce qui est de la demande de prorogation du délai pour signifier l’avis d’opposition faite par la contribuable, elle a été présentée à l’ARC en mai 2007. L’ARC a refusé cette demande en juillet 2007. Même si l’avis de refus datant de juillet 2007 n’a pas été reçu, une copie de cet avis a été reçue en novembre 2007.
+[24] Même si je voulais donner un deuxième souffle à l’appel de la contribuable en considérant qu’il s’agit d’un appel interjeté à l’égard de la décision de l’ARC de refuser la demande de prorogation du délai pour signifier l’avis d’opposition, cela m’est impossible, car la Cour n’a pas compétence pour entendre un tel appel s’il n’est pas interjeté dans les 90 jours de la décision de l’ARC.
+[25] Il est évident que la Loi me force à donner raison à la Couronne quand elle affirme que l’appel n’a pas été dûment interjeté, que ce soit à l’encontre de la cotisation, parce qu’aucun avis d’opposition n’avait été valablement signifié, ou à l’encontre du refus de la demande de prorogation du délai pour signifier l’avis d’opposition, parce qu’un tel appel aurait dû être interjeté dans les 90 jours de la décision de l’ARC.
+[26] Je n’ai d’autre choix que d’accueillir la requête de la Couronne, et de rejeter l’appel de la contribuable.
+[27] Toutefois, les faits en cause permettent de se demander si l’ARC a vraiment établi une cotisation valide. D’ailleurs, il s’agit du premier moyen d’appel invoqué dans l’avis d’appel de la contribuable.
+[28] La question qui se pose alors est la suivante : si une cotisation a été dûment établie, quand l’a-t-elle été?
+[29] La Loi prévoit que même un contribuable qui veut contester la validité d’une cotisation devant la Cour doit signifier un avis d’opposition à la cotisation en cause. Tel n’a pas été le cas en l’espèce.
+[30] Il se peut que Mme Corsi dispose d’un recours devant un autre tribunal pour contester la cotisation en alléguant qu’elle n’a jamais été valide. Je vais toutefois laisser cette question aux soins de la contribuable et de ses conseillers.
+[31] Il est aussi possible que Mme Corsi dispose d’un recours devant un autre tribunal si l’un de ses nombreux conseillers professionnels l’a mal conseillée ou a mal défendu ses intérêts.
+[32] En l’espèce, les dépens ne sont pas adjugés. La requête de l’intimée est accueillie, et l’appel est rejeté.
+[33] Merci, Mme Mboutsiadis et Me Lyons, pour vos observations. Merci aussi au greffier et au sténographe judiciaire. L’audience est levée.
+Signé à Ottawa, Canada, ce 20e jour d’août 2008.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 14e jour d’octobre 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008 CCI 472
+No DU DOSSIER DE LA COUR :
+2008-1374(IT)G
+INTITULÉ :
+Maria Corsi et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 31 juillet 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 20 août 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me R. Daniel Lyons
+Avocate de l’intimée :
+Me Jenny P. Mboutsiadis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me R. Daniel Lyons
+Cabinet :
+Rotfleisch & Samulovitch PC
+Toronto (Ontario)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

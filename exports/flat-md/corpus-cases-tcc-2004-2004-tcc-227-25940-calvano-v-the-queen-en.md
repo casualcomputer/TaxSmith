@@ -1,0 +1,156 @@
+---
+title: "Calvano v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25940/index.do"
+last_modified: "2004-03-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 227"
+citation2: ""
+neutral_citation: "2004 TCC 227"
+decision_date: "2004-03-22"
+language: "en"
+item_id: "25940"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3673
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:40:35.321000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6d63ee49984a592280997a4eaab013657977355eda4ce5d909c22e883fcb8ea1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Calvano v. The Queen
+
+- Citation: 2004 TCC 227
+- Decision date: 2004-03-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3673, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Calvano v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-22
+Neutral citation
+2004 TCC 227
+File numbers
+2001-3162(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC227
+Date: 20040322
+Docket: 2001-3162(IT)G
+BETWEEN:
+JOSEPH CALVANO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Ron D.F. Wilhelm
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Vancouver, British Columbia, on December 9, 2003)
+Miller J.
+[1] The Appellant, Joseph Calvano, appeals the assessment from the Minister of National Revenue of his 1996 taxation year in which the Minister denied Mr. Calvano a deduction for moving expenses of $24,806.74.
+[2] Mr. Calvano claimed the expenses were incurred for his move from his Brampton, Ontario home to a residence in Port Moody, British Columbia, as a result of a new job at Army and Navy Department Stores in Vancouver, British Columbia. Mr. Calvano spent 19 months in rented premises in Coquitlam, British Columbia before acquiring a Port Moody home. The primary issue is whether Mr. Calvano ordinarily resided in the rental premises in Coquitlam, for if he did, it is only the costs of the move from Brampton to Coquitlam which are properly deductible. None of the $24,806 relates to the move to Coquitlam. I find Mr. Calvano did ordinarily reside in the Coquitlam property and, therefore, the moving expenses he claimed in 1996 are not deductible.
+[3] Mr. Calvano had an extensive background in the retail industry. In 1994, he was headhunted for the position of president of Army and Navy. Army and Navy intended to move their head office from Regina to Vancouver, so it was Vancouver where the new president was to be located. Mr. Calvano was offered and accepted the position of president in late 1994. He attended a three-week orientation in Regina in January 1995 and moved to Vancouver immediately thereafter. He was put up by Army and Navy at the Landis Hotel in Vancouver. He worked out of the Army and Navy retail store in Vancouver as the head office had not yet moved, though he was assured by the CEO, Mr. Garth Kennedy, that the head office would move in the spring. He was provided with a $75,000 loan from Army and Navy so he could retire his debts other than his mortgage.
+[4] Mr. Calvano's wife joined him in Vancouver for a week early in 1995 and together they found the rental property in Coquitlam which they took possession of in March. Mr. Calvano's teenaged son moved to Vancouver in February and joined Mr. Calvano at the Landis Hotel. In March, Mr. Calvano's wife also moved to Vancouver and the three family members moved into the Coquitlam rental property. They chose this property as it was big enough to afford Mr. Calvano's son some privacy.
+[5] All their belongings were moved from Brampton into the Coquitlam home. They incurred some minor moving expenses of approximately $1,600, some meals, for example, which Mr. Calvano successfully claimed as moving expenses in 1995. Army and Navy paid for the rest of the moving expenses from Brampton to Coquitlam.
+[6] Mr. Calvano indicated it was a family decision to accept the job and move to British Columbia and that it was indeed a difficult decision. Mr. Calvano's son was 18 and in his last year or two of high school. He was very involved in hockey in Ontario. Both Mr. and Mrs. Calvano's family were in Ontario. They were close and they saw their family frequently. It was clear that the Calvanos loved their home in Ontario and, until this job, had every expectation to remain there for a long time. However, Mr. Calvano's consulting in 1994 was clearly not as fruitful as he might have liked and the offer of a $125,000 a year steady job ultimately held sway.
+[7] Mr. Calvano decided to rent out the Brampton home. He said he made this decision as he felt the future was not secure in British Columbia in that he had no firm contract in early 1995. The head office of Army and Navy had not yet moved from Regina and he simply wanted to be sure it would work out for everyone in British Columbia.
+[8] I am not completely convinced by Mr. Calvano's testimony in this regard, for it was clear that Mr. Kennedy and Army and Navy's legal executive, Mr. MacKenzie, had made it clear to Mr. Calvano that he did have a long-term future with the company. Mr. Calvano's own evidence would suggest that it was not until June that he started having concerns about not having a written contract. In March, when he decided to rent the Brampton property, the lack of a written contract with Army and Navy was simply not a consideration.
+[9] Mr. Calvano was able to find a tenant, Mr. Thorvardson, for the Brampton property. Mr. Thorvardson wanted to rent for a couple of years or longer, if possible. The lease was settled at one year, four months, March 1995 to June 1996, so that Mr. Thorvardson's children's school would not be interrupted. Mr. Calvano charged $1,800 a month, exactly the same rent as he agreed to pay for the Coquitlam property.
+[10] With respect to the Brampton property, Mr. Calvano declared losses from that property in both 1995 and 1996 of $11,800 and $6,200, respectively. While Mr. Calvano maintained he never told his tenant, Mr. Thorvardson, that the lease would be any longer than one year, four months, this evidence was contradicted by a letter from Mr. Thorvardson sent to Mr. Calvano after learning the lease would not be extended. Mr. Thorvardson indicated in that letter that it had been his understanding that if Mr. Calvano stayed in British Columbia, the Brampton lease would automatically be extended. Mr. Calvano's own accountant, Laurie Starkman, appears to have confirmed this view in correspondence with Canada Customs and Revenue Agency, and then she went on to state that it was Mr. Calvano's hope to pay down the mortgage on the Brampton property and rent it for a profit in the future.
+[11] On balance, I find Mr. Calvano had led his tenant to believe the Brampton lease would continue if the Calvanos did not return to Ontario.
+[12] During the summer of 1995, Mr. Calvano believed his efforts with Army and Navy were starting to bear fruit. He also believed the company was waiting to see the results before finalizing his contract. It was primarily the bonus provisions of his arrangement which had not been finalized. Also during the summer of 1995, Mr. and Mrs. Calvano explored the Vancouver area looking for properties.
+[13] Over the first few months of 1995, Mr. Calvano established a bank account in British Columbia, changed to a British Columbia driver's licence and acquired B.C. health care. He sold his car to Army and Navy but retained the use of it on the basis of the company's policy of providing their executives with a company car.
+[14] In December 1995, Mr. Calvano got his written contract. Apart from the bonus provisions, it confirmed the verbal arrangement under which he had been operating for many months. By September, the head office had also moved to Vancouver.
+[15] In December 1995, Mr. Calvano also saw his Ontario real estate agent and he proceeded to list his Brampton property in January 1996, causing the tenant, Mr. Thorvardson, to send the letter of disappointment alluded to earlier. The Brampton property sold in May 1996 after having had the price reduced a couple of times.
+[16] In August 1996, the Calvanos put in an offer on a property under construction in Port Moody, British Columbia. Although they moved into this property at the end of October 1996, it was not until January 1997 that title transferred.
+[17] The issue in this case is whether Mr. Calvano is entitled to moving expenses that consist of costs of $18,376 covering realtor's commission, legal fees and a mortgage repayment in connection with the sale of the Brampton property in May 1996, and costs of $6,340 covering legal fees and taxes in connection with the purchase of the Port Moody property.
+[18] The relevant provisions are subsections 62(1) and 62(3) and I will just read the pertinent parts of subsection 62(1) for now:
+62(1) Where a taxpayer has, at any time, commenced
+(a) ... to be employed at a location in Canada, ...
+and by reason thereof has moved from the residence in Canada at which, before the move, the taxpayer ordinarily resided, ... to a residence in Canada at which, after the move, the taxpayer ordinarily resided, ... so that the distance between the old residence and the new work location is not less than 40 kilometres greater than ...
+I do not need to read the rest.
+[19] So, first, did Mr. Calvano commence to be employed at a new work location? Yes, he did, clearly. Second, did he move from Brampton because of the new job? Again, yes, he did. Third, did he move to a residence in Canada at which, after the move, he ordinarily resided? The answer to this question is also, yes, he did.
+[20] The Appellant maintains that the first new residence where he ordinarily resided after the move was Port Moody in late October 1996, while the Respondent says the new residence where Mr. Calvano ordinarily resided after the move was Coquitlam, in March 1995. As stated at the outset, this case comes down to where Mr. Calvano first ordinarily resided after the move.
+[21] The starting point on any discussion of "ordinarily resided" is the Supreme Court of Canada case of Thomson v. M.N.R.[1] and particularly, Justice Estey's following comment, which can be found at pages 231-2:
+A reference to the dictionary and judicial comments upon the meaning of these terms indicates that one is "ordinarily resident" in the place where in the settled routine of his life he regularly, normally or customarily lives. One "sojourns" at a place where he unusually, casually or intermittently visits or stays. In the former the element of permanence; in the latter that of the temporary predominates. The difference cannot be stated in precise and definite terms, but each case must be determined after all of the relevant factors are taken into consideration, but the foregoing indicates in a general way the essential difference.
+[22] It is clear from a review of the cases that Justice Estey was absolutely right, that each case can only be determined after a review of all the relevant factors. So for example, in Ringham v. R.,[2] the relevant factors the Court considered were that the couple sold their Ottawa home and that they moved into an Ottawa apartment, expecting an imminent posting overseas by a company of consulting engineers, Triple M. Many belongings were put in storage. On an interim basis, Mr. Ringham worked for the Toronto office of Triple M. The overseas posting never materialized and Mr. Ringham moved to Toronto and sought moving expenses, including expenses involved in the original sale of his Ottawa home. Justice Bowman found it was not realistic to find Mr. Ringham was ordinarily resident in the Ottawa apartment.
+[23] Mr. Calvano's situation is quite different. Basically, he argues that his rental arrangement for 19 months in Coquitlam was only a temporary residence as opposed to ordinary residence. I do not believe that is the test. Whether a residence is intended to be temporary or permanent does not determine whether the residence constitutes "ordinarily resident." Simply because someone chooses to live somewhere temporarily, it does not automatically follow that they cannot be ordinarily resident there. Put in positive terms, one can be ordinarily resident on a temporary basis. The concept of "ordinarily resident" has more to do with the settled, ordinary routine of life than the permanence of the arrangement.
+[24] I agree with Justice Bowie's conclusion in the case of Cavalier v. Canada[3] where he stated at paragraph 22:
+I conclude from these cases that in order to be "ordinarily resident" a taxpayer need not have formed the intention to remain permanently, or for any particular length of time, at the new place of residence. ...
+Having said that, the length of stay in Coquitlam is one of a number of factors to consider in determining whether Mr. Calvano was ordinarily resident in Coquitlam.
+[25] The other relevant factors I rely upon in determining that he was ordinarily resident in Coquitlam are as follows:
+(i) First, both Mr. Calvano and his wife and his son moved into this residence, leaving behind significant attachments in Ontario, such as school and hockey for the son, and close family ties for Mrs. Calvano.
+(ii) All belongings were moved, at Army and Navy's expense, to this new residence. Nothing of significance was put in storage.
+(iii) Driver's licence, health care coverage and bank accounts were all moved to British Columbia while in this residence.
+(iv) There had clearly been a change of use in the Brampton property from one of principal residence to one of an income-producing property in March 1995 and it operated as such, yielding deductible losses in 1995 and 1996.
+(v) For 19 months, this is where Mr. Calvano and his family ate, slept and lived, with only an occasional trip to Ontario.
+(vi) During these 19 months, the Calvanos started and established a social life.
+(vii) The property itself was chosen to accommodate the family's specific needs.
+These factors suggest to me this was considerably more than a transitory lay-by. This was, for well over a year, the settled routine of daily life for the Calvanos.
+[26] Weighed against this is Mr. Calvano's assertion that because of the lack of a written contract until December 1995, for the period from March 1995 to October 1996, he cannot be seen as being ordinarily resident in Coquitlam, but only when the family bought the property in Port Moody did they become ordinarily resident in B.C. That diminishes the common-sense meaning of "ordinarily resident" to the point of rendering it meaningless.
+[27] I find Mr. Calvano and his family decided to move to the Vancouver area in early 1995 and they decided to take up ordinary residence, on a rental basis, in Coquitlam at that time. A subsequent move 19 months later into a home bought by the Calvanos does not make their time in those first 19 months something other than ordinarily resident.
+[28] It is unnecessary to consider any of the Crown's alternative arguments. The appeal is dismissed. No costs are awarded.
+Signed at Ottawa, Canada, this 22nd day of March, 2004.
+"Campbell J. Miller"
+Miller J.
+CITATION:
+2004TCC227
+COURT FILE NO.:
+2001-3162(IT)G
+STYLE OF CAUSE:
+Joseph Calvano and Her Majesty the Queen
+PLACE OF HEARING
+Vancouver, British Columbia
+DATE OF HEARING
+December 8, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justce Campbell J. Miller
+DATE OF JUDGMENT
+December 17, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ron D.F. Wilhelm
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1946 S.C.R.] 209.
+[2] 2000 DTC 2060.
+[3] [2001] T.C.J. No. 719.

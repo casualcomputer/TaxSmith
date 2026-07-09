@@ -1,0 +1,369 @@
+Title: Vatchiants c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30158/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-14-30158-vatchiants-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-02-03
+
+# Vatchiants c. La Reine
+
+- Citation: 2011 CCI 14
+- Decision date: 2011-02-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7829, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vatchiants c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-03
+Référence neutre
+2011 CCI 14
+Numéro de dossier
+2006-2873(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2011 CCI 14
+Date : 20110110
+Dossier : 2006-2873(IT)G
+ENTRE :
+SERGUEI VATCHIANTS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+I. Introduction
+[1] L’appelant appelle de cotisations en date du 17 mars 2004 pour les années d’imposition 1997, 1998, 1999 et 2001[1].
+[2] Les cotisations sont le résultat d’une estimation des revenus de l’appelant par l’Agence du revenu du Canada (ARC) en utilisant la méthode connue sous le nom de méthode de l’avoir net.
+[3] Par rapport au revenu déclaré antérieurement par l’appelant, l'ARC a ajouté les montants suivants au revenu de l’appelant et a imposé des pénalités en vertu du paragraphe 163(2) de la Loi de l'impôt sur le revenu (LIR) :
+Année
+Revenu additionnel
+Pénalités
+1997
+345 308,25 $
+45 209,66 $
+1998
+242 475,36 $
+30 402,98 $
+1999
+640 054,30 $
+80 518,69 $
+[4] Les questions en litige sont :
+1. L’ARC avait-elle raison d’ajouter les montants additionnels au revenu? L’appelant prétend qu'il y a plusieurs erreurs dans le calcul de l’avoir net.
+2. L’ARC avait-elle raison d’imposer des pénalités en vertu du paragraphe 163(2) de la LIR?
+3. L’ARC avait-elle raison d’établir des cotisations après le délai normal de trois ans?
+[5] Il s’agit en très grande partie de questions de fait.
+[6] Sonia Sariboyajian de l’ARC a témoigné et a expliqué le calcul de l’avoir net qu’elle a préparé. L’appelant a témoigné.
+[7] Vu que l’appelant n’a pas critiqué la totalité de l’analyse de l’avoir net, mais s’est limité à certains aspects factuels ainsi qu’à une partie de la méthodologie, je vais procéder en examinant les critiques soulevées par l’appelant. Certaines concessions ont été faites par l’intimée après la fin de la preuve, et je vais tout simplement énumérer ces concessions sans examiner le débat entourant les faits ayant mené aux concessions.
+II. Le contexte
+[8] L’appelant est ingénieur civil de formation.
+[9] L’appelant était haut fonctionnaire dans l’ancienne Union soviétique. Entre autres, il a été directeur général d’une entreprise qui construisait des hôpitaux et des cliniques pour le ministère de la Santé. Il a passé une partie de sa carrière de fonctionnaire à travailler à l'étranger, en Algérie et en Iran.
+[10] En 1988, peu après le début de la libéralisation économique en Union soviétique, l’appelant a créé une première entreprise, Drevo[2].
+[11] Plus tard, il a donné 10 % des actions de Drevo à sa femme, 10 % à Albert Diakonov et 4 % à Mme Taraskula, sa comptable.
+[12] Vers 1990, l’appelant a créé une autre entreprise dénommée Drevco qu’il a décrite comme une coentreprise[3]. Drevo était propriétaire de 51 % des actions de Drevco[4].
+[13] Au début, les autres 49 % de Drevco appartenaient à une entreprise suédoise et à une entreprise néerlandaise, mais ces entreprises n’ont pas fait les investissements qu’elles devaient faire et elles ont été remplacées par une entreprise britannique, Cosmos Trading, et une entreprise égyptienne, Banna Wood.
+[14] Drevco exploitait une entreprise de commerce du bois et de transport.
+[15] Les entreprises étrangères, britannique et égyptienne, comme les deux entreprises qui les ont précédées, n’ont pas rempli leurs obligations envers Drevco et, au début de 1994, tout le monde s’est entendu pour qu’elles se retirent de Drevco[5].
+[16] C'est à partir de ce moment que certains événements liés à Drevco deviennent pertinents au litige.
+[17] Avant d’examiner ces événements, pour compléter le contexte, il faut noter que l’appelant est arrivé au Canada comme immigrant investisseur en 1996 ayant obtenu son visa plus tôt en 1996[6].
+[18] Aux fins de sa demande de visa, il a préparé un bilan personnel qui indique un avoir net important d’environ 7 000 000 $CAN[7].
+[19] Il n’est pas inutile de garder à l’esprit que la fin des années 1980 et les années 1990 étaient une période turbulente en Russie avec, d’une part, une transition extrêmement rapide d’une économie contrôlée par une planification centralisée à une forme d’économie de marché et, d’autre part, avec la fin de l’Union soviétique. Il est notoire qu’il y a eu de grandes difficultés économiques au cours de ces transitions[8].
+[20] L’utilisation de la méthode de l’avoir net par l’ARC est liée au fait que l’ARC considérait que les revenus déclarés par l’appelant et son épouse étaient modestes, un peu moins de 90 000 $ au total pour les années d’imposition 1997, 1998 et 1999, comparativement au mode de vie de l’appelant.
+[21] Parmi les documents obtenus par l’ARC, il y a deux lettres adressées au Trust Général du Canada à l’appui d’une demande de crédit. La première lettre, datée du 28 octobre 1996 et signée par l’appelant, affirme qu’il est propriétaire de deux grandes sociétés en Russie et qu’il reçoit un revenu stable de 5 000 $ à 8 000 $ par mois de ses sociétés. Cette lettre est écrite sur du papier à en-tête de Drevco[9].
+[22] Une deuxième lettre adressée au Trust Général, non signée, provient de la comptable en chef de Drevco. Cette lettre datée du 11 novembre 1996 est également écrite sur du papier à en-tête de Drevco et affirme que Drevco a des ventes annuelles excédant 15 000 000 $US et que l’appelant a un revenu de 10 000 $US par mois.
+[23] L’ARC a également obtenu des notes faites par une employée de l’institution financière le 18 novembre 1996 au sujet d’une conversation qu’elle a eue avec l’appelant. Cette employée a écrit dans ses notes que l’appelant avait un revenu de 10 000 $US par mois.
+[24] Ces documents ont sans doute influencé la décision de l’ARC d’établir les cotisations.
+III. Les critiques de l’appelant relatives à l’avoir net[10]
+[25] Premièrement, l’appelant prétend que l’avoir net ne tient pas compte d’un prêt important qu’il a fait et qui a été remboursé partiellement en plusieurs étapes.
+[26] Deuxièmement, l’appelant fait certaines critiques au sujet de la méthode d’estimation.
+[27] Troisièmement, il y a des critiques précises à part la première, dont une seule est encore en litige.
+A. Financement de l’achat des camions
+[28] La preuve sur cette question n’était pas idéale. Normalement, on s’attendrait à plus de documentation sur certains points ― même en tenant compte du laps de temps entre les événements de 1994 et le début de la vérification[11]. Les réponses de l’appelant n’ont pas toujours été faciles à suivre[12], bien que j'ai conclu que cela était en partie parce que l’appelant a témoigné dans une langue qui n'était pas sa langue première[13]. En conséquence, je peux comprendre que le débat sur cet aspect de la cotisation se soit rendu jusqu’à ce stade.
+[29] Néanmoins, tel que je vais l’expliquer ci-dessous, j’accepte une très grande partie du témoignage de l’appelant sur cet aspect du litige.
+[30] Comme nous le verrons ci-dessous, une partie du problème provient du fait que dans le contexte juridique russe en 1994, l’appelant ne pouvait accomplir tous ses objectifs que si le montant de 1 000 000 $US qu’il allait fournir pour l’achat des camions par Drevco était simultanément un prêt et un investissement pour l’achat d’actions.
+L’appelant a-t-il fait un prêt de 1 000 000 $US en 1994?
+[31] Selon l’appelant, il a été décidé en 1994 que l’appelant investirait l’équivalent de 1 000 000 $US[14] qu’il avait à l’extérieur de la Russie pour financer l’achat de 10 camions et de 10 remorques (ci-après, les « camions ») qui seraient utilisés dans l’entreprise de transport de Drevco.
+[32] L’appelant avait plusieurs objectifs : il voulait financer l’achat des camions et des remorques, il voulait s’assurer qu’il pourrait ressortir le montant de 1 000 000 $US de la Russie quand Drevco aurait « payé » les camions, et il voulait éviter que Drevco paye des frais de douane de 25 % lors de l'importation des camions et des remorques[15].
+[33] À l’époque, les lois russes donnaient plusieurs avantages aux sociétés étrangères qui investissaient dans des sociétés et des coentreprises en Russie. Elles pouvaient notamment sortir des capitaux du pays dans des circonstances où les Russes ne pouvaient le faire.
+[34] De plus, les sociétés étrangères qui apportaient leurs investissements sous forme de biens étaient dispensées de taxe à l’importation[16].
+[35] Pour profiter de ces avantages, l’appelant a constitué Paron Transport en société en Angleterre en novembre 1994 et il est devenu le seul actionnaire en achetant une action pour une livre sterling[17].
+[36] J’accepte le témoignage de l’appelant selon lequel il a prêté 1 000 000 $US à Paron[18].
+[37] Par contre, pour les raisons suivantes, je n’accepte pas que Paron ou l’appelant ait fait un prêt à Drevco.
+[38] Le témoignage et la preuve de l’appelant sur cette question sont contradictoires. À certains moments, l’appelant a témoigné qu’il s’agissait d’un prêt, mais sa preuve documentaire démontre que Paron a payé son intérêt majoritaire dans Drevco en contribuant les camions achetés pour l’équivalent de 1 000 000 $US. (Il s’agit d’une nouvelle société dénommée « Drevco ».)
+[39] Il ne peut y avoir à la fois acquisition d’actions de Drevco par Paron en contrepartie de la contribution des camions et des remorques et, simultanément, un prêt de 1 000 000 $US de Paron à Drevco.
+[40] Je n’ai aucun doute que l’objectif de l’appelant était de prêter son argent à Drevco pour permettre à Drevco d’acheter les camions. Je n’ai aucun doute que l’appelant estime, en termes économiques et pratiques, avoir fait un « prêt », dans le sens qu’il avait pris de l’argent personnel, que cet argent a permis à Drevco d’obtenir les nouveaux camions et qu’il s’attendait à récupérer la totalité du montant de 1 000 000 $US.
+[41] Il n’y a aucun contrat de prêt avec Drevco pour 1 000 000 $US.
+[42] On parle de prêt aux procès-verbaux de Drevco du 25 janvier 1994 et du 23 décembre 1994[19], aux paragraphes 2 à 5 et 1 à 5 respectivement. Il est mentionné entre autres :
+[traduction en preuve du procès-verbal du 25 janvier 1994, original en russe]
+5. The shareholders understand that S.G. Vatchiants invests his personal money to purchase the trucks and trailers, since currently all the funds of the Joint Venture are involved in the business activity of the company. The shareholders agree to regard the money that S.G. Vatchiants will pay for the trucks and trailers as well as the expenses incurred by opening and maintaining a European company, as a loan to the Drevco company, obtained through the new European company. The loan must be repaid to S.G. Vatchiants as per a separate agreement or Minutes, which shall be drawn later, when the parties will know the exact amount spent by S.G. Vatchiants on the purchase of the trucks and trailers, as well as the maintenance of the new company[20].
+[Je souligne.]
+[traduction en preuve du procès-verbal du 23 décembre 1994, original en russe]
+1. The shareholders of the company understand and agree that Mr. S.G. Vatchiants is the sole owner of PARON TRANSPORT LIMITED, and that the 10 Mercedes Benz trucks as well as 10 Crona trailers, for the total amount of DM1,710,000, placed by PARON company as its share in the capital fund of Drevco Joint Venture, were purchased by Mr. Vatchiants with his own money, and that the parties consider it a loan to the Joint Venture Drevco[21].
+[Je souligne.]
+[43] Le fait que les parties disent « agree to regard the money […] as a loan to the Drevco company » ne peut en soi créer un prêt en l’absence d’une avance de fonds ou de biens étant le sujet du prêt[22].
+[44] Quand on examine la clause 8 des statuts de Drevco[23], on constate que Paron contribue les camions et les remorques en contrepartie des actions qu’elle reçoit.
+[45] Paron ayant acquis une majorité des actions en contrepartie des camions achetés pour la somme de 1 000 000 $US, il est impossible que Paron ait également prêté à Drevco 1 000 000 $US ou l’équivalent.
+[46] L’appelant a donc prêté 1 000 000 $US à Paron, qui a acheté les camions, et Paron a acquis la majorité des actions de Drevco en contrepartie des camions. Il n’y a pas de prêt à Drevco.
+Les montants dus à Drevco payés à l’appelant
+[47] Divers montants qui étaient dus à Drevco ont été payés à l’appelant.
+[48] La position de l’intimée est que même si l’appelant a fait un prêt, il y a appropriation, et les montants payés à l’appelant doivent être inclus dans le revenu en vertu des paragraphes 15(1) ou 246(1) de la LIR.
+La vente des camions à Hilton Construction
+[49] Le montant le plus important provient de la vente des camions par Drevco à la société Hilton Construction pour 400 000 $US en 1999[24].
+[50] À la suite des instructions de Drevco[25], ce montant a été transféré directement de Hilton Construction au compte bancaire de l’appelant à Montréal en 1999[26].
+[51] Vu qu’il n’y a pas de prêt de l’appelant à Drevco ou de Paron à Drevco et qu’il ne s’agit pas d’un dividende[27], il s’agit d’une appropriation de Drevco.
+[52] À l’époque, l’appelant était l’unique propriétaire de Paron et possédait au moins 76 % des actions de Drevo et, en conséquence, il contrôlait indirectement Drevco. Il était également président du conseil de Drevco[28]. Il contrôlait donc toutes les décisions de Drevco.
+[53] S’agit-il d’une appropriation de Drevco en faveur de l’appelant ou de Drevco en faveur de Paron?
+[54] Vu le procès-verbal du 23 décembre 1994[29], qui indique une intention de traiter l’investissement de Paron comme s’il s’agissait d’un prêt, et vu aussi le procès-verbal du 28 novembre 1998[30], qui dit entre autres, au bas de la première page, que le produit de la vente des camions [TRADUCTION] « servira à compenser la dette envers PARON[31] » et que Paron, représentée par l’appelant, a déjà reçu certains montants, je conclus que l’appropriation est de Drevco en faveur de Paron[32].
+[55] L’appelant avait gardé ces montants vu le prêt de 1 000 000 $US, et il y a donc eu compensation partielle entre l’appelant et Paron.
+[56] Dans ces circonstances, il ne peut pas y avoir eu d’appropriation de Paron en faveur de l’appelant.
+[57] En conséquence, le paragraphe 15(1) de la LIR ne peut s’appliquer à l’appelant.
+[58] L’intimée a également invoqué le paragraphe 246(1)[33] de la LIR. Une des conditions d’application du paragraphe est que la valeur de l’avantage ne doit être incluse dans le revenu d’un contribuable que « dans la mesure où elle y serait incluse s’il s’agissait d’un paiement que cette personne avait fait directement au contribuable ».
+[59] Or, même en supposant que toutes les autres conditions du paragraphe 246(1) soient remplies, si Paron avait payé le montant directement à l’appelant, le paiement de 400 000 $US serait un remboursement et le montant ne serait pas imposable.
+[60] En conséquence, j’accepte l’argument de l’appelant selon lequel le montant ne doit pas être inclus dans le revenu et le montant canadien équivalant à 400 000 $US[34] (580 458,74 $CAN[35]) doit être retiré du revenu de l’appelant en 1999[36].
+Les autres montants dus à Drevco et payés à l’appelant
+[61] Il y a d’autres montants qui étaient dus à Drevco et qui ont été payés à l’appelant dans le but de « rembourser » le « prêt » de l’appelant[37].
+Vente d’équipement en 1997
+[62] Avant d’examiner les autres montants, il est important de signaler que dans son témoignage, l’appelant indique que certains montants qui lui ont été versés n’ont pas été envoyés au Canada.
+[63] Selon le procès-verbal du 26 juin 1999[38] de Drevco, un montant de 260 000 $US a été versé à l’appelant à la suite d’une vente d’équipement qui a eu lieu en 1997.
+[64] En témoignant, l’appelant a dit qu’une partie de ce montant est venue au Canada, mais qu’une autre partie est restée dans son compte bancaire en Russie où l’appelant s’en est servi, entre autres, pour faire un cadeau à deux de ses enfants en Russie et pour payer d’avance un montant très élevé de pension alimentaire à sa première épouse en Russie[39].
+[65] Tout le montant resté en Russie représente des dépenses ou des augmentations de l’avoir en Russie dont l’ARC n’a pas tenu compte lors de l’estimation du revenu. Ces dépenses en Russie ou ces augmentations de l’avoir en Russie ont pour effet d’augmenter le revenu de l’appelant[40], mais elles sont compensées par le fait que ce remboursement de prêt a le caractère de capital. Le résultat net est nul et tout remboursement qui est resté en Russie n’a aucun effet sur l’estimation du revenu.
+[66] Ce n’est que dans la mesure où ce remboursement, ayant un caractère de capital, se serait rendu au Canada qu’il pourrait réduire l’estimation du revenu imposable.
+[67] Si je comprends bien l’argument de l’appelant, il n’a pas prétendu que le « remboursement » de 260 000 $US devait réduire son revenu imposable. En conséquence je n’en tiens pas compte[41].
+Prêt à Andrey N. Skibinsky
+[68] Parmi les montants que l’appelant prétend avoir reçus en remboursement, outre le paiement de Hilton Construction, il y a un montant de 29 914,21 $CAN[42] en 1997. L’appelant a témoigné que Drevco a prêté à M. Skibinsky un montant en roubles équivalant à 21 700 $US, pour une période de 10 ans, sans intérêt. Il a également témoigné que M. Skibinsky a remboursé ce montant en lui envoyant le paiement suivant les instructions de Drevco. J’accepte cette preuve[43].
+[69] Le résultat est que le revenu de l’appelant doit être réduit de 29 914,21 $ en 1997[44].
+Paiement de LAG Holding
+[70] Finalement, j’accepte la preuve de l’appelant selon laquelle LAG Holding avait une dette, entre autres, de 70 000 $US envers Drevco et selon laquelle Drevco a donné des instructions à LAG Holding de payer ce montant au compte bancaire de l’appelant à Montréal[45]. Ce paiement équivalant à 96 257 $CAN[46] a été reçu en 1997.
+[71] En conséquence, le revenu de l’appelant pour l’année 1997 doit être réduit de 96 257 $[47].
+B. Les montants concédés par l’intimée
+[72] L’intimée a concédé qu’il fallait faire les changements suivants[48] :
+a) La voiture Cadillac a été vendue en 1998 au Canada et, en conséquence, doit être enlevée de l’avoir de l’appelant à la fin de 1998 et de 1999. L’effet de ce changement est de réduire l’augmentation de l’avoir net de 65 000 $ en 1998, et ainsi de réduire le revenu de l’appelant du même montant en 1998. En 1999, l’effet sur le revenu de l’appelant est nul, car l’avoir net au début et à la fin de l’année est réduit du même montant.
+b) Les voitures de l’appelant en Russie ont été vendues en 1997, réduisant ainsi son avoir net de 59 983,20 $US à la fin de 1997 et pendant toutes les années subséquentes. L’effet est de réduire le revenu de l’appelant de 59 983,20 $US (83 388,64 $CAN) en 1997. Il n’y a pas d’effet pour les années 1998 et 1999[49].
+c) Il faut réduire le revenu de l’appelant de 251,50 $ en 1998 et de 405,50 $ en 1999 relativement à des crédits de taxe sur les intrants qui n’ont pas été déduits.
+d) En 1999, il faut réduire le revenu de l’appelant de 5 584 $ relativement à des chèques faits à son épouse.
+[73] Les changements énumérés ci-dessus qu’il faut faire à l’avoir net se résument comme suit, par année d’imposition (en dollars canadiens) :
+a) En 1997, il faut réduire le revenu de l’appelant de 209 559,85 $[50].
+b) En 1998, il faut réduire son revenu de 65 251,50 $[51].
+c) En 1999, il faut réduire son revenu de 586 448,24 $[52].
+C. La critique de la méthodologie
+[74] La première critique porte sur l’établissement des avoirs pour l’année de base du calcul de l’avoir net, soit l’année 1996, et sur le fait qu’on n’a attribué aucune valeur à certains biens commerciaux en Russie.
+[75] Le bilan personnel que l’appelant avait fourni avec sa demande d’immigration indique que ses biens commerciaux, ses sociétés, avaient une valeur de 4 300 000 $.
+[76] L’ARC a exclu ces montants parce qu’elle considérait que la situation empêchait l’appelant de récupérer ces biens.
+[77] Évidemment, les biens commerciaux en Russie ont une valeur. Toutefois, la preuve indique clairement qu’il y avait des restrictions sur la sortie des capitaux[53].
+[78] Il faut également se rappeler que ce qui est important, ce sont les changements dans les avoirs, l’augmentation et la diminution. Il faut également garder à l’esprit qu’en principe notre système d’impôt tient compte des changements à la juste valeur marchande des biens seulement au moment où ils sont réalisés.
+[79] En conséquence, un bien qui est détenu pendant toute la période visée par l’analyse de l’avoir net n’a aucune influence sur le résultat, puisque ce bien ne contribue pas au changement de l’avoir net de l’individu.
+[80] Le résultat est que les actions que l’appelant détenait dans ses deux sociétés, Drevco et Drevo, n’ont aucun effet sur l’avoir net, puisqu’il était propriétaire de ces actions pendant toute la période.
+[81] L’appelant se plaint aussi que dans le calcul de l’avoir net, on n’a pas fait le suivi de certains montants en Russie, ou provenant de la Russie, qui font partie de ses avoirs personnels. Ces montants totalisent 1 401 250 $ à la fin de l’année de base 1996[54].
+[82] Aux fins de l’estimation, l’important est, comme je viens de l’expliquer, la fluctuation de l’avoir net. Dans la mesure où un avoir particulier est gardé pendant toute la période de l’avoir net, cet avoir ne provoque aucune fluctuation de l’avoir net et n’a aucun effet sur le calcul des revenus.
+[83] Les montants totalisant 1 401 250 $ se retrouvent au bilan personnel préparé par l’appelant pour sa demande de visa d’immigrant[55].
+[84] L’appelant est très bien placé pour démontrer s’il y a des changements dans ses actifs[56].
+[85] C’est ce que l’appelant a fait relativement aux automobiles en Russie, avec le résultat qu’après la présentation de la preuve, l’intimée a concédé un rajustement par rapport aux automobiles.
+[86] Ces deux premières critiques de la méthodologie ne me donnent aucune raison de conclure qu’il faut complètement rejeter le recours à la méthode de l’avoir net.
+[87] L’appelant soulève une autre critique au sujet des retraits ou des chèques non identifiés qui ont été inclus dans les dépenses personnelles.
+[88] Ces montants représentent une majorité des dépenses personnelles, soit, selon l’année, entre 55 % et 80 % des dépenses personnelles. Il s’agit parfois de retraits très importants (par exemple, 10 000 $, 13 000 $ ou 16 000 $).
+[89] D’après l’avoir net, les dépenses personnelles varient, à peu près, entre 200 000 $ et 300 000 $ selon l’année.
+[90] L’appelant dit qu’il y a trop de risques d’erreurs en incluant ces retraits ou ces chèques non identifiés dans les dépenses personnelles.
+[91] Des retraits ou des chèques non identifiés peuvent être des dépenses[57] ou peuvent servir à l’acquisition d’un avoir[58] ou au remboursement d’une dette[59].
+[92] S’il y a acquisition d’un avoir (ou un remboursement de dette), cela n’a pas pour effet de réduire les revenus de l’appelant à moins que l’acquisition de l’avoir ou la réduction d’une dette soit déjà prise en compte dans l’avoir net.
+[93] Dans le cas où l’acquisition de l’avoir ou la réduction d’une dette est déjà prise en compte, l’appelant est la personne la mieux placée pour démontrer qu’un retrait ou un chèque non identifié a servi à l’acquisition d’un avoir particulier ou à la réduction d’une dette particulière déjà prise en compte.
+[94] Ceci est d’autant plus vrai quand le montant est grand. Par exemple, le 30 octobre 1997, l’appelant a retiré 16 000 $ de son compte bancaire[60]. Normalement, on peut s’attendre à ce qu’il soit plus facile de se souvenir de l’utilisation d’une telle somme et de retracer de la documentation relative à son utilisation.
+[95] Il est également important de tenir compte du fait que le total de ces retraits ou des chèques non identifiés est très important en termes relatifs et absolus[61].
+[96] L’appelant a également soumis qu’il pouvait y avoir aussi des erreurs dues à des mouvements entre différents comptes de l’appelant ou entre l’appelant et sa société au Canada, mais en examinant les feuilles de travail de la vérificatrice, on constate qu’elle a tenu compte de mouvements entre comptes ainsi qu’entre l’appelant et sa société.
+[97] Encore une fois, l’appelant est le mieux placé pour démontrer qu’il y a des erreurs. Le travail de la vérificatrice relatif aux retraits et aux chèques s’est fait à partir des dossiers de l’appelant.
+[98] En conséquence, je ne suis pas convaincu que le fait de présumer que des retraits ou des chèques inexpliqués soient utilisés pour des dépenses personnelles crée des failles méthodologiques inhérentes à un tel degré pour que l’utilisation d’une telle présomption soit automatiquement exclue[62]. De plus, je ne suis pas convaincu qu’il y a des raisons d’exclure complètement cette supposition dans ce cas particulier[63].
+D. Prêt à AGS Taron (décembre 1997)
+[99] Finalement, l’appelant a soulevé une question spécifique liée au montant qu’il a prêté à sa société au Canada, AGS Taron.
+[100] À cause d’erreurs dans les comptes de la société, la vérificatrice a complètement refait le calcul des montants prêtés par l’appelant à AGS Taron.
+[101] Ce calcul fait par la vérificatrice était à l’avantage de l’appelant, car selon les états financiers le prêt de l’appelant à AGS Taron serait passé de 0 $, à la fin de l’année de base 1996, à 1 002 159 $ à la fin de 1999[64]. Par contre, selon le calcul de la vérificatrice, le prêt de l’appelant est passé de 0 $ à 712 278 $[65]. Cette différence d’à peu près 280 000 $ est à l’avantage de l’appelant.
+[102] Parmi les montants inclus par la vérificatrice dans les avances de l’appelant à AGS Taron, il y a un montant de 90 000 $ en décembre 1997[66].
+[103] Selon l’appelant, deux dépôts non identifiés de 45 000 $ dans son compte en décembre 1997 seraient un remboursement de 90 000 $ que AGS Taron lui a versé et, en conséquence, le prêt de l’appelant à AGS Taron devrait être réduit de 90 000 $ à la fin de 1997, ce qui aurait pour effet de réduire le revenu de l’appelant du même montant en 1997[67].
+[104] Selon l’appelant, il s’agirait d’un remboursement parce que la société Trident Educational Services (aussi connue sous le nom de Techtran) aurait émis une facture de 90 000 $ à AGS Taron le 31 octobre 1997. Ensuite, le 10 décembre 1997, l’appelant aurait avancé 90 000 $ à AGS Taron. Le même jour, AGS Taron a émis un chèque de 90 000 $ à Trident et Trident a émis un chèque de 55 000 $ à l’épouse de l’appelant ainsi qu’un chèque de 45 000 $ à M. Zaplatine, un employé de AGS Taron. De plus, toujours le 10 décembre 1997, il y a eu un dépôt non identifié de 45 000 $ dans le compte de l’appelant, un dépôt que la vérificatrice croyait venir probablement de M. Zaplatine, mais elle n’avait aucune preuve de cela. Finalement, le 9 décembre 1997, un jour avant les autres chèques, il y a eu un autre dépôt non identifié de 45 000 $ dans le compte de l’appelant, un dépôt que la vérificatrice croyait venir probablement de l’épouse de l’appelant, mais encore une fois sans aucune preuve[68].
+[105] Même en supposant que les dépôts non identifiés du 9 et du 10 décembre 1997 dans le compte de l’appelant provenaient de son épouse et de M. Zaplatine, je ne vois pas comment cette série de mouvements de fonds pourrait constituer un remboursement de 90 000 $ de AGS Taron à l’appelant. Il n’y a pas de preuve pour expliquer comment ces montants auraient acquis le caractère de remboursement ou pourquoi il était nécessaire que ces deux montants de 45 000 $ fassent un circuit si compliqué pour se rendre de AGS Taron à l’appelant[69].
+[106] En conséquence, il n’y a pas lieu de faire de changement relatif à ce montant de 90 000 $ que l’appelant a prêté à AGS Taron en décembre 1997.
+[107] En conclusion, à part les changements énumérés au paragraphe 73 ci-dessus, il n’y a aucune preuve qui justifierait des changements additionnels.
+IV. Les pénalités en vertu du paragraphe 163(2) de la LIR
+[108] Le paragraphe 163(2) de la LIR s’applique à :
+[t]oute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration […].
+[109] Dans Venne c. Canada[70], le juge Strayer dit ceci :
+La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi.
+[110] Il faut également tenir compte du fait que le fardeau de la preuve incombe au ministre. Dans Lacroix c. Canada[71], le juge Pelletier dit :
+26 Bien que le ministre bénéficie des présomptions de fait qui sous-tendent la nouvelle cotisation, il ne jouit d’aucun avantage semblable pour ce qui est de la preuve des faits justifiant l’établissement d’une nouvelle cotisation hors de la période statutaire, ou encore des faits justifiant l’imposition d’une pénalité en raison de l’inconduite du contribuable dans la production de sa déclaration de revenu. Le ministre est indéniablement dans l'obligation de mettre en preuve les faits justifiant l’invocation de ces mesures exceptionnelles.
+27 Dans l'affaire Richard Boileau c. M.R.N., 89 D.T.C. 247, la juge Lamarre Proulx s'exprimait ainsi à la page 250 :
+L’appelant a été incapable de contredire les éléments de base des évaluations de la valeur nette. Cependant, cela ne suffit pas selon moi pour que le ministre s’acquitte du fardeau de la preuve qui lui incombe. En décider autrement serait enlever tout objet au paragraphe 163(3) en renversant sur l'appelant le fardeau de la preuve qui incombe au ministre.
+28 Dans la même ligne de pensée, dans l'affaire Farm Business Consultants Inc. c. Sa Majesté la Reine, [1994] 2 C.T.C. 2450, 95 D.T.C. 200, le juge Bowman s'exprima ainsi au paragraphe 27 :
+27 Une cour doit faire preuve d'une prudence extrême lorsqu'elle sanctionne l'imposition de pénalités prévues au paragraphe 163(2). Une conduite qui légitime l'établissement d'une nouvelle cotisation à l'égard d'une année frappée de prescription ne justifie pas d'office l'imposition d'une pénalité, et l'imposition systématique de pénalités, par le ministre, est une pratique qui est à déconseiller… Par ailleurs, quand une pénalité est imposée en vertu du paragraphe 163(2) même si une norme de preuve civile est exigée, lorsque la conduite d'un contribuable cadre avec deux hypothèses viables et raisonnables, l'une qui justifie la pénalité et l'autre pas, il convient d'accorder le bénéfice du doute au contribuable, et de supprimer la pénalité…
+29 Ce dernier passage met en relief la dialectique propre à certaines nouvelles cotisations par l'application de la méthode de l’avoir net. En l’instance, le ministre constate un revenu non déclaré qu'il demande au contribuable de justifier. Celui-ci fournit une explication que ni le ministre ni la Cour canadienne de l’impôt ne jugent crédible. Il n’y a donc pas d’hypothèse viable et raisonnable qui pourrait porter le décideur à accorder le bénéfice du doute au contribuable. La seule hypothèse offerte est jugée non crédible.
+30 Les faits en preuve, dans un tel cas, sont que la déclaration de revenu du contribuable fait une présentation erronée des faits et que la seule explication offerte par le contribuable est jugée non crédible. Évidemment, il doit y avoir une autre explication pour ce revenu. Il faut donc conclure que le contribuable a une source de revenu qu’il n’a pas déclarée, qu’il est au courant de cette source et qu’il refuse de la divulguer puisque les explications qu’il a offertes n’ont pas été jugées crédibles. En de telles circonstances, la conclusion que la fausse déclaration de revenu a été produite sciemment ou dans des circonstances équivalant à faute lourde me semble inéluctable. Cela justifie non seulement l’imposition d'une pénalité mais aussi l’établissement de la nouvelle cotisation hors de la période statutaire.
+[…]
+32 Qu’en est-il alors du fardeau du ministre? Comment s’en acquitte-t-il? Il se peut que dans certaines circonstances, le ministre soit en mesure de faire une preuve directe de l’état d’esprit du contribuable lorsque ce dernier a produit sa déclaration de revenu. Mais dans la grande majorité des cas, le ministre ne pourra que miner la crédibilité du contribuable, soit par des éléments de preuve qu’il apporte, soit en contre-interrogatoire du contribuable. Dans la mesure où la Cour canadienne de l’impôt est persuadée que le contribuable touche un revenu qu’il n’a pas déclaré et que l’explication offerte par le contribuable pour l’écart constaté entre son revenu déclaré et l'accroissement de son actif est non crédible, le ministre s’est acquitté du fardeau de preuve qui lui incombe […].
+33 Comme le dit si bien le juge Létourneau dans Molenaar c. Canada, 2004 CAF 349, 2004 D.T.C. 6688, au paragraphe 4 :
+4 À partir du moment où le ministère établit selon des données fiables un écart, substantiel dans le cas présent, entre les actifs d'un contribuable et ses dépenses et où cet écart demeure inexpliqué et inexplicable, le ministère a assumé son fardeau de preuve. Il appartient alors au contribuable d’identifier la source et d'établir la nature non imposable de ses revenus.
+[111] L’intimée a mis en preuve l’avoir net qui était la base des cotisations en appel. La preuve de l’appelant que j’ai acceptée explique une partie très importante des cotisations :
+1997
+1998
+1999
+Revenu additionnel établi dans la cotisation
+345 308,25 $
+242 475,36 $
+640 054,30 $
+Réductions du revenu additionnel selon les présents motifs
+209 559,85 $
+65 251,50 $
+586 448,24 $
+Revenu additionnel restant
+135 748,40 $
+177 223,86 $
+53 606,06 $
+Revenu déclaré[72]
+28 202,07 $
+18 903,59 $
+41 089,00 $
+[112] Par contre, l’appelant n’a pas démontré que l’intimée avait tort quant au revenu additionnel restant. Le total du revenu additionnel restant dans le tableau ci‑dessus pour les trois années d’imposition est de plus de 360 000 $ tandis que le total du revenu déclaré est de moins de 90 000 $. Le revenu omis est quatre fois plus élevé que le revenu déclaré. Il y a donc une omission importante de revenu.
+[113] Dans de telles circonstances, je ne peux éviter de conclure que l’omission du revenu additionnel est le résultat de faute lourde[73].
+[114] En conséquence, les pénalités en vertu du paragraphe 163(2) seront maintenues, mais seulement par rapport aux montants du revenu additionnel restant[74].
+V. La cotisation établie après le délai habituel
+[115] Vu que le sous-alinéa 152(4)a)(i) de la LIR prévoit qu’une cotisation peut être établie après le délai habituel s’il y a présentation erronée des faits[75] due à la négligence ou à l’inattention, et qu’il y a nécessairement négligence en cas de faute lourde, il est évident que le ministre avait raison d’établir les cotisations après le délai habituel.
+VI. Conclusion
+[116] Pour ces motifs, l’appel sera accueilli et le tout sera renvoyé au ministre pour nouvel examen et nouvelles cotisations en tenant pour acquis ce qui suit :
+a) Le revenu de l’appelant doit être réduit de :
+i) 209 559,85 $ pour l’année d’imposition 1997,
+ii) 65 251,50 $ pour l’année d’imposition 1998,
+iii) 586 448,24 $ pour l’année d’imposition 1999.
+b) L’intérêt et les pénalités doivent être ajustés en conséquence.
+[117] Avant de signer le jugement, je vais demander au greffe de communiquer avec les parties pour demander leurs commentaires sur la forme du jugement en ce qui concerne l’année d’imposition 2001 et pour savoir si elles veulent faire des observations sur les frais.
+Signé à Ottawa (Ontario), ce 10e jour de janvier 2011.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE : 2011 CCI 14
+Nº DU DOSSIER DE LA COUR : 2006-2873(IT)G
+INTITULÉ DE LA CAUSE : SERGUEI VATCHIANTS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATES DE L’AUDIENCE : Les 2, 3 et 4 mars 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Gaston Jorré
+DATE DES MOTIFS DU
+JUGEMENT : Le 10 janvier 2011
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Jean-François Poulin
+Me Emmanuelle Campeau
+Avocate de l'intimée :
+Me Anne-Marie Boutin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Jean-François Poulin
+Cabinet : Ravinsky Ryan Lemoine
+Montréal (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Les parties sont d'accord qu'elles n'ont pas de débat relatif à l'année 2001, mais que la décision portant sur les années 1997 à 1999 aura une incidence sur l’année 2001.
+[2] Bien qu’à un certain moment de son témoignage l’appelant parle de coopérative, son témoignage, et notamment le fait qu'il se décrit comme actionnaire à 100 % au début, me mène à conclure qu’il s’agit bien d’une société et non d’une coopérative.
+[3] En examinant, par exemple, la traduction anglaise des documents qui se trouve à l'onglet 5 de la pièce A-2, il n'y a aucun doute qu’il s'agit bien d’une société et non d’une relation contractuelle.
+[4] Il y a eu plusieurs entreprises dénommées Drevco. Voir ci-dessous.
+[5] Tel qu'il est décrit au paragraphe 1 du procès-verbal du 25 janvier 1994 (pièce A-2, onglet 3). Aux fins de l’appel, la façon dont ces sociétés se sont « retirées » n’a aucune importance, mais nous verrons ci-dessous que la société pertinente, Drevco, est une nouvelle société.
+[6] Pièce I-2, onglet 7, dernière page.
+[7] Ibid., première page.
+[8] De telles transitions nécessitent également des changements juridiques importants.
+[9] Voir la pièce I-3, qui contient un formulaire d'évaluation de demande de crédit ainsi que les deux lettres et des notes de conversations.
+[10] Je ne suis pas l'ordre de présentation de l'appelant.
+[11] La vérification a commencé en juillet 2000. En septembre 2001, le dossier a été transféré aux enquêtes spéciales, et il a été retourné à la direction de la vérification en avril 2003 (pièce I-2, onglet 33, page 2).
+[12] Voir, par exemple, la transcription du 3 mars 2009, aux questions 571 à 576.
+[13] L’appelant a appris l’arménien et le russe avant d’apprendre d’autres langues; voir la pièce A-2, à l’onglet 2, et la pièce I-2, à l’onglet 7, case 17 du visa.
+[14] Les prix des camions étaient en marks allemands.
+[15] Transcription du 3 mars 2009, question 156.
+[16] Taxe ou droits de douane.
+[17] Pièce A-2, onglet 4, pages 1 à 3; pièce A-4, chemise de classement no 4.
+[18] Non seulement a-t-il témoigné en ce sens, mais il y a une certaine corroboration indirecte :
+i) la déclaration de douane russe et la valeur déclarée dans le formulaire, qui appuient le fait que Paron a acquis les camions (pièce A-2, onglet 7);
+ii) les procès-verbaux des réunions de Drevco du 25 janvier 1994 et du 23 décembre 1994 (pièce A-2, onglets 3 et 6);
+iii) le capital-actions de Paron était de seulement une livre sterling, il fallait donc que Paron obtienne les fonds ailleurs.
+De plus, il n’y avait aucun avantage pour l’appelant d’acheter des actions au prix de 1 000 000 $US plutôt que de faire un prêt à Paron. Quant à l’absence d’états financiers de Paron, le témoignage de l’appelant était que Paron existait seulement pour le financement de l’achat des camions et qu’il voulait minimiser les dépenses de Paron (transcription du 3 mars 2009, questions 552 à 558). Bien que normalement une société prépare des états financiers, j’accepte le témoignage de l’appelant selon lequel il n’en a pas fait faire pour économiser de l’argent.
+[19] L’entreprise Drevco dont il s’agit dans le procès-verbal du 25 janvier 1994 est la « Soviet-English-Egyptian Joint Venture Drevco », une société différente de la « Drevco Joint-Stock Company » dont il s’agit dans le procès-verbal du 23 décembre 1994. C’est de cette dernière société que Paron est l’actionnaire majoritaire. En lisant la clause 8 des statuts de Drevco, on voit clairement que les actionnaires fondateurs ont créé une nouvelle société, la « Drevco Joint-Stock Company » (pièce A-2, onglet 5). Les procès-verbaux cités sont aux onglets 3 et 6 de la même pièce.
+[20] [TRADUCTION]
+5. Les actionnaires conviennent que S.G. Vatchiants investit ses fonds personnels dans l'achat des camions et des remorques, puisque tous les fonds de la coentreprise sont présentement consacrés à l'exploitation de la société. Les actionnaires acceptent de considérer les sommes que S.G. Vatchiants versera pour les camions et les remorques, ainsi que les coûts liés à la constitution et au maintien d'une société européenne, comme un prêt à la société Drevco obtenu par l'entremise de la nouvelle société européenne. Le prêt sera remboursé à S.G. Vatchiants conformément à une entente ou à un procès-verbal distinct, rédigé ultérieurement lorsque les parties connaîtront le montant précis que S.G. Vatchiants aura versé pour l'achat des camions et des remorques et pour le maintien de la nouvelle société. [Je souligne.]
+[21] [TRADUCTION]
+1. Les actionnaires de la société reconnaissent et conviennent que M. S.G. Vatchiants est l'unique propriétaire de PARON TRANSPORT LIMITED et qu'il a acheté avec ses fonds personnels les 10 camions de marque Mercedes Benz et les 10 remorques de marque Crona, dont le coût total est de 1 710 000 marks allemands, que la société PARON a affectés à titre de sa part des capitaux propres de la coentreprise Drevco. Les parties considèrent qu'il s'agit d'un prêt à la coentreprise Drevco. [Je souligne.]
+[22] On peut également se demander quel est l’effet de l'entente de la réunion de la « Soviet-English-Egyptian Joint Venture Drevco » du 25 janvier 1994 sur la nouvelle société Drevco créée en décembre 1994, une société distincte. Une entente entre Cosmos Trading, Banna Wood et Drevo ne pouvait lier Paron et Drevo.
+[23] Pièce A-2, onglet 5.
+[24] J'accepte le témoignage de l'appelant selon lequel cette vente a eu lieu. Voir la transcription du 3 mars 2009, aux questions 357 à 372. Voir aussi la pièce A-2, aux onglets 23 à 28, ainsi que la pièce I-2, à l’onglet 14, où l’on voit en mai un dépôt en dollars américains dans le compte de l’appelant à la Banque Nationale.
+En arrivant à cette conclusion, j'ai tenu compte du fait que, selon les autorités fiscales russes, Hilton Construction n'était pas inscrite avec les autorités fiscales de Moscou. Je n'ai pas attribué beaucoup d'importance à ceci vu les autres documents en preuve. Voir la pièce I-8.
+[25] Pièce A-2, onglet 25.
+[26] Des virements de 49 995,12 $US et de 349 990,23 $US ont eu lieu (pièce A-2, onglets 26 et 27).
+[27] Il ne s'agit pas non plus d’un avantage à l’actionnaire visé aux alinéas 15(1)a) à d) de la LIR.
+[28] Voir les présences notées au début des procès-verbaux du 10 avril 1999 et du 26 juin 1999 (pièce A-2, onglets 24 et 28).
+[29] Pièce A-2, onglet 6, paragraphes 1 à 4.
+[30] Le procès-verbal contient la décision de vendre les camions et indique que, à cause des difficultés économiques à partir du mois d'août 1998, l'entreprise de transport a eu des pertes, avec la conséquence que Drevco a décidé d'arrêter ses activités de transport (pièce A-2, onglet 23).
+[31] Traduction en preuve du procès-verbal du 28 novembre 1998 (original en russe) : « shall be used to offset the debt to PARON ».
+[32] Bien que d'autres procès-verbaux après celui du 28 novembre 1998 parlent uniquement de la dette à l'appelant et non à Paron, ils font référence aux procès-verbaux du 28 novembre 1998 et du 23 décembre 1994. En conséquence, lisant le tout d'un trait, je conclus qu’il s'agit de paiements reçus par l'appelant pour Paron.
+[33] Le paragraphe 246(1) se lit comme suit :
+246(1) Avantage conféré à un contribuable — La valeur de l’avantage qu’une personne confère à un moment donné, directement ou indirectement, de quelque manière que ce soit à un contribuable doit, dans la mesure où elle n’est pas par ailleurs incluse dans le calcul du revenu ou du revenu imposable gagné au Canada du contribuable en vertu de la partie I et dans la mesure où elle y serait incluse s’il s’agissait d’un paiement que cette personne avait fait directement au contribuable et si le contribuable résidait au Canada, être :
+a) soit incluse dans le calcul du revenu ou du revenu imposable gagné au Canada, selon le cas, du contribuable en vertu de la partie I pour l’année d’imposition qui comprend ce moment;
+[...]
+[34] Pour être plus précis, 349 990,23 $US + 49 995,12 $US = 399 985,35 $US.
+[35] L'appelant a fourni les taux de change de la Banque du Canada à la date des deux virements. Vu que l'intimée ne s'y est pas objectée, j'utilise cette information pour la conversion en dollars canadiens. La Banque du Canada fournit un taux minimum et un taux maximum par jour. J’ai utilisé la moyenne des deux, c’est-à-dire (349 990,23 $US X 1,45125) + (49 995,12 $US X 1,45125) = 580 458,74 $CAN.
+[36] Strictement, il faudrait augmenter l'avoir de l'année de base du montant du prêt de 1 000 000 $US à Paron, le réduire en 1999 et refaire tout le calcul de l'avoir net. Toutefois, l'effet pratique, une fois que tout cela a été fait, est de réduire l'estimation du revenu de 580 458,74 $CAN en 1999.
+[37] Il semble y avoir un premier montant de 78 000 $US payé à l'appelant en 1996. Ce montant n'a aucune conséquence sur le résultat ultime, puisque l'effet est de réduire l'avoir pour l'année de base et pour toutes les années subséquentes du même montant.
+[38] Pièce A-2, onglet 28, point 3.
+[39] Transcription du 3 mars 2009, questions 614 à 617.
+[40] Vu que ces dépenses en Russie n'apparaissent nullement dans l'avoir net.
+[41] J'ajouterai que si cela n’était pas la position de l'appelant, selon la preuve dont je suis saisi, je conclus que l'appelant n’a pas démontré qu'une partie du montant de 260 000 $US est sortie de la Russie et s'était rendue au Canada.
+[42] Pièce A-2, onglet 18, première page.
+[43] Voir l’onglet 17 de la pièce A-2, à la deuxième page où se trouve la traduction anglaise du contrat de prêt et à la quatrième page où se trouve une copie de l’original en russe. Le montant de 29 914,21 $ correspond à peu près au montant de 21 700 $US; voir le taux de change de la Banque du Canada (pièce A-2, onglet 18, deuxième page) et le procès-verbal du 26 juin 1999 qui fait référence à ce « remboursement » à Paron (pièce A-2, onglet 28), sauf que pour des raisons inconnues le montant indiqué est de 30 000 $US.
+[44] Strictement, il faudrait refaire tout le calcul de l’avoir net, en incluant le prêt en 1996 et, ensuite, en réduisant dans l’avoir de l’appelant le montant du prêt à Paron en 1997 et pour les années suivantes. Le résultat, comme pour le paiement provenant de Hilton Construction, est de réduire le revenu de l'appelant du montant du paiement (dans ce cas, 29 914,21 $) dans l'année du paiement (1997).
+Quant à la question de l’application des paragraphes 15(1) ou 246(1) de la LIR, mon raisonnement est le même que dans le cas du paiement de Hilton Construction. Voir ci-dessus.
+[45] Voir la transcription du 3 mars 2009, aux questions 348 à 356; voir aussi la pièce A-2, aux onglets 19 et 20, et à l'onglet 28 (point 2 au deuxième paragraphe du procès-verbal du 26 juin 1999). Dans ce procès-verbal, il est question d'un total de 120 000 $US, dont le montant de 70 000 $US. Vu qu'il n'y a aucune preuve que l'autre montant de 50 000 $US a été transféré au Canada, pour des motifs semblables à ce que j'ai expliqué ci-dessus relativement au montant de 260 000 $US pour la vente d'équipement dont il est question au point 3 du procès-verbal, je conclus que seul le montant de 70 000 $US transféré au Canada peut réduire le revenu de l'appelant.
+[46] La conversion est faite de la même manière que pour les paiements de Hilton Construction.
+[47] J'indique le résultat sans refaire tout le calcul de l'avoir net. Quant à la question de l’application des paragraphes 15(1) ou 246(1) de la LIR, mon raisonnement est le même que dans le cas du paiement de Hilton Construction. Voir ci-dessus.
+[48] Transcription du 4 mars 2009, pages 3 à 7.
+[49] La concession de l'intimée était de 57 500 $. Toutefois, en examinant les onglets 21 et 22 de la pièce A-2, il est clair que le montant est de 59 983,20 $US ou de 83 388,64 $CAN.
+[50] 209 559,85 $ = (29 914,21 $ — paiement de M. Skibinsky) + (96 257 $ — paiement de LAG Holding) + (83 388,64 $ — vente de voitures en Russie).
+[51] 65 251,50 $ = (65 000 $ — vente de la Cadillac) + (251,50 $ — crédits de taxe sur les intrants).
+[52] 586 448,24 $ = (580 458,74 $ — paiement de Hilton Construction) + (405,50 $ — crédits de taxe sur les intrants) + (5 584 $ — chèques faits à l’épouse de l’appelant).
+[53] Pour ne prendre qu'un exemple, voir la transcription du 3 mars 2009, aux paragraphes 331 à 338. Les restrictions relatives au mouvement de capitaux sont sans doute à l’origine de la complexité du mouvement de fonds.
+[54] Il s'agit du mobilier et d'accessoires (250 000 $), d'une automobile en Russie (57 500 $), d’autres biens (187 500 $) et d'immeubles en Russie (906 250 $); voir la pièce I-2, à l'onglet 1, page 6.
+[55] Pièce A-2, onglet 9, pages 1 et 2.
+[56] En ce qui concerne le mobilier, les documents de l'intimée démontrent l'évolution de ce montant au fil des années en cause; voir les onglets 8, 9 (page 2), 10 (page 2), 11 (page 2), 18 à 21 de la pièce I-2. Dans ce cas, l’appelant est également bien placé pour vérifier ce qui a été fait et démontrer les erreurs, s’il y a lieu.
+[57] Y compris par don.
+[58] Y compris faire un prêt à quelqu'un.
+[59] Ce qui a pour effet d'augmenter l'avoir net d'une personne.
+[60] Pièce A-1, onglet 4, dernière page.
+[61] Par exemple, environ 78 000 $US plus 67 000 $CAN en 1999 (voir la pièce I-2, aux onglets 14 et 10 respectivement).
+[62] L’appelant a plaidé qu’il n’avait aucune obligation de garder ses livres avant son arrivée au Canada, mais ceci ne peut affecter les années 1997, 1998 et 1999. L’obligation prévue au paragraphe 230(4) de la LIR est une période de six ans après la fin d’une année d’imposition. La vérification de 1997 a commencé bien avant la fin de ladite période (voir la note 11 ci-dessus).
+[63] L’appelant a porté à mon attention certaines décisions à l’appui de son argument voulant qu’il fallait exclure toute hypothèse selon laquelle des retraits ou des chèques inexpliqués servent à payer des dépenses personnelles.
+Cette jurisprudence ne démontre pas qu’il y a une prohibition absolue. Par contre, il faut faire très attention en appliquant cette présomption, ce qui est également vrai pour la méthode de l’avoir net en général.
+L’appelant a attaché beaucoup d’importance aux commentaires du juge Archambault dans Léger c. Canada, [2000] A.C.I. no 911 (QL), particulièrement aux paragraphes 41 et 43.
+Toutefois, il faut lire ces commentaires dans leur contexte, notamment les problèmes précis de double emploi qu’il y avait dans la cause Léger et qui sont énumérés aux paragraphes 41 et 42.
+Par contre, dans la présente cause, la preuve ne révèle pas que des montants ont fait double emploi avec les dépenses personnelles spécifiques énumérées par la vérificatrice, car lorsqu’on examine les feuilles de travail de la vérificatrice, on constate que toutes les autres dépenses (autres que les chèques ou les retraits non identifiés) sont des dépenses spécifiquement identifiées à partir des comptes de la banque ou de MasterCard.
+On constate aussi dans les feuilles de travail que la vérificatrice a identifié les mouvements entre comptes. La vérificatrice a également identifié les fonds avancés par l’appelant à sa société, AGS Taron.
+La situation ici ne présente pas les risques qu’il y avait dans Léger.
+L’appelant a également attaché beaucoup d’importance à la cause Valentini c. Québec, 2006 QCCQ 409, conf. par 2007 QCCA 886. Encore une fois, il s’agit d’une situation assez différente. D’une part, en première instance, la Cour du Québec a conclu que l’appelant avait réussi à démontrer qu’il y avait des erreurs à un point tel que le fondement même de l’estimation devrait être rejeté.
+Dans la présente cause, le fondement même du calcul n’a pas été ébranlé à un tel point, car il faut noter qu’ici :
+i) même avec les corrections qu’il faut apporter, il reste un revenu important non déclaré par le contribuable,
+ii) les changements qu’il faut faire (qui résultent de la preuve de l’appelant que j’accepte ou des concessions de l’intimée) sont tous des changements qui découlent du fait que l’appelant a démontré qu’il y avait des sources de fonds non imposables qui pourraient financer les dépenses. La preuve de l’appelant n’a pas mis en doute l’estimation des dépenses.
+D’autre part, en ce qui concerne Valentini, je note que la Cour d’appel du Québec dit, à la dernière phrase du paragraphe 24, que la méthode n’est pas « inadéquate en soi ».
+Finalement, il y a lieu de noter que Valentini est une cause où la méthode utilisée est la méthode des dépôts inexpliqués.
+Je rappelle également ce que j’ai dit ci-dessus. Si le retrait ou le chèque inexpliqué a servi à l’acquisition d’un avoir, ou à la réduction d’une dette, cela augmente aussi le revenu de l’appelant, à moins que le ministre n’ait déjà pris en compte l’avoir, ou la réduction de dette. L’appelant est très bien placé pour démontrer que des retraits ou des chèques ont servi à l’acquisition d’un avoir, ou à la réduction d’une dette, déjà prise en compte.
+De plus, bien que la preuve ne comprend pas toutes les feuilles de travail de la vérificatrice, dans les feuilles en preuve on peut retracer des fonds identifiés qui sont la source de l’augmentation la plus importante de l’avoir, la catégorie des avances de l’appelant à AGS Taron (voir la pièce I-2, à l’onglet 1, page 7, et à l’onglet 22, ainsi que les feuilles de travail citées à l’onglet 22 qui se retrouvent aux onglets 9 à 11). Il est également possible de retracer des fonds identifiés qui sont la source de l’augmentation de l’avoir, « Total Personal Property », augmentation due entièrement à l’accroissement de la sous-catégorie « Furniture and accessories » (voir la pièce I-2, à l’onglet 1, page 6, et aux onglets 32, 9 à 11, 16 à 21). Finalement, il est possible de retracer des sources identifiées de la réduction du montant de l’hypothèque (voir la pièce I-2, à l’onglet 1, page 3, et aux onglets 31, 9 à 11, 15 à 17, 28 à 30. Il semble y avoir un petit décalage dans le temps quant au remboursement de l’hypothèque entre 1997 et 1998 de l’ordre de quelques milliers de dollars entre les remboursements tels qu’ils apparaissent dans les états financiers aux onglets 28 et 29, et 9, 11, 15, 16 respectivement. Toutefois, si on tient compte des années 1997 et 1998 ensemble, le total est presque le même.)
+Non seulement l’appelant n’a pas démontré que des retraits ou des chèques inexpliqués aient servi à l’acquisition d’un avoir, ou à la réduction d’une dette, dont l’intimée avait déjà tenu compte, mais vu les augmentations d’avoir ou les diminutions de dettes qui résultent des fonds identifiés que je viens de décrire, les possibilités que des retraits ou des chèques inexpliqués aient pu servir à l’acquisition d’un avoir, ou à la réduction d’une dette, dont l’intimée aurait tenu compte, sont réduites de façon très importante.
+En particulier, je constate qu’en 1997, la presque totalité des augmentations de l’avoir ou des diminutions de dettes proviennent de fonds dont la source est identifiée. Ceci se voit quand on examine le changement de l’avoir entre la fin de 1996 et la fin de 1997 (pièce I-2, onglet 1, pages 3 à 7). En conséquence, en 1997, il est mathématiquement impossible que les retraits et les chèques non identifiés totalisant 233 000 $ (pièce I-2, onglets 11 et 15) aient pu représenter des acquisitions d’avoir ou des réductions de dettes de plus de quelques milliers de dollars apparaissant dans l’avoir net.
+[64] Pièce I-2, onglet 22, deuxième page.
+[65] Ibid., première page.
+[66] Ibid., onglet 11, page 1, ligne « AGS Taron », colonne « DEC ».
+[67] L’avoir net serait réduit du même montant dans les années subséquentes, mais cela n’aurait aucun effet sur le revenu de l’appelant en 1998 et en 1999.
+[68] Pièce A-1, onglet 2, deuxième page. Le témoignage de l’appelant n’a apporté aucun éclaircissement sur ces transactions.
+[69] Au contraire des montants venant de la Russie, il n’y avait pas d’obstacle à un paiement direct de AGS Taron à l’appelant. Je note aussi que la vérificatrice a fait une conciliation entre son calcul du prêt de l’appelant à AGS Taron et les montants dans les états financiers, et qu’elle a expliqué la différence, à part une divergence de 1 785 $. Dans le cas de 1997, elle a expliqué la différence, à part un montant de 355 $, par une transaction tout à fait différente (voir la pièce I-2, à l’onglet 22, troisième page, et la pièce A-1, à l’onglet 2, point « #2 » au bas de la première page).
+[70] [1984] A.C.F. no 314 (QL).
+[71] 2008 CAF 241.
+[72] Pièce I-2, onglet 1, page 2.
+[73] Vu l’écart entre le revenu de l’appelant et le revenu déclaré, il est difficile de ne pas conclure qu’il y a au moins un aveuglement volontaire. Voir le paragraphe 43 dans Panini c. Canada, 2006 CAF 224.
+[74] C’est-à-dire 135 748,40 $ pour 1997, 177 223,86 $ pour 1998 et 53 606,06 $ pour 1999. La conséquence pratique est une réduction importante des pénalités.
+[75] Avec une omission de 360 000 $ relative aux trois années d'imposition, il ne peut y avoir de doute qu'il y a présentation erronée des faits.

@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Taxsmith Workflow Console</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <aside class="sidebar" aria-label="Workflow list">
+        <div class="brand-block">
+          <div class="brand-mark">T</div>
+          <div>
+            <h1>Taxsmith</h1>
+            <p>Canadian tax workflow console</p>
+          </div>
+        </div>
+        <div class="search-box">
+          <label for="workflowSearch">Filter workflows</label>
+          <input id="workflowSearch" type="search" autocomplete="off" placeholder="85, trust, benefit">
+        </div>
+        <nav id="workflowList" class="workflow-list"></nav>
+      </aside>
+
+      <section class="workspace">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">Authority-aware retrieval</p>
+            <h2 id="workflowTitle">Workflow</h2>
+          </div>
+          <div class="status-strip" aria-label="Workflow statistics">
+            <div>
+              <span id="sourceCount">0</span>
+              <small>Required sources</small>
+            </div>
+            <div>
+              <span id="factCount">0</span>
+              <small>Missing facts</small>
+            </div>
+            <div>
+              <span id="reviewCount">0</span>
+              <small>Review triggers</small>
+            </div>
+          </div>
+        </header>
+
+        <section class="query-panel" aria-label="Workflow query">
+          <div class="question-field">
+            <label for="samplePrompt">Sample user prompt</label>
+            <textarea id="samplePrompt" rows="3"></textarea>
+          </div>
+          <div class="agent-controls">
+            <div class="toggle-row">
+              <input id="useOllama" type="checkbox">
+              <label for="useOllama">Use Ollama draft</label>
+            </div>
+            <label for="ollamaEndpoint">Endpoint</label>
+            <input id="ollamaEndpoint" type="url" value="http://127.0.0.1:11434">
+            <label for="ollamaModel">Model</label>
+            <input id="ollamaModel" type="text" value="qwen3">
+            <button id="runWorkflow" type="button">Run live agent</button>
+          </div>
+        </section>
+
+        <section class="trace-grid">
+          <article class="panel trace-panel">
+            <div class="panel-heading">
+              <h3>Workflow Trace</h3>
+              <span id="confidenceChip" class="chip">Triage</span>
+            </div>
+            <ol id="traceList" class="trace-list"></ol>
+          </article>
+
+          <article class="panel answer-panel">
+            <div class="panel-heading">
+              <h3>Live Agent Draft</h3>
+              <span id="agentStatus" class="chip chip-neutral">Ready</span>
+            </div>
+            <pre id="agentAnswer" class="agent-answer"></pre>
+          </article>
+        </section>
+
+        <section class="panel answer-backbone-panel">
+          <div class="panel-heading">
+            <h3>Answer Backbone</h3>
+            <span class="chip chip-neutral">Required</span>
+          </div>
+          <div id="answerBackbone" class="backbone"></div>
+        </section>
+
+        <section class="detail-grid">
+          <article class="panel">
+            <div class="panel-heading">
+              <h3>Law And Exact Lookups</h3>
+              <span class="authority-dot law"></span>
+            </div>
+            <ul id="lawList" class="tag-list"></ul>
+          </article>
+
+          <article class="panel">
+            <div class="panel-heading">
+              <h3>CRA Position</h3>
+              <span class="authority-dot cra"></span>
+            </div>
+            <ul id="craList" class="tag-list"></ul>
+          </article>
+
+          <article class="panel">
+            <div class="panel-heading">
+              <h3>Forms And Deadlines</h3>
+              <span class="authority-dot form"></span>
+            </div>
+            <ul id="formList" class="tag-list"></ul>
+          </article>
+
+          <article class="panel">
+            <div class="panel-heading">
+              <h3>Cases</h3>
+              <span class="authority-dot case"></span>
+            </div>
+            <ul id="caseList" class="tag-list"></ul>
+          </article>
+
+          <article class="panel wide">
+            <div class="panel-heading">
+              <h3>Conditional Checks</h3>
+              <span class="chip chip-warn">Context driven</span>
+            </div>
+            <ul id="conditionalList" class="check-list"></ul>
+          </article>
+
+          <article class="panel wide">
+            <div class="panel-heading">
+              <h3>Missing Facts</h3>
+              <span class="chip chip-neutral">Ask first</span>
+            </div>
+            <ul id="missingFactsList" class="check-list"></ul>
+          </article>
+
+          <article class="panel wide">
+            <div class="panel-heading">
+              <h3>Human Review Triggers</h3>
+              <span class="chip chip-danger">No high confidence</span>
+            </div>
+            <ul id="reviewList" class="check-list danger-list"></ul>
+          </article>
+        </section>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

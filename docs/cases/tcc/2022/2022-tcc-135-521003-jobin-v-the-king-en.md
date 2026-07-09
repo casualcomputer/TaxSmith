@@ -1,0 +1,156 @@
+---
+title: "Jobin v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521003/index.do"
+last_modified: "2022-12-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 135"
+citation2: ""
+neutral_citation: "2022 TCC 135"
+decision_date: "2022-12-16"
+language: "en"
+item_id: "521003"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5804
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:25:47.988000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0668f305afa009e8259073b8555220d23a7ff431830cb3b5d80afbfff46ca200"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jobin v. The King
+
+- Citation: 2022 TCC 135
+- Decision date: 2022-12-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5804, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jobin v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-12-16
+Neutral citation
+2022 TCC 135
+File numbers
+2020-598(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2020-598(IT)I
+BETWEEN:
+CHRISTIANE JOBIN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motion heard on April 26, 2022, at Granby, Quebec; transcript received on May 23, 2022.
+Before: The Honourable Justice Gaston Jorré, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Roger Couture
+Counsel for the Respondent:
+Julien Wohlhuter
+ORDER
+In accordance with the attached reasons, the respondent's motion for an order quashing the appeals from the assessments issued for the taxation years 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2006, 2007, 2008, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018 and 2019 is granted, without costs.
+The result of this order is that only the appeals for the 2003, 2004, 2005 and 2009 taxation years are properly before this Court.
+Signed at Ottawa, Ontario, this 16th day of November 2022.
+“G. Jorré”
+Jorré D.J.
+Citation: 2022 TCC 135
+Date: 20221116
+Docket: 2020-598(IT)I
+BETWEEN:
+CHRISTIANE JOBIN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Jorré D.J.
+Introduction
+[1] The respondent filed a motion to limit the appeal before this Court to the 2003, 2004, 2005 and 2009 taxation years. For the reasons that follow, I agree with the respondent.
+[2] In the first paragraph of her notice of appeal signed on February 20, 2020, the appellant wrote that it refers to the taxation years 1990 to 2009, inclusive, for a total of 20 taxation years.
+[3] However, in her conclusions, the appellant seeks, inter alia, the vacation of all of the assessments made since 1989. Therefore, the appeal concerns 31 taxation years, 1989 to 2019, inclusive.
+[4] Depending on the year in question, the respondent advances various grounds in support of his motion: lack of objection, nil assessments, premature appeal, lack of assessment, lack of valid objection, res judicata and out‑of‑time appeal. For some years, the respondent relies on more than one reason.
+[5] There are no doubts as to the material facts. [1]
+[6] In light of my findings, it is not necessary for me to examine all of the respondent’s arguments for each year.
+The years 1993, 1994, 1995 and 1996
+[7] In view of the decision of April 14, 2003, by Mr. Justice Dussault of this Court dismissing the appeals for the 1993, 1994, 1995 and 1996 taxation years (docket 1999‑2474(IT)I), there can be no valid appeals for these four years by reason of res judicata. The appellant appealed the judgment of Dussault J.; the Federal Court of Appeal dismissed the appeal in a judgment on November 17, 2004 (docket: A‑269‑03). [2]
+The years 1989, 1990, 1991, 1992, 1997, 1998, 1999, 2000, 2006, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018 and 2019
+[8] An appellant must necessarily file a notice of objection to an assessment before appealing to this Court. No objection was filed for the taxation years listed above and, consequently, there can be no valid appeal. [3]
+The year 2001
+[9] When the Minister confirms an assessment, an appeal must be filed within 90 days. [4] With respect to the year 2001, the appeal was filed out of time and therefore is not valid.
+[10] The opportunity to extend this time limit existed. [5] The respondent indicated on the second page of his reply to the notice of appeal that the appellant had the opportunity to extend this time limit. Unfortunately, this was not done.
+The year 2002
+[11] With respect to the year 2002, the appellant never filed an income tax return and the Minister never assessed the appellant in respect of that year. [6] As a result, there can be no valid appeal for the year 2002. [7]
+The years 2007 and 2008
+[12] With respect to the years 2007 and 2008, there is no valid appeal by reason that there were never objections within the time limits. [8]
+Conclusion
+[13] For all these reasons, the respondent's motion is granted, without costs.
+Signed at Ottawa, Ontario, this 16th day of November 2022.
+“G. Jorré”
+Jorré D.J.
+CITATION:
+2022 TCC 135
+COURT FILE NO.:
+2020-598(IT)I
+STYLE OF CAUSE:
+CHRISTIANE JOBIN AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Granby, QC
+DATE OF HEARING:
+April 26, 2022
+TRANSCRIPT RECEIVED BY THE COURT ON:
+May 23, 2022
+REASONS FOR ORDER BY:
+The Honourable Justice Gaston Jorré
+DATE OF ORDER:
+November 16, 2022
+APPEARANCES:
+Agent for the Appellant:
+Roger Couture
+Counsel for the Respondent:
+Julien Wohlhuter
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blank
+Firm:
+Blank
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The appellant has raised other facts and other issues, but nothing in her evidence calls into question the facts that are very briefly summarized below.
+[2] See paragraphs 22 to 33 of the affidavit of Thi Bich Hà Nguyen (exhibit I‑1).
+[3] See paragraphs 7 to 9 of the affidavit of Thi Bich Hà Nguyen (exhibit I‑1) and subsection 169(1) of the Income Tax Act. With respect to the year 2019, see paragraphs 11 to 13 of the affidavit.
+[4] See paragraphs 3 to 6 of the affidavit of Thi Bich Hà Nguyen (exhibit I‑1) and subsection 169(1) of the Income Tax Act.
+[5] See subsection 167(1) of the Income Tax Act.
+[6] See paragraph 14 of the affidavit of Thi Bich Hà Nguyen (exhibit I‑1).
+[7] A prerequisite for an appeal's validity is that there has been a valid objection (see subsection 169(1) of the Income Tax Act). However, there can be no valid objection unless there has been an assessment (see subsection 165(1) of the Income Tax Act). It follows that there can be no valid appeal before this Court in the absence of an assessment. See also Dawson v. The Queen [1998] 3 CTC 2734 at paragraph 11.
+[8] See paragraphs 15 to 21 of the affidavit of Thi Bich Hà Nguyen (exhibit I‑1).

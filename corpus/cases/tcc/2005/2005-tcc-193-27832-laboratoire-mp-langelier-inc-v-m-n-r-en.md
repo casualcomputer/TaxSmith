@@ -1,0 +1,149 @@
+---
+title: "Laboratoire MP Langelier Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27832/index.do"
+last_modified: "2005-04-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 193"
+citation2: ""
+neutral_citation: "2005 TCC 193"
+decision_date: "2005-04-07"
+language: "en"
+item_id: "27832"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 372
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:52:00.211000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "509b47290d03c3087c18b3133ab5c2349ac954bbfe591a65c8e1a91fc3809e5f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Laboratoire MP Langelier Inc. v. M.N.R.
+
+- Citation: 2005 TCC 193
+- Decision date: 2005-04-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 372, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laboratoire MP Langelier Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-07
+Neutral citation
+2005 TCC 193
+File numbers
+2004-2387(EI)
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-2387(EI)
+BETWEEN:
+LABORATOIRE M P LANGELIER INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CHRISTIANE JOYAL PERRAULT and
+MICHEL LANGELIER,
+Interveners.
+Appeal heard on December 7, 2004 at Montréal, Québec
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Agent for the Appellant:
+Alain Savoie
+Counsel for the Respondent:
+Simon Petit
+Agent for the Interveners:
+Alain Savoie
+JUDGMENT
+The appellant's appeal with respect to the Minister's determination that Madame Perrault be engaged in insurable employment is dismissed; its appeal with respect to the Minister's determination that Monsieur Langelier be included in insurable employment is allowed.
+Signed at Ottawa, Canada, this 7th day of April 2005.
+"Gerald J. Rip"
+Rip J.
+Translation certified true
+on this 4th day of April 2005.
+Gerald Woodard, Translator
+Citation: 2005TCC193
+Date: 20050407
+Docket: 2004-2387(EI)
+BETWEEN:
+LABORATOIRE M P LANGELIER INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CHRISTIANE JOYAL PERRAULT and
+MICHEL LANGELIER,
+Interveners.
+REASONS FOR JUDGMENT
+[1] These are appeals by Laboratoire M P Langelier Inc. pursuant to the Employment Insurance Act ("Act") from decisions of The Minister of National Revenue who, in accordance with section 5(3) of the Act, was satisfied that two of the appellant’s employees, Michel Langelier and Christiane Joyal Perreault, were engaged in insurable employment with the appellant during the period January 1, 2002 to June 18, 2003.
+[2] The Appellant operates an orthotics and prosthetics laboratory with three branches. One branch manufactures the orthotics and prosthetics, while the other two are open to the public for sales.
+[3] Two corporations held shares in the Appellant, 2947‑9052 Québec Inc. ("2947"), holding 55 per cent of the shares, and 9024‑1548 Québec Inc. ("9024"), with 45 per cent. Marie‑Paule Langelier, Michel Langelier’s mother and Christiane Joyal Perrault’s sister, was the sole shareholder in 2947. Michel Langelier held 80 per cent of shares in 9024 and Christiane Joyal Perrault held 20 per cent. Ms. Langelier held control of the Appellant during the disputed period.
+[4] Ms. Perrault was employed full‑time at the branch that manufactured the orthotics and prosthetics and at her home. Her main duties consisted of establishing and managing budgets, keeping accounting records and preparing financial statements, handling payroll and supervising the four employees in her department. She stated that she did not work set hours, but worked between 35 and 70 hours per week. Weeks of 70 hours were “exceptional”. She worked from home once or twice per week. She was not paid overtime, while the Appellant’s other employees were.
+[5] Ms. Perrault’s salary was $614 per week. She was entitled to four weeks of paid vacation per year. She had taken three weeks. Ms. Perrault was authorized to sign cheques for the Appellant.
+[6] Michel Langelier had been employed full time by the Appellant since 1986. He was Director General of the Appellant. His main duties consisted of supervising the six managers at the three branches, planning the Appellant’s operations, conducting strategic planning for the business, handling the Appellant’s marketing and monitoring product quality. He also worked as an orthodist on Saturdays. His salary, set by his mother, was $702 per week, or approximately $35,000 per year.
+[7] He was entitled to five weeks of paid vacation per year. The other employees were entitled to four weeks of vacation. The other employees received bonuses in 2002 and 2003, but Mr. Langelier only received a bonus in 2003. The managers of the Appellant's branches earn between $40,000 and $55,000 per year, more than Mr. Langelier, even though he was their supervisor.
+[8] Mr. Langelier and Ms. Perrault both had life insurance policies, the premiums for which were paid by the Appellant. The Appellant did not pay premiums for other employees. Mr. Langelier received his salary when ill, a privilege not enjoyed by the other employees.
+[9] Apparently when his mother transferred shares in the appellant to him in 2002, Mr. Langelier testified, he hypothecated his home to the extent of $50,000 as security for a loan to the appellant. The precise date of the hypothec and the amount is not certain since no copy of the deed was put in proof; I do not believe this omission is fatal to the appellant.
+[10] Mr. Langelier stated that he did not work set hours, but worked approximately 40 to 50 hours per week.
+[11] Madame Langelier was majority owner, directly or indirectly, of the appellant until January 1, 2004. During 2002 and 2003 she made gifts of shares to her son and sister.
+[12] Madame Langelier declared she did not supervise either her son or sister, she said she had 100 per cent confidence in them. She considered them as co‑owners of the business, not employees.
+[13] Jacques Rousseau, an Appeals Officer with the Canada Revenue Agency, reviewed the appellant’s file. The T4 forms of the appellant indicate that Mr. Langelier was paid bonuses in 2002 and 2003. Salaries paid to Mr. Langelier and Madame Perrault were based on the appellant’s ability to pay, he concluded, and not on the basis of their relationship to Madame Langelier. Three employees, he noted, had salaries superior to Mr. Langelier, 57 had salaries inferior to Mr. Langelier.
+[14] As far as Madame Perrault is concerned, I cannot find, on the facts, that the Minister erred in his determination that she was engaged in insurable employment with the appellant. She did own shares in 9024 which held a minority position in the appellant. There was no evidence that her salary was too high or too low. That she took only three weeks holidays when she was entitled to four weeks is not necessarily a significant factor. The fact that she had cheque signing authority is also not significant. Madame Perrault worked overtime without pay; unpaid overtime by an employee is not unusual, although it is not frequent. Madame Perrault was the sister of the person who controlled the appellant and no doubt Madame Langelier had confidence in her and trusted her. But many employers have employees in whom they have confidence and who they trust. And it is not exceptional today for an employee to work at home. There is no significant fact, or a sum of facts, that distinguish Madame Perrault's relationship with the appellant from that of other employees.
+[15] Mr. Langelier's relationship to the appellant, however, was different from those of other employees. He was a significant shareholder in 9024, he did not work regular or fixed hours, he represented the appellant at meetings of orthodistes. He hypothecated his home to secure a debt of the appellant. Respondent's counsel argued that he secured the debt in his quality as shareholder, not an employee. I disagree. He secured the debt because he was a shareholder but also because he was employed by the appellant and viewed the appellant as his source of livelihood for many years to come. In fact, he saw himself as the eventual controlling shareholder of the appellant.
+[16] Monsieur Langelier's work was vital to the appellant's ongoing business. He supervised branch managers, he established the appellant's budget, he marketed the business. When his mother was away on holidays, he ran the business. Madame Langelier acknowledged that while she was on top of the corporate hierarchy and had final say she was often absent and Monsieur Langelier would replace her.
+[17] For these reasons Monsieur Langelier's relationship with the appellant was different from those of other employees. The Minister of National Revenue did not consider all circumstances in concluding as he did.
+[18] The appellant would not have entered into a substantially similar contract of employment with a person dealing with it at arm's length. The appellant relied on Monsieur Langelier's experience and knowledge in doing the work he did and he was willing to work under the circumstances he did because he did not deal at arm's length with the appellant.
+[19] Therefore the appellant's appeal with respect to the Minister's determination that Madame Perrault be engaged in insurable employment is dismissed; its appeal with respect to the Minister's determination that Monsieur Langelier be included in insurable employment is allowed.
+Signed at Ottawa, Canada, to this 7th day of April 2005.
+"Gerald J. Rip"
+Rip J.
+Translation certified true
+on this 4th day of April 2005.
+Gerald Woodard, Translator
+CITATION : 2005CCI193
+COURT FILE NO.: 2004-2387 (EI)
+STYLE OF CAUSE : LABORATOIRE M P LANGELIER INC., AND M.N.R. AND CHRISTIANE JOYAL PERRAULT, MICHEL LANGELIER,
+PLACE OF HEARING : Montréal, Québec
+DATE OF HEARING : December 7, 2004
+REASONS FOR JUDGMENT BY : The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT : April 7, 2005
+APPEARANCES,
+Agent for the Appellant :
+Alain Savoie
+Counsel for the Respondent :
+Simon Petit
+Agent for the Interveners
+Alain Savoie
+COUNSEL OF RECORD :
+For the Appellant :
+Name, Alain Savoie
+Firm, Melacom – Division des Personnes Liées.
+For the Respondent : John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

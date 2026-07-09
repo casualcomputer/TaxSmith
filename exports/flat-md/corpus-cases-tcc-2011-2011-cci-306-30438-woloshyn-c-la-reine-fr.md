@@ -1,0 +1,142 @@
+---
+title: "Woloshyn c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30438/index.do"
+last_modified: "2011-07-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 306"
+citation2: ""
+neutral_citation: "2011 CCI 306"
+decision_date: "2011-07-13"
+language: "fr"
+item_id: "30438"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7909
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:43:52.520000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d407c33db29c8b31dcfc80bbb7791a2a5602451429e696f6a237154f65a10ab0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Woloshyn c. La Reine
+
+- Citation: 2011 CCI 306
+- Decision date: 2011-07-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7909, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Woloshyn c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-07-13
+Référence neutre
+2011 CCI 306
+Numéro de dossier
+2010-2766(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-2766(IT)I
+ENTRE :
+PETER WOLOSHYN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 16 mai 2011 à Calgary (Alberta).
+Devant : L’honorable juge François Angers
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Robert Neilson
+____________________________________________________________________
+JUGEMENT
+L’appel de la détermination de perte établie au titre de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2007 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Montréal (Québec), ce 13e jour de juillet 2011.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 24e jour d’août 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 306
+Date : 20110713
+Dossier : 2010-2766(IT)I
+ENTRE :
+PETER WOLOSHYN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit d’un appel d’une détermination de perte établie par le ministre du Revenu national (le « ministre ») pour l’année d’imposition 2007 de l’appelant.
+[2] L’appelant et son épouse étaient actionnaires de la 781426 Alberta Ltd. (la « société »), qui a été vendue en 2002. Au moment de la vente, il y avait un litige, et il existait depuis 1998, entre la société et un certain Jack Carter, qui vendait des fourgonnettes à la société à des fins de personnalisation. L’appelant n’a pas pu expliquer entièrement et de façon détaillée comment Jack Carter avait réussi à enregistrer un privilège sur les biens de la société, mais le privilège n’avait pas été radié au moment de la vente de la société, et l’appelant, par l’intermédiaire de son avocat, avait lui-même réglé la réclamation en 2007 par un paiement de 30 600 $ à Jack Carter. L’appelant avait supporté des frais juridiques de 9 981 $ relativement à cette affaire.
+[3] En 2004, Canada Trust a réclamé paiement au titre d’une garantie personnelle donnée par l’appelant relativement à la société. La réclamation a été réglée en 2006 par l’appelant qui avait versé une somme de 3 500 $ à Canada Trust. Les frais juridiques supportés à cet égard s’élevaient à 500 $.
+[4] Après le règlement de ces deux questions, l’appelant a produit une demande de redressement d’une T1 pour l’année d’imposition 2002, dans laquelle il demandait la déduction d’une perte au titre d’un placement d’entreprise à l’égard des paiements faits relativement aux deux garanties personnelles, y compris les frais juridiques supportés.
+[5] Pour son année d’imposition 2007, l’appelant n’a pas demandé de déduction d’une perte déductible au titre d’un placement d’entreprise (« PDTPE »), et la cotisation initiale établie à son égard était fondée sur la déclaration produite le 5 mai 2008. Le ministre a plus tard établi une nouvelle cotisation à l’égard de son année d’imposition 2007 en raison de la demande de redressement d’une T1 susmentionnée, et une PDTPE de 15 325 $ lui a été accordée.
+[6] En réponse à la même demande de redressement d’une T1, le ministre a aussi établi une nouvelle cotisation à l’égard de l’appelant, le 20 février 2009, pour ses années d’imposition 2001, 2002 et 2006. L’appelant a déposé un avis d’opposition pour chacune de ces années d’imposition. Le ministre l’a avisé que pour 2006 et 2007, ces avis d’opposition n’étaient pas valides étant donné que les nouvelles cotisations pour les deux années portaient qu’aucun impôt n’était à payer, et que pour les années d’imposition 2001 et 2002, les avis d’opposition n’étaient pas non plus valides étant donné qu’ils concernaient de nouvelles cotisations discrétionnaires établies au titre des dispositions d’allègement pour les contribuables. L’appelant a demandé au ministre une détermination de perte pour son année d’imposition 2007, laquelle détermination est l’objet du présent appel.
+[7] L’appelant est d’accord avec le ministre sur le fait qu’il a subi une PDTPE de 15 325 $, mais conteste le fait que la PDTPE a été subie dans l’année d’imposition 2007. Il reconnaît aussi que la PDTPE a été subie à l’égard de paiements faits au titre de garanties personnelles en faveur de Jack Carter et de Canada Trust, et que les frais juridiques (10 481 $ au total) avaient été supportés pour établir les montants dus au titre de ces garanties personnelles. Il ne partage donc pas l’avis du ministre quand celui‑ci affirme que les frais juridiques n’ont pas été supportés pour tirer un revenu d’une entreprise ou d’un bien.
+[8] Les questions en litige consistent à savoir si la PDTPE a été accordée à juste titre pour l’année d’imposition 2007, si les frais juridiques de 10 481 $ devraient faire partie de la PDTPE accordée pour l’année d’imposition 2007 et si l’appel portant sur les années d’imposition 2001, 2002 et 2006 de l’appelant est valide.
+[9] L’appelant soutient que la PDTPE accordée pour 2007 devrait s’appliquer à son année d’imposition 2002. Son argument est fondé sur le fait qu’étant donné qu’un prêt d’actionnaire a été revu à la hausse pour l’année d’imposition 2002 par l’effet du règlement, la PDTPE sur ce règlement devrait aussi être accordée pour cette année‑là.
+[10] L’alinéa 38c) et le sous-alinéa 39(1)c)(iv) de la Loi de l’impôt sur le revenu (la « Loi ») mentionnent qu’une PDTPE est traitée comme une perte en capital et est déductible dans l’année de disposition du bien ayant entraîné la perte. Cette situation s’applique à un bien qui est une créance, comme dans le cas de M. Woloshyn. Il ressort aussi clairement des faits que la disposition de la créance n’a eu lieu qu’en 2007. La Cour d’appel fédérale a jugé, dans l’arrêt McNeill v. The Queen, 2000 DTC 6211, qu’aucuns dommages‑intérêts ne sont déductibles avant que leur montant ne soit arrêté et déclaré définitif, et que l’obligation de les payer ne soit établie et devenue définitive.
+[11] En l’espèce, bien que l’affaire porte sur une dette découlant de garanties personnelles, l’appelant ne pouvait déduire le montant de la dette avant qu’il ne fût finalement établi et que l’appelant fût tenu de le payer, et cela était, en l’espèce, en 2007.
+Les frais juridiques
+[12] Pour que l’appelant puisse déduire les frais juridiques supportés dans le règlement relatif aux deux garanties personnelles, il doit démontrer que ces frais ont été supportés pour réaliser des profits dans le cours normal des activités génératrices de revenu. Dans la décision Thiele Drywall Inc. v. R., [1996] 3 C.T.C. 2208, le juge Rip (tel était alors son titre) a fait observer que les tribunaux ont autorisé la déduction de frais judiciaires lorsque ces frais avaient été supportés pour préserver la capacité du contribuable à gagner un revenu dans le cours normal des activités de son entreprise. Dans l’arrêt Tonn et al. c. La Reine, 1995 CanLII 3566 (C.A.F.), [1996] 2 C.F. 73 (96 DTC 6001, à la page 6005), le juge Linden, de la Cour d’appel fédérale, a fait les observations suivantes :
+Pour être déductible conformément à l’alinéa 18(1)a), une dépense doit avoir été engagée dans le but de produire un bénéfice. En d’autres termes, la dépense doit avoir été engagée dans un contexte commercial lié au processus de production de revenus.
+[13] Nous devons nous rappeler qu’en l’espèce, l’appelant a vendu sa société en 2002 et que le règlement et le paiement au titre des garanties personnelles sont intervenus longtemps après la vente de la société. Le paiement de ces dettes n’avait pas pour objet de préserver la capacité de gagner un revenu dans le cours normal des activités ou de faire en sorte de continuer à réaliser des profits pour la société. Le litige portant sur les garanties personnelles et les montants dus à cet égard était de nature personnelle et, selon l’alinéa 18(1)h) de la Loi, les dépenses de nature personnelle ne sont pas déductibles. Voir aussi Bourget c. La Reine, 2010 CCI 642. Les frais juridiques ne font pas partie de la PDTPE.
+[14] Concernant la dernière question sur le fait de savoir si l’appelant peut interjeter appel à l’égard de ses années d’imposition 2001, 2002 et 2006, je souligne simplement que le paragraphe 165(1.2) de la Loi empêche le contribuable de s’opposer à une cotisation établie en application du paragraphe 152(4.2) de la Loi, c’est‑à‑dire une cotisation dans un cas où le contribuable a demandé l’établissement d’une nouvelle cotisation dans un délai de dix ans suivant la fin d’une année d’imposition donnée. Pour ce qui est de l’année d’imposition 2006, le paragraphe 169(1) de la Loi ne permet au contribuable d’interjeter appel que si une cotisation a été établie. Un avis selon lequel aucun impôt n’est dû, c’est‑à‑dire une cotisation portant qu’aucun impôt n’est à payer, ne peut pas faire l’objet d’un appel.
+[15] L’appel est par conséquent rejeté.
+Signé à Montréal (Québec), ce 13e jour de juillet 2011.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 24e jour d’août 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 306
+No DU DOSSIER DE LA COUR : 2010-2766(IT)I
+INTITULÉ : Peter Woloshyn
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 16 mai 2011
+MOTIFS DU JUGEMENT : L’honorable juge François Angers
+DATE DU JUGEMENT : Le 13 juillet 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Robert Neilson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

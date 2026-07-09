@@ -1,0 +1,478 @@
+---
+title: "Bowker c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520920/index.do"
+last_modified: "2022-04-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 43"
+citation2: ""
+neutral_citation: "2022 CCI 43"
+decision_date: "2022-04-08"
+language: "fr"
+item_id: "520920"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4484
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T12:07:55.638000+00:00"
+cases_cited_count: 70
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4bd406de2a23f8f6a366400f2d0a954245c383512a7b8ca4b361b8b44e5f3774"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bowker c. La Reine
+
+- Citation: 2022 CCI 43
+- Decision date: 2022-04-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4484, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bowker c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-04-08
+Référence neutre
+2022 CCI 43
+Numéro de dossier
+2016-1686(IT)G
+Juges et Officiers taxateurs
+Sylvain Ouimet
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-1686(IT)G
+ENTRE :
+MARGO DIANNE BOWKER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue par conférence téléphonique le 7 octobre 2021 à Ottawa, Canada
+Devant : L’honorable juge Sylvain Ouimet
+Comparutions :
+Avocats de l’appelante :
+Me Alistair G. Campbell
+Me Margaret MacDonald
+Avocats de l’intimée :
+Me Patrick Cashman
+Me Natasha Tso
+ORDONNANCE
+Conformément aux motifs de l’ordonnance ci-joints, la requête visant en adjudication des dépens en une somme globale aux termes de l’article 147 des Règles de la Cour canadienne de l’impôt est accueillie, le tout avec dépens.
+Signé à Ottawa, Canada, ce 8e jour d’avril 2022.
+« Sylvain Ouimet »
+Le juge Ouimet
+Traduction certifiée conforme
+ce 28e jour de juin 2022.
+François Brunet, réviseur
+Référence : 2022 CCI 43
+Date : 2022-04-08
+Dossier : 2016-1686(IT)G
+ENTRE :
+MARGO DIANNE BOWKER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Ouimet
+I. INTRODUCTION
+[1] Le 30 avril 2011, l’appelante a produit sa déclaration de revenus pour l’année d’imposition 2010. Dans sa déclaration de revenus, elle a déclaré un revenu total de 78 798 $. Le revenu total déclaré par l’appelante comportait les éléments suivants : un revenu d’emploi de 45 641 $ de la Bakerview Mennonite Brethren Church, un autre revenu d’emploi de 22 181 $, une prestation de la Sécurité de la vieillesse de 6 222 $, des prestations du Régime de pensions du Canada de 4 750 $ ainsi que des intérêts créditeurs de 4 $ [1] .
+[2] Le 26 mars 2012, le cabinet DeMara Consulting Inc. (« DeMara ») a produit une déclaration de revenus modifiée (la « déclaration de revenus modifiée ») au nom de l’appelante, pour son année d’imposition 2010. Le revenu total déclaré par l’appelante demeurait inchangé par rapport à celui indiqué sur la déclaration de revenus initialement produite, mais des pertes d’entreprise nettes de 666 447 $ étaient réclamées à l’égard d’une société de services-conseils. Les pertes d’entreprise consistaient en des déductions de 666 047 $ réclamées au poste d’intérêts débiteurs et de 400 $ pour des honoraires professionnels. Des pertes en capital nettes de 333 024 $ provenant de la disposition d’obligations, de débentures, de billets à ordre et d’autres biens comparables étaient aussi demandées. Enfin, la déclaration contenait des demandes visant à reporter à un exercice antérieur des pertes autres qu’en capital de 32 566 $, 39 021 $ et 50 214 $, respectivement pour les déclarations de revenus de 2007, 2008 et 2009 de l’appelante [2] .
+[3] Le 12 juin 2014, le ministre du Revenu national a établi une nouvelle cotisation à l’égard de l’année d’imposition 2010 de l’appelante, en lui refusant les pertes d’entreprise, les pertes en capital nettes et le report des pertes demandé dans sa déclaration de revenus modifiée. Le ministre a également imposé à l’appelante une pénalité pour faute lourde de 139 032 $, en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la LIR) [3] , [4] .
+[4] Le 26 février 2021, j’ai rendu un jugement et les motifs du jugement en l’espèce en accueillant l’appel de l’appelante [5] . La seule question en litige dans le présent appel était de savoir si le ministre avait à juste titre imposé à l’appelante une pénalité pour faute lourde de 139 032 $ aux termes du paragraphe 163(2) de la LIR. J’ai décidé que le ministre n’avait pas imposé cette pénalité à juste titre parce que l’appelante n’avait pas délibérément, ou dans des circonstances équivalant à faute lourde, fait de faux énoncés dans sa déclaration, et n’y pas participé, consenti ou acquiescé [6] .
+[5] Le 1er avril 2021, l’appelante a déposé, conformément à l’article 147 des Règles de la Cour canadienne de l’impôt (les « Règles ») [7] , un avis de requête en adjudication des dépens en une somme globale. Aux termes du paragraphe 147(1) des Règles, la Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les assumer. Aux termes du paragraphe 147(7) des Règles, une partie peut, dans les trente jours suivant la date à laquelle elle a pris connaissance du jugement, demander à la Cour que des directives soient données à l’officier taxateur à l’égard des questions visées à l’article 147 des Règles.
+[6] Le montant des dépens demandés par l’appelante est de 136 650,55 $. Il s’agit du total des sommes suivantes :
+- 50 pour cent des honoraires d’avocat engagés par l’appelante jusqu’au 6 janvier 2020, inclusivement, soit 33 830,19 $;
+- 80 pour cent des honoraires d’avocat engagés par l’appelante après le 6 janvier 2020, date de la signification de son offre de règlement, soit 99 574,73 $;
+- des débours de 3 245,63 $.
+[7] De plus, l’appelante demande à la Cour de fixer le montant des dépens pour la présente requête à 2 500 $.
+II. QUESTIONS EN LITIGE
+[8] Les questions soumises à notre Cour sont les suivantes :
+Quel est le montant approprié des dépens à accorder à l’appelante à l’issue de son appel?
+Quel est le montant approprié des dépens à accorder à l’appelante pour le présent appel?
+III. LES DISPOSITIONS LÉGISLATIVES PERTINENTES
+[9] Voici les principales dispositions des Règles :
+147 (1) La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+[...]
+(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+i.1) de la question de savoir si les dépenses engagées pour la déposition d’un témoin expert étaient justifiées compte tenu de l’un ou l’autre des facteurs suivants :
+(i) la nature du litige, son importance pour le public et la nécessité de clarifier le droit,
+(ii) le nombre, la complexité ou la nature des questions en litige,
+(iii) la somme en litige;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+(3.1) Sauf directive contraire de la Cour, lorsque l’appelant fait une offre de règlement et qu’il obtient un jugement qui est au moins aussi favorable que l’offre de règlement, l’appelant a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+(3.2) Sauf directive contraire de la Cour, lorsque l’intimée fait une offre de règlement et que l’appelant obtient un jugement qui n’est pas plus favorable que l’offre de règlement, ou que l’appel est rejeté, l’intimée a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+(3.3) Les paragraphes (3.1) et (3.2) ne s’appliquent que si l’offre de règlement :
+a) est faite par écrit;
+b) est signifiée au moins trente jours après la clôture de la procédure écrite et au moins quatre-vingt-dix jours avant le début de l’audience;
+c) n’est pas retirée;
+d) n’expire pas moins de trente jours avant le début de l’audience.
+(3.4) Il incombe à la partie qui invoque le paragraphe (3.1) ou (3.2) de prouver :
+a) qu’il existe un rapport entre la teneur de l’offre de règlement et le jugement;
+b) que le jugement est au moins aussi favorable que l’offre de règlement ou qu’il n’est pas plus favorable que l’offre de règlement, selon le cas.
+(3.5) Pour l’application du présent article, les dépens indemnitaires substantiels correspondent à 80 % des dépens établis sur une base procureur-client.
+[...]
+(4) La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+(5) Nonobstant toute autre disposition des présentes règles, la Cour peut, à sa discrétion :
+a) adjuger ou refuser d’adjuger les dépens à l’égard d’une question ou d’une partie de l’instance particulière;
+b) adjuger l’ensemble ou un pourcentage des dépens taxés jusqu’à et y compris une certaine étape de l’instance;
+c) adjuger la totalité ou partie des dépens sur une base procureur-client.
+(6) La Cour peut, dans toute instance, donner des directives à l’officier taxateur, notamment en vue :
+a) d’accorder des sommes supplémentaires à celles prévues pour les postes mentionnés au tarif B de l’annexe II;
+b) de tenir compte des services rendus ou des débours effectués qui ne sont pas inclus dans le tarif B de l’annexe II;
+c) de permettre à l’officier taxateur de prendre en considération, pour la taxation des dépens, des facteurs autres que ceux précisés à l’article 154.
+(7) Une partie peut :
+a) dans les trente jours suivant la date à laquelle elle a pris connaissance du jugement;
+b) après que la Cour a décidé du jugement à prononcer, au moment de la présentation de la requête pour jugement,
+que le jugement règle ou non la question des dépens, demander à la Cour que des directives soient données à l’officier taxateur à l’égard des questions visées au présent article ou aux articles 148 à 152 ou qu’elle reconsidère son adjudication des dépens.
+IV. LES THÈSES DES PARTIES
+1. La thèse de l’appelante
+[10] L’appelante demande à notre Cour d’exercer son pouvoir discrétionnaire et de condamner l’intimée à payer les dépens frais sous forme de somme globale.
+[11] L’appelante soutient que l’article 147 des Règles donne à la Cour un large pouvoir discrétionnaire dans l’attribution des dépens. Plus précisément, l’appelante soutient que la Cour doit allouer les frais et dépens sans tenir compte du tarif B de l’annexe II des Règles (le « tarif »). La Cour doit plutôt ordonner à l’intimée de payer un pourcentage de ses honoraires d’avocat à raison d’une indemnisation partielle.
+[12] Invoquant une jurisprudence de notre Cour, Succession Zeller c. La Reine [8] , l’appelante soutient que les dépens accordés par la Cour à raison d’une indemnisation partielle varient traditionnellement entre 50 % et 75 % des honoraires d’avocat engagés. L’avocat de l’appelante a présenté des observations détaillées sur les facteurs énumérés au paragraphe 147(3) des Règles. L’appelante soutient que ces facteurs doivent être pris en considération lors de la détermination du montant des dépens à accorder. Les observations de l’appelante pour chacun de ces facteurs peuvent être résumées comme suit :
+L’appel interjeté par l’appelante a été intégralement accueilli;
+Le montant de la pénalité était important par rapport aux ressources financières de l’appelante;
+L’affaire de l’appelante a servi de « cause quasi-type » en raison du nombre d’autres appels interjetés par le cabinet DeMara inscrits au rôle de la Cour;
+Trente-cinq (35) jours avant le procès, l’appelante a envoyé une offre de règlement qui a été rejetée par l’intimée;
+La charge de travail était importante;
+Le comportement de l’appelante n’a pas prolongé le procès. C’est plutôt le fait que l’intimée n’ait pas produit la copie originale de la déclaration de revenus modifiée et l’introduction d’une preuve par affidavit avec un préavis limité qui a donné lieu à une audience indûment longue;
+Le témoignage de l’appelante lors de l’interrogatoire préalable verbal était conforme à son témoignage lors du procès. Ainsi, l’intimée a eu la possibilité d’entendre le récit de l’appelante et de remettre en question sa crédibilité, mais elle a quand même allégué que l’appelante avait sciemment fait de faux énoncés.
+2. La thèse de l’intimée
+[13] L’intimée soutient qu’il y a lieu d’accorder les dépens en fonction du tarif B de l’annexe II des Règles, en plus de débours raisonnables.
+[14] L’intimée soutient également que les dépens doivent être accordés de manière cohérente à la lumière des facteurs énoncés au paragraphe 147(3) des Règles. Les observations de l’intimée à l’égard de ces facteurs peuvent être résumées comme suit :
+L’issue de la procédure est neutre, car il s’agissait d’une affaire qui consistait à appliquer la méthode du « tout ou rien »;
+Bien que la somme en litige fût importante, le comportement de l’appelante, c’est-à-dire sa participation à de faux énoncés, ne doit pas être récompensé par la Cour;
+Bien que la question en litige soit importante pour l’appelante, la Cour doit seulement rechercer si la décision aura un net intérêt jurisprudentiel, ce qui n’est pas le cas;
+L’offre de règlement ne pouvait pas être acceptée par le ministre, car le paragraphe 162(7) de la LIR lui interdisait de le faire. À ce titre, l’offre de règlement doit être un facteur neutre dans l’analyse de la Cour;
+La question en appel n’était pas particulièrement complexe et, étant donné qu’il incombait à l’intimée de s’acquitter du fardeau de la preuve concernant les pénalités imposées, ce facteur ne penche pas en faveur d’une adjudication de dépens supplémentaires;
+L’intimée n’a pas prolongé l’instance, car l’audience s’est terminée dans les délais convenus par les parties dans la demande conjointe en vue de fixer les temps et lieu de l’audience. La procédure a plutôt été prolongée par la lenteur de l’appelante à soulever une objection quant à l’authenticité de certains documents et par le fait que l’appelante n’aurait pas répondu à des questions au cours de son interrogatoire préalable, ce qui a donné lieu à une requête en réponses en application de l’article 95 des Règles;
+L’intimée a à juste titre allégué dans sa réponse à l’avis d’appel et dans son mémoire des faits et du droit soumis à la Cour que l’appelante avait sciemment fait de faux énoncés dans ses déclarations de revenus. Cette allégation était nécessaire pour fonder la cotisation établie à l’égard de l’appelante.
+[15] L’intimée soutient que je dois suivre la jurisprudence Morrison c. La Reine [9] . Il s’agissait d’une affaire où la Cour a accordé les dépens conformément au tarif après que l’appel interjeté à l’encontre d’une pénalité pour faute lourde imposée pour la participation du contribuable à un système s’apparentant à un arbitrage fiscal eut été accueilli. Toutefois, l’intimée convient que la Cour n’est pas liée par le tarif.
+[16] Enfin, l’intimée soutient que chaque partie doit assumer les dépens de la présente requête.
+V. DISCUSSION
+1. Les principes applicables à l’adjudication des dépens
+(a) L’objectif de l’adjudication des dépens
+[17] Selon la règle générale en matière de contentieux civil est que la partie qui a gain de cause a le droit de se voir accorder les dépens, sauf circonstances exceptionnelles [10] . La partie qui obtient gain de cause a le droit d’être indemnisée pour les dépenses et services admissibles engagés dans le cadre de l’instance [11] . L’adjudication des dépens est de nature réparatrice; elle sert à indemniser la partie qui a eu gain de cause et non à punir la partie qui déboutée [12] . Lorsqu’il détermine le montant des dépens que la partie qui a gain de cause doit recevoir, le juge de première instance doit rechercher un équilibre : indemniser la partie qui a eu gain de cause esans imposer un fardeau excessif à la partie déboutée [13] .
+[18] Dans la décision Martin c. La Reine [14] , la Cour a résumé comme suit les principes généraux de l’adjudication des dépens :
+La méthode adoptée par la Cour pour fixer les dépens devrait être compensatoire et contributive, et non punitive ou extravagante. La question qu’il faut se poser est la suivante : quelle serait la contribution appropriée de la partie déboutée aux dépens de la partie ayant eu gain de cause dans l’appel où la position de cette dernière l’a emporté [15] ?
+[19] En outre, l’adjudication de dépens ne sert pas seulement à indemniser la partie qui a gain de cause, elle permet également au juge d’encourager le règlement, de prévenir les contentieux frivoles ou vexatoires et de décourager les démarches inutiles et coûteuses [16] . À ce titre, la Cour a la compétence inhérente de prévenir et contrôler tout possible abus de procédure en allouant les frais et les dépens [17] .
+[20] Enfin, la Cour n’alloue généralement pas de frais et de dépens non sollicités par une partie [18] . La Cour doit donner aux parties la possibilité de présenter des observations sur les dépens [19] .
+(b) Limitation des dépens à l’instance
+[21] Le paragraphe 147(1) des Règles prévoit que notre our peut déterminer le montant des frais et dépens engagés dans le cadre d’une instance. L’article 2 des Règles définit le mot « instance » comme signifiant un appel ou un renvoi. Par conséquent, les honoraires d’avocat engagés pour la préparation et le dépôt d’un avis d’appel peuvent être pris en compte dans l’adjudication des dépens [20] . Les frais engagés avant le début de la procédure ne peuvent pas être inclus dans l’adjudication des dépens [21] .
+(c) La cohérence qui encadre l’adjudication des dépens
+[22] Outre les principes généraux résumés ci-dessus, les Règles précisent clairement, aux paragraphes 147(1), 147(4) et 147(5), que la Cour dispose d’un large pouvoir discrétionnaire pour déterminer le montant des dépens [22] . Cependant, ce pouvoir discrétionnaire doit être exercé de manière cohérente [23] .
+[23] La norme de contrôle en matière d’adjudication des dépens formulée par la Cour d’appel fédérale du Canada (la « Cour d’appel fédérale ») est une ligne directrice utile. Dans l’arrêt Guibord c. Canada [24] , la Cour d’appel fédérale a observé qu’une cour d’appel « ne devrait intervenir que lorsque le juge de la Cour de l’impôt a considéré des facteurs qui ne sont pas pertinents, a omis de considérer des facteurs pertinents ou est parvenu à une conclusion déraisonnable » [25] . Dans l’arrêt Canada c. Martin, la Cour d’appel fédérale a ajouté que « [l]’attribution discrétionnaire de dépens ne doit donc être annulée que si le juge a commis une erreur de principe ou si cette attribution est nettement erronée » [26] . Par conséquent, même si la Cour dispose d’un large pouvoir discrétionnaire dans l’exercice de son pouvoir d’adjudication des dépens, ce pouvoir ne peut être exercé de manière arbitraire ou capricieuse [27] .
+[24] Le paragraphe 147(3) des Règles énumère les facteurs qui peuvent être pris en compte pour déterminer le montant des dépens à accorder et leur répartition entre les parties. Toutefois, les facteurs énumérés au paragraphe 147(3) ne sont pas obligatoires; ils servent de cadre utile pour apprécier l’adjudication cohérente des dépens [28] . Ils constituent simplement des indications destinées à la Cour, qui n’est pas limitée à la prise en compte de ces facteurs [29] .
+(d) Le montant des dépens
+[25] La Cour peut allouer les frais et les dépens fondés selon le tarif ou, en application des paragraphes 147(4) et 147(7) des Règles, sous la forme d’une somme globale au lieu ou en sus des dépens taxés fondés sur le tarif [30] . Ce pouvoir discrétionnaire de la Cour est assez large et ne se limite pas aux affaires complexes pour lesquelles un calcul précis des dépens serait inutilement compliqué ou fastidieux [31] . La Cour peut accorder une somme globale fondée sur un pourcentage des dépens réels raisonnablement engagés. La Cour peut accorder les dépens à raison d’une indemnisation complète, d’une indemnisation substantielle ou d’une indemnisation partielle.
+(1) Le tarif
+[26] Le tarif B de l’annexe II des Règles prévoit une grille tarifaire normalisée quant aux services d’un avocat au cours d’une instance. Dans la décision Univar Holdco Canada ULC v. The Queen [32] , la Cour a observé que le tarif n’est pas un point de départ, mais seulement la position par défaut en l’absence d’une détermination aux termes de l’article 147 [33] . Les Règles ne prévoient pas, pas même implicitement, que la Cour doit suivre le tarif ou y faire référence [34] . Par conséquent, le tarif ne constitue un point de référence que si la Cour le souhaite [35] .
+(2) Dépens indemnitaires partiels
+[27] Les dépens indemnitaires partiels constituent la catégorie de dépens pour laquelle la Cour a le plus grand pouvoir discrétionnaire. Comme l’a observé la Cour d’appel fédérale dans l’arrêt Consorzio del Prosciutto di Parma c. Maple Leaf Meats Inc. [36] , « [u]ne adjudication de dépens partie-partie ne constitue pas un exercice exact. Il ne s’agit que d’une estimation du montant que la Cour juge approprié à titre de contribution aux dépens avocat-client de la partie qui a obtenu gain de cause (ou, de façon inhabituelle, à ceux de la partie déboutée) » [37] .
+(i) Le degré d’indemnisation – L’éventail des dépens procureur-client
+[28] Pour déterminer le montant des dépens indemnitaires partiels, notre Cour a souvent invoqué la jurisprudence Succession Zeller c. La Reine [38] . À l’occasion de cette affaire, la Cour a cité un ouvrage doctrinal, The Law of Costs de Mark Orkin, [39] comme référence pour étayer la pratique : le degré traditionnel d’indemnisation des dépens partie-partie se situe entre 50 % et 75 % des dépens procureur-client ou des dépens indemnitaires substantiels [40] . Toutefois, il n’existe aucune régle imposant à la Cour d’allouer les frais et dépens dans cette fourchette. Notre jurisprudence s’est écartée à de nombreuses reprises de la fourchette indicatrice générale mentionnée ci-dessus [41] . De plus, l’éventail des indemnisations exposé par Orkin ne fait pas l’unanimité de la doctrine en matière de contentieux civil. Janet Walker et Lorne Sossin dans leur traité Civil Litigation observant que, traditionnellement, les dépens indemnitaires partiels se situent au bas de l’échelle, à 50 % [42] . La province de l’Ontario a adopté une approche similaire à celle de notre Cour en matière de dépens indemnitaires partiels. Grosso modo, les dépens indemnitaires partiels accordés au titre de l’article 57.01 des Règles de procédure civile [43] se situent entre 40 % et 66 % des dépens procureur-client [44] .
+[29] La seule directive obligatoire donnée à notre Cour par la Cour d’appel fédérale concernant le montant des dépens porte qu’ils doivent être raisonnables et cohérents [45] .
+[30] Cela dit, aux fins d’uniformité, je suis d’avis que la fourchette de 50 % à 75 % des dépens procureur-client doit être utilisée, sauf circonstances exceptionnelles.
+(ii) Le degré d’indemnisation – Facteurs à prendre en considération
+[31] Comme nous l’avons signalé précédemment, en posant l’exigence que l’adjudication des dépens soit fondée sur la « cohérence », la Cour d’appel fédérale enseigne clairement que la Cour est tenue de préciser explicitement les facteurs qui ont conduit à l’adjudication dépens [46] .
+[32] Comme il est signalé plus haut, les facteurs énumérés au paragraphe 147(3) des Règles ne servent que de cadre indicatif pour apprécier les dépens à accorder de manière cohérente et ne lient pas notre Cour. Toutefois, dans la décision Velcro Canada Inc. c. La Reine [47] , la Cour a souligné l’importance pratique des facteurs énumérés au paragraphe 147(3) des Règles comme suit :
+J’estime que, dans tous les cas, le juge devrait examiner la question des dépens à la lumière des facteurs énoncés au paragraphe 147(3) des Règles et appliquer ces facteurs en se fondant sur des principes avant même de décider s’il doit se tourner vers le tarif B de l’annexe II [48] .
+[Non souligné dans l’original.]
+[33] Ainsi, je ne discuterai que les facteurs qui, à mon avis, sont pertinents vu les circonstances de l’espèce ou ceux qui ont été discutés par les parties dans leurs observations.
+(3) Dépens indemnitaires substantiels
+[34] Les dépens indemnitaires substantiels sont définis au paragraphe 147(3.5) des Règles comme correspondant à 80 % des dépens procureur-client [49] . Il s’agit de la règle qui joue par défaut lorsque le demandeur remplit les exigences des paragraphes 147(3.1), 147(3.2) et 147(3.3) des Règles [50] . Les principales exigences sont les suivantes : une offre de règlement a été faite au moins 90 jours avant l’audience, que l’offre de règlement a été rejetée et cette offre était aussi favorable ou plus favorable que la décision de la Cour. Toutefois, les paragraphes 147(3.1) et 147(3.2) disposent clairement que la Cour conserve le pouvoir discrétionnaire de déterminer le montant des dépens indemnitaires substantiels, malgré la définition du paragraphe 147(3.5) [51] . À ce titre, la Cour peut accorder des dépens indemnitaires substantiels supérieurs ou inférieurs au pourcentage défini pour les dépens, à la condition que la Cour exerce son pouvoir discrétionnaire de manière cohérente [52] .
+[35] Il y a donc lieu de considérer les dépens indemnitaires substantiels comme quelque chose de plus que les dépens indemnitaires partiels, mais qui demeure très discrétionnaire [53] . Bien que la Cour dispose d’un large pouvoir discrétionnaire dans l’adjudication des dépens, elle doit néanmoins faire preuve de prudence lorsqu’elle accorde des dépens supérieurs au niveau d’indemnisation substantielle (80 %), car elle s’orientera vers des dépens constituant une indemnisation complète, ce qui nécessite généralement un comportement douteux de la part de la partie déboutée [54] .
+(4) Indemnisation complète
+[36] Les dépens constituant une indemnisation complète représentent la somme totale payée par une partie au titre des dépenses et services admissibles engagés dans le cadre de l’instance et qui, de l’avis de la Cour, étaient nécessaires [55] . Les dépens adjugés à raison d’une indemnisation complète ne peuvent être accordés que dans des cas exceptionnels, lorsque le comportement d’une partie fait sortir l’affaire du cadre habituel [56] . Pour les appels en matière fiscale, une telle adjudication des dépens peut être accordée lorsqu’une partie a eu une conduite « répréhensible, scandaleuse ou choquante » au cours de la procédure [57] . Cela peut être le cas lorsque le comportement d’une partie a causé un retard abusif, a prolongé la procédure de manière inappropriée ou a résulté en des querelles procédurales inutiles [58] . Il doit également y avoir une justification de cette décision dans le dossier ou dans les motifs du juge [59] .
+(e) Débours
+[37] Le montant des débours autorisés par la Cour est fixé par l’article 2 du tarif B des Règles, lequel dispose :
+Les sommes qui peuvent être accordées à titre de débours sont les débours visés au tarif A de la présente annexe et tous les autres débours essentiels à la poursuite de l’instance [...] [60] .
+[Non souligné dans l’original.]
+[38] En outre, les débours réclamés doivent être raisonnables dans les circonstances de l’affaire [61] .
+2. L’adjudication des dépens de l’appelante
+[39] La présente affaire ne justifie pas l’adjudication de dépens indemnitaires complets. Le comportement des avocats de l’intimée n’a pas été hors du commun et leur conduite au cours de la procédure n’a pas été répréhensible, scandaleuse ou choquante. Il n’y a pas non plus de preuve portant que le comportement de l’intimée ait causé un retard abusif, ait prolongé de manière inappropriée la procédure ou ait engendré des querelles procédurales inutiles.
+[40] Il ne s’agit pas non plus d’une affaire qui justifie l’adjudication de dépens indemnitaires substantiels. Il n’est pas controversé entre les parties que l’offre de règlement de l’appelante faite le 6 janvier 2020 ne donne pas droit aux dépens indemnitaires substantiels en application du paragraphe 147(3.1) des Règles. Cela est dû au fait que l’offre n’a pas été signifiée au moins 90 jours avant le début de l’audience [62] .
+[41] En l’espèce, l’appelante demande les dépens indemnitaires partiels. Le montant total des dépens demandés par l’appelante est de 133 404,92 $, à l’exclusion des débours. L’appelante demande cinquante pour cent (50 %) des honoraires d’avocat engagés avant le 6 janvier 2020, date de signification de son offre de règlement (33 830,19 $) et quatre-vingts pour cent (80 %) des honoraires d’avocat engagés après cette date (99 574,73 $). Selon les éléments de preuve présentés lors de l’audition de la requête, les honoraires d’avocat engagés par l’appelante n’ont pas précédé les débats judiciaires. Aucuns de ces dépens n’ont été engagés avant la préparation de l’avis d’appel [63] .
+(a) Application de l’annexe II, tarif B des Règles
+[42] L’intimée soutient que la Cour doit allouer les frais et dépens en fonction du tarif B de l’annexe II des Règles, en application des facteurs énoncés au paragraphe 147(3) des Règles, et invite notre Cour à suivre sa jurisprudence Morrison c. La Reine [64] . L’intimée fait en outre valoir que la jurisprudence Morrison est pertinente parce qu’elle concerne une pénalité pour faute lourde infligée à l’appelant pour sa participation à un système de fraude fiscale [65] .
+[43] Je ne puis retenir cette thèse. En ce concerne l’affaire Morrison, l’ordonnance relative aux dépens a été rendue à l’audience et rien n’indique que l’ordonnance a été rendue dans le cadre d’une requête en application du paragraphe 147(7) des Règles. Dans son ordonnance, la Cour n’a pas fait référence aux facteurs énumérés au paragraphe 147(3) des Règles. La Cour a suivi son approche habituelle lorsqu’elle accueille un appel avec dépens sans autres observations et a accordé les dépens conformément au tarif [66] .
+[44] L’intimée soutient également que la conduite de l’appelante, c’est-à-dire sa participation à de faux énoncés, ne doit pas être récompensée par une adjudication des dépens non fondée sur le tarif.
+[45] Là encore, je rejette cette thèse. Comme nous l’avons signalé précédemment, le tarif ne constitue un point de référence pour l’adjudication des dépens que si la Cour souhaite fonder sa décision sur celui-ci. Après avoir examiné les facteurs énumérés au paragraphe 147(3) des Règles, j’ai conclu que telle n’est pas la démarche appropriée dans les circonstances. Je ne vois pas non plus comment une adjudication des dépens non fondée sur le tarif pourrait être considérée comme une « récompense » pour un appelant.
+[46] Par conséquent, je passerai en revue les facteurs pertinents énumérés au paragraphe 147(3) des Règles afin de déterminer le montant des dépens à accorder.
+(b) Application des facteurs énumérés au paragraphe 147(3) des Règles
+[47] Comme déjà signalé, les divers facteurs énumérés au paragraphe 147(3) des Règles peuvent être pris en considération par la Cour lorsqu’elle exerce son pouvoir discrétionnaire d’allouer les frais et dépens. La Cour n’est pas limitée à ces facteurs et n’est pas tenue de les examiner tous.
+(1) L’issue de l’instance
+[48] L’intimée soutient que l’issue de l’instance n’est un facteur approprié à prendre en considération que si un contribuable a eu un succès mitigé. L’intimée soutient en outre que si tel n’est pas le cas, l’issue de l’instance constitue un facteur neutre. L’intimée a invoqué, à l’appui de ces arguments, des observations de par notre Cour dans la décision Lux Operating Limited Partnership c. La Reine [67] et dans Univar Holdco Canada ULC c. La Reine [68] . La Cour a observe dans la décision Lux :
+[9] Le résultat d’une instance peut influer sur les dépens de deux façons. Le niveau général de gain de cause d’une partie est un facteur important pour déterminer si les dépens devraient être adjugés à une partie. Lorsqu’un tribunal décide d’adjuger des dépens à une partie, le niveau général de gain de cause de la partie peut également servir de facteur pour déterminer le montant de ces dépens.
+[10] À mon avis, au moment de déterminer le montant des dépens à adjuger, l’issue de l’instance n’est qu’un facteur approprié à prendre en considération s’il est possible qu’une partie ait eu partiellement gain de cause dans l’instance. Lorsqu’une instance porte sur différentes questions et qu’une partie a eu gain de cause à l’égard de toutes ces questions, cette situation militera en faveur d’un montant plus élevé de dépens. Si une instance porte sur différentes questions et qu’une partie obtient gain de cause sur seulement une partie de ces questions, le degré général du gain de cause de cette partie entrera en ligne de compte au moment de déterminer le montant des dépens. Si une instance porte sur une seule question litigieuse pour laquelle il existe plusieurs issues possibles (p. ex., une question d’évaluation), le degré du gain de cause d’une partie sur cette question sera pertinent par rapport au montant des dépens. Cependant, lorsque le seul choix qui s’offre à la Cour est de trancher entre l’une ou l’autre des positions, sans pouvoir donner partiellement gain de cause à l’autre partie, le fait qu’une partie ait obtenu gain de cause par rapport à cette question ne devrait pas, à mon avis, influer sur le montant des dépens adjugés. La partie a obtenu gain de cause. Ce gain de cause n’a pas été de plus grande ou de moindre ampleur que ce que la partie aurait pu espérer obtenir; par conséquent, ce facteur n’exerce aucune influence sur le montant des dépens [69] .
+[49] En effet, l’issue d’une instance peut influer sur les dépens de deux façons.
+[50] Comme signalé précédemment, la règle générale en matière de contentieux civil est que la partie qui a gain de cause a le droit de se voir accorder les dépens, sauf circonstances exceptionnelles. Par conséquent, à mon avis, la première façon dont l’issue de l’instance influence l’adjudication des dépens est que la Cour est en mesure de déterminer quelle partie a droit aux dépens. Sauf circonstances exceptionnelles, la partie qui a gain de cause a droit aux dépens, quel que soit le degré de sa réussite globale.
+[51] L’autre façon dont l’issue de l‘instance influence l’adjudication des dépens est lorsque la Cour décide de prendre en compte les facteurs énumérés au paragraphe 147(3) des Règles. L’alinéa 147(3)a) prévoit expressément que l’issue de l’instance peut être pris en considération par la Cour. Par conséquent, à ce stade de l’analyse, le degré de réussite d’une partie est un facteur qui peut être pris en considération. Plus la réussite d’une partie est importante, plus la contribution appropriée de la partie déboutée aux dépens de la partie qui a gain de cause doit être importante. Par conséquent, à mon avis, qu’il s’agisse d’une question selon une approche du « tout ou rien », comme une pénalité pour faute lourde, ou d’une affaire où il n’y a qu’une seule question en litige, le niveau de réussite peut être pris en considération par la Cour. Dans un cas de pénalité pour faute lourde, le niveau de réussite de la partie qui a gain de cause est de cent pour cent (100 %). À mon avis, tel est le niveau de réussite qui peut être pris en considération par la Cour.
+[52] Je suis d’avis que, en l’espèce, la réussite de l’appelante pèse lourdement en faveur d’une adjudication majorée des dépens en sa faveur.
+(2) Montant en litige dans l’instance
+[53] À mon avis, ce facteur est important en l’espèce en raison de la situation et des ressources financières de l’appelante. L’avocat de l’appelante affirme correctement que le montant en litige était important pour l’appelante. Au cours des dix dernières années avant l’année d’imposition en cause, le revenu imposable moyen de l’appelante était de 23 499 $ par année [70] . Le ministre a imposé une pénalité de 139 032 $, sans compter les intérêts courus à la date de la nouvelle cotisation. Par conséquent, la pénalité pour faute lourde ayant fait l’objet de la cotisation représentait plus de cinq ans de revenu imposable de l’appelante.
+[54] Par conséquent, en raison de l’importance des sommes pour l’appelante, ce facteur pèse lourdement en faveur d’une adjudication majorée des dépens à son profit.
+(3) Importance des questions en litige
+[55] Dans ses observations, l’appelante affirme que son affaire a servi [traduction] « de manière involontaire » de [traduction] « cause quasi-type » en raison du nombre important de cotisations en lien avec le cabinet DeMara inscrites au rôle de la Cour et qu’elle justifie donc une adjudication de dépens plus élevée [71] . J’abonde en partie dans son sens.
+[56] Je ne saurais dire que l’affaire de l’appelante a servi [traduction] « de manière involontaire de cause quasi-type ». Soit une affaire est une cause type officielle aux termes de l’article 146.1 des Règles, soit elle ne l’est pas. Par conséquent, il ne s’agit pas d’un facteur.
+[57] Quant à l’importance de la question en litige, selon la doctrine de notre Cour, ce facteur concerne les affaires qui seront importantes pour l’évolution du droit fiscal, pour l’intérêt public ou pour plusieurs contribuables [72] . Le présent appel concernait une pénalité pour faute lourde imposée à l’appelante. Les pénalités pour faute lourde dépendent des faits et sont liées aux circonstances particulières de chaque affaire. Par conséquent, je suis d’avis que cette décision n’est pas susceptible de revêtir une valeur jurisprudentielle notable. Cela dit, étant donné que plusieurs contribuables ont fait l’objet de cotisations sur le même fondement que l’appelante, la présente affaire peut être considérée par certains comme une évolution du droit fiscal d’une certaine importance.
+[58] Par conséquent, ce facteur va dans le sens d’une adjudication majorée des dépens.
+(4) Offre de règlement présentée par écrit
+[59] L’objet de l’alinéa 147(3)d) des Règles est d’encourager les parties à faire des offres de règlement et à les traiter avec sérieux [73] . Notre Cour enseigne que ce facteur est un facteur très important, sinon le plus important, dans la détermination des dépens [74] . Bien que les offres de règlement doivent contenir un élément de compromis, la Cour peut néanmoins considérer une offre raisonnable qui n’inclut pas de compromis et accorder les frais et dépens [75] . Par conséquent, selon l’offre et les faits de chaque affaire, une offre peut constituer un simple facteur, un facteur important ou un facteur très important à prendre en considération.
+[60] Toutefois, une offre de règlement doit être une offre fondée sur des principes que le ministre peut accepter en droit et qui est raisonnable compte tenu des faits en cause [76] . Dans la décision Aon Inc. c. La Reine [77] , la Cour a observé :
+Le critère, pour déterminer si une offre est fondée sur une base rationnelle, consiste à savoir s’il est possible de conclure que les conséquences fiscales, présentées dans l’offre et qui doivent être convenues entre les parties, seront conformes à une interprétation raisonnable de la loi fiscale applicable à la situation du contribuable [78] .
+[61] Ainsi, si le ministre n’est pas en mesure d’accepter une offre de règlement, il ne doit pas y avoir de conséquences défavorables sur le plan des dépens pour l’appelante [79] . La question est de savoir si le ministre était frappé d’une incapacité légale en application du paragraphe 162(7) de la LIR, qui est rédigé ainsi :
+162 (7) Toute personne (sauf un organisme de bienfaisance enregistré) ou société de personnes qui
+ne remplit pas une déclaration de renseignements selon les modalités et dans le délai prévus par la présente loi ou le règlement
+ou qui ne se conforme pas à une obligation imposée par la présente loi ou ce règlement
+est passible, pour chaque défaut, sauf si une autre disposition de la présente loi (sauf les paragraphes 162(10) et 162(10.1) et 163(2.22)) prévoit une pénalité pour le défaut — d’une pénalité égale, sans être inférieure à 100 $, au produit de la multiplication de 25 $ par le nombre de jours, jusqu’à concurrence de 100, où le défaut persiste [80] .
+[62] L’intimée soutient qu’elle était liée par le paragraphe 162(7) de la LIR puisque le paragraphe 163(2) de la LIR prévoit la pénalité liée à la production de déclarations de revenus contenant de faux énoncés [81] . À titre subsidiaire, l’intimée affirme que le paragraphe 162(7) de la LIR ne s’applique pas puisqu’il n’y a pas eu manquement à une obligation en application de la LIR pour empêcher la production de la déclaration de revenus modifiée [82] .
+[63] En l’espèce, l’appelante a offert de régler l’appel moyennant le paiement d’une pénalité de 2 500 $ aux termes de l’alinéa 162(7)b) de la LIR au lieu de la pénalité pour faute lourde imposée par le ministre [83] . Dans son offre de règlement, l’appelante a reconnu avoir manqué à son obligation de ne pas faire de faux énoncés dans ses déclarations de revenus [84] . L’appelante soutient que son offre était une offre rationnelle puisqu’elle la rendait passible d’une pénalité moindre en application de l’alinéa 162(7)b) de la LIR [85] . L’appelante soutient en outre qu’il était loisible à l’intimée d’accepter cette offre aux termes de la conclusion de l’alinéa 162(7)b) puisqu’aucune autre pénalité ne s’appliquait en l’espèce [86] . De plus, le ministre pouvait imposer une pénalité en application du paragraphe 162(7) puisque l’appelante a manqué à son obligation générale de ne pas faire de faux énoncés, implicitement incluse dans les exigences de production du paragraphe 150(1) et de l’article 151 de la LIR [87] .
+[64] Je rejette les observations de l’intimée. Dans notre système fiscal d’autocotisation, chaque contribuable doit remplir sa déclaration de revenus avec honnêteté et intégrité. Dans l’arrêt Knox Contracting Ltd. c. Canada [88] , la Cour suprême du Canada a reconnu l’obligation générale et implicite d’honnêteté requise dans la production des déclarations de revenus :
+Le système d’imposition dépend entièrement de l’intégrité du contribuable qui déclare et évalue son revenu. Pour que le système fonctionne, les déclarations doivent être remplies honnêtement [89] .
+[65] Comme l’a observe la Cour d’appel fédérale dans l’arrêt Exida.com Ltd. Liability Co. c. La Reine [90] , l’alinéa 162(7)b) de la LIR « prévoit une pénalité résiduelle en cas de défaut de se conformer à une obligation lorsqu’aucune autre pénalité n’est prévue dans la Loi » [91] . À ma connaissance, aucune disposition de la LIR ne prévoit expressément une pénalité lorsque le contribuable fait preuve de négligence en ce qui concerne la production d’une déclaration de revenus.
+[66] Dans son offre de règlement, l’appelante a déclaré qu’elle était prête à [traduction] « concéder que son défaut de surveiller adéquatement un représentant autorisé et de s’informer auprès de lui pourrait constituer un manquement à son obligation, en application de la LIR, de ne pas permettre la production de faux énoncés dans une déclaration » [92] . L’appelante a implicitement admis qu’elle avait été négligente en ce qui concerne son obligation de remplir sa déclaration de revenus pour l’année d’imposition 2010. À mon avis, l’offre de l’appelante aurait pu être acceptée par l’intimée et l’offre de règlement de l’appelante était donc une offre rationnelle. Il s’agissait là d’une offre de règlement raisonnable puisque l’appelante a reconnu avoir commis un manquement à son obligation de ne pas faire de faux énoncés dans ses déclarations de revenus.
+[67] Comme l’offre de règlement de l’appelante était plus favorable à l’intimée que l’issue du procès, cela plaide en faveur d’une adjudication majorée des dépens.
+(5) Conduite d’une partie ayant abrégé ou prolongé la durée de l’instance
+[68] L’appelante soutient que l’intimée a indûment prolongé l’audience en omettant de produire la copie originale de la déclaration de revenus modifiée et en raison de ses multiples tentatives d’introduire un élément de preuve par affidavit avec un préavis limité [93] .
+[69] L’intimée soutient que l’appelante a prolongé la procédure en refusant de répondre aux questions lors de son interrogatoire préalable et en ne respectant pas certains engagements, ce qui a amené l’intimée à présenter une requête conformément à l’article 95 des Règles [94] .
+[70] Les querelles procédurales et les tactiques de litige utilisées pour représenter avec zèle les droits des clients ne doivent pas être considérées comme justifiant une majoration des dépens [95] . La détermination des dépens ne doit pas être fondée sur une appréciation ex post facto [96] . Je ne pense pas que le comportement des parties, comme décrit ci-dessus, ait influencé la durée de l’instance.
+[71] Les parties n’ont pas défendu leurs intérêts avec un zèle excessif. Par conséquent, cet élément n’entre pas en ligne de compte dans la détermination par la Cour du montant des dépens accordés.
+[72] L’appelante soutient également que notre Cour doit tenir compte du fait que l’intimée a eu la possibilité de procéder à l’interrogatoire préalable verbal complet de l’appelante, ce qu’elle a fait, et que son témoignage était conforme à celui qu’elle a rendu au procès et a été jugé crédible [97] . À ce titre, le fait que l’intimée soit passée à l’étape de l’audience en ayant eu le plein avantage de contester le récit et la crédibilité de l’appelante justifie l’examen par notre Cour. Cela fait, l’appelante soutient que l’intimée a défendu avec un excès de zèle l’établissement de la cotisation par le ministre en continuant à faire valoir son point de vue selon lequel l’appelante avait sciemment fait de faux énoncés et en n’engageant aucune discussion relative à une offre de règlement avec l’appelante [98] .
+[73] Enfin, l’appelante soutient que, compte tenu des conclusions de la Cour selon lesquelles l’appelante ne savait pas qu’elle participait à la production d’un faux énoncé dans la déclaration et qu’elle n’a pas fait preuve d’aveuglement volontaire ou commis de faute lourde à cet égard, l’appelante doit être indemnisée pour les honoraires d’avocat qu’elle a engagés pour faire annuler la cotisation [99] .
+[74] Je ne souscris pas à ces arguments. Les avocats de l’intimée n’ont pas fait preuve d’excès de zèle dans la défense de l’établissement de la cotisation par le ministre en continuant à faire valoir ses arguments après avoir été en mesure de l’interroger avant le procès. La crédibilité du contribuable dans une affaire de pénalité pour faute lourde est très importante et souvent cruciale. Les avocats de l’intimée ont apprécié es forces et les faiblesses de leur dossier et ont fait leur propre appréciation des éléments de preuve, y compris l’appréciation de la crédibilité de l’appelante. Manifestement, en l’espèce, les avocats de l’intimée sont arrivés à la même conclusion que le ministre après avoir interrogé l’appelante avant le procès. Je ne peux que supposer qu’ils ont estimé que l’intimée avait un dossier solide et ont décidé qu’il devait passer à l’étape de l’audience.
+[75] La conduite des avocats de l’intimée n’est pas fautive. Par conséquent, cet élément n’entre pas en ligne de compte dans la détermination par la Cour du montant des dépens accordés.
+(6) Tout élément pouvant influer sur la détermination des dépens
+(i) Le comportement de l’appelante avant le début de l’instance
+[76] Dans mes motifs de jugement, j’ai conclu que l’appelante avait participé à la confection des faux énoncés et avait été négligente. Par conséquent, l’intimée fait valoir que l’appelante ne doit pas se voir attribuer les dépens majorés même si elle a eu gain de cause en appel.
+[77] La Cour ne peut examiner le comportement de l’appelante avant l’avis d’appel que si ce comportement a indûment et inutilement prolongé l’audience [100] . Tel n’est pas le cas en l’espèce. L’appelante a fait preuve de négligence, mais cela n’a pas prolongé indûment ou inutilement la durée de l’instance. Sa conduite a amené l’ARC à établir une nouvelle cotisation à l’égard de son année d’imposition 2010, rien de plus.
+(ii) Le comportement du ministre avant le début de l’instance
+[78] La Cour d’appel fédérale enseigne que, dans des circonstances exceptionnelles, le juge peut tenir compte de la conduite d’une partie avant une instance si cette conduite prolonge indûment et inutilement l’audience [101] .
+[79] L’appel concernait une pénalité pour faute lourde imposée à l’appelante. Une pénalité pour faute lourde ne doit pas être imposée à la légère par le ministre. La faute lourde est une allégation sérieuse qui doit satisfaire au seuil élevé fixé par le paragraphe 163(2) de la LIR et la jurisprudence. Une pénalité pour faute lourde ne doit être appliquée que dans des circonstances exceptionnelles [102] .
+[80] Selon le paragraphe 163(3) de la Loi, le ministre a le fardeau de prouver les faits justifiant l’imposition d’une pénalité. En confirmant la nouvelle cotisation établie à l’égard de l’appelante, le ministre a forcé l’appelante à porter l’affaire devant la Cour, ce qui entraîne des conséquences financières importantes pour tout contribuable.
+[81] La Division des appels de l’ARC, qui confirme les cotisations, était au courant des faits suivants avant d’intervenir :
+- En 2011, l’appelante était âgée d’une soixantaine d’années;
+- L’appelante avait eu recours aux services d’un cabinet de comptables généraux accrédités pour préparer et soumettre sa déclaration de revenus initiale de 2010;
+- Au cours des dix dernières années avant l’année d’imposition 2010, le revenu imposable moyen de l’appelante était de 23 499 $ par année;
+- Le cabinet DeMara a fait l’objet d’une enquête de la Division des enquêtes criminelles de l’ARC;
+- Le 21 mars 2012, la Division des enquêtes criminelles de l’ARC avait exécuté des mandats de perquisition au bureau du cabinet DeMara et aux résidences de deux des gestionnaires de ce cabinet;
+- Le 26 mars 2012, la déclaration de revenus modifiée de l’appelante a été déposée par le cabinet DeMara;
+- La déclaration de revenus modifiée de l’appelante n’a pas été signée par l’appelante;
+- Le cabinet DeMara avait rempli de fausses déclarations pour de nombreux contribuables en déclarant des montants importants de frais personnels comme frais professionnels. Il a également déclaré comme frais professionnels des montants importants qui n’étaient même pas des frais;
+- Les déclarations d’autres contribuables, également produites par le cabinet DeMara, étaient en cours d’examen par la Division de la vérification de l’ARC;
+- Le 18 mars 2013, l’appelante a écrit une lettre à l’agent de vérification responsable de son dossier dans laquelle elle a tenté d’expliquer sa situation. Elle a expliqué qu’elle avait par erreur confié ses affaires fiscales au cabinet DeMara, un criminel habile, sur les conseils d’une personne de grande confiance, son mari. Elle cherchait à réparer le tort causé par le cabinet DeMara. L’appelante a cherché à revenir à la position fiscale qu’elle avait adoptée dans sa déclaration de revenus initiale, c’est-à-dire celle qu’elle avait avancée avant l’intervention du cabinet DeMara. Elle voulait payer le reste des impôts encore dus aux termes de la cotisation initiale du ministre. Bien que cette lettre comprenne des expression évoquant l’« évitement fiscal », il est clair que l’appelante se dissociait totalement des actes illégaux commis par le cabinet DeMara et ne souhaitait en aucun cas contester son obligation de payer les impôts dus au titre de la déclaration initiale déposée pour l’année 2010 et de sa déclaration de revenus 2011 nouvellement corrigée;
+- Le 18 mars 2014, l’appelante a déposé un avis d’opposition à la nouvelle cotisation du ministre. Dans sa lettre, l’appelante a répété son histoire de manière claire et concise, cette fois, sans aucun « langage d’évitement fiscal ». Les explications de l’appelante étaient claires et crédibles. Dans sa lettre, elle déclare ceci :
+- Elle n’a pas participé à la confection d’un faux énoncé ou à une omission dans sa déclaration. Elle a déclaré avoir rempli des déclarations pendant plus de 50 ans, et avoir volontairement payé l’impôt sur le revenu.
+- Elle a été approchée par une connaissance qui lui a suggéré qu’un préparateur d’impôts faisait une présentation sur la façon de minimiser légitimement les impôts sur le revenu et l’a encouragée à participer à une conférence téléphonique hebdomadaire qui expliquait la procédure.
+- La présentatrice, Donna Marie Stancer, qui prétendait être un ministre du culte, et une personne qui comprenait le droit de l’impôt sur le revenu et qui avait bel et bien été au service de l’ARC, a fait une présentation très crédible.
+- Après avoir fait preuve de diligence raisonnable, notamment en effectuant des recherches en ligne et en enquêtant sur les antécédents de Mme Stancer et de son entreprise, le cabinet DeMara Consulting, elle et son mari ont décidé de se rendre aux bureaux du cabinet DeMara à Vernon, en Colombie-Britannique, et de parler à Mme Stancer en personne. Ils étaient convaincus que la stratégie fiscale qu’elle invoquait était légitime, et qu’elle était une personne de confiance capable d’obtenir des remboursements d’impôts légitimes.
+- En raison de son manque de compréhension du droit fiscal et de sa conviction que Mme Stancer était crédible dans ses propos, elle a accepté de lui permettre de préparer ses déclarations de revenus et a produit les documents demandés, croyant que ces sommes seraient des déductions légitimes.
+- Étant donné qu’elle vivait à Abbotsford et que le cabinet fiscal de Mme Stancer se trouvait à Vernon, en Colombie-Britannique, elle ne pensait pas qu’il était inhabituel que Mme Stancer demande l’autorisation de produire les déclarations de revenus en son nom.
+- Comme le cabinet DeMara a insisté sur le fait qu’elle ne devait pas répondre directement aux lettres de l’ARC, elle a continué à leur transmettre toute la correspondance de l’ARC.
+- Lorsqu’il est apparu que ce à quoi s’adonnait Mme Stancer était très probablement de l’évasion fiscale, elle s’est immédiatement dissociée de Mme Stancer, informant l’ARC qu’elle n’était plus autorisée à la représenter et demandant à l’ARC de retirer sa déclaration de revenus de 2010 telle qu’elle avait été préparée par Mme Stancer. De plus, elle a immédiatement commencé à produire à nouveau la déclaration de 2010 telle qu’elle avait été initialement acceptée par l’ARC.
+- En raison de sa profession, elle ne connaissait pas le droit de l’impôt sur le revenu et a donc malheureusement été induite en erreur par une personne qui se présentait comme compétente en la matière.
+- Elle n’a pas cru ou compris que les déductions que Mme Stancer réclamait en son nom n’étaient pas légitimes. Si elle avait compris l’illégalité potentielle de la stratégie fiscale adoptée, elle aurait demandé à Mme Stancer de ne pas procéder à la réclamation de ces sommes.
+- Elle a écrit cette lettre pour aider l’agent de la Division des appels à comprendre le processus qui l’a amenée à retenir les services du cabinet DeMara.
+[82] Après avoir reçu ces lettres, l’agent de la Division des appels a conclu que l’appelante avait sciemment ou par faute lourde (ce qui équivaut à un aveuglement volontaire) participé à la confection de faux énoncés et à la production de sa déclaration de revenus modifiée de 2010. L’agent est arrivé à cette conclusion sans jamais rencontrer l’appelante ni lui parler. Le droit à une audition verbale telle qu’un entretien n’est pas une exigence générale en matière d’équité procédurale [103] . Par conséquent, le ministre n’est pas tenu dans tous les cas d’interroger le contribuable avant de confirmer l’établissement d’une cotisation ou d’une nouvelle cotisation. Toutefois, à mon avis, dans certaines circonstances, l’absence d’un tel entretien peut avoir une incidence sur l’adjudication des dépens si le ministre n’obtient pas gain de cause devant la Cour. Comme il est signalé plus haut, dans son appréciation du montant des dépens à accorder, le juge peut examiner le comportement des parties qui a indûment et inutilement prolongé l’instance, même si ce comportement a précédé l’avis d’appel [104] . Je crois que tel est le cas en l’espèce.
+[83] Dans les circonstances de l’espèce, compte tenu des faits exposés au paragraphe 81 et de la thèse de l’intimée au procès, je suis d’avis que ne pas avoir parlé à l’appelante avant la confirmation de la nouvelle cotisation a inutilement prolongé l’instance, compte tenu du critère juridique appliqué par l’agent de la Division des appels pour confirmer la nouvelle cotisation. Le critère consacré par la jurisprudence Torres c. La Reine [105] (le « critère de la jurisprudence Torres ») ne peut être appliqué que si les faits essentiels sont clairement établis. Ces faits sont particuliers à chaque cas.
+[84] En l’espèce, le critère de la jurisprudence Torres a été appliqué sans que soient établis certains faits essentiels. Ces faits ont été recueillis par la suitepar l’intimée au cours de l’instance. Voici quelques exemples de faits et de renseignements pertinents qui auraient pu être obtenus par l’ARC avant la confirmation de la nouvelle cotisation :
+- La portée de la participation de M. Bowker à la préparation de la déclaration de revenus de l’appelante;
+- Les renseignements fournis à l’appelante par M. Bowker concernant les services du cabinet DeMara et la déclaration de revenus modifiée;
+- Le contenu de la présentation faite à l’appelante par le cabinet DeMara;
+- Le nombre de présentations du cabinet DeMara auxquelles l’appelante a participé;
+- Les détails de la diligence raisonnable dont a fait preuve l’appelante à l’égard des activités du cabinet DeMara;
+- Les détails sur la personne qui a suggéré à l’appelante d’utiliser les services du cabinet DeMara;
+- Les détails du processus de réflexion de l’appelante en ce qui concerne le recours aux services du cabinet DeMara;
+- Les détails de la présentation faite à M. Bowker par le cabinet DeMara;
+- Des renseignements sur les connaissances de l’appelante en matière de fiscalité;
+- Des renseignements relatifs aux caractéristiques personnelles de l’appelante.
+[85] Une demande de renseignements particuliers supplémentaires, verbalement ou par lettre, aurait permis au ministre de rassembler de manière appropriée les faits pertinents afin d’appliquer correctement le critère de la jurisprudence Torres. Il est important de noter, par exemple, que le rôle de M. Bowker aurait pu être établi par l’ARC avant que l’intimée n’intervienne dans le dossier. Notamment, à ma connaissance, ni l’ARC ni l’intimée n’ont parlé à M. Bowker pour recueillir des éléments de preuve de sa participation dans la conduite qui a été invoquée contre Mme Bowker. Outre le témoignage de l’appelante, aucun autre élément de preuve n’a été présenté concernant les communications du cabinet de DeMara pour convaincre M. Bowker d’utiliser ses services ou ce que M. Bowker a dit à l’appelante à ce sujet. Ceci ne concorde pas avec l’aveu de l’intimée portant que M. Bowker a joué un rôle central en ce qui concerne l’intervention de Mme Bowker avec le cabinet DeMara [106] . La question de savoir si l’issue aurait été le même si cela avait été fait n’est pas pertinente. Cela pourrait bien être le cas. Ce qui est pertinent aux fins de la présente adjudication des dépens, c’est que ce manquement a eu une incidence sur la durée de l’audience en obligeant l’intimée à obtenir les renseignements au cours de l’instance. Bien que l’on s’attende toujours à ce que l’intimée établisse ou confirme des faits au cours de la procédure, cela n’aurait pas dû être fait dans cette mesure.
+[86] Enfin, je suis d’avis qu’en l’espèce, de nombreux faits auraient dû inciter l’ARC à interroger l’appelante. Compte tenu de la nature de la nouvelle cotisation, du montant de la pénalité pour faute lourde et des affaires de l’ARC en cours avec le cabinet DeMara, il était nécessaire de procéder avec prudence afin de ne pas prolonger indûment et inutilement l’audience. Il était donc d’autant plus important d’établir les faits essentiels afin de déterminer si l’appelante avait simplement fait preuve de négligence ou commis une faute lourde.
+[87] La conduite du ministre avant le début de l’instance va dans le sens de la majoration de l’adjudication des dépens.
+VI. CONCLUSION
+[88] Comme il a été signalé précédemment, je suis d’avis que, sauf circonstances exceptionnelles, l’attribution d’une somme globale au titre des dépens à raison d’une indemnisation partielle doit être égale à un montant représentant 50 % à 75 % des honoraires d’avocat engagés par un contribuable au cours de l’instance. La requête dont je suis saisi ne soulève pas de circonstances exceptionnelles. Par conséquent, la fourchette de 50 % à 75 % est appropriée en l’espèce.
+[89] Pour déterminer le montant des dépens, j’ai pris en compte les observations écrites des parties. J’ai examiné les facteurs énumérés au paragraphe 147(3) des Règles, en évaluant leur importance relative, et j’ai déterminé le montant des dépens à payer par l’intimée en fonction de leur effet cumulatif.
+[90] En l’espèce, le succès qu’a remporté l’appelante au procès et l’importance du montant en litige pour elle pèsent lourdement en faveur d’une adjudication des dépens à la limite supérieure de la fourchette des dépens indemnitaires partiels mentionnée ci-dessus.
+[91] En outre, l’importance de la question en litige tranchée par la Cour, l’offre de règlement faite par l’appelante et la conduite du ministre avant le début de l’instance sont autant d’éléments qui militent en faveur d’une majoration de l’adjudication de dépens indemnitaires partiels. Compte tenu de leur effet cumulatif, je conclus que l’intimée doit payer à l’appelante ce qui est, à mon avis, le montant maximum des dépens admissibles dans la fourchette applicable, c’est-à-dire 75 % de ses honoraires d’avocat engagés.
+[92] Par conséquent, l’appelante se voit attribuer des dépens de 149 842,22 $ au total, comprenant les montants suivants :
+- 144 096,59 $, ce qui constitue 75 % des honoraires d’avocat de l’appelante pour l’appel (192 128,79 $, y compris la TVP et la TVH) [107] ;
+- 3 245,63 $ pour les débours qu’elle a engagés pour l’appel;
+- 2 500 $ pour la présente requête.
+[93] Pour tous les motifs qui précèdent, la requête est accueillie.
+Signé à Ottawa, Canada, ce 8e jour d’avril 2022.
+« Sylvain Ouimet »
+Le juge Ouimet
+Traduction certifiée conforme
+ce 28e jour de juin 2022.
+François Brunet, réviseur
+RÉFÉRENCE :
+2022 CCI 43
+NO DU DOSSIER DE LA COUR :
+2016-1686(IT)G
+INTITULÉ :
+MARGO DIANNE BOWKER c. LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATE DE L’AUDIENCE :
+Le 7 octobre 2021
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Sylvain Ouimet
+DATE DE L’ORDONNANCE :
+Le 8 avril 2022
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Alistair G. Campbell
+Me Margaret J. MacDonald
+Avocats de l’intimée :
+Me Patrick Cashman
+Me Natasha Tso
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Alistair G. Campbell
+Me Margaret MacDonald
+Cabinet :
+Legacy Tax & Trust Lawyers
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Bowker c. La Reine, 2021 CCI 14, par. 2 [Bowker].
+[2] Ibid., par. 4.
+[3] Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) [la « LIR »].
+[4] Bowker, précitée, note 1, par. 5.
+[5] Bowker, précitée, note 1.
+[6] Bowker, précitée, note 1.
+[7] Règles de la Cour canadienne de l’impôt (procédure générale), DORS/90-688 [les « Règles »].
+[8] Succession Zeller c. La Reine, 2009 CCI 135 [Succession Zeller].
+[9] Morrison c. La Reine, 2016 CCI 99 [Morrison].
+[10] Janet Walker et Lorne Mitchell Sossin, Civil Litigation (Toronto, Ontario : Irwin Law, 2010), p. 34; Mark M. Orkin et Robert G. Schipper, The Law of Costs, 2e éd. (Toronto, Ontario : Thomson Reuters, 1987) (feuilles mobiles mises à jour en octobre 2021, version 6), §2:1; G.D. Watson et al., Civil Litigation: Cases and Materials, 4e éd. (Toronto : Edmond Montgomery Publications, 1991), p. 419. Voir également Promised Land Ministries c. La Reine, 2019 CCI 282, par. 4 à 8 [Promised Land]; Bonik Inc. c. La Reine, 2007 CCI 267, par. 4 [Bonik]; Labow c. Canada, 2011 CCI 26, par. 7 [Labow], renvoyant à RMM Canadian Enterprises Inc. c. R., [1997] 3 C.T.C. 2103, par. 3.
+[11] Colombie-Britannique (Ministre des Forêts) c. Bande indienne Okanagan, 2003 CSC 71, par. 20.
+[12] Walker, op. cit, note 10, p. 34; Otteson c. La Reine, 2014 CCI 362, par. 17; Cameco Corporation c. La Reine, 2019 CCI 92, par. 46 [Cameco], conf. par 2020 CAF 112, autorisation d’interjeter appel à la CSC refusée, 39368 (18 février 2021) renvoyant à Martin c. La Reine, 2014 CCI 50, par. 14, conf. en partie par 2015 CAF 95.
+[13] General Electric Capital Canada Inc. c. The Queen, 2010 CCI 490, par. 17 [General Electric], renvoyant à Apotex Inc. c. Wellcome Foundation Ltd., 1998 CarswellNat 2330, [1998] A.C.F. no 1736, par. 7, conf. par 2001 CarswellNat 105, [2001] A.C.F. no 37.
+[14] Martin c. La Reine, 2014 CCI 50 [Martin CCI].
+[15] Ibid., par. 14. Voir également Mariano c. La Reine, 2016 CCI 161, par. 27 [Mariano]; Ford du Canada Limitée c. La Reine, 2015 CCI 185, par. 7 [Ford].
+[16] Walker, op. cit., note 10, p. 34. Voir également ACSIS EHR (Electronic Health Record) Inc. c. La Reine, 2016 CCI 50, par. 6 [ACSIS], renvoyant à 1465778 Ontario Inc. c. 1122077 Ontario Ltd, 2006 CarswellOnt 6582, [2006] O.J. No. 4248, par. 26 et 27.
+[17] Foster c. La Reine, 2007 CCI 659, par. 65 [Foster], renvoyant à Fournier c. Canada, 2005 CAF 131, par. 11 et 12 [Fournier].
+[18] Kibalian c. Canada, 2019 CAF 160, par. 16 [Kibalian], invoquant Exeter c. Canada (Procureur général), 2013 CAF 134, par. 12.
+[19] General Electric, précitée, note 13, par. 12, renvoyant à Canada c. Finch, 2003 CAF 267, par. 6 [Finch]; Fiducie Financière Lapierre c. La Reine, 2017 CCI 19, par. 6 et 10 [FFL].
+[20] Canada c. Martin, 2015 CAF 95, par. 18 à 22 [Martin CAF]; Canada c. Landry, 2010 CAF 135, par. 24 et 34 [Landry]. Voir également M.R.N. c. McMahon, 2020 CCI 104, par. 69; 9196-7448 Québec Inc. c. La Reine, 2017 CCI 50, note 3 (la demande d’adjudication des dépens vraisemblablement engagés avant la préparation de l’avis d’appel a été rejetée).
+[21] Martin CAF, précité, note 20, par. 18 à 22.
+[22] Duffy c. La Reine, 2020 CCI 135, par. 18 [Duffy].
+[23] Canada c. Lau, 2004 CAF 10, par. 5 [Lau]; Landry, précité, note 20, par. 22.
+[24] Guibord c. Canada, 2011 CAF 346 [Guibord].
+[25] Ibid., par. 10.
+[26] Martin FCA, précité, note 20, par. 13, renvoyant à Hamilton c. Open Window Bakery Ltd., 2004 CSC 9, par. 27 [Open Window Bakery] et Sun Indalex Finance, LLC c. Syndicat des Métallos, 2013 CSC 6, par. 247.
+[27] Landry, précité, note 20, par. 54.
+[28] CIT Group Securities (Canada) Inc. c. La Reine, 2017 CCI 86, par. 9 [CIT Group].
+[29] Kruger Incorporated c. La Reine, 2016 CCI 14, par. 18, inf. pour d’autres motifs par 2016 CAF 186.
+[30] Promised Land, précitée, note 10, par. 8; LeRiche v. Her Majesty the Queen, 2012 CCI 19, par. 7 [LeRiche]; Velcro Canada Inc. c. La Reine, 2012 CCI 273, par. 16 [Velcro].
+[31] Cameco, précitée, note 12, par. 7 renvoyant à Nova Chemicals Corporation c. Dow Chemical Company, 2017 CAF 25, par. 10 à 13, autorisation d’interjeter appel à la CSC refusée, 37274 (20 avril 2017).
+[32] Univar Holdco Canada ULC c. The Queen, 2020 CCI 15 [Univar].
+[33] Ibid., par. 49.
+[34] Règles, précitées, note 7, art. 147(4); Velcro, précitée, note 31, par. 16.
+[35] Velcro, précitée, note 30, par. 8; Promised Land, précitée, note 10, par. 4 à 8; LeRiche, précitée, note 30, par. 7.
+Consorzio del Prosciutto di Parma c. Maple Leaf Meats Inc., 2002 CAF 417 [Maple Leaf Meats].
+[37] Ibid., par. 8.
+[38] Voir Dickie c. La Reine, 2012 CCI 327, par. 27 [Dickie], conf. par 2014 CAF 40, par. 6; Spruce Credit Union c. La Reine, 2014 CCI 42, par. 29 à 30 [Spruce Credit]; Ford, précitée, note 15, par. 7 et 23; Duffy, précitée, note 22, par. 24; Invesco Canada Ltd. c. La Reine, 2015 CCI 92, par. 5 [Invesco].
+[39] Orkin, op. cit., note 10.
+[40] Succession Zeller, précitée, note 8, par. 9.
+[41] Dans la décision Paletta (Succession) c. La Reine, 2021 CCI 41, la Cour a accordé 45 % des honoraires d’avocat de l’appelante. [41] Dans la décision Damis Properties c. La Reine, 2021 CCI 44, la Cour a accordé 35 % des honoraires d’avocat de l’appelante. [41] Dans la décision Cameco Corporation c. La Reine, 2019 CCI 92, la Cour a accordé 35 % des honoraires d’avocat de l’appelante. [41] Dans la décision CIT Group Securities (Canada) Inc. c. La Reine, 2017 CCI 86, la Cour a accordé 36 % des honoraires d’avocat de l’appelante. [41] Dans la décision Invesco Canada Ltd. c. La Reine, 2015 CCI 92, la Cour a accordé 40 % des honoraires d’avocat de l’appelante. [41] Dans la décision Klemen c. La Reine, 2014 CCI 369, la Cour a accordé 30 % des honoraires d’avocat de l’appelant.
+[42] Walker, op. cit., note 10, p. 36.
+Règles de procédure civile, R.R.O. 1990, Règl. 194, art. 57.01.
+[44] Linda S. Abrams et Kevin P. McGuinness, Canadian Civil Procedure Law, 2e édition (Toronto, Ontario : LexisNexis Canada), p. 17.56.
+[45] Guibord, précité, note 24, par. 10 : « Une cour d’appel doit faire montre de déférence envers l’exercice du pouvoir discrétionnaire de la Cour de l’impôt en matière de dépens et ne devrait intervenir que lorsque le juge de la Cour de l’impôt a considéré des facteurs qui ne sont pas pertinents, a omis de considérer des facteurs pertinents ou est parvenu à une conclusion déraisonnable ». Invoqué dans les arrêts Transalta Corp. c. Canada, 2013 CAF 285, par. 13 [Transalta] et Marzen Artistic Aluminum Ltd. c. Canada, 2016 CAF 34, par. 59 [Marzen].
+[46] Lau, précité, note 23, par. 5; Landry, précité, note 20, par. 22; Guibord, précité, note 24, par. 10; Martin CAF, note 20, par. 13.
+[47] Velcro, précitée, note 30.
+[48] Ibid., par. 17.
+[49] Règles, précitées, note 7, art. 147(3.5); Duffy, précitée, note 22, par. 25.
+[50] Sun Life, compagnie d’assurance-vie c. La Reine, 2015 CCI 171, par. 8 [Sun Life].
+[51] Ibid., par. 9; Banque de Montréal c. La Reine, 2021 CCI 3, par. 5 [Banque de Montréal]; Ike Enterprises Inc. c. La Reine, 2017 CCI 160, par. 18 [Ike]; MacDonald c. La Reine, 2018 CCI 55, par. 48 [MacDonald].
+[52] Sun Life, précitée, note 50, par. 9 à 11; MacDonald, précitée, note 51, par. 48. Voir également Golini c. La Reine, 2016 CCI 247, par. 17 à 19 [Golini].
+[53] Ford, précitée, note 15, par. 7; Invesco, précitée, note 38, par. 5.
+[54] Repsol Canada Ltd. c. La Reine, 2015 CCI 154, par. 10 [Repsol], Jayco, Inc. c. The Queen, 2018 CCI 239, par. 51 et 52 [Jayco]. Voir Hansen c. La Reine, 2021 CCI 39 [Hansen]; ACSIS, précitée, note 16 par. 6.
+[55] Apotex Inc. c. Egis Pharmaceuticals, 1991 CarswellOnt 3149, [1991] O.J. No. 1232, par. 13.
+[56] Winters v Legal Services Society, [1999] 3 RCS 160, par. 79. Voir également Amway Corporation c. The Queen, 1986 CarswellNat 382, [1986] 2 C.T.C. 339, par. 5.
+[57] Martin CAF, précité, note 20, par. 26; Merchant c. The Queen, [1998] 3 C.T.C. 2505, par. 58 [Merchant], conf. par 2001 CAF 19; Splane c. The Queen, 1991 CarswellNat 398, [1991] 1 C.T.C. 406, par. 6; Bland c. Commission de la capitale nationale, 1992 CarswellNat 162, [1993] 1 C.F. 541, par. 6.
+[58] Merchant, précitée, note 57, par. 59; Continental Bank of Canada.v. R., 1994 CarswellNat 2669, [1994] A.C.I. no 863, par. 10 [Continental Bank]. Voir également Young c. Young, [1993] 4 RCS 3, p. 17; Baker c. Canada (Ministre de la Citoyenneté et de l’Immigration), [1999] 2 RCS 817, par. 77 [Baker]; Open Window Bakery Ltd, précité, note 27, par. 26.
+[59] Finch, précité, note 19, par. 5; Kibalian, précité, note 18, par. 17.
+[60] Règles, précitées, note 7, annexe II, tarif B.
+[61] Repsol, précitée, note 54, par. 16 à 21; Aon Inc. c. La Reine, 2018 CCI 111, par. 30 à 33 [Aon].
+[62] Observations écrites de l’appelante à l’égard de la requête relative aux dépens, par. 28 [Observations de l’appelante].
+[63] Affidavit de Matthew Jenkins daté du 1er avril 2021, par. 4.
+[64] Morrison, précitée, note 9.
+[65] Observations écrites de l’intimée sur les dépens, par. 32 [Observations de l’intimée].
+[66] Univar, précitée, note 32, par. 48 et 49; CIBC World Markets Inc. c. The Queen, 2019 CCI 201, par. 9 [CIBC CCI]; Velcro, précitée, note 30, par. 19, renvoyant à Maple Leaf Meats, précité, note 36, par. 8 à 10; Duffy, précitée, note 22, par. 20.
+[67] Lux Operating Limited Partnership c. La Reine, 2018 CCI 214 [Lux].
+[68] Univar, précitée, note 32.
+[69] Lux, précitée, note 67, par. 9 et 10.
+[70] Réponse de l’intimée à l’avis d’appel, alinéa 10k).
+[71] Observations de l’appelante, précitées, note 62, par. 25 à 27.
+[72] Aitchison Professional Corporation c. La Reine, 2018 CCI 234, par. 7 [Aitchison].
+[73] CIBC World Markets Inc. c. La Reine, 2012 CAF 3, par. 14 [CIBC CAF].
+[74] Daishowa-Marubeni International Ltd. c. La Reine, 2013 CCI 275, par. 18 [Daishowa].
+[75] SCDA (2005) Inc. c. Canada, 2017 CAF 177, par. 24 à 30 [SCDA], renvoyant à Allen (Next Friend of) c. University Hospitals Board, 2006 ABCA 101, par. 15.
+[76] CIBC CAF, précité, note 73, par. 15 et 24.
+[77] Aon, précitée, note 61.
+[78] Ibid., par. 23.
+[79] CIBC CAF, précité, note 73, par. 14 à 15.
+[80] LIR, précitée, note 3, par. 162(7).
+[81] Observations de l’appelante, précitées, note 65, par. 22.
+[82] Ibid., par. 23.
+[83] Observations de l’appelante, précitées, note 62, par. 29.
+[84] Ibid., par. 30.
+[85] Ibid.
+[86] Ibid., par. 31.
+[87] Ibid., par. 30.
+[88] Knox Contracting Ltd. c. Canada, [1990] 2 RCS 338.
+[89] Ibid., p. 350. Voir également R. c. Jarvis, 2002 CSC 73, par. 49 à 51; Sledge c. La Reine, 2016 CCI 100, par. 18 à 20 [Sledge].
+[90] Exida.com Limited Liability Company c. Canada, 2010 CAF 159 [Exida].
+[91] Ibid., par. 21 et 36.
+[92] Affidavit de Barbara Stephen daté du 1er avril 2021, p. 8.
+[93] Observations de l’appelante, précitées, note 62, par. 45.
+[94] Observations de l’intimée, précitées, note 65, par. 30.
+[95] Golini, précitée, note 52, par. 19 à 23.
+[96] Klemen c. La Reine, 2014 CCI 369, par. 31.
+[97] Observations de l’appelante, précitées, note 62, par. 48.
+[98] Ibid., par. 52.
+[99] Ibid.
+[100] Voir Règles, précitées, note 7, al. 147(3)G) et 147(3)j); voir également Martin CAF, précité, note 20, par. 18 à 20, renvoyant à E. F. Antony Merchant c. La Reine, 2001 CAF 19, par. 7, et Landry, précité, note 20, par. 25; Myrdan Investments Inc. c. La Reine, 2013 CCI 168, par. 15 à 20.
+[101] Martin CAF, précité, note 20, par. 21.
+[102] O’Dea c. La Reine, 2009 CCI 295, par. 112.
+[103] Baker, précité, note 58, par. 22, 30 à 34; Canada c. Barron, 1997 CarswellNat 7, [1997] 2 C.T.C. 198, par. 6.
+[104] Précité, note 101.
+[105] Torres c. La Reine, 2013 CCI 380 [Torres].
+[106] Bowker, précitée, note 1, par. 62.
+[107] Affidavit de Matthew Jenkins, daté du 1er avril 2021, par. 7.

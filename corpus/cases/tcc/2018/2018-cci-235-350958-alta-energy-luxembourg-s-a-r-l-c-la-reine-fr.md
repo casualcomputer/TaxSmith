@@ -1,0 +1,255 @@
+---
+title: "Alta Energy Luxembourg S.A.R.L. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/350958/index.do"
+last_modified: "2018-11-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 235"
+citation2: ""
+neutral_citation: "2018 CCI 235"
+decision_date: "2018-11-22"
+language: "fr"
+item_id: "350958"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5000
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:41:16.987000+00:00"
+cases_cited_count: 6
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "899e5587d930357db14b9ec2c4f50ef200e7c0d913c18e965a7cd16748efe7d4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Alta Energy Luxembourg S.A.R.L. c. La Reine
+
+- Citation: 2018 CCI 235
+- Decision date: 2018-11-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5000, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alta Energy Luxembourg S.A.R.L. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-11-22
+Référence neutre
+2018 CCI 235
+Numéro de dossier
+2014-4359(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-4359(IT)G
+ENTRE :
+ALTA ENERGY LUXEMBOURG S.A.R.L,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_____________________________________________________________________________________________
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocats de l’appelante :
+Me Warren J.A. Mitchell
+Me Matthew G. Williams
+Me E. Rebecca Potter
+Avocats de l’intimée :
+Me S. Patricia Lee
+Me Christopher M. Bartlett
+_____________________________________________________________________________________________
+ORDONNANCE
+Attendu qu’un jugement a été rendu le 22 août 2018;
+Attendu que les parties devaient me fournir des observations sur la question des dépens;
+Attendu que des observations ont été déposées et prises en considération;
+La Cour ordonne que des dépens de 816 384 $, auxquels s’ajoutent des débours de 376 129 $, pour un total de 1 192 513 $, soient adjugés à l'appelante, le tout conformément aux motifs de l’ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 22e jour de novembre 2018.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 3e jour de février 2020.
+Erich Klein, réviseur
+Référence : 2018 CCI 235
+Date : 20181122
+Dossier : 2014-4359(IT)G
+ENTRE :
+ALTA ENERGY LUXEMBOURG S.A.R.L,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Hogan
+I. Aperçu
+[1] Dans mon jugement tranchant l’appel, j’ai invité les parties à me présenter des observations sur les dépens. Les deux parties ont présenté leurs observations écrites, et je suis maintenant prêt à me prononcer sur la question.
+II. Contexte factuel
+[2] L’audition de l’appel a duré cinq jours, chaque partie étant représentée par deux ou trois avocats. Avant l’audience, l’intimée a déposé un avis de requête demandant à la Cour d’ordonner à l’appelante d’accomplir des étapes supplémentaires dans le processus d’interrogatoire préalable et demandant que l’audience soit ajournée sine die à cette fin. Les questions à l’origine de la requête ont été résolues avant la date fixée pour l’audition de la requête et la Cour a accordé l’ajournement. Les parties ont déposé un exposé conjoint des faits de 30 pages. Aucune offre de règlement n’a été faite.
+[3] L’appel portait sur deux questions :
+a) L’appelante a-t-elle réalisé un gain en capital à la suite de la vente des actions imposables au Canada, vu les termes du paragraphe 13(4) de la Convention entre le Canada et le Luxembourg en matière d’impôt sur le revenu de 1999 (la « Convention »)?
+b) La disposition générale anti-évitement (la « DGAE ») s’applique-t-elle en l’emportant sur l’application de la Convention?
+[4] L’appelante a obtenu entièrement gain de cause dans l’appel et les dépens lui ont été adjugés.
+III. Position des parties
+A. Position de l’appelante
+[5] L’appelante a demandé à titre de dépens un montant forfaitaire de 1 630 645,22 $, qui comprend les honoraires (sélectionnés) d’avocats, les frais estimés relatifs aux observations présentées et les débours [1] . L’appelante cherche à obtenir une indemnisation au plafond du barème d’indemnisation partielle, demandant 75 % des honoraires (sélectionnés) d’avocats.
+[6] L’appelante invoque les facteurs suivants énoncés au paragraphe 147(3) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») pour justifier sa demande d’un montant forfaitaire :
+(a) L’appelante a obtenu gain de cause dans son appel.
+(b) La somme en cause était importante.
+(c) L’appel portait sur des questions d’application générale.
+(d) L’appelante a produit des milliers de documents aux fins de l’interrogatoire préalable. Deux représentants ont été soumis à l’interrogatoire préalable sur une période totale de sept jours, et des réponses à de nombreux engagements ont été produites. Quatre témoins ont été convoqués au cours d’une audience de cinq jours.
+(e) Des recherches approfondies, comprenant une analyse factuelle détaillée des activités d’Alta Canada, ont été nécessaires, car la Cour a été la première à se pencher sur le paragraphe 13(4) de la Convention. De plus, la question de savoir si l’appelante était résidente du Luxembourg était une question en litige jusqu’à un mois avant l’audience.
+(f) L’intimée a prolongé inutilement l’instance en débordant le cadre convenu des interrogatoires préalables complémentaires et en insistant sur :
+(i) la communication intégrale en vertu de l’article 82 des Règles;
+(ii) l’interrogatoire préalable d’un tiers;
+(iii) le recours à des interrogatoires de vive voix pour poser les questions découlant des réponses aux questions faisant l’objet d’engagements;
+(iv) la tenue d’un autre interrogatoire préalable de Joseph Greenberg six mois après qu’eurent été fournies les réponses de M. Greenberg aux questions faisant l’objet d’engagements.
+(g) L’approche très générale et non ciblée de l’intimée à l’égard des interrogatoires préalables a contribué à des coûts excessifs et à des retards excessifs.
+(h) La dépense engagée pour un rapport de témoin expert était justifiée.
+(i) L’appel n’aurait pas dû être nécessaire. L’appelante était en droit de se fier à une position énoncée par le gouvernement sur le développement des réserves pétrolières et gazières au Canada. L’appelante fait également remarquer que la Cour avait dit aussi que l’intimée avait une mauvaise compréhension de la façon de mettre en valeur et d’exploiter les ressources au Canada. L’appelante prétend que cela est inexcusable, compte tenu de l’ampleur du processus d’interrogatoire préalable. En dernier lieu, l’appelante soutient que l’intimée n’aurait pas dû invoquer la DGAE pour combler ce que le ministère des Finances considère maintenant comme une lacune involontaire dans la Convention.
+B. La position de l’intimée
+[7] L’avocat de l’intimée concède qu’il est approprié d’adjuger les dépens en faveur de l’appelante et demande que soit accordé montant forfaitaire de 735 000 $, qui comprendrait les honoraires (sélectionnés) d’avocats, et les débours [2] . Cette somme est supérieure à ce que prévoit le tarif B.
+[8] L’intimée reconnaît les points suivants :
+(a) L’appel a été accueilli, ce qui vient appuyer l’adjudication de dépens à l’appelante.
+(b) La somme en cause est importante pour le contribuable moyen.
+(c) La décision rendue dans l’appel est la première dans laquelle une cour examine l’exemption relative aux biens exclus prévue au paragraphe 13(4) de la Convention, et l’application de la DGAE est une question importante.
+[9] L’intimée ne conteste pas la demande de l’appelante relative au remboursement des débours.
+[10] Selon l’intimée, le résultat de l’instance ainsi que l’importance des questions en litige justifient peut-être l’adjudication de dépens majorés, mais non une majoration considérable.
+[11] L’intimée s’appuie sur les facteurs suivants pour justifier une réduction du montant des dépens demandés par l’appelante :
+(a) La somme de 48 318 680,14 $ qui était en litige n’est pas importante étant donné la taille des deux fonds de capital-investissement (18,2 milliards de dollars) qui possédaient des intérêts indirects de 80 % dans l’appelante.
+(b) L’importance de la question des biens exclus est limitée, car l’application de l’exemption dépend des faits et son applicabilité se décidera au cas par cas.
+(c) La communication intégrale était nécessaire puisqu’une vérification complète n’a pas été effectuée avant la cotisation et que l’appelante a interjeté appel directement à la Cour avant la fin du processus d’opposition. L’appelante a embauché un tiers fournisseur de services pour l’aider dans les interrogatoires préalables, et seulement 6,3 % des heures totales facturées ont été consacrées à la préparation de la liste de documents (communication intégrale) de l’appelante. Mis à part les obligations additionnelles en matière de communication, la charge de travail dans l’appel correspondait à celle de la plupart des instances de catégorie C devant la Cour canadienne de l’impôt.
+(d) La question relative à l’application du paragraphe 13(4) était corsée sur le plan des faits, mais grâce à des interrogatoires préalables exhaustifs, les parties se sont en grande partie entendues sur les faits avant l’audience. De plus, bien que l’application de la DGAE à la Convention soulevât des questions complexes, ces questions avaient déjà été examinées par les tribunaux.
+(e) L’appelante a prolongé l'instance :
+(i) en refusant la demande de l’intimée de tenir un interrogatoire complémentaire de Joseph Greenberg et du représentant du tiers fournisseur pour les questions découlant des réponses aux questions faisant l’objet d’engagements et aux questions prises en délibéré lors de leur interrogatoire préalable;
+(ii) en admettant presque deux ans après que l’appel a été interjeté que la restructuration et la vente d’actions à Chevron Canada Limited étaient une « opération d’évitement ».
+(f) L’intimée a abrégé la durée de l’instance en acceptant le fait que l’appelante était résidente du Luxembourg [3] et en déposant un exposé conjoint des faits.
+(g) On ne peut raisonnablement s’attendre à ce qu’une partie paie pour la décision de l’autre partie d’affecter à un dossier plus de deux avocats (un avocat principal et un avocat en second). L’appelante ne peut réclamer des dépens que pour deux avocats pour chaque étape du litige [4] .
+(h) Des dépens majorés pour les observations de l’appelante sur les dépens ne sont pas justifiés. Les parties ont eu 20 jours pour s’entendre sur les dépens. L’appelante n’a informé l’intimée qu’elle demandait des dépens majorés que le 14e jour, et elle n’a fourni aucune ventilation ni aucun document à l’appui avant le 19e jour.
+IV. Analyse
+[12] Les parties conviennent que la Cour est habilitée, aux termes de l’article 147 des Règles, à accorder un montant forfaitaire au titre des dépens et qu’il est approprié d’accorder un tel montant en l’espèce.
+[13] De vastes pouvoirs discrétionnaires sont conférés à la Cour quant à la fixation des dépens et, comme je l’ai indiqué dans les motifs de l’ordonnance dans Rio Tinto Alcan Inc. c. La Reine, 2016 CCI 258, la Cour doit exercer ces pouvoirs discrétionnaires en se fondant sur des principes, accordant un poids suffisant aux critères énumérés à l’article 147 des Règles ainsi qu’à tout autre critère qui doit être pris en compte afin d’obtenir un résultat juste.
+[14] Les parties ont chacune abordé dans leurs observations les facteurs énumérés au paragraphe 147(3) des Règles. Je vais maintenant appliquer les facteurs qui sont pertinents en l’espèce.
+A. Le résultat de l’instance
+[15] Je suis d’accord avec les parties pour dire que le fait que l’appelante a obtenu gain de cause milite pour l’adjudication de dépens majorés.
+B. Les sommes en cause
+[16] La somme en cause s’élevait à 48 318 680,14 $. Cette somme a été versée à l’intimée afin d’obtenir un certificat de décharge il y a quelques années. Je suis d’accord avec l’intimée pour dire que la somme doit être remise dans son contexte, mais je ne suis pas d’accord quant à la conclusion de l’intimée.
+[17] À mon avis, contrairement à la position présentée par l’intimée dans ses observations, il ne serait pas indiqué, en appréciant l’importance relative de la somme en cause, de regarder au-delà de l’appelante et de tenir compte de ses investisseurs. La taille des fonds Blackstone Capital Partners VI LP et Blackstone Energy Partners LP, pris ensemble, n’est pas pertinente ici.
+[18] Je conclus que la somme de 48 318 680,14 $ est importante. Ce facteur milite en faveur de dépens majorés.
+C. L’importance des questions en litige
+[19] L’appel a soulevé des questions inédites concernant l’interprétation de dispositions de la Convention ayant un large champ d’application. J’ai rejeté les arguments de l’intimée sur la façon d’interpréter le mot « dans » dans le membre de phrase « les biens […] dans lesquels la société […] a exercé son activité » au paragraphe 13(4). L’interprétation de l’exception relative aux biens exclus prévue au paragraphe 13(4) a des répercussions sur de nombreux contribuables qui exploitent les droits accordés par des licences délivrées par des organismes gouvernementaux pour l’exploitation de ressources minérales et d’autres ressources naturelles au Canada.
+[20] J’accepte l’argument de l’intimée selon lequel l’applicabilité de l’exception relative aux biens exclus dépend des faits. Toutefois, cela ne veut pas dire que la question de l’interprétation est sans importance.
+[21] Une décision sur l’applicabilité de la DGAE a une importance jurisprudentielle puisque la DGAE est une disposition de dernier recours dont l’application réussie touche souvent une multitude de transactions. De plus, l’intimée a reconnu que l’application de la DGAE était une question importante.
+[22] Je conclus que ce facteur milite en faveur de l’adjudication de dépens majorés à l’appelante.
+D. La charge de travail
+[23] L’intimée soutient que la charge de travail, mis à part les obligations relatives à la préparation d’une liste complète de documents, correspondait à celle de la plupart des instances de catégorie C devant notre Cour. Je ne suis pas d’accord.
+[24] Le temps consacré à l’appel dans le cas présent n’est pas typique, même pour une instance de catégorie C. L’appelante affirme que quatre associés ont consacré 2 663,05 heures à l’appel, en plus des 489,7 heures consacrées par d’autres avocats et des étudiants. Les associés ont consacré à l’appel 1 618,2 heures à compter de la clôture de la procédure écrite jusqu’à la fin des interrogatoires préalables, et la majorité des heures restantes qu’ils y ont consacrées étaient pour la préparation en vue de l’audience.
+[25] Bien que la production de documents ne représente qu’un faible pourcentage du temps consacré par les associés au dossier, les interrogatoires auxquelles on a procédé étaient de grande envergure. Des milliers de questions ont été posées et des centaines d’engagements ont été pris. De plus, l’appelante a dû préparer chacun de ses quatre témoins profanes en vue de l’audience.
+[26] Je reconnais que la décision de l’intimée de procéder selon l’article 82 des Règles était motivée par l’incapacité de la Division de la planification fiscale abusive et de la Direction des décisions en impôt de l’Agence du revenu du Canada de terminer leur examen de la vente avant que l’appelante ne dépose son avis d’opposition et avant qu’elle n’interjette appel directement à la Cour. Toutefois, l’appelante a quand même effectué ce travail. De plus, l’Agence du revenu du Canada a eu beaucoup de temps pour examiner ces questions à des étapes antérieures du processus de cotisation.
+[27] L’appel a nécessité beaucoup de travail de la part de l’appelante, ce qui milite en faveur d’une adjudication de dépens appropriés à l’appelante.
+E. La complexité des questions en litige
+[28] C’est dans le cadre de l’appel dont il est ici question qu’a été examinée pour la première fois par un tribunal la question de l’application du paragraphe 13(4) de la Convention. Aucune décision n'avait encore été rendue sur cette question.
+[29] Aux fins de la DGAE, la question était de savoir si « [l’]opération d’évitement » avait entraîné un « abus » dans l'application de la Loi de l’impôt sur le revenu et de la Convention. Il s’agit là encore une fois d’une question complexe.
+[30] Je suis d’accord avec l’appelante pour dire que ce facteur milite en faveur de l’adjudication de dépens majorés.
+F. La conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance
+[31] Chaque partie a accusé l’autre de prolonger inutilement la durée de l’instance. L’appelante reproche à l’intimée sa conduite pendant les interrogatoires préalables et lui reproche également d’avoir tardé à faire sa concession sur la question de la résidence. Quant à l’intimée, elle reproche à l’appelante d’avoir refusé certaines demandes au cours des interrogatoires préalables et d’avoir tardé à reconnaître que la « série d’opérations » constituait des opérations d’évitement.
+[32] Comme le juge Miller le dit dans la décision Henco Industries Limited c. La Reine, 2014 CCI 278, au paragraphe 20, pour que ce facteur soit déterminant, il doit être clair qu’une partie s’est comportée de façon déraisonnable.
+[33] Je crois que les actions de l’intimée pendant le processus des interrogatoires préalables ont causé des retards et engendré des coûts pour l’appelante. Je note les points suivants à cet égard :
+L’insistance de l’intimée pour que des questions complémentaires concernant les engagements soient posées lors d’interrogatoires de vive voix.
+o Cela allait à l’encontre des attentes de l’appelante (voir l’onglet E de l’affidavit de Timothy Barrett, aux pages 56 et 57). L’appelante a déclaré que les questions complémentaires concernant les engagements sont habituellement posées par écrit. C’est effectivement souvent le cas.
+Le fait de déborder le cadre convenu des interrogatoires préalables dans l’interrogatoire du représentant de Blackstone Capital Partners.
+o L’appelante affirme que l’intimée à maintes reprises a posé au déposant des questions au sujet de l’appelante qui auraient plutôt dû être adressées à M. Greenberg. L’appelante en a donné des exemples aux onglets E et F de l’affidavit de Timothy Barrett. Je suis d’accord avec l’appelante sur ce point.
+La demande de l’intimée de poursuivre l’interrogatoire de M. Greenberg six mois après la production de réponses conformément aux engagements.
+o Le 31 mai 2016, les parties ont écrit une lettre conjointe au coordonnateur des audiences dans laquelle elles déclaraient ce qui suit :
+o Les réponses aux questions faisant l’objet d’engagements et aux questions prises en délibéré pendant l’interrogatoire du représentant de Blackstone ont été produites le 22 juillet 2016.
+§ 1) [traduction] « [...] les parties s’attendent à ce que l’intimée ait des questions complémentaires à poser à l’égard de certaines réponses fournies à la suite des engagements pris au cours des interrogatoires préalables; les parties s’attendent à ce que cela se fasse au cours des deux prochains mois »;
+§ 2) les parties ont demandé l’inscription au rôle pour sept jours d’audience en novembre 2016;
+§ 3) les parties ont demandé que soit désigné un juge chargé de la gestion de l’instance.
+o L’audience a été fixée au 31 octobre 2016.
+o Le 27 juillet 2016, l’intimée a avisé l’appelante qu’elle avait des questions complémentaires à poser à la fois au représentant de Blackstone et à M. Greenberg. L’appelante a informé l’intimée qu’elle considérait que les interrogatoires préalables étaient terminés, compte tenu du peu de temps restant avant l’audience (ce qui était conforme à la position énoncée dans la lettre conjointe, c’est-à-dire que les interrogatoires préalables seraient terminés le 31 juillet 2016).
+o Le 4 août 2016, les parties ont demandé à la Cour de nommer un juge chargé de la gestion de l’instance pour régler les problèmes.
+o On n’a pas communiqué avec les parties concernant la gestion de l’instance, et l’intimée a présenté une requête le 23 septembre 2016.
+o Les parties ont réglé la requête le 30 septembre 2016. La Cour a accordé un ajournement pour l’accomplissement des étapes additionnelles dans le déroulement de l’instance.
+o D’autres interrogatoires ont eu lieu en novembre 2016. L’appelante a produit en février 2017 les réponses aux questions prises en délibéré et aux questions auxquelles on avait refusé de répondre. L’intimée avait demandé des renseignements supplémentaires en avril 2017. Au 28 avril 2017, l’appelante les avait produits.
+Il ressort clairement de ce qui précède que l’intimée a sous-estimé de beaucoup le temps qu’il lui fallait pour mener à terme de façon satisfaisante des interrogatoires préalables.
+G. La question de savoir si une étape de l’instance (i) était inappropriée, vexatoire ou inutile, ou (ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection
+[34] L’intimée est d’avis que ce facteur ne s’applique pas. L’appelante, par contre, est d’avis que certaines étapes des interrogatoires préalables étaient inutiles.
+[35] Le juge Boyle a accordé une grande importance à ce facteur dans l’adjudication des dépens dans la décision Ford du Canada Limitée c. La Reine, 2015 CCI 185, au paragraphe 20, en raison du fait que l’intimée n’avait « malheureusement » pas déposé d’observations écrites au préalable, même si elle s’était engagée à le faire pendant la gestion de l’instance.
+[36] Je conviens avec l’intimée que ce facteur ne s’applique pas en l’espèce. Je ne vois rien qui permette de conclure à l’existence de ce genre de comportement.
+H. Toute autre question pouvant influer sur la détermination des dépens
+[37] Je ne suis pas d’accord avec l’intimée lorsqu’elle affirme qu’il est déraisonnable d’indemniser l’appelante par suite de sa décision d’affecter au dossier plus de deux avocats.
+[38] Le juge Owen s'est prononcé sur un argument semblable dans la décision CIT Group Securities (Canada) Inc. c. La Reine, 2017 TCC 86, au paragraphe 30, en disant que ce type d’argument s’inscrivait dans le cadre des observations sur la minutie qu’il avait formulées relativement au facteur « charge de travail ». Il dit, au paragraphe 16, que « faute d’excès de zèle évident, il n’appartient pas à la Cour de remettre en question le jugement d’un avocat sur le travail à accomplir pour bien se préparer à une telle affaire ». Je partage ce point de vue.
+[39] L’appelante fait référence aux paragraphes 56, 57 et 98 de mon jugement tranchant l’appel pour appuyer sa position selon laquelle l’intimée n’aurait pas dû établir la cotisation menant à l’appel. Au paragraphe 3 de sa décision Jolly Farmer Products Inc. c. La Reine, 2008 CCI 693, le juge Boyle cite un extrait des motifs du jugement du juge en chef Bowman (dans l’affaire Jolly Farmer Products Inc. c. La Reine, 2008 CCI 409), dans lequel celui-ci met sur le compte de l’intimée une audience qu’il a considérée comme non nécessaire; cet élément est entré en ligne de compte dans la décision du juge Boyle d’adjuger des dépens en sus de ceux prévus au tarif.
+[40] De plus, l’appelante qualifie d’inexcusable le fait que l’intimée n’ait pas réussi à acquérir une compréhension suffisante de la mise en valeur et de l’exploitation des ressources, compte tenu de l’ampleur des interrogatoires auxquels elle a procédé.
+[41] Les deux arguments de l’appelante relativement à ce facteur appuient une conclusion en faveur de l’adjudication de dépens majorés.
+[42] Je suis d’accord avec l’intimée pour dire que des dépens majorés relativement aux observations de l’appelante sur les dépens ne sont pas justifiés. L’appelante a demandé une majoration importante des dépens, et l’intimée a eu peu de temps pour examiner la demande avant que les observations ne dussent être déposées.
+V. Conclusion
+[43] Ayant appliqué chacun des facteurs pertinents énoncés ci-dessus, je conclus qu’il convient d’accorder un montant forfaitaire à l’appelante.
+[44] J’accorde donc un montant forfaitaire de 1 192 513 $, lequel comprend les débours de 376 129 $. Ce montant représente environ 50 % des honoraires (sélectionnés) des avocats de 1 632 688 $, plus des débours de 376 129 $.
+Signé à Ottawa, Canada, ce 22e jour de novembre 2018.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 3e jour de février 2020.
+Erich Klein, réviseur
+RÉFÉRENCE :
+2018 CCI 235
+Nº DU DOSSIER DE LA COUR :
+2014-4359(IT)G
+INTITULÉ :
+Alta Energy Luxembourg S.A.R.L. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+[EN BLANC]
+DATE DE L’AUDIENCE :
+[EN BLANC]
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Robert J. Hogan
+DATE DE L’ORDONNANCE :
+Le 22 novembre 2018
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Warren J. A. Mitchell, c.r.
+Me Matthew G. Williams
+Me E. Rebecca Potter
+Avocats de l’intimée :
+Me Patricia Lee
+Me Christopher M. Bartlett
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Warren J. A. Mitchell, c.r.
+Me Matthew G. Williams
+Me E. Rebecca Potter
+Cabinet :
+Thorsteinssons LLP
+Bay Wellington Tower
+Bureau 3300
+181, rue Bay
+Toronto (Ontario) M5J 2T3
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)
+[1] Observations écrites de l’appelante sur les dépens, aux paragraphes 4 et 40. L’appelante demande le remboursement de 75 % des frais juridiques pour les avocats qui ont facturé plus de 200 heures relativement à l’appel. Elle demande également des honoraires d’avocats estimés à 30 000 $ pour les observations sur les dépens et 376 129,35 $ en débours.
+[2] Observations de l’intimée sur les dépens, aux paragraphes 3 et 4. L’intimée demande que l’appelante reçoive un remboursement de 30 % des frais juridiques facturés par un avocat principal et un avocat en second pour chaque étape du litige, ainsi que le remboursement des débours.
+[3] Sur la foi du paragraphe 7.2 du rapport de l’expert de l’appelante.
+[4] Cela a pour effet de réduire pour l’appelante le nombre d’heures facturables, celles-ci passant de 2 663,05 à 2 108,3 et le montant des honoraires des avocats passant de 1 632 687,83 $ à 1 196 208 $.

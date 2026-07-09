@@ -1,0 +1,187 @@
+---
+title: "Lewis v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521336/index.do"
+last_modified: "2024-10-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 127"
+citation2: ""
+neutral_citation: "2024 TCC 127"
+decision_date: "2024-10-02"
+language: "en"
+item_id: "521336"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6042
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:28:57.321000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d449dbdd66ea26b454a8f02b138ee5e809a20ed69219e009bef8487c57397a53"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lewis v. The King
+
+- Citation: 2024 TCC 127
+- Decision date: 2024-10-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6042, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lewis v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-10-22
+Neutral citation
+2024 TCC 127
+File numbers
+2020-13(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2020-13(IT)I
+BETWEEN:
+JOYCE V. LEWIS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard March 22, 2023, at Toronto, Ontario
+Before: The Honourable Justice Bruce Russell
+Appearances:
+Counsel for the Appellant:
+Karen Stephens
+Counsel for the Respondent:
+Christian Brown
+Katie Beahen
+AMENDED JUDGMENT
+The appeals of the Appellant’s reassessments of her 2012 and 2013 taxation years under the federal Income Tax Act, both raised March 21, 2019, are hereby allowed, and the two said reassessments are referred back to the Minister for reconsideration and reassessment on the bases that:
+(a) as conceded by the Respondent the Appellant did make the charitable donations as claimed for each of the 2012 and 2013 taxation years, thus entitling her to the appropriate non-refundable tax credit in respect of charitable donations in each such year;
+(b) the Appellant is entitled to deduction from income in each of the two taxation years of the amount of rental income that apparently was added to total income (according to Respondent’s counsel, Transcript, p. 110); and,
+(c) the whole without costs, due to divided success.
+This Amended Judgment is issued in substitution of the Judgment dated October 2, 2024.
+Signed at Halifax, Nova Scotia this 25th day of October 2024.
+“B. Russell”
+Russell J.
+Citation: 2024 TCC 127
+Date: 20241022
+Docket: 2020-13(IT)I
+BETWEEN:
+JOYCE V. LEWIS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Russell J.
+I. Overview: [1] The Appellant, Ms. Lewis, appeals reassessments of her 2012 and 2013 taxation years. Each of the two reassessments is presumptively “statute-barred”; i.e. raised under the federal Income Tax Act (Act) after expiry of that taxation year’s “normal reassessment period” and thus, subject to any exception, invalid.
+[2] The Respondent maintains that here an exception applies, to maintain the validity of the otherwise statute-barred reassessments. That exception is per subparagraph 152(4)(a)(i) of the Act. That provision provides that an otherwise statute-barred reassessment (i.e., a reassessment raised after passage of the normal reassessment period) is valid if it is shown that there is a misrepresentation in the pertinent tax return attributable to, inter alia, neglect or carelessness on the part of the taxpayer.
+[3] Subparagraph 152(4)(a)(i) of the Act provides, in relevant part:
+152(4): Assessment and reassessment: The Minister may at any time make a…reassessment…of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer…except that, [a]…reassessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or had committed any fraud in filing the return…
+II. Background: [4] Ms. Lewis is now an elderly lady, retired after decades working in senior care homes, initially as a healthcare aide and ultimately as a qualified personal support worker. In her childhood in Jamaica, Ms. Lewis attained a grade six education level.
+[5] Ms. Lewis’ custom has long been to engage a professional tax return preparer (commonly termed “tax preparer”) to prepare her annual income tax returns. She does not feel sufficiently knowledgeable of tax matters to accurately prepare her own returns.
+[6] Several years prior to 2012, work colleagues recommended that she engage one Leroy Mercury (LM) for this work. LM held himself out as a tax preparer. He annually prepared tax returns for a number of Ms. Lewis’ work colleagues.
+[7] Consequently, for several taxation years including her 2012 and 2013 taxation years which pertain to this appeal, Ms. Lewis engaged LM to prepare her tax returns. In or about 2016, Ms. Lewis learned that a number of LM’s clients including some of her co-workers were having trouble with Canada Revenue Agency (CRA). Ms. Lewis did not want tax trouble. She promptly ceased retaining LM as her tax preparer.
+[8] It is common ground that the appealed reassessments are presumptively statute-barred, as referred to above.
+[9] Subsection 152(3.1) of the Act provides that the “normal reassessment period” of a taxation year of an individual (as is Ms. Lewis) is the three year period commencing with the date of initial assessment.
+[10] Ms. Lewis’ 2012 and 2013 taxation years were respectively initially assessed on November 12, 2013 and November 10, 2014. Thus, the three-year normal reassessment periods for her 2012 and 2013 taxation years respectively expired on November 12, 2016 and November 10, 2017.
+[11] Both of these expiration dates well precede March 12, 2019, being the date upon which the Minister of National Revenue (Minister) raised both of the appealed reassessments. Thus, both reassessments are statute-barred, subject to the Minister’s assertion that the exception provided by subparagraph 152(4)(a)(i) applies.
+[12] The Respondent pleads at paragraph 28 of its Reply, under the heading “Reassessments beyond the normal reassessment period”, as follows:
+28. The Minister was entitled to reassess the Appellant for the 2012 and 2013 taxation years, under subsection 152(4) of the Act, as the Appellant made misrepresentations that are attributable to neglect, carelessness or wilful default or fraud, within the meaning of subsections 152(4) and 152(4.01) of the Act when she claimed the disallowed rental expenses/losses, employment expenses and charitable deductions. [underlining added]
+[13] Thus, the Respondent’s position is that misrepresentations attributable to neglect, etc. of Ms. Lewis were made, “when she claimed the disallowed rental expenses/losses, employment expenses and charitable deductions” (i.e., disallowed by the appealed reassessments).
+[14] Each of the appealed reassessments denies the three said expense claims (for rental expenses, employment expenses and charitable deductions) allowed in the initial assessments. More particularly, those three denied claims (for each year) are:
+claimed rental losses of $7,862 (2012) and $8,165 (2013), based on Ms. Lewis renting out a portion of her principal residence;
+claimed employment expenses of $8,936 (2012) and $6,452 (2013), pertaining to use by Ms. Lewis of her motor vehicle in the course of her employments; and
+claimed non-refundable tax credits in respect of charitable donations of $2,660 (2012) and $2,240 (2013) that Ms. Lewis made to her church.
+III. Issues: [15] The issue of the Appellant, Ms. Lewis, is whether subparagraph 152(4)(a)(i) applies to except these two reassessments from being statute-barred and thus invalid.
+[16] Respondent’s counsel identifies three issues, as follow, the latter being the same issue as the Appellant’s:
+was Ms. Lewis entitled to motor vehicle expense for her 2012 and 2013 taxation years;
+was Ms. Lewis entitled to rental expenses for her 2012 and 2013 taxation years; and
+was the Minister justified in reassessing each of Ms. Lewis’ 2012 and 2013 taxation years beyond the normal reassessment period?
+IV. Parties’ Positions: [17] The Respondent’s position is that the appealed reassessments are not statute‑barred because, per subparagraph 152(4)(a)(i) of the Act, “…[Ms. Lewis] the Appellant made a misrepresentation attributable to neglect when [she] claimed disallowed rental expenses and motor-vehicle expense in 2012 and 2013 respectively.” (Transcript, p. 106)
+[18] This statement of the Respondent’s position indicates that alleged subparagraph 152(4)(a)(i) misrepresentations were attributable only to “neglect” on Ms. Lewis’ part, and not also, “carelessness, wilful default or fraud”, as also specified in that provision.
+[19] The Appellant’s position is that each of the two appealed reassessments is statute-barred and therefore invalid.
+V. Concessions and Evidence: [20] At the hearing, Respondent’s counsel informed the Court that the Respondent concedes that Ms. Lewis in fact did make the charitable donations to her church as claimed in her 2012 and 2013 returns, which donations the Minister wholly denied in the appealed reassessments. Thus, the Minister belatedly accepted that one of its three bases for asserting misrepresentations, referenced above, was wrong.
+[21] I note that when a reassessment is raised beyond the normal reassessment period, obviously significant time has past (more than is “normal”) for taxpayers to still be able to locate original documentation confirming questioned transactions.
+[22] As well, Respondent’s counsel conceded that payments of certain household expenses, claimed by Ms. Lewis in respect of her rental expense claim, but denied by the Minister as having been paid, in fact had been paid by Ms. Lewis.
+[23] These now conceded property payments that Ms. Lewis had claimed for the 2012 taxation year and the Minister had denied were, $1,789 in property tax, $2,330 in Rogers bills for cable and internet, $2,397 in utilities and $694.12 in insurance. The expenses for the 2013 taxation year, likewise conceded, were $1,789 in property tax, $2,080 in Rogers bills, $3,107.76 in utilities, $712.80 in insurance and $1,730 in maintenance fees (Transcript, p. 5).
+[24] In the Respondent’s Reply, there is no reference to non-review by Ms. Lewis of her tax returns prepared by LM before she signed same. It is, however, pleaded at subparagraph 14(f) of the Reply that:
+the Appellant knew, or should have known, that the information on [sic] her tax returns was incorrect as she knew she had not made the disallowed employment expenses and charitable donations and she knew she had not incurred the claimed rental expenses/losses; [underlining added]
+[25] Non-review of her returns before signing was cited by Respondent’s counsel in closing argument, as supporting that misrepresentations in Ms. Lewis’ returns were attributable to neglect on her part.
+[26] In cross-examination, Ms. Lewis was asked, “Did you review your 2012 tax filing before it was submitted to Canada Revenue Agency?” She answered, referring to LM as “he”:
+No. He does it on his computer, and it goes — goes down, and he picks them up, he puts them together, and he put a little X, and he said, ‘Sign your name here’, because if I look at it, I wouldn’t understand anything anyway, so… (Transcript, p. 17)
+[27] Similarly, regarding her 2013 return, Ms. Lewis was asked, “Did you review your 2013 tax filing before it was submitted?” She answered, “No”. (Transcript, p.20)
+VI. Analysis: [28] In The Queen v. Estate of Pasquale Paletta, 2022 FCA 86, paragraph 65, the Federal Court of Appeal observed re “neglect” per subparagraph 152(4)(a)(i) (set out above):
+65. Neglect under subparagraph 152(4)(a)(i) refers to a lack of reasonable care. The duty of reasonable care is met if the taxpayer has “thoughtfully, deliberately and carefully assesse[d] the situation and file[d] on what he believed bona fide to be the proper method”; in other words, “in a manner that the taxpayer truly believe[d] to be correct”…The Court may also draw inferences of negligence from an omission to verify the validity of a taxpayer's belief...
+[29] In Victor Gorev v. The Queen, 2017 TCC 85 at paragraph 52, my colleague Sommerfeldt J. noted that, “a failure to review a tax return before signing it may constitute neglect or carelessness for the purposes of subparagraph 152(4)(a)(i)”. He wrote:
+52. Turning to the question of whether the misrepresentation was attributable to neglect or carelessness, the question to ask is whether the care exercised by Mr. Gorev, in filing his tax returns for 2006, 2007 and 2008, was that of a wise and prudent person. [Angus v. The Queen, [1999] 1 CTC 60, 98 DTC 6661 (FCA), para.7] There was relatively little evidence presented as to whether the misrepresentation was attributable to neglect or carelessness. While the evidence was not precisely clear it appears that Mr. Gorev used an accountant to prepare his tax returns and that Ms. Cherenkova instructed and provided documents to the accountant. Mr. Gorev stated in cross-examination that Ms. Cherenkova made several mistakes in respect of the tax returns. He also seemed to indicate that he signed the returns without first reviewing them. A wise and prudent person would review his or her tax return before signing it. In other words, a failure to review a tax return before signing it may constitute neglect or carelessness for the purposes of subparagraph 152(4)(a)(i)… [underlining added]
+[30] Also, the onus is on the Respondent Crown to prove neglect (Deyab, 2020 FCA 222, paragraph 25; leave to appeal denied 2021 CarswellNat 1234 (SCC). This onus, “is a real burden of proof, not a mere formality” (Chaumont v. R., 2009 TCC 493). The Respondent’s Reply must plead the facts that are asserted as being misrepresentations (Mont‑Bruno, 2017 CarswellNat 3165 (TCC) paragraph 19).
+[31] A notable aspect of this matter is the assertion of the Appellant Ms. Lewis’ daughter-representative that this matter came about because the Minister was looking into returns that LM had prepared for his various clients, including Ms. Lewis.
+[32] In the Reply the Respondent pleaded (paragraph 5), that “the Attorney General has no knowledge if the individual identified as ‘Leroy’ was investigated and charged by the CRA, thereby triggering an audit of all of his clients…”.
+[33] Nevertheless, the investigation of Leroy (i.e., LM), that the Respondent pleaded no knowledge of, was referenced in testimony of a CRA officer at the hearing. Mr. T. Rahman, in 2019 a CRA Appeals officer, called by the Appellant Ms. Lewis’ daughter-representative to testify, stated that he,
+…was not part of this criminal investigation department’s investigation but I did review this assessment after the normal reassessment period recommendation report, and I did review this report on objection. Based on all of my knowledge, the CID determined that the appellant’s tax preparer was involved in making unsubstantiated claims, and also he did forge receipts to lure taxes payable for the taxpayers… (Transcript, p. 72)
+[34] The Minister assumed, regarding the rental claim, that, “the property expenses that were claimed, including renovations, maintenance and repairs, were not incurred” (Reply, paragraph 13(e)).
+[35] These conceded expenses covered a number of the expenses claimed for the two years.
+[36] Ms. Lewis, the Appellant, contested neither the Minister’s denial of employment expense deductions nor denial of rental expense deductions.
+[37] LM prepared the subject two returns for Ms. Lewis, neither of which were reviewed by Ms. Lewis before signing and returning same to LM for submission to CRA.
+[38] In the 2012 return, 50% of $5,650, i.e. $2,825, was claimed for “renovation basement apt” in her “Statement of Real Estate Rentals”.
+[39] Regarding this, in cross-examination (Transcript, p. 36), Ms. Lewis was asked if a claim of $5,650 in renovations done in her basement in 2012 was correct. Ms. Lewis answered, “I did not tell him [i.e., LM] that.”
+[40] Thus, this indicates that at least one misrepresentation was made in the 2012 return. I believe that Ms. Lewis would have recognized this as a wrong statement had she reviewed her 2012 return before signing it, and letting it be submitted.
+[41] In both the 2012 and 2013 returns (Ex. R-1, tabs 2 and 3), mileage was reported for seeking employment expenses. In cross-examination, Ms. Lewis was asked if she knew the “tax rules that allow motor-vehicle expenses for an employee to claim.” She said she did not.
+[42] She said the mileage figures were her tax preparer’s figures not hers. She said he had asked her for mileage figures but she could not say; only being able to state the amount of time it would take her to drive to work, etc.
+[43] At subparagraph 15(g) of the Reply, it is pleaded as a “material fact” that Ms. Lewis “did not drive 100% of the total distance driven during the 2012 and 2013 taxation years for employment-related purposes, thereby not accounting for any personal use of any motor vehicle she drove in those years”.
+[44] In both her 2012 and 2013 tax returns, she is shown as stating that all (100%) of her total kilometres driven in her car for the year, were “to earn employment income”.
+[45] This is highly questionable, for her not to have driven her vehicle in the course of each year at least slightly for personal purposes – for example to visit family or friends, to attend church and or to purchase groceries.
+[46] I accept that these also are misrepresentations, in both of Ms. Lewis’ 2012 and 2013 returns. Additionally, I accept that had Ms. Lewis reviewed the returns she would have noted these two misrepresentations.
+[47] Thus, I conclude that the above identified misrepresentations (in the 2012 and 2013 returns) were attributable to neglect on the part of Ms. Lewis, the neglect being her not having reviewed either of the subject returns before signing and filing, thus triggering application of subparagraph 152(4)(a)(i) as claimed by the Respondent.
+VII. Conclusion: [48] The appeal of each of the two reassessments will be allowed. They are not statute-barred and thus invalid, because misrepresentations were made in the 2012 and 2013 years attributable to neglect of the Appellant insofar as she did not review her returns before signing and remitting same for filing.
+[49] Additionally, the two appealed reassessments will be referred back to the Minister for reconsideration and reassessment on the bases that: (a) as conceded by the Respondent the Appellant did make the charitable donations as claimed for each of the 2012 and 2013 taxation years that the Minister had denied, thus entitling her to the appropriate non‑refundable tax credit in respect of charitable donations in each year; and (b) the Appellant is entitled to deduction from income in each of the two taxation years of the amount of rental income that apparently had been added to total income (according to Respondent’s counsel, Transcript, p. 110) had been added to total income.
+These Amended Reasons for Judgment are issued in substitution of the Reasons for Judgment dated October 2, 2024 in order to correct the words and figures underscored in paragraph 49 hereof.
+Signed at Halifax, Nova Scotia, this 25th day of October 2024.
+“B. Russell”
+Russell J.
+CITATION:
+2024 TCC 127
+COURT FILE NO.:
+2020-13(IT)I
+STYLE OF CAUSE:
+JOYCE V LEWIS AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 22, 2023
+AMENDED REASONS FOR JUDGMENT BY:
+The Honourable Justice Bruce Russell
+DATE OF AMENDED JUDGMENT:
+October 25, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Karen Stephens
+Counsel for the Respondent:
+Christian Brown
+Katie Beahen
+COUNSEL OF RECORD:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

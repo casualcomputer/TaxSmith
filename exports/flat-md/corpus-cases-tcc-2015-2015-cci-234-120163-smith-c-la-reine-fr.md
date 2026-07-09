@@ -1,0 +1,157 @@
+---
+title: "Smith c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/120163/index.do"
+last_modified: "2015-11-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 234"
+citation2: ""
+neutral_citation: "2015 CCI 234"
+decision_date: "2015-11-10"
+language: "fr"
+item_id: "120163"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2719
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:18:43.650000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "22f27b0ac6e652104308cd3e70a3f78840eef83b9c4cb309cae20dcb35f90f90"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Smith c. La Reine
+
+- Citation: 2015 CCI 234
+- Decision date: 2015-11-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2719, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Smith c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-11-10
+Référence neutre
+2015 CCI 234
+Numéro de dossier
+2014-2633(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-2633(IT)I
+ENTRE :
+FREDERICK J.E. SMITH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel fixé pour audition le 31 août 2015, à Toronto (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+Personne n’a comparu
+Avocats de l’intimée :
+Me Lesley L’Heureux
+Me John Chapman
+ORDONNANCE
+Attendu que l’appelant n’était pas présent à l’audition de l’appel, et ce, même si le lieu, la date et l’heure lui avaient été dûment signifiés;
+Attendu que personne n’a comparu pour le compte de l’appelant;
+Vu la requête présentée par l’avocat de l’intimée en vue d’obtenir le rejet de l’appel pour défaut de poursuite;
+Par les motifs prononcés à l’audience, LA COUR :
+Accueille la requête de l’intimée et rejette l’appel concernant la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008, et adjuge les dépens de 625 $ à l’intimée.
+Signé à Ottawa, Canada, ce 1er jour d’octobre 2015.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 27e jour de janvier 2016.
+François Brunet, réviseur
+Dossier : 2014-2633(IT)I
+ENTRE :
+FREDERICK J.E. SMITH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+VERSION RÉVISÉE DE LA TRANSCRIPTION DES MOTIFS DE L’ORDONNANCE RENDUS ORALEMENT
+Je requiers que la version révisée de la transcription des motifs de l’ordonnance prononcés à l’audience à Toronto (Ontario) le 31 août 2015 soit versée au dossier. J’ai révisé la transcription (certifiée par le sténographe judiciaire) par souci de stylistique, de clarté et d’exactitude afin d’y apporter quelques corrections mineures. Je n’y ai apporté aucune modification de fond.
+Signé à Ottawa, Canada, ce 1er jour d’octobre 2015.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 27e jour de janvier 2016.
+François Brunet, réviseur
+Référence : 2015 CCI 234
+Date : 20151001
+Dossier : 2014-2633(IT)I
+ENTRE :
+FREDERICK J.E. SMITH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+(Appel fixé pour audition et décision rendue oralement à l’audience le 31 août 2015, à Toronto (Ontario).)
+Le juge Boyle
+[1] L’avocat de l’intimée a introduit une requête en rejet aux termes du paragraphe 18(21) de la Loi sur la Cour canadienne de l’impôt, étant donné que M. Smith a encore une fois omis de se présenter à l’audience à la date prévue.
+[2] M. Smith ne s’est pas présenté à une audience antérieure qui avait été fixée au mois de février de cette année. À ce moment‑là, M. Smith a avisé l’avocat de la Couronne une heure avant la tenue de l’audience qu’un membre de sa famille était malade. Le juge Pizzitelli a alors rejeté la requête en rejet présentée par la Couronne, a ajourné l’affaire sine die et a demandé qu’une date d’audience ultérieure soit fixée rapidement et, plus important encore, de manière péremptoire.
+[3] La nouvelle adresse de M. Smith figurait dans l’ordonnance antérieure du juge Pizzitelli; pourtant, l’avis d’audience de ce jour, qui avait été envoyé par courrier recommandé, a été retourné à la Cour sans avoir été réclamé, et la Cour l’a donc envoyé de nouveau par courrier ordinaire. La lettre de l’avocat de l’intimée du 10 août renferme des renseignements de Postes Canada concernant le suivi, qui montrent que l’avis a bien été délivré à cette adresse.
+[4] Je crois comprendre que M. Smith n’a pas fourni à l’Agence du revenu du Canada des documents à l’appui de sa demande de déduction pour perte locative pour cette année‑là à l’étape de l’opposition ni lorsque l’avocat de l’intimée les lui a demandés pour la préparation de l’audience de février. Il n’a non plus fourni nul document pour l’audience d’aujourd’hui.
+[5] Je suppose que M. Smith a agi de bonne foi lorsqu’il a déposé son avis d’appel et commencé la présente procédure. Toutefois, il semble qu’à un certain moment, il a décidé de ne pas poursuivre la procédure avec la diligence requise. Il n’a pas communiqué avec la Cour en ce qui concerne l’audience d’aujourd’hui, ni par écrit ni par courriel; par ailleurs, un simple appel téléphonique aurait suffi. Il a simplement envoyé un courriel à l’avocat de la Couronne vendredi dernier, étant entendu qu’aujourd’hui c’est lundi, pour aviser qu’il ne se présentera pas à l’audience et qu’il avait besoin d’un ajournement.
+[6] Je ne vois, dans le cas de M. Smith, aucune raison ni aucune circonstance qui justifierait un report de l’audience à une autre date. L’inaction de M. Smith a donné lieu à un gaspillage des deniers publics et du temps de la Cour et de l’intimée, puisqu’il a fait défaut aux dates d’audience qui avaient été prévues. Elle constitue un abus de la procédure de la Cour, et a aussi retardé inutilement le règlement prompt et efficace de l’appel, que M. Smith semble ne pas poursuivre, et il doit par conséquent être rejeté.
+[7] L’appel est rejeté conformément à la requête de l’avocat de l’intimée, et les dépens sont fixés à 625 $ en application du paragraphe 10(1) des Règles de la Cour canadienne de l’impôt (procédure informelle).
+Signé à Ottawa, Canada, ce 1er jour d’octobre 2015.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+Ce 27e jour de janvier 2016.
+François Brunet, réviseur
+RÉFÉRENCE :
+2015 CCI 234
+NO DU DOSSIER DE LA COUR :
+2014-2633(IT)I
+INTITULÉ :
+FREDERICK J.E. SMITH et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 31 août 2015
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Patrick Boyle
+DATE DE L’ORDONNANCE :
+Le 1er octobre 2015
+COMPARUTIONS :
+Pour l’appelant :
+Personne n’a comparu
+Avocats de l’intimée :
+Me Lesley L’Heureux
+Me John Chapman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa (Canada)

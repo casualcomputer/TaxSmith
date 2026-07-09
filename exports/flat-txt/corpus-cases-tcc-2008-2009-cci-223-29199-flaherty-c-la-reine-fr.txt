@@ -1,0 +1,108 @@
+Title: Flaherty c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29199/index.do
+Corpus path: corpus/cases/tcc/2008/2009-cci-223-29199-flaherty-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-09-11
+
+# Flaherty c. La Reine
+
+- Citation: 2009 CCI 223
+- Decision date: 2008-09-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6708, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Flaherty c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-11
+Référence neutre
+2009 CCI 223
+Numéro de dossier
+2006-2000(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2000(IT)I
+ENTRE :
+JUDITH FLAHERTY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+L’honorable juge Patrick Boyle
+____________________________________________________________________
+ORDONNANCE
+Vu les observations présentées par les parties,
+La Cour fixe à 1 495 $ les dépens payables à l’appelante par l’intimée, conformément aux motifs du jugement rendus oralement le 11 septembre 2008 et conformément aux motifs de l’ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 24e jour d’avril 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 9e jour de juin 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 223
+Date : 20090424
+Dossier : 2006-2000(IT)I
+ENTRE :
+JUDITH FLAHERTY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DE L’ORDONNANCE
+Le juge Boyle
+[1] La présente ordonnance de fixation de dépens se rapporte à l’appel relatif à l’impôt sur le revenu instruit sous le régime de la procédure informelle, que j’ai entendu à Hamilton en septembre 2008. J’ai rendu mes motifs oralement le 11 septembre 2008, puis signé le jugement le 22 septembre 2008. Dans mes motifs et dans mon jugement, j’ai accordé les dépens à la contribuable, qui avait eu gain de cause.
+[2] Après avoir prononcé les motifs du jugement, j’ai reçu des observations des parties au sujet des dépens. Les parties m’ont demandé de prendre ma décision en délibéré pour voir si elles pouvaient réussir à s’entendre sur les dépens dont je devais fixer le montant. Quoique les avocats des parties aient réussi à s’entendre sur le tarif pour l’avocat de la contribuable, ils n’ont pas réussi à résoudre la question des honoraires versés à un comptable pour des rapports comptables ayant servi à préparer l’appel. La Couronne était réticente parce qu’elle croyait que ces honoraires avaient seulement trait à l’appel devant la Cour et non à l’opposition devant l’ARC. De plus, la seule facture reçue à ce moment‑là ne portait pas sur la totalité des services fournis jusqu’à la tenue de l’audience. Compte tenu des circonstances, il a été convenu que les parties allaient chercher à finaliser leur entente après avoir reçu la facture finale du comptable, faute de quoi elles me fourniraient des observations écrites pour que je tranche la question.
+[3] Même après avoir reçu la facture finale du comptable, les parties n’ont pas réussi à s’entendre, et l’accord qu’elles avaient conclu au sujet des honoraires d’avocat en septembre dernier ne tenait plus. J’ai depuis reçu des observations écrites des deux parties.
+[4] Pour ce qui est des honoraires d’avocats, les parties n’ont pas pu s’entendre pour savoir si, dans le cas d’un procès d’une journée où les motifs sont rendus plus tard, le tarif permet d’adjuger des dépens pour deux ou pour trois demi-journées. Aucun élément de jurisprudence à ce sujet n’a été cité. En l’espèce, je crois qu’il est juste et raisonnable d’accorder des dépens pour les honoraires d’avocats pour deux demi‑journées. Cela ne veut pas dire que dans d’autres circonstances, la présence à l’audience où le juge rendrait ses motifs oralement n’aurait pas d’influence sur la fixation des dépens; je ne me prononce pas sur cette question‑là. Je fixe donc les honoraires d’avocats à inclure dans les dépens à 1 185 $.
+[5] Les honoraires du comptable, qui dépassaient 5 000 $, avaient été engagés dans le cadre de la préparation de l’appel devant la Cour. Il serait déraisonnable de permettre d’inclure la totalité de cette somme‑là à titre de débours. La somme dépasse largement les honoraires d’avocats qui sont normalement accordés pour les appels instruits sous le régime de la procédure informelle, et ce, même en incluant la préparation et la gestion de l’appel. En l’espèce, compte tenu des circonstances, je crois qu’il est juste et raisonnable d’accorder un montant égal aux honoraires d’avocats engagés pour la préparation de l’audience à l’égard de ces débours, c’est‑à‑dire 250 $.
+[6] Bien que la totalité de la somme payée par Mme Flaherty pour les services du comptable ne soit pas reflétée dans les dépens que j’ai adjugés, Mme Flaherty devrait chercher à savoir si la totalité des honoraires du comptable peut être déduite dans le calcul de ses revenus en vertu de l’alinéa 60o) de la Loi de l’impôt sur le revenu.
+[7] L’avocat de la Couronne a soutenu qu’en l’espèce, je ne peux pas rendre d’ordonnance de fixation de dépens après avoir rendu mon jugement et que je dois suivre la pratique habituelle de la Cour, c’est‑à‑dire renvoyer la question de la fixation des dépens au greffier, sous réserve d’un éventuel appel à l’égard de la décision de celui‑ci. Malgré tout le respect que je dois à l’avocat de la Couronne, je ne suis pas de son avis. Ma position, voulant que la question des dépens puisse être réglée après que le jugement tranchant un appel instruit sous le régime de la procédure informelle ait été rendu, est appuyée par la décision de la Cour dans Paget v. HMQ, 2000 DTC 3566. Bien que la question des dépens puisse être entièrement tranchée après le jugement, comme c’est le cas dans Paget, en l’espèce, j’ai accordé les dépens à la contribuable et je me suis réservé le droit de recevoir des observations écrites sur les dépens plus tard. Pour rendre la présente ordonnance, je n’ai pas considéré de nouveaux éléments de preuve et je n’ai pas reconsidéré une décision que j’avais déjà prise. Je n’ai pas modifié la substance ou les motifs de mon jugement. À l’audience où j’ai prononcé les motifs de mon jugement, c’est la Couronne qui a demandé à ce que les dépens soient fixés de cette façon‑là. Dans les circonstances, il me semble logique que la question des dépens soit tranchée par le juge qui a entendu et jugé l’affaire.
+[8] Je signerai donc une ordonnance fixant les dépens accordés à la contribuable pour le présent appel à 1 495 $. Ce montant inclut une somme supplémentaire de 60 $ pour le processus de fixation des dépens après jugement.
+Signé à Ottawa, Canada, ce 24e jour d’avril 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 9e jour de juin 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 223
+No DU DOSSIER DE LA COUR :
+2006‑2000(IT)I
+INTITULÉ :
+Judith Flaherty et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATES DE L’AUDIENCE :
+Les 9 et 11 septembre 2008
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Patrick Boyle
+DATE DE L’ORDONNANCE :
+Le 24 avril 2009
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Winfield Corcoran
+Avocat de l’intimée :
+Me Laurent Bateman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Winfield Corcoran
+Cabinet :
+Winfield Edward Corcoran
+Hamilton (Ontario)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

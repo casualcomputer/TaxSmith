@@ -1,0 +1,246 @@
+Title: Diep c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27965/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-368-27965-diep-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-05-21
+
+# Diep c. La Reine
+
+- Citation: 2003 CCI 368
+- Decision date: 2003-05-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1813, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Diep c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-21
+Référence neutre
+2003 CCI 368
+Numéro de dossier
+2000-3207(IT)I, 2002-2647(GST)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Date: 20030115
+Dossier: 2002-2647(GST)I
+ENTRE :
+JACQUES DIEP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Jacques Diep (2002-3207(IT)I) à Vancouver (Colombie-Britannique).
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Représentant de l'appelant :
+Fareed Raza
+Avocate de l’intimée :
+Me Nadine Taylor Pickering
+_______________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 9 octobre 2001 pour la période du 1er janvier 1998 au 31 décembre 1999 est admis, et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations selon les motifs du jugement ci-joints.
+Signé à Saskatoon (Saskatchewan), ce 15e jour de janvier 2003.
+« D. W. Beaubier »
+J.C.C.I.
+Traduction certifiée conforme
+ce 3e jour de septembre 2004.
+Mario Lagacé, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Date: 20030115
+Dossier: 2002-3207(IT)I
+ENTRE :
+JACQUES DIEP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Jacques Diep (2002-2647(GST)I) à Vancouver (Colombie-Britannique).
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Représentant de l'appelant :
+Fareed Raza
+Avocate de l’intimée :
+Me Nadine Taylor Pickering
+_______________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998 et 1999 sont admis et les affaires sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations selon les motifs du jugement ci-joints.
+Signé à Saskatoon (Saskatchewan), ce 15e jour de janvier 2003.
+« D. W. Beaubier »
+J.C.C.I.
+Traduction certifiée conforme
+ce 3e jour de septembre 2004.
+Mario Lagacé, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Date: 20030115
+Dossier: 2002-2647(GST)I
+2000-3207(IT)I
+ENTRE :
+JACQUES DIEP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Beaubier, C.C.I.
+[1] Ces appels sous le régime de la procédure informelle ont été entendus sur preuve commune à Vancouver (Colombie-Britannique), le 10 janvier 2003. L'appelant a témoigné. Le représentant de l'appelante, Fareed Raza, a aussi témoigné. Le vérificateur de l'intimée, Dal Jawandha, a témoigné pour l'intimée.
+[2] Les détails de la question en litige de l'appel no 2002-2647(GST)I portent sur la taxe sur les produits et services (la « TPS ») et sont énoncés aux paragraphes 3, 4, 7 et 8 de la Réponse à l'avis d'appel. Ils se lisent comme suit :
+[traduction]
+3. L’appelant a produit des déclarations de taxe sur les produits et services (« TPS ») pour la période allant du 1er janvier 1998 au 31 décembre 1999 et a demandé un remboursement net de 3 285,28 $ (voir l’annexe A ci-jointe).
+4. Par un avis de cotisation daté du 9 octobre 2001, le ministre du Revenu national (le « ministre ») a imposé à l’appelant 1 326,16 $ au titre de la TPS supplémentaire, 199,45 $ au titre de l’intérêt et 231,83 $ au titre des pénalités (la « cotisation »).
+7. Dans sa cotisation à l’égard de l’appelant, le ministre s’est fondé sur les hypothèses suivantes :
+a) les faits admis et énoncés précédemment;
+b) l’appelant était inscrit à titre de propriétaire unique en vertu de la Partie IX de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E-15, dans sa forme modifiée (la « Loi »), en vigueur le 13 avril 1994, et a reçu le numéro d’inscription 137929964 aux fins de la TPS;
+c) l’appelant est tenu de verser la TPS nette tous les trimestres;
+d) l’appelant est conducteur de service de messagerie pour Van City Courier Service Inc.;
+e) l’appelant a demandé des crédits de taxe sur les intrants (« CTI ») de 3 285,28 $ durant la période allant du 1er janvier 1998 au 31 décembre 1999 (voir l’annexe A ci-jointe);
+f) l’appelant a demandé des CTI de 1 326,16 $ en trop pour la période allant du 1er janvier 1998 au 31 décembre 1999; et
+g) l’appelant n’a pas fourni suffisamment de documents pour justifier des CTI admissibles supplémentaires pour la période en question.
+B. QUESTIONS EN LITIGE
+8. La question est de savoir si l’appelant a droit à des CTI supplémentaires pour la période en question.
+[3] En substance, le litige en matière de TPS porte sur la question de savoir si, du 1er janvier 1998 au 31 décembre 1999, l’appelant a demandé une somme de 1 326,16 $ en trop au titre de crédits de taxe sur les intrants (« CTI »). La décision relative à la TPS découlera mathématiquement de la décision prise dans l’appel en matière d’impôt sur le revenu.
+[4] Les détails de l'appel interjeté en matière d'impôt sur le revenu numéro 2002-3207(IT)I sont énoncés aux paragraphes 3, 5, 8 et 9 de la réponse de l'avis d'appel. Ils se lisent comme suit :
+[traduction]
+3. Dans le calcul de son revenu pour les années d’imposition 1998 et 1999, l’appelant a déclaré des revenus d’entreprise nets de 11 051,27 $ et de 14 924,72 $, selon l’annexe A ci-jointe.
+[...]
+5. Le 20 novembre 2001, le ministre a établi une nouvelle cotisation à l’égard de l’appelant pour les années d’imposition 1998 et 1999 et a révisé le revenu d’entreprise net de 11 051,27 $ et 14 924,72 $ à 27 893,47 $ et 31 878,92 $ respectivement, selon l’annexe A ci-jointe.
+[...]
+8. Dans cette nouvelle cotisation, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) les faits tels qu’admis et énoncés précédemment;
+b) durant toutes les époques en cause, l’appelant travaillait pour son propre compte comme conducteur de véhicule de messagerie chez VanCity Courier Service Inc. (« VanCity Courier »);
+c) l’exercice financier de l’entreprise de messagerie de l’appelant se termine à la fin de l’année civile;
+d) l’appelant était responsable de cueillir et de livrer des colis et des lettres, mais il ne s’occupait pas de la perception des paiements pour les services rendus;
+e) VanCity Courier s’occupait entièrement de la facturation et de la perception;
+f) VanCity Courier payait l’appelant à commission;
+g) en 1998 et 1999, l’appelant a tiré un revenu de commissions de son travail indépendant chez VanCity Courier de 31 875,32 $ et 35 976,34 $ respectivement, avant déduction des dépenses;
+h) l’appelant a uniquement le droit de déduire des dépenses de 3 981,85 $ et 4 097,42 $ de son revenu de commissions touché chez VanCity Courier pour les années d’imposition 1998 et 1999 respectivement, selon l’annexe A ci-jointe;
+i) l’appelant n’a pas fourni de pièces justificatives à l’appui du fait que les montants excédentaires aux montants qui ont été admis, le cas échéant, ont été engagés afin de tirer un revenu de son entreprise de messagerie et qu’il ne s’agissait pas de dépenses personnelles pour les années d’imposition 1998 et 1999;
+j) l’appelant n’a pas tenu de livre de bord pour justifier sa demande de déduction de frais afférents à l’usage commercial d’une automobile;
+k) l’appelant n’a pas concilié les frais de location liés à son entreprise de messagerie pour les années d’imposition 1998 et 1999;
+l) l’appelant n’a pas fourni un journal de divertissements à l’appui de sa demande de déduction de dépenses pour repas et divertissements pour les années d’imposition 1998 et 1999;
+m) l’appelant n’a pas produit de pièces justificatives à l’égard du coût en capital des biens relativement à la déduction pour amortissement demandée pour les années d’imposition 1998 et 1999; et
+n) les dépenses excédentaires aux montants admis par le ministre et dont la déduction est demandée n’ont pas été engagées dans le but de gagner ou de produire un revenu d’entreprise, et il s’agissait plutôt de dépenses personnelles ou de frais de subsistance.
+B. QUESTIONS EN LITIGE
+9. Les questions à trancher sont de savoir si l’appelant a droit à :
+a) la déduction des dépenses excédentaires aux montants admis par le ministre; et
+b) la déduction pour amortissement telle que demandée.
+[5] Ainsi, pour les années civiles 1998 et 1999, il y a des différends portant sur les dépenses et la déduction pour amortissement.
+[6] Toutes les hypothèses dans les appels en matière d’impôt sur le revenu, sauf celles des alinéas 8h) et 8i), ont été confirmées par la preuve. Quant à l’alinéa 8l), l’appelant avait des bordereaux de livraison pour son entreprise de messagerie qu’il remettait à VanCity Courier afin d’être payé.
+[7] L’annexe A de la réponse à l’avis d’appel en matière d’impôt sur le revenu donne un aperçu détaillé de la cotisation. L’intimée a fait les concessions suivantes dans ces appels :
+1998
+1999
+Frais de bureau
+209,75 $
+Fournitures
+1 421,00 $
+DPA
+892,54 $
+(fondé sur une portion attribuable à l’entreprise de 60 % des dépenses)
+937,00 $
+Véhicule à moteur (carburant)
+266,83 $
+(fondé sur une portion attribuable à l’entreprise de 60 % des dépenses)
+1 996,00 $
+[8] L’appelant a tout simplement donné une boîte contenant tous ses reçus à son comptable, « Somjee Valough, conseiller fiscal ». Le comptable a préparé et produit les déclarations de revenu et il a demandé la déduction d’un nombre considérable de fausses dépenses sans preuve à l’appui. L’appelant est un homme réservé et plutôt simple qui s’en est entièrement remis à son comptable pour qu’il fasse ce qui convient. Ce n’est pas ce que le comptable a fait et l’appelant n’a pas vu la différence. À la Cour, il se fiait entièrement à son représentant et il était évident qu’il ne comprenait pas tout. Il était parfaitement clair qu’il ne comprenait pas le sens de ce qui se passait, sauf qu’il s’agissait de payer plus d’impôt.
+[9] La Cour estime que la seule question qui n’a pas été tranchée en faveur de l’intimée après les concessions qui ont été faites concerne le pourcentage relatif à l’usage commercial de l’unique véhicule de l’appelant, une Metro 1997 à quatre portes. Le vérificateur a établi l’usage commercial à 5/7 en se fondant sur une semaine de travail de cinq jours, ce qui donnait un pourcentage de 71 %. Il a ensuite réduit ce pourcentage de 11 %, le faisant passer à 60 %, en se fondant sur l’usage personnel de l’appelant, de sa femme (qui ne conduit pas) et de leurs deux jeunes enfants. Toutefois, l’appelant a témoigné qu’il travaillait également pour son entreprise de messagerie en moyenne un demi-jour sur deux le samedi ou le dimanche, chaque weekend en alternance. Nous le croyons. Nous croyons également son témoignage selon lequel il travaillait en semaine de 6 h 45 à 17 h 30 ou 19 h. C’est pourquoi la Cour considère que l’usage personnel de la Metro les soirs de semaine était minime ou inexistant et qu’il existait un certain usage commercial les weekends. Par conséquent, la Cour conclut que l’usage commercial du véhicule est de l’ordre de 71 % plutôt que de 60 %.
+[10] Les appels sont déférés au ministre du Revenu national pour nouvel examen et nouvelles cotisations, conformément aux présents motifs concernant l'impôt sur le revenu, la « TPS » et les pénalités.
+[11] Compte tenu de l’évidente naïveté de l’appelant relativement à ce qu’il avait le droit de déduire, du fait qu’il était nécessaire pour lui d’avoir recours à un comptable et qu’il est clair que c’est ce qu’il a fait, la Cour recommande qu’il fasse une demande en vertu du dossier Équité afin d’être libéré de son obligation de payer l’intérêt qui peut être exigé de lui dans ces cotisations. Il est un père de famille disposant d’un faible revenu et de très peu de moyens.
+[12] Finalement, il est également clair que le comptable de l'appelant a gonflé la demande de déductions sans fondement. Malgré le fait que l'appelant ne comprenait pas cela, tout comptable qui utilise le titre de « conseiller fiscal », comme l’a fait le comptable de l'appelant, en a connaissance. D’après la preuve produite devant la Cour, le comptable devrait être responsable pour les pénalités que l'appelant peut être tenu de payer.
+Signé à Saskatoon (Saskatchewan), ce 15e jour de janvier 2003.
+« D. W. Beaubier »
+J.C.C.I.
+Traduction certifiée conforme
+ce 3e jour de septembre 2004.
+Mario Lagacé, réviseur
+ANNEXE A
+Jacques Diep – Cour canadienne de l’impôt, appel no 2002 - 3207(IT)I
+Sommaire du revenu d’entreprise déclaré et révisé relativement à
+l’entreprise de messagerie de l’appelant pour les années d’imposition 1998 et 1999.
+1998 1999
+Déclaré
+Révisé après
+vérification
+Déclaré
+Révisé après
+vérification
+Commissions
+31 875,32 $
+31 875,32 $
+35 976,34 $
+35 976,34 $
+Moins : dépenses
+Taxe d’affaires et droits
+25,00
+25,00
+25,00
+25,00
+Intérêt
+189,45
+0,00
+s.o.
+s.o.
+Repas/divertissements
+892,68
+0,00
+771,18
+0,00
+Véhicule à moteur
+11 951,75
+1 482,73
+12 056,93
+1 555,78
+Frais de bureau
+s.o.
+s.o.
+235,49
+0,00
+Fournitures
+304,56
+0,00
+s.o.
+s.o.
+Frais juridiques/comptables
+270,00
+270,00
+400,00
+400,00
+Loyer
+2 995,00
+0,00
+3 200,00
+0,00
+Autres dépenses
+3 178,81
+2 204,12*
+2 713,99
+2 116,64*
+DPA – catég. 10
+1 016,80
+0,00
+1 649,03
+0,00
+Déductions totales
+20 824,05 $
+3 981,85 $
+21 051,62 $
+4 097,42 $
+Revenu d’entreprise net
+11 051,27 $
+27 893,47 $
+14 924,72 $
+31 878,92 $
+Remarque : * Les dépenses refusées comprennent les sommes engagées pour les vêtements et les chaussures de travail de 974,69 $ et 587,49 $ pour les années d’imposition 1998 et 1999 respectivement.

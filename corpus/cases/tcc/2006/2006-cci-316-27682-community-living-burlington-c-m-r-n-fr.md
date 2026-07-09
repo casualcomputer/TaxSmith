@@ -1,0 +1,171 @@
+---
+title: "Community Living Burlington c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27682/index.do"
+last_modified: "2006-06-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 316"
+citation2: ""
+neutral_citation: "2006 CCI 316"
+decision_date: "2006-06-02"
+language: "fr"
+item_id: "27682"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 502
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:34:27.234000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "40e2ea92fc6eec1336a55a24021cf3f238a8c31fa68e866fb7fbbc7244c44721"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Community Living Burlington c. M.R.N.
+
+- Citation: 2006 CCI 316
+- Decision date: 2006-06-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 502, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Community Living Burlington c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-02
+Référence neutre
+2006 CCI 316
+Numéro de dossier
+2004-3214(EI), 2004-3215(CPP)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2004-3214(EI)
+2004-3215(CPP)
+ENTRE :
+COMMUNITY LIVING BURLINGTON (ANCIENNEMENT BURLINGTON ASSOCIATION FOR THE INTELLECTUALLY HANDICAPPED),
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+________________________________________________________________
+Appels entendus le 4 juillet, le 31 octobre et le 1er novembre 2005,
+à Hamilton (Ontario)
+Par : l'honorable juge Judith Woods
+Comparutions :
+Représentants de l'appelante :
+John Barratt
+Judy Pryde
+Avocats de l'intimé :
+Me Jeremy Streeter
+Me Craig Maw
+[TRADUCTION FRANÇAISE OFFICIELLE]
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi sur l'assurance-emploi et du Régime de pensions du Canada sont accueillis et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que les gérants résidents ainsi que les partenaires des gérants résidents sont embauchés en tant qu'entrepreneurs indépendants et que les travailleurs suppléants sont embauchés en tant qu'employés.
+Il n'y aura aucune adjudication des dépens.
+Signé à Toronto (Ontario), ce 2e jour de juin 2006.
+« J. Woods »
+La juge Woods
+Traduction certifiée conforme
+ce 5e jour de septembre 2006.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI316
+Date : 20060602
+Dossiers : 2004-3214(EI)
+2004-3215(CPP)
+ENTRE :
+COMMUNITY LIVING BURLINGTON (ANCIENNEMENT BURLINGTON ASSOCIATION FOR THE INTELLECTUALLY HANDICAPPED),
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Il s'agit d'appels interjetés par Community Living Burlington (l'« association »), relativement aux cotisations établies en raison de l'omission de verser des cotisations en vertu de la Loi sur l'assurance-emploi et du Régime de pensions du Canada. Le montant total établi pour les années d'imposition 2002 et 2003 est d'environ 170 000 $, sans les intérêts.
+[2] L'association est une organisation sans but lucratif qui fournit divers services à environ 350 enfants et adultes déficients. Elle fut créée il y a 50 ans par des parents d'enfants déficients et elle continue à être gérée par des bénévoles.
+[3] La question à trancher est celle de savoir si le ministre du Revenu national était justifié à décider que 40 soignants étaient embauchés par l'association en tant qu'employés, même si la majorité d'entre eux avaient signé des contrats qui révélaient leur intention d'être des travailleurs indépendants.
+[4] Selon le ministre, l'intention des parties ne devrait être prise en compte que dans les « affaires ambiguës », où les facteurs pertinents indiquent les deux solutions possibles avec la même intensité : voir le résumé de la plaidoirie de l'intimé, au paragraphe 3.
+[5] Il aurait pu s'agir d'un argument raisonnable lors de l'audience, en se basant sur la jurisprudence de l'époque, mais tel n'est plus l'état du droit aujourd'hui.
+[6] À la fin de l'audience, j'ai annoncé aux parties que je souhaitais reporter le prononcé de la décision dans les présents appels jusqu'à la publication de la décision de la Cour d'appel fédérale dans l'affaire Le Royal Winnipeg Ballet c. Le ministre du Revenu national.
+[7] Il s'agissait de l'appel d'une décision de la Cour de l'impôt dans laquelle des danseurs du Royal Winnipeg Ballet avaient été déclarés employés de la compagnie de ballet. Pour parvenir à cette conclusion, le juge du procès a estimé que l'intention des parties était un facteur à prendre en compte seulement à titre d'élément de démarcation.
+[8] Le 2 mars 2006, la Cour d'appel fédérale a rendu publique sa décision (2006 CAF 87, n° A‑443‑04) et elle a infirmé la décision de la Cour de l'impôt en concluant que le juge du procès avait commis une erreur lorsqu'il a considéré que l'intention n'était qu'un élément de démarcation. Le juge Sharlow, rédigeant pour la majorité à la Cour d'appel, a écrit ce qui suit :
+[59] Il me semble découler de l'arrêt Montreal Locomotive que, lorsqu'il s'agit de qualifier la nature juridique d'un contrat, l'exercice consiste en fait à rechercher l'intention commune des parties.
+[9] À la lumière de cette décision, les allégations du ministre selon lesquelles l'intention ne peut être utilisée que dans une « affaire ambiguë » ne peuvent pas être accueillies. L'intention des parties, comme elle a été exprimée dans les contrats, devrait prévaloir si les faits la corroborent.
+[10] Comme je l'ai fait remarquer plus haut, la majorité des travailleurs dont la situation est en cause dans les présents appels avaient des contrats qui exprimaient leur intention de ne pas être des employés. Pour les motifs que j'énoncerai ci‑dessous, je conclus que les faits corroborent cette intention et que, par conséquent, ces travailleurs sont des entrepreneurs indépendants et non pas des employés.
+[11] Au cours de la période pertinente, l'association a géré 20 maisons d'accueil, financées par des subventions gouvernementales, pour des personnes ayant une déficience de développement. Chaque maison d'accueil permettait d'héberger quatre ou cinq personnes et son aménagement était conçu pour reproduire autant que possible celui de la vie ordinaire dans une maison. Lorsqu'il a été mis en place par l'association dans les années 1980, le concept était novateur; aujourd'hui, c'est devenu un modèle utilisé par d'autres communautés. Les travailleurs en cause exerçaient le rôle « parental » dans ces maisons d'accueil.
+[12] Il y avait trois catégories de travailleurs : (1) les soignants de première ligne, appelés [TRADUCTION] « gérants résidents », (2) les époux ou petits amis des gérants résidents, appelés [TRADUCTION] « partenaires des gérants résidents », (3) les travailleurs à temps partiel qui vont périodiquement dans les maisons d'accueil pour suppléer à certaines absences des soignants.
+[13] La plus grande partie de la preuve portait sur les gérants résidents et je me pencherai sur eux en premier lieu.
+[14] Les gérants résidents étaient autrefois appelés [TRADUCTION] « parents de la maison d'accueil » et cela décrivait avec précision leur rôle. Ils avaient été embauchés pour fournir des soins et de la supervision continuelle comme des parents à quatre ou cinq personnes déficientes vivant dans la maison d'accueil. Les gérants habitaient dans la maison d'accueil, parfois avec leur conjoint ou un autre partenaire, et ils interagissaient avec les personnes dont ils prenaient soin comme dans une famille élargie.
+[15] Les déficiences des personnes qui habitaient dans les maisons d'accueil étaient telles qu'elles avaient toutes besoin de soins différents. Les gérants résidents étaient en contact étroit avec les membres des familles pour s'assurer que les soins qu'ils prodiguaient étaient appropriés. L'association jouait principalement le rôle d'une facilitatrice; elle apportait de l'aide plutôt qu'une étroite supervision. Selon le témoignage de l'un des gérants résidents, le directeur administratif fournissait de l'assistance au début aux nouveaux gérants résidents, mais après cela le directeur administratif ne se rendait dans les maisons d'accueil qu'une ou deux fois par an.
+[16] En me basant sur les clauses contractuelles et le témoignage des différents témoins, qui ont tous donné des témoignages francs et crédibles, je conclus que la relation s'apparente plus à celle d'un entrepreneur indépendant qu'à celle d'un employé. Voici quelques-uns des éléments dont j'ai tenu compte pour parvenir à cette conclusion :
+· La relation est régie par un accord écrit intitulé [TRADUCTION] « Contrat de fourniture de services des gérants résidents ». Selon les clauses du contrat, les parties ont expressément nié toute intention d'avoir une relation d'emploi.
+· Les gérants résidents ont une liberté considérable pour décider comment les soins seront fournis, à condition que les besoins des personnes soient comblés et que les normes gouvernementales soient respectées.
+· Bien que les gérants résidents soient généralement « en service » continuel, ils disposent de temps pour eux-mêmes. Pendant la journée, les personnes dont ils prennent soin assistent à des programmes structurés offerts par l'association et, par conséquent, les gérants résidents ont de la souplesse dans leur horaire, à moins qu'il n'y ait des besoins particuliers comme, par exemple, amener une personne à un rendez-vous médical. Les gérants ont cette même souplesse la nuit, à condition que quelqu'un, en général un parent du gérant résident, soit en mesure de les remplacer.
+· Bien que les contrats prévoient que l'association a accès aux maisons d'accueil en tout temps, on ne s'attend pas à ce que les gérants résidents soient sous l'étroite supervision de l'association.
+· En général, relativement aux soins qu'ils fournissent, les gérants résidents consultent plus la famille de la personne vivant dans la maison d'accueil que l'association.
+· Les gérants résidents sont responsables de gérer la maison d'accueil selon un budget établi en théorie par l'association, mais qui est en réalité fixé par le gouvernement de l'Ontario, qui offre la plus grande partie du financement.
+· S'ils veulent s'absenter, les gérants résidents sont responsables de trouver un remplaçant à partir d'une liste approuvée. En pratique, les parents servent souvent de remplaçants et certains d'entre eux n'ont même pas leur nom sur la liste approuvée.
+· Les gérants résidents sont payés sur une base journalière et reçoivent une rémunération supplémentaire s'ils accomplissent d'autres tâches.
+· Selon les clauses contractuelles, les gérants résidents doivent travailler entre 313 et 327 jours par année, ce qui dépasse de loin les attentes dans une relation d'emploi. Ce qui caractérise le plus la présente situation, c'est le mélange des vies personnelle et professionnelle. Je remarque aussi que les gérants résidents travaillent souvent au-delà du nombre maximal de jours prévus au cours d'une année donnée, bien qu'il y ait des cas où cela ne se fasse pas par choix, mais parce qu'aucun travailleur suppléant n'est disponible.
+· Bien que les gérants résidents soient obligés de remplir des rapports détaillés, tels que les rapports sur les médicaments, cela se fait généralement selon les exigences gouvernementales.
+· Lors de l'audience, il y a eu des témoignages contradictoires sur la question de savoir si la participation aux tâches administratives, comme par exemple le fait de siéger à un comité, est obligatoire ou facultative. Même si certaines tâches administratives sont obligatoires, il ne s'agit pas là d'un facteur déterminant si on envisage la relation dans son ensemble.
+· Bien que les contrats stipulent que les gérants résidents ne peuvent pas avoir d'autre travail, y compris du bénévolat, les preuves révèlent que l'association est souple à cet égard.
+[17] Les facteurs précités concordent en général avec les arguments de l'association selon lesquels les gérants résidents sont embauchés pour gérer les maisons d'accueil de façon indépendante, avec très peu de supervision et de contrôle de l'association, à l'exception des exigences légales. Je fais droit à l'argument de l'association selon lequel son rôle était principalement celui de facilitatrice et d'intermédiaire relativement au financement gouvernemental et à la réglementation.
+[18] Pour décider que les gérants résidents étaient des employés, le ministre s'est fondé en partie sur une clause contractuelle selon laquelle l'expression [TRADUCTION] « un hébergement approprié » ainsi que l'expression [TRADUCTION] « des soins et de la supervision » devaient être définies par l'association. Ces expressions n'ont pas été définies par l'association et le sens de cette clause contractuelle n'était pas clair. Si on considère la preuve dans son ensemble, il semble que cette clause vise à permettre à l'association d'établir des normes relativement à l'entretien des maisons d'accueil et aux soins prodigués aux personnes qui y résident. Il est probablement important que l'association ait ce pouvoir pour qu'elle puisse se conformer aux lignes directrices gouvernementales. En l'absence de preuve supplémentaire, je n'interprète pas cette clause comme conférant à l'association le pouvoir de décider la façon selon laquelle les soignants rendent leurs services lorsqu'il n'y a pas d'enjeux sur la sécurité ou la qualité des soins.
+[19] Pour ces raisons, je conclus que l'association n'a pas de compétence générale pour contrôler la façon dont les gérants résidents exécutent leur travail, sauf lorsqu'il s'agit de s'assurer que les normes de soins sont conformes aux lignes directrices gouvernementales.
+[20] Lorsque le contrôle qui peut être exercé n'excède pas ce qui est nécessaire selon les circonstances de l'emploi en question, en général cela n'est pas incompatible avec la relation d'un entrepreneur indépendant : voir l'affaire Royal Winnipeg Ballet, au paragraphe 66.
+[21] Avant de conclure, j'aimerais faire remarquer que celui qui aurait pu expliquer le mieux les circonstances particulières était le directeur administratif au cours de la période pertinente, mais il n'a pas témoigné. C'est dommage et si les présents appels avaient été entendus sous le régime de la procédure générale de la Cour, cette dernière aurait pu tirer une conclusion défavorable contre l'association, sur laquelle reposait le fardeau de la preuve. Toutefois, les présents appels ont été entendus sous le régime de la procédure informelle et les agents qui représentaient l'association à l'audience ont fait un travail remarquable dans la présentation des appels. Je ne pense pas qu'il soit approprié de tirer de conclusion défavorable dans de telles circonstances. Je remarque également que le ministre aurait pu citer à témoigner l'ancien directeur administratif, mais il ne l'a pas fait.
+[22] Je conclus que les gérants résidents ne sont pas engagés dans une relation d'emploi.
+[23] En ce qui a trait à la situation des époux et petits amis des gérants résidents, je conclus sans hésitation qu'ils ne sont pas des employés. Les partenaires des gérants résidents ont le droit de vivre gratuitement dans les maisons d'accueil; en contrepartie ils aident à l'entretien de la maison d'accueil et ils y facilitent les liens sociaux. Peu importe le nom que l'on donne à une telle relation, il ne s'agit certainement pas d'emploi.
+[24] Finalement, une cotisation a été établie à l'égard de l'association en raison de l'omission du versement des primes pour les travailleurs suppléants. Très peu de preuve a été présenté à l'audience relativement à cette relation et aucun travailleur suppléant n'a témoigné. Les représentants de l'association ont souligné qu'ils n'ont pas mis l'accent sur cet élément des appels car les montants en litige étaient minimes. Je conclus que l'association ne s'est pas acquittée de l'obligation qui lui incombait de prouver que les travailleurs suppléants étaient des entrepreneurs indépendants.
+[25] Par conséquent, les appels seront accueillis et les cotisations seront renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que les gérants résidents et les partenaires des gérants résidents sont embauchés en tant qu'entrepreneurs indépendants et que les travailleurs suppléants sont engagés dans une relation d'emploi.
+[26] Il n'y aura aucune adjudication des dépens.
+Signé à Toronto (Ontario), ce 2e jour de juin 2006.
+« J. Woods »
+La juge Woods
+Traduction certifiée conforme
+ce 5e jour de septembre 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI316
+NUMÉROS DES DOSSIERS
+DE LA COUR : 2004-3214(EI) et 2004-3215(CPP)
+INTITULÉ DE LA CAUSE : COMMUNITY LIVING BURLINGTON (ANCIENNEMENT BURLINGTON ASSOCIATION FOR THE INTELLECTUALLY HANDICAPPED) ET LE MINISTRE DU REVENU NATIONAL
+LIEU DE L'AUDIENCE : Hamilton (Ontario)
+DATES DE L'AUDIENCE : le 4 juillet, le 31 octobre et le 1er novembre 2005
+MOTIFS DU JUGEMENT PAR : l'honorable juge J. M. Woods
+DATE DU JUGEMENT : le 2 juin 2006
+COMPARUTIONS :
+Représentants de l'appelante :
+John Barratt
+Judy Pryde
+Avocats de l'intimé :
+Jeremy Streeter
+Craig Maw
+AVOCATS INSCRITS AUX DOSSIERS :
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

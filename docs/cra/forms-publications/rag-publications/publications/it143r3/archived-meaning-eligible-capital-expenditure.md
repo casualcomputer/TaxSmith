@@ -1,0 +1,354 @@
+---
+title: "ARCHIVED - Meaning of Eligible Capital Expenditure"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it143r3/archived-meaning-eligible-capital-expenditure.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Meaning of Eligible Capital Expenditure
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-143R3**
+
+DATE: August 29, 2002
+
+SUBJECT: INCOME TAX ACT**Meaning of Eligible Capital Expenditure**
+
+REFERENCE: The definition of "eligible capital expenditure" in subsection 14(5) (also sections 68 and 69, the definition of "eligible capital property" in section 54, the definition of "cumulative eligible capital" in subsection 14(5), and paragraphs 13(7.5)(*b*), (*c*) and (*d*) of the *Income Tax Act*; and class 14 of Schedule II to the *Income Tax Regulations*)
+
+**Notice to the reader:**
+
+- *[Bulletins do not have the force of law](https://www.canada.ca/formspubs/pbs/tntc-eng.html).*
+
+- This document is also available for [download in PDF format](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it143r3.html).
+
+- **This version is only available electronically.**
+
+## Meaning of Eligible Capital Expenditure
+
+## Contents
+
+- *[Application](#P67_3191)*
+
+- *[Summary](#P69_3322)*
+
+- *[Discussion and Interpretation](#P73_4457)*
+
+    - [Introduction](#P74_4486) (¶s 1-2)
+
+    - [Specific Exclusions](#P84_6141) (¶s 3-4)
+
+    - [Goodwill](#P100_9184) (¶s 5-7)
+
+    - [Customer Lists and Ledger Accounts](#P106_12276) (¶ 8)
+
+    - [Trademarks, Patents, Franchises and Licences in Mortmain](#P108_12802) (¶s 9-12)
+
+    - [Expenses of Incorporation, Reorganization or Amalgamation](#P113_14642) (¶s 13-14)
+
+    - [Fines, Penalties and Legal Damages](#P123_15755) (¶s 15-16)
+
+    - [Political Contributions](#P126_16420) (¶ 17)
+
+    - [Expenses of Issuing Shares or Borrowing Money](#P128_16691) (¶ 18)
+
+    - [Brokerage Fees on Purchase of Shares, Debentures, etc.](#P130_17604) (¶ 19)
+
+    - [Appraisal Costs](#P132_18008) (¶s 20-22)
+
+    - [Legal and Accounting Fees](#P143_20699) (¶ 23)
+
+    - [Milk Quotas and Other Government Rights or Licences](#P145_21943) (¶ 24)
+
+    - [Stock Exchange Seats and Memberships](#P148_22553) (¶s 25-26)
+
+    - [Initiation or Admission Fees](#P155_24004) (¶s 27-28)
+
+    - [Easements](#P158_24439) (¶ 29)
+
+    - [Capital Expenditures in Respect of Another Person's Property](#P161_25058) (¶ 30)
+
+    - [Forfeited Deposits](#P164_26563) (¶ 31)
+
+    - [Non-Competition Payment](#P166_26757) (¶ 32)
+
+    - [Other Bulletins](#P168_27146) (¶ 33)
+
+- *[Explanation of Changes](#P185_27869)*
+
+## Application
+
+This bulletin cancels and replaces IT-143R2 dated August 10, 1983, as revised by Special Release dated October 30, 1992.
+
+## Summary
+
+An eligible capital expenditure in respect of a business is, in the simplest terms, a capital expenditure (i.e., an expenditure that results in an enduring benefit) that does not come within any of the capital cost allowance classes but rather goes into an eligible capital property pool. A percentage of the balance of the pool at the end of the year may be claimed as a deduction for the year.
+
+An "eligible capital expenditure" is a defined term in the *Income Tax Act*. The major part of the definition lists exclusions, i.e., expenditures that do not qualify as an eligible capital expenditure. One of the most fundamental of these exclusions is the cost of any tangible property. However, not every intangible property qualifies as an eligible capital expenditure.
+
+This bulletin covers the details of the definition of an "eligible capital expenditure" and then discusses a number of specific types of expenditures for purposes of determining whether or not they fall within that definition. For the most part, this discussion contains general positions with respect to this question, and does not deal with exceptional cases.
+
+## Discussion and Interpretation
+
+### Introduction
+
+**¶ 1.** Many expenditures commonly called "nothings", of which the cost of goodwill is the most notable, were not deductible from income under the provisions of the pre-1972 Act either as an expense or by way of capital cost allowances. Certain "nothings" are given special treatment in the current Act as "eligible capital expenditures". A discussion of this special treatment is contained in the current version of IT-123, *Transactions Involving Eligible Capital Property*.
+
+**¶ 2.** An "eligible capital expenditure", which is defined in subsection 14(5), may be broadly described as an outlay or expense made or incurred by a taxpayer:
+
+(a) in respect of a business;
+
+(b) as a result of a transaction occurring after 1971;
+
+(c) on account of capital; and
+
+(d) for the purpose of gaining or producing income from the business (whether or not income from the business was actually produced by such outlay or expense).
+
+Where a taxpayer carries on more than one business, the eligible capital expenditure arising from an outlay or expense will form part of the "cumulative eligible capital", as defined in subsection 14(5), only of that business to which it relates. An outlay or expense made or incurred with respect to income from property (e.g. non-business rental or investment income) or with respect to a capital gain or a capital loss, will not be an eligible capital expenditure since it does not meet the purpose stated in (d) above. Many expenditures, however, can meet these broad requirements but still will fall within the specific exclusions found in paragraphs (*a*) to (*f*) of the definition of "eligible capital expenditure", which are dealt with in ¶ 3.
+
+### Specific Exclusions
+
+**¶ 3.** The following are not eligible capital expenditures:
+
+(a) amounts which, in the computation of income are:
+
+(ii) not deductible by virtue of a specific provision in the Act, other than paragraph 18(1)(*b*), (e.g. a personal or living expense as contemplated by paragraph 18(1)(*h*)), or
+
+(iii) specifically deductible from income by virtue of any provision of the Act (e.g. expenditures for which a deduction is permitted by virtue of section 20);
+
+(ii) intangible property that is depreciable property (for examples of such property, see ¶s [11](#P111_13505) and ¶ [29](#P159_24450), or see intangible property to which paragraph 13(7.5)(*c*) applies),
+
+(iii) any other intangible but non-depreciable property which is deductible, or would be deductible, if the related income were sufficiently large (e.g. a right owned by a mining company that is a Canadian resource property that is deductible under subsection 66.2(2)), and
+
+(iv) an interest in, or a right to acquire, any property included in (b)(i), (ii) and (iii) above;
+
+(c) an amount paid or payable to any creditor on any debt or on the redemption, cancellation or purchase of any bond or debenture (e.g. payments made in connection with the redemption of bonds or debentures before maturity and also any excess of redemption price over issue price where the bonds were issued at a discount and redeemed at par value or issued at par value and redeemed at a premium). A bonus or premium paid by a mortgagor to a mortgagee in consideration for the mortgagee's consent to an early redemption of the mortgage is considered to constitute an amount paid to a creditor on account or in lieu of payment of any debt and consequently this premium or bonus cannot qualify as an "eligible capital expenditure";
+
+(d) amounts paid or payable by a corporation to a person in his or her capacity as a shareholder. The amounts referred to by this exclusion are limited to dividend payments, distributions on the reduction, in any manner whatever, of share capital and any payment or appropriation of property referred to in subsection 15(1);
+
+(e) the cost of, or any part of the cost of, an interest in either a trust or partnership, a share, bond, debenture, mortgage, hypothecary claim, note, bill or other similar property or an interest in, or right to acquire, any such property; and
+
+(f) expenditures made to produce "exempt income" as defined in subsection 248(1).
+
+**¶ 4.** An expenditure must meet the conditions of ¶ [2](#P76_4970) and not be excluded by ¶ [3](#P85_6162) before it qualifies as an eligible capital expenditure. The application of these tests to specific expenditures is outlined in the following paragraphs.
+
+### Goodwill
+
+**¶ 5.** The Courts have referred to several definitions of goodwill, two of which are:
+
+(a) "Goodwill is the whole advantage, whatever it may be, of the reputation and connection of the firm which may have been built up by years of honest work or gained by lavish expenditures of money".
+
+(b) It is "the privilege, granted by the seller of a business to the purchaser, of trading as his recognized successor; the possession of a ready-formed 'connection' of customers, considered as an element in the saleable value of a business, additional to the value of the plant, stock-in-trade, book debts, etc.".
+
+**¶ 6.** Goodwill cannot be divorced from the business itself. It follows the business and may be sold with the business, but it cannot be sold separately. Generally, goodwill arises as a recognizable asset only when a business is acquired at a price in excess of the value, as a going concern, of its net assets.
+
+**¶ 7.** Where goodwill, as a recognizable asset, is acquired by the purchaser of a business in the circumstances described in ¶ 6, the consideration given for the goodwill, as well as any legal and accounting fees that can be directly associated with the purchase of the goodwill, will qualify as an eligible capital expenditure. If the portion of the total consideration for the business that is allocated to the goodwill is unreasonable, or if the goodwill has a value which the vendor and purchaser have not specified, the Canada Revenue Agency (CRA) can apply the provisions of section 68 to deem what may reasonably be regarded as the amount for the goodwill. This amount would then be applied uniformly to both the vendor and the purchaser. If section 68 is applied for this purpose, the CRA will take into account all the relevant facts and circumstances of the particular case (see the findings of the Federal Court of Appeal in *George Golden v. The Queen*, 83 DTC 5138, (1983) C.T.C. 112, which were upheld by the Supreme Court of Canada -- 86 DTC 6138, (1986) 1 C.T.C. 274). Such relevant facts and circumstances include the relative positions of the vendor and the purchaser and the relative fair market values of all the assets of the business that are acquired. Where the vendor and purchaser are dealing at arm's length, their agreement as to the allocation of the total price for the business amongst its various assets is given considerable weight as evidence of the reasonableness of the amount so allocated to the goodwill. The reasonableness of the allocation is further supported where there is evidence that it has resulted from hard bargaining between the parties. In a non-arm's length transaction, section 68 could apply where the total purchase price of the assets of the business equals the total of their fair market values but the allocation of that total purchase price amongst those assets, including the goodwill, is not considered to be reasonable. However, where the total purchase price of the business assets in a non-arm's length transaction does not equal the total of their fair market values, the provisions of section 69 will apply.
+
+### Customer Lists and Ledger Accounts
+
+**¶ 8.** Where a taxpayer acquires lists or ledger accounts of clients, customers or subscribers, it is necessary to determine whether the cost of acquisition is a capital expenditure or an expense of the year. The current version of IT-187, *Customer Lists and Ledger Accounts*, describes the general guidelines applicable to this determination. Generally, the cost of a list bringing an enduring benefit to the business of the purchaser is a capital outlay and is an eligible capital expenditure.
+
+### Trademarks, Patents, Franchises and Licences in Mortmain
+
+**¶ 9.** The costs of obtaining a trademark registration to protect a trade name, design or product are allowable as deductions in computing income. This includes the designing, legal and registration costs, and also any payment made to some other person to refrain from contesting the registration.
+
+**¶ 10.** Where, on the other hand, a taxpayer buys a trademark from another person who has developed a trademark of enduring value, the amount paid for it is a capital expenditure not subject to capital cost allowance. However, it is an "eligible capital expenditure", assuming it meets all the other requirements of that definition in subsection 14(5).
+
+**¶ 11.** An outlay or expense made or incurred to acquire, or in an attempt to acquire, a patent, franchise, concession or licence for use in a business qualifies as an eligible capital expenditure provided that the outlay or expense did not result in the acquisition of a depreciable property of class 14 of Schedule II of the *Income Tax Regulations* or a property that is described as an exception in paragraphs (*a*), (*b*), (*c*), (*d*) or (*e*) of class 14. See the current version of IT-477, *Capital Cost Allowance -- Patents, Franchises, Concessions and Licences*, for comments regarding properties that qualify as class 14. An amount paid by a taxpayer, either separately or as part of the purchase price paid for the acquisition of the assets or business of another person, for the right to stand in the place of that other person in making an application for a patent, franchise, concession or licence or a renewal thereof, may also qualify as an eligible capital expenditure.
+
+**¶ 12.** Amounts expended by corporations to acquire or renew licences in mortmain are not regarded as outlays for gaining income and are not eligible capital expenditures.
+
+### Expenses of Incorporation, Reorganization or Amalgamation
+
+**¶ 13.** Incorporation expenses include all the expenses necessarily incurred by the incorporators to bring a corporation into existence, including:
+
+(a) fees required by the appropriate government agency (federal or provincial);
+
+(b) cost of affidavits;
+
+(c) advertising expenses in those jurisdictions where applicants are required to give notice of their intention to apply for a charter;
+
+(d) legal fees;
+
+(e) costs of preparation of articles of incorporation and of bylaws;
+
+(f) expenses incurred by applicants in attending preliminary meetings; and
+
+(g) accountant's fees associated with the incorporation.
+
+**¶ 14.** The CRA considers that incorporation expenses and similar expenses incurred in the setting up of a new corporation or in connection with an amalgamation of two or more corporations, as well as expenses incurred in connection with the reorganization of the affairs of a corporation (including the costs of supplementary letters patent), are "eligible capital expenditures" if they meet the requirements of that definition in subsection 14(5) as explained in ¶ [2](#P76_4970).
+
+### Fines, Penalties and Legal Damages
+
+**¶ 15.** If a fine or penalty was paid or incurred in connection with the acquisition of an eligible capital property, the cost of the fine or penalty would be added to the eligible capital expenditure pertaining to that property. For more information, see the current version of IT-104, *Deductibility of Fines or Penalties.*
+
+**¶ 16.** If damages were paid or incurred in connection with the acquisition of an eligible capital property, the cost of the damages would be added to the eligible capital expenditure pertaining to that property. For more information, see the current version of IT-467, *Damages, Settlements and Similar Payments*.
+
+### Political Contributions
+
+**¶ 17.** Contributions by a taxpayer to a political party or other political organizations or to the campaign funds of a candidate for public office, whether or not allowed as a deduction under subsection 127(3), are not eligible capital expenditures.
+
+### Expenses of Issuing Shares or Borrowing Money
+
+**¶ 18.** Paragraph 20(1)(*e*) provides for the deduction (subject to the limitations indicated therein) of an expense, including a commission, fee or other amount, paid or payable after November 16, 1978 by a taxpayer for or on account of services rendered by a person as a salesperson, agent or dealer in securities, incurred in the course of issuing or selling shares of the taxpayer or in the course of borrowing money. See the current version of IT-341, *Expenses of Issuing or Selling Shares, Units in a Trust, Interests in a Partnership or Syndicate and Expenses of Borrowing Money*, for more information on the application of paragraph 20(1)(*e*). Prior to November 17, 1978 these expenses were not deductible from income under paragraph 20(1)(*e*) but qualified as "eligible capital expenditures" provided they met the requirements of that definition in subsection 14(5).
+
+### Brokerage Fees on Purchase of Shares, Debentures, etc.
+
+**¶ 19.** Brokerage fees incurred on the acquisition of a share, bond, debenture, mortgage, hypothecary claim, note, bill or other similar property are generally considered to form part of the cost of such property, and do not therefore qualify as "eligible capital expenditures" by virtue of subparagraph (*f*)(iii) of that definition in subsection 14(5).
+
+### Appraisal Costs
+
+**¶ 20.** A taxpayer's reasonable costs, incurred after 1984, of surveying or valuing (appraising) a capital property for the purpose of its acquisition or disposition are, by virtue of paragraph 53(1)(*n*), added to the adjusted cost base of that property to the extent that such costs are not deducted by the taxpayer in computing income for any taxation year or attributable to any other property.
+
+However, where a taxpayer incurs the cost of surveying or valuing (appraising) a capital property (e.g., a building) in anticipation of its purchase for use in earning income from a business but the purchase does not actually occur (e.g., the purchase is aborted), such cost would qualify as an eligible capital expenditure. An exception to this result would occur if the surveying or appraisal cost was incurred after March 6, 1996 and the aborted purchase was in respect of a property described in subsection 1102(14.3) of the *Income Tax Regulations* (e.g., a parking area), since the surveying or appraisal cost would then become the cost of depreciable property (typically Class 1) by virtue of paragraphs 13(7.5)(*b*), (*c*) and (*d*) of the Act.
+
+The cost of valuing a property, which is itself an eligible capital property (e.g., a government right) held by and used in the business of a taxpayer, qualifies as an eligible capital property for that business.
+
+**¶ 21.** An outlay or expense made or incurred by a taxpayer to obtain an appraisal for a purpose other than gaining or producing income from a business does not qualify as an eligible capital expenditure. Examples of outlays or expenses of this kind are:
+
+(a) the cost of an appraisal of property held on December 31, 1971 for the purpose of establishing its Valuation Day value;
+
+(b) the cost of an appraisal of capital property owned by the taxpayer;
+
+(c) the cost of an appraisal of a rental property owned by the taxpayer where the rental thereof is not part of a business of that taxpayer; and
+
+(d) the cost of an appraisal which constitutes either part or all of the cost of acquisition, or an expense of disposition, of a property described in ¶ 3[(b)](#P90_6861).
+
+**¶ 22.** The cost of an appraisal incurred for the purpose of gaining or producing income from a business and not on account of capital is deductible in computing a taxpayer's income for the taxation year in which it is incurred. For example, the cost of an appraisal of a property for insurance purposes, the cost of an appraisal of assets of a public utility necessary to support an application for a rate increase and the cost of an appraisal of assets that are the inventory of a business would be deductible from income to the extent that each is reasonable in the circumstances.
+
+### Legal and Accounting Fees
+
+**¶ 23.** Since an outlay or expense is an eligible capital expenditure only if it is incurred for the purpose of gaining or producing income from a business, legal and accounting fees incurred in an abortive attempt to acquire shares of a corporation would normally not qualify. Where, however, the taxpayer can demonstrate that he or she proposed to make the business of the corporation part of a similar business which the taxpayer already operated, the fees may qualify as eligible capital expenditures. For the CRA's interpretation of "similar business" see the current version of IT-259, *Exchanges of Property*. Legal and accounting fees incurred by a taxpayer in connection with the purchase or sale of shares held by the taxpayer as capital property are included as a component of the adjusted cost base of the shares or deducted from the sale proceeds as disposal costs, as applicable. Expenses incurred in connection with the issue of shares of the capital stock of a corporation are discussed in ¶ [18](#P129_16738). Legal and accounting fees incurred to oppose a bid to take over control of a corporation are not eligible capital expenditures. For more information, see the current version of IT-99, *Legal and Accounting Fees*.
+
+### Milk Quotas and Other Government Rights or Licences
+
+**¶ 24.** Milk quotas issued by provincial milk marketing boards are generally issued at no cost to the producer. However, transfers of quotas for value may generally be made, subject to the terms and approval of the board. The cost of a milk quota purchased after 1971 is an eligible capital expenditure. Similarly, a quota exchange fee (e.g., to increase an existing quota) paid to a milk marketing board is an eligible capital expenditure.
+
+The cost of other similar rights or licences issued under governmental authority is also an eligible capital expenditure.
+
+### Stock Exchange Seats and Memberships
+
+**¶ 25.** The cost of a seat on a Canadian stock exchange or a stock exchange outside Canada that carries with it certain rights and privileges similar to those attaching to a share of a corporation is excluded from the definition of an "eligible capital expenditure" by subparagraph (*f*)(iii) of that definition in subsection 14(5) and such a seat is considered to be a capital property. Generally, these rights and privileges are outlined in the bylaws of the exchange and are as follows:
+
+(a) The number of seats on the exchange is restricted.
+
+(b) The seats may be acquired by purchase either from the exchange itself or on the open market.
+
+(c) The amount received by the exchange on the sale of a seat is treated as a receipt of capital.
+
+(d) The exchange differentiates between the "seat" and the "membership" in the exchange. Even if the ownership of a seat (or the right to use it) is a necessary qualification for membership, it does not, in or by itself, entitle one to become a member. A prospective member must still obtain the approval of the other members and pay an entrance or initiation fee.
+
+**¶ 26.** Where the rights and privileges conferred on seat holders of Canadian or foreign exchanges are different than those set out in ¶ 25, the CRA will review those rights and privileges upon request to determine whether the particular stock exchange seat to which those rights and privileges attach is a capital property.
+
+### Initiation or Admission Fees
+
+**¶ 27.** The entrance or initiation fees paid to a stock exchange are eligible capital expenditures.
+
+**¶ 28.** Initiation or admission fees paid to an organization (e.g. for call to the bar or for membership in a professional accounting institute) are eligible capital expenditures where it can be shown that the annual membership fees of the organization are allowable deductions in computing income of a business.
+
+### Easements
+
+**¶ 29.** An amount paid by a taxpayer for the right of access to or the right of way over, upon or through land owned by another person may qualify as an eligible capital expenditure.
+
+Such an amount would not qualify as an eligible capital expenditure, however, if it was incurred after March 6, 1996 and was for the right to use, or in respect of, property described in subsection 1102(14.3) of the *Income Tax Regulations* (e.g., a road described therein). In that case, the cost incurred would become the cost of depreciable property (typically Class 17[1](#P1_2)) by virtue of paragraphs 13(7.5)(*b*), (*c*) and (*d*) of the Act.
+
+### Capital Expenditures in Respect of Another Person's Property
+
+**¶ 30.** An outlay or expense incurred after March 6, 1996 by a taxpayer, for the purpose of increasing the operational efficiency of a business by means of improving the property owned by some other person, would be the taxpayer's cost of depreciable property (typically Class 1) by virtue of paragraphs 13(7.5)(*b*), (*c*) and (*d*) of the Act, if the other person's property is property described in subsection 1102(14.3) of the *Income Tax Regulations.* This would be the case, for example, for the taxpayer's cost of improvements to city-owned streets, intersections, sidewalks, street lighting, etc. surrounding the taxpayer's shopping centre.
+
+If, on the other hand, the other person's property was not a property described in Regulation 1102(14.3) or, in any event, if the taxpayer's cost was incurred before March 7, 1996, such cost to the taxpayer would generally be a non-deductible, non-depreciable capital outlay that qualifies as an eligible capital expenditure. An exceptional case may occur where the particular facts and circumstances lead to the conclusion that such a cost was a current expense, as was found by the Federal Court -- Trial Division in the case of *Oxford Shopping Centres Ltd. v. The Queen*, 79 DTC 5458, [1980] C.T.C. 7 (which decision was upheld by the Federal Court of Appeal -- 81 DTC 5065, (1981) C.T.C. 128). See the current version of IT-417, *Prepaid Expenses and Deferred Charges*, for a discussion on running expenses.
+
+### Forfeited Deposits
+
+**¶ 31.** A forfeited deposit is not an eligible capital expenditure. See the current version of IT-461, *Forfeited Deposits*, for information on the treatment of forfeited deposits.
+
+### Non-Competition Payment
+
+**¶ 32.** An amount paid by a taxpayer to another person with whom the taxpayer deals at arm's length, to obtain that other person's covenant not to engage in any business within a designated geographical area during a specified period of time, that is the same as or is similar to the business carried on by the taxpayer, may qualify as an eligible capital expenditure.
+
+### Other Bulletins
+
+**¶ 33.** The current version of each Interpretation Bulletin listed below also makes reference to and contains limited discussion on the qualification of certain expenditures as eligible capital expenditures:
+
+IT-128 *Capital Cost Allowance -- Depreciable Property*
+
+IT-211 *Membership Dues -- Associations and Societies*
+
+IT-330 *Dispositions of Capital Property Subject to Warranty, Covenant, or Other Conditional or Contingent Obligations*
+
+IT-350 *Investigation of Site*
+
+IT-359 *Premiums and Other Amounts With Respect to Leases*
+
+IT-364 *Commencement of Business Operations*
+
+IT-386 *Eligible Capital Amounts*
+
+IT-425 *Miscellaneous Farm Income*
+
+IT-475 *Expenditures on Research and for Business Expansion*
+
+IT-501 *Capital Cost Allowance -- Logging Assets*
+
+## Explanation of Changes
+
+### Introduction
+
+The purpose of the *Explanation of Changes* is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised interpretations of the CRA.
+
+### Reasons for the Revision
+
+This bulletin has been revised to reflect changes in the law.
+
+### Legislative and Other Changes
+
+¶ [2](#P76_4970) and subsequent paragraphs have been revised to reflect that the definition of "eligible capital expenditure" is no longer contained in paragraph 14(5)(*b*) but rather is found in alphabetical order in subsection 14(5).
+
+¶ [2](#P76_4970) has been revised to reflect that the definition of "cumulative eligible capital" is no longer contained in paragraphs 14(5)(*a*) but rather is found in alphabetical order in subsection 14(5).
+
+¶ 3(a)[(i)](#P87_6267) and ¶ 3(b)[(ii)](#P92_7036) have been revised to reflect more current examples.
+
+¶ 3(b)(ii) now makes reference to a property to which paragraph 13(7.5)(*c*) applies, as an intangible property that is depreciable property. Subsection 13(7.5) was added to the Act since the issuance of the former bulletin.
+
+¶ 3[(e)](#P97_8628) and ¶ [19](#P131_17660) have been revised to reflect that the word "hypothec" is no longer contained in subparagraph (*f*)(iii) of the definition of "eligible capital expenditure" in subsection 14(5), but that the words "hypothecary claim" were added to that subparagraph as of June 14, 2001.
+
+¶ [11](#P111_13505) has been revised to reflect the addition of paragraph (*e*) (which refers to class 44) to the exceptions listed under class 14 of Schedule II of the *Income Tax Regulations*.
+
+¶ [15](#P124_15791) has been revised because of revisions in the current version of IT-104, *Deductibility of Fines or Penalties*.
+
+¶ [16](#P125_16112) has been revised because of revisions in the current version of IT-467, *Damages, Settlements and Similar Payments*.
+
+¶s [20](#P133_18025), [29](#P159_24450) and [30](#P162_25120) have been revised to reflect the effect of paragraphs 13(7.5)(*b*), (*c*) and (*d*). Subsection 13(7.5) was added to the Act since the issuance of the former bulletin.
+
+¶ [23](#P144_20726) now contains a statement, essentially the same as already contained in the current version of IT-99, *Legal and Accounting Fees*, with respect to legal and accounting fees incurred to oppose a bid to take over control of a corporation.
+
+¶ [24](#P146_21996) now contains a statement that a quota exchange fee (e.g., to increase an existing quota) paid to a milk marketing board is an eligible capital expenditure.
+
+¶ [32](#P167_26782) of the former bulletin has been discontinued, as it was rendered inaccurate by the addition to the Act of subsection 80(7). That provision is outside the scope of this bulletin, but is discussed in the current version IT-123, *Transactions Involving Eligible Capital Property*.
+
+Other changes throughout the bulletin have been made only for purposes of clarification or readability.
+
+### Notice -- Bulletins do not have the force of law
+
+At the Canada Revenue Agency (CRA), we issue income tax interpretation bulletins (ITs) in order to provide technical interpretations and positions regarding certain provisions contained in income tax law. Due to their technical nature, ITs are used primarily by our staff, tax specialists, and other individuals who have an interest in tax matters. For those readers who prefer a less technical explanation of the law, we offer other publications, such as tax guides and pamphlets.
+
+While the comments in a particular paragraph in an IT may relate to provisions of the law in force at the time they were made, such comments are not a substitute for the law. The reader should, therefore, consider such comments in light of the relevant provisions of the law in force for the particular taxation year being considered, taking into account the effect of any relevant amendments to those provisions or relevant court decisions occurring after the date on which the comments were made.
+
+Subject to the above, an interpretation or position contained in an IT generally applies as of the date on which it was published, unless otherwise specified. If there is a subsequent change in that interpretation or position and the change is beneficial to taxpayers, it is usually effective for future assessments and reassessments. If, on the other hand, the change is not favourable to taxpayers, it will normally be effective for the current and subsequent taxation years or for transactions entered into after the date on which the change is published.
+
+***If you have any comments regarding matters discussed in an IT, please send them to:***
+
+***Manager, Technical Publications and Projects Section Income Tax Rulings Directorate Policy and Legislation Branch Canada Revenue Agency Ottawa ON K1A 0L5***
+
+Most of our publications are available on our Web site at: **www.cra.gc.ca**
+
+**Footnote**
+
+1 Added or modified on December 16, 2004

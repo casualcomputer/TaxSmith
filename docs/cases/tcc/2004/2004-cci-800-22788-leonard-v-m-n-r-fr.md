@@ -1,0 +1,152 @@
+---
+title: "Leonard v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22788/index.do"
+last_modified: "2004-12-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 800"
+citation2: ""
+neutral_citation: "2004 CCI 800"
+decision_date: "2004-12-09"
+language: "fr"
+item_id: "22788"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2238
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:45:43.963000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "60637ef8931a5dd2e9f5f3dc108e7fd4ced49a7c37ecca2d15cca5ecc42eacaa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Leonard v. M.N.R.
+
+- Citation: 2004 CCI 800
+- Decision date: 2004-12-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2238, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leonard v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-09
+Référence neutre
+2004 CCI 800
+Numéro de dossier
+2003-4096(EI)
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-4096(EI)
+ENTRE :
+STEPHEN C. LEONARD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu à St. Catharines (Ontario), le 30 septembre 2004.
+Devant : L'honorable G. Sheridan
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me John R. Shipley
+JUGEMENT
+L'appel est rejeté et la décision du ministre est confirmée selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 5e jour d'août 2005.
+Sara Tasset
+Référence : 2004CCI800
+Date : 20041209
+Dossier : 2003-4096(EI)
+ENTRE :
+STEPHEN C. LEONARD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L'appel interjeté conformément au paragraphe 103(1) de la Loi sur l'assurance-emploi( la « Loi » ) est rejeté, et la décision rendue par le ministre du Revenu national à la suite d'un appel interjeté devant lui en vertu de l'article 93 de la Loi est confirmée.
+[2] L'appelant, Stephen Leonard ,a travaillé pour Royal Windows and Doors
+( « Royal » ) du 5 avril au 7 mai 2002. Dans l'exécution de ses tâches, il était chargé de faire des appels, à des fins de ventes, à des [TRADUCTION] « clients éventuels » que Royal avait identifiés et dont le nom lui était fourni chaque jour sur un imprimé[1] contenant les noms et les adresses de ces clients éventuels. Selon les modalités d'emploi[2], M. Leonard touchait un salaire hebdomadaire de 400 $ plus les commissions sur les ventes selon une formule établie.
+[3] Dans cet appel, il s'agit uniquement de déterminer le nombre d'heures d'emploi assurable que M. Leonard a effectuées pendant sa période d'emploi. Par une lettre datée du 13 août 2003, le ministre du Revenu national a informé M. Leonard qu'il avait été conclu qu'il avait accumulé 161 heures et qu'en calculant ce nombre, le ministre s'était fondé sur l'article 10 du Règlement sur l'assurance-emploi (le « Règlement » )[3]. M. Leonard ne souscrivait pas à cette décision. Il était d'avis que ses heures assurables devaient être déterminées en fonction du nombre d'heures qu'il avait réellement effectuées, soit selon lui environ 227 heures en tout. M. Leonard agissait pour son propre compte et il a témoigné pour son propre compte à l'audience. Dans ses observations préliminaires, M. Leonard a affirmé avec insistance que l'appel ne visait pas à lui permettre de toucher les prestations d'emploi auxquelles il avait peut-être droit, mais qu'il voulait plutôt que justice soit faite. M. Leonard a eu tendance à faire des déclarations verbeuses de ce genre pendant toute la durée de l'audience.
+[4] L'avocat de l'intimé a pris la position selon laquelle le ministre avait déterminé de la façon appropriée le nombre d'heures assurables en vertu du paragraphe 10(4) du Règlement et, en outre, que la Cour ne pouvait pas, en vertu de cette disposition, tenir compte des éléments de preuve que M. Leonard pouvait avoir au sujet du nombre d'heures réellement effectuées. En rejetant ce dernier point, je me fonde sur les remarques que le juge en chef adjoint Bowman a faites dans la décision Chisholmc. M.R.N.[4] :
+[15] Enfin, j'en viens à l'article 10 du Règlement. Il s'agit d'un règlement autorisé par l'article 55 de la Loi sur l'assurance-emploi visant à aider à déterminer le nombre d'heures travaillées par un employé lorsqu'un doute existe, que l'employeur et l'employé ne parviennent pas à une entente ou que la détermination de cette question est difficile. Il ne vise clairement pas à supplanter une preuve claire du genre de celle présentée en l'espèce relative au nombre d'heures réellement travaillées. Le fait d'affirmer que les règles établies par l'article 10 du Règlement pourraient prévaloir sur les faits avérés reviendrait à accorder à ce règlement d'application une interprétation exagérée et artificielle qui lui donnerait une portée plus grande que ce que l'article 55 de la Loi sur l'assurance-emploi vise ou autorise. En effet, les paragraphes (4) et (5) de l'article 10 sont fondés sur le nombre réel d'heures non connues ou vérifiables ou sur le fait qu'il n'y a pas de preuve de l'existence d'heures travaillées en surplus de l'horaire régulier. Cela n'est manifestement pas le cas en l'espèce.
+[16] J'ai trouvé très utiles les décisions du juge Bonner dans l'affaire Frankec. Canada, [1999] A.C.I. no 645, du juge suppléant Weisman dans les affaires McKennac. Canada, [1999] A.C.I. no 816 et Bylow c. Canada, [2000] A.C.I. no 187, et du juge Beaubier dans l'affaire Redvers Activity Centre Inc. c. Canada, [2000] A.C.I. no 414. Elles soutiennent, à mon avis, la conclusion générale fondée sur le bon sens selon laquelle il n'est pas nécessaire de recourir à une autre méthode lorsqu'il existe une preuve du nombre d'heures réellement travaillées.
+Par conséquent, il est loisible à M. Leonard de prouver, s'il est en mesure de le faire, le nombre d'heures réellement effectuées et la Cour peut tenir compte de cette preuve en déterminant le nombre d'heures assurables.
+[5] Le point de départ se trouve à l'article 10 du Règlement, qui est rédigé comme suit :
+10. (1) Lorsque la rémunération d'une personne est versée sur une base autre que l'heure et que l'employeur fournit la preuve du nombre d'heures effectivement travaillées par elle au cours de la période d'emploi et pour lesquelles elle a été rétribuée, celle-ci est réputée avoir travaillé ce nombre d'heures d'emploi assurable.
+(2) Sauf dans les cas où le paragraphe (1) et l'article 9.1 s'appliquent, si l'employeur ne peut établir avec certitude le nombre d'heures de travail effectivement accomplies par un travailleur ou un groupe de travailleurs et pour lesquelles ils ont été rémunérés, l'employeur et le travailleur ou le groupe de travailleurs peuvent, sous réserve du paragraphe (3) et si cela est raisonnable dans les circonstances, décider de concert que ce nombre est égal au nombre correspondant normalement à la rémunération visée au paragraphe (1), auquel cas chaque travailleur est réputé avoir travaillé ce nombre d'heures d'emploi assurable.
+(3) Lorsque le nombre d'heures convenu par l'employeur et le travailleur ou le groupe de travailleurs conformément au paragraphe (2) n'est pas raisonnable ou qu'ils ne parviennent pas à une entente, chaque travailleur est réputé avoir travaillé le nombre d'heures d'emploi assurable établi par le ministre du Revenu national d'après l'examen des conditions d'emploi et la comparaison avec le nombre d'heures de travail normalement accomplies par les travailleurs s'acquittant de tâches ou de fonctions analogues dans des professions ou des secteurs d'activité similaires.
+(4) Sauf dans les cas où le paragraphe (1) et l'article 9.1 s'appliquent, lorsque l'employeur ne peut établir avec certitude ni ne connaît le nombre réel d'heures d'emploi assurable accumulées par une personne pendant sa période d'emploi, la personne est réputée, sous réserve du paragraphe (5), avoir travaillé au cours de la période d'emploi le nombre d'heures d'emploi assurable obtenu par division de la rémunération totale pour cette période par le salaire minimum, en vigueur au 1er janvier de l'année dans laquelle la rémunération était payable, dans la province où le travail a été accompli.
+(5) En l'absence de preuve des heures travaillées en temps supplémentaire ou en surplus de l'horaire régulier, le nombre maximum d'heures d'emploi assurable qu'une personne est réputée avoir travaillées d'après le calcul prévu au paragraphe (4) est de 7 heures par jour sans dépasser 35 heures par semaine.
+[6] M. Leonard n'était pas rémunéré à l'heure, et l'employeur, Royal, n'a pas présenté de preuve devant la Cour. Par conséquent, le paragraphe 10(4) est la disposition qui s'applique. M. Leonard a témoigné avoir réellement effectué environ 227 heures de travail et il a produit à l'appui deux documents : la pièce A-2, un calendrier de l'année 2002 dans lequel sont inscrits à la main chacun des jours de la période d'emploi; et la pièce A-3, une liasse de listes de « clients éventuels » pour la plupart des jours allant du 8 avril au 6 mai 2002. M. Leonard s'est fondé sur le calendrier comme preuve du fait qu'il consignait les heures de travail qu'il avait réellement effectuées pendant cette période. Toutefois, pendant le contre-interrogatoire, il a admis ce qu'il avait omis de porter à l'attention de la Cour lors de l'interrogatoire principal, à savoir qu'il avait fait ces inscriptions sur le calendrier beaucoup plus tard et que, pour ce faire, il s'était uniquement fondé sur les renseignements figurant dans la pièce A-3, à savoir les listes de [TRADUCTION] « clients éventuels » . L'examen des [TRADUCTION] « listes de clients éventuels » révèle qu'il ne s'agit pas de feuilles de temps sur lesquelles sont consignées les heures réellement effectuées chaque jour. Il s'agit d'imprimés préparés par Royal et destinés à servir d'instructions et à être utilisés pour que M. Leonard s'en serve sur le terrain chaque jour. Les seules « heures » indiquées dans la pièce A-3 sont celles pendant lesquelles on recommandait à M. Leonard d'appeler certains clients. Dans bien des cas, dans l'espace prévu à cette fin, seul le mot [TRADUCTION] « Aucunes » est inscrit.
+[7] Étant donné le manque de franchise dont M. Leonard a fait preuve au sujet des conclusions que la Cour devrait tirer de ces documents et puisque ces documents ne sont pas utiles lorsqu'il s'agit de justifier les allégations qui sont faites, il m'est impossible de conclure à l'existence d'une « preuve claire » [5]du nombre d'heures de travail réellement effectuées par M. Leonard. En outre, même si j'étais portée à accepter les listes de [TRADUCTION] « clients éventuels » comme preuve des heures effectuées, même en estimant fort généreusement le nombre d'heures de travail à l'aide des vagues renseignements contenus dans les imprimés, le total n'atteint pas les 227 heures que M. Leonard allègue avoir effectuées. Compte tenu des conclusions tirées ci-dessus, il n'existe en outre aucune preuve « des heures travaillées en temps supplémentaire ou en surplus de l'horaire régulier » comme le prévoit le paragraphe 10(5) du Règlement. Par conséquent, le ministre a eu raison de calculer le nombre d'heures assurables selon la formule prévue au paragraphe 10(4) du Règlement. L'appel est rejeté.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 5e jour d'août 2005.
+Sara Tasset
+RÉFÉRENCE :
+2004CCI800
+No DU DOSSIER DE LA COUR :
+2003-4096(EI)
+INTITULÉ :
+Stephen C. Leonard et M.R.N.
+LIEU DE L'AUDIENCE :
+St. Catharines (Ontario)
+DATE DE L'AUDIENCE :
+Le 30 septembre 2004
+MOTIFS DU JUGEMENT :
+L'honorable G. Sheridan
+DATE DU JUGEMENT :
+Le 9 décembre 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me John R. Shipley
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+S/O
+Cabinet :
+S/O
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-3.
+[2] Pièce A-1.
+[3] DORS/96-332.
+[4] [2001] A.C.I. no 238.
+[5] Chisholm,précité.

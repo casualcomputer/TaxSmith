@@ -1,0 +1,326 @@
+---
+title: "Robertson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30217/index.do"
+last_modified: "2011-02-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 83"
+citation2: ""
+neutral_citation: "2011 TCC 83"
+decision_date: "2011-02-17"
+language: "en"
+item_id: "30217"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7765
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:51:28.602000+00:00"
+cases_cited_count: 6
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f688b40034fd41a0633ac3ddaaf79ffb73e04b09402377f2a610e0f795e1bca4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Robertson v. The Queen
+
+- Citation: 2011 TCC 83
+- Decision date: 2011-02-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7765, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robertson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-02-17
+Neutral citation
+2011 TCC 83
+File numbers
+2004-2266(GST)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-2266(GST)G
+BETWEEN:
+ÉDOUARD ROBERTSON,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Application heard on September 7 and 8, 2010, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the applicant:
+François Bouchard
+Counsel for the respondent:
+Patrick Vézina and Anick Pelletier
+____________________________________________________________________
+ORDER
+UPON motion by the appellant for an Order to obtain interim costs in the amount of $100,000.
+UPON the evidence submitted by the parties.
+The Court dismisses the application with costs in favour of the respondent, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 17th day of February 2011.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+On this 6th day of April 2011
+François Brunet, Revisor
+Citation: 2011 TCC 83
+Date: 2011 02 17
+Docket: 2004-2266(GST)G
+BETWEEN:
+ÉDOUARD ROBERTSON,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Tardif J.
+[1] This is an application for interim costs in the amount of $100,000. The applicant, Édouard Robertson is an Indian under the Indian Act. He is a member of the Mashteuiatsh Montagnaise Band, in Pointe-Bleue, in the Lac Saint-Jean area.
+[2] Mr. Robertson operates a business involving the manufacture and sale of furs and other garments, where the raw material is not necessarily fur, which, furthermore, does not represent the main part of the business’ overall sales.
+[3] The business’ clients are primarily non‑Indian. The Robertson family has been associated with and involved in the fur trade for six generations.
+[4] In the late 1990s, the applicant acquired a portion of the business, then under the ownership of the father. He then acquired it in full, except for the purchasing and sale of fur skin or raw fur.
+[5] As part of his business operations, the applicant never registered so as to be required to collect and remit the G.S.T. and the Q.S.T. Nor did he ever receive a request to do so by Revenu Québec. Under the Excise Tax Act, the applicant operated a business whose activities were subject to the provisions of that same Act.
+[6] Therefore, Mr. Robertson never collected, as an agent of the Crown, consumption taxes (G.S.T. and Q.S.T.).
+[7] As an agent for the Minister of National Revenue, Revenu Québec issued, following a series of audits, notices of assessment for substantial amounts to the applicant.
+[8] At the outset, the applicant challenged any duty to collect and remit the taxes imposed and enforced. Mr. Robertson has since then maintained, on the one hand, that by virtue of his Indian status, he had no such duty, and claimed, on the other hand, that if such a duty applied, it was owed not to the Quebec goverernment or the federal government, but to his band, which, in his opinion, had sole jurisdiction and authority to collect such taxes from Indians.
+[9] The applicant also submitted that the Indian Act and the Excise Tax were in conflict.
+[10] During the audits and process that led to the issuance of notices of assessment, the leaders of the applicant’s band were in negotiations with the Government of Quebec with a view to entering into an agreement respecting the band’s rights and tax jurisdiction. In such a context, the applicant would have liked to have his Band intervene in his case. To that end, he informed his band’s leaders and pressured them to intervene in view of a settlement of this matter or at least do what was necessary to have the initiatives of Revenu Québec suspended.
+[11] Despite the steps the applicant took with his band, the process still evolved to the point where he finally had to negotiate an agreement with the respondent under which he would collect taxes in accordance with the laws and would proceed with the remission of taxes until a decision was reached as to the merits of his legal arguments, namely, his liability under the Excise Tax Act as part of the operation of his business.
+[12] Since the amount of the assessments made was still outstanding, the applicant was the subject of various recovery attempts by the respondent; accordingly, he saw his business’ financial situation deteriorate considerably.
+[13] He took a number of steps to gain financial support from both his community and several organizations normally approached in this type of case; he also had to take steps to keep his business in operation. He therefore had to take two steps, obtain the required funds to pursue his objection before this Court and, funds to pursue his business activities.
+[14] He was unable to secure the required and necessary financial support from his band, other than the fact that it agreed to assume the costs associated with the preparation of an expert report to determine whether or not an Aboriginal right existed, a very important element of his case, totalling $30,000. All other requests failed or were rejected; he therefore came to the conclusion that he was not financially capable of pursuing the legal proceedings commenced as part of his objection to the assessments especially since the matter had already cost him a considerable amount of money.
+[15] In support of his application, the applicant has argued that although he has a valid case, he does not have or no longer has the financial capacity to pursue the proceedings due to impecuniosity. The applicant also submits that the outcome of the case has and will have major ramifications not only for many individuals, but also for his band’s future.
+[16] In essence, the applicant submits that he meets all the tests and criteria propounded over the years by the case law, including and mainly Okanagan[1] and Little Sisters,[2] decisions of the Supreme Court of Canada.
+[17] Despite the importance and public interest raised, in his view, by his case, the applicant submits that he was unable to garner the necessary funds; hence, he was left alone to pursue the legal battle; the Mashtewiatsh First Nation Band Council did not file any application to intervene in the matter and its involvement was limited to bearing the costs associated with the expert report in the amount of $30,000 and which the applicant plans to use in support of his claims.
+[18] The parties recognize the jurisdiction of the Tax Court of Canada to decide the merits of the application for interim costs on the basis of the various tests and/or criteria propounded by the case law, particularly that of the Supreme Court of Canada.
+[19] To that end, I am not satisfied that the Tax Court of Canada has the necessary jurisdiction to hear such an application; considering the parties’ position on that aspect, I will not go beyond that comment.
+[20] The applicant argues that he meets the applicable criteria and hence that his application must be granted. To that end, the applicant states as follows:
+· He submits, on the one hand, that he cannot bear the costs of pursing the matter before the court, after having made multiple attempts and taken several initiatives to that effect with a number of stakeholders.
+· He bases his submission on serious legal arguments; in particular, he submits that the Excise Tax Act is inconsistent with the Indian Act.
+· He also submits that the community to which he belongs, that is to say, Montagnais of Lac Saint-Jean, has an Aboriginal right to engage in the fur trade and in the cognate activities; according to the applicant, such a right entitles him not to collect the Q.S.T. and G.S.T. as part of his business activities arising out of the exercise of such an Aboriginal right.
+· He also submits that the relevant Aboriginal right confers on his self-governing community an exclusive right to collect taxes in any form whatsoever.
+· He also argues that section 89 of the Indian Act is unconstitutional in the context of the Excise Tax Act and thus that Indians are treated in a discriminatory manner, namely as to the management of their property.
+· He states that the questions of law arising out of his case are of significant interest and will also have a major impact; hence, his case raises a so-called public interest, in particular because such questions have yet to be addressed by the courts.
+· He submits that the basis for his objection is serious and non-frivolous, thereby respecting the condition that the rights at issue be prima facie, to the extent where the chances of success are real.
+· Finally, he submits that the dispute is of considerable interest, going far beyond his personal stake.
+[21] The respondent, for its part, submits, on the basis of a number of cases, that the applicant does not meet any of the test or criteria recognized by the case law. Quite interestingly, the parties base their respective positions on essentially the same important cases.
+[22] The right of an appellant to be awarded interim costs in a so-called “public interest” case is not only recognized, but also defined in Okanagan where the Supreme Court of Canada observed:
+The power to order interim costs is inherent in the nature of the equitable jurisdiction as to costs, in the exercise of which the court may determine at its discretion when and by whom costs are to be paid. This broad discretion may be expressly referred to in a statute . . .
+Even absent explicit statutory authorization, however, the power to award interim costs is implicit in courts’ jurisdiction over costs as it is set out in statutes such as the Supreme Court of British Columbia Rules of Court, which provides that the court may make orders varying from the usual rule that costs follow the event.[3]
+(Emphasis added.)
+[23] Section 147(1) of the Tax Court of Canada Rules provides as follows as to costs:
+The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+[24] The Supreme Court, per Lebel J., summarizes as follows the criteria for an award of interim costs:
+1. The party seeking interim costs genuinely cannot afford to pay for the litigation, and no other realistic option exists for bringing the issues to trial—in short, the litigation would be unable to proceed if the order were not made.
+2. The claim to be adjudicated is prima facie meritorious; that is, the claim is at least of sufficient merit that it is contrary to the interests of justice for the opportunity to pursue the case to be forfeited just because the litigant lacks financial means.
+3. The issues raised transcend the individual interests of the particular litigant, are of public importance, and have not been resolved in previous cases.[4]
+[25] In 2007, in Little Sisters, the Supreme Court, again per Lebel J., reexamined an application for interim costs and thereby narrowed even more the tests defined in Okanagan.
+[26] First, the tests are reiterated, but the Court adds in a way a new test or at least narrows the tests by stating that the case must be a special one, even rare and exceptional.[5]
+[27] Indeed, Lebel J. notes that it is only a "rare and exceptional" case that is special enough to warrant an advance costs award.[6] As to the applicable tests, Okanagan is, therefore, still good law, but the case must still be rare and exceptional.
+[28] This is in itself a truly very meaningful test that transcends all other tests. One thing is for certain, only this test makes it so that each test must be applied with particular attention.
+[29] Thus, it is not sufficient to meet the three criteria required to be entitled to and obtain interim costs. It is important to also take into account what the Court stated in another excerpt from that decision:
+The rule in Okanagan arose on a very specific and compelling set of facts that created a situation that should hardly ever reoccur.
+(Emphasis added.)
+[30] According to the Supreme Court, it is important to look at each of the issues raised by the applicant individually to determine whether they are meritorious.[7] The Supreme Court also ruled that the second and third Okanagan requirements are the most significant and often inseparable during an analysis.
+[31] The Supreme Court has provided guidance enabling a judge to determine whether a case is rare and exceptional. We will also analyze the facts so as to determine whether the case is a special and rare one, and even exceptional. The first requirement is as follows:
+1. The party seeking interim costs genuinely cannot afford to pay for the litigation, and no other realistic option exists for bringing the issues to trial—in short, the litigation would be unable to proceed if the order were not made.
+[32] A very important part of the evidence was used to determine whether or not such a financial test was satisfied. At the outset, it is obvious that the objection brought by the applicant requires a substantial amount of money. Furthermore, to date, he has already incurred major expenses.
+[33] With respect to the first Okanagan requirement, the Supreme Court states as follows in Little Sisters:
+The applicant must explore all other possible funding options. These include, but are not limited to, public funding options like legal aid and other programs designed to assist various groups in taking legal action. . . . An applicant must also be able to demonstrate that an attempt, albeit unsuccessful, has been made to obtain private funding through fundraising campaigns, loan applications, contingency fee agreements and any other available options. If the applicant cannot afford all costs of the litigation, but is not impecunious, the applicant must commit to making a contribution to the litigation;[8]
+The question of impecuniosity will not even arise where a case is not otherwise special enough to merit this exceptional award.[9]
+[34] The applicant described the steps he took and explained the difficulties he met with in trying to seek funding from both public and private organizations. He lost his line of credit with the Bank of Montréal after Revenu Québec began collection proceedings against him.
+[35] From the outset, the applicant attempted to engage and involve the leaders of his community, wanting and hoping that the community take up his cause and become involved in the matter. Despite the applicant’s repeated efforts to obtain assistance from his Band Council, they did not materialize, although the Board did agree to pay for the expert report by Claude Gélinas in the amount of $30,000.
+[36] The applicant also sought funding from various organizations such as the Court Challenges Program of Canada, Industries Canada, Canada Economic Development for Quebec Regions, the Department of Indian and Northern Affairs’ Test Case Funding Program as well as the Aboriginal Business Canada.
+[37] Besides the explanations and financial statements filed in support of his arguments, the applicant also submitted a sworn statement by his former accountant that it was impossible for him to obtain funding following notices of assessment and the poor financial position of his business.[10]
+[38] André Benoit, management and business development consultant who has been working for the Corporation de Développement Économique Montagnaise for 22 years, also indicated as follows in his sworn statement:
+[Translation]
+7 – In my view, the analysis of his financial statements, taking into account the impact of the departments’ claim, demonstrates that the business could technically be considered to be in bankruptcy by a lending institution;
+8 - The business of Édouard Robertson has neither the funds to discharge such a claim, nor any security to obtain funding for the payment, as a request for funding to satisfy that type of debt is usually not received favourably;
+12 – The cost of defending his rights depleted the financial reserves he accumulated over the years, and the possibility, in the present circumstances, of obtaining new funding is, for all intents and purposes, null;[11]
+[39] At the time of the application, the applicant had already spent considerable amounts of money; moreover, the total amount of unpaid fees he still owed was over $50,000 based on his counsel’s last invoice; since then, other fees have been added. Given the situation and the fact that the preparation and presentation of his case at a future trial will require even more significant amounts of money, he believes he is entitled to receive financial support from the opposing party.
+[40] The evidence also established that the applicant works for the Société de Développement Économique Ilnu and receives a tax free salary of $75,000 a year, which must be taken into account in analyzing his financial means.
+[41] In keeping with the facts and comments of the Supreme Court in Little Sisters, it appears to me that while the applicant has demonstrated a measure of financial hardship, he is not without resources as his business and the fur trade are not his sole means of support.
+[42] It is evident that the objection to the assessments nevertheless leads and will lead to substantial costs; in that respect, the evidence is clear and determinative. It is also obvious that the parties to the objection have considerably disproportionate means, which, in the applicant’s view, constitutes in itself an important, determinative factor in support of his application. Hence, such an interpretation could mean that any legal recourse against the Crown could entitle the applicant to interim costs.
+[43] I do not believe that the case law supports such an interpretation or attaches as determinative an importance to that factor. While it is clearly a factor and a consideration, it is not in itself sufficient. The financial dimension must be assessed in a more global context.
+[44] As the financial criterion must be assessed from the perspective of the so-called special, rare and exceptional case, I believe it is pertinent to note that no intervenors or witnesses have been able to explain how the case could be of public interest, while justifying at the same time their disinterest in terms of financial participation.
+[45] Who should bear the costs of such a debate? The applicant submits that he has depleted all of his resources and that he unsuccessfully took all steps to obtain the necessary support, thereby qualifying him for interim costs by emphatically pointing to the unreasonably disproportionate paying capacity of the parties in question.
+[46] That is clearly indisputable; however, should a finding of eligibility to interim costs be automatically rendered where there is an imbalance in the paying capacity of either party to a dispute? Once again, such an approach would entitle applicants in all recourses against the Crown to interim costs.
+[47] On the one hand, I do not believe that inequality of financial capacity is in itself a determinative test; on the other hand, I believe it is pertinent to note that if the quality of the remedy, the interests at stake and their potential future benefits are present, obvious and compelling factors, it is surprising in this case to observe the total indifference of all potential intervenors. Is that not a very obvious indication that the only interests at stake are those of the applicant?
+[48] The second Okanagan requirement reads as follows:
+The claim to be adjudicated is prima facie meritorious; that is, the claim is at least of sufficient merit that it is contrary to the interests of justice for the opportunity to pursue the case to be forfeited just because the litigant lacks financial means.
+[49] On that aspect, the Supreme Court indicated that an applicant must prove that the interests of justice would not be served if a lack of resources made it necessary to abort the litigation. In other words, the fact that the appellant’s application would not be dismissed summarily is not sufficient to establish that interim costs should be awarded to make it possible to proceed with the case;[12] Hugessen J. of the Federal Court adds as follows in Joseph v. Canada:
+In my view it is enough for me to find, as I do, that they have a reasonable chance of obtaining at least some of what they seek.[13]
+[50] In the light of those comments, financial incapacity is not only not sufficient to obtain interim costs, but also requires the issue in dispute to be one that should appropriately be dealt with at least in part in favour of the applicant. Thus, it becomes necessary to question the relevance of the issues raised by the applicant with respect to what needs to be analyzed based on incomplete evidence at this stage of the proceedings if the applicant raises questions of law that would allow the Court to find in his favour, at the very least in part, especially with respect to the constitutionality of section 89 of the Indian Act and the compatibility of the Indian Act with the Excise Tax Act.
+[51] Recently, in Gilles Caron,[14] the Supreme Court of Canada stated as follows at paragraphs 21, 22 and 23:
+[21] The provincial court was confronted with a potential failure of justice once the unexpected length of the trial had exhausted Mr. Caron's financial resources. By that time, substantial trial time and costs had already been expended, including the substantial public monies provided under the Court Challenges Program. In mid-trial the provincial court, so to speak, had a tiger by the tail. The Crown insisted on pursuing the prosecution in provincial court; Mr. Caron insisted on his French language defence. Neither side expressed any interest in a stay of proceedings.
+[22] The courts in Alberta were clearly concerned lest the Crown achieve, by pressing on with the prosecution in the provincial court, an unfair advantage ("lop-sided", Ritter J.A. called it) over the accused in the creation of the crucial factual record on which an important constitutional issue would be determined. A lopsided trial would not have put the languages issue to rest. Mr. Caron's challenge was considered by the courts below to have merit and in their view it was in the interest of all Albertans that the challenge be properly dealt with.
+[23] I should make it clear that the present decision does not constitute a general invitation for applications to fund the defence of ordinary criminal cases where constitutional (including Charter) issues happen to be raised. In those cases the gravamen is truly the criminal offence. Here the traffic court context is simply background to the constitutional fight. A more appropriate analogy, as will be discussed, is the Okanagan/Little Sisters (No. 2) paradigm for public interest funding in a civil case.
+[52] The applicant argues that the Indian Act is discriminatory within the meaning of section 15 of the Charter. Particularly, section 89 of the Indian Act, which, in fact, prevents an Indian from giving security against his property, would be discriminatory within the context of the application of the Excise Tax Act.
+[53] Indeed, section 89 precludes Indians from trading under their name and requires them to incorporate for the purposes of carrying on a business and precludes them from giving security against their property, which denies them the tax exemption provided for in section 87 of the Indian Act.
+[54] Section 89 provides that the real and personal property of an Indian situated on a reserve is not subject to charge, pledge, mortgage, attachment, levy, seizure, distress or execution in favour or at the instance of any person other than an Indian or a band. It is therefore a provision the essential objective of which is the safeguarding of the heritage of persons with Indian status.
+[55] Now, section 15 of the Charter provides that:
+(1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+(2) Subsection (1) does not preclude any law, program or activity that has as its object the amelioration of conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+[56] In a recent case, Ermineskin, the Supreme Court considered the constitutionality, under section 15 of the Charter, of sections 61 to 68 of the Indian Act.
+[57] The facts were as follows. The Crown held money in trust for the bands, composed mainly of royalties derived from the oil and gas reserves found beneath the surface of reserves in Alberta. Interest was paid on that money by the Crown pursuant to Orders in Council made under the Indian Act. According to the Band Councils, the Crown's fiduciary obligations required it to invest oil and gas royalties received on behalf of the bands as a prudent investor would, that is, to invest the royalties in a diversified portfolio. They also argued as follows:
+If this Court finds that those provisions [sections 61 to 68 of the Indian Act] preclude the Crown from investing the royalties in the manner of a common law trustee, the result is discriminatory. They argue that because they are Indians, they have been deprived by the Indian Act of the rights that are available to non‑Indians whose property is held in trust by the Crown.[15]
+[58] The Bands’ appeal was dismissed. As to whether a provision of the Indian Act is discriminatory, the Supreme Court stated as follows:
+This Court’s equality jurisprudence makes it clear that not all distinctions are discriminatory. Differential treatment of different groups is not in and of itself a violation of s. 15(1). As this Court stated in Andrews v. Law Society of British Columbia, [1989] 1 S.C.R. 143, at p. 182 (restated in R. v. Kapp, 2008 SCC 41, [2008] 2 S.C.R. 483, at para. 28), a complainant must show “not only that he or she is not receiving equal treatment before and under the law or that the law has a differential impact on him or her in the protection or benefit accorded by law but, in addition, must show that the legislative impact of the law is discriminatory” (emphasis added). The analysis, as established in Andrews, consists of two questions: first, does the law create a distinction based on an enumerated or analogous ground; and second, does the distinction create a disadvantage by perpetuating prejudice or stereotyping.[16]
+(Emphasis added.)
+[59] Section 89 does not put Indians at a disadvantage; quite the opposite. Indeed, the purpose of the provision is the protection of their property. It is true that section 89 could cause difficulties for Aboriginal business contractors, however such contractors do not require the protection of section 89 as they could always get around the application of the Indian Act by incorporating so as to carry on business activities with non-Aboriginals. I fail to see how the fact of doing business through a distinct legal entity would cause them to lose their Aboriginal identity.
+[60] One thing is certain, I hardly see, if at all, how section 89 of the Indian Act causes prejudice to the applicant. It is at best a very small irritant that also affects all those who operate a business covered by, or subject to the Excise Tax Act. The irritant does not stem from the individual’s status, but from his decision to operate a business subject to the Act.
+[61] The applicant also submits that Indians cannot be forced to collect, as agents of the Crown exercising fiduciary obligations, the G.S.T. and Q.S.T., as that would be contrary to and irreconcilable with the duties, as fiduciary and agent, that the Crown itself has toward Indians owing to their special status established by the Indian Act.
+[62] Indeed, the Indian Act creates a special status for Indians that derogate from the general law. Indians are considered to be a ward of the state.[17] For instance, it should be noted that Indians cannot give security against their property under section 89, as mentioned earlier, and that they are exempt from taxation under section 87 of the Indian Act.
+[63] As a result, in the applicant’s view, section 221 ETA, which imposes on merchants a duty to collect and remit taxes to Her Majesty in right of Canada, is inconsistent with the legal capacity of Indians set out in the Indian Act.
+[64] According to the applicant, on the one hand, it would be inconsistent to prevent Indians from giving security against their property and on the other, to impose on them the burden of withholding and remitting consumption taxes.
+[65] I do not understand how that would be inconsistent; the legal capacity required to carry out basic administrative activities in operating a business is not in issue.
+[66] Collecting and remitting taxes does not require the ability to deal or the power to dispose. They are essentially administrative and management operations.
+[67] While such a legislative system may appear prima facie illogical or unfair in the applicant’s eyes, it is certainly not prima facie illegal or unconstitutional. The appropriate forum in such circumstances is the House of Commons, not the Court.
+[68] Also according to the applicant, seeing as section 221 ETA is inconsistent with the legal status of Indians, it must be declared unenforceable as section 88 of the Indian Act provides as follows:
+Subject to the terms of any treaty and any other Act of Parliament, all laws of general application from time to time in force in any province are applicable to and in respect of Indians in the province, except to the extent that those laws are inconsistent with this Act. . . .
+[69] The applicant’s submissions also face another reality that is equally insurmountable. Section 88 of the Indian Act relates to provincial legislation and not federal legislation such as the Excise Act. The revelancy of such a section, in a challenge of federal legislation by Indians, is therefore dubious, if not highly debatable. Even if one were to assume that section 88 is applicable, once again, it would have no impact as to the applicant’s submissions, as the Supreme Court interpreted the section as follows:
+I believe that a distinction should be drawn between two categories of provincial laws. There are, on the one hand, provincial laws which can be applied to Indians without touching their Indianness, like traffic legislation; there are on the other hand, provincial laws which cannot apply to Indians without regulating them qua Indians.
+Laws of the first category, in my opinion, continue to apply to Indians ex proprio vigore as they always did before the enactment of s. 88.[18]
+[70] The duty to collect the GST and remit it to the appropriate government authorities is one of general application, which, prima facie, does not affect Indianness. It is a duty that applies solely in business exchanges with non-Aboriginals.
+[71] It is true that Indians enjoy special status under the Indian Act. Such a special status is aimed at protecting Indians, but it does not make them out to be incapable persons with inferior capacities.
+[72] Was his legal capacity to act alone as an appellant in the case questioned? Thus, it is not because the applicant is deprived of certain rights on a personal level, of which the purpose is exclusively to protect his heritage, that he does not possess the intellectual capacities to collect consumption taxes on sales to non-Indians.
+[73] Moreover, Indians involved in business activities who feel penalized by the Indian Act can always incorporate to properly conduct their business, without anyone’s authorization.
+[74] Also, nothing in the Indian Act or the case law, to our knowledge, specifies that Indians are not required to collect consumption taxes from non-Indians in operating a business where clients are part Indian and part non‑Indian.
+[75] The absence of authority on what the applicant describes or characterizes as being very fundamental is undoubtedly experienced on a daily basis by hundreds, if not thousands of people with Indian status.
+[76] Where are those people? How does one explain their indifference or apparent lack of interest? I will venture two answers, either the applicant did not do his homework in seeking financial support or the applicant’s submissions do not have the legal ingredient or characterization he attributes to them. Regardless of the answer or assumption made, the outcome is the same. The applicant’s application does not meet the public interest requirement as what is at stake here is essentially the applicant’s interest.
+[77] It is also possible that the negotiations in the course of the framework agreement will provide further answers. But again, it is not for this Court to predict the possible outcome of such negotiations or even assume what the applicant’s hopes and expectations are in that respect. The assessment and analysis must be carried out on the basis of the available elements and not in view of assumptions or speculations that have no reasonable basis.
+[78] In the meantime, the Crown must balance both the interests of Canada’s Aboriginal and non-Aboriginal communities. As the Supreme Court stated in Ermineskin,
+[t]he Crown has responsibilities to all Canadians, and some balancing inevitably must be involved.[19]
+[79] To conclude, such arguments are based more on speculations than on the rights arising out of the Indian Act. The applicant’s submissions do not show prima facie that the issues raised with respect to inconsistency between the Indian Act and the Excise Tax Act are meritorious.
+[80] Although the conclusions drawn today do not prejudice any future decisions on the merits, the facts are in my view sufficiently clear and abundant to conclude that the chances of success on this aspect are low, if not very low at least on the basis of the evidence adduced.
+Aboriginal rights
+[81] From the outset, the issue of Aboriginal rights is a very important one as it can give rise to very important entitlements; it is an issue that has generated a number of major decisions. Despite the abundant case law, there is still no easy recipe to determine their existence. The decisions are unanimous, to the effect that each case is unique.
+[82] In the case at bar, the issue of Aboriginal rights involves two different components. One consists in claiming that the community to which the applicant belongs enjoys Aboriginal self-governance; the other is to the effect that his community engaged in fur trade practices, in accordance with the customs that were in existence when the Europeans arrived. In that respect, the applicant submits that the economic activities giving rise to the assessment, which he appeals, is an activity that is directly related to the Aboriginal right in issue.
+[83] Although, it is not a matter of Aboriginal rights, general or universal, the applicant submits that the right claimed lies in and stems from the widespread practices of the customs and/or traditions forming an integral part of the particular culture of the applicant’s community prior to the arrival of the Europeans and subsequently with them.
+[84] Although the issue of Aboriginal rights is an important component as the basis of the applicant’s claims both in terms of the expectations of his rights and obligations, as to the Excise Tax Act and the issue of self-governance, particularly where taxation is concerned, I prefer to exclude it from my analysis as it would be dangerous to draw any conclusions to that effect on the sole basis of the expert report[20]* filed in the docket and rather superficial explanations discussed above.
+[85] However, assuming that such a right exists, with respect for the contrary opinion, I do not believe that it supports or confirms the appellant's submission that he is not subject to the Excise Tax Act, even with respect to business activities with non‑Indians.
+[86] Furthermore, in the case of an unequivocal recognition of an Aboriginal right, would such a recognition uphold the applicant’s objection?
+[87] I note that the bases of the claimed Aboriginal right involves fur. Although the courts have clearly indicated that analyses aimed at determining whether or not there is an Aboriginal right must take into account changes over time, evolution and everything else that could have occurred over time. In other words, some changes in the exercise of the right did not put an end to the right claimed. I recall, however, that the right claimed is related to the fur trade which brought considerable benefits to the applicant’s ancestral community.
+[88] However, in this case, the evidence clearly established that, on the one hand, the fur component was of a rather marginal significance, and that on the other, the clients were predominantly non‑Indian. Finally, only the applicant’s immediate family operated the business.
+[89] Those are factors that render the possible outcome more speculative than reasonable as to the impact of a possible Aboriginal right to trade in fur unless fur today means all apparel necessary to clothe oneself outside the summer season, which would be rather surprising.
+[90] The issues of Aboriginal rights involve the Mashteuiastsh Nation as a whole. However, it would appear as though that community prefers negotiation. There is in fact an agreement-in-principle of general nature, dated March 31, 2004, between the two levels of government and the Mashteuiatsh Nation to which the applicant belongs. The agreement-in-principle aims at settling issues pertaining to Aboriginal rights.
+[91] The following excerpts from the agreement’s preamble[21] and treaty’s draft preamble[22] are revealing of the parties’ intentions and surely explain why the Band Council did not apply to intervene in the proceeding:[23]
+Whereas the highest courts have repeatedly asserted that the reconciliation of the legitimate constitutional interests of Aboriginal peoples and of the Crown are more a matter of policy than of law and can only be achieved if the Parties agree to make mutual concessions during the negotiating process, which process is essentially political in nature;
+Whereas in the current legal context, it cannot be said with certainty which Innu entity is the holder of aboriginal rights, including aboriginal title, and the Parties agree upon determining, for the future, which Innu entity shall exercise the rights recognized, affirmed and protected by the Treaty;
+Whereas the Parties are aware that the reconciliation of the legitimate constitutional rights of the aboriginal peoples and of the Crown belongs to the political rather than the judicial realm and that the Parties have made concessions to realize this reconciliation;
+Whereas the Parties agree to ensure by way of treaty rather than by judicial means the recognition, confirmation and continuation of the aboriginal rights of the First Nations of Mamuitun and the First Nation of Nutashkuan, including aboriginal title, and not their extinguishment;
+(Emphasis added.)
+[92] It is possible that the agreement-in-principle will eventually lead to an acceptable compromise for all parties. However, it is highly unlikely that such a compromise will be in favour of Indians and to the detriment of non‑Indians to the point where Indians will be able to do business with non‑Indians, in such a way as to create serious prejudice to non‑Indians who have chosen to be involved in the same type of economic activity.
+[93] When the Supreme Court of Canada indicated that the Crown had obligations to all Canadians and that a weighing of the various interests at stake was inevitable, it is obvious that our scenario is in keeping with that reality and logic.
+[94] In the case at bar, the applicant would like to benefit exclusively from what is to his advantage and do away with what he does not personally agree with or that which proves to be a minor irritant.
+[95] Generally, an Indian who operates a business must collect and remit the taxes on sales to non‑Indians, just as a non-Indian merchant must provide for in their accounting records a percentage of sales to Indians generally exempted from taxation.
+[96] In the case at bar, the applicant’s arguments show that he wants to benefit exclusively from the provisions that work to his advantage and do away with everything that is irritating to him.
+[97] The third Okanagan requirement reads as follows:
+The issues raised transcend the individual interests of the particular litigant, are of public importance, and have not been resolved in previous cases?
+[98] Although I am of the view that I have given an answer to the question, I would nevertheless like to complete it with an excerpt from Little Sisters, a Supreme Court decision :
+No injustice can arise if the matter at issue could be settled, or the public interest could be satisfied, without an advance costs award.[24]
+Is the applicant’s appeal a rare and exceptional case?
+[99] Even if the Court were of the view that the three Okanagan requirements are met it is still necessary that the case be a special, rare and exceptional one?
+[100] The applicant cited a number of decisions, including Quebec (Attorney General) v. Corneau. In that case, a number of Métis claimed that they had Aboriginal rights including that of maintain camps on the public land they occupied. They applied for interim costs to pursue the proceedings. The judge allowed the application. The following facts, according to the judge, show that the case was of public interest:
+[Translation]
+For this reason, the respondents will not be the only ones to benefit from a favourable judgment, if any. If the Aboriginal rights they are claiming were recognized, the impact of the case law would also be beneficial to the members of the intervening community, which has over 3,000 members.
+The case, as it stands, also shows that other disputes of the same nature are being raised and could benefit, favourably or not, from the outcome of that under review. The latent cases identified are in Bas-Saint-Laurent (Métis-4), Basse-Côte-Nord (Métis-5), Outaouais (Métis-6) and Beauce (Métis-7).
+Finally, it can be usefully pointed out that the steps taken by the intervening community, for the recognition of the existence of a Métis community on the territory of Saguenay-Lac-Saint-Jean, has been receiving the support of 22 municipal political bodies, including the Ville de Saguenay, since 2005 (Exhibit R-19).
+The case being dealt with therefore present characteristics of public interest that are evident and important.[25]
+[101] Clearly, this case does not raise the same passion for Aboriginal and non-Aboriginal communities across the country, the province or even the Lac-St-Jean region, as the Band Council the applicant belongs to refused to become involved, other than agreeing to assume the inherent costs related to the preparation of an expert report it wished to benefit from in the context of its own concerns to validate its own claims in its negotiations.
+[102] In Okanagan, four Indian bands began logging on Crown land in B.C. without authorization. The harvested timber was to be used for the construction of new housing. The Bands claimed that they had aboriginal title to the lands in question and were entitled to log them. The Indian communities were facing grave social problems, including high unemployment rates, lack of housing, inadequate infrastructure, and they were forced to run deficits to finance their day-to-day operations. Considering their very limited financial means, the bands applied to the British Columbia Supreme Court for interim costs. Lebel J. ruled as follows:
+The issues sought to be raised at trial are of profound importance to the people of British Columbia, both aboriginal and non‑aboriginal, and their determination would be a major step towards settling the many unresolved problems in the Crown-aboriginal relationship in that province. In short, the circumstances of this case are indeed special, even extreme.[26]
+[103] The facts in Okanagan illustrate that the decision of the Court would have a major impact on the entire community. They needed timber to build housing and it was a necessity for the community’s survival. Moreover, it seemed important that the Court implement a proper land claim settlement method.
+[104] The Supreme Court also stated in Little Sisters:
+This means that a litigant whose case, however compelling it may be, is of interest only to the litigant will be denied an advance costs award. It does not mean, however, that every case of interest to the public will satisfy the test.[27]
+[105] More recently, the Supreme Court of Canada in R. v. Caron, stated as follows at paragraphs 44 and 45:
+[44] The public importance aspect of the Okanagan test has three elements, namely that "[t]he issues raised transcend the individual interests of the particular litigant, are of public importance, and have not been resolved in previous cases" (para. 40). Not every constitutional case meets these criteria, as it could not be said in each and every case that it is "sufficiently special that it would be contrary to the interests of justice to deny the advanced costs application" (Little Sisters (No. 2), para. 37). What is "sufficiently special" about this case is that it constitutes an attack of prima facie merit (as that term is used in Okanagan) on the validity of the entire corpus of Alberta's unilingual statute books. The impact on Alberta legislation, if Mr. Caron were to succeed, could be extremely serious and the resulting problems ought, if it becomes necessary to do so, to be addressed as quickly as possible. A lopsided contest in which the challenger, by reason of impecuniosity, had to abandon his defence in the midstream of the trial would not lay the issue to rest. The result of Mr. Caron's collapse at the final stage of the trial would simply be that the costs and judicial resources already expended on resolving this issue by the public, as well as by Mr. Caron, would be thrown away.
+[45] The injury created by continuing uncertainty about French language rights in Alberta transcends Mr. Caron's particular situation and risks injury to the broader Alberta public interest. The Alberta courts have taken the view that the status and effect of the 1869 Proclamation was not fully dealt with in the previous litigation. It is in the public interest that it be dealt with now. This makes the case "sufficiently special" under the Okanagan/Little Sisters (No. 2) criteria, in my opinion.
+[106] The applicant is the only member of the community to be actively engaged in the fur trade. That activity is not a business that is essential to the survival of the Mashteuiastsh community as logging may have been for the Indian community of Okanagan. The trial issue therefore is of interest to him, but no evidence was adduced to the effect that the decision of the Court would have major repercussions on his community or other persons or groups, or at least no one attested to that.
+[107] The laws of a society are not a large menu where a person can pick and choose what is to their advantage or not under the pretext that there is inconsistency. In that same vein, those same rules must also apply to all those who decide to play by them.
+[108] Another decision cited by the applicant is Joseph v. Canada,[28] which presents rare and exceptional circumstances that are not found in the applicant’s appeal. In that case, the Aboriginal band had unaided supported this litigation from the very beginning. It was a small band with virtually no resources and dependant upon funds provided by the government. Moreover, for over 25 years the government never stopped promising that the situation would be remedied.
+[109] In the case at bar, the circumstances are not comparable to the facts of the decisions mentioned above. Accordingly, in my view, it is not appropriate to characterize the applicant’s case as special, rare and exceptional.
+[110] After having heard the applicant’s submissions and having reread two or more times certain passages from the transcription, it is in my opinion quite obvious that he goes all over the map without ever reaching a destination. My finding, severe as it is, is even more warranted when the case is viewed in its global context.
+[111] The applicant submits that he meets the required criteria with respect to public interest while not having the required financial resources to assert his rights. Theoretically, the appellant’s case raises an issue that could have significant consequences on a great number of Canadians as well.
+[112] Could all Indians operating an economic activity subject to the Excise Tax Act eventually become exempt from its application? In the affirmative, why have they not expressed an interest? Why have they not been solicited? The answers to those two questions undoubtedly stem from the disputable merits of his argument.
+[113] Indeed, the obligations imposed by the Excise Tax Act are not as monstrous as suggested by the applicant. They are rather simple and, in this case, only concern business conducted with non‑Indians.
+[114] From the outset, the applicant has insisted on taking justice into his own hands and the problem was amplified with his bravado, to the point where he had to accept the obvious, that conducting business with non‑Indians required that he respect certain rules of the game.
+[115] At that moment, the situation deteriorated considerably, to the point where he is currently in a situation where he does not have the means for his ambition and would like to bring the Crown into his rash venture, of which the chances of success are for all intents and purposes very low. Furthermore, there is no determinative evidence that the issue or issues in dispute are limited to the applicant’s sole interests.
+[116] The applicant demonstrated a certain financial incapacity, but is not impecunious; his business and the fur trade are not his only means of support.
+[117] On the whole, the applicant’s case does not present the special, or even rare and exceptional characteristics warranting the award of interim costs. His application should be dismissed on that ground alone.
+[118] Therefore, the application for interim costs is dismissed, with costs in favour of the respondent. The requirements established by the Supreme Court are not met. As to the issues relating to the inconsistency between the Indian Act and the Excise Tax Act, tha applicant has no reasonable chances of success, as it is not in the interest of justice and the public that the issue of Aboriginal rights is being dealt with by the court at this stage.
+Signed at Ottawa, Canada, this 17th day of February 2011.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+On this 6th day of April 2011
+François Brunet, Revisor
+CITATION: 2011 TCC 83
+COURT FILE NO.: 2004-2266(GST)G
+STYLE OF CAUSE: Édouard Robertson and The Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: September 7 and 8, 2010
+REASONS FOR ORDER BY: The Hon. Alain Tardif
+DATE OF ORDER: February 17, 2011
+APPEARANCES:
+For the Appellant:
+François Bouchard
+Counsels for the Respondent:
+Patrick Vézina and Anick Pelletier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: François Bouchard
+Firm: Cain Lamarre Casgrain Wells
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] British Colombia (Minister of Forests) v.Okanagan Indian Band, [2003] 3 S.C.R. 371, 2003 SCC 71.
+[2] Little Sisters Book and Art Emporium v. Canada (Commissioner of Customs and Revenue), 2007 SCC 2, [2007] 1 S.C.R. 38.
+[3] Okanagan, at para. 35.
+[4] Okanagan, at para. 40.
+[5] Little Sisters, at paras. 38 and 61.
+[6] Little Sisters, at paras. 38 and 61.
+[7] Little Sisters, at para. 74.
+[8] Little Sisters, at para. 40.
+[9] Little Sisters, at para. 46.
+[10] R-4, Volume 2 of 2, Tab H.
+[11] R-4, Volume 2 of 2, Tab G.
+[12] Little Sisters, at para. 51.
+[13] Joseph c. Canada, 2008 FC 574, at para. 16.
+[14] R v. Caron, 2011 S.C.J. 5, paras. 21, 22 and 23.
+[15] Ermineskin Indian Band and nation v. Canada, 2009 SCC 9, [2009] 1 S.C.R. 222, at para. 185.
+[16] Ermineskin Indian Band and nation v. Canada, at para. 186.
+[17] See Tab 8, Volume 2, Cahier d’autorités de l’Appelant: DUPUIS Renée, Le statut juridique des peuples autochtones en droit canadien, 1999, Thompson Canada Limited, p. 33.
+[18] R. v. Dick, [1985] 2 S.C.R. 309, at paras. 38 and 39.
+[19] Ermineskin Indian Band and nation v. Canada, 2009 SCC 9, at para. 129.
+[20] *prepared by anthropologist and historian Claude Gélinas.
+[21] p. 1 of the text.
+[22] pp. 5 and 6 of the text.
+[23] Where it is claimed by a person that such person has an interest in a proceeding such person may apply for intervenor status under section 28 of the Tax Court of Canada Rules.
+[24] Little Sisters, at para. 41.
+[25] Quebec (Attorney General) v. Corneau, 2010 QCCS 463, paras. 56 to 59.
+[26] Okanagan, at para. 46.
+[27] Little Sisters, at para. 39.
+[28] Joseph v. Canada, 2008 FC 574.

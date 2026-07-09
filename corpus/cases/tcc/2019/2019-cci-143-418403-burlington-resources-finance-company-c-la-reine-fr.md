@@ -1,0 +1,317 @@
+---
+title: "Burlington Resources Finance Company c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/418403/index.do"
+last_modified: "2019-07-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 143"
+citation2: ""
+neutral_citation: "2019 CCI 143"
+decision_date: "2019-07-09"
+language: "fr"
+item_id: "418403"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4387
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:14:03.819000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a595297a78876320204d8a57b4d029a0652a2cf54e6ebb81f2a09cb18b3a55b7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Burlington Resources Finance Company c. La Reine
+
+- Citation: 2019 CCI 143
+- Decision date: 2019-07-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4387, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burlington Resources Finance Company c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-07-09
+Référence neutre
+2019 CCI 143
+Numéro de dossier
+2012-2683(IT)G, 2013-2595(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2683(IT)G
+ENTRE :
+BURLINGTON RESOURCES FINANCE COMPANY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête instruite les 4, 5 et 8 avril 2019 à Toronto (Ontario) et décision rendue de vive voix à l’audience du 8 avril 2019
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocats de l’appelante :
+Me Alexander Cobb
+Me Andrew Boyd
+Avocates de l’intimée :
+Me Erin Strashin
+Me Alexandra Humphrey
+Me Jasmeen Mann
+Pour l’intimée :
+Gabrielle Jurewicz (parajuriste)
+ORDONNANCE
+Vu que l’intimée a déposé le 1er mars 2019 un avis de requête modifié en vue d’obtenir des réponses plus complètes et plus précises et a demandé les mesures suivantes :
+une ordonnance radiant les paragraphes 1 et 22, l’alinéa 19b) et la dernière phrase du paragraphe 3 de l’avis d’appel daté du 26 juin 2012, sans autorisation de le modifier;
+s’il y a lieu, l’autorisation de la Cour en application de l’article 8 des Règles de la Cour canadienne de l’impôt (procédure générale) de demander une ordonnance radiant des parties de l’avis d’appel, sans autorisation de le modifier, comme il est indiqué au paragraphe 1 ci-dessus;
+à titre subsidiaire, une ordonnance selon laquelle le défaut de l’appelante de produire des réponses conformes aux questions énumérées à l’annexe A de l’avis de requête modifié équivaut à un refus de répondre aux questions appropriées en application de l’article 96 des Règles de la Cour canadienne de l’impôt (procédure générale);
+toujours à titre subsidiaire, une ordonnance enjoignant à l’appelante de fournir des réponses conformes à certaines questions conformément à l’ordonnance de la juge D’Auray datée du 3 août 2017, plus précisément les questions énumérées à l’annexe A de l’avis de requête modifié, dans les 14 jours suivant la date de l’ordonnance de la Cour, ou à toute autre date que la Cour peut fixer, sans quoi elle sera réputée avoir refusé de répondre à ces questions aux fins de l’article 96 des Règles;
+une ordonnance enjoignant à l’appelante de produire les documents pertinents qu’elle a abusivement refusé de produire, notamment les documents pertinents qu’elle a refusé à tort de produire en réponse aux questions énumérées à l’annexe A de l’avis de requête modifié, dans les 14 jours suivant la date de l’ordonnance de la Cour à l’égard de cette requête, ou à toute autre date que la Cour peut fixer, sans quoi elle sera réputée avoir refusé de répondre à ces questions aux fins de l’article 96 des Règles;
+une ordonnance enjoignant à l’appelante de produire les copies non caviardées des documents qu’elle a produits dans leur forme caviardée seulement, plus précisément les documents pertinents qu’elle a refusé à tort de produire en réponse aux questions énumérées à l’annexe A de l’avis de requête modifié, dans les 14 jours suivant la date de l’ordonnance de la Cour à l’égard de cette requête, ou à toute autre date que la Cour peut fixer, sans quoi elle sera réputée avoir refusé de répondre à ces questions aux fins de l’article 96 des Règles;
+une ordonnance enjoignant aux parties de signifier leurs rapports d’expertise dans les délais suivants plutôt que dans les délais prévus dans les Règles, à savoir :
+les rapports des experts en chef à signifier à la partie opposée au plus tard le 20 septembre 2019;
+les rapports d’expert de réfutation à signifier à la partie opposée au plus tard le 1er novembre 2019;
+les rapports d’expert de contre-réfutation à signifier à la partie opposée au plus tard le 13 décembre 2019;
+les dépens de la présente requête;
+toute autre mesure de réparation susceptible d’être demandée par l’avocat de l’intimée et que la Cour estime juste.
+ET VU les observations des parties;
+LA COUR ORDONNE CE QUI SUIT :
+La requête est accueillie conformément aux motifs de l’ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 9e jour de juillet 2019.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 8e jour d'octobre 2020.
+François Brunet, réviseur
+Dossier : 2013-2595(IT)G
+ENTRE :
+CONOCO FUNDING COMPANY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête instruite les 4, 5 et 8 avril 2019 à Toronto (Ontario) et décision rendue de vive voix à l’audience du 8 avril 2019
+Devant : L’Honorable juge Johanne D’Auray
+Comparutions :
+Avocats de l’appelante :
+Me Alexander Cobb
+Me Andrew Boyd
+Avocates de l’intimée :
+Me Erin Strashin
+Me Alexandra Humphrey
+Me Jasmeen Mann
+Pour l’intimée :
+Gabrielle Jurewicz (parajuriste)
+ORDONNANCE
+Vu que l’intimée a déposé le 1er mars 2019 un avis de requête modifié en vue d’obtenir des réponses plus complètes et plus précises et a demandé les mesures suivantes :
+une ordonnance radiant les paragraphes 1 et 22, l’alinéa 19b) et la dernière phrase du paragraphe 3 de l’avis d’appel daté du 26 juin 2012, sans autorisation de le modifier;
+s’il y a lieu, l’autorisation de la Cour en application de l’article 8 des Règles de la Cour canadienne de l’impôt (procédure générale) de demander une ordonnance radiant des parties de l’avis d’appel, sans autorisation de le modifier, comme il est indiqué au paragraphe 1 ci-dessus;
+à titre subsidiaire, une ordonnance selon laquelle le défaut de l’appelante de produire des réponses conformes aux questions énumérées à l’annexe A de l’avis de requête modifié équivaut à un refus de répondre aux questions appropriées en application de l’article 96 des Règles de la Cour canadienne de l’impôt (procédure générale);
+toujours à titre subsidiaire, une ordonnance enjoignant à l’appelante de fournir des réponses conformes à certaines questions conformément à l’ordonnance de la juge D’Auray datée du 3 août 2017, plus précisément les questions énumérées à l’annexe A de l’avis de requête modifié, dans les 14 jours suivant la date de l’ordonnance de la Cour, ou à toute autre date que la Cour peut fixer, sans quoi elle sera réputée avoir refusé de répondre à ces questions aux fins de l’article 96 des Règles;
+une ordonnance enjoignant à l’appelante de produire les documents pertinents qu’elle a abusivement refusé de produire, notamment les documents pertinents qu’elle a refusé à tort de produire en réponse aux questions énumérées à l’annexe A de l’avis de requête modifié, dans les 14 jours suivant la date de l’ordonnance de la Cour à l’égard de cette requête, ou à toute autre date que la Cour peut fixer, sans quoi elle sera réputée avoir refusé de répondre à ces questions aux fins de l’article 96 des Règles;
+une ordonnance enjoignant à l’appelante de produire les copies non caviardées des documents qu’elle a produits dans leur forme caviardée seulement, plus précisément les documents pertinents qu’elle a refusé à tort de produire en réponse aux questions énumérées à l’annexe A de l’avis de requête modifié, dans les 14 jours suivant la date de l’ordonnance de la Cour à l’égard de cette requête, ou à toute autre date que la Cour peut fixer, sans quoi elle sera réputée avoir refusé de répondre à ces questions aux fins de l’article 96 des Règles;
+une ordonnance enjoignant aux parties de signifier leurs rapports d’expertise dans les délais suivants plutôt que dans les délais prévus dans les Règles, à savoir :
+les rapports des experts en chef à signifier à la partie opposée au plus tard le 20 septembre 2019;
+les rapports d’expert de réfutation à signifier à la partie opposée au plus tard le 1er novembre 2019;
+les rapports d’expert de contre-réfutation à signifier à la partie opposée au plus tard le 13 décembre 2019;
+les dépens de la présente requête;
+toute autre mesure de réparation susceptible d’être demandée par l’avocat de l’intimée et que la Cour estime juste.
+ET VU les observations des parties;
+LA COUR ORDONNE CE QUI SUIT :
+La requête est accueillie conformément aux motifs de l’ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 9e jour de juillet 2019.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 8e jour d'octobre 2020.
+François Brunet, réviseur
+Référence : 2019 CCI 143
+Date : 20190709
+Dossier : 2012-2683(IT)G
+ENTRE :
+BURLINGTON RESOURCES FINANCE COMPANY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2012-2683(IT)G
+ET ENTRE :
+CONOCO FUNDING COMPANY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge D’Auray
+[1] Le 3 août 2017, j’ai rendu une ordonnance relativement à une requête déposée par l’intimée pour obliger Burlington Resources Finance Company (Burlington) à répondre à des questions auxquelles elle avait refusé de répondre ou n’avait pas répondu correctement pendant l’interrogatoire préalable de M. Delk, la personne désignée pour Burlington et Conoco Funding Company (Conoco).
+[2] L’intimée a également déposé une requête pour obliger Conoco à répondre aux questions posées pendant l’interrogatoire préalable. Cette requête n’a pas été contestée. Les parties se sont plutôt entendues sur les questions auxquelles il faudrait répondre, en se fondant sur mon ordonnance rendue dans Burlington. Par conséquent, j’ai émis une ordonnance datée du 2 février 2018, reflétant l’entente des parties.
+[3] Au cours de l’été 2018, au cours d’une téléconférence, l’intimée a exprimé des préoccupations à l’égard de certaines des réponses données par les appelantes. L’intimée était d’avis que les réponses n’étaient pas pertinentes.
+[4] Conformément à mes ordonnances, les parties ont collaboré ensemble pour résoudre leur désaccord sur la plupart des questions en litige et je les remercie de leurs efforts. Cela dit, il y a toujours des questions en litige et, par avis de requête déposé en novembre 2018, l’intimée a demandé à la Cour de déterminer si les appelantes avaient omis de produire des réponses à ces questions. L’intimée a par la suite modifié son avis de requête pour demander des mesures supplémentaires. La requête modifiée est datée du 1er mars 2019 et demande les mesures suivantes :
+1. une ordonnance radiant les paragraphes 1 et 22, l’alinéa 19b) et la dernière phrase du paragraphe 3 de l’avis d’appel daté du 26 juin 2012, sans autorisation de le modifier;
+2. s’il y a lieu, l’autorisation de la Cour en application de l’article 8 des Règles de la Cour canadienne de l’impôt (procédure générale) de demander une ordonnance radiant des parties de l’avis d’appel, sans autorisation de le modifier, comme il est indiqué au paragraphe 1 ci-dessus;
+3. à titre subsidiaire, une ordonnance selon laquelle le défaut de l’appelante de fournir des réponses conformes aux questions énumérées à l’annexe A de l’avis de requête modifié équivaut à un refus de répondre aux questions appropriées en vertu de l’article 96 des Règles de la Cour canadienne de l’impôt (procédure générale);
+4. toujours à titre subsidiaire, une ordonnance enjoignant à l’appelante de fournir des réponses conformes à certaines questions conformément à l’ordonnance de la juge D’Auray datée du 3 août 2017, plus précisément les questions énumérées à l’annexe A de l’avis de requête modifié, dans les 14 jours suivant la date de l’ordonnance de la Cour, ou à toute autre date que la Cour peut fixer, sans quoi elle sera réputée avoir refusé de répondre à ces questions aux fins de l’article 96 des Règles;
+5. une ordonnance enjoignant à l’appelante de produire les documents pertinents qu’elle a abusivement refusé de produire, notamment les documents pertinents qu’elle a refusé à tort de produire en réponse aux questions énumérées à l’annexe A de l’avis de requête modifié, dans les 14 jours suivant la date de l’ordonnance de la Cour à l’égard de cette requête, ou à toute autre date que la Cour peut fixer, sans quoi elle sera réputée avoir refusé de répondre à ces questions aux fins de l’article 96 des Règles;
+6. une ordonnance enjoignant à l’appelante de produire les copies non caviardées des documents qu’elle a produits dans leur forme caviardée seulement, notamment les documents pertinents qu’elle a refusé à tort de produire en réponse aux questions énumérées à l’annexe A de l’avis de requête modifié, dans les 14 jours suivant la date de l’ordonnance de la Cour à l’égard de cette requête, ou à toute autre date que la Cour peut fixer, sans quoi elle sera réputée avoir refusé de répondre à ces questions aux fins de l’article 96 des Règles;
+7. une ordonnance enjoignant aux parties de signifier leurs rapports d’expertise dans les délais suivants plutôt que dans les délais prévus dans les Règles, à savoir :
+a. les rapports des experts en chef à signifier à la partie opposée au plus tard le 20 septembre 2019;
+b. les rapports d’expert de réfutation à signifier à la partie opposée au plus tard le 1er novembre 2019;
+c. les rapports d’expert de contre-réfutation à signifier à la partie opposée au plus tard le 13 décembre 2019;
+8. les dépens de la présente requête;
+9. toute autre mesure de réparation susceptible d’être demandée par l’avocat de l’intimée et que la Cour estime juste.
+[5] Au cours de l’audition, l’intimée a déclaré qu’elle ne voulait plus que Burlington réponde aux questions 2505 et 3371.
+[6] L’intimée ne demande pas non plus à Conoco de répondre aux questions 954, 1802, 2115, 1014, 2420 et 1811.
+[7] L’intimée soutient que les appelantes n’ont pas répondu de façon satisfaisante à ces questions et, par conséquent, qu'il y a manquement à mes ordonnances du 3 août 2017 (Burlington) et du 2 février 2018 (Conoco).
+[8] Les faits qu’il convient de prendre en considération pour trancher la présente requête se trouvent dans les motifs de mon ordonnance du 3 août 2017. Je ne les répéterai pas ici. Qu’il suffise de dire que la question en litige dans les deux appels porte sur le prix de transfert.
+[9] Les parties ont classé les questions en litige par catégories. La première catégorie se rapporte à la fourchette applicable des prix de pleine concurrence pour la garantie, la deuxième à la cote de solvabilité de la personne morale, la troisième à l’effet de la garantie sur le taux d’intérêt à l’égard de Conoco, la quatrième aux opérations de comparaison et la cinquième catégorie porte sur le caractère privilégié de certains documents.
+I. Catégorie 1 – Prix de pleine concurrence
+[10] Je commencerai par les questions relatives aux prix de pleine concurrence : questions 638, 1370D et 2724 pour Burlington et question 1881 pour Conoco.
+[11] La question 638 est celle-ci : selon l’appelante, quel est le montant de pleine concurrence pour assurer le soutien nécessaire de sa société mère? La question 1370D est celle-ci : selon l’appelante, quelle est la fourchette des prix de transfert de pleine concurrence? Les questions 2724 pour Burlington et 1881 pour Conoco sont les mêmes : quelle est la position des appelantes quant au prix qu’une partie n’ayant aucun lien de dépendance exigerait pour la garantie?
+[12] Dans mes ordonnances du 3 août 2017 et du 2 février 2018, j’ai obligé les appelantes à répondre à ces questions. Je l’ai fait en partie parce que, pendant l’interrogatoire préalable, M. Delk avait déclaré que les 50 points de base invoqués par les deux appelantes constituaient une fourchette de pleine concurrence.
+[13] De plus, Me MacDonald, avocate pour Burlington, a déclaré pendant l’interrogatoire préalable pour Burlington que, selon la lecture correcte de l’avis d’appel, les 50 points de base étaient un intervalle. Elle a expliqué que la position de Burlington était que des commissions de 50 points de base se situaient à l’intérieur de la fourchette de pleine concurrence. Me MacDonald s’est alors engagée à répondre à la question sur la fourchette des prix de transfert. Par conséquent, j’ai ordonné à Burlington de répondre à la question de savoir quelle était la fourchette pour le prix de transfert.
+[14] Lors de l’audition de la présente requête, les appelantes ont fait valoir qu’elles ne connaissaient pas la fourchette des prix de transfert pour les années visées par l’appel. Les appelantes soutiennent que le prix de transfert se situait au bas de l’échelle, soit 50 points de base. Les appelantes ont déclaré que les 50 points de base étaient fondés sur les conseils écrits reçus des banques d’investissement, et que ces conseils ont été fournis à l’intimée.
+[15] De plus, au cours de l’audition, les avocats des appelantes ont déclaré qu’ils souhaitaient corriger les réponses données par M. Delk et Me MacDonald pendant l’interrogatoire préalable. L’article 98 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») permet à une partie de corriger une réponse donnée par son représentant pendant l’interrogatoire préalable.
+[16] La réponse corrigée produite par l’avocat pour les appelantes est qu'elles ne connaissaient pas la fourchette des prix de transfert pour les années visées par l’appel. La seule information que les appelantes pouvaient donner était que le prix de transfert était d’au moins 50 points de base.
+[17] L’intimée est d’avis que les réponses des appelantes ne sont pas satisfaisantes puisque, dans mes ordonnances, je leur ai demandé de fournir la fourchette des prix de transfert. L’intimée a soutenu que les appelantes avaient eu suffisamment de temps pour consulter leurs experts afin de déterminer la fourchette des prix de transfert. À l’appui de sa thèse, l’intimée cite une jurisprudence de la Cour d’appel fédérale, Canada (Revenu national) c. Cameco Corporation, 2015 CAF 143 (« Cameco »).
+[18] Une explication des faits de l’affaire Cameco s’impose. Dans l’arrêt Cameco, l’intimée rejetait une observation dans les actes de procédure de Cameco selon laquelle le prix de transfert moyen de l’uranium entre Cameco et CEL était de 13,52 $ la livre. L’intimée était d’avis que Cameco n’avait pas tenu compte de tous les facteurs pertinents pour en arriver à ce prix.
+[19] Compte tenu de la position de l’intimée, Cameco lui a signifié un avis de demande d’admission que le prix de transfert moyen était de 13,52 $ la livre. L’intimée a refusé d’admettre ce prix et a plutôt déclaré qu’il n’y avait pas de prix de pleine concurrence pour l’uranium et que les prix ne pouvaient être établis qu’au moyen d’une formule complexe que l’Agence du revenu du Canada (Agence) avait mise au point et que des consultations avec des experts pourraient être requises pour obtenir les chiffres précis.
+[20] L’intimée a également soutenu qu’elle n’avait pas à répondre à l’avis de demande d’admission parce que le prix de transfert par livre d’uranium n’était pas pertinent puisqu’elle soutenait que l’opération n’était pas viable sur le plan commercial.
+[21] S’exprimant pour la Cour d’appel fédérale, le juge en chef Noël a rejeté la thèse de l’intimée selon laquelle le prix de transfert n’était pas pertinent et a ordonné à l’intimée de répondre à l’avis de demande d’admission. Le juge en chef Noël a observé que, puisque l’intimée se fondait sur l’alinéa 247(2)a) de la Loi de l’impôt sur le revenu dans sa réponse à l’avis d’appel, le montant du prix de transfert demeurait une question importante. Il s'est exprimé comme suit :
+[66] En réponse, la Couronne a fait remarquer que la question du prix de pleine concurrence entre Cameco et CEL n’avait pas d’incidence sur son argument puisqu’il repose sur la prémisse que des parties sans lien de dépendance n’auraient pas conclu de telles opérations. Cependant, le prix de pleine concurrence de l’uranium est un aspect pertinent de l’argumentation de Cameco et l’avocate de la Couronne n’a aucunement renoncé au droit de son client de se fonder sur les actes de procédure pour défendre une thèse différente au procès en ce qui concerne le prix de pleine concurrence dont Cameco et CEL auraient dû convenir relativement aux opérations de vente et d’achat d’uranium intervenues entre elles. Dans la mesure où la Couronne envisage de défendre une telle position au procès, elle a l’obligation de divulguer ce prix de pleine concurrence avant l’instruction, comme l’a déjà rappelé le juge en chef Rip à deux reprises.
+[67] Évoquant un souci d’un autre ordre, l’avocate de la Couronne a rappelé que, du point de vue de ce dernier, il était impossible d’établir un prix unique de pleine concurrence pour l’uranium et que la détermination des divers prix possibles passait nécessairement par le recours à une formule complexe mise au point par l’Agence du revenu du Canada (cahier d’appel, volume II, aux pages 502 à 547) et qu’il pourrait être nécessaire de consulter des experts pour déterminer avec précision les prix applicables.
+[68] Je suis conscient de ces difficultés. Ainsi, malgré le fait que cet aspect a déjà fait l’objet de deux ordonnances, j’accorderais à la Couronne un délai de soixante (60) jours pour communiquer à Cameco l’autre thèse qu’elle entend défendre concernant le ou les prix de pleine concurrence que Cameco et CEL auraient dû pratiquer relativement aux opérations de vente et d’achat d’uranium intervenues entre elles au cours de l’année d’imposition 2003, ou une formule permettant à Cameco de déterminer ce ou ces prix.
+[22] À mon avis, la jurisprudence Cameco n'est pas pertinente quant à la requête dont je suis saisie. Dans cette affaire, l’intimée a refusé de donner sa position sur le prix de transfert à Cameco. Par conséquent, en l’absence d’ordonnance de la Cour enjoignant à l’intimée d'en faire état, Cameco n’aurait pas su quels moyens lui étaient opposés. En l’espèce, contrairement à Cameco, l’intimée connaît les moyens qui lui sont opposés. La position des appelantes est claire : une partie n’ayant aucun lien de dépendance aurait exigé 50 points de base ou plus pour la garantie.
+[23] L’intimée demande à la Cour d’exiger des appelantes qu’elles consultent leurs experts et qu’elles lui fassent part de leurs opinions sur la fourchette des prix de transfert. Cela reviendrait à permettre que les questions posées lors de l’interrogatoire préalable exigent que des experts s’expriment à cet égard, ce qui n’est généralement pas l’objet d’un interrogatoire préalable.
+[24] J'abonde dans le sens de l’intimée : j’avais ordonné aux appelantes de produire la fourchette des prix de transfert, mais cette ordonnance était fondée sur les réponses données à l’interrogatoire préalable, à savoir que les 50 points de base se situaient à l’intérieur de la fourchette de pleine concurrence.
+[25] Toutefois, au moment de l’interrogatoire préalable, M. Delk savait qu’il devait y avoir une fourchette, mais il ne savait peut-être pas que les appelantes n’avaient aucune idée de ce en quoi cette fourchette consistait. Cela a été clarifié par la correction offerte par les avocats des appelantes.
+[26] De plus, contrairement à l'affaire Cameco, les appelantes n’ont pu déterminer la fourchette des prix de transfert au cours des années visées par l’appel sans consulter leurs experts. Je ne peux pas exiger des appelantes qu’elles consultent leurs experts pour connaître la fourchette des prix de transfert au cours des années visées par l’appel. Ces renseignements seront fournis par les experts des appelantes au moment du dépôt des rapports d’expert. Par conséquent, je suis d’avis que les réponses produites par les appelantes sont satisfaisantes, à savoir qu’une partie n’ayant aucun lien de dépendance aurait exigé 50 points de base ou plus pour la garantie.
+II. Catégorie 2 – Cote de solvabilité de la personne morale
+[27] Je discuterai maintenant les questions relatives à la cote de solvabilité de la personne morale.
+[28] Dans mes ordonnances datées du 3 août 2017 (Burlington) et du 2 février 2018 (Conoco), j’ai ordonné aux appelantes de répondre aux questions portant sur la cote de solvabilité de la personne morale au moment de l’émission de chaque obligation. Les questions applicables à Burlington étaient les suivantes : 2484, 3353, 3354, 3361, 3365, 3369, 3373, 3377, 3381, 3385, 3389 et 3393, tandis que celles applicables à Conoco étaient les questions 1797, 1798 et 1799.
+[29] La question 2484 était la suivante : Quelle est la position de Burlington relativement à sa cote de solvabilité au moment de l’émission de chaque obligation? La question 3353 était la suivante : Au procès, Burlington soutiendra-t-elle qu’elle n’avait pas de cote de solvabilité durant les périodes en cause dans le présent appel?
+[30] Au paragraphe 336 de mes motifs d’ordonnance datés du 3 août 2017, j’ai observé au sujet des questions 2484 et 3353 :
+[336] La question 2484 est identique aux questions de l’intimée de la catégorie 39. Comme pour la catégorie 39, je conclus que, si la cote de solvabilité au moment de l’émission des billets et avant le 12 février 2001 est identique à celle indiquée dans la lettre de la banque d’investissement, il n’y rien à redire. Burlington peut confirmer facilement cette information. Si sa cote de solvabilité a changé, Burlington doit préciser quelle était sa cote de solvabilité au moment de l’émission des billets et expliquer les raisons de ce changement. Si Burlington ne sait pas quelle était sa cote de solvabilité au moment de l’émission des billets, elle doit le confirmer.
+[31] Lors de l’audition de la requête, les appelantes ont soutenu qu’aucune agence de crédit n’avait attribué de cote de solvabilité aux appelantes à quelque moment que ce soit durant l’appel. La seule cote de solvabilité qu’elles avaient obtenue était une cote de crédit et cette information avait été communiquée à l’intimée. Les appelantes ont donc répondu de façon satisfaisante aux questions 2484 et 3353. Dans mon ordonnance à l’endroit de Burlington, j’ai observé que si elle ne connaissait pas la cote de solvabilité de la personne morale, elle devait simplement le confirmer. C’est ce que les appelantes ont fait.
+[32] Les questions 3354, 3361, 3365, 3369 et 3373 portaient sur la cote de solvabilité de la personne morale compte tenu de la garantie explicite fournie par BRI. Les questions étaient les suivantes : Aux fins de l’appel dans Burlington et vu la garantie explicite de BRI, quelle était la cote de solvabilité de Burlington, selon elle, avant le 12 février 2001 – le 12 février 2001 – avant le 24 août 2001 – avant le 16 novembre 2001 – le 16 novembre 2001 et – avant le 26 février 2002?
+[33] Les questions 3377, 3381, 3385, 3389 et 3393 étaient les suivantes : Aux fins de l’appel et compte tenu de la garantie explicite de BRI, qu’aurait été, selon Burlington, sa cote de solvabilité avant le 12 février 2001, le 12 février 2001, le 24 août 2001, le 16 novembre 2001 et le 25 février 2002?
+[34] Des questions similaires ont été posées à Conoco, à savoir les questions 1797 et 1798 : Indiquer si, au procès, Conoco sera d’avis qu’elle n’avait pas de cote de solvabilité le 11 octobre 2001, date à laquelle les billets ont été émis, ou à tout moment au cours des années visées par l’appel. Question 1799 : Indiquer quelle était, selon Conoco, sa cote de solvabilité au 11 octobre 2001, en tenant compte de la garantie de la société mère.
+[35] Dans mes motifs d’ordonnance datés du 3 août 2017, au paragraphe 279 de la catégorie 39, j’ai observé :
+Je crois comprendre que la première série de questions consiste à connaître la cote de solvabilité de Burlington au moment de l’émission des billets. Burlington a répondu que sa cote de solvabilité est indiquée dans les lettres de la banque d’investissement qu’elle a produites aux points 45, 46 et 47.
+Paragraphe 280 : « À mon avis, cette réponse ne constitue pas une réponse aux questions de l’intimée quant à la cote de solvabilité de Burlington au moment de l’émission des billets. Si la cote de solvabilité au moment de l’émission des billets et avant le 12 février 2001 est identique à celle indiquée dans la lettre de la banque d’investissement, il n’y a rien à redire. Burlington peut confirmer facilement cette information. Si sa cote de solvabilité a changé, Burlington doit préciser quelle était sa cote de solvabilité au moment de l’émission [...] »
+[36] Lors de l’audition de la requête, les appelantes ont déclaré qu’elles n’avaient eu en aucun moment une cote de solvabilité de personne morale. Seules les dettes avaient fait l’objet d’une cote par une agence de crédit. Mes ordonnances datées du 3 août 2017 et du 2 février 2018 ont donc été exécutées. Les appelantes ne peuvent pas indiquer quelle était la cote de solvabilité de personne morale si aucune agence de crédit n’avait évalué les appelantes au cours des années visées par l’appel.
+[37] L’intimée s’appuie de nouveau sur la jurisprudence Cameco de la Cour d’appel fédérale et elle demande à la Cour d’ordonner aux appelantes de consulter leurs experts et de produire une réponse.
+[38] Pour les motifs que j’ai fournis plus tôt sur les questions relatives au prix de pleine concurrence, je suis d’avis que je ne peux pas exiger que les parties consultent leurs experts afin de produire les réponses demandées par l’intimée.
+III. Catégorie 3 - Effet de la garantie sur le taux d’intérêt
+[39] La troisième catégorie de questions concernait la position de Conoco quant à l’effet de la garantie sur le taux d’intérêt. Il n’y a qu’une seule question dans cette catégorie, à savoir la question 2109 suivante posée à Conoco : Indiquer l’effet de la garantie de Conoco Inc. sur le taux d’intérêt des obligations.
+[40] Les avocats de l’appelante et de l’intimée ont convenu que cette question est semblable aux questions portant sur la fourchette des prix de transfert. Par conséquent, les observations de l’intimée étaient les mêmes que celles qu’elle a présentées au sujet de ces questions.
+[41] La réponse de l’appelante était que la garantie réduisait le taux d’intérêt des obligations d’au moins 50 points de base. L’intimée a soutenu qu’il ne s’agissait pas d’une réponse satisfaisante. Elle s’est appuyée sur la jurisprudence Cameco pour demander à la Cour d’ordonner à Conoco de déterminer quel a été l’effet des commissions de garantie sur le taux d’intérêt.
+[42] L’appelante a soutenu que l’intimée demande une preuve d’expert. J'abonde dans son sens. Comme je l’ai déjà dit, je ne peux pas ordonner à l’appelante de consulter des experts pour répondre à cette question. Cela reviendrait à autoriser les questions nécessitant l’opinion d’un expert.
+IV. Catégorie 4 – Opérations de comparaison
+[43] Cette catégorie comprend deux questions, à savoir les questions 1370E et 1370F et une question complémentaire quant à la question 1370E. Lors de l’audience, Burlington a admis, tout en croyant avoir déjà répondu à ces questions, que les réponses données n’étaient pas claires. J’ai ordonné à l’appelante de répondre aux deux questions 1370E et 1370F, à savoir : Quel est le prix de l’opération? S’agit-il d’une seule opération ou d’une série d’opérations ou d’une seule opération dans une série d’opérations?
+[44] Toutefois, l’appelante n’a pas à répondre à la question de suivi de l’intimée quant aux autres caractéristiques pertinentes sur le plan économique, puisqu’il s’agit d’une question qui exige l’opinion d’un expert.
+V. Catégorie 5 – Documents privilégiés
+[45] L’intimée soutient que les appelantes ont refusé de produire des documents pertinents en déclarant simplement que les documents étaient protégés par le secret professionnel sans donner d’indication sur la raison pour laquelle le privilège est invoqué. À l’exception de quatre documents, que j’appellerai les « documents de récupération », les appelantes n’ont pas indiqué le fondement sur lequel elles revendiquaient le privilège pour ces documents.
+[46] Les appelantes soutiennent qu’elles n’ont pas à indiquer les motifs sur lesquels elles fondent leur revendication de privilège. Elles soutiennent que, parce que les parties ont déposé une liste de documents en vertu de l’article 81 des Règles, elles n’ont pas à dire pourquoi elles considèrent que les documents sont protégés par le secret professionnel.
+[47] Aux termes des Règles, les parties ont le choix. Elles peuvent déposer une liste de communication partielle de documents aux termes de l’article 81 ou une liste de communication intégrale de documents aux termes de l’article 82 des Règles. Dans les présents appels, les parties ont choisi de déposer une liste de communication partielle de documents. L’article 81 est rédigé comme suit :
+81. [...] les parties doivent produire [...] une liste des documents dont chaque partie connaît actuellement l’existence et qui pourraient être présentés comme preuve, a) soit pour établir ou aider à établir une allégation de fait dans un acte de procédure déposé par la partie; b) soit pour réfuter ou aider à réfuter une allégation de fait dans un acte de procédure déposé par une autre partie. La liste de documents produite en vertu du présent article doit être établie selon la formule 81.
+[48] L’article 81 des Règles est clair. Aux termes de la liste de communication partielle de documents, une partie n’est pas tenue d’énumérer les documents pour lesquels elle revendique le privilège.
+[49] Les appelantes soutiennent que l’intimée demande à la Cour d’ordonner des mesures en vertu de l’article 88 des Règles alors que cette disposition ne joue que lorsque les parties ont déposé des listes de communication intégrale de documents en vertu de l’article 82 des Règles. L’article 88 des Règles dispose :
+88. Si elle est convaincue qu’une partie n’a pas mentionné dans sa déclaration sous serment un document pertinent qui se trouve en sa possession, sous son contrôle ou sous sa garde ou que la prétention au privilège n’est pas fondée, la Cour peut :
+a) ordonner qu’il y ait contre-interrogatoire sur la déclaration sous serment de documents;
+b) ordonner la signification d’une autre déclaration sous serment de documents plus complète;
+c) ordonner la divulgation ou la production, à des fins d’examen, du document, en tout ou en partie, si celui-ci n’est pas privilégié;
+d) examiner le document afin d’établir sa pertinence ou de décider si la prétention au privilège est fondée.
+[50] Les appelantes soutiennent que, puisque l’article 88 ne vise pas une liste de communication partielle de documents en vertu de l’article 81 des Règles, elles n’ont pas à faire valoir le fondement de leur revendication de privilège.
+[51] Les appelantes invoquent deux décisions à l’appui de leur position. La première décision est Shell Canada Limited v. The Queen, 1997 DTC 257, et la seconde est Capital générale électrique du Canada Inc. c. La Reine, 2008 CCI 256.
+[52] Je commencerai par la décision Shell. Les faits de la décision Shell portent quelque peu à confusion. Shell a déposé une requête en vertu de l’article 88 des Règles, demandant à la Cour d’ordonner à la Couronne d’inscrire ses documents privilégiés sur sa liste de documents.
+[53] Shell avait allégué dans sa requête qu’une déclaration sous serment de documents avait été déposée par l’intimée. Par conséquent, le juge Christie, s’appuyant sur cette allégation, a présumé que l’intimée avait déposé une liste de communication intégrale de documents. Toutefois, lors de l’audition de la requête, le juge Christie a appris que les parties avaient déposé des listes de communication partielle de documents en vertu de l’article 81 des Règles.
+[54] Malgré le fait qu’il s’agissait d’une affaire visant une liste de communication partielle de documents en vertu de l’article 81, Shell a demandé à la Cour d’appliquer les mesures prévues par l’article 88 des Règles et d’ordonner à la Couronne d’énumérer les documents privilégiés et les motifs pour lesquels le privilège était invoqué.
+[55] Le juge Christie a décidé que l’article 88 des Règles ne jouait pas lorsque les parties avaient choisi d’utiliser des listes de communication partielle de documents.
+[56] À mon avis, l'enseignement du juge Christie dans la décision Shell n'est pas pertinent quant aux présents appels.
+[57] Contrairement aux faits de l'affaire Shell, l’intimée ne demande pas que les appelantes soient tenues d’inscrire leurs documents privilégiés sur leur liste de communication partielle de documents. Et, contrairement aux faits de l'affaire Shell, l’intimée n’a pas déposé de requête en vertu de l’article 88 des Règles.
+[58] En l’espèce, l’intimée demande plutôt les renseignements dans le cadre d’un interrogatoire préalable. Les documents en cause ont été demandés au cours de l’interrogatoire préalable de M. Delk. Si les appelantes refusent de produire ces documents en raison d’une revendication de privilège dans le présent contexte, elles doivent indiquer pourquoi elles soutiennent que ces documents sont privilégiés et pour quels motifs. L’intimée a le droit de savoir pourquoi un document autrement pertinent aux fins de l’interrogatoire préalable n’est pas produit en raison d’une revendication de privilège. À mon avis, la jurisprudence Shell n’est d'aucune utilité pour les appelantes.
+[59] Les appelantes s’appuient également sur une jurisprudence de notre Cour, Capital générale électrique du Canada Inc. Dans cette affaire, la Couronne a présenté une requête pour obliger Capital générale électrique à répondre aux questions posées à son représentant durant l’interrogatoire préalable. Au paragraphe 27 de ses motifs, le juge en chef adjoint Rip a observé :
+En ce qui concerne les questions 598 et 599, l’intimée n’a pas le droit d’obtenir les divers documents ou communications dont le caractère privilégié est invoqué par l’appelante, ni les noms des personnes qui ont produit les documents ou à qui une copie a été remise. J’ai décidé que les documents sont sans pertinence; il n’est pas nécessaire de connaître les noms des personnes liées à ces documents. Quoi qu’il en soit, lorsqu’elles ont établi les listes des documents pour le procès, les parties se sont fondées sur l’article 81 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») (communication partielle), en application duquel une partie n’est pas tenue de dresser une liste de ses documents privilégiés. C’est l’article 82 des Règles (communication intégrale) qui oblige chaque partie à dresser une liste de tous les documents à l’égard desquels elle invoque un privilège, avec les moyens qui fondent sa prétention. Dans l’affaire Shell Canada v. The Queen, le juge en chef adjoint Christie (tel était alors son titre) a formulé l’opinion suivante :
+[…] les termes « et qui ne sont pas privilégiés » figurant dans ce paragraphe se rapportent uniquement à la mention de l’article 82, car l’article 81 n’envisage tout simplement pas que la personne qui produit la liste y énumère les documents à l’égard desquels elle invoquera le privilège.
+Ayant choisi de se fonder sur l’article 81 des Règles, l’intimée ne peut dans le cadre de la présente requête accomplir ce qui est prévu à l’article 82 des Règles.
+[60] Les appelantes soutiennent que, puisque les parties dans l'affaire Capital générale électrique avaient déposé des listes de communication partielle de documents, Capital générale électrique n’était pas tenue d’indiquer le fondement sur lequel le privilège était invoqué dans le contexte d’un interrogatoire préalable.
+[61] Je n’ai pas la même compréhension de la jurisprudence Capital générale électrique que les appelantes.
+[62] À mon avis, le principe de la jurisprudence Capital générale électrique est que les documents demandés lors de l’interrogatoire préalable n’étaient pas pertinents. Les autres observations du juge en chef adjoint Rip sont incidentes. Quoi qu’il en soit, comme lui, je conclus qu’aux termes d’une liste de communication partielle de documents, une personne n’est pas tenue d’énumérer les documents qui font l’objet d’un privilège. C’est aussi ce que le juge Christie a conclu dans l'affaire Shell. Toutefois, la décision Shell n’a pas été rendue dans le contexte d’un interrogatoire préalable. De plus, il n’est pas clair que le juge en chef adjoint Rip a conclu que lorsque les documents demandés lors de l’interrogatoire préalable sont pertinents, une partie n’a pas à justifier pourquoi elle revendique le privilège à l’égard de ces documents.
+[63] Je suis d’avis que si des documents pertinents demandés dans le cadre d’un interrogatoire préalable ne sont pas produits au motif qu’ils sont protégés par le secret professionnel, la partie qui revendique le privilège doit en invoquer les raisons. À mon avis, il importe peu que les parties aient choisi de déposer une liste de communication partielle de documents ou une liste de communication intégrale de documents.
+[64] Par conséquent, je suis d’avis que les appelantes doivent produire une brève description du document, indiquer le type de privilège qu’elles revendiquent et le motif de leur revendication.
+[65] Si un privilège relatif au litige est revendiqué, il est également important d’indiquer à quel moment le document a été créé.
+[66] Ce qui précède est à certains égards théorique, puisque les appelantes ont permis à la Cour d’examiner les documents contestés pour déterminer si elles revendiquaient à juste titre le privilège à leur égard. Comme je l’ai déjà dit, à l’exception des documents de récupération, l’intimée ne sait pas pour quel motif le privilège était invoqué.
+[67] Le droit relatif au privilège est bien fixé. Pour établir le secret professionnel de l’avocat, l’appelante doit démontrer que le document ou l’extrait constitue une communication entre un avocat et son client. Cela doit comporter une consultation ou un avis juridiques, et l’avis doit être considéré comme confidentiel. Enfin, l’avis ne doit pas avoir eu pour but de favoriser un comportement illégal.
+[68] D’autre part, le privilège relatif au litige exige que la partie qui revendique le privilège établisse, pour chaque document concerné, que le litige était en cours, ou raisonnablement envisagé, à la date d’établissement du document et que le document a été créé principalement en vue du litige.
+[69] Pour déterminer si un document a été préparé principalement en vue du litige, il faut tenir compte des facteurs suivants : l’identité de l’auteur du document et de la personne qui en a commandé la rédaction; la date à laquelle le document a été produit; l’identité des parties auxquelles les documents étaient adressés; le contenu des documents. De plus, le litige prévu doit être réel et non constituer une possibilité ou un soupçon.
+[70] Il incombe à la partie qui revendique le privilège d’établir son droit de revendiquer le privilège. La revendication doit être appuyée par une preuve par affidavit fournissant suffisamment de faits et de motifs pour chaque revendication de privilège.
+[71] Je ne pense pas que la déclaration sous serment de M. Boyd soit utile. La déclaration sous serment n’est pas du type requis pour appuyer la revendication de privilège.
+[72] Je dois par conséquent prendre une décision fondée uniquement sur mon examen des documents. Si, au vu du document, aucun privilège ne semble exister, alors le document n’est pas protégé.
+[73] En gardant ces principes à l’esprit, j’ai examiné les documents. Comme le demandait l’intimée, j’ai accordé une attention particulière aux documents de récupération.
+[74] En ce qui concerne le premier document de récupération, pour lequel l’intimée a exprimé un vif intérêt, je suis d’avis que le privilège relatif au litige s’applique. Il s’agit d’un échange de courriels entre les avocats de Conoco en vue de la préparation de l’interrogatoire préalable.
+[75] J’ai examiné attentivement les documents, y compris les parties caviardées et non caviardées des documents en cause, pour m’assurer que le privilège était revendiqué à juste titre. À mon avis, la revendication de privilège des appelantes doit être maintenue.
+Signé à Ottawa, Canada, ce 9e jour de juillet 2019.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 8e jour d'octobre 2020.
+François Brunet, réviseur
+RÉFÉRENCE :
+2019 CCI 143
+NO DU DOSSIER DE LA COUR :
+2012-2683(IT)G
+2013-2595(IT)G
+INTITULÉ :
+BURLINGTON RESOURCES FINANCE COMPANY c. LA REINE
+CONOCO FUNDING COMPANY c. LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Les 4, 5 et 8 avril 2019
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Johanne D’Auray
+DATE DE L’ORDONNANCE :
+Le 9 juillet 2019
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Alexander Cobb
+Me Andrew Boyd
+Avocates de l’intimée :
+Me Erin Strashin
+Me Alexandra Humphrey
+Me Jasmeen Mann
+Pour l’intimée :
+Gabrielle Jurewicz (parajuriste)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Alexander Cobb
+Me Andrew Boyd
+Me Al Menghji
+Cabinet :
+Osler, Hoskin & Harcourt S.E.N.C.R.L., s.r.l.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

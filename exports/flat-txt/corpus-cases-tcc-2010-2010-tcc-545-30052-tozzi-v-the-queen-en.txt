@@ -1,0 +1,120 @@
+Title: Tozzi v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30052/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-545-30052-tozzi-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-10-26
+
+# Tozzi v. The Queen
+
+- Citation: 2010 TCC 545
+- Decision date: 2010-10-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7696, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tozzi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-26
+Neutral citation
+2010 TCC 545
+File numbers
+2010-1808(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket : 2010-1808(IT)I
+BETWEEN :
+GIOVANNI TOZZI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on August 18, 2010 at Montreal, Quebec.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Agent for the Appellant:
+Vincent Biello
+Counsel for the Respondent:
+Me Marie-Claude Landry
+Sara Jahanbakhsh (Student-at-Law)
+____________________________________________________________________
+ORDER
+Upon motion by the Respondent for an order dismissing the appeal from the assessment made under Income Tax Act for the 2008 taxation year on the ground that the assessment is a nil assessment;
+And upon hearing what was alleged by the parties;
+The motion is granted and the appeal is dismissed.
+Signed at Ottawa, Canada, this 26th day of October, 2010.
+"Gerald J. Rip"
+Rip, C.J.
+Citation : 2010 TCC 545
+Date : 20101026
+Docket : 2010-1808(IT)I
+BETWEEN :
+GIOVANNI TOZZI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Rip, C.J.
+[1] This is a motion by the respondent that the appeal of Giovanni Tozzi from an income tax assessment for 2008 be dismissed on the grounds the appeal is from an assessment that no tax is payable ("nil assessment"). Recent case law is to the effect that there is no appeal from a nil assessment[1]. However, Mr. Tozzi's defence of this motion underlines the limited jurisdiction of this Court in hearing matters under the Income Tax Act ("Act") and the resulting difficulty taxpayers have in attempting to efficiently resolve issues they have with the Canada Revenue Agency ("CRA").
+[2] The Tax Court of Canada is a superior court. In matters where a taxpayer is dissatisfied with an assessment of income tax, the taxpayer may appeal the assessment to the Tax Court. Subsection 171(1) of the Act determines how the Court may deal with the appeal:
+The Tax Court of Canada may dispose of an appeal by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+La Cour canadienne de l'impôt peut statuer sur un appel :
+a) en le rejetant;
+b) en l'admettant et en :
+(i) annulant la cotisation,
+(ii) modifiant la cotisation,
+(iii) déférant la cotisation au ministre pour nouvel examen et nouvelle cotisation.
+[3] None of the manners in which the Court may dispose of an appeal would cure Mr. Tozzi's problem; the amount assessed would still be no amount owing.
+[4] Mr. Tozzi does not disagree with the nil assessment as such. The problem is that in February 2009, Mr. Tozzi had a medical doctor complete a Disability Tax Credit Certificate for 2008 and he forwarded the completed certificate to the CRA. The CRA denied him the disability tax credit.
+[5] As stated in the previous paragraph, in appealing the assessment for 2008, Mr. Tozzi is not contesting any assessment of tax. There would be no useful tax credit on a nil assessment. However, as a result of the nil assessment he says he is unable to contest the refusal by the CRA to allow him a disability tax credit and thus he cannot be a beneficiary of a registered disability savings plan ("RDSP") described in section 146.4 of the Act.
+[6] Mr. Tozzi wishes to qualify in respect of 2008 as a "DTC‑eligible individual" as defined by subsection 146.4(1) of the Act:
+… an individual in respect of whom an amount is deductible, or would if this Act were read without reference to paragraph 118.3(1)(c) be deductible, under section 118.3 in computing a taxpayer's tax payable under this Part for the taxation year.
+Est un particulier admissible au CIPH pour une année d'imposition le particulier à l'égard duquel une somme est déductible en application de l'article 118.3, ou le serait en l'absence de l'alinéa 118.3(1)c), dans le calcul de l'impôt à payer par un contribuable en vertu de la présente partie pour l'année.
+[7] Subparagraph 146.4(f)(i) of the Act prohibits contributions being made to a RDSP "if the beneficiary is not a DTC‑eligible individual in respect of the taxation year".
+[8] When the Minister denies the disability tax credit and there is a nil assessment for the relevant taxation year, appellant's agent argued, the Minister prohibits the taxpayer from challenging the Minister's denial and is therefore denied qualifying as a beneficiary under a RDSP. The taxpayer is prejudiced in not being permitted to contest the denial of his status by the Minister.
+[9] Mr. Tozzi's agent, Mr. Biello, who very well represented Mr. Tozzi, also argued that the inability to appeal from a nil assessment ought not to apply to appeals from assessments for 2008 and later where the issue relates to eligibility for RDSPs. A taxpayer must have a right to contest the Minister's decisions even when the tax assessment is nil.
+[10] The Act does not grant this Court jurisdiction to consider questions such as those raised by Mr. Tozzi in an appeal from an assessment or pursuant to another provision of the Act. Section 146.4 regulating RDSPs contains no provision similar to subsection 172(3), for example, which permits appeals to the Federal Court of Appeal from refusal of the Minister to register a Canadian amateur athletic association, a retirement savings plan, a profit sharing plan, an education savings plan and pension plan.
+[11] All the appellant wishes in appealing his assessment is to fight for his right to be recognized as having a disability in 2008 and be entitled to benefit from a registered disability savings plan. However, because of a nil assessment his right to do so is compromised. If I dismiss the motion of the respondent and this appeal continues to trial, even if the Court would accept his claim for disability, the assessment would not change. The assessment would still be nil, the assessment would not be vacated, varied nor required to be reassessed. This Court unfortunately has no lawful jurisdiction to order the Minister to recognize Mr. Tozzi's disability, if the Court should find he is disabled, for purposes of the disability savings plan.
+[12] It is simply not right for the Crown to act behind a nil assessment to prevent Mr. Tozzi from applying for a disability savings plan. It may well be that Mr. Tozzi has gone to the wrong court of law to seek a review of his claim. What he appears to want is for the Tax Court to review the administrative actions by officials of the CRA in not recognizing that he has a disability. This, as I have already indicated, is beyond this Court's jurisdiction. He may have redress in an application under section 18.1 of the Federal Courts Act, although Mr. Tozzi's agent complained that this is not practical because of his fear of substantial legal costs in the Federal Court. But his choice for financial reasons or otherwise to go to this Court, as opposed to another court does not grant this Court jurisdiction to hear his complaint. The simplest thing for Mr. Tozzi would be to do as he did: to appeal in the Informal Procedure to the Tax Court to resolve the issue. But the law does not permit this simple and reasonable step. Unfortunately, this Court can only consider the assessment of tax for 2008 and has no power to rule on the issue of Mr. Tozzi's eligibility as a beneficiary under a disability savings plan without at the same time adjusting the amount of tax assessed.
+[13] Ideally, this Court should be a "one stop" Court for persons who have claims under the Act. However, it is not. Low income taxpayers see this Court as the court for all tax matters and attempt to seek satisfaction here. Low income taxpayers usually do not have the benefit of legal advice and go to the Tax Court because they believe that is the forum where they may seek redress. Unfortunately, the Tax Court does not have jurisdiction to hear all matters related to income tax. It may well be that Parliament and the draftsman of section 146.4 did not recognize the problem Mr. Tozzi has suffered and potentially other low income taxpayers may experience in the future because of the limited jurisdiction of the Tax Court.
+[14] For these reasons, I must allow the respondent's application and dismiss the appellant's appeal.
+Signed at Ottawa, Canada, this 26th day of October, 2010.
+"Gerald J. Rip"
+Rip, C.J.
+CITATION: 2010 TCC 545
+COURT FILE NO.: 2010-1808(IT)I
+STYLE OF CAUSE: GIOVANNI TOZZI v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Québec
+DATE OF HEARING: August 18, 2010
+REASONS FOR ORDER BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF ORDER: October 26, 2010
+APPEARANCES:
+Agent for the Appellant:
+Vincent Biello
+Counsel for the Respondent:
+Marie-Claude Landry
+Sara Jahanbakhsh (Student-at-Law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See, for example, Newfoundland Minerals Ltd. v. M.N.R., 69 DTC 5432 (Ex. Ct.), The Queen v. Gary Bowl Ltd., 74 DTC 6401 (F.C.A.), Bowater Mersey Paper Co. Ltd. v. The Queen, 87 DTC 5382 (F.C.A.), The Queen v. Interior Savings Credit Union, 2007 DTC 5342 (F.C.A.).

@@ -1,0 +1,122 @@
+Title: Breathe E-Z Homes Ltd. c. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/72401/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-201-72401-breathe-e-z-homes-ltd-c-m-n-r-fr.md
+Document type: case_law
+Last modified: 2014-06-19
+
+# Breathe E-Z Homes Ltd. c. M.N.R.
+
+- Citation: 2014 CCI 201
+- Decision date: 2014-06-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5352, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Breathe E-Z Homes Ltd. c. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-06-19
+Référence neutre
+2014 CCI 201
+Numéro de dossier
+2014-17(CPP)APP, 2014-18(EI)APP
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2014-18(EI)APP
+2014-17(CPP)APP
+ENTRE :
+BREATHE E-Z HOMES LTD.,
+requérante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 6 mars 2014, à Toronto (Ontario).
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocat de la requérante :
+Me Dale Barrett
+Avocate de l’intimé :
+Me Roxanne Wong
+ORDONNANCE D’ADJUDICATION DES DÉPENS
+VU l’ordonnance rendue le 24 avril 2014 par laquelle les demandes de prorogation du délai imparti pour interjeter appel devant la Cour ont été accueillies;
+ET VU que la Cour a demandé que les parties produisent des observations quant à la question de savoir si les dépens devaient être adjugés contre l’avocat de la requérante personnellement;
+LA COUR ORDONNE :
+Conformément aux motifs de l’ordonnance d’adjudication des dépens ci‑joints, l’intimée aura droit aux dépens inutiles dans le contexte des présentes requêtes, qui ont été accueillies par la Cour, à savoir la somme de 743,34 $, payable par l’avocat de la requérante personnellement dans les 30 jours suivant la date de la présente ordonnance.
+Signé à Ottawa (Ontario), ce 19e jour de juin 2014.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme,
+ce 28e jour de juillet 2014.
+Alya Kaddour‑Lord, traductrice
+Référence : 2014 CCI 201
+Date : 20140619
+Dossier : 2014-18(EI)APP
+2014-17(CPP)APP
+ENTRE :
+BREATHE E-Z HOMES LTD.,
+requérante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE D’ADJUDICATION DES DÉPENS
+Le juge Bocock
+[1] Par une ordonnance datée du 25 avril 2014, la Cour a accueilli deux requêtes en prorogation du délai imparti pour déposer des avis d’appel au titre de la Loi sur l’assurance‑emploi, LC 1996, c 23, et du Régime de pensions du Canada, LRC 1985, c C-8.
+[2] Un examen rapide des motifs de l’ordonnance qui ont été rendus à la même date révèle que l’avocat de la requérante a commis une kyrielle d’erreurs ou omis d’effectuer une foule de démarches. Pour résumer, il a commis les erreurs suivantes :
+a. il n’a pas remarqué que la lettre de confirmation du ministre datée du 13 juin 2013 avait été envoyée en réponse à un avis d’opposition déposé antérieurement;
+b. il n’a pas respecté la date d’échéance « de plein droit » du 11 septembre 2014 pour déposer un avis d’appel (ni même en l’occurrence un avis d’opposition);
+c. il a déposé une demande de prorogation du délai imparti pour déposer un avis d’opposition auprès de l’Agence du revenu du Canada (l’« ARC »), demande qui a été reçue le 24 octobre 2013, plutôt que de présenter une demande de prorogation de délai et de déposer un avis d’appel auprès de la Cour.
+d. il n’a pas tenu compte du coup de téléphone que l’employé de l’ARC a passé à son cabinet le 30 octobre 2013, à titre gracieux, pas plus que des rappels antérieurs de sa propre cliente;
+e. il n’a pas respecté le délai qui avait été fixé au 10 décembre 2013 par suite d’une « prorogation discrétionnaire »;
+f. pour finir, il a omis de rendre compte à la requérante des diverses démarches, dépôts de documents, et, malheureusement, omissions faites en cours de route, ce qui aurait à des avertissements additionnels de la part de la requérante à l’égard des erreurs susmentionnées.
+[3] Ces erreurs ont fait que les présentes requêtes se sont avérées nécessaires. L’intimée les a à juste titre remises en cause. L’avocat de la requérante n’a pas eu d’autre choix que de présenter ces requêtes afin de demander à la Cour d’user de son pouvoir discrétionnaire afin de corriger les erreurs et omissions manifestes et complexes que lui et son équipe ont faites.
+[4] L’intimée demande que les dépens prévus par le tarif lui soient adjugés, en plus d’une somme symbolique au titre des observations produites à l’égard de la question des dépens. Dans ses observations, l’avocat de la requérante s’est presque exclusivement concentré sur les hypothèses erronées et les erreurs de fait relatives à l’avis d’opposition et à la requête en prorogation du délai qu’il avait par erreur déposés auprès de l’ARC le 24 octobre 2013 (voir l’alinéa 2c) ci‑dessus). Dans ses observations, il n’est fait aucune mention des omissions les plus éloquentes, négligentes et contraires aux règles de pratique : il n’a pas tenu compte des avertissements que sa cliente lui avait donnés au début du mois de septembre, ce qui a fait en sorte qu’il a manqué à son obligation de respecter le délai initial « de plein droit » qui lui avait été imparti pour interjeter appel; il n’a pas tenu compte des avertissements que l’ARC lui avait donnés à titre gracieux et collégial le 31 octobre 2014; il n’a informé comme il se devait sa cliente des omissions qu’il avait faites ainsi que des mesures correctives qui s’avéraient nécessaires que deux semaines avant l’audition des présentes requêtes.
+[5] En se limitant à la seule erreur et omission qu’il a faite le 24 octobre, l’avocat de la requérante fait valoir que l’intimée aurait dû donner préalablement son accord pour la correction de cette [traduction] « irrégularité d’ordre technique », éliminant ainsi la nécessité d’entendre la requête.
+[6] Un nouvel examen de l’ordonnance que la Cour a rendue à l’origine fait ressortir des motifs plus larges que ceux que l’avocat de la requérante a définis de manière restreinte. L’ensemble des erreurs [traduction] « d’ordre technique » qui ont été commises exigeait de la Cour qu’elle réserve son jugement, qu’elle consulte la jurisprudence et qu’elle étudie le mieux possible les faits présentés par la requérante. Ce processus n’avait pas trait à la correction d’une seule erreur d’ordre technique; en l’absence de conclusions de fait aussi détaillées et nuancées, la Cour n’aurait pas eu la compétence voulue pour rendre une ordonnance en prorogation du délai. La question de la compétence n’est ni technique ni nuancée. Il s’agit d’un principe fondamental et élémentaire de justice naturelle. La Cour est d’avis que l’intimé n’aurait pas pu donner son consentement en l’espèce avant que la Cour ait entendu l’affaire et rendu ses conclusions de fait. La kyrielle d’omissions que l’avocat de la requérante a faites n’étaient pas [traduction] « d’ordre technique ». D’un point de vue factuel, il s’agissait d’un manque de diligence, de l’observation inappropriée des systèmes et des pratiques exemplaires, et, surtout, d’un manque de communication avec la requérante (appelante).
+[7] De manière simpliste, il se peut que certains aient de la difficulté à admettre que l’on puisse rendre une ordonnance d’adjudication des dépens contre l’avocat de la requérante, préférant croire qu’il est plus convenable et juste d’adjuger contre l’intimée de tels dépens, relatifs à des erreurs, à des omissions et à une conduite, au besoin, compte tenu des pouvoirs et des ressources accrus dont la Couronne dispose. La Cour n’adhère pas à cette vision étriquée et déséquilibrée. Dans son propre avis de requête, l’avocat de la requérante a fait référence aux multiples omissions de son cabinet, et les a volontairement admises, et, lors de sa plaidoirie devant la Cour, il a affirmé que sa cliente ne devrait pas être pénalisée pour des erreurs et des omissions indépendantes de sa volonté, qu’elle avait elle-même fait de son mieux pour éviter, malgré son avocat. La Cour en convient. Jusqu’à un certain point, l’avocat de la requérante a le même devoir que l’avocate de l’intimé a envers la Cour et les contribuables, celui d’étudier les questions avec soin et d’éviter les pièges faciles, les mauvaises habitudes et les erreurs évitables. En l’espèce, l’adjudication des dépens a trait à l’utilisation inutile et évitable qui a été généralement faite des ressources dans ce qui aurait dû être un simple dépôt par l’avocat de la requérante.
+[8] La Cour a la compétence voulue pour rendre la présente ordonnance d’adjudication des dépens en faveur de l’intimée : voir la décision Dacosta c La Reine, 2008 CCI 136. Il aurait vraisemblablement été possible de la convaincre de prendre ses distances par rapport au tarif et d’adjuger des dépens plus élevés. Compte tenu des observations restreintes de l’intimée, je ne le ferai pas. Étant donné qu’il n’a pas respecté la norme objective de soin dans l’examen du dossier, qu’il a omis de se servir des systèmes de bureau adéquats et de la possibilité qui lui était offerte de communiquer avec sa cliente, l’avocat de la requérante devra payer ces dépens raisonnables. Les erreurs et les omissions dont a découlé la nécessité de présenter les requêtes en cause relevaient exclusivement et sans ambiguïté de l’avocat de la requérante ou des membres de la profession juridique dont les actes relèvent de la responsabilité de l’avocat de la requérante. Pour ces motifs, l’avocat de la requérante devra payer à l’intimée des dépens de 743,43 $ à titre personnel.
+Signé à Ottawa (Ontario), ce 19e jour de juin 2014.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme,
+ce 28e jour de juillet 2014.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE :
+2014 CCI 201
+NO DU DOSSIER DE LA COUR :
+2014-18(EI)APP
+2014-17(CPP)APP
+INTITULÉ :
+Breathe E‑Z Homes Ltd. c. Le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 6 mars 2014
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Randall S. Bocock
+DATE DE L’ORDONNANCE :
+Le 19 juin 2014
+COMPARUTIONS :
+Avocat de la requérante :
+Me Dale Barrett
+Avocate de l’intimé :
+Me Roxanne Wong
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom :
+Dale Barrett
+Cabinet :
+Barrett Tax Law
+Pour l’intimé :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

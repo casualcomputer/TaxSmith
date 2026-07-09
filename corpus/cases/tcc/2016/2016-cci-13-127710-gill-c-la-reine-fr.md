@@ -1,0 +1,183 @@
+---
+title: "Gill c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/127710/index.do"
+last_modified: "2016-01-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 13"
+citation2: ""
+neutral_citation: "2016 CCI 13"
+decision_date: "2016-01-15"
+language: "fr"
+item_id: "127710"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3056
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:13:15.610000+00:00"
+cases_cited_count: 6
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "56fe55990aa7a15ec9919cc7d107b8b4715d0f271f62698586bad8110c23caf2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gill c. La Reine
+
+- Citation: 2016 CCI 13
+- Decision date: 2016-01-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3056, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gill c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-01-15
+Référence neutre
+2016 CCI 13
+Numéro de dossier
+2015-995(GST)I
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2015-995(GST)I
+ENTRE :
+MONIKA GILL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 17 novembre 2015, à Montréal (Québec)
+Devant : L'honorable juge Guy R. Smith
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocat de l'intimée :
+Me Olivier Vinet-Gasse
+JUGEMENT
+L’appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise relativement à la taxe sur les produits et services, dont l’avis est daté du 18 mars 2013, est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 15e jour de janvier 2016.
+« Guy R. Smith »
+Juge Smith
+Référence : 2016 CCI 13
+Date : 20160115
+Dossier : 2015-995(GST)I
+ENTRE :
+MONIKA GILL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Smith
+[1] L’appelante a interjeté appel d’un avis de cotisation de l’intimée, par l’entremise du ministre du Revenu du Québec (ci-après, le « ministre »), en date du 18 mars 2013, lui refusant une demande de remboursement de la TPS/TVQ suite à l’achat d’une nouvelle copropriété divise (ci-après, « l’immeuble ») sur laquelle l’appelante avait payé la TPS/TVQ¸ conformément à la Loi sur la taxe d’accise (ci-après, la « LTA »).
+Sommaire [2] Le paragraphe 254(2) de la LTA prévoit que l’acheteur d’une nouvelle propriété résidentielle peut demander un remboursement partiel de la TPS payée sur le prix d’achat s’il satisfait aux conditions énoncées aux alinéas 254(2)(a) à (g). Dans cette instance, le ministre a refusé le remboursement pour le motif principal que l’appelante n’a pas acquis l’immeuble dans le but d’en faire sa résidence habituelle et qu’elle, ou un de ses proches, n’a jamais occupé les lieux. L’appelante, pour sa part, prétend qu’elle avait l’intention requise au moment de l’acceptation de sa promesse d’achat par le constructeur, qu’elle a occupé l’immeuble pendant environ 5 mois en attendant le transfert de titre mais qu’elle a décidé de louer l’immeuble à des tiers suite à une réconciliation avec son mari.
+Questions en litige [3] Pour les fins de ce litige, il y a 3 questions à régler.
+1. La première question porte sur l’interprétation de l’expression « aux termes du contrat de vente » dans l’alinéa 254(2)(b) de la LTA. Le ministre prétend que le contrat de vente a été signé lors de la clôture et que, étant donné le libellé de la disposition, c’est à partir de ce moment-là que la Cour doit analyser la question d’intention. Il s’agit ici surtout d’une question d’interprétation législative.
+2. La deuxième question est à savoir si l’appelante avait l’intention requise en vertu de l’alinéa 254(2)(b) de la LTA. Il s’agit de revoir l’ensemble de la preuve pour déterminer si, au moment où elle s’est engagée à acheter l’immeuble, l’appelante avait l’intention de l’acquérir comme résidence habituelle. Le ministre a tenu pour acquis qu’elle n’avait pas l’intention nécessaire.
+3. La troisième question est intimement reliée à la question précédente et est de savoir si l’appelante a réellement occupé l’immeuble au sens de l’alinéa 254(2)(g). L’appelante prétend qu’elle a pris possession des lieux lorsque les travaux ont été achevés en grande partie. Le ministre, pour sa part, a tenu pour acquis que l’appelante n’a jamais occupé l’immeuble.
+[4] Pour les questions 2 et 3 ci-dessus, il s’agit de questions de faits et il est entendu que l’appelante doit convaincre la Cour du contraire selon la prépondérance des probabilités.
+Les faits [5] L’appelante est résidente de la ville de Laval, Québec. Elle prétend qu’elle était en instance de séparation avec son conjoint et qu’elle a acheté l’immeuble en question dans la région des Laurentides dans le but d’y emménager avec ses 3 enfants et de s’évader de son milieu familial. Elle avait l’intention d’y rester de manière permanente. Selon son témoignage, elle a conclu une promesse d’achat avec le constructeur vers le 13 mars 2011 et a emménagée suite à la fin des travaux au mois de juin 2011 pour y demeurer jusqu’au mois de décembre.
+[6] Son conjoint, qui avait fait faillite en 2010 et qui était sans emploi, s’est trouvé un nouvel emploi au mois d’octobre 2011, suite à cet évènement, il y aurait eu réconciliation du couple et elle a décidé de retourner vivre avec lui au foyer conjugal situé à Laval. L’immeuble a été loué à des tiers à partir du mois de décembre 2011.
+[7] Selon l’appelante, même si elle est retournée au foyer conjugal, elle a décidé de garder l’immeuble puisqu’elle considérait toujours la possibilité d’y retourner. Elle explique ensuite que son conjoint a été diagnostiqué d’un cancer au printemps 2012 et elle a décidé de demeurer dans le foyer conjugal de façon permanente, ce qui n’est pas pertinent au litige.
+[8] L’appelante a indiqué qu’elle n’avait pas de preuve d’un changement d’adresse puisque les taxes foncières, les frais mensuels et les services (eau et hydro) étaient aux frais du constructeur jusqu’à la clôture. Elle n’avait pas pris de câble ni de téléphone fixe puisqu’elle avait un téléphone mobile. Aussi, puisqu’elle est retournée au foyer conjugal à Laval, c’est cette adresse-là qui a figuré dans sa déclaration d’impôt. Elle a déposé des documents qui n’étaient pas pertinents au présent litige.
+[9] Lors du contre-interrogatoire, l’appelante a admis qu’elle n’avait pas déménagé tous ses meubles et ses effets personnels, que ses 3 enfants n’étaient jamais restés dans l’immeuble et qu’il n’y avait eu aucun changement d’école. Elle y vivait surtout les fins de semaine et le plus souvent seule.
+[10] Le témoignage du conjoint n’a pas ajouté beaucoup d’éléments de preuve quoiqu’il a confirmé, entre autres, les difficultés financières et conjugales, la réconciliation du couple et la recherche des locataires vers la mi-octobre 2011. Je note par contre qu’il s’est contredit en affirmant que la recherche de locataires a débutée en décembre.
+[11] Il a aussi présenté une copie d’une demande pour un certificat d’autorisation qu’il a lui-même complété et déposé auprès de la municipalité de Ste-Agathe le 8 septembre 2011 pour permettre à l’appelante, à titre de propriétaire, d’offrir des services de comptabilité à même l’immeuble – et ce, comme preuve quant à l’intention de l’appelante de demeurer dans les lieux. Étant donné le changement de circonstance, il n’y a eu aucune suite à cette demande et le tout a été annulé au mois de décembre 2011. Je trouve que ce document a très peu de force probante.
+[12] Pour compléter ce sommaire des faits, j’ajoute que l’appelante a reconnu lors du contre-interrogatoire qu’elle était propriétaire d’une autre copropriété divise située à Saint-Jean-sur-Richelieu et que cette propriété servait aussi à des fins locatives. Bien qu’elle a rapporté une perte d’environ 3009$ dans sa déclaration d’impôt de 2011, elle ne semblait pas être bien informée à ce sujet. Le témoignage de son conjoint quant aux circonstances entourant l’acquisition de celle-ci me semblait à la fois mystérieux et suspect, et ce, surtout dans le contexte des difficultés financières familiales et de sa faillite en 2010. Somme toute, j’en tire une inférence négative qui porte atteinte à leur crédibilité.
+Le contrat de vente - le droit applicable [13] Tel qu’indiqué ci-haut, le paragraphe 254(2) de la LTA prévoit que l’acheteur d’une nouvelle propriété résidentielle peut demander un remboursement partiel de la TPS payée sur le prix d’achat. Parmi les conditions à satisfaire, l’alinéa 254(2)(b) prévoit que :
+(b) - au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui-ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche;
+(Mon soulignement).
+(b) - At the time the particular individual becomes liable or assumes liability under an agreement of purchase and sale of the complex or unit entered into between the builder and the particular individual, the particular individual is acquiring the complex or unit for use as the primary residence of the particular individual or a relation of the particular individual.
+[My emphasis].
+[14] Le ministre prétend que la Cour doit analyser l’intention de l’appelante au moment où elle a acquis le titre « aux termes du contrat de vente », c’est-à-dire au moment de la clôture. Le ministre cite l’article 1708 du Code Civil du Québec (ci-après le « CcQ ») qui définit une vente en droit civile :
+1708. La vente est le contrat par lequel une personne, le vendeur, transfère la propriété d'un bien à une autre personne, l'acheteur, moyennant un prix en argent que cette dernière s'oblige à payer.
+Le transfert peut aussi porter sur un démembrement du droit de propriété ou sur tout autre droit dont on est titulaire.
+1991, c. 64, a. 1708
+1708. Sale is a contract by which a person, the seller, transfers ownership of property to another person, the buyer, for a price in money which the latter obligates himself to pay.
+A dismemberment of the right of ownership, or any other right held by a person, may also be transferred by sale.
+1991, c. 64, a. 1708
+[15] Je dois dire au départ que je suis loin d’être convaincu par cette interprétation étant donné l’usage de l’expression « under an agreement of purchase and sale » dans la version anglaise de l’alinéa 254(2)(b) ce qui suggère plutôt une promesse d’achat conclue avant le moment où l’acheteur acquiert le titre de la propriété.
+[16] Je note de plus que l’alinéa 254(2)(f) de la LTA, prévoit la possibilité de l’occupation des lieux « entre le moment ou les travaux sont achevés en grande partie et celui ou la possession de l’immeuble ou du logement est transférée au particulier en vertu du contrat de vente ». L’expression « en vertu du contrat de vente » dans cet alinéa, doit logiquement porter sur un document livré ultérieurement à la fin des travaux, c’est-à-dire lors de la clôture de la transaction.
+[17] Tel qu’indiqué ci-haut, le ministre cite l’article 1708 du CcQ pour appuyer son interprétation de l’expression « aux termes du contrat de vente » et le moment auquel nous devons analyser l’intention de l’appelante. Mais puisque cette disposition s’adresse à l’achat d’une nouvelle propriété résidentielle, il y a aussi lieu de revoir l’article 1785 du CcQ qui prévoit :
+1785. Dès lors que la vente d'un immeuble à usage d'habitation, bâti ou à bâtir, est faite par le constructeur de l'immeuble ou par un promoteur à une personne physique qui l'acquiert pour l'occuper elle-même, elle doit, que cette vente comporte ou non le transfert à l'acquéreur des droits du vendeur sur le sol, être précédée d'un contrat préliminaire par lequel une personne promet d'acheter l'immeuble.
+(Mon emphase).
+1785. The sale of an existing or planned residential immovable by the builder or a developer to a natural person who acquires it to occupy it shall be preceded by a preliminary contract by which a person promises to buy the immovable, whether or not the sale includes the transfer to him of the seller's rights over the land.
+[My emphasis].
+[18] Pour satisfaire aux exigences de cette disposition, il doit y avoir « un contrat préliminaire » par lequel l’acheteur s’engage d’acheter l’immeuble à usage d’habitation dans une transaction qui doit se conclure, éventuellement, par l’acte de vente notarié.
+[19] Le ministre a porté à mon attention la décision de Virani c. La Reine, 2010 CCI 113, mais je ne pense pas qu’elle appuie sa position sur ce point. Dans cette décision, il est aussi question d’une copropriété divise, située en Colombie-Britannique, dont la construction n’était pas encore terminée. L’appelant a signé une promesse d’achat en novembre 2002, mais a seulement acquis le titre de la propriété en février 2005. Le ministre a prétendu que la promesse d’achat était un « accord préalable à la construction » et non un « contrat de vente » et que la date pertinente pour déterminer l’intention était la date de la clôture en 2005. La juge Campbell n’était pas d’accord avec cette interprétation et a indiqué au paragraphe 12 (Il s’agit de la traduction de la décision originale en anglais):
+12. Le libellé de cette disposition est limpide. Il fait expressément référence, tant à l’alinéa 254(2)b) qu’à la division 254(2)g)(i)(B), à un « contrat de vente ». Il y est explicitement mentionné que le particulier qui signe un contrat de vente engage sa responsabilité. La disposition ne comporte aucune ambiguïté et je rejette tout simplement l’observation de l’avocate de l’intimée voulant que la responsabilité de l’appelant ait pris naissance au moment où il a obtenu le titre de propriété et assumé la responsabilité des paiements hypothécaires, en février 2005. Ce raisonnement fait totalement abstraction des termes du paragraphe 254(2).
+(Mon soulignement).
+[20] Il est important de noter que dans la décision originale, la juge Campbell utilise l’expression « agreement of purchase and sale » qui a été traduite ci-haut par « contrat de vente ». La juge Campbell a ajouté ce qui suit au paragraphe 14:
+14. L’avocate de l’intimée a avancé que l’appelant n’avait assumé aucune responsabilité avant février 2005, étant donné qu’en novembre 2002, il ne possédait pas le titre de propriété. Elle a qualifié le document de novembre 2002 d’accord préalable à la construction. Il se peut que ce terme soit tout à fait juste, mais il n’en demeure pas moins qu’il s’agit indubitablement d’un contrat de vente au sens mentionné et envisagé dans cette disposition. En fait, à la pièce A-3, le document porte le titre de [traduction] « contrat de vente ». Ce contrat constituait, pour l'appelant, un engagement ferme et une acceptation de responsabilité relativement à l’achat de la propriété de la rue Seymour. Les acomptes s’élevaient à plus de 31 000,00 $. Par conséquent, je suis d’avis que c’est en novembre 2002, au moment où l’appelant a signé le contrat de vente, qu’il faut établir s’il avait l’intention d’acquérir le logement de la rue Seymour pour qu’il lui serve de lieu de résidence habituelle, et non en février 2005, lors de la cession effective du titre de propriété et de la prise de possession.
+(Mon soulignement).
+[21] Le ministre a aussi porté à mon intention la décision de Wong c. La Reine, 2013 CCI 23, dont la version originale a été rédigée en anglais. Au paragraphe 5 de la traduction française, le juge Paris a indiqué :
+[5] Dans le cas présent, il n’est pas contesté que le contrat de vente pour l’achat de la propriété a été conclu par M. et Mme Wong le 9 décembre 2009, date précédant la construction de l’immeuble où se trouve la propriété. Par conséquent, c’est l’intention qu’ils avaient à ce moment-là au sujet de l’utilisation qu’ils feraient de la propriété qui est déterminante.
+(Mon soulignement).
+[22] Je suis donc d’avis que l’expression « aux termes du contrat de vente » de la version française de l’alinéa 254(2)(b) de la LTA doit être interprétée au sens large pour inclure une promesse d’achat ou encore, pour reprendre le texte de l’article 1785 du CcQ, « un contrat préliminaire par lequel une personne promet d'acheter l'immeuble ». Cette interprétation donne un sens commun aux 2 versions de la disposition. Étant donné cette conclusion, il va de soi que nous devons analyser la preuve à partir de la signature de la promesse d’achat.
+[23] Avant d’aborder la deuxième question en litige, je tiens à ajouter que le ministre a lui-même déposé comme preuve un document intitulé « entente conditionnelle de préoccupation » signé par l’appelante le 1er septembre 2011 dans lequel il est indiqué que « toutes les clauses du contrat préliminaire et avant-contrat, sans restriction, aux [sic] préséances sur la présente entente conditionnelle de préoccupation ». Je suis d’avis que ce document établi clairement et sans équivoque l’existence d’un contrat préliminaire ou d’une promesse d’achat au sens de l’alinéa 254(2)(b) de la LTA.
+L’intention en vertu de l’alinéa 254(2)(b) de la LTA – le droit applicable [24] Pour la question de l’intention, il s’agit de déterminer si au moment de conclure la promesse d’achat, l’appelante avait l’intention d’acquérir l’immeuble pour qu’il lui serve de résidence habituelle : Mendes c. R., 2015 CCI 11. Dans cette décision, la juge Woods a conclu que les éléments de preuve n’étaient pas suffisamment détaillés pour la convaincre que l’appelante avait bel et bien l’intention d’utiliser l’immeuble comme résidence habituelle et que la preuve n’était pas plausible.
+[25] Dans la décision de Kandiah c. La Reine, 2014 TCC 276, le juge Miller stipule, au paragraphe 18, qu’il incombe à l’appelant de convaincre la Cour selon la prépondérance des probabilités. Se référant à la décision de Coburn Realty Ltd. c. Canada, 2006 CCI 245, il cite le passage suivant, quant à l’intention :
+[10] Les énoncés que fait le contribuable de ses buts et de ses intentions ne sont pas nécessairement et toujours le fondement le plus fiable sur lequel une question de ce genre peut être tranchée. L’utilisation réelle du bien constitue souvent la meilleure preuve du but de l’acquisition. (. . . )
+(Mon soulignement).
+[26] Dans cette décision, il y avait peu de preuve quant à l’occupation des lieux et la propriété a été inscrite pour la vente peu de temps après la clôture – ce qui a porté le juge Miller à conclure que c’était probablement la meilleure indication de l’intention de l’appelant au moment de la signature de la promesse d’achat. De plus, il a indiqué (au paragraphe 21) que :
+[21] Le fait d’emporter quelques possessions (des matelas et une serviette, par exemple), et de laisser derrière soi quasiment toutes ses autres possessions ainsi que ses meubles, au domicile familial, ne fait pas en sorte que (la nouvelle propriété) servait de lieu habituel de résidence à la famille. Au mieux, je décrirais la façon de vivre de (l’appelant) et de sa fille comme du camping, et non comme le fait de résider quelque part – et certainement pas comme le fait de se servir d’une maison comme lieu de résidence habituelle.
+(Mon soulignement).
+[27] Et finalement, dans la décision de Goulet c. La Reine, 2010 TCC 95, l’immeuble avait été acheté par les parents et, selon la preuve présentée, leur fils et leur fille l’avaient chacun occupé pendant deux périodes distinctes de quatre mois. La Cour a conclu que la preuve, dans son ensemble, ne lui permettait pas de conclure qu’il y avait eu un véritable déménagement et que l’occupation des enfants était tout au plus temporaire.
+L’occupation des lieux - le droit applicable [28] Pour la troisième question en litige, l’alinéa 254(2)(g) de la LTA prévoit que l’acheteur doit être « le premier particulier à occuper l’immeuble (…) à titre résidentielle à un moment après que les travaux sont achevés en grande partie ».
+[29] À mon avis, les considérations identifiés dans les décisions de Kandiah et Goulet, supra, s’appliquent également à la question de l’occupation suite à la fin des travaux. Elle doit être plus que passagère ou sporadique. Il doit y avoir un élément de permanence qui donne suite à l’intention d’acquérir l’immeuble pour en faire sa résidence habituelle. Une occupation transitoire ne saurait satisfaire au critère que l’acheteur soit « le premier à occuper l’immeuble (…) » au sens de l’alinéa 254(2)(g) de la LTA.
+Analyse et conclusion [30] A la lumière de ma conclusion quant à la première question en litige, l’appelante doit convaincre cette Cour avec la prépondérance des probabilités qu’elle avait l’intention de se porter acquéreur de l’immeuble comme résidence habituelle pour elle ou un de ses proches, au moment de la signature de la promesse d’achat au printemps 2011 et, deuxièmement, qu’elle a véritablement occupé l’immeuble suite à la fin des travaux.
+[31] Je dois dire au départ que je suis loin d’être convaincu par le témoignage de l’appelante et de son conjoint et que j’ai de sérieux doutes quant à leur crédibilité. Il y avait non seulement des incohérences dans les témoignages, mais la présentation de la preuve était simpliste. Elle me semblait préfabriquée et en quelque sorte délibérée pour satisfaire aux exigences de la loi et appuyer la demande de remboursement en vertu de la LTA.
+[32] Tout d’abord, il n’y a eu aucun témoin indépendant pour corroborer la version des faits de l’appelante. De plus, il y a une quasi-absence de preuve documentaire. Bien que l’appelante ait offert des explications quant à l’absence des factures et de changement d’adresse, nous n’avons pas eu l’opportunité de revoir l’application de crédit de la banque ou la promesse d’achat ou les documents échangés suite à la fin des travaux. Le seul document pertinent à la transaction a été présenté par le ministre et il s’agit de « l’entente conditionnelle de préoccupation ». Ce document contredit le témoignage de l’appelante qui a prétendu qu’elle avait signé une promesse d’achat le 11 mars 2011 qui a été accepté par le constructeur le 13 mars 2011 et qu’elle a ensuite emménagée à partir du 30 juin. L’entente de préoccupation suggère plutôt une promesse d’achat datée du 30 juin 2011. De plus, puisque cette entente a été signé le 1er septembre 2011, il me semble apparent que l’appelante n’aurait pu emménager dans l’immeuble avant le début septembre.
+[33] L’appelant a indiqué qu’elle n’a pas emménagé tous ses meubles ou ses effets personnels dans l’immeuble et qu’elle y allait surtout les fins de semaine et le plus souvent seule. Son témoignage à ce sujet était vague et il y avait un manque de détails. Je ne peux faire autrement que de conclure que son occupation était tout au plus temporaire et sporadique. Il y avait certainement aucun élément de permanence. Même si j’accepte qu’elle a emménagée au début septembre, ce qui me semble peu plausible, il y a eu réconciliation du couple à la mi-octobre et elle et son conjoint ont cherché des locataires à partir de ce moment-là. Étant donné la courte durée et la nature transitoire de l’occupation, je ne peux conclure que l’appelante était la première à occuper les lieux au sens de l’alinéa 254(2)(g).
+[34] En fin de compte, l’immeuble a été loué à des tiers peu de temps après la clôture de la transaction et, comme le juge Paris dans la décision Kandiah, supra, je suis d’avis que l’utilisation réelle de l’immeuble constitue la meilleure preuve du but de son acquisition.
+[35] Je me dois de rejeter l’appel.
+Signé à Ottawa, Canada, ce 15e jour de janvier 2016.
+« Guy R. Smith »
+Juge Smith
+RÉFÉRENCE :
+2016 CCI 13
+Nº DU DOSSIER DE LA COUR :
+2015-995(GST)I
+INTITULÉ DE LA CAUSE :
+MONIKA GILL ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 17 novembre 2015
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+Le 15 janvier 2016
+COMPARUTIONS :
+Pour l'appelante :
+l'appelante elle-même
+Avocat de l'intimée :
+Me Olivier Vinet-Gasse
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

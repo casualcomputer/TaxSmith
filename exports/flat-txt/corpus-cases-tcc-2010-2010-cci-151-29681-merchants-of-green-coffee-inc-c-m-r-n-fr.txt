@@ -1,0 +1,145 @@
+Title: Merchants of Green Coffee Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29681/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-151-29681-merchants-of-green-coffee-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2010-03-15
+
+# Merchants of Green Coffee Inc. c. M.R.N.
+
+- Citation: 2010 CCI 151
+- Decision date: 2010-03-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6247, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Merchants of Green Coffee Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-15
+Référence neutre
+2010 CCI 151
+Numéro de dossier
+2009-2786(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2009-2786(EI)
+2009-2787(CPP)
+ENTRE :
+MERCHANTS OF GREEN COFFEE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 12 mars 2010 à Toronto (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Représentant de l’appelante :
+Robert Zavislake
+Avocate de l’intimé :
+Me Iris Kingston
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des cotisations établies en application de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada pour la période du 1er janvier au 31 décembre 2007, et dont les avis sont datés du 22 janvier 2009, est accueilli, et les cotisations sont annulées.
+Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 15e jour de mars 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 21e jour d’avril 2010.
+Hélène Tremblay, traductrice
+Référence : 2010 CCI 151
+Date : 20100315
+Dossier : 2009-2786(EI)
+2009-2787(CPP)
+ENTRE :
+MERCHANTS OF GREEN COFFEE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Le présent appel est interjeté par Merchants of Green Coffee Inc. (« MGC ») à l’encontre de cotisations établies à son égard pour ne pas avoir remis les cotisations dues en application de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada. Le montant de la cotisation s’élève à un peu moins de 2 000 $.
+[2] La question à trancher est de savoir si Mme Qian Duan exerçait un emploi assurable et ouvrant droit à pension lorsqu’elle fournissait des services de tenue de livres et de comptabilité à MGC.
+[3] MGC et Mme Duan soutiennent tous deux que Mme Duan avait été embauchée à titre d’entrepreneur indépendant et non à titre d’employé.
+[4] La période en cause est l’année d’imposition 2007, qui était aussi l’année civile.
+Contexte factuel
+[5] MGC est une petite entreprise établie à Toronto dont les activités, pendant la période en cause, consistaient à acheter et à vendre des grains de café et des torréfacteurs. L’entreprise appartient à la famille Zavislake et est gérée par M. Brad Zavislake.
+[6] M. Brad Zavislake n’a pas pu prendre part à l’audience pour cause de maladie. Son père, M. Robert Zavislake, a donc témoigné à sa place. C’est d’ailleurs M. Robert Zavislake (« M. Zavislake ») qui représentait MGC à l’audience.
+[7] Mme Duan est venue témoigner par suite d’un subpœna signifié par l’intimé.
+[8] Mme Duan est née en Chine et a immigré au Canada en 2004. En 2005, elle a été embauchée par MGC dans le cadre d’un programme de formation professionnelle subventionné par le gouvernement. Il semble qu’on ait embauché Mme Duan comme employé à temps plein (pièce A-4).
+[9] Au moment de l’embauche de Mme Duan, MGC était en train de changer de système de comptabilité et de passer à un système informatisé de pointe appelé Business Visions. Il semble que le travail de conversion effectué par Mme Duan était très chronophage parce qu’elle devait entrer les données des années précédentes dans le système.
+[10] Mme Duan a appris par elle‑même comment utiliser le logiciel Business Visions et elle suivait la méthode comptable élaborée par un comptable professionnel pour le compte de MGC (pièce A-3).
+[11] En mai 2006, après que Mme Duan a terminé le programme de formation professionnel, elle et MGC ont conclu un contrat visant à poursuivre son emploi de façon contractuelle de juillet 2006 jusqu’à la fin de cette même année.
+[12] Dans cette nouvelle entente, Mme Duan avait le statut d’entrepreneur indépendant. C’était d’ailleurs là l’intention des deux parties. Mme Duan devait fournir des factures et des feuilles de temps et elle serait payée 11 $ l’heure. Il était prévu au contrat que Mme Duan établirait le temps nécessaire pour accomplir le travail et déterminerait elle‑même son horaire. On s’attendait à ce que les tâches à accomplir représentent environ 2 jours de travail par semaine.
+[13] L’entente s’est poursuivie après 2006. D’ailleurs, elle est encore en vigueur actuellement. Il appert que la conversion vient tout juste d’être terminée.
+[14] Pour l’année 2007, soit la période en cause, Mme Duan a reçu une rémunération totale d’environ 15 000 $. À ce moment-là, elle recevait une rémunération de 17,50 $ l’heure.
+[15] Mme Duan n’a travaillé pour personne d’autre pendant l’année 2007 et a suivi des cours pendant une partie de l’année.
+Analyse
+[16] L’avocate de l’intimé soutient que l’entente en question a toutes les caractéristiques qu’on trouve normalement dans une relation d’employeur‑employé. MGC avait un certain contrôle sur la façon dont le travail était effectué, elle fournissait des instruments de travail, soit un ordinateur, à Mme Duan, et celle-ci n’avait aucune possibilité de tirer un profit ou de subir une perte. On propose de ne pas accorder trop d’importance au facteur de l’intention parce que les parties ne comprenaient pas très bien la différence entre la relation avec un employé et la relation avec un entrepreneur indépendant.
+[17] M. Zavislake soutient que le ministre n’a pas eu raison, par l’application stricte de facteurs utilisés depuis toujours, de désigner la relation comme en étant une d’employeur-employé plutôt que de tenir compte des nouvelles façons de mener des activités commerciales.
+[18] Cette observation me paraît exacte.
+[19] MGC et Mme Duan s’étaient clairement entendus sur le fait qu’ils ne voulaient pas que Mme Duan soit un employé. En supposant que leur relation correspondait à cette entente, il faut la respecter.
+[20] Dans cette relation, Mme Duan avait beaucoup plus de latitude que ce qui est normalement le cas dans une relation d’emploi. Elle établissait ses propres heures de travail et a même pris un congé prolongé à un certain moment.
+[21] En outre, Mme Duan avait une sécurité d’emploi bien moindre que si elle avait entretenu une relation employeur‑employé typique, parce que la charge de travail variait d’une journée à l’autre.
+[22] De plus, Mme Duan avait la possibilité de se trouver un deuxième emploi, parce que le travail auprès de MGC ne lui demandait en moyenne que 20 heures par semaine.
+[23] On avait fourni à Mme Duan une marche à suivre détaillée pour la tenue de livres. À première vue, cela semble signifier que MGC avait un important contrôle sur Mme Duan. Cependant, cette marche à suivre servait à protéger les intérêts financiers de l’entreprise. Par exemple, tout achat de plus de 300 $ devait être fait par M. Brad Zavislake. Le fait que MGC avait élaboré une méthode comptable détaillée ne vient pas enrayer la possibilité de l’existence d’une relation avec un entrepreneur indépendant, dans les circonstances.
+[24] M. Zavislake ne supervisait Mme Duan qu’au minimum. Elle avait appris par elle‑même. Si elle avait un problème, elle communiquait directement avec le fournisseur du logiciel Business Visions.
+[25] Pour ce qui est des questions des instruments de travail, de la possibilité de réaliser un profit ou de subir une perte, à mon avis, il s’agit de facteurs neutres, en l’espèce. MGC a fourni un ordinateur à Mme Duan, et celle‑ci n’avait pas de possibilité réelle de réaliser un profit ou de subir une perte. Tout ceci peut être courant dans de nombreuses relations avec un employé ou avec un entrepreneur indépendant.
+[26] Il est pratique courante que des services de tenue de livres soient fournis à des petites entreprises par un entrepreneur indépendant. Je suppose que l’entente entre MGC et Mme Duan représente cette pratique courante.
+[27] Enfin, je souligne que plusieurs des hypothèses formulées par le ministre et énoncées dans la réponse à l’avis d’appel ont été réfutées par la preuve présentée. Ces hypothèses sont les suivantes :
+[traduction]
+g) la travailleuse rendait compte à l’appelante de façon continue afin de l’informer de l’état d’avancement de ses tâches et de lui dire si certains travaux devaient être repris;
+[…]
+i) l’appelante a fourni de la formation pratique à la travailleuse lorsque celle‑ci a commencé à travailler auprès de l’appelante;
+j) la travailleuse était tenue de participer à des réunions pour discuter de la résolution de problèmes;
+k) la travailleuse devait obtenir l’approbation de l’appelante pour obtenir un congé;
+l) l’appelante fournissait gratuitement à la travailleuse des installations, des instruments de travail, de l’équipement et du matériel (comme un ordinateur, des logiciels, un bureau, un téléphone, de la papeterie, des calculatrices); [En fonction de la preuve présentée, l’appelante fournissait seulement un ordinateur, des logiciels et un bureau à Mme Duan.]
+[…]
+n) le nom de la travailleuse figurait dans l’annuaire téléphonique automatique de l’entreprise, au poste 60;
+[…]
+s) la travailleuse travaillait normalement de 10 h à 17 h, ou de 11 h à 18 h, du lundi au vendredi;
+[…]
+y) l’appelante était chargée de traiter les plaintes formulées par les clients; [Mme Duan n’interagissait pas avec les clients.]
+[…]
+cc) la travailleuse ne percevait pas la TPS auprès de l’appelante. [Étant donné son niveau de gains, Mme Duan n’était pas tenue de percevoir la TPS.]
+[28] À mon avis, en l’espèce, on doit reconnaître la relation que les parties avaient convenu d’entretenir entre elles. Mme Duan a d’abord commencé à travailler auprès de MGC à titre d’employé, mais il est évident que la relation a changé du tout au tout après que le programme de formation professionnelle du gouvernement a pris fin.
+[29] L’appel est accueilli, et les cotisations établies pour défaut de remettre les cotisations en application de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada doivent être annulées.
+[30] Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 15e jour de mars 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 21e jour d’avril 2010.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2010 CCI 151
+Nos DE DOSSIERS : 2009-2786(EI)
+2009-2787(CPP)
+INTITULÉ : MERCHANTS OF GREEN COFFEE INC. et LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 12 mars 2010
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 15 mars 2010
+COMPARUTIONS :
+Représentant de l’appelante :
+Robert Zavislake
+Avocate de l’intimé :
+Me Iris Kingston
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

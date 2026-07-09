@@ -1,0 +1,371 @@
+---
+title: "Boubard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28527/index.do"
+last_modified: "2008-03-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 133"
+citation2: ""
+neutral_citation: "2008 CCI 133"
+decision_date: "2008-03-06"
+language: "fr"
+item_id: "28527"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1256
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:04:55.221000+00:00"
+cases_cited_count: 1
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f250c0cd2657c75091fb417fb67e7e3e1da0a8d69ce8922ef2037d18455c8542"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boubard c. La Reine
+
+- Citation: 2008 CCI 133
+- Decision date: 2008-03-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1256, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boubard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-03-06
+Référence neutre
+2008 CCI 133
+Numéro de dossier
+2004-2047(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2004-2047(IT)G
+2004-3540(IT)G
+ENTRE :
+HENRY BOUBARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Richard Bouchie, 2004-2048(IT)G et 2004-3542(IT)G, et de
+Clifford Houston, 2004-2087(IT)G, les 24, 25, 26 et 27 septembre et le 13 décembre 2007, à Winnipeg (Manitoba).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelant :
+Me Joe Aiello
+Avocat de l’intimée :
+Me Gerald Chartier
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000, 2001 et 2002 sont accueillis avec dépens, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que le revenu de l’appelant tiré d’un emploi à l’usine de pâte de Tembec, à Pine Falls (Manitoba), est exempté d’impôt, conformément à l’article 87 de la Loi sur les Indiens.
+Signé à Ottawa, Canada, ce 6e jour de mars 2008.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 30e jour de décembre 2008.
+Mario Lagacé, jurilinguiste
+Dossiers : 2004-2048(IT)G
+2004-3542(IT)G
+ENTRE :
+RICHARD BOUCHIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Henry Boubard, 2004-2047(IT)G et 2004-3540(IT)G, et de
+Clifford Houston, 2004-2087(IT)G, les 24, 25, 26 et 27 septembre et le 13 décembre 2007, à Winnipeg (Manitoba).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelant :
+Me Joe Aiello
+Avocat de l’intimée :
+Me Gerald Chartier
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000, 2001 et 2002 sont accueillis avec dépens, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que le revenu de l’appelant tiré d’un emploi à l’usine de pâte de Tembec, à Pine Falls (Manitoba), est exempté d’impôt, conformément à l’article 87 de la Loi sur les Indiens.
+Signé à Ottawa, Canada, ce 6e jour de mars 2008.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 30e jour de décembre 2008.
+Mario Lagacé, jurilinguiste
+Dossier : 2004-2087(IT)G
+ENTRE :
+CLIFFORD HOUSTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Henry Boubard, 2004-2047(IT)G et 2004-3540(IT)G, et de
+Richard Bouchie, 2004-2048(IT)G et 2004-3542(IT)G,
+les 24, 25, 26 et 27 septembre et le 13 décembre 2007, à Winnipeg (Manitoba).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelant :
+Joe Aiello
+Avocat de l’intimée :
+Gerald Chartier
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000, 2001 et 2002 sont accueillis avec dépens, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que le revenu de l’appelant tiré d’un emploi à l’usine de pâte de Tembec, à Pine Falls (Manitoba), est exempté d’impôt, conformément à l’article 87 de la Loi sur les Indiens.
+Signé à Ottawa, Canada, ce 6e jour de mars 2008.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 30e jour de décembre 2008.
+Mario Lagacé, jurilinguiste
+Référence : 2008CCI133
+Date : 20080306
+Dossiers : 2004-2047(IT)G, 2004-3540(IT)G
+2004-2048(IT)G, 2004-3542(IT)G
+et 2004-2087(IT)G
+ENTRE :
+HENRY BOUBARD, RICHARD BOUCHIE
+et CLIFFORD HOUSTON,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+Les faits
+[1] Les présents appels de nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») portent sur l’application de l’article 81 de la Loi de l’impôt sur le revenu (la « Loi ») et de l’article 87 de la Loi sur les Indiens. Les appelants, qui sont tous des Indiens inscrits membres de la Première nation Sagkeeng (« Sagkeeng ») demandent une exemption d’impôt à l’égard du revenu qu’ils ont tiré de leur emploi à l’usine de pâte de Tembec (l’« usine »), à Pine Falls (Manitoba), au cours des années d’imposition 2000, 2001 et 2002. Les Sagkeeng ont cédé à bail une partie des terres de leur réserve en 1923, et l’ont ensuite cédée à des fins de vente en 1926, en vue de permettre la construction et l’exploitation de l’usine sur les terres cédées. Un grand nombre d’éléments de preuve se rapportaient à ce que le peuple Sagkeeng croyait comprendre au moment où il avait cédé à bail les terres de la réserve et où il les avait ensuite cédées pour qu’elles soient vendues. Selon la position prise par les appelants, leur revenu d’emploi est lié à l’exercice des droits qu’ils possédaient sur les terres de la réserve, conformément à l’objet de l’article 87 de la Loi sur les Indiens, ce revenu étant par conséquent exempté d’impôt. La position prise par l’intimée est simplement que le revenu d’emploi est tiré d’un bien qui n’est pas situé sur les terres de la réserve, étant donné que ce bien a fait l’objet d’une cession absolue et qu’il n’est donc pas visé à l’article 87 de la Loi sur les Indiens.
+Les faits
+[2] Le chef des Sagkeeng, M. Fontaine, a fait l’historique de la réserve, initialement connue sous le nom de réserve de Fort Alexander, une réserve qui enjambe la rivière Winnipeg, là où elle se jette dans le lac Winnipeg. Le peuple Sagkeeng fait partie de la nation Ojibwa. Il compte environ 6 300 membres, dont 60 p. 100 vivent dans la réserve.
+[3] Selon le chef Fontaine, il n’y a pas d’industrie en tant que telle dans la réserve : les entreprises qui y sont exploitées fournissent simplement des services – station‑service, dépanneur, épicerie et entreprises privées : bûcherons indépendants, pharmacien, dentiste et centre de santé, mais il n’y a pas d’hôpital. Les membres se rendent à Pine Falls, ville qui est située à proximité, pour leurs opérations bancaires et pour les services hospitaliers. La ville de Pine Falls s’est formée autour de l’usine : la ville et l’usine sont toutes deux situées sur les terres de la réserve que les Sagkeeng ont cédées au cours des années 1920.
+[4] Un grand nombre des membres se livrent à la pêche, à la chasse et au piégeage. Un mode de vie traditionnel est mené comme en témoignent les cérémonies de suerie et les rassemblements cérémoniels qui ont fréquemment lieu. Le chef Fontaine a expliqué l’importance du secteur Sun Dance, un lieu sacré où un rassemblement annuel de quatre jours attire un grand nombre de premières nations en plus des Sagkeeng. Les anciens parlent la langue traditionnelle, mais les jeunes ne la parlent pas.
+[5] Le chef Fontaine estimait que les Sagkeeng étaient à l’aise comparativement à certaines autres premières nations, étant donné que la réserve était dotée de routes revêtues, d’écoles, d’un centre de loisir et d’habitations adéquates. Il a fait remarquer qu’il y a de l’eau courante dans 60 p. 100 des maisons, et il s’efforçait de faire en sorte qu’il y en ait dans toutes les maisons. Toutefois, la réserve est surpeuplée et le taux d’emploi n’est que de 65 p. 100. L’appelant, M. Houston, a confirmé qu’il avait fait une demande en vue d’obtenir un terrain dans la réserve, mais qu’aucun terrain n’était disponible. Comme le chef Fontaine l’a dit, l’économie est improductive : [traduction] « Nous ne produisons rien. »
+[6] Les perspectives d’emploi posent un grave problème pour les Sagkeeng. Le chef Fontaine rencontre les représentants de l’usine régulièrement pour en discuter et pour les convaincre d’assurer une formation et d’établir des objectifs en ce qui concerne l’embauchage des Indiens. Il espère conclure une entente avec l’usine. Vingt‑quatre membres de la nation Sagkeeng travaillent dans l’usine ou dans la cour de l’usine, à titre de manœuvres ou d’employés d’un niveau plus élevé, ou se livrent à des activités de bûcheronnage. Le chef a expliqué que les activités de bûcheronnage sont accomplies sur des terres qui ont traditionnellement fait partie du territoire des Sagkeeng, lequel s’étend bien au‑delà des limites actuelles de la réserve.
+[7] En 2002 et en 2003, l’usine a pris part au projet de déplacement de la prise d’eau de la réserve en amont de l’usine. L’usine, les Sagkeeng et le gouvernement ont tous fait un apport financier. L’usine aide également en effectuant parfois des dons. Le chef a déclaré que c’était l’usine qui dirigeait en fait la ville de Pine Falls.
+Tembec Industries
+[8] Les parties ont produit un exposé conjoint des faits au sujet de Tembec; les énoncés qui suivent sont tirés de cet exposé :
+[traduction]
+1. Tembec Industries (« Tembec ») est une société cotée en bourse qui s’occupe de fabrication de pâte et de papier; elle est principalement exploitée en Ontario et au Québec, mais elle exerce également ses activités au Nouveau‑Brunswick, au Manitoba, en Colombie‑Britannique et en France. Son siège est situé à Témiscamingue (Québec).
+2. À l’heure actuelle, Tembec compte environ 9 000 employés à l’échelle mondiale; environ 375 personnes travaillent à l’usine de Pine Falls (l’« usine »). En l’an 2000, l’usine comptait entre 475 et 525 employés, mais en 2001, Tembec a mis à pied environ 20 p. 100 des employés. À l’heure actuelle, l’usine emploie 33 Indiens, dont 24 sont membres de la bande de Fort Alexander, également connue sous le nom de Première nation Sagkeeng.
+3. La Manitoba Pulp and Paper Company a ouvert l’usine, à Pine Falls, en 1927. Abitibi Paper Company Ltd. a acheté l’usine en 1932.
+4. En 1994, les employés ont acheté l’usine. Une société de portefeuille a été créée pour permettre aux membres de la bande de Fort Alexander d’acheter 5 p. 100 des actions de la société, et ce, peu importe qu’ils travaillent ou non à l’usine. Les employés de l’usine, notamment les employés membres de la bande de Fort Alexander, pouvaient acheter le reste des actions, soit 95 p. 100 des actions.
+5. En 1998, Tembec a acheté l’usine. La direction, les employés, le matériel et les activités commerciales sont demeurés à peu près les mêmes lorsqu’Abitibi a vendu l’usine à Pine Falls Paper Company et par la suite à Tembec Industries.
+6. Tembec s’occupe principalement de la production et de la vente de papier journal, vendu dans une proportion d’environ 70 p. 100 à des acheteurs du Midwest américain. Tembec ne vend pas ses produits à la bande de Fort Alexander (la « bande ») ou à d’autres bandes indiennes.
+7. L’usine achète du bois à pâte des membres de la bande de Fort Alexander, qui apportent du bois utilisable coupé dans la réserve. Tembec achète en moyenne chaque année 2 000 m3 de bois conformément à des contrats conclus avec des membres individuels de la bande de Fort Alexander, qui coupent le bois dans la réserve de Fort Alexander (la « réserve ») avec l’autorisation du chef de la bande et du conseil. Cela représente environ 0,005 p. 100 de la moyenne annuelle, de 435 000 m3 de bois, qui sont transformés par Tembec. Au cours des années d’imposition en question, Tembec a acheté les quantités suivantes de bois coupé dans la réserve :
+Saison 1999-2000 : 790,4 m3
+Saison 2000-2001 : 1 563,64 m3
+Saison 2002-2003 : 1 458,19 m3
+8. Tembec détient une licence de gestion forestière qui lui permet de couper chaque année 170 000 m3 de bois. Elle achète le reste du bois d’entrepreneurs indépendants, dont cinq sont membres de la bande de Fort Alexander.
+9. L’usine a perdu une bonne partie de ses documents historiques à la suite d’une inondation et parce que les propriétaires successifs de l’usine ont supprimé certains documents.
+10. Tembec a produit une note de service datant de l’année 1940, tirée des documents qui existent encore dans ses archives, laquelle indique qu’une brève entente a été signée le 23 janvier 1926 entre J.D. McArthur et la bande de Fort Alexander, entente que Tembec ne peut pas trouver dans les documents archivés qui existent encore.
+Utilisation des terres de la réserve
+11. L’usine contribue à la Fête des Traités des Sagkeeng ainsi qu’aux programmes communautaires de nettoyage, et elle s’est récemment engagée à verser un montant de 150 000 $ dans un fonds créé pour assurer le développement économique de la réserve.
+12. Deux des quatre programmes de plantation d’arbres et de reboisement mis en œuvre par l’usine sont donnés en sous‑traitance à des membres de la bande de Fort Alexander.
+13. Les membres de la bande de Fort Alexander touchent un dollar la grume pour le bois retiré du fond de la rivière dans les anciennes zones d’estacade. Tembec procède au cubage et l’ancien propriétaire, Abitibi Price, paie le bois.
+14. Tembec :
+a Par le passé, Tembec fournissait à la réserve des services de lutte contre les incendies. En 2005, la bande a demandé à Tembec de cesser de le faire étant donné qu’elle s’était dotée de son propre service d’incendie;
+b Tembec fournit les résidus de cendres et d’escarbille provenant de ses chaudières au site d’enfouissement municipal, à St. George;
+c Tembec a fourni à la bande, à la demande de celle‑ci, des quantités excédentaires de cendres et d’escarbille pour son site d’enfouissement depuis l’ouverture du site il y a environ huit ou dix ans, et ce, au profit mutuel de la bande et de Tembec;
+d Aux termes d’une entente conclue avec la bande au sujet de l’utilisation des rives et des berges de la rivière, l’usine avait accès à la réserve afin de vérifier et de réparer les dommages causés par les ancres des estacades, et afin d’entreposer du bois sur les terres adjacentes à la rivière. Les ententes conclues avec la bande à cette fin ont pris fin en 1987 ou vers 1987.
+15. Le site de l’usine est clôturé. Aucune des installations de l’usine de Tembec n’est située dans la réserve. Tembec n’exerce pas d’activités de bûcheronnage dans la réserve.
+16. En 1932, la Compagnie des chemins de fer nationaux du Canada (le « CN ») a acheté 49,7 acres de terrain pour une ligne de chemin de fer et un fossé de drainage traversant le coin sud‑est de la réserve.
+17. Une ligne électrique et quatre pylônes d’Hydro‑Manitoba, utilisés pour alimenter l’usine, traversent un coin de la réserve, conformément à une entente datée du 12 janvier 1939, qualifiée de servitude, aux termes de laquelle un loyer annuel de 25 $ doit être versé à la bande de Fort Alexander à compter de 1933, une licence devant être accordée pour les lignes situées à cet endroit, et l’accès étant accordé au titulaire de la licence pour qu’il puisse assurer l’entretien des lignes et les réparer.
+Pratiques de Tembec en matière d’embauche
+18. À l’heure actuelle, l’usine emploie 33 Indiens, dont 24 sont membres de la bande de Fort Alexander.
+19. Un grand nombre de travailleurs des premières nations (employés et entrepreneurs) à l’usine de Pine Falls se sont toujours occupés de la coupe de bois et d’activités en forêt, et ces emplois ont en bonne partie été perdus à cause de la mécanisation.
+20. En 2001, 100 employés ont été mis à pied, dont 35 employés ayant de l’ancienneté, et notamment six Indiens, qui ont choisi de se prévaloir d’un programme de retraite anticipée. Aucun nouvel employé n’a été embauché jusqu’en 2006, année au cours de laquelle douze personnes, dont quatre Indiens, qui remplissaient les conditions minimales d’embauche de Tembec, ont été embauchées.
+21. Tembec a pour objectif d’embauche de doter 50 p. 100 des nouveaux postes en faisant appel à des Indiens. Cette politique non écrite est fondée sur le fait que Tembec veut que ses effectifs représentent la réalité démographique locale, ce qui est à son avis une bonne pratique d’affaires. Cet objectif d’embauche de 50 p. 100 est en place depuis plus de 20 ans.
+22. Tembec consulte régulièrement les bandes indiennes voisines au sujet de questions associées aux ressources et afin d’identifier tout emplacement particulièrement sensible et d’examiner la planification opérationnelle, les principaux emplacements de routes ainsi que les questions associées au piégeage et à la faune. Les employés de Tembec rencontrent chaque mois les membres de la bande de Fort Alexander pour traiter entre autres de questions environnementales, du maintien de l’effectif et de l’embauchage d’Indiens ainsi que du plan d’exploitation annuel de l’usine.
+23. Tembec estime que les seules restrictions qu’elle impose en matière d’embauche découlent de conventions collectives, aux termes desquelles la préférence en matière d’embauche est accordée aux employés mis à pied, mais qui ne créent pas de distinctions entre les Indiens et les non‑Indiens. Selon les exigences applicables, il faut avoir terminé sa douzième année et il faut avoir réussi des tests portant sur le raisonnement abstrait, verbal, numérique, spatial et mécanique.
+Les travailleurs
+[9] M. Boubard, M. Houston et M. Lavoie ont témoigné au sujet de leur travail à l’usine. M. Bouchie, l’un des appelants, n’a pas témoigné. Les appelants sont tous des Indiens inscrits, membres de la bande Sagkeeng, et ils travaillaient tous à l’usine au cours des années d’imposition en cause.
+[10] M. Boubard a travaillé dans la réserve toute sa vie durant. Il a fait ses études dans la réserve. Ses parents étaient également membres de la bande vivant dans la réserve. Son père et son grand‑père travaillaient tous deux à l’usine. Il travaille lui‑même dans l’usine. Il se rend chaque jour à Pine Falls pour aller chercher son courrier, aller à la banque, à l’épicerie et ainsi de suite.
+[11] M. Houston habite du côté nord de la rivière, dans le district Chevrefils, à environ un mille de la réserve. Il n’a jamais vécu dans la réserve; par le passé, il a fait une demande au chef et au conseil afin d’obtenir une terre dans la réserve, mais aucune terre n’était disponible. Il est né à l’hôpital de Pine Falls. Il a indiqué qu’il se rend souvent dans la réserve pour des réunions familiales, pour acheter de l’essence, pour aller à la patinoire et ainsi de suite. Il se rend à Pine Falls quand il doit aller à l’épicerie, à la banque et à l’hôpital. Il travaille lui aussi dans l’usine elle‑même.
+[12] M. Bouchie travaille dans l’usine depuis 28 ans. Il habite à trois ou quatre milles de la réserve.
+[13] M. Lavoie habite à environ un mille de la réserve, du côté nord de la rivière. L’usine et la ville de Pine Falls sont situées du côté sud de la rivière. M. Lavoie est lui aussi né à Pine Falls. Pendant de nombreuses années, il habitait dans la réserve, mais il l’a quittée en 2004. Depuis 1990, M. Lavoie travaille comme bûcheron, alors qu’auparavant, il travaillait dans la cour de l’usine. Il a acquis le droit de couper du bois en achetant une entente relative au bois à pâte d’un certain M. Swampy, qui s’était vu attribuer une partie du contingent des Sagkeeng. Il fait la récolte du bois principalement au nord de la réserve et il vend le bois à Tembec seulement. Il se rend dans la réserve régulièrement et il va chaque jour à Pine Falls.
+Contexte historique de la cession des terres de la réserve
+[14] Il est utile d’avoir un aperçu géographique des terres que les Sagkeeng ont cédées, par rapport aux terres de la réserve en général. Je joindrai donc aux présents motifs l’annexe A, qui indique plusieurs centaines d’acres sur lesquels l’usine a été construite ainsi que l’endroit où la ville de Pine Falls a été bâtie.
+[15] J’ai entendu les témoignages de trois experts, qui sont tous historiens : MM. Lloyd Penner et James Morrison pour les appelants, et M. Eric Angel pour l’intimée. J’ai trouvé leurs témoignages fort utiles, non seulement lorsqu’il s’est agi de décrire les événements entourant la cession des terres de la réserve, mais aussi de faire l’historique des relations existant entre les Sagkeeng et le gouvernement du Canada, ainsi que de la vie menée par les Sagkeeng en général il y a près de cent ans. Les témoins ont fait la lumière sur les passages tirés de plus de 200 documents historiques produits en preuve, tâche qu’il m’aurait été difficile d’accomplir en l’absence de leur aide précieuse.
+[16] Voici un résumé de la preuve documentaire et des témoignages des experts, tels qu’ils se rapportent à la cession des terres de la réserve au cours des années 20.
+[17] En 1871, les Sagkeeng ont signé le Traité no 1, aux termes duquel la réserve indienne de Fort Alexander a été établie à l’embouchure de la rivière Winnipeg, là où la rivière se jette dans le lac Winnipeg. Aux yeux des Sagkeeng, la réserve était constituée de terrains non utilisés qui devaient leur appartenir exclusivement à perpétuité. Elle ne comprenait pas leurs terres traditionnelles, qui étaient beaucoup plus vastes. Les terres traditionnelles pouvaient être considérées comme susceptibles d’être utilisées aux fins traditionnelles de la chasse, de la pêche et du piégeage, mais elles n’étaient pas réservées exclusivement à l’usage de la bande. Toutefois, les terres de réserve étaient expressément désignées comme appartenant à la Première nation. Le traité ne renfermait aucune disposition au sujet de la cession de terres. Cependant, en 1923, la Loi sur les Indiens avait établi que les cessions pouvaient uniquement être accomplies au moyen d’une délivrance en faveur de la Couronne, ce qui explique la participation étroite des représentants de la Couronne lorsqu’il s’est finalement agi de transférer les terres de la réserve aux fins de l’établissement de l’usine.
+[18] M. J.D. McArthur, un homme d’affaires qui, en 1920, exploitait une scierie à Lac‑du‑Bonnet, s’est rendu compte de la possibilité de bâtir une usine de pâtes et de papiers à la frontière est de la réserve Sagkeeng. Il avait obtenu des droits de coupe de bois dans le secteur. C’est l’histoire de l’acquisition par M. McArthur des terres de la réserve que les experts m’ont minutieusement reconstituée.
+[19] Il importe de noter que les Sagkeeng ont rarement eu directement affaire à M. McArthur; les négociations se déroulaient principalement entre leur agent inspecteur, M. Bunn, et M. McArthur.
+[20] M. Bunn a rencontré les Sagkeeng pendant l’été 1921 pour entamer des discussions qui devaient finalement mener à la cession à bail de quelques centaines d’acres des terres de la réserve au mois de janvier 1923. Il a signalé que les Sagkeeng [traduction] « s’opposaient absolument à la vente » et que [traduction] « lorsqu’il était question de vente ou de cession, cela les épouvantait ». M. Bunn leur avait fait valoir les avantages qu’offrait un emploi pour les jeunes hommes. En effet, M. McArthur estimait que 200 à 250 emplois seraient créés dans l’usine, et qu’il y en aurait 600 autres en forêt.
+[21] Un procès‑verbal d’une assemblée de la bande du 20 août 1921 dressé par l’agent inspecteur Bunn indique que le chef avait demandé que les Indiens [traduction] « se voient accorder toutes les chances d’obtenir un emploi lorsque les activités commenceraient, en fonction de leurs capacités, des salaires fixes devant être versés pour les services fournis ». Deux protocoles étaient joints à ce procès‑verbal. Selon le protocole A, les Indiens acceptaient de louer 485 acres à la Manitoba Pulp and Paper Company, le loyer annuel s’élevant à cinq dollars l’acre, et demandaient également au ministère des Affaires indiennes de rédiger un projet de bail et [traduction] « de prendre toutes les mesures de protection nécessaires pour leur compte ». Le protocole A stipulait également que les propriétaires indiens qui perdaient leur bien seraient dédommagés.
+[22] Le protocole B, intitulé [traduction] « Proposition », disait notamment que [traduction] « l’entreprise [allait] créer des emplois stables pour environ 200 à 250 hommes ». Plus loin, il était déclaré ceci : [traduction] « Nous, le chef et le conseil, acceptons la proposition susmentionnée dans le cadre des conditions du bail. »
+[23] La cession à bail a finalement été adoptée formellement le 1er février 1923, pour 520 acres de la réserve. Par la suite, le 29 mars 1923, un bail a été signé par le ministère des Affaires indiennes et la Manitoba Pulp and Paper, à un loyer réduit.
+[24] Les Sagkeeng ont reçu le loyer de la première année, mais par la suite la Manitoba Pulp and Paper Company ne leur a rien versé jusqu’au mois de juin 1925 où, après qu’ils l’ont menacé de résilier le bail, M. McArthur a versé un montant de 2 080 $ pour deux années d’arriérés. Au mois de juin 1924, le chef avait envoyé au ministère des Affaires indiennes une lettre libellée en ces termes :
+[traduction]
+Il y a bien longtemps nous avons accepté de louer nos terres; nous nous en remettions à notre inspecteur, M. J.R. Bunn, pour défendre nos intérêts, mais lorsque nous lui avons demandé à être payés pour le loyer, il ne semblait pas être au courant de quoi que ce soit. Nous avons loué nos terres parce que nous croyions que la bande dans la réserve gagnerait bien sa vie en travaillant à l’usine de pâte.
+[25] Le paiement du mois de juin 1925 a immédiatement été suivi d’une prise de position de la part de M. McArthur, qui affirmait que le bail n’était plus adéquat étant donné que les bailleurs de fonds de son entreprise exigeaient que la Manitoba Pulp and Paper ait un droit inconditionnel de propriété.
+[26] Au début du mois de janvier 1926, M. Bunn a signalé au ministère des Affaires indiennes que la bande s’opposait à la vente des terres. Il avait encouragé la bande à [traduction] « saisir cette occasion en vue d’améliorer ses chances dans l’avenir ». M. McArthur lui‑même a rencontré les conseillers de la bande le 13 janvier et il a par la suite écrit au ministère des Affaires indiennes :
+[traduction]
+Le chemin de fer se rend maintenant jusqu’à l’usine et les travaux de construction se poursuivent jour et nuit. Nous allons avoir une excellente industrie dans la ville, et il serait malheureux qu’il soit porté atteinte à nos arrangements financiers par suite de notre incapacité d’obtenir un titre en fief simple à l’égard des terres sur lesquelles sont situés les bâtiments.
+[27] Le chemin de fer traverse certaines parties des terres mêmes de la réserve et continue sur des terres qui ont été cédées à bail à la Manitoba Pulp and Paper Company. Il y avait un embranchement de la voie ferrée qui traversait des terres ayant initialement fait l’objet de la cession à bail et, par la suite, de la cession aux fins de la vente. Le chemin de fer qui a été construit devait desservir la Manitoba Pulp and Paper Company et, avec le temps, il a également desservi la ville de Pine Falls.
+[28] Le 23 janvier 1926, on a de nouveau convoqué, afin de discuter de la cession avec le peuple Sagkeeng, une assemblée qui devait avoir lieu auparavant, à un moment où la bande n’était pas prête à approuver une cession aux fins de la vente. Après que l’argent provenant du bail a été distribué et à la suite de longues discussions (d’une dizaine d’heures), on est arrivé à une entente. Toutefois, le chef des Sagkeeng a tardé à approuver plusieurs procès‑verbaux. Selon l’agent inspecteur Bunn, l’assemblée et la signature s’étaient déroulées dans une ambiance positive et coopérative, mais selon un article de journal, le désordre régnait et l’atmosphère était lugubre. Je conclus que la cession des terres de la réserve pour les besoins de l’usine a été acceptée avec énormément de réticence.
+[29] L’acte de cession lui‑même est libellé en ces termes :
+[traduction]
+Il est également convenu que la cession de ces terres au moyen du bail no 186 daté du 28 mars 1923 en faveur de la Manitoba Pulp and Paper Company Limited ne changera rien aux conditions du bail quant au traitement des Indiens qui possèdent des terrains dans les limites de la superficie de 304 acres qui est cédée, ni aux autres conditions y afférentes énoncées dans le bail.
+[30] Après que les rapports initiaux des experts ont été échangés, on a découvert une copie d’une note de service datée du 4 avril 1940, rédigée par un certain M. MacKenzie, qui était alors directeur responsable des bois à la Manitoba Pulp and Paper Company Limited, au sujet des relations existant avec la bande indienne de Fort Alexander. Dans cette note de service, M. MacKenzie dit ce qui suit :
+[traduction]
+Le 23 janvier 1926, J.D. McArthur a signé avec la bande une brève entente prévoyant ce qui suit :
+a) Les Indiens se verraient accorder une chance raisonnable d’obtenir du travail à l’usine;
+b) Les Indiens seraient autorisés à vendre au « camp » les légumes et autres articles qu’ils avaient à vendre et dont le camp pourrait avoir besoin.
+[31] M. Angel, l’expert de l’intimée, a fait les commentaires suivants au sujet de cette entente :
+[traduction]
+Je suis d’accord pour dire que le compte rendu verbal des ententes avait une grande importance pour les membres de la bande de Fort Alexander au cours des années 1920, mais je crois que l’existence de l’entente écrire décrite par M. MacKenzie démontre que les membres de la bande estimaient qu’il était également important de consigner par écrit ce dont il avait été convenu.
+Enfin, la description de ce dont il a été convenu entre M. McArthur et la bande le 23 janvier 1926 est compatible avec les autres éléments de preuve qui sont disponibles, en particulier le protocole C du 20 août 1921 et les deux lettres du chef de la bande de Fort Alexander datées du 4 juin et du 10 septembre 1924. À mon avis, la preuve montre que, dans la mesure où il existait une entente en matière d’emploi, elle prévoyait que les membres de la bande devaient se voir accorder une possibilité raisonnable ou une chance raisonnable de travailler à l’usine, mais qu’il ne s’agissait pas d’une garantie d’emploi.
+[32] Les deux experts des appelants ont exprimé cette entente en des termes plus clairs. M. Morrison a exprimé l’opinion suivante :
+[traduction]
+Néanmoins, les membres de la Première nation estiment avoir conclu une entente avec la société et avec le ministère, comme en font foi le protocole B du 20 août 1921 et les discussions orales qui ont eu lieu le même jour, entente qui leur avait continuellement été promise au cours des négociations, leur assurant que l’exploitation de l’usine de pâte dans leur réserve comportait toutes sortes d’avantages sur le plan des emplois.
+Compte tenu des déclarations que les représentants de la société et des Affaires indiennes avaient faites lors de l’assemblée relative à la cession du 23 janvier 1926, il n’y aurait pas eu lieu pour les membres de croire que l’entente intervenue à l’égard des emplois ne s’appliquait plus, même après la cession absolue de certaines parties de la réserve aux fins de la vente.
+Le point litigieux
+[33] Le revenu d’emploi des appelants est‑il un bien exempté d’impôt conformément à l’article 87 de la Loi sur les Indiens? Il est intéressant de noter que les parties ont formulé la question d’une façon quelque peu différente. Les appelants se demandent si le revenu est lié à la réalisation des droits qu’ils possédaient à l’égard des terres de la réserve. L’intimée se demande si le revenu d’emploi est situé dans une réserve conformément à l’article 87 de la Loi sur les Indiens. À coup sûr, les appelants cherchent à faire appliquer l’article 87 d’une façon plus libérale, alors que l’intimée limite l’approche à adopter à l’égard de l’application de l’alinéa 87(1)b). L’article 87 de la Loi sur les Indiens est en partie rédigé en ces termes :
+87(1) Nonobstant toute autre loi fédérale ou provinciale, mais sous réserve de l’article 83 et de l’article 5 de la Loi sur la gestion financière et statistique des premières nations, les biens suivants sont exemptés de taxation :
+a) le droit d’un Indien ou d’une bande sur une réserve ou des terres cédées;
+b) les biens meubles d’un Indien ou d’une bande situés sur une réserve.
+87(2) Nul Indien ou bande n’est assujetti à une taxation concernant la propriété, l’occupation, la possession ou l’usage d’un bien mentionné aux alinéas (1)a) ou b) ni autrement soumis à une taxation quant à l’un de ces biens.
+Position des appelants
+[34] Les appelants mettent l’accent sur le droit du peuple Sagkeeng, reconnu par le traité, d’être à l’abri de l’impôt du fait de l’application de l’article 87. Étant donné que la cession des terres de la réserve visait à fournir une source de revenu, ce revenu est étroitement lié à la réserve, et l’imposition de ce revenu porterait atteinte au droit qui est reconnu au peuple Sagkeeng par le traité de profiter pleinement des terres de la réserve. Il faut tenir compte dans ce contexte d’un situs théorique du revenu d’emploi, ce revenu étant situé dans la réserve. Les appelants invoquent les motifs que la Cour d’appel fédérale a prononcés dans l’arrêt Amos v. R.[1] à l’appui de cette position, en soutenant que les deux affaires sont fort similaires.
+[35] Les appelants prennent également la position selon laquelle la cession, bien qu’elle soit absolue, était également conditionnelle, et que les Sagkeeng n’ont pas éteint tous les droits qu’ils possédaient sur les terres cédées : les Sagkeeng ont conservé un droit sur les terres cédées, notamment en ce qui concerne une entente en matière d’emploi. Permettre l’imposition dans ces circonstances irait à l’encontre de l’objet de l’article 87 de la Loi sur les Indiens.
+Position de l’intimée
+[36] La position de l’intimée est simple. Le revenu d’emploi est gagné sur des terres qui ont fait l’objet d’une cession absolue et qui ont par la suite été vendues à la société de pâtes et papiers : il ne reste plus aucun droit. Le revenu n’est pas situé dans une réserve et il n’est pas exempté d’impôt par application de l’alinéa 87(1)b) de la Loi sur les Indiens. Toute déclaration qui a pu être faite au sujet des emplois n’était ni une promesse ni une garantie, mais il s’agissait plutôt d’une simple affirmation selon laquelle les membres de la bande auraient une chance raisonnable d’obtenir du travail à l’usine. L’intimée fait valoir que les autres facteurs de rattachement (l’employeur est situé en dehors de la réserve, il n’y a pas d’activités de bûcheronnage dans la réserve, les produits de Tembec sont vendus sur le marché, deux appelants habitent en dehors de la réserve, la plupart des employés de l’usine ne sont pas membres de la bande et ne sont pas des Indiens) ne suffisent pas pour établir que le revenu d’emploi constitue un bien situé dans la réserve. Enfin, l’intimée fait une distinction entre l’affaire Amos et celle dont je suis ici saisi.
+Analyse
+[37] Pour décider si un bien meuble appartenant à un Indien est admissible à l’exemption prévue à l’article 87 de la Loi sur les Indiens, je me fonde sur la méthode énoncée par la Cour suprême du Canada dans l’arrêt Williams c. Canada[2], laquelle a été appelée l’approche des « facteurs de rattachement ». Depuis l’arrêt Williams, cette approche a été adoptée dans maintes décisions (dans la décision Wyse c. Canada[3] récemment rendue, le juge Lemieux, de la Cour fédérale, a fait un excellent résumé de la jurisprudence sur ce point), et je ne vois pas la nécessité de résumer de nouveau cette jurisprudence. Le passage suivant de l’arrêt Williams définit succinctement la voie à suivre sur le plan de l’analyse :
+Il faut d’abord identifier les divers facteurs de rattachement qui peuvent être pertinents. On doit ensuite analyser ces facteurs pour déterminer le poids à leur accorder afin d’identifier l’emplacement du bien, en tenant compte de trois choses : (1) l’objet de l’exemption prévue dans la Loi sur les Indiens, (2) le genre de bien en cause et (3) la nature de l’imposition de ce bien. Il s’agit donc de déterminer, relativement à chaque facteur de rattachement, le poids qui devrait lui être accordé pour décider si l’imposition en cause de ce type de bien représenterait une atteinte aux droits de l’Indien à titre d’Indien sur une réserve.
+[38] À coup sûr, la tâche la plus difficile qui incombe au juge dans cette analyse consiste à décider dans un cas donné du poids à accorder aux différents facteurs : résidence de l’appelant, résidence de l’employeur, étendue des activités de l’employeur dans la réserve et en dehors de la réserve, emplacement du travail exécuté par les appelants, nature du travail, circonstances historiques ayant donné lieu au revenu d’emploi. Comme on peut s’y attendre, les parties ont passé presque tout leur temps à présenter et à débattre leur cause en se fondant sur le dernier facteur. Je souscris à leur avis, à savoir qu’eu égard aux circonstances de l’affaire, c’est le facteur auquel il faut accorder le plus de poids. Cela est conforme au raisonnement qui a été fait dans l’arrêt Amos. J’ai donc l’intention de parler brièvement des autres facteurs, mais je vais me concentrer sur ce sur quoi la présente décision doit selon moi être fondée – la source du revenu d’emploi.
+[39] Mais auparavant, je tiens à souligner qu’un impôt sur un bien meuble est ici en cause, plutôt qu’un impôt sur un bien immeuble. La détermination du situs d’un bien incorporel comporte nécessairement un exercice quelque peu théorique, comme l’a dit la Cour d’appel fédérale dans l’arrêt Clarke (Folster) v. Minister of National Revenue[4]. Voici ce que la Cour d’appel fédérale a conclu : « Comme je l’explique plus loin, la solution réside dans une conception de l’interprétation et de l’application de l’expression "situé sur une réserve" qui repose sur l’objet de la disposition créant l’exemption dans la Loi sur les Indiens. » Comme la Cour suprême l’a expliqué dans l’arrêt Williams, en citant l’arrêt Mitchell c. Bande indienne Peguis[5], la disposition vise « à préserver les droits des Indiens sur leurs terres réservées et à assurer que la capacité des gouvernements d’imposer des taxes […] ne porte pas atteinte à l’utilisation de leurs biens situés sur leurs terres réservées ». Examinons donc les facteurs de rattachement dans ce contexte.
+Résidence de l’employeur
+[40] L’usine, qui est exploitée par Tembec, est située sur les quelques centaines d’acres de terrains cédés par les Sagkeeng en 1926. En consultant la carte de la réserve, on remarque qu’un morceau de terre a été pris dans le coin sud‑est de la réserve; la réserve entoure la propriété de trois côtés. L’intimée a raison de signaler qu’aucune des activités de l’usine n’est exercée dans la réserve, mais que les activités sont plutôt exercées sur les terres qui ont été cédées, lesquelles ne font plus partie de la réserve. Dans l’affaire Clarke (Folster), l’employeur était situé en dehors de la réserve; la Cour d’appel fédérale a fait les remarques suivantes :
+Le juge de première instance a accordé trop de poids à l’emplacement géographique de l’emploi et à la résidence de l’employeur, en l’occurrence le gouvernement fédéral. Il n’a pas accordé assez de poids aux circonstances véritables touchant l’emploi de l’appelante, sa résidence sur la réserve et l’historique de l’hôpital où elle travaillait.
+L’usine est située sur les terres de réserve qui ont été cédées, mais à mon avis, il est important de tenir compte des activités de l’employeur dans la réserve elle‑même, ce qui m’amène au facteur suivant.
+Étendue des activités de l’employeur dans la réserve
+[41] Les appelants ont identifié les liens suivants entre l’exploitation de l’usine et la réserve :
+(i) Jusqu’en 1933, l’usine a continué à louer des terres de la réserve qui étaient entre autres choses utilisées pour un chemin de fer;
+(ii) Deux des quatre programmes de plantation d’arbres et de reboisement mis en œuvre par l’usine sont confiés en sous‑traitance à des membres de la bande de Fort Alexander;
+(iii) Les membres de la bande de Fort Alexander touchent un dollar la grume pour le bois retiré du fond de la rivière dans les anciennes zones d’estacade; Tembec procède au cubage et l’ancien propriétaire, Abitibi Price, paie le bois;
+L’intimée soutient que ces quelques éléments sont simplement accessoires à l’exploitation de l’usine et qu’ils n’en font certes pas partie intégrante. C’est peut‑être vrai, mais il reste que c’est l’effet cumulatif des divers liens entre l’usine et la réserve qui m’a frappé.
+(iv) Par le passé, Tembec fournissait à la réserve des services de lutte contre les incendies. En 2005, la bande a demandé à Tembec de cesser de le faire étant donné qu’elle s’était dotée de son propre service d’incendie;
+(v) Tembec a fourni à la bande, à la demande de celle‑ci, des quantités excédentaires de cendres et d’escarbille pour son site d’enfouissement depuis l’ouverture du site il y a environ huit ou dix ans, et ce, au profit mutuel de la bande et de Tembec;
+(vi) Aux termes d’une entente conclue avec la bande au sujet de l’utilisation des rives et des berges de la rivière, l’usine avait accès à la réserve afin de vérifier et de réparer les dommages causés par les ancres d’estacade et afin d’entreposer du bois sur les terres adjacentes à la rivière. Les ententes conclues avec la bande à cette fin ont pris fin en 1987 ou vers 1987;
+(vii) En 1932, la Compagnie des chemins de fer nationaux du Canada a acheté des Sagkeeng 49,7 acres de terrain pour une ligne de chemin de fer et un fossé de drainage traversant le coin sud‑est de la réserve. Le chemin de fer a été construit afin de desservir l’usine;
+(viii) Une ligne électrique et quatre pylônes d’Hydro‑Manitoba, utilisés pour alimenter l’usine, sont situés dans un coin de la réserve, conformément à une entente datée du 12 janvier 1939, qualifiée de servitude, aux termes de laquelle un loyer annuel de 25 $ doit être versé à la bande de Fort Alexander à compter de 1933, une licence devant être accordée pour les lignes situées à cet endroit, et l’accès étant accordé au titulaire de la licence pour qu’il puisse assurer l’entretien des lignes et les réparer;
+(ix) Une grosse partie du bois utilisé par l’usine est récolté sur les terres traditionnelles. L’intimée affirme que la notion de terres traditionnelles n’a aucune importance. Il est admis que les terres traditionnelles s’étendent bien au‑delà de la réserve, mais il s’agit simplement d’un lien additionnel entre l’usine et le peuple Sagkeeng;
+(x) Tembec achète chaque année en moyenne 2 000 mètres cubes de bois aux termes de contrats conclus avec des membres individuels de la bande de Fort Alexander qui coupent du bois dans la réserve de Fort Alexander, avec l’autorisation du chef et du conseil de la bande. L’intimée a raison de signaler que cela représente une fraction minime (moins de 1 p. 100) de la quantité totale de bois et d’approvisionnement de Tembec;
+(xi) L’usine fait un apport à la communauté, notamment pour la Fête des Traités et les programmes communautaires de nettoyage, et elle s’est récemment engagée à verser 150 000 $ dans un fonds créé pour assurer le développement économique de la réserve.
+[42] L’intimée conclut que ces facteurs ne suffisent pas pour permettre d’arriver à la même conclusion que celle à laquelle la Cour d’appel fédérale est arrivée dans l’arrêt Amos, à savoir que les activités de l’usine dans la réserve faisaient « intégralement partie de l’exploitation de l’usine de pâte à papier ». Cependant, il faut se demander quelles étaient, dans l’affaire Amos, les activités exercées sur les 28 acres de terres louées de la réserve qui, selon la Cour d’appel fédérale, faisaient partie intégrante de l’exploitation :
+(i) La société utilisait une partie du terrain loué pour y conserver un tas de copeaux à brûler et un tas de copeaux de bois (il importe de comparer la superficie de 28 acres située dans la réserve aux 439 acres de propriété privée sur lesquels l’usine était située dans l’affaire Amos);
+(ii) Il y avait un camp de construction temporaire pour les travailleurs (de 1989 à 1994) pendant qu’ils travaillaient à la construction d’une scierie située ailleurs;
+(iii) Quant aux années antérieures, la société utilisait le terrain aux fins suivantes :
+a) pour qu’un poste de stockage de Petro‑Can, qui a desservi l’usine jusqu’en 1988, y soit établi;
+b) pour entreposer de la cendre dans le bassin de tassement jusqu’au début des années 1990;
+c) le terrain loué contenait des arbres formant un écran entre la réserve et la route.
+Dans l’affaire Amos, l’usine elle‑même était située sur des terres qui n’avaient jamais fait partie de la réserve.
+[43] Aucune activité de Tembec prise séparément ne semble faire partie intégrante de l’exploitation de l’usine, mais collectivement les activités de Tembec révèlent l’existence d’un lien entre l’usine et la réserve. L’emplacement du chemin de fer et l’emplacement de la ligne électrique constitueraient sans aucun doute des facteurs essentiels à la viabilité des activités continues de l’usine. Comparativement aux activités exercées dans l’affaire Amos, je ne suis pas convaincu qu’il existe un si grand écart entre les activités qui feraient partie intégrante de l’exploitation de l’usine selon la Cour d’appel fédérale, et les circonstances ici en cause. Toutefois, je reviendrai plus loin sur la comparaison de ces deux situations factuelles.
+L’endroit où les appelants exécutaient leur travail
+[44] Le travail des appelants était exécuté à l’usine même, sur les terres de la réserve qui avaient fait l’objet d’une cession absolue aux fins de la vente au cours des années 1920.
+La nature du travail
+[45] Le travail des appelants ne faisait pas partie du mode traditionnel de vie des Sagkeeng. Il s’agissait d’un travail dans une usine dont les activités consistaient à produire et à vendre du papier journal. Pourtant, en ce qui concerne M. Boubard du moins, ce type de travail était accompli depuis trois générations. Il s’agissait du travail dont les Sagkeeng voulaient tirer parti lors de la cession des terres de la réserve en 1926. Comme la Cour d’appel l’a signalé dans l’arrêt Clarke (Folster) :
+Le genre de bien meuble en cause, c’est‑à‑dire le revenu d’emploi, est tel qu’on ne peut juger de sa nature sans se référer aux circonstances dans lesquelles il a été gagné. De même que le situs des prestations d’assurance-chômage doit être déterminé par rapport à l’emploi ouvrant droit aux prestations, de même l’analyse de l’emplacement du revenu d’emploi est subordonnée à un examen de toutes les circonstances qui ont donné lieu à l’emploi.
+[46] Cela m’amène à ce qui, selon moi, est le facteur de rattachement primordial à prendre en considération : les circonstances ayant donné lieu à l’emploi du peuple Sagkeeng à l’usine. Les facteurs examinés jusqu’à maintenant comportent divers degrés de rattachement et ne fournissent pas une justification suffisante dans un sens ou dans l’autre pour permettre de déterminer d’une façon concluante le situs théorique du revenu d’emploi des appelants pour l’application de l’article 87. La présente affaire dépend de l’importance à accorder à ce dernier facteur.
+Circonstances passées ayant donné lieu au revenu d’emploi
+[47] Il y a deux éléments de la cession des terres de la réserve qui pourraient influer sur l’application de l’article 87. En premier lieu, de quelle façon les Sagkeeng concevaient‑ils la cession pour ce qui est de leur capacité d’obtenir du travail à l’usine? En second lieu, quel était l’effet de la cession absolue aux fins de la vente, en 1926? Ces deux éléments sont sans aucun doute liés entre eux, mais étant donné que les deux parties ont consacré énormément d’énergie à en parler séparément, je tâcherai de faire la même chose.
+[48] En ce qui concerne la façon dont la bande concevait l’affaire, je suis convaincu qu’en cédant les terres de la réserve, les Sagkeeng croyaient renoncer à une chose d’une valeur considérable en échange d’emplois créés grâce aux terres de la réserve. Je tire cette conclusion compte tenu de l’effet cumulatif que les pièces et les témoignages d’experts ont eu sur moi. Il y avait une multitude de renseignements et une histoire remarquable à raconter – les traits saillants sont repris dans mon résumé des faits. J’examinerai certains détails, mais je veux qu’il soit clair que j’ai généralement eu l’impression que le peuple Sagkeeng hésitait à renoncer à ce qui devait leur appartenir à perpétuité, à savoir les terres de la réserve, en l’absence d’un engagement aussi ferme que possible leur offrant une chose d’égale valeur en contrepartie de ce droit. Cette chose n’était pas de l’argent; il pouvait uniquement s’agir de possibilités d’emploi.
+[49] Voici les détails plus précis, figurant dans les documents, qui m’amènent à cette conclusion :
+(i) la lettre du 15 juin 1921 dans laquelle le commissaire des Indiens Graham dit de qui suit :
+[traduction]
+Les avantages qu’offre pour les Indiens l’établissement de l’usine dans la réserve seront énormes. Ils auraient des possibilités d’emploi. [...]
+Cela a donné lieu à la cession à bail, mais l’importance des emplois, non seulement pour les Indiens, mais aussi aux yeux du commissaire des Indiens, est clairement démontrée.
+(ii) La lettre du 15 juin 1921 adressée aux Affaires indiennes, à Ottawa, dans laquelle le chef Mann dit ce qui suit :
+[traduction]
+Un homme qui s’appelle J.D. McArthur, de Winnipeg, est venu ici depuis la ville pour se renseigner au sujet de notre réserve. Il veut acheter un mille carré dans le secteur sud, mais nous ne pouvons pas le lui vendre; en effet, lorsque les hommes blancs ont conclu le marché avec nos aïeux, ils ont affirmé que nous posséderions notre réserve tant que le soleil brillerait ou tant que la rivière coulerait; nous ne pouvons pas vendre notre réserve. Ce J.D. McArthur veut que nous signions sans qu’une entente ait été conclue, mais nous ne pouvons rien faire puisque notre réserve a été arpentée et que nous allons la posséder tant que le monde durera.
+Quoi que de nombreux experts puissent dire au sujet de leur interprétation des sentiments éprouvés par les Indiens à ce moment‑là, cette lettre du chef Mann exprime d’une façon fort éloquente, et pourtant simple, le profond attachement que les Indiens ont à l’égard de la réserve.
+(iii) La lettre du 29 juillet 1921, dans laquelle l’inspecteur Bunn disait que, lorsqu’il était question de vente ou de cession, cela épouvantait les Indiens. L’inspecteur Bunn dit également que les jeunes hommes indiens qui peuvent travailler sont fortement en faveur d’un bail. Cela indique la grande importance que la bande attachait à la conservation de ses terres et met en outre de nouveau l’accent sur la perspective du gouvernement du Canada quant à l’importance des emplois pour la bande;
+(iv) Le rapport du 20 août 1921 de l’inspecteur Bunn faisant état de la réunion qu’il avait eue le 20 août avec la bande, dans lequel il confirmait que le chef et le conseil avaient signé le protocole [traduction] « renfermant les conditions qui, selon eux, devaient figurer en toutes lettres dans le bail envisagé » et en outre que [traduction] « le chef a[vait] demandé que les Indiens se voient accorder toutes les chances d’obtenir du travail »;
+(v) Un des protocoles mentionnés était le protocole B, qui indiquait que l’entreprise offrirait des emplois stables à environ 200 ou 250 hommes. Le chef et le conseiller ont signé le document en mentionnant ce qui suit : [traduction] « Nous, le chef et le conseiller, acceptons la proposition susmentionnée dans le cadre des conditions du bail. » Cela montre encore une fois qu’ils ne s’attendaient pas à une simple possibilité d’obtenir du travail. Je suis convaincu que la bande faisait tout son possible pour s’assurer qu’elle ne cédait pas les terres de la réserve, même à bail, sans que des emplois soient créés;
+(vi) La lettre que M. McArthur a envoyée le 26 septembre 1921 au ministère des Affaires indiennes indiquant que l’usine offrirait des avantages incalculables aux Indiens eux‑mêmes, en fournissant du travail presque toute l’année durant. Cela montre que ce n’étaient pas uniquement les Indiens et le gouvernement du Canada pour qui les emplois étaient importants, mais que le propriétaire de l’usine en constatait également l’importance;
+(vii) Une lettre particulièrement importante est celle du chef Mann, datée du mois de juin 1924 : [traduction] « [N]ous cédions nos terres parce que nous croyions que la bande dans la réserve gagnerait bien sa vie en travaillant à l’usine de pâte. » Cela confirme mon avis au sujet de la raison pour laquelle la bande a envisagé une cession de quelque genre que ce soit;
+(viii) La lettre du 4 avril 1940 de M. MacKenzie, confirmant que M. McArthur avait conclu avec la bande une brève entente dans laquelle il s’engageait à ce que les Indiens se voient accorder une chance raisonnable d’obtenir du travail à l’usine. Cela renforce l’entente orale et consigne par écrit l’engagement pris par l’usine au sujet des emplois. Selon moi, cela confirme l’importance accordée aux emplois dans le cadre de l’opération. Ces emplois avaient une importance cruciale. Je conclus qu’en l’absence de l’engagement de créer des emplois, la cession n’aurait pas eu lieu.
+[50] Bien que les parties aient débattu la question de la nature de la promesse de travail, je ne cherche pas tant à préciser la nature juridique véritable de cette entente, à savoir s’il s’agit d’une condition, d’une garantie, d’une disposition contractuelle, d’une entente, qu’à savoir jusqu’à quel point l’aspect « emploi » de la cession est un facteur de rattachement par rapport aux emplois actuels. À cette fin, il ne s’agit pas tant de juger de la légalité de l’arrangement, mais plutôt d’apprécier l’importance de l’arrangement, aux yeux de la bande, pour son avenir collectif, et de décider en quoi cela se rapporte au maintien des droits qui lui étaient reconnus par le traité. Je suis convaincu que la bande n’a pas cédé à la légère une partie de la réserve – il s’agissait d’une question extrêmement sérieuse pour les Sagkeeng et ils s’attendaient à beaucoup plus qu’à un simple transfert d’argent. La fourniture stable d’un revenu d’emploi faisait partie intégrante de ce que la bande croyait obtenir en prenant la mesure fort grave qu’était la cession d’une partie de la réserve. Le marché était conclu sur cette base. Peut‑il y avoir un lien plus étroit qu’un revenu d’emploi tiré de l’usine qui, pour le peuple Sagkeeng, remplaçait effectivement sa réserve?
+[51] Passons donc au second élément du contexte historique – l’effet de la cession. Selon la position prise par l’intimée, la cession de 1926 était une cession absolue. Des terres de la réserve étaient cédées en vue d’être vendues, de sorte que la bande ne possédait plus aucun droit sur ces terres. L’intimée invoque les arrêts St. Mary’s Indian Band v. Cranbrook (City)[6], Canadian Pacific Ltd. v. Matsqui Indian Band[7] et Bande indienne d’Osoyoos c. Oliver (Ville)[8] à l’appui de la thèse selon laquelle les terres remises aux fins de la vente ont fait l’objet d’une cession absolue, et qu’une cession absolue a pour effet d’éteindre le droit des Indiens sur les terres cédées, en enlevant la terre de la réserve. Selon l’intimée, les avantages se rattachant aux emplois n’étaient pas des conditions découlant d’une relation contractuelle, mais il s’agissait simplement d’un résultat prévu. On ne saurait donc pas dire que la cession était de quelque façon conditionnelle. L’intimée renvoie également au document de cession lui‑même et dit qu’il n’y est pas fait mention d’emplois.
+[52] Selon moi, il s’agit d’une approche légaliste restreinte quant à l’effet de la cession. Premièrement, je reconnais qu’en tant que cession en vue de la vente, il s’agissait d’une cession absolue, mais je conclus également qu’il s’agissait d’une cession conditionnelle. Le décret confirme que les terres ont été cédées aux fins de la construction de l’usine de pâtes et papiers. À coup sûr, la cession dépendait donc de la vente des terres à la Manitoba Pulp and Paper aux fins de la construction et de l’exploitation de l’usine. Le document de cession lui‑même stipule ensuite qu’il est entendu que la Manitoba Pulp and Paper Company doit construire une route, et que le fait que les terres ne soient plus assujetties au bail ne changera rien aux conditions du bail pour ce qui est du traitement des propriétaires indiens ni [traduction] « aux autres conditions y afférentes énoncées dans le bail ». S’il ne s’agit pas de conditions, que sont ces déclarations? À vrai dire, la façon dont elles sont appelées importe‑t‑elle? J’ai conclu que les possibilités d’emploi faisaient bel et bien partie de la cession à bail. Étant donné les circonstances ci‑dessus décrites en ce qui concerne les emplois, il ne m’est pas difficile de conclure que la mention, dans la cession aux fins de la vente, des conditions figurant dans le bail amènerait les Sagkeeng à croire que les emplois faisaient partie de cette cession.
+[53] Les appelants affirment que la façon dont la bande concevait l’arrangement et son intention sur le plan des emplois font bel et bien partie de la cession aux fins de la vente, et que la cession absolue en tant que telle n’éteint pas tous les droits qu’ils possèdent sur les terres cédées. Selon moi, il n’est pas ici non plus nécessaire d’essayer d’énoncer en termes juridiques ce que la cession a fait ou ce qu’elle n’a pas fait : c’est la façon dont les circonstances de la cession aux fins de la vente influent sur les droits reconnus aux Sagkeeng par le traité qui m’intéresse, compte tenu de l’objet de l’article 87. Comme le juge Evans l’a dit dans l’arrêt Monias v. R.[9] :
+[…] la protection des terres de la réserve de toute atteinte par le biais de l’impôt est plus directement visée par l’article 87 que la protection des biens personnels situés sur la réserve.
+Les Sagkeeng utilisaient les terres de la réserve pour en tirer parti sur le plan économique : tout ce qui touchait la cession visait à conserver cet avantage économique. Les terres ne devaient pas être cédées à un ministère du gouvernement pour être imposées ensuite par un autre. Cela va tout à fait à l’encontre de l’objet de l’article 87. Je n’ai pas à conclure que les Sagkeeng ont conservé un droit au point de vue juridique. Je préfère considérer que les Sagkeeng substituaient quelque chose de plus que de l’argent aux terres de la réserve. Selon le marché qu’ils avaient conclu, ils devaient obtenir du travail et c’est ce travail qui constitue le nœud du litige. Par conséquent, même si les droits fonciers autochtones sont des droits sui generis sur les terres, et comme la Cour suprême l’a dit dans l’arrêt Bande indienne d’Osoyoos, « [l]es droits fonciers autochtones appartiennent à une catégorie qui leur est propre », je n’ai pas à essayer de classer dans une catégorie le droit que les Sagkeeng conservaient, le cas échéant. Il suffit que les circonstances touchant la cession absolue de la réserve consentie par les Sagkeeng constituent un facteur de rattachement important pour que je puisse conclure que le revenu d’emploi tiré de l’usine exploitée sur les terres cédées est un bien qui est visé par les dispositions d’exemption de l’article 87 de la Loi sur les Indiens. Dans ces conditions, assujettir à l’impôt le revenu d’emploi que le peuple Sagkeeng tirait de l’usine, c’est porter atteinte à ses droits, qui découlent directement des terres de la réserve.
+L’arrêt Amos
+[54] Je veux enfin me pencher sur l’arrêt que la Cour d’appel fédérale a rendu dans l’affaire Amos, étant donné que les appelants se sont fortement fondés sur cette décision, en établissant d’étroits parallèles entre cette affaire et celle dont je suis ici saisi. D’autre part, l’intimée a fait ressortir certaines différences entre les deux affaires, lesquelles empêchaient, selon elle, d’invoquer cet arrêt à l’appui de la position des appelants. L’arrêt rendu par la Cour d’appel fédérale était concis. Il vaut la peine de reproduire quatre des huit paragraphes :
+[4] En cherchant à appliquer les facteurs pertinents pour déterminer le situs du revenu en question, nous avons conclu que le distingué juge de première instance n’a pas, du point de vue juridique, accordé dans les circonstances le poids qu’il fallait à l’objectif visé par l’exemption fiscale prescrite par l’article 87 de la Loi sur les Indiens, lequel consiste
+« à préserver les droits des Indiens sur leurs terres réservées et à assurer que la capacité des gouvernements d’imposer des taxes [...], ne porte pas atteinte à l’utilisation de leurs biens situés sur leurs terres réservées. »
+[5] Dans une optique plus large, il est possible d’inférer, en l’espèce, que la Compagnie a voulu louer le terrain en question en raison de l’importance qu’il présentait à ses yeux pour les activités de la future usine de pâte à papier et que la bande indienne a consenti à lui céder en location la réserve étant entendu, entre autres, que cette location favoriserait l’embauche de membres de la bande comme le bail le prévoyait d’ailleurs. C’est ainsi que les appelants ont été employés par la Compagnie et, bien que nous n’ayons aucune preuve que leur embauche soit directement attribuable à la condition énoncée dans le bail, on peut déduire, à juste titre, que les intéressés ont profité des possibilités d’emploi conséquentes au droit d’accès à la réserve obtenu par la Compagnie.
+[6] Le fait que les deux appelants n’aient pas effectivement travaillé sur le terrain de la réserve durant leur période de service à la Compagnie soulève un point délicat. Toutefois, les parties ont reconnu que les usages auxquels la Compagnie a affecté la partie de la réserve cédée en location [traduction] « avaient trait à la production de pâte à papier », fonction à laquelle les appelants étaient affectés. Il nous semblerait trop arbitraire de priver les employés d’un secteur opérationnel de l’usine des avantages prévus à l’article 87 tout en les accordant à ceux qui travaillent dans un autre secteur contigu. Il faut en déduire que l’utilisation du terrain de la réserve faisait intégralement partie de l’exploitation de l’usine de pâte à papier, sinon la Compagnie ne l’aurait pas loué avant de s’y établir. Dans l’optique des membres de la bande, la cession de la réserve visait en partie l’accès aux emplois qui naîtraient suite à l’établissement de l’usine sur leur terrain et sur des terres attenantes aux leurs.
+[7] Nous concluons donc que les emplois en question étaient directement liés à la réalisation par la bande et ses membres de leurs droits fonciers sur les terres de la réserve; partant, le gouvernement, en conformité avec l’objectif visé par l’exemption fiscale de l’article 87, ne devrait pas être en mesure de porter atteinte, par le biais de l’impôt, au revenu tiré directement ou indirectement d’une pareille utilisation de leur terre, comme il ressort de ce cas d’espèce.
+[55] Quelle comparaison est‑il donc possible de faire entre l’affaire Amos et celle qui nous occupe?
+(i) Dans l’affaire Amos, la bande avait convenu de céder les terres à bail, l’entente étant que le bail favoriserait l’embauchage des membres de la bande. Il s’agit là d’un élément essentiel. Les faits de la présente espèce semblent indiquer que l’entente relative aux emplois était bien plus qu’une simple entente. Elle représentait la raison pour laquelle la bande a cédé à bail les terres de la réserve et les a finalement cédées aux fins de la vente. La bande croyait certes comprendre qu’il en résulterait des emplois, mais elle voulait que l’entente soit incorporée dans la cession;
+(ii) Dans l’affaire Amos, le bail prévoyait que la location favoriserait l’embauche des Indiens. En l’espèce, le protocole B parlait de possibilités d’emploi. Lors de la cession aux fins de la vente, en 1926, il y avait une entente écrite distincte conclue par l’usine en matière d’emploi. Les arguments se valent;
+(iii) Dans l’affaire Amos, l’usine était située sur des terres privées qui n’avaient jamais fait partie des terres de la réserve. Les Sagkeeng ont cédé un petit morceau des terres de la réserve aux fins mêmes de la construction et de l’exploitation de l’usine;
+(iv) Dans l’arrêt Amos, la Cour d’appel fédérale a conclu que les activités accessoires sur les terres de la réserve (ci‑dessus décrites) avaient pour effet de faire de l’utilisation de la réserve une partie intégrale de l’exploitation de l’usine. Comme il en a déjà été fait mention, je n’arrive pas à tirer une telle conclusion; bien que le chemin de fer et les lignes électriques qui traversent les terres de la réserve soient importantes aux fins de l’exploitation, il ne s’agit pas, en soi, d’activités se rapportant tout spécialement à l’usine. Cependant, les autres liens entre l’usine et la réserve des Sagkeeng créent un rapport qui les rattache étroitement – un lien qui, selon moi, découle du contexte historique du transfert des terres de la réserve à l’usine. De toute évidence, les terres de la réserve qui ont été cédées aux fins de la vente faisaient partie intégrante de l’exploitation de l’usine;
+(v) La Cour d’appel fédérale a conclu que la cession visait en partie à assurer l’accès à des emplois. Je conclus que la cause des Sagkeeng est plus forte : les emplois devaient faire partie de l’opération globale, et ils en faisaient partie;
+(vi) Dans les deux cas, l’exploitant de l’usine a communiqué avec les bandes par l’entremise de mandataires afin de négocier l’achat ou la location. Il était clair que les Sagkeeng hésitaient à se départir de leurs terres;
+(vii) Dans l’affaire Amos, les travailleurs ne travaillaient pas sur les terres de la réserve; les Sagkeeng non plus, mais ils travaillaient sur des terres qui, bien qu’elles aient fait l’objet d’une cession absolue, avaient auparavant fait partie des terres de la réserve.
+[56] Je conclus que la cause des appelants en l’espèce est plus solide que celle des appelants dans l’affaire Amos, en ce qui concerne le maintien de leurs droits sur les terres de la réserve conformément à l’article 87. Le revenu d’emploi découle directement des terres de la réserve. À mon avis, la conclusion que la Cour d’appel fédérale a tirée dans l’arrêt Amos, à savoir que les emplois étaient directement liés à la réalisation par la bande et par ses membres de leurs droits fonciers sur les terres de la réserve, correspond en tous points à la situation ici en cause.
+[57] Les appels seront accueillis et l’affaire sera renvoyée au ministre pour nouvel examen et nouvelle cotisation compte tenu du fait que l’emploi des appelants est exempté d’impôt conformément à l’article 87 de la Loi sur les Indiens.
+[58] Les appelants auront droit à un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 6e jour de mars 2008.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 30e jour de décembre 2008.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2008CCI133
+Nos DES DOSSIERS DE LA COUR : 2004-2047(IT)G, 2004-3540(IT)G, 2004‑2048(IT)G, 2004-3542(IT)G,
+2004-2087(IT)G
+INTITULÉ : Henry Boubard, Richard Bouchie et Clifford Houston
+et
+La Reine
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATES DE L’AUDIENCE : Les 24, 25, 26 et 27 septembre et le 13 décembre 2007
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 6 mars 2008
+COMPARUTIONS :
+Avocat des appelants :
+Me Joe Aiello
+Avocat de l’intimée :
+Me Gerald Chartier
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Me Joe Aiello
+Cabinet : Me Phillips Aiello
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 1999 CarswellNat 925 (C.A.F.).
+[2] [1992] 1 R.C.S. 877.
+[3] 2007 CF 535.
+[4] 1997 CarswellNat 623 (C.A.F.).
+[5] [1990] 2 R.C.S. 85.
+[6] [1995] B.C.J. no 1575 (C.A.C.-B.) et [1997] 2 R.C.S. 657.
+[7] 169 D.L.R. (4th) 649 (C.A.F.).
+[8] [2001] 3 R.C.S. 657.
+[9] 2001 CarswellNat 1506 (C.A.F.).

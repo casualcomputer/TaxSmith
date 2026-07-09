@@ -1,0 +1,250 @@
+Title: Bulk Transfer Systems Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27700/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-130-27700-bulk-transfer-systems-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-03-09
+
+# Bulk Transfer Systems Inc. c. La Reine
+
+- Citation: 2004 CCI 130
+- Decision date: 2004-03-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 486, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bulk Transfer Systems Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-09
+Référence neutre
+2004 CCI 130
+Numéro de dossier
+2000-3781(IT)G
+Juges et Officiers taxateurs
+Gordon Teskey
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-3781(IT)G
+ENTRE :
+BULK TRANSFER SYSTEMS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 10 janvier 2003 et 9 janvier 2004 à Toronto (Ontario).
+Devant : L’honorable juge Gordon Teskey
+Comparutions :
+Avocat de l’appelante :
+Me Ronald J. Farano
+Avocate de l’intimée :
+Me Marie-Thérèse Boris
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1991, dont l’avis est daté du 24 février 1997, est accueilli, avec dépens. La cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, selon les motifs du jugement ci-joints.
+Signé à Toronto (Ontario), ce 9e jour de mars 2004.
+« Gordon Teskey »
+Juge Teskey
+Traduction certifiée conforme
+ce 28e jour d’avril 2005.
+Colette Dupuis-Beaulne, traductrice
+Référence : 2004TCC130
+Date : 20040309
+Dossier : 2000-3781(IT)G
+ENTRE :
+BULK TRANSFER SYSTEMS INC.,
+appelante
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Teskey
+[1] L’appelante interjette appel d’une cotisation d’impôt sur le revenu établie pour son année d’imposition 1991 et dont l’avis est daté du 24 février 1997.
+Question
+[2] L’unique question est de savoir si la cotisation a été valablement établie et si elle est conforme aux dispositions du paragraphe 152(4.3) de la Loi de l’impôt sur le revenu (la « Loi »).
+Faits
+[3] Sur consentement, les parties ont déposé comme pièce A‑1 un exposé conjoint des faits renfermant onze paragraphes pertinents, qui se lisent comme suit :
+[TRADUCTION]
+1. L’appelante est une société constituée en personne morale en vertu des lois de la province d’Ontario et dont l’adresse du siège social est RR 1, Kleinburg (Ontario) L0J 1C0. La dénomination sociale de l’appelante était initialement Muscillo Transport Limited, mais celle-ci a été changée pour Bulk Transfer Systems Inc. par clauses modificatives adoptées le 9 avril 1998.
+2. L’appelante est une société privée sous contrôle canadien, selon la définition donnée dans la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), telle qu’elle a été modifiée (la « Loi »).
+3. Le 1er août 1990, une nouvelle cotisation a été établie à l’égard de l’appelante pour son année d’imposition 1987. Le ministre du Revenu national a déterminé que la disposition d’un bien d’entreprise donnait lieu à un gain en capital imposable. Le 25 octobre 1990, l’appelante a produit un avis d’opposition à cette nouvelle cotisation (l’« opposition concernant 1987 »).
+4. Le 1er décembre 1991, un avis de cotisation a été établi à l’égard de l’appelante pour son année d’imposition 1991 (la « cotisation »).
+5. L’appelante a produit un avis d’opposition à la cotisation (la « première opposition concernant 1991 ») au cours de la période requise de quatre-vingt-dix (90) jours suivant le 2 décembre 1991.
+6. L’année d’imposition de l’appelante se termine le 31 mars. Au cours de l’année d’imposition 1991, l’appelante a versé un dividende imposable à ses actionnaires. Dans sa déclaration de revenus pour 1991, elle a demandé à avoir accès à son compte d’impôt remboursable au titre de dividendes, qui avait été augmenté du montant du gain en capital imposable par suite de l’établissement de la nouvelle cotisation dont il est question au paragraphe 3 ci-dessus. Par suite de cette demande, un montant d’impôt remboursable au titre de dividendes de 65 000 $ a été crédité au compte de l’appelante dans la cotisation initiale établie à son égard le 2 décembre 1991 pour l’année d’imposition 1991. Ce montant a été appliqué en réduction de l’impôt à payer de l’appelante de 21 008 $.
+7. Le 15 novembre 1994, de nouvelles cotisations ont été établies pour chacune des années d’imposition 1987 et 1991 de l’appelante (les « nouvelles cotisations du 15 novembre 1994 »). L’appelante s’est opposée à ces nouvelles cotisations et a interjeté appel de celles-ci devant la Cour canadienne de l’impôt. Le numéro du dossier de la Cour est le 95-2852(IT)G.
+8. Le 1er mars 1996, la Cour canadienne de l’impôt a rendu un jugement relativement au dossier numéro 95-2852(IT)G, conformément à un consentement à jugement produit par les parties. Ce consentement à jugement, produit par l’appelante et l’intimée, est daté du 2 février 1996. L’une des décisions de la Cour canadienne de l’impôt dans cette affaire a été de déterminer, conformément au paragraphe 44(1) de la Loi, que l’appelante n’avait réalisé aucun gain en capital dans son année d’imposition 1987 par suite de la disposition d’un ancien bien d’entreprise, étant donné que l’appelante avait acquis un bien de remplacement pour son entreprise.
+9. Par suite du consentement à jugement dont il est question ci-dessus, une nouvelle cotisation a été établie le 1er mai 1996 relativement à la déclaration de l’appelante pour 1987, visant à enlever le gain en capital imposable du revenu imposable de l’appelante.
+10. Le 24 février 1997, un avis de nouvelle cotisation a été établi pour l’année d’imposition 1991 de l’appelante (la « nouvelle cotisation du 24 février 1997 »). Cette nouvelle cotisation fait état d’un impôt en main remboursable au titre de dividendes de 8 420,68 $.
+Vers le 12 mai 1997, l’appelante a produit un avis d’opposition à la nouvelle cotisation du 24 février 1997 (la « seconde opposition concernant 1991 »).
+11. Le 23 juin 2000, le ministre a produit un avis de ratification, qui se lit comme suit :
+[TRADUCTION]
+Votre avis d’opposition à la cotisation fiscale relative à l’année d’imposition 1991 a été minutieusement examiné en vertu du paragraphe 165(3) de la Loi de l’impôt sur le revenu.
+Le ministre du Revenu national a examiné les motifs énoncés dans votre opposition ainsi que tous les faits pertinents. Il est par les présentes confirmé que la cotisation a été établie conformément aux dispositions de la Loi de l’impôt sur le revenu, en tenant compte du fait suivant :
+la cotisation ayant trait à votre déclaration pour l’année d’imposition 1991 a été établie conformément aux dispositions du paragraphe 152(4.3).
+[4] L’appelante a appelé à témoigner M. Joseph Pillo (« M. Pillo »), un comptable agréé depuis vingt-cinq ans qui a été le vérificateur externe de l’appelante pendant un certain nombre d’années.
+[5] Le jour où M. Pillo a reçu l’avis de nouvelle cotisation, il a tout de suite écrit une lettre qu’il a datée du même jour, soit le 26 février 1997, et qu’il a adressée à la section chargée des comptes de sociétés de Revenu Canada (Impôt). Cette lettre se lit en partie comme suit :
+[TRADUCTION]
+[...]
+Vous trouverez ci-joint une copie d’un avis de nouvelle cotisation daté du 24 février 1997. Cette nouvelle cotisation concerne l’année d’imposition 1991 de la société.
+D’après ce que je peux constater, le revenu imposable de la société qui a été déclaré initialement n’a pas été modifié. Le montant de l’impôt révisé est le même que celui indiqué dans l’avis de cotisation initiale. Une nouvelle cotisation a été établie à l’égard de la société en 1994 et (sic)
+En fait, seuls les soldes dus semblent avoir changé. Nous avons reçu récemment un relevé montrant que le compte fiscal de la société pour 1987 avait été crédité de manière à effacer tous les soldes impayés. Une copie de ce relevé est jointe à la présente.
+Avant de mettre au point et de produire un avis d’opposition, je saurais gré à un représentant de votre groupe de nous expliquer en détail en quoi consiste le solde dû ou la nouvelle cotisation, étant donné que les renseignements fournis ne nous permettent pas de savoir si la nouvelle cotisation est exacte ou non.
+(Je souligne.)
+[6] N’ayant pas reçu de réponse à sa lettre, M. Pillo a produit un avis d’opposition à la cotisation le 12 mai 1997, soit environ trente-sept mois plus tard. L’opposition a été rejetée et la cotisation a été confirmée le 23 juin 2000.
+[7] M. Pillo a produit un sommaire comportant trois colonnes. La première s’intitule [TRADUCTION] « Selon la déclaration initiale et la cotisation établie le 2 décembre 1991 », la deuxième, [TRADUCTION] « Nouvelle cotisation établie le 15 novembre 1994 » et la troisième, [TRADUCTION] « Nouvelle cotisation établie le 24 février 1997 ». Une copie de ce sommaire est jointe aux présents motifs, comme annexe A.
+[8] À l’audience, M. Pillo ne pouvait toujours pas déterminer si les calculs présentés dans l’avis de nouvelle cotisation étaient exacts.
+[9] L’abréviation « IMRTD » utilisée dans l’annexe A signifie « impôt en main remboursable au titre de dividendes ».
+[10] M. Pillo estimait que la cotisation avait entraîné l’établissement d’une nouvelle cotisation relativement à l’IMRTD ainsi qu’une récupération du remboursement.
+[11] L’intimée a signifié à l’avocat de l’appelante une demande de reconnaissance concernant trois différents documents. L’appelante n’ayant pas répondu à cette demande, les trois documents ont été déposés comme pièce R‑1.
+[12] Dans la demande de reconnaissance, les trois documents sont décrits comme suit :
+[TRADUCTION]
+Date
+Description
+1.
+Explication de l’utilisation faite des documents de base dans l’élaboration de l’annexe servant à calculer l’impôt en main remboursable au titre de dividendes, par Leona Cote, de l’Agence des douanes et du revenu du Canada, y compris les pièces jointes
+2.
+T2S7 produit par l’Agence des douanes et du revenu du Canada – « Analyse du revenu (pour les années d’imposition 1985 et suivantes) », servant à calculer l’impôt en main remboursable au titre de dividendes et le remboursement au titre de dividendes concernant l’appelante pour l’exercice se terminant le 31 mars 1987
+3.
+Annexe A de la réponse à l’avis d’appel modifié, élaborée par l’Agence des douanes et du revenu du Canada et servant à calculer l’impôt en main remboursable au titre de dividendes de l’appelante
+[13] Le document 1 comporte 71 pages.
+[14] Le document 2 comporte 10 pages.
+[15] Le document 3 correspond à l’annexe A de la réponse à l’avis d’appel modifié. Il comporte quatre pages de chiffres, constituant les quatre premières pages du document 1 mentionné ci-dessus.
+[16] Au paragraphe 11 de son avis d’appel, l’appelante a allégué ce qui suit :
+[TRADUCTION]
+11. En se fondant sur la nouvelle cotisation, qui se fonde elle-même sur le consentement à jugement, le ministre a considéré que le solde du compte d’IMRTD de l’appelante pour l’année d’imposition 1991 était de 8 420,68 $. Le ministre tente de recouvrer de l’appelante une partie du remboursement de l’IMRTD, soit la différence entre 65 000 $ (le montant initialement admis pour l’appelante concernant son année d’imposition 1991) et 8 420,68 $, le solde du compte d’IMRTD de l’appelante pour son année d’imposition 1991.
+[17] Au paragraphe 3 de sa réponse modifiée, l’intimée a rejeté les faits soulevés dans le paragraphe ci-dessus.
+[18] Le paragraphe 4 de la réponse modifiée se lit comme suit :
+[TRADUCTION]
+Pour établir la cotisation à l’égard de l’appelante, le ministre s’est fondé, notamment, sur les faits suivants :
+a) conformément au paragraphe 152(4.3) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), telle qu’elle a été modifiée (la « Loi »), une nouvelle cotisation dont l’avis est daté du 24 février 1997, a été établie à l’égard de l’appelante,;
+b) le 1er mai 1996, une nouvelle cotisation a été établie à l’égard de l’appelante pour son année d’imposition 1987, dans le but de réduire son gain en capital en application de l’article 44 de la Loi, ce qui a eu pour effet de réduire son remboursement au titre de dividendes pour 1991;
+c) à la fin de l’année d’imposition 1991, l’impôt en main remboursable au titre de dividendes de l’appelante ne dépassait pas 8 420,68 $, comme cela est indiqué à l’annexe A ci-jointe.
+[19] Aucune question ne se pose concernant les faits présentés aux alinéas 4a) et b) ci-dessus.
+Observations de l’appelante
+[20] L’appelante prétend que l’alinéa 4c) de la réponse à l’avis d’appel modifié renvoie à des calculs et que, par conséquent, la réponse ne fait mention ni des faits sur lesquels la nouvelle cotisation établie à l’égard de l’appelante est fondée, ni de l’impôt, des intérêts et des pénalités s’y rapportant, le cas échéant, ce qui fait que le contexte factuel de la nouvelle cotisation n’est pas communiqué.
+[21] L’appelante soutient que la récupération d’un remboursement d’impôt n’est pas permise aux termes du paragraphe 152(4.3) de la Loi, qui se lit ainsi :
+(4.3) Cotisation corrélative
+Malgré les paragraphes (4), (4.1) et (5), lorsqu’une cotisation ou une décision d’appel a pour effet de modifier un solde donné applicable à un contribuable pour une année d’imposition donnée, le ministre peut ou, si le contribuable en fait la demande par écrit, doit, avant le dernier en date du jour d’expiration de la période normale de nouvelle cotisation pour une année d’imposition subséquente et de la fin du jour qui tombe un an après l’extinction ou la détermination de tous les droits d’opposition ou d’appel relatifs à l’année donnée, établir une nouvelle cotisation à l’égard de l’impôt, des intérêts ou des pénalités payables, ou déterminer de nouveau un montant réputé avoir été payé, ou payé en trop, en vertu de la présente partie par le contribuable pour l’année subséquente, mais seulement dans la mesure où il est raisonnable de considérer que la nouvelle cotisation ou la détermination se rapporte à la modification du solde donné applicable au contribuable pour l’année donnée.
+[22] L’appelante allègue que le ministre a commis une erreur dans son application du paragraphe 152(4.3) aux faits en question dans la présente affaire, étant donné que le seul pouvoir conféré au ministre en vertu de ce paragraphe est d’établir des cotisations et, par conséquent, d’augmenter ou de réduire le montant « d’impôt, d’intérêts ou de pénalités » payable par un contribuable ou de « déterminer de nouveau un montant réputé avoir été payé, ou payé en trop ». Aucune autorité n’est donc accordée au ministre pour l’établissement d’une nouvelle cotisation visant à récupérer un « remboursement » déjà établi dans une cotisation antérieure.
+[23] L’appelante prétend enfin que le ministre ne peut pas, selon le sens ordinaire du paragraphe 152(4.3), établir une nouvelle cotisation à l’égard d’un contribuable pour des fins autres que les fins restreintes stipulées dans ce paragraphe, et que, si le Parlement avait eu l’intention de permettre au ministre de réduire ou d’éliminer puis de récupérer un remboursement d’impôt, il aurait adopté un langage législatif clair permettant au ministre d’agir ainsi.
+Observations de l’intimée
+[24] L’intimée reconnaît que, pour les fins du présent appel, je n’ai pas à tenir compte des alinéas 4a) et b).
+[25] L’avocate de l’intimée semble se méprendre sur le fait que l’appelante aurait admis que l’alinéa 4c) était factuel. L’avocat de l’appelante a dit : [TRADUCTION] « Il s’agit d’un renvoi à des calculs. » Son observation verbale concordait avec son observation écrite, et il n’a jamais admis que les calculs étaient exacts.
+[26] L’intimée soutient que l’annexe A de la réponse à l’avis d’appel modifié et les documents déposés comme pièce D‑1 indiquent la manière dont a été établi le chiffre de 8 420,68 $ mentionné à l’alinéa 4c).
+[27] L’avocate de l’intimée n’a pas donné d’explications à la Cour concernant l’annexe et les documents déposés comme pièce R‑1.
+[28] L’intimée allègue que : (i) le ministre a établi une nouvelle cotisation à l’égard de l’appelante pour 1987 afin d’inclure un gain en capital imposable dans son revenu, et que cela a eu pour effet d’accroître l’IMRTD de l’appelante; (ii) l’appelante a interjeté appel de cette nouvelle cotisation et a eu gain de cause, de sorte que le gain en capital a été déduit du revenu, réduisant ainsi le solde de l’IMRTD de l’appelante; (iii) le ministre a établi une cotisation pour 1991 par suite de la réduction de l’IMRTD pour 1987, conformément au paragraphe 152(4.3) de la Loi.
+Réponse de l’appelante par rapport à la position de l’intimée
+[29] L’appelante a plaidé que : (i) [TRADUCTION] « De manière générale, quand une cotisation initiale est établie à l’égard d’un contribuable, l’IMRTD entre dans les calculs; toutefois, ce n’est pas ce dont il s’agit ici. », et (ii) l’intimée a dit que le paragraphe 152(4.3) était tout à fait clair. S’il est si clair, pourquoi l’agent des appels a-t-il pris trois années pour conclure que là où il y a manque de clarté et ambiguïté, le gain ne va pas à l’intimée?
+Analyse
+[30] L’intimée n’a appelé aucun témoin, de sorte que personne n’a expliqué ce que représentaient les 81 pages de chiffres, ni la manière dont les calculs ont été faits, ni ce que signifiaient les 81 pages des documents 1, 2 et 3 déposés comme pièce R‑1. (Il a été allégué que ces pages représentaient un calcul.)
+[31] M. Pillo a indiqué que l’impôt en main au titre de dividendes à la fin de l’année d’imposition 1991 était supérieur au chiffre de 8 420,68 $ pris en compte par le ministre à l’alinéa 4c) de la réponse, et qu’il s’élevait plutôt à 46 780 $, entraînant ainsi le rejet du contexte factuel de la cotisation.
+[32] Le paragraphe 152(4.3) constitue une exception à l’application du paragraphe 152(4), qui prévoit que, sauf dans certains cas précis, le ministre peut établir une nouvelle cotisation à l’égard d’un contribuable uniquement au cours de la période normale de nouvelle cotisation applicable au contribuable.
+[33] Le paragraphe 152(4.3) a été adopté pour permettre au ministre d’établir de nouvelles cotisations en dehors des périodes normales, par suite d’une cotisation ou d’un appel qui a pour effet de modifier le solde applicable à un contribuable pour une année donnée, « mais seulement dans la mesure où il est raisonnable de considérer que la nouvelle cotisation […] se rapporte à la modification du solde donné applicable au contribuable pour l’année donnée. »
+[34] Aux fins du présent appel, le paragraphe 152(4.3) devrait être paraphrasé comme suit :
+Lorsqu’une décision sur appel a pour effet de modifier un solde donné applicable à un contribuable pour une année d’imposition donnée, le ministre peut établir une nouvelle cotisation à l’égard de l’impôt, des intérêts ou des pénalités payables, ou déterminer de nouveau un montant réputé avoir été payé, ou payé en trop, en vertu de la partie I par le contribuable pour l’année subséquente, mais seulement dans la mesure où il est raisonnable de considérer que la cotisation se rapporte à la modification du solde donné applicable au contribuable pour l’année donnée.
+[35] Le sens du mot « solde » pour l’application du paragraphe 152(4.3) est donné au paragraphe 152(4.4), qui se lit en partie comme suit : « […] le solde applicable à un contribuable pour une année d’imposition correspond au revenu, au revenu imposable, au revenu imposable gagné au Canada ou à une perte du contribuable pour l’année, à l’impôt ou autre montant payable par lui pour l’année, à un montant qui lui est remboursable pour l’année ou à un montant réputé avoir été payé, ou payé en trop, par lui pour l’année. »
+[36] Dans l’affaire Sherway Centre Limited c. Sa Majesté la Reine, 2003 DTC 5082, la Cour d’appel fédérale a traité de l’application du paragraphe 152(4.3). La Cour a accepté la position du ministre selon laquelle le paragraphe 152(4.3) devait être interprété de manière restrictive et que, dans le contexte de l’appel en question, sa cotisation devait être liée directement à la cotisation établie pour 1987.
+[37] Je ne crois pas que le ministre ait communiqué, dans la réponse à l’avis d’appel modifié, le contexte factuel de la cotisation faisant l’objet de l’appel. Par conséquent, l’argument était déficient.
+[38] Aucun différend n’oppose les parties sur le fait que, dans l’interprétation de la Loi, « il faut lire les termes d’une loi dans leur contexte global, en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur. »
+[39] Je suis convaincu que le paragraphe 152(4.3) ne permet pas au ministre d’établir une nouvelle cotisation à l’égard d’un contribuable pour une fin autre que les fins restreintes stipulées dans le paragraphe.
+[40] Je suis d’accord pour que le renvoi au « solde » dont il est question au paragraphe 152(4.3), tel que ce mot est défini au paragraphe 152(4.4), se limite à l’année d’imposition 1987, pour laquelle une décision judiciaire a été rendue, et ne serve pas à déterminer ce sur quoi le ministre peut établir une nouvelle cotisation relativement à l’année d’imposition 1991.
+[41] À la lecture des termes du paragraphe 152(4.3) dans leur contexte global, en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur, il est clair pour moi que, si le Parlement avait voulu que le ministre ait le pouvoir, en vertu du paragraphe 152(4.3) de la Loi, de réduire le montant d’un remboursement ou d’établir une nouvelle cotisation à l’égard de l’impôt, des intérêts ou des pénalités par suite d’une modification d’un solde d’une année antérieure, il aurait rédigé le paragraphe 152(4.3) dans un langage législatif clair en ce sens.
+[42] Pour les motifs susmentionnés, l’appel est accueilli, avec dépens, et la cotisation est renvoyée au ministre du Revenu national pour qu’il la réexamine et qu’il établisse une nouvelle cotisation selon ces motifs.
+Signé à Toronto (Ontario), ce 9e jour de mars 2004.
+« Gordon Teskey »
+Juge Teskey
+Traduction certifiée conforme
+ce 28e jour d’avril 2005.
+Colette Dupuis-Beaulne, traductrice
+[TRADUCTION]
+ANNEXE A
+Bulk Transfer Systems Inc.
+(anciennement Muscillo Transport Limited)
+NE 10381 1154 RC
+Cotisations et nouvelles cotisations concernant la société pour l’année d’imposition 1991
+Selon la déclaration initiale et la cotisation établie le
+2 décembre 1991
+∆
+Nouvelle cotisation établie le
+15 novembre 1994
+∆
+Nouvelle cotisation établie le
+24 février 1997
+Revenu imposable
+163 612
+–
+163 612
+–
+163 612
+Impôt de la partie I
+Surtaxe
+19 634
+1 374
+–
+19 634
+1 374
+–
+19 634
+1 374
+21 008
+–
+21 008
+–
+21 008
+Remboursement au titre de dividendes
+65 000
+– 18 220
+= 46 780
+– 38 359
+= 8 421
+Solde dû (remboursement)
+43 992)*
+(25 772)
+12 587
+* = remboursement reçu par le contribuable
+IMRTD au début de l’année
+126 377
+79 597
+46 780
+38 359
+8 421
+Remboursement au titre de dividendes
+(65 000)
+(18 220)
+(46 780)
+38 359)
+(8 421)
+IMRTD à la fin de l’année
+61 377
+–
+–
+RELEVÉ DE COMPTE
+Impôt de la partie I
+21 008
+–
+–
+Remboursement au titre de dividendes
+(65 000)
+(46 780)
+(8 421)
+Modification du remboursement au titre de dividendes
+–
+65 000
+46 780
+Intérêts sur arriérés
+–
+5 229
+24 549
+Solde de l’avis
+(43 992)
+23 449
+62 908
+∆ indique la modification d’un solde

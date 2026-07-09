@@ -1,0 +1,169 @@
+Title: Francis v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28363/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-323-28363-francis-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-06-07
+
+# Francis v. The Queen
+
+- Citation: 2007 CCI 323
+- Decision date: 2007-06-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1948, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Francis v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-07
+Référence neutre
+2007 CCI 323
+Numéro de dossier
+2006-3743(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3743(IT)I
+ENTRE :
+NADEEM FRANCIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 31 mai 2007, à Halifax (Nouvelle-Écosse).
+Devant : L’honorable juge en chef D.G.H. Bowman
+Comparutions :
+Avocat de l’appelant : Me Gerard Tompkins, c.r.
+Avocate de l’intimée : Me Deanna M. Frappier
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est accueilli avec dépens, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que les 24 000 $ qui ont été saisis par la Gendarmerie royale du Canada chez FedEx, le 25 octobre 2004, n’appartenaient pas à l’appelant et ne représentaient pas un revenu de l’appelant. La suppression des pénalités suivra nécessairement.
+Signé à Ottawa, Canada, ce 7e jour de juin 2007.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 13e jour de décembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI323
+Date : 20070607
+Dossier : 2006-3743(IT)I
+ENTRE :
+NADEEM FRANCIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Il s’agit d’un appel d’une nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 de l’appelant, par laquelle un montant de 24 000 $ a été ajouté au revenu de l’appelant. Des pénalités ont été imposées en vertu du paragraphe 163(2) de la Loi en raison de l’omission de l’appelant d’inclure ce montant de 24 000 $ dans son revenu.
+[2] Les faits sont plutôt inhabituels. En 2004, l’appelant avait à peu près 28 ans. Il avait des antécédents professionnels plutôt indéfinissables. Il avait étudié à l’Université Acadia, mais il n’avait pas terminé ses études. Il effectuait de petits boulots, comme de la peinture et de la menuiserie. Il était marié, et sa femme avait un emploi qui lui rapportait, selon l’appelant, environ 45 000 $ par année en 2004. Initialement, l’appelant a déclaré cette année‑là un revenu d’environ 8 000 $ tiré d’une entreprise et d’un emploi. L’appelant a également témoigné que sa femme et lui avaient reçu de l’argent de son beau‑père, au Sri Lanka.
+[3] Au mois d’octobre 2004, l’appelant a tenté d’envoyer un colis par le service 24 heures de FedEx, à une adresse à Richmond (Colombie‑Britannique). Le 25 octobre 2004, la Division des produits de la criminalité de la Gendarmerie royale du Canada a intercepté le colis et l’a saisi. Le colis renfermait des jouets, une carte de remerciement et 24 000 $CAN en argent comptant.
+[4] Le 23 février 2006, le montant de 24 000 $ a été confisqué par Sa Majesté à la suite d’une ordonnance rendue par le juge Hughes Randall. L’appelant n’a pas comparu à l’audition de la demande devant la Cour provinciale, bien qu’il ait reçu signification de cette demande. Dans l’ordonnance, la cour a dit ce qui suit :
+[traduction]
+ET ATTENDU QUE LA COUR est convaincue des faits suivants :
+(1) le bien a été saisi avec autorisation légitime;
+(2) il a été ordonné que le bien soit détenu en vertu du paragraphe 490(1) du Code criminel;
+(3) la détention continue du bien n’est plus requise au sens du paragraphe 490(5) du Code criminel;
+(4) le propriétaire légitime ou la personne qui avait droit à la possession légitime du bien n’est pas connu et ne peut pas être identifié.
+LA COUR ORDONNE PAR LES PRÉSENTES QUE le bien soit confisqué au profit de Sa Majesté la Reine du chef du Canada conformément au paragraphe 490(9) du Code criminel du Canada, pour qu’il en soit disposé selon les instructions du procureur général du Canada, ou de quelque autre façon en conformité avec la loi.
+Il importe de noter que l’ordonnance de confiscation a été rendue le 23 février 2006, soit un mois et dix jours après l’établissement de la cotisation du 13 janvier 2006 pour l’année d’imposition 2004, par laquelle le ministre du Revenu national a ajouté le montant de 24 000 $ au revenu de l’appelant.
+[5] Il vaut la peine d’indiquer brièvement les circonstances qui ont abouti à l’établissement de la nouvelle cotisation pour l’année 2004. Plusieurs réunions ont eu lieu entre M. Troy Grant, de l’Agence du revenu du Canada, et M. Francis ou son avocat, Me Tompkins. Ils en sont presque venus à signer une entente par laquelle :
+a) aucune cotisation fondée sur l’avoir net ne serait établie;
+b) un montant de 7 000 $ serait ajouté au revenu de l’appelant pour chacune des années 2002 et 2003;
+c) les 24 000 $ seraient ajoutés au revenu d’entreprise de l’appelant pour l’année 2004;
+d) aucune pénalité pour faute lourde ne serait imposée;
+e) l’appelant renoncerait à son droit de faire opposition.
+[6] Cette proposition a été transmise dans une lettre de l’ARC datée du 16 novembre 2005. En fin de compte, l’entente ne s’est pas concrétisée. La réponse de M. Francis à la proposition était la suivante :
+[traduction]
+Nadeem Francis
+3570, rue Windsor
+Halifax (Nouvelle-Écosse) B3K 5G8
+Le 9 décembre 2005
+PERSONNEL ET CONFIDENTIEL
+M. Troy Grant
+Enquêtes, ARC
+C.P. 638
+HALIFAX (Nouvelle-Écosse) B3J 2T5
+Déclarations de revenus 2002 à 2004
+Monsieur,
+Veuillez vous reporter aux lettres du 11 juillet et du 16 novembre 2005 que vous m’avez envoyées. Je vous ai donné des détails sur ma situation financière au cours des années en question et j’ai estimé mon revenu pour ces années‑là. Je signale que vous m’avez assuré que vous ne meniez pas d’enquête criminelle au sujet de mes obligations fiscales et que, compte tenu de cette garantie, j’ai accepté de répondre à vos questions et de vous fournir des renseignements.
+Je vous ai informé à plusieurs reprises que les 24 000 $ en argent qui ont été saisis chez FEDEX le 25 octobre 2004 ou vers cette date ne m’appartiennent pas. En outre, en 2004, je n’exploitais pas d’entreprise dont j’ai tiré un bénéfice de 24 000 $.
+Dans la lettre que vous m’avez envoyée le 16 novembre 2005, vous proposez une conclusion de votre vérification qui m’oblige à reconnaître que ces 24 000 $ m’appartiennent. Comme vous le savez, d’autres procédures judiciaires sont en cours quant à la question de savoir à qui appartient cet argent, et je ne souscrirai pas à une conclusion de la vérification qui nuirait de quelque façon que ce soit à la position que je prends au sujet de ces procédures ou de toute autre procédure judiciaire. Je m’attends à ce que ces autres procédures judiciaires confirment ce que je vous ai dit, à savoir que les 24 000 $ ne m’appartiennent pas, ce qui contredira la thèse que vous avez adoptée au sujet de cet argent. Je vous demande donc de reporter votre vérification jusqu’à ce que les autres procédures judiciaires concernant la propriété des 24 000 $ soient conclues. Toute décision rendue en ma faveur à la suite de ces procédures devrait rendre toute vérification inutile. Par conséquent, je vous prie de reporter votre vérification jusqu’à la fin des autres procédures judiciaires.
+Cependant, si vous délivrez des avis de cotisation ou de nouvelle cotisation, je ferai opposition, de façon que mon revenu imposable réel puisse être déterminé. Dans ces conditions, j’estime que la poursuite de la vérification, à ce stade, me causerait des dépenses et du stress inutiles; je vous propose donc d’examiner le cas de nouveau le 1er avril 2006. J’attends votre réponse. Veuillez accuser réception de la présente lettre le plus tôt possible.
+Veuillez agréer, Monsieur, l’expression de mes meilleurs sentiments.
+Nadeem Francis
+[7] Le fondement de la nouvelle cotisation était le suivant, comme il en est fait mention au paragraphe 12 de la réponse à l’avis d’appel :
+[traduction]
+12. g) avant la livraison du colis à FedEx et la saisie ultérieure du colis par la GRC, l’appelant avait la garde et la surveillance des fonds;
+h) le revenu déclaré de l’appelant n’était pas suffisant pour assurer ses frais de subsistance et l’achat d’actifs;
+i) l’appelant n’a pas obtenu les fonds d’une source de revenu non imposable;
+j) l’appelant a obtenu les fonds d’une source de revenu imposable.
+[8] M. Francis a dès le départ maintenu que les 24 000 $ ne lui appartenaient pas et qu’il ne savait pas ce qu’il y avait dans le colis. La question déterminante est de savoir si je le crois.
+[9] Lors du contre-interrogatoire, on a demandé à l’appelant s’il avait été payé pour livrer le colis à FedEx. Il a refusé de répondre parce qu’un avocat dont il avait retenu les services au criminel lui avait conseillé de ne pas répondre à de telles questions. Me Tompkins a fait référence à l’article 5 de la Loi sur la preuve au Canada, et j’ai ordonné à l’appelant de répondre. Les émissions de télévision américaines nous ont appris que le cinquième amendement est souvent invoqué, mais cet argument n’a pas sa place au Canada. L’appelant a témoigné qu’on lui avait remis de 100 à 200 $ pour livrer le colis à FedEx. À ce jour, aucune accusation n’a été portée contre l’appelant et celui‑ci n’a jamais été accusé de quelque activité criminelle à l’égard des fonds, et lorsque la cotisation a été établie, il n’a pas été supposé ni allégué que les fonds provenaient d’une entreprise illégale. De fait, le répartiteur n’a pas identifié la nature de la présumée entreprise qui avait généré les fonds.
+[10] La présente affaire comporte un certain nombre de particularités ainsi que quelques questions laissées sans réponse. J’étais tenté de poser à l’appelant certaines questions qui me venaient à l’esprit, par exemple :
+a) S’il ne s’agit pas de votre argent, à qui appartient‑il selon vous?
+b) Vous dites que l’on vous a remis 100 ou 200 $ pour livrer le colis à FedEx. Qui vous a demandé de le faire? N’avez‑vous pas songé à demander pourquoi on vous remettait un tel montant pour un si petit service?
+c) À qui le colis était‑il adressé et de qui provenait la carte de remerciement?
+[11] J’aurais aimé poser ces questions ainsi que d’autres, mais je crois fermement, du moins lorsque les deux parties sont représentées par des avocats‑conseils chevronnés, qu’il est tout à fait inapproprié pour le juge de descendre dans l’arène et de poser des questions que l’un ou l’autre des avocats aurait, selon lui, dû poser. Les juges n’ont pas à combler les lacunes d’une partie ou de l’autre.
+[12] Je souscris à l’avis selon lequel nous sommes sans aucun doute plus que des arbitres dans un match de boxe, mais nous ne sommes pas non plus des inquisiteurs. Dans la décision Corsaut c. Canada, 2005 CCI 112; [2005] A.C.I. no 148 (QL), j’ai dit ce qui suit :
+[...] Je crois que lorsqu’un plaideur agit pour son propre compte, le juge qui préside l’instruction peut intervenir plus souvent qu’il ne le ferait si un avocat était en cause, mais il y a des limites. Le juge ne peut pas et ne devrait pas prendre simplement la cause en charge. Cela peut dans certains cas donner une impression de partialité. Voir l’arrêt James v. The Queen, 2001 DTC 5075, où la Cour d’appel fédérale a accueilli un appel et a ordonné la tenue d’un nouveau procès parce que le juge qui avait présidé l’instruction était intervenu si souvent qu’il semblait avoir assumé le rôle d’avocat. Voir également l’arrêt Jones v. National Coal Board [1957] 2 All E.R. 155; [1957] 2 Q.B. 55. Dans l’arrêt Thomson v. Glasgow Corporation, Reports‑1961, Scots Law Times, 237, (Le lord juge‑greffier (Thomson), les lords Patrick, Mackintosh et Strachan), on a dit ce qui suit aux pages 245 et 246 :
+[traduction] [...] Un aspect essentiel de la fonction du juge veut que le litige se déroule d’une façon équitable entre les parties. Les juges se flattent parfois en croyant qu’ils ont pour tâche de rechercher la vérité. Cela n’est vrai que dans un sens fort restreint. Notre système d’administration de la justice dans des affaires civiles est fondé sur ce que chaque partie, sans lien de dépendance, choisit sa propre preuve. Le choix que chaque partie fait au sujet de sa propre preuve peut, pour diverses raisons, être partial dans tous les sens du terme. Cela peut dépendre énormément de la diligence des enquêteurs initiaux, ou de la possibilité de trouver des témoins ou encore de la compétence et du jugement des personnes qui préparent la cause. La question de savoir qui citer, quelles questions poser, quand arrêter et ainsi de suite sont des questions de jugement. Un témoin d’une grande valeur sur un point peut avoir été écarté parce qu’il présente un danger sur un autre point. Même pendant la présentation de la preuve, les valeurs changent, de précieux éléments sont éliminés et de nouvelles voies sont explorées avec ferveur. C’est sur la base de deux versions minutieusement choisies que le juge doit en fin de compte se prononcer. Le juge ne peut pas mener enquête pour son propre compte; il ne peut pas citer de témoins; il doit exercer avec prudence le droit qu’il possède sans conteste d’interroger les témoins qui sont à la barre. Il est à la merci de parties opposées dont le seul objectif est l’obtention d’un jugement en leur faveur plutôt que la recherche de la vérité. Le jugement doit être uniquement fondé sur ce qu’on lui laisse entendre. Le juge peut soupçonner que certains témoins qui connaissent la « vérité » n’ont jamais été appelés à la barre des témoins parce que ni l’une ni l’autre partie ne veut courir le risque de le faire, mais il peut tout au plus se contenter de faire des commentaires au sujet de leur absence.
+Un litige est essentiellement une épreuve de compétence entre des parties opposées, menée selon des règles reconnues et le prix est la décision du juge. Nous avons rejeté les méthodes inquisitoires et nous préférons considérer les juges comme entièrement indépendants. Comme les arbitres dans des matchs de boxe, les juges veillent à ce que les règles soient observées et ils comptent les points.
+[14] Avec égards, cette conception plutôt noire du rôle de la cour ne reflète pas avec exactitude les obligations qui nous incombent en tant que juges. Nos tribunaux ont intérêt à découvrir la vérité parce que cela constitue un aspect essentiel de notre engagement à veiller à ce que justice soit faite. Toutefois, cette recherche doit être faite selon les règles; or, l’une des règles veut que nous ne descendions pas dans l’arène. Nous sommes sans aucun doute plus que des arbitres dans un match de boxe. La justification du système accusatoire qui s’applique devant nos tribunaux (par opposition au système inquisitoire) est que l’on suppose que la vérité ressortira de la confrontation de positions opposées. La théorie des jeux énoncée par le tribunal écossais donne à penser que la considération primordiale consiste à savoir comment jouer le jeu, la justice et les intérêts des plaideurs étant relégués au second rang. Il vaut la peine de reprendre l’exposé éloquent que lord Denning a fait dans l’arrêt Jones au sujet du rôle d’un juge de première instance ([1957] 2 Q.B., page 63) :
+[traduction] Nul ne peut douter que l’intervention du juge ait été fondée sur les meilleurs motifs. Désirant vivement comprendre les tenants et les aboutissants de cette affaire complexe, il a posé des questions en vue de tirer les choses au clair. Afin d’empêcher que les témoins ne soient harcelés indûment au cours de leur contre‑interrogatoire, il est intervenu pour les protéger chaque fois qu’il le jugeait nécessaire. Dans son désir d’examiner les différentes critiques faites contre la Commission et d’en déterminer le bien‑fondé, il les a soumises lui‑même aux témoins à quelques reprises. Comme il souhaitait en outre ne pas voir l’audience traîner en longueur, il faisait clairement savoir qu’un point avait été suffisamment débattu. Voilà tous des motifs valables sur lesquels les juges se fondent couramment, comme ils le font d’ailleurs depuis des siècles, pour intervenir dans le déroulement des procès.
+Nous sommes néanmoins convaincus que les interventions en cause, prises ensemble, dépassent largement les bornes de ce qui est permis. Selon le mode d’instruction que nous avons dans ce pays, le rôle du juge consiste à entendre et à trancher les questions que soulèvent les parties et non pas à mener une enquête au nom de la société en général, comme cela se produit, nous semble‑t‑il, dans certains pays étrangers. Mais, même en Angleterre, le juge n’est pas simplement un arbitre ayant pour tâche de déterminer « le pourquoi » d’une affaire. Il lui incombe d’abord et avant tout d’établir la vérité et de rendre justice conformément à la loi; et dans la recherche courante de la vérité, l’avocat a un rôle honorable nécessaire. Lord Eldon n’a‑t‑il pas dit, dans un passage bien connu, qu’« il est préférable de découvrir la vérité au moyen de puissants “exposés présentés par les deux parties” »? : voir l’arrêt Ex parte Lloyd. De plus, lord Greene, M.R., n’a‑t‑il pas expliqué que la justice est mieux rendue par un juge qui assure l’équilibre entre les parties adverses sans prendre lui‑même part à leurs disputes? Comme lord Greene l’a dit, si un juge devait procéder lui‑même à l’interrogatoire des témoins, « il se trouverait pour ainsi dire à descendre dans l’arène; or, il se peut que sa vue soit embrouillée par les aspects nébuleux du conflit » : voir l’arrêt Yuill v. Yuill.
+Le juge doit en effet veiller à ce que sa vue ne soit pas embrouillée. On peut bien dire que la justice est aveugle, mais il est néanmoins préférable qu’elle n’ait pas de bandeau sur les yeux. De fait, la justice doit éviter le favoritisme ou les préjugés, elle doit clairement voir où se situe la vérité : et il est préférable qu’il y ait le moins d’aspects nébuleux possibles. Il faut laisser les avocats mettre l’un après l’autre les poids dans la balance – la recherche de l’« équilibre juste dans un sens ou dans l’autre », mais c’est en fin de compte le juge qui décide de quel côté penche la balance, ne serait‑ce que légèrement. Tout cela est établi si fermement dans notre droit que le juge n’est pas autorisé, dans un litige civil, à citer un témoin qui, croit‑il, pourrait jeter la lumière sur les faits. Le juge doit se contenter des témoins cités par les parties : voir l’arrêt In re Enoch & Zaretsky, Bock & Co. Par conséquent, il incombe aux avocats, à tour de rôle, d’interroger les témoins; le juge ne doit pas se charger de le faire; sinon, il semble favoriser une partie plutôt que l’autre : voir les arrêts Rex v. Cain, Rex v. Bateman, et Harris v. Harris, en particulier lord Birkett. Et il incombe à l’avocat d’exposer sa cause d’une façon aussi équitable et aussi forte que possible, sans interruption indue, au risque de perdre le fil des idées : voir l’arrêt Reg. v. Clewer. Le rôle du juge dans tout ceci est d’écouter la preuve, en se contentant de poser des questions aux témoins uniquement lorsqu’il est nécessaire de le faire afin d’éclaircir un point qui a été oublié ou qui est demeuré obscur; de veiller à ce que les avocats se conduisent d’une façon convenable et respectent les règles établies en droit; d’exclure les éléments non pertinents et de décourager les redondances; de s’assurer, en intervenant d’une façon judicieuse, qu’il comprend les points soulevés par les avocats et qu’il peut évaluer leur bien‑fondé; et en fin de compte, de déterminer où se situe la vérité. Le juge qui va plus loin abandonne son rôle de juge pour adopter celui d’un avocat; or, ce changement ne lui sied pas bien. Le lord chancelier Bacon avait raison lorsqu’il a dit : « La patience et la gravité de l’audience constituent des éléments essentiels de la justice; un juge qui parle trop n’est pas en harmonie. »
+Telles sont les normes. Elles sont si rigoureuses que nous ne pouvons pas espérer toujours y satisfaire. Dans la recherche même de la justice, notre ardeur peut l’emporter sur la certitude et nous pouvons nous empêtrer. C’est ce qui est arrivé dans ce cas‑ci. Un juge ayant une idée fort juste des choses, des connaissances reconnues, animé des meilleurs motifs, est néanmoins intervenu à un point tel dans la conduite du procès que l’une des parties, et en fait chacune d’elles, s’est plainte qu’elle n’a pas pu présenter sa cause de la façon appropriée; or, ces plaintes sont, à notre avis, justifiées.
+[13] C’est ce que la Cour d’appel fédérale a signalé avec vigueur dans l’arrêt James v. The Queen, 2001 DTC 5075, suivant l’arrêt Jones v. National Coal Board, [1957] 2 All E.R. 155. Dans l’arrêt James, la Cour d’appel fédérale a renvoyé une affaire pour nouvelle audition parce que les interventions du juge de première instance étaient excessives et inappropriées. Je suppose que, dans l’arrêt Morley v. The Queen, 2006 DTC 6351, la Cour d’appel fédérale n’avait pas l’intention d’écarter la décision rendue dans l’arrêt James. Dans l’arrêt Morley, il a été conclu que le contre‑interrogatoire exhaustif et prolongé des témoins par le juge de première instance n’allait pas à l’encontre du principe voulant qu’un juge ne doive pas descendre dans l’arène. La décision rendue par la Cour d’appel fédérale dans l’affaire James n’a pas été mentionnée dans les motifs que la Cour d’appel fédérale a prononcés oralement dans l’affaire Morley.
+[14] Pour ce motif, malgré la décision rendue par la Cour d’appel fédérale dans l’affaire Morley, je n’ai pas posé certaines questions que j’aurais pu poser si j’avais été l’avocat. Je crois fermement aux principes énoncés par la Cour d’appel fédérale dans l’arrêt James et par lord Denning dans l’arrêt Jones. Je suppose que si les avocats‑conseils ne posent pas de questions, ils ont leurs propres raisons de ne pas le faire.
+[15] Je reviens donc au point de départ, c’est-à-dire à une question de crédibilité. Dans la décision 9129‑9321 Québec Inc. c. Canada, [2007] A.C.I. no 23 (QL), le passage suivant de la décision Faulkner c. M.R.N., 2006 CCI 239; [2006] A.C.I. no 173 (QL) a été cité :
+[13] Je pense que les juges ne doivent absolument pas tirer à la légère des conclusions relatives à la crédibilité. J’ai dit ce qui suit dans la décision 1084767 Ontario Inc. (Celluland) c. Canada, [2002] A.C.I. no 227 (QL) :
+[8] La preuve de chacun des deux témoins est radicalement opposée à celle de l’autre. J’ai pris le jugement en délibéré puisque je ne crois pas approprié de tirer à la légère des conclusions relatives à la crédibilité ou, de façon générale, de rendre ces conclusions oralement à l’audience. Le pouvoir et l’obligation d’établir des conclusions relatives à la crédibilité est l’une des plus lourdes responsabilités d’un juge de première instance. Le juge doit exercer cette responsabilité avec soin et après mûre réflexion puisqu’une conclusion défavorable de la crédibilité suppose que l’une des parties ment sous la foi du serment. Vouloir mettre un terme rapidement à une affaire ne peut pas être une excuse justifiant le mauvais usage de ce pouvoir. La responsabilité qui repose sur le juge d’un procès qui doit tirer des conclusions relatives à la crédibilité doit être particulièrement rigoureuse si l’on considère que l’on ne peut pratiquement pas en appeler de telles conclusions.
+[14] J’estime toujours qu’à titre de juges, nous avons envers les personnes qui comparaissent devant nous le devoir de faire preuve de prudence et de prendre le temps nécessaire pour bien réfléchir lorsqu’il s’agit de rendre des conclusions au sujet de la crédibilité. Selon les études que j’ai consultées, les juges n’ont pas d’aptitudes particulières lorsqu’il s’agit d’arriver à une conclusion exacte au sujet de la crédibilité. Nous n’avons pas une maîtrise sur la perspicacité et l’acuité qui nous rendrait supérieurs aux autres personnes ayant subi les mêmes tests, comme les psychologues, les psychiatres ou les profanes. Étant donné que nous devons, dans le cadre de notre travail, arriver à des conclusions au sujet de la crédibilité, nous devons au moins nous acquitter de cette tâche avec humilité et en étant conscients de notre propre faillibilité. Je sais que les tribunaux d’appel soutiennent qu’ils doivent faire preuve de retenue à l’égard des conclusions de fait des juges de première instance parce que ces derniers ont l’occasion d’observer le comportement des témoins au moment de leur témoignage. J’ai pour ma part vu des menteurs accomplis regarder droit dans les yeux d’une autre personne et raconter des mensonges flagrants de façon confiante, directe et franche, et des témoins honnêtes qui évitent de regarder les autres dans les yeux, qui bégayent, qui hésitent lorsqu’ils parlent, qui se contredisent et qui finissent par présenter un témoignage complètement désordonné. Certains juges semblent quand même croire qu’ils peuvent instantanément faire la distinction entre ce qui est vrai et ce qui est faux et prononcer sur-le-champ un jugement fondé sur la crédibilité. Il n’en reste pas moins que les juges, lorsqu’ils entendent des témoignages contradictoires, n’ont probablement qu’une chance sur deux de retenir le bon témoignage, et que leurs chances de le faire diminuent probablement davantage s’ils se contentent de fonder leur conclusion sur une réaction viscérale à un témoin. De plus, si une conclusion défavorable au sujet de la crédibilité est tirée, il faut absolument exposer les motifs à l’appui de la conclusion.
+[16] Il incombe au juge de première instance d’aborder les questions de crédibilité avec beaucoup d’humilité, en sachant pleinement que toute conclusion tirée sur ce point risque d’être erronée.
+[17] En l’espèce, au moins une complication vient s’ajouter au problème. Les fonds ont été confisqués par suite d’une ordonnance judiciaire, en 2006. Si l’argent n’appartenait pas à l’appelant et ne provenait pas d’une activité commerciale (légale ou illégale) exercée par l’appelant, la confiscation n’a réellement rien à voir avec l’appelant et n’est pas pertinente aux fins qui nous occupent. Si les 24 000 $ provenaient d’une entreprise exploitée par l’appelant, la confiscation n’est pas non plus pertinente parce qu’elle ne réduit pas le revenu de l’appelant. Dans la décision Neeb v. The Queen, 97 DTC 895, les remarques suivantes ont été faites :
+[29] Dans ce cas‑ci, il ne s’agit pas d’une pénalité, mais de la confiscation d’une partie du stock de l’appelant. Il est certain que le coût du stock constitue une dépense faite ou engagée en vue de tirer un revenu et qu’il serait normalement déductible dans le calcul du revenu de la même façon que le coût du stock est déductible, en tant que partie intégrante du coût des marchandises vendues. Comme il en a ci‑dessus été fait mention, la perte des marchandises faisant partie du stock aurait pour effet de réduire le stock de clôture et d’augmenter le coût des marchandises vendues. Je fais donc carrément face à la question de l’intérêt public. Il est possible de répondre de différentes façons à la question de savoir si la confiscation de la drogue par les autorités constitue un « incident inévitable dans le cadre de l’exploitation de l’entreprise » dans le contexte d’une affaire comme celle‑ci, selon le point de vue adopté. La confiscation est une conséquence inévitable du fait d’être pris.
+[30] La question du caractère inévitable n’est pas pertinente en l’espèce. M. Neeb a été pris et la marijuana et le haschisch ont été saisis. Je ne puis voir pourquoi le public canadien devrait subventionner la perte subie par un trafiquant de drogue qui a fait l’objet d’une confiscation, en lui permettant de déduire le coût de la drogue ainsi confisquée, même si ce coût avait été établi. Si l’intérêt public a un rôle à jouer dans les affaires de nature fiscale, il faut rejeter pareille demande.
+2. La saisie de l’argent. Indépendamment des considérations d’ordre public, il existe toutefois un autre motif permettant de rejeter la déduction. Il s’agit simplement d’une disposition de revenu, quoique involontaire, après qu’il a été gagné. Le principe est bien établi : Mersey Docks and Harbour Board v. Lucas, (1883) 8 App. Cas. 891, suivi dans Fourth Conservancy Board v. IRC, [1931] A.C. 540 et dans Woodward’s Pension Society v. M.N.R., 59 DTC 1253, à la p. 1261, conf. dans 62 DTC 1002, à la p. 1004.
+Voir également Svidal v. The Queen, [1995] 1 C.T.C. 2692.
+[18] Réflexion faite, je suis porté à me demander, compte tenu de la décision rendue par la Cour suprême du Canada dans l’affaire 65302 B.C. Ltd. v. The Queen, 99 DTC 5199, si, lorsque j’ai rendu la décision Neeb, j’ai eu raison de me fonder sur des considérations d’ordre public comme j’estimais de toute évidence qu’il convenait de le faire.
+[19] Malgré les savants arguments de Me Frappier et l’examen minutieux de la cotisation auquel M. Troy Grant a procédé, je crois que l’argent n’appartenait probablement pas à l’appelant, et que celui‑ci s’est plutôt montré naïf en se laissant convaincre d’apporter le colis chez FedEx à la place de quelqu’un d’autre, service pour lequel il a reçu cent ou deux cents dollars. Je ne suis pas étonné que M. Grant ait établi la cotisation comme il l’a fait étant donné que M. Francis était loin de se montrer sincère.
+[20] L’omission de l’appelant de contester la demande de confiscation est compatible avec son assertion selon laquelle l’argent ne lui appartenait pas. L’omission est peut‑être aussi compatible avec d’autres hypothèses, comme le fait que les 24 000 $ représentaient le produit d’une activité illégale à laquelle l’appelant ou quelqu’un d’autre s’était livré, mais ces hypothèses ne sont que pures conjectures et n’ont aucun fondement dans la preuve.
+[21] Plusieurs hypothèses conjecturales viennent à l’esprit, mais l’hypothèse qui est la plus compatible avec l’ensemble de la preuve, malgré les questions qui sont demeurées sans réponse, est que les 24 000 $ n’appartenaient pas à l’appelant et ne représentaient pas un revenu tiré d’une entreprise ou de quelque autre source.
+[22] L’appel est donc accueilli avec dépens, et la cotisation pour l’année d’imposition 2004 de l’appelant est renvoyée au ministre pour nouvel examen et nouvelle cotisation compte tenu du fait que les 24 000 $ qui ont été saisis par la GRC chez FedEx, le 25 octobre 2004, n’appartenaient pas à l’appelant et ne représentaient pas un revenu de l’appelant. La suppression des pénalités suivra nécessairement.
+Signé à Ottawa, Canada, ce 7e jour de juin 2007.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 13e jour de décembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI323
+No DU DOSSIER DE LA COUR : 2006-3743(IT)I
+INTITULÉ : Nadeem Francis
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE : Le 31 mai 2007
+MOTIFS DU JUGEMENT : L’honorable juge en chef D.G.H. Bowman,
+DATE DU JUGEMENT : Le 7 juin 2007
+COMPARUTIONS :
+Avocat de l’appelant : Me Gerard Tompkins, c.r.
+Avocate de l’intimée : Me Deanna M. Frappier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Patterson Law
+Cabinet : 1718, rue Argyle, bureau 510
+Halifax (Nouvelle-Écosse) B3J 3N6
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

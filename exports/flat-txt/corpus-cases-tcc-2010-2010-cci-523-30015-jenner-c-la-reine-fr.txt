@@ -1,0 +1,141 @@
+Title: Jenner c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30015/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-523-30015-jenner-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-10-14
+
+# Jenner c. La Reine
+
+- Citation: 2010 CCI 523
+- Decision date: 2010-10-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7671, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jenner c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-10-14
+Référence neutre
+2010 CCI 523
+Numéro de dossier
+2009-1680(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-1680(IT)I
+ENTRE :
+BRIAN JENNER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 22 juin 2010, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l'intimée :
+Me Philippe Dupuis
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est annulé, sans dépens, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 14e jour d’octobre 2010.
+« Alain Tardif »
+Juge Tardif
+Référence : 2010 CCI 523
+Date : 201010xx
+Dossier : 2009-1680(IT)I
+ENTRE :
+BRIAN JENNER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un dossier fort particulier en ce que, d’après ce qui en ressort, il semble que l’appelant veuille recommencer ou refaire le procès dont il est sorti perdant tant devant la Cour canadienne de l’impôt que devant la Cour d’appel fédérale. La Cour suprême du Canada lui a refusé la permission de se faire entendre.
+[2] Devant une telle situation, l’intimée demande à la Cour de sanctionner l’appelant pour abus de procédure.
+[3] J’ai longuement expliqué à l’appelant qu’il ne pouvait pas recommencer un procès qui avait déjà eu lieu, que cette Cour ne pouvait pas réviser une décision déjà rendue et, de surcroît, confirmée par la Cour d’appel fédérale.
+[4] En réaction, l’appelant a affirmé et répété qu’il y avait des faits nouveaux.
+[5] Les hypothèses de fait tenues pour acquises au soutien de l’appel sont les suivantes :
+a) l’appelant était employé par la société The Helicopter Association of Canada (ci-après, « HAC »);
+b) Le 16 octobre 2003, l’appelant a acheté un véhicule utilitaire de marque Land Rover pour le prix 83 000 $ (ci-après le « véhicule »);
+c) En 2003, l’appelant a payé 1 147,78 $ d’intérêts sur l’emprunt contracté pour acheter le véhicule;
+d) Le véhicule a était loué à HAC uniquement pour un période de 5 ans, soit du 1er janvier 2004 au 31 décembre 2008;
+e) HAC a mis le véhicule à la disposition de l’appelant uniquement pour qu’il effectue son travail.
+[6] L’appelant a expliqué en long et en large son dossier et ce qui l’avait amené à faire appel à nouveau. Il a principalement fait état que le juge qui avait entendu le dossier avait tenu pour acquis certains faits qui se sont avérés fort différents dans les mois qui ont suivi le jugement. De là, l’appelant a conclu qu’il s’agissait d’un nouveau dossier.
+[7] Contrairement à la prétention de l’appelant, le présent appel concerne les mêmes années et les faits sont exactement les mêmes que ceux dont il s’agissait lors du premier procès.
+[8] Comme le juge Archambault l’a souligné, l’obligation pour un locateur d’un bien d’exécuter les réparations majeures n’a pas pour effet de transformer un revenu de bien en revenu d’entreprise.
+[9] Lors du premier procès, l’appelant a pu faire valoir tous les faits qu’il jugeait utiles et pertinents pour s’acquitter du fardeau de la preuve qui lui incombait, mais aussi, et surtout, pour justifier la pertinence de son appel. En l’espèce, l’appelant voudrait refaire le même débat d’une manière différente.
+I - L’autorité de la chose jugée
+[10] L'article 2848 du Code civil du Québec (C.c.Q.), qui énonce la règle de la chose jugée, se trouve au Livre septième traitant de la preuve et se lit comme suit :
+L'autorité de la chose jugée est une présomption absolue; elle n'a lieu qu'à l'égard de ce qui a fait l'objet du jugement, lorsque la demande est fondée sur la même cause et mue entre les mêmes parties, agissant dans les mêmes qualités, et que la chose demandée est la même.
+[11] Pour que l’autorité de la chose jugée s’applique, trois conditions doivent être réunies : il doit y avoir identité des parties (1), identité de l'objet (2) et identité de cause (3). L’identité des parties ne pose pas de problème en l’espèce, tandis que les questions d’identité d’objet et de cause sont moins évidentes.
+A - L'identité de cause
+[12] La Cour suprême du Canada a décrit en ces termes la notion de cause :
+D'une part, il est clair qu'un ensemble de faits ne saurait en soi constituer une cause d'action. C'est la qualification juridique qu'on lui donne qui le transforme, le cas échéant, en un fait générateur d'obligations. Le fait détaché du domaine des obligations juridiques n'est pas significatif en soi et ne saurait constituer une cause; il ne devient fait juridique qu'en vertu d'une qualification qu'on lui attribue à la lumière d'une règle de droit. Le même ensemble de faits peut très bien se voir attribuer plusieurs qualifications donnant lieu à des causes parfaitement distinctes. Par exemple, le même geste peut être qualifié de meurtre dans une affaire et de faute civile dans une autre[1].
+[13] Le juge Dufresne de la Cour supérieure du Québec résume les propos de la Cour suprême en ces termes :
+La cause d'action est le fait juridique qui a donné naissance au droit réclamé. C'est ce qui doit être prouvé pour obtenir gain de cause[2].
+B - L'identité d’objet
+[14] Le professeur Royer définit la notion d’objet ainsi :
+L'objet d'une action en justice est le bénéfice qu'un plaideur recherche ou le droit qu'il désire faire sanctionner, réduire ou annuler. La présomption de l'article 2848 C.c.Q. n'exige pas qu'il y ait une identité matérielle de la chose demandée. Il suffit qu'il y ait une identité abstraite ou formelle du droit réclamé[3].
+[15] En l’espèce, la seule différence est dans la façon de présenter son dossier à partir des mêmes faits. Ayant lu, compris et appris un certains nombres d’éléments quant à la portée de certaines dispositions de la Loi et/ou des jugements, l’appelant voudrait avoir une deuxième chance de faire valoir ses prétentions; souscrire à la logique de l’appelant signifierait que toute personne pourrait recommencer un procès perdu avec un nouvel avocat, ce qui évidemment soit tout à fait contraire à la stabilité et cohérence du système.
+[16] L’appelant m’a semblé par ailleurs de bonne foi d’une part, et d’autre part, la manifeste sérieuse préparation de son dossier lui a permis de constater que la question en litige comporte plusieurs aspects, dont certaines caractéristiques peuvent conduire à diverses interprétations. L’appelant a sans doute décelé certains éléments dont il ignorait l’existence lors de sa première expérience devant le tribunal et voudrait profiter du présent appel pour les introduire pour qu’ils soient pris en considération.
+[17] Un jugement a été rendu à partir de la preuve soumise par les parties; ce jugement est définitif et ne peut pas être révisé au moyen de l’appel dont la Cour se trouve maintenant saisie.
+[18] L’appelant a fait appel de ce jugement et la Cour d’appel fédérale a confirmé le jugement de l’honorable Pierre Archambault.
+[19] N’acceptant toujours pas le résultat, l’appelant a tenté d’obtenir de la Cour suprême du Canada l’autorisation d’appel, laquelle lui a été refusée.
+[20] Le jugement du juge Archambault et celui de la Cour d’appel fédérale qui le confirme ont donc eu pour effet de sceller définitivement le sort de ce dossier.
+[21] En ce qui a trait à la demande de sanction pour abus de procédure, je ne crois pas qu’elle soit fondée et, conséquemment, je la rejette.
+[22] L’abus de procédure a comme fondement la décision de la Cour suprême du Canada dans l’affaire Toronto (Ville) c. Syndicat canadien de la fonction publique (S.C.F.P.)[4]. Le pouvoir d’intervenir en cas d’abus de procédure est décrit comme un pouvoir discrétionnaire résiduel inhérent des juges[5]. La doctrine de l’abus de procédure fait intervenir « le pouvoir inhérent du tribunal d'empêcher que ses procédures soient utilisées abusivement, d'une manière [...] qui aurait [...] pour effet de discréditer l'administration de la justice »[6]. L’abus de procédure est une doctrine qui a été appliquée par la Cour d’appel fédérale dans des dossiers fiscaux[7].
+[23] La doctrine de l’abus de procédure peut s’appliquer lorsque « le tribunal est convaincu que le litige a essentiellement pour but de rouvrir une question qu'il a déjà tranchée »[8] et elle s’articule autour des principes suivants :
+[…] Premièrement, on ne peut présumer que la remise en cause produira un résultat plus exact que l'instance originale. Deuxièmement, si l'instance subséquente donne lieu à une conclusion similaire, la remise en cause aura été un gaspillage de ressources judiciaires et une source de dépenses inutiles pour les parties sans compter les difficultés supplémentaires qu'elle aura pu occasionner à certains témoins. Troisièmement, si le résultat de la seconde instance diffère de la conclusion formulée à l'égard de la même question dans la première, l'incohérence, en soi, ébranlera la crédibilité de tout le processus judiciaire et en affaiblira ainsi l'autorité, la crédibilité et la vocation à l'irrévocabilité[9].
+[24] Selon la Cour suprême, il n’y a pas lieu d’appliquer la doctrine de l’abus de procédure dans les cas suivants :
+[…] Il peut en effet y avoir des cas où la remise en cause pourra servir l'intégrité du système judiciaire plutôt que lui porter préjudice, par exemple : (1) lorsque la première instance est entachée de fraude ou de malhonnêteté, (2) lorsque de nouveaux éléments de preuve, qui n'avaient pu être présentés auparavant, jettent de façon probante un doute sur le résultat initial, (3) lorsque l'équité exige que le résultat initial n'ait pas force obligatoire dans le nouveau contexte. […]
+[…] Il existe de nombreuses circonstances où l'interdiction de la remise en cause, qu'elle découle de l'autorité de la chose jugée ou de la doctrine de l'abus de procédure, serait source d'inéquité. Par exemple, lorsque les enjeux de l'instance initiale ne sont pas assez importants pour susciter une réaction vigoureuse et complète alors que ceux de l'instance subséquente sont considérables, l'équité commande de conclure que l'autorisation de poursuivre la deuxième instance servirait davantage l'administration de la justice que le maintien à tout prix du principe de l'irrévocabilité. Une incitation insuffisante à opposer une défense, la découverte de nouveaux éléments de preuve dans des circonstances appropriées, ou la présence d'irrégularités dans le processus initial, tous ces facteurs peuvent l'emporter sur l'intérêt qu'il y a à maintenir l'irrévocabilité de la décision initiale[10].
+(Nos soulignements)
+[25] L’appelant soutient qu’il a de nouveaux arguments juridiques à faire valoir. À cet égard, la Cour suprême ne considère pas que l’existence de nouveaux arguments puisse faire obstacle à l’application de la doctrine de l’abus de procédure.
+[26] Déterminé et tenace, l’appelant, qui est de bonne foi, voudrait que ce tribunal prenne en considération des éléments hypothétiques soulevés par le juge Archambault qui sont devenus, dans les mois qui ont suivi le jugement, une ou des réalités. Même s’il s’agissait là d’un des éléments déterminants à l’origine de la décision du juge Archambault, ce qui n’est pas le cas, cela ne changerait rien quant à l’autorité de la chose jugée.
+[27] Par contre, étant donné la particularité du dossier dans un contexte où l’appelant se représente lui-même, je préfère retenir la thèse de la ténacité et de la détermination plutôt que celle de l’entêtement ou de l’abus.
+[28] J’ai aussi compris que l’appelant aurait possiblement préparé et présenté une preuve différente s’il avait connu auparavant toute la jurisprudence qu’il a consultée après le procès devant le juge Archambault.
+[29] Dans cette optique, il est facile d’imaginer et de comprendre le fondement de la règle de la chose jugée, qui contribue à la cohérence en matière judiciaire. Une multitude d’options existe à la suite d’un jugement. Je fais référence notamment à la réouverture d’enquête, à la rétractation et à l’appel. Il s’agit là de procédures assujetties à des conditions strictes et précises, lesquelles sont en outre également assujetties à des délais de rigueur.
+[30] En l’espèce, la décision de la Cour d’appel fédérale a mis un terme définitif aux conséquences fiscales des activités économiques effectuées par l’appelant et visées par ce dossier pour l’année d’imposition 2003.
+[31] Pour ces raisons, l’appel est annulé.
+Signé à Ottawa, Canada, ce 14e jour d’octobre 2010.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2010 CCI 523
+Nº DU DOSSIER DE LA COUR : 2009-1680(IT)I
+INTITULÉ DE LA CAUSE : BRIAN JENNER c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : Le 22 juin 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : Le 14 octobre 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l'intimée :
+Me Philippe Dupuis
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Rocois Construction Inc. c. Québec Ready Mix Inc., [1990] 2 R.C.S. 440 (QL), par. 24.
+[2] Angers c. Centre Start Montréal inc., REJB 2005-87198 (CS).
+[3] Jean-Claude Royer et Sophie Lavallée, La preuve civile, 4e édition, Cowansville (Qc), Éditions Yvon Blais, 2008, par. 835, p. 720.
+[4] Toronto (Ville) c. Syndicat canadien de la fonction publique (S.C.F.P.), [2003] A.C.S. no 64 (QL).
+[5] Toronto (Ville) c. Syndicat canadien de la fonction publique (S.C.F.P.), par. 35.
+[6] Toronto (Ville) c. Syndicat canadien de la fonction publique (S.C.F.P.), par. 37.
+[7] Golden c. Canada, 2009 CAF 86; Morel c. Canada, 2008 CAF 53.
+[8] Toronto (Ville) c. Syndicat canadien de la fonction publique (S.C.F.P.), par. 37.
+[9] Toronto (Ville) c. Syndicat canadien de la fonction publique (S.C.F.P.), par. 51.
+[10] Toronto (Ville) c. Syndicat canadien de la fonction publique (S.C.F.P.), par. 52 et 53.

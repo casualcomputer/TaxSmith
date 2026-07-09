@@ -1,0 +1,189 @@
+---
+title: "Gordon Feil, C.G.A., Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/110061/index.do"
+last_modified: "2015-06-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 140"
+citation2: ""
+neutral_citation: "2015 CCI 140"
+decision_date: "2015-06-08"
+language: "fr"
+item_id: "110061"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2833
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:30:56.223000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "af489ec5d72286d8c8b562ebc2ee4a30d6688b337d6e48fa90394f0f9df71746"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gordon Feil, C.G.A., Ltd. c. La Reine
+
+- Citation: 2015 CCI 140
+- Decision date: 2015-06-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2833, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gordon Feil, C.G.A., Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-06-08
+Référence neutre
+2015 CCI 140
+Numéro de dossier
+2011-3186(IT)I, 2011-3187(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3186(IT)I
+ENTRE :
+GORDON FEIL, C.G.A., LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2011-3187(IT)I
+ET ENTRE :
+LESLIE FEIL, C.G.A., LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune le 27 mai 2015
+à Victoria (Colombie‑Britannique).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat des appelantes :
+Me Daniel Mildenberger
+Avocat de l’intimée :
+Me Raj Grewal
+JUGEMENT
+Les appels interjetés à l’encontre de cotisations établies au titre de la Loi de l’impôt sur le revenu, dont les avis portent les numéros 25768 et 25770, sont rejetés.
+L’intimée a droit aux dépens afférents à sa requête préliminaire dans l’appel Gordon Feil, C.G.A., Ltd. c. La Reine, qui sont fixés à 250 $ et doivent être payés par Gordon Feil, C.G.A., Ltd. au plus tard le 29 juin 2015.
+Signé à Toronto (Ontario), ce 8e jour de juin 2015.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 11e jour d’août 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2015 CCI 140
+Date : 20150608
+Dossier : 2011-3186(IT)I
+ENTRE :
+GORDON FEIL, C.G.A., LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2011-3187(IT)I
+ET ENTRE :
+LESLIE FEIL, C.G.A., LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGMENT
+La juge Woods
+Les faits [1] La Cour est appelée à se prononcer sur la question de savoir si les appelantes ont omis de se conformer aux avis communément appelés des « demandes formelles de paiement » établis en vertu du paragraphe 224(1) de la Loi de l’impôt sur le revenu (la « Loi ») et sont, par conséquent, chacune tenues de payer 1 800 $ au titre du paragraphe 224(4) de la Loi.
+[2] Les dispositions pertinentes sont ainsi libellées :
+224(1) S’il sait ou soupçonne qu’une personne est ou sera, dans les douze mois, tenue de faire un paiement à une autre personne qui, elle-même, est tenue de faire un paiement en vertu de la présente loi (appelée « débiteur fiscal » au présent paragraphe et aux paragraphes (1.1) et (3)), le ministre peut exiger par écrit de cette personne que les fonds autrement payables au débiteur fiscal soient en totalité ou en partie versés, sans délai si les fonds sont immédiatement payables, sinon au fur et à mesure qu’ils deviennent payables, au receveur général au titre de l’obligation du débiteur fiscal en vertu de la présente loi.
+[…]
+224(4) Toute personne qui omet de se conformer à une exigence du paragraphe (1), (1.2) ou (3) est tenue de payer à Sa Majesté un montant égal au montant qu’elle était tenue, en vertu du paragraphe (1), (1.2) ou (3), selon le cas, de payer au receveur général.
+[3] Les appelantes, Gordon Feil, C.G.A., Ltd. et Leslie Feil, C.G.A., Ltd. ainsi qu’une troisième personne sont toutes membres d’une coentreprise qui fournit des services comptables sous le nom de Feil & Co.
+[4] Gordon Feil et Leslie Feil sont frères et chacun est actionnaire de l’une des appelantes.
+[5] Les coentrepreneurs de Feil & Co. ont reçu chacun du ministre du Revenu national (le « ministre ») une demande de saisie‑arrêt des fonds qui devaient être payés par Feil & Co. à Gordon Feil. Les demandes en question ont été établies parce que Gordon Feil était redevable d’une dette fiscale qui s’élevait à 93 645 $ au 1er décembre 2006.
+[6] En 2004, Feil & Co. a effectué des paiements que le ministre a estimé être contraires aux demandes formelles de paiement. Les paiements ont été effectués au moyen de trois chèques totalisant 4 500 $. Deux des chèques étaient payables à « The Living Love Society » et un chèque était payable au [traduction] « surveillant, living love society ».
+[7] Selon l’intimée, les paiements en question ont été faits à Gordon Feil et sont ainsi contraires aux demandes formelles de paiement. Par conséquent, des cotisations distinctes ont été établies à l’égard des coentrepreneurs de Feil & Co., conformément au paragraphe 224(4) de la Loi. Selon ce que j’ai compris, les appelantes sont les seuls coentrepreneurs de Feil & Co. à interjeter appel à l’encontre de cette décision.
+[8] Les appelantes soutiennent que les paiements n’ont pas été effectués en faveur de Gordon Feil et ont produit comme preuve, à l’appui de leur argument, une copie d’un document censé être les statuts constitutifs provenant de l’État du Nevada concernant la constitution en personne morale de l’entité suivante :
+[traduction]
+Gordon Norman Feil, surveillant de Living Love Society*, et ses successeurs, une personne morale simple (*une société spirituelle non constituée en personne morale)
+[9] L’entité susmentionnée sera appelée dans les présents motifs la « personne morale simple ».
+Question préliminaire [10] Au début de l’audience, l’intimée a présenté une requête en annulation de l’un des appels parce qu’il mentionnait la mauvaise cotisation. L’avocat des appelantes n’a pas contesté que la mention était inexacte.
+[11] Malgré l’objection de l’intimée, j’ai autorisé une modification des actes de procédure pour corriger le problème. J’ai également accordé des dépens à l’intimée parce qu’une modification à l’avis d’appel aurait dû être demandée avant l’audience. Aucune raison valable ne justifie que l’intimée ait été obligée de présenter une requête pour que le problème soit réglé.
+Analyse [12] La seule question à trancher en l’espèce est de savoir si les trois chèques émis par Feil & Co. constituaient des paiements faits à Gordon Feil. À l’audience, je me suis posée la question de savoir si c’est à juste titre que chaque coentrepreneur de Feil & Co. avait fait l’objet d’une cotisation à l’égard de la même omission. L’avocat des appelantes n’a pas formulé d’observations sur ce point, et je ne vois aucune raison d’accueillir les appels sur ce fondement.
+[13] L’avocat de l’intimée a formulé deux arguments à l’appui de sa position selon laquelle les paiements avaient été effectués par Feil & Co. en faveur de Gordon Feil. Il fait principalement valoir que les paiements ont été faits à la personne morale simple, qui agissait à titre de représentant ou de mandataire de Gordon Feil, parce que M. Feil a utilisé les fonds transférés à cette entité pour son propre avantage. Subsidiairement, l’intimée soutient que les appelantes n’ont pas établi que la personne morale simple est une entité distincte de Gordon Feil.
+[14] Lors de la plaidoirie, l’avocat des appelantes a laissé entendre qu’il n’avait pas reçu un avis suffisant de l’argument subsidiaire. Il a précisé que les discussions antérieures avaient principalement porté sur la question de savoir si la personne morale simple agissait à titre de mandataire ou de représentant.
+[15] J’aimerais faire observer que l’avocat des appelantes s’attendait en quelque sorte à l’argument subsidiaire parce qu’il a produit une copie des prétendus statuts constitutifs et des extraits de la législation, tels que le Business Corporations Act de la Colombie‑Britannique, en vertu duquel une personne morale simple est explicitement exclue d’une « société » pour l’application de cette loi.
+[16] Bien que les appelantes se soient en quelque sorte attendues à ce que ce point soit soulevé, je trouve troublant que l’intimée se fonde sur cet argument parce qu’il n’a pas été soulevé dans les réponses. En réalité, aucun argument juridique n’a été soulevé dans les réponses, à l’exception d’une déclaration peu utile selon laquelle le paragraphe 225(4) de la Loi devrait s’appliquer relativement aux paiements.
+[17] Si la question devait entrer en jeu en l’espèce, je conclurais que les appelantes n’ont pas réussi à établir que la personne morale simple est une entité distincte. Plus particulièrement, aucun élément de preuve n’a été présenté quant à la loi de l’État du Nevada en ce qui concerne la nature d’une personne morale simple.
+[18] Les appelantes ont laissé entendre qu’il était approprié d’examiner la loi canadienne sur ce point. Même si cette démarche était appropriée, on ne m’a renvoyée à aucune décision de jurisprudence qui me permettrait de conclure qu’une personne morale simple possède généralement des caractéristiques d’une entité distincte.
+[19] Toutefois, compte tenu des réponses inadéquates, je préfère fonder ma décision sur l’argument principal de l’intimée.
+[20] La question à trancher est donc de savoir si Feil & Co. a payé des sommes totalisant 4 500 $ à la personne morale simple à titre de représentant ou de mandataire de Gordon Feil.
+[21] J’ai conclu que les appelantes n’ont pas présenté de preuve prima facie sur ce point.
+[22] Le témoignage des appelantes concernant la question a été extrêmement bref. Essentiellement, M. Feil a livré un témoignage bref et intéressé quant au fait qu’il avait constitué la personne morale simple pour des activités de bienfaisance et qu’il voulait qu’elle subsiste après lui. Il a également déclaré que la personne morale simple n’était pas très active et qu’elle recevait et déboursait des fonds. Il a précisé que les débours étaient effectués en faveur d’organismes de bienfaisance, d’églises et de parents.
+[23] Le témoignage intéressé susmentionné est simplement trop bref pour être crédible et n’est pas suffisant pour établir une preuve prima facie que les paiements n’ont pas été faits à la personne morale simple à titre de représentant de Gordon Feil.
+[24] En outre, lors du contre‑interrogatoire, M. Feil a reconnu que des fonds provenant de la personne morale simple avaient été utilisés dans l’intérêt de ses parents et pour payer les frais médicaux de son épouse, des frais de scolarité, l’eau et l’électricité pour son domicile ainsi que des factures personnelles de sa carte de crédit Visa.
+[25] De plus, le témoignage de M. Feil concernant un don fait à un organisme de bienfaisance ne semble pas être véridique. Lors du contre-interrogatoire, M. Feil a nié que la personne morale simple avait fait un don de bienfaisance qu’il avait déclaré dans sa propre déclaration de revenus.
+[26] Le témoignage ci‑dessus semble être contraire à celui que M. Feil a livré lors d’un interrogatoire préalable dans une affaire semblable concernant Gordon Feil, C.G.A., Ltd. (2011-2834(IT)G). Les réponses suivantes provenant de l’interrogatoire préalable ont été lues par l’intimée :
+[traduction]
+Q. D’accord. Maintenant, avez‑vous déclaré des dons faits à cet organisme de bienfaisance dans votre déclaration de revenus personnelle?
+R. Dans la mienne ou dans celle de mon épouse. Certains enfants recevaient de l’aide au moyen de comptes personnels, d’autres au moyen du compte de la personne morale simple.
+R. D’accord. Toutefois, ces dons de bienfaisance faits à Compassion Canada n’ont été déclarés dans aucune déclaration de revenus produite par la personne morale simple ni par Living Love, probablement parce qu’elles ne produisaient pas de déclarations de revenus, n’est‑ce pas?
+R. C’est exact.
+[27] La preuve dans son ensemble, et particulièrement l’absence d’éléments de preuve de la part des appelantes, laisse croire que M. Feil a mis sur pied la personne morale simple pour servir d’intermédiaire pour le paiement de ses dépenses personnelles. Je tiens à souligner que la société de M. Feil était membre de Feil & Co. et que celle‑ci aurait dû être consciente du fait que, en raison de cette connexion, la personne morale simple n’était qu’un intermédiaire.
+[28] Je suis d’avis que c’est à juste titre que l’intimée a conclu que les chèques émis par Feil & Co. étaient en réalité des paiements faits à M. Feil qui étaient contraires aux demandes formelles de paiements.
+[29] Les appels seront rejetés sur ce fondement.
+Signé à Toronto (Ontario), ce 8e jour de juin 2015.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 11e jour d’août 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE :
+2015 CCI 140
+Nos DES DOSSIERS DE LA COUR :
+2011-3186(IT)I
+2011-3187(IT)I
+INTITULÉ :
+GORDON FEIL, C.G.A., LTD c SA MAJESTÉ LA REINE
+LESLIE FEIL, C.G.A., LTD. c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Victoria (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 27 mai 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Judith Woods
+DATE DU JUGEMENT :
+Le 8 juin 2015
+COMPARUTIONS :
+Avocat des appelantes :
+Me Daniel Mildenberger
+Avocat de l’intimée :
+Me Raj Grewal
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom :
+Daniel Mildenberger
+Cabinet :
+Stevenson Luchies & Legh
+Victoria (Colombie‑Britannique)
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

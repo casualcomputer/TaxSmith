@@ -1,0 +1,175 @@
+---
+title: "Stinson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31063/index.do"
+last_modified: "2013-01-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 22"
+citation2: ""
+neutral_citation: "2013 CCI 22"
+decision_date: "2013-01-18"
+language: "fr"
+item_id: "31063"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4704
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:32:50.611000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "132c649ab31fb2b6df855fe69c605507d9ff2f4068c709b0f696e9190315fc6b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stinson c. La Reine
+
+- Citation: 2013 CCI 22
+- Decision date: 2013-01-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4704, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stinson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-01-18
+Référence neutre
+2013 CCI 22
+Numéro de dossier
+2011-4032(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-4032(IT)I
+ENTRE :
+DEANE STINSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 22 octobre 2012, à Ottawa (Ontario).
+(Observations écrites reçues subséquemment)
+Par : L’honorable juge J.M. Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Paul Klippenstein
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008 est rejeté.
+Signé à Ottawa (Ontario), ce 18e jour de janvier 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 4e jour de mars 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2013 CCI 22
+Date : 20130118
+Dossier : 2011-4032(IT)I
+ENTRE :
+DEANE STINSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] L’appelant, Deane Stinson, interjette appel à l’encontre d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi »), dans laquelle sa demande de déduction d’une perte déductible au titre d’un placement d’entreprise (la « PDTPE ») pour l’année d’imposition 2008 lui a été refusée.
+[2] L’appelant soutient qu’il a contracté une créance irrécouvrable au cours de l’année d’imposition 2008 et que cette créance irrécouvrable lui donnait droit à une déduction de 215 403 $ à titre de PDTPE. Étant donné que l’appelant n’avait pas de revenus suffisants en 2008 pour profiter pleinement de la déduction, il a déduit une partie de la PDTPE en 2008 et a demandé un report rétrospectif de l’excédent, soit 145 391,23 $, aux trois années précédentes. Les années antérieures ne sont pas en cause en l’espèce.
+Les faits
+[3] L’appelant est un comptable agréé à la retraite qui habite à Sault Ste. Marie, en Ontario.
+[4] Pendant plusieurs années, l’appelant et sa famille immédiate ont été les seuls actionnaires de Tille Investments Ltd. (la société « Tille »). Il semble que, de temps en temps, la société Tille tirait des revenus de diverses sources, telles que des activités d’expert-conseil en affaires, de crédit‑bail immobilier dans le domaine commercial et de placement.
+[5] L’appelant soutient que, au fil du temps, son épouse et lui ont prêté de l’argent à la société Tille, et qu’au 31 décembre 2008, la société devait 430 061,72 $ à l’appelant et 38 649,75 $ à l’épouse de celui‑ci.
+[6] L’appelant a déclaré que les actions de la société Tille avaient été transférées à des personnes non liées en décembre 2008, époque à laquelle l’unique activité de la société était l’activité d’expert‑conseil en affaires.
+[7] L’appelant a en outre témoigné que son épouse et lui avaient présenté une demande formelle de remboursement des prêts lorsque l’entreprise a changé de propriétaires. Il a affirmé que la direction avait déterminé que les prêts ne pouvaient pas être remboursés et qu’il avait donc été établi que la dette qui lui était due était une créance irrécouvrable qui pouvait être déduite à titre de PDTPE.
+L’analyse
+[8] En l’espèce, la question en litige est de savoir si l’appelant a établi qu’il avait subi une PDTPE le 31 décembre 2008, compte tenu du fait que les créances qu’il détenait sur la société Tille étaient des créances irrécouvrables à ce moment‑là.
+[9] Les principales dispositions pertinentes de la Loi sont le paragraphe 50(1), l’alinéa 39(1)c) et la partie du paragraphe 248(1) contenant la définition de l’expression « société exploitant une petite entreprise ». Ces dispositions sont reproduites en partie ci‑après .
+50(1) Créances reconnues comme irrécouvrables et actions d’une société en faillite - Pour l’application de la présente sous-section, lorsque, selon le cas :
+a) un contribuable établit qu’une créance qui lui est due à la fin d’une année d’imposition (autre qu’une créance qui lui serait due du fait de la disposition d’un bien à usage personnel) s’est révélée être au cours de l’année une créance irrécouvrable;
+b) […]
+le contribuable est réputé avoir disposé de la créance ou de l’action à la fin de l’année pour un produit nul et l’avoir acquise de nouveau immédiatement après la fin de l’année à un coût nul, à condition qu’il fasse un choix, dans sa déclaration de revenu pour l’année, pour que le présent paragraphe s’applique à la créance ou à l’action.
+39(1) Sens de gain en capital et de perte en capital - Pour l’application de la présente loi :
+[…]
+c) une perte au titre d’un placement d’entreprise subie par un contribuable, pour une année d’imposition, résultant de la disposition d’un bien quelconque s’entend de l’excédent éventuel de la perte en capital que le contribuable a subie pour l’année résultant d’une disposition, après 1977 :
+(i) soit à laquelle le paragraphe 50(1) s’applique,
+(ii) soit en faveur d’une personne avec laquelle il n’avait aucun lien de dépendance,
+d’un bien qui est :
+(iii) soit une action du capital-actions d’une société exploitant une petite entreprise,
+(iv) soit une créance du contribuable sur une société privée sous contrôle canadien (sauf une créance, si le contribuable est une société, sur une société avec laquelle il a un lien de dépendance) qui est :
+(A) une société exploitant une petite entreprise,
+(B) un failli, au sens du paragraphe 128(3), qui était une société exploitant une petite entreprise au moment où il est devenu un failli pour la dernière fois,
+(C) une personne morale visée à l’article 6 de la Loi sur les liquidations qui était insolvable, au sens de cette loi, et qui était une société exploitant une petite entreprise au moment où une ordonnance de mise en liquidation a été rendue à son égard aux termes de cette loi,
+[…]
+248(1) Définitions - Les définitions qui suivent s’appliquent à la présente loi.
+[…]
+« société exploitant une petite entreprise », Sous réserve du paragraphe 110.6(15), société privée sous contrôle canadien et dont la totalité, ou presque, de la juste valeur marchande des éléments d’actif est attribuable, à un moment donné, à des éléments qui sont :
+a) soit utilisés principalement dans une entreprise que la société ou une société qui lui est liée exploite activement principalement au Canada;
+b) soit constitués d’actions du capital-actions ou de dettes d’une ou de plusieurs sociétés exploitant une petite entreprise rattachées à la société au moment donné, au sens du paragraphe 186(4) selon l’hypothèse que les sociétés exploitant une petite entreprise sont, à ce moment, des sociétés payantes au sens de ce paragraphe;
+c) soit visés aux alinéas a) et b).
+Pour l’application de l’alinéa 39(1)c), est une société exploitant une petite entreprise la société qui était une telle société à un moment de la période de douze mois précédant le moment donné; par ailleurs, pour l’application de la présente définition, la juste valeur marchande d’un compte de stabilisation du revenu net est réputée nulle;
+[Non souligné dans l’original.]
+[10] L’intimée soutient que la demande de déduction à titre de PDTPE a été refusée à juste titre compte tenu de l’un ou l’autre des éléments suivants :
+a) Tille n’a jamais été une société exploitant une petite entreprise au cours de l’année 2008;
+b) l’appelant n’a consenti aucun prêt à la société Tille;
+c) l’appelant n’a pas établi qu’une quelconque créance s’était révélée être en 2008 une créance irrécouvrable.
+[11] J’aimerais d’abord souligner le fait que la cause de l’appelant dépend en grande partie du témoignage intéressé de l’appelant lui‑même et d’un nombre limité de documents qui relevaient de l’appelant. J’ai conclu qu’il n’y avait pas de documentation suffisante pour établir l’existence de la PDTPE, et que le témoignage de l’appelant et certains documents produits en preuve ne sont pas fiables.
+[12] En ce qui concerne la preuve de l’appelant, aucun témoignage détaillé et cohérent n’a été présenté à l’égard de l’un ou l’autre fait nécessaire pour justifier la demande. En particulier, le témoignage était vague quant aux activités commerciales de la société Tille, aux prêts supposément consentis à la société Tille, au prétendu changement de propriétaire de la société Tille et aux circonstances permettant d’appuyer une détermination selon laquelle les créances s’étaient révélées être en 2008 des créances irrécouvrables.
+[13] Pour ce qui est des documents qui ont été produits en preuve, j’ai conclu que certains documents clés ne sont pas fiables. Voici quelques exemples :
+a) L’appelant a fourni à l’Agence du revenu du Canada (l’« ARC ») des billets qui constatent la dette, et qui avaient prétendument été signés par un des nouveaux propriétaires de la société Tille. La fiabilité des billets est douteuse, parce qu’il existe plusieurs versions des billets qui ont un libellé différent et qui comportent aussi des signatures différentes.
+b) La prétendue demande formelle de remboursement de l’appelant (pièce A‑11) fait état d’un montant dû qui ne concorde pas avec les autres éléments de preuve.
+c) Le prétendu changement de propriétaire survenu les 12 et 20 décembre 2008 par lequel les actions ont été transférées à des personnes non liées (un grand livre des actionnaires manuscrit à l’appui) n’est pas compatible avec une affirmation faite par l’appelant dans la déclaration de revenus de la société Tille pour l’année qui s’est terminée le 30 avril 2009, affirmation selon laquelle ses fils étaient les seuls actionnaires. La qualité de propriétaire des fils de l’appelant figure également dans un questionnaire concernant la PDTPE qui a été fourni à l’ARC le 31 janvier 2011.
+d) L’appelant a fourni à l’ARC une liste d’employés, dans laquelle on tente d’établir que la société Tille avait à son service au moins cinq employés à temps plein. La preuve concernant ces relations d’emploi n’était pas plausible.
+[14] Quant au témoignage de l’appelant selon lequel la nouvelle direction a déterminé que les créances étaient irrécouvrables à la fin de 2008, je tiens à souligner que (1) dans le bilan de la société Tille au 30 avril 2009, qui a été joint à sa déclaration de revenus, l’actif était supérieur au passif et que (2) la société Tille a continué à exercer, avec le concours de l’appelant, des activités lucratives à partir de 2008.
+[15] Les problèmes liés à la preuve étaient tellement importants qu’il n’était pas possible de déterminer les faits pertinents en ce qui a trait à la demande de déduction d’une PDTPE.
+[16] Je conclus que l’appel doit être rejeté au motif que l’appelant n’a pas réussi à établir la preuve, même à première vue, qu’une quelconque créance s’est révélée être une créance irrécouvrable en 2008. En particulier, je ne suis pas convaincue que les actions de la société Tille ont été acquises par des personnes non liées en 2008 ou qu’une quelconque créance de l’appelant en 2008 s’était révélée être une créance irrécouvrable au cours de cette année‑là.
+[17] L’appel est rejeté.
+Signé à Ottawa (Ontario), ce 18e jour de janvier 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 4e jour de mars 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE : 2013 CCI 22
+No DU DOSSIER DE LA COUR : 2011-4032(IT)I
+INTITULÉ : DEANE STINSON c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 22 octobre 2012
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 18 janvier 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Paul Klippenstein
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s/o
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

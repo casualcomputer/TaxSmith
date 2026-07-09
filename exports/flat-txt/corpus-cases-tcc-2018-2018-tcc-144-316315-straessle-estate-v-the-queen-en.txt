@@ -1,0 +1,255 @@
+Title: Straessle Estate v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/316315/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-144-316315-straessle-estate-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-07-17
+
+# Straessle Estate v. The Queen
+
+- Citation: 2018 TCC 144
+- Decision date: 2018-07-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4958, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Straessle Estate v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-07-17
+Neutral citation
+2018 TCC 144
+File numbers
+2017-809(IT)G
+Judges and Taxing Officers
+Dominique Lafleur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-809(IT)G
+BETWEEN:
+ESTATE OF WINIFRED STRAESSLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on April 9, 2018, at Toronto, Ontario
+Before: The Honourable Justice Dominique Lafleur
+Appearances:
+Counsel for the Appellant:
+James G. Morand
+Counsel for the Respondent:
+Paul Klippenstein
+ORDER
+UPON reading the Notice of Motion dated January 19, 2018, filed on behalf of the Respondent, and other documentary material (the “Motion”) seeking:
+an order quashing, striking out or expunging the Notice of Appeal for lack of standing, as the person who filed the Notice of Appeal does not have legal capacity to commence the proceeding of the Estate of Winifred Straessle pursuant to paragraph 53(3)(c) of the Tax Court of Canada Rules (General procedure) (the “Rules”);
+an order striking out or expunging the Notice of Appeal as no valid notice of objection has been filed, and therefore a condition precedent to instituting an appeal has not been met, pursuant to paragraph 53(3)(b) of the Rules;
+in the alternative, an order striking out the Notice of Appeal pursuant to paragraph 53(1)(d) of the Rules, as the Notice of Appeal does not plead material facts that go to the correctness of the assessments purportedly at issue, and therefore discloses no reasonable grounds for appeal or opposing the appeal, pursuant to paragraph 53(1)(d) of the Rules;
+in the further alternative, an order extending the deadline for the Respondent to file her Reply by 15 days from the date of the Order; and
+costs of this Motion;
+AND UPON hearing the submissions of the parties;
+In accordance with the attached Reasons for Order, THIS COURT ORDERS AS FOLLOWS:
+The Motion is dismissed, with costs to the Appellant.
+The Respondent shall have 15 days from the date of the final disposition of the Motion to file her Reply; the final disposition being the ultimate determination whether by this Court, the Federal Court of Appeal or the Supreme Court of Canada.
+Signed at Ottawa, Canada, this 17th day of July 2018.
+“Dominique Lafleur”
+Lafleur J.
+Citation: 2018 TCC 144
+Date: 20180717
+Docket: 2017-809(IT)G
+BETWEEN:
+ESTATE OF WINIFRED STRAESSLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Lafleur J.
+I. THE MOTION
+[1] The Respondent filed the Notice of Motion dated January 19, 2018, with this Court (the “Motion”) for:
+an order quashing, striking out or expunging the Notice of Appeal for lack of standing, as the person who filed the Notice of Appeal does not have legal capacity to commence the proceeding of the Estate of WinifredStraessle (the“Estate”) pursuant to paragraph53(3)(c) of the Tax Court of Canada Rules (General procedure) (the“Rules”);
+an order striking out or expunging the Notice of Appeal as no valid notice of objection has been filed, and therefore a condition precedent to instituting an appeal has not been met, pursuant to paragraph53(3)(b) of the Rules;
+in the alternative, an order striking out the Notice of Appeal pursuant to paragraph53(1)(d) of the Rules, as the Notice of Appeal does not plead material facts that go to the correctness of the assessment purportedly at issue, and therefore discloses no reasonable grounds for appeal or opposing the appeal, pursuant to paragraph53(1)(d) of the Rules;
+in the further alternative, an order extending the deadline for the Respondent to file her Reply by 15days from the date of the Order; and
+costs of this Motion.
+[2] The Respondent filed an affidavit sworn by Thivya Logananthan in support of the Motion.
+II. THE FACTS
+[3] The Estate was reassessed by the Minister of National Revenue (the “Minister”) on October 31, 2014, for taxation years 1992 to 1996 under the Income Tax Act (RSC, 1985, c. 1 (5th supp.), as amended) (the “Act”), so as to increase the taxable income (and included arrears interests) (the “Reassessments”). Notices of Reassessment were sent by the Canada Revenue Agency (the “CRA”), care of Mrs. Greta Hansen, at her personal address in Ottawa. That address was entered into CRA’s records effective October 20, 2014.
+[4] Mrs. Hansen is the daughter of the late Winifred Straessle.
+[5] By notices dated January 20, 2015, Mrs. Hansen objected to the Reassessments (the “Notices of Objection”). Specifically, Mrs. Hansen asked that the Reassessments be vacated. She also indicated that she is not now, and never was, a legal representative, executor or trustee of the Estate and accordingly, that she was not liable for the potential liabilities of the Estate under the Act. However, she admitted that she was a beneficiary of the Estate, but the Estate no longer exists.
+[6] By notices dated November 18, 2016, the Minister confirmed the Reassessments.
+[7] Mrs. Hansen then filed an appeal to this Court (the “Appeal”), asking that the Appeal be allowed and the Reassessments vacated. Paragraphs 1 to 9 of the Notice of Appeal stated the material facts relied upon by the Estate as follows:
+Winifred Straessle (“Mrs. Straessle”) and her husband immigrated to Canada from Switzerland in 1929 and were resident in Québec at all relevant times for the purposes of this appeal.
+Mrs. Straessle and her husband had two children, Mrs. Greta Hansen (the “Daughter”) and Mr. Anthony Straessle.
+The Daughter was born on July 2, 1932 in Montréal, Québec. The Daughter has been resident in Ottawa, Ontario, since June of 1979.
+Mrs. Straessle’s husband died in early 1992.
+Mrs. Straessle was a residuary universal legatee of the estate of her husband.
+Mrs. Straessle died intestate on February 24, 1996.
+On October 18, 2013 the Canada Revenue Agency sent a letter to Estate, c/o the Daughter as the “liquidator of the Estate”, proposing reassessments of Mrs. Straessle for the 1992-1996 taxation years.
+The Estate was wound-up and no longer exists.
+The Daughter was not, and has never been, an executor, liquidator, trustee or administrator of the Estate.
+[8] As of today, the Respondent did not file a Reply, but filed this Motion.
+[9] Unless otherwise stated, all provisions that follow refer to the Act.
+III. THE RESPONDENT’S POSITION
+[10] The Respondent argues that a taxpayer cannot appeal from another taxpayer’s assessment. According to the Respondent, since Mrs. Hansen was not, and has never been, an executor, liquidator, trustee or administrator of the Estate, she is not legally authorized to represent the Estate and therefore, has no standing to appeal from the Reassessments. Specifically, the Respondent argues that Mrs. Hansen is not of any of the types of “legal representative” included in the definitions of “taxpayer” and “person”, as defined under subsection 248(1). Consequently, the Appeal should be quashed in accordance with paragraph 53(3)(c) of the Rules.
+[11] The Respondent is also of the view that the Appeal should be quashed by this Court in accordance with paragraph 53(3)(b) of the Rules since this Court has no jurisdiction to examine the purported Appeal as it is not in accordance with section 169. The Notices of Objection purportedly filed by Mrs. Hansen were not valid, as she was not legally authorized to represent the Estate at the time of serving of the Notices of Objection on the Minister. As such, a condition precedent to the institution of an appeal to this Court, namely, the serving on the Minister of a valid notice of objection, is not met.
+[12] The Respondent also argues that if the Estate no longer exists, then it is not possible to appeal from the Reassessments since a taxpayer that does not exist cannot appeal from an assessment.
+[13] Finally, since the Notice of Appeal filed by Mrs. Hansen does not plead any material facts that go to the correctness of the Reassessments, and therefore, discloses no reasonable grounds of appeal, the Appeal should be quashed in accordance with paragraph 53(1)(d) of the Rules.
+IV. THE APPELLANT’S POSITION
+[14] The Appellant acknowledges that Mrs. Hansen is not a legal representative of the Estate, but that does not preclude Mrs. Hansen from having the necessary nexus to initiate the Appeal on behalf of the Estate. Mrs. Hansen, being a beneficiary of the Estate and, consequently, an heir to the Estate, is a “person” and, as such, is a “taxpayer” who can object and serve a notice of objection on the Minister and institute an appeal to this Court on behalf of the Estate, as provided by subsections 165(1) and 169(1).
+[15] According to the Appellant, if the Respondent’s interpretation of the definition of “person” is correct, then there would be no need to reference an “heir” in the definition of “person” because “legal representative” is also included in the definition of “person”.
+[16] The Appellant also argues that the scope of section 159, which contains provisions pertaining to the liability of a “legal representative of a taxpayer”, is narrower than the scope of a “person” who can object and serve a notice of objection or who can institute an appeal to this Court.
+[17] Furthermore, the Estate had pleaded sufficient basis in the Notice of Appeal to challenge the correctness of the Reassessments because the Notice of Appeal asserts that Mrs. Winifred Straessle had correctly reported her income for the relevant years.
+[18] Finally, if the Motion is granted, the Appellant asks the Court to clearly rule that Mrs. Hansen is not a legal representative of the Estate, nor a trustee – otherwise, Mrs. Hansen is left with being subject to possible collection procedures and no basis to contest the Reassessments.
+V. THE RULES
+[19] Section 53 of the Rules reads as follows:
+53. Striking out a Pleading or other Document — (1) The Court may, on its own initiative or on application by a party, strike out or expunge all or part of a pleading or other document with or without leave to amend, on the ground that the pleading or other document
+(a) may prejudice or delay the fair hearing of the appeal;
+(b) is scandalous, frivolous or vexatious;
+(c) is an abuse of the process of the Court; or
+(d) discloses no reasonable grounds for appeal or opposing the appeal.
+(2) No evidence is admissible on an application under paragraph (1)(d).
+(3) On application by the respondent, the Court may quash an appeal if
+(a) the Court has no jurisdiction over the subject matter of the appeal;
+(b) a condition precedent to instituting an appeal has not been met; or
+(c) the appellant is without legal capacity to commence or continue the proceeding.
+53 Radiation d’un acte de procédure ou d’un autre document — (1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+(2) Aucune preuve n’est admissible à l’égard d’une demande présentée en vertu de l’alinéa (1)d).
+(3) À la demande de l’intimé, la Cour peut casser un appel si :
+a) elle n’a pas compétence sur l’objet de l’appel;
+b) une condition préalable pour interjeter appel n’a pas été satisfaite;
+c) l’appelant n’a pas la capacité juridique d’introduire ou de continuer l’instance.
+[Emphasis added.]
+VI. ANALYSIS
+1. Jurisdiction
+[20] The Tax Court of Canada’s jurisdiction, as a statutory court, is found in and limited by section 12 of the Tax Court of Canada Act (RSC, 1985, c. T-2), its enabling statute. As to income tax appeals, section 12 of the Tax Court of Canada Act provides this Court with exclusive and original jurisdiction to determine the validity and correctness of the assessment of income tax under the Act.
+[21] In Ereiser v The Queen, 2013 FCA 20, 2013 DTC 5036, the Federal Court of Appeal stated that:
+31 Based on these provisions, this Court has held that the role of the Tax Court of Canada in an appeal of an income tax assessment is to determine the validity and correctness of the assessment based on the relevant provisions of the Income Tax Act and the facts giving rise to the taxpayer’s statutory liability. . . .
+[22] The appeal provisions are found in Division J of the Act, containing sections 169 to 180, which I will refer to below.
+2. Principles of interpretation
+[23] The arguments put forward by the parties raise a problem of statutory interpretation in regard to the definition of “person” under the Act. As the Federal Court of Appeal stated in Manrell v Canada, 2003 FCA 128, [2003] 3 FC 727, 2003 DTC 5225, when dealing with the definition of the word “property” found in subsection 248(1):
+21 This is a problem of statutory interpretation, the solution to which must begin with the principle from Driedger, Construction of Statutes (2nd ed. 1983), at page 87:
+Today there is only one principle or approach, namely, the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament.
+22 Recently Justice Iacobucci, writing for the majority in Ludco Enterprises Ltd. v. Canada, [2001] 2 S.C.R. 1082, explained the place of this principle in the interpretation of taxing statutes (paragraphs 37 to 39; most citations omitted):
+37 This passage from Driedger “best encapsulates” the preferred approach to statutory interpretation . . . . This is the case for the interpretation of any statute, and it is noteworthy that Driedger’s famous passage has been cited with approval by our Court on numerous occasions both in the non-tax and in the tax context . . . .
+38 Furthermore, when interpreting the Income Tax Act courts must be mindful of their role as distinct from that of Parliament. In the absence of clear statutory language, judicial innovation is undesirable . . . . Rather, the promulgation of new rules of tax law must be left to Parliament . . . . As McLachlin J. (as she then was) recently explained in Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622, at para. 43:
+The Act is a complex statute through which Parliament seeks to balance a myriad of principles. This Court has consistently held that courts must therefore be cautious before finding within the clear provisions of the Act an unexpressed legislative intention . . . . Finding unexpressed legislative intentions under the guise of purposive interpretation runs the risk of upsetting the balance Parliament has attempted to strike in the Act. [Citations omitted.]
+. . . Having said this, it is within the jurisdiction of courts to interpret the rules enacted by Parliament, including the elucidation of otherwise undefined concepts such as “income” or “profit”. . . .
+[24] The Federal Court of Appeal reiterated this principle of interpretation in Canada v Livingston, 2008 FCA 89, 2008 DTC 6233:
+15 The Supreme Court of Canada’s preferred approach to statutory interpretation remains Dreidger’s [sic] modern principle (Elmer A. Driedger, The Construction of Statutes (Toronto: Butterworths, 1974) at 67):
+Today there is only one principle or approach, namely, the words of an Act are to be read in their entire context, in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament.
+See Re Rizzo and Rizzo Shoes Ltd. [1998] 1 S.C.R. 27 at 41; Bell ExpressVu Limited Partnership v. Rex, 2002 SCC 42 at paragraph 26.
+[25] And more recently, in Caithkin, Inc v Canada, 2015 FCA 118, [2015] GSTC 54 [Caithkin], the Federal Court of Appeal stated:
+15 The Supreme Court in Canada Trustco Mortgage Co v Canada, 2005 SCC 54 (Canada Trustco), at para 10 instructs that the interpretation of a statutory provision “must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole.” In addition, when the words of a provision are “precise and unequivocal the ordinary meaning of the words play a dominant role in the interpretive process”: Canada Trustco at para 10; Bakorp Management Ltd v Canada, 2014 FCA 104, at para 25.
+. . .
+21 Third, statutes are to be interpreted so as to give meaning to every term and to avoid redundancy: Placer Dome Canada Ltd v Ontario (Minister of Finance), 2006 SCC 20 at para 45, [2006] 1 SCR 715 at 739, citing Hill v William Hill (Park Lane) Ltd, [1949] AC 530 (HL). . . .
+3. Application of the interpretation principles to the Motion
+[26] Subsection 169(1) provides that where a taxpayer has served a notice of objection under section 165, the taxpayer may appeal to this Court to have the assessment vacated or varied. The serving of a notice of objection on the Minister in accordance with the provisions of section 165 is a condition precedent to the institution of an appeal to this Court. Both provisions refer to the concept of “taxpayer”: he is the one who may object and appeal:
+165(1) Objections to assessment — A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, . . .
+169(1) Appeal — Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada . . .
+165(1) Opposition à la cotisation —Le contribuable qui s’oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d’opposition […]
+169(1) Appel — Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt […]
+[Emphasis added.]
+[27] Subsection 248(1) defines the word “taxpayer” for the purposes of the Act as including “any person whether or not liable to pay tax” (and in French, the word “contribuables” is defined as including “toutes les personnes, même si elles ne sont pas tenues de payer l’impôt”).
+[28] Subsection 248(1) also contains a definition of the word “person” for the purposes of the Act and reads as follows:
+248(1) Definitions — In this Act,
+. . .
+person, or any word or expression descriptive of a person, includes any corporation, and any entity exempt, because of subsection 149(1), from tax under Part I on all or part of the entity’s taxable income and the heirs, executors, liquidators of a succession, administrators or other legal representatives of such a person, according to the law of that part of Canada to which the context extends; (personne)
+. . .
+248(1) Définitions — Les définitions qui suivent s’appliquent à la présente loi.
+[…]
+personne Sont comprises parmi les personnes tant les sociétés que les entités exonérées de l’impôt prévu à la partie I sur tout ou partie de leur revenu imposable par l’effet du paragraphe 149(1), ainsi que les héritiers, liquidateurs de succession, exécuteurs testamentaires, administrateurs ou autres représentants légaux d’une personne, selon la loi de la partie du Canada visée par le contexte. La notion est visée dans des formulations générales, impersonnelles ou comportant des pronoms ou adjectifs indéfinis. (person)
+[…]
+[Emphasis added.]
+[29] The definition of “person” in the Act is an expansive definition (Brown v Canada, 2014 FCA 301, 2015 DTC 5030 at para 14 [Brown]), which includes “the heirs, executors, liquidators of a succession, administrators or other legal representatives of such person, according to the law of that part of Canada to which the context extends”. Therefore, a party who purports to appeal from someone else’s assessment has to fit within the definition of “person”.
+[30] According to the Respondent, the words “other legal representatives” in the definition of “person” modify the preceding enumeration in that definition, namely, the heirs, executors, liquidators of a succession and administrators. More specifically, the Respondent is of the view that it is necessary to interpret the reference to “heirs” in the definition of “person” by reference to “legal representative”, as defined under subsection 248(1).
+[31] Subsection 248(1) contains the definition of “legal representative of a taxpayer” for the purposes of the Act:
+248(1) Definitions — In this Act,
+. . .
+legal representative of a taxpayer means a trustee in bankruptcy, an assignee, a liquidator, a curator, a receiver of any kind, a trustee, an heir, an administrator, an executor, a liquidator of a succession, a committee, or any other like person, administering, winding up, controlling or otherwise dealing in a representative or fiduciary capacity with the property that belongs or belonged to, or that is or was held for the benefit of, the taxpayer or the taxpayer’s estate; (représentant légal)
+. . .
+248(1) Définitions — Les définitions qui suivent s’appliquent à la présente loi.
+[…]
+représentant légal Quant à un contribuable, syndic de faillite, cessionnaire, liquidateur, curateur, séquestre de tout genre, fiduciaire, héritier, administrateur du bien d’autrui, liquidateur de succession, exécuteur testamentaire, conseil ou autre personne semblable, qui administre ou liquide, en qualité de représentant ou de fiduciaire, les biens qui appartiennent ou appartenaient au contribuable ou à sa succession, ou qui sont ou étaient détenus pour leur compte, ou qui, en cette qualité, exerce une influence dominante sur ces biens ou s’en occupe autrement. (legal representative)
+[…]
+[Emphasis added.]
+[32] Therefore, according to the Respondent, in order for Mrs. Hansen, as an “heir”, to be considered a “person”, she must administer, wind-up, control or deal in a representative or fiduciary capacity with the property of the Estate, which is not the case here. Since Mrs. Hansen was not, and has never been, an executor, liquidator, trustee or administrator of the Estate, she is not legally authorized to represent the Estate. As such, Mrs. Hansen is not a “legal representative” of the Estate. Therefore, she is not of any of the types of “legal representative” included in the definition of “person” and “taxpayer”. Consequently, the Respondent is of the view that the Notices of Objection as well as the Notice of Appeal are invalid.
+[33] For the following reasons, I do not agree with the Respondent’s submission.
+[34] The definition of “person” specifically refers to the fact that the enumeration in the definition (namely, “the heirs, executors, liquidators of a succession, administrators or other legal representatives of such person”) must be interpreted “according to the law of that part of Canada to which the context extends”. Accordingly, the word “heir” as well as the words “legal representative” in the definition of “person” must be interpreted in relation to the applicable private law.
+[35] As Mrs. Straessle died intestate while she was domiciled in the province of Québec, we must refer to the private law of the province of Québec, namely, the Civil Code of Québec (CQLR c CCQ-1991) (the “CCQ”) to determine whether Mrs. Hansen is an heir of the Estate.
+[36] Under sections 653 to 667 of the CCQ, the heirs of an estate of a person domiciled in Québec who dies intestate are the spouse and the relatives of the deceased; and where there is no spouse, the estate goes entirely to the descendants of the deceased. In this case, Mrs. Hansen is one of the heirs of the Estate, being a descendant of the deceased, since Mrs. Straessle left no spouse at the time of her death.
+[37] The applicable provisions of the CCQ read as follows:
+653. Unless otherwise provided by testamentary provisions, a succession devolves to the surviving married or civil union spouse and relatives of the deceased, in the order and according to the rules provided in this Title. Where there is no heir, it falls to the State.
+. . .
+655. Relationship is based on ties of blood or of adoption.
+656. The degree of relationship is determined by the number of generations, each forming one degree. The series of degrees forms the direct line or the collateral line.
+657. The direct line is the series of degrees between persons descended one from another. The number of degrees in the direct line is equal to the number of generations between the successor and the deceased.
+. . .
+666. If the deceased leaves a spouse and descendants, the succession devolves to them.
+The spouse takes one-third of the succession and the descendants, the other two-thirds.
+667. Where there is no spouse, the entire succession devolves to the descendants.
+653. À moins de dispositions testamentaires autres, la succession est dévolue au conjoint survivant qui était lié au défunt par mariage ou union civile et aux parents du défunt, dans l’ordre et suivant les règles du présent titre. À défaut d’héritier, elle échoit à l’État.
+[…]
+655. La parenté est fondée sur les liens du sang ou de l’adoption.
+656. Le degré de parenté est déterminé par le nombre de générations, chacune formant un degré. La suite des degrés forme la ligne directe ou collatérale.
+657. La ligne directe est la suite des degrés entre personnes qui descendent l’une de l’autre. On compte alors autant de degrés qu’il y a de générations entre le successible et le défunt.
+[…]
+666. Si le défunt laisse un conjoint et des descendants, la succession leur est dévolue.
+Le conjoint recueille un tiers de la succession et les descendants les deux autres tiers.
+667. À défaut de conjoint, la succession est dévolue pour le tout aux descendants.
+[38] I am of the view that the word “heir” found in the definition of “person”, the meaning of which is determined in accordance with the applicable private law, does not necessarily have the same meaning as the word “heir” found in the definition of “legal representative of a taxpayer” as defined under subsection 248(1): in order for an “heir” to be a “legal representative of a taxpayer” under that latter definition, the heir must administer, wind-up, control or deal in a representative or fiduciary capacity with the property of the Estate.
+[39] Furthermore, if we were to refer to the definition of “legal representative of a taxpayer” found in subsection 248(1) to interpret the word “heir” in the definition of “person”, there would be no need to make reference to “heir” in that latter definition since the definition of “legal representative of a taxpayer” already makes reference to an “heir”. Adopting the Respondent’s interpretation would result in disregarding the enumeration found in the definition of “person” and therefore, would run contrary to the principle that courts should always interpret a statute “so as to give meaning to every term and to avoid redundancy” (Caithkin, supra).
+[40] The Court cannot follow the Respondent’s interpretation since it would result in setting aside the express wording of the Act according to which the word “person” includes any legal representative of such a person, “according to the law of that part of Canada to which the context extends”. I conclude that the definition of “legal representative of a taxpayer” found in subsection 248(1) does not apply to determine who is a “person” under the Act. In my view, the definition of “legal representative of a taxpayer” found in subsection 248(1) relates to the application of the Act (e.g. section 159 dealing with the liability of a legal representative of a taxpayer), while the reference to “legal representative” in the definition of “person” extends the meaning of “person” to include any legal representative of a person, under the applicable private law.
+[41] Therefore, in the present case, I am of the view that the word “heir” contemplated by the definition of “person” has to be interpreted in accordance with the CCQ; the CCQ does not require that, to be considered as an “heir”, one has to administer, wind-up, control or otherwise deal in a representative or fiduciary capacity with the property that belongs to another person. If I were to accept the Respondent’s interpretation, I would fail to give meaning to every word found in the definition of “person”. If Parliament intended that for an “heir” to be a “person” he must be a “legal representative of a taxpayer” as defined in the Act, it would have specifically so provided.
+[42] As the Federal Court of Appeal stated in Brown, supra, while referring to various definitions found in the Act, including the definitions of “person” and “taxpayer” under subsection 248(1):
+9 However, this is simply the choice of Parliament in determining what guidance will be provided in the interpretation of these terms by ensuring that these terms will include what is specifically referenced. . . .
+[Emphasis added.]
+[43] In conclusion, Mrs. Hansen qualifies as an heir of the Estate and she is, therefore, a “person” and a “taxpayer” as defined under subsection 248(1). Accordingly, Mrs. Hansen can object to the Reassessments under section 165 and initiate an appeal to this Court under section 169.
+[44] I would add that Parliament cannot have intended that an assessment be immune to a judicial challenge.
+[45] Furthermore, I conclude that Mrs. Hansen has legal capacity to commence or continue a proceeding for the Estate in this Court.
+[46] I also find that the Estate had pleaded sufficient basis in the Notice of Appeal to challenge the correctness of the Reassessments as the Notice of Appeal asserts that the late Mrs. Winifred Straessle had correctly reported her income for the relevant years.
+VII. CONCLUSION
+[47] The Motion is dismissed, with costs to the Appellant.
+[48] The Respondent shall have 15 days from the date of the final disposition of this Motion to file her Reply; the final disposition being the ultimate determination whether by this Court, the Federal Court of Appeal or the Supreme Court of Canada.
+Signed at Ottawa, Canada, this 17th day of July 2018.
+“Dominique Lafleur”
+Lafleur J.
+CITATION:
+2018 TCC 144
+COURT FILE NO.:
+2017-809(IT)G
+STYLE OF CAUSE:
+ESTATE OF WINIFRED STRAESSLE
+AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 9, 2018
+REASONS FOR ORDER BY:
+The Honourable Justice Dominique Lafleur
+DATE OF ORDER:
+July 17, 2018
+APPEARANCES:
+Counsel for the Appellant:
+James G. Morand
+Counsel for the Respondent:
+Paul Klippenstein
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+James G. Morand
+Firm:
+Cassels Brock & Blackwell LLP
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

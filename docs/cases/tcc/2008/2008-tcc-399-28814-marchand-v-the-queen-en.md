@@ -1,0 +1,182 @@
+---
+title: "Marchand v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28814/index.do"
+last_modified: "2008-06-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 399"
+citation2: ""
+neutral_citation: "2008 TCC 399"
+decision_date: "2008-06-27"
+language: "en"
+item_id: "28814"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1528
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:02:54.183000+00:00"
+cases_cited_count: 7
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0aaae1012d95c24cf0f49e93c3c42d4bdaa3cf58393772eaf25388442dfb6c57"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Marchand v. The Queen
+
+- Citation: 2008 TCC 399
+- Decision date: 2008-06-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1528, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marchand v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-27
+Neutral citation
+2008 TCC 399
+File numbers
+2006-1119(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1119(IT)G
+BETWEEN:
+MURIEL MARCHAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on June 19, 2008, at Quebec City, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+René Roy
+Counsel for the Respondent:
+Vlad Zolia
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under section 160 of the Income Tax Act, the notices of which bear the numbers 30628 and 13555 and are dated March 15, 2004, are allowed, with costs, and the assessments under appeal are vacated.
+Signed at Montreal, Quebec, this 27th day of June 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 24th day of December 2008.
+Erich Klein, Revisor
+Citation: 2008 TCC 399
+Date: 20080627
+Docket: 2006-1119(IT)G
+BETWEEN:
+MURIEL MARCHAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The Appellant is appealing from two assessments made by the Minister of National Revenue ("the Minister"), wherein the Minister claimed from her a first amount of $53,539.85 and a second amount of $14,288.40 under section 160 of the Income Tax Act (ITA). The two assessments were made on March 15, 2004, and bear the numbers 30628 and 13555. By these assessments, the Minister is attempting to collect from the Appellant the tax debts of 3094‑0530 Québec Inc. ("3094"), a corporation all of the shares of which are held by the Appellant's spouse, Jean‑Paul Biron, as well as the personal tax debts of Mr. Biron. The amount of the unpaid tax liabilities is not disputed. Those of 3094 totalled $53,547.88 for the taxation years 1994 through 2001, and Mr. Biron's totalled $73,400.95 for the taxation years 1994 through 2002.
+[2] The Minister relies on section 160 of the ITA in assessing the Appellant on the basis that 3094 transferred a total of $53,539.85 to her over the course of the years 1998, 1999, 2000, 2001 and 2002. In addition, it is alleged that Mr. Biron personally transferred a total of $14,288.40 to the Appellant between March 22, 2002 and January 3, 2003. The Appellant does not dispute the fact that these amounts were transferred to her.
+[3] However, the Appellant does dispute the assessments on the ground that the transfers in question were justified under the circumstances and were in performance of Mr. Biron's family obligations under Quebec civil law. Consequently, she submits that section 160 does not apply.
+Statutory provisions
+[4] Subsection 160(1) of the ITA reads as follows:
+160. (1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+160. (1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common- law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm’s length,
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts revisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années;
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+aucune disposition du présent paragraphe n’est toutefois réputée limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi.
+Facts
+[5] The evidence discloses that the Appellant married Mr. Biron in 1966 under the matrimonial regime known as separation as to property, in the province of Quebec. The marriage contract (Exhibit A‑1, Tab 8) states that the husband must assume all the expenses of the marriage, including the support of his wife and the upbringing of the children (section 2 of the marriage contract). They had three children, who were all in their twenties in 1999 and 2000 and still financially dependent on them.
+[6] Ever since the beginning of the marriage, Mr. Biron has always been the one who made the rent or hypothec payments (depending on whether the couple was renting or whether they owned their housing) and life insurance payments. He also paid the other household expenses, when necessary. According to the assessments, the Appellant's income during the years 1996 through 2003 varied from $6,000 to $34,000, and totalled $197,306 during that period. Mr. Biron's annual income varied from $9,584 to $76,826 during the same period, for a total of $272,139. Mr. Biron did not file an income tax return for 2000 (see subparagraph 7(e) of the Reply to the Notice of Appeal, which the Appellant admitted).
+[7] The couple were renters until 1972, when they purchased a property in Lac Beauport. That property was sold in 1992, and Mr. Biron purchased a condominium on René‑Lévesque Boulevard in Quebec City that same year. The condominium was sold at a loss on March 25, 1997, for $117,000 (Exhibit I‑4). Mr. Biron says that he sold it because, for one thing, he did not like it and, for another, because one of their children had come back to live with them, bringing a dependent child. They therefore moved temporarily to rental accommodation, for which the monthly rent varied from $1,155 to $1,190 (Exhibit A‑1, Tab 11). They lived there until 2000, when the Appellant purchased a condominium apartment on Rue des Remparts in Quebec City for $132,000 (Exhibit A‑1, Tab 6), the children having once again left. The Appellant had previously purchased a secondary residence in La Malbaie in 1980 for approximately $62,000; the property consisted of a lot with the residence, plus an undivided third of an adjacent vacant lot. The property in La Malbaie was sold in 2006.
+[8] 3094's bank accounts show that this corporation transferred to the Appellant the amounts required for the hypothec payments until March 1, 2002; then, starting on March 22, 2002, the bank transfers were made from a personal account that Mr. Biron had opened for himself, into the Appellant's account (Exhibit A‑1, Tab 1).
+[9] Mr. Biron explained that since 3094 was wholly owned by him, he made no distinction between his personal account and 3094's account. He opened a personal account in 2002 when he found employment as a sales manager, which paid him both a salary and commission. 3094's financial statements show under assets advances to the director (Mr. Biron) totalling $162,089 in 1999, $301,206 in 2000, and $390,033 in 2001 (Exhibit A‑1, Tabs 9 and 10). Mr. Biron acknowledges that these advances were not solely for hypothecary expenses, but covered other personal expenses as well.
+[10] It would appear that Mr. Biron was assessed on these advances because he did not declare them to the tax authorities. 3094 did not pay Mr. Biron either a salary or dividends.
+[11] In June 2000, the Appellant applied for a $144,310 loan for the purchase of the Rue des Remparts property ($132,000) and the consolidation of two prior hypothecary loans ($12,310), one of which was a renovation loan for the secondary residence in La Malbaie ($6,000) (Exhibit I‑5). The loan was secured by the Rue des Remparts property and the residence in La Malbaie.
+[12] Mr. Biron went personally bankrupt on January 8, 2003 (Exhibit I‑6). Almost all the debts were to the provincial and federal tax authorities (approximately $215,000) and Mr. Biron reported practically no assets ($3,500 in all). At the time, the Appellant, his wife, owned the Rue des Remparts property and the secondary residence in La Malbaie, which, according to his testimony, she sold for $375,000 in September 2006.
+[13] As for the Appellant, she testified that she has been responsible for paying the household expenses throughout the marriage.
+The parties' arguments
+[14] The Appellant submits that the funds transferred into her bank account were primarily if not almost exclusively used to pay hypothec and life insurance costs. According to the line of cases consisting of Yates v. The Queen, 2007 TCC 498 (on appeal before the Federal Court of Appeal); Ducharme v. The Queen, 2004 TCC 391 (affirmed by the Federal Court of Appeal, 2005 FCA 137, [2005] F.C.J. No. 713 (QL)); Ferracuti v. The Queen, TCC, October 2, 1998, 96-770(IT)G, [1999] 1 C.T.C. 2420, [1998] T.C.J. No. 883 (QL); Michaud v. Canada, [1998] T.C.J. No. 908 (QL), 99 DTC 43; Dupuis v. The Queen, 93 DTC 723; and Leblanc v. The Queen, 2008 TCC 242, any payment in performance of a legal obligation to provide for one's family, to the extent that the payment is made in order to meet vital and reasonable expenses, is not caught by section 160 of the ITA.
+[15] The Respondent invokes another line of cases, which hold that payments in performance of a family obligation constitute a liberality for which no consideration is given, and thus are caught by section 160, even if the payments cover basic family expenses (see Tétrault v. Canada, 2004 TCC 332, [2004] T.C.J. No. 265 (QL); Mathieu v. Canada, 2004 TCC 135, [2004] T.C.J. No. 338 (QL); Raphael v. Canada, [2000] T.C.J. No. 688 (QL); Logiudice v. Canada, [1997] T.C.J. No. 742 (QL)). In the alternative, the Respondent submits that the Appellant was enriched by these money transfers and therefore did not provide consideration equal to the fair market value of the amounts transferred.
+Analysis
+[16] Contribution toward the expenses of the marriage is a legal obligation set out in article 396 of the Civil Code of Québec:
+396. The spouses contribute towards the expenses of the marriage in proportion to their respective means.
+396. Les époux contribuent aux charges du mariage à proportion de leurs facultés respectives.
+The spouses may make their respective contributions by their activities within the home.
+Chaque époux peut s'acquitter de sa contribution par son activité au foyer.
+[17] Thus, I agree with the remarks of Judge Lamarre Proulx in Michaud, supra, that "a payment on a hypothec on a family residence is not in the nature of a transfer of property made without valuable consideration if the person making it does so in performing the legal obligation to provide for his or her family's needs" (paragraphs 19 and 20). Moreover, this view appears to have been approved by the Federal Court of Appeal in Ducharme, supra, where it was acknowledged that hypothec payments made by the husband on the family residence that belonged to the wife were made in consideration of the right, given to him by the wife, to use the family residence. In my opinion, Ducharme casts serious doubt on the proposition enunciated in Tétrault, supra, that contributions toward household expenses constitute a mere liberality, for which no consideration is given. In fact, the Federal Court of Appeal had already cast doubt on that proposition in Raphael v. Canada, 2002 FCA 23, [2002] F.C.J. No. 82 (QL). At first instance, the judge had stated that "domestic obligations, however, cannot be 'consideration' within the meaning of section 160" (Raphael v. Canada, supra, at paragraph 27). The Federal Court of Appeal held as follows on the appeal from the judgment at first instance:
+[12] We do not wish to be taken however, as agreeing with all of the comments of the Tax Court Judge relating to whether there can be a consideration given between husband and wife so as to preclude the application of section 160(1).
+[18] Moreover, in Yates, supra, currently on appeal before the Federal Court of Appeal, McArthur J. of this Court added the following restriction:
+[19] I accept the second approach to the effect that certain limited payments made for some household expenses by a spouse, who is obligated to support his or her family, are not subject to subsection 160(1). I believe these expenditures should be for daily living necessities as opposed to permitting an accustomed lavish standard of living. The Appellant cited the following cases which support this: Michaud v. Canada,7 Ferracuti v. Canada,8 Laframboise v. Canada9 and Ducharme v. Canada.10
+7 [1998] T.C.J. 908.
+8 [1998] T.C.J. 883.
+9 [2002] T.C.J. No. 628.
+10 [2004] T.C.J. No. 284; [2005] F.C.J. No. 713.
+[19] This approach seems reasonable to me. Transfers of money by a tax debtor to the tax debtor's spouse in order to avoid paying the tax debtor's own tax debts, where the amounts so transferred go beyond what is required to meet the taxpayer's support obligations, cannot be allowed.
+[20] In the instant case, the Appellant's husband undertook, in the marriage contract, to assume the expenses of the marriage in their entirety. It is admitted that, over an eight‑year period (1996‑2003), the Appellant generated $197,306 in income, while her husband earned $272,139 for the same period, not including the year 2000, for which he neglected to file his income tax return. This adds up to $469,445 in total family income for those eight years, and represents an average annual family income of $58,680. The parties acknowledge that Mr. Biron's company transferred $53,539.85 to the Appellant over five years and that Mr. Biron transferred $14,288.40 to her over a little under 11 months. This comes to $67,828.25 in total over a period of a little under six years, or $11,305 a year. Thus, based on the average annual family income of $58,680, Mr. Biron would have transferred 19% of the family income ($11,305 ÷ $56,580) as hypothec and life insurance payments (according to the evidence in the record). This percentage would be even lower if the income not reported by Mr. Biron in 2002 were taken into account. It was stated, moreover, that monthly rental payments varying from $1,155 to $1,190 were made between 1997 and 2000, and subsequently, hypothec payments for an apartment purchased for $132,000 in 2000. This strikes me as being far from excessive.
+[21] What outrage the Respondent are the advances to the director, which increased from $162,089 in 1999 to $390,033 in 2001, without being reported as income by Mr. Biron. This came out in the evidence, but no allegations of that nature were made in the Reply to the Notice of Appeal. The Respondent has not shown that these amounts were transferred to the Appellant. Apart from the aforementioned transfers, which the Appellant has acknowledged, there is no indication what the advances to the director were used for. Mr. Biron said that they were for his personal expenses. He may have contributed to meeting the other household expenses, as he was required to do under the marriage contract, but he may also have used those amounts for his own purposes. The Appellant testified credibly, and there is no indication of an excessive and unreasonable lifestyle. She has no control over her husband's tax obligations. To be sure, the object of section 160 of the ITA is to protect the tax authorities from situations in which spouses enrich themselves at the tax authorities' expense. But this is not such a case. The Appellant's husband contributed to meeting household expenses by making hypothec and life insurance payments, either personally or through his corporation. The Appellant was entitled to receive these amounts, which, at that, were well below what her husband was supposed to be paying, considering that she generated 42% of the total income (again, without including 2002).
+[22] As for the residence in La Malbaie, it was purchased by the Appellant in 1980 for a reasonable amount of $62,000, well before the years in which Mr. Biron began to accumulate tax debts. The fact that the residence was sold at a profit in 2006, that is, after the years in issue, does not alter the situation at all as far as the application of section 160 of the ITA is concerned because that property always belonged to the Appellant and therefore cannot be caught by section 160, which refers to transfers of property.
+[23] It is true that that residence was used as collateral when the Appellant borrowed the $144,310 for the purchase of the Rue des Remparts property, but, in my opinion, this fact alone does not mean that the Appellant enriched herself to the detriment of the tax authorities.
+[24] Indeed, there is no evidence that the transfers of money to the Appellant were used for anything other than meeting support obligations that were legally the husband's, that is, Mr. Biron's. The couple made no profit on the sale of its property in 1997, and, in 2000, the Appellant hypothecated all of the property located on Rue des Remparts. Mr. Biron's payments on this hypothec represented a part of his support contribution, for which, in light of the decision in Ducharme, consideration was given.
+[25] Consequently, I am of the opinion that section 160 of the ITA does not apply under the circumstances.
+[26] The appeals are allowed, with costs, and the assessments under appeal are vacated.
+Signed at Montreal, Quebec, this 27th day of June 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 24th day of December 2008.
+Erich Klein, Revisor
+CITATION: 2008 TCC 399
+COURT FILE NO.: 2006-1119(IT)G
+STYLE OF CAUSE: MURIEL MARCHAND v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Quebec City, Quebec
+DATE OF HEARING: June 19, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: June 27, 2008
+APPEARANCES:
+Counsel for the Appellant:
+René Roy
+Counsel for the Respondent:
+Vlad Zolia
+COUNSEL OF RECORD:
+For the Appellant:
+Name: René Roy
+Firm: Fasken Martineau DuMoulin LLP
+Quebec City, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

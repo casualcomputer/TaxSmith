@@ -1,0 +1,217 @@
+---
+title: "Vandervelde c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29198/index.do"
+last_modified: "2009-03-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 200"
+citation2: ""
+neutral_citation: "2009 CCI 200"
+decision_date: "2009-03-25"
+language: "fr"
+item_id: "29198"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6695
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:01:58.931000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "57ff6a1f172db374c412ce2739564ad82672ba4c4ebb8db9dd8eb7e0303a7b3c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vandervelde c. M.R.N.
+
+- Citation: 2009 CCI 200
+- Decision date: 2009-03-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6695, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vandervelde c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-25
+Référence neutre
+2009 CCI 200
+Numéro de dossier
+2008-1877(EI)
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-1877(EI)
+ENTRE :
+MARK VANDERVELDE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+JULIEN BRANCH,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Mark Vandervelde (2008‑2583(CPP)) le 25 mars 2009, à Nanaïmo (Colombie‑Britannique).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimé :
+Me Whitney Dunn
+Pour l’intervenant :
+Personne n’a comparu
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli sans dépens et la décision du ministre est annulée, conformément aux motifs du jugement rendus oralement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 22e jour d’avril 2009.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 9e jour de juin 2009.
+Marie-Christine Gervais, traductrice
+Dossier : 2008-2583(CPP)
+ENTRE :
+MARK VANDERVELDE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+JULIEN BRANCH,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Mark Vandervelde (2008‑1877(EI)) le 25 mars 2009, à Nanaïmo (Colombie‑Britannique).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimé :
+Me Whitney Dunn
+Pour l’intervenant :
+Personne n’a comparu
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli sans dépens et la décision du ministre est annulée, conformément aux motifs du jugement rendus oralement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 22e jour d’avril 2009.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 9e jour de juin 2009.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 200
+Date : 20090422
+Dossiers : 2008-1877(EI)
+2008-2583(CPP)
+ENTRE :
+MARK VANDERVELDE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+JULIEN BRANCH,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Version révisée de la transcription des motifs d’ordonnance rendus oralement à l’audience le 25 mars 2009, à Nanaïmo (Colombie‑Britannique)).
+Le juge Little
+A. FAITS :
+[1] Pendant de nombreuses années, l’appelant et son ex‑épouse ont fourni des services de nettoyage à des succursales de la Banque Royale du Canada (ci‑après la « Banque Royale ») situées à Parksville (C.‑B.) et à Qualicum (C.‑B.). Ils fournissaient les services à titre d’entrepreneurs indépendants, c’est‑à‑dire qu’ils n’étaient pas des employés de la Banque Royale.
+[2] Une société portant le nom de Bee Clean Limited (ci‑après « Bee Clean ») avait conclu une entente visant la prestation de services de nettoyage à des succursales exploitées par la Banque Royale partout au pays. L’appelant et son ex‑épouse avaient accepté d’être des sous‑traitants de Bee Clean et de fournir les services de nettoyage aux succursales de la Banque Royale situées à Parksville et à Qualicum.
+[3] L’appelant et son ex‑épouse se sont séparés en novembre 2003. Au milieu de l’année 2004, l’appelant a commencé à effectuer les travaux de nettoyage lui‑même en tant que sous‑traitant de Bee Clean.
+[4] En 2006, l’appelant a acheté une maison à Port Alberni (C.‑B.). Il a toutefois continué de se rendre à Parksville pour son emploi de jour ainsi que pour son travail de nettoyage à Parksville et à Qualicum.
+[5] L’appelant a dit que tous ces emplois et ces déplacements l’avaient épuisé et qu’il avait besoin d’aide. L’appelant a placé une offre d’emploi sur le site de Services Canada, et M. Julien Branch y a répondu (M. Branch est ci‑après appelé le « travailleur »).
+[6] L’appelant a dit qu’il avait rencontré le travailleur pendant qu’il nettoyait une des succursales et qu’il lui avait fait part de sa situation pour ce qui était de son travail de nettoyage.
+[7] L’appelant a témoigné qu’il avait embauché le travailleur pour qu’il fournisse des services de nettoyage aux deux succursales quatre jours par semaine. Le travailleur devait fournir les services de nettoyage le mardi, le mercredi, le jeudi et le vendredi. L’appelant a également indiqué dans son témoignage qu’il avait dit au travailleur qu’il travaillerait en tant que sous‑traitant au taux de 500 $ par mois. L’appelant a affirmé qu’il avait également dit au travailleur qu’il recevrait une somme mensuelle de 500 $ en espèces et qu’aucune retenue ne serait faite aux fins de l’assurance‑emploi, du régime de pensions du Canada ou de l’impôt sur le revenu.
+[8] L’appelant a indiqué dans son témoignage que le travailleur avait accepté cet arrangement et qu’il avait travaillé en tant que sous‑traitant pendant la période allant du 1er février 2006 au 27 février 2007 (soit une période d’environ 13 mois (ci‑après la « période »)).
+[9] L’appelant a affirmé qu’il avait continué de faire des travaux de nettoyage pour Bee Clean tous les lundis et qu’il faisait également des [TRADUCTION] « travaux supplémentaires » pour Bee Clean, notamment enlever les graffitis sur les murs de la banque et enlever la neige, ainsi que d’autres travaux de sécurité précisés par Bee Clean. L’appelant a dit que Bee Clean lui versait 1 010 $ par mois pendant la période et que les paiements supplémentaires correspondaient aux travaux additionnels qualifiés de « travaux supplémentaires ».
+[10] Comme je l’ai déjà mentionné, l’appelant versait 500 $ par mois au travailleur pendant la période, conformément à l’entente de sous‑traitance. L’appelant a dit que, pendant la période, le travailleur avait également continué de fournir des services de nettoyage à deux succursales de la Banque Canadienne Impériale de Commerce, l’une à Parksville et l’autre à Qualicum.
+[11] L’appelant a également affirmé que Bee Clean fournissait, aux succursales bancaires, les produits et le matériel de nettoyage dont lui ou le travailleur avait besoin pour fournir les services de nettoyage. L’appelant a également indiqué dans son témoignage que le travailleur était un nettoyeur expérimenté et qu’il n’avait pas besoin d’être supervisé. Il a également dit qu’il ne savait pas quand, c.‑à‑d. à quel moment, le travailleur fournissait les services de nettoyage.
+[12] Le 22 novembre 2007, le ministre du Revenu national a rendu une décision dans laquelle il indiquait que le travailleur occupait un emploi assurable auprès de l’appelant pendant la période allant du 1er février 2006 au 27 février 2007.
+B. QUESTION EN LITIGE :
+[13] La question est de savoir si le travailleur exerçait un emploi assurable auprès de l’appelant pendant la période.
+C. ANALYSE ET DÉCISION :
+[14] Pour trancher les questions en litige dans des causes de ce genre, les cours ont fourni de nombreux critères. Par exemple, dans l’arrêt Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025 (CAF), le juge MacGuigan a énoncé les critères suivants :
+a) contrôle;
+b) propriété des instruments de travail;
+c) possibilité de profit;
+d) risque de perte.
+En ce qui concerne le contrôle, en l’espèce, comme je l’ai indiqué, l’appelant n’exerçait aucun contrôle sur le travailleur. Celui‑ci savait quoi faire parce qu’il était un nettoyeur expérimenté. Le travailleur pouvait également nettoyer les succursales de la Banque Royale quand il le voulait et faire d’autres travaux de nettoyage pendant la même période.
+[15] À cet égard, je voudrais renvoyer brièvement à une partie de l’avis d’appel déposé par l’appelant, où il est mentionné ce qui suit :
+[TRADUCTION]
+Il y a également de nombreux autres points, notamment que Julien (c.‑à‑d. le « travailleur ») pouvait travailler pour d’autres personnes et fournir ses services à différents payeurs au même moment, ce qu’il faisait déjà lorsque je l’ai rencontré.
+Pour résumer, le travailleur :
+· n’était pas supervisé;
+· n’avait pas d’horaire de travail fixe;
+· accomplissait le travail comme bon lui semblait;
+· apportait son propre matériel, s’il le désirait, ou utilisait celui de Bee Clean;
+· effectuait ses activités quotidiennes sans qu’aucun contrôle ne soit exercé sur lui;
+· travaillait de façon indépendante;
+· pouvait prendre deux heures ou dix heures pour faire le travail – cela importait peu, car le paiement était le même;
+· faisait le travail quand il voulait, en autant que le travail soit accompli;
+· travaillait pour qui d’autre il voulait;
+· utilisait les méthodes de travail qu’il voulait;
+· pouvait demander à d’autres personnes de faire son travail.
+[16] Il est évident qu’il n’y avait pas de contrôle dans le sens habituel du terme.
+[17] Propriété des instruments de travail – Comme il est indiqué ci‑dessus, les outils étaient fournis par Bee Clean. Ce critère n’est pas concluant.
+[18] Possibilité de profit – Le travailleur ne pouvait pas faire plus d’argent, à moins de renégocier l’entente qu’il avait conclue avec l’appelant.
+[19] Intention – L’appelant a témoigné que l’intention était très claire : le travailleur devait être un entrepreneur indépendant. Aucune preuve n’a été produite pour réfuter son témoignage.
+[20] Compte tenu de la situation, il est évident, à mon avis, que le travailleur exploitait sa propre entreprise et qu’il n’était pas un employé de l’appelant.
+[21] J’ai également fait référence à plusieurs décisions judiciaires, notamment Wiebe Door (voir le paragraphe 14), 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] A.C.S. no 61, à la Cour suprême du Canada, et Lang et al. v. M.N.R., 2007 DTC 1754, une décision rendue par l’ancien juge en chef Bowman. J’accepte également le témoignage sous serment irréfuté de l’appelant, et je conclus que les appels interjetés en vertu de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada doivent être accueillis sans dépens.
+Signé à Vancouver (Colombie‑Britannique), ce 22e jour d’avril 2009.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 9e jour de juin 2009.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2009 CCI 200
+NOS DES DOSSIERS DE LA COUR :
+2008-1877(EI) et
+2008-2583(CPP)
+INTITULÉ :
+Mark Vandervelde et
+le ministre du Revenu national et Julien Branch
+LIEU DE L’AUDIENCE :
+Nanaïmo (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 25 mars 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge L.M. Little
+DATE DU JUGEMENT RENDU ORALEMENT :
+Le 22 avril 2009
+COMPARUTIONS :
+Pour l’appelant :
+Avocate de l’intimé :
+L’appelant lui‑même
+Me Whitney Dunn
+Pour l’intervenant :
+Personne n’a comparu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada Ottawa, Canada

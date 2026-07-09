@@ -1,0 +1,191 @@
+Title: Mandel v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/483467/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-76-483467-mandel-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-08-04
+
+# Mandel v. The Queen
+
+- Citation: 2020 TCC 76
+- Decision date: 2020-08-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4558, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mandel v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-08-04
+Neutral citation
+2020 TCC 76
+File numbers
+2019-2965(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-2965(IT)I
+BETWEEN:
+MARC MANDEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on January 13, 2020, at Montreal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Olivier Charbonneau-Saulnier
+JUDGMENT
+The appeal from the July 11, 2019, reassessment made by the Minister of National Revenue under the Income Tax Act with respect to the appellant's 2013 taxation year is dismissed with costs in accordance with the attached reasons for judgment.
+Signed at Montreal, Quebec, this 4th day of August 2020.
+"Réal Favreau"
+Favreau J.
+Citation: 2020 TCC 76
+Date: 20200804
+Docket: 2019-2965(IT)I
+BETWEEN:
+MARC MANDEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT BY:
+Justice Favreau
+[1] The appellant is appealing a July 11, 2019, reassessment for the 2013 taxation year made by the Minister of National Revenue (the Minister) pursuant to the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the Act).
+[2] The July 11, 2019, reassessment followed the September 11, 2018, and April 7, 2016, reassessments and the initial September 3, 2014, assessment for the appellant's 2013 taxation year.
+[3] The July 11, 2019, September 11, 2018, and April 7, 2016, reassessments involved the tax treatment of a real estate transaction made by the appellant on February 13, 2013, which he did not report in his 2013 return. Pursuant to these reassessments, penalties for gross negligence and late filing of an income tax return were imposed on the appellant, plus interest charges.
+[4] The appellant's appeal only involves the gross negligence penalty and the related interest charges.
+[5] The Minister relied on the following facts in determining the gross negligence penalty to be imposed on the appellant for the 2013 taxation year:
+a) The appellant is retired and owns a four-unit residential building located at 201 De la Commune West, in Montreal;
+b) The building was acquired in 2005;
+c) One of the units was converted into a condo and sold on February 13, 2013;
+d) The unit that was sold, 207 De la Commune West, occupies 16% of the building's surface area;
+e) The appellant did not report the February 13, 2013, real estate transaction;
+f) The taxable capital gain was computed as follows:
+Adjusted cost base
+Capital cost
+$2,100,000
+Land transfer tax
+$30,000
+Professional fees
+$32,860
+Portion sold 16%
+$346,057
+Total:
+$2,162,860
+Proceeds of disposition:
+Proceeds of disposition
+$625,000
+Sale costs
+$7,186
+Net proceeds of disposition
+$617,813
+Capital gain and taxable capital gain:
+Net proceeds of disposition
+$617,813
+Adjusted cost base
+$346,057
+Capital gain
+$271,756
+Taxable capital gain (50%)
+$135,878
+g) The amount of the unreported taxable capital gain is 100% of the appellant's net income;
+h) The taxpayer requested that $135,878 of his previous non-capital losses (PNCL) be applied against his income for the 2013 taxation year;
+i) Interest on the outstanding balances was computed at the prescribed rate;
+j) The appellant was responsible for enquiring about the tax consequences of selling the unit;
+k) The appellant failed to exercise due diligence in conducting his business and his tax affairs.
+[6] Marc Mandel testified at the hearing. He explained that, on May 5, 2005, he acquired a site identified in the Quebec assessment roll as lot 1 181 258 with the buildings erected on it, i.e. buildings located at 201-207 De la Commune West and 110-114 De Callières in Montreal for a price of $2,100,000. At the time, Mr. Mandel was an annuitant and resided at 25 Place des Voges in Paris, France. Before retiring, Mr. Mandel was an editor of an arts magazine.
+[7] The building acquired by Mr. Mandel was erected in 1830. It was a classified cultural property, located in a historic and archaeological district, under the Cultural property act. The building consisted of four residential apartments and a commercial space. Mr. Mandel had more than $1,000,000 of major work done on the building over nearly five years.
+[8] When the building was purchased, there were two leases generating gross rents of $40,596.00 per year. Both tenants terminated their leases in 2005.
+[9] Mr. Mandel married Perla Bolanos under the separation of property regime, in accordance with a marriage contract signed before Anne Guérin, notary, on August 21, 2008. He became a Canadian resident in 2010.
+[10] On August 17, 2012, Mr. Mandel sold Perla Bolanos, Kristel Chiara and Gianluca Chiara 9% of his ownership of lot 1 181 258 with the building constructed on it bearing the numbers 201-207 De la Commune West in Montreal. Kristel Chiara and Gianluca Chiara are Perla Bolanos's daughter and son. Under this sale, each buyer became an undivided co-owner of 3% of the building for a price of $600,000, and the seller kept an undivided 91% share of the building. Pursuant to the bill of sale, the co-owners agreed to exercise their right of co-ownership as follows:
+- Marc Mandel had the exclusive use and enjoyment of unit 4 and the commercial space on the ground floor;
+- Perla Bolanos had the exclusive use and enjoyment of unit 3;
+- Kristel Chiara had the exclusive use and enjoyment of unit 2; and
+- Gianluca Chiara had the exclusive use and enjoyment of unit 1.
+[11] On December 20, 2012, the building identified in the Quebec assessment roll as lot 1 181 258 with the building described above bearing the numbers 201 to 207 De la Commune West in Montreal was converted into a condominium pursuant to a notarial deed. Each private part of the building was individually identified in the Quebec assessment roll. Each co-owner of the private areas had to comply with the requirements governing the enjoyment, use and maintenance of the private areas of the building, which were enacted in the building bylaws. Section 15 of the notarial deed stipulated that the building was to be used as follows [translation]:
+- The ground floor (street level) and the basement floor are to be used for business purposes, excluding a catering business;
+- The 1st, 2nd and 3rd floors and the mezzanine floor are for residential dwellings.
+[12] On December 20, 2012, a deed of correction made before a notary corrected the price on the August 17, 2012, bill of sale. Instead of a $600,000 sale price for each buyer, the total selling price payable by each buyer was reduced to $18,000.
+[13] On February 13, 2013, the appellant, Perla Bolanos, Kristel Chiara and Gianluca Chiara sold apartment 1, 207 De la Commune West, to Andrew Philippakis and Angie Cecilia Di Francesco for a price of $625,000. The buyers had occupied apartment 1 since December 22, 2012.
+[14] On February 19, 2013, Perla Bolanos, Kristel Chiara and Gianluca Chiara signed a notarial deed returning ownership of the private areas of the building to the appellant, retroactively to December 22, 2012. The addresses were: 207 De la Commune West, apartments 2, 3 and 4, in Montreal. The appellant also received the undivided shares in the common areas relating to the private areas. This transfer was made pursuant to a retrocession under private seal signed by the parties on December 22, 2012. The consideration for the transfer was not specified in the deed. This deed was not published in the Ville de Montréal's index of immovables. Pursuant to this retrocession, the appellant was again the sole owner of the building.
+[15] The remainder of Mr. Mandel's testimony focused on the other real estate transactions that he made in Canada. He referred to the June 28, 2010, transaction where the appellant, Perla Bolanos and Kristel Chiara sold the private portion of a building located at 2254, rue Chapleau in Montreal for the sum of $238,500. He also referred to the 2016 sale of a single-family residence that he co-owned at 129 Rue d'Orléans in Sainte-Julie. Finally, Mr. Mandel confirmed that on October 1, 2009, he and his wife acquired a 50% interest in a real estate development in Muskoka, Ontario, through 2025753 Ontario Inc. He was the president of this company.
+[16] Michel Dulac, the appeals officer for the Canada Revenue Agency (the CRA) who dealt with the appellant's case, also testified at the hearing. Mr. Dulac provided the history of the appellant's tax assessments for the 2013 taxation year. Mr. Dulac explained that the appellant did not report the transaction in his 2013 income tax return, which was prepared by the accountant's firm, Williams et Associés inc.
+[17] Mr. Dulac explained that, following an audit by the Agence du Revenu du Québec, the proceeds of the transaction were originally treated as business income. After the appellant sent the Agence du Revenu du Québec a notice of objection, the transaction was considered to have generated a $135,878.00 taxable capital gain. The appellant asked that his 2005 non-capital losses be applied against the capital gain. The appellant's request was accepted, and the September 11, 2018, and July 11, 2019, reassessments reflected these changes.
+Positions of the parties
+[18] The appellant admitted that he did not report the income from the February 13, 2013, sale of apartment 1 at 207 De la Commune West. He alleged that it was a simple error attributable to a misinterpretation of the Act.
+[19] According to the appellant, the error resulted from information provided by the Agence du Revenu du Québec as part of an assessment dated March 21, 2012, for the appellant's 2008 taxation year. The information was about a correction of his income (or loss) from the rental of a building. It was reduced to zero to take into account the percentage of the appellant's personal use of the building, located at 207 De la Commune West in Montreal. The percentage was reviewed and increased to 100%. Based on this information, the appellant believed that the whole building could be considered his principal residence.
+[20] The appellant therefore believed that the sale of part of his principal residence was not taxable and that he was not required report the transaction on his 2013 income tax return.
+[21] According to the respondent, the appellant knowingly, or under circumstances amounting to gross negligence, made a false statement or omission by failing to report the income.
+[22] The appellant deposited the proceeds of the sale into his bank account and did not inform his accountant.
+[23] The unreported income represented 100% of the appellant's income in 2013.
+[24] The appellant is an experienced businessman who has made several real estate transactions and several sophisticated transactions, such as the conversion of the apartments into condominium units and the retrocession of the condominium units on February 19, 2013. The appellant therefore had access to professionals who could advise him.
+[25] The appellant was negligent in not seeking advice from these professionals. He knew or ought to have known that the principal residence exemption could not apply in his case because he never lived in apartment 1.
+The law
+[26] Taxpayers who contravene subsection 163(2) of the Act are liable to penalties. Subsection 163(2) stipulates the following:
+False statements or omissions
+Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of . . ..
+[27] Subsection 163(3) of the Act provides that, in an appeal from penalty assessed by the Minister under section 163, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+Analysis
+[28] In this case, the appellant admitted that he failed to report the income or gain from the disposition of apartment 1, made on February 13, 2013. It is settled law that this in itself constituted a false statement or omission when the appellant filed his 2013 income tax return.
+[29] The next step is to determine whether the appellant, knowingly, or in circumstances amounting to gross negligence, omitted to report the income or gain on his tax return.
+[30] In Wynter v. Canada, 2017 FCA 195, the Federal Court of Appeal distinguished between gross negligence and wilful blindness.
+[31] According to Mr. Justice Rennie, a taxpayer is wilfully blind in circumstances where the taxpayer becomes aware of the need for inquiry but declines to make the inquiry because the taxpayer does not want to know, or studiously avoids, the truth (at paragraph 13). Justice Rennie further stated that "the jurisprudence does not support the conclusion that an intention to cheat is a prerequisite for a finding of knowledge, and in particular, of wilful blindness" (at paragraph 15). The Judge concluded on this point as follows:
+[16] In sum, the law will impute knowledge to a taxpayer who, in circumstances that suggest inquiry should be made, chooses not to do so. The knowledge requirement is satisfied through the choice of the taxpayer not to inquire, not through a positive finding of an intention to cheat.
+[32] Justice Rennie explained what constitutes gross negligence in these terms:
+[18] Gross negligence is distinct from wilful blindness. It arises where the taxpayer's conduct is found to fall markedly below what would be expected of a reasonable taxpayer. Simply put, if the wilfully blind taxpayer knew better, the grossly negligent taxpayer ought to have known better.
+[33] According to Justice Rennie, "gross negligence requires a higher degree of neglect than a mere failure to take reasonable care. It is a marked or significant departure from what would be expected. It is more than carelessness or misstatements. . . " (at paragraph 19).
+[34] In Venne v. Her Majesty the Queen, [1984] FCJ no. 314, (page 14, FCTD), Mr. Justice Strayer explained how "gross negligence" must be interpreted:
+. . . "Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. . . .
+[35] Applying these principles in the factual framework of this appeal leads me to find that the appellant demonstrated wilful ignorance and committed gross negligence in failing to report in his income tax return the profit he knew he had made from the disposition of apartment 1. The appellant's conduct amounts to gross negligence and is a marked departure from the standards, practices and due diligence expected of a responsible taxpayer.
+[36] The appellant is an experienced businessman who owned several properties in France, Portugal, Ontario and Quebec. He invested significant sums in 207 De la Commune West in Montreal, including $2,100,000 for the purchase and over $1,000,000 for renovations. He made very sophisticated real estate transactions involving this building: the sale of a 9% undivided interest in the building on August 17, 2012, the conversion of the building into a condominium on December 20, 2012, the December 20, 2012 deed of correction reducing the sale price of the apartments from $600,000 to $18,000 and the February 19, 2013, deed of retrocession of the apartments previously sold to his spouse and his spouse's two children. To make these transactions, the appellant retained the services of real estate professionals: a notary and an accountant.
+[37] The transactions described above were intended to allow the sale of the apartment, and this is what the appellant achieved on February 13, 2013.
+[38] The evidence in the record does not contain any indication that the appellant consulted his accountant or other professional advisor regarding the tax consequences of the sale of apartment 1. In my opinion, a knowledgeable and prudent person in the appellant's position should at least have considered the tax treatment of the transaction and raised the issue with his advisers. This is especially true in these circumstances. On February 19, 2013, the appellant made a retrocession of the property rights in the building that he had previously transferred to his spouse and his spouse's two children, even after the appellant, his spouse and his spouse's two children had sold their respective rights to apartment 1 on February 13, 2013. By acting in this manner, the appellant became the sole owner of the whole building and of apartment 1, the only person who made a profit on the sale and the only one required to pay tax on the profit. These facts show that the appellant was very much aware of the tax consequences that would result from the sale.
+[39] The appellant's allegation that he made a simple error attributable to a misinterpretation of the Act is implausible because the assessment made by the Agence du Revenu du Québec to which the appellant referred was for the appellant's 2008 taxation year, i.e. several years before the transactions made by the appellant with regard to the building (joint ownership, condominium, etc.). Also, the assessment at issue referred only to personal use of the building and did not touch upon the concept of principal residence with respect to the whole building. It is hard to imagine how a commercial space on the ground floor of 207 De la Commune West in Montreal could qualify as a principal residence.
+[40] In any event, the appellant was negligent in not asking his advisers about the conditions under which the principal residence exemption applied. At the time of the sale, he was not living in apartment 1.
+[41] After having considered these facts, I conclude that in this case there was the degree of negligence required to warrant the imposition of the penalty set out in subsection 163(2) of the Act.
+[42] With regard to the interest, the Court has no jurisdiction to set aside all or part of the interest charged to the appellant. This is within the Minister's purview under subsection 220(3.1) of the Act.
+[43] For these reasons, Mr. Mandel's appeal is dismissed.
+Signed at Montreal, Quebec, this 4th day of August 2020.
+"Réal Favreau"
+Favreau J.
+CITATION:
+2020 TCC 76
+DOCKET:
+2019-2965(IT)I
+STYLE OF CAUSE:
+MARC MANDEL v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+January 13, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+August 4, 2020
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Olivier Charbonneau-Saulnier
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+[BLANK]
+Firm:
+[BLANK]
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

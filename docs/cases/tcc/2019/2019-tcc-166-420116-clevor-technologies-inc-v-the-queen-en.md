@@ -1,0 +1,170 @@
+---
+title: "Clevor Technologies Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/420116/index.do"
+last_modified: "2019-08-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 166"
+citation2: ""
+neutral_citation: "2019 TCC 166"
+decision_date: "2019-08-14"
+language: "en"
+item_id: "420116"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4221
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:06:12.700000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "43fb76a9692d93801ebdcfdf86c9bd8313281de9e3f196f3f226a340c9c9247b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Clevor Technologies Inc. v. The Queen
+
+- Citation: 2019 TCC 166
+- Decision date: 2019-08-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4221, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Clevor Technologies Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-08-14
+Neutral citation
+2019 TCC 166
+File numbers
+2017-3935(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-3935(IT)I
+BETWEEN:
+CLEVOR TECHNOLOGIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 28, 2019, at Saskatoon, Saskatchewan
+Before: The Honourable Justice B. Russell
+Appearances:
+Agent for the Appellant:
+Sheila Maithel
+Counsel for the Respondent:
+David Smith
+JUDGMENT
+The appeal from the reassessment raised June 15, 2015 under the federal Income Tax Act for the Appellant’s 2013 taxation year is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 14th day of August 2019.
+“B. Russell”
+Russell J.
+Citation: 2019TCC166
+Date: 20190814
+Docket: 2017-3935(IT)I
+BETWEEN:
+CLEVOR TECHNOLOGIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+Introduction:
+[1] This appeal brought by Clevor Technologies Inc., the Appellant, is of a reassessment that the Minister of National Revenue (Minister) raised June 15, 2015 under the Income Tax Act (Canada) (Act) respecting the Appellant’s 2013 taxation year. After unsuccessfully objecting to the reassessment it is now appealed to this Court. Specifically the appeal pertains to the Minister’s denial of the Appellant’s claim for scientific research and experimental development (SR&ED) expenditures of $72,046, which if recognized would entitle the Appellant to refundable investment tax credits under the Act in the amount of $24,991.
+Background:
+[2] The Appellant was unrepresented by counsel. Its only witness was its president, Sheila Maithel. Her evidence established that the Appellant is a Saskatchewan corporation engaged in the business of software development for operational management. Prior to 2013 it had developed a sophisticated project management software application termed the “Clevor Schedule Optimizer” (CSO). The function of the CSO software was that, upon having data inputted respecting variables relevant to execution of a particular project (such as a construction or mining project), the software could relatively promptly determine the timing and sequencing of steps for optimally efficient (i.e., earliest) completion of that project.
+[3] Ms. Maithal does not have formal computer or software development training and had not been employed by the Appellant at any relevant time. Throughout 2013 and prior, her father Ravi Maithel, since deceased, was president of the Appellant. I understand that he had a background in computers. Ms. Maithal herself, while an astute and erudite witness, had no personal or direct knowledge of the Appellant’s activities in 2013 relevant to this appeal. Her evidence essentially was derived from the content of two letters her late father had written in 2015 in exchanging correspondence with Canada Revenue Agency (CRA) SR&ED auditors - addressing at the audit stage the Appellant’s SR&ED claims at issue herein. It was left unexplained why the Appellant did not call to testify any current or former employees of the Appellant who had had any significant involvement in the Appellant’s activities in 2013 underlying this SR&ED claim.
+[4] Testifying for the Respondent was Dr. Mayank Pandey, a CRA employed research and technology advisor (RTA). He has a PhD in engineering management. He was the RTA who advised CRA respecting the subject SR&ED claims. He was accepted as an expert witness without objection from the Appellant. His expert report was filed as Ex. R-1. It pertains to the “second activity”, referenced in paragraph 8 below.
+[5] The Appellant sought SR&ED benefits from two activities it engaged in in 2013 in conjunction with its commercially successful software, CSO.
+[6] The first such project stemmed from the fact that CSO was designed to interface with third party software that provided the “front end” to the customer in the linked operation of the two applications. Ms. Maithal referred to CSO as being the “brains” in such integrated applications, with CSO operating in integrated fashion with such front end applications such as MS Project and Oracle’s Primavera P6.
+[7] However, in or about early 2013 Oracle updated its “application programming interface” (API) code for its new version of Primavera being Primavera P7. This change blocked CSO from integrating with Primavera P7, pending adaptations of CSO’s code. While Oracle had published, for reference by software companies with products integrating with Primavera, an explanation of its API changes, that published explanation apparently was insufficiently comprehensive to permit the Appellant to readily ascertain required code changes for CSO.
+[8] The second activity, reported as an actual SR&ED “project”, was the Appellant’s 2013 work in seeking to improve CSO by incorporating therein the “best lateness and overhead calculation” to enhance CSO’s ability to calculate optimal timelines for the concurrent running of projects.
+Issues:
+[9] For each of these two 2013 activities, the tax issue is whether the Appellant’s work constituted SR&ED - that is, whether in either case there had been one or more technological uncertainties, and if there had been, had the Appellant addressed them utilizing scientific methodology. The Respondent’s Minister denied the Appellant’s SR&ED claims, having concluded that the Appellant had not been confronted by any technological uncertainties and had addressed each of the two initiatives utilizing routine engineering or standard procedures.
+Analysis:
+[10] The portion of the definition of SR&ED at subsection 248(1) of the Act most relevant to this appeal is paragraph 248(1)(c) which provides as follows:
+248(1) “scientific research and experimental development” means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is...
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+[11] In Northwest Hydraulic Consultants Ltd., [1998] 3 CTC 2520, then Chief Justice Bowman of this Court laid out a five step approach for determination of SR&ED, which subsequently was adopted by the Federal Court of Appeal in C.W. Agencies Inc., 2001 FCA 393. The five steps are:
+a) was there a technological risk or uncertainty which could not be removed by routine engineering or standard procedures?
+b) did the person claiming to be doing SR&ED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty?
+c) did the procedure adopted accord with the total discipline of the scientific method including the formulation testing and modification of hypotheses?
+d) did the process result in a technological advancement?
+e) was a detailed record of the hypotheses tested, and results kept as the work progressed?
+[12] Also, the Court in Northwest described the term “routine engineering” as being, “techniques, procedures and data that are generally accessible to competent professionals in the field.”
+API activity:
+[13] Regarding the first of these two 2013 initiatives, being the API work, the Appellant in its written submissions asserted that, “[t]his lack of documentation [for the new P7’s API code] created scientific or technological uncertainties” saying further that this, “could not be overcome by using standard programming practice/brute force [in] solving the problem…”
+[14] The Appellant submitted also that,
+[t]he hypothesis generated was that the changes made to the API that affect [the Appellant’s] integration could be determined if developers systematically tried various combinations of XML items [an aspect of API code] and added/removed different item fields to eliminate the errors, and warnings, generated when a partial XML file was used to update a project in Primavera 6. The knowledge gained from this systematic investigation improves our understanding of the new schema file and help[s] [the Appellant’s] future integration work.
+[15] The Respondent submits that, “learning about third party products such as Primavera does not constitute a technological advancement.” I disagree with this statement only insofar as it does not acknowledge that conceivably technological advancement might be found in the development, through scientific methodology and not standard processes or routine engineering, of some new process for ascertaining the unpublished content of the new P7 API code.
+[16] Here, the Appellant’s “hypothesis” as above cited is to, “systematically [try] various combinations of XML [an aspect of API code] and [add/remove] different item fields to eliminate the errors, and warnings, generated when a partial XML file [is] used to update a project in Primavera 6.” But that does not seem a scientific proposition to be tested by scientific experimentation. Rather, it describes a methodology for seeking to ascertain the nature of the XML element of Primavera P7’s API coding, i.e. seeking to acquire knowledge, already possessed by Oracle, of the latter’s P7 API code. This proposed procedure, couched as an “hypothesis” - the systematic trying of various combinations of API coding factors - is redolent of a trial and error approach.
+[17] In my view, trial and error procedure is routine engineering. In Northwest, “routine engineering” was said to mean, as stated above, “techniques, procedures that are generally available to competent professionals in the field.” Certainly trial and error is a known technique, available to competent professionals in the field. Moreover, there is no reasonable indication that the Appellant’s proposed trial and error procedure would be only a minor aspect of, in the greater context, a genuine scientific methodology.
+[18] Thus, I do not find here evidence sufficient to permit the conclusion that in dealing with the API issue, SR&ED was engaged in. The Appellant had not identified any technological uncertainty, which requires a testing procedure other than a standard process or routine engineering. The procedure the Appellant chose to follow was the technique of trial and error, a procedure undoubtedly known by professionals competent in the field. As well there was a dearth of evidence as to any testing results.
+Lateness and Overhead Calculation Factors Activity:
+[19] The second activity that the Appellant put forward for SR&ED consideration was the Appellant’s 2013 work seeking to incorporate the “best lateness and overhead calculation” to enhance CSO’s ability to calculate optimal timelines for concurrently run projects. As explained in the Appellant’s written submissions,
+[i]n 2013, we saw that at times in the optimized schedule that [CSO produced], some projects were significantly delayed while other projects were on time, and at times a given project’s total duration was often unnecessarily expanded. Our initial analysis showed that this was due to lateness cost rate setting and lack of project duration control. The investigation into possible solutions to overcome [an] undesirable optimized schedule resulted [sic] based on project lateness and overhead looked at implementing various types of cost calculations to the calculation engine or implementing overhead analysis costing.
+[20] The Appellant in its written submissions stated that it had proposed five courses of conduct, described by the Appellant in its submissions as “hypotheses”. They were,
+1. Lateness - use a lateness cost interest to the lateness cost calculation;
+2. Lateness - use a compound lateness cost interest to the lateness cost calculation;
+3. Minimize fragmentation - use a standardized project overhead cost;
+4. Minimize fragmentation - implement a critical path analysis to find the reason from duration point of view;
+5. Minimize fragmentation - implement bottleneck resource analysis to find the reason from resource point of view.
+[21] The Appellant further submitted that the first three of these five “potential solutions” were tested using multiple datasets for different test cases including, “composite resource only” dataset, “discrete resource only” dataset and “mixed resources” dataset, plus three dataset sizes - large (greater than 5,000 activities), small (less than 1,000 activities) and medium. The Appellant submitted that it concluded from these tests that incorporation of a compound lateness cost and standard overhead cost produced optimal scheduling results best emulating a human decision.
+[22] The Respondent’s written submissions, reflective of Dr. Pandey’s expert report and opinion evidence, was that here there was no technological uncertainty - as the Appellant had used an established methodology termed “metaheuristics” to resolve the lateness and overhead costs matter. Dr. Pandey in his expert report (Ex. R-1) states that,
+[a] known way to solve [scheduling problems including involving the addition of each new variable] is to use metaheuristics, which in essence search the solution space based on some algorithms and converge to a solution. There are multiple known ways of using metaheuristics to solve schedule optimization problems. [The Appellant] had already been using such metaheuristics in the existing application for solving schedule/cost optimization problems.
+[23] Further,
+[Dr. Zhou of the Appellant at a meeting dated October 29, 2014 with Canada Revenue Agency officials and others]...explained that new constraints were required to be added in the existing problem to overcome the deficiencies in the existing organizer. However, adding new constraints itself does not represent any scientific or technological uncertainties. It is known that any new constraints to an existing optimizing problem may necessitate adding new heuristics (set of rules) to the existing setup (rule-base) so that the solution space, bounded by constraints, could be explored by a metaheuristics and a final solution could be obtained. The solutions can be further refined using various numerical techniques via iterative simulation.
+[24] And finally,
+[t]he information and supporting evidence provided do not establish that [the Appellant] encountered any scientific or technological uncertainties in either modeling the problem, using the existing metaheuristics in solving the problem at hand or devising/adding new heuristics. At the outset of the claimed work, [the Appellant] was using [a] metaheuristics based solution approach...and they had a stable schedule engine to generate a schedule satisfying all defined constraints and scheduling rules....While the new constraints (adding the lateness cost and overhead cost in a multi-project optimization scenario) added further complexity to the scheduling problem, the facts presented for review do not show that these two constraints/requirements created any [scientific or technological uncertinty] for [the Appellant]. The company had the necessary expertise in applying metaheuristics and adding constraints in schedule/cost optimization problems in a multi-project scenario. Furthermore, the formation and supporting evidence provided for review do not establish that any scientific or technological uncertainties were encountered/addressed at the system level with respect to how the addition of the new constraints would have created uncertainties on the existing technologies/components. As such, while the work was complex and time consuming, requiring algorithm refining, coding and testing to obtain an acceptable solution, the work did not involve experimentation or analyses to resolve scientific or technological unknowns per subsection 248(1) of the Act... [emphasis added]
+[25] I accept the expert evidence of the Respondent as expressed above. The Appellant through its sole witness, a non-expert and untrained in computer science, did not present evidence at all sufficient to persuade me that the Respondent’s evidence was in error. And I note again that the Appellant called no witnesses with any direct knowledge of the work of the Appellant had done in 2013 (nor explained why it did or could not do so). Nor did the Appellant seek to qualify an expert to testify in response to Dr. Pandey’s evidence. Thus, as with the API activity, for this second activity concerning lateness and overhead factors, I deny the claimed SR&ED tax credits.
+[26] Accordingly this appeal, brought under the Court’s informal procedure, is dismissed, although without costs.
+Signed at Halifax, Nova Scotia, this 14th day of August 2019.
+“B. Russell”
+Russell J.
+CITATION:
+2019TCC166
+COURT FILE NO.:
+2017-3935(IT)I
+STYLE OF CAUSE:
+CLEVOR TECHNOLOGIES INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Saskatoon, Saskatchewan
+DATE OF HEARING:
+February 28, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+August 14, 2019
+APPEARANCES:
+Agent for the Appellant:
+Sheila Maithel
+Counsel for the Respondent:
+David Smith
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

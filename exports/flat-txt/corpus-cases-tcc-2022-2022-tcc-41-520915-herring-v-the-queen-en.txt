@@ -1,0 +1,1038 @@
+Title: Herring  v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520915/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-41-520915-herring-v-the-queen-en.md
+Document type: case_law
+Last modified: 2022-03-31
+
+# Herring  v. The Queen
+
+- Citation: 2022 TCC 41
+- Decision date: 2022-03-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4481, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Herring v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-03-31
+Neutral citation
+2022 TCC 41
+File numbers
+2012-112(IT)G, 2013-3357(IT)G, 2013-3466(IT)G, 2013-4197(IT)G, 2013-4320(IT)G, 2014-361(IT)G, 2014-574(IT)G
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-112(IT)G
+BETWEEN:
+DAVID HERRING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 20, 2019,
+October 1, 2, 3, 4, 7, 8, 9, 10, 11, 2019 at Toronto, Ontario and
+Oral Submissions made on October 7, 8, 2020 at Ottawa, Canada
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+Terry McCaffrey
+Anahita Tajadod
+Counsel for the Respondent:
+Charles Camirand
+Dan Daniels
+JUDGMENT
+The appeals for the 2002, 2003 and 2005 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+There shall be no order as to costs.
+Signed at Ottawa, Canada, this 31st day of March 2022.
+“Guy R. Smith”
+Smith J.
+Docket: 2013-4197(IT)G
+BETWEEN:
+KENNETH L. MILLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 20, 2019,
+October 1, 2, 3, 4, 7, 8, 9, 10, 11, 2019 at Toronto, Ontario and
+Oral Submissions made on October 7, 8, 2020 at Ottawa, Canada
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+Terry McCaffrey
+Anahita Tajadod
+Counsel for the Respondent:
+Charles Camirand
+Dan Daniels
+JUDGMENT
+The appeals for the 2002, 2003, 2004 and 2005 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+There shall be no order as to costs.
+Signed at Ottawa, Canada, this 31st day of March 2022.
+“Guy R. Smith”
+Smith J.
+Docket: 2014-361(IT)G
+BETWEEN:
+GARRY INNANEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 20, 2019,
+October 1, 2, 3, 4, 7, 8, 9, 10, 11, 2019 at Toronto, Ontario and
+Oral Submissions made on October 7, 8, 2020 at Ottawa, Canada
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+Terry McCaffrey
+Anahita Tajadod
+Counsel for the Respondent:
+Charles Camirand
+Dan Daniels
+JUDGMENT
+The appeals for the 2002, 2003, 2004 and 2005 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+There shall be no order as to costs.
+Signed at Ottawa, Canada, this 31st day of March 2022.
+“Guy R. Smith”
+Smith J.
+Docket: 2014-574(IT)G
+BETWEEN:
+SONNY GOLDSTEIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 20, 2019, October 1, 2, 3, 4, 7, 8, 9, 10, 11, 2019 at Toronto, Ontario and Oral Submissions made on October 7, 8, 2020 at Ottawa, Canada
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+Terry McCaffrey Anahita Tajadod
+Counsel for the Respondent:
+Charles Camirand
+Dan Daniels
+JUDGMENT
+The appeals for the 2003, 2004, 2005 and 2006 taxation years are
+dismissed in accordance with the attached Reasons for Judgment.
+There shall be no order as to costs.
+Signed at Ottawa, Canada, this 31st day of March 2022.
+“Guy R. Smith”
+Smith J.
+Docket: 2013-3357(IT)G
+BETWEEN:
+THOMAS BREEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 20, 2019, October 1, 2, 3, 4, 7, 8, 9, 10, 11, 2019 at Toronto, Ontario and Oral Submissions made on October 7, 8, 2020 at Ottawa, Canada
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+Terry McCaffrey Anahita Tajadod
+Counsel for the Respondent:
+Charles Camirand
+Dan Daniels
+JUDGMENT
+The appeals for the 2004, 2005, 2006 and 2007 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+There shall be no order as to costs.
+Signed at Ottawa, Canada, this 31st day of March 2022.
+“Guy R. Smith”
+Smith J.
+Docket: 2013-4320(IT)G
+BETWEEN:
+LAURIE COGHLIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 20, 2019, October 1, 2, 3, 4, 7, 8, 9, 10, 11, 2019 at Toronto, Ontario and Oral Submissions made on October 7, 8, 2020 at Ottawa, Canada
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+Terry McCaffrey Anahita Tajadod
+Counsel for the Respondent:
+Charles Camirand Dan Daniels
+JUDGMENT
+The appeals for the 2004, 2006 and 2007 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+There shall be no order as to costs.
+Signed at Ottawa, Canada, this 31st day of March 2022.
+“Guy R. Smith”
+Smith J.
+Docket: 2013-3466(IT)G
+BETWEEN:
+MARC HALFORD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 20, 2019, October 1, 2, 3, 4, 7, 8, 9, 10, 11, 2019 at Toronto, Ontario and Oral Submissions made on October 7, 8, 2020 at Ottawa, Canada
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+Terry McCaffrey Anahita Tajadod
+Counsel for the Respondent:
+Charles Camirand Dan Daniels
+JUDGMENT
+The appeals for the 2003, 2004, 2005, 2006 and 2007 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+There shall be no order as to costs.
+Signed at Ottawa, Canada, this 31st day of March 2022.
+“Guy R. Smith”
+Smith J.
+Citation: 2022 TCC 41
+Date: 20220431
+Docket: 2012-112(IT)G
+BETWEEN:
+DAVID HERRING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2013-4197(IT)G
+AND BETWEEN:
+KENNETH L. MILLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+Docket: 2014-361(IT)G
+AND BETWEEN:
+GARRY INNANEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2014-574(IT)G
+AND BETWEEN:
+SONNY GOLDSTEIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2013-3357(IT)G
+AND BETWEEN:
+THOMAS BREEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2013-4320(IT)G
+AND BETWEEN:
+LAURIE COGHLIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2013-3466(IT)G
+AND BETWEEN:
+MARC HALFORD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Smith J.
+I. Overview [i]
+[1] David Herring, Kenneth L. Milley, Garry Innanen, Sonny Goldstein, Thomas Breen, Laurie Coghlin and Marc Halford, (the “Appellants”) [ii] participated in a leveraged donation program (the “Program”) through which they made gifts in favour of a registered charity known as Banyan Tree Foundation (“Banyan”) [iii] .
+[2] In accordance with the terms of the Program, the Appellants pledged to donate a certain dollar amount (the “Pledged Amount”) consisting of cash from their own resources and a loan from a third party lender. They also paid a security deposit to the lender (the “Security Deposit”) that was to be invested to eventually extinguish the principal amount of the loan, including accrued interest and income taxes that might be owed by donors on the annual investment returns.
+[3] For each year in which they participated, the Appellants claimed charitable tax credits for the total Pledged Amount pursuant to subsection 118.1(3) of the Income Tax Act, R.S.C., 1985, c.1 (5th Suppl.) (the “Act”).
+[4] The Minister of National Revenue (the “Minister”) reassessed the Appellants to deny the charitable tax credits on the basis that the amounts purportedly donated were not valid gifts under the common law or the Act.
+[5] In the context of these appeals, the Appellants acknowledge that the loan proceeds were never advanced by the lender to Banyan. As such, they ask the Court to consider the following issues:
+Whether any part of the total donation is a gift under the common law?
+Whether the cash gift and Security Deposit or alternatively the cash gift alone, are eligible for a tax credit as split gifts under the common law and in accordance with the bijuralism principle?
+For the 2003-2007 taxation years, whether subsections 248(30) – (32) are applicable and if so, what is the eligible amount of the gift that may be claimed pursuant to subsection 248(31) of the Act?
+If the Security Deposit is not an eligible amount pursuant to subsection 248(31), are the Appellants entitled to claim a net capital loss pursuant to paragraph 111(1)(b) of the Act?
+[6] The Respondent contends that these arguments should be rejected and argues in the alternative, that the Appellants are not entitled to any tax credits because the donation receipts do not contain the prescribed information, contrary to subsection 118.1(2) of the Act.
+[7] The Respondent had initially relied on the General Anti-Avoidance Rule pursuant to section 245 of the Act, but chose not to make any written submissions and accordingly, it will not be necessary to address that argument.
+[8] For reasons set out below, the Court concludes that the Appellants are not entitled to charitable tax credits for any portion of the alleged gifts, including the cash component and Security Deposit, and that they are not entitled to claim the Security Deposit as a net capital loss. As a result, the appeals must be dismissed.
+[9] All references to legislative provisions, are references to the provisions of the Act, including Regulations promulgated under the Act, that relate to the assessments or reassessments and the taxation years in question in this instance.
+II. Program and Chronology
+[10] The Program was promoted by Promittere Asset Management Limited (“Promittere”) and independent salespeople situated across Canada. Robert J. Thiessen (“Thiessen”) was the principal of both Banyan and Promittere. He held himself out as the president of 1106999 Ontario Limited that later changed its name to Rochester Financial Ltd. (“Rochester” or the “Lender”) that purported to lend money to participants. All of these entities shared the same office space or address.
+[11] The Program was promoted as a “Gift Program” intended “to provide gifting to charitable organizations” whose activities included “support programs for the underprivileged, education, athletics and medical research.” The promotional materials listed a number of charities to whom Banyan might make a donation. As will be seen below, the monies collected were purportedly used to purchase annuities in favour of certain recipient charities.
+[12] The promotional material set out the pledge procedure. Participants were required to complete a series of documents including a pledge form (“the Pledge Form”) indicating the total amount to be donated, a loan application and power of attorney (the “Loan Application”) and promissory note (the “Promissory Note”), collectively referred to as the program documents (the “Program Documents”).
+[13] Participants were required to complete and deliver the Program Documents with a cheque for the cash component payable to Banyan and separate cheque for the Security Deposit payable to the Lender.
+[14] The Loan Application provided that if it was not accepted prior to December 31st of the applicable year, the deposits would be “immediately returned without interest or deduction.” If it was accepted, the Lender was “authorized and directed” to advance the loan proceeds directly to Banyan. Participants later received written confirmation of the loan amount and Security Deposit, indicating that it would be invested to extinguish the loan, all accrued interest and any taxes that might be owing by participants on the investment returns.
+[15] The 2002 Program was promoted on the basis that participants could make a donation by leveraging cash resources equal to 14.5% of the Pledged Amount with a loan for 85.5% of the remaining balance. The Security Deposit was equal to 8.7% of the Pledged Amount. The loan was for a term of 25 years without payments of principal or interest and was to be extinguished on or prior to maturity based on an assumed investment return of 9.85% per year. The Lender was to report all income earned on the Security Deposit on an annual basis and participants would be reimbursed for any taxes owing on the investment returns.
+[16] As a result of amendments to the Act (that will be reviewed below), the Program was modified for the 2003 to 2007 taxation years. The term of the loan was reduced to 10 years with interest at the greater of the rate set out in the Promissory Note and the prescribed interest rate pursuant to subsection 143.2(7) of the Act. The cash component remained the same but the Security Deposit was increased to 14.5% of the Pledged Amount. These percentages varied slightly over the years or from one participant to another. Payments of principal or interest were not required and the loan was expected to be extinguished on or prior to maturity based on an assumed investment return of approximately 35% per year.
+[17] From 2002 to 2007, participants were also entitled to advance 100% of the Pledged Amount and within as little as 24 hours, were refunded 85.5% of that amount by way of certified cheque or bank draft. The refunded amount was purportedly converted into a loan once a Promissory Note had been signed and that amount was allegedly advanced by the Lender to Banyan. In these instances, a further payment was also made to the Lender for the Security Deposit.
+[18] According to the promotional materials for the 2002 Program, a total cash outlay of about 23.2% (14.5% + 8.7%) of the Pledged Amount would generate a “positive cash position” equal to 100% of the cash outlay, assuming a marginal tax rate of 46.41%. For the 2003-2007 Program, the promotional materials explained that a cash outlay of about 29% (14.5% + 14.5%) of the Pledged Amount would generate a “positive cash position” equal to 60-70% of the cash outlay, again assuming a marginal tax rate of 46.41%.
+[19] A summary of these calculations is set out in Schedule “A” attached hereto. There were various iterations of the brochure tailored for different provinces with different tax rates and different charities but I find that these differences were not material and that the Program was basically the same.
+[20] The promotional materials for the 2003 Program added that the Lender had “arranged performance insurance to ensure that [the] investment manager’s results [would] repay the loan and interest.” Although the overall evidence on the existence of such an insurance policy is inconclusive, the representation that such insurance was in place continued to appear in the promotional brochures.
+[21] The promotional materials for the 2003 Program also referred to a “Tax opinion from Fraser, Milner, Casgrain.” Several of the Appellants testified that they had been informed of such a legal opinion but few had actually seen it.
+[22] In fact, several legal opinions had been prepared by Fraser Milner Casgrain LLP (“FMC”). In one version dated September 5, 2003, FMC opined that the loan “will be a full recourse loan” and that the “Lender will acquire an insurance policy (…) that will insure the risk that the security deposit (…) will not be sufficient to repay the loan.” [iv] In another version, also dated September 5, 2003, FMC opined that the “loan will be a limited recourse loan pursuant to which the recourse of the Lender will be limited to the security deposit and all accretions thereto.” [v]
+[23] From 2003 to 2005, the Lender provided all Appellants with annual updates on the investment returns of the Security Deposit, initially claiming a substantial yield based on accrued gains of a real estate project and investments managed by a hedge fund. For example, in late 2004 the Lender reported gains of 53.42%, noting that “this was well above the 35% annual return required to retire the loan at the end of the 10-year term.” In 2005, participants were informed that the returns on the 2003 and 2004 Security Deposits were 38.6% and 49.2%, respectively. Appellants who participated in the 2002 Program (Herring, Milley and Innanen) were eventually told that the investment returns on their Security Deposit had generated sufficient returns to extinguish their respective loans.
+[24] However, in 2006 the Lender advised participants that one of its investment managers had misappropriated the funds such that there were no capital gains for 2004 and 2005 and that the Security Deposits had been substantially reduced.
+[25] Subsequently, each Appellant received an annual statement with an invoice claiming interest on the loan balances with an indication that if payments were not received by the due date, the full amount of the loan would become due. As will be indicated below, the Appellants made interest payments on the 2003 to 2005 loans and received corresponding reductions of the principal purportedly outstanding.
+[26] The Appellants were eventually informed of an audit by the Canada Revenue Agency (“CRA”) for the 2003 taxation year and told that they should acknowledge their loan balance since CRA now required recourse debt obligations. They were also informed that making payments towards the loan or acknowledging the outstanding balance would improve their chances of avoiding the payment of taxes and accrued interest owed to the CRA.
+[27] In February 2008, the Lender reported to the Appellants that as a result of the fraud, as described above, participants would have to continue making interest payments for the remaining term of the loan with payment of the principal, less the remaining Security Deposit, if any, at the end of the term.
+[28] Alternatively, participants were informed that the Lender had agreed to accept an early payout of the loans discounted to 22.5% of the outstanding balance payable in four equal payments over twelve months.
+[29] In September 2008, Banyan’s charitable status was revoked.
+[30] In 2010, a class-action proceeding was filed on behalf of 2,825 participants in the Program and approved by the Ontario Superior Court of Justice (Robinson v. Rochester et al., 2010 ONSC 463) against Banyan, its promoters, the Lender and FMC. The claim alleged that “there was an express or (…) implied term of the contract that participants would not be at risk to repay the loans obtained from Rochester.” It was alleged that the defendants were negligent in not ensuring that participants “would not be at risk to repay the loan that was obtained in order to facilitate their participation in the program” and that the legal opinions “were necessary and instrumental to marketing the gift program (...)” (paras. 1-2).
+[31] A settlement of the class-action proceeding was ultimately reached with FMC and approved by the Ontario Superior Court of Justice (Robinson v. Rochester Financial Limited, 2012 ONSC 911). The settlement amount was $11 million with no admission of liability on the part of FMC. A pro rata payment was to be made to all participants except a small group who chose to opt out.
+[32] The court endorsement approving the settlement included a declaration that “the loan agreements and promissory notes executed by class members in connection with the Gift Program are unenforceable by the defendants, their successors and assigns”(para. 15).
+III. Testimony of the Appellants
+[33] Although participants in the Program resided in several different provinces, the Appellants herein resided in either Manitoba or Ontario. They were all informed of the Program directly or indirectly through their respective financial advisor. All of the Appellants expressed the view that the Program was attractive because they could “give more” to charities or enhance their gift-giving to charitable organizations by leveraging existing cash resources using debt financing.
+[34] The Appellants testified that they believed the loan was genuine because it might have to be reimbursed if the investment returns from the Security Deposit were ultimately insufficient. In fact, interest payments were made by the Appellants on the 2003, 2004 and 2005 loans. All Appellants received T3 slips for the investment returns on the Security Deposit as well as a cheque, sometimes referred to as “Tax Relief Cheques” to pay taxes at an assumed personal marginal tax rate of 35%. As of 2008, these amounts were withheld by the Lender, allegedly to cover the legal costs associated with the defence of the ongoing CRA audit.
+[35] In 2009, the Lender offered to settle the loans discounted to 22.5% of the outstanding balance, an offer that was accepted by some Appellants. Subject to those payments, none of the Appellants paid the loans on the due date.
+[36] The Appellants eventually realized that their loans were not bona fides because the loan proceeds had never been advanced to Banyan. They all received their pro rata share of the settlement proceeds from the class-action proceeding.
+[37] Schedule “B” attached hereto sets out the Pledged Amount for each Appellant including the cash component and Security Deposit as well as the percentage of the cash and Security Deposit in relation to the alleged donation.
+[38] What follows is a summary of each Appellant’s testimony.
+Marc Halford (1st witness)
+[39] Mr. Halford was a resident of Manitoba where he completed a university degree in Industrial Engineering. He admitted that he “dabbled in the stock market” with a group of acquaintances to learn and “have a little bit of fun in the markets.”
+[40] Personally, he used the services of a financial adviser known as Robert Eger to address his insurance needs and provide investment information. As he made more money, he sought assistance to donate to charities in a “more organized and more substantial amount.” In 2003, Mr. Eger introduced him to the Banyan Tree Foundation.
+[41] Mr. Halford was provided with some “literature” that he reviewed but the Program was basically explained to him “verbally” by Mr. Eger. He recognized the written “executive summary” for “2004 Gift Program” when presented to him. There was a list of registered charities who could receive donations from Banyan, some of which he recognized. He understood that the Program would allow him to “maximize” his charitable donations. He explained that the growth of the Security Deposit would “hopefully” ensure the loan was entirely paid before the end of term.
+[42] Mr. Halford was informed of certain legal opinions but he did not consult them as they were explained to him by Mr. Eger “in laymen’s terms.” He stated that he did not rely on them prior to participating. He understood the Program to be a “legitimate system that had worked in 2002” and that “there were no issues with it, or with the taxation department.”
+[43] He participated in the Program and pledged the sums of $26,000, $30,000, $32,000 and $41,000 in each of 2003, 2004, 2005 and 2007, respectively. Certain amounts were claimed in 2006 as a carry forward from previous years.
+[44] Mr. Halford explained that if the investment returns from the Security Deposit were insufficient to pay the interest on the loans, he would be required to make those payments within 30 days from the calendar year end. If the loans were not extinguished prior to the expiry of the 10-year term, he understood that either it would be extended or he would personally have to repay them.
+[45] When asked if anyone had ever told him he was “not responsible for paying back the loan,” he insisted, “that was never discussed.” When asked if he had heard of “performance insurance” for the Security Deposit, Mr. Halford responded “absolutely not” and that Mr. Eger had informed him that insurance had only been in place in 2002 but not the ensuing years. When asked if he had participated in the class-action suit, he indicated that on Mr. Eger’s advice, he had “opted out.”
+[46] As an aside, Mr. Halford explained that he was initially impressed with the exceptional investment returns on the Security Deposits as reported by the Lender and arranged for a meeting with Mr. Eger and his investment acquaintances to pool money that would be invested through a new corporation using the same investment advisers as Banyan in a program known as Promittere S&P 500 Limited managed by G.H. Lewis & Associates (“G.H. Lewis”). Mr. Halford personally invested $35,000 in 2004 and another $20,000 in 2005. He described this as a “contingency plan” in case he had to repay the loans incurred in connection with the Program. When asked why he had not diversified by using another manager, he referred to the “fabulous returns” reported by the Lender.
+[47] In November 2006, Mr. Halford was informed by the Lender and Promittere that the investment returns previously reported had been “fabricated” and the Security Deposits substantially reduced. He was called upon to make interest payments on the 2003, 2004 and 2005 loans in the amounts of $1,012.05, $1,167.75 and $820.80, respectively. He paid those amounts. The investments with G.H. Lewis were also eventually subject to “embezzlement and misappropriation”, as described by Mr. Halford, and an action was allegedly commenced against the investment advisers to reclaim the loss. Mr. Halford made a further donation to Banyan in 2007, believing that a new investment manager had been appointed.
+[48] Under cross-examination, Mr. Halford admitted that his past charitable donations had been quite modest in comparison with the $110,000 he had donated to Banyan. He indicated that he initially thought the loans were genuine legal obligations but admitted he had not paid them when they became due, despite the statement in the Promissory Note that the amounts would be due “without the necessity of demand.” He acknowledged that the interest payments noted above had actually reduced the principal amount of the loans by a substantial amount but could not explain this. He again professed not to be aware of the status of the loans, suggesting they were still potentially outstanding. He also initially denied having participated in the class-action proceeding but finally admitted, when confronted with certain documents indicating the contrary, that he had not opted out and had received his pro rata share of the settlement funds.
+[49] Mr. Halford acknowledged that the promotional materials referred to a legal opinion but denied that Mr. Eger had ever explained it to him. With respect to the performance insurance, he acknowledged that it was mentioned in the promotional material but indicated that it was only available for the 2002 Program. When confronted with 2003 brochure indicating there was performance insurance, he suggested it was likely a printing error.
+[50] Despite the losses suffered, Mr. Halford made another donation in 2007 but could not explain why he had remitted only one cheque to Banyan and none to the Lender as a Security Deposit for that taxation year.
+[51] Mr. Halford also acknowledged that he had previously applied for a mortgage and line of credit from a banking institution where he had authorized a credit check but that no such document had been requested by the Lender in this instance for any of the loans. He also admitted that the Lender had offered to reduce the principal amount of the loans in 2006 as an incentive to make the interest payments referenced above.
+[52] Finally, Mr. Halford acknowledged that participation in the Program provided him with a tax credit equal to about 46.41% of the total cash and loan components, and that this would give rise to a “positive cash position”, although he could not recall if that was exactly how it had been explained to him.
+Garry Innanen (2nd witness)
+[53] Mr. Innanen was an information management consultant who had completed a bachelor’s degree in Earth Sciences and Masters of Business Administration. He resided in Ontario during the relevant period. Over the years, he used the services of several investment advisors including Doug Lawson who introduced him to the Program in 2003. He met Thiessen because Mr. Lawson shared office space and recalled seeing several plaques behind the reception desk thanking Banyan for their charitable donations.
+[54] Prior to 2002, he and his spouse had donated to numerous charitable causes and volunteered to collect donations door-to-door. He felt that Banyan would allow him to support more charities than he could have with his “limited cash means.”
+[55] Mr. Lawson provided him with some “literature” describing the Program which he read. He was able to distinguish between the 2002 promotional materials and the revised Program materials in 2003. He recalled that FMC “gave an opinion in 2002 and again in 2003” indicating that Banyan “was a bona fide structure.” He decided to participate in the program because he knew and trusted Mr. Lawson, because it seemed “logical” and because he recognized some of the charities. He also explained that he had started a business in 2002 and the “ability to obtain leverage” was enticing to him.
+[56] He pledged to donate the sums of $15,000, $20,000, $20,000 and $25,000 in each of 2002, 2003, 2004 and 2005, respectively. He completed the Program Documents every year, received the tax receipts and claimed them accordingly.
+[57] When asked if anyone had ever told him he would not be responsible for the loans, he answered that he “had never been told that.” He also indicated that the Security Deposits were “to be used to build up funds to pay off the loans” but that this was “never guaranteed” and that if the returns were inadequate, he would have “to make up the shortfall.” He acknowledged that the marketing materials referred to “some sort of performance insurance” but that he had never seen the policy.
+[58] In November 2006, he was called upon to make interest payments of $773.54, $509.35 and $641.25 on the 2003, 2004 and 2005 loans. Since he had knowledge of the concerns with the investment manager’s performance and possible misappropriation of funds, he took steps to limit his potential losses by investing in fixed income and conservative mutual funds in 2006 and 2007.
+[59] During cross-examinations, Mr. Innanen explained that Mr. Lawson had “agreed to promote” the Program but admitted he was also a director of Banyan and that he was aware of this. He explained that the Program provided “additional leverage” for his charitable giving but would not have considered a bank loan for such a purpose. He acknowledged that he would “potentially” be entitled to a tax credit of 46.4% of the total donation amount and that this “wasn’t a major factor, but it was a factor.” He indicated that he was not concerned about the investment returns required to extinguish the loans. He made no efforts to obtain a copy of the performance insurance policy because he accepted that in a “worst-case scenario”, he might have to pay off the balance of the loan. He indicated that he had paid interest on the loans in 2006 but also acknowledged that the Lender had indicated that if he failed to do so, the loan would go into default. The notice from the Lender indicated that it would use “all available means to recover funds owed on the defaulted loans.” He acknowledged that he might have discussed this with Mr. Lawson.
+[60] When asked about the status of his loans, he suggested they were “in abeyance” because the “organizations no longer existed” but he had not seen anything to suggest they were “extinguished.” He did not attempt to repay the loans and only admitted that they were in fact “unenforceable” when confronted with a copy of the class-action settlement order.
+Laurie Coghlin (3rd witness)
+[61] Mr. Coghlin was a resident of Manitoba. He completed a bachelor's degree in Electrical Engineering and, prior to his retirement, was co-owner of a sales agency. He had limited investment experience and used the services of Robert Eger who provided him with investment advice and informed him of the Program.
+[62] He had no specific recollection of the promotional materials but was certain he had seen them and that they had been explained to him by Mr. Eger. He could not recall if performance insurance had ever been discussed. When asked if there was a legal opinion, he recalled being told there was one and assumed it was a “reasonable opinion,” otherwise he would not have “invested” in the Program.
+[63] He agreed to participate explaining that “it was a way you could make a larger donation by using the arrangement.” He pledged to donate the sums of $65,000, $20,000 and $30,000 in each of 2004, 2006 and 2007, respectively. Other amounts were pledged in 2003 and 2005 but claimed by his spouse. He agreed to participate in 2007 even though he knew, and the Pledge Form expressly stated that the past tax credits and Program were “under review” by CRA.
+[64] Mr. Coghlin admitted that he did not have copies of the 2004 and 2006 loan documents explaining that he had either not been given copies or they had been misplaced. With respect to the Security Deposit, he explained that it would be used “to start an investment vehicle which would hopefully (…)” extinguish the loan. He understood that he might have to pay interest or principal on the loan if things did not work out. In 2006, he received invoices for interest on his 2004 and 2006 loans. His spouse received similar invoices in connection with her loans. Prior to paying those amounts, he called Mr. Eger to enquire if they were “legitimate invoices” and whether he had to pay them. He professed to have no knowledge of the current status of the loans or his Security Deposit. He could not recall if performance insurance had ever been discussed.
+[65] Under cross-examination, Mr. Coghlin indicated that Mr. Eger had introduced him to Banyan and to “other investments.” He knew that Banyan was a tax shelter that would reduce taxes payable. He admitted to donating $23,180 to another tax shelter in 2003 known as “Canadian Gift Initiatives” that involved the donation of pharmaceutical products he had never taken possession of.
+[66] With respect to the loan documents for 2007, he acknowledged that it contained a proviso that the donation amount would be held “for a period of not less than 10 years.” He could not explain why it was not distributed to other charities, as promoted. He could not recall discussing this with Mr. Eger.
+[67] He admitted that he was familiar with lending products such as mortgages and credit cards and the requirement to repay principal and interest. He acknowledged that there was no credit check and that his spouse was not required to co-sign any of his loans in this instance. He acknowledged that he had not taken steps to repay the loans when they became due. He admitted that the donation made to Banyan in 2004 exceeded his employment income and that he did not meet the definition of an “accredited investor” with assets exceeding $1 million, as warranted in the loan documents. He could not explain why the interest payments made on the loans also reduced the principal owed.
+[68] Although he testified that he was not aware of the status of his loans, he acknowledged his response to undertakings that the class-action proceeding had led to a declaration that all loans were “unenforceable.” He also could not recall having received his share of the settlement funds from the class-action proceeding.
+Thomas Breen (4th witness)
+[69] Mr. Breen had completed a business diploma and was a Certified General Accountant. He was retired but had been Deputy Registrar of Credit Unions for the province of Manitoba. He was informed of the Program by Robert Eger.
+[70] He pledged the sums of $30,000, $35,000, $25,000 and $15,000 in each of 2004, 2005, 2006 and 2007, respectively. On December 19, 2006, he made interest payments of $769.50 and $897.75 on the 2004 and 2005 loans, respectively.
+[71] He had limited investment experience. He dabbled in penny stocks and relied on Mr. Eger for insurance products. Banyan was explained to him as a “charitable donation gift-giving program” with a loan component that would provide leverage and allow him to increase the amount he could donate with the added tax benefit. He acknowledged reviewing the brochure and recognized at least four charities with ties to Manitoba. He heard there was a legal opinion indicating that the Program “was according to the Revenue Canada legislation” but had not seen it. Mr. Eger had apparently seen it and made enquiries, essentially doing some “due diligence.” He felt comfortable with this.
+[72] He understood that the Security Deposit would be managed by a hedge fund but had no information on their activities. Mr. Breen indicated he was attracted by the high returns promised on the Security Deposits and that a 35% return was consistent with his expectations. If the returns were insufficient, he understood that he might “potentially” have to repay the loans or cover the shortfalls but made no contingency plans to deal with this. He did not have copies of the loan documents for 2004 and 2005 and had no explanation for this. He received T3 slips for the investment returns on the Security Deposit that were reported for tax purposes.
+[73] In cross-examinations, Mr. Breen indicated that he participated again in 2007 despite his knowledge of the fraud by the investment managers and the ongoing CRA audit but did not pay a Security Deposit to the Lender for that year. Apart from the payment of interest that also reduced the principal balance of his loans, he admitted that he did not question how the Lender could discount the loans to 22.5% of the balance outstanding. In 2007, Mr. Breen signed loan acknowledgments in favour of the Lender confirming a loan balance outstanding as of January 1, 2007, of $22,828.50 and $27,680.62 for the 2004 and 2005 loans, respectively, but these amounts were never paid.
+[74] Mr. Breen indicated that he had previously donated to a charity known as ‘All Charities’, an umbrella organization similar to the ‘United Way’, but admitted he would never have considered borrowing money to donate to that charity and had never discussed this possibility with Mr. Eger. Prior to his involvement with Banyan, he had never participated in a leveraged donation program or tax shelter. His knowledge of those products came from Mr. Eger. He understood that by pledging to donate to Banyan, he would be entitled to tax credits exceeding his overall cash outlay. He admitted that he did not meet the definition of an ‘accredited investor’ but that he had signed the loan documents indicating that he met the definition, and did so at the urging of Mr. Eger.
+[75] Mr. Breen acknowledged that he participated in the class-action proceeding and accepted his pro rata share of the settlement funds. He agreed that the initial notice to him indicated that the proposed settlement would include a declaration that the loans with the Lender were “void and unenforceable” although that was later changed to merely “unenforceable.”
+[76] In re-examination, Mr. Breen indicated that he was not surprised that the Lender had not requested credit checks because in his experience in dealing with credit unions, for example, they were not standard practice.
+Kenneth L. Milley (5th witness)
+[77] Mr. Milley was a retired school teacher who resided in Ontario. He had limited investment experience. Over the years, he made donations to numerous charities. He was introduced to Banyan by Horst Janusch, an investment advisor who worked with his wife. He also discussed it with another investment advisor.
+[78] He reviewed the “literature” that described the Program and listed charities that he recognized and had donated to in the past. He recalled that there was a legal opinion and this “bolstered his confidence” in the Program. He suggested there was no performance insurance, but that in hindsight, had there been some, he “likely would have taken it.”
+[79] He explained that the Security Deposit was to be invested and used to pay the interest on the loans and reduce the principal outstanding. He was not aware who managed the investments and was not particularly concerned about this. He understood that if there was a shortfall, he would be responsible.
+[80] He pledged to donate the sums of $29,000, $20,000, $15,000 and $15,000 in 2002, 2003, 2004 and 2005, respectively. He explained that his loan balance for 2002 was extinguished sometime in 2008 as a result the growth of his deposit. He paid interest on the loans for each of the 2003, 2004 and 2005 taxation years, in the amounts of $778.50, $284.75 and $384.74, respectively.
+[81] During cross-examinations, he indicated that he donated about $4,000 per year to a host of charities. He acknowledged that the amounts pledged to Banyan were substantial in relation to his pension income and that he could not have paid off the loans if they had become due. He hoped that the “aggressive investments” made by the Lender would eventually pay off the loans. It was his “understanding and expectation” that the investment returns would pay the loans.
+[82] He also acknowledged that the tax credit from a regular donation was less than the amount actually donated but that by making a donation to Banyan, he was entitled to a refund that exceeded the actual cash outlay. This was the “advantage.”
+[83] He acknowledged that his loan balances for 2003, 2004 and 2005 had been amalgamated into one debt with an extended maturity date of December 31, 2015. He admitted that he made no arrangements to discharge those loans but insisted that he had never received an invoice. His current belief was that the loans are “bogus” in the sense that they never really existed.
+David Herring (6th witness)
+[84] Mr. Herring was a semi-retired consultant residing in Ontario. He attended university and studied Social Sciences and Economics. He had extensive experience in commercial and industrial real estate and some experience in the stock market.
+[85] He consulted with a few investment advisors including Ed Quinn who introduced him to Banyan describing it as an “opportunity.” He attended a meeting with a group of clients. There was a presentation by Thiessen. He was given a brochure describing the Program with a list of potential charities but the focus, as he recalled, was mainly “helping children.” He recalled a discussion about a legal opinion by FMC that gave its “blessing” to the Program, but did not actually see it. He had no recollection of any performance insurance. He explained that there were no guarantees that the yield on the Security Deposit would pay the loan though there was a suggestion “they could do it.” In any event, he understood that he could get a loan for about 85% of the pledge but for 2002 and 2003, he decided to pay the “full amount.” His colleagues made a similar decision.
+[86] He later delivered a cheque for $150,000 payable to Banyan as a donation for 2002 but agreed to convert a portion of that amount into a loan and signed the Loan Application. He received a cheque for $128,250 from the Lender indicating he could use these funds for any purpose. He also wrote a separate cheque for the Security Deposit. Mr. Herring later suggested that he had not actually received the loan proceeds, suggesting he was confused since the loan was intended for the donation. In any event, he repeated the process and donated $150,000 in 2003 but reduced the donation to $30,000 for 2004 and 2005.
+[87] In connection with the various loans, he understood that he was responsible for the shortfall. In fact, in January 2007, he made interest payments of $5,838.75 on the 2003 loan and 2 payments of $769.50 on the 2004 and 2005 loans, respectively. In February 2008, he was informed that his 2002 loan had been extinguished. He was given an opportunity to retire his 2003 loan discounted to 22.5% and accepted that offer, delivering a series of cheques. However, he did not accept the offer made to settle the remaining loans because of concerns over the ongoing CRA audit.
+[88] During cross-examinations, Mr. Herring admitted that he made charitable donations from 1997 to 1999 that allowed him to claim tax credits in excess of the actual cash donated including a donation to ‘Medi-Call’ that “made money every year.” He admitted that other donations made during the relevant period were quite modest in relation to the amounts purportedly donated to Banyan.
+[89] He also admitted that he was generally in the top marginal tax bracket such that he would have been entitled to about 46.4% of the total donation made to Banyan, which was in excess of his actual cash outlay. Mr. Herring agreed that there was “talk” of a legal opinion and that the brochure mentioned performance insurance, but he viewed this as an “advertising brochure” and relied on his investment advisors. In the end, he participated because of the “positive cash position” that would only be available using a loan to leverage the total donation amount.
+[90] Mr. Herring acknowledged receipt of a letter from Promittere signed by Thiessen on November 19, 2002, addressed, “to whom it may concern.” It stated that Promittere would assume liability for the Promissory Note from a deceased “debtor” if the estate agreed to forfeit the remaining value of the Security Deposit. He agreed that this gave him “comfort” because if he passed away, his estate would not be responsible for the loan.
+[91] With respect to his donation for 2002, Mr. Herring acknowledged that he prepared a bank draft for $150,000 payable to Banyan on December 19th and the next day, signed the Program Documents including a Promissory Note for $128,250 and received a certified cheque for that amount from the Lender on the same date. He was not concerned with this expressing the view that the loan proceeds were intended for Banyan and that he was not aware of the accounting arrangement.
+[92] Mr. Herring admitted that he had actually delivered cheques to discharge his 2003 loan on a discounted basis in mid-2009 and did so to improve his chances of having the charitable tax credits allowed by CRA. However, he did not pay the 2004 and 2005 loans because he remained optimistic that the Security Deposit would eventually pay off the loan and because of his concerns about the CRA audit. He agreed that he had not paid those loans at the end of the 10-year terms. He acknowledged finally, that he had participated in the class-action proceeding and accepted his pro rata share of the settlement proceeds.
+[93] On re-examination, Mr. Herring indicated that there were risks associated with the Security Deposit. There were “verbal guarantees” but nothing in writing and “no insurance.”
+Sonny Goldstein (7th witness)
+[94] Mr. Goldstein was an Ontario resident and a licensed financial advisor. He was recruited by a representative of Banyan to promote the Program to his clients but declined to do so, as a result of its “complexity and inherent risk.” However, he personally participated and pledged to donate $100,000 for each of 2003, 2004, 2005 and 2006 during which he ostensibly incurred total indebtedness of $356,000.
+[95] Mr. Goldstein produced receipts dated December 21, 2006, confirming the payment of interest in the amount of $4,005 and $2,670 on the 2003 and 2004 loans, respectively. He also signed an acknowledgment of debt on January 1, 2007, confirming that his loan balances were $72,802, $79,210 and $82,325 for the 2003, 2004 and 2005 loans, respectively, but these amounts were never paid.
+[96] He conducted some due diligence including a review of the FMC legal opinion and contacted some of the charitable organizations to confirm they had actually received funds from Banyan. In the end, he was satisfied that it was “a legitimate philanthropic program.” He explained that philanthropy was the “driving force” behind the Program, that the loan would permit him to make “a big charitable donation” that he could not otherwise have afforded, adding that “the immediate tax relief was certainly helpful.”
+[97] Mr. Goldstein admitted that he had concluded that the projected investment returns on the Security Deposit were “wildly optimistic” or “totally unrealistic” and unlikely to extinguish the loan before maturity. He was not concerned with this since, as a financial advisor, he felt that he could invest his tax refund at 8% per annum, double it after 9 years, leaving him with enough money to pay off the loan at maturity. But because of personal circumstances, he did not do so.
+[98] During cross-examinations, Mr. Goldstein explained that prior to his participation in the Program, he had enquired about performance insurance and received a letter from the Lender dated August 20, 2003, confirming that it had “obtained an insurance policy from a reputable insurance provider” and that “such policy has been fully paid up” and would “remain in full force (…) throughout the entire duration of the term of the loan.” He indicated that he “did not believe that a reputable insurance company would provide such insurance.” He also admitted that he received other correspondence from the Lender dated August 23, 2003, confirming that it was relying “primarily on the Collateral Security, and its growth” as well as an insurance policy.
+[99] Mr. Goldstein was known as a refunded participant because he purported to advance the full amount of the donation and was then reimbursed the amount of the loan. He admitted that his actual cash outlay was 11% and not 14.5% of the Pledge Amount because of an adjustment for an imputed sales commission.
+[100] Mr. Goldstein pledged to donate $100,000 for 2006. His first cheque for that amount was rejected by the bank due to insufficient funds. He replaced it with a second cheque but it too was rejected for the same reason. He prepared a third cheque dated December 31, 2006, and had it certified on January 15, 2007. He nonetheless claimed that amount for the 2006 taxation year. I find that no credible explanation was provided for this discrepancy.
+[101] Mr. Goldstein admitted that he was part of the committee that worked with the plaintiff group in the class-action proceedings. He was instrumental in ensuring that the court endorsement approving the class-action settlement referred to all loans as being “unenforceable” rather than “void and unenforceable.” He wanted the word “void “ deleted because of the effect it might have on their legal position in the context of the ongoing CRA audit and reassessments.
+[102] At the end of his testimony, Mr. Goldstein insisted that his participation in the Program was modest given his net worth and past charitable work.
+IV. Testimony of CRA Auditors
+[103] Salvatore Tringali and Eva Markou testified for the Respondent. Their testimony will only be summarily reviewed because the Appellants have acknowledged that the alleged loan proceeds were never advanced to Banyan.
+Salvatore Tringali
+[104] Mr. Tringali was Team Leader of the CRA audit that commenced in July 2004. Based on meetings with Thiessen and responses to written questions, he explained that his main concern was the source of funds for the loans purportedly made to donors that represented about 85.5% of the Pledged Amount to Banyan.
+[105] He was initially told by Thiessen that the source of funds was a separate company known as PNH Financial Inc. (“PNH”), controlled by a certain Paul Hiley, a US resident based in Wyoming, USA. PNH also shared a mailing address with Banyan and Promittere in Toronto. Mr. Tringali was provided with a promissory note between the Rochester and PNH for $41,686,896 dated January 2, 2004, but upon further investigation, realized that PNH was incorporated eight months later, on August 3, 2004. That loan was allegedly supported by a further loan and promissory note between PNH and Providence Channel Insurance Company LMT (“Providence”) based in Nassau, Bahamas. He was unable to obtain further information on Providence since it was located in a non-treaty country.
+[106] According to Thiessen, Paul Miley was involved in arranging for the Security Deposits to be invested with a US hedge fund manager known as G.H. Lewis that traded in “S&P 500 contracts in US dollars.” He was told that a certain amount was also invested in a building located in Toronto but later concluded that this building was personally owned by Thiessen. He also concluded that neither PNH nor Mr. Miley had any knowledge of the investments made. He concluded that Mr. Lewis actually resided in Toronto, Ontario but was unable to conclude that the alleged hedge fund actually existed or carried on any business activity.
+Eva Markou
+[107] Ms. Markou obtained a designation as a Certified Professional Accountant (CPA) and worked for a large accounting firm and the Minister of Finance before joining CRA as an auditor. She was lead auditor of Banyan from 2002 to 2007.
+[108] Based on her review of the accounting and banking records of Promittere, Banyan and Rochester, she concluded that the only source of funds for Banyan was the cash component actually paid by donors. She concluded that there was no source of funds to support the loans allegedly made by the Lender to approved donors and that there was a series of circular transactions between those entities that she described as an “artificial paper record.” Some of these transactions were facilitated with the use of an overdraft credit facility with TD Bank. For the loans purportedly made for the 2004 to 2006 taxation years, Ms. Markou added that a further paper transaction was created to give the appearance that the funds came directly from Providence, incorporated in the British Virgin Islands but with an office in Nassau, Bahamas. For donors who advanced the full amount of the donation amount, she concluded that they were immediately reimbursed a portion thereof such that these donors had essentially “self-funded” their respective loans.
+[109] In the end, she indicated that CRA was unable to obtain confirmation of the loans allegedly made by PNH to Rochester for 2002 and 2003. She was also unable to obtain information to support a source of funds from Providence or Hampton Insurance Company Limited (“Hampton”), both located in Nassau, Bahamas. She added that Canada did not have a treaty or exchange of information agreement with the Bahamas or British Virgin Islands at the relevant time, such that CRA could not obtain additional information on the loans or insurance. Although she agreed in cross-examination that Canada later signed such a treaty, she opined that it was not possible to proceed retroactively.
+[110] Similarly, Ms. Markou concluded that the funds allegedly used to purchase annuities to fund donations to “recipient charities,” were immediately returned to Banyan or Promittere and never paid to the insurance company. Any amounts actually remitted were drawn from the funds held as Security Deposits that circulated from Rochester to Hampton or Providence and back to Banyan or directly to these charities, purportedly as annuity payments.
+[111] Finally, Ms. Markou reviewed the application for a tax shelter number signed by Thiessen and attached promotional material containing a statement that performance insurance had been obtained to ensure that the investment returns of the Security Deposit would be sufficient to extinguish the loans made to donors.
+V. Review and Analysis of Issues
+Issue 1 - Is any part of the total donation amount a gift under the common law?
+[112] The first issue to be addressed is whether the Appellants are entitled to a tax credit for “any part” of the Pledged Amount. As indicated above, the Appellants raise this while also acknowledging that the loan proceeds were never advanced.
+[113] Subsection 118.1(3) allows an individual to claim a tax credit with respect to “total charitable gifts” that are defined in subsection 118.1(1) as the total of all amounts each of which is an “eligible amount” of a gift made to, among others, a “qualified donee.” Pursuant to subsection 149.1(1), this includes “a registered charity.”
+[114] The term “gift” is itself not defined in the Act. However, it has frequently been examined in the jurisprudence where it has been described as a gratuitous transfer of property that is not made in exchange for a financial advantage or benefit. The leading authority is Friedberg v. R (1991) 92 DTC 6031 (Fed CA) (“Friedberg”) (affirmed by the Supreme Court of Canada) where Justice Linden indicated at page 6032:
+(…) a gift is a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor (…) The tax advantage is not normally considered a “benefit” within this definition, for to do so would render the charitable donations deductions unavailable to many donors.
+[Emphasis added]
+[115] Therefore, as long as there has been i) a voluntary transfer of property owned by the donor ii) to a donee iii) in exchange for which no benefit or consideration has flowed to the donor, there will be a gift at law.
+[116] As noted in Friedberg, a taxpayer may be motivated by a tax advantage and still have the requisite intention to give charitably. In Marcoux-Côté v. Canada [2001] 4 CTC 54 (FCA) it was held that “obtaining a receipt from a charitable organization could not be viewed as consideration that would eliminate the gratuitous and liberal nature of the transaction” (para. 8) and in Mariano v. The Queen, 2015 TCC 244 (“Mariano”), Justice Pizzitelli held that a taxpayer’s expectation of a tax receipt does not vitiate the gift because that is not the “benefit contemplated by Friedberg and other case law” (para. 21). In Cassan v. The Queen, 2017 TCC 174 (“Cassan”), Justice Owen concluded that this would be the case “even if the amount of the receipt is inflated” (para. 298), relying on Canada v. Castro, 2015 FCA 225 (paras. 43-48) (“Castro”).
+[117] In Mariano, Justice Pizzitelli noted that Friedberg supports the notion that ‘donative intent’ is “an essential element of a gift” also described in Roman Law as “animus donandi or liberal intent”, meaning that the donor “must be willing to grow poorer for the benefit of the donee without receiving any compensation.” He added that:
+[20] It is clear that the element of “impoverishment” is the crucial element to be found in determining donative intent, and that it is often couched in the language of “impoverishment,” or “not enriching one’s self” or “profiting from the gift” as indicated in Berg, but also in many cases before this Court, including Bandi v The Queen, 2013 TCC 230, 2013 DTC 1192, and Glover v The Queen, 2015 TCC 199, [2015] TCJ No. 160.
+[118] It is established that the presence of ‘donative intent’ is ultimately a question of fact that cannot be determined on a subjective basis. As stated by Justice Iacobucci in the decision of Symes v. The Queen [1993] 4 SCR 695, para. 74 (“Symes”):
+As in other areas of the law where purpose or intention behind actions is to be ascertained, it must not be supposed that in responding to this question courts will be guided only by a taxpayer’s statement ex post facto or otherwise, as to the subjective purpose of a particular expenditure. Courts will, instead, look for objective manifestation of purpose, and purpose is ultimately a question of fact to be decided with due regard for all of the circumstances. ”
+[Emphasis added]
+[119] However, a taxpayer’s intention must not be confused with that which may motivate an individual to act. As noted by the Supreme Court of Canada in Backman v. The Queen, 2011 SCC 10 (“Backman”), “motivation is that which stimulates a person to act, while intention is a person’s objective or purpose in acting” (para. 22). In Klotz v. the Queen, 2004 TCC 147 (“Klotz”) Associate Chief Justice Bowman (as he then was), found that the taxpayer was only interested in obtaining a tax receipt but that this was not relevant. He explained that:
+25. (…) A charitable frame of mind is not a prerequisite to getting a charitable gift tax credit. People make charitable gifts for many reasons: tax, business, vanity, religion, social pressure. No motive vitiates the tax consequences of a charitable gift.
+[Emphasis added].
+[120] As more recently reviewed in Cassan, “donative intent (…) does not require a particular motive for the gratuitous transfer of property” and neither “altruism” nor “benevolence” or even “magnanimity and unselfishness” are essential requirements for a valid gift (paras. 283-298).
+[121] The facts in this instance closely resemble those of Maréchaux v. The Queen, 2009 TCC 587 (“Maréchaux TCC”) that also involved a leveraged donation program. The taxpayer in that instance pledged to donate a certain amount and advanced 30% from his own resources. The remaining 70% came from a loan offered by a lender associated with the charitable organization. The loan was interest-free with a term of 20 years. An additional 10% of the pledged amount was paid as a security deposit and as a fee to arrange the loan and cover the cost of insurance should the investment returns of the security deposit not be sufficient to eventually extinguish the loan. Participants could assign the security deposit and insurance policy to the lender in full satisfaction of the loan. The appellant exercised this right, also described as a “put option.”
+[122] Justice Woods found that there was no gift because a significant benefit flowed to the taxpayer in return for the donation. This benefit was the financing arrangement with an interest-free loan and option to assign the security deposit and insurance policy. She found that “the financing was not provided in isolation” to the donation and that the “two were inextricably tied together by the relevant agreements.” She added that the benefit was “certainly significant” (paras. 33-34).
+[123] The taxpayer in that instance, argued that the donation was motivated “primarily for charitable reasons, and that the tax savings were a secondary consideration” (para. 40). Justice Woods declined to rely on that assertion indicating that it was based “largely on self-interested testimony.” She concluded that once “it is determined that the appellant anticipated to receive, and did receive, a benefit in return for the Donation, there is no gift” (para. 42).
+[124] Justice Woods went on to consider whether the appellant was entitled to a partial gift consisting of the taxpayer’s “cash outlay” noting that “in some circumstances, it may be appropriate to separate a transaction into two parts, such that there is in part a gift, and in part something else” (para. 48).
+[125] However, she concluded “on the particular facts” of the appeal that it was “not appropriate to separate the transaction in this manner” because there was “just one interconnected arrangement” and “no part of it can be considered a gift that the appellant gave in expectation of no return” (para. 49).
+[126] The Federal Court of Appeal (Maréchaux v. Canada, 2010 FCA 287) (“Maréchaux FCA”) agreed finding that “there was ample evidence (…) to support the judge’s finding that the (…) interest-free loan was a significant benefit” that “was provided in return for the ‘donation’ to the foundation” (para. 9). The court also rejected the suggestion that the taxpayer was entitled to a tax credit for a partial gift since “there was just one interconnected transaction” (para. 12).
+[127] A similar result was reached in Kossow v. Canada, 2012 TCC 325 (“Kossow TCC”) where the taxpayer had participated in a leveraged donation program. The trial judge dismissed the appeal relying on Maréchaux. On appeal in Kossow v. Canada, 2013 FCA 283 (“Kossow FCA”) the Federal Court of Appeal agreed finding that the “interest-free loan and the donation were two components of an arrangement consisting of a series of interconnected transactions” and that the cash payments made “were conditional upon being approved and receiving” the interest‑free loans (paras. 28-29).
+[128] In the later decision of Berg v. The Queen, 2012 TCC 406 (“Berg TCC”), a taxpayer had relied on a series of interconnected and pre-arranged transactions intended to inflate the fair market value of property donated to a charity. The trial judge concluded that the “bogus” or “pretence documents” had no value from the beginning and that the taxpayer “had received no benefit beyond the inflated tax receipt” (para. 33).
+[129] In Canada v. Berg, 2014 FCA 25, (“Berg FCA”) the Federal Court of Appeal disagreed, finding that “the pretence documents had value when they were delivered” to the taxpayer such that the case was “indistinguishable from Maréchaux” (para. 28). The court added in obiter that the taxpayer did not have “the requisite donative intent” because “he intended to enrich himself by making use of falsely inflated charitable gift receipts to profit from inflated tax credit claims”(para. 29).
+[130] In Markou v. The Queen, 2018 TCC 66 (“Markou TCC”), Justice Paris also considered a leveraged donation program. He dismissed the argument that the appellants should be entitled to a partial gift, noting that “the entire donation (…) was made conditional upon the approval of the loan by the Lender” failing which the deposit was to be returned to the donor. He concluded that in light of the “contractual arrangements,” it could not be said that any portion of the donation “was made with donative intent” (paras. 110-111).
+[131] The Federal Court of Appeal agreed in Markou v. Canada, 2019 FCA 299 (leave to appeal to the SCC denied, 2020 CanLII 32283) (“Markou FCA”), concluding that the trial judge “was bound to follow Maréchaux TCC, as confirmed by Maréchaux FCA, which held that the contractual arrangements pursuant to which the appellants made their alleged gifts cannot give rise to a split gift as the two portions are inextricably linked” (para. 48). It is assumed that the court intended to refer to a ‘partial gift’ and not a ‘split gift.’
+Position of the Appellants
+[132] The Appellants argue that they made a voluntary gift by advancing the cash donation and indirectly advancing the Security Deposit to Banyan as it was used to purchase annuities, or at least to make donations to certain charities according to the evidence of Ms. Markou for the Respondent. It is argued that these amounts were never returned to the Appellants and that they “remain to this day impoverished” by amounts they gave “to confer a benefit upon” Banyan.
+[133] It is argued that “to a reasonable person the loan documentation suggested the existence of a valid commercial loan” and that payment of interest by the Appellants “when they were called upon to do so (…) is consistent with their understanding that a valid loan existed” from the outset. It is argued that the “financial obligation” assumed by the Appellants is consistent with their “stated intention (…) to have a bigger impact on their philanthropic giving.” On that basis, the Appellants argue that “at a minimum” they “had the requisite donative intent in respect of the cash gifts and the Security Deposits.”
+[134] The Appellants argue that the loans were “full recourse at the time the loan indebtedness was assumed” and that “there is no evidence to suggest” that the Appellants could foresee that the loan proceeds would not be advanced by the Lender to Banyan or that “the loans would not be enforced by the Lender.”
+[135] The Appellants hoped “that the return on investment on the Security Deposit would pay off the loan and interest” but it was their “unequivocal testimony” that “if the yield on the Security Deposit was insufficient, that the loan would have to be repaid from (…) their own resources.” It is argued that this is supported by the fact that interest payments were in fact made by all the Appellants.
+[136] It is argued that there is no evidence that the Appellants did not intend to repay their loans at the outset and the fact that the loans were in effect not paid, does not suggest that the Appellants “never intended to repay” them.
+[137] It is argued that there was no assumption or evidence that the term of the loans or the interest charged on the 2003-2007 loans or the fact that no credit checks were conducted, was “commercially unreasonable.”
+[138] It is argued finally that “there is no basis upon which the tax credits for the cash gifts and Security Deposit can be classified as anything other than a gift.”
+Position of the Respondent
+[139] The Respondent maintains that the Appellants did not make a gift to Banyan because the payments were made in the context of “a contractual bargain.” The payments were part of “an interconnected transaction with a view to profit” involving “a bilateral flow of consideration (…) with a view of mutual enrichment” that critically depended on obtaining the loan offered as part of the Program. The Respondent maintains that the Appellants did not intend to “impoverish” themselves and thus that they lacked the requisite donative intent.
+[140] It is argued that the Appellants benefited from representations and warranties made as part of the Program that payment of the Security Deposit alone was sufficient to obtain the loan necessary to make the Pledged Amount and extinguish the entire loan including principal, interest and income taxes.
+[141] It is argued in particular that the Security Deposits met none of the common law requirements for a “gift” as that amount was not paid to Banyan but to the Lender. It is argued that this payment was not voluntarily made because it was to be held by the Lender and invested to eventually extinguish to loans.
+[142] The Respondent acknowledges, relying on Friedberg, that “the issuance of a tax receipt” and “the claim of tax credits” will not vitiate a gift. However, it is argued that “it is not possible to make a ‘profitable’ gift via tax consequences.” The Respondent refers to Markou FCA, where the court stated that “where a person anticipates receiving tax benefits that exceed the amount or value of an alleged gift, the donative intent is necessarily lacking” (para. 60).
+[143] It is argued that both Maréchaux and Markou are dispositive of this issue.
+Analysis and disposition
+[144] The object of the Program is not in dispute. It was crafted to provide individuals with an opportunity to leverage their personal resources and the amount that could be donated to a registered charity with the use of a loan. All of Appellants were enticed to participate by their respective financial advisors who described it as a leveraged donation or gift program and at times, as an opportunity.
+[145] All of the Appellants testified that they were motivated to participate because of the philanthropic objectives of the Program and that the tax savings were a secondary consideration. The Court attaches no weight to this testimony because, as indicated in Klotz, it is not relevant that a taxpayer was in a “charitable frame of mind” or not, since “this is not a prerequisite to getting a charitable gift tax credit” (para. 25). This was also clearly expressed in Cassan. Secondly, a similar argument was made in Maréchaux TCC, and the court attached little weight to the argument because it was based on “self-interested testimony” (para. 41).
+[146] At the end of the day, donative intent cannot be determined on a subjective basis alone and the Court must instead, “look for the objective manifestation of purpose (…) with due regard for all the circumstances” (Symes, para. 74).
+[147] The Court finds that the cornerstone of the Program, as clearly explained and set out in the promotional materials, was the availability of the loan. It provided leverage and allowed participants to obtain a “positive cash position” that exceeded their actual cash outlay by 60-100% within a short period of time. All of the Appellants indicated that they understood this.
+[148] It was also clear from their testimony, that the Appellants would not have considered applying for a loan from a conventional lending institution for the purpose of making a donation. By agreeing to participate in the Program, a loan was offered to them without regard to their ability to pay, without any proof of income, net worth statement, personal guarantee from a spouse or third party and without a credit check. I find that this was contrary to generally accepted lending practices. Some of the Appellants represented that they were accredited investors with liquid assets exceeding $1.0 million and yet admitted that this was not the case. Many of the Appellants signed loan documents for amounts that exceeded their annual income. What is most relevant here is that all of the Appellants were automatically approved for the loan, without question or further investigation. In the context of the Program, the Court views this access to credit as a substantial benefit.
+[149] The Court finds that participants Herring and Goldstein who initially advanced 100% of the Pledged Amount also received a benefit because they were immediately refunded between 85.5% and 89% of that amount once they signed the Loan Application for the amount being reimbursed. To the extent that these donors have suggested that the loan was an afterthought, I find that their testimony was simply not credible. I find that the arrangement was planned in advance.
+[150] Moreover, the loans were offered on favourable terms. The 2002 Program offered a loan for a term of 25 years without payments of principal (the loan in Maréchaux was for 20 years) and the 2003-2007 Program offered loans for a term of 10 years with interest but no principal repayments. I have no difficulty in concluding that these generous terms also constituted a substantial benefit.
+[151] As part of the Program, the Security Deposit was to be invested to eventually extinguish the loans but the Appellants were reimbursed, at least initially, on an annual basis for any income taxes they might have to pay on the investment returns at an assumed tax rate of 35%. This also constituted a substantial benefit.
+[152] The Appellants’ testimonies focused on their belief that the Promissory Notes were genuine and that the loan proceeds would be advanced to Banyan for its charitable purposes. They testified that they were at risk, and would be responsible, at least for the shortfall, should the investment yield on the Security Deposit not be sufficient to extinguish the loan. For reasons set out above, I find that this testimony is self-serving and thus inherently unreliable.
+[153] On balance, the Court concludes that oral and written representations were made by the promoter and independent salespeople, none of whom testified to provide corroborative testimony in support of the Appellants’ testimonies. These representations included that participants would not be responsible for the loan and that the Lender was relying primarily on the growth of the Security Deposit. The Appellants were led to believe that there was little if any risk, or that such risk, however remote, was worth assuming given the “positive cash position” and promise of a sizeable tax refund. I find that this had all the hallmarks of an investment, including a return on investment, as described in the brochures.
+[154] The Court also finds that the promotional materials made it clear that the loans would be limited recourse, meaning that recourse would be “limited to the security deposit and all accretions thereto” as described in the FMC legal opinion. Participants were urged to rely on that opinion and several Appellants indicated that it gave them “comfort” or “confidence” in the Program. Some Appellants were provided with written assurances that their personal estate would not be at risk for the loans provided the Security Deposit was assigned to the Lender.
+[155] It is not disputed that the Appellants eventually paid interest on some loans commencing in 2006, but at that point in time, they had knowledge of the CRA audit. They had been informed of the fraud or defalcation of their Security Deposit and told that the loans would immediately become due if interest was not paid. They were also led to believe that they would have a better chance of having their tax credits maintained by CRA if they paid the interest and acknowledged the loans.
+[156] Except in the few instances where Appellants accepted an offer to discharge the loans discounted to 22.5% of the balance outstanding, the loans were not paid when they became due. None of the Appellants were able to explain how a bona fide lender could possibly afford to discount its loans by that amount.
+[157] The Court also finds that the promotional materials made it clear that the Lender would obtain performance insurance, at least for the 2003-2007 Program, as confirmed by the FMC legal opinion. Documentary evidence was provided to confirm that such an insurance policy had been obtained, at least initially. Even if it was later cancelled or never existed, I echo the findings of Justice Evans in Maréchaux FCA, that the Appellants “had good reason to believe” that it did exist (para. 11). I make this finding even though some Appellants testified that such insurance did not exist or if it did, they did not rely on it. If they did not rely on it, as some Appellants have suggested, the Court finds that this was part of the overall risk accepted in exchange for the benefits being promoted by the Program.
+[158] Although the Court does not view this as a benefit, all of the Appellants participated, directly or indirectly, in the class-action proceeding against the promoter, Thiessen and FMC that was ultimately settled. Although the allegations made in the statement of claim remain unproven, the Appellants all accepted their pro rata share of the settlement funds, and have the benefit today of an order or declaration that the loans are “unenforceable.”
+[159] Based on an objective review of the evidence, the Court must conclude that the Appellants lacked the requisite donative intent, as that term has been defined in the jurisprudence. While they may have been motivated by the Program’s philanthropic objectives, they participated because of the benefit offered to them in exchange for their cash outlay. As stated by Justice Woods in Maréchaux TCC, “once it is determined that the appellant anticipated to receive, and did receive, a benefit in return for the Donation, there is no gift” (para. 42).
+[160] Moreover, it is clear in this instance, as it was in Markou TCC, that there was no donative intent because the entire Pledged Amount was contingent upon the approval of the loan by the Lender, failing which the cash component and Security Deposit were to be refunded. The terms of the Loan Application were clear.
+[161] The Appellants agree for the purposes of these appeals, that the loan proceeds were never advanced to Banyan, except indirectly for the alleged purchase of annuities. In case there was any doubt, the Court finds that the Respondent’s evidence on this issue was conclusive and not seriously challenged.
+[162] Since the loan proceeds were never directly advanced to Banyan, the Appellants concede that they are not entitled to a donation tax credit for the full Pledged Amount. However, they maintain that they had the requisite donative intent for the cash outlay and Security Deposit and that they have been “impoverished” by those amounts that have not been refunded to them.
+[163] As explained by Justice Woods in Maréchaux TCC, on the issue of partial gifts, “in some circumstances, it may be appropriate to separate a transaction into two parts” (para. 48) but she went on to conclude that it was “not appropriate to separate the transaction in this manner” since there was “just one interconnected arrangement” and “no part of it can be considered a gift that the appellant gave in expectation of no return” (para. 49). The Federal Court of Appeal agreed in Maréchaux FCA (para. 12).
+[164] In this instance, the Court finds that there is no evidence of a partial gift since the cash outlay and Security Deposit were given in exchange for the loan benefit described above. If the loan application was declined, for whatever reason, those amounts would have been refunded. As a result, the Court must conclude that they were not voluntary payments, gratuitously made, but consideration paid in the context of an interconnected transaction or arrangement.
+[165] The Court also agrees with the Respondent that the Security Deposit cannot under any circumstances be considered a ‘gift’ because it was not paid to a “qualified donee” but to the Lender. The uncontroverted evidence is that the Security Deposit was paid to the Lender to be held as security for a loan, as discussed above. The Court attaches no weight to the suggestion that the funds may have been commingled with the cash payments made to Banyan or used to acquire annuities for the recipient charities.
+[166] In the end, I am unable to distinguish the facts in this instance from Maréchaux TCC and Markou TCC, both affirmed by the Federal Court of Appeal. I conclude that ‘no part’ of the donation amount was a gift under the common law and this includes both the cash component and Security Deposit.
+Issue 2 - Are the cash gifts and Security Deposit, or alternatively the cash gifts alone, eligible for a tax credit as ‘split gifts’ under the common law and in accordance with the bijuralism principle?
+[167] If the Court concludes that ‘no part’ of the total donation amount is entitled to a donation tax credit, the Appellants argue in the alternative that the cash outlay and Security Deposit, or alternatively the cash outlay alone, are eligible as ‘split gifts’ under the common law in accordance with the principle of bijuralism.
+[168] The Appellants were residents of Manitoba or Ontario. Nonetheless, they refer to Article 1806 of the Civil Code of Québec, RLRQ, c CCQ-1991 (“CCQ”) that defines a gift as “a contract by which a person, the donor, transfers ownership of the property, by gratuitous title, to another person, the donee” and to Article 1810 that provides that a ‘gift’ includes certain kinds of transactions made for consideration, known as ‘remunerative gifts’ or ‘gifts with a charge’.
+[169] Additionally, the Appellants refer to Article 1811, explaining that it provides that “transactions whereby the donor makes a compromised transfer of property to the donee without compensation and with the intention to benefit the donee, are deemed to be a gift.” As an example, the Appellants cite Martin v. Martin, 2008 QCCA 7, where the Québec Court of Appeal found that a father’s sale of a property to his son for a fraction of its fair market value was a gift (paras. 24-25).
+[170] The Appellants submit that “as in the civil law, the common law has long recognized that a gift can be made and recognized as a gift even when some form of ‘benefit’ or ‘consideration’ is received by the donor.” It is argued that this court and the FCA have recognized transfers of property where the donor receives a benefit in return as ‘gifts’ eligible for tax credits.
+[171] In that context, the Appellants argue that “a single payment can be split into a ‘gift’ and ‘non-gift’ component” relying on The Queen v. Zandstra, [1974] 2 FC 254, 74 DTC 6416 (FCTD) (“Zandstra”); The Queen v. McBurney, [1985] 2 CTC 214, 85 DTC 5433 (FCA) (“McBurney”) and Woolner v. The Queen, [1997] TCJ No. 1395, 2000 DTC 1956 (TCC), affirmed at [1999] FCJ No. 1615, 99 DTC 5722 (FCA) (“Woolner”). On the basis of those decisions, the Appellants argue that funds transferred by parents to their children’s school can be split into a ‘gift’ and ‘non-gift’ component or that amounts paid to a church can “reflect the cost of a secular education and the balance” can “constitute valid gifts.”
+[172] The Appellants refer to the decision of French v. Canada, 2016 FCA 64, (“French FCA”) arguing that it “implicitly accepted that split gifts could be made.”
+[173] The Appellants argue that the notion of ‘split gifts’ was not considered in Maréchaux TCC and Kossow TCC, because it was unable to find donative intent since the taxpayers did not have an “expectation of no return.” Similarly, in Berg TCC, the taxpayer was found to have received consideration.
+[174] The Appellants argue that “if there was partial consideration for the transfer of the cash gift and the Security Deposit, the cash gift and the Security Deposit still qualify as a gift under both the common law and the civil law of Quebec” and “the transaction can be split into a gift component and non-gift component such that the cash contribution is eligible for a tax credit and the balance including the loan amount is not.”
+[175] What follows are the Appellants concluding submissions set out verbatim:
+108. Consequently, to the extent that the loans or some aspect thereof may constitute remuneration to the Participants, the gift less the remuneration constituted a ‘gift’ in Québec through operation of sections 8.1 and 8.2 of the Interpretation Act.
+109. Had the Participants been resident of Québec during the Taxation Years, they would unquestionably be entitled under section 118.1 of the Act to a deduction of the portion of the gifts in excess of the remuneration.
+110. Parliament did not intend for section 118.1 of the Act to produce radically different results for taxpayers in Québec that would not apply to taxpayers in the remainder of Canada (French trial at para. 26).
+[176] It is argued finally that “based on the principles of split gifting recognized under the common law and bijuralism, the cash gift and/or the Security Deposits are valid gifts eligible for a tax credit (…).”
+Position of the Respondent
+[177] The Respondent states that the Appellants entered into “one single interconnected transaction” and that they “bargained for and received a charitable donation receipt in exchange for payment of a fraction of the receipt’s face value.”
+[178] The Respondent argues that it is not necessary to consider “whether split gifts could be made at common law prior to 2002 when the split gifting provisions came into effect, or whether the alleged donations can be treated as split gifts under the CCQ” relying on Markou FCA.
+[179] The Respondent submits finally that the Appellants have failed to establish any material facts to distinguish the 2002 Program from Maréchaux and Markou that are both binding on this Court and dispositive of the issue of split gifts.
+Analysis and Disposition
+[180] The decision of French FCA, raised by the Appellants herein, involved an appeal from an interlocutory order (2015 TCC 35) where Justice C. Miller had agreed to strike certain paragraphs of the pleadings that invoked sections 8.1 and 8.2 of the Interpretation Act, R.S.C. 1985, c. I-21:
+Duality of legal traditions and application of provincial law
+8.1 Both the common law and the civil law are equally authoritative and recognized sources of the law of property and civil rights in Canada and, unless otherwise provided by law, if in interpreting an enactment it is necessary to refer to a province’s rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in the province at the time the enactment is being applied.
+Terminology
+8.2 Unless otherwise provided by law, when an enactment contains both civil law and common law terminology, or terminology that has a different meaning in the civil law and the common law, the civil law terminology or meaning is to be adopted in the Province of Quebec and the common law terminology or meaning is to be adopted in the other provinces.
+[181] As summarized by the FCA, Justice Miller had concluded that “Parliament intended that a uniform concept of gift in line with the civil law of the Province of Québec be applied across Canada” (French FCA, para. 1). As explained by Chief Justice Noël, the issue was whether, in light of those provisions, it was “arguable (…) that Parliament intended the word ‘gift’ as it is used in subsection 118.1(3), to encompass splits gifts, in line with the notion recognized by civil law” (para. 27).
+[182] Chief Justice Noël then reviewed many of the decisions that are referred to by the Appellants herein, including Zandstra, McBurney, Woolner, Maréchaux, Kossow and Berg. He granted the appeal setting aside the order, concluding that:
+[42] In short, it cannot be said with certainty that the meaning of “gift” prior to the 2002 amendments excluded the notion of split gift in the common law provinces and that the effect of these amendments was to change that state of affairs. Indeed, it is equally plausible that these amendments clarified an area of the law that was uncertain.
+[183] The issue was later revisited in Markou TCC where Justice Paris noted that “although the civil law of Quebec recognizes various categories of partial gifts, including remunerative gifts, donative intent is still required of the portion of a transfer that is purported to be a gift” and that the “requirement for donative intent would appear to be the same under Quebec civil law as under the common law in order for a transfer to qualify as a gift” (paras. 101-102).
+[184] Justice Paris then referred to Maréchaux TCC and to Justice Woods’ finding that “the financing was not provided in isolation to the Donations” and that the “two were inextricably tied together by the relevant agreements” (para. 33). He concluded that if the loan application was not accepted, the deposit was to be refunded to the prospective donor without interest or deduction and that, given “the contractual arrangements entered into by the Appellants, it cannot be said that any portion of their donations (…) was made with donative intent” (para 111).
+[185] The Federal Court of Appeal agreed (Markou FCA) finding that “the contractual arrangements pursuant to which the appellants made their alleged gifts cannot give rise to split gifts as the two are inextricably tied” (para. 48). The court explained that this conclusion “necessarily flows from (…) the loan agreements which made each of the appellants’ entire donation conditional on the loan being approved by the lender” (para. 49) and concluded that “there was no gift whether the matter is considered from a common law or civil law perspective” (para. 51).
+[186] The Court has already concluded that the participants obtained substantial benefits including the granting of the loans on favourable terms and representations that the loan would eventually be extinguished. As argued by the Respondent, this had the same effect as the ‘put option’ described in Maréchaux TCC. Moreover, as previously explained, and as concluded in Markou TCC, the Appellants advanced the cash component and Security Deposits, both of which were to be refunded if the loan application was not accepted by the Lender.
+[187] I find that there is no reason to distinguish Maréchaux or Markou from the facts in this instance and that the Court is bound by those decisions.
+[188] As a result, I conclude once again that the Appellants lacked the requisite donative intent and that neither the cash component nor the Security Deposit can be considered split gifts. On that basis, I would reject this argument.
+Issue 3 - Whether subsections 248(30) to (32) of the Act are applicable?
+[189] If it is determined that no part of the cash component and Security Deposits are valid gifts under the common law and cannot be characterized as ‘split gifts,’ the Appellants argue that “the next question is whether they constitute an ‘eligible amount’ under subsection 248(31) of the Act.”
+[190] The Appellants indicate that “subsections 248(30) to (32), when enacted, were made retroactive to December 20, 2002.” It is argued that they “have codified the principle of split gifting under the common law” such that “a transfer may constitute a gift even if the taxpayer received an advantage in respect of the transfer.” Those provisions provide as follows:
+Intention to give
+(30) The existence of an amount of an advantage in respect of a transfer of property does not in and by itself disqualify the transfer from being a gift to a qualified donee if
+(a) the amount of the advantage does not exceed 80% of the fair market value of the transferred property; or
+(b) the transferor of the property establishes to the satisfaction of the Minister that the transfer was made with the intention to make a gift.
+Eligible amount of gift or monetary contribution
+(31) The eligible amount of a gift or monetary contribution is the amount by which the fair market value of the property that is the subject of the gift or monetary contribution exceeds the amount of the advantage, if any, in respect of the gift or monetary contribution.
+Amount of advantage
+(32) The amount of the advantage in respect of a gift or monetary contribution by a taxpayer is the total of
+(a) the total of all amounts, other than an amount referred to in paragraph (b), each of which is the value, at the time the gift or monetary contribution is made, of any property, service, compensation, use or other benefit that the taxpayer, or a person or partnership who does not deal at arm’s length with the taxpayer, has received, obtained or enjoyed, or is entitled, either immediately or in the future and either absolutely or contingently, to receive, obtain, or enjoy
+(i) that is consideration for the gift or monetary contribution
+(ii) that is in gratitude for the gift or monetary contribution, or
+(iii) that is in any other way related to the gift or monetary contribution, and
+(b) the limited-recourse debt, determined under subsection 143.2(6.1), in respect of the gift or monetary contribution at the time the gift or monetary contribution is made.
+[191] The Appellants argue that subsection 248(31) “allows for split gifting where the donor receives some advantage in return” for the gift made and that “the amount eligible for the gift is the excess of the fair market value of the property transferred over the advantage received.” It is argued that paragraphs 248(30)(a) and (b), and subsection 248(31), “when read together” provide that “so long as the advantage does not exceed 80% or if the Minister is satisfied that the transferor intended to make a gift, the transfer will remain a gift less the amount of the advantage.”
+[192] The Appellants argue that “the purpose of these provisions is to limit the tax credit under sections 110.1 and 118.1 for transfers of property to qualified donees where the economic cost of the transfer to the transferor is directly or indirectly reduced.”
+[193] It is argued that “subsections 248(30) to (32) assume that a transfer of property was a gift under private law for the purpose of determining the amount of the advantage in respect of that gift” and that “the ‘amount of the advantage’ determines whether the 80% threshold in paragraph 248(30)(a) is or is not exceeded.”
+[194] The Appellants submit that “if a donor does not receive an advantage (…) that transfer is a valid gift at common law” but “if the taxpayer does receive an advantage in respect of a gift, then subsection 248(30) applies.” In other words, it is argued that, on the basis of paragraph 248(30)(a), “lack of donative intent is no longer a bar to allowing charitable tax credits for transfers to qualified donees provided the 80% threshold for the amount of the advantage is not exceeded.”
+[195] The Appellants argue that the next step in the analysis is the determination of “the amount of the advantage” if any, as defined in subsection 248(32).
+[196] It is argued that paragraph 248(32)(a) “deals with benefits in the form of property, service, compensation or use” that involve “the same considerations as under the analysis of a gift at common law and whether the donor has received any consideration as a result of the gift.”
+[197] Turning to the practical application of the law to the facts in this instance, the Appellants argue that a finding of an ‘advantage’ requires that there is a ‘benefit’ as defined in paragraph 248(32)(a) or limited-recourse debt as defined in paragraph 248(32)(b), “which when added together exceed the amount of the monetary contribution by 80% or more.”
+[198] The Appellants argue that the loans “were not limited recourse at the time they were entered into” but it is conceded “that they would not be entitled to a tax credit for the loan as, due to no fault of their own (…) no loan was ever advanced by the Lender” to Banyan. As a result, it is submitted “that the loan ought not be considered an advantage under paragraph 248(32)(b) because it is agreed that the loan proceeds were never advanced and there can be no loan, limited or otherwise, when no funds are actually advanced by a purported lender to a borrower or a third party as directed by the borrower.” In this regard, it is argued that “it would be absurd to conclude that a loan that was never advanced (…) is an advantage (…) and to count the loan as an advantage would be tantamount to penalizing the participants twice for the same thing which was not their fault in the first place.”
+[199] On that basis, the Appellants urge the Court to conclude that “if the loan is taken out of the equation” they received “no advantage under paragraph 248(32)(a) in respect of their gift which is comprised of the cash gift and security deposit.”
+[200] Relying on Castro (paras. 43 to 48) (an appeal from David, as noted below), the Appellants contend that “the receipt of a charitable donation receipt (…) does not in and of itself constitute a benefit to the transferor even if the amount of the receipt is inflated.” Alternatively, it is submitted that “even if the loan is taken into account under paragraph 248(32)(b), the combination of the cash gift and the Security Deposit” for each of the Appellants, “exceed the 20% threshold.”
+[201] The Appellants also reject the suggestion that the proceeds of the class-action suit received by the Appellants should be taken as an advantage for the purposes of paragraph 248(32)(a) since that provision “is premised on the existence of ‘value’ at the time the monetary contribution was made.” The Appellants note that the “Settlement Order” of July 17, 2012, refers to loans as being “unenforceable” when the declaration was made but not retroactive to when the debt was incurred since it “was not absolutely or contingently contemplated at the time the monetary contribution was made by the Participants.”
+[202] On the basis of the foregoing, it is submitted that “there is no basis upon which the tax credits for the cash gifts and the Security Deposits (…) should either be denied or reduced.”
+[203] In the further alternative, it is argued that if the Court finds that the consideration received by the Appellants exceeds 80% under paragraph 248(30)(a), it is argued that “the analysis should shift to whether the provisions of paragraph 248(30)(b) have been met and whether the transfer was made with the intention to make a gift.” For this purpose, the Appellants repeat and rely on the previous submissions that they had the requisite donative intent with respect to the cash gift and Security Deposit.
+[204] In Reply Submissions, the Appellants argue that if lack of donative intent was fatal to finding a gift pursuant to paragraph 248(3)(a), “it would have been absurd to enact paragraph 248(30)(b) as those two subsections are disjunctive.”
+[205] The Appellants argue finally, that “if the advantage is less than 80%, then (…) donative intent is not required” because otherwise “it would not be necessary to provide for an 80% threshold and any enactment in that regard would be absurd.”
+Position of the Respondent
+[206] The Respondent submits that the Appellants lacked donative intent for the entire gift amount arguing that the payments made “were not gifts but consideration under profit-motivated contracts.” It is argued that paragraph 248(30)(a) “cannot be used to deem donative intent, even if the 80% threshold is not exceeded.”
+[207] In support of the proposition that “lack of donative intent alone results in a finding of no gift, even in years where the advantage in respect of a gift does not exceed 80%,” the Respondent relies on the comments made in obiter by Justice Near in Berg FCA, as noted above.
+[208] It is argued that the Appellants’ “lack of donative intent is fatal” and that the appeals must be dismissed on that basis. The Respondent maintains that “donative intent is required even where the advantage does not exceed 80%” explaining that paragraph 248(30)(a) merely provides that “the existence of an amount of an advantage in respect of a transfer of property, does not in and by itself, disqualify that transfer from being a gift” if the advantage does not exceed 80% but had “Parliament intended to do away with the requirement of donative intent, it would have stated so explicitly.” The Respondent argues that the wording of paragraph 248(30)(b) “confirms” that Parliament did not intend to “do away with the requirement of donative intent where the gift exceeds 80%” since it provides that a transferor may seek to establish, to the satisfaction of the Minister, “that the transfer was made with the intention to make a gift.”
+[209] Since the Minister was not satisfied of the existence of donative intent, in accordance with paragraph 248(30)(b), it is argued that “donative intent remains as an issue to be determined by this Court.”
+[210] In the alternative, the Respondent argues that the “amount of the advantage” determined pursuant to paragraph 248(32)(a) exceeded 80% such that the gift is disqualified or, in accordance with paragraph 248(32)(b) that the loan amount is “limited recourse debt” as defined in subsection 143.2(1):
+“limited-recourse amount” means the unpaid principal amount of any indebtedness for which recourse is limited, either immediately or in the future and either absolutely or contingently.
+[211] It is argued broadly that the entire amount of the loans fall into that definition because i) the information relating to the loans was located outside of Canada; ii) the Appellants made no bona fide arrangements, evidenced in writing, to repay the loans; iii) the loans were contingent and forgivable; iv) the Appellants failed to pay interest on the loans; v) the loans were subject to security and a guarantee; and vi) the loans were part of a series of loans and repayments extending beyond 10 years.
+[212] The Respondent relies in particular on the following provisions:
+Limited-recourse debt in respect of a gift or monetary contribution
+(6.1) The limited-recourse debt in respect of a gift or monetary contribution of a taxpayer, at the time the gift or monetary contribution is made, is the total of:
+(a) each limited-recourse amount at that time, of the taxpayer and of all other taxpayers not dealing at arm’s length with the taxpayer, that can reasonably be considered to relate to the gift or monetary contribution,
+(b) each limited-recourse amount at that time, determined under this section when this section is applied to each other taxpayer who deal at arm’s length with and holds, directly or indirectly, an interest in the taxpayer, that can reasonably be considered to relate to the gift or monetary contribution, and
+(c) each amount that is the unpaid amount at that time of any other indebtedness, of any taxpayer referred to in paragraph (a) or (b), that can reasonably be considered to relate to the gift or monetary contribution if there is a guarantee, security or similar indemnity or covenant in respect of that or any other indebtedness.
+Repayment of indebtedness
+(7) For the purpose of this section, the unpaid principal of an indebtedness is deemed to be a limited-recourse amount unless
+(a)bona fide arrangements, evidenced in writing, were made, at the time the indebtedness arose, for repayment by the debtor of the indebtedness and all interest on the indebtedness within a reasonable period not exceeding 10 years; and
+(b) interest is payable at least annually, at a rate equal to or greater than the lesser of
+(i) the prescribed rate of interest in effect at the time the indebtedness arose, and
+(ii) the prescribed rate of interest applicable from time to time during the term of the indebtedness,
+and is paid in respect of the indebtedness by the debtor no later than 60 days after the end of each taxation year of the debtor that ends in the period.
+(…)
+Information located outside Canada
+(13) For the purpose of this section, if it can reasonably be considered that information relating to indebtedness that relates to a taxpayer’s expenditure, gift or monetary contribution is available outside Canada and the Minister is not satisfied that the unpaid principal of the indebtedness is not a limited-recourse amount, the unpaid principal of the indebtedness relating to the taxpayer’s expenditure, gift or monetary contribution is deemed to be a limited-recourse amount relating to the expenditure, gift or monetary contribution unless
+(a) the information is provided to the Minister; or
+(b) the information is located in a country with which the Government of Canada has entered into a tax convention or agreement that has the force of law in Canada and includes a provision under which the Minister can obtain the information.
+Analysis and Disposition
+[213] Subsections 248(30) to (32) are located in Part XVII – Interpretation that contains numerous definitions that apply to all provisions “in this Act.” These specific provisions are the result of amendments enacted by the 2002-2013 technical bill (Part 5 – technical) [vi] on June 26, 2013, effective for gifts and monetary contributions made after December 20, 2002.
+[214] The Explanatory Notes [vii] provide as follows:
+For the transfer of property to qualify as a gift, it is necessary that the transfer be voluntary and with the intention to make a gift. At common law, where the transferor of the property has received any form of consideration or benefit, it is generally presumed that such an intention is not present. New subsection 248(30) of the Act, which applies in respect of transfers of property after December 20, 2002, to qualified donees (such as registered charities), allows the opportunity to rebut this presumption. New paragraph 248(30)(a) provides that the existence of an amount of an advantage to the transferor will not necessarily disqualify the transfer from being a gift if the amount of the advantage does not exceed 80% of the fair market value of the transferred property.
+[215] As previously explained, the word ‘gift’ is not defined in the Act but has generally been described as a voluntary and gratuitous transfer of property by a donor without any expectation of an economic advantage or benefit. Imbedded in this definition is the notion of ‘donative intent.'
+[216] Subsection 248(30) does not explicitly contain the expression ‘donative intent’ but it is titled ‘intention to give.’ It provides that the existence “of an advantage in respect of a transfer of property does not in and by itself disqualify the transfer from being a gift” subject to paragraphs (a) and (b). The Explanatory Notes indicate that the existence of an advantage “will not necessarily disqualify the transfer (…)” [My Emphasis]. The wording invites further investigation.
+[217] In Markou TCC, Justice Paris referred to these provisions as the “split gifting amendments,” explaining that “certain transfers of property that were made without donative intent may still qualify as gifts despite the receipt of consideration by the transferor for the transfer, provided that the consideration received does not exceed 80% of the fair market value of the property that is transferred” and that “where the 80% threshold is not crossed, the lack of donative intent is no longer a bar to allowing charitable donation tax credits for transfers to qualified donees” (paras. 112-113). I note that these comments were made in obiter because Justice Paris had already concluded that “in light of the arrangement”, it could not be said that “any part of the donations” was “made with donative intent” (para. 111).
+[218] I also note that the Federal Court of Appeal in Markou FCA, stopped short of endorsing Justice Paris’ comments as Chief Justice Noël indicated that he would “refrain from expressing any view on the suggestion (…) that donative intent may no longer be required under the split gifting provisions where the 80% threshold provided for in paragraph 248(30)(a) is not exceeded” (para. 61).
+[219] In Cassan, a decision that predates Markou FCA by only a few months, Justice Owen reviewed subsections 248(30) to (32) (paras. 319-338) finding that:
+[328] (…) a sensible interpretation of subsections 248(30) and (32) is that one must assume that a transfer of property is a gift under private law for the purpose of determining the amount of the advantage in respect of that gift under subsection 248(32). The amount of the advantage in turn determines whether the 80% threshold in paragraph 248(30)(a) is or is not exceeded.
+(…)
+[334] (…) Subsection 248(30) provides an exception to the private law in circumstances where the “existence of an amount of an advantage” would otherwise disqualify a transfer of property as a gift. The exception applies if the amount of the advantage described in the opening words does not exceed 80% of the fair market value of the transferred property. (…)
+[My Emphasis]
+[220] It is apparent that this analysis focused on circumstances where there was an advantage or benefit that would disqualify a transfer of property as a gift under private law, were it not for the application of subsections 248(30) to (32).
+[221] A textual, contextual and purposive analysis of these provisions, lead me to conclude that they only apply where there has been a transfer of property that would qualify as a gift under private law, were it not for the advantage or benefit received. In those instances, it is appropriate to consider the statutory framework to determine the ‘amount of the advantage’ and ‘eligible amount of the gift.’ But where the transfer of property is part of an interconnected arrangement or is contingent on the receipt of some contractual benefit, there is no need to consider the provisions because donative intent is necessarily lacking.
+[222] In this instance, the Court has already found that the Appellants lacked donative intent for the entire amount of the alleged donation since the cash component was paid to Banyan on a contingent basis. There were clear and explicit conditions attached. As such it cannot be said that the transfer was ‘voluntary’ or ‘gratuitous’. The Court has concluded that ‘no part’ of the donation amount was a gift and no reason to consider a ‘split gift’. The same can be said for the Security Deposit, although there is no reason to conclude that it was a gift in any event.
+Have subsections 248(30) – (32) changed anything in this instance?
+[223] Having concluded that there was an absence of donative intent for any part of the donation amount, I would qualify the statements made by Justice Paris in Markou TCC, referenced above, and find that as a result of the so-called split gifting amendments, where the 80% threshold is not exceeded, lack of donative intent may no longer be a bar to allowing charitable donation tax credits for transfers to qualified donees. Paragraph 248(30)(a) provides that receipt of an advantage “does not in and by itself disqualify the gift” [My Emphasis]. The provision does not state that an advantage ‘does not disqualify’ or ‘shall not disqualify’ or use other similar phraseology. It is not a typical ‘deeming provision.’
+[224] Thus the Court must agree with the Respondent, that had Parliament intended to obviate the need to consider donative intent, it would have clearly stated that the receipt of an advantage shall not disqualify the transfer from being a gift where the amount of the advantage does not exceed 80%. I agree with the Respondent that this is made apparent when one considers that paragraph 248(30)(b) allows the Minister to allow a gift where the advantage exceeds 80%, if it is established that “the transfer was made with donative intent.” This would be consistent with the Explanatory Notes to the amendments, noted above, that provide that the receipt of an advantage “will not necessarily disqualify the gift.”
+[225] The foregoing is sufficient to conclude that subsections 248(30) to (32) do not apply in this instance. The Court agrees with the Respondent that the absence of donative intent is fatal. Because the Court has concluded that the Appellants lacked donative intent for the entire gift, the split-gifting amendments do not apply.
+[226] If I have wrongly concluded that the split-gifting amendments do not apply, it is necessary to consider whether the advantage or benefit obtained by the Appellants exceeded 80% of the ‘fair market value of the transferred property.’
+[227] Subsection 248(31), provides that the “eligible amount of the gift” is the difference between the fair market value of “the property that is the subject matter of the gift” and “the amount of the advantage.” Subsection 248(32) then provides a statutory framework to determine the “amount of the advantage.”
+[228] Paragraph 248(32)(a) is broadly worded and is intended to capture “all amounts,” including “any property, service, compensation” that is “received, obtained or enjoyed (…) either immediately or in the future and either absolutely or contingently (…)” that is linked to “the gift or monetary contribution” by the application of subparagraphs (i), (ii) or (iii).
+[229] The Court has already concluded that the loan offered to participants of the Program was a substantial benefit. It is apparent that the loan was “consideration for the gift” or “in any way related to the gift” in accordance with subparagraphs 248(32)(a)(i) or (iii). I am satisfied that the Lender would not have extended the loan, were it not for the cash outlay paid directly to Banyan. It is not disputed that the loans ranged from 85.5% to 89% of the entire gift amount and thus the 80% threshold set out in paragraph 248(30)(a) was clearly exceeded.
+[230] The Appellants do not agree and have argued that the Court should consider the entire cash outlay, consisting of the cash component and Security Deposit. These amounts, taken together, ranged from 23% to 29% of the entire gift amount. In other words, it is argued that the loans ranged from 71% to 77% of the alleged donation amount, such that the 80% limit was not exceeded.
+[231] The Court must reject this argument. As argued by the Respondent, there is no reason to reimagine the Security Deposit as a gift. The Lender was not a ‘qualified donee’ even if it was associated with Banyan or played an essential role in the overall Program. The uncontroverted evidence is that the Security Deposit was paid to the Lender as security for the loan. This was part of the arrangement.
+[232] If I have wrongly concluded that the loans extended to the Appellants were an ‘advantage’ as defined in paragraph 248(32)(a), then I turn to paragraph 248(32)(b) and find that the loans in questions were limited-recourse debt as further defined in subsection 143.2(6.1). If the loans were limited recourse debt, that exceeded 80% of the total gift amount, then the amount of the gift is nil. It is not necessary to address this issue in further detail and I decline to do so.
+[233] The Appellants have also suggested that the Court should ignore the loan amount altogether because it was never advanced to Banyan through no fault of their own. The Court finds that this is a circular argument because if the loan is ignored because it was never advanced to Banyan, then the split-gifting provisions would simply not apply. It would only be necessary to determine if the cash outlay and Security Deposit were gifts at law and the Court has already addressed that issue, finding that they were not gifts because the Appellants lacked donative intent.
+[234] As argued by the Respondent, the operative time to calculate the amount of any benefit is at the time the alleged donations were made. Moreover, as indicated above, the Appellants all testified at great length on their belief that they were legally responsible for the loan. As noted in Berg FCA, the Promissory Note had value when it was entered into even if the declaration that followed the class-action proceeding eventually declared that the loans were “unenforceable.” This argument might have made more sense if the court endorsement described above had declared that the loans were also “void” but that was not included in the final order.
+[235] It suffices to say that there was no gift because the Appellants intended to leverage their cash resources using the loan proceeds. As noted above, the loan was an essential component of the Program and, in the words of Justice Woods, it was “inextricably tied together by the relevant agreements” (Maréchaux TCC). It is not possible in these circumstances to separate the two. See also Bandi v. The Queen, 2013 TCC 230 where Justice Hogan concluded, relying on Maréchaux FCA, “that it is inappropriate to separate transactions forming part of an integral arrangement in their cash and non-cash parts” (para. 16).
+[236] The Appellants have argued that the Minister could have or should have proceeded pursuant to paragraph 248(30)(b) to determine on a “reasonable” basis that the transfer made by the Appellants “was made with the intention to make a gift." The Court finds that it is implicit that the Minister was not of that view and that this is not the proper forum to determine if the Minister acted reasonably.
+[237] On the basis of the foregoing analysis, and in particular given the Court’s finding that the Appellants lacked the requisite donative intent for the entire Pledged Amount, I conclude that subsections 248(30) to (32) do not apply. Further and in the alternative, the advantage or benefit exceeded the 80% threshold.
+Issue 4 - If the Security Deposit is not an “eligible amount” pursuant to subsection 248(31), are the Appellants entitled to claim a net capital loss pursuant to paragraph 111(1)(b) of the Act?
+[238] If the Court determines that the Security Deposit is not a valid gift, the Appellants submit that it should be “characterized as an investment” because they believed it “would be invested” and the amount has not been returned to them.
+[239] On that basis, the Appellants submit that the Security Deposit should “constitute a capital loss” deductible from capital gains, if any, as “net capital losses” pursuant to subsection 111(1)(b) of the Act.
+[240] The Respondent rejects this argument indicating that the Appellants have “failed to adduce evidence in respect of the necessary elements for determining the existence of a capital loss”, including the following:
+i) the year or years in which all or part of the security deposit was disposed of by the appellants;
+ii) the proceeds of disposition for each disposition of all or part of the Security Deposit; or
+iii) the adjusted cost base of the Security Deposit or part thereof at the time of each disposition.
+[241] As a result, the Respondent argues that the Appellants “are not entitled to a capital loss in respect of the Security Deposit in any of the years under appeal.”
+Analysis and Disposition
+[242] Capital losses generally arise when net proceeds of disposition are less than the adjusted cost base of capital property at the time of disposition: paragraphs 39(1)(b) and 40(1)(b) of the Act. In the event that a capital loss arises, the taxpayer may claim an allowable capital loss and deduct 50% of the capital loss against taxable capital gains: subsection 38(b) of the Act.
+[243] In order to claim an allowable capital loss, the property in question must be capital in nature, there must be a disposition and the net proceeds of disposition must be less than the adjusted cost base of the capital property.
+[244] Section 54 of the Act defines ‘capital property’ as follows:
+‘capital property’ of a taxpayer means
+(a) any depreciable property of a taxpayer, and
+(b) any property (other than depreciable property), any gain or loss from the disposition of which would, if the property were disposed of, be a capital gain or a capital loss, as the case may be, of the taxpayer.
+[245] Until recently, the case law only distinguished between inventory which yields income and capital property which generates a capital gain or loss. This distinction was summarized by the Supreme Court of Canada in Friesen v. Canada [1995] 3 SCR 103 (“Friesen”) where the court indicated that the Act “creates a simple system which recognizes only two broad categories of property” and “the characterization of an item or property as inventory or capital is based primarily on the type of income that the property will produce” (para. 42).
+[246] However, in Kruger Incorporated v. Canada, 2016 FCA 186 (“Kruger”), the Federal Court of Appeal concluded that foreign currency options were “neither capital property nor inventory,” explaining that “although the Act is premised on the existence of two broad classes of property, it imposes no limit on the types of property (…) that can impact the computation of income (…)” (para. 101).
+[247] The Appellants argue that the Security Deposit was in the nature of an investment that was to be used to discharge the loans. According to Friesen, the Security Deposit would have to be either ‘capital property’ or ‘inventory’ but applying Kruger, it is possible to conclude that the Security Deposit was neither.
+[248] In order to determine whether property is capital in nature, certain factors must be taken into consideration. Although these factors are usually analyzed to distinguish capital gains from business income, they “may convince a court that the transaction under investigation is one of a capital nature”: Canada Safeway Limited v. Canada, 2008 FCA 24, at para. 47 (“Safeway”). Although none of these factors is determinative on its own, “the most determinative factor is the intention of the taxpayer at the time of acquiring the property” (para. 43).
+[249] When the Court considers the factors that motivated the disbursement of the Security Deposit by the Appellants to the Lender, it must conclude that it was intended as part of a series of steps in the context of an arrangement. It was an entry fee or charge paid in exchange for the right to participate in the Program or in exchange for the alleged extension of credit on favourable terms.
+[250] Although participants were led to believe that the Security Deposit would be invested and held for their benefit to be applied to the balance outstanding at the end of the term, I have already concluded that oral and written representations were made that Appellants would not be responsible for the loan because the Lender was relying primarily on the growth of the Security Deposit or performance insurance, as explained in the FMC legal opinion described above.
+[251] The fact that the loan proceeds were never advanced to Banyan, or that the loan was not in fact a valid loan, as has been acknowledged by the Appellants, supports the notion that the Security Deposit was intended as a charge or fee for participation in the Program. It was never intended to be an investment.
+[252] In the end, the Court is unable to conclude that the Appellants acquired any ‘capital property.’ That conclusion alone suffices to reject this argument.
+Issue 5 – Whether the receipts contained the prescribed information?
+[253] If the Court concludes that the loan proceeds were never advanced to Banyan, then the Respondent argues that “the only conclusion open to the Court is that the receipts issued (…) did not state the amount of cash received” and as a result “the Appellants are not entitled to a charitable tax credit.”
+[254] The Respondent relies on Plante v. The Queen, [1999] 2 CTC 2631, [1999] TCJ No. 51 (“Plante”) where Justice Tardiff reviewed the need for a receipt that contains prescribed information. He noted that the requirements are “not frivolous or unimportant” and that if the prescribed information does not appear, “the receipt must be rejected” and “the holder of the receipt” loses the tax benefits claimed (paras. 46 – 49.)
+[255] Subsection 118.1(2) provides that the “eligible amount of a gift is not to be included in the total charitable gifts (…) of an individual unless the making of the gift is evidenced by filing with the Minister”, in accordance with paragraph (a), “a receipt for the gift that contains prescribed information.”
+[256] A detailed list of the prescribed information is set out in section 3501 of the Regulations. That list includes the following:
+3501(1) Every official receipt issued by as registered organization shall contain a statement that it is an official receipt for income tax purposes, and shall show clearly, in such a manner that it cannot readily be altered,
+(…)
+(h) the amount that is
+(i) the amount of a cash gift, or
+(ii) (…)
+(h.1) a description of the advantage, if any, in respect of the gift and the amount of that advantage;
+(h.2) the eligible amount of the gift;
+(…)
+3501(6) Every official receipt form on which any of the following is incorrectly or illegibly entered is deemed to be spoiled:
+(a) The date on which the gift is received;
+(b) The amount of the gift, in case of a cash gift;
+(c) A description of the advantage, if any, in respect of the gift and the amount of that advantage; and
+(d) The eligible amount of the gift.
+[257] The Respondent also relies on David v. The Queen, 2014 TCC 117 (“David”), where taxpayers had been solicited by a tax return preparer to make donations to a registered charity but were only required to advance 10% of the face value of the receipt in cash. The Minister disallowed the tax credits in their entirety.
+[258] Justice Woods relied on Canada v. Doubinin, 2005 FCA 298, finding that inflated tax receipts are not benefits that vitiate a gift and that, if there is no benefit, subsections 248(30), (31) and (32) do not apply. She concluded that each appellant was entitled to a tax credit equal to 10% of the face value of the receipt.
+[259] In the appeal of David known as Castro (as described above) (leave to appeal to the SCC denied on April 14, 2016), the taxpayers argued, inter alia, that there was no authority to support the Minister’s position that lack of prescribed information invalidates an otherwise valid gift (para. 69).
+[260] Scott JA. noted that the trial judge “did not consider whether the receipts (…) met the requirements of subsection 118.1 of the Act and all the prescribed information requirements listed in section 3501 (…) as the issue was not raised before her” (para. 25). He nonetheless allowed the appeal and disallowed the tax receipts noting that “the absence of the correct cash amount of the donation on the charitable receipts” failed “to meet the requirements of subsection 118.1(2) and subparagraph 3501(1)(h)(i) of the Regulations” (para. 31).
+[261] Justice Scott added that subsection 118.1(2) provides that “the eligible amount of a gift must be proven by filing (…) a receipt for the gift that contains the prescribed information” (para. 59) and that paragraph 3501(6)(b) of the Regulations requires that “the amount of the cash gift has to be found on the official receipt form otherwise it is deemed to be spoiled” (para. 64). He noted that the French version indicates that “le reçu est considéré comme inutilisable” meaning that it cannot be used to claim a tax credit (paras. 83 and 84).
+[262] In Reply submissions, the Appellants argue that Castro should be distinguished because it involved a tax return preparer “who worked in collusion with the taxpayers” who then “provided inconsistent and unreliable testimony” as to the actual amount of their donation. In this instance, the Appellants argue that “the Minister knew or ought to have known the exact amount of the cash outlay and Security Deposit because of the tax shelter application” filed by the promoter.
+[263] The Appellants rely on Chabot v. Canada, 2001 FCA 383 (“Chabot”) and Mitchel v. Canada (Attorney General), 2002 FCA 407 (“Mitchel”), cited by the Federal Court of Appeal in Castro, in support of the proposition that “a flexible approach to the interpretation of Section 3501 of the Regulations should be allowed where all the information is readily available to the Minister.”
+[264] The Appellants also submit that the donation receipts issued by Banyan indicated the correct amount at the time they were issued and that, unlike the taxpayers in Castro, the Appellants have not had the opportunity to request that Banyan provide a corrected official receipt.
+Analysis and Disposition
+[265] There is no dispute that the tax receipts submitted by the Appellants did not indicate the correct amount of the alleged cash gift as they reflected the total Pledged Amount, including loan proceeds that had never been advanced. On that basis, I find that the receipts are spoiled because they do not reflect the correct cash amount, contrary to paragraph 3501(6)(b) of the Regulations.
+[266] In the alternative, since the Court has concluded that the granting of the loan as part of the Program was an advantage in accordance with subsections 248(30) to (32), then it must also conclude that the receipts are spoiled because they do not reflect the ‘amount of the advantage’ or the ‘eligible amount of the gift’, as required by paragraphs 3501(6)(c) and (d) of the Regulations.
+[267] In Castro, the Federal Court of Appeal conducted a textual, contextual and purposive analysis of section 3501 (paras. 77 to 84) concluding that even if it was determined that a gift had been made, which is not the case here, “there was no official receipt” and the taxpayers were not entitled to “any tax credit” (para. 85).
+[268] Even if the Program had been described in the tax shelter application filed by the promoter, I am not convinced that all the information pertaining to each Appellant was readily available to the Minister. Moreover, I am not convinced that the flexible approach sought by the Appellants in this instance, relying on Chabot and Mitchel, allows this Court to ignore the requirements of subsection 118.1(2) or the prescribed information. This would require clear statutory language that Parliament has not provided and that cannot be read into the statutory provisions.
+[269] The Court finds that Castro is dispositive of this argument. The Appellants are not entitled to claim a tax credit for any amount remitted to Banyan because the receipts do not contain the prescribed information, contrary to subsection 118.1(2) of the Act. Moreover, I find that the receipts are “spoiled” because they do not meet the requirements of paragraphs 3501(6)(b), (c) and (d) of the Regulations.
+VI. Conclusion
+[270] For all the foregoing reasons, the appeals are dismissed.
+[271] In accordance with the Consent Agreement filed on December 15, 2020, the Court orders that each party shall bear their own costs in these appeals.
+Signed at Ottawa, Canada, this 31st day of March 2022.
+“Guy R. Smith”
+Smith J.
+Schedule “A”
+Banyan Tree Foundation – 2002 Program
+Donation Amount
+$10,000
+$20,000
+$50,000
+Donation made up of
+Cash
+Loan
+Total Donation
+Cash Requirements:
+Donation
+Security for Loan
+Total Cash Requirement
+$1,450
+8,550
+$10,000
+$1,450
+870
+$2,320
+$2,900
+17,100
+$20,000
+$2,900
+1,740
+$4,640
+$7,250
+42,750
+$50,000
+$7,250
+4,350
+$11,600
+Total Donation for Tax Purposes
+Tax Credit on Donation @ 46.41%
+Less: Cash Requirement
+POSITIVE CASH POSITION
+As a Percentage of Cash Requirement
+$10,000
+$4,641
+(2,320)
+$2,321
+100.00%
+$20,000
+$9,282
+(4,640)
+$4,642
+100.00%
+$50,000
+$23,205
+(11,600)
+$11,605
+100.00%
+Banyan Tree Foundation – 2003-2007 Program
+Donation Amount
+$10,000
+$30,000
+$60,000
+Donation made up of
+Cash
+Loan
+Total Donation
+Cash Requirements:
+Donation
+Security for Loan
+Total Cash Requirement
+$1,350
+8,650
+$10,000
+$1,350
+1,380
+$2,730
+$4,050
+25,950
+$30,000
+$4,050
+4,140
+$8,190
+$8,100
+51,900
+$60,000
+$8,100
+8,280
+$16,380
+Total Donation for Tax Purposes
+Tax Credit on Donation @ 46.41%
+Less: Cash Requirement
+POSITIVE CASH POSITION
+As a Percentage of Cash Requirement
+$10,000
+$4,640
+(2,730)
+$1,910
+70%
+$30,000
+$13,920
+(8,190)
+$5,730
+70%
+$60,000
+$27,840
+(16,380)
+$11,460
+70%
+Schedule “B”
+David Herring
+Year
+Pledge Amount
+Cash
+Loan
+Donation Receipt
+Security
+Deposit
+Cash to Donation %
+Security Deposit to Donation %
+2002
+$150,000
+$150,000
+$128,250
+$150,000
+$13,050
+14.5
+8.7
+2003
+$150,000
+$150,000
+$129,750
+$150,000
+$20,700
+13.5
+13.8
+2005
+$30,000
+$4,350
+$25,650
+$30,000
+$4,350
+14.5
+14.5
+Kenneth L. Milley
+Year
+Pledge Amount
+Cash
+Loan
+Donation Receipt
+Security Deposit
+Cash to Donation %
+Security Deposit to Donation %
+2002
+$19,000
+$2,755
+$16,245
+$19,000
+$1,653
+14.5
+8.7
+2003
+$20,000
+$2,700
+$17,300
+$20,000
+$2,760
+13.5
+13.8
+2004
+$15,000
+$2,175
+$12,825
+$15,000
+$2,175
+14.5
+14.5
+2005
+$15,000
+$2,175
+$12,825
+$15,000
+$2,175
+14.5
+14.5
+Marc Halford
+Year
+Pledge Amount
+Cash
+Loan
+Donation Receipt
+Security Deposit
+Cash to Donation %
+Security Deposit to Donation %
+2003
+$26,000
+$3,510
+$22,490
+$26,000
+$3,588
+13.5
+13.8
+2004
+$30,000
+$4,050
+$25,950
+$30,000
+$4,140
+14.5
+13.8
+2005
+$32,000
+$4,640
+$27,360
+$32,000
+$4,640
+14.5
+14.5
+2007
+$41,000
+$5,945
+$35,055
+$41,200
+$5,945
+14.5
+14.5
+Thomas Breen
+Year
+Pledge Amount
+Cash
+Loan
+Donation Receipt
+Security Deposit
+Cash to Donation %
+Security Deposit to Donation %
+2004
+$30,000
+$4,350
+$26,650
+$30,000
+$4,350
+14.5
+14.5
+2005
+$35,000
+$5,075
+$29,925
+$35,000
+$5,075
+14.5
+14.5
+2006
+$25,000
+$3,063
+$21,938
+$25,000
+$3,725
+12.25
+14.9
+2007
+$15,000
+$2,175
+$12,825
+$7,835
+Nil
+14.5
+n/a
+Garry Innanen
+Year
+Pledge Amount
+Cash
+Loan
+Donation Receipt
+Security
+Deposit
+Cash to Donation %
+Security Deposit to Donation %
+2002
+$15,000
+$2,175
+$12,825
+$15,000
+$1,305
+14.5
+8.7
+2003
+$20,000
+$2,700
+$17,300
+$20,000
+$2,760
+13.5
+13.8
+2004
+$20,000
+$2,900
+$17,100
+$20,000
+$2,900
+14.5
+14.5
+2005
+$25,000
+$3,625
+$21,375
+$25,000
+$3,625
+14.5
+14.5
+Laurie Coghlin
+Year
+Pledge Amount
+Cash
+Loan
+Donation Receipt
+Security
+Deposit
+Cash to Donation %
+Security Deposit to Donation %
+2004
+$65,000
+$8,775
+$56,225
+$65,000
+$8,970
+13.5
+13.8
+2006
+$20,000
+$2,450
+$17,550
+$20,000
+$2,980
+12.25
+14.9
+2007
+$30,000
+$4,350
++$200
+$25,650
+$30,200
+$4,350
+15
+14.5
+Sonny Goldstein
+Year
+Pledge Amount
+Cash
+Loan
+Donation Receipt
+Security
+Deposit
+Cash to Donation %
+Security Deposit to Donation %
+2003
+$100,000
+$100,000
+$89,000
+$100,000
+$12,200
+11
+12.2
+2004
+$100,000
+$100,000
+$89,000
+$100,000
+$15,130
+11
+15.13
+2005
+$100,000
+$100,000
+$89,000
+$100,000
+$15,130
+11
+15.13
+2006
+$100,000
+$100,000
+$89,000
+$6,753
++$100,000
+$15,000
+11
+15
+CITATION:
+2022 TCC 41
+COURT FILE NO.:
+2012-112(IT)G et al.
+STYLE OF CAUSE:
+DAVID HERRING, KENNETH L. MILLEY, MARC HALFORD, THOMAS BREEN, GARRY INNANEN, LAURIE COGHLIN, SONNY GOLDSTEIN AND HER MAJESTY THE QUEEN
+PLACE OF HEARINGS:
+Toronto and Ottawa, Ontario
+DATE OF HEARINGS:
+September 20, 2019, October 1, 2, 3, 4, 7, 8, 9, 10, 11, 2019 and Oral Submissions made on October 7, 8, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+March 31, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Terry McCaffrey
+Anahita Tajadod
+Counsel for the Respondent:
+Charles Camirand
+Dan Daniels
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Terry McCaffrey
+Anahita Tajadod
+Firm:
+Benson Law LLP
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[i] The Court also considered the Written Submissions of the Appellants dated November 22, 2019; the Respondent’s Written Submissions of December 19, 2019, and the Appellants’ Reply to the Respondent’s Submissions dated January 24, 2020.
+[ii] These appeals are “lead cases” pursuant to section 146.1 of the Tax Court of Canada Rules (General Procedure), SOR/90-688a. Approximately 328 taxpayers, including the Appellants, have agreed to be bound by the results herein.
+[iii] The Minister has acknowledged that the Banyan Tree Foundation was a registered charity until its registration was revoked on September 20, 2008.
+[iv] Exhibit R-1, Vol. 1, Tab 209, p. 3, paras. 7 and 10.
+[v] Exhibit A-27, Tab 9, p. 23, para. 7.
+[vi] Bill C-48, An Act to amend the Income Tax Act, the Excise Tax Act, the Federal-Provincial Fiscal Arrangements Act, the First Nations Goods and Services Act and related legislation, 1st Sess., 41st Parl., 2013 (assented to June 26, 2013); S.C. 2013, c.34.
+[vii] Explanatory Notes Relating to the Income Tax Act, the Excise Tax Act and Related Legislation, Part 5 – Other Amendments to the Income Tax Act and Related Legislation and Regulations – Income Tax Act released on October 24, 2012, as part of the Notice of Ways and Means Motion and Explanatory Notes to Implement Technical Amendments to the Income Tax Act, Excise Tax Act and Related Legislation.

@@ -1,0 +1,144 @@
+---
+title: "Dallas c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25564/index.do"
+last_modified: "2003-12-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 726"
+citation2: ""
+neutral_citation: "2003 CCI 726"
+decision_date: "2003-12-12"
+language: "fr"
+item_id: "25564"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2463
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:24:07.020000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "64c120d348825af1e6e5e25475135f0d6fe030ae0eca4ad36d6396e561898a5f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dallas c. La Reine
+
+- Citation: 2003 CCI 726
+- Decision date: 2003-12-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2463, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dallas c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-12
+Référence neutre
+2003 CCI 726
+Numéro de dossier
+2001-2022(IT)G
+Juges et Officiers taxateurs
+Gordon Teskey
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2003CCI726
+Date : 20031212
+Dossier : 2001-2022(IT)G
+ENTRE :
+GEORGE DENNIS DALLAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience
+à Vancouver (Colombie-Britannique) le 14 juillet 2003.)
+Le juge Teskey
+[1] L'appelant interjette appel à l'encontre de la nouvelle cotisation fiscales établie pour l'année 1996, où le ministre du Revenu national (le « ministre » ) a inclus un gain en capital imposable de 493 583 $ au revenu de l'appelant pour l'année 1996.
+Faits
+[2] La plupart des faits ne sont pas en litige, et aucun calcul mathématique n'est en litige.
+[3] Les faits non contestés sont ceux-ci :
+a) L'appelant et un partenaire nommé Vaglio ont vendu en 1996 à la ville de Vancouver certaines propriétés situées sur la rue Richard, à Vancouver, sous peine d'expropriation.
+b) La part du produit de l'appelant s'élevait à 2 667 225 $.
+c) Comme biens de remplacement, l'appelant a acheté des propriétés sur le chemin Point Grey à Vancouver et sur le chemin Taylor à l'île Bowen, pour la somme collective de 2 009 114 $.
+d) L'appelant a aussi acquis 150 actions d'une société privée qui possédait des biens sur la rue Seymour à Vancouver, une propriété de 16 acres appelée « Fountain Property » et les lots 1 et 2 à Brook Cove, ainsi qu'une moitié indivise du lot 20 à Brook Cove pour 475 000 $.
+e) Au moment de cette acquisition, l'appelant possédait toutes les autres actions ordinaires émises en circulation de la société privée et l'autre moitié indivise dudit lot 20.
+[4] Faits en litige :
+a. la valeur de la moitié indivise du lot 20;
+b. l'intention de l'appelant lorsqu'il a acquis le reste des actions en circulation de la société privée et l'autre moitié indivise du lot 20.
+Questions en litige
+[5] Les deux questions dont la Cour est saisie sont les suivantes :
+(1) l'achat d'actions dans une société privée qui détient un titre de propriété est-il admissible comme bien de remplacement aux fins de la Loi de l'impôt sur le revenu (la « Loi » );
+(2) l'acquisition de l'autre moitié indivise du lot 20 est-elle admissible aux mêmes fins?
+[6] L'appelant, qui exerce la profession d'avocat à Vancouver, était le seul témoin.
+[7] Son témoignage ne concordait pas avec son intention concernant l'achat des actions.
+[8] En produisant sa déclaration de revenus T1 pour 1996, le 30 avril 1997 ou peu avant cette date, l'appelant a demandé une exonération fiscale pour gains en capital visant l'achat des propriétés de Point Grey et de Taylor. Tel qu'il est mentionné au paragraphe 3c) ci-dessus, la déclaration de revenus T1 ne contient aucune demande d'exonération visant l'achat des actions de la société privée ou de la moitié indivise du lot 20.
+[9] Selon l'appelant, lui et son comptable auraient discuté des achats additionnels décrits au paragraphe 8 ci-dessus, et le comptable aurait affirmé que ce point serait abordé au stade de l'opposition. Je rejette catégoriquement cet argument. Je ne crois pas qu'un comptable ou un avocat adopterait cette position. Si l'achat des actions et de la moitié indivise du lot 20 était censé être inclus comme bien de remplacement, la seule position judicieuse aurait été de produire une déclaration T1 modifiée au début de mai 1997. Je constate expressément qu'une telle conversation n'a jamais eu lieu et qu'une telle intention n'a jamais existé. En outre, il n'y aurait eu aucun stade d'opposition puisque la déclaration T1 de l'appelant serait acceptée telle qu'elle a été produite.
+[10] Je constate que le moment où l'appelant a fait pour la première fois une demande relativement à l'achat des actions vient après que l'Agence des douanes et du revenu du Canada (ADRC) a écrit à l'appelant, le 6 juin 2000.
+[11] Jointe à la déclaration de revenus T1 de 1996 se trouve une lettre de l'appelant à Revenu Canada qui est en partie rédigée dans les termes suivants :
+[TRADUCTION]
+J'ai été obligé de vendre contre mon gré et j'ai employé le produit de la vente à remplacer les terres dans le même but que celles du 3018, chemin Point Grey, de Vancouver et de l'île Bowen.
+(On ne mentionne pas le terrain de la société privée.)
+Conclusion
+[12] Le paragraphe 44(5) de la Loi définit le « bien de remplacement » de la façon suivante :
+(5) Bien de remplacement - Pour l'application du présent article, une immobilisation d'un contribuable est un bien servant de remplacement à un ancien bien dont il était propriétaire si les conditions suivantes sont réunies :
+a) il est raisonnable de conclure qu'il l'a acquise en remplacement de l'ancien bien;
+a.1) elle a été acquise par lui et est utilisée par lui, ou par une personne qui lui est liée, pour un usage identique ou semblable à celui qu'il a fait de l'ancien bien ou qu'une telle personne en a fait;
+b) dans le cas où le contribuable ou une personne qui lui est liée utilisait l'ancien bien en vue de tirer un revenu d'une entreprise, l'immobilisation a été acquise en vue de tirer un revenu de cette entreprise ou d'une entreprise semblable ou pour qu'une personne liée au contribuable l'utilise à cette fin;
+c) si l'ancien bien était un bien canadien imposable, l'immobilisation en est un;
+d) si l'ancien bien était un bien canadien imposable (sauf un bien protégé par traité), l'immobilisation en est un (sauf un bien protégé par traité).
+[13] Mon collègue, le juge O'Connor, s'exprime ainsi au paragraphe 14 de la décision Grove Acceptance Ltd. v. The Queen, 2002 DTC 2172 :
+[TRADUCTION]
+Les articles 13 et 44 sont des dispositions exceptionnelles. En temps normal, lorsqu'on vend une propriété, il en découle un gain en capital (près de deux millions de dollars en l'espèce) et une reprise différée de près de 300 000 $. D'ordinaire, le contribuable doit payer l'impôt sur le gain en capital et l'impôt sur la reprise. Il s'agit ici d'une disposition exceptionnelle permettant le report de l'impôt. En fait, la Cour a déclaré dans l'affaire Edwynn Holdings Ltd. v. Minister of National Revenue, [1990] 1 C.T.C 2108 qu'elle permet à une personne de reporter essentiellement l'impôt qui serait autrement exigible à ce moment-là. Par conséquent, le contribuable doit répondre aux conditions des dispositions.
+[14] Le juge d'appel Desjardins de la Cour d'appel fédérale a déclaré ceci dans la décision Glaxo Wellcome Inc. c. La Reine, C.A.F., no A-114-96, 8 octobre 1998 (98 DTC 2172) :
+En dépit du courageux effort déployé par l'avocat de l'appelant, nous souscrivons à l'interprétation que le juge Bowen de la C.C.I., a donné du mot « utilisé » apparaissant dans la définition d' « ancien bien d'entreprise » .
+Le juge de la Cour de l'impôt a résumé ainsi son raisonnement, auquel nous souscrivons :
+[La propriété] était destinée à être utilisée, elle attendait d'être utilisée, mais en réalité, elle n'était pas utilisée.
+Nous ne saurions mieux nous exprimer qu'il ne l'a fait dans son analyse.
+Le présent appel est rejeté avec dépens.
+[15] L'appelant affirme que je devrais déchirer le voile de la personnalité juridique et considérer l'actif de la société, qui est admissible comme bien de remplacement, et nous renvoie à l'appui au Bulletin d'interprétation IT-259R4, Échange de biens, principalement aux paragraphes 16 et 17 suivants :
+Le même usage ou un usage semblable
+16. Lorsqu'un ancien bien décrit au point 1a) ci-dessus n'a pas été utilisé en vue de tirer un revenu d'une entreprise, les observations qui suivent s'appliquent pour déterminer si un bien de remplacement a été acquis pour « le même usage ou un usage semblable » , comme il est stipulé aux alinéas 13(4.1)a.1) et 44(5)a.1) (décrits au point 14b)(ii) ci-dessus).
+a) Cette exigence est satisfaite lorsque le bien est utilisé pour le même usage ou pour un usage semblable à celui que le contribuable ou que la personne qui lui est liée faisait de l'ancien bien. Comme l'ancien bien doit avoir été utilisé, un fonds de biens-fonds que le contribuable ou qu'une personne qui lui est liée n'a jamais utilisé ne peut pas être considéré comme un ancien bien. Un fonds de biens-fonds (ou toute autre immobilisation) qui a été utilisé à des fins autres que pour gagner un revenu peut être considéré comme un ancien bien (p. ex. un chalet à usage personnel qui est exproprié). Un fonds de biens-fonds acquis aux fins de revente n'est pas admissible puisqu'il ne s'agit pas d'une immobilisation.
+b) Bien que l'on puisse généralement s'attendre à ce que le bien de remplacement ait les mêmes caractéristiques matérielles que l'ancien bien, c'est-à-dire un fonds de biens-fonds remplacé par un fonds de biens-fonds, un immeuble remplacé par un immeuble (voir le numéro 4 ci-dessus), il peut arriver qu'un genre différent de bien serve aux mêmes fins que l'ancien bien. Si, par exemple, le contribuable acquiert des actions d'une société coopérative comportant des droits d'occupation de certains locaux d'un immeuble à bureaux en remplacement de son immeuble à bureaux exproprié, les actions peuvent constituer un bien de remplacement.
+17. Lorsque l'ancien bien était utilisé en vue de tirer un revenu d'une entreprise, un autre bien sera habituellement considéré comme un bien acquis pour le « même usage ou un usage semblable » s'il est acquis en vue de tirer un revenu de la même entreprise ou d'une entreprise semblable, et s'il possède généralement les mêmes caractéristiques physiques que l'ancien bien. Par exemple, un contribuable peut remplacer un entrepôt par une usine de fabrication utilisée dans la même entreprise ou une entreprise semblable, parce que les deux biens sont des bâtiments et que les deux usages sont « semblables » (c'est-à-dire qu'ils font tous deux partie du processus général visant à offrir aux consommateurs des produits provenant de la même entreprise ou d'une entreprise semblable). Il faut cependant se rappeler que le critère « du même usage ou d'un usage semblable » , dont il est question au point 14a)(ii) et 14b)(ii) ci-dessus, demeure distinct du critère « de la même entreprise ou d'une entreprise semblable » , dont il est question aux points 14a)(iii) et 14b)(iii) ci-dessus et traités aux numéros 18 à 21 ci-dessous, et que ce premier critère n'est pas annulé par le second. Ainsi, si une entreprise possédait un bien résidentiel servant à loger ses employés, un bâtiment servant à l'exploitation courante de l'entreprise ne serait généralement pas considéré comme ayant « le même usage ou un usage semblable » , même si les deux biens sont des biens immobiliers et sont utilisés dans la même entreprise. En outre, un bien ne constitue pas normalement un bien de remplacement acquis pour le même usage ou un usage semblable s'il est acquis pour remplacer un ancien bien et est en même temps destiné en grande partie à d'autres usages. L'usage secondaire peu important que l'on peut toutefois faire d'un bien de remplacement n'est pas une source de préoccupation. Un ancien bien ne peut pas être remplacé par un bien locatif.
+[16] Dans l'affaire Edwynn Holdings Ltd. v. M.N.R., 89 DTC 720, mon ancien collègue, le juge Kempo de la Cour canadienne de l'impôt, a traité avec un contribuable qui avait vendu ses actions d'un hôtel pour acheter ensuite un autre hôtel avec un partenaire.
+[17] L'appel du contribuable a été rejeté car le juge Kempo de la Cour canadienne de l'impôt a refusé de soulever le voile de la personnalité juridique en l'occurrence.
+Analyse
+[18] Sans commenter en quoi que ce soit le bien-fondé du point 16b) du Bulletin d'interprétation, l'achat des actions d'une société coopérative comportant des droits d'occupation de certains locaux d'un immeuble à bureaux diffère entièrement de l'achat de la totalité ou du reste des actions en circulation d'une société privée qui possède des biens immobiliers. L'achat des actions d'une société n'équivaut pas à l'achat de son actif. On n'obtient par là que les droits habituels d'un actionnaire, même si l'on possède toutes les actions.
+[19] L'article 44 de la Loi est intitulé « Échanges de biens » .
+[20] Le paragraphe 44(1), modifié en 2001, peut être paraphrasé de la manière suivante : « Lorsque, à un moment donné, une somme est devenue un montant à recevoir par un contribuable à titre de produit de disposition d'une immobilisation qui n'est pas une action du capital-actions société. »
+[21] Avant la modification de 2001, l'alinéa (1)b) de l'article 44 établissait clairement, dans les termes suivants, que la vente d'actions ne serait pas admissible :
+b) soit un bien qui était immédiatement avant qu'il en soit disposé, un ancien bien d'entreprise du contribuable.
+[22] Les actions ne peuvent pas être un bien d'entreprise, sauf si l'on travaille dans le secteur de la vente et de l'achat d'actions, ce qui n'était pas le cas de l'appelant.
+[23] Je rejette également l'affirmation de l'appelant selon laquelle l'achat d'actions est admissible comme bien de remplacement parce qu'il n'est « pas » raisonnable de conclure que l'appelant a acquis les actions pour remplacer l'ancien bien. Si cela avait été en fait l'intention de l'appelant en achetant les actions, cet achat aurait été inclus dans la déclaration de revenus T1 de 1996 ou dans une déclaration modifiée et produite peu de temps après le 30 avril 1997.
+[24] Même si j'avais été disposé à accepter qu'avec la propriété absolue de toutes les actions en circulation d'une société qui possède des biens, ces biens puissent être admissibles comme biens de remplacement, j'aurais exclu la propriété « Fountain » de 16 acres et les lots 1, 2 et 20 de Brook Cove, car ceux-ci sont des parcelles non bâties, qui n'ont aucun usage autre que leur appartenance.
+[25] Je crois aussi qu'en vertu de l'alinéa 44(5)c), l'article ne pourrait s'appliquer à l'achat d'actions. Il est ainsi formulé :
+c) si l'ancien bien était un bien canadien imposable, l'immobilisation en est un;
+[26] En cela, l'immobilisation de l'appelant est constituée par les actions de la société, et le terrain qui appartient à la société n'est pas un bien imposable de l'appelant.
+[27] Pour l'ensemble des motifs présentés ci-dessus, l'appel est rejeté avec dépens.
+Signé à Calgary (Alberta), ce 12e jour de décembre 2003.
+« Gordon Teskey »
+Juge Teskey
+Traduction certifiée conforme
+ce 26e jour de mars 2004.
+Nancy Bouchard, traductrice

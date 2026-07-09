@@ -1,0 +1,177 @@
+Title: Beauchamp c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27464/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-314-27464-beauchamp-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-05-07
+
+# Beauchamp c. La Reine
+
+- Citation: 2003 CCI 314
+- Decision date: 2003-05-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 220, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beauchamp c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-07
+Référence neutre
+2003 CCI 314
+Numéro de dossier
+2001-4537(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-4537(IT)I
+ENTRE :
+JACQUES BEAUCHAMP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 19 février 2003 à Québec (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Martin Gentile
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 1996 est admis concernant les pertes nettes de location au montant de 11 295 $ visant le bien-fonds appelé « Vantage Point » . Le montant de 13 308 $ réclamé par l'appelant à titre de perte nette de société en commandite est toutefois refusé selon les motifs du jugement ci-joints.
+L'appel de la cotisation à l'égard de l'année d'imposition 1997 concernant les pertes nettes de location au montant de 7 390 $ réclamés par l'appelant est admis.
+Les deux cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, selon les motifs du jugement ci-joint.
+Signé à Ottawa, Canada, ce 7e jour de mai 2003.
+« François Angers »
+J.C.C.I.
+Référence : 2003CCI314
+Date : 20030507
+Dossier : 2001-4537(IT)I
+ENTRE :
+JACQUES BEAUCHAMP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers, C.C.I.
+[1] Il s'agit d'appels visant les années d'imposition 1996 et 1997 de l'appelant. Dans ses cotisations, le ministre du Revenu national (le « ministre » ) a refusé à l'appelant des pertes locatives nettes de 11 295 $ et 7 390 $ respectivement pour chacune des années en question. Le ministre a aussi refusé, pour l'année 1996, le montant de 13 308 $ réclamé par l'appelant à titre de perte nette de société en commandite. Au début du procès, l'avocat de l'intimée a reconnu les pertes locatives nettes pour les années 1996 et 1997 visant le bien-fonds appelée « Vantage Point » . Il ne reste que le point en litige visant l'année 1996. L'appel pour l'année 1997 est donc admis.
+[2] L'appelant a admis les faits que le ministre a tenu pour acquis afin d'établir la nouvelle cotisation, à l'exception de l'hypothèse de fait où le ministre n'accepte pas un placement supplémentaire qu'aurait fait l'appelant dans la société en commandite. Le ministre a accepté les placements que l'appelant a faits pendant les années d'imposition 1988 et 1998. Pour se situer dans le contexte du litige, je vais reproduire les faits admis :
+CHÂTEAU CORNWALL
+v) Château Cornwall Limited Partnership est une société en commandite (ci-après, la « société en commandite » );
+w) la société en commandite a été créée en vertu d'une entente datée du 15 avril 1988 et modifiée en date du 1er décembre 1988;
+x) Château Cornwall General Partner Ltd. est le commandité (ci-après, le « commandité » ) de la société en commandite et administre la société en commandite;
+y) le commandité est détenu à 100 % par Château Cornwall Inc. (ci-après, la « société » );
+z) le commandité et la société sont liés et ne transigent donc pas à distance;
+aa) le projet de la société en commandite était l'acquisition, le développement et l'exploitation d'un centre pour personnes âgées (ci-après, le « projet immobilier » );
+bb) selon les formules de souscription signées en décembre 1988 :
+i) chaque investisseur devait souscrire à un minimum de trois unités du projet à un prix d'achat de 150 000 $;
+ii) chaque investisseur devait payer 40 476 $ en argent;
+iii) chaque investisseur devait signer avec la société en commandite, une garantie de prise en charge, au prorata de leur participation [109 524 $ (36 508 $ par unité X 3 unités)], des prêts hypothécaires;
+cc) l'appelant a acheté 3 unités des 252 unités de la société en commandite;
+dd) il y a eu deux ententes de garantie de prise en charge de prêts hypothécaires :
+i) une première entente en date du 30 décembre 1988 :
+A) cette entente indiquait que chacun des quatre-vingt-quatre associés devait signer la prise en charge de prêts hypothécaires, au prorata de sa participation, soit 109 524 $;
+B) cette entente était entre les souscripteurs et la société en commandite, et accordait le pouvoir au commandité d'exécuter à une date ultérieure le contenu de l'entente;
+C) selon la garantie de prise en charge des prêts hypothécaires, les souscripteurs (investisseurs) convenaient de façon absolue et inconditionnelle de payer sur demande à la société en commandite ou à quiconque qu'elle autorise, la totalité de leur participation dans les prêts hypothécaires de premier et second rangs [maximum 36 508 $ par unité (36 508 $ X 3 = 109 524 $)] avec les intérêts et autres frais qui seront engendrés;
+D) la garantie de prise en charge de prêts hypothécaires ne devait être exécutée qu'à la demande de la société en commandite, en cas de défaut de paiement de la part de cette dernière;
+ii) une seconde entente datée du 1er août 1989 :
+A) cette entente était signée entre les souscripteurs, la banque Toronto-Dominion, le commandité et la société en commandite;
+B) cette entente concerne un emprunt n'excédant pas 9 200 000 $ (109 524 $ X 84 sociétaires);
+C) cet emprunt serait garanti, entre autres, par une hypothèque de premier rang transigée auprès de la Banque Toronto-Dominion, sur la propriété;
+D) selon la clause 1 de l'entente, les souscripteurs (investisseurs) convenaient de façon absolue et inconditionnelle de payer à la Banque, à titre de débiteur principal et non comme caution, le montant principal pris en charge ainsi que les intérêts et autres frais engagés; cette obligation était limitée à une somme de 36 508 $ par unité;
+E) selon les paragraphes 7, 8, 9, 10 de cette entente, la Banque conservait le droit de poursuivre la société en commandite à titre de créancier principal selon le contrat de prêt;
+F) le coût total du projet serait donc financé comme suit :
+Contribution en argent
+3 400 000 $
+Hypothèque de 1er rang
+Avec la Banque
+Toronto Dominion
+4 000 000 $
+Prêts du promoteur
+(1,7M$ + 3,5M$)
+5 200 000 $
+TOTAL
+12 600 000 $
+ee) vers juillet 1996, la Banque Toronto-Dominion s'est adressée aux investisseurs afin qu'ils effectuent les paiements prévus aux contrats de prêts;
+ff) suite à cette demande, les souscripteurs (investisseurs) n'ont effectué aucun paiement à la Banque Toronto-Dominion;
+gg) suivant les termes de la formule de souscription de décembre 1988, l'appelant s'était engagé à souscrire une somme de 109 524 $ dans la société en commandite par le biais de la prise en charge d'une hypothèque au montant de 109 524 $;
+hh) or, la prise en charge d'une hypothèque par l'appelant envers la Banque fut limitée au montant de 52 857 $;
+ii) une somme de 56 667 $ était due à la société en commandite par l'appelant;
+jj) l'appelant a mentionné au représentant du Ministre, qu'il avait investi un montant supplémentaire de 10 000 $ via sa marge de crédit avec la Caisse populaire;
+[...]
+ll) le Ministre a accordé à l'appelant les montants suivants à titre de pertes nettes de société en commandite pour les années 1988 à 1995, relativement à la société en commandite Château Cornwall Limited Partnership :
+Année
+(Pertes nettes
+de société en
+commandite)
+1988
+( 3 384 $)
+1989
+( 5 088 $)
+1990
+(16 869 $)
+1991
+(33 189 $)
+1992
+(26 727 $)
+1993
+(11 499 $)
+1994
+( 9 012 $)
+1995
+( 2 052 $)
+mm) en fonction de ce qui précède, le Ministre a diminué le solde de la fraction à risque de l'intérêt de l'appelant dans la société en commandite du solde d'hypothèque pris en charge mais non avancée d'une somme de 56 667 $, pour l'année d'imposition 1996 (voir l'annexe III jointe à la présente réponse);
+nn) le solde de la fraction à risque de l'intérêt de l'appelant dans la société en commandite a donc été réduit à zéro pour l'année 1996;
+oo) la fraction à risque de l'intérêt de l'appelant dans la société en commandite étant réduite à zéro, l'appelant ne peut donc réclamer de pertes relativement à son investissement dans la société en commandite pour l'année d'imposition 1996;
+pp) au stade des oppositions, l'appelant a présenté de la documentation prouvant des investissements de 1 500 $ pour l'année d'imposition 1996 et de 2 000 $ pour l'année d'imposition 1997;
+qq) le Ministre a donc accordé des montants additionnels de 1 500 $ en 1996 et 2 000 $ en 1997, à titre de pertes nettes de société en commandite;
+[...]
+ss) compte tenu de ce qui précède, le Ministre a refusé de déduire le montant de 13 308 $ réclamé par l'appelant au titre de perte nette de société en commandite pour l'année d'imposition 1996;
+tt) l'appelant ne conteste pas le montant de 12 668 $ réclamé par celui-ci pour son année d'imposition 1997 à titre de pertes nettes de société en commandite, et refusé par le Ministre;
+[...]
+[3] La question en litige est donc de déterminer si le ministre a correctement calculé la fraction à risque de l'intérêt de l'appelant dans la société en commandite pour l'année d'imposition 1996 et, par conséquent, s'il avait raison de refuser à l'appelant le montant de 13 308 $ qu'il a réclamé à titre de perte nette de société en commandite pour la même année.
+[4] L'appelant a témoigné qu'en 1994, il s'est porté garant d'une marge de crédit de 10 000 $ accordée par la Caisse populaire de Notre-Dame-du-Chemin à la société en commandite. La société s'était engagée à rembourser les intérêts annuels et le prêt dans un délai de deux ans. Selon l'appelant, la société aurait effectivement payé les intérêts jusqu'en 1996. Le 24 avril 1996, il recevait une lettre de la Caisse populaire l'informant que le prêt en question était arrivé à échéance et qu'il devait être remboursé immédiatement, puisque la société « n'en a plus la capacité actuellement » . L'appelant a donc payé le montant de 10 000 $ à la Caisse populaire le 21 juin 1996, montant qu'il a emprunté de sa marge de crédit personnelle.
+[5] L'appelant a admis toutes les hypothèses de fait sur lesquelles le ministre s'est fondé pour établir la cotisation du 1er juin 2001 pour l'année d'imposition 1996 de l'appelant, à l'exception de celle concernant le refus du ministre d'accepter un placement supplémentaire de 10 000 $ en 1996, lequel placement donne à l'appelant le droit de réclamer une perte de 13 308 $.
+[6] L'intimée a fait témoigner Mme Stéphanie Garneau, qui est examinatrice à la recherche scientifique et au développement expérimental, mais qui à l'époque était agent des appels à Revenu Canada. Elle a relaté au tribunal le travail qu'elle a effectué dans le dossier Château Cornwall, notamment au sujet de la demande de l'appelant d'augmenter sa fraction à risque pour des placements faits en 1996 et 1997. Sans reprendre tous les calculs qu'elle a faits, il suffit de dire qu'elle a examiné les états financiers et les déclarations fiscales de la société en commandite afin de déterminer le compte d'équité des commanditaires du point de vue comptable afin de s'en servir comme guide lors du calcul de la fraction à risque de l'appelant pour 1994. En 1994, elle a constaté une contribution en capital de 9 012 $ pour l'appelant, soit l'année où l'appelant s'est porté garant d'une marge de crédit pour la société en commandite. Même si le montant est inférieur au 10 000 $ de la garantie, elle explique cette différence par le fait que la société en commandite s'était engagée à verser les intérêts sur le 10 000 $ en question. Elle en conclut, par la force des choses, qu'il doit s'agir du montant de 10 000 $ investi par l'appelant et comptabilisé en 1994.
+[7] L'appelant a seulement réussi à établir que son versement de 10 000 $ fait en 1996 est allé au remboursement de la dette de la société en commandite qu'il avait garantie à la Caisse populaire de Notre-Dame-du-Chemin en 1994. Selon la preuve présentée, il est donc plus que probable qu'il a reçu le crédit de ce montant en 1994. Je ne peux donc pas conclure que l'appelant a placé un montant supplémentaire de 10 000 $ en 1996 dans la société en commandite. Le ministre a donc correctement calculé la fraction à risque de l'intérêt de l'appelant dans ladite société pour l'année d'imposition 1996 et ainsi avait raison de refuser le montant de 13 308 $ réclamé par l'appelant à titre de perte nette pour la même année d'imposition. L'appel est donc rejeté et la cotisation du ministre est confirmée.
+Signé à Ottawa, Canada, ce 7e jour de mai 2003.
+« François Angers »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI314
+NoDE DOSSIER DE LA COUR :
+2001-4537(IT)I
+INTITULÉ DE LA CAUSE :
+JACQUES BEAUCHAMP
+et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+19 février 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge François Angers
+DATE DU JUGEMENT :
+7 mai 2003
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimée :
+Me Martin Gentile
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

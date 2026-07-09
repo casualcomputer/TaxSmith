@@ -1,0 +1,182 @@
+---
+title: "Beauchamp c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27464/index.do"
+last_modified: "2003-05-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 314"
+citation2: ""
+neutral_citation: "2003 TCC 314"
+decision_date: "2003-05-07"
+language: "en"
+item_id: "27464"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 220
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:11:35.962000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "360ce66eb50d78cd29fc3eb3ad7a30f582e9f942385fa0efabc92ddcf103867f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Beauchamp c. La Reine
+
+- Citation: 2003 TCC 314
+- Decision date: 2003-05-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 220, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beauchamp c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-07
+Neutral citation
+2003 TCC 314
+File numbers
+2001-4537(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-4537(IT)I
+BETWEEN:
+JACQUES BEAUCHAMP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on February 19, 2003, at Québec, Quebec
+Before: The Honourable Judge François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Martin Gentile
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1996 taxation year concerning the net rental losses on the property referred to as "Vantage Point" in the amount of $11,295 is allowed. However, the net limited partnership losses in the amount of $13,308 claimed by the appellant are disallowed in accordance with the attached Reasons for Judgment.
+The appeal from the assessment for the 1997 taxation year concerning the net rental losses in the amount of $7,390 claimed by the appellant is allowed.
+The two assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of May 2003.
+"François Angers"
+J.T.C.C.
+Translation certified true
+on this 7th day of July 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC314
+Date: 20030507
+Docket: 2001-4537(IT)I
+BETWEEN:
+JACQUES BEAUCHAMP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers, J.T.C.C.
+[1] These appeals concern the appellant's 1996 and 1997 taxation years. In making the reassessments, the Minister of National Revenue ("the Minister") disallowed the net rental losses of $11,295 and $7,390 claimed by the appellant for those taxation years respectively. As well, the Minister disallowed the net limited partnership losses of $13,308 claimed by the appellant for the 1996 taxation year. At the beginning of the hearing, counsel for the respondent allowed the net rental losses on the property referred to as "Vantage Point" for the 1996 and 1997 taxation years. As a result, the appeal for the 1997 taxation year is allowed; only the issue for the 1996 taxation year remains.
+[2] The appellant admitted the truth of the assumptions of fact on which the Minister relied in making the reassessment, except for the Minister's disallowance of an additional investment apparently made by the appellant in the limited partnership. The Minister allowed the investments made by the appellant during the 1988 and 1998 taxation years. In order to put the issue in context, I shall reproduce the assumptions of fact, the truth of which was admitted as follows:
+[TRANSLATION]
+CHÂTEAU CORNWALL
+(v) Château Cornwall Limited Partnership is a limited partnership (hereinafter "the limited partnership");
+(w) the limited partnership was set up under an agreement dated April 15, 1988, and amended on December 1, 1988;
+(x) Château Cornwall General Partner Ltd. is the general partner (hereinafter "the general partner") of the limited partnership and manages the limited partnership;
+(y) the general partner is wholly owned by Château Cornwall Inc. (hereinafter "the corporation");
+(z) the general partner and the corporation are related and thus do not deal with each other at arm's length;
+(aa) the project of the limited partnership was to purchase, develop and operate a seniors' centre (hereinafter "the property project");
+(bb) according to the purchase forms signed in December 1988:
+(i) each investor was to purchase at least three units in the project at a purchase price of $150,000;
+(ii) each investor was to pay $40,476 in cash;
+(iii) each investor was to sign with the limited partnership a mortgage guarantee, prorated on the basis of individual participation (three units at $36,508 per unit or $109,524);
+(cc) the appellant purchased three of the 252 units in the limited partnership;
+(dd) there were two mortgage guarantee agreements:
+(i) a first agreement dated December 30, 1988:
+(A) that agreement indicated that each of the 84 partners was to sign the mortgage guarantee, prorated on the basis of individual participation, that is, $109,524;
+(B) that agreement was between the subscribers and the limited partnership and authorized the general partner to give effect to the agreement at a later date;
+(C) according to the mortgage guarantee agreement, the subscribers (investors) absolutely and unconditionally agreed to pay on demand the limited partnership, or to anyone it authorized, the total amount of their participation in the first and second mortgages (three units at a maximum of $36,508 per unit, or $109,524), with interest and other costs incurred; and
+(D) effect was to be given to that mortgage guarantee only at the request of the limited partnership, if the limited partnership defaulted on payment;
+(ii) a second agreement dated August 1, 1989:
+(A) this agreement was signed by the subscribers, the Toronto-Dominion Bank, the general partner and the limited partnership;
+(B) this agreement refers to a loan not exceeding $9,200,000 (84 partners at $109,524 per partner);
+(C) this loan was to be guaranteed by, inter alia, a first mortgage, negotiated with the Toronto-Dominion Bank, on the property;
+(D) under clause 1 of this agreement, the subscribers (investors) agreed absolutely and unconditionally to pay the Bank, as principal debtors and not as guarantors, the principal amount guaranteed as well as interest and other costs incurred; this liability was limited to $36,508 per unit;
+(E) under clauses 7, 8, 9 and 10 of this agreement, as principal creditor, the Bank retained the right to sue the limited partnership under the loan contract;
+(F) thus the total cost of the project was to be funded as follows:
+Cash contributions
+$3,400,000
+First mortgage with Toronto-Dominion Bank
+4,000,000
+Loans from promoter ($1,700,000 plus 3,500,000)
+5,200,000
+Total
+$12,600,000
+(ee) around July 1996, the Toronto-Dominion Bank contacted the investors in order that they make the payments provided for in the loan contracts;
+(ff) following that request, the subscribers (investors) made no payments to the Toronto-Dominion Bank;
+(gg) under the terms of the December 1988 purchase form, the appellant agreed to invest $109,524 in the limited partnership by assuming a mortgage of $109,524;
+(hh) however, the mortgage assumed by the appellant with regard to the Bank was limited to $52,857;
+(ii) the appellant owed the limited partnership $56,667;
+(jj) the appellant told the Minister's representative that he had invested an additional $10,000 using his line of credit with the credit union;
+...
+(ll) the Minister allowed the following net limited partnership losses from Château Cornwall Limited Partnership claimed by the appellant for the 1988 to 1995 taxation years:
+Year
+(Net Limited Partnership Losses)
+1988
+($3,384)
+1989
+($5,088)
+1990
+($16,869)
+1991
+($33,189)
+1992
+($26,727)
+1993
+($11,499)
+1994
+($9,012)
+1995
+($2,052)
+(mm) in light of the foregoing, for the 1996 taxation year, the Minister reduced the at-risk amount of the appellant's interest in the limited partnership by the amount of the mortgage assumed but not advanced, that is, $56,667 (see Appendix III to this Reply);
+(nn) therefore, for the 1996 taxation year, the at-risk amount of the appellant's interest in the limited partnership was reduced to zero;
+(oo) since the at-risk amount of the appellant's interest in the limited partnership was reduced to zero, the appellant may not claim losses on his investment in the limited partnership for the 1996 taxation year;
+(pp) at the objection stage, the appellant submitted documentation establishing investments of $1,500 and $2,000 for the 1996 and 1997 taxation years respectively;
+(qq) the Minister therefore allowed additional net limited partnership losses of $1,500 and $2,000 for the 1996 and 1997 taxation years respectively;
+...
+(ss) in light of the foregoing, the Minister disallowed the net limited partnership losses of $13,308 claimed by the appellant for the 1996 taxation year;
+(tt) the appellant does not contest the Minister's disallowance of the net limited partnership losses of $12,668 claimed by the appellant for the 1997 taxation year;
+...
+[3] At issue then is whether the Minister correctly computed the at-risk amount of the appellant's interest in the limited partnership for the 1996 taxation year and, consequently, whether the Minister was justified in disallowing the net limited partnership losses of $13,308 claimed by the appellant for that taxation year.
+[4] The appellant testified that in 1994 he guaranteed a line of credit of $10,000 granted to the limited partnership by the Caisse populaire de Notre-Dame-du-Chemin. The corporation had agreed to pay the annual interest and to repay the principal of the loan within two years. According to the appellant, the corporation in fact paid the interest until 1996. On April 24, 1996, he received a letter from the credit union informing him that this loan had become due and payable immediately since the corporation [TRANSLATION] "no longer has the ability to do so at present". On June 21, 1996, therefore, the appellant paid the credit union the amount of $10,000, which he borrowed using his personal line of credit.
+[5] The appellant admitted the truth of all the assumptions of fact on which the Minister relied in making the June 1, 2001, assessment for the appellant's 1996 taxation year, with the exception of the Minister's disallowance of an additional investment in 1996 of $10,000, which allowed the appellant to claim a loss of $13,308.
+[6] The respondent called as a witness Stéphanie Garneau, who is now a scientific research and experimental development (SR & ED) examiner, but who was an appeals officer for Revenue Canada at the time. Stéphanie Garneau told the Court about her work on the Château Cornwall case, particularly the appellant's request to increase the at-risk amounts of investments he made in 1996 and 1997. Without reiterating all the calculations she made, suffice it to say that she examined the limited partnership's financial statements and income tax returns in order to assess the value of the owners' equity account from an accounting point of view, as a guide in computing the appellant's at-risk amount for 1994. She noted a capital contribution of $9,012 made by the appellant in 1994, the year in which the appellant guaranteed a line of credit for the limited partnership. Although this amount is less than the $10,000 amount guaranteed, she explained that difference by the fact that the limited partnership had agreed to pay the interest on the amount of $10,000. In the circumstances, she was obliged to conclude that that amount had to be the $10,000 invested by the appellant and recorded in 1994.
+[7] The appellant merely succeeded in establishing that the payment of $10,000 made by him in 1996 was used to repay the Caisse populaire de Notre-Dame-du-Chemin the limited partnership's loan that he had guaranteed in 1994. According to the evidence adduced, it is therefore more than likely that he received credit for this amount in 1994; therefore, I cannot find that the appellant invested an additional amount of $10,000 in the limited partnership in 1996. Consequently, the Minister correctly computed the at-risk amount of the appellant's interest in the limited partnership for the 1996 taxation year and was thus justified in disallowing the net losses of $13,308 claimed by the appellant for that taxation year. The appeal is accordingly dismissed, and the Minister's assessment is confirmed.
+Signed at Ottawa, Canada, this 7th day of May 2003.
+"François Angers"
+J.T.C.C.
+Translation certified true
+on this 7th day of July 2004.
+Sophie Debbané, Revisor

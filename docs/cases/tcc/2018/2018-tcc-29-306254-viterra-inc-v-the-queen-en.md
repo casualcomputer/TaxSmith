@@ -1,0 +1,349 @@
+---
+title: "Viterra Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/306254/index.do"
+last_modified: "2018-02-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 29"
+citation2: ""
+neutral_citation: "2018 TCC 29"
+decision_date: "2018-02-07"
+language: "en"
+item_id: "306254"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7120
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:53:58.605000+00:00"
+cases_cited_count: 3
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6fe400bd4cb54df325362616178188379d27523b19238bfd2604e2b8c49dfee5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Viterra Inc. v. The Queen
+
+- Citation: 2018 TCC 29
+- Decision date: 2018-02-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7120, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Viterra Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-02-07
+Neutral citation
+2018 TCC 29
+File numbers
+2016-1995(GST)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-1995(GST)G
+BETWEEN:
+VITERRA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on April 10, 2017 at Saskatoon, Saskatchewan and on November 7, 2017 at Ottawa, Ontario
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+Justin Kutyan
+Adam Gotfried
+Kristen Duerhammer
+Counsel for the Respondent:
+Brooke Sittler
+Anne Jinnouchi
+Bryn Frape
+ORDER
+UPON the Appellant bringing a motion for determination, before hearing, of the following question pursuant to section 58 of the Tax Court of Canada Rules (General Procedure):
+Was the Minister statute barred on February 19, 2016 from assessing GST collectible totalling $640,492.69 on the supply of investment management services made by the Appellant to three pension plan trusts (assuming such supplies were made), for the monthly reporting periods ending between August 1, 2003 and July 31, 2005?
+AND UPON having heard the submissions of counsel and having read the materials filed;
+NOW THEREFORE in accordance with the attached Reasons for Order, the Court determines that it does not have sufficient evidence before it to answer the question.
+THE COURT ORDERS that:
+1. The parties are free to raise the issue with the trial judge;
+2. There is no order with respect to costs; and
+3. The parties shall communicate with the Hearings Co-ordinator, within thirty days of the date of this Order, with a proposed timetable for the completion of all remaining litigation steps.
+Signed at Ottawa, Canada, this 7th day of February 2018.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2018 TCC 29
+Date: 20180207
+Docket: 2016-1995(GST)G
+BETWEEN:
+VITERRA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+D'Arcy J.
+[1] These reasons address an application for the determination of a question of mixed law and fact, pursuant to section 58 of the Tax Court of Canada Rules (General Procedure), SOR/90-688a (the “Rule 58 Application”). The actual question (the “Rule 58 Question”) reads as follows:
+Was the Minister statute barred on February 19, 2016 from assessing GST collectible totalling $640,492.69 on the supply of investment management services made by the Appellant to three pension plan trusts (assuming such supplies were made), for the reporting periods from August 1, 2003 to July 31, 2004 and from August 1, 2004 to July 31, 2005?
+[2] The Appellant brought the required motion requesting a determination, before a hearing, of the Rule 58 Question. The Respondent consented to the motion. The Court then issued an Order on November 8, 2016 providing for a hearing of the Rule 58 Question (the “November 8th Order”).
+I. Facts [3] Pursuant to the November 8th Order, the following evidence was placed before the Court for the purpose of the Rule 58 Application:
+- the statement of accepted facts attached as Exhibit A to the November 8th Order;
+- the Statement of Additional Agreed Facts filed by the parties on February 22, 2017 (the “Statement of Additional Agreed Facts”);
+- the Appellant’s Request to Admit and the Respondent’s response to the request.
+[4] I also considered the pleadings, which were referred to in the November 8th Order.
+[5] The statement of accepted facts reads as follows:
+a) the appellant was formerly known as Saskatchewan Wheat Pool (“SWP”);
+b) SWP was a grain handling and agri-food processing and marketing company based in Regina, Saskatchewan;
+c) during the material times, SWP was the administrator of three separate defined benefit pension plans (the “Pension Plans”);
+d) each of the Pension Plans was funded through a separate trust established to hold and invest the assets of the respective Pension Plans;
+e) during the periods from August 1, 2003 to July 31, 2004 and August 1, 2004 to July 31, 2005 (the “Relevant Periods”) SWP acquired the services of third party investment managers to manage the Pension Plans’ funds (the “Investment Services”);
+f) during the Relevant Periods and at all material times, SWP was a GST registrant and was required to file GST returns on a monthly basis;
+g) for each monthly reporting period within the Relevant Periods, SWP filed a GST return (collectively the “GST Returns”), and more than four years had elapsed before February 19, 2016 since the later of:
+i. the date on which SWP was required to file its GST Return; or
+ii. the date when SWP filed its GST Return;
+h) in the GST Returns, SWP claimed, inter alia, input tax credits (“ITCs”) totalling $640,492.69 for the GST paid to investment managers in respect of the Investments [sic] Services;
+i) the Minister originally assessed SWP for the Relevant Periods on August 10, 2007 and September 17, 2008 (the “Assessments”), respectively;
+j) in the Assessments, the Minister denied SWP’s ITC claims on the GST paid to the investment managers in respect of the Investment Services on the basis that SWP did not acquire the Investment Services for consumption, use or supply in the course of SWP’s commercial activities;
+k) SWP objected to the Assessments on November 2, 2007 and December 10, 2008, respectively, and SWP and the Minister agreed to hold the objections in abeyance pending the outcome of General Motors of Canada Limited’s (“GM”) appeal to the Federal Court of Appeal, which dealt with a similar issue;
+l) nearly seven years after the Federal Court of Appeal decided GM’s appeal, the Minister issued reassessments for the Relevant Periods on February 19, 2016 (the “Reassessments”);
+m) in the Reassessments, the Minister allowed the ITCs totalling $640,492.69 claimed by SWP in respect of the GST paid to the investment managers on the Investment Services;
+n) however, in the Reassessments, the Minister also included unreported GST collectible totalling $640,492.69 by SWP on the supply of the Investment Services by SWP to the Pension Plans; and
+o) there is no allegation of SWP making misrepresentations attributable to its neglect, carelessness, or wilful default in respect of the Investment Services.
+[6] The Statement of Additional Agreed Facts (a copy of which is attached hereto as Appendix A) focuses on the assessments and reassessments issued by the Minister. It notes the following:
+- The assessment issued on August 10, 2007 for the reporting periods ending between August 1, 2003 and July 31, 2004 denied input tax credits on investment services of $551,956.19.
+- The assessment issued on September 17, 2008 for the reporting periods ending between August 1, 2004 and July 31, 2005 denied input tax credits on investment services of $88,536.50.
+- The particulars of the reassessment issued on February 19, 2016 for the Appellant’s reporting periods ending between August 1, 2003 and July 31, 2004 are as follows:
+• The Appellant was assessed GST collectible on “In‑house Resources and Administration Services” of $68,043.38.
+• The Appellant was allowed input tax credits on “Investment Services” of $551,956.19.
+• The Appellant was assessed GST collectible on the “Re-supply of Investment Services” of $551,956.19.
+- The particulars of the reassessment issued on February 19, 2016 for the Appellant’s reporting periods ending between August 1, 2004 and July 31, 2005 are as follows:
+• The Appellant was assessed GST collectible on “In‑house Resources and Administration Services” of $61,739.68.
+• The Appellant was allowed input tax credits on “Investment Services” of $88,536.50.
+• The Appellant was assessed GST collectible on the “Re-supply of Investment Services” of $88,536.50.
+- The reassessments issued on February 19, 2016 did not increase the Appellant’s net tax liability for the assessed periods.
+[7] In her response to the Appellant’s Request to Admit, the Respondent admitted that, for each particular reporting period of the Appellant ending between August 1, 2003 and July 31, 2005, the later of
+(a) the day on or before which the Appellant was required to file its GST return for the particular reporting period and
+(b) the day on which the Appellant filed its GST return for the particular reporting period
+was more than four years before February 19, 2016. February 19, 2016 is the date the Minister reassessed the Appellant for these reporting periods.
+II. The Law [8] Subsection 296(1) of Part IX of the Excise Tax Act (the “GST Act”) provides, in part, that the Minister may assess the net tax of a person for a reporting period of the person and any penalty or interest payable by a person under the GST Act. Subsection 296(1) also provides that the Minister may reassess or make an additional assessment of net tax, penalty or interest.
+[9] The net tax of a person for a specific reporting period is determined under subsection 225(1). Generally speaking, that determination is made as follows:
+GST that became collectible during the reporting period
++ GST that was collected during the reporting period
+- input tax credits claimed in the GST return filed by the person.
+[10] Subsection 298(1) imposes a time limit with respect to when the Minister may assess a person. Specifically, the Minister is not permitted to make an assessment, under section 296, of the net tax of a person for a reporting period of the person more than four years after the later of the day on or before which the person was required under section 238 to file a return for the period and the day the return was filed. I will refer to this as the “statutory limitation period”.
+[11] Subsection 123(1) defines the word assessment to mean an assessment under the GST Act and includes a reassessment under the GST Act. As a result, the statutory limitation period applies to both assessments and reassessments.
+[12] The parties agree that the Minister issued the assessments before the expiry of the statutory limitation period and issued the reassessments after the expiry of the statutory limitation period.
+[13] Subsections 298(3) and (6.1) provide for situations where the statutory limitation period does not apply to the Minister. The Minister relied on these provisions, particularly subsection 298(3), when issuing the reassessments.
+[14] Subsections 298(3) and 298(6.1) read as follows during the relevant period:
+(3) Subsections (1) and (2) do not apply in respect of a reassessment of a person made
+(a) to give effect to a decision on an objection or appeal; or
+(b) with the consent in writing of the person to dispose of an appeal.
+(6.1) The Minister may advance an alternative argument in support of an assessment of a person at any time after the period otherwise limited by subsection (1) or (2) for making the assessment unless, on an appeal under this Part,
+(a) there is relevant evidence that the person is no longer able to adduce without leave of the court; and
+(b) it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+III. Positions of the Parties [15] The Appellant argues that subsections 298(3) and 298(6.1) do not give the Minister the authority to issue, after the expiry of the statutory limitation period, a reassessment, to give effect to a decision on an objection that assesses new tax on different transactions. Specifically, the Minister cannot take into account new or different transactions after the expiry of the statutory limitation period. The Appellant argues that this is the result even if the reassessment results in the same or a lower amount of tax payable.
+[16] It is the Appellant’s position that the reassessments of the determination of the Appellant’s entitlement to input tax credits in respect of supplies made by third party investment managers to the Appellant and the determination of the taxation of an alleged supply by the Appellant of investment management services to the Pension Plans involve two separate transactions. The first transaction is the supply of services by the third party investment managers to the Appellant and the second is the supply of services by the Appellant to the Pension Plans.
+[17] The Appellant argues that the Minister cannot assess in respect of the second transaction after the expiry of the statutory limitation period.
+[18] The Respondent argues that, when responding to a notice of objection under the GST Act, the Minister is not precluded from reassessing on the basis of different transactions or even from increasing net tax. She states the following in her written argument:
+. . . That is because, unlike the corresponding provisions of the Income Tax Act, subsection 298(3) imposes no limits on the Minister’s power to reassess. Subsection 298(3) says that the limitation periods set out in subsections 298(1) and (2) “do not apply” in respect of a reassessment of a person made to give effect to a decision on an objection. Absent any limiting provision, the Minister’s duty to properly administer the Excise Tax Act requires her to assess in accordance with the law.
+[19] The Respondent also argues that, even if the Minister cannot include in her reassessment transactions that do not form the basis of the taxpayer’s assessment, this limitation has no application in the current appeal since the Minister did not rely on new transactions when reassessing the Appellant.
+[20] She argues that the reassessments are not based on new transactions but rather are based on a recharacterization of the transactions the Minister considered when issuing the assessments. The recharacterization was based on the Minister’s new understanding of the nature of the relationships among the same parties to the same transactions, with no resulting increase in the Appellant’s net tax.
+IV. Preliminary Issues identified by the Court A. Evidence before the Court [21] The Court first called the Appellant’s motion for hearing on April 10, 2017. At the commencement of the hearing, I informed the parties that I was concerned that I could not answer the Rule 58 Question with the little evidence before me. After discussing my concerns with counsel, I adjourned the hearing to allow the parties to decide whether they wished to proceed on the basis of the facts before me or file additional agreed facts.
+[22] In a letter filed with the Court on June 28, 2017, the parties stated the following:
+The parties have considered this matter and write to advise that they agree the matter should proceed based on the facts set out in the Court’s Order dated November 8, 2016 and the Statement of Additional Agreed Facts filed by the parties prior to their appearance before the Court on April 10, 2017.
+B. Appellant’s reporting periods [23] After the conclusion of the oral hearing, I realized that the Rule 58 Question does not reflect the actual reporting periods of the Appellant. Specifically, the question refers to two annual reporting periods, one from August 1, 2003 to July 31, 2004 and a second reporting period from August 1, 2004 to July 31, 2005. However, as noted in the statement of accepted facts, the Appellant is a monthly filer.
+[24] The Court notified the parties of its concern. On November 10, 2017, the parties filed a letter with the Court stating that they agreed that the Rule 58 Question should be restated as follows:
+Was the Minister statute barred on February 19, 2016 from assessing GST collectible totalling $640,492.69 on the supply of investment management services made by the Appellant to three pension plan trusts (assuming such supplies were made), for the monthly reporting periods ending between August 1, 2003 and July 31, 2005?
+[25] I have accepted this restatement of the question. It does not affect the issues before the Court.
+V. Reasons for the Order [26] I will first address the Respondent’s argument that under subsection 298(3) of the GST Act the Minister is not precluded, after the expiration of the statutory reassessment period, from reassessing on the basis of different transactions or even from increasing net tax.
+[27] The issue of a reassessment increasing the amount of the net tax of a GST registrant after the expiry of the statutory reassessment period is not before the Court since the Minister’s reassessment did not increase the net tax of the Appellant. However, the Appellant’s argument is that the Minister, when reassessing after the expiry of the statutory reassessment period, took into account different transactions than the ones that formed the basis of the original reassessment of the Appellant’s net tax.
+[28] In my view, the finding of the Federal Court of Appeal in The Queen v. Anchor Pointe Energy Ltd.[1], and of my colleague Justice Hogan in Klemen v. The Queen[2], with respect to subsection 165(5) of the Income Tax Act applies equally to subsection 298(3) of the GST Act. Justice Hogan stated the following at paragraphs 22 and 23 of his decision:
+[22] As a preliminary matter, the Appellant submits that the Second Reassessment should be vacated because it was issued beyond the normal reassessment period and the conditions set out in subsection 152(4) of the Act have not been met. The Respondent argues that the limitations stated in subsection 152(4) of the Act do not apply to the Second Reassessment because it was issued following the Minister’s consideration of the Appellant’s Notice of Objection filed in respect of the First Reassessment. The Respondent relies in this regard on the wording of subsection 165(5) of the Act, which reads as follows:
+165(5) Validity of reassessment − The limitations imposed under subsections 152(4) and 152(4.01) do not apply to a reassessment made under subsection (3).
+[23] I disagree with the Respondent’s interpretation of subsection 165(5) of the Act. While I acknowledge that the provision, if read literally, could support the Respondent’s argument, in The Queen v. Anchor Pointe Energy Ltd., the Federal Court of Appeal (the “FCA”) stated that reassessments issued beyond the normal reassessment period, following the consideration of a taxpayer’s Notice of Objection, cannot increase the taxpayer’s tax payable unless the limitations set out in subsection 152(4) of the Act are respected. With regard to the scope of subsections 165(3) and 165(5) of the Act, Justice Rothstein commented as follows:
+I am unable to agree with Rip J. that the expiry of the normal reassessment period is stayed or is extended until the Minister takes action under subsection 165(5). The implication of such an interpretation is that because a taxpayer files a Notice of Objection, the Minister has an unlimited time to reassess the taxpayer to increase tax payable after the normal reassessment period.
+. . .
+In my opinion, subsection 165(5) allows the Minister to reassess after expiry of the normal reassessment period where a Notice of Objection has been filed but not to include in the taxpayer's income amounts that were not included in an assessment or reassessment made within the normal reassessment period.
+[Emphasis added.]
+[29] While the wording of subsection 298(3) of the GST Act is different than the wording of subsection 165(5) of the Income Tax Act, Parliament’s intention is, in my view, the same: the Minister cannot, after the expiry of the reassessment period, use subsection 298(3) of the GST Act to increase the net tax of the GST registrant or to take into account different transactions that the ones that formed the basis of the reassessment that was made within the statutory reassessment period.[3]
+[30] As the Federal Court of Appeal noted in Anchor Pointe, the implication of the Respondent’s position is that, because a taxpayer files a Notice of Objection, the Minister has an unlimited time to reassess the taxpayer to increase net tax payable after the normal reassessment period.[4] Such an interpretation is not consistent with the statutory scheme of the GST Act.
+[31] Further, paragraph 298(3)(a) uses the words “to give effect to a decision on an objection or appeal”. In my view, these words limit the application of paragraph 298(3)(a).
+[32] As I noted previously, under subsection 296(1) the Minister assesses the net tax of a registrant. Subsection 301(1.1) allows the registrant to object to the assessment by filing a notice of objection. Paragraph 298(3)(a) provides, in part, that the Minister may reassess after the expiry of the statutory limitation period to “give effect to a decision on an objection”. In my view, the words decision on an objection mean a decision regarding the net tax objected to in the notice of objection, i.e., the net tax assessed by the Minister. In other words, paragraph 298(3)(a) only waives the statutory reassessment period with respect to the net tax originally assessed by the Minister; it does not waive the statutory limitation period in respect of any additional or new net tax.
+[33] I will now address the Appellant’s argument that the Minister’s reassessments are based upon different transactions than the ones that formed the basis of the original assessments of the Appellant’s net tax.
+[34] As previously stated, I do not believe that the Minister, when reassessing outside of the statutory reassessment period, can take into account different transactions than the ones that formed the basis of the assessment. For example, the Minister denied the input tax credits in respect of tax paid on the purchase of investment management services that were related to the Appellant’s employee Pension Plans. The Minister cannot, therefore, after the expiry of the statutory reassessment period, assess in respect of a transaction that is not in any way related to the Pension Plans, such as the sale of grain to a third party.
+[35] However, the question of whether the resupply of the investment management services to the pension plan is part of the transactions that formed the basis of the Minister’s assessments is one that can only be answered by examining all of the relevant facts surrounding the Appellant’s administration and funding of the Pension Plans.
+[36] The following are the only facts before me with respect to the investment management services and the Minister’s assessments and reassessments:
+- During the material times the Appellant was the administrator of three separate defined benefit pension plans (the aforementioned Pension Plans).
+- Each of the Pension Plans was funded through a separate trust established to hold and invest the assets of the respective Pension Plans.
+- During the relevant period, the Appellant acquired the services of third party investment managers to manage the Pension Plans’ funds (the “investment management services”).
+- The Appellant claimed, in its GST returns for the relevant periods, input tax credits totalling $640,492.69 for the GST paid to investment managers in respect of the investment management services.
+- When assessing the Appellant, the Minister denied the $640,492.69 of input tax credits claimed by the Appellant in respect of the investment management services.
+- The Appellant objected to the assessments.
+- When reassessing the Appellant, the Minister allowed the $640,492.69 of input tax credits claimed by the Appellant in respect of the GST it had paid to the investment managers for the investment management services. The Minister’s reassessments included unreported GST collectible of $640,492.69 in respect of an alleged resupply of the investment management services by the Appellant to the Pension Plans.
+[37] The statutory scheme of the GST Act is important when determining whether the Minister considered a new transaction in reassessing the Appellant.
+[38] Subsection 169(1) contains the general rules for the claiming of input tax credits. The applicable portions of subsection 169(1) read as follows:
+General rule for [input tax] credits - Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+. . .
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+[39] The Appellant’s ability to claim input tax credits for the GST paid in respect of the investment management services is dependent on the extent to which the Appellant acquired the investment management services for consumption, use or supply in its commercial activities.
+[40] As a result, when determining the Appellant’s net tax for the purpose of the assessments, the Minister had to determine, in the first instance, whether the Appellant consumed, used or supplied the investment management services. Once the Minister made this determination, she then had to decide whether the consumption, use or supply occurred in the course of the Appellant’s commercial activities.
+[41] In the assessments, the Minister denied the input tax credits claimed by the Appellant for GST incurred in respect of the investment management services. The difficulty I face is that I do not know the basis for the Minister’s determination that the Appellant was not entitled to claim the input tax credits. I do not know if she determined that the Appellant consumed or used the investment management services, but did not consume or use such services in the course of its commercial activities, or if she concluded that the Appellant resupplied the investment management services but such resupply did not occur in the course of its commercial activities.
+[42] As a result, I cannot determine if the Minister, when reassessing, considered a new transaction since I do not know what transactions the Minister considered when issuing the original assessments to deny the input tax credits. Therefore, I cannot answer the Rule 58 Question.
+[43] There is a second reason why I cannot answer the Rule 58 Question.
+[44] As can be seen from this Court’s decision in General Motors of Canada Ltd. v. The Queen, the administration and funding of pension plans can be extremely complicated and is normally governed by numerous complex documents.[5] It appears from the Minister’s assumptions noted in the Reply that the Appellant’s involvement with the three Pension Plans was not straightforward and involved numerous agreements. The evidence with respect to the Appellant’s involvement with the three Pension Plans is not before the Court.
+[45] In order to answer the Rule 58 Question, the Court must determine whether the supply of the investment management services by third parties to the Appellant and by the Appellant to the Pension Plans is part of the same transaction, or a series of transactions, such that the Minister did not consider any new transactions when reassessing the Appellant. The relevant facts, including agreements, required to make such a determination are not before the Court.
+[46] For example, the Appellant’s counsel admitted during oral argument that the Appellant resupplied the investment management services to the Pension Plans. As a result, there may be an interrelationship between the Appellant’s acquisition of the investment management services and its resupply of such services to the Pension Plans. I do not have the facts before me to determine if such a relationship exists and, if it does, the nature or extent of such relationship. The Court cannot answer the Rule 58 Question without such knowledge. It cannot answer the question in a factual vacuum.
+[47] In my view, assuming that the parties place the relevant evidence before the Court, only a trial judge can answer the Rule 58 Question.
+[48] Counsel for the Appellant raised the concern that it is difficult to find the relevant documents fourteen years after the fact. It is not clear to me what fourteen-year period counsel was referring to in his argument. Regardless, I have a very difficult time with this argument.
+[49] In the first instance, the Court bases its decisions on the facts before it. Secondly, the Minister assessed on August 10, 2007 and September 17, 2008 for the reporting periods that ended between August 1, 2003 and July 31, 2005. As a result, the Appellant was aware within a relatively short time that it had a tax issue. The Appellant is a sophisticated taxpayer and should be aware that it must retain the documentation required to support its tax appeal.
+VI. Determination [50] For the foregoing reasons, the Court cannot answer the Rule 58 Question given the limited facts before it. The parties will proceed with the various litigation steps, including discovery, and then place the relevant evidence before the trial judge, who will decide the issue raised in the Rule 58 Question.
+[51] Since the Respondent consented to the hearing of the Rule 58 Question, there will be no order with respect to costs.
+Signed at Ottawa, Canada, this 7th day of February 2018.
+“S. D’Arcy”
+D'Arcy J.
+APPENDIX A
+Docket: 2016-1995(GST)G
+BETWEEN:
+VITERRA INC.
+Appellant
+- and -
+HER MAJESTY THE QUEEN
+Respondent
+STATEMENT OF ADDITIONAL AGREED FACTS FOR MOTION UNDER
+SECTION 58
+The parties admit, for the purposes of proceeding under section 58 of the Tax Court of Canada Rules (General Procedure), the truth of the following facts, in addition to the agreed facts set out in Exhibit “A” of the Court’s Order dated November 8, 2016.
+1. Viterra Inc. appeals from reassessments dated February 19, 2016 (the “Reassessments”) issued by the Minister of National Revenue (the “Minister”) for the periods from May 1 to July 31, 2003, August 1, 2003 to July 31, 2004 and August 1, 2004 to July 31, 2005 pursuant to the Excise Tax Act.
+2. Only the periods from August 1, 2003 to July 31, 2004, and from August 1, 2004 to July 31, 2005 (the “Relevant Periods”), are relevant to this motion.
+3. The particulars of the original assessments for the Relevant Periods were as follows:
+Relevant
+Periods
+Assessment
+Date
+GST Collectible on In-house Resources/
+Administration
+Services
+Denied ITCs
+on
+Investment
+Services
+August 1, 2003 to July 31, 2004
+August 10, 2007
+$68,043.38
+$551,956.19
+August 1, 2004 to July 31, 2005
+September 17, 2008
+$61,739.68
+$88,536.50
+Total:
+$129,783.06
+$640,492.69
+4. The Minister reassessed Viterra for the Relevant Periods on February 19, 2016. The particulars of the Reassessments are as follows:[6]
+Relevant
+Periods
+GST Collectible on In-house Resources and Administration Services
+Allowed ITCs on Investment Services
+GST Collectible
+on Re-supply of
+Investment
+Services
+August 1, 2003 to July 31, 2004
+$68,043.38
+$551,956.19
+$551,956.19
+August 1, 2004 to July 31, 2005
+$61,739.68
+$88,536.50
+$88,536.50
+Total:
+$129,783.06
+$640,492.69
+$640,492.69
+5. The Reassessments did not increase the appellant’s net tax liability for the Relevant Periods.
+DATED at the City of Toronto, in the Province of Ontario on February 17, 2017.
+_____“Kristen Duerhammer”__________
+Per: Justin Kutyan/Adam Gotfried
+Counsel for the Appellant
+KPMG Law LLP
+Bay Adelaide Centre
+333 Bay St., Suite 4600
+Toronto, Ontario
+M5H 2S5
+DATED at the City of Saskatoon, in the Province of Saskatchewan on February 21, 2017.
+_____“Anne Jinnouchi”_______________
+ATTORNEY GENERAL OF CANADA
+Department of Justice Canada
+Prairie Region
+10th Flr. 123 – 2nd Avenue S
+Saskatoon, Saskatchewan
+S7K 7E6
+Fax number: (306) 975-8991
+Per: Anne Jinnouchi/Bryn Frape
+Telephone numbers:
+(306) 975-4505/(306) 975-6121
+E-mail addresses:
+Anne.jinnouchi@justice.gc.ca/
+bryn.frape@justice.gc.ca
+Solicitors/Counsel for the Respondent
+CITATION:
+2018 TCC 29
+COURT FILE NO.:
+2016-1995(GST)G
+STYLE OF CAUSE:
+Viterra Inc. v. Her Majesty the Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATES OF HEARING:
+April 10, 2017 and November 7, 2017
+REASONS FOR ORDER BY:
+The Honourable Justice Steven K. D'Arcy
+DATE OF ORDER:
+February 7, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Justin Kutyan
+Adam Gotfried
+Kristen Duerhammer
+Counsel for the Respondent:
+Brooke Sittler
+Anne Jinnouchi
+Bryn Frape
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Justin Kutyan
+Adam Gotfried
+Firm:
+KPMG Law LLP
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2003 DTC 5512 (“Anchor Pointe”).
+[2] 2014 DTC 1170.
+[3] See Anchor Pointe, paragraph 39.
+[4] See Anchor Pointe, paragraph 33.
+[5] General Motors of Canada Ltd. v. The Queen, 2008 TCC 117, 2008 G.T.C. 256; see for example, paragraphs 3 to 21.
+[6] Letter dated February 19, 2016 to Viterra from CRA including attachments. This copy of the February 19, 2016 letter which includes attachments is as received by the respondent from the appellant. The respondent has a copy of the February 19, 2016 letter but does not possess a copy of this letter with the said attachments.

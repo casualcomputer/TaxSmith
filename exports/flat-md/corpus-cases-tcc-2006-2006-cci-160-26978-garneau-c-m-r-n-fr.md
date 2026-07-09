@@ -1,0 +1,1199 @@
+---
+title: "Garneau c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26978/index.do"
+last_modified: "2006-05-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 160"
+citation2: ""
+neutral_citation: "2006 CCI 160"
+decision_date: "2006-05-29"
+language: "fr"
+item_id: "26978"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 523
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:35:37.071000+00:00"
+cases_cited_count: 8
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "08c34cba77bb9bb17c169c9420df06990d49d88e6c76a980efc23b97a5e2b240"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Garneau c. M.R.N.
+
+- Citation: 2006 CCI 160
+- Decision date: 2006-05-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 523, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Garneau c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-29
+Référence neutre
+2006 CCI 160
+Numéro de dossier
+2004-4005(EI)
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-4005(EI)
+ENTRE :
+JACINTHE GARNEAU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de
+Denise Bellefeuille (2004-4008(EI))
+les 1er, 3, 8, 9 et 10 juin et le 6 octobre 2005, à Montréal (Québec).
+Devant : L'honorable juge Pierre Archambault
+Comparutions :
+Avocat de l'appelante :
+Me Roch Guertin
+Avocat de l'intimé :
+Me Benoît Mandeville
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 29e jour de mai 2006.
+« Pierre Archambault »
+Juge Archambault
+Dossier : 2004-4008(EI)
+ENTRE :
+DENISE BELLEFEUILLE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de
+Jacinthe Garneau (2004-4005(EI))
+les 1er, 3, 8, 9 et 10 juin et le 6 octobre 2005, à Montréal (Québec).
+Devant : L'honorable juge Pierre Archambault
+Comparutions :
+Avocat de l'appelante :
+Me Roch Guertin
+Avocat de l'intimé :
+Me Benoît Mandeville
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 29e jour de mai 2006.
+« Pierre Archambault »
+Juge Archambault
+Référence : 2006CCI160
+Date : 20060529
+Dossiers : 2004-4005(EI)
+2004-4008(EI)
+ENTRE :
+JACINTHE GARNEAU,
+DENISE BELLEFEUILLE,
+appelantes,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Archambault
+[1] Les appelantes, Jacinthe Garneau et Denise Bellefeuille, interjettent appel de décisions rendues par le ministre du Revenu national (ministre) relativement à l'assurabilité de leur emploi chez Boiserie Dubé & Associés Inc. (payeur), une société contrôlée par monsieur Joseph Dubé. Les périodes pertinentes relatives au travail de madame Garneau (périodes Garneau) sont les suivantes :
+· du 5 mai 1997 au 12 décembre 1997
+· du 31 mai 1998 au 7 novembre 1998
+· du 7 juin 1999 au 22 octobre 1999
+· du 22 mai 2000 au 6 octobre 2000
+· du 4 mars 2001 au 22 juin 2001.
+[2] Celles relatives au travail de madame Bellefeuille (périodes Bellefeuille) sont :
+· du 8 juin 1997 au 12 septembre 1997
+· du 21 juin 1998 au 15 octobre 1999
+· du 17 avril 2000 au 1er septembre 2000
+· du 16 avril 2001 au 31 août 2001.
+[3] Relativement à madame Garneau, le ministre fait valoir dans sa réponse modifiée à l'avis d'appel qu'elle « n'occupait pas d'emploi assurable [...] puisque [...] il n'y avait pas de véritable contrat de louages [sic] de services » entre elle et le payeur (paragraphe 11)[1]. « Subsidiairement, il soutient que l'appelante avait un lien de dépendance avec le payeur pendant les périodes en litige en vertu de l'alinéa 5(3)a) de la Loi sur l'assurance emploi [LAE] et 251(1)c) de la Loi de l'impôt sur le revenu [LIR] et, en conséquence, l'emploi de l'appelante, si emploi il y avait, était exclu en vertu de l'alinéa 5(2)i) de la [LAE] (paragraphe 12). » Finalement, selon le ministre, l'alinéa 5(3)b) de LAE n'est pas applicable en l'espèce[2].
+[4] Quant à madame Bellefeuille, le ministre soutient dans sa réponse modifiée à l'avis d'appel qu'elle n'occupait pas un emploi assurable parce qu'il « n'y avait pas d'emploi » (paragraphe 10). « Subsidiairement, dans l'éventualité où la Cour en arrivait à la conclusion que l'appelante était une employée du payeur [...], il soutient qu'il n'y avait pas de véritable contrat de louage de services » (paragraphe 11). Finalement, prétend le ministre, même s'il s'agissait d'un contrat de travail véritable, il serait exclu des emplois assurables en raison du lien de dépendance qui existait entre madame Bellefeuille et le payeur « en vertu des alinéas 251(1)a) et 251(2)a) de la [LIR] » (paragraphe 12), et il « soutient que des personnes sans lien de dépendance n'auraient pas conclu un contrat de travail à peu près semblable à celui conclu entre l'appelante et le payeur » (paragraphe 13). Madame Bellefeuille était une personne liée au payeur parce qu'elle était l'épouse de monsieur Dubé[3].
+Contexte factuel
+[5] Les appelantes sont représentées par le même avocat et elles ont consenti à ce que leurs appels soient entendus sur preuve commune. L'audition de ces appels, prévue pour une journée, en a duré six : cinq journées pour l'administration de la preuve en juin 2005 et une journée pour les plaidoiries le 6 octobre 2005. Le procureur du ministre, qui s'était engagé à produire des observations écrites pour le 30 septembre 2005, a produit un document de 227 pages. Le procureur des appelantes a plaidé oralement. Pour mieux comprendre l'ampleur qu'a prise l'audition de ces appels, il est utile de relater les circonstances du cheminement de ces deux dossiers.
+• L'enquête de DRH
+[6] La demande de la Commission de l'assurance-emploi du Canada (Commission) à un fonctionnaire (agent d'assurabilité) de l'Agence du revenu du Canada (Agence) concernant l'assurabilité des emplois des appelantes faisait suite à une enquête du ministère du Développement des ressources humaines du Canada (DRH). À la suite d'une dénonciation anonyme faite en septembre 2001, DRH a mené une enquête sur le payeur, qui s'est poursuivie jusqu'à l'été 2003[4]. Voici un extrait du « Rapport d'enquête - pénalité à l'employeur » de DRH (pièce I-27, deuxième page) :
+L'enquête nous a permis de découvrir que certains employés travaillaient à temps plein pour cette entreprise tout en recevant des prestations d'assurance emploi, que l'employeur avait fait des relevés d'emploi faux ou trompeurs, ou qui ne reflétaient pas la réalité, et qu'il y avait des employés qui travaillaient carrément au noir.
+Nous avons surtout constaté que Boiserie Dubé & Associés Inc. a utilisé les fonds de l'assurance emploi, pour payer des salaires aux employés et aux membres de sa famille, en procédant d'une façon constante et répétitive, selon un « pattern établi » , et ce, depuis le début de l'entreprise en 1997. L'enquête nous a démontré également que les agissements de cet employeur avaient commencés [sic] en 1996, au moment où les deux actionnaires travaillaient pour une autre entreprise comme employés (Boiserie D.C.).
+[Je souligne.]
+[7] Comme on peut le constater, les faits de cette affaire ressemblent beaucoup à ceux des affaires Massignani c. Canada, 2004 CCI 75et Pourvoirie au pays de Réal Massé Inc. et al. c. Canada, 2004 CCI 582. Pour utiliser les mots du juge Létourneau dans Desaulniers c. Canada, [2006] CAF 15[5], paragraphe 1, il s'agit « d'un stratagème faisant en sorte que les prestations d'assurance-chômage/emploi [que] recevaient [les travailleurs] finançaient en grande partie les salaires que leur employeur devait leur verser » (stratagème).
+[8] Dans son rapport d'enquête, l'enquêteuse de DRH recommandait l'imposition de pénalités et l'envoi de lettres d'avertissement au payeur pour avoir commis des infractions à la LAE, « soit [pour] avoir produit un faux relevé d'emploi, avoir produit 11 relevés d'emploi erronés, et avoir aidé et participé avec un travailleur à recevoir des prestations tout en travaillant à plein temps » (pièce I-27, dernière page). Le total des montants de prestations[6] payés en trop à huit employés, dont mesdames Garneau, Bellefeuille et Guylaine Dubé, s'élève à 73 015 $ et le montant total des pénalités imposées à ces prestataires est de 18 144 $. L'enquêteuse continue en ajoutant :
+Il est important de noter que le montant total de trop payés et pénalités aux prestataires aurait été beaucoup plus élevé, n'eût été des délais que nous avons eus à rencontrer l'employeur et à obtenir les documents pour mener notre enquête et rendre les décisions, en respectant les délais de prescriptions [sic] dans les dossiers des travailleurs.
+Le nombre d'infractions à la loi de la part de l'employeur aurait également été plus élevé pour les mêmes raisons.
+[9] L'enquêteuse écrit dans son rapport que madame Garneau a rempli plusieurs relevés d'emploi contenant des informations fausses et trompeuses. Par exemple, lorsqu'elle était employée de Boiserie D.C. Inc. (BDC), elle a préparé son propre relevé d'emploi, qui a été signé par monsieur Dubé, alors qu'il n'était plus employé de BDC; elle a indiqué comme motif de la cessation d'emploi le manque de travail, alors qu'elle avait quitté BDC pour se joindre à l'entreprise du payeur comme actionnaire et salariée (pièce I-27, 3e et 4e pages). Madame Garneau a présenté également une demande de prestations de chômage le 14 janvier 1997, laquelle contenait la même information trompeuse, à savoir que le manque de travail constituait le motif de la cessation de son emploi chez BDC (pièce I-2). Madame Garneau a rempli pour des employés ou prétendus employés de BDC des relevés d'emploi sur lesquels la signature de monsieur Marcel Maltais a été contrefaite. C'est le cas notamment des relevés de madame Guylaine Dubé, la fille de monsieur Dubé, de monsieur Stéphane Laferrière et de monsieur Gaston Dubuc (pièce I-14). Le relevé d'emploi de madame Dubé est également trompeur parce qu'elle n'a jamais travaillé pour BDC. Quant à monsieur Laferrière, on indique comme motif de cessation d'emploi le manque de travail et comme dernier jour de travail le 21 décembre 1996 (pièce I-14), alors que monsieur Laferrière a travaillé chez BDC jusqu'au 22 février 1997, si on se fie au relevé d'emploi signé par madame Monique Dugas (pièce I-27, 4e page, et pièce I-17). Sur le relevé d'emploi pour monsieur Dubuc, madame Garneau indique comme motif de cessation d'emploi le manque de travail, alors que monsieur Dubuc a quitté volontairement son emploi pour aller travailler chez le payeur (pièce I-27, 4e et 5e pages, et pièce I-30 (déclaration statutaire de monsieur Dubuc)).
+[10] Le rapport d'enquête fait état de plusieurs relevés d'emploi trompeurs et erronés produits par le payeur auprès de DRH. Lors d'une rencontre le 10 mai 2002 avec l'enquêteuse, madame Garneau a reconnu les avoir tous préparés (pièce I-32, 4e page). Relativement au relevé d'emploi de monsieur Dubuc, l'enquêteuse mentionne que ce travailleur admet avoir commencé son emploi en février 1997, et non pas le 20 avril 1997 comme l'indique le relevé d'emploi. De plus, elle écrit qu'il n'a pas cessé de travailler chez le payeur pour manque de travail mais qu'il avait plutôt décidé de quitter l'emploi. Elle ajoute « qu'il y a eu entente avec l'employeur afin que le travailleur n'ait pas de trouble avec l'assurance-emploi en indiquant manque de travail » (pièce I-27, 5e page, et pièce I-30 (déclaration statutaire de monsieur Dubuc)). On trouve dans le rapport de l'enquêteuse (pièce I-27, 5e page) la version du payeur : « L'employeur confirme que Gaston Dubuc a commencé à travailler pour lui à partir de février 1997, mais seulement après avoir pris connaissance des documents que nous avions en preuve. Il mentionne cependant que Gaston Dubuc a travaillé comme sous contractant de février 1997 au 19-04-97, comme employé autonome. Cette déclaration ne peut être considérée crédible. »
+[11] L'enquêteuse écrit relativement à monsieur Stéphane Laferrière[7] :
+Ce travailleur reconnaît qu'il a débuté l'emploi pour cette compagnie le 24-02-97 au lieu du 13-04-97, comme inscrit sur le relevé d'emploi. Il mentionne qu'il a reçu des prestations d'assurance emploi tout en travaillant à temps plein, qu'il savait que c'était illégal, mais que Joseph Dubé lui a dit que c'était sans danger parce que les chèques qu'il lui donnait, c'était pour ses dépenses.
+L'employeur, lui, mentionne qu'il savait que Stéphane Laferrière recevait des prestations d'assurance emploi, mais que le travailleur voulait qu'il lui fasse les chèques au nom de sa conjointe.
+Nous avons en preuve des chèques datés d'avant le 13-04-97, soit au nom du travailleur, et non au nom de sa conjointe, soit au nom de Réno-Dépôt et contre endossés par le travailleur.
+[Je souligne.]
+[12] On trouve dans le rapport de l'enquêteuse de nombreux cas semblables à celui de monsieur Laferrière. Le rapport décrit aussi d'autres types de manigances dans lesquelles était impliqué monsieur Dubé, notamment cet arrangement avec madame Nancy Ménard décrit à la 8e page :
+Cette travailleuse mentionne qu'elle a bien travaillé pour Boiserie Dubé & Associés Inc. du 19-03-01 au 25-09-01. Cependant, elle mentionne qu'elle avait un arrangement avec le patron, Joseph Dubé, à l'effet qu'au lieu d'une augmentation de salaire, il lui paierait une ou des heures de plus sur sa paie.
+[Je souligne.]
+• Décisions de l'agent d'assurabilité
+[13] Quand il a reçu les demandes de décision quant à l'assurabilité des emplois des appelantes à l'été 2003, l'agent d'assurabilité a consulté la preuve documentaire volumineuse constituée par l'enquêteuse de DRH. Parmi ces documents, il y avait de nombreux résumés d'entrevues de l'enquêteuse avec les actionnaires du payeur, le conjoint de monsieur Dubé, les enfants de celui-ci et les employés et ex-employés de l'employeur. Par la suite, il a procédé à des entrevues avec l'ensemble de ces personnes, qui lui ont confirmé ce qu'elles avaient déjà indiqué à l'enquêteuse. Se fondant en partie sur l'affirmation de madame Guylaine Dubé que madame Bellefeuille n'avait pas travaillé pour le payeur, l'agent d'assurabilité a conclu que cette dernière n'avait pas eu d'emploi assurable chez le payeur. En ce qui a trait à madame Garneau, l'agent d'assurabilité a conclu que son emploi était exclu des emplois assurables en raison du lien de dépendance qui existait entre elle et le payeur[8].
+• Les admissions
+[14] Pour rendre sa décision relative à madame Garneau, le ministre a tenu pour acquis les faits suivants décrits dans sa réponse modifiée à l'avis d'appel :
+8. [...]
+a) le payeur a été constitué en société le 7 novembre 1996; [admis]
+b) le payeur exploitait une entreprise de fabrication d'escaliers en bois ainsi que de boiseries diverses; [admis]
+c) les actionnaires avec des actions votantes du payeur étaient :
+Joseph Dubé
+75 % des actions
+l'appelante
+25% des actions;
+[admis]
+d) de la constitution du payeur jusqu'en 2002, l'appelante était administratrice du payeur; [admis]
+e) le 4 décembre 1999, l'appelante et Joseph Dubé débutent leur relation conjugale; [admis]
+f) l'appelante avait été engagée par le payeur comme secrétaire-comptable; [admis]
+g) l'appelante avait comme tâches la facturation, la comptabilité, les paies et la réception chez le payeur; [admis]
+h) l'appelante travaillait à l'année longue pour le payeur dans les locaux de l'entreprise; [nié]
+i) le 10 mai 2002, dans une déclaration à une représentant du DRHC, l'appelante déclarait que, lorsqu'elle recevait des prestations de chômage, elle travaillait peut-être moins d'heures, peut-être des moitiés de journée plutôt que des journées entières; [nié]
+j) l'appelante continuait à rendre des services au payeur après ses prétendues mises à pied; [nié]
+k) l'appelante était la maîtresse de Joseph Dubé, l'autre actionnaire du payeur, depuis 1996.[nié]
+9. Le sous-procureur général du Canada ajoute que :
+a) le 19 décembre 1997, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 5 mai 1997 et comme dernier jour de travail le 12 décembre 1997, et qui indiquait 1 085 heures assurables et 16 275,00 $ comme rémunération assurable; [admis]
+b) le 12 novembre 1998, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 31 mai 1998 et comme dernier jour de travail le 7 novembre 1998, et qui indiquait 1 130 heures assurables et 17 500,00 $ comme rémunération assurable; [admis]
+c) le 3 novembre 1999, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 7 juin 1999 et comme dernier jour de travail le 22 octobre 1999, et qui indiquait 795 heures assurables et 15 900,00 $ comme rémunération assurable; [admis]
+d) le 12 octobre 2000, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 22 mai 2000 et comme dernier jour de travail le 6 octobre 2000, et qui indiquait 800 heures assurables et 16 000,00 $ comme rémunération assurable; [admis]
+e) le 4 juillet 2001, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 4 mars 2001 et comme dernier jour de travail le 22 juin 2001, et qui indiquait 640 heures assurables et 11 400,00 $ comme rémunération assurable; [admis]
+f) les relevés d'emploi ne reflètent pas la réalité quant aux périodes travaillées, ni quant aux nombres d'heures travaillées par l'appelante; [nié]
+g) le payeur et l'appelant ont conclu un arrangement afin de qualifier l'appelante à recevoir des prestations de chômage, tout en continuant à rendre des services au payeur. [nié]
+h) L'appelante, Joseph Dubé et le payeur agissaient de concert dans le cadre du contrat de travail de l'appelante pour le payeur. [nié]
+[15] Pour rendre sa décision relativement à madame Bellefeuille, le ministre a tenu pour acquis les faits suivants décrits dans sa réponse modifiée à l'avis d'appel :
+8. [...]
+a) le payeur a été constitué en société le 7 novembre 1996; [admis]
+b) le payeur exploitait une entreprise de fabrication d'escaliers en bois ainsi que de boiseries diverses; [admis]
+c) l'actionnaire majoritaire avec 75% des actions votantes du payeur était Joseph Dubé; [admis]
+d) l'appelante est l'épouse de Joseph Dubé; [admis]
+e) l'appelante est secrétaire légale et elle travaillait pour des bureaux de notaires en même temps qu'elle prétend avoir travaillé chez le payeur; [nié]
+f) l'appelante aurait été embauchée comme secrétaire par le payeur; [nié]
+g) l'appelante aurait eu comme tâches prétendues pour le payeur de faire des lettres, de préparer des dossiers pour la Cour des petites créances et de faire la livraison de dossiers chez l'avocat du payeur alors qu'en réalité l'appelante n'a pas ou presque pas rendu de services au payeur; [nié]
+h) le 29 septembre 1997, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 8 juin 1997 et comme dernier jour de travail le 12 septembre 1997, et qui indiquait 224 heures assurables et 3 360,00 $ comme rémunération assurable; [admis]
+i) le 20 octobre 1999, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 8 juin 1997 (corrigé au 21 juin 1998) et comme dernier jour de travail le 15 octobre 1999, et qui indiquait 1180 heures assurables et 12 800,00 $ comme rémunération assurable; [admis]
+j) le 8 septembre 2000, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 17 avril 2000 et comme dernier jour de travail le 1er septembre 2000, et qui indiquait 450 heures assurables de 8 110,00 $ comme rémunération assurable; [admis]
+k) le 7 septembre 2001, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 16 avril 2001 et comme dernier jour de travail le 31 août 2001, et qui indiquait 400 heures assurables et 5 620,00 $ comme rémunération assurable; [admis]
+l) les relevés d'emploi ne reflètent pas la réalité quant aux dates travaillées, quant aux heures, ni quant à la rémunération de l'appelante. [nié]
+• Travail antérieur à 1997
+Jacinthe Garneau chez Quincaillerie
+[16] Madame Garneau a travaillé pour Dragon et Chapdelaine inc. (Quincaillerie) de juin 1979 au 20 octobre 1995. La cessation de cet emploi était due à la fermeture de l'entreprise. Madame Garneau s'est décrite comme comptable sur le relevé d'emploi qu'elle a préparé[9]. Quincaillerie appartenait à un groupe d'entrepreneurs en construction, dont un monsieur Maltais. Ce dernier considérait madame Garneau comme son bras droit. À une certaine époque, Quincaillerie avait une division qui fabriquait des escaliers en bois et des boiseries diverses. Cette division était connue sous le nom de Boiserie D.C.[10] À une époque qui n'a pas été précisée, mais probablement lors de la fermeture de Quincaillerie[11], la division de boiserie a été transférée à BDC. Le gérant de l'atelier de cette division était monsieur Joseph Dubé, qui était employé à la division depuis 1993 (pièce I-14).
+[17] Quincaillerie exploitait une entreprise de plus grande envergure que celle de BDC ou du payeur. En effet, elle comptait entre 15 et 20 employés, dont un teneur de livres[12]. Le chiffre d'affaires de Quincaillerie s'élevait à 15 000 000 $; celui du payeur oscillait autour d'un million de dollars. Pour les années civiles 2000, 2001 et 2002, les ventes du payeur étaient les suivantes[13] :
+Tableau 1
+Chiffre d'affaires du payeur
+2000
+2001
+2002
+janvier
+26 300
+61 470
+54 819
+février
+35 560
+39 310
+0
+mars
+40 970
+82 520
+161 490
+avril
+79 930
+125 450
+29 020
+mai
+100 960
+166 170
+161 630
+juin
+108 890
+129 050
+190 900
+juillet
+48 900
+31 760
+143 000
+août
+93 440
+118 900
+124 000
+septembre
+200 660
+67 780
+122 850
+octobre
+3 990
+52 310
+144 773
+novembre
+75 160
+42 360
+37 100
+décembre
+83 715
+85 710
+N/D
+898 475
+1 002 790
+1 169 582
+[18] Selon les états financiers du payeur pour les exercices 1998 à 2000, les ventes et les bénéfices (pertes) étaient les suivants[14] :
+Tableau 2
+Chiffres d'affaires et bénéfices du payeur
+31/03/98
+31/3/99
+31/12/00
+Ventes
+529 745
+977 653
+898 593
+Bénéfices
+(pertes)
+(67 467)
+4 395
+21 141
+[19] Lorsqu'elle était employée de Quincaillerie, a affirmé madame Garneau, elle gagnait de 550 $ à 575 $ par semaine. En plus, elle aurait reçu un bonus à la fin de l'année, ce qui aurait augmenté son salaire hebdomadaire à 800 $. Lors de son témoignage, monsieur Maltais a déclaré que Quincaillerie avait établi un régime de bonus pour ses deux gérants. Il doutait qu'un tel régime ait été mis en place pour madame Garneau. Il aurait fallu alors qu'elle reçoive un bonus de 11 700 $, représentant 39 % de son salaire de base, pour que l'affirmation de madame Garneau soit véridique, ce qui est peu vraisemblable[15]. De plus, le relevé d'emploi ne mentionne aucune autre forme de rémunération, comme un bonus (pièce I-12).
+[20] Madame Garneau a dit avoir été rémunérée à la semaine par Quincaillerie et non pas à l'heure. Toutefois, sur sa demande de prestations d'assurance-chômage du 24 octobre 1995, présentée à la suite de la fermeture de cette entreprise, madame Garneau indique « 12,00 $ par heure » comme réponse à la question « Quelle était votre rémunération normale avant déductions? » . À la question « Salaire de base minimum acceptable » , elle a inscrit « $10 à $12 » (voir pièce I-13). De plus, selon le relevé d'emploi (pièce I-12) en date du 20 octobre 1995, que madame Garneau a elle-même préparé et signé, sa rémunération hebdomadaire au cours des 20 semaines précédant la cessation de son emploi variait en dents de scie, allant de 384 $ à 528 $. La période la plus longue sans variation est de quatre semaines. Si on adopte comme hypothèse que le salaire horaire était de 12 $, on obtient les résultats suivants :
+Tableau 3
+Rémunération de madame Garneau chez Quincaillerie
+Nombre
+de semaines
+Salaire
+hebdomadaire
+Nombre
+d'heures
+1
+815[16]
+?
+9
+528
+44
+4
+504
+42
+1
+456
+38
+3
+432
+36
+1
+408
+34
+1
+384
+32
+Total
+20
+Ces faits révèlent donc que madame Garneau a été payée par Quincaillerie plutôt en fonction des heures qu'elle a réellement effectuées.
+Jacinthe Garneau chez BDC
+[21] Après un peu plus de deux mois de chômage à la suite de la fermeture de Quincaillerie, madame Garneau a été engagée le 8 janvier 1996 par BDC pour accomplir des tâches semblables à celles qu'elle avait eues chez Quincaillerie. Sur sa demande de prestations de chômage du 14 janvier 1997 (pièce I-2), madame Garneau a inscrit 525 $ comme rémunération versée par BDC pour 35 heures de travail, ce qui correspond à un taux horaire de 15 $. Toutefois, il faut souligner que cette rémunération hebdomadaire correspond à celle chez Quincaillerie. Le salaire de 525 $ à un taux horaire de 12 $ donne tout près de 44 heures par semaine. De plus, le salaire minimum acceptable indiqué sur sa demande de prestations est de 12 $ l'heure pour un emploi de comptabilité ou de secrétariat. Il est plus plausible que BDC a engagé madame Garneau aux mêmes conditions que celles qu'elle avait eues chez Quincaillerie avant sa mise à pied et que son taux horaire chez BDC était alors 12 $ (et non 15 $). Selon son relevé d'emploi (pièce I-2), préparé par elle et signé par monsieur Dubé en date du 20 décembre 1996[17], le salaire hebdomadaire a varié en dents de scie, allant de 450 $ à 525 $ au cours des 20 semaines précédant son départ le 20 décembre 1996. Si on adopte comme hypothèse que le salaire horaire était de 12 $, on obtient les résultats suivants :
+Tableau 4
+Salaire de madame Garneau
+chez BDC
+Nombre
+de semaines
+Salaire
+hebdomadaire
+Nombre
+d'heures
+4
+450
+37.5
+15
+525
+43.75
+1
+750[18]
+?
+Total
+20
+Ces faits révèlent également que madame Garneau était vraisemblablement rémunérée à l'heure plutôt qu'à la semaine.
+Joseph Dubé, Denise Bellefeuille et Guylaine Dubé chez BDC
+[22] Selon la demande de prestations de monsieur Dubé du 14 janvier 1997[19], son salaire hebdomadaire chez BDC était de 250 $[20] pour 37 heures de travail dans le poste de « directeur » , ce qui donne un salaire horaire de 6,76 $! D'ailleurs, n'est-il pas surprenant d'apprendre que le nom de sa femme, madame Bellefeuille, et celui de sa fille Guylaine étaient inscrits sur le registre de paie de BDC et qu'elles recevaient chacune une somme de 250 $ par semaine? Si on attribue le salaire hebdomadaire de ces deux personnes à monsieur Dubé, ce dernier aurait touché un salaire de 750 $, qui correspondrait à un salaire horaire de 20,27 $ et qui paraît plus raisonnable que 6,76 $.
+[23] Selon le relevé d'emploi du 29 juillet 1996 préparé et signé par madame Garneau, madame Bellefeuille aurait travaillé chez BDC du 9 avril 1996 au 12 juillet 1996 (pièces A-17 et I-33). Son salaire hebdomadaire était de 250 $ pour les 14 dernières semaines précédant la cessation de son emploi, sauf la toute dernière, pour laquelle il s'élevait à 380 $[21]. De plus, selon son relevé d'emploi (pièce I-14), Guylaine Dubé aurait travaillé chez BDC du 12 août 1996 au 20 décembre 1996[22]. Le dernier jour de son prétendu travail correspond à celui de son père. Le nom de la personne ressource apparaissant sur ce relevé est celui de madame Vachon, soit le nom de femme mariée de madame Garneau, et c'est elle qui l'a rempli.
+[24] Monsieur Dubé a justifié, bien curieusement, son faible salaire par sa volonté de démontrer à ses patrons qu'il avait la capacité de bien gérer BDC. En revanche, il aurait dit à BDC qu'il pourrait avoir besoin d'aide pour faire son travail et que BDC devait rémunérer les personnes auxquelles il aurait recours. Cela expliquerait la rémunération versée à sa fille et à sa femme. De plus, il a reconnu qu'il recevait de la CSST une rente pour incapacité partielle permanente et qu'en acceptant de travailler pour 250 $ par semaine, il voyait sa rente mensuelle passer de 2 400 $ à 1 068 $. Étonnamment, il a soutenu qu'il aurait pu recevoir 600 $ de salaire par semaine sans réduction de cette rente[23].
+[25] Par contre, lors de son témoignage à l'audience et dans une déclaration statutaire (pièce I-15), Guylaine Dubé a reconnu qu'elle n'avait pas travaillé pour BDC et que tous les chèques qu'elle avait reçus de BDC avaient été endossés et remis à sa mère. Monsieur Dubé a reconnu lors de son témoignage que sa fille Guylaine n'avait jamais réellement travaillé pour l'entreprise. Quant à madame Bellefeuille, monsieur Dubé prétend qu'elle a fait du travail de recherche juridique et de préparation de dossiers de petites créances pour BDC. Toutefois, ce n'est pas elle qui allait porter les documents chez l'avocat de BDC pour les réclamations ou les poursuites[24].
+Constitution du payeur et départ de monsieur Dubé et de madame Garneau de BDC
+[26] Le payeur a été constitué en société par actions le 7 novembre 1996 (pièce I-3). Le fondateur de cette société et son premier administrateur était monsieur Joseph Dubé. Selon le témoignage de ce dernier, cette société avait été formée dans le but d'acquérir les actifs de BDC, car ils étaient à vendre. Les négociations de monsieur Dubé avec monsieur Maltais, l'un des actionnaires de BDC, auraient mal tourné parce que ce dernier croyait qu'une partie des stocks de cette société était disparue et, sans qu'il puisse en faire la preuve, il tenait monsieur Dubé pour responsable de cette situation. Quant à monsieur Dubé, il prétend que monsieur Maltais était d'accord pour vendre les actifs de BDC si on lui remettait une somme de 50 000 $ à l'insu des autres actionnaires, ce que monsieur Maltais a nié lors de son témoignage.
+[27] En tout état de cause, monsieur Dubé a été licencié et a alors décidé de fonder sa propre entreprise par l'intermédiaire du payeur. La preuve est contradictoire quant au moment du départ de monsieur Dubé. Selon madame Garneau, monsieur Dubé aurait quitté BDC à la fin octobre ou début novembre 1996, soit deux mois avant son propre départ. Sur sa demande de prestations du 14 janvier 1997 (pièce I-16), monsieur Dubé indique comme « dernier jour de travail » le 16 décembre 1996 (soit un lundi). Le relevé d'emploi préparé par madame Garneau et signé par monsieur Maltais indique comme dernier jour de travail le 20 décembre 1996, soit le vendredi de la même semaine. Selon monsieur Maltais, monsieur Dubé et madame Garneau auraient quitté ensemble leur emploi chez BDC, ce qui cadre avec les dates inscrites sur leur relevé d'emploi respectif[25].
+[28] Même si madame Garneau, sur son relevé d'emploi[26] du 20 décembre 1996, indique comme motif de la cessation de son emploi chez BDC le manque de travail, monsieur Maltais a affirmé lors de l'audience qu'il avait tenté de retenir madame Garneau. En effet, monsieur Maltais avait engagé un autre directeur général pour BDC et il comptait sur madame Garneau pour continuer à être - pour utiliser son expression - « mes yeux » dans la gestion de BDC. Sur sa demande de prestations, madame Garneau indique également « manque de travail » comme motif pour la cessation de son travail (pièce I-2). Elle a donc fait une présentation erronée des faits sur son relevé d'emploi et sur sa demande de prestations, ce qui lui a permis d'obtenir plus de prestations que ce à quoi elle avait droit.
+[29] Témoignant à la demande du ministre, monsieur Maltais a dit avoir mieux compris par la suite le motif du départ de madame Garneau en décembre 1996, quand monsieur Gaston Dubuc, un ancien employé de BDC qui était allé se joindre au payeur, lui avait raconté de 3 à 5 mois après ce départ qu'il avait surpris madame Garneau et monsieur Dubé dans des ébats sexuels dans un bureau. Selon monsieur Dubuc, monsieur Dubé et madame Garneau vivaient alors ensemble. Selon le rapport de l'agent des appels, le procureur des appelantes aurait affirmé en présence de monsieur Dubé, lors de la rencontre du 19 mai 2004 au bureau de l'Agence, que madame Garneau était la maîtresse de ce dernier depuis 1996 (pièce I-18, paragraphe 39).
+[30] Lors de leur témoignage en interrogatoire principal, monsieur Dubé et madame Garneau ont nié avoir été amant et maîtresse depuis 1996. En contre-interrogatoire, seul monsieur Dubé a nié avoir eu des rapports intimes avec madame Garneau chez BDC. Madame Garneau n'a pas témoigné à nouveau. Selon monsieur Dubé, il n'aurait commencé à courtiser madame Garneau qu'en mai ou juin 1997 alors que chacun d'eux était marié. Leurs relations intimes n'auraient débuté que vers la fin de l'année 1998. Toutefois, cette version des faits ne concorde pas avec les affirmations que l'on trouve dans une requête modifiée pour mesures provisoires signée le 6 octobre 1998 par l'avocate de madame Garneau. Selon cette requête, la séparation de madame Garneau et de son mari aurait eu lieu aux alentours du 21 août 1998 et on y trouve six énoncés distincts concernant monsieur Dubé, le « nouveau conjoint » de madame Garneau[27]. La requête est accompagnée d'une déclaration sous serment de madame Garneau qui atteste la véracité des faits énoncés dans la requête (pièce A-2). Selon la version de monsieur Dubé, la cohabitation avec madame Garneau n'aurait débuté qu'à la fin de décembre 1999, au moment de sa séparation de madame Bellefeuille[28], alors que madame Garneau ne situe le début de cette cohabitation qu'en janvier 2000. Pourtant, le procureur de madame Garneau a admis que la cohabitation avait commencé le 4 décembre 1999[29].
+• Travail chez le payeur de 1997 à 2001
+Joseph Dubé
+[31] Après l'échec des négociations pour acquérir l'entreprise de BDC et à la suite de son licenciement, monsieur Dubé s'est mis à la recherche d'un local pour le payeur et a entrepris également des démarches pour obtenir du financement. Monsieur Dubé espérait obtenir de l'aide gouvernementale, mais vraisemblablement avec peu de succès. Le nouveau local aurait été disponible à compter de février 1997 et certains des employés de BDC sont venus travailler chez le payeur : notamment Jacinthe Garneau, Stéphane Laferrière et Gaston Dubuc.
+[32] Une fois employé du payeur, monsieur Dubé a continué à recevoir une somme de 250 $ par semaine de 1997 à 2001[30]; Denise Bellefeuille et Guylaine Dubé ont continué à être payées par le payeur, tout comme elles avaient été payées chez BDC.
+Jacinthe Garneau
+[33] Madame Garneau affirme avoir quitté BDC pour se joindre au payeur parce qu'elle entrevoyait peu d'avenir dans cette entreprise et que son désir était d'investir dans sa propre entreprise[31]. Elle dit avoir investi entre 10 000 $ et 20 000 $ pour démarrer le payeur et, par la suite, cet investissement se serait élevé jusqu'à une trentaine de milliers de dollars[32]. Selon le témoignage de monsieur Dubé, elle n'aurait pas investi cet argent directement dans le payeur, mais elle le lui aurait plutôt prêté. Même s'il est admis que madame Garneau était détentrice de 25% des actions de la société, elle ne savait pas quelle catégorie d'actions elle détenait. Selon les états financiers du payeur, il y avait deux sortes d'actions en circulation, soit 400 actions avec droit de vote de catégorie A ayant un capital versé de 40 $ (soit 0,10 $ par action) et des actions sans droit de vote de catégorie B ayant un capital versé de 26 500 $ en 1997 et de 55 600 $ au 31 mars 1998. Selon le registre des actionnaires du payeur, les actions de madame Garneau auraient été souscrites le 20 novembre 1996.
+[34] Par contre, selon la pièce I-16, monsieur Dubé aurait informé, le 11 février 1997, un agent de DRH qu'il était le seul actionnaire du payeur, qu'il y avait investi 20 000 $, qu'il avait déjà loué un local à St-Hubert et qu'il escomptait commencer ses opérations le 1er mars 1997. Dans une déclaration statutaire à la Commission en date du 24 novembre 1999, monsieur Dubé indique que madame Garneau avait acquis « 25 % des parts le mois d'avril ou mars 1997 » (pièce I-23). Lors de son témoignage à l'audience, il a fourni une autre version : il semble que c'est plutôt au cours du mois de juin ou juillet 1997 que la décision aurait été prise d'émettre en faveur de madame Garneau 100 actions de catégorie A. Une « convention unanime entre actionnaires » aurait été signée par monsieur Dubé et madame Garneau le 15 septembre 1997 (pièce A-9). Selon monsieur Dubé, le registre des actionnaires aurait été confectionnée le 18 février 2002[33], donc antidaté.
+[35] Monsieur Dubé a, de plus, tenté d'expliquer la présence de madame Garneau comme actionnaire et administratrice du payeur par l'avis qu'une certaine avocate lui aurait donné selon lequel il fallait qu'il fournisse trois noms d'administrateurs. Or, les statuts constitutifs du payeur indiquent que le nombre d'administrateurs pouvait varier entre de un à 10. De plus, comme l'a fait remarquer le procureur du ministre, il n'y a que deux administrateurs qui sont inscrits sur la liste des administrateurs (pièce I-3), au 20 novembre 1996, soit monsieur Dubé et madame Garneau.
+[36] Le tableau qui suit indique la rémunération de madame Garneau chez le payeur selon le registre de paie[34] :
+Tableau 5
+Salaire de Mme Garneau chez le payeur
+Selon le registre de paie
+Périodes
+Salaire hebdomadaire
+Nombre
+d'heures
+Taux
+horaire
+hypothétique
+Taux
+horaire
+(37,5) [35]
+1997
+4 mai - 12 déc.
+525
+35
+15
+14,00
+1998
+31 mai - 20 juin
+600
+40
+15
+16,00
+21 juin - 7 nov.
+800
+40
+20
+21,33
+1999
+6 - 12 juin
+700
+35
+20
+18,66
+13 juin - 23 oct.
+800
+40
+20
+21,33
+2000
+22 mai - 2 juin[36]
+700
+35
+20
+18.66
+11 juin - 15 juil.[37]
+700
+35
+20
+18,66
+16 juil. - 7 oct.
+800
+40
+20
+21,33
+2001
+4 - 17 mars
+800
+40
+20
+21,33
+18 mars - 28 avril
+700
+40
+17,50
+18,66
+29 avril - 5 mai
+600
+40
+15
+16,00
+6 mai - 23 juin
+700
+40
+17,50
+18,66
+Même si le registre de paie indique un nombre d'heures pour le salaire hebdomadaire payé, monsieur Dubé a déclaré qu'il ne contrôlait pas les heures de travail de madame Garneau et que sa rémunération n'en tenait pas compte. Par conséquent, le nombre d'heures indiqué au registre ne correspond pas nécessairement à la réalité. D'ailleurs, selon madame Garneau, elle travaillait, de façon générale, de 35 à 40 heures par semaine.
+[37] Le tableau suivant fournit des données sur la rémunération de madame Garneau d'après ses demandes de prestations :
+Tableau 6
+Salaire de Mme Garneau chez le payeur
+selon les demandes de prestations
+Périodes de travail
+Salaire
+hebdo.
+Nombres
+d'heures
+Taux
+horaire
+hypothétique
+Salaire
+demandé
+5 mai - 12 dec. 97[38]
+525
+35
+15
+10-12[39]
+4 mai - 13 nov. 98[40]
+800
+40
+20
+600
+7 juin - 22 oct. 99[41]
+800
+40
+20
+N/D
+22 mai - 6 oct. 00[42]
+800
+40
+20
+700
+4 mars - 22 juin 01[43]
+800
+40
+20
+s/o (maladie)
+[38] Après le 22 juin 2001, madame Garneau a obtenu de son médecin des certificats médicaux d'incapacité de travail pour cause de dépression pour la période allant du 26 juin jusqu'au 28 octobre 2001 (pièce A-3). Par la suite, elle a continué à recevoir des prestations (vraisemblablement parce qu'il aurait manqué de travail) jusqu'au mois de février 2002 (pièce I-29).
+[39] Madame Garneau dit être retournée au travail chez le payeur aux alentours du mois de mars ou avril 2002. Par la suite, elle n'a plus présenté de demandes de prestations. Il faut mentionner qu'à compter de décembre 2001, madame Garneau savait que DRH faisait enquête sur le payeur et certains de ses employés. Au moment où la première rencontre a eu lieu[44], l'enquête ne visait pas particulièrement madame Garneau ni madame Bellefeuille, mais visait plutôt d'autres employés du payeur. Tant que l'enquête a porté sur ces personnes a indiqué l'enquêteuse, elle recevait une excellente coopération. Après qu'elle eut mentionné que l'enquête visait l'ensemble des employés, y compris madame Garneau, l'attitude de cette dernière et celle de monsieur Dubé ont changé. L'enquêteuse a obtenu moins de coopération de leur part.
+[40] Selon l'analyse faite par l'enquêteuse de DRH, les prestations reçues par madame Garneau en 1999, en 2000 et en 2001 représentaient le maximum de semaines de prestations auxquelles elle avait droit en fonction des relevés d'emploi qui avaient été établis (voir pièce I-34). Madame Garneau était à nouveau inscrite sur le registre de paie du payeur après avoir reçues ce maximum de prestations d'assurance-emploi. Pour l'année 1998, madame Garneau aurait eu droit à 29 semaines de prestations alors qu'elle en a reçu pour 25. Cette information n'est pas disponible pour l'année 1997. Les périodes de travail et les périodes de prestations de madame Garneau pour les années 1996 à 2001 sont les suivantes :
+Tableau 7
+Périodes de travail de madame Garneau chez BDC et le payeur
+et ses périodes de prestations
+Travail
+Prestations de chômage[45]
+8 jan. 96 - 20 déc. 96 *
+23 déc. 96 - 3 mai 97
+5 mai 97 - 12 déc. 97
+1 fév. 98 - 29 mai 98[46]
+31 mai 98 - 7 nov. 98
+8 nov. 98 -5 juin 99
+7 juin 99 - 22 oct. 99
+24 oct. 99 - 20 mai 00
+22 mai 00 - 6 oct. 00
+8 oct. 00 - 3 mars 01
+4 mars 01 - 22 juin 01
+24 juin 01 - 20 oct 01 (maladie)
+28 oct. 01 - 23 fév. 02
+* Travail chez BDC
+[41] En raison de difficultés financières, le payeur a entrepris des négociations pour un concordat au mois d'avril 2004 et elles auraient été terminées en octobre 2004. C'est à cette époque que l'entreprise du payeur aurait été vendue à une nouvelle société contrôlée par un monsieur Pinsonneault. Madame Garneau a signé un contrat d'emploi d'une durée de cinq ans avec cette société; elle devait remplir des fonctions de commis comptable/réceptionniste. Son salaire était de 575 $ pour 38 heures de travail par semaine (soit 15,13 $ l'heure), auquel s'ajoutait une commission de 5 % des ventes réalisées par elle, le travail de vente étant « sans lien, direct ou indirect, avec les efforts de développement et de promotion de l'employeur » (pièce A-5, art. 2). Ce contrat contenait des stipulations de non-concurrence et de non-sollicitation. Madame Garneau n'avait droit qu'à deux semaines de vacances par année.
+Denise Bellefeuille chez les notaires et le payeur
+[42] Durant les périodes Bellefeuille, madame Bellefeuille occupait un emploi de secrétaire juridique chez des notaires, et cela, depuis au moins 1995, comme le révèle le tableau suivant compilé à partir des relevés d'emploi établis par ces notaires. Aux fins de comparaison, les périodes de travail de madame Bellefeuille chez BDC et le payeur ainsi que celles de madame Garneau ont été ajoutées :
+Tableau 8
+Périodes de travail de mesdames Garneau et Bellefeuille
+Mme Garneau
+Mme Bellefeuille
+Année
+Payeur/BDC
+Payeur/BDC
+Notaires[47]
+1995
+14 nov. −31 déc.
+1996
+8 jan. − 20 déc.
+9 avril − 12 juil.
+1er jan. − 19 juil.
+1997
+5 mai − 12 déc.
+8 juin − 12 sept.
+7 avril − 17 oct.
+1998
+31 mai − 7 nov.
+21 juin − 31 déc.
+13 mars − 31 déc.
+1999
+7 juin − 22 oct.
+1er jan.− 15 oct.
+1er jan. − 26 fév.
+19 avril − 30 juil.
+2000
+22 mai − 6 oct.
+17 avril − 1 er sept.
+3 avril − 21 juil.
+2001
+4 mars − 22 juin
+16 avril − 31 août
+2 avril − 7 sept.
+[43] Selon le compte rendu de la rencontre qu'a eue l'enquêteuse de DRH avec le notaire Aubertin le 24 avril 2002, madame Bellefeuille travaillait cinq jours par semaine et souvent plus (pièces I-36 et I-37). Il est même arrivé qu'elle fasse des heures supplémentaires quelques samedis. Les notaires Gélinas et Aubertin ont tous les deux mentionné que madame Bellefeuille n'avait pas la santé pour occuper deux emplois à la fois compte tenu du fait que le travail de secrétaire juridique chez un notaire est très prenant au printemps et à l'été, soit des périodes correspondant en grande partie à celles de son prétendu travail fait chez le payeur, comme le révèle le tableau 8.
+[44] Les relevés de salaire concernant l'emploi de madame Bellefeuille chez le payeur (pièce I-25) fournissent les données suivantes :
+Tableau 9
+Salaire de madame Bellefeuille chez le payeur
+selon les relevés de salaire
+Périodes
+Rémunération
+hebdomadaire
+Nombre
+d'heures
+Taux
+1997
+8 juin - 13 sept.
+240
+16
+15
+1998
+21 juin 98 - 2 jan. 99
+240
+16
+15
+1999
+N/D
+2000
+16 avril - 15 juil.
+250
+N/D
+N/D
+16 juil. - 22 juil.
+360
+N/D
+N/D
+23 juil. - 19 août[48]
+750
+N/D
+N/D
+27 août - 2 sept.
+750
+N/D
+N/D
+2001
+15 avril - 11 août
+260
+N/D
+N/D
+12 août - 1er sept.
+400
+N/D
+N/D
+[45] Même si le relevé d'emploi de madame Bellefeuille du 20 octobre 1999 vise la période du 21 juin 1998 au 15 octobre 1999, le registre de paie du payeur se termine le 2 janvier 1999 dans le cas de madame Bellefeuille (pièces I-25 et A-22). Aucune explication n'a été fournie pour justifier cet état de choses. Toutefois, on ne peut accorder au relevé d'emploi aucune valeur probante parce qu'il est manifestement erroné. En effet, madame Bellefeuille a nié avoir travaillé de façon continue pendant les 17 mois de juin 1998 à octobre 1999. Elle contredit ainsi sa déclaration statutaire fournie à la Commission le 14 novembre 1999 dans laquelle elle confirmait que « les heures inscrites sur le relevé d'emploi daté du 20 octobre 1999 ont bien été travaillé [sic] » (pièce A-25). Elle a déclaré lors de l'audience qu'elle ne travaillait que le printemps, ce qui signifiait pour elle de mars ou avril au mois d'août. Selon les relevés d'emploi, cette version serait exacte pour 2000 et 2001. En 1997, elle n'aurait débuté qu'en juin et elle aurait terminé son travail en septembre. Pour 1998, on ne le sait pas.
+[46] Parmi les tâches qu'exécutait madame Bellefeuille, il y avait, selon elle et monsieur Dubé, un travail de préparation en vue du recouvrement de créances du payeur. Selon monsieur Dubé, c'est madame Bellefeuille qui obtenait les numéros de lots cadastraux pour l'enregistrement d'hypothèques légales. Elle allait porter des documents chez un avocat, Me Pierre Lessard. Lors de son témoignage à l'audience, Me Lessard a estimé à 10 à 15 par année le nombre de visites de madame Bellefeuille à son bureau jusqu'au début de 2000. Il reconnaît qu'il se peut qu'elle soit venue un peu plus souvent, puisqu'elle aurait pu se contenter de remettre les documents à sa secrétaire sans que lui-même la voie. Il est curieux que les services de madame Bellefeuille relatifs aux poursuites judiciaires n'aient été nécessaires qu'au « printemps » - pour utiliser l'expression de madame Bellefeuille -, soit durant la haute saison, alors qu'il ne semble pas y avoir de telles activités le reste de l'année, durant ses périodes d'absence de chez le payeur.
+[47] À plusieurs reprises, monsieur Dubé a reconnu que madame Bellefeuille était rémunérée à la semaine et non en fonction des heures réellement travaillées. De toute façon, il ne savait pas combien d'heures elle travaillait pour le payeur[49]. Dans sa déclaration statutaire du 30 octobre 2002, monsieur Dubé reconnaît que madame Bellefeuille n'était assujettie à aucun horaire puisqu'elle travaillait chez elle (pièce I-26). Dans cette même déclaration, monsieur Dubé explique que la rémunération de madame Bellefeuille avait été modifiée pour les mois de septembre et octobre 1999 parce que ses heures avaient augmenté, mais il ne pouvait pas dire de combien. Il prétend que le salaire versé à madame Bellefeuille était établi en fonction de ses compétences et du salaire qu'elle recevait chez le notaire.
+[48] Madame Bellefeuille affirme avoir travaillé, en moyenne, de 7 à 15 heures par semaine pour le payeur. Mais c'était parfois plus : une vingtaine d'heures une fois en 1999 ou en 2000[50]. Selon ces chiffres, si l'on tient pour acquis qu'elle touchait 250 $ par semaine, madame Bellefeuille recevait une rémunération horaire équivalant à 16,66 $ sur la base de 15 heures par semaine, à 25 $ sur la base de 10 heures et à 35,71 $ sur la base de 7 heures. Voici une analyse comparative des taux horaires de madame Bellefeuille chez le payeur, chez BDC et les chez notaires, faite à partir de données recueillies par l'enquêteuse de DRH, de celles fournies dans les relevés de salaire du payeur qui ont été produits et de celles dégagées des témoignages donnés à l'audience :
+Tableau 10
+Rémunération de madame Bellefeuille chez le payeur/BDC et les notaires
+selon demandes de prestations ou enquête
+Payeur/BDC
+Notaires [51]
+Année
+Rémunér.[52]
+Heures[53]
+Taux
+horaire
+Rémunér.
+Heures
+Taux
+horaire
+1996
+250
+11
+22,72
+335
+35
+9,57
+1997
+240
+11
+21,82
+335
+35
+9,57
+1998
+240
+11
+21,82
+335
+35
+9,57
+1999
+800[54]
+40
+20,00[55]
+335[56]
+35
+9,57
+425[57]
+35
+12,14
+2000
+250
+360
+750
+11
+11
+35[58]
+22,72
+32,72
+21,42
+425
+35
+12,14
+2001
+260
+400
+11
+11
+23,63
+36,36
+425
+35
+12,14
+[49] Pour prouver que la rémunération de 800 $ par semaine pour les mois de septembre et d'octobre 1999 avait bien été versée à madame Bellefeuille, monsieur Dubé affirmait dans sa déclaration statutaire du 24 novembre 1999 (pièce I-23) qu'il fournirait les chèques. Or, les copies des chèques qu'il a envoyées à DRH ont été contrefaites : il a remplacé les chiffres de 276,08 $ de six chèques par 476,08 $ et a remplacé le mot « deux » devant le « cent » par le mot « quatre » (pièce I-24). Quand le procureur de l'intimée a qualifié ce travail de contrefaçon de « travail d'artiste » , monsieur Dubé a répondu qu'il s'agissait d'un « travail d'imbécile » .
+Décisions de l'agent des appels
+[50] Quant à madame Bellefeuille, l'agent des appels a conclu qu'elle n'occupait pas un emploi assurable durant les périodes Bellefeuille parce qu'elle n'occupait pas un « véritable emploi » . Voici les motifs justifiant cette conclusion (pièce I-40, page 8) :
+Dans le présent dossier, seul un des avocats du payeur, Me Lessard, affirme avoir rencontré la travailleuse à quelques reprises pour qu'elle lui remette des documents concernant les recevables du payeur.
+Plusieurs personnes ont été interviewées, incluant la fille de la travailleuse, qui affirme que cette dernière n'a pas travaillé pour le payeur alors qu'elle aurait prétendument remplacé la secrétaire Jacinthe Garneau.
+L'enquête du DRH fait ressortir plusieurs éléments d'informations qui sont contradictoires (lieu de travail, tâches).
+La travailleuse était incapable de se souvenir de ses collègues de travail et des clients lorsqu'elle a été interviewée par le DRH en 2002.
+[51] L'impression que donne cet exposé, c'est qu'il n'y a pas de « véritable emploi » parce que cet agent des appels, tout comme l'agent d'assurabilité, n'a pas été convaincu que madame Bellefeuille avait réellement travaillé. Subsidiairement, il a conclu que si un emploi existait, il ne serait toujours pas assurable à cause du lien de dépendance.
+[52] Quant à madame Garneau, l'agent d'assurabilité n'a pas conclu à l'absence d'un emploi véritable. Il a plutôt conclu à l'absence d'un « emploi assurable » , et ce, en raison de l'exclusion que commande l'alinéa 5(2)i) LAE du fait du lien de dépendance entre le payeur et madame Garneau (pièce I-18).
+Analyse
+• Contrats de travail nuls et absence d'emploi véritable
+Contrats nuls
+[53] Lors de sa plaidoirie, le procureur de l'intimé a invoqué deux nouveaux arguments applicables aux appelantes. Selon le premier, il n'y avait pas d'emploi assurable parce qu'il n'y avait pas de contrat de travail valide aux fins du Code civil du Québec (Code civil); les contrats étaient nuls de nullité absolue. Selon le deuxième, même s'il y avait des contrats valides selon le Code civil, les emplois des appelantes n'étaient pas des « emplois véritables » aux fins de la LAE. Reprenons chacun de ces arguments. Tout d'abord, les contrats de travail des appelantes étaient nuls parce qu'il y avait une cause illicite. Voici comment le procureur de l'intimé s'est exprimé dans ses observations écrites :
+394. Comme l'a indiqué l'intimé ci-dessus, le point de départ pour interpréter le terme « emploi » aux fins de l'application de la LAE dans la province de Québec est le droit civil québécois.
+395. L'article 2085 du Code civil du Québec prévoit que :
+Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+396. Comme cette Cour l'a mentionné précédemment,3 il y aura un contrat de travail au Québec s'il est démontré les trois éléments essentiels d'un tel contrat : 1) la prestation d'un travail pour une personne, 2) moyennant une rémunération et 3) sous la direction ou le contrôle d'une autre personne.
+397. En l'absence de contrôle ou direction, le travail effectué pour une autre personne pourra être effectué en vertu d'un contrat d'entreprise ou de prestation de service. Les articles 2098 et 2099 du Code civil du Québec prévoient que :
+2098. Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas, l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+2099. L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+398. La Cour d'appel du Québec dans l'affaire 97980 Canada inc. c. Québec (Sous-ministre du Revenu)4, a récemment décidé que dans la détermination du statut d'un travailleur, il faut examiner d'autres éléments que la subordination et elle s'est référée à la décision de la Cour suprême du Canada dans l'affaire 671122 Ontario Ltd. c. Sagaz Industries Canada inc.5
+399. Cette Cour a d'ailleurs récemment tenu compte des critères énoncés par la Cour suprême dans l'affaire Sagaz dans une décision en matière d'assurance-emploi.6 [...]
+400. Pour qu'un travail soit effectué en vertu d'un contrat de travail ou d'un contrat d'entreprise (ou de prestation de service), il faut qu'il y ait 1) un contrat et 2) que le travail soit rémunéré. Ce qui distingue l'un de l'autre est l'existence ou l'absence de subordination.
+401. La notion de contrat est définie aux articles 1377 et suivants du Code civil du Québec.
+402. L'article 1378 du Code civil du Québec prévoit que :
+1378. Le contrat est un accord de volonté, par lequel une personne ou plusieurs personnes s'obligent envers une ou plusieurs autres à exécuter une prestation.
+Il peut être d'adhésion ou de gré à gré, synallagmatique ou unilatéral, à titre onéreux ou gratuit, commutatif ou aléatoire et à exécution instantanée ou successive; il peut être de consommation.
+[...]
+404. La personne qui rend des services à une autre personne autrement que dans le cadre d'un contrat ne pourra donc être considérée comme étant un employé au sens du Code civil du Québec. En d'autres termes, la personne qui voudra être considérée comme l'employée d'une autre personne devra prouver l'existence d'un contrat entre elle et l'autre personne.
+405. L'article 1411 du Code civil du Québec prévoit qu'est « nul le contrat dont la cause est prohibée par la loi ou contraire à l'ordre public » .
+406. La cause d'un contrat est définie à l'article 1410 du Code civil du Québec comme étant la raison qui détermine chacune des parties à le conclure. Dans le cas d'un contrat de travail, la cause du contrat pour l'employé sera la rémunération.
+407. La nullité d'un contrat est soit absolue ou relative. Lorsque la nullité est absolue, elle peut être invoquée par toute personne qui y a un intérêt né et actuel; le tribunal la soulève d'office (article 1418 du Code civil du Québec). Il y aura matière à nullité absolue d'un contrat lorsque la condition de formation qu'elle sanctionne s'impose pour la protection de l'intérêt général (article 1417 du Code civil du Québec). L'article 1418 du Code civil du Québec prévoit que le contrat frappé de nullité absolue n'est pas susceptible de confirmation.
+[...]
+409. L'intimé soumet que la LAE et les contributions versées à la caisse de l'assurance-emploi par l'ensemble des employeurs et employés canadiens sont pour le bénéfice de l'ensemble de ces employés et que tout contrat de travail dans le cadre duquel les parties se sont entendues aux fins de faire profiter injustement une personne de prestations d'assurance-emploi serait contraire à l'ordre public (article 1411 du Code civil du Québec) et nul de nullité absolue étant donné que cette nullité s'impose pour la protection de l'intérêt général.
+410. L'intimé soumet que cela devrait être particulièrement le cas lorsqu'un contrat d'emploi est conclu entre un employé et un employeur et que les parties conviennent que l'employé travaillera à l'année pour l'employeur mais sera payé par ce dernier une partie de l'année et qu'un relevé d'emploi sera émis à l'employé pour lui permettre d'obtenir des prestations d'assurance-emploi pendant l'autre partie de l'année.
+411. L'intimé soumet que le travail fait durant la deuxième partie de l'année, soit celle pour laquelle il y a des prestations d'assurance-emploi de payées à l'aide du relevé d'emploi émis, ne peut être considéré du bénévolat. Il est clair que le travailleur travaille pendant cette période en se considérant toujours à l'emploi du payeur. De plus, le travailleur travaille sûrement parce qu'il n'a pas le choix s'il veut conserver son emploi.
+412. Dans un pareil cas, l'intimé soumet que la rémunération entendue entre l'employé et l'employeur consiste en deux éléments : 1) la contrepartie, généralement en argent, payée par l'employeur et 2) l'émission d'un relevé d'emploi. Il semble évident dans la situation décrite au paragraphe 410 qu'un employé n'accepterait pas de travailler pour l'employeur si ce dernier ne s'engageait pas à émettre à l'employé un relevé d'emploi afin de permettre à cet employé de réclamer des prestations d'assurance-emploi.
+413. En conséquence, dans une telle situation, l'intimé soumet que l'émission du relevé d'emploi fait partie intégrante de la rémunération promise à l'employé.
+414. Dans un tel cas, l'intimé soumet qu'une partie de la rémunération, la cause du contrat pour l'employé (article 1410 du Code civil du Québec) est contraire à l'ordre public. Le contrat de travail serait donc nul (article 1411 du Code civil du Québec) de nullité absolue car la nullité s'impose pour la protection de l'intérêt général (article 1417 du Code civil du Québec) et le tribunal devrait la soulever d'office (article 1418 du Code civil du Québec).
+3 Par exemple récemment dans l'affaire Jean-Yves Vaillancourt c. M.N.R., 2005 CCI 328 (Archambault J.C.I.).
+4 [2005] J.Q. no. 995.
+5 [2001] 2 R.C.S. 983.
+6 Gilles Pellerin c. M.R.N., 2005 CCI 361
+[Je souligne.]
+[54] Je crois que cet exposé des règles de droit qu'a fait le procureur du ministre est excellent, sauf l'affirmation selon laquelle il faut examiner d'autres éléments que la subordination - comme cela se fait dans les provinces de common law - pour conclure à l'existence d'un contrat de travail au Québec. Je crois que cette position, décrite par le procureur aux paragraphes 398 et 399 de ses observations écrites et appliquée par le passé par certains juges, est incompatible avec la récente décision de la Cour d'appel fédérale du 17 octobre 2005 dans 9041-6868 Québec Inc. c. M.R.N., 2005 CAF 334. Dans cette affaire, le juge Décary a conclu que le juge de cette Cour (le même que dans l'affaire Pellerin), qui s'était référé aux règles de la common law énoncées dans les arrêts Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 533 (C.A.F.) et Sagaz (précité) était parvenu à la bonne solution, mais de la mauvaise manière (paragraphe 2 de la décision). Selon le juge Décary, la source de droit pertinente pour décider de l'existence ou de l'inexistence d'un contrat de travail au Québec est le Code civil et non la common law. Au paragraphe 7 de ses motifs, il écrit : « Bref, c'est le Code civil du Québec qui détermine les règles applicables à un contrat conclu au Québec. Ces règles se retrouvent notamment dans ces dispositions du Code qui traitent du contrat en général (art. 1377 C.c.Q. et suiv.), et dans celles qui traitent du "contrat de travail" (art. 2085 à 2097 C.c.Q.) et du "contrat d'entreprise ou de service" (art. 2098 à 2129 C.c.Q.). » Pour exclure les règles de la common law, il s'est exprimé ainsi[59] :
+6 Il se peut, il est même probable dans la plupart des cas, qu'un contrat semblable amènerait une qualification semblable, que l'on applique les règles du droit civil ou celles de la common law. Mais l'exercice n'en est pas un de droit comparé et l'objectif ultime n'est pas l'obtention d'un résultat uniforme. L'exercice, au contraire, et c'est là le voeu même du Parlement canadien, est de s'assurer que la démarche du tribunal se situe à l'intérieur du système applicable et l'objectif ultime est de préserver l'intégrité de chacun des systèmes juridiques. À cet égard, ces propos du juge Mignault dans l'arrêt Curly c. Latreille, (1920) 60 R.C.S. 131, à la page 177 conservent leur actualité :
+Il est quelquefois dangereux de sortir d'un système juridique pour chercher des précédents dans un autre système, pour le motif que les deux systèmes contiennent des règles semblables, sauf bien entendu le cas où un système emprunte à l'autre une règle qui lui était auparavant étrangère. Alors même que la règle est semblable dans les deux, il est possible qu'elle n'ait pas été entendue ou interprétée de la même manière dans chacun d'eux, et, comme l'interprétation juridique -- je parle bien entendu de celle qui nous oblige -- fait réellement partie de la loi qu'elle interprète, il peut très bien arriver que les deux règles, malgré une apparente similitude, ne soient pas du tout identiques.
+Je ne fonderai donc pas les conclusions que je crois devoir adopter en cette cause sur aucun précédent tiré du droit anglais [...]
+[Je souligne.]
+[55] Par contre, je suis en total désaccord avec le procureur du ministre quant à la façon dont il applique ces règles aux faits de ces appels, en particulier lorsqu'il affirme que les relevés d'emploi faisaient partie de la contrepartie pour laquelle les appelantes s'étaient engagées à fournir leur travail au payeur. À mon avis, la seule contrepartie visée par le contrat était l'argent que le payeur s'engageait à leur verser. Soutenir que des travailleurs peuvent travailler pour un relevé d'emploi m'apparaît plutôt curieux[60]. Par ailleurs, ce ne sont pas les relevés d'emploi qui donnent droit à des prestations, ce sont les dispositions de la LAE dans la mesure où les exigences de cette loi ont été remplies. Les relevés d'emploi ne sont que les outils de contrôle dont se sert l'administration pour vérifier si certaines de ces exigences de la LAE ont été remplies. De plus, DRH n'était même pas partie au contrat de travail avec le payeur et aucune relation contractuelle ne le liait au payeur ni aux salariés. De surcroît, le procureur du ministre n'a cité aucune décision jurisprudentielle à l'appui de sa position.
+[56] À mon avis, il est plus juste d'affirmer que le payeur et ses salariés ont convenu dans leur contrat de travail que ces derniers recevraient du payeur une rémunération moindre pour leur travail tout en espérant qu'ils pourraient toucher des prestations pendant qu'ils travaillaient pour le payeur. Les prestations versées par DRH durant les prétendues périodes de chômage ne peuvent être considérées comme de la rémunération pour des services rendus au payeur puisqu'elles ont été versées par DRH comme des indemnités de chômage[61].
+[57] Il est évident que le payeur a tenté d'utiliser les prestations provenant de la caisse de l'assurance-emploi comme une sorte de subvention gouvernementale. Il espérait ainsi financer indirectement les salaires de ses salariés. Non seulement s'agissait-il là d'une opération illicite, mais c'était une opération vouée à l'échec. En effet, pour avoir droit aux prestations, il faut qu'il y ait cessation d'emploi et arrêt de rémunération. Une telle situation est donc incompatible avec le contrat de travail, en vertu duquel des services doivent être rendus. D'ailleurs, un argument semblable avait été fait dans l'affaire Massignani (précitée). Voici comment je l'ai résumé et comment je me suis prononcé à son égard :
+35 Finalement, la procureure soutient que l'un des éléments nécessaires à la validité d'un contrat de travail n'était pas présent, puisqu'il y avait une cause ou une considération illicite. Elle se fonde en particulier sur l'article 984 du Code civil du Bas-Canada (C.c.B.-C.). De plus, en vertu de l'article 990 C.c.B.-C., la considération est illégale quand elle est prohibée par la loi ou contraire aux bonnes moeurs ou à l'ordre [public]. Dans le nouveau Code civil du Québec (C.c.Q.) (en vigueur depuis le 1er janvier 1994), il y a l'article 1411 qui édicte qu'est nul le contrat dont la cause est prohibée par la loi ou contraire à l'ordre [public]. À l'article 1417 C.c.Q., on indique que la nullité d'un contrat est absolue lorsque la condition de formation qu'elle sanctionne s'impose pour la protection de l'intérêt général. Aux termes de l'article 1418 C.c.Q., « la nullité absolue d'un contrat peut être invoquée par toute personne qui y a un intérêt né et actuel; le tribunal la soulève d'office. Le contrat frappé de nullité absolue n'est pas susceptible de confirmation. »
+[...]
+54 Reste à déterminer si les conditions essentielles applicables à tous les contrats ont également été remplies, c'est-à-dire qu'il faut déterminer notamment si les parties avaient la capacité légale de contracter, si le consentement a été donné légalement, si le contrat avait un objet et s'il y avait une cause ou une considération licite. Ici, la procureure de l'intimé soutient que seule la dernière condition n'a pas été remplie, car il y avait dans le cas des contrats de travail des appelants une cause ou une considération illicite. À mon avis, il n'y avait pas de telle considération dans ces contrats de travail. Contrairement à ce que croit la procureure de l'intimé, la cause ou la considération des contrats n'était pas l'obtention illégale des prestations d'assurance-emploi. La considération était ici, pour Tiva, la prestation de services, et, pour les appelants, le salaire. Le but que les parties ont voulu atteindre, à savoir participer à l'exploitation d'une entreprise et gagner de l'argent pour subvenir à leurs besoins, était tout à fait légitime et licite.
+55 Pour utiliser les mots qu'a employés mon collègue le juge Tardif dans Thibeault, il existe ici un contrat véritable puisqu'il y a eu une contribution « réelle et positive à l'avancement et au développement de l'entreprise » . Si on avait versé un salaire à quelqu'un qui n'avait rien à faire pour l'entreprise16 ou à qui on demandait de faire un travail qui n'avait aucune utilité pour l'entreprise, dans le seul but de lui permettre de recevoir des prestations d'assurance-chômage, dans un tel cas il faudrait conclure à l'inexistence d'un contrat de travail véritable. Le fait de fournir une prestation de services utile à une entreprise sans aucune rémunération, comme cela s'est fait dans l'affaire Municipalité de Paspébiac, empêche la formation d'un contrat véritable de travail, puisqu'il manque alors un des éléments essentiels à l'existence d'un tel contrat, à savoir une rémunération. Le travail bénévole ne peut faire l'objet d'un contrat de travail, puisque, par définition, un contrat de travail requiert un travail rémunéré. Ici, je le répète, il n'a jamais été mis en doute que Tiva a bénéficié de services ayant contribué au développement de son entreprise et que les appelants ont reçu un salaire pour leurs services durant les périodes pertinentes.
+56 Il est vrai que Tiva s'était embarquée dans un stratagème illicite visant à se faire subventionner par le biais de prestations d'assurance-chômage pour une partie de la rémunération qu'elle devait à ses employés. Or, comme le rappelait la Cour suprême du Canada dans Canada (Commission de l'emploi et de l'immigration du Canada) c. Gagnon, [1988] 2 R.C.S. 29, à la page 37, le but premier et essentiel de la Loi est de fournir aux personnes qui se [trouvent] involontairement sans emploi un moyen de subsistance jusqu'à ce qu'elles réintègrent le marché du travail. Par conséquent, il est clair que le but de la Loi n'est pas d'accorder une subvention destinée à couvrir une partie du salaire versé pour des services rendus.
+57 Le but poursuivi par Tiva était évidemment illicite, mais il n'était ni la cause ni la considération du contrat de travail intervenu entre elle et les appelants. Ce n'est pas parce que Tiva aurait dévalisé une banque pour verser le salaire à ses employés qu'il faudrait conclure que ces derniers n'étaient pas liés par un contrat de travail. Un tribunal ne pourrait, à mon avis, refuser à ces employés le droit de recouvrer leur salaire si l'employeur ne l'avait pas versé[62]. Bien évidemment, la situation serait tout autre si la prestation de services de ces employés avait consisté à participer au vol de banque. Ici, le travail des employés de Tiva était la confection de vêtements et non l'obtention illicite de prestations d'assurance-chômage de DRH. Tous les témoins indépendants ont reconnu qu'ils n'avaient pas remis à Tiva l'argent obtenu de DRH. Le stratagème se trouve donc en dehors du régime contractuel du contrat de travail, il constitue un arrangement tout à fait indépendant du contrat de travail. Par conséquent, les contrats entre les appelants et Tiva constituent de véritables contrats de travail.
+16 Je m'empresse d'ajouter que ce n'est pas parce qu'un travailleur lié par un contrat véritable d'emploi reçoit une rémunération alors qu'il ne fournit pas de prestation de services qu'il faut conclure à l'inexistence d'un contrat de travail. Durant ses vacances annuelles, un travailleur continue à recevoir un salaire, même s'il ne fournit aucun service. Il en est de même lorsqu'un travailleur est en congé de maladie ou suspendu et qu'il continue à recevoir son salaire. Dans tous ces cas, le contrat de travail subsiste parce qu'il existe depuis le tout début un véritable contrat de travail réunissant au départ tous les éléments essentiels à l'existence d'un tel contrat.
+[58] Ajoutons de plus que les tribunaux sont réticents à annuler des contrats de travail pour des raisons d'ordre public. Citons notamment la décision rendue par la juge Lamarre de cette Cour dans Luzolo c. Canda (M.R.N.), [1999] A.C.I. no 822 (QL)[63]. Elle a adopté à l'égard d'un contrat de travail régi par le Code civil la même approche que celle dans Still c. M.R.N., [1998] 1 C.F. 549, une décision de la Cour d'appel fédérale relative à un contrat de travail régi par la common law. Or, en l'espèce, si le procureur du ministre avait raison, cela signifierait qu'aucun des salariés du payeur qui ont participé au stratagème ne pourrait réclamer au payeur son salaire impayé, qu'ils ne seraient pas admissibles à la protection de la CSST, de la LAE et de la Loi sur les normes du travail (L.R.Q., ch. N-1.1). En outre, le payeur pourrait prétendre qu'il n'est pas responsable du fait de ses employés lorsqu'ils causent un dommage à autrui dans l'exercice de leurs fonctions pour le payeur. Ce résultat m'apparaît tout à fait exorbitant. Ce n'est pas, non plus, l'interprétation que le ministre a adoptée pour les autres salariés du payeur.
+Inexistence d'emplois véritables
+[59] Même si un emploi exercé aux termes d'un contrat de travail existait aux fins du Code civil, le procureur de l'intimé soutient, comme on l'avait fait dans Massignani, que l'emploi créé par ce contrat ne serait pas un « emploi assurable » parce qu'il ne serait pas un « emploi véritable » aux fins de la LAE. Voici comment le procureur de l'intimé s'est exprimé sur cette question dans sa plaidoirie écrite :
+488. L'intimé soumet que la détermination qu'une relation contractuelle entre deux personnes est un contrat d'emploi en vertu du droit privé provincial ne fait pas nécessairement de cette relation un « emploi » aux fins de la LAE.
+489. Comme mentionné précédemment, l'article 8.1 de la Loi d'interprétation prévoit que lorsqu'il faut interpréter une notion de droit privé non définie dans un texte législatif fédéral, il faut recourir au droit privé provincial pour en définir le sens. C'est ce qui a été fait dans la précédente partie de cette plaidoirie écrite.
+[...]
+491. Aux fins d'interpréter une notion, comme celle d' « emploi » , aux fins de l'application de la LAE, l'intimé soumet qu'il faut aussi avoir recours à d'autres règles d'interprétation comme la méthode d'interprétation téléologique, celle voulant que l'on doive interpréter un texte de loi en fonction de l'intention du législateur, de l'objet et l'esprit de la loi, du contexte et de la jurisprudence antérieure sur la question.
+[...]
+496. En conséquence, l'intimé soumet que si cette Cour en arrive à la conclusion que la relation contractuelle entre les appelantes Jacinthe Garneau et Denise Bellefeuille et le payeur, au cours des périodes en litige, était un contrat d'emploi non nul en vertu du Code civil du Québec, cette Cour doit continuer son analyse afin de déterminer si le législateur fédéral voulait que cette relation contractuelle soit considérée être un « emploi » aux fins de l'application de la LAE. Aux fins de cet exercice, cette Cour doit tenir compte de l'intention présumée du législateur à la lumière de l'esprit et de l'objet de la LAE, du contexte et de la jurisprudence antérieure sur le sujet.
+497. L'intimé soumet que ce deuxième exercice ne va aucunement à l'encontre du principe de la complémentarité du droit privé provincial avec la législation fédérale et de l'article 8.1 de la Loi d'interprétation.
+498. L'adoption de l'article 8.1 de la Loi d'interprétation n'avait pas pour effet, par exemple, de rendre inapplicable cette notion de contrat d'emploi véritable. Cet article a été adopté pour s'assurer que les tribunaux utilisent le droit privé de la province d'application lorsque le texte de loi réfère à une notion de droit privé sans la définir. Il ne faut pas se cacher que, plus souvent qu'autrement, les tribunaux ayant à interpréter et appliquer des lois fédérales ont eu tendance à le faire en utilisant la common law au détriment du droit civil malgré que la province d'application ait été le Québec[64].
+499. Ce n'est pas de recourir à des notions de common law que d'interpréter, une fois déterminé que la relation contractuelle entre un travailleur et un payeur est un contrat de travail au sens du droit privé provincial applicable, une notion contenue dans la LAE à la lumière de l'intention du législateur, de l'esprit et de l'objet de la LAE, du contexte et de la jurisprudence antérieure sur la question.
+[...]
+501. En l'espèce, le droit privé de la province du Québec s'applique afin de déterminer si les appelantes Jacinthe Garneau et Denise Bellefeuille étaient ou non des employées du payeur. Une fois appliqué le droit privé québécois et déterminé, le cas échéant, qu'un emploi existait, rien n'empêche cette Cour de voir une condition supplémentaire pour que l'emploi soit assurable aux fins de la LAE.
+[...]
+6.2 Décisions antérieures sur la notion de contrat de travail véritable
+505. L'intimé soumet que, sans conclure en la nullité du contrat de travail du point de vue du droit civil, certaines décisions de cette Cour, qui seront analysées ci-dessous, ont à tout le moins conclu que certains arrangements mis en place par des justiciables aux fins de profiter injustement de la LAE ne pouvaient être considérés être de véritables contrats d'emploi pour les fins de la LAE.
+[...]
+508. Selon l'intimé, ces décisions tiennent effectivement compte de l'intention du législateur fédéral. L'intimé soumet que cette Cour a vu dans l'intention du législateur une condition implicite à l'effet que seuls les emplois véritables dont aucun des objectifs n'est d'abuser injustement de la protection offerte par la LAE seront des emplois assurables.
+[...]
+514. Il est de la compréhension du procureur de l'intimé que la Cour d'appel fédérale aurait aimé se pencher de nouveau sur cette notion de contrat d'emploi véritable dans le cadre de l'appel dans l'affaire Massignani.25 Toutefois, étant donné que l'intimé n'avait pas porté en appel la décision de cette Cour sur cette notion, la Cour d'appel fédérale devait prendre pour acquis l'existence d'un contrat d'emploi.26
+6.2.1. L'affaire Gauthier
+515. Les faits dans le dossier de l'appelante Denise Bellefeuille ne sont pas sans rappeler les faits en cause dans l'affaire Gauthier c. Canada (ministre du Revenu national - M.N.R.).27
+516[65]. Dans cette affaire, l'appelante faisant certains travaux pour la compagnie de son mari mais elle était payée pour un nombre d'heures supérieur au temps requis pour faire ces travaux. Madame la juge Lamarre-Proulx de cette Cour a émis les commentaires suivants :
+Mon analyse de la preuve est que les services de l'appelante, qui, je n'en doute pas, étaient d'excellente qualité, ne pouvaient donner lieu, dans le marché du travail, aux nombres d'heures en cause, i.e. 40 heures par semaine, ni au salaire de 350 $ par semaine. Il y a eu la prestation de certains services par l'appelante, mais il est évident, et j'en suis tout à fait convaincue, que dans le cours normal des affaires, ces services n'auraient pas été requis dans cette grandeur ni payés les sommes qu'ils ont été payés. C'est pour des raisons autres que pour les services d'un employé à la semaine que les sommes payées versées à titre de salaire étaient payées.
+[...]
+Il est de l'essence de la Loi qu'elle assure des emplois véritables. Comme il ne s'agit pas d'un tel emploi dans le cas actuel, il n'est pas un emploi assurable au sens de l'alinéa 3(1)a) de cette Loi. (soulignés ajoutés)
+[...]
+6.2.3. L'affaire Thibeault
+518. Les commentaires suivants de monsieur le juge Tardif de cette Cour dans l'affaire Thibeault c. Canada (ministre du Revenu national - M.N.R.)29 semblent également très appropriés aux présentes affaires :
+¶ 20 Pour bénéficier de l'assurance-chômage maintenant appelée assurance-emploi, le travail exécuté doit l'être dans le cadre d'un véritable contrat de louage de services. Pour qualifier un contrat de travail, la jurisprudence a identifié les critères suivants : lien de subordination donnant au payeur un pouvoir de contrôle sur le travail exécuté par le salarié, chance de profits et risque de pertes, propriété des outils et intégration.
+¶ 21 L'application de ces critères aux faits disponibles facilite évidemment l'exercice de qualification. Par contre, il est tout aussi important qu'il s'agisse d'un véritable travail faute de quoi l'exercice visant à appliquer les critères est tout à fait inutile.
+¶ 22 Un véritable emploi est un emploi rémunéré selon les conditions du marché et qui contribue de façon réelle et positive à l'avancement et au développement de l'entreprise qui assume le salaire payé en contrepartie du travail exécuté. Il s'agit là d'éléments essentiellement économiques laissant peu ou pas de place à la générosité, à la compassion.
+[...]
+¶ 26 Le régime d'assurance-chômage est une mesure sociale dont l'objectif est de soutenir ceux et celles qui perdent leur véritable emploi. Il ne s'agit carrément pas d'une mesure où il suffit de payer des cotisations durant une certaine période de l'année pour avoir droit automatiquement aux bénéfices.
+¶ 27 Il s'agit là d'une assurance où toutes les conditions connues définies par la Loi et ses règlements doivent être respectées à défaut de quoi celui ou celle qui a pourtant payé des contributions, ne peut prétendre avoir un droit automatique au paiement des prestations.
+[...]
+¶ 29 Certes, il n'est ni illégal, ni répréhensible d'organiser ses affaires pour profiter de la mesure sociale qu'est le régime de l'assurance-chômage, à la condition expresse que rien ne soit maquillé, déguisé ou organisé et que la venue des bénéfices survienne à la suite d'événements sur lesquels le bénéficiaire n'a pas le contrôle. Lorsque l'importance du salaire ne correspond pas à la valeur économique des services rendus, lorsque les débuts et les fins des périodes s'avèrent coïncider avec la fin de la période de paiement et la durée de la période de travail coïncidant à son tour, avec le nombre de semaines requises pour se qualifier à nouveau, cela a pour effet de soulever des doutes très sérieux sur la vraisemblance du contrat de travail. Lorsque les hasards sont nombreux et exagérés, cela risque de créer une présomption à l'effet que les parties ont convenu d'un arrangement artificiel pour permettre aux parties de profiter des bénéfices. (soulignés ajoutés)
+[...]
+6.2.7. L'affaire Massignani
+525. Avec respect, l'intimé soumet que c'est à tord [sic] que cette Cour a conclu dans l'affaire Massignani34 qu'un contrat qui remplit les trois conditions essentielles pour la formation d'un contrat de travail (prestation de services, rémunération et subordination) est nécessairement un contrat d'emploi véritable aux fins de l'application de la LAE.
+526. Dans les décisions citées ci-dessus, ces trois conditions essentielles à la formation d'un contrat de travail semblaient présentes et cela n'a pas empêché cette Cour de conclure en l'absence d'un contrat d'emploi véritable aux fins de l'application de la LAE.
+527. De plus, l'intimé soumet respectueusement que si cette Cour avait conclu en l'absence de contrats d'emploi véritables dans l'affaire Massignani, cela aurait évité le résultat, que l'intimé juge inapproprié, résultant de la décision de la Cour d'appel fédérale dans cette même affaire.
+25 Massignani, supra, note 13.
+26 Massignani c. M.N.R., [2005] A.C.F. no 777 (Q.L.)
+27 [1993] A.C.I. no 109 (Q.L.).
+29 [1998] A.C.I. no 690 (Q.L.).
+34 Massignani, supra, note 13.
+[Je souligne.]
+[60] Avec égards pour le procureur du ministre, qui adopte l'opinion contraire, je persiste à croire qu'un contrat qui remplit les trois conditions essentielles de l'article 2085 et les conditions générales de formation d'un contrat énoncées dans le Code civil crée nécessairement un « emploi [...] aux termes d'un contrat de louage de services » et, par conséquent, un « emploi assurable » , à moins que cet emploi ne soit exclu en vertu du paragraphe 5(2) LAE. Il est utile que je rappelle ici les propos que je tenais dans l'affaire Massignani :
+47 Comme c'est souvent le cas dans ce genre d'appel, les prestataires d'assurance-chômage ont planifié leurs affaires de manière à être admissibles aux prestations prévues par la Loi. Mais comme l'a reconnu la Cour d'appel fédérale, ce fait n'empêche pas nécessairement que des emplois soient assurables; toutefois, notre Cour a le devoir de s'assurer que les conditions établies par la Loi sont réunies. C'est ce qu'a affirmé Monsieur le juge Hugessen dans Canada (Procureur général) c. Rousselle, [1990] A.C.F. no 990 (Q.L.), à la page 2 du jugement :
+Ce n'est pas d'exagérer je crois, à la lumière de ces faits, que de dire que si les intimés ont exercé un emploi, il s'agissait bien d'un emploi "de convenance" dont l'unique but était de leur permettre de se qualifier pour des prestations d'assurance-chômage. Certes, ces circonstances n'empêchent pas nécessairement que les emplois soient assurables mais elles imposaient à la Cour canadienne de l'impôt l'obligation de scruter avec un soin particulier les contrats en cause; [...]
+[Je souligne.]
+48 De plus, dans l'affaire Navennec c. Canada (M.R.N.), [1992] A.C.F. no 1005 (Q.L.), Madame la juge Desjardins a affirmé, au nom de la Cour d'appel fédérale, que les critères établis par la Cour suprême du Canada dans l'arrêt Stubart Investments Ltd. c. La Reine, [1984] 1 R.C.S. 536, s'appliquaient en matière d'assurance-chômage :
+Dans Stubart, la question, il est vrai, était de savoir si dans le but avoué de réduire ses impôts, une société pouvait conclure une entente par laquelle ses profits futurs étaient passés à une filiale-soeur dans le but de se prévaloir du report des pertes de cette dernière. Mais les principes demeurent applicables en l'espèce alors qu'il s'agit de déterminer si le requérant n'a pas, somme toute, arrangé ses affaires de façon à pouvoir percevoir des prestations d'assurance-chômage.
+[Je souligne.]
+49 Il faut se rappeler que, dans Stubart, à la page 575, la Cour suprême a rejeté « la proposition selon laquelle il est possible d'écarter une opération du point de vue fiscal uniquement parce que le contribuable l'a faite sans but commercial distinct ou véritable » . Voici comment Madame la juge Desjardins a appliqué les critères de Stubart dans l'affaire Navennec :
+Les parties en l'espèce sont liées. Mais ce qui importe est d'établir si, par leurs conventions, elles ont fait ce qu'elles ont dit vouloir faire. Le requérant entendait-il effectivement faire de la société une entreprise familiale ou s'est-il gardé le contrôle? Sa conjointe et ses enfants avaient-ils effectivement l'intention d'acquitter leurs billets promissoires par les profits qu'ils tireraient de l'entreprise ou par d'autres revenus? Ou n'ont-ils jamais eu cette intention? S'est-il agi d'obligations juridiques claires et exécutoires? Ou s'agit-il d'un trompe-l'oeil?
+50 Je retiens de ces deux décisions de la Cour d'appel fédérale qu'un emploi qui n'est pas un trompe-l'oeil et qui remplit toutes les conditions énoncées au Code civil du Québec constitue un contrat de travail véritable aux fins de la Loi, et ce, même si ce contrat de travail visait à rendre une personne admissible à des prestations d'assurance-chômage. Toutefois, cette Cour a l'obligation de scruter avec soin l'entente existant entre les parties - ici les appelants et Tiva - pour s'assurer qu'un véritable contrat de travail existe. J'ajoute que c'est à la lumière de ces principes qu'il faut interpréter la portée des motifs de mes collègues Tardif et Dussault.
+51 La première question qu'il faut résoudre ici est donc de savoir si le contrat liant les appelants à Tiva constituait véritablement un contrat de travail. Tel qu'il est mentionné plus haut, les trois éléments essentiels à l'existence du contrat de travail sont : la prestation d'un service, le paiement d'une rémunération et l'existence d'un lien de subordination [66].
+[Je souligne.]
+[61] À ces motifs énoncés dans Massignani, j'aimerais ajouter les suivants pour mieux répondre aux points soulevés par le procureur du ministre aux paragraphes 488 et suivants de ses observations écrites. Tout d'abord, il est nécessaire de rappeler que la question en litige que la Cour doit trancher ici, c'est celle de l'existence ou de l'inexistence d'un « emploi assurable » . Le terme « emploi assurable » est défini à l'article 5 LAE. C'est là que se situe le point de départ :
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+d) un emploi prévu par règlement pris en vertu des paragraphes (4) et (5);
+[...]
+(2) N'est pas un emploi assurable :
+a) l'emploi occasionnel à des fins autres que celles de l'activité professionnelle ou de l'entreprise de l'employeur;
+b) l'emploi d'une personne au service d'une personne morale si cette personne contrôle plus de quarante pour cent des actions avec droit de vote de cette personne morale;
+[...]
+h) l'emploi exclu par règlement pris en vertu du présent article;
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+(4) La Commission peut, avec l'agrément du gouverneur en conseil, prendre des règlements en vue d'inclure dans les emplois assurables :
+[...]
+c) l'emploi qui n'est pas un emploi aux termes d'un contrat de louage de services, s'il paraît évidentà la Commission que les modalités des services rendus et la nature du travail exécuté par les personnes exerçant cet emploi sont analogues aux modalités des services rendus et à la nature du travail exécuté par les personnes exerçant un emploi aux termes d'un contrat de louage de services;
+[Je souligne.]
+[62] L'alinéa 5(1)a) définit un emploi assurable comme étant, notamment, un « emploi [...] aux termes d'un contrat de louage de services » . La LAE ne définit pas ce qu'est un « contrat de louage de services » . Il s'agit d'un concept de droit appartenant au domaine de la « propriété et [des] droits civils » , soit l'une des catégories de sujets à l'égard desquelles les législatures provinciales peuvent faire exclusivement des lois (paragraphe 92(13) de la Loi constitutionnelle de 1867). Lorsqu'une loi fédérale qui doit être appliquée dans une province utilise une notion de droit civil qu'elle ne définit pas, il faut avoir recours à la notion en vigueur dans cette province, sauf règle de droit s'y opposant. Tel est la règle édictée par l'article 8.1 de la Loi d'interprétation (LI), règle entrée en vigueur le 1er juin 2001[67]. Le législateur fédéral a ainsi codifié la règle d'interprétation appelée « principe de complémentarité » , qui était souvent appliquée par les tribunaux[68], notamment aux fins de la définition d' « emploi assurable » à l'alinéa 5(1)a) LAE[69] (et 3(1)a) de l'ancienne Loi sur l'assurance-chômage, L.R.C. 1985, ch. U-1) (LAC). Ainsi, peu importe que l'on applique l'article 8.1 LI ou le principe de complémentarité d'origine jurisprudentielle, le résultat est le même. Comme l'a reconnu le juge Décary dans l'arrêt 9041-6868 Québec Inc. (précité) au paragraphe 7, c'est le Code civil qui s'applique lorsqu'il s'agit d'appliquer l'alinéa 5(1)a) LAE à un contrat de travail régi par les lois du Québec, en particulier l'article 2085 du Code civil.
+[63] Comme le législateur fédéral a choisi d'adopter, par renvoi, les dispositions de la loi provinciale pour la détermination si un contrat de travail (contrat de louage de services) existe, il est important de déterminer d'abord si les contrats entre les appelantes et le payeur en l'espèce sont des contrats de travail au sens du Code civil. Or, cette notion du contrat de travail ne peut varier selon que le contrat est interprété aux fins du Code civil ou aux fins d'une loi fiscale comme la LIR ou aux fins de la LAE ou de la Loi sur le régime de rentes du Québec (L.R.Q., ch. R-9). Quand le législateur désire adopter pour une loi particulière une notion qui est différente de celle du droit commun, il adopte alors une définition spécifique pour cette loi. Voir notamment le sous-alinéa 1 de la définition de « salarié » à l'alinéa 1l) du Code du travail (L.R.Q., ch. C-27). D'ailleurs, le législateur fédéral a expressément prévu que la Commission, avec l'agrément du gouverneur en conseil, peut prendre des règlements pour inclure dans les emplois assurables un emploi « qui n'est pas un emploi aux termes d'un contrat de louage de services » (alinéas 5(1)d) et (5(4)c) LAE reproduits ci-dessus). Si toutes les exigences prévues au Code civil sont remplies, on doit, aux fins du Code civil, constater la validité du contrat de travail et de l'emploi qu'il crée. Selon l'alinéa 5(1)a) LAE, il s'agit d'un « emploi assurable » , à moins que cet emploi soit exclu de cette définition par le paragraphe 5(2) LAE .
+[64] Le procureur du ministre a reconnu, à bon droit, que le Code civil s'applique et que, si toutes les conditions de formation d'un contrat de travail sont réunies, il y aura un véritable contrat de travail aux fins du Code civil. Il reconnaît qu'à supposer qu'il n'y ait pas de cause illicite, le contrat entre madame Garneau et le payeur est un contrat de travail valide. Toutefois, soutient-il, même s'il s'agit d'un contrat de travail valide qui crée un emploi aux fins du Code civil, il ne s'agit pas d'un « emploi véritable » aux fins de la LAE. Pour arriver à cette conclusion, il voit dans la LAE une « condition implicite » (paragraphe 508 de ses observations écrites) qu'il justifie en appliquant la règle d'interprétation téléologique.
+[65] Avec égards pour les tenants de l'opinion contraire, je crois que cette position est mal fondée. Pour que l'on puisse avoir recours à la règle d'interprétation téléologique, il faudrait que le texte de l'alinéa 5(1)a) LAE soit équivoque, ambiguë ou vague. Lorsque le texte est clair et non équivoque, il doit simplement être appliqué. Voici ce que disait la juge McLachlin (tel était alors son titre), qui a rendu le jugement unanime de la Cour suprême du Canada dans Shell Canada Ltée c. Canada, [1999] 3 R.C.S. 622, 99 DTC 5682 :
+40 Deuxièmement, la jurisprudence fiscale de notre Cour est bien établie: l'examen de la « réalité économique » d'une opération donnée ou de l'objet général et de l'esprit de la disposition en cause ne peut jamais soustraire le tribunal à l'obligation d'appliquer une disposition non équivoque de la Loi à une opération du contribuable. Lorsque la disposition en cause est claire et non équivoque, elle doit simplement être appliquée : Continental Bank, précité, au par. 51, le juge Bastarache; Tennant, précité, au par. 16, le juge Iacobucci; Canada c. Antosko, [1994] 2 R.C.S. 312, aux pp. 326, 327 et 330, le juge Iacobucci; Friesen c. Canada, [1995] 3 R.C.S. 103 [...]
+[Je souligne.]
+[66] Dans Antosko, le litige portait sur l'application du paragraphe 20(14) LIR, qui vise à éviter, par une déduction, la double imposition de l'intérêt accumulé sur une obligation avant son transfert, mais payé après ce transfert. Essentiellement, l'effet de la règle est que l'intérêt accumulé avant le transfert est inclus dans le revenu de l'auteur du transfert, et celui accumulé après, dans le revenu du bénéficiaire du transfert. Or, l'auteur du transfert dans Antosko était un organisme exonéré d'impôt et, de ce fait, le bénéficiaire a pu recevoir des intérêts dont une partie avait échappé à l'impôt : une aubaine (windfall) à laquelle le contribuable n'avait pas droit selon le ministre. Voici comment le juge Iacobucci, qui a rendu le jugement unanime de la Cour suprême du Canada, a résumé un des arguments de la Cour d'appel fédérale, à la page 324 :
+Toutefois, selon la Cour d'appel fédérale, l'unique tribunal à s'être penché sur ce point, l'opération ici en cause n'était cependant pas de celles qui donnent lieu à une déduction en vertu de la disposition concernée. La Cour d'appel a conclu que ce transfert d'intérêts accumulés n'était pas conforme à l'objet de la disposition considérée à la lumière de la réalité économique et commerciale. À son avis, il était de l'objet et de l'esprit de la disposition d'éviter la double imposition, et le transfert effectué entre la commission et les appelants n'avait rien à voir avec un tel objectif. [...]
+[Je souligne.]
+[67] Le juge Iacobucci a tiré la conclusion suivante à la page 328 :
+En l'espèce, même si elle concède que ces éléments factuels sont présents, l'intimé demande à la Cour d'examiner et d'évaluer l'opération elle-même et de conclure qu'elle est d'une manière ou d'une autre hors de la portée de la disposition en question. En l'absence d'une preuve que l'opération est un trompe-l'oeil ou qu'elle représente un abus des dispositions de la Loi, il n'appartient pas à un tribunal de déterminer si elle rend le contribuable admissible à une déduction. Si les conditions de l'article sont remplies, le contribuable peut l'invoquer et il est loisible au législateur de lui interdire expressément de les invoquer à l'avenir dans de telles situations.
+[Je souligne.]
+[68] Il a ajouté ce qui suit, à la page 330 :
+De toute évidence, l'opération ici en cause n'était pas un trompe-l'oeil. Les conditions de la disposition ont été remplies d'une manière qui n'était pas artificielle. En l'absence d'ambiguïté des termes de la disposition, il n'appartient pas à notre Cour de conclure que les appelants devraient se voir refuser une déduction parce qu'ils ne méritent pas une « aubaine » , comme l'intimée le soutient. En l'absence d'une ambiguïté qui forcerait le tribunal à examiner les résultats de l'opération pour déterminer l'intention du législateur, l'évaluation normative des conséquences de l'application d'une disposition donnée relève du législateur et non des tribunaux.
+[Je souligne.]
+[69] Ici le texte de la LAE ne peut être plus clair : un « emploi assurable » est « un emploi [...] aux termes d'un contrat de louage de services » , contrat qui, au Québec, est défini comme un contrat de travail. « Emploi » est défini au paragraphe 2(1) LAE comme suit : « Le fait d'employer ou l'état d'employé. » Ainsi, un « emploi assurable » au sens de la LAE comprend notamment « l'état d'employé [...] aux termes d'un contrat de louage de services » .
+[70] Pour que la règle d'interprétation téléologique puisse être invoquée par le procureur de l'intimé, il aurait fallu, à tout le moins, que l'expression « véritable » se trouve à l'article 5 LAE. Par exemple, si le législateur avait édicté qu'un emploi assurable est un « emploi véritable [...] aux termes d'un contrat de louage de services » , ou s'il avait défini le mot « emploi » comme « l'état d'employé véritable » , peut-être aurait-on pu s'interroger alors sur le sens à donner à l'expression « véritable » . Or, l'expression ne se trouve pas dans la LAE. Comme l'a déclaré le juge Rothstein lors de sa comparution historique devant un comité de députés de la Chambre des communes, le rôle des tribunaux n'est pas de créer le droit mais de l'appliquer. Appliquer ici une « condition implicite » que renfermerait la LAE reviendrait, selon moi, à créer le droit.
+[71] Non seulement l'alinéa 5(1)a) LAE me paraît tout à fait clair et non équivoque, mais je ne vois pas comment on pourrait justifier la « condition implicite » de l'emploi « véritable » en appliquant la règle d'interprétation téléologique. Le procureur du ministre n'a fait aucune analyse des dispositions pertinentes de la LAE pour justifier sa position. Si une telle analyse est faite, on constate que le législateur a prévu expressément dans la LAE les cas où « l'emploi [...] aux termes d'un contrat de louage de services » pourrait être exclu de la notion d'emploi « assurable » . Le paragraphe 5(2) liste toute une série d'exclusions. Il y a notamment l'emploi occasionnel et celui du travailleur qui contrôle plus de 40 % des actions avec droit de vote de la personne morale qui l'emploie. La Commission, avec l'agrément du gouverneur en conseil, peut même, par règlement, établir d'autres cas d'exclusion (alinéa 5(2)h) LAE).
+[72] Puis il y a l'exclusion de l'alinéa 5(2)i) : « l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance » . Lorsque ces personnes sont des personnes liées, le ministre peut quand même, en vertu de l'alinéa 5(3)b), conclure à l'admissibilité de l'emploi aux fins de la LAE lorsqu'il est convaincu qu'elles auraient conclu un contrat de travail à peu près semblable si elles n'avaient pas eu de lien de dépendance. Il ressort clairement de la lecture des alinéas 5(2)i) et 5(3)b) qu'ils constituent une règle anti-évitement, c'est-à-dire qu'ils visent à exclure du régime de l'assurance-emploi les contrats dont les modalités sont déraisonnables. Si on devait adopter l'interprétation large que propose le procureur du ministre, cela aurait pour effet de rendre tout à fait inutile l'exclusion prévue à l'alinéa 5(2)i) LAE. En effet, si les conditions d'emploi sont tellement déraisonnables que l'on considère qu'il ne s'agit pas d'un « emploi véritable » et, par conséquent, que ce n'est pas un « emploi assurable » , à quoi servirait l'exclusion de l'alinéa 5(2)i) LAE? Cette interprétation aurait également pour effet d'écarter le pouvoir discrétionnaire dont jouit le ministre en vertu de l'alinéa 5(3)b) LAE. On sait qu'à l'égard de l'exercice de ce pouvoir discrétionnaire, la Cour a une obligation de déférence; or, elle n'aurait pas de telle obligation, si la doctrine de l'emploi véritable était applicable.
+[73] De façon générale, lorsque le ministre invoque devant cette Cour la doctrine de l'emploi véritable pour conclure à l'inexistence d'un emploi assurable, il cite plusieurs décisions, dont la plus ancienne est Gauthier (précitée) et sur laquelle se fondent souvent les décisions plus récentes. Ici, le procureur du ministre ne fait pas exception à la règle. Il est important de souligner que la décision Gauthier a été rendue en avril 1993, alors que l'alinéa 3(2)c) LAC était inopérant à l'égard de la période pertinente dans cette décision-là, à savoir celle du 26 février 1990 au 30 novembre 1990.
+[74] L'alinéa 3(2)c) LAC excluait totalement de la notion d'emploi assurable tout emploi d'une personne au service de son conjoint. Il avait été rendu inopérant le 21 juillet 1987 par le Tribunal canadien des droits de la personne dans l'affaire Druken c. Canada, [1987] D.C.D.P. no 7 (QL), 8 C.H.R.R. D/4379, et la Cour d'appel fédérale a confirmé cette décision le 15 août 1988 (Canada (Procureur général) c. Druken, [1989] 2 C.F. 24). Un nouvel alinéa 3(2)c) LAC, semblable à l'alinéa 5(2)i) et au paragraphe 5(3) LAE, n'est entré en vigueur que le 18 novembre 1990[70]. Dans Gauthier, je crois qu'on a tenté, en invoquant cette doctrine de l'emploi véritable, de combler le vide juridique créé par les décisions Druken. Comme la décision Gauthier a été rendue avant les arrêts de la Cour suprême du Canada dans Shell Canada (octobre 1999) et Antosko (mai 1994), je crois que cette doctrine de l'emploi véritable, telle qu'elle est interprétée par le procureur du ministre, n'est pas compatible avec ces arrêts et que, dans l'état actuel du droit, elle ne doit plus être appliquée. Il faut alors limiter la notion d'emploi véritable à l'emploi exercé aux termes d'un contrat de travail qui n'est pas un trompe-l'oeil, c'est-à-dire à un contrat de travail valide aux fins du Code civil.
+Crédibilité des témoins
+[75] Appliquons ces règles aux faits de ces appels. Avant de le faire, toutefois, des remarques préliminaires s'imposent relativement à la crédibilité des témoins clés. Comme c'est souvent le cas pour des appels où la question en litige porte sur l'existence d'un emploi, ou, s'il en existe un, sur ses modalités (afin qu'on puisse déterminer si l'emploi est exclu en raison d'un lien de dépendance), une des grandes difficultés est la crédibilité des témoins. Ici, je dois mentionner que j'ai trouvé les témoignages de monsieur Dubé et de mesdames Garneau et Bellefeuille très peu crédibles. Quoique celui de madame Bellefeuille me soit apparu plus sincère que ceux du couple Dubé-Garneau, il a été trop souvent imprécis et vague, et fort peu corroboré par une preuve documentaire ou testimoniale.
+[76] Monsieur Maltais et Guylaine Dubé ont décrit monsieur Dubé comme un manipulateur. La preuve que j'ai entendue confirme non seulement ce trait de caractère de monsieur Dubé, mais elle établit qu'il est magouilleur. Il est l'auteur du stratagème consistant à utiliser les prestations d'assurance-emploi pour financer indirectement son entreprise et, depuis le tout début, madame Garneau a été sa complice. Cette complicité a débuté lorsque tous les deux travaillaient ensemble chez BDC et, par la suite, a continué lorsqu'ils sont devenus non seulement des salariés du payeur mais aussi ses administrateurs.
+[77] Monsieur Dubé a fractionné son revenu d'emploi chez BDC, une partie était versée à sa fille et fort probablement à son épouse. En effet, monsieur Dubé recevait une rémunération de 250 $ par semaine pour 37 heures, ce qui lui donnait un salaire horaire de 6,76 $. Ce fractionnement lui a permis non seulement de réduire les impôts qu'il aurait eu à payer par ailleurs, mais également de continuer à recevoir sa rente mensuelle de 1 068 $ de la CSST et de permettre à sa fille et à sa femme de présenter des demandes de prestations à DRH. Monsieur Dubé a même fortement incité sa fille, Guylaine Dubé, à présenter une telle demande. Elle ne comprenait pas comment elle pouvait avoir droit aux prestations, puisque l'argent que lui avait remis le payeur n'appartenait pas à elle. Même si elle n'avait pas travaillé pour BDC et le payeur, Guylaine Dubé pouvait, pour ses demandes de prestations, compter sur les relevés d'emploi faux et trompeurs préparés par madame Garneau. Toutefois, elle n'a pas eu de succès, car DRH lui a refusé les prestations qu'elle avait demandées, et ce, en raison de son lien de dépendance avec le payeur, et elle n'a pas contesté cette décision.
+[78] Même après avoir confirmé à l'audience qu'il avait dit à l'agent d'assurabilité que Guylaine Dubé n'avait jamais réellement travaillé pour l'entreprise, monsieur Dubé a tenté d'atténuer la portée de sa réponse par une pirouette (vol. 3 de la transcription, pp. 304 et 305) :
+R. C'est vrai, Votre Honneur, oui, c'est à peu près ce que j'ai dit. Elle ne travaillait pas pour l'entreprise, elle travaillait pour moi. Par contre, le chèque qu'elle donnait, c'est sûr que c'est Denise qui l'encaissait. Je l'ai dit vendredi d'ailleurs qu'elle faisait ça parce qu'elle était pour se marier puis que je lui donnais ce montant-là. Maintenant, le fait de dire qu'elle n'a pas travaillé, ça dépend ce qu'on appelle travailler, elle n'a pas travaillé sur un banc de scie à l'intérieur mais elle allait à la procure chercher des affaires que j'avais besoin pour le bureau, elle faisait des photocopies, elle aidait à sa mère pour faire le plan de travail. Elle a fait beaucoup de choses. Elle était elle-même allée porter des documents chez Pierre Lessard. Je ne sais pas si maître Lessard l'a mentionné mais elle l'a déjà fait aussi. Mais c'est comme je l'ai dit et je le répète, c'est sûr que si ça avait été une étrangère, elle n'aurait pas eu 150 $ par semaine, elle aurait peut-être eu 150 $ par deux semaines ou trois semaines. Mais c'était ma fille. Donc, elle avait 150 $ par semaine[71].
+[Je souligne.]
+[79] Madame Garneau a menti à l'enquêteuse de DRH lorsqu'elle a affirmé que Guylaine Dubé avait réellement travaillé pour BDC et le payeur (pièce I-32, 3e page). Il est fort possible qu'elle ait fait la même chose à l'égard du prétendu travail de madame Bellefeuille. Elle a également menti lorsqu'elle a mentionné à l'enquêteuse de DRH que madame Bellefeuille l'a remplacée au bureau comme réceptionniste pendant ses absences (pièce I-32, 3e page), puisque madame Bellefeuille nie avoir travaillé au bureau du payeur et affirme plutôt que son travail était fait à la maison (pièce I-35, 3e et 4e pages). Madame Garneau a trompé DRH en établissant des relevés d'emploi pour elle-même dans lesquels elle indiquait comme raison du relevé d'emploi le manque de travail chez BDC, alors qu'elle avait quitté cette entreprise pour devenir salariée du payeur et une de ses actionnaires. Madame Garneau a également établi des relevés d'emploi trompeurs pour d'autres employés de BDC, car ils indiquaient que ces employés avaient été licenciés pour manque de travail alors qu'ils avaient quitté BDC pour se joindre au payeur comme salariés. Dans sa demande de prestations du 17 juillet 2001, elle a répondu qu'elle n'était pas apparentée à l'actionnaire majoritaire du payeur par les liens de l'union de fait, alors qu'elle cohabitait avec monsieur Dubé depuis au moins le début de janvier 2000 (selon sa version)!
+[80] Les relevés d'emploi de Guylaine Dubé, de Stéphane Laferrière et de Gaston Dubuc portent une signature contrefaite de monsieur Marcel Maltais. Ces relevés d'emploi ont été préparés par madame Garneau. La preuve n'a pas établi qui avait contrefait la signature. Par contre, qui avait intérêt à le faire à part monsieur Dubé ou madame Garneau? En tout cas, monsieur Dubé a reconnu qu'il avait contrefait la photocopie de six chèques de 276,08 $ pour justifier le paiement d'un salaire plus élevé que ce qui avait été en fait versé à madame Bellefeuille du 16 septembre au 21 octobre 1999 (pièce I-24). Monsieur Dubé a aussi tenté d'obtenir des prestations durant la période de transition entre son départ de BDC et le démarrage de l'entreprise du payeur. Monsieur Laferrière a indiqué dans sa déclaration statutaire avoir reçu des prestations tout en travaillant à temps plein pour le payeur, alors qu'il savait que c'était illégal. Monsieur Dubé lui avait dit que c'était sans danger parce que les chèques qu'il lui donnait, c'étaient pour ses dépenses (paragraphe 11 ci-dessus). Le payeur a même réclamé une subvention pour l'emploi de ce salarié dans le cadre d'un programme de création d'emplois, alors qu'il ne s'agissait pas d'un nouvel emploi. Ce salarié travaillait déjà pour le payeur depuis le 24 février 1997 (pièce I-27, 5e page). On reconnaît le caractère manipulateur de monsieur Dubé lorsqu'il tente d'expliquer que monsieur Laferrière avait commencé à travailler pour le payeur comme sous-entrepreneur (en vertu d'un contrat de service) en février 1997 et a continué jusqu'au 19 avril 1997.
+[81] Lors de sa rencontre avec l'enquêteuse de DRH le 10 mai 2002 (pièce I-32, 4e page), madame Garneau a confirmé avoir préparé tous les relevés d'emploi du payeur. Toutefois, elle a refusé de fournir toute explication relativement aux relevés d'emploi de madame Bellefeuille ou de madame Dubé. Lorsqu'on lui a demandé d'expliquer pourquoi elle avait rempli des relevés d'emploi qui étaient erronés, notamment pour des personnes qui affirment n'avoir jamais travaillé pour les entreprises indiquées, et pourquoi elle avait inscrit des périodes d'emploi qui ne correspondaient pas à la réalité, ou de commenter les déclarations de certains employés du payeur selon lesquelles elle était toujours présente tous les jours à partir de janvier ou février 1997, madame Garneau a répondu (pièce I-32, 5e page) :
+Nous avons parti la compagnie avec presque rien d'investissementet sans aucune subvention. Nous avons été voir les banques et on nous avait bloqué [sic] partout. Le gouvernement nous a refusé toutes nos demandes de subventions[72]. Les propriétaires de Boiserie D.C. nous ont mis des bâtons dans les roues à chaque fois que nous demandions des subventions. Il a fallu qu'on se débrouille nous-mêmes tous seuls.
+Si vous saviez !!!
+Je peux vous dire que je ne travaillais pas tous les jours au bureau, il y avait des jours où je travaillais à la maison, et c'est Joseph qui m'apportait le travail.
+Je refuse de parler concernant les chèques originaux et les copies de chèques envoyés par fax le 16-12-99 de Denise Bellefeuille pour la période de septembre 1999 et de octobre 1999. Demander à Joseph.
+Je refuse de donner des explications de l'entretien téléphonique du 02-11-99 que j'ai eu avec un agent d'assurance-emploi concernant le relevé d'emploi # A66013347 de Denise Bellefeuille.
+Je ne veux pas donner aucune information concernant les demandes de renseignements envoyées par votre bureau concernant mon dossier et où apparaît mon écriture datée du 02-06-99 et du 15-09-99.
+[...]
+Je refuse de donner des explications concernant les relevés d'emploi, allez voir Joseph et posez-lui les questions.
+Je refuse de donner des explications concernant le fait que le nombre de documents complétés par moi, soit des chèques ou de la facturation ou autre [sic] documents, soit à peu près le même nombre, peu importe que je sois inscrite au registre de paie ou que je reçoive des prestations d'assurance-emploi.
+Je ne veux plus donner aucun renseignements [sic] concernant la compagnie Boiserie Dubé ou la compagnie Boiserie D.C. Il vous faudra parler à Joseph Dubé.
+[Je souligne.]
+[82] En plus des magouilles susmentionnées qui soulèvent beaucoup de doutes quant à la crédibilité et la probité de monsieur Dubé et de madame Garneau, il y a toutes ces faussetés et les réponses contradictoires qu'ils ont données, soit lors de l'audience, soit lors des enquêtes de DRH et de l'Agence. De plus, il y a eu beaucoup de réponses évasives de la part de ce couple et de madame Bellefeuille. En plus de toutes celles qui ont déjà été mentionnées ci-dessus, il y a les suivantes.
+Jacinthe Garneau
+[83] Lors de son interrogatoire mené par son avocat, madame Garneau a affirmé que son salaire avait été de 525 $ au début. Ensuite, elle a expliqué de quelle façon son salaire avait augmenté (vol. 1 de la transcription, pp. 93 et 94) :
+[54] Q. Est-ce qu'il y a eu des variations de salaire par la suite?
+R. Par la suite, bien là, aussitôt qu'on a... C'est sûr qu'au début, on commence tranquillement. Mais aussitôt que l'entreprise a pris un peu plus d'assurance, si on veut, le salaire a augmenté en fonction de... C'est sûr que j'avais plus de travail à ce moment-là . Fait qu'on est allés avec des augmentations à chaque année jusqu'à concurrence, je pense, je vous dirais 800 $ par semaine pour dans le fond avoir le même salaire que j'avais.
+[...]
+[55] Q. À partir de quelle période vous avez atteint le 800 $?
+R. Je pense que ça a pris trois ans ou quelque chose comme ça.
+[...]
+[58] Q. Entre le 525 $ et le 800 $, est-ce qu'il y a eu d'autres...
+R. Oui, oui, oui. Ça commençait. Après, j'ai eu 725 $. L'année suivante, j'ai eu comme 600 $. L'année suivante, je dois avoir eu un 700 $ pour atteindre le montant de 800 $.
+[Je souligne.]
+[84] Au cours du contre-interrogatoire, elle a fourni la réponse suivante à l'avocat du ministre (vol. 1 de la transcription, pp. 264 et 265) :
+[752] Q. Vous avez indiqué ce matin en réponse à une question posée par maître Guertin, j'y vais de mémoire, trois ans plus tard, votre salaire est passé à 800 $?
+R. Parce que lorsque j'ai commencé mon travail en 97, au printemps 97, c'est sûr qu'on était au début de la nouvelle compagnie. Vous savez que quand on part une compagnie, on n'y va pas avec des salaires de 1 000 $ par actionnaire par semaine, il faut se donner une chance aussi de réussir. Fait qu'on a commencé avec un salaire identique à qu'est-ce que j'avais avant. Puis à mesure que la clientèle grossissait à chaque année, j'avais une augmentation de salaire comme un peu toutes les compagnies.
+[Je souligne.]
+[85] Ces réponses révèlent plusieurs contradictions ou affirmations qui ne correspondent pas à la réalité. Tout d'abord, madame Garneau laisse entendre qu'elle gagnait 800 $ par semaine chez Quincaillerie ou BDC. Or, tel qu'il est mentionné plus haut sous la rubrique « Contexte factuel » , il est fort peu probable qu'elle ait gagné un tel salaire lorsqu'elle était employée de Quincaillerie. Son salaire s'élevait plutôt à un maximum de 528 $ chez Quincaillerie et à 525 $ chez BDC (voir les tableaux 3 et 4 ci-dessus). De plus, contrairement à ce qu'elle affirme, son salaire n'a pas augmenté progressivement en fonction du chiffre d'affaires du payeur. En outre, cela n'a pas pris trois ou cinq ans pour atteindre le salaire de 800 $ puisque, selon le registre de paie du payeur, madame Garneau a gagné 800 $ à compter du 21 juin 1998, soit un an après son début officiel chez payeur (selon le registre de paie). Ce salaire a été versé jusqu'au 7 novembre 1998. Son salaire avait été de 600 $ pour trois semaines auparavant, soit du 31 mai au 20 juin 1998. Il convient de mentionner qu'au cours des années suivantes, son salaire a alterné essentiellement entre 700 $ et 800 $, selon les périodes (voir le tableau 5 ci-dessus).
+[86] Il y a également des contradictions entre le témoignage de madame Garneau et celui de monsieur Dubé quant au début des discussions concernant l'établissement de l'entreprise du payeur. Lors de son témoignage, monsieur Dubé a indiqué que c'est avant novembre 1996 qu'il avait commencé à avoir des discussions avec madame Garneau (vol. 1 de la transcription, p. 396, Q. 1282). Or, madame Garneau a indiqué que ces discussions avaient eu lieu une fois que BDC avait fermé ses portes et qu'elle s'était retrouvée sans emploi pendant plusieurs mois. Voici ce qu'elle a dit :
+[5] Q. Donc, c'est une autre compagnie ça?
+R. O.K. C'est ça, j'arrive à la... Là, Boiserie D.C. a fermé ses portes. Je me retrouvais sans travail. Par la même occasion, Boiserie D.C., j'avais connu Joseph Dubé qui à ce moment-là voulait partir une compagnie. Comme moi, je n'avais plus...
+[...]
+[7] Q. D'accord.
+R. Puis comme à ce moment-là, je n'avais plus de travail depuis quelque temps, il m'a parlé de son projet de partir en affaires, moi, j'avais besoin de travailler aussi. Alors je lui ai dit que je pourrais faire... essayer de me lancer en affaires, de créer ma propre compagnie, bien, une partie. C'est ça.
+(Vol. 1 de la transcription, p. 78)
+[Je souligne.]
+[...]
+[502] Q. Mais vous avez dit qu'avant de... que vous avez été une bonne période sans emploi suite à la fermeture de Boiserie D.C. parce que vous ne trouviez pas d'emploi?
+R. J'ai été six mois. Je n'ai jamais été...
+[503] Q. O.K., parce que vous ne trouviez pas d'emploi, vous avez été voir monsieur Dubé, Joseph Dubé, dans le but de créer votre entreprise, j'ai bien compris?
+R. Oui. J'étais sans emploi depuis quelques mois puis j'ai toujours travaillé depuis que je suis sortie du cégep. Fait que être six mois sans travailler avec aucune perspective en avant, j'avais de la misère à vivre avec ça.
+(Vol. 1 de la transcription, pp. 205 et 206)
+[Je souligne.]
+[87] À un autre moment, madame Garneau indique que c'est peut-être vers le mois de mars 1997 que les discussions avaient commencé avec monsieur Dubé (vol. 1 de la transcription, p. 224, Q. 573). Par la suite, elle s'est contredite à nouveau en reconnaissant, après plusieurs réponses évasives, qu'elle avait envisagé de devenir actionnaire du payeur en novembre 1996 (vol. 1 de la transcription, pp. 227 et 228) :
+[586] Q. Non mais la question est simple, est-ce que oui ou non, il avait été question que vous soyez actionnaire de la compagnie au mois de novembre 96?
+R. Bien, j'avais commencé à peut-être voir l'éventualité, mais il n'y avait rien d'officialisé avant le printemps comme j'ai dit 97.
+[587] Q. Donc, vous dites qu'il en avait été question?
+R. Il en avait été question.
+[Je souligne.]
+[88] Il est important de rappeler, de plus, que, contrairement à ce qu'affirme madame Garneau, BDC n'a pas fermé ses portes[73]. BDC a remplacé monsieur Dubé après son licenciement et a continué ses opérations. En outre, comme on l'a vu plus haut, madame Garneau n'a pas quitté BDC en raison de la perte de son emploi, puisque monsieur Maltais a tenté de la convaincre de rester au service de BDC. Comment pouvait-elle avoir « de la misère à vivre avec ça » ( « être six mois sans travailler » ) alors qu'elle est partie volontairement fonder sa propre entreprise avec monsieur Dubé?
+[89] Madame Garneau a été plus d'une fois évasive dans ses réponses. Il fallait s'y reprendre à plusieurs reprises pour obtenir une réponse, notamment lorsqu'on lui demandait si elle avait indiqué à l'enquêteuse de DRH que c'était madame Bellefeuille qui l'avait remplacée à l'occasion :
+[920] Q. Mais la question c'est : est-ce que vous l'avez dit ou pas à [l'enquêteuse]? C'est juste ça [la question]. On ne vous demande pas de commenter le contenu, c'est juste, est-ce que vous avez fait cette affirmation-là à [l'enquêteuse] que vous étiez remplacée par quelqu'un de la famille de monsieur Dubé? Vous rappelez-vous d'avoir dit ça oui ou non?
+R. Je ne me rappelle pas mais c'est possible.
+(Vol. 1 de la transcription, pp. 300 et 301)
+[90] Fait curieux, madame Garneau ne se rappelait pas si elle recevait des prestations au moment de sa rencontre avec l'enquêteuse en décembre 2001[74]. Est-ce que c'est parce que madame Garneau travaillait continuellement au bureau qu'elle ne se rappelle pas si elle recevait des prestations à cette époque? On se serait attendu, compte tenu du stratagème mis en place par monsieur Dubé, que cette rencontre ait pu être stressante et qu'elle se soit souvenue de son statut à ce moment-là :
+MONSIEUR LE JUGE :
+[450] Q. Non mais la question c'était : est-ce que vous étiez en cessation d'emploi lors de cette entrevue, la troisième, c'est ça?
+Me BENOIT MANDEVILLE :
+[451] Q. Lors des rencontres, la première rencontre, deuxième et troisième de madame Dion?
+R. Je n'ai pas aucune souvenance. Depuis le temps que...
+(Vol. 1 de la transcription, p. 187)
+Denise Bellefeuille
+[91] Madame Bellefeuille n'avait souvent aucun souvenir des faits sur lesquels elle était interrogée et elle était également évasive. Par exemple, on lui a demandé si elle se rappelait avoir indiqué à l'Agence que sa fille Guylaine n'avait pas travaillé chez le payeur. Elle a répondu qu'elle ne s'en souvenait pas. Par la suite, on lui a demandé si effectivement Guylaine avait travaillé pour le payeur. Elle a répondu comme suit (vol. 4 de la transcription, pp. 298 et 299) :
+[1052] Q. Vous ne vous souvenez pas d'avoir dit ça. Mais est-ce qu'elle a travaillé ou non chez Boiserie Dubé?
+R. Bien, elle a travaillé un petit peu, faire des petites commissions.
+[1053] Q. Quel genre de commissions?
+R. Bien, vous demanderez à mon mari.
+[1054] Q. Non, non, je vous le demande à vous. Qu'est-ce qu'elle a fait chez Boiserie Dubé?
+R. Vous demanderez à lui.
+[...]
+[1055] Q. Mais quand vous dites qu'elle a fait des petites commissions, vous ne pouvez pas nous décrire lesquelles?
+R. Mais des commissions, il y a des affaires comme... pareil comme quand on a monté le livre par exemple, il y avait des affaires qu'il fallait aller faire faire des photocopies, aller chez... comment ça s'appelle... Multipixels à Varennes, des choses comme ça.
+[1056] Q. Donc, chez un imprimeur?
+R. Chez l'imprimeur. Multipixels, c'est un imprimeur, oui.
+Me BENOIT MANDEVILLE:
+[1057] Q. Est-ce qu'elle a fait d'autres tâches pour Boiserie Dubé à part ça?
+MONSIEUR LE JUGE:
+[1058] Q. On vous demande à votre connaissance.
+R. Non, je ne me souviens pas, je ne sais pas.
+[1059] Q. Vous ne le savez pas.
+Me BENOIT MANDEVILLE:
+[1060] Q. Au niveau de Boiserie D.C., est-ce que vous vous souvenez si elle a travaillé?
+R. Je ne me souviens pas.
+[Je souligne.]
+Or, on sait que Guylaine a déclaré n'avoir travaillé ni pour BDC ni pour le payeur.
+Joseph Dubé, Jacinthe Garneau et Denise Bellefeuille
+[92] Dans sa déclaration statutaire du 24 novembre 1999 (pièce I-23), monsieur Dubé affirme que madame Bellefeuille gagnait 800 $ par semaine depuis le 5 septembre 1999, « car elle a remplacé Jacinthe Garneau pour deux semaines environ [...] » . Lors de sa rencontre du 14 juillet 2003 avec l'agent d'assurabilité, monsieur Dubé affirmait que madame Bellefeuille « est déjà venu [sic] travailler quelques jours » au bureau[75] (pièce I-38, page 1). Dans une déclaration statutaire du 10 mai 2002, madame Garneau a affirmé qu'elle avait été remplacée pendant ses absences du bureau par madame Bellefeuille, qui « allait au bureau pour répondre au téléphone » [76]. Or, aucun des employés du payeur qui ont signé une déclaration statutaire (et qui, pour la plupart, ne connaissaient même pas madame Bellefeuille) ne l'a vue à l'établissement du payeur (pièce I-30). Madame Bellefeuille n'a été capable de nommer aucun employé dans le bureau ou l'usine ni aucun vendeur de BDC ou du payeur. De plus, elle ne connaissait pas son salaire chez le payeur[77]. Madame Bellefeuille a reconnu lors de l'audience qu'elle n'avait pas effectué de travail à l'établissement du payeur mais a dit qu'elle travaillait plutôt à la maison. Elle aurait fait la même déclaration le 8 mai 2002 : « Elle dit que lorsqu'elle a remplacé la secrétaire lorsque celle-ci s'est absentée en 1999, elle l'a remplacée de chez elle le soir, elle ne sait [ sic] jamais présenter [sic] à la compagnie[78]. » Monsieur Dubé a dit la même chose lors de l'audience, affirmant que « Denise n'est pas venue travailler au bureau pantoute » en parlant de la période du congé de maladie de madame Garneau en 2001 (vol. 4 de la transcription, p. 27, Q. 76).
+[93] De plus, un autre fait curieux, révélé par les tableaux 8 et 10 ci-dessus ainsi que par les déclarations de monsieur Dubé et de madame Bellefeuille, est que durant le mois de septembre et jusqu'au 15 octobre 1999 madame Bellefeuille était officiellement employée du payeur et recevait une rémunération de 800 $ pour 40 heures de travail. Or, madame Garneau était alors également chez le payeur et touchait une rémunération de 800 $ pour 40 heures (voir les tableaux 5 et 6 ci-dessus pour la période du 7 juin au 22 octobre 1999). En outre, dans sa demande de prestations du 4 janvier 2000 (pièces A-4 et I-9), à la question no 24 : « Avez-vous reçu ou recevrez-vous une paye de vacances ou d'autres sommes de votre dernier employeur? » , madame Garneau a répondu « Non » . Ainsi, le payeur, selon ses registres de paie, aurait eu à son service deux secrétaires à temps plein à un coût salarial hebdomadaire de 800 $ pour chacune : madame Garneau au bureau et madame Bellefeuille à la maison.
+[94] Deux commentaires s'imposent. Tout d'abord, comment monsieur Dubé peut-il prétendre dans sa déclaration statutaire du 24 novembre 1999 (pièce I-23) que madame Bellefeuille a remplacé madame Garneau quand cette dernière était inscrite dans les registres de paie du payeur et qu'elle a déclaré ne pas avoir de paie de vacances? De plus, s'il y avait assez de travail pour justifier une semaine de 40 heures pour madame Bellefeuille, pourquoi ne se présentait-elle pas au bureau du payeur? D'autant plus que monsieur Dubé a indiqué dans sa déclaration statutaire que madame Bellefeuille faisait de la facturation et des états de compte. Madame Bellefeuille aurait pu se présenter au bureau, puisqu'elle venait de terminer son emploi chez les notaires le 30 juillet 2000, tel que le révèle le tableau 8 ci-dessus. Faut-il rappeler que cette prétendue période de travail de madame Bellefeuille correspond à celle pour laquelle monsieur Dubé a fourni des photocopies de chèques contrefaites à DRH?
+[95] Dans son résumé de l'entrevue tenue le 8 mai 2002 avec madame Bellefeuille (pièce I-35, 5e page), l'enquêteuse de DRH rapporte ces propos de madame Bellefeuille (qui a refusé de signer toute déclaration statutaire) :
+[...] Joseph m'apportait les dossiers de petites créances et je préparais les dossiers et je les remettais à Joseph pour qu'il les fasse. Je ne peux pas vous citer aucun nom de clients qui avait [sic] une mauvaise créance, je ne me souviens pas, il n'y en avait pas à la tonne. Je ne peux pas vous donner aucun nom de personne qui travaillait ou qui travaille encore pour la compagnie. C'est Joseph ou Jacinthe qui m'apportait le travail à la maison. Je n'allais pas sur la route, je travaillais à la maison. Je ne sais pas le nombre d'heures que je travaillais, je ne les comptais pas et je n'avais pas d'horaire; je ne peux pas dire quels jours de la semaine je travaillais, je travaillais le soir et les fins de semaine deux heures par-ci par-là et personne ne contrôlait ce que je faisais ou quand je le faisais. Je faisais des choses sur mon ordinateur mais je ne peux pas expliquer quelles choses je faisais, je ne m'en souviens pas, même si c'est en 2001.
+Je ne sais pas pourquoi je n'ai pas déclaré sur certaine [sic] de mes demandes de prestations que j'avais un lien de parenté avec l'employeur Boiserie Dubé, soit Joseph Dubé qui est maintenant mon ex-conjoint.
+Je ne sais pas pourquoi je n'ai pas déclaré le relevé d'emploi de Boiserie Dubé du 08-06-97 au 12-09-97 lorsque j'ai fait ma demande de renouvellement des prestations le 18 novembre 1997.
+[Je souligne.]
+[96] Or, madame Garneau a nié avoir apporté du travail à madame Bellefeuille :
+Je peux dire que ce n'est pas moi qui apportait le travail à la maison pour Denise Bellefeuille, c'était Joseph. Elle s'occupait du travail pour les petites créances et elle allait porter les documents aux avocats. (pièce I-32, 5e page)
+[Je souligne.]
+[97] Dans sa déclaration statutaire du 24 novembre 1999, monsieur Dubé a justifié le salaire de 800 $ versé à madame Bellefeuille pour 6 à 7 semaines, de septembre 1999 au 15 octobre 1999, par le fait qu'elle était « la plupart du temps [...] sur la route pour monter une quinzaine de dossiers de clients mauvaises créances. [...] elle devait assumé [sic]ses dépenses de déplacement [...] » (pièce I-23). Dans sa déclaration statutaire faite le 26 novembre 1999, soit deux jours après celle de son mari, madame Bellefeuille avait également justifié ce salaire de 800 $, disant qu'il était accordé « à cause du volume de travail plus élevé et aussi pour payer mes déplacements en auto » (pièce A-25). Or, selon le passage reproduit ci-dessus, au paragraphe 95, madame Bellefeuille a indiqué qu'elle n'allait pas sur la route et qu'elle travaillait à la maison. Lorsque l'enquêteuse l'a confrontée à sa déclaration antérieure du 26 novembre 1999, madame Bellefeuille a été incapable d'expliquer cette contradiction. Elle a alors répondu : « Je ne sais pas et je ne veux plus rien dire » (pièce I-35, 6e page). Lors de la rencontre du 8 mai 2002, on lui a mentionné l'existence de plusieurs chèques de 150 $ lui ayant été remis en 2001 et en 2002 pour kilométrage, mais madame Bellefeuille n'a pas été, là non plus, en mesure de fournir des explications (pièce A-26, 4e page).
+Absence de contrat de travail/trompe-l'oeil
+Guylaine Dubé
+[98] Le prétendu contrat de travail liant Guylaine Dubé au payeur et celui la liant à BDC constituent des exemples manifestes de simulation de contrat de travail, de trompe-l'oeil. Madame Dubé a reconnu qu'elle n'avait pas fourni de travail au payeur et que l'argent qu'elle recevait n'était pas le sien : elle endossait les chèques du payeur et les remettait à sa mère. Le mari de Guylaine Dubé a confirmé qu'elle n'avait travaillé ni pour BDC ni pour le payeur. Monsieur Dubé l'a reconnu lui-même lors de l'enquête et lors de l'audience. Les commissions qu'elle a pu faire pour son père sont du genre de celles que l'on fait pour s'entraider entre membres d'une même famille. Il y a ici trompe-l'oeil puisque les trois éléments essentiels à l'existence du contrat de travail sont absents : Guylaine Dubé et le payeur n'ont jamais eu l'intention qu'elle fournisse un travail en contrepartie d'un salaire et, par conséquent, il y avait absence de lien de subordination. L'argent versé par BDC et le payeur représentait davantage de la rémunération pour le travail de monsieur Dubé chez ces deux entreprises. À l'égard des prétendus emplois de Guylaine Dubé chez BDC et chez le payeur, le ministre aurait raison de soutenir qu'il ne s'agissait pas d'emplois véritables. Ces emplois n'étaient véritables ni aux fins du Code civil ni, par conséquent, aux fins de la LAE.
+Jacinthe Garneau
+[99] En ce qui concerne le contrat entre madame Garneau et le payeur, je n'ai aucune hésitation à conclure qu'il s'agissait d'un véritable contrat de travail. Toutes les conditions nécessaires à l'existence d'un tel contrat étaient présentes. Madame Garneau a fourni un travail en contrepartie d'un salaire et le payeur avait un pouvoir de direction ou de contrôle sur le travail de madame Garneau. Le fait que certaines conditions de l'emploi puissent être considérées comme déraisonnables n'invalide pas le contrat, mais pourrait entraîner son exclusion des emplois assurables en vertu de l'alinéa 5(2)i) LAE, comme on le verra ci-dessous.
+Denise Bellefeuille
+[100] Quant à madame Bellefeuille, sa situation est loin d'être aussi claire que celle de madame Garneau ou de Guylaine Dubé. En effet, comme l'agent d'assurabilité et l'agent des appels l'ont constaté, la preuve est loin d'établir de façon concluante que madame Bellefeuille a fourni un travail pour l'argent que lui versait le payeur. Tout d'abord, Guylaine Dubé a témoigné qu'elle ne croyait pas que sa mère avait travaillé pour le payeur. De plus, il est indiqué au résumé de l'entrevue qu'a eue l'enquêteuse de DRH avec madame Bellefeuille (pièce I-35, 5e page) que madame Garneau n'a pas fourni le dossier d'employé de Denise Bellefeuille lorsque DRH a demandé les dossiers de tous les employés du payeur. Rappelons également que madame Bellefeuille a reconnu qu'elle n'avait pas travaillé de façon continue du 21 juin 1998 au 15 octobre 1999. Voilà un élément qui démontre clairement l'absence de prestation de services et de versement d'argent en contrepartie. Il n'y a même pas de relevé de salaire qui a été produit pour la période postérieure au 2 janvier 1999. Il est évident que le relevé d'emploi de madame Bellefeuille du 20 octobre 1999, comme plusieurs autres qu'a préparés madame Garneau, est faux et trompeur.
+[101] Le fait que le témoignage de madame Bellefeuille ainsi que celui de monsieur Dubé et de madame Garneau ont été évasifs, vagues ou contradictoires relativement aux services fournis par madame Bellefeuille ajoute à la difficulté de la tâche. Par exemple, madame Bellefeuille a dit qu'elle faisait son travail pour le payeur à la maison et que monsieur Dubé ou madame Garneau lui y apportait son travail. Or, madame Garneau a nié avoir apporté du travail chez madame Bellefeuille. À cela s'ajoute le témoignage de l'enquêteuse, qui a révélé que, lors de l'entretien qu'elle a eu avec madame Bellefeuille, cette dernière n'a pas été en mesure de fournir de détails relatifs à son travail chez le payeur, alors qu'elle en a donné beaucoup plus sur le travail effectué chez les différents notaires. Comme on l'a vu au paragraphe 95, elle n'était en mesure de « citer aucun nom de clients qui avait [sic] une mauvaise créance » , alors que s'occuper des mauvaises créances semble avoir été son activité la plus importante. De plus, elle était incapable d'expliquer quelles choses elle faisait sur son ordinateur. Avec une preuve aussi faible et étant donné le témoignage de Guylaine Dubé, qui ne croyait pas que sa mère avait travaillé pour le payeur, il n'est pas surprenant que l'agent d'assurabilité ait cru qu'elle n'avait pas travaillé pour le payeur.
+[102] Le principal élément de preuve qui appuie la position de madame Bellefeuille est le témoignage de l'avocat Lessard, qui est venu confirmer que madame Bellefeuille lui avait apporté des documents du payeur à son bureau, à Varennes, la ville où habitait et travaillait madame Bellefeuille. Par contre, il n'a pas été en mesure de préciser le travail qu'aurait pu faire madame Bellefeuille relativement aux dossiers de recouvrement, sauf qu'il a dit qu'elle lui apportait les documents et qu'il pouvait lui demander des précisions. Fait curieux, Me Lessard affirme avoir communiqué à l'occasion avec madame Bellefeuille au bureau du payeur. Or, comme on l'a vu ci-dessus, elle n'a pas travaillé au bureau. Elle l'a fait chez elle. Cette contradiction soulève un doute sur le témoignage de l'avocat. Par contre, il a semblé plus confiant lorsqu'il a mentionné qu'il communiquait plus souvent avec monsieur Dubé ou madame Garneau.
+[103] Il est donc fort probable que le travail de madame Bellefeuille a pu se résumer à agir uniquement comme messager, à « faire des [...] commissions » . Elle apportait des documents à l'avocat Lessard dont le bureau était voisin de celui des notaires dont elle était l'employée. Lorsque la notaire qui était sa patronne a quitté ce bureau de notaires pour s'installer ailleurs à Varennes, madame Bellefeuille a continué à livrer des documents à Me Lessard. Toutefois, ce dernier a dit que les 10 ou 15 visites de madame Bellefeuille s'étaient produites jusqu'au début de 2000, et celle-ci a reconnu lors de son témoignage qu'elle avait « vraiment cessé d'aller chez Me Lessard [...] aux alentours de l'an 2000. [...] J'y allais moins souvent, ça c'est sûr. » (Vol. 4 de la transcription, p. 293, Q. 1021.) Cette situation pourrait s'expliquer par le fait qu'elle avait cessé de faire vie commune avec monsieur Dubé à la fin de 1999.
+[104] Il est aussi fort probable que les sommes remises par le payeur à madame Bellefeuille représentent davantage des sommes dues à monsieur Dubé pour le travail qu'il a effectué pour le payeur. Lorsqu'il était au service de BDC et, ensuite, du payeur, monsieur Dubé a reçu une rémunération bien en deçà de ce qu'un gestionnaire aurait pu toucher. Il ne recevait que 250 $ par semaine. La rémunération à laquelle monsieur Dubé avait droit chez BDC et chez le payeur pouvait comprendre à la fois les sommes versées à Guylaine Dubé, sa fille, et celles payées à son épouse, madame Bellefeuille. Monsieur Dubé avait intérêt à agir de cette façon puisqu'il pouvait ainsi espérer recevoir une rente d'invalidité de la CSST. Et même si cela n'avait pas été le cas, monsieur Dubé pouvait réduire l'impôt qu'il avait à payer, grâce à la répartition de ses revenus entre trois personnes. Il est important de souligner que madame Bellefeuille ne travaillait pas toute l'année au cabinet de notaires et avait donc des revenus modestes.
+[105] Le fait que Guylaine Dubé a reconnu n'avoir jamais travaillé pour le payeur ajoute du poids à cette interprétation des faits. Cela rend plus plausible que les sommes reçues par madame Bellefeuille de BDC et du payeur étaient de la même nature que celle des sommes versées à Guylaine Dubé. Cet argent servait à subvenir aux besoins domestiques de la famille Dubé. Après la séparation du couple Dubé, il est vraisemblable que le payeur a continué à verser des sommes à madame Bellefeuille au bénéfice de monsieur Dubé, qui pouvait avoir des obligations alimentaires envers madame Bellefeuille. Si la rémunération versée par le payeur à madame Bellefeuille représente de la rémunération pour des services de monsieur Dubé, il est clair que le contrat de travail de madame Bellefeuille serait une simulation, un trompe-l'oeil, et que le prétendu emploi de madame Bellefeuille ne serait pas un emploi véritable au sens du Code civil ni, par conséquent, aux fins de la LAE.
+• Contrat de service de madame Bellefeuille
+[106] De toute façon, même si, dans les faits, madame Bellefeuille avait rendu des services au payeur dans le cadre d'un contrat à titre onéreux, il s'agirait plutôt d'un contrat de service et non pas d'un contrat de travail. En effet, le travail qu'a fourni madame Bellefeuille, si on se fie à sa version des faits et à celle de monsieur Dubé, représente des tâches bien définies, à savoir : la préparation des dossiers pour l'avocat pour que ce dernier entreprenne des procédures de recouvrement, la livraison de ces documents à cet avocat, un peu de travail de confection de modèles de factures ou autres tâches semblables bien définies. Même s'il ne vérifiait pas les heures, a affirmé monsieur Dubé, il vérifiait le travail de madame Bellefeuille puisque le résultat était là. Son procureur lui a demandé s'il avait le pouvoir de contrôler le travail de madame Bellefeuille. Il a répondu par l'affirmative. Par contre, il a reconnu, en répondant à l'une de mes questions, qu'il aurait pu donner les mêmes directives si madame Bellefeuille avait été travailleuse autonome.
+[107] L'ensemble de la preuve m'amène à conclure à l'absence d'un lien de subordination entre elle et le payeur, lien constituant une des conditions essentielles à l'existence d'un contrat de travail. À mon avis, le payeur n'avait pas de pouvoir de direction ou de contrôle sur le travail de madame Bellefeuille. Le seul contrôle que pouvait exercer le payeur sur elle était celui qu'un client exerce sur un prestataire de services. Les circonstances dans lesquelles le travail a été exécuté par madame Bellefeuille révèlent d'importants indices d'autonomie. Cette dernière avait toute la flexibilité nécessaire pour exécuter au moment qui lui convenait les tâches qu'on lui avait confiées. Madame Bellefeuille avait besoin de cette flexibilité, car la plupart du temps elle travaillait aussi à temps plein dans un cabinet de notaires. Le fait que madame Bellefeuille ne travaillait pas à l'établissement du payeur, même lorsque son emploi chez les notaires était terminé, est un autre indice de son autonomie.
+• Exclusion en raison du lien de dépendance
+[108] De toute façon, même si un lien de subordination existait entre madame Bellefeuille et le payeur et qu'un contrat de travail les liait, ce contrat de travail serait clairement exclu de la définition d'emploi assurable en raison du lien de dépendance qui existait entre eux. Pour définir la notion de lien de dépendance, l'alinéa 5(3)a) LAE nous renvoie à la LIR. Voici les dispositions pertinentes de la LIR :
+248 (1) Définitions - Les définitions qui suivent s'appliquent à la présente loi[79].
+« union de fait » Relation qui existe entre deux conjoints de fait.
+« conjoint de fait » Quant à un contribuable à un moment donné, personne qui, à ce moment, vit dans une relation conjugale avec le contribuable et qui, selon le cas :
+a) a vécu ainsi tout au long d'une période d'un an se terminant avant ce moment;
+b) est le père ou la mère d'un enfant dont le contribuable est le père ou la mère, compte non tenu des alinéas 252(1)c) et e) ni du sous-alinéa 252(2)a)(iii).
+Pour l'application de la présente définition, les personnes qui, à un moment quelconque, vivent ensemble dans une relation conjugale sont réputées, à un moment donné après ce moment, vivre ainsi sauf si elles ne vivaient pas ensemble au moment donné, pour cause d'échec de leur relation, pendant une période d'au moins 90 jours qui comprend le moment donné.
+251(1) Lien de dépendance - Pour l'application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance[80];
+[...]
+c) en cas d'inapplication de l'alinéa b), la question de savoir si des personnes non liées entre elles n'ont aucun lien de dépendance à un moment donné est une question de fait[81].
+251(2) Définition de « personnes liées » - Pour l'application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage, de l'union de fait[82] ou de l'adoption;
+b) une société et :
+(i) une personne qui contrôle la société si cette dernière est contrôlée par une personne,
+(ii) une personne qui est membre d'un groupe lié qui contrôle la société,
+(iii) toute personne liée à une personne visée au sous-alinéa (i) ou (ii);
+251(6) Personnes liées par les liens du sang - Pour l'application de la présente loi :
+[...]
+b) des personnes sont unies par les liens du mariage si l'une est mariée à l'autre ou à une personne qui est ainsi unie à l'autre par les liens du sang;
+b.1) des personnes sont unies par les liens d'une union de fait si l'une vit en union de fait avec l'autre ou avec une personne qui est unie à l'autre par les liens du sang;
+252(4) Dans la présente loi :
+a) les mots se rapportant au conjoint d'un contribuable à un moment donné visent également la personne de sexe opposé qui, à ce moment, vit avec le contribuable en union conjugale et a vécu ainsi durant une période de douze mois se terminant avant ce moment ou qui, à ce moment, vit avec le contribuable en union conjugale et est le père ou la mère d'un enfant dont le contribuable est le père ou la mère, compte non tenu de l'alinéa (1)e) et du sous-alinéa (2)a)(iii); pour l'application du présent alinéa, les personnes qui, à un moment quelconque, vivent ensemble en union conjugale sont réputées vivre ainsi à un moment donné après ce moment, sauf si elles ne vivaient pas ensemble au moment donné, pour cause d'échec de leur union, pendant une période d'au moins 90 jours qui comprend le moment donné;
+b) la mention du mariage vaut mention d'une union conjugale entre deux particuliers dont l'un est le conjoint de l'autre par l'effet de l'alinéa a);
+c) les dispositions applicables à une personne mariée s'appliquent à la personne qui est le conjoint d'un contribuable par l'effet de l'alinéa a);
+d) les dispositions applicables à une personne non mariée ne s'appliquent pas à la personne qui est le conjoint d'un contribuable par l'effet de l'alinéa a).
+[Je souligne.]
+Denise Bellefeuille
+[109] Ici, madame Bellefeuille était la femme de monsieur Dubé et, de ce fait, elle lui était « liée » au sens de l'alinéa 251(2)a) LIR. Comme monsieur Dubé contrôlait le payeur, madame Bellefeuille était liée au payeur et avait un lien de dépendance avec le payeur (sous-alinéa 251(2)b)(iii) et alinéa 251(1)a) LIR). Lorsque les parties à un contrat de travail ont un lien de dépendance parce qu'elles sont liées (alinéa 251(1)a)) et que l'emploi créé par ce contrat pourrait de ce fait être exclu de la définition d'emploi assurable, il revient au ministre de déterminer en vertu de l'alinéa 5(3)b) LAE si ces parties peuvent être réputées ne pas avoir entre elles de lien de dépendance et, par conséquent, si, ici, madame Bellefeuille occupait un emploi assurable. Plus précisément, ce que cet alinéa édicte c'est que dans ce genre de cas « l'employeur et l'employé [...] sont réputés ne pas avoir de lien de dépendance si le ministre [...] est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance » .
+[110] Ce pouvoir de détermination du ministre « doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés » [83] et cette Cour doit, à la lumière des faits révélés au ministre et de ceux démontrés à la Cour, décider si la conclusion du ministre paraît toujours « raisonnable » . Si tel est le cas, le ministre aura exercé son pouvoir de façon « appropriée » .
+[111] En outre, l' « appréciation objective » des circonstances, telles la rétribution et les modalités d'emploi, est incompatible avec une appréciation « arbitraire » . Pour décider si les termes du contrat de travail d'un salarié et de son employeur auraient été à peu près semblables s'ils n'avaient pas eu de lien de dépendance, il est utile, sinon nécessaire, de pouvoir les comparer avec ceux de contrats de travail qui ont été conclus entre personnes n'ayant de lien de dépendance ni légal ni factuel. L'alinéa 5(3)b) LAE ne dit pas que le ministre est tenu de faire cette comparaison et encore moins ne précise-t-il pour quels contrats il doit la faire. Toutefois, pour que la conclusion du ministre paraisse raisonnable, l'existence de tels points de comparaison semble être souhaitable. En tout cas, la comparaison permettra de conclure plus facilement au caractère raisonnable de cette conclusion.
+[112] Voici les motifs invoqués par l'agent des appels pour justifier sa décision que madame Bellefeuille n'avait pas d'emploi assurable (pièce I-40, p. 9) :
+Rétribution versée : Elle a varié de 240 $ à 800 $ par semaine.
+Modalités d'emploi :La travailleuse aurait travaillé chez elle et sur la route sans contrôle des heures de l'aveu même du payeur.
+Durée du travail : La travailleuse aurait effectué certaines tâches de façon intermittentes [sic] entre 1997 et 2001.
+Nature et importance du travail : A part Me Lessard, qui affirme qu'il a rencontré la travailleuse à son bureau, sans toutefois pouvoir juger de la quantité de travail que la travailleuse aurait fait, nous croyons que le travail fait par la travailleuse est très faible voir [sic] négligeable. Il ne peut en aucun cas justifier un salaire de 750$ ou 800$ versé en 1999 et 2000 sur plusieurs semaines.
+Conséquemment, nous croyons que le payeur et la travailleuse n'auraient pas conclu entre eux un tel contrat de travail s'ils n'avaient pas eu un lien de dépendance. L'emploi n'est pas un emploi assurable en vertu de l'alinéa 5(2)i) de la Loi sur l'assurance-emploi.
+[...]
+(VIII) RECOMMENDATION - RECOMMANDATION :
+Nous recommandons que les notifications ministérielles stipulent que Denise Bellefeuille n'occupait pas un emploi assurable en vertu de l'alinéa 5(1)a) de la Loi sur l'assurance-emploi. Subsidiairement, elle n'occupait pas un emploi assurable en vertu de l'alinéa 5(2)i de la Loi sur l'assurance-emploi lorsqu'elle était au service de Boiserie Dubé et associés Inc. durant les périodes visées.
+[Je souligne.]
+[113] La preuve présentée par madame Bellefeuille ne m'a pas convaincu que la décision du ministre ne paraît pas raisonnable ou qu'elle est inappropriée. D'ailleurs, si j'avais eu à rendre la décision, j'aurais rendu la même que celle du ministre. Je suis tout à fait d'accord avec l'agent des appels que le travail fourni par la travailleuse était « très faible voir [sic] négligeable » , par rapport au salaire de 750 $ ou de 800 $. J'ajouterai même qu'il en est ainsi par rapport au salaire de 240 $. Comme le révèle les tableaux 9 et 10 ci-dessus, les taux horaires de madame Bellefeuille chez le payeur étaient beaucoup plus élevés que ceux auxquels elle avait droit chez les notaires. Le salaire horaire moyen de madame Bellefeuille, selon les registres de paie du payeur pour les années 1997 et 1998 était de 15 $, soit 50 % de plus que ce qu'elle touchait chez les notaires (tableau 9 ci-dessus). Même en tenant pour acquis que madame Bellefeuille a réellement travaillé entre 7 et 15 heures par semaine, comme elle l'a déclaré à l'audience, on obtient un salaire horaire chez le payeur qui représente environ le double et parfois le triple de celui qu'elle gagnait chez les notaires, qui eux, selon toute apparence, n'avaient aucun lien de dépendance (légal ou factuel) avec madame Bellefeuille (tableau 10 ci-dessus). Il s'agit là d'un salaire bien au-delà que ce qu'un employeur aurait versé à une salariée avec laquelle il n'avait pas de lien de dépendance.
+Jacinthe Garneau
+[114] L'agent des appels a déterminé qu'il existait un lien de dépendance légal entre madame Garneau et le payeur parce que ces deux personnes étaient liées au sens de l'article 251 LIR. Pour tirer cette conclusion, cet agent semble avoir tenu pour acquis que madame Garneau était la maîtresse de monsieur Dubé depuis 1996 et sa conjointe de fait depuis le 4 décembre 1999 parce qu'ils partageaient le même logement à partir de cette date. Comme monsieur Dubé contrôlait 75 % des actions avec droit de vote du payeur, il existait un lien de dépendance entre madame Garneau et le payeur.
+[115] Dans cette analyse, l'agent des appels a commis une erreur de droit. C'est à tort qu'il a conclu que madame Garneau avait un lien de dépendance légal avec le payeur durant les périodes Garneau, sauf à l'égard de la dernière période, celle du 4 mars 2001 au 22 juin 2001. En vertu du paragraphe 251(2) LIR, des particuliers comme monsieur Dubé et madame Garneau ne sont des « personnes liées » avant 2001 que s'ils sont unis par les liens du mariage, et pour les années d'imposition 2001 et suivantes, que s'ils sont unis par les liens de l'union de fait. Selon le paragraphe 252(4) LIR, les personnes de sexe opposé vivant en union conjugale durant une période de douze mois sont considérées comme étant unies par les liens du mariage pour les années antérieures à 2001.
+Premières périodes Garneau
+[116] Comme la preuve a révélé que monsieur Dubé et madame Garneau n'ont cohabité qu'à partir de décembre 1999, ils n'ont pu être liés par les liens du mariage ou de l'union de fait que douze mois plus tard, soit en décembre 2000, ou, si on retenait la version de madame Garneau, en janvier 2001. Le fait qu'ils aient pu être amant et maîtresse depuis 1996 ne change pas la situation. Par conséquent, ces personnes n'étaient des personnes liées - et donc réputées avoir entre elles un lien de dépendance - que relativement à la dernière période Garneau. Pour les autres périodes Garneau (premières périodes Garneau), il faut qu'un lien de dépendance factuel ait existé entre madame Garneau et le payeur pour que l'emploi de madame Garneau soit exclu des emplois assurables. Voici ce que j'écrivais dans l'affaire Massignani sur cette question :
+80 Avant 1993, madame Provost n'était pas liée à Tiva et, par conséquent, il n'existe pas de présomption légale de lien de dépendance entre elle et Tiva, comme c'est le cas après 1992. Cela étant, il faut déterminer si, dans les faits, un tel lien de dépendance existait. La notion de lien de dépendance a fait l'objet de nombreux commentaires dans la jurisprudence. Mon collègue le juge Bonner a eu à se pencher sur cette notion dans l'affaire McNichol c. Canada, [1997] A.C.I. No 5, para. 16 [97 DTC 111, aux pages 117 et 118] :
+On utilise communément trois critères pour déterminer si les parties à une opération ont entre elles un lien de dépendance. Il s'agit des critères suivants :
+a) l'existence d'une même personne qui dirige les négociations de deux parties à une transaction,
+b) les parties à une transaction agissent de concert et n'ont pas d'intérêts distincts, et
+c) le contrôle « de facto » (réel).
+Le critère relatif à l'existence d'une même personne résulte de deux jugements, notamment en premier lieu le jugement que la Cour suprême du Canada a rendu dans l'affaire M.N.R. v. Sheldon's Engineering Ltd. Aux pages 1113-1114, le juge Locke, qui parlait au nom de la Cour, a dit ceci :
+[TRADUCTION]
+Lorsqu'une même personne contrôle des compagnies directement ou indirectement, que cette personne soit un individu ou une compagnie, des compagnies contrôlées sont, aux termes de cet article, censées ne pas traiter entre elles à distance. Les dispositions de cet article mises à part, dans le cas d'une vente d'éléments d'actif dépréciables par un contribuable à une entité qu'il contrôle ou par une compagnie contrôlée par le contribuable à une autre compagnie également contrôlée par lui, le contribuable dictant à titre d'actionnaire majoritaire les conditions de la transaction, on ne peut à mon avis prétendre sérieusement que les parties traitaient entre elles à distance et que l'article 20(2) ne s'appliquait pas.
+En second lieu, la décision que le juge Cattanach a rendue dans l'affaire M.N.R. v. T R Merritt Estate est également utile. Aux pages 5165-5166, voici ce que le juge a dit :
+[TRADUCTION]
+Selon moi, le principe fondamental sur lequel se fonde la présente analyse est le suivant : lorsque les négociations menées au nom de chacune des deux parties au contrat sont en fait dirigées par le même « cerveau » , on ne peut dire que les parties traitent à distance. En d'autres termes, lorsque la preuve révèle que la même personne « dictait » les « conditions de la transaction » au nom de chacune des deux parties, on ne peut dire que les parties traitaient à distance.
+Le critère voulant que les parties agissent de concert montre jusqu'à quel point il est important que la négociation ait lieu entre des parties distinctes, qui cherchent chacune à protéger leurs propres intérêts. Ce critère est énoncé dans la décision que la Cour de l'Échiquier a rendue dans l'affaire Swiss Bank Corporation v. M.N.R. À la page 5241, le juge Thurlow (tel était alors son titre) a dit ceci :
+J'ajouterais que lorsque plusieurs parties, qu'elles soient des personnes physiques, des compagnies ou une combinaison des deux, agissent de concert et dans le même intérêt pour diriger ou dicter la conduite d'une autre, le « cerveau » directeur peut à mon avis être celui de l'ensemble des parties agissant de concert ou celui d'une seule d'entre elles qui remplit un rôle ou des fonctions particulières qu'il faut accomplir pour atteindre l'objectif commun. De plus, à mon sens, il n'y a lieu de faire aucune distinction à ce titre entre des personnes qui agissent à leur propre compte pour en contrôler d'autres et celles qui, quelque nombreuses qu'elles soient, se font représenter par une autre. D'autre part, si l'une des parties à une transaction agit dans un intérêt différent de celui des autres ou le représente, le fait que le but commun soit de diriger les actes d'une autre partie de façon à obtenir un résultat bien précis ne suffira pas en soi à enlever à la transaction son caractère de transaction entre personnes traitant à distance. Selon moi, l'affaire Sheldon's Engineering [précitée] en est un exemple.
+Enfin, il est à noter que l'existence d'une relation sans lien de dépendance est exclue si l'une des parties à l'opération en cause exerce un contrôle de fait sur l'autre. À cet égard, on peut mentionner la décision que la Cour d'appel fédérale a rendue dans l'affaire Robson Leather Company Ltd. v. M.N.R., 77 DTC 5106.
+[...]
+81 Pour déterminer s'il existe effectivement un lien de dépendance, les tribunaux analysent l'ensemble des faits. Parmi ceux qui peuvent être indicateurs d'un lien de dépendance, il y a le fait que les modalités de l'acquisition d'un bien ne correspondent pas à une opération commerciale ordinaire. Dans l'affaire Petro-Canada v. The Queen, 2003 DTC 94, le juge Bowie concluait ainsi au paragraphe 82 :
+[...] The evidence leaves me in no doubt that these transactions did not reflect ordinary commercial dealings between the vendors and the purchasers acting in their own interests and so were not at arm's length. [...]
+82 Il y a aussi le commentaire du juge Rip dans l'affaire Freedman Holdings Inc. v. The Queen, 96 DTC 1447, qui indiquait à la page 1453 que les lignes directrices apparaissant dans le Bulletin d'interprétation IT-419R lui semblaient être une application raisonnable de la jurisprudence. Parmi ces lignes directrices, il y a le paragraphe 19 que je reproduis ici :
+19. Une transaction non réalisée à la juste valeur marchande peut indiquer une transaction entre parties ayant un lien de dépendance. Toutefois, cette situation n'est pas concluante et, inversement, une transaction réalisée à la juste valeur marchande entre personnes non liées n'indique pas nécessairement une absence de lien de dépendance. Le principal facteur à prendre en considération est la question de savoir s'il existe des intérêts économiques distincts qui indiquent une transaction commerciale courante entre parties ayant des intérêts distincts.
+83 À mon avis, cela ne constitue qu'un des éléments dont les tribunaux doivent tenir compte pour déterminer s'il existe un lien de dépendance dans des cas où se présentent les indices d'une opération négociée alors qu'en réalité une des parties exerce sur l'autre une influence telle que cette dernière n'est pas libre de participer à l'opération de façon indépendante. En effet, quoique le juge Bonner (comme bien d'autres) énonce trois critères distincts pour cerner la notion de lien de dépendance, il s'agit essentiellement d'un seul et même critère que l'on peut résumer succinctement ainsi : y a-t-il un contrôle ou une influence importante exercée par une partie sur l'autre? Ce que les trois critères visent à déterminer c'est l'existence d'une relation entre des personnes qui sont parties à une opération quelconque alors qu'une d'elles exerce sur l'autre une influence telle que cette dernière n'est plus libre d'y participer de façon indépendante.
+[Je souligne.]
+[117] Il y a également ces propos que j'ai tenus dans l'affaire McMillan c. Canada (M.R.N.), [1996] A.C.I. no 1384 (QL) :
+21 M. McMillan et BLI n'étaient pas liés. En l'espèce, la question de savoir si M. McMillan et BLI n'avaient aucun lien de dépendance demeure une question de fait. Les tribunaux ont statué qu'il y a lien de dépendance dans une opération donnée lorsqu'en raison du lien entre les parties, celles-ci ne sont pas en mesure de négocier des modalités qui reflètent les contraintes commerciales actuelles du marché. C'est le cas lorsqu'une partie contrôle l'autre ou que les deux parties sont contrôlées par la même personne. Dans un arrêt de la Cour suprême du Canada, Swiss Bank Corporation et al. v. M.N.R., 72 D.T.C. 6470, aux pages 6473 et 6474, le juge Laskin a déclaré :
+[...] Bien que les circonstances de l'espèce ne présentent pas le genre ordinaire d'opérations non à distance dont cette Cour a parlé dans l'arrêt Ministre du Revenu national c. Sheldon's Engineering Ltd. [1955] R.C.S. 637 [55 D.T.C. 1110], elles assujettissent le présent litige au principe qui est sous-jacent à l'interdiction qu'exprime l'art. 106(1)b)(iii)(A), savoir, que le payeur et le bénéficiaire ne doivent pas être des personnes qui, en réalité, traitent exclusivement l'une avec l'autre au moyen d'un fonds constitué par le bénéficiaire au profit du bénéficiaire. Une bonne raison pour cela, suggérée par le texte législatif lui-même, c'est l'assurance que le taux d'intérêt sera le reflet d'opérations commerciales ordinaires entre des parties agissant dans le sens de leurs intérêts distincts. Il faut conclure que des rapports de prêteur à emprunteur qui n'offrent pas cette assurance parce que, effectivement, les intérêts ne sont pas distincts, ne s'insèrent pas dans l'exception qui exempte tout non-résident de l'impôt sur des paiements d'intérêts canadiens. Le fait que l'intérêt réellement autorisé ou payé est compatible avec une opération à distance ne suffit pas en soi à esquiver cette conclusion.
+[...]
+23 Dans l'arrêt Swiss Bank Corporation, précité, le juge Laskin a déclaré que le fait que les modalités d'un contrat sont compatibles avec une opération entre personnes sans lien de dépendance ne suffit pas en soi à esquiver la conclusion suivant laquelle deux parties ont un lien de dépendance. J'ajouterais cependant que le fait que les modalités d'un contrat ne sont pas compatibles avec une opération entre personnes sans lien de dépendance est une très bonne indication de l'existence d'un lien de dépendance. Lorsque, en plus, la preuve est faite qu'un lien spécial unit les parties, de sorte qu'il est difficile de croire qu'elles ont négocié les modalités d'un contrat dans leur intérêt personnel respectif, il devient alors presque inévitable de conclure que les parties avaient un lien de dépendance.
+24 En l'espèce, je conclus que les modalités du contrat de louage de services, si tant est qu'un tel contrat existait, ne sont pas de la nature de celles que des personnes sans lien de dépendance auraient conclues. D'une part, je ne crois pas qu'une personne accepterait de travailler sans rétribution pour une personne avec laquelle elle n'a aucun lien de dépendance. M. McMillan a consenti à travailler pour BLI sans aucune rétribution lorsqu'il pelletait régulièrement l'hiver. Pour reprendre les mots mêmes de M. McMillan, « il y avait beaucoup de neige à pelleter et chaque fois, cela prenait de deux à trois heures » . Il a déclaré qu'il le faisait parce qu'il « aimait ça » . Cependant, seul BLI bénéficiait de ce service.
+25 D'autres éléments indiquent aussi l'existence d'un lien de dépendance. À plusieurs occasions, M. McMillan a accepté de toucher un salaire inférieur à celui auquel il avait droit pour ses services. En outre, M. McMillan a reconnu qu'il travaillait un plus grand nombre d'heures, sans recevoir d'autre rétribution que ce qui avait été convenu entre lui et BLI. Enfin, il existait un lien étroit entre M. McMillan et Mme Leblanc, la propriétaire de BLI[84].
+[Je souligne.]
+Existait-t-il un lien de dépendance factuel entre madame Garneau et le payeur de 1997 à 2000?
+[118] Comme le payeur était contrôlé par monsieur Dubé, un lien de dépendance factuel entre monsieur Dubé et madame Garneau pourrait constituer un indice révélateur d'un lien de dépendance factuel entre le payeur et cette dernière. Quels sont les faits qui pourraient révéler l'existence d'un tel lien? Tout d'abord, il y a le fait que madame Garneau ait pu être la maîtresse de monsieur Dubé depuis 1996. De ce côté, la preuve est contradictoire. De plus, l'intimé n'a pas présenté la meilleure preuve relativement à l'existence de ce fait, puisque le témoignage de monsieur Maltais constitue du ouï-dire. La force probante de ce témoignage est moins grande qu'elle ne l'aurait été si monsieur Dubuc, qui aurait été témoin des ébats sexuels mentionnés plus haut, avait lui-même témoigné. Il aurait été certainement utile que cet employé vienne témoigner devant la Cour. Toutefois, il convient de rappeler que c'est madame Garneau qui avait le fardeau de la preuve, à savoir de démontrer qu'elle n'était pas la maîtresse de monsieur Dubé en 1996[85]. Or, monsieur Dubé et madame Garneau ont nié avoir eu une telle relation en 1996. Monsieur Dubé n'aurait commencé à courtiser madame Garneau qu'à l'été 1997.
+[119] En contre-preuve, pour contrer l'affirmation de monsieur Maltais, qui établissait à un moment quelconque en 1997 le début de la cohabitation de madame Garneau et de monsieur Dubé, celui-ci a affirmé qu'il n'avait pas eu de relations intimes avec madame Garneau avant le mois de décembre 1998. Toutefois, monsieur Dubé est décrit comme le nouveau conjoint de madame Garneau dans une requête de celle-ci du 6 octobre 1998. Pour pouvoir faire une telle affirmation, il a bien fallu que des liens d'union de fait se créent au cours d'une certaine période précédant le 6 octobre 1998! Quoi qu'il en soit, il est clair qu'ils sortaient ensemble à partir de mai ou juin 1997. Cela concorderait au moins en partie avec le témoignage sous forme de ouï-dire de monsieur Maltais, qui affirmait que monsieur Dubé et madame Garneau vivaient ensemble à cette époque. Même si je crois que madame Garneau a commencé à travailler pour le payeur vers la fin de février 1997, le début officiel de son travail chez le payeur, selon le registre de paie (pièce A-10) et selon le relevé d'emploi (pièce I-5) de madame Garneau, se situe au 5 mai 1997, soit à peu près dans la période où monsieur Dubé reconnaît qu'il sortait avec madame Garneau.
+[120] Un autre élément qui pourrait justifier une conclusion à l'existence d'un lien de dépendance factuel serait la preuve que les circonstances étaient telles entre monsieur Dubé et madame Garneau de 1997 à 2000 que les parties n'étaient pas en mesure de négocier une entente contractuelle qui reflétait les conditions du marché. La preuve de l'existence de telles circonstances peut être faite en démontrant que les termes du contrat de travail étaient déraisonnables. Les termes du contrat de travail de madame Garneau avec le payeur étaient-elles suffisamment déraisonnables pour permettre d'en inférer l'existence d'un lien de dépendance factuel entre elle et le payeur?
+[121] Tout d'abord, à première vue, la rémunération hebdomadaire de 525 $ versée à madame Garneau par le payeur en 1997 semble bien raisonnable puisqu'elle correspond à celle que lui avait versée BDC en 1996, surtout si on tient pour acquis qu'elle travaillait chez le payeur le même nombre d'heures que chez BDC. Cette dernière société appartenait à un groupe d'actionnaires qui ne semblent pas avoir eu de lien de dépendance (légal ou factuel) avec madame Garneau. Ces conditions du contrat de travail de madame Garneau avec BDC peuvent donc constituer un excellent point de comparaison pour déterminer si les conditions de son contrat de travail avec le payeur correspondaient à ceux du marché[86].
+[122] Par contre, si madame Garneau ne travaillait chez le payeur que 35 heures, au lieu de 44 heures comme elle le faisait chez BDC, alors son taux horaire passe de 12 $ à 15 $, soit une augmentation appréciable de 25 %. À cela s'ajoute le fait qu'elle était rémunérée à la semaine chez le payeur, sans qu'on tienne compte des heures réellement travaillées, alors qu'elle avait été rémunérée sur une base horaire - et non hebdomadaire - chez BDC, comme le révèle l'analyse du tableau 4 ci-dessus. Même si on trouve une mention du nombre d'heures dans le registre de paie du payeur concernant madame Garneau, monsieur Dubé a reconnu que sa rémunération n'en tenait pas compte. Il a reconnu également que madame Garneau quittait souvent le travail avant la fin de la journée et que parfois les vendredis elle ne travaillait même pas.
+[123] Monsieur Dubé a aussi confirmé que la rémunération de madame Garneau dépendait d'autres facteurs, comme la capacité de payer du payeur et les besoins financiers de madame Garneau. Par exemple, il a donné comme explication, en réponse à une question de l'avocat des appelantes, qui lui demandait les motifs de l'augmentation du salaire de madame Garneau à 700 $ et à 800 $ par semaine, le fait que madame Garneau devait s'acheter une nouvelle maison, ce qu'elle a fait après avoir quitté son mari au mois d'août 1998. La maison lui a été délivrée en décembre 1998. Le procureur de madame Garneau, réalisant que cette réponse pouvait nuire à sa cause, a contredit son témoin et lui a fait reconnaître que ce genre de motifs ne se justifie pas lorsqu'on traite sans lien de dépendance. À ce moment-là, monsieur Dubé a changé sa version et a plutôt mentionné que la compagnie faisait plus de bénéfices et pouvait verser un salaire plus élevé pour tenir compte du fait qu'elle lui avait versé auparavant un salaire moindre que celui que pouvait mériter madame Garneau. Monsieur Dubé a alors affirmé que, si madame Garneau avait été une personne sans lien de dépendance, elle n'aurait jamais accepté une rémunération de 700 $. Donc, il était temps que la compagnie lui verse un montant plus élevé. Or, la jurisprudence reconnaît que le fait d'accepter des conditions de travail moins favorables que celles qu'un tiers sans lien de dépendance aurait acceptées indique qu'il s'agit de conditions qui n'auraient pas existé s'il n'y avait pas eu de lien de dépendance.
+[124] Monsieur Dubé a indiqué également que le salaire de madame Garneau était passé de 800 $ à 700 $ après qu'ils eurent commencé à cohabiter en décembre 1999. En effet, la rémunération de madame Garneau, qui avait été de 800 $ du 13 juin 1999 au 23 octobre 1999, a été réduite à 700 $ le 22 mai 2000 quand elle serait, selon le registre de paie, retournée chez le payeur (tableau 5 ci-dessus).
+[125] Selon la version de madame Garneau, si elle a commencé à 525 $ chez le payeur, c'est qu'il fallait tenir compte de la capacité de payer d'une nouvelle entreprise qui commence. Il est vrai que pour son premier exercice financier, le payeur a subi une perte de 67 467 $. Pour le deuxième exercice, les bénéfices étaient fort minces à 4 395 $. Par contre, il convient de souligner que l'attitude de madame Garneau correspond davantage à celle d'une copropriétaire qu'à celle d'une salariée qui cherche à obtenir la meilleure rémunération possible tout en étant consciente des circonstances dans lesquelles se trouve son futur employeur. D'ailleurs, cette attitude transparaît dans la réponse suivante :
+[773] Q. Vous ne comptiez pas vos heures?
+R. Non. Quand on a une compagnie, Monsieur, on ne compte pas nos heures.
+(Vol. 1 de la transcription, p. 271)
+[Je souligne.]
+[126] Un autre facteur qui pourrait révéler le caractère déraisonnable des modalités du contrat de travail de madame Garneau est le fait que cette dernière a travaillé sans rémunération durant ses prétendues périodes de chômage. En fait, il serait plus juste d'affirmer qu'elle travaillait à longueur d'année et qu'elle recevait la rémunération entière pour ce travail sur des courtes périodes correspondant aux périodes officielles de travail, soit celles indiquées au registre de paie et sur les relevés d'emploi. Monsieur Dubé ainsi que madame Garneau ont tenté de minimiser l'importance des heures travaillées par madame Garneau, même si, durant ses prétendues périodes de chômage, elle était régulièrement à l'établissement du payeur. Selon eux, le nombre d'heures par semaine durant ces périodes variait entre cinq et six.
+[127] Lors de sa rencontre du 10 mai 2002 avec l'enquêteuse (pièce I-32, 3e page), madame Garneau a nié avoir travaillé pour le payeur avant le mois de mai 1997. Tout ce qu'elle a reconnu avoir fait, c'est avoir aidé à peinturer durant les fins de semaine. « Je n'ai rien fait ni mis aucun temps ou période de temps » , a-t-elle dit (pièce I-32, 3e page). On ne peut toutefois pas accorder une grande valeur probante à cette affirmation puisque madame Garneau a affirmé au cours de la même rencontre que Guylaine Dubé avait travaillé pour BDC et le payeur. Lorsqu'on lui a dit que Guylaine Dubé avait déclaré qu'elle n'avait travaillé ni pour BDC ni pour le payeur, elle a refusé de continuer de parler de cette question : « Je ne veux plus parler de Guylaine avant de parler à mon avocat » (pièce I-32, 3e page). Toutefois, elle a alors reconnu qu'elle travaillait durant ses prétendues périodes de chômage, mais « peut-être moins d'heures, peut-être des moitiés de journée plutôt que des journées entières » (pièce I-32, 3e page). Elle ajoute : « Je pouvais aller travailler au bureau le matin seulement et le lendemain, je pouvais me rendre pour travailler l'après-midi seulement » (pièce I-32, 3e page).
+[128] Lors de sa rencontre du 14 juillet 2003 avec l'agent d'assurabilité, madame Garneau a indiqué qu'elle n'avait pas rendu de services à l'entreprise sans être rémunérée (pièce I-38, page 30). Lorsqu'on lui a mentionné que le ministre avait des preuves qu'elle avait signé des chèques durant des périodes où elle recevait des prestations, elle a alors reconnu qu'elle venait au bureau préparer la paie tous les jeudis matin. Elle a affirmé qu'elle n'avait pas été rémunérée pour ce temps puisque « c'était très court, cela prenait quelques fois que quelques heures » (pièce I-38, page 30). Elle a dit que c'était « seulement le jeudi [qu'elle se présentait] pour préparer les paies des employés » (pièce I-38, page 30).
+[129] Selon l'enquêteuse, madame Garneau a travaillé beaucoup plus que ce qu'elle est prête à reconnaître. L'intimé a produit à l'appui de sa position de nombreuses déclarations statutaires d'employés ou d'ex-employés du payeur qui affirment que madame Garneau était régulièrement et à longueur d'année à l'établissement du payeur. Toujours selon l'enquêteuse[87], les personnes suivantes ont confirmé que madame Garneau a travaillé de façon régulière et continue durant les périodes suivantes où elle était généralement prestataire de l'assurance-emploi :
+Tableau 11
+Prétendues périodes de chômage
+Témoins
+21 déc. 1996 au 4 mai 1997
+Dubuc, Ostiguy[88], Latreille, Laferrière et Searles
+13 décembre 1997 au 30 mai 1998
+Laferrière, Poirier, Searles, Martel et Harnois
+8 novembre 1998 au 6 juin 1999
+Martel, Harnois, Searles, Poirier, Laferrière et Plante
+23 octobre 1999 au 21 mai 2000
+Tremblay[89], Laferrière, Perrault, Poirier, Searles et Martel
+7 octobre 2000 au 3 mars 2001
+Ostiguy, Tremblay, Charrier[90], Laferrière, Perrault, Searles, Martel et Patenaude
+23 juin 2001 au 28 octobre 2001 (congé de maladie)
+Tremblay, Charrier, Lambert, Laferrière, Ménard, Ducharme, Perrault, Searles et Martel
+29 octobre 2001 au 23 février 2002
+Tremblay, Ducharme, Charrier, Lambert, Searles et Martel
+[130] Évidemment, les déclarations statutaires de ces personnes ou les résumés des entrevues avec elles ne constituent pas la meilleure preuve qui eût pu être faite par l'intimé. Si ces personnes avaient témoigné, l'audience aurait duré plus que les six jours qu'il en a pris[91]. Toutefois, cette preuve est corroborée par une preuve documentaire volumineuse fournie par l'enquêteuse. De plus, la charge de démolir les faits ainsi établis revenait à madame Garneau et elle n'a pas réussi dans cette tâche. Selon l'enquêteuse de DRH, l'analyse des documents du payeur (pièce I-28) a révélé que durant les prétendues périodes de chômage de madame Garneau, il n'y a jamais cinq jours consécutifs pour lesquels il n'existe pas de preuve d'une signature de madame Garneau sur des chèques, des factures ou des relevés d'emploi.
+[131] Les vérifications de DHR ont même permis d'apprendre que madame Garneau fournissait également des renseignements à différents ministères ou organismes gouvernementaux, notamment l'Agence et la Commission des normes du travail, pendant ses prétendues périodes de chômage. Elle était sur place quand l'enquêteuse s'est présentée en décembre 2001 pour la première entrevue, alors qu'elle recevait des prestations. Le vendredi 7 décembre 2001, madame Garneau a téléphoné à un agent de recouvrement pour faire le rapprochement du compte de l'employeur et de celui de l'Agence. Le 17 juillet 2001, durant le congé de maladie de madame Garneau, l'agent de recouvrement a téléphoné au payeur pour obtenir un montant de remises manquantes. C'est madame Garneau qui a rappelé le jeudi 19 juillet 2001 en utilisant le nom de Vachon, soit le nom de famille de son ancien mari (duquel elle était divorcée depuis le 17 mars 2000!) (pièce A-2). Le jeudi 6 septembre 2001, un agent de recouvrement a communiqué avec madame Garneau au sujet de la remise du mois de juillet. Le 11 septembre 2001, un mardi tristement célèbre, un agent du centre fiscal a obtenu confirmation auprès de madame Garneau de renseignements concernant les actionnaires. Le mardi 8 janvier 2002, un agent de recouvrement a reçu un appel de madame Garneau relativement au compte de l'entreprise. Le mardi 5 février 2002, un agent de recouvrement a communiqué avec madame Garneau relativement à des chèques postdatés.
+[132] Un autre fait troublant soulève de grands doutes quant aux affirmations que madame Garneau a très peu travaillé durant ses prétendues périodes de chômage. Monsieur Dubé a reconnu qu'il n'avait pas remplacé madame Garneau durant le congé de maladie de celle-ci, du 26 juin jusqu'au 28 octobre 2001 (pièce A-3). Quant à madame Bellefeuille, elle ne venait pas « travailler » au bureau. Or, madame Garneau était normalement, à chaque année, salariée de mai ou juin à octobre, novembre ou même décembre. Elle était officiellement sur le registre de paie du payeur de mai à décembre 1997, de mai à novembre 1998, de juin à octobre 1999 et de mai à octobre 2000. En regardant le tableau 1 ci-dessus, on constate que le chiffre d'affaires pour 2001 est de 104 000 $ plus élevé que celui pour l'année 2000. Il y avait donc plus d'activités en 2001 que pour toutes les années antérieures d'exploitation du payeur (tableaux 1 et 2 ci-dessus).
+[133] Deux interprétations possibles de ces faits peuvent être évoquées. Tout d'abord, le travail que faisait madame Garneau n'était pas important et l'on pouvait se passer de ses services; ou, au contraire, son travail était important et madame Garneau a continué à travailler durant son congé de maladie et le restant de l'année 2001. Je préfère la deuxième interprétation. Monsieur Dubé reconnaît d'ailleurs que madame Garneau était régulièrement présente à l'établissement du payeur à cette époque. Selon lui, c'étaient des considérations personnelles qui déterminaient sa présence : il craignait que, dans sa dépression, elle ne commette l'irréparable. Il est vrai que le congé de maladie est survenu durant la dernière des périodes Garneau, période durant laquelle madame Garneau était une « personne liée » au payeur, alors que l'on doit déterminer s'il existait un lien de dépendance factuel durant les premières périodes Garneau. Toutefois, ces faits soulèvent un bien grand doute quant à la crédibilité de madame Garneau et de monsieur Dubé lorsqu'ils minimisent le travail qu'elle accomplissait durant ses prétendues périodes de chômage.
+[134] J'en viens donc à la conclusion que madame Garneau n'a pas réussi à démolir les faits tenus pour acquis aux alinéas 8 h) et j) de la réponse du ministre à l'avis d'appel, à savoir qu'elle « travaillait à l'année longue pour le payeur dans les locaux de l'entreprise » durant les périodes Garneau et qu'elle « continuait à rendre des services au payeur après ses prétendues mises à pied » . Non seulement ne les a-t-elle pas démolis, mais je crois, selon la prépondérance des probabilités, qu'elle a travaillé à longueur d'année pour le payeur.
+[135] Pour illustrer l'incidence qu'a sur la rémunération de madame Garneau le fait d'avoir travaillé à longueur d'année pour le payeur tout en ne recevant comme rémunération que les montants indiqués dans le registre de paie, il est révélateur de calculer le véritable salaire horaire qu'elle a reçu. À titre d'exemple, prenons l'année 1999, l'année médiane des périodes Garneau. Madame Garneau n'a été officiellement sur le registre de paie du payeur que du 6 juin 1999 au 23 octobre 1999. Pour ces 20 semaines, elle a reçu une rémunération totale de 15 900 $ [(19 x 800 $) + (1 x 700 $)] (tableau 5). Madame Garneau affirme avoir travaillé généralement de 35 à 40 heures par semaine. Tenant pour acquis qu'elle a travaillé en moyenne 38 heures par semaine, comme cela est d'ailleurs prévu dans le contrat conclu entre elle et la société qui a acheté l'entreprise du payeur en 2004, on peut alors calculer qu'elle devait être rémunérée pour 1 976 heures en 1999 (52 x 38). Un salaire de 15 900 $ pour 1 976 heures correspond à un taux horaire de 8,05 $. Une telle rémunération est bien en deçà de ce qu'une personne honnête, sans aucun lien de dépendance, factuel ou légal, et ne participant à aucun stratagème frauduleux pour bénéficier indûment de prestations en vertu de la LAE, aurait accepté. Quand madame Garneau travaillait en 1995 et en 1996 pour Quincaillerie et BDC, des personnes avec lesquelles elle n'avait selon toute apparence aucun lien de dépendance (légal ou factuel), elle gagnait un salaire horaire de 12 $, soit 50 % de plus. La rémunération qu'elle a reçue du payeur ne correspond pas à celle dont des parties ayant des intérêts économiques distincts auraient convenu.
+[136] Finalement, un autre facteur révèle l'existence d'un lien de dépendance factuel entre madame Garneau et le payeur pour les premières périodes Garneau. Madame Garneau, détentrice de 25 % des actions participantes du payeur, a agi de concert avec monsieur Dubé, l'autre actionnaire du payeur, pour mettre en place le stratagème qui a permis au payeur de financer indirectement ses opérations au moyen des prestations versées par DRH à ses salariés pendant qu'ils travaillaient pour lui. Elle a participé au stratagème de bien des façons, notamment en travaillant pour le payeur tout en recevant, comme plusieurs autres salariés, des prestations. Elle agissait de concert avec monsieur Dubé depuis l'époque où elle travaillait avec lui chez BDC. En effet, elle a rempli des relevés d'emploi faux et trompeurs pour plusieurs autres salariés de BDC et du payeur, notamment pour Guylaine Dubé, qui a admis ne pas avoir travaillé pour ces deux entreprises.
+[137] Je crois que toutes ces circonstances révèlent que madame Garneau était sous l'influence de monsieur Dubé qui, lui, contrôlait le payeur. La situation était telle qu'elle n'a pas pu négocier librement avec le payeur un contrat de travail dont les modalités étaient conformes à celles de contrats qui auraient été conclus dans des conditions normales du marché. D'ailleurs, madame Garneau considérait le payeur comme « sa » compagnie. Elle détenait 25 % des actions participantes. Elle aurait investi jusqu'à 30 000 $ de son propre argent, même si c'était par l'intermédiaire de prêts à monsieur Dubé. Elle agissait de concert avec monsieur Dubé. Ce dernier a reconnu que madame Garneau pouvait fixer elle-même son salaire. Si elle avait besoin de plus d'argent pour acheter un condo, le payeur en versait plus. Si elle avait besoin de moins d'argent parce qu'elle vivait avec monsieur Dubé, le payeur en versait moins :
+[671] Q. Comment ça avait été déterminé ça?
+R. C'était peut-être le salaire continu de l'année précédente ou... c'était déterminé comme ça. C'était convenu qu'au départ, elle partait avec un salaire semblable à celui qu'elle avait chez Dragon Chapdelaine à peu près, et puis qu'au fur et à mesure que... qu'on ne pouvait pas toujours prendre des gros salaires, au fur et à mesure que le chiffre d'affaires allait augmenter, que la compagnie allait s'améliorer, qu'elle allait pouvoir prendre de l'argent. Elle n'avait pas à me le demander : je peux-tu me prendre une augmentation de salaire ou quoi. On était associés, c'est comme ça. Elle avait besoin d'argent. En 98, c'est l'année où elle a eu le plus besoin d'argent parce que son divorce, ça allait mal, son divorce s'en venait, et puis c'est l'année qu'on avait discuté qu'elle se prendrait un petit peu plus de sous par semaine.
+(Vol. 2 de la transcription, pp. 168 et 169.)
+[Je souligne.]
+[138] En conclusion, il ressort de l'ensemble de la preuve, selon la prépondérance des probabilités, qu'il existait un lien de dépendance factuel entre madame Garneau et le payeur pour les premières périodes Garneau et, par conséquent, l'emploi de madame Garneau est exclu pour ces périodes en vertu de l'alinéa 5(2)i) LAE.
+Période du 4 mars 2001 au 22 juin 2001
+[139] En ce qui a trait à la dernière période Garneau, soit celle du 4 mars 2001 au 22 juin 2001, madame Garneau était durant cette période une personne liée au payeur parce qu'elle était liée à monsieur Dubé en raison des liens de l'union de fait. Par conséquent, un lien de dépendance était réputé exister entre elle et le payeur. À l'égard de cette période, il revient au ministre de décider si le contrat de travail entre madame Garneau et le payeur aurait été à peu près semblable s'il n'y avait pas eu de lien de dépendance avec le payeur.
+[140] Voici comment l'agent des appels a justifié la décision du ministre que l'emploi de madame Garneau était exclu des emplois assurables (pièce I-18, pp. 7 et 8) :
+Rétribution versée : De 525$ par semaine qu'il était en 1997, le salaire de la travailleuse est passé à 800$ par semaine les années suivantes. Avant et après les périodes indiquées sur ses RDE, la travailleuse continuait à rendre des services au payeur sans être rémunéré.
+Modalités d'emploi :Elle travaille dans les locaux du payeur en collaboration avec l'actionnaire majoritaire M Dubé. Ses heures de travail ne font pas l'objet d'un contrôle particulier puisqu'elle effectue ses tâches au fur et à mesure qu'elles se présentent.
+Durée du travail : La travailleuse effectue ses tâches de façon continuelle depuis le début des activités du payeur à l'hiver 1997 contrairement à ce que ses relevés d'emploi indiquaient. Dans les faits, la travailleuse était la seule à avoir les compétences administratives et pour cette raison elle travaillait de façon continue pour le payeur c'est à dire avant et après les prétendues périodes de travail indiquées sur ses RDE.
+Nature et importance du travail : Travail de commis de bureau et comptable du payeur qui est essentiel à la bonne marche des opérations du payeur.
+Conséquemment, nous croyons que le payeur et la travailleuse n'auraient pas conclu entre eux un tel contrat de travail s'ils n'avaient pas eu un lien de dépendance. L'emploi n'est pas un emploi assurable en vertu de l'alinéa 5(2)i) de la Loi sur l'assurance-emploi.
+[...]
+(VIII) RECOMMENDATION - RECOMMANDATION :
+Nous recommandons que les notifications ministérielles stipulent que Jacinthe Garneau n'occupait pas un emploi assurable en vertu de l'alinéa 5(2)i) de la Loi sur l'assurance-emploi lorsqu'elle était au service de Boiserie Dubé et associés Inc. durant les périodes visées.
+[141] La charge de démontrer que la décision du ministre ne paraît pas raisonnable à la lumière des faits considérés par celui-ci et de ceux démontrés à la Cour et qu'elle était inappropriée revenait à madame Garneau. À mon avis, madame Garneau a échoué dans cette tâche. Si j'avais eu à décider la question, je serais arrivé à la même conclusion que le ministre, comme je l'ai fait aussi, d'ailleurs, en concluant à l'existence d'un lien de dépendance factuel pour les premières périodes Garneau. D'abord, si on ne tient compte que de la période où elle était inscrite au registre de paie, à savoir du 4 mars 2001 au 23 juin 2001, le salaire horaire versé par le payeur à madame Garneau était beaucoup plus élevé que le salaire horaire de 12 $ qu'elle avait gagné chez BDC. Il aurait été en fait de 16 $, de 18,66 $ ou de 21,33 $, selon la période, si l'on suppose que madame Garneau travaillait 37,5 par semaine (tableau 5). Cela n'est pas surprenant puisque je crois qu'une partie de ce salaire visait le travail exécuté durant ses prétendues périodes de chômage. Si on tient pour acquis que madame Garneau travaillait véritablement à longueur d'année, alors la rémunération versée par le payeur devient nettement insuffisante. Elle n'aurait gagné en 2001 qu'un salaire horaire de 5,72 $[92]. Dans cette optique, la conclusion du ministre que madame Garneau et le payeur n'auraient pas conclu un contrat de travail à peu près semblable s'ils n'avaient pas eu entre eux de lien de dépendance paraît tout à fait raisonnable.
+[142] Il est vrai que dans l'affaire Massignani, 2005 CAF 165, la Cour d'appel fédérale a infirmé, dans un court jugement la décision que j'avais rendue, affirmant au paragraphe 4, que « les parties appelantes ont participé au stratagème et exercé leur emploi selon les mêmes conditions que les autres employés qui, eux, n'avaient pas de lien de dépendance avec la compagnie Tiva » et qu'il « n'est donc pas exact de conclure qu'elles ont été avantagées par rapport aux autres employés à cause de leur lien de dépendance et que, de ce fait, leur emploi n'était pas assurable. » Il est tout à fait justifié d'affirmer que dans Massignani les autres employés n'avaient pas de lien de dépendance « légal » avec Tiva. Par contre, on ne sait pas s'ils avaient un lien de dépendance « factuel » avec elle, puisque je n'ai tiré aucune conclusion de fait à cet égard, même si la question aurait pu être soulevée compte tenu de ce que plusieurs employés qui avaient témoigné à l'audience avaient affirmé s'être sentis obligés de participer au stratagème par crainte de perdre leur emploi. Dans l'affaire Bélanger (précitée), j'ai affirmé, comme l'a fait la Cour d'appel fédérale dans Massignani, que c'étaient des personnes n'ayant pas de « lien de dépendance » avec l'employeur qui avaient abusé de la Loi en participant au stratagème dont il s'agissait dans Massignani :
+[74] À mon avis, ne pas tenir compte du fait qu'un employé travaille sans rémunération pour le même employeur constitue une invitation flagrante à l'abus. Une belle illustration se trouve dans la décision que j'ai rendue dans l'affaire Massignani ([2004] A.C.I. no 127 (QL), 2004 CCI 75). Dans cette affaire, les membres de la famille n'avaient pas été les seuls à abuser de la Loi. Des employés n'ayant aucun lien de dépendance avec l'employeur avaient été incités à participer au stratagème mis en place. Ne pas tenir compte des heures travaillées sans rémunération permettrait essentiellement que des employés soient en quelque sorte rémunérés au moyen de l'assurance-emploi pendant qu'ils travaillent pour leur employeur. Tel n'est certainement pas le but poursuivi par le législateur dans le cas du régime d'assurance-emploi.
+[Je souligne.]
+[143] Or, il aurait été plus précis de ma part d'écrire que des personnes non « liées » ou n'ayant pas de lien de dépendance légal au sens du paragraphe 251(2) LIR avaient participé au stratagème. En effet, même si des personnes ne sont pas liées, cela ne signifie pas nécessairement qu'il n'existe pas au point de vue factuel un lien de dépendance entre elles. Comme je n'avais tiré aucune conclusion de fait sur cette question, il était erroné de ma part d'affirmer dans Bélanger que des personnes n'ayant aucun lien de dépendance avec l'employeur avaient participé au stratagème dans l'affaire Massignani. Comme je crois comprendre que ma décision Bélanger a été citée par un procureur du ministre devant la Cour d'appel fédérale dans Massignani, il est possible que cette affirmation ait pu induire ladite cour en erreur.
+[144] De plus, contrairement à ce qu'il en était dans l'affaire Massignani, la preuve révèle ici que certains des employés à l'égard desquels il n'existait aucune apparence d'un lien de dépendance factuel ou légal avec le payeur ont refusé de participer au stratagème, notamment Jean-Pierre Latreille (pièce I-30, résumé de l'entrevue du 24 mai 2002) et Stephan Perrault (pièce I-30, déclaration statuaire du 20 novembre 2001). Si, pour répondre à la question posée par l'alinéa 5(3)b) LAE, soit celle de savoir si des personnes auraient conclu un contrat de travail à peu près semblable si elles n'avaient pas eu de « lien de dépendance avec l'employeur » , le ministre a comme point de comparaison des salariés qui ont frauduleusement participé au stratagème et des salariés sans aucun lien de dépendance (factuel ou légal) qui ont refusé d'y participer, je ne peux imaginer que le législateur ait eu l'intention que le ministre puisse, pour exercer son pouvoir discrétionnaire, avoir recours à l'exemple des premiers et ne pas tenir compte de celui des derniers. Je souscris entièrement au point de vue suivant exprimé par le procureur de l'intimé :
+707 Selon l'intimé, cette Cour devrait se prononcer clairement sur la base de la comparaison aux fins de l'application de l'alinéa 5(3)b) de la LAE. Selon l'intimé, cette Cour devrait statuer que la comparaison doit se faire avec les conditions d'emploi qu'auraient conclues des personnes honnêtes, de bonne foi, non liées, dans le marché du travail normal, n'agissant pas de concert, libres et soumises à aucune restriction, bien informées, agissant avec prudence, et n'étant pas partie à un arrangement aux fins de profiter injustement de la LAE.49
+49 L'intimé s'est inspiré quelque peu de la définition de l'expression « juste valeur marchande » que l'on retrouve à la Circulaire d'information 89-3, « Exposé des principes sur l'évaluation de biens mobiliers » , du 25 août 1989.
+[145] S'il fallait utiliser comme point de comparaison des personnes qui abusent de la LAE pour déterminer si les termes d'un contrat de travail sont raisonnables, peu ou point d'emplois seraient exclus en vertu de l'alinéa 5(2)i) LAE.
+[146] Aux motifs invoqués par le ministre pour conclure à l'exclusion de l'emploi de madame Garneau, j'aurais ajouté que sa rémunération fixe à la semaine, qui ne tenait pas compte des heures de travail qu'elle a réellement effectuées, ne lui aurait pas été consentie si elle n'avait pas été le conjoint de fait de la personne qui contrôlait le payeur. Comme on l'a remarqué plus haut, lorsque madame Garneau était au service de Quincaillerie et de BDC, elle était rémunérée en fonction de ses heures réellement travaillées. À mon avis, madame Garneau et le payeur n'auraient pas conclu un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance. La décision du ministre relativement à la dernière période Garneau paraît toujours raisonnable.
+[147] Pour tous ces motifs, les appels de mesdames Garneau et Bellefeuille sont rejetés.
+Signé à Ottawa, Canada, ce 29e jour de mai 2006.
+« Pierre Archambault »
+Juge Archambault
+RÉFÉRENCE : 2006CCI160
+Nos DES DOSSIERS DE LA COUR : 2004-4005(EI)
+2004-4008(EI)
+INTITULÉS DES CAUSE : Jacinthe Garneau c. M.R.N.
+Denise Bellefeuille c. M.R.N.
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : les 1er, 3, 8, 9 et 10 juin 2005
+et le 6 octobre 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge Pierre Archambault
+DATE DU JUGEMENT : le 29 mai 2006
+COMPARUTIONS :
+Avocat des appelantes :
+Me Roch Guertin
+Avocat de l'intimé :
+Me Benoît Mandeville
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelantes :
+Nom : Me Roch Guertin
+Cabinet : Me Roch Guertin
+Montréal (Québec)
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Il s'agit d'un motif nouveau invoqué par le ministre au stade de l'appel devant cette Cour. L'agent des appels n'a invoqué au soutien de sa décision que le motif subsidiaire (pièce I-18), ayant conclu que la travailleuse et le payeur avaient un lien de dépendance entre eux parce qu'ils étaient des personnes liées visées par l'alinéa 251(1)a) (et non 251(1)c) comme le soutient le procureur du ministre).
+[2] Ayant considéré que madame Garneau et le payeur étaient des personnes liées, l'agent des appels était convaincu qu'ils « n'auraient pas conclu entre eux un tel contrat de travail s'ils n'avaient pas eu un lien de dépendance » (pièce I-18, p. 7).
+[3] Tant à l'égard de madame Garneau qu'à l'égard de madame Bellefeuille, le procureur du ministre a invoqué de nouveaux arguments dans ses observations écrites ou y a précisé ses arguments. Les arguments seront exposés ci-dessous sous la rubrique « Analyse » .
+[4] Pièce I-18, page 3, par. 3.
+[5] Il s'agit de l'appel de l'un des appelants dans Pourvoirie au pays de Réal Massé Inc.
+[6] Dans ces motifs, le terme « prestations » désigne des prestations d'assurance-emploi, à moins que le contexte n'indique le contraire.
+[7] À la 5e page du rapport (pièce I-27). Voir également la déclaration statutaire de monsieur Laferrière (pièce I-30).
+[8] Pièces I-38 et A-26.
+[9] Pièce I-12.
+[10] D.C. pour Dragon et Chapdelaine.
+[11] Voir pièce A-8, 2e page.
+[12] Selon la version de monsieur Maltais. Selon celle de madame Garneau, il y en aurait eu deux.
+[13] Ces chiffres ont été fournis par le procureur des appelantes et apparaissent dans le Rapport sur un appel de chacune des appelantes (voir pièces I-18 et I-40).
+[14] Pièce I-8. Les états financiers pour 2001 et 2002 n'ont pas été produits en preuve.
+[15] (800 x 52) − (575 x 52) = 11 700. Le montant du bonus aurait été de 14 144 $, représentant 51,5 % de son salaire de base, si on utilisait un salaire de 528 $, soit le plus élevé apparaissant sur son relevé d'emploi (pièce I-12). Voir le tableau 3 ci-dessous.
+[16] Correspond à la dernière semaine de travail et pourrait comprendre la paie de vacances de 460,44 $ indiqué à la case 17A. Voir les notes 18, 20, 21 et 22 pour des exemples semblables.
+[17] Alors qu'il aurait quitté son emploi, selon madame Garneau, deux mois auparavant. Lors de l'audience, monsieur Dubé a expliqué cette situation en disant qu'il avait signé des relevés d'emploi en blanc! Voir également d'autres explications au par. 27 de ces motifs.
+[18] Correspond à la dernière semaine de travail. Le montant indiqué comme paie de vacances à la case 17A est de 643,50 $.
+[19] Pièce I-16. À noter que la date est la même que celle de la demande de prestations de madame Garneau. Quand DRH a informé monsieur Dubé qu'il n'était pas admissible aux prestations (vraisemblablement parce qu'il était en train d'établir la nouvelle entreprise du payeur), il a laissé tomber rapidement sa demande.
+[20] Selon son relevé d'emploi (pièce I-14), monsieur Dubé aurait reçu 250 $ pour chacune des 20 dernières semaines précédant son départ, sauf la dernière semaine, pour laquelle madame Garneau a inscrit 500 $. Par contre, il est probable que ce chiffre comprenne la paye de vacances de 250 $ indiquée à la case 17A.
+[21] Ce montant semble comprendre la paie de vacances de 130 $ indiqué à la case 17A du formulaire.
+[22] Madame Garneau a inscrit comme rémunération pour ses 19 dernières semaines 250 $, sauf la toute dernière, pour laquelle le montant de 410 $ semble également comprendre la paie de vacances de 160 $ (250 $ + 160 $ = 410 $) indiquée à la case 17A du formulaire.
+[23] Dans sa plaidoirie, le procureur de l'intimé s'est référé aux articles 49, 52, 63 et 67 de la Loi sur les accidents du travail et les maladies professionnelles (L.R.Q., ch. A-3.001) pour soutenir que cela n'était pas le cas.
+[24] Selon le témoignage de Me Pierre Lessard (vol. 3, p. 81, Q. 94, de la transcription).
+[25] Pièces I-14 et I-2.
+[26] Pièce I-2.
+[27] Le divorce de madame Garneau a été prononcé le 15 février 2000 (pièce A-2).
+[28] Le divorce de madame Bellefeuille et monsieur Dubé n'aurait été prononcé qu'en 2005.
+[29] Aucune demande de rétractation d'admission n'a été présentée à la Cour.
+[30] Voir vol. 3, p. 292, Q. 896, de la transcription.
+[31] Ceci confirme que ce n'est pas en raison du manque de travail qu'elle a quitté BDC. Il s'agit bien d'un départ volontaire. Des versions contradictoires sont relatées ci-dessous sous la rubrique « Crédibilité des témoins » .
+[32] Lors d'une rencontre le 10 mai 2002 avec l'enquêteuse de DRH, madame Garneau a affirmé qu'elle avait investi de l'argent dans le payeur, mais ne se rappelait pas le montant. Lors de sa rencontre du 14 juillet 2003 avec l'agent d'assurabilité, madame Garneau a indiqué qu'elle possédait 20 % des actions du payeur, qu'elle ne savait pas combien elle avait payé ces actions ni combien elle avait reçu lorsqu'elle les avait vendues (en 2001) à monsieur Dubé. De plus, dans sa demande de prestations du 3 février 1998 pour sa première période de chômage chez le payeur, elle a indiqué qu'elle détenait 20 % des actions du payeur alors qu'en réalité elle en détenait 25 %. (Voir page 29 de la pièce I-38.)
+[33] Selon la déclaration statutaire de Gaston Dubuc (pièce I-30), monsieur Dubé lui avait aussi promis qu'il deviendrait actionnaire du payeur, mais monsieur Dubé aurait changé d'idée par la suite, ce qui aurait amené monsieur Dubuc à abandonner en juin 1997 son travail de contremaître pour le payeur. Par contre, monsieur Dubé avait accepté d'indiquer comme motif de départ « manque de travail » .
+[34] Pièces A-10 à A-14.
+[35] Les taux horaires de cette colonne ont été calculés en fonction du nombre d'heures hebdomadaires déclaré par madame Garneau lors de l'audience : de 35 à 40 heures, soit en moyenne 37,5.
+[36] Selon toute vraisemblance, car seulement le chèque du salaire net est disponible. De plus, les chèques de 512,22 $ nets ont été remplacés par des chèques d'un montant plus élevé, soit 605,92 $, mais aucune explication n'a été fournie (selon mon souvenir). Le chèque pour la semaine du 4 juin n'est pas disponible (pièce A-13).
+[37] Certains chèques ne sont pas disponibles (pièce A-13).
+[38] Pièce I-5.
+[39] 12 $ pour le travail de bureau, 10 $ pour le travail de réceptionniste.
+[40] Pièce I-7. Il faut noter que la période déclarée par madame Garneau ne correspond pas aux dates du registre de paie apparaissant au tableau 5 ni à celles du relevé d'emploi (pièce I-7).
+[41] Pièce I-9.
+[42] Pièce I-10. Madame Garneau a répondu qu'elle n'était pas apparentée à l'actionnaire majoritaire de l'employeur en raison d'une union de fait, alors qu'elle cohabitait avec monsieur Dubé depuis décembre 1999 (ou janvier 2000). (Question 35.)
+[43] Pièce I-11. Madame Garneau a répondu qu'elle n'était pas apparentée à l'actionnaire majoritaire de l'employeur en raison d'une union de fait, alors qu'elle cohabitait avec monsieur Dubé depuis décembre 1999 (ou janvier 2000). (Question 35.)
+[44] Lors de cette rencontre avec l'enquêteuse de DRH en décembre 2001, madame Garneau était présente sur place alors qu'elle était prétendument en chômage.
+[45] Peut comprendre les deux semaines de carence pour lesquelles des prestations ne sont pas versées.
+[46] L'écart entre le 12 décembre 1997 et le 1er février 1998 n'a pas été expliqué.
+[47] Pièce A-23 : notaire Francine Gélinas (novembre 1995 - février 1999) et notaire Michel Aubertin (avril 1999 - juillet 2001).
+[48] Il n'y a pas de relevé de salaire pour la période du 20 août au 26 août 2000, ce qui pourrait indiquer qu'elle n'a pas travaillé cette semaine.
+[49] Lorsque interrogé à l'audience, monsieur Dubé a été incapable d'évaluer le temps requis pour monter un dossier de petites créances et pour faire une recherche au bureau d'enregistrement des immeubles. Lorsqu'on a demandé à monsieur Dubé d'évaluer le nombre d'heures que consacrait madame Bellefeuille au payeur lorsqu'elle était rémunérée à 800 $ pendant l'été 1999, monsieur Dubé a fourni deux réponses. Dans une première réponse, il l'a estimé à 25 à 30 heures, et dans sa deuxième réponse, il a été incapable de l'estimer. Si l'on retient l'hypothèse la plus favorable, soit 30 heures, cela donne un taux horaire de 26,66 $ alors que, pour 25 heures, la même rémunération donnerait un taux horaire de 32 $.
+[50] Voir pp. 239 et 240, volume 4 de la transcription.
+[51] Selon les informations recueillies par l'enquêteuse de DRH auprès de madame Bellefeuille, dans ses demandes de prestations et dans les relevés d'emploi établis par les notaires (pièces I-35, A-23 et A-26).
+[52] Selon les données du tableau 9 et certaines déclarations de madame Bellefeuille.
+[53] Selon le témoignage de madame Bellefeuille à l'audience, elle travaillait de 7 à 15 heures par semaine. À moins d'indication contraire, j'ai utilisé le chiffre moyen de 11 heures dans le tableau.
+[54] Dans une déclaration à la Commission en date du 8 mai 2002, qu'elle a refusé de signer (pièce I-35), résumée par l'agent de l'assurabilité (pièce A-26, page 2), madame Bellefeuille aurait reconnu avoir produit une demande de prestations le 21 octobre 1999 ; « elle occupait les fonctions de secrétaire [chez le payeur], au salaire de $800.00 pour 40 heures par semaine [...] » . Toutefois, le relevé de salaire relatif à cette rémunération n'a pas été produit. Selon madame Bellefeuille, elle aurait travaillé 6 ou 7 semaines à 800 $ (pièce I-35, 6e page).
+[55] Si on utilisait le chiffre de 20 heures de travail que madame Bellefeuille a mentionné à l'audience, on obtiendrait un taux horaire de 40 $!
+[56] Chez le notaire Gélinas, du 1er janvier 1999 au 26 février 1999 (relevé d'emploi du 5 mars 1999, pièce A-23).
+[57] Chez le notaire Aubertin, du 19 avril 1999 au 30 juillet 1999 (relevé d'emploi du 5 août 1999, pièce A-23). Au départ, son salaire chez le notaire Aubertin était de 400 $ (pièce I-35, 3e page).
+[58] Dans une déclaration à la Commission en date du 8 mai 2002 (pièce A-26), madame Bellefeuille reconnaît avoir déposé une demande de prestations le 17 octobre 2000 : « Elle mentionne qu'elle y travaille environ 15 heures par semaine, mais que, les 4 dernières semaines, elle a travaillé 35 heures à temps plein. »
+[59] La Cour d'appel fédérale adoptait ainsi la position que j'ai défendue dans un article intitulé « Contrat de travail : Pourquoi Wiebe Door Services Ltd. ne s'applique pas au Québec et par quoi on doit le remplacer » , Deuxième recueil d'études en fiscalité (2005) de la collection L'harmonisation de la législation fédérale avec le droit civil québécois et le bijuridisme canadien, Montréal, Association de planification fiscale et financière et ministère de la Justice du Canada. On trouve aux par. 62 et suivants de cet article une discussion des différences qui peuvent exister entre les règles de droit de common law et celles du droit civil, et de pourquoi, à mon avis, l'approche adoptée dans Sagaz et dans Wiebe Door est incompatible avec les dispositions pertinentes du Code civil.
+[60] Cet argument ressemble à celui selon lequel un contribuable ne peut déduire un crédit d'impôt pour un don à une oeuvre de charité parce qu'il l'aurait fait pour obtenir un reçu aux fins fiscales. J'ai traité de cette question dans Paradis c. R., 1996 CarswellNat 2262, [1997] 2 C.T.C. 2557, aux par. 38 et suiv. Le ministre soutenait que le transfert d'une peinture ne pouvait constituer un don, à savoir une libéralité, puisque le contribuable avait reçu comme contrepartie le reçu aux fins fiscales. Pour rejeter cet argument, je m'étais fondé, notamment, sur une décision de la Cour d'appel fédérale, Friedberg c. Canada, [1991] A.C.F. no 1255 (QL), 92 DTC 6031, 6032.
+[61] Voir Bélanger c. M.R.N., 2005 CCI 36, une décision que j'ai rendue le 11 janvier 2005, aux par. 65 à 68.
+[62] Il est intéressant de noter que DRH n'a pas contesté, en l'espèce, l'admissibilité des emplois des employés du payeur qui ont participé au stratagème illicite du payeur.
+[63] Dans cette affaire, le ministre soutenait que le contrat de travail était de nullité absolue en raison du fait que le travailleur n'avait pas obtenu un permis de travail tel qu'il était requis à l'article 18 du Règlement sur l'immigration de 1978, (DORS/78-172, mod. par DORS/89-80, art. 1, et DORS/95-353, art. 6).
+[64] Le soulignement dans ce paragraphe est celui du procureur du ministre.
+[65] Les soulignements dans les par. 516 et 518 sont ceux du procureur du ministre.
+[66] Les par. 54 à 57 de mes motifs dans Massignani sont reproduits ci-dessus au par. 57.
+[67] Cet article édicte :
+Propriété et droits civils
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s'il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d'assurer l'application d'un texte dans une province, il faut, sauf règle de droit s'y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l'application du texte.
+Pour une discussion des conditions d'application de cet article, voir les par. 26 et suiv. de mon article (précité).
+[68] À l'occasion, on appliquait le principe contraire, soit le principe d'uniformité ou de dissociation. Pour une discussion de ces principes, voir mon article (précité) aux par. 14 et suiv.
+[69] Notamment dans le célèbre arrêt Wiebe Door Services Ltd. (précité).
+[70] Pour un rappel historique de ces modifications, voir la décision que j'ai rendue dans Thivierge c. Canada, [1994] A.C.I. no 876, par. 26 et suiv.
+[71] Le relevé d'emploi de madame Guylaine Dubé n'a pas été produit et il n'est pas possible de savoir si ce montant représente réellement ce que le payeur a versé à la fille de monsieur Dubé. Selon monsieur Dubé, Guylaine « ne travaillait pas pour l'entreprise, elle travaillait pour [lui]. » Pourtant, c'est le payeur qui la payait! Monsieur Dubé n'en est pas à une incohérence près.
+[72] Ce qui n'est pas vrai puisque le payeur avait obtenu de l'aide dans le cadre du programme de création d'emplois.
+[73] Par la suite, durant son témoignage, madame Garneau a reconnu que BDC n'avait pas fermé ses portes, mais elle a soutenu qu'elle avait perdu confiance dans l'avenir de BDC.
+[74] Selon la pièce I-29, madame Garneau recevait des prestations.
+[75] Dans une déclaration statutaire faite moins d'un an plus tôt, soit le 30 octobre 2002 (pièce I-26, page 2) monsieur Dubé avait nié que madame Bellefeuille avait remplacé madame Garneau « dans ses fonctions au bureau » .
+[76] Pièce I-38, page 29. Madame Garneau a même affirmé que Guylaine Dubé, la fille de Joseph Dubé, avait travaillé tant pour le payeur que pour BDC. Or, Guylaine a nié avoir fait un tel travail. De plus, monsieur Dubé a reconnu devant l'agent d'assurabilité que Guylaine n'avait jamais « réellement travaillé pour l'entreprise » (page 24 de la pièce I-38).
+[77] Résumé par l'agent d'assurabilité de la déclaration statutaire de madame Bellefeuille en date du 8 mai 2002 (pièce A-26, 3e page).
+[78] Ibid, 4e page. Voir également la pièce I-35, 6e page (résumé de l'entrevue du 8 mai 2002).
+[79] Ces deux définitions sont applicables à compter du 1er janvier 2001.
+[80] Il s'agit d'un lien de dépendance légal.
+[81] Il s'agit d'un lien de dépendance factuel.
+[82] Les alinéas 251(2)a) et 251(6)b.1) reproduits ici sont ceux en vigueur à compter du 1er janvier 2001. Ils avaient été modifiés pour y ajouter la notion d' « union de fait » . Par conséquent, en ce qui concerne les années d'imposition pertinentes aux fins de ces appels, il faut appliquer la notion de « liens [...] du mariage » conjointement avec le par. 252(4) LIR pour les années 1997 à 2000 et il faut appliquer les notions d' « union de fait » et de « conjoint de fait » ainsi que les alinéas 251(2)a) et 251(6)b.1) LIR pour l'année 2001.
+[83] Légaré c. Canada (M.R.N.), [1999] A.C.F. no 878 (QL), par. 4.
+[84] Voir également la décision du juge Léger dans McCaie c. Canada (M.R.N.), [1996] A.C.I. no 48 (QL).
+[85] De plus, en vertu des par. 18.15(4) et 18.29(1) de la Loi sur la Cour canadienne de l'impôt, L.R.C. (1985), ch. T-2, cette Cour n'est pas liée par les règles de preuve lors de l'audition d'un appel interjeté en vertu de la LAE.
+[86] Cette affirmation est également valable pour déterminer si le payeur et elle auraient conclu un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[87] Pièce I-38, p. 30, et pièce I-30. En plus des déclarations statutaires obtenues par DRH (pièce I-30), il y a le fait que l'agent d'assurabilité a lui aussi rencontré de nombreux employés du payeur, dont notamment Laurent Ducharme, Stéphane Laferrière, Louise Lambert, Monique Poirier, Yves Ostiguy, Nancy Ménard, Jean-Pierre Latreille, Jean-Guy Tremblay, Stephan Perrault, Gaston Dubuc et Jean-Marc Charrier, qui lui ont confirmé à nouveau les déclarations faites à DRH (pièce I-39).
+[88] J'ai consulté la déclaration statutaire de monsieur Ostiguy (pièce I-30) et le résumé de sa rencontre avec l'agent d'assurabilité (pièce I-39); je n'y ai pas trouvé de corroboration de cette affirmation (pièce I-38, page 30) à l'égard de cette période. Il a été employé du payeur du 4 septembre 2000 au 8 décembre 2000 et il n'a confirmé la présence de madame Garneau que pour cette période. Le nom de monsieur Ostiguy n'apparaît pas non plus au tableau de l'enquêteuse pour 1997 (pièce I-29).
+[89] Le nom de monsieur Tremblay ne se trouve pas aux tableaux de l'enquêteuse pour cette période. Il n'a pas, d'ailleurs, eu de rencontre avec elle. C'est l'agent d'assurabilité qui l'a rencontré. Il a confirmé avoir travaillé à partir du 12 juin 2000. Au moment de la rencontre, le 7 mai 2003, il était en congé de maladie. Voir pièces I-39 et I-38, p. 30.
+[90] Par exemple, dans sa déclaration statutaire du 25 avril 2002 (pièce I-30), monsieur Charrier affirme : « je me présente à tous les jours au bureau [du payeur du 7 janvier 2001 au 25 avril 2002] et à chaque jour j'ai fait affaire avec Joseph Dubé et Jacinthe Garneau » .
+[91] Or, il s'agit d'une procédure semblable, à bien des égards, à une procédure informelle, qui doit être entendue de façon expéditive. Voir la note 85.
+[92] Selon les données du tableau 5, madame Garneau a travaillé 16 semaines pour un salaire total de 11 300 $ [(800 x 2) + (700 x 13) + 600]. Si on tient pour acquis qu'elle a travaillé à longueur d'année, soit 1 976 heures (52 x 38), son taux horaire est de 5,72 $ [(11 300/1 976)]. Même si on met de côté les déclarations des autres salariés du payeur qu'elle avait travaillé durant toute l'année 2001 et qu'on exclut de ses heures de travail les heures durant lesquelles elle aurait été incapable de travailler en raison de sa maladie (18 semaines), le taux horaire pour 2001 s'élève à 8,75 $ [11 300/((52 − 18) x 38)].

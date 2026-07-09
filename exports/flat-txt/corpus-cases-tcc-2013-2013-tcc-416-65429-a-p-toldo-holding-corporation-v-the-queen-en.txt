@@ -1,0 +1,291 @@
+Title: A.P. Toldo Holding Corporation v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/65429/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-416-65429-a-p-toldo-holding-corporation-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-12-19
+
+# A.P. Toldo Holding Corporation v. The Queen
+
+- Citation: 2013 TCC 416
+- Decision date: 2013-12-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5948, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+A.P. Toldo Holding Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-12-19
+Neutral citation
+2013 TCC 416
+File numbers
+2011-2137(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-2137(IT)G
+BETWEEN:
+A.P. TOLDO HOLDING CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 5, 2013, at Toronto, Ontario.
+Before: The Honourable Justice Steven K. D’Arcy
+Appearances:
+Counsel for the Appellant:
+Vern Krishna, QC
+Counsel for the Respondent:
+Elizabeth Chasson
+Rishma Bhimji
+____________________________________________________________________
+JUDGMENT
+The appeals with respect to the reassessments made under the Income Tax Act for the 2006 and 2007 taxation years are dismissed, in accordance with the attached Reasons for Judgment.
+Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 19th day of December 2013.
+“S. D’Arcy”
+D’Arcy J.
+Citation: 2013 TCC 416
+Date: 20131219
+Docket: 2011-2137(IT)G
+BETWEEN:
+A.P. TOLDO HOLDING CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Arcy J.
+[1] There are two issues in these appeals. The first issue relates to the deduction of approximately $1.2 million of interest that A.P Toldo Holding Corporation (the “Appellant”) incurred on borrowed money that it used to redeem some of its common shares. The second issue relates to the deduction by the Appellant of approximately $51,000 of fees that relate to legal and accounting services in respect of a corporate reorganization.
+[2] Mr. Anthony G. Toldo (“Mr. Toldo”) testified on behalf of the Appellant.
+Summary of Facts
+[3] The principal assets of the Appellant are the shares it holds in four subsidiaries.[1] Through these four subsidiaries, the Appellant controls eight other corporations.[2] These companies are worth a great deal of money. I will refer to the subsidiaries and the companies controlled by the subsidiaries as the “Affiliated Companies.”
+[4] The Appellant’s other assets included cash, some marketable securities and amounts receivable from various subsidiaries.[3] Mr. Toldo testified that the Appellant derives its value from the shares it holds in the Affiliated Companies.[4] It appears from the Appellant’s unconsolidated financial statements that the Appellant did not have any employees during the relevant years.[5]
+[5] Prior to June 2006, Mr. Toldo, together with his sister, Donna May Curlin (“Donna Curlin”), and his father, Anthony P. Toldo, owned all of the shares of the Appellant. Donna Curlin held her shares (the “Subject Shares”) as trustee for the Donna May Curlin Revocable Trust (the “Donna Curlin Trust”).[6]
+[6] The shareholders held the shares as follows:
+− Mr. Toldo – 100 common shares, which allowed one vote per share.
+− Donna Curlin, as trustee for the Donna Curlin Trust – 100 common shares (the Subject Shares), which allowed one vote per share.
+− Anthony P. Toldo – 600 special shares, which allowed 3 votes per share.
+[7] Sometime during 2005, a shareholder dispute arose between the shareholders of the Appellant. It appears that this dispute also involved shares held by Thomas Curlin, Donna Curlin’s spouse, in one of the Affiliated Companies (the “Subsidiary’s Shares”). Mr. Curlin held these shares as trustee for the Thomas Baldwin Curlin Revocable Trust (the “Thomas Curlin Trust”).
+[8] The parties, through their respective counsel, negotiated a settlement to the dispute. In particular, on June 5, 2006, the Appellant entered into a settlement agreement with a number of parties, including Donna Curlin, Thomas Curlin, Mr. Toldo, Anthony P. Toldo, the Donna Curlin Trust, the Thomas Curlin Trust and 2103665 Ontario Limited (the “Settlement Agreement”). The Settlement Agreement addressed two transactions: the sale of the Subject Shares to the Appellant and the sale of the Subsidiary’s Shares to the Appellant.
+[9] Pursuant to the Settlement Agreement, Donna Curlin, as trustee for the Donna Curlin Trust, agreed to sell the Subject Shares to the Appellant for $40 million.[7] In addition, the Appellant agreed on June 5, 2006 to purchase the Subsidiary’s Shares from the Thomas Curlin Trust for a cash payment of $6.75 million.
+[10] A few days before the Appellant purchased the Subject Shares, Donna Curlin, as trustee for the Donna Curlin Trust, transferred the Subject Shares to 2103665 Ontario Limited (“2103665”).
+[11] The Settlement Agreement provided that the sale of the Subject Shares would occur in ten separate transactions. Each transaction was for the sale of 10 Subject Shares for $4 million.
+[12] Clauses 3.2 and 3.3 of the Settlement Agreement set out the timing of the payment of the $40 million for the Subject Shares and read as follows:
+3.2 Purchase Price. The purchase price of the fifty (50) common shares to be sold pursuant to the first five of the ten share purchase agreements shall be paid by certified cheques, bank drafts or wire transfers at the time of closing on the Closing Date. The purchase price of the fifty (50) common shares to be sold pursuant to the last five of the ten share purchase agreements shall be paid on the Closing Date by delivering to the 2103665 five (5) promissory notes made by APTHC [the Appellant] payable to the order of 2103665 in the amount of Four Million ($4,000,000) Dollars each due one year after the Closing Date with interest at the Bank of Nova Scotia Prime Rate on the Closing Date and payable one year after the Closing Date.
+3.3 Closing. The closing of the purchase of the APTHC Purchased Shares [the Subject Shares] pursuant to each of the ten agreements shall take place on the Closing Date at ten minute intervals commencing at 1 P.M.. Each transaction is a separate transaction and one closing shall be completed prior to commencing and completing the next closing. That process shall continue until all of the ten transactions are completed.
+[Emphasis added.]
+[13] It is clear from the two clauses that the parties intended that the Appellant pay cash of $20,000,000 for the first 50 common shares it purchased from 2103665 and issue promissory notes for $20,000,000 (the “Promissory Notes”) as consideration for the remaining 50 common shares.
+[14] On June 5, 2006, 2103665 entered into ten share purchase agreements with the Appellant (the “Share Purchase Agreements”). Mr. Toldo, Donna Curlin as trustee, and Anthony P. Toldo were also parties to the Share Purchase Agreements. Each of the Share Purchase Agreements provided for the sale by 2103665 of 10 Subject Shares for a purchase price of $4 million.[8]
+[15] The ten Share Purchase Agreements evidence that the sales of the shares occurred in the order contemplated by the Settlement Agreement. For example, the recitals to the first agreement note that 2103665 held 100 common shares of the Appellant prior to selling 10 of the common shares to the Appellant for $4,000,000 cash.[9] Similarly, the recitals to the second agreement note that 2103665 held 90 common shares before selling 10 additional common shares to the Appellant for $4,000,000 cash,[10] and the recitals to the sixth agreement note that the Appellant held 50 common shares before selling 10 additional common shares to the Appellant in consideration of a $4,000,000 promissory note.
+[16] The unconsolidated financial statements of the Appellant state that it had the following stated capital and retained earnings/deficit on December 31 of the noted years.[11]
+2005
+2006
+Stated capital
+600 Class A shares
+$600
+$600
+200 common shares (100 in 2006)
+$200
+$100
+Retained earnings (deficit)
+$6,388,552
+$(32,660,014)
+[17] Since the Appellant paid $20,000,000 cash for the first 50 of the Subject Shares it purchased for cancellation, it had a deficit at the time it issued the Promissory Notes as consideration for the remaining 50 Subject Shares.
+[18] The Appellant did not tell the Court where it obtained the $20 million cash it paid for the first 50 Subject Shares and the $6.75 million cash it paid for the Subsidiary’s Shares.
+[19] However, it is clear from the unconsolidated and consolidated financial statements of the Appellant that the Appellant borrowed approximately $22.6 million from the Affiliated Companies in 2006. The Appellant’s unconsolidated financial statements state that the Appellant’s loan payable to its affiliates increased from $239,560 at the end of 2005 to $22,825,000 at the end of 2006.[12] The Consolidated Statement of Cash Flows for the Appellant for its 2006 fiscal year shows that the increase in the loan was funded by the internal cash of the consolidated group, which totalled over $164 million at the end of 2005.[13]
+[20] Further, the Appellant classified the $22,825,000 loan from its affiliates as a current liability on its unconsolidated financial statements, meaning it intended to repay the amount within 12 months.[14]
+[21] The Appellant cancelled the 100 Subject Shares after it purchased those shares from 2103665.[15]
+[22] On April 16, 2007, the Appellant paid $21,035,616.44 in satisfaction of the Promissory Notes. This amount comprised $20 million of principal and $1,035,616.44 of interest.[16] Mr. Toldo testified that a portion of these funds came from cash generated by various subsidiaries and a portion from the Bank of Montreal.[17]
+[23] In 2007, the Appellant borrowed $17,550,000 from the Bank of Montreal. The Appellant used approximately $10 million of the loan in its operations and the remainder to satisfy the Promissory Notes and pay the related interest.[18]
+[24] When preparing its 2006 income tax return, the Appellant claimed a deduction of $687,123 for interest payable in respect of the Promissory Notes. On its 2007 income tax return, the Appellant claimed a deduction of $348,493 for interest payable in respect of the Promissory Notes and $387,862 for interest payable in respect of the loan from the Bank of Montreal.
+[25] The Minister denied all of the interest deducted in respect of the Promissory Notes and $166,858 of the interest deducted in respect of the Bank of Montreal loan. The parties agree that the denied interest deductions of $1,202,474 relate to the interest paid on the Promissory Notes and on the money borrowed from the Bank of Montreal to fund the repayment of the Promissory Notes.
+[26] The Minister also denied the deductions of $35,568 and $15,627 claimed by the Appellant for 2006 and 2007 respectively in respect of professional fees.
+The Appellant’s Position
+[27] The Appellant states, in its written submissions, that it was entitled under section 9, or alternatively, under paragraph 20(1)(c) of the Income Tax Act (the “Act”) to deduct the $1,202,474 of interest as a normal business expense of a holding company. The Appellant’s written submissions state that the Appellant is a holding company that is in the business of financing and earning income from its investments in its subsidiaries. The share redemption must be looked at in the context of the Appellant’s entire operations and not seen in isolation and out of the context of its overall business.
+[28] With respect to the professional fees, the Appellant argues that it incurred those fees in the course of its business operations and is entitled to deduct them under paragraph 9(1) of the Act.
+The Business Carried On by the Appellant
+[29] Counsel for the Appellant argued that the Appellant carried on the business of “financing and banking”.
+[30] Mr. Toldo described the activities of the Appellant as follows:
+A.P. Toldo Holding Corporation is [a] parent company of many subsidiary companies and it holds those companies as investments. It also acts as banker to those subsidiaries and some related-party affiliates. It also has investments outside the corporate umbrella.[19]
+[31] He described its financing and banking activities as follows:
+Q. You say A.P. Toldo acts as a banker. What does it do? Can you just expand on that and its role?
+A. As the banker, from time to time it finances its affiliates. It also receives deposits or loans from certain of its subsidiaries that may have excess cash. It would take that excess cash, or cash that it borrows, and lends [sic] it down to its subsidiaries or affiliates.
+Q. What would be the principal business of this holding company?
+A. I would say the principal business is to hold investments in its subsidiaries and part of that is to act as financier of those subsidiaries.
+Q. You said it also derives from other investments?
+A. Yes.
+Q. Investment income? Where would you get that from?
+A. Those would be very minor in respect to the economic activity of A.P. Toldo Holding Corporation. That could be bank funds on deposit, where if there is excess cash, it might be invested in GIC's. There may be some marketable securities from time to time that are held.
+Q. Where does the holding company derive its value?
+A. From its subsidiaries.[20]
+[32] This is the only evidence the Appellant provided with respect to its day‑to‑day activities. I did not receive any evidence with respect to such aspects of the Appellant’s day-to-day operations as who acted on behalf of the Appellant (it does not appear to have any employees), whether it played any role in managing the corporate group, and how it carried on its alleged banking business.
+[33] Counsel for the Appellant told the Court that the unconsolidated and consolidated financial statements of the Appellant provided such evidence. I do not agree. In fact, the unconsolidated and consolidated financial statements, in my view, contradict Mr. Toldo’s testimony.
+[34] The unconsolidated financial statements of the Appellant do not in my view reflect the activity of a corporation that acted as a banker for its Affiliated Companies. The Appellant simply did not have the financial resources that would have allowed it to make substantial loans to the Affiliated Companies.
+[35] I recognize that on December 31, 2005, prior to the Appellant’s purchase of the Subject Shares and the Subsidiary’s Shares, the Appellant held cash and marketable securities of approximately $4.5 million. However, such an amount is immaterial when one considers that the Affiliated Companies had annual sales of approximately $131 million[21] and that on December 31, 2005 the subsidiaries held cash and cash equivalents of approximately $160 million.[22]
+[36] I do not know why the Affiliated Companies held such large amounts of cash. In fact, the Appellant did not tell the Court what businesses the Affiliated Companies actually carried on during the relevant years. Whatever businesses they carried on, it is clear from the consolidated financial statements that the businesses generated substantial cash. In fact, the cash held by the Affiliated Companies at the end of 2005, 2006 and 2007 exceeded their annual sales.
+[37] It is my view that if anyone was in a position to be a banker, it was the Affiliated Companies not the Appellant. The only loans shown on the unconsolidated financial statements of the Appellant were loans payable by the Appellant to Affiliated Companies. These loans increased from $239,560 in 2005 to $22,825,000 in 2006, before decreasing to $15,485,000 in 2007.
+[38] I did not receive any evidence with respect to where the Appellant spent the proceeds of these loans. However, it appears from the financial statements that the Appellant used the proceeds from the $22.8 million of loans it received from the Affiliated Companies to make the $20,000,000 cash payment for the first 50 of the Subject Shares.[23]
+[39] The Appellant’s unconsolidated financial statements show an amount due from affiliates of $450,000, increasing to $1,033,847 in 2006 before decreasing to $368,395. The Appellant did not explain to the Court how these amounts arose. It is not clear to me what portion, if any, of the amounts represents loans and what portion, if any, represents receivables in respect of specific transactions.
+[40] I accept that the Appellant was engaged in a business. However, the objective evidence before me contradicts the testimony of Mr. Toldo and does not establish, even on a prima facie basis, that the Appellant carried on a business of loaning money to the Affiliated Companies or any third party.
+[41] At a minimum, the Appellant should have presented me with evidence that it lent money on a regular and continuous basis. For example, I should have received evidence with respect to such things as the frequency of the loans, which of the Affiliated Companies received the loans, the internal system for advancing such loans, repayment terms, and interest rates with respect to the loans.
+[42] I was not even provided with the amount of interest income earned by the Appellant.
+[43] The unconsolidated financial statements of the Appellant show revenue from two sources: dividend and interest income and “other income”.
+[44] The Appellant did not inform the Court of the source of the “other income”. This income was approximately $176,000 in 2005, before rising to approximately $756,000 in 2006 and falling to approximately $400,000 in 2007.[24]
+[45] The dividend and interest income totalled $733,900 in 2005 before rising to $1,244,958 in 2006 and $26,765,155 in 2007. I was not told what component of these amounts was interest and what component was dividends. It appears that most of the $26.7 million received in 2007 was dividends, since Mr. Toldo testified that the Appellant used the funds of the Affiliated Companies to discharge the promissory notes.
+[46] Similarly, it appears that the majority of the amounts received in 2005 and 2006 were dividends. The cash and marketable securities shown on the unconsolidated financial statements were not sufficient to generate the amounts of revenue shown on those statements.
+[47] However, I simply do not have the evidence to make an actual determination.
+[48] Mr. Toldo testified that the Appellant derived its value principally from the shares it held in the Affiliated Companies. This is consistent with its unconsolidated balance sheets.
+[49] On the basis of the above objective evidence, I have concluded that the Appellant is a classic example of a holding company whose primary function is to hold shares in its subsidiaries and whose primary source of income is dividends from these shares.
+Application of the Law to the Facts
+[50] The relevant provisions of the Act, namely subsection 9(1), paragraphs 18(1)(a) and (b) and subparagraphs 20(1)(c)(i) and (ii) are attached hereto as Appendix A.
+Is the Interest Deductible Under Subsection 9(1)?
+[51] I will first address the Appellant’s argument that the interest is deductible under subsection 9(1).
+[52] The Appellant’s counsel began his oral argument with respect to section 9 by stating that there is no absolute or blanket rule that all interest payments are on account of capital. He stated that the interest deduction “should go in simply under the authorities of [s]ection 9 as a pure expense incurred for the purposes of . . . earning income from a business or property.” When asked by the Court to identify the business the interest payments related to, counsel stated the following:
+The business relates to the holding company's business which is in a dispute with shareholders and is settling that dispute with one of the dissident shareholders to get rid of a problem that it would otherwise consider to be harmful to its operations. So it is the holding company's business redeeming its own shares from a dissident shareholder in order to resolve the shareholder dispute. . . .[25]
+[53] Counsel for the Appellant then noted that the Appellant was in the business of financing and banking.[26]
+[54] In its written submissions, the Appellant states the argument as follows:
+The [Appellant’s] interest expenses were incurred in the course of a corporate reorganization designed to settle a shareholder dispute and, as such, were incurred for the purposes of protecting income from the business and enhancing earnings that would be attributable to the remaining shares after it redeemed the 100 common shares [the Subject Shares] from 2103665.
+. . .
+The Taxpayer submits that the payments were not on account of a capital outlay as that term is used in paragraph 18(1)(b).[27]
+[55] Subsection 9(1) provides that a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from the business or property for the year. However, paragraph 18(1)(b) provides, in part, that in computing its income from a business or property a taxpayer is not entitled to deduct any amount in respect of an outlay, loss or replacement of capital, or a payment of account of capital.
+[56] Paragraph 20(1)(c) contains specific provisions that allow the deduction of interest. As the Supreme Court of Canada noted in Gifford v. Canada,[28] this paragraph does not provide a complete code on interest deductibility. The Supreme Court stated the following:
+. . . In circumstances where interest is not a payment “on account of capital”, it may be deducted as long as it meets the other requirements, such as those set out in s. 8(1)(f) or s. 18(1)(a), and is not precluded by some other section of the Act.[29]
+[57] While there may be situations where interest is deductible when a taxpayer is calculating its profit for the purposes of section 9, the fact situation in front of me is not one of those situations.
+[58] The interest was not paid in respect of money borrowed in the course of a money-lending business. I have found as a fact that the Appellant was not in the business of lending money.
+[59] Further, I do not accept the Appellant’s argument that the Appellant purchased the Subject Shares from a dissident shareholder in order to protect its income by resolving a shareholder dispute.
+[60] The Appellant’s income was dependent primarily on the operations of the companies that paid it dividends: the Affiliated Companies. I did not receive any evidence with respect to how the dispute involving a shareholder who owned only 12.5% of the voting shares of the Appellant and held only 5% of the voting rights negatively affected the operations of the Affiliated Companies and/or the Appellant.
+[61] The purchase of the Subject Shares for cancellation did not relate to any business carried on by the Appellant. Rather the purchase represented a large non‑recurring expenditure. In my view, such a payment is on account of capital.
+Is the Interest Paid on the Promissory Notes Deductible Under Subparagraph 20(1)(c)(ii)?
+[62] Counsel for the Appellant argued that the interest payments made on the promissory notes were deductible under subparagraph 20(1)(c)(ii) of the Act since the Appellant acquired the Subject Shares for the purpose of gaining or producing income from a business. He identified the business as the business of financing and banking.[30]
+[63] In addition, the Appellant argued that the Court should allow the interest deduction on the basis of the “fill the hole” theory set out in Trans-Prairie Pipelines Ltd. v. M.N.R.[31] and Penn Ventilator Canada Ltd. v. The Queen (“Penn Ventilator Canada”).[32]
+[64] Subparagraph 20(1)(c)(ii) allows the deduction of interest whose deduction would otherwise be denied under paragraphs 18(1)(a) and 18(1)(b). The provision has the following elements:
+− The amount must be paid in the year or payable in respect of the year.
+− The amount must be paid pursuant to a legal obligation to pay interest on an amount payable for property acquired for the purposes of gaining or producing income from the property or for the purpose of gaining or producing income from a business.
+− The income from the property must be non-exempt and the property must not be an interest in a life insurance policy.
+[65] The Respondent accepted that the interest in question was paid or payable in the relevant year.
+[66] Counsel for the Appellant accepted that the Appellant did not acquire the Subject Shares for the purpose of gaining or producing income from the shares.[33] Indeed, the Appellant cancelled the shares.
+[67] Counsel for the Appellant argued that the interest paid on the promissory notes was deductible under subparagraph 20(1)(c)(ii) on the basis that the Subject Shares were acquired by the Appellant for the purpose of gaining or producing income from its business. It appears that counsel was arguing that the Court should consider an indirect use of the Subject Shares.
+[68] It is my view that, for the purposes of subparagraph 20(1)(c)(ii), the direct use of shares of a corporation acquired by the corporation for cancellation can never be to gain or produce income from a business. This simply cannot happen if the shares are cancelled after they are purchased by the corporation.
+[69] However, in Penn Ventilator Canada, this Court allowed a deduction under subparagraph 20(1)(c)(ii) that was based on an indirect use of common shares purchased for cancellation. That appeal involved a shareholder dispute implicating several corporations and other legal entities. In order to settle this dispute, Penn Ventilator purchased for cancellation some of its common shares. When purchasing those common shares for cancellation, Penn Ventilator paid a substantial portion of the purchase price by issuing a promissory note to the vendors.
+[70] In Penn Ventilator Canada, this Court heard detailed evidence with respect to the significant negative impact the shareholders’ dispute had on Penn Ventilator’s ability to carry on its business. For example, the Court discussed how the demands made by the dissenting shareholders posed a threat to the liquidity of Penn Ventilator and how the top managers of the corporate group devoted a substantial portion of their working day to the related litigation.
+[71] Penn Ventilator Canada is based upon a fairly unique fact situation. In my view, it is only in an exceptional fact situation, such as one in Penn Ventilator Canada, that the Court should consider an indirect use when applying subparagraph 20(1)(c)(ii).
+[72] Such a view is consistent with the Supreme Court of Canada’s decision in the Bronfman Trust[34] case. The Supreme Court noted, in applying subparagraph 20(1)(c)(i), that the courts should not ignore the direct use to which a taxpayer puts borrowed money.[35] However, the Court also recognized that there may be “. . . exceptional circumstances in which, on a real appreciation of a taxpayer’s transactions, it might be appropriate to allow the taxpayer to deduct interest on funds borrowed for an ineligible use because of an indirect effect on the taxpayer's income-earning capacity. . . .”[36]
+[73] In my opinion, these comments apply equally to subparagraph 20(1)(c)(ii). The Court should not ignore the direct use of the acquired property. However, in exceptional circumstances, it may be appropriate for the Court to allow the deduction because of an indirect effect that the acquisition of the property had on the taxpayer’s income-earning capacity.
+[74] The question I must answer is: Do such exceptional circumstances exist in this appeal?
+[75] If I understand counsel for the Appellant’s argument correctly, he is stating that, in the current appeal, the resolution of the shareholder dispute with Ms. Curlin had the requisite indirect effect on the Appellant’s income-earning capacity. He is also arguing that I should allow the deduction of the interest under the “fill the hole” theory.
+[76] Counsel’s argument with respect to the shareholder dispute is similar to his subsection 9(1) argument. He argued that the Appellant acquired the Subject Shares for the purpose of gaining or producing income or protecting income in the business and the residual outstanding shares of the corporation.
+[77] As I have previously noted, I do not accept that that the Subject Shares were purchased to protect the income of the Appellant. Unlike the Court in Penn Ventilator Canada, I was provided with very little evidence with respect to the operations of the Appellant and the impact the shareholder dispute had on these operations.
+[78] Counsel for the Appellant emphasized that I should consider the consolidated operations of the Appellant and the Affiliated Companies. However, I was not told what businesses the Affiliated Companies carried on or what impact the shareholder dispute had on these businesses.
+[79] In summary, the shareholder dispute involving Ms. Curlin did not constitute an exceptional circumstance.
+[80] The “fill the hole” theory does not help the Appellant. The basis of the theory was summarized by Bill S. Maclagan in his paper “Interest Deductibility – an Update”, presented at the 2009 British Columbia Tax Conference, as follows:
+. . . The idea in these cases is that the borrowing (or acquisition of shares and issuance of a note) merely fills the hole that would be left if assets were sold, funds were then returned to the shareholders as a return of capital or payment of dividends and then the corporation went out, borrowed money and reinvested it back into its business.
+[81] The difficulty for the Appellant is that, at the time the Appellant redeemed the 50 Subject Shares in respect of which it issued the Promissory Notes, it only had $200 of stated capital in respect of the common shares and no retained earnings. In short, there was no material amount of capital to return and no retained earnings to pay out. As a result, I do not have to consider whether there was a “fill the hole” scenario that would constitute an exceptional circumstance.
+Is the Interest Paid on the Bank of Montreal Loan Deductible Under Subparagraph 20(1)(c)(i)?
+[82] The Appellant did not refer specifically to subparagraph 20(1)(c)(i). However, the Appellant obviously feels entitled to deduct an amount under subparagraph 20(1)(c)(i) in respect of the interest payable on the Bank of Montreal loan to the extent that the loan proceeds were used to repay the Promissory Notes.
+[83] Subparagraph 20(1)(c)(i) applies in respect of interest payments on borrowed money that is used for the purpose of earning income from a business or property.
+[84] The Supreme Court of Canada in Shell Canada Ltd. v. Canada[37] noted that the following four conditions must be met:
+. . . The provision has four elements: (1) the amount must be paid in the year or be payable in the year in which it is sought to be deducted; (2) the amount must be paid pursuant to a legal obligation to pay interest on borrowed money; (3) the borrowed money must be used for the purpose of earning non-exempt income from a business or property; and (4) the amount must be reasonable, as assessed by reference to the first three requirements.[38]
+[85] The only issue before the Court is whether the approximately $7,550,000 that the Appellant borrowed from the Bank of Montreal in 2007 in connection with the redemption of the Subject Shares was used for the purpose of earning non-exempt income from a business or property.
+[86] The Appellant borrowed the approximately $7,550,000 from the Bank of Montreal to satisfy the promissory notes that it issued on the purchase of the Subject Shares for the purchase of their cancellation. In point of fact, the Appellant did not use the borrowed funds directly to earn income from its business or from property.
+[87] My comments with respect to the lack of exceptional circumstances in this appeal that would permit the deduction of interest under subparagraph 20(1)(c)(ii) apply equally to the deduction of interest under subparagraph 20(1)(c)(i).
+[88] The “fill the hole” theory does not apply and the Appellant did not present the Court with any other facts that would allow the interest on the borrowed funds to be deductible on the basis of an indirect use of the borrowed money.
+[89] For the foregoing reasons, I have concluded that the interest payable on the Promissory Notes and on the relevant portion of the Bank of Montreal loan was not deductible.
+Professional Fees
+[90] I received very little evidence with respect to the professional fees at issue.
+[91] When assessing the Appellant, the Minister made the following assumptions:
+− In 2006, the Appellant sought to deduct $51,963 in legal and professional fees;
+− Of this amount, the Appellant paid $35,567.69 for advice and legal services with respect to corporate reorganization activities;
+− In 2007, the Appellant sought to deduct $32,560 in legal and professional fees; and
+− Of this amount, the Appellant paid $15,627.33 for advice and legal services with respect to corporate reorganization activities.[39]
+[92] The Appellant did not provide any evidence to challenge these assumptions. Mr. Toldo testified that the Appellant incurred legal fees with respect to the purchase of the Subject Shares and the loan from the Bank of Montreal. He also stated that the Appellant incurred accounting fees relating to the purchase of the Subject Shares.[40]
+[93] Mr. Toldo testified that the Canada Revenue Agency did not identify the actual portion of a specific legal or accounting bill that was denied as a deduction. It is not clear why, if the Appellant felt this information was important to its appeal, it did not obtain such information during the discovery process. Regardless, counsel for the Appellant informed the Court that the Appellant was not contesting the quantum of the denied expenses.
+[94] Counsel for the Appellant argued that the Appellant incurred the professional fees in the course of financing its business operations and is entitled to deduct those fees under subsection 9(1) of the Act.
+[95] Counsel for the Respondent argued that the expenses were capital in nature.
+[96] I agree with counsel for the Respondent. The professional fees were incurred in the course of acquiring a capital asset, the Subject Shares. Since the fees are associated with a capital transaction, they must be recognized as having been incurred on account of capital.[41]
+[97] For the foregoing reasons, the appeal is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 19th day of December 2013.
+“S. D’Arcy”
+D’Arcy J.
+Appendix A
+9. (1) Income — Subject to this Part, a taxpayer's income for a taxation year from a business or property is the taxpayer's profit from that business or property for the year.
+. . .
+18. (1) General limitations — In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) General limitation — an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+(b) Capital outlay or loss — an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;
+. . .
+20. (1) Deductions permitted in computing income from business or property - Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+. . .
+(c) Interest — an amount paid in the year or payable in respect of the year (depending on the method regularly followed by the taxpayer in computing the taxpayer's income), pursuant to a legal obligation to pay interest on
+(i) borrowed money used for the purpose of earning income from a business or property (other than borrowed money used to acquire property the income from which would be exempt or to acquire a life insurance policy),
+(ii) an amount payable for property acquired for the purpose of gaining or producing income from the property or for the purpose of gaining or producing income from a business (other than property the income from which would be exempt or property that is an interest in a life insurance policy) . . .
+CITATION: 2013 TCC 416
+COURT FILE NO.: 2011-2137(IT)G
+STYLE OF CAUSE: A.P. TOLDO HOLDING CORPORATION v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 5, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT: December 19, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Vern Krishna, QC
+Counsel for the Respondent:
+Elizabeth Chasson
+Rishma Bhimji
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Vern Krishna, QC
+Firm: Borden Ladner Gervais LLP
+Ottawa, Canada
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibits A-4 and A-5.
+[2] Exhibit A-3.
+[3] Exhibits A-4 and A-5.
+[4] Transcript, testimony of Anthony Toldo, pages 7-8.
+[5] Exhibit A-4.
+[6] Exhibits A-3, A-6 and R-3.
+[7] Exhibit A-10; Transcript, testimony of Anthony Toldo, page 18.
+[8] Exhibit R-3.
+[9] Ibid.
+[10] Ibid.
+[11] Exhibit A-4, page 4.
+[12] Exhibit A-4, page 4.
+[13] Exhibit A-8, page 7.
+[14] Exhibit A-4, page 4.
+[15] Exhibit A-8, page 11.
+[16] Transcript, testimony of Anthony Toldo, pages 32 -33, Exhibits A-11 and A-12.
+[17] Transcript, testimony of Anthony Toldo, page 32.
+[18] Ibid., pages 32-33.
+[19] Transcript, testimony of Anthony Toldo, pages 5-6.
+[20] Ibid., pages 6-8.
+[21] See Exhibit A-8, page 6, Consolidated Statement of Earnings.
+[22] Exhibit A-8, page 7, Consolidated Statement of Cash Flows, and page 4, Consolidated Balance Sheet.
+[23] Exhibit A-8, page 7, Consolidated Statement of Cash Flows, and page 11, Notes to the Consolidated Financial Statements.
+[24] Exhibit A-4, page 5 and Exhibit A-5, page 5.
+[25] Transcript, argument, pages 82-83.
+[26] Ibid., page 85.
+[27] Written Submissions of the Appellant, paragraphs 57 and 59.
+[28]2004 SCC 15, [2004] 1 S.C.R. 411, 2004 DTC 6120.
+[29] Ibid., paragraph 37.
+[30]Transcript, argument, pages 100-101.
+[31] 70 DTC 6351. (Ex. Ct.), page 6354.
+[32] 2002 DTC 1498 (TCC), paragraph 51.
+[33] Transcript, page 100.
+[34] Bronfman Trust v. The Queen, [1987] 1 S.C.R. 32, 87 DTC 5059.
+[35] Ibid, page 48 S.C.R. (5065 DTC).
+[36] Ibid, page 54 S.C.R. (5067 DTC).
+[37] [1999] 3 S.C.R. 622.
+[38] Ibid., paragraph 28.
+[39] Reply, paragraphs 8 mm) to pp).
+[40] Transcript, testimony of Mr. Toldo, pages 35-36.
+[41] See Potash Corp. of Saskatchewan Inc. v. The Queen, 2011 TCC 213, 2011 DTC 1163, at paragraph 87.

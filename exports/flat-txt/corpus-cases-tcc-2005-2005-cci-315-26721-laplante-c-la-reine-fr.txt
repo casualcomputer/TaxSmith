@@ -1,0 +1,156 @@
+Title: Laplante c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26721/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-315-26721-laplante-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-12-01
+
+# Laplante c. La Reine
+
+- Citation: 2005 CCI 315
+- Decision date: 2005-12-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3402, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laplante c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-12-01
+Référence neutre
+2005 CCI 315
+Numéro de dossier
+2004-3217(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3217(IT)I
+ENTRE :
+BRUNO LAPLANTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 27 avril 2005, à Québec (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000, 2001 et 2002 sont accueillis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2005.
+« Paul Bédard »
+Juge Bédard
+Référence : 2005CCI315
+Date : 20051201
+Dossier : 2004-3217(IT)I
+ENTRE :
+BRUNO LAPLANTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] La question en litige est relativement simple : il s'agit de déterminer si les pertes découlant de la disposition d'actions cotées en bourse pouvaient être déduites dans le calcul du revenu de l'appelant à titre de pertes d'entreprise. S'agissait-il de pertes d'entreprise ou de pertes en capital?
+[2] Pour les années d'imposition 2000, 2001 et 2002, le ministre du Revenu national (le « ministre » ) a, en vertu du paragraphe 9(3) de la Loi de l'impôt sur le revenu (la « Loi » ), refusé à l'appelant le droit de déduire à titre de pertes nettes d'entreprise les montants respectifs de 16 393 $, de 24 703 $ et de 2 435 $. Pour les mêmes années d'imposition, le ministre a reconnu à l'appelant le droit de déduire, à titre de pertes nettes en capital, les montants respectifs de 5 117 $, de 3 523 $ et de 2 235 $.
+[3] Les faits sur lesquels l'intimée s'est appuyée pour rendre sa décision sont décrits au paragraphe 18 de la Réponse à l'avis d'appel et sont les suivants :
+Pertes nettes d'entreprise refusées
+a) Au cours des années d'imposition en litige, l'appelant détenait un emploi à plein temps;
+b) Au cours des années d'imposition en litige, l'appelant a déclaré les pertes nettes d'entreprise suivantes :
+Description
+2000
+2001
+2002
+Revenus bruts
+144 558 $
+268 297 $
+7 495 $
+(Dépenses)
+(160 951 $)
+(293 000 $)
+(9 930 $)
+(PERTES NETTES)
+( 16 393 $)
+( 24 703 $)
+(2 435 $)
+c) L'appelant a réclamé les montants mentionnés dans le sous-paragraphe précédant relativement à des activités d'achats/ventes d'actions à la bourse;
+d) Lors de sa vérification, la vérificatrice du ministre a constaté ce qui suit, relativement aux activités de l'appelant :
+i) Les transactions effectuées n'étaient pas semblables à celle d'un commerçant ou d'un courtier en valeurs mobilières;
+ii) L'appelant gérait simplement son portefeuille personnel d'une façon plus risquée que s'il s'agissait de fonds mutuels;
+iii) Le portefeuille détenu par l'appelant était petit (transactions de 300 $ à 5 000 $);
+iv) Il ne s'agissait pas d'achats et de ventes intensifs de valeurs mobilières;
+v) Compte tenu du genre de travail que l'appelant exerçait (vente d'équipement de sport), il n'était pas en mesure de très bien connaître le marché des valeurs mobilières;
+vi) Il ne pouvait détenir des renseignements spéciaux pouvant lui faire bénéficier de gains rapides sur certaines transactions;
+vii) Les transactions de valeurs mobilières ne faisaient pas partie des activités habituelles de l'appelant;
+viii) Les valeurs mobilières n'étaient pas principalement achetées sur marge ou financées par un autre genre de dette;
+ix) L'appelant ne possédait pas de permis de courtier en valeurs mobilières et n'avait fait aucune étude dans ce domaine;
+x) L'appelant n'avait pas de clients et n'a jamais fait de publicité pour en avoir;
+xi) Les actions acquises par l'appelant ne comportaient pas d'options d'achats, il s'agissait donc d'actions régulières et non hautement spéculatives;
+xii) Étant donné que le portefeuille était petit (transactions de 300 $ à 5 000 $), ces transactions ne demandaient pas que l'appelant y consacre beaucoup de temps;
+e) De plus, l'appelant a mentionné à la vérificatrice du ministre lors de la rencontre initiale, qu'il achetait et vendait des actions qu'à titre personnel;
+f) À la lumière de l'analyse faite, la vérificatrice du ministre a déterminé que les transactions pour lesquelles l'appelant a réclamé des pertes nettes d'entreprise, étaient plutôt des transactions de nature capitale;
+g) Le ministre a donc refusé à l'appelant les montants respectifs de 16 393 $, 24 703 $ et 2 435 $ pour les années d'imposition 2000, 2001 et 2002, réclamés par ce dernier à titre de pertes nettes d'entreprise;
+Pertes nettes en capital
+h) Le ministre a reconnu à l'appelant, les montants respectifs de 5 117 $, 3 523 $ et 2 235 $, pour les années d'imposition 2000, 2001 et 2002, à titre de pertes nettes en capital.
+[4] Il convient de souligner que l'appelant a admis tous les faits énoncés au paragraphe 18 de la Réponse à l'avis d'appel, à l'exception de ceux énoncés aux paragraphes d)i), d)ii), d)iv), d)vii), d)xi) et d)xii).
+Témoignage de l'appelant
+[5] Pendant la période en cause, l'appelant était mécanicien. La formation scolaire de l'appelant se résumait à l'obtention d'un certificat en Technique administrative. L'appelant a relaté qu'il avait décidé d'encaisser au printemps 2000 fonds communs de placement (environ 38 000 $), dont le rendement stagnait, et de prendre en main ses placements. C'est ainsi que l'appelant transférait en avril 2001 à un courtier de la CIBC le produit de disposition de ses placements (38 000 $) ainsi que ses économies personnelles (12 000 $). Il a relaté que sa stratégie de placement consistait à acheter des actions cotées en bourse dont le coût était généralement inférieur à 1,00 $. Il a expliqué que ce type de placement était hautement spéculatif. Il a insisté sur le fait que la rotation de ses placements était très rapide, soulignant qu'il avait fréquemment vendu des actions la journée même de leur acquisition. Pour démontrer qu'il était très actif sur le marché boursier pendant la période pertinente, l'appelant a témoigné qu'il avait fait 170 opérations, 250 opérations et 14 opérations respectivement au cours des années d'imposition 2000, 2001 et 2002 et a déposé en preuve la pièce A-3 pour appuyer son témoignage à cet égard.
+[6] L'appelant a affirmé qu'il avait consacré une partie importante de son temps, en l'occurrence une vingtaine d'heures par semaine (le soir et les fins de semaine), à l'étude du marché des valeurs mobilières et à la recherche d'occasions d'achats. Ainsi, il avait participé sur Internet, à raison d'une heure par jour, à des forums de discussions spécialisés. De plus, il avait fréquemment consulté son beau-père qui était très actif sur le marché boursier et, à l'occasion, un de ses amis qui, à l'époque, était courtier en valeurs mobilières. De plus, il consultait les pages financières de journaux locaux et l'information financière fournie par son courtier. Par ailleurs, l'appelant a admis n'avoir consacré aucun temps à l'étude des prospectus ou des états financiers des sociétés dont il se proposait d'acheter les actions. Les motifs sous-jacents à l'acquisition d'actions se résumaient ainsi : il achetait le titre d'une société donnée si celle-ci annonçait l'obtention d'un contrat important ou encore s'il jugeait que le cours du titre était au début d'un cycle haussier.
+Analyse
+[7] De façon générale, le résultat d'une opération est un gain (ou une perte) en capital dans la mesure où il y a une compatibilité avec la notion de placement, c'est-à-dire lorsqu'il s'agit de la disposition d'un bien acquis dans la perspective d'un rendement financier (c.-à-d. pour tirer un revenu de biens ou d'une entreprise) ou encore pour des fins personnelles. Au contraire, le résultat d'une opération est considéré comme un revenu (ou une perte) d'entreprise lorsque l'opération s'apparente à la notion d'entreprise, de commerce, de spéculation ou encore à une affaire ou un projet de caractère commercial.
+[8] En l'absence de définitions données dans des lois, plusieurs critères ont donc dû être élaborés par les tribunaux dans leur effort de caractériser un gain ou une perte résultant d'un travail particulier. On doit se rappeler cependant qu'un critère pris isolement n'est pas nécessairement suffisant ou déterminant et qu'il faut donc dans chaque cas examiner toutes les circonstances dans lesquelles a eu lieu une opération. Parmi les critères ou éléments les plus souvent utilisés, on peut signaler les suivants :
+i) l'intention véritable du contribuable, telle que manifestée par sa conduite et telle que démontrée par les circonstances dans lesquelles ont eu lieu les opérations;
+ii) le temps écoulé entre l'achat et la vente;
+iii) la répétition d'opérations semblables (un historique d'achats et de ventes intensifs de valeurs mobilières);
+iv) la nature des valeurs mobilières (sont-elles de nature spéculative?);
+v) est-ce que les opérations sont semblables à celles que ferait un courtier en valeurs mobilières ou encore sont-elles faites de la même façon? En ce sens, est-ce que le contribuable consacre une partie importante de son temps à l'étude de marché des valeurs mobilières et à la recherche d'occasions d'achat? Est-ce que les valeurs mobilières sont principalement achetées sur marge ou financées par d'autres genres de dettes?
+Intention de l'appelant
+[9] Quelle était l'intention de l'appelant? À la lumière du témoignage de l'appelant, particulièrement quant à la nature spéculative des valeurs mobilières achetées et vendues, au nombre d'opérations réalisées pendant la période pertinente, à la courte durée de détention de ces valeurs mobilières, il ressort clairement que la seule intention de l'appelant était de vendre à profit le plus rapidement possible les valeurs mobilières qu'il avait acquises.
+Nature des valeurs mobilières
+[10] Il ressort de la pièce A-3 que la très grande majorité des actions avaient été acquises par l'appelant à des fins purement spéculatives. Bon nombre des actions acquises par l'appelant était lié à des sociétés oeuvrant dans le domaine des ressources naturelles. Le coût des actions acquises était en majorité inférieur à 1,00 $ (actions appelées « penny stocks » dans le jargon). Il me semble évident que ce genre d'action ne produit à peu près jamais de dividendes.
+Le temps écoulé entre l'achat et la vente
+[11] La preuve a révélé que la période de détention des actions était généralement très courte. Dans plusieurs cas, l'appelant avait vendu les actions la journée même de leur acquisition.
+Historique des opérations
+[12] Il convient de rappeler que, malgré le petit pécule dont disposait l'appelant (50 000 $), ce dernier avait fait 170 opérations au cours de l'année 2000, 250 opérations au cours de l'année 2001 et 140 opérations au cours de l'année 2002 (année où il avait cessé ses activités de placement).
+Opération semblable à celle d'un commerçant en semblables matières
+[13] L'avocate de l'intimée a soutenu que les opérations de l'appelant n'étaient pas semblables à celles d'un commerçant ou d'un courtier en valeurs mobilières et qu'elles n'étaient pas faites de la même façon, et ce, pour les motifs suivants :
+i) les actions n'étaient pas achetées sur marge ou financées par un autre genre de dette;
+ii) l'appelant avait très peu de connaissances ou d'expérience dans le domaine des valeurs mobilières;
+iii) l'appelant ne consacrait pas une partie importante de son temps à l'étude du marché des valeurs mobilières et à la recherche d'occasions d'achat;
+iv) ses outils de recherche (pages financières des journaux locaux, discussions avec son beau-père et un ami courtier) étaient très rudimentaires en l'espèce;
+v) la stratégie de placement de l'appelant était simpliste.
+[14] Bien que l'appelant n'était pas un contribuable très expérimenté et sophistiqué en matière de placements, il n'en demeure pas moins qu'il a consacré à mon avis une grande partie de son temps à cette activité. Je ne crois pas que son peu d'expérience et son peu de sophistication soient des motifs pour lui refuser le droit de déduire une perte d'entreprise. L'intention de l'appelant était clairement de vendre à profit le plus rapidement possible les valeurs mobilières qu'il avait acquises. La nature spéculative des actions acquises, le nombre d'opérations réalisées pendant la période pertinente et la courte durée de détention de ces valeurs mobilières sont autant d'indices au sujet de la véritable intention de l'appelant qui me portent à conclure que l'appelant était en droit de déduire dans le calcul de son revenu des pertes nettes d'entreprise de 16 393 $, de 24 703 $ et de 2 435 $ respectivement pendant les années d'imposition 2000, 2001 et 2002.
+[15] Pour ces motifs, les appels sont accueillis.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2005.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2005CCI315
+N º DU DOSSIER DE LA COUR : 2004-3217(IT)I
+INTITULÉ DE LA CAUSE : Bruno Laplante et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : le 27 avril 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 1er décembre 2005
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Anne Poirier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

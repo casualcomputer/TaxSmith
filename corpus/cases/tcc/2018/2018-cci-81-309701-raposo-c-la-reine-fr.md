@@ -1,0 +1,176 @@
+---
+title: "Raposo c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/309701/index.do"
+last_modified: "2018-04-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 81"
+citation2: ""
+neutral_citation: "2018 CCI 81"
+decision_date: "2018-04-26"
+language: "fr"
+item_id: "309701"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4846
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:56:19.756000+00:00"
+cases_cited_count: 9
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8ae8ef0d6d75830d9d47b0c669ab9c98860c13303a230bd492ea41efd6a31c85"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Raposo c. La Reine
+
+- Citation: 2018 CCI 81
+- Decision date: 2018-04-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4846, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Raposo c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-04-26
+Référence neutre
+2018 CCI 81
+Numéro de dossier
+2015-2983(GST)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2015-2983(GST)G
+ENTRE :
+DANIEL RAPOSO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu les 6 et 7 avril 2017, à Ottawa (Ontario)
+Devant : L'honorable juge B. Paris
+Comparutions :
+Avocate de l'appelant :
+Me Chantal Donaldson
+Avocat de l'intimée :
+Me Marc Lesage
+JUGEMENT
+L’appel à l’encontre de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise, dont l’avis est daté du 25 mars 2013, est accueilli, sans dépens, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 26e jour d’avril 2018.
+« B.Paris »
+Juge Paris
+Référence : 2018 CCI 81
+Date : 20180426
+Dossier : 2015-2983(GST)G
+ENTRE :
+DANIEL RAPOSO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L’appelant porte en appel une cotisation, établie par le ministre du Revenu du Québec (le « ministre ») le 25 mars 2013 en vertu de la partie IX de la Loi sur la taxe d’accise (LTA), d’un montant de 63 706,38 $ (comprenant des intérêts et une pénalité) pour la période du 1er janvier 2009 au 31 décembre 2010. Selon le ministre, l’appelant faisait partie d’un groupe, appelé le « clan Raposo », qui était impliqué dans la vente de stupéfiants. Le ministre a conclu que l’appelant était, de ce fait, solidairement responsable avec les autres membres du clan Raposo du paiement d’un montant de 40 200,00 $ au titre de la taxe sur les produits et services (« TPS ») percevable sur les ventes de stupéfiants.
+[2] La question en litige est de savoir s’il existe entre l’appelant et les autres membres du clan Raposo une responsabilité solidaire de telle sorte que l’appelant est responsable de la TPS non perçue et non remise sur les ventes de stupéfiants effectuées par le clan en 2009 et en 2010.
+Faits
+[3] Dans le cadre d’une enquête qui a débuté en janvier 2009, les policiers de l’Escouade régionale mixte de l’Outaouais (« l’ERM ») ont appris que deux groupes, dont le clan Raposo, étaient impliqués dans le trafic de stupéfiants dans la région de Gatineau. Le clan Raposo est composé de quatre membres : l’appelant, son frère Emmanuel Raposo, Denis Lecompte et Gilles Poiré. Emmanuel Raposo a été identifié comme la tête dirigeante du clan.
+[4] Selon l’enquêteur de l’ERM qui a témoigné en l’espèce, le clan Raposo s’approvisionnait auprès des Hells Angels de Montréal et revendait au clan Lalonde à Gatineau. L’enquêteur a conclu que, de mai 2009 à mars 2010, le clan Raposo a vendu 10 kilos de cocaïne au clan Lalonde.
+[5] L’enquête de l’ERM a mené à l’arrestation, en juin 2010, de 23 personnes, y compris les membres du clan Raposo.
+[6] Des accusations de complot et de possession de stupéfiants en vue d’en faire le trafic ont été portées contre l’appelant, il a plaidé coupable le 7 janvier 2014. Il a reçu une peine de deux ans moins un jour de prison, avec sursis.
+[7] En dépit de son plaidoyer de culpabilité, l’appelant dit que sa participation aux activités du clan Raposo était très limitée et qu’il n’a pas partagé les bénéfices de ces activités. Selon l’appelant, son frère lui aurait demandé, dès mai 2009, qu’il l’aide en transmettant des messages verbaux à André Verdon et en livrant des paquets. Ses courses ne prenaient jamais plus de 20 minutes. Le sujet des messages était le lieu et l’heure de futurs rendez-vous. L’appelant affirme ne pas avoir eu connaissance du contenu des paquets au moment de l’acte, mais l’enquêteur de l’ERM a présumé que les livraisons servaient au transfert de l’argent. Toujours est-il que l’appelant a confirmé que, pour chacune des six ou sept commissions qu’il a entreprises, son frère lui remettait entre 200 $ et 250 $.
+[8] La preuve appuie l’assertion de l’appelant que ses revenus liés aux activités du clan se sont limités à ces paiements reçus de son frère. Ni les perquisitions menées par la police au domicile de l’appelant ni l’analyse de « mouvement de trésorerie » effectuée par Revenu Québec n’ont permis de conclure que Daniel Raposo a bénéficié d’une part des revenus tirés du commerce de la cocaïne, à part les paiements pour les commissions qu’il a faites.
+[9] En décembre 2009, l’appelant a décidé d’arrêter de travailler avec son frère. Quant aux raisons qui l’ont poussé à arrêter, l’appelant a expliqué qu’il avait peur et qu’il savait qu’il s’agissait de « dirty business ». Après décembre 2009, l’appelant n’était plus impliqué dans les activités du clan Raposo.
+[10] En établissant la cotisation en cause, le ministre s’est fondé sur des renseignements recueillis par l’ERM selon lesquels le clan Raposo avait vendu neuf kilos de cocaïne en 2009 et trois kilos en 2010, au prix de 67 000 $ le kilo. Le ministre a tenu pour acquis que l’appelant et les autres membres du clan Raposo ont comploté et mis leurs efforts en commun pour acheter et vendre des stupéfiants, ont participé à ces activités et, de ce fait, sont solidairement responsables du paiement de la TPS percevable sur les fournitures effectuées.
+Position de l’intimée
+[11] Lors de l’audition de l’appel, le procureur de l’intimée a soutenu que la responsabilité solidaire des membres du clan Raposo, y compris l’appelant, de payer la dette fiscale du clan découlait de l’article 1525 alinéa 2 du Code civil du Québec, 1991, ch. 64. (« C.c.Q. »). L’article 1525 est ainsi rédigé :
+1525. La solidarité entre les débiteurs ne se présume pas; elle n’existe que lorsqu’elle est expressément stipulée par les parties ou prévue par la loi.
+Elle est, au contraire, présumée entre les débiteurs d’une obligation contractée pour le service ou l’exploitation d’une entreprise.
+Constitue l’exploitation d’une entreprise l’exercice, par une ou plusieurs personnes, d’une activité économique organisée, qu’elle soit ou non à caractère commercial, consistant dans la production ou la réalisation de biens, leur administration ou leur aliénation, ou dans la prestation de services.
+(Mon soulignement)
+[12] En anglais, l’article 1525 est rédigé comme suit :
+1525. Solidarity between debtors is not presumed; it exists only where it is expressly stipulated by the parties or provided for by law.
+Solidarity between debtors is presumed, however, where an obligation is contracted for the service or operation of an enterprise.
+The carrying on by one or more persons of an organized economic activity, whether or not it is commercial in nature, consisting of producing, administering or alienating property, or providing a service, constitutes the operation of an enterprise.
+[13] L’intimée a soutenu que la solidarité devait être présumée puisque Daniel Raposo avait contracté une obligation en participant au trafic de cocaïne. Cependant, lorsqu’elle a été questionnée là-dessus, l’intimée n’a pu préciser la nature de l’obligation ni expliquer la relation entre l’article 1525 du C.c.Q. et l’article 1413 du C.c.Q., qui édicte la nullité de tout contrat contraire à l’ordre public. La Cour a donc invité l’intimée à fournir par écrit une analyse textuelle, contextuelle et téléologique de l’article 1525 alinéa 2 du C.c.Q., c’est-à-dire une analyse portant sur la question de savoir si une dette fiscale pouvait constituer « une obligation contractée pour le service ou l’exploitation d’une entreprise. »
+[14] Plutôt que d’accéder à cette demande, dans ses observations écrites, l’intimée a abandonné son argument selon lequel il y avait solidarité en vertu de l’article 1525 du C.c.Q. En effet, il a été décidé de fonder la cotisation uniquement sur la responsabilité solidaire découlant du paragraphe 272.1(5) de la LTA lequel permet qu’une cotisation fondée sur la responsabilité solidaire des associés soit établie à l’égard d’un associé d’une société de personnes.
+[15] Le paragraphe 272.1(5) de la LTA dispose :
+Responsabilité solidaire
+(5) Une société de personnes et chacun de ses associés ou anciens associés (chacun étant appelé « associé » au présent paragraphe), à l’exception d’un associé qui en est un commanditaire et non un commandité, sont solidairement responsables de ce qui suit :
+a) le paiement ou le versement des montants devenus à payer ou à verser par la société en vertu de la présente partie avant ou pendant la période au cours de laquelle l’associé en est un associé ou, si l’associé était un associé de la société au moment de la dissolution de celle-ci, après cette dissolution; toutefois :
+(i) l’associé n’est tenu au paiement ou au versement des montants devenus à payer ou à verser avant la période que jusqu’à concurrence des biens et de l’argent qui sont considérés comme étant ceux de la société selon les lois pertinentes d’application générale concernant les sociétés de personnes qui sont en vigueur dans une province,
+(ii) le paiement ou le versement par la société ou par un de ses associés d’un montant au titre de l’obligation réduit d’autant l’obligation;
+b) les autres obligations de la société aux termes de la présente partie survenues avant ou pendant la période visée à l’alinéa a) ou, si l’associé est un associé de la société au moment de la dissolution de celle-ci, les obligations qui découlent de cette dissolution.
+(mon soulignement)
+[16] Dans la présente affaire, l’intimée prétend que le clan constitue pour l’application de la LTA, une « société de personnes » faisant le commerce de la cocaïne et que les membres du clan doivent dès lors être reconnus comme « associés » de la société de personnes.
+[17] L’intimée soutient que Daniel Raposo serait donc un associé de la société de personnes que serait le « clan Raposo » et que la preuve démontre sa participation directe et nécessaire à la réalisation de la fourniture de la drogue (12 kilos), ainsi que sa participation au paiement de cette fourniture. L’intimée dit que l’appelant a fait son apport dans un esprit de collaboration, en utilisant sa propre voiture, son essence, son téléphone cellulaire et surtout son temps, et qu’il a pu participer aux fruits de ce commerce en recevant un paiement en argent.
+[18] L’intimée soutient que l’illégalité des activités du clan n’a aucun impact sur l’application du paragraphe 272.1(5). À ce propos, l’intimée renvoie la Cour à trois décisions.
+[19] Premièrement, l’intimée fait valoir que, dans l’arrêt 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, la Cour suprême du Canada a établi le principe de neutralité nécessitant des autorités fiscales qu’elles ne tiennent pas compte de l’illégalité d’une activité.
+[20] Deuxièmement, l’intimée prétend que la décision de la Cour du Québec dans l’affaire Robitaille c. Québec, 2010 QCCQ 9283 a confirmé qu’on ne peut invoquer des motifs d’ordre public dans l’application d’une règle fiscale.
+[21] Et troisièmement, l’intimée se réfère à la décision DiFlorio c. La Reine, 2014 CCI 67 de notre Cour, où la notion de société de personnes aurait été appliquée dans le contexte de la vente illicite de stupéfiants. S’appuyant en l’espèce sur les principes jurisprudentiels mentionnés ci-dessus, l’intimée soutient que le caractère criminel des activités du clan n’ébranle aucunement la conclusion qu’il existait bel et bien une société de personnes.
+Analyse
+[22] Le principal point de désaccord entre les parties concerne la question de savoir si les membres du clan sont solidairement responsables du paiement de la dette fiscale du clan de telle manière que Daniel Raposo est codébiteur avec les autres membres.
+[23] Il est évident que le paragraphe 272.1(5) de la LTA s’appliquera aux faits de la présente affaire seulement si le clan Raposo peut être considéré comme une société de personnes et si Daniel Raposo est reconnu comme ayant été un associé de cette supposée société. Pour les motifs qui suivent, je conclus que le clan ne constituait pas une société de personnes en droit québécois, et il en découle que l’appelant n’était pas associé et ne pouvait donc pas être tenu solidairement responsable de la dette fiscale du clan.
+[24] L’expression « société de personnes » n’est pas définie dans la LTA. Par contre, la Cour suprême du Canada a indiqué qu’il faut d’abord considérer le droit applicable de la province où a été formé le contrat de société : Backman c. Canada, 2001 CSC 10, [2001] 1 R.C.S. 367 au paragraphe 17. Donc, la condition préalable à l’existence d’une société de personnes, pour l’application de la LTA, est sa formation conformément aux règles provinciales. En l’espèce, l’application du paragraphe 272.1(5) nécessite donc l’existence d’un contrat de société de personnes conclu en conformité avec le droit civil québécois.
+[25] Le contrat de société est défini à l’article 2186 du C.c.Q., qui établit trois conditions à être remplies pour sa formation, soit l’esprit de collaboration, la contribution et le partage des bénéfices. Cependant, le fait que ces trois conditions soient remplies n’assure pas la formation d’une société de personnes, étant donné que l’application de l’article 2186 du C.c.Q. peut être soumise aux règles des obligations en général (C.c. Q., Livre cinquième, Titre premier). À cet égard, il est important de considérer dans le cas présent l’article 1413 du C.c.Q., qui prévoit que tout contrat « dont l’objet est prohibé par la loi ou contraire à l’ordre public » est nul.
+[26] Étant donné que l’objet du contrat constitutif de la supposée société de personnes en l’espèce était le commerce de la cocaïne, l’article 1413 du C.c.Q. s’applique. De plus, l’article 1417 du C.c.Q. précise que « la nullité d’un contrat est absolue lorsque la condition de formation qu’elle sanctionne s’impose pour la protection de l’intérêt général ». La jurisprudence a maintes fois rappelé que l’objet qui est contraire à l’ordre public ou qui contrevient à une règle pénale dans le cas présent, une règle du Code criminel entraîne la nullité absolue du contrat conformément à l’article 1417 du C.c.Q. : Pauzé c. Gauvin, [1954] S.C.R. 15 ; Laurentienne-vie c. Empire, [2000] R.J.Q. 1708 au paragraphes 71 et 72 ; Elge Financialease inc. c. Marché Montcalm, [1993] R.J.Q. 1233 à 1249.
+[27] Finalement, l’article 1422 du C.c.Q., disposant que tout contrat « frappé de nullité est réputé n’avoir jamais existé », en l’espèce.
+[28] Au soutien de sa position, le ministre a renvoyé la Cour à la décision Robitaille, précitée, de la Cour du Québec, où la Cour a conclu à l’existence d’une société de personnes aux fins de la Loi sur la taxe de vente du Québec, et ce, en dépit de l’objet illicite du contrat. Il s’agit d’un cas dans lequel les deux demandeurs, Julie Robitaille et Jacques Lachance, sont arrêtés pour trafic de stupéfiants et Revenu Québec leur remet alors un avis de cotisation leur réclamant le paiement de la taxe de vente du Québec impayée sur des ventes de stupéfiants, dont Revenu Québec les tenait pour solidairement responsable.
+[29] Une des questions en litige était de savoir si les demandeurs avaient formé une société de personnes pour la vente de stupéfiants.
+[30] L’expression « société de personnes » n’étant pas définie dans la Loi sur la taxe de vente du Québec, le juge recourt aux notions du droit civil en tant que régime supplétif. Appliquant l’article 2186 du C.c.Q., il établit l’existence d’un objectif commun, d’une contribution de chacun des demandeurs et d’un partage des bénéfices pécuniaires et conclut que Mme Robitaille et M. Lachance ont formé dans les faits une société de personnes. Toutefois, il n’aborde pas l’article 1413 du C.c.Q. et ne considère pas l’impact de l’objet illicite sur la validité du contrat parce qu’il avait auparavant conclu que les autorités fiscales n’ont pas à tenir compte de l’illégalité d’une activité lorsqu’elles appliquent les règles fiscales. Il cite à cet égard des décisions dans lesquelles on se réfère à l’arrêt 65302 British Columbia, précité, de la Cour suprême du Canada.
+[31] Avec égards pour le juge de la Cour du Québec, je conclus que l’arrêt 65302 British Columbia ne s’applique pas lorsqu’il s’agit de déterminer l’existence d’une société de personnes conformément au droit provincial. Comme le rappelle la Cour suprême du Canada dans l’arrêt Backman, la question de l’existence d’un contrat de société relève exclusivement du droit privé. Un principe jurisprudentiel relatif au droit fiscal n’aura donc aucune incidence sur l’application spécifique des règles du droit civil québécois.
+[32] Dans sa décision, le juge de la Cour du Québec cite aussi l’arrêt Sous‑ministre du Revenu du Québec c. Parent, 2008 QCCA 1476, de la Cour d’appel du Québec. Néanmoins, dans cet arrêt, la Cour d’appel du Québec n’applique pas le principe de 65302 British Columbia à la détermination de l’existence d’une société de personnes, mais elle l’applique plutôt à la taxation d’une fourniture taxable (paragraphes 45 à 47). La Cour d’appel du Québec a également invoqué 65302 British Columbia dans la décision Armeni c. Agence du revenu du Québec, 2014 QCCA 1746, pour rejeter l’argument selon lequel le revenu illicite n’est pas imposable. Ni l’un ni l’autre de ces deux arrêts ne suggère que la détermination de l’existence d’une société de personnes en droit civil québécois doit être faite sans qu’il soit tenu compte de l’illicite de l’objet du contrat.
+[33] Par ailleurs, les décisions de notre Cour qui ont cité la décision Robitaille n’appuient pas la proposition voulant que le jugement rendu par la Cour suprême du Canada dans l’affaire 65302 British Columbia permette de faire abstraction de l’objet illicite du contrat lorsqu’il s’agit de déterminer s’il existe une société de personnes en droit privé : Boisvert c. La Reine, 2016 CCI 195, Bailey c. La Reine, 2011 CCI 233, Desroches c. La Reine, 2013 CCI 81, Hedges c. La Reine, 2014 CCI 270.
+[34] Il découle alors du droit civil québécois que le clan Raposo ne constituait pas une société de personnes. Je conclus donc que l’appelant ne peut être tenu individuellement et solidairement responsable en vertu du paragraphe 272.1(5) de la LTA, de la dette fiscale résultant des activités commerciales du clan Raposo. Cela étant le seul moyen invoqué par l’intimée à l’appui de la cotisation, l’appel est accueilli.
+[35] Puisque le montant en litige est supérieur à 7 000 $, il n’y aura pas d’adjudication de dépens.
+Signé à Ottawa, Canada, ce 26e jour d’avril 2018.
+« B.Paris »
+Juge Paris
+RÉFÉRENCE :
+2018 CCI 81
+Nº DU DOSSIER DE LA COUR :
+2015-2983(GST)G
+INTITULÉ DE LA CAUSE :
+DANIEL RAPOSO ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATES DE L’AUDIENCE :
+Les 6 et 7 avril 2017
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 26 avril 2018
+COMPARUTIONS :
+Avocate de l'appelant :
+Me Chantal Donaldson
+Avocat de l'intimée :
+Me Marc Lesage
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+Me Chantal Donaldson
+Cabinet :
+LeBlanc Donaldson
+Gatineau (Québec)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

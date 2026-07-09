@@ -1,0 +1,221 @@
+Title: Roberge Transport Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29685/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-155-29685-roberge-transport-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-03-17
+
+# Roberge Transport Inc. v. The Queen
+
+- Citation: 2010 TCC 155
+- Decision date: 2010-03-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6223, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roberge Transport Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-17
+Neutral citation
+2010 TCC 155
+File numbers
+2007-2609(GST)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-2609(GST)G
+BETWEEN:
+ROBERGE TRANSPORT INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 13 and 14, 2009, at Regina, Saskatchewan
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+K.C. Mellor
+Counsel for the Respondent:
+Brooke Sittler
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which is dated March 7, 2007 and bears the reference number 09ES20070307 is dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada, this 17th day of March 2010.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2010 TCC 155
+Date: 20100317
+Docket: 2007-2609(GST)G
+BETWEEN:
+ROBERGE TRANSPORT INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Arcy J.
+[1] The Appellant, Roberge Transport Inc. (“Roberge”), has appealed from a reassessment by the Minister in respect of Roberge’s GST reporting periods ending between June 1, 2002 and April 30, 2005.
+[2] The issue before the Court is whether $437,627 of reimbursements received by Roberge from third party operators of certain trucks (referred to during the hearing as “lease operators”) were received as consideration for a taxable supply.
+Facts
+[3] Roberge is an interprovincial and international (Canada/United States) livestock hauler. During the period at issue, it had at its disposal a fleet of approximately 100 trucks and trailers which were used to provide its services. The majority of the trucks were leased from the lease operators. It also used trucks that it owned and, occasionally, it used trucks owned by third party drivers. Roberge owned all of the trailers used in its business.
+[4] The two witnesses who testified for the Appellant, Mr. David Kiefer and Mr. Cecil Grassick, described the relationship between Roberge and the lease operators. Their testimony was corroborated by various documents filed by the parties, including the following:
+· Copies of leases entered into by Roberge and certain lease operators.[1]
+· Unit statements for a lease operator.[2]
+· A payroll deduction letter issued by Roberge.[3]
+· An information package provided to new lease operators.[4]
+· A Saskatchewan inter‑jurisdictional truck registration form.[5]
+· Sample truck decals.[6]
+[5] The relationship is summarized in the following paragraphs.
+[6] The lease operators either owned or leased their trucks. Each lease operator entered into a lease with Roberge pursuant to which Roberge agreed to lease a truck (the “leased vehicle”) from the lease operator. The monthly mileage of the leased vehicle determined the amount of the monthly lease payment.
+[7] Once the lease was entered into, Roberge registered the leased vehicle with the Saskatchewan government and obtained the required vehicle insurance. As part of the registration process, Roberge took all necessary steps to ensure that the leased vehicle could operate in numerous jurisdictions. This included registering under the relevant inter‑jurisdictional programs for sales tax and fuel tax and obtaining the necessary inter‑jurisdictional registration forms (referred to as “Cap Cards”) and truck decals. Roberge then provided the truck decals and copies of the Cap Cards to the lease operators.
+[8] In consideration for the various services it provided to the lease operators, including registering the leased vehicle, obtaining the required insurance, complying with the government programs relating to sales taxes and fuel taxes, and purchasing the fuel used by the lease operators, Roberge was paid a 1.5% administration fee. Further, the lease operators agreed to bear the cost of all expenses pertaining to the operation of the leased vehicle. This was accomplished, in part, by a lease operator reimbursing Roberge for any expense that Roberge incurred in respect of the leased vehicle. In particular, the lease operators reimbursed Roberge for amounts paid by Roberge in respect of the following items:
+· Insurance
+· Registration fees
+· Fuel
+· Various incidental expenses
+· Fuel tax under an inter‑jurisdictional vehicle program (the “inter‑jurisdictional fuel tax”)
+· Sales tax under an inter‑jurisdictional vehicle program (the “inter‑jurisdictional sales tax”).
+[9] Roberge collected GST from the lease operators in respect of the 1.5% administration fee and the reimbursements relating to insurance, fuel purchased in Canada and incidental expenses incurred in Canada. It did not collect GST on the reimbursements it received in respect of registration fees, fuel purchased in the United States, incidental expenses incurred in the United States, the inter‑jurisdictional fuel tax and the inter‑jurisdictional sales tax.
+[10] The Canada Revenue Agency subsequently reassessed Roberge for failure to collect GST on certain amounts including the reimbursements of the inter‑jurisdictional fuel tax and the inter‑jurisdictional sales tax. Roberge has appealed from the reassessment in respect of the reimbursements of the inter‑jurisdictional fuel tax and the inter‑jurisdictional sales tax.
+[11] Mr. Gary Frohlick, a member of the Revenue Division of the Saskatchewan Department of Finance, testified for the Respondent. He discussed the application of Saskatchewan fuel tax and sales tax to inter‑jurisdictional operators of large vehicles. His testimony was supported by numerous government publications and the applicable provincial legislation.
+[12] Canada’s provinces and most of the states in the United States have jointly developed a system that levies fuel tax and sales tax on inter‑jurisdictional operators of large vehicles. A review of the legislative scheme in Saskatchewan illustrates how the system operates in the various provinces and states.
+Inter‑jurisdictional Fuel Tax
+[13] Section 4 of the Saskatchewan Fuel Tax Act[7] applies to inter‑jurisdictional carriers (such as trucks over a certain size) and railways. The section applied to all of the trucks in Roberge’s fleet. Section 4 requires fuel tax to be paid on fuel consumed in Saskatchewan, regardless of where the fuel is purchased. This is accomplished by levying the fuel tax on fuel purchased in Saskatchewan and other jurisdictions under a program called the International Fuel Tax Agreement (“IFTA”). Section 4 of the Saskatchewan Fuel Tax Act levies the inter‑jurisdictional fuel tax on the person who has registered the vehicle that has consumed the relevant fuel with the government.
+[14] Mr. Frohlick referred to the IFTA as an association of member jurisdictions that includes nearly all of the Canadian provinces and U.S. states. Its purpose is to ensure that member jurisdictions receive the appropriate fuel tax for fuel consumed in their jurisdictions, regardless of where the fuel is purchased.
+[15] Mr. Frohlick illustrated the operation of the inter‑jurisdictional fuel tax regime by using the example of a carrier who operates a vehicle in Alberta and Saskatchewan when the Saskatchewan fuel tax is fifteen cents per litre and the Alberta fuel tax is nine cents per litre.
+[16] If the carrier purchases the fuel in Saskatchewan and consumes the fuel in a truck driven exclusively in Alberta, it would pay fuel tax of nine cents per litre:
+· Saskatchewan fuel tax of fifteen cents per litre would be paid at the time the carrier purchases the fuel in Saskatchewan.
+· Under the IFTA, the Saskatchewan government would transfer nine cents per litre of the tax included in the purchased price of the fuel to the Alberta government and would refund the remaining six cents per litre to the carrier.
+[17] The nine cents per litre of tax received by the Alberta government is levied under the relevant Alberta fuel tax legislation.
+[18] Alternatively, if the carrier purchases the fuel in Alberta and consumes it in a truck that is driven exclusively in Saskatchewan, it would pay fuel tax of fifteen cents per litre:
+· Alberta fuel tax of nine cents per litre would be paid by the carrier at the time the carrier purchases the fuel in Alberta.
+· Under the IFTA, the Alberta government would transfer the nine cents per litre of tax included in the purchased price of the fuel to the Saskatchewan government. Saskatchewan would then collect, under the IFTA, six cents per litre from the carrier (i.e. the inter‑jurisdictional fuel tax).
+[19] The fifteen cents per litre of tax received by the Saskatchewan government is levied under the Saskatchewan Fuel Tax Act.
+[20] All of the provinces and states that are members of the IFTA use this system. Inter‑jurisdictional carriers are required to register under the IFTA program in their home state or province. The carrier receives an IFTA license and decal for each truck it registers. The license must be kept in the truck and the decal is placed on the outside of the truck.
+[21] Roberge ensured that all vehicles in its fleet, including the leased vehicles, complied with the IFTA program. It registered all of the leased vehicles under the IFTA program, obtained the required licenses and decals (which it provided to the lease operators), filed the quarterly IFTA fuel tax return and remitted any inter‑jurisdictional fuel tax payable in respect of its fleet.
+[22] Roberge used a single consumption factor (average kilometres driven by the Roberge fleet per litre of fuel consumed) when calculating the inter‑jurisdictional fuel tax liability for its fleet. It applied this factor to the total kilometres driven by the fleet in each province or state and the fuel tax rate for each province or state.
+[23] In addition to paying the inter‑jurisdictional fuel tax, Roberge provided its drivers with credit cards. The drivers used the credit cards to purchase fuel for the leased vehicles.
+[24] As noted previously, the lease operators reimbursed Roberge for the amounts paid by Roberge for the purchased fuel and the inter‑jurisdictional fuel tax.
+Inter‑jurisdictional Sales Tax
+[25] The inter‑jurisdictional sales tax is similar to the inter‑jurisdictional fuel tax; its purpose is to ensure that member jurisdictions receive sales tax revenue on the basis of the use of a vehicle in their jurisdiction.
+[26] Sales tax on inter‑jurisdictional vehicles is levied under sections 5.1 to 5.8 of the Saskatchewan Provincial Sales Tax Act.[8] In particular, under section 5.3 of the Saskatchewan Provincial Sales Tax Act, the tax is levied on every person who licenses an inter‑jurisdictional vehicle for use in Saskatchewan and one or more member jurisdictions.
+[27] The tax is not paid at the time the vehicle is purchased, but rather is paid annually on the basis of a depreciated value of the vehicle, as determined under the Saskatchewan Provincial Sales Tax Act. Once it collects the sales tax from the operator of the inter‑jurisdictional vehicle, Saskatchewan distributes the tax to the various jurisdictions based upon the mileage data provided by the operator of the vehicle.
+[28] Mr. Frohlick testified that this system is used by every province and state in North America. For example, an operator located in Saskatchewan whose trucks haul freight to Texas would register in Saskatchewan and receive a registration card (and decal) showing Texas as an authorized jurisdiction. The Saskatchewan operator would report the mileage its trucks travelled in Texas to the Saskatchewan government, who would then transfer a portion of the sales tax it has collected from the operator to the Texas taxing authority.
+[29] Roberge would annually register all of its vehicles with the Saskatchewan government. A Saskatchewan government entity, SGI, administered the registration of all vehicles in Saskatchewan. In addition to vehicle registration, SGI also supplied automobile insurance and administered the inter‑jurisdictional sales tax.
+[30] As part of the registration process, Roberge would provide SGI with the mileage its fleet travelled in each reciprocal jurisdiction in the prior year. SGI would then use this information to determine the insurance premiums, registration fees and inter‑jurisdictional sales tax payable by Roberge.
+[31] SGI would not issue the registration for a vehicle (including any new plates) until Roberge paid all amounts owing in respect of the insurance premiums, registration fees and inter‑jurisdictional sales tax.
+Law
+[32] The GST is levied under four separate and distinct divisions of Part IX of the Excise Tax Act (the “GST Act”): Division II, Division III, Division IV, and Division IV.1. This appeal is only concerned with the tax levied under Division II.
+[33] Division II tax is imposed on every recipient of a taxable supply that is made in Canada.[9] During the relevant periods, the tax was levied on the value of the consideration for the supply at three rates: the 7% GST rate for supplies that were made in a province that had not harmonized its sales tax with the GST, the 15% HST rate for supplies that were made in a province that had harmonized its sales tax with the GST,[10] and the 0% rate for taxable supplies that are included in Schedule VI of the GST Act.
+[34] In order to determine the amount, if any, of Division II tax exigible, the following questions must be answered:
+· Did the supplier make a taxable supply?
+· What was the amount of the consideration for the supply?
+· Was the taxable supply made in Canada?
+· Was the taxable supply made in a participating province?[11]
+[35] A taxable supply is defined as a supply made in the course of a commercial activity.[12]
+[36] A supply is defined as the provision of property or services in any manner including sale, transfer, barter, exchange, license, rental, lease, gift or disposition.[13] The words property and services are also defined in the GST legislation.[14] Property is defined to mean any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and a right or interest of any kind whatever but not including money. A service is defined even more broadly to mean anything other than property, money and certain services supplied to an employer by an employee, an officer and certain other persons. The definition of service is extremely broad. If something is not property, money or an “employee service”, then it will be deemed to be a service.
+[37] As a result of the broad definitions of supply, property and services, the provision of anything in the course of a commercial transaction will potentially be subject to tax.
+[38] A supply will constitute a taxable supply if it is made in the course of a commercial activity. Commercial activity of a person is also broadly defined to include a business of a person[15] or adventure or concern of a person in the nature of trade subject to two exceptions. In the first instance, a business or adventure or concern in the nature of trade will not constitute a commercial activity to the extent it involves the making of exempt supplies. The second exclusion, which is not relevant for purposes of this appeal, relates to certain activities carried on by individuals directly or indirectly without an expectation of profit.[16]
+[39] Tax is imposed under subsections 165(1) and (2) “on the value of the consideration for the supply”. If no consideration is payable (actual or deemed), then no tax is payable under section 165. Further, an amount payable must be payable for a supply before it will acquire the character of consideration. Accordingly, amounts payable as taxes, fines or gifts (from governments or other persons) are not consideration, as they are not paid in respect of a supply.
+[40] In most instances, the broad definition of services, when combined with the definition of property, results in reimbursements or charge-backs being subject to GST.
+[41] Reimbursements and charge-backs normally arise when a person agrees to incur an expense on the understanding that a third party will reimburse the person for the amounts it has expended when incurring the expense. The payment of the reimbursement is not a gratuitous payment; it is paid in exchange for something. That something is the person’s agreement to incur the expense. In short, by agreeing to incur the expense, the person has provided something to the third party. The person has made a supply. The reimbursement constitutes the consideration for the supply.
+[42] The reimbursement or charge-back may also be part of the consideration for the supply of various services and property. For example, consider the provision of legal services by a lawyer. The lawyer normally agrees to provide such services on the understanding that his/her client will pay an hourly rate and will also agree to reimburse the lawyer for any out-of-pocket expenses the lawyer has incurred (i.e., the cost of certain inputs incurred to provide the service). The consideration for the supply of the legal services is the total of the fee based on the hourly rate and the amount paid to reimburse the lawyer for his inputs.
+[43] It is important to distinguish reimbursements and charge-backs from monies paid by a principal to its agent, in respect of amounts expended by the agent on behalf of the principal. As counsel for the Respondent noted in her argument, when an agent is acting for a principal when acquiring property or a service from a third party supplier, the agent is not providing property or a service to its principal, but is merely acting as a conduit.
+[44] Tax under Division II is only exigible on the consideration for a taxable supply, if the supply was made in Canada. Section 142 provides rules for determining whether a supply of a specific property or service is made inside or outside of Canada.[17] For example, paragraph 142(1)(g) provides that a supply of a service[18] will be deemed to be made in Canada if it is performed in whole or part in Canada, and paragraph 142(1)(a) provides that the sale of tangible personal property will be deemed to be made in Canada if the property is delivered or made available in Canada.
+Application of the law to the facts
+[45] Before applying the law to the facts, I will address a procedural issue raised by the Respondent.
+[46] Counsel for the Respondent argued that the issue of whether Roberge acted as the agent for the lease operators has not been properly raised before the Court. She argued that since the Appellant was a specified person as defined in subsection 301(1), the Appellant was required to raise the issue of agency in its Notice of Objection in order to bring the issue before the Court in accordance with subsections 301(1.2) and 306.1(1).
+[47] Counsel for the Appellant argued that this issue had previously been addressed by the Court and, as a result, that I was functus officio. He was referring to the granting by Sheridan J. of a motion brought by the Appellant to allow it to file an amended Notice of Appeal. The sole reason for filing the Amended Notice of Appeal was to incorporate the agency argument.
+[48] I agree with counsel for the Appellant. The granting of the motion by Sheridan J. constituted a final decision of this Court with respect to the ability of the Appellant to raise the agency issue.
+Did Roberge make a taxable supply?
+[49] Roberge’s activities with respect to the hauling of livestock constituted a business under the GST Act. Further, it does not appear that any of the activities at issue in this appeal constituted exempt supplies. As a result, if the activities at issue, which all occurred in the course of Roberge’s business, constituted a supply, the supply was made in the course of a commercial activity and thus was a taxable supply.
+[50] Roberge agreed to provide a range of services and property to the lease operators, including fuel, the right to use the Cap Cards and truck decals, the service of obtaining the required vehicle insurance, the service of registering the leased vehicles and the service of complying with the government programs relating to the inter‑jurisdictional fuel tax and the inter‑jurisdictional sales tax.[19] The provision of this range of property and services constituted the supply of property and services by Roberge to the lease operators.
+[51] Counsel for the Appellant argued that Roberge did not provide anything to the lease operators in respect of the inter‑jurisdictional fuel tax and the inter‑jurisdictional sales tax. He argued that the reimbursements were in respect of amounts paid by Roberge as agent for the lease operators.
+[52] The evidence before the Court does not support such a finding.
+[53] The following definition of agency, by Gerald Fridman, has been quoted and applied in a number of Canadian cases:
+Agency is the relationship that exists between two persons when one, called the agent, is considered in law to represent the other, called the principal, in such a way as to be able to affect the principal's legal position by the making of contracts or the disposition of property.[20]
+[54] In view of this definition, the issues in this appeal are, as noted by counsel for the Respondent, whether the lease operators were liable under the relevant taxing schemes to pay the inter‑jurisdictional fuel tax and inter‑jurisdictional sales tax and whether, having that liability, they entered into an agency agreement with the Appellant to pay the taxes on their behalf.
+[55] As the person who registered the leased vehicle with the Saskatchewan government under the IFTA program, Roberge was the person who was liable, under section 4 of the Saskatchewan Fuel Tax Act, for the inter‑jurisdictional fuel tax.
+[56] Similarly, the inter‑jurisdictional sales tax provided for in sections 5.1 to 5.8 of the Saskatchewan Provincial Sales Tax Act was levied on the person who licensed the inter‑jurisdictional vehicle for use in Saskatchewan and one or more member jurisdictions. Since Roberge, as either owner or lessee of the trucks, was the person who licensed the trucks, it was the person who was liable to pay the inter‑jurisdictional sales tax.
+[57] The method employed by Roberge to calculate the amount of tax payable appears to be predicated on the assumption that it was the person liable for the tax. The inter‑jurisdictional fuel tax was calculated on the basis of the average consumption of fuel by the fleet; it was not based upon fuel consumed by individual lease operators. Similarly, the inter‑jurisdictional sales tax was calculated based upon the mileage the entire Roberge fleet traveled in each jurisdiction.
+[58] Further, there was no evidence before the Court that the lease operators intended to appoint Roberge as their agent to pay the taxes. While Mr. Kiefer and Mr. Grassick testified that they expected Roberge to pay the relevant taxes, they did not provide any evidence indicating that they intended to have Roberge pay the taxes as their agent. This is not surprising since the liability to pay the taxes rested with Roberge, not the lease operators.
+What was the consideration for the supply by Roberge to the lease operators?
+[59] It is clear from the testimony of the Appellant’s witnesses, Mr. Kiefer and Mr. Grassick, that, in exchange for Roberge’s agreeing to provide the property and services, the lease operators agreed to pay the 1.5% administration fee and reimburse Roberge for any expenses it would have incurred personally in the course of providing the services and property.
+[60] Their testimony was supported by various documents filed by both of the parties. These documents included lease agreements between Roberge and certain lease operators, unit statements prepared for certain lease operators, the payroll deduction letter issued by Roberge to the lease operators and the information package provided by Roberge to new lease operators. These documents, together with the testimony of Mr. Kiefer and Mr. Grassick, clearly show that the 1.5% administration fee together with the reimbursements, constituted the consideration for the various supplies made by Roberge to the lease operators. Such consideration was subject to GST to the extent the consideration related to supplies that were made in Canada.
+[61] Counsel for the Appellant argued that the amounts paid as reimbursements of the inter‑jurisdictional fuel tax and the inter‑jurisdictional sales tax were paid on account of taxes and thus were not consideration. I disagree. The amounts represented taxes when paid by Roberge to the Province of Saskatchewan; however, as counsel for the Respondent correctly noted, the character of the payment changed when the amounts were paid by the lease operators to Roberge. The amounts were not paid by the lease operators to Roberge as taxes (Roberge is not a governmental body that can levy taxes) but rather were paid as part of the consideration for the taxable supplies made by Roberge to the lease operators.
+[62] Counsel for the Appellant also argued that it was not reasonable to conclude that the amounts paid as a reimbursement of the inter‑jurisdictional fuel tax and sales tax constituted consideration for the services provided by Roberge. He argued that the reimbursement of approximately $213,000 in respect of the fuel tax related to approximately 48 hours of work. It was counsel’s position that it was not realistic to conclude that Roberge was charging approximately $4,437.50 per hour for the services it rendered.
+[63] This argument failed to take into account the substantial expenses incurred by Roberge in the course of making the supplies to the lease operators. It would have been unreasonable for Roberge to charge a consideration (the 1.5% administration fee) that did not take into account the substantial expenses it had incurred in the course of providing its services.
+[64] One would expect Roberge to charge a consideration that allowed it to recover its costs plus earn a small profit. This is exactly what it did by charging a consideration equal to the 1.5% administration fee plus the amount of its out‑of‑pocket expenses (i.e. the reimbursements).
+Was the taxable supply of the property and services made in Canada?
+[65] Roberge correctly collected GST on a portion of the consideration, the 1.5% administration fee and the reimbursements in respect of the insurance, fuel purchased in Canada, and incidental expenses incurred in Canada. It did not, however, collect GST on the remaining reimbursements.
+[66] I have assumed that the GST was not collected on the reimbursements relating to the fuel purchased in the United States and the incidental expenses incurred in the United States on the basis that the underlying supplies were made outside of Canada.
+[67] It is clear, however, that the underlying supplies in respect of the inter‑jurisdictional fuel tax and the inter‑jurisdictional sales tax were made in Canada, since the related services (the administration of the programs) were performed in Canada. As a result, Roberge should have collected GST on the reimbursements made by the lease operators in respect of the inter‑jurisdictional fuel tax and the inter‑jurisdictional sales tax.
+Due Diligence Defence
+[68] Counsel for the Appellant argued that the Appellant exercised the proper degree of diligence with respect to determining whether it “could satisfy the GST”. He referred the Court to the conduct of Mr. Kiefer. It was counsel’s position that it was reasonable to conclude that Mr. Kiefer exercised the degree of diligence necessary for a controller who works for a trucking company. In making this argument, he noted that all taxing statutes are fairly complex, Mr. Kiefer was required to consider the relevant legislation for the inter‑jurisdictional fuel tax and the inter‑jurisdictional sales tax, he had obtained advice from third party accountants, and the Canada Revenue Agency has no bulletin with respect to the inter‑jurisdictional fuel tax and the inter‑jurisdictional sales tax.
+[69] It appears to me that, although not specifically referred to in the Amended Notice of Appeal or in counsel’s closing argument, the Appellant is attempting to raise the due diligence defence with respect to the 6% penalty that it was assessed under former paragraph 289(1)(a) of the GST Act. The basis for his due diligence argument appears to be a reasonable mistake of law.
+[70] Counsel for the Appellant did not refer to any jurisprudence to support his argument.
+[71] In Pillar Oilfield Projects Ltd. v. Canada,[21] Bowman J. (as he then was) held that paragraph 280(1)(a) of the Act creates a strict liability offence and that the only available defence is one of due diligence.
+[72] The principles governing the defence of due diligence were set out by the Federal Court of Appeal in Corp. de l’École Polytechnique v. Canada as follows:[22]
+The due diligence defence allows a person to avoid the imposition of a penalty if he or she presents evidence that he or she was not negligent. It involves considering whether the person believed on reasonable grounds in a non-existent state of facts which, if it had existed, would have made his or her act or omission innocent, or whether he or she took all reasonable precautions to avoid the event leading to imposition of the penalty. See The Queen v. Sault Ste-Marie, [1978] 2 S.C.R. 1299, The Queen v. Chapin, [1979] 2 S.C.R. 121. In other words, due diligence excuses either a reasonable error of fact, or the taking of reasonable precautions to comply with the Act.
+[73] In their decision, the Federal Court of Appeal conducted a short review of the principles applicable to mistake of law and reached the following conclusion:[23]
+Apart from exceptions, mistakes in good faith and reasonable mistakes of law as to the existence and interpretation of legislation are not recognized as defences to criminal offences, nor to strict liability offences or prosecutions governed by the rules applicable in strict liability. However, two exceptions to the principle should be noted: officially induced mistake of law and invincible mistake of law.
+[74] Officially induced mistake of law arises where an accused has reasonably relied upon the mistaken legal opinion or advice of an official who is responsible for the administration or enforcement of the particular law. Invincible mistake of law refers to mistakes which are impossible to avoid because it was impossible for the person charged to know the law, either because it had not been promulgated or because it was not published in a satisfactory way so that its existence and contents could be known.[24]
+[75] Counsel for the Appellant did not argue that either an officially induced mistake of law or an invincible mistake of law occurred. Further, the Appellant did not offer any evidence to support such a finding.
+[76] The error made by the Appellant related to the interpretation and application of the law to the facts. As previously discussed, a mistake of law as to the existence and interpretation of legislation is not recognized as a defence to strict liability offences.
+[77] In addition, in light of the fact that the Appellant correctly collected tax in respect of certain of the reimbursements, it does not appear to me that the Appellant acted reasonably when it failed to collect tax in respect of the reimbursements of the inter‑jurisdictional fuel tax and the inter‑jurisdictional sales tax.
+Conclusion
+[78] For the foregoing reasons, the Appellant’s appeal with respect to its GST reporting periods ending between June 1, 2002 and April 30, 2005 is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 17th day of March 2010.
+“S. D’Arcy”
+D'Arcy J.
+CITATION: 2010 TCC 155
+COURT FILE NO.: 2007-2609(GST)G
+STYLE OF CAUSE: ROBERGE TRANSPORT INC. and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Regina, Saskatchewan
+DATE OF HEARING: October 13 and 14, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT: March 17, 2010
+APPEARANCES:
+Counsel for the Appellant:
+K.C. Mellor
+Counsel for the Respondent:
+Brooke Sittler
+COUNSEL OF RECORD:
+For the Appellant: K.C. Mellor
+Mellor Law Firm
+Regina, Saskatchewan
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibits A-1, A-4, A-7
+[2] Exhibits A-3, A-6, A-11
+[3] Exhibit A-26
+[4] Exhibits R-1 to R-7
+[5] Exhibit A-16
+[6] Exhibit R-17
+[7] Fuel Tax Act, 2000, S.S. 2000, C. F-23.21
+[8] Provincial Sales Tax Act, R.S.S. 1978, c. P-34.1
+[9] Subsection 165(1)
+[10] The parties agreed during the hearing that none of the activities at issue related to a supply that may have been made in a province whose sales tax has been harmonized.
+[11] Ibid.
+[12] Ibid.
+[13] Ibid.
+[14] Ibid.
+[15] “Business” is defined in subsection 123(1) to include a profession, calling, trade, manufacture or undertaking of any kind whatever whether the activity or undertaking is engaged in for profit and certain activities relating to the leasing of property.
+[16] “Commercial activity” is also defined to include the making of a supply, other than an exempt supply, of real property of the person, including anything done by the person in the course of or in connection with the making of the supply.
+[17] Subject to the special rules in sections 143, 144 and 179, which are irrelevant for the purposes of this appeal.
+[18] Other than a telecommunications service.
+[19] This included the payment by Roberge of the inter‑jurisdictional fuel tax and inter‑jurisdictional sales tax.
+[20] Fridman, G., Canadian Agency Law, LexisNexis Canada Inc., 2009.
+[21] [1993] T.C.J. No. 764 (QL) (Informal Procedure)
+[22] 2004 FCA 127 at para. 28
+[23] Ibid., at para. 38
+[24] Ibid., at paras. 39 and 41

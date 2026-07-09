@@ -1,0 +1,132 @@
+Title: Binjamin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/494177/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-287-494177-binjamin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-12-20
+
+# Binjamin c. La Reine
+
+- Citation: 2019 CCI 287
+- Decision date: 2019-12-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4618, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Binjamin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-12-20
+Référence neutre
+2019 CCI 287
+Numéro de dossier
+2019-1028(GST)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2019-1028(GST)I
+ENTRE :
+SABRI BINJAMIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 19 septembre 2019 à Windsor (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Représentant de l’appelant :
+Alexander R. Menzies
+Avocate de l’intimée :
+Me Anne Maria Konewka
+JUGEMENT
+L’appel à l’encontre des 12 cotisations établies le 12 juin 2018 aux termes de la partie IX de la Loi sur la taxe d’accise (LTA) pour, respectivement, 12 périodes de déclaration trimestrielles allant du 1er janvier 2011 au 31 décembre 2013 est rejeté, sans dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 20e jour de décembre 2019.
+« B. Russell »
+Le juge Russell
+Référence : 2019TCC287
+Date : 20191220
+Dossier : 2019-1028(GST)I
+ENTRE :
+SABRI BINJAMIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+[1] L’appelant, Sabri Binjamin (SB), interjette appel selon la procédure informelle de notre Cour des 12 cotisations toutes établies le 12 juin 2018 aux termes de la partie IX de la Loi sur la taxe d’accise (LTA) pour, respectivement, 12 périodes de déclaration trimestrielles allant du 1er janvier 2011 au 31 décembre 2013. Les déclarations de taxe de vente harmonisée (TVH) de SB pour ces 12 périodes de déclaration trimestrielles ont toutes été produites le 3 avril 2014. C’était plus d’un mois au-delà de la date limite, prescrite à l’alinéa 238(1)b) de la LTA, pour chacune des 12 périodes de déclaration mentionnées.
+[2] Aux termes de l’alinéa 298(1)a) de la LTA (la disposition portant sur la période normale de cotisation), la cotisation datée du 12 juin 2018 a été établie plus de quatre ans après la date du 3 avril 2014 mentionnée plus haut. Cette date est la plus tardive des deux dates suivantes : la date à laquelle ou avant laquelle la personne était tenue, aux termes de l’article 238, de produire une déclaration pour la période et la date de production de la déclaration. Par conséquent, les 12 cotisations faisant l’objet de l’appel sont présumément « prescrites ».
+[3] Une première question se pose : l’alinéa 298(4)a) peut-il s’appliquer de manière que les périodes de cotisation faisant l’objet de l’appel ne soient pas prescrites? Selon cette disposition,
+une cotisation peut être établie à tout moment si la personne visée a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire.
+[4] Les questions en litige en l’espèce sont de savoir si SB a omis de déclarer une somme de 30 432 $ en produisant ses déclarations pour les 12 périodes de déclaration mentionnées, et dans l’affirmative, s’il a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, conformément à l’alinéa 298(4)a). De plus, des pénalités pour « faute lourde » doivent-elles être imposées à SB, en application de l’article 285, pour lesdites périodes de déclaration?
+[5] Il incombe à l’intimée de justifier les cotisations prescrites faisant l’objet de l’appel, établies en application de l’alinéa 298(4)a), et les pénalités pour faute lourde imposées en application de l’article 285.
+[6] À l’époque des faits reprochés, SB exploitait une entreprise à propriétaire unique offrant des services de plomberie et de chauffage pour la construction de maisons neuves, et était un inscrit aux termes de la partie IX de la LTA. Durant les années précédentes, il avait eu des problèmes avec l’Agence du revenu du Canada (ARC) en lien avec des revenus non déclarés, qui l’ont amené à une faillite fiscale. L’ARC l’avait avisé d’avoir une meilleure tenue de livres et de registres.
+[7] Le vérificateur de l’ARC, O. McDermott-Berryman, a affirmé lors de son témoignage qu’il a d’abord effectué une vérification pour les années 2012 et 2013, et procédé à une analyse des dépôts bancaires, laquelle ne lui a pas permis de faire concorder les dépôts avec les revenus des ventes déclarées. Les dépôts dépassaient de beaucoup les ventes déclarées. Le grand livre général de SB, un gros cahier noir avec des pages lignées, contenait les revenus et les dépenses pour chaque mois, mais sans indication des dates ou des sources. Les livres et registres n’étaient pas organisés de manière compréhensible. Les reçus conservés dans une boîte ne correspondaient pas aux autres livres et registres.
+[8] SB a déclaré des revenus s’élevant en moyenne à moins de 20 000 $ par année, tout en faisant vivre une famille de six personnes. De plus, durant les années en cause, sans avoir auparavant accumulé d’économies, il a fait l’acquisition d’un bien important, soit une maison. Le vérificateur lui a demandé comment il avait pu se permettre d’acheter la maison, et il n’a pas reçu de réponse claire.
+[9] Le vérificateur a affirmé dans son témoignage qu’il avait décelé plusieurs indices de revenus non déclarés, notamment par son analyse des dépôts bancaires, l’impossibilité de faire concorder les déclarations de revenus de SB avec ses livres et registres, et ses échanges avec des tiers avec qui SB avait fait des affaires. Lors d’une rencontre entre SB et le vérificateur, SB a affirmé que ses dépôts bancaires représentaient bien ses ventes.
+[10] Les résultats de la vérification ont montré que la TVH nette déclarée pour la période de trois ans (2011 à 2013) s’élevait à 1 278 $, et que la TVH nette révisée qui aurait dû être déclarée s’élevait à 31 660 $, indiquant une TVH supplémentaire percevable de 30 432 $ (toutes les sommes sont arrondies au dollar près). Ces résultats de la vérification montrent une taxe nette plus de 23 fois supérieure à la taxe déclarée par SB. Ces résultats ont été communiqués à SB pour une réponse dans les 30 jours. Aucune réponse n’a été fournie.
+[11] SB a affirmé dans son témoignage que ses déclarations de TVH ont été préparées par une aide-comptable, dont le nom était Denise. Il a affirmé qu’il ne connaissait pas son nom de famille. Il a indiqué qu’elle ne pourrait témoigner, puisqu’elle est décédée deux ans auparavant. Il a indiqué qu’elle avait une bonne réputation, notamment en ce qui a trait à la préparation de déclarations de TVH, et qu’elle travaillait depuis sa résidence, qui n’était pas loin de la sienne.
+[12] Il a affirmé au vérificateur de l’ARC qu’il signait tout ce que Denise préparait sans poser de questions ni examiner les documents, y compris l’énoncé placé immédiatement au-dessus de la case de signature du formulaire de l’ARC. Elle travaillait en fonction des livres et registres qu’il lui apportait. SB a affirmé dans son témoignage qu’il lui remettait ses registres tous les trois mois pour qu’elle prépare ses déclarations de TVH. Il a également affirmé que ses registres étaient complets. Il n’a pas vérifié ses ventes par rapport à ses relevés bancaires, ni les montants de TVH indiqués dans ses déclarations par rapport aux factures remises à ses clients.
+[13] SB a été incapable de clarifier les détails entourant l’achat de la maison dont il est fait mention plus haut. Il pensait que cet achat avait sans doute eu lieu en 2014, soit après la période en cause.
+[14] Dans sa plaidoirie, le représentant de SB n’a pas vraiment contesté le fait qu’il y avait eu fausse déclaration quant au revenu commercial concernant chacune des cotisations portées en appel. Il a affirmé que retourner huit ans en arrière (de l’année en cours, 2019, jusqu’à 2011) [traduction] « semble simplement arbitraire ». L’argument de base de SB était qu’il avait fait confiance à son aide-comptable maintenant supposément décédée concernant la préparation et la production de ses déclarations de TVH. En tant que tel, il (SB) n’a fait pas fait preuve de négligence, inattention ou omission volontaire, au sens de l’alinéa 298(4)a), de telle sorte que la période portée en appel ne puisse être prescrite et que SB soit passible des pénalités pour faute lourde prévues à l’article 285.
+[15] Dans l’arrêt Lacroix c. Canada, 2008 CAF 241, la Cour d’appel fédérale (CAF) s’est penchée sur la façon de traiter un appel d’une cotisation établie selon la méthode de l’avoir net pour des années frappées de prescription, ainsi que sur l’imposition de pénalités pour faute lourde en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu (LIR). Le fardeau de la preuve, tant pour les années frappées de prescription que les pénalités pour faute lourde, revient à la Couronne intimée, que ce soit dans le cas des appels interjetés sous le régime de la LIR, ou de ceux interjetés sous le régime de la LTA. Les motifs de jugement dans l’arrêt Lacroix concernaient un appel interjeté sous le régime de la LIR, alors qu’en l’espèce l’appel a été interjeté sous le régime de la LTA. Le paragraphe 163(2) et le sous-alinéa 152(4)a)(i) de la LIR, sont substantiellement identiques à l’article 285 et à l’alinéa 298(4)a), respectivement, de la LTA. Par conséquent, les propos de l’arrêt Lacroix sont instructifs pour ce qui est également des appels interjetés au titre de la LTA, y compris l’appel en espèce.
+[16] Dans l’arrêt Lacroix, la CAF a écrit ce qui suit (paragraphes 30 et 32) :
+[30] Les faits en preuve, dans un tel cas, sont que la déclaration de revenu du contribuable fait une présentation erronée des faits et que la seule explication offerte par le contribuable est jugée non crédible. Évidemment, il doit y avoir une autre explication pour ce revenu. Il faut donc conclure que le contribuable a une source de revenu qu’il n’a pas déclarée, qu’il est au courant de cette source et qu’il refuse de la divulguer puisque les explications qu’il a offertes n’ont pas été jugées crédibles. En de telles circonstances, la conclusion que la fausse déclaration de revenu a été produite sciemment ou dans des circonstances équivalant à faute lourde me semble inéluctable. Cela justifie non seulement l’imposition d’une pénalité [en conformité avec le paragraphe 163(2)] mais aussi l’établissement de la nouvelle cotisation hors de la période statutaire [en conformité avec le sous-alinéa 152(4)a)(i)].
+[32] Qu’en est-il alors du fardeau du ministre? Comment s’en acquitte-t-il [en conformité avec le sous-alinéa 152(4)a)(i) et le paragraphe 163(2)]? Comment s’en acquitte-t-il? Il se peut que dans certaines circonstances, le ministre soit en mesure de faire une preuve directe de l’état d’esprit du contribuable lorsque ce dernier a produit sa déclaration de revenus. Mais dans la grande majorité des cas, le ministre ne pourra que miner la crédibilité du contribuable, soit par des éléments de preuve qu’il apporte, soit en contre-interrogatoire du contribuable. Dans la mesure où la Cour canadienne de l’impôt est persuadée que le contribuable touche un revenu qu’il n’a pas déclaré et que l’explication offerte par le contribuable pour l’écart constaté entre son revenu déclaré et l’accroissement de son actif est non crédible, le ministre s’est acquitté du fardeau de preuve qui lui incombe aux termes du sous-alinéa 152(4)a)(i) et du paragraphe 162(3).
+[17] Par conséquent, l’arrêt Lacroix indique clairement que, au moment de décider s’il y a eu revenu non déclaré au terme d’une évaluation de la valeur nette, au titre de la LIR, pour une année d’imposition prétendument frappée de prescription, et si la pénalité pour faute lourde correspondante a été imposée justement :
+a) la première étape consiste à examiner, selon les éléments de preuve directe présentés par la Couronne intimée, ou au terme du contre-interrogatoire du contribuable appelant (ou de tout autre contribuable témoin), s’il y a eu revenu non déclaré, selon la prépondérance des probabilités;
+b) à supposer qu’il y ait eu revenu non déclaré, et en l’absence d’une explication crédible à cet égard, l’intimée s’est acquittée du fardeau de la preuve par rapport à la question de la prescription en application du sous-alinéa 152(4)a)(i) de la LIR, ainsi qu’à la question liée à l’imposition d’une pénalité pour faute lourde en application du paragraphe 163(2) de la LIR;
+c) il en irait de même dans le cas du fardeau de preuve concernant la question de la prescription prévue à l’alinéa 298(4)a) de la LTA, et la question liée à l’imposition d’une pénalité pour faute lourde, aux termes de l’article 285 de la LTA, dispositions pertinentes dans le présent appel.
+[18] Par conséquent, j’aborde maintenant la question de savoir si, selon la prépondérance des probabilités, SB a bel et bien reçu un revenu non déclaré au cours des périodes de déclaration trimestrielles de 2011, 2012 et 2013 et, dans l’affirmative, s’il existe une explication crédible à cet égard.
+[19] En tenant compte des éléments de preuve dont je dispose dans le présent appel, je conclus que selon la prépondérance des probabilités, SB a bel et bien omis de déclarer un revenu tiré des ventes de son entreprise. Je conclus que l’intimée a présenté suffisamment d’éléments de preuve par son témoignage et les documents déposés en preuve par le vérificateur de l’ARC pour s’acquitter du fardeau de preuve qui lui incombait. De plus, le témoignage de SB, en particulier lors du contre-interrogatoire, est pertinent.
+[20] Essentiellement, peu de choses ont été entendues de la part de SB ou en son nom pour attaquer l’exactitude de la conclusion des cotisations sous-jacentes, soit qu’il avait omis de déclarer des revenus de sommes données, pour les trois années des périodes de déclaration trimestrielles. Les éléments de preuve appuyant le bien-fondé de la conclusion concernant les revenus non déclarés indiqués incluent ce qui suit :
+a) il y avait un écart important entre les revenus déclarés et les revenus jugés non déclarés;
+b) l’analyse des dépôts bancaires indiquait des revenus non déclarés dont les sommes étaient importantes;
+c) les livres et registres de SB ne correspondaient pas aux montants des revenus déclarés;
+d) SB ne pouvait raisonnablement faire vivre une famille de six personnes avec un revenu annuel d’environ 20 000 $, soit le revenu déclaré pendant plusieurs années;
+e) durant cette période, SB a acheté une maison de 90 000 $ sans pouvoir expliquer clairement d’où provenait le financement;
+f) il a eu précédemment des problèmes avec l’ARC concernant des revenus non déclarés, l’amenant à une faillite fiscale, et a été ensuite avisé par l’ARC d’effectuer une meilleure tenue de livres et de registres.
+[21] Aucune explication crédible n’a été fournie concernant les montants des revenus non déclarés indiqués dans les cotisations faisant l’objet de l’appel. Comme je l’ai indiqué, le principal argument de SB était qu’une aide-comptable en qui il avait confiance et qui devait préparer et produire des rapports trimestriels de TVH exacts ne l’avait pas fait. Il soutient ainsi qu’il n’a pas fait de fausses déclarations concernant le revenu à déclarer par négligence, inattention ou omission volontaire, conformément à l’alinéa 298(4)a) de la LTA, et que les cotisations en litige demeurent prescrites.
+[22] Plus précisément, en ce qui a trait au fait que SB ait fait confiance à une aide-comptable, dont il ne pouvait fournir le nom de famille, les éléments de preuve montrent que SB a signé les déclarations apparemment préparées par l’aide-comptable sans examen ou questions de sa part. Ce n’est pas acceptable, en particulier dans le cas présent, où l’écart entre les montants des revenus déclarés et les sommes indiquées dans les cotisations était très important. Un examen diligent des déclarations préparées aurait indiqué à SB que les revenus déclarés étaient bien inférieurs à l’ensemble de ses revenus tirés de son entreprise à propriétaire unique. Il ne peut être exempté de sa responsabilité de produire des déclarations véridiques et exactes simplement parce qu’il a demandé à une aide-comptable de préparer ses déclarations, d’autant plus que l’aide-comptable ne pouvait s’en remettre qu’aux livres et registres que lui avait fournis SB. Malheureusement, l’aide-comptable ne pouvait témoigner, étant apparemment décédée; il faut également souligner que SB ne l’a jamais autorisée à agir comme sa représentante auprès de l’ARC durant la vérification de 2013-2014 de la présente affaire, et rien n’indiquait à ce moment qu’elle était décédée.
+[23] Ainsi, selon l’arrêt Lacroix, l’absence d’une explication crédible concernant le revenu non déclaré suffit pour confirmer les cotisations portées en appel, y compris la conclusion selon laquelle elles ne sont pas prescrites et que les pénalités imposées pour faute lourde sont justifiées.
+[24] En fonction de ce qui précède, je rejetterai le présent appel entendu selon la procédure informelle, sans dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 20e jour de décembre 2019.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2019 CCI 287
+NO DU DOSSIER DE LA COUR :
+2019-1028(GST)I
+INTITULÉ :
+SABRI BINJAMIN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Windsor (Ontario)
+DATE DE L’AUDIENCE :
+Le 19 septembre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 20 décembre 2019
+COMPARUTIONS :
+Représentant de l’appelant :
+Alexander R. Menzies
+Avocate de l’intimée :
+Me Anne Maria Konewka
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Me Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

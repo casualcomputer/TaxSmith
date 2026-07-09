@@ -1,0 +1,135 @@
+---
+title: "Leclair v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/23553/index.do"
+last_modified: "2005-06-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 363"
+citation2: ""
+neutral_citation: "2005 CCI 363"
+decision_date: "2005-06-03"
+language: "fr"
+item_id: "23553"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2209
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:51:23.789000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2d3e861359b89d3e4015a30497ad547e94ed5ab2507d37716b10dabfeed73931"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Leclair v. The Queen
+
+- Citation: 2005 CCI 363
+- Decision date: 2005-06-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2209, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leclair v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-03
+Référence neutre
+2005 CCI 363
+Numéro de dossier
+2004-1469(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+2004-1469(IT)I
+ENTRE :
+KEVIN LECLAIR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 25 janvier 2005 à Sudbury (Ontario).
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Michael Ezri
+[TRADUCTION FRANÇAISE OFFICIELLE]
+JUGEMENT
+L’appel interjeté contre la nouvelle cotisation d’impôt établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est rejeté.
+Signé à Ottawa, Canada, ce 3e jour de juin 2005.
+"E.A. Bowie"
+Le juge Bowie
+Traduction certifiée conforme
+ce 7e jour de novembre 2005-11-07
+Joanne Robert, traductrice
+Référence : 2005CCI363
+Date : 20050603
+Dossier : 2004-1469(IT)I
+ENTRE :
+KEVIN LECLAIR,
+appelant,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Cet appel, entendu sous le régime de la procédure informelle de la Cour, est interjeté contre une nouvelle cotisation d’impôt pour l’année d’imposition 2001. La seule question en litige consiste à savoir si, dans les circonstances de l’espèce, le paragraphe 118(5) de la Loi de l’impôt sur le revenu (la Loi) a pour effet de priver l’appelant du crédit d’impôt prévu à l’alinéa 118(1)b), auquel il aurait par ailleurs droit à l’égard de son fils.
+[2] Les faits ne sont pas contestés. L’appelant et son ex‑épouse vivent séparés depuis 1986. Jusqu’en décembre 1995, leur enfant a vécu avec sa mère. L’appelant était tenu, par ordonnance d’un tribunal, de verser à son ex‑épouse une pension alimentaire pour l’enfant, dont le montant a été haussé par suite d’une seconde ordonnance en 1987. L’appelant a pris du retard dans le paiement de la pension. En décembre 1995, son ex‑épouse et lui ont conclu un accord de séparation en vertu duquel il a obtenu la garde de leur fils, et son obligation de verser une pension alimentaire pour l’enfant a pris fin. À ce moment‑là, il devait 7 725,25 $ à son ex‑épouse au titre des arriérés de pension alimentaire. Il a par la suite fait des versements pour rembourser sa dette, notamment une somme de 2 075,35 $ qu’il a payée en 2001 et qu’il a déduite de son revenu en vertu de l’alinéa 60b) de la Loi dans la déclaration qu’il a produite pour cette année‑là. Il a également demandé ce qu’on appelle l’équivalent du crédit pour conjoint en vertu de l’alinéa 118(1)b) à l’égard de son fils. Il a d’abord fait l’objet d’une cotisation fondée sur son droit à la déduction prévue à l’alinéa 60b) et au crédit dont il est question à l’alinéa 118(1)b). Le ministre du Revenu national a ultérieurement établi à son égard une nouvelle cotisation pour lui refuser le crédit demandé en vertu de l’alinéa 118(1)b) au motif que le paragraphe 118(5) l’empêchait de s’en prévaloir.
+[3] L’alinéa 118(1)b) et le paragraphe 118(5) de la Loi portent ce qui suit :
+118(1) Le produit de la multiplication du total des montants visés aux alinéas a) à e) par le taux de base pour l’année est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition;
+a) …
+b) la somme de 7 131 $ et du résultat du calcul suivant :
+6 055 $ - (D - 606 $)
+où :
+D représente 606 $ ou, s’il est plus élevé, le revenu d’une personne à charge pour l’année;
+si le particulier ne demande pas de déduction pour l’année par l’effet de l’alinéa a) et si, à un moment de l’année :
+(i) d’une part, il n’est pas marié ou ne vit pas en union de fait ou, dans le cas contraire, ne vit pas avec son époux ou conjoint de fait ni ne subvient aux besoins de celui‑ci, pas plus que son époux ou conjoint de fait ne subvient à ses besoins;
+(ii) d’autre part, il tient, seul ou avec une ou plusieurs autres personnes, et habite un établissement domestique autonome où il subvient réellement aux besoins d’une personne qui, à ce moment, remplit les conditions suivantes :
+(A) elle réside au Canada, sauf s’il s’agit d’un enfant du particulier,
+(B) elle est entièrement à la charge soit du particulier, soit du particulier et d’une ou plusieurs de ces autres personnes,
+(C) elle est liée au particulier,
+(D) sauf s’il s’agit du père, de la mère, du grand-père ou de la grand‑mère du particulier, elle est soit âgée de moins de 18 ans, soit à charge en raison d’une infirmité mentale ou physique;
+[…]
+118(5) Aucun montant n’est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition si le particulier, d’une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son époux ou conjoint de fait ou ex‑époux ou ancien conjoint de fait pour la personne et, d’autre part, selon le cas :
+a) vit séparé de son époux ou conjoint de fait ou ex‑époux ou ancien conjoint de fait tout au long de l’année pour cause d’échec de leur mariage ou union de fait;
+b) demande une déduction pour l’année par l’effet de l’article 60 au titre de la pension alimentaire versée à son époux ou conjoint de fait ou ex‑époux ou ancien conjoint de fait.
+« Pension alimentaire » est définie de la façon suivante au paragraphe 56.1(4) :
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui‑ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex‑époux ou l’ancien conjoint de fait et vit séparé de celui‑ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est légalement le père ou la mère d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+[4] L’appelant est d’avis que le paragraphe 118(5) n’a pas pour effet de le rendre inadmissible aux fins du crédit prévu à l’alinéa 118(1)b) parce qu’il n’était pas tenu de verser une pension alimentaire pour l’enfant pour l’année en question. La pension qu’il a payée constituait des arriérés se rapportant à une année antérieure, et ne relève donc pas de cette disposition.
+[5] Malheureusement pour l’appelant, que son cas soit visé par les termes simples du paragraphe 118(5) de la Loi ne fait aucun doute. Cette disposition produit ses effets lorsque le contribuable est tenu de verser une pension alimentaire relativement à la personne à charge pour laquelle il demande le crédit personnel si l’une des deux autres conditions est remplie. Ces conditions sont les suivantes : l’appelant et l’ex‑époux vivent séparés, ou l’appelant demande une déduction au titre des paiements de pension alimentaire faits dans l’année pour l’enfant. Il ressort clairement de l’avis d’appel même de l’appelant et de son témoignage qu’en l’espèce, les trois conditions sont remplies. Il ne fait aucun doute que les arriérés de pension alimentaire pour l’enfant à payer aux termes d’une ordonnance ou d’un accord concernant une année antérieure, mais demeurés impayés jusqu’à l’année en question, correspondent à la définition de « pension alimentaire ». La modification apportée en 1998[1] à la Loi budgétaire de 1996 concernant l’impôt sur le revenu[2] a eu pour effet de supprimer certains montants de la définition de « pension alimentaire » au paragraphe 56.1(4), montants qui auraient par ailleurs été inclus. Si cette disposition devait s’appliquer, les arriérés ne seraient pas visés par le paragraphe 118(5) et l’appelant obtiendrait gain de cause. Pour qu’elle s’applique, cependant, il faut que ce soit :
+(i) le montant reçu aux termes d’un arrêt, d’une ordonnance ou d’un jugement d’un tribunal compétent, ou d’un accord écrit, sans date d’exécution au sens du paragraphe 56.1(4),
+(ii) le montant qui, s’il était payé et reçu, ne serait pas inclus, si ce n’était la loi modifiante, dans le calcul du revenu du bénéficiaire;
+Les paiements en cause ici remplissent seulement la première de ces deux conditions, de sorte que cette exception n’est d’aucune utilité à l’appelant.
+[6] L’appel doit en conséquence être rejeté.
+Signé à Ottawa, Canada, ce 3e jour de juin 2005.
+"E.A. Bowie"
+Le juge Bowie
+Traduction certifiée conforme
+ce 7e jour de novembre 2005-11-07
+Joanne Robert, traductrice
+[1] Loi de 1997 modifiant l’impôt sur le revenu, L.C. 1998, ch. 19, art. 307.
+[2] L.C. 1997, par. 9(8).

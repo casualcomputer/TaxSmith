@@ -1,0 +1,243 @@
+---
+title: "Quantum Fitness Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27720/index.do"
+last_modified: "2007-07-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 280"
+citation2: ""
+neutral_citation: "2007 CCI 280"
+decision_date: "2007-07-17"
+language: "fr"
+item_id: "27720"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 472
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:28:56.862000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7f9f3036b0f33b42e3f921b137b41f22f02d0252b1de4cd03e7a5610d19845db"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Quantum Fitness Inc. c. M.R.N.
+
+- Citation: 2007 CCI 280
+- Decision date: 2007-07-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 472, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Quantum Fitness Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-07-17
+Référence neutre
+2007 CCI 280
+Numéro de dossier
+2006-1124(EI)
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-1124(EI)
+ENTRE :
+QUANTUM FITNESS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION OFFICIELLE FRANÇAISE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de
+Quantum Fitness Inc. (2006-1124(EI)) le 26 avril 2007
+à Saskatoon (Saskatchewan)
+Devant : M. le juge L.M. Little
+Comparutions :
+Représentant de l’appelante :
+John Pearce
+Avocate de l’intimé :
+Ainslie Schroeder, assistée de
+Melissa Danish (stagiaire en droit)
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté, et la décision du ministre est confirmée conformément aux motifs ci‑joints.
+Signé à Calgary (Alberta), le 14e jour de juin 2007.
+« L.M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 2e jour d’octobre 2007.
+Ghislaine Poitras, LL.L., Trad. a.
+Dossier : 2006-1123(CPP)
+ENTRE :
+QUANTUM FITNESS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION OFFICIELLE FRANÇAISE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de
+Quantum Fitness Inc. (2006-1123(CPP)) le 26 avril 2007
+à Saskatoon (Saskatchewan)
+Devant : M. le juge L.M. Little
+Comparutions :
+Représentant de l’appelante :
+John Pearce
+Avocate de l’intimé :
+Ainslie Schroeder, assistée de
+Melissa Danish (stagiaire en droit)
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté, et la décision du ministre est confirmée conformément aux motifs ci‑joints.
+Signé à Calgary (Alberta), le 14e jour de juin 2007.
+« L.M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 2e jour d’octobre 2007.
+Ghislaine Poitras, LL.L., Trad. a.
+Référence : 2007CCI280
+Date : 20070614
+Dossiers : 2006-1123(CPP)
+2006-1124(EI)
+ENTRE :
+QUANTUM FITNESS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS
+[1] L’appelante a été constituée en personne morale en vertu des lois de la province de la Saskatchewan.
+[2] Les actions de l’appelante sont détenues par John Pearce et sa femme, Catherine Pearce, et cette dernière voit à la gestion de la société.
+[3] L’appelante était propriétaire exploitante de deux centres de conditionnement physique situés à Saskatoon.
+[4] L’appelante a signé deux contrats de licence avec Body Training System (« B.T.S. »), une organisation ayant son siège aux États‑Unis qui a concédé des licences à divers centres de conditionnement physique aux États‑Unis et au Canada.
+[5] L’appelante était la seule à exploiter une licence concernant le système de B.T.S. à Saskatoon.
+[6] Elle a démarché et recruté les clients de ses centres de conditionnement physique.
+[7] Ses clients étaient membres des centres.
+[8] L’appelante a engagé du personnel pour donner divers programmes de conditionnement physique (les « travailleurs »).
+[9] Chaque travailleur était un instructeur B.T.S. qualifié.
+[10] Les travailleurs étaient engagés à titre d’instructeurs B.T.S., de moniteurs de conditionnement physique, d’instructeurs d’aérobie, d’entraîneurs personnels et d’instructeurs de groupes de conditionnement physique.
+[11] Plusieurs d’entre eux exécutaient en outre des tâches administratives, notamment en établissant des horaires, en surveillant des cours et en s’occupant du bureau d’accueil.
+[12] Le contrat de licence B.T.S. imposait des restrictions aux travailleurs. Il stipulait qu’ils ne pouvaient appliquer le système B.T.S. que dans les deux centres de l’appelante à Saskatoon.
+[13] Les travailleurs touchaient un montant prédéterminé pour chaque cours donné. Voici ce qu’ils recevaient :
+- un travailleur était payé 14 $ par cours;
+- 15 travailleurs étaient payés 15 $ par cours;
+- trois travailleurs étaient payés 20 $ par cours;
+- deux travailleurs étaient payés 22 $ par cours.
+[14] Plusieurs travailleurs agissaient à titre d’entraîneurs personnels; ils recevaient un pourcentage des frais d’entraînement personnel facturés.
+[15] L’appelante organisait les cours et elle établissait les horaires des clients et des travailleurs.
+[16] Les travailleurs notaient le nombre d’heures de cours données.
+[17] L’appelante payait les travailleurs en fonction des registres qu’elle tenait.
+[18] Un travailleur pouvait en remplacer un autre, et l’appelante payait alors le remplaçant. Toutefois, le remplaçant devait faire partie des travailleurs de l’appelante.
+[19] L’appelante fournissait des lieux de travail aménagés, un gymnase, le matériel de conditionnement physique, un studio de danse, un système de son, un microphone, des tapis d’exercice et les chorégraphies.
+[20] Les travailleurs fournissaient leurs propres chaussures, leurs tenues d’exercice et, souvent, leur propre musique.
+B. QUESTION LITIGIEUSE
+[21] Il s’agit de déterminer si les travailleurs étaient employés par l’appelante au sens de la Loi sur l’assurance-emploi (la « Loi ») et s’ils exerçaient un emploi ouvrant droit à pension au sens du Régime de pensions du Canada (le « Régime » pendant la période allant du 1er janvier 2003 ou 30 avril 2005 (la « période en cause »).
+C. ANALYSE ET DÉCISION
+[22] Environ vingt‑cinq travailleurs fournissaient des services de conditionnement physique dans les deux centres de l’appelante. L’Agence du revenu du Canada (l’« ARC ») a considéré que chacun d’eux était un employé de l’appelante pour l’application de la Loi et du Régime.
+[23] Les appels ont été instruits à Saskatoon (Saskatchewan). L’avocate de l’intimé a fait entendre comme témoins trois des travailleurs (Sharon Courtney, Angeline Crozier et Kim Tam).
+[24] Pour déterminer si les travailleurs étaient des employés de l’appelant, j’ai consulté la jurisprudence.
+[25] La Cour suprême du Canada a examiné cette question dans 671122 Ontario Limited c. Sagaz Industries Canada (« Sagaz »), [2001] A.C.S. no 61.
+[26] S’exprimant au nom de la Cour, le juge Major a examiné les divers critères à appliquer pour établir si l’on a affaire à un employé ou à un entrepreneur indépendant et a déclaré qu’il adhérait au critère à quatre volets formulé par le juge MacGuigan de la Cour d’appel fédérale dans Wiebe Door Services Ltd. c. M.R.N., 87 DTC 5025, [1986] 3 C.F. 553.
+[27] Voici ce qu’il en a dit aux paragraphes 44, 46, 47 et 48 de Sagaz :
+44. Selon le juge MacGuigan, c’est le juge Cooke qui a fait la meilleure synthèse du problème dans la décision Market Investigations, Ltd. c. Minister of Social Security, [1968] 3 All E.R. 732 (Q.B.D.), p. 737-738 (suivie par le Conseil privé dans l’arrêt Lee Ting Sang c. Chung Chi-Keung, [1990] 2 A.C. 374, lord Griffiths, p. 382) :
+[traduction] Les remarques de lord Wright, du lord juge Denning et des juges de la Cour suprême des États-Unis laissent à entendre que le critère fondamental à appliquer est celui-ci : « La personne qui s’est engagée à accomplir ces tâches les accomplit-elle en tant que personne à son compte? » Si la réponse à cette question est affirmative, alors il s’agit d’un contrat d’entreprise. Si la réponse est négative, alors il s’agit d’un contrat de service personnel. Aucune liste exhaustive des éléments qui sont pertinents pour trancher cette question n’a été dressée, peut-être n’est‑il pas possible de le faire; on ne peut non plus établir de règles rigides quant à l’importance relative qu’il faudrait attacher à ces divers éléments dans un cas particulier. Tout ce qu’on peut dire, c’est qu’il faudra toujours tenir compte du contrôle même s’il ne peut plus être considéré comme le seul facteur déterminant; et que des facteurs qui peuvent avoir une certaine importance sont des questions comme celles de savoir si celui qui accomplit la tâche fournit son propre outillage, s’il engage lui-même ses aides, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion, et jusqu’à quel point il peut tirer profit d’une gestion saine dans l’accomplissement de sa tâche. [Je souligne.]
+[…]
+46. À mon avis, aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Lord Denning a affirmé, dans l’arrêt Stevenson Jordan, précité, qu’il peut être impossible d’établir une définition précise de la distinction (p. 111) et, de la même façon, Fleming signale que [traduction] « devant les nombreuses variables des relations de travail en constante mutation, aucun critère ne semble permettre d’apporter une réponse toujours claire et acceptable » (p. 416). Je partage en outre l’opinion du juge MacGuigan lorsqu’il affirme — en citant Atiyah, op. cit., p. 38, dans l’arrêt Wiebe Door, p. 563 — qu’il faut toujours déterminer quelle relation globale les parties entretiennent entre elles :
+[traduction] [N]ous doutons fortement qu’il soit encore utile de chercher à établir un critère unique permettant d’identifier les contrats de louage de services [. . .] La meilleure chose à faire est d’étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s’appliquent pas dans tous les cas et n’ont pas toujours la même importance. De la même façon, il n’est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+47. Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[28] Il importe de souligner que d’après le juge Major, la question centrale à trancher dans ce genre d’affaires est de savoir si la personne engagée pour fournir les services les fournit en tant que personne travaillant à son compte ou comme employé. Pour en décider, il faut prendre en compte les quatre facteurs énumérés dans Wiebe Door (précité).
+[29] Je procéderai donc à l’examen de chacun des facteurs retenus par le juge MacGuigan dans Wiebe Door (précité).
+1. Contrôle
+[30] Sur ce point, voici ce qui ressort de la preuve qui m’a été présentée :
+(a) Catherine Pearce, gestionnaire de la société appelante et l’une de ses actionnaires, exerçait une surveillance générale sur les travailleurs.
+(b) L’appelante organisait les cours et préparait les horaires de cours des travailleurs.
+(c) L’appelante payait les travailleurs suivant les registres qu’elle tenait.
+(d) Les travailleurs pouvaient se faire remplacer par un autre travailleur, à la condition que le remplaçant soit un instructeur B.T.S. qualifié.
+(e) En cas de remplacement, c’est l’appelante qui payait le remplaçant et non le travailleur remplacé.
+(f) Les travailleurs travaillaient dans les locaux de l’appelante, avec l’équipement de l’appelante.
+(g) Les trois travailleurs qui ont témoigné ont déclaré qu’ils devaient assister à des réunions de personnel et qu’ils n’étaient pas payés pour le temps consacré à ces réunions.
+(h) Ces trois témoins ont déclaré que pour eux, il était entendu qu’ils ne pouvaient travailler pour d’autres centres de conditionnement physique (autrement dit, l’appelante décidait de ce que les travailleurs pouvaient faire lorsqu’ils ne travaillaient pas pour elle).
+(i) L’avocate de l’intimé a déposé deux cartes professionnelles (voir la pièce R-2, pour Nanette Kowalski, et la pièce R-3, pour Sharon Courtney), lesquelles indiquaient que ces personnes étaient associées à l’appelante. Ces cartes ne démontraient pas que les deux travailleuses étaient des entrepreneures indépendantes.
+[31] Je conclus, sur le fondement de la preuve qui m’a été présentée, que les travailleurs se trouvaient bien sous le contrôle de l’appelante de la même façon que des employés sont sous le contrôle de leur employeur.
+2. Propriété des instruments de travail
+[32] Comme il en a déjà été fait mention, l’appelante fournissait un lieu de travail entièrement aménagé, de l’équipement de conditionnement physique, un studio de danse, un système de son, un microphone, des tapis d’exercice et des chorégraphies. Les travailleurs ne fournissaient que leurs chaussures et leurs tenues d’exercice ainsi que leur musique.
+3. Possibilité de profit et risque de perte
+[33] Comme on l’a vu, les travailleurs étaient payés en fonction des cours qu’ils donnaient. La preuve indique qu’ils n’assumaient aucuns frais d’exploitation « courants ». Par exemple, ils n’avaient pas à conclure de bail avec un locateur ou à tenter de recouvrer de mauvaises créances. Ils n’avaient pas à percevoir d’argent des clients qui fréquentaient les centres. La preuve établit, selon moi, que les travailleurs n’avaient pas la possibilité de participer aux profits de l’appelante pas plus qu’ils ne risquaient de subir de perte.
+4. Intention des parties
+[34] M. Pearce, le représentant de l’appelante et l’un de ses actionnaires, a déclaré que chacun des travailleurs a signé une entente stipulant qu’il était un entrepreneur indépendant. Aucune copie de cette entente n’a toutefois été produite, et les trois travailleurs qui ont témoigné ont été plutôt vagues sur la nature de l’entente conclue entre l’appelante et eux. L’une des témoins, Mme Crozier, a d’ailleurs déclaré qu’elle avait accepté l’entente mais qu’elle ne comprenait pas trop ce qu’elle prévoyait. Un autre témoin a été imprécis en ce qui concernait l’existence de l’entente.
+[35] Dans Royal Winnipeg Ballet c. M.N.R., 264 D.L.R. (4th) 634, 2006 DTC 6323, 2006 CAF 87, la juge Sharlow de la Cour d’appel fédérale, se reportant à la décision du juge Décary, de la même cour, dans Wolf c. M.N.R., 2002 DTC 6853, 2002 CAF 96, a écrit au paragraphe 60 :
+60. […] Un de ces principes veut que, lorsqu’il s’agit d’interpréter un contrat, il faut rechercher l’intention commune des parties plutôt que de s’en remettre uniquement au sens littéral des mots utilisés. Un autre principe est que, pour interpréter un contrat, il convient de tenir compte des circonstances dans lesquelles il a été conclu, de l’interprétation que lui ont déjà donnée les parties ou d’autres personnes, ainsi que de l’usage. La conclusion inévitable est qu’il faut toujours examiner les éléments de preuve qui reflètent la façon dont les parties ont compris leur contrat et leur accorder une force probante appropriée.
+[36] La juge Sharlow a ajouté au paragraphe 61 :
+61. Je souligne, une fois de plus, que cela ne veut pas dire que les affirmations que font les parties quant à la nature juridique de leur contrat sont concluantes. Cela ne veut pas dire non plus que les déclarations que font les parties quant à leurs intentions doivent nécessairement amener le tribunal à conclure que leurs intentions ont été concrétisées. Pour paraphraser la juge Desjardins (au paragraphe 71 des motifs principaux de l’arrêt Wolf), lorsqu’il est prouvé que les modalités du contrat, examinées dans le contexte factuel approprié, ne reflètent pas la relation juridique que les parties affirment avoir souhaité établir, alors il ne faut pas tenir compte de leur intention déclarée.
+[37] À mon avis, les commentaires formulés par la juge Sharlow dans l’arrêt Royal Winnipeg Ballet (précité), bien qu’ils revêtent une grande importance, ne s’appliquent pas en l’espèce parce qu’il n’existait aucune perception précise commune de la nature de la relation entre l’appelante et les travailleurs. Dans l’affaire Royal Winnipeg Ballet (précitée), il existait ce qu’on pourrait qualifier d’« intention éclairée ». Ça n’est pas le cas en l’espèce. En outre, comme je l’ai déjà indiqué, on n’a pu mettre la main sur aucune copie de l’entente. En résumé, cela se réduit à une question de crédibilité. Je n’accepte pas les déclarations faites au sujet de l’entente.
+[38] J’ai aussi examiné la décision du juge McArthur de notre cour dans 557755 BC Ltd. c. M.R.N., 2005 CCI 663, dans laquelle il a appliqué les arrêts Wiebe Door et Sagaz Industries (précités) et statué qu’un instructeur de conditionnement physique était un employé et non un entrepreneur indépendant. Je souscris à cette conclusion du juge McArthur.
+[39] Je crois utile, pour se prononcer sur les points susmentionnés, de revenir aux commentaires du juge Major dans Sagaz Industries (précité), selon lesquels la question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte ou en tant qu’employé. (Je souligne.) (Voir aussi l’arrêt Nametco Holdings Ltd. c. Ministre du Revenu national, 2002 CAF 474, dans lequel le juge Strayer s’est appuyé sur la même citation du juge Major.)
+[40] Pour déterminer si les travailleurs exploitaient leur propre entreprise, je relève les points suivants :
+(a) Aucun des travailleurs n’était inscrit au registre de perception de la TPS.
+(b) Aucun des travailleurs n’avait contracté sa propre assurance.
+(c) Aucun des travailleurs ne possédait ses propres cartes professionnelles; les cartes professionnelles présentées témoignaient de l’existence d’un « lien avec » l’appelante.
+(d) Les travailleurs n’avaient pas à se constituer leur propre clientèle.
+(e) Les travailleurs ne payaient pas pour de la publicité à la radio, à la télévision ou dans les journaux.
+D. CONCLUSION
+[41] Compte tenu de la preuve dont je dispose, je conclus qu’on ne saurait affirmer que les travailleurs fournissaient leurs services en tant que personnes exploitant leur propre entreprise.
+[42] Compte tenu de la preuve et de l’analyse jurisprudentielle, je conclus que les travailleurs fournissaient leurs services à titre d’employés de l’appelante.
+[43] Les appels sont rejetés, sans frais.
+Signé à Calgary (Alberta), le 14e jour de juin 2007.
+« L.M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 2e jour d’octobre 2007.
+Ghislaine Poitras, LL.L., Trad. a.
+RÉFÉRENCE :
+2007CCI280
+NO DU DOSSIER DE LA COUR.:
+2006-1123(CPP) ET
+2006-1124(EI)
+INTITULÉ :
+Quantum Fitness Inc. et
+Le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 26 avril 2007
+MOTIFS DU JUGEMENT :
+L’honorable juge L.M. Little
+DATE DU JUGEMENT:
+Le 14 juin 2007
+COMPARUTIONS :
+Représentant de l’appelant :
+John Pearce
+Avocate de l’appelant :
+Ainslie Schroeder assistée de
+Melissa Danish (stagiaire en droit)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)

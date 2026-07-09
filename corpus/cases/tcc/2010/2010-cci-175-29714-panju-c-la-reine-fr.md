@@ -1,0 +1,161 @@
+---
+title: "Panju c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29714/index.do"
+last_modified: "2010-03-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 175"
+citation2: ""
+neutral_citation: "2010 CCI 175"
+decision_date: "2010-03-26"
+language: "fr"
+item_id: "29714"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6218
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:08:13.488000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4448dfcb98c8d9ffc73fda2ed24c7f40db71a2304e18fed94d02568d6b244368"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Panju c. La Reine
+
+- Citation: 2010 CCI 175
+- Decision date: 2010-03-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6218, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Panju c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-26
+Référence neutre
+2010 CCI 175
+Numéro de dossier
+2004-1100(IT)G, 2004-3927(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2004-3927(IT)G
+2004-2690(IT)G
+2004-1100(IT)G
+ENTRE :
+HASANAIN PANJU
+2950995 CANADA INC.
+153114 CANADA INC.,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue le 24 mars, 2010 à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocate de Hasanain Panju :
+Me Mélissa Rivest
+Avocats de 2950995 Canada Inc. et 153114 Canada Inc. :
+Me Jacques Plante
+Me Gordon Kugler
+Me Stéphane Martin
+Avocats de l’intimée :
+Me Martin Gentile
+Me Mélanie Bélec
+____________________________________________________________________
+ORDONNANCE
+La requête de l’intimée demandant à cette cour d’ordonner la réunion des instances dans ces trois appels en vertu de l’article 26 des Règles de la Cour canadienne de l’impôt (procédure générale) (Règles) est rejetée, avec dépens selon le tarif B des Règles à l’encontre de l’intimée en faveur de chacun des appelants, en tenant compte que les sociétés 2950995 Canada Inc. et 153114 Canada Inc. n’auront droit qu’à un seul jeu de dépens puisqu’elles sont toutes deux représentées par les mêmes avocats et procèdent sur preuve commune.
+Signé à Montréal, Québec, ce 26e jour de mars 2010.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2010 CCI 175
+Date : 20100326
+Dossier : 2004-3927(IT)G
+2004-2690(IT)G
+2004-1100(IT)G
+ENTRE :
+HASANAIN PANJU
+2950995 CANADA INC.
+153114 CANADA INC.,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+La juge Lamarre
+[1] L’intimée a présenté une requête demandant à cette Cour d’ordonner la réunion des instances dans les trois dossiers mentionnés en rubrique, en s’appuyant sur l’article 26 des Règles de la Cour canadienne de l’impôt (procédure générale) (Règles), lequel article se lit comme suit :
+Directive relative à la réunion des instances
+26. Si, dans le cas où la Cour est saisie de plusieurs instances, il appert :
+a) qu'elles ont en commun une question de droit, une question de fait ou une question de droit et de fait, tenant à une même transaction ou à un même événement, ou à une même série de transactions ou d'événements;
+b) que pour toute autre raison, il y a lieu de rendre une directive en application du présent article,
+la Cour peut ordonner :
+c) la réunion de ces instances ou leur instruction simultanée ou consécutive;
+d) l'ajournement de l'une d'entre elles en attendant l'issue de n'importe quelle autre.
+[2] Les deux sociétés appelantes 2950995 Canada Inc. et 153114 Canada Inc. sont deux sociétés de gestion de placements (sociétés) qui étaient contrôlées au cours de l’année d’imposition en litige (1999) respectivement par Micheline Charest (Charest) et Ronald Weinberg (Weinberg), tous deux co-fondateurs de la société Cinar Corporation (Cinar). Les sociétés ont logé un appel devant notre cour à l’encontre des cotisations établies par le ministre du Revenu national (ministre) pour l’année d’imposition 1999, leur refusant des pertes en capital reliées à ce qu’elles allèguent être des appropriations de fonds illégales qu’aurait effectuées le troisième appelant, Hasanain Panju (Panju).
+[3] Les sociétés ont par ailleurs institué une action devant la Cour supérieure du Québec contre Panju en 2007, et cette cause est toujours pendante devant ce tribunal.
+[4] Par ailleurs, Panju a été cotisé par le ministre afin d’inclure dans son revenu des montants qu’il se serait appropriés illégalement de Cinar au cours des années d’imposition 1996, 1997, 1998 et 1999. Je crois comprendre des propos de l’avocate de Panju, que ces cotisations sont fondées sur une poursuite qui aurait été intentée par Cinar à l’encontre de Panju, et qui se serait réglée hors cour par une entente confidentielle.
+[5] Apparemment, les cotisations à l’encontre de Panju portent sur 150 transactions impliquant ce dernier et Cinar. Panju a logé un appel à l’encontre de ces cotisations au motif qu’il est faux de prétendre qu’il a encaissé toutes les sommes d’argent qu’on lui impute dans ces cotisations. Quant aux sommes qu’il a reçues, ce serait des avances que lui auraient faites Weinberg et Charest en vertu d’une entente verbale. Il soutient donc qu’il n’est pas imposable sur les montants cotisés.
+[6] Par ordonnance de notre cour en date du 24 novembre 2009, l’audition des appels des cotisations concernant les sociétés est prévue pour être entendue sur preuve commune pour une durée de 10 jours à compter du 26 avril 2010.
+[7] L’audition des appels dans le cas de Panju n’est pas encore fixée. Selon l’intimée, il serait utile de réunir les instances dans chacun de ces appels puisque selon son avocat, il revient à notre cour de décider si Panju s’est approprié illégalement ou non des fonds appartenant aux sociétés, car, ajoute-t-il, cette décision aura un impact direct sur le montant des pertes en capital admissibles que ces sociétés réclament.
+[8] Toujours selon l’intimée, la réunion des instances permettrait d’éviter la multiplication et le dédoublement des procédures puisque Panju et Weinberg feront l’objet d’interrogatoires dans chaque appel. L’intimée soutient de plus que la réunion des instances permettrait que les appels soient tranchés de façon plus expéditive compte tenu d’une preuve documentaire commune volumineuse.
+[9] L’intimée soutient également que puisque la position des sociétés est diamétralement opposée à celle de Panju, la réunion des instances éviterait que des décisions soient rendues sur la base de conclusions de fait contradictoires relativement aux mêmes événements, assurant ainsi la bonne administration de la justice.
+[10] Finalement, l’intimée soutient que la réunion des instances permettrait que les appels soient tranchés de façon moins onéreuse.
+[11] Les sociétés sont représentées par des avocats différents devant notre cour et devant la Cour supérieure du Québec. Panju est évidemment représenté par ses propres avocats.
+[12] Les sociétés s’opposent à la réunion des instances, entre autres, parce que si la requête était acceptée, l’audition de leur appel serait indéniablement ajournée, et elles sont éminemment prêtes à procéder. De plus, elles considèrent que les pertes en capital qui font l’objet des cotisations sous appel, ne peuvent être affectées par le maintien ou non des cotisations de Panju, qui est imposé sur des avantages imposables, conférés ou non, par Cinar.
+[13] Du côté de Panju, on s’objecte également à la réunion d’instances, puisque l’on considère que le débat qui oppose Panju aux sociétés doit se faire devant la Cour supérieure du Québec. Par ailleurs, on considère que Panju n’a pas à entendre toutes les questions dans le procès qui opposera le ministre aux sociétés qui n’ont pas à voir avec ses propres cotisations. Une réunion d’instances rallongerait inutilement le débat pour lui et serait beaucoup trop onéreux, en termes monétaires et en temps.
+[14] La réunion d’instances vise généralement à éviter la multiplication des instances et à assurer le déroulement rapide et à moindre coût des instances engagées. Les facteurs suivants peuvent être tenus en compte : la similitude des causes d’action, le caractère parallèle de la preuve et la probabilité que l’issue d’une affaire permette de régler l’autre (voir John E. Canning Ltd. c. Tripap inc., 1999 CanLII 8029 (CF), paragraphe 27).
+[15] À mon avis, la réunion des instances tel que le requiert l’intimée n’assurerait pas un déroulement rapide et à moindre coût des instances engagées. D’une part, l’audition des appels des sociétés est déjà prévue au rôle de la cour pour une période de 10 jours à compter du 26 avril 2010. La cour a bloqué ce temps à la demande des parties, y compris l’intimée. Il est beaucoup trop tard maintenant pour présenter une telle requête. La réunion d’instances aurait pour effet non seulement de retarder le procès des sociétés à une date ultérieure indéfinie, mais en plus aurait pour résultat de prolonger la durée du procès de façon importante, à un coût beaucoup plus onéreux tant pour les sociétés que pour Panju. En effet, les appels des sociétés portent également sur d’autres points non reliés à Panju (je pense au report des pertes autres qu’en capital des années antérieures relativement à des dépenses de publicité et des frais d’adhésion pour des sommes toutes aussi importantes). Quant à Panju, les montants cotisés relèvent de transactions avec Cinar qui ne sont pas, de ce que je comprends, liées nécessairement aux sommes que Panju aurait soutirées des sociétés, si tel était le cas. De plus, il y a d’autres points en litige dans l’affaire Panju qui ne concernent pas les sociétés (je pense entre autres à la question de la prescription). La question à savoir si Panju est redevable d’impôt sur les sommes provenant du compte de Cinar au cours des années 1996 à 1999, n’est pas la même que celle d’établir si les sociétés ont subi des pertes en capital en 1999, résultant d’appropriations de fonds par Panju dans ces sociétés.
+[16] Par ailleurs, par sa requête, l’intimée demande indirectement à notre cour de se prononcer sur la question en litige qui est actuellement pendante entre les sociétés et Panju devant la Cour supérieure du Québec. À mon avis, tout ce débat déborde la question en litige devant notre cour qui n’est pas le forum indiqué pour ce faire. Les sociétés ont réclamé des pertes en capital, qui ont trait aux sommes qui ont peut-être été appropriées illégalement par Panju. Il reviendra au juge au fond, qui entendra les appels des sociétés devant notre Cour, de déterminer, selon la prépondérance des probabilités, si de telles pertes existent, et si oui, si elles peuvent être réclamées en 1999 ou seulement dans l’année où la Cour supérieure se prononcera sur le litige qui oppose les sociétés à Panju.
+[17] Pour les cotisations établies à l’encontre de Panju, celles-ci ont été faites en se basant sur la poursuite intentée par Cinar contre Panju. Cette poursuite a été réglée et les termes du règlement sont confidentiels. Ceci n’est pas une raison pour imposer aux sociétés un procès de beaucoup plus longue durée à une date ultérieure indéfinie devant notre cour sur des transactions qui opposent Panju et Cinar. Le Ministre aura le fardeau de démontrer qu’il avait le pouvoir de cotiser au-delà de la période normale de nouvelle cotisation. Il reviendra ensuite à Panju de démontrer, selon la prépondérance des probabilités, qu’il n’est pas imposable sur les montants qu’on a inclus dans son revenu.
+[18] Finalement, l’argument de l’intimée voulant que si les instances ne sont pas entendues ensemble, il pourrait en résulter des conclusions de faits contradictoires, ne me convainc pas. En effet, tel que je l’ai déjà mentionné, pour les sociétés, il s’agit de déterminer si Panju s’est approprié illégalement des fonds leur appartenant, ce qui justifierait qu’elles réclament des pertes en capital. Pour Panju, il s’agit de déterminer s’il est imposable sur des sommes qu’il a reçues de Cinar. Le débat n’étant pas le même, je ne crois pas qu’on puisse justifier la réunion d’instances sur la foi qu’il pourrait y avoir deux décisions menant à des conclusions de faits contradictoires.
+[19] Après avoir entendu les allégations des avocats de toutes les parties, l’intimée ne m’a pas convaincue que les avantages qui pourraient résulter de la réunion des instances l’emportent sur les inconvénients invoqués par les sociétés et Panju. L’intimée ne m’a pas convaincue du bien-fondé de la réunion des instances, surtout à ce stade-ci, alors que l’audition des appels des sociétés est déjà prévue pour audition depuis plusieurs mois déjà.
+[20] Pour ces raisons, la requête est rejetée avec dépens selon le tarif B des Règles à l’encontre de l’intimée en faveur de chacun des appelants, tenant en compte que les sociétés n’auront droit qu’à un seul jeu de dépens puisqu’elles sont toutes deux représentées par les mêmes avocats et procèdent sur preuve commune.
+Signé à Montréal, Québec, ce 26e jour de mars 2010.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2010 CCI 175
+Nº DES DOSSIERS DE LA COUR : 2004-3927(IT)G
+2004-2690(IT)G
+2004-1100(IT)G
+INTITULÉ DE LA CAUSE : HASANAIN PANJU, 2950995 CANADA INC., 153114 CANADA INC. c. LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 24 mars 2010
+MOTIFS DE JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 26 mars 2010
+COMPARUTIONS :
+Avocate de Hasanain Panju :
+Me Mélissa Rivest
+Avocats de 2950995 Canada Inc. Et 153114 Canada Inc. :
+Me Jacques Plante
+Me Gordon Kugler
+Me Stéphane Martin
+Avocats de l’intimée :
+Me Martin Gentile
+Me Mélanie Bélec
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada

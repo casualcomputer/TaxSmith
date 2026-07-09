@@ -1,0 +1,167 @@
+---
+title: "Caday JR. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30183/index.do"
+last_modified: "2011-01-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 61"
+citation2: ""
+neutral_citation: "2011 CCI 61"
+decision_date: "2011-01-31"
+language: "fr"
+item_id: "30183"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7738
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:09:28.157000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0f1f55ac0cdc076fe97c54919bf547ef604de4444205de2df0738a018d3c9bc8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Caday JR. c. La Reine
+
+- Citation: 2011 CCI 61
+- Decision date: 2011-01-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7738, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Caday JR. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-01-31
+Référence neutre
+2011 CCI 61
+Numéro de dossier
+2008-3957(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3957(IT)G
+ENTRE :
+RICARDO CADAY, JR.,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus le 11 janvier 2011, à Windsor (Ontario).
+Devant : L'honorable juge G. A. Sheridan
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même
+Avocate de l'intimée :
+Me Joanna Hill
+________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2003, 2004 et 2005 sont accueillis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en conformité avec les motifs du jugement ci‑joints. L'intimée a droit à des dépens de 500 $.
+Signé à Vancouver (Colombie‑Britannique), ce 31e jour de janvier 2011.
+« G. A. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 7e jour d'avril 2011.
+Yves Bellefeuille, réviseur
+Référence : 2011 CCI 61
+Date : 20110131
+Dossier : 2008‑3957(IT)G
+ENTRE :
+RICARDO CADAY, JR.,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sheridan
+[1] L'appelant, Ricardo Caday, Jr., interjette appel à l'encontre des cotisations arbitraires[1] établies par le ministre du Revenu national qui incluaient un revenu de 67 138 $, de 59 253 $ et de 58 138 $ pour les années d'imposition 2003, 2004 et 2005 respectivement. Parce que l'appelant, même après qu'on lui a demandé de le faire, n'a pas produit de déclaration de revenus pour ces trois années, le ministre a établi des pénalités pour production tardive et pour récidive, suivant les paragraphes 162(1) et (2) de la Loi de l'impôt sur le revenu. À la date de l'audience du présent appel, l'appelant n'a toujours pas produit de déclaration de revenus.
+[2] L'appelant a comparu en personne lors de l'audition du présent appel entendu sous le régime de la procédure générale et il était la seule personne à témoigner. L'appelant est un témoin généralement crédible et ses difficultés réelles découlent de son manque d'organisation. En plus d'avoir omis de produire les déclarations de revenus exigées, il n'a pas tenu de registres appropriés pour ce qui est de ses revenus ou de ses dépenses d'emploi. Par conséquent, la majeure partie de l'audience d'une journée a été consacrée à essayer de trouver un sens au témoignage de l'appelant tout en examinant attentivement les quelques documents qu'il avait produits dans l'espoir d'en arriver à un calcul juste de sa dette fiscale. Grâce en grande partie à la patience et à la tolérance de l'avocate de l'intimée, l'appelant a été en mesure de démontrer que son revenu pour les années d'imposition visées était inférieur à celui établi dans les cotisations et qu'il avait droit à certaines dépenses, qui sont énoncées ci‑dessous.
+Revenu d'emploi pour 2003, 2004 et 2005
+[3] Pendant ces années, l'appelant travaillait comme agent d'assurance pour différentes entreprises dans la région de Windsor. Le revenu déterminé par le ministre pour chacune des années d'imposition était apparemment basé sur des renseignements tirés des déclarations de revenus de son épouse. Cependant, ayant examiné les feuillets T‑4[2] et T‑4A[3] produits par l'appelant, l'intimée a admis que le revenu de l'appelant pour chaque année était de 26 389 $, de 23 496 $ et de 38 923 $.
+Dépenses d'emploi et autres déductions
+[4] Comme il est mentionné plus haut, l'appelant n'a jamais produit de déclaration de revenus pour les années 2003, 2004 et 2005. Toutefois, à la veille du procès, il a préparé des ébauches de déclarations de revenus pour 2003[4] et 2004[5], qu'il a utilisées comme documents de référence lors de l'audience. D'après lui, il n'a pas eu assez de temps pour remplir la déclaration de revenus pour 2005.
+[5] Dans ses ébauches de déclarations de revenus pour 2003 et 2004, l'appelant a demandé des déductions d'environ 8 000 $ et 10 000 $ respectivement pour les frais supportés relativement aux éléments suivants : un véhicule automobile, un séminaire, un permis d'entreprise, le stationnement, les abonnements à des revues, la représentation, la publicité et la promotion, les fournitures de bureau et son bureau à domicile. Dans son témoignage, il a aussi affirmé avoir payé 157 $ par mois pendant cinq mois en 2003 et pendant 12 mois en 2004 suivant un contrat de location d'ordinateur. Enfin, il a cherché à déduire 611 $ au titre de cotisations au Régime de pensions du Canada.
+[6] L'avocate de l'intimée a allégué que ce ne sont pas toutes les déductions qui peuvent être accordées, étant donné que certaines d'entre elles n'étaient pas appuyées par des reçus ou d'autres documents et que, pour d'autres, les montants estimatifs n'étaient pas raisonnables. De plus, il s'agissait d'un appel entendu sous le régime de la procédure générale et l'appelant ne s'est pas conformé entièrement aux ordonnances de production de documents.
+[7] J'accepte les arguments de l'avocate de l'intimée selon lesquels il n'y a pas suffisamment de preuve pour justifier l'acceptation de la totalité des dépenses déduites par l'appelant. Comme bon nombre de contribuables qui comparaissent sans avocat, l'appelant était très dépassé par les obligations qui lui incombaient suivant les règles et par la complexité de la tâche que représentait l'établissement de son droit aux montants visés; cependant, il y a une limite à la latitude dont dispose la Cour dans un appel entendu sous le régime de la procédure générale.
+[8] Tout d'abord, en ce qui concerne les déductions liées au Régime de pensions du Canada, rien ne démontre que le montrant déduit ait été payé. Pour ce qui est des dépenses liées au bureau à domicile, l'appelant a déduit les six septièmes du coût total des services publics, de l'impôt foncier et de l'assurance pour sa résidence chaque année. Même si j'accepte son témoignage selon lequel, en raison de son travail comme agent d'assurance, il devait avoir un espace de travail dans sa résidence pour l'utiliser le soir ou la fin de semaine et qu'il aurait payé un certain montant pour les dépenses liées à une telle utilisation, il n'a produit aucune facture pour les services publics, l'impôt foncier et l'assurance relatifs à sa résidence. Il y avait également un manque de documents quant aux dépenses relatives à son véhicule automobile : je reconnais qu'il a utilisé l'une de ses deux voitures pour voyager afin de vendre de l'assurance, mais l'appelant n'avait pas de livre de bord pour sa voiture et n'a pu qu'estimer ses coûts en fonction des prix moyens de l'essence et de la distance parcourue. De même, il n'a pas fourni à l'intimée ni à la Cour de reçus pour les frais de représentation, les abonnements à des revues, les fournitures de bureau, le stationnement, et ainsi de suite. Il avait un reçu de 299 $ pour un séminaire de perfectionnement professionnel en 2003. Par conséquent, j'ai accordé un montant raisonnable pour de telles dépenses et, dans la mesure du possible, j'ai donné suite aux concessions faites par le ministre de la manière qui suit.
+Année d'imposition 2003
+[9] L'intimée reconnaît qu'en 2003, le revenu de l'appelant était de 26 389 $. L'employeur de l'appelant a retenu à la source 1 732 $ en impôt sur le revenu, ce qui, pour une raison quelconque, n'a pas été inscrit sur le feuillet T‑4 fourni par l'employeur; ce montant doit être pris en compte par le ministre pour l'établissement de la nouvelle cotisation. De même, l'appelant a produit un Sommaire des versements d'acomptes provisionnels que l'Agence du revenu du Canada lui a envoyé pour 2004[6] relativement à un « crédit total pour versements d'acomptes provisionnels » pour 2003 de 2 230,75 $. Pour établir la nouvelle cotisation à l'égard de l'appelant pour l'année d'imposition 2003 conformément aux présents motifs du jugement, le ministre doit déterminer le montant de tous les acomptes provisionnels que l'appelant aurait versés pendant cette année et, le cas échéant, en tenir compte. Pour ce qui est du montant de 8 000 $ déduit au titre d'autres dépenses d'emploi en 2003, je conclus que l'appelant a versé 25 % de ce montant, soit 2 000 $.
+Année d'imposition 2004
+[10] L'intimée reconnaît qu'en 2004, le revenu de l'appelant était de 23 496 $. Il a versé des acomptes provisionnels de 2 980,84 $[7], montant dont le ministre devrait tenir compte lors de l'établissement de la nouvelle cotisation. Son employeur a retenu 2 648 $[8] en impôt sur le revenu mais, comme c'était le cas en 2003, il n'a pas inscrit ce montant sur le feuillet T‑4A de l'appelant. On a également déduit 5 712 $[9] directement de son chèque de paie pour des dépenses d'emploi. Pour ce qui est des 10 000 $ supplémentaires que l'appelant a déduits à titre de dépenses, je conclus qu'il payé des dépenses d'emploi équivalant à 20 % de ce montant, soit 2 000 $.
+Année d'imposition 2005
+[11] L'intimée reconnaît qu'en 2005, le revenu de l'appelant était de 38 923 $. À l'audience, l'appelant n'avait aucun document à l'appui de sa demande autre que le feuillet T‑4[10] et un sommaire des revenus type[11] pour janvier 2005. J'accepte l'argument de l'avocate de l'intimée voulant qu'en fonction de ces documents, il est probable qu'en moyenne l'employeur de l'appelant ait retenu de son chèque de paie mensuel environ 478 $ pour des dépenses d'emploi en janvier 2005, ce qui donne une déduction annuelle de 5 736 $.
+Pénalités pour production tardive
+[12] Conformément au paragraphe 150(1) de la Loi, l'appelant devait produire une déclaration de revenus pour chaque année d'imposition visée par l'appel :
+150(1) Déclarations – règle générale. Sous réserve du paragraphe (1.1), une déclaration de revenu sur le formulaire prescrit et contenant les renseignements prescrits doit être présentée au ministre, sans avis ni mise en demeure, pour chaque année d'imposition d'un contribuable :
+[...]
+[13] Le défaut de l'appelant de produire ses déclarations de revenus a entraîné l'application des dispositions relatives à la production tardive, soit les paragraphes 162(1) et (2) :
+162(1) Défaut de déclaration de revenu. Toute personne qui ne produit pas de déclaration de revenu pour une année d'imposition selon les modalités et dans le délai prévus au paragraphe 150(1) est passible d'une pénalité égale au total des montants suivants :
+a) 5 % de l'impôt payable pour l'année en vertu de la présente partie qui était impayé à la date où, au plus tard, la déclaration devait être produite;
+b) le produit de 1 % de cet impôt impayé par le nombre de mois entiers, jusqu'à concurrence de 12, compris dans la période commençant à la date où, au plus tard, la déclaration devait être produite et se terminant le jour où la déclaration est effectivement produite.
+(2) Récidive. La personne qui ne produit pas de déclaration de revenu pour une année d'imposition selon les modalités et dans le délai prévus au paragraphe 150(1) après avoir été mise en demeure de le faire conformément au paragraphe 150(2) et qui, avant le moment du défaut, devait payer une pénalité en application du présent paragraphe ou du paragraphe (1) pour défaut de production d'une déclaration de revenu pour une des trois années d'imposition précédentes est passible d'une pénalité égale au total des montants suivants :
+a) 10 % de l'impôt payable pour l'année en vertu de la présente partie qui était impayé à la date où, au plus tard, la déclaration devait être produite;
+b) le produit de 2 % de cet impôt impayé par le nombre de mois entiers, jusqu'à concurrence de 20, compris dans la période commençant à la date où, au plus tard, la déclaration devait être produite et se terminant le jour où la déclaration est effectivement produite.
+[14] L'appelant a admis qu'il n'avait pas produit de déclaration de revenus pour 2003, 2004 et 2005 et qu'il ne s'était pas conformé à la mise en demeure du ministre à cet égard. Toutefois, en supposant, comme l'a fait le ministre, que l'appelant devait payer de l'impôt pour ces années, l'appelant pouvait éviter l'application de ces pénalités s'il avait été capable de démontrer qu'il avait fait preuve de « diligence raisonnable »; en d'autres mots, qu'il avait pris toutes les mesures raisonnables pour se conformer aux obligations qui lui incombent d'après la Loi.
+[15] L'appelant a témoigné qu'il n'avait pas produit ses déclarations de revenus conformément au délai fixé au 30 avril de l'année suivante parce qu'il croyait (apparemment suivant les conseils de son spécialiste en déclarations) qu'il n'avait aucun revenu imposable pour les années d'imposition en question. Il a également dit à la Cour que son épouse et lui avaient éprouvé de nombreux ennuis de santé et d'argent pendant ces années, dont bon nombre persistaient encore.
+[16] La norme qu'un contribuable doit respecter afin d'éviter l'imposition de pénalités pour production tardive est élevée. En l'espèce, l'appelant n'a pas réussi à me convaincre qu'il avait pris quelque mesure que ce soit pour respecter ses obligations conformément à la Loi de l'impôt sur le revenu. Peu importe quels étaient les motifs de l'appelant, la preuve démontre la négligence dont il a fait preuve dans la tenue de ses dossiers et son indifférence à l'égard de ses obligations en tant que contribuable, une tendance qui est demeurée inchangée même après la réception des mises en demeure du ministre de produire ses déclarations de revenus et qui s'est poursuivie tout au long du présent appel. En ce qui concerne ses problèmes personnels, bien que j'accepte la preuve qu'il a soumise à cet égard et que je sois sensible à sa situation difficile, sa preuve ne constituait pas un fondement permettant de démontrer que ses problèmes l'empêchaient de produire ses déclarations de revenus dans le délai prévu.
+[17] Par conséquent, si, après avoir établi de nouvelles cotisations conformément aux présents motifs du jugement, un impôt sur le revenu était dû pour l'une ou la totalité des années visées par l'appel, le ministre sera en droit d'imposer des pénalités en vertu du paragraphe 162(1) ou 162(2), ou en vertu des deux paragraphes, selon le cas.
+[18] L'avocate de l'intimée a également demandé des dépens de 500 $, un montant qui, comme elle l'a fait valoir tout à fait à bon droit, est loin de couvrir les dépenses faites pour veiller à ce que l'appelant puisse faire valoir ses droits devant la Cour. Elle a reconnu ses difficultés financières, qui sont importantes, mais a allégué que, compte tenu du défaut de l'appelant de se conformer aux Règles de la Cour canadienne de l'impôt (procédure générale) et aux ordonnances de la Cour, l'adjudication de dépens était justifiée. Je dois dire que j'ai été déçue par le manque de préparation de l'appelant à l'audience, compte tenu du temps qui avait été passé à l'étape interlocutoire de l'instance pour lui expliquer ce à quoi on s'attendait de lui et de l'indulgence dont j'avais fait preuve envers son manque de conformité aux Règles. Malheureusement, son comportement a occasionné des retards et des dépenses inutiles à l'intimée, à la Cour et, comme l'a souligné l'avocate, à l'appelant lui‑même. Dans ces circonstances, je suis plus réceptive à la demande de l'intimée que je ne l'aurais été compte tenu des problèmes financiers de l'appelant. Par conséquent, des dépens de 500 $ sont accordés à l'intimée.
+[19] Pour les motifs susmentionnés, les appels interjetés à l'égard des années d'imposition 2003, 2004 et 2005 sont accueillis et les cotisations sont déférées au ministre pour nouvel examen et nouvelles cotisations en conformité avec les présents motifs.
+Signé à Vancouver (Colombie‑Britannique), ce 31e jour de janvier 2011.
+« G. A. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 7e jour d'avril 2011.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2011 CCI 61
+No DU DOSSIER DE LA COUR : 2008-3957(IT)G
+INTITULÉ : RICARDO CADAY, JR. c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Windsor (Ontario)
+DATE DE L'AUDIENCE : Le 11 janvier 2011
+MOTIFS DU JUGEMENT : L'honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 31 janvier 2011
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Joanna Hill
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Paragraphe 152(7).
+[2] Pièces R‑1 et R‑3.
+[3] Pièces R‑2, R‑4, R‑5 et R‑6.
+[4] Pièce A‑2.
+[5] Pièce A‑5.
+[6] Pièce A‑1.
+[7] Pièce A‑1.
+[8] Pièces A‑6 et R‑4.
+[9] Pièce A‑6.
+[10] Pièce R‑6.
+[11] Pièce R‑7.

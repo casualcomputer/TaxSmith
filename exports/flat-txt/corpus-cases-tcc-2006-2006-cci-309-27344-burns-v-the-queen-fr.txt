@@ -1,0 +1,146 @@
+Title: Burns v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27344/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-309-27344-burns-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-07-26
+
+# Burns v. The Queen
+
+- Citation: 2006 CCI 309
+- Decision date: 2006-07-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 165, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burns v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-26
+Référence neutre
+2006 CCI 309
+Numéro de dossier
+2003-2172(IT)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2172(IT)G
+ENTRE :
+JOANNE BURNS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 3 mai 2006, à Miramichi (Nouveau-Brunswick).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocate de l'appelante :
+Me Kathleen Wingate Lordon
+Avocate de l'intimée :
+Me Carole Benoit
+____________________________________________________________________
+JUGEMENT
+L'appel à l'encontre des cotisations établies en vertu du paragraphe 160(2) de la Loi de l'impôt sur le revenu, dont les avis portent les numéros 35010 et 35011 et sont datés du 4 septembre 2002, est rejeté avec dépens, conformément aux motifs du jugement ci-joints.
+Signé à Edmundston (Nouveau-Brunswick), ce 26e jour de juillet 2006.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 3e jour de novembre 2006.
+Mario Lagacé, jurilinguiste
+Référence : 2006CCI309
+Date : 20060726
+Dossier : 2003-2172(IT)G
+ENTRE :
+JOANNE BURNS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s'agit d'un appel à l'encontre de deux cotisations datées du 4 septembre 2002 et ratifiées le 17 janvier 2003, qui avaient été établies à l'égard de l'appelante pour des montants de 2 199 $ et de 71 199 $ se rapportant à deux biens qui lui ont été transférés par un certain Glen McCarthy (ci-après « M. McCarthy » ). M. McCarthy est l'ancien conjoint de fait de l'appelante; l'appelante et lui ont vécu ensemble de 1982 jusqu'au mois d'octobre 2002. Le premier transfert a eu lieu le 2 juin 1998 et le bien transféré était une terre à bois dont la juste valeur marchande était de 2 200 $. Le deuxième transfert a eu lieu le 20 juillet 1999 et le bien transféré était une maison et un terrain situés au 884 de la rue South Cains River (ci-après « la rue Cains River » ) dont la juste valeur marchande était de 71 200 $. L'appelante ne conteste pas la juste valeur marchande des biens.
+[2] Au moment des deux transferts, M. McCarthy avait une dette envers l'Agence des douanes et du revenu du Canada (ci-après l' « ADRC » ) d'au moins 118 589,39 $ relativement à ses années d'imposition 1992, 1993 et 1994. L'appelante ne conteste pas ce montant et ne conteste pas non plus le fait que M. McCarthy a continué à vivre avec elle dans la maison susmentionnée après que celle-ci lui a été transférée. L'appelante a également admis que M. McCarthy et elle étaient copropriétaires d'un bien en Floride et que M. McCarthy lui avait transféré en 1997 le droit de propriété sur une camionnette de marque Dodge Ram de l'année et qu'elle n'avait payé que l'assurance-responsabilité en contrepartie du bien parce que M. McCarthy était incapable d'obtenir lui-même une telle police d'assurance.
+[3] Il s'agit de savoir si, par suite du transfert des deux biens, l'appelante est responsable, en vertu de l'article 160 de la Loi de l'impôt sur le revenu (la « Loi » ), du paiement des montants de 2 199 $ et de 71 199 $ relativement à la dette fiscale de M. McCarthy. L'intimée avance que l'appelante et M. McCarthy avaient un lien de dépendance et que les transferts avaient été faits à titre gratuit ou pour une contrepartie insuffisante, à savoir 1 $, à un moment où M. McCarthy devait de l'argent au fisc.
+[4] L'appelante invoque le paragraphe 160(4) de la Loi pour obtenir un allégement. Subsidiairement, elle allègue qu'au moment où les deux biens lui ont été transférés, elle avait un intérêt en equity sur eux qui était de loin supérieur à leur juste valeur marchande, que M. McCarthy n'avait donc aucun intérêt à lui conférer et que, s'il en avait un, ce n'était qu'un intérêt partiel qui, au mieux, correspondait à 50 %. De plus, elle allègue qu'un salaire lui était dû pour le travail qu'elle avait accompli pour M. McCarthy.
+[5] L'appelante et M. McCarthy ont vécu en union de fait de 1982 jusqu'au mois d'octobre 2002. Ils ont fait connaissance à Brampton (Ontario) et travaillaient tous les deux au moment de leur rencontre. Ils avaient un compte bancaire conjoint, d'où provenaient les fonds qu'ils utilisaient pour payer toutes leurs factures. Ils ont acheté une maison à Brampton. Bien que la maison fût enregistrée au nom de M. McCarthy, les fonds nécessaires au paiement de toutes les dépenses connexes, y compris de l'hypothèque, étaient tirés du compte conjoint de M. McCarthy et de l'appelante. Ils ont plus tard vendu la maison à Brampton et ont acheté une nouvelle maison à Caledon (Ontario) pour 155 000 $; la maison était enregistrée au nom de M. McCarthy. Encore une fois, toutes les dépenses connexes étaient payées au moyen de fonds tirés du compte conjoint.
+[6] Bien que l'appelante et M. McCarthy ne soient retournés au Nouveau-Brunswick qu'en 1989, M. McCarthy a acheté un terrain sur la rue Cains River en 1987 pour une contrepartie de 10 000 $. M. McCarthy a payé cette somme en utilisant l'épargne que l'appelante et lui avaient en Ontario, et les frais connexes ont été payés au moyen de fonds provenant de leur compte conjoint.
+[7] M. McCarthy a pris sa retraite en 1989 et la maison à Caledon a été vendue au mois d'août de cette même année pour une contrepartie de 305 000 $. L'appelante a été mutée à Saint John (Nouveau-Brunswick) en septembre 1989 et a quitté son emploi en décembre de cette année-là.
+[8] Au printemps 1990, l'appelante et M. McCarthy ont commencé à construire une maison sur le terrain de la rue Cains River que M. McCarthy avait acheté en 1987. L'appelante a mis du temps et des efforts à la construction de la maison, dont le coût, soit environ 80 000 $, avait été payé au moyen du produit de la vente de la maison à Caledon. Ils ont emménagé dans la maison à l'automne de 1990.
+[9] L'appelante a travaillé pendant le printemps et l'été de 1991. En 1992, l'appelante et M. McCarthy ont acheté un restaurant saisonnier. Ils l'ont rénové et y ont ajouté une annexe, et le tout a été payé au moyen du solde du produit de la vente de la maison à Caledon. Le restaurant était ouvert de mai à octobre, et l'appelante a témoigné qu'elle le gérait et que M. McCarthy faisait la tenue des livres. Elle a témoigné qu'elle ne recevait aucun salaire, mais qu'elle déclarait des revenus d'emploi dans ses déclarations de revenus. Elle admet avoir touché des prestations d'assurance-emploi en fonction de ces revenus. Selon ses déclarations de revenus pour les années allant de 1994 à 1999, qui ont été présentées en preuve, elle a travaillé au restaurant en 1994 et en 1995. L'appelante a témoigné que, bien qu'elle ne recevait aucune rémunération, elle travaillait 16 heures par jour.
+[10] Le restaurant a été vendu en 1997 pour 100 000 $. L'appelante n'a pas négocié la vente du restaurant et n'a reçu aucun montant découlant de la vente. Elle soupçonne que M. McCarthy a acheté une maison en Ontario avec le produit de la vente. Selon l'appelante, c'était cette même année que M. McCarthy voulait lui transférer des biens pour la rétribuer pour son travail à la construction de la maison et à la gestion du restaurant, et en guise du salaire qu'il lui devait. Il voulait lui donner deux véhicules à moteur et un bien en Ontario. Elle a refusé ces biens parce qu'il devait de l'impôt et parce qu'elle estimait avoir droit à la juste valeur marchande de la maison, qui s'élevait à 71 200 $. M. McCarthy a acheté un autre bien en Ontario en 2000 et voulait enregistrer celui-ci au nom de l'appelante, mais celle-ci ne l'a pas voulu.
+[11] La camionnette de marque Dodge Ram de l'année 1997 a été immatriculée au nom de l'appelante parce que M. McCarthy était incapable d'obtenir lui-même une police d'assurance pour ce véhicule. La camionnette a plus tard été endommagée dans un accident de la route dans lequel M. McCarthy a subi des blessures. La camionnette a été considérée comme une perte totale, et l'appelante n'a reçu aucun dédommagement.
+[12] L'appelante et M. McCarthy se sont séparés en octobre 2002 et, en août 2004, M. McCarthy a introduit un recours contre l'appelante en alléguant qu'il était le propriétaire en common law et la personne ayant la propriété effective des deux biens en cause et, par conséquent, que la Cour devait rendre une ordonnance portant que ces biens devaient lui être transférés de nouveau ou, subsidiairement, une ordonnance lui accordant des dommages-intérêts ou une indemnité sur la base du quantum meruit. Dans sa défense, l'appelante a contesté le droit de M. McCarthy à la réparation demandée, une telle réparation en equity devant selon elle lui être refusée du fait qu'il avait commis une fraude lorsqu'il lui a transféré les biens en cause pour se soustraire à l'impôt, comme le démontre l'action fondée sur la valeur des biens qu'il a intentée contre elle. L'appelante a fait une demande reconventionnelle de reddition de comptes de tous les biens et éléments d'actif dont M. McCarthy avait disposé pendant la période où l'appelante et lui vivaient ensemble, et a demandé une compensation relative à tout montant auquel elle aurait droit en raison de la fiducie constructoire ou résultoire découlant de sa contribution aux entreprises et aux biens de M. McCarthy et des soins qu'elle a prodigués à M. McCarthy après que celui-ci avait subi des blessures dans l'accident de la route.
+[13] Le 15 octobre 2005, M. McCarthy s'est désisté de son action contre l'appelante, et l'instruction de la demande reconventionnelle présentée par l'appelante a eu lieu le 1er novembre 2005. M. le juge Thomas W. Riordon de la Cour du Banc de la Reine du Nouveau-Brunswick a statué que l'appelante avait un titre en common law sur les biens en cause parce que ceux-ci lui avaient été transférés et qu'elle avait également un intérêt en equity sur les biens en raison de sa participation aux diverses entreprises et activités relatives à l'acquisition des biens pendant la période où elle vivait en union de fait avec M. McCarthy. Toutefois, il a été incapable de déterminer la valeur de l'intérêt en equity en fonction de la preuve dont il disposait.
+[14] M. McCarthy a cédé ses biens en vertu de la Loi sur la faillite le 23 septembre 2004 et s'est vu accorder une quittance le 23 septembre 2005. Sa dette envers l'ADRC s'élevait à 159 000 $ au moment de la cession.
+[15] Comme je l'ai déjà dit, les déclarations de revenus de l'appelante pour les années d'imposition allant de 1994 à 1999 ont été produites en preuve. Dans ses déclarations, l'appelante n'indiquait jamais l'adresse de la maison dans laquelle elle habitait avec M. McCarthy pendant les années en question. Elle indiquait plutôt l'adresse de sa mère ou encore un numéro de case postale. À la section de la déclaration de revenus où il faut préciser son état civil, elle omettait de cocher une case ou cochait la case « célibataire » . Il est toutefois clairement indiqué sur le formulaire que l'époux s'entend aussi d'un conjoint de fait. Elle demandait aussi le crédit pour la taxe sur les produits et services et n'indiquait jamais le revenu de M. McCarthy dans sa demande. En ce qui concerne les deux déclarations de revenus produites en preuve pour les années où elle travaillait au restaurant, elle a payé de l'impôt sur le revenu sur un salaire qu'elle aurait touché pendant ces années même si, dans les faits, elle n'avait touché aucun salaire. De plus, elle passait les hivers en Floride et, pendant ces périodes, touchait des prestations d'assurance-emploi en sachant très bien qu'elle devait être au Canada pour recevoir ces prestations, bien qu'elle affirme qu'elle était disponible pour travailler pendant ces périodes.
+[16] M. McCarthy n'a pas témoigné lors de l'audition du présent appel.
+[17] Une cotisation a été établie à l'égard de l'appelante en vertu du paragraphe 160(1) de la Loi, qui est ainsi libellé :
+160(1) Transfert de biens entre personnes ayant un lien de dépendance - Lorsqu'une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d'une fiducie ou de toute autre façon, à l'une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s'appliquent :
+d) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement d'une partie de l'impôt de l'auteur du transfert en vertu de la présente partie pour chaque année d'imposition égale à l'excédent de l'impôt pour l'année sur ce que cet impôt aurait été sans l'application des articles 74.1 à 75.1 de la présente loi et de l'article 74 de la Loi de l'impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952, à l'égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l'égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d'un montant égal au moins élevé des montants suivants :
+(i) l'excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l'auteur du transfert doit payer en vertu de la présente loi au cours de l'année d'imposition dans laquelle les biens ont été transférés ou d'une année d'imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n'est toutefois réputée limiter la responsabilité de l'auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[18] Pour que le paragraphe 160(1) de la Loi s'applique, les quatre conditions suivantes doivent être réunies :
+1) des biens doivent avoir été transférés;
+2) l'auteur du transfert et le bénéficiaire doivent avoir eu un lien de dépendance;
+3) l'auteur du transfert doit avoir transféré les biens au bénéficiaire à titre gratuit ou pour une contrepartie insuffisante;
+4) l'auteur du transfert doit être tenu de payer un montant en vertu de la Loi au cours de l'année d'imposition dans laquelle les biens ont été transférés ou d'une année d'imposition antérieure ou pour une de ces années.
+[19] Selon la preuve qui a été présentée, il est possible de conclure que les conditions 1, 2 et 4 sont réunies en l'espèce. Deux biens ont été transférés; l'auteur du transfert était tenu de payer un montant en vertu de la Loi relativement à l'année d'imposition dans laquelle les biens ont été transférés ou à des années d'imposition antérieures; l'auteur du transfert et le bénéficiaire avaient un lien de dépendance.
+[20] L'avocate de l'appelante a invoqué le paragraphe 160(4) de la Loi. Il prévoit des règles spéciales pour les transferts aux époux ou aux conjoints de fait. Il est libellé en ces termes :
+160(4) Règles concernant les transferts à un époux ou conjoint de fait - Malgré le paragraphe (1), lorsqu'un contribuable a transféré un bien à son époux ou conjoint de fait en vertu d'une ordonnance ou d'un jugement d'un tribunal compétent ou en vertu d'un accord écrit de séparation et que, au moment du transfert, le contribuable et son époux ou conjoint de fait vivaient séparément par suite de la rupture de leur mariage ou union de fait, les règles suivantes s'appliquent :
+a) relativement à un bien ainsi transféré après le 15 février 1984 :
+(i) l'époux ou conjoint de fait ne peut être tenu, en vertu du paragraphe (1), de payer un montant relatif au revenu provenant du bien transféré ou du bien qui y est substitué ou un montant relatif au gain provenant de la disposition du bien transféré ou du bien qui y est substitué,
+(ii) pour l'application de l'alinéa (1)e), la juste valeur marchande du bien au moment du transfert est réputée être nulle;
+b) relativement à un bien ainsi transféré avant le 16 février 1984, lorsque l'époux ou le conjoint de fait serait, sans le présent alinéa, tenu de payer un montant en application de la présente loi en vertu du paragraphe (1), il est réputé s'être acquitté de son obligation relativement à ce montant le 16 février 1984;
+aucune disposition du présent paragraphe n'a toutefois pour effet de réduire les obligations du contribuable en vertu d'une autre disposition de la présente loi.
+[21] Pour que le paragraphe 160(4) de la Loi s'applique, le transfert doit avoir été fait en vertu d'une ordonnance ou d'un jugement d'un tribunal compétent ou en vertu d'un accord de séparation écrit et, au moment du transfert, l'auteur du transfert et le bénéficiaire devaient vivre séparément par suite de la rupture de leur mariage ou union de fait. Dans un tel cas, la juste valeur marchande des biens transférés à l'époux ou au conjoint de fait est réputée être nulle. En l'espèce, la preuve qui m'a été présentée n'indique pas que le transfert des deux biens a été fait en vertu d'une ordonnance ou d'un jugement d'un tribunal compétent ou en vertu d'un accord de séparation écrit. En fait, le contribuable (M. McCarthy) et l'appelante se sont séparés en octobre 2002 et les transferts ont eu lieu en juin 1998 et le 20 juillet 1999. De plus, M. McCarthy et l'appelante ne vivaient pas séparément au moment des transferts. Le paragraphe 160(4) de la Loi ne s'applique donc pas en l'espèce.
+[22] De plus, l'appelante allègue qu'au moment des transferts, elle avait un intérêt en equity sur les deux biens qui était de loin supérieur à leur juste valeur marchande et que, par conséquent, M. McCarthy n'avait aucun intérêt sur les biens ou n'avait qu'un intérêt partiel qui, au mieux, s'élevait à 50 %. Le juge Riordan, dans la décision qu'il a rendue le 1er novembre 2005, a conclu que l'appelante avait contribué notablement à l'acquisition de la maison, du terrain et des entreprises exploitées conjointement que M. McCarthy et elle avaient lorsqu'ils étaient ensemble, mais, vu la preuve qui lui avait été présentée, il a été incapable de quantifier cet intérêt en equity. À la lumière de la preuve qui m'a été présentée dans le présent appel, je suis moi aussi incapable de déterminer quel devrait être cet intérêt en equity et, particulièrement, quel était cet intérêt au moment des deux transferts. Le sous-alinéa 160(1)e)(i) de la Loi traite de la juste valeur marchande de la contrepartie donnée par le bénéficiaire au moment du transfert. Dans sa décision, le juge Riordon n'a pas statué que M. McCarthy n'avait aucun intérêt sur les biens, ce qui aurait permis d'avancer que M. McCarthy n'a, en réalité, transféré aucun intérêt à l'appelante et qu'il était donc nécessaire d'enregistrer les biens au nom de leur propriétaire légitime.
+[23] Les couples non mariés peuvent bénéficier de réparations en equity visant à remédier aux inégalités susceptibles de survenir au moment de la rupture de leur union. C'est de cette façon que le juge Bastarache de la Cour suprême du Canada a abordé la question dans l'arrêt Nouvelle-Écosse (Procureur général) c. Walsh, [2002] A.C.S. no 84 (QL), où il a dit ce qui suit :
+61 Quant aux couples qui n'ont pas pris d'arrangements concernant leurs biens dès le début de leur union, ils peuvent encore recourir au droit de la fiducie par interprétation pour remédier aux iniquités susceptibles de survenir au moment de la dissolution. Le droit de la fiducie par interprétation est devenu un moyen de reconnaître les contributions, tant pécuniaires que non pécuniaires, d'un conjoint aux biens familiaux dont le titre de propriété est établi seulement au nom de l'autre conjoint : Rathwell c. Rathwell, [1978] 2 R.C.S. 436; Pettkus, précité; Sorochan c. Sorochan, [1986] 2 R.C.S. 38; Peter, précité. Après la promulgation de la MPA, le droit de la fiducie par interprétation a continué et continue d'offrir un recours aux partenaires non mariés qui se trouvent injustement défavorisés par rapport à leur ancien partenaire. La meilleure façon de remédier aux situations où une interdépendance économique s'est établie au fil du temps dans le couple est de recourir à une réparation comme la fiducie par interprétation, qui est adaptée à la situation et aux revendications particulières des parties. À mon avis, lorsqu'il existe de multiples bénéfices et protections adaptés à la situation et aux besoins particuliers de chacun, il n'y a pas atteinte à la dignité humaine essentielle des personnes qui ne sont pas mariées.
+[24] Madame la juge Larlee de la Cour d'appel du Nouveau-Brunswick a résumé ces concepts de réparation en equity de la façon suivante dans l'arrêt MacFarlane c. Smith, [2003] A.N.-B. no 30 (QL) :
+31 La fiducie par interprétation, la fiducie réversive et le quantum meruit sont des concepts ou expressions juridiques qui décrivent les réparations susceptibles d'indemniser une partie de sa contribution à une relation. Dans l'arrêt Peter c. Beblow, la juge McLachlin a examiné les deux réparations qui peuvent être accordées dans un cas comme celui-ci : l'une étant l'indemnité fondée sur la valeur des services rendus, ou quantum meruit, et l'autre, le titre de propriété, fondé sur une fiducie par interprétation. Elle résume ainsi son analyse, aux pages 999 et 1000 :
+En résumé, il me semble qu'il faille tout d'abord, dans l'examen de la réparation qui convient, déterminer si une simple indemnité est insuffisante pour remédier à l'enrichissement sans cause et si le lien entre la contribution et le bien, décrit dans l'arrêt Pettkus c. Becker, a été établi. Si ces questions reçoivent une réponse affirmative, le demandeur a droit à la réparation sous forme d'intérêt propriétal que constitue la fiducie par interprétation. Lorsqu'il se demande si l'indemnité est insuffisante, le tribunal peut tenir compte de la probabilité du paiement de l'indemnité en question ainsi que de l'intérêt spécial sur le bien acquis au moyen des contributions : voir le juge La Forest dans l'arrêt Lac Minerals. La valeur de la fiducie doit être calculée en fonction de la valeur réelle du bien matrimonial - la méthode fondée sur la « valeur accumulée » . Cette méthode permet d'arriver à la meilleure estimation de ce que le tribunal considère comme équitable par rapport à la contribution que les services du requérant ont apportée à la valeur accumulée, si l'on tient compte de la difficulté en pratique de calculer avec une précision mathématique la valeur des contributions particulières apportées aux biens familiaux.
+[25] À mon avis, l'appelante ne peut pas invoquer ces réparations en equity à l'appui de sa position selon laquelle les transferts correspondaient à des transferts à son profit de l'intérêt qu'elle détenait sur les biens à ce moment-là étant donné que, dans les faits, M. McCarthy et elle vivaient toujours ensemble et étant donné qu'il n'y avait aucune raison ou besoin apparent de remédier à une inégalité économique entre M. McCarthy et elle. Voir Blackman v. Davison, (1986), 2 B.C.L.R. (2d) 8. Le transfert des biens n'a pas été fait par suite d'une conclusion selon laquelle l'appelante avait un intérêt en equity sur les biens.
+[26] L'appelante a témoigné que M. McCarthy lui avait transféré les biens en échange du travail qu'elle avait fait à la construction de la maison et à l'exploitation du restaurant, et en guise du salaire qu'il lui devait. Dans les faits, l'appelante n'a précisé aucun montant qui représenterait la valeur de ses services, mais a affirmé que la juste valeur marchande des biens qui lui ont été transférés, à savoir 2 200 $ et 71 200 $, lui semblait une rémunération suffisante. Aucune preuve documentaire n'a été produite à l'audience pour corroborer le témoignage de l'appelante, et M. McCarthy n'a pas été appelé à témoigner. Bien que l'appelante ait semblé crédible lorsqu'elle a admis avoir fait des assertions inexactes dans ses déclarations de revenus et avoir passé les hivers en Floride alors qu'elle touchait des prestations d'assurance-emploi, son témoignage indique clairement qu'elle est prête à déformer les faits pour bénéficier d'avantages auxquels elle n'aurait autrement pas droit. S'il est à son avantage d'être célibataire, elle indique dans sa déclaration de revenus qu'elle est célibataire, et s'il est à son avantage de ne pas être célibataire, elle indique qu'elle vit en union de fait. Selon l'appelante, M. McCarthy et elle ont acheté le restaurant. Cependant, elle y travaillait comme si elle était une employée et recevait un salaire, lequel elle n'a toutefois jamais touché. M. McCarthy déduisait du salaire de l'appelante les montants nécessaires aux fins de l'assurance-emploi et de l'impôt sur le revenu et versait ces montants, ce qui permettait à l'appelante d'être admissible à l'assurance-emploi alors qu'elle n'aurait peut-être pas pu l'être en raison du fait qu'elle était copropriétaire du restaurant ou en raison de son union de fait.
+[27] À part les motifs avancés par l'appelante, la preuve ne révèle aucun autre motif justifiant les transferts en cause. Bien qu'il ne s'agisse que d'une allégation, je ne peux faire abstraction de la position prise par l'appelante dans sa défense dans le cadre du recours introduit par M. McCarthy, à savoir que la réparation en equity qu'il demandait ne pouvait pas être accordée à M. McCarthy parce qu'il ne se présentait pas devant la Cour en n'ayant rien à se reprocher, les transferts ayant été faits dans le but frauduleux d'éviter d'avoir à payer l'impôt sur le revenu dont il était redevable. À mon avis, il s'agit là de la raison probable des transferts. C'est précisément ce genre d'opération que l'article 160 de la Loi vise à empêcher. L'objet de l'article en question est bien exposé dans la décision Logiudice c. Canada, [1997] A.C.I. no 742 (QL) :
+16 [...] L'article 160 vise de toute évidence à empêcher les contribuables de se soustraire à leur obligation fiscale ainsi qu'aux intérêts et aux pénalités prévus par les dispositions de la Loi en plaçant les biens exigibles entre les mains de parents ou d'autres personnes avec lesquels ils ont un lien de dépendance, et donc hors de la portée immédiate du percepteur d'impôt. La disposition restrictive du sous-alinéa 160(1)e)(i) de la Loi vise à protéger les véritables opérations commerciales de l'application de la disposition, jusqu'à concurrence de la juste valeur marchande de la contrepartie donnée pour le bien qui a été transféré. Par conséquent, il est évident que pour que le bénéficiaire du transfert puisse se prévaloir de cette disposition protectrice, il doit être en mesure de prouver que le bien lui a été transféré conformément aux conditions d'une véritable entente contractuelle.
+[28] La preuve présentée en l'espèce n'étaie pas la conclusion voulant qu'il y ait eu une véritable opération contractuelle dans la présente affaire. Les appels sont donc rejetés avec dépens.
+Signé à Edmundston (Nouveau-Brunswick), ce 26e jour de juillet 2006.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 3e jour de novembre 2006.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2006CCI309
+NO DU DOSSIER : 2003-2172(IT)G
+INTITULÉ : Joanne Burns et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Miramichi (Nouveau-Brunswick)
+DATE DE L'AUDIENCE : Le 3 mai 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : Le 26 juillet 2006
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Kathleen Wingate Lordon
+Avocate de l'intimée :
+Me Carole Benoit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Me Kathleen Wingate Lordon
+Cabinet : Brown Cameron Law Miramichi (Nouveau-Brunswick)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

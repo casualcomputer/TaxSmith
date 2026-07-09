@@ -1,0 +1,219 @@
+---
+title: "Stellwaag v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31140/index.do"
+last_modified: "2013-04-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 111"
+citation2: ""
+neutral_citation: "2013 TCC 111"
+decision_date: "2013-04-16"
+language: "en"
+item_id: "31140"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4756
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:11:27.800000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cbcb54f7ba70653ee426d65f58874e64304150cfc0f62e35bde12e2ceaa8a0b6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stellwaag v. The Queen
+
+- Citation: 2013 TCC 111
+- Decision date: 2013-04-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4756, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stellwaag v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-04-16
+Neutral citation
+2013 TCC 111
+File numbers
+2011-912(IT)G, 2011-913(IT)G, 2011-914(IT)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-912(IT)G
+BETWEEN:
+SIGRID STELLWAAG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Reiner Kunzi 2011-913(IT)G and Hugo Kunzi 2011-914(IT)G
+on March 25, 2013, at Montreal, Quebec.
+Before: The Honourable Justice Johanne D'Auray
+Appearances:
+Counsel for the Appellant:
+Aaron Rodgers
+Counsel for the Respondent:
+Marielle Thériault
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2007 taxation year is dismissed with costs.
+Signed at Ottawa, Canada, this 16th day of April 2013.
+“Johanne D’Auray”
+D'Auray J.
+Docket: 2011-913(IT)G
+BETWEEN:
+REINER KUNZI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Sigrid Stellwaag 2011-912(IT)G and Hugo Kunzi 2011-914(IT)G
+on March 25, 2013, at Montreal, Quebec.
+Before: The Honourable Justice Johanne D'Auray
+Appearances:
+Counsel for the Appellant:
+Aaron Rodgers
+Counsel for the Respondent:
+Marielle Thériault
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2007 taxation year is dismissed with costs
+Signed at Ottawa, Canada, this 16th day of April 2013.
+“Johanne D’Auray”
+D'Auray J.
+Docket: 2011-914(IT)G
+BETWEEN:
+HUGO KUNZI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Sigrid Stellwaag 2011-912(IT)G and Reiner Kunzi 2011-913(IT)G
+on March 25, 2013, at Montreal, Quebec
+Before: The Honourable Justice Johanne D'Auray
+Appearances:
+Counsel for the Appellant:
+Aaron Rodgers
+Counsel for the Respondent:
+Marielle Thériault
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2007 taxation year is dismissed with costs.
+Signed at Ottawa, Canada, this 16th day of April 2013.
+“Johanne D’Auray”
+D'Auray J.
+Citation: 2013 TCC 111
+Date: 20130416
+Docket: 2011-912(IT)G
+BETWEEN:
+SIGRID STELLWAAG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2011-913(IT)G
+BETWEEN:
+REINER KUNZI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2011-914(IT)G
+BETWEEN:
+HUGO KUNZI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Auray J.
+[1] The appeals of Mr. Hugo Kunzi, Mr. Reiner Kunzi and Ms. Sigrid Stellwaag were heard under common evidence.
+[2] The question in these appeals is whether the appellants are liable to pay Part XIII tax on the gross rental income that were paid or credited to them by their Canadian agent for the 2007 taxation year.
+[3] The appellants are non-residents.
+[4] The appellants each owned one third (1/3) of a rental property located at 2100, Saint‑Marc Street in Montreal, Quebec.
+[5] During the 2007 taxation year, Mr. Uri Peretz was the Canadian agent of the appellants.
+[6] On or about December 21st, 2006, the appellants filed an undertaking under subsection 216(4) of the Income Tax Act (the “Act”) (NR6 Form), to file an income tax return under Part I of the Act within six months after the end of their 2007 taxation year.
+[7] The appellants’ 2007 taxation years ended on December 31, 2007. Accordingly, the six (6) month period ended on June 30, 2008.
+[8] The appellants’ income tax returns for 2007 were not filed within the required six month period after the end of their 2007 taxation year.
+[9] The appellants’ 2007 income tax returns were sent with a covering letter dated July 21st, 2008 to the Canadian accountant of the appellants, Mr. Noftall, for filing purposes with the Canada Revenue Agency (the “CRA”).
+[10] According to the testimony of Mr. Hugo Kunzi, the delay was attributable to the illness of his sister, Ms. Stellwaag.
+[11] It is not clear from the evidence as to when the appellants’ tax return under Part I were filed with CRA by Mr. Noftall. According to Counsel for the appellants, the income tax returns would have been filed by the end of July 2008 or in August 2008.
+[12] The appellants’ 2007 income tax returns were filed within two (2) years after the end of the 2007 taxation year. This is not contested by the respondent.
+[13] The gross rents paid or credited in 2007 to each of the appellants by Mr. Peretz amounted to $321,668, which is one third (1/3) of the gross rental income from the property.
+[14] Mr. Peretz withheld Part I tax of $32,000 on behalf of each appellant.
+[15] Sometime after June 30, 2008, the Minister of National Revenue advised the appellants that he could not process the appellants’ Part I income tax returns since they were filed late.
+Statutory Scheme
+[16] The provisions applicable are subsections 212(1), 216(1), 216(4) and paragraph 212(1)(d) of the Act.
+[17] Subsection 212(1) under Part XIII is the charging provision, which states that every non-resident shall pay an income tax of 25% on every amount that a person resident in Canada pays or credits to the non-resident person.
+[18] Paragraph 212(1)(d) deals with amounts received by a non-resident as rental income. Accordingly, in this appeal if the appellants had not chosen the optional method of payment pursuant to subsection 216(4), the Canadian agent would have had to withhold 25% of the gross rental income received during the year, pursuant to paragraph 212(1)(d).
+[19] Subsection 216(4) allows the non-resident to choose another method of payment if the non-resident undertakes to file within six months after the end of his or her taxation year an income tax return under Part I instead of Part XIII. Under 216(4), the Canadian agent will be able to withhold amounts based on the net rental income instead of withholding amounts based on the gross rental income.
+[20] Another alternative is offered to a non-resident under subsection 216(1). Under subsection 216(1), where an amount has been paid to a non-resident on account of rent on real property in Canada, the non-resident may within two years after the end of the year, file an income tax return under Part I. In doing so, the non-resident will pay tax on net income under Part I in lieu of paying Part XIII tax at 25% on the gross rental income as required by paragraph 212(1)(d).
+[21] Counsel for the appellants argued that his clients should not be prevented to file their income tax returns under Part I pursuant to subsection 216(1), even if they undertook to file under subsection 216(4). He argued that the appellants fall within the ambit of subsection 216(1), since they filed their income tax returns within two (2) years after the end of their 2007 taxation year.
+[22] Subsections 216(1) states:
+216. (1) Where an amount has been paid during a taxation year to a non-resident person or to a partnership of which that person was a member as, on account of, in lieu of payment of or in satisfaction of, rent on real property in Canada or a timber royalty, that person may, within 2 years (or, where that person has filed an undertaking described in subsection 216(4) in respect of the year, within 6 months) after the end of the year, file a return of income under Part I in the form prescribed for a person resident in Canada for that year and the non-resident person shall, without affecting the liability of the non-resident person for tax otherwise payable under Part I, thereupon be liable, in lieu of paying tax under this Part on that amount, to pay tax under Part I for the year as though
+(a) the non-resident person were a person resident in Canada and not exempt from tax under section 149;
+(b) the non-resident person’s income from the non-resident person’s interest in real property in Canada, timber resource properties and timber limits in Canada and the non-resident person’s share of the income of a partnership of which the non-resident person was a member from its interest in real property in Canada, timber resource properties and timber limits in Canada were the non-resident person’s only income;
+(c) the non-resident person were entitled to no deductions from income for the purpose of computing the non-resident person’s taxable income; and
+(d) the non-resident person were entitled to no deductions under sections 118 to 118.9 in computing the non-resident person’s tax payable under Part I for the year.
+[23] The difference between subsections 216(4) and 216(1) is that under subsection 216(4), the Canadian agent will withhold and remit to the Receiver General amounts based on net income during the year. Pursuant to subsection 216(1), the Canadian agent will withhold and remit to the Receiver General amounts based on gross income during the year. In most cases, Part I tax liability pursuant to subsection 216(1) will result in a subsequent refund to the non-resident.
+[24] Counsel for the appellants argued that I should give a liberal interpretation to subsection 216(1) of the Act.
+[25] I disagree with the submissions of Counsel for the appellants. The wording of subsection 216(1) is clear. Where a person has filed an undertaking under 216(4), the person has to file his or her income tax return within six months after his or her year end.
+[26] The Supreme Court of Canada stated in the decision of Canada Trustco Mortgage Co. v. Canada, [2005] 2 S.C.R. 601, that when the words of a provision are clear and unambiguous the words should be given a dominant role in the interpretative process. Chief Justice McLachlin and Justice Major, writing for an unanimous Court, stated the following at paragraph 10 on principles of statutory interpretation as they apply to tax legislation:
+10 It has been long established as a matter of statutory interpretation that “the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament”: see 65302 British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804, at para. 50. The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words plays a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole.
+[27] The taxation year-end of the appellants was December 31, 2007. The appellants’ income tax returns were to be filed by June 30, 2008. Since the income tax returns were not filed within the six months after their taxation year-end, the appellants lost the benefits of subsection 216(4). Subparagraph 216(4)(b) states that if a non-resident person does not file a return in accordance with the undertaking, on the expiration of the time for filing, the non‑resident will have to pay to the Receiver General Part XIII tax.
+[28] The respondent provided the legislative history of subsections 216(1) and 216(4) for the years applicable to taxation years 1952 to 2007. It is interesting to note that for a certain period, there were no references to subsection 216(4) in 216(1). It would have then been possible to argue that subsection 216(1) could apply even if an undertaking was given under 216(4). However, this is not the case for the year under appeal, the wordings of both subsections 216(1) and 216(4) are clear.
+[29] As it was pointed out during the trial by the respondent, the appellants could ask the Minister of National Revenue to extend the time for filing an income tax return under subsection 220(3).
+[30] The appeals are dismissed with costs.
+Signed at Ottawa, Canada, this 16th day of April 2013.
+“Johanne D’Auray”
+D'Auray J.
+CITATION: 2013 TCC 111
+COURT FILE NO.: 2011-912(IT)G
+2011-913(IT)G
+2011-914(IT)G
+STYLE OF CAUSE: SIGRID STELLWAAG v. HER MAJESTY THE QUEEN
+REINER KUNZI v. HER MAJESTY THE QUEEN
+HUGO KUNZI v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: March 25, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Johanne D'Auray
+DATE OF JUDGMENT: April 16, 2013
+APPEARANCES:
+Counsel for the Appellants:
+Aaron Rodgers
+Counsel for the Respondent:
+Marielle Thériault
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Aaron Rodgers
+Firm: Garfinkle Nelson-Wiseman Bilmes Rodgers
+Montreal (Quebec)
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

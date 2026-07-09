@@ -1,0 +1,342 @@
+---
+title: "Bertomeu v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27237/index.do"
+last_modified: "2005-04-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 85"
+citation2: ""
+neutral_citation: "2006 TCC 85"
+decision_date: "2005-04-06"
+language: "en"
+item_id: "27237"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 813
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:52:07.165000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "11b415c6981ba10d92a053b870a0af13865d9f359f2cd5cfece24ccaa6ae3c6f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bertomeu v. The Queen
+
+- Citation: 2006 TCC 85
+- Decision date: 2005-04-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 813, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bertomeu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-06
+Neutral citation
+2006 TCC 85
+File numbers
+2001-3129(IT)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC85
+Date: 20060803
+Docket: 2001-3129(IT)G
+BETWEEN:
+GUY BERTOMEU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on April 6, 2005, at Montreal, Quebec, and edited for greater clarity and accuracy.)
+Archambault J.
+[1] Guy Bertomeu is appealing from the assessments made by the Minister of National Revenue ("the Minister") with respect to the 1997 and 1998 taxation years. In computing Mr. Bertomeu's income, the Minister disallowed management fee deductions of $204,304 for 1997 and $153,332 for 1998. The Minister submits that the disallowed deductions exceeded the amounts that would be reasonable in the circumstances under section 67 of the Income Tax Act ("the Act").
+[2] At the beginning of the hearing, counsel for Mr. Bertomeu admitted the facts set out in subparagraphs 12(a) through (h) and 12(m), (n) and (p) of the Reply to the Notice of Appeal. With regard to subparagraph 12(i), he admitted only the information shown in the table. He admitted everything in subparagraph 12(j), including the contents of Appendix A, with the exception of the annotations in the right-hand margin of that appendix. The various subparagraphs of paragraph 12 read as follows:
+[TRANSLATION]
+(a) the Appellant has been an architect for a number of years;
+(b) the Appellant is also the sole shareholder of Les Consultants Hébert & Bertomeu Inc. (hereinafter "the company");
+(c) pursuant to an agreement signed with the company on May 28, 1986, the company was to provide the Appellant and his partners with personnel, administration, contract management, billing and accounts receivable collection services;
+(d) that agreement provided that the company's costs and expenses would be billed to the Appellant and his partners at cost plus 15%;
+(e) the 1986 agreement also provided that there would be a 3% charge on the fees that the company billed the Appellant and his partners;
+(f) the 1986 agreement was still in force during the 1997 and 1998 taxation years;
+(g) during the taxation years ended December 31, 1997 and December 31, 1998, the Appellant reported the following income from professional fees:
+1997
+1998
+Professional fees
+$695,407
+$841,883
+Management fees
+$617,002
+$708,931
+Net profit
+$37,983
+$37,126
+(h) the net profits, before income tax, reported by the company during the taxation years ended December 31, 1997 and December 31, 1998, were as follows:
+1997
+1998
+$257,842
+$210,515
+(i) in addition, despite a reported 72.69% increase in the taxpayer's income from professional fees from 1995 to 1998, his reported net income remained constant, except for a period of eight months, during which there was no net profit:
+Taxation year
+Gross income
+Net income
+01/05/94 to 30/04/95
+$618,837
+$38,036
+01/05/95 to 31/12/95
+$489,113
+nil
+01/01/96 to 31/12/96
+$487,789
+$37,268
+01/01/97 to 31/12/97
+$695,407
+$37,983
+01/01/98 to 31/12/98
+$841,883
+$37,126
+(j) a comparison of the Appellant's and the company's statements of income and expenses for the past five years discloses the following: see Appendix A, attached to this Reply to the Notice of Appeal and having the same effect as if set out here in full;
+(k) during the initial interview at the Appellant's office, his accountant explained that the billing was done monthly on the basis of the management agreement dated May 28, 1986;
+(l) at the end of the year, the accountant made adjusting entries in order to arrive at what the bank would consider a satisfactory net income from a profession;
+(m) an examination of the company's statements of income and expenses for the fiscal years ended December 31, 1997 and December 31, 1998, shows the following total operating costs:
+1997
+1998
+Operating costs
+$367,358
+$502,299
+(n) following an audit, the following expenses claimed by the company were disallowed:
+31/12/1997
+31/12/1998
+Total expenses claimed in the company's financial statements
+$367,358.00
+$502,299.00
+Less:
+Disallowed expenses
+Advertising and
+entertainment expenses
+$8,490.53
+$19,169.79
+$358,867.00
+$483,129.21
+(o) even though all the operating expenses claimed by the company have been grossed up by 15% in order to give the Appellant the maximum allowable expenses (see in this regard Appendix B, attached to this Reply to the Notice of Appeal and having the same effect as if set out here in full), the management fees determined to be allowable and reasonable amount to $412,697.59 for 1997 and $555,598.59 for 1998;
+(p) the Minister of National Revenue disallowed a total of $204,304.41 of the Appellant's claims for 1997, and $153,332.41 for 1998, on the basis that these amounts were not reasonable under the circumstances; in this regard, see Appendix B, attached to this Reply to the Notice of Appeal and having the same effect as if set out here in full;
+(q) the 3% charge on the fees billed by the Appellant is not reasonable because the operating expenses claimed by the company comprise all expenses, including those related to billing for the Appellant's fees, which have already been grossed up by 15%, and because that charge is calculated on the amount of the invoice.
+APPENDIX A
+Client: Guy Bertomeu
+Auditor: Alain Tessier
+Account No. [Omitted to protect privacy]
+Date:
+01/10/99
+FYE: 98‑12‑31
+Subject: Management Fees (Comparative)
+01/05/94
+01/05/95
+01/01/96
+01/01/97
+01/01/98
+30/04/95
+31/12/95
+31/12/96
+31/12/97
+31/12/98
+12 months
+8 months
+12 months
+12 months
+12 months
+Revenues
+$618,837
+$489,113
+$487,789
+$695,407
+$841,883
+Increase
+Management Fees
+$449,493
+$449,181
+$353,965
+$617,002
+$708,931
+Increase
+Subcontracting
+$101,064
+$31,028
+$80,806
+$30,772
+$86,594
+Net Income
+$38,036
+0
+$37,268
+$37,983
+$37,126
+Constant
+Comparison with the return of the corporation that bills these management fees:
+Les consultants Hébert Bertomeu Inc:
+Reported management income:
+$449,181
+$353,965
+$623,002
+$712,814
+Expenses claimed:
+$328,027
+$373,904
+$367,358
+$502,299
+???
+Profit before tax:
+$123,382
+($18,134)
+$257,842
+$210,515
+Factual background
+[3] Mr. Bertomeu immigrated to Canada from France in 1962. He enrolled at the faculty of architecture at the Université de Montréal, and graduated in 1973. Mr. Bertomeu joined the Ordre des architectes du Québec in 1975 or 1976. He has been working for small architectural firms, consisting of two or three architects, since 1974. Due to the cyclical nature of the profession,[1] he was often laid off because of work shortages, even after becoming a member of an architectural partnership ("the partnership") in 1979. Upon becoming a member, his share of the profits was 5%. The share increased to 10% in 1986. Mr. Bertomeu also held, in the same proportion as his share in the partnership, shares in a corporation (BHB) that provided management services to the partnership.
+[4] The management agreement between the partnership and BHB was signed on May 28, 1986. The agreement, a document of only one page, states that the partnership shall use the services of BHB's administrative personnel, notably for the billing of the partnership's professional services and the collection of its accounts. The agreement provides that BHB's remuneration consists of its actual costs and expenses, plus 15%. In addition, the agreement provides for a payment of 3% of all professional fees billed by the partnership.
+[5] In or about 1986, the senior partner was asked to leave the partnership. After that partner left, Mr. Bertomeu and one Mr. Hébert formed a new partnership. In addition, those two partners acquired the senior partner's shares in BHB and changed that entity's corporate name to Consultants Hébert et Bertomeu Inc.[2]
+[6] The "salary" (as Mr. Bertomeu called it) paid to Mr. Hébert was initially $48,000, and Mr. Bertomeu’s was $40,000. Mr. Hébert, generally speaking, took care of the management of the partnership and BHB. He was assisted in his duties by a secretary, Ms. Bernier.
+[7] In the early nineties, Mr. Hébert expressed his intent to leave the partnership because of the new methods that were being adopted, chiefly the use of computerized tools, which was not to his liking. It was a gradual departure, spanning the years 1990 through 1995. Mr. Bertomeu had to purchase Mr. Hébert's interest in the partnership and his shares in BHB. Since the partnership ceased to exist on the occurrence of this purchase, the business now became a sole proprietorship owned by Mr. Bertomeu. However, BHB continued to provide management services to Mr. Bertomeu.
+[8] Before this, Mr. Bertomeu had not been deeply involved in managing the two entities, because he relied on Mr. Hébert. After Mr. Hébert left, he had to take a greater interest in that aspect, but he still left the bulk of the administrative duties to Ms. Bernier. Ms. Bernier was assisted by Mr. McNicoll, a chartered accountant, with regard to accounting matters. This delegation was primarily attributable to Mr. Bertomeu's burdensome tasks, namely: supervising a team of about a dozen employees, preparing proposals so that his business would get work, and managing various other projects, such as ensuring compliance with ISO standards.
+[9] With the notable exception of the premiums for Mr. Bertomeu's professional liability insurance, bank charges and certain professional fees, most of the operating expenses were incurred by BHB, as disclosed by the financial statements prepared by the accountant. It was established that Ms. Bernier and the salaried architects were employed by BHB, not by Mr. Bertomeu's partnership or business. The architect with the greatest seniority was paid roughly $41,000, and the second-ranking architect in terms of seniority received a salary of $26,500. In addition to personnel costs, BHB paid the rent for the architects' office. The Minister's auditor confirmed that he had assumed that all expenses billed to Mr. Bertomeu were BHB's expenses.
+[10] Ms. Bernier was generally the person who prepared the invoices that BHB issued monthly to Mr. Bertomeu for management services. She tried as best she could to comply with the May 1986 agreement. In fact, her invoices referred to the agreement. Ms. Bernier's practice was essentially to take all of BHB's expenditures into account, with the notable exception of those related to certain monetary investments. Thus, she billed not only for operating costs, but also for amounts paid as instalments of BHB's tax and the net tax amounts paid under the Excise Tax Act and the Act respecting the Québec sales tax. According to the testimony of Mr. McNicoll, the external chartered accountant, this approach, quite obviously, distorted BHB's and Mr. Bertomeu's financial situation. To illustrate this, Mr. McNicoll referred to the fact that BHB had suffered an $18,134 loss in 1996.[3] In 1997, BHB realized a significant profit of $257,842,[4] while Mr. Bertomeu's profit was only $37,983.[5] Moreover, Mr. Bertomeu had no profit for the eight-month fiscal period ended December 31, 1995.
+[11] The accountant had to adjust the situation at fiscal year-end by determining a reasonable amount of management fees which, in his opinion, took account of the value of the services provided by Mr. Bertomeu, chief among these being that he personally signed the architectural plans. He had been told that the value of this professional service was approximately $35,000 per year, which amount was later increased to $50,000.
+[12] Although the evidence on this point is imprecise, the practice of adjusting the amounts billed by Ms. Bernier was apparently implemented by the accountants at Samson Bélair and then adopted by Mr. McNicoll in 1993. Mr. McNicoll described himself as a chartered accountant who was a sole practitioner and worked only for very small businesses.
+[13] Mr. McNicoll made adjustments of $71,000 for 1997 and $105,000 for 1998. He increased the expenses in one instance and decreased them in the other. After the accountant's adjustments,[6] Mr. Bertomeu's professional income for 1997 (after deducting BHB's management fees of $617,002),[7] was $52,766. After his other expenses, notably his professional liability insurance, his dues payable to the Ordre des architectes, bank charges and professional fees (all of which totalled roughly $9,650), were deducted, his net professional income was $43,116. In 1998, his professional income (after deducting management fees) was $68,400. After the other expenses (which amounted to $12,813) were deducted, his net professional income amounted to $55,587.[8]
+[14] Mr. Bertomeu's explanation of BHB's raison d'être was that the modern way for business people to run a business is through a corporation. He said that his brother, a veterinarian, had done so even though the statute governing the practice of that profession did not permit it. Mr. Bertomeu, for his part, wanted to comply with the statute governing the practice of architecture, and this is why he reported part of his professional fees and BHB reported part of them.
+[15] In his submission, the only professional activity that he needed to do personally was the signature of architectural plans. Everything else, including activities related to the preparation of plans, could be done by BHB. This explains why BHB incurred all the rent and personnel expenses — including the remuneration of the salaried architects — and the equipment expenses. The use of a corporation to carry on those activities enabled Mr. Bertomeu to accumulate funds in order better to face the cyclical difficult periods that characterize his profession. These funds enabled BHB to make the regular equipment purchases — computers, printers, software — that an architectural firm must make. This approach also facilitated the interim financing of operations related to the execution of major projects (which Mr. Bertomeu described as projects worth roughly $10 million) because the payment of professional fees might be delayed by several months on such projects.
+[16] Using BHB also made management of cash assets easier. Indeed, the evidence discloses that amounts as high as $30,000 could be invested temporarily by investment advisors until BHB required them as working capital. Mr. Bouchard, his former accountant at Samson Bélair, had suggested this approach to him. It also enabled him to keep his employees when work decreased significantly.
+[17] Mr. Bertomeu felt that his own remuneration for his professional activities was sufficient considering that his wife had a job that brought in about $60,000 a year and his children were financially independent.
+[18] During his audit, the Minister's auditor noticed that BHB and Mr. Bertomeu were related. According to the auditor's understanding of the facts, BHB was wholly owned by Mr. Bertomeu. However, as we have seen, BHB had several non-related shareholders prior to 1996. Thereafter, Mr. Bertomeu held 76% of BHB, and the rest was held by his wife. Another fact that drew the auditor's attention was the large amount of management fees that Mr. Bertomeu paid to BHB. In addition, his net profits were relatively constant despite a significant increase in his gross professional fees. For example, his fees for 1998 were 72% higher than those for 1996. However, the evidence discloses that there were also significant decreases. Comparing the figures for 1996 ($487,789) with those at April 30, 1995[9] ($618,837), one observes a 21% decrease.
+[19] Initially, the auditor applied an internal departmental directive (No. 81‑22) which required relatively complex calculations because some of the expenses could be subject to a 15% gross-up while others could not. Later on, the auditor decided to simplify his calculation — to Mr. Bertomeu's benefit — and to consider eligible all operating costs, adjusted for certain ineligible expenses, and applied the 15% gross‑up to all these costs. However, he refused to allow the deduction of the 3% charge on the collection of the partnership's fees. In his opinion, this work was already remunerated through billing for the management costs, grossed up by 15%.
+[20] Lastly, the auditor based his assessment not only on internal directives of the Department of National Revenue, but also on directives referred to in public at round tables during conferences of the Association de planification fiscale et financière. In addition, he took account of case law, in particular Holmes v. The Queen, [1974] 1 F.C. 353 (QL).
+Analysis
+[21] The provision relevant to the instant case is section 67 of the Act, which provides:
+67. In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+[Emphasis added.]
+[22] Some preliminary remarks are in order here. It must be emphasized that this provision — contrary to section 69 of the Act, for example — does not state that the value of the services performed must be equal to their fair market value. Section 67 refers to an expense that it is deductible "to the extent that the outlay or expense was reasonable in the circumstances." It must also be emphasized that section 67 does not refer to related persons, even though the fact that related persons were involved in this matter was one of the factors that the Minister’s auditor considered in applying that section.
+[23] The wording of section 67 of the Act can also be compared with that of paragraph 5(2)(i) of the Employment Insurance Act, which expressly provides that insurable employment does not include employment under an employment contract between persons who are not dealing with each other at arm's length.[10] Section 67 makes no reference to such non-arm's length dealing.
+[24] It would be useful to set out the approach adopted by the courts in interpreting section 67. First of all, we have the decision of the Federal Court of Appeal in Petro-Canada v. Canada, [2004] F.C.J. No. 734 (QL), 2004 FCA 158,[11] in which Sharlow J.A. wrote, at paragraph 64:
+64 Reasonableness, like value, is a question of fact. In this case, it is a fact upon which the Judge made no finding. While it may be true, as suggested in Mohammad, that paying fair market value for something is prima facie reasonable, I am unable to agree with the Crown that it necessarily follows that paying more than fair market value is unreasonable. There may be circumstances in which a decision to pay more than fair market value for something is a reasonable decision. Considering the test stated in Gabco, I am not persuaded that this is an appropriate case for the application of section 67.
+[Emphasis added.]
+[25] In Gabco Ltd. v. M.N.R., [1968] C.T.C. 313, referred to by Sharlow J.A., the reasonableness of the expenses was certainly at the heart of the debate, which was not the case in Petro-Canada. The relevant facts were as follows. A business paid a person $20,371 in remuneration ($851 as salary and $19,250 as a bonus) for three months of work in 1962, which was equivalent to $6,790 per month. This remuneration was based on the number of shares that the person held in the business. The following year, the business paid a total of $35,673 ($5,280 as salary and $30,393 as a bonus) for 12 months of work, for an average monthly remuneration of $2,792. Cattanach J. stated the following at page 323:
+It is not a question of the Minister or this Court substituting its judgment for what is a reasonable amount to pay, but rather a case of the Minister or the Court coming to the conclusion that no reasonable business man would have contracted to pay such an amount having only the business consideration of the appellant in mind. I do not think that in making the arrangement he did with his brother Robert that Jules would be restricted to the consideration of the service of Robert to the appellant in his first three months of employment being strictly commensurate with the pay he would receive. I do think that Jules was entitled to have other considerations present in his mind at the time of Robert's engagement such as future benefits to the appellant which he obviously did.
+[Emphasis added.]
+At page 320, he stated:
+. . . I should think that it is for the appellant, through its directors, to decide that such an arrangement was in the interests of the appellant subject only to the limitation that it is reasonable in the management of the appellant's affairs.
+[Emphasis added.]
+[26] Thus, the services rendered did not constitute the only criterion in determining whether the remuneration was reasonable. Moreover, no problem was posed by the fact that the remuneration was prorated to the number of the company's shares that the employees in question held. At page 319, Cattanach J. wrote as follows:
+. . . Under ordinary corporate principles I should have thought the same result could have been accomplished by the declaration and payment of dividends on the common shares except that the amount of the dividends declared and paid would be income in the hands of the appellant and taxable accordingly rather than deductible as an expense laid out to earn income. . . .
+[Emphasis added.]
+[27] Thus, in determining whether the amounts paid are reasonable, one can take into account the fact that there were other ways to benefit the supplier of the service.
+[28] Another decision that I consider important is that of the Quebec Provincial Court in A. L. Achbar Ltée c. Sous‑ministre du Revenu du Québec, [1982] R.D.F.Q. 107. There, a corporation operated a furniture and appliance business in Hull, Quebec. The corporation was owned in very large part, if not wholly owned, by an individual and his son, both of whom resided in Ontario. The corporation paid substantial bonuses, the amount of which was fixed at its fiscal year-end, after it had been determined that the business had shown a profit. The base salary paid to the two shareholders varied from $8,000 to $13,000 per year. At the end of the year, the corporation paid bonuses ranging from $90,000 to $287,500.
+[29] Judge Hamel of the Provincial Court drew guidance from Gabco, supra. Among other things, he wrote, at pages 110-11:
+[TRANSLATION]
+Let us now consider, objectively, whether these remuneration amounts were reasonable. It seems to me that inasmuch as the profits out of which remuneration was paid to an employee were earned through that employee's work and skill, the expense is not objectively unreasonable.
+[Emphasis added.]
+[30] Among the other factors (besides having contributed to the realization of the business's profits) that led him to allow the taxpayer's appeal and refuse to apply section 355 of Quebec's Taxation Act (the counterpart of section 67 of the Act), Judge Hamel referred to the following, at pages 111‑12:
+[TRANSLATION]
+Accordingly, it can be argued that to the extent that the company's finances enable it to pay a bonus, the amounts in question cannot be considered unreasonable.
+. . .
+Considering that this income is theoretically lower than that which would be paid to two partners operating such a business as a partnership instead of a corporation. . . .
+[31] Thus, if the two people in question had operated the business through a partnership instead of a corporation, they would have earned more than the bonus that they received from the corporation. The following is yet another factor that the judge mentioned at page 112:
+[TRANSLATION]
+Considering in conclusion that a company's profits can be paid as dividends, and the Achbars did indeed leave income in the company which could ultimately be paid as dividends, although there is no requirement that this method, and only this method, be used . . . .
+[32] Lastly, Judge Hamel referred to the following factor, also at page 112: [TRANSLATION] "Considering that the rent which the applicant paid for the building that belonged to one of the shareholders was much lower than normal".
+[33] The decision of the Quebec Provincial Court judge is supported by two general principles. The first is that taxpayers are free to arrange their affairs in such a way as to pay as little tax as possible, unless the arrangement is covered by a special or general anti-avoidance rule. The second is that if there is an ambiguity in the interpretation of the Act — in the instant case, an ambiguity with regard to the notion of reasonableness — it must be resolved in favour of the taxpayer. In Québec (Communauté urbaine) v. Corp. Notre‑Dame de Bon‑Secours, [1994] S.C.J. No. 78 (QL), 95 DTC 5017, [1994] 3 S.C.R. 3, Gonthier J. of the Supreme Court of Canada wrote, at paragraph 25 (QL): "Only a reasonable doubt, not resolved by the ordinary rules of interpretation, will be settled by recourse to the residual presumption in favour of the taxpayer."
+[34] In Safety Boss Ltd v. Canada, [2000] T.C.J. No. 18 (QL), 2000 CarswellNat 36, 2000 DTC 1767, [2000] 3 C.T.C. 2497, a Canadian corporation paid a large bonus to its president, who was at the time a non-resident, and substantial fees to a non‑resident company for the services of that non‑resident person, who was essentially the person running that company. Judge Bowman (as he then was) wrote at paragraph 51:
+51 I revert to the question: Would it have been unreasonable for an arm's length person to pay to Mr. Miller or SBIL the amounts that the appellant in fact paid to them? One must not ignore the fact that Kuwait -- clearly at arm's length with the appellant -- in fact paid substantially more for what were essentially Mr. Miller's services, including his expertise, experience, know-how, reputation and managerial skills. The appellant is essentially a one-man company, and, although it had employees and equipment, it was in many ways a one-man operation. Had Mr. Miller operated as a sole proprietorship and received fees from Kuwait out of which he paid salaries, wages and expenses, his income from the arm's length source, Kuwait, would have been significantly greater. Yet it could not have been suggested that Kuwait was paying an unreasonable fee for his services.
+[Emphasis added.]
+[35] In support of his decision, Judge Bowman cited the decision of Cattanach J. in Gabco, supra.
+[36] Counsel for the respondent cited Holmes, supra, in support of the Minister's decision. Several comments must be made in this regard. First of all, the question at issue in Holmes did not involve section 67 of the Act. Rather, the issue was whether management expenses had been incurred for the purpose of gaining or producing income from a business under the former paragraph 12(1)(a) of the Act (R.S.C. 1952; paragraph 12(1)(a) is now paragraph 18(1)(a)), and, if so, whether section 137 permitted the Minister to disallow the deduction of that expense because it had the effect of artificially reducing the taxpayer's business income. These questions, it should be briefly pointed out, arose in the following context. A law firm used the services of a management company held by the lawyers' spouses. If a lawyer was not married, the lawyer himself held shares in the company. This arrangement was similar in many respects to the one adopted by Mr. Bertomeu, except that the management fees were incurred on behalf of a law firm. At paragraph 33, Cattanach J. described in the following terms the remuneration that the corporation was to receive for its services: "In consideration of the performance of those services the law firm agreed to pay 15% of the amount paid by the Company on behalf of the law firm."[12] (Emphasis added.)
+[37] It is important to note that there was no real discussion of reasonableness in Holmes. Since the evidence had disclosed that the 15% rate was customary for the type of services involved, the judge considered that rate reasonable. He did not articulate a rule for determining the reasonableness of expenses. It should be added that this 15% rate is not a magic number. The specific circumstances of each case must be taken into account. The size of the expenses to which the rate is applied could be one relevant factor. Thus, 15% might be insufficient if the management costs are low.
+[38] Indeed, percentages greater than 15% have been allowed in other decisions, notably Smith v. M.N.R., [1987] T.C.J. No. 134 (QL), 1987 CarswellNat 386, [1987] 1 C.T.C. 2183, 87 DTC 132. There, the agreement stated that the management fees were calculated as follows: "15% of all disbursements paid on the Doctor's behalf" as well as "6% of the gross revenue of the Doctor for recording, billing and collecting of accounts receivable."
+[39] It now remains to apply to the facts herein the principles from the above decisions respecting the determination of the reasonableness of an expense. However, I believe that the financial risk to which the manager is exposed must be added to the above-mentioned factors. I will come back to this point later.
+[40] It was Mr. Bertomeu's and Mr. McNicoll's understanding that a corporation could not practise as an architect, and, in particular, sign architectural plans. However, it is interesting to note that, at paragraph 1 of Exhibit A‑9, the respondent's internal directive, it is expressly recognized that in Canada architects might be able to incorporate, as the directive states that the term "service corporations, as used here does not include corporations which provide professional services, such as incorporated architects, engineers etc."
+[41] This excerpt suggests that certain provinces of Canada tolerated to some extent the use of corporations by certain professionals. It should also be noted that there has been movement in Canada generally, and in Quebec in particular, to amend applicable legislation so that professionals such as architects, lawyers and accountants can practise their profession though a corporation. In fact, when counsel for the appellant introduced himself at the beginning of the hearing, he specifically stated that his firm had incorporated.
+[42] I would also note that, but for the constraints described above, all the partnership's fees could have earned by a corporation. Moreover, I am convinced that the Minister would not have refused to tax that income if it had been earned in its entirety by such a corporation in violation of the statute relating to the practice of professions. The Act does not cease to apply simply because income has been earned unlawfully. It applies to what has occurred, not to what should have occurred.
+[43] As for the May 1986 agreement, the parties' conduct[13] shows that it was amended, as it had not been rigorously applied for several years. The fact is that the document no longer reflected the contractual relationship between Mr. Bertomeu and BHB. In many respects, this is a situation — rather similar to that in Achbar — where, at fiscal‑year end, a decision was made regarding a reasonable amount of management fees to pay.
+[44] The fact that BHB assumed significant financial risks with regard to the rental of the office where the professional business was carried on, with regard to the hiring of administrative and technical staff, including architects and draftsmen,[14] and with regard to equipment purchases, is a sufficient basis on which to find that the fees which the partnership paid to BHB were reasonable. BHB was responsible for the employees' salaries in the event of work reductions or in cases where the client would only pay upon completion of the job. If Mr. Bertomeu had gone bankrupt, or had been late paying BHB the management fees, BHB would have been responsible for paying the salaries.
+[45] An analysis of Mr. Bertomeu's legal situation shows that he only assumed the professional liability resulting from signing the plans. However, this risk was covered by his professional liability insurance, and he was able to pay the premiums for such insurance out of the professional fees that he kept. Those premiums amounted to $6,571 in 1997 and $9,893 in 1998.
+[46] After deducting all costs not assumed by BHB, that is to say, the dues payable to the Ordre des architectes, professional fees, and his professional liability insurance premiums, Mr. Bertomeu realized a net profit of $43,116 in 1997 and $55,587 in 1998. One could say that, in a sense, he and BHB carried on the professional business jointly. Mr. Bertomeu's net income for 1997 was $43,116, and BHB's net income for the same fiscal year was $263,333. BHB earned 86% of the two businesses' aggregate net income of $309,449, and Mr. Bertomeu earned 14%. In 1998, BHB earned 81% of the aggregate net income, and Mr. Bertomeu earned 19%. I find that this allocation is justified and reasonable given the financial risks that BHB assumed.
+[47] Moreover, it is interesting to note that the best-paid salaried architect in 1998 earned $41,000 while Mr. Bertomeu received $43,116 in 1997 and $55,587 in 1998.
+[48] In conclusion, I find nothing unreasonable in what was done in the case at bar. On the contrary, Mr. Bertomeu's conduct was that of a reasonable businessman, having regard to the objectives pursued, in particular that of setting money aside in order to deal with the normal cyclical fluctuations in the field of architecture. Thus, the amounts paid to BHB are reasonable in the circumstances.
+[49] Mr. Bertomeu's appeals are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Mr. Bertomeu was entitled, in computing his
+income, to deduct the management fees of $204,304 for 1997 and $153,332 for 1998, which the Minister disallowed.
+Signed at Ottawa, Canada, this 3rd day of August 2006.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 28th day of May 2008.
+Erich Klein, Revisor
+CITATION:
+2006TCC85
+COURT FILE NO.:
+2001-3129(IT)G
+STYLE OF CAUSE:
+GUY BERTOMEU v. THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATES OF HEARING:
+April 4 and 5, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT:
+April 13, 2005
+DECISION DELIVERED ORALLY:
+April 6, 2005
+REASONS FOR JUDGMENT:
+August 3, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Aaron Rodgers
+Counsel for the Respondent:
+Annick Provencher
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Aaron Rodgers
+Firm:
+Spiegel Sohmer
+Montreal, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Court takes judicial notice of the fact that architectural practice is subject to fluctuations that are generally tied to the state of the economy and the availability of government funds to carry out public projects.
+[2] For the sake of simplicity, I will continue to call the corporation "BHB".
+[3] It is strange that BHB incurred such a loss, however. As Exhibit I‑1, Tab 43, discloses, Mr. McNicoll reduced the expenses by $276,713. The fees paid to BHB were reduced from $630,678 in the general ledger to $353,965 in the financial statements.
+[4] Actually $266,333 once the corrections made by the Minister in assessing Mr. Bertomeu and BHB are taken into account.
+[5] Actually $43,116 once the corrections made by the Minister's auditor are taken into account. Mr. Bertomeu's professional fees were understated by $5,133 in 1997. Certain subcontracting expenses amounting to $18,641 were disallowed for 1998, and, in computing BHB's income, certain expenses prohibited by the Act were refused. In particular, for 1997, the allowable expenses were reduced by $8,491 by reason of the restrictions set out in section 67.1, particularly the restrictions regarding restaurant expenses. For the year 1998, the adjustments amounted to $19,169.
+[6] These adjustments were themselves adjusted by the Minister's auditor.
+[7] It should be noted that the management fees added to BHB's income amount to $623,002. The $6,000 discrepancy was not explained. The situation is similar for the following year: Mr. Bertomeu deducted $708,931 in management fees for 1998 and BHB declared $712,814 in fees, which results in an unexplained $3,883 discrepancy.
+[8] This is the net income after the auditor’s adjustments. Among other things, he disallowed $18,461 in subcontracting expenses.
+[9] See Exhibit I-1, Tab 27, and Appendix A to the Reply to the Notice of Appeal, reproduced above.
+[10] That paragraph reads as follows:
+5. (2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+[11] On November 18, 2004, the Supreme Court of Canada dismissed an application for leave to appeal this decision of the Federal Court of Appeal in Petro‑Canada.
+[12] I cannot help but observe that the percentage used to establish the management company's remuneration for services rendered to the law firm is the same as that adopted by the Minister in his administrative policy.
+[13] Contrary to the admission made by counsel for Mr. Bertomeu with respect to subparagraph 12(f) of the Reply to the Notice of Appeal.
+[14] Even though these people were not expressly mentioned, they were certainly part of the group of 12 employees who worked for BHB.

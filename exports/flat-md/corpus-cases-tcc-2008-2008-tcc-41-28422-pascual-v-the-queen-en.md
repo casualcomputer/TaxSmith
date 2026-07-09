@@ -1,0 +1,143 @@
+---
+title: "Pascual v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28422/index.do"
+last_modified: "2008-01-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 41"
+citation2: ""
+neutral_citation: "2008 TCC 41"
+decision_date: "2008-01-24"
+language: "en"
+item_id: "28422"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1221
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:36:50.027000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "da66fb90cfe8aa5a1802ed05e964fcecc12ac96e771c00c94ba87e64dfd59776"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pascual v. The Queen
+
+- Citation: 2008 TCC 41
+- Decision date: 2008-01-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1221, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pascual v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-24
+Neutral citation
+2008 TCC 41
+File numbers
+2007-2632(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2632(IT)I
+BETWEEN:
+VILMA A. PASCUAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 16, 2008, at Winnipeg, Manitoba.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Meghan Riley
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the Appellant’s 2004 taxation year is dismissed without costs.
+Signed at Halifax, Nova Scotia, this 24th day of January 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC41
+Date: 20080124
+Docket: 2007-2632(IT)I
+BETWEEN:
+VILMA A. PASCUAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in this appeal is whether the Appellant is entitled to claim a tax credit pursuant to paragraph 118(1)(b) of the Income Tax Act ("Act") with respect to her adopted son, Michael, who was born in 1989.
+[2] Prior to immigrating to Canada in 2001 the Appellant lived in the Philippines. She acquired a house in the Philippines in 1988, and this is the same house where the Appellant's mother and Michael resided in 2004. From the time that she arrived in Canada in May of 2001 until today, the Appellant has not returned to the Philippines. As well, Michael has never been to Canada. The Appellant was unable to bring Michael with her when he immigrated to Canada in May of 2001. Her adoption of Michael was not finalized until September of 2001.
+[3] The Appellant has, since she arrived in Canada, provided financial support to Michael and has arranged regular payments for his benefit. The Appellant was not married in 2004 nor was she living in a common-law partnership.
+[4] Paragraph 118(1)(b) of the Act provides in part as follows:
+118. (1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted an amount determined by the formula
+A × B
+where
+A is the appropriate percentage for the year, and
+B is the total of,
+...
+(b) in the case of an individual who does not claim a deduction for the year because of paragraph (a) and who, at any time in the year,
+(i) is
+(A) a person who is unmarried and who does not live in a common-law partnership, or
+…
+(ii) whether alone or jointly with one or more other persons, maintains a self-contained domestic establishment (in which the individual lives) and actually supports in that establishment a person who, at that time, is
+(A) except in the case of a child of the individual, resident in Canada,
+(B) wholly dependent for support on the individual, or the individual and the other person or persons, as the case may be,
+(C) related to the individual, and
+(D) except in the case of a parent or grandparent of the individual, either under 18 years of age or so dependent by reason of mental or physical infirmity,
+[5] Subparagraph 118(1)(b)(ii) of the Act provides that one of the conditions that the Appellant must satisfy is that the Appellant must maintain a self-contained domestic establishment in which the Appellant lives. Since the Appellant only lived in the residence in Winnipeg in 2004, only this residence can be the residence that is referred to in this subparagraph. The next part of this subparagraph provides that the Appellant must also support Michael, in that self-contained domestic establishment. Since Michael was never present in the Winnipeg residence of the Appellant, the Appellant cannot satisfy the requirement that she supported Michael in her Winnipeg residence in 2004.
+[6] In Narsing v. Her Majesty the Queen, [1998] F.C.J. No. 156 the Federal Court of Appeal stated as follows:
+It is clear under the Act that the credit claimed is available only with respect to an impaired family member who is "wholly dependent" on the taxpayer, which requires, under the provision, that they both live "in the same establishment".
+[7] In Jankowska-Kamac v. Her Majesty the Queen, [2001] T.C.J. No. 281, the taxpayer immigrated to Canada but was unable to bring her son with her. She financially supported her son who remained in Poland. Her son was never present in Canada in the taxation year in issue in that case. Hershfield J. made the following comments in that case:
+14 The Appellant has argued that the provisions of the Act should be read in harmony with immigration realities. We are, after all, an enlightened nation whose past, present and future growth is dependent on enlightened immigration practices and enlightened taxation provisions should not penalize families in the process of immigrating. If the policy of the equivalent to spouse credit is to permit a single mother to claim the credit in respect of a wholly dependent child who is actually supported by that parent and who is unequivocally dependent on that parent in virtually every meaningful way, then a temporary immigration barrier should not create a technical hurdle for permitting that credit to the supporting parent. The argument, from a policy point of view, has merit. However, while a liberal construction of the subject credit provision might be equitable in the circumstances of this case, the plain wording of the provision and the consistent judicial findings in respect of such meaning cannot be ignored. Further, the argument relies on acceptance of the notion that a person can be "wholly dependent" within the meaning of paragraph 118(1)(b) and not live with the supporting person. Support can, after all, be provided "from" a place. While that is an arguable premise, it is not reflected in jurisprudence dealing with this paragraph. In Narsing v. The Queen, 98 D.T.C. 6176 the Federal Court of Appeal found that the requirement was clear. To be "wholly dependent" on a supporting taxpayer, the supported person and the supporting person both must live in the same establishment.
+15 While I am not certain why the notion of support need be localized to a particular place, Parliament has provided the subject credit only in the case where, in fact, the support is provided "in" the place where the supporting person resides. Examining the intent of the legislation is not, in this case, helpful in my view. The language of this section is not ambiguous and the courts have been consistent in applying the section as it is written.
+16 Accordingly, the appeal must fail. Any inequity in respect of this finding is a matter for Parliament. As found by Cattanach J. in The Queen v. Scheller, in the context of a case not unlike the one at hand, when the meaning of the provisions in a statute are clear, the courts have nothing to do with their policy or their justice or injustice. The function of the judge is to apply the law as it reads, as to do otherwise would be to abandon the office of judge and assume the office of the legislative branch of government. It mattered not in that case (Scheller) that the Appellant's daughter, being supported by the Appellant, lived apart (in Estonia) from the Appellant by virtue of circumstances beyond his control and through no choice of his. The credit in paragraph 118(1)(b) was denied for the reason that the daughter in that case did not live with the Appellant at any time in the year as required by that provision of the Act. I would regard the remarks of Cattanach J. concerning the role of the courts versus the role of the legislative branch of government to be an invitation to Parliament, made in 1975, to reconsider its policies in situations like those of the Scheller case (i.e. like those of the instant appeal). That invitation has not been taken up by Parliament.
+[8] Since Michael did not, at any time in 2004, live with the Appellant in the same self-contained domestic establishment, the Appellant is not entitled to claim a tax credit under paragraph 118(1)(b) of the Act with respect to Michael for 2004.
+[9] As a result, the appeal is dismissed without costs
+Signed at Halifax, Nova Scotia, this 24th day of January 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC41
+COURT FILE NO.: 2007-2632(IT)I
+STYLE OF CAUSE: VILMA A. PASCUAL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: January 16, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: January 24, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Meghan Riley
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,291 @@
+---
+title: "Nightingale c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30859/index.do"
+last_modified: "2012-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 218"
+citation2: ""
+neutral_citation: "2012 CCI 218"
+decision_date: "2012-06-22"
+language: "fr"
+item_id: "30859"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7356
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:32:46.213000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "457482cd6910351b1b27d44b374728150fd7bbce65330694e49e984d97c6d53c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nightingale c. M.R.N.
+
+- Citation: 2012 CCI 218
+- Decision date: 2012-06-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7356, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nightingale c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-06-22
+Référence neutre
+2012 CCI 218
+Numéro de dossier
+2011-2337(EI)
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2011-2337(EI)
+ENTRE :
+BRENDA NIGHTINGALE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+HTV SYSTEMS LTD,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel
+de Brenda Nightingale (2011-2340(CPP))
+le 7 février 2012, à Toronto (Ontario).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimé :
+Me Stephen Oakey
+Représentant de l’intervenante :
+M. Greg Riedstra
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre du Revenu national concernant l’assurabilité de l’emploi de l’appelante auprès de HTV Systems Ltd. pour la période du 1er janvier 2010 au 8 octobre 2010 est annulée conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 22e jour de juin 2012.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 6e jour d’août 2012.
+Marie-Christine Gervais
+Dossier : 2011-2340(CPP)
+ENTRE :
+BRENDA NIGHTINGALE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+HTV SYSTEMS LTD,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel
+de Brenda Nightingale (2011-2337(EI))
+le 7 février 2012, à Toronto (Ontario).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimé :
+Me Stephen Oakey
+Représentant de l’intervenante :
+M. Greg Riedstra
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre du Revenu national concernant le droit à pension découlant de l’emploi de l’appelante auprès de HTV Systems Ltd. pour la période du 1er janvier 2010 au 8 octobre 2010 est annulée conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 22e jour de juin 2012.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 6e jour d’août 2012.
+Marie-Christine Gervais
+Référence : 2012 CCI 218
+Date : 20120622
+Dossiers : 2011-2337(EI)
+2011-2340(CPP)
+ENTRE :
+BRENDA NIGHTINGALE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+HTV SYSTEMS LTD,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] L’appelante interjette appel de la décision du ministre du Revenu national concernant l’assurabilité de son emploi auprès de HTV Systems Ltd. (le « payeur ») selon la Loi sur l’assurance‑emploi, L.C. 1996, ch. 23, dans sa version modifiée (la « LAE »), et son droit à pension découlant de cet emploi selon le Régime de pensions du Canada, L.R.C. 1985, ch. C‑8, dans sa version modifiée (le « Régime »), pour la période du 1er janvier 2010 au 8 octobre 2010 (la « période »).
+[2] Peu de temps après la cessation de son emploi auprès du payeur, l’appelante a demandé à l’Agence du revenu du Canada (l’« ARC ») de rendre une décision (formulaire CPT1) sur le statut de cet emploi.
+[3] Par des lettres datées du 16 décembre 2010, l’appelante et le payeur ont été avisés qu’il avait été déterminé, compte tenu de l’information fournie et de l’analyse de l’agent qui a rendu la décision, que l’appelante était, pendant la période, une employée du payeur et que son emploi était assurable en vertu de l’alinéa 5(1)a) de la LAE et ouvrait droit à pension en vertu de l’alinéa 6(1)a) du Régime.
+[4] Le payeur n’étant pas de cet avis, il a déposé un appel auprès du chef des Appels le 10 janvier 2011.
+[5] Par des lettres datées du 8 avril 2011, l’appelante et le payeur ont été avisés que la décision avait été infirmée et qu’il avait été déterminé que l’emploi de l’appelante n’était pas assurable selon la LAE et n’ouvrait pas droit à pension selon le Régime, parce que l’appelante n’était pas employée en vertu d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la LAE et de l’alinéa 6(1)a) du Régime pendant la période.
+[6] Pour déterminer que l’appelante n’occupait pas un emploi assurable et ouvrant droit à pension auprès du payeur pendant la période, le ministre du Revenu national a formulé les hypothèses de fait suivantes, qui sont énoncées au paragraphe 14 de la réponse à l’avis d’appel déposée relativement à chaque appel :
+[traduction]
+Le payeur
+a) le payeur exploitait une entreprise de vente, d’installation et de réparation de télévisions et du matériel connexe pour les établissements de santé, ainsi que de location de services de télévision à l’intention des patients d’établissements de santé un peu partout au Canada (l’« entreprise »); (admise)
+b) Greg Riedstra dirigeait les activités quotidiennes de l’entreprise et prenait les décisions importantes la concernant; (admise)
+c) les heures d’ouverture normales du payeur étaient de 8 h à 17 h, du lundi au vendredi; (admise)
+L’appelante
+d) l’appelante a été embauchée à titre d’aide‑comptable pour une période indéterminée en vertu d’une entente verbale; (admise)
+e) l’appelante exerçait les fonctions suivantes :
+(i) préparer les versements au gouvernement de trois provinces,
+(ii) préparer les payes et les opérations bancaires quotidiennes,
+(iii) payer toutes les factures,
+(iv) s’occuper de l’expédition et de la réception; (admise)
+f) l’appelante exerçait ses fonctions dans les locaux du payeur et, à l’occasion, chez elle; (niée)
+g) l’appelante possédait de l’expérience et avait une formation dans le domaine de la comptabilité et des divers systèmes de comptabilité; elle possédait aussi de l’expérience dans le domaine de la gestion de bureau; (admise)
+h) l’appelante n’était pas tenue de fournir ses services exclusivement au payeur; (admise)
+i) l’appelante travaillait pour le payeur depuis juillet 2006; (admise)
+j) le payeur a remplacé l’appelante par un autre travailleur, un employé à temps plein qui gagnait 20 $ l’heure et avait un horaire de travail normal; (ignorée)
+k) de 2006 à 2007, l’appelante a travaillé pour le payeur à titre d’employée et a reçu des feuillets T4; (admise)
+Le contrôle
+l) l’appelante travaillait normalement du lundi au vendredi et, à l’occasion, le samedi; (admise)
+m) l’appelante choisissait elle‑même son horaire de travail, lequel était flexible, selon la charge de travail et les échéances; (admise)
+n) l’appelante était libre de travailler autant d’heures ou aussi peu d’heures qu’elle voulait; (niée)
+o) l’appelante consignait ses heures de travail en vue de leur facturation; (niée telle que rédigée)
+p) Greg Riedstra supervisait l’appelante, mais uniquement afin d’obtenir des mises à jour sur le travail et de faire en sorte que les documents et les rapports financiers soient à jour; (niée)
+q) l’appelante n’était pas tenue de se présenter devant le payeur, si ce n’est de faire des mises à jour; (niée)
+r) le payeur avait donné à l’appelante des instructions sur les responsabilités liées à son poste et sur les méthodes de travail; (admise)
+s) l’appelante était tenue d’obtenir l’approbation du payeur quant aux factures à payer et aux clients à qui une facture devait être envoyée; (admise)
+La propriété des outils de travail et du matériel
+t) le payeur fournissait les outils de travail, le matériel et les fournitures, comme un ordinateur, une imprimante, un télécopieur, un photocopieur, une calculatrice, une machine à affranchir, un logiciel comptable et un bureau, dont l’appelante avait besoin pour exécuter ses fonctions, sans qu’il n’en coûte rien à celle‑ci; (admise)
+u) lorsque l’appelante travaillait chez elle, elle se servait de ses propres outils de travail et de son propre matériel; (niée)
+v) l’appelante et le payeur étaient responsables de l’entretien et de la réparation de leurs propres outils de travail et de leur propre matériel; (niée)
+La sous‑traitance et l’embauche d’assistants
+w) l’appelante fournissait elle‑même les services; (admise)
+x) l’appelante n’a pas embauché d’assistants ou de remplaçants; (admise parce que l’appelante n’était pas autorisée à embaucher quelqu’un)
+La possibilité de profit et le risque de perte
+y) l’appelante était payée 35 $ l’heure; (admise pour 2010)
+z) l’appelante déterminait son propre taux de rémunération; (niée)
+aa) de 2006 à 2007, l’appelante était payée 18,50 $ l’heure; (admise, mais l’appelante recevait aussi un chèque de 424 $ toutes les deux semaines)
+bb) l’appelante était payée chaque semaine; (admise à partir de 2008)
+cc) l’appelante était payée par chèque; (admise)
+dd) les chèques étaient libellés au nom de l’appelante; (admise)
+ee) l’appelante devait présenter des factures pour être payée; (niée)
+ff) le payeur n’a pas fixé le nombre d’heures maximal que l’appelante pouvait facturer pour une semaine; (admise)
+gg) l’appelante n’a reçu ni prime, ni avantage, ni paye de vacances ni congé payé; (admise à compter de 2008)
+hh) c’est au payeur qu’il incombait en définitive de régler les plaintes des clients; (admise)
+ii) l’appelante garantissait le travail qu’elle effectuait; (niée telle que rédigée)
+jj) l’appelante a supporté des dépenses dans l’exécution de son travail pour les outils et le matériel dont elle avait besoin quand elle travaillait chez elle, ainsi que des frais de déplacement; (niée)
+L’intention
+kk) l’appelante incluait la taxe sur les produits et services dans les factures qu’elle remettait au payeur; (niée telle que rédigée)
+ll) l’appelante a déclaré le revenu qu’elle a gagné auprès du payeur à titre de « revenu d’entreprise » et elle a déduit des dépenses de ce revenu dans sa déclaration de revenus personnelle pour l’année d’imposition 2009; (la première partie de l’hypothèse est admise, la deuxième est niée)
+mm) l’appelante a enregistré un numéro d’entreprise auprès de l’Agence du revenu du Canada; (admise pour l’entreprise Equine Services en février 2005)
+nn) l’appelante n’avait pas d’autres clients; (admise)
+oo) l’appelante tenait des livres comptables pour sa propre entreprise; (admise)
+pp) l’appelante comptait sur le bouche à oreille pour la publicité de son entreprise. (admise pour l’entreprise Equine Services).
+[7] L’appelante a nié l’alinéa 14f) de la réponse à l’avis d’appel parce qu’elle ne travaillait pas pour le payeur chez elle. Elle a déclaré dans son témoignage qu’elle n’avait jamais apporté de travail à la maison, car elle ne pouvait rien faire avec l’ordinateur qu’elle avait chez elle. Elle n’avait pas accès à l’ordinateur du payeur à partir de chez elle.
+[8] L’appelante a nié l’alinéa 14n) de la réponse à l’avis d’appel parce qu’elle n’était pas libre de travailler autant d’heures ou si peu d’heures qu’elle voulait. Elle travaillait à temps plein pour le payeur et son travail devait être fait correctement et à temps. Le payeur s’attendait à ce qu’elle soit présente au bureau chaque jour de 9 h à 17 h. Le nombre d’heures qu’elle devait travailler était variable et son horaire était flexible, les deux dépendant de la charge de travail et des échéances.
+[9] L’appelante a nié l’alinéa 14o) de la réponse à l’avis d’appel parce qu’elle consignait ses heures sur une fiche de présence qui servait à déterminer sa paye et non à établir des factures. Elle a déclaré dans son témoignage à l’audience qu’elle ne se faisait pas payer ses heures par le payeur en lui remettant des factures.
+[10] L’appelante a nié les alinéas 14p) et q) de la réponse à l’avis d’appel parce qu’elle devait se présenter devant M. Greg Riedstra chaque jour soit en se présentant au bureau, soit par téléphone ou par courriel s’il était à l’extérieur du bureau. Elle devait en outre obtenir l’approbation de M. Riedstra avant d’effectuer certaines tâches, par exemple quant aux factures qu’elle devait payer et aux clients à qui elle devait envoyer une facture.
+[11] L’appelante a nié les alinéas 14u), v) et jj) de la réponse à l’avis d’appel parce qu’elle ne s’était jamais servie de ses propres outils de travail et de son propre matériel lorsqu’elle travaillait pour le payeur et qu’elle n’avait jamais supporté de frais d’entretien ou de réparation pour ses propres outils et son propre matériel lorsqu’elle travaillait pour le payeur.
+[12] L’appelante a nié l’alinéa 14z) de la réponse à l’avis d’appel parce que, lorsqu’elle avait été embauchée à titre d’employée, le payeur avait convenu de la payer 18,50 $ l’heure et de lui verser, par chèque, une somme de 424 $ toutes les deux semaines pour payer ses frais de transport entre sa maison et le bureau. En janvier 2008, lorsque le statut de l’appelante a changé et qu’elle est devenue entrepreneure indépendante, le payeur a convenu de la payer 30 $ l’heure, sans toutefois lui rembourser ses frais de transport.
+[13] L’appelante a nié l’alinéa 14ee) de la réponse à l’avis d’appel, car elle soutenait qu’elle n’était pas tenue de présenter des factures pour être payée.
+[14] L’appelante a nié l’alinéa 14ii) de la réponse à l’avis d’appel parce qu’elle n’avait jamais offert aucune garantie à l’égard de son travail.
+[15] L’appelante a nié l’alinéa 14ll) de la réponse à l’avis d’appel telle qu’elle a été rédigée parce qu’elle n’a pas déduit de dépenses du revenu gagné auprès du payeur dans sa déclaration de revenus personnelle pour l’année d’imposition 2009.
+[16] L’appelante a témoigné à l’audience. Elle a expliqué qu’elle avait accepté un emploi à temps partiel auprès du payeur en juillet 2006 et que, quelques semaines plus tard, elle avait commencé à travailler à temps plein pour le payeur. De juillet 2006 à janvier 2008, l’appelante était inscrite sur la liste de paye du payeur et a reçu des feuillets T4.
+[17] En janvier 2008, l’appelante a demandé une augmentation de salaire. Le payeur a refusé d’accéder à sa demande, à moins que son statut passe d’employée à celui d’entrepreneure indépendante. Elle a dit qu’elle avait été forcée d’accepter le changement pour conserver son emploi auprès du payeur. Aucune entente n’a été conclue par écrit entre l’appelante et le payeur. L’appelante a déclaré que la relation employeur‑employé qui existait en 2006 et en 2007 n’avait pas changé en 2008 ni au cours des années suivantes. Elle a continué à faire son travail de la même manière, sous la direction et le contrôle de M. Greg Riedstra.
+[18] L’appelante a admis qu’elle avait un horaire de travail flexible et que le nombre d’heures qu’elle travaillait était variable, mais elle a souligné qu’elle devait travailler un plus grand nombre d’heures que le nombre d’heures normales au bureau du payeur pour respecter les échéances de celui‑ci. Elle n’a jamais été autorisée à prendre de vacances pendant les quatre ans et demi qu’a duré son emploi auprès du payeur.
+[19] M. Riedstra décidait chaque jour des tâches qu’il lui confiait et des échéances qu’elle devait respecter. Au bureau, l’appelante devait se présenter devant M. Riedstra tous les jours en personne ou, s’il n’était pas au bureau, par téléphone ou par courriel. En outre, l’appelante devait obtenir l’approbation du payeur pour effectuer certaines tâches, par exemple quant aux factures qu’elle devait payer et aux clients à qui elle devait envoyer une facture.
+[20] L’appelante a mentionné également qu’elle n’apportait jamais de travail à la maison parce qu’elle ne pouvait pas avoir accès aux ordinateurs du payeur à partir de chez elle.
+[21] L’appelante pouvait travailler pour d’autres clients sans obtenir l’approbation du payeur. Pendant qu’elle travaillait pour le payeur, elle a fait la tenue des livres pour certains petits clients; elle fournissait aussi des services à des clients de son entreprise Equine Services les soirs et les fins de semaine.
+[22] Comme tous les autres employés du payeur, l’appelante présentait des fiches de présence hebdomadaires pour être payée. Peu de temps après que son statut d’emploi a changé, l’appelante a commencé à facturer ses services au payeur. Trois factures datées du 15 février 2008, du 29 février 2008 et du 19 octobre 2010 ont été produites par l’intimée (pièce R‑1). La taxe sur les produits et services (« TPS ») est inscrite sur les deux premières factures et la taxe de vente harmonisée (« TVH ») sur la troisième. Dans son témoignage, l’appelante a expliqué qu’on lui avait demandé d’arrêter de présenter des factures au payeur ou aux six autres sociétés appartenant à des membres de la famille de M. Riedstra pour lesquelles elle devait aussi faire le travail sous la direction de M. Riedstra. L’appelante a affirmé qu’aucune autre facture n’avait été envoyée au payeur, à l’exception de celle datée du 19 octobre 2010 qui concernait sa dernière semaine de travail et qu’elle a préparée après son congédiement.
+[23] L’appelante était payée par le payeur au moyen de chèques hebdomadaires. Afin de produire les chèques, l’ordinateur du payeur générait automatiquement des bons de commande contenant la date, le numéro de la commande, une description des produits ou services fournis, le nom du fournisseur, le montant exigé, la TPS et la taxe de vente provinciale à payer, ainsi que les numéros d’inscription aux fins de la TPS et de la taxe de vente provinciale. Les chèques produits par l’ordinateur indiquaient la date et le numéro du bon de commande, le numéro de la facture – qui était en fait la date du bon de commande – et le montant payé incluant la TPS, mais non la taxe de vente provinciale.
+[24] L’appelante a expliqué que ses numéros d’inscription aux fins de la TPS et de la taxe de vente provinciale avaient été obtenus en 2005 relativement à son entreprise Equine Services. En outre, elle a confirmé qu’elle avait déclaré le revenu gagné auprès du payeur à titre de revenu d’entreprise dans sa déclaration de revenus de 2009 et qu’elle avait déclaré et remis la TPS perçue en 2008 et en 2009. Pour 2010, elle n’avait pas déclaré et remis la TPS perçue parce qu’elle attendait la décision concernant le statut de son emploi.
+[25] L’appelante a confirmé également que le payeur fournissait les outils de travail, le matériel et les fournitures dont elle avait besoin pour exécuter ses fonctions sans qu’il ne lui en coûte rien, qu’elle ne s’était jamais servie de ses propres outils pour exécuter ses fonctions pour le payeur et qu’elle n’avait jamais supporté de frais relativement à ses propres outils et à son propre matériel à cette fin.
+[26] L’appelante n’avait pas la capacité de sous‑traiter du travail ou d’embaucher des assistants pour l’aider et, dans les faits, elle n’a pas embauché d’assistants ou de remplaçants.
+[27] Enfin, l’appelante a confirmé qu’elle n’assumait aucun risque financier, qu’elle ne courait aucun risque de perte, qu’elle n’avait aucune possibilité de profit, à moins de travailler un plus grand nombre d’heures si cela était justifié, qu’elle n’avait investi aucune somme d’argent et qu’elle n’avait pas de présence d’affaires.
+[28] Le témoignage de l’appelante a été corroboré par le témoignage de Mme Erika Agnew, une adjointe administrative qui a travaillé à temps partiel pour le payeur de novembre 2008 à novembre 2009. Le témoignage de Mme Agnew était particulièrement pertinent, car elle a confirmé les faits suivants :
+a) l’appelante travaillait à temps plein au bureau, du lundi au vendredi, habituellement à compter de 8 h 30 et souvent jusqu’après 17 h 30;
+b) l’appelante remplissait des fiches de présence;
+c) l’appelante n’a jamais travaillé chez elle pour le payeur, car on ne pouvait accéder au système de comptabilité qu’au moyen des ordinateurs se trouvant dans les bureaux du payeur. L’appelante devait aller au bureau si elle voulait travailler pendant les fins de semaine;
+d) l’appelante ne pouvait pas être remplacée facilement parce que, pour faire son travail, il fallait très bien connaître le programme informatique utilisé par le payeur, lequel programme n’est pas très connu, car il est archaïque et n’est plus utilisé par la plupart des entreprises;
+e) Mme Agnew a été embauchée par M. Riedstra précisément pour aider l’appelante. Elle n’a pas été embauchée par l’appelante. Celle‑ci a dirigé Mme Agnew vers M. Riedstra, qui a mené l’entrevue seul. De plus, M. Riedstra est celui qui a pris la décision d’embaucher Mme Agnew et qui lui a offert le poste. L’appelante n’a pas participé à l’embauche de sa propre assistante.
+[29] Il faut s’en remettre, en dépit de son amitié avec l’appelante, au témoignage de Mme Agnew parce que celle‑ci était un témoin crédible et qu’elle avait une connaissance personnelle des conditions de travail de l’appelante de novembre 2008 à novembre 2009.
+[30] M. Greg Riedstra a également témoigné à l’audience. Il a expliqué qu’il ne contrôlait pas les heures de travail de l’appelante. Ce qui lui importait, c’était que le travail soit bien fait et que les échéances soient respectées. Il a mentionné que l’appelante avait unilatéralement fait passer sa rémunération de 30 $ à 35 $ l’heure. Il était incapable de se rappeler quand cela était survenu exactement, si c’était en juillet 2009 ou en juillet 2010. Il était troublé et a mentionné que cela s’était passé une semaine après le décès de son père. Il n’avait jamais accepté cette augmentation de salaire. Il avait expliqué que l’appelante a été congédiée parce qu’elle avait refusé d’exécuter une tâche, à savoir appeler un client (un hôpital) afin de recouvrer une somme impayée. Il a qualifié le congédiement de mesure disciplinaire.
+Analyse
+[31] L’alinéa 5(1)a) de la LAE définit ce qu’est un emploi assurable :
+5(1) Sens de « emploi assurable » — Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[32] L’alinéa 6(1)a) du Régime définit un emploi ouvrant droit à pension comme un emploi au Canada qui n’est pas un emploi excepté.
+[33] Chaque affaire dans laquelle se pose la question de savoir si un travailleur est un employé ou un entrepreneur indépendant doit être tranchée selon les faits qui lui sont propres. Selon la jurisprudence, le degré de contrôle que le payeur exerce sur les activités du travailleur est un facteur important qui doit être pris en compte pour répondre à cette question. D’autres facteurs sont pertinents également, par exemple la propriété des outils de travail et du matériel, la possibilité de profit et le risque de perte, l’intégration du travailleur dans l’organisation du payeur et l’intention des parties.
+Le degré de contrôle
+[34] L’appelante a été embauchée à titre d’aide‑comptable pour une période indéterminée en vertu d’une entente verbale. De juillet 2006 à la fin de 2007, elle a travaillé pour le payeur en tant qu’employée et a reçu des feuillets T4. En janvier 2008, l’entente financière entre l’appelante et le payeur a été modifiée. La rémunération de l’appelante est passée de 18,50 $ à 30 $ l’heure et ses frais de transport entre sa maison et le bureau n’ont plus été remboursés. L’appelante serait devenue une entrepreneure indépendante en dépit du fait que son travail est resté le même.
+[35] Les témoignages de l’appelante et de Mme Erika Agnew ont révélé que M. Greg Riedstra exerçait dans les faits un degré de contrôle élevé sur l’appelante et sur la manière dont celle‑ci faisait son travail. Chaque jour, M. Riedstra assignait des tâches à l’appelante et lui fixait des échéances. L’appelante devait se présenter chaque jour devant M. Riedstra, même lorsque celui‑ci était à l’extérieur du bureau. Elle devait aussi obtenir son approbation à l’égard de certaines tâches, notamment quant aux factures qu’elle devait payer et aux clients à qui elle devait faire parvenir une facture.
+[36] L’appelante travaillait exclusivement dans les bureaux du payeur. Elle avait un horaire flexible sans aucun nombre d’heures de travail prédéterminé, mais M. Riedstra s’attendait à ce qu’elle soit présente au bureau chaque jour et à une certaine heure.
+[37] L’appelante pouvait travailler pour d’autres clients sans obtenir l’approbation du payeur, mais, dans les faits, l’appelante ne pouvait leur offrir ses services que les soirs et les fins de semaine. Pendant la période de quatre ans et demi au cours de laquelle elle a travaillé pour le payeur, l’appelante n’a pas été autorisée à prendre de vacances à cause des échéances qui devaient être respectées. Dans ces circonstances, je ne vois pas comment elle pouvait travailler pour d’autres clients pendant ses journées de travail normales auprès du payeur.
+[38] Le degré de contrôle exercé par le payeur ressortait également du fait que celui‑ci a pris une mesure disciplinaire en congédiant l’appelante parce qu’elle avait refusé d’exécuter une tâche, à savoir recouvrer la somme due par un hôpital.
+[39] De manière générale, ce facteur donne à penser qu’il s’agissait davantage d’une relation employeur‑employé que d’une relation employeur‑entrepreneur indépendant.
+La propriété des outils de travail et du matériel
+[40] L’appelante ne s’est jamais servie de ses propres outils de travail et de son propre matériel lorsqu’elle accomplissait son travail pour le payeur. La preuve révèle que l’appelante pouvait accéder à l’ordinateur du payeur seulement à partir des bureaux de celui‑ci.
+[41] Ce facteur dénote clairement davantage une relation employeur‑employé.
+La sous‑traitance ou l’embauche d’assistants
+[42] L’appelante n’avait pas la capacité de sous‑traiter du travail ou d’embaucher des assistants pour l’aider et, dans les faits, elle n’a pas embauché d’assistants ou de remplaçants. Cela ressort clairement de l’embauche de Mme Erika Agnew par M. Riedstra précisément pour aider l’appelante. M. Riedstra a placé une annonce dans le journal indépendant de Georgetown et il a mené lui‑même toutes les entrevues sans que l’appelante n’y assiste. Il a décidé d’embaucher Mme Agnew et lui a offert le poste.
+[43] Ce facteur indique également l’existence d’un contrat de louage de services et non d’un contrat d’entreprise.
+La possibilité de profit et le risque de perte
+[44] L’appelante était rémunérée selon un tarif horaire et aucun nombre d’heures maximal de travail n’était fixé. Elle avait la possibilité de faire un profit étant donné que le payeur n’exerçait aucun contrôle sur le nombre d’heures qu’elle pouvait facturer. Il faut mentionner ici que, selon l’alinéa 5(1)a) de la LAE, l’emploi exercé aux termes d’un contrat de louage de services, que la rémunération soit calculée soit aux pièces, soit en partie au temps et en partie aux pièces, est un emploi assurable.
+[45] Par contre, l’appelante n’assumait aucun risque financier et n’était exposée à aucun risque de perte, à l’exception du fait qu’elle n’avait droit à aucun avantage ni à aucune paye de vacances et que ses frais de transport n’étaient pas remboursés.
+[46] De manière générale, ce facteur me semble neutre.
+L’intégration
+[47] La question de l’intégration du travail de l’appelante à l’entreprise du payeur a été très peu abordée à l’audience. L’appelante prétendait dans ses actes de procédure que ce facteur devait être considéré du point de vue du travailleur, et non du point de vue de l’employeur. Quoi qu’il en soit, j’estime que les services fournis par l’appelante faisaient partie intégrante de l’entreprise du payeur.
+L’intention
+[48] En l’espèce, le payeur et l’appelante n’avaient pas une intention commune quant à la nature de leur relation de travail. Le payeur voulait que l’appelante soit une entrepreneure indépendante, alors que l’appelante voulait être une employée du payeur.
+[49] L’appelante a été rayée de la liste de paye en 2008, elle a commencé à facturer ses services au payeur, mais on lui a demandé d’arrêter de le faire. Elle a plutôt préparé des bons de commande. L’appelante a déclaré le revenu gagné auprès du payeur comme un revenu d’entreprise en 2009 et elle a facturé la TPS de 2008 à 2010. Elle alléguait qu’elle avait été forcée d’accepter les conditions imposées par le payeur en 2008 afin de conserver son emploi et d’obtenir une augmentation de salaire, soit 30 $ l’heure.
+[50] Étant donné que les parties n’avaient pas la même intention, ce facteur ne peut être considéré en soi comme un facteur déterminant.
+Conclusion
+[51] Pour les motifs exposés ci‑dessus, les appels sont accueillis et les décisions du ministre du Revenu national concernant l’assurabilité de l’emploi de l’appelante auprès de HTV Systems Ltd. du 1er janvier 2010 au 8 octobre 2010 et le droit à pension lié à cet emploi sont annulées.
+Signé à Ottawa, Canada, ce 22e jour de juin 2012.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 6e jour d’août 2012.
+Marie-Christine Gervais
+RÉFÉRENCE : 2012 CCI 218
+NOS DES DOSSIERS DE LA COUR : 2011-2337(EI) et 2011-2340(CPP)
+INTITULÉ : Brenda Nightingale c. Sa Majesté la Reine et HTV Systems Ltd.
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 7 février 2012
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 22 juin 2012
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Stephen Oakey
+Représentant de l’intervenante :
+M. Greg Riedstra
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l’intervenante :
+Nom :
+Cabinet :

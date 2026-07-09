@@ -1,0 +1,149 @@
+Title: Osadchuk c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521096/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-70-521096-osadchuk-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-05-17
+
+# Osadchuk c. Le Roi
+
+- Citation: 2023 CCI 70
+- Decision date: 2023-05-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5882, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Osadchuk c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-05-17
+Référence neutre
+2023 CCI 70
+Numéro de dossier
+2019-1307(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-1307(IT)G
+ENTRE :
+BRANDON OSADCHUK,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+L’honorable juge David E. Graham
+Participants :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimé :
+Me Tokunbo Omisade Me Amy Kendell
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie à l’égard de l’appelant pour l’année d’imposition 2008 est rejeté.
+Les dépens sont adjugés à l’intimé.
+Signé à Ottawa, Canada, ce 17e jour de mai 2023.
+« David E. Graham »
+Le juge Graham
+Référence : 2023 CCI 70
+Date : 20230517
+Dossier : 2019-1307(IT)G
+ENTRE :
+BRANDON OSADCHUK,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] L’appelant a fondé l’ensemble de son appel sur les arguments commerciaux pseudojuridiques organisés décrits dans la décision Meads v. Meads (2012 ABQB 571).
+[2] J’ai radié l’avis d’appel et la réplique de l’appelant dans leur entièreté. J’ai donné à l’appelant la chance de me convaincre que je devrais l’autoriser à déposer un avis d’appel modifié. J’ai averti l’appelant que s’il ne se conformait pas à mon ordonnance, je rejetterais son appel. Comme il ne s’y est pas conformé, je rejette son appel.
+I. Résumé des faits [3] L’appelant a participé à un stratagème de dons de bienfaisance connu sous divers noms, comme Canadians Care ou Trinity Global. Il allègue avoir fait un don de bienfaisance de 37 486 $ durant l’année d’imposition 2008. Le ministre du Revenu national a établi une nouvelle cotisation à l’égard de l’appelant, dans laquelle il a refusé la déduction de ce don. L’appelant a interjeté appel de cette nouvelle cotisation.
+[4] Je suis le juge chargé de la gestion des instances pour les appels relatifs à Trinity Global. En cette qualité, j’ai examiné l’avis d’appel et la réplique de l’appelant.
+II. Les actes de procédure de l’appelant [5] L’acte de procédure de l’appelant est un exemple classique d’acte de procédure déposé par une partie présentant une argumentation commerciale pseudojuridique organisée :
+a)L’appelant utilise une ponctuation inhabituelle et omet les lettres majuscules dans l’épellation de son nom : « brandon: osadchuk ».
+b)L’appelant affirme ne pas être une « personne » aux termes de la Loi de l’impôt sur le revenu, invoquant l’assertion dénuée de sens selon laquelle les êtres humains ne sont pas des personnes.
+c)Ayant joint un certificat de naissance à la réplique, l’appelant fait valoir que celui-ci [traduction] « prouve hors de tout doute qu’il agit en sa capacité d’être humain ». Il poursuit en affirmant : [traduction] « J’ai renoncé à mon droit et je refuse d’être reconnu comme une personne juridique devant la loi et réclame d’être reconnu comme un être humain devant la loi ».
+d)L’appelant renvoie à des documents qui portent une [traduction] « signature physique ».
+e)Il renvoie à maintes reprises à la Charte canadienne des droits et libertés, à la Déclaration universelle des droits de l’homme, au Pacte international relatif aux droits économiques, sociaux et culturels et au Pacte international relatif aux droits civils et politiques. Il est évident que le simple renvoi à ces documents ne signifie pas que la partie présente nécessairement une argumentation commerciale pseudojuridique organisée. En revanche, affirmer que ces documents font que les êtres humains ne sont pas soumis à l’impôt aux termes de la Loi de l’impôt sur le revenu constitue incontestablement une telle argumentation.
+f)La réplique accorde beaucoup d’importance à ce que l’appelant considère comme une distinction entre [traduction] « le côté inhérent de la Cour canadienne de l’impôt » et son [traduction] « côté légal ».
+g)L’appelant demande le remboursement de tout l’impôt sur le revenu et de toutes les cotisations au Régime de pensions du Canada (RPC) et à l’assurance-emploi qu’il a versées. Il demande également une ordonnance selon laquelle il ne sera pas tenu de payer d’impôt à l’avenir.
+[6] Enfin, les seules mentions du stratagème de dons Trinity Global dans les 15 pages de l’acte de procédure figurent sur une ligne à la fin de l’avis d’appel, où il est écrit que [traduction] « [l]a somme en litige pour le PROGRAMME Canadians Care de 2008 est de 37 486 $ », et dans un énoncé au début de la réplique selon lequel l’appelant a déposé un appel [traduction] « concernant le programme de dons Canadians Care de 2008 ».
+[7] Ni l’avis d’appel ni la réplique ne présente des faits pertinents concernant le stratagème de dons, n’invoque une disposition législative pour contester qu’il s’agissait d’un stratagème de dons ou ne soulève un argument concernant le stratagème de dons.
+III. Radiation d’un acte de procédure invoquant une argumentation commerciale pseudojuridique organisée [8] L’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale) dispose que notre Cour peut, de son propre chef, radier un acte de procédure, en tout ou en partie, avec ou sans autorisation de le modifier, parce qu’il constitue un recours abusif à la Cour ou ne révèle aucun moyen raisonnable d’appel.
+[9] Si un contribuable dépose un avis d’appel manifestement fondé sur des arguments commerciaux pseudojuridiques organisés, la Cour doit se demander s’il y a lieu de radier ces arguments de l’avis d’appel de son propre chef. Pour ce faire, la Cour doit d’abord établir à quelle étape du processus ces arguments ont été présentés. La Cour peut ne pas être en mesure de faire cette détermination avant que l’intimé ne dépose sa réponse.
+Arguments ayant servi de fondement à la déclaration de revenus du contribuable
+[10] Si des arguments commerciaux pseudojuridiques organisés ont servi de fondement à la déclaration de revenus du contribuable, règle générale, la Cour ne radiera pas les arguments de l’avis d’appel de son propre chef. La Cour laissera plutôt à l’intimé le soin de déposer une requête en radiation, puisque l’intimé pourrait souhaiter que l’avis d’appel demeure intact. Par exemple, si le ministre a imposé une pénalité aux termes du paragraphe 163(2), l’intimé pourrait vouloir invoquer les arguments fallacieux du contribuable pour appuyer l’imposition de cette pénalité.
+Arguments employés pour contester une cotisation ou une nouvelle cotisation
+[11] Si, toutefois, l’appelant soulève des arguments commerciaux pseudojuridiques organisés pour la première fois en réponse à une cotisation ou à une nouvelle cotisation, la Cour peut radier ces arguments de l’acte de procédure de son propre chef[1].
+[12] Dans ces circonstances, demander à un contribuable de présenter ses observations pour expliquer pourquoi ses arguments commerciaux pseudojuridiques organisés ne devraient pas être radiés de l’avis d’appel serait un gaspillage des ressources judiciaires. Demander à l’intimé de présenter ses observations pour expliquer pourquoi ces arguments devraient être radiés reviendrait également à faire perdre du temps à l’intimé. Il est évident et manifeste que de tels arguments ne sont pas fondés. Rien de ce que dira une partie invoquant une argumentation commerciale pseudojuridique organisée n’y changera quoi que ce soit.
+[13] Si la Cour accorde au contribuable la possibilité de déposer un avis d’appel modifié soulevant des arguments légitimes, il aura reçu un traitement équitable. Le contribuable n’aura pas été privé de son droit d’interjeter appel, mais uniquement d’une autre occasion de débiter des inepties.
+IV. Radiation de l’acte de procédure de l’appelant [14] J’ai examiné l’acte de procédure de l’appelant en ma qualité de juge chargé de la gestion de l’instance. Il était évident et manifeste pour moi que l’avis d’appel et la réplique constituent un recours abusif à la Cour et ne révélaient aucun moyen raisonnable d’appel. Les arguments soulevés ont été examinés et rejetés de nombreuses fois par notre Cour pour la simple raison qu’ils constituent un charabia dénué de sens sans aucun fondement.
+[15] L’appelant n’a pas invoqué ces arguments au moment de produire sa déclaration, mais les a plutôt soulevés comme moyen de défense quand une nouvelle cotisation a été établie à son égard dans laquelle la déduction des dons de bienfaisance déclarés a été refusée.
+[16] Ce serait un gaspillage de ressources judiciaires et un recours abusif à la Cour que de permettre que le présent appel se poursuive sur le fondement des questions soulevées dans l’avis d’appel et la réplique.
+[17] Par conséquent, dans une ordonnance du 10 février 2023, j’ai radié l’avis d’appel et la réplique dans leur entièreté, et j’ai accordé à l’appelant jusqu’au 14 avril 2023 pour déposer des arguments écrits expliquant pourquoi je devrais lui accorder l’autorisation de modifier son avis d’appel. J’ai demandé à l’appelant de joindre une proposition d’avis d’appel modifié à ses arguments.
+[18] J’ai expressément demandé que la proposition d’avis d’appel modifié :
+(a)ne contienne aucun des arguments soulevés dans l’avis d’appel ou la réplique;
+(b)ne remette pas en question si l’appelant est ou non une « personne » aux termes de la Loi de l’impôt sur le revenu;
+(c)ne sollicite aucun autre recours que le renvoi au ministre de la nouvelle cotisation établie à l’égard de l’appelant pour l’année d’imposition 2008 pour nouvel examen et nouvelle cotisation et demande que les dépens soient adjugés à l’appelant et, enfin, ne sollicite aucune des mesures de réparation suivantes :
+(i)des dommages-intérêts;
+(ii)des lettres d’excuses;
+(iii)l’exemption de l’impôt sur le revenu et des cotisations au RPC ou à l’assurance-emploi à l’avenir;
+(iv)le remboursement des contributions antérieures qui auraient prétendument été soutirées à l’appelant [traduction] « sous la menace de faire usage de la force ou d’autres mesures de coercition ».
+[19] J’ai averti l’appelant que s’il ne déposait pas des arguments écrits et une proposition d’avis d’appel modifié dans le délai prescrit, ou s’il déposait une proposition d’avis d’appel modifié ne respectant pas mon ordonnance, je rejetterais son appel.
+V. Arguments de l’appelant [20] L’appelant a déposé des arguments écrits dans le délai prescrit. Contrairement à ce que je demandais dans mon ordonnance, il n’a pas joint de proposition d’avis d’appel modifié.
+[21] L’appelant a fait preuve de l’entêtement habituel des parties ayant recours à une argumentation commerciale pseudojuridique organisée. Plutôt que d’utiliser ses arguments écrits pour expliquer pourquoi je devrais lui accorder la chance de déposer un avis d’appel modifié portant sur le stratagème de dons de Trinity Global, il a plutôt réitéré les mêmes arguments concernant le [traduction] « côté inhérent » de la Cour et le fait qu’il n’était pas une personne.
+[22] De plus, il a aussi affirmé que si la Cour [traduction] « continue de maintenir cette affaire sous sa compétence légale, il déposera une demande d’habeas corpus et contestera la compétence de la Cour en vertu de laquelle ces prétendus chefs d’accusation ont été déposés contre lui ». Le recours mal compris à l’habeas corpus est un autre argument commercial pseudojuridique organisé couramment utilisé.
+VI. Compétence inhérente et compétence implicite [23] Même si l’appelant affirme le contraire, la Cour canadienne de l’impôt ne dispose pas réellement d’une compétence inhérente. Notre Cour est purement d’origine légale. Alors que, auparavant, certains ont affirmé que la Cour avait la compétence inhérente de contrôler sa propre procédure, la Cour d’appel fédérale a récemment indiqué de façon claire que c’était plutôt sa compétence implicite qui lui permettait de le faire[2].
+[24] Paradoxalement, c’est cette compétence implicite qui permet à la Cour de rejeter les appels au moyen desquels des contribuables, comme l’appelant, font un recours abusif à la Cour en présentant obstinément des arguments dénués de sens et en ne tenant pas compte des ordonnances de la Cour. C’est exactement ce que je m’apprête à faire en l’espèce.
+[25] J’ai donné à l’appelant la chance de corriger son erreur. Il a choisi de ne pas en profiter. Il n’a même pas tenté d’expliquer pourquoi je devrais lui accorder l’autorisation de modifier son avis d’appel, sans mentionner le fait qu’il a omis de joindre l’avis d’appel modifié demandé.
+[26] Les arguments écrits de l’appelant illustrent de façon claire qu’il n’a aucunement l’intention de respecter les ordonnances de notre Cour, ou de concentrer son appel sur la question de la supposée déduction des dons de bienfaisance refusée ayant donné lieu à la nouvelle cotisation établie pour l’année d’imposition 2008.
+VII. Décisions antérieures [27] Ce n’est pas la première fois que l’appelant soulève ces mêmes arguments commerciaux pseudojuridiques organisés devant notre Cour.
+[28] Quand j’ai rendu mon ordonnance du 10 février 2023 radiant l’avis d’appel de l’appelant, je savais que l’appelant avait saisi la Cour d’une autre affaire. Le juge suppléant Jorré venait tout juste de prononcer une ordonnance demandant l’inscription au rôle pour audition de la demande présentée par l’appelant en vue d’obtenir une prorogation du délai pour interjeter appel de la nouvelle cotisation établie à son égard pour l’année d’imposition 2007[3].
+[29] L’avis d’appel proposé avec cette demande contenait le même charabia dénué de sens que celui utilisé par l’appelant dans le présent appel. Pour une raison quelconque, l’intimé avait consenti à la prorogation du délai. Le juge suppléant Jorré a été saisi de cette demande en sa qualité de juge de service. Il a refusé d’accorder la prorogation du délai, parce que, « de façon évidente à la première lecture, l’avis d’appel proposé [...] semble être sans fondement et ne démontre pas de moyens raisonnables d’appel ». Il a ordonné que la demande soit inscrite au rôle pour audition.
+[30] J’ai récemment appris que l’appelant avait également utilisé les mêmes arguments ridicules pour interjeter appel des cotisations établies à son égard pour les années d’imposition 2009 et 2010 et que, dans une décision rendue oralement, le juge Hogan avait radié l’avis d’appel de l’appelant sans autorisation de le modifier[4]. Je l’ai appris, car, alors que je mettais la dernière touche aux présents motifs, la Cour d’appel fédérale a rejeté l’appel déposé par l’appelant concernant la décision du juge Hogan[5].
+[31] Une recherche dans le greffe de la Cour révèle également que, le 20 décembre 2022, l’appelant a tenté de déposer un autre avis d’appel pour les années d’imposition 2007, 2009 et 2010, malgré le fait qu’il avait déjà déposé une demande de prorogation du délai pour interjeter appel pour l’année d’imposition 2007 et interjeté appel devant la Cour d’appel fédérale pour les années d’imposition 2009 et 2010. Le greffe a refusé à juste titre le dépôt.
+[32] S’il arrive à tirer une leçon de la décision rendue par la Cour d’appel fédérale, de la décision du juge Hogan, de l’ordonnance du juge suppléant Jorré et de ma décision, l’appelant cessera de déposer devant notre Cour des avis d’appel sans fondement. Il préparera également un avis d’appel adéquat concernant sa demande de prorogation du délai pour interjeter appel, qui ne reposera pas sur des arguments commerciaux pseudojuridiques organisés.
+[33] Si l’appelant ne tient pas compte de ces avertissements, sa demande de prorogation de délai pourrait être rejetée et il pourrait être condamné aux dépens.
+VIII. Conclusion [34] L’appelant a plus que suffisamment abusé des ressources et de la patience de la Cour. Son appel est rejeté.
+[35] Les dépens sont adjugés à l’intimé.
+Signé à Ottawa, Canada, ce 17e jour de mai 2023.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 19e jour d’avril 2024.
+Nathalie Ayotte, jurilinguiste
+RÉFÉRENCE :
+2023 CCI 70
+NO DU DOSSIER DE LA COUR :
+2019-1307(IT)G
+INTITULÉ :
+BRANDON OSADCHUK c. SA MAJESTÉ LE ROI
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Graham
+DATE DU JUGEMENT :
+Le 17 mai 2023
+PARTICIPANTS :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimé :
+Me Tokunbo Omisade Me Amy Kendell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimé :
+Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada
+[1] Cela ne veut pas dire que l’intimé ne devrait pas déposer de requête en radiation dans ces circonstances. L’intimé sera souvent mieux placé que la Cour pour reconnaître des arguments commerciaux pseudojuridiques organisés à une étape précoce de la procédure, et y répondre, préférablement avant de déposer une réponse.
+[2] Canada c. Dow Chemical Canada ULC, 2022 CAF 70, par. 78 à 80.
+[3] 2023 CCI 16.
+[4] Appel 2021-1118(IT)G, 2023 CCI 16.
+[5] 2023 CAF 82.

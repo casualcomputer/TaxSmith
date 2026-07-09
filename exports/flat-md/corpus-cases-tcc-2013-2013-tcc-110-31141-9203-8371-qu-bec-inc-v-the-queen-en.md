@@ -1,0 +1,141 @@
+---
+title: "9203-8371 Québec Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31141/index.do"
+last_modified: "2013-03-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 110"
+citation2: ""
+neutral_citation: "2013 TCC 110"
+decision_date: "2013-03-28"
+language: "en"
+item_id: "31141"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4741
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:13:12.520000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "75157a959c631297719ee44d24f348fcc1d8e81a17f7b455d97fc3499265fa25"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9203-8371 Québec Inc. v. The Queen
+
+- Citation: 2013 TCC 110
+- Decision date: 2013-03-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4741, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9203-8371 Québec Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-03-28
+Neutral citation
+2013 TCC 110
+File numbers
+2011-1947(GST)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+2013 TCC 110
+2011-1947(GST)G
+IN THE TAX COURT OF CANADA
+BETWEEN: 9203-8371 QUÉBEC INC. APPELLANT,
+-and-
+HER MAJESTY THE QUEEN RESPONDENT.
+BEFORE: The Honourable Justice Gaston Jorré
+PLACE: Montreal, Quebec
+DATE: March 28, 2013
+APPEARANCES: No one is present for the appellant
+Louis Riverain, for the respondent
+--- REASONS FOR DECISION ---
+COURT REGISTRAR: Nicole Champagne
+Hélène Amélie Boudreau-Laforge, Transcriber
+564 Route 280, Dundee, New Brunswick
+E8E 1Z1
+Telephone or Fax: (506) 826-1115
+TABLE OF CONTENTS
+WITNESS PAGE
+- Decision rendered orally 3-6
+***Please note that the words in quotation marks in the French original represent either words that are not in common French usage or words with improper agreement or that were mispronounced.
+***Please note that a word followed by (sic) indicates an obvious error by the speaker.
+DECISION RENDERED ORALLY BY THE HONOURABLE JUSTICE GASTON JORRÉ:
+[This version of the transcript is a revision of the transcript certified by the official stenographer that was made by the Judge to improve the reasons’ style and clarity.]
+CLERK:
+Hearing reconvened.
+THE HONOURABLE JUSTICE:
+I begin by noting that it is past 10:50 a.m. and there is still no one present for the appellant.
+The respondent has brought a motion to dismiss the appeal for want of prosecution on the part of the appellant. For the following reasons, I allow the motion.
+Obviously, when a person does not proceed with a case, an appeal may be dismissed for want of prosecution. However, in this case, there is another circumstance that I must consider.
+Yesterday afternoon, the Registry received a letter from counsel for the appellant. A copy of that letter was also sent to counsel for the respondent, but since he was away on business, he only became aware of the letter this morning.
+The letter was addressed to one of the Court’s hearings coordinators and it stated as follows:
+[Translation]
+We have been instructed and wish to advise the Court that our client has just put itself under the protection of the B.I.A. . . .
+I assume that stands for Bankruptcy and Insolvency Act.
+[Translation]
+... and that a trustee in bankruptcy has been retained in that regard.
+A notice of stay of proceedings will be filed in the record very shortly and, therefore, we will not be present in Court on March 28, 2013.
+Sincerely . . .
+And the letter is signed by counsel for the appellant. I am satisfied that section 29 does not apply for the reasons set out below.
+Subsection 29(1) of the Tax Court of Canada Rules (General Procedure) provides:
+Where at any stage of a proceeding the interest or liability of a person who is a party to a proceeding in the Court is transferred or transmitted to another person by assignment, bankruptcy, death or other means, no other proceedings shall be instituted until the Registrar is notified of the transfer or transmission and the particulars of it.
+Subsections (2) and (3) set out what happens if the section is applicable.
+Although the letter says that the appellant has put itself under the protection of the Bankruptcy and Insolvency Act, it does not say that the appellant filed an assignment or that a bankruptcy order was made. There is no evidence before me that an assignment was filed or that an order was made.
+Section 71 of the Bankruptcy and Insolvency Act provides that property is not vested in the trustee until an assignment is filed or a bankruptcy order is made.
+Accordingly, there was no transmission of an interest and section 29 of the General Procedure rules does not apply.
+I would add that I do not know exactly what is being referred to in the second paragraph of the letter received from counsel for the appellant yesterday, namely, the paragraph that says:
+A notice of stay of proceedings will be filed in the record very shortly . . . .
+If it is a notice of intention pursuant to section 50.4 of the Bankruptcy and Insolvency Act, this seems to suggest that it has yet to be filed. However, as I said, I do not know what is being referred to.
+I note that there is no evidence before me that a notice of intention within the meaning of the Bankruptcy and Insolvency Act has been filed.
+Also, I would add that, even if there were a notice of intention, it is not at all obvious to me that the stay of proceedings in section 69 of the Bankruptcy and Insolvency Act could apply in the case before me as section 69 stays any remedies that may be pursued by creditors. This appeal is an appeal by the taxpayer against an assessment. These are not proceedings brought by a creditor. In any case, as I said, there is no evidence that a notice of intention has been filed.
+In conclusion, section 29 of the General Procedure rules does not apply and, given the appellant’s failure to proceed with its appeal, the appeal is dismissed.
+Thank you.
+Translation certified true
+on this 17th day of July 2013.
+Erich Klein, Revisor
+CITATION: 2013 TCC 110
+COURT FILE NO.: 2011-1947(GST)G
+STYLE OF CAUSE: 9203-8371 QUÉBEC INC.
+v. THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: March 28, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: March 28, 2013
+DATE OF REASONS FOR JUDGMENT
+DELIVERED ORALLY: March 28, 2013
+DATE OF REVISED TRANSCRIPT
+OF REASONS FOR JUDGEMENT: April 17, 2013
+APPEARANCES:
+For the appellant:
+No one appeared
+Counsel for the respondent:
+Louis Riverin
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

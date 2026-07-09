@@ -1,0 +1,163 @@
+Title: Mullen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28676/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-294-28676-mullen-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-05-16
+
+# Mullen v. The Queen
+
+- Citation: 2008 TCC 294
+- Decision date: 2008-05-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1303, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mullen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-16
+Neutral citation
+2008 TCC 294
+File numbers
+2007-4224(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4224(IT)I
+BETWEEN:
+JAMES GORDON MULLEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 9, 2008, at Kingston, Ontario
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+George Boyd Aitken
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is dismissed. The appeal of the 2003 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to an additional capital loss amount of $9,464.84 as set out in paragraph 18 and Schedule 1 of the Reply to the Notice of Appeal.
+Signed at Ottawa, Canada, this 16th day of May, 2008.
+“G.A. Sheridan”
+Sheridan, J.
+Citation: 2008TCC294
+Date: 20080516
+Docket: 2007-4224(IT)I
+BETWEEN:
+JAMES GORDON MULLEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, James Mullen, is appealing the assessments of the Minister of National Revenue of his 2002 and 2003 taxation years. The Minister determined that in those years, for the purposes of the Income Tax Act, the Appellant was resident in Canada. Accordingly, he calculated the Appellant’s tax liability on his worldwide income pursuant to subsections 2(1) and (2) of the Act. The issue of the Appellant’s residency affects the calculation of the capital loss incurred upon the disposition of shares in 2002 and the valuation of the adjusted cost base of shares disposed of in 2003.
+[2] The Appellant represented himself at the Informal Procedure hearing of his appeals. In his Notice of Appeal, the Appellant maintains that he did not become a resident of Canada until January 7, 2002. Prior to that time, he was either resident in China (January 17, 1994 - September 15, 1999) or Thailand (September 15, 1999 - January 7, 2002).
+[3] The Respondent’s position is that the Appellant had sufficient ties to Canada from March 2, 1998 to December 31, 2003, to support the finding that during that period, he was factually resident in Canada; that he was “ordinarily resident” in Canada under the deeming provision in subsection 250(3); and that he was a resident under the treaty tie-breaker rules as contemplated by subsection 250(5) of the Act. The Minister’s reassessments were based on the assumptions regarding residency set out in subparagraphs 13(a) to (ee) of the Reply to the Notice of Appeal:
+Residency Issue
+a) The Appellant was working for Bristol Myers while in China from January 1994 until March 1998;
+b) The Appellant could stay in China until the end of November 1999;
+c) The Appellant and his spouse, Bonnie, kept ownership of a dwelling at 1564 Old Highway #2 in Belleville, Ontario (the “Belleville dwelling”) while he was working in China;
+d) The “Belleville dwelling” was empty from sometime in 1996 until the Appellant and his spouse returned to Canada’
+e) The Appellant and his spouse, Bonnie, returned to Canada on March 2, 1998;
+f) The Appellant retired from his employment with Bristol Myers in March of 1998;
+g) The Appellant had a Canadian passport;
+h) The Appellant has retained the same telephone number at the Belleville dwelling since the mid-1990’s;
+i) The Appellant had a Canadian international driver’s license;
+j) The Appellant had several bank accounts and credit cards from several countries, including Canada;
+k) On March 18, 1999, the Appellant sold his share of the Belleville dwelling to his spouse for a nominal amount of $2;
+l) In 1999, the Appellant transferred two vehicles to 1361272 Ontario Limited;
+m) The Head Office of 1361272 Ontario Limited was at the Belleville dwelling;
+n) The shareholders of 1361272 Ontario Limited were the Appellant, his spouse, his daughter, Lorine, and his son, Jeffrey;
+o) The Appellant returned to China on March 26, 1999 to find work;
+p) In April of 1999, the Appellant traveled to Thailand;
+q) The Appellant purchased a condominium unit in Kamala Beach, Phuket, Thailand on May 22, 1999;
+r) The Appellant’s spouse stayed behind at the Belleville dwelling until September 1999;
+s) In September of 1999, the spouse rejoined the Appellant in Thailand;
+t) In 2000 and 2001, the Appellant reported the rental income from the condominium unit in Kamala Beach to the authorities in Thailand.
+u) On September 8, 1999, the Appellant’s spouse sold the Belleville dwelling to her daughter, Lorine, and her son, Jeffrey, for $300,000;
+v) The Appellant and his spouse financed the sale of the Belleville dwelling to her daughter and their son through an on-demand mortgage;
+w) The mortgage was for $300,000 and comprised an interest rate of 5% per annum;
+x) The Appellant’s daughter and son did not pay any amounts (principal or interest) towards the mortgage;
+y) In November 2003, the Appellant’s daughter and son sold the Belleville dwelling back to the Appellant and his spouse for a nominal amount of $2;
+z) The Appellant owned shares from several U.S. based companies from 1999 through 2002;
+aa) The Appellant received dividends from U.S. based companies from 1999 through 2002;
+bb) From 1999 to 2002, the shareholders registry of the U.S. based companies had the Appellant’s place of residency as of 1564 Old Highway #2 in Belleville, Ontario, Canada;
+cc) The U.S. based companies withheld an amount of tax equal to 15% of the total amount of dividends;
+dd) In December 2001, the Appellant and his spouse returned to Canada to celebrate Christmas with the family;
+ee) The Appellant has not left Canada for an extensive time since December 2001;
+[4] I note as well that in paragraph 1(a) of the Reply to the Notice of Appeal, the Respondent admits “… that the Appellant was a Chinese resident from August of 1994 until March 2, 1998”. In paragraph 17 of the Reply to the Notice of Appeal, the Respondent pleads that “… pursuant to subparagraph 128.1(4)(b)(iv) of the Act, the Appellant was not deemed to have disposed (sic) his rights under a stock option plan at the time the Appellant became a non-resident of Canada in 1994”. [Emphasis added.] From this it seems that the Minister was of the view that the Appellant was a non-resident of Canada at least in 1994.
+[5] Although its determination may depend on evidence of a taxpayer’s activities in years other than the taxation years in issue, a determination of residency must be made for each taxation year under appeal. The present case concerns only the Appellant’s 2002 and 2003 taxation years. Because the Appellant admits that he was resident in Canada as of January 7, 2002 and throughout 2003, the only period for which a finding as to whether he was resident in Canada must be made is January 1-7, 2002.
+Evidence
+[6] In 1994, the Appellant and his spouse left Belleville, Ontario, and went to Guangzhou, China where he was employed by Bristol Myers. Prior to their departure, they sold their principal residence in Belleville. What furniture and belongings they did not sell or give away were moved into the property referred to in the Minister’s assumptions as the “Belleville dwelling”. Under the terms of his employment agreement, while in China, the Appellant was entitled to various benefits including medical and dental, tax equalization, home leave and a housing allowance. His employer paid for his furnished suite at the Pearl Ramada Inn. He paid income tax in China. He had bank accounts in New York and Hong Kong as well as an account in Canada with the Royal Bank of Canada which he maintained from at least 1993 to the date of the hearing of these appeals.
+[7] Although he had permission to remain in China until November 1999, as it turned out, the Appellant was laid off in March 1998. He and his spouse immediately returned to Canada. Although the Belleville dwelling had been leased when they left for China, by the time of their return on March 2, 1998 the lease had expired and they moved in while the Appellant considered his options. He ceased paying income tax in China concurrent with the termination of his employment in March 1998. The Appellant purchased a used car. He had reconnected in his own name the phone in the Belleville dwelling which during the period it had been leased was in the name of the former lessee. He had always maintained his Ontario driver’s licence and although while away he had private medical insurance, at no time did the Appellant cancel his provincial health care coverage.
+[8] While in Canada, he explored employment opportunities with his connections in China and on the Internet. In March 1999, the Appellant returned to China to look for work. Prior to his departure and in anticipation of finding employment outside Canada, he transferred the Belleville dwelling to his spouse for a nominal amount. He and his spouse transferred the ownership of their cars to the family’s holding company which was inactive and had no other assets.
+[9] Once in China, he returned to the same hotel where during his employment, he had been leasing a suite - this time, at his own expense. Despite enlisting the aid of a headhunter, job prospects in China proved “slim” and about this time, the Appellant abandoned his job search and decided to retire. In April 1999, he made a trip to Thailand with a view to relocating there; the following month he purchased a condominium at the Kamala Beach Estate.
+[10] Throughout this time, the Appellant’s spouse had remained in Canada at the Belleville dwelling. Although they had considered selling the Belleville dwelling, the Appellant testified that poor market conditions convinced them it would be better to transfer the property to their son and daughter. Explaining that “… my family views the [Belleville dwelling] as a family heirloom…”[1], the Appellant provided to the Court before-and-after photos of the Belleville dwelling[2] to illustrate how he and his family had:
+… bought it for a nominal amount and spent a lot of blood, sweat and tears building this into quite a nice dwelling. My wife, my son, my daughter, friends of my son were involved in the process, and rather than dump it off at less than market value because of Revenue Canada’s rules, we tried to cut our ties with Canada just so that there wouldn't be any problems like I am experiencing now. That is why we transferred it to them, because they wanted to keep it.[3]
+[11] Accordingly, in September 1999, prior to leaving Canada to join her spouse in China, the Appellant’s spouse transferred the Belleville dwelling to their son and daughter for $300,000. The entire purchase price was secured by a demand mortgage at an interest rate of 5% per annum; however, no amount was ever paid towards principal or interest during the term of the mortgage. It should be noted as well that throughout that time, the Appellant’s son and daughter each had other residential properties of their own in the Belleville area. While the daughter used the Belleville dwelling from time to time, the son tended to use it as often as he could whenever his parents were absent.
+[12] In September 1999 the Appellant’s spouse met the Appellant in China and they went from there to Thailand, bringing with them only personal effects and what the Appellant described as “knickknacks” to the condominium. Once there, they regularly travelled for pleasure in the Far East. When absent from the condominium, they often were able to rent it to vacationing ex-pats through the condominium administration. The Appellant reported and remitted tax (again, through the condominium administration) on the rental to the Thai tax authorities. Because it was his understanding that any income brought into Thailand would be taxable, he avoided doing so by opening bank accounts in Malaysia and Singapore. He was easily able to manage his funds electronically or during his visits to these areas. When in Thailand, he relied on a system of credits devised by the condominium administration to apply condominium fees and rent earned on his condominium to his living expenses. This arrangement and the low cost of living in Thailand allowed the Appellant to live comfortably without bringing any significant amounts into the country. (It seems from the Appellant’s evidence that at some point the Thailand tax authorities began to take a dim view of the condominium administration’s practices but that is not an issue for this Court.)
+[13] By 2001, the enthusiasm the Appellant and his spouse had once felt for Thailand began to wane. The search was on for a country with the same pleasant climate but without the increasingly precarious political situation. Ultimately, Costa Rica was chosen. According to the Appellant, there is no income tax in Costa Rica. In late April 2001 they travelled from Thailand to Canada and then in May, to Costa Rica where in June 2001 they purchased a condominium. They obtained temporary residence status from the country’s tourism department. The Appellant maintained his ownership of the condominium in Thailand until 2006.
+Legislation
+[14] The term “resident” is not defined in the Act other than to say that it includes a person who is “ordinarily resident in Canada”[4]. The leading case on the determination of residency is the Supreme Court of Canada decision Thomson v. Canada (Minister of National Revenue)[5] in which at pages 63 and 64 Rand, J. held that:
+…
+The gradation of degrees of time, object, intention, continuity and other relevant circumstances, shows, I think, that in common parlance "residing" is not a term of invariable elements, all of which must be satisfied in each instance. It is quite impossible to give it a precise and inclusive definition. It is highly flexible, and its many shades of meaning vary not only in the contexts of different matters, but also in different aspects of the same matter. In one case it is satisfied by certain elements, in another by others, some common, some new.
+The expression "ordinarily resident" carries a restricted signification, and although the first impression seems to be that of preponderance in time, the decisions on the English Act reject that view. It is held to mean residence in the course of the customary mode of life of the person concerned, and it is contrasted with special or occasional or casual residence. The general mode of life is, therefore, relevant to a question of its application.
+For the purposes of income tax legislation, it must be assumed that every person has at all times a residence. It is not necessary to this that he should have a home or a particular place of abode or even a shelter. He may sleep in the open. It is important only to ascertain the spatial bounds within which he spends his life or to which his ordered or customary living is related. Ordinary residence can best be appreciated by considering its antithesis, occasional or casual or deviatory residence. The latter would seem clearly to be not only temporary in time and exceptional in circumstance, but also accompanied by a sense of transitoriness and of return.
+But in the different situations of so-called "permanent residence", "temporary residence", "ordinary residence", "principal residence" and the like, the adjectives do not affect the fact that there is in all cases residence; and that quality is chiefly a matter of the degree to which a person in mind and fact settles into or maintains or centralizes his ordinary mode of living with its accessories in social relations, interests and conveniences at or in the place in question. It may be limited in time from the outset, or it may be indefinite, or so far as it is thought of, unlimited. On the lower level, the expressions involving residence should be distinguished, as I think they are in ordinary speech, from the field of "stay" or "visit". [Emphasis added.]
+…
+[15] This passage was applied in McFadyen v. R.[6], a General Procedure case in which the taxpayer was found not to have ceased to be a resident of Canada during the three-year period he was living in Japan with his spouse and young child. Notwithstanding that he had left Canada with the intention of not returning; had made “significant efforts not to return”[7]; was employed in Japan; had, prior to his departure, sold the matrimonial home and leased a second property in Canada; had terminated his provincial health coverage and had made efforts to put himself under the authority of the Japanese tax system, Chief Justice Garon held that the Appellant’s ties with Canada continued to be significant:
+…
+In my view of the evidence, the Appellant can be considered to have accompanied his spouse on a temporary, overseas posting. He returned to Canada on three occasions during his spouse's assignment to Japan. He maintained with his spouse two joint bank accounts in Canada, one was used for the mortgage in connection with one of their properties and the other was used for everything else including another mortgage. He owned two houses in Canada, one of which was later occupied as his home on his return to Canada after giving two months notice. He maintained at his own expense during the years in issue his professional membership in the Association of Professional Engineers in Ontario. The transitory nature of his posting in Japan is reflected by the storage of items of furniture, which were large and bulky, and appliances in Canada, the retaining of a safety deposit box and the maintaining of a registered retirement savings plan, a credit card, and a current Ontario driver's license. These ties were largely economical but in part personal.[8]
+[16] These factors were considered in Johnson v. R.[9] (also a General Procedure case) in which during the two-year period the taxpayer was living and working in the United Arab Emirates, he was held to have remained “ordinarily resident” in Canada. After comparing the taxpayer’s circumstances in preparation for the move, during his time in the UAE and upon his return to Canada to those of the taxpayer in McFadyen, Paris, J. found that “… the Appellant did not sever his residential ties with Canada when he left to work in the UAE in April 2001, and his ordinarily mode of living was in fact still centered in Canada …”[10].
+[17] From these decisions it can be seen that ending one’s residency in Canada is no simple thing. Like the unsuccessful taxpayers in McFadyen or Johnson, the Appellant also divested himself of his principal residence and vehicles; he intended to remain permanently employed outside of Canada; he made efforts to realize that intention; he organized his health insurance to have suitable coverage outside of Ontario; with the exception of 1998, he made only infrequent trips to Canada. These efforts in themselves fall short of establishing that he had severed his ties to Canada. In my view, they are further weakened by the additional facts set out below.
+[18] On March 2, 1998, the Appellant’s employment in China ceased. Retired or not, the fact is he did not obtain other employment in China or Thailand after that time. There was no foreign employment to diminish whatever links he may have had to Canada. He had bank accounts at various times in New York, Malaysia and Singapore. He never opened a bank account in Thailand, a deliberate choice based on his understanding of the attendant tax consequences. He also had a range of credit cards from various foreign banks. By contrast, no matter where he was in the world, he always maintained his Canadian bank account and his VISA credit card through the Royal Bank of Canada. I am not convinced by his assertion that this was just to take advantage of the “points” attached to the card. His entitlement to drive outside of Canada hinged on his proof of a valid Ontario driver’s licence. He used rented vehicles in Thailand whereas in Canada, he purchased a used car for his use. Although he ultimately divested himself of that car, by transferring it to the family’s holding company he maintained access to it. Although he acquired additional private health insurance while abroad, he never cancelled his Ontario medical insurance. Having had private coverage does little to enhance the Appellant’s position as even the most occasional traveller is likely to obtain additional health insurance while outside Canada. While in China and Thailand, he and his spouse had only personal effects with them; following the sale of his principal residence, all items of any significance to them were housed in the Belleville dwelling.
+[19] All of which brings me to what counsel for the Respondent described, quite rightly, as “the one constant” in the Appellant’s global wanderings: the Belleville dwelling. By his own admission, this property held great significance for the Appellant and his family. It was the fixer-upper which, by dint of hard work, they had converted to what could quite justifiably be called a “family heirloom”. Except for the two year-period it was leased to a third party when he first went to China, the Belleville dwelling remained readily available to the Appellant and his family. Its various transfers among family members were in no way indicative of the Appellant’s having severed his ties to it: regardless of whose name was on the title, it was always available to the Appellant and his spouse. They used it whenever in Canada, including during their annual Christmas visits. Though technically in his name, the Appellant’s son respected their priority by allowing his parents to use it and waiting for them to vacate the property before reoccupying it. When, at a certain point, marital problems threatened its status as a family asset, the Belleville dwelling was again transferred out of harm’s way. It was at all times the head office of the Appellant’s holding company. Following the departure of the lessee in 1996, its phone number remained unchanged, albeit in the name of one family member or another. The furnished accommodations at the hotel in China or the beach resort condo in Thailand never held a candle to the Belleville dwelling in terms of the Appellant’s emotional or economic investment in it. Indeed, after the Appellant’s employment ended in China, there was little to connect him with that country or Thailand, other than their attributes as bases from which to enjoy the Far East or, in the case of Thailand, to minimize tax liability. If home is where the heart is, the Appellant’s was in the Belleville dwelling.
+[20] As mentioned at the outset, although the Respondent maintains that from March 2, 1998 to December 31, 2003 the Appellant was resident in Canada, the only period for which that determination must be made for the purposes of these appeals is January 1-7, 2002. All in all, the evidence satisfies me that for that period, the place where the Appellant “… in mind and fact settle[d] into or maintain[ed] or centraliz[ed] his ordinary mode of living with its accessories in social relations, interests and conveniences…”[11] was with his family at the Belleville dwelling in Canada; accordingly, he was factually resident and therefore “ordinarily resident” in Canada from January 1-7, 2002. In reaching this conclusion, I am not suggesting that the Appellant did anything other than to try to arrange his affairs in accordance with his understanding of the indicia of non-residency published by the Canada Customs and Revenue Agency.
+[21] In view of the above, it is not necessary to consider whether the Appellant was resident in Canada under subsection 250(5) of the Act; however, I would add that there was insufficient evidence before me to satisfy the test set out by the Supreme Court of Canada in Crown Forest Industries Ltd. v. Canada[12], that the Appellant was “… subject to as comprehensive a tax liability as is imposed by a state …”; in this case, Thailand.
+[22] For the above reasons, the appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is dismissed. As for the appeal of the 2003 taxation year, at paragraph 18 of the Reply to the Notice of Appeal, the Respondent submits that the Minister miscalculated the adjusted cost base of the Appellant’s Bristol-Myers shares and that the Appellant is entitled to an additional capital loss amount. Accordingly, the appeal of the 2003 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to an additional capital loss amount of $9,464.84 as set out in paragraph 18 and Schedule 1 of the Reply to the Notice of Appeal.
+Signed at Ottawa, Canada, this 16th day of May, 2008.
+“G.A. Sheridan”
+Sheridan, J.
+CITATION: 2008TCC294
+COURT FILE NO.: 2007-4224(IT)I
+STYLE OF CAUSE: JAMES G. MULLEN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Kingston, Ontario
+DATE OF HEARING: April 9, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: May 16, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+George Boyd Aitken
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript page 70, lines 20 -21.
+[2] Exhibit A-24.
+[3] Transcript page 70, line 23 to page 71, line 7.
+[4] Subsection 250(3).
+[5] [1946] C.T.C. 51.
+[6] [2000] 4 C.T.C. 2573.
+[7] Above at paragraph 105.
+[8] Above at paragraph 104.
+[9] 2007 TCC 288, [2007] 4 C.T.C. 2359.
+[10] Above at paragraph 41.
+[11] Thomson, above.
+[12] [1995] 2 C.T.C. 64, at page 76.

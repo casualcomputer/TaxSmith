@@ -1,0 +1,201 @@
+---
+title: "Lawin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26810/index.do"
+last_modified: "2006-03-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 198"
+citation2: ""
+neutral_citation: "2006 TCC 198"
+decision_date: "2006-03-28"
+language: "en"
+item_id: "26810"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3132
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:13:11.405000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7e82ac71c9a7958f7bcbbfe87986254f7e203f47859e7c3d2aaf81a637aa051a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lawin v. The Queen
+
+- Citation: 2006 TCC 198
+- Decision date: 2006-03-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3132, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lawin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-28
+Neutral citation
+2006 TCC 198
+File numbers
+2005-2380(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2380(IT)I
+BETWEEN:
+LIANE G. LAWIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeal of Liane and Valery Lawin, Executors of the Estate of Karl S. Lawin (2005-2561(IT)I)
+on March 7, 2006 at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Sara Fairbridge
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2001, 2002 and 2003 base taxation years are dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of March 2006.
+"L.M. Little"
+Little J.
+Docket: 2005-2561(IT)I
+BETWEEN:
+LIANE AND VALERY LAWIN, EXECUTORS
+OF THE ESTATE OF KARL S. LAWIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Liane G. Lawin (2005-2380(IT)I) on March 7, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Liane Lawin
+Counsel for the Respondent:
+Sara Fairbridge
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 base taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of March 2006.
+"L.M. Little"
+Little J.
+Citation: 2006TCC198
+Date: 20060328
+Dockets: 2005-2380(IT)I
+2005-2561(IT)I
+BETWEEN:
+LIANE G. LAWIN,
+LIANE AND VALERY LAWIN, EXECUTORS
+OF THE ESTATE OF KARL S. LAWIN,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS:
+[1] The Appellant, Liane, was married to Karl Lawin in 1956.
+[2] Four children were born of the marriage.
+[3] The late Karl Lawin ("Karl") suffered a stroke in July 1998 and in December 1998 Karl suffered three additional strokes.
+[4] Karl was admitted to Eagle Ridge Manor in April 1999. Eagle Ridge Manor is a long-term care facility located at 475 Guildford Way in Coquitlam, British Columbia.
+[5] Karl was a permanent resident of Eagle Ridge Manor from April 1999 until he died on January 20, 2006. Liane Lawin and her daughter Valery Lawin are the Executors of Karl's Estate.
+[6] Liane Lawin ("Liane") attended at the Eagle Ridge Manor to care for her husband on a daily basis seven days per week from April 1999 until Karl's death in January 2006.
+[7] When Liane realized that Karl was permanently confined to Eagle Ridge Manor she took the position that she was separated from her husband. When Liane filed her personal income tax returns for the 2001, 2002 and 2003 taxation years, she maintained that she was separated from Karl.
+[8] By Notice of Redetermination dated April 5, 2005 the Minister of National Revenue (the "Minister") determined that Liane was married. As a consequence the Minister requested that the Appellant repay Goods and Services Tax imposed under the Excise Tax Act (the "Act") overpayments for the 2001, 2002 and 2003 taxation years.
+B. ISSUES:
+[9] The tax issues are:
+1. Whether the Minister properly calculated that Liane was entitled to Goods and Services Tax Credits for the 2001, 2002 and 2003 base taxation years; and
+2. Whether the Minister had properly determined that Karl was not entitled to the Goods and Services Tax Credit for the 2003 base taxation year.
+C. ANALYSIS AND CONCLUSION:
+[10] The Appellant, Liane, maintained that since Karl was confined to the Eagle Manor Nursing Home from April 1999 until he died in January 2006 she and Karl were living separate and apart due to a breakdown in their marriage or relationship.
+[11] The Appellant also maintained that since she was not cohabitating with her husband Karl in the taxation years referred to above, she was not required to include her income with the income of Karl for the purpose of determining her entitlement to the Goods and Services Tax Credit that is allowed under the Act.
+[12] The Appellant, Liane, testified that after her husband Karl died she acquired his interest in the family home since she was the surviving Joint Tenant. The Appellant also testified that she acquired other assets from her husband after his death.
+[13] Based on the evidence that was presented to me I have concluded that the Appellant, Liane and the Appellant, Karl were living separate and apart because of Karl's mental and physical impairment and were not living separate and apart due to a breakdown in their marriage or relationship.
+[14] It therefore follows that the Minister was correct when he calculated the amount of Goods and Services Tax Credit to which Liane was entitled for the 2001, 2002 and 2003 base taxation years on the basis that Liane and Karl were not living separate and apart because of a breakdown in their marriage or relationship but were cohabitating spouses as defined in section 122.6 of the Act.
+[15] I have also concluded that the Minister was correct when he calculated that Karl was not entitled to a Goods and Services Tax Credit for the 2003 base year since Karl was the cohabitating spouse of Liane as defined in section 122.6 of the Act.
+[16] Before concluding my comments, I wish to commend Liane for her outstanding dedication to Karl since she visited him to feed and provide care and comfort every day for more than six years.
+[17] The appeals are dismissed, without costs.
+Signed at Ottawa, Canada, this 28th day of March 2006.
+[18]
+"L.M. Little"
+Little J.
+CITATION:
+2006TCC198
+COURT FILE NO.:
+2005-2380(IT)I
+STYLE OF CAUSE:
+Liane G. Lawin and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+March 7, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+March 28, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Sara Fairbridge
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+CITATION:
+2006TCC198
+COURT FILE NO.:
+2005-2561(IT)I
+STYLE OF CAUSE:
+Liane and Valery Lawin, Executors of the Estate of Karl S. Lawin and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+March 7, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+March 28, 2006
+APPEARANCES:
+Agent for the Appellant:
+Laine G. Lawin
+Counsel for the Respondent:
+Sara Fairbridge
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

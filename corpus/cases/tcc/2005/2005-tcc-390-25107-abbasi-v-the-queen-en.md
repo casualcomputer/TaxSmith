@@ -1,0 +1,123 @@
+---
+title: "Abbasi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25107/index.do"
+last_modified: "2005-06-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 390"
+citation2: ""
+neutral_citation: "2005 TCC 390"
+decision_date: "2005-06-17"
+language: "en"
+item_id: "25107"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2543
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:37:34.621000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c8769858fc18403094b1fa3abe90efe2a9d2dadcdee3ef752b8cf13bdcec4e05"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Abbasi v. The Queen
+
+- Citation: 2005 TCC 390
+- Decision date: 2005-06-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2543, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abbasi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-17
+Neutral citation
+2005 TCC 390
+File numbers
+2004-1243(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1243(IT)I
+BETWEEN:
+MAHMOOD ABBASI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard at Toronto, Ontario on May 18, 2005
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Agent for the Appellant:
+Rajesh Sharma
+Counsel for the Respondent:
+Eric Sherbert
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed in respect of the personal consumption issue only, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that there was no personal consumption of inventory by the Appellant in the 1999 or 2000 taxation years.
+Signed at Ottawa, Canada, this 17th day of June, 2005.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2005TCC390
+Date: 20050617
+Docket: 2004-1243(IT)I
+BETWEEN:
+MAHMOOD ABBASI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Mahmood Abbasi, is appealing the reassessments of the Minister of National Revenue for his 1999 and 2000 taxation years. During these years, Mr. Abbasi was the sole proprietor of ATF Bargain, a discount store he ran in addition to his full-time employment as a chemist. The store carried the inventory typical of such stores: dollar items, candies, cigarettes, small hardware and kitchenware, toys, stationery supplies and other sundries. Almost all sales were cash transactions, with only the occasional debit or credit card purchase. The issue is whether the Minister correctly reassessed Mr. Abbasi for (1) understated sales; and (2) personal consumption of ATF Bargain's inventory.
+Understated Sales
+[2] Mr. Abbasi employed his wife, Salima, on a full-time basis and various others, as casual workers. Salima was paid in cash from the ATF Bargain cash register; the part-time staff was generally paid by cheque. Inventory was purchased sometimes in cash, sometimes by cheque depending on the supplier or the size of the order. In 2002, Canada Customs and Revenue Agency audited the business. Mr. Fazal was assigned the Abbasi file. He reviewed the weekly-monthly cash register receipts, the spread sheets prepared by Mr. Abbasi to keep track of GST on sales and the total deposits as shown in the bank statements. He identified payments according to whether they had been made by cheque or in cash for each of inventory and expenses. He tallied the salaries paid and, in the case of Salima, cross-referenced them with the amounts shown in her T-4 slip. Because the business had not been prospering in 1999 and 2000, Mr. Abbasi had had to top up the store's operating account from time to time with his own money. These amounts Mr. Fazal deducted from the above totals. At the end of this exercise, the auditor concluded there were understated sales of $27,504.50 and $29,829.78 for 1999 and 2000, respectively and Mr. Abbasi was reassessed accordingly.
+[3] There is no doubt that Mr. Abbasi worked hard to make the store a success. He was a "hands-on" manager. After working all day as a chemist, he spent evenings and weekends with his wife at ATF Bargain. He also kept the books and prepared his and his wife's income tax returns, as well as T-4 slips and payroll remittances. Though he had no expertise at such tasks, Mr. Abbasi was reasonably careful in entering data in those records he did keep. When the audit occurred, he provided what records he had to the auditor but was unable to account, to the Minister's satisfaction, for the shortfall identified by the auditor between the reported income of ATF Bargain and the total amounts paid out.
+[4] The onus of proving wrong the assumptions upon which the Minister based his reassessments rests with the taxpayer who is similarly obliged under the Income Tax Act to keep adequate books and records. In a self-reporting tax system, the taxpayer's best defense against ministerial doubt is to have clear and accurate records to substantiate the claims made in his returns.
+[5] Mr. Abbasi attempted to explain the discrepancies identified by the auditor in his testimony. Unfortunately, his practice of making cash payments and of not keeping complete records of such transactions made this an impossible task. In the face of the auditor's methodical and thorough examination of the records available, Mr. Abbasi was unable to provide sufficient evidence to rebut the Minister's assumptions. Having listened to the auditor's testimony of the steps taken to ferret out the gap in the books and having reviewed carefully the records filed as exhibits, I am not persuaded that the Minister got it wrong. I do not attribute any devious motives to Mr. Abbasi; his difficulties stem from inadequate records-keeping, and especially risky practice in a cash-based business. Accordingly, in respect of the understated income, I find that the Minister's reassessments were correctly made.
+Personal Consumption of Inventory
+[6] As for the second matter, the personal consumption of inventory estimated by the auditor to be $1,900, I accept Mr. Abbasi's evidence that it was not his practice to use the store goods for his family's own consumption. The auditor's testimony revealed that his conclusions were based on general impressions of Mr. Abbasi, and on what others in a similar business might do. He did not question Mr. Abbasi directly about his suspicions; rather, he made inferences from his own admittedly limited observations. I am not satisfied that there was sufficient factual basis for the Minister's reassessments on this ground; accordingly, the appeals are allowed in respect of the personal consumption issue only, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that there was no personal consumption of inventory by the Appellant in the 1999 or 2000 taxation years.
+Signed at Ottawa, Canada, this 17th day of June, 2005.
+"G. Sheridan"
+Sheridan, J.
+CITATION: 2005TCC390
+COURT FILE NO.: 2004-1243(IT)I
+STYLE OF CAUSE: Mahmood Abbasi v. H.M.Q.
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 18, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice G. Sheridan
+DATE OF JUDGMENT: June 17, 2005
+APPEARANCES:
+Agent for the Appellant:
+Rajesh Sharma
+Counsel for the Respondent:
+Eric Sherbert
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

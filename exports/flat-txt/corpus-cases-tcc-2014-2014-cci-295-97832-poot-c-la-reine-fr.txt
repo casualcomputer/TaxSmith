@@ -1,0 +1,144 @@
+Title: Poot c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/97832/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-295-97832-poot-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-09-30
+
+# Poot c. La Reine
+
+- Citation: 2014 CCI 295
+- Decision date: 2014-09-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5174, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poot c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-09-30
+Référence neutre
+2014 CCI 295
+Numéro de dossier
+2014-426(IT)APP
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-426(IT)APP
+ENTRE :
+LAURENA POOT,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2014-723(IT)APP
+ET ENTRE :
+JEROME POOT,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demandes entendues le 15 septembre 2014, à Calgary (Alberta).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Représentant des requérants :
+M. Amyn Vassanji
+Avocate de l’intimée :
+Me Paige MacPherson
+ORDONNANCE
+VU la demande présentée par Laurena Poot et Jerome Poot en vertu de la Loi de l’impôt sur le revenu afin que la Cour prenne les mesures correctives suivantes :
+[…] contrôler la décision du chef des Appels et enjoindre à l’Agence du revenu du Canada (i) d’accueillir l’avis d’opposition et (ii) d’examiner la demande d’allègement fiscal présentée en vue de l’obtention d’une renonciation aux intérêts et aux pénalités;
+LA COUR ORDONNE que les demandes soient rejetées.
+Signé à Toronto (Ontario), ce 30e jour de septembre 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 29e jour d’octobre 2014.
+S. Tasset
+Référence : 2014 CCI 295
+Date : 20140930
+Dossier : 2014-426(IT)APP
+ENTRE :
+LAURENA POOT,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Docket: 2014-723(IT)APP
+ET ENTRE :
+JEROME POOT,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Woods
+Introduction [1] Laurena Poot et Jerome Poot ont demandé à la Cour de prendre des mesures correctives à l’égard des décisions rendues par le ministre du Revenu national en date du 4 novembre 2013 et aux termes desquelles ce dernier a refusé de proroger le délai imparti pour la signification d’un avis d’opposition sous le régime de la Loi de l’impôt sur le revenu relativement à l’année d’imposition 2000 (avis d’appel, alinéa b)).
+[2] Les mesures correctives demandées sont énoncées en ces termes à l’alinéa g) des avis d’appel :
+[…] contrôler la décision du chef des Appels et enjoindre à l’Agence du revenu du Canada (i) d’accueillir l’avis d’opposition et (ii) d’examiner la demande d’allègement fiscal présentée en vue de l’obtention d’une renonciation aux intérêts et aux pénalités;
+[3] La seule question que la Cour peut à juste titre examiner est la question de savoir s’il y a lieu de proroger le délai imparti pour le dépôt d’avis d’opposition aux nouvelles cotisations établies à l’égard de l’année d’imposition 2000. La Cour peut accorder une telle prorogation en vertu du paragraphe 166.2(1) de la Loi de l’impôt sur le revenu si les conditions qui y sont prévues sont remplies.
+[4] Comme nous l’avons signalé plus haut, les requérants sollicitent d’autres types de mesures correctives. Ces dernières ne peuvent être accordées du fait que la Cour n’a pas compétence sur ces questions. Plus particulièrement, la Cour n’a pas le pouvoir d’ordonner à l’Agence du revenu du Canada d’accueillir un avis d’opposition à moins d’être saisie d’un appel en bonne et due forme; de même, la Cour ne peut pas accueillir une demande d’allègement fiscal visant la renonciation aux intérêts et aux pénalités. En règle générale, c’est la Cour fédérale, et non la Cour de l’impôt, qui peut statuer sur les demandes d’allègement fiscal.
+Analyse [5] La Cour ne pouvant accorder les mesures correctives souhaitées par les requérants, il convient de se demander s’il y a lieu qu’elle rende une ordonnance prorogeant le délai de production des avis d’opposition aux nouvelles cotisations. Les conditions applicables à cet égard sont précisées au paragraphe 166.2(5) de la Loi, que je reproduis ici.
+166.2(5) Acceptation de la demande - Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour signifier l’avis ou présenter la requête, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+[6] Les observations qui ont été présentées pour le compte des requérants se concentrent sur les dispositions de l’alinéa b). Ainsi, on a fait valoir que les requérants avaient véritablement l’intention de faire opposition, qu’il serait juste et équitable de faire droit à la demande et que les appels sont fondés sur des moyens valables.
+[7] Cet argument me pose un problème, en ce sens qu’il ne suffit pas que les requérants satisfassent aux seules conditions énoncées à l’alinéa b). Ils doivent également satisfaire à celles de l’alinéa a). La Loi ne laisse planer aucun doute à cet égard en précisant que la demande ne peut être accueillie que « si les conditions suivantes sont réunies ».
+[8] En l’espèce, le représentant des requérants semble admettre que les conditions de l’alinéa 166.2(5)a) ne sont pas remplies.
+[9] Suivant l’alinéa 166.2(5)a), la demande de prorogation de délai doit être présentée au ministre dans le délai imparti, qui en l’occurrence expirait le 4 octobre 2008. Malheureusement pour les requérants, il n’y a pas de preuve que cela a été fait.
+[10] Bien que les requérants et leur comptable aient correspondu avec l’Agence du revenu du Canada (ARC) avant l’échéance du 4 octobre 2008, aucune de leurs lettres ne peut à juste titre être considérée comme une demande de prorogation de délai ou un avis d’opposition.
+[11] La première communication écrite est formée de lettres non datées envoyées par le comptable des requérants, Barry Mitchell (pièces A‑2 et A‑3). L’ARC les a reçues le 16 janvier 2007 (pièce R‑1).
+[12] On prétend que ces lettres seraient des avis d’opposition à de nouvelles cotisations [traduction] « en instance ». Il n’a pas été possible d’obtenir le témoignage de M. Mitchell quant aux circonstances entourant l’envoi de ces lettres puisqu’à la même époque, ce dernier est malheureusement tombé très malade puis est décédé.
+[13] Il est clair, d’après la réponse donnée par l’ARC à ces lettres, que celles‑ci se voulaient une réponse à des « lettres de proposition » envoyées par l’ARC. Cette dernière informait les requérants du fait que les renseignements fournis ne constituaient pas une réponse satisfaisante à ses lettres de proposition et que des avis de nouvelle cotisation leur parviendraient en temps utile. Elle les informait également du fait qu’ils devaient déposer des avis d’opposition s’ils souhaitaient s’opposer à ces nouvelles cotisations.
+[14] En pareilles circonstances, il ne serait pas raisonnable d’assimiler les lettres écrites par M. Mitchell à des avis d’opposition aux nouvelles cotisations. Je souscris aux commentaires de l’avocate de l’intimée, qui soutient qu’il est possible d’établir une distinction entre les faits de l’espèce et ceux de l’affaire Persaud c La Reine, 2013 CCI 405.
+[15] M. Poot a par la suite envoyé une lettre qu’il a adressée [traduction] « à qui de droit ». Dans cette lettre, qui porte la date du 3 novembre 2007, il demande au ministre de renoncer aux intérêts et aux pénalités.
+[16] La lettre n’est pas présentée comme un avis d’opposition et il serait inapproprié de considérer qu’il s’agit d’un tel avis. Si on se fie au témoignage de M. Poot et au contenu de la lettre, il semble que cette dernière visait à demander un allègement fiscal sous forme de renonciation aux intérêts et aux pénalités pour des motifs liés à l’équité. Il ne s’agit donc pas là d’un avis d’opposition.
+[17] Je suis arrivée à la conclusion que les requérants n’ont pas rempli les conditions énoncées à l’alinéa 166.2(5)a) et qu’il faut par conséquent rejeter les demandes.
+Signé à Toronto (Ontario), ce 30e jour de septembre 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 29e jour d’octobre 2014.
+S. Tasset
+RÉFÉRENCE :
+2014 CCI 295
+NOS DES DOSSIERS DE LA COUR :
+2014-426(IT)APP
+2014-723(IT)APP
+INTITULÉS :
+LAURENA POOT c SA MAJESTÉ LA REINE
+JEROME POOT c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 15 septembre 2014
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Judith Woods
+DATE DE L’ORDONNANCE :
+Le 30 septembre 2014
+COMPARUTIONS :
+Représentant des requérants :
+M. Amyn Vassanji
+Avocate de l’intimée :
+Me Paige MacPherson
+AVOCATS INSCRITS AU DOSSIER :
+Pour les requérants :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa (Ontario)

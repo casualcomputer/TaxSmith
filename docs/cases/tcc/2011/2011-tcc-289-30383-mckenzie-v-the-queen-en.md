@@ -1,0 +1,224 @@
+---
+title: "McKenzie v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30383/index.do"
+last_modified: "2011-06-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 289"
+citation2: ""
+neutral_citation: "2011 TCC 289"
+decision_date: "2011-06-09"
+language: "en"
+item_id: "30383"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7854
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:32:25.820000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e1c184d66b94cdcd72886ca89d99bb41b87c79fa4df8ba4832167b7c05982a21"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McKenzie v. The Queen
+
+- Citation: 2011 TCC 289
+- Decision date: 2011-06-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7854, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKenzie v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-09
+Neutral citation
+2011 TCC 289
+File numbers
+2009-2898(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009‑2898(IT)G
+BETWEEN:
+SHIRLEY PATRICIA MCKENZIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 27 2011, at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+David C. Nathanson, Q.C.
+Adrienne K. Woodyard
+Counsel for the Respondent:
+Donna Dorosh
+Darren Prevost
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act with respect to the appellant’s 2006 taxation year is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 9th day of June 2011.
+"Patrick Boyle"
+Boyle J.
+Citation: 2011 TCC 289
+Date: 20110609
+Docket: 2009‑2898(IT)G
+BETWEEN:
+SHIRLEY PATRICIA MCKENZIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] The sole issue in this case is whether property of a trust has been distributed to an income beneficiary of a trust for purposes of subsections 106(2) and (3) of the Income Tax Act (the “Act”).
+[2] There are no material facts in dispute. The parties filed a Partial Agreed Statement of Facts, a copy of which is annexed hereto. The parties also filed a Joint Book of Documents. Three witnesses were called: the taxpayer income beneficiary and her two lawyers from a prominent national firm, one a well‑recognized estates and trusts specialist and the other the commercial litigator who pursued the taxpayer’s civil lawsuit which gave rise to the termination of the trust. Taxpayer’s counsel also read in from the transcripts of the examination for discovery of the Canada Revenue Agency (“CRA”) auditor. The Crown did not call any witnesses but did read in additional portions of the CRA auditor’s examination for discovery. There are no issues of credibility with respect to the witnesses’ testimony.
+I. Facts
+[3] The taxpayer was a long‑serving senior officer employed by Swiss Herbal Remedies Limited (“Swiss Herbal”), a well‑known Canadian supplier of vitamins, nutritional supplements and other natural health products. When she started with the company as a bookkeeper in 1977, the company was wholly‑owned by Mr. Zimmermann. Following a reorganization in 1978, she became the Office Manager and rose to Vice-President, a position she held for many years before being terminated in November 2003.
+[4] Mr. Zimmermann made his last will and testament in 1978. One of his daughters, Barbara McKerrell, and his solicitor, Theodore Herman, were appointed trustees and executors of the will and trustees of the trusts established under the will. The only relevant assets of Mr. Zimmermann, when he died later in 1978, were his shares of Swiss Herbal.
+[5] Under the will, Mr. Zimmermann’s shares were divided in five equal tranches, each representing 20% of Swiss Herbal. One share went outright to his daughter Barbara McKerrell. A second share was held in trust for his wife as to a life interest, including as to profit participation, and which upon her death went outright to Barbara McKerrell. A third share was held in trust for another daughter as to a similar life interest and similarly thereafter to Barbara McKerrell. A fourth share was held in trust for M. Zimmermann’s solicitor, Mr. Herman who was also co‑executor and co‑trustee as to a similar life interest and similarly thereafter to Barbara McKerrell.
+[6] The fifth share is the share of which Ms. McKenzie was an income beneficiary. Under the will, this was held in trust for the taxpayer as to a life interest, including profit participation and voting, and similarly thereafter to Barbara McKerrell. In Ms. McKenzie’s case however, her life interest would terminate if she ceased to be a full‑time employee of Swiss Herbal either because she left the company or was terminated for cause.
+[7] Mr. Zimmermann gave Ms. McKenzie this 20% income interest in the company to retain her as a long‑term employee following his death in order to ensure that Swiss Herbal was in good hands and would continue to be owned by, and provide for, his family following his death. Mr. Zimmermann expressed confidence in the taxpayer’s hard work and financial and management abilities and wanted to ensure she was motivated to work hard and successfully for her family given her 20% income interest, and told her that his family would therefore benefit as to the other 80% at the same time. This is consistent with the continued employment condition attached to the taxpayer’s income interest.
+[8] It is clear that this income interest was given to the taxpayer to motivate her to stay on with the company and to make the company profitable after the owner/operator’s death. The evidence is clear that the only relationship between the taxpayer and Mr. Zimmermann was her employment by his company Swiss Herbal. There is no indication anyone ever considered whether such a benefit gave rise to a taxable employment benefit at the time of Mr. Zimmermann’s death or thereafter, nor how any such benefit should be valued. The respondent does not seek to tax the amounts in question for the year 2006 as employment income in any manner.
+[9] It is fair to say that the relationship between the capital beneficiary, Barbara McKerrell, and the taxpayer was difficult at times following Mr. Zimmermann’s death. The taxpayer carried on as the number two person at Swiss Herbal for a long number of years.
+[10] The shares of Swiss Herbal owned by the trust were subject to a deemed disposition and realization of the accrued capital gains in 1999 in accordance with the 21-year deemed disposition rule in the Act. However, the capital beneficiary and income beneficiary and their advisors could not agree on how the money would be raised to pay the tax owing, how the tax should be borne as between the capital and income beneficiaries, or how the interest on any borrowing to pay the tax would be allocated between them. The 1.4 million dollars of tax went unpaid and interest and penalties accrued increasing the amount ultimately to 1.7 million dollars. Negotiations and attempted mediation were unsuccessful. The income of the trust was not paid out to the taxpayer following the deemed disposition because of the accruing tax liability. In 2002, it was agreed that the taxes would be paid by the trust from the 2 million dollars of undistributed dividends to stop the compounding interest. However no agreement was reached on how the tax should be borne as between the capital and income beneficiaries.
+[11] By 2003, the capital beneficiary had enough shares to give her majority control of Swiss Herbal. The taxpayer was removed as a director in February 2003 and her employment was terminated in November 2003.
+[12] The taxpayer commenced a lawsuit against the company, the trustees of her trust, the capital beneficiary thereof, Barbara McKerrell, and Ms. McKerrell’s husband. In addition to a wrongful dismissal claim, the taxpayer was also making claims in respect of her life interest in the trust, the unpaid income of the trust for a number of years being the dividends received by the trust on its Swiss Herbal shares, and that the capital gains tax in respect of the deemed disposition of the Swiss Herbal shares should be borne by the capital beneficiary. Among the relief claimed was an oppression remedy winding up Swiss Herbal as well as a 5 million dollar punitive damages claim. In the words of Mr. Chapman, the commercial litigator pursuing her claim, this was complex litigation involving a number of complex issues and was not garden‑variety litigation.
+[13] The taxpayer’s civil claim was never litigated but was successfully settled through a mediation process led by a retired Ontario judge. Under the terms of the Settlement Agreement, it was agreed that the trust would acquire the taxpayer’s entire income interest in the trust upon payment to her in satisfaction of her income interest the sum of 1.7 million dollars. The Settlement Agreement also provided for payment by the trust to the taxpayer of the money used to pay the capital gains tax, the remaining undistributed accumulated dividends, and an amount in partial reimbursement of her legal costs.
+[14] The Settlement Agreement on this point clearly uses language that tracks the language of subsections 106(2) and (3). Ms. Rocchi testified that both parties intended this structure to be available given the agreement of the beneficiaries and reliance upon the rule in Saunders v. Vautier.[1] She also testified that the Settlement Agreement language was drafted by the capital beneficiary’s lawyers and she verified that it indeed tracked the language of subsections 106(2) and (3).
+[15] The taxpayer had obtained a professional valuation of her life interest at 4 to 6 million dollars prior to agreeing to the settlement. The taxpayer testified she understood that the amount provided for in the Settlement Agreement was to be received free of tax in the circumstances and could thus equate 1.7 million dollars after tax with the 3 million dollars plus she was seeking as her minimum given the pre‑tax valuation she had obtained.
+[16] The settlement provided for in the Settlement Agreement was implemented in accordance with a Termination Agreement. The Termination Agreement signed by the two beneficiaries and the trustee of the trust provided for the termination of the trust following the payment to the income beneficiary of 1.7 million dollars, such payment to be made out the capital of the trust.
+[17] Upon the closing of the transactions, the trust sold its shares of Swiss Herbal to a numbered company owned, directly or indirectly, by Barbara McKerrell and/or her husband in exchange for a promissory note for an amount in excess of 1.7 million dollars. The closing of the transactions provided for in the Termination Agreement were coordinated by two major national law firms. The trust then issued to the taxpayer a promissory note for 1.7 million dollars. The trust’s law firm provided a certified trust cheque payable to the taxpayer in the amount of 1.7 million dollars to discharge and cancel the trust’s promissory note and the trust was thereafter wound up by the remaining sole beneficiary, Barbara McKerrell. These transactions were all executed and closed in escrow pending completion of all of the steps. There was no specified ordering of the listed transactions. It is entirely clear on the evidence that the trust legally disposed of the shares and became the owner of the numbered company purchaser’s promissory note, that the trust then issued its promissory note to the taxpayer and, by proper and valid directions to the numbered company, paid 1.7 million dollars to the taxpayer in reduction of the numbered company’s promissory note to the trust. There is no evidence whatsoever to the contrary.
+II. Law
+[Income Tax Act]
+106(2) Disposition by taxpayer of income interest — Where in a taxation year a taxpayer disposes of an income interest in a trust,
+(a) except where subsection (3) applies to the disposition, there shall be included in computing the taxpayer’s income for the year the amount, if any, by which
+(i) the proceeds of disposition
+exceed
+(ii) where that interest includes a right to enforce payment of an amount by the trust, the amount in respect of that right that has been included in computing the taxpayer’s income for a taxation year because of subsection 104(13);
+(b) any taxable capital gain or allowable capital loss of the taxpayer from the disposition shall be deemed to be nil; and
+(c) for greater certainty, the cost to the taxpayer of each property received by the taxpayer as consideration for the disposition is the fair market value of the property at the time of the disposition.
+106(3) Proceeds of disposition of income interest — For greater certainty, where at any time any property of a trust has been distributed by the trust to a taxpayer who was a beneficiary under the trust in satisfaction of all or any part of the taxpayer’s income interest in the trust, the trust shall be deemed to have disposed of the property for proceeds of disposition equal to the fair market value of the property at that time.
+106(2) Disposition par un contribuable d’une participation au revenu — Lorsque, au cours d’une année d’imposition, un contribuable dispose d’une participation au revenu d’une fiducie, les règles suivantes s’appliquent :
+a) sauf dans le cas où le paragraphe (3) s’applique à la disposition, l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) doit être inclus dans le calcul du revenu du contribuable pour l’année :
+(i) le produit de disposition,
+(ii) si la participation en question comprend le droit d’exiger de la fiducie le versement d’une somme, le montant relatif à ce droit qui a été inclus dans le calcul du revenu du contribuable pour une année d’imposition par l’effet du paragraphe 104(13);
+b) le montant de tout gain en capital imposable et de toute perte en capital déductible du contribuable, provenant de la disposition, est réputé nul;
+c) il est entendu que le coût supporté par le contribuable pour chaque bien qu’il a reçu en contrepartie de la disposition est la juste valeur marchande de chaque bien au moment de la disposition.
+106(3) Produit de disposition d’une participation au revenu — Il est entendu que, lorsque, à un moment donné, un bien appartenant à une fiducie a été attribué par celle-ci à un contribuable qui était bénéficiaire de cette fiducie, à titre de contrepartie totale ou partielle de sa participation au revenu de la fiducie, la fiducie est réputée avoir disposé du bien moyennant un produit égal à la juste valeur marchande du bien à ce moment.
+III. Positions of the Parties
+[18] It is the taxpayer’s position that the exception to the application of paragraph 106(2)(a), where subsection 106(3) applies to the disposition of the income interest by the taxpayer, applies in this case. Subsection 106(3) applies when property of the trust has been distributed by the trust in satisfaction of all or any part of the taxpayer’s income interest in the trust. It is the taxpayer’s position that each of these three requirements is met: (i) that the 1.7 million dollars received by the taxpayer from the trust was property of the trust when paid; (ii) that the payment constituted a distribution by the trust of that property; and (iii) that this was in satisfaction of all of her income interest in the trust.
+[19] It is the respondent’s position that (i) the 1.7 million dollars received by the taxpayer was property of the BC numbered company when the appellant received it, as the cash had never been held by the trust but directions were used instead; and (ii) the 1.7 million dollars was not distributed to the taxpayer, rather the trust’s property, being the Swiss Herbal shares, was distributed in favour of Barbara McKerrell. In support of the latter position, the respondent maintains that the property was not distributed in accordance with the terms of the trust, therefore could not have been distributed in satisfaction of the taxpayer’s income interest in the trust, and the rule in Saunders v. Vautier does not permit the amendment of the trust to provide for such a distribution right or obligation. Further, the rule in Saunders v. Vautier could not apply to the transactions implemented in accordance with the Termination Agreement and the Settlement Agreement, and the trustee of the trust thereby was not acting in accordance with her fiduciary obligations, when the trust paid the amount to the taxpayer prior to the trust being wound up.
+[20] The Crown relies very heavily upon the Federal Court of Appeal’s decision in Chan v. The Queen, 2001 FCA 302, 2001 DTC 5570, which upheld the Tax Court’s decision, 99 DTC 1215.
+IV. Analysis
+[21] I am entirely satisfied on the evidence that the 1.7 million dollars received by the taxpayer from the trust was property of the trust. There is no evidence to the contrary. There is no reason to think that cash need to have been moved between the parties. This was not an ineffective or unimplemented transaction. Clearly the BC numbered company had the cash, the trust’s law firm was put in funds, and the law firm’s certified trust cheque was credited for cash when presented. It is difficult to see how the respondent could think there would have been a need to actually deliver cash from the trust, or think that the delivery of the trust’s promissory note to the taxpayer was in these circumstances any different than the delivery by the trust of a certified cheque or money order from the trust’s bank. Neither would actually be cash. Surely the respondent would not seriously have contested a bill of exchange involving a bank and I have been provided with no persuasive argument that enforceable promissory notes from solvent entities should be treated any differently. The respondent cannot succeed on its first argument.
+[22] As to whether the trust distributed the 1.7 million dollars to the taxpayer, I am unable to see how it could be considered to have done otherwise. There is no apparent reason put forward to suggest that the term “distributed” should not be given its ordinary meaning. Indeed, the pending amendments to the French version of the subsection, which will change “allocated to” to “distributed to”, supported by the government’s explanation that “distributed” was the intended concept, is consistent with giving the word “distributed” its ordinary meaning. Black's Law Dictionary defines “distribute” as including “to deliver” and “trust distribution” as cash or other property paid or credited to a trust beneficiary.
+[23] The Crown is relying almost entirely upon the decision of the Federal Court of Appeal in Chan which it maintains is virtually on all fours with, and indistinguishable from, the taxpayer’s situation. With respect, it is clear from a reading of both the Tax Court judge’s decision in Chan and the Federal Court of Appeal’s decision that the Chan case involved fundamentally different facts.
+[24] The respondent relies upon the trial judge’s reasons in Chan that “[t]he word 'distribute' in the context of subsection 107(2) refers to an allotment of trust property to a beneficiary in accordance with his proportionate share. Such a distribution, being an action taken by the trustee in response to fiduciary duty, is one for which consideration cannot be exacted except in accordance with a provision in the trust deed.”
+[25] While this language appears to support the respondent, the Tax Court judge in Chan carried on that, rather than being a trust distribution in satisfaction of Mr. Chan’s income interest, Mr. Chan had instead sold his income interest to his parents and received consideration from his father for that sale. That is, the trust was not a party that either paid the amount or terminated the beneficiary’s interest. The comments of the Tax Court judge as to what constitutes a distribution from the trust must be considered in light of those significantly different facts and findings to those to which the taxpayer, Ms. McKenzie, was a party. That this formed the basis of the Tax Court’s decision in Chan is abundantly clear from the Federal Court of Appeal’s decision wherein they wrote:
+15 In order for Section 107(2) to apply, it is our view that it is necessary for the taxpayer to demonstrate that the property which was transferred to him was indeed property distributed out of the trust assets. While this could include cash, that cash must have been in the trust.
+16 There is no evidence that the cash came out of the trust nor is there evidence that indeed the trust had sufficient cash to pay that mount [sic] at the time it was paid. The onus is on the taxpayer to demonstrate that the cash which the Appellant received came from the trust itself, and this he has failed to do. Thus, there is no evidence that trust property was distributed to the Appellant so as to allow him to invoke the provisions of Section 107(2).
+As the Federal Court of Appeal wrote earlier in The Queen v. Friedberg, 92 DTC 6031: “In tax law, form matters.”
+[26] It is the respondent’s further submission that, whatever the reason was for the payment by the trust to the taxpayer of 1.7 million dollars, it was not distributed in satisfaction of all or any part of her income interest in the trust. Its reasoning in support of this is that the rule in Saunders v. Vautier does not permit the amendment of the trust, the parties did not purport to amend the trust in any event, and, since the rule in Saunders v. Vautier only permits the winding up of the trust, the payment to the taxpayer immediately before the winding up of the trust was not in accordance with the terms of the trust and constituted a breach of the fiduciary obligation of the trustee.
+[27] It is clear from the authorities and doctrine put forward by the respondent, and the cases referred to therein, that the rule in Saunders v. Vautier does not appear to permit the amendment of the terms of a trust by the beneficiaries but only permits the winding up of the trust at the direction of all of the beneficiaries. However, no authority has been put forward by the respondent for its further proposition that the rule in Saunders v. Vautier does not permit the termination of the trust in this case in accordance with the Termination Agreement agreed to by the beneficiaries and the trust. In accordance with that Termination Agreement, the 1.7 million dollars was distributed by the trust to the income beneficiary and immediately thereafter the capital beneficiary received the remaining property of the trust. Indeed, the Termination Agreement is clear that Barbara McKerrell irrevocably directed the trustee to terminate the trust immediately after the payment to the life tenant.
+[28] In the circumstances of this case, I am not prepared to either contort the plain meanings of the terms used in section 106, nor to add any glosses to the rule in Saunders v. Vautier for which I have been given no authorities, in order for the Tax Court to deal with what appears to have simply been a historic possible employment benefit valuation and timing issue for which there are clear charging provisions in the Act. The respondent cannot succeed on its second argument either.
+[29] Leaving aside the issue of a possible employment benefit which cannot be dealt with or decided in this appeal, the appropriateness of allowing this appeal is confirmed by its consistency with the scheme of the Act and the Canadian tax policy it reflects. Canada taxes capital gains on property and income from property; Canada does not tax gifts. It is clear that all of the capital gains on the Swiss Herbal shares in question have been taxed in accordance with the Act. It is also clear that all of the dividend income received on those shares has been taxed in accordance with the Act. The respondent does not, and could not, suggest otherwise. A plain reading of subsections 106(2) and (3) of the Act makes it clear that the Act generally does not seek to tax an income beneficiary whose rights are disposed of to the trust itself, but will tax any economic gain the income beneficiary may be able to realize on a disposition to a third party. It can be noted that, in the case of a disposition of a life interest to the trust, the distribution from the trust is akin to the receipt by the income beneficiary of the after‑tax, capital portion of the amount settled on the trust which could have been gifted by a settlor to a beneficiary without tax consequences under the Act.
+[30] The appeal is allowed with costs.
+Signed at Ottawa, Canada, this 9th day of June 2011.
+"Patrick Boyle"
+Boyle J.
+APPENDIX
+Court File No. 2009-2898(IT)G
+TAX COURT OF CANADA
+BETWEEN:
+SHIRLEY PATRICIA MCKENZIE
+Appellant,
+- and -
+HER MAJESTY THE QUEEN,
+Respondent.
+PARTIAL AGREED STATEMENT OF FACTS
+For the purposes of this appeal, the parties by their respective solicitors hereby agree on the following facts. The parties may adduce additional evidence which is not inconsistent with the facts agreed upon below.
+1. This is an appeal against a reassessment made by Notice of Reassessment dated March 5, 2009 for the 2006 taxation year (the “Reassessment”) by the Minister of National Revenue (the “Minister”).
+Background
+2. The Appellant is an individual who is resident in Canada.
+3. Between 1977 and 2003 the Appellant was an employee of Swiss Herbal Remedies Limited (“Swiss Herbal”).
+4. The founder of Swiss Herbal was Konrad Gerolf Zimmermann (“Zimmermann”).
+5. Zimmermann made his last Will and Testament on June 10, 1978 (the “Will”).
+6. Zimmermann appointed Barbara McKerrell, his daughter (“McKerrell”) and Theodore Herman, his solicitor (“Herman”), to be the Executors and Trustees of the Will and Trustees of the Trusts established under the Will.
+7. Zimmermann died on July 12, 1978.
+8. At the time of his death, Zimmermann owned 300 common shares of Swiss Herbal, which represented all of the issued and outstanding shares in the capital of Swiss Herbal.
+9. Letters Probate of the Will were issued on September 17, 1979.
+Zimmermann’s Will
+10. Under the Will, Zimmermann’s shares of Swiss Herbal were divided as follows:
+(a) one portion (20%) went to McKerrell for her sole and absolute use;
+(b) one portion (20%) was to be retained in trust for Denise Zimmermann, his wife;
+(c) one portion (20%) was to be retained in trust for Christina Zimmermann, his daughter;
+(d) one portion (20%) was to be retained in trust for Herman; and
+(e) one portion (20%) was to be retained in trust for his bookkeeper, the Appellant.
+11. Zimmermann’s intention under the Will was that the benefits to Denise Zimmermann, Christina Zimmermann, Herman and the Appellant would consist of a life interest only, including the right to participate in the profits of Swiss Herbal and to have full voting rights at shareholders’ meetings. Upon the death of each of those individuals their respective shares would revert to McKerrell for her sole and absolute use.
+12. The gift in favour of the Appellant was further conditional upon her continuing to be employed by Swiss Herbal on a full-time basis and if she left the employment or was dismissed from that employment for just cause, the gift would end from the date of termination of the employment.
+13. Paragraphs 10 through 12 of this Partial Agreed Statement of Facts do not provide an exhaustive recitation of the contents of paragraph 3(d) of the Will, a copy of which is reproduced in its entirety at Tab 2 of the parties’ Joint Book of Documents.
+The Appellant’s Termination and Subsequent Litigation
+14. The Appellant was removed as a director of Swiss Herbal in February 2003.
+15. The Appellant was terminated from her employment as Vice-President of Swiss Herbal on November 25, 2003, which the Appellant alleged to have been without just cause.
+16. On January 5, 2004, the Appellant commenced an action in the Superior Court of Justice (Commercial List), Court File No. 04-CL-5277 against McKerrell, her husband, Steve McKerrell, Swiss Herbal, and Herman and McKerrell in their capacities as Trustees of Zimmermann’s Estate and the Trustees of the Patricia McKenzie Trust (the “Action”).
+17. The Action was settled by a settlement agreement made in December of 2005 but misdated December 16, 2006. (the “Settlement Agreement”).
+18. The terms of the Settlement Agreement provided that the Patricia McKenzie Trust and the trustees thereof would cause the Patricia McKenzie Trust to acquire the Appellant’ s entire income interest in the Patricia McKenzie Trust, through such one or more transactions, as solely determined and directed by McKerrell (including the disposition of any asset transferred to the Appellant as a result of such transactions), resulting in a payment to the Appellant of the sum of $1.7 million in satisfaction of her income interest in the Patricia McKenzie Trust payable on March 20, 2006.
+19. In return for the payment described in paragraph 18 hereof the Appellant agreed to release and quit claim any interest she had in the Patricia McKenzie Trust, including, but not limited to, the Swiss Herbal shares which it held.
+20. Paragraphs 18 and 19 of this Partial Agreed Statement of Facts do not provide an exhaustive recitation of the contents of the Settlement Agreement, which is reproduced in its entirety at Tab 4 of the parties’ Joint Book of Documents.
+21. On March 20, 2006 the following transactions took place:
+(a) Herman resigned as a co-trustee of the Patricia McKenzie Trust, leaving McKerrell as the sole trustee thereof;
+(b) the Patricia McKenzie Trust issued to the Appellant a promissory note in the amount of $1.7 million payable on March 20, 2006 (the “Note”);
+(c) the Patricia McKenzie Trust transferred the 60 Swiss Herbal shares held by it to 656832 B.C. Ltd., a corporation controlled by McKerrell and her husband Steve (“BC Co.”), pursuant to subsection 85(1) of the Act; and
+(d) the Patricia McKenzie Trust directed BC Co. to pay to the Appellant the sum of $1.7 million.
+22. On March 22, 2006, Cassels Brock & Blackwell LLP, counsel for McKerrell and BC Co., issued a cheque to the Appellant in the amount of $1.7 million, and the Note was cancelled.
+23. Immediately afterward, McKerrell, as remainderman of the Patricia McKenzie Trust, directed herself, as the Trustee of the Patricia McKenzie Trust, to terminate the Patricia McKenzie Trust.
+The Reassessment
+24. By the Reassessment the Minister added to the Appellant’s income previously reported for the 2006 taxation year the sum of $1.7 million described in paragraph 18 hereof.
+25. The Appellant objected to the Reassessment by Notice of Objection dated June 3, 2009.
+CITATION: 2011 TCC 289
+COURT FILE NO.: 2009‑2898(IT)G
+STYLE OF CAUSE: SHIRLEY PATRICIA MCKENZIE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 27, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: June 9, 2011
+APPEARANCES:
+Counsel for the Appellant:
+David C. Nathanson, Q.C.
+Adrienne K. Woodyard
+Counsel for the Respondent:
+Donna Dorosh
+Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David C. Nathanson, Q.C.
+Adrienne K. Woodyard
+Firm: Davis LLP
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 1841, 41 E.R. 482.

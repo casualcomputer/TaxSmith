@@ -1,0 +1,118 @@
+Title: Ahmadi v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521211/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-17-521211-ahmadi-v-the-king-en.md
+Document type: case_law
+Last modified: 2024-02-07
+
+# Ahmadi v. The King
+
+- Citation: 2024 TCC 17
+- Decision date: 2024-02-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5663, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ahmadi v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-02-07
+Neutral citation
+2024 TCC 17
+File numbers
+2022-2644(GST)I
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2022-2644(GST)I
+BETWEEN:
+KEYVAN AHMADI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on December 11, 2023, at Toronto, Ontario
+Before: The Honourable Justice David E. Spiro
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jia Wen Li
+JUDGMENT
+The appeal from the assessment of February 24, 2017, under the Excise Tax Act denying the Appellant’s Goods and Services Tax/Harmonized Sales Tax (“GST/HST”) New Housing Rebate application, is dismissed without costs.
+Signed at Toronto, Ontario, this 7th day of February 2024.
+“David E. Spiro”
+Spiro J.
+Citation: 2024 TCC 17
+Date: 20240207
+Docket: 2022-2644(GST)I
+BETWEEN:
+KEYVAN AHMADI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Spiro J.
+[1] The Appellant, Mr. Keyvan Ahmadi, appeals the denial by the Minister of National Revenue (the “Minister”) of his application for a GST/HST New Housing Rebate under the Excise Tax Act (the “ETA”) with respect to a property he purchased in Toronto in 2010 (the “Rebate Property”).
+[2] Parliament has imposed several conditions for that rebate, one of which is in paragraph 254(2)(b) of the ETA (emphasis added):
+254(2) Where
+…
+(b) at the time the particular individual becomes liable or assumes liability under an agreement of purchase and sale of the complex or unit entered into between the builder and the particular individual, the particular individual is acquiring the complex or unit for use as the primary place of residence of the particular individual or a relation of the particular individual, …
+[3] In the Reply, the Crown pleaded that the Minister made the following assumptions of fact in denying the GST/HST New Housing Rebate to the Appellant (emphasis added):
+(a) the Appellant signed an agreement of purchase and sale with a builder on December 1, 2010, with respect to the Rebate Property;
+(b) the purchase price of the Rebate Property was $415,046.10, exclusive of GST/HST;
+(c) the Appellant took possession of the Rebate Property on September 19, 2014;
+(d) the Rebate Property was listed for sale and sold to a third party in December of 2014 for a purchase price of $448,000;
+(e) at the time the Rebate Property was purchased, the Appellant did not intend that either he or a qualified relation of the Appellant would occupy the Rebate Property as a primary place of residence;
+(f) the Appellant reported no employment income for the years between when the Rebate Property was purchased in 2010 to when the appellant moved into the Rebate Property in 2014; and
+(g) in December of 2014, the Appellant moved from the Rebate Property to his parents’ house located at 539 Elgin Mills Road West, Richmond Hill ON, L4C 4M3.
+[4] The Crown was the only party to produce any documents at the hearing. The Crown’s documents included:
+Exhibit R-1: Mortgage agreement dated October 28, 2014 signed by the Appellant for a loan of $354,240 payable monthly at a 4.25% fixed interest rate for a year ($1,734.95/month).
+Exhibit R-2: Statement of adjustments dated September 19, 2014 indicating a purchase price of $442,800 and that the purchasers were Keyvan Ahmadi and Peyman Ahmadi.
+Exhibit R-3: Income tax return information for the 2010 taxation year indicating the Appellant’s total reported income of $14,426.
+Exhibit R-4: Income tax return information for the 2014 taxation year indicating the Appellant’s total income of $3,968.
+[5] This appeal turns on whether the Appellant adduced sufficient evidence to prove, on a balance of probabilities, that he intended to use the Rebate Property as his primary place of residence when he entered into the agreement of purchase and sale in 2010. Notwithstanding his oral assertion that intended to do so, I conclude that the Appellant’s evidence falls short of the mark for the following reasons:
+The Appellant would not have been able to afford the annual mortgage payment of $20,820 on a reported income of less than $15,000 in 2010;
+In response to that concern, the Appellant explained that his actual 2010 income exceeded the amount of income reported for that year as he did not disclose his cash income on that return. The Court was not reassured by this explanation. On the contrary, it only diminished the Appellant’s credibility;
+The Appellant’s testimony that his parents helped him purchase the Rebate Property was at odds with his own Notice of Appeal in which he alleged that his partner at the time helped him purchase the Rebate Property;
+The Appellant’s testimony that his parents no longer helped him with the ongoing expenses of the Rebate Property after they separated was at odds with his own Notice of Appeal in which he alleged that his partner no longer helped him with the ongoing expenses of the Rebate Property after they broke up;
+Although the mortgage document does not bear his brother’s signature, the Appellant maintained that his brother co-signed the mortgage;
+The Appellant became evasive when asked to identify his own signature on the mortgage document admitting only that it might have been a “partial signature”; and
+The Appellant could not recall when he moved into the Rebate Property − not even which season it was at the time.
+[6] In summary, the Appellant’s evidence about his intention to use the Rebate Property as his primary place of residence lacked credibility and was at odds with his own Notice of Appeal. In such circumstances, it is significant that the Appellant’s evidence was unsupported by documentary evidence or evidence from a third party. The Appellant has simply failed to prove sufficient facts to establish, on a balance of probabilities, that he intended to use the Rebate Property as his primary place of residence when he entered into the agreement of purchase and sale. His appeal will, therefore, be dismissed.
+Signed at Toronto, Ontario, this 7th day of February 2024.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2024 TCC 17
+COURT FILE NO.:
+2022-2644(GST)I
+STYLE OF CAUSE:
+KEYVAN AHMADI AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 11, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+February 7, 2024
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jia Wen Li
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

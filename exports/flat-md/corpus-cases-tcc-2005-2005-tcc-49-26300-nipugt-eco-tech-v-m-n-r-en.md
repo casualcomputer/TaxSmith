@@ -1,0 +1,184 @@
+---
+title: "Nipugt Eco Tech v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26300/index.do"
+last_modified: "2005-01-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 49"
+citation2: ""
+neutral_citation: "2005 TCC 49"
+decision_date: "2005-01-20"
+language: "en"
+item_id: "26300"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3312
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:08:06.537000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "80efe089b22123757257f29e8b5ccc5f78cdc9e863faa552fcac0e0c7a4fa393"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nipugt Eco Tech v. M.N.R.
+
+- Citation: 2005 TCC 49
+- Decision date: 2005-01-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3312, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nipugt Eco Tech v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-20
+Neutral citation
+2005 TCC 49
+File numbers
+2004-288(EI)
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-288(EI)
+BETWEEN:
+NIPUGT ECO TECH,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard together with the appeal of Nipugt Eco Tech (2004-289(CPP)) on October 26, 2004 at Moncton, New Brunswick
+Before: The Honourable Justice B. Paris
+Appearances:
+Agent for the Appellant:
+Eric Smith
+Counsel for the Respondent:
+Antonia Paraherakis
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of January 2005.
+"B. Paris,"
+Paris, J.
+Docket: 2004-289(CPP)
+BETWEEN:
+NIPUGT ECO TECH,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard together with the appeal of Nipugt Eco Tech (2004-288(EI)) on October 26, 2004 at Moncton, New Brunswick
+Before: The Honourable Justice B. Paris
+Appearances:
+Agent for the Appellant:
+Eric Smith
+Counsel for the Respondent:
+Antonia Paraherakis
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of January 2005.
+"B. Paris"
+Paris, J.
+Citation: 2005TCC49
+Date: 20050120
+Docket: 2004-288(EI)
+2004-289(CPP)
+BETWEEN:
+NIPUGT ECO TECH,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] These appeals are from decisions by the Minister of National Revenue that Maurice Lavigne (the Worker) was not employed by the Appellant under a contract of service and therefore that his employment with the Appellant was neither insurable under the Employment Insurance Act (the "Act") nor pensionable under the Canada Pension Plan (the "Plan"). The appeals were heard on common evidence. The period covered by the decisions was from September 2 to November 16, 2002 although only the first and last week of the period was worked by Maurice Lavigne. The Appellant is a proprietorship and is identified more fully in the Notices of Determination which are the subject of these appeals as Theresa Jean operating as Nipugt Eco Tech. For ease of reference I shall refer to the Appellant in these reasons simply as Eco Tech.
+[2] Although the Notices of Appeal that were filed purport to challenge decisions made by the Minister concerning the insurability and pensionability of other individuals, the Appellant's representative was unable to provide any particulars of any decision relating to any worker other than Maurice Lavigne, and he conceded that only the decision relating to the latter was properly the subject of these appeals.
+[3] The Minister made certain assumptions of fact relating to the Appellant's operations which were set out at paragraph 6 of each Reply to the Notice of Appeal. Those assumptions were identical in respect of both of the decisions in issue and read as follows:
+a) during the period in question, the Appellant was a proprietorship operated by Theresa Jean;
+b) the Appellant's operation consisted of the harvesting of wild ground hemlock (the "plant") which was sold to American pharmaceutical companies for medicinal purposes; the product obtained from the young tips are used in the treatment of cancer;
+c) the Worker collected the tips from the plant and sold them to the Appellant;
+d) the Worker received $0.60 per pound from the Appellant;
+e) the Appellant had no knowledge of the number of hours actually worked by the Worker;
+f) the Worker was responsible to find land where the plant grows;
+g) the Worker was responsible to ask permission to harvest the plant from the landowners where the plants were found;
+h) the worker was free to use helpers while harvesting and could sell the total harvest in his own name;
+i) the Worker had to store the harvest and take it to the Appellant's collection location each week;
+j) the Worker had to provide his own cutter for the harvest;
+k) the Appellant provided the bags for storage of the harvest;
+l) the Worker decided the volume of tips he was willing to harvest;
+m) the Worker harvested during the first and the last week of the period in question;
+n) the Worker reported 60 hours of work each week for a total of 120 hours; and
+o) the Worker earned $624 the first week he harvested and $440.49 the second week he harvested.
+Evidence
+[4] Three witnesses gave evidence on behalf of the Appellant: Eric Smith, who worked for the Appellant in an executive capacity (and who represented the Appellant in these proceedings), his son Ryan Smith who also worked for the Appellant, and Maurice Lavigne. Ryan Smith was the spouse of Theresa Jean. Eric Smith gave evidence about the general nature of the Eco Tech's operations. He had no recollection of Maurice Lavigne or the work he did for Eco Tech. Ryan Smith was attending university during 2002 but worked for the business as time permitted. He worked mostly at the buying station operated by Eco Tech at Cross Point, Quebec. He recalled meeting Maurice Lavigne at the buying station once during each of the two weeks Maurice Lavigne worked but also said that he could not remember one harvester from another because there were so many of them.
+[5] Eric Smith said that Eco Tech had both full-time and part-time workers but was mostly interested in finding full-time harvesters who would return to work for the business for each season, so that Eco Tech could maintain reliable production volumes and fulfill its long-term contracts with the pharmaceutical company who purchased the hemlock. Eco Tech wanted to be able to offer harvesters employment that would be insurable under the Act and considered the full-time harvesters as employees, creating payroll records for them, making deductions from the amounts that were paid to them and providing records of employment to them at the end of the season. Eco Tech guaranteed that it would purchase the hemlock harvested by the full-time harvesters and claimed to guarantee them 10 years of work. Part-time harvesters were not considered by Eco Tech to be employees and they were not guaranteed a market for their hemlock. In Maurice Lavigne's case, after picking for Eco Tech for a week he found work as a welder, and returned to picking hemlock for another week when the welding job ended.
+[6] Eco Tech provided all of its harvesters with bags and in some cases sold them cutters although many harvesters chose to obtain their own cutters. Maurice Lavigne provided his own cutters.
+[7] The harvesters were also given some instruction on the cutting procedures that they were required to follow according to the Canadian Forest Service Guidelines for harvesting hemlock. Maurice Lavigne said that he received a couple of hours of instruction, and provided his own cutters.
+[8] Arrangements concerning the land on which the harvest was carried out appeared to have been somewhat loose in 2002. In some cases the harvester found the land, and in other cases Eco Tech became aware of picking locations and obtained permission for harvesters to go on the land. Ryan Smith said that Eco Tech found land only for its full-time harvesters. After 2002 Eco Tech began entering into written contracts with landowners for the harvesting of the hemlock, and began paying royalties to them. Neither Eric nor Ryan Smith could recall on the stand whether Eco Tech or Maurice Lavigne found the sites on which Maurice Lavigne worked. Maurice Lavigne said that he found the first one and Eco Tech arranged the second one.
+[9] Harvesters brought the hemlock to the buying station, where the product was weighed and checked for quality. The harvesters had to give the location of where the hemlock was from, which Eco Tech recorded on behalf of the pharmaceutical company that it sold to. Eco Tech paid the harvesters 60 cents per pound for the branches. Both full and part-time harvesters received the same price. Harvesters were responsible for their own transportation and for bringing the hemlock to the buying station. The station was open two days a week between April and January.
+[10] Eric Smith said that for full-time workers a weekly salary was set that was based on a certain level of production. In order to meet the level of production that was set, the harvester had to work a certain number of hours. However, Ryan Smith said that the workers were paid solely based on poundage produced regardless of the hours that they worked.
+[11] Maurice Lavigne said that he wanted to earn $600 per week, which meant that he needed to cut 1,000 pounds. At his rate of cutting that amounted to 60 hours of work. His record of employment showed that he was paid $624 in the first week he worked and $440 in the second.
+[12] Eric Smith also said that Eco Tech had three field inspectors who carried out spot checks on the areas where the harvesters were working to ensure that the harvest was being done properly. Each harvester was checked once or twice in a season. According to Eric Smith the pharmaceutical company who purchased the hemlock from Eco Tech was concerned that environmental standards for the cutting be maintained, and also sent inspectors to check out the areas in which the hemlock was harvested. Maurice Lavigne said that his work was inspected once by someone from Eco Tech.
+[13] The Respondent's counsel called one witness, Louise Boudreault, an appeals officer at the Canadian Revenue Agency who made the determination that Maurice Lavigne was not in insurable or pensionable employment. Ms. Boudreault recounted a conversation that she had with Eric Smith in October 2003 in which he said that Maurice Lavigne set his own work schedule and that he was responsible for finding an area to harvest. She said he also told her that for the 2003 season the Appellant had changed procedures and that the harvesters were no longer required to find land because the Appellant was making the arrangements with the landowners and paying them for it. She also said that Maurice Lavigne confirmed that he had to find his own harvest location, that he set his own work hours and that he was not under the supervision of Eco Tech when he harvested the hemlock.
+Analysis
+[14] In this case, the first issue that must be addressed is whether Maurice Lavigne was under a contract to provide services to Eco Tech, or whether he simply sold hemlock that he had gathered to Eco Tech. In the latter case, he would not have been in insurable or pensionable employment because there was no employment relationship between Eco Tech and Maurice Lavigne. For the reasons that follow, I find that the amounts that were paid by Eco Tech to Maurice Lavigne were for the purchase of hemlock and not for services rendered by him.
+[15] According to the assumptions in the Reply to Notice of Appeal, Maurice Lavigne collected the hemlock and sold it to Eco Tech for 60 cents per pound. The Appellant has the onus of demonstrating that these assumptions are wrong. I am not satisfied that the Appellant has met the onus to show that Maurice Lavigne did not sell the hemlock to Eco Tech. In fact, Eric Smith, in his evidence, referred to guarantees given by Eco Tech to full-time harvesters to purchase the hemlock they picked.
+[16] The alternative position, that the Appellant paid Maurice Lavigne and the other harvesters to harvest hemlock which belonged to Eco Tech, was not advanced on behalf of the Appellant. Unfortunately the evidence which was led concerning what arrangements, if any, that were made with landowners to harvest hemlock on their land was vague and incomplete. In any event, the evidence was insufficient to show that Eco Tech acquired any right to harvest the hemlock. It appears to me that in 2002 the Appellant only obtained permission from landowners for harvesters to go on their property, but did not negotiate a right to harvest the hemlock itself. Both Eric and Ryan Smith said that prior to 2003, Eco Tech did not pay anything to the landowners who allowed harvesters on their property. In these circumstances, the hemlock would have been owned by the person harvesting it, and the amount he or she earned from harvesting was through the sale of the product to a buyer such as Eco Tech. Therefore, there was no employment relationship between the Appellant and Maurice Lavigne during the periods in issue.
+[17] Even if I had determined that Maurice Lavigne was harvesting hemlock on behalf of the Appellant (i.e. that the Appellant owned the hemlock that was collected) I would have found that Maurice Lavigne was an independent contractor for the reasons that follow.
+[18] The question of whether a worker is an employee or an independent contractor must be determined on a consideration of all of the circumstances of the relationship between the worker and the payor. In the Supreme Court of Canada decision, 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, Major J. stated:
+... The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+...
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[19] Here, the Appellant's representative admitted that Eco Tech did not control Maurice Lavigne's hours of work, nor were those hours of work monitored. The evidence also shows that it did not determine where he worked, and the only direction provided by Eco Tech over how the work was done was by means of a single site inspection. The absence of any right by Eco Tech to control, to any substantial degree, the work of Maurice Lavigne, is not consistent with a contract of service.
+[20] The test relating to the ownership of the tools used in the harvest also goes against a finding that Maurice Lavigne was an employee. Although Eco Tech supplied bags for storing the hemlock, the Appellant provided the vehicle that was necessary to access the cutting sites, and to transport the cut hemlock, and he was required to provide his own cutters, or to buy them from the Appellant.
+[21] Since Maurice Lavigne was paid for the quantity of hemlock that he harvested, he could increase his profit by becoming more efficient in harvesting it. He could also presumably increase his profit by locating better harvesting areas. This is also indicative of a contract for services. Evidence concerning his right to hire others to help with the harvest was inconclusive in this case.
+[22] Finally, it cannot be said that Maurice Lavigne's work was substantially integrated into the operations of Eco Tech. His role was that of a supplier, and while suppliers are essential to a business, they are external to it. Also, the fact that Maurice Lavigne chose to work only the first and last weeks of the period under review shows that the Appellant did not need his regular or continuous service in order to carry on its business.
+[23] For all of these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 20th day of January 2005.
+"B. Paris"
+Paris, J.
+CITATION:
+2005TCC49
+COURT FILE NOs.:
+2004-288(EI) and 2004-289(CPP)
+STYLE OF CAUSE:
+Nipugt Eco Tech and the M.N.R.
+PLACE OF HEARING:
+Moncton, New Brunswick
+DATE OF HEARING:
+October 26, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+January 20, 2005
+APPEARANCES:
+Agent for the Appellant:
+Eric Smith
+Counsel for the Respondent:
+Antonia Paraherakis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

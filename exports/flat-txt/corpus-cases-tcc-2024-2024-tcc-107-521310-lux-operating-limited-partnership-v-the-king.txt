@@ -1,0 +1,363 @@
+Title: Lux Operating Limited Partnership v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521310/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-107-521310-lux-operating-limited-partnership-v-the-king.md
+Document type: case_law
+Last modified: 2024-08-23
+
+# Lux Operating Limited Partnership v. The King
+
+- Citation: 2024 TCC 107
+- Decision date: 2024-08-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5720, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lux Operating Limited Partnership v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-08-23
+Neutral citation
+2024 TCC 107
+File numbers
+2012-3093(IT)G, 2012-3094(IT)G
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3093(IT)G
+BETWEEN:
+2078970 ONTARIO INC., IN ITS CAPACITY AS DESIGNATED
+PARTNER OF LUX OPERATING LIMITED PARTNERSHIP,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2012-3094(IT)G
+AND BETWEEN:
+2078702 ONTARIO INC., IN ITS CAPACITY AS DESIGNATED
+PARTNER OF LUX INVESTOR LIMITED PARTNERSHIP,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Virtual Motion heard on July 31, 2024 at Ottawa, Canada
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Counsel for the Appellants:
+David R. Davies
+Florence Sauve
+Shawn Tryon
+Molly Martin
+Counsel for the Respondent:
+Michael Taylor
+Matthew Turnell
+Laura Zumpano
+Meaghan Mahadeo
+ORDER
+WHEREAS the Respondent’s motions for leave to amend and security for costs were heard at a virtual hearing on July 31, 2024;
+THIS COURT ORDERS that:
+The Respondent’s motion for leave to amend its pleadings under section 54 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) is granted with costs in favour of the Appellants in any event of the cause and the Amended Reply to the Amended Notice of Appeal sent to the Court in each appeal on August 1, 2024 shall be deemed to have been filed with the Court on the date of this Order;
+The Respondent’s motion for security for costs is dismissed with costs in favour of the Appellants in any event of the cause; and
+Both appeals are consolidated under section 26 of the Rules.
+Signed at Ottawa, Canada, this 8th day of August 2024.
+“David E. Spiro”
+Spiro J.
+Citation: 2024 TCC 107
+Date: 20240822
+Docket: 2012-3093(IT)G
+BETWEEN:
+2078970 ONTARIO INC., IN ITS CAPACITY AS DESIGNATED
+PARTNER OF LUX OPERATING LIMITED PARTNERSHIP,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2012-3094(IT)G
+AND BETWEEN:
+2078702 ONTARIO INC., IN ITS CAPACITY AS DESIGNATED
+PARTNER OF LUX INVESTOR LIMITED PARTNERSHIP,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AMENDED REASONS FOR ORDER
+Spiro J.
+[1] These two income tax appeals are scheduled to be heard before me beginning on September 9, 2024. The trial will take two weeks. They are appeals by two partnerships of nil determinations of loss by the Minister of National Revenue for the 2006, 2007, and 2008 fiscal periods.
+[2] The overarching issue is whether the partnerships were valid partnerships in law. From 2012 until the summer of 2024, the sole argument pleaded by the Crown in support of its position that the partnerships were not valid partnerships in law was that the partners of each partnership did not carry on business in common with a view to profit. It now seeks to add a new argument, based on sham, in support of that position. It also seeks security for costs from the Appellants.
+Overview
+[3] In 2005, according to the Crown, a group of 58 taxpayers arranged for ownership of a consistently money-losing business (“Luxell”) to be assumed by an operating entity (the “Lux Operating Limited Partnership”). The operating entity, in turn, would be owned by an investment entity (the “Lux Investor Limited Partnership”) in which each of the 58 limited partners had an interest. The 2006 loss computed by each partnership was approximately $16.5 million. The 2007 loss computed by each partnership was approximately $14.5 million. The 2008 loss was nominal.
+[4] According to the Crown, each of the limited partners entered into the Lux Investor Limited Partnership not because they intended to carry on business in common with a view to profit, but because they intended to utilize the tax losses of Luxell. After the partnerships were wound up, the Minister of National Revenue issued a notice of determination to the “designated member” of each partnership disallowing the losses in their entirety.
+[5] Before considering each motion, it is important to review the chronology of this litigation:
+Notices of Appeal......................................................... July 25, 2012 Replies........................................................................ Dec. 19, 2012 Examinations for Discovery.................................... May 22-23, 2014 Undertakings................................................................ Sept. 2, 2014 Amended Notices of Appeal........................................ Mar. 12, 2015 Replies to Amended Notices of Appeal........................ April 17, 2015 Follow-up Discoveries................................................. Nov. 17, 2015 Application for Rule 58 Motion..................................... Oct. 19, 2016 Court Decides Stage 1 of Rule 58 Motion...................... Sept. 7, 2017 Court Decides Stage 2 of Rule 58 Motion[1]..................... July 11, 2018 Crown Appeals Rule 58 Decision to the FCA................ July 23, 2018 FCA Allows Crown Appeal of Rule 58 Decision[2]............ Oct. 6, 2020 Joint Application for Time and Place of Hearing........... May 10, 2023 Court Orders Trial to Commence Sept. 9, 2024.............. Jan. 16, 2024 Crown First Raises Intention to Make Motions.............. June 11, 2024 Crown Requests Trial Management Conference............ June 20, 2024 Crown Sends Appellants Proposed Amendments........... June 26, 2024 Court Holds Trial Management Conference.................. June 27, 2024 Crown Requests Security for Costs from Appellants........ July 5, 2024 Crown’s Motion Materials Received by Court............... July 10, 2024 Appellants’ Motion Materials Received by Court........... July 24, 2024 Virtual Hearing of Crown Motions................................ July 31, 2024 Amended Replies to Amended Notices of Appeal[3].......... Aug. 1, 2024 Trial is Scheduled to Commence................................... Sept. 9, 2024
+The First Motion
+[6] The Crown seeks leave to amend its pleadings by adding sham as (a) a new issue and (b) a new argument in support of its position that neither partnership was a valid partnership in law. As the Federal Court of Appeal noted in Antle v Canada, 2010 FCA 280 (at para 20), a sham is when “parties to a transaction present it as being different from what they know it to be.”[4]
+[7] The principles to be applied by this Court in deciding whether to allow amendments to pleadings were summarized by the Federal Court of Appeal in Canada v Pomeroy Acquireco Ltd., 2021 FCA 187:
+[4] … The controlling principle is that an amendment should be allowed at any stage of an action if it assists in determining the real questions in controversy between the parties, provided it would not result in an injustice not compensable in costs and that it would serve the interests of justice. A court should give significant consideration to amendments which further the ability of the trial court to determine the questions in controversy. (citations omitted)
+[8] The Appellants contend that the Crown is attempting to add an entirely new argument at the eleventh hour which would be fundamentally unjust and prejudicial. Since 2012, the Crown has consistently maintained that the partnerships were not valid partnerships in law because the partners were not carrying on business in common with a view to profit. It is too late now, just over a month before trial, for the Crown to add sham as an entirely new argument. But what is it exactly that the Crown wishes to add?
+Proposed Amendments to the Lux Operating Limited Partnership Reply
+[9] These are the relevant sections of the proposed Amended Reply to the Amended Notice of Appeal with all proposed amendments underlined by the Crown:
+B. ISSUES TO BE DECIDED
+15.
+The preliminary issue to be decided is whether the determinations issued by the Minister for the Operating Partnership’s 2006, 2007 and 2008 fiscal periods are valid.
+16.
+The primary issue is whether the Operating Partnership was a valid partnership in law, such that its members may deduct their share of its net business losses in the 2006, 2007 and 2008 fiscal periods, or whether the Operating Partnership was invalid either because the partners were not carrying on business in common with a view to a profit or because the purported acquisition of Luxell’s business through the financing structure that consisted of the Operating Partnership agreement, Investor Partnership agreement, Investor Notes, Asset Purchase Agreement, Support Agreement, Call Option Agreement, and Service Notes was a sham.
+17.
+If the Operating Partnership was a valid partnership in law, then the issues to be decided are:
+a)
+whether each of the Operating Partnership, the Investor Partnership and Luxell dealt with the others at arm’s length at all times material to this appeal;
+b)
+whether the fair market value of the assets purportedly acquired from Luxell on August 30, 2005 exceeded the amount determined by the Minister, which was nil;
+c)
+whether, in computing net business income for the 2006, 2007 and 2008 fiscal periods, the Operating Partnership is entitled to deduct amounts (including CCA) identified by the Minister as non-deductible; and
+d)
+whether, in computing income for the 2008 fiscal period, the Operating Partnership is required to include the unpaid amount owing to Luxell as of December 31, 2007 in respect of the Service Note issued on December 31, 2005.
+***
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+19.
+He submits that the notices of determination issued by the Minister, determining the losses of the Operating Partnership in its 2006, 2007 and 2008 fiscal periods to be nil on the basis that the Operating Partnership was not a valid partnership in law, are valid. Subsection 152(1.4) of the Act permits the Minister to make that determination in respect of a partnership.
+20.
+He further submits that the Operating Partnership was not a valid partnership in law because its members did not carry on business in common with a view to profit. Instead, its members acquired units in order to access tax losses made available by Luxell in exchange for a capital infusion that was needed to keep Luxell’s business going. As there was no partnership, no amount may be allocated to the members of the Operating Partnership as partnership losses that may be deducted, pursuant to paragraph 12(1)(l) of the Act, in computing their income for the taxation years that include the Operating Partnership’s 2006, 2007 and 2008 fiscal periods.
+20A.
+In addition, no losses may be allocated to its members because the financing structure was a sham intended to convey the impression that the Operating Partnership had acquired ownership of Luxell’s assets in order to carry on a business for profit when in fact, the financing structure was intended only to give the Investors access to Luxell’s operating losses. In particular, it was always intended that Luxell would reacquire the assets and unwind the structure prior to the business becoming profitable or the Investor Notes and Service Notes becoming payable. Accordingly, the financing structure that consisted of the Operating Partnership agreement, Investor Partnership agreement, Investor Notes, Asset Purchase Agreement, Support Agreement, Call Option Agreement and Service Notes was a sham.
+21.
+If the Operating Partnership was a valid partnership, then he submits that:
+a)
+Each of the Operating Partnership, Luxell and the Investor Partnership did not deal with the others at arm’s length at all times material to this appeal within the meaning of section 251 of the Act.
+b)
+Under paragraph 69(1)(a) of the Act, the Operating Partnership is deemed to have acquired the assets of Luxell at their fair market value at the time of acquisition, which was not $29,000,000 but nil.
+c)
+In computing its business income for the 2006, 2007 and 2008 fiscal periods, the Operating Partnership is not entitled, pursuant to paragraph 20(1)(a) of the Act and Regulation 1100, to deduct any CCA in respect of the assets acquired from Luxell because their capital cost is nil.
+d)
+In computing its business income for the 2006, 2007 and 2008 fiscal periods, the Operating Partnership is not entitled, pursuant to paragraph 18(1)(a) of the Act, to deduct the expenses identified by the Minister as non-deductible in the attached Schedule “A”, as those expenses were either:
+i)
+not expenses of the Operating Partnership because they were the sole responsibility of Luxell under the Support Agreement;
+ii)
+double-claimed because the Operating Partnership deducted management fees paid to Luxell on the basis that Luxell was an independent contractor; or
+iii)
+not transferable to the Operating Partnership under the Support Agreement.
+e)
+In computing its income for the 2008 fiscal period, the Operating Partnership is required, pursuant to subsection 78(1) of the Act, to include the amount of the Service Note issued on December 31, 2005, because the Operating Partnership and Luxell were not dealing at arm’s length and the amount owing under that Service Note remained unpaid at the end of the second taxation year following the taxation year in which the Service Note was issued.
+Proposed Amendments to the Lux Investor Limited Partnership Reply
+[10] These are the relevant sections of the proposed Amended Reply to the Amended Notice of Appeal with all proposed amendments underlined by the Crown:
+B. ISSUES TO BE DECIDED
+16.
+The preliminary issue to be decided is whether the determinations issued by the Minister for the Investor Partnership’s 2006, 2007 and 2008 fiscal periods are valid.
+17.
+The primary issue to be decided is whether the Investor Partnership was a valid partnership in law, such that its members may deduct their share of its net business losses in the 2006, 2007 and 2008 fiscal periods, or whether the Investor Partnership was invalid either because the partners were not carrying on business in common with a view to a profit or because the purported acquisition of Luxell’s business through the financing structure that consisted of the Operating Partnership agreement, Investor Partnership agreement, Investor Notes, Asset Purchase Agreement, Support Agreement, Call Option Agreement, and Service Notes was a sham.
+18.
+If the Investor Partnership was a valid partnership in law, the secondary issue to be decided is whether the Operating Partnership was a valid partnership in law, such that the Investor Partnership may be allocated its share of the Operating Partnership’s net business losses in the 2006, 2007 and 2008 fiscal periods.
+19.
+If the Investor Partnership and the Operating Partnership were both valid partnerships in law, then the issues to be decided are:
+a)
+whether each of the Investor Partnership, the Operating Partnership, and Luxell dealt with the others at arm’s length at all times material to this appeal;
+b)
+whether the Operating Partnership’s business losses for the 2006, 2007 and 2008 fiscal periods exceed the amounts determined by the Minister;
+c)
+whether the fair market value of the assets purportedly acquired from Luxell by the Operating Partnership on August 30, 2005 exceeded the amount determined by the Minister;
+d)
+whether the Operating Partnership and Investor Partnership are tax shelters or tax shelter investments within the meaning of sections 143.2 and 237.1 of the Act;
+e)
+whether the Operating Partnership’s business losses in the 2006, 2007 and 2008 fiscal years are subject to a reduction under subsection 143.2(6) of the Act;
+f)
+whether the Investor Partnership’s entitlement to deduct losses allocated by the Operating Partnership in the 2006, 2007 and 2008 fiscal years is subject to a reduction under subsections 96(2.1) and (2.2), and subsections 143.2(2), (6) and (7) of the Act; and
+g)
+whether the Investors’ entitlement to deduct losses allocated by the Investor Partnership in the 2006, 2007 and 2008 fiscal years is subject to a reduction under subsections 96(2.1) and (2.2), and subsections 143.2(2), (6) and (7) of the Act.
+***
+D. GROUNDS RELIED ON
+21.
+He submits that the notices of determination issued by the Minister, determining the losses of the Investor Partnership in its 2006, 2007 and 2008 fiscal periods to be nil on the basis that the Operating Partnership was not a valid partnership in law, are valid. Subsection 152(1.4) of the Act permits the Minister to make that determination in respect of a partnership.
+22.
+He further submits that the Investor Partnership was not a valid partnership in law because its members did not carry on business in common with a view to profit. Instead, its members acquired units in order to access tax losses made available by Luxell in exchange for a capital infusion that was needed to keep Luxell’s business going. As there was no partnership, no losses may be allocated to the Investors as partnership losses that may be deducted, pursuant to paragraph 12(1)(l) of the Act, in computing their income for the taxation years that include the Investor Partnership’s 2006, 2007 and 2008 fiscal periods.
+23.
+He submits that the Operating Partnership was not a valid partnership in law for the same reason: its members did not carry on business in common with a view to profit. Accordingly, even if the Investor Partnership was a valid partnership, no losses from the Operating Partnership may be allocated to the Investor Partnership as partnership losses that may be deducted, under paragraph 12(1)(l) of the Act, in computing the Investor Partnership’s income for the 2006, 2007 and 2008 fiscal periods.
+23A.
+In addition, no losses may be allocated to the Investors because the financing structure was a sham intended to convey the impression that the Operating Partnership had acquired ownership of Luxell’s assets in order to carry on a business for profit when in fact, the financing structure was intended only to give the Investors access to Luxell’s operating losses. In particular, it was always intended that Luxell would reacquire the assets and unwind the structure prior to the business becoming profitable or the Investor Notes and Service Notes becoming payable. Accordingly, the financing structure that consisted of the Operating Partnership agreement, Investor Partnership agreement, Investor Notes, Asset Purchase Agreement, Support Agreement, Call Option Agreement and Service Notes was a sham.
+24.
+He further submits that, if the Investor and Operating Partnerships were both valid partnerships in law:
+a)
+Each of the Investor Partnership, the Operating Partnership and Luxell did not deal with the others at arm’s length at all times material to this appeal within the meaning of section 251 of the Act.
+b)
+Under paragraph 69(1)(a) of the Act, the Operating Partnership is deemed to have acquired the assets of Luxell at their fair market value at that time, which was not $29,000,000 but nil;
+c)
+In computing its business income for the 2006, 2007 and 2008 fiscal periods the Operating Partnership is not entitled, pursuant to paragraph 20(1)(a) of the Act and Regulation 1100, to deduct any CCA in respect of the assets acquired from Luxell because their capital cost is nil;
+d)
+In computing its business income for the 2006, 2007 and 2008 fiscal periods, the Operating Partnership is not entitled, pursuant to paragraph 18(1)(a) of the Act, to deduct the expenses identified by the Minister as non-deductible and detailed in the attached Schedule “A”, as those expenses were either:
+i)
+not expenses of the Operating Partnership because they were the sole responsibility of Luxell under the Support Agreement;
+ii)
+double-claimed because the Operating Partnership deducted management fees paid to Luxell on the basis that Luxell was an independent contractor; or
+iii)
+not transferable to the Operating Partnership under the Support Agreement.
+e)
+In computing its income for the 2008 fiscal period, the Operating Partnership is required, pursuant to subsection 78(1) of the Act, to include the outstanding amount of the Service Note issued on December 31, 2005, because the Operating Partnership and Luxell were not dealing at arm’s length and the amount owing under that note remained unpaid at the end of the second taxation year following the taxation year in which the Service Note was issued.
+f)
+The losses of the Operating Partnership that may be allocated to the Investor Partnership do not exceed the amounts determined by the Minister as detailed in the attached Schedule “B”.
+g)
+The Operating and Investor Partnerships are both “tax shelter investments” for purposes of section 143.2 of the Act because an interest in either partnership was a property that is a tax shelter for purposes of subsection 237.1(1) of the Act.
+h)
+The losses of the Operating Partnership in the 2006, 2007 and 2008 fiscal periods are reduced under subsection 143.2(6) of the Act by the value of the outstanding Service Notes, including accrued interest, because:
+i)
+the value of the outstanding Service Notes was an “at‑risk adjustment” of the Operating Partnership, within the meaning of subsection 143.2(2) of the Act, in respect of the expenditures represented by those notes; and
+ii)
+the value of the outstanding Service Notes was a “limited‑recourse amount” of the Operating Partnership, within the meaning of subsection 143.2(7) of the Act, that can reasonably be considered to relate to the expenditures represented by those notes.
+i)
+The losses of the Investor Partnership are subject to a reduction under subsection 143.2(6) of the Act by the value of the outstanding Investor Notes and by the value of the outstanding Service Notes, plus accrued interest, because:
+i)
+the value of the outstanding Investor Notes was a “limited-recourse amount” of the Investors, within the meaning of subsection 143.2(7) of the Act, that can reasonably be considered to relate to those losses; and
+ii)
+the value of the outstanding Service Notes was an “at-risk adjustment” of the Investor Partnership, within the meaning of subsection 143.2(2) of the Act, in respect of those losses.
+Accordingly, the losses of the Investor Partnership in the 2006, 2007 and 2008 fiscal periods are reduced to $0.
+j)
+Under subsection 96(2.1) of the Act, the Investor Partnership is not entitled to deduct partnership losses allocated by the Operating Partnership that exceed its “at‑risk amount” in respect of the Operating Partnership. Under paragraphs 96(2.2)(c) and (d) of the Act, the Investor Partnership’s “at-risk amount” in respect of the Operating Partnership is reduced by the value of the outstanding Investor Notes and by the value of the outstanding Service Notes. In the 2006, 2007 and 2008 fiscal periods, the Investor Partnership’s “at-risk amount” in respect of the Operating Partnership is $0.
+k)
+Under subsection 96(2.1) of the Act, an Investor in the Investor Partnership is not entitled to deduct partnership losses allocated by the Investor Partnership that exceed the Investors’ “at-risk amount” in respect of the Investor Partnership. Under paragraphs 96(2.2)(c) and (d), and subsections 143.2(2) and (6) of the Act, the Investors’ “at‑risk amount” in respect of the Operating Partnership is reduced by the value of the outstanding Investor Notes and by the value of the outstanding Service Notes. In the 2006, 2007 and 2008 fiscal periods, the Investors’ “at-risk amount” in the Investor Partnership was $0.
+[11] The Crown’s motion to amend is based on section 54 of the Rules:
+54 A pleading may be amended by the party filing it, at any time before the close of pleadings, and thereafter either on filing the consent of all other parties, or with leave of the Court, and the Court in granting leave may impose such terms as are just.
+Do the proposed amendments assist the tribunal in determining the real question in controversy?
+[12] The real question in controversy is whether the partnerships were valid partnerships in law. The sole argument the Crown has pursued in answer to that question is that the partners were not carrying on business in common with a view to profit.
+[13] An additional argument could have been pleaded in 2012 in support of that position, namely, that the partnerships were not valid partnerships in law because the financing structure underlying the partnerships was a sham.
+[14] I agree with the Appellants that the Crown took far too long to bring its motion to amend, but whatever prejudice has been occasioned by the Crown’s delay is compensable in costs in light of the Crown’s reliance on the assumptions of fact already pleaded and in light of the fact that the Appellants have just over a month to marshal their arguments.
+[15] Allowing the Crown to make an additional argument in support of its position that the partnerships were not valid partnerships in law will assist the Court in determining the correct answer to the real question in controversy.
+Do the proposed amendments result in an injustice to the other party not compensable in costs?
+[16] As noted above, the delay in the Crown bringing its motion to amend is prejudicial to the Appellants. However, as noted above, that prejudice is compensable in costs.
+[17] The Crown is confident that the assumptions of fact already pleaded are sufficient to support its carrying on business argument and its sham argument. To what extent its confidence is justified has yet to be seen, but the Crown should be able to put the issue of sham before the Court based on the assumptions of fact it has already pleaded.
+Do the proposed amendments serve the interests of justice?
+[18] Judge Bowman described the considerations in this regard in Continental Bank Leasing Corp. v Canada, [1993] 1 CTC 2306 [Continental Bank]:
+… I prefer to put the matter on a broader basis: whether it is more consonant with the interests of justice that the withdrawal or amendment be permitted or that it be denied. The tests mentioned in cases in other courts are of course helpful but other factors should also be emphasized, including the timeliness of the motion to amend or withdraw, the extent to which the proposed amendments would delay the expeditious trial of the matter, the extent to which a position taken originally by one party has led another party to follow a course of action in the litigation which it would be difficult or impossible to alter and whether the amendments sought will facilitate the Court's consideration of the true substance of the dispute on its merits. No single factor predominates nor is its presence or absence necessarily determinative. All must be assigned their proper weight in the context of the particular case. Ultimately it boils down to a consideration of simple fairness, common sense and the interest that the courts have that justice be done.[5]
+[19] Bearing in mind the considerations described by Judge Bowman in Continental Bank, I am satisfied that allowing the Crown to make a sham argument in support of its longstanding position that the partnerships were not valid partnerships in law would further the interests of justice. I am also of the view that any prejudice to the Appellants is compensable in costs. The Crown’s motion to amend will, therefore, be granted with costs in favour of the Appellants in any event of the cause.
+The Second Motion
+[20] In the Crown’s second motion, it seeks security for costs from the Appellants – both of whom are Canadian residents – in the amount of nearly one-half million dollars. It arrives at that amount by applying a hypothetical cost award of approximately one-third of its actual and projected fees and all of its actual and projected disbursements to the end of a two-week trial.
+[21] By way of background, there are two types of partner in a limited partnership – a general partner and one or more limited partners. The general partner typically manages the affairs of the partnership and typically has a vanishingly small interest in the partnership. But because the liability of the general partner is unlimited, that partner is almost always thinly capitalized with few, if any, assets. It is, more often than not, a shell company.
+[22] Each Appellant is before this Court because each is the “designated member” of their partnership. The “designated member” of a limited partnership will almost invariably be its general partner. In Azzopardi v The King, 2023 TCC 51, I collected the authorities describing the scheme of the Income Tax Act under which an objection to a determination of a partnership’s income or loss may be served on the Minister of National Revenue only by the “designated member” of a limited partnership (footnotes omitted):
+The role of the “designated member” of a partnership on objection
+[9] Subsection 165(1.15) of the Act provides that, if the Minister makes a determination of a partnership’s income or loss, the only person entitled to serve a notice of objection on the Minister is a member of the partnership who is either (a) designated in the partnership information return or (b) otherwise authorized by the partnership to so act:
+165(1.15) Notwithstanding subsection 165(1), where the Minister makes a determination under subsection 152(1.4) in respect of a fiscal period of a partnership, an objection in respect of the determination may be made only by one member of the partnership, and that member must be either
+(a) designated for that purpose in the information return made under section 229 of the Income Tax Regulations for the fiscal period; or
+(b) otherwise expressly authorized by the partnership to so act.
+[10] Based on this provision, the Federal Court of Appeal has held that “the rights of appeal from a determination are restricted to a designated or authorized member of the partnership.” In Tedesco v Canada, 2019 FCA 235, the Federal Court of Appeal reviewed the relevant legislative context:
+[17] A partnership does not pay tax under the Act. Rather, a partnership computes its income (or loss) as if it were a person and then allocates to each partner that partner’s proportionate share of such income (or loss). Accordingly, there is no assessment or reassessment of tax payable by a partnership. As a result, if the Minister should disagree with the amount of any income (or loss) claimed by a partnership and allocated to its partners, the Minister will have to reassess each partner. To avoid multiple disputes with several partners with respect to the amount of any income (or loss) of a particular partnership, subsection 152(1.4) of the Act was added to allow the Minister to make one determination of the amount of any income (or loss) of a partnership. …
+[18] Subsection 165(1.15) of the Act provides that a notice of objection to a determination made under subsection 152(1.4) of the Act may be made only by one member of the partnership who is duly designated or authorized to do so. …
+[19] Subsection 152(1.7) of the Act provides that, subject to the rights of objection and appeal, the determination made by the Minister under subsection 152(1.4) of the Act of the income (or loss) of the partnership is binding on the Minister and each member of the partnership. Subsection 152(1.7) of the Act also provides that the Minister may, notwithstanding subsection 152(4) of the Act, reassess each partner “before the end of the day that is one year after the day on which all rights of objection and appeal expire or are determined in respect of the determination or redetermination”.
+[emphasis added]
+[11] In Lux Operating Limited Partnership v The Queen, 2018 TCC 141 [Lux TCC], Justice Graham observed that the Minister has a choice as to whether to proceed by assessing or reassessing each partner individually (the “traditional process”) or by making a determination or redetermination at the partnership level that binds all partners and allows the Minister to assess or reassess each partner to give effect to the determination or redetermination (the “streamlined process”):
+[7] Partnerships are, with rare exceptions, not persons and not liable to tax under the Act. However, partnerships are required to file information returns in a prescribed form reporting their income or loss as if they were a person (Income Tax Regulations, section 229). The partners of the partnership then report their share of the partnership income or loss in their own tax returns (subsection 96(1)).
+[8] The Minister has three years from the day that is the later of the day that the partnership return is due to be filed and the day that it is actually filed to dispute the income or loss reported in the information return (subsection 152(1.4)). If the Minister disagrees with the income or loss reported in the information return, the Minister has two options.
+[9] The traditional, less efficient option is for the Minister to reassess each partner individually to adjust the partner’s share of the partnership’s income or loss. I will refer to this option as the “Traditional Process”. Under the Traditional Process, if the partners disagree with the Minister’s view of the partnership’s income, they may individually object to and appeal from their reassessments. The Traditional Process was the only option available to the Minister prior to the introduction of subsection 152(1.4) and related provisions in 1998.
+[10] The second, more streamlined option is for the Minister to determine the correct income or loss of the partnership (subsection 152(1.4)). I will refer to this option as the “Streamlined Process”. The Streamlined Process has the advantage of resolving any dispute about the partnership’s income or loss at the partnership level. If the Minister makes a determination under subsection 152(1.4), she then sends a Notice of Determination to the partnership and to each partner who was a member of the partnership during the relevant fiscal period (subsection 152(1.5)). The determination is binding on the Minister and each partner unless it is objected to or the Minister issues a subsequent redetermination (paragraph 152(1.7)(a)). The next steps in the Streamlined Process depend on whether the partnership wishes to dispute the determination or not. If the partnership decides not to dispute the determination, the Minister may then reassess the individual partners to give effect to the determination. Reassessment is an important step in the process because it is the partners, not the partnership, that pay tax. If the partnership decides to dispute the determination, the dispute proceeds through the usual process. The objection and appeal provisions normally applicable to assessments apply to determinations (subsection 152(1.2)). However, one partner, known as the designated partner, disputes the determination on behalf of all of the partners (subsection 165(1.15)). That partner is generally the partner who was designated for that purpose in the information return filed by the partnership. If the dispute is resolved in a way that results in a change in the partnership’s income or loss, the Minister may reassess the individual partners to give effect to the outcome. Again, reassessment is an important step in the process because it is the partners, not the partnership, that pay tax.
+[11] It is important to emphasize that the Traditional Process and the Streamlined Process both lead to the same result. The only difference is that, under the Streamlined Process, the objection or appeal is carried out collectively through the designated partner whereas under the Traditional Process it is carried out individually by each partner. Thus, while the Streamlined Process is generally more efficient for all parties, both processes allow the Minister to assess the correct tax and both processes ensure that partners have objection and appeal rights.
+[emphasis added]
+[12] If the Minister uses the streamlined process, only the designated member is entitled to dispute the determination by serving a notice of objection on the Minister. Once the objection process has concluded, all partners are bound by the Minister’s redetermination and are subject to assessment or reassessment on that basis within one year.
+[23] The Crown seeks an order for security for costs not under any provision of the Rules, but under the Court’s inherent jurisdiction over its own process. Justice Campbell Miller described that jurisdiction in Obonsawin v The Queen:
+Court's inherent jurisdiction over its own process. The Tax Court of Canada is no different from other Superior Courts in having an inherent power to prevent abuse of its own process.[6]
+[24] The Crown argues that it would be an abuse of this Court’s process for the Appellants to proceed to a two-week trial without any apparent ability to satisfy an award of costs against them of approximately one-half million dollars. But that concern is an entirely predictable consequence of Parliament’s decision to grant the exclusive right to object to, and appeal from, a loss determination to the “designated member” of the partnership which will almost always be its general partner.[7]
+[25] Had Parliament intended the “designated member” of a partnership to post security for costs on an appeal to this Court, it would have provided as much in the Income Tax Act because the Rules already include a complete code covering all circumstances in which this Court may entertain an application for security for costs. As the Rules make clear, security for costs is only available if it appears that the appellant is resident outside of Canada:[8]
+Security for Costs
+Where Available
+160 Where it appears that the appellant is resident outside of Canada, the Court on application by the respondent may give such direction regarding security for costs as is just.
+When to be Made
+161 An application for security for costs may be made only after the respondent has delivered a reply to the notice of appeal.
+Amount and Form of Security
+162 The amount and form of security and the time for payment into Court or otherwise giving the required security shall be determined by the Court.
+Effect of Direction
+163 An appellant who has been directed to give security for costs may not, until the security has been given, take any step in the appeal unless the Court directs otherwise.
+Default of Appellant
+164 Where the appellant defaults in giving the security required, the Court on application may dismiss the appeal.
+Amount May be Varied
+165 The amount of security may be increased or decreased at any time.
+Notice of Compliance
+166 On giving the security required, the appellant shall forthwith give notice of compliance to the respondent.
+Payment Into and Out of Court
+166.1(1) A person who pays money into Court shall do so by delivering to the Registry
+(a) a bill of exchange drawn on a bank, trust company, credit union or caisse populaire, or such other bill of exchange as may be authorized by order of the Court, that is payable to the order of the Receiver General of Canada; and
+(b) three copies of a tender of payment into Court. (Form 166.1)
+(2) A payment into Court is effective on the day the bill of exchange is paid after presentation for payment.
+(3) Where a payment is effective, the Registry shall return a copy of the tender of payment into Court to the person making the payment.
+166.2(1) Where an order has been made by the Court for payment out of court of money that is in the Consolidated Revenue Fund, or for payment out of any such money, together with any interest that may have accumulated on it, a requisition shall be made by the Registry to the Receiver General for such payment.
+(2) A requisition shall be for an instrument in the amount to be paid out and payable to the person to whom the money is to be paid pursuant to the order, to be sent to the Registry at Ottawa, or at such other place as may be specified, for delivery of the instrument to the payee’s counsel of record, if the payee has such a counsel, and otherwise for delivery to the payee.
+Cautionnement pour dépens
+Applicabilité
+160 S’il semble que l’appelant réside à l’étranger, la Cour peut, à la demande de l’intimée, donner des directives appropriées portant sur le cautionnement pour dépens.
+Délai
+161 La demande visant à obtenir un cautionnement pour dépens ne peut être présentée qu’après que l’intimée a remis une réponse à l’avis d’appel.
+Montant et forme du cautionnement
+162 La Cour fixe le montant et la forme du cautionnement, ainsi que le délai imparti pour le consigner à la Cour ou le verser d’une autre façon.
+Effet de la directive
+163 Sauf directive contraire de la Cour, l’appelant qui a reçu la directive de consigner un cautionnement pour dépens ne peut prendre d’autres mesures dans l’appel tant que le cautionnement n’a pas été versé.
+Inobservation par l’appelant
+164 Si l’appelant ne verse pas le cautionnement imposé, la Cour peut, à la suite d’une demande, rejeter l’appel.
+Variation du montant
+165 Le montant du cautionnement pour dépens peut être augmenté ou diminué en tout temps.
+Avis de versement
+166 Après avoir versé le cautionnement imposé, l’appelant en avise immédiatement l’intimé.
+Consignation et versement de sommes
+166.1(1) La personne qui consigne une somme d’argent à la Cour remet au greffe :
+a) une lettre de change tirée sur une banque, une société de fiducie, une caisse d’économie ou une caisse populaire, ou toute autre lettre de change pouvant être autorisée par ordonnance de la Cour, et qui est payable à l’ordre du receveur général du Canada;
+b) trois exemplaires d’une offre de consignation à la Cour. (Formule 166.1)
+(2) La consignation prend effet le jour où la lettre de change est payée, à la présentation pour paiement.
+(3) Lorsque la consignation prend effet, le greffe remet à la personne ayant fait le paiement un exemplaire de l’offre de consignation à la Cour.
+166.2(1) Lorsqu’une ordonnance a été rendue par la Cour pour le versement d’une somme consignée qui avait été versée au Trésor, ou pour le versement d’une partie d’une telle somme et, le cas échéant, des intérêts courus y afférents, le greffe doit demander au receveur général d’effectuer ce versement.
+(2) Une demande de versement doit être une demande d’effet établi au montant à verser et payable à la personne à laquelle ce montant doit être versé conformément à l’ordonnance, lequel effet doit parvenir au greffe à Ottawa, ou à tel autre lieu qui peut être spécifié, pour qu’il soit remis à l’avocat inscrit au dossier du bénéficiaire ou, à défaut d’un tel avocat, pour qu’il soit remis au bénéficiaire lui-même.
+[26] Crown counsel did not point to a single decision in which this Court has ordered security for costs from an appellant who did not appear to be resident outside of Canada. If the Minister of National Revenue or the Attorney General of Canada are concerned about thinly-capitalized general partners coming before this Court as “designated members” of partnerships, either the Income Tax Act or the Rules would have to be amended to require them, or any other category of appellant resident in Canada, to post security for costs on application by the Crown.[9] This Court’s inherent jurisdiction over its own process does not allow it to amend the Income Tax Act or the Rules.
+[27] For all of these reasons, I will dismiss the Crown’s application for security for costs with costs in favour of the Appellants in any event of the cause. In order to minimize paper at trial, I will also consolidate both appeals under section 26 of the Rules.
+[28] Finally, I wish to thank all counsel for their thoughtful and thorough submissions on these motions.
+These Amended Reasons for Order are issued in substitution of the Reasons for Order dated August 8, 2024.
+Signed at Toronto, Ontario, this _____ day of August 2024.
+Spiro J.
+CITATION:
+2024 TCC 107
+COURT FILE NO.:
+2012-3093(IT)G
+2012-3094(IT)G
+STYLE OF CAUSE:
+2078970 Ontario Inc. in its Capacity as Designated Partner of Lux Operating Limited Partnership and His Majesty The King
+2078702 Ontario Inc. in its Capacity as Designated Partner of Lux Investor Limited Partnership and His Majesty The King
+PLACE OF HEARING:
+Ottawa, Canada (Virtual Hearing)
+DATE OF HEARING:
+July 31, 2024
+AMENDED REASONS FOR ORDER BY:
+The Honourable Justice David E. Spiro
+DATE OF ORDER:
+August 8, 2024
+APPEARANCES:
+Counsel for the Appellants:
+David R. Davies
+Florence Sauve
+Shawn Tryon
+Molly Martin
+Counsel for the Respondent:
+Michael Taylor
+Matthew Turnell
+Laura Zumpano
+Meaghan Mahadeo
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+David R. Davies
+Florence Sauve
+Shawn Tryon
+Molly Martin
+Firm:
+Thorsteinssons LLP Toronto, Ontario
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Lux Operating Limited Partnership v The Queen, 2018 TCC 141. This Court said no to the following question posed by the parties under section 58 of the Rules:
+Where the Minister has at all times concluded that no partnership existed, can the Minister issue a valid Notice of Determination in respect of that purported partnership under subsection 152(1.4) of the Income Tax Act?
+[2] Canada v Lux Operating Limited Partnership, 2020 FCA 162. Here is the key passage from the Federal Court of Appeal’s decision allowing the Crown’s appeal:
+[46] The answer to the question as posed by the parties is neither a definitive yes or no. It is not a question that should have been posed under Rule 58, as it is premature. The key question that needs to be answered before the validity of the determinations made under subsection 152(1.4) of the Act can be addressed is whether the partnerships existed. This is the question that the parties should be pursuing before the Tax Court. Once the validity of the partnerships has been finally decided, then either the determinations are invalid (if the partnerships did not exist) or the determinations were validly issued (if the partnerships were valid partnerships) and the correctness of the determinations that the losses were nil can be reviewed by the court.
+[Emphasis added]
+[3] One version of the proposed amendments was included in the Crown’s motion materials. Another version of the proposed amendments was presented during the hearing of the motion in response to concerns I expressed at the hearing about the first version. The third and final version of the amendments was produced by the Crown on August 1, 2024 in response to my concerns about the second version. The first and second versions of the proposed amendments were unsatisfactory as they failed to reflect Crown counsel’s position during oral argument that the new sham argument would be used only in support of the proposition that the partnerships were not valid partnerships in law.
+[4] Cited in Canada v Pomeroy Acquireco Ltd., 2021 FCA 187, at para 15.
+[5] Continental Bank at page 2310.
+[6] 2004 TCC 3 at para 10.
+[7] The fact that general partners are thinly-capitalized has long been known to the tax community. See, for example, T. E. McDonnell, “Current Cases” (1979) 27:5 Canadian Tax Journal 594-609 at 598-599 on Lipper v The Queen [1979] CTC 316; 79 DTC 5246 in which the general partner was a shell company. Interestingly, in the same case comment, Mr. McDonnell noted that the Federal Court – Trial Division held that “the purpose of the investment was not to obtain a financial return but to obtain what was presented as a great tax advantage.”
+[8] The English version of Rule 160 opens with the word “where” but the French version opens with the equivalent to “if” which is stronger and clearer. The circumstances in which this Court may order an appellant to post security for costs are thus limited to circumstances in which it appears that the appellant is resident outside of Canada.
+[9] The Income Tax Act currently includes a costs provision, but nothing with respect to “designated members” of partnerships or security for costs. The only costs provision included in the Income Tax Act is section 179.1 which, unfortunately, is not as well-known as it should be:
+No reasonable grounds for appeal
+179.1 Where the Tax Court of Canada disposes of an appeal by a taxpayer in respect of an amount payable under this Part or where such an appeal has been discontinued or dismissed without trial, the Court may, on the application of the Minister and whether or not it awards costs, order the taxpayer to pay to the Receiver General an amount not exceeding 10% of any part of the amount that was in controversy in respect of which the Court determines that there were no reasonable grounds for the appeal, if in the opinion of the Court one of the main purposes for instituting or maintaining any part of the appeal was to defer the payment of any amount payable under this Part.

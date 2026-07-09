@@ -1,0 +1,141 @@
+Title: Tesainer v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28504/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-101-28504-tesainer-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-02-20
+
+# Tesainer v. The Queen
+
+- Citation: 2008 TCC 101
+- Decision date: 2008-02-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1300, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tesainer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-20
+Neutral citation
+2008 TCC 101
+File numbers
+2006-2259(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2008TCC101
+Date: 20080220
+Docket: 2006-2259(IT)G
+2006-2260(IT)G
+BETWEEN:
+MARY LYNNE TESAINER
+and SILVANO TESAINER,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Counsel for the Appellants: Richard van Banning
+Counsel for the Respondent: Margaret J. Nott
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on
+January 18, 2008, in Toronto, Ontario.)
+McArthur J.
+[1] These appeals are from reassessments by the Minister of National Revenue for the Appellants 1992, 1993 and 1995 taxation years. The appeals were heard on common evidence. The evidence consisted of a common Book of Documents, a Partial Statement of Agreed Facts and the testimony of Silvano Tesainer. The partial Statement of Agreed Facts reads as follows:
+1. The Appellants, Silvano Tesainer and Mary Lynne Tesainer, are spouses (the “Appellants”). The years under appeal are the 1992, 1993 and 1995 taxation years.
+2. The issues are:
+(a) for the 1992 and 1993 taxation years, whether the Appellants are entitled to deduct interest expense amounts in connection with money they borrowed to invest in a limited partnership;
+(b) for the 1995 taxation year, with respect to a payment received by the Appellants in that year from the settlement of a lawsuit in which the Appellants, among others, were plaintiffs, whether the payment was received by the Appellants as a return of capital which reduced the ACB of their partnership interest (as contended by the Minister) or was a payment of compensation or damages or otherwise which did not reduce their ACB (as contended by the Appellants).
+Background Facts:
+3. In December 1998, the Appellants each acquired limited partnership units in American Diversified Realty Fund. The name American Diversified Realty Fund was subsequently changed to Fenix Development Partnership (“Fenix”).
+4. Fenix acquired an interest in real property in Mississauga, Ontario in 1988 or 1989 on which it intended to construct a commercial and industrial building.
+5. In 1989, the promoters of Fenix ran into difficulties with the Ontario Securities Commission, and after 1991, Fenix no longer owned any interest in real estate and was no longer active in the business for which it was formed."
+Interest Expenses
+6. In 1989, the Appellants borrowed $100,000 from the Toronto Dominion Bank (the “Bank”), which amount was used by the Appellants, as to $50,000 each, to acquire limited partnership units in Fenix.
+7. In and for the 1992 taxation year, the Appellants each paid $4,006 to the Bank in interest on the $50,000 borrowed by each of them in 1989 and used by them to purchase partnership units in Fenix.
+8. In and for the 1993 taxation year, the Appellants each paid $3,266 to the Bank in interest on the borrowings from the Bank.
+Characterization of Settlement Proceeds
+9. In 1992, the Appellants, along with other Fenix limited partners commenced a lawsuit against the law firm handling the private placement of the Fenix Limited partnership units (the “Lawsuit”).
+10. During 1994 examinations for discovery were conducted and the plaintiffs filed a motion for summary judgment (which was not heard because the case was settled).
+11. In April 1995, the Lawsuit was settled and Minutes of Settlement were signed. Under the Minutes of Settlement, the plaintiffs in the Lawsuit (including the Appellants) received $3,850,000. After payment of legal fees, approximately $3,200,000 net was available to be distributed to the plaintiffs.
+12. In June 1995, the Appellants, together, received $98,278.75 as their share of the said net settlement proceeds, or $49,139.38 each.
+13. In 1995, following the settlement of the Lawsuit, the Fenix Partnership was dissolved.
+Partnership ACB
+14. The parties do not, for the purposes of this litigation, dispute that, prior to the receipt of the settlement payment in June 1995, the adjusted cost base to Mr. Silvano Tesainer of his partnership interest in Fenix was ($12,679), that is, negative $12,679 as set out in Schedule B to the letter from Ms. Santiago of CRA to the Appellant and dated May 21, 1999.
+15. The parties do not, for the purposes of this litigation, dispute that, prior to the receipt of the settlement payment in June 1995, the adjusted cost base to Mrs. Mary Lynne Tesainer of her partnership interest in Fenix was $349 as set out in Schedule B to the letter from Ms. Santiago of CRA to the Appellant dared June 25, 1999.
+[2] In the testimony of Mr. Tesainer, in addition to the above agreed facts, he added that he and his wife purchased their limited partnership interest for capital appreciation and to earn income over the long term. This was corroborated by the limited partnership agreement which provided that capital could not be withdrawn from their investment for 15 years, and then only in a limited amount. A total of 93 partners invested in the project, and 74 of those, including the Appellants, participated in the lawsuit against the law firm that had acted for Fenix in its dealings with the securities commission. The remaining 19 partners did not participate.
+[3] The Respondent set out its "Basis of Reassessment" on objection as follows:
+The taxable capital gain assessed was the result of an out-of-court settlement reached regarding the Fenix partnership with respect to wrongful advice against the law firm handling the private placement of the limited partnership units.
+…
+Only the taxpayers that receive proceeds from the litigation were reassessed because of the various tax implications arising from the distribution of the funds as well as different tax attributes available for use by the individual partners. In the calculation of the adjusted cost base of the partnership interest, it includes any loss incurred by the partnership from any sources. In this regard, the capital loss incurred by the partnership in 1991 on the disposition of the property under section 79 foreclosure was included under paragraph 53(2)(c) of the Income Tax Act, resulting in a negative adjusted cost base.
+[4] In a status report to those 74 litigating partners, their solicitors advised them by letter dated January 11, 1995 that:
+I am writing to update you on the status of your lawsuit. The summary judgment motion is scheduled to be heard by Justice Farley on February 17, 1995. Briefly, on the motion we are seeking, (a) return of the $3,263,000 invested collectively by you and other Fenix investors, judgment interest, punitive damages and further directions from the court.
+Also, on April 20, 1995, their solicitors wrote advising them that the action was settled for a net of approximately $3.2 million to be divided amongst the group of 74. As stated, the limited partnership had not been active since 1991 and it was dissolved in May 1995.
+[5] The parties agree that prior to the settlement payment, the adjusted cost base of their partnership interest was a negative $12,679. The Book of Documents includes an offering memorandum and a limited partnership agreement, both very lengthy, and several related documents in a statement of claim. The statement of claim is an action by Fenix together with the 74 limited partners. They made the following claim against the law firm:
+The plaintiffs claim as follows:
+1. The individual plaintiffs claim the amount of their investment, being a total of $3,261,000 in accordance with Schedule A of the claim."
+2. The Plaintiff, Fenix, claims $3,261,000 together with damages in the amount of $3,500,000.
+All of the plaintiffs claimed lost profits of over $4 million and punitive damages of $5 million, together with interest. The settlement received was $3,850,000 and, after legal fees, approximately $3,200,000 was distributed amongst the group of 74.
+[6] The Appellants' primary position was that the settlement payment of $98,280 was not a return of their capital investment in Fenix and that as a result, paragraph 53(2)(c) of the Income Tax Act does not apply. They added that to be taxable, the situation has to fit a provision of the Act and that it does not. The payment was compensation or damages or otherwise, but was not capital that reduced the adjusted cost base. Further, that paragraph 53(2)(c) of the Act does not apply because the section refers to a distribution of capital, or at least it infers that. In the present case, there was no distribution of capital and there could not have been because the character of the settlement amount was a conglomeration of items. Further, Mr. Tesainer testified that the amount received in settlement, was a payment for lost profits, and the partnership did not provide for a return of capital.
+[7] With regard to the second issue, the Appellants' position is that they borrowed $100,000 from the Toronto-Dominion Bank to earn income from Fenix. They each paid interest on this loan of $4,006 in 1992 and $3,266 in 1993, and it is deductible under paragraph 20(1)(c) of the Act.
+[8] The Respondent emphasized that the findings of Charron J. of the Supreme Court of Canada, in Tsiaprailis v. The Queen,[1] and in particular, two determinative questions: (i) what was the payment intended to replace, and (ii) would the replaced amount have been taxable in the recipients' hands? In answer to these questions, counsel for the Respondent concludes that the payments were capital and paragraph 53(2)(c) applies.
+[9] With respect to the interest issue, the Respondent concluded that there was no possibility of a resumption of activities of the limited partnership after 1991. In fact the land upon which the intended project was to be built had been sold through power of sale by the mortgagee; the source of income had disappeared and therefore, the interest was not deductible.
+[10] I will first deal with the primary and most difficult issue being whether the payments were on account of capital or damages or otherwise. Did they replace the Appellants' capital contributions to the limited partnership or were they paid to compensate the Appellants for loss of an investment or other matters? The lump sum was paid after a lawsuit was commenced, and on the eve of the scheduled hearing for summary judgment on behalf of the Appellants. It was probably a compromise.
+[11] The Respondent relies, for the most part, on the Statement of Claim filed by the plaintiffs, which primarily, or at least as a first matter, claims for the amount of their investment which the Respondent said would be a capital amount. Counsel for the Respondent further refers to the letter of January 11, 1995, where the law firm acting on behalf of the 74 partners who instituted the lawsuit stated: "We are seeking a return of $3,263,000 you invested" along with prejudgment interest and punitive damages.
+[12] In the letter to the Appellants of April 20, 1995, that law firm advises that the action was settled for $3.2 million after expenses. The letter continues, stating in the penultimate paragraph:
+Some of you have received letters from Revenue Canada indicating that it will treat settlement amounts as reducing the adjusted cost base of your partnership interest which would likely result in a capital gain. On a general level, this means that the settlement payment to you could be reduced as much as 30 per cent after deduction of capital gains. As we have advised the steering committee, however, there is a tenable position at law that such amounts, being general damages for losses of your investment, are not subject to capital gains or other tax.
+It went on to encourage the Appellants to consult their own tax advisers. The lawsuit, of course, does not limit its claim to the amounts invested; it includes interest, punitive damages and expenses.
+[13] It is clear that the Appellants' primary claim was for their capital investment in the real estate project. The Book of Documents contains a statement presumably from the law firm acting on their behalf which indicates a return of part of their original investment. It appears to be a statement of trust funds settlement:
+Available for distribution: $3,206,000
+Amount invested by Silvano and Mary Tesainer, 100,000
+Total amount invested by all ... 3,263,000
+Tesainers’ percentage 3.06
+Proportionate share of settlement funds 98,278
+[14] In Bourgault Industries Ltd. V. The Queen,[2] Woods J. considered documentary evidence over viva voce evidence in deciding the character of a settled amount. She found it was clear from the lawsuit briefs and memoranda that the taxpayer was claiming for loss of profits. Her decision was upheld in its entirety by the Federal Court of Appeal. In Bourgault, the taxpayer had received a lump sum which he reported as capital gain and Woods J. found that the lump sum was compensation for loss of profits and was income. In Tsiaprailis, supra, the Appellant received a lump sum payment representing her entitlements to past benefits, which were found to be taxable income because the payment replaced defaulted payments that would have been taxable if they had been paid in a timely manner.
+[15] In the present appeals, the issue is not whether the settlement received by the Appellants is capital or income, but whether it is capital or something else and non‑taxable. The Appellants, in effect, submit that the payment was not a distribution of capital because it was a negotiated compromise and a commingling of perhaps several items.
+[16] In summary, the Appellants state the settlement payment cannot be capital because: (i) the limited partnership agreement does not provide for the return of capital; (ii) it could not be a partnership payment because all partners did not participate; (iii) the partnership had no intention of receiving capital; (iv) it was a negotiated compromise settlement, not a return of capital; (v) the payment came from the law firm, not from the partnership; (vi) the payment was for loss of future benefits; and (vii) the payment does not fit into the scheme of paragraph 53(2)(c) of the Income Tax Act.
+[17] The Respondent states, in part, that it is capital because: (i) it replaced the Appellants' capital investment and placed importance on the Tsiaprailis; (ii) the Appellants' lawsuit was for the amount of their investment; (iii) they claimed the return of their $100,000 and received $98,300; (iv) the documentary evidence clearly points to it being a return of capital; and (v) the partnership agreement was in reality at an end in 1991.
+[18] I believe that had the Appellants invested $10,000 rather than $100,000, the settlement amount would have been closer to the $10,000 range. While it is a difficult decision, I find on balance that the character of the payment is closer to the return of capital than payment of compensation for something else, be it damages or otherwise, and it does fit within paragraph 53(2)(c).
+[19] With respect to whether the Appellants entitled to deduct interest expense payments 1992 and 1993, having found as a fact that the business purpose of the limited partnership came to an end for all practical purposes in 1991, the source of income came to an end, and the interest payments were not pursuant to a legal obligation to pay interest on borrowed money used for the purposes of earning income from business or property in those years in accordance with paragraph 20(1)(c).
+[20] The following comment of Deschamps J. of the Supreme Court of Canada in the decision Moufarrège v. Quebec (Deputy Minister of Revenue)[3] applies equally to the present case. Deschamps J. was referring to the appeal in Bronfman Trust v. The Queen.[4]
+… the current rather than the original use that is relevant in assessing the deductibility of interest payments.
+Also, he commented on the decision of the Supreme Court of Canada in Stewart v. Canada,[5] as follows:
+Stewart did not alter the principle that when a reasonable expectation of income disappears, so does the right to a deduction. …
+Finally, the Court states:
+With regard to the shares, the company in question is bankrupt, and nothing in the record indicates a possibility of resumption of activities, so here too the source of income has disappeared even though the company has not been dissolved.
+[21] For these reasons, the appeals are dismissed with costs. The formal judgment will include a recommendation that a request by Mr. and Mrs. Tesainer under the fairness provisions with respect to interest be given favourable consideration because of an unreasonable 10-year delay in the reassessing.
+Signed at Ottawa, Canada, this 20th day of February, 2008.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2008TCC101
+COURT FILE NO.: 2006-2259(IT)G and 2006-2260(IT)G
+STYLE OF CAUSE: MARY LYNNE TESAINER &
+SILVANO TESAINER and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 15, 2008
+REASONS FOR JUDGEMENT BY: The Honourable Justice C.H. McArthur
+DATE OF AMENDED JUDGMENT: February 12, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Richard van Banning
+Counsel for the Respondent:
+Margaret J. Nott
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Richard van Banning
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2005 DTC 5126.
+[2] 2006 TCC 449.
+[3] 2005 SCC 53.
+[4] [1987] 1 S.C.R. 32.
+[5] 2002 SCC 46.

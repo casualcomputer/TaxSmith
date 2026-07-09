@@ -1,0 +1,114 @@
+Title: AAR Mortgage Corporation  c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/419067/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-154-419067-aar-mortgage-corporation-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-07-26
+
+# AAR Mortgage Corporation  c. La Reine
+
+- Citation: 2019 CCI 154
+- Decision date: 2019-07-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4212, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+AAR Mortgage Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-07-26
+Référence neutre
+2019 CCI 154
+Numéro de dossier
+2019-1709(IT)G
+Juges et Officiers taxateurs
+Gabrielle St-Hilaire
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-1709(IT)G
+ENTRE :
+AAR MORTGAGE CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête jugée sur la base d’observations écrites
+Devant : L’honorable juge Gabrielle St-Hilaire
+Comparutions :
+Représentant de l’appelante :
+Ashish Thawani
+Avocate de l’intimée :
+Me Larissa Benham
+ORDONNANCE
+Attendu que l’appelante a déposé, au titre du paragraphe 30(2) des Règles de la Cour canadienne de l’impôt (procédure générale), une requête par laquelle elle demande à se faire représenter par Ashish Thawani, une personne qui n’est pas avocate, dans l’appel qu’elle a interjeté sous le régime de la procédure générale;
+Attendu que l’appelante demande que la requête soit jugée sur la base des observations écrites et sans comparution des parties;
+Et attendu que l’intimée demande que la présente requête soit suspendue jusqu’à ce qu’une décision soit rendue dans l’affaire La Reine c. BCS Group Services Inc. (A-204-18), qui est en instance devant la Cour d’appel fédérale, et qu’à titre subsidiaire, elle s’oppose à la requête;
+Après examen des observations écrites des parties;
+La Cour ordonne que la requête soit suspendue jusqu’à ce que la Cour d’appel fédérale ait rendu sa décision dans l’affaire La Reine c. BCS Group Services Inc.
+Signé à Ottawa, Canada, ce 18e jour de juillet 2019.
+« Gabrielle St-Hilaire »
+La juge St-Hilaire
+Traduction certifiée conforme
+ce 26e jour de septembre 2019.
+Elisabeth Ross, jurilinguiste
+Référence : 2019 CCI 154
+Date : 20190718
+Dossier : 2019-1709(IT)G
+ENTRE :
+AAR MORTGAGE CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge St-Hilaire
+[1] L’appelante a déposé une requête dans laquelle elle demande qu’Ashish Thawani, qui est le président de l’appelante et n’est pas avocat, la représente dans l’appel qu’elle a interjeté sous le régime de la procédure générale.
+[2] L’intimée demande que la requête soit suspendue jusqu’à ce que la Cour d’appel fédérale rende sa décision dans l’affaire La Reine c. BCS Group Services Inc. (BCS Group) [1] . Subsidiairement, l’intimée s’oppose à la requête.
+[3] Dans ses observations écrites, l’appelante soutient qu’elle a subi des pertes considérables d’environ 800 000 $ pour l’exercice se terminant le 31 janvier 2018 et qu’elle aurait de la difficulté à payer un avocat. Je constate que l’appelante n’a fourni aucun document montrant que la société n’avait pas les moyens financiers de retenir les services d’un avocat.
+[4] La Cour a rendu de nombreuses décisions sur la question de savoir si l’article 17.1 de la Loi sur la Cour canadienne de l’impôt (la « Loi ») et l’article 30 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») permettent à une société d’être représentée par une personne autre qu’un avocat dans un appel interjeté sous le régime de la procédure générale. Dans des décisions comme Masa Sushi Japanese Restaurant Inc. c. La Reine [2] , Suchocki Accounting Ltd. c. La Reine [3] et Masa Sushi Japanese Restaurant Inc. c. La Reine [4] , la Cour a conclu que la législation interdit à une société appelante de se faire représenter par une personne qui n’est pas avocate.
+[5] Dans d’autres décisions, comme BCS Group et Sutlej Foods Inc. c. La Reine [5] , la Cour a conclu que la Loi et les Règles permettaient à une société, avec l’autorisation de la Cour, de se faire représenter par une personne qui n’est pas avocate dans un appel interjeté sous le régime de la procédure générale.
+[6] La décision BCS Group rendue par notre Cour a été portée en appel devant la Cour d’appel fédérale et une demande d’audience a été déposée.
+[7] Étant donné que la Cour d’appel fédérale rendra prochainement sa décision dans l’affaire BCS Group, dont la question centrale est la même que celle qui doit être tranchée en l’espèce et a été source de conclusions divergentes de notre Cour, il est ordonné que la présente requête soit suspendue jusqu’à ce que la Cour d’appel fédérale ait rendu sa décision.
+Signé à Ottawa, Canada, ce 18e jour de juillet 2019.
+« Gabrielle St-Hilaire »
+La juge St-Hilaire
+Traduction certifiée conforme
+ce 26e jour de septembre 2019.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2019 CCI 154
+NO DU DOSSIER DE LA COUR :
+2019-1709(IT)G
+INTITULÉ :
+AAR MORTGAGE CORPORATION c. LA REINE
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Gabrielle St-Hilaire
+DATE DE L’ORDONNANCE :
+Le 18 juillet 2019
+COMPARUTIONS :
+Représentant de l’appelante :
+Ashish Thawani
+Avocate de l’intimée :
+Me Larissa Benham
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] 2018 CCI 120, dossier A-204-18 en appel devant la Cour d’appel fédérale.
+[2] 2017 CCI 239.
+[3] 2018 CCI 88.
+[4] 2018 CCI 98.
+[5] 2019 CCI 20.

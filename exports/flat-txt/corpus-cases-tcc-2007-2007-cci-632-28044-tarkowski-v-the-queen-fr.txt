@@ -1,0 +1,133 @@
+Title: Tarkowski v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28044/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-632-28044-tarkowski-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-10-11
+
+# Tarkowski v. The Queen
+
+- Citation: 2007 CCI 632
+- Decision date: 2007-10-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1597, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tarkowski v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-11
+Référence neutre
+2007 CCI 632
+Numéro de dossier
+2007-565(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-565(IT)I
+ENTRE :
+MAREK D. TARKOWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 11 octobre 2007, à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentante de l’appelant :
+Mme Stella Tarkowski
+Avocat de l’intimée :
+Me Brandon Siegal
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli avec dépens, et les nouvelles cotisations établies à l’égard de l’appelant pour les années d’imposition 2003 et 2004 sont annulées.
+Signé à Halifax (Nouvelle-Écosse), ce 18e jour d’octobre 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 29e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI632
+Date : 20071018
+Dossier : 2007-565(IT)I
+ENTRE :
+MAREK D. TARKOWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] L’appelant a demandé un crédit d’impôt pour frais de scolarité à l’égard des frais qui avaient été payés en 2003 et en 2004 pour les leçons de musique de son fils. Les crédits ont été transférés à l’appelant en vertu de l’article 118.9 de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] Il s’agit en l’espèce de savoir si les frais de scolarité qui ont été payés se rapportaient à un cours de niveau postsecondaire suivi dans un établissement d’enseignement qui offrait des cours de ce niveau.
+[3] Le paragraphe 118.5(1) de la Loi prévoit notamment ce qui suit :
+(1) Les montants suivants sont déductibles dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+a) si le particulier est inscrit au cours de l’année à l’un des établissements d’enseignement suivants situés au Canada :
+(i) établissement d’enseignement – université, collège ou autre – offrant des cours de niveau postsecondaire.
+[...]
+le produit de la multiplication du taux de base pour l’année par les frais de scolarité payés à l’établissement pour l’année si le total de ces frais dépasse 100 $, à l’exception des frais :
+(ii.1) soit qui sont payés à un établissement visé au sous‑alinéa (i) pour des cours qui ne sont pas de niveau postsecondaire.
+[4] Par conséquent, afin de demander le crédit d’impôt pour frais de scolarité (et de créer ainsi un crédit d’impôt pour frais de scolarité susceptible d’être transféré à l’appelant), le fils de l’appelant devait être inscrit dans un établissement d’enseignement situé au Canada qui offrait des cours de niveau postsecondaire, et les montants payés devaient avoir été payés pour ces cours.
+[5] Le fils de l’appelant prenait des leçons de musique à la Mississauga School of Music. En 2003, le fils suivait des cours de théorie, troisième année, et en 2004, il suivait des cours de piano, neuvième année, et des cours d’harmonie, troisième et quatrième années. Les cours d’harmonie de troisième et quatrième années sont des cours de niveau plus élevé que les cours de piano, huitième année, et de théorie, deuxième année. Les niveaux sont établis par le Conservatoire royal de musique. Le fils de l’appelant a obtenu un crédit de douzième année en musique de son école secondaire, l’école secondaire Michael Power St. Joseph, parce qu’il avait suivi des cours de piano, huitième année, et de théorie, deuxième année.
+[6] L’intimée a soulevé deux questions principales à ce sujet. Elle a soulevé la question de savoir si ces cours étaient des cours de niveau postsecondaire et si la Mississauga School of Music était un établissement d’enseignement pour l’application du paragraphe 118.5(1) de la Loi.
+[7] Au paragraphe 12 de la réponse, il est déclaré ce qui suit :
+[traduction]
+Au cours des années d’imposition 2003 et 2004, le fils étudiait à la Mississauga School of Music (la « MSM »).
+[8] Le fils en question est Mateusz Tarkowski, qui est le fils de l’appelant.
+[9] Par conséquent, étant donné que selon l’une des hypothèses, Mateusz Tarkowski étudiait à la Mississauga School of Music, je conclus qu’il était inscrit à la Mississauga School of Music.
+[10] La Mississauga School of Music était une école où l’on donnait les cours susmentionnés. Dans la décision Hillman c. La Reine, 2006 CCI 578, le juge Rip (tel était alors son titre) a fait les remarques suivantes :
+[12] Bien que j’aie déjà décidé que BAR/BRI n’est pas un établissement d’enseignement situé au Canada, il peut être utile d’examiner la question de savoir s’il s’agit d’un établissement d’enseignement. Dans la décision Friedland v. R.[1], le juge suppléant Rowe de la Cour canadienne de l’impôt, après avoir fait observer qu’il ne semble pas y avoir de définition universelle du terme « établissement d’enseignement », a tenté d’établir les paramètres de la définition dans le cadre de la Loi :
+Le Oxford English Dictionary définit le mot « enseignement » (education) de la façon suivante :
+[traduction]
+3. Instruction, étude ou formation systématiques données aux jeunes gens afin de les préparer à une vie de travail; par extension, instruction ou formation obtenue à l’âge adulte. Désigne également le processus complet de l’instruction scolaire dont un individu a bénéficié. Souvent utilisé avec des mots restrictifs qui indiquent la nature ou l’objet principal de l’instruction ou le genre de vie auquel elle prépare, comme classique, juridique, médical, technique, commercial, artistique.
+et définit le mot « établissement » (institution) ainsi :
+[traduction]
+7. Institution, organisation ou association fondée pour la promotion d’un certain objectif, particulièrement un objectif d’utilité publique ou générale, religieux, charitable, d’enseignement, etc., comme une église, une école, un collège, un hôpital, un asile, une maison de correction, un poste de missionnaire; [...] Ce mot est souvent familièrement utilisé pour désigner les édifices utilisés par un établissement de bienfaisance ou d’enseignement.
+[13] Le Black’s Law Dictionary, 6e édition, définit un « établissement d’enseignement » (educational institution) de la façon suivante :
+[traduction]
+École, séminaire, collège, université ou autre institution d’enseignement, qui ne détient pas nécessairement de charte. Tel qu’il est utilisé dans les ordonnances de zonage, ce terme peut inclure les édifices ainsi que tous les terrains nécessaires pour mener à bien l’enseignement éducatif dans son ensemble, y compris les aspects essentiels du développement mental, moral et physique.
+[11] Mateusz Tarkowski suivait des cours d’harmonie, troisième et quatrième années, et de piano, neuvième année, à la Mississauga School of Music, dans les locaux de l’école. Un enseignant lui donnait les cours à l’école.
+[12] Par conséquent, il semble clair que la Mississauga School of Music était un établissement d’enseignement, étant donné que l’on y enseignait la musique à Mateusz Tarkowski. L’enseignement était donné par un professeur particulier, mais il s’agit tout simplement de la méthode employée pour ces cours. Le fait que la Mississauga School of Music elle‑même ne faisait pas passer d’examen ne veut pas dire pour autant que l’école n’enseignait pas à Mateusz Tarkowski ou que celui‑ci ne suivait pas de cours.
+[13] Dans le Canadian Oxford Dictionary, deuxième édition, le mot « course » (cours) est défini comme suit : [traduction] « Série de conférences, de leçons, etc., portant sur une matière particulière. » On peut donner un cours sans pour autant faire passer d’examen à la fin du cours. Il peut y avoir « instruction, étude ou formation systématiques » sans qu’il y ait d’examen. Je conclus donc que la Mississauga School of Music est un établissement d’enseignement.
+[14] Il s’agit ensuite de savoir si les cours que Mateusz Tarkowski suivait étaient des cours de niveau postsecondaire. Mateusz Tarkowski n’a obtenu son diplôme d’études secondaires qu’après l’année 2004. Les cours de niveau postsecondaire seraient des cours d’un niveau plus élevé que ceux qui sont donnés dans une école secondaire. C’est le statut du cours, et non le statut du particulier qui suit le cours, qui permet de d’établir s’il s’agit d’un cours de niveau postsecondaire. Étant donné que Mateusz Tarkowski a obtenu un crédit d’école secondaire de douzième année pour les cours de piano, huitième année, et de théorie, deuxième année, et puisque la douzième année était sa dernière année à l’école secondaire, tout cours suivi à un niveau de musique et de théorie plus élevé que ceux pour lesquels il a obtenu son crédit de douzième année doivent être des cours de niveau postsecondaire. Les cours de piano, neuvième année, et d’harmonie, troisième et quatrième années, doivent être des cours postsecondaires étant donné que, pour suivre ces cours, il faut un crédit d’école secondaire de douzième année. Les cours de musique sont des cours qui sont donnés dans les universités. Dans la décision Setchell c. la Reine, 2006 CCI 37, [2006] 2 C.T.C. 2259, 2006 DTC 2279, la juge Woods a fait remarquer ce qui suit :
+[...] les cours offerts par SAP n’exigeaient pas de diplôme d’études secondaires comme préalable.
+[15] Toutefois, en l’espèce, pour suivre les cours de piano, neuvième année, et d’harmonie, troisième et quatrième années, que Mateusz Tarkowski suivait, l’étudiant devait avoir complété le niveau d’école secondaire en musique. Cela étant, ces cours étaient de niveau postsecondaire. Par conséquent, je conclus que la Mississauga School of Music donnait des cours de niveau postsecondaire et que les montants en question qui ont été payés au titre des frais de scolarité pour les années 2003 et 2004 ont été payés pour des cours de niveau postsecondaire.
+[16] L’avocat de l’intimée a également soulevé la question de l’âge de Mateusz Tarkowski, qui est né en 1989 et qui devait donc avoir 14 ou 15 ans en 2003 et en 2004. Toutefois, par suite du sous‑alinéa 118.5(1)a)(ii.2) de la Loi, l’âge de la personne qui suit le cours est uniquement pertinent dans le cas de particuliers qui suivent les cours décrits au sous‑alinéa 118.5(1)a)(ii) de la Loi. L’âge de la personne qui suit le cours n’est pas pertinent dans le cas d’un particulier qui suit des cours décrits au sous‑alinéa 118.5(1)a)(i) de la Loi, soit les cours qui sont ici en cause.
+[17] L’appel est accueilli, et les nouvelles cotisations sont annulées. L’appelant a droit à ses dépens, déterminés conformément aux Règles de la Cour canadienne de l’impôt (procédure informelle).
+Signé à Halifax (Nouvelle-Écosse), ce 18e jour d’octobre 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 29e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI632
+No DU DOSSIER DE LA COUR : 2007-565(IT)I
+INTITULÉ : MAREK D. TARKOWSKI
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 11 octobre 2007
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 18 octobre 2007
+COMPARUTIONS :
+Représentante de l’appelant :
+Mme Stella Tarkowski
+Avocat de l’intimée :
+Me Brandon Siegal
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [2000] 1 C.T.C. 2938 (C.C.I.).

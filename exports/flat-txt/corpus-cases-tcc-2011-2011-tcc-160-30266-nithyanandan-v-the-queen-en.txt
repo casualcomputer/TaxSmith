@@ -1,0 +1,111 @@
+Title: Nithyanandan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30266/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-160-30266-nithyanandan-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-03-14
+
+# Nithyanandan v. The Queen
+
+- Citation: 2011 TCC 160
+- Decision date: 2011-03-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7975, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nithyanandan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-14
+Neutral citation
+2011 TCC 160
+File numbers
+2010-1902(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-1902(IT)I
+BETWEEN:
+KISHANTHAN NITHYANANDAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 25, 2011 at Toronto, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stephen Oakey (Student-at-law)
+John Grant
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the Appellant’s 2004 and 2005 taxation years are allowed, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) in computing the Appellant’s income from his sole proprietorship in 2004 the Appellant is entitled to deduct $2,274 for accommodations; and
+(b) in computing the Appellant’s income from his sole proprietorship in 2005 the Appellant is entitled to deduct $9,200 for the amount he paid to his spouse for the services that she rendered in relation to the sole proprietorship.
+The Appellant is entitled to costs which are fixed in the amount of $500.
+Signed at Ottawa, Canada, this 14th day of March, 2011.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2011TCC160
+Date: 20110314
+Docket: 2010-1902(IT)I
+BETWEEN:
+KISHANTHAN NITHYANANDAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] These appeals relate to the denial of certain amounts that were claimed by the Appellant as expenses in determining his income from a sole proprietorship in 2004 and 2005. At the commencement of the hearing the Appellant indicated that the deductions in issue were for the following two items:
+2004:
+Accommodations: $2,274
+2005:
+Salaries and wages: $9,200
+[2] Following the presentation of the evidence at the hearing, counsel for the Respondent conceded that the Appellant should be allowed the deduction for accommodation of $2,274. As a result the only remaining issue is whether the Appellant is entitled to deduct $9,200 that was identified in the schedule that was submitted at the hearing as “salaries and wages”.
+[3] The Appellant worked full time for Ford Motor Company in 2004 and 2005. In addition to his job, the Appellant operated, as a sole proprietorship, a consulting business that was related to leak test applications for manufacturing companies to determine if the products that they were manufacturing were leaking.
+[4] The Appellant’s business was involved in one project in 2004 and 2005. There was a Phase A in 2004 and a Phase B in 2005. The Appellant had hired an arm’s length person as a contractor and this contractor provided services in 2004 and 2005. In 2005 the Appellant needed additional help and he retained his wife who has a Bachelor of Science degree from the University of Windsor in Honours electrical engineering / computer option. The Appellant stated that his wife would “supervise the [installation] and implementation and debugging of a particular hardware portion of it”. This work was performed at the customer’s site. The project assigned to his wife lasted for about 4 to 6 months.
+[5] The Appellant stated that he paid his wife $9,200 in four payments made throughout the year. In paragraph 9(g) of the Reply, it is stated that the Appellant’s spouse did report $9,200 as gross business income in computing her income for 2005. As well, the following are the total amounts deducted by the Appellant as “salaries, wages and benefits” (which was how the amount paid to his wife in 2005 was claimed) in determining his income for 2004 and 2005:
+2004
+2005
+Salaries, wages and benefits
+$24,535
+$19,700
+[6] The amount claimed for 2005 when his wife was providing services was less than the amount that he claimed for 2004 when she was not providing services to his sole proprietorship.
+[7] I accept the testimony of the Appellant. It is more likely than not that he retained the services of his wife in 2005 and that she earned and was paid $9,200 for these services.
+[8] As a result the appeals are allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) in computing the Appellant’s income from his sole proprietorship in 2004 the Appellant is entitled to deduct $2,274 for accommodations; and
+(b) in computing the Appellant’s income from his sole proprietorship in 2005 the Appellant is entitled to deduct $9,200 for paid to his spouse for the services that she rendered in relation to the sole proprietorship.
+[9] The Appellant is entitled to costs which are fixed in the amount of $500.
+Signed at Ottawa, Ontario, this 14th day of March, 2011.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2011TCC160
+COURT FILE NO.: 2010-1902(IT)I
+STYLE OF CAUSE: KISHANTHAN NITHYANANDAN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 25, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: March 14, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stephen Oakey (Student-at-law)
+John Grant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

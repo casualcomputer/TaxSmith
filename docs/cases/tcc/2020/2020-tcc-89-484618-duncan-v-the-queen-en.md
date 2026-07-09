@@ -1,0 +1,192 @@
+---
+title: "Duncan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/484618/index.do"
+last_modified: "2020-08-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 89"
+citation2: ""
+neutral_citation: "2020 TCC 89"
+decision_date: "2020-08-26"
+language: "en"
+item_id: "484618"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4559
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:04:15.744000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5e984cae4089487a3244288ea2e66fe0b733f824a45d154e8eb3df39cd3723ef"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Duncan v. The Queen
+
+- Citation: 2020 TCC 89
+- Decision date: 2020-08-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4559, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duncan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-08-26
+Neutral citation
+2020 TCC 89
+File numbers
+2019-615(GST)APP
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2019-615(GST)APP
+BETWEEN:
+FLOYD DUNCAN,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on November 14, 2019, at Toronto, Ontario.
+Before: The Honourable Justice Gaston Jorré, Deputy Judge
+Appearances:
+Counsel for the Applicant:
+Adam Z. Serota
+Counsel for the Respondent:
+Eric Myles
+ORDER
+In accordance with the attached Reasons for Order, the Application for an order extending the time within which to file a Notice of Objection to the Notice of Assessment dated 15 December 2016 in respect of the new housing rebate pursuant to the GST/HST is hereby granted.
+The Notice of Objection dated 3 January 2019 and filed with the Canada Revenue Agency on the same date that was attached to the Applicant’s Application to Extend the Time to Object is hereby deemed to be a valid Notice of Objection instituted on the date of this order.
+Signed at Ottawa, Canada, this 26th day of August 2020.
+“G. Jorré”
+Jorré D.J.
+Citation: 2020 TCC 89
+Date: 2020 08 26
+Docket: 2019-615(GST)APP
+BETWEEN:
+FLOYD DUNCAN,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Jorré D.J.
+I. INTRODUCTION
+[1] This is an Application to extend the time to file a Notice of Objection. For the reasons that follow, the Application will be allowed.
+[2] The Applicant applied for a new housing rebate. Subsequently by a Notice of Assessment dated 15 December 2016 the rebate application was denied. [1]
+[3] The Applicant later filed a Notice of Objection dated 3 January 2019.
+[4] The Canada Revenue Agency took the position that the objection was invalid because it was out of time and the Applicant has now made a time extension application to this court pursuant to section 304 of the Excise Tax Act. [2]
+[5] Four witnesses testified at the hearing including the Applicant and his spouse as well as two officers of the Canada Revenue Agency. A number of documents were put into evidence including some lengthy printouts from certain revenue databases that record information and actions by the Canada Revenue Agency including contacts with the Applicant. The lengthy printouts use a great many abbreviations and are not always straightforward to read.
+[6] The relevant portions of subsection 304 reads as follows:
+304 (1) Extension of time by Tax Court
+A person who has made an application under section 303 may apply to the Tax Court to have the application granted after either
+(a) the Minister has refused the application, or
+(b) …
+but no application under this section may be made after the expiration of thirty days after the day the decision has been mailed to the person under subsection 303(5).
+(2) How application made
+…
+(3) Copy to Commissioner
+…
+(4) Powers of Court
+The Tax Court may dispose of an application made under subsection (1) by
+(a) dismissing it, or
+(b) granting it,
+and in granting an application, it may impose such terms as it deems just or order that the notice of objection or the request be deemed to be a valid objection or request as of the date of the order.
+(5) When application to be granted
+No application shall be granted under this section unless
+(a) the application was made under subsection 303(1) within one year after the expiration of the time otherwise limited by this Part for objecting or making a request under subsection 274(6), as the case may be; and
+(b) the person demonstrates that
+i) within the time otherwise limited by this Act for objecting,
+(A) the person was unable to act or to give a mandate to act in the person's name, or
+(B) the person had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made under subsection 303(1) as soon as circumstances permitted it to be made.
+[7] The main focus of the hearing was on the question whether or not the time extension application was made within the one year time period referred to in paragraph 304(5)(a). That in turn depends on whether, and, if so, when, the Notice of Assessment was sent.
+[8] In DaSilva v. The Queen [3] . Justice Graham summarizes how this question is to be approached:
+The Tax Court of Canada and Federal Court of Appeal have had many opportunities to consider what happens when a taxpayer alleges that the Minister did not mail a notice of assessment or a notice of confirmation. I have previously summarized the steps that have emerged from those cases in respect of notices of assessment (see Mpamugo v. The Queen) and notices of confirmation (see Boroumend v. The Queen) under the Income Tax Act. I reproduce those steps below, with the modifications necessary to cover notices of assessment issued under the Excise Tax Act.
+a) Step 1: The taxpayer must assert that the notice of assessment was not sent. A taxpayer normally does so in one of two ways. The taxpayer may assert that he or she did not receive the notice of assessment and thus believes that it was not mailed. Alternatively, the taxpayer may assert that the notice was mailed to the wrong address through no fault of the taxpayer and was thus, in effect, not mailed. The Federal Court of Appeal has made it clear that if the taxpayer’s assertion is not credible, there is no need to proceed to Step 2.
+b) Step 2: If the taxpayer asserts that the notice of assessment was not sent, the Minister must introduce sufficient evidence to prove, on a balance of probabilities, that the notice of assessment was indeed sent or, if the taxpayer has asserted that it was sent to the wrong address, that it was sent to the address that the CRA properly had on file.
+c) Step 3: If the Minister is able to prove that the notice of assessment was sent, then the sending is presumed to have occurred on the date set out on the notice (subsection 335(10)). This is a rebuttable presumption. The taxpayer may introduce evidence to prove that it was actually sent on a different date. The deadline for filing a notice of objection is calculated from the date established by this step (subsection 301(1.1)).
+d) Step 4: Once the sending date is established (either through the presumption or through proof of a different date), the assessment is deemed to have been made on that date (subsection 335(11)) and the notice of assessment is deemed to have been received on that date (subsection 334(1)). These deeming provisions are not rebuttable. Step 4 is not strictly relevant for the purpose of determining the deadline for filing a notice of objection. That determination is made in Step 3. Step 4 simply makes it clear that the fact that a taxpayer did not actually receive the notice of assessment is irrelevant.
+(Footnotes omitted.)
+[9] Later, I will mention certain adaptations that must be made to this approach in the factual circumstances of this case.
+[10] Both the Applicant and his spouse testified that they did not receive the Notice of Assessment. While there was a certain amount of evidence about various correspondence that they did not receive and other correspondence they did receive [4] . I found the Applicant forthright in his testimony [5] and am satisfied that he was answering to the best of his recollection as to what happened; I accept his evidence that he did not receive the Notice of Assessment dated 15 December 2016. I also accept the evidence of his spouse. [6]
+[11] Turning to the second step, the Respondent introduced a significant amount of evidence in the form of affidavits and the testimony of two Canada Revenue Agency employees, Mr. Wu and Mr. Trevor Neill. The evidence goes quite a long way towards showing the mailing of the Notice of Assessment in issue.
+[12] However, the factual situation here is remarkably like that in the DaSilva case insofar as Mr. Neil, because he did not have access to a particular system had to rely on certain information provided by another revenue officer, Stacy Dugay.
+[13] In DaSilva Justice Graham stated:
+[8] Subsection 335(6) sets out specific requirements that must be met in order for the Minister to rely on an affidavit to prove mailing. Mr. Neill’s affidavit does not satisfy these requirements. Mr. Neill sets out in detail how the mailing system works at the CRA. Mr. Neill has personal knowledge of that system. I accept his evidence in this regard. However, Mr. Neill relied on a senior programs officer named Stacey Dougay to provide him with a key piece of information. That key piece of information is the number of the business client communications system cycle (the “BCCS cycle”) in which Ms. DaSilva’s notice of assessment was to be printed. Mr. Neill personally confirmed that the BCCS cycle whose number was provided by Ms. Dougay ran without errors. It was on that basis that he concluded that Ms. DaSilva’s notice of assessment had been mailed. The problem is that Mr. Neill did not have personal knowledge of which BCCS cycle contained Ms. DaSilva’s notice of reassessment. Subsection 335(6) requires that, if the Minister wants to rely on an affidavit to prove mailing, the affiant must have charge of the appropriate records and must have reviewed them. Mr. Neill cannot be said to have reviewed the records that were, in fact, reviewed by Ms. Dougay.
+[9] The fact that this portion of Mr. Neill's affidavit does not comply with subsection 335(6) does not mean that I must disregard it. If the Minister is unable to provide an affidavit that complies with subsection 335(6), the Court must weigh the evidence provided by the Minister against the evidence provided by the taxpayer in order to determine whether it is more likely than not that the notice was mailed.
+[10] Mr. Neill’s evidence regarding the BCCS cycle is based on information and belief. Section 72 of the Tax Court of Canada Rules (General Procedure) permits affidavit evidence based on information and belief to be admitted if the source of the information and the fact of the belief are stated in the affidavit. Any concerns about the necessity of the resulting hearsay evidence or its reliability go to the weight the Court should give to the evidence. Mr. Neill’s affidavit complies with section 72. He identifies which statements are made on information and belief and states the sources of that information and his belief in them. Accordingly, I find Mr. Neill’s evidence regarding the BCCS cycle to be admissible. However, the question of how much weight I should give to that evidence remains.
+[11] It clearly would have been preferable to have an affidavit from Ms. Dougay in respect of the BCCS cycle. This is important evidence, without which all that I have is evidence as to how the mailing system works and evidence that it worked properly on one occasion. There is nothing to link that occasion to Ms. DaSilva’s notice of assessment. I know that a specific BCCS cycle was successfully mailed but I do not know that Ms. DaSilva’s notice of assessment was part of that cycle. Ms. DaSilva was deprived of the opportunity to cross-examine anyone in respect of that issue even though Ms. Dougay is employed by the CRA and, in fact, works in the same office as Mr. Neill. I am not satisfied that there was any necessity for the Respondent to rely on information and belief in Mr. Neill’s affidavit. The Respondent could easily have obtained an affidavit from Ms. Dougay on that issue. As a result, I give no weight to that portion of Mr. Neill’s affidavit.
+[12] I am thus left with unsatisfactory evidence that the notice of assessment was mailed to be balanced against credible evidence that it was never received. In the circumstances, I find that the Respondent has failed to discharge her burden of proving mailing.
+[14] On the evidence before me, I have reached a similar conclusion. The Minister has not shown mailing of the Notice of Assessment. Accordingly, the time for Objecting did not begin on 15 December 2016.
+[15] I turn now to the remaining steps in the analysis.
+[16] At this point, I have to take account of certain evidence before me and, because of that evidence, diverge somewhat in applying the remaining steps of the analysis.
+[17] Specifically, given that it is clear that the Applicant eventually received the Notice of Assessment prior to filing the Notice of Objection [7] , I have to determine when that happened. If it was within 90 days of the Notice of Objection no time extension is necessary and the Objection would be valid; if it was earlier then a time extension is necessary for the objection to be valid. Nothing in the evidence would suggest a date of sending prior to 2018. [8]
+[18] The Applicant testified that the first time he saw the Notice of Assessment was in his lawyer’s office. The evidence does not disclose when that meeting was nor does it disclose directly how the Notice of Assessment got there. From the limited evidence available, I conclude that it is most likely to have been received by the Applicant as an attachment to the letter of 6 March 2018 from the Canada Revenue Agency with the consequence that the Objection is out of time unless a time extension is granted. [9]
+[19] It follows that the time period for objecting began on or about 6 March 2019 and the application to extend the time to object was made about six months after the time for objecting, well within the one-year period referred to in paragraph 304(5)(a) of the Excise Tax Act.
+[20] I would just add with respect to the other requirements for a time extension that I am satisfied that they are met in the circumstances. [10]
+[21] Accordingly, the Application will be allowed and the Notice of Objection dated 3 January 2019 and filed with the Canada Revenue Agency on the same date that was attached to the Applicant’s Application to Extend the Time to Object is hereby deemed to be a valid Notice of Objection instituted on the date of this order.
+Signed at Ottawa, Canada, this 26th day of August 2020.
+“G. Jorré”
+Jorré D.J.
+CITATION:
+2020 TCC 89
+COURT FILE NO.:
+2019-615(GST)APP;
+STYLE OF CAUSE:
+FLOYD DUNCAN AND HER MAJESTY THE QUEEN;
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 14, 2019
+TRANSCRIPT RECEIVED:
+December 2, 2019
+REASONS FOR ORDER BY:
+The Honourable Justice Gaston Jorré, Deputy Judge
+DATE OF JUDGMENT:
+August 26, 2020
+APPEARANCES:
+Counsel for the Applicant:
+Adam Z. Serota
+Counsel for the Respondent:
+Eric Myles
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Adam Z. Serota
+Firm:
+BRS Tax Lawyers LLP Blank
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Notice of Assessment in question is in fact titled: “Notice of (Re) Assessment”. Nothing in the evidence indicates that there was a prior assessment and no one has suggested otherwise and, accordingly, I am proceeding on the basis that this was a Notice of Assessment.
+[2] From a process point of view, the Applicant’s Notice of Objection filed with the Canada Revenue Agency contained both the Notice of Objection and an Application to Extend the Time to Object. The Agency then responded taking the position that the Objection was beyond the 90 day period to object; the Agency further took the position that it could not extend the time because the time extension application was beyond the one year period during which the time to object could be extended and, accordingly, denied the time of extension.
+[3] 2018 TCC 74 at paragraph 4.
+[4] Notably, some Income Tax Act related correspondence.
+[5] For example, in readily acknowledging in cross-examination that he received the letter of 6 March 2018 – Transcript, page 23.
+[6] To be more precise, I am satisfied that he did not receive it at any time that could be reasonably be related to the Assessment being sent on or around 15 December 2016. The Applicant did eventually receive a copy prior to filing the Objection dated 3 January 2019 – see below.
+[7] Even if the Minister fails to prove the date of mailing, if the Notice was subsequently mailed or otherwise sent or delivered to the Applicant, that later date will start the clock if the assessment is timely – on the question of other means of delivery, see Grunwald v. HMTQ, 2005 FCA 421, (leave to appeal to the SCC dismissed [2006] G.S.T.C. 44).
+[8] I note that, even if sent on the date of the Notice of Objection the Notice of Assessment would be timely in any event.
+[9] While there is no evidence to this effect, theoretically counsel could have obtained it acting as the Applicant’s agent. However, that is unlikely since that is inconsistent with the CRA asking counsel for a consent to online access form on 3 January 2019, a form RC 59 – see screen 5 of Exhibit I of the Affidavit of Mr Wu, Exhibit R-3. On the other hand the Applicant acknowledged receiving the letter of 6 March 2018 and given the comments in the CRA’s electronic notes regarding the Applicant’s questions it is more likely than not that the Applicant received the Notice with that letter although he may not have understood what it was.
+[10] It is clear from the CRA’s electronic notes that Applicant did not agree and wanted to dispute the assessment. Given the fact that, overlapping in time, there was an ongoing issue regarding an income tax debt at the same time and given that I am satisfied that the Applicant was no doubt initially confused about the new housing rebate because it was no something directly paid to him, I am satisfied that the application was made as soon as circumstances permitted. Finally, it is clear that would be just and equitable to allow the application.

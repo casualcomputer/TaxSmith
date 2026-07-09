@@ -1,0 +1,270 @@
+Title: 267 O'Connor Limited v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521372/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-161-521372-267-o-connor-limited-v-the-king.md
+Document type: case_law
+Last modified: 2024-12-17
+
+# 267 O'Connor Limited v. The King
+
+- Citation: 2024 TCC 161
+- Decision date: 2024-12-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6065, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+267 O'Connor Limited v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-12-17
+Neutral citation
+2024 TCC 161
+File numbers
+2020-259(GST)I
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2020-259(GST)I
+BETWEEN:
+267 O'CONNOR LIMITED,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on May 13, 2024 and October 2, 2024, at Ottawa, Ontario
+Before: The Honourable Justice Ronald MacPhee
+Appearances:
+Counsel for the Appellant:
+Susan Tataryn
+Counsel for the Respondent:
+Dina Elleithy
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, notice of which is dated May 7, 2019 for the reporting period starting on July 1, 2018 and ending on September 30, 2018, is dismissed.
+Both parties shall be responsible for their own costs.
+Signed at Ottawa, Canada, this 17th day of December 2024.
+“R. MacPhee”
+MacPhee J.
+Citation: 2024 TCC 161
+Date: 20241217
+Docket: 2020-259(GST)I
+BETWEEN:
+267 O'CONNOR LIMITED,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+MacPhee J.
+I. Introduction [1] 267 O’Connor Limited (the Appellant) brings this appeal as a result of the Minister’s disallowance of their claim for Input Tax Credits (ITCs) in the sum of $53,758.44 for the reporting period starting July 1, 2018 and ending September 30, 2018. The Appeal was commenced under the General Procedure rules but was moved to the Informal Procedure at the Appellant’s request.
+[2] The Appellant claimed ITCs following the conclusion of a civil lawsuit with a third-party (Starwood) wherein the Appellant paid the third-party a lump sump to settle the litigation.
+[3] The issue in this Appeal is whether the Appellant, as part of its payment to settle the litigation with Starwood, was the “recipient” of taxable supplies and meets the requirements as set out in the Excise Tax Act (“Act”) such that it is entitled to the claimed ITCs.
+[4] The parties filed an agreed statement of facts, which stated the following:
+The Appellant is a company incorporated under the laws of Ontario.
+The Appellant is registered for the purposes of Part IX of the Excise Tax Act (“Act”).
+The Appellant filed its net tax returns on a quarterly basis for the purposes of the Act, for the quarters ending on March 31, June 30, September 30, and December 31.
+Starwood Acquisitions Inc. (“Starwood”) is a property development company incorporated under the Business Corporations Act of Ontario, in the business of buying and developing of real property.
+The Appellant owned the property at 267 O’Connor Street, Ottawa, Ontario (the “Property”).
+In June 2013, the Appellant had appealed the decision of the City Counsel of Ottawa to amend its Official Plan Amendment No. 117 to the Ontario Municipal Board (the “OMB”; “OMB appeal”)[1]
+On or about August 15, 2013 (by agreement dated August 9, 2013), the Appellant entered into an Agreement of Purchase and Sale of the real property at 267 O’Connor Street toStarwood (the “PSAgreement” and “Real Estate Transaction”).
+The Real Estate Transaction was scheduled to close on or around May 1, 2014.
+Following the execution of the PSAgreement, Starwood assumed carriage of the OMB Appeal for the Property.
+Starwood, via Mastercraft Management Inc. (“Mastercraft”) and Starwood Group Inc., retained various service providers to assist with the OMB Appeal.
+The Appellant and Starwood were never related companies.
+The Appellant and Mastercraft were never related companies.
+The Appellant and Starwood Group Inc. were never related companies.
+Starwood’s HST number is 882572134.
+The Real Estate Transaction failed to close.
+On or about April 23, 2014, Starwood commenced a lawsuit against the Appellant in the Ontario Superior Court of Justice for, inter alia, specific performance of the PSAgreement and an abatement of the purchase price (the “Lawsuit”).
+The Appellant filed a defence and counterclaim in the Lawsuit.
+Initially (in at least the second half of 2013), the lawyer Janet Bradley from the firm Borden Ladner Gervais (“BLG”) represented Starwood in respect of the OMB Appeal until July 23, 2014.
+After the Real Estate Transaction failed to close, carriage of the OMB Appeal reverted to the Appellant.
+From July 30, 2014, Janet Bradley of BLG represented the Appellant, 267 O’Connor Ltd., in respect of the Property at the OMB Appeal (Ontario Municipal Board Case Number PL130619).
+The Appellant pursued the OMB Appeal, during the course of the Lawsuit with Starwood, including the hearing from September 15 to October 1, 2014, in Ottawa, and the City of Ottawa’s leave to appeal to the Superior Court of Justice, Divisional Court, heard in January 2016.
+Mr. Fobert, a land use planning consultant with Fotenn Consultants Inc., and Mr. Roderick Lahey, an architect, testified at the OMB Appeal for the Appellant.
+The OMB issued a decision dated April 29, 2015, (cited as 2015 CanLii 24187), where the Appellant, 267 O’Connor Limited, was a party at the OMB Appeal. Paragraph 1 of the OMB decision states “Starwood Acquisition’s Inc., which had an interest in the property known municipally as 267 O’Connor Street, is no longer a party to the hearing.”
+Ms. Bradley of BLG further represented the Appellant during the City of Ottawa’s leave to appeal motion from the OMB decision to Ontario Superior Court of Justice – Divisional Court.
+Leave to appeal from the OMB decision was denied by the Ontario Superior Court of Justice – Divisional Court on January 22, 2016 (Court File Number 15‑DC-2116, reported as 2016 ONSC 565).
+On June 9, 2016, Starwood amended its Statement of Claim in the Lawsuit to claim equitable damages, or damages at common law in the alternative, in addition to specific performance.
+In July 2016, the Appellant filed an Amended Statement of Defence in the Lawsuit where, inter alia, it pled that Starwood was not entitled to specific performance nor equitable relief. It also counterclaimed, inter alia, for a declaration that Starwood was not entitled to enforce the PSAgreement and for damages.
+As part of the Lawsuit, Starwood produced numerous invoices for goods and services it had acquired in respect of the OMB Appeal and rezoning process for the Property.
+On May 2, 2018, Minutes of Settlement between Starwood and the Appellant were executed in order to resolve issues between the parties.
+$800,000 was paid by the Appellant to Merovitz Potechin, in trust, for Starwood on or before July 31, 2018.
+On or about August 9, 2018, the parties executed a Full and Final Mutual Release.
+Schedule A of the Full and Final Mutual Release set out the application plans and reports to which the Appellant was entitled as a result of Starwood’s assignment:
+i. Fotenn Submission Letter date May 16, 2014.
+Concept Plans
+Cultural Heritage Impact Study
+Paterson Group Geotechnical Investigation
+Mastercraft/Starwood Landscape Plan
+Mastercraft/Starwood Public Realm Concept Plan
+GradientWnd Engineering Inc. Transport Noise Assessment
+Paterson Group Phase I Environmental Site Assessment
+Paterson Group Phase II Environmental Site Assessment
+Fotenn Planning Rational
+Page & Steele Group Shading Study
+Delcan & Parsons Group Transportation Study
+Page & Steele Group Elevations and Concept Plans
+An “Acknowledgement” in respect the allocation of the $800,000 amount was drafted and is unsigned.
+Pursuant to the Minutes of Settlement and the Full and Final Release, the $800,000 was paid to Starwood.
+On both August 1 and 9, 2018, Starwood authorised and directed the following entities to produce and make available to the Appellant any rezoning application plans, reports, information, and documentation in their possession with respect to the Property:
+Gradient Wind Engineering Inc.;
+Claude Cormier + Associés Inc.;
+Declan and Parsons Group;
+Fotenn Planning + Design;
+Page + Steel Group;
+Paterson Group; and,
+The Ventin Group.
+[5] Mr. Russell Kronick was the only witness at trial. He is a retired lawyer who was part of a group who owned 267 O’Connor. He was also very involved in the lawsuit between Starwood and the Appellant which concluded with the settlement payment by the Appellant.
+[6] Mr. Kronick described the details around the entering into an agreement to sell 267 O’Connor (closing May 1, 2014) to Starwood. He also testified that, shortly before closing, Starwood identified two items that they felt they were mislead on in their due diligence, and as a result they were entitled to an abatement in the purchase price. The Appellant disagreed with their claim for an abatement. As a result the transaction did not close.
+[7] Starwood filed a Statement of Claim on April 23, 2014 (amended in June 2016) seeking, amongst other remedies, specific performance and a statement of pending litigation. In the alternative they were seeking the return of their $350,000 deposit (part of the agreement of purchase and sale) plus damages of $25,000,000. They also sought $500,000 in reimbursements for pursuing the Ontario Municipal Board (OMB) rezoning application for 267 O’ Connor[2].
+[8] Concerning Starwood’s claim for reimbursement, Mr. Kronick described how Starwood commenced a rezoning application with the OMB in 2014, paying counsel and experts to assist in the process. Success in this endeavour would have greatly increased the value of the 267 O’Connor property. When Starwood was unsuccessful in their motion to obtain a certificate of pending litigation (as part of the lawsuit with the Appellant), they ceased pursuing the matter at the OMB. The Appellant took over this process. Despite this setback, Starwood’s lawsuit continued.
+[9] In its Amended Statement of Defence and Counterclaim, the Appellant claimed, inter alia, for their costs in pursuing the OMB hearing ($250,000), as well as $460,000 costs the Appellant incurred in repairing the building during the time the litigation was proceeding and damages of $1.5 Million.
+[10] The rezoning application was heard September 15th to October 1st, 2014, and was successful. The City of Ottawa brought a motion for leave to appeal this decision. On January 22, 2016, this motion was denied.
+[11] Mr. Kronick also provided a description of the allocation of funds pursuant to the settlement. He testified that a $350,000 deposit had to be repaid to Starwood (there was some confusion by Mr. Kronick if interest was repaid, ultimately he testified it that it was not).
+[12] His testimony included the following[3]:
+Q. MS. TATARYN: Mr. Kronick, you had testified that you had made a deal to receive the documents and pay for the legal fees that had been incurred from ‑- or, sorry, by Starwood as part of your settlement agreement with 2-6 ‑- or I keep saying that.
+A. Starwood.
+Q. Starwood.
+A. Yes.
+Q. Were you provided these direction authorizes ‑- authorizations and releases with ‑- directly through your lawyer?
+A. Yes.
+[13] He also testified that he never received the documents (but he did receive various releases). 267 O’Connor was sold to a different party in 2019.[4]
+[14] Given its importance in this decision, I have reproduced most of the initial paragraph of the Full and Final release agreed to by the Appellant and Starwood:
+IN CONSIDERATION of the payment of the sum of $800,000.00 comprised of the return of the deposit and reimbursement for legal fees and consulting fees, to the Plaintiff by the Defendant, receipt of which is hereby acknowledged, and in consideration of the assignment of all the Plaintiffs right, title and interest in and to all rezoning application plans and reports, as listed in schedule “A” hereto annexed, and in consideration of the discontinuance on consent of the Action, …, including all claims and counterclaims on a without cost basis and in consideration of other good and valuable consideration, the undersigned … hereby remise, release, and forever discharge each other of and from all manner of actions, causes of actions, suits, debts, duties, sums of money, accounts, bonds, covenants, contracts, claims, costs and demands whatsoever against each other which the undersigned ever had, now have or hereinafter may have with respect to all of the claims, facts and issues raised in the claim and counterclaim in the Action or which could have been raised in the Action in any manner whatsoever and all matters pertaining to the Agreement of Purchase and Sale dated August 9, 2013,
+II. Position of the Parties
+Appellant’s position:
+[15] At trial, the Appellant counsel, with the consent of the Respondent, amended her pleadings. The Appellant’s position, as set out by counsel, is as follows:
+MS. TATARYN: I'm arguing it is not payment of a settlement. I am arguing that they reached an agreement whereby they would sell the rights in the legal work that had been done and which he had been allowed to use at the OMB hearing to pursue the re-zoning application, which, at that point in time, both parties were still interested in pursuing, pending the outcome of their dispute. Because that started, I think, on July 23, 2014, where Starwood stepped away from pushing the OMB hearing forward and the Appellant had to step back into it to continue pushing it.
+JUSTICE: So the receipt of the supply is these -
+MS. TATARYN: So he -
+JUSTICE: - various reports.
+MS. TATARYN: He received the supply of the intellectual property and the legal fees and the waiver of the conflict of interest for those lawyers to proceed in 2014.[5]
+[16] Also of note is the following exchange:
+MS. TATARYN: The documents that we say support the ITCs are the settlement documents.
+JUSTICE: But that ‑- do they show GST on them.
+MS. TATARYN: They show that the amount is full and final.[6]
+[17] In addition, the Appellant argues that the specific allocation of the payments made by the Appellant to settle the lawsuit is not set out clearly in the documentation and is determined only after a thorough interpretation of the settlement agreement.
+Respondent’s position:
+[18] The Respondent’s primary argument is that the Appellant did not, at the time of claiming the ITC’s, obtain sufficient evidence containing information prescribed in section 3 of the Input Tax Credits (GST/HST) Regulations (the Regulations).
+III. Analysis: Subsection 169(1):
+[19] Subsection 169(1) of the ETA contains the general rules for the claiming of ITCs.
+[20] In order for a claimant to claim an ITC, four conditions must be satisfied:
+The claimant must have acquired the supply (e.g., services);
+The GST must be paid/payable by the claimant on the supply (recipient of the supply);
+The claimant must have acquired the supply for consumption or use in the course of its commercial activity.[7]
+At the time of filing the GST return, the claimant must have obtained sufficient evidence as prescribed in section 3 of the Input Tax Credit Information (GST/HST) Regulations (ITC Regulations).
+[21] Subsection 123(1) provides the following definition of “recipient of a supply of property or a service”:
+where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration,
+where paragraph (a) does not apply and consideration is payable for the supply, the person who is liable to pay that consideration, and
+where no consideration is payable for the supply,
+in the case of a supply of property by way of sale, the person to whom the property is delivered or made available,
+in the case of a supply of property otherwise than by way of sale, the person to whom possession or use of the property is given or made available, and
+in the case of a supply of a service, the person to whom the service is rendered.
+[22] A review of the Minutes of Settlement and the Full and Final Release indicate that the Appellant paid the Plaintiff, Starwood, $800,000 for the following:
+the return of a $350,000 deposit;
+a reimbursement to Starwood of legal fees and consulting fees incurred;
+an assignment of Starwood’s rights, title and interest to Starwood’s rezoning application plans and reports, listed at schedule “A”;
+Consideration for the discontinuance for this action including all claims and counter claims on a without cost basis;
+And in consideration of other good and valuable consideration;
+The settlement terms also states that the agreement covers all know injuries, losses, damages, both known and unknown to the parties.
+[23] As previously noted, the Appellant argues that Starwood supplied both intangible and tangible property to the Appellant in 2014. The Appellant claims that these items were purchased supplies, paid for in 2018 as a result of the settlement with Starwood.
+[24] More specifically, the Appellant claims that what was paid for, and received in 2014, was a Waiver of conflict to allow the law firm BLG , represented by Janet Bradley, to represent the Appellant at the then ongoing OMB Appeal. Furthermore, what was also provided was a waiver of conflict for other professionals to testify to assist the Appellant with the OMB hearing and an allowance for the Appellant to rely on the intangible property, including intellectual property and reports prepared for and relied upon by Starwood at the OMB Appeal.
+[25] While there were documents and reports provided to the Appellant in 2014, I have no details as to what, if anything, was paid for these reports by the Appellant. There is nothing in the evidence lead at trial on the specifics of this transaction that indicates that a portion of the $800,000 settlement payment was meant to compensate Starwood for what they provided in 2014.
+[26] Of note, in 2014, while the parties were in the midst of litigation, it was in both the Appellant’s and Starwood’s interest that 267 O’Connor reach a successful conclusion on the rezoning application before the OMB. Starwood had sued for specific performance on the failed real estate clause. Success at the OMB would lead to a higher value of 267 O’Connor to whomever owned 267 O’Connor at the conclusion of the civil litigation.
+[27] No price was negotiated in the 2014 transaction. Frankly there was a very minimal attempt to put a price on the items received by the Appellant. This was done mainly in submissions by the Appellant’s counsel (in one instance Mr. Kronick stated “the $400,000 is what I paid Greenburg to get all this stuff that we’ve gone through”[8]). No documents were put forth as evidence to support the claim that a portion of the $800,000 was to pay for documents obtained in 2014.
+[28] Given the lack of evidence on the matter, I am unable to conclude that the transactions that occurred in 2014 support the Appellant’s claim for ITC’s in 2018.
+[29] I now turn my mind to the settlement agreement in 2018. Having reviewed the Statement of Claim in this matter (as well as its amendments) and the Statement of Defence and Counterclaim, as well as having reviewed the Settlement documents, I find that the Appellant, in making the $450,000 payment, ($800,000-$350,000) was not, for the most part, the recipient of services for consumption or use in the course of its commercial activity. It is my finding that the $450,000 payment in issue was, for the most part, compensatory and not subject to GST. The majority of the payment represented compensation to Starwood for expenses incurred by Starwood as a result of the failure of the parties to complete the sale transaction concerning 267 O’Connor and was meant to restore, to some degree, Starwood to the position it was in prior to the failure of sale of the property.[9]
+[30] While I do agree with the Appellant that certain intellectual property was received pursuant to the settlement agreement, I am unable to determine what portion of the $450,000 the Appellant paid to Starwood was for the assignment of Starwood’s rights, title and interest to Starwood’s rezoning application plans and reports.
+[31] There is not sufficient evidence to calculate the ITC. Given the lack of evidence, I am unable to allow the ITC claimed. As set out below, this lack of evidence also leads me to dismiss the appeal for failing to meet the requirements set out in paragraph 169(4) of the Act.
+IV. Documentary requirements for input tax credits. Law
+[32] In addition to the reasons already set out, I find that the Appellant’s appeal fails due to the requirements of section 169(4) of the Act. The settlement documents relied upon by the Appellant do not contain the required information to claim an ITC.
+[33] One cannot claim ITCs without the proper documentation (or at least clear evidence that one had the documentation before filing the return). The Input Tax Credit Information (GST/HST) Regulations ITC Regulations) prescribe what supporting documentation must be obtained by the registrant claiming the ITC.
+[34] Pursuant to section 3 of the ITC Regulations, the prescribed information itself depends on the total amount paid or payable shown on the supporting documentation for the supply.
+[35] For supplies where the total amount paid or payable is less than $30, the following prescribed information is required:
+the name of the supplier;
+the date of the invoice, if one is issued;
+where an invoice is not issued, the date on which there is tax paid or payable in respect thereof; and
+the total amount paid or payable for all of the supplies.[10]
+[36] For supplies where the total amount paid or payable is $30 or more but less than $150, the following prescribed information is required:
+the information required for supplies that cost less than $30;
+the supplier’s GST registration number;
+the amount of tax paid or payable in respect of each supply or all the supplies - required where the amount paid or payable for the supply/supplies does not include the amount of tax;
+any amount of provincial sales tax charged;
+a statement that the tax for the taxable supplies is included, the total tax rate, and the amount paid or payable for each supply (or the total amount paid or payable for all supplies) to which the same total tax rate applies – required where the amount paid or payable for the supply/supplies includes the amount of tax and one or more supplies are taxable supplies that are not zero-rated;
+an indication of the status of each taxable supply that is not a zero-rated supply – required where the status of two or more supplies is different.[11]
+[37] For supplies where the total amount paid or payable is $150 or more, the following prescribed information is required:
+the information required for supplies that cost less than $150 but $30 or more;
+name of recipient;
+terms of payment; and,
+a description of each supply sufficient to identify it.[12]
+[38] The 2007 Federal Court of Appeal decision in Systematix Technology Consultants Inc. v. Canada held that the documentary requirements in subsection 169(4) and the ITC Regulations are mandatory, unless an exception under subsection 169(5) exists.[13]
+[39] The FCA affirmed the comments in Key Property Management Corp v. Canada, where Justice Bowie. stated as follows:
+The whole purpose of paragraph 169(4)(a) and the Regulations is to protect the consolidated revenue fund against both fraudulent and innocent incursions. They cannot succeed in that purpose unless they are considered to be mandatory requirements and strictly enforced. The result of viewing them as merely directory would not simply be inconvenient, it would be a serious breach of the integrity of the statutory scheme. [Emphasis added by the FCA in Systematix][14]
+[40] Even if I accept the Appellant’s primary argument, that 167 O’Connor acquired some taxable supplies through their $450,000 payment to Starwood, they still have not met the requirements of 169(4).
+ITC Regulation 3(b)(i)
+[41] Specifically, I do not accept that the Appellant had the supplier’s GST registration number prior to or at the time the return was filed. This alone is fatal to the success of the appeal.
+[42] The Appellant attempted to lead evidence on this issue. The evidence was not persuasive[15]:
+Q MS. TATARYN: Sorry, did you have the GST number when you prepared the GST return?
+A I don't believe so. Or I may. I may. I don't remember, to be honest. I don't remember. I don't remember. I think I did because Josh Moon had given me an HST number when the deal was supposed to close –
+Q Okay. And, I'm sorry, and you were explaining who Josh Moon was? Who is Josh Moon?
+A Josh Moon was the lawyer that acted for me on the sale to Mastercraft. He was the one who prepared all the documents to tender. One of the ‑- I remember him telling me one of the documents related to the requirement for HST and I think I saw that number then. I saw a number, but I don't remember what it was.
+ITC Regulation 3(a)(iv) and 3(b)(iii)
+[43] In addition, I am unable to determine the total amount of consideration paid nor the total amount of tax paid by the Appellant for the assignment of Starwood’s intellectual property. The Appellant argues that the entire $450,000 payment should be seen as being paid for the assignment of the supply of intellectual property. I do not agree.
+[44] My review of the Full and Final release leads me to conclude that a large portion of the $450,000 paid by the Appellant to settle the lawsuit with Starwood was compensatory, and not for intellectual property. After a thorough review of the settlement documents, I have concluded that there is not sufficient evidence to determine an amount of consideration to purchase intellectual property, nor the tax paid or payable.
+[45] Because the settlement documents do not have the information required pursuant to the ITC Regulations, I would also deny the appeal on this basis.
+Section 182 of the ETA.
+[46] Finally, section 182 of the Act was plead by the Appellant, but not argued at trial. This was for good reason, as it does not apply.
+[47] Section 182 levies GST/HST on payment made to a registrant as a consequence of a breach, modification, or cancellation of an agreement (other than as consideration for a supply) deeming it to be a taxable supply. The applicability of this provision is subject to certain conditions.
+[48] One of the requirements for subsection 182(1) to apply is that the payment must be made to the person who was to be the supplier under the original agreement, which is not the case in this example. Therefore no GST/HST is deemed to have been paid under subsection 182(1) as a consequence of the payment made by the Appellant to Starwood.
+[49] For the reasons set out above, the appeals are dismissed. No costs will be payable by either party.
+Signed at Ottawa, Canada, this 17th day of December 2024.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2024 TCC 161
+COURT FILE NO.:
+2020-259(GST)I
+STYLE OF CAUSE:
+267 O'CONNOR LIMITED AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+October 2, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+December 17, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Susan Tataryn
+Counsel for the Respondent:
+Dina Elleithy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Susan Tataryn
+Firm:
+Tataryn Law
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] The amendment implemented the “Centretown Community Design Plan.”
+[2] Amended Statement of Claim, Exhibit A6.
+[3] Lines 22—28 page 109 and lines 1-5 page 110 of the May 13 Transcripts of Proceedings.
+[4] Lines 4-25, page 111 of the May 13 Transcripts.
+[5] Page 33, lines 6-23 October 2 Transcript.
+[6] Line 9-14, page 168 May 13 Transcript.
+[7]PDM Royalties Limited Partnership v R, 2013 TCC 270 at para 18 [PDM]; General Motors of Canada Ltd v R, 2008 TCC 117 at para 30 [General Motors]; aff’d 2009 FCA 114.
+[8] See comments by counsel at lines 15-22 page 168 and page 171 lines 15-17 May 13 transcript.
+[9] The assumption at paragraph 10(k) is that the $800,000 payment made by the Appellant was comprised of four components: (1) $350,000 for the return of the original deposit; (2) $50,000 or interest on the deposit; (3) $100,000 for legal and consulting costs paid by Starwood for the OMB Appeal; and (4) $300,000 for the reimbursement of amounts paid for the re-zoning application by Starwood. The evidence at trial was that $50,000 was not paid as interest on the deposit.
+[10] Input Tax Credit Information (GST/HST) Regulations, SOR/91-45 at ss. 3(a).
+[11] Ibid at ss. 3(b).
+[12] Ibid at ss. 3(c).
+[13] Systematix Technology Consultants Inc. v. Canada, 2007 FCA 226 at para 5.
+[14] Ibid.
+[15] Line 4-18, page 172 May 13 Transcript.

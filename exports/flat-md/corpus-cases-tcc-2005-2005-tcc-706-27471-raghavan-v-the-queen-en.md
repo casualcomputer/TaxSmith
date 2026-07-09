@@ -1,0 +1,236 @@
+---
+title: "Raghavan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27471/index.do"
+last_modified: "2005-11-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 706"
+citation2: ""
+neutral_citation: "2005 TCC 706"
+decision_date: "2005-11-01"
+language: "en"
+item_id: "27471"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 30
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:09:43.827000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8c906c6c3a6b7c046b893829544e142abf87857594439f63d8e264ee2959c9a0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Raghavan v. The Queen
+
+- Citation: 2005 TCC 706
+- Decision date: 2005-11-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 30, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Raghavan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-11-01
+Neutral citation
+2005 TCC 706
+File numbers
+2004-3716(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3716(IT)I
+BETWEEN:
+VASUNDARA RAGHAVAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on July 7, 2005 at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Gopalachari Raghavan
+Counsel for the Respondent:
+Craig Maw
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act in respect of the 2001 and 2002 taxation years are dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 1st day of November 2005.
+"L.M. Little.
+Little J.
+Citation: 2005TCC706
+Date: 20051101
+Docket: 2004-3716(IT)I
+BETWEEN:
+VASUNDARA RAGHAVAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS:
+[1] The Appellant has been employed by Bell Canada for 28 years.
+[2] The Appellant testified that she also operates a research website originally set-up as a consulting business under the name of ITC Group ("ITC"). (Note:- The Appellant said that commencing in 2001 the Appellant's business was changed from a trade consultant and export business to a dot com business known as "Value Balance.com".)
+[3] The Appellant said that she was not a technical person and in the years under appeal and prior her husband Gary worked for ITC on a full-time basis without a salary.
+[4] In computing income for the 2001 and 2002 taxation years the Appellant reported gross income from ITC in the following amounts:
+Income
+2001
+$1,200.00
+2002
+$ 900.00
+[5] In the 2001 and 2002 taxation years the Appellant deducted the following expenses from ITC:
+Expenses
+Business
+Loss Claimed
+2001
+$20,606.79
+$19,406.79
+2002
+$26,946.94
+$26,046.94
+[6] By Notices of Reassessment dated January 19, 2004 the Minister of National Revenue (the "Minister") disallowed the deduction of the business expenses referred to in paragraph 3.
+[7] During the 2001 and 2002 taxation years the Appellant reported the following income from Bell Canada:
+2001
+$61,998.93
+2002
+$92,422.07
+[8] ITC has reported losses in other years as follows:
+Year
+Gross Business Income
+Net Business Loss
+1988
+$145
+$ 1,654
+1989
+$ -
+$ 6,593
+1990
+$1
+$ 5,278
+1991
+$1
+$ 5,543
+1992
+$500
+$ 4,490
+1993
+$392
+$ 3,693
+1994
+$ -
+$ 6,357
+1995
+$ -
+$13,349
+1996
+-
+$10,588
+1997
+$ -
+$ 4,816
+1998
+$ -
+$ 8,410
+1999
+$ -
+$13,097
+2000
+$ -
+$14,827
+2001
+$1,200
+$19,406
+2002
+$900
+$26,046
+2003
+$900
+$19,940
+$4,037
+$164,087
+[9] A large part of the expenses claimed by ITC were payments made by the Appellant to her children or a former babysitter.
+[10] The Appellant made the following payments to her children or former babysitter and charged these payments as expenses of ITC:
+2001
+2002
+Roy Raghavan - Son - internet research (18-19 years old in 2001-2002)
+$3,300.00
+Gita Raghavan - Daughter -market survey (14-15 years old in 2001-2002)
+$7,420.00
+$10,540.00
+Kris Raghavan - Son -internet research (22-23 years old in 2001-2002)
+$5,400.00
+Sudha Kothandaraman (Former babysitter and family friend) - survey of website set-ups
+$9,500.00
+$9,250.00
+(Note: The evidence is that the salaries claimed were paid in cash.)
+B. ISSUES:
+[11] The issues are:
+(i) whether the expenses that were disallowed by the Minister were made or incurred and if made or incurred, were made or incurred to earn income from a business or property; and
+(ii) in the alternative, whether the disallowed expenses were reasonable in the circumstances.
+C. ANALYSIS:
+[12] I must first determine if the Appellant was operating a business when she was advancing money to finance ITC.
+[13] From an analysis of the above facts it will be noted that from 1988 to 2003 the Appellant's business received income equal to $4,037.00 and claimed business expenses in the amount of $164,087.00.
+[14] In Stephen v. Canada, [2000] T.C.J. No. 250 Associate Chief Justice Bowman (now Chief Justice Bowman) was required to determine if the Appellant was carrying on a business. Chief Justice Bowman referred to the case of Kaye v. R., [1998] 3 C.T.C. 2248 and quoted from the Kay decision as follows:
+5. One cannot view the reasonableness of the expectation of profit in isolation. One must ask "Would a reasonable person, looking at a particular activity and applying ordinary standards of commercial sense, say 'yes, this is a business'?" In answering this question the hypothetical reasonable person would look at such things as capitalization, knowledge of the participant and time spent. He or she would also consider whether the person claiming to be in business has gone about it in an orderly, businesslike way and in the way that a business person would normally be expected to do.
+6. This leads to a further consideration - that of reasonableness. The reasonableness of expenditures is dealt with specifically in section 67 of the Income Tax Act, but it does not exist in a watertight compartment. Section 67 operates within the context of a business and assumes the existence of a business. It is also a component in the question whether a particular activity is a business. For example, it cannot be said, in the absence of compelling reasons, that a person would spend $1,000,000 if all that could reasonably be expected to be earned was $1,000.
+[15] Chief Justice Bowman then said:
+9. It is the reasoning in paragraph 6 of the Kaye decision that I find particularly apposite here. If one looks at the figures in paragraphs (c) and (d) of the assumptions it is difficult to conclude that a reasonable person would spend that sort of money to obtain the modest revenues produced as set out in paragraph (c).
+10. Section 67 of the Income Tax Act is premised upon the existence of a business and requires a curtailment of deductions to the extent that the expense claimed is unreasonable. Quite apart from section 67 unreasonableness impinges on the question of the existence of a business because it calls into question the inherent commerciality of the enterprise. This is particularly true where the expenses claimed are vastly disproportionate to the revenues, actual or reasonably expected. I think that is true here where the motor vehicle expenses, office expenses, capital cost allowance, and travelling expenses are multiples of the gross revenues.
+[16] From an examination of the evidence before me I have concluded that the expenses claimed by the Appellant were vastly disproportionate to the revenues received. In my opinion it is difficult to conclude that a reasonable person would spend the amount of money spent by the Appellant in order to obtain such modest revenue. I have concluded that these factors were commercially inconsistent with the existence of a business.
+[17] On the facts before me I have concluded that the Appellant was not operating a business in the 2001 and 2002 taxation years.
+[18] I have also concluded that the salaries paid to the Appellant's two sons and the daughter and the salary that was paid to the former babysitter were not reasonable in the circumstances.
+[19] The appeals are dismissed, without costs.
+Signed at Vancouver, British Columbia, this 1st day of November 2005.
+"L.M. Little"
+Little J.
+CITATION:
+2005TCC706
+COURT FILE NO.:
+2004-3716(IT)I
+STYLE OF CAUSE:
+Vasundara Raghavan and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 7, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+November 1, 2005
+APPEARANCES:
+Agent for the Appellant:
+Gopalachari Raghavan
+Counsel for the Respondent:
+Craig Maw
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

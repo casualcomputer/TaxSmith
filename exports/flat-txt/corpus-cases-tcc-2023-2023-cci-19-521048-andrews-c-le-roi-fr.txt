@@ -1,0 +1,261 @@
+Title: Andrews c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521048/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-19-521048-andrews-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-02-07
+
+# Andrews c. Le Roi
+
+- Citation: 2023 CCI 19
+- Decision date: 2023-02-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5781, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Andrews c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-02-07
+Référence neutre
+2023 CCI 19
+Numéro de dossier
+2021-2283(IT)I
+Juges et Officiers taxateurs
+Jean Marc Gagnon
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2021-2283(IT)I
+ENTRE :
+MARK ANDREWS,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 10 novembre 2022, à Ottawa, au Canada
+Devant : l’honorable juge Jean Marc Gagnon
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Warwick Walton
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, le présent appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu le 17 juin 2021 à l’égard de l’année d’imposition 2018 de l’appelant est rejeté, sans dépens.
+Signé à Toronto (Ontario), ce 7e jour de février 2023.
+« J.M. Gagnon »
+Le juge Gagnon
+Référence : 2023 CCI 19
+Date : Le 7 février 2023
+Dossier : 2021-2283(IT)I
+ENTRE :
+MARK ANDREWS,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Gagnon
+I. Introduction
+[1] L’appelant, M. Mark Andrews, interjette appel sous le régime de la procédure informelle de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), ainsi modifiée (la « LIR »), à l’égard de l’année d’imposition 2018.
+[2] Dans sa déclaration de revenus de l’année 2018, M. Andrews avait initialement demandé un crédit d’impôt pour des frais médicaux engagés à l’égard de sa belle-mère, Mme Fernande Brochu, en application de l’article 118.2 de la LIR. Il avait déclaré la somme de 20 675,44 $ à titre de frais médicaux payés pour Mme Brochu. Mme Brochu réside dans un établissement de soins de longue durée et a besoin d’assistance pour toutes les fonctions de la vie quotidienne.
+[3] Le ministre du Revenu national (le « ministre ») a initialement établi une cotisation à l’égard de l’année d’imposition 2018 de M. Andrews, comme l’indiquait l’avis de cotisation daté du 30 mai 2019. Le 5 décembre 2019, le ministre a établi une nouvelle cotisation à l’égard de l’année d’imposition 2018 de l’appelant, en lui refusant le total des frais médicaux engagés à l’égard de Mme Brochu dont il avait demandé la déduction dans sa déclaration de revenus de l’année en cause. En réponse à l’avis d’opposition de l’appelant, le ministre a modifié la nouvelle cotisation établie pour l’année 2018, en autorisant la déduction de frais médicaux de 607 $ à l’égard d’une autre personne à charge, ainsi qu’un crédit d’impôt pour personnes handicapées de 8 235 $ à l’égard d’une autre personne à charge. Ce dernier avis de nouvelle cotisation daté du 17 juin 2021 est l’objet du présent appel.
+II. Question en litige
+[4] À l’audience, les parties ont reconnu que toutes les conditions requises pour accorder à M. Andrews un crédit d’impôt pour frais médicaux aux termes de l’article 118.2 sont réunies, à l’exception d’une seule. L’appelant doit établir qu’il a lui-même payé le total des frais médicaux dont il a demandé la déduction dans sa déclaration de revenus de 2018 à l’égard de sa belle-mère, conformément aux exigences énoncées à l’alinéa d) de l’élément E de la formule décrite au paragraphe 118.2(1) de la LIR. Si c’est le cas, l’appel doit être accueilli et la cotisation initiale établie par l’Agence du revenu du Canada (l’« ARC ») à l’égard de l’année d’imposition 2018 de l’appelant a préséance. Dans le cas contraire, la situation de l’appelant sera telle qu’elle a été déterminée dans l’avis de nouvelle cotisation daté du 17 juin 2021.
+[5] Les sommes demandées par M. Andrews au titre du crédit d’impôt pour frais médicaux ne sont pas en litige.
+III. La thèse de l’appelant
+[6] M. Andrews affirme que, selon le paragraphe 118.2(1) de la LIR, les frais médicaux qu’il a payés à l’égard d’une personne à charge comprennent les frais médicaux que lui et que son épouse ont payés. La presque totalité des frais médicaux de la belle-mère de l’appelant ont été payés par l’épouse de l’appelant, à partir d’un compte conjoint dont son épouse et la mère de son épouse étaient les titulaires. Comme son épouse avait autorité sur le compte bancaire, les frais médicaux qu’elle a payés à partir de ce compte satisfont à la définition de frais « payés par le particulier » au sens de l’alinéa d) de l’élément E du paragraphe 118.2(1) de la LIR.
+[7] Il prétend en outre que l’intention du législateur, en adoptant le crédit d’impôt pour frais médicaux prévu à l’article 118.2 de la LIR, est telle que les sommes payées à titre de frais médicaux à partir du compte bancaire sont admissibles, que les frais aient été payés par l’appelant ou par son épouse. Par conséquent, l’appel doit être accueilli.
+IV. La thèse de l’intimé
+[8] Pour avoir gain de cause, l’appelant doit lui-même avoir payé les frais médicaux engagés à l’égard de la mère de son épouse. Ces frais ont été payés à partir d’un compte bancaire sur lequel l’appelant n’avait aucune autorité, ni aucun droit de propriété ou autre droit. Le paragraphe 118.2(1) de la LIR exige que les frais médicaux soient payés par le particulier qui demande le crédit d’impôt pour frais médicaux. Ces frais ne peuvent pas être payés par l’épouse du particulier aux fins du paragraphe 118.2(1) de la LIR. L’appel doit être rejeté.
+V. Analyse
+a) Dispositions législatives
+[9] Le paragraphe 118.2(1) de la LIR applicable à l’année d’imposition 2018 est rédigé comme suit :
+118.2 (1) La somme obtenue par la formule ci-après est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+A × [(B - C) + D]
+où
+A représente le taux de base pour l’année;
+B le total des frais médicaux du particulier, engagés à son égard ou à l’égard de son époux ou conjoint de fait ou de son enfant qui n’a pas atteint l’âge de 18 ans avant la fin de l’année et qui, à la fois :
+a) […]
+b) [...]
+c) […]
+d) ont été payés par le particulier ou par son représentant légal au cours de toute période de 12 mois se terminant dans l’année ou, s’ils ont été engagés à l’égard d’une personne, y compris le particulier, qui est décédée dans l’année, au cours de toute période de 24 mois comprenant le jour du décès;
+C 2 302 $ [1 813 $] ou, si elle est moins élevée, la somme représentant 3 % du revenu du particulier pour l’année;
+D le total des sommes dont chacune représente, à l’égard d’une personne à charge du particulier, au sens du paragraphe 118(6), à l’exception d’un enfant du particulier qui n’a pas atteint l’âge de 18 ans avant la fin de l’année, la somme obtenue par la formule suivante :
+E - F
+où
+E représente le total des frais médicaux du particulier, engagés à l’égard de la personne à charge et qui, à la fois :
+a) […]
+b) [...]
+c) […]
+d) ont été payés par le particulier ou par son représentant légal au cours de la période visée à l’alinéa d) de l’élément B,
+F 2 302 $ [1 813 $] ou, si elle est moins élevée, la somme représentant 3 % du revenu de la personne à charge pour l’année.
+[Non souligné dans l’original.]
+b) Traitement applicable
+[10] Pour être admissibles, les frais médicaux doivent s’inscrire dans l’une des deux catégories énoncées au paragraphe 118.2(1) de la LIR : catégorie A – les frais médicaux doivent avoir été payés par le contribuable pour des services médicaux fournis au contribuable, à l’époux ou conjoint de fait du contribuable ou à un enfant du contribuable qui n’a pas atteint l’âge de 18 ans avant la fin de l’année d’imposition et catégorie B – les frais doivent avoir été payés par le contribuable pour des services médicaux fournis à une personne à charge comprenant un parent du contribuable ou de l’époux ou du conjoint de fait du contribuable.
+[11] Selon les faits de la présente espèce, la catégorie B est la catégorie applicable en l’espèce. Pour l’année d’imposition 2018, le crédit pour frais médicaux engagés à l’égard d’un parent à charge doit être réduit de 2 302 $ ou, si elle est moins élevée, de la somme représentant 3 % du revenu de la personne à charge pour l’année. Depuis 2011, aucun plafond ne limite la somme qui peut être déclarée au titre des frais engagés pour un parent à charge, comme l’indique l’élément D (E - F) de la formule décrite précédemment.
+[12] M. et Mme Andrews ont témoigné à l’audience. Les deux étaient dans l’ensemble crédibles et fiables. À cet égard, la Cour aimerait souligner le dévouement de M. et Mme Andrews envers Mme Brochu.
+[13] Les éléments de preuve qui ont été présentés à l’audience ont permis d’offrir une description de la situation qui s’applique en l’espèce. En 2018, la belle-mère de l’appelant, Mme Brochu, résidait dans un établissement de soins de longue durée, le Sun Parlor Home Long Term Care, situé à Leamington, en Ontario (« Sun Parlor »). L’époux de Mme Brochu est décédé en 2014. Mme Brochu est atteinte d’ostéoporose et elle a besoin d’assistance pour toutes les fonctions de la vie quotidienne, notamment l’utilisation d’un fauteuil roulant.
+[14] Mme Andrews est l’épouse de l’appelant et la seule enfant de Mme Brochu. Mme Andrews a été autorisée à agir en qualité de fournisseuse de soins personnels et, à ce titre, elle peut rendre visite à sa mère et l’assister chaque fois que celle-ci en a besoin. Non seulement M. et Mme Andrews s’occupent de Mme Brochu sur le plan personnel, mais en plus ils lui apportent une aide financière lorsque ses besoins financiers excèdent son autonomie financière personnelle.
+[15] En 2010, il a été décidé d’ouvrir un compte bancaire pour centraliser dans un seul compte la totalité des revenus de Mme Brochu et de ses opérations bancaires. Étant donné l’état de santé de Mme Brochu, la Caisse Desjardins a suggéré qu’un compte conjoint soit ouvert aux noms de Mme Brochu et de Mme Andrews (le « compte conjoint »). Un tel compte offrait l’avantage que chacun des titulaires du compte pouvait effectuer des retraits et des dépôts sans qu’il soit nécessaire d’exiger une procuration ou un mandat à cet effet ou des cosignatures. Selon la Caisse Desjardins, cela facilitait grandement les opérations.
+[16] Après l’ouverture du compte conjoint, la totalité des fonds de Mme Brochu ont été transférés dans ce compte, et tous les revenus qui lui étaient versés étaient désormais déposés dans ce compte. Des prélèvements automatiques personnels ont également été établis, afin que les paiements mensuels faits à Sun Parlor, ainsi qu’à la pharmacie Remedy’sRx pour les médicaments de Mme Brochu, soient prélevés directement du compte conjoint.
+[17] En 2018, le compte conjoint était le seul compte bancaire de Mme Brochu. Elle n’avait aucun autre placement ni aucun autre bien.
+[18] Si l’on exclut la somme de 5 000 $ que Mme Andrews a déposée dans le compte conjoint en mars 2018 pour éviter d’avoir à payer des frais bancaires qui auraient autrement été exigibles, les seuls dépôts qui ont été faits dans le compte conjoint en 2018 l’ont été par Mme Brochu et ils ont totalisé 19 054 $; seuls deux retraits ont été effectués de ce compte chaque mois, soit le paiement mensuel fait à Sun Parlor et les frais de médicaments payés à la pharmacie Remedy’sRx, pour un total annuel de 19 618 $.
+[19] La Cour note que le solde d’ouverture du compte conjoint en 2018 était de 8 027 $ et que le solde de clôture au 31 décembre était de 12 467 $. Si l’on exclut le dépôt de 5 000 $ fait en vue d’éviter des frais bancaires, le solde de clôture du compte conjoint s’est établi à 7 467 $ en 2018. Ces données corroborent le fait que plus de 97 % des frais médicaux payés à partir du compte conjoint en 2018 l’ont été à partir des dépôts de Mme Brochu qui ont été faits cette année-là dans le compte.
+[20] En 2018, le total des frais médicaux admissibles engagés pour Mme Brochu et acceptés par l’ARC s’est chiffré à 20 675 $. Il s’agit de la somme que M. Andrews a déclarée au titre de l’élément E du paragraphe 118.2(1) de la LIR. Cette somme a ensuite été réduite de la somme prévue à l’élément F du paragraphe 118.2(1), soit d’une somme correspondant à 3 % de 19 484 $, ou 584 $. L’appelant a donc déclaré la somme de 20 090 $ au titre de l’élément D du paragraphe 118.2(1).
+[21] L’ARC a toutefois jugé que 19 484 $ des frais médicaux engagés pour Mme Brochu cette année-là avaient été payés par Mme Brochu elle-même (cette somme correspondant à son revenu net total de 2018), et que seul l’excédent pouvait raisonnablement être considéré comme des frais médicaux remboursables, payés par l’appelant.
+[22] Eu égard à la question en litige qui a été exposée précédemment, il s’agit pour notre Cour de déterminer si l’appelant a payé les 19 484 $ qu’il a déclarés à titre de frais médicaux engagés à l’égard de Mme Brochu. À cette fin, notre Cour reconnaît que cette somme a été prélevée sur le compte conjoint.
+[23] En l’espèce, l’alinéa d) de l’élément E du paragraphe 118.2(1) de la LIR exige que le total des frais médicaux de l’appelant, qui ont été engagés à l’égard de la personne à charge, aient été payés par l’appelant. La possibilité que les frais médicaux soient payés par un représentant légal de l’appelant n’a pas été invoquée en l’espèce; ce facteur n’est donc pas pertinent.
+[24] Dans l’arrêt Hypothèques Trustco Canada c. Canada[1], la Cour suprême du Canada a confirmé la thèse suivante au sujet de l’interprétation du droit fiscal :
+[10] Il est depuis longtemps établi en matière d’interprétation des lois qu’« il faut lire les termes d’une loi [LIR] dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi [LIR] et l’intention du législateur » : voir 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, par. 50. L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi [LIR] dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi [LIR] comme formant un tout harmonieux.
+[11] En raison du principe du duc de Westminster (Commissioners of Inland Revenue c. Duke of Westminster, [1936] A.C. 1 (H.L.)), selon lequel le contribuable a le droit d’organiser ses affaires de façon à réduire au maximum l’impôt qu’il doit payer, le droit fiscal canadien a reçu une interprétation stricte à une époque où l’interprétation littérale des lois était plus courante qu’aujourd’hui. De nos jours, il ne fait aucun doute que toutes les lois, y compris la Loi de l’impôt sur le revenu, doivent être interprétées de manière textuelle, contextuelle et téléologique. Cependant, le caractère détaillé et précis de nombreuses dispositions fiscales a souvent incité à mettre l’accent sur l’interprétation textuelle. Lorsque le législateur précise les conditions à remplir pour obtenir un résultat donné, on peut raisonnablement supposer qu’il a voulu que le contribuable s’appuie sur ces dispositions pour obtenir le résultat qu’elles prescrivent.
+[...]
+[13] La Loi de l’impôt sur le revenu demeure un instrument dominé par des dispositions explicites qui prescrivent des conséquences particulières et commandent une interprétation largement textuelle. [...]
+[Non souligné dans l’original.]
+[25] Plusieurs années auparavant, la Cour suprême du Canada avait mentionné ce qui suit dans l’arrêt Antosko[2], également un jugement en matière de fiscalité :
+[34] En l’absence d’ambiguïté des termes de la disposition, il n’appartient pas à notre Cour de conclure que les appelants devraient se voir refuser une déduction parce qu’ils ne méritent pas une « aubaine », comme l’intimée le soutient. En l’absence d’une ambiguïté qui forcerait le tribunal à examiner les résultats de l’opération pour déterminer l’intention du législateur, l’évaluation normative des conséquences de l’application d’une disposition donnée relève du législateur et non des tribunaux. [...]
+[Non souligné dans l’original.]
+[26] Également dans l’arrêt Antosko, la Cour suprême a ajouté ce qui suit :
+[25] [...] Même si les tribunaux doivent examiner un article de la Loi de l’impôt sur le revenu à la lumière des autres dispositions de la Loi et de son objet, et qu’ils doivent analyser une opération donnée en fonction de la réalité économique et commerciale, ces techniques ne sauraient altérer le résultat lorsque les termes de la Loi sont clairs et nets et que l’effet juridique et pratique de l’opération est incontesté : Mattabi Mines Ltd. c. Ontario (Ministre du Revenu), [1988] 2 R.C.S. 175, à la p. 194; voir également Symes c. Canada, [1993] 4 R.C.S. 695.
+[Non souligné dans l’original.]
+[27] Durant l’année qui a suivi la décision dans l’arrêt Antosko, la Cour suprême du Canada a rendu un autre jugement en matière de fiscalité dans l’affaire Friesen[3] :
+[59] […] [l]e texte clair de la Loi de l’impôt sur le revenu l’emporte sur la conception qu’un tribunal a de l’objet d’une disposition. Comme Hogg et Magee l’affirment dans Principles of Canadian Income Tax Law, op. cit., à la p. 453 :
+[traduction] La Loi de l’impôt sur le revenu serait empreinte d’une incertitude intolérable si le libellé clair d’une disposition détaillée de la Loi était nuancé par des exceptions tacites tirées de la conception qu’un tribunal a de l’objet de la disposition.
+[60 Par conséquent, il n’est nécessaire de recourir à l’objet d’une disposition que si le texte législatif n’engendre aucun doute ni aucune ambiguïté. [...]
+[Non souligné dans l’original.]
+[28] L’extrait précité de l’ouvrage Principles of Canadian Income Tax Law, par Hogg et Magee, a été reproduit dans les arrêts de la Cour suprême du Canada Hypothèques Trustco Canada et Shell Canada.
+[29] Quelques années après avoir rendu le jugement Friesen, la Cour suprême du Canada a mentionné ce qui suit dans l’arrêt Shell Canada[4], lequel portait sur la LIR :
+[43] [...] La jurisprudence de notre Cour est constante : les tribunaux doivent par conséquent faire preuve de prudence lorsqu’il s’agit d’attribuer au législateur, à l’égard d’une disposition claire de la Loi, une intention non explicite : Canderel Ltd. c. Canada, [1998] 1 R.C.S. 147, au par. 41, le juge Iacobucci; Banque Royale du Canada c. Sparrow Electric Corp., [1997] 1 R.C.S. 411, au par. 112, le juge Iacobucci; Antosko, précité, à la p. 328, le juge Iacobucci. En concluant à l’existence d’une intention non exprimée par le législateur sous couvert d’une interprétation fondée sur l’objet, l’on risque de rompre l’équilibre que le législateur a tenté d’établir dans la Loi.
+[...]
+[45] [...] Il incombe aux tribunaux d’interpréter et d’appliquer la Loi telle qu’elle a été adoptée par le Parlement. [...]
+[Non souligné dans l’original.]
+[30] Deux récentes décisions de la Cour canadienne de l’impôt renvoient à l’arrêt Hypothèques Trustco Canada :
+[traduction] [51] De plus, la Cour suprême du Canada, au paragraphe 21 de l’arrêt Celgene Corp., a confirmé la démarche adoptée dans l’arrêt Hypothèques Trustco Canada :
+[L]’interprétation des lois consiste à examiner le sens ordinaire des mots et le contexte législatif dans lequel ils s’inscrivent [...]. S’il est clair, le libellé prévaut; sinon, il cède le pas à l’interprétation qui convient le mieux à l’objet prédominant de la loi [Celgene Corp. c. Canada (Procureur général), 2011 CSC 1, par. 21].
+[52] La Cour est d’avis que les termes employés aux articles 21, 22 et 35 de la Loi constitutionnelle de 1867 sont précis, clairs et non équivoques. Ainsi, les termes doivent prévaloir sur l’interprétation législative[5].
+et :
+[traduction] [25] Plus récemment, la Cour suprême du Canada, dans l’arrêt Canada c. Loblaw Financial Holdings Inc., 2021 CSC 51, par. 41, a renvoyé au libellé précité de l’arrêt Hypothèques Trustco Canada de cette Cour, en confirmant la méthode « textuelle, contextuelle et téléologique » adoptée pour l’interprétation d’une disposition législative en matière fiscale. Cette Cour a également confirmé que, « [l]orsque le libellé d’une loi est “précis et non équivoque’’, le sens ordinaire des mots joue un rôle primordial[6] ».
+[31] Dans Hunt[7], le juge Bocock de notre Cour renvoie aux commentaires formulés par la Cour suprême du Canada au sujet du processus d’analyse :
+[traduction] [10] L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble7 [Hypothèques Trustco Canada, par. 10]. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation8 [ibid.] La Cour suprême dans l’arrêt Hypothèques Trustco Canada a également noté que « [l]’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux9 » [ibid.].
+[11] Des affaires récentes de la Cour suprême donnent un aperçu supplémentaire de ce processus analytique. Même si le libellé d’une disposition législative semble être précis et sans équivoque, la Cour doit néanmoins examiner le contexte et l’objet du texte législatif10 [ATCO Gas & Pipelines Ltd. c. Alberta (Energy & Utilities Board), 2006 CSC 4, [2006] 1 R.C.S. 140, par. 48.] L’examen d’une disposition peut sembler non ambigu à première vue, mais le contexte peut révéler des ambiguïtés latentes11 [Hypothèques Trustco Canada, par. 47].
+[Non souligné dans l’original.]
+[32] À la lumière de ces enseignements de la Cour suprême du Canada, il apparaît nécessaire, avant de recourir aux outils d’interprétation des lois, d’examiner si le mot « particulier » à l’alinéa d) de l’élément E du paragraphe 118.2(1) de la LIR soulève quelque ambiguïté. Ce mot doit-il être interprété rigoureusement et s’entendre du particulier qui demande le crédit pour frais médicaux ou pourrait-il également, comme le prétend l’appelant, désigner l’épouse du particulier?
+[33] En ce qui concerne la composante « textuelle » de l’analyse mentionnée dans l’arrêt Hypothèques Trustco Canada, le libellé de l’alinéa d) ne renvoie qu’au particulier qui demande le crédit pour frais médicaux à titre de personne qui a payé ces frais. Cette disposition ne fait pas mention de l’époux ou du conjoint de fait du particulier, contrairement à l’article 118.1 de la LIR qui, à l’égard du crédit pour dons, dispose que le total des dons de bienfaisance faits par un particulier aux fins de l’application du crédit comprend explicitement les dons faits par le particulier, son époux ou son conjoint de fait. Ce n’est pas le cas de l’article 118.2 de la LIR.
+[34] Le sens ordinaire de l’alinéa d) soulève peu, ou pas, de doute quant à la portée du critère que doit satisfaire l’appelant. L’appelant est la seule personne qui doit avoir payé les frais. Le libellé de cette disposition législative semble clair.
+[35] En ce qui concerne la composante « contextuelle » de l’analyse mentionnée dans l’arrêt Hypothèques Trustco Canada, il semble que le paragraphe 118.2(3) de la LIR soit la seule disposition portant que le « particulier », aux fins de l’application du paragraphe 118.2(1) de la LIR, est réputé avoir payé une somme qui a en fait été payée par quelqu’un d’autre. Cette disposition est rédigée comme suit :
+(3) Pour l’application du paragraphe (1) :
+a) tout montant inclus dans le calcul du revenu d’un particulier provenant d’une charge ou d’un emploi pour une année d’imposition, au titre des frais médicaux visés au paragraphe (2) et qui sont payés ou fournis par un employeur à un moment donné, est considéré comme des frais médicaux payés par le particulier à ce moment;
+[...]
+[Non souligné dans l’original.]
+[36] Bien que le paragraphe 118.2(3) de la LIR élargisse la portée du terme « particulier » afin que le contexte de cette disposition comprenne « un employeur », la LIR ne comporte aucune autre règle déterminative applicable en l’espèce qui pourrait avoir le même résultat.
+[37] D’aucuns pourraient faire valoir que, si le législateur a ajouté une règle déterminative afin d’englober les frais payés par « un employeur », pourquoi se serait-il abstenu de faire de même pour « l’époux ou le conjoint de fait du particulier » ou d’ajouter « l’époux ou le conjoint de fait du particulier » à l’alinéa d) de l’élément E du paragraphe 118.2(1) de la LIR, si c’était l’un des sens qu’il voulait donner à cette disposition?
+[38] Dans d’autres dispositions de la LIR, notamment à l’article 118.1 qui porte sur le crédit pour dons, le législateur mentionne « le particulier ou son époux » à 22 reprises (dans 21 de ces 22 cas, il est également fait mention du conjoint de fait). Comme aucune de ces formulations n’est utilisée à l’alinéa d) de l’élément E du paragraphe 118.2(1) de la LIR, toute ambiguïté est écartée : si l’intention du législateur avait été que l’époux ou le conjoint de fait puisse demander le crédit d’impôt pour frais médicaux prévu au paragraphe 118.2(1), une mention explicite aurait été ajoutée à cette fin.
+[39] En ce qui concerne la composante « téléologique » de l’analyse mentionnée dans l’arrêt Hypothèques Trustco Canada, les notes techniques qui ont été publiées par le ministère des Finances, lorsque des modifications ont été apportées au fil des ans à l’article 118.2 de la LIR, viennent renforcer le sens des alinéas d) des éléments B et E du paragraphe 118.2(1) de la LIR. Dans les renseignements supplémentaires sur le budget fédéral de 2011, le ministère des Finances mentionnait ce qui suit :
+Le paragraphe 118.2(1) de la Loi prévoit la formule de calcul du crédit d’impôt pour frais médicaux d’un particulier. L’élément D de cette formule fixe une limite au montant des frais médicaux que le particulier peut déduire pour une année d’imposition au titre d’une personne à charge, sauf son époux ou conjoint de fait ou son enfant qui n’avait pas atteint l’âge de 18 ans à la fin de l’année d’imposition. Cette limite correspond à 10 000 $ ou, s’il est moins élevé, à l’excédent des dépenses payées par le particulier pour le compte de la personne à charge sur le seuil des frais médicaux applicable à cette personne pour l’année, soit 3 % de son revenu net ou, s’il est moins élevé, un montant indexé (2 052 $ en 2011).
+La modification apportée à l’élément D de la formule consiste à supprimer la limite de 10 000 $.
+[Non souligné dans l’original.]
+[40] Au sujet du crédit d’impôt pour frais médicaux pour autres personnes à charge, le même document énonce ce qui suit au paragraphe 33 :
+Le crédit d’impôt pour frais médicaux procure un allègement de l’impôt sur le revenu aux contribuables qui ont des frais médicaux et des dépenses liées à une invalidité supérieurs à la moyenne en reconnaissance du fait que ces dépenses réduisent leur capacité de payer l’impôt sur le revenu. Un contribuable peut demander un crédit à l’égard des dépenses admissibles qu’il a encouru [sic] pour lui-même, son époux, son conjoint de fait ou son enfant de moins de 18 ans.
+Les aidants naturels peuvent aussi demander le crédit d’impôt pour frais médicaux à l’égard de dépenses admissibles qu’ils ont encourus pour une « personne à charge » s’ils paient les frais médicaux ou les dépenses liées à une invalidité de cette dernière. À cette fin, une « personne à charge » s’entend d’un enfant d’au moins 18 ans, ou d’un petit-enfant, d’un parent ou d’un grand-parent, d’un frère, d’une sœur, d’un oncle, d’une tante, d’un neveu ou d’une nièce, à la charge du contribuable.
+[Non souligné dans l’original.]
+[41] En juin 2006, les documents du budget produits par le ministère des Finances renvoyaient au paragraphe 118.2 de la LIR dans les termes suivants :
+Le paragraphe 118.2(1) permet de calculer le crédit d’impôt pour frais médicaux (CIFM) d’un particulier. Selon l’élément D de la formule figurant à ce paragraphe, sont incluses dans les frais médicaux du particulier les sommes qu’il a payées à l’égard d’une personne à sa charge (sauf son époux ou conjoint de fait et son enfant qui n’a pas atteint l’âge de 18 ans), jusqu’à concurrence de 5 000 $ ou, s’il est moins élevé, de l’excédent des sommes payées par le particulier pour le compte de la personne à charge sur le seuil des frais médicaux applicable à cette dernière pour l’année ou 3 % du revenu net.
+[Non souligné dans l’original.]
+[42] Au sujet de l’allègement fiscal qui était offert aux aidants naturels aux termes de l’article 118.2 de la LIR en vigueur en 2005, les renseignements supplémentaires du budget fédéral indiquaient ce qui suit :
+Les contribuables qui engagent des frais médicaux ou des dépenses liées à une invalidité à l’égard d’un proche à charge peuvent réclamer ces frais ou dépenses aux fins du crédit d’impôt pour frais médicaux (CIFM). À cette fin, un proche à charge s’entend d’un enfant ayant au moins 18 ans, ou d’un petit-enfant, d’un parent ou d’un grand-parent, d’un frère, d’une sœur, d’un oncle, d’une tante, d’un neveu ou d’une nièce, à la charge du contribuable.
+[Non souligné dans l’original.]
+[43] Aucune de ces notes ne mentionne « l’époux » ou le « conjoint de fait » du particulier qui demande le crédit d’impôt pour frais médicaux.
+[44] Il convient en outre de mentionner que les notes techniques de 2011 précitées renvoient au crédit d’impôt pour frais médicaux comme étant un crédit visant à procurer un allègement aux contribuables qui ont engagé d’importants frais médicaux. La Cour interprète cet extrait comme signifiant que l’admissibilité au crédit peut être prise en compte dans la mesure où les frais engagés ont une incidence négative sur la capacité financière du contribuable. Sous réserve de l’exception précise visant les frais médicaux payés par le contribuable lui-même, le crédit n’aurait pas pour but d’indemniser un contribuable pour toute autre forme d’aide offerte relativement à des frais engagés par une autre personne, ou pour le soutien offert à un être cher, aussi louable cela soit-il.
+[45] L’alinéa 118.2(3)b) de la LIR appuie cette interprétation, car il précise que des frais médicaux pour lesquels la personne a droit à un remboursement ne sont pas admissibles au crédit d’impôt pour frais médicaux :
+b) des frais ne sont pas considérés comme des frais médicaux dans la mesure où l’une des personnes suivantes a droit à un remboursement à leur titre :
+(i) le particulier,
+(ii) l’époux ou conjoint de fait du particulier ou une personne à la charge du particulier (au sens du paragraphe 118(6)),
+(iii) une personne liée à une personne visée aux sous-alinéas (i) ou (ii),
+(iv) le représentant légal d’une personne visée à l’un des sous-alinéas (i) à (iii),
+sauf dans la mesure où le montant du remboursement est à inclure dans le calcul du revenu et n’est pas déductible dans le calcul du revenu imposable.
+[Non souligné dans l’original.]
+[46] Aucun des auteurs traitant du crédit d’impôt pour frais médicaux, que la Cour a pu recenser, ne mentionne le droit d’un particulier demandant le crédit de déduire des frais médicaux autres que ceux qu’il a lui-même payés, à une exception près. La Cour a relevé l’article de 2015[8] cité ci-après qui fait mention d’une exception qui, nous présumons, renvoie à la politique administrative de l’ARC qui est examinée ci-après.
+[47] L’ARC semble faire une interprétation assez libérale des frais médicaux d’un particulier qui sont admissibles au crédit d’impôt pour frais médicaux. La Cour mentionne deux sources susceptibles d’étayer cette thèse, dont une a été produite en preuve par l’appelant[9]. Le guide de 2018 sur les frais médicaux (RC4065(F) Rév. 18), qui décrit le crédit pour frais médicaux, mentionne ce qui suit au sujet des dépenses admissibles d’un particulier :
+Comment pouvez-vous demander les frais médicaux?
+Vous pouvez demander les frais médicaux à la ligne 330 ou 331 de votre annexe 1.
+Ligne 330 – Vous pouvez demander le total des frais médicaux admissibles que vous ou votre époux ou conjoint de fait avez payés pour toutes les personnes suivantes :
+■ vous-même;
+■ votre époux ou conjoint de fait;
+■ vos enfants (ou ceux de votre époux ou conjoint de fait) nés en 2001 ou après.
+Ligne 331 – Vous pouvez demander la partie des frais médicaux admissibles que vous ou votre époux ou conjoint de fait avez payés pour toutes les personnes à charge suivantes :
+■ vos enfants nés en 2000 ou avant, ou vos petits-enfants (ou ceux de votre époux ou conjoint de fait);
+■ vos parents, grands-parents, frères, sœurs, oncles, tantes, neveux ou nièces (ou ceux de votre époux ou conjoint de fait) qui résidaient au Canada à un moment de l’année.
+Vous devez, pour chaque personne à charge, calculer les frais médicaux que vous demandez à la ligne 331.
+[Non souligné dans l’original.]
+[48] Le même guide renvoie également à l’exemple suivant :
+Exemple
+Paul et Sarah ont deux enfants, Éléonore et Zoé. Après avoir examiné leurs reçus de frais médicaux, ils ont décidé que la période de 12 mois se terminant en 2018 pour laquelle ils demanderont un montant sera du 1er juillet 2017 au 30 juin 2018. Ils ont payé les frais médicaux suivants :
+Paul
+1 500 $
+Sarah
+1 000 $
+Zoé (leur fille de 16 ans)
+1 800 $
+Éléonore (leur fille de 19 ans)
+1 000 $
+Total des frais médicaux
+5 300 $
+Puisque Zoé a moins de 18 ans, Paul et Sarah peuvent inclure ses frais médicaux avec les leurs, pour un total de 4 300 $. Soit Paul ou Sarah peut demander ce montant à la ligne 330 de l’annexe 1. Puisqu’Éléonore a plus de 18 ans, ses frais médicaux devront être demandés à la ligne 331.
+Sarah a un revenu net de 32 000 $ (à la ligne 236 de sa déclaration). Elle calcule 3 % de ce montant et obtient un résultat de 960 $. Puisque ce montant est inférieur à 2 302 $, elle soustrait 960 $ de 4 300 $. La différence est de 3 340 $, ce qui est le montant qu’elle pourrait demander à l’annexe 1.
+Paul a un revenu net de 48 000 $. Il calcule 3 % de ce montant et obtient un résultat de 1 440 $. Puisque ce montant est inférieur à 2 302 $, elle soustrait 1 440 $ de 4 300 $. La différence est de 2 860 $, ce qui est le montant qu’il pourrait demander à l’annexe 1.
+Dans ce cas, il est plus avantageux pour Sarah de demander tous les frais médicaux de Paul, elle-même et leur fille Zoé à la ligne 330.
+Pour décider qui devrait demander les frais médicaux d’Éléonore à la ligne 331, Paul et Sarah devront refaire le même calcul en utilisant le revenu net d’Éléonore.
+[49] Cette pratique de l’ARC est une mesure administrative[10]. Elle n’a aucune valeur en droit ni aucun fondement juridique devant notre Cour. Cependant, pour des raisons qui lui sont propres, il semble que l’ARC ait décidé de ne pas appliquer cette pratique en l’espèce. Et à moins qu’elle ne soit d’avis que la loi comporte quelque ambiguïté, notre Cour est tenue d’appliquer la loi telle que le législateur l’a rédigée.
+[50] Eu égard à l’analyse qui précède, les remarques formulées précédemment au paragraphe [34] ci-dessus demeurent pertinentes et applicables dans les circonstances, notamment quant à l’identité de la personne qui doit avoir payé les frais médicaux admissibles aux termes de l’alinéa d) de l’élément E du paragraphe 118.2(1) de la LIR. Notre Cour est d’avis que l’élément E exige que les frais médicaux qui ont été engagés à l’égard d’une personne à charge, et que le particulier souhaite inclure dans le calcul du crédit d’impôt pour frais médicaux, aient été payés par le particulier lui-même. On ne peut raisonnablement prétendre que le libellé utilisé par le législateur dans cette disposition soulève quelque ambiguïté. Il est encore plus difficile de trouver quelque ambiguïté dans un contexte où cette ambiguïté devrait découler de l’absence de mots, alors que la loi, telle qu’elle est rédigée, n’est nullement ambiguë quant à sa portée, bien qu’elle soit restrictive aux yeux de certains. Malheureusement, l’appelant demande à notre Cour de réécrire la disposition, ce que la Cour n’est pas autorisée à faire[11].
+[51] Bien que les mots « l’époux du particulier » et le « conjoint de fait » du particulier soient utilisés à d’autres fins dans la LIR, l’absence de ces mots à l’alinéa d) de l’élément E du paragraphe 118.2(1) de la LIR est significative et témoigne de l’intention du législateur qui est de ne pas étendre le paiement des frais médicaux à des personnes autres que le particulier qui demande le crédit d’impôt pour frais médicaux. Le cas de l’article 118.1 de la LIR est particulièrement éloquent; à l’origine, le crédit d’impôt pour dons se limitait aux dons faits par le particulier, mais cette disposition a par la suite été modifiée pour autoriser les dons faits par l’époux ou le conjoint de fait du particulier, afin de s’harmoniser avec la pratique administrative de l’ARC alors en vigueur[12].
+[52] La situation de M. Andrews présente notamment deux difficultés. La première tient à l’absence des mots « époux » ou « conjoint de fait » à l’alinéa d) de l’élément E du paragraphe 118.2(1) de la LIR, qui oblige l’appelant à démontrer qu’il a lui-même payé les frais médicaux de Mme Brochu. La deuxième est que ces frais ne doivent pas être remboursables et qu’ils ne doivent certainement pas avoir été assumés par Mme Brochu elle-même.
+[53] Les éléments de preuve montrent que la somme totale qui a été payée par Mme Brochu à partir du compte conjoint, et dont l’appelant demande la déduction à titre de frais médicaux, s’élève à environ 19 500 $, ce qui correspond à peu près au revenu net de Mme Brochu en 2018 qui a été reconnu par les parties, ainsi qu’à la somme qui a été déposée dans le compte conjoint par Mme Brochu cette année-là.
+[54] Les éléments de preuve expliquent également les raisons qui ont mené à l’ouverture du compte conjoint, la manière dont les fonds, les cotisations et les dépôts ont été versés dans ce compte, qui en étaient les signataires autorisés ainsi que les retraits préautorisés mensuels. Ces éléments, qui ont été corroborés essentiellement par le témoignage de Mme Andrews, ainsi que les éléments de preuve documentaire, appuient la thèse selon laquelle Mme Brochu a directement contribué au paiement de ses propres frais médicaux en 2018, plus précisément par les paiements mensuels faits à Sun Parlor et à la pharmacie Remedy’sRx. L’appelant n’a pas lui-même effectué ces paiements, comme l’exige à l’alinéa d) de l’élément E du paragraphe 118.2(1) de la LIR. Les éléments de preuve n’ont pas établi que l’appelant avait quelque autorité sur le compte conjoint en 2018. Cet aspect est préjudiciable à l’appelant. Et sans égard au fait que la Cour ne confirme pas qu’elle devrait accorder quelque importance à cet élément, la thèse de Mme Andrews au sujet du compte conjoint n’est pas pertinente à l’égard de la thèse de l’appelant.
+[55] De plus, même si cela n’est pas déterminant dans le présent appel, il aurait été important de tenir compte de l’alinéa 118.2(3)b) de la LIR pour déterminer si une personne autre que Mme Brochu a le droit de déclarer des frais médicaux qu’elle-même a payés. La notion du paiement des frais médicaux aux fins de l’alinéa d) de l’élément E du paragraphe 118.2(1) ne peut pas simplement se limiter à l’action de payer. Pour en arriver à une interprétation raisonnable du texte, il faut tenir compte de l’aspect financier de l’opération dans son ensemble, ainsi que du contexte législatif qui régit les droits des parties en cause.
+[56] Enfin, M. Andrews a mentionné que les opérations en l’espèce auraient pu être effectuées d’une manière totalement différente, mais que le résultat aurait été le même. Par conséquent, la manière ne devrait pas être un facteur déterminant. En réponse à cette prétention, nous renvoyons au commentaire formulé dans l’arrêt de la Cour suprême du Canada Shell Canada au sujet de la manière dont un contribuable peut s’attendre à être imposé :
+[…] Sauf disposition contraire de la [LIR], le contribuable a le droit d’être imposé en fonction de ce qu’il a fait, et non de ce qu’il aurait pu faire et encore moins de ce qu’un contribuable moins habile aurait fait.
+[Non souligné dans l’original.]
+[57] Pour tous ces motifs, l’appel interjeté à l’encontre de la nouvelle cotisation établie à l’égard de l’année d’imposition 2018 de l’appelant sera rejeté, sans dépens.
+Signé à Toronto (Ontario), ce 7e jour de février 2023.
+« J.M. Gagnon »
+Le juge Gagnon
+RÉFÉRENCE :
+2023 CCI 19
+Nº DU DOSSIER DE LA COUR :
+2021-2283(IT)I
+INTITULÉ :
+MARK ANDREWS C. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATE DE L’AUDIENCE :
+Le 10 novembre 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge Jean Marc Gagnon
+DATE DU JUGEMENT :
+Le 7 février 2023
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Warwick Walton
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’intimé :
+François Daigle Sous-procureur général du Canada Ottawa, Canada
+[1] Hypothèques Trustco Canada c. Canada, 2005 CSC 54 [Hypothèques Trustco Canada].
+[2] Canada c. Antosko, [1994] 2 R.C.S. 312 [Antosko].
+[3] Friesen c. Canada, [1995] 3 R.C.S. 103, par. 59 et 60 [Friesen].
+[4] Shell Canada Ltée c. Canada, [1999] 3 R.C.S. 622 [Shell Canada].
+[5] FU2 Productions Ltd. c. Le Roi, 2022 CCI 148.
+[6] Wallster c. Le Roi, 2022 CCI 124.
+[7] Hunt c. La Reine, 2022 CCI 67 [Hunt].
+[8] Voir, notamment, Lucie Champagne and Gael Melville, « Credit Where It’s Due: Tax Credits for Elder-Care Expenses and Other Tax Considerations » dans « Personal Tax Planning » (2018), 66:4 Canadian Tax Journal, 1013-1040; Jamie Golombek, Debbie Pearl-Weinberg, and Tess Francis, « Tuition Expenses and Tutoring Fees as Medical Expenses », Personal Tax Planning feature (2015) 63:2 Canadian Tax Journal 543-564 et Hélène Marquis, Collection APFF – Impôt et taxes: Planifier pour les familles ayant des besoins spéciaux, 1er septembre 2017, no 3.
+[9] À l’audience, l’appelant a présenté la version de 2021 du guide sur les frais médicaux [RC4065(F) Rév. 21]. Aux fins des présentes, la Cour renvoie à la version de 2018 [RC4065(F) Rév. 18]. La Cour a également mentionné le Bulletin d’interprétation IT-519R2 daté du 1er avril 2001, qui a été annulé et remplacé le 28 mars 2013 notamment par le Folio de l’impôt sur le revenu S1-F1-C1, Crédit d’impôt pour frais médicaux. Ces documents sont publiés par l’ARC.
+[10] Le jugement en matière de fiscalité de la Cour suprême du Canada Ministre du Revenu National c. Inland Industries Limited, 72 DTC 6013, qui a été rédigé par le juge Pigeon, auquel renvoie le juge Cattanach dans Stickel c. M.R.N., 72 DTC 6178, et qui a été adopté depuis, confirme que la manière dont le ministre du Revenu national ou ses employés ou mandataires interprètent la loi ne modifie pas ce qu’est la loi, sauf aux fins d’interprétation dans les cas où la loi est ambiguë. Voir également les arrêts de la Cour suprême du Canada Harel c. Sous-ministre du Revenu (Québec), [1978] 1 R.C.S. 851 et Nowegijick c. La Reine, [1983] 1 R.C.S. 29. Voir également Morissette c. La Reine, 2019 CCI 103, par. 38 [Morissette], Satinder c. Canada (Procureur général), 2002 CAF 491, par. 9, Ludmer c. Canada, [1995] 2 CF 3, Kennedy v. Canada, [2001] ACI no 486, Estate of Dora Greenstone v. The Minister of National Revenue, 91 DTC 969 et Canada (Commission canadienne des droits de la personne) c. Canada (Procureur général), 2011 CSC 53.
+[11] Un renvoi est fait à la note 9. Voir également l’affaire Douziech c. La Reine, 2000 CanLII 343 (CCI) invoquée ultérieurement dans Morissette.
+[12] Voir le projet de loi C-43, L.C. 2014, ch. 39, par. 34(2). Voir également les notes techniques qui accompagnent les modifications.

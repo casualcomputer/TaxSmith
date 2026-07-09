@@ -1,0 +1,191 @@
+Title: Gill v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28863/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-473-28863-gill-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-09-01
+
+# Gill v. The Queen
+
+- Citation: 2008 TCC 473
+- Decision date: 2008-09-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1306, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gill v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-01
+Neutral citation
+2008 TCC 473
+File numbers
+2007-1580(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1580(IT)G
+BETWEEN:
+GREGORY S. GILL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 9, 2008 at Whitehorse, Yukon
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2005 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Charlottetown, Prince Edward Island, this 1st day of September 2008.
+"Diane Campbell"
+Campbell J.
+Citation: 2008 TCC 473
+Date: 20080901
+Docket: 2007-1580(IT)G
+BETWEEN:
+GREGORY S. GILL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] The Appellant, in computing his income for the 2005 taxation year, deducted the sum of $100,000 U.S. as child support payments pursuant to subsection 60(b) of the Income Tax Act (the “Act”). The Minister of National Revenue (the “Minister”) disallowed this deduction. The issue is whether the Appellant can deduct this lump sum payment of $100,000 U.S.
+[2] The facts are straightforward. The Appellant admitted all of the assumptions of fact upon which the Minister relied in the Reply to the Notice of Appeal. Those assumptions of fact at paragraph 7 of the Reply stated:
+a) the facts stated and admitted above;
+b) the Appellant and Louann Gill (“Louann”) were married on October 4, 1975, in Johns Town, Pennsylvania;
+c) the Appellant and Louann had four children:
+i) Joshua, born August 30, 1976;
+ii) Rebecca, born April 7, 1979;
+iii) Louanna, born May 12, 1981; and
+iv) Benjamin, born September 14, 1983;
+d) the Appellant and Louann were divorced pursuant to the Order dated April 30, 1993;
+e) pursuant to the Order, the Appellant was required, inter alia, to:
+i) pay child support of $826 US per week, allocated at 25% per child, until each child reached the age of 21 years;
+ii) pay, for the children, 50% of their health related care not covered by insurance until each child reached the age of 21 years; and
+iii) pay the premiums for the continuation of a medical insurance plan for Louann and the children;
+f) as of August 5, 2005, pursuant to his obligations under the April 30, 1993 Order, the Appellant was approximately $370,000 in arrears of child support;
+g) pursuant to the Agreement between the Appellant and Louann executed on September 11, 2005, the parties agreed that:
+i) the child support due and owing for each child was in excess of $44,000 for Joshua, $72,000 for Rebecca, $94,000 for Louanna, and $119,000 for Benjamin;
+ii) the Appellant also owed Louann for past due medical insurance premiums and un-reimbursed medical expenses;
+iii) the Appellant would pay Louann the sum of $100,000 US in settlement of the child support arrears, past due medical insurance premiums and un-reimbursed medical expenses;
+iv) if the Appellant did not make the $100,000 US payment and sign the Agreement within 30 days, Louann would be entitled to proceed with a Judgment for the full arrears and past due amounts;
+v) the Agreement reduced the past due child support obligations and arrears to the sum of $100,000 US;
+vi) upon the payment by the Appellant of the sum of $100,000 US, the Appellant and Louann each waives, renounces, grants, remises, discharges and releases to the other, forever and all purposes whatsoever, any and all rights, title and interest in any claims whatsoever with regard to past, present and future child support obligations, medical insurance premiums and out‑of‑pocket health related expenditures with regard to all four children; and
+vii) the Agreement in all respects modified the Order as to arrears;
+h) the September 11, 2005 Agreement varied the April 30, 1993 Order;
+i) the Appellant made the Lump Sum Payment pursuant to the September 11, 2005 Agreement, not pursuant to the April 30, 1993 Order;
+j) the Appellant made the Lump Sum Payment in order to be released from his outstanding obligation for child support arrears, past due medical insurance premiums and un-reimbursed medical expenses under the Order;
+k) as such, the Lump Sum Payment was in settlement of the amount owing, significantly reducing the amount the Appellant otherwise owed;
+l) the Agreement changed the child support payable to Louann under the Order; and
+m) under the Agreement, the Appellant was not required to pay an allowance on a periodic basis but to make a one time lump sum settlement payment.
+[3] The two relevant legal documents are:
+(1) a Judgment of Divorce of the Supreme Court of the State of New York dated April 30, 1993 dissolving the Appellant’s marriage to Louann Gill (the “Order”); and
+(2) a Modification and Resolution of Past Due Child Support arrears executed on September 11, 2005 between the Appellant and Louann Gill (the “Agreement”).
+[4] The relevant portions of the 1993 Order are as follows:
+ORDERED, ADJUDGED AND DECREED, that the Defendant shall pay the Plaintiff as and for child support until emancipation as hereinafter set forth EIGHT HUNDRED AND TWENTY-SIX ($826.00) DOLLARS per week to be allocated at twenty-five percent (25%) per child; said payments shall be made to the MOTHER at her current residence or whatever residence she may be at and shall be reduced by twenty five percent (25%) upon the emancipation of each child; and it is further
+ORDERED, ADJUDGED AND DECREED, (a) the basic child support obligation in this case is EIGHT HUNDRED AND TWENTY-SIX ($826.00) DOLLARS per week plus each parent shall pay fifty (50%) percent of health related care not covered by insurance; …
+[5] The relevant portions of the 2005 Agreement are as follows:
+NOW, THEREFORE, in consideration of the promises and the mutual covenants and undertakings hereinafter set forth, the Parties agree as follows:
+1. That attached hereto as EXHIBIT A is a copy of a letter dated April 1, 2004, from Yukon Justice from Deb Hardie, Maintenance Enforcement Officer, which letter is directed to Shayne Fairman. Said letter provides a copy of the payment history provided by the Rockland County Support Collection Unit. Said document shows, on the report run of August 5, 2004, a child support obligation due and owing of approximately $374,291.84.
+2. That attached hereto as EXHIBIT B is a Yukon Maintenance Enforcement Program Statement of Account with a date of August 5, 2004, entitled Gill, Louann v. Gill, Gregory File No. 1336, which showed an amount owed by respondent in the approximate sum of $369,618.52.
+3. That based upon the approximation of the party, child support would be due and owing for Joshua Gill in excess of approximately $44,000.00; child support would be due and owing for Rebecca Gill in excess of approximately $72,000.00; child support would be due and owing for Louanna Gill in excess of approximately $94,000.00; and child support would be due and owing for Benjamin Gill in excess of approximately $119,000.00.
+4. That the Parties agreed that interest for a judgment in the State of New York runs at nine (9%) percent per year.
+5. That sums due and owing by GREGORY GILL to LOUANN GILL also involve past-due medical insurance premiums and unreimbursed medical expenses.
+6. That the aforesaid sums due and owing as and for child support, medical insurance premiums and unreimbursed medical expenses shall be deemed fully paid upon the following: a) the execution, by all Parties, of four (4) fully executed duplicate original Agreements, and b) payment by a bank teller’s check made payable to Louann Gill in the sum of $100,000.00 United States currency, subject to collection; said Agreements shall be held in escrow and not filed until said payment clears collection.
+…
+9. The Parties herein agree that, taking into consideration all the relevant facts and circumstances, including but not limited to the factors set forth in Section 236, Part B, and Section 240 of the Domestic Relations Law of the State of New York, and in view of the other terms, conditions and provisions of this Agreement, it is fair and equitable to modify the aforesaid past due child support obligations and arrears so that same is herein modified to be reduced to the present sum of $100,000.00 United States currency.
+…
+12. The Parties agree that upon the prompt payment and collection pursuant to this Agreement of the aforesaid $100,000.00 in United States currency payable to Louann Gill, that ten (10) business days thereafter, each of the Parties hereby waives, renounces, grants, remises, discharges and releases to the other, forever and all purposes whatsoever, any and all rights, title and interest in any claims whatsoever under any present or future law or decision of any Court of the State of New York with regard to past, present and future child support obligations, medical insurance premiums and out-of-pocket health related expenditures with regard to the aforesaid four (4) children, Joshua Gill, Rebecca Gill, Louanna Gill and Benjamin Gill.
+13. The Parties herein agree that this Agreement shall, in all respects, modify any decree of the Judgment of Divorce as to “arrears,” and shall remain binding upon the Parties.
+…
+[6] Pursuant to the terms of the 2005 Agreement, the Appellant, on August 29, 2005, provided a $100,000 U.S. bank draft to his lawyer in Whitehorse to be retained in escrow in a New York lawyer’s trust account pending execution of the Agreement by Louann Gill. On September 11, 2005 Ms. Gill signed this Agreement.
+[7] The Appellant’s position is that the amount of $100,000 U.S. was paid to settle child support arrears owed pursuant to the 1993 Order and therefore was paid in accordance with this Order. The Appellant contends that the $100,000 U.S. amount is a support payment that would be deductible in his 2005 taxation year.
+[8] The Respondent relied on two grounds. The first argument was that the $100,000 U.S. payment was a “lump sum” payment, made to settle arrears, pursuant to the 2005 Agreement, not the 1993 Order. Since it was not payable on a “periodic basis”, it was not a support amount as defined by subsection 56.1(4) for the purposes of the deduction permitted under subsection 60(b) of the Act. In the alternative, the Respondent argued that, if the $100,000 U.S. amount is a support amount, because the 2005 Agreement varied the terms of the 1993 Order, the Agreement created a “commencement day” pursuant to subsection 56.1(4) of the Act. The Appellant is therefore not entitled to deduct the payment under subsection 60(b) of the Act.
+Analysis
+[9] Subsequent to the decision of the Supreme Court of Canada in Thibaudeau v. Canada, [1995] S.C.J. No. 42, legislative amendments were enacted in 1997. Prior to these amendments, under subsection 60(b) and paragraph 56(1)(b) of the Act, amounts paid pursuant to a court order or written agreement by one parent to another for the support of the children, after their separation or divorce, were deductible by the payor and taxable in the hands of the recipient. This is referred to as the old regime, pre-May 1997. The tax treatment of these amounts continued after the legislation changed so long as the pre-May 1997 order or agreement remained unchanged.
+[10] Following the 1997 amendments, if an existing agreement or order was varied to change the support amount payable to the recipient after April 1997, a new commencement day will be established as the day on which the first payment of the varied “child support amount” is payable to the recipient. Payments made before the new commencement day will be deductible/taxable for the payor/recipient respectively while payments made after the new commencement day will not be.
+[11] The terms “child support amount”, “commencement day” and “support amount” are defined in subsection 56.1(4):
+The definitions in this subsection apply in this section and section 56:
+"child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common‑law partner of the payer or who is a parent of a child of whom the payer is a legal parent.
+"commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common‑law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[12] Subsection 60(b) provides that:
+60(b) the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer's income for a preceding taxation year;
+[13] The Respondent’s first argument, that the $100,000 U.S. was not a support amount payable on a periodic basis, relied on a number of cases beginning with the Supreme Court decision in M.N.R. v. Armstrong, 56 DTC 1044. At page 1045 J. Kellock, in concluding that an amount paid in full settlement of future support amounts did not fall within subsection 60(b), stated that this amount “…was not an amount payable "pursuant to" or "conformément à" (to refer to the French text) the decree but rather an amount paid to obtain a release from the liability thereby imposed”. At page 1045 of that decision, the following test was provided:
+The test is whether it was paid in pursuance of a decree, order or judgment and not whether it was paid by reason of a legal obligation imposed or undertaken. There was no obligation on the part of the respondent to pay, under the decree, a lump sum in lieu of the monthly sums directed thereby to be paid.
+[14] The Respondent also relied on the Federal Court of Appeal decision in The Queen v. Sills, 85 DTC 5096, which was decided prior to the legislative amendments in 1997. I believe Sills is decided correctly but it is inapplicable to the facts before me. The decision in Sills held that if a taxpayer pays a series of lump sum payments, although in irregular amounts, which catches him up on the arrears then the amount paid will be deductible because its nature and character have not changed. However, I believe that if the taxpayer pays an amount, that is less than the amount of the arrears owed but that will settle his liability for those arrears then it is not deductible as the nature of the payment has changed. In the present appeal, the Appellant paid $100,000 U.S. in lieu of the $370,000 he owed. It was a modification of the original arrears amount and according to the 2005 Agreement, and the evidence presented, it was paid to settle the entire outstanding arrears and release the Appellant from further liability in respect to these past due arrears. I agree with J. Mogan’s assessment of Sills in Widmer v. Canada, [1995] T.C.J. No. 1115 where he distinguished the facts of Sills from those before him. At paragraph 17 he stated:
+As I read the Sills decision, neither one of those thousand dollar payments was a lump-sum payment but was more in the nature of a catch-up payment. Also, as counsel for the Respondent indicated in argument, there was no second order of the Court in the Sills case as there was in this case.
+The facts in Widmer were similar to those in this appeal. At paragraph 15 J. Mogan states:
+When the amount actually received ($15,000) is so different from and so much smaller than the amount owed ($50,590), I cannot regard the amount received as having the same character as the amount owed. In other words, I cannot regard the $15,000 amount received by the Appellant as having been received for the maintenance of the three children. In my opinion, this small amount was paid by David in one lump sum firstly, to obtain a release from his very real liability to pay the remaining $35,590, and secondly, to obtain a reduction in the aggregate amount of his monthly maintenance payments from $795 per month to $600 per month. In summary, the $15,000 amount was paid to obtain a release from existing obligations and a reduction in future obligations, and not for the maintenance of the three children.
+[15] In Soldera v. M.N.R., 91 DTC 987, also decided prior to the 1997 amendments, J. Garon determined that the lump sum payment made pursuant to a 1986 Order reduced the amounts owing under a 1983 Order. It reduced the Appellant’s liability as of May 31, 1986 in respect to the arrears of maintenance, but did not alter the Appellant’s liability respecting the existing or future maintenance obligations. At page 990, it states:
+First of all, in the 1986 Order there is no provision whereby the Appellant is released in express terms from any existing or future liability in respect of the maintenance of his children.
+Soldera relies on the principles expressed in the decisions in Armstrong and Sills (page 989 of Soldera). The Respondent counsel distinguished Soldera from the present appeal because in Soldera there was no provision in the documentation that released the taxpayer from any existing or future liability respecting maintenance payments for the children. The Appellant in the present appeal was released from any liability concerning the past due arrears of $370,000 once the $100,000 U.S. was paid.
+[16] J. Sarchuk in Glazier v. Canada, [2003] T.C.J. No. 133, also distinguished Soldera on the same basis and his reasons support the assessment in this present appeal, although Glazier involved spousal support payments and not child support amounts. At paragraph 9, J. Sarchuk made the following comments:
+This Appellant's reliance on Soldera is not well-founded since in that case the lump sum payment represented what Soldera was required to pay under a previous Order and, more importantly, there was no extinguishment of present or future obligations. In my view, it is not possible to consider the lump sum payment in the present case as anything other than an amount paid to obtain a release from a liability imposed by an Order or agreement whether such liability be in respect of arrears of maintenance payments, future payments or both.
+[17] Many of the decisions decided by this Court in respect to this issue could be distinguished on the basis that the facts involved both arrears and future support payments (see also Bégin v. Canada, 2005 DTC 949; MacBurnie v. Canada, 95 DTC 686). What is common to all of the decisions is that they have been decided under the Informal Procedure and I am not obliged to follow any of them. I do not have to decide whether there is any difference between the liability for past due arrears and the liability for future payments of maintenance as this appeal deals only with past due arrears. I believe however that the same principles should apply whether the lump sum payment being made is in respect to the amount owed in the past or in respect to an amount that will be owed in the future.
+[18] In deciding the first argument relied on by the Respondent, I go back again to the words of J. Kellock in Armstrong where he stated that if an amount is payable to obtain a release from the liability otherwise imposed pursuant to a decree, then the amount is not payable pursuant to that decree. It is simply a lump sum amount paid to obtain a release in respect to the liability otherwise imposed by that decree. If, however, the $100,000 U.S. amount had equalled the total arrears owed at the time of the 2005 Agreement, I would have allowed the deduction because I do not believe that the nature and character of the payment would have changed. If the $100,000 U.S. amount had been paid as a portion of the total arrears owed with specific and satisfactory arrangements outlined for payment of the balance of any and all arrears, I would have also been inclined to allow the deduction of the amount paid. This is in accordance with the Sills decision that “The payments do not change in character merely because they are not made on time” (page 5098). However, in the present appeal, the Appellant paid $100,000 U.S. to obtain a full release from the liability to pay the arrears of $370,000. The amount of $100,000 U.S. cannot therefore be considered to be an amount that is payable on a periodic basis. The character and nature of the payment is altered and consequently it is not deductible.
+[19] Even if I had determined that the $100,000 U.S. payment was a “support amount”, in accordance with the definition in subsection 56.1(4), with the result that it would also have been a “child support amount”, the 2005 Agreement clearly varied the 1993 Order, triggering a “commencement day”, with the $100,000 U.S. amount payable on or after that date. Therefore even if the facts in this appeal could support a finding that the amount was a “child support amount” in accordance with the definitions, it would not be deductible from the Appellant’s income pursuant to subsection 60(b).
+[20] Paragraphs 9, 11 and 13 of the 2005 Agreement all refer to the past due child support arrears as being “modified” under the 2005 Agreement. It is clear that in accordance with the terms of the 2005 Agreement the Appellant was released from his obligations under the 1993 Order to pay $370,000 in arrears. This so-called modification released the Appellant from his obligation to pay $370,000, owed under the 1993 Order. The $100,000 U.S. payment became payable upon the execution of the 2005 Agreement.
+[21] During cross-examination, the Appellant agreed that this $100,000 U.S. amount was in fact paid pursuant to the 2005 Agreement in settlement of the support arrears (Transcript page 25). This was also reflected in his agreement on cross-examination with assumption (i) of the Reply where he acknowledged that the lump sum payment was not made pursuant to the 1993 Order. The $370,000 in arrears included past due medical insurance premiums and unreimbursed medical expenses. This arrears amount also represented the total existing obligation because the Appellant’s future obligation to pay support had ended prior to 2005 when pursuant to the terms of the 1993 Order, the youngest child attained the age of 21 years. The obligation to pay the $100,000 U.S. amount is imposed under the 2005 Agreement. Because the 2005 Agreement varied the 1993 Order, a commencement day was established of September 11, 2005, being the date of the 2005 Agreement, pursuant to subsection 56.1(4) of the Act. The $100,000 U.S. payment became payable on or after the execution of the 2005 Agreement, or on or after the commencement day established in this Agreement. The amount is therefore no longer deductible as a support amount under subsection 60(b) of the Act. This means that the payor of the amount cannot deduct the payment under subsection 60(b) and the recipient does not have to include the amount in income under paragraph 56(1)(b).
+[22] The definition of “commencement day” clearly applies to the facts in this appeal. The 1993 Order was varied by the subsequent agreement in 2005 with the payment of the changed amount becoming payable by the Appellant in accordance with the commencement day of the 2005 Agreement. The legislative changes in April 1997 and the caselaw since those changes are straightforward as they relate to the facts before me. Unfortunately, even if this $100,000 U.S. payment could be considered a “child support amount” it would not be deductible by the Appellant because it was paid after this commencement day was triggered by the 2005 Agreement. J. Bowman’s comments in Kovarik v. Canada, [2001] 2 C.T.C. 2503, at paragraph 15, are relevant:
+… definition of "commencement day" in subsection 56.1(4) is not difficult to understand. … I do not see how the plain words of the definition can be avoided, however sophisticated the rules of statutory interpretation one may choose to use may be.
+[23] The Appellant relied on the recent decision of J. Hershfield in Stephenson v. Canada, 2007 DTC 1608. In that case the taxpayer had accumulated arrears of spousal support in the amount of $25,000 pursuant to an Order in 1998. By a consent order, the taxpayer’s obligation to pay spousal support was reduced to $7,500, to be paid in two tax-deductible amounts in 2003. J. Hershfield found that the $7,500 amount was a deductible support amount. Whether this decision is rightly or wrongly decided, there are several important distinguishing factors between the Stephenson decision and the present appeal. Stephenson involves spousal support and not child support amounts. There is no commencement day which is critical in this appeal. Because it is decided under the Informal Procedure, I am not required to follow it in any event.
+[24] Although I have some sympathy for the Appellant’s plight, he is the author of his own misfortune. If he had complied with the 1993 Order and remitted his support amounts for his children on time in accordance with that Order, he would have had no need to bring this appeal because he could deduct the weekly support amount pursuant to the 1993 Order.
+[25] The appeal is dismissed with costs.
+Signed at Charlottetown, Prince Edward Island, this 1st day of September 2008.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2008 TCC 473
+COURT FILE NO.:
+2007-1580(IT)G
+STYLE OF CAUSE:
+Gregory S. Gill and
+Her Majesty the Queen
+PLACE OF HEARING:
+Whitehorse, Yukon
+DATE OF HEARING:
+June 9, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+September 1, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Bruce Senkpiel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

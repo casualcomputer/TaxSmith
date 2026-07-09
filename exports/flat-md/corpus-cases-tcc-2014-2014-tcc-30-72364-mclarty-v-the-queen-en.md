@@ -1,0 +1,378 @@
+---
+title: "McLarty v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/72364/index.do"
+last_modified: "2014-06-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 30"
+citation2: ""
+neutral_citation: "2014 TCC 30"
+decision_date: "2014-06-18"
+language: "en"
+item_id: "72364"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5350
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:41:33.116000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8f6e6881b2080f1cfff57ee475b7facefa7a6048e7e8086ebec4e37b747a0dd1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McLarty v. The Queen
+
+- Citation: 2014 TCC 30
+- Decision date: 2014-06-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5350, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McLarty v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-06-18
+Neutral citation
+2014 TCC 30
+File numbers
+98-1659(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 98-1659(IT)G
+BETWEEN:
+ALLAN McLARTY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 28, 29, 30 and 31 and June 1, 4, 5, 6 and 7, 2012 and January 14 and 15, 2013, at Calgary, Alberta.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Jehad Haymour
+Sophie Virji
+Dan Mitsuka
+Counsel for the Respondent:
+Josée Tremblay
+Shane Aikat
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments dated May 1, 1997 concerning the appellant's 1993, 1994 and 1995 taxation years and from the reassessments dated October 29, 2001 concerning the appellant's 1998 and 1999 taxation years, all made under the Income Tax Act, are allowed with costs, and the reassessments are vacated, the whole in accordance with the attached Reasons for Judgment.
+IT IS ORDERED THAT:
+(1) The parties are to file written submissions on costs within 30 days of this judgment or at any later date that the Court may agree to within that time, and are to include therein submissions on whether a hearing on costs is needed.
+(2) The appellant's response to the respondent's request to admit dated May 11, 2012, whereby the appellant admitted the authenticity of certain documents did not constitute an admission of the truth of the facts therein contained. Once filed as evidence, the documents will speak for themselves.
+(3) The additional read-ins numbered 5, 6, 7 and 8 from the examination for discovery of Ms. Elaine Jones are not permitted to be introduced as evidence pursuant to section 100 of the Tax Court of Canada Rules (General Procedure) because the respondent is not relying on the fact that the appellant's promissory note was a contingent liability. The additional read-in numbered 26 is also not allowed because the reading by counsel of the statement of fact at paragraph 8 of the Amended Reply is not proof of that fact.
+(4) The additional read-ins numbered 46, 47, 48, 74 and 76 are allowed because they explain that certain exploration expenses and certain Canadian oil and gas property expenses were allowed by the assessor, which fact is relevant in considering the sham argument.
+(5) The additional read-ins numbered 52 to 67 inclusively are not permitted to be introduced as evidence because they refer to an evaluation report prepared in the course of the assessment process. This information is not relevant for the purpose of these appeals because no such evaluation report was filed in Court.
+(6) The respondent's objection to the additional read-in numbered 73 is sustained because that read-in concerns a question of law (construction of a contract and interpretation of the Income Tax Act), and the respondent's objection to the additional read-in numbered 87, which refers to all documents entered as part of the examination for discovery exhibits and specifically referred to in the relevant pages of the discovery transcripts is sustained, except with regard to the Canada Revenue Agency's position paper and the audit reports to which the position paper relates because those documents explain the assumptions of fact made by the Minister in assessing the appellant.
+Signed at Ottawa, Canada, this 18th day of June 2014.
+"Réal Favreau"
+Favreau J.
+Citation: 2014 TCC 30
+Date: 20140618
+Docket: 98-1659(IT)G
+BETWEEN:
+ALLAN McLARTY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+I. Introduction
+[1] The appellant appealed from two sets of reassessments made by the Minister of National Revenue (the “Minister”) under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended, (the "Act") for the 1993, 1994, 1995, 1998 and 1999 taxation years. One set of notices of reassessment is dated May 1, 1997 and concerns the 1993, 1994 and 1995 taxation years while the other set of notices of reassessment is dated October 29, 2001 and concerns the 1998 and 1999 taxation years.
+[2] The appellant, together with other individuals, entered into a joint venture agreement on December 31, 1993 (the “Joint Venture Agreement”) with 507326 Alberta Ltd. (“507326”), the joint venture operator, pursuant to which he purported to carry on the business of petroleum and natural gas exploration, development and production as a member of the 507326 Alberta Ltd. 1993/1994 Oil and Gas Joint Venture (the “Joint Venture”).
+[3] On December 31, 1993, 507326 acquired from Carlyle Management (1993) Inc. (“Carlyle”), on behalf of the Joint Venture, a 100% interest in a large body of seismic data relating to the province of Manitoba (the “Technical Data” or the "Seismic Data") for a consideration totalling $6,500,000 made up of cash in the amount of $975,000 and promissory notes in favour of Carlyle in the aggregate principal amount of $5,525,000.
+[4] The total consideration paid by the individual joint venturers for the Technical Data was $6,500,000: $975,000 in cash and $5,525,000 by way of promissory notes in favour of Carlyle (the “Promissory Notes”).
+[5] The appellant acquired his undivided interest in the Technical Data for a consideration of $110,000 composed of cash in the amount of $20,000, a promissory note in the amount of $85,000 in favour of Carlyle (the “appellant’s Promissory Note”) and an additional debt of $5,000 to be utilized by the Joint Venture to acquire petroleum and natural gas properties in Manitoba.
+[6] The appellant filed his 1993 return of income, claiming an addition of $110,000 to his cumulative Canadian exploration expense as defined in subsection 66.1(6) and paragraph 66(12.1)(a) of the Act (the “CCEE”), and he deducted certain amounts from his CCEE account to the extent that these amounts had become receivable by him as a result of sales of licensed copies of the Technical Data.
+[7] The appellant elected to capitalize the interest expenses associated with the purchase of his undivided interest in the Technical Data such that the interest paid on the appellant’s Promissory Note, in the amounts of $4,250 and $4,093.08 for the 1994 and 1995 taxation years respectively, constituted Canadian exploration expenses as defined in subsection 66.1(6) of the Act (the “CEE”) rather than interest expense deductions that can be claimed under paragraph 20(1)(c).
+[8] The interest of $4,092 paid or payable on the appellant’s Promissory Note was also deducted by the appellant in computing his income from the Joint Venture for each of the 1998 and 1999 taxation years.
+[9] As a result of netting the additions to the CCEE and the deductions therefrom to take into account the proceeds from the sales of licensed copies of the Technical Data, the appellant filed his returns of income claiming deductions of $89,797 and $6,056 from his CCEE account for the 1993 and 1994 taxation years respectively.
+[10] By way of the reassessments dated May 1, 1997, the Minister (1) disallowed the amounts of the deductions claimed by the appellant from his CCEE account for the 1993 and 1994 taxation years, (2) included in the appellant’s income for the 1994 and 1995 taxation years the amounts of $8,720 and $8,126 respectively as “licensing revenue to be included in income", and (3) treated the appellant’s cash portion of his investment in the Technical Data ($20,000) as being an eligible capital expenditure, as defined in subsection 14(5) of the Act (the “ECE”) and added 75% of the cash portion of the appellant’s investment in the Joint Venture to the appellant’s “cumulative eligible capital account” (the “CEC Account”).
+[11] By way of the reassessments dated October 29, 2001, the Minister disallowed the interest amounts of $4,092 claimed in respect of the appellant’s Promissory Note for each of the 1998 and 1999 taxation years.
+II. The Issues
+[12] The issues to be decided in these appeals are:
+(a) What expense did the appellant incur in respect of the purchase of the Seismic Data?
+(b) Does the expense, or any part of it, incurred by the appellant qualify as a CEE?
+(c) If the expense does not qualify as a CEE, is it deductible pursuant to paragraph 20(1)(b) of the Act as a cumulative eligible capital amount?
+(d) If the expense does not qualify as a CEE, is it deductible pursuant to paragraph 20(1)(c) of the Act as interest?
+(e) In the alternative, should the appeal be dismissed in any event as the deductions claimed by the appellant were part of a structure designed to implement shams with a view to deceiving the Minister?
+[13] The following issues are not before the Court:
+(a) whether the appellant acquired proprietary rights with respect to his undivided interest in the Seismic Data;
+(b) whether the expenditure incurred by the appellant to purchase his undivided interest in the Seismic Data qualifies as a CEE by virtue of its having been made for the purpose of determining the existence, location, extent or quality of an accumulation of petroleum or natural gas in Canada;
+(c) whether the appellant's Promissory Note constitutes a contingent liability;
+(d) whether the appellant was dealing at arm's length with Carlyle, the vendor of the Seismic Data; and
+(e) whether the price paid by the appellant for the Seismic Data was reasonable in the circumstances.
+III. The Minister’s Assumptions of Fact
+[14] In reassessing the appellant’s 1993, 1994 and 1995 taxation years, the Minister assumed the following facts, as set out in paragraph 10 of the Further Amended Reply to Second Amended Notice of Appeal:
+(a) On 20 April 1993, Probe Exploration Inc. (“Probe”) entered into negotiations with Chevron Canada Resources (“Chevron”) to acquire a proprietary interest in seismic data sets (“seismic”) consisting of a minimum of 1,000 kilometers.
+(b) Probe proposed to have some of Chevron’s seismic appraised (taking into account such factors as replacement cost, quality, technical parameters and area activity), and pay Chevron a cash consideration of 8% of the appraised value plus 50% of revenue earned from future sales of copies of the seismic.
+(c) In previous transactions of this nature, Probe had used Citadel (sic) Engineering, Curtz (sic) Consulting (Brian Curtz), and Jaskella Resources Consulting to appraise the seismic.
+(d) While Chevron was receptive to a straight cash sale of some of its seismic, it advised Probe on 31 May 1993 that it would not agree to Probe’s proposal.
+(e) On 21 December 1993, Carlyle Management (1993) Inc. (“Carlyle”) made an offer to Chevron that Carlyle or its nominee would purchase Chevron’s entire interest in the proprietary rights to approximately 5,905 kilometers of seismic (the “Manitoba Seismic”, also the “Technical Data Base” and the “Venture Data” in the Notice of Appeal) for $805,000 cash.
+(f) Chevron accepted Carlyle’s offer on 23 December 1993.
+(g) Carlyle and Chevron dealt with each other at arm’s length.
+(h) The following events occurred on 31 December 1993:
+• Chevron purportedly sold the Manitoba Seismic to Seitel, Inc. (“Seitel”), a non-resident corporation and Carlyle’s nominee, for $805,000 cash;
+• Seitel purportedly sold the Manitoba Seismic to Carlyle for $6.5 million, composed of $805,000 in cash and a limited recourse debenture for $5,695,000;
+• Carlyle purportedly sold the Manitoba Seismic to 507326 Alberta Ltd. (“507326”) as agent on behalf of the 507326 Alberta Ltd. 1993/1994 Oil and Gas Joint Venture (the “Joint Venture”) for $6.5 million, composed of $975,000 in cash and a limited recourse promissory note for $5,525,000;
+• 507326, Carlyle and Seitel entered into a Data Management and Sales Agreement whereby Seitel was authorized as worldwide agent to license copies of the Manitoba Seismic to third parties; and
+• 507326 entered into a Joint Venture Agreement with the Appellant, 30 other individuals and one corporation (the “Individual Joint Venturers”) involving the purported acquisition, exploration, development and production of petroleum and natural gas.
+(i) The Appellant purportedly purchased an interest in the Joint Venture for $110,000, composed of $20,000 in cash, a limited recourse promissory note to Carlyle for $85,000 (the “Promissory Note”), and an additional debt of $5,000.
+(j) Repayment of the Promissory Note was by assignment of 50% of net licensing revenues due to the Appellant from future sales of licensed copies of the seismic, and 20% of the production cash flow generated from the Appellant’s interest in petroleum rights acquired by the Joint Venture, first to interest and then to principal.
+(k) In the event that the Promissory Note was not paid at maturity, Carlyle had the right to force the sale of the investor’s undivided interest in the seismic and 20% of other joint venture interests by a trustee for cash only, with 50% of the proceeds going to Carlyle, the remaining 50% to the Appellant, with any shortfall being forgiven.
+(l) The division of forced sale proceeds described in the previous paragraph is not in accordance with normal lending practice.
+(m) The price paid by Carlyle to Seitel for the Manitoba Seismic was inflated by the use of limited recourse financing, and the true consideration was $805,000 plus 50% of net licensing revenues for nine years.
+(n) The price paid by 507326 to Carlyle for the Manitoba Seismic was inflated by the use of limited recourse financing, and the true consideration was $975,000 plus 50% of net licensing revenues for nine years.
+(o) The price paid by the Appellant for his interest in the Joint Venture was inflated by the use of limited recourse financing, and the true consideration was $20,000 plus 50% of net licensing revenues for nine years.
+(p) There was never any intention between the parties that the holders of the limited recourse financing would receive payment of the principal sum of the debenture and the promissory notes.
+(q) The purpose of the limited recourse financing was to ensure that the holders receive a revenue stream from future sales of copies of the seismic, and to provide an inflated income tax deduction.
+(r) It is not necessary to acquire proprietary rights to seismic to use it for exploration purposes, a licensed copy is sufficient.
+(s) Any expenses incurred by 507326 were incurred for the purpose of providing income tax deductions for the Individual Joint Venturers, and not for any of the purposes referred to in s. 66.1(6)(a)(i) of the Income Tax Act (the “Act”).
+(t) Expenses in the amounts of approximately $123,725, $124,625 and $54,000 (most of which were management fees based on sales of copies of the seismic) were incurred by 507326 in 1994, 1995 and 1996 respectively for the purpose of giving the impression that the Manitoba Seismic had been acquired for the purposes referred to in s. 66.1(6)(a)(i) of the Act.
+(u) Any expenses incurred by the Appellant in connection with his participation in the Joint Venture were incurred for the purpose of obtaining an income tax deduction, and not for any of the purposes referred to in s. 66.1(6)(a)(i) of the Act.
+(v) The expense incurred by the Appellant in connection with his participation in the Joint Venture did not exceed $20,000.
+(w) Any expense incurred by the Appellant in excess of $20,000 in connection with his participation in the Joint Venture was unreasonable in the circumstances.
+(x) Any expense incurred by the Appellant in excess of $20,000 in connection with his participating in the Joint Venture was a contingent liability.
+(y) The Appellant had previously invested in other seismic in order to obtain income tax deductions.
+(z) The three appraisals of the Manitoba Seismic obtained by 507326:
+• were not independent expert valuations;
+• were based on discounted replacement costs of re-shooting the seismic;
+and
+• used erroneous methodology that produced inaccurate and overstated
+opinions of value
+(aa) The value of the Manitoba Seismic on 31 December 1993 did not exceed $975,000.
+(bb) In determining the sale price of seismic, it is industry practice to apply volume discounts on the sale of blocks in excess of 1,000 kilometers.
+(cc) These volume discounts vary with the size of the block and the relative negotiating strength of buyer and seller.
+(dd) An 80% volume discount on the Manitoba Seismic purchased by 507326 would have been in accordance with industry practice and reasonable in the circumstances.
+[15] In reassessing the appellant’s 1998 and 1999 taxation years, the Minister assumed the following facts, as set out in paragraph 10.1 of the Further Amended Reply to Second Amended Notice of Appeal:
+(a) The facts as described in paragraph 10 above.
+(b) In claiming interest expenses in the amount of $4,092 in each of his 1998 and 1999 taxation years, the Appellant advanced the position that the said expenses were deductible on the basis that these deductions were wholly applicable to their alleged oil and gas exploration business.
+(c) The Joint Venture and as such the Appellant did not carry out an oil and gas exploration business and therefore there is no source of income against which the interest deduction may apply.
+(d) The series of transactions further described in paragraph 14 below which were undertaken for the purpose of attempting to show that the Appellant and others were carrying [out] oil and gas exploration constitutes steps in shams.
+(e) In the alternative, if any interest expenses is [sic] deductible, the interest expenses claimed by the Appellant, were not reasonable and should be reduced.
+[16] The series of transactions to which subparagraph 10.1(d) of the Further Amended Reply to Second Amended Notice of Appeal refers is the following:
+14. The incorporation of 507326, the agreement between Chevron and Carlyle for the purchase of the Manitoba seismic data for an amount of $805,000 on December 21, 1993, the purchase of the data from Chevron by Seitel in lieu and in place or as agent of Carlyle for the amount of $805,000 on December 31, 1993, the purchase by Carlyle of the same data and on the same day from Seitel at the inflated price of $6.5 million, the sale by Carlyle of the same data to 507326 on the same day for the amount of $6.5 million, the Data Management and Sales Agreement which provides that Seitel will act as the agent of 507326 to manage and licensed copies [sic] of the data for a commission fee of 10%, the Joint Venture agreement between 507326 and 30 other individuals and one corporation and the alleged acquisition by the appellant of an interest in the Joint Venture, were steps in shams that were arranged in attempts to deceive the Minister into believing that the expenses in issue were incurred for the purpose of exploration, rather than for the purchase of income tax deductions.
+IV. Summary of the Testimony
+Mr. Allan McLarty
+[17] The appellant is an energy regulatory lawyer practising with Fraser Milner LLP, who made various investments in the oil and gas exploration industry before becoming a member of the Joint Venture. He was an investor in the Petroleum Capital 1987 Partnership, which purchased 13,795 kilometres of proprietary seismic data. The appellant claimed CEE in excess of the cash he had invested in the Petroleum Capital 1987 Partnership (paragraphs 34 and 35 of a document referred to as "Facts Admitted" filed at the hearing of the appeals of the appellant in the Tax Court of Canada, 2005 TCC 55, and reproduced by Justice Little in his reasons for judgment in those appeals). On December 31, 1992, the appellant entered into a subscription agreement with Compton Resource Corporation pursuant to which he acquired an undivided interest in the Compton Resource Corporation 1992/1993 Oil and Gas Investment Fund (paragraph 12 of the “Facts Admitted” document referred to above).
+[18] The appellant's investment in the Joint Venture on December 31, 1993 was made despite the fact that no offering memorandum was prepared and no cost estimates for the exploration program were provided to the investors.
+[19] The appellant was not involved in the management of 507326 or in any of the transactions executed by the Joint Venture. The appellant was a "passive" member of the Joint Venture. He had no personal knowledge of the exploration program or of the exploration expenses to be incurred by the Joint Venture. He did not know who Seitel and Carlyle were or who controlled them. He did not know if the Technical Data were insured or in any way protected. He had not seen any information concerning the well that was drilled. The appellant's sources of information concerning the operations of the Joint Venture were the updates from the Joint Venture, the financial statements of the Joint Venture, the tax information slips, and the Annual Reports of Compton Petroleum Corporation.
+[20] The appellant confirmed that paragraphs 14 and 17 of the Second Amended Notice of Appeal were not correct in that the $5,000 amount was not advanced by the appellant to the Joint Venture to be used by the Joint Venture to acquire petroleum and natural gas properties or to finance the exploration and development activities of the Joint Venture. The $5,000 amount in question was instead a cash call by the Joint Venture for the purpose of mounting a defence against the CRA's reassessments and proceeding with appeals in this Court.
+[21] The appellant stated that he received from the Joint Venture licensing revenues in the amount of $5,000 in 1994 and in the amount of $2,500 in 1995.
+The total licensing revenues generated by the Technical Data were $650,000 in 1994 and $325,000 in 1995, and those revenues were used as follows:
+1994
+1995
+Distribution to the Individual Joint Venturers
+Payment under the Promissory Notes due to Carlyle
+$ 325,000
+$ 325,000
+$162,500
+$162,500
+[22] The appellant acknowledged that the Technical Data were sold in 2006 at a price of $560,000 and that, as a result of that transaction, an amount of $7,080,471 of debt was forgiven on the Promissory Notes. The appellant did not include his share of the forgiven debt in his initial tax return for the 2006 taxation year but he did include it when he filed an amended tax return for that year.
+Mr. Ernie Sapieha
+[23] Mr. Sapieha was the promoter of the Joint Venture. He was the president and the only director of 507326. He was also a participant in the Joint Venture. The Joint Venture and the Compton Resource Corporation 1992/1993 Oil and Gas Investment Fund were vehicles set up to raise money from a limited number of investors to finance the acquisition of seismic data to be used for oil and gas exploration activities to be conducted jointly with Compton Resource Corporation and Compton Petroleum Corporation. Compton Petroleum Corporation was created in 1994 and became public in 1996 when its shares were listed on the Toronto Stock Exchange and the New York Stock Exchange.
+[24] Mr. Sapieha pointed out that by signing the subscription agreements the investors acquired an undivided interest in the assets of the Joint Venture and an equivalent percentage of shares of 507326.
+[25] Mr. Sapieha stated that Mr. James P. Morin of Carlyle is the person who informed him that the Technical Data were on the market. He testified that he had first asked for an internal valuation of the Technical Data and that he had thereafter sought three appraisals from independent firms. 507326 did indeed receive three appraisals of the Technical Data, which purported to estimate the fair market value thereof as follows:
+Curts Seismic Consultants Ltd. $ 8,718,546
+Solid State Geophysical Inc. $ 10,343,048
+Citidal Engineering Ltd. $ 10,318,000
+[26] Only the Joint Venture paid the cost of the three appraisals despite the fact that Seitel, Carlyle and Compton Resource Corporation also benefited from the said appraisals. Mr. Sapieha could not explain how the value of $6.5 million for the Seismic Data was arrived at, nor did he remember who made that determination. Apparently there was nothing regarding this matter in the files.
+[27] Mr. Sapieha pointed out that only four months after the purchase of the Technical Data a licensing agreement for the use thereof was signed with Trinity Energy Ltd. for $875,000 and that many other licensing agreements were entered into between 1993 and 2006. The total revenues generated by the licensing of the Technical Data amounted to $2.8 million from 1994 to 2006.
+[28] Mr. Sapieha explained that, because the revenues generated from the licensing activities were substantial, the Joint Venture had to change its accounting presentation for the 1996 fiscal year. Since 1993, the Joint Venture has used the "full cost method" of reporting, which means that all costs have been capitalized by property or pool of properties. This method was common in the oil and gas industry prior to 2011 for entities that were in a pre-production stage. For the 1996 fiscal year and the following years, the Joint Venture presented a statement of operations, which is the equivalent of a statement of earnings (profit and loss).
+[29] Mr. Sapieha further stated that a total of 84 mineral leases on the territory covered by the Technical Data were acquired by Compton Petroleum Corporation on its own behalf and on behalf of the Joint Venture on a fifty-fifty basis. Mr. Sapieha confirmed that there was no formal joint venture agreement between Compton Resource Corporation or Compton Petroleum Corporation and the Joint Venture for the use of the Seismic Data, for the acquisition of the mineral leases or for the drilling of wells. On well licence No. 4577, only the name of Compton Petroleum Corporation, as the operator, appeared. One unsuccessful well was drilled in 1996 and abandoned on August 23, 2004. Mr. Sapieha asserted that three other wells were drilled by Compton Petroleum Corporation in 2001, 2003 and 2004 and that none of them were located on the territory covered by the Technical Data. Those wells were drilled after the Joint Venture had disposed of all of its assets other than the Technical Data to Compton Petroleum Corporation in 2000. None of the wells reached the commercial production stage.
+Mr. Michael Erskine Heier
+[30] Mr. Heier was the president of Trinity Energy Ltd., a private corporation providing basic services to oil and gas corporations. On March 1, 1994, Trinity Energy Ltd. entered into an exclusive 14-month licensing agreement with Seitel for the use of the Technical Data. Trinity Energy Ltd. ultimately paid the full amount of $875,000 for the licence. Trinity Energy Ltd. used the Seismic Data and drilled in 2001, 2003 and 2004 with Compton Petroleum Corporation, as a partner and operator, three wells not located on the territory covered by the Seismic Data. The cost of the wells was between $200,000 and $250,000 each and Mr. Heier considered the wells as being technical successes despite the fact that there was no commercial production of oil and gas. Mr. Heier did not know Mr. Sapieha personally, but he knew that Compton Petroleum Corporation was using the Seismic Data.
+Mr. Carl Ringdahl
+[31] Mr. Ringdahl, a geophysicist, worked for Compton Resource Corporation as a consultant. He charged $200 per day of work and spent half of his time working for the Joint Venture and the other half working for the Compton Resource Corporation 1992/1993 Oil and Gas Investment Fund. He did not keep daily records of his time worked for each. Half of his fees came from the Joint Venture, in which he was an investor.
+[32] Mr. Ringdahl explained that the copy of the Technical Data received from Chevron in January 1994 consisted of 200 to 300 lines and 500 boxes of field tapes. The data had to be reprocessed and the content of the tapes had to be transferred to new tapes for more efficient storage and location of the available information. His work consisted in reprocessing the data, mapping the lines with geologists and updating them with information coming from any other sources, evaluating land sales by the Manitoba government and preparing bids, and considering opportunities and offers for "farm-in" agreements with third parties.
+[33] Mr. Ringdahl was working closely with Mr. Sapieha, with whom he had meetings every day, and with Mr. Denike, a geologist hired by him in the fall of 1994. Mr. Ringdahl confirmed that the Daly Well drilled in 1996 by Compton Petroleum Corporation was located on the territory covered by the Technical Data, on seismic line 5-22-10-28 WW1.
+[34] Mr. Ringdahl explained that the Daly Well was drilled under the name of Compton Petroleum Corporation, without any reference to the Joint Venture, in order to facilitate the obtaining of the drilling licence from the Manitoba government. For that purpose, Compton Petroleum Corporation secured the services of Scott Land & Lease Ltd. for the acquisition of the land leases, entered into a standard daywork contract, filed an application for a well-drilling licence, and subsequently retained a consulting engineer for the well site and took out a liability insurance policy.
+[35] Mr. Ringdahl also confirmed that in October 1994 Seitel and Compton Petroleum Corporation agreed to reprocess 15 lines of seismic data and to share the cost on a fifty-fifty basis. Three lines were indeed reprocessed by Veritas in 1994. According to the witness, Veritas did not know that the Joint Venture held an interest in the Seismic Data.
+[36] Mr. Ringdahl considered that his work of looking at and interpreting seismic data constituted exploration work. As an investor in the Joint Venture, he was aware of the tax deductions that were available and knew that the risk associated with his investment was precisely with regard to the availability of the tax deductions. He did recognize that the Joint Venture had no budget for exploration and that the licensing revenues from the Seismic Data were supposed to generate enough money to pay the exploration expenses. He assumed that he would never have to make the payments under the promissory note that he had signed when he became a participant in the Joint Venture.
+[37] Mr. Ringdahl ceased working for Compton Petroleum Corporation in December 1996 and Mr. Sapieha hired Ms. Kim Davies, a geophysicist, to replace him.
+Mr. Kelvin Denike
+[38] The services of Mr. Denike, a geologist, were secured by Mr. Ringdahl in the fall of 1994 to work two weeks per month on the mapping of the Joint Venture’s Technical Data in order to identify where to drill wells. He invoiced Compton Development Corporation for his services but he was paid by the Joint Venture. He worked for the Joint Venture until 1998 and then joined Compton Petroleum Corporation.
+[39] He was not an investor in the Joint Venture, but he invested in the Compton Resource Corporation 1992/1993 Oil and Gas Investment Fund. According to him, the services that he rendered were part of normal exploration activities and he confirmed that the drilling of the Daly Well in February 1996 was based on the Seismic Data on which he had worked.
+[40] Mr. Denike also confirmed that Mr. Ringdahl or Ms. Keitha Dobson, the controller and chief financial officer of Compton Petroleum Corporation, has asked him to correct all his invoices from October 1994 to April 11, 1997 and to resubmit them under the name of 507326.
+Ms. Keitha Dobson
+[41] Ms. Dobson was the chief financial officer and controller of Compton Petroleum Corporation when she left that company in 1998. She was responsible for keeping the books and records of the Joint Venture, recording revenues, making the bank deposits and paying invoices. She had no authority to sign cheques on behalf of any entity. The payment of all invoices by 507326 had to be approved by Mr. Ringdahl or Mr. Sapieha. She was also responsible for the preparation of the annual tax information slips for the investors in the Joint Venture after the review by Mr. Sapieha and the external auditors. She had the list of the participants in the Joint Venture. She knew that some of the participants were behind the original subscribers despite the fact that no nominees were allowed under the terms and conditions of the subscription agreements. She was instructed by Mr. Sapieha to accept the sharing of the units and of the benefits from the unitholders’ investments in the Joint Venture.
+[42] She was informed by Mr. Sapieha that Compton Petroleum Corporation and the Joint Venture were carrying on joint exploration operations.
+[43] She did not remember having asked Mr. Denike to redo his invoices and resubmit them to 507326. She stated that 507326 had a goods and services tax number and claimed input tax credits.
+Mr. Norman Glen Knecht
+[44] Before joining Compton Petroleum Corporation in 1997 as chief financial officer, Mr. Knecht was an audit partner with Doane Raymond (which later became Grant Thornton) in charge of the audit of the Joint Venture, Compton Resource Corporation and Compton Petroleum Corporation. As such, he signed the financial statements of the Joint Venture for 1993 to 1996.
+[45] Mr. Knecht knew about the existence of a joint venture between Compton Petroleum Corporation and 507326 acting on behalf of the Joint Venture, but he never saw any agreement relating thereto.
+[46] Mr. Knecht explained that the Data Management and Sale Agreement entered into on December 31, 1993 between Carlyle and Seitel referred to a list of principals who had a royalty-free right to use the Seismic Data. The list of principals was compared with the list of investors in the Joint Venture. The conclusion was that the list of principals matched the list of investors, except for Carlyle, which was specifically named in the Data Management and Sale Agreement, and Compton Petroleum Corporation, which obtained the consent of the investors in the Joint Venture to use the data.
+Mr. Daniel Blyth Thornton, PhD, FCA
+[47] Mr. Thornton testified on behalf of the Crown as an expert accounting witness. His expertise in oil and gas accounting was contested by the appellant's lawyers, but after reviewing his qualifications, the Court came to the conclusion that the witness was qualified for the purpose of this case.
+[48] Mr. Thornton's expert accounting witness report was filed in Court as Exhibit R-31 and the conclusions of the report are as follows:
+61. The purpose of financial statements is to convey reliable information to users of the statements by accounting for transactions and events in a manner that conveys their substance rather than necessarily their legal form.
+62. Under full cost accounting, an oil and gas enterprise records all exploration and development costs incurred in a country, including the costs of drilling dry holes, as assets that will be depleted when production begins.
+63. Oil and gas companies are in the preproduction stage while initially exploring for oil and gas. During this stage, they capitalize all costs, including the costs of drilling dry holes. Any incidental revenues earned during this stage are subtracted from the costs capitalized on the balance sheet rather than shown as revenues on an income statement, the rationale being that such revenues reduce the costs of exploration. The net capitalized costs are assessed each time financial statements are issued, to see if it is likely that such net costs may be recovered in the future; if not, they are written off.
+64. Financial statements of prior periods are adjusted only for a change in an accounting policy or for a correction of an error in prior period financial statements. The Joint Venture's cessation of preproduction accounting and retroactive restatement of prior years' financial statements in 1996 suggests that it was never in a preproduction stage.
+65. The reliability of the financial statements is called into question for the following reasons. If the Joint Venture had really been an oil and gas exploration enterprise without any production, it would have continued to use preproduction accounting. If it had been producing anything, it would have recorded depletion expenses but it did not do so. When it wrote off its property interests in 2005, it would have called the cumulative result "accumulated depletion" but instead called it "accumulated depreciation." For accounting purposes, therefore, the Joint Venture never qualified as an oil and gas exploration enterprise or an oil and gas producer. Rather, according to the financial statements, the Joint Venture was an extremely unprofitable enterprise that earned revenues from selling the rights to use its Seismic Data—revenues that were vastly outweighed by depreciation and interest expenses—so that by 2005 the Joint Venturers' Deficiency (the cumulative net losses experienced since inception) totaled approximately $7.3 million.
+66. The enterprise's apparent lack of profitability stemmed largely from its inability to generate sufficient profits to meet an obligation—the Promissory Notes—that was carried on the financial statements at an amount that was unlikely to be paid. It is questionable whether the Notes satisfied the definition of a liability for accounting purposes and, if they did, whether they satisfied an accounting criterion for recognition in the financial statements at the full amount of principal and accrued interest. Therefore, the unprofitable operations of the enterprise were not reliably portrayed for accounting purposes.
+Mr. Ward G. Zimmer, CA
+[49] Mr. Zimmer testified as an expert rebuttal witness. His expert accounting witness rebuttal report was filed in court as Exhibit A-15 and the conclusions of the report are as follows:
+26. The Report does not dispute the existence and valuation of the asset acquired, the technical data base. In order to recognize the asset, the Joint Venture must recognize the instrument issued in exchange for the asset. The Report has used hindsight to conclude that the promissory note is not a liability because the Joint Venture failed to fully repay it. However, the Report has failed to establish what the promissory note is if it is not a liability. The promissory note does not meet the definition of an equity instrument as it is not an interest in the net assets of the Joint Venture. Therefore, it must be a liability and the use of hindsight to conclude otherwise is not appropriate.
+27. The Report does not consider the activities of the Joint Venture in assessing whether it is an oil and gas entity. Instead, the Report makes inferences and assumptions based on the results of those activities and the accounting thereof. An entity is not an oil and gas entity based on its accounting, it is an oil and gas entity based on its activities. The Joint Venture engaged in oil and gas exploration activities such as acquiring seismic data, using the data to identify prospective areas for drilling, acquiring an interest in oil and gas leases and drilling an exploratory well. Based on these activities, the Joint Venture was an oil and gas exploration entity.
+V. Statutory Provisions
+[50] The parties relied, inter alia, on the following provisions of the Act, as amended for the 1993 to 1995 taxation years and for the 1998 and 1999 taxation years: subsection 14(5) for the definition of "eligible capital expenditure", paragraphs 18(1)(a), 20(1)(b) and 20(1)(c), section 21, paragraph 66(12.1)(a), subsection 66.1(6) for the definition of "Canadian exploration expense" and section 67:
+14(5) "eligible capital expenditure" — "eligible capital expenditure" of a taxpayer in respect of a business means the portion of any outlay or expense made or incurred by the taxpayer, as a result of a transaction occurring after 1971, on account of capital for the purpose of gaining or producing income from the business, other than any such outlay or expense
+(a) in respect of which any amount is or would be, but for any provision of this Act limiting the quantum of any deduction, deductible (otherwise than under paragraph 20(1)(b)) in computing the taxpayer's income from the business, or in respect of which any amount is, by virtue of any provision of this Act other than paragraph 18(1)(b), not deductible in computing that income,
+(b) made or incurred for the purpose of gaining or producing income that is exempt income, or
+(c) that is the cost of, or any part of the cost of,
+(i) tangible property of the taxpayer,
+(ii) intangible property that is depreciable property of the taxpayer,
+(iii) property in respect of which any deduction (otherwise than under paragraph 20(1)(b)) is permitted in computing the taxpayer's income from the business or would be so permitted if the taxpayer's income from the business were sufficient for the purpose, or
+(iv) an interest in, or right to acquire, any property described in any of subparagraphs (i) to (iii)
+but, for greater certainty and without restricting the generality of the foregoing, does not include any portion of
+(d) any amount paid or payable to any creditor of the taxpayer as, on account or in lieu of payment of any debt or as or on account of the redemption, cancellation or purchase of any bond or debenture,
+(e) where the taxpayer is a corporation, any amount paid or payable to a person as a shareholder of the corporation, or
+(f) any amount that is the cost of, or any part of the cost of,
+(i) an interest in a trust,
+(ii) an interest in a partnership,
+(iii) a share, bond, debenture, mortgage, note, bill or other similar property, or
+(iv) an interest in, or right to acquire, any property described in any of subparagraphs (i) to (iii).
+18(1) General limitations — In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) General limitation — an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+20(1)(b) Cumulative eligible capital amount — such amount as the taxpayer may claim in respect of a business, not exceeding 7% of the taxpayer's cumulative eligible capital in respect of the business at the end of the year;
+20(1)(c) Interest — an amount paid in the year or payable in respect of the year (depending on the method regularly followed by the taxpayer in computing the taxpayer's income), pursuant to a legal obligation to pay interest on
+(i) borrowed money used for the purpose of earning income from a business or property (other than borrowed money used to acquire property the income from which would be exempt or to acquire a life insurance policy),
+(ii) an amount payable for property acquired for the purpose of gaining or producing income from the property or for the purpose of gaining or producing income from a business (other than property the income from which would be exempt or property that is an interest in a life insurance policy),
+. . .
+or a reasonable amount in respect thereof, whichever is the lesser;
+21(1) Cost of borrowed money — Where in a taxation year a taxpayer has acquired depreciable property, if the taxpayer elects under this subsection in the taxpayer's return of income under this Part for the year,
+(a) in computing the taxpayer's income for the year and for such of the 3 immediately preceding taxation years as the taxpayer had, paragraphs 20(1)(c), (d), (e) and (e.1) do not apply to the amount or to the part of the amount specified in the taxpayer's election that, but for an election under this subsection in respect thereof, would be deductible in computing the taxpayer's income (other than exempt income) for any such year in respect of borrowed money used to acquire the depreciable property or the amount payable for the depreciable property; and
+(b) the amount or the part of the amount, as the case may be, described in paragraph (a) shall be added to the capital cost to the taxpayer of the depreciable property so acquired by the taxpayer.
+21(2) Borrowed money used for exploration or development — Where in a taxation year a taxpayer has used borrowed money for the purpose of exploration, development or the acquisition of property and the expenses incurred by the taxpayer in respect thereof are Canadian exploration and development expenses, foreign exploration and development expenses, Canadian exploration expenses, Canadian development expenses or Canadian oil and gas property expenses, as the case may be, if the taxpayer elects under this subsection in the taxpayer's return of income under this Part for the year,
+(a) in computing the taxpayer's income for the year and for such of the 3 immediately preceding taxation years as the taxpayer had, paragraphs 20(1)(c), (d), (e) and (e.1) do not apply to the amount or to the part of the amount specified in the taxpayer's election that, but for an election under this subsection in respect thereof, would be deductible in computing the taxpayer's income (other than exempt income) for any such year in respect of the borrowed money used for the exploration, development or acquisition of property, as the case may be; and
+(b) the amount or the part of the amount, as the case may be, described in paragraph (a) shall be deemed to be Canadian exploration and development expenses, foreign exploration and development expenses, Canadian exploration expenses, Canadian development expenses, or Canadian oil and gas property expenses, as the case may be, incurred by the taxpayer in the year.
+. . .
+21(4) Borrowing for exploration, etc. — In computing the income of a taxpayer for a particular taxation year, where the taxpayer
+(a) in any preceding taxation year made an election under subsection (2) in respect of borrowed money used for the purpose of exploration, development or acquisition of property,
+(b) in each taxation year, if any, after that preceding taxation year and before the particular year, made an election under this subsection covering the total amount that, but for an election under this subsection in respect thereof, would have been deductible in computing the taxpayer's income (other than exempt income) for each such year in respect of the borrowed money used for the exploration, development or acquisition of property, as the case may be,
+if an election under this subsection is made in the taxpayer's return of income
+under this Part for the particular year, paragraphs 20(1)(c), (d), (e) and (e.1) do
+not apply to the amount or to the part of the amount specified in the election that,
+but for an election under this subsection in respect thereof, would be deductible in
+computing the taxpayer's income (other than exempt income) for the particular
+year in respect of the borrowed money used for the exploration, development or
+acquisition of property, and the amount or part of the amount, as the case may be,
+shall be deemed to be Canadian exploration and development expenses, foreign
+exploration and development expenses, Canadian exploration expenses, Canadian
+development expenses or Canadian oil and gas property expenses, as the case may
+be, incurred by the taxpayer in the particular year.
+21(5) Reassessments — Notwithstanding any other provision of this Act, where a taxpayer has made an election in accordance with the provisions of subsection (1) or (2), such reassessments of tax, interest or penalties shall be made as are necessary to give effect thereto.
+66(12.1) Limitations of Canadian exploration and development expenses — Except as expressly otherwise provided in this Act,
+(a) if as a result of a transaction occurring after May 6, 1974 an amount has become receivable by a taxpayer at a particular time in a taxation year and the consideration given by the taxpayer therefor was property (other than a share or a Canadian resource property, or an interest therein or a right thereto or services, the original cost of which to the taxpayer may reasonably be regarded as having been primarily Canadian exploration and development expenses of the taxpayer (or would have been so regarded if they had been incurred by the taxpayer after 1971 and before May 7, 1974) or a Canadian exploration expense, there shall at that time be included in the amount determined for G in the definition “cumulative Canadian exploration expense” in subsection 66.1(6) in respect of the taxpayer the amount that became receivable by the taxpayer at that time; and
+. . .
+66.1(6) "Canadian exploration expense" — "Canadian exploration expense" of a taxpayer means any expense incurred after May 6, 1974 that is
+(a) any expense including a geological, geophysical or geochemical expense incurred by the taxpayer (other than an expense incurred in drilling or completing an oil or gas well or in building a temporary access road to, or preparing a site in respect of, any such well) for the purpose of determining the existence, location, extent or quality of an accumulation of petroleum or natural gas (other than a mineral resource) in Canada,
+. . .
+67. General limitation re expenses
+In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+VI. Analysis
+A. Statutory Purpose Test
+[51] The first question to determine is whether the appellant purchased an undivided interest in the Technical Data for the purpose of exploration, as required by paragraph (a) of the definition of “Canadian exploration expense” in subsection 66.1(6) of the Act.
+[52] At the opening of the hearing, the respondent conceded that the expense incurred by the appellant to purchase his share of the Technical Data qualifies as a CEE, as defined in subsection 66.1(6) of the Act (paragraph (a) of the definition), by virtue of being for the purpose of determining the existence, location, extent or quality of an accumulation of petroleum or natural gas in Canada. Despite that concession, it appears to me that it would be worthwhile to make the following comments.
+[53] In Global Communications Ltd. v. R., 1999 CarswellNat 1027, 99 DTC 5377, and in Petro-Canada v. The Queen., 2004 FCA 158, 2004 DTC 6329, the Federal Court of Appeal looked at what was actually done on the ground or with the seismic data in order to make the determination. At paragraph 35 of the Petro‑Canada decision, the Court made the following comment concerning the application of the purpose test:
+. . . As I read those cases, the purpose test in the definition of "Canadian exploration expense" requires at least some connection between the purchased seismic data and actual exploration work. Evidence of the actual use of the seismic data for exploration could provide that connection. However, in the absence of such evidence, there must be at least a credible plan for the use of the seismic data in an exploration program within a reasonable time after its acquisition. A hypothetical connection to exploration work that might be done in the future cannot suffice.
+[54] In this case, the evidence clearly shows that the Seismic Data were actually used for exploration. The drilling of one well , in 1996, was based on the Seismic Data. Mr. Ringdahl reprocessed 4 or 5 lines of the Seismic Data and worked with Mr. Denike in mapping the lines and updating them with information from various sources. The Technical Data were used in evaluating land sales by the Manitoba government and preparing bids, and in considering opportunities and offers for "farm-in" agreements with third parties.
+[55] In 1994, additional reprocessing work was performed by Veritas for Compton Petroleum Corporation on three lines of the Seismic Data, and in his testimony Mr. Ringdahl referred to the fact that, in October 1994, Seitel and Compton Petroleum Corporation had agreed to reprocess 15 lines of data and to share the cost of that exercise on a fifty-fifty basis.
+[56] Furthermore, the CRA, by reassessing the appellant and allowing him the CEE deduction up to the amount that he had invested in cash recognized that the Seismic Data were acquired for and used in, exploration activities.
+B. The "Cost Amount" of the Technical Data Purchased by the Appellant That Constitutes "Canadian Exploration Expenses"
+[57] At the opening of the hearing, the respondent conceded that the appellant's promissory note was not a contingent liability.
+[58] In light of that concession, the only conclusion that can be drawn is that the amount of the promissory note must be equated with an incurred expense.
+[59] The respondent's position is that the price paid by the appellant for his interest in the Joint Venture was inflated by the use of limited resource financing and that the true consideration was $20,000 plus 50% of the net licensing revenues for nine years. Any expense incurred by the appellant in excess of $20,000 in connection with his participation in the Joint Venture was unreasonable in the circumstances.
+[60] The Minister reassessed the appellant by applying section 67 of the Act to deny the deduction of the expenses incurred by the appellant in excess of $20,000. The reassessment was not based on section 69 of the Act as the Minister assumed that the appellant was dealing at arm's length with the vendor of the Seismic Data. Consequently, the fair market value of the Seismic Data is not an issue here.
+[61] In Petro-Canada, supra, Sharlow J.A. referred to the test developed by Cattanach J. in Gabco for determining whether an expense is reasonable:
+62 The leading case on the statutory predecessor to section 67 is Gabco Limited v. Minister of National Revenue, [1968] 2 Ex.C.R. 511, [1968] C.T.C. 313, 68 D.T.C. 5210 (Ex. Ct.). In that case, Cattanach J. stated the following test for the application of this provision:
+It is not a question of the Minister or this Court substituting its judgment for what is a reasonable amount to pay, but rather a case of the Minister or the Court coming to the conclusion that no reasonable business man would have contracted to pay such an amount having only the business consideration of the appellant in mind.
+[62] In the Petro-Canada decision, madam Justice Sharlow's conclusion concerning the application of section 67 was as follows:
+64 Reasonableness, like value, is a question of fact. In this case, it is a fact upon which the Judge made no finding. While it may be true, as suggested in Mohammad, that paying fair market value for something is prima facie reasonable, I am unable to agree with the Crown that it necessarily follows that paying more than fair market value is unreasonable. There may be circumstances in which a decision to pay more than fair market value for something is a reasonable decision. Considering the test stated in Gabco, I am not persuaded that this is an appropriate case for the application of section 67.
+[63] In McLarty v. The Queen, 2005 TCC 55, 2005 DTC 217, this Court found that the appellant's payment of $100,000 for his interest in the Seismic Data was reasonable within the meaning of section 67 of the Act:
+73 Given the highly speculative nature of the oil and gas exploration industry, the fact that seismic data is very difficult to value as well as the experience of Mr. Sapieha in the oil and gas exploration industry, this is not an appropriate case to question the participants' business judgment. This is not a situation where paying more than the fair market value would be unreasonable. However, I find that a reasonable businessman in the Appellant's position would have paid at least $100,000.00 in return for the undivided interest in the Venture Data and the unlimited access that the Appellant obtained.
+74 Since this was an arm's length transaction, and the expense was reasonable this is not an issue of fair market value. . . .
+[64] Considering the respondent's admission that the transaction whereby the appellant acquired an undivided interest in the Technical Data was an arm's length transaction, the onus is on the respondent to establish that the fair market value of the Technical Data was not higher than that assumed by the Minister. This demonstration has not been made by the respondent. Mr. Morin, the owner of Carlyle, was subpoenaed but not called as a witness by the respondent. Consequently, there is no evidence before this Court which explains why there was an increase in the value of the Technical Data after their acquisition from Chevron and why Carlyle appointed Seitel as its nominee for the purpose of completing that transaction.
+[65] The fact that the revenues from the licensing of the Seismic Data amounted to $1.8 million over a three-year period supports a value for the Technical Data at the time of their acquisition by the Joint Venture in excess of $975,000. Trinity paid $875,000 for only a copy of the Technical Data and 14 month’s exclusivity.
+C. The Deductibility of Interest
+[66] The interest paid or payable on the Promissory Notes was a real obligation of the joint venturers. The Promissory Notes were recognized in the financial statements of the Joint Venture as a liability at the full amount of principal and accrued interest. The Crown admitted that the Promissory Notes were not a contingent liability.
+[67] Mr. Thornton, the Crown’s expert, questioned the accounting treatment of the Promissory Notes and was of the opinion that they were carried on the financial statements at an amount that was unlikely to be paid on account of the lack of profitability of the enterprise of the Joint Venture during the period from 1993 to 2006. Mr. Zimmer, the appellant’s expert rebuttal witness, disagreed with Mr. Thornton’s opinion and concluded that the Promissory Notes were a liability for accounting purposes and that the use of hindsight was not appropriate in the circumstances. I am in agreement with Mr. Zimmer’s opinion on this point.
+[68] Given the fact that interest was paid on the Promissory Notes by the joint venturers in each of the 1994 and 1995 taxation years, that approximately $104,000 was repaid on the principal amount of the Promissory Notes during those years and that the statutory purpose test of paragraph (a) of the definition of “Canadian exploration expense” in subsection 66.1(6) of the Act was met, the appellant was entitled to capitalize the interest expenses associated with the purchase of his undivided interest in the Technical Data for the 1994 and 1995 taxation years such that the interest he paid constituted CEE.
+[69] The appellant was also entitled to deduct in computing his income from the Joint Venture for the 1998 and 1999 taxation years the amount of interest payable on the appellant’s Promissory Note because that interest expense was incurred pursuant to a legal obligation to pay interest on an amount payable for property, the Technical Data, acquired for the purpose of gaining or producing income from that property or for the purpose of gaining or producing income from a business.
+[70] In 1998, an amount of $242,600 was added to the principal amount of the Promissory Notes and, in 1999, an amount of $262,500 was added to the principal amount of the Promissory Notes. During those two years, the Seismic Data generated revenues of only $53,800, but the total revenues generated by the Seismic Data in the years 1997 to 2006 were close to $1,000,000.
+[71] This shows that the Joint Venture, despite the fact that it had ceased its exploration activities in 1996, continued to earn licensing revenues from the Seismic Data until 2006. This justifies the deduction of the interest payable on the appellant’s Promissory Note in the 1998 and 1999 taxation years.
+D. The Sham Argument
+[72] In Stubart Investments Ltd. v. The Queen, [1984] 1 SCR 536, the Supreme Court of Canada made the following comment concerning what constitutes a “sham transaction” (at pages 545 and 546):
+. . . A sham transaction: This expression comes to us from decisions in the United Kingdom, and it has been generally taken to mean (but not without ambiguity) a transaction conducted with an element of deceit so as to create an illusion calculated to lead the tax collector away from the taxpayer or the true nature of the transaction; or, simple deception whereby the taxpayer creates a facade of reality quite different from the disguised reality. . . .
+[73] The classic definition of “sham” in Snook v. London and West Riding Investments, Ltd., [1967] 1 All ER 518, has been repeatedly endorsed by Canadian courts. The required elements for a sham are (1) an intention of the parties to the transactions (2) to give a false appearance (3) that legal rights and obligations have been created that are different from the actual legal rights and obligations of the parties.
+[74] Contrarily to the Crown, I do not see the existence of the required elements for a sham in the transactions carried on by the appellant or by the Joint Venture.
+[75] The appellant was not a party to a great number of specific transactions alleged to be steps in a sham and entered into by parties dealing with each other at arm’s length. In the series of transactions described in paragraph 16 above, the appellant was involved in only the Joint Venture agreement between 507326 and the joint venturers and in the acquisition of an interest in the Joint Venture.
+[76] There is no evidence in the record showing that the appellant and the parties to the series of transactions had the intention of giving a false appearance to the transactions. The legal rights and obligations that were created were not different from the actual legal rights and obligations of the parties to the transactions.
+[77] The Minister assessed the appellant on the basis that the appellant did in fact acquire an undivided interest in the Seismic Data. The revenues derived from the licensing of the Seismic Data ($2,800,000 in total from 1994 to 2006) were included in the income of the joint venturers. Interest was paid on the Promissory Notes in the 1994 and 1995 taxation years, and approximately $104,000 was repaid on the principal amount of the Promissory Notes during those same years. The Promissory Notes were real legal obligations and not a contingent liability, as admitted by the Crown. The debt forgiveness rules were applied by the Minister in respect of the $7,080,471 of debt that was forgiven with respect to the Promissory Notes in the 2006 taxation year.
+[78] In my opinion, the Crown cannot apply the doctrine of sham to only a part of a particular transaction while considering another part of the same transaction as being legally valid and effective. For example, I have difficulty with the Crown being permitted to apply the doctrine of sham to only that part of the acquisition by the appellant of an undivided interest in the Seismic Data that was paid for by the appellant’s Promissory Note.
+[79] The statutory purpose test of paragraph (a) of the definition of “Canadian exploration expense” in subsection 66.1(6) of the Act was met in this instance, which means that the expenses in issue were incurred for the purpose of exploration. The acquisition of the Seismic Data, the work performed by Mr. Ringdahl in reprocessing the data, in mapping the lines with geologists and in updating them with available information, in evaluating land sales by the Manitoba government and in preparing bids for the purpose of such sales, and the drilling of the Daly Well were all standard exploration activities conducted on behalf of the Joint Venture.
+[80] The fact that while there were 22 signatories to the Joint Venture Agreement, 30 persons claimed tax deductions because there were other individuals behind the original investors, despite the fact that no nominees were allowed, is not an indication of a sham. It is rather an indication that some persons were not legally members of the Joint Venture and were not entitled to the deductions. The Minister should have simply denied those persons the tax deductions after making sure that the offering of participations in the Joint Venture was made in accordance with Alberta securities legislation.
+[81] The Crown alleged that the valuations obtained by Mr. Sapieha were not true valuations because they were prepared after the acquisition of the Seismic Data. The determination of the fair market value of the Seismic Data is a matter of expertise and the evidence is that Mr. Sapieha received oral valuations on December 31, 1993 and that these were confirmed in January 1994 when he received the formal valuations.
+[82] The Crown alleged that Mr. Ringdahl, as an investor in the Joint Venture, assumed that the only risk inherent in his investment was the loss of his tax deductions. He never expected to have to repay the principal of his promissory note or to pay the interest thereon. I do not consider that as being an element of a sham considering the fact that the Promissory Notes were structured as non-recourse financing.
+[83] The role played by Compton Petroleum Corporation was considered by the Crown to be an element of a sham because Compton Petroleum Corporation had royalty-free access to the Seismic Data and carried on exploration activities without disclosing the 50% interest of the Joint Venture in those activities.
+[84] The evidence revealed that Mr. Sapieha was the directing mind of all the Compton entities, including Compton Resource Corporation, Compton Petroleum Corporation, 507326 and the Joint Venture. All these entities operated out of the same offices. The evidence also revealed that there was no written agreement between Compton Petroleum Corporation and 507326 acting on behalf of the Joint Venture entitling Compton Petroleum Corporation to carry on exploration activities on behalf of the Joint Venture. The financial terms of the arrangement were not known except for the sharing of the exploration expenses on a fifty-fifty basis.
+[85] Concerning access to the Seismic Data, the evidence revealed that Compton Petroleum Corporation was added to the list of principals referred to in the Data Management and Sale Agreement entered into between Carlyle and Seitel so as to allow Compton Petroleum Corporation to use the Seismic Data in conjunction with the Joint Venture. The evidence is that Compton Petroleum Corporation benefited from a royalty-free right to use the Seismic Data.
+[86] All exploration activities of the Joint Venture were carried on by Compton Petroleum Corporation on its behalf despite the absence of any written agreement defining the terms and conditions of the arrangement. The costs of all such exploration activities were shared on a fifty-fifty basis, except for the cost of acquisition of the Seismic Data and the consulting fees of Mr. Ringdahl and Mr. Denike, which were all assumed by the Joint Venture alone. According to the testimony of Mr. Sapieha and Mr. Ringdahl, it is standard practice in the industry to use only the name of the operator on a well licence and on the land leases for exploration.
+[87] The evidence revealed that no exploration budget was submitted to the participants in the Joint Venture. It must be recognized that it would have been difficult or impossible to prepare an exploration budget before the Joint Venture had had the opportunity to look at the Seismic Data and to evaluate the potential for exploration. The intent was to use the revenues from the licensing of the Seismic Data to fund the exploration activities of the Joint Venture. The funds available for exploration for the 1994, 1995 and 1996 taxation years were $394,000, $390,000 and $210,000 respectively. An authorization for expenditures in the amount of $154,150 was signed by Compton Petroleum Corporation on February 15, 1996 for the drilling of the Daly Well (Exhibit R-6). The participants in this exploration program were Compton Petroleum Corporation and 507326, each holding a 50% working interest. It may be worthwhile mentioning here that the Joint Venture also had a 50% interest in approximately 80 mineral leases acquired during the period from 1994 to 2000 and that those mineral leases were transferred to Compton Petroleum Corporation in 2001 to reimburse Compton Petroleum Corporation for $324,000 in expenses incurred by it for the benefit of the Joint Venture.
+[88] Considering the evidence before me, I cannot accept the Crown’s position that the creation of the Joint Venture and the transactions carried on by it and by Compton Petroleum Corporation on its behalf were mere window dressing intended to deceive the Minister. The legal rights and obligations created by the said transactions were not different from the actual legal rights and obligations of the parties. The way in which the financial statements of the Joint Venture were presented is not relevant in the circumstances because the issue does not involve determining whether or not the Joint Venture was an oil and gas entity for accounting purposes or whether or not the licensing revenues derived from the Seismic Data were incidental to the exploration activities of the Joint Venture or were related to a separate business. The financial statements of the Joint Venture were audited financial statements with no qualified opinion. As such, they were accurate and reliable.
+[89] For the foregoing reasons, the appeals concerning the appellant’s 1993, 1994, 1995, 1998 and 1999 taxation years are allowed with costs and the reassessments dated May 1, 1997 and October 29, 2001 are vacated.
+Signed at Ottawa, Canada, this 18th day of June 2014.
+"Réal Favreau"
+Favreau J.
+CITATION: 2014 TCC 30
+COURT FILE NO.: 98-1659(IT)G
+STYLE OF CAUSE: Allan McLarty v. Her Majesty the Queen
+PLACE OF HEARING: Calgary, Alberta
+DATES OF HEARING: May 28, 29, 30 and 31 and June 1, 4, 5, 6 and 7, 2012 and January 14 and 15, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: June 18, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Jehad Haymour
+Sophie Virji
+Dan Mitsuka
+Counsel for the Respondent:
+Josée Tremblay
+Shane Aikat
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jehad Haymour
+Sophie Virji
+Dan Mistuka
+Firm:
+Dentors Canada LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

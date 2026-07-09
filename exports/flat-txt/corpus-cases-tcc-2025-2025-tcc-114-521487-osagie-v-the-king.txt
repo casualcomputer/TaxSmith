@@ -1,0 +1,186 @@
+Title: Osagie v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521487/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-114-521487-osagie-v-the-king.md
+Document type: case_law
+Last modified: 2025-08-14
+
+# Osagie v. The King
+
+- Citation: 2025 TCC 114
+- Decision date: 2025-08-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5451, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Osagie v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-08-14
+Neutral citation
+2025 TCC 114
+File numbers
+2024-390(GST)I
+Judges and Taxing Officers
+Scott Bodie
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2024-390(GST)I
+BETWEEN:
+CECILIA OSAGIE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on June 5, 2025, at Oakville, Ontario
+Before: The Honourable Justice J. Scott Bodie
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Sophia Trinacty
+JUDGMENT
+The appeal is allowed, without costs, and the Assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to the GST/HST Rebate.
+Signed this 14th day of August 2025.
+“J. Scott Bodie”
+Bodie J.
+Citation: 2025 TCC 114
+Date: 20250814
+Docket: 2024-390(GST)I
+BETWEEN:
+CECILIA OSAGIE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Bodie J.
+I. INTRODUCTION [1] Ms. Osagie appeals, by way of the informal procedure, an assessment (the “Assessment”) by the Minister of National Revenue (the “Minister”) denying her the GST/HST New Housing Rebate (the “Rebate”) available under Part IX of the Excise Tax Act (the “ETA”). The amount of the Rebate adjustment at issue is $26,196.16. The appeal arises from Ms. Osagie’s purchase of a single unit residential complex located at 99 Oaktree Drive, Caledonia, Ontario (the “Rebate Property”). Unless stated otherwise, all statutory references herein are to the ETA.
+[2] It is the Minister’s position that Ms. Osagie is not entitled to the Rebate because she does not meet each of the requirements under subsection 254(2). In particular:
+at the time that she became liable under the Agreement of Purchase and Sale in respect of the Rebate Property (the “Agreement of Purchase and Sale”), neither Ms. Osagie nor a relation intended to use the Rebate Property as a primary place of residence, as required by paragraph 254(2)(b); and
+neither Ms. Osagie nor a relation was the first individual to occupy the Rebate Property as a place of residence after substantial completion of the construction, as required by paragraph 254(2)(g).
+[3] On the other hand, it is Ms. Osagie’s position that she entered into the Agreement of Purchase and Sale with the intention of using the Rebate Property as the primary place of residence for her and her family, but that that intention was frustrated by circumstances arising from the onset of the COVID‑19 pandemic and the resulting lockdown requirements, which prevented her from moving into the Rebate Property when construction was completed in the Fall of 2020. She accordingly leased the property to an unrelated third party for several months prior to her and her family eventually moving into the Rebate Property in the Summer of 2021.
+II. ISSUES [4] Accordingly, the issues in this appeal are:
+Does Ms. Osagie meet the conditions set out in paragraphs 254(2)(b) and (g), such that she is entitled to the Rebate provided for in subsection 254(2)?
+If she does not meet either such condition, did a frustrating event occur, such that she is not required to satisfy such condition?
+III. FACTS [5] Ms. Osagie and her husband, Joshua Osagie, appeared as witnesses at the hearing of this appeal. The Respondent did not call any witnesses. Ms. Osagie is a registered nurse, while her husband also works in healthcare as a personal support professional. They have three children, all of whom were under the age of 15 in 2020, which is the year relevant to this appeal. I found both Ms. and Mr. Osagie to be reliable and credible witnesses.
+[6] Ms. Osagie testified that she and Mr. Osagie purchased the Rebate Property as a pre‑build and signed the Agreement of Purchase and Sale on March 9, 2019. All rights and interest in the Agreement of Purchase and Sale were later assigned solely to Ms. Osagie. Before taxes, the purchase price was $417,990. At the time that they signed the Agreement of Purchase and Sale, Ms. and Mr. Osagie lived in Windsor, Ontario which is approximately a three‑hour drive from the location of the Rebate Property. Ms. Osagie testified that she and her family moved to Windsor from Brampton in 2018 due to her desire to return to Windsor, where she had lived previously. However, after moving to Windsor, Mr. Osagie decided that he preferred living in the Greater Toronto Area (“GTA”), in part because he believed that he had better employment opportunities there than he had in Windsor. Accordingly, they decided in 2019 to move to back to the GTA, specifically to Caledonia, and therefore entered into the Agreement of Purchase and Sale to purchase the Rebate Property.
+[7] As a result of the onset of the COVID‑19 pandemic in the early months of 2020, construction of the Rebate Property was delayed, such that possession of the Rebate Property could not be transferred to Ms. Osagie until October 7, 2020. At that time, according to Ms. Osagie it was impossible for the family to move to the Rebate Property because of lockdown restrictions imposed by the various levels of Government in response to the pandemic, and the general disruption which the pandemic had inflicted upon their lives.
+[8] Accordingly, Ms. Osagie decided to lease the Rebate Property to an unrelated third party for a term of one year, commencing on November 1, 2020. The tenant and her family moved into the Rebate Property that month and accordingly was the first to occupy the Rebate Property as place of residence.
+[9] On April 12, 2021, Ms. Osagie served a notice, known in Ontario as an N12, to the tenant informing the tenant that she would be terminating the lease effective October 31, 2021, so that she and her family could move into the Rebate Property. Upon receipt of the notice, the tenant exercised certain rights under the Residential Tenancies Act (Ontario) and vacated the Rebate Property on or about April 29, 2021. Ms. Osagie and her family then completed the move from Windsor to Caledonia. They moved into the Rebate Property on or about August 31, 2021. After they were living at the Rebate Property, the Osagies decided that it was too small for their family and therefore decided to move into a new house close by in May 2022. Since that time, the Rebate Property has been leased to third party tenants.
+[10] Ms. Osagie applied for the Rebate on November 6, 2020. The Minister denied the Rebate application pursuant to a Notice of Assessment dated July 6, 2022. The Assessment was confirmed by the Minister on December 6, 2023.
+IV. ANALYSIS Issue 1 — Does Ms. Osagie meet the Conditions set out in Paragraphs 254(2)(b) and (g)?
+(a) Statutory Framework
+[11] When an individual buys a new home, there are two potential partial GST/HST rebates available, depending upon the province in which the new home is purchased. Subsection 254(2) provides for the federal portion and sets out seven conditions, each of which must be satisfied in order to qualify. The maximum federal rebate is available for new homes priced under $350,000. Such portion is phased out for more expensive homes and disappears entirely where the price exceeds $450,000. By virtue of subsection 256.21(1) the Minister shall pay an additional rebate amount where a new home is purchased in a province that has signed a sales tax harmonization agreement with the Federal Government, such as is the case with Ontario.
+[12] Subsection 41(2) of the New Harmonized Value‑Added Tax System Regulations, No. 2 governs the Ontario portion of the Rebate. It allows for a rebate even in cases where the new home exceeds $450,000, to a maximum rebate amount of $24,000. To qualify for this additional Ontario portion of the Rebate, an individual must meet the remaining conditions set out in subsection 254(2).
+[13] In this appeal, only the conditions set out in paragraphs 254(2)(b) and (g) are at issue. These paragraphs provide as follows:
+254(2) Where
+…
+(b) at the time the particular individual becomes liable or assumes liability under an agreement of purchase and sale of the complex or unit entered into between a builder and the particular individual, the particular individual is acquiring the complex or unit for use as a primary place of residence of the particular individual or a relation of the particular individual,
+…
+(g) either
+(i) the first individual to occupy the complex or unit as a place of residence at any time after substantial completion of the construction or renovation is
+(A) in the case of a single unit residential complex, the particular individual or a relation of the particular individual
+…
+The Minister shall, subject to subsection (3) pay a rebate to the particular individual…
+(b) Caselaw with respect to paragraphs 245(2)(b) and (g)
+[14] To prove that the condition set out in paragraph 254(2)(b) has been met, a taxpayer carries the burden to satisfy the Court that at the time she becomes liable under an Agreement of Purchase and Sale, she has the intention to acquire the complex as a primary place of residence.
+[15] As outlined in Fard v The Queen, 2022 TCC 42 at paragraph 23, an appellant’s stated intention must be considered by the Court, but the best way to determine intention is to objectively look at the surrounding factual circumstances.
+[16] Justice Smith assesses this issue in the recent case of Osman v The King 2025 TCC 65 wherein he states at paragraph 29:
+When the issue of intention arises, the Supreme Court of Canada explains that it is necessary to go beyond the taxpayer’s stated intention. As stated in Symes v Canada, [1993] 4 SCR 695, “(…) where purpose or intention behind actions is to be ascertained, it must not be supposed that in responding to this question, courts will be guided only by the taxpayer’s statement, ex post facto or otherwise (…). Courts will instead look for objective manifestations of purpose, and purpose is ultimately a question of fact to be decided with due regard for all the circumstances.” (page 736).
+[17] In Sozio v The Queen, 2018, TCC 258 at paragraph 15, Justice Bocock explains the role of the Court in examining a taxpayer’s intention for purposes of determining whether the condition in paragraph 254(2)(b) is met as follows:
+Each case is an exercise in analyzing the taxpayer’s subjective intention using the unique facts of each appeal across a variety of indicia. The facts will provide direction and inform the application and weight to be given to the indicia. In short, is what the taxpayer says or intended supported across the waypoints of occupancy.
+(c) Does Ms. Osagie satisfy the Requirement in paragraph 245(2)(b)?
+[18] In this case, the facts clearly indicate that Ms. Osagie was not the first person to occupy the Rebate Property following construction. However, while ultimate occupation may be a factor in determining intention, that is not the paramount question before the Court with respect to the condition in paragraph 254(2)(b). Rather, the question before the Court is whether, at the time she entered into the Agreement of Purchase and Sale she intended to occupy the Property as her primary place of residence.
+[19] It goes without saying that intentions change over time as events unfold and impact lives. It is reasonable that a person could have an intention to move into a property in 2019 only to have that intention change 18 months later due to a host of life changes and circumstances. I note that paragraph 254(2)(b) does not require that a taxpayer have an intention to be the first person to occupy the new home in question. It merely requires that at a particular moment in time, being the time that the individual assumes liability under the applicable agreement of purchase and sale, an individual have an intention to occupy the property in question as the primary place of residence. As discussed in Fard and Sozio, referred to above, to answer the question before the Court, it is necessary to consider the statements of the taxpayer in light of the applicable surrounding indicia, as determined by the facts of each particular case.
+[20] Ms. Osagie testified that when she and her husband entered into the Agreement of Purchase and Sale, she intended to move to Caledonia from Windsor so that she and her family could pursue better employment opportunities closer to Toronto. Mr. Osagie’s testimony was consistent. He testified that he wanted to move to Caledonia because he believed he could go back to the same agency where he was employed when they previously lived in Brampton, to get work placements throughout the GTA.
+[21] Ms. Osagie testified that she was buying the Rebate Property for use as the primary place of residence for her and her family. However, for a variety of family and other reasons she was not able to move into the Rebate Property on the eventual possession date for the Rebate Property, which was delayed by the builder because of the pandemic. By the time the Rebate Property was available to her for possession on October 7,2020, her children had already started the school year in Windsor.
+[22] Further, as healthcare workers who were continually exposed to the COVID‑19 virus, she and her husband had to deal with various bouts of the COVID‑19 illness between the five members of their family. She testified that the family dealt with 3‑5 bouts of the virus in 2020.
+[23] Moreover, similar to many other Canadians in this time period, she experienced general uncertainty and anxiety resulting from the rapid changes brought on by the pandemic to the everyday course of the lives of her and her family.
+[24] Further she said that the various regulatory limitations made necessary by the pandemic made a move to a new city at that time impossible. She testified that, in her view, Ontario had instituted lockdown requirements in this period which banned residents from moving from one city in Ontario to another.
+[25] She therefore leased the Rebate Property to an unrelated third party. Ms. Osagie testified that it was her understanding that the tenant was able to move into the Rebate Property because she already lived in Caledonia.
+[26] However, in April of the following year, Ms. Osagie served an N12 notice on her tenant that she wished to terminate the lease so that she and her family could move into Rebate Property, returning to the GTA, where they had lived previously.
+[27] Accordingly, consistent with her stated intention, she and her family actually moved into the Rebate Property prior to the beginning of the next school year, in August of 2021. The Respondent did not challenge the fact that from August of 2021 to May of 2022, Ms. Osagie and her family actually occupied the Property as their primary place of residence.
+[28] In my view, on a balance of probabilities, these factual circumstances indicate objective support for Ms. Osagie’s statement that when she entered into the Agreement of Purchase and Sale, she intended to use the Rebate Property as the primary place of residence of her and her family. Accordingly, she meets the condition in paragraph 254(2)(b).
+(d) Does Ms. Osagie satisfy the Requirement in paragraph 254(2)(g)?
+[29] Ms. Osagie clearly does not meet the condition set out in paragraph 254(2)(g). Neither Ms. Osagie nor a relation to her was the first to occupy the Rebate Property as a place of residence following completion of construction. The first to occupy the Rebate Property as a place of residence following the completion of construction was an unrelated third-party tenant.
+Issue 2 – Was the Occupancy Requirement Frustrated?
+(a) Ms. Osagie’s Position
+[30] It is Ms. Osagie’s position that she was frustrated from meeting the occupancy requirement set out in paragraph 254(2)(g) because of the societal and family chaos created by the COVID‑19 pandemic and certain regulatory restrictions put in place by various levels of Government in response.
+[31] Ms. Osagie testified that it was her understanding at the time that in response to the pandemic the Province of Ontario had strict lockdown restrictions in place throughout the Summer and into the Fall of 2020 which prevented her and her family from moving from Windsor to Caledonia at the time possession of the Rebate Property became available in October. In addition, between herself and her husband and children, her family had to deal with three to five bouts of the COVID‑19 illness in the household during this time, as well as the various isolation periods that were recommended and/or mandated for each family member for each bout. Further, when the Rebate Property became available in October 2020 each of her three young children were already enrolled for the school year in Windsor.
+[32] Mr. Osagie testified that he also understood at the time that the family was prevented from moving from Windsor to Caledonia because of provincial lockdown requirements. He testified that as a result of such requirements, all documentation necessary to close the purchase of the Rebate Property was signed with the family’s legal counsel by way of docusign. He and his wife were unable to travel to Caledonia to inspect the Rebate Property at the time of closing. He further testified that it was his mortgage broker who lived in the GTA, who actually picked up the keys to the Rebate Property following closing, referred the eventual third party tenant to the Osagies and ultimately provided the keys to such tenant. He and his wife remained in Windsor throughout this period.
+[33] He explained that since the family could not move to Caledonia in the Fall of 2020, he faced the prospect of having to carry a mortgage on both the family’s house in Windsor which they needed for accommodation before they could move to Caledonia, and the Rebate Property once they closed on that property.
+[34] In addition, during this period he and his wife who were both employed in healthcare, were getting less work. A consequence of their jobs was that they had greater exposure to the COVID‑19 virus. As they each became sick, isolation requirements affected them both, resulting in less shifts for each of them. Accordingly, he described his family in this period as a “struggling family”. Therefore, when his mortgage broker in the GTA referred a tenant to them he and his wife quickly moved to enter into a lease with the tenant. Mr. Osagie testified that before he entered into the lease he emphasized to the tenant that it would be a short‑term arrangement as he and his wife still intended to move to Caledonia and into the Rebate Property at the earliest opportunity.
+[35] In line with this stated intention, an N12 notice was served on the tenant in April of 2021 and the tenant moved out of the Rebate Property at the end of that month. Mr. Osagie testified that the family then started to move into the Rebate Property in June of that year and completed such move in August, prior to the start of the new school year. It was at that time that they were able to list and ultimately sell their Windsor home. Mr. Osagie testified that from the date of the closing for the Rebate Property on October 7, 2020 until they were able to sell their home in Windsor, the family needed to carry mortgages on the two homes.
+[36] Both Ms. Osagie and Mr. Osagie testified that it was only after they moved into the Rebate Property that they realized that it was too small for their family of five and so they decided to purchase and move to a new, bigger home, also in Caledonia in May 2022.
+(b) The Law with respect to Frustration in the context of GST/HST
+[37] The concept of frustration has been raised in several GST/HST cases which considered whether conditions required for a rebate had been met. The concept has generally been raised in the context of either the new housing rebate for a purchased home under subsection 254(2) as in the present appeal, or the rebate for owner‑built homes available subsection 256(2). The two provisions share similar sets of requirements necessary to qualify for the applicable rebate.
+[38] One of the first in this line of cases is Gagné c. The Queen 2007 TCC 175. The sole issue in this case is whether the taxpayer built a home for use as a primary residence as required by paragraph 256(2)(a). In considering this issue, the Court cited GST/HST Policy Statement P‑228 issued on March 30, 1990, which set out the guidelines for determining a person’s primary residence for the purposes of GST/QST rebates for new housing. At paragraph 17, the Court noted as follows:
+GST/HST Policy Statement P‑228, issued on March 30, 1999, sets out the guidelines for determining a person's primary residence for the purposes of GST/QST rebates for new housing. Under the heading "Intention", the statement specifies as follows:
+For GST/HST new housing rebate purposes, the Act requires that the individual acquired, constructed or substantially renovated the residential complex or co‑op share for use of the complex or unit as the primary place of residence of the individual or qualifying relative. This requirement may be considered to be an "intention" test.
+Intentions can only be judged by outward indicators, i.e. the presence or absence of physical actions and/or evidence.... Where the individual or a qualifying relative does not actually use the residential complex or residential unit as a primary place of residence, absent an intervening frustrating event, it can generally be concluded that the individual did not acquire, construct or substantially renovate the complex or unit for that use....
+[39] The Court went on to note that the taxpayer’s intention at the time the house was built was established by her testimony alone. She testified that the hypothec was granted to the taxpayer for her principal residence, that she was eligible for retirement at the time, and that her spouse's illness prevented her from moving and using the building as an habitual residence. The Court noted that there was no reason to question her credibility. The Court concluded that the taxpayer was unable to live permanently and habitually in the home because of an unforeseeable event that occurred after construction and was beyond her control. This did not have the effect of changing the purpose for which the home was constructed.
+[40] In Kandiah v The Queen 2014 TCC 276 the Court considered a taxpayer’s eligibility for a rebate under subsection 254(2). The Court considered whether the reasons stated for a taxpayer failing to use a new home as a primary place of residence could be considered a frustrating event for purposes of determining whether the taxpayer had the requisite intention. The taxpayer argued that his inability to sell his previous home frustrated his intention to acquire the new home as a primary residence. The Court acknowledged that when determining intention for purposes of the GST/HST rebate, consideration could be given to whether a frustrating event prevented the taxpayer from actually taking up residence in a new home.
+[41] Justice Campbell Miller writes at paragraph 24:
+In cases where a taxpayer could not take up actual residence in a new home, there has been a clear and understandable frustrating event (see for example the cases of Boucher c. R., where a spouse could not find work, Gagné c. R., where the frustrating event was for medical reasons and Hamel c. R., where there were family integration issues).
+[42] In this case, however, Justice Miller determined that the taxpayer’s inability to sell his previous home was not a frustrating event in the circumstances of that case. Therefore, the testimony of the taxpayer and his family was insufficient to prove on a balance of probabilities that he had the proper intention at the necessary time.
+[43] In Sozio, cited above, Justice Bocock set outs a number of indicia to consider when determining a taxpayer’s subjective intention for purposes of paragraph 245(2)(b). One of those indicia which he lists at paragraph15 is:
+(c) if no occupancy of the residence, was there cogent evidence of frustration of occupancy…
+[44] As noted, Justice Bocock sets out this list in the context of determining a taxpayer’s intention for purposes of the requirement in paragraph 254(2)(b). However, he later goes on to consider whether a frustrating event may have actually prevented the taxpayer from being the first individual to occupy the premises for the purposes of 254(2)(g). He writes at paragraph 29:
+Secondly, and relevant to the issue of frustration, is whether such an unforeseeable event beyond her control arose to make living primarily and habitually at Dulgaren not possible. At the time she entered into the APS for Dulgaren, she knew her daughters would likely go away to school. She stated that as the reason for economizing. When Ms. Sozio bought Dulgaren, she already owned Da Vinci. Joe owned Holimont and the lot next to Dulgaren. Choosing among these properties was foreseeable, whether living with Joe or not. In totality, this was not, as in some cases before the Court, a situation of an unforeseeable event beyond the buyer’s control which made Ms. Sozio unable to first occupy Dulgaren primarily as her residence... Such events were more akin to preferences rather than compelled decisions. It was Ms. Sozio’s choice to make her occupancy of Dulgaren insufficient, half‑hearted and/or abrupted; unchosen events did not primarily compel or determine such an outcome… The facts in this appeal do not rise to the thresholds of foreseeability, lack of control and absence of real choice required to embrace frustration as an excuse for failure to be the first to occupy.
+[45] Accordingly, it seems that where an intervening event which meets the conditions necessary to constitute a frustrating event, occurs a taxpayer does not need to satisfy the occupancy requirement in subsection 254(2). Chief Justice Rossiter (as he then was) reached a similar conclusion in Sindhi v His Majesty the King 2023 TCC 102 at paragraph 26.
+[46] This Court considered this matter specifically in the context of the COVID‑19 pandemic in Hammoud v The King 2023 TCC 5. This appeal dealt with subsection 256(2), but the same issue of whether the taxpayer intended to use the home in question as a primary place of residence at the relevant time was paramount.
+[47] The taxpayer claimed that the home was built for the sole intention of it becoming the primary residence. However, because of the COVID‑19 pandemic the taxpayer could not afford the home and sold it. Justice Gagnon found that the taxpayer did not meet the necessary burden of proof. Specifically, the fact that the property was put up for sale during construction was irreconcilable with the intention to use it as the primary place of residence. The Court noted that to invoke frustration as an excuse for a failure to actually use the rebate property as a primary place of residence, the surrounding circumstances must be such as to make the frustrating event unforeseeable, beyond the buyer's control, and resulting in the absence of real choice such that it makes living primarily and habitually at the rebate property impossible. At para 68 of his decision, Justice Gagnon writes:
+The confirmation of the pandemic in March 2020 created uncertainties for many Canadians, the impact of which likely varied from one person to another. In the present case, the Appellant had to submit evidence about the direct impact the pandemic imposed on her as early as in the first weeks the pandemic was confirmed. The reason for that is because the Property was offered for sale that month. As mentioned in Fard and Sozio, the Appellant had the burden of proving, on a balance of probabilities, that, in March 2020, the pandemic created a situation such as the Appellant had no real choice such that it makes living primarily and habitually at the Property impossible.
+[48] Further, at paragraph 72, Justice Gagnon writes:
+There are few doubts that the pandemic had negative impacts on the Appellant, including some effects on her decisions and choices. Unfortunately, from the evidence submitted during the hearing, the Court finds difficult to identify factors that created an impact as early as in March 2020 including from the pandemic that could prove, on the balance of probabilities, the absence of real choice such that it makes living primarily and habitually at the rebate property impossible. Essentially, the Appellant linked the pandemic during the hearing to her employment lost, which ultimately materialized in June 2020, and the fact that the pandemic raised uncertainties for them. No clear or undisputed evidence was submitted by the Appellant to crystallize the absence of real choice whether or not to live in the Property. The element of not having any choice but to sell has not been proven on the balance of probabilities.
+(c) Application of Law to the Facts
+[49] The Respondent agrees that the occurrence of a frustrating event may, in the proper circumstances, apply such that a taxpayer is not required to satisfy the residency requirements of subsection 254(2). The Respondent further agrees that for there to be a frustrating event the following three requirements must be met:
+the event must be unforeseeable;
+the event must be beyond the control of the taxpayer; and
+such event results in the absence of real choice, thereby making living primarily and habitually in the property impossible.
+[50] The Respondent concedes that the first two requirements are met in the circumstances of this appeal. However, it is the Respondent’s position that the third requirement is not met. The Respondent maintains that there were no provincial lockdown requirements in place during the period in question which prevented Ms. Osagie and her family from taking up primary residency in Caledonia in the Fall of 2020. Therefore, the family could have made the move if they had so chosen. The choice to stay in Windsor and to rent the Rebate Property was a preference and was not a compelled decision. Therefore, the events cited by Ms. Osagie do not constitute a frustrating event within the meaning of the law. Paragraph 254(2)(g) requires that Ms. Osagie or a relative be the first to occupy the Rebate Property as place of residency. This requirement is not met. Accordingly, in the Respondent’s view, Ms. Osagie is not entitled to the Rebate.
+[51] I agree with the Respondent that they were no provincial laws in place during the period in question that prevented Ms. Osagie and her family from moving from Windsor to Caledonia. However, I disagree with the Respondent’s position that Ms. Osagie’s actions in not moving immediately upon closing but rather renting the Rebate Property for a relatively short period of time was a preference and was not compelled by circumstances that the Respondent concedes were unforeseeable and beyond Ms. Osagie’s control.
+[52] Given the totality of the evidence, it is my view that Ms. Osagie has successfully discharged her burden of proving on a balance of probabilities, that in the face of unforeseeable events that were beyond her control, she had no real choice but to take the actions which she did.
+[53] First, in my view, she and her husband intended to move to the Rebate Property and make it their primary residence both before and after closing. Her husband believed that he had better job opportunities in the GTA. They ultimately acted in accordance with that intention when they actually moved into the Rebate Property.
+[54] That intention was interrupted by the builder delivering possession of the Rebate Property later than planned as a result of difficulties faced because of the COVID‑19 pandemic. By the time possession was delivered, Ms. Osagie’s young children had started their school years in Windsor. A change of cities and schools mid‑school year is difficult at the best of times for young families in need of new schools, new after‑school activities and new support systems. It could only be that much more difficult in the midst of a pandemic which led to national and provincial healthcare guidelines and regulations recommending or mandating social distancing, quarantine periods, cohort groupings, business closures, travel restrictions, school closures and re‑openings, court closures and the cancellation of after‑school activities
+[55] Secondly, because of the pandemic Ms. and Mr. Osagie were facing a health crisis both in the cases they dealt with in their respective professions and at home. The exposure to the virus from these professions made them and their children sick throughout this period of time. Further, as front‑line health care workers, I expect that their awareness, and sensitivity to, the health risks and resulting restrictions brought on by the pandemic might reasonably have been heightened compared to that of others.
+[56] Thirdly, the extended isolation periods they faced because of the dangers they might pose to those in their care when one or the other of them did get sick, meant they worked less than they usually would, which meant they had less income. This placed a significant strain on their resources, putting their ability to carry the two mortgages they held at risk.
+[57] Under these conditions, on a balance of probabilities, the family had no real choice but to stay in Windsor until the conditions caused by the pandemic stabilized and to earn rental income from their unoccupied property in the interim.
+[58] I conclude that their ability to satisfy the requirement set out in subsection 254(2)(g) was frustrated by one or more unforeseeable events beyond their control, which compelled them not to be the first occupants of the Rebate Property. It was not merely their preference.
+V. CONCLUSION [59] The appeal is allowed, without costs and the Assessment is referred back to the Minister for reconsideration and reassessment on the basis that Ms. Osagie is entitled to the Rebate.
+Signed this 14th day of August 2025.
+“J. Scott Bodie”
+Bodie J.
+CITATION:
+2025 TCC 114
+COURT FILE NO.:
+2024-390(GST)I
+STYLE OF CAUSE:
+CECILIA OSAGIE AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Oakville, Ontario
+DATE OF HEARING:
+June 5, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J. Scott Bodie
+DATE OF JUDGMENT:
+August 14, 2025
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Sophia Trinacty
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blank/En Blanc
+Firm:
+n/a
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

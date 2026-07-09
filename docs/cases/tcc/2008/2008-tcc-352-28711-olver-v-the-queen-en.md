@@ -1,0 +1,270 @@
+---
+title: "Olver v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28711/index.do"
+last_modified: "2008-06-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 352"
+citation2: ""
+neutral_citation: "2008 TCC 352"
+decision_date: "2008-06-11"
+language: "en"
+item_id: "28711"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1436
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:07:30.317000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e20213392e454d8b1fa64710fe34aca045a73f40830bc6dc412bee612aa8e592"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Olver v. The Queen
+
+- Citation: 2008 TCC 352
+- Decision date: 2008-06-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1436, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Olver v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-11
+Neutral citation
+2008 TCC 352
+File numbers
+2006-2676(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2676(IT)I
+BETWEEN:
+ROBERT H. OLVER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Kathryn A. Devos-Miller, 2006-2677(IT)I,
+on February 14 and 15, 2008, at Toronto, Ontario
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Eli Leibowitz
+Counsel for the Respondent:
+Laurent Bartleman
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 2002, 2003 and 2004 taxation years are dismissed.
+Signed at Ottawa, Canada, this 11th day of June, 2008.
+“E.A. Bowie”
+Bowie J.
+Docket: 2006-2677(IT)I
+BETWEEN:
+KATHRYN A. DEVOS-MILLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Robert H. Olver, 2006-2676(IT)I,
+on February 14 and 15, 2008, at Toronto, Ontario
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Eli Leibowitz
+Counsel for the Respondent:
+Laurent Bartleman
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 2002, 2003 and 2004 taxation years are dismissed.
+Signed at Ottawa, Canada, this day of June, 2008.
+“E.A. Bowie”
+Bowie J.
+Citation: 2008TCC352
+Date: 20080611
+Docket: 2006-2676(IT)I
+and 2006-2677(IT)I
+BETWEEN:
+ROBERT H. OLVER and
+KATHRYN A. DEVOS-MILLER,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] The appellants are husband and wife, and they live in Toronto. Their appeals were heard together on common evidence. Each of them was reassessed under the Income Tax Act[1] (the Act) for the taxation years 2002, 2003 and 2004 to disallow the deduction of certain losses that they claimed to have suffered in the computation of their incomes under section 3 of the Act. The dispute between the parties is centered upon the question whether certain activities that the appellants carried out in those years constituted a source of income within the meaning of that expression as it appears in section 3. The respondent asserts, in the alternative, that the losses claimed by the appellants are not substantiated by the evidence, which does not support the expenses claimed.
+[2] Prior to his retirement in 2000, Mr. Olver was a journalist. Since at least 1990, up to and including the years under appeal, he has claimed substantial non‑capital losses from sources other than journalism to be taken into account in computing his income. In the 12 years from 1990 to 2001 these claimed losses amounted to $142,229. During the same period he declared gross business income totaling $37,658. Ms. Devos-Miller is an elementary school teacher. In the seven years from 1995 to 2001, she claimed losses totaling $34,434; her gross business income declared during the same period was $4,882. In the years under appeal they declared gross income from commissions and from business, and net losses, as follows:
+Robert H. Olver
+Gross Business Income
+Net Business Losses
+2002
+$3,200.00
+($9,228.76)
+Gross Commission Income
+Net Commission Inc. (Loss)
+2002
+$5,794.00
+(T4A Morinda Canada)
+NIL
+2003
+$1,500.00
+($6,419.90)
+2004
+$227.00
+($9,099.87)
+Kathryn A. Devos-Miller
+Gross Business Income
+Net Business Losses
+2002
+$3,200.00
+($19,396.91)
+Gross Commission Income
+Net Commission Inc. (Loss)
+2003
+$3,655.00
+($19,195.78)
+2004
+$227.00
+($13,703.64)
+[3] The appellants have been engaged over these years in a number of activities in addition to the employment from which they earned their living. They have run a cat rescue shelter on a voluntary basis. It is a purely humane endeavour on their part. Gardening and making bent willow furniture are Mr. Olver’s hobbies. These activities are all publicized in one way or another by Mr. Olver through an internet website, and he makes furniture plans available to those who want them, but his evidence was that these activities are all in the nature of avocations; they were not pursued for profit, but for purely personal reasons. Ms. Devos-Miller is an artist, and in the past she has been a professional artist, but her evidence was that in the years in question that was not a business but a hobby. It is the appellants’ other activities, pursued largely by way of the internet, that they claim are sources of income, although productive only of losses.
+[4] In 2002, the appellants were distributors for a company called Merinda, or later Tahiti Noni International. It produced something that Mr. Olver described as a health drink, and sold it through a pyramidic structure of sales people, sometimes referred to as multi-level marketing. As distributors, the appellants were required to purchase a case of this product each month for their own use. Each case contained four bottles, and cost about $200. They were required to recruit other sales people, who in turn could do the same, and they were entitled to receive commissions on the purchases made by those people. For the first three months the commission was at the rate of 60%, but thereafter it was payable at a decreasing rate.
+[5] The appellants recruited sub-dealers for Tahitian Noni by purchasing leads. These took the form of lists of names, and came with such contact information as email addresses, telephone numbers, street addresses, and information as to when best to call them. The appellants made numerous telephone calls each day to the people on these lists, and they recorded the results of the calls in a card file. Initially they also solicited sub-dealers by email, but relied on this less in later years. Mr. Olver testified that typically two days of calling might yield two people who were willing to sign up as sub-dealers, but that many of those lost interest fairly soon. They recruited a number of people in the United States and the Philippines, but none of them seem to have led to any large amount of sales. They must also have recruited some people closer to home, as Mr. Olver testified that they were required to attend training or sales meetings, and to take their sub-dealers or prospects there with them. The meetings, he said, were held at least weekly in the early days, but less frequently in more recent years, and took place in hotels in and around Toronto. He testified that he and Ms. Devos-Miller frequently drove to visit potential recruits for the Tahitian Noni sales force, and also to take people to these meetings.
+[6] In 2002, Mr. Olver was issued a T4A from Morinda Canada Co. showing that he had earned $5,794.28 in commissions from self-employment. That was the last year that the appellants sold Tahitian Noni, or to be more precise, recruited people on whose purchases of Tahitian Noni they received a commission. Mr. Olver described in his evidence a number of activities that he pursued in 2002 and the years since then, in an attempt to develop a business and thus share in the wealth that he believed others were amassing from the internet. His descriptions of the business activities that he was trying to develop were, at best, vague. He appears to have fallen under the spell of an American by the name of Gary Shawkey. Mr. Shawkey had a number of websites through which he sold a variety of goods or services, or otherwise generated revenues for himself. As part of his modus operandi he recruited people to create websites with links to his various commercial websites, and to encourage people to use those links, thereby increasing the traffic on his sites, and so his profits from them.
+[7] Mr. Olver was not able to give any coherent explanation of the nature of the business, or businesses, that he claimed that he and Ms. Devos-Miller were operating in partnership, other than selling Tahitian Noni. In his evidence in-chief he referred to Business Opportunity Alliance, GSI International, Biz Ops for Kids, Vartec Excel, goingplatinum.com, the Perfect Page, and QT Pro. All of these in one way or another involved websites, and payments made to the promoter, who assured the appellants that there were commissions to paid to them in the future based in one way or another on the volume of traffic that their website steered to the promoter’s enterprises. As close as Mr. Olver came in his evidence to being able to describe the operation of any of these was the following excerpt from his evidence about the goingplatinum.com website venture:
+A. Each person who was a member - - again, this was based on a multi-level marketing plan. If you paid your fee to become a member of Going Platinum, they would supply you with a website which was a copy of the main website. In that website, you could go and you could shop. You could get a date. You could go to a chat room. I can’t remember what all else you could do, but you could do many things.
+Every place a prospect went, if they went to one of the shopping malls, if they went through my site – because I had advertised the site – if they went to my site and clicked on one of the stores and bought something there, then I would get a commission for that. Or if they did anything on the site, if they joined the site, I would get a commission.
+As I say, I had about 3,000 who joined. Every time any of them would do anything on the site I would get a commission. Except that before the site became fully functional, they had to go out of business.
+MR. LEIBOWITZ
+Q. How did you market or promote the goingplatinum.com business?
+A. Again, in the old-fashioned way that I mentioned.
+Q. Cold calling?
+A. Cold calling but probably with them mostly e-mails and safe lists and - - sorry, opt-in lists.
+Q. In this case, with goingplatinum, were the promotions successful?
+A. Yes. I had one of the largest downlines of anybody in the company; they were successful for me.
+JUSTICE BOWIE: But I thought you said that it went broke before it got the - -
+THE WITNESS: It went broke. I was successful in recruiting but my success came to nothing because the company went out of business.
+JUSTICE BOWIE: There wasn’t any revenue?
+THE WITNESS: There were miniscule revenues at the time.
+[8] Mr. Olver’s description of Perfect Page was no more illuminating:
+Q. Any other products that you were involved in?
+A. Yes. Again, I can’t swear to the time frame. It is not in my mind. I was also involved in a company called the Perfect Page. The Perfect Page, to this day it is hard to explain what the heck it did except lose us all a lot of money.
+Q. Can you try and describe it for the Court?
+A. It was a company that depended on arithmetical progression of certain numbers of people coming in at a certain rate. If they were able to keep the arithmetic working, then those of us who started early would cycle, it was a cyclic company. Each time you cycled, you would get some kind of a payment.
+To enhance the amount of money that you would make, they offered for sale things like profit centers they were called. If you bought a silver profit centre for $200 or whatever it was, for $125, that entitled you to a certain amount of profit when the company cycled, which depended on how many people had joined the company.
+Q. The company sold something or?
+A. It must have sold something or it would have been put out of business, but I can’t remember what it was selling. One thing it was selling was a water purification system which was said to be very popular in France. I don’t know how popular it ever got to be here.
+They set up these various profit centers which you could buy at various times. Of course, it didn’t work very well and as they got more and more desperate, they would offer schemes. They would let you get into the profit centers with paying $5, or paying less and less.
+Q. Actually, going back, are you still involved with Perfect Page, Going Platinum, today?
+A. No. And Perfect Page is defunct.
+Q. Perfect Page is defunct.
+A. It went defunct.
+I asked Mr. Olver at the conclusion of his evidence to describe briefly the nature of his business. His reply was:
+THE WITNESS: I think I would say I am in the business of building dreams.
+Asked the same question, Ms. Devos-Miller was not able to give any description of the business that they were in, other than the sale of Tahitian Noni. Her evidence concluded with this exchange:
+Q. What business were you in?
+A. What do you mean?
+Q. In 2002, what business were you in?
+A. In 2002, we were doing Noni juice. We were doing the drink supplements and we were doing - - that is the Noni juice. And were involved with Gary Shawkey.
+Q. What was Gary Shawkey’s business?
+A. Gary Shawkey Enterprises.
+Q. I am sorry, let me rephrase that: When you said, “We were involved with Gary Shawkey”, what was your business related to Gary Shawkey?
+A. It was an online business and he had products.
+Q. What products?
+A, They were products that people used to help them in their business, help increase their business
+Q. What was your business?.
+A. What was my business? I assisted my husband.
+Q. You were a partner in a business that you purportedly ran out of your house., Other than Noni juice, what was your business?
+A. I am not really quite sure I understand, other than the Noni juice and the Gary Shawkey. I don’t quite understand what you mean by that.
+Q. What were you selling other than the juice?
+A. Bob was selling online products through Gary Shawkey.
+Q. What were you selling?
+A. What was I selling? I was helping him with that.
+Q. Who were you helping?
+A. I was helping my husband.
+Q. What were you selling?
+A. What was I selling? I was helping him by giving him money for his advertising and things of that nature.
+Q. What was the business selling?
+A. Electronic products to help people in their businesses.
+Q. What were those electronic products?
+A. I am not quite sure.
+[9] There is nothing businesslike about the way that these appellants conducted their affairs. They had no books of account of any kind, nor an organized system to record their expenses in connection with any of the activities that they would characterize as businesses. The evidence produced at trial to try to establish their expenses consisted for the most part of copies of bank books and credit card statements. Apparently the only records that they kept that were specific to the purported businesses were the card files recording their telephone solicitations, and these were not produced at trial. Not only did the appellants fail to keep records, but they had little or no knowledge of the sources of the revenues they had reported for the years under appeal, and little specific knowledge concerning the expenses that they had claimed in order to create the losses reported. I do not propose to go through the evidence of the appellants at great length; a few examples will demonstrate the degree to which they were quite oblivious to the facts that they had reported in their income tax returns.
+[10] Mr. Olver reported pension income each year. In 2002 he reported two additional amounts – $5,794.28 for which he had a T4A from Morinda, and $3,200 net income to which he applied expenses to produce a loss of $9,228.78. On cross‑examination, he was unable to explain who paid him that amount, or what on-line development business he was in that year. He claimed advertising expenses that year of $12,430, $4,225 in 2003 and $9,426.14 in 2004. A Canada Revenue Agency auditor testified that upon examination of appellant’s documents produced in support of their appeals he was able to verify only 23% of the expenditures claimed. Asked how he knew how much the revenue was from his online activities in the years under appeal, Mr. Olver gave this answer:
+Q. In your T1s, you reported income from these businesses. How did you know how much income you earned from these businesses? Was it an estimate?
+A. Sometimes it would be by looking at the statements I would get from some of them each month, which would show how much commission I had earned. Sometimes it would be an estimate. Usually, there would be some kind of a statement from the company that I had earned commission.
+I found no such statements in the appellants’ three volumes of documents.
+[11] There is no doubt that the appellants’ internet activities have shown virtually no sign that they will be profitable in the foreseeable future. The question, however, is whether those activities can properly be characterized as a source of income for the purposes of sections 3 and 9 of the Act. The Supreme Court has recently mandated a multi-faceted inquiry to make this determination. In Stewart v. Canada,[2] the Court said this:[3]
+50 It is clear that in order to apply s. 9, the taxpayer must first determine whether he or she has a source of either business or property income. As has been pointed out, a commercial activity which falls short of being a business, may nevertheless be a source of property income. As well, it is clear that some taxpayer endeavours are neither businesses, nor sources of property income, but are mere personal activities. As such, the following two-stage approach with respect to the source question can be employed:
+(i) Is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour?
+(ii) If it is not a personal endeavour, is the source of the income a business or property?
+The first stage of the test assesses the general question of whether or not a source of income exists; the second stage categorizes the source as either business or property.
+51 Equating “source of income” with an activity undertaken “in pursuit of profit” accords with the traditional common law definition of “business”, i.e., “anything which occupies the time and attention and labour of a man for the purpose of profit”: Smith, supra, at p. 258; Terminal Dock, supra. As well, business income is generally distinguished from property income on the basis that a business requires an additional level of taxpayer activity: see Krishna, supra, at p. 240. As such, it is logical to conclude that an activity undertaken in pursuit of profit, regardless of the level of taxpayer activity, will be either a business or property source of income.
+52 The purpose of this first stage of the test is simply to distinguish between commercial and personal activities, and, as discussed above, it has been pointed out that this may well have been the original intention of Dickson J.’s reference to “reasonable expectation of profit” in Moldowan. Viewed in this light, the criteria listed by Dickson J. are an attempt to provide an objective list of factors for determining whether the activity in question is of a commercial or personal nature. These factors are what Bowman J.T.C.C. has referred to as “indicia of commerciality” or “badges of trade”: Nichol, supra, at p. 1218. Thus, where the nature of a taxpayer’s venture contains elements which suggest that it could be considered a hobby or other personal pursuit, but the venture is undertaken in a sufficiently commercial manner, the venture will be considered a source of income for the purposes of the Act.
+53 We emphasize that this “pursuit of profit” source test will only require analysis in situations where there is some personal or hobby element to the activity in question. With respect, in our view, courts have erred in the past in applying the REOP test to activities such as law practices and restaurants where there exists no such personal element: see, for example, Landry, supra; Sirois, supra; Engler v. The Queen, 94 D.T.C. 6280 (F.C.T.D.). Where the nature of an activity is clearly commercial, there is no need to analyze the taxpayer’s business decisions. Such endeavours necessarily involve the pursuit of profit. As such, a source of income by definition exists, and there is no need to take the inquiry any further.
+54 It should also be noted that the source of income assessment is not a purely subjective inquiry. Although in order for an activity to be classified as commercial in nature, the taxpayer must have the subjective intention to profit, in addition, as stated in Moldowan, this determination should be made by looking at a variety of objective factors. Thus, in expanded form, the first stage of the above test can be restated as follows: “Does the taxpayer intend to carry on an activity for profit and is there evidence to support that intention?” This requires the taxpayer to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour.
+55 The objective factors listed by Dickson J. in Moldowan, at p. 486, were: (1) the profit and loss experience in past years; (2) the taxpayer’s training; (3) the taxpayer’s intended course of action; and (4) the capability of the venture to show a profit. As we conclude below, it is not necessary for the purposes of this appeal to expand on this list of factors. As such, we decline to do so; however, we would reiterate Dickson J.’s caution that this list is not intended to be exhaustive, and that the factors will differ with the nature and extent of the undertaking.
+(Emphasis added)
+And at paragraph 60 it is put this way:
+60 In summary, the issue of whether or not a taxpayer has a source of income is to be determined by looking at the commerciality of the activity in question. Where the activity contains no personal element and is clearly commercial, no further inquiry is necessary. Where the activity could be classified as a personal pursuit, then it must be determined whether or not the activity is being carried on in a sufficiently commercial manner to constitute a source of income. However, to deny the deduction of losses on the simple ground that the losses signify that no business (or property) source exists is contrary to the words and scheme of the Act. Whether or not a business exists is a separate question from the deductibility of expenses.
+[12] I have no doubt that the appellants have the subjective intention to make a profit from their activities on the internet, but they do not satisfy the requirement to show that their activities have been carried out in accordance with objective standards of businesslike behaviour, as expressed in paragraph 54 above. The four factors listed in Moldowan v. The Queen,[4] and referred to in paragraph 55 of Stewart, certainly weigh heavily against these appellants. Their history of writing off losses reported from their various home-based ventures against their other income is long, and the amounts they have claimed have been consistently large. Neither of them gave evidence of any training for the type of internet business that they say they wish to develop, and there was no evidence that they have developed even the most rudimentary business plan. Nothing in the evidence before me suggests that these activities have even a remote prospect of showing a profit at any time in the future.
+[13] The Moldowan factors are by no means exhaustive. There is nothing businesslike about the appellants’ financial recordkeeping, or more precisely, the lack of it. There are no books of account, no financial statements, no log of the automobile use for which they make substantial claims each year. Other than the T4A form for 2002 that I have referred to, there is simply no accounting for the revenues declared, meagre though they were.
+[14] The appellants’ income tax returns were prepared by Mr. Olver, using a popular commercial software for the purpose. In addition to the claims for expenses that the evidence simply does not support, the returns are rife with double counting of expenses and other errors. It appears that their proportionate shares of the partnership changed in favour of Ms. Devos-Miller when Mr. Olver retired and his other income decreased. The percentage of their home devoted to business use is variously claimed to be 20%, 40% and 16.7%, although the evidence suggests that it was actually much less than any of these. Mr. Olver blamed his unfamiliarity with the forms and the program he used for the errors. Ms. Devos-Miller simply signed her returns as he presented them to her. Both the returns that they filed and their testimony to supplement the fragmentary records that they produced are quite unreliable. For example, in each year there is a claim for motor vehicle expenses. In 2002, the claim is found in both appellants’ returns. The amount claimed for fuel and oil is $2,220.86. The total kilometers driven are declared to be 2,020, making the cost per kilometer for gasoline and oil $1.10. For 2003 and 2004 the corresponding numbers are:
+Year total km fuel & oil fuel & oil per km
+2003 1,100 $2,268 $2.06
+2004 1,223 $2,184 $1.78
+In each year, more than $3,000 is also claimed for maintenance and repairs, which includes oil changes. The respondent made no allegation of fraud, and I make no such finding. However, these claims demonstrate how unreliable the appellants’ records are.
+[15] I am satisfied that these appellants were not engaged in anything that could properly be described as a business during the years 2002, 2003 and 2004, with the exception of the distribution of Tahitian Noni during 2002. They apparently carried on that activity for some number of years, but ended it in 2002 due to the declining commission entitlement. It had an identifiable product and some organized business activity, and it produced significant revenue for the appellants in 2002.
+[16] It appears from page 25 of Exhibit A-1A that no loss was attributed to the Tahitian Noni business in 2002, and that the loss of $9,228.76 claimed by Mr. Olver and the loss of $19,396.91 claimed by Ms. Devos-Miller were all attributed to their online activities. The appeals of both appellants for 2002, 2003 and 2004 are therefore dismissed.
+Signed at Ottawa, Canada, this 11th day of June, 2008.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2008TCC352
+COURT FILE NOS.: 2006-2676(IT)I and 2006-2677(IT)I
+STYLE OF CAUSE: ROBERT H. OLVER and
+KATHRYN A. DEVOS-MILLER and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: February 14 and 15, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENTS: June 11, 2008
+APPEARANCES:
+Counsel for the Appellants:
+Eli Leibowitz
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Eli Leibowitz
+Firm: Marciano Beckenstein LLB
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985 (5th Supp.) c. 1, as amended.
+[2] [2002] 2 S.C.R. 645.
+[3] Ibid. @ para. 50
+[4] [1978] 1 S.C.R. 480.

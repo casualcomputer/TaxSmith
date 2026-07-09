@@ -1,0 +1,231 @@
+Title: Julien Regis S/N Ti-Kay Sikuman Soudure Enr. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27915/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-36-27915-julien-regis-s-n-ti-kay-sikuman-soudure-enr-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-03-04
+
+# Julien Regis S/N Ti-Kay Sikuman Soudure Enr. c. M.R.N.
+
+- Citation: 2003 CCI 36
+- Decision date: 2003-03-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1698, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Julien Regis S/N Ti-Kay Sikuman Soudure Enr. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-04
+Référence neutre
+2003 CCI 36
+Numéro de dossier
+2000-9(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2000-9(EI)
+ENTRE :
+JULIEN RÉGIS S/N TI-KAY SIKUMAN SOUDURE ENR.,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+JEAN-GUY GRÉGOIRE, YVAN AMBROISE,
+JEAN-MARC BLOUIN,
+intervenants.
+_______________________________________________________________
+Appel entendu le 21 janvier 2003 à Sept-Îles (Québec),
+Devant : L'honorable juge suppléant J.F. Somers
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Alain Gareau
+Pour les intervenants :
+Avocat de Jean-Guy Grégoire :
+Yvan Ambroise lui-même
+Jean-Marc Blouin lui-même
+Me Raynald Bernatchez
+_______________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 4e jour de mars 2003.
+«J.F. Somers»
+J.S.C.C.I.
+Référence : 2003CCI36
+Date :20030304
+Dossier : 2000-9(EI)
+ENTRE :
+JULIEN RÉGIS S/N TI-KAY SIKUMAN SOUDURE ENR.,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+JEAN-GUY GRÉGOIRE, YVAN AMBROISE,
+JEAN-MARC BLOUIN,
+intervenants.
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers, C.C.I.
+[1] Cet appel a été entendu à Sept-Îles (Québec), le 21 janvier 2003.
+[2] Jean-Guy Grégoire, un des intervenants dans le présent appel est également appelant dans le dossier 1999-4721(EI), verse la preuve produite à l'audition de son appel au dossier sous étude.
+[3] L'appelant interjette appel de la décision du ministre du Revenu national (le «Ministre») en date du 27 août 1999 selon laquelle l'emploi exercé par les travailleurs suivants, dont les intervenants, n'était pas assurable pour le motif qu'il n'existait pas de relation employeur-employé entre lui et les travailleurs durant les périodes en litige indiquées ci-dessous :
+1. Yvan Ambroise : 20 novembre 1995 au 15 décembre 1995
+11 août 1997 au 8 novembre 1997
+21 septembre 1998 au 7 novembre 1998
+2. Valère Pinette : 25 mars 1996 au 29 mars 1996
+3. Samuel Pinette : 4 novembre 1996 au 22 novembre 1996
+4. Éric Valin : 2 décembre 1996 au 20 décembre 1996
+5. Jean-Guy Grégoire : 8 décembre 1997 au 18 janvier 1998
+6. Kevin Jérôme : 19 janvier 1998 au 18 avril 1998
+7. Jean-Marc Blouin : 22 mars 1998 au 13 juin 1998
+8. Nathalie Ambroise : 26 juin 1998 au 26 septembre 1998
+9. Émilien Hervieux : 26 juin 1998 au 26 septembre 1998
+10. Raoul St-Onge : 3 août 1998 au 18 septembre 1998
+11. Michel Marcellin : 21 août 1998 au 17 octobre 1998
+12. Bill St-Onge : 7 septembre 1998 au 17 octobre 1998
+13. Marc Bourgeois : 25 septembre 1998 au 17 octobre 1998
+[4] Le paragraphe 5(1) de la Loi sur l'assurance-emploi ( la «Loi») se lit en partie comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) un emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[…]
+[5] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes énoncées au paragraphe 5 de la Réponse à l'avis d'appel, lesquelles ont été admises ou niées par l'appelant :
+a) L'appelant, Julien Régis, était l'unique propriétaire d'un atelier de soudure qu'il exploitait sous la raison sociale «Ti-Kay Sikuman Soudure enr.»; (admis)
+b) l'entreprise est exploitée à l'année longue; (admis)
+c) les heures d'ouverture étaient de 8 h 00 à 20 h 00, de 6 à 7 jours par semaine; (nié)
+d) il y avait toujours un ou deux soudeurs en place soit Julien Régis et Yvan Ambroise; (admis)
+e) il y avait toujours beaucoup de monde à l'atelier et il était difficile de savoir qui y travaillait ou non; (nié)
+f) l'appelant a prétendu avoir embauché régulièrement des travailleurs n'ayant aucune expérience en soudure dans l'unique but de leur permettre de se qualifier aux prestations d'assurance‑emploi; (nié)
+g) l'appelant a affirmé avoir embauché les prétendus travailleurs lorsque ces derniers le lui demandaient et non pas parce que son entreprise en avait un réel besoin; (nié)
+h) il n'y avait que Yvan Ambroise, Raoul St-Onge et Marc Bourgeois qui étaient aptes à faire de la soudure; (nié)
+i) l'appelant a aussi prétendu avoir embauché des journaliers pour effectuer des travaux de peinture et du ménage à l'atelier alors qu'ils n'ont pas travaillé; (nié)
+j) il a prétendu avoir rémunéré les travailleurs à un taux horaire se situant entre 18 $ et 27 $ simplement pour que les travailleurs reçoivent des prestations d'assurance-emploi élevées alors que l'entreprise n'avait pas besoin de leurs services; (nié)
+k) les tâches pour lesquelles les travailleurs étaient prétendument embauchés ne justifiaient pas les rémunérations prétendument versées; (nié)
+l) l'appelant a prétendu avoir versé en argent liquide les prétendues rémunérations alors que l'entreprise n'avait pas la capacité financière de les payer; (nié)
+m) les relevés d'emploi, émis par l'appelant au nom des travailleurs, ne reflètent pas la réalité quant aux périodes de travail ni quant à la rémunération versée; (nié)
+n) Yvan Ambroise : périodes du 20 novembre 1995 au 15 décembre 1995, du 11 août 1997 au 8 novembre 1997 et du 21 septembre 1998 au 7 novembre 1998. Le travailleur était régulièrement à l'atelier de soudure en dehors de ses prétendues périodes d'emploi. Toutefois, lors de chacune des périodes en litige, il a prétendument été embauché le temps nécessaire pour qu'il se qualifie aux prestations d'assurance-chômage ou d'assurance‑emploi. En 1995, il a été embauché comme journalier pendant une période de 3 semaines et il a reçu une rémunération hebdomadaire brute de 544 $ qui lui a été versée par chèque par l'appelant. En 1997 et 1998, l'appelant, qui lui avait antérieurement donné de la formation en soudure, l'aurait prétendument embauché comme soudeur à un taux horaire de 18,72 $ pour l'année 1997 et de 26 $ pour l'année 1998. Il aurait prétendument effectué 72 heures de travail par semaine en 1998 et aurait reçu en argent liquide une rémunération hebdomadaire de 1 872 $. Il a affirmé ne pas connaître Émilien Hervieux et ne pas avoir travaillé avec Bill St-Onge alors qu'en 1998, des relevés d'emploi émis par l'appelant indiquent qu'ils auraient prétendument tous travaillé pendant la même période. En 1997 et 1998, le travailleur n'a pas été à l'emploi de l'appelant et n'a reçu aucune rémunération de celui-ci.
+o) Valère Fontaine : période du 25 au 29 mars 1996. Pendant la période en litige, le travailleur a prétendu avoir rendu des services à l'appelant alors qu'il travaillait pour un autre payeur. Il avait besoin d'une semaine pour se qualifier aux prestations d'assurance-chômage et l'appelant lui a émis un faux relevé d'emploi;
+p) Samuel Pinette : période de 4 au 22 novembre 1996. Il aurait prétendument été embauché comme journalier alors que l'appelant n'en avait pas besoin. Il aurait prétendument reçu une rémunération hebdomadaire de 560 $ qui lui aurait prétendument été versée en argent liquide. Le travailleur n'a pas rendu de services à l'appelant et n'a reçu aucune rémunération de celui-ci;
+q) Éric Valin : période du 2 au 20 décembre 1996. Il lui manquait 3 semaines pour lui permettre de se qualifier aux prestations d'assurance-emploi. Il aurait prétendument travailler seul comme journalier à l'atelier, à faire de la peinture et du ménage, alors qu'il y avait deux autres personnes inscrites au registre des salaires de l'appelant durant la même période. Il aurait prétendument été rémunéré 525 $ par semaine en argent liquide. Le travailleur n'a pas rendu de services à l'appelant et n'a reçu aucune rémunération de celui-ci;
+r) Jean-Guy Grégoire : période du 8 décembre 1997 au 18 janvier 1998. Le travailleur est un ami de l'appelant et il lui rendait souvent des services bénévolement. Pendant la période en litige, il aurait prétendument été embauché comme journalier et aurait prétendument été rémunéré à un taux horaire de 27 $ qui lui aurait prétendument été versé en argent liquide. Le travailleur n'était pas à l'emploi de l'appelant et n'a reçu aucune rémunération de celui-ci.
+s) Kevin Jérôme : période du 19 janvier 1998 au 18 avril 1998. Il venait régulièrement à l'atelier et rendait bénévolement des services à l'appelant. Pendant la période en litige, il a demandé à l'appelant de le faire travailler afin qu'il puisse bénéficier des prestations d'assurance-emploi. Il a prétendument été embauché comme journalier. Il a affirmé avoir travaillé seul avec l'appelant alors que, pour la période en litige, un autre relevé d'emploi a été émis par l'appelant à un autre travailleur, du nom de Jean‑Marc Blouin. Le travailleur aurait prétendument été rémunéré à un taux horaire de 17 $ qui lui aurait prétendument été versé en argent liquide. Le travailleur n'était pas à l'emploi de l'appelant et n'a reçu aucune rémunération de celui-ci;
+t) Jean-Marc Blouin : période du 22 mars 1998 au 13 juin 1998. Il aurait prétendument été embauché comme journalier à faire de la peinture et du ménage alors que Kevin Jérôme aurait prétendument effectué ces mêmes tâches pour l'appelant. Le travailleur de son côté a prétendu qu'il n'avait pas effectué de la peinture mais plutôt coupé des morceaux de fer pour l'appelant. Il aurait prétendument été rémunéré en argent liquide à un taux horaire de 27 $. Le travailleur n'a rendu aucun service à l'appelant et n'a reçu aucune rémunération de celui-ci.
+u) Nathalie Ambroise : période du 26 juin 1998 au 26 septembre 1998. Elle a été prétendument embauchée comme journalière afin de lui permettre de se qualifier aux prestations d'assurance‑emploi. Elle aurait prétendument été rémunérée à un taux horaire de 22 $. L'appelant lui aurait prétendument versé un montant de 1 584 $ par semaine pour 72 heures de travail. Son horaire de travail était prétendument de 8 h 00 à 20 h 30. Elle a affirmé ne pas connaître Émilien Hervieux, Raoul St-Onge et Marc Bourgeois qui, selon l'appelant, auraient, eux aussi, été à son emploi pendant la même période. La travailleuse n'a rendu aucun service à l'appelant et n'a reçu aucune rémunération de celui‑ci;
+v) Émilien Hervieux : période du 26 juin 1998 au 26 septembre 1998. En 1997, il a rendu bénévolement des services à l'appelant sans rémunération. Pendant la période en litige, il a prétendument été embauché comme journalier afin de lui permettre de se qualifier aux prestations d'assurance-emploi. Il prétend qu'il aurait travaillé la majorité du temps de 8 h 00 à 17 h 00. Il a affirmé ne pas connaître Michel Marcellin et Bill St-Onge qui auraient, selon des relevés d'emploi émis par l'appelant, eux aussi prétendument rendu des services à l'appelant pendant la même période. Il aurait prétendument été rémunéré en argent liquide à un taux horaire de 22 $. Le travailleur n'a rendu aucun service à l'appelant et n'a reçu aucune rémunération de celui-ci;
+w) Raoul St-Onge : période du 3 août 1998 au 18 septembre 1998. Avant la période en litige, il avait rendu bénévolement des services à l'appelant qui en échange lui avait donné de la formation en soudure. Pendant la période visée, il aurait prétendument travaillé de jour et prétendument effectué en moyenne 60 heures par semaine. Il aurait prétendument reçu une rémunération fixe de 1 200 $ ou 1 500 $ par semaine qui lui aurait prétendument été versée en argent liquide. Il a affirmé ne pas avoir rendu des services à l'appelant en même temps que Michel Marcellin qui, selon un relevé d'emploi émis par l'appelant, aurait prétendument travaillé en même temps que le travailleur. Le travailleur n'était pas à l'emploi de l'appelant et n'a reçu aucune rémunération de celui-ci;
+x) Michel Marcellin : période du 21 août 1998 au 17 octobre 1998. Il a prétendument été embauché comme journalier afin de lui permettre de se qualifier aux prestations d'assurance-emploi. Il aurait prétendument travaillé de jour et aurait prétendument été rémunéré en argent liquide à un taux horaire de 22 $. Le travailleur n'a rendu aucun service à l'appelant et n'a reçu aucune rémunération de celui-ci;
+y) Bill St-Onge : période du 7 septembre 1998 au 17 octobre 1998. Il aurait prétendument été embauché comme journalier pour travailler de 17 h 00 à 23 h 00 et occasionnellement de jour alors que les heures d'ouverture du commerce étaient de 8 h 00 à 20 h 00. Il aurait prétendument été rémunéré en argent liquide à un taux horaire de 22 $. Le travailleur n'a rendu aucun service à l'appelant et n'a reçu aucune rémunération de celui-ci;
+z) Marc Bourgeois : période du 25 septembre 1998 au 17 octobre 1998. Il aurait prétendument été embauché comme soudeur pour lui permettre de se qualifier aux prestations d'assurance-emploi. Selon l'appelant, l'horaire du travailleur était de 8 h 00 à 17 h 00 alors que, selon le travailleur, il travaillait 12 heures par jour pour l'appelant. Il aurait prétendument été rémunéré en argent liquide à un taux horaire de 27 $. Le travailleur n'a rendu aucun service à l'appelant et n'a reçu aucune rémunération de celui-ci.
+[6] Seuls les travailleurs Yvan Ambroise, Jean-Guy Grégoire et Jean‑Marc Blouin sont intervenus dans le présent appel.
+[7] Seuls l'appelant et Yvan Ambroise ont témoigné au soutien du présent appel. La preuve produite dans le dossier 1999‑4721(EI), soit l'appel de Jean‑Guy Grégoire, intervenant dans l'appel sous étude, a été versée au présent dossier.
+[8] L'appelant était l'unique propriétaire d'un atelier de soudure qu'il exploitait à l'année longue sous la raison sociale «Ti-Kay Sikuman Soudure enr.» Selon l'appelant, les heures d'ouverture de l'atelier étaient de 8 h à 17 et les employés devaient être présents sur les lieux; par contre, il n'y avait pas d'heures fixes car les employés pouvaient travailler hors des heures d'ouverture de l'atelier.
+[9] Les dimensions de l'atelier étaient de 30 pieds par 52 pieds. Pendant les heures d'ouverture, il y avait sur place des clients, les employés et les personnes qui se rendaient à l'atelier pour jaser.
+[10] L'appelant a admis le paragraphe 5(d) de la Réponse à l'avis d'appel stipulant qu'il y avait toujours un ou deux soudeurs sur place, soit lui et un des intervenants, Yvan Ambroise.
+[11] Lors de l'interrogatoire principal, l'appelant n'a pu éclairer la Cour quant aux opérations de son atelier et au travail exécuté par les employés pendant les années en litige. Aucun document n'a été déposé en preuve, soit registre des salaires, bilan financier ou autres, au soutien de son appel.
+[12] En contre-interrogatoire, le procureur de l'intimé a montré à l'appelant une déclaration statutaire qu'il a signée le 6 janvier 1999 (pièce I-1) et ce dernier a nié le contenu de sa déclaration expliquant qu'il n'était pas dans un état normal. L'appelant a expliqué qu'il a consommé des stupéfiants durant les années 1990 à 2000 et qu'il a été traduit devant la Cour criminelle pour des accusations reliées aux stupéfiants; il a cependant été très vague quant à la nature des accusations et à la sentence imposée. Il a ajouté qu'il ne se souvenait pas si lors de sa déclaration statutaire du 6 janvier 1999 il avait consommé des stupéfiants mais reconnaît que Louise Pineault, enquêteur auprès de Développement des ressources humaines Canada, était très gentille.
+[13] Dans l'appel de Jean-Guy Grégoire (dossier 1999-4721(EI)), dont la preuve produite a été versée au dossier sous étude, l'appelant reconnaît sa signature sur un document produit à l'audience et déclare : «...que si j'ai signé ça, c'est vrai». À l'audition de l'appel de Jean-Guy Grégoire, l'appelant n'a fait aucune allusion à sa consommation de stupéfiants et au fait qu'il n'était pas dans un état normal durant l'année 1999. De plus, il n'a fait aucune allusion à certains incidents fâcheux qui pourraient affecter la véracité des réponses aux questions de madame Pineault et il y a lieu de souligner certains passages de cette déclaration (pièce I-1) du 6 janvier 1999 :
+Q. Quelles sont les compétences nécessaires pour exercer le métier de soudeur?
+R. Ça prend beaucoup d'expérience, les gens que j'engage ne sont pas des vrais soudeurs, je leur montre et j'aime mieux ça parce que ceux qui ont des certificats des fois ne sont pas bons.
+Q. Qui sont vos principaux clients?
+R. Les Conseils de Bande de Ungkat et Natashquan et aussi des particuliers.
+Q. Embauchez-vous uniquement des soudeurs ayant de l'expérience?
+R. Non, c'est surtout du monde qui ne sait pas souder et je leur dis de regarder ce que je fais que c'est comme ça qu'ils vont apprendre.
+Q. Comment établissez-vous l'horaire de vos employés?
+R. Ils n'ont pas d'horaire fixe. L'atelier est ouvert et je les prends quand ils arrivent. Il y a toujours moi ou Yvan Ambroise à l'atelier. Les horaires sont en fonction aussi des semaines qui manquent pour qu'ils fassent leurs timbres de chômage.
+Q. Comment établissez-vous le salaire de vos employés?
+R. C'est moi qui décide, quand je prends quelqu'un je lui dit «ton salaire c'est ça» c'est juste comme ça. Je paie des gros salaires pour que les gens fassent des gros timbres et aient un gros chômage aussi.
+Q. Y a-t-il seulement des soudeurs à l'atelier?
+R. Oui, juste des soudeurs.
+Q. De quelle manière procédez-vous pour faire établir les paies du personnel?
+R. Je vais voir M. Racine mon comptable et je lui dit qui a travaillé et combien d'heures, je n'ai pas de papier pour ça.
+Q. Ces données sont-elles exactes?
+R. Je pense que oui, ce sont les employés qui me disent combien d'heures ils ont fait, je n'ai pas de contrôle sur les horaires, je ne garde pas cela par écrit.
+Q. Pour quelles raisons avez-vous embauché M. Ambroise pour une période de 3 semaines entre le 20/11/95 et le 15/12/95?
+R. C'est parce qu'il lui manquait trois semaines pour faire son chômage.
+Q. Quelles étaient ses tâches?
+R. Au début il regardait ce que je faisais parce qu'il ne connaissait pas la soudure.
+Q. Pour quelles raisons aviez-vous besoin d'un journalier pour 3 semaines alors qu'il n'y avait pas de soudeur au registre de paie?
+R. Je n'en avais pas vraiment vraiment besoin mais je savais qu'il lui manquait des timbres et le bien-être ça ne paie pas beaucoup alors je voulais l'aider à faire ses timbres.
+Q. Qu'est-ce qui justifiait ce salaire?
+R. C'est juste parce que j'avais décidé de ce salaire et ça lui faisait un bon chômage.
+Q. Lors de sa fin d'emploi, M. Ambroise vous a-t-il dit qu'il souhaitait arrêter de travailler?
+R. Il me l'avait dit quand il avait commencé qu'il lui fallait tant de semaines et qu'il finirait après, mais il a continué à venir à l'atelier à toutes les semaines.
+Q. Quelles sont les qualifications de M. Ambroise comme soudeur?
+R. Il n'en avait pas, je lui montrais.
+Q. Pour quelles raisons n'avez-vous pas rappelé M. Ambroise lorsque vous avez embauché un autre soudeur 4 semaines après sa fin d'emploi?
+R. C'est un problème qu'on a nous les Indiens on ne reste pas longtemps sur une job et Yvan avait fait son chômage alors il n'était pas vraiment intéressé.
+Q. Pour quelles raisons avez-vous embauché M. Girard pour une période de 3 semaines entre le 2 et le 20 décembre 1996?
+R. Parce qu'il avait besoin de ces semaines-là.
+Q. Comment s'est fait son embauche?
+R. Il est venu à la shop, je ne le connaissais pas et il m'a demandé si j'avais de l'ouvrage parce qu'il lui manquait trois semaines. Je lui ai dit je n'ai pas d'ouvrage mais je t'engage quand même et je me souviens qu'il avait trouvé ça drôle.
+[14] En contre-interrogatoire, l'appelant a expliqué que les travailleurs n'avaient pas de certificat de compétence à titre de soudeur et qu'ils n'avaient pas d'heures fixes. L'appelant a nié qu'il avait engagé des travailleurs simplement pour que ces derniers, à qui ils manquaient des semaines d'emploi assurable, soient admissibles aux prestations d'assurance-chômage/assurance-emploi.
+[15] L'intervenant Yvan Ambroise, qui a été témoigné à l'audition de cet appel a déclaré avoir travaillé chez l'appelant pendant les périodes en litige à faire de la soudure mais a avoué ne pas détenir de certificat professionnel. Il a expliqué qu'il était le voisin de l'appelant et qu'ils étaient des amis depuis longtemps. Il a déclaré qu'il se rendait à l'atelier régulièrement et qu'il travaillait pour l'appelant à certaines périodes.
+[16] Yvan Ambroise a admis avoir signé une déclaration statutaire datée du 26 janvier 1999 (pièce I-2) et cela en toute liberté, mais après avoir relue celle-ci il en a nié certains passages et précisé, entre autres, que c'est l'appelant qui fixait les heures de travail. Il y a lieu ici de reproduire certains extraits de la déclaration de cet intervenant :
+Q. Comment avez-vous été engagé?
+R. J'allais faire mon tour pas mal souvent soit chez Ti-Kay à la maison ou au garage. Je lui ai dit que je voulais faire mes heures pour avoir mon chômage et il m'a dit que c'était correct parce qu'il avait de l'ouvrage.
+Q. Est-ce que c'est vous qui décidiez de votre horaire?
+R. Oui, c'est pas mal moi, je commençais à l'heure que je voulais et je finissais à l'heure que je voulais; je connais ça et je savais quoi faire.
+Q. Quel était votre horaire?
+R. C'était pas mal la même chose que cette année. C'est comme cette année, je savais combien d'heures je devais faire pour mon chômage et je les faisais mais Ti-Kay ne vérifiait pas si j'étais là ou si j'étais pas là.
+Q. Quand vous avez été voir M. Régis en 95, 97 et 98 quelle entente avez-vous prise avec lui pour finir après que vos timbres seraient faits?
+R. C'était pas une entente comme tel mais en 95 je lui ai dit qu'il me manquait 3 semaines, en 97 il me manquait 910 heures et en 98 il m'en manquait 420 heures. C'était entendu que je faisais mes timbres et ensuite que j'arrêtais mais on avait rien de signé pour cela.
+[17] Dans l'arrêt Laverdière c. Canada (ministre du Revenu national – M.R.N.), [1999] A.C.I. no 124, le juge Tardif de cette Cour, dans sa décision en date du 25 février 1999, s'exprimait ainsi :
+Par contre, je crois que le travail exécuté par l'appelant durant cette même période en 1992 ne constitue pas pour autant un véritable contrat de louage de services et ce, notamment, pour les raisons suivantes. Tout d'abord, seul un véritable contrat de travail peut rencontrer les exigences pour être qualifié de contrat de louage de services; un véritable contrat de louage de services doit regrouper certaines composantes essentielles dont une prestation de travail; son exécution doit être subordonnée à l'autorité du payeur de la rétribution. La rémunération doit être fonction de la quantité et qualité du travail exécuté.
+Toute entente ou arrangement prévoyant des modalités de paiement de la rétribution non pas en fonction du temps ou de la période d'exécution du travail rémunéré, mais en fonction de d'autres objectifs tel tirer avantage des dispositions de la Loi, vicie la qualité du contrat de louage de services.
+Cette appréciation est d'ailleurs valable pour toutes les périodes en litige ayant trait aux deux appelants. Les modalités d'un véritable contrat de louage de services doivent s'articuler autour de la prestation de travail à accomplir, d'un mécanisme permettant de contrôler l'exécution du travail et finalement, d'une rétribution correspondant essentiellement à la qualité et la quantité du travail exécuté.
+[...]
+Il en est ainsi au niveau de toute entente ou arrangement dont le but et l'objectif est d'étaler ou cumuler la rémunération due ou être due de manière à tirer avantage des dispositions de la Loi. Toute planification ou entente qui maquille ou altère les faits relatifs à la rétribution, dans le but de maximiser les bénéfices de la Loi, disqualifie le contrat de louage de services.
+[18] Le fardeau de la preuve incombait à l'appelant et il ne s'en est pas déchargé. Seulement deux des travailleurs visés dans cet appel ont témoigné et leurs témoignages ont démontré qu'il y avait eu arrangement entre eux et l'appelant dans le but de leur permettre d'accumuler les heures/semaines nécessaires pour les qualifier aux prestations d'assurance-chômage ou assurance‑emploi. Les déclarations statutaires déposées en preuve indiquent l'intention des parties à bénéficier des avantages de la Loi.
+[19] Les travailleurs étaient à l'emploi de l'appelant pour des périodes déterminées, soit le temps nécessaire pour leur permettre de se qualifier aux prestations d'assurance-emploi. La preuve a démontré que des travailleurs étaient engagés lors de périodes moins achalandées, soit durant l'hiver et qu'un travailleur était engagé le lendemain de la mise à pied d'un autre employé. Les salaires des travailleurs n'étaient pas fixés selon leur compétence mais simplement pour majorer les prestations d'assurance-emploi. L'appelant n'a déposé aucun document en preuve, soit le bilan financier, les registres de paie, les chèques ou autres pour corroborer son témoignage à l'effet que les travailleurs avaient réellement oeuvré à son atelier et que l'emploi de ces travailleurs était essentiel, selon les besoins, à la bonne marche de l'entreprise.
+[20] L'appelant, lors de son témoignage à l'audition de l'appel de Jean‑Guy Grégoire, a affirmé que ses réponses dans la déclaration statutaire étaient vraies alors qu'à l'audition de son appel il nie toutes les réponses y indiquées invoquant qu'il n'était pas, à ce moment-là, dans son état normal. Pour se dissocier de cette déclaration, il a déclaré qu'il consommait des stupéfiants de 1990 à 2000 mais ne peut affirmer s'il en avait consommé cette journée du 6 janvier 1999, soit la date de sa déclaration. Les témoignages de l'appelant ne sont pas crédibles et il est à noter que les déclarations statutaires des travailleurs et de l'appelant démontrent que le but recherché était pour les travailleurs de tirer avantage des dispositions de la Loi.
+[21] Pour les raisons précitées, l'emploi des travailleurs auprès de l'appelant n'était pas assurable pendant les périodes en litige puisqu'il n'existait pas de véritable contrat de louage de services entre l'appelant et les travailleurs conformément aux dispositions de l'alinéa 5(1)a) de la Loi.
+[22] En conséquence, l'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Ottawa, Canada, ce 4e jour de mars 2003.
+« J.F. Somers »
+J.S.C.C.I.
+RÉFÉRENCE :
+2003CCI36
+No DU DOSSIER DE LA COUR :
+2000-9(EI)
+INTITULÉ DE LA CAUSE :
+Julien Régis s/n Ti-Kay Sikuman Soudure enr. et M.R.N. et Jean‑Guy Grégoire, Yvan Ambroise, Jean‑Marc Blouin
+LIEU DE L'AUDIENCE :
+Sept-Îles (Québec)
+DATE DE L'AUDIENCE
+le 21 janvier 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge suppléant J.F. Somers
+DATE DU JUGEMENT :
+le 4 mars 2003
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimé :
+Me Alain Gareau
+Pour les intervenants :
+Avocat de Jean-Guy Grégoire:
+Yvan Ambroise lui-même
+Jean-Marc Blouin lui-même
+Me Raynald Bernatchez
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l'intervenant Jean‑Guy Grégoire:
+Nom :
+Me Raynald Bernatchez
+Étude :
+Me Raynald Bernatchez
+Sept-Îles (Québec)

@@ -1,0 +1,156 @@
+Title: Scott v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/100539/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-9-100539-scott-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-01-16
+
+# Scott v. The Queen
+
+- Citation: 2015 TCC 9
+- Decision date: 2015-01-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2793, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scott v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-01-16
+Neutral citation
+2015 TCC 9
+File numbers
+2013-1716(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-1716(IT)I
+BETWEEN:
+VANESSA SCOTT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 27, 2014, at Hamilton, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Devon Peavoy
+JUDGMENT
+The appeal from the re-determinations made under the Income Tax Act for the Appellant’s 2009 and 2010 base taxation years with regard to the Canada Child Tax Benefit and for the Appellant’s 2009 and 2010 taxation years with regard to the Harmonized Sales Tax Credit is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant and her spouse were separated due to a breakdown in their marriage and lived separate and apart from December 27, 2010 until June, 2012.
+Signed at Ottawa, Canada, this 16th day of January 2015.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2015TCC9
+Date: 20150116
+Docket: 2013-1716(IT)I
+BETWEEN:
+VANESSA SCOTT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] This appeal relates to the Appellant’s application for the Canada Child Tax Benefit (“CCTB”) for the 2009 and 2010 base taxation years (July 2010 to June 2011 and July 2011 to June 2012) and the Harmonized Sales Tax Credit (“HSTC”) for the 2009 and 2010 taxation years (July and October 2010; January, April, July and October 2011; and January and April 2012). The Minister of National Revenue (“the Minister”) assessed the Appellant for the periods from July 2010 to June 2012 for deemed overpayments of CCTB and HSTC.
+[2] The issue in this appeal is whether Jeffrey Scott, her spouse, was a “cohabiting spouse” of the Appellant during the periods July 2010 to June 2012.
+Preliminary motion [3] At the beginning of the hearing, the Appellant brought a motion to quash the Reply to Notice of Appeal (“the Reply”) and to allow the appeal to proceed unopposed. The grounds for the motion were that the Respondent had failed to file and serve a copy of the Reply on the Appellant within the time specified by subsection 6(2) of the Tax Court of Canada Rules (Informal Procedure) (“the Rules”).
+[4] Subsection 6(2) of the Rules reads:
+(2) Within five days after a reply is filed, the Minister of National Revenue shall serve a copy of it by registered mail addressed to the appellant’s address for service of documents.
+[5] The provision which speaks to the time limit for filing a Reply is contained in section 18.16 of the Tax Court of Canada Act (“TCCA”). The relevant parts of that section read:
+Time limit for reply to notice of appeal
+18.16 (1) The Minister of National Revenue shall file a reply to a notice of appeal within sixty days after the day on which the Registry of the Court transmits to that Minister the notice of appeal unless the appellant consents, before or after the expiration of the sixty day period, to the filing of that reply after the sixty day period or the Court allows the Minister, on application made before or after the expiration of the sixty day period, to file the reply after that period.
+...
+Where reply not filed in time
+(4) The Minister of National Revenue may file a reply to a notice of appeal after the period limited under subsection (1) or (3), as the case may be, and where that Minister files the reply after that period or after the extension of time consented to by the appellant or granted by the Court, the allegations of fact contained in the notice of appeal are presumed to be true for the purposes of the appeal.
+(5) The Minister of National Revenue may file a reply to a notice of appeal by mail and any such reply filed by mail shall be deemed to have been filed on the day on which it is mailed.
+[6] A review of the court documents showed that the Reply was filed on time. It was filed with the Court on July 8, 2013 which was within sixty days after the day on which the Court Registry sent the notice of appeal to the Minister and in accordance with subsection 18.16(1) of the TCCA.
+[7] On July 10, 2014, the Appellant informed counsel for the Respondent that she had not received the Reply. Counsel emailed the Reply to the Appellant and also sent it to her by registered mail on July 10, 2014.
+[8] Subsection 18.16(4) of the TCCA provides a sanction if the Reply is not filed on time. However, there is no sanction in subsection 6(2) of the Rules if the Reply is not served within five days after the Reply is filed. As a result, I dismissed the Appellant’s motion: Zhuang v R, [1996] 3 CTC 2886 (TCC); affirmed [1998] 3 CTC 284 (FCA).
+The Appeal [9] The term “cohabiting spouse” is defined in section 122.6 of the Income Tax Act (“ITA”) for the purposes of the CCTB and the HSTC as follows:
+“cohabiting spouse or common-law partner” of an individual at any time means the person who at that time is the individual’s spouse or common-law partner and who is not at that time living separate and apart from the individual and, for the purpose of this definition, a person shall not be considered to be living separate and apart from an individual at any time unless they were living separate and apart at that time, because of a breakdown of their marriage or common-law partnership, for a period of at least 90 days that includes that time;
+[10] The question under appeal was whether the Appellant and Jeffrey Scott were living “separate and apart because of a breakdown of their marriage” during the period under appeal. The onus was on the Appellant to establish the facts which would show that the determinations were incorrect.
+[11] The only witnesses at the hearing were the Appellant and Doris Arsenault, an Appeals Officer with the Canada Revenue Agency (“CRA”).
+Appellant’s Evidence [12] The Appellant and Jeffrey Scott were married in 2006. At the time of their marriage, the Appellant had two children from a previous marriage, N. M-R born 1996 and A. M-R born 1998. Although her spouse was not the biological father of these two children, he fulfilled all parental responsibilities with respect to them.
+[13] The Appellant and her spouse had three children together – S.S born 2008; C.S. born 2009; and J.S. born 2012.
+[14] According to the Appellant, she and her spouse lived together at 367 Yale Crescent, Oakville, Ontario until December 27, 2010 when they separated because of a breakdown in their marriage. She was not sure where her spouse lived after the separation but she continued to live in Ontario in the family home. After the separation, her spouse came to the family home to visit the children. At some point in time, her spouse moved to PEI for employment which commenced in May 2011.
+[15] The Appellant stated that, after the separation, she experienced financial difficulties and on April 21, 2011, she applied for social assistance from Ontario Works (“OW”). Her application was approved on May 5, 2011. However, this financial assistance was cancelled on August 3, 2011 because the Appellant started to receive non-taxable support income from her first spouse.
+[16] The Appellant stated that due to her financial problems, she asked her mother to live with her at the Yale Crescent address. I am not sure when the Appellant’s mother moved in with her because at first she stated that it was after the social assistance was cancelled, then she stated that it was June or July 2011 and in cross-examination she stated that it was October or November 2011.
+[17] It was the Appellant’s evidence that she became pregnant in May 2011. She asked her spouse if the two older children could live with him and attend school in PEI. These children were 13 and 15 years old at the time and they moved to PEI for the September 2011 to June 2012 school year.
+[18] According to the Appellant, she and the younger children continued to live in Ontario but they visited with her spouse and the older children in PEI for Christmas 2011. She became ill and was ordered by a physician that she was not to travel until her child was born. She gave birth to her son JS in PEI on February 8, 2012.
+[19] The Appellant stated that she and the younger children visited with her spouse and her older children during March break in 2012. She travelled to PEI again at the end of June 2012 to pick up her older children. The Appellant gave testimony and various documents to prove that although she visited her spouse and children in PEI she continued to live in Ontario during the period December 2010 to June 2012. These documents included:
+1. An application for social assistance from OW dated April 21, 2011.
+2. A letter dated May 5, 2011 from OW approving her application for financial assistance effective April 12, 2011.
+3. A letter dated August 3, 2011 from OW which informed her that her financial assistance had been cancelled because she received non-taxable support payments.
+4. A file card from the Royal Bank of Canada which showed her marital status as “separated” and that she had been a client since October 2011.
+5. An Order of the Ontario Court of Justice which showed that she attended court on May 13, 2011. This Order fixed the child support which her first spouse was ordered to pay.
+6. A registration form with the Ministry of Community and Social Services in Ontario for direct deposit of her support payments from her first spouse. The form was signed on November 24, 2011.
+7. A list of her appointments with a doctor at St. Michael’s Hospital in Toronto. The list was prepared by the hospital and included appointments in each month from June to December 2011 and June to August 2012. The Appellant had two doctor appointments in each of August, October, November and December 2011.
+8. Her Ontario driver’s licence which was issued on August 12, 2011.
+9. The health card for her son JS which showed that he had been registered for health insurance in Ontario on July 13, 2012.
+10. The Ontario immunization record for her son, JS. He received vaccinations in April, June and August 2012 and June and August 2013.
+11. Her T5007 for 2011 from the Canada Revenue Agency (“CRA”) which showed her address as Yale Crescent in Ontario.
+12. Her March 2011 TD Visa statement which was addressed to her at her Yale Crescent address. However, the Appellant redacted all of the purchases on the statement.
+13. An investment account statement for December 2011 addressed to the Appellant at her Yale Crescent address.
+14. A Separation Agreement which she and her spouse signed on August 18, 2011 stating that they had separated on December 27, 2010. It was registered with the Ontario Court of Justice on February 29, 2012.
+[20] It was the Appellant’s evidence that when she brought the children to PEI to visit with her spouse, she did not always stay with him. On March break, she dropped the younger children off and took the older children to Moncton. At this time, she stayed at a hotel in Moncton. She offered to get copies of the receipt for Ms. Arsenault, the Appeals Officer but Ms. Arsenault wrote that it was not necessary.
+Respondent’s Evidence [21] It was the Respondent’s position that the Appellant did not present sufficient evidence to establish that she and her spouse were living separate and apart. Ms. Arsenault stated that she requested the Appellant’s bank statements which the Appellant refused to provide. The bank statements would show where the Appellant was shopping during the period. She also asked for a letter from the school the children attended which would show who had registered the children at the school in PEI. The Appellant did not to provide these documents.
+[22] According to the documentary evidence presented by the Respondent, the Appellant was in PEI in April 2012. The envelope which contained the Appellant’s notice of objection was mailed from Charlottetown on April 26, 2012.
+[23] The Respondent also tendered an Order from the Office of the Director of Residential Rental Property for PEI. This Order was dated June 5, 2013 and listed the Appellant and her spouse as the lessees of a property in Kingston, PEI (the “property”). According to the Order, the lessees made an application on December 27, 2012 to have their security deposit returned. The application was heard on May 15, 2013 and according to the written reasons, the Appellant was present at the hearing.
+[24] Ms. Arsenault also read from her notes which had been made an exhibit. These notes were with respect to a conversation which Ms. Arsenault had with the owner of the property in Kingston, PEI. According to Ms. Arsenault, the owner of this property confirmed to her that Mr. Scott and his wife and children lived at the property. The lease on the property was from December 2011 until November 2012.
+Analysis [25] In a tax appeal, the Appellant has the initial onus to “demolish” the assumptions of fact made by the Minister by presenting a prima facie case. This initial burden is only to “demolish” the exact assumptions made by the Minister. Once the Appellant “demolishes” the Minister’s assumptions, the onus shifts to the Minister to present evidence to prove its assumptions: Hickman Motors Ltd v R, [1997] 2 SCR 336 at paragraphs 92 - 94.
+[26] As I stated earlier, the period at issue in this appeal is July 2010 to June 2012. In was the Appellant’s position that she and her spouse separated on December 27, 2010 and lived separate and apart thereafter because of a breakdown of their marriage. For the purposes of this appeal, the separation period is December 27, 2010 to June 2012. The dates pled in the assumption portion of the Reply were inaccurate and did not address the correct period under appeal. Some of the assumptions at paragraph 21 were:
+(b) at all relevant times during the 2009 and 2010 taxation years the Appellant and Jeffrey were living together in a relationship;
+(c) at all relevant times during the 2009 and 2010 taxation years the Appellant and Jeffrey were living together at 367 Yale Crescent, Oakville, Ontario (“the family home”);
+…
+(e) at no relevant time during the 2009 and 2010 taxation years did the Appellant and Jeffrey live separate and apart, because of a breakdown of their relationship, for a period of at least 90 days, including that time;
+The Appellant addressed the assumptions and agreed that she and her spouse lived together in 2009 and 2010 until December 27, 2010. It is my view that the pleadings were sloppy and as in the case of Bekesinski v R, 2014 TCC 245, they are detrimental to the Respondent’s success in this appeal. I note that these pleadings were prepared by an agent for the Respondent and not by the lawyer who argued the appeal.
+[27] The evidence tendered by the parties dealt primarily with whether the Appellant and her spouse lived “separate and apart” during the relevant period. The Appellant testified that she and her spouse separated on December 27, 2010 due to a breakdown of their marriage. There was no documentary evidence to establish the actual date that the Appellant and her spouse separated. However, there was evidence from Ms. Arsenault that the Appellant had given her a letter signed by a police officer in April 2011. The letter was not tendered as an exhibit but I gather from Ms. Arsenault’s evidence that the Appellant was in an “altercation” with her spouse and she was warned by the police that she was to stay away from him “except through a mutually agreed upon third party for child visitation/exchange”. It is my view that this evidence clearly established that in April 2011 there was a breakdown in the Appellant’s marriage. However, there was no documentary evidence to corroborate the Appellant’s evidence that the breakdown in the marriage lasted until June 2012, the end of the relevant period.
+[28] The Appellant explained that she and her spouse had sex in May 2011 when he came to visit the children. It was just something that happened and they did not get back together. She became pregnant with their third child who was born in February 2012. The Appellant did not know where her spouse lived after he left the family home on December 27, 2010 but she knew his telephone number.
+[29] The Appellant has testified that she and her spouse were not cohabiting in a conjugal relationship. Her spouse confirmed separately to an employee of the CRA in January 2011 that he and the Appellant were separated and he was paying support. However, there was no documentary evidence to show that he had to pay support or that he did pay support to the Appellant. The Separation Agreement which the Appellant and her spouse signed on August 18, 2011 did not have a clause with respect to support.
+[30] The evidence clearly established that the Appellant’s spouse moved to PEI for employment. His pay slip showed that he received his first pay at the end of May 2011.
+[31] The Appellant has given documentary evidence to show that she was present in Ontario for her doctor appointments in June to December 2011 and June 2012. She received mail in 2011 and 2012 at her address in Ontario. However, there would have been no problem for the Appellant to receive any mail sent to her at the Yale Crescent address in 2011 and 2012 because her mother lived at this address.
+[32] The Order from the Office of the Director of Residential Rental Property for PEI listed both the Appellant and her spouse as lessees of the property whereas the lease for the property clearly showed that the only lessee for the property was the Appellant’s spouse. The Appellant was present in PEI for the hearing of the application before the Director of Residential Rental Property. However, this hearing took place on June 4, 2013 which was outside the relevant period. I have given no weight to this Order and I have given no weight to the fact that it listed the Appellant as a lessee.
+[33] Although Ms. Arsenault’s notes and her testimony with respect to her conversation with the owner of the property in PEI were hearsay, I admitted them into evidence because this is an informal procedure appeal and the evidence was relevant to the appeal: Suchon v Canada, 2002 FCA 282. However, I have given no weight to the testimony which Ms. Arsenault gave with respect to her conversation with the owner of the property in PEI. This testimony went to the heart of the issue under appeal and the Appellant did not have an opportunity to cross examine the owner of the property in PEI.
+[34] Although the Appellant could not remember the date her mother moved into the Yale Crescent address with her, most of the Appellant’s testimony was consistent with the documents she presented and the previous statements she had made to the CRA at the objection stage of her appeal. Her credibility was not shaken in cross-examination.
+[35] It is my view that the Appellant presented a prima facie case to establish that she and her spouse separated on December 27, 2010 due to a breakdown in their marriage and they lived separate and apart from this date and during the benefit period. This shifted the onus to the Respondent. The Respondent presented hearsay evidence which was not sufficient to satisfy the onus which reverted to her. I cannot rely on this hearsay evidence to show that the Minister’s assessments were correct.
+[36] However my suspicions are raised by the fact that the Appellant did not give her bank statements and the children’s school registration forms to the CRA or at the hearing of this appeal.
+[37] Under the circumstances, I have no option but to allow this appeal.
+Signed at Ottawa, Canada, this 16th day of January 2015.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2015TCC9
+COURT FILE NO.:
+2013-1716(IT)I
+STYLE OF CAUSE:
+VANESSA SCOTT AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+October 27, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+January 16, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Devon Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

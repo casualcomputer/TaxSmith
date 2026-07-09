@@ -1,0 +1,143 @@
+---
+title: "Travel Now Pay Later (Canada) Corp v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25291/index.do"
+last_modified: "2003-10-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 805"
+citation2: ""
+neutral_citation: "2003 TCC 805"
+decision_date: "2003-10-31"
+language: "en"
+item_id: "25291"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2404
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:33:42.585000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "64bdbccfd5bca22787396577ae92bc23a3b64d36261d60001e55c31b0084f86c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Travel Now Pay Later (Canada) Corp v. The Queen
+
+- Citation: 2003 TCC 805
+- Decision date: 2003-10-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2404, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Travel Now Pay Later (Canada) Corp v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-31
+Neutral citation
+2003 TCC 805
+File numbers
+2003-1742(GST)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-1742(GST)I
+BETWEEN:
+TRAVEL NOW PAY LATER (CANADA) CORP.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 22,2003, at Calgary, Alberta
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Agent for the Appellant:
+Harold Heck
+Counsel for the Respondent:
+R. Scott McDougall
+____________________________________________________________________
+JUDGMENT
+The appeal from assessments made under the Excise Tax Act, in respect of all the Appellant's reporting periods between January 1, 1996 and March 31, 2002, is dismissed.
+Signed at Ottawa, Canada, this 31st day of October, 2003.
+"E.A. Bowie"
+Bowie J.
+Citation: 2003TCC805
+Date: 20031031
+Docket: 2003-1742(GST)I
+BETWEEN:
+TRAVEL NOW PAY LATER (CANADA) CORP.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] This appeal is from an assessment for goods and services tax (GST) under Part IX of the Excise Tax Act[1] (the Act). At issue is the correct method of computing the input tax credits (ITCs) to which the Appellant is entitled for the period between January 1, 1996 and March 31, 2002. The appeal was heard under the informal procedure of the Court. Mr. Harold Heck, who is the major shareholder and the directing mind of the Appellant, represented it. He was the only witness.
+[2] Mr. Heck developed the concept of a private label credit card to be issued under the name "Travel Now Pay Later" to be marketed by travel agencies to their customers to assist them in financing purchases of travel. He incorporated the Appellant company to develop and promote the concept. The Appellant supplies to travel agencies who join the right to participate in the credit card plan by issuing cards to their clients, and the physical supplies necessary for them to do so. For this they pay the Appellant a one-time set-up fee. Initially the fee was $925; later it was reduced to $199. The cards can be used to pay for travel, and also to purchase American Express travellers' cheques. Credit is supplied to the customers by Citifinancial Services Canada Ltd. (Citi). When a customer uses a card to make a purchase she signs a voucher that the travel agent submits to the Appellant; the Appellant in turn submits it to Citi. Citi deducts its fee from the face of the voucher, and pays the balance to the Appellant. The Appellant in turn deducts both the Citi fee and its own fee, and remits the balance to the travel agent. The Appellant also receives a commission on the sale of travellers' cheques.
+[3] It is common ground between the parties that the supply of the right to participate in the program, and the supplies that the agencies receive when they join the program, are taxable supplies made for a consideration equal to the set-up fee paid. It is also common ground that the supplies of credit and of travellers' cheques are financial services as defined by subsection 123(1) of the Act, and therefore are exempt services. The parties are also in agreement that the Appellant was not at any relevant time a financial institution as defined in the Act.
+[4] According to uncontested assumptions pleaded by the Minister of National Revenue (the Minister), the Appellant, in reporting under the Act, claimed ITCs for all the GST paid by it for all the supplies that it purchased during the period under review, making no allocation between those supplies used in its taxable activities and those used in its exempt activities. In its Notice of Appeal, and at the hearing, the Appellant now takes the position that there should be an apportionment, but that it should be on the basis that 40 per cent is to be attributed to exempt activities and 60 per cent to taxable activities. As I understand Mr. Heck's evidence, and his argument, this is based upon the proposition that the major part of the expenses of the company (and thus the goods and services acquired by it) were in support of his personal activity visiting and selling to travel agencies the right to participate in the Travel Now Pay Later credit card program. He goes on to assert that these expenses give rise only to the revenue from set-up fees paid by the agencies when they first join the program. He would attribute all of the revenue from commissions and from the credit card charge fees to the expenditures incurred to run the office, which he says are less than the expenses that he incurs travelling to visit the agencies. His thesis is that once he has sold the program to the travel agency the exempt transactions simply take place with no need to incur expense other than that associated with the work of the one clerk in the office who processes transactions.
+[5] As the assessor did not give evidence, and neither the assessments nor the audit report were put into evidence, it is somewhat difficult to say with certainty what was precisely the rationale behind the assessments in this case. However, as I understand the Reply to the Notice of Appeal and the argument of counsel, it appears that the Minister's assessments were arrived at by attributing the supplies acquired by the Appellant in each reporting period to taxable and exempt supplies made by it in the ratio of the commercial and exempt revenues that it earned in the period, and then applying section 141 of the Act, together with the Minister's administrative policy that 90 per cent or more satisfies the expression "all or substantially all". The result of this was to entitle the Appellant to ITCs in the early period of its existence when the set-up fees were a substantial part of its income and the fees from financial services were negligible. However, it was denied any ITCs in the later periods when the fees from credit cards and the commissions on travellers' cheques greatly exceeded the set-up fees.
+[6] The right to receive ITCs, and the manner in which they are to be computed, is governed by sections 169, 141 and 141.01 of the Act. I see no need to reproduce these sections. They are lengthy and complex, but at the hearing no argument was directed to them by either side, and I see no ambiguity in them. For the purposes of this appeal they may be summarized this way. The Appellant is entitled to receive ITCs only to the extent that it has paid GST on property or services that it has acquired for the purpose of making taxable supplies for consideration. Financial services are not taxable supplies, but the supply of the rights and property for which the Appellant receives set-up fees are. Where the Appellant has acquired property or services for the purpose of making both taxable and non-taxable supplies, an allocation must be made between them. The method of allocation must be fair and reasonable, and the same method must be used consistently.
+[7] In the present case it is not disputed that an allocation is required. All that is disputed is the method by which it should be done. The Appellant offered no evidence to establish the use to which the property and services purchased were put, other than his vague assertion that most of it was in support of his efforts to extend the number of travel agencies participating in the credit card arrangement. There was no evidence of an attempt to segregate the expenses according to their purpose. Nor was there any specific evidence resulting from an attempt to measure the time and effort of himself and of his staff in terms of their contribution to exempt and non-exempt supplies. Mr. Heck in his Notice of Appeal proposed a 60-40 ratio, but his evidence did not support this or any other specific ratio. The other impediment to accepting his argument is that, although he did not acknowledge this in his evidence, it is obvious that his own efforts, and the expenses for travel that they involved, do not go only to producing the set-up fees, as he would have us believe. Without his efforts in visiting the travel agencies and persuading them to become participants there would be no opportunity for the Appellant to earn either commissions on travellers' cheques sold through the agencies or profits from the credit card transactions. Clearly those expenditures make a very significant contribution to the generation of income from the financial services that the Appellant provides, although that contribution is certainly not capable of quantification on the evidence before me. The remaining method of allocation is that used by the Minister's assessor, which was to allocate the acquisitions in the ratio of the relative contributions to gross revenue of the exempt and the taxable supplies made by the Appellant. I find that to be the only method that is appropriate in this case.
+[8] The Appellant chose not to lead any evidence as to its financial results for the periods that are under appeal. The Respondent entered one somewhat rudimentary statement of profit and loss for the period between July 1, 1999 and June 30, 2000. The Respondent has, however pleaded the following assumptions of fact in the Reply to the Notice of Appeal:
+12. In so assessing the Appellant, the Minister relied on the following assumptions of fact:
+...
+(w) for the reporting periods ending between:
+(i) January 1, 1996 to December 31, 1996, no more than 82% of the supplies acquired by the Appellant were for use in the course of the Appellant's commercial activities;
+(ii) January 1, 1997 to December 31, 1997, no more than 30% of the supplies acquired by the Appellant were for use in the course of the Appellant's commercial activities;
+(iii) January 1, 1998 to December 31, 1998 no more than 11.40% of the supplies acquired by the Appellant were for use in the course of the Appellant's commercial activities;
+(iv) January 1, 1999 to December 31, 1999, no more than 5% of the supplies acquired by the Appellant were for use in the course of the Appellant's commercial activities;
+(v) January 1, 2000 to June 30, 2000, no more than 10.40% of the supplies acquired by the Appellant were for use in the course of the Appellant's commercial activities;
+(vi) July 1, 2000 to June 30, 2001, no more than 6% of the supplies acquired by the Appellant were for use in the course of the Appellant's commercial activities;
+(vii) July 1, 2001 to March 31, 2002, no more than 2% of the supplies acquired by the Appellant were for use in the course of the Appellant's commercial activities.
+[9] The Appellant took no specific objection to the Minister's application of the administrative policy that any percentage in excess of 90 is considered to be "substantially all". I would not want to be taken as endorsing that policy for all cases and for the purposes of all statutory references to "substantially all". Here the Appellant made no effort to lead the relevant evidence, and did not address the issue specifically in argument. In the three periods to which the policy was applied the percentages of revenue derived from commercial activities were 5 per cent, 6 per cent and 2 per cent. In that context, I am of the view that it is appropriate to consider that for those three periods the supplies acquired by the Appellant were substantially all for use in the course of its exempt activities. Although the Reply to the Notice of Appeal is not entirely clear on the point, I understand that to be the basis upon which the assessments under appeal were generated. The appeals will therefore be dismissed. There will be no Order as to costs.
+Signed at Ottawa, Canada, this 31st day of October, 2003.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2003TCC805
+COURT FILE NO.:
+2003-1742(GST)I
+STYLE OF CAUSE:
+Travel Now Pay Later (Canada) Corp.
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+October 22, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT:
+October 31, 2003
+APPEARANCES:
+Agent for the Appellant:
+Harold Heck
+Counsel for the Respondent:
+R. Scott McDougall
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. 1985 c. E-15 as amended.

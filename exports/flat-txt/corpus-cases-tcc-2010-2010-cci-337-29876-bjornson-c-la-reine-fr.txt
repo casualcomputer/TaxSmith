@@ -1,0 +1,149 @@
+Title: Bjornson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29876/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-337-29876-bjornson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-06-21
+
+# Bjornson c. La Reine
+
+- Citation: 2010 CCI 337
+- Decision date: 2010-06-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6433, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bjornson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-21
+Référence neutre
+2010 CCI 337
+Numéro de dossier
+2008-2456(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2456(IT)I
+ENTRE :
+SUSAN BJORNSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 22 avril 2010, à Edmonton (Alberta)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Robert Neilson
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu au moyen de l’avis de nouvelle cotisation, daté du 11 février 2008 et portant le numéro 50588, est accueilli sans qu’aucuns dépens soient adjugés.
+Signé à Vancouver (Colombie‑Britannique), ce 21e jour de juin 2010.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 19e jour d’août 2010.
+Hélène Tremblay, traductrice
+Référence : 2010 CCI 337
+Date : 20100621
+Dossier : 2008-2456(IT)I
+ENTRE :
+SUSAN BJORNSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. Les faits
+[1] L’appelante est mariée à Darrell Schacher (l’« époux »).
+[2] Le 20 août 1998, l’appelante et son époux ont acheté une fourgonnette GMC Savana Starcraft 1998 (la « fourgonnette ») au prix de 67 970,57 $.
+[3] Le ministre du Revenu national (le « ministre ») maintient que le 16 août 2000 ou vers cette date, l’époux a transféré à l’appelante le droit qu’il possédait sur la fourgonnette. (Nota : L’appelante et son époux n’admettent pas que ce transfert ait eu lieu.)
+[4] Le ministre a conclu qu’au moment où l’époux avait transféré à l’appelante le droit qu’il possédait sur la fourgonnette, la juste valeur marchande de la fourgonnette était de 43 000 $, le montant dû sur la fourgonnette s’élevant à 23 831,90 $. Le ministre a donc conclu que la fourgonnette avait, au mois d’août 2000, une valeur acquise de 19 168,10 $ pour l’appelante et son époux.
+[5] Le ministre a également conclu que l’appelante n’avait pas effectué de paiement en faveur de son époux lorsqu’elle a acquis son droit sur la fourgonnette, au mois d’août 2000.
+[6] Le ministre a conclu que l’époux, lorsqu’il avait transféré à l’appelante son droit sur la fourgonnette, devait un montant de 27 585,61 $ à l’Agence du revenu du Canada (l’« ARC ») au titre de l’impôt sur le revenu des particuliers impayé.
+[7] Par un avis de cotisation daté du 9 février 2007, le ministre a établi une cotisation à l’égard de l’appelante en vue d’inclure un montant de 15 584,05 $ dans le revenu de celle‑ci, conformément à l’article 160 de la Loi de l’impôt sur le revenu (la « Loi »).
+[8] Le 7 mars 2007, l’appelante a déposé un avis d’opposition.
+[9] Par un avis de nouvelle cotisation daté du 11 février 2008, le ministre a modifié le montant de la première cotisation en réduisant le montant dû par l’appelante d’un montant de 6 000 $, de sorte que le montant à payer était de 9 584,05 $.
+[10] L’appelante a déposé un avis d’opposition. Lorsque la nouvelle cotisation a été ratifiée, l’appelante a déposé un avis d’appel devant la Cour de l’impôt.
+B. Point en litige
+[11] Le paragraphe 160(1) de la Loi s’applique‑t‑il dans ce cas‑ci en vue d’exiger que l’appelante inclue le montant de 9 584,05 $ dans son revenu?
+C. Analyse et décision
+[12] Au cours du contre‑interrogatoire, les propos suivants ont été échangés entre l’avocat de l’intimée et l’appelante :
+[traduction]
+Me Neilson : Je crois comprendre que vous ne souscrivez pas au fait qu’il y a eu un transfert [de la fourgonnette].
+Mme Bjornson : C’est exact.
+(Transcription, page 66, lignes 23 à 25)
+[13] Au cours de l’instruction, M. Schacher a dit qu’à son avis :
+[traduction]
+[…] toute cette affaire, il semble que Revenu Canada dépasse complètement la mesure.
+(Transcription, page 97, lignes 8 à 10)
+[14] M. Schacher a dit ce qui suit :
+[traduction]
+Ils [l’ARC] viennent juste – ils viennent juste d’obtenir – ils nous ont évincés de la maison que nous avions depuis vingt ans. [...] [I]ls se sont débattus avec Susan devant les tribunaux pour sa moitié de la maison. Ils ont obtenu – ils ont finalement obtenu trois à quatre cent mille dollars et maintenant ils s’en prennent à elle, pourquoi? Un autre montant de 9 000 $? C’est – c’est incroyable. C’est ridicule. Cela dépasse totalement la mesure [...]
+(Transcription, page 97, lignes 11 à 18)
+Le juge : Avez‑vous fait faillite?
+M. Schacher : Oui. [Le 5 décembre 2009]
+(Transcription, page 98, lignes 16 et 17)
+(Nota : L’époux a dit qu’il devait un montant de 620 000 $ à l’ARC (transcription, page 99, ligne 15)).
+[15] Au cours de l’audience, l’époux a dit que selon une entente, si des actifs d’une valeur de 467 000 $ étaient confisqués, il ne serait pas obligé d’aller en prison. L’époux a également dit que deux semaines après la date de la transaction, il a fait l’objet d’une nouvelle cotisation à l’égard d’un montant additionnel de 249 000 $ au titre de l’impôt (transcription, page 101, lignes 14 à 21).
+[16] Il ressort des remarques susmentionnées que l’appelante et son époux ont eu, avec des représentants de l’ARC, une série de différends importants en matière d’impôt avant que l’opération ici en cause soit conclue. De toute évidence, les relations entre l’appelante, son époux et les représentants de l’ARC étaient fort tendues.
+[17] Comme il en a ci‑dessus été fait mention, l’appelante n’est pas d’accord pour dire que son époux lui a transféré le droit qu’il possédait sur la fourgonnette en 2000. L’appelante a dit qu’elle croyait comprendre que la fourgonnette lui avait toujours appartenu.
+[18] La pièce R‑1 indique que l’appelante et son époux ont acheté la fourgonnette conjointement le 20 août 1998, au prix de 67 970,57 $.
+[19] La pièce R‑2 est un acte de vente, daté du 16 août 2000, attestant le transfert à l’appelante du droit de M. Schacher sur la fourgonnette. La signature de M. Schacher sur l’acte de vente est attestée par Tom Henderson.
+[20] Lors du contre‑interrogatoire, M. Schacher a dit que l’appelante ne lui avait pas remis d’argent en échange de son droit sur la fourgonnette (transcription, page 103).
+[21] Compte tenu de la preuve mise à ma disposition (pièce R‑2), j’ai conclu que M. Schacher a transféré à l’appelante, le 16 août 2000, le droit qu’il possédait sur la fourgonnette.
+[22] Je dois maintenant déterminer la juste valeur marchande de la fourgonnette au 16 août 2000.
+[23] L’appelante et son époux ont déposé un document intitulé : [traduction] « Évaluation d’une voiture d’occasion » (pièce A‑1). Ce document a été préparé par Little Lot (Appraisals) Ltd. Le document était signé par Donald E. Danyluk, président de Little Lot (Appraisals) Ltd. Dans la pièce A‑1, M. Danyluk déclare qu’à son avis, la valeur de la fourgonnette au 16 août 2000 était de 21 658 $.
+[24] Dans son rapport d’évaluation, M. Danyluk fait certaines remarques fort importantes. Je cite la remarque suivante :
+[traduction]
+Achetée flambant neuve, le 25 février 1998. Le prix exact (de la fourgonnette neuve) est difficile à déterminer étant donné qu’il y avait eu échange de véhicules. L’échange est évalué à 15 000 $ en argent, un montant d’environ 37 000 $ ayant été payé pour combler la différence. Le prix estimatif du véhicule neuf est d’environ 52 000 $ et les prix n’ont pas beaucoup changé depuis lors.
+[25] Sous le titre : [traduction] « Remarques de l’évaluateur », pièce A‑1, M. Danyluk dit ce qui suit :
+[traduction]
+Les comptables agréées, lorsqu’ils établissent des déclarations de revenus et qu’ils calculent l’ « amortissement », utilisent souvent une ligne directrice que le fisc considère comme acceptable.
+L’amortissement est de 15 % au cours de la première année civile (12 mois), et ce, peu importe le mois au cours duquel l’achat a été effectué (la moyenne étant de 6 mois).
+L’amortissement est de 30 % au cours de la deuxième année civile et de 30 % au cours de chaque année ultérieure. En utilisant une échelle de 100 % à 0 %, nous obtenons 100 % = véhicule neuf, 85 % = véhicule au bout de six mois, 59,50 % pour un véhicule entre six mois et un an et demi, et 41,65 % pour un véhicule, entre une année et demie et deux années et demie.
+Le résultat final est le même, et ce, peu importe que l’on base les montants, aux fins de l’amortissement, sur le nombre de mois du véhicule, ou que l’on considère simplement la valeur comme étant de 85 % à la fin de 1998, de 59,50 % à la fin de 1999, de 41,65 % au cours de l’année 2000 et jusqu’à la fin de l’année 2000.
+41,65 % x 52 000 $ (prix estimatif du véhicule neuf) = 21 658 $.
+[26] L’avocat de l’intimée a cité Diane Major pour témoigner. Mme Major est agente des appels au bureau du district d’Edmonton de l’ARC. Mme Major a préparé une lettre datée du 24 juillet 2007 (pièce R‑7). Dans sa lettre, Mme Major concluait que la valeur de fourgonnette au 16 août 2000 était de 43 000 $.
+[27] Toutefois, Mme Major ne tient pas compte, comme elle devrait le faire, du fait que l’achat initial de la fourgonnette comportait l’échange d’une Ford 1993. Dans son rapport, M. Danyluk a réduit la valeur de la fourgonnette compte tenu du fait que la vente comportait l’échange d’une Ford 1993. En outre, rien ne montre que Mme Major ait de l’expérience en matière d’évaluation, alors que M. Danyluk est évaluateur de véhicules à moteur de profession.
+[28] Je retiens l’évaluation établie par M. Danyluk et je conclus que la juste valeur marchande de la fourgonnette était de 21 658 $ au 16 août 2000 et non de 43 000 $ comme l’a conclu le ministre.
+[29] La preuve indiquait que le montant dû à GMAC Financial à l’égard de la fourgonnette était de 23 831,90 $ (pièce R‑8). Il s’ensuit que, lorsque l’époux a transféré à l’appelante le droit qu’il possédait sur la fourgonnette, la valeur acquise de la fourgonnette était nulle. L’article 160 de la Loi ne s’applique donc pas dans ce cas‑ci.
+[30] L’appel est accueilli sans qu’aucuns dépens soient adjugés.
+Signé à Vancouver (Colombie‑Britannique), ce 21e jour de juin 2010.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 19e jour d’août 2010.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2010 CCI 337
+No DU DOSSIER DE LA COUR : 2008-2456(IT)I
+INTITULÉ : Susan Bjornson c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 22 avril 2010
+MOTIFS DU JUGEMENT : L’honorable juge L.M. Little
+DATE DU JUGEMENT : Le 21 juin 2010
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Robert Neilson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

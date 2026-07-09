@@ -1,0 +1,195 @@
+Title: Métal Sartigan Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27663/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-213-27663-m-tal-sartigan-inc-c-la-reine-en.md
+Document type: case_law
+Last modified: 2007-03-23
+
+# Métal Sartigan Inc. c. La Reine
+
+- Citation: 2007 TCC 213
+- Decision date: 2007-03-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 451, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Métal Sartigan Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-23
+Neutral citation
+2007 TCC 213
+File numbers
+2004-1191(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1191(IT)G
+BETWEEN:
+MÉTAL SARTIGAN INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on June 9, 2006, and March 27, 2007, at Québec, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Jean-Denys Rancouet
+Counsel for the Respondent:
+Janie Payette
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed, without costs, and the matter is referred back to the Minister of National Revenue, for reconsideration and reassessment, taking into consideration the fact that the fair market value of each of the buildings at issue is $175,000. To that is added the land value of $31,000 and ground-level improvements of $4,000, for a fair market value of $210,000 per unit, as of June 1, 1999, and July 1, 2000, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of May 2007.
+“François Angers”
+Angers J.
+Translation certified true
+on this 29th day of January 2008.
+François Brunet, Revisor
+Citation: 2007TCC213
+Date: 20070523
+Docket: 2004-1191(IT)G
+BETWEEN:
+MÉTAL SARTIGAN INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] The Appellant is appealing from the reassessments of September 10, 2002, pertaining to the 1999 and 2000 taxation years. During each of these taxation years, the Appellant transferred immovables to Raphaël Couture, a person with whom it is not at arm’s length. The Minister of National Revenue (the “Minister”) argued that due to this non-arm’s length relationship, the consideration was less than the value of the property at the time it was disposed of and that therefore the Appellant is deemed to have received consideration equal to this market value pursuant to paragraph 69(1)(b) of the Income Tax Act (the “Act”).
+[2] The Appellant was therefore assessed for each of the years in question based on the difference between the consideration received for the disposition of the properties and their fair market value (the “FMV”), according to the Respondent’s expert, and this is the difference that was included in the calculation of the Appellant’s income pursuant to subsection 9(1) of the Act.
+[3] Raphaël Couture is the Appellant’s director and president. He is the sole shareholder of 2163-1585 Québec Inc., and this company holds 50% of the shares of the Appellant. His brother, Gabriel Couture, is the sole shareholder of 2163-1517 Québec Inc., which, in turn, holds 50% of the shares of the Appellant.
+[4] Métal Sartigan has been active for years in the manufacturing of prefabricated steel buildings in the industrial and commercial sector. In order to pursue its activities during the period from November to May, it decided to see what it could do in the residential sector. Therefore, the Appellant manufactured what it calls a first residential block, which consists of a steel two-storey structure with a steel roof and two dwellings per floor. According to its president, Raphaël Couture, this was something completely new. So, they made three of them in 1999 and, again according to Mr. Couture, it became important to test their model before putting it on the market. Not only was the structure completely different because it was in steel, but it was pre-fabricated and installed differently. Yet, the structure was very solid and allowed for faster, but more expensive, construction. The cost, as accounted for by the Appellant, came to $487,985.15 for the three blocks.
+[5] With the aim of installing the built models, the Appellant purchased, on July 10, 1998, a lot of 8,911.9 square metres located on 6th Street (Dionne Boulevard) on the west side of the town of St-Georges-de-Beauce. This lot, purchased for $210,000, was subdivided into eight lots in 1999. According Raphaël Couture, this lot was particularly advantageous for the Appellant in that it was close to its factory, half a kilometre away, which would facilitate the installation and the test that had to be done. Moreover, there was no other four-dwelling building in this area of the town.
+[6] The first three blocks of four dwellings were then installed on three of the sub-divided lots in 1999 and, on February 1, 1999, Raphaël Couture acquired these three residential blocks for the reason that the Appellant did not operate a residential building management business and it needed cash. The sale was made during the Appellant’s fiscal year ending November 30, 1999, in consideration of $469,463.10 plus GST and TVQ, for a total of $540,000, or $180,000 per unit.
+[7] Testifying to justify the price paid, Mr. Couture asserted that he has been in the construction business for 45 years. He acknowledged that the first models cost the Appellant more, but that according to the information he had obtained, the price for a four-dwelling building was between $160,000 and $170,000 at the time of purchase. He explained that Dionne Boulevard is a busy street because it crosses the city and the municipal garage is close to the lots, causing a lot of noise and dust. In addition, the sale of these buildings was not subject to the guarantee offered by the Association provinciale des constructeurs d’habitation du Québec (APCHQ) or the Association de la construction du Québec (ACQ) because the Appellant was not certified by the APCHQ as a general contractor for new buildings. In order to obtain a building permit, a blueprint prepared by an architect was submitted to the municipal authorities, but apparently this blueprint did not comply with the building code. The blueprint does not indicate anything on this question and the architect did not testify.
+[8] In his balance sheet for the 1999 taxation year, Raphaël Couture stated that he obtained, in 1999, three lots and buildings for a total of $542,250, that is $60,000 for the lots and $482,250 for the buildings.
+[9] During its fiscal year ending November 30, 2001, the Appellant had another four-dwelling building erected for a recorded cost of $160,878.89. On June 19, 2000, it transferred this building and the lot on which it was built to Raphaël Couture for a consideration per unit similar to that of the previous year, price including the applicable taxes. The Appellant therefore included the amount of $180,000 in the calculation of its income and deducted the cost of the lot from its inventory. Mr. Couture stated that he had received everything for $180,000, that is $20,000 for the lot and $160,000 for the building, i.e. for the same consideration as in the previous year.
+[10] Each of the parties called real estate appraisal experts to testify and each of them prepared two reports and a counter-valuation. A first evaluation dealt with the FMV of the first three buildings and lots transferred in 1999 and the other dealt with the building and lot transferred in 2000. The report by the Respondent’s expert sets the FMV of the first three buildings at $702,000 $, that is $234,000 each, and the one from the following year at $241,000. The Minister asked that the difference between this FMV be added to the Appellant’s income. The first report of the Appellant’s expert appraised the FMV of the three buildings at $513,000, or $171,000, and that of the following year at $172,000.
+[11] The Respondent also offered in evidence municipal assessments of the property in question as well as an appraisal of one of the buildings prepared upon the request of Mr. Couture’s hypothecary creditor when financing the purchase of one of the buildings. The appraisal is dated May 3, 1999 and signed by Pierre Coulombe, accredited appraiser. Mr. Coulombe described the area as quiet, easily accessible and in a multi-family neighbourhood. The only favourable factor mentioned is described as the “peaceful residential area close to services.” No unfavourable factors are mentioned. In terms of improvements, a gravel parking lot, grass and a common shed are described. The direct comparison and cost methods were used to arrive at a market value of $190,000.
+[12] As to the cost method, he summarized his approach as follows:
+Lot (291m2 x $30.92 (exclusive part only)
+$ 9,000
+plus landscaping
+2,000
+plus habitable area (337m2 x $590.85)
+199,033
+minus economic depreciation (10%)
+19,903
+plus contributory value of dependencies
+2,000
+Total
+$192,130
+[13] In his direct comparison approach, he used five properties, including four comparable to the buildings at issue, that is properties with two floors and four dwellings, and another one of four floors and four dwellings. The sales took place in 1995 for two of them and in 1998 for three of them, and the prices were reassessed accordingly. He came to a price of $190,000 using this method.
+[14] In respect of municipal assessments, the buildings were assessed at $182,200 for each of the years in question. The lots were assessed at $2.18 per square foot prior to subdivision. It should be noted that each subdivision includes an exclusive part and a common part, of which each lot has a share assessed at $2.43 per square foot and the common part at $2.11 for a value of $29,929 per lot for municipal purposes. Hence, the municipal assessment of each building with lot is $212,129.
+[15] The properties in question, as already mentioned, are located in the municipality of St‑Georges-de-Beauce. This municipality is located on Quebec’s south shore, approximately 100 kilometres from Quebec City and 30 kilometres from the American border.
+[16] It is therefore a matter of determining the FMV of three four-dwelling properties for the 1999 taxation year and of a comparable property for the 2000 taxation year. The four dwellings have a habitable area of 3,626 square feet. The steel structure is supported by concrete sleeper walls. Its exterior is finished in enamelled steel and brick. The windows are made of PVC. The dwellings have 4.5 rooms each. The interior finishing, the kitchen, plumbing, heating and electricity are all conventional.
+[17] Each of the experts made their conclusions from applying recognized appraisal methods, i.e. the cost method, the direct comparison method or the income method with respect to the building. Both experts used the direct comparison method to appraise the land.
+[18] The lots for each of the buildings each have a surface area of 3,133 square feet for the exclusive portion and approximately 10,500 square feet for the common portion, calculated based on a share of each of the lots in this common portion. The two experts agree that the total surface area is 13,700 square feet. The lot has 90 feet of frontage and is 148 feet deep.
+[19] Réal Poulin is the accredited appraiser who testified for the Appellant. He is a partner in an accredited appraisal office with a place of business in St‑Georges-de-Beauce. He selected three vacant lot sales that took place in 1995 and 1996 for prices varying between $1.97 and $2.49 per square foot. These are lots with at least 100 feet of frontage and between 113 and 226 feet of depth. I point out this fact because Mr. Poulin’s report took into consideration an adjustment for surface area, which, he says, is necessary when the lots compared do not have the same depth. For the price per square foot to be representative, the depth tables must be developed from market data from the area where the lot is located. The lot has 90 feet of frontage and a depth of 148 feet, with an excess portion of 38 feet, which means that for everything beyond 100 feet of the depth, the unit rate represents 82.3% to 84.67% of the value. Mr. Poulin also argues that the properties in the east of the town sell for higher prices than those in the west, where the land in question is located. He therefore appraised the land at $24,500 per lot after having applied a depth adjustment, for a value of $1.79 per square foot. He applied these adjustments to the values of the lots used for comparison.
+[20] Gaston Laberge, the Respondent’s accredited appraiser, engaged in the same exercise, but used five comparison lots sold between 1995 and 1999, at a rate of between $1.98 and $3.13 per square foot, for an average of $2.70 per square foot and $37,000 per lot. He used a growth factor of 4%.
+[21] Mr. Poulin did not believe that the annual growth rate for the lots was 4%, and he believed that two of the comparable lots used by Mr. Laberge were not representative of the market, since they took place in particular circumstances, and should have been set aside. As for Mr. Laberge, he did not believe in the adjustments made by Mr. Poulin based on the depth of the lot because, despite this factor, certain lots were sold in 1999 and 2000 at a rate of $3 per square foot.
+[22] The following table summarizes the values obtained from different sources:
+(1) lot purchase of July 10, 1998
+$2.52/ft2
+(2) municipal assessment of the lot on January 22 /99
+date transaction – July 1/96 before subdivision
+$2.18/ft2
+(3) municipal assessment of lot after subdivision
+Exclusive parts:
+Common parts:
+$2.43/ft2
+$2.11/ft2
+(4) Mr. Poulin
+$1.79/ft2
+(5) Mr. Laberge
+$2.70/ft2
+[23] Obviously, each of the experts defended his position, which was based on his experience and the weight given to the adjustments. Is it plausible that the price of lots in St‑Georges-de-Beauce grows by 4% per year? Likewise, is it possible that the lots in the west of town are of lesser value than those on the east when used optimally? Is it plausible that, in the circumstances, the per square foot price can be adjusted based on the depth of the lot, while, it seems to me in this case, the exclusive part is worth more than the common part? Moreover, only the municipality seems to have made this distinction in its assessment by reducing the square-foot price by about 15%. None of the experts called to testify analysed this distinction which seems reasonable to me.
+[24] In my opinion, there is truth in everything the two experts said, except that in order to reconcile everything, it is almost necessary to look at the proximity of each lot compared with the subject and the history of each sale of these lots in order to understand the justification for the price paid. In addition, the Appellant wants to justify its price of $2.52 per square foot paid for the lot on July 10, 1998, by submitting that the lot was well adapted to the Appellant’s needs because it was located near the Appellant’s factory and that this explains a higher price.
+[25] After considering all of the evidence, I arrive at the conclusion that the FMV of the lots is the one paid by the Appellant in July 1998 at the time of purchase. This was a transaction between non-related persons, which is, in my opinion, generally the best indicator for establishing a FMV. The 4% increase added by Mr. Laberge was determined on the basis of a growth factor based on the comparisons, but the evidence is insufficient for me to find, on a balance of probabilities, that the lots in question would have known such an increase, given the transformation of a good part of the lots into common space. I also disagree with Mr. Poulin concerning his claim that the depth of a lot exceeding the standard reduces the lot’s value. The discrepancy, in this case, is too small to make a significant difference.
+[26] That being said, I am also of the opinion that the common space is of lesser value per square foot than the exclusive space, as recognized indeed by the municipality in its assessment. The municipality determined that there was a difference of about 15% between the per-square-foot value of the exclusive part and that of the common part. Therefore, I find that the FMV of the exclusive part of the lot is $2.52 per square foot and that of the common part is $2.20 per square foot, for a rounded off value of $31,000 for each lot and for each of the years in question.
+[27] Each of the expert reports dealt with what Mr. Poulin called ground-level improvements (gravel, concrete driveway) and Mr. Laberge called contributive value of landscape elements (shed, parking lot, grass). In the first case, the value is $2,000, and in the second it is $5,700. The difference in opinion is a matter of whether the shed and the grass were in place on the first date of assessment, i.e. June 1, 1999. According to Mr. Couture, the shed was not yet installed. However, the assessment performed for financing purposes on May 3, 1999, identified a common shed measuring 7.31 metres by 3.66 metres with a gravel parking lot and grass. Also, in his counter-valuation, Mr. Laberge referred to an asphalt parking lot although this was not the case. In view of these facts, I find that the sheds for each housing unit were installed at the relevant dates and that the parking lot was not asphalted. From this I find that the value of the ground-level improvements is $4,000 for each housing unit for each of the years in question.
+[28] As concerns the FMV of the buildings, the discrepancy between the two experts is fairly remarkable. This discrepancy is attributable to the percentage assigned under the heading “economic obsolescence” by Mr. Poulin, who assigned a value of 10%, and Mr. Laberge, who assigned only 5%, and to the fact that Mr. Poulin applied a deduction of 15% to the values obtained because the properties were sold without the legal warranty.
+[29] The submissions and cross-examinations of the experts also raised a good number of points that could influence the FMV established by each of the experts based on each of the methods used. In order to illustrate this discrepancy, which is about $60,000, a table is shown below, indicating the results obtained based on the methods used by each of them.
+Direct comparison method per unit
+Mr. Laberge
+Total value (lot and building) $234,000 with GIM (gross income multiplier) of 9.56.
+Mr. Poulin
+Total value of $200,772 with a GIM of 8.45 minus 15% for loss of value concerning the guarantee, totalling $171,000.
+Income method
+Mr. Laberge
+$234,800
+Mr. Poulin
+$193,224 minus 15% for the guarantee, totalling $164,000.
+Cost method (building only)
+Mr. Laberge
+$201,279 minus 5% for economic obsolescence, or $191,240, plus landscape elements ($5,700) and lot ($37,000) for a total of $234,000.
+Mr. Poulin
+$199,067 minus 10% for economic obsolescence and 15% for the guarantee, for a total of $152,286, plus landscape elements ($2,000) and lot ($24,500 $), totalling $179,000.
+[30] As concerns the manufacturing cost, Mr. Couture testified that it cost the Appellant $487,985 for the first three buildings in 1998-1999, i.e. $162,662 each. The price of the one built in 2000 was $160,878.89.
+[31] That being said, it must be noted that the experts did not agree on several of the data used in their calculations. For example, Mr. Laberge is faulted for using comparables subsequent to the date of the established assessment in the direct comparison method, but he defends himself by saying that the market conditions had not varied. He is also faulted for having used comparables outside of the town of St‑Georges or of having set aside sales of different character.
+[32] The same type of criticism has been made with regard to the income method. Called into question are the data used on estimated gross income, percentage used for vacancy rate, insurance costs, operating costs, administrative fees, annual percentage of the replacement reserve and the annual interest rate used. What I retain from all of this is that this is not the best method for a four-dwelling building since it is not as well adapted to investment as the six-dwelling building, as pointed out by Mr. Poulin in his counter-valuation, and because there are few buildings in St‑Georges.
+[33] In my opinion, the only method on which the two experts converge is the cost method. Indeed, they both arrived at a comparable result: $201,279 for Mr. Laberge and $199,067 for Mr. Poulin. This method is particularly well-adapted in the context of new buildings, such as in this case. I accept this method for the same reason that Tardif J. accepted it in Déziel v. Canada, [2002] T.C.J. No. 639, at paragraph 43, where he refers to a paragraph found in the Évaluation municipale et la valeur réelle, by Jacques Forgues, at pages 158, 159 and 167.
+[UNOFFICIAL TRANSLATION]
+This technique can always be used, unlike the two others, namely parity and income, which are sometimes unusable ... It is therefore, in principle, preferable to always use this technique, at least as a means of corroborating the result obtained by others.
+Certain complexes are easy to assess using the depreciated replacement cost technique. These include, for example, new complexes, as stated by the Board of Revision in Hilton Place Québec inc v. Ville de Québec, affirmed, on this point, by the Provincial Court. Based on the legal doctrine, the Board finds, along with Paul F. Wendt, that since the motel is new, the cost technique should be used and the result thereof retained. (pp. 158-159)
+. . .
+In brief, the depreciated replacement cost technique can always be used. It is particularly reliable for new buildings. (p. 167)
+[34] Indeed, that method has been used in other cases (Timber Lodge Limited v. The Queen, [1994] G.S.T.C. 73 and Charleswood Legion Non‑Profit Housing Inc. v. Canada, [1998] T.C.J. No. 503) where the properties, being relatively new, were well adapted to this method.
+[35] In this case, the difference between the two experts is characterized by the percentage used for economic obsolescence, i.e. 10% for Mr. Poulin and 5% for Mr. Laberge, and the 15% used by Mr. Poulin concerning the absence of warranty.
+[36] Economic obsolescence, according to Mr. Laberge’s report, comes exclusively from exterior causes independent of the property to be evaluated. It adds that the causes inherent to this deterioration can be multiple, but the most frequent ones are caused by social or economic changes, by modifications in the many zoning policies or by the proximity of an inharmonious element encouraging negative situations. Mr. Laberge assessed the economic obsolescence at 5% considering the housing market in St‑Georges and profitability.
+[37] As for Mr. Poulin, he pointed out that the evaluation of the housing market conditions made by Mr. Laberge was based on housing data from outside St‑Georges or subsequent to the assessment date selected and that, according to his own calculations, the economic obsolescence used by Mr. Laberge should have been 15% based on the selected comparable sales, while he used 10%. In view of those facts, I find it appropriate to rule on the issue by assigning an economic obsolescence of 7.5%.
+[38] Where the two experts’ opinions truly diverge is on the 15% durable and incurable functional obsolescence assigned by Mr. Poulin in the cost method, specifically based on a table that he drew up of properties sold without the legal warranty, which Mr. Laberge does not recognize.
+[39] In his report, Mr. Poulin summarized his position as follows:
+[TRANSLATION]
+The property under analysis is a four-dwelling property built in 1999. This property has a steel structure and was built by assembly of steel panels. The property in question was built using a process developed by the owner; which gives the property a particular character and represents an experimental-type property (prototype). Indeed, the firm Métal Sartigan Inc. built the property under analysis with a system similar to that of prefabricated properties (especially known and present in single-family residences), but which is as yet unproven or which had not been marketed. Since January 1, 1999, the law requires sellers of new residential properties to offer an APCHQ (Association Provinciale des Constructeurs d'Habitation du Québec) or ACQ (Association de la construction du Québec) warranty program protecting the consumer from potential problems or events. Given the type of property considered, neither the APCHQ nor the ACQ are willing to issue a certificate of new guarantee to the owner due to the risk inherent to the product offered. The property in question therefore is not subject to the legal warranty of five years provided to buyers of new homes through the programs of the ACQ (Association des Constructeurs du Québec) and/or the APCHQ (Association Provinciale des Constructeurs d'Habitation du Québec).
+This absence of warranty reduces the attractiveness of the property for a potential buyer and is a variable capable of significantly affecting the market value of a property or even prevent a potential sale. Without this warranty, the property in question does not have the same market value on the resale market since the buyer does not have the same security afforded to buyers of a so-called comparable property with this warranty.
+The current owner must disclose the fact that the property under analysis is of non-standard construction and that it represents an unproven prototype without official recognition from the competent authorities, which amounts to saying that the property must be sold "as is", without legal warranty. This type of transaction is often used by lending institutions that sell a property following a mortgage foreclosure; they must sell without regard to the quality or the condition of the properties. It should be noted that properties without legal warranty sell at 20% below the municipal assessment based on the average, or 15% based on the median. We find that the median is an excellent indicator of the market value of the property under analysis.
+[40] Mr. Roberge responded to these comments as follows:
+[TRANSLATION]
+In my opinion, steel structures for residential buildings have been on the market for many years; in addition, this is in compliance with the building code. Concerning the claim that the APCHQ is unwilling to issue a guarantee certificate to the owner due to the risk inherent to the product offered, I checked with the APCHQ and the Régie du Bâtiment du Québec. That is without consequence if the building conforms to the standards of the residential building code and meets the criteria set out in the Regulation respecting the Guarantee plan for new residential buildings.
+Since January 1, 1999, the warranty plan for new residential buildings has been compulsory for accredited construction businesses. However, to subscribe to and offer a new residence warranty plan, the construction must be carried out by a general contractor in the residential sector holding an RBQ licence 3031 or 3032 and accredited by one of the guarantee plan administrators. Currently, three organizations are authorized to administer the warranty plan: the Garantie habitation du Québec Inc, the Garantie des bâtiments résidentiels neufs de l'APCHQ Inc and the Garantie des maîtres bâtisseurs Inc.
+Since (Métal Sartigan Inc) is a contractor specialized in framing and architectural components, construction, locksmithing and metallic coverings with licences 4201, 4220 and 4224, this business is not recognized as a general contractor with licences 3031 or 3032. Therefore, it cannot offer this warranter plan.
+A business or an individual holding a builder-owner licence may build on its own behalf, execute or have executed construction work. These constructions are not eligible for the warranty plan. In addition, the first three constructions under analysis were started prior to January 1999, this new home warranty plan did not exist. For the construction realized in 1999-2000, the contractor-builder must have licence 3031 or 3032 and be accredited by one of the warranty plan managers.
+[41] The warranties in question did not exist when construction of the first three properties commenced and they would not have been available at the time of the sale of the building of 2000, since the Appellant was not a contractor-builder holding licence 3031 or 3032.
+[42] Mr. Laberge maintains that the buyer still has the warranties provided for in the Civil Code of Québec (the “Code”) in that a builder-owner is still responsible for latent and other defects. According to him, warranty plans facilitate the settlement of a dispute between buyer and seller in that they cover the cost of the required corrective measures based on certain guidelines.
+[43] Nonetheless, regardless of the year of the sale, the Appellant could not provide this warranty because the Appellant was not accredited in 2000 and because this warranty was perhaps not available in 1999, given that the construction had started in 1998. It must be acknowledged that the Code does provide for a remedy, although it is no doubt more cumbersome. I am not convinced that an absence of warranty gives rise to a situation equivalent to a sale made after foreclosure.
+[44] I am however willing to allow a certain percentage of obsolescence under this heading due to the fact that the product is new and different for the residential sector and could have come with a certain risk at the time of the operations. I am not referring to the quality of the structure, but rather to the doubts that a buyer may have, particularly concerning insulation problems, a steel roof and possible condensation problems mentioned by Mr. Couture in his testimony. The photos filed as evidence show us a style of housing different from comparable structures in the west side of town and near a municipal lot with certain disturbing activities. I am therefore willing to allow obsolescence of 5% under this heading.
+[45] I therefore set the fair market value of each building at $200,000, minus economic obsolescence of 7.5% and functional obsolescence of 5% for a total of $175,000. Added to that are the value of the lot, at $31,000 and ground-level improvements of $4,000 for a FMV of $210,000 per unit on June 1, 1999, and July 1, 2000.
+[46] Therefore, the appeals are allowed and, given the mitigated success of this case, no costs are awarded.
+Signed at Ottawa, Canada, this 23rd day of May 2007.
+“François Angers”
+Angers J.
+Translation certified true
+on this 29th day of January 2008.
+François Brunet, Revisor
+CITATION: 2007TCC213
+COURT FILE NUMBER: 2004-1191(IT)G
+STYLE OF CAUSE: Métal Sartigan Inc. and Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: June 9, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: May 23, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Jean-Denys Rancouet
+Counsel for the Respondent:
+Janie Payette
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jean-Denys Rancouet
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

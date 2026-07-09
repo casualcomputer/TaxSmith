@@ -1,0 +1,210 @@
+---
+title: "Hendricken c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28421/index.do"
+last_modified: "2008-01-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 48"
+citation2: ""
+neutral_citation: "2008 CCI 48"
+decision_date: "2008-01-24"
+language: "fr"
+item_id: "28421"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1220
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:13:44.437000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "960346d9657f4fc6b7f6a45ac7073061b1b7564c6497fe1d1c60076a1572efa4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hendricken c. La Reine
+
+- Citation: 2008 CCI 48
+- Decision date: 2008-01-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1220, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hendricken c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-01-24
+Référence neutre
+2008 CCI 48
+Numéro de dossier
+2006-2889(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2889(IT)I
+ENTRE :
+DARLENE HENDRICKEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 5 décembre 2007,
+à Charlottetown (Île-du-Prince-Édouard).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de l’appelante :
+Me Matthew Bradley
+Avocate de l’intimée :
+Me Devon Peavoy
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations concernant :
+a) les rajustements apportés à l’impôt dû par l’appelante pour les années d’imposition 2000, 2001 et 2002;
+b) le crédit pour taxe sur les produits et services payé en trop pendant la période de juillet 2001 à janvier 2004, inclusivement;
+c) la prestation fiscale canadienne pour enfants payée en trop pendant la période de juillet 2001 à mars 2004, inclusivement;
+sont rejetés sans dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 24e jour de janvier 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 1er jour de février 2008.
+Marie-Christine Gervais, traductrice
+Référence : 2008CCI48
+Date : 20080124
+Dossier : 2006-2889(IT)I
+ENTRE :
+DARLENE HENDRICKEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Une nouvelle cotisation a été établie à l’égard de l’appelante pour recouvrer le crédit de taxe sur les produits et services (le « CTPS ») payé en trop pendant la période allant de juillet 2001 à janvier 2004, inclusivement, ainsi que la Prestation fiscale canadienne pour enfants (la « PFCE ») payée en trop pendant la période allant de juillet 2001 à mars 2004, inclusivement. Les années d’imposition visées pour ce qui est du CTPS payé en trop et les années de base visées pour ce qui est de la PFCE payée en trop sont les années 2000, 2001 et 2002. Le ministre du Revenu national (le « ministre ») a établi les cotisations en tenant pour acquis que l’appelante vivait en union de fait pendant ces années et qu’il aurait fallu tenir compte du revenu de son conjoint de fait pour déterminer son admissibilité à ces crédits. De plus, d’autres montants déduits par l’appelante à titre de frais de garde d’enfants, de même qu’un crédit d’impôt demandé pour une personne entièrement à charge au titre de l’alinéa 118(1)b) de la Loi de l’impôt sur le revenu (la « Loi »), ont été refusés pour les années d’imposition 2000, 2001 et 2002. La question en litige à l’égard de chacun de ces montants est de savoir si l’appelante et Harold Curran (ci‑après « M. Curran ») étaient des conjoints de fait pendant les années d’imposition 2000, 2001 et 2002.
+[2] Le terme « conjoint de fait » est défini ainsi au paragraphe 248(1) de la Loi :
+« conjoint de fait » Quant à un contribuable à un moment donné, personne qui, à ce moment, vit dans une relation conjugale avec le contribuable et qui, selon le cas :
+a) a vécu ainsi tout au long d'une période d'un an se terminant avant ce moment;
+b) est le père ou la mère d'un enfant dont le contribuable est le père ou la mère, compte non tenu des alinéas 252(1)c) et e) ni du sous‑alinéa 252(2)a)(iii).
+Pour l'application de la présente définition, les personnes qui, à un moment quelconque, vivent ensemble dans une relation conjugale sont réputées, à un moment donné après ce moment, vivre ainsi sauf si elles ne vivaient pas ensemble au moment donné, pour cause d'échec de leur relation, pendant une période d'au moins 90 jours qui comprend le moment donné.
+[3] Il y a une modification proposée à l’alinéa a) de la définition ci‑dessus, laquelle modification s’appliquera, comme elle a été proposée, aux années 2001 et suivantes. Comme M. Curran est le père des quatre enfants de l’appelante, cette modification proposée n’aura pas d’incidence sur le règlement du litige, étant donné que la condition énoncée à l’alinéa b) est remplie. L’appelante conteste le fait qu’elle vivait en union de fait avec M. Curran pendant les années en cause.
+[4] L’appelante et M. Curran vivent dans la même maison et dans les mêmes conditions de logement depuis environ les 20 dernières années. L’appelante et M. Curran ont eu quatre enfants ensemble. Les enfants sont nés en 1988, en 1991, en 1995 et en 1998. L’appelante et M. Curran ont tous les deux témoigné à l’audience et confirmé que, pendant les périodes en cause et jusqu’à aujourd’hui, ils ont eu des relations sexuelles ensemble et n’en ont pas eu avec d’autres personnes.
+[5] L’appelante et M. Curran possèdent trois parcelles de terrain en tant que tenants conjoints et non pas en tant que tenants communs. La maison dans laquelle ils habitent (et ce, depuis les 20 dernières années) n’est pas détenue conjointement. Cette propriété est enregistrée au nom de M. Curran. La parcelle de terrain de 49 acres qui est adjacente à la maison est l’une des trois parcelles de terrain dont l’appelante et M. Curran sont propriétaires en tant que tenants conjoints. Un bâtiment dans lequel l’appelante a exploité une garderie a été bâti sur cette parcelle de terrain de 49 acres en 1998 ou en 1999 et une annexe au bâtiment a été construite en 2000.
+[6] Les témoignages de l’appelante et de M. Curran étaient contradictoires en ce qui concerne les conversations qu’ils ont eues. L’appelante a indiqué que toutes les conversations qu’ils avaient n’étaient que des discussions d’affaires, mais M. Curran a clairement indiqué qu’ils parlaient également d’autres choses. J’accepte son témoignage et je conclus qu’ils avaient des discussions générales à propos de nombreuses choses, dont des questions d’affaires.
+[7] L’appelante et M. Curran ont une entreprise dans le cadre de laquelle ils exploitent un terrain de golf et un restaurant. L’appelante a indiqué qu’ils avaient principalement une relation d’affaires. Pour ce qui est des dépenses du ménage, M. Curran s’occupait de la maison et effectuait les travaux d’entretien. Il payait également les factures d’électricité et de chauffage. L’appelante achetait les provisions et les vêtements pour les enfants. M. Curran mangeait généralement au restaurant et non pas avec l’appelante. M. Curran dormait seul dans sa propre chambre dans la maison la plupart des nuits, et la porte de sa chambre était habituellement verrouillée. L’appelante dormait seule la plupart des nuits.
+[8] L’appelante et M. Curran avaient leurs propres comptes bancaires et leurs propres véhicules.
+[9] En ce qui concerne les activités sociales, l’appelante et M. Curran assistaient aux veillées mortuaires ensemble. Toutefois, pour la plupart des autres activités, ils arrivaient séparément. L’appelante a indiqué que cela était en grande partie dû à son travail. Elle travaille comme technicienne forestière et comme cuisinière au restaurant. Elle a mentionné qu’ils utilisaient généralement chacun leur propre véhicule pour se rendre aux activités sociales.
+[10] Un de leurs enfants est atteint du syndrome de Down et a des problèmes d’audition et des problèmes cardiaques. L’enfant doit donc régulièrement recevoir des soins médicaux. L’appelante a indiqué que c’était elle qui amenait l’enfant à ses rendez‑vous médicaux et, lorsqu’elle n’était pas disponible, elle demandait à sa mère de le faire. M. Curran n’amenait l’enfant à ses rendez‑vous que si personne d’autre n’était disponible. Le même arrangement – soit l’appelante, puis la mère de celle‑ci et, finalement, M. Curran, si personne d’autre n’était disponible – s’appliquait également aux autres enfants.
+[11] L’appelante et M. Curran avaient des inscriptions distinctes dans l’annuaire téléphonique. De plus, ils ne se sont jamais offerts de cadeaux.
+[12] Dans la décision Milot v. Her Majesty the Queen, [1996] 1 C.T.C. 2247, la juge Lamarre Proulx décrit brièvement les critères à examiner pour décider s’il y a une union conjugale. Elle a mentionné ce qui suit :
+11 Cette définition nous amène à considérer la notion d'union conjugale. Quand deux personnes peuvent-elles être considérées comme vivant en union conjugale? Cette notion a été souvent étudiée pour les fins de différentes lois statutaires. Au Québec, par exemple, cette notion a été étudiée pour l'application, notamment, de la Loi sur l'assurance automobile, L.R.Q.C. a‑25, art. 2, al. 2, et de la Loi sur le régime de rentes du Québec, L.R.Q., c. R‑9, art. 91. Voir Les personnes et les familles, Knoppers, Bernard et Shelton, Tome 2, Les éditions Adage, dont le premier chapitre est intitulé « Les familles de fait ». On y lit que la cohabitation est fondamentale à l'union de fait ainsi que le comportement conjugal. Ce comportement se constate par les relations sexuelles, l'échange affectif et intellectuel, le soutien financier et la notoriété.
+12 Les auteurs ontariens Payne et Payne dans leur livre Introduction to Canadian Family Law, Carswell, 1994, se sont référés au jugement du juge Kurisko dans Molodowich v. Penttinen 17 R.F.L. (3d) 376. Je cite ces auteurs aux pages 38 et 39 parce qu'il me semble qu'il s'agit d'une excellente synthèse des éléments qui doivent s'appliquer pour déterminer si deux personnes vivent en union conjugale :
+[traduction]
+Ce ne sont pas toutes les situations dans lesquelles un homme et une femme vivent ensemble et ont des rapports sexuels qui feront naître, aux termes de la loi, des droits et des obligations alimentaires. Comme l'a fait remarquer le juge Morrison de la Cour d'appel de la Nouvelle‑Écosse :
+Je crois qu’il est exact de dire que, pour qu'il y ait union de fait, il doit exister des relations stables qui comportent non seulement des rapports sexuels, mais aussi l'engagement des intéressés l'un envers l'autre. Il faudrait normalement qu'ils vivent sous le même toit, qu'ils se partagent les tâches et les responsabilités du ménage et qu'ils se soutiennent financièrement.
+On trouve dans un jugement de la Cour de district de l'Ontario un énoncé plus précis de ce qui constitue de la cohabitation ou des relations conjugales ou assimilables au mariage. Le juge Kurisko de la Cour de district y dresse en effet la liste suivante des points pertinents :
+1. Logement
+a) Les intéressés vivaient‑ils sous le même toit?
+b) Couchaient‑ils dans le même lit?
+c) Y avait‑il quelqu'un d'autre qui habitait chez eux?
+2. Comportement sexuel et personnel
+a) Les intéressés avaient‑ils des rapports sexuels? Si non, pourquoi?
+b) Étaient‑ils fidèles l'un à l'autre?
+c) Quels étaient leurs sentiments l'un pour l'autre?
+d) Existait‑il une bonne communication entre eux sur le plan personnel?
+e) Prenaient‑ils leurs repas ensemble?
+f) Que faisaient‑ils pour s'entraider face aux problèmes ou à la maladie?
+g) S'offraient‑ils des cadeaux à des occasions spéciales?
+3. Services
+Comment les intéressés agissaient‑ils habituellement en ce qui concerne :
+a) la préparation des repas;
+b) le lavage et le raccommodage des vêtements;
+c) les courses;
+d) l'entretien du foyer;
+e) les autres services ménagers?
+4. Relations sociales
+a) Les intéressés participaient‑ils ensemble ou séparément aux activités du quartier et de la collectivité?
+b) Quelle était la nature des rapports de chacun d'eux avec les membres de la famille de l'autre et comment agissaient‑ils envers ces derniers, et inversement, quel était le comportement de ces familles envers les intéressés?
+5. Attitude de la société
+Quelle attitude et quel comportement la collectivité avait‑elle envers les intéressés, considérés individuellement et en tant que couple?
+6. Soutien (économique)
+a) Quelles dispositions financières les intéressés prenaient‑ils pour ce qui était de fournir les choses nécessaires à la vie (vivres, vêtements, logement, récréation, etc.) ou de contribuer à les fournir?
+b) Quelles dispositions prenaient‑ils relativement à l'acquisition et à la propriété de biens?
+c) Existait‑il entre eux des arrangements financiers particuliers que tous deux tenaient pour déterminants quant à la nature de leurs relations globales?
+7. Enfants
+Quelle attitude et quel comportement les intéressés avaient‑ils à l'égard des enfants?
+Comme l'a dit en outre le juge Kurisko, la mesure dans laquelle il sera tenu compte de chacun des sept éléments énumérés ci-dessus sera nécessairement fonction des circonstances de chaque cas.
+[13] Dans la décision Rangwala v. Her Majesty the Queen, [2000] 4 C.T.C. 2430, (2000) 54 DTC 3652, la juge Campbell a formulé les commentaires suivants :
+25 Si l’on examine la jurisprudence pertinente, il est clair que chacun des critères doit recevoir le poids qu'il convient de lui accorder dans le contexte de chaque cause particulière pour qu’on puisse déterminer si une union conjugale existe ou non. De par sa nature, chaque cas présente un ensemble unique de faits auxquels doivent être appliqués les sept critères établis dans l'affaire Moldowich. Cette approche est destinée à assurer une certaine souplesse pour ce qui est de la décision à rendre dans chaque cas.
+[14] Dans la décision Roby v. Her Majesty The Queen, [2002] 1 C.T.C. 2579, le juge en chef adjoint Bowman (tel était alors son titre) a mentionné ce qui suit :
+7 Dans l'affaire Kelner c. La Reine, C.C.I., no 94-868 (IT)I, 29 septembre 1995 ([1996] 1 C.T.C. 2687), j'ai passé en revue la jurisprudence qui existe dans ce domaine et j'ai conclu qu'il était possible que des époux vivent « séparés » tout en demeurant sous le même toit. Cette proposition est inattaquable sur le plan du droit, mais, sur le plan des faits, il est toujours nécessaire de produire une preuve convaincante. Dans les affaires Rangwala c. La Reine, C.C.I., no 2000‑993 (IT)I, 19 septembre 2000 ([2000] 4 C.T.C. 2430), et Raghavan c. La Reine, C.C.I., no 2000‑2088 (IT)I, 26 avril 2001 ([2001] 3 C.T.C. 2218), la juge Campbell en est arrivée à la même conclusion.
+8 On ne fait certainement pas erreur en prenant comme point de départ la décision rendue par le juge Holland dans l'affaire Cooper v. Cooper (1972), 10 R.F.L. 184 (H.C. de l'Ont.), où il a déclaré à la page 187 :
+[traduction]
+Peut‑on dire que les parties en cause en l'espèce vivent séparées? Nul doute que des époux qui vivent sous le même toit peuvent aussi vivre séparés l'un de l'autre dans les faits. Le problème a souvent été examiné dans le cadre de litiges fondés sur le sous‑alinéa 4(1)e)(i) de la Loi sur le divorce, et, généralement parlant, les juges en sont arrivés à la conclusion que les parties vivaient séparées lorsque les circonstances suivantes étaient présentes :
+(i) Les conjoints occupent des chambres à coucher distinctes.
+(ii) Les conjoints n'ont pas de relations sexuelles.
+(iii) Il y a peu de communication entre les conjoints, pour ne pas dire aucune.
+(iv) La femme n'effectue pas de travaux ménagers pour le mari.
+(v) Les conjoints prennent leur repas séparément.
+(vi) Les conjoints n'ont pas d'activités sociales communes.
+Voir les affaires Rushton v. Rushton (1968), 1 R.F.L. 215, 66 W.W.R. 764, 2 D.L.R. (3d) 25 (C.-B.); Smith v. Smith (1970), 2 R.F.L. 214, 74 W.W.R. 462 (C.-B.); Mayberry v. Mayberry, [1971] 2 O.R. 378, 2 R.F.L. 395, 18 D.L.R. (3d) 45 (C.A.).
+9 La juge Campbell et moi‑même avons tous deux considéré que ces critères constituent un guide utile, quoiqu'ils ne soient nullement exhaustifs et qu'aucun d'eux ne soit déterminant. Je suis enclin à souscrire aux observations formulées par le juge Wilson dans l'affaire Macmillan-Dekker v. Dekker, 4 août 2000, dossier 99‑FA‑8392, et citées par la juge Campbell dans l'affaire Rangwala, à la page 7 (C.T.C : aux pages 2435 et 2436) :
+[traduction]
+Se basant sur une synthèse de la jurisprudence, la Cour a établi une liste faisant état de sept facteurs à utiliser pour déterminer si une union conjugale existe ou existait. Ces questions d'organisation permettent au juge présidant un procès de voir la relation globalement pour déterminer si les parties vivaient ensemble comme conjoints. Le fait de tenir compte de ces sept facteurs permettra d'éviter que l'accent soit mis à tort sur un facteur à l'exclusion d'autres facteurs et de faire en sorte que tous les facteurs pertinents soient pris en considération.
+[…]
+Je conclus qu'il n'y a pas un seul et unique modèle statique d'union conjugale ou de mariage. Il y a plutôt un groupe de facteurs reflétant la diversité des unions conjugales et mariages qui existent dans la société canadienne moderne. Chaque cas doit être examiné selon les faits objectifs qui lui sont propres.
+[15] En l’espèce, l’application de certains des critères énoncés dans Milot aux faits semble indiquer qu’il y avait une union conjugale, et l’application d’autres critères tend à indiquer qu’il n’y avait pas d’union conjugale.
+[16] En ce qui concerne le logement, l’appelante et M. Curran vivaient sous le même toit, et même si, en général, M. Curran dormait seul dans sa chambre, l’appelante dormait parfois avec lui, et il en a été ainsi tout au long de la période. Personne d’autre que l’appelante, M. Curran et leurs enfants n’a habité dans la maison.
+[17] Les parties ont eu des relations sexuelles tout au long de la période et continuent d’en avoir, même s’ils ont tous les deux admis n’en avoir qu’à l’occasion. Ils sont restés fidèles l'un à l'autre. Les sentiments qu’ils éprouvaient l’un pour l’autre étaient du respect et de l’amitié.
+[18] Je conclus que l’appelante et M. Curran communiquaient entre eux sur le plan personnel, et pas seulement à propos de questions d’affaires. Rien n’indique que l’un ou l’autre a eu des problèmes de santé liés à une maladie pendant la période. Un seul enfant devait régulièrement recevoir des soins médicaux, et c’était l’appelante qui s’en occupait. Ils ne s’achetaient pas de cadeaux lors d’occasions spéciales.
+[19] L’appelante préparait les repas pour elle et les enfants, et M. Curran mangeait au restaurant. Le lavage était mis en commun et tout était lavé ensemble. L’appelante faisait les courses pour la maison, et M. Curran s’occupait de l’entretien de la maison. L’appelante et M. Curran assistaient aux veillées mortuaires ensemble, mais arrivaient séparément aux autres activités sociales. L’appelante passait les fêtes de Noël avec sa famille et M. Curran passait les fêtes de Noël avec sa sœur. Il ne semblait pas y avoir quelque interaction que ce soit entre M. Curran et la famille de l’appelante et entre celle‑ci et la famille de M. Curran.
+[20] Ils ont tous les deux indiqué que, lorsque des membres de la collectivité affirmaient ou laissaient entendre qu’ils vivaient ensemble en couple, ils précisaient que ce n’était pas le cas.
+[21] Selon les arrangements financiers qu’ils avaient, M. Curran fournissait le logement et l’appelante s’occupait des provisions, des vêtements pour les enfants et de leurs besoins en matière de loisirs. En ce qui concerne les propriétés, même si M. Curran était propriétaire de la maison, les trois autres parcelles de terrain étaient détenues par l’appelante et M. Curran en tant que tenants conjoints. Pour ce qui est des enfants, tous les enfants reconnaissaient que M. Curran était leur père et qu’il prenait soin d’eux. Il existe peu d’éléments de preuve montrant M. Curran participait aux activités des enfants. C’était l’appelante qui assistait aux réunions à l’école et qui subvenait aux autres besoins des enfants.
+[22] L’avocat de l’appelante a également mentionné une affaire antérieure visée par la Loi sur l'assurance-chômage qui portait sur la relation entre l’appelante et M. Curran en 1994. Il avait alors été conclu qu’ils n’avaient pas de lien de dépendance. Cependant, ce n’est pas la question en litige en l’espèce. Dans la présente affaire, la question en litige est de savoir si l’appelante et M. Curran vivaient en union de fait, et non pas de savoir s’ils avaient une relation de dépendance.
+[23] En l’espèce, à mon avis, l’appelante ne s’est pas acquittée du fardeau qui lui incombait, soit d’établir qu’elle ne vivait pas en union de fait avec M. Curran. L’appelante et M. Curran ont eu quatre enfants ensemble. Ils vivent ensemble dans la même maison et dans les mêmes conditions de logement depuis environ 20 ans. Ils continuent d’avoir des relations sexuelles ensemble et n’en ont pas avec d’autres personnes. Ils détiennent trois propriétés en tant que tenants conjoints. Ils participent tous les deux aux tâches ménagères, étant donné que l’appelante fait le lavage et que M. Curran effectue les travaux d’entretien dans la maison. Ils assument tous les deux une partie de la responsabilité financière pour la maison, étant donné que M. Curran fournit le logement et paye pour l’électricité et le chauffage et que l’appelante paye pour les provisions et les vêtements des enfants.
+[24] Par conséquent, les appels sont rejetés sans dépens.
+Signé à Halifax (Nouvelle‑Écosse), ce 24e jour de janvier 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 1er jour de février 2008.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2008CCI48
+NO DU DOSSIER : 2006-2889(IT)I
+INTITULÉ : DARLENE HENDRICKEN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Charlottetown (Île-du-Prince-Édouard)
+DATE DE L’AUDIENCE : Le 5 décembre 2007
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 24 janvier 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Matthew Bradley
+Avocate de l’intimée :
+Me Devon Peavoy
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelante :
+Nom : Me Matthew Bradley
+Cabinet:
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,162 @@
+---
+title: "Barrie Machine Tool Manufacturing Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26255/index.do"
+last_modified: "2004-06-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 467"
+citation2: ""
+neutral_citation: "2004 TCC 467"
+decision_date: "2004-06-29"
+language: "en"
+item_id: "26255"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3986
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:16:29.191000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aa373c60c53dc79b1f89f55158bf01796f5dbbe2a13eef0c61bbe0407beb0d20"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Barrie Machine Tool Manufacturing Inc. v. M.N.R.
+
+- Citation: 2004 TCC 467
+- Decision date: 2004-06-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3986, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barrie Machine Tool Manufacturing Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-29
+Neutral citation
+2004 TCC 467
+File numbers
+2003-2796(EI)
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-2796(EI)
+BETWEEN:
+BARRIE MACHINE TOOL MANUFACTURING INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MIRCEA ANDREI URSU,
+Intervenor.
+__________________________________________________________________
+Appeal heard together on common evidence with the appeal of Barrie Machine Tool Manufacturing Inc. (2003-2797(CPP)) on February 17, 2004 at Toronto, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Agent for the Appellant:
+Michael Hough
+Counsel for the Respondent:
+Ruth Dick
+For the Intervenor:
+The Intervenor himself
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 29th day of June 2004.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2004TCC467
+Date: 20040629
+Dockets: 2003-2796(EI)
+2003-2797(CPP)
+BETWEEN:
+BARRIE MACHINE TOOL MANUFACTURING INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MIRCEA ANDREI URSU,
+Intervenor.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] In these appeals the issue is whether, as between Barrie Machine Tool Manufacturing Inc. ("Payor") and the general partnership named Behr Solutions ("Worker") during the period May 27, 2002 to November 20, 2002, there existed a contract for services or an independent contract arrangement. In the former case the Worker would be entitled to employment insurance under paragraph 5(1)(a) of the Employment Insurance Act ("EIA") and Canada pension benefits under paragraph 6(1)(a) of the Canada Pension Plan ("CPP").
+[2] The general partnership comprised the Intervenor Mircea Andrei Ursu and his wife. The Intervenor did the work consisting of completing design concepts and full designs for various customers. The wife was a silent partner.
+[3] As was mentioned by counsel for the Respondent the whole relationship must be looked at bearing in mind the well-known tests of control, ownership of tools, chance of profit, risk of loss, the integration test (whose business was it) and any other relevant factors
+[4] In deciding the issue I am not simply to substitute my opinion for that of the Minister of National Revenue ("Minister") and I am to give some deference to the decision of the Minister. These principles have been developed by the Federal Court of Canada in the following cases. In Légaré v. Canada (Minister of National Revenue - M.N.R.), [1999] F.C.J. No. 878, the Court had occasion to review the issue in question. Paragraph 4 of that decision by Marceau, Desjardins and Noël, J.J. stated as follows:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[5] Also in the case of Pérusse v. Canada (Minister of National Revenue - M.N.R.) [2000] F.C.J. No. 310, Marceau, J. at paragraph 14 said:
+In fact, the judge was acting in the manner apparently prescribed by several previous decisions. However, in a recent judgment this court undertook to reject that approach, and I take the liberty of citing what I then wrote in this connection in the reasons submitted for the court.
+Then at paragraph 15 he said:
+The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[6] I have concluded that the following facts are most important in the determination of the issue.
+1. Mr. Hough, testifying for the Payor, confirmed that the Intervenor had been a regular employee of the Payor for the period October 2, 2000 to November 2001 with all deductions being made for employment insurance premiums, CPP premiums, workers' compensation and income tax. This was the situation until the intervenor was laid off for lack of work.
+2. Mr. Hough testified further that the intervenor had set-up a "company" in early 2002 called Behr Solutions and that he agreed with the Intervenor to retain that company, which in fact was a partnership.
+3. Mr. Hough stated further that he had a meeting with the Intervenor and agreed to hire his "company" on a subcontract basis effective immediately and based on the jobs in hand Mr. Hough stated that the Payor had enough work for the "company" for at least three months. The Intervenor quoted a fee of $35 per hour. Mr. Hough agreed that the Worker could work either from his home office or at the office of the Payor. Mr. Hough informed the Intervenor that his invoices would be paid like any other invoice i.e. net 30 days and Mr. Hough suggested that the Intervenor invoice on a weekly basis. Further, although Mr. Hough only intended to use the services of Behr Solutions for a period of three months because more projects were obtained the arrangement lasted for a longer period than originally planned.
+4. Behr Solutions invoiced the Payor for services rendered for the period between January 23, 2002 and November 20, 2002. At no point did Mr. Hough stop Behr Solutions from working for other clients. Mr. Hough concluded by indicating that as far as the Payor was concerned "this was a very simple, clear-cut subcontract undertaking with another "company" and Mr. Hough strongly disagreed with Canada Customs and Revenue Agency's (CCRA) ruling that the Intervenor should be considered as an employee during the period in question.
+[7] The Intervenor testified that at first it was to be an independent contract basis but that this changed over time although details of how and when it changed were not made clear.
+Analysis
+[8] I find firstly that the Minister did not consider all the factors or did not give sufficient importance to certain factors. With respect to control, there were certain elements of control but Mr. Hough made it clear that the Intervenor could work either at the office of the Payor or at his home office. With respect to ownership of tools the Intervenor had his own computer which was better than the computer at the office of the Payor.
+[9] The Intervenor paid his own automobile expenses; the aspect of risk of loss and chance for profit consideration points to a contract of service in that the Worker had no risk of loss and was paid a flat rate of $35 per hour for his work.
+[10] Although the integration test is not conclusive, the Worker worked at two locations and we know that he had at least one other customer, Holga Star Inc. Also important are the following factors:
+- it is very unusual for a partnership to be an employee
+- the Intervenor did considerable work away from the Payor's premises
+[11] The Worker sent the invoices and payment was made against same; that is unusual in an employer/employee relationship.
+[12] The basic arrangement between the parties is a prime consideration. However it does not necessarily establish a presumption nor does it definitely determine the issue. As stated in the jurisprudence, the entire relationship between the parties must be examined. Note however in Wolfe v. Canada, [2002] 4 F.C. 396, (FCA) per Noël, J. stated as follows:
+...This was a case where the characterization placed by the parties on their relationship ought to be given great weight. In a close case such as the present one, where the relevant factors point in both directions with equal force, the parties' contractual intent, and in particular their mutual understanding of the relationship could not be disregarded. As the parties considered that they were engaged in an independent contractor relationship and as they acted in a manner consistent with this relationship, it was not open to the Tax Court Judge to disregard their understanding.
+Also in Bradford v. M.N.R., 88 DTC 1661 Taylor, T.C.J. stated at page 11 of the decision:
+The general principle that commends itself to me arising out of this appeal and the recent jurisprudence noted is that under a given set of circumstances within which there are certain aspects of 'employee', some others of 'independent contractor', and even others that are somewhat ambiguous, that the intentions and objectives of the parties, if clearly and unequivocally stated and agreed upon, should be a prime factor in the determination of the Court ...
+[13] In conclusion, as mentioned, some of the test point one way and some of the test point another, but in my opinion on a balance of probabilities I find that the Worker was engaged under a contract for services, namely, an independent contract.
+[14] Consequently, the appeals are allowed and the decisions of the Minister are vacated.
+Signed at Ottawa, Canada, this 29th day of June 2004.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2004TCC467
+COURT FILE NO.:
+2003-2796(EI) and 2003-2797(CPP)
+STYLE OF CAUSE:
+Barrie Machine Tool Manufacturing Inc. and M.N.R. and Mircea Andrei Ursu
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 17, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice T. O'Connor
+DATE OF JUDGMENT:
+June 29, 2004
+APPEARANCES:
+Agent for the Appellant:
+Michael Hough
+Counsel for the Respondent:
+Ruth Dick
+For the Intervenor:
+The Intervenor himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

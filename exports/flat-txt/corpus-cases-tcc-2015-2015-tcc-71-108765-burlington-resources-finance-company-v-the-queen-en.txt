@@ -1,0 +1,458 @@
+Title: Burlington Resources Finance Company v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/108765/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-71-108765-burlington-resources-finance-company-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-03-20
+
+# Burlington Resources Finance Company v. The Queen
+
+- Citation: 2015 TCC 71
+- Decision date: 2015-03-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2845, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burlington Resources Finance Company v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-03-20
+Neutral citation
+2015 TCC 71
+File numbers
+2012-2683(IT)G, 2013-2595(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2683(IT)G
+BETWEEN:
+BURLINGTON RESOURCES FINANCE COMPANY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard consecutively with the motion of Conoco Funding Company (2013-2595(IT)G) on December 9 and 10, 2014 at Toronto, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Martha MacDonald
+Brynne Harding
+Counsel for the Respondent:
+Jenny Mboutsiadis
+Erin Strashin
+ORDER
+UPON Motion by the Appellant for an Order for the following relief:
+1. directing the Respondent’s nominee to re-attend at the Respondent’s own expense and answer the questions set out in Schedule A (the “Disputed Questions”), and any proper question arising from the answer, from the discovery examinations held on June 2, 3, 4 and 5 and November 13 and 14, 2014, which the Respondent has refused to answer or has not fully answered;
+2. awarding costs of the within Motion; and
+3. granting such other relief as the Appellant may submit and this Honourable Court may allow.
+AND UPON hearing the submissions of the parties;
+IT IS ORDERED THAT:
+The Respondent’s nominee, at the Respondent’s own expense, shall re‑attend a continuation of examinations for discovery, to be held within 60 days of the date of this Order, to answer the questions listed in the following categories:
+1. Questions relating to the Crown’s position on the basis of the assessment: 1071, 2338 and 2339 (provided questions 2338 and 2339 are re-stated)
+2. Questions relating to the Crown’s position on the capitalization of the Appellant: Questions 192, 2720, 2721, 2723, 2726, 2727
+3. Questions relating to Burlington’s credit rating under the “Yield Approach”: Questions 2638 and 2639
+4. Questions relating to requests for the lender’s view of the guarantee: Questions 107, 108, 112, 113, 2695 and 2790 are to be answered. Question 2788 should be answered but the Respondent is not required to give the proof of those facts. Questions 2789 and 2791 are to be answered insofar as they are confined to seeking the position the Respondent will adopt at trial.
+5. Questions relating to the request for the nature of the guarantee fee payments: None
+6. Questions respecting the Crown’s position on sham: Questions 33, 34, 35 and 36
+7. Questions relating to the Crown’s position under paragraph 18(1)(b): Question 2616. Question 2617 should be answered, but only to the extent that this question is aimed at having the Respondent divulge the relevant facts in connection with its reliance on paragraph 18(1)(b) and is not seeking evidence.
+8. Questions relating to requests for the Crown to describe the primacy of its arguments at trial: Questions 2766 and 2767
+9. Questions respecting requests for the Crown’s position on the assessment of penalties: As per the parties’ agreement, to be resolved between the parties or through case management.
+10. Questions respecting requests for the Crown’s position in respect of paragraphs 247(2)(b) and (d): Questions 2587, 2588, 2593, 2594 and 2610
+11. Questions relating to the use of documents at trial: Question 2105 should be answered. I anticipate that response should also respond to questions 2708, 2711 and 2712. Questions 2298, 2299, 2301, 2303 and 2304 should be answered provided the Appellant rephrases those questions so that they refer to specific production numbers, or in some other manner, identifies those specific documents to which they require a response. Question 2310 should be answered. Questions 2311 and 2313 should be answered if the Appellant provides identification/production numbers for the intercompany agreements it is referencing in 2311 and the item 57 number it is referencing in 2313.
+12. Questions relating to requests for audit records in respect of tax avoidance: Questions 897, 2327 and 2328
+Any further proper questions arising from those answers shall be provided within 14 days of the completion date of the further examinations.
+Costs shall be in the cause.
+Signed at Ottawa, Canada, this 20th day of March 2015.
+“Diane Campbell”
+Campbell J.
+Docket: 2013-2595(IT)G
+BETWEEN:
+CONOCO FUNDING COMPANY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard consecutively with the motion of Burlington Resources Finance Company (2012-2683(IT)G) on December 9 and 10, 2014 at Toronto, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Martha MacDonald
+Brynne Harding
+Counsel for the Respondent:
+Jenny Mboutsiadis
+Erin Strashin
+ORDER
+UPON Motion by the Appellant for an Order for the following relief:
+1. directing the Respondent’s nominee to re-attend at the Respondent’s own expense and answer the questions set out in Schedule A (the “Disputed Questions”), and any proper question arising from the answer, from the discovery examinations held on June 5 and 6 and November 12 and 13, 2014, which the Respondent has refused to answer or has not fully answered;
+2. awarding costs of the within Motion; and
+3. granting such other relief as the Appellant may submit and this Honourable Court may allow.
+AND UPON hearing the submissions of the parties;
+IT IS ORDERED THAT:
+The Respondent’s nominee, at the Respondent’s own expense, shall re-attend a continuation of examinations for discovery, to be held within 60 days of the date of this Order, to answer the questions listed in the following categories:
+1. Questions relating to the Crown’s position on the basis of the assessment: Question 807
+2. Questions relating to the Crown’s position on the capitalization of the Appellant: Questions 1068 and 1343
+3. Questions relating to the Crown’s position on the Appellant’s credit rating under the “Yield Approach”: None.
+4. Questions relating to the Crown’s position on the nature of the guarantee fee payments: Question 1127
+5. Questions relating to the Crown’s position on the legal effectiveness of documents, sham and authenticity: Question 1224 has been answered at this point, but it will be incumbent upon the Respondent to provide its position in due course. Question 1290 should be answered, as long as it is limited to the facts and not the evidence or proof of those facts that the Respondent will rely on to support its position. Questions 1319, 1322, 1323, 1330 and 1331 should be answered.
+6. Questions relating to the Crown’s position regarding the application of subsection 247(2) to the “Arrangements”: Questions 1454 and 1455
+7. Questions relating to the Crown’s position under paragraph 18(1)(b): Questions 1160, 1161, 1164, 1428 and 1429 should be answered. Question 1435 should be answered, however, the Crown need not, in responding to this question, state how it intends to prove its case in this respect.
+8. Questions relating to the Crown’s position respecting its primary argument: Questions 1664, 1666, 1667, 1668 and 1669.
+9. Questions relating to the Crown’s position under paragraphs 247(2)(b) and (d): Question 1081 should be answered. Question 1215 should be answered as it pertains to paragraphs 247(2)(b) and (d). Questions 1216, 1653, 1656, 1657, 1658, 1659, 1660, 1661 1662 and 1663 should be answered. Questions 1404, 1406, 1407, 1408, 1409 and 1410 should be answered with further specifics. Question 1423 should be answered in respect to the facts that relate to the assertion that no arm’s length party would provide a guarantee. The Crown, however, need not provide the evidence that will prove that assertion.
+10. Questions relating to the request for factual positions: Questions 1628, 1630 and 1671 should be answered. Question 1580 should be answered in respect to any facts that relate to the assertion that the guarantee fees were not incurred. However, this does not include the disclosure of the Crown’s evidence that will prove this assertion.
+11. Questions about the use of documents at trial: Questions 942, 944, 945, 946, 948 and 949.
+Any further proper questions arising from those answers shall be provided within 14 days of the completion date of the further examinations.
+Costs shall be in the cause.
+Signed at Ottawa, Canada, this 20th day of March 2015.
+“Diane Campbell”
+Campbell J.
+Citation: 2015 TCC 71
+Date: 20150320
+Docket: 2012-2683(IT)G
+BETWEEN:
+BURLINGTON RESOURCES FINANCE COMPANY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2013-2595(IT)G
+AND BETWEEN:
+CONOCO FUNDING COMPANY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Campbell J.
+[1] The Appellants, Burlington Resources Finance Company (“Burlington”) and Conoco Funding Company (“Conoco”) have brought motions, pursuant to Rules 4, 7, 95 and 110 of the Tax Court of Canada Rules (General Procedure) for the following:
+1. directing the Respondent’s nominee to re-attend at the Respondent’s own expense and answer certain questions (the “Disputed Questions”), and any proper question arising from the answer, from the discovery examinations held on June 2, 3, 4 and 5 and November 13 and 14, 2014 (in the case of Burlington) and on June 5 and 6 and November 12 and 13, 2014 (in the case of Conoco) which the Respondent has refused to answer or has not fully answered;
+2. costs of the within Motion; and
+3. such other relief as the Appellant may submit and this Honourable Court may allow.
+[2] The Appellants contend that the Disputed Questions are relevant to the matters in issue but that the Respondent has not answered, or has not fully answered, those questions.
+[3] These motions for each Appellant were heard consecutively on December 9 and 10, 2014.
+[4] The Respondent opposed the motions on the basis that all proper questions have been answered and that improper questions have been correctly refused.
+The Facts [5] Briefly, the facts in the appeal of Burlington are as follows:
+1. Burlington is a Nova Scotia unlimited liability company and a wholly-owned subsidiary of Burlington Resources Inc. (“BRI”), a resident U.S. corporation.
+2. Burlington’s business is principally involved in obtaining financing to fund the operations of affiliated Canadian companies and, specifically, to borrow funds from public markets and to “on-loan” those proceeds to its affiliated Canadian entities, which were conducting businesses related to crude oil and natural gas assets.
+3. Burlington, BRI and the affiliated corporations engaged in a series of transactions including the issuance of inter-company promissory notes, subscription and security agreements which, according to Burlington, were to ensure its payments due under the notes.
+4. In 2001 and 2002, the Appellant borrowed approximately U.S. $3 billion and issued notes to arm’s length parties.
+5. BRI unconditionally guaranteed the payment of the notes and Burlington “on-loaned” the proceeds to Canadian sister companies.
+6. Burlington and BRI agreed that Burlington would pay guarantee fees to its non-resident parent corporation based on an annual guarantee fee of 50 basis points of the principal amount of the outstanding notes. According to the Appellant, the fees were incurred in exchange for BRI’s guarantees and were based upon advice received from investment banks.
+7. During the 2002 to 2005 taxation years, Burlington paid approximately U.S. $83 million as guarantee fees to BRI and also incurred financing costs in the course of the issuance of its notes.
+8. In calculating its income, in each of the 2002 to 2005 taxation years, Burlington deducted the guarantee fees that were paid annually to its parent company, BRI, pursuant to section 9 of the Income Tax Act (the “Act”), together with certain financing costs, deducted for each of the taxation years.
+9. The Minister of Finance (the “Minister”) reassessed the Appellant, in respect to those taxation years, denying those deductions and imposing transfer pricing penalties pursuant to subsection 247(3) of the Act because Burlington failed to make reasonable efforts to determine the arm’s length transfer price in respect to the guarantees.
+10. The Minister relied on paragraphs 247(2)(a) and (c) of the Act in reducing the amount of the guarantee fees to nil in each taxation year and claiming that the terms and conditions of this fee arrangement between Burlington and its parent company were not terms and conditions which would have existed between arm’s length parties. The Minister also relied on paragraphs 247(2)(b) and (d) in its pleadings to argue that the series of transactions giving rise to the fees would not have been entered into between arm’s length parties and cannot be considered to have been entered into primarily for bona fide purposes other than to obtain a tax benefit.
+11. The Minister relied on paragraph 18(1)(a) of the Act to deny the financing costs, claiming that they were not incurred in order to earn income in respect of the Appellant’s business.
+[6] The facts in the appeal of Conoco are similar to those of Burlington. Briefly, those facts include:
+1. Conoco is also a Nova Scotia unlimited liability company and a wholly-owned subsidiary of Conoco Inc., a resident U.S. corporation.
+2. Similarly to Burlington, this Appellant’s primary business involved obtaining financing from public markets in order to fund the operations of its affiliated Canadian corporations. It did so by having the parent company, Conoco Inc., guarantee the borrowing debt on the notes and it then proceeded to “on-loan” the funds to the affiliated entities.
+3. Like Burlington, this Appellant and its parent company engaged in a series of transactions, including promissory notes, forward share subscription agreements and limited security agreements, in respect to the guarantees, in order to ensure its payments under the debt offerings.
+4. In 2001, Conoco borrowed approximately $3.5 billion and issued notes to arm’s length parties for the purpose of financing the acquisition of Gulf Canada Resources Limited by related Canadian parties.
+5. The Appellant’s parent company, Conoco Inc., unconditionally guaranteed the payment of the notes and Conoco “on-loaned” the proceeds to Canadian sister companies.
+6. Like Burlington, the Appellant paid annual guarantee fees to the guarantor parent company in the amount of 50 basis points of the principal amount of the outstanding debt. Conoco claimed that the fees were incurred in exchange for the parent corporation’s guarantees.
+7. During the 2002 to 2005 taxation years, Conoco paid approximately U.S. $109 million as guarantee fees to its parent corporation, Conoco Inc.
+8. In calculating its income in each of the 2002 to 2005 taxation years, Conoco, like Burlington, deducted the guarantee fees paid annually to its parent company.
+9. The Minister reassessed Conoco and denied the deductions thereby reducing the guarantee fees to nil in each taxation year and also imposing transfer pricing penalties pursuant to subsection 247(3) of the Act.
+10. The Minister relied on paragraphs 247(2)(a) and (c) of the Act in reducing the amount of the guarantee fees to nil by claiming that the terms and conditions of the fee arrangement were not the terms and conditions which would have been entered into between arm’s length parties. The Minister also relied on paragraphs 247(2)(b) and (d) to argue that the series of transactions or arrangements giving rise to the fees would not reasonably be entered into between arm’s length parties and, consequently, were entered into, not for bona fide purposes, but for obtaining a tax benefit.
+The Issues [7] The primary issues in respect to both appeals are the following:
+(a) Whether the Minister properly reduced the guarantee fees to nil in each taxation year in determining that the Appellants could not deduct the guarantee fees in the calculation of their respective income in those taxation years; and
+(b) Whether the Minister properly applied sections 247(3) and (4) of the Act in assessing the Appellants with the transfer pricing penalties.
+[8] In respect to the guarantee fees in both appeals, the Respondent lists five separate sub issues:
+(a) whether the Guarantee Fees were incurred by the Appellant for the purpose of earning or producing income from its business;
+(b) whether the terms or conditions, including the Guarantee Fees, made or imposed in respect of the guarantees differed from those that would have been made between persons dealing at arm’s length;
+(c) whether the terms or conditions, including the Guarantee Fees, made or imposed in respect of the Arrangements differed from those that would have been made between persons dealing at arm’s length;
+(d) whether the guarantees would have been entered into between persons dealing at arm’s length and can reasonably be considered not to have been entered into primarily for bona fide purposes other than to obtain a tax benefit;
+(e) whether the arrangements would have been entered into between persons dealing at arm’s length and can reasonably be considered not to have been entered into primarily for bona fide purposes other than to obtain a tax benefit;
+…
+(Reply to the Notice of Appeal in Conoco, para 9)
+These are the same sub issues set out at paragraph 11 of the Further Amended Reply to the Appellant’s Notice of Appeal in Burlington.
+[9] Since relevancy of a question posed in discovery is determined by reference to the pleadings, the basis of the reassessments in each appeal are worth noting. In the written submissions of the motion on behalf of Burlington, counsel states the following:
+Basis of Reassessment: Paragraph 247(2)(a) and (c)
+• The Minister of National Revenue (the “Minister”) reassessed the Appellant’s 2002 to 2005 taxation years to reduce the amount of the guarantee fees to nil, based solely on paragraphs 247(2)(a) and (c) Income Tax Act (Canada) (the “Act”). The basis of assessment was as follows:
+• The “Price of the Guarantee Fee is Zero” theory – the Appellant should not pay for the guarantee because the Appellant had no employees and no capital.
+• The “Price of the Guarantee Fee is Not Correct” theory – assuming the credit ratings provided by the Appellant in its contemporaneous documentation, the guarantee fee should have been between nil and the spread.
+• The “Duplication of Service” theory – the Appellant’s status as an unlimited company formed under the laws of Nova Scotia was duplicative of the guarantee from the Appellant’s perspective.
+Questions 1896-1920, Examination for Discovery Transcript of Kathy Fawcett held on June 3, 2014, Appellant’s Motion Record, Volume 2, Tab 6 at pages 494-500 [“Fawcell June 3 Transcript”]; Questions 2040-2083, Examination for Discovery Transcript of Kathy Fawcett held on June 4-5, 2014 at pages 532-540 [“Fawcett June 4-5 Transcript”].
+(Outline of Appellant’s Submissions, page 5)
+[10] In respect to the appeal of Conoco, the Appellant stated the following in respect to the basis of the Minister’s reassessment:
+Basis of Reassessment: Paragraphs 247(2)(a) and (c)
+• The Minister of National Revenue (the “Minister”) reassessed the Appellant’s 2002 to 2005 taxation years to reduce the amount of the guarantee fees to nil, based solely on paragraphs 247(2)(a) and (c) Income Tax Act (Canada) (the “Act”).
+• The basis of assessment under paragraphs 247(2)(a) and (c) was as follows:
+• Theory #1 – “There should not be a fee for this guarantee as in the absence of negative covenants on payment of dividends and/or return of capital, the guarantee only assuages the concerns of the bondholders which arose because of the nature of the non-arm’s length relationship.”
+• Theory #2 – “There is no credit spread as the guarantor and the guaranteed parties have the same rating and thus, there should not be a guarantee fee for interest rate savings that clearly do not exist.”
+• Theory #3 – “The guarantee fees are considered redundant because [the Appellant] is a NSULC, thus [the parent] would have been already liable for [the Appellant’s] unsatisfied debts. Moreover, we believe that [the Appellant] will not pay any guarantee fee with a subscription agreement in place to cover its debt obligations.”
+Question 864-895, Examination for Discovery Transcript of Kathy Fawcett held on June 5 and 6, 2014, Appellant’s Motion Record, Volume 1, Tab 5 pages 202-209 [“Fawcett June Transcript”].
+(Outline of Appellant’s Submissions, page 5)
+The Principles of Discovery [11] Caselaw is clear and abundant. The core of discovery principles is that its scope should be wide, with relevancy construed liberally, without, however, allowing it to enter the realm of a fishing expedition. These basic principles are essential because the purpose of discovery is to enable parties to know the case they have to meet at trial, to know the facts upon which the opposing party relies, to narrow or eliminate issues, to obtain admissions that will facilitate the proof of matters in issue and, finally, to avoid surprise at trial (General Electric Capital Canada Inc. v The Queen, 2008 TCC 668, 2009 DTC 1186, at para 14). This is all with a view to making the hearing of an appeal streamlined and to ensure that the parties are focussed on the appropriate issues.
+[12] In the decision of Baxter et al v The Queen, 2004 TCC 636, 2004 DTC 3497, at paragraph 13, Chief Justice Bowman, as he was then, summarized the principles concerning relevancy of questions in discoveries as follows:
+(a) relevancy on discovery must be broadly and liberally construed and wide latitude should be given;
+(b) a motions judge should not second guess the discretion of counsel by examining minutely each question or asking counsel for the party being examined to justify each question or explain its relevancy;
+(c) the motions judge should not seek to impose his or her views of relevancy on the judge who hears the case by excluding questions that he or she may consider irrelevant but which, in the context of the evidence as a whole, the trial judge may consider relevant;
+(d) patently irrelevant or abusive questions or questions designed to embarrass or harass the witness or delay the case should not be permitted.
+[13] A summary of the general principles gleaned from the caselaw was provided by Justice V. Miller at paragraph 60 of Kossow v The Queen, 2008 TCC 422, 2008 DTC 4408, as follows:
+1. The principles for relevancy were stated by Chief Justice Bowman and are reproduced at paragraph 50.
+2. The threshold test for relevancy on discovery is very low but it does not allow for a “fishing expedition”: Lubrizol Corp. v. Imperial Oil Ltd., [1997] 2 FC 3, at para. 19.
+3. It is proper to ask for the facts underlying an allegation as that is limited to fact-gathering. However, it is not proper to ask a witness the evidence that he has to support an allegation: Sandia Mountain Holdings Inc. v. The Queen, [2005] 2 CTC 2297, at para. 19(iii).
+4. It is not proper to ask a question which would require counsel to segregate documents and then identify those documents which relate to a particular issue. Such a question seeks the work product of counsel: SmithKline Beecham Animal Health Inc. v. The Queen, [2001] 2 CTC 2086, at para. 11.
+5. A party is not entitled to an expression of the opinion of counsel for the opposing party regarding the use to be made of documents: SmithKline Beecham Animal Health Inc. v. The Queen, Ibid.
+6. A party is entitled to have full disclosure of all documents relied on by the Minister in making his assessment: Amp of Canada v. Canada, [1987] F.C.J. No. 149.
+7. Informant privilege prevents the disclosure of information which might identify an informer who has assisted in the enforcement of the law by furnishing assessing information on a confidential basis. The rule applies to civil proceedings as well as criminal proceedings: Webster v. The Queen, 2003 DTC 211, at para. 14.
+8. Under the Rules a party is not required to provide to the opposing party a list of witnesses. As a result a party is not required to provide a summary of the evidence of its witnesses or possible witnesses: Loewen v. The Queen, [2007] 1 CTC 2151, at para. 14.
+9. It is proper to ask questions to ascertain the opposing party’s legal position: Six Nations of the Grand River Band v. Canada (Attorney General), [2000] OJ No. 1431, at para. 14.
+10. It is not proper to ask questions that to go the mental process of the Minister or his officials in raising the assessments: Webster v. The Queen, Ibid.
+[14] Justice C. Miller in HSBC Bank Canada v The Queen, 2010 TCC 228, 2010 DTC 1159, at paragraphs 14 and 15, after quoting the Kossow principles, added the following to his review of the scope of discovery questions:
+[14] The following additional principles can be gleaned from some other recent Tax Court of Canada case authority:
+1. The examining party is entitled to “any information, and production of any documents, that may fairly lead to a train of inquiry that may directly or indirectly advance his case, or damage that of the opposing party”: Teelucksingh v. The Queen, 2010 TCC 94, 2010 DTC 1085.
+2. The court should preclude only questions that are “(1) clearly abusive; (2) clearly a delaying tactic; or (3) clearly irrelevant”: John Fluevog Boots & Shoes v. The Queen, 2009 TCC 345, 2009 DTC 1197.
+[15] Finally in the recent decision of 4145356 Canada Limited v. The Queen, 2009 TCC 480, 2009 DTC 1313, I concluded:
+(a) Documents that lead to an assessment are relevant;
+(b) Documents in CRA files on a taxpayer are prima facie relevant, and a request for those documents is itself not a broad or vague request;
+(c) Files reviewed by a person to prepare for an examination for discovery are prima facie relevant; and
+(d) The fact that a party has not agreed to full disclosure under section 82 of the Rules does not prevent a request for documents that may seem like a one-way full disclosure.
+[15] The Federal Court of Appeal in The Queen v Lehigh Cement Limited, 2011 FCA 120, 2011 DTC 5069, at paragraphs 34 and 35, described the general limits respecting discoveries:
+[34] The jurisprudence establishes that a question is relevant when there is a reasonable likelihood that it might elicit information which may directly or indirectly enable the party seeking the answer to advance its case or to damage the case of its adversary, or which fairly might lead to a train of inquiry that may either advance the questioning party’s case or damage the case of its adversary. Whether this test is met will depend on the allegations the questioning party seeks to establish or refute. See Eurocopter at paragraph 10, Eli Lilly Canada Inc. v. Novopharm Ltd. 2008 FCA 287, 381 N.R. 93 at paragraph 61 to 64; Bristol-Myers Squibb Co. v. Apotex Inc. at paragraphs 30 to 33.
+[35] Where relevance is established the Court retains discretion to disallow a question. The exercise of this discretion requires a weighing of the potential value of the answer against the risk that the party is abusing the discovery process. See Bristol-Myers Squibb v. Apotex Inc. at paragraph 34. The Court might disallow a relevant question where responding to it would place undue hardship on the answering party, where there are other means of obtaining the information sought, or where “the question forms part of a ‘fishing expedition’ of vague and far-reaching scope”: Merck & Co. v. Apotex Inc., 2003 FCA 438, 312 N.R. 273 at paragraph 10; Apotex Inc. v. Wellcome Foundation Ltd., 2008 FCA 131, 166 A.C.W.S. (3d) 850 at paragraph 3.
+[16] Finally, a party may be compelled to answer questions that relate to any issue contained in the pleadings, regardless of whether a party has advised or undertaken that it will no longer place reliance on that position or provision (ExxonMobil Canada Hibernia Co. v The Queen, 2014 FCA 168, 2014 DTC 5086).
+[17] The jurisprudence is comprehensive and the guidelines well established. As many cases have noted, there is no formula that can be applied in determining whether questions should be answered. The ultimate purpose is to fairly, reasonably and expeditiously move matters along to a hearing. Given those parameters, it is nonetheless surprising that such a multitude of questions are before me. It is even more surprising that, shortly before issuing these reasons, as the case management Judge, I received a request from the Respondent stating that the Crown was intending to bring a motion with respect to the Appellant’s answers to undertakings that was expected to last one day. I cannot conclude that common sense is the driving force behind these motions which come increasingly before this Court. In fact, it appears common sense is so uncommon in these types of motions that it is almost non-existent. I would have thought that Respondent counsel might at least want to review my reasons respecting its refusals in the Appellant’s questions before embarking on yet another motion. That might well negate the necessity of bringing a further motion or, at the very least, limit it in scope. After all, that would be the prudent, common sense and economical approach in acting in a client’s best interests.
+BURLINGTON RESOURCES FINANCE COMPANY [18] Against this background, I turn now to the motions of the Appellants. I will first address the motion of Burlington. Counsel for the Appellants in both motions grouped the questions into various categories and I intend to follow those groupings.
+[19] First, counsel advised that there are a number of questions that are no longer part of this motion. Those are: 2574, 2575, 2576, 2577, 2579, 2580, 2581, 2582, 2583, 2584, 2585, 2586, 2591, 2595, 2596, 2597, 2598, 2599, 2600, 2601, 2602, 2693, 2694, 2707, 2771, 2772, 2773, 2774, 2775, 2776, 2777, 2778, 2783 and 2784.
+[20] Second, during the hearing of this motion, the Respondent advised that it would no longer be relying on paragraphs 247(2)(b) and (d) as a basis to argue that no deduction should be allowed in respect to the guarantee fees. However, there has been no amendment to the pleadings and no steps taken to amend since the date of the hearing of this motion in December, 2014.
+I. Questions on the Crown’s Position A. Questions Relating to the Crown’s Position on the Basis of the Assessment: Re: Questions 1071, 2333, 2338, 2339 and 2340
+The Appellant’s Position [21] The Appellant argues that these questions should be answered because they relate to the Crown’s legal position respecting the three proposed theories that were relied upon in raising the assessment. The Appellant states that it is entitled to know whether the Crown will be adopting any of these three theories at trial or whether all three theories will be rejected. This will enable the Court to properly assign the burden of proof so that the Appellant can properly prepare for trial.
+The Respondent’s Position [22] The Respondent contends that it answered questions 2333 and 2340. It states that question 1071 is too onerous a request as it would require the Respondent to review a large draft document before it could advise if it was going to adopt any part of it. Questions 2338 and 2339 should not be answered as they are poorly worded and confusing.
+The Court’s Direction [23] These questions relate to three theories proposed in an economist’s report that was produced for the Canada Revenue Agency (“CRA”) as part of its audit of the Appellant. These theories, respecting the deductibility of the guarantee fees, supported the assessment. If the Respondent has not answered these questions and if in fact they relate to the legal position to be taken at trial, then they should be answered provided they are not inquiring into the evidence or the reasoning that may support those relevant facts or the opposing party’s legal research.
+[24] Question 1071 is proper and must be answered. The Respondent must commit itself to whether it is adopting all of the economist’s report, none of it or parts of it.
+[25] Question 2333 was answered but it led to further questions 2338 and 2339 in order to clarify the response at question 2333. Questions 2338 and 2339 are proper questions as they relate to the Crown’s legal position. Therefore, they must be answered. I would ask that the Appellant, however, re-state both questions as they are lengthy and confusing in their present format.
+[26] Question 2340 was answered and the Respondent’s answer was “yes”.
+B. Questions Relating to the Crown’s Position on the Capitalization of the Appellant: Re: Questions 192, 217, 218, 2720, 2721, 2723, 2724, 2726, 2727, 2728, 2729
+The Appellant’s Position [27] The Appellant believes that, according to the Respondent’s pleadings, considerable significance is attached to the role of capitalization and, particularly, the Appellant’s lack of capitalization in applying subsection 247(2). The Appellant states that it is unsure whether there is an issue between the parties respecting the Appellant’s capitalization but if there is then the Appellant argues that it is entitled to know whether and how the Crown is departing from the Minister’s basis of assessment respecting capitalization under the “Price of the Guarantee Fee is Zero” theory.
+The Respondent’s Position [28] The Respondent states that it has answered questions 192, 217 and 218; that questions 2720 and 2721 actually seek to know whether and how the Respondent will rely on the fact of how the Appellant was capitalized at trial and therefore seek the Respondent’s legal analysis and evidence; that questions 2723 to 2727 are improper as they seek the evidence that the Respondent will rely on to support its allegations in the pleadings; and that questions 2728 and 2729 were improper because they ask why the Crown made litigation decisions which would be protected by litigation privilege.
+The Court’s Direction [29] Question 192 is related to the several questions leading up to it. Question 192 asks whether the Respondent, in light of its pleaded argument that no arm’s length party would agree to guarantee the Appellant’s debts given its lack of capitalization, would be taking the position that the arm’s length principle in section 247 requires that the Appellant be capitalized other than it had been. At question 183, the Appellant asks what the Appellant’s level of capitalization was, as that phrase was used in the Further Amended Reply to the Notice of Appeal. The Respondent answered that the Minister made the assumption set forth in paragraph 6(k). Then, at question 187, when asked whether the Respondent was intending to depart from the point‑in‑time analysis reference in (k), the Respondent responded in the affirmative. If the Respondent is departing from its stated position, it should disclose its new legal position. Question 192 is proper and should be answered.
+[30] Questions 217 and 218 have been answered. The Respondent advised that, if and when it turned its mind to the possible position suggested by the Appellant, it would so advise the Appellant. I consider this an ongoing undertaking.
+[31] Questions 2720 and 2721 are simply asking the Respondent whether capitalization remains in issue under paragraphs 247(2)(a) and (c) and paragraphs 18(1)(a) and 20(1)(e.1). They are not seeking evidence and are therefore proper questions that require an answer.
+[32] Question 2723 should be answered. It relates to question 1289 which was answered in respect to a subsequent undertaking. The Respondent must advise whether it will be adopting this same position at trial.
+[33] Question 2724 requests information from the Respondent in respect to its view of the appropriate levels of capitalization. This is an improper question and need not be answered as it seeks evidence that the Respondent will use to argue its position at trial.
+[34] Questions 2726 and 2727 are proper questions as they ask the Respondent to identify the provisions which it will use in adopting a particular allegation.
+[35] Questions 2728 and 2729 are not proper as they go to the thought processes of the Crown in respect to what facts led it to abandon a position.
+C. Questions Relating to Burlington’s Credit Rating Under the “Yield Approach”: Re: Questions 486, 487, 488, 2492, 2493, 2494, 2495, 2621, 2624, 2625, 2638, 2639, 2644, 2645, 2646, 2647, 2648, 2649, 2650, 2780, 2781, 2782
+The Appellant’s Position [36] The decision of this Court in General Electric, which was upheld by the Federal Court of Appeal, considered and applied the yield approach in respect to the arm’s length transfer price for a financial guarantee under paragraphs 247(2)(a) and (c). The questions under this category are about “… yield approach, the rating without the guarantee, whether certain specific particular factors are in or out, are proper questions because they are relevant to paragraph 247(2)(a) and (c)” (Transcript, page 27). The Crown has pleaded as an assumption that “… the Appellant could not obtain an investment worthy credit‑rating without the guarantee provided by its Parent.” (Outline of Appellant’s Written Submissions, page 10). Yet the Respondent has refused to answer questions pertaining to the Appellant’s credit rating for the purposes of applying the yield approach or of the facts and methodology which relate to and should be used to ascertain that credit rating.
+The Respondent’s Position [37] The Respondent stated that questions 2638 and 2639 were refused because they seek the facts upon which the Respondent places reliance to prove its allegations contained in the pleadings. Questions 2781 and 2782 were refused because they are hypothetical questions and call for conjecture. The Respondent contends that the balance of the questions under this category have either been answered or refused because they had been previously answered.
+The Court’s Direction [38] Questions 486, 487 and 488 concern the Appellant’s credit rating for the purposes of applying the yield approach. The questions as posed have been answered.
+[39] Questions 2492, 2493, 2494 and 2495 relate to the Crown’s position on whether the Appellant could issue debt without the guarantee and whether the Appellant’s credit rating would have been lower than BBB-. These questions were answered by the Respondent in its undertakings.
+[40] Question 2621 is a follow-up question to question 488 but, since it is essentially the same question as 488, it has already been answered.
+[41] Questions 2624 and 2625 seek information respecting the Crown’s opinion on the appropriate method to be employed in a determination of the Appellant’s credit rating for the purposes of applying the yield approach. These questions are improper and need not be answered because a determination of the appropriate method in resolving the Appellant’s credit rating is an issue that would be before the trial judge and, in all likelihood, requires the assistance of expert evidence.
+[42] Questions 2638 and 2639 ask the Crown for the facts that it will reply upon to say that, if the imputed rating allegation applies, the Appellant’s credit rating would be the same as that of the parent company or the same as that of the corporation holding the underlying debt owing to the Appellant. These questions should be answered to the extent the responses are limited to the facts because the evidence respecting the Respondent’s allegations in both questions need not be provided.
+[43] Questions 2644, 2645, 2646, 2647, 2648, 2649 and 2650 are proper questions but were answered at questions 486 to 488.
+[44] Question 2780 has been answered.
+[45] Questions 2781 and 2782 are hypothetical questions and need not be answered.
+D. Questions Relating to Requests for the Lender’s View of the Guarantee: Re: Questions 107, 108, 112, 113, 2695, 2788, 2789, 2790 and 2791
+The Appellant’s Position [46] The Appellant requires responses to those questions as they will inform the Appellant of the essential components of the Crown’s legal position and the case it has to meet at trial in respect to paragraphs 18(1)(a), 20(1)(e.1) and 247(2)(a) and (c). These questions arise because the Crown has taken the position that the guarantee fees were redundant as a result of the Appellant’s status as an unlimited liability company and because of forward subscription agreements that were in place. The Crown’s position is also that the parent’s guarantee was necessary from the perspective of lenders but redundant from the perspective of the Appellant.
+The Respondent’s Position [47] The Respondent states that questions 108, 113 and 2695 were properly refused because they require the Crown to speculate on what third party lenders or investors might do and that is not within the Respondent’s knowledge. Questions 107 and 112 have been properly answered. Questions 2788 to 2791 are asking the Crown to reveal the facts it will be relying on to prove its case and are therefore improper questions.
+The Court’s Direction [48] Questions 107, 108, 112, 113 and 2695 are all proper and should be answered. Questions 107 and 108 relate to the Appellant’s status as an unlimited liability company which the pleadings place in issue. The Respondent’s answers were essentially non-answers. Asking whether lenders might rely on this status is not asking what is in the minds of lenders. The Respondent provided a response of “I don’t know” to questions 112 and 113. Those questions are relevant to the issues. Question 2695 relates to the Respondent’s view of whether arm’s length potential investors would take into account certain factors such as the Appellant’s business history, activity in and knowledge of the markets, ability to access other funding, capitalization assets and their liquidity, in the presence of a guarantee or only in the absence of a guarantee. The question is relevant to the issues and should be answered.
+[49] Question 2788 seeks the facts that the Crown will rely on to argue that the guarantee was redundant. It should be answered but the Respondent is not required to provide the proof of those facts.
+[50] Question 2790 seeks the Respondent’s position in respect to the guarantees and third party bondholders and should be answered.
+[51] Questions 2789 and 2791 are to be answered insofar as they were confined to seeking the position that the Respondent will adopt at trial.
+E. Questions Relating to the Request for the Nature of the Guarantee Fee Payments: Re: Question 40
+The Appellant’s Position [52] The Appellant points out that the Crown’s position is that the guarantee fees were not paid for the purpose of earning income but, rather, for the purpose of obtaining a tax benefit. The Appellant argues that the question is meant to ascertain the Crown’s position as to the legal character or nature of the payments, if they are not paid as guarantee fees, and whether it was or was not consideration for something. This is particularly relevant to paragraphs 247(2)(a) and (c) which contemplate a change to the nature of the amounts in the midamble to subsection 247(2).
+The Respondent’s Position [53] The Respondent refused question 40 as it seeks a legal opinion because the question of what constitutes consideration is a legal question. The Respondent denies attaching a label to the fees.
+The Court’s Direction [54] Question 40 is improper and need not be answered. The Respondent has pleaded that the guarantee fees had no other purpose except to gain a tax benefit yet it did not plead that a specific legal label attached to those fees. In addition, since the Respondent has not pleaded a particular legal arrangement, requesting that it attach a label at this point is improper. Portions of the questions concerning consideration are also improper as they seek a legal opinion.
+F. Questions Respecting the Crown’s Position on Sham: Re: Questions 33, 34, 35 and 36
+The Appellant’s Position [55] The Appellant asks the Respondent in these questions if it is alleging that the guarantee fee arrangements are a sham and contends that it is entitled to have responses so that it knows whether the Respondent will be alleging this legal doctrine and, therefore, the case it will have to meet at trial.
+The Respondent’s Position [56] The Respondent says it has not asserted sham in its pleadings and that, since it is not alleging that the fee arrangements were a sham, the questions have been answered.
+The Court’s Direction [57] In answering those questions, the Crown’s position was not clearly stated. It contends that the fees were not paid as a guarantee fee but were paid to obtain a tax benefit. The pleadings do not allege the specific legal doctrine of sham and the only way that the Respondent could rely on this doctrine is if it amends its pleadings. If that occurred, the Appellant would then be entitled to examine on this doctrine. These questions culminate in question 36 which asks a very specific question, that is, what is the Crown’s position in this regard. These questions will be answered.
+G. Questions Relating to the Crown’s Position under Paragraph 18(1)(b): Re: Questions 586, 587, 588, 2616, 2617 and 2619
+The Appellant’s Position [58] Since the Further Amended Reply indicates the Respondent’s reliance on paragraph 18(1)(b), the Appellant is entitled to know the Crown’s legal position in this regard.
+The Respondent’s Position [59] The Respondent claims that it has answered all of those questions, with the exception of question 2617, which it claims is improper as it seeks the evidence that it will rely on to prove its allegations.
+The Court’s Direction [60] At questions 586 to 588, the Appellant asked the Respondent’s position respecting paragraph 18(1)(b) and how it might apply to disallow the deduction of the fees. These questions are proper but the Respondent’s answers were responsive in that it stated that this provision applies to disallow the fees if they are found to be on account of capital. Questions 586, 587 and 588 have been adequately answered. I note that the Appellant took the position that the Respondent’s use of the verb “may” in its response “the guarantee fees may be on capital account” was unresponsive. The Respondent has placed reliance on this provision in its pleadings and whether paragraph 18(1)(b) will apply or not to the deduction of fees would be a decision of the trial judge.
+[61] Question 2616 is a proper question and must be answered as it rightly seeks the Respondent’s position on whether or not the fees were on capital account. This question was not the purpose of the questioning at 586 to 588 and for the Respondent to state that “what we do at trial is different than what position we’re taking now…” is totally evasive, unresponsive and non-compliant with the principles of discovery.
+[62] To the extent that question 2617 is aimed at having the Respondent divulge the relevant facts, in connection with its reliance on paragraph 18(1)(b), and is not seeking evidence, I am directing that this question be answered.
+[63] Question 2619 has been answered through the responses at questions 586 to 588 and partially through a directed response to question 2616.
+H. Questions Relating to Requests for the Crown to Describe the Primacy of its Arguments at Trial: Re: Questions 2766 and 2767
+The Appellant’s Position [64] On the understanding that the Respondent now intends to abandon its reliance on paragraphs 247(2)(b) and (d), the Appellant asks the Respondent to confirm the order of the arguments it will reply on at trial so that it will know the case it has to meet.
+The Respondent’s Position [65] The Respondent says these are improper questions as they seek information which is protected by litigation privilege.
+The Court’s Direction [66] These questions are proper and must be answered. The Appellant asked which were the primary and secondary arguments between the Crown’s position under paragraphs 18(1)(a) and 20(1)(e.1) as well as paragraphs 247(2)(a) and (c). To respond as the Respondent did, “The Respondent’s position is set out in the Further Amended Reply minus paragraphs 247(2)(b) and (d)”, is again unresponsive. The Appellant has every right to know the order of the Respondent’s arguments and, in fact, it is essential that both parties focus on this very matter so that the trial proceeds in an orderly fashion.
+I. Questions Respecting Requests for the Crown’s Position on the Assessment of Penalties: Re: Questions 2088 and 2091
+[67] The Respondent pleaded that penalties were properly assessed pursuant to subsection 247(3) of the Act. The Appellant asked the Respondent for the basis of the decision to penalize the Appellant. The Crown refused stating that those questions had been asked and answered.
+[68] Toward the end of the hearing of this Motion, the parties advised that, because questions 2088 and 2091 have within them referrals to other questions, they had agreed that the Respondent would provide updated answers to those questions, indicating where in the transcript the answers to those questions can be found. If this matter is not resolved between the parties, I will address it with the parties as part of my case management of these appeals.
+J. Questions Respecting Requests for the Crown’s Position in Respect of Paragraphs 247(2)(b) and (d): Re: Questions 2587, 2588, 2589, 2590, 2593, 2594, 2603, 2604, 2605, 2606, 2607, 2608, 2609, 2610 and 2611
+The Appellant’s Position [69] The Respondent in its pleadings places reliance on paragraphs 247(2)(b) and (d) although, during the hearing of the Motion, indicated that it would not be relying on this provision. However, to date, that provision remains in the pleadings as the Respondent has not amended its pleadings. The Appellant relies on the Federal Court of Appeal decision in ExxonMobil and contends that, since the pleadings have not been amended, the questions remain relevant and can be asked. The Appellant also alleges that, if paragraphs 247(2)(b) and (d) are abandoned, this will be relevant to those provisions that remain in the pleadings and, therefore, questions in this regard should be answered.
+The Respondent’s Position [70] The Respondent states that it has answered questions 2589, 2590, 2593 and 2594. Questions 2587, 2588, 2603 and 2604 were refused because they do not relate to issues and facts that are pleaded and relevant to the appeal. In addition, questions 2603 and 2604 are improper because the Appellant is seeking the Respondent’s work product as well as information that is properly the subject of litigation privilege. Questions 2605, 2606 and 2609 are not proper follow up questions for the purposes of Rule 107(2). Questions 2607 and 2608 were refused because they are hypothetical and request the Respondent to consider matters outside the Respondent’s information and knowledge. If this is relevant, the Appellant is in the best position to adduce such evidence. Questions 2610 and 2611 were refused because they are improper in that they seek the evidence that the Crown will rely on to prove its allegations.
+The Court’s Direction [71] ExxonMobil decided that, if issues were remaining in the pleadings, even though there was an intention to abandon those, the discovery questions relating to those issues, that were not otherwise irrelevant or objectionable, could be asked.
+[72] Let me begin first by addressing two questions which are obviously improper and cannot be asked. Questions 2603 and 2604 ask that the Respondent disclose the facts and conclusions of law that led it to decide to abandon paragraphs 247(2)(b) and (d). Those questions are largely irrelevant as the Respondent has not taken any steps to amend its pleadings and until it does so, those sections remain intact.
+[73] Questions 2587 and 2588 should be answered. They were refused on the basis that the provision of paragraphs 247(2)(b) and (d) was being abandoned but the pleadings have not been amended.
+[74] Questions 2589 and 2590 have been answered.
+[75] The responses to questions 2593 and 2594 merely reference paragraphs in the pleadings, which is unresponsive. They should be answered.
+[76] Questions 2605 and 2606, respecting what rates arm’s length parties might charge, need not be answered.
+[77] Questions 2607 and 2608 need not be answered as they call for conjecture on the Respondent’s part.
+[78] Question 2609 need not be answered as it was addressed at prior questions 464 to 466.
+[79] Questions 2610 and 2611 are borderline cases between distinguishing, on the face of the questions alone, whether they go beyond a request for relevant facts underlying an allegation to seeking the opposing party’s evidence. I am directing that question 2610 be answered as it asks for those facts the Crown relies upon if it is adopting a certain position. Question 2611 need not be answered as it presupposes an answer that potentially goes to seeking evidence.
+II. Significance of Particular Documents A. Questions Relating to the Use of Documents at Trial: Re: Questions 2104, 2105, 2298, 2299, 2301, 2303, 2304, 2310, 2311, 2313, 2708, 2711 and 2712
+The Appellant’s Position [80] Where discovery of documents proceeds under Rule 81, rather than Rule 82, questions that ask how specific documents or parts of documents relate to particular facts or support certain allegations that are pleaded are proper. This is especially so where document production is voluminous and complex.
+The Respondent’s Position [81] The Respondent asserts that it has answered questions 2104, 2105, 2708 and 2711 to the best of its ability. The remaining questions, with the exception of question 2712, are vague and imprecise which renders them unanswerable. All of the remaining questions, including question 2712, are improper as they require the Respondent to segregate documents and then identify which of those documents relate to a particular issue.
+The Court’s Direction [82] The Respondent’s list of documents contains over 3,000 items. The Appellant’s submissions indicated that this appeal also involves a U.S. audit of the U.S. transactions and that product was shared with the CRA. Whatever the origin, the end result is a significant number of documents to potentially deal with at a hearing. In such circumstances, the opposing party is entitled to know why a document appears on a list and to be given some general sense of its proposed relevance. The relevancy of documents, as in the case of questions, will be determined by the pleadings. This is just one of the aims of discovery: to herd the parties in the proper direction in preparation for trial.
+[83] Question 2104 need not be answered as it seeks to acquire knowledge respecting the specific intended use that the Respondent intends to make of a Salomon, Smith Barney presentation made to the Appellant. This request goes beyond seeking the facts, issue or general information to which this document relates and it was properly refused.
+[84] Question 2105 asks the Respondent to advise which allegations of fact this same document relates to and this is a proper question and must be answered.
+[85] Questions 2298, 2299, 2301, 2303 and 2304, as they are presently worded, are improper. They would necessitate the Respondent engaging in segregation of its documents. Those questions ask for the relevance of certain documents to the issues in the appeal which is permitted. However, they go a step further by requiring the Respondent to segregate its documents. I am directing that those questions be answered if the Appellant rephrases the questions so that they refer to specific production numbers, or in some other manner, identifies those specific documents to which they require a response.
+[86] Question 2310 should be answered as the Appellant is simply requesting the Respondent to advise of the relevance of interview transcripts conducted by the Internal Revenue Service to the issues.
+[87] Questions 2311 and 2313 should be answered if the Appellant provides identification/production numbers for the intercompany agreements it is referencing in 2311 and the item 57 number it is referencing in 2313. Those questions should be answered for the same reason as set out in question 2310.
+[88] I have directed a response to question 2105 and, in doing so, I anticipate it will also be responsive to questions 2708, 2711 and 2712 as they relate again to the Salomon, Smith Barney document and how it may or may not be relevant to a particular fact or issue.
+B. Questions Relating to Requests for Audit Records in Respect of Tax Avoidance: Re: Questions 897, 2327 and 2328
+The Appellant’s Position [89] The Appellant asserts that it has asked these questions in part because paragraphs 247(2)(b) and (d) remain in the pleadings and reference that the arrangements had no bona fide purpose except to obtain a tax benefit in the form of a deduction to the guarantee fees. The Appellant states that it is entitled to the production of any documents that were generated during the audit by the Aggressive Tax Planning Group at the agency headquarters where an in-depth review of the subject transactions contained in the pleadings was conducted. Questions 2327 and 2328 may lead to a train of inquiry that could assist the Appellant’s case.
+[90] The Appellant also asked the Respondent whether the GAAR Committee had reviewed the Appellant’s transactions (question 897).
+The Respondent’s Position [91] The Respondent refused these questions on the basis that they are irrelevant questions because the assessments were not issued under the GAAR provisions.
+[92] The Respondent contends they are simply fishing expeditions because the Appellant has not established the relevance of the Aggressive Tax Planning records to the issues contained in the pleadings.
+The Court’s Direction [93] Questions 2327 and 2328 seek documents relating to the agency’s review of interest expenses claimed with respect to what is referred to in the pleadings as the “Hybrid III transaction”. Although the Respondent contends that the Appellant’s questions are “fishing expeditions”, they fall within that low relevancy threshold in respect to discoveries. They should be answered as they may lead to a train of inquiry in respect to the Respondent’s position that the purpose of the guarantee fees was to obtain a tax benefit. These questions may assist the Appellant’s case or set back the Respondent’s case.
+[94] Question 897 is borderline but, again, with the discovery principles applicable to relevancy and the Federal Court of Appeal decision in Lehigh, I am directing that the Respondent answer this question.
+CONOCO FUNDING COMPANY [95] The essential facts in this appeal, as outlined at the beginning of these reasons, are very similar to those of Burlington. As one would expect, the categories of the questions in this motion, as well as the question content, are similar to those contained in the Burlington motion.
+[96] Appellant counsel advised the Court that she would not be moving on the following questions: 1196, 1197, 1201, 1202, 1203, 1207, 1208, 1212, 1213, 1214, 1217, 1321, 1400, 1401, 1402, 1445, 1446, 1447, 1448, 1450, 1521, 1569, 1570, 1578, 1579, 1614, 1615, 1616, 1618, 1619, 1620, 1621, 1622, 1623, 1624, 1652, 1654 and 1665. Questions 1445, 1446, 1447 and 1450 have been answered and the Respondent has removed the refusals for the purpose of Rule 107(2).
+[97] As in the Burlington pleadings, the Respondent has advised that it will no longer be relying on paragraphs 247(2)(b) and (d) to adjust the amount of the guarantee fees although it has not amended its pleadings to reflect this position.
+I. Questions on the Crown’s Position A. Questions Relating to the Crown’s Position on the Basis of the Assessment Re: Questions 797, 798 and 807
+The Appellant’s Position [98] These three questions are relevant as they relate to the views and work of the economists who, during the audit period, formulated three theories that formed the basis of the assessment. In particular, the questions are important because they relate to the view of the economists on the Appellant’s credit rating for the purposes of applying the yield approach. They also address whether the parental guarantee was required, notwithstanding that a subscription agreement was in place. The questions are designed to acquire knowledge as to whether and how the Respondent intends to depart from the Minister’s position at assessment.
+The Respondent’s Position [99] The Respondent contends that questions 797 and 798 have been answered and that question 807 is improper because it references a third party lender’s requirements which is outside the Respondent’s knowledge and information.
+The Court’s Direction [100] Questions 797 and 798 are proper questions but they have been answered. Question 807 should be answered. Although it may require some speculation on the Respondent’s part as to whether lenders would still require the explicit guarantee, notwithstanding the subscription agreement, the economist’s report has likely referenced various assertions and conclusions based on what lenders would do.
+B. Questions Relating to the Crown’s Position on the Capitalization of the Appellant Re: Questions 1068, 1343, 1385 and 1387
+The Appellant’s Position [101] These questions focus on the Minister’s view, in carrying out the transfer pricing analysis, of the significance of the Appellant’s capitalization and, specifically, whether the Appellant should have been capitalized and whether the arm’s length principle requires a particular level of capitalization. The Appellant states that it is entitled to ask questions respecting whether and how the Respondent may be departing from the basis of the Minister’s assessment in this regard.
+The Respondent’s Position [102] The Respondent contends that it has answered question 1068 and that the remaining three questions have been refused because they seek its legal analysis and evidence and that they are being asked under the guise of seeking the Respondent’s legal position with respect to the Appellant’s capitalization.
+The Court’s Direction [103] Question 1068 needs to be answered even though the Respondent has asserted it will be abandoning its reliance on paragraphs 247(2)(b) and (d). Since reliance on this position remains in the pleadings, the question relating to whether the Appellant should have been capitalized differently is relevant and needs to be answered.
+[104] Question 1343 is asking whether the Respondent will be taking a different position on capitalization from the position adopted by the economists in that report. The Respondent responded in the affirmative and, given that response, it must now answer the question and advise the Appellant what its position will be on capitalization.
+[105] Questions 1385 and 1387 need not be answered as they are improper. They seek information on the Respondent’s perspective on the sufficiency of the Appellant’s capitalization and the manner in which it ought to have been capitalized, which go to legal analysis.
+C. Questions Relating to the Crown’s Position on the Appellant’s Credit Rating Under the Yield Approach Re: Questions 1140, 1141, 1457, 1459, 1460, 1464, 1466, 1468, 1469, 1470, 1471, 1472, 1473, 1475, 1476, 1519 and 1520
+The Appellant’s Position [106] The Appellant contends that these questions are relevant to the Crown’s pleadings with respect to paragraphs 247(2)(a) and (c) and, specifically, that the Respondent has refused to advise of its position under the yield approach, to advise what it believes the Appellant’s credit rating should be for the purposes of applying the yield approach and to advise the methodology that it says should have been used to ascertain the credit rating.
+The Respondent’s Position [107] The Respondent states that it has answered all of these questions to the best of its ability with the exception of question 1472, which it says improperly seeks the evidence that the Respondent will rely on to prove its allegations and questions 1475 and 1476, which are unrelated hypothetical questions.
+The Court’s Direction [108] Questions 1140 and 1141, relating to the Appellant’s credit rating, were answered in updated answers to the Respondent’s answers to undertakings. Questions 1457, 1459, 1460, 1464, 1466 and 1468 relate to the application of the imputed credit rating methodology. They are proper questions but the Respondent has answered all of them by stating that the methodology does not apply and that it applied paragraphs 247(2)(a) and (c) on the basis that the Appellant’s rating is the same as its parent corporation due to that corporation’s implicit support. This response has also answered questions 1473 and 1520.
+[109] Questions 1469, 1470 and 1471 are proper questions but, again, they have been properly answered. The questions concern the Respondent’s view of potential changes to the credit rating during the period. The Respondent’s answer was that it adopted the same position as the Minister in that it assumed the credit rating did not change.
+[110] Question 1472 need not be answered as the Respondent has advised, in its response to question 1469, that it assumed the credit rating did not change.
+[111] Questions 1475 and 1476 are irrelevant based on the Respondent’s answer at question 1457. They simply reference potential scenarios respecting the Appellant’s credit rating.
+[112] Question 1519 is a proper question but it has been answered affirmatively in that the Crown relies on implicit support in this appeal.
+D. Questions Relating to the Crown’s Position on the Nature of the Guarantee Fee Payments Re: Questions 1044, 1127, 1142, 1338, 1340, 1341, 1342 and 1449
+The Appellant’s Position [113] The questions are proper in that they seek the Crown’s legal position in respect to paragraphs 247(2)(a) and (c), which contemplate a change to the nature of the amounts in the midamble to subsection 247(2). They are also relevant in respect to paragraphs 18(1)(a), 18(1)(b) and 20(1)(e.1), as the deductibility of the amounts may depend on the nature if they are not guarantee fees.
+The Respondent’s Position [114] The Respondent contends that question 1127 is irrelevant because it has advised that it will not be taking that position with respect to paragraphs 247(2)(b) and (d). Questions 1341 and 1342 improperly call for the Respondent’s opinion on the law or a legal conclusion. The Respondent states that it has answered the balance of the questions in this category to the best of its ability.
+The Court’s Direction [115] Question 1044 asked, if the Respondent took the position that the amount was not paid as a guarantee fee, then, what would be the nature of the fee? This question was initially refused as an improper question, with the Respondent eventually stating that the nature of the amount would not be a guarantee fee but a transfer of funds from the Appellant to the recipient designed to allow the Appellant to claim a tax deduction. This question has been answered.
+[116] Question 1127 is a proper question and should be answered as the Respondent has not amended its pleadings to reflect that it will not take that position.
+[117] Question 1142 is proper and has been answered in undertakings in the affirmative by indicating that the nature of the amounts would be adjusted to be a tax benefit, with the result that there would be no deduction.
+[118] Question 1338 has been answered. That question, together with question 1340, relates back to question 1142 where Appellant counsel stated that she did not understand the response. These questions need not be answered. The response to the wording of question 1142 is straightforward.
+[119] Questions 1341 and 1342 are properly refused as they seek the Respondent’s legal opinion on whether there is a difference between the character of the fee under a sham analysis and an analysis pursuant to paragraphs 247(2)(a) and (c).
+[120] Question 1449 is a proper question, but it has been answered in the response to question 1339 in which the Respondent indicates that the funds transfer was designed to allow the Appellant to claim a tax deduction.
+E. Questions Relating to the Crown’s Position on the Legal Effectiveness of Documents, Sham and Authenticity Re: Questions 1224, 1290, 1319, 1320, 1322, 1323, 1324, 1325, 1326, 1327, 1328, 1329, 1330, 1331, 1332, 1333 and 1339
+The Appellant’s Position [121] Since the Respondent has taken the position that certain documents were legally ineffective or a sham, the Appellant’s questions, respecting the basis of the Respondent’s position in this regard, as well as the facts upon which it relies for asserting this position, are proper. Although neither legal ineffectiveness nor sham were pleaded legal doctrines, given the Respondent’s answers to discovery questions, these follow up questions are appropriate as they are directed at onus. In addition, questions concerning the authenticity of documents, introduced by the Appellant during discoveries, are proper examination questions to assist the Appellant in ascertaining whether there is a disagreement on the identification of companies that were the guarantors from time to time, that is, after the debt was issued. The Appellant states that these questions are directed at determining whether, prior to trial, the parties agree that these documents are authentic or are not.
+The Respondent’s Position [122] The Respondent states that it has answered questions 1224, 1320, 1324, 1325, 1326, 1327, 1328 and 1329 to the best of its ability. Questions 1290 and 1322 are improper because they seek the Crown’s evidence that it will rely on to prove its allegations. Questions 1319 and 1323 are improper as they are protected by litigation privilege because they essentially seek the Respondent’s work product. Question 1333 is improper as it requires the Respondent to segregate its documents and then identify which documents relate to a particular issue. Questions 1330 and 1331 are improper as they ask for a legal opinion on the law or legal conclusions. Questions 1332 and 1339 were answered to the best of their ability.
+The Court’s Direction [123] Question 1224 is a proper question respecting the authenticity of a document but, at this point in the discovery stage, where the Respondent has not finished examining the Appellant’s nominee, it has been properly answered. It will be incumbent upon the Respondent to provide its position on the authenticity of the document in due course.
+[124] Question 1290 asks what facts the Respondent will rely on to substantiate its admitted position that the guarantee fee agreements are legally ineffective. This is a proper question as long as it is limited to the facts and not the evidence or proof of those facts that the Respondent will rely on to support its position.
+[125] Questions 1319, 1322 and 1323 are proper questions as they relate to the Respondent’s legal position and reliance on facts that support that position. As noted in caselaw, particularly the decision in Sandia Mountain Holdings v The Queen, 2005 DTC 206, there is a fine line between divulging relevant facts connected with an allegation and those that fall within the realm of disclosing facts that may be proof of an allegation; a subtle distinction but nonetheless a distinction. I note that questions 1319, 1322 and 1323 overlap somewhat with the questions asked at questions 1324 to 1329 and they may, therefore, have been answered through the responses given to questions 1324 to 1329. Question 1322 is essentially the same as question 1324 and has been answered. Question 1319 should be answered as it relates to the Respondent’s position on the legal effectiveness of the guarantee fee agreements. Question 1323 should be answered as it relates to the Respondent’s legal position on sham in respect to the guarantee fee agreements.
+[126] Question 1320 was answered in the response to question 1321.
+[127] Questions 1324, 1325, 1326, 1327 and 1328 are proper questions which have been answered in the undertakings. Question 1329 has also been answered.
+[128] Questions 1330 and 1331 ask the Crown to identify specific instances where the actual legal relationship between Conoco and the guarantor differed from those that are reflected in the written agreements, as well as the Crown’s basis for those assertions. These are proper questions and should be answered.
+[129] Question 1332, respecting the Crown’s assertion that the parties did not intend to be governed by the written agreements, has been answered. However, question 1333 was properly refused. First, it requests generally any information the Crown has in this regard which was answered at question 1332. Second, requesting the Crown to identify documents specifically in regard to the aforesaid assertion is asking the Crown to segregate documents that relate to this particular issue.
+[130] Question 1339, respecting the Crown’s view of the character of guarantee fee payments, has been answered in the Respondent’s undertaking.
+F. Questions Relating to the Crown’s Position Regarding the Application of Subsection 247(2) to the “Arrangements” Re: Questions 1454 and 1455
+The Appellant’s Position [131] The Appellant is entitled to know the Crown’s position on the application of paragraphs 247(2)(a) and (c) to the terms and conditions as well as the quantum of amounts of the “Arrangements”, as opposed to the guarantees and as defined in the Reply to the Notice of Appeal. The Appellant is also seeking to know whether, in this regard, the Crown intends to adopt the so-called three theories raised in the assessment.
+The Respondent’s Position [132] The Respondent states that questions 1454 and 1455 seek the Respondent’s work product and its evidence that supports the allegation.
+The Court’s Direction [133] Questions 1454 and 1455 need to be addressed. They are both proper questions and should be answered. The Appellant is entitled to know the basis of the position advanced by the Respondent and the facts relied upon in respect to the “Arrangements” and the three bases underlying the assessment.
+G. Questions Relating to the Crown’s Position under Paragraph 18(1)(b) Re: Questions 1160, 1161, 1162, 1163, 1164, 1428, 1429 and 1435
+The Appellant’s Position [134] Since the Respondent has pleaded its reliance on paragraph 18(1)(b), the Appellant is entitled to ask questions relating to the Crown’s position and the facts relied upon in support of that position under this provision.
+The Respondent’s Position [135] The Respondent states that it has answered all of the questions in this category to the best of its ability, with the exception of questions 1164 and 1435. It asserts that question 1164 calls for a legal opinion or conclusion and that question 1435 improperly seeks the Crown’s evidence that will prove an allegation.
+The Court’s Direction [136] Questions 1160 and 1161 are essentially the same question. They are proper questions, respecting the Crown’s position under paragraph 18(1)(b), and are to be answered.
+[137] Questions 1162 and 1163 have also been answered. The questions relate to an alternative position. The Respondent has taken the position that the fees are not guarantee fees but the responses indicate that if the fees are found to be guarantee fees, then paragraph 18(1)(b) will apply to disallow them.
+[138] Question 1164 should be answered, even if it may be only the Respondent’s opinion. It concerns the application of paragraph 20(1)(e.1) which, after all, the Respondent has pleaded.
+[139] Questions 1428 and 1429 are proper and should be answered. Question 1428 simply asks whether the Crown considers that the fees are on capital account while question 1429 is asking about the deductibility of fees pursuant to paragraph 18(1)(b).
+[140] Question 1435 should be answered as it seeks the facts relied on that relate to the Crown’s allegation respecting paragraph 18(1)(b). The Crown need not, in responding to this question, state how it intends to prove its case in this respect.
+H. Questions Relating to the Crown’s Position Respecting its Primary Argument Re: Questions 1664, 1666, 1667, 1668 and 1669
+The Appellant’s Position [141] The Appellant states that answers to these questions are essential in order to properly prepare for trial and are, therefore, seeking to know the Crown’s primary argument.
+The Respondent’s Position [142] The Respondent states that it has answered these questions and that, in any event, they are not proper follow up questions.
+The Court’s Direction [143] All of these questions relate to the order in which the Crown will be presenting its arguments at trial and must be answered so as to enable all parties to be focussed on the issues at trial.
+I. Questions Relating to the Crown’s Position Under Paragraphs 247(2)(b) and (d) Re: Questions 1081, 1096, 1097, 1098, 1099, 1198, 1205, 1206, 1209, 1211, 1215, 1216, 1404, 1406, 1407, 1408, 1409, 1410, 1411, 1415, 1416, 1422, 1423, 1424, 1653, 1655, 1656, 1657, 1658, 1659, 1660, 1661, 1662 and 1663
+The Appellant’s Position [144] Although the Respondent has advised that it will no longer be relying on paragraphs 247(2)(b) and (d), the pleadings have not been amended and, therefore, the Appellant may ask questions respecting the Crown’s position in respect to this provision. In addition, questions respecting paragraphs 247(2)(b) and (d) are relevant to the remaining provisions contained in the pleadings.
+The Respondent’s Position [145] The Respondent states that it has answered many of these questions. With respect to the remaining questions, the Respondent considers questions 1081, 1096, 1098, 1099, 1216, 1404, 1406, 1407, 1408, 1409, 1410, 1653, 1660, 1661, 1662 and 1663 to be irrelevant because it has indicated that it will be abandoning that position. Questions 1205 and 1206 are protected by litigation privilege. Question 1423 is improper because it seeks the Crown’s evidence. Questions 1422, 1424, 1656, 1657 and 1658 are not proper follow up questions. Question 1416 is improper because it asks the Crown to speculate on what the Appellant might do and this is outside the knowledge and information of the Crown.
+The Court’s Direction [146] Question 1081 must be answered. The Crown’s position, in respect to paragraphs 247(2)(b) and (d), remains relevant, where the pleadings have not been amended.
+[147] Questions 1096, 1097, 1098, 1099 and 1198 have been answered.
+[148] Questions 1205 and 1206 need not be answered as the pleadings have not been amended and, therefore, the questions respecting why the provision is being abandoned are largely irrelevant. In any event, they inappropriately go to the mental processes of the Minister.
+[149] Questions 1209 and 1211 have been answered.
+[150] Question 1215 has been partially answered in respect to paragraphs 247(2)(a) and (c) but must be answered with respect to paragraphs 247(2)(b) and (d).
+[151] Questions 1216, 1653, 1656, 1657, 1658, 1659, 1660, 1661, 1662 and 1663 must also be answered. It is not sufficient to state that the question is irrelevant because the Crown is intending to abandon its position in respect to certain provisions contained in the pleadings.
+[152] The response to questions 1404, 1406, 1407, 1408, 1409 and 1410 simply reference paragraphs 12 and 13 of the Reply to the Notice of Appeal. This is unresponsive and I am directing that the questions be specifically answered.
+[153] Question 1411 led to a series of questions which culminated in question 1415 which was answered in the undertaking response.
+[154] Question 1416 is a hypothetical query which asks the Crown to speculate on the mental processes of the Appellant. It need not be answered.
+[155] Questions 1422 and 1424 have both been answered in the Respondent’s responses to its undertaking.
+[156] Question 1423 should be answered in respect to the facts that relate to the assertion that no arm’s length party would provide a guarantee. The Crown, however, need not provide the evidence that will prove that assertion.
+[157] Question 1655 has been answered in the response given to question 1208.
+J. Questions Relating to the Request for Factual Positions Re: Questions 1580, 1628, 1630 and 1671
+The Appellant’s Position [158] The Appellant states that it is entitled to know the Crown’s factual position on the question of whether the guarantee fees were incurred, which is relevant to paragraphs 18(1)(b) and 20(1)(e.1). The Appellant contends that it is entitled to know whether the Crown, at assessment, assumed that the fees were accrued in the year in which they were alleged to have been incurred and that it is also entitled to know the facts that the Crown may be relying on to argue that the fees were not incurred. The Appellant also seeks the facts and documents that the Crown will rely on to argue that the original loan was replaced but was not repaid.
+The Respondent’s Position [159] The Respondent states that it has answered questions 1628, 1630 and 1671 but that question 1580 is improper because it seeks the evidence that the Crown will rely on to prove its allegations contained in the pleadings.
+The Court’s Direction [160] Question 1580 should be answered in respect to any facts that relate to the assertion that the guarantee fees were not incurred. However, this does not include the disclosure of the Crown’s evidence that will prove this assertion.
+[161] Questions 1628, 1630 and 1671 have been partially answered by the Crown referencing a document in response to all three questions. However, they remain unresponsive in respect to the particular questions which request facts or documents. They should be answered.
+II. Questions Relating to a Request for the Sigificance of Particular Documents A. Questions about the Use of Documents at Trial Re: Questions 151, 942, 944, 945, 946, 948 and 949
+The Appellant’s Position [162] The parties have proceeded under Rule 81 of the Tax Court of Canada Rules (General Procedure). The Respondent has produced a list containing over 3,000 items. The Appellant is entitled to know the relevance of documents on a list together with the documents being relied upon to support a particular allegation.
+The Respondent’s Position [163] The Respondent states that it has answered question 151 but that questions 942, 944, 945, 946, 948 and 949 seek its work product in that it calls for the Crown to segregate and identify which documents relate to a particular issue.
+The Court’s Direction [164] Question 151 is a proper question but it has been answered. The Crown clearly states that no reliance was placed on the October 2006 agreement for the purposes of the assessments.
+[165] Questions 942, 944, 945, 946, 948 and 949 are proper questions and must be answered. The Appellant has identified documents, asked why they have been included and the connection to the pleadings. The Appellant has not asked the Crown to segregate documents as they relate to particular issues. What the Appellant is asking is permissible within the parameters established in the caselaw.
+Summary I. With Respect to Burlington: [166] The Respondent’s nominee, at the Respondent’s own expense, shall re‑attend a continuation of examinations for discovery, to be held within 60 days of the date of this Order, to answer the questions listed in the following categories:
+1. Questions relating to the Crown’s position on the basis of the assessment: 1071, 2338 and 2339 (provided questions 2338 and 2339 are re-stated)
+2. Questions relating to the Crown’s position on the capitalization of the Appellant: Questions 192, 2720, 2721, 2723, 2726, 2727
+3. Questions relating to Burlington’s credit rating under the “Yield Approach”: Questions 2638 and 2639
+4. Questions relating to requests for the lender’s view of the guarantee: Questions 107, 108, 112, 113, 2695 and 2790 are to be answered. Question 2788 should be answered but the Respondent is not required to give the proof of those facts. Questions 2789 and 2791 are to be answered insofar as they are confined to seeking the position the Respondent will adopt at trial.
+5. Questions relating to the request for the nature of the guarantee fee payments: None
+6. Questions respecting the Crown’s position on sham: Questions 33, 34, 35 and 36
+7. Questions relating to the Crown’s position under paragraph 18(1)(b): Question 2616. Question 2617 should be answered, but only to the extent that this question is aimed at having the Respondent divulge the relevant facts in connection with its reliance on paragraph 18(1)(b) and is not seeking evidence.
+8. Questions relating to requests for the Crown to describe the primacy of its arguments at trial: Questions 2766 and 2767
+9. Questions respecting requests for the Crown’s position on the assessment of penalties: As per the parties’ agreement, to be resolved between the parties or through case management.
+10. Questions respecting requests for the Crown’s position in respect of paragraphs 247(2)(b) and (d): Questions 2587, 2588, 2593, 2594 and 2610
+11. Questions relating to the use of documents at trial: Question 2105 should be answered. I anticipate that response should also respond to questions 2708, 2711 and 2712. Questions 2298, 2299, 2301, 2303 and 2304 should be answered provided the Appellant rephrases those questions so that they refer to specific production numbers, or in some other manner, identifies those specific documents to which they require a response. Question 2310 should be answered. Questions 2311 and 2313 should be answered if the Appellant provides identification/production numbers for the intercompany agreements it is referencing in 2311 and the item 57 number it is referencing in 2313.
+12. Questions relating to requests for audit records in respect of tax avoidance: Questions 897, 2327 and 2328
+[167] Any further proper questions arising from those answers shall be provided within 14 days of the completion of the further examinations.
+[168] Costs shall be in the cause.
+II. With Respect to Conoco: [169] The Respondent’s nominee, at the Respondent’s own expense, shall re‑attend a continuation of examinations for discovery, to be held within 60 days of the date of this Order, to answer the questions listed in the following categories:
+1. Questions relating to the Crown’s position on the basis of the assessment: Question 807
+2. Questions relating to the Crown’s position on the capitalization of the Appellant: Questions 1068 and 1343
+3. Questions relating to the Crown’s position on the Appellant’s credit rating under the “Yield Approach”: None.
+4. Questions relating to the Crown’s position on the nature of the guarantee fee payments: Question 1127
+5. Questions relating to the Crown’s position on the legal effectiveness of documents, sham and authenticity: Question 1224 has been answered at this point, but it will be incumbent upon the Respondent to provide its position in due course. Question 1290 should be answered, as long as it is limited to the facts and not the evidence or proof of those facts that the Respondent will rely on to support its position. Questions 1319, 1322, 1323, 1330 and 1331 should be answered.
+6. Questions relating to the Crown’s position regarding the application of subsection 247(2) to the “Arrangements”: Questions 1454 and 1455
+7. Questions relating to the Crown’s position under paragraph 18(1)(b): Questions 1160, 1161, 1164, 1428 and 1429 should be answered. Question 1435 should be answered, however, the Crown need not, in responding to this question, state how it intends to prove its case in this respect.
+8. Questions relating to the Crown’s position respecting its primary argument: Questions 1664, 1666, 1667, 1668 and 1669.
+9. Questions relating to the Crown’s position under paragraphs 247(2)(b) and (d): Question 1081 should be answered. Question 1215 should be answered as it pertains to paragraphs 247(2)(b) and (d). Questions 1216, 1653, 1656, 1657, 1658, 1659, 1660, 1661 1662 and 1663 should be answered. Questions 1404, 1406, 1407, 1408, 1409 and 1410 should be answered with further specifics. Question 1423 should be answered in respect to the facts that relate to the assertion that no arm’s length party would provide a guarantee. The Crown, however, need not provide the evidence that will prove that assertion.
+10. Questions relating to the request for factual positions: Questions 1628, 1630 and 1671 should be answered. Question 1580 should be answered in respect to any facts that relate to the assertion that the guarantee fees were not incurred. However, this does not include the disclosure of the Crown’s evidence that will prove this assertion.
+11. Questions about the use of documents at trial: Questions 942, 944, 945, 946, 948 and 949.
+[170] Any further proper questions arising from those answers shall be provided within 14 days of the completion of the further examinations.
+[171] Costs shall be in the cause.
+Signed at Ottawa, Canada, this 20th day of March 2015.
+“Diane Campbell”
+Campbell J.
+CITATION:
+2015 TCC 71
+COURT FILE NOS.:
+2012-2683(IT)G and 2013-2595(IT)G
+STYLES OF CAUSE:
+BURLINGTON RESOURCES FINANCE COMPANY,
+CONOCO FUNDING COMPANY,
+and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+December 9 and 10, 2014
+REASONS FOR ORDER BY:
+The Honourable Justice Diane Campbell
+DATE OF ORDER:
+March 20, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Martha MacDonald
+Brynne Harding
+Counsel for the Respondent:
+Jenny Mboutsiadis
+Erin Strashin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Martha MacDonald
+Brynne Harding
+Firm:
+Osler, Hoskin & Harcourt LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

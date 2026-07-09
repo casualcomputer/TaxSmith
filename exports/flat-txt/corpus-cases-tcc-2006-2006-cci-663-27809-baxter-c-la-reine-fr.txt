@@ -1,0 +1,145 @@
+Title: Baxter c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27809/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-663-27809-baxter-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-11-30
+
+# Baxter c. La Reine
+
+- Citation: 2006 CCI 663
+- Decision date: 2006-11-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 284, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Baxter c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-30
+Référence neutre
+2006 CCI 663
+Numéro de dossier
+2002-4035(IT)G
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4035(IT)G
+ENTRE :
+R. DAREN BAXTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Reprise de la conférence téléphonique concernant les dépens, tenue le 30 novembre 2006 à Ottawa, Canada.
+Devant : L'honorable juge R. D. Bell
+Participants :
+Avocats de l'appelant :
+Me Al Meghji
+Me Edwin C. Harris, c.r.
+Me Ted Citrome
+Avocats de l'intimée :
+Me John W. Smithers
+Me V. Lynn W. Gillis
+________________________________________________________________
+ORDONNANCE
+Vu les observations écrites des avocats concernant les dépens et la tenue de deux conférences téléphoniques avec les avocats afin de discuter de cette question, la Cour ordonne que l'appelant ait droit à des dépens de 526 181,47 $, ventilés comme suit :
+Dépens en vertu de l'annexe II
+(a)
+Frais judiciaires – Signification de l'avis d'appel
+250,00 $
+(b)
+Frais juridiques calculés en vertu du tarif B de l'annexe II
+17 150,00 $
+(c)
+Frais de sténographie judiciaire et coûts de transcription
+658,92 $
+(d)
+Transcription de l'instance tenue à la Cour canadienne de l'impôt
+1 408,15 $
+(e)
+Frais d'expertise
+25 000,00 $
+(f)
+Frais et débours des témoins experts
+(i) Charles LeBeau
+31 000,00 $
+(ii) Cole Valuation Partners Limited
+366 000,00 $
+(g)
+Recherches en ligne dans les bases de données, services de messagerie, frais de télécopie, frais de papeterie et frais de photocopie et d'impression
+4 930,55 $
+Total des coûts en vertu de l'annexe II
+446 397,62 $
+Plus un montant en sus, en application de l'article 147 des Règles de la Cour canadienne de l'impôt (procédure générale)
+50 000,00 $
+Total
+496 397,62 $
+TPS sur les frais
+4 044,00 $
+TPS sur les débours
+25 739,85 $
+Total des coûts
+526 181,47 $
+Signé à Ottawa, Canada, ce 30e jour de novembre 2006.
+« R. D. Bell »
+Le juge Bell
+Traduction certifiée conforme
+ce 1er jour d'août 2007.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI663
+Date : 20061130
+Dossier : 2002‑4035(IT)G
+ENTRE :
+R. DAREN BAXTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE RELATIVE AUX DÉPENS
+Le juge Bell
+[1] L'appelant a interjeté appel à l'encontre d'une nouvelle cotisation mettant en litige six questions que la Cour devait trancher. Lors de l'interrogatoire préalable, l'appelant a appris que l'intimée n'avait pas fait cinq hypothèses de fait qui étaient mentionnées dans la réponse de l'intimée à l'avis d'appel. L'intimée a modifié sa réponse de manière à présenter certaines hypothèses comme des allégations de fait. En conséquence, l'intimée avait le fardeau de prouver que l'appelant avait un lien de dépendance avec la société dont il avait acheté des licences d'utilisation de logiciel. Il avait entendu parler de cette société, qui était basée aux Bermudes, pour la première fois 10 jours avant l'achat de ses licences.
+[2] L'allégation selon laquelle il avait un lien de dépendance avec le fournisseur obligeait non seulement l'appelant à monter son dossier à cet égard, mais aussi à récuser la prétention de l'intimée voulant que la juste valeur marchande de la licence ait été pratiquement nulle au moment de l'achat.
+[3] L'intimée a aussi prétendu que l'appelant n'exploitait pas une entreprise en utilisant cette licence, mais que son mandataire, qui avait un lien de dépendance avec le fournisseur de la licence, exploitait une entreprise à son propre compte en utilisant la licence.
+[4] J'ai conclu que l'argument selon lequel l'appelant n'exploitait pas une entreprise n'était absolument pas fondé. J'ai également conclu que l'allégation selon laquelle il avait un lien de dépendance était absolument sans fondement. La position de l'intimée à cet égard a obligé l'appelant à chercher et à présenter une preuve d'expert, ce qui a prolongé l'audience d'environ cinq jours.
+[5] L'appelant n'a interjeté appel qu'à l'encontre de deux des six questions en litige, qui ont toutes été tranchées en sa faveur par la présente Cour. L'intimée n'en a pas appelé des décisions concernant le lien de dépendance, la juste valeur marchande et l'exploitation d'une entreprise.
+[6] Sur le fondement de ce qui précède, en vertu des dispositions de l'article 147 des Règles de la Cour canadienne de l'impôt (procédure générale), j'ai fixé des dépens s'élevant à 50 000 $ en sus des dépens prévus au tarif.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2006.
+« R. D. Bell »
+Le juge Bell
+Traduction certifiée conforme
+ce 1er jour d'août 2007.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI663
+Nº DU DOSSIER DE LA COUR : 2002‑4035(IT)G
+INTITULÉ DE LA CAUSE : R. Daren Baxter et La Reine
+LIEU DE L'AUDIENCE : Ottawa (Canada)
+DATE DE L'AUDIENCE : Le 30 novembre 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge R. D. Bell
+DATE DU JUGEMENT : Le 30 novembre 2006
+COMPARUTIONS :
+Avocats de l'appelant :
+Me Al Meghji
+Me Edwin C. Harris, c.r.
+Me Ted Citrome
+Avocats de l'intimée :
+Me John W. Smithers
+Me V. Lynn W. Gillis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Noms : Me Al Meghji
+Me Edwin C. Harris, c.r.
+Me Ted Citrome
+Étude : Osler, Hoskin & Harcourt
+Pour l'intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,487 @@
+---
+title: "Richer v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29414/index.do"
+last_modified: "2009-08-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 394"
+citation2: ""
+neutral_citation: "2009 TCC 394"
+decision_date: "2009-08-06"
+language: "en"
+item_id: "29414"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6966
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:04:26.975000+00:00"
+cases_cited_count: 12
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7af3ab82b756ad2717d88534a819e6fdacc530b92be059fd164575b2a5791058"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Richer v. The Queen
+
+- Citation: 2009 TCC 394
+- Decision date: 2009-08-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6966, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Richer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-08-06
+Neutral citation
+2009 TCC 394
+File numbers
+2005-4132(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-4132(IT)G
+BETWEEN:
+JACK RICHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 5, 6 and 7, 2007,
+at Montréal, Québec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the Appellant:
+Aaron Rodgers
+Julie Gaudreault-Martel
+Counsel for the Respondent:
+Martin Gentile
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 1993, 1995, 1996, 1997, 1998 and 1999 taxation years is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 6th day of August 2009.
+"Gaston Jorré"
+Jorré J.
+Citation: 2009 TCC 394
+Date: 20090806
+Docket: 2005-4132(IT)G
+BETWEEN:
+JACK RICHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+I. Introduction
+[1] This case involves the debt forgiveness provisions of the Income Tax Act (the “ITA”).[1]
+[2] This case arises from the Appellant’s participation in four limited partnerships, litigation regarding the Appellant’s liability for capital contributions to those partnerships and the settlement of that litigation.
+[3] The two principal issues that arise are: what was the amount of the Appellant’s debt, and when did the settlement occur?
+[4] Under the terms of the settlement the Appellant paid US$1 million and gave up certain rights. The Appellant takes the position that the settlement entered into represented a determination of the amount of the debt and that in consequence no debt was forgiven. Alternatively, the Appellant takes the position that, if any amount was forgiven, it was much less than computed by the Minister.
+[5] The Minister takes the position that at the time of the settlement the Appellant’s debt was just over US$2 million and that an amount of just over US$1 million was forgiven.
+[6] Additional issues are whether the Appellant could deduct certain partnership losses in 1996 and whether the assessment of penalties was justified.
+II. Facts
+[7] The Appellant is a chartered accountant by training, although he has not been practising as such since 1986. Presently he is occupied as a businessman involved in various investments. His involvement in the limited partnerships central to this appeal arose from his relationship with the Bronfman family. The Appellant explained that he had participated in various investments with Charles Bronfman and other individuals since the mid-1970s. These investments took various forms including joint ventures, limited partnerships and corporations.
+[8] The financial affairs of the Bronfman family were managed through Claridge Investments Ltd. (“Claridge”). In 1985, the Bronfman family changed the manner in which its real estate investment activities were conducted. A subsidiary of Claridge called Claridge Properties Inc. (“Claridge Properties”) was created. It was agreed that the Appellant would take part in future real estate investments through limited partnerships operated by Claridge Properties.
+[9] In 1985 and 1986, the Appellant became a limited partner in four such partnerships: Livonia Associates and Company Ltd. (“Livonia”), Park Square Associates and Company Ltd. (“Park Square”), Hickory Associates and Company Ltd. (“Hickory”) and The Southland Building Partners and Company Ltd. (“Southland”). These limited partnerships were formed for the purpose of acquiring and operating specific real estate properties located in the United States.
+[10] Whereas prior to that time when taking part in investments with Charles Bronfman he had invested his own funds directly or money would be jointly borrowed from a bank, it was agreed that the Appellant’s capital contribution to these four partnerships would be funded by Claridge Properties. Under this new arrangement, Claridge Properties provided capital to the limited partnerships in exchange for demand interest-bearing promissory notes from each limited partner, including the Appellant.
+[11] From time to time the Appellant was asked to sign promissory notes in respect of amounts beyond those initially agreed to. The Appellant testified that every six months, Claridge Properties would issue a statement showing the amount of funds invested and request a note from each of the partners in respect of any additional funds contributed on their behalf.
+[12] Mr. Andrew Parsons, a chartered accountant who was employed at Claridge up until 2004, testified for the Minister. During his 23-year relationship with Claridge, he occupied various positions including controller and senior vice‑president, finance, and chief financial officer. Mr. Parsons explained that at the end of each financial year, each partner would be asked to cover his proportionate share of any deficit in the partnership accounts.[2] The reason for this was that once a partnership had acquired real estate, any subsequent operating loss had to be funded in some way.[3] According to Mr. Parsons, this is how Claridge Properties ran all of its partnerships.
+[13] The effect of this arrangement was that the Appellant would recognize his increased indebtedness to Claridge Properties by signing promissory notes after the fact.
+[14] The terms of the Appellant’s involvement in the four partnerships were not set down in formal written partnership agreements, but instead agreed to verbally and by handshake. The constitution of each limited partnership as well as the initial capital contribution of each partner is outlined in four separate declarations of limited partnership, however these documents do not reflect the arrangement regarding subsequent contributions described above.[4] The handshake agreements also appear to have included certain other arrangements between the parties.[5]
+[15] The Appellant explained that according to the agreed-upon arrangement, every six months he received distributions of any income earned by the partnerships, along with statements in respect of interest owing on the invested funds and any requests as to further promissory notes. This continued until late 1989, by which time the Appellant had signed promissory notes in favour of Claridge Properties totalling US$1,209,266 as follows:
+Limited partnership
+Promissory notes
+Southland
+$194,500
+Livonia
+$273,000
+Park Square
+$213,188
+Hickory
+$528,578
+Total of notes signed
+US$1,209,266
+[16] With the exception of Livonia, the partnerships lost money due to declining real estate values. Towards the end of 1989, an agreement was proposed that would allow the Appellant to withdraw from the partnerships. The Appellant testified that in early 1990, it had been verbally agreed that his liability to Claridge Properties in respect of the funds advanced on his behalf would be discharged in exchange for the transfer of his interest in the partnerships to Claridge Properties plus the payment by him to Claridge Properties of the sum of US$187,000.
+[17] However, no final agreement was reached to resolve the Appellant’s involvement in the partnerships or his liability to Claridge Properties. No payment of US$187,000 was made by the Appellant, and negotiations regarding the details of his withdrawal continued through 1991; however, beginning in January 1990, the Appellant no longer received requests regarding the payment of interest or requests that he acknowledge further indebtedness in respect of subsequent contributions made by Claridge Properties.
+[18] The matter remained unresolved, and ultimately Claridge Properties instituted proceedings in the Québec Superior Court against the Appellant in 1992.
+[19] In those proceedings, Claridge Properties took the position that no agreement was ever reached with the Appellant regarding his withdrawal from the partnerships, and claimed in aggregate US$1,723,857.48. This figure represented what Claridge Properties had determined at that time to be the Appellant’s total indebtedness in respect of amounts advanced to fund his interest in the four partnerships. Claridge Properties’ claim included amounts allegedly advanced to the partnerships on the Appellant’s behalf, for which no promissory notes had been signed. These amounts were included based on the understanding Claridge Properties had of the verbal agreements described above regarding subsequent contributions of capital, as it was admitted that no written agreement existed in respect of them.
+[20] The Appellant’s position in defence of these claims is set out in a pretrial brief filed in the Québec Superior Court in May 1996. His primary position was, as he testified in this Court, that an agreement had been made to settle his liability in respect of his involvement in the partnerships for the amount of US$187,000.
+[21] The Appellant took a number of subsidiary positions as well. It is useful to reproduce the following paragraphs from his pretrial brief:
+Defendant contends that his liability towards Plaintiff was settled and transacted and that in virtue of the agreement between the parties the only amount owed by Defendant, and the only amount that Plaintiff is entitled to claim from him, is the aforesaid sum of US $187,000.
+Subsidiarily, it is Defendant’s position that he is not liable for the full amounts claimed by the Plaintiff in its actions. In this regard, Defendant states that his liability is limited either to the amounts set out in the promissory notes or the amounts set out in the confirmations of indebtedness produced by Plaintiff . . . .
+If, however, it is determined that his liability was not extinguished or transacted as aforesaid, Defendant is entitled to offset from the total amount claimed by Plaintiff the value of his interest in the properties as established in the reconciliation . . ., namely US $1,258,000.
+Without prejudice to the foregoing, in the Livonia action . . . Defendant claims compensation between any amount that he may be condemned to pay to Plaintiff and the value of his interest in the said property, US $729,000, and demands that Plaintiff be condemned to pay to him the sum of US $546,000.[6]
+[22] Consistent with these subsidiary positions, the Appellant filed four countersuits against Claridge Properties, Charles Bronfman, Livonia, Hickory and other related parties. The documents relating to these lawsuits were not put before me. However, the Appellant testified that he sued for enforcement of the agreement to settle his liability for the amount of US$187,000; for the amount of US$456,000 he claimed he was owed on account of his involvement in Livonia and for the diminution in value of the properties suffered by him due to the actions of Claridge Properties.[7]
+[23] On December 19, 1996, the Appellant and Claridge Properties entered into an agreement (the “Settlement Agreement”) to settle their respective claims. The following paragraphs of the Settlement Agreement are significant:[8]
+WHEREAS Claridge and Richer are parties to the proceedings described on Schedule 2 to this Agreement and, contemporaneously with the execution of this Agreement, have agreed to settle their respective claims pursuant to such proceedings in consideration of the payment by Richer to Claridge of the sum of $1,000,000 in United States currency on the terms and conditions hereinafter set forth;
+. . .
+2. Claridge agrees that it shall cause Richer’s capital accounts in respect of the Partnerships to be netted to $0.00 in the case of each of the Partnerships. In consideration of such agreement, Richer agrees that he is not entitled to any positive balances which are now or at any time in the future may be in the capital accounts of any of the Partnerships, which may be applied by Claridge to the netting of accounts as aforesaid, and Richer transfers and assigns absolutely to Claridge all of his right and entitlement to any distributions of cash or other assets to which he is now or at any time in the future may be entitled as a partner of any of the Partnerships. . . . Claridge acknowledges that Richer is not liable for any deficiency in the capital accounts of any of the Partnerships.
+. . .
+4. Richer shall pay to Claridge, on or before January 8, 1997, the sum of $1,000,000 in United States currency, by certified cheque or bank draft. Richer acknowledges that he has signed a confession of judgment for such amount, and further acknowledges that should he fail to pay the amount of $1,000,000 in United States currency on or before January 8, 1997, Claridge may at any time thereafter obtain judgment upon such confession of judgment, time being of the essence. Claridge acknowledges that Richer’s payment pursuant to this paragraph is made without admission of liability with regard to any amounts claims [sic] in the proceedings described on Schedule 2.
+. . .
+6. Claridge and Richer acknowledge that they have signed a mutual release and discharge, a copy of which is annexed hereto as Schedule 3.
+[Emphasis added.]
+[24] I note that in addition to agreeing to the US$1 million payment, the Appellant gave up his interests in the partnership and his claims against Claridge and others.
+[25] This Settlement Agreement was entered into contemporaneously with a Mutual Release and Discharge (“Release”) that was signed by all the parties on December 19, 1996 and provided, inter alia:
+For good and valuable consideration, the receipt and sufficiency whereof is hereby acknowledged, Richer, for himself, his heirs, predecessors, successors and assigns, hereby grants unto the Claridge Parties and each of them release and discharge from any and all claims, actions, causes of action, suits, debts, demands and damages whatsoever which Richer ever had, now has or which he or his heirs, predecessors, successors and assigns hereafter can, shall or may have against the Claridge Parties or any of them for or based upon or by reason of any fact, matter, transaction or thing alleged in the proceedings described in the Schedule attached hereto.
+[Emphasis added.]
+[26] Pursuant to the terms of the Settlement Agreement, the Appellant paid US$1 million to Claridge Properties by cheque dated January 6, 1997. The confession of judgment referred to was in consequence never registered.
+[27] The Appellant’s and Claridge Properties’ legal representatives also executed a “Declaration of Settlement Out of Court”. This document was signed by the Appellant’s lawyer on December 20, 1996 and by Claridge Properties’ lawyer on January 7, 1997.
+[28] In his 1996 tax return, the Appellant took the position that he was entitled to claim losses of C$215,740 in respect of his interests in Park Square and Southland. He explained that his position was based on his understanding that under the Settlement Agreement his at-risk amount in those partnerships had increased. Prior to 1996, the Appellant had not deducted these losses because his understanding was that his at-risk amount was nil for each of these two partnerships.
+[29] By notices of reassessment issued on December 12, 2000, the Minister reassessed the Appellant for his 1993, 1995, 1996, 1997, 1998 and 1999 taxation years.
+[30] First, the Minister disallowed the partnership losses claimed by the Appellant in 1996, on the basis that no further capital contributions had been made by the Appellant or on his behalf.
+[31] Second, the Minister determined that the Appellant incurred a gain (the forgiven amount) in 1997 of C$1,368,528 on the settlement of his debt to Claridge Properties. This figure was based on the following accounting prepared by Claridge Properties respecting the Appellant’s liability in U.S. dollars:[9]
+Balance Owing
+Oct. 31/96
+Capital Contribution Dec. 96
+Settlement Jan. 97
+Receipt Distribution Dec. 96
+Write-off
+Balance Owing
+Oct. 31/97
+Southland
+275,632
+238,632
+(514,264)
+0
+0
+0
+Livonia
+273,000
+0
+(155,369)
+(117,631)
+0
+0
+Park Square
+363,421
+76,462
+(330,366)
+(109,517)
+(1)
+Hickory
+609,216
+88,725
+(697,941)
+0
+Interest receivable
+193,220
+(193,220)
+0
+Subtotal US$
+1,714,489
+403,819
+(1,000,000)
+(117,631)
+(1,000,679)
+(1)
+[32] This chart had been submitted to the Minister in the course of an audit it conducted of Claridge Properties.[10] To arrive at C$1,368,528, the Minister converted the US$1,000,679 write-off calculated by Claridge Properties into Canadian dollars at an exchange rate of approximately 1.37 (being the rate accepted by the Minister as applicable in January 1997).
+[33] The Minister applied this gain first against the Appellant’s net capital losses carried forward and second, against the capital cost of his depreciable property as follows:[11]
+Net capital losses
+Amount
+Reduction of net capital losses to be carried forward (from 1993-1995-1996)
+C$89,469
+Reduction of capital cost of the Appellant’s depreciable property as of December 31, 1996
+C$1,279,061
+Total
+C$1,368,529
+[34] The effect of these adjustments is reflected in the remaining reassessments. In 1997 and 1998, the Minister disallowed capital cost allowance deductions that had been claimed, and in 1999 the Minister refused to allow the carryforward of capital losses experienced prior to the settlement.
+[35] In addition, the Minister also levied penalties pursuant to subsection 163(2) of the ITA on the additional taxable income resulting from the 1997, 1998 and 1999 reassessments.
+[36] There will be reference to further facts in the analysis section below.
+III. Issues
+[37] The issues are:
+(a) Whether the Minister correctly applied section 80, and more specifically:
+(i) Timing — In what year does section 80 apply?
+(ii) Was an amount forgiven? If an amount was forgiven, what was the amount? In turn, this raises the questions:
+- What was the amount of the debt?
+- Apart from the US$1 million payment, did the Appellant provide any other consideration as part of the settlement?
+(b) Whether the Appellant is entitled to deduct losses of C$215,740 in respect of his interests in Park Square and Southland.
+(c) Whether the Minister was justified in assessing penalties against the Appellant pursuant to subsection 163(2).
+IV. Analysis[12]
+SECTION 80
+[38] Section 80 of the ITA contains rules that apply where commercial obligations are forgiven or reduced. The “forgiven amount” is applied to reduce the debtor’s losses carried forward from preceding taxation years and various other amounts as provided in subsections 80(3) to (12). If any portion of the forgiven amount remains unapplied, the debtor is subject to an income inclusion in accordance with subsection 80(13). As provided by paragraph 80(2)(c), the provisions in subsections 80(3) to (13) must be applied in numerical order.
+[39] Subsection 80(3) concerns the reduction of non-capital losses, and provides in part as follows:
+(3) Reductions of non-capital losses – Where a commercial obligation issued by a debtor is settled at any time, the forgiven amount at that time in respect of the obligation shall be applied to reduce at that time, in the following order,
+(a) the debtor’s non-capital loss for each taxation year that ended before that time . . .
+(b) the debtor’s farm loss for each taxation year that ended before that time . . .
+(c) the debtor’s restricted farm loss for each taxation year that ended before that time . . .
+[40] Similarly, subsection 80(4) provides in relevant part:
+(4) Reductions of capital losses – Where a commercial obligation issued by a debtor is settled at any time, the applicable fraction of the remaining unapplied portion of a forgiven amount at that time in respect of the obligation shall be applied to reduce at that time, in the following order,
+(a) the debtor’s non-capital loss for each taxation year that ended before that time . . .
+(b) the debtor’s net capital loss for each taxation year that ended before that time . . .
+[41] After subsection 80(4) is applied, the taxpayer has the option of applying any remaining unapplied portion of the forgiven amount against certain balances, such as the undepreciated capital cost balances for depreciable property, in accordance with certain provisions of subsections 80(5) to (12). If there remains a portion of the forgiven amount unapplied and the taxpayer chooses not to make the designations required by those provisions, the taxpayer will be subject to an income inclusion in accordance with subsection 80(13).[13]
+[42] The “forgiven amount” is defined in subsection 80(1), to the extent relevant to the present appeal, as follows:
+“forgiven amount” at any time in respect of a commercial obligation issued by a debtor is the amount determined by the formula
+A – B
+where
+A is the lesser of the amount for which the obligation was issued and the principal amount of the obligation, and
+B is the total of
+(a) the amount, if any, paid at that time in satisfaction of the principal amount of the obligation,
+. . .[14]
+[43] Counsel for the Appellant challenged the Minister’s application of section 80 on two grounds. First, he argued that no forgiven amount arose on the settlement of the Appellant’s debt to Claridge Properties or, alternatively, that the amount forgiven was significantly less than the C$1,368,529 assumed by the Minister.
+[43]
+[44] Secondly, he submitted that, even if it is determined that an amount was forgiven, that event occurred in December 1996 and not in January 1997 as assumed by the Minister. As a result, counsel took the position that the reassessments made by the Minister are incorrect and in contravention of the provisions of section 80. In oral argument, counsel framed this argument in terms of the Minister having assessed the wrong year.
+Timing
+[45] It is clear that in applying the debt forgiveness provisions in subsections 80(3) to (13), the forgiven amount must be determined at the time the obligation is settled.
+[46] The Minister took the position that the Appellant’s debt to Claridge Properties was settled in 1997, focussing on the fact that it was not until January 1997 that the cheque for US$1 million, dated January 6, was processed. The theory proposed by the Minister was that there could not have been a reduction of the indebtedness of the Appellant in this case until that amount was paid by the cheque, and that only then was the debt settled for the purposes of section 80.
+[47] The Minister argued, as I understand it, that the test was twofold.[15] First, the debt must be settled or extinguished.
+[48] Secondly, because of the definition of “forgiven amount” in subsection 80(1) and, in particular, the reference in “B” of the definition to the “amount, if any, paid” there can be no forgiven amount until the amount is paid. The Minister argued:
+. . . the forgiveness happens when the amount is paid. Because we know that when an amount is paid and it’s for the full indebtedness there is no forgiven amount obviously. There has to be a partial amount that is paid.
+So in order for the Minister to set or to evaluate if there is a forgiven amount, the amount had to be paid because when we look at the definition of forgiven amount it says it’s A minus B, B being (a) the amount, if any, paid at that time in satisfaction of the principal amount of the obligation.
+So if no amount is paid it can’t be taken into account in the evaluation of the forgiven amount. And it’s only at that time it can be realized or the Minister can realize if there is a forgiven amount or not.
+. . . Our theory on this is . . . there could not have been a reduction of the indebtedness of Mr. Richer in this case until the amount was paid. And that’s when the debt is settled, pursuant to section 80 of the Act.[16]
+[49] I do not agree.
+[50] Paragraph 80(2)(a) provides that for the purposes of section 80:
+an obligation issued by a debtor is settled at any time where the obligation is settled or extinguished at that time . . .
+[51] In the context of section 80, the word “settle” connotes a final and legally binding resolution that terminates or reduces the debtor’s obligations: Carma Developers Ltd. v. The Queen, 96 DTC 1798 (TCC), per Bowman J. (as he then was) at paragraph 23, affirmed 96 DTC 6569 (FCA). Similarly, in Arcade Construction Ltd. v. M.N.R., 81 DTC 655 (TRB), M.J. Bonner (as he then was) held, at 656, that a debt or obligation was settled when the “. . . creditor and debtor deliberately agree to fix or vary their existing rights and obligations . . .”.
+[52] In my view, the combined effect of the Settlement Agreement and the Release, both signed on December 19, 1996 had the effect of terminating the Appellant’s liability under the promissory notes and all other amounts associated with his participation in the four partnerships. The following paragraphs from the Release illustrate this point:
+For good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, Claridge Properties Ltd. [and other parties] (hereinafter the “CLARIDGE PARTIES”) hereby grant unto Jack Richer (“RICHER”), for themselves, their heirs, predecessors, successors and assigns, release and discharge from any and all claims, actions, causes of action, suits, debts, demands and damages whatsoever which the Claridge Parties or any of them ever had, now have or which any of them or their respective heirs, predecessors, successors and assigns hereafter can, shall or may have against Richer, for or based upon or by reason of any fact, matter, transaction or thing alleged in the proceedings described in the Schedule attached hereto.
+For good and valuable consideration, the receipt and sufficiency whereof is hereby acknowledged, Richer, for himself, his heirs, predecessors, successors and assigns, hereby grants unto the Claridge Parties and each of them release and discharge from any and all claims, actions, causes of action, suits, debts, demands and damages whatsoever which Richer ever had, now has or which he or his heirs, predecessors, successors and assigns hereafter can, shall or may have against the Claridge Parties or any of them for or based upon or by reason of any fact, matter, transaction or thing alleged in the proceedings described in the Schedule attached hereto.
+Richer further acknowledges that the release and discharge herein granted in his favour shall not affect the right of Claridge Properties Ltd. to obtain judgment upon the confession of judgment bearing even date herewith executed by him in favour of Claridge Properties Ltd., in the event that Claridge Properties Ltd. is entitled to obtain judgment thereon under the terms and conditions of an agreement bearing even date herewith between Richer and the said Claridge Properties Ltd.
+. . .
+[53] Following the signing of the Settlement Agreement and the Release, Claridge Properties retained only the limited right to pursue the Appellant with regards to the US$1 million payment he had agreed to make, the original obligation having been extinguished. Therefore, the date of settlement for the purpose of applying the provisions of section 80 is December 19, 1996.
+[54] Further, there can be no question that the agreement to pay the US$1 million on or before January 8, 1997 and to give up certain other rights constituted an amount paid on December 19, 1996 given that “amount” is defined in subsection 248(1) of the ITA as:
+. . . money, rights or things expressed in terms of the amount of money or the value in terms of money of the right or thing, except that, . . .
+[The rest of the definition has no application.]
+[55] Two further points warrant mention. First, the debt forgiveness scheme specifically contemplates in paragraph 80(2)(h) the possibility that in settling a debt, part of the consideration given by the debtor may consist of a new debt obligation:
+(h) where any part of the consideration given by a debtor to another person for the settlement at any time of a particular commercial debt obligation issued by the debtor and payable to the other person consists of a new commercial debt obligation issued by the debtor to the other person
+(i) an amount equal to the principal amount of the new obligation shall be deemed to be paid by the debtor at that time, because of the issue of the new obligation, in satisfaction of the principal amount of the particular obligation, . . .
+[56] Secondly, under the Civil Code of Québec[17] whatever obligations existed between the Appellant and Claridge were extinguished by a mixture of compensation,[18] mutual release and novation[19] in the Settlement Agreement of December 19, 1996. Again, there can be no question that this results in an amount paid under the ITA.
+[57] The Appellant argued that the Minister could not simply assess the settlement and debt forgiveness in any year and then make consequential assessments in other years.[20] I agree that the assessment must be based on the correct year of the settlement.
+[58] However, insofar as the Appellant is arguing that the result of concluding that the settlement occurred in 1996 is that one should ignore any debt forgiveness entirely, I disagree.
+[59] An assessment is usually of an amount of tax, interest and penalties and this is the case here. The underlying facts are simply the reasons leading up to the tax assessment.[21] Whether any amount was forgiven and when is part of the underlying facts. Here there is no question that the issue of debt forgiveness was part of the reasons for the assessment.[22] As a result any debt forgiveness remains relevant to the disposition of the appeal and will remain relevant to redetermining the Appellant’s liability.
+[60] The fact that the settlement took place in 1996 will result in the appeal being allowed so that the assessments in issue are changed to take account of that. However, the effect of this change depends in part on the outcome of other issues. I shall return to the effect of this change later although I would note that, as a practical matter, given the way the debt forgiveness rules operate and given that a judgment of this Court cannot increase a tax assessment, this finding will, on its own, result in a very large reduction of the assessments.
+Was an amount forgiven? If an amount was forgiven, what was the amount?
+[61] In calculating the forgiven amount according to the definition in subsection 80(1), a necessary element of the formula is the principal amount of the obligation.
+[62] Where the amount paid by the debtor is at least as great as the amount of the obligation, there can of course be no forgiven amount. Counsel for the Appellant first argued the Appellant’s liability towards Claridge Properties crystallized in 1990 at US$187,000.
+[63] In light of all the evidence I am unable to conclude that the parties reached a binding agreement fixing the Appellant’s liabilities in 1990. Negotiations regarding the details of the Appellant’s withdrawal from the partnerships continued through 1991 without reaching a conclusion and no payment of US$187,000 was ever made by the Appellant.[23]
+[64] The main argument pursued by counsel for the Appellant was that the US$1 million amount agreed to in the Settlement Agreement in fact represented the amount of the Appellant’s debt to Claridge Properties. In oral argument, however, counsel acknowledged that the amount of US$1 million was not the result of a careful calculation made by either the Appellant or Claridge Properties, that no one knew the exact amount of the debt and that “. . . the parties sawed it off at $1 million . . .” to avoid the risks and inconvenience of litigation.[24]
+[65] In his oral testimony, Mr. Parsons confirmed the manner in which the amount of US$1 million was agreed to:
+It was basically a sum that, you know, I would have discussed it with Mr. Ludwig. We would have agreed, because there was some... you know, a lot of back and forth between Mr. Richer's lawyers and mine. I recall my lawyer telling Mr. Richer's lawyer that any settlement had to have seven figures. . . . and this is the one that came and we accepted.[25]
+[66] Under these circumstances, it cannot be concluded that the amount of US$1 million agreed to by the parties represented a determination of the Appellant’s debt to Claridge Properties. Moreover, there is nothing in either the Settlement Agreement or the Release that would indicate consensus between the parties regarding the amount of the Appellant’s debt. All the evidence indicates that the settlement represented a compromise between two disparate positions in order to avoid the expense and uncertainty involved in determining the lawsuits at trial.
+[67] The Appellant raised a number of specific reasons why the Appellant’s debt was lower than assumed by the Minister; I shall return to those reasons. However, I would first note that while counsel for the Appellant presented a rough schedule computing the Appellant’s liability during oral argument,[26] no attempt was made to establish precisely the quantum of the Appellant’s debt. Counsel explained that exact calculations had not been attempted because of the difficulties of computation.[27]
+[68] The difficulty of the computation notwithstanding, determining the amount of the Appellant’s debt must be undertaken to determine the consequences of section 80.
+[69] A substantial amount of time at trial was devoted to challenging the Minister’s basis for concluding that the forgiven amount was C$1,368,528. As explained, the Minister arrived at this amount essentially by accepting as accurate the calculations performed by Claridge Properties as summarized in the chart in paragraph 31 above. According to this chart, the amount of the Appellant’s debt, which took into account US$117,631 owed to him in respect of his interest in Livonia, was US$2,000,679 before the US$1 million payment.
+[70] The Appellant maintained that the figures in this chart overstated his liability for a number of reasons including the following:
+(a) The balance owing October 31, 1996[28] includes amounts for which he did not sign promissory notes.
+(b) The “capital contributions” stated as having been made in December 1996, totalling US$403,819, should not be included as part of his liability.
+(c) Distributions made by Livonia totalling C$536,011 (US$155,809[29] in 1995 and US$236,631[30] in 1996) were not received by him nor applied against his debt to Claridge Properties.
+(d) Management fees were wrongfully charged to Livonia, thereby decreasing his share in the proceeds from that partnership by US$137,097.
+(e) Amounts were wrongfully transferred by Claridge Properties from Livonia to Hickory, thereby decreasing his share in the proceeds from Livonia by US$152,236.
+[71] In the first two arguments, counsel disputes the amount the Appellant had agreed to be liable for. The remaining arguments relate to the various claims made by the Appellant that would have offset part of his liability.
+Balance owing October 31, 1996
+[72] I will first consider the argument that the Appellant is not liable for principal amounts in respect of which he did not sign promissory notes.
+[73] The Appellant signed promissory notes totalling US$1,209,266. The signed notes are a clear acknowledgment of liability. The chart prepared by Claridge Properties lists the Appellant’s total balance owing as of October 31, 1996, including interest receivable of US$193,220, as US$1,714,489. This total balance includes US$316,003 which is not evidenced by signed promissory notes.
+[74] Despite considerable testimony on the matter, the specific details of the arrangement made between the Appellant and Claridge Properties regarding subsequent recognition of indebtedness remain unclear. The Appellant acknowledged that the arrangement involved signing promissory notes after the fact of a capital contribution made on his behalf by Claridge Properties,[31] but appears to suggest that he could only be held liable for subsequent contributions if he agreed to them by signing the promissory notes.[32]
+[75] He also testified to breaches of the understandings in the handshake agreements. These breaches will be discussed later.
+[76] He also explained that he could not have been subject to a cash call given that he was a limited partner in the ventures and could therefore only be held liable for contributions that had been agreed upon.[33] Given that the handshake agreements are separate legal arrangements from the limited partnerships, the fact that the Appellant, in his capacity as a limited partner, is not liable for further contributions to the limited partnerships does not resolve the question.
+[77] The Appellant’s evidence is not entirely consistent with that of Mr. Parsons, who explained that it was the usual practice in all Claridge partnerships to require the partners to contribute additional amounts in the event of a deficit. However, Mr. Parsons also testified that he was not involved in the formation of the partnerships,[34] and that he had virtually no role respecting the loans to the partners beyond arranging for money to be transferred from Claridge in accordance with instructions he received from Claridge Properties.[35] For these reasons, I do not ascribe much weight to his evidence as it pertains to the terms of the Appellant’s involvement in the partnerships.
+[78] It is clear that there was some kind of obligation on partners to fund any cash needs of the partnership; indeed, the course of conduct up to the point when the Appellant stopped signing promissory notes is consistent with this. It is clear that there were other obligations; on the evidence before me, Claridge breached at least one of those obligations (see paragraphs 91 to 93). Finally, it is clear that after January 1, 1990[36] even Claridge implicitly recognized that whatever funding obligation there had been had ended (see paragraph 83 below).[37] The question then becomes whether the funding obligation had ceased with respect to the debts claimed by Claridge in the period beginning when the Appellant stopped signing promissory notes and ending on January 1, 1990 (the 1989 period). The amount related to this period is the US$316,003 already referred to.
+[79] Given that Mr. Parsons, the only witness from Claridge, was not present when the handshake agreements were made, that, based on the evidence before me, Claridge was breaching its obligations in 1989 by charging management fees[38] (see below), that the only witness to testify who actually participated in making the agreements was the Appellant and that I accept the Appellant’s evidence on this, I conclude, in spite of the uncertainty of the terms of the handshake agreements, that the Appellant was not liable for the amounts in respect of which he did not sign promissory notes. For these reasons, the amount of US$316,003 did not form part of the Appellant’s debt.[39]
+Capital contributions in December 1996
+[80] I now turn to the argument concerning the capital contributions, totalling US$403,819, stated as having been made in December 1996.
+[81] Mr. Parsons explained that the amounts in this column represented the amount Claridge Properties had to contribute to the partnerships to net the Appellant’s accounts to zero in accordance with the Settlement Agreement.[40] The contributions were necessary because Claridge Properties had calculated there to be deficiencies in his accounts due to unfunded liabilities that had accrued in the partnerships. Mr. Parsons further explained that these deficiencies were treated by Claridge Properties as loans to the Appellant.[41]
+[82] I have already concluded there was no agreement that the Appellant would be liable for amounts in respect of which he did not sign a promissory note. For the same reasons as those outlined above, I find that the amounts totalling US$403,819 included in the chart prepared by Claridge Properties did not form part of the Appellant’s debt.
+[83] There is another reason for this conclusion. When one examines the declarations in the four actions filed by Claridge against the Appellant[42] one finds that in the case of the Hickory partnership the action was filed in November 1994 and in the other three cases the actions were filed in October, November and December 1992. Nowhere in these four actions is there a claim for the US$403,819. The actions claim the following amounts plus interest (in US dollars):
+Southland
+275,632
+Livonia
+273,000
+Park Square
+286,959*
+Hickory
+609,216
+* Note this amount is US$76,461 less than assumed by the Minister — see column entitled “Balance Owing Oct. 31/96” in paragraph 31 above.[43]
+Nowhere is there any suggestion of any further or continuing liability. Further, Claridge Properties filed in the Superior Court a pretrial brief dated April 29, 1996. The brief explicitly claims the amounts set out above including interest but gives no suggestion of any further liability.
+[84] I would also note that Claridge Properties only made a claim for US$286,959 and not US$363,421 in the case of Park Square action. This is another reason to conclude that the difference between the two amounts, US$76,461 (a portion of the US$316,003 for which there are no promissory notes), was not a part of the Appellant’s debt.
+Distribution by Livonia
+[85] The third argument made by counsel was that distributions made by Livonia totalling C$536,011 (US$155,809[44] in 1995 and US$236,631[45] in 1996) were not received by the Appellant nor applied against his debt to Claridge Properties. Based on the documents and the following evidence of Mr. Parsons, I have concluded that this argument is unfounded.
+[86] Mr. Parsons explained that the distribution in 1995 of US$155,809 was applied against United States income taxes on the Appellant’s behalf.[46]
+[87] The distribution in 1996 of US$236,631 was accounted for in the chart prepared by Claridge Properties in two ways. First, the amount of US$117,631 is credited to the Appellant in the column labelled “Receipt Distribution Dec. 96”. Second, Mr. Parsons explained that US$119,000 was applied to reduce the amount in respect of “interest receivable” in the first column of the chart from US$312,220 down to US$193,220.[47]
+Management fees and transfer from Livonia to Hickory
+[88] The last two arguments made by counsel, concerning the charging of management fees to Livonia and the transfer of amounts from that partnership to Hickory,[48] amount to the position that the Appellant was entitled to a greater distribution in respect of his interest in Livonia, and that this entitlement should be taken into consideration when determining the Appellant’s liability to Claridge Properties.
+[89] These two claims with respect to Livonia are not elements in determining the Appellant’s debt but, to the extent they are valid, the release from all claims provided by the Appellant constitutes valuable consideration to be taken into account in determining what consideration was provided by the Appellant and whether any part of the debt was forgiven.[49]
+[90] The difficulty I have with the position taken in the reassessment is that it assigns the value of nil to the release provided by the Appellant as part of the settlement. It appears from the evidence that in reassessing the Minister took the rather one‑dimensional view that the Appellant simply paid the amount of US$1 million in satisfaction of a debt in excess of US$2 million. Even a cursory perusal of the Settlement Agreement makes it clear that this was not the case. The consideration provided by the Appellant to settle his debt to Claridge Properties included (i) his interests in each of the four partnerships, (ii) a full release in respect of each of the lawsuits he had initiated, and finally, (iii) the agreement to pay US$1 million in cash. It is necessary to consider what value the non-cash consideration had.
+Management fees
+[91] The Appellant testified that it had been agreed that no management fees would be charged to the partnerships.[50] I accept his testimony on this.
+[92] The Livonia partnership was successful and paid US$545,295 in management fees[51] and since the Appellant had a 20% interest this had the result of depriving him of US$109,059 that he would otherwise have received.
+[93] Given this finding, it is reasonable in my view to assign the value of US$109,059 to the release provided by the Appellant with respect to this claim. This amount must be taken into account in applying the debt forgiveness rules.[52]
+Transfer from Livonia to Hickory
+[94] The Appellant argued that the Livonia partnership, which was profitable and in which the Appellant had a 20% interest, improperly made a loan of US$554,550 to the Hickory partnership which was unprofitable and in which he had a 16% interest. The loan was written off and as a result he was deprived of US$110,910 which would otherwise have been paid out or credited to him on the windup of the partnership.[53]
+[95] The evidence regarding the loan to Livonia was very limited. For example we heard nothing of the details or whether Livonia received anything in return. While the loan may well have reduced what the Appellant may ultimately have received from the Livonia partnership I am not satisfied that the Appellant has shown that the general partner was acting outside its authority.[54] Accordingly I do not agree that the value of the release should reflect an additional US$110,910 in respect of the transfer from Livonia to Hickory.
+Conclusions respecting the forgiven amount
+[96] As explained above, the Minister assessed the Appellant on the basis that there was a forgiven amount of US$1,000,679. This was based on the assumption that the Appellant’s debt was US$2,000,679 and that a payment of US$1 million was made towards it.
+[97] Given the conclusions I have reached above, the amount of the Appellant’s debt must be reduced as shown below:
+US$2,000,679
+Debt amount per reassessment
+(US$316,003)
+Less: “1989 amount”
+(US$403,819)
+Less: December 1996 “capital contribution”
+US$1,280,857
+Appellant’s debt
+[98] In the result, the forgiven amount is calculated as follows:
+US$1,280,857
+Amount of debt
+(US$1,000,000)
+Less: amount paid by cheque
+(US$109,059)
+Less: value of release — management fees
+US$171,798
+Forgiven amount
+THE 1996 PARTNERSHIP LOSSES
+[99] In his 1996 tax return the Appellant claimed partnership losses of C$215,740 consisting of a loss of C$89,208 in the Park Square partnership and C$126,532 in the Southland partnership.
+[100] Although there were a number of arguments raised about this, I find that the Appellant is not entitled to deduct these partnership losses for the following reason.
+[101] In the Appellant’s 1990 tax returns one will find a calculation of these two amounts (C$89,208 and C$126,532) as loss amounts that the Appellant could not deduct under the at-risk rules.[55] This calculation is premised on the statements prepared for the partnerships which took account of the contributions made by Claridge on behalf of the Appellant. Those contributions took account not only of the signed promissory notes but also of the US$316,003 for which there were no signed promissory notes.
+[102] For the Appellant to be able to claim any additional amount of partnership loss he would have to make an additional contribution beyond the amounts contributed for him (the amount equal to the promissory notes plus the US$316,003 of the 1989 period)[56] so as to increase his at-risk amount.
+[103] Was such a contribution made? Clearly he did not make any such contribution directly. The only possible contribution would arise from the term of the Settlement Agreement that says:
+Claridge agrees that it shall cause Richer’s capital accounts in respect of the Partnerships to be netted to $0.00 in the case of each of the Partnerships.
+It appears that this is the clause that caused Claridge to show a December 1996 “capital contribution” of US$403,819 in the accounting set out in paragraph 31 above.
+[104] If that were really a contribution made by Claridge on the Appellant’s behalf and he were liable for it then it would indeed increase his at-risk amount. However, I have already found that the Appellant was not liable to make those contributions and, consequently, the US$403,819 cannot have been a contribution made on his behalf.[57]
+[105] Accordingly there was no increase in the at-risk amount and the C$215,740 partnership loss claimed is not deductible. It is not necessary for me to consider the other arguments with respect to this loss.
+THE CONSEQUENCES OF THESE FINDINGS
+[106] With respect to the partnership losses claimed in 1996 I have found in favour of the Respondent.
+[107] With respect to the section 80 issues I have very largely found in favour of the Appellant.
+[108] As a result, it will be necessary to take account of the following in redetermining the Appellant’s tax liability:
+(a) First, the settlement occurred in 1996 and not 1997.
+(b) Second, the forgiven amount is US$171,798 and not US$1,000,679.
+(c) Third, there cannot be an increase in the amount assessed in 1996 as a result of the judgment of this Court.
+[109] Given that I have found in favour of the Minister on the partnership loss issue in 1996, the third point is very significant as a practical matter because of the way in which section 80 operates.
+[110] The effect of section 80 will have to be recomputed on the basis that the settlement occurred in 1996. According to subsections 80(3) and (4) any forgiven amount must first be applied against non‑capital losses and then capital losses. After that there are a number of provisions that apply but only if the taxpayer chooses to use them, the first of these being subsection 80(5).[58] If there remains a portion of the forgiven amount unapplied and the taxpayer chooses not to make the designations required by those subsections, the taxpayer will be subject to an income inclusion in accordance with subsection 80(13).
+[111] In this case, there are some capital losses but no non-capital losses in or before 1996. After the forgiven amount is applied against non-capital losses to the extent possible, if the Appellant chooses not to make the designations required by the optional provisions under section 80, any remaining unapplied portion of the forgiven amount would give rise to an income inclusion under subsection 80(13) in 1996. In practice however such could not be the result in the present appeal since a judgment of this Court cannot increase an assessment.
+[112] As a result the Appellant will presumably not choose to make such designations, and the actual impact of the US$171,798 forgiven amount will be limited to the reduction in net capital losses to be carried forward, computed in accordance with subsection 80(4) of the ITA.[59] One consequence will be that the Appellant will have to be reassessed on the basis that the Minister should not have reduced the capital cost of the Appellant’s depreciable property by C$1,279,061.
+[113] The Minister in reassessing should also recompute the correct amount of debt forgiven converted into Canadian dollars in accordance with paragraph 80(2)(k) of the ITA.[60]
+GROSS NEGLIGENCE PENALTY
+[114] I turn now to the penalties the Minister levied under subsection 163(2).
+[115] There are two aspects to this issue. First, given that as a result of this decision the additional income, and tax thereon, will be reduced substantially any penalty must necessarily also be reduced accordingly in respect of the tax that will no longer be payable.
+[116] Secondly, to the extent that any tax remains the issue under subsection 163(2) the question is whether the Appellant:
+. . . knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return . . .
+[117] In Venne v. The Queen[61], Strayer J. states:
+. . . “Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. . . .
+[118] In Farm Business Consultants Inc. v. The Queen[62], Bowman J. (as he then was) made the following comments:
+A court must be extremely cautious in sanctioning the imposition of penalties under subsection 163(2). . . . In such a case a court must, even in applying a civil standard of proof, scrutinize the evidence with great care and look for a higher degree of probability than would be expected where allegations of a less serious nature are sought to be established. . . .
+[119] Such caution is understandable when one considers that subsection 163(2) imposes a penalty equal to 50% of the tax on the additional income added.
+[120] In examining this issue I must also consider whether the conduct of the Appellant amounted to wilful blindness. As stated by Nadon J.A. speaking for the court in Panini v. Canada[63]:
+. . . Consequently, the law will impute knowledge to a taxpayer who, in circumstances that dictate or strongly suggest that an inquiry should be made with respect to his or her tax situation, refuses or fails to commence such an inquiry without proper justification.
+[121] Here we have a situation where the contested income in issue arises in the context of the settlement of complicated litigation with Claridge Properties suing the Appellant and the Appellant suing Claridge Properties in return. To further muddy the waters the key arrangements in dispute involve handshake agreements. The merits of the issues, as can be seen from the discussion above, are not self‑evident. The settlement, while not a precise determination of the Appellant’s and Claridge’s mutual liabilities, nonetheless was, as I have found, not that far in relative terms from what the determination might have been had the parties gone to trial. Further, there is no doubt in my mind that the Appellant was and is convinced in his own mind that he did not owe Claridge Properties anything beyond what he paid — including what he gave up; indeed, I am satisfied that he believes that he paid more than he owed.
+[122] In the circumstances I find it impossible to see on what basis one could conclude that the Appellant was grossly negligent with respect to any omitted income.[64]
+V. Disposition
+[123] Accordingly the appeal will be allowed, with costs to the Appellant, and the matter sent back for reconsideration and reassessment in accordance with these reasons for judgment, on the basis that:
+(a) the Appellant was not entitled to claim the partnership losses of C$215,740 in issue in 1996;
+(b) the settlement in issue occurred on December 19, 1996 and not in 1997;
+(c) the forgiven amount was US$171,798 and not US$1,000,679; and
+(d) the penalties under subsection 163(2) should be deleted.
+Signed at Ottawa, Canada, this 6th day of August 2009.
+"Gaston Jorré"
+Jorré J.
+CITATION: 2009 TCC 394
+COURT FILE NO.: 2005-4132(IT)G
+STYLE OF CAUSE: JACK RICHER v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Québec
+DATES OF HEARING: November 5, 6 and 7, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: August 6, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Aaron Rodgers
+Julie Gaudreault-Martel
+Counsel for the Respondent:
+Martin Gentile
+COUNSEL OF RECORD:
+For the Appellant:
+Names: Aaron Rodgers
+Julie Gaudreault-Martel
+Firm: Spiegel Sohmer
+Montréal, Québec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The years under appeal are 1993, 1995, 1996, 1997, 1998 and 1999. The key years are 1996 and 1997. Apart from 1996 and 1997 the other years arise because of consequential reassessments. In the case of 1993 and 1995 it is not clear to me if there was an actual reassessment of tax, interest or penalty or whether there was simply a recomputation of the net capital loss carryforward for the purpose of assessing future years.
+[2] Direct examination of Mr. Andrew Parsons, November 6, 2007 at pages 121-122. (The transcript is incorrectly dated November 7, 2007 although it can be seen from the last page that it is in fact the November 6, 2007 transcript.)
+[3] Ibid. at page 124.
+[4] The declaration for Southland makes no reference to the Appellant at all, although the fact of his participation in that partnership is not at issue.
+[5] See discussion of management fees below.
+[6] Exhibit R-1, Tab 4, paragraphs 16-19.
+[7] Direct examination of the Appellant, November 6, 2007 at page 42.
+[8] Exhibit A-1, Tab 93.
+[9] Exhibit A-2 (or A-3).
+[10] Direct examination of Georges Choueri, November 7, 2007 at page 21. The auditor for the Appellant’s file, Mr. Georges Choueri, did conduct what he described as a “reasonability test” using the balance of the loans as of 1990 and an approximate interest rate, but admitted that this calculation served no purpose beyond satisfying him that the numbers used by Claridge Properties were reasonable and could be adopted: see evidence of Mr. Choueri, November 7, 2007 at pages 52-54 and 88-89.
+[11] Minister’s assumptions, paragraph 21n) of the reply to the notice of appeal.
+[12] The parties provided me with the following authorities: Huot c. Services financiers Gilles Ducharme inc., [2004] J.Q. no 7459 (QL); Gibralt Capital Corp. v. The Queen, 2002 DTC 1601 (TCC); Gibralt Capital Corp. v. Canada, 2002 FCA 152; Backman v. Canada, 2001 SCC 10; Boileau v. Lamarre, [1953] 2 S.C.R. 456; 9041-6868 Québec Inc. v. Canada (Minister of National Revenue), 2005 FCA 334; Bourboin v. Savard (1926), 40 B.R. 68; Witkin v. Canada, 2002 FCA 174; Ridge Run Developments Inc. v. The Queen, 2007 TCC 68; Canada v. Papiers Cascades Cabano Inc., 2006 FCA 419; Gaouette v. Canada, [2002] T.C.J. No. 168 (QL); Renaud v. The Queen, 2006 TCC 354; Orlando Corp. v. The Queen, 94 DTC 1046 (TCC); Aallcann Wood Suppliers Inc. v. The Queen, 94 DTC 1475 (TCC); Coastal Construction and Excavating Ltd. v. The Queen, 97 DTC 26 (TCC); New St. James Ltd. v. M.N.R., 66 DTC 5241 (Ex.C.); Carma Developers Ltd. v. The Queen, 96 DTC 1798 (TCC); The Queen v. Carma Developers Ltd., 96 DTC 6569 (FCA); Central City Financial Services Ltd. v. The Queen, 98 DTC 1021 (TCC); Central City Financial Services Ltd. v. The Queen, 98 DTC 6645 (FCA); Jabin Investments Ltd. v. The Queen, 2001 DTC 1002 (TCC); 170635 Canada Ltd. v. M.N.R., 93 DTC 1129 (TCC); Pedwell v. The Queen, 2000 DTC 6405 (FCA); Canada v. Bulk Transfer Systems Inc., 2005 FCA 94; Venne v. The Queen, 84 DTC 6247 (FCTD); Regina Shoppers Mall Ltd. v. The Queen, 90 DTC 6427 (FCTD); Income Tax Act (Canada), R.S.C. 1985, c. 1 (5th Supp.), as amended: sections 3, 9, 12(1)(l), 18(1)(a), 20(1)(c), 80, 96, 96(2.1), 96(2.2), 152 and 163; Civil Code of Québec: obligations, nominate contracts, contracts of partnership and of association, general partnerships, dissolution and liquidation of the partnership, articles 1671, 1687, 2230, 2235, 2631, 2633, 2848 and 2896; Denys-Claude LAMONTAGNE and Bernard LAROCHELLE, Droit spécialisé des contrats, volume 1, “les principaux contrats, la vente, le louage, la société et le mandat”, Éditions Yvon Blais, pages 549-554; Albert BOHÉMIER and Pierre-Paul CÔTÉ, Droit commercial général, 3e édition, tome 2, Éditions Thémis, pages 13‑19; Charlaine BOUCHARD, Les cahiers de droit, Université Laval, “Les rapprochements entre la société de personnes et le partnership”, 2001, vol. 42, pages 156-213; J.E.C. BRIERLEY, La réforme du Code civil : Obligations contrats nommés, “De la transaction : articles 2631-2637”, Les Presses de l’Université Laval, 1993, pages 1063-1065; Jean-Louis BAUDOUIN and Pierre-Gabriel JOBIN, Les obligations, 5e édition (1er novembre 1998), Les Éditions Yvon Blais, pages 791-810; Canada Tax Service, Stikeman Analysis, 96 – General Rules, taxnet.pro, as at November 5, 2007; Canada Revenue Agency, Technical Interpretation – external 2005-0115451/7 – Extinction d’une remise de dette, March 22, 2005.
+[13] Under certain circumstances, which have no application here, there may be a restriction on the taxpayer’s ability to opt not to use the provisions in question.
+[14] In subsection 248(1), "amount" is defined as “. . . money, rights or things expressed in terms of the amount of money or the value in terms of money of the right or thing, except that, . . . ”. (The rest of the definition has no application.)
+[15] Argument of counsel for the Respondent, November 7, 2007 at pages 249-254.
+[16] Argument of counsel for the Respondent, November 7, 2007 at pages 253-254.
+[17] Articles 1660, 1671, 1672, 1687, C.C.Q.
+[18] In addition to the US$1 million, the Appellant gave up all his interests in the partnerships and his claims against Claridge Properties.
+[19] The agreement to pay part of the disputed amount on or before January 8, 1997.
+[20] Appellant’s argument, November 7, 2007 at pages 219-227.
+[21] New St. James Ltd. v. M.N.R., 66 DTC 5241 (Ex.C.).
+[22] And it is not necessary to consider subsection 152(9).
+[23] See, notably, Exhibit A-1, Tabs 75-81. For example, the Appellant’s letter of July 24, 1991 (Tab 76) speaks of “. . . significant progress which will lead us to an amicable solution”.
+[24] Argument of the Appellant, November 7, 2007 at page 234.
+[25] Direct examination of Mr. Andrew Parsons, November 6, 2007 at pages 141-142.
+[26] Marked as Exhibit A-8.
+[27] Argument of Mr. Aaron Rodgers, November 7, 2007 at pages 238-239.
+[28] As shown in the second column of the table at paragraph 31 above.
+[29] Page 4 of Tab 40 of Exhibit R-1.
+[30] Page 4 of Tab 41 of Exhibit R-1. The figure in this schedule is in Canadian dollars ($323,095). Mr. Parsons confirmed, at page 181 of his direct examination on November 6, 2007, that this amount corresponds to the figure in US dollars of $236,631.
+[31] Direct examination of the Appellant, November 5, 2007 at page 165.
+[32] Direct examination of the Appellant, November 6, 2007 at page 9.
+[33] Direct examination of the Appellant, November 5, 2007 at pages 183-184.
+[34] Direct examination of Mr. Andrew Parsons, November 6, 2007 at pages 102-103.
+[35] Ibid. at page 119.
+[36] In the declarations filed by Claridge against the Appellant the last date shown for principle of a debt arising is January 1, 1990 (Southland action).
+[37] See the discussion below of the $403,819 capital contribution, December 1996, included in the CRA’s computation of the debt.
+[38] I would note that in 1989, the four partnerships paid over $600,000 in management fees that should not have been paid. Given the Appellant’s share of the different partnerships the net effect of this was to increase the Appellant’s share of the losses or decrease his share of the profit by an amount in excess of $100,000. The numbers can be found in the 1989 column of Exhibit R-1, Tab 42, 3rd page (even though the document is headed “Jack Richer, Real Estate Investments, Management Fees” it is clear from other documents that the fees shown are the total fees paid by the partnerships; see 3rd page of Tab 40 of Exhibit R-1). See discussion of management fees below as well as footnote 52.
+[39] To the extent of US$76,461 of the US$316,003 there is another reason to reach this conclusion; see paragraph 84 below.
+[40] Transcript of November 6, 2007 at pages 173-177. At question 890, Mr. Parsons indicates that they had to “contribute capital” to net out everything to zero. It appears that this was necessary so Claridge could write off amounts and close its books with respect to the partnerships.
+[41] Ibid. particularly at pages 173-174. A letter sent to the Appellant dated May 15, 1992 confirms that Claridge Properties treated these amounts as loans. In that letter, Claridge Properties requests payment of the amount of US$76,462, which amount was explained to represent the Appellant’s share of an accumulated deficit since inception less previously contributed capital. This letter is found at Tab 83 in the Appellant’s book of documents (volume 3). The amount of US$76,462 appears to correspond to an identical amount included in the “Capital Contribution Dec. 96” column of the chart prepared by Claridge Properties.
+[42] Exhibit A-1, Tabs 89-92.
+[43] Exhibit R-1, Tab 3, page 4, at paragraph 11 thereof sets out a total sum greater than in the above table although nothing in the pretrial brief explains where the difference comes from. That total is similar to the total under the column “Balance Owing” in the table in paragraph 31; it may well already include an amount of interest.
+[44] Exhibit R-1, Tab 39, point 3 and 4th page of Tab 40.
+[45] 4th page of Tab 41 of Exhibit R-1. The figure in this schedule is in Canadian dollars ($323,095). Mr. Parsons confirmed, at page 181 of his direct examination on November 6, 2007, that this amount corresponds to the figure in US dollars of $236,631.
+[46] Direct examination of Mr. Andrew Parsons, November 6, 2007, at page 179 (which transcript is incorrectly labelled November 7). See also the testimony of the Appellant, question 394, same transcript.
+[47] Ibid. at pages 179-183. The interest owing is stated on pages 5, 6, 7 and 9 of Tab 37 of Exhibit R-1. Mr. Parsons was unable to explain why the interest amount remained static between 1992 and 1996; see cross-examination of Mr. Andrew Parsons, November 6, 2007 at page 188. See also Tab 38 of Exhibit R-1.
+[48] See rough calculation provided by Appellant’s counsel in Exhibit A-8.
+[49] See also footnote 52.
+[50] Direct examination of the Appellant, November 5, 2007 at page 182.
+[51] Exhibit R-1, Tab 42, 3rd page.
+[52] There were substantial management fees charged to the other three partnerships; see Exhibit R-1, Tab 42, 3rd page. I note that the Appellant’s counsel did not include these other fees in his rough calculation in A-8. There are two sets of reasons why the management fees to the other three partnerships do not have the same effect as the management fees charged to Livonia. (It is necessary to bear in mind that there were no Livonia losses forming part of the US$316,003 relating to the “1989 period”.)
+First, with respect to the 1989 fees, those amounts were included in the computation of the three partnerships’ profit and loss calculations and were an element in the computation of the funding needs of the partnerships leading to the capital contributions made by Claridge Properties on behalf of the Appellant and formed part of the resulting debt that Claridge claimed the Appellant owed. The Appellant’s share of those fees was less than the US$316,003 amount claimed by Claridge and for which I have previously concluded the Appellant was not liable. Thus, they cannot reduce the debt owed because they form part of the computation of the US$316,003 amount and to give a further deduction for his share of these fees from the debt would be to count these amounts twice. Also, these three partnerships were not profitable in the year or later years and the reversal of these fees would not have made them profitable and produced any income to the Appellant. Thus there is no consideration resulting from the release of claims relating to management fees for the 1989 period.
+Secondly, with respect to the management fees after 1989, because the partnerships were unprofitable, reversing the fees would not have made them profitable and produced income to the Appellant. Also, the fees after 1989 were no doubt taken into account in the partnerships’ profit and loss calculations for subsequent years and form part of the computation leading up to the US$403,819 amount claimed by Claridge in the column “Capital Contribution Dec. 96” in the table in paragraph 31. Given that I have found that the Appellant was not liable for the US$403,819 amount, the post-1989 fees cannot reduce the Appellant’s debt owing — to deduct the amounts relating to the post-1989 management fees would be double counting. Again this means that the Appellant gave no resulting consideration.
+[53] Exhibit R-1, Tab 39. I note however that in the financial statements at Tabs 40 and 41 one cannot tell what happened.
+[54] Under article 2236 of the Civil Code only the general partners of a limited partnership may administer the partnership.
+[55] Exhibit A-1, Tab 18, 26th page (headed “Jack Richer, 1990, Southland Building Partners & Company, Limited, Calculation of Deduction of Partnership Losses”) and 33rd page (headed “Jack Richer, 1990, Park Square Associates & Company, Limited, Calculation of Deduction of Partnership Losses”).
+[56] Of course, insofar as I have concluded that the Appellant was not liable for the US$316,003, that amount could not have been contributed on his behalf and should not have increased his at-risk amount. The consequence of this is that the Appellant may have deducted greater amounts of loss than should have been the case. That is however in the past and not before me.
+[57] The amounts totalling US$403,819 are bookkeeping entries that together with others such as the write-offs shown in the accounting reproduced in paragraph 31 permit Claridge Properties to close out its books with respect to the four partnerships.
+[58] Subsection 80(5) reads, in part:
+Where a commercial obligation issued by a debtor is settled at any time, the remaining unapplied portion of the forgiven amount at that time in respect of the obligation shall be applied, in such manner as is designated by the debtor in a prescribed form filed with the debtor’s return of income under this Part for the taxation year that includes that time, to reduce immediately after that time the following amounts: . . .
+[Emphasis added.]
+[59] An amount of C$89,469, or less, presumably C$73,519.
+[60] In practice the amount of net capital loss available to apply is so much lower than the US$171,798 that it may well turn out that the computation is unnecessary.
+[61] 84 DTC 6247 (FCTD) at 6256.
+[62] 95 DTC 200 (TCC).
+[63] 2006 FCA 224 at paragraph 43.
+[64] One must also bear in mind that failing to apply the debt forgiveness provisions is rather different in nature from failing to include, say, gross rents in the computation of rental income.

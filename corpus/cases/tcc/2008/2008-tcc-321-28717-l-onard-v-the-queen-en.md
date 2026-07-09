@@ -1,0 +1,162 @@
+---
+title: "Léonard v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28717/index.do"
+last_modified: "2008-06-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 321"
+citation2: ""
+neutral_citation: "2008 TCC 321"
+decision_date: "2008-06-17"
+language: "en"
+item_id: "28717"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1442
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:05:20.841000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f7ed1b54f2aef1b788a06ea8de3b427ff7a0bbd3d8ad547110948a40d71557cc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Léonard v. The Queen
+
+- Citation: 2008 TCC 321
+- Decision date: 2008-06-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1442, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Léonard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-17
+Neutral citation
+2008 TCC 321
+File numbers
+2008-51(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-51(IT)I
+BETWEEN:
+JULES LÉONARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 12, 2008, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal of the reassessment established under the Income Tax Act for the 2006 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of June 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 30th day of June 2008.
+Elizabeth Tan, Translator
+Citation: 2008TCC321
+Date: 20080617
+Docket: 2008-51(IT)I
+BETWEEN:
+JULES LÉONARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a reassessment dated October 9, 2007, regarding the 2006 taxation year. After the Appellant’s objection, the value of the benefits granted to him was reduced from $7,940 to $6,163, as indicated in the reassessment.
+[2] The issue is to determine whether the Minister of National Revenue (the "Minister") correctly added the amount of $6,163 to the Appellant’s income for the 2006 taxation year.
+[3] To establish the reassessment for the 2006 taxation year, the Minister relied on the following presumptions of fact:
+[translation]
+(a) The Appellant is a helicopter pilot;
+(b) During the taxation year in question, the Appellant worked for the company Airborne Energy Solutions Ltd;
+(c) The Appellant was tied to Airborne Energy Solutions Ltd. by a permanent contract of employment;
+(d) The Appellant worked in Alberta according to a schedule of 28 days of work followed by 14 days of rest;
+(e) The Appellant kept his residence in the municipality of Lévis in Quebec;
+(f) During his periods of rest, the Appellant returned to Quebec;
+(g) The Appellant’s employer paid for the air transportation costs in accordance with the Appellant’s employment contract;
+(h) Following the Appellant’s objection, the Minister issued a reassessment to reduce the benefit by $1,777 to account for travel to Alberta when the Appellant was hired and for his return to Quebec at the end of his employment contract;
+(i) The air travel fees related to the Appellant’s rest days during his employment came to $6,163 for the taxation year in question.
+[4] After swearing in, the Appellant admitted subparagraphs 5(a) to (g) inclusively. The case addresses the interpretation of certain facts.
+[5] The Appellant stated he never received the $6,163 in cash or by cheque.
+[6] He also stated that he performed his work at a "special work site" within the meaning of the Act, and at various locations.
+[7] Lastly, the Appellant claimed he had absolutely no cooperation from his employer, who made false claims regarding the nature and conditions of his work in the TD-4 form, "Exemption Declaration – Employment at a Special Work Site".
+[8] The Appellant explained that he piloted a helicopter to places affected by forest fires, in general, for uninterrupted periods of 28 consecutive days, followed by 14 days of leave.
+[9] During his leave, he left Alberta to return home, to his residence in Lévis, in Quebec.
+[10] At the end of his 14-day leave, he returned to Alberta to work for another 28 consecutive days. He worked in various places for various periods, according to his employer’s instructions.
+[11] The work and the conditions for carrying out the work were set out in a very detailed manner in a contract that came into force on March 21, 2006, for an indeterminate period, and which was submitted as Exhibit I‑1.
+[12] In his January 2, 2008, Notice of Appeal, the Appellant described the reasons for his challenge at length (5 pages). As his testimony, the Appellant’s Notice of Appeal made reference to the same sections, interpretation bulletins and forms that the Minister used to explain the assessment under appeal, as shown in the very detailed Notice of Appeal.
+[13] The Appellant challenges the reassessment with an analysis that completely conceals the fact that his residence was actually located in Lévis, in Québec.
+[14] However, his Notice of Appeal specifically addresses this issue under the heading "Principle place of residence", the content of which is entirely accurate.
+[15] The Appellant is not at all challenging the content of his contract of employment, which is also very detailed as to the elements that must be taken into consideration to evaluate the validity of the assessment under appeal.
+[16] The Appellant would have liked for his employer to complete the TD-4 form not in regard to the contract, as the employer should have, but in regard to his understanding and interpretation that were non-compatible with the contract of employment.
+[17] According to the Appellant, the fact that he had to travel from one site to another meant that it was a job carried out at a temporary location on a special work site.
+[18] In other words, the Appellant wanted the same rights as a specialized worker who travels often from his residence, which in fact, were granted to him unequivocally.
+[19] What he was not granted, essentially, was the benefit resulting from travel from his main residence in Lévis to another province where he received instructions to go to various locations, temporarily, to help fight forest fires.
+[20] In his reasoning, the Appellant clearly refuses to account for the fact that the travel between his residence and the province where he received instructions was a personal expense and that the reimbursement of these fees by his employer was a taxable benefit.
+[21] When the Appellant was offered a job by the company Airborne Energy Solutions Ltd., he had the option of remaining in Quebec and shuttling between Quebec and Alberta or residing in Alberta, regardless of the place, during the period he was not working, namely during his 14 days of rest. If he had made the second choice, the Appellant would not have been subject to an assessment and his travel from his Alberta residence to the various work sites would have been paid by the employer without it being a benefit.
+[22] However, he dismissed this choice and decided to return to his residence in Quebec during his 14 days of leave. The costs related to the travel between Alberta and Quebec are incontestably personal expenses.
+[23] The fact that the Appellant never received a cheque, cash or a reimbursement has absolutely nothing to do with the validity of the benefit. In this case, it seems that the plane ticket was reserved and paid for directly by the employer, which, in itself, is not enough to conclude that the amount paid by the employer is not taxable.
+[24] The Appellant focused on the statement, "Worksite was NOT temporary, this was employees place of work" (Exhibit I-2); according to the Appellant, this was a false statement and not at all based on reality, and this led him to find that his employer clearly acted in bad faith.
+[25] However, the statement in question is completely compatible with the content of his work contract, which was not at all challenged; the Appellant admitted that the contract conformed to the agreement.
+[26] As an additional example, imagine a person whose residence is in Lévis and who obtains regular work with an Ontarian company that carries out work all over Ontario.
+[27] If the Ontarian employer decides to pay the transportation costs for our guy from Ontario to Lévis in Quebec every weekend, this is a taxable benefit and is such even if the person pays nothing, since the employer pays for the train, bus, plane or car rental.
+[28] In this case, the appellant decided to keep his main residence in Lévis, in Quebec, and to return there every 28 days. This is a personal choice, the validity of which is not being questioned. However, this choice leads to consequences he must accept. Had he chosen to rent an apartment somewhere in Alberta, his employer would have paid for the travel costs related to the changes in work site without it being considered a benefit, because it would be a work expense. However, the travel between Alberta and Quebec were essentially personal in nature. Moreover, the case has nothing to do with the expenses related to travel from one fire to another; those are expenses that are not of a personal nature.
+[29] Travel fees for airline pilots—motels, taxis and meals—are included in the expenses the employer assumes, but expenses related to the pilots’ travel to the airport from their main residence are personal expenses. If the employer covers them, it becomes a taxable benefit in the same way as a vehicle provided to an employee.
+[30] For all the above reasons, the evidence indicates that the reassessment is clearly justified, and the appeal must be dismissed.
+[31] After objecting to the reassessment, the Respondent reduced the taxable benefit by an amount equal to a return trip, which is a normal, appropriate and legitimate expense when a person leaves a province or region to work elsewhere because of a contract of employment.
+Signed at Ottawa, Canada, this 17th day of June 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 30th day of June 2008.
+Elizabeth Tan, Translator
+CITATION: 2008TCC321
+COURT FILE No.: 2008-51(IT) I
+STYLE OF CAUSE: JULES LÉONARD AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: May 12, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: June 17, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-Claude Landry
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

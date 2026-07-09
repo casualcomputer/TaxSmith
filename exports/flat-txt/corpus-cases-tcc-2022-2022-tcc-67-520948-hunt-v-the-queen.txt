@@ -1,0 +1,442 @@
+Title: Hunt v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520948/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-67-520948-hunt-v-the-queen.md
+Document type: case_law
+Last modified: 2022-06-23
+
+# Hunt v. The Queen
+
+- Citation: 2022 TCC 67
+- Decision date: 2022-06-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4537, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hunt v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-06-23
+Neutral citation
+2022 TCC 67
+File numbers
+2016-1689(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-1689(IT)G
+BETWEEN:
+THOMAS HUNT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion first heard by written submissions with subsequent oral submissions on January 25th and 26th, 2022 by video conference.
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+David R. Davies
+Alexander Demner
+Counsel for the Respondent:
+David Everett
+Lisa Macdonell
+ORDER
+WHEREAS the Court has published on this date its reasons for order attached.
+NOW THEREFORE THIS COURT ORDERS THAT:
+The Court answers the questions posed to it under section 58 of the Tax Court of Canada Rules (General Procedure) as follows:
+a) The charge imposed by either or both of section 207.05 and 207.06 of the Income Tax Act, RSC 1985, c.1, as amended (the “Act”) is a tax; and,
+b) Sections 207.05 and 207.06 of the Act, separately or in combined effect, are constitutional because Parliament has not improperly delegated the rate-setting element of that tax to the Minister of National Revenue in contravention of section 53 of the Constitution Act, 1867 (UK), 30 & 31 Vict, c3, reprinted in RSC 1985, Appendix II, No 5 (the “Constitution Act”).
+Signed at Toronto, Ontario, this 23rd day of June, 2022.
+“R.S. Bocock”
+Bocock J.
+Citation: 2022TCC67
+Date: 20220623
+Docket: 2016-1689(IT)G
+BETWEEN:
+THOMAS HUNT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bocock J.
+I. INTRODUCTION
+[1] This application is brought under subsection 58(1) of the Tax Court of Canada Rules (General Procedure) (“Rule 58”). Justice Pizzitelli of this Court rejected two similar but more narrow Rule 58 questions in 2018 [1] . On appeal, the Federal Court of Appeal dismissed the Appellant’s appeal and upheld Justice Pizzitelli. [2] By Order dated March 22, 2021, this Court modified the two Rule 58 questions to include reference to section 207.06 as well as 207.05 of the Income Tax Act, RSC 1985, c.1, as amended (the “Act”).
+II. THE RULE 58 QUESTIONS
+[2] Consequently, the present Rule 58 questions are as follows:
+Is the charge imposed by either or both of sections 207.05 and 207.06 of the Act in law a penalty or a tax? (“First Question”); and,
+Are sections 207.05 and 207.06 of the Act, separately or in combined effect, unconstitutional as a consequence of Parliament having improperly delegated the rate-setting element of that tax to the Minister of National Revenue in contravention of section 53 of the Constitution Act, 1867 (UK), 30 & 31 Vict, c3, reprinted in RSC 1985, Appendix II, No 5 (the “Constitution Act”)? (“Second Question”).
+III. OVERVIEW OF THE PARTIES’ POSITIONS
+A. First Question: is the charge: tax or penalty?
+i) Overall position of the Appellant
+[3] The Appellant primarily contends that the advantage charge imposed by either or both of sections 207.05 and 207.06 of the Act is in fact a penalty despite being described as a “tax”. [3] The Appellant submits that a penalty is a distinct category separate from a tax, and that the label of “tax” is not determinative of whether a charge imposed is legally a tax or a penalty. [4] Because the label is not determinative, the Court must examine the substance of the advantage charge. When so done, the substance of the advantage charge revealed in its context and purpose is a penalty.
+ii) Overall position of the Respondent
+[4] The Respondent takes the position that the advantage charge is a tax through application of the correct principles of statutory interpretation to the words of the Act. The core argument of the Respondent is that the text of a provision plays a dominant role in its interpretation, and the text of section 207.05, read in its grammatical and ordinary sense, imposes a tax. Alternatively, the Respondent argues that a contextual and purposive analysis also informs the conclusion that section 207.05, alone or in combination with 207.06, imposes a tax.
+B. Second Question: if a tax, is it unconstitutional?
+i) Overall position of the Appellant
+[5] The Appellant asserts that sections 207.05 and 207.06 of the Act, either separately or in combined effect, are unconstitutional for contravening section 53 of the Constitution Act. The breach arises because Parliament has improperly delegated the rate-setting element of the tax to the Minister through the Ministerial discretion afforded in section 207.06.
+ii) Overall position of the Respondent
+[6] In response, the Respondent states that both sections 207.05 and 207.06 of the Act are constitutionally valid. Firstly, since section 207.05 imposes a constitutionally valid tax and section 207.06 does not impose any tax, either alone or in combination with 207.05, the section cannot contravene section 53 of the Constitution Act. This is because a section 207.06 does not contemplate a tax and instead only waives the liability to pay the tax. Whatever delegation of taxation power there may be is merely, Ministerial discretion, itself sufficiently constrained to permitted administrative duties.
+IV. RELEVANT STATUTORY PROVISIONS
+A. Income Tax Act
+[7] The relevant provisions of the Act are sections 207.01 (“TFSA Advantage”), 207.05 (“TFSA Charge”), and 207.06 (“TFSA Waiver”). All definitions in parentheses are as they appear in these reasons and not within the Act. Beyond that, the sections of the legislation are as follows:
+Taxes in Respect of Registered Plans
+207.01 advantage, in relation to a registered plan, means (the “TFSA Advantage”)
+(a) any benefit, loan or indebtedness that is conditional in any way on the existence of the registered plan, other than [enumerated exceptions in (i)-(v)];
+(b) a benefit that is an increase in the total fair market value of the property held in connection with the registered plan if it is reasonable to consider, having regard to all the circumstances, that the increase is attributable, directly or indirectly, to
+(i) a transaction or event or a series of transactions or events that
+(A) would not have occurred in a normal commercial or investment context in which parties deal with each other at arm’s length and act prudently, knowledgeably and willingly, and
+(B) had as one of its main purposes to enable a person or a partnership to benefit from the exemption from tax under Part I of any amount in respect of the registered plan,
+(ii) a payment received as, on account or in lieu of, or in satisfaction of, a payment
+(A) for services provided by a person who is, or who does not deal at arm’s length with, the controlling individual of the registered plan, or
+(B) of interest, of a dividend, of rent, of a royalty or of any other return on investment, or of proceeds of disposition, in respect of property (other than property held in connection with the registered plan) held by a person who is, or who does not deal at arm’s length with, the controlling individual of the registered plan,
+(iii) a swap transaction, or
+(iv) specified non-qualified investment income that has not been paid from the registered plan to its controlling individual within 90 days of receipt by the controlling individual of a notice issued by the Minister under subsection 207.06(4);
+(c) a benefit that is income (determined without reference to paragraph 82(1)(b)), or a capital gain, that is reasonably attributable, directly or indirectly, to
+(i) a prohibited investment in respect of the registered plan or any other registered plan of the controlling individual,
+(ii) in the case of a registered plan that is not a TFSA, an amount received by the controlling individual of the registered plan, or by a person who does not deal at arm’s length with the controlling individual (if it is reasonable to consider, having regard to all the circumstances, that the amount was paid in relation to, or would not have been paid but for, property held in connection with the registered plan) and the amount was paid as, on account or in lieu of, or in satisfaction of, a payment
+(A) for services provided by a person who is, or who does not deal at arm’s length with, the controlling individual of the registered plan, or
+(B) of interest, of a dividend, of rent, of a royalty or of any other return on investment, or of proceeds of disposition, or
+(iii) a deliberate over-contribution;
+(d) a registered plan strip in respect of the registered plan; and
+(e) a prescribed benefit. (avantage)
+Tax payable in respect of advantage (the “TFSA Charge”)
+207.05 (1) A tax is payable under this Part for a calendar year if, in the year, an advantage in relation to a registered plan is extended to, or is received or receivable by, the controlling individual of the registered plan, a trust governed by the registered plan, or any other person who does not deal at arm’s length with the controlling individual.
+Amount of tax payable
+(2) The amount of tax payable in respect of an advantage described in subsection (1) is
+(a) in the case of a benefit, the fair market value of the benefit;
+(b) in the case of a loan or an indebtedness, the amount of the loan or indebtedness; and
+(c) in the case of a registered plan strip, the amount of the registered plan strip.
+Liability for tax
+(3) Each controlling individual of a registered plan in connection with which a tax is imposed under subsection (1) is jointly and severally, or solidarily, liable to pay the tax except that, if the advantage is extended by the issuer, carrier or promoter of the registered plan or by a person with whom the issuer, carrier or promoter is not dealing at arm’s length, the issuer, carrier or promoter, and not the controlling individual, is liable to pay the tax.
+Waiver of tax payable (the “TFSA Waiver”)
+207.06 (1) If an individual would otherwise be liable to pay a tax under this Part because of section 207.02 or 207.03, the Minister may waive or cancel all or part of the liability if
+(a) the individual establishes to the satisfaction of the Minister that the liability arose as a consequence of a reasonable error; and
+(b) one or more distributions are made without delay under a TFSA of which the individual is the holder, the total amount of which is not less than the total of
+(ii) the amount in respect of which the individual would otherwise be liable to pay the tax, and
+(iii) income (including a capital gain) that is reasonably attributable, directly or indirectly, to the amount described in subparagraph (i).
+(2) If a person would otherwise be liable to pay a tax under this Part because of subsection 207.04(1) or section 207.05, the Minister may waive or cancel all or part of the liability where the Minister considers it just and equitable to do so having regard to all the circumstances, including
+(a) whether the tax arose as a consequence of reasonable error;
+(b) the extent to which the transaction or series of transactions that gave rise to the tax also gave rise to another tax under this Act; and
+(c) the extent to which payments have been made from the person’s registered plan.
+B. Constitution Act
+[8] Section 53 of the Constitution Act, titled “Appropriation and Tax Bills,” reads:
+53 Bills for appropriating any Part of the Public Revenue, or for imposing any Tax or Impost, shall originate in the House of Commons.
+V. THE AUTHORITIES GENERALLY- STATUTORY INTERPRETATION
+[9] In Stubart Investments, the Supreme Court of Canada (“Supreme Court”) affirmed the modern approach to statutory interpretation. That approach requires that “the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament.” [5] The Supreme Court reframed this approach in Canada Trustco as the textual, contextual, and purposive (“TCP”) approach. [6]
+[10] A statutory provision must be interpreted according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. [7] Further, where the words of a statute are precise and unequivocal, those words play a dominant role in the interpretation. [8] The Supreme Court in Canada Trustco also noted that “[t]he relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the Court must seek to read the provisions of an Act as a harmonious whole.” [9]
+[11] Recent Supreme Court cases provide further insight into this analytical process. If words of a legislative provision appear to be precise and unequivocal, the Court must still examine the legislative context and purpose. [10] An examination of a provision may yield clarity at first glance and yet its context may reveal latent ambiguities. [11]
+[12] An interpretive dispute involving multiple legislative objectives and the inter-relationship between two or more statutory provisions may raise the scheme of the Act and the underlying objectives of the provisions to particular significance. [12] In the face of complexity, the Court should not focus on one objective to the exclusion of others. Instead, it should assign an active role to secondary purposes unidentified in preambles or purpose statements. [13] Regardless, primary legislative goals should be proportionately interpreted and balanced with other principles and policies that qualify the pursuit of the primary goals. [14]
+[13] After examination, should the legislative language be unambiguous then purpose “cannot be used to create an unexpressed exception to clear language.” [15] Similarly, policy considerations “cannot be permitted to distort the actual words of the statute, read harmoniously with the scheme of the statute, its object, and the intention of the legislature, so as to make the provision say something it does not.” [16]
+[14] Ultimately, this exercise “seeks the intent of Parliament by reading the words of the provision in context and according to their grammatical and ordinary sense, harmoniously with the scheme and object of the statute.” [17] Further, “[t]he primary role of the courts…is to interpret and apply those laws according to their terms, provided they are lawfully enacted. It is not the role of the Tax Court to rewrite the legislation.” [18]
+VI. A SUMMARY OF THE FACTS CONCERNING THE RULE 58 QUESTIONS
+[15] As required in Rule 58, the facts concerning the questions were submitted to the Court on consent. What follows is a relevant summary of those facts.
+[16] The Appellant, Mr. Hunt, opened a tax-free savings account (“TFSA Trust”) in early 2009. He contributed 10,000 shares of a private company (“MSC”). In 2010, 2011 and 2012, Mr. Hunt contributed additional MSC shares to the TFSA Trust. In 2013 and 2014, he put in cash. In 2013, upon his retirement, Mr. Hunt sold 14,147 MSC shares for $8.063 a share or $114,067.26. In 2015, the Minister proposed to assess Mr. Hunt a TFSA Charge under section 207.05. The Minister’s agents invited representations concerning a section 207.06 TFSA Charge Waiver (the “TFSA Proposal Letter”). The TFSA Charge amount exceeded $144,000.00.
+[17] After negotiation at the representation stage, the Minister’s agents proposed a resolution (the “TFSA Charge Waiver Offer”): Mr. Hunt would agree to receipt of a TFSA Advantage and would withdraw the extent of the TFSA Advantage from the TFSA Trust. No commensurate TFSA contribution room would be credited to the TFSA Trust. The Minister would utilize a TFSA Charge Waiver to reduce the quantum of the TFSA Advantage in relevant taxation years to between 43.1% and 45.8% of the 100% TFSA Charge. The amount of the waiver resulted in a charge pay reflective of the relevant top marginal tax rates applicable. The parties would reciprocally waive further rights.
+[18] Mr. Hunt refused the TFSA Charge Waiver Offer. Therefore, the Minister assessed according to the less favourable TFSA Proposal Letter, effectively the full TFSA Charge. Mr. Hunt appealed the Minister’s decision to the Federal Court. The Minister resiled, and on an asserted “just and equitable basis”, reconsidered. The Minister unilaterally reassessed, more or less, on the basis of the TFSA Charge Waiver Offer, minus the further rights waiver. No further reassessments were issued.
+VII. ANALYSIS
+A. The First Question: is the TFSA Charge a tax or penalty?
+i) Interpretative Approach: text, context and purpose (“TCP”)
+[19] The parties agree on the applicability of a TCP approach; they maintain vastly different positions on the results of the approach.
+(a) The Appellant’s TCP approach
+[20] The Appellant states the text of a provision is not determinative of whether the TFSA Charge is a tax and the purpose and context overrides the text in this appeal. The following provides the analytical sequence of the position.
+[21] The Appellant argues the cases of Eurig Estate [19] and Syndicats [20] support this position. Courts look behind the wording used in a statute to ascertain the true nature of a charge or levy for constitutional purposes. [21] Eurig Estate struck down an Ontario regulation imposing probate fees because the charge was a tax imposed by a body other than the Ontario Legislature; the Court looked beyond the label of “fees” to find a tax contrary to Section 53. [22] In Syndicats, the Supreme Court said that a previously valid levy became an invalid tax because legislative measures destroyed the nexus between the levy and its regulatory scheme. [23] This suggests that the substance of a tax may be distinguishable from a levy beyond its text.
+[22] The “pith and substance” of provisions was the focus of the analysis in Eurig Estate and Syndicats. Nonetheless, Eurig Estate and Syndicats have some relevance in the current issue. There is nothing to preclude the use of Eurig Estate and Syndicats to inform the Court of the interpretive considerations if it decides to look past the words to ascertain whether a charge is in fact a tax or something else.
+[23] The Appellant argues Weber [24] and Tokio Marine [25] state that the plain and ordinary meaning of a statute’s words are only one aspect of the modern approach. [26] The Alberta Court of Appeal in Tokio Marine looked through the jurisprudence and concluded that in the modern approach to statutory interpretation, a literal approach is not appropriate and context and purpose must be considered regardless of whether a word or phrase has a plain or unambiguous meaning. This Court notes that the underlying requirement of the interpretative exercise seeks a meaning that is harmonious with the Act as a whole. The legislation at issue in Tokio Marine was the provincial Insurance Act, which arguably calls for a more purposive analysis to ensure the interpretation does not undermine the object of the Act as a whole or violate Charter rights.
+(b) The Respondent’s TCP approach
+[24] The Respondent argues that in the TCP approach, the text has primacy over context and purpose where the words are clear and unambiguous, as they are in this case. Further, the interpretive approach does not contemplate courts reading beyond the strict words of the statute to see its substantive effect. [27] Several other principles of interpretation are referenced; the greatest emphasis sits jointly on the prohibition against judicial rewriting and the principle of parliamentary sovereignty.
+[25] The Respondent argues that the burden to prove a meaning different from the ordinary meaning of a provision is on the party advancing the alternate meaning. [28]
+[26] The Respondent notes that Supreme Court has warned on numerous occasions that courts must be cautious to avoid finding unexpressed legislative intention under the guise of purposive interpretation, as it risks upsetting the balance set by Parliament. [29] In Canada Trustco, the Supreme Court observed that in tax legislation, the text often plays a more dominant interpretive role due to the precision and complexity of the Act. [30] In Placer Dome, the Court said that where words are precise and unequivocal, they present a dominant role in the interpretive process. [31]
+(c) Some Observations
+[27] However, the full picture of the interpretive approach has more nuance. [32] The context and purpose are to be examined even in the absence of clear ambiguity, as in Canada Trustco where the Supreme Court states “in all cases the Court must seek to read the provisions of an Act as a harmonious whole,” [33] because “statutory context and purpose may…reveal ambiguity in apparently plain language.” [34]
+[28] To the extent that the plain meaning of section 207.05, either alone or in combination with 206.06 imposes a tax, there is a reasoned argument that Parliament must have intended for it to be so. In any event, closer inquiry into Parliamentary intention may reveal an intent to penalize rather than tax. The intention of Parliament is clearly relevant as one factor in the modern approach to statutory interpretation, along with the object and scheme of the Act. [35]
+[29] The question of whether a provision is a tax or a penalty is a question of law. There is no onus on either party to prove one meaning applies.
+ii) Applying the TCP analysis to the TFSA Charge
+(a) Text
+[30] The Appellant’s analysis does not slavishly apply a discrete three-step TCP analysis. The analysis comingles the textual, contextual and purposive framework. The Appellant cites the ordinary meaning of “tax” and “penalty” as defined in Black’s Law Dictionary, expanding on those definitions through Canadian and foreign jurisprudence distinguishing taxes from penalties in the constitutional context. The Appellant qualifies the Lawson criteria as necessary and also insufficient to make the TFSA Charge a tax. [36]
+[31] Implicitly, the Appellant tangentially acknowledges that the plain meaning of subsection 207.05(1) is to impose a tax; the only argument made in relation to the text is that the text is not determinative. The Court is urged to examine the underlying meaning of “tax” as opposed to “penalty” and consider whether the function of section 207.05 is more appropriately classified as a penalty.
+[32] This textual analysis focuses on purpose rather than text. The word “penalty” is not included in the statutory provision. [37] The definition of a word, itself omitted from a provision, is generally not examined for statutory interpretation. Interpretive disputes centre on a word or phrase within, rather than absent from, the statutory language. Presently, this will not suit since the interpretive question is whether a provision purporting to be a tax is in fact something else, a penalty. Logically, to answer that question the definition of “penalty” is needed to determine whether section 207.05 is a tax or a penalty.
+[33] In simplistic contrast, the Respondent asserts the charge in section 207.05 is prima facie a tax because subsection 207.05(1) states that a tax is payable under this part [38] ; there is no ambiguity in the meaning of “tax” and the Lawson criteria is clearly met. [39] The Court notes that this begs the very question: is the text unassailable were it to merely label a cat a dog? Such textual analysis is too narrowly focused on the word “tax” to the exclusion of all other textual elements. It settles inviolate qualities upon the Lawson criteria, which per se are instructive and persuasive, but not irrevocably directive. [40]
+[34] Such textual argument per se is not airtight. Residually, the “statutory context and purpose may…reveal ambiguity in apparently plain language.” [41] Further, the amount of the tax payable may impact the textual analysis [42] ; its breadth can introduce ambiguity into an otherwise unambiguous provision.
+[35] At the very least, the text of section 207.05 must locate the essence of the TFSA Charge qua tax within the orbit of the factors in Lawson.
+[36] The Supreme Court cautions against interpretation that strays from the plain meaning of text in applying the modern approach, especially in the tax legislation context. The presence or absence of certain policy considerations provide important context in framing the Court’s approach to construction. The Court repeatedly cautions against departing from clear language for “unexpressed notions of policy or principle” in statutory interpretation, as it would “introduce intolerable uncertainty” into the Act, [43] This dual emphasis on the primacy of text and judicial restraint may be concerned with the unfairness of a purposive approach disallowing transactions completed by taxpayers relying on the clear and unambiguous text of a provision.
+[37] Concerns of legal certainty may be less relevant in application of the TFSA Charge, as the proposed ambiguity does not affect the applicability of the section to the facts. Whether it is a penalty or tax, the effect of the TFSA Charge is clearly a charge of 100% of the TFSA Advantage, with the potential for relief of some or all of that amount by Ministerial discretion applied through the TFSA Waiver. This statutory interpretation exercise does not involve choosing between different interpretations of words in the provision. In the First Question, the assertion is different from the text; the text may disguise a purpose that is inconsistent with the words used. If true, a highly textual interpretive approach would not evaluate whether an unusually punitive provision pronounced as a tax is legally a tax.
+(b) Context
+[38] The Appellant argues that subsection 207.05(3) of the Act exemplifies a penalty since the target of the TFSA Charge is whoever is “at fault”. [44] However, there are practical reasons for the bifurcation between the individual benefitting from the TFSA Advantage and the person liable to pay the TFSA Charge. One example is the situation described in subsection 207.05(3) where, the issuer has greater control over whether inappropriate funds are placed in a TFSA account. As an anti-abuse provision, the liability to pay the TFSA Charge follows the person in control. No inherent moral opprobrium rests on one party over another. Parliament seeks an efficacious collection of the TFSA Charge. If the TFSA Advantage is effected by the issuer, then it likely applies to multiple TFSA holders. The issuer rather than each TFSA holder individually is the appropriate payor. In a way, this collection method contextually supports a tax for treasury rather than a penalty for dissuasion.
+[39] There was also a suggestion that section 207.061 creates an alternative, more modest approach to taxing TFSA Advantages from the TFSA Charge. In contrast to the 100% TFSA Charge in section 207.05, these are two parallel “paths” providing Ministerial choice to address the same advantage.
+[40] Again, contextually, an opposite conclusion may be reached. Section 207.061 includes specific amounts as income under Part I where a TFSA investment is “specified non-qualified investment income” or the amount designated within an agreement to waive or cancel liability for tax under Part XI.1.
+[41] Section 207.061 is not alternative. It ensures that where the Minister waives the TFSA Charge, the TFSA Advantage may still be taxed as income under Part I. Again, in context, it preserves the notion that a tax and not a penalty is intended by combined effect. The Minister’s potential “unfettered discretion” to waive certain liability under the TFSA Waiver through section 207.061 transforms the tax to the marginal rate under Part I.
+[42] As noted by the Respondent, section 146.2 generally exempts income earned in a TFSA from tax. Where general rules are violated, the tax-exempt status is lost and tax is assessed under the applicable taxing provisions: sections 207.02, 207.03, 207.04 and 207.05. [45] If section 207.05 were a penalty, a due diligence defence applies, and a successful defence renders non-qualified income free of tax. Within context, the express inclusion within subsection 207.06(2) of circumstances where a transaction is taxable under another provision affording discretionary relief further buttresses the TFSA Charge being a tax. [46] . In both examples, successful defences neither exempt transactions from taxes nor do penalties afford alternative relief.
+[43] The Appellant’s argues that the applicability of a TFSA Charge is outlined in subsection 146.2(6) rather than under Part XI.01. Consequently relief by a due diligence defence for Part XI.01 does not prevent tax being imposed under other provisions. This compound reasoning is not compelling. A provision setting out the requirements for an exemption is not equivalent to a provision setting out liability to pay tax. It is not a charging provision; it does not capture all the circumstances under which TFSA income may be taxable. In this very appeal, the Appellant was assessed under section 207.05 and not section 146.2 or a combination of the two provisions. [47] The application of tax liability under one provision does not preclude the application of another specific taxing provision Parliament believes it should enact. In context, multiple ways exist for the TFSA regime to be abused and multiple anti-abuse provisions address these. Criteria to alleviate double taxation need not be perfect. In the tax versus penalty context itself, legislative attempts to reduce double taxation suggest a provision is a tax and not a penalty. If the double fiscal consequences imposed under section 207.05 as a penalty and another provision as a tax is equivalent to “double taxation”, both are still essentially taxes, not a penalty plus a tax. [48]
+[44] “Micro” contexts aside, the “macro” argument persists in this question. All such provisions comprise a larger, in fact the largest, Act levying taxes. Contextually, the words “a tax is payable” express consistently throughout the Act the imposition of taxes. Although not raised or countenanced in submissions, the Court reviewed the concordant and equally authoritative French text concerning the TFSA Charge and TFSA Waiver. Consistently, the word “impôt” is used without variation in the French version where “tax” is used in English. No difference and, consequently, no conflict exists between the two versions which comprise the single federal statute whose whole plain meaning is grasped by examining both versions. [49] Moreover, within the Act, taxation is the norm and penalties are the exception. Barring ambiguity, any interpretation holding that the words “a tax is payable” creates a penalty, where penalties are otherwise exceptionally stated to be so in the legislation, impugns the coherency of the Act and the century old “magic words” employed by Parliament to raise and levy a tax.
+Foreign Jurisprudence
+[45] Prior to engaging in the substance of the purposive analysis, it is worth addressing the use and utility of foreign jurisprudence which was relied upon by the Appellant.
+[46] Foreign jurisprudence is helpful, but not determinative. Foreign case law can be helpful where Canadian courts have not previously sufficiently considered a particular question. [50] This is not the case concerning the question of tax versus penalty.
+[47] As well, foreign courts have not considered this question in an analogous or parallel context. [51] If the meaning of “tax” and “penalty” in foreign constitutional cases had the same focus and scope as the meaning of similar words in Canadian non-constitutional law, analogy may be possible. Even then, the interpretive exercise in constitutional issues is different from the interpretive exercise in non-constitutional issues. There is no evidence that this division is lessened or even comparable if the constitutional issue is from a foreign constitution.
+[48] Overall, the analogy does not exist and the Canadian jurisprudence is preferred since the foreign jurisprudence is neither comparable nor binding.
+(c) Purpose
+[49] The Appellant’s purposive arguments centre on the purpose of the TFSA Charge, and, in connection to it, its effect. As mentioned, a number of constitutional cases from the United States and Australia highlight where the judiciary distinguished a charge as a tax or a penalty. However, the broader intention behind these references supports the proposed four-part criteria used to identify taxes versus penalties, which are: [52]
+(1) a tax must be levied by a public body and intended for a public purpose;
+(2) the primary objective of a tax is to raise revenue;
+(3) the primary motive of a penalty is to prohibit or substantially limit certain conduct; though either may have other indirect purposes; and
+(4) A charge that is extravagant, prohibitory, or imposes a heavy burden is more likely a penalty.
+[50] In applying these criteria, the Appellant takes the position that the charge imposed by sections 207.05 and 207.06, separately or in combined effect must be a penalty because its levy is not for a public purpose. Instead, the primary purpose deters certain behavior and the amount of the charge is “extravagant” and imposes a “heavy burden”. [53]
+[51] This first element is taken from the Lawson criteria and is clearly supported by case law. [54] The second and third elements appear to be adapted from foreign case law and are directed at determining the “public purpose” in the first element. In turn, the Appellant argues that the TFSA Charge has no public purpose because its primary motive deters and only coincidentally raises revenue. [55]
+[52] The argument that the TFSA Charge is not a tax because it does not have a predominantly revenue-raising purpose was presented to Justice Pizzitelli. He conclusively dismissed it. [56] That part of the decision was not subject to an appeal and remains relevant. [57] Justice Pizzitelli stated at paragraphs 90 to 92:
+[90] In my opinion, the Appellant’s argument has no merit for the following
+reasons:
+1. The Supreme Court of Canada has recognized that tax legislation is utilized for more than simply raising revenue. In Québec (Communauté urbaine) v Corp. Notre-Dame de Bon-Secours, [1994] 3 SCR 3 at pages 15-18 relied on by the Respondent:
+This turning point in the development of the rules for interpreting tax legislation in Canada was prompted by the realization that the purpose of tax legislation is no longer simply to raise funds with which to cover government expenditure. It was recognized that such legislation is also used for social and economic purposes. … In our time it has been recognized that such legislation serves other purposes and functions as a tool of economic and social policy….
+[91] As the Respondent has pointed out in its submission, the Act provides numerous examples of economic incentives like lower rates of tax on capital gains and capital gains exemption limits to encourage investment in small businesses, as well as financial incentives to implement social policy by way of tax credits to encourage charitable giving or further one’s education or provide assistance to the disabled by way of example.
+[92] I agree with the Respondent that tax rules designed to reduce or forego taxes reflect Parliament’s choice on how to exercise its broad powers of taxation, which can include foregoing some or all tax as incentives to implement economic or social policies, but which logically include rules to provide penalties or greater taxation as disincentives to prevent abuse of incentive programs and protect the integrity of such programs delivered through the Act. In my view, a provision to protect the integrity of a taxation provision, be it to tax, provide an incentive or create a disincentive, is no less a legitimate provision relating to Parliament’s broad powers to raise revenue within subsection 91(3), which section not only empowers Parliament to raise revenue “by any mode” but also by “any system” of taxation. The Canadian federal system of taxation contains deductions, exemptions, tax credits, penalties, anti-avoidance rules and a myriad of other provisions as part of its overall goal to raise revenue and so proper elements of such system, including the anti-avoidance element the Appellant refers to, is by definition part of or entwined in the raising of revenue by a system of taxation contemplated by subsection 91(3) of the Constitution and thus is, in pith and substance, taxation.
+[53] Canadian courts have clearly stated that the objective of a tax is no longer constrained to raising public revenue. [58] A public purpose may be to implement economic and social policies or protect the integrity of a taxing provision, and these other public purposes are no less legitimate. The law in Canada diverges from the foreign sources cited. As such, these arguments fail.
+[54] The fourth criteria raises the question of whether a tax that is punitive or disproportionate transforms it into a penalty or “hybrid tax and penalty”. The obiter in St Arnaud [59] suggests that it is open to a court to find a charge, such as the TFSA Charge, inexplicably disproportionate and therefore a penalty.
+[55] In St Arnaud, the Federal Court of Appeal examined subsections 146(9) and 146.3(4). The Court queried why the application of subsection 146.3(4), which relates to the use of registered retirement income funds (“RRIFs”), required twice the income inclusion of subsection 146(9), which relates to the use of registered retirement saving plans (“RSPs”), even though both provisions require that the same conditions be met. [60] Although obiter dicta, it dangles the potential conclusion of a penalty had such an issue been raised on appeal.
+[56] Trial courts concern themselves with facts. In St Arnaud, the Appellant taxpayers were victims of fraud who lost significant amounts of money from their RSPs. They were subsequently reassessed for an income inclusion equal to twice the amount they had lost. [61] The actual basis for the levy is unclear. The reasons in St Arnaud imply that the arbitrariness or lack of explanation for the higher income inclusion under subsection 146.3(4) versus subsection 146(9) led the Court to suggest (and not find) that subsection 146.3(4) was a penalty, rather than an onerous income inclusion. Logically, the Federal Court of Appeal did not suggest the income inclusion in subsection 146(9) was a penalty, despite its onerous income inclusion of the full loss. An alternative interpretation is that this further obiter in St Arnaud refutes the argument that a full loss inclusion (100%) of the fair market value of the benefit received constitutes a penalty.
+[57] The “punitive” effect of a 100% inclusion rate as the basis for characterizing the charge as a penalty is not convincing. No innate quality in the rate of a charge predicts how severe or disproportionate the tax may be. The means of the taxpayer, the amount to be taxed, and the collection methods imposed may be better indicators of its impact. The context for the TFSA Charge is important in examining the proportionality of the charge. It is limited to certain TFSA Advantages and other benefit-conferring regimes of similar registered plans. Unlike Part I Tax, taxpayers may easily avoid the application of the TFSA Charge by opting not to use a TFSA or other registered plans. The economic incentive to use the TFSA regime is the result of a deliberate government choice to forego taxation revenue to encourage certain forms of savings. The government is able to make rules to preserve the integrity of its benefit-conferring regimes provided they are not arbitrary or capricious.
+[58] A charge labelled as a tax may have characteristics so clearly coercive and disproportionate that one concludes it is a penalty; however, this case does not meet that standard.
+[59] The TFSA regime is a benefit-conferring structure introduced to encourage personal savings by taxpayers by exempting tax from the income otherwise earned on savings. [62] As such, there is a risk of taxpayers abusing the regime to avoid taxes on investments outside the TFSA rules set by Parliament. The TFSA Charge addresses those abuses. It taxes benefits from transactions that artificially shift taxable income from other unqualified transactions into the TFSA regime. [63]
+[60] Many other provisions exist to levy a tax against prohibited transactions, deductions or diversions: subsection 15(1) and section 160 to enumerate just two.
+[61] The distinction in intent between such provisions and the TFSA Charge is slim. The principal motive, goal, and object of the TFSA Charge, is “prevent[ing] transactions designed to artificially shift taxable income away from the holder and into the shelter of the TFSA.” [64]
+[62] Section 160 is an anti-avoidance and collection provision meant to deter behaviour that removes assets of tax debtors from attachment and consequently that taxpayer from taxation. [65]
+[63] In totality, the circumstances in St Arnaud do not exist in this case. Moreover, the TFSA Charge in section 207.05 now applies similarly to RRIFs, RRSPs, RESPs, and RDSPs. [66]
+iii) Conclusion concerning the First Question: tax or penalty?
+[64] Parliament has drafted very detailed rules in order to implement the TFSA scheme. Regardless of its beliefs on the weighty burden of a 100% tax, the Court “cannot disregard the actual words chosen by Parliament and rewrite the legislation to accord with its own view of how the legislative purpose could be better promoted.” [67] Parliament is entitled to legislate a tax of this kind; it is not absurd to assign Parliament’s textual intent with clarity, especially when read in light of the context and purpose of the TFSA scheme.
+[65] For these reasons, the answer to the First Question is: section 207.05, alone or in combination with section 207.06, imposes a tax in law.
+B. The Second Question: is the TFSA Charge Constitutional?
+[66] The parties disagree on two points: (i) are rate-setting powers delegated conjunctively in sections 207.05 and 207.06? and, (ii) if so, is the proposed delegation sufficiently constrained to be constitutional?
+[67] More broadly, the questions raised from these two queries were similarly framed by the Federal Court of Appeal in the FCA Reasons Hunt #1 and are adaptively framed below for the revised Second Question: [68]
+(i) What exactly do sections [207.05 and 207.06], individually or collectively, empower the Minister to do? What exactly is the Minister’s discretion?
+(ii) Are there discernable and definitive criteria, explicit or implicit, governing the Minister’s discretion under the section[s]? Or is the discretion so undefined and unconstrained by criteria—effectively a standardless sweep—that the Minister, not Parliament, is really setting the tax rate or imposing the tax?
+Preliminary issue: what makes a valid delegation of taxing power under Section 53 of the Constitution?
+[68] Throughout history, the taxed have demanded “consensual” rules concerning who, by whom and how they ought to be taxed (or not). To name a few: Runnymede (1215), Ghent (1539), Boston (1773), Shanghai (1853) are oft cited. In 1867, at inception, the Canadian Constitution embedded a principle in section 53: no taxation without representation. It requires that any Bill “appropriating.. Revenue” or “imposing any tax…” to originate in the elected legislative chamber. Consequentially, this ensures parliamentary control and oversight on the burden of taxation. [69]
+[69] Parliament may only validly delegate certain aspects of its taxation authority. To comply with section 53, Parliament must ensure it (a) clearly and unambiguously expresses its intent to delegate taxation authority; and (b) limits any delegated power to setting the “details and mechanism” of the tax. [70]
+[70] The Supreme Court in Syndicats, described those conditions and limitations of delegation: [71]
+[92] In short, in this case concerning employment insurance, only Parliament may impose a tax ab initio. According to this Court’s decisions, taxing authority must be delegated expressly and unambiguously. Once this requirement is met, the delegate may exercise the power to establish the details and mechanisms of taxation.
+i) The TCP approach once more
+[71] The Appellant argues a textual, contextual, and purposive reading of sections 207.05 and 207.06 reveals that the TFSA Charge, section 207.05, establishes a tax base at an amount equal to the TFSA Advantage received, while the TFSA Waiver, section 207.06, delegates the authority to set the applicable tax rate to the Minister. [72] The Supreme Court in OECTA [73] states that a tax cannot exist unless its rate is determined. The Appellant states the delegation of the rate-setting ability given to the Minister effectively delegates the taxation authority to the Minister. [74] On sub-delegation, the grant of power to make exceptions to a rule constitutes a delegation of the authority to make the rule itself. [75]
+[72] In contrast, the Respondent submits that the TFSA Charge establishes all the necessary features of a tax, with subsection 207.05(1) providing the charging provision and subsection 207.05(2) setting out the amount of tax payable. [76] In reading section 207.05 with the definition of “advantage” in subsection 207.01(1), the rate of tax imposed is 100% of the fair market value of the TFSA Advantage. [77] Section 207.06 is a separate relieving position that provides the Minister the discretion to waive or cancel all or part of a tax liability under the TFSA Charge where it is just and equitable to do so, having regard to the circumstances set out in the statute. [78] Primacy of the ordinary meaning of the text saves it.
+ii) Applying the TCP approach to the delegation concerning the TFSA Charge
+(a) Text
+What the parties say
+[73] The Appellant makes several arguments concerning text. First, unlike Part I of the Act, the TFSA Advantage does not expressly specify a tax rate in percentage terms. This indicates Parliament only set the tax base as the TFSA Advantage but not the tax rate. [79] Second, this conclusion is supported by embedding the TFSA Waiver in section 207.06 and the TFSA Charge in section 207.05, separating the tax base in section 207.05 and the tax rate in 207.06. [80] The breadth of the TFSA Charge in section 207.05, by virtue of the definition of “advantage” (as set out in subsection 207.01(1)), includes unrealized gains and other amounts not generally included in income or gains under Part I of the Act. This, the Appellant states, supports the conclusion that section 207.05 only imposes a tax base, as the alternative of a 100% tax on the TFSA Advantage is absurd due to overreach. [81]
+[74] The Respondent argues that the meaning of sections 207.05 and 207.06 are readily apparent and consistent with other taxing provisions for RSPs in the Act. [82] The presumption of consistent expression applies to the use of the words “waive” and “cancel” in section 207.06.
+Some observations and analysis
+[75] There is clarity and consistency in the text of section 207.05. Subsection 207.05(1) states that a tax is payable in respect of an advantage. Subsection 207.05(2) establish a tax payable equal to the TFSA Charge: the fair market value of the benefit, or the amount of the loan, indebtedness, or registered plan strip in respect of the advantage in subsection 207.05(1). In Hunt #1, both courts found that section 207.05 had all the elements of a tax and delegates nothing to the Minister. [83] Deductively, the basis of any proposed ambiguity must then arise from section 207.06, alone or read in combination with 207.05. The language of subsection 207.06(2) makes tax liability a pre-condition and then allows for the Minister to waive or cancel all or part of the liability where the Minister considers it just and equitable to do so. The sub-section lists the factors for the Minister to consider in determining whether to waive or cancel.
+[76] No mandate in the TFSA Waiver exceeds the waiver or cancellation of preordained taxes under sections 207.04 or 207.05. [84] Beyond that, key question in the textual analysis is whether the criteria set out in the TFSA Waiver constrains the Minister’s discretion to waive or cancel the TFSA Charge. The Appellant claims the criteria are only suggestive and place little constraint on the Minister’s discretion. [85]
+[77] There is a dispute on the interpretation of the Federal Court of Appeal’s comments in this matter’s procedural history regarding conferral of discretion. It centres on whether the Federal Court of Appeal implied that Parliament delegated taxation authority to the Minister. Paragraphs 12 to 15 of the decision are premised on delegation having occurred. Paragraph 17 focused only on the extent of the discretion under section 207.06 and not whether the discretion was conferred. [86] The applicable findings of the Court follow:
+[12] Imagine a provision that, on its literal text, appears to give the Minister a broad, seemingly limitless discretion to impose a tax. But the analysis does not stop there. The Court must go further and examine the context and purpose of the provision: ATCO Gas & Pipelines Ltd. v. Alberta (Energy & Utilities Board), 2006 SCC 4, [2006] 1 S.C.R. 140 at para. 48; Montréal (City) v. 2952-1366 Québec Inc., 2005 SCC 62, [2005] 3 S.C.R. 141 at para. 10; see also CIBC World Markets Inc. v. Canada, 2019 FCA 147 at para. 27 and Hillier v. Canada (Attorney General), 2019 FCA 44, 431 D.L.R. (4th) 556 at para. 24. This further examination can shed light on the meaning of the words and can reveal latent ambiguities requiring resolution.
+[13] In some cases, after a full examination of the text in light of its context and purpose, the Court might conclude that Parliament’s provision, in its authentic meaning, satisfactorily constrains the Minister’s discretion and defines what she can do and how she should do it. The Minister would not be creating and imposing a tax or coming up with the tax rate on her own. She would not be a law unto herself.
+[14] But in other cases, the Court might conclude that Parliament’s provision, in its authentic meaning, gives the Minister an unconstrained, undefined discretion without criteria. The Minister, not Parliament, would be creating and imposing the tax or coming up with the tax rate on her own. She would be a law unto herself.
+[15] Under that scenario, any measure adopted by the Canada Revenue Agency to guide the improperly wide discretion Parliament has given the Minister, such as policies, practices or interpretation bulletins, would be irrelevant. They would not fix the fatal problem: Parliament’s over-delegation of taxation power in the first place contrary to section 53 of the Constitution Act, 1867.
+[16] The parties’ memoranda of fact and law did not deal in sufficient detail or at all with these questions. The same can be said for the Tax Court: reasons of the Tax Court at para. 34.
+[17] During the hearing in this Court, the panel repeatedly asked the parties whether, as a matter of legislative interpretation, section 207.06 vests a wide, undefined discretion in the Minister or constrains the Minister and, if so, to what extent and how. The parties were unable to provide responses precise or thorough enough to assist the Court satisfactorily.
+[78] The Federal Court of Appeal indicated that full examination of the text of the provisions, in light of the context and purpose, leads to the conclusion that if Parliament gave unconstrained and unfettered discretion to the Minister, then the textual delegation of the taxation authority may contravene section 53. It was a conditional statement and the wording of the second question supports this. The Federal Court of Appeal asked if the discretion “is so undefined…that the Minister…is really setting the tax rate or imposing the tax.” [87] This frames that Court’s discussions on discretion in paragraphs 12 to 15. A delegation of taxing authority only occurs if the Minister is setting the tax rate. It is logical to conclude that the Federal Court of Appeal had genuine uncertainty about the delegation having occurred since the Court’s questions target the requirements for delegation to exist.
+[79] The Federal Court of Appeal asked if the criteria are such that the Minister’s discretion is “effectively a standardless sweep.” [88] It also added “[u]nder that scenario, any measures adopted by the Canada Revenue Agency to guide the improperly wide discretion Parliament has given the Minister, such as policies, practices or interpretation bulletins, would be irrelevant.” [89] These comments conditionally imply that if the text is faulty for granting overbroad discretion, then and only then, rectification of such a flaw is not possible through a contextual or purposive analysis. In the tax legislation context, if the text plainly confers unlimited discretion on the Minister, looking to context and purpose will not redeem it. [90]
+[80] There is no authority specifically on the discretion conferred in the TFSA Waiver. Other cases on Ministerial discretion under the Act are of guidance. In McNally, the Federal Court determined that the CRA’s discretion in assessing taxpayer’s return of income “with all due dispatch” under subsection 152(1) of the Act is not so broad as to allow arbitrary delays to the assessment in order to fulfill an objective unrelated to examining the return. [91] In deciding that the Minister breached her duty in that case, the Federal Court of Appeal emphasized the following statement of Justice Rand in Roncarelli c. Duplessis: [92]
+...there is no such thing as absolute and untrammelled “discretion”, that is that action can be taken on any ground or for any reason that can be suggested to the mind of the administrator; no legislative Act can, without express language, be taken to contemplate an unlimited arbitrary power exercisable for any purpose, however capricious or irrelevant, regardless of the nature or purpose of the statute.
+[81] The absence of statutory criteria is not express language that contemplates an unlimited arbitrary power exercisable for any purpose. To the contrary, a public authority’s discretion to relieve taxes cannot be used to “exempt or reduce the rate for different categories or classes of taxpayers in a wholly arbitrary or capricious way to the benefit, or prejudice, of a select few.” [93] Procedural fairness always applies in administrative decisions which are not legislative in nature and affect the rights, liberties, or interests of subjects. [94] The Vavilov [95] criteria of “clear and intelligible reasons,” even in the absence of statutory criteria to guide the Minister, would not support an arbitrary or capricious use of discretion. [96]
+[82] Regarding the TFSA and this case, the criteria are listed concerning the discretionary grant of a TFSA Waiver. Do these criteria constrain the Minister’s discretion or are they merely suggestive and have little impact on the unfettered discretion of the Minister? The TFSA Waiver criteria have not been considered in this context. Practically, judicial review cases concerning Ministerial discretion within the TFSA Waiver support the conclusion that the criteria in subsection 207.06(2) constrain the Minister’s discretion; the criteria are mandatory considerations.
+[83] In Gekas, [97] Justice Boswell of the Federal Court held that it was unreasonable for the Minister to deny relief for over-contribution to a TFSA if the criteria in subsection 207.06(1) are met. The Federal Court of Appeal rejected the Minister’s argument that discretion allows the Minister to refuse the waiver or cancellation even if both criteria are met. The Court said that the Minister’s refusal to cancel tax on a TFSA over-contribution resulting from a reasonable error and where efforts were made promptly to address the over-contribution was an unreasonable refusal. [98] In Sangha, where the Vavilov standard of review was applied, the Federal Court concluded that the Minister’s reasons in refusing to waive tax under subsection 207.06(1) were unreasonable notwithstanding the delegate’s reliance on the CRA manual because the reasons revealed that the specific circumstances of the taxpayer were not considered. [99] The proof in the pudding is in the eating. The TFSA Waiver criteria are not merely suggestive. They must be considered in applying the waiver or not, and considered in light of the individual circumstances and submissions of the taxpayer.
+[84] Turning to the actual text of subsection 207.06(2), there are three circumstances (criteria) concerning a TFSA Waiver:
+(a) whether the tax arose as a consequence of reasonable error;
+(b) the extent to which the transaction or series also gave rise to another tax; and,
+(c) the extent to which payments have been made from the person’s registered plan.
+[85] These are non-exclusive criteria. The language does not preclude the Minister from considering other factors to determine where a waiver is “just and equitable” in circumstances. Given such language, unreasonable refusal to consider other circumstances fetters the Minister’s discretion and is subject to judicial review. A plain reading of the criteria reveals specific and mandatory guidance for the Minister’s exercise of discretion, with flexibility to allow the Minister to serve the overarching purpose of providing relief where just and equitable.
+[86] In respect of the TFSA Charge, 100% is a very high rate of tax. While including loans, indebtedness or registered plans is expansive, the application of the TFSA Charge is circumscribed to only the benefits, loans, indebtedness, or registered plan strips that comprise a TFSA Advantage. These precise criteria in the definition of “advantage” in section 207.01(1) limit the application of the TFSA Charge to specific transactions and events in a TFSA. [100] This tempers the effect of the high rate and reinforces the anti-abuse focus of the provision.
+[87] The inclusion of unrealized gains is not unusual in the Act. For example, subject to certain rules, taxpayer death in section 70 of Part I of the Act deems accrued capital gains as income based on the fair market value of the assets held at the time of death, notwithstanding no actual (factual) disposition.
+[88] The Appellant offers the decisions in Florence, [101] Clark, [102] Webster, [103] McCracken [104] , and Re: New Westminster Nuisance Prohibition Bylaw [105] as examples of striking down provisions. Such provisions vest a third party decision-maker with powers to make exceptions from a rule and re invalid because they are an unlawful grant of the rule-making power itself. [106]
+[89] The critical issue is whether the statutory provision enacted by Parliament implicitly delegated the rate-setting authority to the Minister in contravention of section 53 of the Constitution. With the TFSA Charge and TFSA Waiver, there is neither a committee or board sending its discretionary powers to another party as in Clark, nor a municipal council creating bylaws that extend beyond statutorily granted powers as in Re: New Westminster Nuisance Prohibition Bylaw and McCracken. The principles in these cases cannot be divorced from their respective facts, which differ materially because in the TFSA framework there is no further delegation.
+(b) Context
+The Appellant’s argument
+[90] In the contextual analysis, the Appellant suggests that the distinction between the TFSA Charge and other provisions in Part XI.01 renders the TFSA Charge different from other charges. The Appellant states that a 100% tax on the TFSA Advantage is not reasonable or defensible and is contrary to accepted norms of justice. This is so because the TFSA Waiver is an essential part of the TFSA Charge and parades as the rate-setting mechanism, allowing the Minister to set a rate presumably below 100% in order to “normalize” the tax. [107]
+[91] Further, the Appellant argues that the lack of a statutory mechanism to avoid or seek a refund of the TFSA Charge within section 207.04 and 207.01(1), when contrasted to the discretion afforded the Minister’s agents in the TFSA Charge rules, herself vested with powers of the Governor-in-Council to remit taxes under the Financial Administration Act, is meaningful. The paginal proximity of the TFSA Waiver to the TFSA Charge is uncommon and presents the TFSA Waiver as a companion provision to the TFSA Charge. [108]
+Observations and analysis
+[92] The distinction between the Minister’s authority to waive or cancel the TFSA Charge with the Governor in Council’s authority to remit taxes is a false distinction. [109] It is difficult to adopt the absurdity argument connecting the quantum of the TFSA Charge to the absence of refund mechanisms. The sections are proximate to each other in Part XI.01. The proximity justification is driven by practicality rather than some necessity to locate related clauses cheek by jowl.
+[93] Any such arguments are not germane to whether the TFSA Waiver is actually a waiver or the disguised Minister’s “deep seated” rate-setting authority. No case law suggests Courts interpret a unique provision differently from any other simply because of its “uniqueness”.
+[94] In summary, Parliament has the power to impose a 100% tax, [110] its rarity or impact does not create per se literal or connotative ambiguity.
+(c) Purpose
+The Appellant’s argument
+[95] The Appellant asserts Parliament does not identify a precise purpose underlying the TFSA Charge or TFSA Advantage rules; this lack of clear purpose results in the Minister having a broad discretion in the exemption-making powers because it allows her “total freedom to set the tax rate acting on her own accord.” [111] The circumstances for relief in the TFSA Waiver define and do not materially limit the scope of the Minister’s discretion. [112] The statutory definition of “TFSA Advantage” is too broad to support an anti-avoidance purpose [113] and, in combination, the severity of the TFSA with the TFSA Waiver reflect a Ministerial rate-setting power. [114]
+Observations and analysis
+[96] The Court notes Parliament’s purposes in enacting the TFSA Advantage in order to address taxpayer abuse of the TFSA regime and impose the 100% TFSA Charge where a TFSA Advantage occurs. [115] It really is that simple. It is borne out by:
+(i) The 2008 Budget Plan, [116] and various amendments in 2011, 2013 and 2017, [117] which expanded the application of advantage rules to other registered plans including waiver conditions;
+(ii) The fact that Parliament passed advantage rules which target transactions Parliament sought to capture; and,
+(iii) The consistent intention of Parliament to address concerns regarding the use of TFSAs (and later other registered plans) in tax-planning schemes. Conclusively, and by echo of Justice Pizzitelli, the purpose of the provision is clear and this reinforces and iteratively informs the plain meaning of the provisions. [118]
+[97] Similarly, the purpose of the TFSA Waiver reduces or relieves the TFSA Charge where circumstances illustrate consequential results were not TFSA Advantages targeted by the anti-abuse rules. Like all anti-avoidance rules, perfection is unattainable. Some transactions captured are not aggressive tax planning or undesirable behaviour and do not assault the TFSA regime. As an alternative to drafting increasingly complex and unwieldy rules and exceptions, Parliament granted the Minister discretion to provide relief on a case-by-case basis, taking into account the specific circumstances of the individual and the transactions. This purpose and the anti-abuse purpose of the TFSA Charge reside fully and peaceably within the text of the provisions and do not create ambiguity.
+[98] Just like the anti-avoidance provisions, the Minister’s agents are not perfect. [119] In the TFSA Charge Waiver Offer the CRA agent said: “We imposed a tax at the taxpayer’s top marginal rate.” [120] Does this statement mean the CRA was administering the TFSA Charge and TFSA Waiver qua taxing body? [121]
+[99] If the CRA agent believed he or she determines the rate of tax, that belief was an error. The rate of tax is already prescribed by the Act and the taxpayer’s income bracket. Also, the relief consideration must be reasonably exercized. Judicial review applies. It would not abide a situation described by the Appellant of Ministerial authority to waive or not waive the tax which is divorced of the waiver circumstances. There is no unfettered discretion vested in the Minister’s agents to relieve from tax or refuse to relieve from tax under the TFSA Waiver in the absence of comprehensible reason. The express words of the CRA agent are inconsequential to Parliament’s intent as determined from the words of the text, read in light of the context and purpose. While incorrect, even the words of the CRA agent indicate that in response to an applicable TFSA Charge, reasonable consideration of the TFSA Waiver is necessary. This is as it should be.
+iii) Conclusion concerning the Second Question: Constitutional tax or not?
+[100] The text of sections 207.05 and 207.06 is clear and unambiguous. Section 207.05, the TFSA Charge, sets a 100% tax on any TFSA Advantage created in a TFSA. Section 207.06 (the TFSA Waiver) grants the Minister discretionary decision making power to relieve the TFSA Charge to the extent where it is just and equitable. To the extent of latent ambiguity, a contextual and purposive analysis supports the plain meaning of the words. Other principles of statutory interpretation also support the textual interpretation. First, the presumption of consistent expression and similar language between the TFSA Charge and TFSA Waiver, when viewed with other unchallenged charging and relieving provisions in Part XI.01 of the Act, support the conclusion that the provisions, inter se, are distinct tax and relief provisions. Second, the presumption against absurdity militates against an interpretation that renders the TFSA Advantage rules futile. [122] Third, Ministerial discretion in applying the TFSA Waiver must avoid the guard rails of violating natural justice and need otherwise follow the route of the specific criteria set out in paragraphs (a) to (c) of the TFSA Waiver circumstances.
+[101] There has been no delegation of rate-setting authority to the Minister and there is no need to look at whether it is limited to the “details and mechanisms” of the tax.
+C. Remedy for breach of section 53 of the Constitution Act
+[102] A final question raised within the Rule 58 motion concerns the appropriate remedy where a breach of section 53 of the Constitution Act has occurred through sections 207.05 and 207.06. It is an interesting question, and it is also moot because there is no finding that section 53 is breached. As such, the Court will not consider the issue.
+VIII. SUMMARY AND COSTS
+A. Summary answers to the two questions:
+[103] In summary, the answers to the two questions in the Rule 58 motion are:
+(i) Is the charge imposed by either or both of sections 207.05 and 207.06 of the Act in law a penalty or a tax?
+The charge imposed by either or both sections is a tax.
+(ii) Are sections 207.05 and 207.06 of the Act, separately or in combined effect, unconstitutional as a consequence of Parliament having improperly delegated the rate-setting element of that tax to the Minister of National Revenue in contravention of section 53?
+Neither section 207.05 nor 207.06, separately or in combined effect, are unconstitutional because no improper delegation occurred.
+B. Costs
+[104] Costs are provisionally awarded to the Respondent under the applicable Tariff. If they wish to do so, the parties may provide written submissions on costs not to exceed 20 pages within 30 days of the publication of this Order, failing which the Court directs that its provisional cost order shall become final.
+Signed at Toronto, Ontario, this 23rd day of June, 2022.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2022TCC67
+COURT FILE NO.:
+2016-1689(IT)G
+STYLE OF CAUSE:
+THOMAS HUNT AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+January 25th and 26th, 2022
+REASONS FOR ORDER BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF ORDER:
+June 23, 2022
+APPEARANCES:
+Counsel for the Appellant:
+David R. Davies Alexander Demner
+Counsel for the Respondent:
+David Everett Lisa Macdonell
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blank
+Firm:
+Blank
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Hunt v The Queen, 2018 TCC 193 [TCC Reasons Hunt #1].
+[2] Hunt v The Queen, 2020 FCA 118 [FCA Reasons Hunt #1].
+[3] Appellant’s Submissions at paragraphs 16-17.
+[4] Appellant’s Submissions at paragraph 18.
+[5] Stubart Investments Ltd v The Queen, [1984] 10 DLR (4th) 1, 53 NR 241 at paragraph 578 [Stubart Investments].
+[6] Canada Trustco Mortgage Co v R, 2005 SCC 54, [2005] 2 SCR 601 at paragraph 40 [Canada Trustco].
+[7] Ibid at paragraph 10.
+[8] Ibid.
+[9] Ibid.
+[10] ATCO Gas & Pipelines Ltd v Alberta (Energy & Utilities Board), 2006 SCC 4, [2006] 1 SCR 140 at paragraph 48.
+[11] Canada Trustco, supra note 6 at paragraph 47.
+[12] R v Rafilovich, 2019 SCC 51, 442 DLR (4th) 539 at paragraph 20.
+[13] Ibid at paragraph 30.
+[14] Ibid.
+[15] Placer Dome Canada Ltd v Ontario (Minister of Finance), 2006 SCC 20, [2006] 1 SCR 715 at paragraph 23 [Placer Dome].
+[16] TELUS Communications Inc. v Wellman, 2019 SCC 19, [2019] 2 SCR 144 at paragraph 79 [TELUS Communications].
+[17] R v Jarvis, 2002 SCC 73, [2002] 3 SCR 75 at paragraph 77, in a sense merging reasons from Stubart Investments, Canada Trustco Mortgage and TELUS Communications.
+[18] TELUS Communications, supra note 16 at paragraph 79.
+[19] Eurig Estate (Re), [1998] 2 SCR 565, [1998] SCJ No 72 [Eurig Estate].
+[20] Confédération des syndicats nationaux v Canada (Attorney General), 2008 SCC 68, [2008] 3 SCR 511 [Syndicats].
+[21] Appellant’s Submissions at paragraph 19.
+[22] Eurig Estate, supra note 19 at paragraph 36.
+[23] Syndicats, supra note 20 at paragraph 75.
+[24] Weber v Ontario Hydro, [1995] 2 SCR 929, 183 NR 241.
+[25] Tokio Marine & Nichido Insurance Company v Security National Insurance Company, 2020 ABCA 402.
+[26] Appellant’s Submissions at paragraph 19.
+[27] Respondent’s Submissions at paragraph 45.
+[28] Ibid.
+[29] See Placer Dome, supra note 15 at paragraph 23; Shell Canada Ltd v Canada, [1999] 3 SCR 622 at paragraph 43; Canada v Antosko, [1994] 2 CTC 25, 80 FTR 320 at page 330.
+[30] Canada Trustco, supra note 6 at paragraph 10.
+[31] Placer Dome, supra note 15 at paragraph 21.
+[32] Appellant’s Reply at paragraph 4.
+[33] Canada Trustco, supra note 6 at paragraph 10.
+[34] Ibid at paragraph 47.
+[35] 65302 British Columbia Ltd v Canada, [1999] 3 SCR 804, 248 NR 216 at paragraph 50 [65302 BC].
+[36] Appellant’s Submissions at paragraphs 25-26.
+[37] Respondent’s Submissions at paragraph 58.
+[38] Respondent’s Submissions at paragraph 56.
+[39] Respondent’s Submissions at paragraph 57.
+[40] Appellant’s Reply at paragraphs 13-14.
+[41] Canada Trustco, supra note 6 at paragraph 47.
+[42] Appellant’s Reply at paragraph 14.
+[43] 65302 BC, supra note 36 at paragraph 51.
+[44] Appellant’s Reply at paragraph 20.
+[45] Respondent’s Submissions at paragraph 63.
+[46] Respondent’s Submissions at paragraph 64.
+[47] Statement of Agreed Facts at paragraph 12.
+[48] Appellant’s Reply at paragraph 21.
+[49] Pfizer v. Canada (Revenue and Customs) [1977] 1 SCR 456 at page 465.
+[50] Appellant’s Reply at paragraph 30.
+[51] Appellant’s Reply at paragraph 32.
+[52] Criteria set out in Appellant’s Submissions at paragraph 60.
+[53] Appellant’s Submissions at paragraphs 61-64.
+[54] Lawson v Interior Tree Fruit and Vegetable Committee of Direction, [1931] SCR 357, [1931] 2 DLR 193.
+[55] Appellant’s Submissions at paragraphs 62, 68; Appellant’s Reply at paragraph 13.
+[56] TCC Reasons Hunt #1, supra note 1.
+[57] The appeal heard at the FCA concerned Question 2 of the current matter.
+[58] Stubart Investments, supra note 5 at pages 573-575.
+[59] St Arnaud v Canada, 2013 FCA 88, 444 NR 176.
+[60] Ibid at paragraph 6.
+[61] Ibid at paragraph 8.
+[62] Respondent’s Submissions at paragraph 65, referencing Statement of Agreed Facts at Tab 1.
+[63] Respondent’s Submissions at paragraph 66, referencing Statement of Agreed Facts at Tab 11.
+[64] Appellant’s Submissions at paragraph 62, referencing Statement of Agreed Facts, Schedule “A” at pages 123-124.
+[65] Medland v Canada, [1999] 4 CTC 293, 52 DTC 6358 at paragraph 14; Algoa Trust v Canada, [1993] 1 CTC 2294, 93 DTC 405 at paragraph 41.
+[66] Income Tax Folios S3-F10-C3 – Advantages --- RRSPs, RESPs, RRIFs, RDSPs, and TFSAs. The advantage rules originally applied only to TFSAs but were extended to apply to other registered plans after a series of amendments in 2011 and 2017.
+[67] Canada (Information Commissioner) v Canada (Minister of National Defense), 2011 SCC 25, [2011] 2 SCR 306 at paragraph 40.
+[68] FCA Reasons Hunt #1, supra note 2 at paragraph 10.
+[69] Eurig Estate, supra note 19 at paragraphs 30-32.
+[70] Appellant’s Reply at paragraph 38.
+[71] Syndicats, supra note 20 at paragraph 92.
+[72] Appellant’s Submissions at paragraphs 108-109.
+[73] Ontario English Catholic Teachers’ Assn v Ontario (Attorney General), 2001 SCC 15, [2001] 1 SCR 470 at paragraph 73.
+[74] Appellant’s Submissions at paragraphs 80-82.
+[75] Appellant’s Submissions at paragraphs 86-89.
+[76] Respondent’s Submissions at paragraphs 91-92.
+[77] Respondent’s Submissions at paragraph 92, referencing TCC Reasons Hunt #1 at paragraph 30.
+[78] Respondent’s Submissions at paragraph 127.
+[79] Appellant’s Submissions at paragraph 108.
+[80] Appellant’s Submissions at paragraph 109.
+[81] Appellant’s Submissions at paragraphs 110-112.
+[82] Respondent’s Submissions at paragraph 148.
+[83] TCC Reasons Hunt #1, supra note 1 at paragraph 30, and FCA Reasons Hunt #1, supra note 2 at paragraph 8.
+[84] TCC Reasons Hunt #1, supra note 1 at paragraph 35.
+[85] Appellant’s Submissions at paragraph 135.
+[86] Appellant’s Submissions at paragraphs 96-97.
+[87] FCA Reasons Hunt #1, supra note 2 at paragraph 10.
+[88] Ibid.
+[89] Ibid at paragraph 15.
+[90] Placer Dome, supra note 15 at paragraph 23.
+[91] McNally v Minister of National Revenue, 2015 FC 767, 483 FTR 113.
+[92] Ibid at paragraph 42, referencing Roncarelli v Duplessis, [1959] SCR 121, 16 DLR (2d) 689 at paragraph 140.
+[93] Appellant’s Submissions at paragraph 98.
+[94] Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817, 174 DLR (4th) 193 at paragraph 20, referencing Cardinal v Director of Kent Institution, [1985] 2 SCR 643, 24 DLR (4th) 44 at page 648.
+[95] Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65, 441 DLR (4th) 1.
+[96] Appellant’s Reply at paragraph 42.
+[97] Gekas v Canada (Attorney General), 2019 FC 1031, 2019 DTC 5102.
+[98] Ibid at paragraphs 31, 33.
+[99] Sangha v Canada (Attorney General), 2020 FC 712, [2021] 2 CTC 124 at paragraphs 32-33.
+[100] Respondent’s Submissions at paragraphs 121-126.
+[101] Florence v Canada (Air Transport Committee), [1988] FCJ No 1076, 24 FTR 224.
+[102] Clark v Canada (Attorney General), 17 OR (2d) 593, 81 DLR (3d) 33.
+[103] R v Webster, [1888] OJ No 113, 16 OR 187.
+[104] Nash v McCracken (Re), [1873] OJ No 32, 33 UCR 181.
+[105] Re: New Westminster “Nuisance Prohibition By-Law, 1962”, [1963] BCJ No 140, 39 DLR (2d) 676.
+[106] Appellant’s Submissions at paragraphs 88-93.
+[107] Appellant’s Submissions at paragraphs 117-118, 129-130.
+[108] Appellant’s Submissions at paragraph 126.
+[109] Respondent’s Submissions at paragraph 134.
+[110] Appellant’s Submissions at paragraph 129.
+[111] Appellant’s Submissions at paragraphs 133-134.
+[112] Appellant’s Submissions at paragraph 136.
+[113] Appellant’s Submissions at paragraphs 137-138.
+[114] Appellant’s Submissions at paragraphs 141-142.
+[115] Respondent’s Submissions at paragraph 163.
+[116] Statement of Agreed Facts, Schedule “A” at pages 1-2.
+[117] Statement of Agreed Facts, Schedule “A” at pages 122-123, 128-129.
+[118] TCC Reasons Hunt #1, supra note 1 at paragraph 70.
+[119] Appellant’s Submissions at paragraph 148.
+[120] Appellant’s Submissions at paragraph 152.
+[121] Appellant’s Submissions at paragraph 151.
+[122] Rizzo v Rizzo Shoes Ltd (Re), [1998] 1 SCR 27, 36 OR (3d) 418 at paragraph 27.

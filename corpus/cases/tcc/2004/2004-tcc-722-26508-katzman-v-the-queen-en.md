@@ -1,0 +1,203 @@
+---
+title: "Katzman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26508/index.do"
+last_modified: "2004-10-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 722"
+citation2: ""
+neutral_citation: "2004 TCC 722"
+decision_date: "2004-10-29"
+language: "en"
+item_id: "26508"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3256
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:52:55.308000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2ed10d046e11e31c1f4a79ecb2c9e130db64d73a8164f3460af09ad0544d4979"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Katzman v. The Queen
+
+- Citation: 2004 TCC 722
+- Decision date: 2004-10-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3256, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Katzman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-29
+Neutral citation
+2004 TCC 722
+File numbers
+2000-3470(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-3470(IT)G
+BETWEEN:
+BARRY KATZMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeal of Barry Katzman (2001-2873(GST)I) on October 18 and 19, 2004 at Hamilton, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Glen W. McCann
+Counsel for the Respondent:
+Suzanne M. Bruce
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the IncomeTax Act with respect to the 1995 and 1996 taxation years are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+There is no order as to costs.
+Signed at Ottawa, Canada, this 29th day of October 2004.
+"Diane Campbell"
+Campbell J.
+Docket: 2001-2873(GST)I
+BETWEEN:
+BARRY KATZMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Barry Katzman (2000-3470(IT)I) on October 18 and 19, 2004 at Hamilton, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Glen W. McCann
+Counsel for the Respondent:
+Suzanne M. Bruce
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act with respect to the period between September 15, 1995 and December 31, 1996 is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the terms of the attached Reasons for Judgment.
+There is no order as to costs.
+Signed at Ottawa, Canada, this 29th day of October 2004.
+"Diane Campbell"
+Campbell J.
+Citation: 2004TCC722
+Date: 20041029
+Dockets: 2000-3470(IT)G
+2001-2873(GST)I
+BETWEEN:
+BARRY KATZMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+Introduction:
+[1] These appeals, under the Excise Tax Act and the Income Tax Act, were heard together on common evidence. In reassessing the Appellant for the 1995 and 1996 taxation years, the Minister of National Revenue (the "Minister") determined that the Appellant understated his income and consequently the Minister included business income earned by the Appellant in those years. By Notice of Assessment for the period September 15, 1995 to December 31, 1996 the Appellant was also assessed net tax plus penalty and interest under the Excise Tax Act for a failure to collect and remit Goods and Services Tax ("GST") during this period.
+[2] The Appellant was initially assessed in respect to activities involving a particular event held during and in conjunction with the annual Niagara Grape and Wine Festival ("the Festival") called "Event in the Tent" ("the Event"). This Event was held inside a large tent and involved entertainment including live concerts and shows. The Event was licensed to sell beer and wine and eventually food. An audit of the Event was conducted in 1998.
+The Appellant's Position:
+[3] The Appellant alleges that the Event operated as an unincorporated "not-for-profit" arrangement or association, run by a committee of volunteers, like himself, "whose interests were limited to the success of the Festival itself". The Appellant also argues that in those years when the Event generated profit, the profit was distributed to the Festival or to local charitable organizations in accordance with the committee's mandate and that none of the volunteer committee members, including the Appellant, personally profited from the Event.
+The Respondent's Position:
+[4] The Appellant operated the Event as a sole proprietorship and personal business, such that income from the Event was income of the Appellant. The Minister contends that the Appellant sold tickets to the Event, sold beer and wine inside the tent, that these sales were paid for in cash, that the Appellant used a bank account in his name, personally obtained a loan in respect to this Event, that he was responsible for payment of expenses and that he received the funds from the Event transactions. In addition the Minister alleges that the Appellant was required to be registered pursuant to the Excise Tax Act and was liable to collect and remit GST during these years.
+Issues:
+(1) Whether the Event was an activity of a not-for-profit association, as contended by the Appellant, or a for-profit proprietorship operated by the Appellant as his business, as contended by the Respondent.
+(2) Whether the expenses associated with insurance, security, entertainment and the erection and dismantling of the tent were actually incurred and therefore properly deductible expenses.
+(3) Whether the Appellant is liable to collect and remit GST and whether the Appellant is entitled to claim Input Tax Credits ("ITCs") beyond those allowed.
+Neither counsel specifically addressed this last issue except to contend it would be resolved and flow from a decision in the first two issues.
+The Evidence:
+[5] The Appellant called three witnesses: Raymond Howe, who arranged the assembly and dismantling of the tent; Allan Dupuis, one of the Event volunteers; and the Appellant. The Respondent called the investigating officer, Heike Laumann, Canada Revenue Agency ("CRA").
+The Evidence of Raymond Howe:
+[6] Mr. Howe was a member of the committee that operated the Event from the early 1990's to 1996. During these years, the Event was held at the premises of the Parkway Hotel in St. Catharines. He described the Event as an entertainment venue to raise money for local charities. He stated that he received no money as a result of being a committee member, and that he would have had no interest in committing himself to volunteer for the Event if it was a business operated personally by the Appellant. He recalled there were 12 to 15 committee members but hundreds of volunteers were actually required to put the Event together. The tent that housed the Event was a portable structure and between 25,000 and 35,000 square feet in size.
+[7] Mr. Howe owned Regal Productions, a company which was in the business of renting tents of this size to major events. Mr. Howe stated that he agreed to donate the tent for this Event provided the Event paid the expenses incurred in assembly and dismantling of the tent. He stated he would not have donated the tent under this arrangement if the Event had not been operated for charitable purposes. The expenses to erect the tent included equipment such as a crane to lift tent parts into place, buckets to lift labourers into the air to work on the tent and move around the structure, jackhammers, generators, rental of flat bed trucks to haul materials to the site, and the individuals necessary to put the tent together at the outset of the Event and dismantle it at the end. He sold Regal Productions in 1995 but continued to donate the tent because one of the conditions of this sale was that the tent would be available to him for this purpose for approximately three years after the sale.
+[8] He identified correspondence he authored, at Tab 16 of Exhibit A-1, which he wrote in respect to an inquiry from the Appellant's accountant. In this correspondence he stated that the average expenses for erecting and dismantling the tent would be $36,550.00. Although the labour costs referenced in this correspondence appeared high, Mr. Howe testified that the costs could even be higher, as approximately 15 men were required to install arches which, he explained, are lifted one at a time to help create this structure, to unload the trucks, sort material, and assemble the frame or base plates on the ground to which each leg of the arch connected. Due to the weight of the materials approximately 15 men were required to lift materials. Jackhammers were required to drive the stakes into the concrete while generators were required for the operation of small hand tools. Miscellaneous expense items referred to in his correspondence included ladders, extension cords and replacement for broken drill bits.
+[9] As a committee member, his responsibility was to ensure the tent was erected and eventually dismantled and that the expenses for its use were paid. The procedure was for invoices for these expenses to come to his attention, that he provided these to the Appellant who in most cases gave cash to Mr. Howe so he could pay the expense invoices. He stated he was generally paid in cash because there was usually a great deal of cash on hand from ticket sales.
+[10] On cross-examination he stated that no one received remuneration for sitting as a member of the committee that organized the Event. He stated that although he and the Appellant had signing authority for cheques, his involvement was confined to the establishment of the tent and that he was not directly involved in the finances for the Event.
+[11] On re-direct, Mr. Howe confirmed that the cost to rent this tent, including expenses, would generally be $70,000.00 to $85,000.00.
+The Evidence of Allan Dupuis:
+[12] Mr. Dupuis has been involved as a volunteer with the Event for a number of years. He stated he was not a permanent member of the committee for the Event but that he went to committee meetings in his capacity as a regular volunteer. He received no reimbursement for his activities and the only incentive for his involvement was that this Event assisted local charities. His perception of the Event was that it had always existed to raise money for various charitable organizations in the community and that it was not a business belonging to the Appellant. He stated that he would not have volunteered over the years if the Appellant was operating the Event as his own business. On cross-examination he stated that erection of the tent was not something volunteers could complete because of the size of the structure.
+The Evidence of the Appellant:
+[13] Mr. Katzman outlined how the Festival lost one of its three sponsors in the 1980s and eventually became a money-losing venture. For years Mr. Katzman's family operated a business encompassing bowling allies, restaurant and hotel in St. Catharines. When the Appellant was appointed to the Board of Directors of the Festival, he felt that his family's hospitality business could assist in re-establishing the Festival as a successful activity. The family business and in particular the Parkway Hotel premises became very involved in promoting the Festival. The Hotel hosted the Royal Ball and provided accommodation for individuals attending the Festival.
+[14] The Appellant was one of the founding members of an entertainment event held in conjunction with the Festival called "Event in the Tent". It began as a small event held on the Parkway Hotel premises and grew in popularity each year with the support of the Festival. The Appellant testified that the Event had no particular strategy for growth but it was simply driven by the people and volunteers in the community. The Appellant described the organizers of this Event as a group of people who met informally sometimes over lunch. As the Event grew so did its reliance on volunteers. He stated that if there was residual profit, the Event donated it to the Festival or to charitable organizations.
+[15] In 1994 the Parkway Hotel went into Receivership and for the next three years, the future of the Event was uncertain. Until 1994, Parkway Hotel had assumed responsibility for some of the Event expenses such as adding a rider to its own policy to provide insurance coverage for the Event, providing hotel accommodation for Event entertainers and providing electrical installation. In 1995 the Event was held on the Parkway premises, but the Appellant testified that the Receivers had little interest in the success of the Event and did not assist as the Parkway owners had previously done. In 1996, the Event was moved to the parking lot adjacent to the hotel. The Appellant stated that because of security issues and a smaller space for the venue, the Event incurred additional expenses.
+[16] The Appellant explained that because the Event operated with the sanction of the Festival, the Event paid fees including advertising fees to the Festival. Generally the Festival retained these fees from ticket sales at its ticket outlet.
+[17] In 1997 the Receiver sold the Parkway Hotel to a local Niagara based family who approached the Appellant to bring the Event back to the Parkway Hotel premises under the direction of the Appellant. After 1997 the future of the Event was again in jeopardy as the new owners of the Parkway did not want to continue to host the Event on its premises.
+[18] The St. Catharines Downtown Business Association decided to get involved and expand this Event and hold it in the downtown core. The intention was to operate the Event with a larger budget, for 10 days instead of three and with promoters hired to entice bigger name bands. The Downtown Association approached the Appellant to stage this Event. The Appellant testified that the nature of the Event had expanded so much in respect to budget and promotion, that he was reluctant to volunteer his time but was persuaded to enter into a consulting contract for $15,000.00 in exchange for his services in overseeing the Event. By the year 2000 the Downtown Association asked the Appellant to become more involved in the Event. The City was no longer interested in hosting the Event but wanted its continuity ensured. It was at this point that the Appellant, with the consent of the City, assumed the operation of this Event and ran it as a business.
+[19] The Appellant testified that CRA had permitted some of the disputed expenses. Of those items now in dispute is the major expense related to the erection of the tent in each year. The Appellant stated that the everyday volunteers could not supervise the cranes, jackhammers and other equipment essential to erect and dismantle a tent of this size. Individuals had to be paid. The Appellant confirmed Howe's evidence that the Event paid for only the costs of erecting this tent and that Regal Productions did not charge the Event a rental fee.
+[20] The Appellant confirmed that Howe oversaw the erection of the tent and the payment of the associated expenses. He stated that Howe would show him the invoices for tent expenses that had to be paid from time to time. Generally he gave Howe cash to pay the invoices even though some of the totals were for very large amounts. Occasionally he paid Howe by cheque. Howe would then pay the various invoices.
+[21] The Appellant stated that the Event maintained insurance each year but that in the beginning Parkway Hotel simply added a rider to its already existing policy and the Event reimbursed the Hotel. After the 1994 Receivership, the Event had to obtain stand-alone insurance, which was more difficult to obtain. He stated the Receivership firm no longer existed and no supporting documents for this expense can be found.
+[22] In respect to the security expense, the Appellant stated that the Event volunteers did some work here such as watching the fire exits and checking identification. The Event also paid off-duty police officers on an hourly rate by cheque and these expenses were allowed. He also had a Mr. Jake Turner recruit various club bouncers to work the Event. The Appellant stated he was unable to locate Mr. Turner or any of these individuals and that he had no records as they were paid in cash.
+[23] The entertainment expense related to payment of local entertainers and performers at the Event. The Appellant stated that the general practice was to pay the band in cash at the end of the night. He had no records and could not locate these performers due to the transient nature of that business.
+[24] The Appellant disagreed with the methodology employed by the investigating officer in calculating ticket sale revenue to arrive at the expenses for the "Children's Night in the Tent" event. He stated that approximately 800 tickets were complimentary to family members and social workers. He testified that he did not agree that ticket sales at the Festival ticket outlet alone would necessarily be indicative of sales at other outlets.
+[25] The Appellant testified that the committee members did not place much emphasis on proper record keeping. He admitted that it was much easier when Parkway Hotel assisted with the Event.
+[26] On cross-examination he testified that he oversaw the finances respecting the Event but that he received no income or other remuneration from the Event.
+[27] A credit loan application for the Event (Exhibit R-2) dated July 31, 1997 was signed and submitted by the Appellant. He also agreed to guarantee the loan.
+[28] Respondent counsel also questioned the Appellant with respect to the contents of various banking documents (Tab 24 of Exhibit R-1). He stated that withdrawals were made to pay expenses but he was unable to link the withdrawal to a particular expense. He also testified that he generally paid Howe by cash in respect to the tent expenses, which comprised the major component of all expenses claimed. The cash would be available while the Event was ongoing through ticket sales revenue plus float money. The Appellant was also referred to Tabs 25 through 63 of Exhibit R-1, which were comprised of documents evidencing the various expenses paid by the Event. None of these related to the erection of the tent although Howe testified there were invoices for these expenses. The Appellant stated that he trusted Howe completely with the tent expenses and did not believe that supporting documentation was required because of the nature of the Event and the manner in which it operated.
+The Evidence of Heike Laumann:
+[29] Ms. Laumann, a CRA investigator, was referred on direct examination to attachments to her correspondence to the Appellant dated May 28, 1999, which included a summary of expenses for the Event, a net income projection and an income projection for the 1995 and 1996 taxation years. She explained the method she utilized in calculating ticket sales for each night of the Event and in particular the Children's Night in the Tent. She confirmed through the printing company that 3,000 tickets were printed for the children's night. She then deducted 860 tickets which were complimentary and multiplied the resulting figure by the price of each ticket. For the other nights of the Event she took the total number of tickets printed, reviewed the Festival ticket outlet and determined the percentage of ticket sales at that outlet in relation to total tickets printed, then rounded off the percentage to be multiplied by the price per ticket and in rounding off the percentage she always chose a lower percentage. On Saturday night, when the evidence suggested that all tickets printed were sold, she applied a 75% figure and not 100% in determining the total ticket sales for that night in each of 1995 and 1996.
+[30] She also reviewed her method for determining and allowing security expenses, entertainment, insurance and the tent costs. Those security expenses that she allowed were supported by cancelled cheques, invoices or in one instance a letter supporting the expenses. All others were denied. Some entertainment expenses relating to media advertising and the costs of one band were permitted as she was able to connect them via invoices, cheque stubs, contracts, statements and quotes. All others were denied if they could not be supported by documentary evidence. She allowed approximately $1,900.00 respecting insurance premiums in 1996. No amount was permitted in 1995 as she found no documentation to support the payment of insurance premiums. She stated it might have been paid by Parkway Hotel and not the Event.
+[31] Some of the tent expenses in 1995 and 1996 were allowed based on cancelled cheques to Ray Howe. She stated there was no evidence of expenses relating to cranes, generators and other equipment. She rejected the contents of Howe's letter dated October 16, 1998 (Tab 33 of Exhibit R-1) because she felt, as stated in the correspondence, that the figures were estimates. Howe provided her with the names of the companies he employed to get the tent erected but there were no invoices, contrary to his testimony that he had invoices and showed them to or provided them to the Appellant to get the money to pay them. At the end of the day, Ms. Laumann concluded that the Appellant was the owner of the Event and operated it as his business. She talked to Festival people, firemen, City Hall people and other individuals involved with the Event and based on this information together with the loan document where the Appellant applied for a loan for the Event and guaranteed it, Ms. Laumann formulated her conclusions that the Event was the business of the Appellant.
+Analysis:
+[32] The determination of whether this Event was the Appellant's business or a not-for-profit association is a question of fact. The primary focus in dealing with this issue is whether the Event was organized and operated for a purpose other than profit.
+[33] The Appellant was credible and straightforward in giving his testimony. He characterized the Event as a group of volunteers who organized and staged the Event for a number of years for the benefit of the community. He described himself as the "face" of the Event although it was supported by many volunteers. He was one of the founding members to spearhead the Event. It is not surprising that when Heike Laumann, the investigating officer, talked to various individuals involved with this Event, including Festival organizers and city officials, they identified the Appellant as the contact person for the Event and the person in charge of the Event finances. The facts here support my finding that the Event was a loose association of which the Appellant was a member and sometime Chairman. In L.I.U.N.A. Local 527 Members' Training Trust Fund v. The Queen, 92 DTC 2365, Justice Bowman, now Associate Chief Justice, stated that the term "association" is an elastic term implying a relationship between two or more persons for a common purpose, and he referred to the Oxford English Dictionary, 2nd Edition, which defines the term as follows:
+A body of persons who have combined to execute a common purpose or advance a common cause; the whole organization which they form to effect their purpose ...
+[34] The Appellant's evidence that a body of persons existed which organized and operated this Event is also supported by the evidence of Raymond Howe and Allan Dupuis. All three witnesses gave unchallenged evidence that the Event was not the Appellant's business. There was no independent evidence that the Appellant profited in any way from this Event. The Respondent recognized that money was paid to charitable organizations. There is no evidence to suggest that all of the profit did not find its way to charities. The goal of the Event was not to make a profit in and of itself but simply to make a profit to assist the Festival and community charities. There was an account opened in the Appellant's name which he stated was used for the Event. He also obtained a loan for the Event and provided his own guarantee. Although this could be characterized as the exception to the norm, I believe these actions simply flowed in the natural course of events because of the manner in which the Event evolved and operated. There was no particular strategy for growth. It was a community driven Event organized and operated by a group of people who got together informally over coffee or lunch. The Appellant, as one of the founders, who was the member in charge of finances, was the most logical individual in these circumstances to step forward and assume responsibility for negotiating with the Bank. It was so loosely organized that there appeared from the facts to be no other method of obtaining operating funds. The Appellant and his family have a long history of community involvement and it does not appear in these facts to be unusual for the Appellant to assist in this manner.
+[35] The second issue concerns the calculation of expenses. The largest expense was in respect to the tent assembly. I conclude that the Appellant has met the onus, which is upon him, of providing sufficient evidence to support that the tent expenses were in fact incurred as part of the Event.
+[36] To deny this expense as a legitimate Event expense I would have to reject both the Appellant's evidence together with the corroborating testimony of Raymond Howe. Mr. Howe dealt at arm's length with the Appellant. The Event relied on him to supply the tent, obtain qualified people to erect and dismantle a tent of this size and oversee the entire operation. He owned the company that rented these tents to major events, generally at a cost of $70,000.00 to $85,000.00. As one of the Event volunteers, he donated the tent provided the Event paid the associated expenses. When he sold his company, he ensured the tent would be available to the Event in the same manner for a period of three years after the sale. The average or medium expense, provided in correspondence at Tab 16 of Exhibit A-1, was in line with the tent expenses incurred by the Event. He stated there were invoices which were provided to Mr. Howe personally. These were then shown to the Appellant who provided Mr. Howe with cash to pay these expense invoices. Mr. Howe confirmed that he then paid these expenses. I would have no reason to reject Mr. Howe's evidence even if it was not supported by that of the Appellant. The expenses were denied because they were a portion of the expenses that could not be supported by invoices or other documentary evidence. Although it is preferable such expenses have supporting documentation there may be those exceptional cases where other evidence may suffice. I have the independent credible testimony of Mr. Howe who confirmed that these expenses were incurred, were reasonable, that there were invoices and that he personally paid these invoices. He also confirmed the Appellant's evidence that the Event was by its nature a cash driven activity and that he generally received cash from the Appellant to pay these invoices. I am therefore prepared to allow the expenses associated with the tent.
+[37] With respect to the balance of the expenses, I accept that the method, employed by Ms. Laumann to calculate the revenue and expenses incurred for the Children's Night in the Tent, was both reasonable and reliable in the absence of documentary evidence to the contrary. Ms. Laumann allowed those security expenses that could be supported by documentary evidence. The balance of security expenses was denied because of lack of documents. There was no independent evidence to support the Appellant's claim that bouncers were employed and paid cash. This was also true for the remaining expenses, including insurance and entertainment. Except for the tent expenses, I agree with the Minister's denial of these expenses. In so finding I impute no wrongdoing in respect to the Appellant. But the onus is on the taxpayer in a self-assessing system to keep accurate books and records. Even though this was a loose association of volunteers, the same standard applies. In his direct examination, the Appellant did agree that he did not keep supporting documentation because he did not think he needed to. However if the organizers of such an Event expect to deduct expenses, it is a prerequisite that they keep and maintain accurate records.
+[38] In light of my finding pursuant to the Income Tax Act, that the Event was operated as a not-for-profit association with any profit channelled to charitable organizations, the appeal under the Excise Tax Act is allowed and referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is not the proper person to be assessed with respect to the tent expense and that the expenses associated with the assembly and disassembly of the tent be permitted with credit for the appropriate Input Tax Credits.
+[39] As success is divided, I make no order as to costs.
+Signed at Ottawa, Canada this 29th day of October 2004.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2004TCC722
+COURT FILE NO.:
+2000-3470(IT)I
+2001-2873(GST)I
+STYLE OF CAUSE:
+Barry Katzman and
+Her Majesty the Queen
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+October 18 and 19, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+October 29, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Glen W. McCann
+Counsel for the Respondent:
+Suzanne M. Bruce
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

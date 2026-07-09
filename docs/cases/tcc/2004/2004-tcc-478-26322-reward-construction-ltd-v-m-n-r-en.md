@@ -1,0 +1,255 @@
+---
+title: "Reward Construction Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26322/index.do"
+last_modified: "2004-06-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 478"
+citation2: ""
+neutral_citation: "2004 TCC 478"
+decision_date: "2004-06-29"
+language: "en"
+item_id: "26322"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3269
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:17:05.902000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3b9afdbde6fc7f6160a37437001d2ddf4f4fd91f978552b4c8735fafe2ea62a0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Reward Construction Ltd. v. M.N.R.
+
+- Citation: 2004 TCC 478
+- Decision date: 2004-06-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3269, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Reward Construction Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-29
+Neutral citation
+2004 TCC 478
+File numbers
+2002-4277(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2002-4277(EI)
+BETWEEN:
+REWARD CONSTRUCTION LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Simon Amyotte
+(2002-4278(EI)) and Charles Amyotte (2002-4279(EI)) on March 23, 2004
+at Edmonton, Alberta
+By: The Honourable Justice J.M. Woods
+Appearances:
+Counsel for the Appellant:
+Deryk W. Coward
+Counsel for the Respondent:
+Dawn Taylor
+____________________________________________________________________
+JUDGMENT
+The appeal of the decision of the Minister of National Revenue made under the Employment Insurance Act is allowed and the decision that Simon and Charles Amyotte were engaged in insurable employment by Reward Construction Ltd. is vacated.
+Signed at Ottawa, Canada, on this 29th day of June, 2004.
+"J.M. Woods"
+J.M. Woods J.
+Docket: 2002-4278(EI)
+BETWEEN:
+SIMON AMYOTTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Reward Construction
+Ltd. (2002-4277(EI)) and Charles Amyotte (2002-4279(EI)) on March 23, 2004
+at Edmonton, Alberta
+By: The Honourable Justice J.M. Woods
+Appearances:
+Counsel for the Appellant:
+Deryk W. Coward
+Counsel for the Respondent:
+Dawn Taylor
+____________________________________________________________________
+JUDGMENT
+The appeal of the decision of the Minister of National Revenue made under the Employment Insurance Act is allowed and the decision that Simon Amyotte is engaged in insurable employment by Reward Construction Ltd. is vacated.
+Signed at Ottawa, Canada, on this 29th day of June, 2004.
+"J.M. Woods"
+J.M. Woods J.
+Docket: 2002-4279(EI)
+BETWEEN:
+CHARLES AMYOTTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Simon Amyotte
+(2002-4278(EI)) and Reward Construction Ltd. (2002-4277(EI)) on March 23, 2004
+at Edmonton, Alberta
+By: The Honourable Justice J.M. Woods
+Appearances:
+Counsel for the Appellant:
+Deryk W. Coward
+Counsel for the Respondent:
+Dawn Taylor
+____________________________________________________________________
+JUDGMENT
+The appeal of the decision of the Minister of National Revenue made under the Employment Insurance Act is allowed and the decision that Charles Amyotte is engaged in insurable employment by Reward Construction Ltd. is vacated.
+Signed at Ottawa, Canada, on this 29th day of June, 2004.
+"J.M. Woods"
+J.M. Woods J.
+Citation: 2004TCC478
+Date: 20040629
+Docket: 2002-4277(EI)
+BETWEEN:
+REWARD CONSTRUCTION LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent;
+AND BETWEEN:
+Docket: 2002-4278(EI)
+SIMON AMYOTTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent;
+AND BETWEEN:
+Docket: 2002-4279(EI)
+CHARLES AMYOTTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] These are appeals by Simon Amyotte, his brother Charles Amyotte and their employer Reward Construction Ltd. from rulings in which the Minister of National Revenue decided that the brothers were engaged in insurable employment for purposes of the Employment Insurance Act during the 2001 calendar year. The appeals were heard together on common evidence.
+[2] The shares of Reward Construction are owned by the brothers' parents, Real and Leona Amyotte. Reward Construction is engaged mostly as a concrete subcontractor on commercial and light industrial buildings. At the relavant time, the corporation employed several family members including the two brothers and approximately three arm's length persons. The father managed the business. Simon, 25 years of age, acted as supervisor on construction sites. Charles, 23 years of age, had a less senior position as a foreman but also acted as a right hand man to his brother. The two brothers lived in a house on a property where Reward Construction had a shop and stored the heavy equipment that it used.
+[3] For purposes of determining whether a person is engaged in insurable employment under the Employment Insurance Act, the employment of a person who is related to the employer, as the two Amyotte brothers were, is excluded unless the Minister is satisfied that the terms of employment are substantially similar to arm's length terms.
+[4] These appeals arose as a result of an application for a refund of employment insurance premiums by Simon and Charles Amyotte and Reward Construction. The Minister concluded that the terms and conditions were substantially arm's length and ruled that the employment was insurable.
+Statutory provisions
+[5] The relevant statutory provisions are contained in paragraphs 5(2)(i) and (3)(b) of the Employment Insurance Act which read:
+(2) Insurable employment does not include
+...
+i) employment if the employer and employee are not dealing with each other at arm's length.
+(3) For the purposes of paragraph (2)(i),
+...
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+(emphasis added)
+[6] This case was one of four similar appeals that I heard in Edmonton, Alberta over a one week period. In the reasons for another case, C & B Woodcraft Ltd., I commented generally on the scope of these provisions. I will not repeat that discussion here.
+The Minister's determination
+[7] The Minister concluded that Simon and Charles Amyotte were engaged in insurable employment because the terms and conditions of their employment were substantially similar to arm's length terms. The facts upon which the Minister relied are set out as assumptions of fact in the pleadings, and are attached as an appendix to these reasons.
+[8] The father and the two sons all testified at the hearing. Based on their testimony, I conclude that the Minister did not take into account several facts that should have had a bearing on the decision. Some of these are:
+- The Minister did not appreciate the amount of work that both brothers do to assist with the business, including maintaining the equipment, driving employees without cars to job sites, picking up materials and delivering it to the job sites, planning for the next day after the other employees go home, and discussing the status of work at night with their father. The father estimated that the boys worked approximately 65 hours per week whereas the Minister assumed a much more modest 44 to 50 hours for Simon Amyotte and 44 hours for Charles Amyotte.
+- Since the Minister did not appreciate the number of hours that each of the brothers worked, he incorrectly assumed that their remuneration was in accordance with industry standards. Simon was paid an annual salary of $40,000, which presumably would not be in accordance with industry standards given the hours that he worked. Charles was paid an hourly wage of $16 but was only paid for the time recorded which was limited to the time on the job sites that the arm's length employees worked. The father suggested that Charles' hourly wage was high for someone of his seniority but I have discounted this testimony because Charles was very experienced, having worked with his father for over ten years.
+- The Minister did not take into account the fact that Simon was paid during a two week holiday as well as receiving vacation pay for the same period. The father testified that this was due to inadvertence on his part but suggested that he would have been more careful with an arm's length employee.
+- The Minister took into account that the sons could take time off without their employer's approval but the Minister did not take into account that the same latitude was not afforded the arm's length employees.
+- The Minister correctly assumed that Reward Construction provided all the tools of the business but did not appreciate that the brothers used some of their own tools without reimbursement.
+- The Minister did not take into account that the brothers lived on the same site as the shop where the equipment was stored and that they paid the utility bills for the shop without reimbursement.
+- The Minister did not take into account that the bonuses to the two brothers were slightly higher than for the arm's length employees, $100 versus $200 or $300.
+[9] Taken together, these factors indicate that the employment terms that the Minister considered were quite different from the actual terms and conditions of employment for each of Simon and Charles Amyotte. For that reason, I have concluded that the Minister's decision is not supportable.
+Are employment terms arm's length
+[10] In the appeal of Neeralta Welding & Sales Ltd. that I heard the same week, I commented that it is not suprising that the terms and conditions of employment in a small business tend to be significantly different for family members as opposed to arm's length employees. This case is no different. The main difference in the employment terms in this case is that Simon and Charles Amyotte worked considerably longer hours than arm's length workers would and the hours worked outside the normal work day were not remunerated. This cannot be considered substantially similar to arm's length employment terms.
+Conclusion
+[11] The appeals are allowed and the decision of the Minister that Simon and Charles Amyotte were engaged in insurable employment is vacated.
+Signed at Ottawa, Canada on this 29th day of June, 2004.
+"J.M. Woods"
+J.M. Woods J.
+APPENDIX
+Assumptions of Fact
+In deciding as he did, the Minister relied on the following assumptions of fact:
+(a) the Appellant is in the construction business;
+(b) the shareholders of the Appellant are Real and Leona Amyotte;
+(c) Real Amyotte controlled the day to day operation of the appellant;
+(d) the Workers are the sons of Real and Leona Amyotte;
+(e) the Workers and the Appellant are related to each other within the within the meaning of the Income Tax Act, R.S.C. 1985 (5th Supp.) c. 1, as amended (the "Act");
+(f) Simon was a superintendent at job sites and his duties included overseeing the job, organizing the workers, and manual labour;
+(g) Simon also performed estimating duties at the Appellant's office from time to time;
+(h) Simon has an engineering designation;
+(i) Charles was a carpenter's apprentice and a foreman's assistant;
+(j) Charles also performed foreman duties from time to time;
+(k) Simon earned a set annual salary;
+(l) Charles earned a set wage of $16.00 per hour;
+(m) the Workers were paid on a bi-weekly basis;
+(n) employment insurance premiums were withheld from the Workers wages;
+(o) the Appellant set the Workers' wages, based on industry standards, according to their qualifications;
+(p) arm's length employees are paid according to their qualifications in the same manner as the Workers;
+(q) the Workers received vacation benefits;
+(r) Simon normally worked 44 to 50 hours per week, Monday to Friday;
+(s) Charles normally worked 44 hours per week, Monday to Friday;
+(t) Charles' hours of work were recorded;
+(u) Simon's work was not supervised but was subject to inspection;
+(v) Charles was supervised by a foreman;
+(w) the Workers notified the Appellant of any leave required;
+(x) if the Workers were unavailable they would have been replaced;
+(y) the Workers did not have signing authority for the business bank and had not guaranteed loans;
+(z) the Appellant provided the tools and equipment required;
+(aa) Charles provided his own hand tools;
+(bb) the Workers were employed under a contract of service with the Appellant;
+(cc) the Workers did not put their wages back into the Appellant's business;
+(dd) the Workers worked under the same terms and conditions as arm's length employees;
+(ee) the Minister considered all of the relevant facts that were made available to him, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed; and
+(ff) the Minister was satisfied that it was reasonable to conclude that the Workers and the Appellant would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+CITATION:
+2004TCC478
+COURT FILE NOS.:
+2002-4277(EI)
+2002-4278(EI)
+2002-4278(EI)
+STYLE OF CAUSE:
+Reward Construction Ltd. v. MNR
+Simon Amyotte v. MNR
+Charles Amyotte v. MNR
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+March 23, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.M Woods
+DATE OF JUDGMENT:
+June 29, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Deryk W. Coward
+Counsel for the Respondent:
+Dawn Taylor
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Deryk W. Coward
+Firm:
+D'Arcy & Deacon
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

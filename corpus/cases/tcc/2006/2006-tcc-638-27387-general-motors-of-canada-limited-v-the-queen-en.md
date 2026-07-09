@@ -1,0 +1,250 @@
+---
+title: "General Motors of Canada Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27387/index.do"
+last_modified: "2006-12-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 638"
+citation2: ""
+neutral_citation: "2006 TCC 638"
+decision_date: "2006-12-01"
+language: "en"
+item_id: "27387"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 144
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:31:07.473000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4cf203cdafb67c30b7232956da4d8940d598a9a9d54dcc31f122ddc93faacecc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# General Motors of Canada Limited v. The Queen
+
+- Citation: 2006 TCC 638
+- Decision date: 2006-12-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 144, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+General Motors of Canada Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-01
+Neutral citation
+2006 TCC 638
+File numbers
+2003-760(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+-
+Docket: 2003-760(IT)G
+BETWEEN:
+GENERAL MOTORS OF CANADA LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 12, 2006, at Toronto, Ontario, by
+The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Al Meghji and Gerald Grenon
+Counsel for the Respondent:
+Henry A. Gluch and Andrea Jackett
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment of tax made under the Income Tax Act for the 1996 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+1. the Appellant is entitled to deduct the amount of $43,914,455 claimed in respect of Residual Value Support in computing its income for the 1996 taxation year;
+2. the Appellant is entitled to deduct the amount of $3,457,207 claimed in respect of Pre-Delivery Inspections in computing income for its 1996 taxation year;
+3. the Appellant is entitled to deduct the amount of $4,822,490 claimed in respect of the value of its service parts inventory for its 1996 taxation year;
+4. the Appellant is entitled to deduct the amount of $2,699,397 claimed in respect of the reduction in the value of Dealer Shares for its 1996 taxation year;
+5. the $34,885,685 addition to the Appellant's income for its 1996 taxation year in respect of the Recall Liabilities (reflected in the reassessment of November 27, 2002) will be reversed;
+6. the Appellant's Interest Income in the amount of $11,562,000 constitutes income from an active business for the purposes of determining the Appellant's manufacturing and processing profits and the M & P Tax Credit under section 125.1 of the Act for its 1996 taxation year; and
+7. the Appellant is entitled to deduct the unexpended portion of the Special Canadian Contingency Fund of approximately $7,741,002.
+The Appellant is entitled to its costs.
+Signed at Ottawa, Canada, this 1st day of December 2006.
+"Campbell J. Miller"
+Miller J.
+Citation: 2006TCC638
+Date: 20061201
+Docket: 2003-760(IT)G
+BETWEEN:
+GENERAL MOTORS OF CANADA LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] This is an appeal by General Motors of Canada Limited ("GM") concerning the deductibility in 1996 of the unpaid amount of a certain fund established by agreement between GM and the National Automobile, Aerospace and Agricultural Implement Workers Union of Canada (the "CAW"). The Respondent contends the unpaid amount is a contingent liability only and not therefore deductible pursuant to paragraph 18(1)(e) of the Income Tax Act (the "Act"). The Appellant contends that the unpaid amount is an absolute liability, arising in 1996, on the part of GM to pay, and thus deductible in 1996. I agree with the Appellant.
+[2] There were a number of other issues between the parties, but they reached a settlement on all such issues prior to trial. That settlement is reflected in Items 1 to 6 of my formal Judgment.
+[3] The parties provided an Agreed Statement of Facts which I shall reproduce in its entirety:
+A. History of Tax Dispute
+The parties have resolved the issues raised in this appeal of the 1996 taxation year, save for the tax treatment of the Special Canadian Contingency Fund ("SCCF").[1]
+The SCCF issue was also raised in GM's appeal of the 1995 taxation year. GM's appeal to the Tax Court of Canada and to the Federal Court of Appeal was dismissed, and leave to appeal to the Supreme Court of Canada was denied.[2]
+In summary, the Courts held that the language of Appendix H to the collective agreement between the Appellant and the CAW, which Appendix established the SCCF, created a liability that was contingent on the occurrence of certain events. Accordingly, the amount claimed was a contingent liability and not deductible pursuant to paragraph 18(1)(e) of the Income Tax Act.
+The Courts' ruling was inconsistent with the belief of the parties to the collective agreement that they had created an absolute liability. In order to rectify this part of the collective agreement, GM, with the support of the CAW, sought and obtained an award of a labour arbitrator directing that paragraph 2 in Appendix H of the applicable collective agreement be rectified.[3]
+Paragraph 2 of Appendix H to the collective agreement was retroactively amended by the Consent Award granted by Earl E. Palmer, QC, on March 24, 2005. Paragraph 2, as rectified, reads as follows:
+The Company's obligation to add to such Special Canadian Contingency Fund will be computed as seventy ($0.70) per hour worked by all covered employees. For greater certainty, the Company and the Union agree that the Company's obligation to add to the Special Canadian Contingency Fund, as provided in this Section 2, accrues and becomes absolute as the hours described in the immediately preceding sentence are worked. The Company and the Union agree that the amounts accrued to the Special Canadian Contingency Fund are to be utilized exclusively for the benefit of members of the Union and other appropriate Union purposes, the specific uses to be determined as provided in Sections 3, 4, 5 and 6, below.
+B. Operation of the SCCF
+Every three years since at least 1984, the Appellant has entered into a collective agreement with the CAW.
+Each successive collective agreement from 1984 to 1999 provided that for each overtime hour worked by employees covered by the collective agreement in excess of 5% of straight time hours, the Appellant would accrue a specified sum to the SCCF.
+The Appellant and the CAW entered into a collective agreement on September 29, 1993 (the "1993 Collective Agreement"). Appendix H to the 1993 Collective Agreement provided that an amount of $2.00 per overtime hour worked by all covered employees in excess of five percent (5%) of straight time hours worked by such covered employees calculated on a twelve month average would be accrued to the SCCF.
+The Appellant and the CAW also entered into a collective agreement on October 22, 1996 (the "1996 Collective Agreement"). The provisions in Appendix H to the 1996 Collective Agreement were similar to those in the 1993 Collective Agreement except that the amount of $2.00 per overtime hour was increased to $2.35.
+The 1993 Collective Agreement applied to the 1996 taxation year prior to October 22, 1996; the 1996 Collective Agreement applied to the remainder of that taxation year. The balance of the accrued amounts in the SCCF as at the end of the 1996 taxation year was $15,156,711.
+C. Uses of Funds
+Paragraph 3 of the 1993 Memorandum of Understanding reads as follows:
+During the term of the 1993 Master Agreement, the Special Canadian Contingency Fund will be utilized primarily in support of the negotiated Child Care Programs, the Legal Services Plan and to finance the CSUB Plan, and then only if needed. It may also be used to fund jointly agreed to initiatives as determined by the President, National Union CAW and the Vice President and General Director of Personnel. At any point in time, the Special Contingency Fund Balance shall be equal to the cumulative accrual calculated in Section 2 above, less the cumulative utilization calculated in this Section 3. The cumulative accrual and utilization shall include balances carried forward from prior Agreements.
+The Legal Services Plan and the CSUB Plan (Canadian Supplemental Unemployment Benefit Plan) each had both SCCF and non-SCCF sources of funding (further specifics of the non-SCFF funding are provided below).
+Amounts accrued in the SCCF were paid to the Legal Services Plan and the CSUB Plan when, on the application of a formula, prescribed thresholds in those two plans were reached.
+Funds were contributed to the Legal Services Plan reducing the balance in the SCCF, only when non-SCCF funding to the Legal Services Plan was insufficient to pay for the benefits provided for in the Legal Services Plan. The Trustee of the Plan performed the necessary calculation and advised GM when funding was required for the Legal Services Plan.
+Contributions from the SCCF to the CSUB Plan were not dependent on the balance in the CSUB Plan reaching zero. The level of contributions to be made from the SCCF to the CSUB Plan was determined by the "Credit Unit Cancellation Base" ("CUCB") under the CSUB Plan. The Appellant's Finance Department monitored the relevant balances and performed the requisite calculations. Contributions were made when the amount in the CUCB falls below a specified minimum.
+Payments in respect of child care are not a function of prescribed thresholds. The child care program is administered by the CAW. When a need for specific funds is identified by the CAW, a request is made, and, there may be a discussion to ensure that the use falls within the framework of child care as has been agreed upon. Once the Appellant is satisfied that the use is included in what was negotiated, the payment is made.
+Throughout the 1996 taxation year, the SCCF accrued an amount equal to four and one half cents per straight time hour worked (0.045) for mutually agreed child care activities. The SCCF is the only means by which the Appellant funds the mutually agreed child care activities. These funds are paid out when the union requests the funds for a particular use and the usage is accepted as appropriately employed for child care as described in paragraph 17, above.
+No funds are segregated by the Appellant in relation to its obligations under Appendix H at the time of the accrual. The parties dispute whether the $15,156,711 balance in the SCCF as at the end of the taxation year is an accounting entry that represents an actual liability that has been incurred, and if incurred, whether the liability is contingent.
+Appendix H-1 to the 1993 Collective Agreement and Appendix H-1 to the 1996 Collective Agreement provide that, in the event of conflict between the use of the accrual remaining in the SCCF, to support the mutually agreed child care activities or Legal Services Plan benefits or the CSUB Plan, the accrual would be used first to support the mutually agreed child care activities and then to support the Legal Services Plan.
+The Legal Services Plan provides specified personal legal services regarding Wills and Estates, Real Estate, Tenant's Rights, Family Law, Civil Litigation, Criminal and Motor Vehicle Law, Consumer/Debtor Law, and Administrative Law to employees, retirees and dependents.
+The CSUB Plan provides benefits to employees of the Appellant who have been laid off or otherwise rendered unemployed in specified circumstances.
+As noted above, the Legal Services Plan is funded by the Appellant from the SCCF and also from a non-SCCF source of funding. The Legal Services Plan's non-SCCF funding is established by formula set out at Article 6 of Exhibit F to the Collective Agreement, Supplemental Agreement covering CAW-GM Canadian Legal Services Plan.
+As noted above, during the taxation year in issue, the CSUB Plan was also funded by the Appellant both through the SCCF and from a non-SCCF source of funding. The terms of Exhibit C to the collective agreement which governed the CSUB Plan during the tax year in issue required that the Appellant make contributions of funds into the CSUB Plan in certain circumstances (quite apart from any obligation under the terms of the SCCF), and that the CSUB Fund will be maintained with a qualified trust company (or companies) as trustee.
+Article 5 of the 1993 Memorandum of Understanding provides as follows:
+As of the end of the 1993 Master Agreement period, the parties would negotiate the usage of any accrual then remaining in the Special Canadian Contingency Fund.
+This same term (other than the year of the Master Agreement referred to) also appeared in the 1996 Memorandum of Understanding and the Memoranda of Understanding regarding SCCF entered into in conjunction with the 1984, 1987, 1990, 1999, 2002 and 2005 collective agreements.
+The SCCF has been continued in subsequent collective agreements effective 1999, 2002 and 2005. In all cases since the SCCF was established in 1984 the balance of the fund at the close of a collective agreement has been carried over under the new collective agreement.
+For example, the 1996 and 1999 collective agreements added as uses of the SCCF: the C.A.W. Leadership Training Program (Paid Educational Leave), research, leadership and development activities of the CAW, programs and activities of the GM/CAW Training Review Committee, the Social Justice Fund, the Retiree Fund, the Skilled Trades Fund, the Dependent Scholarship Fund, and the Medical Awareness Fund.
+Between the end of 1996 and the month of December, 2000, a total of $27,170,991.17 was paid out of the accrued balance in the SCCF.
+Tab 8 in the Book of Documents, Vol. 1 is a Schedule accurately detailing the uses of funds in the years 1997, 1998, 1999 and 2000 from the amounts paid out of the balance recorded in the SCCF as of the end the 1996 taxation year. This schedule shows that the amount of $15,156,711, being the closing balance in the SCCF account at the end of the 1996 taxation year, was fully paid out by the end of April, 2000.
+During the 1996 taxation year, a total of $6,419,193 was paid out of the accrued balance in the SCCF. The Appellant has been assessed on the basis that this amount is deductible in computing income for the 1996 taxation year.
+During the 1996 taxation year, the Appellant accrued $7,741,002 to the SCCF in respect of overtime worked by employees. The Appellant deducted the amount in issue in computing its income on its financial statements and included the amounts in issue as part of its cost of labour for the purpose of reporting to its shareholder, General Motors Corporation. The Appellant similarly seeks to deduct for tax purposes the amounts in the year the overtime is worked and the amounts are accrued to the SCCF. The Respondent's view is that the amounts are deductible when payments for qualifying purposes are triggered by either a request or by the calculation producing a specific result, depending on the purpose which is being supported.
+C. Issue
+Is the amount of $7,741,002 accrued but not paid out of the SCCF a contingent liability despite the rectification of paragraph 2 of Appendix H of the collective agreements? (There is no issue in this appeal regarding the validity of the rectification. The parties dispute whether or not there was a contingent liability, notwithstanding the rectification.)
+[4] Attached as Schedule "A" is the amended Appendix H in its entirety, as referred to in the Agreed Statement of Facts.
+Analysis
+[5] While the parties may have agreed to frame the issue as just stated, I do not believe the emphasis should be limited to the section 2 rectification, nor should it be limited to the question of a contingent liability. The issue is whether the Agreement between GM and the Union created, as overtime hours were worked, an obligation to pay. As Justice Malone succinctly put it in the Federal Court of Appeal GM's decision,[4] "the only relevant question is whether the MOU (Memorandum of Understanding) created an absolute liability or debt obligation on GM at the end of 1995". This requires a determination of the real substance of the Agreement - what was the deal between GM and the Union?
+[6] Justice Mogan of this Court, and Justice Malone of the Federal Court of Appeal determined that the Agreement between GM and the Union did not create, as overtime hours were worked, an absolute liability to pay, but only an obligation to make a bookkeeping entry, such an obligation not justifying a deduction. Both Justices Mogan and Malone relied on sections 3, 4 and 5 of the MOU to find that the agreement created a liability that would arise only on the occurrence of certain events that may or may not happen: this is the classic definition of a contingent liability.
+[7] The differences in this case with respect to 1996 and the case that was before Justice Mogan and the Federal Court of Appeal for 1995 are:
+(i) the wording of section 2 of the MOU;
+(ii) proof of the intention of GM and the Union, specifically as set out in the affidavits of James Cameron (Director of Labour Relations of GM) and Sym Gill (Director, Pensions and Benefits Department of CAW).
+[8] The parties' positions are straightforward. The Appellant argues that the agreement between GM and the Union could not be clearer - the only condition to be satisfied before GM becomes liable for the amounts in issue is that the employees work the overtime hours. They did so in 1996 and the obligation therefore became absolute in 1996.
+[9] The Respondent argues that the differences cited above have not changed the nature of what was previously found to be a contingent liability, precluded from deduction by the application of paragraph 18(1)(e) of the Act. There is no obligation to make any payment found in section 2 of the MOU; an obligation to pay only arises upon the contingencies in sections 3, 4 and 5 being met. Further, even if I found the parties intended to create, in 1996, an absolute liability to expend the SCCF, such intention does not necessarily mean they did create such an obligation.
+[10] Mr. Meghji, for the Appellant, suggested the starting point in the analysis (and he would maintain to some degree the ending point) is the intention of the parties regarding the creation of an absolute liability. What was that intention? The intention is to be gleaned from the affidavits of Mr. Cameron and Mr. Gill, and from the very words of the MOU, which should presumably reflect the stated intention of the parties.
+[11] I shall first review the words of the MOU. The words in section 2 speak in terms of an "obligation to add to such SCCF" and "the company's obligation to add to the SCCF as provided in this section 2 accrues and becomes absolute". Section 2 goes on to stipulate that "the amounts accrued to the SCCF are to be utilized exclusively ...". Notwithstanding Mr. Meghji's earnest representations to the contrary, this wording is not determinative as to the nature of the absolute obligation. The wording is not written in terms of an absolute obligation to pay or expend the fund, or even set aside funds: the absolute obligation, according to the words, is to "add to the SCCF". That, according to the document, is the obligation that is absolute. The parties cannot add any more or any less to the SCCF. They must add to this notional fund a set, determinable amount. And I purposely call it a notional fund, as it exists only by way of bookkeeping. There is no segregated fund. There is no separate bank account. But there is a determinable amount. According to the words in section 2, that determinable amount can only be used for "Union members' benefit and other Union purposes as determined in sections 3, 4 and 5".
+[12] While Mr. Meghji suggests I need look no further than section 2 to find an absolute liability, I am not convinced, based on the words of section 2 alone, that the absolute liability is an absolute liability to do anything more than calculate an amount. Sections 3, 4 and 5 indicate what is to be done with the amount so calculated. The Appellant argues that the obligation to add to the SCCF is to be construed as an absolute liability for the amount; that is the expression the Appellant used in argument - "absolute liability for the amount in issue". Section 2 however does not state anywhere an absolute liability to pay. Does "liability" implicitly mean liability to pay? Section 2 does oblige GM to do something and that obligation is "absolute"; the obligation is to add to the SCCF as overtime hours are worked.
+[13] The words of section 2 stipulate that such added amount is to be utilized a certain way, more particularly determined in sections 3, 4 and 5. Those following sections make it clear the fund was to be spent on child care programs, legal service and to finance the CSUB, "and then only if needed". I interpret the words of section 2 as reflecting an intention to oblige GM to calculate a certain amount for a fund, and that fund is agreed by GM and the Unionto be spent for the benefit of Union members and other Union purposes specifically on:
+(i) programs, if needed;
+(ii) initiatives to be agreed upon between the parties; and
+(iii) a renegotiated basis at the end of the collective agreement period.
+I conclude the words are ambiguous as to whether the agreement to expend arises at the time overtime hours are worked, or when the specific object of the expenditure is identified.
+[14] I turn now to the stated intent of the parties. Mr. Cameron stated:[5]
+From the inception of the SCCF in 1984, the Company has always intended and understood that the amounts accrued to the SCCF are irrevocably committed to SCCF Programs as soon as they are earned, by virtue of hours worked by members of the CAW-Canada bargaining unit, notwithstanding that the application of SCCF accruals to particular uses might not be fully determined by the terms of the applicable collective agreement and might be the subject of further discussion and agreement between the Company and CAW-Canada.
+...
+From the inception of the SCCF, the Company has intended and understood that, once the amounts to be accrued to the SCCF are so earned, the Company is irrevocably committed to expend the amounts accrued on SCCF Programs. While the particular programs to which SCCF accruals may be applied may not have been fully determined at the time the relevant hours are worked, the Company's obligation to expend the amounts accrued on SCCF Programs is crystallized at the time the relevant hours are worked, giving rise, accordingly, to an enforceable claim under the collective agreement.
+Mr. Gill stated:[6]
+From the inception of the SCCF, the union has intended and understood that the amounts accrued to the SCCF are earned as soon as the relevant hours are worked by members of the CAW-Canada bargaining units.
+The union has intended and understood since the inception of the SCCF that once the amounts to be accrued to the SCCF are so earned, the Company is irrevocably committed to expend the amount accrued on SCCF programs.
+[15] Mr. Cameron uses the expression that the "amounts are irrevocably committed to SCCF Programs as soon as they are earned", and also that the "Company's obligation to expend the amounts ... is crystallized at the time the relevant hours are worked". Mr. Gill talks in terms of "once the amounts are so earned, the Company is irrevocably committed to expend the amount accrued on SCCF programs". This language is much clearer than the wording of section 2 itself, as it specifically identifies an obligation or liability to expend.
+[16] Mr. Gluch for the Respondent suggests that unless there is ambiguity in the words of the contract, extrinsic evidence cannot be used. Further, if I accept that GM and the Union's intention was to create an absolute liability to pay, that intention does not make it so.
+[17] The parties have put before me an Agreed Statement of Facts wherein both the Appellant and the Respondent agree that the rulings of the Tax Court of Canada and the Federal Court of Appeal were "inconsistent with the belief of the parties that they had created an absolute liability". The parties also submitted in a Joint Book of Documents, affidavits of Mr. Cameron and Mr. Gill indicating in precise terms the nature of the absolute liability. Given such a statement in the Agreed Statement of Facts and the joint submission of the affidavits, and what I consider to be ambiguity in the language of section 2, I am prepared to give considerable weight to the affidavit evidence. And that evidence is unambiguous in that the parties to the MOU intended to create, as overtime hours were worked, an absolute liability to expend the fund.
+[18] Returning then to the intention I attempted to ascertain solely from a review of section 2, I believe some significant clarification can now be given. Unlike the finding in the previous decisions of this Court and the Federal Court of Appeal of an obligation to calculate, combined with an agreement to agree, I find the nature of the obligation that the parties intended to be absolute in section 2 was an obligation to expend the fund: GM agreed in 1996 to expend $7.7 million in the future. The words of Appendix H can easily be read consistently with this stated intention of GM and CAW.
+[19] Given the significant distinction between my finding that section 2 creates an immediate liability versus the finding of Justice Mogan, confirmed by Justice Malone, with respect to the 1995 year, that section 2 only created a bookkeeping responsibility, a review of sections 3, 4 and 5, takes on a completely different tone. Justice Mogan and Justice Malone reviewed sections 3, 4 and 5 to determine if therein lay the creation of an absolute liability. Not surprisingly, they found no such immediate liability was created, but at best a contingent liability, a liability arising only upon the occurrence of events described in sections 3, 4 and 5, which may or may not happen.
+[20] Rather than looking to sections 3, 4 and 5 to find the creation of an absolute liability, I look to those sections to see if their effect is to negate the absolute liability arising under section 2. Do the conditions in those sections render an absolute liability merely a contingent liability? The Appellant suggests that once I find the absolute liability arises in section 2, I need look no further. I disagree. I believe the contract must be viewed as a sum of its parts, and I cannot just ignore sections 3, 4 and 5, especially as section 2 specifically directs attention to those sections. But I can, as stated above, view them from a different vantage point than the previous Courts' decisions.
+[21] I will review what Justice Mogan and Justice Malone had to say about sections 2, 3, 4 and 5. Justice Mogan stated:
+... Paragraph 2 did not require the Company ... to pay any amount to a trustee, custodian, agent or other person. ... paragraph 2 required the Company to make a bookkeeping entry and no more.
+In paragraph 17 of his Reasons for Judgment, referring to section 3, Justice Mogan stated:
+This is nothing more than an agreement to agree. It does not create any liability.
+Again referring to section 3 of the MOU, Justice Mogan states:
+... Each sentence uses the words "cumulative accrual"; no reference to liability.
+[22] With respect to the expression in section 3 of Appendix H, "and then only if needed" in regards to the expenditure of funds on the three identified programs, Justice Mogan stated:
+... For me, that phrase is at least an indication of contingency.
+Justice Mogan concluded there was no legal liability to pay any amount as at December 31, 1995. It is clear that Justice Mogan's analysis on sections 3, 4 and 5 was premised on there being no liability arising in section 2. Justice Malone substantially agreed by stating:
+In my view, the requirement that General Motors accrue amounts in the Contingency Fund did not create an absolute liability in 1995. ... It was only upon the occurrence of various contingent events, as outlined in articles 3 and 4, that General Motors became legally obligated to pay a sum of money.
+But, if a liability does arise in section 2, as I have found is the substance of the agreement between GM and CAW, then what is the effect of the language of sections 3, 4, and 5?
+[23] First, section 3 identifies three programs on which the fund is to be spent, "if needed". Second, the funds can be spent on agreed-to-initiatives. Third, at the end of the collective agreement period, the parties would renegotiate the usage of funds. This is particularly important when read in light of the liability to pay that arises in section 2. That liability is in terms of the fund "to be exclusively for the benefit of members of the Unionand other appropriate Union purposes". So, any negotiation at the end of the term as to the usage does not go to quantum (that is, whether the fund is to be spent) but it goes solely to determining the Union programs or purposes on which the fund will be spent. This interpretation is borne out by the actual track record of payments made by the Company pursuant to Appendix H over many years. The SCCF has always been spent exclusively for the benefit of members of the Union and other appropriate Union purposes.
+[24] Similarly, the proviso attached to the three programs that monies be spent "only if needed" in the context of an obligation to spend the fund, can be interpreted not that the fund will not be spent, but that it may not be spent on those programs. Consequently, the parties leave the door open by identifying any other "agreed-to-initiatives". Also the term "if needed" could as easily be interpreted to refer to timing of the expenditure: if the fund was not spent on those three programs during the term of the agreement, it does not preclude the possibility of the fund being spent on those programs in a later period, when needed.
+[25] Sections 3, 4 and 5 do not negate the absolute obligation to pay arising in section 2, they simply answer the question of when and how the fund is to be spent. In the context of an absolute obligation to spend the fund, they do not support the position that there is a possibility that the fund will not be spent. On balance they support the interpretation that the fund must be spent. If all amounts are not paid during the term of a collective agreement, the effect is that the amounts will be used for members' benefit and Union purposes later. The obligation to spend the fund is not contingent on events which may or may not occur.
+[26] Appellant's counsel referred me to the cases of Fédération des Caisses Populaires Desjardins de Montreal & de l'ouest-de-Quebec v. The Queen,[7] Canadian Pacific v. The Minister of Revenue (Ontario),[8] and Time Motors v. The Queen[9] to illustrate the Court's treatment of the difference between the time an obligation comes into existence and the time at which it is to be performed, the time of liability triggering the deduction. I am satisfied that the "conditions" in sections 3, 4 and 5 of the MOU go to the manner in which the liability is to be discharged, and consequently, based on principles in the cases cited, do not make the liability contingent. The liability exists. It is ascertainable. Whether it is paid on one program or another does not take away the liability that the funds will be paid. As put by Justice Sharlow in Wawang Forest Products v. The Queen:[10]
+... an obligation to pay a certain amount does not become a contingent liability merely because events may occur that result in a reduction of the amount of the liability.
+In the case before me, there is not even any referenced possibility of a reduction in the amount of funds; there is simply a possibility of funds being spent on different programs. My interpretation of the provisions is that if funds cannot be spent for one Union purpose then they must be spent on another: that was the deal between GM and CAW.
+[27] Finally, I want to deal with some of Justice Malone's rationale as it pertains to what is required to find an absolute liability. In paragraph 26 of the Federal Court of Appeal judgment, Justice Malone wrote:
+... However, since no funds were contributed to a qualified trustee or otherwise segregated or set aside from ordinary working capital, I can find no absolute liability or identifiable debt that was incurred by General Motors. Correspondingly, there is also no identifiable creditor who could make a legally enforceable claim against General Motors with respect to the Overtime Balance ....
+[28] In the case before me there still were no funds contributed to a trustee, or set aside from working capital. This is not however fatal to GM's position. As Mr. Gluch for the Respondent acknowledged, segregation and appointment of a trustee are factors, but are not determinative of the issue. Indeed, a payment to a trustee would both create and discharge the liability: there has been a payment.
+[29] As to the question of an identifiable creditor, I ask what would have happened if GM went bankrupt at the end of 1996. Finding that there was an absolute obligation to expend the SCCF for Union members' benefit or for Union purposes, the Unionwould have been in a position to bring a claim on behalf of its members for the anticipatory breach. The liability existed and the amount was known. I find there is an entity, the Union, which could pursue GM in the bankruptcy proceedings to make good on its promise. All to say, with the different facts before me supporting the creation of an absolute liability, Justice Malone's concern with respect to an identifiable creditor can be addressed.
+[30] While I have some hesitation in reaching a decision contrary to the prior Tax Court of Canada and Federal Court of Appeal decisions, given that most of the facts are identical, the key is that all of the facts are not identical. A most significant fact is different - the very nature of the deal. What GM could not prove based on the facts before Justice Mogan, it has been able to prove on the facts before me, namely that the parties intended to create, and in fact created, an absolute liability to pay, and sections 3, 4 and 5 of Appendix H did not change that absolute liability into a contingent liability. I therefore allow the appeal and refer the matter back to the Minister for reconsideration and reassessment on the basis that the unexpended portion of the SCCF of $7,741,002 is properly deductible in 1996. Costs to the Appellant.
+Signed at Ottawa, Canada, this 1st day of December 2006.
+"Campbell J. Miller"
+Miller J.
+SCHEDULE A
+APPENDIX "H"
+MEMORANDUM OF UNDERSTANDING
+COVERING SPECIAL CANADIAN CONTINGENCY FUND
+ENTERED into this twenty-ninth day of September 1993
+BETWEEN:
+General Motors of Canada Limited, referred to hereinafter as "Company"
+AND:
+National Union CAW, and its Locals No. 222, 1973, 199, 303, 1163, 27, and 636, said National Union CAW and said Local Unions being referred to jointly hereinafter as "Union".
+The Company and the Union agree that:
+1. The Special Canadian Contingency Fund will be continued during the term of the 1993 Master Agreement.
+2. Such The Company's obligation to add to such Special Canadian Contingency Fund will equal an accrual by the Company of be computed as two dollars ($2.00) per overtime hour worked by all covered employees in excess of five percent (5%) of straight time hours worked by such covered employees calculated on a twelve month rolling average. For greater certainty, the Company and the Union agree that the Company's obligation to add to the Special Canadian Contingency Fund, as provided in this Section 2, accrues and becomes absolute as the overtime hours described in the immediately preceding sentence are worked. The Company and the Union agree that the amounts accrued to the Special Canadian Contingency Fund are to be utilized exclusively for the benefit of members of the Union and other appropriate Union purposes, the specific uses to be determined as provided in Sections 3, 4 and 5, below.
+3. During the term of the 1993 Master Agreement, the Special Canadian Contingency Fund will be utilized primarily in support of the negotiated Child Care Programs, the Legal Services Plan and to finance the CSUB Plan, and then only if needed. It may also be used to fund jointly agreed to initiatives as determined by the President, National Union CAW and the Vice President and General Director of Personnel. At any point in time, the Special Contingency Fund Balance shall be equal to the cumulative accrual calculated in Section 2 above, less the cumulative utilization calculated in this Section 3. The cumulative accrual and utilization shall include balances carried forward from prior Agreements.
+4. The use of the SCC Fund for support of the CSUB Plan would be determined solely by the amount of the Credit Unit Cancellation Base (CUCB) as determined from time to time under the CSUB Plan for the purpose of determining the cancellation rate of Credit Units on the payment of Regular Benefits under the CSUB Plan.
+In the event that such CUCB amount otherwise would fall below the applicable amount that would require an increased Credit Unit cancellation rate from 3.33 to 5.00 Units for Employees
+with one but less than five years Seniority, the Company will make weekly contributions to the CSUB Fund from the balance in the SCC Fund. Such additional contribution amount from the SCC Fund would be an amount that, together with the amount of regular Company contributions to the CSUB Fund that week, would be sufficient to pay all CSUB Benefits then due and payable and still keep such CUCB from falling below the amount requiring the increased cancellation rate described above. At any time the balance of the SCC Fund is exhausted, the regular provisions of the CSUB Plan would apply.
+5. As of the end of the 1993 Master Agreement period, the parties would negotiate the usage of any accrual then remaining in the Special Canadian Contingency Fund.
+Yours truly,
+W.E. Tate B. Hargrove
+Vice President and President National
+General Director of Personnel Union CAW
+CITATION: 2006TCC638
+COURT FILE NO.: 2003-760(IT)G
+STYLE OF CAUSE: General Motors of Canada Limited and
+Her Majesty The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 12, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: December 1, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Al Meghji and Gerald Grenon
+Counsel for the Respondent:
+Henry A. Gluch and Andrea Jackett
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Al Meghji and Gerald Grenon
+Firm: Osler, Hoskin & Harcourt LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The SCCF issue is addressed in the pleadings at the following paragraphs: Amended Notice of Appeal, para. 12-16, 47(b) and 50; Reply to Amended Notice of Appeal, para. 3-7, 14(a)-(e), 15-17, 19(i)-(ii), and 21-23. These portions of the pleadings are reproduced in the Book of Documents, Vol. 1, at Tabs 1 and 2.
+[2] General Motors of Canada Ltd. v. R. [2004] 1 C.T.C. 2999 (T.C.C), aff'd [2005] 1 C.T.C 56 (F.C.A.), leave to appeal refused, 2005 CarswellNat 1376 (S.C.C.).
+[3] Volume of material leading to and including the award of arbitrator Earl E. Palmer, QC, March 24, 2005; Book of Documents, Vol. II.
+[4] Supra.
+[5] Joint Book of Documents, Volume 2, Tab 2 paragraphs 9 and 23.
+[6] Joint Book of Documents, Volume 2, Tab 3 paragraphs 4 and 5.
+[7] 2002 DTC 7413 (F.C.A.).
+[8] 99 DTC 5286 (Ont. C.A.).
+[9] 69 DTC 51149 (S.C.C.).
+[10] 2001 DTC 5212 (F.C.A.).

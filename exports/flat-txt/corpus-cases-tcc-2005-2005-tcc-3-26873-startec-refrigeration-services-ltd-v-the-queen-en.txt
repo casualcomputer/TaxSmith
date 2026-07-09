@@ -1,0 +1,129 @@
+Title: Startec Refrigeration Services Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26873/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-3-26873-startec-refrigeration-services-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-01-14
+
+# Startec Refrigeration Services Ltd. v. The Queen
+
+- Citation: 2005 TCC 3
+- Decision date: 2005-01-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 712, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Startec Refrigeration Services Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-14
+Neutral citation
+2005 TCC 3
+File numbers
+2004-153(GST)I
+Judges and Taxing Officers
+Gordon Teskey
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-153(GST)I
+BETWEEN:
+STARTEC REFRIGERATION SERVICE LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 15, 2004 at Calgary, Alberta
+Before: The Honourable Justice Gordon Teskey
+Appearances:
+Counsel for the Appellant:
+Denise Whitley
+Counsel for the Respondent:
+Lesley Akst
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of goods and services tax made pursuant to the Excise Tax Act, notice of which is dated December 19, 2003 and bears number 10CT-116836024 is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant's employees were not receiving a taxable benefit and the Appellant was not required to account for tax on the amount of the allowances given to the employees, all in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 14th day of January, 2005.
+"Gordon Teskey"
+Teskey, J.
+Citation: 2005TCC3
+Date: 20050114
+Docket: 2004-153(GST)I
+BETWEEN:
+STARTEC REFRIGERATION SERVICES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Teskey, J.
+[1] The Appellant appeals from an assessment of tax made pursuant to the Goods and Services (GST) provisions of the Excise Tax Act (the "Act").
+Issue
+[2] The sole issue is whether an allowance made by the Appellant to various classes of employees is a taxable benefit or a reimbursement.
+Agreement
+[3] It was agreed between the parties hereto that no matter what decision I find, the assessed benefit should be reduced by 50%.
+Facts
+[4] The Appellant employs a number of mechanics and mechanic apprentices. All employees in these classes require, as a condition of employment, a set of tools of the trade.
+[5] Prior to the period in question, if an employee broke a tool, he was reimbursed the cost of purchasing a new tool. This proved cumbersome and the policy of giving different classes of employees a monthly allowance was established.
+[6] Prior to the allowance policy being established, the Appellant's owner, Joseph C. Cawthorn ("Cawthorn"), who had started the Appellant in 1976, calculated that the allowance amounts that he was going to establish would just allow an employee to maintain and replace his or her tool inventory as required by the Appellant to maintain the Appellant's position.
+[7] Since it was agreed that one half of the allowance figures were for safety equipment, I find that the remaining one half of all the allowances was used by the individual employee to replace and maintain their personal required tool inventory.
+[8] A first year apprentice would start out with a modest inventory of tools, which would cost in the neighbourhood of $10,000. A 10-year mechanic would have tools that would have cost in the neighbourhood of $60,000.
+[9] The Appellant owned the more expensive tools that employees could use if needed, one such tool cost $21,000.
+Jurisprudence
+[10] Linden J.A. of the Federal Court of Appeal, in Attorney General of Canadav. Hoefele, 95 DTC 5602, the leading authority on benefit as opposed to reimbursement, said at page 5604:
+According to the Supreme Court of Canada, then, to be taxable as a "benefit", a receipt must confer an economic benefit. In other words, a receipt must increase the recipient's net worth to be taxable. Conversely, a receipt which does not increase net worth is not a benefit and is not taxable. Compensation for an expense is not taxable, therefore, because the recipient's net worth is not increased thereby.
+...
+This is merely another way of describing the net gain idea that a receipt is not taxable if it does not improve the economic situation of the taxpayer, if it only reimburses for an amount for which an employee would otherwise be "out of pocket", it is not a "benefit". He treats relocation costs in the same way as ordinary travelling expenses. Reimbursement for out of pocket expenses incurred as a result of a move, explains Noel, J., cannot be considered a benefit because it adds nothing of value to the recipient's economic situation. ...
+Linden, J.A. also said at page 5605:
+Therefore, the question to be decided in each of these instances is whether the taxpayer is restored or enriched. Though any number of terms may be used to express this effect -- for example, reimbursement, restitution, indemnification, compensation, make whole, save the pocket -- the underlying principle remains the same. If, on the whole of a transaction, an employee's economic position is not improved, that is, if the transaction is a zero-sum situation when viewed in its entirety, a receipt is not a benefit and, therefore, is not taxable under paragraph 6(1)(a). It does not make any difference whether the expense is incurred to cover costs of doing the job, of travel associated with work or of a move to a new work location, as long as the employer is not paying for the ordinary, every day expenses of the employee.
+Position of the Parties
+[11] The Appellant argues that there is no enrichment and therefore this allowance is a reimbursement and not a benefit.
+[12] The Respondent argues that there is an enrichment in that the employee has not had to pay out of his pocket the cost of a replacement tool, and that in the employee's possession is a new tool, which I should find is more valuable then the one that was replaced.
+Analysis
+[13] By way of analogy and for the purposes of these reasons, I assign employee "A" with a tool called tool "B" that costs $1,000. On a Monday, he attends at work with his required tools. Some could be quite old, some could be almost new, some could be almost worn out.
+[14] During the work day, employee "A" breaks tool "B".
+[15] At the end of the day, employee "A" buys from the Appellant a new tool "B" for $1,000, which allows him to go to work on the Tuesday with a full set of tools, being the same number and variety as employee "A" had when attending on Monday morning.
+[16] Since the legal question is whether employee "A" was restored or enriched, I find that in this example, employee "A" is simply restored to the position he or she was one moment before tool "B" broke.
+[17] I acknowledge the new replacement tool may perhaps be more valuable, but it is quite conceivable that the new tool may be made of lighter and cheaper material and not be as valuable.
+[18] I believe the test is was the employee in a different position on Tuesday morning than on the Monday morning? I think not. At both times, the employee had the required number and variety of different tools required to perform the functions of the employment.
+[19] Thus, the way of the allowance was used herein by the employees of the Appellant in the period in question. I find that the allowance was a reimbursement and not a benefit.
+[20] The appeal is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the employees of the Appellant were not receiving a taxable benefit and the Appellant was not required to account for tax on the amount of the allowances given to the employees.
+Signed at Vancouver, British Columbia, this 14th day of January, 2005.
+"Gordon Teskey"
+Teskey, J.
+CITATION:
+2005TCC3
+COURT FILE NO.:
+2004-153(GST)I
+STYLE OF CAUSE:
+Startec Refrigeration Services Ltd and
+Her Majesty the Queen
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+December 15, 2004
+REASONS FOR JUDGMENT BY:
+The Hon. Justice Gordon Teskey
+DATE OF JUDGMENT:
+January 14, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Denise Whitley
+Counsel for the Respondent:
+Lesley Akst
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Denise Whitley
+Firm:
+Warren Tettensor, Barristers and Solicitors
+Calgary, Alberta
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

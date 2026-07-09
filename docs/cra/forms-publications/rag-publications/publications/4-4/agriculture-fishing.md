@@ -1,0 +1,1024 @@
+---
+title: "Agriculture and Fishing"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-4/agriculture-fishing.html
+last_modified: 2017-11-07
+---
+# Agriculture and Fishing
+
+GST/HST memorandum 4.4 July 2007
+
+Overview
+
+This memorandum provides detailed information on the tax status of agricultural and fishing supplies as they relate to the goods and services tax/harmonized sales tax (GST/HST) provisions of the *Excise Tax Act* (the Act).
+
+Note
+
+This Memorandum 4.4 of Chapter 4, *Zero-Rated Supplies*, supersedes Memorandum 4.4, *Agriculture and Fishing*, issued in September 1998 and revised August 14, 2000. It also incorporates the information from and supersedes Policy Statement P-235, *Meaning of “Fertilizer”*.
+
+Note – HST
+
+Reference in this publication is made to supplies taxable at 6% or 14% (the rate of the HST). The 14% HST applies to supplies made in Nova Scotia, New Brunswick, and Newfoundland and Labrador (the “participating” provinces). If a person is uncertain as to whether the supply is made in a participating province, the person may refer to Technical Information Bulletin B-078, *Place of Supply Rules Under the HST*, available from any Canada Revenue Agency (CRA) tax services office.
+
+## Table of Contents
+
+- [Agriculture and fishing](#P59_2047)
+
+- [Tax status of agriculture and fishing products](#P66_3261)
+
+    - [Farm livestock](#P67_3307)
+
+    - [Grains, seeds, fodder crops](#P101_4444)
+
+    - [Other plant crops](#P118_6839)
+
+    - [Poultry and fish eggs](#P127_7786)
+
+    - [Fertilizer](#P130_7918)
+
+    - [Wool](#P218_19042)
+
+    - [Tobacco](#P221_19137)
+
+    - [Fish and marine animals](#P224_19255)
+
+    - [Share-crop agreements](#P227_19680)
+
+    - [Supplies of farmland](#P230_20235)
+
+    - [Public service bodies – leases of land for grazing purposes](#P233_20456)
+
+    - [Feedlots](#P238_22792)
+
+    - [Prescribed property](#P242_23696)
+
+- [Certain administrative guidelines for the Regulations](#P245_24188)
+
+- [Schedule – Agricultural and Fishing Property (GST/HST) Regulations](#P254_25944)
+
+    - [Property related to agriculture](#P255_26010)
+
+          - [Equipment](#P258_26173)
+
+          - [Feed](#P416_31957)
+
+          - [By-products](#P433_32894)
+
+          - [Pesticides](#P437_33292)
+
+          - [Quotas](#P441_33554)
+
+    - [Property related to fishing](#P444_33798)
+
+- [Appendix – Seeds](#P504_37666)
+
+    - [Table 1 – Seeds ordinarily used as or to produce food for human consumption or feed for farm livestock or poultry](#P505_37682)
+
+    - [Table 2 – Seeds not ordinarily used as or to produce food for human consumption or feed for farm livestock or poultry](#P630_39118)
+
+    - [Table 3 – As listed in the tables of the Seeds Act](#P650_39462)
+
+In this publication “taxable” means subject to GST at 6% or HST at 14% and “zero-rated” means subject to GST/HST at 0%.
+
+## Agriculture and fishing
+
+General
+
+1. Most supplies of agricultural and fishing products are zero-rated. In addition to the supplies described in this memorandum, many products sold by the agricultural and fishing sectors for human consumption such as fresh fruit and vegetables, milk, honey and fresh fish, are already zero-rated under Part III of Schedule VI, which covers basic groceries. More information on basic groceries is contained in Memorandum 4.3, *Basic Groceries*.
+
+2. However, some agricultural products are not zero-rated. These include supplies of goods such as cut flowers, foliage, bedding plants, sod, living trees, firewood, fur and animal hides, feathers, down, processed wool, maple-sugar candy, gravel, stones, rock, soil, and the urine from pregnant mares, which are taxable.
+
+3. In addition, services such as chartering a boat for recreational fishing, road clearing services, harvesting services provided to a farmer, and stud or artificial insemination services are also taxable. Where these services are supplied to a registrant for use in the registrant's commercial activities, the tax paid or payable on these services may be claimed as an input tax credit by the registrant in the normal manner.
+
+## Tax status of agriculture and fishing products
+
+### Farm livestock
+
+Sch. VI, Part IV, s 1
+
+4. A supply of farm livestock (other than rabbits), poultry or bees that are ordinarily raised or kept to produce, or to be used as, food for human consumption, or to produce wool, is zero-rated.
+
+Zero-rated examples
+
+5. The supply of the following animals, poultry and bees is zero-rated:
+
+- cattle
+
+- sheep
+
+- goats
+
+- pigs
+
+- llamas and alpacas
+
+- buffalo/bison
+
+- geese
+
+- turkeys
+
+- ducks
+
+- chickens
+
+- elk and deer
+
+- honey bees
+
+- ostriches, emus and rheas
+
+- pheasants, partridges, quails, wild turkeys, squabs, and colins
+
+Sch. VI, Part IV, s 1.1
+
+6. A supply of a rabbit is zero-rated except when the supply is made in the course of a business in which the supplier regularly supplies animals as pets to consumers.
+
+Taxable examples
+
+7. The supply of the following animals and birds, which are not ordinarily raised or kept to produce, or to be used as, food for human consumption, is taxable:
+
+- mink, fox and other fur-bearing animals
+
+- horses, donkeys and mules
+
+- pigeons
+
+- peacocks
+
+Meat
+
+Sch. VI, Part III, s 1
+
+8. The supply of the meat of animals that are not zero-rated, such as horses, is zero-rated when the meat is supplied as food for human consumption.
+
+### Grains, seeds, fodder crops
+
+Sch. VI, Part IV, s 2
+
+9. A supply of
+
+- grains or seeds in their natural state, treated for seeding purposes, or irradiated for storage purposes,
+
+- hay or silage, or
+
+- other fodder crops,
+
+that are ordinarily used as or to produce food for human consumption, or feed for farm livestock or poultry, is zero-rated when supplied in a quantity larger than that ordinarily sold or offered for sale to consumers. However, a supply of grains, seeds, or grain or seed mixtures that are packaged, prepared or sold for use as feed for wild birds, or as pet food, is not zero-rated under this provision, and is therefore taxable.
+
+10. In consultation with the seed industry, the Canada Revenue Agency has developed guidelines to determine where seeds are supplied in a quantity larger than that ordinarily sold or offered to consumers. The guidelines are based on the size of the seed. Small seeds supplied in packages of a quantity exceeding 125 g and large seeds in quantities exceeding five kg are zero-rated. Large seeds refer to peas, corn and beans only; any other type of seed is considered a small seed. When small seeds are supplied on a count basis, they are zero-rated when supplied in quantities exceeding 2500 seeds. When large seeds are supplied on a count basis, they are zero-rated when supplied in quantities exceeding 20,000 seeds.
+
+11. Small packets of garden seeds sold to consumers are taxable. The supply of lawn seed and flower seeds is also taxable because these seeds are not used to produce food for human consumption, or livestock or poultry feed.
+
+12. Seed potatoes and onion sets are not different from potatoes and onions sold for human consumption. Therefore, these products are zero-rated under Part III of Schedule VI.
+
+13. Any seed mixture that is sold or labelled as a forage mixture (e.g., Canada Certified No. 1 Forage Mixture) in accordance with Table XIII of Schedule I to the *Seeds Regulations* made under the *Seeds Act* is zero-rated when sold in a commercial quantity. Refer to paragraph 10 of this memorandum for the seed quantity minimum thresholds. Forage mixtures may contain non-zero-rated seeds (e.g., creeping red fescue), but as long as they are properly labelled and are supplied in a commercial quantity, supplies of forage mixtures are zero-rated.
+
+14. Refer to the Appendix for a list of seeds that the CRA considers to be zero-rated when supplied in a commercial quantity as well as those that are taxable.
+
+14.1 Hay is ordinarily sold in bales of various sizes and shapes. For a supply of hay to be zero-rated, the quantity sold must be more than one large round bale or its equivalent. A single large round bale is one that weighs at least 750 kg or 1650 lbs. Accordingly, a sale exceeding this weight would be zero-rated. If the hay were sold in square bales, for example, each weighing 50 kg or 110lbs., the supply would have to be at least 16 bales to be zero-rated.
+
+### Other plant crops
+
+Sch. VI, Part IV, s 3
+
+15. A supply of hops, barley, flax seed, straw, sugar cane or sugar beets is zero-rated.
+
+Sch. VI, Part IV, s 3.1
+
+16. A supply of grain or seeds, or of mature stalks having no leaves, flowers, seeds or branches, of hemp plants of the genera Cannabis, is zero-rated if
+
+- the supply is made in accordance with the *Controlled Drugs and Substances Act*, if applicable;
+
+- in the case of grain or seeds, they are not further processed than sterilized or treated for seeding purposes and are not packaged, prepared or sold for use as feed for wild birds or as pet food; and
+
+· in the case of viable grain or seeds, they are included in the definition of "industrial hemp" in section 1 of the *Industrial Hemp Regulations* made under the *Controlled Drugs and Substances Act*.
+
+This proposed amendment applies to supplies for which consideration becomes due after April 12, 2001, or is paid after that day without having become due.
+
+### Poultry and fish eggs
+
+Sch. VI, Part IV, s 4
+
+17. A supply of poultry or fish eggs that are produced for hatching purposes is zero-rated.
+
+### Fertilizer
+
+Sch. VI, Part IV, s 5
+
+18. A supply of fertilizer (other than a good sold as soil or as a soil mixture, whether or not containing fertilizer) is zero-rated when the fertilizer is supplied in bulk quantities or in containers of at least 25 kg where the total amount of the fertilizer supplied is 500 kg or more. Paragraphs 19 to 31 and the examples following paragraph 31 set out the CRA policy on the meaning of “fertilizer”.
+
+Meaning of “fertilizer”
+
+19. The CRA considers a product to be a fertilizer if the following requirements are met:
+
+- the purpose of the product is to provide plant nutrients;
+
+- the product contains either
+
+    - one or more of the major plant nutrients; or
+
+    - one or more lesser plant nutrients;
+
+- the product label contains a “guaranteed analysis” that is verified by a laboratory analysis, and if the product contains major plant nutrients, the “grade” is displayed as part of the product name; and
+
+- the product being supplied is marketed, advertised, packaged, labelled, or sold for use as a fertilizer.
+
+Directly provides plant nutrients
+
+20. A fertilizer is intended to directly provide a plant or crop with nutrients for its growth and crop yield. A supplement that improves the physical condition of soils or aids plant growth or crop yields, thereby indirectly benefiting plant and crop health by aiding in the ability to absorb the nutrients, does not meet this requirement.
+
+Plant nutrients
+
+21. The major plant nutrients are nitrogen (N), phosphorus (P), and potassium (K). The lesser plant nutrients, which must be present in the required minimum levels noted, are as follows:
+
+| Element | Minimum per cent (by weight) |
+
+| --- | --- |
+
+| Calcium (Ca) | 1.0000 |
+
+| Magnesium (Mg) | 0.5000 |
+
+| Sulphur (S) | 1.0000 |
+
+| Boron (B) | 0.0200 |
+
+| Chloride (Cl) | 0.1000 |
+
+| Copper (Cu) | 0.0500 |
+
+| Iron (Fe) | 0.1000 |
+
+| Manganese (Mn) | 0.0500 |
+
+| Molybdenum (Mo) | 0.0005 |
+
+| Zinc (Zn) | 0.0500 |
+
+All nutrients are expressed by weight. The per cent represents the amount of individual plant nutrients in relation to the total product by weight. The exception is for calcium (Ca), magnesium (Mg), and sulphur (S), which are guaranteed as a minimum amount expressed in per cent on an elemental basis.
+
+Guaranteed analysis
+
+22. A guaranteed analysis should be displayed on the label of a fertilizer product. A guaranteed analysis is a legal representation by the supplier of the product guaranteeing the stated percentage of each individual plant nutrient claimed to be in the product, by weight of the total product, for both major and lesser plant nutrients. In the case of supplies in bulk, this guarantee would be displayed on the invoice, on a shipping bill, or on a statement accompanying the supply.
+
+23. A guaranteed analysis is to be verified by a laboratory analysis. The principal criterion in determining whether the laboratory analysis is acceptable is that the conclusions be scientifically supported. In this regard, the following are factors to consider when deciding whether or not the conclusions are acceptable:
+
+- a written report is prepared and signed by an individual employed by the laboratory with the authority to sign and issue such reports;
+
+- the procedures employed by the laboratory are based on acceptable standards for this type of industry and analysis; and
+
+- the conclusions are properly documented and supportable.
+
+24. A variation between the quantity of individual plant nutrients in a product as stated in the guaranteed analysis and that revealed by a laboratory analysis will not automatically exclude the supply from zero-rating unless the quantities determined to be present by the laboratory analysis are so minimal as to be ineffective. For example, if a product contains only one lesser plant nutrient and the percentage of that lesser plant nutrient is determined to be less than the minimum requirement noted in the table in paragraph 21 of this memorandum, then the product would not be zero-rated as it does not meet the requirements of a fertilizer.
+
+Grade
+
+25. Where a fertilizer product contains major plant nutrients, the “grade” is to be displayed as part of the product name. The “grade” is a set of three numbers that represent the minimum guarantee, in order, for the per cent of total N, P, and K in the product, by weight of the total product, in a hyphenated numerical series (N-P-K), (e.g., 15-10-0).
+
+Product marketing and sale
+
+26. Where a fertilizer product is sold in different packages with one set of packages marketed as a fertilizer and another for some other purpose, only the packages sold for use as a fertilizer will be zero-rated.
+
+27. Where a fertilizer product is packaged for sale as both a fertilizer and some other purpose, it will be considered packaged as a fertilizer.
+
+28. A fertilizer product that is marketed with no indication as to the product's use is considered to be marketed or sold for use as a fertilizer.
+
+*Fertilizers Act*
+
+29. Products that are considered to be fertilizers because they meet all of the requirements pursuant to the *Fertilizers Act* will generally have met all of the criteria noted in paragraph 19 of this memorandum and will therefore be considered fertilizers for purposes of section 5 of Part IV of Schedule VI to the Act.
+
+Manure
+
+30. Animal and vegetable manures in their natural condition are considered to be fertilizers and will be zero-rated when sold in quantities of 500 kg or more, although they may not meet all of the criteria noted in paragraph 19 of this memorandum.
+
+31. Peat is considered a soil conditioner not a fertilizer, and may be sold as soil or as soil mixture. The supply of peat is taxable regardless of the amount sold.
+
+Producers Unlimited (PU) collects, packages, and markets sheep manure. The product is sold under the name Sheep Manure 2-0-0 as a fertilizer in 30 kg containers, with sales in total quantities of between 750 and 1,200 kg per order. The guaranteed analysis on its label is 2-0-0, and laboratory analysis confirms that samples of Sheep Manure 2-0-0 contain 2% nitrogen and 55% organic matter.
+
+Supplies of Sheep Manure 2-0-0 are zero-rated as supplies of fertilizer pursuant to section 5 of Part IV of Schedule VI. Sheep Manure 2-0-0 contains nitrogen, one of the major plant nutrients. On its label, PU has guaranteed that this product contains nitrogen in the amount determined by the laboratory and it has the grade designation as part of its product name. Sheep Manure 2-0-0 is not sold as a soil or soil mixture, it is sold in containers in quantities of at least 25 kg and in total quantities of at least 500 kg.
+
+#### Example 2
+
+Superior Environmental Limited (SEL) produces, packages, and sells urea in bulk quantities exceeding 500 kg. The sales invoices identify the product as Urea 45-0-0, with a guaranteed analysis of 45% nitrogen, with no indication as to its use. Laboratory analysis of Urea 45-0-0 found that the samples contained 46% nitrogen. Urea 45-0-0 is purchased by farmers, who use the product as a fertilizer, and by airports, which use the product as a de-icer. Airport authorities regularly purchase Urea 45-0-0 in the late fall and winter in bulk quantities far exceeding 500 kg, which SEL knows will be used as a de-icer.
+
+Supplies of Urea 45-0-0 to the airport authorities are zero-rated as supplies of fertilizer pursuant to section 5 of Part IV of Schedule VI. Urea 45-0-0 contains nitrogen, one of the major plant nutrients. The sales invoices contain a guaranteed analysis that has been verified by laboratory analysis. The supplies are in bulk in total quantities of at least 500 kg. Since the product has fertilizing properties and is marketed by its product name with no indication of use, it is considered to be "marketed, advertised, packaged, labelled, or sold for use as a fertilizer". The fact that this supplier knows at the time of making these supplies that the product is typically used as an airport de-icer does not affect the tax status.
+
+#### Example 3
+
+Dependable Universal Safety Tillers (DUST) is a supplier of potash. DUST produces a single product that contains 20% potash, which DUST lists and guarantees on its packages, labelled as Potash Manure Salts 0-0-20. The guaranteed analysis of 20% potash in the product has been verified by laboratory analysis. DUST packages Potash Manure Salts 0-0-20 as two distinct products: one it packages as an agricultural fertilizer, and the other it packages as a component in the manufacture of glass. When DUST is temporarily out of stock of the product packaged as fertilizer, it will supply its customers with the identical product packaged for use in the manufacture of glass.
+
+Supplies of Potash Manure Salts 0-0-20 packaged for use in making glass are taxable, even though the purchaser may be using it as a fertilizer. This version of the product has not been marketed, advertised, packaged, labelled, or sold for use as a fertilizer.
+
+#### Example 4
+
+Bulk Users Limited (BUL) is a supplier of slag, which it sells to the public by weight. Minimum purchase quantities are 500 kg. The slag is stored in large bins in a warehouse; labels attached to the bins represent that the slag contains at least 16% phosphoric acid, displayed as Basic Slag 0-16-0. This information is also printed on the invoices when purchases are made. Laboratory analysis has verified that samples of Basic Slag 0-16-0 contain at least 16% phosphoric acid.
+
+Supplies of Basic Slag 0-16-0 are zero-rated as supplies of fertilizer pursuant to section 5 of Part IV of Schedule VI. Basic Slag 0-16-0 contains the major plant nutrient phosphoric acid. It is not sold as soil or a soil mixture, and a product that is marketed with no indication as to the product's use is considered to be "marketed, advertised, packaged, labelled, or sold for use as a fertilizer". The invoices indicate that its customers purchase the product in minimum quantities of 500 kg in bulk.
+
+#### Example 5
+
+Lazy Meadows Farm ("LM") is in the dairy business. The manure produced by its cows is sold to local farmers who purchase the manure in truckloads in total amounts exceeding 500 kg for their fields. LM does not formally market and label this product; marketing is by word of mouth. Invoices indicate "sale of manure", the quantity of manure sold, and the price charged. It is accepted by purchasers that the manure contains a significant percentage of nitrogen by weight; however, no laboratory analysis has been done to verify the percentage.
+
+Supplies of the manure product sold in bulk in total quantities of at least 500 kg, where the product is not sold as a soil or soil mixture, are zero-rated as supplies of a fertilizer pursuant to section 5 of Part IV of Schedule VI. The LM manure is considered to be a fertilizer for the purposes of section 5, although the following requirements have not been met: the presence of a guaranteed analysis, the grade of the major plant nutrient(s) being part of the name, and a laboratory analysis verifying the quantities guaranteed to be present. Manure is commonly known for its fertilizing properties and consequently for its usefulness as a plant nutrient. Since the manure is marketed with no indication as to use, it is considered to be marketed or sold as a fertilizer. The supplies are in bulk in total quantities of at least 500 kg.
+
+### Wool
+
+Sch. VI, Part IV, s 6
+
+32. A supply of wool, not further processed than washed, is zero-rated.
+
+### Tobacco
+
+Sch. VI, Part IV, s 7
+
+33. A supply of tobacco leaves, not further processed than dried and sorted, is zero-rated.
+
+### Fish and marine animals
+
+Sch. VI, Part IV, s 8
+
+34. A supply of fish or other marine or freshwater animals not further processed than frozen, salted, smoked, dried, scaled, eviscerated, or filleted is zero-rated. However, any such animal that is not ordinarily used as food for human consumption or that is sold as bait for use in recreational fishing is excluded from zero-rating under this provision. These products are taxable.
+
+### Share-crop agreements
+
+Sch. VI, Part IV, s 9
+
+35. A supply made to a registrant of farmland by way of a lease, licence or similar arrangement is zero-rated to the extent that the consideration for the supply is a share of the production of zero-rated crops from the farmland. The value of any other consideration given would, however, be taxable. For example, if farmland is leased from one farmer to another for $1,000 plus one-third of the farm production from that land (which must be a zero-rated crop), the tax is to be charged only on the $1,000 payment.
+
+### Supplies of farmland
+
+36. Certain supplies of farmland are exempt. More detailed information is available in the GST/HST Info Sheet, *Sales of Farmland by Individuals* and in Memorandum 19.5, *Land and Associated Real Property.*
+
+### Public service bodies – leases of land for grazing purposes
+
+Election for real property of public service body s 211 of the Act
+
+37. A supply of land made by a public service body (other than a financial institution, a municipality or a government) for grazing purposes by way of lease for a period of one month or more, where the supply is made in the course of a business of the public service body, would normally be exempt under section 25 of Part VI of Schedule V. However, the public service body may make an election to exclude the supply from the exempting provision. This election may be made in respect of capital real property of the public service body as well as real property that is inventory for resupply or that is acquired by the public service body by way of lease, licence or similar arrangement for the purpose of resupply by way of lease, licence or similar arrangement, or making a supply of the arrangement by way of assignment. If it makes the election, the public service body will be required to collect tax on the supply of land and will be entitled to claim an input tax credit to recover the tax paid or payable on the acquisition of the property and other eligible inputs, if it is a registrant.
+
+Supplies taxable without a section 211 election
+
+38. If the public service body supplies the land for grazing purposes by way of licence (rather than by lease) in the course of a business carried on by the body, there is no requirement to file an election under section 211 to make the supply taxable, since such a supply would already be excluded from exemption by virtue of paragraph 25(f) of Part VI of Schedule V, and would therefore be taxable. A supply of designated municipal property by a person who is designated to be a municipality for purposes of the public service body rebate is also excluded from the exemption by virtue of paragraph 25(j) of the same Part, regardless of whether the property is supplied by lease or by licence. Finally, since municipalities are excluded from the exemption in section 25 (as noted in paragraph 37 above), all supplies of grazing land made by a municipality are taxable. Any public service body making taxable supplies is entitled to claim an input tax credit to recover the tax paid or payable on the acquisition of the property and other inputs if it is a registrant.
+
+### Feedlots
+
+s 164.1
+
+Sch. VI, Part IV, s 2.1
+
+39. Where a feedlot operator makes a supply of services and the total amount charged includes an amount in respect of feed, the supply of the feed is deemed to be separate from the supply of the services. This applies if the feed is described in section 2 of Part IV of Schedule VI (see paragraphs 9 to 14 of this memorandum), or subsections 1(2) or 1(3) of the schedule to the *Agriculture and Fishing Property (GST/HST) Regulations* (reproduced on pages 15 and 16 of this memorandum)*.* Therefore, the portion of a feedlot's charge which can be reasonably regarded as a charge for feed is zero-rated, up to a maximum of 90% of the total consideration. In all cases, a minimum of 10% of the total charge by the feedlot will continue to be subject to the tax. These rules only apply to those feedlot operators that are considered, for income tax purposes, to be farming.
+
+### Prescribed property
+
+Sch. VI, Part IV, s 10
+
+40. A supply of prescribed property when supplied by way of sale is zero-rated. The schedule to the *Agriculture and Fishing Property (GST/HST) Regulations* (the Regulations) identifies those items that are prescribed property for the purposes of section 10 of Part IV of Schedule VI. Detailed information on prescribed property is available below under the heading "Schedule – *Agricultural and Fishing Property (GST/HST) Regulations*" in this memorandum.
+
+## Certain administrative guidelines for the Regulations
+
+Leases
+
+41. A supply of prescribed property listed in the Regulations other than by way of sale is taxable. For example, a supply of prescribed property by way of lease is taxable. However, when a lease of zero-rated equipment is entered into with an option to purchase the equipment at the end of the lease period, the buy-out portion may be zero-rated if, according to the terms of the agreement, the buy-out constitutes a supply by way of sale. The lease payments made prior to the buy-out payment will be taxable.
+
+42. The supply of prescribed property under a lease-to-own contract may be zero-rated if there is in substance a supply by way of sale. Such contracts must be evaluated on a case-by-case basis.
+
+Accessories
+
+43. When zero-rated farm or fishing equipment is sold together with any other accessories normally taxable, the supply of such accessories will be zero-rated provided they are attached to the zero-rated farm or fishing equipment and form part of the unit. Any accessory sold must already be installed at the time of sale. For example, the sale of a tractor (which qualifies as a zero-rated item) together with an air conditioner and a blade attachment is zero-rated provided that the equipment is sold as a complete unit (i.e., the air conditioner and blade attachment were installed on the tractor prior to the sale). The air conditioner and blade attachment are considered to be part of the supply of the tractor.
+
+44. When accessories are not sold together with zero-rated equipment, such accessories will not be treated as part of the zero-rated equipment, and will be taxable in the normal manner. For example, an air conditioner installed on a customer-owned tractor would be taxable.
+
+## Schedule – Agricultural and Fishing Property (GST/HST) Regulations
+
+### Property related to agriculture
+
+s 1 of the schedule to the Regulations
+
+The prescribed agricultural supplies listed in the schedule to the Regulations are as follows:
+
+#### Equipment
+
+ss 1(1) of the schedule
+
+(1) equipment:
+
+Tractors
+
+(a) tractors designed for farm use that have a rating of at least 44.74 kW at power takeoff (60 PTO h.p.);
+
+Harvesting equipment
+
+(b) harvesting equipment:
+
+(i) self-propelled or pull-type combines;
+
+(ii) self-propelled or pull-type swathers;
+
+(iii) self-propelled or pull-type wind-rowers;
+
+(iv) headers for combines, forage harvesters, swathers or wind-rowers;
+
+(v) combine or forage harvester pickups;
+
+(vi) forage harvesters;
+
+(vii) self-propelled, tractor-mounted or pull-type mechanical fruit or vegetable pickers or harvesters.
+
+Tillage equipment
+
+(c) tillage equipment:
+
+(i) mouldboard plows with three furrows or more;
+
+(ii) disc plows with three furrows or more;
+
+(iii) chisel plows with an operational width of at least 2.44 m (8 feet);
+
+(iv) subsoil chisels with an operational width of at least 2.44 m (8 feet);
+
+(v) discers with an operational width of at least 2.44 m (8 feet);
+
+(vi) rod weeders with an operational width of at least 2.44 m (8 feet);
+
+(vi.1) bean rods with an operational width of at least 2.44 m (8 feet);
+
+(vii) field cultivators with an operational width of at least 2.44 m (8 feet);
+
+(viii) row crop cultivators with an operational width of at least 2.44 m (8 feet);
+
+(ix) combination discer-cultivators with an operational width of at least 2.44 m (8 feet);
+
+(x) rototillers with an operational width of at least 1.83 m (6 feet);
+
+(xi) rotovators with an operational width of at least 1.83 m (6 feet);
+
+(xii) harrows with an operational width of at least 2.44 m (8 feet), when sold in complete units;
+
+Note: Sales of harrows in any other sizes are taxable. For example, a dealer selling two separate 4.5 feet sections is required to collect the tax. However, separate harrow sections are treated as a complete unit when attached together prior to purchase, and are zero-rated provided their total operational width measures at least 2.44 m (8 feet).
+
+(xiii) pulverizers with an operational width of at least 2.44 m (8 feet);
+
+(xiii.1) farm-type land packers with an operational width of at least 2.44 m (8 feet);
+
+(xiv) mulchers with an operational width of at least 2.44 m (8 feet);
+
+(xv) rotary hoes with an operational width of at least 2.44 m (8 feet);
+
+Seeders and planters
+
+(d) seeders and planters:
+
+(i) airflow seeders;
+
+(ii) grain or seed drills with an operational width of at least 2.44 m (8 feet);
+
+(iii) farm-type row-crop or toolbar seeders or planters designed to seed two or more rows at a time;
+
+Haying equipment
+
+(e) haying equipment:
+
+(i) mower-conditioners;
+
+(ii) hay balers;
+
+(iii) hay cubers;
+
+(iv) bale throwers, elevators or conveyors;
+
+(v) hay rakes;
+
+(vi) hay tedders;
+
+(vii) hay conditioners, crushers or crimpers;
+
+(viii) swath turners and wind-row turners;
+
+(ix) silage baggers and round bale wrapping machines;
+
+Grain handling or processing equipment
+
+(f) grain handling or processing equipment:
+
+(i) grain bins or tanks with a capacity of not more than 181 m³ (5,000 bushels);
+
+Note: Bulk feed bins and epoxy-coated bins or tanks (or other bins or tanks that are similarly treated or lined to prevent corrosion caused by the storage of fertilizer but are also promoted as suitable for the storage of grains) are zero-rated provided the volume criterion is met.
+
+(ii) transportable conveyors with belts less than 76.2 cm (30 inches) wide and 0.48 cm (3/16 inch) thick, transportable farm grain augers, transportable utility augers and transportable elevators;
+
+(iii) bin sweeps or cleaners designed for attachment to portable farm grain augers;
+
+(iv) farm tractor-powered pneumatic grain conveyors;
+
+(v) farm-type feed mills including roller mills and hammer mills;
+
+(vi) farm-type feed mixers;
+
+(vii) farm-type feed grinder mixers;
+
+(viii) farm-type tub grinders and other farm-type feed grinders;
+
+(ix) ensilage mixers;
+
+(x) farm-type grain toasters for use in livestock feed production;
+
+(xi) self-propelled feed or ensilage carts;
+
+(xii) grain dryers.
+
+Miscellaneous property
+
+(g) miscellaneous property:
+
+(i) farm-type refrigerated bulk milk coolers;
+
+(ii) mechanical rock or stone pickers;
+
+(iii) forage blowers;
+
+(iv) silo unloaders;
+
+(iv.1) self-propelled, tractor-mounted or pull-type agricultural wagons or trailers designed for
+
+(A) off-road handling and transporting of grain, forage, livestock feed, or fertilizer, and
+
+(B) use at speeds not exceeding 40 km per hour;
+
+Note: A supply of running gear, a component of agricultural wagons or trailers, is taxable when sold separately.
+
+(iv.2) shredders with an operational width of at least 3.66 m (12 feet);
+
+(v) assembled, fully operational milking systems consisting of a receiver group, vacuum supplier, pulsators and related equipment;
+
+(vi) individual components of a milking system that consists of a receiver group, vacuum supplier, pulsators and related equipment, when the components are supplied together unassembled and, once assembled, constitute the fully operational milking system;
+
+(vi.1) assembled and fully operational automated and computerized farm livestock or poultry feeding systems;
+
+(vi.2) individual components of an automated and computerized farm livestock or poultry feeding system, when the components are supplied together unassembled and, once assembled, constitute the fully operational system;
+
+(vii) rock or root rakes and rock or root wind-rowers;
+
+(viii) self-propelled, tractor-mounted, cultivator-mounted or pull-type field sprayers with a total tank capacity of at least 300 L (66 gallons);
+
+Note: The supply of a complete field sprayer kit, including the spray tank, is zero-rated. The supply of an incomplete field sprayer kit (e.g., without a spray tank) or a supply of the components of a field sprayer is taxable.
+
+(viii.1) farm-type granular fertilizer or pesticide applicators with an operational capacity of at least 0.2265 m³ (8 cubic feet);
+
+(ix) liquid, box, tank or flail manure spreaders;
+
+(x) injection systems for liquid manure spreaders;
+
+(xi) leafcutter bees.
+
+#### Feed
+
+Feed for farm livestock, fish, poultry and rabbits
+
+ss 1(2) of the schedule
+
+(2) Feed, when sold in bulk quantities of at least 20 kg (44 lbs.) or in bags that contain at least 20 kg (44 lbs.), that:
+
+(a) is a complete feed, supplement, macro-premix, micro-premix or mineral feed (other than a trace mineral salt feed), all as defined in the *Feeds Regulations, 1983* (made under the *Feeds Act)*;
+
+(b) is labelled in accordance with the *Feeds Regulations, 1983* (made under the *Feeds Act*); and
+
+(c) is designed
+
+(i) for a unique species or class of farm livestock, fish or poultry that are ordinarily raised or kept to produce, or to be used as, food for human consumption or to produce wool, or
+
+(ii) for rabbits.
+
+Feed for ostriches, rheas, emus, or bees ss 1(2.1) of the schedule
+
+(2.1) Feed, when sold in bulk quantities of at least 20 kg (44 lbs.) or in bags that contain at least 20 kg (44 lbs.), that is designed for ostriches, rheas, emus or bees.
+
+#### By-products
+
+ss 1(3) of the schedule
+
+(3) By-products of the food processing industry and plant or animal products, when sold in bulk quantities of at least 20 kg (44 lbs.) or in bags that contain at least 20 kg (44 lbs.), that are ordinarily used as feed, or as ingredients in feed, for farm livestock, fish or poultry described in subparagraph (2)(c)*i*) or for rabbits, ostriches, rheas, emus or bees.
+
+#### Pesticides
+
+ss 1(4) of the schedule
+
+(4) Pesticides labelled in accordance with the *Pest Control Products Regulations* (made under the *Pest Control Products Act)* as having a purpose that includes agricultural use and a product class designation other than "Domestic".
+
+#### Quotas
+
+ss 1(5) of the schedule
+
+(5) Quota authorized by a government agency or marketing board in respect of an agricultural product the supply of which is included in section 1 of Part III or in section 1, 2, 3, 4, or 7 of Part IV of Schedule VI.
+
+### Property related to fishing
+
+s 2 of the schedule to the Regulations
+
+The prescribed supplies of property related to fishing, as listed in the schedule to the Regulations, are as follows:
+
+Fishing vessels
+
+ss 2(1) of the schedule
+
+(1) any fishing vessel that is supplied to a person by way of sale in Canada, or by way of sale outside Canada and imported by the person, for use by the person in commercial fishing, where the following is provided, in the case of a supply in Canada, to the supplier at the time of sale, or, in the case of importation, to the Canada Customs office from which the vessel is released at the time of accounting for the vessel in accordance with section 32 of the *Customs Act*:
+
+1. the registration number assigned to the person under section 241 of the *Excise Tax Act*;
+
+2. a declaration signed by the person that the person intends to use the vessel in commercial fishing;
+
+3. the number of a commercial fishing licence of the person, namely;
+
+    1. in the case of commercial fishing on the Pacific coast of Canada, a licence that was issued to the person, or that was issued in respect of the vessel, by the Department of Fisheries and Oceans and that is not a Category D, P, or Z licence;
+
+    2. in the case of commercial fishing on the Atlantic coast of Canada, a licence that was issued to the person by the Department of Fisheries and Oceans and that is not a licence to harvest marine plants or to fish for mussels, oysters, shark, smelt or squid;
+
+    3. in the case of inland fishery, a commercial fishing licence that was issued to the person by the government of the province; and
+
+    4. in the case of commercial fishing in the Yukon Territory or the Northwest Territories, any commercial fishing licence that was issued to the person by the Department of Fisheries and Oceans; and
+
+4. in the case of commercial fishing on the Atlantic coast of Canada, the number set out in the registration card issued in respect of the vessel by the Department of Fisheries and Oceans.
+
+Although any person may purchase most of the fishing-related items listed in the Regulations on a zero-rated basis, there are special requirements for purchasers of fishing vessels. Subsection 2(1) of the Regulations stipulates that the purchase of a fishing vessel or importation of a purchased fishing vessel is zero-rated only when the vessel is for use by the person in commercial fishing. Fishing vessels acquired for recreational use are taxable.
+
+The sale of a fishing vessel will be zero-rated when the purchaser provides to the vendor at the time of sale, or, in the case of an importation, to the Canada Customs office from which the vessel is released at the time of accounting for the vessel, the information specified in the Regulations. This information includes the person's GST/HST registration number, a declaration signed by the person that the vessel will be used in commercial fishing and the number of the person's commercial fishing licence and/or registration card issued by the Department of Fisheries and Oceans or a provincial government.
+
+Fishing nets and related items
+
+(2) fishing nets and related items:
+
+ss 2(2) of the schedule
+
+1. gill-nets, webbing for gill-nets, leadline for gill-nets, corkline (top rope) for gill-nets and floats for gill-nets;
+
+2. seines, webbing for seines, leadlines for seines, corkline (top rope) for seines and floats for seines;
+
+3. trawl-nets, webbing for trawl-nets, leadlines for trawl-nets and corkline (top rope) for trawl-nets (Note: The supply of floats for trawl nets is taxable.);
+
+4. gill-net drums, seine drums, trawl-net drums and long-line drums;
+
+5. entrapment webbing and predator webbing;
+
+6. trawl-net doors;
+
+Other equipment
+
+ss 2(3) of the schedule
+
+(3) other equipment:
+
+1. automatic baiters;
+
+2. automatic jiggers;
+
+3. mechanical net washers;
+
+4. automatic netpen feeders;
+
+5. manufactured netpens for use in aquaculture;
+
+6. pescalators.
+
+## Appendix – Seeds
+
+### Table 1 – Seeds ordinarily used as or to produce food for human consumption or feed for farm livestock or poultry
+
+Agricultural seeds
+
+- alfalfa
+
+- barley
+
+- bean, field
+
+- bean, horse, tick and faba
+
+- bean, mung
+
+- beet, field
+
+- bromegrass, meadow
+
+- bromegrass, smooth
+
+- bromegrass, sweet
+
+- buckwheat, common
+
+- buckwheat, tartarian
+
+- canarygrass, reed
+
+- chickpea
+
+- clover, alsike
+
+- clover, red
+
+- clover, white
+
+- corn, field
+
+- corn, pop
+
+- corn, sweet
+
+- cowpea
+
+- fescue, meadow
+
+- fescue, tall
+
+- foxtail, creeping
+
+- foxtail, meadow
+
+- lentil
+
+- lupine, field
+
+- medick, black
+
+- millet, foxtail
+
+- millet, pearl
+
+- mustard, black
+
+- mustard, white
+
+- oats
+
+- oatgrass, tall
+
+- orchardgrass
+
+- pea, field
+
+- peanut
+
+- rapeseed, canola
+
+- rape, forage
+
+- rye
+
+- ryegrass, annual
+
+- safflower
+
+- sainfoin
+
+- sorghum
+
+- soybean
+
+- sundangrass
+
+- sunflower
+
+- timothy, common
+
+- trefoil, bird's-foot
+
+- triticale
+
+- vetch, crown
+
+- vetch, milk
+
+- wheat, common
+
+- wheat, durum
+
+- wheatgrass, beardless
+
+- wheatgrass, crested
+
+- wheatgrass, intermediate
+
+- wheatgrass, northern
+
+- wheatgrass, pubescent
+
+- wheatgrass, Siberian
+
+- wheatgrass, slender
+
+- wheatgrass, streambank
+
+- wheatgrass, tall
+
+- wheatgrass, western
+
+- wildrye, Altai
+
+- wildrye, Russian
+
+Vegetable seeds
+
+- artichoke
+
+- asparagus
+
+- basil
+
+- bean, garden
+
+- bean, lima
+
+- bean, runner
+
+- beet, sugar
+
+- broccoli
+
+- Brussels sprouts
+
+- cabbage
+
+- cabbage, Chinese
+
+- cantaloupe
+
+- carrot
+
+- cauliflower
+
+- celery
+
+- chard, Swiss
+
+- chicory
+
+- chives
+
+- citron
+
+- collards
+
+- coriander
+
+- cress, garden
+
+- cress, water
+
+- cucumber
+
+- dill
+
+- eggplant
+
+- endive
+
+- fennel
+
+- kale
+
+- kale, Chinese
+
+- kohlrabi
+
+- leek
+
+- lettuce
+
+- mustard
+
+- okra
+
+- onion
+
+- parsley
+
+- parsnip
+
+- pea
+
+- pepper
+
+- potato
+
+- pumpkin
+
+- radish
+
+- rhubarb
+
+- rosemary
+
+- rutabaga
+
+- sorrel
+
+- spinach
+
+- squash
+
+- thyme
+
+- tomato
+
+- turnip
+
+- watermelon
+
+### Table 2 – Seeds not ordinarily used as or to produce food for human consumption or feed for farm livestock or poultry
+
+Lawn seed
+
+- bentgrass
+
+- bluegrass, Canada
+
+- bluegrass, Kentucky
+
+- fescue, Chewing's
+
+- fescue, fine-leaved
+
+- fescue, hard
+
+- fescue, red and creeping red
+
+- fescue, sheep
+
+- redtop
+
+- ryegrass, perennial
+
+- timothy, dwarf
+
+Other seed
+
+- all flower seeds
+
+- canarygrass
+
+- tobacco
+
+### Table 3 – As listed in the tables of the Seeds Regulations
+
+Zero-rated seeds
+
+Seeds graded under the following tables of the *Seeds Regulation*s would ordinarily be used as or to produce food for human consumption or feed for farm livestock or poultry:
+
+- Table I
+
+- Table II
+
+- Table III
+
+- Table IV (all except (a) canarygrass and (b) flax [Footnote1](#fn1), oil and fibre)
+
+- Table V
+
+- Table VI
+
+- Table VII
+
+- Table VIII
+
+- Table IX (all except timothy – dwarf)
+
+- Table X
+
+- Table XI (all except turf type varieties)
+
+- Table XIII
+
+- Table XVI
+
+- Table XVII
+
+- Table XVIII
+
+- Table XIX
+
+- Table XX
+
+- Table XXI
+
+- Taxable seeds
+
+Seeds graded under the following tables of the *Seeds Act* would not ordinarily be used as or to produce food for human consumption or feed for farm livestock and poultry:
+
+- Table XII
+
+- Table XIV
+
+- Table XV
+
+## Enquiries
+
+If you wish to make a **technical enquiry** on the GST/HST by telephone, please call one of the following toll-free numbers:
+
+1-800-959-8287 (English service) 1-800-959-8296 (French service)
+
+**General enquiries** about the GST/HST should be directed to Business Enquiries at one of the following toll-free numbers:
+
+1-800-959-5525 (English service) 1-800-959-7775 (French service)
+
+If you are in Québec, please call the following toll-free number:
+
+1-800-567-4692 (Revenu Québec)
+
+All of the memoranda in the GST/HST Memoranda Series are available on the CRA Web site at [www.cra-arc.gc.ca/tax/technical/gsthst-e.html](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).

@@ -1,0 +1,273 @@
+---
+title: "Les Productions du Grand Bambou Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/235166/index.do"
+last_modified: "2017-08-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 161"
+citation2: ""
+neutral_citation: "2017 CCI 161"
+decision_date: "2017-08-29"
+language: "fr"
+item_id: "235166"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2203
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:24:23.629000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5c462a1e2d9d3a55dc235ba75320c543b7b151cd3d00a1d9a729c83bac7f4921"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Les Productions du Grand Bambou Inc. c. M.R.N.
+
+- Citation: 2017 CCI 161
+- Decision date: 2017-08-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2203, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Productions du Grand Bambou Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-08-29
+Référence neutre
+2017 CCI 161
+Numéro de dossier
+2015-5465(EI), 2015-5466(EI)
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2015-5465(EI),
+2015-5466(EI)
+ENTRE :
+LES PRODUCTIONS DU GRAND BAMBOU INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appels entendus sur preuve commune les 11 et 12 mai 2017, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocate de l'appelante :
+Me Andréa Gattuso
+Avocat de l'intimé :
+Me Alain Gareau
+JUGEMENT
+Les appels à l’encontre des décisions du ministre du Revenu National du 17 septembre 2015 à l’effet que (1) les travailleurs François Blouin, Mathieu Breton, Xavier Berthiaume, Michel Bacon et Benoit Bellehumeur occupaient des emplois assurables auprès de l’appelante pour la période du 1er janvier 2014 au 18 juin 2015 et que (2) le travailleur Auguste Peterson occupait un emploi assurable auprès de l’appelante pour la période du 23 mai au 31 août 2014, sont rejetés. Par conséquent, les emplois des travailleurs ci-haut mentionnés sont des emplois inclus dans les emplois assurables au cours des périodes en litige respectives en vertu de l’alinéa 6g) du Règlement sur l’assurance-emploi conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 29e jour d’août 2017.
+“Réal Favreau”
+Juge Favreau
+Référence : 2017CCI161
+Date : 20170829
+Dossiers : 2015-5465(EI),
+2015-5466(EI)
+ENTRE :
+LES PRODUCTIONS DU GRAND BAMBOU INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit ici de deux appels entendus sur preuve commune, à l’encontre de décisions rendues le 17 septembre 2015 par le ministre du Revenu national (le « ministre ») à l’effet que (1) les travailleurs François Blouin, Mathieu Breton, Xavier Berthiaume, Michel Bacon et Benoit Bellehumeur occupaient des emploi assurables du 1er janvier 2014 au 18 juin 2015 et que (2) le travailleur Auguste Peterson occupait un emploi assurable auprès de l’appelante pour la période du 23 mai au 31 août 2014. Les travailleurs François Blouin, Mathieu Breton, Xavier Berthiaume, Michel Bacon, Benoit Bellehumeur et Auguste Peterson sont collectivement désignés comme étant les « travailleurs » et les périodes du 1er janvier 2014 au 18 juin 2015 et du 23 mai au 31 août 2014 sont collectivement désignées comme étant « la période en litige ».
+[2] L’intimé soutient que les emplois des travailleurs étaient des emplois inclus dans les emplois assurables en vertu de l’alinéa 6g) du Règlement sur l’assurance-emploi, DORS/96-332 (ci-après le « Règlement ») puisque l’appelante agissait alors à titre d’agence de placement et que les travailleurs étaient appelés à fournir des services auprès des clients de cette agence de placement sous la direction et le contrôle des clients de l’appelante, tout en étant rémunérés par l’appelante.
+[3] L’appelante soutient que les travailleurs fournissaient leurs services en tant qu’entrepreneurs indépendants.
+Historique des dossiers
+[4] Le travailleur Auguste Peterson a présenté une demande de prestation d’assurance-emploi à Service Canada. Service Canada a alors demandé à l’Agence du Revenu du Canada (« l’ARC ») de rendre une décision sur la question de savoir si le travailleur avait exercé un emploi assurable auprès de l’appelante durant la période du 23 mai au 31 août 2014.
+[5] Par des lettres datées du 16 février 2015, l’ARC a avisé Service Canada, le travailleur et l’appelante de sa décision selon laquelle l’emploi du travailleur pour l’appelante était assurable durant ladite période en vertu de l’alinéa 5(1)d ) de la Loi sur l’assurance emploi L.C. 1996, ch. 23 telle que modifiée (ci-après la « Loi ») puisque les conditions de l’alinéa 6g) du Règlement étaient rencontrées.
+[6] L’appelante a porté la décision de l’ARC en appel devant l’intimé qui a, par des lettres en date du 17 septembre 2015, confirmé la décision de l’ARC.
+[7] Les travailleurs François Blouin, Mathieu Breton, Xavier Berthiaume, Michel Bacon et Benoit Bellehumeur ont été sélectionnés dans le cadre d’un examen effectué par la Section de l’examen des comptes de fiducie de l’ARC qui a demandé à la Division des décisions au RPC/AE de l’ARC de rendre une décision sur la question de savoir si ces travailleurs avaient exercé des emplois assurables auprès de l’appelante durant la période du 1er janvier 2014 au 18 juin 2015.
+[8] Par des lettres datées du 19 juin 2015, l’ARC a avisé Service Canada, les travailleurs et l’appelante de ses décisions selon lesquelles les emplois des travailleurs pour l’appelante étaient assurables durant ladite période en vertu de l’alinéa 5(1)d) de la Loi puisque les conditions de l’alinéa 6g) du Règlement étaient rencontrées.
+[9] L’appelante a porté la décision de l’ARC en appel devant l’intimé qui a, par des lettres en date du 17 septembre 2015, confirmé les décisions de l’ARC.
+Les présomptions de faits
+[10] Les présomptions de faits dans le dossier des travailleurs François Blouin, Mathieu Breton, Xavier Berthiaume, Michel Bacon et Benoit Bellehumeur dont l’intimé a tenu pour acquis sont les suivantes :
+(a) l’appelante est une identité incorporée;
+(b) l’appelante est aussi connu sous le nom Les Éditions Bavard;
+(c) l’actionnaire unique de l’appelante est Monsieur Yves Savard;
+(d) l’appelante opère une agence de spectacles et d’artiste [sic];
+(e) les travailleurs ont été engagés par l’appelante sous des ententes conclues dans la province de Québec;
+(f) les travailleurs ont été engagés comme techniciens;
+(g) le rôle de l’appelante a été de fournir la main-d’œuvre technique, tel que des techniciens de scènes, de son, de lumières ou de vidéo, à ses clients (ci-après, les « clients »);
+(h) l’appelante a facturé ses clients pour les services rendue [sic] par les travailleurs, soit :
+(i) un montant forfaitaire; ou,
+(ii) pour les heures travaillées à un taux horaire entre 21$ et 24$ en 2014;
+(iii) pour les heures travaillées à un taux horaire entre 22,50 $ et 28,50 $ en 2015;
+(i) l’appelante a rémunéré les travailleurs pour les services qu’ils ont rendus chez les clients à un taux forfaitaire ou à un taux horaire entre 16$ et 18$;
+(j) l’appelante a déterminé le taux forfaitaire et taux horaire des travailleurs;
+(k) durant la période en litige, l’appelante a fourni des techniciens qualifiés, incluant les travailleurs, à ses clients;
+(l) les services des travailleurs ont été offerts en support des services des équipes techniques des clients;
+(m) les travailleurs ont exécuté leurs services selon les besoins des clients;
+(n) les travailleurs ont travaillé sous la supervision des clients par l’entremise de chefs, directeurs technique [sic] , régisseurs ou producteurs de spectacle;
+(o) les clients ont assigné le lieu de travail et la liste de tâches à faire aux travailleurs;
+(p) à l’exception des outils normalement fournis par des employés dans l’industrie, le matériel et l’équipement ont été fournis par les clients;
+(q) les travailleurs ont dû accomplir leurs tâches personnellement et n’ont pas pu donner leur travail en sous-traitance;
+(r) l’appelante a rémunéré les travailleurs pour leurs services par chèques; et,
+(s) l’appelante a rémunéré les travailleurs sur une base hebdomadaire.
+[11] Les présomptions de faits dans le dossier du travailleur Auguste Peterson dont l’intimé a tenu pour acquis sont les mêmes présomptions de faits que celles énoncées au paragraphe précédent sauf pour ce qui est des paragraphes (f), (h), (i) et (j) qui se lisent comme suit :
+(f) le travailleur a été engagé comme technicien de son;
+(h) l’appelante a facturé ses clients pour les services rendue [sic] par le travailleur, soit :
+(i) un montant forfaitaire; ou,
+(ii) pour les heures travaillées à un taux horaire entre 12$ et 24$;
+(i) l’appelante a rémunéré le travailleur pour les services qu’il a rendus chez les clients à un taux horaire de 17 $;
+(j) l’appelante a déterminé le tarif horaire du travailleur;
+La question en litige
+[12] La question en litige n’est pas de déterminer si les travailleurs étaient des employés ou des travailleurs autonomes mais plutôt de déterminer si l’appelante était une agence de placement au cours de la période en litige et si l’appelante avait l’obligation d’effectuer les déductions à la source à l’égard de la rémunération versée aux travailleurs.
+Les témoignages
+[13] Monsieur Yves Savard, président et détenteur de 100% des actions votantes de l’appelante, a témoigné à l’audience. Il a expliqué que l’appelante est en opération depuis 1979 et qu’elle offre des services pour la production de spectacles et d’évènements, soit la fourniture de techniciens de scène, de son, d’éclairage, d’enregistrement vidéo, de machinistes du cintre, etc. L’appelante assure de plus la direction technique pour l’Équipe Spectra Inc.
+[14] L’appelante compte deux employés, soit monsieur Savard et une adjointe administrative. L’appelante maintient une banque de noms de techniciens de scène qu’elle utilise lorsque des clients ont besoin de main-d’œuvre.
+[15] Le recrutement des techniciens se fait de bouche-à-oreille. Les aspirants soumettent leur curriculum vitae à monsieur Savard, qui fixe par la suite des rencontres avec les aspirants pour vérifier les compétences et les réalisations de chacun. Une entente de services est conclue avec les techniciens dans la très grande majorité des cas. L’appelante ne garantit pas le nombre d’heures de travail.
+[16] À titre d’exemple, monsieur Savard a mis en preuve l’entente de services conclue en date du 11 juin 2015 avec François Blouin qui s’est déclaré être un entrepreneur indépendant. Les services offerts par le technicien ne sont pas exclusifs et la durée de l’entente est pour une période indéfinie. La rémunération du technicien pour ses services est basée sur un tarif horaire préétabli et/ou selon un tarif forfaitaire fixé par l’appelante. Le taux horaire n’est pas mentionné à l’entente parce qu’il varie selon les tarifs des salles de spectacle. Le technicien s’engage à transmettre une facture pour les services rendus à l’appelante, lesquels services sont des fournitures taxables aux fins de la taxe sur les produits et services et de la taxe de vente du Québec. L’appelante peut résilier l’entente en tout temps sans motif, auquel cas le technicien est uniquement en droit de réclamer le paiement des honoraires dus pour les services rendus préalablement à ladite résiliation.
+[17] La liste de techniciens disponibles est mise à jour quotidiennement par l’appelante suite aux appels des techniciens vers 11:00 qui doivent fournir leur disponibilité pour le lendemain. Si l’appelante a des demandes pour des services de techniciens, elle les appelle pour s’assurer de leur disponibilité et pour leur indiquer l’heure et l’endroit où ils doivent se présenter. Le tarif horaire versé aux techniciens leur est alors communiqué. En 2014, le tarif horaire s’établissait entre 16 $ à 18 $ de l’heure.
+[18] À leur arrivée à l’endroit et à l’heure indiqués par l’appelante, les techniciens reçoivent une fiche technique de la part du diffuseur montrant le plan de la salle, l’emplacement des instruments de musique, les décors et l’arrangement des cintres, l’emplacement exact des lampes d’éclairage et de la console de son et des enceintes de son. Selon monsieur Savard, la partie de la fiche technique qui concerne l’éclairage est parfois remise aux éclairagistes la journée précédant l’installation générale des équipements.
+[19] Monsieur Savard n’est pas présent sur le lieu de travail mais il remet à un des techniciens la liste des noms des techniciens qui doivent être présents sur le lieu de travail. Si un technicien ne se présente pas au travail à l’heure convenue, le représentant du diffuseur appelle monsieur Savard pour qu’il règle le problème ou pour qu’il trouve un autre technicien. C’est la responsabilité du représentant du diffuseur de s’assurer que tous les équipements fonctionnent bien. Si un problème survient, les techniciens doivent le résoudre. Monsieur Savard donne les instructions appropriées aux techniciens dont l’appelante fournit les services mais il n’y a aucune supervision par l’appelante ou par monsieur Savard du travail effectué par les techniciens et aucune évaluation n’est faite de la qualité du travail effectué par les techniciens. Par contre, il arrive parfois, qu’un diffuseur demande l’exclusion ou le remplacement de certains techniciens sur un lieu de travail. L’appelante ne garantit pas la qualité du travail effectué par les techniciens dont elle fournit les services.
+[20] Le diffuseur remet aux techniciens, à leur arrivée sur le lieu de travail, l’horaire de leur journée de travail. Un minimum de quatre heures de travail par appel est la norme de l’industrie mais n’est pas une exigence règlementaire. Les techniciens fournissent leurs propres petits outils dont ils peuvent avoir besoin pour l’installation des équipements qu’ils opèrent. Dans le cas d’un bris d’équipement causé par un technicien, ce dernier doit assumer le coût de la réparation. Le port d’un uniforme n’est pas requis de la part des techniciens sauf le port de vêtements noirs sur scène.
+[21] Une fois le travail terminé, les techniciens présentent leur facture respective à l’appelante en y indiquant la date et le numéro de la facture, le nom du client à qui les services ont été rendus, les dates travaillées, la nature des services rendus, le nombre d’heures travaillées par jour, le tarif horaire, les honoraires par jour travaillé, le montant total des honoraires et les taxes, s’il y a lieu, en plus des numéros de taxes. Selon monsieur Savard, les honoraires gagnés par l’appelante pour les services fournis par les techniciens représentent moins de 50% des revenus totaux de l’appelante.
+[22] L’appelante paye le montant des honoraires par chèque une fois par semaine, les jeudis. Les chèques sont remis à la billetterie Astral ou sont envoyés par la poste. Les chèques sont préparés par l’adjointe administrative de l’appelante et sont signés par monsieur Savard ou par sa conjointe, sans déduction à la source pour les impôts, les cotisations au Régime des rentes du Québec et à l’assurance-emploi du Canada.
+[23] À la fin de l’année, l’appelante émet des feuillets T4A à tous les techniciens qui ont été payés par l’appelante au cours de l’année.
+[24] Lors de son témoignage, monsieur Savard a également expliqué, qu’en plus de ses activités de placement de main-d’œuvre, l’appelante agissait à titre de consultant pour la gérance technique d’évènements et de spectacles. Cette activité peut englober la préparation d’une estimation budgétaire pour un évènement, la détermination des équipements nécessaires pour réaliser l’évènement, lesquels peuvent être loués par l’appelante ou par le diffuseur, et la détermination du nombre de techniciens dont les services sont nécessaires pour la tenue de l’évènement.
+[25] Les services de consultation de l’appelante sont fournis par monsieur Savard lui-même qui compte plus de 35 ans d’expérience dans le domaine de l’organisation d’évènements et de spectacles.
+[26] Les principaux clients de l’appelante pour les services de consultation sont l’Équipe Spectra Inc. et le Groupe Evenko. Monsieur Savard a mis en preuve le rapport détaillé des factures d’honoraires payées par l’Équipe Spectra Inc. à l’appelante du 15 avril 2008 au 17 mars 2017 dont le montant s’est élevé à 446 087,54$, excluant les taxes. Les paiements de l’Équipe Spectra Inc. sont effectués sur une base de disponibilité (« retainer » en anglais) généralement aux trois mois qui comprennent le coût des services de monsieur Savard et une majoration des honoraires payés pour les services des techniciens. Pour le Groupe Evenko, l’appelante émet une facture par évènement selon l’estimation budgétaire avec ajustements pour les impondérables.
+[27] Monsieur Savard a également mis en preuve une facture datée du 9 janvier 2017 de Solotech Inc. pour la location d’équipements et un bon de commande de la direction corporative de l’approvisionnement de Loto Québec daté du 25 juillet 2014, pour la fourniture de services techniques et de gestion de scène pour le Casino de Montréal pour la période du 1er septembre 2014 au 31 août 2016.
+[28] En contre-interrogatoire, monsieur Savard a expliqué qu’un des techniciens envoyés sur un lieu de travail avait la liste des techniciens qui devraient être sur place et prenait les présences des techniciens. L’appelante pouvait aussi vérifier auprès du producteur les heures travaillées par les techniciens.
+[29] Deux travailleurs, soit Michel Bacon, un cintrier, et Xavier Berthiaume, un technicien de son et un sonorisateur, ont témoigné à l’audience.
+[30] Monsieur Bacon a expliqué ce en quoi consistait le travail d’un cintrier, soit l’installation des équipements sur les perches et la manipulation des perches pendant le spectacle. Il a fourni un exemple de feuille de production prévoyant l’installation de 32 perches pour un spectacle au théâtre St-Denis. Il a également déposé l’entente de services qu’il a conclue avec l’appelante en 2015, un exemple de facture à l’appelante datée du 17 avril 2017 (honoraires + taxes) et tous ses relevés, revenus d’emploi et revenus divers, pour les années d’imposition 2014 et 2015, qui furent annexés à ses déclarations de revenus du Québec. Monsieur Bacon a expliqué qu’il fournissait des services à plusieurs compagnies et qu’il était toujours considéré comme travailleur autonome lorsqu’il travaillait avec l’appelante. Il a toutefois admis que, parfois il travaillait comme cintrier en tant qu’employé pour d’autres organisations. Enfin, il a expliqué que s’il devait s’absenter d’un lieu de travail, il devait alors trouver un remplaçant. Lorsque cette situation s’est présentée, il a tout de même facturé l’appelante pour ses services et il a payé son remplaçant. Il a réclamé une déduction dans le calcul de son revenu pour les honoraires versés à son remplaçant.
+[31] Monsieur Berthiaume a lui aussi déposé son entente de services avec l’appelante en date de 2013 et il a produit un état de ses revenus et dépenses pour l’année 2014 qui démontre qu’il a agi comme employé lorsqu’il a travaillé pour des théâtres ou pour des salles de spectacles et comme travailleur autonome lorsqu’il a travaillé pour l’appelante. Il a également expliqué que s’il ne peut exécuter un mandat obtenu de l’appelante, il doit alors trouver un remplaçant qu’il paye lui-même sauf si ce remplaçant provient de la liste de techniciens de l’appelante, auquel cas le remplaçant est payé directement par l’appelante.
+[32] Monsieur Michaël Frascadore de L’équipe Spectra Inc. a témoigné à l’audience à la demande de l’appelante. Il est actuellement vice-président à la production. L’équipe Spectra Inc. organise notamment Le Festival international de jazz de Montréal, les Francopholies de Montréal et Montréal en lumière, ce qui représente plus de 600 représentations par année. L’Équipe Spectra Inc. offre des services de consultation (préparation de plans de scène, d’horaires de production et de liste d’équipements, services de direction à la production et de direction technique et fournitures de techniciens de scène). Il fait affaires avec l’appelante depuis environ huit ans.
+[33] Monsieur Frascadore a expliqué que L’équipe Spectra Inc. a une entente verbale avec l’appelante, laquelle n’est pas exclusive. Les principaux compétiteurs de l’appelante sont Les Productions Pros-Spec, Cubix et Jardin à Cour. Selon lui, l’appelante est spécialisée dans la sous-traitance et il fait surtout appel à l’appelante pour compléter les équipes de base car le Festival international de jazz de Montréal, les Francopholies de Montréal et Montréal en lumière ont leurs propres équipes et leurs propres employés.
+[34] Lorsqu’il désire faire appel aux services de l’appelante, il demande à l’appelante de présenter une soumission. La soumission est alors examinée; les parties s’entendent sur les services à rendre et les parties négocient le coût des services. Lorsqu’il y a entente, cette dernière est verbale et aucun contrat n’est signé. Après la fourniture des services par l’appelante, cette dernière facture L’équipe Spectra Inc. par poste budgétaire. Des exemples de factures datées au cours de la période en litige ont été mis en preuve sous la cote I-1 et le principal poste budgétaire de ces factures est pour la main-d’œuvre technique.
+[35] Monsieur Frescadore a également expliqué que l’appelante avait toujours un représentant sur les lieux du travail qui doit s’assurer de la présence des techniciens sur place et tenir compte des heures travaillées par ces derniers.
+[36] Monsieur Martin Perreault de Solotech Inc. a témoigné à l’audience à la demande de l’intimé. Solotech Inc. a pour principale activité la vente et la location d’équipements pour des spectacles, y compris la main-d’œuvre pour l’installation, le démontage et l’opération des équipements sur scène. Il s’agit d’un service clés en main.
+[37] Monsieur Perreault a indiqué que Solotech Inc. n’est pas un compétiteur de l’appelante parce que les services offerts par les deux entreprises sont différents. En 2014 et 2015, Solotech Inc. faisait appel aux services de l’appelante pour de la main-d’œuvre occasionnelle. Pour Solotech Inc., l’appelante est uniquement un fournisseur de main-d’œuvre.
+[38] En 2014, Solotech Inc. comptait 450 employés dont une cinquantaine de techniciens de scène. Solotech Inc. privilégie ses salariés avant de faire appel aux pigistes. Solotech Inc. ne fournit pas de garantie à ses techniciens quant au nombre d’heures de travail mais elle leur assure une formation continue et un niveau de qualification plus élevé, ce qui a pour effet d’améliorer leur qualité de travail et d’assurer une plus grande mobilité dans leurs affectations à l’extérieur du Québec et même à l’extérieur du Canada.
+[39] Monsieur Perreault a expliqué que, sur les lieux de travail des techniciens, il y avait toujours un chef d’équipe ou un chargé de projet pour faire la liaison entre le producteur et les techniciens pour s’assurer que le plan technique est suivi à la lettre. Le chef d’équipe est habituellement un représentant de Solotech Inc. ou un technicien envers qui Solotech Inc. a le plus confiance.
+[40] La dernière personne à avoir témoigné est monsieur Arona Mbaye, un agent d’appel de l’ARC. Son rapport sur appel a été déposé en preuve. Monsieur Mbaye a expliqué qu’il avait réalisé des entrevues téléphoniques avec monsieur Yves Savard, les travailleurs sauf Benoit Bellehumeur, deux représentants de l’Équipe Spectra Inc. et un représentant de Solotech Inc. Inc. et qu’il avait consulté les documents suivants :
+a) le rapport de l’agent des décisions;
+b) les renseignements tirés des systèmes de l’ARC :
+i) les renseignements sur le payeur; et
+ii) les renseignements sur le travailleur Peterson;
+c) les renseignements du registraire des entreprises;
+d) les documents reçus de la division des décisions concernant le travailleur Peterson et les autres travailleurs liés au dossier;
+e) les documents reçus de la section des comptes de fiducie, soit :
+i) une copie non signée d’un exemple d’entente de service; et
+ii) les réponses d’Yves Savard au questionnaire de l’agent des décisions;
+f) les cinq ententes de services reçues du payeur qui ont été conclues avec les travailleurs, sauf celle avec le travailleur Peterson;
+g) les documents reçus de l’Équipe Spectra Inc., soit :
+i) des factures du payeur;
+ii) des feuilles de temps des techniciens; et
+iii) deux permis d’occupation accordés au payeur pour le stationnement de véhicules commerciaux; et
+h) des factures de Solotech Inc. pour les mois de juin, juillet, août et octobre 2014 pour le nombre d’heures travaillées par les techniciens référés par l’appelante.
+[41] Il ressort du rapport sur appel et du témoignage de monsieur Mbaye que :
+a) plusieurs travailleurs ont le double statut fiscal, soit de travailleur autonome et d’employé, tout dépendant de l’entité à qui ils rendent des services;
+b) l’appelante a émis en 2014, quatre feuillets T4 et 249 feuillets T4A. Pour 2014 et 2015, environ 300 travailleurs ont reçu de l’appelante des feuillets T4A;
+c) les travailleurs contactés par l’ARC (monsieur Benoit Bellehumeur ayant eu une entrevue non pas avec monsieur Mbaye mais plutôt avec un autre agent de l’ARC) constituent un échantillonnage représentatif des 300 travailleurs affectés par les décisions de l’ARC;
+d) les six travailleurs ont déclaré avoir l’intention d’être des travailleurs autonomes dans l’exercice de leurs fonctions auprès des clients de l’appelante;
+e) les deux principaux clients de l’appelante, soit l’Équipe Spectra Inc. et Solotech Inc., ont fourni essentiellement les mêmes réponses et ont décrit le même mode de fonctionnement dans leurs relations avec l’appelante;
+f) l’agent des appels a conclu que l’appelante agissait comme une agence de placement considérant la nature tripartite des relations entre les trois parties en cause : l’appelante, les clients et les travailleurs. Les travailleurs ont été appelés par l’appelante à fournir des services à des clients de l’appelante, sous la supervision et le contrôle de ces clients, mais tout en étant rétribués par l’appelante;
+g) Monsieur Mbaye n’a pas tenu compte dans son étude des services de consultation fournis par l’appelante à certains clients.
+Dispositions législative et règlementaires
+[42] Les dispositions de la Loi et du Règlement qui sont pertinentes aux fins du présent litige sont les alinéas 5(1)d ) et 5(4)c) de la Loi et l’alinéa 6g) du Règlement. Ces dispositions se lisent comme suit :
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+[...]
+d) un emploi prévu par règlement pris en vertu des paragraphes (4) et (5);
+[…]
+(4) La Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements en vue d’inclure dans les emplois assurables :
+[…]
+c) l’emploi qui n’est pas un emploi aux termes d’un contrat de louage de services, s’il paraît évident à la Commission que les modalités des services rendus et la nature du travail exécuté par les personnes exerçant cet emploi sont analogues aux modalités des services rendus et à la nature du travail exécuté par les personnes exerçant un emploi aux termes d’un contrat de louage de services;
+6 Sont inclus dans les emplois assurables, s’ils ne sont pas des emplois exclus conformément aux dispositions du présent règlement, les emplois suivants :
+[…]
+…..g) l’emploi exercé par une personne appelée par une agence de placement à fournir des services à un client de l’agence, sous la direction et le contrôle de ce client, en étant rétribuée par l’agence.
+[43] L’alinéa 6g) du Règlement est une disposition promulguée en vertu des alinéas 5(1)d) et 5(4)c) de la Loi. L’effet de l’alinéa 6g) du Règlement est d’inclure dans les emplois assurables des emplois qui ne le seraient pas autrement parce qu’ils ne sont pas régis par un contrat de louage de services, comme dans le cas des travailleurs autonomes.
+[44] Le terme « emploi » tel qu’utilisé à l’alinéa 6g) du Règlement, désigne un commerce, un métier ou une occupation et non pas seulement un rapport de commettant à préposé (voir à ce sujet la décision Sheridan c. Canada, [1985] A.C.F. no 230 (QL) rendue par les juges Heald, Urie et Stone) et les arrêts suivants de la Cour suprême du Canada : La Reine c. Scheer Ltd, [1974] R.C.S. 1046 et Martin Service Station Ltd. c. M.R.N., [1977] 2 R.C.S. 996).
+[45] L’expression « agence de placement », telle qu’utilisée à l’alinéa 6g) du Règlement, n’est pas définie dans la Loi ni dans le Règlement. Par contre, le Règlement sur le Régime de pensions du Canada, C.R.C. ch. 385 fournit la définition suivante de l’expression « agence de placement » :
+34(1) Lorsqu’une personne est placée par une agence de placement pour la fourniture de services ou dans un emploi auprès d’un client de l’agence, et que les modalités régissant la fourniture des services et le paiement de la rémunération constituent un contrat de louage de services ou y correspondent, la fourniture des services est incluse dans l’emploi ouvrant droit à pension, et l’agence ou le client, quel que soit celui qui verse la rémunération, est réputé être l’employeur de la personne aux fins de la tenue de dossiers, de la production des déclarations, du paiement, de la déduction et du versement des contributions payables, selon la Loi et le présent règlement, par la personne et en son nom.
+(2) Une agence de placement comprend toute personne ou organisme s’occupant de placer des personnes dans des emplois, de fournir les services de personnes ou de trouver des emplois pour des personnes moyennant des honoraires, récompenses ou autres formes de rémunération.
+[46] Étant donné la similitude du contexte qui existe entre l’article 34 du Règlement sur le Régime de pensions du Canada et l’alinéa 6g) du Règlement, certains juges de la Cour canadienne de l’impôt ont appliqué la définition reproduite ci-dessus aux fins de l’alinéa 6g) du Règlement (voir à ce sujet, les décisions rendues par le juge suppléant Weisman dans Carver PA Corporation c. M.R.N., 2013 CCI 125, OLTCPI Inc. c. M.R.N., 2008 CCI 470 et Pro-Pharma Contract Selling Services Inc. c. M.R.N., 2012 CCI 60).
+[47] La Cour d’appel fédérale ne s’est pas définitivement prononcée, à ce jour, sur la définition à donner à l’expression « agence de placement, telle qu’utilisée à l’alinéa 6g) du Règlement. Par contre, la Cour d’appel fédérale a accepté, dans l’affaire OLTCPI Inc. c. Canada, [2010] A.C.F. no 379 (QL), d’analyser le statut de l’appelante aux fins de la Loi et aux fins du Régime de pensions du Canada en fonction de la définition donnée au paragraphe 34(2) du Règlement sur le Régime de pensions du Canada. La Cour d’appel fédérale a conclu que, pour déterminer si une personne est une agence de placement au sens du paragraphe 34(2), il faut se demander si la personne concernée ne fait que fournir du personnel, ou si elle le fait à l’occasion de la fourniture d’un service distinct.
+[48] La décision de la Cour d’appel fédérale est inspirée des propos du juge suppléant Porter de la Cour canadienne de l’impôt dans l’affaire Supreme Tractor Services Ltd., [2001] A.C.I. no 580 (QL) qui a expliqué plus en détail la distinction entre la simple fourniture de personnel et la fourniture d’un service distinct.
+[49] L’analyse des dispositions législatives et règlementaires applicables en l’espèce ci-dessus décrites reprend en substance les propos tenus par mon collègue, le juge Hogan, dans l’affaire Diane Barbeau c. M.R.N, 2015 CCI 131.
+Analyse
+[50] La première question à trancher dans ce litige est une question mixte de fait et de droit, à savoir si l’appelante agissait comme une agence de placement au cours de la période en litige à l’égard des travailleurs? Dans la négative, la question s’arrête là. Dans l’affirmative, il y a lieu de considérer si les travailleurs étaient appelés à fournir des services à des clients de l’appelante, sous la direction et le contrôle de ces clients et si les travailleurs étaient rémunérés par l’appelante.
+[51] Il convient d’abord de souligner que l’expression « agence de placement » est définie dans le Règlement sur le Régime de pensions du Canada comme incluant certaines situations et n’est donc pas exhaustive. De plus, ladite définition n’exige pas que la personne s’occupant de fournir les services de personnes, qui est la situation applicable au présent litige, le fasse sur une base exclusive ou sur quelqu’autre base que ce soit.
+[52] Par conséquent, dès qu’une personne s’occupe de fournir les services de personnes moyennant des honoraires ou autre forme de rémunération, elle agit alors en tant qu’agence de placement.
+[53] La position de l’appelante est à l’effet que la fourniture de main-d’œuvre spécialisée fait partie d’un service plus large offert aux clients de l’appelante. Le service offert par l’appelante comprend la direction technique, la direction de production, la fourniture de main-d’œuvre spécialisée, la location, la réparation et l’achat de matériels.
+[54] L’appelante s’occupe de la direction de production et la direction technique de spectacles et d’évènements; ce qui signifie que le producteur d’un spectacle transmet une fiche technique à l’appelante et suivant l’analyse dudit document, cette dernière veille à ce que les équipements techniques nécessaires en lumière et son (la sonorisation, l’éclairage, la régie et le matériel de scène) soient présents et utilisables pendant le temps requis sur le site du spectacle.
+[55] La fiche technique remise à l’appelante comprend les informations relatives au spectacle (durée du spectacle, nombre de personnes sur scène, instruments, plans de scène, équipements disponibles, fiche signalétique de la salle).
+[56] L’appelante conclut des ententes avec des entreprises afin de louer du matériel et elle négocie et achète du matériel pour certains clients. Elle planifie aussi les coûts techniques quant à la location du matériel et la présence du personnel technique, et ce, afin de respecter l’estimation budgétaire du spectacle. En ce faisant, elle s’engage envers ses clients que le matériel requis soit présent et fonctionnel avant le début du spectacle. Également, en fonction du service offert, l’appelante planifie le nombre de techniciens spécialisés requis pour monter et démonter les scènes des spectacles. Le personnel technique sur place lors d’un spectacle varie sensiblement selon l’importance, l’activité et l’infrastructure du lieu.
+[57] La fourniture de main-d’œuvre spécialisée fait partie d’un service offert aux clients de l’appelante. Ainsi, lorsque les clients choisissent de faire affaires avec l’appelante, ces derniers s’attendent à ce que l’appelante détermine le nombre de techniciens requis afin de rendre lesdits services et que ce nombre de techniciens soit sur les lieux lors du spectacle. Également, les clients de l’appelante s’attendent à ce que les équipements soient montés et démontés adéquatement par les techniciens, et ce, afin que le spectacle ait lieu selon les demandes artistiques de l’artiste.
+[58] Il a aussi été démontré que l’appelante offre un ensemble de services à ses clients, à titre d’exemple, pour les spectacles de Nick Cave & The Bad Seeds, de Diana Krall et pour le Gala annuel de l’ADISQ. L’appelante a coordonné la production avec le producteur du spectacle; c’est-à-dire planifier l’horaire et répondre à certains besoins :
+- coordonner le début du montage en fonction de l’arrivée des camions appartenant à l’artiste;
+- coordonner le démontage du spectacle en fonction de l’heure de la fin du spectacle; et
+- obtenir les permis de stationnement auprès des villes ou des municipalités pour que les camions transportant le matériel nécessaire au spectacle puissent stationner légalement.
+[59] L’appelante offre son service en tant que directrice de production dans le cadre du gala annuel de l’ADISQ. Le représentant de l’appelante, monsieur Yves Savard, assiste à des réunions afin de coordonner la production du spectacle. Ainsi, il planifie avec une équipe de douze personnes la location des équipements, l’horaire de l’événement et la fourniture de personnels techniques. Monsieur Savard offre également son expertise considérant ses trente-cinq ans d’expérience dans le domaine.
+[60] Il ressort de cette description des services offerts par l’appelante que les clients font appel à ses services au niveau de la planification, de la coordination et de la gestion des spectacles et que la fourniture de main-d’œuvre fait partie des services offerts par l’appelante à ses clients.
+[61] Il ne fait pas de doute selon la preuve au dossier que l’appelante offre une gamme de services incluant parfois une solution clés en main avec plusieurs services et d’autres fois un seul service comme la fourniture de main-d’œuvre spécialisée. Chaque cas où un client fait appel à l’appelante dans le cadre d’un évènement ou d’un spectacle est un cas particulier.
+[62] L’intimé a produit en liasse sous la cote I-1, une série de factures de l’appelante portant une date comprise dans la période en litige et adressées à différentes organisations comme les Francofolies de Montréal, le Festival international du jazz de Montréal, à la compagnie FIJM pour un spectacle de Diana Krall à la salle Wilfrid Pelletier, à Montréal en lumière et à la salle Metropolis pour différents spectacles, lesquelles couvrent uniquement la fourniture de main-d’œuvre technique. À l’égard de ces factures, l’appelante n’a produit aucun document, contrat ou bon de commande démontrant que la fourniture de main-d’œuvre technique faisait partie d’un ensemble de services offert par l’appelante à chacun des clients.
+[63] Par ailleurs, monsieur Savard a reconnu que l’appelante n’avait pas de contrat avec les clients à qui elle fournissait de la main-d’œuvre technique. Le seul document daté au cours de la période en litige indiquant que l’appelante a fourni des services techniques et de gestion de scène est le bon de commande du Casino de Montréal et ce bon de commande ne fait pas référence à la fourniture de main-d’œuvre technique.
+[64] Par conséquent, vu l’absence de preuve, je ne peux accepter la proposition de l’appelante à l’effet qu’à l’égard de chacun des évènements où l’appelante a fourni les services des travailleurs au cours de la période en litige, la fourniture de main-d’œuvre faisait partie d’un ensemble de services effectivement fourni par l’appelante à ses clients.
+[65] À l’égard de la fourniture des services des travailleurs au cours de la période en litige, l’appelante a donc agi en tant qu’agence de placement. Ce n’est pas l’offre de services qui compte mais plutôt la fourniture réelle des services à l’égard de chaque évènement.
+[66] Le deuxième critère pour que l’alinéa 6g) du Règlement s’applique, soit que la personne doit être appelée par cette agence à fournir des services à un client, n’est pas contesté par l’appelante. Il est admis que l’appelante communique avec les techniciens afin que ces derniers fournissent leurs services auprès des clients de l’appelante.
+[67] Le troisième critère pour l’application de l’alinéa 6g) du Règlement est que la personne doit être sous la direction et le contrôle du client.
+[68] La position de l’appelante est à l’effet que les techniciens ne sont pas sous la direction et le contrôle des clients. Les clients ne dictent pas aux techniciens la façon dont ils doivent exécuter leur travail. Les clients s’attendent à une bonne collaboration de la part des techniciens pour atteindre le résultat escompté. Le contrôle du résultat au moyen de contrôles d’exécution, de productivité et de qualité ne signifie pas que les techniciens sont subordonnés ou sont sous le contrôle et la direction des clients. Les contraintes de temps et de lieu ne constituent pas un critère pouvant établir un lien de subordination.
+[69] Pour l’intimé, les techniciens ne travaillent pas en vase clos. Ils font partie de l’équipe de production coordonnée par le directeur de la production qui est un représentant du client et ils doivent s’intégrer dans l’entreprise des clients. Les devis de production sont l’équivalent d’une liste de tâches à exécuter et représentent le plan de match de l’équipe. Le concept de direction et contrôle doit être interprété selon le sens moderne de l’expression et comprend le pouvoir de contrôler que ce pouvoir soit exercé ou non.
+[70] À la lumière des faits présentés, je dois conclure que les travailleurs étaient sous la direction et le contrôle des clients qu’ils servaient.
+[71] Les services rendus par les travailleurs sont les mêmes que ceux rendus par les techniciens salariés d’autres organisations. D’ailleurs, certains des travailleurs agissent parfois comme salariés et parfois comme travailleurs autonomes tout en rendant les mêmes services.
+[72] L’exercice du pouvoir de direction et de contrôle des clients est surtout reflété par le droit des clients d’exclure du lieu de travail un technicien qui est sous l’influence de l’alcool ou de drogues, d’exiger le remplacement d’un technicien qui est en retard à son lieu de travail, ou d’exiger l’exclusion de certains techniciens avec qui ils ont eu des problèmes dans le passé. Dans ces situations, il ne s’agit pas d’un contrôle du résultat mais bien d’un contrôle du travailleur.
+[73] Du point de vue opérationnel, le contrôle et la direction exercés sur les travailleurs sont plus ténus parce que les travailleurs sont des techniciens. Les travailleurs savent comment monter, démonter et opérer les équipements dont ils ont la responsabilité. Par contre, les devis techniques préparés par le diffuseur ou le producteur indiquent aux travailleurs tout ce qu’ils doivent faire sur la scène. Ils n’ont aucune discrétion à cet égard. Tout est déterminé à l’avance : la nature des équipements à être installés, leur nombre et leur positionnement sur la scène. Tous les travailleurs se rapportent au directeur de la production qui assure la coordination et le déroulement de l’évènement. Les travailleurs ne peuvent quitter leur lieu de travail à leur guise et ne peuvent prendre des pauses quand ils le désirent parce qu’ils doivent souvent travailler en équipe. À mon avis, l’encadrement des travailleurs sur les lieux de leur travail est suffisamment importante pour que ces derniers soient considérés être sous la direction et le contrôle du producteur ou du diffuseur.
+[74] Le quatrième et dernier critère pour que l’alinéa 6g) s’applique est que la personne doit être rémunérée par l’agence. À mon avis, cette exigence est également rencontrée en l’espèce. Je ne crois pas que l’appelante agit en tant qu’intermédiaire entre ses clients et les travailleurs puisqu’elle facture ses clients avec une majoration sur le tarif horaire des travailleurs et qu’elle ne remet aux travailleurs qu’une partie seulement de ce qu’elle facture à ses clients. Selon la preuve, les travailleurs ne sont pas payés s’ils ne transmettent pas de factures à l’appelante. Cette façon de procéder démontre bien que l’appelante n’agit pas uniquement qu’en tant d’intermédiaire.
+[75] Puisque toutes les conditions d’application de l’alinéa 6g) du Règlement sont rencontrées, les appels sont rejetés. Par conséquent, l’appelante est réputée être l’employeur des travailleurs et devait effectuer les déductions à la source à l’égard de la rémunération versée aux travailleurs conformément à l’article 7 du Règlement sur la rémunération assurable et la perception des cotisations DORS/97-33 et au paragraphe 82(1) de la Loi.
+Signé à Ottawa, Canada, ce 29e jour d’août 2017.
+“Réal Favreau”
+Juge Favreau
+RÉFÉRENCE :
+2017CCI161
+Nº DES DOSSIERS DE LA COUR :
+2015-5465(EI)
+2015-5466(EI)
+INTITULÉ DES CAUSES :
+Les Productions du Grand Bambou Inc. et M.R.N.
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+les 11 et 12 mai 2017
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 29 août 2017
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Andréa Gattuso
+Avocat de l'intimé :
+Me Alain Gareau
+AVOCATE INSCRITE AUX DOSSIERS :
+Pour l'appelant:
+Nom :
+Me Andréa Gattuso
+Cabinet :
+Dunton Rainville
+Montréal (Québec)
+Pour l’intimé :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

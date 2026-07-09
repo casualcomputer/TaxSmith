@@ -1,0 +1,227 @@
+---
+title: "Gagné v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27555/index.do"
+last_modified: "2005-06-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 310"
+citation2: ""
+neutral_citation: "2005 TCC 310"
+decision_date: "2005-06-24"
+language: "en"
+item_id: "27555"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 117
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:36:25.442000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a5ee8c7b76c23a362363ad3cdb934a11e0a1cbe330382b0b384285a7d6aba0d2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gagné v. M.N.R.
+
+- Citation: 2005 TCC 310
+- Decision date: 2005-06-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 117, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gagné v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-24
+Neutral citation
+2005 TCC 310
+File numbers
+2004-1244(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-1244(EI)
+BETWEEN:
+ANDRÉE GAGNÉ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 17, 2005, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Michel Lamarre
+____________________________________________________________________
+JUDGMENT
+The appeal instituted under subsection 103(1) of the Employment Insurance Act is dismissed, and the decision by the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of June 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 15th day of February 2006.
+Garth McLeod, Translator
+Citation: 2005TCC310
+Date: 20050624
+Docket: 2004-1244(EI)
+BETWEEN:
+ANDRÉE GAGNÉ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal concerning the insurability of the work performed by the Appellant for Les entreprises Carroll Ouellet Inc., all of the shares of which belonged to her spouse, Carroll Ouellet.
+[2] The periods concerned by the determination are as follows:
+· from January 26, 1998, to December 31, 1999,
+· from January 17, 2000, to February 10, 2001,
+· from March 11, 2001, to February 9, 2002,
+· from March 1, 2002, to February 1, 2003.
+[3] According to the decision disputed by the instant appeal, the work performed by the Appellant for Les entreprises Carroll Ouellet Inc. (the "Payor"), a corporation directed and controlled by her spouse, was determined to be not insurable under paragraph 5(2)(i) of the Employment Insurance Act (the "Act").
+[4] The decision for all the periods in issue resulted from the analysis of a number of facts, which were enumerated in paragraphs 5, 6 and 7 of the Reply to the Notice of Appeal. Those facts read as follows:
+[TRANSLATION]
+5. The Payor and the Appellant are related persons within the meaning of the Income Tax Act because:
+(A) the Payor was incorporated on September 23, 1986; (admitted)
+(B) Carroll Ouellet is the sole shareholder of the Payor; (admitted)
+(C) the Appellant is Carroll Ouellet's spouse; (admitted)
+(D) the Appellant is related by marriage to Carroll Ouellet, who controls the Payor. (admitted)
+6. The Minister determined that the Payor and the Appellant were not dealing with each other at arm's length in the context of the employment. The Minister was satisfied that it was not reasonable to conclude that the Payor and the Appellant would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length, having regard to the following circumstances:
+(a) the Payor operated a men's clothing retail sales business; (admitted)
+(b) the Payor did business under the trade name "La Pantalonnerie" in premises located in the Rivière-du-Loup shopping centre; (admitted)
+(c) the Payor operated year-round; (admitted)
+(d) the hours of the business were 9:30 a.m. to 5:30 p.m. from Monday to Wednesday, 9:30 a.m. to 9:00 p.m. on Thursday and Friday, 9:00 a.m. to 5:00 p.m. on Saturday and noon to 5:00 p.m. on Sunday; (admitted)
+(e) from 1999 to 2003, the Payor's quarterly sales, an average of $41,679, were appreciably the same from one quarter to the next; (denied)
+(f) the Appellant had worked for the Payor as a sales clerk since 1986; (admitted)
+(g) the Appellant's duties were to make sales, file invoices and reconcile cash on hand; (admitted)
+(h) the Appellant was paid an hourly wage of $8.75; (admitted)
+(i) the Appellant worked for the Payor year-round; (denied)
+(j) the Appellant had no fixed schedule; (denied)
+(k) the Payor did not record the hours actually worked by the Appellant; (denied)
+(l) the Appellant was recorded in the Payor's payroll at times on a full-time basis for 40 hours a week, at other times on a part-time basis for three, six, nine or sometimes 12 hours, regardless of the number of hours she had actually worked; (denied)
+(m) the Appellant was recorded in the Payor's payroll for 16 consecutive 40-hour weeks in November, December and January each year, followed by two weeks without remuneration, then subsequently for part-time weeks for the remainder of the year; (denied)
+(n) the Appellant rendered services to the Payor on days when she was not on the Payor's payroll; (denied)
+(o) on June 4, 2003, in a signed statutory declaration, the Payor stated: "With respect to Andrée Gagné's Records of Employment No. A70909342 for the period of work from March 11, 2001, to February 9, 2002, No. A75484761 from March 1, 2002, to February 1, 2003, No. A68604680 from January 26, 1998, to December 31, 1999, and No. A70909341 from January 17, 2000, to February 10, 2001, I have no choice; the evidence is there, and it shows that those Records of Employment are false and incorrect as to the dates of the days and periods of work and hours that were incorrectly noted from 1998 to the present; that is to say the first days of work and/or last days of work, as well as certain reasons for termination and total insurable hours and remuneration are incorrect; (denied)
+(p) during the periods in issue, the Appellant was at times the only employee on the Payor's payroll, and, for weeks, she was recorded as only part-time, whereas, on December 10, 2003, the Appellant told an agent of the Respondent: "There always have to be two workers in the store at the same time and three workers during peak periods;" (denied)
+(q) the Payor's payroll did not reflect the actual situation with regard to the hours actually worked by the Appellant; (denied)
+(r) on January 17, 2000, the Payor gave the Appellant a Record of Employment indicating January 26, 1998, as the first day of work and December 31, 1999, as the last day of work, and showing 2,120 insurable hours and insurable earnings of $9,450.00; (admitted)
+(s) on February 19, 2001, the Payor gave the Appellant a Record of Employment indicating January 17, 2000, as the first day of work and February 10, 2001, as the last day of work, and showing 880 insurable hours and insurable earnings of $6,151.25; (admitted)
+(t) on February 14, 2002, the Payor gave the Appellant a Record of Employment indicating March 11, 2001, as the first day of work and February 9, 2002, as the last day of work, and showing 835 insurable hours and insurable earnings of $6,177.50; (admitted)
+(u) on February 8, 2003, the Payor gave the Appellant a Record of Employment indicating March 1, 2002, as the first day of work and February 1, 2003, as the last day of work, and showing 842 insurable hours and insurable earnings of $6,195.00; (admitted)
+(v) the Appellant was laid off by the Payor without it being justified by a decline in sales; (denied)
+(w) the Appellant's Records of Employment are not consistent with the actual situation regarding the periods worked, hours worked, remuneration earned or the reason for termination of employment; (denied)
+(x) a person dealing at arm's length would not have had working conditions or terms and conditions of employment similar to those of the Appellant; (denied)
+(y) the hours allegedly worked by the Appellant did not correspond with the hours actually worked. (denied)
+7. OTHER RELEVANT FACTS
+(a) the Appellant continued to render services to the Payor while receiving Employment Insurance benefits; (denied)
+(b) the Appellant and the Payor entered into an arrangement to enable the Appellant to receive Employment benefits while continuing to work for the Payor. (denied)
+[5] A number of facts, those described in subparagraphs 5(A), (B), (C) and (D) and 6(a), (b), (c), (d), (f), (g), (h), (r), (s), (t) and (u) were admitted, and those in subparagraphs 5(e), (i), (j), (k), (l), (m), (n), (o), (p), (q), (v), (w), (x) and (y) as well as subparagraphs 7(a) and (b) were denied.
+[6] Upon analysis of the facts assumed, the Minister of National Revenue (the "Minister") concluded that the facts, circumstances and terms and conditions related to the work performed by the Appellant were not similar or comparable to those that would have characterized an employment relationship between third parties or persons dealing with each other at arm's length in a similar situation.
+[7] In paragraph 5(2)(i) of the Act, Parliament stipulated as follows:
+5.(2) Insurable employment does not include:
+[...]
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+[8] Under that provision, the work performed by a person not dealing at arm's length with the person or entity for whom the work is performed is excluded from insurable employment.
+[9] However, Parliament provided for one exception, which is worded as follows:
+5.(3) For the purposes of paragraph (2)(i):
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[10] Parliament has thus provided that this work was insurable if, on evaluation and analysis of all the relevant facts, it could be concluded that the non-arm's length dealing had not shaped or influenced the conditions of work, the terms of its performance, the remuneration, duration or the relationship of subordination. In other words, would the work have been performed and remunerated in the same manner and for the same duration if third persons had been the parties to the contract of employment?
+[11] If the answer is in the affirmative, the Minister must conclude that the exception applies and determine that the work assessed constitutes a genuine insurable contract of service; otherwise, the work in question is automatically excluded from insurable employment. In other words, if the answer is yes, the non-arm's length relationship, which is nevertheless real, is deemed not to have existed at the time the work was performed.
+[12] In view of the discretionary or subjective aspect of the decision, the courts have, on a number of occasions, recalled the necessity of a prudent and reasonable approach.
+[13] In other words, the Tax Court of Canada must not essentially substitute its own analysis where the analysis that led to the decision was judiciously conducted.
+[14] Assuming that all the relevant facts were considered and the resulting conclusion was reasonable, appropriate or justified, the Court may not intervene or else its judgment may be reviewed.
+[15] Where certain facts have been excluded from the analysis, or have been undervalued or overvalued, the Court must consider whether the determination still appears reasonable, in which case there is no reason to intervene. In the opposite case, the Court must intervene based on its own analysis.
+[16] In the instant case, the Appellant's spouse explained the origins of the business which specializes in the sale and adjustment of trousers. The business also sold other clothing, such as shirts, sweaters and so on.
+[17] The employees of the business were mainly the owner, the Appellant's spouse, and their son, a truck driver by trade. All three were highly capable and able to make adjustments to the clothing they sold. The adjustments or sewing work involved mainly hems.
+[18] The son worked both for his father's business and as a truck driver, a job he did on occasion based on the needs of the businesses in that sector.
+[19] His son added considerable value to the business, and, to avoid losing him to a part-time trucking job, the father took the necessary steps to create full-time employment for him.
+[20] Carroll Ouellet explained that he had been very ill and had therefore had to be absent from the business for a number of months; he also stated that he had suffered after-effects that had required him to resume his activities gradually.
+[21] As to the work of the Appellant, his spouse, he said that she was very familiar with the work to be done and that she was able to perform all the duties required to operate the business. However, she did not do administrative or accounting work, all of which was done by an outside person.
+[22] The Appellant kept a record of her hours of work in a notebook. Every week, she telephoned to give her work hours to the outside person responsible for the payroll; that same person prepared the pay, made the returns and occasionally prepared the Records of Employment.
+[23] Her spouse, the owner of the business, explained that the Appellant was generally called upon to work two half-days a week. She was also available and worked on demand, having regard to the circumstances and needs of the business.
+[24] The start and end of the work periods were determined by her spouse. For her work, she received a wage of $8.75 an hour, which was consistent with the wages for comparable jobs in the region.
+[25] The Appellant and her spouse stated that she had occasionally signed or prepared an invoice for a client when she was not on the payroll and was receiving Employment Insurance benefits.
+[26] The explanation given was that the store was located in the shopping centre, where all the stores with which the business did business, that is to say the grocery store, the bank, the pharmacy and so on, were located.
+[27] She occasionally went to her spouse's store because she was there to do personal or family shopping. On those essentially personal or family outings, she went to the store and occasionally conducted a transaction with customers. According to the testimony, this was very minor work. To that point, the explanation was plausible and reasonable; it could have been something legitimate in the circumstances.
+[28] It was stated that her wages had never been raised. They had always been the same, for a number of years. This was the main evidence in the testimony of the Appellant and her spouse.
+[29] Reference was also made to two statutory declarations, which are cited below.
+[TRANSLATION]
+Statutory Declaration made to the Commission by Carroll Ouellet, May 15, 2003 (Exhibit A-2)
+I am making this declaration at the office of Human Resources Canada in response to a notice to appear previously given by the investigation officer by telephone. I was identified by my S.I.N. [...]. I have identified the pile of invoices that you presented to me to the best of my knowledge, and, when I was not sure, I did not initial them. It may be seen that most of the invoices were completed either by me or by Sébastien Ouellet, my son, and it has been more or less like that since he started working at my store about four or five years ago. I am the owner of the business "Entreprises Carroll Ouellet / Pantalonnerie", or, more precisely, "Entreprises Carroll Ouellet Inc.", which has managed "Pantalonnerie Enrg., with [...] shares, since 1983. I believe my spouse, Andrée Gagné, and I are married under a contract of separation of property. I hired Andrée Gagné because I needed help and because it was too much for just one person. In the past two years, the store's business hours have been 9:30 a.m. to 5:30 p.m. on Mondays, Tuesdays and Wednesdays, 9:30 a.m. to 9:00 p.m. on Thursdays and Fridays, 9:00 a.m. to 5:00 p.m. on Saturdays and noon to 5:00 p.m. on Sundays. Before that, the only difference was that the business was closed on Sundays. Andrée Gagné worked as an advisor or sales clerk, as I did. She had to deal with customers, put out inventory, do trouser hems on site, which all three of us did. She did not do any accounting at all. I did that, except for the month-ends, which were done by "Microgestion". I did the ledger entries, pay cheques and other items. Andrée occasionally made invoice entries when she counted them in the morning; that is to say that she entered them in the ledger. She worked part time on Tuesdays and Fridays, and that was when she might enter the invoices when she counted them in the morning. I had a stroke in August 1997, in the night of August 4 to 5, 1997, as I remember. I was on disability insurance for one year, when I was 90 percent unable to work, so that nevertheless enabled me to come and drop in to the store from time to time. I resumed work gradually. When Andrée Gagné went to work alone, it was mainly in the mornings, and the fact that there are few invoices in her handwriting may be somewhat due to the fact that things are quiet in the morning. When Andrée was employed full time, she worked all week without regard to the number of hours, but I think she worked at least 40 hours a week and sometimes a little more because, as she said in her declaration, and as I explained at the start of the interview, this is a family business, and we work together, as a team, not competitively, as in boutiques. For example, when there were two of us employees on site at the same time, sometimes three, one person might start a sale, and the other might take over, while the first person served a new customer, and so on. Andrée was called upon to work full time during the months before the Christmas holidays, during the holidays and a little afterwards. There were two weeks every year when she did not work at all, and that was for her unemployment waiting period. This lent itself well to that because, when she stopped working full time, it was because business was dead. She was paid her wages by cheque, and, when she made deposits, it was to her personal (not joint) account. She used her wages to pay personal expenses, but also household expenses, as is the case in all families, furniture, groceries and so on. As I remember, since she started working for the business at least 10 years ago, she has received $350.00 a week gross when she worked full time and $8.75 an hour when she worked part time. Louise Simard, the accountant at "Microgestion", arrived at that figure by dividing her weekly wages by 40 hours. Andrée Gagné noted all the hours that she worked part time in a personal notebook, and, based on that notebook, she called the accountant Louise to determine how to make the deductions because she did not always work the same number of hours on a part-time basis. When working full time, Andrée did not need to note her hours in her notebook. She only had to note them when she started full-time work and when she stopped, and she entered her weeks because she was paid "by the week". As you pointed out to me, when you noted days in Andrée's notebook where the date did not correspond to the day indicated, that may be, and even probably is, because she was mistaken about the date, or because she replaced Sébastien one day and entered the right date but the wrong day. She could provide more details. It is her notebook, and I trust her for that; I have no problem with the hours of work that she herself noted. Upon reading my declaration, I want to correct the business hours on page 2 because I have not been open every Sunday in the past two years. I have reviewed my declaration, which was made freely and voluntarily, and it represents the whole truth.
+[My emphasis]
+Statutory Declaration made to the Commission by Andrée Gagné, March 17, 2003 (Exhibit A-3)
+I am making this declaration at the Rivière-du-Loup office of Human Resources Canada in response to a written notice to appear received by me, the time having subsequently been changed by a call from the investigation officer to 1:00 p.m. I was identified by means of my Quebec health insurance card, which expires in June 2003. I worked for Entreprises Carroll Ouellet / Pantalonnerie in 2002-2003. I have worked for that employer for at least 10 years. I am not a shareholder of the business, and I believe there is only one shareholder, who reportedly holds 100 percent of the shares, Carroll Ouellet, my husband, since 1965. I think we were married under a contract of separation of property. I will try to find my contract and provide you with a copy of it as soon as possible. I was not required to sign any contract for a mortgage loan, line of credit or other loan. That was all Carroll's business. I do not have any young children to take care of, since my youngest is 28 years old. I was hired at first because my husband needed staff, and told me: "You're going to work." I believe that is how it happened. I generally work on a full-time basis starting in October or November until the Christmas holidays. I worked an average of 40 hours a week when I worked full time, and I was paid on the basis of 40 hours a week. I did not do any overtime as such because, when we were there... it was our business; his business. It could be said that it is a family business in a way, and I did not pay attention to the hours I worked during a full-time period; I might work a few hours more than 40, and rarely worked less than 40 hours a week, but I was always paid for 40 hours a week, regardless of the number of hours worked; so I was paid by the week. As I remember, my wages were paid to me by cheque from the start. I deposited my money to a personal account; I occasionally cashed my cheques as well, but they usually went into my account. I used my wages solely to pay my personal expenses, and those expenses could also be expenses for the house, such as [...] and sometimes I could contribute to that kind of expense. It seems to me that was all checked a few years ago, when married persons were entitled to draw unemployment benefits with insurable employment for their spouse. During my period of part-time work, I was paid $8.75 an hour, so $350.00 gross per week, and I believe that left me with $281.81 net. Before working for Carroll, my husband, I owned a sewing shop on Lafontaine Street for four or five years. In 1965, and for two years afterward, I was a full-time elementary school teacher. To explain why I have done more part-time work in recent years than previously, what happened is that my husband had a stroke and had to stop working or to slow down considerably for a few days, but not for long. His stroke occurred on or around August 11, 1998. Afterwards, he nevertheless went to work... He did not stop for long, but he should have. I had to call his son, Sébastien Ouellet, to come and help his father. He worked on the truck, and, as I found myself all alone, I told him, "You're going to come," and he subsequently stayed on working for us. The stroke actually occurred on August 11, 1997, because it will be six years in August 2003. As Sébastien was working some hours, there were fewer left for me. Carroll then had another stroke, on the other side, the right side, and he did not realize it, and it was the doctor who confirmed it for him. That occurred in the summer of 2002. He did not stop working. It is correct that I did not draw benefits in 1999, and I explain that by the fact that Carroll felt less well and was no longer able to work full days either. When I worked part time, I had no predetermined schedule. During some periods, I could go to work every week on Tuesday and Friday mornings, as I did this year and last year, but I also had to work other hours when something came up unexpectedly. I noted my hours of work in my little book, and I made out my pay cheque at the end of the month. It was only when I worked and did part-time work that I made out my own pay cheque, so when I was on unemployment. When I worked regular time, Carroll handled that. Part-time means changing deductions, and Carroll did not want to deal with my wages. I rarely made out Sébastien's pay cheques, but, when Carroll was not there, I had a power of attorney and I had signing authority. The rest, such as part-time hours, I gave to the accountant, Louise Simard, based on my little book, and she entered it in the payroll or other records: I cannot name them. As for job searches, should I have done more at my employer's? I worked at it a little every week. Year after year, my husband and Sébastien went in to work during my two-week waiting period: they could do it. It is correct that I mainly worked full time during the holiday period from one year to the next, and November, December, January, and sometimes I started in October as well. To conclude, the business is an incorporated company, as may be seen from the Record of Employment dated January 17, 2000. I have reviewed my declaration, which I have made freely and voluntarily, without threat or promise of favour, and it represents the whole truth.
+[My emphasis]
+[30] Counsel for the Appellant tried by certain questions to obtain answers that would discredit the quality and plausibility of the content of the statutory declarations. However, the content of the two statutory declarations cannot be excluded from the evidence based on the answers and explanations obtained.
+[31] The testimony of Pierrette Lecompte, who was the person in charge of the investigation, showed that she was not at all an intimidating person or a person who, through threats, comments or behaviour, could have made the Appellant or her spouse feel nervous or intimidated to the point of distorting the facts or simply incorrectly explaining the facts concerning the performance of the work in issue.
+[32] In the context of the investigation, Ms. Lecompte consulted extensive documentary evidence and did a considerable amount of work to prepare a table to show that the Appellant's attendance and involvement in the operations of the business were much more substantial than she had indicated.
+[33] The table prepared by Ms. Lecompte reveals an entirely different picture from that drawn by the Appellant. The data compiled in it, and particularly the comparisons between the various periods when the Appellant worked and those where she did not work, lead to conclusions that discredit the quality of the explanations provided.
+[34] One of the bases of the determination was precisely that the Appellant's work was clearly performed during the periods that did not coincide with the work periods stated in the Record of Employment.
+[35] The Appellant and her spouse vigorously disputed this statement. In addition, the facts set out in the table prepared by Ms. Lecompte cast doubt on the versions of the Appellant and her spouse.
+[36] In light of the information appearing in the table, the Appellant performed a substantial amount of work outside the periods in issue; what is more, at certain times, it was comparable to that done during the periods in issue.
+[37] In general, the content of the statutory declarations confirms the conclusions that follow from the comparative table. In particular, I refer to the statements that the business was a family business, in which there was a deeply rooted culture of mutual assistance and cooperation, to the way in which the work schedule was prepared based on the qualifying period for Employment Insurance benefits, to the wages that were never raised, and so on.
+[38] The investigation and analysis work is irreproachable. All the relevant facts were considered. Furthermore, the facts in question were not subject to any controversial interpretation, particularly those appearing in the table, which was key in showing that the decisions were valid.
+[39] The gathered information reproduced in the table speaks for itself. The table could have highlighted some specific situations unfavourable to the Appellant; those deficiencies could have been explained and ruled out of the process leading to a conclusion, which was not the case.
+[40] In this case, I do not believe it is necessary to draw a perfect comparison between the work performed by a related person and that done in a similar context by a person dealing at arm's length. The reality of a contract of employment in which the parties are not dealing with each other at arm's length is that there will always be aspects that are not and cannot be present in a contract of employment in which the parties are dealing with each other at arm's length. Moreover, Parliament itself has used the term "substantially similar".
+[41] Digressing for a moment, I would like to point out that this is another case in which the Appellant's work was found to be insurable during a period prior to those in issue. In this kind of situation, the persons concerned unfortunately all too often believe that the prior determination shelters them from any future problem with regard to their entitlement to Employment Insurance benefits. In other words, a person whose employment was found to be insurable the first time often believes that this is an absolute guarantee of entitlement to Employment Insurance benefits in future.
+[42] The matter is unfortunately not that simple, and every period of employment indicated in the Record of Employment may be subject to an assessment, the result of which may vary from one period to another, having regard to the facts, circumstances and terms and conditions specific to each period of employment.
+[43] I have often observed that those responsible for determining whether employment is insurable tend to conclude very quickly that it is insurable where the request for a decision concerns the question of whether there is an obligation to pay premiums. In other words, the approach appears to be less thorough if a person wants to know whether he or she is required to pay premiums or is claiming Employment Insurance benefits.
+[44] I understand that, when a request is made for determination as to whether an employment is insurable, the analytical work may focus on assumptions or summary, or indeed, incomplete facts, hence the need to identify clearly the facts assumed so that the person concerned can see that the determination is not an absolute guarantee that his or her employment will always be insurable in future.
+[45] The fact that an employment is determined to be insurable based on facts that are deemed satisfactory creates expectations that may cause real nightmares for certain persons where an investigation is conducted after benefits have been paid over a period of a number of years.
+[46] For example, one need only imagine a person whose employment has been determined to be insurable, or who has even received benefits over a certain period of time. A few years later, the case is reviewed for a period of a few years, and the employment previously determined to be insurable is then found to be not insurable, upon which the Employment Insurance benefits received over a number of years are reclaimed, resulting in a claim of several thousands of dollars.
+[47] The employment, having become an issue merely as a result of the passage of time, is then subjected to a thorough, often judicious and irreproachable, analysis. If the employment is then determined to be not insurable, all Employment Insurance benefits received then form the subject of a claim, thus causing a real drama for the persons concerned.
+[48] Of course, everyone is deemed to know the law. Everyone must abide by it, or else accept often disastrous consequences. However, I believe that the assessments of the question as to whether there is an obligation to pay premiums should be more elaborate and that more detailed information should be given to enable the persons concerned to reconsider their status in each employment period.
+[49] Furthermore, the facts on which the decision that the employment is insurable is based should be more clearly identified so that the persons concerned can understand it more clearly, and especially so that they are less inclined to assume that Employment Insurance grants an absolute right to Employment Insurance benefits.
+[50] In the instant case, the remuneration the Appellant received was not consistent with the hours of work or with the quality of the work she performed; the decision for the periods in issue was clearly well-founded.
+[51] Having previously seen that her employment had been determined to be insurable, and having received Employment Insurance benefits on a number of occasions, the Appellant probably assumed that there was no problem. Thus, flexibility, convenience and accommodation gradually set in, and working conditions became very different from what they would have been if the parties had been dealing with each other at arm's length.
+[52] Unfortunately, on the evidence, I can only confirm that the decisions for all the periods in issue are valid, and the appeal is consequently dismissed. If I had the power to intervene to reduce the overpayment considerably, I would not hesitate to do so. I unfortunately do not have that authority.
+Signed at Ottawa, Canada, this 24th day of June 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 15th day of February 2006.
+Garth McLeod, Translator
+CITATION: 2005TCC310
+DOCKET NO.: 2004-1244(EI)
+STYLE OF CAUSE: Andrée Gagnon and M.N.R.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: March 17, 2005
+REASONS FOR JUDGMENT BY: The Honourable Judge Alain Tardif
+DATE OF JUDGMENT: June 24, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Michel Lamarre
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jérôme Carrier
+Firm: Lawyer, Lévis, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

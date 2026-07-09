@@ -1,0 +1,206 @@
+Title: Frenkel c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30845/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-216-30845-frenkel-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2012-06-18
+
+# Frenkel c. M.R.N.
+
+- Citation: 2012 CCI 216
+- Decision date: 2012-06-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7404, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Frenkel c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-06-18
+Référence neutre
+2012 CCI 216
+Numéro de dossier
+2011-3911(CPP), 2011-3912(CPP), 2012-1518(CPP)
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2011-3912(CPP)
+ENTRE :
+VSEVOLOD FRENKEL,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 1er juin 2012, à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Stephen Oakey
+___________________________________________________________________
+JUGEMENT
+L’appel interjeté conformément à l’article 28 du Régime de pensions du Canada est accueilli et la décision du ministre du Revenu national sur l’appel prévu à l’article 27 du Régime de pensions du Canada est annulée.
+Signé à Ottawa, Canada, ce 18e jour de juin 2012.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 23e jour de novembre 2012.
+Mario Lagacé, jurilinguiste
+Dossier : 2011-3911(CPP)
+ENTRE :
+ELENA FRENKEL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 1er juin 2012, à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Représentant de l’appelante :
+M. Vsevolod Frenkel
+Avocat de l’intimé :
+Me Stephen Oakey
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté conformément à l’article 28 du Régime de pensions du Canada est accueilli et la décision du ministre du Revenu national sur l’appel prévu à l’article 27 du Régime de pensions du Canada est annulée.
+Signé à Ottawa, Canada, ce 18e jour de juin 2012.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 23e jour de novembre 2012.
+Mario Lagacé, jurilinguiste
+Dossier : 2012-1518(CPP)
+ENTRE :
+EFFECTIVE TECHNOLOGIES & IDEAS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 1er juin 2012, à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Représentant de l’appelante :
+M. Vsevolod Frenkel
+Avocat de l’intimé :
+Me Stephen Oakey
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté conformément à l’article 28 du Régime de pensions du Canada est accueilli et l’évaluation du ministre du Revenu national en date du 24 novembre 2011, laquelle a été confirmée par une lettre datée du 20 avril 2012, est annulée.
+Signé à Ottawa, Canada, ce 18e jour de juin 2012.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 23e jour de novembre 2012.
+Mario Lagacé, jurilinguiste
+Référence : 2012 CCI 216
+Date : 20120618
+Dossiers : 2011-3912(CPP)
+2011-3911(CPP)
+2012-1518(CPP)
+ENTRE :
+VSEVOLOD FRENKEL, ELENA FRENKEL ET
+EFFECTIVE TECHNOLOGIES & IDEAS INC.,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] Les présents appels se rapportent au statut de Vsevolod Frenkel et d’Elena Frenkel auprès d’Effective Technologies & Ideas lnc. (« ETI »); il s’agit de savoir si, au cours de l’année 2010, les Frenkel occupaient un emploi ouvrant droit à pension auprès d’ETI. Le ministre du Revenu national (le « ministre ») a avisé les Frenkel, par une lettre datée du 24 octobre 2011, qu’ils occupaient un emploi ouvrant droit à pension et, par la suite, le 24 novembre 2011, le ministre a établi une évaluation à l’égard d’ETI au titre des cotisations (de 4 137,60 $) au Régime de pensions du Canada (le « RPC ») que cette dernière n’avait pas versées, et il a également imposé des pénalités. Les Frenkel, qui croyaient être des travailleurs autonomes plutôt que des employés d’ETI, avaient personnellement versé, au titre du RPC, des cotisations dont les montants s’élevaient à près de 4 137,60 $. Selon le ministre, les cotisations avaient été versées par une personne autre que celle qui devait le faire. Le mécontentement de M. Frenkel était évident étant donné qu’ETI pourrait avoir à verser de nouveau le même montant et qu’il devrait alors demander un remboursement du gouvernement pour les cotisations personnellement versées.
+Les faits
+[2] ETI a été constituée en personne morale au mois de novembre 2009. M. et Mme Frenkel étaient actionnaires à parts égales d’ETI, dont ils étaient également administrateurs. Malheureusement, Mme Frenkel n’était pas présente à l’instruction et seul M. Frenkel a témoigné, mais il a indiqué que la personne morale avait été constituée parce que l’on avait informé Mme Frenkel qu’elle ne pouvait obtenir des contrats pour ses services de consultation informatique que par l’intermédiaire d’une personne morale. Il n’a pas été soutenu que l’entreprise avait été constituée en personne morale pour des raisons de responsabilité limitée. Avant la constitution d’ETI en personne morale, M. Frenkel avait exploité son entreprise d’étude de marché, dans le cadre de laquelle il menait des activités de commercialisation et de vente de savoir-faire à l’égard de produits innovateurs provenant principalement de Russie ou d’Ukraine, à titre de propriétaire unique sous le nom commercial CMT NET Co. (« CMT »). Lors de la constitution d’ETI en personne morale, M. Frenkel a décidé de continuer à exploiter les deux entreprises, à savoir la sienne et celle de sa femme, sous un seul nom. Ce qu’il entend exactement par là constitue le nœud du litige.
+[3] M. Frenkel m’a montré certains produits qu’il tentait de commercialiser en Amérique du Nord. Il était clair qu’après la constitution d’ETI en personne morale, M. Frenkel avait continué à exploiter ce qu’il a appelé son entreprise de la même façon qu’auparavant. Il a déclaré que, lorsqu’il faisait des affaires en Russie et en Ukraine, il importait peu que l’entreprise s’appelle ETI ou CMT, parce que c’étaient les relations individuelles qui comptaient. Tous les clients savaient qu’ils traitaient avec M. Frenkel.
+[4] L’entreprise de consultation informatique de Mme Frenkel semble avoir exercé ses activités pour GSI International Consulting Group (« GSI »), quoique le contrat que M. Frenkel a produit en preuve à l’appui de cette entente ait été daté du 2 février 2011, soit l’année qui a suivi l’année ici en cause. Il s’agit d’un contrat inhabituel, dont certains passages sont ci‑dessous reproduits :
+[traduction]
+ENTENTE VISANT DES SERVICES RELATIFS AUX SYSTÈMES ET À LA PROGRAMMATION
+ENTRE : GSI International Consulting Group (le « groupe GSI »)
+ET : Effective Technologies & Ideas, Inc. (ci‑après appelée le SOUS‑TRAITANT)
+Il est entendu que le présent contrat se rapporte à des services qu’Elena Frenkel doit fournir à titre de mandataire ou de mandant du SOUS-TRAITANT.
+[…]
+Le SOUS-TRAITANT reconnaît être un travailleur autonome plutôt qu’un employé du groupe GSI.
+[…]
+Il est intéressant de noter qu’il n’est pas question de la rémunération dans l’entente.
+[5] Ni M. Frenkel ni Mme Frenkel n’ont conclu d’entente écrite avec ETI. M. Frenkel a indiqué qu’il se rendait bien compte qu’ETI était une entité juridique distincte, mais il a fort clairement affirmé que son entreprise de commercialisation de produits était la sienne et qu’ETI existait uniquement parce qu’il le fallait pour que Mme Frenkel puisse obtenir des contrats. Même le compte bancaire d’ETI avait été établi conjointement par la personne morale et par les Frenkel personnellement. M. Frenkel a témoigné que si Mme Frenkel était rémunérée pour un travail, la rémunération pouvait être remise à son nom ou au nom de la personne morale. Je ne suis pas convaincu que M. Frenkel s’était réellement rendu compte de ce que comportait le recours à une personne morale pour exploiter son entreprise et celle de sa femme, étant donné que, lorsqu’il a décrit ce qui arriverait si l’entreprise devait embaucher de l’aide, il a déclaré que le travailleur serait rémunéré par la personne morale, parce que c’est ce qu’il faut faire pour être travailleur autonome. La réponse que M. Frenkel a donnée indique qu’il ne comprenait pas bien ce qu’est un travailleur autonome.
+[6] Quant à la rémunération, M. Frenkel a témoigné que sa femme et lui retiraient simplement de l’argent au besoin. Selon un état des résultats d’ETI, en 2010, M. Frenkel avait retiré environ 17 000 $ et Mme Frenkel environ 31 000 $, à des intervalles irréguliers. Selon M. Frenkel, les montants étaient basés sur le revenu que leurs entreprises respectives généraient. Il importe également de noter que, dans l’état des résultats d’ETI, le montant de 48 000 $ retiré par les Frenkel est inscrit sous la catégorie des jetons de présence. M. Frenkel a expliqué que le montant avait été inscrit sous ce poste parce que c’était le seul choix possible dans le logiciel qu’il utilisait.
+[7] Selon M. Frenkel, les factures pouvaient être établies au nom d’ETI ou à son nom, au gré des clients, mais M. Frenkel a encore une fois mentionné que les grandes sociétés veulent qu’un nom d’entreprise figure sur les factures. Une copie d’une facture d’ETI adressée à GSI est libellée ainsi :
+[traduction]
+Nom commercial – Effective Technologies & Ideas Inc.
+Entrepreneur : Elena Frenkel
+Le numéro d’inscrit aux fins de la TPS d’ETI figure dans la facture, étant donné que ni M. Frenkel ni Mme Frenkel n’étaient inscrits aux fins de la TPS. La facture précisait également que le paiement devait être effectué en faveur d’ETI. M. Frenkel a reconnu qu’il fait toujours affaire sous le nom d’ETI, mais il était clair qu’il ne voyait pas de différence entre cet arrangement et l’arrangement antérieur, lorsqu’il utilisait simplement le nom commercial CMT.
+[8] Pour ce qui est de l’état des résultats, M. Frenkel a répondu par l’affirmative lorsque Me Oakey lui a demandé si la personne morale leur remboursait les frais d’exploitation, étant donné que ni M. Frenkel ni Mme Frenkel ne déclaraient personnellement de dépenses d’entreprise, ou en déclaraient fort peu, dans leurs déclarations de revenus. La principale dépense se rapportait à un loyer (4 821 $), probablement pour le bureau à domicile des Frenkel. Toutefois, auparavant dans son témoignage, M. Frenkel avait déclaré que la personne morale couvrait le tiers des frais relatifs au domicile, mais qu’elle [traduction] « ne payait pas ».
+[9] M. Frenkel ne savait pas trop qui serait tenu légalement responsable si un problème se posait avec un client.
+[10] Quant aux instruments de travail, M. Frenkel a indiqué qu’il fournissait l’ordinateur, la voiture, l’imprimante et le réfrigérateur (pour l’entreposage de certains produits commercialisables éventuels qui devaient être réfrigérés) et que la personne morale fournissait une table et une chaise.
+Analyse
+[11] En 2010, les Frenkel étaient-ils des travailleurs autonomes qui exploitaient chacun leur propre entreprise en fournissant des services à ETI, ou étaient-ils des employés d’ETI dans le cadre de contrats de louage de services? Le cheminement analytique habituel suivi dans les affaires concernant les services d’employés par opposition aux services d’entrepreneurs indépendants, fondé sur les arrêts Wiebe Door Services Ltd. c. Canada[1] et 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[2] ainsi que sur la multitude de décisions subséquentes, ne s’applique pas facilement dans le cas des propriétaires-exploitants ayant un lien de dépendance avec l’entreprise. Comme le juge suppléant Rowe l’a dit dans la décision MacMillan Properties Inc. c. Canada[3] :
+29. […] Bien sûr, on s’aventure toujours du côté de la métaphysique lorsque l’on commence à parler d’une société appartenant à 100 % à un particulier comme ayant une personnalité distincte en langage de tous les jours plutôt qu’en tant que question de droit. […]
+[12] Ce problème existait dans un grand nombre d’affaires similaires. Le juge en chef Rip l’a décrit ainsi dans la décision Pro-Style Stucco & Plastering Ltd. c. Canada[4] :
+21. Dans une situation où une personne est l’unique administrateur et actionnaire d’une société et qu’elle fournit ses services à cette société, les critères traditionnels pour déterminer si cette personne est un employé ou un entrepreneur indépendant ne sont pas toujours utiles. Par exemple, comment peut‑on évaluer le degré de contrôle qu’exerce un employeur sur les activités du travailleur lorsque la personne qui dirige l’employeur est le travailleur? Il se peut fort bien, comme l’a laissé sous‑entendre M. Marocco, que l’entreprise Pro‑Style ait été constituée en personne morale parce qu’il voulait que ses responsabilités relatives à l’exploitation de l’entreprise soient limitées. Il a donc fait en sorte que tous les contrats soient conclus sous le nom commercial de l’entreprise Pro‑Style. Toutefois, l’entreprise Pro‑Style assumait tous les risques liés à la qualité des travaux. L’entreprise qui était exploitée était celle de Pro‑Style et non celle de M. Marocco, et les services qu’il fournissait faisaient partie intégrante de cette entreprise.
+[13] Comme le montrent clairement les remarques que la Cour suprême du Canada a faites dans l’arrêt Sagaz, le cheminement analytique habituel donne à entendre que le contrôle entre toujours en ligne de compte. Cependant, comme M. Frenkel l’a affirmé avec insistance, en sa qualité de propriétaire d’ETI, personne n’exerce un contrôle sur lui, et la personne morale n’exerce certes aucun contrôle sur lui. Il pouvait liquider la personne morale n’importe quand ou simplement ne pas y avoir recours. Comme il me l’a dit sur un ton chargé d’émotion : « Combien d’employés peuvent liquider leur employeur? » La tentative que l’on a faite pour expliquer les différents rôles joués par le propriétaire-exploitant ne semblait rimer à rien pour M. Frenkel.
+[14] Dans l’arrêt Sagaz, la Cour suprême du Canada a dit que la question cruciale était :
+[…] de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte.
+[15] Toutefois, ce critère général semble également sonner un peu faux si on l’applique à une situation telle que celle des Frenkel, lorsque l’engagement entre le payeur et le travailleur n’est pas consigné par écrit et qu’aucune entente verbale ne peut être constatée, étant donné que les deux parties qui concluraient pareille entente ne sont qu’une seule et même personne. Les indices habituels du contrôle et de l’intention ne sont tout simplement pas utiles lorsque celui qui exerce le contrôle et celui qui y est assujetti sont une seule et même personne. Et dans ce cas particulier, lorsque M. Frenkel affirme que la personne morale et lui-même avaient l’intention de conclure une entente pour travailleur autonome, cette affirmation a peu de valeur puisque, de toute évidence, M. Frenkel ne se rendait pas pleinement compte de ce qu’était un travailleur autonome. Il croyait qu’il fallait une personne morale. Il était difficile de comprendre la façon dont M. Frenkel concevait ce qu’était un travailleur autonome.
+[16] Il est d’autant plus difficile de se fonder sur le critère traditionnel à quatre volets étant donné que le type d’entreprise en cause exigeait peu d’instruments de travail ou de matériel. En outre, les chances de bénéfice et les risques de perte seraient les mêmes pour les Frenkel et pour la personne morale : si un bénéfice était fait, les Frenkel le retiraient de la personne morale; si les entreprises ne généraient aucun bénéfice, il n’y avait pas de fonds disponibles qui puissent être retirés d’ETI.
+[17] Il s’agit ici d’un de ces cas dans lesquels les critères juridiques établis par les juges sont plus ou moins utiles et où il faut prendre du recul et se demander si les Frenkel avaient transféré leur entreprise à ETI, de sorte qu’ETI exploitait l’entreprise avec les Frenkel comme employés ou si les Frenkel ont personnellement continué à exploiter leurs entreprises respectives, en se contentant d’utiliser le nom commercial d’ETI en vue d’obtenir du travail qu’ETI pouvait leur donner en sous-traitance et se faire ensuite payer pour leur compte – de sorte qu’ETI agissait en fait à titre d’organisme de gestion.
+[18] Si l’on tente d’évaluer les facteurs qui pourraient indiquer l’existence d’une relation par opposition à une autre, on n’obtient aucun résultat clair dans un sens ou dans l’autre. Selon moi, la chose est attribuable à la nature fort vague de l’arrangement. Quoi qu’il en soit, certains facteurs opposés sont énumérés ci‑dessous :
+1. L’état des résultats d’ETI indiquait que la personne morale payait presque toutes les dépenses d’entreprise, mais ces dépenses étaient-elles payées pour le compte des Frenkel?
+2. Dans le contrat conclu avec un tiers, GSI, ETI est désignée à titre de sous-traitant, mais Elena Frenkel est désignée à titre de mandataire ou de mandant, de sorte qu’il est reconnu qu’ETI pourrait agir pour le compte de Mme Frenkel.
+3. La facture adressée à GSI indiquait le « nom commercial » comme étant celui d’ETI, mais l’entrepreneur était Elena Frenkel.
+4. Il n’y avait pas de factures des Frenkel adressées à ETI, mais cela pourrait s’expliquer par le fait qu’ETI agissait simplement à titre de mandataire.
+5. Les Frenkel pouvaient sans aucun doute avoir recours à ETI à leur guise; rien ne les obligeait à rendre compte à ETI du temps qu’ils consacraient au profit de cette dernière, ou encore de l’endroit ou du moment où ils le faisaient.
+6. En fait, rien n’a changé pour M. Frenkel quant à la façon dont il exploitait l’entreprise après la constitution d’ETI en personne morale, si ce n’est que M. Frenkel utilisait le nom ETI au lieu de CMT.
+[19] Tout cela m’amène à me demander exactement quel était le contrat ou l’entente entre les Frenkel et ETI. Selon moi, la personne morale agissait à titre de mandataire des Frenkel en vue de répondre aux exigences des clients éventuels de l’entreprise des Frenkel; elle percevait les montants dus pour leur compte, elle payait les dépenses de leurs entreprises à l’aide des sommes reçues, mais elle pouvait conserver une partie de ces sommes pour la prestation de ces services de gestion. Je conclus que la façon la plus exacte de décrire l’entente sur le plan juridique est qu’ETI a été établie à titre de mandataire en vue de gérer l’entreprise des Frenkel, entreprise que ceux‑ci ont continué à exploiter personnellement. Cela étant, ETI pouvait de fait posséder du matériel, mais je suis convaincu que les chances de bénéfice et les risques de perte associés à leurs entreprises respectives étaient assumés par les Frenkel. Ce qui a changé pour les Frenkel, après la constitution d’ETI en personne morale, c’est qu’ETI gérait leurs entreprises à titre de mandataire, sans toutefois assurer l’exploitation comme telle des entreprises. Cela me semble la façon la plus logique, sur le plan commercial, d’interpréter le témoignage de M. Frenkel lorsqu’il s’agit de savoir ce qui se passait réellement. Compte tenu de cette interprétation, je conclus que les Frenkel n’étaient pas rémunérés à titre d’employés d’ETI, mais qu’ils étaient rémunérés pour les services indépendants de consultation et de marketing qu’ils fournissaient. En leur qualité de propriétaires d’ETI, ils pouvaient décider de ne verser aucun salaire aux personnes qui fournissaient les services de gestion et conserver une partie du bénéfice, comme ils l’ont fait en 2010, peut-être bien en vue de les distribuer à l’avenir sous la forme de dividendes. Il est certain que les Frenkel pourraient tout aussi bien transmettre leurs entreprises individuelles telles quelles à ETI et retirer leurs salaires d’ETI. De fait, cela serait peut-être bien plus facile pour eux sur le plan logistique; toutefois, je crois que ce n’était pas leur intention et qu’en fait, ce n’est pas ce qu’ils ont fait, de sorte qu’ils se sont retrouvés dans cette entente plutôt nébuleuse. J’encourage les Frenkel à demander conseil à des comptables et à des avocats en vue de décider de la voie à suivre à l’avenir.
+[20] Selon la position subsidiaire que le ministre a prise, les montants versés aux Frenkel en 2010 étaient des frais d’administrateurs et ils étaient donc visés par la définition des termes « fonction », « charge » et « fonctionnaire » figurant à l’article 2 du RPC, ce qui inclut expressément un poste d’administrateur de personne morale. Le ministre a fait remarquer que, dans ses états financiers, ETI elle-même inscrivait les montants versés aux Frenkel à titre de jetons de présence. M. Frenkel a expliqué que c’était la seule catégorie qui, selon lui, existait dans le logiciel aux fins de l’inscription de ce paiement. J’accorde peu d’importance à cette appellation. La preuve donnait clairement à entendre que les montants avaient été versés aux Frenkel à l’égard du travail qu’ils avaient accompli pour des clients, quoique les montants aient été retirés au besoin seulement, et que cela n’avait rien à voir avec leurs fonctions d’administrateurs. Le fait de considérer une partie quelconque de ces montants comme se rapportant en fait à des jetons de présence ne correspondrait pas à la réalité commerciale de cette entente.
+[21] Enfin, je traiterai brièvement de l’argument de M. Frenkel selon lequel le gouvernement n’a pas suivi les dispositions du RPC, en ce sens que ni le ministre du Développement social, ni un employeur ou un employé n’ont demandé à un fonctionnaire de trancher la question, comme l’exige l’article 26.1 du RPC. L’article 27.3, qui est libellé ainsi, s’applique à la situation :
+27.3 Les articles 26.1 à 27.2 n’ont pas pour effet de restreindre le pouvoir qu’a le ministre de rendre une décision de sa propre initiative en application de la présente partie ou d’établir une évaluation ultérieurement à la date prévue au paragraphe 26.1(2).
+[22] J’ai traité de la même question dans les décisions 6005021 Canada Inc. c. Canada[5] et Zazai Enterprises Inc. c. Canada[6]; dans cette dernière décision, voici ce que j’ai dit :
+17. L’examen de ces dispositions dans leur ensemble montre que le ministre peut, sans restriction aucune, établir une évaluation telle que celle qu’il a établie en l’espèce. Si le paragraphe 26.1(4) était interprété de la façon préconisée par M. Sarmiento, le pouvoir conféré au ministre serait complètement anéanti; de fait, l’article 27.3 deviendrait inutile (résultat que le législateur ne pouvait certes pas chercher à obtenir), étant donné que la chose permettrait au ministre d’établir une évaluation, mais sans que celui‑ci puisse soutenir que le non‑paiement n’était pas conforme à la Loi. Somme toute, il n’y aurait rien qui puisse donner lieu à une évaluation. Je suis prêt à admettre que le libellé de ces dispositions est loin d’être clair, mais il faut l’interpréter de façon à lui attribuer un sens. Et le sens que je lui attribue, c’est que l’absence de demande de décision n’entrave aucunement l’exercice du pouvoir du ministre. Cette interprétation est en outre étayée par le paragraphe 26.1(2) du RPC, qui permet au ministre du Développement social de demander une décision à tout moment, c’est‑à‑dire que le gouvernement peut toujours surmonter l’obstacle dressé par M. Sarmiento simplement en présentant une demande. Les remarques que la Cour d’appel fédérale a faites dans l’arrêt Care Nursing Agency Ltd., précité, semblent justifier mon avis sur ce point.
+[23] Comme le montrent clairement ces motifs, cette solution laisse plutôt à désirer. Pourtant, c’est celle qui correspond le plus exactement à l’intention des Frenkel et à leur arrangement commercial. L’arrangement prête à confusion et les Frenkel auraient avantage à obtenir l’aide de professionnels en vue d’éclaircir la situation. Il est clair qu’ils n’essayaient pas d’éviter quelque responsabilité que ce soit puisqu’ils ont personnellement versé des cotisations au RPC. La décision du ministre portant que les Frenkel occupent un emploi ouvrant droit à pension est annulée ainsi que la nouvelle évaluation dont ETI a fait l’objet, pour le motif que les Frenkel n’étaient pas des employés d’ETI.
+Signé à Ottawa, Canada, ce 18e jour de juin 2012.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 23e jour de novembre 2012.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2012 CCI 216
+Nos DES DOSSIERS DE LA COUR : 2011-3912(CPP), 2011-3911(CPP) et 2012‑1518(CPP)
+INTITULÉ : VSEVOLOD FRENKEL, ELENA FRENKEL et EFFECTIVE TECHNOLOGIES & IDEAS INC.
+c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 1er juin 2012
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 18 juin 2012
+COMPARUTIONS :
+Pour l’appelant :
+Représentant des appelantes :
+L’appelant lui-même
+M. Vsevolod Frenkel
+Avocat de l’intimé :
+Me Stephen Oakey
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant : s/o
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1986] 3 C.F. 553.
+[2] 2001 CSC 59.
+[3] 2005 CCI 654.
+[4] 2004 CCI 32.
+[5] 2009 CCI 339.
+[6] 2008 CCI 606.

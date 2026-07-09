@@ -1,0 +1,190 @@
+---
+title: "Kerr v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30627/index.do"
+last_modified: "2011-12-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 551"
+citation2: ""
+neutral_citation: "2011 TCC 551"
+decision_date: "2011-12-01"
+language: "en"
+item_id: "30627"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7135
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:48:57.069000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "20620f0afb27c52d3e5e2359097453743cdd115f71f634243559366baeb718f5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kerr v. The Queen
+
+- Citation: 2011 TCC 551
+- Decision date: 2011-12-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7135, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kerr v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-12-01
+Neutral citation
+2011 TCC 551
+File numbers
+2011-1802(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-1802(IT)I
+BETWEEN:
+ALLAN H. KERR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 17, 2011, at London, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+William Doran
+Counsel for the Respondent:
+Grégoire Cadieux
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2008 and 2009 taxation years are allowed and the matters are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 1st day of December 2011.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2011TCC551
+Date: 20111201
+Docket: 2011-1802(IT)I
+BETWEEN:
+ALLAN H. KERR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issue in this appeal is whether the Appellant is entitled to deduct the amounts of $7,487 and $7,654 as child support payments in 2008 and 2009 respectively.
+[2] The parties submitted a Statement of Agreed Facts (Partial) which basically reiterates the facts assumed by the Minister of National Revenue (the “Minister”) when he assessed the Appellant. It reads:
+1. The Minister of National Revenue (the “Minister”) initially assessed the appellant’s 2008 income tax liability and disallowed child support payments claimed in the amount of $7,487.
+2. The Minister initially assessed the appellant’s 2009 income tax liability and disallowed child support payments claimed in the amount of $7,654.
+3. The Minister confirmed the assessments for the 2008 and 2009 taxation years.
+4. The appellant and Louise Carrie (the “Former spouse”) were living separate and apart since November 1995.
+5. The appellant and the Former Spouse had a child, namely J.C., born in 1994 (the “Child”).
+6. Pursuant to an order of the Ontario Court of Justice (General division) dated June 18, 1996 (the “Order”), the appellant was required to make monthly support payments in the amount of $350 to the Former spouse with respect to the Child (the “Support payments”). (A copy of the June 18, 1996 Court Order is attached at Tab 1).
+7. The Order included a cost of living provision that states the Support payments shall be increased annually.
+8. The Family Responsibility Office (“FRO”) of the Ministry of Community and Social Services enforced the June 18, 1996 Court Order.
+9. The appellant and the Former spouse signed a written Separation Agreement made May 30, 2006 (the “Agreement”) that provided for Support payments in the amount (of) $322, commencing June 1, 2006. (A copy of the May 30, 2006 Separation agreement is attached at Tab 2).
+10. The Agreement was not filed with the Courts.
+11. The Family Responsibility Office (“FRO”) of the Ministry of Community and Social Services did not enforce the May 30, 2006 Separation Agreement. (A copy of a communication from the FRO to that effect is attached at Tab 3).
+12. For the years 2008 and 2009, in addition to the Support payments, the appellant paid outstanding support arrears through a Voluntary Arrears Payment schedule in the fixed amount of $220 per month (the “Arrears Payment”). (A copy of a communication from the FRO to that effect is attached at Tab 4).
+13. During the 2008 taxation year, the appellant made Support payments including arrears through payroll deductions in the total amount of $7,487.
+14. During the 2009 taxation year, the appellant made Support payments including arrears through payroll deductions in the total amount of $7,654.
+[3] The Order referred to in paragraph 6 of the Statement of Agreed Facts (Partial) contained the following paragraph;
+THIS COURT ORDERS THAT unless the support Order is withdrawn from the office of the Family Support Plan, it shall be enforced by the Director and amounts owing under the support Order shall be paid to the Director, who shall pay them to the person to whom they are owed.
+[4] The support Order was never withdrawn from the office of the Family Support Plan. In a letter dated August 4, 2009, the Family Responsibility Office (FRO) confirmed that it had been enforcing the Order since it was registered in October 1996.
+[5] The Appellant described the events which led him to sign the Separation Agreement referred to at paragraph 9 in the Statement of Agreed Facts.
+[6] In 2006, the Appellant did not make any Support Payments to his Former Spouse who was receiving social assistance from the Algoma District Services Administration Board (the “Board”). A Family Support Worker with the Board wrote to the Appellant to inform him that she was assigned to assist his Former Spouse to obtain child support and that he had two possible courses of action to settle the child support. One option was to proceed through the courts, and the other option was to work out a private written agreement between the parties. The Appellant chose to sign the private written agreement (the “Separation Agreement”) which provided for child support payments of $322 per month.
+[7] He respected the Separation Agreement and made ten payments by cheques written to his Former Spouse from June 2006 to March 2007 inclusive. He said he stopped sending the cheques to his Former Spouse when she moved and he no longer had her address.
+[8] The Board sent the Separation Agreement to the Family Responsibility Office (FRO) to have the Separation Agreement enforced. The FRO was unable to enforce it as it had not been filed with the courts.
+[9] By letter dated August 8, 2007, the Board notified the Appellant that it was authorized to receive the Support Payments directly from the FRO as his Former Spouse had assigned her rights under the Order to the Board. A copy of the Assignment was attached to the letter.
+[10] The FRO set up a Voluntary Arrears Payment Schedule with the Appellant and garnisheed his wages in accordance with the amounts proposed by the Appellant. The garnisheed amounts are the amounts in issue for 2008 and 2009.
+[11] It is agreed by the parties that the Support payments in issue were paid through the FRO and were made pursuant to the Court Order and not the Separation Agreement.
+Law
+[12] Child support payments are neither deductible by the payer nor included in the income of the recipient if they are payable under an agreement or order with a commencement day of May 1, 1997 or later[1].
+[13] Child support amounts payable pursuant to an agreement or order made before May 1997 are generally deductible by the payer and included in the income of the recipient unless a post-April 1997 “commencement day” can be attributed to the agreement.
+[14] The term “commencement day” is defined in subsection 56.1(4) of the Act as follows:
+commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+[15] It is first necessary to identify whether the Support Payments were payable under the Order or the Separation Agreement[2].
+[16] If the Support Payments became payable under the Separation Agreement then there is a “commencement day” of May 30, 2006 in accordance with paragraph 56.1(4)(a). If the Support Payments were payable under the Order, then it is necessary to ascertain if any of the subparagraphs in 56.1(4)(b) attribute a “commencement day” to the Order.
+[17] It is the Appellant’s position that the Support Payments were payable under the Order. The Respondent did not clearly enunciate its position.
+[18] It is my view that the Appellant is correct. There is no termination date given in the Order. There was no evidence that the support obligation pursuant to the Order was stayed or ceased. The Order was not varied, rescinded or suspended.
+[19] The Order could only be varied or modified by an application to a court of competent jurisdiction in accordance with the Ontario Family Law Act[3]. Section 37 of that Act reads:
+37(1) An application to the court for variation of an order made or confirmed under this Part may be made by,
+(a) a dependant or respondent named in the order;
+(b) a parent of a dependant referred to in clause (a);
+(c) the personal representative of a respondent referred to in clause (a); or
+(d) an agency referred to in subsection 33 (3).
+…
+(2.1) In the case of an order for support of a child, if the court is satisfied that there has been a change in circumstances within the meaning of the child support guidelines or that evidence not available on the previous hearing has become available, the court may,
+(a) discharge, vary or suspend a term of the order, prospectively or retroactively;
+(b) relieve the respondent from the payment of part or all of the arrears or any interest due on them; and
+(c) make any other order for the support of a child that the court could make on an application under section 33.
+[20] The Separation Agreement did not and could not replace the Order or oust the obligation imposed on the Appellant by the court Order as the Separation Agreement was not filed with the court.
+[21] Subsection 35(2) of the Family Law Act allows for a separation agreement which is filed with the court to be treated as if it were an order of the court.
+35(1) A person who is a party to a domestic contract may file the contract with the clerk of the Ontario Court of Justice or of the Family Court of the Superior Court of Justice together with the person’s affidavit stating that the contract is in effect and has not been set aside or varied by a court or agreement.
+…
+Effect of filing
+(2) A provision for support or maintenance contained in a contract that is filed in this manner,
+(a) may be enforced;
+(b) may be varied under section 37; and
+(c) except in the case of a provision for the support of a child, may be increased under section 38,
+(d) in the case of a provision for the support of a child, may be recalculated under section 39.1,
+as if it were an order of the court where it is filed.
+[22] As I have determined that the Support Payments were payable under the Order, I must also determine whether the Separation Agreement had the effect of triggering a commencement day for the Order.
+[23] It is my view that there was no commencement day in this case.
+[24] Subparagraphs 56.1(4)(i) and (iv) do not apply in the circumstances of this appeal as the Appellant and his Former spouse did not make a joint election nor did they specify a commencement day in the Separation Agreement.
+[25] The Separation Agreement could not vary the Order. The Order could be varied only by application to the court. Subparagraph 56.1(4)(ii) does not apply.
+[26] The Separation Agreement does not provide for a distinct and separate payment obligation which co-exists with the payment obligation in the Order. As a result, the Separation Agreement cannot establish a commencement day for the Order under subparagraph 56.1(4)(iii) of the Act[4].
+[27] For all of these reasons, I conclude that a commencement day was not triggered by the Separation Agreement. The Appellant is entitled to deduct the amounts of $7,487 and $7,654 as child support payments in 2008 and 2009.
+[28] The appeal is allowed.
+Signed at Ottawa, Canada, this 1st day of December 2011.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2011TCC551
+COURT FILE NO.: 2011-1802(IT)I
+STYLE OF CAUSE: ALLAN H. KERR AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: November 17, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: December 1, 2011
+APPEARANCES:
+Counsel for the Appellant:
+William Doran
+Counsel for the Respondent:
+Grégoire Cadieux
+COUNSEL OF RECORD:
+For the Appellant:
+Name: William Doran
+Firm: Miller Thompson, LLP
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1] Holbrook v. R., 2007 FCA 145 at paragraph 7
+[2] Ibid at paragraphs 3 and 4
+[3] R.S.O. 1990, Chapter F.3
+[4] Warbinek v. R., 2008 FCA 276 at paragraphs 33 to 38.

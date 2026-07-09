@@ -1,0 +1,201 @@
+Title: Heno c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/489438/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-127-489438-heno-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-12-01
+
+# Heno c. La Reine
+
+- Citation: 2020 CCI 127
+- Decision date: 2020-12-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4652, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Heno c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-12-01
+Référence neutre
+2020 CCI 127
+Numéro de dossier
+2019-4072(IT)I
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-4072(IT)I
+ENTRE :
+OTONG HENO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appels entendu les 23 et 24 septembre 2020, à Ottawa (Canada).
+Devant : L'honorable juge Johanne D'Auray
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l'intimée :
+Me Jean- Philippe Vinette
+JUGEMENT
+Les appels pour les années d'imposition 2003, 2004 et 2007 sont rejetés au motif que la ministre pouvait, à la lumière des faits, établir des nouvelles cotisations après la période normale de cotisation pour les années d'imposition 2003 et 2004 en vertu du sous-alinéa 152(4)a)(i) de la Loi de l'impôt sur le revenu (la « Loi »). L’appelant ne pouvait réclamer des dons de bienfaisance.
+La ministre a également correctement établi des pénalités relativement aux années d'imposition 2003, 2004 et 2007 en vertu du paragraphe 163(2) de la Loi.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2020.
+« Johanne D’Auray »
+Juge D'Auray
+Référence : 2020 CCI 127
+Date :20201201
+Dossier : 2019-4072(IT)I
+ENTRE :
+OTONG HENO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge D'Auray
+I. Aperçu
+[1] La ministre du Revenu national (la « ministre ») établit à l’égard de M. Heno des nouvelles cotisations pour les années d’imposition 2003, 2004 et 2007.
+[2] Les nouvelles cotisations pour les années 2003 et 2004 sont établies après la période normale de cotisation en vertu du sous-alinéa 152(4)a)(i) de la Loi de l’impôt sur le Revenu (la « Loi »).
+[3] En vertu de ces nouvelles cotisations, la ministre refuse les crédits pour dons de bienfaisance demandés par M. Heno dans ses déclarations de revenus. La ministre a aussi imposé des pénalités en vertu du paragraphe 163(2) de la Loi.
+[4] M. Heno fait valoir qu’il n’a jamais fait de dons de bienfaisance. Par conséquent, il fait valoir que les nouvelles cotisations sont mal fondées en fait et en droit.
+II. Les faits
+[5] Mme Anna Tran témoigne pour l’intimée. Elle est agente des appels à l’Agence du Revenu du Canada (l’« ARC »). Elle est responsable de traiter les avis d’opposition de M. Heno relativement aux années visées par le litige.
+[6] Mme Tran indique que le dossier de M. Heno fait partie d’un projet national visant des dossiers dans lesquels des contribuables ont fait des présentations erronées de faits à l’égard de dons de bienfaisance et de frais de scolarité pour lesquels ils ont demandé des crédits dans leurs déclarations de revenus.
+[7] Mme Tran explique que, le 5 janvier 2009, une lettre a été envoyée par M. Marcel Gagné, Projets spéciaux, de la Division de la vérification de l’ARC à M. Heno. Dans cette lettre, M. Gagné explique que l’ARC a découvert plusieurs stratagèmes relatifs à des frais de scolarité et à des dons de bienfaisance. Plus précisément, M. Gagné écrit ce qui suit:
+L’Agence du revenu du Canada (ARC) a découvert plusieurs stratagèmes aux termes desquels des promoteurs/et ou préparateurs de déclarations d’impôts ont vendu ou fourni aux contribuables, souvent en échange d’argent, de faux reçus ou des reçus fictifs de crédit pour frais de scolarité et montants relatifs aux études, et dons de bienfaisance. Les contribuables ont ensuite utilisé ces reçus pour produire leur déclaration et obtenir des remboursements de l’impôt sur le revenu des particuliers. Compte tenu de cette situation, l’ARC effectuera un examen approfondi des déclarations des contribuables afin de s’assurer que les demandes sont conformes à Loi de l’impôt sur le revenu. Si les demandes ne sont pas valides, elles seront rejetées et les déclarations feront l’objet d’une nouvelle cotisation.
+Nous avons reçu des renseignements selon lesquels vous pourriez avoir profité d’un tel stratagème et avoir demandé, dans vos Déclarations de revenus et de prestations T1 pour les années 2003, 2004, et/ou 2007, une ou plusieurs déductions fondées sur des documents injustifiés et/ou falsifiés. Cependant, avant de commencer tout examen, nous voulons vous offrir la possibilité de corriger tout renseignement inexact ou incomplet figurant dans votre déclaration. […]
+[8] Également dans la lettre du 5 janvier 2009, M. Gagné demande à M. Heno de lui transmettre les reçus originaux pour tous les dons de bienfaisance afin de justifier les crédits pour dons de bienfaisance qu’il a demandés dans ses déclarations de revenus ainsi que toute autre preuve établissant que les dons ont été effectués, par exemple, en transmettant des relevés bancaires, des chèques oblitérés, des notes de débit ou de crédit ou des relevés de carte de crédit établissant les dons.
+[9] Le 1er mars 2009, une lettre portant la signature de M. Heno est adressée à M. Gagné de l’ARC. À cette lettre sont joints des reçus établis au nom de M. Heno constatant des dons de 9 400 $ pour l’année d’imposition 2003, de 3 425 $ pour l’année d’imposition 2004 et de 5 600 $ pour l’année d’imposition 2007. Les montants correspondent aux montants réclamés à titre de dons de bienfaisance dans les déclarations de revenus de M. Heno.
+[10] Des reçus de frais de scolarité sont aussi joints à la lettre du 1er mars 2009. M. Heno avait également demandé des crédits pour frais de scolarité dans ses déclarations de revenus pour les années d’imposition 2004 et 2007. Cependant, à l’audience, M. Heno a indiqué qu’il ne contestait plus la nouvelle cotisation concernant les frais de scolarité et qu’à cet égard, son appel devait être rejeté.
+[11] Mme Tran explique que, selon les informations obtenues par l’ARC, M. Heno a, durant les années d’imposition en question, utilisé les services de M. Frimpong (le « préparateur ») pour la préparation de ses déclarations de revenus.
+[12] Selon Mme Tran, M. Frimpong établissait contre rémunération de faux reçus ou des reçus fictifs de dons de bienfaisance et de frais de scolarité. M. Frimpong offrait aussi ses services sous les dénominations AAA Ashati Accounting Services, AAS Ahsanti Accounting Services et Nyasco Accounting Services. M. Frimpong a été mis en accusation en vertu du Code criminel. Cependant, selon les dires de Mme Tran, M. Frimpong a quitté le pays.
+[13] Mme Tran explique qu’une personne qui prépare des déclarations de revenus pour des contribuables doit s’enregistrer auprès de l’ARC si elle souhaite déposer les déclarations de revenus de ses clients par voie électronique. À cette fin, l’ARC donne un code au préparateur. En l’espèce, le code attribué par l’ARC à M. Frimpong était le D6657.
+[14] La déclaration de revenus de M. Heno pour l’année d’imposition 2007 portait le code D6657, soit le code de M. Frimpong. C’est ainsi que l’ARC a conclu que M. Heno utilisait les services de M. Frimpong pour la préparation de ses déclarations de revenus. Selon Mme Tran, les déclarations de revenus de M. Heno pour les années 2003 et 2004 ont aussi été préparées par M. Frimpong, sauf qu’elles ont été déposées auprès de l’ARC en version papier.
+[15] Selon Mme Tran, en échange de frais supplémentaires, le préparateur réclamait des dons de bienfaisance pour ses clients et obtenait des reçus fictifs. Les remboursements obtenus par les clients étaient plus élevés que les frais qu’ils payaient à M. Frimpong pour l’obtention des reçus fictifs.
+[16] M. Heno témoigne qu’il ne connaît pas M. Frimpong et qu’il n’est pas familier avec les noms d’entreprise AAA Ashati Accounting Services, AAS Ahsanti Accounting Services et Nyasco Accounting Services. Il témoigne qu’il a utilisé les services de M. Raoul Komlan pour la préparation de ses déclarations de revenus.
+[17] M. Heno témoigne qu’il n’a jamais écrit la lettre du 1er mars 2009 à l’ARC. Il fait valoir qu’il n’écrit pas en langue anglaise. De plus, la signature sur la lettre n’est pas la sienne.
+[18] M. Heno fait également valoir que l’adresse postale sur la lettre du 1er mars 2009 est incorrecte. S’il avait écrit cette lettre, il aurait indiqué la bonne adresse. L’adresse de M. Heno sur la lettre est le 130, Meadow Wood Crescent, à Hamilton. Selon M. Heno, à cette date, il ne résidait pas à cette adresse. Selon, le relevé informatique déposé par l’ARC, l’adresse postale de M. Heno en mars 2009 était le 130, Meadow Wood Crescent, Hamilton (Ontario) L8J 3Z8.
+[19] Le 13 octobre 2009, la ministre établit des avis de nouvelles cotisations pour les années d’imposition 2003, 2004 et 2007. Dans ces nouvelles cotisations, la ministre refuse les crédits pour dons de bienfaisance et frais de scolarité demandés par M. Heno.
+[20] Le 4 décembre 2009, des avis d’opposition sont déposés, portant la signature de M. Heno, relativement aux années d’imposition 2003, 2004 et 2007. Bien que je cite l’avis d’opposition visant l’année d’imposition 2003, les motifs invoqués par M. Heno sont les mêmes dans les avis d’opposition pour les années 2004 et 2007, soit :
+MONSIEUR
+JE VIENS DE FAIRE OBJECTION DE MON AVIS DE NOUVELLE COTISATION POUR 2003 POUR DES RAISONS SUIVANTES:
+LES RECUS DE DON ET AUTRES DOCUMENTS PRODUITS SONT VALIDES. LE NUMERO DE CHARITE DE L’ORGANISME EXISTE BEL ET BIEN SUR LE SITE WEB DE L’AGENCE DU REVENU DU CANADA. C’EST POURQUOI JE DEMANDE LE CHEF DES APPELS DE RÉVISER MON AVIS DE NOUVELLE COTISATION 2003.
+RECEVEZ, MES MEILLEURES SALUTATIONS.
+MERCI
+[21] M. Heno témoigne qu’il n’a pas déposé ces avis d’opposition auprès de l’ARC. Bien qu’il reconnaisse sa signature sur les avis d’opposition, selon M. Heno, quelqu’un aurait imité sa signature sur ces documents.
+[22] M. Heno témoigne également que l’adresse indiquée sur les avis d’opposition est erronée. Selon lui, il n’a jamais résidé au 114, Meadow Wood Crescent, Stoney Creek (Ontario) L8J 3Z8. Selon les copies informatisées du registre des adresses des contribuables de l’ARC, l’adresse de M. Heno en décembre 2009 était le 114, Meadow Wood Crescent, Stoney Creek (Ontario) L8J 3Z8.
+[23] Le 4 décembre 2009, une autre lettre portant la signature de M. Heno est adressée à l’ARC. Dans cette lettre, M. Heno affirme ce qui suit :
+Notez que je n’avais pas recu mes documents (les recus et autres) seul j’ai recu mon avis de ma nouvelle cotisation. ils sont aupres de L’agence du revenue du Canada. Ainsi, je vous demande de se referrer a mon dossier après de vous pour consulter mes preuves pour cette objection. [sic]
+[24] M. Heno fait également valoir qu’il n’est pas l’auteur de cette lettre. Il allègue que quelqu’un aurait imité sa signature. Il affirme également que l’adresse sur la lettre du 4 décembre 2009 n’est pas son adresse, car il n’a jamais habité au 114, Meadow Wood Crescent, Stoney Creek (Ontario) L8J 3Z8.
+[25] M. Heno témoigne qu’il ne connaît pas le préparateur, M. Frimpong. Au sujet du préparateur qu’il dit avoir utilisé pour la préparation de ses déclarations de revenus, M. Raoul Komlan, il a déposé en preuve sa carte professionnelle. Aucun autre document n’a été déposé en preuve pour établir que le préparateur des déclarations de revenus de M. Heno était effectivement M. Komlan. M. Komlan n’a pas témoigné à l’audience.
+[26] M. Heno indique également qu’il n’a jamais vu avant l’audience les reçus déposés par l’intimée qui font état de ses dons de bienfaisance.
+[27] M. Heno admet lors du contre-interrogatoire qu’il n’a pas vérifié ses déclarations de revenus avant qu’elles soient transmises à l’ARC. Selon M. Heno, le préparateur envoyait directement ses déclarations de revenus à l’ARC sans qu’il en prenne connaissance.
+III. Les thèses des parties
+[28] M. Heno fait valoir qu’il n’a jamais fait de dons de bienfaisance. Il plaide qu’il est ridicule qu’il ait réclamé des dons de bienfaisance de 9 400 $ en 2003 et de 3 425 $ en 2004 au bénéfice de The Redemption Power International Ministry et de 6 090 $ en 2007 au bénéfice de Revival Time Ministries, alors que son revenu annuel était de 26 168 $ en 2003, de 24 865 $ en 2004 et de 24 712 $ en 2007. Il fait valoir que, logiquement, il ne pouvait se permettre de donner des sommes aussi élevés à titre de dons.
+[29] De plus, il fait valoir qu’il n’a jamais réclamé de crédits pour dons de bienfaisance depuis qu’il produit des déclarations de revenus, soit depuis 1988.
+[30] Il fait également valoir qu’il ne connaît pas les organismes The Redemption Power International Ministry et Revival Time Ministries.
+[31] Selon M. Heno, une personne aurait volé son identité et réclamé des crédits pour dons de bienfaisance en utilisant son identité. Il allègue un complot entre l’ARC et le préparateur de ses déclarations de revenus.
+[32] M. Heno fait donc valoir qu’il n’a pas fait de présentation erronée des faits par négligence, inattention ou omission volontaire ni commis quelque fraude, tel que l’exige le sous-alinéa 152(4)a)(i) de la Loi.
+[33] Pour les mêmes motifs, il fait également valoir que la pénalité imposée par la ministre en vertu du paragraphe 163(2) de la Loi devrait être annulée.
+[34] Pour sa part, l’intimée fait valoir que M. Heno a fait une présentation erronée des faits par négligence, inattention ou omission volontaire en ne vérifiant pas ses déclarations de revenus avant qu’elles soient acheminées à l’ARC.
+[35] Selon l’intimée, si, tel que le prétend M. Heno, ce dernier n’avait pas fait de dons de bienfaisance, lors de la vérification de ses déclarations de revenus, il aurait facilement pu constater que des crédits pour dons de bienfaisance étaient demandés et le préparateur aurait facilement pu apporter des corrections. En ne vérifiant pas ses déclarations de revenus, M. Heno n’a pas fait preuve de diligence raisonnable.
+[36] De plus, l’intimée fait valoir que, si M. Heno avait vérifié ses déclarations de revenus, il aurait questionné le préparateur relativement aux remboursements, ces derniers étant élevés en raison des dons de bienfaisance déclarés.
+[37] Selon la thèse de l’intimée, M. Heno n’est pas un témoin crédible. Dans le cadre du projet national relativement à M. Frimpong, M. Heno a été identifié comme étant un client de M. Frimpong. M. Frimpong a établi des reçus de dons de bienfaisance fictifs pour plusieurs contribuables.
+[38] De plus, l’intimée fait valoir, preuve à l’appui, que M. Heno a réclamé des crédits pour des dons de bienfaisance dans ses déclarations de revenus pour les années d’imposition 2003 et 2004. Les remboursements ont été déposés directement dans le compte bancaire de M. Heno ou ils ont servi à compenser d’autres dettes de M. Heno, soit des dettes envers Immigration Canada. À cet égard, les copies de relevés informatiques déposés par l’intimée démontrent que des remboursements ont été versés par l’ARC à M. Heno.
+[39] L’intimée fait aussi valoir que la ministre a correctement imposé des pénalités à l’égard de M. Heno, car ce dernier savait qu’il ne pouvait pas réclamer de crédits pour des dons de bienfaisance qu’il n’avait pas effectués. De plus, il a commis une faute lourde en ne vérifiant pas ses déclarations de revenus. Une personne raisonnable dans la même situation, soit un homme instruit comme M. Heno, aurait vérifié ses déclarations de revenus avant qu’elles soient acheminées à l’ARC.
+IV. Les questions en litige
+[40] Est-ce que la ministre a établi que M. Heno a fait une présentation erronée des faits soit par négligence, inattention ou omission volontaire, soit par fraude en produisant ses déclarations de revenus pour 2003 et 2004, ce qui l’autorisait à établir des nouvelles cotisations en vertu du sous-alinéa 152(4)a)(i) de la Loi?
+[41] Est-ce que la ministre a correctement refusé les crédits pour dons de bienfaisance réclamés par M. Heno pour l’année d’imposition 2007?
+[42] Est-ce que la ministre a correctement imposé des pénalités en vertu du paragraphe 163(2) de la Loi?
+V. Analyse
+[43] Aux termes du sous-alinéa 152(4)a)(i) de la Loi, la ministre peut établir une nouvelle cotisation en tout temps après l’expiration de la période normale de cotisation lorsque le contribuable ou la personne produisant la déclaration fait une présentation erronée des faits, par négligence, inattention, omission volontaire ou fraude.
+[44] Aux termes du sous-alinéa 152(4)a)(i) de la Loi, c’est la ministre qui a le fardeau d’établir que :
+a) le contribuable, en produisant sa déclaration de revenus, a fait une présentation erronée des faits;
+b) cette présentation erronée est imputable à la négligence, à l’inattention, à une omission volontaire ou à la fraude.
+[45] La décision de principe qui traite de ce qu’est la négligence au sens du sous-alinéa 152(4)a)(i) de la Loi est la décision Venne c. Canada [1] . Dans cette décision, le juge Strayer de la Cour fédérale du Canada affirme que la négligence sera établie s’il est démontré que le contribuable n’a pas fait preuve de diligence raisonnable lors du dépôt de ses déclarations de revenus.
+[46] À cet égard, la Cour d’appel fédérale, dans l’arrêt Gebhart (Succession) c. Canada [2] , confirme que, pour l’application du sous-alinéa 152(4)a)(i) de la Loi, l’affirmation du juge Strayer dans Venne c. Canada s’applique, c’est-à-dire que la diligence raisonnable se définit comme le soin dont on s’attendrait d’une personne avisée dans les mêmes circonstances.
+[47] En l’espèce, M. Heno allègue la négligence de la personne qui a préparé ses déclarations de revenus. M. Heno fait valoir que le préparateur a demandé des crédits pour dons de bienfaisance à son insu, en utilisant son identité. Il soutient qu’il ne doit pas être pénalisé pour des gestes commis par le préparateur de ses déclarations de revenus.
+[48] Dans la décision Aridi c. SMR [3] , le juge Hogan analyse les décisions où des contribuables ont prétendu s’être fiés uniquement à leur comptable pour la préparation de ses déclarations de revenus. Il conclut que les cours n’ont pas retenu la thèse des contribuables quand les faits établissent que le contribuable n’a pas examiné attentivement ou n’a pas lu ses déclarations de revenus, plus particulièrement quand le contribuable aurait facilement pu constater la présentation erronée. Au paragraphe 43 de ses motifs, le juge Hogan écrit ce qui suit :
+[…] D’une part, dans toutes les décisions, le tribunal est venu à la conclusion que le contribuable n’avait pas examiné attentivement ou n’avait tout simplement pas lu les déclarations de revenus avant de les signer. D’autre part, dans plusieurs de ces décisions, le tribunal a conclu que le contribuable aurait aisément pu constater l’existence de la présentation erronée des faits s’il avait posé des questions ou s’il s’était donné la peine de pousser son analyse plus loin. Enfin, dans certains cas, le tribunal a jugé que le contribuable était tenu de savoir, de par la situation, qu’il y avait présentation erronée des faits.
+[49] Je suis d’avis que M. Heno a fait une présentation erronée des faits. M. Heno a témoigné ne pas avoir lu ni révisé ses déclarations de revenus. Le préparateur aurait acheminé les déclarations de revenus à l’ARC sans que M. Heno les examine. À mon avis, si M. Heno avait examiné ses déclarations de revenus, il aurait facilement constaté qu’il avait demandé dans ses déclarations de revenus des crédits relatifs à des dons de bienfaisance de 9 400 $ pour l’année d’imposition 2003 et de 3 425 $ pour l’année d’imposition 2004, alors qu’il n’avait pas effectué ces dons. Il a donc été négligent en ne vérifiant pas ses déclarations de revenus avant qu’elles soient transmises à l’ARC.
+[50] De toute manière, je suis d’avis que la version des faits de M. Heno ne tient pas la route. Selon M. Heno, le préparateur de ses déclarations de revenus, de concert avec l’ARC, aurait demandé des crédits pour dons de bienfaisance et produit des reçus de dons de bienfaisance fictifs. Son préparateur aurait volé son identité à son insu. Je suis d’avis que la preuve déposée à l’audience par l’intimée contredit la version des faits de M. Heno.
+[51] Il ressort des options C, soit les copies informatisées des déclarations de revenus de M. Heno, que des montants de 9 400 $ en 2003, de 3 425 $ en 2004 et de 6 090 $ en 2007 ont été réclamés par M. Heno à titre de dons de bienfaisance.
+[52] Le 5 janvier 2009, l’ARC écrit à M. Heno, l’avisant qu’elle avait découvert plusieurs stratagèmes par lesquels des promoteurs ou des préparateurs de déclarations de revenus avaient vendu ou fourni à des contribuables, souvent en échange d’argent, de faux reçus ou des reçus fictifs qui permettaient aux contribuables de réclamer des crédits relatifs à des frais de scolarité et à des dons de bienfaisance. La lettre indiquait que, selon les renseignements obtenus, M. Heno aurait pu avoir profité d’un tel stratagème. L’ARC indiquait également à M. Heno qu’il avait la possibilité de corriger tout renseignement inexact ou incomplet figurant dans ses déclarations de revenus en acheminant un formulaire TI-ADJ à l’ARC. L’ARC a décidé de ne pas imposer de pénalités si le formulaire TI-ADJ lui était envoyé dans un certain délai. La lettre indiquait aussi que, si des dons de bienfaisance avaient été effectués, les originaux des reçus pour dons de bienfaisance devaient être acheminés à l’ARC ainsi que toute autre preuve établissant que des dons de bienfaisance avaient été effectués.
+[53] À la suite de la lettre du 5 janvier 2009 de l’ARC, une lettre en date du 1er mars 2009 est acheminée à l’ARC. Joints à cette lettre sont les reçus attestant les dons de bienfaisance et les frais de scolarité. M. Heno témoigne que la signature sur cette lettre n’est pas la sienne. L’intimée ne conteste pas cette allégation de M. Heno. Premièrement, la lettre est écrite en langue anglaise, alors que M. Heno utilise toujours la langue française dans sa correspondance. Deuxièmement, même si je ne suis pas experte en la matière, il est clair que ce n’est pas la signature de M. Heno qui est apposée sur la lettre du 1er mars 2009. Cependant, comme le fait valoir l’intimée, c’est sûrement le préparateur de M. Heno qui a fait parvenir la lettre à l’ARC en réponse à la lettre de l’ARC du 5 janvier demandant à M. Heno de fournir les originaux des reçus pour les dons de bienfaisance et les frais de scolarité.
+[54] De toute manière, dans les circonstances, cette lettre n’est qu’un maillon faible parmi d’autres éléments de preuve qui m’ont permis de conclure que la version de M. Heno n’est pas véridique. Par exemple, dans ses déclarations de revenus, des crédits pour dons de bienfaisance sont réclamés. De plus, M. Heno affirme, dans ses avis d’opposition du 4 décembre 2009, qu’il a fait des dons de bienfaisance pour les années 2003, 2004 et 2007 en soutenant que les reçus de dons et autres documents sont valides et que les organismes de bienfaisance existent sur le site Web de l’ARC.
+[55] Qui plus est, M. Heno envoie également à l’ARC une lettre datée du 4 décembre 2009, dans laquelle il indique que les reçus pour les dons de bienfaisance relativement aux années pertinentes sont déjà au dossier de l’ARC. Il ne peut alors que faire référence à la lettre envoyée par son préparateur en date du 1er mars 2009, à laquelle les reçus relatifs aux dons de bienfaisance sont joints.
+[56] Compte tenu de cette preuve, il est difficile pour M. Heno de faire valoir qu’il n’a pas réclamé de crédits pour dons de bienfaisance dans ses déclarations de revenus pour les années pertinentes.
+[57] Qui plus est, M. Heno a reçu des remboursements qui sont attribuables en grande partie aux crédits demandés relativement aux dons de bienfaisance. M. Heno n’a pas nié lors de l’audience qu’il a obtenu des remboursements et que ces derniers ont été déposés par l’ARC dans son compte bancaire ou ont été affectés au paiement d’une dette que M. Heno avait envers Immigration Canada.
+[58] De plus, si, tel que le fait valoir M. Heno, il y avait effectivement eu vol de son identité permettant à une personne de demander des crédits pour dons de bienfaisance en utilisant son identité, deux déclarations de revenus auraient été inscrites au système informatique de l’ARC, ce qui n’est pas le cas. J’ai demandé à M. Heno s’il avait déclaré le vol de son identité à la police, il a répondu par la négative.
+[59] M. Heno fait également valoir que les lettres de l’ARC ont été acheminées à des adresses qui n’étaient pas les siennes. Cependant, j’ai vérifié la copie du registre informatisé des adresses de l’ARC relativement à M. Heno et les adresses utilisées par l’ARC correspondent aux adresses données ou utilisées par M. Heno lors du dépôt de ses déclarations de revenus
+[60] C’est à la lumière de cette preuve que je conclus que la version des faits de M. Heno au sujet du vol de son identité n’est pas véridique.
+[61] De plus, tel que je l’ai déjà indiqué, si c’est le préparateur qui a demandé des crédits pour dons de bienfaisance à son insu, version à laquelle je n’adhère pas, M. Heno a été négligent en ne vérifiant pas ses déclarations de revenus.
+[62] Par conséquent, l’ARC pouvait établir des nouvelles cotisations après la période normale de cotisation relativement aux années d’imposition 2003 et 2004 puisqu’elle a établi que M. Heno avait fait une présentation erronée des faits en demandant, dans ses déclarations de revenus, des crédits pour des dons de bienfaisance qu’il n’avait pas effectués.
+[63] Je suis d’avis que M. Heno a été négligent en ne vérifiant pas ses déclarations de revenus, en demandant des crédits pour de prétendus dons de bienfaisance qu’il a justifiés auprès de l’ARC avec des reçus fictifs.
+[64] En ce qui a trait à l’année d’imposition 2007, l’établissement de la nouvelle cotisation s’est fait dans les délais requis par la Loi. À la lumière, de ma conclusion pour les années d’imposition 2003 et 2004, il est clair que M. Heno ne peut demander un crédit pour dons de bienfaisance pour l’année d’imposition 2007. De toute manière, M. Heno a admis qu’il n’avait pas effectué de dons de bienfaisance pour l’année d’imposition 2007.
+[65] Il me reste donc à déterminer si la ministre a correctement imposé des pénalités en vertu du paragraphe 163(2) de la Loi. Cet article est rédigé ainsi:
+Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants [...]
+[66] Aux termes du paragraphe 163(3) de la Loi, l’intimée a la charge d’établir, selon la prépondérance des probabilités, les faits qui justifient l’imposition de la pénalité à l’appelant en vertu du paragraphe 163(2) de la Loi.
+Dans tout appel interjeté, en vertu de la présente loi, au sujet d’une pénalité imposée par le ministre en vertu du présent article ou de l’article 163.2, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+[67] Par conséquent, l’intimée doit établir que :
+- l’appelant a fait un faux énoncé dans ses déclarations de revenus;
+- l’appelant l’a fait sciemment ou dans des circonstances équivalant à faute lourde.
+[68] Le juge Rennie de la Cour d’appel fédérale dans l’arrêt Wynter c. La Reine [4] énonce ce qui suit sur le sens à donner aux termes « sciemment » et « faute lourde » utilisés au paragraphe 163(2) de la Loi :
+[11] Lorsque le législateur utilise d’autres termes, il est présumé avoir eu l’intention de prêter des sens différents à ces termes. En d’autres mots, le législateur ne se répète pas: voir Ruth Sullivan, Statutory Interpretation, 3e éd. (Toronto : Irwin Law Inc., 2016), à la page 43. L’article 163 permet l’imposition de pénalités dans les cas où le contribuable a connaissance des faits ou dans des circonstances équivalant à faute lourde. L’article n’est pas conjonctif, et ces deux termes sont présumés avoir un sens et une teneur différents.
+[12] La distinction entre la faute lourde — établie par une appréciation objective du comportement du contribuable — et l’ignorance volontaire (également appelée « aveuglement volontaire ») — établie par renvoi à l’état d’esprit subjectif du contribuable — ne date pas d’hier. Il est vrai qu’il s’agit parfois d’une distinction ténue qui n’est pas toujours clairement établie. Néanmoins, le législateur est présumé avoir été au courant de cette distinction.
+[69] Qui plus est, le juge Rennie explique que l’on considère qu’un contribuable a agi « sciemment » non seulement lorsqu’il a réellement l’intention de faire un faux énoncé, mais également lorsqu’il prend conscience de la nécessité de se renseigner, mais refuse de le faire parce qu’il ne veut pas connaître la vérité ou qu’il évite soigneusement de la connaître. Dans ces circonstances, le principe de l’ignorance volontaire impute une connaissance au contribuable:
+[13] Un contribuable fait preuve d’ignorance volontaire lorsqu’il prend conscience de la nécessité de se renseigner, mais refuse de le faire parce qu’il ne veut pas connaître la vérité ou qu’il évite soigneusement de la connaître. Il s’agit de la notion de l’ignorance délibérée : R. c. Briscoe, 2010 CSC 13, aux paragraphes 23 et 24, [2010] 1 R.C.S. 411 (Briscoe); Sansregret, au paragraphe 24. Dans ces circonstances, la doctrine de l’ignorance volontaire impute une connaissance au contribuable : Briscoe, au paragraphe 21. L’ignorance volontaire est la doctrine ou le mécanisme par lequel l’élément de connaissance requis aux termes du paragraphe 163(2) est établi.
+[...]
+[16] En somme, le droit imputera une connaissance au contribuable qui, dans des circonstances qui lui commandent de se renseigner sur sa situation fiscale, décide de ne pas le faire. L’élément de connaissance est établi par la décision du contribuable de ne pas se renseigner, et non par la conclusion d’une intention de tromper.
+[17] Bien que la preuve, par exemple, de l’intention réelle de faire un faux énoncé suffirait à satisfaire à l’exigence que la personne doit avoir agi « sciemment » aux termes du paragraphe 163(2), l’exigence que l’intention de tromper soit prouvée pour établir l’ignorance volontaire ne trouve pas appui dans la jurisprudence bien établie selon laquelle l’ignorance volontaire repose sur la conclusion selon laquelle le contribuable a délibérément décidé de ne pas se renseigner afin d’éviter de vérifier ce qui pourrait être une vérité gênante. L’élément factuel essentiel consiste en une conclusion « d’ignorance délibérée », étant donné que cette expression « suggère l’idée d’[TRADUCTION] “un processus réel de suppression des soupçons” » : Briscoe, au paragraphe 24. J’ajouterais que, dans le contexte du paragraphe 163(2), les renvois à l’intention de tromper » créent une distraction. L’élément essentiel de l’infraction visée au paragraphe 163(2) consiste à faire un faux énoncé, sachant (réellement ou implicitement, c’est-à-dire par ignorance volontaire) qu’il est faux.
+[70] Quant au critère de la faute lourde, le juge Rennie dans Wynter énonce que le critère de la « faute lourde » se distingue de celui de « l’ignorance volontaire ». La faute lourde se manifeste lorsque la conduite d’un contribuable se situe considérablement en deçà de la conduite à laquelle on est en droit de s’attendre d’un contribuable raisonnable.
+[71] La décision de principe sur ce qu’est la faute lourde au sens du paragraphe 163(2) de la Loi est la décision de la Cour fédérale Venne c. La Reine. Le juge Strayer y décrit ce en quoi consiste la faute lourde dans les termes suivants:
+La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré d’important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi.
+[72] Pour établir qu’il y a eu ignorance volontaire, l’intimée doit prouver, selon la prépondérance des probabilités, que le contribuable savait personnellement que les énoncés figurant dans sa déclaration de revenus étaient faux, mais qu’il a choisi de ne pas se renseigner davantage, parce qu’il savait personnellement ou soupçonnait fortement qu’il découvrirait des renseignements qui confirmeraient que les énoncés étaient bel et bien faux. Étant donné qu’il s’agit d’un critère subjectif, les qualités personnelles du contribuable peuvent être prises en considération pour déterminer si celui-ci a fait preuve d’ignorance volontaire.
+[73] À l’opposé, la norme de la « faute lourde » est un critère objectif. Pour établir qu’il y a eu faute lourde, il faut tenir compte de la conduite à laquelle on est en droit de s’attendre d’une personne raisonnable dans les mêmes circonstances. Par conséquent, les qualités personnelles du contribuable ne doivent pas être prises en compte. La Cour a déclaré qu’il incombe à la Couronne de prouver, selon la prépondérance des probabilités, que la conduite du contribuable se situe considérablement en deçà de la conduite à laquelle on est en droit de s’attendre d’une personne raisonnable dans les mêmes circonstances. Dans la décision Sidhu c. La Reine [5] , le juge Hershfield a ajouté ce qui suit :
+Le fardeau de la preuve ne consiste pas à prouver au-delà du doute raisonnable l’intention coupable de se soustraire au paiement de l’impôt, mais à prouver selon la prépondérance des probabilités une telle indifférence à l’égard de la diligence appropriée et raisonnable dans le contexte d’un système d’autocotisation qui contredit et insulte le sens commun.
+[74] Dans l’affaire en l’espèce, je suis d’avis que l’intimée a établi que la ministre a correctement imposé des pénalités. M. Heno savait qu’il ne pouvait pas réclamer de crédits pour des dons de bienfaisance qu’il n’avait pas effectués. M. Heno est un professeur suppléant, il est une personne instruite. Il produit des déclarations de revenus depuis 1988. De plus, les dons de bienfaisance sont élevés par rapport aux revenus gagnés par ce dernier. Il me semble que les remboursements obtenus pour les années pertinentes auraient dû soulever des doutes et faire en sorte que M. Heno demande au préparateur de ses déclarations pourquoi il avait droit à de tels remboursements. M. Heno a préféré percevoir les remboursements et ne pas poser de questions.
+[75] De plus, la conduite de M. Heno dans l’appel en l’espèce se situe considérablement en deçà de la conduite qu’on est en droit de s’attendre d’un contribuable raisonnable dans la même situation. M. Heno n’a pas lu ses déclarations de revenus avant qu’elles soient transmises à l’ARC. M. Heno a démontré une indifférence au respect de la Loi en réclamant des dons de bienfaisance qu’il n’avait pas effectués. Par conséquent, M. Heno a commis une faute lourde au sens du paragraphe 163(2) de la Loi.
+[76] À la lumière de ces faits, l’appel de M. Heno est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2020.
+« Johanne D’Auray »
+Juge D'Auray
+RÉFÉRENCE :
+2020 CCI 127
+Nº DU DOSSIER DE LA COUR :
+2019-4072(IT)I
+INTITULÉ DE LA CAUSE :
+OTONG HENO
+ET SA MAJESTÉ LA REINE
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Johanne D'Auray
+DATE DU JUGEMENT :
+Le 1er décembre 2020
+COMPARUTIONS :
+Pour de l’appelant
+L’appelant lui-même
+Avocat de l'intimée :
+Me Jean- Philippe Vinette
+AVOCAT INSCRIT AU DOSSIER :
+Pour :
+Nom :
+[En blanc]
+Cabinet :
+[En blanc]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Venne c. Canada, [1984] A.C.F. no 314 (QL).
+[2] Gebhart (Succession) c. Canada, 2008 CAF 206.
+[3] Aridi c. SMR, 2013 CCI 74.
+[4] Wynter c. La Reine, 2017 CAF 195
+Sidhu c. La Reine, 2004 CCI 174. [5]

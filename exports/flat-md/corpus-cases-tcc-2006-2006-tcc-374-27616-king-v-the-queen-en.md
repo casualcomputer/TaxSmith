@@ -1,0 +1,128 @@
+---
+title: "King v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27616/index.do"
+last_modified: "2006-07-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 374"
+citation2: ""
+neutral_citation: "2006 TCC 374"
+decision_date: "2006-07-26"
+language: "en"
+item_id: "27616"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 437
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:53:18.945000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "18e1fd9ffdb3275605e01070590514cbef3c181c61a8989e1a2ef127aff09dd3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# King v. The Queen
+
+- Citation: 2006 TCC 374
+- Decision date: 2006-07-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 437, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+King v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-07-26
+Neutral citation
+2006 TCC 374
+File numbers
+2006-603(GST)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-603(GST)I
+BETWEEN:
+JEANNE KING,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 19, 2006, at Moncton, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Catherine McIntyre
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated March 3, 2005, and bears number 05011503112370003, is dismissed.
+Signed at Edmundston, New Brunswick, this 26th day of July 2006.
+"François Angers"
+Angers J.
+Citation: 2006CCI374
+Date: 20060726
+Docket: 2006-603(GST)I
+BETWEEN:
+JEANNE KING,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal from an assessment under Part IX of the Excise Tax Act (the "Act") dated March 3, 2005. The appellant claimed a GST/HST New Housing Rebate in the amount of 3,121.59 $ for a house located at 275 Université Avenue in Moncton, New Brunswick. The application for the rebate is dated December 16, 2004, and refers to renovations made to that house. The Minister disallowed the appellant's rebate claim on the basis that the renovations were not a "substantial renovation" as defined in subsection 123(1) of the Act.
+[2] In case the renovations are nevertheless determined to be substantial within the meaning of the definition in the Act, the Minister opposes some of the expenses claimed, arguing that they are not for qualifying goods or services eligible for the rebate.
+[3] Subsection 256(2) of the Act provides that where "a particular individual constructs or substantially renovates, or engages another person to construct or substantially renovate . . . a single unit residential complex", the Minister shall pay a rebate the amount of which is fixed by the Act. The issue is almost always whether the work done in each particular case falls within the meaning of the expression "substantial renovation" as defined in subsection 123(1) of the Act. That definition reads as follows:
+"substantial renovation" of a residential complex means the renovation or alteration of a building to such an extent that all or substantially all of the building that existed immediately before the renovation or alteration was begun, other than the foundation, external walls, interior supporting walls, floors, roof and staircases, has been removed or replaced where, after completion of the renovation or alteration, the building is, or forms part of, a residential complex.
+[4] The appellant bought her home on July 14, 2003, and started her renovations the following month. The house is a two-storey building on a concrete foundation measuring 25 feet by 30 feet, which gives an area of 750 square feet for one level. The basement and the attic were unfinished. The main floor has a kitchen and dining room and the second floor has four bedrooms and a bathroom. The appellant entered in evidence a series of photographs showing the house before and after the renovations, as well as various invoices supporting expense items that had been disallowed by the Minister.
+[5] The renovations made to the property consisted of an extension added to the kitchen and the construction of a screened deck that was called a sunroom. A double garage was also built and, like the extension and the screened deck, it is external to the house. Prior to the renovations, the basement consisted of bare cement walls and a furnace. The appellant had the walls tarred and insulated. The basement ceiling was also insulated and an area was created to eventually accommodate a bathroom. No toilet or sink were installed in that bathroom area at the time of the renovations. The basement has now been completed but some of the work was done before the period that is relevant for the purposes of the rebate. The basement was partitioned off into several rooms but no flooring was put in nor any painting done. It is agreed that after the renovations the basement was not habitable.
+[6] On the main floor, the renovations consisted of knocking out the rear wall to add the sunroom. The ceiling in the kitchen was removed to install plumbing for a new bathroom. The kitchen cabinets were replaced. The stairway was removed and replaced with wooden stairs and a wrought-iron railing. All the rooms on the main floor were painted and most of the mouldings and trim replaced.
+[7] On the second floor, one of the bedrooms was converted into a bathroom. Two bedrooms had walls built in them to accommodate full-length closets. A third bedroom had a small closet installed. Pocket doors were also installed between two of the bedrooms. All the second-floor rooms were painted.
+[8] The attic was insulated, drywalled and painted. The flooring was replaced, two dormers windows were added and the steps to the attic were replaced. A layer of sheathing was placed on the roof and it was reshingled.
+[9] The total cost of the above renovations was $71,358. There is no doubt that the renovations made by the appellant were costly, but are they such as to allow me to conclude that all or substantially all of the building that existed immediately before the renovations or alterations were begun, other than the foundation, external walls, interior supporting walls, floors, roof and staircases, has been removed or replaced? In light of the definition of "substantial renovation" I must not consider the work done on the stairway and the roof.
+[10] The renovations as shown on the photographs and as described by the appellant do not, in my opinion, meet the requirements of the definition of substantial renovation. They are for the most part cosmetic in nature. Repairing windows, painting walls, installing new kitchen cupboards, installing new flooring and new trim, extending the kitchen and finishing the attic are not sufficient to allow one to conclude that all or substantially all of the appellant's home has been removed or replaced. The construction of a double garage behind the appellant's home is definitely not a substantial renovation of a residential complex.
+[11] Mr. Justice Hershfield in Erickson v. R., [2001] G.S.T.C. 19, concluded that the Act does not permit a rebate on a renovation, significant or otherwise, unless virtually all of the existing premises are gutted. In the present case, I can only conclude that the original structure of the appellant's home has remained the same and that it still constitutes a significant part of the post-renovation premises. That being so, the renovations do not qualify for a tax rebate.
+[12] Having come to this conclusion, I need not address the matter of the disallowed expenses. The appeal is therefore dismissed.
+Signed at Edmundston, New Brunswick, this 26th day of July 2006.
+"François Angers"
+Angers J.
+CITATION: 2006CCI374
+COURT FILE NO.: 2006-603(GST)I
+STYLE OF CAUSE: Jeanne King and M.N.R.
+PLACE OF HEARING: Moncton, New Brunswick
+DATE OF HEARING: June 19, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: July 26, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Catherine McIntyre
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

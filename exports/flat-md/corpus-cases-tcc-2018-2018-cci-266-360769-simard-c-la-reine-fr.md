@@ -1,0 +1,238 @@
+---
+title: "Simard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/360769/index.do"
+last_modified: "2018-12-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 266"
+citation2: ""
+neutral_citation: "2018 CCI 266"
+decision_date: "2018-12-28"
+language: "fr"
+item_id: "360769"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4998
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:38:39.270000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cf15009cdf846d64e451634f8875686295869d11eb7eb1b9f32642b989fbdcf0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Simard c. La Reine
+
+- Citation: 2018 CCI 266
+- Decision date: 2018-12-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4998, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Simard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-12-28
+Référence neutre
+2018 CCI 266
+Numéro de dossier
+2014-2454(IT)G
+Juges et Officiers taxateurs
+Frank J. Pizzitelli
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-2454(IT)G
+ENTRE :
+J.G. GUY SIMARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2014-3884(IT)G
+ET ENTRE :
+WAYNE WELLS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2014-3891(IT)G
+ET ENTRE :
+RAYNOLD MURPHY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2015-4930(IT)G
+ET ENTRE :
+DOUGLAS FORSETH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2015-4931(IT)G
+ET ENTRE :
+BRIAN J. MATHESON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ORDONNANCE CONCERNANT LES OBSERVATIONS SUR LES DÉPENS
+ATTENDU QUE l’intimée a obtenu gain de cause dans une requête présentée par les appelants, entendue le 23 novembre 2018, sollicitant, entre autres, une ordonnance faisant droit à leurs appels en vertu de l’alinéa 126(4)b) des Règles de la Cour canadienne de l’impôt (procédure générale) au motif que l’intimée n’avait pas respecté mon ordonnance du 29 mars 2018 et que cette requête a été rejetée avec dépens à l’intimée;
+ET ATTENDU QUE les parties ont été invitées à présenter des observations sur les dépens si l’une ou l’autre n’était pas satisfaite de l’ordonnance quant aux dépens;
+PAR CONSÉQUENT, après examen des observations de l’intimée et étant donné que les appelants n’ont pas présenté d’observations;
+La Cour ordonne que soient adjugés à l’intimée des dépens majorés équivalant à 80 % des frais déboursés sur la base procureur-client, soit un total de 25 800 $, y compris les débours, à payer, quelle que soit l’issue de l’instance.
+Signé à Vancouver (Colombie-Britannique), ce 28e jour de décembre 2018.
+« F. J. Pizzitelli »
+Le juge Pizzitelli
+Traduction certifiée conforme
+ce 31e jour d’octobre 2019.
+Elisabeth Ross, jurilinguiste
+Référence : 2018 CCI 266
+Date : 20181228
+Dossier : 2014-2454(IT)G
+ENTRE :
+J.G. GUY SIMARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2014-3884(IT)G
+ET ENTRE :
+WAYNE WELLS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2014-3891(IT)G
+ET ENTRE :
+RAYNOLD MURPHY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2015-4930(IT)G
+ET ENTRE :
+DOUGLAS FORSETH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2015-4931(IT)G
+ET ENTRE :
+BRIAN J. MATHESON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE CONCERNANT LES OBSERVATIONS SUR LES DÉPENS
+Le juge Pizzitelli
+[1] L’intimée a entièrement obtenu gain de cause dans une requête présentée par les appelants, entendue le 23 novembre 2018, sollicitant, entre autres, une ordonnance faisant droit à leurs appels en vertu de l’alinéa 126(4)b) des Règles de la Cour canadienne de l’impôt (procédure générale), au motif que l’intimée n’avait pas respecté mon ordonnance du 29 mars 2018, laquelle requête a été rejetée. Mon ordonnance rejetant la requête des appelants ci-dessus, datée du 26 novembre 2018, accordait des dépens à l’intimée, à payer quelle que soit l’issue de l’instance, mais précisait que, si une partie n’était pas satisfaite de l’ordonnance relative aux dépens, elle pouvait présenter des observations dans les 30 jours suivant l’ordonnance.
+[2] L’intimée a présenté des observations écrites dans lesquelles elle demande des dépens majorés équivalant à 80 % des frais déboursés sur la base procureur-client au cours de la période du 23 octobre 2018 au 23 novembre 2018, soit une somme globale de 25 800 $. Les appelants n’ont pas présenté d’observations.
+[3] Il ne fait aucun doute que l’article 147 des Règles confère à la Cour toute la latitude voulue pour fixer les dépens, les répartir et désigner les personnes qui doivent les supporter, et que le paragraphe 147(3) des Règles énonce les facteurs dont la Cour peut tenir compte en exerçant sa discrétion conformément aux règles générales. Compte tenu des observations présentées sur les dépens, les dispositions pertinentes de l’article 147 des Règles sont les suivantes :
+147(1) La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+[...]
+(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+i.1) de la question de savoir si les dépenses engagées pour la déposition d’un témoin expert étaient justifiées compte tenu de l’un ou l’autre des facteurs suivants :
+(i) la nature du litige, son importance pour le public et la nécessité de clarifier le droit,
+(ii) le nombre, la complexité ou la nature des questions en litige,
+(iii) la somme en litige;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+[…]
+(4) La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+[4] Il n’y a pas eu en l’espèce d’offres de règlement auxquelles les dispositions des paragraphes 147(3.1) à (3.8) des Règles se seraient appliquées.
+[5] Je souscris aux observations de l’intimée à l’égard des facteurs énoncés aux alinéas 147(3)a) à i.1) qui, à mon avis, auraient justifié l’adjudication de dépens plus élevés que les dépens adjugés conformément au tarif et que je vais maintenant analyser. Par souci de commodité, je désignerai les facteurs figurant au paragraphe 147(3) des Règles par l’alinéa où ils sont énoncés.
+[6] En ce qui concerne l’alinéa a), l’intimée a entièrement obtenu gain de cause à tous les égards, puisque la requête a été rejetée avec dépens. La thèse des appelants n’était absolument pas fondée.
+[7] En ce qui concerne l’alinéa b), l’intimée convient que, même si les sommes en cause à l’égard de ces appelants en particulier ne sont pas très élevées, la somme totale en cause pour l’ensemble des affaires touchées par ces causes types dépasse 600 millions de dollars; il s’agit donc d’une somme énorme. En ce qui concerne la somme en cause et les mesures de redressement draconiennes demandées par les appelants en l’espèce, je suis d’accord avec l’intimée lorsqu’elle affirme avoir été forcée de prendre très au sérieux la requête des appelants et de défendre entièrement son droit à ce qu’il soit donné suite à ces causes types et à ce qu’elles soient instruites sur le fond par la Cour, conformément à la décision Ford du Canada Limitée c. La Reine, 2015 CCI 185, aux paragraphes 12 et 13.
+[8] En ce qui concerne l’alinéa c), outre l’importance de l’instruction de ces causes types pour les motifs invoqués pour l’alinéa b), les questions qui faisaient véritablement l’objet de la requête, à savoir si une partie avait contrevenu à une ordonnance de la Cour et si elle avait commis un abus de procédure, sont de la plus haute importance pour la Cour et pour l’intégrité de sa procédure. Comme je l’ai mentionné dans mon ordonnance rejetant la requête des appelants, de telles allégations ne devraient être faites qu’avec de très solides preuves à l’appui. Plus particulièrement, les paragraphes 24 et 34 des motifs de mon ordonnance expriment mes réserves quant à la façon cavalière dont les appelants ont soulevé cette allégation grave, notamment en qualifiant mon ordonnance, de façon injustifiable et intéressée, d’« ordonnance de divulgation » :
+[34] Non seulement les appelants ont mal défini la nature et les effets de mon ordonnance, mais ils ont aussi soutenu, en plus d’avoir accusé l’intimée d’avoir contrevenu à une ordonnance de la Cour, une accusation qui, outre les enjeux en matière de civisme et d’éthique, devrait être portée seulement en présence d’une preuve très forte en ce sens, que les gestes de l’intimée équivalaient à un abus de procédure.
+L’importance de la question sera discutée plus en détail lorsqu’il sera question de la conduite des appelants.
+[9] En ce qui concerne l’alinéa d), à savoir s’il y a eu une offre de règlement présentée par écrit, bien qu’il n’y ait pas eu d’offre de règlement des appels dans le contexte de la requête elle-même, il ressort de mon ordonnance que l’intimée avait offert, dans sa lettre du 28 septembre 2018, de discuter du libellé de sa demande concernant la reconnaissance de l’engagement implicite et de l’engagement à respecter la confidentialité prévue à l’article 241, et qu’elle demeurait prête à discuter des appels, comme le montre la lettre de suivi de l’intimée du 17 octobre 2018; or, les appelants n’ont pas répondu à cette lettre et n’ont pas tenté de négocier avant de présenter la requête. À mon avis, les appelants auraient dû tenter de trouver une solution à leurs réticences concernant les engagements, mais ils n’avaient manifestement aucune intention de le faire.
+[10] En ce qui concerne l’alinéa e), la charge de travail, je suis tout à fait d’accord avec l’intimée pour dire que la charge de travail liée à cette requête était énorme. L’allégation des appelants selon laquelle la conduite de l’intimée a causé des retards indus a obligé l’intimée à consulter tout le dossier de gestion de l’instance pour réfuter cette allégation et, en fait, pour prouver que bon nombre des retards étaient attribuables aux demandes des appelants eux-mêmes. Les appelants ont également présenté 16 affidavits à l’appui de leur requête, que l’intimée a dû examiner dans un court laps de temps, bien que j’aie plus tard conclu que 15 des affidavits n’étaient pas utiles pour déterminer si l’intimée avait contrevenu à l’ordonnance de la Cour en question. L’intimée a également dû tenir compte de ces affidavits dans le contexte de la requête en ordonnance de confidentialité, présentée par les appelants, visant les renseignements personnels contenus dans ces affidavits et consacrer du temps et des ressources à l’examen et à la préparation des observations à cet égard.
+[11] En ce qui concerne l’alinéa f), je suis d’accord avec l’intimée sur le fait que la complexité de la question soulevée dans la requête est un facteur neutre, puisqu’il s’agissait simplement d’une question de fait.
+[12] En ce qui concerne l’alinéa g), la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance, je souligne encore une fois que le dépôt de 15 affidavits non pertinents pour la détermination de la question principale sur les 16 affidavits présentés à l’appui de la requête, dont 13 étaient signés par des tiers n’étant pas des parties à l’instance et qui étaient tous redondants, n’a servi qu’à augmenter la charge de travail de l’intimée et qu’à prolonger la durée de l’instance sur les questions soulevées, particulièrement la question de la confidentialité des affidavits.
+[13] Je souscris également à l’observation de l’intimée au paragraphe 17 de ses observations écrites selon laquelle [traduction] « la Cour a reconnu le caractère inapproprié et irrégulier de la conduite qu’ont eue les appelants en présentant cette requête inutile ». L’intimée a fait référence aux paragraphes 34 et 35 de mon ordonnance du 26 novembre 2018 :
+[34] Non seulement les appelants ont mal défini la nature et les effets de mon ordonnance, mais ils ont aussi soutenu, en plus d’avoir accusé l’intimée d’avoir contrevenu à une ordonnance de la Cour, une accusation qui, outre les enjeux en matière de civisme et d’éthique, devrait être portée seulement en présence d’une preuve très forte en ce sens, que les gestes de l’intimée équivalaient à un abus de procédure. Au paragraphe 7 de l’avis de requête, les appelants ont déclaré :
+[traduction]
+7. Le non-respect par une partie des délais imposés par la Cour en vue de simplifier le dossier d’un plaideur équivaut à un abus de procédure que la Cour ne doit pas tolérer […]
+[35] Je conviens avec les appelants qu’il y a abus de procédure en l’espèce, mais cet abus est l’œuvre des appelants qui ont présenté une requête dénuée de fondement et qui ont déposé 16 affidavits à l’appui, dont seulement un porte réellement sur la question en litige, et cela sous prétexte, ce qui ne manque pas d’ironie, de demander une mesure de redressement radicale pour un retard allégué de six mois. Il s’agit d’un pur gaspillage des ressources de la Cour, qui fait augmenter inutilement les coûts et qui risque de retarder davantage le déroulement de l’instance. Les appelants auraient pu simplement présenter une requête en communication de documents sans accuser de façon indue l’intimée d’avoir contrevenu à une ordonnance de la Cour et d’avoir commis un abus de procédure.
+[14] Je suis tout à fait d’accord avec l’intimée sur le fait que le civisme est un facteur qui entre aussi en ligne de compte. Lorsque les éléments de preuve montrent que l’intimée a tenté à plusieurs reprises de satisfaire les appelants tout au long de l’instance, comme il en a été question précédemment, il semble quelque peu odieux de la part des appelants de tenter d’attaquer l’intégrité de l’intimée dans ces circonstances, et la Cour ne devrait pas cautionner une telle conduite.
+[15] En plus de la conduite discutable des appelants, il semble que 6 des 16 affidavits présentés par les appelants à l’appui de leur requête aient été signés avant le 28 septembre 2018, soit l’échéance établie d’un commun accord avant laquelle l’intimée devait répondre à la demande de communication d’autres documents, un fait étayant les observations de l’intimée selon lesquelles cette requête inutile faisait partie de la stratégie des appelants et qu’elle aurait été présentée indépendamment de la réponse donnée.
+[16] En ce qui concerne l’alinéa h), la dénégation d’un fait par une partie ou sa négligence ou son refus de l’admettre, lorsque ce fait aurait dû être admis, sauf ma conclusion évidente selon laquelle les appelants auraient dû admettre qu’il n’y avait pas eu violation de mon ordonnance, il n’y avait pas de faits pertinents qui auraient dû être admis en l’espèce.
+[17] En ce qui concerne l’alinéa i), la question de savoir si une étape de l’instance :
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+ce n’est que le sous-alinéa (i) qui s’applique en l’espèce. À mon avis, comme il est résumé aux paragraphes 34 et 35 de mon ordonnance, reproduits plus haut, il n’y avait absolument aucun motif d’alléguer que l’intimée avait contrevenu à mon ordonnance ni que les actes de l’intimée équivalaient à un abus de procédure. Au contraire, j’estime que l’intimée s’est montrée très accommodante en tentant d’aider les appelants par la communication d’autres documents avant l’interrogatoire préalable, malgré le fait que les appelants n’avaient pas demandé qu’elle leur communique d’autres documents en vertu de l’article 82 des Règles, et malgré les retards de la part des appelants à demander cette communication après l’échange de documents du 30 juin 2017. L’intimée, même si elle n’était pas tenue de communiquer d’autres documents en vertu des Règles, a agi de bonne foi et, à mon avis, a fait preuve de diligence dans l’examen d’un volume considérable de documents dans le délai convenu de six mois pour répondre à la demande des appelants. Par ailleurs, l’intimée a offert aux appelants de leur transmettre quelque 16 000 autres documents qui n’avaient pas été inclus dans la communication faite au titre de l’article 81 des Règles.
+[18] Les appelants ont demandé une mesure de redressement draconienne au titre de l’alinéa 146(4)b) sans tenter de régler les questions avant de présenter leur requête, alors qu’ils savaient ou auraient manifestement dû savoir que leur thèse était sans fondement. Ils ont gaspillé à la fois le temps de l’intimée et le temps et les ressources de la Cour, ce qui constitue selon moi un abus de procédure flagrant dans ce qui semble être une stratégie juridique inappropriée et injustifiée visant à prolonger inutilement la durée de l’instance et à discréditer injustement la conduite de l’intimée. Les thèses adoptées par l’intimée dans sa lettre du 28 septembre 2018, laquelle était conforme à mon ordonnance, ne sont pas à première vue déraisonnables et elles auraient dû être l’objet unique de la requête en tout premier lieu; maintenant, un autre juge devra se prononcer sur la question afin d’assurer un règlement rapide et une impartialité totale. La Cour ne peut pas et ne doit pas tolérer une telle conduite ni permettre de tels abus de procédure, surtout pas lorsque l’intimée s’est montrée accommodante et respectueuse envers les appelants.
+[19] L’alinéa i.1) ne s’applique pas puisqu’aucun témoin expert n’a participé à la requête.
+[20] En ce qui concerne l’alinéa j), soit toute autre question susceptible d’influer sur la détermination des dépens, aucune autre question n’a été portée à l’attention de la Cour.
+[21] Compte tenu de ce qui précède, je suis d’accord avec l’intimée et j’estime qu’elle devrait avoir droit à des dépens majorés équivalant à 80 % des frais déboursés sur la base procureur-client, pour un total de 25 800 $, y compris les débours, à payer quelle que soit l’issue de l’instance. L’intimée a dû payer ces frais uniquement en raison des actes inappropriés, vexatoires et inutiles des appelants, et toute la situation aurait pu être évitée si les appelants avaient simplement présenté dès le départ une requête en communication. Ces actes constituent un grave abus de procédure de la part des appelants, qui ont essentiellement déformé la nature de mon ordonnance, soulevé des allégations inappropriées et sans fondement contre les actes et la réputation de l’intimée, une conduite que je trouve plutôt déplacée compte tenu de la conduite manifestement accommodante et obligeante de l’intimée tout au long de la gestion de l’instance, et qui constitue un manque de respect envers la Cour à l’égard de son temps et de ses ressources. Si les appelants ou toute autre partie à une instance souhaitent agir de la sorte, la Cour a l’obligation de veiller à ce qu’ils paient le prix de leurs actions en dépens. En toute honnêteté, je crois que l’intimée aurait eu des motifs de réclamer la totalité des dépens sur la base procureur-client en l’espèce.
+Signé à Vancouver (Colombie-Britannique), ce 28e jour de décembre 2018.
+« F. J. Pizzitelli »
+Le juge Pizzitelli
+Traduction certifiée conforme
+ce 31e jour d’octobre 2019.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2018 CCI 266
+Nº DU DOSSIER DE LA COUR :
+2014-2454(IT)G
+INTITULÉ :
+J.G. Guy Simard c. La Reine
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 23 novembre 2018
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge F.J. Pizzitelli
+DATE DE L’ORDONNANCE :
+Le 28 décembre 2018
+COMPARUTIONS :
+Avocats des appelants :
+Guy Dupont
+Michael Lubetsky
+Matthias Heilke
+Avocats de l’intimée :
+Louis L’Heureux
+Leonard Elias
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Guy Dupont
+Cabinet :
+Davies Ward Phillips & Vineberg
+Montréal (Québec)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

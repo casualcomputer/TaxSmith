@@ -1,0 +1,165 @@
+---
+title: "Truscelo Messina c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26372/index.do"
+last_modified: "2004-03-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 63"
+citation2: ""
+neutral_citation: "2004 CCI 63"
+decision_date: "2004-03-05"
+language: "fr"
+item_id: "26372"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3385
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:44:01.785000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e48c1ff0f33ba7142b6fe46c40569a239b0405c719b8ceae4704629b5d5753dc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Truscelo Messina c. M.R.N.
+
+- Citation: 2004 CCI 63
+- Decision date: 2004-03-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3385, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Truscelo Messina c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-05
+Référence neutre
+2004 CCI 63
+Numéro de dossier
+2003-1788(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-1788(EI)
+ENTRE :
+SYLVANA TRUSCELO MESSINA,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_______________________________________________________________
+Appel entendu le 14 janvier 2004 à Montréal (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocate de l'appelante :
+Me Carmine Mercadante
+Avocate de l'intimé :
+Me Antonia Paraherakis
+_______________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est accueilli et la décision rendue par le ministre du Revenu national est modifiée en ce que le travail exécuté par l'appelante au cours de la période du 3 janvier 1995 au 5 juillet 2002 pour la compagnie Bar Café Sorrento Inc. constituait un travail assurable, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 5e jour de mars 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI63
+Date : 20040305
+Dossier : 2003-1788(EI)
+ENTRE :
+SYLVANA TRUSCELLO MESSINA,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif, C.C.I.
+[1] Il s'agit de l'appel d'une détermination en date du 2 mai 2003. La détermination est à l'effet que le travail exécuté par l'appelante, pour la période du 3 janvier 1995 au 5 juillet 2002, pour le compte et bénéfice de Bar Café Sorrento Inc., doit être exclu des emplois assurables et cela, à la suite de l'exercice du pouvoir discrétionnaire commandé par la présence du lien de dépendance entre l'appelante et les dirigeants de l'entreprise payeure de la rémunération. Les fils de l'appelante contrôlaient effectivement la compagnie qui l'employait.
+[2] Les motifs pris pour acquis pour justifier la détermination furent les suivants :
+a) le payeur exploite, depuis 1990, un café-bar où l'on sert du café et des boissons alcoolisées.
+b) Les actionnaires à parts égales du payeur étaient Antonio Jr Messina et Calogero Messina, fils de l'appelante.
+c) Le commerce du payeur était exploité à l'année longue, du lundi au dimanche de 7 h 00 à 3 h 00.
+d) L'appelante travaillait pour le payeur comme serveuse au bar; elle s'occupait aussi de faire le ménage du commerce.
+e) L'appelante travaillait généralement du lundi au vendredi, entre 8 h 00 et 16 h 30/17 h 00, soit 40 heures par semaine.
+f) Le travail de l'appelante était supervisé par l'un des actionnaires qui était toujours présent au commerce.
+g) L'appelante n'avait aucune dépense à assumer dans le cadre de son travail pour le payeur.
+h) L'appelante avait droit à 2 semaines de vacances payées par année.
+i) Durant la période en litige, l'appelante recevait une rémunération fixe de 800 $ par semaine.
+j) En plus de sa rémunération, l'appelante a reçu un boni de 10 000 $ en février 2001 (et un 2e en février 2002) sans augmentation de ses tâches.
+k) Le payeur a mis à pied l'appelante le 5 juillet 2002 en prétextant que le chiffre d'affaires avait diminué alors que la courbe de croissance du commerce ne justifie pas une telle décision.
+l) Le chiffre d'affaires du payeur est passé de 643 000 $ en 1997 à 1 055 980 $ en 2001.
+m) De plus, le payeur a congédié l'appelante en prétextant une baisse de son volume d'affaires alors qu'en février 2001 et février 2002, il versait 10 000 $ en boni à l'appelante et à Antonio Messina, conjoint de l'appelante.
+[3] L'appelante a admis le contenu des alinéas a), b), c), f), g) et h) ci-avant reproduits et émanant du paragraphe 5 de la Réponse à l'avis d'appel. Elle a également admis le contenu des alinéas d), e), i) et k) se réservant toutefois le droit de les compléter par sa preuve. Elle a finalement nié les alinéas j), l) et m).
+[4] Les faits pertinents ne font l'objet d'aucun litige. D'ailleurs l'audition a porté principalement sur la question de deux bonis au montant de 10 000 $ versés à l'appelante en février 2001 et en février 2002.
+[5] Le représentant de l'employeur a expliqué que la compagnie avait payé ces bonis en considération de la très grande collaboration de l'appelante dans le cours des opérations de l'entreprise. Il a aussi mentionné que cette dernière s'était, au fil des ans, toujours rendue disponible pour accomplir plusieurs centaines d'heures de temps supplémentaires.
+[6] Il a également affirmé que les bonis payés l'avaient été pour considération de services rendus pour toutes les années antérieures à l'année financière du paiement. À l'exception d'une année financière où l'un des bonis a été déboursé, la compagnie avait la capacité financière de verser de tels bonis. La preuve documentaire a d'ailleurs démontré que l'entreprise avait connu croissance et profitabilité durant la majeure partie de la période en litige.
+[7] L'intimé a accordé une importance considérable et déterminante à cette question de bonis. L'agent responsable au dossier a reconnu que l'appelante avait bel et bien exécuté le travail au cours des ans, ajoutant même que ce travail rencontrait toutes les exigences et conditions pour être assurable.
+[8] Il a aussi affirmé que la question des bonis avait été le facteur déterminant de sa recommandation d'exclure le travail de l'appelante des emplois assurables.
+[9] Après avoir indiqué qu'il s'agissait là du seul élément, il a quelque peu nuancé son évaluation en fixant à environ 90 p. 100 l'importance de cet élément comme fondement de la détermination; il a prétendu que le salaire de l'appelante était un peu élevé, étant donné qu'il était exécuté le jour et non le soir où le salaire est généralement plus élevé dans ce domaine d'activités économiques.
+[10] Il a insisté sur le fait que les deux bonis représentaient de très substantielles augmentations de salaire pour les deux années où ils furent payés. Il n'a pas apprécié l'impact des bonis amortis sur la durée totale de la période en litige.
+[11] Monsieur Alain Lacoste a reconnu que le travail exécuté par l'appelante, au cours de la période allant du 3 janvier 1995 au 5 juillet 2002, l'avait été d'une manière continue, sans aucune interruption. Selon lui, le travail rencontrait toutes les exigences pour être déterminé assurable; n'eut été des deux bonis, il a reconnu qu'il aurait recommandé de déterminer le travail assurable.
+[12] Accorder autant d'importance, voire même appuyer principalement la détermination sur ce seul élément constitue-t-il une erreur significative, un manquement grave susceptible de vicier les conclusions retenues ?
+[13] Je réponds par l'affirmative. Il a été démontré que l'implication de l'appelante dans l'entreprise justifiait le paiement de ces bonis. En outre, il a été établi que les bonis avaient été déterminés à partir des performances de l'entreprise lorsque cette dernière était prospère et profitable. Le fait que le paiement ait été effectué lors d'une année difficile financièrement est un aspect peut-être agaçant, mais certainement pas déterminant.
+[14] L'appelante travaillait pour l'entreprise depuis plusieurs années; il s'agissait là d'une reconnaissance et appréciation ponctuelles pour la qualité du travail accompli sur une période de plus de sept ans.
+[15] Au fil des ans, l'appelante avait effectué des centaines d'heures de travail supplémentaires non rémunérées puisqu'elle touchait un salaire forfaitaire hebdomadaire. Le représentant de la compagnie, son fils, a expliqué qu'il s'agissait en quelque sorte d'une forme de compensation largement justifiée par la quantité et la qualité du travail exécuté.
+[16] L'appelante travaillait pour l'entreprise de façon continue sans interruption durant la période en litige; elle y effectuait des tâches importantes et nécessaires à son bon fonctionnement.
+[17] Il ne s'agit pas d'un dossier où les parties ont été complaisantes et accommodantes dans le but d'obtenir des prestations d'assurance-emploi. Le travail effectué au cours de la période en litige d'une durée de près de huit (8) ans aurait été assurable n'eut été des bonis selon l'intimé.
+[18] Je ne crois pas que le paiement de deux bonis pour une période de travail de près de huit ans, puisse constituer un facteur déterminant pour vicier la qualité d'une relation de travail. Les deux bonis totalisant 20 000 $ représentent environ 2 500 $ par année soit plus ou moins 50 $/semaine.
+[19] Lors et au cours de la très longue période d'emploi, l'appelante a été une employée modèle, disponible, fiable et responsable. Le fait que ses fils aient reconnu son apport et que la compagnie qu'ils dirigeaient l'ait récompensée n'a, quant à moi, aucun effet sur la qualité de son travail quotidien et hebdomadaire.
+[20] D'ailleurs, souscrire à l'analyse de l'intimé aurait pour effet de rendre non assurable rétroactivement un travail qui l'a été jusqu'à ce que n'intervienne la décision de verser un boni. Conséquemment, eu égards aux faits et circonstances et contexte particulier, la question des bonis devait être occultée des faits pertinents pour déterminer la qualité d'assurabilité du travail exécuté.
+[21] La question des bonis a été l'élément déterminant lors de l'analyse du dossier; l'importance démesurée accordée à cet élément a conduit l'intimé vers une conclusion totalement déraisonnable, eu égard à l'ensemble des faits vraiment pertinents.
+[22] Prenant pour acquis que la question des bonis ne devait pas constituer un facteur déterminant dans le cadre de l'analyse, je conclus que le travail exécuté par l'appelante devait être déterminé assurable.
+[23] L'enquêteur et analyste du dossier a d'ailleurs clairement reconnu que n'eut été de la question des bonis, il aurait recommandé que le travail exécuté par l'appelante, lors de la longue période en litige, soit considéré comme un travail assurable étant donné que toutes les conditions et critères étaient respectés.
+[24] Je fais donc droit à l'appel et détermine que le travail exécuté par l'appelante pour le compte et bénéfice de la compagnie Bar Café Sorrento Inc., au cours de la période allant de 3 janvier 1995 au 5 juillet 2002, était un travail assurable.
+Signé à Ottawa, Canada, ce 5e jour de mars 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI63
+No DU DOSSIER DE LA COUR :
+2003-1788(EI)
+INTITULÉ DE LA CAUSE :
+Sylvana Truscello Messina
+et le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE
+le 14 janvier 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 5 mars 2004
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Carmine Mercadante
+Avocate de l'intimé :
+Me Antonia Paraherakis
+AVOCATE INSCRITE AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Carmine Mercadante
+Étude :
+Ville :
+Bissonnet, Mercadante
+St-Léonard (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

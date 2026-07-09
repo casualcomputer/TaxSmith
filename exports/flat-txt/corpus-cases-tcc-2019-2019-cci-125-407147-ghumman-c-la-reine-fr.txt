@@ -1,0 +1,156 @@
+Title: Ghumman c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/407147/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-125-407147-ghumman-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-05-29
+
+# Ghumman c. La Reine
+
+- Citation: 2019 CCI 125
+- Decision date: 2019-05-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4367, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ghumman c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-05-29
+Référence neutre
+2019 CCI 125
+Numéro de dossier
+2017-3930(IT)I
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-3930(IT)I
+ENTRE :
+SUKHJIT S. GHUMMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 28 février 2019, à Toronto (Ontario)
+Devant : L’honorable juge Don R. Sommerfeldt
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Priya Bains
+JUGEMENT
+L’appel de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2014 est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 29e jour de mai 2019.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Référence : 2019 CCI 125
+Date : 20190529
+Dossier : 2017-3930(IT)I
+ENTRE :
+SUKHJIT S. GHUMMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sommerfeldt
+I. INTRODUCTION
+[1] Les présents motifs se rapportent à l’appel qu’a interjeté Sukhjit S. Ghumman relativement à la nouvelle cotisation établie par l’Agence du revenu du Canada (l’« Agence ») au nom du ministre du Revenu national (le « ministre ») pour l’année d’imposition 2014 de M. Ghumman.
+II. RAPPEL DES FAITS
+[2] En 2014, M. Ghumman était courtier en assurance-vie et il travaillait pour la société Ghumman Financial Planning Inc. (« GFP »). Peu d’éléments de preuve ont été produits concernant GFP, mais il semble que M. Ghumman en était l’actionnaire majoritaire, voire l’unique actionnaire, et qu’il exerçait les rôles d’administrateur et de dirigeant de la société. M. Ghumman fournissait des services de courtage d’assurance-vie pour le compte ou à titre d’employé de GFP. Les commissions sur les polices d’assurance-vie souscrites par l’entremise de M. Ghumman étaient versées à GFP et perçues par elle. M. Ghumman était rémunéré par GFP pour fournir des services en son nom.
+[3] En 2014, M. Ghumman a souscrit une police d’assurance sur sa vie (la « police ») prévoyant une prestation de 1 million de dollars. La police a été émise par la Compagnie d’Assurance du Canada sur la Vie (« Canada-Vie »), et l’assureur a versé à GFP une commission de 20 822,41 $ la première année. La société Canada Loyal Insurance Agency Limited (« Canada Loyal ») a également versé à GFP une commission en prime de 36 439,22 $ au titre de la police. En 2014, GFP a donc touché des commissions totalisant 57 261,63 $ au titre de la police [1] .
+[4] M. Ghumman a produit des copies de sept feuillets T4A (État du revenu de pension, de retraite, de rente ou d’autres sources) pour l’année d’imposition 2014 [2] . GFP est inscrite à titre de bénéficiaire des commissions sur six des sept feuillets T4A mais, alors que M. Ghumman est inscrit comme bénéficiaire de la commission visée sur le septième feuillet T4A. Canada-Vie a établi le feuillet T4A au nom de M. Ghumman et y a inscrit un montant de 1 066,84 $, lequel ne correspond pas aux commissions versées au titre de la police. Selon le feuillet T4A établi par Canada-Vie, celle-ci aurait versé à GFP des commissions totalisant 36 600,60 $ en 2014, un montant qui incluait probablement la commission de 20 822,41 $ versée la première année au titre de la police. Canada Loyal a remis à GFP un feuillet T4A indiquant un montant de commissions de 101 863,09 $ qui incluait probablement la commission de 36 439,22 $ que Canada Loyal a versée en prime à GFP au titre de la police.
+[5] En 2014, GFP a versé un salaire de 111 617 $ à M. Ghumman. Se fondant sur une politique administrative de l’Agence (dont il sera question plus loin) pour calculer son revenu de 2014, M. Ghumman a déduit 57 261,53 $ de son salaire (20 822,41 $ + 36 439,22 $), soit le total des commissions touchées au titre de la police. L’Agence a refusé la déduction des commissions et établi une nouvelle cotisation, laquelle est à l’origine du présent appel, interjeté par M. Ghumman.
+III. POLITIQUE ADMINISTRATIVE
+[6] Pour calculer son revenu de 2014, M. Ghumman s’est fondé sur la politique administrative de l’Agence énoncée au paragraphe 27 du Bulletin d’interprétation IT-470R :
+[…] La commission que touche un employé préposé aux ventes sur les marchandises qu’il achète pour son usage personnel n’est pas un avantage imposable. De même, si un vendeur d’assurance-vie acquiert une police d’assurance-vie, la commission qu’il touche sur cette police n’est pas imposable, tant qu’il est le propriétaire de la police et qu’il doit verser les primes requises [3] .
+[7] L’Agence mentionne et précise sa position à l’égard de la politique administrative susmentionnée dans une interprétation technique publiée le 9 janvier 2012 :
+[traduction] Nous donnons suite par la présente à votre lettre du 24 mars 2011 portant sur l’imposition des commissions que vous avez touchées par suite de la souscription de polices d’assurance-vie dont vous êtes le titulaire. Dans cette lettre, vous nous demandiez également si vous deviez déclarer comme revenu imposable les commissions reçues au titre de polices d’assurance-vie souscrites pour votre conjointe et les personnes à votre charge. Vous nous avez mentionné que vous étiez personnellement tenu de payer les primes afférentes à toutes les polices.
+De manière générale, les commissions que touche une personne préposée aux ventes sont imposables aux termes de l’article 5 ou de l’article 9 de la Loi de l’impôt sur le revenu (la « LIR ») selon que cette personne est un employé ou un travailleur indépendant.
+Toutefois, dans le Bulletin d’interprétation consolidé IT-470R, Avantages sociaux des employés, l’ARC expose sa position administrative à l’égard des commissions non imposables qui ont été touchées pour les ventes à des fins personnelles. Voici un passage pertinent à cet égard du paragraphe 27 du Bulletin d’interprétation IT-470R :
+[...] lorsqu’un vendeur d’assurance-vie acquiert une police d’assurance-vie et qu’il touche une commission sur cette police, celle-ci n’est pas imposable pourvu que le vendeur soit propriétaire de la police et qu’il soit tenu de verser les primes exigées à l’égard de cette police.
+L’Agence a déjà établi que cette position administrative ne s’applique pas si le montant de la commission touché est important ou si la police d’assurance-vie visée comporte une composante d’investissement ou sert à des fins commerciales.
+Dans la décision Jacques Bilodeau c. La Reine, […] 2009 DTC 1757, la Cour canadienne de l’impôt (CCI) se prononce sur la question de savoir si les commissions touchées par un vendeur d’assurance-vie ayant souscrit une police à des fins personnelles sont imposables ou non. La Cour canadienne de l’impôt est parvenue à la conclusion que les commissions en litige étaient imposables dans leur totalité puisqu’elles constituaient un revenu d’entreprise gagné par le courtier indépendant. Les commissions représentaient un revenu important touché par le contribuable et, selon toute vraisemblance, les polices d’assurance comportaient une composante d’investissement.
+Bien que la décision Bilodeau de la Cour canadienne de l’impôt aille dans le sens de la politique administrative de l’Agence concernant les commissions touchées par une personne préposée aux ventes pour l’achat de polices d’assurance à des fins personnelles, les remarques de la Cour canadienne de l’impôt relativement au libellé du paragraphe 27 du Bulletin d’interprétation IT-470R ont suscité un questionnement et amené l’Agence à revoir sa politique administrative. Le cas échéant, les modifications apportées à la politique seront appliquées de manière prospective et feront l’objet d’une annonce publique [4] .
+[8] Le Bulletin d’interprétation IT-470R a été remplacé par le Folio de l’impôt sur le revenu S2-F3-C2, Avantages et allocations provenant d’un emploi (le Folio, daté du 7 juillet 2016, a été publié après l’année d’imposition visée par le présent appel). Je crois savoir que le Folio S2-F3-C2 est en cours de révision. Il est stipulé au paragraphe 2.28 du Folio que les rabais accordés aux employés (notamment ceux qui sont décrits au paragraphe 27 du Bulletin d’interprétation IT-470R) doivent généralement être pris en compte dans le calcul du revenu, tel qu’il est prévu à l’alinéa 6(1)a) de la LIR [5] . Le paragraphe 2.68 du Folio stipule que la politique administrative de l’Agence à l’égard des commissions touchées au titre des polices d’assurance-vie est énoncée dans le Guide de l’employeur T4130, et est rédigé ainsi :
+La commission que touche un employé préposé aux ventes sur les marchandises qu’il achète pour son usage personnel n’est pas un avantage imposable. De même, si un vendeur d’assurance-vie acquiert une police d’assurance-vie, la commission qu’il touche sur cette police n’est pas imposable, tant qu’il est le propriétaire de la police et qu’il doit verser les primes requises. Ceci s’applique seulement lorsque le revenu reçu n’est pas important et que la police d’assurance-vie n’a pas de volet d’investissement ou de fins commerciales [6] .
+[9] Dans l’avis de confirmation délivré le 11 juillet 2017, l’Agence informait M. Ghumman que sa politique administrative ne s’appliquait pas à sa situation parce qu’elle estimait que le montant des commissions reçues (57 261,63 $) était trop important [7] .
+IV. QUESTION EN LITIGE
+[10] Le présent appel vise à déterminer si, aux fins du calcul de son revenu tiré d’un emploi pour l’année d’imposition 2014, M. Ghumman pouvait déduire la somme de 57 261,63 $ (le montant des commissions touchées au titre de la police) de son salaire de 111 617 $.
+V. DISCUSSION
+A. Dispositions applicables
+[11] En 2014, M. Ghumman était un employé de GFP et, à ce titre, il a gagné un revenu d’emploi. Il n’exploitait pas une entreprise à titre de propriétaire unique et ne gagnait donc pas de revenu d’entreprise. Cependant, GFP exploitait une entreprise et a gagné un revenu d’entreprise en 2014.
+[12] Il est prévu au paragraphe 5(1) de la LIR que « le revenu d’un contribuable, pour une année d’imposition, tiré [...] d’un emploi est le traitement, le salaire et toute autre rémunération […] que le contribuable a reçus au cours de l’année ». La plupart des éléments déductibles dans le calcul du revenu tiré d’un emploi sont énoncés à l’article 8 de la LIR [8] . Or, rien dans l’article 8 n’autorise M. Ghumman à déduire les commissions touchées par GFP au titre de la police dans le calcul de son revenu d’emploi pour 2014. Même si l’article 60 de la LIR donne une liste d’éléments qui peuvent être déduits dans le calcul du revenu qu’un contribuable a tiré d’un emploi, il n’autorise aucunement M. Ghumman à déduire de son revenu de 2014 les commissions touchées par GFP au titre de la police.
+B. Jurisprudence
+[13] L’avocate de l’intimée m’a renvoyé à l’affaire Bilodeau [9] , également citée dans l’interprétation technique susmentionnée. Même si M. Bilodeau était également courtier en assurance-vie, tout indique que les modalités de sa rémunération différaient de celles de M. Ghumman. La juge Lamarre (tel était alors son titre) décrit comme suit l’entente relative au versement de commissions à M. Bilodeau :
+Je reviens maintenant au nœud du litige, soit le montant de 43 115 $ de commissions reçues par l’appelant en 2003. L’appelant est courtier en assurance-vie et il tire ses revenus de commissions de compagnies pour lesquelles il vend des polices d’assurance-vie. Il agit comme conseiller pour la société Force Financière Excel (« Excel »), laquelle joue un rôle d’intermédiaire entre la compagnie d’assurances et le conseiller. L’appelant a droit à une rémunération de base de 65 pour cent des primes exigées du client au cours de la première année sur une police d’assurance. À cela s’ajoute, une commission supplémentaire de 135 pour cent de la rémunération de base, que l’appelant reçoit puisqu’il est dans la liste des meilleurs vendeurs. Cette commission supplémentaire a été négociée entre l’appelant et Excel. C’est la compagnie d’assurances pour laquelle la police d’assurance est vendue qui paie la totalité de la rémunération à l’appelant, sur instruction de Excel [10] .
+Selon la lecture que je fais de la précédente description des modalités de rémunération de M. Bilodeau, il exploitait sa propre entreprise à titre de consultant. Il n’était pas un employé d’Excel ni d’aucune des sociétés d’assurance pour lesquelles il vendait des polices [11] . De plus, les assureurs versaient des commissions à M. Bilodeau (ce qui n’est pas le cas de M. Ghumman puisque les commissions étaient versées à GFP).
+[14] M. Bilodeau avait acquis deux polices d’assurance-vie universelles. Au titre de la première police, il était la personne assurée et sa femme était la bénéficiaire, et c’était l’inverse dans le cas de la seconde police. Dans le calcul de son revenu, M. Bilodeau a déduit les commissions perçues au titre des deux polices en s’appuyant sur le Bulletin d’interprétation IT-470R et la politique administrative résumée précédemment. L’Agence a refusé la déduction des commissions au motif que la politique administrative ne s’appliquait pas aux polices parce qu’elles comportaient une composante d’investissement. La juge Lamarre a conclu que la politique administrative de l’Agence ne liait ni l’Agence ni la Cour :
+15. En ce qui concerne le Bulletin d’interprétation IT-470R, ce dernier ne peut se substituer à la LIR. Ce bulletin ne constitue que l’opinion du ministre, et ne peut lier ni ce dernier, ni le contribuable, ni les tribunaux. [...]
+16. Dans le cas présent, il n’y a aucun doute dans mon esprit que la commission reçue par l’appelant est un revenu tiré de sa profession, et imposable aux termes du paragraphe 9(1) de la LIR.
+17. Le Bulletin d’interprétation IT-470R vient ici donner le traitement réservé dans certains cas par l’ARC à une catégorie de contribuables dans certaines circonstances. Malgré le fait qu’une commission reçue sur une vente soit de par sa nature imposable, l’ARC considère certaines de ces commissions comme un privilège accordé au vendeur qui le reçoit. Ainsi, tout comme un employeur peut accorder à son employé un rabais à l’achat de sa marchandise, l’ARC considère qu’une compagnie d’assurances peut accorder un rabais à l’un de ses vendeurs s’il acquiert une police d’assurance-vie personnelle auprès d’elle. Dans de tels cas, l’ARC considère ce rabais comme un privilège relié à l’emploi ou à la profession, et accepte de considérer ces avantages non-imposables (sic). Ceci ne reflète toutefois qu’une politique administrative de l’ARC et, à ce que je sache, ne tire aucunement sa source de la LIR. En effet, on ne retrouve pas de dispositions dans la LIR, exonérant d’impôt ce genre de privilèges.
+18. Ainsi, à mon avis, dans la mesure où l’ARC change sa politique administrative, ou considère qu’un cas en particulier ne remplit pas les conditions requises à la bonne générosité du fisc, le contribuable ne peut venir devant cette Cour pour forcer l’ARC à se conformer à son bulletin d’interprétation, surtout si ce dernier accorde un répit fiscal non-conforme (sic) à la législation fiscale [12] .
+[15] Suivant le principe énoncé dans la décision Bilodeau, si l’Agence décide pour une raison quelconque qu’une politique administrative (peu importe qu’elle soit exposée dans le Bulletin d’interprétation IT-470R, le Folio de l’impôt sur le revenu S2-F3-C2 ou le Guide de l’employeur T4130) ne s’applique pas à la situation d’un contribuable donné, celui-ci ne peut s’attendre à ce que la Cour enjoigne à l’Agence de faire appliquer une politique administrative incompatible avec la LIR [13] .
+[16] Pour ce qui a trait à la nature non contraignante d’un bulletin d’interprétation, la décision Bilodeau est conforme au principe énoncé dans la décision Vaillancourt :
+[traduction] Il est maintenant bien établi que les bulletins d’interprétation reflètent une opinion du ministère du Revenu national et qu’ils ne lient ni le ministre, ni le contribuable, ni les tribunaux. Ils constituent seulement un facteur important dans l’interprétation de la LIR en cas de doute quant à son sens [14] .
+C. Application au présent appel des principes énoncés précédemment
+[17] Comme le fait remarquer la juge Lamarre dans la décision Bilodeau, un revenu de commission gagné par un courtier d’assurance-vie est imposable. Si l’Agence a établi qu’un contribuable n’a pas droit au traitement favorable exposé dans l’une de ses politiques administratives, notre Cour ne peut pas se prononcer sur l’appel de ce contribuable d’une manière incompatible avec la LIR.
+[18] Même si notre Cour pouvait faire appliquer la politique administrative de l’Agence en cause ici (ce qui n’est pas le cas), je suis d’avis qu’elle ne vise pas la situation de M. Ghumman. La politique administrative s’applique aux personnes qui acquièrent une police d’assurance-vie, qui paient les primes afférentes et qui touchent des commissions au titre de cette politique. Nous ne sommes pas en présence d’une telle situation puisque c’est GFP qui a touché les commissions au titre de la police souscrite par M. Ghumman. En 2014, M. Ghumman a reçu un salaire de GFP, mais il n’a touché aucune des commissions versées par les différents assureurs.
+[19] Je peux comprendre la frustration de M. Ghumman à l’égard de l’Agence, qui a omis de lui dire que la politique administrative ne s’appliquait pas à lui parce qu’il y avait un intermédiaire (GFP) entre lui et les assureurs. L’Agence a simplement parlé d’un montant de commissions trop important. M. Ghumman a été particulièrement agacé que l’Agence n’ait pas pu lui expliquer la différence entre un montant de commissions important et un autre qui ne l’est pas. Quand il a posé des questions sur le seuil à partir duquel un montant était considéré comme important, l’Agence n’a pas été en mesure de lui donner de précision.
+VI. CONCLUSION
+[20] Il est certes regrettable que l’Agence n’ait pas su expliquer de manière satisfaisante son refus de faire appliquer sa politique administrative à M. Ghumman, mais notre Cour ne peut pas donner suite à sa demande de réparation [15] . Par conséquent, l’appel est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 29e jour de mai 2019.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+RÉFÉRENCE :
+2019 CCI 125
+No DU DOSSIER DE LA COUR :
+2017-3930(IT)I
+INTITULÉ :
+SUKHJIT S. GHUMMAN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+LE 28 FÉVRIER 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Don R. Sommerfeldt
+DATE DU JUGEMENT :
+Le 29 mai 2019
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Priya Bains
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.o.
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Pièce A-3 – lettre datée du 19 juin 2015, transmise par Canada Loyal au Bureau des services fiscaux de Sudbury de l’Agence.
+[2] Les sept feuillets T4A constituent collectivement la pièce A-2,
+[3] Bulletin d’interprétation IT-470R, Avantages sociaux des employés, 8 octobre 1999, paragraphe 27.
+[4] Interprétation technique 2011-0407121E5, Revenu de commissions au titre des contrats d’assurance personnels, 9 janvier 2012.
+[5] Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e supplément), en sa version modifiée.
+[6] Guide de l’employeur T4130 – Avantages et allocations imposables, 2018.
+[7] Pièce R-1.
+[8] Voir le paragraphe 8(2) de la LIR.
+[9] Bilodeau c. La Reine, 2009 CCI 315.
+[10] Ibid., au paragraphe 3,
+[11] Bien que la juge Lamarre utilise les expressions « rémunération de base » et « totalité de la rémunération » au paragraphe 3 de ses motifs, laissant entendre ainsi qu’il s’agit d’un revenu tiré d’un emploi, elle explique ensuite aux paragraphes 14 et 16 que M. Bilodeau exploitait une entreprise et que son revenu était établi aux termes du paragraphe 9(1) de la LIR.
+[12] Bilodeau, précitée, note 9, aux paragraphes 15 à 18.
+[13] Au paragraphe 18 des motifs exposés dans la décision Bilodeau, la juge Lamarre fait allusion à la « bonne générosité du fisc ». J’estime que mes propres motifs ne doivent en aucun cas être interprétés comme une tentative de limiter ou de réprimer cette bonne générosité. Au contraire, il faut saluer la souplesse des politiques administratives de l’Agence ainsi que sa magnanimité à l’égard des difficultés rencontrées par les contribuables (étant entendu que cette souplesse et cette magnanimité doivent s’exercer dans le cadre prévu par la législation fiscale applicable).
+[14] Vaillancourt c. La Reine et al., [1991] 2 CTC 42, au paragraphe 48, 91 DTC 5408, page 5412 (FCAD), au paragraphe 14.
+[15] Les circonstances de la présente espèce ne peuvent être assimilées à celles dont il est question dans la décision Vestey v Inland Revenue Commissioners, [1979] 3 All ER 976 [1980] AC 1148 (HL).

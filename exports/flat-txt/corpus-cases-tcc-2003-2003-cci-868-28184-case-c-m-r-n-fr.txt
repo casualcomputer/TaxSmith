@@ -1,0 +1,109 @@
+Title: Case c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28184/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-868-28184-case-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-12-01
+
+# Case c. M.R.N.
+
+- Citation: 2003 CCI 868
+- Decision date: 2003-12-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1965, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Case c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-01
+Référence neutre
+2003 CCI 868
+Numéro de dossier
+2003-1205(EI)
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003‑1205(EI)
+ENTRE :
+KIM CASE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ANGELA SADZAK,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 19 novembre 2003 à Prince George (Colombie‑Britannique)
+Devant : L’honorable juge C. H. McArthur
+Comparutions
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimé :
+Me Raj Grewal
+Pour l’intervenante :
+Angela Sadzak
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi est rejeté et la décision rendue par le ministre en vertu de l’article 91 de la Loi à l’égard dudit appel interjeté devant lui est confirmée.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2003.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 29e jour de janvier 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI868
+Date : 20031201
+Dossier : 2003‑1205(EI)
+ENTRE :
+KIM CASE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ANGELA SADZAK,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] La question que je suis appelé à trancher est simple. Il s’agit de savoir si l’appelante, Kim Case (Kim), a cumulé 124 heures ou 416 heures de travail ou encore un nombre d’heures de travail se situant quelque part entre ces deux chiffres en travaillant pour le compte de l’entreprise 428994 B.C. Ltd. faisant affaire sous le nom de Plaza One Hour Drycleaning (l’entreprise Plaza) propriété d’Angela Sadzak (Angela), l’intervenante. Kim et Angela ont toutes les deux témoigné. Angela a préféré témoigner au nom de l’intimé plutôt que de témoigner indépendamment en tant qu’intervenante. La question se résume à une question de crédibilité puisque leur version des faits est presque en contradiction absolue.
+[2] Tout d’abord, je souhaite résumer brièvement la version des faits de Kim. En mai 2002, elle a placé un cheval en pension chez l’entreprise d’Angela qui offrait des services de pension de chevaux (l’entreprise Sadzaks Quarter Horses). Angela exploitait également l’entreprise Plaza spécialisée dans le nettoyage à sec. Elle a engagé Kim pour travailler à l’entreprise Plaza. Kim a déclaré qu’elle avait été engagée à un taux horaire de 8 $, qu’elle travaillait de 9 h à 15 h 30, cinq jours par semaine, qu’elle avait occupé cet emploi du 22 mai au 22 août 2002 et qu’elle avait cumulé 416 heures de travail. Elle consignait ses heures de travail en rayant sur un calendrier les dates correspondant à une journée complète de travail. À titre de paiement de ses salaires, elle a perçu deux chèques en juin : l’un, au montant de 56,96 $ et l’autre, au montant de 97,64 $. Elle demandait constamment à Angela quand elle lui verserait sa paye, mais celle‑ci lui répondait qu’elle devait attendre jusqu’à ce que les chevaux soient vendus ou que son comptable (le frère d’Angela) rattrape son retard relativement à la tenue de ses livres. Elle a travaillé du 22 mai au 22 août 2002 dans « un atelier de misère » sans percevoir aucune autre rémunération que celle mentionnée ci‑dessus qui s’élève au montant de 154 $.
+[3] Le 1er décembre 2002, Kim a déposé une plainte à la Employment Standards Branch. Elle a réclamé un nombre total de 416 heures de travail pour la période du 22 mai au 22 août 2002 au taux horaire de 8 $ pour un montant de 3 328 $. Le directeur de la Employment Standards Branch (Standards) a rejeté sa requête après avoir conclu qu’elle n’avait cumulé que 124 heures de travail, comme l’avait déclaré Angela.
+[4] Shelly Burchnall, une déléguée de Standards a interrogé les cinq ou six témoins que lui avait recommandés Kim pour appuyer sa position. Bien qu’ils aient été au courant qu’elle avait travaillé pour le compte de l’entreprise Plaza, ils n’ont été d’aucune aide concernant ses heures de travail.
+[5] Maintenant, j’exposerai brièvement la version des faits d’Angela. Celle‑ci a déclaré que Kim avait travaillé à temps plein à l’établissement de nettoyage à sec du 22 mai au 22 août 2002, mais seulement à temps partiel pour un nombre total de 124 heures de travail. Kim n’a perçu de rémunération que pour 19 heures de travail parce qu’elle avait insisté pour que l’argent qu’elle devait en frais de nourriture et de pension pour son cheval[1] qu’elle avait placé à l’écurie ou à la piste de dressage d’Angela soit déduit de ses autres salaires gagnés. À l’exception des 19 heures de travail susmentionnées, ses salaires n’ont jamais dépassé le montant qu’elle devait en frais de pension.
+[6] Angela a ajouté que Kim s’était imposée à elle et que c’est à contrecœur qu’elle l’avait engagée à temps partiel à son établissement de nettoyage à sec. Kim n’avait pas d’horaire de travail régulier et elle se présentait au travail quand elle le voulait. Angela consignait les heures de travail de Kim. En août, Kim lui devait une somme considérable en frais de pension pour son cheval. Elle a déclaré que c’était Kim qui avait proposé l’entente à l’entreprise Plaza concernant la déduction de cette somme due de ses salaires qu’elle avait gagnés à l’entreprise Plaza et que si les heures que réclamaient Kim étaient correctes, alors elle [TRADUCTION] « ferait plus d’argent que moi ».
+Analyse
+[7] Shelly Burchnall de Standards a produit un rapport fort impressionnant daté du 6 mai 2003. Bien qu’il soit fondé sur des ouï‑dire, ni Kim ni Angel n’ont contesté son authenticité. Elle a mené son enquête après que Kim a déposé une plainte en vertu de l’article 74 de la Employment Standards Act (loi sur les normes d’emploi) de la Colombie‑Britannique.
+[8] Kim a indiqué à Mme Burchnall le nom de six témoins. Cette dernière a interrogé quatre d’entre eux mais n’a pu joindre les deux autres. Le premier témoin était Cathy Soulliere, et Mme Burchnall a consigné, dans son rapport, ce qui suit :
+[traduction]
+Cathy Soulliere (« Mme Soulliere »)
+Mme Case a déclaré que Mme Soulliere est une personne très honnête qui ne dirait que la vérité concernant le nombre réel d’heures qu’elle a travaillées, et ce, malgré le fait qu’elle soit encore une employée de Mme Sadzak. Mme Case a insisté sur le fait que tout renseignement que fournirait Mme Soulliere serait crédible et devrait être accepté mot pour mot.
+Mme Soulliere a déclaré qu’elle n’était pas en mesure de confirmer les journées de travail de Mme Case, mais qu’elle savait qu’elle ne travaillait pas à temps plein. Mme Soulliere travaillait les mardis et les jeudis et quelquefois, lorsqu’elle arrivait au travail, Mme Case était là, alors que d’autres fois elle n’y était pas. Mme Soulliere a déclaré que « Kim était une amie d’Angela et lui rendait visite à l’établissement de nettoyage à sec, mais elle travaillait toujours ». « Elle allait et venait comme bon lui semblait et ne consignait pas ses heures de travail comme le faisaient les autres membres du personnel. » « Angela inscrivait l’initial "K" dans le registre de paye lorsque Kim travaillait. » Mme Soulliere a déclaré que, selon ce qu’elle avait compris, Mme Case « travaillait à l’établissement de nettoyage à sec afin de payer les frais de pension pour son cheval ».
+Mme Soulliere a indiqué qu’elle travaillait depuis longtemps à l’établissement de nettoyage à sec et qu’elle avait toujours voulu obtenir un poste à temps plein. Elle travaillait autant d’heures que Mme Sadzak était en mesure de lui offrir et a nié qu’elle voulait « seulement travailler à temps partiel ».
+Les témoignages des autres témoins abondaient dans le même sens. Aucun des témoins n’a pu confirmer que Kim occupait un emploi à temps plein à l’entreprise Plaza. Dans l’ensemble, leur impression était que Kim travaillait à temps partiel pour rembourser les frais de pension pour son cheval. À la page 12 de son rapport, Mme Burchnall a déclaré ceci :
+[traduction]
+[...] Je préfère le témoignage de Mme Sadzak et les explications qu’elle m’a fournies concernant la relation de travail qui existait entre les deux parties. Son registre des heures et des dates qu’a travaillées Mme Case était cohérent avec les heures qu’ont travaillées ses autres employés à l’établissement de nettoyage à sec pendant la période du mois de mai au mois d’août 2001 et 2002. À mon avis, le témoignage des témoins, y compris celui de Mme Case, appuient la version des faits de Mme Sadzak et montrent qu’elle est crédible, surtout que tous ont répété que Mme Case « travaillait à temps partiel à l’établissement de nettoyage à sec afin de rembourser les frais de pension pour son cheval ».
+[9] L’avocat de l’intimé a renvoyé la Cour à la décision Faryna v. Chorny[2], notamment à la page 357 où le juge O'Halloran a déclaré ceci :
+[traduction]
+[...] le véritable critère quant à la véracité de l’histoire d’un témoin dans un tel cas doit être son accord avec la prépondérance des probabilités qu’une personne pratique et informée reconnaîtrait facilement comme étant raisonnables dans cette situation et dans ces conditions. Ce n’est que dans ces conditions que la Cour peut évaluer de manière satisfaisante le témoignage de témoins expérimentés, sûrs d’eux et à l’esprit vif et ceux de personnes habiles et expertes en l’art de ne dire que des demi‑vérités et qui ont acquis une vaste expérience leur permettant d’exceller lorsqu’il s’agit d’exagérer et de cacher en partie la vérité. Je le répète, un témoin peut témoigner de ce qu’il croit sincèrement être vrai tout en ayant tort. Si un juge de première instance affirme : « Je crois le témoin parce que j’estime qu’il dit la vérité », c’est qu’il est parvenu à une conclusion en ne tenant compte que de la moitié du problème. En vérité, il peut facilement s’agir d’une auto‑direction risquée.
+Manifestement, la version d’Angela est davantage [TRADUCTION] « en accord avec la prépondérance des probabilités qu’une personne pratique et informée reconnaîtrait facilement comme raisonnables dans cette situation et dans ces conditions ».
+[10] Examinons maintenant les faits dont nous disposons : (i) les témoins dont les noms avaient été fournis par Kim et qu’a interrogés Mme Burchnall n’appuyaient pas la position de l’appelante. Au cours de l’audience, aucun témoin ne corroborait sa version des faits; (ii) les témoins qu’a recommandés Kim à Mme Burchnall appuyaient davantage la version des faits d’Angela que celle de Kim, notamment en ce qui concerne le fait qu’elle travaillait à temps partiel.
+[11] La version des faits d’Angela selon laquelle Kim travaillait afin de rembourser les frais de pension pour son cheval est beaucoup plus conforme au bon sens. Dès le début, Angela a inscrit Kim dans le registre de paye. En juin 2002, elle lui a versé une rémunération correspondant à 19 heures de travail et lui a délivré des relevés de paye. Par la suite, les salaires qu’a gagnés Kim à l’établissement de nettoyage à sec ont servi à rembourser les frais de pension pour son cheval. Si j’admets sa version des faits, cela signifie qu’elle aurait fait plus d’argent qu’Angela et qu’elle aurait bénéficié d’un traitement préférentiel par rapport aux autres employés qui avaient à leur actif dix années de services, ce qui met sa crédibilité à rude épreuve. Par conséquent, je préfère admettre le témoignage d’Angela.
+[12] Je rejette l’appel bien qu’il subsiste un doute dans mon esprit concernant les heures de travail; celles qu’a soumises Angela sont à mon avis insuffisantes tandis que celles qu’a soumises Kim sont beaucoup trop élevées. Toutefois, il ne s’agit que d’un soupçon persistant qui n’est pas suffisant pour me justifier d’annuler l’évaluation raisonnée des faits qui se fonde probablement sur la décision de Shelly Burchnall qu’elle a rendue après avoir soigneusement analysé la situation, décision d’ailleurs qui n’a pas été contestée. Je ne suis pas convaincu qu’Angela a été tout à fait honnête. Elle a comparu en tant qu’intervenante encore qu’il semble que l’intimé l’ait appelé à témoigner et qu’il lui ait payé son billet d’avion pour qu’elle puisse comparaître à l’audience. Qui plus est, son comptable était son frère. Aucun témoin n’a comparu pour appuyer son témoignage. À mon avis, le jugement par défaut qu’a rendu la Cour des petites créances portait sur le montant brut des frais de pensions sans ajouter foi aux heures de travail de Kim, bien que je ne puisse trancher un tel litige.
+[13] Par conséquent, l’appel est rejeté et la décision rendue par le ministre en vertu de l’article 91 de la Loi à l’égard dudit appel interjeté devant lui est confirmée.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2003.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 29e jour de janvier 2004.
+Nancy Bouchard, traductrice
+[1] Je crois que Kim possédait trois chevaux, mais qu’un seul a été mis en pension à l’établissement d’Angela tandis que les deux autres ont été mis au pré.
+[2] [1952] 2 D.L.R. 354.

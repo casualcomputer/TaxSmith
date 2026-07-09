@@ -1,0 +1,244 @@
+Title: St-Hilaire v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/99430/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-336-99430-st-hilaire-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-11-14
+
+# St-Hilaire v. The Queen
+
+- Citation: 2014 TCC 336
+- Decision date: 2014-11-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5270, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Hilaire v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-11-14
+Neutral citation
+2014 TCC 336
+File numbers
+2014-326(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-326(IT)I
+BETWEEN:
+JACQUES ST-HILAIRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on June 25, 2014, at Québec, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the appellant:
+Sylvie Alarie
+Counsel for the respondent:
+Christina Ham
+JUDGMENT
+The appeal from the reassessments made by the Minister of National Revenue under the Income Tax Act, notices of which are dated October 22, 2012, for the 2005, 2006, 2008, 2009 and 2010 taxation years, and September 19, 2013, for the 2008 taxation year, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of November 2014.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 24th day of December 2014
+Michael Palles, Translator
+Citation: 2014 TCC 336
+Date: 20141114
+Docket: 2014-326(IT)I
+BETWEEN:
+JACQUES ST-HILAIRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The appellant filed an appeal in this Court, using the informal procedure, against the reassessments made on October 22, 2012, by the Minister of National Revenue (the Minister) under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the Act), for the 2005, 2006, 2008, 2009 and 2010 taxation years, and on September 19, 2013, for the 2008 taxation year.
+[2] In the reassessments dated October 22, 2012, the Minister made the following adjustments to the appellant’s tax returns:
+2005
+2006
+2008
+2009
+2010
+Carrying charges disallowed
+-
+-
+$15,010
+$16,822
+$15,872
+Business investment loss disallowed
+-
+-
+$253,985
+-
+-
+Non-capital loss carryback disallowed
+$58,751
+$33,343
+-
+-
+-
+Capital loss realized
+-
+-
+$253,985
+-
+-
+[3] The appellant filed a Notice of Objection against these reassessments on or about November 7, 2012.
+[4] On September 19, 2013, the Minister confirmed the reassessments for the 2005, 2006, 2009 and 2010 taxation years and made a reassessment for the 2008 taxation year, thereby allowing the appellant a $9,515 deduction for carrying costs.
+[5] To determine the income tax payable by the appellant for the taxation years in issue, the Minister used the following findings and assumptions of fact, as set out in paragraph 7 of the Reply to the Notice of Appeal:
+[translation]
+(a) the appellant was the sole shareholder in the company “La Radio Touristique de Québec Inc” (the company);
+(b) the company was incorporated on November 15, 2001, and has operated an FM radio station for tourists in the Québec area since 2006;
+(c) the company is a Canadian-controlled private corporation;
+(d) the company is a small business corporation;
+(e) the company’s fiscal year ended on October 31 each year;
+(f) over the years, the appellant made several advances to the company, totalling $253,985;
+(g) unable to meet its financial obligations, on August 8, 2008, the company filed a proposal in bankruptcy under the Bankruptcy and Insolvency Act, and amended this proposal on August 19, 2008;
+(h) to persuade the arm’s length unsecured creditors to accept the proposal, the appellant waived any dividends payable on the $253,985 in advances he had made to the company;
+(i) the creditors accepted the proposal in bankruptcy, and the company continued carrying on its business;
+(j) on October 9, 2008, the Superior Court, Commercial Division, sanctioned and ratified the proposal in bankruptcy and declared this proposal to be binding on each and every creditor and on the company;
+(k) for the fiscal year ending October 31, 2008, the company wrote off the $253,985 debt owed to the appellant and paid tax on a gain on settlement of a debt;
+(l) from February 6, 2009, onwards, the company operated as Sortir FM inc.;
+(m) on February 28, 2011, the company’s shares were transferred to Mass-Média Capitale inc., a corporation owned and controlled by Louis Massicotte;
+(n) the interest charges for the year 2008 were adjusted from $15,010 to $9,515 to allow the interest paid in the year up to the date of the proposal in bankruptcy, which comes to 232/366 days.
+[6] The issues are as follows:
+(a) Was the Minister justified in disallowing an amount of $253,985 that the appellant claimed as a business investment loss (BIL) for the 2008 taxation year?
+(b) Was the Minister justified in disallowing an amount of $58,751 for the 2005 taxation year and an amount of $33,343 for the 2006 taxation year that the appellant claimed as non-capital loss carrybacks from the 2008 taxation year?
+(c) Was the Minister justified in disallowing the amounts of $5,495, $16,822 and $15,872 that the appellant claimed as carrying charges for the 2008, 2009 and 2010 taxation years respectively?
+Positions of the parties [7] The respondent submits that the Minister was justified in disallowing the amount of $253,985 that the appellant claimed as a BIL for the 2008 taxation year because the following criteria set out in subparagraph 39(1)(c)(ii) and paragraph 50(1)(a) of the Act were not met:
+[translation]
+(a) the appellant did not dispose of the debt owing to him to a person with whom he was dealing at arm’s length; and
+(b) once the proposal was accepted, the debt owing to the appellant was cancelled, so there was no debt owing to him at the end of the 2008 taxation year.
+[8] Since the BIL deduction was disallowed, the Minister was justified in not allowing the appellant’s non-capital loss carrybacks of $58,751 for the 2005 taxation year and $33,343 for the 2006 taxation year.
+[9] Regarding the carrying charges, the respondent submits that the Minister was justified in disallowing the deductions that the appellant claimed for carrying costs with regard to the amounts of $5,495, $16,822 and $15,872 incurred in the 2008, 2009 and 2010 taxation years because the appellant waived the debt owing to him, such that his obligation to pay interest did not stem from borrowed money used for the purpose of earning income from a business or property, in accordance with paragraph 20(1)(c) of the Act.
+[10] The appellant, on the other hand, submits that the proposal in bankruptcy for the company “La Radio Touristique de Québec Inc.” (the company) affected the appellant’s ability to collect it but did not cancel or eliminate it. Consequently, the $253,985 debt owing to the appellant still existed at the end of the 2008 taxation year but had become a bad debt, which entitled the appellant to claim a BIL deduction.
+[11] Regarding the deduction for carrying costs, the appellant submits that the carrying costs of the loans taken out by the appellant to invest in the company are deductible when computing his income for the 2008, 2009 and 2010 taxation years because they were paid on borrowed money used for the purpose of earning income from a business or property.
+[12] The amount of the loss realized when the $253,985 debt was cancelled and the amount of the carrying costs incurred by the appellant in the 2008, 2009 and 2010 taxation years are not in issue. The Minister treated the loss realized when the debt was cancelled as a capital loss and allowed a deduction for the carrying costs for the 2008 taxation year up to the date of the company’s proposal in bankruptcy.
+Testimony [13] Jacques St-Hilaire, trustee in bankruptcy Brian Friset, certified accountant Sylvain Dostie, and Canada Revenue Agency (CRA) call agent Marie-Hélène Beaucage testified at the hearing.
+[14] When Mr. St-Hilaire turned 65, he decided to use his experience in radio journalism and advertising sales to embark on a new business venture by opening two radio stations (one in French and one in English) in Québec to provide tourists and residents in Québec and the surrounding area with information regarding upcoming events and things to see in that region. The stations’ operations were to be financed by advertising.
+[15] Mr. St-Hilaire used the company to operate his tourism-related FM radio stations. The company was incorporated on November 15, 2001, under the Business Corporations Act (the federal regime). Since the company’s foundation, Mr. St-Hilaire had held 100% of the issued and outstanding shares, that is, 100 Class A shares with a paid-up capital and an adjusted cost base of $100. In addition to being the company’s sole shareholder, he was also its sole director. The company’s fiscal year ends on October 31 of each year.
+[16] Mr. St-Hilaire financed the company’s operations through interest-free advances. The advances are set out in detail below:
+Period
+Amount of Advance
+November 1, 2005, to October 31, 2006
+$95,156
+November 1, 2006, to October 31, 2007
+$85,192
+November 1, 2007, to August 8, 2008
+$73,637
+Total
+$253,985
+[17] To make the advances to the company, Mr. St-Hilaire had to take out a new hypothec on his family home, have the limit on his line of credit raised, “max out” his credit cards, borrow money from friends and cash in his registered retirement savings plan.
+[18] The radio stations went on the air on May 3, 2006, pursuant to Broadcasting Decision CRTC 2006-53 by which the Canadian Radio-television and Telecommunications Commission (the CRTC) granted operating licences for both radio stations. The CRTC licences were issued in the name of “La radio touristique de Québec inc.”, but Mr. St-Hilaire was the responsible licensee.
+[19] On August 8, 2008, “La Radio touristique de Québec inc.” filed a proposal in bankruptcy to its creditors under the Bankruptcy and Insolvency Act (BIA) with the firm of Ginsberg, Gingras & Associés Inc. This proposal in bankruptcy provided for the payment of a lump sum of $15,000 to the unsecured creditors without priority within thirty days of the proposal being sanctioned by a court, in this case, the Superior Court of Québec, Commercial Division. Mr. St-Hilaire was on the list of the company’s unsecured creditors because of the $253,985 debt owing to him, but he had to waive any dividends as an unsecured creditor with regard to the advances he made to the proponent company.
+[20] On August 19, 2008, the company amended its proposal in bankruptcy to account for possible CRTC requirements regarding the transfer of the radio stations’ operating licences. The amended proposal in bankruptcy made no changes to the amounts to be paid to the creditors except (a) in regard to the lump sum of $15,000 to be paid to the unsecured creditors, which was made conditional on the creditors accepting the proposal and on obtaining the CRTC’s authorization to transfer the operating licence or licences of one or both radio stations; and (b) in regard to the payment date of the $15,000 dividend, which became payable to the unsecured creditors within 15 days of the CRTC’s final authorization, without appeal, to transfer the operating licence or licences of one or both radio stations.
+[21] On September 2, 2008, the required majority of creditors accepted the amended proposal in bankruptcy at the creditors’ meeting, and on October 9, 2008, the Superior Court of Québec, Commercial Division, sanctioned and ratified for all legal intents and purposes the decisions made at the creditors’ meeting held on September 2, 2008, and declared that the amended proposal in bankruptcy was binding on each of the creditors of the debtor/proponent.
+[22] On August 19, 2008, when Mr. St-Hilaire filed the company’s proposal in bankruptcy, he also filed a proposal in bankruptcy to his personal creditors with the firm Ginsberg, Gingras & Associés . The proposal provided for, among other things, the payment of a lump sum of $24,000, payable in 24 equal, consecutive monthly instalments of $1,000, with the first payment being due 30 days after the sanctioning of the proposal in bankruptcy by the court. A meeting of the debtor’s creditors was held on September 9, 2008, during which the proposal was accepted. The Superior Court of Québec, Commercial Division, then sanctioned and ratified the decisions made at the creditors’ meeting.
+[23] Mr. St-Hilaire also related the circumstances surrounding the sale of his shares in the company to Louis Massicotte. According to Mr. St-Hilaire, Mr. Massicotte proposed buying the company from him and covering the radio stations’ operating expenses until the CRTC licences were transferred. Mr. St‑Hilaire accepted Mr. Massicotte’s offer and promised to oversee the transition until the licences were transferred. As a result of Mr. Massicotte’s offer, both radio stations were able to carry on their business operations after the proposal in bankruptcy. However, the company’s name was changed to “Sortir FM inc.”, and the company’s accounts at the Royal Bank of Canada, the National Bank of Canada and the Caisse populaire Desjardins de Charlesbourg were all closed in the months of September and October 2008.
+[24] Mr. St-Hilaire explained that he could not resign from the company because he was the designated licensee of both broadcasting licences. This is why he continued to play an active role in the business for two and a half years for minimal pay. During that period, Mr. St-Hilaire prepared the necessary documentation for transferring the licences, took part in public hearings and prepared responses to objections. The licence transfer process went on for about two and a half years before the CRTC finally accepted the transfer on certain conditions.
+[25] During the transition period, Mr. St-Hilaire gradually disposed of his Class A shares in the company. In his personal income tax return for the 2008 taxation year, Mr. St-Hilaire reported a capital gain of $9,980 from the disposition on December 23, 2008, of 20 Class A shares in “La Radio Touristique de Québec inc.” to “Placements RJS inc.”, an investment company of which Mr. Massicotte was the sole director, for proceeds of disposition of $10,000 in. In his personal income tax return for the 2009 taxation year, Mr. St-Hilaire reported a capital gain of $39,920 from the disposition of 80 Class A shares in “La Radio Touristique de Québec inc.” to “Placements RJS inc” on proceeds of disposition totalling $40,000.
+[26] In connection with the transactions entered into by the appellant and Mr. Massicotte, on February 5, 2009, the appellant subscribed for 400 Class B shares in the capital stock of “La Radio Touristique de Québec inc.” for the total amount of $400, or $1.00 per share, and on that same day granted Mass-Média Capitale inc. an option to purchase 400 Class B shares, which option could be exercised as soon as “La Radio Touristique de Québec inc.” received the required approvals from the CRTC. The option to purchase 400 Class B shares was granted for the total amount of $400, or $1.00 per share, but the exercise price for the option to purchase 400 Class B shares was for a total amount of $40,000. The option to purchase 400 Class B shares was exercised on November 1, 2011, and Mr. St‑Hilaire resigned as director of “Sortir FM inc.” on October 10, 2011.
+[27] In his testimony, Brian Fiset explained that if the appellant had declared bankruptcy, he would have been entitled to claim a BIL for his $253,985 claim, but the unsecured creditors would have been left with nothing. Under the proposal in bankruptcy, the unsecured creditors received $15,000. From this $15,000, the appellant would have been entitled to receive $10,000 had he not waived the liquidating dividend resulting from his claim. According to Mr. Fiset, the appellant’s claim was written off under the terms of the proposal in bankruptcy and ceased to exist.
+[28] Sylvain Dostie prepared the financial statements and tax returns for the company “La Radio Touristique de Québec inc.” until October 31, 2008. The company wrote off the $253,985 debt owing to the appellant and paid tax on a gain on settlement of a debt when it filed its tax returns for the fiscal year ending October 31, 2008. According to Mr. Dostie, the value of the shares in “La Radio Touristique de Québec inc.” was nil given that the company had negative retained earnings.
+Analysis [29] The facts in this case are not in dispute. The amount of the carrying costs incurred by the appellant after the date of the proposal in bankruptcy and the amount of the advances that the appellant made to “La Radio Touristique de Québec inc.” are not at issue.
+[30] The sections of the Act that are relevant to determining entitlement to a BIL are reproduced below:
+Subdivision c – Taxable Capital Gains and Allowable Capital Losses
+SECTION 38: Taxable capital gain and allowable capital loss
+For the purposes of this Act,
+. . .
+(c) a taxpayer’s allowable business investment loss for a taxation year from the disposition of any property is 1/2 of the taxpayer’s business investment loss for the year from the disposition of that property.
+SECTION 39: Meaning of capital gain and capital loss
+(1) For the purposes of this Act,
+. . .
+(c) a taxpayer’s business investment loss for a taxation year from the disposition of any property is the amount, if any, by which the taxpayer’s capital loss for the year from a disposition after 1977
+(i) to which subsection 50(1) applies, or
+(ii) to a person with whom the taxpayer was dealing at arm’s length
+of any property that is
+(iii) a share of the capital stock of a small business corporation, or
+(iv) a debt owing to the taxpayer by a Canadian-controlled private corporation (other than, where the taxpayer is a corporation, a debt owing to it by a corporation with which it does not deal at arm’s length) that is
+(A) a small business corporation,
+(B) a bankrupt (within the meaning assigned by subsection 128(3)) that was a small business corporation at the time it last became a bankrupt, or
+(C) a corporation referred to in section 6 of the Winding-up Act that was insolvent (within the meaning of that Act) and was a small business corporation at the time a winding-up order under that Act was made in respect of the corporation,
+SECTION 40: General rules
+(2) Limitations. Notwithstanding subsection (1):
+. . .
+(g) a taxpayer’s loss, if any, from the disposition of a property, to the extent that it is
+. . .
+(ii) a loss from the disposition of a debt or other right to receive an amount, unless the debt or right, as the case may be, was acquired by the taxpayer for the purpose of gaining or producing income from a business or property (other than exempt income) or as consideration for the disposition of capital property to a person with whom the taxpayer was dealing at arm’s length,
+SECTION 50: Debts established to be bad debts and shares of bankrupt corporation
+50. (1) For the purposes of this subdivision, where
+(a) a debt owing to a taxpayer at the end of a taxation year (other than a debt owing to the taxpayer in respect of the disposition of personal-use property) is established by the taxpayer to have become a bad debt in the year, or
+(b) a share (other than a share received by a taxpayer as consideration in respect of the disposition of personal-use property) of the capital stock of a corporation is owned by the taxpayer at the end of a taxation year and
+(i) the corporation has during the year become a bankrupt (within the meaning of subsection 128(3)),
+(ii) the corporation is a corporation referred to in section 6 of the Winding-up Act that is insolvent (within the meaning of that Act) and in respect of which a winding-up order under that Act has been made in the year, or
+(iii) at the end of the year,
+(A) the corporation is insolvent,
+(B) neither the corporation nor a corporation controlled by it carries on business,
+(C) the fair market value of the share is nil, and
+(D) it is reasonable to expect that the corporation will be dissolved or wound up and will not commence to carry on business
+and the taxpayer elects in the taxpayer’s return of income for the year to have this subsection apply in respect of the debt or the share, as the case may be, the taxpayer shall be deemed to have disposed of the debt or the share, as the case may be, at the end of the year for proceeds equal to nil and to have reacquired it immediately after the end of the year at a cost equal to nil.
+[31] To deduct a BIL under sections 38 and 39 of the Act, the appellant must show that he suffered a capital loss from the disposition of property. Under section 50 of the Act, a taxpayer is deemed to have disposed of a debt that is owing to that taxpayer at the end of the year for proceeds equal to nil if that debt is established by the taxpayer to have become a bad debt in the year. For section 50 to apply, the debt had to exist at the end of the taxpayer’s taxation year, in this case, December 31, 2008.
+[32] To determine whether the company’s debt to the appellant still existed on December 31, 2008, the Court must decide when the company was released from its obligation to repay the advances made by the appellant following the proposal in bankruptcy.
+[33] The BIA is silent as to when a debtor is released from his or her obligations where a proposal in bankruptcy has been accepted by the creditors. There are two opposing theories on this point.
+[34] In bankruptcies, the BIA is clear: the bankrupt debtor is released once the discharge order has been made. As the bankruptcy provisions of the BIA are to supplement, by analogy, the provisions relating to proposals in bankruptcy, some authors argue that the time of the partial discharge of a debt and partial release of the debtor under a BIA proposal is the time of the trustee’s discharge order or the time the trustee issues a certificate that the proposal has been fully performed. This theory was accepted by the Federal Court of Appeal in Rita Congiu and 9100-7146 Québec Inc. v. The Queen, 2014 FCA 73, where the Court cited the following excerpt from the decision of the Court of Appeal of Québec dated February 7, 2014, in Rita Congiu c. L'Agence du Revenu du Québec, 2014 QCCA 242 :
+[translation]
+[42] The proposal in bankruptcy of [Canada inc.] may have had the effect of deferring the date on which [Canada inc.’s] debt became due, but it has not eliminated the debt. . . .
+[35] The other prevailing theory is that the date of the debtor’s partial release and that of the partial discharge of the initial debt under a BIA proposal is the date a court ratifies the proposal after it has been accepted by the creditors. This theory is based on, among other things, the remarks of Jacques Deslauriers in “La faillite et l'insolvabilité au Québec,” Montréal: Wilson & Lafleur, 2004, at page 132, in which he argues that the date a debt is settled under a proposal in bankruptcy is not the date the court orders the discharge of the trustee:
+[translation]
+(ii) Discharge of the debtor’s debts
+The proposal can release the debtor from his or her debts. A proposal stipulating the payment of a certain percentage of the debts (e.g., 30%) will discharge the debtor for the balance if the proposal is accepted (subsection 62(2) BIA). . . .
+[36] In their work entitled “Bankruptcy and Insolvency Law of Canada,” 3rd ed. (revised), Vol. 2, Toronto: Carswell, at page 2-166, L.W. Houlden and G.B. Morawetz take a view similar to that of the author Deslauriers:
+When a proposal is accepted by creditors and approved by the court, the debtor receives the same relief as he or she would receive from a discharge from bankruptcy, i.e., a release of all debts and liabilities to unsecured creditors, except those listed in s. 178 . . . .
+[37] In Réal Martel v. Her Majesty the Queen, 2010 TCC 634, Justice Boyle considered both theories and chose to adopt the opinions of Houlden and Morawetz and of Deslauriers, relying on the decision rendered in Anderson v. Canadian Imperial Bank of Commerce (1999), 11 C.B.R. (4th) 157, by the Ontario Court of Justice, which has jurisdiction to apply the BIA in that province.
+[38] Whatever the outcome of the analysis of these two theories, the Court must also consider two other factors: the appellant’s waiver of all liquidation dividends in respect of the advances he made to the company, and the company’s write-off of the $253,985 debt and the recognition of a gain on settlement of a debt in its financial statements for the taxation year ending October 31, 2008.
+[39] As the trustee indicated in the proposal, the waiver of the liquidation dividend stemming from the debt owing to the appellant resulted in the debt being written off under the terms of the proposal in bankruptcy themselves and ceasing to exist. The appellant thus disposed of the debt owing to him for tax purposes. If not for this waiver, the creditors would not have accepted the proposal.
+[40] The recognition of a gain on settlement of a debt by the company is the logical consequence of the extinction or cancellation of the debt owing to the appellant. At the end of the 2008 taxation year, the company did not owe a debt to the appellant.
+[41] As the appellant’s claim no longer existed on December 31, 2008, section 50 of the Act cannot apply, and the appellant is not entitled to a BIL.
+[42] Regarding the carrying costs, I am of the opinion that the Minister was justified in disallowing the appellant’s deduction of the amounts claimed in the 2008, 2009 and 2010 taxation years because the company’s debt to him ceased to exist as a result of the liquidation dividend provided for under the proposal in bankruptcy. The interest paid by the appellant was therefore not on borrowed money used for the purpose of earning income from a property, as required by paragraph 20(1)(c) of the Act.
+[43] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 14th day of November 2014.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 24th day of December 2014
+Michael Palles, Translator
+CITATION:
+2014 TCC 336
+COURT FILE NO.:
+2014-326(IT)I
+STYLE OF CAUSE:
+Jacques St-Hilaire and Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+June 25, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+November 14, 2014
+APPEARANCES:
+For the appellant:
+Sylvie Alarie
+Counsel for the respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

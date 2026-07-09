@@ -1,0 +1,118 @@
+Title: The Estate of the Late Aline Miner c/o Dale Miner v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26661/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-599-26661-the-estate-of-the-late-aline-miner-c-o-dale-miner-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-10-03
+
+# The Estate of the Late Aline Miner c/o Dale Miner v. The Queen
+
+- Citation: 2003 CCI 599
+- Decision date: 2003-10-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3603, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+The Estate of the Late Aline Miner c/o Dale Miner v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-03
+Référence neutre
+2003 CCI 599
+Numéro de dossier
+2003-698(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-698(IT)I
+ENTRE :
+LA SUCCESSION DE FEUE ALINE MINER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 25 août 2003 à Timmins (Ontario)
+Devant : L'honorable juge J. M. Woods
+Comparutions
+Représentant de l'appelante :
+Dale Miner
+Avocate de l'intimée :
+Me Jennifer Neill
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté.
+Signé à Ottawa, Canada, ce 3e jour d'octobre 2003.
+« J. M. Woods »
+Juge J. M. Woods
+Traduction certifiée conforme
+ce 10e jour de février 2004.
+Liette Girard, traductrice
+Référence : 2003CCI599
+Date : 20031003
+Dossier : 2003-698(IT)I
+ENTRE :
+LA SUCCESSION DE FEUE ALINE MINER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] Il s'agit d'un appel interjeté par la succession d'Aline Miner à l'encontre de la cotisation d'impôt sur le revenu pour l'année d'imposition 2001 de Mme Miner. La cotisation porte sur l'impôt de la partie 1.2, un impôt spécial qui vise la récupération[1] des prestations de Sécurité de la Vieillesse. La succession était représentée par M. Dale Miner, l'exécuteur testamentaire de la succession et fils de Mme Miner.
+[2] L'appel a été entendu en vertu de la procédure informelle de la Cour.
+Faits
+[3] Le père de Dale Miner était un mineur de Timmins, en Ontario, qui est décédé en 1992. Avant de mourir, M. Miner, père, recevait des prestations de la Commission de la sécurité professionnelle et de l'assurance contre les accidents du travail de l'Ontario parce qu'il était atteint de silicose, une maladie pulmonaire fréquente chez les chercheurs d'or. La mère de Dale Miner, Aline Miner, a demandé des prestations de survivant après le décès de son époux au motif que le décès de ce dernier avait été provoqué par la silicose. Des demandes ont été présentées en 1992 et en 1996, et elles ont été rejetées. La demande de Mme Miner a finalement été accueillie par le Tribunal d'appel de la sécurité professionnelle et de l'assurance contre les accidents du travail.
+[4] En 2001, à la suite de la demande, un montant a été adjugé à Mme Miner en compensation des prestations rétroactivement au décès de son époux survenu en 1992. Le montant adjugé qui a été inclus dans le calcul du revenu de Mme Miner pour les besoins de l'impôt sur le revenu était de 135 232 $, mais ce montant était en réalité beaucoup plus élevé. Également en 2001, Mme Miner a reçu un montant de 5 232 $ à titre de prestations de Sécurité de la Vieillesse.
+[5] Dans le cadre d'une nouvelle cotisation établie pour l'année d'imposition 2001, le ministre du Revenu national (le « ministre » ) a inclus l'impôt de 5 232 $ en vertu de la partie 1.2 de la Loi de l'impôt sur le revenu, L.R.C. 1985 (5e suppl.), ch. 1 (la « Loi » ). L'impôt de la partie 1.2 a pour effet de permettre la récupération des prestations de Sécurité de la Vieillesse si le revenu d'un contribuable dépasse un certain niveau. La nouvelle cotisation prévoyait la récupération de toutes les prestations de Sécurité de la Vieillesse versées à Mme Miner en 2001, soit 5 232 $, au motif que son revenu pour cette année-là dépassait le niveau maximum de 55 309 $.
+[6] Mme Miner est décédée quelques jours après que la nouvelle cotisation a été émise, et sa succession a interjeté appel.
+Question
+[7] La question est celle de savoir si l'impôt de la partie 1.2 s'applique lorsqu'un montant est reçu au cours d'une année en conséquence d'un montant adjugé rétroactivement par un tribunal[2].
+Dispositions législatives
+[8] L'alinéa 56(1)v) de la partie I de la Loi prévoit ce qui suit :
+56(1) Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition : [...]
+v) Indemnité d'accident du travail - une indemnité reçue en vertu d'une loi sur les accidents du travail du Canada ou d'une province à l'égard d'une blessure, d'une invalidité ou d'un décès;
+Le paragraphe 180.2(2) de la partie 1.2 de la Loi prévoit ce qui suit :
+180.2(2) Impôt payable. Tout particulier doit payer, en vertu de la présente partie pour chaque année d'imposition, un impôt égal au résultat du calcul suivant :
+A(1 - B)
+où
+A
+représente le moins élevé des montants suivants :
+a) l'excédent éventuel du total visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
+(i) le total des montants représentant chacun le montant, inclus dans le calcul de son revenu pour l'année en vertu de la partie I, d'une pension, d'un supplément ou d'une allocation à l'époux ou conjoint de fait prévu par la Loi sur la sécurité de la vieillesse,
+(ii) le montant d'une déduction permise en vertu du sous-alinéa 60n)(i) dans le calcul du revenu du particulier en vertu de la partie I pour l'année,
+b) le montant correspondant à 15 % de l'excédent éventuel de son revenu modifié pour l'année sur 50 000 $;
+B le taux de l'impôt payable par lui en vertu de la partie XIII sur les montants visés à l'alinéa a) de l'élément A.
+Observations des parties
+[9] L'essentiel des observations de M. Miner est que la récupération appliquée dans ces circonstances est injuste. Si le décès du père de M. Miner était attribuable à la silicose, Mme Miner avait droit aux prestations de survivant de 1 200 $ par mois depuis 1992. Si ces montants avaient été versés tous les mois comme l'exige la loi, il n'y aurait pas eu récupération des prestations de Sécurité de la Vieillesse en vertu du paragraphe 180.2(2) parce que le revenu de Mme Miner en 2001 n'aurait pas dépassé le montant maximum.
+[10] L'avocate de la Couronne compatit à la cause de M. Miner, mais elle soutient que la récupération est clairement prévue par la loi. L'avocate a cité deux décisions de la Cour de l'impôt qui appuient cette position, les affaires Poulin c. La Reine[3] et Bongiovanni c. R.[4].
+[11] L'avocate a également soutenu que le principe d'irrecevabilité ne devrait pas s'appliquer et a fait mention des principes établis par la Cour suprême du Canada dans l'affaire Canadian Superior Oil Ltd. c. Paddon-Hughes Development Co.[5]et par le juge Bowman (tel était alors son titre) dans l'affaire Goldstein c. La Reine[6].
+Analyse
+[12] Plusieurs affaires portant sur des faits semblables ont été entendues par la Cour de l'impôt, la plus récente étant Franklin v. The Queen[7]. Essentiellement, ce que l'on cherche est un recours contre ce qui semble un résultat sévère. Les conclusions formulées lors des affaires prévoyaient constamment que le montant adjugé rétroactif soit inclus dans le calcul du revenu pour l'année de sa réception et que les prestations de Sécurité de la Vieillesse soient récupérées en vertu de la partie 1.2. Je souscris au raisonnement de ces affaires. La loi précise clairement que les prestations de Sécurité de la Vieillesse sont récupérées en vertu de la partie 1.2 même si la raison pour laquelle une partie du revenu dépasse le montant maximum découle du montant adjugé rétroactivement par un tribunal.
+[13] Pour ce qui est du principe d'irrecevabilité, le juge Martland a établi les facteurs ouvrant la porte à une fin de non-recevoir dans l'arrêt Canadian Superior Oil de la façon suivante :
+a) Une affirmation, ou une conduite y équivalant, qui a pour but d'inciter la personne à qui elle est faite à adopter une certaine ligne de conduite.
+b) Une action ou une omission résultant de l'affirmation, en paroles ou en actes, de la part de la personne à qui l'affirmation est faite.
+c) Un préjudice causé à cette personne en conséquence de cette action ou omission.
+[14] Je souscris à l'observation de l'avocate de la Couronne selon laquelle ces facteurs ne s'appliquent pas en l'espèce. Il semble que le rejet de la demande de Mme Miner par le Tribunal d'appel de la sécurité professionnelle et de l'assurance contre les accidents du travail de l'Ontario ait été une erreur. Si l'erreur n'avait pas été commise, l'impôt en vertu de la partie 1.2 ne se serait pas appliqué. Cependant, l'erreur n'a pas incité Mme Miner à prendre action à son détriment. En conséquence, les circonstances ne justifient pas le recours fondé sur l'irrecevabilité.
+[15] Malgré le fait que le résultat puisse sembler sévère, l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 3e jour d'octobre 2003.
+« J. M. Woods »
+Juge J. M. Woods
+Traduction certifiée conforme
+ce 10e jour de février 2004.
+Liette Girard, traductrice
+[1] L'expression « récupération » a évolué et décrit le régime législatif qui refuse en fait les prestations de Sécurité de la Vieillesse lorsque le revenu d'un contribuable dépasse un montant maximal mentionné. La récupération est effectuée par la perception d'un impôt spécial égal aux prestations de Sécurité de la Vieillesse reçues.
+[2] Le montant adjugé lui-même n'est pas imposé en vertu de la partie I de la Loi. Même si le montant adjugé est inclus dans le calcul du revenu en vertu de l'alinéa 56(1)v), un montant équivalent est déductible en vertu du sous-alinéa 110(1)f)(ii).
+[3] C.C.I., no 97-927(IT)I, 19 janvier 1998 ([1998] 3 C.T.C. 2820).
+[4] C.C.I., no 1999-3031(IT)I, 24 octobre 2000 ([2001] 1 C.T.C. 2186).
+[5] [1970] R.C.S. 932.
+[6] C.C.I., no 94-840(IT)I, 1er mars 1995 (96 DTC 1029).
+[7] 2003 TCC 598.

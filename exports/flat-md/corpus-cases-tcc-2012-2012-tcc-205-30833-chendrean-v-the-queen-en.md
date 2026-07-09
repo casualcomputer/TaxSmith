@@ -1,0 +1,142 @@
+---
+title: "Chendrean v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30833/index.do"
+last_modified: "2012-06-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 205"
+citation2: ""
+neutral_citation: "2012 TCC 205"
+decision_date: "2012-06-08"
+language: "en"
+item_id: "30833"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7392
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:21:34.689000+00:00"
+cases_cited_count: 3
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "725c4353b6591ac93d82defedce6e0b80440e3cd8982fd827c391ce6ffe189e1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chendrean v. The Queen
+
+- Citation: 2012 TCC 205
+- Decision date: 2012-06-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7392, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chendrean v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-06-08
+Neutral citation
+2012 TCC 205
+File numbers
+2011-2697(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-2697(IT)I
+BETWEEN:
+RADU MICHAEL CHENDREAN,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 1, 2012, at Toronto, Ontario.
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stephen Oakey
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act in respect of the 2008 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of June 2012.
+"François Angers"
+Angers J.
+Citation: 2012 TCC 205
+Date: 20120608
+Docket: 2011-2697(IT)I
+BETWEEN:
+RADU MICHAEL CHENDREAN,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal by Radu Michael Chendrean in respect of an assessment under the Income Tax Act (the "Act") for the 2008 taxation year. In issue is a penalty that the Minister of National Revenue (the "Minister") imposed for failure by the appellant to report income for more than one taxation year pursuant to subsection 163(1) of the Act. The appellant was also assessed a similar penalty under section 19(1) of the Ontario Act but this court has no jurisdiction to grant the relief sought by the appellant in respect of a penalty.imposed by provincial authorities.
+[2] Subsection 163(1) of the Act imposes a penalty on a taxpayer who repeatedly fails to report income. It reads :
+Every person who
+(a) fails to report an amount required to be included in computing the person's income in a return filed under section 150 for a taxation year, and
+(b) had failed to report an amount required to be so included in any return filed under section 150 for any of the three preceding taxation years
+is liable to a penalty equal to 10% of the amount described in paragraph (a), except where the person is liable to a penalty under subsection (2) in respect of that amount.
+[3] The penalty under subsection 163(1) of the Act is one of strict liability. Subsection 163(3) of the Act provides that the onus is on the Minister to substantiate the penalty. Once it is substantiated, the onus is on the taxpayer to establish that he has exercised "due diligence" in reporting his income to avoid the penalty.
+[4] The defence of due diligence was described as follows by Justice Létourneau of the Federal Court of Appeal in Les Résidences Majeau Inc. v. Canada, 2010 FCA 28:
+8 According to Corporation de l'école polytechnique v. Canada, 2004 FCA 127, a defendant may rely on a defence of due diligence if either of the following can be established: that the defendant made a reasonable mistake of fact, or that the defendant took reasonable precautions to avoid the event leading to imposition of the penalty.
+9 A reasonable mistake of fact requires a twofold test: subjective and objective. The subjective test is met if the defendant establishes that he or she was mistaken as to a factual situation which, if it had existed, would have made his or her act or omission innocent. In addition, for this aspect of the defence to be effective, the mistake must be reasonable, i.e. a mistake a reasonable person in the same circumstances would have made. This is the objective test.
+10 As already stated, the second aspect of the defence requires that all reasonable precautions or measures be taken to avoid the event leading to imposition of the penalty.
+[5] In computing his income for the 2008 taxation year, the appellant reported employment income from Rogers Communications Inc. (Rogers) based on one T4 information slip in the amount of $20,925.10. He failed to report the amount from a second T4 information slip issued by Rogers in the amount of $13,817. He was later reassessed by the Minister to include the unreported income and the assessed penalty of $1,381.60.
+[6] The appellant does not dispute that he has failed to report employment income of $11,055 in computing his income for the 2006 taxation year. During that year, he worked for Compucom Canada Co. (Compucom) but was paid for the most part of the year by an employment agency known as B Wyze (Toronto) Inc. (B. Wyze). He did receive employment income of $1,276 from Compucom and $12,732 and $11,056 from B. Wyze. The amount of $11,056 was not reported by the appellant on his 2006 tax return. His total income for the year was $25,964 of which 44% was therefore not reported.
+[7] The appellant immigrated to Canada from Romania in November 2005 and was not familiar with the Canadian tax system. He admits he did not take the time to educate himself on the tax system. In addition to working full time, he was a part-time and full-time student and stated that, in the year 2006, he was on a survival mode. He has not seen much of the money he has earned and has failed to monitor his bank account. He gave the documents in his possession for his tax return to his mother, who submitted them to another person who prepared it. He signed the return without reviewing it. He acknowledged he was later reassessed for his 2006 taxation year but does not recall having read the notice of reassessment.
+[8] In 2008, he was employed by Rogers on a part-time and subsequently full-time basis but, in both situations, he was working an average 40 hours a week and earning an average of about $1,000 net on a bi-weekly basis. He says he received only one T4 from Rogers showing employment income of $20,295. It did not occur to him that there could be two T4's. At that time, he had become more familiar with the tax system and understood he had to report all the amounts. He used a tax return software and filed his return electronically. It was only upon being reassessed for his 2008 taxation year that he became aware that a second T4 from Rogers had been issued in the amount of $13,817 for a total employment income of $34,742.
+[9] It would appear, from the evidence heard at trial, that the only plausible explanation for Rogers to issue two T4's relates to the employment status of the appellant from part-time to full-time employment. No other reasons can be discerned from the evidence.
+[10] It has been established in decisions of this Court that an appellant cannot invoke the fact that income tax was deducted at the source in order to avoid the penalty imposed under subsection 163(1) of the Act. (See Symonds v. Canada, [2011] T.C.J. No. 209). An appellant cannot avoid the imposition of the penalty, unless he shows that the requirements of the due diligence defence have been satisfied.
+[11] The respondent has raised the issue of whether the defence of due diligence is available with respect to both failures to report income such that if established for either year, it will nullify the penalty. In two recent cases, namely, Franck v. The Queen, 2011 TCC 179 and Symonds (supra), this Court has held that the defence of due diligence is available with respect to either the first failure or the second failure to include an amount of income. Justice Webb summarized it as follows in paragraphs 22 and 23 of the Symonds' case.
+. . . However, it seems to me that since the penalty can only be imposed if a particular taxpayer fails to include an amount in income in two different years, the "prohibited act" consists of two failures - one is the failure to include an amount in income in one year and the second is the failure to include an amount in income in another year that is within three years following the first failure.
+Therefore if a taxpayer, as stated by Justice Hogan, can establish that he or she (or in the case of a corporation, it) exercised due diligence in relation to either the first failure to include an amount in income or the second failure to include an amount in income, then that taxpayer will be successful in relation to the assessment of a penalty under subsection 163(1) of the Act. Even though the calculation of the amount of the penalty is only based on the second amount that the person failed to include in computing income, in order for the penalty to be imposed the person must have failed to include amounts in computing income in two different years and the two failures to include amounts in computing income would be part of the "prohibited act". In this case the Appellant will be successful if she can establish that she exercised due diligence in relation to either her failure to include $872 in her income for 2006 or her failure to include $28,611 in her income for 2008.
+[12] In other cases decided by this Court, the issue had not been raised as such and the defence of due diligence was analysed in relation to the second failure to include an amount of income which is the failure that triggers the penalty in subsection 163(1) of the Act.
+[13] The defence of due diligence cannot be used to erase or eliminate either failures per se. It only permits a taxpayer to avoid the imposition of the penalty. In my opinion, the defence is available only after it has been established by the respondent that the taxpayer has a propensity to fail to report an amount by the existence of a first failure. The defence then becomes available on the second failure after it has been established since it is that second failure that gives use to the imposition of the penalty which is calculated on the amount of that second failure.
+[14] In terms of the penalty, one must remember as Woods J. stated in Saunders v. Her Majesty the Queen, 2006 D.T.C. 2267:
+Parliament has enacted subsection 163(1) to ensure the integrity of Canada's self-reporting system. In my view, a Court should not lightly vacate the penalty provided for in the legislation.
+[15] In the present case, it was shown and admitted by the appellant that he failed to report 44% of his income in his 2006 taxation year. He did testify as to the circumstances surrounding the filing of his tax return in that he gave the documents to his mother who in turn had someone prepare the return. The appellant simply signed the return. He also testified that he did not educate himself on the Canadian tax system, did not monitor his bank account and did not read his 2006 notice of assessment. It seems clear in such circumstances that the appellant made no attempts to understand how the Canadian tax system works and therefore did not exercise in any event due diligence on his first failure.
+[16] In 2008, he did the same thing and failed to report approximately 40% of his income, namely an amount of $13,817. He testified that he was now more familiar with the tax system in Canada and that he understood that he had to report all amounts of income. He did say that it was uncommon for an employee to received two T4's from the same employer and therefore only reported the one he had received believing it was the only T4 he was issued. He was mistaken in the belief that only one was issued when, in fact, there were two. Even if this were an acceptable mistake on his part, I cannot ignore the fact that, during his 2008 taxation year, he received a bi-weekly salary of approximately $1,000 after source deductions for a total of $26,000 for the year. That amount exceeds by approximately $5,000 the amount of income he reported on his 2008 tax return. In my opinion, a reasonable person in such circumstances and with the knowledge of one's obligation to report all income, would have realized that not all his income was included in his tax return. The appellant has therefore failed to establish that he exercised due diligence. I therefore cannot vacate the penalty.
+[17] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 8th day of June 2012.
+"François Angers"
+Angers J.
+CITATION: 2-12 TCC 205
+COURT FILE NO.: 2011-2697(IT)I
+STYLE OF CAUSE: Radu Michael Chendrean and Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 1, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: June 8, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stephen Oakey
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

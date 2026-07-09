@@ -1,0 +1,362 @@
+Title: Boisvert c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/180336/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-195-180336-boisvert-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-09-15
+
+# Boisvert c. La Reine
+
+- Citation: 2016 CCI 195
+- Decision date: 2016-09-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2885, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boisvert c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-09-15
+Référence neutre
+2016 CCI 195
+Numéro de dossier
+2013-999(GST)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2013-999(GST)G
+ENTRE :
+LUC BOISVERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 27 août 2014 et continué
+les 14 et 15 décembre 2015 à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelant :
+Me Marc Laporte
+Avocat de l'intimée :
+Me Jean Duval
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel à l’encontre de la cotisation établie en vertu de la Partie IX de la Loi sur la taxe d’accise par le ministre du Revenu du Québec, en tant que mandataire du ministre du Revenu national, (le « ministre ») dont l’avis est daté du 29 février 2012, pour la période du 1er avril 2007 au 31 décembre 2008, est accueilli et la cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation sur la base que la moyenne des ventes brutes par récolte était de 38 968 $ et que, par conséquent, les revenus bruts d’entreprise étaient de 155 872 $ plutôt que de 166 916,67 $ en 2008 et de 233 908 $ plutôt que de 250 375 $ en 2007, de sorte que la TPS non perçue par l’appelant en 2008 soit de 7 793,60 $ et de 12 234,48 $ en 2007.
+Les pénalités pour non‑production de déclarations de taxes sont maintenues mais doivent être ajustées pour tenir compte de l’ajustement aux montants de TPS non perçus.
+Signé à Ottawa, Canada ce 15e jour de septembre 2016.
+« Réal Favreau »
+Juge Favreau
+Référence : 2016 CCI 195
+Date : 20160915
+Dossier : 2013-999(GST)G
+ENTRE :
+LUC BOISVERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Monsieur Luc Boisvert a interjeté appel devant cette Cour à l’encontre de la cotisation datée du 29 février 2012 établie par le ministre du Revenu du Québec, en tant que mandataire du ministre du Revenu national (le « ministre »), en vertu de la Partie IX de la Loi sur la taxe d’accise, L.R.C. (1985), chapitre E‑15, telle que modifiée (la « LTA ») pour la période du 1er avril 2007 au 31 décembre 2008 (la « période visée »).
+[2] En vertu de la cotisation du 29 février 2012, les montants suivants furent cotisés :
+2007
+2008
+Rajustements apportés au calcul de la taxe nette déclarée
+13 222,50 $
+8 345,83 $
+Intérêt sur arriérés
+3 192,82 $
+1 371,36 $
+Intérêt sur acomptes provisionnels
+341,33 $
+Pénalité pour défaut de produire
+528,89 $
+333,82 $
+Total (montant dû)
+16 944,21 $
+10 392,34 $
+[3] Les montants des rajustements apportés au calcul de la taxe nette déclarée respectivement de 13 222,50 $ et de 8 345,83 $, constituent des montants de taxe sur les produits et services (« TPS ») non perçus ou percevables sur les revenus d’entreprise non déclarés de l’appelant.
+[4] En établissant ladite cotisation, le ministre s’est fondé, entre autres, sur les conclusions et les hypothèses de faits suivantes, énoncées au paragraphe 18 de la Réponse à l’avis d’appel :
+a) les faits admis ci-dessus;
+b) Pour la période visée, l’appelant était un « inscrit » aux fins de la Partie IX de la LTA;
+c) l’appelant exerçait une activité commerciale liée à la fourniture de biens ou de services taxables, les fournitures de stupéfiants constituant des fournitures taxables;
+d) l’appelant a omis de déclarer et d’inclure ses revenus d’entreprise et il a ainsi omis d’inclure dans le calcul de sa taxe nette ses ventes taxables non déclarées;
+e) tel qu’il appert plus amplement des motifs et des montants indiqués à l’extrait du rapport de vérification, intitulé « Annexe A », joint à la présente réponse comme si ledit extrait était repris au présent paragraphe, la vérification fiscale de l’appelant fut effectuée suite aux renseignements obtenus des autorités policières par l’intimée à l’effet que l’appelant était impliqué dans l’exploitation d’une serre de cannabis, à St‑Roch, Québec;
+f) notamment, la perquisition effectuée le 13 août 2008 et l’enquête policière révélèrent :
+i) la présence d’une serre de cannabis dans le hangar de l’entreprise de l’appelant dans laquelle se trouvaient, selon la Sûreté du Québec, un minimum de 1650 plants;
+ii) l’existence de documents comptables reliés à la serre, découverts dans la résidence de l’appelant et dans le bureau de l’entreprise;
+iii) la saisie d’un montant de 10 100 $ trouvé avec les documents de la serre de cannabis dans un tiroir du bureau de l’entreprise;
+iv) la saisie de sept (7) carabines mal entreposées dans la résidence de l’appelant;
+v) la saisie de dix-huit (18) véhicules, pièces ou moteurs sur le terrain de l’appelant qui avaient été rapportés volés ou dont le numéro d’identification avait été altéré;
+g) suite à ladite perquisition, l’appelant fut arrêté et des accusations, notamment, de production de marijuana dans le but d’en faire le trafic furent portées contre lui;
+h) subséquemment, lesdites accusations furent retirées suite à une entente avec la Couronne en vertu de laquelle, en contrepartie, le montant de 10 100 $ et les véhicules dont le numéro d’identification avait été modifié furent confisqués;
+i) sur la base des photographies de perquisition et la comptabilité de la serre, un rapport d’expertise fut produit par la sergente Suzanne De Larochelière, de la Sûreté du Québec, établissant les revenus et les cotisations pour la période visée comme suit :
+2008
+2007
+Total
+Revenus bruts d’entreprise
+166 916,67 $
+250 375,00 $
+417 291,67 $
+(Statut de petit fournisseur)
+(0,00 $)
+(30 000,00 $)
+(30 000,00 $)
+Revenus bruts d’entreprise
+assujettis à la TPS
+166 916,67 $
+220 375,00 $
+387 291,67 $
+TPS non perçue
+8 345,83 $
+13 222,50 $
+21 568,33 $
+Pénalité pour défaut de produire
+333,82 $
+528,89 $
+862,71 $
+j) le trafic de stupéfiants qu’exerçait l’appelant constituait une « entreprise » au sens de la loi et cette « entreprise » donnait lieu à des transactions taxables;
+k) le montant de TPS que l’appelant était tenu de percevoir et remettre au Ministre pendant la période visée était de 6% en 2007, soit un montant de 13 222,50 $, et de 5% en 2008, soit un montant de 8 345,83 $;
+l) l’appelant n’a par conséquent, pas déclaré, dans le calcul de sa taxe nette, pendant la période visée, lesdits montants de 13 222,50 $ et 8 345,83 $, à titre de TPS perçue ou percevable;
+m) l’appelant est donc redevable au Ministre du montant des ajustements apportés à sa taxe nette déclarée pour la période visée, plus les intérêts et la pénalité;
+Témoignage de l’appelant [5] L’appelant est administrateur, président et actionnaire majoritaire de la société 9193‑2723 Québec Inc., faisant affaires sous la raison sociale « St‑Roch Sports », dont l’activité commerciale est l’achat et la vente de véhicules récréatifs, tels que des motoneiges, des quatre roues motrices, des motomarines et des bateaux de plaisance. La société 9193‑2723 Québec Inc. a été constituée le 26 février 2008 en vertu de la Partie IA de la Loi sur les compagnies du Québec.
+[6] Le salaire de l’appelant est d’environ 26 000 $ par année selon son témoignage et ses déclarations de revenus pour les années d’imposition 2000 à 2009.
+[7] Dans le cadre d’une enquête policière qui a débuté en 2006, une perquisition a été exécutée le 13 août 2008. Cette perquisition visait un hangar situé au 275, route 125, St‑Roch Ouest. De fait, ce hangar est situé sur le même terrain sur lequel est située la résidence où l’appelant habitait, soit au 765, rang Rivière Nord, St‑Roch Ouest. La résidence appartient à la mère de l’appelant.
+[8] Dans le hangar, une division a été aménagée. Il s’agissait d’une pièce fabriquée en contreplaqués. La perquisition a confirmé la présence d’une culture de cannabis dans cette pièce.
+[9] L’appelant a expliqué lors de son témoignage que cette division dans le hangar était louée depuis 2006. Le bail conclu entre St‑Roch Sports, représenté par l’appelant à titre de gérant, et madame Viviane Carpentier en date du 1er octobre 2006 a été déposé en preuve. Le bail avait une durée d’une année débutant le 1er octobre 2006 et se terminant le 30 septembre 2007. Selon les informations énoncées dans le bail, le but de la location était à des fins d’entreposage seulement. Le loyer était de 500 $ par mois, payable par chèque. Selon l’appelant, la locataire a signé des chèques postdatés en date du 15 de chaque mois que l’appelant a remplis devant elle. Le seul chèque mis en preuve est daté du 15 juillet 2008 et il était fait à l’ordre de St‑Roch Sports & Plaisance. Le chèque a été endossé pour dépôt dans le compte de la société 9065‑4344 Québec Inc. mais il a été retourné pour défaut de paiement et le compte de la société a été débité pour un montant de 505 $. La société 9065‑4344 Québec Inc. faisait affaires sous la raison sociale « St‑Roch Sports et Plaisance » et le père de l’appelant était administrateur, président‑secrétaire et l’actionnaire majoritaire de cette société. Le père de l’appelant est décédé au cours du mois de novembre 2007. Au 15 juillet 2008, la société 9065‑4344 Québec Inc. était toujours en opération et avait un compte de banque actif. Lors de son témoignage, l’appelant a indiqué que cette société lui appartenait.
+[10] L’appelant a expliqué à l’audience que Mme Carpentier lui a été présentée par l’intermédiaire d’un client dont il ne se rappellait pas le nom. Celle‑ci était seule lors des deux rencontres qu’elle a eues avec l’appelant. La seule pièce d’identité demandée par l’appelant lors de la signature du bail était son permis de conduire. L’appelant a ajouté qu’il avait rencontré Mme Carpentier une troisième fois lorsqu’il lui a vendu un véhicule usagé de marque Chevrolet Malibu pour la somme de 5 000 $ à 6 000 $ qu’elle a payée comptant.
+[11] Les comptes d’électricité pour le hangar étaient payés par l’appelant mais ce dernier a affirmé que le système avait été trafiqué par la locataire.
+[12] Selon le témoignage de l’appelant, le hangar disposait d’une porte coulissante à l’avant, d’une porte à droite et d’une porte d’entrée à gauche. La partie louée disposait d’une porte individuelle, étant celle de gauche. La partie du hangar dont l’appelant se servait pour son commerce lui permettait d’entreposer des pièces et des véhicules.
+[13] L’appelant a affirmé avoir effectué régulièrement des visites dans le hangar avec des clients. Il a spécifié qu’il n’avait accès au hangar que par la porte de droite et il ne détenait pas la clé pour la partie louée.
+[14] Des déclarations assermentées de la mère de l’appelant, Mme Claire St‑Germain, et de l’ex‑conjointe de celui‑ci, Mme Louise Patenaude, ont été mises en preuve et ont révélé que l’appelant était le seul à avoir accès au hangar et à l’utiliser.
+Témoignage de l’agent Frédéric Losier [15] Monsieur Fréderic Losier, policier de la Sûreté du Québec, a témoigné lors de l’audience et a expliqué le déroulement de l’enquête policière. Lors de la perquisition, les policiers ont constaté que le nettoyage avait été fait à l’intérieur de la pièce louée et que la presque totalité des pots de cannabis n’étaient plus à leur place, excepté quelques plants. Les lumières et le système de ventilation étaient encore en fonction.
+[16] M. Losier a expliqué que la pièce louée dans le hangar comportait quatre subdivisions sur deux étages.
+[17] Selon les photographies prises par M. Marc Lacombe, le technicien de la Sûreté du Québec responsable pour prendre des photographies lors de la perquisition, et selon le rapport de l’enquête, ces subdivisions comprenaient 58 lampes de 1000W suspendues au plafond, des ventilateurs, deux thermopompes, des ballasts électriques, quatre barils d’eau, des filtres à charbon et des plants de cannabis séchés. Il y avait sur place 29 plants de cannabis qui ont été saisis.
+[18] M. Losier a également témoigné sur les installations en lien avec la production de cannabis. Dans l’objectif d’évacuer l’air chaud et l’odeur provenant des plants de cannabis, des thermopompes, des équipements de climatisation et des compresseurs ont été installés dans la pièce. Les filtres à charbon ont été utilisés afin de purifier l’air et ainsi réduire les odeurs.
+[19] Un long conduit noir d’aération installé à partir de la pièce en question permettait d’expulser l’air vers l’extérieur. Ce conduit était visible de l’intérieur du hangar dans la partie qui n’avait pas été louée. Une thermopompe a également été installée dans la partie du hangar qui n’avait pas été louée. L’appelant a expliqué que le dôme n’était pas chauffé avant la location et qu’il a autorisé l’installation d’un système de chauffage.
+[20] Le policier Losier a témoigné qu’un deuxième mandat a été obtenu afin de saisir deux véhicules volés qui ont été localisés dans le hangar à l’aide des numéros de série. À cet égard, l’appelant a affirmé que les véhicules volés ne lui appartenaient pas et qu’ils avaient été entreposés à la demande de clients.
+[21] Deux autres mandats ont été obtenus afin de perquisitionner la résidence où l’appelant habitait ainsi que le commerce se trouvant sur le même terrain que le hangar. Le procureur de l’intimée a déposé des documents en liasse relatifs aux pièces à conviction.
+[22] Dans la résidence, sept armes à feu mal entreposées ont été saisies. L’appelant détenait un permis de possession et avait enregistré cinq armes. De plus, deux clés déverrouillant la porte de gauche du hangar, menant directement à la production du cannabis, ont été saisies dans la résidence alors que celui-ci avait affirmé ne pas avoir de clés pour cette porte.
+Témoignages d’autres policiers [23] M. Christian Lévesque, sergent-enquêteur de la Sûreté du Québec, et l’agent de police, M. Bruce Labrie, ont témoigné relativement aux pièces à conviction saisies lors de la perquisition. Dans la salle de bain de la résidence, des bouts de papier relatifs à la production de cannabis ont été trouvés dans un panier en osier.
+[24] Dans le commerce de l’appelant, la clé ouvrant le cadenas de la porte piétonne à droite du hangar a été trouvée dans un trousseau de clés accroché sur le babillard du hangar. De plus, dans le bureau principal, divers papiers avec des notes se rapportant au coût d’exploitation de la culture de cannabis ainsi qu’un montant de 10 100 $ en argent comptant se trouvant dans un tiroir du bureau ont été saisis. D’autres documents se rapportant à la culture du cannabis ont été trouvés à proximité du bureau, par exemple, dans la poubelle.
+Témoignage de l’expert de la Sûreté du Québec [25] Mme Suzanne De Larochellière, experte en drogues de la Sûreté du Québec, a témoigné lors de l’audience sur son rapport d’expertise. D’abord, elle a énoncé les principales étapes de production du cannabis. Ensuite, elle a fait part de son analyse des documents saisis dans le hangar et le commerce de l’appelant relatifs à la production de cannabis. Elle a établi que la période de croissance était d’une durée de quatre semaines et la période de floraison s’étalait sur huit semaines, pour un total de 12 semaines. Selon la division de la pièce en quatre salles, une salle était utilisée pour la croissance et les trois autres salles, pour la floraison.
+[26] Les traces laissées par les pots sur le plancher font état d’un grand nombre de plants qui y ont été cultivés. Mme De Larochellière a dénombré 112 plants de cannabis qui étaient cultivés dans l’une des salles.
+[27] Après observation des photographies et des documents de comptabilité mis en preuve, l’experte a constaté qu’un total de 1 650 plants de cannabis ont été acquis et cultivés. De plus, les documents relatifs aux coûts d’exploitation ont permis d’identifier sept récoltes. Les documents n’étaient pas datés mais Mme De Larochellière a constaté qu’une division en deux des coûts était une constante sur les documents, ce qui sous-entend un partage de la récolte. Il y avait, par ailleurs, des inscriptions quant aux coûts d’acquisition de boutures (bébés) et des frais associés à la culture.
+[28] Mme De Larochellière a effectué son rapport d’expertise selon les prix figurant sur les documents et non selon les prix du marché.
+[29] Selon les documents mis en preuve, les récoltes et les rendements de production sont les suivants :
+Quantité (livres)
+Prix/livre
+Prix total
+28 livres
+1 400 $
+39 200 $
+33 livres
+1 575 $
+51 975 $
+36 livres
+1 450 $
+52 200 $
+22 livres
+1 450 $
+31 900 $
+35 livres
+1 400 $
+49 000 $
+18 livres
+1 450 $
+26 100 $
+16 livres
+1 400 $
+22 400 $
+Total : 188 livres
+—
+272 775 $
+[30] Selon Mme De Larochellière, il n’est pas possible que l’appelant ait ignoré la présence de culture de cannabis en raison de l’odeur et des appareillages utilisés.
+[31] Selon Mme De Larochellière, le coût des matériaux ayant servi à la production était d’environ 50 000 $.
+Témoignage de la vérificatrice de Revenu Québec [32] Madame Marie‑Josée Caza, agente de recherche auprès de l’Agence du Revenu du Québec (« ARQ »), a effectué la vérification du présent dossier et a témoigné à l’audience sur son rapport de vérification et sur l’avis de cotisation.
+[33] Mme Caza a affirmé que l’appelant a refusé de répondre aux questions lors de la vérification. Elle a donc procédé à l’analyse du profil personnel de l’appelant ce qui a permis de déterminer que celui-ci possédait très peu d’actifs à son nom. En fait, les trois édifices situés au 275, route 125 et au 765 rang Rivière Nord à St-Roch Ouest appartenaient à la mère de l’appelant. L’appelant était propriétaire d’un véhicule acheté en 2006 et de trois remorques. Le 27 mai 2008, l’appelant a acheté un terrain situé dans la municipalité de Petite-Rivière-Saint‑François dans le comté de Charlevoix qui appartenait à son frère. La vente a été faite pour une somme de 9 346 $ en argent comptant alors que l’évaluation municipale était de 61 700 $.
+[34] Mme Caza a effectué la cotisation en se fondant sur le rapport d’enquête de la Sûreté du Québec et le rapport d’expertise de Mme De Larochellière. La période de cotisation est du 1er janvier 2007 au 31 décembre 2008. L’année d’imposition de 2007 est visée par la cotisation suite au résultat positif de l’enquête policière démontrant une production de cannabis ayant débuté en 2006. M. Losier a en effet témoigné lors de l’audience qu’un test à l’aide d’une image thermique avait été effectué par un agent de police de la Sûreté du Québec. Cette vérification avait déterminé une chaleur anormale provenant du hangar.
+[35] Afin d’établir le nombre de récoltes en 2007, la production a été déterminée selon une période de huit semaines. Le calcul des revenus provenant de la vente de marijuana a été fondé sur le rapport d’expertise de la Sûreté du Québec. Le prix d’acquisition de boutures a varié entre 5 $ à 8 $ l’unité. Le prix moyen de vente pour la quantité d’une livre était de 1 450 $ alors que le revenu brut moyen par récolte était de 41 729 $ et le revenu net était de 15 748 $. Mme Caza a déterminé que six récoltes ont eu lieu en 2007 et que quatre récoltes ont eu lieu en 2008, selon une période de floraison de huit semaines. En 2007, le profit net était de 94 489 $ et en 2008, il était de 62 993 $.
+[36] Les coûts de production n’ont pas été pris en compte vu l’absence de preuve et de factures, mais la cotisation tient compte des dépenses d’entreprise et de la quote‑part de 50% attribuable à une autre personne.
+Autres faits pertinents [37] L’appelant affirme que les papiers sur lesquels sont inscrits à la main des montants d’argent relatifs à des stupéfiants ne sont pas les siens et ne proviennent pas de son bureau. Pour ce qui est de l’argent trouvé dans son bureau, l’appelant a expliqué qu’il utilise de l’argent comptant dans l’exploitation de son commerce d’achat et de vente de véhicules récréatifs.
+[38] L’appelant a été arrêté sur place lors de la perquisition pour des accusations de production de cannabis et de recel de véhicules. Il possédait sur lui une somme de 1 182 $. Lors de son arrestation, l’appelant a affirmé que le local était loué, mais qu’il ne savait pas le nom du locataire. Suite à une entente, les accusations ont été retirées.
+[39] L’appelant a affirmé qu’il n’avait pas été en mesure de contacter Mme Carpentier, la signataire du bail. Cette dernière a été assignée par l’intimée par subpoena, mais elle a fait défaut de se présenter. Le procureur de l’intimée a déposé en preuve une déclaration écrite de Mme Carpentier par laquelle elle affirme qu’elle n’a jamais loué une partie du hangar et que ce n’est pas elle qui aurait signé le bail. Ce qui suit est un extrait de cette déclaration :
+Je n’ai jamais loué au 275, route 125 à St-Roch Ouest. Ce n’est pas moi qui ai signé le bail et ce n’est pas ma signature et je signe toujours avec deux « n ». Le chèque que les employés m’ont montré daté du 15 juillet 2008 au montant de 500 $ fait partie d’une série de chèques postdatés que j’avais faits pour un prêt automobile. Lorsque j’ai complété les chèques, j’ai laissé la partie « à l’ordre de et pour » en blanc. Le prêteur m’avait remis 5 000 $ comptant que je devais rembourser avec des chèques postdatés. Je crois que l’argent m’a été prêté en novembre ou en décembre 2007. Je ne connais pas le nom de famille du prêteur. Lors de la remise, il était grand costaud et châtain. Je n’ai jamais eu une compagnie import-export et je n’ai jamais loué de hangar pour l’entreposage de quoi que ce soit.
+[40] Pour sa part, l’appelant soutient qu’il n’était pas au courant de la culture de cannabis dans la partie louée. Selon son témoignage, la partie louée est complètement fermée et le plafond est isolé. Ainsi, ce n’était pas possible d’apercevoir des lumières le soir.
+Questions en litige [41] La question principale est de déterminer si l’appelant exploitait une entreprise provenant de la vente de stupéfiants, qui constitue des fournitures taxables pour lesquelles la TPS était payable.
+[42] Dans le cas où l’appelant a effectué des fournitures taxables relativement à la vente de cannabis, le ministre était-il justifié, dans les circonstances, d’utiliser une méthode de vérification alternative?
+Position des parties Position de l’appelant [43] L’appelant soutient que la vérification s’en remet exclusivement à l’enquête policière qui comprend des éléments de ouï-dire inadmissibles en preuve et que leur utilisation est susceptible de déconsidérer l’administration de la justice.
+[44] De plus, l’appelant soumet que le ministre n’a pas démontré l’existence d’une entreprise exploitée par l’appelant.
+[45] Subsidiairement, l’appelant soumet que les cotisations du ministre sont erronées étant donné qu’elles sont basées sur des documents non datés comprenant uniquement des estimations. De plus, aucune preuve ne permet d’établir qu’il y a eu production de cannabis pendant l’année d’imposition 2007. D’ailleurs, la cotisation ne tient pas compte de la valeur du matériel de production et des équipements qui sont estimés à un coût de 50 000 $.
+[46] Pour ce qui est du calcul des revenus, l’appelant conteste la période de production. Selon lui, il est erroné de calculer une production s’étalant uniquement sur huit semaines.
+[47] L’appelant cite l’arrêt NDIBU c. Agence de revenu du Québec, 2015 QCCQ 1022 de la Cour du Québec (« CQ »), dans lequel le contribuable contestait la validité des résultats de la vérification effectuée au moyen de la méthode arbitraire et estimative du « coût de vie ». Dans cette affaire, le juge Dortélus a pris en considération que les principales informations dont disposait la vérificatrice de Revenu Québec provenaient du rapport de police. Le tribunal a conclu que le contribuable avait présenté une preuve suffisante pour démolir prima facie la présomption de validité des cotisations. L’appelant soumet qu’il n’y a pas d’incompatibilité avec les faits en l’espèce.
+Position du ministre [48] Le ministre soutient que l’appelant exploitait une entreprise pendant la période en litige et que les fournitures effectuées dans le cadre de cette entreprise constituaient des fournitures taxables pour lesquelles la TPS était payable par les acquéreurs et que l’appelant avait l’obligation de percevoir et de remettre.
+[49] En raison des registres et livres comptables incomplets de l’appelant, le ministre soutient qu’il était justifié d’utiliser une méthode indirecte ou alternative de vérification afin de reconstituer le montant des fournitures taxables effectuées par l’appelant.
+[50] Le ministre soutient également qu’il était fondé d’imposer à l’appelant des intérêts et des pénalités prévus aux articles 280 et 280.1 de la LTA.
+[51] Le ministre soulève plusieurs contradictions relativement au bail. D’une part, Mme Carpentier a fait défaut de comparaître malgré la signification d’un subpoena. Une déclaration écrite a par ailleurs été rédigée et signée par celle‑ci à l’effet qu’elle n’aurait jamais loué une partie du hangar, ni signé de bail. D’autre part, l’appelant avait affirmé, lors de son arrestation, qu’il ne connaissait pas le nom du locataire. De plus, le bail n’a été soumis à l’ARQ que le 17 mai 2011 suite à l’émission du projet de cotisation. Le ministre a souligné que le bail a été signé avec deux crayons différents et qu’il y a une erreur dans le nom de la locataire.
+[52] L’aménagement de la salle de production de cannabis, l’odeur et la situation de celle-ci à même le hangar constitue une preuve plus que probante de la connaissance de l’appelant quant à l’existence de la culture de cannabis.
+[53] Les pièces à conviction, telles que l’argent comptant, la clé de la porte donnant accès à la partie louée du hangar ainsi que les documents saisis en relation avec la culture de cannabis, permettent de conclure que l’appelant savait qu’il y avait de la production de cannabis dans le hangar.
+[54] Le ministre soumet que les affirmations de l’appelant ne sont aucunement corroborées.
+[55] Pour ce qui est du fardeau de preuve, le ministre s’appuie sur la décision 9116-0762 Québec inc. (Belle-Or) c. Sa Majesté La Reine, 2010 CCI 116, paragraphe 9, qui énonce que le fardeau initial de démolir les présomptions formulées par le ministre incombe au contribuable.
+[56] De plus, le ministre réfère cette Cour à l’affaire Brown c. Canada, 2012 CCI 251, 2013 CAF 111, dans laquelle le contribuable a été accusé de trafic de drogues, mais n'a jamais été reconnu coupable de cet acte criminel. Dans la décision Brown en première instance, le juge Hogan a rappelé que la norme de la preuve est toujours celle de la prépondérance des probabilités et non celle de la preuve hors de tout doute raisonnable. De plus, le juge a ajouté qu’ « il est bien établi, dans les appels en matière d'impôt, que c'est le contribuable qui a le fardeau de réfuter une cotisation qui a été établie pendant la période normale de cotisation. » (par. 59).
+[57] Dans la décision Brown en appel, la Cour d’appel fédérale (« CAF ») a confirmé que les documents transmis par la police à l'Agence du revenu du Canada étaient admissibles en preuve étant donné que la perquisition et les saisies étaient légales.
+Droit applicable Activité commerciale [58] La question générale est de savoir si l’appelant, pour la période en litige, exploitait une entreprise provenant de la vente illégale de stupéfiants. La notion d’entreprise est définie à l’article 123 de la LTA :
+« entreprise » Sont compris parmi les entreprises les commerces, les industries, les professions et toutes affaires quelconques avec ou sans but lucratif, ainsi que les activités exercées de façon régulière ou continue qui comportent la fourniture de biens par bail, licence ou accord semblable. En sont exclus les charges et les emplois.
+[59] Une activité commerciale est définie de la façon suivante à l’article 123 de la LTA :
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l’exploitation d’une entreprise (à l’exception d’une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où l’entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (à l’exception de quelque projet ou affaire qu’entreprend, sans attente raisonnable de profit, un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où le projet ou l’affaire comporte la réalisation par la personne de fournitures exonérées;
+c) la réalisation de fournitures (sauf des fournitures exonérées) d’immeubles appartenant à la personne, y compris les actes qu’elle accomplit dans le cadre ou à l’occasion des fournitures.
+[60] Il est bien établit dans la jurisprudence que la vente illégale de stupéfiants constitue une activité commerciale et les fournitures de cannabis qu’il en découle sont considérées comme étant des fournitures taxables aux fins de la TPS. (Voir à ce sujet l’arrêt John Molenaar c. La Reine, 2003 CCI 468, au par. 56).
+[61] De plus, le juge Angers dans Ouellette c. Canada, 2009 CCI 443, s’est exprimé comme suit :
+17 Cette cour a déjà statué que des revenus provenant de la culture de marijuana étaient des revenus imposables en vertu de la Loi de l’impôt sur le revenu et que les fournitures de marijuana constituent des « fournitures taxables » aux fins de la Loi (voir John Molenaar c. La Reine, 2003 TCC 468). Il en va donc de soi pour la vente de tous autres types de drogues ou substances illicites. […]
+[62] Finalement, la Cour du Québec a fait, dans l’affaire Robitaille c. Québec (Sous‑ministre du Revenu), 2010 QCCQ 9283, une revue de la jurisprudence et s’est référé à l’arrêt 65302 British Columbia Ltd c. Canada, [1999] 3 R.C.S. 804, de la Cour suprême du Canada afin de déterminer qu’une activité commerciale, bien que poursuivie à des fins illicites, est tout de même sujette à l’application des lois fiscales. De plus, la Cour du Québec indique qu’il n’en résulte pas moins l’obligation de percevoir la taxe sur la fourniture effectuée dans le cadre de cette activité et de la remettre aux autorités fiscales.
+Fardeau de la preuve [63] Dans un dossier en fiscalité, le fardeau de la preuve est imposé au contribuable et il est de sa charge initiale de démolir par une preuve prima facie les présomptions du ministre et ainsi de démontrer que la cotisation est erronée. (Voir à ce sujet l’arrêt Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336.)
+[64] Les cotisations et les nouvelles cotisations établies par le ministre sont présumées êtres valides en vertu du paragraphe 299(3) de la LTA.
+[65] Le juge Bédard dans l’arrêt Belle-Or, précédemment cité par l’avocat de l’appelant, a résumé le fardeau de preuve incombant à l’appelant de la façon suivante :
+9 L'affaire Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, nous enseigne que le ministre se fonde sur des présomptions pour établir une cotisation et que la charge initiale de démolir les présomptions formulées par ce dernier est imposée au contribuable. Ce dernier s'acquitte du fardeau initial s'il présente au moins une preuve prima facie démolissant l'exactitude des présomptions formulées par le ministre. Enfin, lorsque le contribuable s'est acquitté de son fardeau initial, le fardeau de la preuve passe au ministre qui doit alors réfuter la preuve prima facie faite par le contribuable et prouver les présomptions. Règle générale, la preuve prima facie se définit comme une preuve suffisante pour établir un fait jusqu'à preuve du contraire. […]
+[66] Dans l'arrêt Amiante Spec Inc. c. Canada, 2009 CAF 139, la Cour d'appel fédérale a expliqué comme suit ce qu'est une preuve prima facie :
+23 Une preuve prima facie est celle qui est "étayée par des éléments de preuve qui créent un tel degré de probabilité en sa faveur que la Cour doit l'accepter si elle y ajoute foi, à moins qu'elle ne soit contredite ou que le contraire ne soit prouvé. Une preuve prima facie n'est pas la même chose qu'une preuve concluante, qui exclut la possibilité que toute conclusion autre que celle établie par cette preuve soit vraie" (Stewart c. Canada, [2000] T.C.J. No. 53 (QL) au paragraphe 23).
+[67] Lorsqu’il y a un renversement du fardeau de preuve, le ministre doit prouver les faits selon la norme de la prépondérance des probabilités.
+[68] Les faits en l’espèce sont similaires à ceux de la décision Molenaar de la CCI, précitée, confirmée par la CAF. En résumé, le contribuable a été arrêté pour culture de cannabis suite à une perquisition dans un hangar situé près de sa maison. Un enquêteur de la Sûreté du Québec a témoigné sur l’excellence des installations de culture de marijuana. Bien qu’ayant avoué son implication dans cette culture, le contribuable a fait l’objet d’une déclaration de non-culpabilité pour défaut de preuve. Le juge Boyle de notre Cour a indiqué que cette déclaration de non-culpabilité n’est aucunement concluante aux fins des appels à l’encontre de cotisations établies en vertu de la Loi de l’impôt sur le revenu (« LIR ») et de la LTA. Au regard de l’ensemble de la preuve, le juge en est arrivé à la conclusion que, selon la prépondérance des probabilités, le contribuable était impliqué dans la culture de la marijuana et a ainsi gagné du revenu d’entreprise.
+[69] Dans la décision Lavie c. Canada, 2006 CCI 655, le ministre avait déterminé que le contribuable était une personne qui avait acquis, sous un pseudonyme, de la cocaïne des Hells Angels Nomads. Le ministre avait établi par présomption, selon les données recueillies lors d’enquêtes policières, que l’appelant exerçait une activité commerciale de vente de cocaïne. L’appelant a nié avoir vendu de la cocaïne au cours de la période en litige et a affirmé qu’il n’était pas domicilié à la résidence où a eu lieu la perquisition. La juge Lamarre, telle qu’elle était alors, a statué que le fardeau reposait sur le ministre :
+17 Ici, c'est par présomptions que le Ministre a établi que l'appelant, personnellement, trafiquait de la cocaïne. La cotisation du Ministre est fondée sur des inférences tirées d'enquêtes policières. Il ne s'agit pas d'un cas, en l'espèce, où l'on peut parler de l'application d'un système fiscal fondé sur l'autocotisation. Dans cette optique, je suis d'avis que l'intimée ne peut se contenter de justifier sa cotisation par des présomptions que le contribuable n'a peu ou pas de moyen de réfuter. […]
+[Mon soulignement.]
+[70] Par la suite, la juge Lamarre s’est dite satisfaite de la preuve prima facie présentée par l’appelant. Dès lors, il s’est opéré un renversement du fardeau de preuve et il revenait au ministre de prouver les présomptions de fait. Pour conclure, la juge réitère qu’il s’agissait d’une cotisation arbitraire fondée sur des inférences tirées des enquêtes policières et la preuve n’était pas suffisante pour établir que l’appelant avait effectué des ventes de substances illégales. Dans son raisonnement, la juge Lamarre fait les observations suivantes :
+18 Ici, je le répète, il s'agit d'une cotisation arbitraire fondée sur des présomptions par suite d'enquêtes policières, et il s'agit d'un cas, où à mon avis, le renversement du fardeau de preuve est justifié. À partir du moment où l'appelant nie avoir fait le commerce de la cocaïne et nie être le dénommé Bilav apparaissant dans la comptabilité des Hells Angels dont l'appelant ne connaît pas la teneur, j'estime qu'il revient au Ministre de démontrer selon la prépondérance de preuve, la justesse de sa cotisation. Bien qu'il soit compréhensible que toute activité illégale ne soit pas encouragée et au contraire dénoncée, on ne peut pas non plus attribuer arbitrairement des ventes de substances illégales sans preuve suffisante, à un individu soupçonné mais non accusé de trafic de stupéfiants. Les propos du juge en chef adjoint Bowman, tel qu'il était alors, dans l'affaire Chomica c. Canada, [2003] A.C.I. no 57 (QL), au paragraphe 16 de sa décision, me semblent pertinents ici :
+Ma première constatation est que toute cette affaire empeste. Elle était organisée par des individus peu recommandables qui, s'ils avaient de la chance, arrivaient à avoir une longueur d'avance sur la loi et, dans le cas contraire, se faisaient prendre. Toutefois, ce n'est pas parce que j'éprouve une profonde méfiance et antipathie à l'égard des gens qui participent à ces stratagèmes que je peux ne pas tenir compte des règles de la preuve et fonder ma décision sur des intuitions irraisonnées ou des preuves inadmissibles.
+[Mon soulignement.]
+[71] En dépit de ce qui précède, la CAF avait antérieurement affirmé dans l’arrêt Voitures Orly Inc. c. Canada, 2005 CAF 425, que « le fardeau de la preuve imposé au contribuable ne doit pas être renversé à la légère ou arbitrairement » (par. 20). Le principe que sous‑tend cette affirmation est le fait que le contribuable possède des renseignements dont le ministre ne dispose pas.
+Preuve circonstancielle [72] La décision récente de la Cour d’appel du Québec (« CAQ ») dans l’affaire R. c. Pinard, 2015 QCCA 1715, est pertinente en l’espèce bien qu’il s’agisse d’un jugement en droit criminel. Comme les faits de la présente cause, il s’agit d’une affaire tenant sur une preuve circonstancielle.
+[73] En première instance, la CQ a déclaré l’accusé coupable de trafic de cannabis. Subséquemment, la CAQ a annulé le jugement de la CQ pour le principal motif que la preuve ne pouvait convaincre hors de tout doute raisonnable que la culpabilité de l’accusé était la seule inférence logique.
+[74] Dans les faits, l’inculpé était propriétaire de l’immeuble visé par la perquisition où une production de cannabis s’y trouvait. Cette affaire diffère de celle en cause étant donné qu’il n’y a eu aucune preuve d’occupation par l’accusé et rien n’indiquait qu’il y avait déjà mis les pieds. De plus, aucune autre preuve n’a été présentée afin de prouver que l’accusé avait connaissance de la culture de cannabis à cet endroit. Les policiers ont procédé à son arrestation puisqu’il se trouvait dans la résidence du principal suspect.
+[75] Dans ses motifs, la CAQ se réfère au jugement rendu dans l’affaire R. c. Jackson, [2007] 3 R.C.S. 514, de la Cour Suprême du Canada afin de comparer les faits entre les deux causes. Dans Jackson, l'accusé avait été arrêté sur les lieux mêmes de la plantation de marijuana, sa participation était donc présumée. La Cour cite un extrait du juge Fish où ce dernier conclut au paragraphe 10 qu’ « il était loisible au juge du procès de conclure, comme il l'a fait, que la présence de l'appelant sur les lieux du crime ne pouvait s'expliquer que par sa participation coupable à la production de marijuana dont il était accusé ». Or, la CAQ soutient que la participation de l’accusé ne peut être inférée par le simple fait qu’il est propriétaire de la bâtisse.
+[76] Tout en analysant les faits dans l’affaire Pinard, précitée, la juge Biche fait les observations suivantes concernant les inférences pouvant être tirées d’une preuve de circonstances :
+37 Comme le rappelle cependant la Cour d'appel de la Nouvelle-Écosse dans R. v. Murphy29, il n'est pas exclu que le contrôle requis par l'infraction de production ou par celle de possession puisse être inféré de l'occupation par l'accusé des lieux où elles sont commises : "[t]he fact of tenancy or occupancy of premises does not create a presumption of possession of all that is found in those premises, but I accept that a trier of fact can infer possession from occupancy". Mais il n'y a ici aucune preuve d'occupation, une occupation qu'on ne peut pas inférer du seul fait que l'appelant est le propriétaire du 180. Comme dans Murphy, d'ailleurs, aucun élément de preuve ne révèle que (sic) ait occupé le 180 ou le 106, ni même qu'il ait jamais mis les pieds au 180, et l'on ne peut pas raisonnablement inférer que parce qu'il est propriétaire en titre de l'immeuble, il l'occupe dans les faits. Une inférence de ce genre serait du reste contraire à la réalité quotidienne des propriétaires d'immeuble, qui sont nombreux à ne pas occuper leur bien.
+38 Bien sûr, on peut ne pas occuper un lieu et néanmoins savoir et contrôler ce qui s'y passe ou en être complice. Mais la preuve, en l'espèce, ne permet pas de tirer cette inférence du seul fait que l'appelant soit propriétaire du 180 et ait été arrêté dans une propriété voisine. À la rigueur, on peut inférer de son titre de propriété sur le 180 que l'appelant connaissait l'existence de la plantation, mais de cette connaissance présumée ne pourrait ensuite s'inférer, directement ou par complicité, le contrôle (que ce soit aux fins de production ou de possession à des fins de trafic) qui ne peut être le contrôle simplement juridique associé au titre de propriétaire.
+[Mon soulignement.]
+[77] La conclusion de la CAQ est à l’effet que le cumul des circonstances ne démontre pas hors de tout doute raisonnable la culpabilité de l’accusé. Il a été spécifié que le fait que celui-ci ait été propriétaire de l’immeuble n’est pas un élément de preuve justifiant à lui seul sa culpabilité.
+[78] Selon ce qui précède, une conclusion relativement à la culpabilité d’une personne peut être raisonnablement tirée lorsqu’il y a suffisamment d’éléments de preuve. Ces éléments de preuve doivent être considérés globalement.
+Méthode de vérification alternative [79] Le paragraphe 286(1) de la LTA prévoit l'obligation d'un mandataire de tenir des livres et registres :
+286 (1) Obligation de tenir des registres. Toute personne qui exploite une entreprise au Canada ou y exerce une activité commerciale, toute personne qui est tenue, en application de la présente partie, de produire une déclaration ainsi que toute personne qui présente une demande de remboursement doit tenir des registres en anglais ou en français au Canada ou à tout autre endroit, selon les modalités que le ministre précise par écrit, en la forme et avec les renseignements permettant d’établir ses obligations et responsabilités aux termes de la présente partie ou de déterminer le remboursement auquel elle a droit.
+[80] Une méthode de vérification alternative peut être utilisée par le ministre afin de reconstituer le revenu d’un contribuable dans certaines circonstances.
+[81] Dans les décisions Desroches c. Canada, 2013 CCI 81, et 9100-8649 Québec Inc. c. La Reine, 2013 CCI 160, j’ai indiqué qu’il est reconnu par la jurisprudence que le ministre peut recourir à des méthodes alternatives de vérification dans la situation où le contribuable ne produit pas de déclarations de revenu ou ne tient pas de livres et de registres comptables fiables.
+[82] Ainsi, une méthode alternative de vérification peut permettre de déterminer la valeur des substances illégales produites et vendues par le contribuable. Pour ce faire, les rapports d’expertise, les témoignages de témoins experts, les ententes partielles sur les faits ainsi que les admissions faites par le contribuable peuvent être utilisées.
+[83] Une méthode de vérification alternative a été utilisée dans l’affaire Reny c. Canada, 2015 CCI 279, dans laquelle l’appelant avait plaidé coupable à des accusations pour trafic de stupéfiants et pour possession en vue d’en faire le trafic. Plus spécifiquement, le ministre a utilisé la méthode de l’avoir net. Dans ce cas, j’ai décidé que le recours à une telle méthode était justifié vu l’absence totale de registres comptables ainsi qu’en raison d’écarts inexplicables dans les actifs de l’appelant.
+[84] Subséquemment, la décision 9100-8649 Québec inc. a été citée par la juge D’Auray dans la récente décision 9103-4348 Québec inc. c. Canada, 2015 CCI 220, ainsi que par le juge Masse dans la décision Syed c. Canada, 2014 CCI 307, dans lesquelles il a été rappelé qu’il était nécessaire d'utiliser des méthodes alternatives dans les cas où le contribuable ne possède pas de registres comptables fiables.
+[85] La juge D’Auray a spécifié au paragraphe 46 de sa décision dans 9103-4348 Québec inc. c. Canada, précité, qu’« il ne suffit pas que les livres et registres comptables existent et qu'ils concordent entre eux; ces derniers doivent être fiables ».
+[86] Il ressort de ces décisions que la méthode de vérification alternative utilisée pour l’établissement d’une cotisation est justifiée si les livres et les registres comptables du contribuable ne sont pas fiables. À titre d’exemple, cette méthode est justifiée lorsque le contribuable ne transige qu’avec de l’argent comptant et que son coût de vie ne peut être établi par une preuve documentaire.
+Analyse [87] Au regard de la jurisprudence et de l’ensemble de la preuve, je suis d’avis que l’appelant exploitait une entreprise provenant de la vente de substances illégales.
+[88] À mon avis, l’appelant n’a pas fourni une preuve prima facie que les hypothèses de faits du ministre étaient erronées. L’appelant a affirmé que la partie du hangar où du cannabis y était cultivé était louée à Mme Carpentier et il a soumis en preuve un bail signé à cet effet et il a nié sa participation ainsi que sa connaissance quant aux activités illégales qui s’y déroulaient. Toutefois, plusieurs éléments suggérant le contraire ont été mis en preuve.
+[89] Malgré l’existence du bail, la version de l’appelant est incompatible avec la déclaration écrite de Mme Carpentier. D’ailleurs, celle-ci aurait dû être assignée par l’appelant afin de témoigner à l’audience. Il est donc impossible de vérifier la version des faits de Mme Carpentier.
+[90] De plus, la déclaration de l’appelant à l’effet qu’il n’avait pas accès à la partie louée du hangar est contredite par la découverte, dans la résidence où il habitait, des clés donnant accès à la partie louée du hangar. Pour ce qui est de l’argent et des documents trouvés dans son bureau, l’appelant n’a soumis aucune explication crédible.
+[91] La preuve de l’appelant ne constitue pas une preuve prima facie étant donné qu’elle est contredite. Par conséquent, les présomptions du ministre n’ont pas été démolies.
+[92] À mon avis, les faits en cause se différencient beaucoup de la récente affaire R. c. Pinard de la CAQ, précitée. En effet, l’appelant n’était pas le propriétaire du hangar mais la preuve a révélé que ce dernier utilisait régulièrement cette bâtisse à des fins d’entreposage et il y amenait souvent des clients. De plus, son commerce et la résidence où il habitait se trouvaient à proximité du lieu de production du cannabis. Plusieurs pièces à conviction trouvées dans la résidence et dans le commerce de l’appelant permettent de relier celui-ci à la production du cannabis. Ces circonstances constituent une preuve plus que probante de la connaissance de l’appelant quant à l’existence de la culture de cannabis. Il est donc raisonnable, compte tenu des faits, de tirer la conclusion à l’effet que l’appelant a participé à ces activités illégales.
+[93] Tel qu’établi dans la décision Molenaar, précitée, le fait que les accusations criminelles aient été retirées n’est aucunement pertinent en l’espèce. Aussi, la décision Brown, citée par l’intimée, a rappelé que le fardeau de preuve n’est pas le même qu’en matière criminelle dont la norme est hors de tout doute raisonnable.
+[94] Au regard de l’ensemble de la preuve présentée, je suis convaincu que, selon la prépondérance des probabilités, le ministre a démontré la connaissance et la participation de l’appelant à des activités illégales de culture de cannabis.
+[95] Le témoignage de l’expert de la Sûreté du Québec, Mme De Larochellière, a permis d’éclairer la Cour concernant les pratiques courantes dans le milieu de la culture du cannabis et a permis de déterminer les rendements de cette production. Aucune preuve n’a été présentée par l’appelant afin de contredire le rapport d’expertise rédigée par Mme De Larochellière. J’accepte donc son témoignage et le rapport d’expertise m’apparaît être très pertinent afin d’établir les revenus tirés de la production des substances illégales en question.
+[96] Je considère que la méthode de vérification alternative est justifiée en l’espèce puisqu’il n’y a aucune trace de transactions commerciales, le tout ayant été transigé en argent comptant. À ce titre, rappelons que l’appelant possédait un montant d’environ 1 000 $ en argent comptant sur lui lors de son arrestation et qu’une somme de 10 100 $ a été trouvée dans un bureau de son commerce. Les documents relatifs à la production de cannabis trouvés dans le commerce et la résidence où l’appelant habitait sont les seuls registres retracés. Le ministre était donc justifié de s’y référer afin d’établir la cotisation en cause.
+[97] Par contre, j’ai noté une différence entre la preuve soumise, soit les documents relatifs aux revenus de production du cannabis, et le rapport de vérification de Mme Caza. Afin d’établir une moyenne des ventes brutes, Mme Caza s’est référée au rapport d’expertise de la Sûreté du Québec. Dans ses calculs, elle n’a pris en considération que six récoltes sur les sept que l’on retrouve en preuve. En fait, la photographie #104 de la pièce A‑2 n’a pas été considérée par Mme Caza.
+[98] Par conséquent, il en résulte une différence dans le prix moyen de la livre de cannabis qui serait de 1 446 $ plutôt que 1 454 $, la moyenne des ventes brutes par récole seraient de 38 968 $ et le profit net moyen par récole serait de 14 502 $ :
+Quantité (livres)
+Prix/livre
+Ventes brutes
+Profit
+Photo 121
+28
+1 400 $
+39 200 $
+14 436 $
+Photo 121
+33
+1 575 $
+51 975 $
+20 925 $
+Photo 121
+36
+1 450 $
+52 200 $
+20 530 $
+Photo 121
+22
+1 450 $
+31 900 $
+11 150 $
+Photo 121
+35
+1 400 $
+49 000 $
+18 725 $
+Photo 57
+18
+1 450 $
+26 100 $
+8 723 $
+Photo 104
+16
+1 400 $
+22 400 $
+7 025 $
+Moyenne
+27
+1 446 $
+38 968 $
+14 502 $
+Total
+188
+10 125 $
+272 775 $
+101 514 $
+[99] La vérificatrice de l’ARQ, Mme Caza, avait déterminé que la moyenne par récolte de profit net était de 15 748 $, et que, par conséquent, le profit net en 2007 était de 94 489 $ et le profit net en 2008, était de 62 993 $.
+[100] Le document dont le ministre a fait défaut de considérer à l’étape de la vérification et de la cotisation m’apparaît être pertinent d’autant plus qu’il s’agit d’une pièce figurant tant dans la preuve de l’appelant que de l’intimée. La vérificatrice y a fait référence lors de son contre‑interrogatoire mais les parties n’ont pas demandé que des correctifs soient apportés à la cotisation vu que l’appelant contestait l’entièreté de la cotisation en cause. Le calcul de la moyenne des ventes brutes par récolte (six en 2007 et quatre en 2008) a un impact direct sur les montants de sa taxe nette pour les périodes de déclaration du 1er avril 2007 au 31 décembre 2008.
+[101] En vertu de l’article 309 de la LTA, cette Cour n’a pas le pouvoir de modifier la cotisation, elle doit plutôt retourner le tout au ministre pour un nouvel examen et nouvelle cotisation :
+309 (1) La Cour canadienne de l’impôt peut statuer sur un appel concernant une cotisation en le rejetant ou en l’accueillant. Dans ce dernier cas, elle peut annuler la cotisation ou la renvoyer au ministre pour nouvel examen et nouvelle cotisation.
+[102] La disposition précédente diffère du paragraphe 171(1) de la LIR qui stipule ce qui suit :
+171 (1) La Cour canadienne de l’impôt peut statuer sur un appel :
+a) en le rejetant;
+b) en l’admettant et en :
+(i) annulant la cotisation,
+(ii) modifiant la cotisation,
+(iii) déférant la cotisation au ministre pour nouvel examen et nouvelle cotisation.
+[103] Contrairement à un appel à l’encontre d’une cotisation établie sous la LIR, il n’y pas de remède permettant à cette Cour de modifier une cotisation établie sous la LTA.
+Conclusion [104] De la preuve présentée devant cette Cour, je suis d’avis que, selon la prépondérance des probabilités, l’appelant exploitait une entreprise commerciale de culture de cannabis et la vente de ces substances constituait une fourniture taxable aux fins de la TPS. L’appelant n’a pas présenté une preuve non contredite permettant de démolir les hypothèses de faits du ministre.
+[105] Pour ces motifs, l’appel à l’encontre de la cotisation est accueilli et la cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation sur la base que la moyenne des ventes brutes pour récolte était de 38 968 $ et que, par conséquent, les revenus bruts d’entreprise étaient de 155 872 $ plutôt que de 166 916,67 $ en 2008 et de 233 908 $ plutôt que de 250 375 $ en 2007, de sorte que la TPS non perçue par l’appelant en 2008 soit de 7 793,60 $ et de 12 234,48 $ en 2007.
+[106] Les pénalités pour non-production des déclarations en vertu de l’article 280.1 de la LTA sont justifiées en l’espèce étant donné le défaut de l’appelant de déclarer des montants de TPS provenant de fournitures taxables. Les montants des pénalités devront être modifiés en fonction du nouveau calcul de la taxe nette pour les périodes de déclaration du 1er avril 2007 au 31 décembre 2008 de l’appelant.
+Signé à Ottawa, Canada, ce 15e jour de septembre 2016.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2016 CCI 195
+Nº DU DOSSIER DE LA COUR :
+2013-999(GST)G
+INTITULÉ DE LA CAUSE :
+Luc Boisvert c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATES DE L’AUDIENCE :
+Le 27 août 2014 et les 14 et 15décembre 2015
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 15 septembre 2016
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Marc Laporte
+Avocat de l'intimée :
+Me Jean Duval
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Me Marc Laporte
+Cabinet :
+Fréchette Avocats
+Joliette (Québec)
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,143 @@
+---
+title: "H. LS Lessard Électrique Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27494/index.do"
+last_modified: "2005-06-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 368"
+citation2: ""
+neutral_citation: "2005 CCI 368"
+decision_date: "2005-06-01"
+language: "fr"
+item_id: "27494"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 52
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:51:35.803000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ec1ea375c4f11c59f1b9fd02a89a7e3810af8729de13e2e270a4f52a7ab22a0b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# H. LS Lessard Électrique Inc. c. La Reine
+
+- Citation: 2005 CCI 368
+- Decision date: 2005-06-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 52, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+H. LS Lessard Électrique Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-01
+Référence neutre
+2005 CCI 368
+Numéro de dossier
+2004-3839(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3839(IT)I
+ENTRE :
+H.L.S. LESSARD ÉLECTRIQUE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 17 mai 2005, à Québec (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Représentante de l'appelante :
+Viviane Pépin
+Avocat de l'intimée :
+Me Dany Leduc
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 1er jour de juin 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2005CCI368
+Date : 20050601
+Dossier : 2004-3839(IT)I
+ENTRE :
+H.L.S. LESSARD ÉLECTRIQUE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'un appel par voie de la procédure informelle.
+[2] Il s'agit de savoir si certains montants doivent être inclus dans le calcul du revenu de l'appelante et s'il y a eu intention de dissimuler du revenu au sens du paragraphe 163(2) de la Loi de l'impôt sur le revenu.
+[3] La nouvelle cotisation était fondée sur l'inclusion d'un montant de 45 000 $ dans le calcul du revenu de l'appelante pour l'année 2000. La Réponse à l'avis d'appel (la « Réponse » ), aux alinéas 4 d) à 4 h) décrit ainsi les événements entourant l'ajout de la somme de 45 000 $ dans le calcul du revenu de l'appelante :
+...
+d) le ministre a vérifié les livres et registres de la société « H.LS Lessard Électrique inc. » et la méthode des dépôts fut utilisée afin de vérifier les revenus pour l'exercice financier se terminant le 31 mars 2000;
+e) une écriture de régularisation fut effectuée le 31 mars 2000 créditant une somme de 45 000 $ dans le compte « Avances à l'administrateur » et débitant, pour une même somme, le compte « Revenus de construction » ;
+f) la dite écriture de régularisation était appuyée d'une note laconique « Dépôt non imposable » ;
+g) la dite écriture de régularisation n'était appuyée d'aucune pièce justificative et aucune explication ne fut fournie au ministre à propos du « Dépôt non imposable » ;
+h) le ministre a procédé à l'analyse des bordereaux de dépôt des comptes bancaires de la société, à l'égard de la période du 1er avril 1999 au 31 mars 2000, il n'a trouvé aucun dépôt non imposable de 45 000 $ ni aucun dépôt non imposable pouvant totaliser la dite somme;
+[4] À l'audience, le vérificateur du ministre du Revenu national (le « Ministre » ) a expliqué que la logique sous-jacente aux écritures ci-dessus décrites pouvait être qu'un ou des dépôts au montant total de 45 000 $ seraient provenus de l'administrateur, ce qui expliquerait la qualification de « dépôt non imposable » lors du débit du compte « revenus de construction » et le crédit d'un montant correspondant au compte des « avances à l'administrateur » . Toutefois, tel que mentionné à l'alinéa 4 h, il n'y a eu aucune preuve de ces dépôts faits par l'actionnaire.
+[5] À l'audience, la partie appelante, représentée par madame Viviane Pépin, n'a pas non plus tenté de prouver ces dépôts. Madame Pépin s'est décrite comme une technicienne en comptabilité qui tient les livres de l'appelante sur une base mensuelle ou plus souvent si nécessaire.
+[6] La représentante a soutenu qu'il y avait eu des erreurs du comptable externe et que le revenu de l'appelante devait être réduit de deux montants soit, un montant de 18 598,31 $, paiement provenant d'une société d'assurance et un montant de 22 000 $ inscrit aux états financiers pour les travaux en cours.
+[7] Monsieur Lessard, président et propriétaire de l'appelante, a expliqué qu'en 1992, l'appelante avait obtenu un sous-contrat concernant l'installation de génératrices. Une génératrice pour des raisons de malfaçon ou d'erreur humaine a explosé avant que l'appelante ne reçoive de l'entrepreneur général, le paiement complet de son contrat. Après bien des démarches, les avocats de l'appelante ont obtenu de la société d'assurance un certain montant. Ce qui a été montré à l'audience était un bordereau de dépôt d'une somme d'argent au montant de 18 598,31 $ provenant de ces avocats.
+[8] Le montant de 18 598,31 $ avait été inscrit par la technicienne en comptabilité au chapitre des comptes à recevoir. Monsieur Lessard affirme que la créance originale avait déjà été prise en compte et n'avait pas été radiée des comptes à recevoir parce qu'elle n'avait jamais été considérée comme une créance irrécouvrable.
+[9] L'appelante n'avait pas la liste de ses comptes à recevoir pour l'année 2000. De plus, en ajoutant le dit montant au chapitre des comptes à recevoir, l'appelante arrivait à un montant négatif de 16 492,36 $. Ce qui ne se peut en comptabilité selon le vérificateur du Ministre et qui, selon ce dernier, tend à prouver que le dit montant ne se trouvait plus dans les comptes à recevoir. Le montant devait donc être inscrit au chapitre des revenus de construction où l'écriture de régularisation du comptable externe l'avait placé.
+[10] En ce qui concerne le montant de 22 000 $ inclus dans le calcul du revenu de l'appelante pour l'année 2000 pour des travaux en cours, le président de l'appelante affirme qu'il n'y avait pas de tels travaux en cours. Il admet toutefois que lors de l'année 2001, une écriture de régularisation retranche ce montant du revenu dans les états financiers. Il soutient cependant que seule l'année 2000 est en cause et que je ne dois pas me préoccuper de ce qui s'est passé en 2001. Il admet aussi avec réticence que pour conserver le droit à une licence d'entrepreneur en électricité, il faut faire la preuve d'un certain revenu positif. Ce fait a été confirmé par la représentante de l'appelante.
+[11] Le vérificateur du Ministre explique que ce montant n'a en fait aucun impact. Il s'agit d'une écriture temporaire qui est vouée à être radiée l'année suivante. C'est ce que l'on voit aux pièces I-1 et I-2.
+Analyse et conclusion
+[12] Il aurait été intéressant de lire la lettre des avocats qui ont envoyé le paiement de la somme pour en connaître la nature exacte. Cette lettre n'a pas été produite. Mais il me faut penser d'après les explications de monsieur Lessard qu'il s'agissait bien du paiement de dommages compensatoires par une société d'assurance.
+[13] La règle jurisprudentielle veut qu'un montant payé en remplacement d'un montant qui lui, aurait été inclus dans le calcul du revenu, doit être inclus dans ce calcul. Ce n'est pas une règle dont l'application était très claire. La règle vient d'être grandement clarifiée par la Cour suprême du Canada dans Tsiaprailis c. Canada, 2005 D.T.C. 5126, et je cite une partie des paragraphes 7 et 15 des motifs :
+[7] ... Elle explique que, pour déterminer si une somme est imposable, il faut considérer sa nature et son objet et se demander ce qu'elle est censée remplacer. L'examen est factuel. Les conséquences fiscales du versement d'une somme à titre d'indemnité ou en règlement d'un litige sont ensuite établies en fonction de cette qualification. Autrement dit, le traitement fiscal dépend de ce que la somme vise à remplacer. Il s'agit du principe de la substitution. ...
+[15] Les questions décisives sont les suivantes : (1) que visait à remplacer le paiement et, si la réponse est suffisamment claire, (2) l'élément remplacé aurait-il été imposable pour la personne qui en a bénéficié?
+[14] Si le motif de la non inclusion avait été le doute quant à l'obligation d'inclure une somme compensatoire reçue d'une société d'assurance dans le calcul du revenu, il se pourrait que l'imposition de la pénalité ait été non avenue. Toutefois, le motif invoqué pour la non inclusion est que le compte à recevoir n'avait jamais été radié. Cette affirmation a été faite sans preuve. De plus, aucun document entourant le paiement de cette somme n'a été produit.
+[15] En ce qui concerne le montant de 22 000 $ inscrit pour les travaux en cours, l'avocat de l'intimée fait valoir que l'appelante a choisi de s'imposer sur des travaux en cours pour des raisons qui lui appartenaient. C'est son choix. Ce montant a été effacé des états financiers en 2001. Il ne peut également être retranché en l'année 2000.
+[16] La représentante de l'appelante a fait porter le blâme sur le comptable qui a préparé les états financiers. Selon elle, il a fait des inscriptions non autorisées et il a commis des erreurs dans sa comptabilité.
+[17] Le comptable n'est pas venu témoigner pour confirmer que c'était bien lui qui avait fait l'inscription de dépôt non imposable au montant de 45 000 $ ni expliquer pourquoi il l'avait faite. La seule lecture des pièces soumises n'est pas du tout concluante à cet égard.
+[18] Vu l'absence de preuve valable au contraire et vu la variance des versions de l'appelante concernant la non inclusion du montant de 45 000 $,je ne peux que conclure que c'est à la demande de l'unique administrateur de l'appelante que l'entrée erronée a été faite.
+[19] L'appel est en conséquence rejeté.
+Signé à Ottawa, Canada, ce 1er jour de juin 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2005CCI369
+N º DU DOSSIER DE LA COUR : 2004-3839(IT)I
+INTITULÉ DE LA CAUSE : H.L.S. Lessard Électrique Inc. et Sa Majesté La Reine
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : le 17 mai 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 1er juin 2005
+COMPARUTIONS :
+Représentante de l'appelante :
+Viviane Pépin
+Avocat de l'intimée :
+Me Dany Leduc
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

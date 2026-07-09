@@ -1,0 +1,158 @@
+---
+title: "Hookham c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27756/index.do"
+last_modified: "2007-07-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 373"
+citation2: ""
+neutral_citation: "2007 CCI 373"
+decision_date: "2007-07-17"
+language: "fr"
+item_id: "27756"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 309
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:28:07.184000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4105b8405c2f2e31fb19af305318130e0175deb1710ba70622f1a752cfa54e99"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hookham c. M.R.N.
+
+- Citation: 2007 CCI 373
+- Decision date: 2007-07-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 309, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hookham c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-07-17
+Référence neutre
+2007 CCI 373
+Numéro de dossier
+2006-2111(EI)
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-2111(EI)
+ENTRE :
+DARLENE JENNIFER HOOKHAM,
+appelante,
+Et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CHRISTEL VIGOREN,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_______________________________________________________________
+Appel entendu le 12 juin 2007 et jugement rendu oralement le 15 juin 2007 à
+Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Représentant de l’appelante :
+M. Albert M. Osborne
+Avocat de l’intimé :
+Pour l’intervenante :
+Me Max Matas
+L’intervenante elle-même
+_______________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée selon les motifs de jugement ci‑joints, lesquels ont été rendus oralement.
+Signé à Ottawa, Canada, ce 10e jour de juillet 2007.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 10e jour de septembre 2007
+D. Laberge, LL.L.
+Référence : 2007CCI373
+Date : 20070710
+Dossier : 2006-2111(EI)
+ENTRE :
+DARLENE JENNIFER HOOKHAM,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CHRISTEL VIGOREN,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 15 juin 2007
+à Vancouver (Colombie‑Britannique))
+La juge Campbell
+[1] L’appelante interjette appel d’une décision rendue par le ministre du Revenu national (le « ministre ») en vertu de la Loi sur l’assurance‑emploi, dans laquelle il a été conclu qu’elle n’exerçait pas, auprès de Christel Vigoren, l’intervenante‑payeur, un emploi assurable pendant la période allant du 12 octobre 2004 au 27 juin 2005.
+[2] Le payeur, Mme Vigoren, est mère d’une enfant, Anna, qui est gravement atteinte d’autisme, et qui est également atteinte d’une déficience mentale. La mère d’Anna a déclaré qu’Anna avait l’âge mental d’un enfant de cinq ans, même si au cours de la période en cause, elle avait 18 ans. Il arrive qu’Anna [traduction] « ait des accès de colère » et qu’elle soit physiquement agressive. Mme Vigoren travaille à l’extérieur de chez elle de 8 h à 16 h chaque jour. Elle a reçu du financement du Ministry of Children and Family Development pour aider à payer les thérapeutes qui appliquaient des programmes en vue d’aider à améliorer les habiletés d’Anna sur le plan de la communication, ses aptitudes sociales et l’apprentissage de l’autonomie fonctionnelle et en vue de permettre à Mme Vigoren de s’absenter de la maison pour aller travailler. Si je comprends bien la preuve soumise par Mme Vigoren, ces programmes étaient basés sur une analyse comportementale appliquée dans laquelle les thérapeutes utilisent des [traduction] « jeux de cubes » pour de simples tâches. Mme Vigoren n’est pas thérapeute et elle n’a pas de formation, de sorte que, pour appliquer la thérapie, elle a eu recours à Krista Johnson, qui s’occupe d’intervention comportementale. Mme Johnson, qui a également témoigné, exploite sa propre entreprise et travaille comme thérapeute en chef auprès d’un certain nombre de familles. Elle assurait la formation et la supervision nécessaires des travailleurs qui étaient embauchés pour mettre en œuvre les programmes de thérapie comportementale appliquée auprès d’Anna. Initialement, l’appelante, qui étudiait à plein temps, était la seule travailleuse qui avait été formée et qui fournissait ces services, mais peu de temps après qu’elle eut été engagée, un certain nombre d’autres travailleurs ont été embauchés pour travailler en effectuant chacun des postes d’environ trois heures par jour. Anna recevait donc des traitements de trois thérapeutes différents pendant la journée.
+[3] L’appelante étudiait à plein temps la psychologie lorsqu’elle a répondu à l’offre d’emploi de Mme Vigoren, qui cherchait à engager et à former des travailleurs pour venir en aide à sa fille. L’appelante a eu une entrevue avec Mme Vigoren ainsi qu’avec Mme Johnson. Selon la preuve soumise par l’appelante, lorsqu’elle a été embauchée, on n’a pas parlé de la question de savoir si on l’embauchait à titre d’entrepreneur indépendant ou à titre d’employée. L’appelante a reçu 40 heures de formation de Mme Johnson. Un contrat a été signé, aux termes duquel l’appelante s’engageait à travailler pour une période de six mois et, selon lequel, à la fin de cette période, elle devait être payée pour les deux semaines de formation. L’appelante passait la plupart de ses heures de travail chez Mme Vigoren, et elle sortait parfois avec Anna. Le taux horaire de rémunération était fixé par Mme Johnson et c’est également elle qui fixait les diverses augmentations que l’appelante a reçues. De plus, Mme Johnson établissait les horaires de travail, mais l’horaire de l’appelante était modifié en vue de tenir compte de ses cours.
+[4] L’appelante était rémunérée par chèque, mais aucune retenue à la source n’était effectuée. L’appelante enregistrait ses propres heures et elle les soumettait à Mme Vigoren pour être rémunérée. L’appelante a témoigné que son travail était supervisé par Mme Johnson lorsque leurs postes se chevauchaient. Mme Johnson supervisait alors le programme que l’appelante appliquait. De plus, des sommaires de poste étaient rédigés à la fin de chaque poste et ils étaient soumis à Mme Johnson. L’appelante assistait à des réunions mensuelles pour rendre compte de la mise en œuvre des programmes. Elle pouvait à son gré choisir le programme à appliquer parmi les six ou sept programmes qui étaient expressément conçus pour Anna.
+[5] Selon la preuve soumise par Mme Vigoren, c’était toujours Mme Johnson, et jamais elle‑même, qui discutait avec les travailleurs, au moment où ceux‑ci étaient engagés, en leur faisant savoir qu’ils étaient embauchés à titre d’entrepreneurs indépendants. Toutefois, Mme Johnson a témoigné que Mme Vigoren ou elle‑même [traduction] « abordait » la question au cours de l’entrevue d’embauchage. Mme Johnson a déclaré avoir discuté de la question avec l’appelante lors de l’entrevue initiale et l’avoir informée qu’elle serait peut‑être en mesure de déduire des frais associés à la voiture et au téléphone. Mme Johnson a également admis qu’elle agissait comme superviseure auprès des travailleurs et qu’elle était responsable de leur formation initiale et de leur formation continue. Elle coordonnait également les horaires des travailleurs. Mme Johnson demandait aux travailleurs de résumer chaque séance à la fin de la séance et également, avant de commencer leur poste, de lire les résumés des travailleurs qui les avaient précédés ce jour‑là. Cela devait les aider à choisir le programme qui convenait. Il y avait également un livre qui donnait des renseignements quant au comportement d’Anna et un relieur renfermant les notes et recommandations de Mme Johnson. Toutes ces communications aidaient à adopter une approche unifiée à l’égard de la thérapie.
+Analyse
+[6] L’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, fait autorité à cet égard; le critère composé de quatre parties intégrantes énoncé dans l’arrêt Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025, y a expressément été approuvé. Ces facteurs comprennent le contrôle, la propriété des instruments de travail, les chances de profit et les risques de perte. L’importance de chaque facteur varie selon les faits propres à chaque affaire. Il n’existe pas de formule universelle permettant d’appliquer ces facteurs aux circonstances de l’espèce. Dans certains cas, il se peut qu’un facteur soit fort peu important, alors que d’autres sont tout simplement neutres. Toutefois, en règle générale, le contrôle a un rôle important. La Cour fédérale a examiné la question dans l’arrêt Wolf v. The Queen, 2002 DTC 6853, et bien que l’analyse ait été fondée sur les dispositions du Code civil du Québec, la cour a mentionné les principes énoncés dans l’arrêt Sagaz Industries. Au paragraphe 93 de l’arrêt Wolf, la juge Desjardins a énoncé la question à trancher comme étant de savoir à qui appartient l’entreprise. Dans l’arrêt plus récent Royal Winnipeg Ballet c. Canada, [2006] A.C.F. no 339, la Cour d’appel fédérale a examiné le rôle qu’avait l’intention des parties. Cet arrêt montre clairement que lorsque la nature d’une relation juridique est mise en question, le tribunal doit examiner si les circonstances qui sont au cœur de la relation correspondent aux intentions exprimées par les parties. Comme je l’ai dit au paragraphe 37 de la décision que j’ai rendue dans l’affaire Équipe de Ski National Capital Outaouais c. M.R.N., [2007] A.C.I. no 82 :
+[…] Ce n’est qu’au moyen d’un examen des circonstances et des faits particuliers (qui peuvent varier d’un cas à l’autre) que l’on peut en fait décider si les intentions exprimées par les parties sont conformes à leurs relations réelles. Si, à la lumière d’une preuve objective, c’est ce que les parties accomplissent, leur intention doit alors l’emporter [...]
+[7] Lorsque j’examine l’intention de la travailleuse, l’appelante, et du payeur, Mme Vigoren, leurs intentions sont tout à fait opposées. L’appelante m’a dit que lorsqu’elle avait été embauchée, personne ne lui avait dit qu’elle serait considérée comme un entrepreneur indépendant. Je crois que l’appelante avait 18 ans, qu’elle étudiait à plein temps et qu’elle avait besoin de gagner de l’argent en effectuant un travail à temps partiel qui en plus, par hasard, se rapportait à son domaine d’études en psychologie. L’appelante a expliqué qu’elle était jeune et naïve et qu’elle était tout simplement heureuse d’avoir un chèque de paie. D’un autre côté, la preuve soumise par Mme Vigoren était que Mme Johnson avait informé tous les travailleurs qu’ils étaient des entrepreneurs indépendants, alors que Mme Johnson a déclaré que Mme Vigoren ou elle‑même avait [traduction] « abordé » la question. Je crois que Mme Vigoren cherchait avant tout à trouver des travailleurs qui seraient compatibles avec sa fille, Anna. En l’écoutant présenter son témoignage, je me suis rendu compte que l’état de sa fille était pour elle une situation difficile, déchirante et stressante. Je n’ai aucune raison de ne pas croire les personnes qui ont ici témoigné. Peu importe que l’on ait de fait parlé de la question de savoir si les travailleurs étaient des employés par opposition à des entrepreneurs indépendants, il reste que je crois que l’intention de toutes les intéressées a été réalisée lorsque l’appelante a obtenu un travail à temps partiel et un chèque et que Mme Vigoren a trouvé une travailleuse qui, croyait‑elle, pouvait aider sa fille. Si la question a été abordée, je crois qu’il s’agissait certes du facteur le moins important, en ce qui concerne la création et l’essence de leurs relations juridiques. Je ne crois pas que l’une ou l’autre d’entre elles ait réellement songé aux conséquences jusqu’à ce que l’appelante soit enceinte et qu’elle présente sa demande. En fait, les notes que l’agente des appels a prises lors de l’entrevue qu’elle a eue avec Mme Vigoren, le 15 février 2006, révèlent passablement bien quelle était l’intention de Mme Vigoren. Voici ce qu’elle a déclaré : [traduction] « J’étais pour ainsi dire son employeur [...] » et lorsque l’agente lui a expliqué la différence entre un employé et un entrepreneur indépendant, Mme Vigoren a ajouté : [traduction] « Je me suis adressée à la travailleuse sociale et elle m’a recommandé de ne pas effectuer de retenues parce que cela comporte trop de travail. La travailleuse sociale a dit de dire aux travailleurs (verbalement) de s’occuper de leurs propres impôts. [...] Quant à moi, j’estime que nous sommes leurs employeurs. » Dans un suivi, le 16 février 2006, Mme Vigoren a réitéré à l’agente des appels qu’elle estimait être l’employeur de la travailleuse, mais qu’elle voulait que la travailleuse s’occupe de ses propres impôts. Peu importe que Mme Vigoren ait accordé beaucoup d’importance à la question de l’employé et de l’entrepreneur indépendant lorsque l’appelante a initialement été engagée, il ressort clairement des notes de l’agente des appels qu’après mûre réflexion, une fois que l’engagement eut pris fin, elle estimait vraiment être l’employeur de l’appelante. Mme Ngo a témoigné qu’elle reformule ou résume parfois ce qu’on lui dit à l’entrevue, mais Mme Vigoren a mentionné à diverses reprises, lors de l’entrevue, qu’elle était l’employeur. Je ne crois pas que Mme Vigoren ait réellement compris les conséquences juridiques de cette désignation et la façon dont cela influait sur la relation de travail. Toutefois, je crois qu’à ce moment‑là, lorsque la question s’est d’abord posée, elle estimait être l’employeur, et ce, peu importe ce qu’on pouvait avoir dit à l’appelante. Je crois également qu’elle se considérait comme l’employeur de l’appelante uniquement au sens large du terme, en ce sens que l’argent lui était transmis par le ministère et que c’est elle qui signait les chèques pour payer l’appelante. Elle n’assurait aucune formation et aucune supervision et, même si la preuve n’était pas claire, je ne crois pas qu’elle était même à la maison lorsque les travailleurs y étaient. En outre, je ne crois pas qu’elle ait cru qu’elle exploitait une entreprise de quelque genre que ce soit, dans le cadre de laquelle elle pouvait se considérer comme un employeur; je ne crois pas non plus que l’appelante, selon son point de vue, ait pensé qu’elle exploitait une entreprise dans le cadre de laquelle elle fournissait des soins à domicile aux familles. Il s’agissait simplement d’un travail visant à lui permettre de gagner de l’argent supplémentaire en tant qu’étudiante et je ne crois pas que la question de savoir à qui appartient l’entreprise ait beaucoup d’importance en ce qui concerne les circonstances ici en cause.
+[8] L’entente écrite n’est pas non plus utile dans ce cas‑ci. Elle consistait en un bref paragraphe et elle visait à encourager le travailleur à rester au moins six mois une fois qu’il avait reçu la formation, parce qu’il n’était payé pour la formation qu’une fois achevée une période de six mois. En outre, il n’est pas fait mention de la nature de la relation juridique que les intéressées voulaient créer. Je crois que c’est parce qu’aucune des intéressées n’avait vraiment songé à la question au moment de l’embauchage.
+[9] J’examinerai maintenant les facteurs énoncés dans l’arrêt Wiebe Door, précité. Dans l’arrêt Poulin c. Canada, [2003] A.C.F. no 141, qui comme je le note est régi par les dispositions du Code civil du Québec, la Cour d’appel fédérale a conclu que le facteur « contrôle » avait un rôle moins crucial que celui qu’il a généralement parce que les besoins du patient dictaient la prestation des services. Cela est également dans une certaine mesure vrai en l’espèce, mais il existe ici néanmoins des faits tendant à indiquer que l’appelante était une employée. L’appelante n’avait pas de formation dans le domaine des interventions comportementales, formation qui était nécessaire pour qu’elle puisse appliquer les programmes. Mme Vigoren n’avait aucune expertise de ce genre, de sorte que Mme Johnson, en sa qualité de thérapeute en chef, assurait une formation initiale de deux semaines ainsi qu’un soutien et de l’aide sur une base continue. Mme Johnson a déclaré qu’elle agissait à titre de superviseure à l’égard de l’appelante. Il y avait, une fois par semaine, des séances qui se chevauchaient entre l’appelante et Mme Johnson. Des réunions mensuelles étaient tenues. L’appelante devait résumer chacune de ses séances avec Anna et les consigner dans un relieur spécial. L’appelante pouvait décider du programme, parmi les six ou sept programmes, qu’elle allait appliquer, sur une base quotidienne, mais les programmes étaient dans l’ensemble dictés par Mme Johnson avec l’aide d’une autre thérapeute, Amanda Sharp. Les programmes étaient expressément conçus pour Anna et il existait donc une structure bien définie que l’appelante devait respecter. L’appelante pouvait choisir le programme à mettre en œuvre à chaque séance, mais elle n’avait pas discrétion quant aux modalités d’application et d’exécution. Même son choix était limité, dans une certaine mesure, par le comportement d’Anna ce jour‑là et par les programmes appliqués par les travailleurs qui l’avaient précédée ce jour‑là. L’appelante consignait ses heures sur un calendrier, dans la résidence de Mme Vigoren, et elle soumettait ses heures pour être rémunérée, mais je ne crois pas que cela se rapproche de ce que l’on considère généralement comme une facture. Le fait qu’une formation intensive était initialement assurée, ainsi qu’une formation continue, et le fait qu’il y avait une supervision et un contrôle réguliers, indiquent bien que c’était le payeur qui contrôlait les modalités de travail, les moments où le travail était accompli et l’endroit où il l’était. La travailleuse est clairement dans une situation de subordonnée lorsque l’affaire est considérée sous l’angle du facteur « contrôle ».
+[10] Les seuls instruments de travail qui étaient utilisés étaient composés du matériel et des fournitures qui répondaient aux besoins d’Anna. Je crois qu’il s’agissait de petits articles comme des bonbons ou des objets d’artisanat, qui étaient utilisés pour récompenser et renforcer un bon comportement. Dans certaines décisions, une distinction est faite entre les instruments et le matériel de travail, mais je ne vois pas à quoi rime cette distinction. Le facteur « instruments de travail » ne nous aide pas dans ce cas‑ci et j’estime qu’il s’agit d’un élément neutre.
+[11] Je tire la même conclusion au sujet des bénéfices et des pertes. L’appelante était rémunérée à l’heure, le taux étant fixé par le payeur. L’appelante recevait des augmentations régulières, mais elle n’avait rien à voir avec la détermination de ces montants. Selon certains éléments de preuve, l’appelante travaillait pour une autre famille en effectuant un travail similaire au cours de la période ici en cause et je suppose qu’il serait possible de considérer ce fait comme une possibilité d’augmenter les bénéfices en augmentant la rémunération, mais il s’agissait simplement de deux emplois différents à temps partiel. Encore une fois, ces facteurs jettent peu de lumière sur la nature véritable de la relation.
+[12] Eu égard aux faits mis à ma disposition, il semble également que l’appelante était intégrée au système de programmes et de soutien élaboré pour les besoins d’Anna.
+[13] En résumé, sauf pour le critère du contrôle, aucun des autres facteurs énoncés dans l’arrêt Wiebe Door, précité, n’est vraiment utile. Toutefois, le facteur « contrôle » montre clairement et d’une façon concluante que l’appelante avait un lien de subordination avec le payeur. L’entente écrite ne m’aide pas et elle ne vise pas à répondre à la question de savoir à qui appartient l’entreprise. L’intention des parties semble toujours avoir été d’entretenir une relation employeur‑employé, et ce, tant que les conséquences juridiques de cette relation ne sont pas devenues évidentes.
+[14] Par conséquent, l’appel sera accueilli puisque j’ai conclu que l’appelante était engagée à titre d’employée pendant toute la période en question.
+[15] J’aimerais faire certaines remarques additionnelles à l’intention des parties; je crois que mes remarques sont tout aussi importantes, sinon plus importantes, que les motifs qui sont rendus et les conclusions qui sont tirées dans le présent appel.
+[16] Le Ministry of Children and Family Development n’était pas une partie à l’instance, mais il se peut bien que ce ministère soit en fait l’« employeur présumé » conformément au paragraphe 10(1) du Règlement sur la rémunération assurable et la perception des cotisations. Il semble que le ministère pourrait facilement être visé par le libellé de cette disposition et, dans l’affirmative, Mme Vigoren était peut‑être bien simplement l’intermédiaire par laquelle les fonds servant au paiement de la travailleuse étaient transmis. En général, Mme Vigoren avait simplement un rôle passif à l’égard des fournisseurs de services. Je me rends bien compte que le Manuel des politiques et procédures applicables aux programmes concernant l’autisme énonce, comme responsabilité parentale, la détermination de la question de savoir s’il existe une relation employeur‑employé avec le fournisseur de services. Toutefois, on ne m’a remis qu’une seule page du manuel renfermant cette section sans me fournir de preuve au sujet du manuel et de la mise en œuvre du programme. Je ne suis donc pas en mesure de tirer de conclusions si ce n’est pour faire remarquer que l’intimé avait peut‑être bien la responsabilité d’examiner cette possibilité. Cela n’aide pas Mme Vigoren à l’égard des retenues qu’elle doit verser pour la brève période de sept ou huit mois pour laquelle l’appelante présente une demande. Toutefois, si l’on envisage d’établir une nouvelle cotisation à l’égard de Mme Vigoren pour d’autres années, la question pourra bien être dans une certaine mesure pertinente et influer directement sur toute mesure qui sera par la suite prise par le ministre.
+[17] Je veux enfin adresser mes dernières remarques à l’appelante et à son représentant, M. Osborne. L’appelante, Mme Hookham, a eu gain de cause dans son appel, nonobstant la représentation assurée par son représentant. Elle aurait obtenu le même résultat sans l’aide du représentant.
+[18] Je puis uniquement supposer que l’attitude et le comportement prétentieux de M. Osborne, pendant toute la durée de l’audience qui a eu lieu devant la Cour, étaient directement attribuables au fait qu’il se trouvait dans un milieu étranger peu familier et qu’il ne possédait pas les compétences, les connaissances juridiques et l’expérience nécessaires pour y évoluer d’une façon appropriée.
+[19] Mme Hookham, vous avez eu gain de cause dans votre appel, mais il n’y a pas vraiment de partie gagnante aujourd’hui. Le présent appel aura peut‑être pour Mme Vigoren de profondes conséquences, en plus des obligations financières, à l’égard de la période visée par l’appel. Mme Vigoren doit maintenant songer aux mesures qu’elle prendra à l’avenir à l’égard des fournisseurs de services quant aux soins à administrer à Anna ainsi qu’aux problèmes additionnels auxquels elle sera exposée si elle fait l’objet de nouvelles cotisations pour d’autres années.
+Signé à Ottawa, Canada, ce 10e jour de juillet 2007.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 10e jour de septembre 2007
+D. Laberge, LL.L.
+RÉFÉRENCE : 2007CCI373
+No DU DOSSIER DE LA COUR : 2006-2111(EI)
+INTITULÉ : Darlene Jennifer Hookham et
+Le ministre du Revenu national et Christel Vigoren
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 12 juin 2007
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 15 juin 2007
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Albert M. Osborne
+Avocat de l’intimé :
+Pour l’intervenante :
+Me Max Matas
+L’intervenante elle-même
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,129 @@
+Title: Thompson Lash v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26101/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-291-26101-thompson-lash-v-m-n-r-fr.md
+Document type: case_law
+Last modified: 2004-04-23
+
+# Thompson Lash v. M.N.R.
+
+- Citation: 2004 CCI 291
+- Decision date: 2004-04-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4162, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thompson Lash v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-23
+Référence neutre
+2004 CCI 291
+Numéro de dossier
+2003-3946(EI)
+Juges et Officiers taxateurs
+Norris Weisman
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-3946(EI)
+ENTRE :
+PAULA THOMPSON LASH,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+BEACON MARINE SECURITY LIMITED,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 25 mars 2004 à Toronto (Ontario)
+Devant : L'honorable juge suppléant N. Weisman
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocats de l'intimé :
+Me Donna Dorosh
+Me Bari Crackower
+Représentante de l'intervenante :
+Marion Lash
+_______________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision du ministre est annulée selon les motifs du jugement ci-joints.
+Signé à Toronto (Ontario) ce 23e jour d'avril 2004.
+« N. Weisman »
+Juge suppléant Weisman
+Traduction certifiée conforme
+ce 30e jour de juillet 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2004CCI291
+Date : 20040423
+Dossier : 2003-3946(EI)
+ENTRE :
+PAULA THOMPSON LASH,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+BEACON MARINE SECURITY LIMITED,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Weisman
+[1] L'appelante Paula Thompson Lash possède un grand talent dans le domaine de la commercialisation et des communications. Elle a été directrice de la commercialisation et des communications chez Bell Expressvu, où elle gagnait un salaire de 100 000 $ par an. Elle a démissionné de ses fonctions et a pris un emploi semblable auprès de Art Vault Limited, une société de vente en ligne d'oeuvres d'art au détail qui lui offrait un salaire annuel de 120 000 $, plus des options d'achat d'actions.
+[2] Son époux, David Lash, est aussi un homme de talent. Son expertise réside dans l'électronique maritime. Il a inventé un dispositif sans fil permettant le contrôle et la surveillance des navires qui sont en mer. La compagnie Beacon Wireless Solutions Inc. ( « Beacon » ) a été constituée en personne morale dans le but de développer et de commercialiser ce produit. Beacon est la propriétaire unique de la compagnie intervenante (la compagnie « payeuse » ) dont elle détient le contrôle. Toutes les actions de Beacon émises et en circulation appartiennent à la famille Lash.
+[3] En octobre 2000, l'appelante a été invitée à travailler dans cette nouvelle entreprise en qualité de vice-présidente de la commercialisation et des communications. Il semblait que son expertise était absolument essentielle pour le développement de l'entreprise. Elle était enthousiaste d'avoir la chance de jouer un rôle important dans le développement d'un nouveau produit de haute technologie prometteur. Elle a accepté le poste à un salaire annuel de 75 000 $, plus 4 p. 100 des actions communes de Beacon. Ce salaire représentait la rémunération maximale que la compagnie payeuse pouvait lui offrir.
+[4] Malheureusement, au printemps 2001, le secteur des industries technologiques et la compagnie ont dû faire face à de grandes difficultés. En raison de problèmes de liquidités, au cours des quatre premiers mois de l'année 2001 l'appelante n'a reçu que 24 519 $ pour ses services. Puis, elle n'a rien reçu jusqu'en août 2002, soit pendant une période de quinze mois. La compagnie a reçu un crédit d'impôt en décembre 2002 et lui a versé une somme forfaitaire de 12 000 $. Entre le 20 janvier 2000 et le 5 mars de la même année, l'appelante a reçu un salaire de 1 500 $ toutes les deux semaines.
+[5] En mars 2003, l'appelante a été hospitalisée en raison d'une grossesse difficile qui s'est terminée par une hystérectomie et une immobilisation totale pendant une période de trois mois. Par la suite, elle a quitté son emploi auprès de la compagnie payeuse pour élever son nouveau-né. La compagnie s'est maintenue à flot de son mieux sans ses services, mais elle n'a guère eu de succès jusqu'à présent.
+[6] L'appelante a demandé des prestations d'invalidité et de maternité, mais elle lui furent refusées en raison de l'existence d'un lien de dépendance entre elle et son employeur aux termes de la Loi sur l'assurance-emploi, (la « Loi » )[1].
+[7] À cet égard, la Loi prévoit ainsi :
+5(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+5(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+[8] La Loi de l'impôt sur le revenu[2] prévoit ainsi :
+Article 251. Lien de dépendance
+(1) Pour l'application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+(2) Définition de « personnes liées »
+Pour l'application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage, ou de l'adoption;
+b) une société et :
+[...]
+(ii) une personne qui est membre d'un groupe lié qui contrôle la société,
+[...]
+c) deux sociétés :
+(i) si elles sont contrôlées par la même personne ou le même groupe de personnes,
+[...]
+[9] Puisque l'appelante était liée avec son employeur, elle était réputée avoir un lien de dépendance avec son employeur. Cette présomption est irréfragable[3].
+[10] Dans ces circonstances, elle ne pouvait qu'invoquer l'application de l'alinéa 5(3)b) de la Loi qui prévoit ainsi :
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[11] L'intimé a refusé d'exercer son pouvoir discrétionnaire en faveur de l'appelante et cette dernière a porté cette décision en appel.
+[12] La Loi exige que je fasse preuve de déférence envers la cotisation initiale du ministre et ne me permet pas de substituer mon opinion à celle du ministre en l'absence de faits nouveaux ou de preuve que les faits connus ont été mal compris[4]. La Cour doit aussi confirmer la véracité des faits inférés ou utilisés par le ministre et s'assurer que ces faits ont été appréciés correctement dans le contexte où ils se sont produits. Puis, la Cour doit décider si la conclusion que le ministre estimait « convaincante » semble encore objectivement raisonnable[5].
+[13] La Cour d'appel fédérale nous rappelle aussi que la raison pour laquelle l'emploi entre personnes liées est exclu du régime d'assurance-emploi est qu'il est difficile de se fier aux déclarations de parties intéressées et qu'il existe des possibilités considérables que des gens ainsi liés inventent des emplois ou offrent des emplois dotés de conditions de travail irréalistes. L'alinéa 5(3)b) de la Loi prévoit une exception permettant d'exclure de la sanction les cas où la crainte d'abus n'a pas de raison d'être[6].
+[14] Dans le cas dont je suis saisi, il est clair qu'il n'y a aucune crainte d'abus. L'appelante a été sérieusement frappée d'incapacité et son expertise était absolument essentielle au bon développement de l'entreprise.
+[15] Dans l'arrêt Légaré, il a été clairement expliqué et prouvé que les actionnaires avaient accepté une baisse de salaire afin de contribuer à la stabilité financière et au développement de leur entreprise. Voilà exactement comment l'appelante, et toute la famille Lash, ont agi en l'espèce.
+[16] En outre, il n'y a pas de preuve que les conditions d'emploi de l'appelante aient été plus favorables qu'elles ne l'auraient été pour des personnes n'ayant aucun lien de dépendance avec la compagnie payeuse [7].
+[17] De ce point de vue, la décision négative du ministre semble, objectivement, déraisonnable. Selon la preuve dont je suis saisi, je conclus que les parties auraient conclu un contrat de travail substantiellement semblable avec une personne avec qui elles n'avaient pas de lien de dépendance.
+[18] En conclusion, puisque l'appelante s'est déchargée du fardeau de la preuve, l'appel sera accueilli et la décision du ministre est annulée.
+Signé à Toronto (Ontario) ce 23e jour d'avril 2004.
+« N. Weisman »
+Juge suppléant Weisman
+Traduction certifiée conforme
+ce 30e jour de juillet 2004.
+Ingrid B. Miranda, traductrice
+[1] L.C. 1996, ch. 23.
+[2] L.R.C. (1985) (5e suppl.), ch. 1, dans sa version modifiée.
+[3] Kushnir v. M.N.R. [1985] 1 C.T.C. 2301 (39 DTC 280) (C.C.I.); Simard c. M.R.N. [1994] A.C.I. no 1202 (C.C.I.); Thivierge c. M.R.N.[1994] A.C.I. no 876 (C.C.I.).
+[4] Pérusse c. Canada (ministre du Revenu national - M.R.N.) [2001] A.C.F. no 310 (C.A.F.).
+[5] Légaré c. Canada (ministre du Revenu national - M.R.N.) [1999] A.C.F. no 878 (C.A.F.).
+[6] Légaré, précité.
+[7] Théberge c. Canada (ministre du Revenu national - M.R.N.) [2002] A.C.F. no 464 (C.A.F.).

@@ -1,0 +1,123 @@
+Title: Gignac v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25074/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-336-25074-gignac-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-05-13
+
+# Gignac v. The Queen
+
+- Citation: 2003 CCI 336
+- Decision date: 2003-05-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2484, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gignac v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-13
+Référence neutre
+2003 CCI 336
+Numéro de dossier
+2002-547(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-547(IT)I
+ENTRE :
+BRAD GIGNAC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_______________________________________________________________
+Appel entendu le 6 mai 2003 à Prince George (Colombie-Britannique)
+Par : L'honorable juge E. A. Bowie
+Comparutions
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Victor Caux
+_______________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations fiscales établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997, 1998 et 1999 sont rejetés.
+Signé à Ottawa, Canada, ce 13e jour de mai 2003.
+« E. A. Bowie »
+J.C.C.I.
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Liette Girard, traductrice
+Référence : 2003CCI336
+Date : 20030513
+Dossier : 2002-547(IT)I
+ENTRE :
+BRAD GIGNAC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] M. Gignac interjette appel à l'encontre des cotisations fiscales des années 1997, 1998 et 1999. Les appels ont été entendus en vertu de la procédure informelle de la Cour à Prince George, en Colombie-Britannique. La question en litige dans le cadre de sa demande est celle de savoir s'il a le droit de déduire des frais d'automobile en vertu des dispositions de l'alinéa 8(1)h.1) de la Loi de l'impôt sur le revenu (la Loi). Les frais se rapportent à son déplacement entre son domicile de Prince George et différentes parties de la province où il travaillait ainsi qu'à son déplacement dans ces endroits pendant les périodes où il y travaillait.
+[2] M. Gignac est un mécanicien de locomotive. Il est devenu qualifié en 1996 et il a immédiatement commencé à travailler pour BC Rail Ltd. Sa résidence de service était, et est, Prince George. M. Gignac a témoigné quant à la nature de son travail pour BC Rail et aux conditions de son emploi relativement aux endroits où il devait se présenter, de temps à autre, pour le travail. Il a également déposé en preuve, sans objection, certains documents. Parmi eux se trouvaient une copie de la convention collective conclue entre BC Rail et le syndicat représentant les mécaniciens de cette dernière, une lettre d'un dirigeant de BC Rail et un formulaire T2200 pour chacune des années en litige. Les derniers documents visent à établir que l'appelant devait travailler loin de sa résidence de service de temps à autre durant les années en litige et qu'il devait utiliser son automobile sans être remboursé ni obtenir d'allocation à ces occasions. Peu d'éléments de la preuve sont clairs. Cependant, il est évident que cette lettre et les formulaires T2200 ne sont pas précis. L'appelant a fait valoir dans son Avis d'appel, ce qu'a reconnu l'intimée, que BC Rail lui a versé certaines allocations de déplacement au taux de 0,34 $ par kilomètre. Pour les années en litige, on obtient les montants suivants :
+1997 - 1 833,12 $
+1998 - 1 771,40 $
+1999 - 1 096,84 $
+[3] Selon le témoignage de l'appelant, ces montants lui ont été payés lorsqu'il se déplaçait sur son temps en vertu de l'article 5 de la convention collective en s'éloignant de Prince George. Le paragraphe 5.9 est ainsi rédigé :
+[traduction]
+Un mécanicien se déplaçant sur son temps alors qu'il est payé et autorisé à utiliser sa propre automobile sera compensé pour le millage sur la même base que celle actuellement établie à l'égard de tous les employés.
+D'autres paragraphes de l'article 5 prévoient que les mécaniciens sont payés pour la période passée en déplacement sur leur temps. Le déplacement sur le temps de l'employé, cependant, et sa compensation, ne s'appliquent que lorsque l'employé est tenu par l'employeur de se présenter au travail à un endroit autre que son lieu normal de travail.
+[4] La demande de frais de M. Gignac est fondée sur la proposition selon laquelle il était souvent tenu de travailler loin de Prince George parce que, comme nouveau mécanicien, il avait peu d'ancienneté et qu'il faisait souvent l'objet de licenciements à Prince George. À ces occasions, il pouvait travailler ailleurs, mais il devait se déplacer à ces endroits à ses propres frais. Il a donc demandé le total de ses frais de déplacement pour chaque année, moins les allocations qu'il recevait, à titre de déductions en vertu de l'alinéa 8(1)h.1) de la façon suivante :
+1997
+1998
+1999
+Total des frais
+2 545,12 $
+9 824,15 $
+14 347,05 $
+Moins : les allocations à être incluses dans le revenu en vertu du paragraphe 6(1)
+1 833,12 $
+1 771,40 $
+1 096,84 $
+Déduction demandée
+712,00 $
+8 052,25 $
+13 250,21 $
+[5] Il ne ressort pas clairement, tant du témoignage de M. Gignac que de la convention collective, que, en dehors des moments où il se déplaçait sur son temps et qu'il recevait une allocation, M. Gignac se rendait au travail à un endroit éloigné de Prince George parce que BC Rail l'y obligeait ou parce qu'il s'y rendait de son propre gré parce qu'il pouvait y trouver du travail et qu'il était préférable de se déplacer plutôt que d'être licencié pour manque de travail à Prince George. Pour les raisons qui suivent, je ne crois pas qu'il est nécessaire de répondre à cette question. Cependant, s'il était nécessaire de le faire, je devrais conclure que le témoignage de M. Gignac n'a pas permis d'établir quelle partie précise du déplacement pouvait être attribuée aux affectations que BC Rail lui confiait, par opposition aux déplacements qu'il choisissait d'effectuer afin d'éviter d'être licencié.
+[6] L'appelant présente sa demande de déduction des frais de déplacement par automobile en vertu de l'alinéa 8(1)h.1) de la LIR.
+8(1) Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant :
+a) [...]
+h.1) dans le cas où le contribuable, au cours de l'année, a été habituellement tenu d'accomplir les fonctions de son emploi ailleurs qu'au lieu d'affaires de son employeur ou à différents endroits et a été tenu, aux termes de son contrat d'emploi, d'acquitter les frais afférents à un véhicule à moteur qu'il a engagés dans l'accomplissement des fonctions de sa charge ou de son emploi, les sommes qu'il a dépensées au cours de l'année au titre des frais afférents à un véhicule à moteur pour se déplacer dans l'exercice des fonctions de son emploi, sauf s'il a, selon le cas :
+(i) reçu une allocation pour frais afférents à un véhicule à moteur qui, par l'effet de l'alinéa 6(1)b), n'est pas incluse dans le calcul de son revenu pour l'année,
+(ii) demandé une déduction pour l'année en application de l'alinéa f);
+Comme le juge Rip l'a fait remarquer dans l'affaire O'Neil c. La Reine[1], il existe quatre conditions devant être réunies pour qu'un contribuable soit admissible à une déduction en vertu de cette disposition :
+[16] La question que je dois trancher en l'espèce n'est pas celle de savoir si l'usage de l'automobile de l'appelant est « reliée au travail » . Je dois déterminer si l'appelant a engagé les frais reliés à l'usage d'une automobile dans l'exercice des fonctions de son emploi. L'alinéa 8(1)h.1) énonce les quatre conditions que le contribuable doit remplir pour déduire les frais reliés à l'usage d'une automobile :
+(i) il a été habituellement tenu d'accomplir les fonctions de son emploi ailleurs qu'au lieu d'affaires de son employeur ou à différents endroits;
+(ii) il a été tenu, aux termes de son contrat d'emploi, d'acquitter les frais relatifs à un véhicule à moteur qu'il a engagés;
+(iii) les frais ont été engagés dans l'accomplissement des fonctions de son emploi;
+(iv) si les frais ont été engagés dans l'accomplissement des fonctions de l'emploi, il n'a pas reçu une allocation non imposable de l'employeur pour frais relatifs à un véhicule à moteur aux termes de l'alinéa 6(1)b) de la Loi.
+[7] Comme je l'ai dit, la preuve n'a pas démontré que des frais d'automobile particuliers engagés par l'appelant peuvent être appliqués à une exigence imposée par l'employeur pour travailler ailleurs qu'à Prince George. J'ai examiné la convention collective et j'ai conclu que rien n'oblige un mécanicien à utiliser une automobile et à payer des frais à cet égard. En réalité, le paragraphe 23.4.4 prévoit ce qui suit :
+[traduction]
+Les employés qui sont autorisés à utiliser une automobile privée lorsqu'ils sont en service pour Chemin de fer seront compensés conformément à la politique actuelle de Chemin de fer.
+C'est en vertu de cet article, ainsi que du paragraphe 5.9, que M. Gignac a reçu certaines allocations pour l'utilisation de son véhicule.
+[8] Selon la troisième exigence, les frais doivent être engagés dans le cadre des fonctions de l'emploi. La preuve ne démontre tout simplement pas que cette exigence a été respectée. Il n'a pas été montré que le déplacement de M. Gignac vers des endroits autres que Prince George pour se présenter au travail constituait une fonction d'emploi. Selon la preuve, je conclus qu'à ces occasions, lorsque son déplacement était exigé par l'employeur et qu'il constituait une fonction d'emploi, il recevait les allocations de déplacement sur son temps, que j'ai mentionnées, en vertu de la convention collective. Les autres déplacements que M. Gignac a entrepris n'étaient que des déplacements entre son domicile et l'endroit où il travaillait de temps à autre, et ils étaient donc assujettis à la règle établie depuis longtemps selon laquelle ces déplacements représentaient des frais personnels : voir Ricketts v. Colquhoun[2], Hogg c. La Reine[3], O'Neil c. La Reine[4].
+[9] Les appels sont donc rejetés.
+Signé à Ottawa, Canada, ce 13e jour de mai 2003.
+« E. A. Bowie »
+J.C.C.I.
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Liette Girard, traductrice
+[1] C.C.I., no 1999-3989(IT)I, 23 août 2000, au paragraphe 16 (2000 DTC 2409).
+[2] [1926] A.C. 1.
+[3] C.C.I., no 1999-3974(IT)I, 14 novembre 2000 ([2001] 1 C.T.C. 2356).
+[4] Précité, note 1.

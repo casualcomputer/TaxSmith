@@ -1,0 +1,145 @@
+---
+title: "Paper Mill Recycling Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25214/index.do"
+last_modified: "2004-09-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 624"
+citation2: ""
+neutral_citation: "2004 TCC 624"
+decision_date: "2004-09-21"
+language: "en"
+item_id: "25214"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2574
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:01:12.780000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8840c3eec8be5681e1701b9ec92592e0b1b8ea4efe0a94d33095b6f697ed2153"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Paper Mill Recycling Inc. v. The Queen
+
+- Citation: 2004 TCC 624
+- Decision date: 2004-09-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2574, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paper Mill Recycling Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-21
+Neutral citation
+2004 TCC 624
+File numbers
+2003-4544(GST)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2004TCC624
+Date: 20040921
+Docket: 2003-4544(GST)I
+BETWEEN:
+PAPER MILL RECYCLING INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Counsel for the Appellant: Gordon D. Beck
+Counsel for the Respondent: John-Paul Hargrove
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Edmonton, Alberta, on June 22, 2004)
+Miller J.
+[1] Paper Mill Recycling Inc. (Paper Mill) appeals the assessment from the Minister of National Revenue (the Minister) of its good and services tax (GST) liability in regards to two issues. First, the assessment of Paper Mill as a purchaser of supplies for GST of $23,492.68 pursuant to paragraph 296(1)(b) of the Excise Tax Act. Second, the assessment of Paper Mill for $5,420.27 representing a discrepancy between net tax according to Paper Mill's monthly filings and net tax calculated by Canada Revenue Agency (CRA) based on Paper Mill's books and records.
+[2] The facts are as follows: On September 16, 1998, the directors of Paper Mill passed a resolution to make a Notice of Intention to file a proposal pursuant to the Bankruptcy and Insolvency Act. On September 18, 1998, Paper Mill filed such a Notice with the Superintendent of Bankruptcies attaching a list of creditors with debts of approximately $884,838.
+[3] On March 15, 1999, the Trustee, Paul Pope of Deloitte and Touche Inc., reported to the Superintendent those same liabilities of Paper Mill of approximately $884,838 as at September 18, 1998. The Trustee gave the opinion that a proposal by Paper Mill was advantageous to the creditors as the creditors would receive nothing in the event of a bankruptcy. The proposal, dated January 15, 1999, offered payments to creditors of $20,000 from proceeds of the sale of certain assets plus $90,000 in 36monthly payments of $2,500 per month.
+[4] At the first meeting of creditors on February 4, 1999, the proposal was approved. A representative of CRA attended that meeting. The Court of Queen's Bench of Alberta approved the proposal by Order dated March 23, 1999. The Deloitte and Touche Trustee prepared a claims register in April 1999, naming creditors who filed claims totalling an amount of $377,637 and admitting claims in the amount of $309,729.
+[5] CRA had claimed approximately $111,000 and had approximately $45,000 worth of claims admitted in connection with amounts owing under the Income Tax Act. The trade creditors' claims included GST.
+[6] On March 5, 2001, BDO Dunwoody Limited filed an election on behalf of Paper Mill to have the provisions of section 80 of the Income Tax Act apply in connection with a net debt forgiveness of $405,489. Sometime thereafter, CRA conducted a GST audit concluding with a Notice of Reassessment dated January 17, 2003. It is important to note in their cover letter that CRA stated the following:[1]
+The assessment resulting from the forgiveness of debt is in accordance with paragraph 296(1)(b) of the ETA. This is an assessment for the tax payable, which was not paid to suppliers. The assessment is in accordance with CCRA'S Policy 112R.
+In its attached "Statement of Audit Adjustments" CRA indicated that $13,156 and $10,33 (the $23,492 at issue) was "GST on Forgiveness of Debt".
+[7] In going through the auditor's working papers, it appears that the GST on forgiveness of debt was calculated on the basis of seven, one hundred and sevenths of a taxable amount of $359,102. This figure appears to have been derived from something called a vendor balance summary of September 30, 2000; a document whose origin was not established and on which I attach little weight.
+[8] I consequently, likewise attach little weight to the veracity of the auditor's determination of a debt forgiveness of $359,102. The auditor did not testify. It appears, though there is only documentary evidence, that the auditor attempted to reconcile her figure for forgiveness of debt to the $405,000 amount raised in BDO Dunwoody's letter.
+[9] I am satisfied there was a forgiveness of some debt and that the most reliable figure was BDO Dunwoody's letter to CRA indicating $405,000, though no one from BDO Dunwoody confirmed that figure either. What is more pertinent, however, in connection with the forgiveness of debt is the timing of when those debts arose. I find that the debts arose in connection with GST invoiced to Paper Mill prior to September 18, 1998, the time of the filing of the Notice of Intention; that is the date at which Paper Mill's debts were listed, both for purposes of the Notice of Intention and for the Trustee's report. Those are the debts in issue. Those are the debts that have been forgiven. Though there is some confusion as to the amount of the debt forgiven, as the documentary evidence is simply not definitive, on balance I am satisfied that whatever the correct amount might be, it relates to the debts arising in pre-September 18, 1998 period.
+[10] Paper Mill filed its monthly GST reports for the period December 1998 to January 2002. The auditor, upon review of Paper Mill's books, concluded that Paper Mill had underreported its net tax by $5,420. The Respondent in its reply assumed the following:
+16(s) for the reporting periods ending between December 1, 1998 and September 30, 1999, the Appellant did not report -$5,148 of the amounts that had been correctly reported as net tax in its books and records;
+...
+16(v) for the reporting periods ending between October 1, 1999 and September 30, 2000, the Appellant did not report $8,860.36 of the amounts that had been correctly recorded as net tax in its books and records;
+...
+16(y) for the reporting periods ending between October 1, 2001 and January 31, 2002, the Appellant did not report $1,708 of the amounts that had been correctly recorded as tax collected/collectible in its books and records.
+If you net those three figures together you get to the $5,420 net tax amount assumed by the Respondent. The Appellant's external accountant testified that the company's books were in very poor shape and were not accurate in reflecting the company's financial position.
+[11] This case highlights a peculiarity in the Excise Tax Act which has previously been identified as troublesome. I refer to the appropriate application of paragraph 296(1)(b), and in particular, the comments made in the case of Carlson & Associates Advertising Ltd. v. R.[2] I will return to these shortly. There are twoissues in this appeal. First, has the Respondent correctly relied on paragraph 296(1)(b) to assess Paper Mill for a GST liability? Second, has the Respondent correctly assessed Paper Mill for underreported net tax for the relevant period?
+[12] First, the paragraph 296(1)(b) matter. Paragraph 296(1)(b) reads:
+296(1) The Minister may assess
+(a) ...
+(b) any tax payable by a person under Division II, IV or IV.I,
+There are twoways in which to view the Minister's assessment of $23,492. The first is that it is a tax liability arising on the forgiveness of debt. The Minister's assessment of January 17, 2003 is sufficiently ambiguous to consider that interpretation. Certainly, the statement of audit adjustment states explicitly "GST on Forgiveness of Debt".
+[13] In the Respondent's Reply it is assumed as a fact that the tax of $23,492 became payable after January 17, 1999, which one could interpret as implying that the tax became payable as a result of the forgiveness of debt, as it was not until February 1999 that the creditors approved the proposal and March that the Court likewise approved the proposal. Not until then, therefore, was a forgiveness of debt crystallized. So, in effect, the Respondent's position is the tax liability arises on the forgiveness of debt; this is an unacceptable proposition.
+[14] I do accept, based on Carlson, that the Respondent can assess tax payable against a purchaser pursuant to paragraph 296(1)(b). The tax payable must, however, arise pursuant to Division II, IV or IV.I. Division IV and IV.I have no application here, so the tax must arise pursuant to Division II. There is nothing in Division II imposing a tax on the forgiveness of debt. Such liability just does not exist. The Respondent referred me to Policy Statement P112R. This is a CRA policy as to when to impose paragraph 296(1)(b) and assess a purchaser who is insolvent or bankrupt in respect of GST not paid to a supplier. In certain circumstances, that may, indeed, be the right and only recourse available to CRA, though I would suggest one to be exercised prudently and delicately given the obvious outcry of double taxation that an inappropriate use would evoke. But this Policy in no way supports a position of a tax liability arising on a forgiveness of debt. The tax liability in the case of non-payment by a purchaser arises upon an amount for goods and services becoming payable, in most situations, at the time of the rendering of an invoice. An approach claiming liability attaches to a debt forgiveness is not supportable by the legislation.
+[15] The second way to interpret the Respondent's assessment is that the Minister is really assessing Paper Mill for GST that it never paid to its trade creditors. This is a more plausible and defensible approach. The GST liability is found in Division II in what Mr. Beck called the motherhood section, section 165. In effect, a recipient of a supply shall pay tax. Paper Mill was a recipient of a supply. The Minister can assess under paragraph 296(1)(b). I would like to say it is that simple but it is not. The interplay of paragraphs 296(1)(a) and 296(1)(b), and the obligation of both supplier and recipient in a financial crisis situation, such as a proposal or assignment, are anything but simple.
+[16] In this particular case, however, the answer is not complicated as the Minister is simply too late. The liability in issue is the tax liability arising from invoices which, I find as a fact, must have been rendered prior to September 18, 1998. If the Minister wanted to rely on paragraph 296(1)(b) to assess the Appellant, he must have done so prior to September 18, 2002, due to the workings of paragraph 298(1)(c) which reads: "an assessment of a person shall not be made under section 296 in the case of an assessment of tax payable by the person under Division II, other than tax referred to in paragraph (b), more than fouryears after the tax became payable". The Minister assessed in January 2003. The Minister is out of time.
+[17] I need not deal with the Appellant's argument that the Minister's actions fly in the face of the spirit or perhaps even the wording itself of the Bankruptcy and Insolvency Act other than to say, it is a strong argument. I allow Paper Mill's appeal in connection with the assessment of $23,492.
+[18] I now turn to the issue of the $5,420 discrepancy between the Appellant's monthly filings and the auditor's finding of the net tax owing for the relevant period. It is for the Appellant to demolish the Respondent's assumption that the net tax was underreported by $5,420. The Appellant relies mainly on the testimony of the company's accountant, Ms. Beauchemin, that the company's books were in poor shape, so how could I accept the auditor's reliance on those books compared to the regular monthly filings, especially if those filings took place while the company's cash flow was being monitored by the Trustee. There is no evidence from the Trustee involved at the time that the GST filings were monitored. The individual from Deloitte and Touche who testified was not personally involved with the file. Ms. Beauchemin gave no evidence of any review of GST filings. No officer or bookkeeper of the company testified as to the procedure in making the monthly GST filings.
+[19] All I know is that Paper Mill filed monthly and that their books were in poor shape. On that basis, the Appellant's counsel urges me to find, on balance, the Minister's assumption has been demolished. It is not enough for me to make such a finding. While I have some reservations as to the auditor's approach vis-à-vis the forgiveness of debt issue, I have nothing on which to conclude the auditor was mistaken in finding a $5,420 discrepancy. The Appellant has not been successful in demolishing the Crown's assumption.
+[20] In summary, I allow the appeal and refer the matter back to the Minister to reduce the amount of the assessment by $23,492.68.
+Signed at Ottawa, Canada, this 21st day of September, 2004.
+"Campbell J. Miller"
+Miller J.
+CITATION:
+2004TCC624
+COURT FILE NO.:
+2003-4544(GST)I
+STYLE OF CAUSE:
+Paper Mill Recycling Inc.
+and Her Majesty the Queen
+PLACE OF HEARING
+Edmonton, Alberta
+DATE OF HEARING
+June 21, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT
+June 28, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Gordon D. Beck
+Counsel for the Respondent:
+John-Paul Hargrove
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Gordon D. Beck
+Firm:
+Field Atkinson Perraton
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-6.
+[2] [1997] G.S.T.C. 32.

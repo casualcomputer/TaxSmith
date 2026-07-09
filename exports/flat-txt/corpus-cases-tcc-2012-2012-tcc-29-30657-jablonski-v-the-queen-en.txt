@@ -1,0 +1,134 @@
+Title: Jablonski v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30657/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-29-30657-jablonski-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-01-20
+
+# Jablonski v. The Queen
+
+- Citation: 2012 TCC 29
+- Decision date: 2012-01-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7215, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jablonski v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-01-20
+Neutral citation
+2012 TCC 29
+File numbers
+2011-2681(IT)APP
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-2681(IT)APP
+BETWEEN:
+KARL JABLONSKI,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on December 8, 2011 at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Applicant:
+John Jablonski
+Counsel for the Respondent:
+Craig Maw
+____________________________________________________________________
+ORDER
+Upon an application for an Order of this Court to further extend the time in which to file a Notice of Objection for the 2005 taxation year;
+The application is dismissed.
+Signed at Ottawa, Canada, this 20th day of January 2012.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2012TCC29
+Date: 20120120
+Docket: 2011-2681(IT)APP
+BETWEEN:
+KARL JABLONSKI,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+V.A. Miller J.
+[1] This is an application by Karl Jablonski for an Order to extend the time within which he may serve a Notice of Objection for his 2005 taxation year.
+[2] The Applicant was represented at the hearing by his son John Jablonski and both he and his son testified at the hearing.
+[3] The application was opposed by the Respondent on the basis that it was filed with this Court beyond the one year and 90 days allowed by the Income Tax Act (the “Act”). In support of her position, the Respondent filed the affidavit of Bruce Costigan, an officer in the Toronto Litigation Office of the Canada Revenue Agency (“CRA”). Mr. Costigan also testified at the hearing.
+[4] According to Mr. Costigan, the Applicant’s 2005 taxation year was reassessed on July 31, 2008. The time limit for serving a Notice of Objection on the Minister of National Revenue (the “Minister”) was October 29, 2008. An application for extension of time was required to be made to the Minister no later than October 29, 2009.
+[5] It was the Applicant’s position that he did not receive the Notice of Reassessment for his 2005 taxation year.
+[6] The relevant sections of the Act are subparagraph 165(1)(a)(ii), section 166.1 and subsections 166.2(1) and (5). They read, in part:
+165. (1) Objections to assessment -- A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a testamentary trust, on or before the later of
+(ii) the day that is 90 days after the day of mailing of the notice of assessment;
+166.2 (1) Extension of time [to object] by Tax Court -- A taxpayer who has made an application under subsection 166.1[(1)] may apply to the Tax Court of Canada to have the application granted after either
+(a) the Minister has refused the application, or
+(b) 90 days have elapsed after service of the application under subsection 166.1(1) and the Minister has not notified the taxpayer of the Minister's decision,
+but no application under this section may be made after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer.
+(5) When application to be granted -- No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+History
+[7] In 2005, the Applicant claimed a charitable donation of $30,000 from his participation in the Universal Donation Program (“Universal”). The donation consisted of $6,000 in cash and $24,000 in kind.
+[8] The Minister initially assessed the Applicant for 2005 by notice dated April 6, 2006.
+[9] By letter dated September 7, 2006, the CRA informed the Applicant that it was auditing Universal and it requested that the Applicant complete and return the questionnaire which was attached to the letter. The completed questionnaire was returned on or about September 30, 2006.
+[10] According to Mr. Costigan, in July 2007, the Applicant requested relief from penalties and interest for the 2005 year. The Applicant was informed by letter dated September 12, 2007 that his request could not be considered until the conclusion of the audit on Universal.
+[11] A proposal letter dated October 22, 2007 was sent to the Applicant to inform him that the audit on Universal was complete. It was proposed that the charitable donation credits claimed on his 2005 tax return would be disallowed.
+[12] In a letter dated March 6, 2008, the Minister informed the Applicant that the charitable donation credits which he had claimed on his 2005 tax return would be disallowed; that he could object to the reassessment within 90 days after the date of the reassessment; and, that his request for the cancellation of interest and penalties was refused.
+[13] I gather from the documents presented at the hearing that Universal had given the Applicant a form entitled Notice of Objection. The Applicant dated this form March 28, 2008 and hand delivered it to the CRA Windsor Tax Services Office on April 11, 2008.
+[14] The CRA sent a letter dated April 29, 2008 to the Applicant wherein it informed him that his objection filed on April 11, 2008 was not valid because it was an objection to a decision to reassess his tax return and that a notice of reassessment had not yet been issued. The letter further informed the Applicant that he could file a notice of objection once the notice of reassessment was issued. It gave the time limits for filing a notice of objection.
+[15] The Applicant’s 2005 taxation year was reassessed by notice dated July 31, 2008. The charitable donation which he had claimed was reduced to nil on the basis that there was no gift within the meaning of the Income Tax Act.
+[16] In letters dated October 23, 2008 and February 8, 2010, the CRA informed the Applicant that he continued to be liable for an outstanding income tax debt arising from the 2005 taxation year.
+[17] All correspondence to the Applicant from the CRA was addressed to him at 2500 Poplar Crescent, Mississauga, Ontario (the “Poplar Crescent address”). This address had been given to CRA by the Applicant on his 2005 income tax return.
+[18] The Applicant agreed that the Poplar Crescent address was correct and that he has lived at this address for 25 years.
+[19] The Applicant stated that he did not receive the notice of reassessment and that he had no recollection of receiving any of the letters from the CRA.
+[20] It was his evidence that if he had received the notice of reassessment he would have called his son to advise him with respect to the notice.
+[21] John Jablonski reiterated his father’s evidence. He stated that when the Applicant received mail which he did not understand, the Applicant called him to look at the documents and to give advice about the documents. John Jablonski stated that his advice was sought only with respect to the letter dated April 29, 2008. However, on cross-examination, he stated that he didn’t recall discussing the April 29, 2008 letter with his father.
+[22] There was no evidence that would allow me to conclude that the notice of reassessment could have been sent to an incorrect address.
+[23] Mr. Costigan had charge of all material produced by the CRA with respect to the Applicant and the issue which was before the Court. He knew the CRA’s mailing practices and procedures and he testified to those practices and procedures as they related to the Applicant.
+[24] I am satisfied that the notice of reassessment dated July 31, 2008 was sent to the Applicant at the Poplar Crescent address.
+[25] Both the Applicant and his son testified that the Applicant was ill and that he had the early stages of dementia.
+[26] Included in the application for extension of time was a copy of a letter dated July 31, 2011 from George Skocylak, M.D. in which he stated that he has been the Applicant’s doctor for 32 years and that the Applicant “suffers from a host of medical problems”. Dr. Skocylak listed several medical conditions suffered by the Applicant and in the penultimate sentence he stated – “As well, he is beginning to display the first signs of age-related dementia”.
+[27] I note that none of these statements amount to proof that the Applicant had a mental incapacity in 2008 when the notice of reassessment was sent. Moreover, it is my view that the time limits in sections 165, 166.1 and 166.2 are not altered by the mental incapacity of a taxpayer.
+[28] Hershfield, J. recently stated the following in Gyimah v. The Queen, 2010 TCC 621:
+[37] Further, the Respondent answers the capacity argument by reliance on the well established law that time runs from the date of mailing. If receipt is irrelevant then capacity to act is irrelevant. The Act sets a rule that prevents objections and appeals to clog up the system forever regardless of the equities. If I cannot act because the post office fails to deliver an assessment, then my inability to act is no less excusable if I am unable to act because I am mentally unable to respond, even if I had received it.
+[38] Considering the authorities she cites, it is difficult for me to take issue with her. She cites Chu v. Canada[17] for example. In that case I wrote:
+18 However, with respect, the language of the subject provisions is absolutely, unambiguously clear. It does not suggest that receipt of the notice of assessment is relevant. Accordingly, the authorities have found, for example, that proof of failure of the postal service resulting in a non-receipt does not change the start date of the prescribed limitation period. This was confirmed by the Federal Court of Appeal in 2000, in Schafer v. Canada. Essentially, such decisions frustrate the application of the doctrine of discoverability. I believe my hands are tied.[18]
+[39] Respondent’s counsel seems to be on pretty safe ground then when the essence of her argument is that if receipt is irrelevant, what difference does the state of mind of the intended recipient make? If the receipt is rendered irrelevant by the statute, then understanding its content or being able to respond are equally irrelevant and this Court has no jurisdiction to re-write the legislation
+[29] It is unfortunate that the Applicant may be suffering from dementia.
+[30] In the circumstances of this case, no notice of objection was served on the Minister; no application for extension of time was made to the Minister as required by section 166.1; and, the application for extension of time to this Court was filed beyond the one year and ninety days allowed by the Act.
+[31] I do not have any discretion to extend the time for serving a Notice of Objection beyond the one year and 90 days.
+[32] For these reasons, the application is dismissed.
+Signed at Ottawa, Canada, this 20th day of January 2012.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2012TCC29
+COURT FILE NO.: 2011-2681(IT)APP
+STYLE OF CAUSE: KARL JABLONSKI AND
+THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: December 8, 2011
+REASONS FOR ORDER BY: The Honourable Justice Valerie Miller
+DATE OF ORDER: January 20, 2012
+APPEARANCES:
+Agent for the Applicant:
+John Jablonski
+Counsel for the Respondent:
+Craig Maw
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

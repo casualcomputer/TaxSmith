@@ -1,0 +1,183 @@
+Title: Harland c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29657/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-105-29657-harland-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-02-22
+
+# Harland c. La Reine
+
+- Citation: 2010 CCI 105
+- Decision date: 2010-02-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6225, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Harland c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-02-22
+Référence neutre
+2010 CCI 105
+Numéro de dossier
+2009-1608(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-1608(IT)I
+ENTRE :
+THOMAS E. HARLAND,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 8 décembre 2009 à
+Charlottetown (Île-du-Prince-Édouard)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentant de l’appelant :
+M. Cleve Myers
+Avocat de l’intimée :
+Me Devon E. Peavoy
+JUGEMENT
+L’appel relatif à la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année 2005 est accueilli et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, en tenant pour acquis qu’en 2005 l’appelant a reçu un dividende imposable d’un montant de 102 810 $. À tous autres égards, l’appel est rejeté.
+L’appel relatif à la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année 2006 est rejeté.
+Signé à Ottawa, Canada, ce 22e jour de février 2010.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 14e jour de mai 2010
+Claude Leclerc, traducteur
+Dossier : 2009-1609(IT)I
+ENTRE :
+HARLAND ASSOCIATES 02 INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 8 décembre 2009 à
+Charlottetown (Île-du-Prince-Édouard)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentant de l’appelante :
+Cleve Myers
+Avocat de l’intimée :
+Devon E. Peavoy
+JUGEMENT
+L’appel relatif aux nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2005 et 2006 est rejeté conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 22e jour de février 2010.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 14e jour de mai 2010
+Claude Leclerc, traducteur
+Référence : 2010CCI105
+Date : 20100222
+Dossier : 2009-1608(IT)I
+ENTRE :
+THOMAS E. HARLAND,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2009-1609(IT)I
+ENTRE :
+HARLAND ASSOCIATES 02 INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Les présents appels ont été entendus sur preuve commune. Les appelants ont interjeté appel de la nouvelle cotisation relative à leurs années d’imposition 2005 et 2006. Pour ce qui est de Harland Associates 02 Inc., la fin de l’année financière est le 28 février.
+[2] Les questions soulevées dans les actes de procédure étaient les suivantes :
+[TRADUCTION]
+THOMAS E. HARLAND (« Harland »)
+a) si des avantages d’un montant de 34 579 $ et de 23 675 $ ont été conférés à Harland par Harland Associates 02 Inc. en 2005 et en 2006, respectivement;
+b) si un dividende imposable d’un montant de 108 045 $ a été inclus à juste titre dans le revenu de Harland en 2005;
+c) si les pertes locatives – les dépenses associées à la résidence personnelle de Harland en 2005 et 2006 – ont été subies en vue de tirer un revenu d’une entreprise ou d’un bien;
+d) subsidiairement, si les pertes locatives ont bel et bien été subies dans le but de tirer un revenu d’une entreprise ou d’un bien, si les dépenses liées au mobilier, aux articles ménagers et aux rénovations étaient des dépenses en capital;
+e) si Harland est passible de pénalités pour faute lourde à l’égard des avantages conférés à un actionnaire.
+HARLAND ASSOCIATES 02 INC. (la « Société »)
+a) si un montant de 2 000 $ a été déclaré en trop dans le revenu de la Société en 2006;
+b) Si la Société est passible de pénalités pour faute lourde à l’égard des avantages conférés à un actionnaire.
+[3] Les appelants étaient représentés par Cleve Myers, comptable agréé. Au début de l’audience, M. Myers a informé le tribunal que les seules questions contestées étaient le calcul du dividende imposable inclus dans le revenu de Harland en 2005 et l’imposition des peines visées au paragraphe 163(2) pour Harland et la Société en 2005 et 2006. M. Myers a déclaré ce qui suit :
+[TRADUCTION]
+[…] Nous avons décidé dès le début de ne pas contester la nouvelle cotisation relative aux montants particuliers qui ont été refusés à titre de dépenses de la société et donc ajoutés au compte de M. Harland.
+Si nous n’avons pas poursuivi cet élément, ce n’est pas parce que nous acceptions la nouvelle cotisation. Il s’agissait d’une simple question de commodité. Du point de vue de M. Harland, il n’y aurait pas grand avantage à retirer du fait de dépenser un montant pour qu’une personne comme moi examine tout en détail.
+Il a juste pensé qu’il serait préférable de payer l’impôt sur cela, mais il a décidé de ne pas souscrire aux pénalités et c’est cela qu’il voulait poursuivre.
+Les dividendes
+[4] Dans sa déclaration de revenus pour l’année d’imposition 2005, Harland a déclaré avoir reçu un dividende imposable de 86 435,96 $. Au stade de la cotisation initiale, le ministre du Revenu national (le « ministre ») a reclassé ce montant dans la catégorie « Autres revenus ». Aucune explication pour ce changement n’a été donnée à Harland ou, quant à cela, au tribunal.
+[5] Harland a demandé à l’Agence du revenu du Canada (« ARC ») de changer le montant de 86 435,96 $, inscrit dans la catégorie « Autres revenus », pour des dividendes imposables et il a demandé un crédit d’impôt pour dividendes.
+[6] En établissant la nouvelle cotisation de M. Harland, le ministre a tenu pour acquis que la Société avait payé à Harland un dividende de 86 435,96 $ et que ce dernier avait omis de le majorer lorsqu’il l’avait déclaré dans sa déclaration de revenus pour 2005. Le ministre a inclus un dividende imposable de 108 044,95 $ dans le revenu de Harland.
+[7] Sherwyn MacArthur, vérificateur de l’impôt des sociétés auprès de l’ARC, a témoigné pour le compte de l’intimée. Il a expliqué pourquoi il a conclu que le dividende déclaré par Harland n’avait pas été majoré. Il a déclaré qu’il est normal pour la plupart des sociétés de répartir des dividendes à la fin de leur année financière, quand elles savent combien d’argent elles peuvent répartir. Dans un tel scénario, la société paie habituellement les dividendes dans les six mois suivant la fin de son année financière. Dans ce contexte et en tenant compte du fait que la Société et Harland avaient des fins d’année différentes, M. MacArthur a déclaré qu’il avait passé en revue les déclarations de revenus de la Société pour 2004, 2005, 2006, 2007 et 2008 en vue de déterminer le montant des dividendes que la Société avait déclaré avoir payés dans chacune de ces années‑là. Il a passé aussi en revue les déclarations de revenus de Harland pour 2004, 2005, 2006 et 2007 en vue de vérifier le montant des dividendes imposables qu’il avait déclarés. M. MacArthur a conclu que les dividendes de 86 435,96 $ n’avaient pas été majorés, mais qu’il s’agissait de dividendes en espèces.
+[8] Harland a pu démontrer que la présomption du ministre était inexacte. Cependant, je ne suis pas tout à fait d’accord avec la façon dont Harland a calculé les dividendes qu’il a reçus en 2005. Pour calculer ces dividendes, Harland a déduit divers montants des prélèvements (139 551 $) qu’il a reçus de la Société en 2005. L’un de ces montants (13 100 $) était censément une dépense engagée par la Société pour l’usage professionnel du bateau de Harland. Le sous-alinéa 18(1)l)(i) de la Loi de l’impôt sur le revenu refuse explicitement à la Société d’opérer une déduction pour l’utilisation ou l’entretien d’un bateau. Le texte de cette disposition est le suivant :
+18. (1) Restriction générale – Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+[…]
+l) Dépenses relatives aux loisirs – une dépense engagée ou effectuée par le contribuable après 1971 :
+(i) soit pour l’usage ou l’entretien d’un bien qui est un bateau de plaisance, un pavillon, un chalet-hôtel ou un terrain ou une installation de golf, sauf si le contribuable a engagé ou effectué cette dépense dans le cours normal des activités de son entreprise qui consiste à fournir ce bien contre loyer ou récompense,
+[9] En utilisant les calculs que Harland a présentés à la pièce A‑3, je conclus qu’en 2005 ce dernier a reçu un dividende en espèces de 82 248 $, qui constitue un dividende imposable de 102 810 $.
+Pénalités pour faute lourde
+[10] Selon l’interprétation des tribunaux, la « faute lourde » constitue un cas de négligence plus grave qu’un défaut de prudence raisonnable. Ils ont conclu qu’elle comporte un élément de négligence qui correspond à une action délibérée, une indifférence au respect de la loi[1].
+[11] Harland est très instruit et il est un homme d’affaires d’expérience. Il est ingénieur. Il a exploité une entreprise antérieure sous le nom de Harland Associates entre le début des années 1970 et l’année 1997. La Société a été constituée en 2002 et il en est le président et l’unique actionnaire.
+[12] Harland a contesté la pénalité pour faute lourde en disant que c’était à la fois une commis-comptable et un comptable qui tenaient les registres de la Société. Il a ajouté que sa commis-comptable s’occupait des écritures de journal et que son comptable examinait ces écritures et procédait à plusieurs écritures de redressement. Il a exprimé l’avis qu’il avait en place un système qui permettait de tenir des registres appropriés et qu’il n’avait pas fait sciemment une fausse déclaration dans ses déclarations de revenus ou dans celles de la Société.
+[13] J’ai conclu que, en l’espèce, les pénalités étaient appropriées. Il est ressorti de la preuve qu’au cours de la période en cause Harland avait utilisé ses cartes de crédit personnelles à des fins à la fois personnelles et professionnelles. Sa secrétaire, qui était aussi sa commis-comptable, se servait de ses relevés de carte de crédit mensuels et des états bancaires pour inscrire des montants dans les registres de la Société. Il n’y a eu aucune preuve que Harland vérifiait les inscriptions que faisait sa secrétaire/commis-comptable. Ces registres étaient transmis à la fin de l’année aux comptables externes, qui procédaient à une balance de vérification, effectuaient des écritures de redressement et établissaient les déclarations de revenus de la Société, qu’ils soumettaient ensuite à l’approbation de Harland. Ce dernier établissait ses propres déclarations de revenus.
+[14] Harland a fait payer par la Société les dépenses personnelles suivantes :
+ANNÉE
+CARTES DE CRÉDIT PERSONNELLES
+REPAS
+BATEAU
+TOTAL
+2005
+19 000 $
+3 994 $
+11 585 $
+34 579 $
+2006
+7 751 $
+2 824 $
+13 100 $
+23 675 $
+[15] En 2005, la somme de 19 000 $ représentait le total des paiements imputés sur les cartes de crédit de Harland. En 2006, le montant de 7 751 $ était les montants d’intérêts et les frais engagés sur les cartes de crédit.
+[16] Ces dépenses personnelles de Harland, qui ont été payées par la Société, représentaient 17,7 % et 44,6 % du revenu imposable de la Société en 2006 et 2006, respectivement.
+[17] Harland a fait montre d’un degré d’indifférence qui correspond à une action délibérée. L’appel est accueilli, au motif qu’en 2005 Harland a reçu un dividende imposable d’un montant de 102 810 $. À tous autres égards, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 22e jour de février 2010.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 14e jour de mai 2010
+Claude Leclerc, traducteur
+RÉFÉRENCE : 2010CCI105
+Nos DES DOSSIERS DE LA COUR : 2009-1608(IT)I
+2009-1609(IT)I
+INTITULÉ : THOMAS E. HARLAND ET
+SA MAJESTÉ LA REINE
+HARLAND ASSOCIATES 02 INC. ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Charlottetown (Île-du-Prince-Édouard)
+DATE DE L’AUDIENCE : Le 8 décembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 22 février 2010
+COMPARUTIONS :
+Représentant des appelants :
+Cleve Myers
+Avocat de l’intimée :
+Devon E. Peavoy
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Venne c. R. (1984), [1984] C.T.C. 223 (C.F. 1re inst.), paragraphe 37.

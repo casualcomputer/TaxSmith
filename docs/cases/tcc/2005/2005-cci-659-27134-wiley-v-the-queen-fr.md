@@ -1,0 +1,273 @@
+---
+title: "Wiley v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27134/index.do"
+last_modified: "2005-10-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 659"
+citation2: ""
+neutral_citation: "2005 CCI 659"
+decision_date: "2005-10-12"
+language: "fr"
+item_id: "27134"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 937
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:26:33.015000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "82b972c83606e55eedab5d43eaf0227b22fa11df3ba9abe179505ab0a2f4d0fe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wiley v. The Queen
+
+- Citation: 2005 CCI 659
+- Decision date: 2005-10-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 937, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wiley v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-12
+Référence neutre
+2005 CCI 659
+Numéro de dossier
+2004-4291(GST)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-4291(GST)I
+ENTRE :
+HUBERT J. WILEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Hubert J. Wiley (2004-4375(IT)I) et
+Joanne P. Wiley (2004-4376(IT)I),
+le 1er septembre 2005, à Cranbrook (Colombie-Britannique)
+Devant : L'honorable juge Campbell J. Miller
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Pavanjit Mahil
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 19 décembre 2003 et porte le numéro 12261001844, est rejeté.
+Signé à Ottawa, Canada, ce 12e jour d'octobre 2005.
+« Campbell J. Miller »
+Le juge Miller
+Traduction certifiée conforme
+ce 27e jour de février 2006.
+Joanne Robert, traductrice
+Dossier : 2004-4375(IT)I
+ENTRE :
+HUBERT J. WILEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Hubert J. Wiley (2004-4291(GST)I) et Joanne P. Wiley (2004-4376(IT)I)
+le 1er septembre 2005, à Cranbrook (Colombie-Britannique)
+Devant : L'honorable juge Campbell J. Miller
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Pavanjit Mahil
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation d'impôt établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté.
+Les appels des cotisations d'impôt établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2001 et 2002 sont admis, et les cotisations sont renvoyées au ministre du Revenu national pour qu'il les réexamine et qu'il en établisse de nouvelles conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 12e jour d'octobre 2005.
+« Campbell J. Miller »
+Le juge Miller
+Traduction certifiée conforme
+ce 27e jour de février 2006.
+Joanne Robert, traductrice
+Dossier : 2004-4376(IT)I
+ENTRE :
+JOANNE P. WILEY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Hubert J. Wiley (2004-4291(GST)I) et(2004-4375(IT)I)
+le 1er septembre 2005, à Cranbrook (Colombie-Britannique)
+Devant : L'honorable juge Campbell J. Miller
+Comparutions :
+Représentant de l'appelante :
+Hubert J. Wiley
+Avocat de l'intimée :
+Me Pavanjit Mahil
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation d'impôt établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est admis, et la cotisation est renvoyée au ministre du Revenu national pour qu'il la réexamine et qu'il en établisse une nouvelle conformément aux motifs de jugement ci-joints.
+Les prétendus appels des cotisations d'impôt établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2002 sont annulés.
+Signé à Ottawa, Canada, ce 12e jour d'octobre 2005.
+« Campbell J. Miller »
+Le juge Miller
+Traduction certifiée conforme
+ce 27e jour de février 2006.
+Joanne Robert, traductrice
+Référence : 2005CCI659
+Date : 20051012
+Dossiers : 2004-4291(GST)I
+2004-4375(IT)I
+2004-4376(IT)I
+ENTRE :
+HUBERT J. WILEY,
+et JOANNE P. WILEY,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Les appelants, Hubert et Joanne Wiley, étaient associés dans une entreprise offrant des séminaires sur la retraite en 2000, 2001 et 2002. En 1999, M. Wiley a acquis, pour 170 000 $, une autocaravane qui, a-t-il indiqué, devait être utilisée dans cette entreprise. M. et Mme Wiley exploitaient leur entreprise au Canada et aux États-Unis. Ils allaient dans le sud en hiver dans leur autocaravane, faisant la promotion de leur entreprise, organisant des séminaires et présentant effectivement un nombre limité de séminaires. Ils ont demandé la déduction de la totalité des coûts de leur autocaravane relativement à leur entreprise.
+[2] L'intimée a établi une cotisation à l'égard de M. Wiley en vertu de la Loi sur la taxe d'accise, refusant un crédit de taxe sur les intrants (CTI) de 11 823 $ se rapportant à l'achat de l'autocaravane, parce qu'elle n'a pas été acquise pour être utilisée principalement dans le cadre d'activités commerciales, comme l'exige le paragraphe 199(2) de cette loi. De façon subsidiaire, si je conclus qu'elle a été acquise pour être utilisée principalement dans le cadre d'activités commerciales, l'intimée soutient que ces activités commerciales étaient celles de la société de personnes de M. et Mme Wiley, une entité distincte aux termes de cette loi, et qu'aucun CTI ne devrait donc être accordé à M. Wiley.
+[3] L'intimée a aussi établi des cotisations à l'égard de M. Wiley et Mme Wiley pour les années d'imposition 2001 et 2002 en vertu de la Loi de l'impôt sur le revenu, limitant leurs dépenses d'entreprise principalement liées à l'autocaravane à 5 % des dépenses déduites. Le ministre du Revenu national (le ministre) a également limité la déduction pour amortissement (DPA) à l'égard de l'autocaravane en 2000 et 2002 à 5 % du montant déduit par M. Wiley. Enfin, le ministre a aussi limité la DPA au titre de certains autres éléments d'actif de la société de personnes en 2002.
+Faits
+[4] En octobre 1999, M. Hubert Wiley a acheté, pour environ 170 000 $ plus la taxe sur les produits et services (TPS) de 11 823 $, une autocaravane qui avait été annoncée pour 240 000 $. M. Wiley a grevé d'une hypothèque sa résidence principale à Creston, en Colombie-Britannique, pour financer cet achat. Il a fait un autre emprunt hypothécaire en 2001, assorti d'une pénalité de 6 995 $. M. Wiley a acquis l'autocaravane en son propre nom, soutenant qu'il avait l'intention de la louer à une entreprise qu'il se proposait d'exploiter par l'entremise d'une compagnie, ou d'une société de personnes avec Joanne, qui allait bientôt devenir sa femme. M. Wiley avait un numéro d'inscription aux fins de la TPS. Il a déclaré l'acquisition comme un achat fait par lui en tant que propriétaire vu qu'il avait l'intention de louer le bien. En septembre 1999, M. Wiley a aussi constitué en société une compagnie de l'Alberta, soit la société Full Life Seminars Inc., qu'il n'a jamais utilisée dans le cadre de l'entreprise des séminaires sur la retraite. Il a finalement décidé qu'une société de personnes serait la meilleure forme d'organisation. Il n'a jamais loué ni attribué l'autocaravane à la société de personnes.
+[5] L'autocaravane est restée inutilisée jusqu'en avril 2000, lorsque M. et Mme Wiley l'ont utilisée pour un voyage d'une semaine à Edmonton, où ils ont travaillé avec un concepteur graphique à la conception de matériel pour leur entreprise de séminaires sur la retraite. À la fin de 1999 et au début de 2000, M. et Mme Wiley travaillaient à planifier et à organiser leur entreprise. L'autocaravane devait être un élément essentiel de cette entreprise. M. Wiley a expliqué que le travail consistant à donner des séminaires à des retraités et à des retraités éventuels exigeait beaucoup de déplacements pour aller là où le marché pouvait donner des résultats. M. Wiley était d'avis que le sud des États-Unis en hiver constituait un marché considérable en ce qui concerne les retraités. M. et Mme Wiley ont équipé l'autocaravane pour pouvoir transporter une importante quantité de documents, comme des manuels et des cahiers d'exercice pour leurs séminaires. Ils ont également modifié l'autocaravane pour y intégrer un bureau doté d'un ordinateur ainsi que de l'espace d'entreposage supplémentaire. Ils ont ajouté un attelage et ont acquis une Subaru à transmission manuelle qu'ils pouvaient remorquer. Ils avaient l'intention de rester dans un terrain de caravaning, d'interviewer des retraités et de recueillir l'information nécessaire à leurs séminaires.
+[6] M. et Mme Wiley ont passé l'été 2000 principalement en Alberta, utilisant l'autocaravane comme base. Ils avaient de la famille à Calgary et à Edmonton, où ils avaient tous deux vécu et travaillé, et ils considéraient donc que ces régions pouvaient être de bonnes sources de contacts. Tout au long de cette période, ils ont travaillé à la conception de leur site Web et ont fait de la publicité au moyen d'affiches placées à différents endroits dans les villes, y compris les magasins de détail et les bibliothèques. Ils ont continué à travailler sur le matériel des séminaires. M. Wiley a fait des démarches pour obtenir la citoyenneté américaine.
+[7] M. Wiley a témoigné qu'ils ont utilisé l'autocaravane pendant 166 jours en 2000 pour affaires. L'entreprise n'a fait état d'aucun revenu d'entreprise en 2000, mais a déclaré des dépenses de société de personnes de 30 653 $. En novembre 2000, M. et Mme Wiley ont utilisé l'autocaravane pour se rendre dans le sud des États-Unis, où ils sont restés jusqu'en mars 2001. M. et Mme Wiley ont témoigné tous les deux qu'ils faisaient des semaines d'environ 50 heures à travailler à leur entreprise de séminaires, et ce, alors qu'ils vivaient précisément dans leur autocaravane. Précisons qu'ils ne présentaient pas de séminaires comme tels, mais faisaient des recherches sur le sujet, rédigeaient des documents, travaillaient à l'élaboration de leur site Web, organisaient des calendriers, assistaient à des foires et faisaient des appels.
+[8] M. Wiley a en outre demandé une DPA de 12 000 $ à l'égard de l'autocaravane en 2000, mais a attribué ce montant à son entreprise de counselling professionnel, qu'il a exploitée en 2000, mais non en 2001 et en 2002. De janvier à mars 2001, M. et Mme Wiley ont essayé d'organiser des séminaires, communiquant avec plusieurs terrains de caravaning et centres de villégiature aux États-Unis. En fait, pendant toute l'année 2001, ils n'ont présenté que deux séminaires, soit un aux États-Unis et un au Canada. Ils ont toutefois fait plusieurs contacts et semblaient demeurer optimistes à leur retour au Canada. Le faible intérêt suscité par leur entreprise les a toutefois menés à la décision d'écrire un livre sur le changement. Pendant le restant de 2001 et le début de 2002, M. Wiley a travaillé à la rédaction de son livre, qui a finalement été publié sous le titre « Dancing with Change » à l'été 2002. M. et Mme Wiley ont estimé avoir utilisé l'autocaravane pendant 90 jours en 2001 et 76 jours en 2002.
+[9] En juillet et en août 2002, M. et Mme Wiley ont utilisé leur autocaravane pour faire la promotion de leur livre en Saskatchewan, en Alberta et en Colombie-Britannique, même si l'autocaravane n'a pas servi à toutes leurs tournées de promotion.
+[10] Au début de décembre 2002, M. et Mme Wiley sont repartis aux États-Unis, mais en insistant cette fois sur la promotion du livre.
+[11] Je trouve que le site Web de M. et Mme Wiley est intéressant. La pièce R-2 représente leur site Web intitulé « Welcome to Full Life Seminars » . Voici des parties de ce site Web :
+[TRADUCTION]
+Le commencement
+Le concept des séminaires sur la vie bien remplie a vu le jour en 1999 alors que nous, Hugh et Joanne, nous sommes rencontrés en tant que célibataires et avons commencé notre relation. Nous voulions tous deux un projet nous permettant d'utiliser nos talents, de mettre à l'épreuve nos compétences professionnelles et d'enrichir nos vies. Nous voulions relever un défi et nous lancer dans cet univers excitant qu'est l'inconnu.
+Joanne est infirmière et Hugh, psychologue; nous avons tous deux l'expérience de l'enseignement et de la conduite de groupes et nous nous sommes rendu compte que nous sommes bien lorsque nous sommes avec d'autres. Nous voulions voyager et nous avons donc eu l'idée de voyager tout en offrant des services d'encadrement et en présentant des ateliers.
+[...]
+Juin et juillet 2000
+[...] Juin et juillet ont passé rapidement de cette manière alors que nous voyagions dans notre autocaravane, apprenant à vivre comme caravaniers, et nous nous sommes vite habitués à ce mode de vie et de voyage nouveau et excitant. [...]
+Janvier à mars 2001
+Notre séjour ici en Arizona cet hiver a été magnifique. L'environnement est grandiose. Le désert était en fleur et merveilleux. Nous avons fait beaucoup de randonnées.
+[...]
+Nous sommes retournés en direction de Creston vers la fin de mars et avons profité de la vallée de San Joachim, de la magnifique région de Sacramento, puis de l'Oregon, de l'État de Washington et de l'Idaho.
+Deux pages du site Web sont consacrées à la vie en autocaravane comme choix de vie à la retraite.
+[12] En ce qui concerne les questions d'impôt sur le revenu, le ministre a établi des cotisations à l'égard de M. et Mme Wiley en jugeant que seulement 5 % de l'utilisation de l'autocaravane était à des fins commerciales. Le ministre a cependant accepté d'autres dépenses d'entreprise pour chacune des années visées par l'appel. Le fondement utilisé par le ministre pour établir les cotisations a eu pour effet de réduire considérablement la DPA en 2000 et en 2002 pour M. Wiley, ainsi que de limiter les dépenses liées à l'autocaravane en 2001 et en 2002. Le ministre a en outre rejeté des dépenses d'épicerie en 2001 et en 2002, et a réduit de moitié les frais de repas demandés comme déduction en 2001. Les appelants ont admis ces décisions se rapportant à la nourriture.
+[13] La vérificatrice de l'Agence du revenu du Canada (ARC), Mme Catherine Mary Gilmore, a témoigné que le fondement de la cotisation à 5 % était un fondement à deux aspects. D'abord, la vérificatrice a déterminé que l'autocaravane n'a été utilisée que pendant 44 jours sur 365 au cours de la première année, ce qui représente une utilisation de 12 %. Elle a en outre déterminé que l'autocaravane, lorsqu'elle était en fait utilisée, était utilisée pendant huit heures sur 24 à des fins commerciales, et elle a donc divisé les 12 % par environ un tiers pour en arriver à une utilisation approximative de 5 % à des fins commerciales. L'autre aspect du fondement sur lequel elle a dit s'être fondée découlait de l'affirmation que M. et Mme Wiley lui ont faite, soit qu'ils n'ont établi que 17 contacts d'affaires en 150 jours, ce qui encore une fois revient à un ratio d'environ 12 %, qu'elle a de nouveau divisé par environ un tiers.
+Analyse
+[14] Avant d'examiner les questions particulières ayant trait à l'impôt sur le revenu et à la TPS, je dois régler quelques questions préliminaires concernant les appels de Mme Wiley. Tout d'abord, en ce qui concerne l'année d'imposition 2000, la preuve a démontré que Mme Wiley n'a jamais présenté d'avis d'opposition. Cela n'est pas surprenant puisqu'il ne semble pas y avoir eu de problème concernant l'année d'imposition 2000 de Mme Wiley. De toute manière, étant donné l'absence d'un avis d'opposition, j'annule l'appel interjeté par Mme Wiley à l'égard de son année d'imposition 2000.
+[15] Ensuite, en ce qui concerne l'année d'imposition 2002 de Mme Wiley, la preuve a démontré qu'elle a reçu une cotisation néant pour cette année-là. Il est bien établi (voir, par exemple, l'arrêt Bruner v. R.[1]) qu'aucun appel ne peut être interjeté à l'égard d'une cotisation néant. J'annule donc aussi l'appel de Mme Wiley concernant son année d'imposition 2002.
+[16] Les questions sont donc les suivantes :
+A) Loi de l'impôt sur le revenu
+(i) M. Wiley, relativement aux années d'imposition 2001 et 2002, et Mme Wiley, relativement à l'année d'imposition 2001, peuvent-ils déduire des dépenses au-delà des montants admis par le ministre?
+(ii) M. Wiley peut-il demander la DPA en 2000 et en 2002 au-delà des montants admis par le ministre?
+B) Loi sur la taxe d'accise
+(i) M. Wiley peut-il demander un CTI à l'égard de son achat de l'autocaravane?
+A) Loi de l'impôt sur le revenu
+[17] En ce qui concerne la question des dépenses d'entreprise, la position du ministre est d'abord que toutes les dépenses au-delà des montants admis sont des frais personnels ou de subsistance et ne sont pas déductibles aux termes de l'alinéa 18(1)h), qui est libellé comme suit :
+18(1) Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+[...]
+h) le montant des frais personnels ou de subsistance du contribuable -- à l'exception des frais de déplacement engagés par celui-ci dans le cadre de l'exploitation de son entreprise pendant qu'il était absent de chez lui;
+De plus, la définition de « frais personnels ou de subsistance » est libellée comme suit :
+248(1) Les définitions qui suivent s'appliquent à la présente loi.
+« frais personnels ou de subsistance »
+a) les dépenses inhérentes aux biens entretenus par toute personne pour l'usage ou l'avantage du contribuable ou de toute personne unie à ce dernier par les liens du sang, du mariage, de l'union de fait ou de l'adoption, et non entretenus dans le but ou avec l'espoir raisonnable de tirer un profit de l'exploitation d'une entreprise;
+[18] L'expression « dépenses inhérentes aux biens [...] non entretenus » est maladroite. Je présume que le législateur ne voulait pas dire qu'il y a des dépenses inhérentes à des biens non entretenus, mais plutôt que les frais personnels ou de subsistance ne sont pas des dépenses inhérentes à des biens entretenus relativement à une entreprise. Le critère à respecter relativement à la définition de « frais personnels ou de subsistance » par rapport aux biens comporte donc deux volets, soit :
+a) les dépenses ont-elles été engagées à l'égard de biens entretenus pour l'avantage du contribuable?
+b) les dépenses ont-elles été engagées à l'égard de biens entretenus dans le but ou avec l'espoir raisonnable de tirer un profit de l'exploitation d'une entreprise?
+Pour que des dépenses soient considérées comme des frais personnels ou de subsistance, il faut pouvoir répondre « oui » à la première question et « non » à la deuxième. En ce qui concerne les dépenses de M. et Mme Wiley à l'égard de leur autocaravane, je n'ai aucune difficulté à répondre dans l'affirmative à la première question. L'autocaravane était en effet leur domicile et était utilisée pour leur avantage personnel. L'intimée a admis, en acceptant des dépenses d'entreprise considérables, que M. et Mme Wiley exploitaient une entreprise. L'intimée a également reconnu que l'autocaravane était utilisée dans le cadre de cette entreprise, mais seulement dans une proportion de 5 %. Ainsi, le gouvernement accepte qu'au moins certaines des dépenses liées à l'autocaravane étaient des dépenses inhérentes à des biens entretenus dans le but ou avec l'espoir raisonnable de tirer un profit de l'exploitation d'une entreprise.
+[19] Il semble que les dépenses engagées relativement à l'autocaravane aient deux buts; le législateur a fait face à un dilemme semblable en ce qui a trait à la consommation d'aliments et a adopté l'article 67.1, aux termes duquel le coût des aliments est réputé correspondre à 50 % du montant payé ou du montant qui serait raisonnable dans les circonstances. Il n'y a pas de disposition déterminative du genre concernant les frais de subsistance dans une autocaravane, qui sert à des fins tant personnelles que commerciales. Dans de telles circonstances, il est nécessaire de tenir compte de l'alinéa 18(1)h) en même temps que de l'article 67 de la Loi de l'impôt sur le revenu pour déterminer quelles sont les dépenses raisonnables dans les circonstances.
+[20] Il est évident que M. et Mme Wiley ont adopté la vie en autocaravane comme choix de vie à la retraite, même s'ils sont allés plus loin que cela. Ils ont intégré le concept de la vie en autocaravane à leur entreprise de conseil relatif à la retraite. Ils veulent que j'accepte que cette utilisation de l'autocaravane est si complètement intégrée dans leur entreprise que la totalité de son utilisation, et donc la totalité des dépenses qui s'y rapportent, devrait être considérée comme relative à l'entreprise. Le ministre n'a pas accepté cette position et je ne l'accepte pas moi non plus. Elle n'est pas raisonnable.
+[21] L'intimée a établi les cotisations en supposant que seulement 5 % de ces dépenses étaient raisonnables. Il existe de nombreuses façons de répartir l'utilisation d'un bien entre des fins commerciales et des fins personnelles; les heures d'utilisation ou l'espace utilisé en sont des exemples. L'intimée a toutefois choisi deux méthodes qui sont au mieux innovatrices, et au pire, sans pertinence. Bien que j'aie une certaine sympathie pour un vérificateur dont le travail consiste, à certains égards, à créer quelque chose à partir de rien en raison de l'absence de registres ou de contribuables peu coopératifs, cela n'est pas le cas ici. La situation de M. et Mme Wiley ne porte pas à confusion et ils ne sont pas désobligeants. Ils croient que parce qu'ils exploitent leur entreprise à partir de leur autocaravane, toutes les dépenses qui s'y rapportent sont légitimement déductibles. Le ministre, bien qu'il soit d'accord avec M. et Mme Wiley qu'ils exploitent une entreprise et le font à partir de leur autocaravane, a limité ces déductions à 5 %.
+[22] Le fondement de l'attribution par le ministre de 5 % des dépenses à l'entreprise est d'abord lié au nombre de jours (44) où, selon le ministre, l'autocaravane a été utilisée par rapport au nombre de jours dans l'année. Cette façon de faire peut bien convenir s'il y a des preuves que l'autocaravane a été utilisée exclusivement à des fins personnelles le reste de l'année. La preuve a toutefois démontré que pendant le reste de l'année, l'autocaravane est restée inutilisée. Pour conférer un certain sens au ratio du ministre, il faudrait que je conclue qu'une autocaravane qui reste inutilisée est en quelque sorte utilisée à des fins personnelles. Ce n'est pas là une hypothèse valable. Cette façon de faire ne convient pas pour ce qui est de déterminer le caractère raisonnable des dépenses.
+[23] Le fondement de la cotisation décrit par la vérificatrice consiste ensuite en un calcul du nombre de contacts d'affaires établis au cours du nombre présumé de jours de travail (17 contacts en 150 jours). Bien que ce calcul donne en effet un pourcentage, je n'y vois aucun sens par rapport au caractère raisonnable des dépenses. La vérificatrice est allée plus loin en divisant les jours où M. et Mme Wiley vivaient dans l'autocaravane en périodes de huit heures de travail, en moyenne, et de 16 heures de temps de nature personnelle, en moyenne. Cette façon de faire a une certaine validité et est appuyée par les témoignages de M. et Mme Wiley eux-mêmes. Ils ont tous deux témoigné que leurs journées de travail comptaient plus de huit heures, mais je tiens compte des fins de semaine de même que du mode de vie de M. et Mme Wiley et de la nature de leurs activités, telles qu'elles sont décrites dans leur propre site Web, et je conclus que l'estimation de l'intimée, selon laquelle le tiers du temps passé par M. et Mme Wiley dans l'autocaravane était consacré aux affaires, est une évaluation raisonnable.
+[24] Les conséquences de cette conclusion sont que pour l'année d'imposition 2001, j'accorde à M. et Mme Wiley le tiers des montants déduits au titre des frais d'intérêt, des dépenses de carburant diesel, des frais d'entretien, des frais d'assurance, des fournitures, des frais de stationnement et des frais d'électricité. Ils ont chacun droit à la moitié de ce tiers. Une ventilation des montants se trouve en annexe.
+[25] De la même façon, pour l'année d'imposition 2002, M. Wiley a droit à la moitié du tiers du montant déduit au titre des frais d'intérêt, des frais de stationnement, des dépenses de carburant diesel, des frais d'entretien, des frais d'assurance, des fournitures et du gaz propane. Encore une fois, les montants sont indiqués en annexe.
+DPA
+[26] M. Wiley a demandé la DPA en 2000 et en 2002 relativement à son entreprise de counselling. La preuve a démontré que M. Wiley n'a pas utilisé l'autocaravane dans une telle entreprise. L'autocaravane était utilisée par la société de personnes dans l'entreprise de séminaires sur la retraite, même si aucun loyer n'a été payé à M. Wiley. Curieusement, le ministre a admis 5 % de la DPA demandée par M. Wiley, en utilisant le même mode d'attribution que pour les autres dépenses liées à l'autocaravane de la société de personnes.
+[27] L'avocat de la Couronne a admis que M. Wiley était confronté à un dilemme technique, qui a été aggravé par le fait que l'intimée ait accordé à M. Wiley une partie de la DPA à l'égard de l'autocaravane. M. Wiley n'a jamais laissé entendre que l'autocaravane représentait son apport en capital à la société de personnes. Au contraire, il a produit sa déclaration en se fondant sur le fait que lui seul avait droit à la DPA à l'égard de l'autocaravane et ce, non à titre de déduction du revenu de la société de personnes, mais à titre de déduction du revenu de son entreprise de counselling, même si aucune preuve n'a démontré qu'il a utilisé l'autocaravane dans son entreprise de counselling. Je n'ai pas de peine à croire que les affaires de M. Wiley auraient pu être organisées de manière plus efficiente. Ce n'est pas à moi de le faire après coup.
+[28] Le fait pour moi de permettre à M. Wiley de demander la DPA à l'égard de l'autocaravane selon le même pourcentage de 30 % que j'accorde aux autres dépenses liées à l'autocaravane reviendrait à ne pas tenir compte de la réalité juridique. La société de personnes a en fait engagé ces autres dépenses liées à l'autocaravane, parce que M. Wiley a permis à la société de personnes d'utiliser l'autocaravane. M. Wiley n'exploitait pas d'entreprise de location de locaux commerciaux. Je juge que, dans ces circonstances, il n'a droit à la DPA à l'égard de l'autocaravane qu'au montant déjà admis par le ministre.
+[29] En ce qui concerne la DPA à l'égard des autres immobilisations en 2002, je n'ai entendu aucun argument de la part de M. et Mme Wiley contestant la position du ministre en matière de cotisation.
+B. Loi sur la taxe d'accise
+[30] Je vais maintenant examiner la question relative à la TPS : M. Wiley peut-il demander un CTI de 11 823 $ relativement à son achat de l'autocaravane? Oui, mais seulement s'il est visé par le paragraphe 199(2), qui est libellé comme suit :
+199(2) Les règles suivantes s'appliquent à l'inscrit qui acquiert, importe ou transfère dans une province participante un bien meuble à utiliser comme immobilisation :
+a) la taxe payable par lui relativement à l'acquisition, à l'importation ou au transfert du bien n'est incluse dans le calcul de son crédit de taxe sur les intrants pour une période de déclaration que si le bien est acquis, importé ou transféré, selon le cas, en vue d'être utilisé principalement dans le cadre de ses activités commerciales;
+b) pour l'application de la présente partie, il est réputé avoir acquis, importé ou transféré le bien pour l'utiliser exclusivement dans le cadre de ses activités commerciales s'il l'a acquis, importé ou transféré, selon le cas, pour l'utiliser principalement dans ce cadre.
+[31] M. Wiley a-t-il acquis l'autocaravane pour l'utiliser principalement dans le cadre d'activités commerciales? M. Wiley soutient que c'est le cas; en fait, M. Wiley soutient qu'il a acquis l'autocaravane exclusivement pour l'utiliser dans le cadre d'activités commerciales. Je n'accepte pas sa prétention à cet égard. M. Wiley soutient avoir acquis l'autocaravane pour la louer à une compagnie, qu'il a constituée en société mais n'a jamais utilisée. Comme son témoignage l'a clairement démontré, il a choisi d'utiliser la société de personnes comme genre d'organisation économique pour exercer les activités liées aux séminaires sur la retraite. Pourtant, il n'a jamais cédé ni loué l'autocaravane à la société de personnes. Il a personnellement conservé la propriété de l'autocaravane, et lui et sa femme l'ont utilisée, comme il a déjà été décrit, en partie pour des activités commerciales et en partie pour leur avantage personnel. La société de personnes n'a jamais été propriétaire de l'autocaravane. Une société de personnes est une entité définie au paragraphe 123(1) de la Loi sur la taxe d'accise. En l'espèce, toutefois, ce n'est pas la société de personnes qui demande le CTI. C'est seulement M. Wiley.
+[32] Ainsi, avant de déterminer si M. Wiley a acheté l'autocaravane pour l'utiliser principalement dans le cadre d'activités commerciales, je dois déterminer si, compte tenu de ses actions, il a effectivement acquis l'autocaravane pour l'utiliser dans ses activités commerciales puisque lui, en tant qu'inscrit, contrairement à la société de personnes, n'a pas exercé d'activité commerciale pour laquelle il a utilisé l'autocaravane. Il a simplement permis à la société de personnes de l'utiliser. Il a effectivement exercé des activités de counselling, mais il n'a jamais laissé entendre que l'autocaravane a été acquise pour être utilisée dans le cadre de son entreprise de counselling professionnel. Je crois que M. Wiley ne peut avoir acquis l'autocaravane personnellement pour l'utiliser dans le cadre d'activités commerciales, et encore moins principalement pour l'utiliser le cadre de telles activités.
+[33] Je pourrais m'arrêter là, mais je veux poursuivre l'analyse plus à fond pour le bénéfice de M. Wiley à deux égards. D'abord, si j'avais été convaincu que la vraie raison pour laquelle M. Wiley a acquis l'autocaravane était d'en faire la location commerciale à une compagnie, je juge que très tôt après avoir acquis l'autocaravane, son intention quant à l'utilisation de l'autocaravane a changé pour en faire une utilisation pour son avantage personnel. Ceci ferait intervenir le paragraphe 200(2) de la Loi sur la taxe d'accise, qui aurait le même effet que de refuser le CTI à M. Wiley en premier lieu. L'intimée n'a pas soulevé le paragraphe 200(2) et je le soulève simplement pour montrer à M. Wiley qu'il est néanmoins nécessaire de tenir compte de l'utilisation réelle de l'autocaravane, et non simplement de son utilisation prévue. En faisant cela, j'en arrive au même résultat.
+[34] Enfin, M. Wiley devrait comprendre que si j'avais eu à trancher la question de savoir si l'autocaravane a été acquise principalement pour être utilisée par la société de personnes dans le cadre d'activités commerciales, j'aurais conclu que cela n'était pas le cas, puisque je considère comme un fait établi que les Wiley n'ont jamais eu l'intention d'utiliser, ni n'ont-ils en fait utilisé, l'autocaravane dans une proportion de plus d'un tiers de son utilisation totale dans le cadre d'activités commerciales. Cette proportion est inférieure à la norme à laquelle se rapporte le passage « utilisé principalement dans le cadre de ses activités commerciales » de l'article 199 de la Loi sur la taxe d'accise. Ceci aurait été fatal pour la demande de CTI de M. Wiley.
+Conclusion
+[35] Je rejette l'appel de M. Wiley concernant la TPS. Je rejette l'appel de M. Wiley à l'égard de l'impôt sur le revenu pour l'année d'imposition 2000. J'annule les appels de Mme Wiley pour les années d'imposition 2000 et 2002. En me fondant sur les montants établis en annexe, j'admets l'appel de Mme Wiley à l'égard de l'impôt sur le revenu pour l'année d'imposition 2001 et les appels de M. Wiley à l'égard de l'impôt sur le revenu pour les années d'imposition 2001 et 2002.
+Signé à Ottawa, Canada, ce 12e jour d'octobre 2005.
+« Campbell J. Miller »
+Le juge Miller
+Traduction certifiée conforme
+ce 27e jour de février 2006.
+Joanne Robert, traductrice
+Annexe A
+2001
+Les montants suivants sont admis dans les déclarations de M. et Mme Wiley pour l'année d'imposition 2001 :
+Frais d'intérêt, selon 1/3 de 15 736,76 $, soit
+5 246 $
+Carburant diesel, selon 1/3 de 1 342 $, soit
+447 $
+Frais d'entretien, selon 1/3 de 3 079 $, soit
+1 026 $
+Frais d'assurance, selon 1/3 de 269 $, soit
+90 $
+Fournitures, selon 1/3 de 907 $, soit
+302 $
+Frais de stationnement, selon 1/3 de 1 892,28 $, soit
+631 $
+Frais d'électricité, selon 1/3 de 115,95 $, soit
+39 $
+7 781 $ ÷ 2 = 3 890 $ chacun
+2002
+Les montants suivants sont admis dans les déclarations de M. Wiley pour l'année d'imposition 2002 :
+Frais d'intérêt, selon 1/3 de 5 941 $, soit
+1 980 $
+Frais de stationnement, selon 1/3 de 946 $, soit
+315 $
+Carburant diesel, selon 1/3 de 895 $, soit
+298 $
+Frais d'entretien, selon 1/3 de 1 191 $, soit
+397 $
+Frais d'assurance, selon 1/3 de 2 226 $, soit
+742 $
+Fournitures, selon 1/3 de 1 143 $, soit
+381 $
+Gaz propane, selon 1/3 de 57 $, soit
+19 $
+4 132 $ ÷ 2 = 2 066 $
+[1] 2003 CAF 54.

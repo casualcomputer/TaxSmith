@@ -1,0 +1,96 @@
+Title: Bergeron c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31062/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-13-31062-bergeron-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-01-18
+
+# Bergeron c. La Reine
+
+- Citation: 2013 CCI 13
+- Decision date: 2013-01-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4702, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bergeron c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-01-18
+Référence neutre
+2013 CCI 13
+Numéro de dossier
+2011-1407(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1407(IT)G
+ENTRE :
+RENAUD BERGERON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 10 décembre 2012, à Montréal (Québec).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Emmanuel Jilwan
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2006 et 2007 de l’appelant est rejeté, avec dépens, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour de janvier 2013.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2013 CCI 13
+Date : 20130118
+Dossier : 2011-1407(IT)G
+ENTRE :
+RENAUD BERGERON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Il s’agit d’un appel portant sur le rôle de M. Bergeron lors du transfert des activités de Canaccord Capital liées au Programme d’immigrants des investisseurs (le « PII ») à l’Industrielle Alliance en 2005. Les ententes prévoyaient notamment que l’appelant, qui était chargé du PII de Canaccord, se joindrait à l’Industrielle Alliance à titre d’entrepreneur indépendant afin de continuer à gérer les comptes transférés. Au moment du transfert, M. Bergeron avait droit à certains honoraires de fermeture différés relativement aux comptes du PII transférés. Dans ces ententes, M. Bergeron a fourni des indemnités et des garanties relativement aux comptes transférés.
+[2] M. Bergeron soutient que certaines sommes qu’il a reçues plus tard au titre des honoraires de fermeture pour les comptes transférés constituent des gains en capital pour les années 2006 et 2007. L’intimée soutient que ces sommes constituaient des revenus ordinaires. Par ailleurs, M. Bergeron soulève la question de savoir si la nouvelle cotisation pour 2006 a été établie alors que cette année était frappée de prescription.
+[3] Manifestement, à la lumière de la preuve, y compris les documents déposés au dossier, Canaccord a transféré à l’Industrielle Alliance les droits et les intérêts qu’elle détenait relativement à son PII. Ces mêmes documents démontrent clairement que M. Bergeron devait devenir un entrepreneur indépendant et être chargé notamment de la gestion des comptes de PII transférés. Les modalités du contrat de service de M. Bergeron ont été fixées dans une lettre d’entente signée par M. Bergeron, l’Industrielle Alliance et Leduc & Associés avant le transfert en 2005. Cette lettre prévoyait que, après le transfert, M. Bergeron devait conclure un contrat de service pour se joindre à Leduc & Associés pour une période de deux ans. En 2008, l’entente de 2005 a été constatée de nouveau, de manière plus détaillée et rétroactive. Les deux ententes prévoyaient le paiement des sommes en cause à M. Bergeron au titre de son contrat de service. Les honoraires de fermeture liés aux comptes transférés devaient être versés à M. Bergeron à raison de 75 % pour l’exercice prenant fin le 31 août 2006 et à raison de 50 % pour l’exercice prenant fin le 31 août 2007.
+[4] Aucun représentant de Canaccord Capital n’a témoigné, et le contrat de travail conclu entre cette dernière et M. Bergeron n’a pas été déposé en preuve. Aucun représentant de l’Industrielle Alliance ou de Leduc & Associés n’a témoigné non plus.
+[5] Au moment du transfert des comptes en 2005, M. Bergeron avait certains droits à l’égard des honoraires de fermeture différés, honoraires que Canaccord allait devoir lui verser lorsque les placements sous-jacents arriveraient à terme. Ce sont ces droits que M. Bergeron a protégés dans les nouvelles ententes qu’il a conclues avec l’Industrielle Alliance et Leduc & Associés.
+[6] Il ne fait aucun doute que les sommes en cause dans l’appel visant les années d’imposition 2006 et 2007 sont des sommes versées conformément aux alinéas 2a) et b), respectivement, de la troisième page de la lettre d’entente du 18 juillet 2005 qui a été conclue par M. Bergeron, l’Industrielle Alliance et Leduc & Associés relativement aux honoraires de fermeture. Ces sommes sont aussi clairement identifiées et calculées à titre d’honoraires de fermeture sur les chèques faits par Leduc & Associés à M. Bergeron relativement aux sommes en cause. Les éléments de preuve dont je dispose ne me permettent aucunement de conclure que les sommes en cause ont été payées à un autre titre ou qu’il s’agissait de la disposition d’une immobilisation par M. Bergeron en faveur de l’Industrielle Alliance ou de Leduc & Associés. Ces accords juridiques établissent clairement que les sommes en cause ont été payées à M. Bergeron conformément à son contrat de service et qu’elles étaient imposables au titre du revenu.
+[7] En l’absence de la disposition d’une immobilisation, l’article 42 de la Loi de l’impôt sur le revenu, qui porte sur les garanties, ne s’applique tout simplement pas.
+[8] Lorsque la nouvelle cotisation a été établie à l’égard de l’année d’imposition 2006 de M. Bergeron, cette année n’était pas frappée de prescription. La preuve montre clairement que cette nouvelle cotisation a été établie pendant la période normale de nouvelle cotisation de trois ans.
+[9] M. Bergeron a eu un certain succès en présentant un avis d’opposition à la Direction des appels de l’Agence du revenu du Canada, puisque le revenu et les gains en capital déclarés n’ont pas été imposés deux fois, et puisque établies les pénalités imposées dans les nouvelles cotisations ont été annulées complètement.
+[10] L’appel est rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 18e jour de janvier 2013.
+« Patrick Boyle »
+Juge Boyle
+RÉFÉRENCE : 2013 CCI 13
+No DU DOSSIER DE LA COUR : 2011-1407(IT)G
+INTITULÉ : RENAUD BERGERON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 10 décembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 18 janvier 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Emmanuel Jilwan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,266 @@
+---
+title: "Transocean Offshore Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26905/index.do"
+last_modified: "2004-06-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 454"
+citation2: ""
+neutral_citation: "2004 TCC 454"
+decision_date: "2004-06-25"
+language: "en"
+item_id: "26905"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 777
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:18:12.570000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1d20e3553b1827cd0400f5f1b6551ec63f6bdc7f8c02294e7dce8f304359046a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Transocean Offshore Limited v. The Queen
+
+- Citation: 2004 TCC 454
+- Decision date: 2004-06-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 777, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Transocean Offshore Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-25
+Neutral citation
+2004 TCC 454
+File numbers
+2002-2615(IT)G
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2615(IT)G
+BETWEEN:
+TRANSOCEAN OFFSHORE LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 7, 2004 at Toronto (Ontario)
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Richard B. Thomas
+Michael Friedman
+Counsel for the Respondent:
+Kathryn R. Philpott
+Annie Paré
+____________________________________________________________________
+JUDGMENT
+The appeal from an assessment made pursuant to paragraph 212(1)(d) of Part XIII of the Income Tax Act is dismissed, with costs to the Respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of June, 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+Citation: 2004TCC454
+Date: 20040625
+Docket: 2002-2615(IT)G
+BETWEEN:
+TRANSOCEAN OFFSHORE LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre Proulx, J.
+[1] This is an appeal from an assessment made pursuant to Part XIII of the Income Tax Act (the "Act") and, more precisely, pursuant to paragraph 212(1)(d) of the Act.
+[2] The issue is whether an amount of US$40,000,000 paid to the appellant was paid as, on account or in lieu of payment of, or in satisfaction of, rent or a similar payment.
+[3] At the outset of the hearing of this appeal, a Statement of Agreed Facts was filed. It reads as follows:
+1. The Appellant is a corporation incorporated in the Cayman Islands. At all material times, the Appellant was in the business of chartering off-shore drilling apparatus and providing related ancillary services. At all material times, the Appellant was resident in the Cayman Islands and not resident in Canada for Canadian tax purposes.
+2. Transocean Offshore Inc. ("TOI") was a corporation incorporated under the laws of the state of Delaware. At all material times, TOI was in the business of chartering off-shore drilling apparatus and providing related ancillary services. At all material times, TOI was resident in the United States and not resident in Canada for Canadian tax purposes.
+3. Transocean Offshore Ventures Inc. ("TOVI") is a corporation incorporated in the United States. TOVI was in the business of chartering off-shore drilling apparatus and providing related ancillary services. TOVI contracted to provide certain drilling services to the parties described in paragraph 7 below.
+4. At all material times, the Appellant and TOVI were affiliates of TOI and were indirectly controlled by TOI.
+5. At all material times, the Appellant was the owner of the "Transocean Explorer" (the "Explorer"), a semi-submersible off-shore drilling rig.
+Picture of "Transocean Explorer", Joint Book of Documents, Tab 1.
+6. At all material times, the Explorer was physically located in the North Sea and was under contract to Marathon Oil U.K. Ltd. ("Marathon").
+7. On May 15, 1997, Petro-Canada, on behalf of itself and a number of co-venturers, (collectively, the "Co-Venturers") entered into a Bareboat Charter with TOI and a Drilling Services Contract with TOVI under which the Co-Venturers agreed to charter the Explorer and secure certain services for a period of approximately 2 years in connection with the Co-Venturers' "Terra Nova" project (collectively, the "Charter"). The Terra Nova project was to take place in Canada, off the coast of Newfoundland.
+Bareboat Charter between Co-Venturers and TOI,
+Joint Book of Documents, Tab 2.
+Drilling Services Contract between Co-Venturers and TOVI,
+Joint Book of Documents, Tab 3.
+8. It was the intention of TOI and the Appellant that the Appellant would make the Explorer available to TOI to permit TOI to charter it to the Co-Venturers.
+9. The Bareboat Charter provided the Co-Venturers exclusive possession, control, command and quiet enjoyment of the Explorer during the term of the agreement. The Drilling Services Contract provided for the delivery of services, personnel and equipment for the purposes of operating and maintaining the Explorer (the "Drilling Services").
+10. Under the terms of the Charter, the Co-Venturers were obligated to make the following payments to TOI or TOVI:
+(a) Day Rates - Under the Bareboat Charter, the Co-Venturers were obligated to pay US$60,000 to TOI for each day that the Explorer was in actual use. The total amount that would have been paid under the Bareboat Charter for the two year period of the Charter was US$43,800,000. Under the Drilling Services Contract, the Co-Venturers were obligated to pay US$45,000 to TOVI for each day that Drilling Services were provided to the Co-Venturers (collectively, the "Day Rates");
+Bareboat Charter between Co-Venturers and TOI, Article VII,
+Joint Book of Documents, Tab 2.
+Drilling Services Contract between Co-Venturers and TOVI, Article VII,
+Joint Book of Documents, Tab 3.
+(b) Upgrade Payments - In addition to the ongoing obligation to pay the Day Rates, the Co-Venturers were also obligated to pay for a host of specified upgrades on the Explorer (the "Upgrades"). The Upgrades were initially expected to cost the Co-Venturers approximately US$52 million and were aimed at making the Explorer fit for the purposes of executing the drilling program contemplated by the Charter. Specifically, the Upgrades were aimed at: (i) modernizing the Explorer; (ii) ensuring that the Explorer could be operated under harsh environmental conditions; and (iii) enabling the Explorer to satisfy stricter Canadian regulatory standards.
+Under the Bareboat Charter, the Co-Venturers would retain title to all of the Upgrades and, at the end of the agreement, TOI had the option to purchase all of the Upgrades for an amount equal to the book value of the Upgrades (computed using an eight year depreciation in accordance with generally accepted accounting principles) less the cost to, as soon as reasonably possible, remove the Upgrades from the Explorer and return the Explorer to the same good order and condition as it was in prior to the commencement of the Upgrades. If TOI chose to waive its right to purchase the Upgrades, the Co-Venturers had the option to waive their rights in the Upgrades or to remove the Upgrades and return the Explorer in its original good order and condition; and
+Bareboat Charter between Co-Venturers and TOI, Article 2.2 and 2.3
+Joint Book of Documents, Tab 2.
+(c) Mobilization Fee - Finally, the Co-Venturers were required to pay a "Mobilization Fee" of US$11 million to cover all costs and expenses related to the mobilization of the Explorer from its existing location in the North Sea to the shipyard in Canada at which the Upgrades were to be performed.
+Bareboat Charter between Co-Venturers and TOI, Article 2.1,
+Joint Book of Documents, Tab 2.
+All payments made by the Co-Venturers under the Bareboat Charter were to be made on an after-tax basis. The Co-Venturers were further required to reimburse TOVI for any Canadian tax, above a stated threshold, that was levied on payments made under the Drilling Services Contract.
+Bareboat Charter between Co-Venturers and TOI, Article 7.6,
+Joint Book of Documents, Tab 2.
+Drilling Services Contract between Co-Venturers and TOVI, Article 5.17,
+Joint Book of Documents, Tab 3.
+11. The Charter was to commence on the completion of the contract with Marathon for the Explorer (the "Marathon Contract"), but no earlier than December 31, 1997 (the "Mobilization Date").
+12. However, at the request of the Co-Venturers, the Marathon Contract was extended and ultimately was not completed until the end of December, 1998. As a result, the Charter would not have commenced until the end of December, 1998 at the earliest.
+Letter Agreement between Transocean Offshore (North Sea) Limited and Marathon,
+dated October 28, 1997, Joint Book of Documents, Tab 4.
+Letter Agreement between Petro-Canada and TOI,
+dated October 30, 1997, Joint Book of Documents, Tab 5.
+Letter from Travis Fitts, Jr., TOI to Greg Lever, Petro-Canada,
+dated November 4, 1997, Joint Book of Documents, Tab 6.
+13. In the period following the signing of the Charter, the scope and complexity of the Upgrades significantly increased. At the same time, the availability of higher specification rigs significantly increased and the day rates charged for such rigs decreased. The Co-Venturers became increasingly concerned with the escalating costs of the Upgrades and attempted to get TOI to agree to either charter another rig to the Co-Venturers in place of the Explorer or "cap" the Co-Venturers' liability for the Upgrades. By December, 1998, the projected cost of the Upgrades had increased to as much as US$75 million.
+14. In late November, 1998, prior to the Mobilization Date, the Co-Venturers informed TOI that they were "very uncomfortable with the existing arrangements for the Explorer" and that they did not believe they were the "best solution" for any of the parties.
+Letter from Gary Bruce, Petro-Canada to W. Dennis Heagney, TOI,
+dated November 30, 1998, Joint Book of Documents, Tab 7.
+15. From December 3, 1998 through December 21, 1998, TOI (on behalf of itself and its affiliates) and the Co-Venturers engaged in settlement negotiations with a view to determining the amount that the Co-Venturers would pay to TOI and TOVI as a consequence of the Co-Venturers' repudiation of the Charter.
+16. On December 7, 1998, the Co-Venturers made a "Without Prejudice" offer to TOI (the "First Settlement Offer"). The First Settlement Offer proposed that the Co-Venturers would charter another, more modern vessel from TOI on certain specified terms and provide TOI with a payment of US$30 million in exchange for TOI and TOVI agreeing to release the Co-Venturers from their obligations under the Charter.
+17. On December 11, 1998, TOI made a counterproposal to the Co-Venturers (the "Counterproposal"). The Counterproposal envisioned the Co-Venturers making a payment of US$65 million to TOI and agreeing to charter another Transocean rig on certain specified terms in exchange for TOI and TOVI agreeing to release the Co-Venturers from their obligations under the Charter.
+18. Finally, on December 21, 1998, following further negotiations among TOI, TOVI and the Co-Venturers, Petro-Canada, on behalf of itself and the Co-Venturers, entered into a Deed of Settlement and Release (the "Deed of Settlement") with the Appellant, TOI, and TOVI under which the Co-Venturers were released from their obligations under the Charter. The Co-Venturers agreed to pay US$40 million to the Appellant as full and final consideration for voluntary termination of the Charter. The Co-Venturers were also required to pay to TOVI US$1,931,868.18 to cover upgrade team expenses.
+Deed of Settlement between the Co-Venturers, TOI, TOVI and the Appellant,
+dated December 21, 1998, Joint Book of Documents, Tab 8.
+Press Release by TOI, dated December 22, 1998, Joint Book of Documents, Tab 9.
+19. Mobilization of the Explorer, as contemplated in Article II, section 2.1 of the Bareboat Charter did not occur.
+20. Subsequent to the execution of the Deed of Settlement, the Co-Venturers solicited new tenders for drilling rigs to be used in connection with the Terra Nova project. TOI tendered a bid for the new Terra Nova contract, but was ultimately not selected as the successful bidder.
+21. From the completion of the Marathon Contract to the present date, the Explorer has remained idle in the United Kingdom and has not been chartered to another party.
+22. When making the Settlement Payment, 25% or US$10 million (Cdn.$15,260,000) was withheld by the Co-Venturers and remitted to the Canada Customs and Revenue Agency (the "CCRA").
+23. On February 1, 1999, the Appellant made an application to the CCRA for a refund of the Cdn.$15,260,000 withheld and remitted.
+Refund Application to the CCRA, dated February 1, 1999,
+Joint Book of Documents, Tab 10.
+24. On July 17, 2000, the CCRA issued a Notice of Assessment (the "Assessment") to the Appellant, denying the refund requested on the basis that the Appellant was liable to tax on the Settlement Payment under Part XIII of the Income Tax Act (Canada).
+Notice of Assessment of the Appellant - Assessment #1385191, dated July 17, 2000, Joint Book of Documents, Tab 11.
+25. The Appellant duly filed a Notice of Objection to the Assessment.
+Appellant's Notice of Objection, dated October 10, 2000,
+Joint Book of Documents, Tab 12.
+26. On April 17, 2002, the CCRA confirmed the Assessment.
+Notice of Confirmation of Assessment #1385191, dated April 17, 2002,
+Joint Book of Documents, Tab 13.
+[4] A joint book of documents was filed as Exhibit A-1.
+[5] In summary, on May 15, 1997, Petro-Canada for itself, and for and on behalf of its co-venturers, entered into a bareboat charter agreement (the "Bareboat Charter") with Transocean Offshore Inc. with respect to the offshore drilling rig Transocean Explorer (Tab 2 of Exhibit A-1). There was also a drilling services agreement between Petro-Canada and Transocean Offshore Ventures Inc. (Tab 3 of Exhibit A-1).
+[6] In the fall of 1998, Petro-Canada and its co-venturers decided not to go through with the agreements. A deed of settlement and release was entered into with Transocean Offshore Inc., Transocean Offshore Ventures Inc. and Transocean Offshore Limited, the Appellant (Tab 8 of Exhibit A-1). Section 2 of that agreement deals with the voluntary termination of the Bareboat Charter. The pertinent part of that section reads as follows:
+2. The Charterer shall pay to TOL, as owner of the Transocean Explorer and in consideration for voluntary termination of the Bareboat Charter, by wire transfer sent by noon Toronto time on December 23, 1998, the sum of U.S.$40 million, payable by U.S.$30 million to TOL and U.S.$10 million into an escrow account maintained by . . .
+[7] Section 3 of the same agreement specifies that the drilling services contract is terminated in accordance with section 2.2(d) of that contract. That section gave Petro-Canada the right to terminate the contract if the Bareboat Charter was terminated.
+[8] As for the reasons for the assessment, a letter dated July 17, 2000, accompanying the assessment (both documents appear at Tab 11 of Exhibit A-1) stated that the payment of US$40,000,000 was taxable in accordance with paragraph 212(1)(d) of the Act.
+[9] There was no oral evidence adduced as to the basis of the calculation of the amount of US$40,000,000. There was no apportionment of that amount in the documentary evidence either.
+[10] The pertinent part of paragraph 212(1)d) of the Act reads as follows:
+212 Taxation of non-residents
+(1) Every non-resident person shall pay an income tax of 25% on every amount that a person resident in Canada pays or credits, or is deemed by Part I to pay or credit, to the non-resident person as, on account or in lieu of payment of, or in satisfaction of,
+. . .
+(d) Rents, royalties, etc. - rent, royalty or similar payment, including, but not so as to restrict the generality of the foregoing, any payment
+(i) for the use of or for the right to use in Canada any property, invention, trade-name, patent, trade-mark, design or model, plan, secret formula, process or other thing whatever,
+. . .
+but not including
+. . .
+(ix) a rental payment for the use of or the right to use outside Canada any corporeal property,
+. . .
+Argument
+[11] The appellant's principal argument is that the Bareboat Charter never became operative, that the Transocean Explorer was never used in Canada and that no payments under the Bareboat Charter, including any rental payments by the co-venturers ever became due.
+[12] Counsel for the appellant reminded the Court that the appellant's assessment was made under paragraph 212(1)(d) of the Act, which requires a non-resident person to pay an income tax of 25% on any amount that a person resident in Canada pays to the non-resident person as, on account or in lieu of payment of, or in satisfaction of, rent or a similar payment for the use in Canada of a property. Counsel referred to subparagraph 212(1)(d)(ix), which provides, for greater certainty, that a rental payment for the use of, or the right to use, outside Canada, any corporeal property is exempt from taxation in Canada.
+[13] Counsel questioned the decision by which, despite the Transocean Explorer never having been physically in Canada, the Minister of National Revenue (the "Minister") imposed a 25% withholding tax on the US$40,000,000 in question on the basis that it was paid as, on account or in lieu of payment of, or in satisfaction of, rent for the use of the Transocean Explorer in Canada.
+[14] Counsel indicated that the issue is not whether the amount in question would be considered income under Part I of the Act, which could well be the case. Indeed, counsel acknowledged, the caselaw has consistently held that damages may be income or capital, depending on what the damages replace.
+[15] Counsel argued that the issue concerns Part XIII of the Act, which imposes tax on non-residents with respect to very specific types of payments such as interest, dividends, rent and royalties. In the present case, the assessment can only stand if the payment is a payment as, on account or in lieu of payment of, or in satisfaction of, rent. According to counsel, the caselaw has also consistently held that damages paid for breach of contract do not take on the specific character of the object those damages replace. Thus, damages for termination of an employment contract are not remuneration or a benefit from employment, and a payment in respect of future interest on early repayment of a loan is not interest. Counsel therefore submitted that damages in respect of the termination of a lease are not rent.
+[16] In this regard, counsel referred to the decision of the Federal Court of Appeal in The Queen v. Atkins, 76 DTC 6258, in which it was held that damages for wrongful dismissal were not income from employment, and to the decision of the Supreme Court of Canada in Schwartz v. The Queen, 96 DTC 6103, [1996] 1 S.C.R. 254, in which it was held that damages for breach of an employment contract prior to the commencement of the employment were not taxable. The Federal Court of Appeal has confirmed, in Girouard v. The Queen, 80 DTC 6205, The Queen v. Pollock, 84 DTC 6370 and Buccini v. The Queen, 2000 DTC 6685, that damages for wrongful dismissal are not income from employment.
+[17] Regarding damages paid for unearned interest, counsel referred to Puder v. M.N.R., 62 DTC 555, a decision of the Tax Appeal Board reversed by the Exchequer Court, 63 DTC 1282. The Tax Appeal Board (composed of five members) had found that the unearned interest paid with respect to the balance of a three-year contract was a payment on account in lieu or in satisfaction of interest and should be included in income. Thurlow J. of the Exchequer Court reversed that decision on the basis that unearned interest is not interest. Counsel for the appellant referred to the following excerpt from page 1284 :
+It was said that under the mortgage the appellant had but two claims, one to the principal sum, the other to interest, that the amount in question was not principal but had the quality of interest and could only be a sum received as interest or in lieu of interest, and that the amount would have been interest if earned and its quality as income would not change because of its having been received in a lump sum payment.
+In my opinion this contention cannot succeed. It disregards the fact that the appellant had other rights besides those to repayment of the principal and interest at the time when the release was requested and it overlooks as well the fact that the amount in question was never earned as interest. Interest, in my opinion, is essentially compensation for the use or retention of money for a period of time (vide Riches v. Westminster Bank, [1947] A.C. 390) and here this element is lacking. The amount in question was not paid or received for or in respect of the use or retention of the principal sum for the period of fifteen months or thereabouts during which the mortgage was in effect. Nor on the other hand was it paid or received for or in respect of the use of the principal sum for the remainder of the three-year period provided for in the mortgage for throughout that period the appellant had his principal sum and presumably the use of it as well and the mortgagor had neither. Though called interest the amount was accordingly not interest in fact and as it was not interest I do not think it can be regarded as having been "received as interest" within the meaning of s. 6(1)(b). In this respect the case resembles that which I had occasion to consider in R. G. Huston v. M.N.R., [1962] Ex. C.R. 69 [61 DTC 1233], and I adhere to the opinion therein expressed. Nor in my opinion can the amount properly be regarded as having been received "on account of or in lieu of payment of, or in satisfaction of interest" within the meaning of s. 6(1)(b) since no part of the amount ever accrued as interest and no part of it was paid in lieu of or in satisfaction of any amount that ever accrued as interest.
+[18] Counsel for the appellant concluded by saying that, similarly, unearned rental payments where the use of the equipment rented has not begun cannot be considered as being in the nature of payments for rent. Therefore, the amounts in question were not paid as, on account or in lieu of payment of, or in satisfaction of, rent or similar payments.
+[19] For her part, counsel for the respondent argued that a review of income tax case law shows that payments made as damages for the termination or the breach of rental contracts are frequently referred to as payments in lieu of rent. The first case to illustrate this fact is Grader v. M.N.R., 62 DTC 1070 (Ex. Ct.). The issue there was whether amounts paid upon the cancellation of a lease were income. The appellant contended that the sum he had received was a capital receipt, being compensation for a capital loss. The Exchequer Court, however, found that, taking into account all of the circumstances of the case, the payments received by the appellant should be regarded in his hands as rental received or payments in lieu of rental, or as being in the nature of casual profit derived from a property, and thus constituted income rather than amounts received on capital account.
+[20] Counsel referred to the decision of the Tax Review Board in Berlin Motels Limited v. M.N.R., 73 DTC 137. In Berlin, a lease agreement between the appellant as lessor and Mileyan Hotels Limited as lessee called for the latter to deposit $75,000 with a trustee, which sum was to be forfeited in case of default in making the rental payments. In due course, the lessee did default and the sum was seized by the appellant. The Minister contended, in Berlin, that the sum was received in satisfaction of the guarantor's covenant to pay the rent on default by the tenant and that it was rent or a payment in lieu of rent. It was submitted for the appellant, on the other hand, that the appellant was not ordinarily engaged in the business of leasing property, that it had leased a business as a going concern and that the amount in question was received as liquidated damages for deterioration of capital assets of the business. The Board came to the conclusion that the $75,000 received by the appellant was not for liquidated damages arising out of the deterioration of capital assets, but was received as a payment in lieu of rent.
+[21] Counsel referred as well to Monart Corporation v. M.N.R., 67 DTC 5181 (Ex. Ct.), in which the appellant accepted $75,000 to cancel a lease for the remainder of its term. The question was whether that payment was on account of capital or income. The Court concluded in the following terms at page 5186, that the payment was on account of income:
+. . . since the sum of $75,000 paid to appellant . . . was in lieu of future rent in respect of the demised premises . . . and was also in the nature of profit derived from a property or a business of the appellant.
+[22] Respecting the submission that no obligations to make any payments under the Bareboat Charter had arisen, counsel for the respondent in the present case argued that the obligations were created when the contract was signed. Had there been no obligations, there would have been no reason for any payment of damages. Damages are paid for amounts that would have been due in the future.
+[23] Counsel for the respondent stated that the case of Atkins (supra) and the court decisions that applied its ratio decidendi have no application to the present situation. The principles they set out only apply in the context of employment contracts and not to general business contracts. They are an exception to the general rule that damages are taxable. The fact that the principles from the Atkins line of cases are not relevant to ordinary business contracts was noted by Strayer J. in Zygocki v. The Queen, 84 DTC 6283 (F.C.T.D.). Relying on the obiter dictum of the Supreme Court of Canada in the case of Jack Cewe Ltd. v. Jorgenson, 80 DTC 6233, Strayer J. held that the payment received by the plaintiff pursuant to a settlement was income received from a business.
+[24] Counsel submitted that the principles in Schwartz (supra) did not apply to the present situation. The decision in Schwartz, she argued, turned on the definitions of "employment", "employee" and "retiring allowance". She submitted that Schwartz does not stand for the principle that if the duties under the contract have not commenced, damages received for breach of contract do not take on the specific character of amounts or rights received under a contract.
+[25] The appellant's argument, according to counsel for the respondent, ignores the case law regarding the tax treatment of damages, which treatment is clearly stated in London and Thames Haven Oil Wharves, Ltd. v. Attwooll (Inspector of Taxes), [1967] 2 All E.R. 124. The principles enunciated in that decision clearly form the foundation of the state of the law today.
+[26] Counsel for the respondent argued that the appellant relied on the decision of the Exchequer Court in Puder v. M.N.R. (supra) in support of the assertion that damages for breach of contract taking place prior to the time performance of the obligations under the contract was to begin are not payments made on account of those obligations. Counsel for the respondent stated that the principles in Puder are only relevant to cases where the obligation is to pay interest. The essential nature of interest is that if it does not in actual fact accrue upon an existing principal amount, it cannot be called interest.
+Conclusion
+[27] Regarding the principles applicable with respect to the taxation of damages, I will begin by quoting Hogg, Magee and Li from their work Principles of Canadian Income Tax Law, 4th ed., Chapter 4.7(a), pages 91-93 (footnotes omitted):
+4.7 Damages and settlements
+(a) The "surrogatum principle"
+A person who suffers harm caused by another may seek compensation for (a) loss of income, (b) expenses incurred, (c) property destroyed, or (d) personal injury, as well as punitive damages. For tax purposes, damages or compensation received, either pursuant to a court judgment or an out-of-court settlement, may be considered as on account of income, capital, or windfall to the recipient. The nature of the injury or harm for which compensation is made generally determines the tax consequences of damages.
+Under the surrogatum principle, the tax consequences of a damage or settlement payment depend on the tax treatment of the item for which the payment is intended to substitute. Generally, compensation for a loss of income is taxed as income. For example, compensation for a finder's fee, loss of profits, or lost wages or earnings have all been held to be taxable as income. The recovery of an expense is not income, unless the expense was deducted. A payment for damaged or destroyed property is treated as an amount received in a sale or exchange of the property. A payment for the loss of capital is treated on account of capital. A capital receipt is generally not income. However, compensation on account of capital may be taxable if it is considered as [an] "eligible capital amount", or if there is a "disposition" of a "property" where the payment is made in exchange for the discharge of a legal right. Damages for personal injuries and punitive damages are generally excluded from income for lack of a productive source.
+[28] In the decision of the Supreme Court of Canada in Schwartz (supra), the application of the surrogatum principle as the basis of an assessment was discussed at pages 6114-15:
+(b) The Surrogatum Principle and Unenumerated Sources
+The Crown relies on the principle developed by Diplock, L.J. in London & Thames, supra, and argues that the portion of damages received by Mr. Schwartz relating to lost salary and stock options constitutes income from a source. In London & Thames, Diplock, L.J. had this to say, at p. 134:
+Where, pursuant to a legal right, a trader receives from another person, compensation for the trader's failure to receive a sum of money which, if it had been received, would have been credited to the amount of profits (if any) arising in any year from the trade carried on by him at the time when the compensation is so received, the compensation is to be treated for income tax purposes in the same way as that sum of money would have been treated if it had been received instead of the compensation.
+The Minister, quite correctly, noted that this principle was adopted and applied by the Federal Court of Appeal in Manley, supra. There the Minister had assessed damages received by the taxpayer in compensation for a finder's fee he was entitled to pursuant to a commercial agreement as constituting profit from a business taxable under s. 9(1) of the Act. Mahoney, J.A., for the court, after citing relevant excerpts from London & Thames, stated, at p. 219:
+In the present case, the respondent was a trader; he had engaged in an adventure in the nature of trade. The damages for breach of warranty of authority, which he received from Benjamin Levy pursuant to a legal right, were compensation for his failure to receive the finder's fee from the Levy family shareholders. Had the respondent received the finder's fee it would have been profit from a business required by the Income Tax Act, to be included in his income in the year of its receipt. The damages for breach of warranty of authority are to be treated the same way for income tax purposes.
+In the present case, the Federal Court of Appeal applied this principle and found that, since part of the damages received by the appellant replaced lost salary and stock options which, if they had been paid to Mr. Schwartz, would have constituted income from employment taxable under s. 5(1), such damages had to be treated in the same manner for tax purposes, i.e., as income from [an] office or employment taxable under s. 5(1) of the Act.
+The solution arrived at by the Federal Court of Appeal is in contradiction with the findings in the Atkins case, supra, where the same court held that such damages could not be characterized as income from [an] office or employment under s. 5(1). The correctness of the conclusion arrived at in Atkins was reaffirmed in 1984 by the Federal Court of Appeal in Pollock, supra, despite the doubts expressed in an obiter dictum by Pigeon, J. in Jack Cewe Ltd. v. Jorgenson, [1980] 1 S.C.R. 812, at pp. 815-16.
+However, the correctness of Atkins is not at issue before us since the Minister, as I have explained, is not arguing that the amounts are taxable as income from employment, but submits, rather, that they are income from an unenumerated source taxable under the general provision of s. 3(a) of the Act. . . .
+[29] The surrogatum principle would appear to have been put aside in the above decision because the Minister had assessed the amounts received as damages not as income from employment but as income from an unenumerated source. The Court found that the surrogatum principle was in contradiction with the Atkins and the Pollock cases but made no decision on the merit of the principle or on the validity of the two cases mentioned. It based its decision on the meaning of the expression "retiring allowance".
+[30] I wish to refer to the analysis of Strayer J. in Zygocki, supra, at page 6285, regarding the tax treatment of monies received as damages:
+There are numerous authorities on the question of when monies received as damages, or in settlement, for breach or termination of contract should be treated for taxation purposes as income and when they should be treated as capital. It is unnecessary to recite all of these. One of the leading statements is that of Diplock, L.J. in London and Thames Haven Oil Wharves, Ltd. v. Attwooll, [1967] 2 All. E.R. 124 (C.A.) at 134, 136. He said in effect that if a trader receives from another person compensation because of his failure to receive another sum of money which, had it been received, would have been credited to profits, then the compensation should be regarded as income. If on the other hand a compensation is paid because of the destruction or permanent deprivation of a capital asset, then it should be treated as capital for taxation purposes. In Commissioners of Inland Revenue v. Fleming & Co. (Machinery), Ltd. (1951), 33 Tax Cases 57 at 63 (C.S.), Lord Russell had said essentially the same thing in stating that if such payments were "no more than a surrogatum for the future profits surrendered" then they should be treated as income. If however "the rights and advantages surrendered on cancellation are such as to destroy or materially to cripple the whole structure of the recipient's profit-making apparatus . . . the compensation represents the price paid for the loss or sterilisation of a capital asset" and therefore compensation paid for such rights should be treated as capital. Distinctions of this nature have been applied in this Court: see, e.g., Minister of National Revenue v. Import Motors Limited, [73 DTC 5530], [1973] C.T.C. 719; Packer Floor Coverings Ltd. v. Her Majesty The Queen. [82 DTC 6027], [1981] C.T.C. 506.
+[31] From the foregoing doctrinal and judicial writings, I reach the conclusion that, as stated by counsel for the respondent, the case law regarding damages for breach of an employment agreement and with respect to unearned interest (if that case law is correct, which has been put in doubt by Cewe, supra), that is the basis of the appellant's position, does not apply to trade agreements. To those it is the surrogatum principle, aptly described by Strayer J. in Zygocki above, that applies.
+[32] The Minister assessed the entire amount of damages in question on the basis that it had been paid as, on account or in lieu of payment of, or in satisfaction of, the rent or a similar payment for the use of, or the right to use, in Canada, the Transocean Explorer, an offshore drilling rig.
+[33] In his argument counsel for the appellant referred to obligations other than the payment of rent that arose from the Bareboat Charter and suggested that the payment of the negotiated sum of US$40,000,000 avoided payment of obligations that would have totalled US$138,666,669. These obligations are described in paragraph 10 of the Statement of Agreed Facts reproduced at paragraph 3 of these reasons. From my reading of the obligations, I would find it difficult to accept that, following the breach of the agreement, the lessee would have been required to compensate the lessor with respect to any obligations other than the obligation to pay rent under the agreement.
+[34] At any rate, no evidence was adduced to contradict the Minister's assumption of fact that the amount of US$40,000,000 was paid as damages for loss of rental revenue arising from the breach of the Bareboat Charter. That assumption of fact appears very reasonable and, taking into account that the burden of proof is on the appellant, I consider it an accurate assumption of fact. So much more when I read sections 2 and 3 of the Deed of Settlement and Release (Tab 8 of Exhibit A-1), referred to at paragraphs 6 and 7 of these Reasons.
+[35] Much was said about the meaning of the expression "in lieu of" not being comprised in the meaning of the French expression "au titre de". I do not wish to comment more specifically on that matter except to say that in the context of paragraph 212(1)(d) of the Act, the meaning of the former expression is comprised in the meaning of the latter. I should also think that compensatory damages for breach of a contract are paid as, on account or in lieu of the object of the contractual agreement.
+[36] It is of interest to note that the principles respecting the taxation of damages that have been developed in Great Britain and in Canada are also those followed in the United States. In the United Tax Reporter, Volume 3A at paragraphs 614.168, 614.164 and 615.171, it is stated that, regarding an amount received as damages, the test is to look to the nature of the item for which damages are a substitute. The principal decision in this regard is Hort v. Com., 41-1 USTC 255, which is to the effect that to determine whether, and to what extent, an amount received as damages, whether by compromise or as a result of a judgment, should be considered income, it is necessary to look at the nature of the item for which those damages are a substitute. Thus, if they are a substitute for rent, they are income, just as rent would have been if collected in ordinary course of things.
+[37] In American law, the same principles apply, with the same results, to the taxation of non-residents (see paragraph 14,415.07 of Vol. 12 of the same collection). The basic decision in this regard is Com. v. Wodehouse, 49-1 USTC 479. In holding that amounts received in advance and in full by a non-resident alien author for exclusive serial or book rights in the U.S. were taxable as royalties, the Supreme Court rejected contentions that (1) the amounts in question represented proceeds from the sale of a property interest in copyright, and (2) that a lump-sum payment was not "annual" or "periodical" income. The Court observed that a single advance payment to cover an entire 28-year period of copyright falls within the reach of revenue laws just as much as, or even more so than, two or more partial payments of same sum.
+[38] To conclude, I find that the damages paid to the appellant were so paid to compensate for the rent that would have been paid under the Bareboat Charter if it had not been repudiated. In accordance with the caselaw on the taxation of amounts of damages received as compensation for breach of trade agreements, I therefore find that the compensatory monetary amount here in question was paid as, on account or in lieu of payment of, or in satisfaction of, rent or a similar payment for the use of, or for the right to use in Canada, a property.
+[39] The appeal is dismissed with costs to the respondent.
+Signed at Ottawa, Canada, this 25th day of June, 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J
+CITATION:
+2004TCC454
+COURT FILE NO.:
+2002-2615(IT)G
+STYLE OF CAUSE:
+Transocean Offshore Limited and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 7, 2004
+REASONS FOR JUDGMENT BY:
+The Hon. Justice Louise Lamarre Proulx
+DATE OF JUDGMENT:
+June 25, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Richard B. Thomas
+Michael Friedman
+Counsel for the Respondent:
+Kathryn R. Philpott
+Annie Paré
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Richard B. Thomas
+Firm:
+McMillan Binch
+Barristers & Solicitors
+Toronto, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

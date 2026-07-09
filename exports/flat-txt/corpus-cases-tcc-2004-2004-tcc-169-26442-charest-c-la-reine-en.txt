@@ -1,0 +1,91 @@
+Title: Charest c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26442/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-169-26442-charest-c-la-reine-en.md
+Document type: case_law
+Last modified: 2004-02-27
+
+# Charest c. La Reine
+
+- Citation: 2004 TCC 169
+- Decision date: 2004-02-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3193, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Charest c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-02-27
+Neutral citation
+2004 TCC 169
+File numbers
+2002-2950(IT)I
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Reference: 2004TCC169
+Date: 20040227
+Docket: 2002-2950(IT)I
+BETWEEN:
+BENOIT CHAREST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on August 5, 2003, at Quebec City, Quebec,
+and edited for greater clarity.)
+Judge Pierre Archambault
+[1] Mr. Charest challenged reassessments for the 1998, 1999, and 2000 taxation years (relevant period), by which the Minister of National Revenue (Minister) denied his GST/HST rebate application under subsection 253(1) of the Excise Tax Act (Act). This subsection states the following:
+Employees and Partners
+253. (1) Where
+(a) a musical instrument, motor vehicle, aircraft or any other property or a service is or would, but for subsection 272.1(1), be regarded as having been acquired, imported or brought into a participating province by an individual who is
+(i) a member of a partnership that is a registrant, or
+(ii) an employee of a registrant (other than a listed financial institution),
+. . .
+(b) the individual has paid the tax (in this subsection referred to as the "tax paid by the individual") payable in respect of the acquisition or importation of the property or service, or the bringing into a participating province of the property, as the case may be,
+. . .
+the Minister shall, subject to subsections (2) and (3), pay a rebate in respect of the property or service to the individual for each calendar year equal to the amount determined by the formula
+A x (B - C)
+where
+. . .
+[2] The facts in this case are not in dispute at all. Moreover, Mr. Charest acknowledged all of the facts stated in the Reply to the Notice of Appeal, except subparagraphs 3e) and f). The subparagraphs of paragraph 3 of this answer state:
+[TRANSLATION]
+a) Among other things, the appellant worked for "Tassé & Associés, Limitée" during the 1998 and 1999 taxation years as an investment advisor.
+b) Among other things, the appellant worked for "Valeurs Mobilières Banque Laurentienne inc." during the 2000 taxation year as an investment advisor.
+c) The Excise Tax Act offers some employees a rebate of the GST paid on the expenses that are deductible when computing their employment income for income tax purposes.
+d) For each taxation year, the appellant completed an employee and partner goods and services tax rebate application for which he provided the following forms:
+i) 1998 -
+Form T2200 (97) entitled "Declaration of Conditions of Employment" signed by an authorized person from the company "Tassé & Associés Limitée"
+Form GST370 F(97) entitled "Employee and Partner GST/HST Rebate Application"
+i) 1999 -
+Form T2200 (97) entitled "Declaration of Conditions of Employment" signed by an authorized person from the company "Tassé & Associés Limitée"
+Form GST370 F(99) entitled "Employee and Partner GST/HST Rebate Application"
+iii) 2000 -
+Form T2200 (00) entitled "Declaration of Conditions of Employment" signed by an authorized person from the company "Valeurs Mobilières Banque Laurentienne inc."
+Form GST370 F(00) entitled "Employee and Partner GST/HST Rebate Application"
+e) TheExcise Tax Act requires that the appellant be eligible for the employee and partner GST/HST rebate and that he not be employed by a designated financial institution, including banks, insurance companies, trusts, or investment brokers.
+f) For each of the years at issue, the Minister refused to grant the appellant an employee and partner GST/HST rebate because his employers, namely "Tassé & Associés, Limitée" and "Valeurs Mobilières Banque Laurentienne inc.," are considered designated financial institutions.
+[3] The issue is whether Mr. Charest worked during the relevant period for a "designated financial institution." This concept is defined in subsection 123(1) of the Act: a "designated financial institution" is a person set out in paragraph 149(1)(a). Subparagraph 149(1)(a)(iii) states the following:
+Financial institutions
+149. (1) For the purposes of this Part, a person is a financial institution throughout a particular taxation year of the person if
+(a) the person is
+[. . .]
+(iii) a person whose principal business is as a trader or dealer in, or as a broker or salesperson of, financial instruments or money
+[4] Tassé & Associés and Valeurs Mobilières Banque Laurentienne were clearly designated financial institutions within the meaning of the Act since they were stockbrokers and dealers in financial instruments. Since Mr. Charest worked during the relevant period for a designated financial institution, he could not be entitled to a GST rebate for his expenses related to work done for these employers.
+[5] One of the main arguments put forward by Mr. Charest was that thegeneral income tax and benefit guides[1] for the relevant period did not state that employees of a designated financial institution were not qualified for the rebate. They simply suggested that taxpayers consult the "Employment Expenses" guide. In my opinion, that argument is unfounded in law. This Court is required to enforce the Act, and the relevant provisions of the Act are very clear. Even though the Minister had committed an error when preparing the guides by omitting the exception regarding employees of designated financial institutions, this would not change the fact that the Act does not recognize any entitlement to the GST rebate for expenses related to work for these types of employers. It has been clearly recognized many times in the case law that this Court is required to enforce the Act, not any income tax guides, which are not a source of law. It would be the same even if it were an official from the Canada Customs and Revenue Agency (Agency) who had misled a taxpayer concerning the entitlement to that rebate.
+[6] All I can suggest is that Mr. Charest make an administrative request to the Agency under the "fairness provisions" set out in Information Circular 98-1R. The decision regarding that type of request - do I need to say this? - does not fall under the jurisdiction of this Court. Under the fairness provisions, the Agency could cancel part or all of the interest if it found that its guides contained errors. (See in particular section 3 of the Circular.)
+[7] For all of these reasons, Mr. Charest's appeals are dismissed. Since this is an informal procedure, no costs may be awarded to the respondent.
+"Pierre Archambault"
+Archambault J.
+Certified true translation
+Colette Beaulne
+[1] Mr. Charest filed the general guides for 1998, 1999, and 2000. He filed the Employment Expenses guide only for 2001, and that guide states on page 21 that employees of designated financial institutions are not qualified for a rebate.

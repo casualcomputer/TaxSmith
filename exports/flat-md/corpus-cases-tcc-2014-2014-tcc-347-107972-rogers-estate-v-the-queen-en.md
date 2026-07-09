@@ -1,0 +1,181 @@
+---
+title: "Rogers Estate  v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/107972/index.do"
+last_modified: "2014-11-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 347"
+citation2: ""
+neutral_citation: "2014 TCC 347"
+decision_date: "2014-11-24"
+language: "en"
+item_id: "107972"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2747
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:26:26.643000+00:00"
+cases_cited_count: 12
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "051a4dcbe56ee15375180ad0bdc4ec6dfdf5b5c8d95fd669e6cb98bfc4ede94a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rogers Estate  v. The Queen
+
+- Citation: 2014 TCC 347
+- Decision date: 2014-11-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2747, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rogers Estate v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-11-24
+Neutral citation
+2014 TCC 347
+File numbers
+2012-1845(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1845(IT)G
+BETWEEN:
+THE ESTATE OF THE LATE EDWARD S. ROGERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on November 21, 2014 at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Hemant Tilak
+Pooja Samtani
+Counsel for the Respondent:
+Samantha Hurst
+ORDER
+Upon the appellant bringing a motion before the Court to amend its notice of appeal after the hearing of the appeal;
+And upon having heard the submissions of counsel for the respondent and having read the materials filed;
+The motion is dismissed in accordance with the attached reasons for order.
+Costs shall be in the cause.
+Signed at Toronto, Ontario, this 24th day of November 2014.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2014 TCC 347
+Date: 20141124
+Docket: 2012-1845(IT)G
+BETWEEN:
+THE ESTATE OF THE LATE EDWARD S. ROGERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Hogan J.
+I. Overview [1] The present case is an appeal from a reassessment made by the Minister of National Revenue (the “Minister”) for the Appellant’s 2007 taxation year. The dispute concerns the characterization of an amount (the “Cash Payment”) received by the taxpayer, Edward S. Rogers (“Mr. Rogers”), in that year. The Cash Payment was made to Mr. Rogers by Rogers Communications Inc. (“RCI”) in exchange for the surrender of stock options which had been granted to Mr. Rogers in 1997 under RCI’s employee stock option plan. The taxpayer reported the Cash Payment as a capital gain in his tax return for that year and, accordingly, included one-half of the amount in his taxable income for that year. In 2011, the Minister reassessed the taxpayer to include the entire Cash Payment.
+[2] The Minister concluded that the Cash Payment was fully taxable income, and not a capital gain, on the basis of any of three alternative arguments, namely: (i) that the amount was income from employment or an employment benefit pursuant to either section 5 or paragraph 6(1)(a) of the Income Tax Act (the “Act”); (ii) that the amount was a shareholder benefit under subsection 15(1) of the Act; (iii) that the amount was a profit from an adventure in the nature of trade and is thus caught by subsection 9(1) of the Act (the “Section 9 Argument”).
+[3] At trial, the Respondent abandoned the last of these arguments – the Section 9 Argument – for lack of evidence. The hearing was then adjourned pending further submissions from the parties on whether I could still consider the Section 9 Argument. While the parties’ further submissions on the Section 9 Argument were still pending, the Tax Court of Canada (the “TCC”) released its reasons for judgment in Mathieu c. La Reine,[1] a case that likewise concerns the taxation of employee stock options disposed of to a non-arm’s length party.
+[4] The Appellant seeks leave to amend its notice of appeal in order to address issues raised during the Court’s consideration of the Section 9 Argument, which issues, it argues, are addressed by the recent Mathieu decision. The amendment sought advances a new argument, namely: that the Cash Payment is a “tax nothing”. Mr. Rogers’ tax return was therefore prepared in error. The Appellant contends that the Cash Payment is a nothing because, although it is income from a source that is employment, the payment is nevertheless not income from employment under sections 5, 6 or 7 of the Act. Since the Cash Payment is income from a specific source (employment), it cannot be considered income from any other source, i.e. a capital gain. Given that none of sections 5, 6 or 7 imposes tax on the Cash Payment, the Court must conclude that the Cash Payment is not included in income under the Act.
+[5] The Appellant has therefore brought a motion to amend its notice of appeal in order to raise the new issue and to seek relief on new grounds.
+II. Parties’ Positions Appellant’s Position [6] The Appellant makes two arguments in support of its motion to amend. First, it argues that the amendment addresses an issue that arose under the Section 9 Argument, which it was, in essence, invited to pursue by the Court’s request for further submissions. Secondly, the Appellant argues that the Mathieu decision represents new law. In short, the Appellant argues that proper consideration of the issues arising under the Section 9 Argument necessitates the Court’s considering both Mathieu and the new “tax nothing” argument.
+[7] The Appellant further argues that the amendment causes no prejudice to the Respondent because it is not based on any new facts.
+Respondent’s Position [8] Not surprisingly, the Respondent defends the contrary view.
+III. Analysis [9] Pursuant to section 54 of the Tax Court of Canada Rules (General Procedure), the Court may grant a party leave to amend its pleadings at any time. The leading case in this regard, upon which the Appellant relies, is Canderel Ltd. v. Canada.[2]
+[10] In Canderel, the Minister sought to raise a new issue by a motion to amend the reply to the taxpayer’s notice of appeal. The Tax Court of Canada (the “TCC”) judge denied the motion and the Minister appealed the decision to the Federal Court of Appeal (the “FCA”). The proposed amendment would have been the Minister’s fourth and was proposed after five days of trial despite the fact that the existence of the new issue was known to the Minister well in advance. The amendment could have led to a recall of all the witnesses and experts. The FCA denied the amendment.
+[11] Canderel set forth the following two principles for determining whether or not to allow a motion to amend: (i) in general, an amendment ought to be allowed at any stage in the proceedings for the purpose of determining the real questions in controversy between the parties; (ii) allowing the amendment must not result in an injustice to the other party that cannot be compensated with an award of costs. In this regard, the FCA summarized the case law as follows:
+. . . while it is impossible to enumerate all the factors that a judge must take into consideration in determining whether it is just, in a given case, to authorize an amendment, the general rule is that an amendment should be allowed at any stage of an action for the purpose of determining the real questions in controversy between the parties, provided, notably, that the allowance would not result in an injustice to the other party not capable of being compensated by an award of costs and that it would serve the interests of justice.[3]
+[12] Regarding the factors that a judge must take into consideration in determining whether an amendment would lead to injustice to the other party beyond what can be repaired with costs, Décary J.A. cites the decision of Judge Bowman, as he then was, in Continental Bank Leasing Corporation et al. v. The Queen:[4]
+. . . I prefer to put the matter on a broader basis: whether it is more consonant with the interests of justice that the withdrawal or amendment be permitted or that it be denied. The tests mentioned in cases in other courts are of course helpful but other factors should also be emphasized, including the timeliness of the motion to amend or withdraw, the extent to which the proposed amendments would delay the expeditious trial of the matter, the extent to which a position taken originally by one party has led another party to follow a course of action in the litigation which it would be difficult or impossible to alter and whether the amendments sought will facilitate the court’s consideration of the true substance of the dispute on its merits. No single factor predominates nor is its presence or absence necessarily determinative. All must be assigned their proper weight in the context of the particular case. Ultimately it boils down to a consideration of simple fairness, common sense and the interest that the courts have that justice be done.[5]
+[Emphasis added.]
+[13] Regarding delay, Décary J.A. notes that the later in the proceedings the amendment is sought, the more difficult it will be to obtain:
+While it is true that leave to amend may be sought at any stage of a trial, it is safe to say that the nearer the end of the trial a motion to amend is made, the more difficult it will be for the applicant to get through both the hurdles of injustice to the other party and interests of justice. . . .[6]
+[14] Regarding novel issues, Décary J.A. quotes from the House of Lords decision in Ketteman v. Hansel Properties Ltd.[7] an excerpt to the effect that an amendment that raises a wholly new issue is more difficult to obtain than one which merely clarifies existing matters between the parties: “There is a clear difference between allowing amendments to clarify the issues in dispute and those that permit a distinct defence to be raised for the first time.”[8]
+[15] Therefore, Canderel establishes that, in general, courts should be disposed to allow amendments while at the same time assigning weight to various factors that would lead to injustice for the other side. One such factor in particular is the extent to which the other party has adopted a course of conduct in response to the moving party’s original position.[9] In such circumstances, the Court must consider whether the other party would be able to “course correct” in response to the new amendment.
+[16] The Appellant further relies on two cases in which amendments were allowed at a late stage in the proceedings: Scavuzzo v. R.[10] and Elliott v. Canada.[11] Both are director’s liability cases. In Scavuzzo, the appellants’ lawyer was forced to withdraw in mid-trial due to a conflict of interest. The appellants’ new counsel was given leave to amend the notices of appeals to put forward a new argument. With respect to the delay in making the amendment, Bowman A.C.J., as he then was, distinguished Canderel on the facts, noting:
+. . . The circumstances in this application to amend are somewhat unusual. This is not a case in which evidence has been completed or nearly completed. The first witness has testified and been cross-examined. The re-examination has not begun. The other appellant has not been called. Previous counsel withdrew from the case and new counsel has now been retained. The matter has moved along in a rather sedate and leisurely way, if I may say so, and the trial will not resume until after the pleadings have been amended and further discoveries and production of documents have been completed. In light of the manner in which this case has proceeded I can see no prejudice to the Crown that is not compensable in costs. The possibility that the appellants might succeed on the new point is not the kind of prejudice the case law contemplates in cases of this kind.[12]
+[Emphasis added.]
+[17] The circumstances in Elliott, a case concerning director’s liability for unremitted HST, are unique. Although the FCA in Elliott reaffirms the suggestion in Canderel to the effect that new issues can be raised via amendment at a late stage in the proceedings,[13] the case more properly stands for the narrow principle that the Minister cannot rely on assumptions that the requirements in paragraph 323(2)(a) of the Excise Tax Act − i.e., that a certificate of the corporation’s debt have been registered in the Federal Court and that execution have been returned unsatisfied − were met, since those facts are fully within the Minister’s knowledge. The appellants in that case argued for the first time in closing argument that the Minister had not satisfied the conditions in paragraph 323(2)(a). The TCC judge considered this new issue without a formal amendment. At the FCA, it was held that the new issue should not have been considered without first giving the Minister the chance to provide evidence on that issue. However, since the appellants conceded that the Minister was able to provide evidence of the certificate, it was a moot point. Consequently, although Elliott reiterates the principle that amendments may be granted at a late stage in proceedings, it is not a case in which such an amendment was granted, or even sought.
+[18] On the other hand, there are cases in which a motion to amend has been denied for undue delay and because the other party had relied on the moving party’s initial position. In Last v. The Queen,[14] the Minister made the assumption that unexplained bank deposits were revenue from the taxpayer’s car business as opposed to some other source of income. The pleadings were limited in this regard to the issue of determining the income from the car business. During the hearing, the Minister applied to amend her reply in order to frame the issue more broadly, i.e., by stating that the unexplained deposits were income from any source. The appellant had by then already presented three days of evidence and his trial strategy had been based on the existing pleadings. The Court therefore denied the application.
+[19] Likewise, in Fourney v. The Queen,[15] the Court stated that the discretion to allow an amendment to the Crown’s reply is generally not exercised once the trial has begun. This is so in order to prevent trial by ambush and to preserve the parties’ right to properly prepare for trial.[16] However, in Fourney, the issue was raised by the Respondent, rather than the taxpayer. Another case, Burchat v. The Queen,[17] suggests that the onus on the Crown may be higher than that on a taxpayer. It must be noted, however, that Burchat is an informal procedure decision involving a self-represented litigant.
+[20] In summary, the case law establishes that it is possible to obtain an amendment to raise a new argument at a late stage in proceedings, but it will be difficult to do so. In the preponderance of cases, the motion is denied. Scavuzzo is a notable exception.
+[21] In support of its motion to amend, the Appellant points to the somewhat unique circumstances regarding the adjournment of the hearing pending submissions on the Section 9 Argument and to the timing of the Court’s decision in Mathieu. In my interpretation, this is an indirect way of suggesting that the “tax nothing” argument is not a new issue at all but rather an extension of issues that were at play all along.
+[22] As discussed above, the case law establishes that it is more difficult to get an amendment at a late stage in the proceedings if the amendment raises an altogether new issue. The FCA in Canderel noted the clear distinction between “allowing amendments to clarify the issues in dispute and those that permit a distinct defence to be raised for the first time.”[18]
+[23] Therefore, we must consider whether the “tax nothing” argument is a new issue, or whether it is a facet of the existing controversy regarding section 9. In my opinion, the connection between the Section 9 Argument and the “tax nothing” argument is tenuous. The Section 9 Argument had to do with whether the Cash Payment was in the nature of income or of capital. The “tax nothing” argument is that the Cash Payment is neither of these things. It is a wholly different characterization of the Cash Payment that is totally at odds with the Appellant’s original characterization.
+[24] In addition, the Appellant contends that it ought to be permitted to rely on Mathieu. While it is true that parties can rely on new decisions in support of their arguments, the decision in Mathieu supports (arguably) an argument that the Appellant has never made until this point. In Mathieu, whether the amounts received on the disposition of the employee stock options were capital in nature was never in issue. The parties did not raise this issue and consequently the Court did not consider it. In Mathieu, it is clear that the issue was whether the amounts received were taxable as employment income. In any case, a new decision of the Court is not an invitation to raise at a late stage in proceedings a wholly new argument which has the potential to be more advantageous to the appellant. The new argument here invites the Court to recharacterize the income in a manner that is different from how the amount was characterized on the taxpayer’s tax return, in the notice of appeal and the Appellant’s prior written submissions, and at trial.
+[25] The Appellant contends that there is no prejudice to the Respondent because the new argument is founded on no new facts. However, as the case law analysis demonstrates, this is not the end of the question as to whether there is prejudice. The Court must also consider other factors, including the timing of the amendment, whether it raises new issues, and whether the moving party’s original position caused the other party to adopt a course of action that it cannot undo.
+[26] In this case, the amendment was sought almost three and a half months after the initial hearing and it raises a new issue. It was occasioned solely by the Mathieu decision, which does not address the capital versus income issue at all. In addition, the Crown has throughout taken the position that the Cash Payment cannot be a capital gain. The Appellant now wishes to take that same position as a basis for the conclusion that the amount in question is therefore a “tax nothing”. The Respondent would inevitable be prejudiced because her arguments to this point have been against characterizing the Cash Payment as a capital gain.
+IV. Conclusion [27] For all of these reasons, the Appellant’s motion is dismissed.
+Signed at Toronto, Ontario, this 24th day of November 2014.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2014 TCC 347
+COURT FILE NO.:
+2012-1845(IT)G
+STYLE OF CAUSE:
+THE ESTATE OF THE LATE EDWARD S. ROGERS v. THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 21, 2014
+REASONS FOR ORDER BY:
+The Honourable Justice Robert J. Hogan
+DATE OF ORDER:
+November 24, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Hemant Tilak
+Pooja Samtani
+Counsel for the Respondent:
+Samantha Hurst
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Hemant Tilak
+Pooja Samtani
+Firm:
+Osler, Hoskin & Harcourt LLP
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2014 CCI 207, 2014 DTC 1165.
+[2] [1994] 1 C.F. 3, 93 DTC 5357; referred to with approval in Canada v. O’Dwyer, 2013 FCA 200, 2013 DTC 5156 and again in Elliott v. Canada, 2012 FCA 154, [2012] G.S.T.C. 43.
+[3] Canderel, supra note 2 at p. 10 (5360 DTC).
+[4] 93 DTC 298.
+[5] Ibid. at p. 302 (cited at p. 12 (5361 DTC) in Canderel, supra note 2).
+[6] Canderel, supra note 2 at p. 12 (5361-5362 DTC).
+[7] [1988] 1 All E.R. 38 (H.L.).
+[8] Ibid., p. 62 (cited at p.11 (5361 DTC) in Canderel, supra note 2).
+[9] See emphasized text in citation at para. 12 supra.
+[10] 2004 TCC 806, [2004] GSTC 168.
+[11] Supra note 2.
+[12] Supra note 10 at para. 10.
+[13] Per Noël J.A., as he then was: “It is always open to a trial judge to authorize a novel issue to be pled even after the close of the evidence subject however to insuring that no prejudice is thereby caused to the other side. . . .” (supra note 2 at para. 11).
+[14] 2012 TCC 352, 2012 DTC 1290.
+[15] 2011 TCC 520, 2012 DTC 1019.
+[16] Ibid. at para. 70.
+[17] 2011 TCC 285, 2011 DTC 1210.
+[18] Supra note 2, citing Ketteman (para. 14 supra).

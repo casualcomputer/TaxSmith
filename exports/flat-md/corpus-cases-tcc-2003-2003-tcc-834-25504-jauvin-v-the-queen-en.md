@@ -1,0 +1,165 @@
+---
+title: "Jauvin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25504/index.do"
+last_modified: "2003-11-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 834"
+citation2: ""
+neutral_citation: "2003 TCC 834"
+decision_date: "2003-11-14"
+language: "en"
+item_id: "25504"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2362
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:30:17.127000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "73d2fd431befb4fda30888a53689a00d7ebe4a1f09f083f4fc6194b4fd690a8d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jauvin v. The Queen
+
+- Citation: 2003 TCC 834
+- Decision date: 2003-11-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2362, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jauvin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-14
+Neutral citation
+2003 TCC 834
+File numbers
+2002-2644(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2644(IT)I
+BETWEEN:
+NOËLLA JAUVIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on November 3, 2003, at Roberval, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Nancy Dagenais
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made pursuant to the Income Tax Act for the 1995 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of November 2003.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 30th day of March 2009.
+Bella Lewkowicz, Translator
+Citation: 2003TCC834
+Date: 20031114
+Docket: 2002-2644(IT)I
+BETWEEN:
+NOËLLA JAUVIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This appeal is for the 1995 taxation year.
+[2] The issue consists in determining if the Appellant’s carrying charges were incurred for the purpose of gaining or producing income from a property or a business during the 1995 taxation year.
+[3] In making and confirming the Appellant’s assessment for the 1995 taxation year, the Respondent made the following assumptions of fact:
+[TRANSLATION]
+a) in calculating her net income for the 1995 taxation year, the Appellant claimed carrying charges of $7,852.01;
+b) in Schedule 4 submitted by the Appellant with her income tax return for the 1995 taxation year, the amount of $7,852.01 at issue includes $25 for RRSP charges (FTQ) and $7,827.01 in interest on money borrowed to earn interest, dividend or royalty income;
+c) before making a decision, the Canada Customs and Revenue Agency (CCRA) waited until the Appellant’s appeal proceedings with the Ministère du Revenu du Québec (MRQ) were finalized, and then harmonized its decision with the one rendered by the MRQ;
+d) the interest at issue was paid during the 1995 taxation year on a loan used to invest in the limited partnership 3260-3270 St-Martin Est;
+e) the partnership operated income property;
+f) the partnership disposed of all its rental properties in 1992 at a loss;
+g) following the disposition of its properties in 1992, there was no longer any reasonable expectation of profit with respect to the Appellant’s investment in this business.
+[4] The Appellant admitted to the facts alleged in a), b), c), d), e), and f); but denied g). The Appellant represented herself; she was well prepared; she made an articulate and documented presentation. She stressed the fact that the investment in the limited partnership had continued to generate income, even after the sale of the income-generating property in 1992.
+[5] On this particular issue, the Appellant highlighted some points; however the cross-examination of the Appellant introduced another side to the issue.
+[6] The Appellant admitted that the amount of interest claimed, as interest paid for the purpose of gaining income, was derived from two loans of $45,000 each: one from the Royal Bank, the other from the National Bank of Canada, on August 17 and November 5, 1994, respectively.
+[7] In 1995, the Appellant paid $7,852.01 in interest that she claimed as a deduction. Basically, the $7,852.01 corresponded to the $4,176.09 paid in interest to the Royal Bank and the $3,638.92 paid to the National Bank of Canada (Exhibit I-2).
+[8] The two loans, on which interest was paid in 1995, had been contracted primarily for repairs and renovations to the family home; according to the Appellant, around $60,000 was invested in renovations and about $30,000 to repay the two loans used for her and her spouse’s investment in the limited partnership described in paragraph 3 d) of the Reply to the Notice of Appeal.
+[9] The repaid loans at issue were issued in 1985 by the National Bank of Canada and matured ten years later, on May 13, 1995 (Exhibit A-1).
+[10] The Appellant was not able to say exactly how much interest was due and paid in 1995 on the loan from 1985. She maintained that part of the interest paid on the 1994 loans should be granted because some interest had to be paid on the 1985 loans for the period between January and May, when 1985 loan matured.
+[11] The provisions of the law with respect to the deductibility of interest are more demanding and restrictive than the Appellant argued. In the first place, the Appellant had to establish exactly how much interest was paid in 1995 and claimed on the ground that it was interest payable on a loan of which the capital was used to gain income.
+[12] The Appellant was not able to provide this amount because she claims she was unable to obtain the bank’s cooperation in order to do so. She did admit to paying the assessment made in the name of her deceased spouse, thereby acknowledging that the only amount of interest at issue was derived from interest due on the balance of the capital of her own loan from 1985; as far as she was concerned, it was difficult to determine the exact amount of interest paid in 1995 on the 1985 loan. Obviously, it was a marginal amount compared to the one claimed because it corresponded to the interest for a few months only.
+[13] Even though this defect in the Appellant’s evidence is enough to dispose of the appeal, I would add that the interest paid on loans obtained in 1994 for 1995 is not deductible, and therefore even if the Appellant had been able to prove the amount, she still would not have succeeded. The interest paid on 1994 loans does not meet the deductibility criteria.
+[14] In fact, the main purpose and use of the funds obtained was to cover the cost of renovations to the family home; around $30,000 of the $90,000 obtained through two loans was used to pay back loans from 1985, which were invested at that time in the limited partnership described in the facts assumed and admitted by the Appellant.
+[15] The interest paid on a loan of which part of the capital was used to repay a loan used to invest in an income-generating project is not deductible. The courts have thoroughly addressed the issue of the interest that may be deducted. Firstly, I must cite, regarding the burden of proof, the following excerpt from Njenga v. Canada, [1996] F.C.J. No. 1218 (QL) at paragraph 3:
+The income tax system is based on self monitoring. As a public policy matter the burden of proof of deductions and claims properly rests with the taxpayer. The Tax Court Judge held that persons such as the Appellant must maintain and have available detailed information and documentation in support of the claims they make. We agree with that finding. Ms. Njenga as the Taxpayer is responsible for documenting her own personal affairs in a reasonable manner. Self written receipts and assertion without proof are not sufficient.
+[16] Secondly, paragraph 44 of Ludco Enterprises Ltd v. Canada, [2001] 2 S.C.R. 1082 (QL) reads as follows:
+44. In this connection, Dickson C.J., writing for the Court in Bronfman Trust, supra, closely analysed the third element of the interest deductibility provision and classified the various possible uses of borrowed money as: eligible and ineligible, original and current, and direct and indirect. Dickson C.J. outlined the inquiry into the third element at pp. 45-46:
+Not all borrowing expenses are deductible. Interest on borrowed money used to produce tax exempt income is not deductible. Interest on borrowed money used to buy life insurance policies is not deductible. Interest on borrowings used for non‑income earning purposes, such as personal consumption or the making of capital gains is similarly not deductible. The statutory deduction thus requires a characterization of the use of borrowed money as between the eligible use of earning non‑exempt income from a business or property and a variety of possible ineligible uses. The onus is on the taxpayer to trace the borrowed funds to an identifiable use which triggers the deduction. . .
+The interest deduction provision requires not only a characterization of the use of borrowed funds, but also a characterization of “purpose”. Eligibility for the deduction is contingent on the use of borrowed money for the purpose of earning income. It is well‑established in the jurisprudence, however, that it is not the purpose of the borrowing itself which is relevant. What is relevant, rather, is the taxpayer’s purpose in using the borrowed money in a particular manner: Auld v. Minister of National Revenue, 62 D.T.C. 27 (T.A.B.) Consequently, the focus of the inquiry must be centered on the use to which the taxpayer put the borrowed funds. [Emphasis in original.]
+[17] Thirdly, I refer to an excerpt by the Honourable Judge Lamarre in Deslauriers v. Canada, [2002], T.C.J. No. 530 (QL), at paragraph 29:
+29 In Emerson v. Canada, [1985] F.C.J. No. 320 (Q.L.), affirmed by [1986] F.C.J. No. 160 (Q.L.), the taxpayer had borrowed a sum of money to repay an eligible initial bank loan, which had been used to purchase shares in business corporations. The second loan was taken out after the taxpayer had disposed of his shares. The proceeds of disposition of the shares were not reinvested in other eligible use property. Cullen J. of the Federal Court Trial Division refused to allow the deductibility of the interest on the second loan since the source of income from a business or property had disappeared. He wrote as follows at page 3:
+An essential requirement, therefore, of any deduction on account of interest pursuant to 20(1)(c) is the existence of the source to which the expense relates and if the source has been terminated, as is the case here, the interest expense is no longer deductible. The continuing obligation to meet the interest costs of an outstanding loan, after, the source has been extinguished, is not relevant.
+...
+[18] In the case at bar, the Appellant was not able to precisely specify how much interest was paid in 1995 on loans obtained in 1985.
+[19] The evidence also shows that the interest paid in 1995 to the Royal Bank and to the National Bank of Canada on loans of $45,000 each and claimed as a deduction is not deductible because the capital was never invested in an income-generating project.
+[20] The capital was primarily used to make repairs to the family home and the balance was used to repay loans that, at a certain point, had been invested in a project that produced income. However, in 1995, the source of this income had ceased to exist following the disposition of the property in 1992.
+[20] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 14th day of November 2003.
+Alain Tardif
+Tardif J.
+Translation certified true
+on this 30th day of March 2009.
+Bella Lewkowicz, Translator
+CITATION:
+2003TCC834
+COURT FILE NO.:
+2002-2644(IT)I
+STYLE OF CAUSE:
+Noëlla Jauvin and Her Majesty the Queen
+PLACE OF HEARING:
+Roberval, Quebec
+DATE OF HEARING:
+November 3, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+November 14, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Nancy Dagenais
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

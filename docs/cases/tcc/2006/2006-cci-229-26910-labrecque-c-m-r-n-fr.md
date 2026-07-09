@@ -1,0 +1,169 @@
+---
+title: "Labrecque c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26910/index.do"
+last_modified: "2006-04-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 229"
+citation2: ""
+neutral_citation: "2006 CCI 229"
+decision_date: "2006-04-12"
+language: "fr"
+item_id: "26910"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 716
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:42:06.309000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0bd59974f97043af629f229ac6a17c25b70974463289fa109f9685aa852255d1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Labrecque c. M.R.N.
+
+- Citation: 2006 CCI 229
+- Decision date: 2006-04-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 716, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Labrecque c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-12
+Référence neutre
+2006 CCI 229
+Numéro de dossier
+2005-2909(EI)
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-2909(EI)
+ENTRE :
+STÉPHANE LABRECQUE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Stéphane Champagne (2005-3156(EI)) et 9084-5660 Québec Inc. (2005-2916(EI))
+le 7 mars 2006, à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimé :
+Me Yannick Houle
+____________________________________________________________________
+JUGEMENT
+L'appel établi en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi concernant la décision du ministre du Revenu national est accordé et la décision du Ministre est infirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 12e jour d'avril 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2006CCI229
+Date : 20060412
+Dossiers : 2005-3156(EI)
+2005-2909(EI)
+2005-2916(EI)
+ENTRE :
+STÉPHANE CHAMPAGNE,
+STÉPHANE LABRECQUE,
+9084-45560 QUÉBEC INC.,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+STÉPHANE CHAMPAGNE,
+intervenant.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Ces appels ont été entendus sur preuve commune. La période en litige pour l'appelant Champagne est du 1er janvier 2001 au 29 septembre 2004, et pour l'appelant Labrecque, du 1er août 2003 au 29 septembre 2004. Il s'agit de déterminer si les appelants Champagne et Labrecque étaient, durant ces périodes, des travailleurs autonomes, tel qu'eux et l'appelante le soutiennent, ou des employés, tel que le soutient l'intimé, selon la Loi sur l'assurance-emploi (la « Loi » ).
+[2] L'appelante, soit la société 9084-5660 Québec Inc., possède et gère 20 immeubles locatifs comprenant environ 200 logements commerciaux et résidentiels. Elle fait affaire sous le nom de Location Lyon.
+[3] Les deux actionnaires de l'appelante sont messieurs George Weisz et Robert Wasserman. Monsieur Weisz a témoigné. Il a expliqué le fonctionnement administratif de l'entreprise de location. Il y a deux administrateurs, soit les deux actionnaires. Le personnel de bureau comprend trois personnes employées. Il y a trois concierges qui résident chacun dans un des immeubles locatifs. Ces concierges s'occupent aussi d'autres immeubles situés dans leur rayon géographique. Il y a aussi une autre personne, une dame, qui gère les concierges et à qui les locataires téléphonent. L'appelante fait également appel à plusieurs entrepreneurs spécialisés, soit dans la plomberie, l'électricité, le système d'extinction automatique des incendies, le chauffage, le déneigement et le nettoyage.
+[4] Monsieur Weisz a expliqué que dans des immeubles locatifs, il y a des besoins fréquents de rénovation. Il était à la recherche d'un bon ouvrier. De la part d'un ami, fabricant de fenêtres, il a obtenu le nom de monsieur Stéphane Champagne. Monsieur Weisz lui a donné du travail pour la rénovation de lofts. Il a été satisfait et a retenu ses services sur une base continuelle, mais toujours dans la même qualité d'entrepreneur ou de travailleur autonome. Il n'y aurait pas eu d'entente écrite entre l'appelante et monsieur Champagne. Leur entente a été de continuer selon le mode original, soit une entente d'entreprise et sans exclusivité.
+[5] Monsieur Weisz affirme que s'il y avait des erreurs, elles étaient réparées aux frais de monsieur Champagne. Ce dernier avait ses propres outils et son propre véhicule. Quant au téléphone cellulaire, la société lui en aurait fourni un pour pouvoir accéder auprès de lui avec facilité. Monsieur Weisz affirme que lui-même s'y connaissait en rénovations et qu'il pouvait estimer le nombre de jours ou d'heures qu'un projet de rénovation peut prendre. C'est ainsi qu'il procédait avec monsieur Champagne. Tous les deux estimaient le temps qu'un projet pouvait prendre. Monsieur Champagne était payé pour ce nombre d'heures, même si ce travail prenait moins de temps. Monsieur Weisz aurait accepté cet état des faits. C'était le résultat obtenu dans un temps raisonnable qui comptait.
+[6] Les factures déposées par l'intimé lors du témoignage de monsieur Champagne ne font état d'aucun nombre d'heures. Le prix est habituellement le même, soit 525 $ par semaine. Le lieu de travail y est indiqué et il varie au cours de l'année. Le lieu de travail peut être le même pendant plusieurs semaines puis les factures indiquent un autre lieu pour une autre période de temps. La description du travail est « aménagement intérieur » ou « travaux de finition » . Lors de son témoignage, monsieur Champagne a expliqué qu'il était payé sur la base d'une semaine d'environ 40 heures à un taux horaire de 13,50 $.
+[7] Les 17 et 24 juillet et le 1er août 2003, monsieur Champagne a indiqué « vacances » . Sur la facture du 17 juillet, on y lit l'inscription « Paid 2000 » . Il semblerait que les trois factures intitulées vacances ont été payées 2 000 $. Dans la série de chèques de paiement, on voit que les trois semaines en question n'ont pas été payées de la même façon, mais par un chèque au montant de 2 000 $ en date du 11 juillet 2003. Monsieur Weisz explique que monsieur Champagne n'a pas pris de vacances mais a été payé avec un certain supplément. Par la suite, à partir du 8 août 2003, les chèques reprennent leur routine, soit au montant de 525 $ à peu près chaque semaine. Il y a en septembre 2003 des chèques à des montants différents, soit la semaine du 11 septembre, 210 $, 18 septembre, 393,75 $, 2 octobre 2003, 367 $, 9 octobre, 131, 25 $, et le 4 décembre, 347 $.
+[8] Il n'y a pas eu d'explication spécifique sur la variation de ces montants. Toutefois, monsieur Weisz a mentionné au cours de son témoignage que monsieur Champagne pouvait travailler pour une société autre que l'appelante, mais reliée d'une certaine manière à cette dernière, car lui-même et son associé étaient actionnaires dans d'autres sociétés immobilières et qu'à l'occasion monsieur Champagne exécutait du travail pour ces sociétés.
+[9] En ce qui concerne l'appelant Labrecque, monsieur Weisz a expliqué que ses services étaient retenus de manière sporadique. C'est monsieur Champagne qui l'avait présenté aux administrateurs. Monsieur Labrecque est également musicien. Il avait donc ses propres exigences quant à l'utilisation de son temps.
+[10] Les factures de monsieur Labrecque sont fondées sur le temps. Il y a des semaines de 9 heures, 22,5, 37 et 7 heures. Le lieu du travail est toujours indiqué. Son taux horaire était de 12 $. Une lecture rapide permet de constater que les lieux de travail des deux appelants sont les mêmes.
+[11] Il ne semble pas y avoir eu de contrôle quant aux heures véritablement travaillées ni par l'un ni par l'autre des travailleurs. Monsieur Weisz a expliqué qu'il ne surveillait pas de près les heures faites par monsieur Champagne. Il considérait que c'était une bonne affaire économique que d'avoir ses services et que cela faisait l'affaire des deux. Il était le seul client de monsieur Champagne et avait suffisamment d'immeubles pour l'occuper. Ils avaient tous les deux une bonne idée du temps que les travaux pouvaient prendre. En ce qui concerne monsieur Labrecque, monsieur Weisz se serait fié aussi à ce qu'il mentionnait dans ses factures.
+[12] Les matériaux étaient payés par la société.
+[13] Lors de son témoignage, monsieur Champagne a affirmé qu'il pouvait avoir des contrats avec des personnes autres que la société. Il a donné comme exemple un événement récent. Il a d'excellents outils. Il dit qu'il pourrait construire une maison avec ces outils. Il a relaté qu'à un moment, il avait acheté un échafaud. Cela n'avait pas été rentable pour le moment mais cela l'avait été par la suite.
+[14] Dans sa déclaration d'impôt, il réclame ses dépenses. Il se décrit comme un petit entrepreneur en rénovation. Il confirme le témoignage de monsieur Weisz voulant qu'il n'ait pas pris de vacances en juillet et août 2003, mais que le montant de 2 000 $ pour ces trois semaines lui avait été payé parce qu'il avait accepté d'être de garde durant cette période. Il se fait aider parfois par son neveu adolescent dans l'exécution de ses tâches, pour lui montrer à travailler. C'est lui qui décide si son neveu participe aux travaux. Monsieur Champagne a eu à la fin de l'année 2003, un boni de 1 000 $. Monsieur Weisz a expliqué qu'à la fin de l'année, il est normal de donner un cadeau à un entrepreneur régulier dont on est satisfait des services.
+[15] Lors de son témoignage, monsieur Labrecque se décrit comme travailleur autonome en rénovation. Au moment du litige, il chargeait 12 $ de l'heure, maintenant, c'est 20 $. Il a son propre camion, paie l'essence, assume ses erreurs et il n'a pas de paie de vacances. Il considère que c'est sa propre entreprise. Il exerce toujours des activités de musicien et de chanteur et travaille dans la rénovation.
+Arguments
+[16] L'avocat des appelants s'est référé aux décisions de la Cour d'appel fédérale suivantes : Livreur Plus Inc. c. Canada (ministre du Revenu national), [2004] A.C.F. no 267 (QL), aux paragraphes suivants :
+17 La stipulation des parties quant à la nature de leurs relations contractuelles n'est pas nécessairement déterminante et la Cour peut en arriver à une détermination contraire sur la foi de la preuve qui lui est soumise : D & J Driveway Inc. c. Le ministre du Revenu national, [2003] A.C.F. no 1784. Mais en l'absence d'une preuve non équivoque au contraire, la Cour doit dûment prendre en compte l'intention déclarée des parties : Mayne Nickless Transport Inc. c. Le ministre du Revenu national, [1999] A.C.I. no 132 (QL), 97-1416-UI, 26 février 1999 (C.C.I.). Car en définitive, il s'agit de déterminer la véritable nature des relations entre les parties. Aussi, leur intention sincèrement exprimée demeure-t-elle un élément important à considérer dans la recherche de cette relation globale réelle que les parties entretiennent entre elles dans un monde du travail en pleine évolution : voir Wolf c. Canada, [2002] 4 C.F. 396 (C.A.F.); Procureur général du Canada c. Les Productions Bibi et Zoé Inc., [2004] A.C.F. no 238 (QL), 2004 CAF 54.
+18 Dans ce contexte, les éléments du critère énoncé dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., 87 DTC 5025, à savoir le degré de contrôle, la propriété des instruments de travail, les chances de bénéfices et les risques de pertes et enfin l'intégration, ne sont que des points de repère : Charbonneau c. Canada (ministre du Revenu national - M.R.N.) (1996), 207 N.R. 299, paragraphe 3. En présence d'un véritable contrat, il s'agit de déterminer si, entre les parties, existe un lien de subordination, caractéristique du contrat de travail, ou s'il n'y a pas, plutôt, un degré d'autonomie révélateur d'un contrat d'entreprise : ibidem.
+19 Ceci dit, il ne faut pas, au plan du contrôle, confondre le contrôle du résultat ou de la qualité des travaux avec le contrôle de leur exécution par l'ouvrier chargé de les réaliser : Vulcain Alarme Inc. c. Le ministre du Revenu national, [1999] A.C.F. no 749 (QL), A-376-98, 11 mai 1999, paragraphe 10, (C.A.F.); D & J Driveway Inc. c. Le ministre du Revenu national, précité, au paragraphe 9. Comme le disait notre collègue le juge Décary dans l'affaire Charbonneau c. Canada (ministre du Revenu national - M.R.N.), précitée, suivie dans l'arrêt Jaillet c. Canada (ministre du Revenu national - M.R.N.), [2002] A.C.F. no 1454 (QL), 2002 FCA 394, « rares sont les donneurs d'ouvrage qui ne s'assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur » .
+[17] L'avocat se réfère aussi à la décision Wolf c. Canada, [2002] 4 C.F. 396, et plus particulièrement aux propos du juge Décary aux paragraphes suivants :
+117 Le critère consiste donc à se demander, en examinant l'ensemble de la relation entre les parties, s'il y a contrôle d'un côté et subordination de l'autre. Je dirai, avec le plus grand respect, que les tribunaux , dans leur propension à créer des catégories juridiques artificielles, ont parfois tendance à ne pas tenir compte du facteur même qui est l'essence d'une relation contractuelle, à savoir l'intention des parties. L'article 1425 du Code civil du Québec établit le principe selon lequel « on doit rechercher quelle a été la commune intention des parties plutôt que de s'arrêter au sens littéral des termes utilisés » . L'article 1426 du Code civil du Québec poursuit en disant : « [o]n tient compte, dans l'interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conclu, de l'interprétation que les parties lui ont déjà donnée ou qu'il peut avoir reçue, ainsi que des usages » .
+...
+119 Les contribuables peuvent organiser leurs affaires de la façon légale qu'ils désirent. ...
+et aux propos du juge Noël au paragraphe suivant :
+124 Ce n'est pas un cas où les parties qualifiaient leur relation d'une façon telle que cela leur procure un avantage fiscal. Aucune manoeuvre frauduleuse ou aucun maquillage de quelque sorte n'est allégué. Il s'ensuit que la manière dont les parties ont pu voir leur entente doit l'emporter à moins qu'elles ne se soient trompées sur la véritable nature de leur relation. À cet égard, la preuve, lorsqu'elle est évaluée à la lumière des critères juridiques pertinents, est pour le moins neutre. Comme les parties ont estimé qu'elles se trouvaient dans une relation d'entrepreneur indépendant et qu'elles ont agi d'une façon conforme à cette relation, je n'estime pas que la juge de la Cour de l'impôt avait le loisir de ne pas tenir compte de cette entente (à comparer avec l'affaire Montreal v. Montreal Locomotive Works Ltd., [1947] 1 D.L.R. 161 (C.P.), à la page 170).
+[18] L'avocat de l'intimé s'est reporté à l'ouvrage « Le droit du travail du Québec, pratiques et théories » , de l'auteur Robert P. Gagnon, 4e édition, Les éditions Yvon Blais, Cowansville, pages 44 à 55. Je me reporterai à la page 53 :
+LE CONTRAT DE TRAVAIL
+...
+Des jugements de l'instance spécialisée qu'est le Tribunal du travail se sont montrés réceptifs à la considération de l'état de dépendance économique pour déceler la présence d'une relation employeur-salarié. Dans Pétroles Inc., on a certes tenu compte du fait que l'entreprise avait voulu modifier le statut de ses salariés, de celui de chauffeurs-livreurs à celui d'entrepreneurs indépendants, tout en continuant de leur imposer un certain nombre d'obligations ou de contraintes (directives générales, port d'un uniforme, exclusivité de services, disponibilité). On a par ailleurs également retenu l'état de dépendance économique pour conclure à une subordination suffisante pour que soit reconnue la condition de salarié :
+Une personne est considérée comme entrepreneur non pas d'abord en fonction d'une définition purement juridique, ni d'un contrat mais en fonction de critères économiques. On dit : « il est un entrepreneur » , c'est donc une question d'état qui découle d'une volonté d'indépendance et de profit. Être entrepreneur c'est une question économique. Dans un système d'économie libérale, l'entrepreneur sera celui qui par son originalité, sa façon de procéder, son initiative personnelle, son dynamisme, réunira différents éléments de production dans le but de faire des profits. Pour ce faire, il devra prendre des risques et entrer en concurrence avec d'autres.
+On voit bien qu'ici, ce n'est pas le cas. Les distributeurs n'ont pas assemblé différents éléments de production. Essentiellement, ils ne font que la livraison pour Irving des produits fabriqués par ces derniers. Ils n'engagent pas, si ce n'est de façon marginale, de la main-d'oeuvre, ils ne possèdent pas d'établissements, ni même comme je l'ai souligné, les moyens de production. Ils n'entrent pas en concurrence avec personne. Ils dépendent essentiellement de l'existence d'un contrat avec Irving. Si ce dernier est annulé, ils disparaîtraient comme « entrepreneurs » si vraiment ils en étaient.
+Analyse et conclusion
+[19] Ici, différemment de la décision précédente, les travailleurs ne dépendent pas essentiellement de l'existence d'un contrat avec l'appelante. Ils ne disparaîtraient pas comme « entrepreneurs » si leur entente avec l'appelante était annulée. Ils étaient, avant que leurs services ne soient requis par l'appelante, des travailleurs autonomes ou entrepreneurs en rénovation. Après, ils le seront encore. C'est à ce titre, que leurs services ont été requis par l'appelante. Monsieur Champagne avait l'appelante comme cliente principale. Mais de par son entente avec l'appelante, il aurait pu exécuter des travaux pour d'autres clients. Les instructions qu'il reçoit concernent les travaux à faire. C'est lui qui décide de la manière de s'y prendre pour les exécuter. Ses heures ne sont pas contrôlées par la société. C'est lui qui les inscrit, de la même façon que l'entrepreneur, à qui l'on confie des travaux de rénovation, inscrit lui-même le nombre d'heures qu'il prend pour exécuter le travail, si les parties ont choisi ce mode de rémunération. Il est propriétaire de ses outils. Le contexte de travail de monsieur Labrecque est le même sauf que ses services ne sont pas requis sur une base continue.
+[20] L'intention des travailleurs était d'être et de continuer à travailler comme travailleurs autonomes. Ils n'avaient aucun souhait d'obtenir le statut d'employés. C'était également l'intention de l'appelante. Il s'agissait d'ententes libres et non imposées aux travailleurs ainsi que des ententes n'ayant pas pour but de contourner d'une manière non licite les dispositions de la Loi. Chacun a droit d'ordonner ses affaires de la manière qu'il le souhaite en autant que ce soit conformément à la Loi. Voir Inland Revenue Comrs v. Duke of Westminster, [1936] A.C. 1, [1935] All E. Rep. 259; Massey v. Crown Life Insurance, [1978] 2 All E.R. 576; Wolf c. Canada, [2002] 4 C.F. 396; et Royal Winnipeg Ballet v. Canada(Minister of National Revenue - M.N.R.), 2006 FCA 87.
+[21] L'intention commune des parties est un élément important dans les cas où les indicateurs relatifs au contrat de travail ou d'entreprise ne pointent pas clairement dans un sens ou dans l'autre. Cependant, je suis d'avis, que les circonstances de travail des appelants Champagne et Labrecque, telles que précédemment décrites, sont afférentes à des ententes d'entreprise, telles que définies aux articles 2098 et suivants du Code civil du Québec (le « Code civil » ) et non à des contrats de travail, tels que définis aux articles 2085 et suivants du Code civil. Les appelants Champagne et Labrecque avaient le libre choix des moyens d'exécution des travaux et l'appelante ne les dirigeait ni ne les contrôlait, au sens de ces dispositions.
+[22] Les appels sont accueillis.
+Signé à Ottawa, Canada, ce 12e jour d'avril 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2006CCI229
+N º s DES DOSSIERS DE LA COUR : 2005-3156(EI), 2005-2909(EI), et 2005-2916(EI)
+INTITULÉS DES CAUSES : Stéphane Champagne c. M.R.N.
+Stéphane Labrecque c. M.R.N.
+9084-5660 Québec Inc. c. M.R.N.
+et Stéphane Champagne
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 7 mars 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 12 avril 2006
+COMPARUTIONS :
+Pour les appelants
+Champagne et Labrecque :
+les appelants eux-mêmes
+Avocat de l'appelante :
+Me Christopher Mostovac
+Avocat de l'intimé :
+Me Yannick Houle
+Pour l'intervenant :
+l'intervenant lui-même
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom : Me Christopher Mostovac
+Cabinet : Starnino Mostovac
+Montréal (Québec)
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

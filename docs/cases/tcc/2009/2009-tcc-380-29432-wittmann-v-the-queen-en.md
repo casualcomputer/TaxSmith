@@ -1,0 +1,124 @@
+---
+title: "Wittmann v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29432/index.do"
+last_modified: "2009-05-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 380"
+citation2: ""
+neutral_citation: "2009 TCC 380"
+decision_date: "2009-05-15"
+language: "en"
+item_id: "29432"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6954
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:17:45.612000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5ecc2d698bcd3a7e917ae583d19c50ab06c8d045eca426305fa9923c91e36066"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wittmann v. The Queen
+
+- Citation: 2009 TCC 380
+- Decision date: 2009-05-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6954, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wittmann v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-05-15
+Neutral citation
+2009 TCC 380
+File numbers
+2008-2614(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2009TCC380
+2008-2614(IT)I
+BETWEEN:
+HENRI WITTMANN,
+APPELLANT,
+AND
+HER MAJESTY THE QUEEN,
+RESPONDENT.
+[OFFICIAL ENGLISH TRANSLATION]
+TRANSCRIPT
+OF REASONS FOR JUDGMENT
+Let the attached certified copy of the Reasons for Judgment delivered orally from the Bench at Shawinigan, Quebec, on May 15, 2009, be filed.
+"François Angers"
+Angers J.
+Signed at Edmunston, New Brunswick, this 4th day of August 2009.
+Translation certified true
+on this 25th day of September 2009
+Margarita Gorbounova, Translator
+TAX COURT OF CANADA
+RE INCOME TAX ACT
+2008-2614(IT)I
+BETWEEN: HENRI WITTMANN
+Appellant
+-and-
+HER MAJESTY THE QUEEN
+Respondent
+[OFFICIAL ENGLISH TRANSLATION]
+Held before the Honourable Justice FRANÇOIS ANGERS, Tax Court of Canada, Shawinigan, Quebec, on May 15, 2009.
+--------------------
+REASONS FOR JUDGMENT
+APPEARANCES:
+HENRI WITTMANN
+for himself.
+Nancy Dagenais
+for the respondent.
+Registrar/Technician: Nicole Champagne
+RIOPEL, GAGNON, LAROSE & ASSOCIÉS
+215 Saint-Jacques St.
+Suite 328
+Montréal, Quebec
+H2Y 1M6
+IT-5288 per: JEAN LAROSE
+START OF REASONS FOR JUDGMENT:
+HIS HONOUR: But it's not lost; it's just that you have to pay tax on it. That is what it means: that money is not lost, except that RRSPs are a sort of deferred income, if you’d like; you don't pay tax as long as you qualify for the RRSP amount that you can deposit per year. It's deferred tax, if you'd like.
+But I… what you are asking me, I cannot… I have no jurisdiction to do that. You will have to make changes to your tax return and submit it to Revenue Canada. Then, a decision will be issued, and you will appeal that decision. But if those are not the things…
+HENRI WITTMANN: So I should redo this one.
+HIS HONOUR: No, I'm not even telling you what to do; it's not my… It's not up to me to give you advice. All I'm saying is, if the assessment before me is the way it is described in the Reply to the Notice of Appeal, and you do not object to it, then there is nothing I can do but dismiss your appeal. If you have other submissions to make to Revenue Canada concerning the 2003 taxation year, make them.
+HENRI WITTMANN: So I'm starting from scratch.
+HIS HONOUR: Well, start from scratch, but if you want to defer that income in some way through accounting, you say that any accountant could do it, so consult one. Then submit it to Revenue Canada, and they will give you a decision or a determination or an assessment. Then, if you don't agree, you will appeal it. And then we might be able to deal with this issue. But at the moment, that's not what is before me. What is before me is an assessment that you do not object to. So, at the moment, I have no jurisdiction to do anything other than process it. But then, you don't object to it, so there is nothing I can do.
+So if you think that you can correct this in some other way so that you don't have to pay tax on the portion of expenses that was disallowed, because I imagine that, at first, you thought that all of them were going to be allowed and there wouldn’t be any tax to pay…
+HENRI WITTMANN: No, I wouldn't have taken out the RRSPs.
+HIS HONOUR: Well, maybe you wouldn’t have taken out the whole amount; you might have left the $16,000 in there, okay.
+HENRI WITTMANN: Yes, that's right.
+HIS HONOUR: Yes, listen, but if the expenses you claimed are incorrect with respect to the Income Tax Act, well, then they make up a surplus that becomes taxable.
+HENRI WITTMANN: Hard to predict.
+HIS HONOUR: Well, I understand that, but listen, claiming $15,000 as an expense to begin with… I mean you should have thought about it. Okay. We don't deduct tax as an expense; that would be too much fun. Okay. So I cannot do more than that, Mr. Wittmann.
+HENRI WITTMANN: All right.
+HIS HONOUR: Okay. The appeal is thus dismissed.
+END OF REASONS FOR JUDGMENT
+***************
+Translation certified true
+on this 25th day of September 2009
+Margarita Gorbounova, Translator

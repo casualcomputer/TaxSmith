@@ -1,0 +1,264 @@
+Title: Cougar Helicopters Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/232609/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-126-232609-cougar-helicopters-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-06-30
+
+# Cougar Helicopters Inc. c. La Reine
+
+- Citation: 2017 CCI 126
+- Decision date: 2017-06-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2100, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cougar Helicopters Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-06-30
+Référence neutre
+2017 CCI 126
+Numéro de dossier
+2015-5560(IT)G
+Juges et Officiers taxateurs
+Kathleen T. Lyons
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-5560(IT)G
+ENTRE :
+COUGAR HELICOPTERS INC.,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 24 novembre 2016, à Vancouver (Colombie‑Britannique), avec observations écrites complémentaires reçues
+avant le 15 décembre 2016.
+Devant : L’honorable juge K. Lyons
+Comparutions :
+Avocats de l’appelante :
+Me Robert S. Anderson, c.r.
+Me Rebecca Cynader
+Avocates de l’intimée :
+Me Elizabeth McDonald
+Me Geraldine Chen
+ORDONNANCE
+VU la requête présentée par la demanderesse en vertu de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale);
+ET après avoir entendu la preuve et les observations des parties;
+Conformément aux motifs de l’ordonnance ci-joints, la requête est rejetée. Les dépens sont adjugés à l’intimée, quelle que soit l’issue de la cause.
+Signé à Toronto (Ontario), ce 30e jour de juin 2017.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+François Brunet, réviseur
+Référence : 2017 CCI 126
+Date : 20170630
+Dossier : 2015-5560(IT)G
+ENTRE :
+COUGAR HELICOPTERS INC.,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Lyons
+I. Introduction [1] Cougar Helicopters Inc. (« Cougar ») a présenté une requête en vertu de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») sur une question mélangée de droit et de fait (la « question à trancher ») à trancher avant l’audition de son appel[1]. La question à trancher est la suivante :
+La nouvelle cotisation est-elle nulle ab initio parce qu’elle a été établie après l’expiration de la période normale de nouvelle cotisation et qu’elle n’était pas accompagnée d’allégations selon lesquelles la requérante avait fait une présentation erronée des faits ou avait commis une fraude en produisant ses déclarations de revenus ou en fournissant tout autre renseignement en vertu de la Loi pour l’année d’imposition[2]?
+[2] La nouvelle cotisation est l’avis de nouvelle cotisation en date du 29 juillet 2015 (la « nouvelle cotisation »), la Loi est la Loi de l’impôt sur le revenu (la « Loi ») et l’année d’imposition a pris fin le 31 décembre 2011 (« 2011 »).
+[3] Cougar soutient que si la Cour se prononce sur la question à trancher, cela réglera l’instance ou l’abrégera substantiellement, et il en résultera en une économie substantielle de frais. L’intimée conteste cette thèse et affirme qu’il serait inapproprié de se prononcer sur la question à trancher dans les circonstances, en grande partie en raison des faits importants controversés et des questions de crédibilité, et que cela lui serait préjudiciable.
+II. Contexte [4] Cougar, située à Terre-Neuve, est le plus important prestataire de services d’hélicoptère canadien desservant le secteur énergétique extracôtier[3]. L’une des activités principales de Cougar consiste à assurer le transport des travailleurs par avion à partir des emplacements extracôtiers et vers ceux-ci, comme les plateformes de forage situées au large de Terre-Neuve, du Labrador et de la Nouvelle-Écosse. Les opérations de recherche et de sauvetage pour le même secteur, à Terre-Neuve-et-Labrador, constituent une autre de ses activités principales. Cougar a également effectué des travaux au Groenland, et en aurait effectué en Colombie-Britannique et dans le golfe du Mexique.
+[5] Cougar est membre du VIH Aviation Group (le « groupe VIH »). Jusqu’en 2012, Cougar était une filiale en propriété exclusive de VIHAG Aviation Group Ltd. (« VIHAG »), située en Colombie-Britannique[4]. En 2011, Cougar avait loué huit hélicoptères de VIHAG, dont six étaient utilisés à Terre-Neuve-et-Labrador et deux, en Nouvelle-Écosse.
+[6] Le ministre du Revenu national a établi pour Cougar un avis de cotisation en date du 6 juillet 2012, pour l’année d’imposition 2011. Le ministre a fixé à zéro l’impôt à payer aux termes de la Loi et a procédé à l’évaluation pour l’impôt des grandes sociétés de la Nouvelle-Écosse.
+[7] Les affidavits à l’appui de la requête de Cougar donnent les indications suivantes sur la correspondance et les communications entre Cougar et l’Agence du revenu du Canada (l’« ARC »).
+[8] Vers le 26 novembre 2013, le ministre a entrepris une vérification de Cougar pour l’année 2011, suivie d’une vérification sur place à partir du 3 mars 2014. Par lettre datée du 3 mars 2015, le ministre a envoyé une première proposition à Cougar, avec les rajustements proposés.
+[9] La lettre datée du 27 avril 2015 contenant la proposition finale a été envoyée à Cougar par le vérificateur et comprenait les rajustements proposés ainsi que l’intention du ministre d’établir une nouvelle cotisation pour l’année 2011[5].
+[10] Le 29 juillet 2015, le ministre a établi une nouvelle cotisation pour l’année 2011 après l’expiration de la période normale de nouvelle cotisation, et a refusé le montant de 12 788,270 $ (le « montant en litige »), conformément à l’alinéa 18(1)a) de la Loi, montant réclamé par Cougar à titre de dépense d’entreprise.
+[11] En août 2015, un représentant de Cougar a demandé au vérificateur de l’ARC de produire tous les documents à l’appui de la nouvelle cotisation. Cougar a obtenu le rapport de vérification T20, la publication T2020 ainsi que les [traduction] « feuilles de codage et une copie du journal concernant nos conversations sur les frais de participation »[6]. Cougar allègue que le vérificateur lui a dit que tous ses documents de travail de vérification se trouvaient dans les lettres contenant la première et la dernière proposition et dans les feuilles de codage et le journal, et qu’il ne possédait aucun document de travail relatif aux frais de participation, à l’exception de ceux qui avaient déjà été fournis dans les lettres susmentionnées[7].
+[12] Le 24 septembre 2015, Cougar a déposé auprès de l’ARC un avis d’opposition à la nouvelle cotisation pour l’année 2011.
+[13] Le 5 octobre 2015, au cours d’une conversation téléphonique, un agent de recouvrement de l’ARC a informé un représentant de Cougar que le vérificateur avait créé un [traduction] « rapport de recommandation sur la cotisation établie après l’expiration de la période normale de (nouvelle) cotisation » aux termes du paragraphe 152(4) de la Loi relativement à la nouvelle cotisation pour l’année 2011, rapport faisant état d’allégations de présentation erronée des faits ou de fraude commise par Cougar (le « rapport »). Le rapport n’a pas été remis à Cougar avant le 5 octobre 2015[8].
+[14] Les actes de procédures des parties, l’avis d’appel modifié, la réponse à l’avis d’appel modifié (la « réponse ») et la réplique (collectivement les « actes de procédure ») soulèvent les questions qui suivent. Cougar cerne de la façon suivante les questions dans son avis d’appel modifié, chaque question étant combinée à sa position[9] :
+Voici les positions de l’appelante relativement aux questions :
+1. La nouvelle cotisation est nulle ab initio parce qu’elle a été établie après l’expiration de la période normale de nouvelle cotisation et qu’elle n’était pas accompagnée d’allégations selon lesquelles l’appelante avait fait une présentation erronée des faits ou avait commis une fraude en produisant ses déclarations de revenus ou en fournissant tout autre renseignement en vertu de la Loi pour l’année d’imposition.
+2. Subsidiairement, la nouvelle cotisation est prescrite parce qu’elle a été établie après l’expiration de la période normale de nouvelle cotisation et que l’appelante n’a pas fait de présentation erronée des faits par négligence, inattention ou omission volontaire ni commis de fraude en produisant ses déclarations de revenus ou en fournissant tout autre renseignement en vertu de la Loi pour l’année d’imposition.
+3. Toujours subsidiairement, l’alinéa 18(1)a) ne peut jouer dans le but de refuser la déduction des frais de participation.
+[15] Cougar qualifie indifféremment ce montant de compensation des dépenses de location des hélicoptères ou de [traduction] « frais de participation », et soutient que cette somme s’ajoutait au montant de 2011 aux termes d’une entente qu’elle avait conclue avec VIHAG. En réplique, Cougar [traduction] « nie avoir payé, accumulé ou demandé à VIHAG des montants représentant des heures de vol », [traduction] « nie l’existence de [traduction] « frais de participation aux bénéfices » » comme l’affirme l’intimée, et déclare que même si les frais de participation n’étaient pas directement rattachés au montant des revenus de l’appelante, l’accumulation de ces frais était directement rattachée à la production de revenus[10].
+[16] L’intimée cerne les questions en litige dans sa réponse de la manière suivante[11] :
+[traduction]
+Les questions à trancher sont de savoir si l’appelante :
+a) a engagé ou a effectué toute dépense réclamée, au-delà des montants accordés par le ministre, en vue de tirer un revenu de ses activités commerciales ou de ses biens;
+b) a réclamé des débours ou des dépenses, au-delà des montants accordés par le ministre, qui étaient raisonnables dans les circonstances;
+c) a fait une présentation erronée des faits par négligence, inattention ou omission volontaire en produisant sa déclaration de revenus pour 2011, donnant le droit au ministre d’établir une nouvelle cotisation après l’expiration de la période normale de nouvelle cotisation.
+[17] L’intimée affirme que le ministre a procédé à juste titre à la reprise du processus d’évaluation pour 2011 après l’expiration de la période normale de nouvelle cotisation parce que Cougar avait fait une présentation erronée des faits par négligence, inattention ou omission volontaire. Cette question est étroitement liée à la manière dont Cougar qualifie le montant en litige, réclamé à titre de dépense d’entreprise dans sa déclaration de revenus même s’il n’avait pas pour but de produire un revenu et n’avait rien à voir avec les revenus de Cougar provenant de son service de location. L’intimée soutient que le montant en litige fait partie d’une mesure de planification fiscale visant à ramener le revenu de Cougar à zéro au moyen d’une participation aux bénéfices avec VIHAG, sa société mère. Le montant en litige a été déterminé en fonction de la somme nécessaire pour atteindre un revenu net de zéro, car Cougar tenait à s’assurer de ne payer aucun impôt provincial sur ses revenus à Terre-Neuve et en Nouvelle-Écosse et à transférer ces revenus vers la Colombie-Britannique où un taux d’imposition plus bas s’appliquerait à ce revenu entre les mains de VIHAG.
+[18] En établissant la nouvelle cotisation en vertu du sous-alinéa 152(4)a)(i) de la Loi, l’intimée soutient que rien n’exige que cette nouvelle cotisation soit accompagnée d’une allégation de présentation erronée des faits ni que le ministre prévienne d’une telle allégation avant l’établissement de la nouvelle cotisation.
+[19] Aucun interrogatoire préalable n’a eu lieu.
+[20] Cougar a déposé son avis de requête (article 58 des Règles).
+III. Analyse [21] L’article 58 des Règles[12] se lit comme suit :
+Question de droit, de fait ou de droit et de fait
+58 (1) Sur requête d’une partie, la Cour peut rendre une ordonnance afin que soit tranchée avant l’audience une question de fait, une question de droit ou une question de droit et de fait soulevée dans un acte de procédure, ou une question sur l’admissibilité de tout élément de preuve.
+(2) Lorsqu’une telle requête est présentée, la Cour peut rendre une ordonnance s’il appert que de trancher la question avant l’audience pourrait régler l’instance en totalité ou en partie, abréger substantiellement celle-ci ou résulter en une économie substantielle de frais.
+(3) L’ordonnance rendue en application du paragraphe (1) contient les renseignements suivants :
+a) la question à trancher avant l’audience;
+b) des directives relatives à la manière de trancher la question, y compris des directives sur la preuve à consigner, soit oralement ou par tout autre moyen, et sur la méthode de signification ou de dépôt des documents;
+c) le délai pour la signification et le dépôt d’un mémoire comprenant un exposé concis des faits et du droit;
+d) la date, l’heure et le lieu pour l’audience se rapportant à la question à trancher;
+e) toute autre directive que la Cour estime appropriée.
+[22] À l’occasion de l’affaire Paletta c. La Reine, 2016 CCI 171, 2016 DTC 1145 [Paletta], le juge Owen s’est livré à l’examen actualisé de l’article 58 des Règles, en vigueur depuis le 7 février 2014, en raison des modifications apportées au texte et à la structure de l’ancien article 58 des Règles. Il a fait remarquer que « l’article 58 actuel regroupe les articles 58, 59, 60, 61 et 62 des Règles dans un seul article qui, à certains égards, ressemble à l’ancien article 58, mais qui, à d’autres égards, en est assez différent »[13].
+Article 58 des Règles : processus et exigences
+[23] L’article 58 des Règles expose un processus en deux étapes. A la première étape, le juge des requêtes peut formuler une question à trancher si les exigences suivantes, contenues aux paragraphes 58(1) et (2) des Règles, sont respectées :
+1. La question proposée doit être une question de droit, une question de fait, une question de droit et de fait ou une question sur l’admissibilité de tout élément de preuve[14].
+2. La question doit être soulevée dans un acte de procédure.
+3. Il appert que de trancher la question avant l’audience pourrait régler l’instance en totalité ou en partie, abréger substantiellement celle-ci ou résulter en une économie substantielle de frais.
+[24] Il incombe à la demanderesse de démontrer que ces exigences sont respectées à la première étape[15].
+[25] La décision d’accorder une ordonnance pour permettre à la Cour de se prononcer sur une question est une décision discrétionnaire, comme l’indique clairement la formulation discrétionnaire générale, répétitive et large du paragraphe 58(2) des Règles[16].
+[26] Si les exigences sont respectées, une ordonnance établissant les conditions peut être prononcée afin que l’on passe à la deuxième étape, l’audience, au cours de laquelle la question est tranchée sur le fond.
+[27] Vu la question à trancher, la justice sera appelée à examiner le sous‑alinéa 152(4)a)(i) de la Loi qui autorise l’établissement tardif d’une nouvelle cotisation lorsque le contribuable « fait une présentation erronée des faits, par négligence, inattention ou omission volontaire » en produisant sa déclaration de revenus ou en fournissant un renseignement sous le régime de la Loi[17]. Dans de telles circonstances, le ministre a le pouvoir d’établir une nouvelle cotisation (ou une cotisation ou encore une cotisation supplémentaire) après l’expiration de la période normale de nouvelle cotisation pour une année d’imposition donnée. En procédant à la réouverture d’une année d’imposition sur ce fondement, il incombe au ministre de démontrer qu’il y a eu présentation erronée des faits par négligence, inattention ou omission volontaire.
+Demande présentée par Cougar
+[28] J’examinerai maintenant la demande présentée par Cougar qui en est à la première étape.
+Paragraphe 58(1) des Règles
+[29] Telle qu’elle est formulée, la question est de savoir si, et dans quelle mesure, le ministre est tenu d’alléguer la présentation erronée des faits ou de fraude lorsqu’il établit une nouvelle cotisation hors délai (ce qui est une question de droit), et si le ministre a fait une quelconque allégation de présentation erronée des faits ou de fraude au moment (ou avant) d’établir la nouvelle cotisation (ce qui est une question de fait)[18]. Il est clair que la question à trancher satisfait à l’une des autres exigences du paragraphe 58(1) des Règles, qu’il s’agit d’une question de droit et de fait et qu’elle a été soulevée dans l’avis d’appel modifié de Cougar[19].
+Paragraphe 58 (2) des Règles
+[30] Cougar soutient que les exigences du paragraphe 58(2) sont [traduction] « largement respectées », car si la question à trancher reçoit une réponse affirmative, la nouvelle cotisation est nulle ab initio (invalide), ce qui réglera l’affaire en totalité et rendra inutile la tenue d’un procès. Subsidiairement, si la nouvelle cotisation est jugée valide, la première question soulevée dans les actes de procédure sera réglée, et les autres questions contenues dans les actes de procédure seront examinées au procès.
+[31] Cougar soutient que la question à trancher est une question définie et « compartimentée » qui porte sur la validité de la nouvelle cotisation pour l’année 2011, et non sur son exactitude. La distinction entre « validité » et « exactitude » est exprimée comme suit :
+[traduction]
+Les faits qui ont donné lieu à la nouvelle cotisation et le motif de réouverture de l’année prescrite seront d’une grande pertinence quant à la question de savoir si l’appelante a fait une présentation erronée des faits par négligence, inattention ou omission volontaire. Ces faits ne se rapportent cependant pas à la question de savoir si le ministre a fait une allégation de présentation erronée des faits ou de fraude au sens du paragraphe 152(4) au moment d’établir la nouvelle cotisation ou avant.
+[32] Cougar soutient que si le ministre a fait une allégation de présentation erronée des faits ou de fraude au moment d’établir la nouvelle cotisation ou avant (validité), cela met en jeu des questions de fait et de droit qui diffèrent des autres questions soulevées par l’appel et qui ne s’y rapportent pas (exactitude). La validité peut être déterminée aussi bien en droit que dans les faits par l’examen du sous‑alinéa 152(4)a)(i) de la Loi, la jurisprudence et les mesures prises par le ministre et ses représentants. Cougar estime que l’examen des questions soulevées dans la requête ne devrait prendre qu’une seule journée et que le reste du procès pourrait durer plus d’une semaine, donnant lieu non seulement à une audition substantiellement abrégée, mais également à une économie substantielle de frais.
+[33] L’intimée réplique que le fondement permettant de rouvrir l’année 2011 et de soulever la nouvelle cotisation est inextricablement lié à la qualification, par Cougar, du montant en litige au regard de la position qu’elle a adoptée lors de la production de sa déclaration de revenus, ce qui appelle l’examen de toutes les circonstances, et que ces éléments ne devraient pas être disjoints. En outre, certains des faits fondamentaux contoversés soulèveront des conclusions quant à la crédibilité, et il serait donc inapproprié et préjudiciable pour l’intimée de permettre que la question soit tranchée.
+[34] Selon l’intimée, l’accueil de la requête ne se traduirait pas par un gain de temps à l’audition de l’appel ni par des économies si la question à trancher passait à la deuxième étape et que la requête était rejetée, puisqu’il y aurait chevauchement des éléments de preuve sur la question du montant en cause. Par conséquent, les mêmes éléments de preuve sur la réalisation, par Cougar, de l’entente de répartition des bénéfices sous le couvert des paiements de location entre sociétés se rapporteraient à la question de savoir si ces paiements ont été versés dans le but de tirer un revenu. Une réponse affirmative à la question à trancher aurait une grande portée sur la jurisprudence touchant les futurs contribuables.
+[35] Selon moi, il existe plusieurs similitudes entre la présente requête et celle qui était en cause lors de l’affaire Paletta (bien qu’il s’agisse d’une question différente). Les deux affaires portent sur la prescription et il y eu un débat vigoureux entre les parties quant aux circonstances entourant les positions adoptées au moment de la production de la déclaration de revenus. En rejetant la requête introduite en vertu de l’article 58 des Règles et en citant Nesbitt c. Canada[20], un arrêt de la Cour d’appel fédérale, afin de rechercher si une présentation erronée des faits avait eu lieu, le juge Owen a déclaré ce qui suit :
+30 À la lumière de cet énoncé, il est évident que, pour que la Cour puisse conclure à une présentation erronée, l’intimée doit établir qu’il y avait un ou plusieurs faits erronés dans les déclarations de l’appelant pour les années d’imposition en cause. Puisque l’exactitude des déclarations de revenus est le nœud de la question des nouvelles cotisations [...], il m’apparaît difficile de trancher cette question sans une audience complète qui examine toutes les questions soulevées dans les actes de procédure.
+[36] Le juge Owen a conclu que la question n’était pas une question distincte et qu’elle « ne [pouvait] être réglée sans examiner toutes les circonstances entourant la production des déclarations de l’appelant pour les années d’imposition en cause. Les parties ne se sont pas entendues sur ces circonstances et, en fait, elles sont au cœur de la question hautement contestée des nouvelles cotisations[21].
+[37] Les observations formulées dans la décision Paletta valent également pour la présente requête. Je rejette la thèse de Cougar portant que la question à trancher soit une question compartimentée pouvant être disjointe des autres questions soulevées dans l’appel. En l’espèce, les actes de procédure révèlent un appel complexe sur le plan des faits découlant des transactions commerciales, les problèmes fondamentaux étant la qualification, par Cougar, du montant en cause (le versement à sa société mère, VIHAG, réclamé à titre de dépense d’entreprise) et la controverse entre les parties quant aux circonstances entourant la position adoptée par Cougar au moment de produire sa déclaration de revenus pour l’année 2011[22].
+[38] Les faits entourant la réouverture de l’année 2011 et soulevant la question de la nouvelle cotisation aux termes du sous-alinéa 152(4)a)(i) de la Loi, concernant des allégations de présentation erronée des faits relativement au montant en litige et à la position de Cougar au moment de produire sa déclaration de revenus, sont pertinents quant à l’exactitude de la déclaration qui est le nœud de la question de la nouvelle cotisation. S’y rattache la question de la prétendue obligation ministérielle de communiquer les allégations fondées de présentation erronée des faits (au moyen d’un avis) à Cougar au moment de rouvrir l’année 2011. Ces questions sont étroitement liées et ne peuvent être analysées de manière indépendante compte tenu des multiples faits importants et hautement controversés entourant la question de la qualification du montant en litige qui a donné lieu à la production de la déclaration de revenus. Ces questions se rattachent aux communications entre Cougar et l’ARC et portent également sur des faits controversés importants, fondamentaux quant à la question à trancher.
+[39] Il convient de savoir, par exemple, si Cougar ignorait la position du ministre en ce qui concerne la nouvelle cotisation avant qu’elle ne soit établie. Le juge des requêtes serait appelé à rechercher si Cougar avait été avisée que le ministre avait l’intention d’alléguer qu’elle avait fait une présentation erronée des faits ou commis quelque fraude ou si, dans les circonstances, il existait une telle allégation implicite[23]. Le fait que Cougar soutienne l’existence d’un fait controversé ayant trait uniquement aux communications entre elle et le ministre semble être une simplification excessive des questions soulevées dans le cadre d’un appel complexe[24].
+[40] Cougar soutient que les principes consacrés par la Cour suprême du Canada par l’arrêt Hryniak c. Mauldin sont pertinents quant à l’appréciation de l’admissibilité d’une question à l’égard d’une décision fondée sur l’article 58 des Règles[25]. Les principes généraux découlant de cette jurisprudence portent, d’une part, que les règles qui jouent en matière de jugement sommaire doivent recevoir une interprétation large et favoriser la proportionnalité et la commodité, et, d’autre part, qu’un jugement sommaire doit être rendu si le dossier permet à un juge des requêtes de rendre une décision juste et équitable sur le fond[26]. La Cour précise en outre que la procédure de jugement sommaire n’est indiquée que lorsque le juge des requêtes peut tirer les conclusions de fait nécessaires et appliquer les règles de droit[27].
+[41] Par l’arrêt Manitoba c. Canada, 2015 CAF 57, la Cour d’appel fédérale a fait la mise en garde suivante : « Il faut donc se garder d’importer aveuglément les opinions exprimées dans l’arrêt Hryniak, car cela reviendrait à procéder à une modification irrégulière » des éléments de fond des autres règles applicables devant les tribunaux.
+[42] Cougar demande, si la question à trancher passe à la deuxième étape, que la preuve soit présentée par affidavit et soit limitée à l’affidavit de Cougar. Certes, le paragraphe 58(3) des Règles permet au juge des requêtes d’examiner les questions de preuve (et de donner des directives) concernant la deuxième étape, soit celle de l’audition. Cependant, l’article 58 des Règles ne doit pas être utilisé pour remplacer une audition complète simplement parce que les questions de preuve peuvent être tranchées dans une ordonnance[28]. Une ordonnance à ce stade ne serait pas non plus appropriée lorsque le juge des requêtes doit entendre une quantité d’éléments de preuve comparable à ce qu’entendrait le juge du procès.
+[43] Dans son approche, Cougar cherche à circonscrire la manière dont l’intimée peut présenter des éléments de preuve. Je suis d’avis que cela ne serait pas conforme au principe consacré par la jurisprudence Hryniak, soit de rendre une décision juste et équitable sur le fond, surtout s’il appartient à l’intimée de démontrer que l’appelante a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire conformément au sous-alinéa152(4)a)(i) de la Loi.
+[44] Comme l’a noté le juge en chef Rossiter à l’occasion de l’affaire Suncor, « [b]ien qu’il soit possible d’appliquer l’article 58 des Règles aux questions de fait et aux questions de droit et de fait, le processus suivi pour trancher de telles questions ressemble beaucoup à un procès, sauf qu’un véritable procès procure les avantages associés à une audience juste et aux protections en matière de preuve »[29]. Je suis d’avis qu’il serait difficile, dans le cadre d’un appel aussi complexe comportant des faits importants contestés et des questions de crédibilité essentielles à la question à trancher, d’examiner adéquatement la question à trancher qui s’articule autour des allégations fondées sur une présentation erronée des faits conformément au sous-alinéa 152(4)a)(i) de la Loi, sans entendre l’affaire dans le cadre d’un procès afin d’apprécier pleinement toutes les circonstances afin de pouvoir examiner les questions soulevées dans les actes de procédure, quant à la position adoptée au moment de produire la déclaration de revenus et les communications entre Cougar et l’ARC.
+[45] Au regard de la question à trancher et de ce que le juge des requêtes sera tenu d’apprécier dans l’affaire Cougar en application de l’alinéa 152(4)(a)(i) de la Loi, je ne suis pas convaincue que les exigences énoncées au paragraphe 58(2) des Règles seraient respectées et se traduiraient par une économie substantielle de temps et de frais.
+Autres facteurs [46] Même si les exigences prévues aux paragraphes 58(1) et (2) des Règles sont respectées, le juge des requêtes n’est pas tenu d’ordonner que soit décidée cette question; il peut examiner d’autres facteurs de pair avec toutes les circonstances de l’affaire pour rechercher si la question proposée se prête à une décision au titre de l’article 58 des Règles[30].
+Imprécision
+[47] La jurisprudence Suncor confirme que les questions vagues ne se prêtent pas à une décision au titre de l’article 58 des Règles[31].
+[48] Cougar soutient que la question à trancher n’est pas vague et offre une certaine souplesse au juge des requêtes pour qu’il se prononce sur les exigences précises qui font partie des obligations du ministre d’alléguer la présentation erronée des faits ou la fraude au moment ou avant d’établir une nouvelle cotisation.
+[49] Un problème se pose quant à la question à trancher, soit celui du sens à attribuer aux mots [traduction] « n’était pas accompagné d’allégations » qui soulève plusieurs questions et manque de clarté. L’intimée fournit, dans ses observations écrites, plusieurs exemples illustrant cette situation pour ce qui est des demandes pouvant découler de l’utilisation de ces mots[32]. En outre, la question à trancher peut donner lieu à d’autres demandes comme celle de savoir si le contribuable doit comprendre de manière subjective la position adoptée par le ministre au moment de l’établissement des nouvelles cotisations.
+[50] Cougar réplique que si le juge des requêtes estime que les réponses aux demandes de l’intimée sont nécessaires, il a la compétence d’ordonner qu’il soit répondu à ces questions, mais il soutient qu’il est peu probable que de telles demandes soient présentées[33]. Il admet que le juge des requêtes doit rechercher si et dans quelle mesure le ministre a l’obligation de faire une allégation de présentation erronée des faits ou de fraude lorsqu’il établit une nouvelle cotisation hors délai[34]. La présence des mots « dans quelle mesure » indique clairement que Cougar s’attend à ce que le juge se prononce sur ce qui constitue un avis suffisant pour les allégations de présentation erronée des faits formulées par le ministre.
+[51] En faisant valoir le caractère approprié de la question à trancher pour déterminer que cette question se prête à une décision au titre de l’article 58 des Règles, les termes choisis par Cougar font ressortir l’ambiguïté que recèle ladite question. À la base, Cougar demande au juge des requêtes de se prononcer essentiellement sur le point suivant :
+[traduction]
+Un avis de nouvelle cotisation doit-il être accompagné d’une allégation de présentation erronée des faits ou de fraude[35]?
+[52] Cougar soutient alors que le juge des requêtes sera tenu de déterminer la nature contemporaine de ces allégations en ce qui concerne la question suivante :
+[traduction]
+L’avis de nouvelle cotisation [...] est-il nul si une allégation de présentation erronée des faits ou de fraude n’est pas jointe à l’avis ou antérieure à ce dernier[36]?
+[53] Puis, Cougar déclare que le juge des requêtes doit tirer les conclusions nécessaires à partir de la jurisprudence pertinente afin de déterminer ce qui constitue un avis implicite :
+[traduction]
+Qu’est-ce que la loi exige en matière d’avis[37]?
+[54] Je conviens avec l’intimée que le mot « avis » a un sens large et qu’un avis peut prendre des formes différentes. La formulation de la question à trancher de façon à ce qu’un « avis » relatif aux allégations de fraude soit requis devient alors difficile.
+[55] De plus, la question à trancher obligera le juge des requêtes à disséquer les expressions [traduction] « accompagné d’une allégation » ou [traduction] « accompagnant l’allégation ». Aucune de ces expressions n’est ancrée dans le sous-alinéa 152(4)a)(i). Cette disposition ne prévoit pas explicitement que le contribuable doit être informé de la position adoptée par le ministre ou n’indique pas non plus que le ministre doit suivre une procédure pour pouvoir alléguer une présentation erronée des faits ou une fraude au moment de l’établissement d’une nouvelle cotisation hors délai. Si la question à trancher n’est pas adéquatement formulée, il est possible que la décision ne fasse pas état des conséquences juridiques qui en découlent, de sorte que l’utilité de la décision rendue sur la question à trancher sera compromise si la réponse n’était pas liée aux dispositions pertinentes, comme dans l’affaire Barejo[38].
+[56] Plus particulièrement, une réponse affirmative à la question à trancher aura pour effet d’ajouter une exigence à la Loi sans l’intervention du législateur, obligeant le ministre à aviser le contribuable des allégations de présentation erronée des faits ou de fraude au moment ou avant d’établir la nouvelle cotisation afin de pouvoir établir valablement une nouvelle cotisation à l’expiration de la période normale de nouvelle cotisation.
+[57] Compte tenu de ce qui précède, je conclus que la question à trancher est vague et ambiguë. Je suis d’avis qu’elle ne se prête pas à une décision au titre de l’article 58 des Règles.
+Fond de la question à trancher
+[58] Cougar a invoqué une autre thèse portant que la Cour doit exercer son pouvoir discrétionnaire pour autoriser une décision sur la question à trancher vu qu’elle n’est pas frivole et que, vu que la jurisprudence actuelle, il est concevable qu’elle pourrait être accueillie.
+[59] A l’occasion de l’affaire Paletta, la Cour a affirmé que les chances de succès demeuraient un facteur pertinent à la première étape de l’analyse au titre de l’article 58 des Règles, parmi les nombreux facteurs pris en compte dans l’analyse de l’exercice du pouvoir discrétionnaire de la Cour.
+[60] A l’occasion de l’affaire Sentinel Hill, la Cour d’appel fédérale a confirmé l’ordonnance de la juge Woods (tel était alors son titre) rejetant une requête présentée en vertu de l’article 58 des Règles. La Cour a conclu que la question reposait sur l’hypothèse non vérifiée et inappropriée selon laquelle une décision pouvait être rendue, car la possibilité que la question proposée puisse régler l’instance en totalité ou en partie, abréger substantiellement l’audience ou résulter en une économie substantielle des frais demeurerait très faible si elle était à ce point dénuée de fondement qu’elle ne permettrait de réaliser aucune de ces possibilités[39]. La question à trancher en l’espèce est fondée sur l’hypothèse non vérifiée selon laquelle l’avis d’intention d’invoquer le sous-alinéa 152(4)a)(i) de la Loi n’a pas été donné. Par conséquent, la question à trancher ne se prête pas à une décision.
+[61] Cougar affirme que pour être valides, les cotisations hors délais doivent être accompagnées de l’allégation de présentation erronée des faits ou de fraude formulée par le ministre. Cougar s’appuie sur le principe juridique consacré par la Cour d’appel fédérale à l’occasion de l’affaire Canadian Marconi[40], et suivi par la jurisprudence Blackburn Radio, c’est‑à-dire qu’il n’est pas nécessaire de s’opposer à une nouvelle cotisation hors délai, à moins que le ministre n’ait allégué la fraude ou une présentation erronée des faits[41]. A l’occasion de l’affaire Blackburn Radio, la juge Woods (tel était alors son titre) déclare que « la jurisprudence Canadian Marconi enseigne très clairement qu’une nouvelle cotisation hors délai est nulle en l’absence d’allégation de fraude ou de présentation erronée des faits ». Selon l’interprétation de Cougar, cela signifie que pour que cette nouvelle cotisation soit valide, elle doit être accompagnée d’allégations de fraude ou de présentation erronée des faits formulées par le ministre au moment de son établissement ou avant, de façon à ce que le contribuable en soit informé.
+[62] A l’occasion de l’affaire Canadian Marconi, la Cour a conclu que le ministre n’avait pas le pouvoir d’établir une nouvelle cotisation à l’égard des déclarations de revenus de Marconi pour les années d’imposition 1977 à 1981 :
+[traduction]
+En l’absence de la renonciation prévue au sous-alinéa 152(4)a)(ii), une nouvelle cotisation hors délai comprend implicitement une allégation de présentation erronée des faits ou de fraude.
+Lorsque le ministre allègue, expressément ou implicitement, une présentation erronée des faits ou de la fraude, le fait d’obliger un contribuable à s’opposer à une nouvelle cotisation hors délai n’a rien d’odieux. En toute déférence, il en va tout autrement lorsqu’il n’y a pas eu d’allégation de fraude ou de présentation erronée des faits. Cette distinction de traitement est fondée sur des principes évidents relatifs à la politique[42].
+[63] Même si les circonstances de l’espèce révèlent que Cougar n’a pas reçu d’avis, le jugement Canadian Marconi semble enseigner que lorsque le ministre établit une nouvelle cotisation prescrite, il allègue implicitement une présentation erronée des faits ou une fraude.
+[64] En évaluant le bien-fondé de la requête, j’estime que la question à trancher n’a aucune chance raisonnable de succès, car elle est fondée sur une hypothèse non vérifiée, elle comporte des lacunes et la présentation erronée des faits semble reposer implicitement sur l’établissement de la nouvelle cotisation.
+[65] Compte tenu de ce qui précède, je conclus que la question à trancher ne réglerait pas l’instance, n’abrégerait pas substantiellement celle-ci ou ne donnerait pas lieu à une économie substantielle de frais. La question à trancher ne se prête pas à une audition en vertu du processus allégé prévu à l’article 58 des Règles. Les circonstances justifient plutôt l’instruction complète avec la possibilité de présenter et de vérifier les éléments de preuve, accordant ainsi des protections en matière de preuve afin d’obtenir une décision juste et équitable. La requête est rejetée.
+[66] Les dépens sont adjugés à l’intimée, quelle que soit l’issue de la cause.
+Signé à Toronto (Ontario), ce 30e jour de juin 2017.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+François Brunet, réviseur
+RÉFÉRENCE :
+2017 CCI 126
+No DU DOSSIER DE LA COUR :
+2015-5560(IT)G
+INTITULÉ :
+COUGAR HELICOPTERS INC. c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 24 novembre 2016
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge K. Lyons
+DATE DE L’ORDONNANCE :
+Le 30 juin 2017
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Robert S. Anderson, c.r.
+Me Rebecca Cynader
+Avocates de l’intimée :
+Me Elizabeth McDonald
+Me Geraldine Chen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Noms :
+Me Robert S. Anderson, c.r.
+Me Rebecca Cynader
+Cabinet :
+Farris, Vaughan, Wills & Murphy s.r.l.
+Avocats
+Vancouver (Colombie-Britannique)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] DORS/90-688a.
+[2] À l’audition de la requête, Cougar a renoncé aux deux questions formulées dans son avis de requête et a reformulé la question à trancher. L’intimée a présenté des observations orales et écrites suivies par des observations écrites complémentaires visant à répondre à la question à trancher reformulée. Cougar a transmis en réponse des observations écrites complémentaires.
+[3] Cougar a été fusionnée en vertu de la Loi canadienne sur les sociétés par actions, L.R.C. (1985), ch. C-44.
+[4] Cougar Aviation Ltd. était une filiale en propriété exclusive de VIHAG. VIHAG était une filiale en propriété exclusive de Kenlor Investments Inc., laquelle était entièrement détenue par K. Norie.
+[5] Voir la déclaration sous serment de C. Hodgins, pièce « C ».
+[6] Déclaration sous serment de Darrell Eng daté du 6 septembre 2016 (la « déclaration sous serment de D. Eng »), paragraphes 4, 5 et 7.
+[7] Déclaration sous serment de D. Eng, paragraphes 5 à 9.
+[8] Déclaration sous serment de D. Eng, paragraphes 11 et 12.
+[9] Avis d’appel modifié, paragraphe 43.
+[10] Réplique, paragraphes 11, 12 et 15. Cougar décrit également les frais de participation comme étant des frais mensuels de location ainsi qu’une déduction au titre des frais de participation versés à VIHAG.
+[11] Réponse, paragraphe 25.
+[12] DORS/2014-26, article 6.
+[13] Paletta, précité, aux paragraphes 10 et 11. Comme il est mentionné dans la décision Paletta, le Résumé de l’étude d’impact de la réglementation qualifie les modifications apportées à l’article 58 des Règles en 2014 de regroupement de toutes les situations prévues à l’article 53 (où la Cour peut radier un acte de procédure ou un autre document ou en supprimer des passages) et à l’article 58 (où la Cour peut se prononcer sur une question de droit, une question de fait ou une question de droit et de fait) résultant en l’abrogation des articles 59, 60, 61 et 62.
+[14] Dans le cadre des modifications apportées en 2014, une autre option a été ajoutée à l’article 58(1) des Règles et en a élargi la portée de façon à permettre une question proposée quant à l’admissibilité des éléments de preuve.
+[15] Rio Tinto Alcan Inc. c. La Reine, 2016 CCI 31, 2016 DTC 1033, au paragraphe 43.
+[16] Suncor Energy Inc. c. La Reine, 2015 CCI 210, [2015] TCJ no 171 (QL) [Suncor], décision récemment confirmée par la Cour d’appel fédérale, dans Paletta, précitée, au paragraphe 4.
+[17] Boucher c. Canada, 2004 CAF 46, 2004 DTC 6084 (CAF).
+[18] Si la Cour doit se prononcer, Cougar soutient qu’en rouvrant une année frappée de prescription, il faut, pour que la nouvelle cotisation soit valide, que l’allégation de présentation erronée des faits ou de fraude accompagne la nouvelle cotisation au moment de son établissement, ou que le contribuable reçoive un avis avant l’établissement de la nouvelle cotisation. L’intimée rejette cette thèse et soutient que même si un avis est requis, Cougar a reçu cet avis expressément ou implicitement.
+[19] Admis par l’intimée. Voir les lignes 16 à 21 de la page 62 de la transcription.
+[20] Paletta, précité, aux paragraphes 29 et 30, se référant à Nesbitt c. Canada, 96 DTC 6588 (CAF).
+[21] Paletta, précité, au paragraphe 32. M. Paletta avait admis que ses déclarations de revenus contenaient une présentation erronée des faits (dans le but de restreindre le processus de l’article 58 des Règles) de façon à ce que le juge des requêtes, à l’audience, n’ait à examiner que la question de savoir si la présentation erronée des faits était imputable à la négligence, à l’inattention ou à l’omission volontaire.
+[22] Le premier paragraphe des premières observations écrites de Cougar renvoie à la production d’un grand nombre de documents et aux interrogatoires préalables.
+[23] Les observations écrites supplémentaires de l’intimée, au paragraphe 3 de la page 5, mettent en relief les journaux du vérificateur ainsi que d’autres documents faisant état de la position du ministre et de ses communications sur cette position et sur ce qui se passait entre les parties, ainsi que sur la question de savoir si le ministre avait avisé Cougar.
+[24] Observations écrites de Cougar présentées en réponse. Cougar avait antérieurement soutenu que la question à trancher ne concernait aucun élément de preuve controversé et peu ou pas de faits controversé non liés aux faits sur lesquels le juge au procès devra statuer lors de l’audition de l’appel.
+[25] Hryniak c. Mauldin, 2014 CSC 7, [2014] 1 RCS 87 [Hryniak]. Dans cet arrêt, la Cour suprême a examiné les Règles des procédures civiles de l’Ontario.
+[26] Cette approche est conforme au paragraphe 4(1) des Règles selon lequel les Règles « doivent recevoir une interprétation large afin d’assurer la résolution équitable sur le fond de chaque instance de la façon la plus expéditive et la moins onéreuse », ainsi qu’à l’article 58 des Règles.
+[27] Hryniak, précité, aux paragraphes 10, 49 et 66.
+[28] Paletta, précité, au paragraphe 34.
+[29] Suncor, précité, au paragraphe 26.
+[30] McIntyre c. La Reine, 2014 CCI 111, 2014 DTC 1116, au paragraphe 25, et Delso Restoration Ltd. c. La Reine, 2011 CCI 435, 2011 DTC 1315.
+[31] Suncor, précité, au paragraphe 31.
+[32] 1. Que signifie « accompagné de »? Cela signifie-t-il que les avis des motifs doivent être contemporains à l’avis ou préalables à celui-ci?
+2. De quelle façon (par écrit seulement) un avis de nouvelle cotisation doit-il être « accompagné » d’une allégation de présentation erronée des faits?
+3. Quel serait le degré de précision requis?
+i. Un simple renvoi au sous-alinéa152(4)a)(i) de la Loi apparaissant sur l’avis serait-il suffisant?
+ii. L’avis de nouvelle cotisation en tant que tel doit-il énoncer les faits invoqués ou serait-il suffisant que les faits soient énoncés sur un autre document ou une autre communication?
+iii. Le document (l’avis ou la communication du ministre) doit‑il énoncer tous les faits ou seulement certains des faits sur lesquels se fonde l’allégation?
+[33] Observations du requérant présentées en réponse, paragraphe 11.
+[34] Observations du requérant présentées en réponse, paragraphe 31.
+[35] Observations du requérant présentées en réponse, paragraphe 1.
+[36] Observations du requérant présentées en réponse, paragraphe 7a).
+[37] Observations du requérant présentées en réponse, paragraphe 9.
+[38] Barejo Holdings ULC v. Canada, 2016 FCA 304, 2016 DTC 5139 (FCA) [Barejo]. L’autorisation d’interjeter appel devant la Cour suprême a été refusée. Les parties avaient formulé ensemble la question générale sur le sens à attribuer au mot « créance » sans faire référence à la disposition de la Loi. L’affaire est passée à la deuxième étape, soit l’audience, et un avis général a été reçu. Devant la Cour d’appel fédérale, les parties ont tenté d’ajouter une disposition à la Loi, sans succès.
+[39] Sentinel Hill Productions IV Corp c. La Reine, 2013 CCI 267, 2013 DTC 1217 (conf. par 2014 CAF 161) [Sentinel Hill]. Voir également Suncor, précité, au paragraphe 28.
+[40] Canadian Marconi Co. v. Canada (C.A.), [1992] 1 FC 655 (FCA), 85 DLR (4th) 670. Autorisation d’interjeter appel devant la Cour suprême du Canada refusée, [1992] SCCA no 9, 90 DLR (4th) vii [Canadian Marconi].
+[41] Blackburn Radio Inc. c. La Reine, 2012 CCI 255, 2012 DTC 1213, au paragraphe 62 [Blackburn Radio], confirmant Canadian Marconi, précité.
+[42] Canadian Marconi, précité, aux paragraphes 9 et 10.

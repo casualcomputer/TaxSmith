@@ -1,0 +1,206 @@
+---
+title: "Brandt v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31112/index.do"
+last_modified: "2013-02-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 70"
+citation2: ""
+neutral_citation: "2013 TCC 70"
+decision_date: "2013-02-28"
+language: "en"
+item_id: "31112"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4761
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:15:23.473000+00:00"
+cases_cited_count: 9
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "886b256d9533c4eb7d71e5191dd471a86ffa8780f5133f6f3ab9049997bf7525"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brandt v. The Queen
+
+- Citation: 2013 TCC 70
+- Decision date: 2013-02-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4761, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brandt v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-02-28
+Neutral citation
+2013 TCC 70
+File numbers
+2012-981(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-981(IT)I
+BETWEEN:
+SCOTT BRANDT,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+____________________________________________________________________
+Appeal heard on November 27, 2012, at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Agent for the appellant:
+James Deacur
+Agent for the respondent:
+Nicole Walton (student-at-law)
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2009 taxation year is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+Signed at Calgary, Alberta, this 28th day of February 2013.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2013 TCC 70
+Date: 20130228
+Docket: 2012-981(IT)I
+BETWEEN:
+SCOTT BRANDT,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+Overview
+[1] The appellant, Scott Brandt, is appealing a reassessment issued in respect of his 2009 taxation year. The appellant claimed $13,853 as employment expenses for that taxation year, including motor vehicle expenses, office supplies, meals and entertainment, parking, etc. The reassessment allowed a deduction in respect of only $1,455 of those expenses. The Minister agreed on November 27, 2012 to allow the appellant’s remaining claimed telecommunications expenses of $1,800. As a result, the appellant’s telecommunications expenses are no longer an issue in this appeal.
+Factual Background
+[2] At all relevant times, the appellant was a full-time employee of IBM Canada (“IBM”). The appellant acted as a sales representative for IBM in the financial services sector. He testified that his only client, while he was employed by IBM in 2009, was the Bank of Nova Scotia. He provided consulting services at two Bank of Nova Scotia offices in downtown Toronto. The appellant also attended at his employer’s offices at 3600 Steeles Avenue and 79 Wellington Avenue. All of these locations were within the Greater Toronto Area (“GTA”).
+[3] IBM reimbursed the appellant for $32,929.72 of expenses incurred in the course of his employment, including, inter alia, mileage, meals and parking. Other expenses included in the $32,929.72 total reimbursement figure, but not mentioned on the appellant’s T2200 form, included golf tournaments and monthly cell phone expenses. The appellant claimed expenses that were over and above the amount of IBM’s reimbursement.
+[4] In reassessing the appellant, the Minister assumed that the appellant’s contract of employment with IBM required him to use a portion of his home for work, and that his contract ordinarily required him to work away from IBM’s offices in the 2009 taxation year. However, the Minister also assumed that the appellant’s Georgetown home was not his principal place of employment. According to the respondent, the Bank of Nova Scotia offices were the appellant’s regular places of employment.
+[5] The appellant deducted the amount of $9,011.81 as motor vehicle expenses incurred for the purposes of earning employment income. The amount paid by IBM as a travel allowance was subtracted in the calculation of the aforementioned amount.
+[6] In the number of kilometres claimed for employment purposes (41,561 km) the appellant included the kilometres driven to and from his Georgetown home. The appellant was not compensated by IBM for those kilometres. Instead, IBM’s motor vehicle expense reimbursement was based on an allowance of 26 km per day, representing the round trip from IBM’s 3600 Steeles office to the Bank of Nova Scotia’s 2201 Eglinton Avenue East office, regardless of the distance the appellant actually travelled on any given day.
+[7] The appellant’s testimony is that he was not provided with designated office space in his employer’s work location. This required him to maintain an office at home. IBM employed a “hotelling” system for “mobile employees”, such as the appellant. The “hotelling” system provides workstations at the IBM offices. To work there, the appellant was required to reserve in advance a cubicle where he could log in to access all his electronic files, take care of emails and work on proposals, if need be. He could also book conference rooms for client meetings, although, in general, the appellant met his clients at their offices.
+[8] The appellant did not claim home office expenses on his tax return since he did not have a space in his home that was used exclusively for work. His office was in his living room.
+[9] The work performed at the appellant’s home office consisted of reviewing emails, conducting conference calls (both weekly and on an ad hoc basis) and doing research and online training.
+[10] Jeff Gilchrist, an IBM executive and management consultant who testified as a witness for the respondent, had a managerial relationship with the appellant while the latter was working at IBM. Mr. Gilchrist signed the appellant’s T2200 form for 2009. That form indicated that the appellant was required to use a portion of his home for work.
+[11] Mr. Gilchrist testified that new hires had the option of being “mobile employees”. If they chose to be “mobile employees”, IBM’s policy was to compensate them for certain expenses. Mr. Gilchrist provided the example of covering the cost of a second phone line for business use in the “mobile employee’s” home in cases where the employee has a family and thus requires the primary line for use for family purposes. Mr. Gilchrist did not directly answer the question whether “mobile employees” were required to maintain a home office but responded:
+A mobile employee is entitled to receive compensation for certain expenses based on IBM policy. Is it required? To some extent, it is at the discretion of the employee, to be candid.
+If you live by yourself, it doesn’t make sense to have two [telephone] lines, necessarily. Right? Two telephone lines, so is it required? It is your option, but you have that ability to choose.[1]
+[12] Mr. Gilchrist stated that part of the company’s motivation for instituting the “mobile employee” designation was to save on office space expenses:
+So what we do is if you have an office tower that would employ 100 people, by adopting this policy, you could actually be able to cut the space down to say 50 people and have a hoteling mechanism; and therefore, IBM can reduce its rental footprint, and therefore, reduce its overhead costs, but it also speaks to the flexibility it affords employees.[2]
+[13] On cross-examination, Mr. Gilchrist was referred to the T2200 form on which he had indicated that the appellant was required to use a portion of his home for work. Mr. Gilchrist said with respect there to: “I think the way we would interpret the ticking of that box is he doesn’t have to work from his home. It is his choice as a mobile employee.”[3]
+[14] IBM’s automobile expense reimbursement policy stated that travel expenses from the employee’s home to work or to customer locations would be reimbursed after “first deducting the normal daily commutation expense”.[4] Furthermore, the policy explicitly states: “Employees are responsible for getting to and from work. The cost of such commuting by whatever means chosen. . . is also the responsibility of the employee”.[5] When asked why IBM would not compensate an employee for expenses for travel from the employee’s home to his place of work, Mr. Gilchrist stated: “It would be viewed as a typical expense, the same as you would have to travel. If this was your place of work every day, you would not necessarily get compensated to travel to this facility.”[6]
+[15] The appellant testified that he claimed $262.79 in meal and entertainment expenses on his tax return because he realized he had not submitted the corresponding receipts to his employer for reimbursement. The Crown does not dispute the quantum of those meal expenses. The appellant, for his part, admitted that he was never away from the GTA for more than 12 hours in the course of his employment duties.
+[16] The appellant claimed $44.60 in parking expenses on his 2009 tax return because he realized at the end of the year that he had not submitted the corresponding receipts to his employer for reimbursement. He was reimbursed by IBM for all his employment-related parking expenses.
+[17] The parties have agreed that the appellant incurred $58.30 in car rental expenses, though that was not the amount claimed in the 2009 tax return. The appellant testified that the reason for the car rental was to replace the vehicle he regularly used to travel to IBM’s offices and client work sites while that vehicle was in for repairs.
+[18] On cross-examination, the appellant was asked if he could have had car maintenance done on the weekend to avoid the rental car expense. He testified that his mechanic in Georgetown was not open on weekends, but admitted that he could have chosen a different mechanic to avoid the rental expense. He also testified that possible that he most likely received his usual motor vehicle expense allowance on the days he rented the car, since the allowance was calculated on a daily basis.
+[19] The appellant claimed $622.45 in expenses in respect of office supplies in his 2009 tax return.
+[20] On cross-examination, it was established that IBM would reimburse the appellant’s expenses related to the laptop they provided.
+[21] The appellant was also asked why he needed both a second laptop and an external hard drive to back up his laptop provided by IBM when information from the IBM laptop could be backed up on an IBM server. His response was:
+On case one, physical device was damaged. I could have lost data. So if I was working on documents that I needed to retain, I would back them up to my second laptop at home. . . .
+There was backup available at IBM, but if you lost your computer, you could not instantaneously get a new replacement computer, nor was it a simple process to get all of your identity put on to that new computer such that you could get at anything that you had backed up.
+So one might consider me overly cautious, but I had a back-up computer so that if for whatever reason — and I had seen other IBMers have their computer fail. Sometimes, it was a day to two days before they could get access to any of their files. I was cautious, and I just wanted to make sure if I was working on something, I could instantaneously get access to it. Getting a replacement computer was a nontrivial effort.[7]
+[22] Mr. Gilchrist testified that employees in the appellant’s position typically received an IBM laptop, and that a software product called Tivoli provided the ability to back up material on that laptop when it was connected to the IBM network. This was the recommended backup method, since the backup data then remained in the IBM data centre. Mr. Gilchrist further stated that he had “never known anybody to require a second laptop for work purposes”.[8] On cross-examination, Mr. Gilchrist further explained that it would typically take two, three or four business days to get a computer after an order was put in for a replacement. It would be possible to restore the information from the lost or damaged computer within a business day, once the replacement arrived. Thus, the total replacement process could take three to five days.
+Issues
+[23] The issues in this appeal all pertain to the deductibility of the appellant’s employment expenses and they can be stated as follows:
+(a) Is the appellant entitled to deduct motor vehicle expenses for travel from his home office in Georgetown to work sites in the GTA under any of paragraphs 8(1)(f) (sales expenses of an employee on commission), 8(1)(h) (travel expenses), or 8(1)(h.1) (motor vehicle travel expenses) of the Income Tax Act (“ITA”)?
+(b) Are the other expenses claimed by the appellant and disallowed by the Minister deductible under paragraph 8(1)(f)?
+Positions of the Parties
+[24] The parties agreed that the appellant may claim telecommunications expenses over and above the amount the allowance provided by IBM, the amount of those expenses as claimed in the appellant’s 2009 tax return, being $3,090.19. The appellant’s position is that the same principle should apply to the motor vehicle expenses that are still in dispute. According to the appellant, his contract with IBM required him to maintain a home office. Therefore, motor vehicle expenses incurred in driving from the home office to client and IBM offices should be deductible under paragraph 8(1)(f).
+[25] Under subparagraph 8(1)(f)(iv), taxpayers are not entitled to deduct expenses where they are in receipt of an allowance for travel expenses that was, by virtue of subparagraph 6(1)(b)(v), not included in income. The appellant was in receipt of such an allowance. In response to questioning about how the appellant dealt with subparagraph 8(1)(f)(iv), the agent for the appellant stated that the allowance received was nominal. The appellant relies on guides published by the CRA that provide that taxpayers are entitled to deduct the difference between actual expenses and an allowance from the employer that does not cover all expenses.
+[26] The appellant also relies on paragraph 8(1)(h), which allows the deduction of travel expenses where the taxpayer is ordinarily required to carry out duties of his employment away from the employer’s place of business. The appellant contends that the distance from his home office to other work sites is not relevant; he was required to maintain a home office and therefore his travel from the home office to client offices should be deductible regardless of distance.
+[27] The appellant’s position is that all other expenses should be allowed as sales expenses under paragraph 8(1)(f).
+[28] The respondent’s position is that the motor vehicle expenses are not deductible as they were personal in nature. The respondent contends that these expenses are not deductible under either paragraph 8(1)(h) (travel expenses) or 8(1)(h.1) (motor vehicle travel expenses). Both those provisions specify that the taxpayer must be required to cover travel expenses under the contract of employment. According to the respondent, the cost of travel between the appellant’s home and work sites in the GTA was merely an expense for commuting to work and was not an expense required under the contract of employment.
+[29] The respondent also relies on the four-pronged test for motor vehicle expense deductions under paragraph 8(1)(h.1) set out in O’Neil v. The Queen.[9] Two of the requirements in the O’Neil test are not met: firstly, the appellant did not incur the expenses for travel in the course of performing his employment duties, and secondly, the appellant received a non‑taxable allowance for his motor vehicle expenses.
+[30] The respondent further relies on Hogg v. Canada,[10] which is the Federal Court of Appeal’s definitive statement on the requirement that there must be some duty that was performed in the course of the travel (beyond merely getting to work), in order for motor vehicle expenses to be deductible under paragraph 8(1)(h.1). The respondent relies on McCann v. R.[11] to argue that even where an implied term can be found requiring an employee to have an office at home, and where no office is provided at the employer’s premises, the deduction of motor vehicle expenses under paragraph 8(1)(h.1) should still be unavailable.
+[31] With respect to the other expenses at issue in this case, the respondent argues that they were either personal in nature, or reimbursable by the appellant’s employer. Where the expenses were reimbursable by IBM, the respondent submits, the appellant cannot say that he was required to pay them under his contract of employment. Thus, the expenses fail to meet the criteria for deductibility under subparagraph 8(1)(f)(i).
+Analysis
+[32] Each of paragraphs 8(1)(f), 8(1)(h) and 8(1)(h.1) disallows expense deductions where an employee was in receipt of an allowance that was taxable because of one or more subparagraphs in paragraph 6(1)(b). There is case law on paragraph 8(1)(h.1) that interprets this restriction as disallowing deductions of expenses in excess of the allowance where the quantum of the allowance is reasonable.[12] Where the quantum of the allowance is unreasonable, a deduction of the excess expense is allowed,[13] and it may also be allowed where the taxpayer is only paid an allowance for some of the kilometres travelled in the course of employment.[14]
+[33] Paragraph 8(1)(f), which is principally relied on by the appellant to justify the deduction of all the expenses at issue in this appeal, uses slightly different language than paragraphs 8(1)(h) and 8(1)(h.1). It states that the expenses must be incurred for the purpose of earning income from employment. Paragraphs 8(1)(h) and 8(1)(h.1) employ more restrictive wording, as those provisions require that the expenses be incurred for travel in the course of employment. Paragraph 8(1)(f) is less restrictive than paragraphs 8(1)(h) and (h.1), as it does not require any employment duty to be carried out in the course of the travel itself.
+[34] Parliament would have used the same language in each of the aforementioned provisions if it intended that the same test be applies to justify the deduction of expenses under those provisions.
+[35] As argued by the Minister, there are cases on paragraphs 8(1)(h) that and 8(1)(h.1) allow the deduction of travel and motor vehicle expenses only when the travel itself includes the performance of an employment duty. However, the appellant is not relying on those provisions to justify the deduction of travel expenses.
+[36] Paragraph 8(1)(f) allows the deduction of expenses incurred by a taxpayer for the purpose of earning income from employment where the taxpayer was engaged in sales or contract negotiation on behalf of the employer, where the taxpayer was ordinarily required to carry out the duties of his employment away from the employer’s place of business, and where the taxpayer was remunerated in whole or in part by commission. In order to deduct those expenses, the taxpayer must have been contractually required to incur the expenses personally, without reimbursement by the employer.
+[37] Some other factors accepted in the case law as a basis for allowing the deduction of employment expenses incurred in travelling from a home office have included: undisputed testimony of the taxpayer that his or her office was the primary place of work;[15] the Minister’s acceptance of a deduction for home office expenses;[16] and travel from home to sites far away from both the taxpayer’s home and the employer’s office.[17]
+[38] On the basis of my reading of the aforementioned cases and taking into account the purpose test used in paragraph 8(1)(f) to determine the deductibility of employment expenses incurred by a commissioned salesperson, I conclude that the appellant will be entitled to deduct his travel expenses if the evidence shows the following:
+(a) The appellant was required to maintain a home office by the terms of his employment. Is it accepted in the case law that this may be implied by the circumstances of the employment.
+(b) The appellant’s home office was his primary place of employment.
+(c) The travel expenses were incurred for travel between the appellant’s primary place of employment and his customer’s offices.
+(d) The allowance received by the appellant from IBM was insufficient to cover his actual eligible travel expenses.
+[39] The evidence on whether or not the appellant was required to maintain a home office is mixed. For example, the statement in the appellant’s T2200 form that he was required to maintain a home office was contradicted by the testimony of Mr. Gilchrist.
+[40] I found the appellant to be more credible on this point than Mr. Gilchrist. Mr. Gilchrist was unable to provide a coherent explanation as to why he declared that the appellant was required to maintain a home office on the form that he signed. His suggestion that the appellant was not strictly required to maintain a home office left me with the impression that IBM’s strategy was to maximize its office cost savings while minimizing the offsetting travel allowance it pays to its “mobile employees”. I assume that if Mr. Gilchrist admitted that a home office was required in order for the “mobile employees” to fulfil their duties, IBM’s “mobile employees” might be prompted to question the fairness and adequacy of IBM’s travel allowance policy as it applies to “mobile employees”.
+[41] The following facts buttress the appellant’s claim:
+(a) The appellant had no permanent office space at IBM.
+(b) The evidence shows that the appellant spent approximately 40% of his time working from his home office.
+(c) A significant part of the appellant’s employment duties away from his home office were performed at client sites rather than on IBM premises. (For example, the appellant testified that he attended at the Bank of Nova Scotia’s 2201 Eglinton Avenue East location every business day, but that he did not attend at an IBM location every business day.)
+[42] The following facts drawn from the evidence point toward the opposite conclusion:
+(a) The appellant’s home office was located in his living room and he considered that this barred him from claiming a home office expense deduction.
+(b) The appellant’s contract did not explicitly require him to maintain a home office.
+[43] Considering the evidence as a whole, I am satisfied that the appellant has established on a balance of probabilities the facts enumerated in paragraph 37 above that must be proved in order for him to be able to deduct the claimed travel expenses under paragraph 8(1)(f).
+[44] The rest of the testimony suggests that the computer equipment expenses were not incurred for the purpose of earning employment income as required under paragraph 8(1)(f). The appellant testified that the purpose of the computer equipment was to back up his primary IBM laptop. However, the expense of maintaining a backup system was not one that the appellant was contractually required to incur. IBM already had a backup system in place, and Mr. Gilchrist’s testimony suggests that IBM would not have encouraged the use of a backup system other than the one provided through connection to IBM’s servers. In addition, IBM would have paid for or provided a replacement laptop battery had one been necessary for the appellant’s primary laptop.
+[45] The meal expenses claimed by the appellant are not deductible under subsection 8(4) of the ITA, since the appellant was not away performing his work for more than 12 hours at a time. Neither are they deductible under paragraph 8(1)(f) since the appellant was not contractually required to pay for meals that were consumed in the course of developing his relationships with IBM clients.[18]
+[46] The parking and postage expenses are not deductible since it has been held in the case law that employees are not contractually required to incur expenses that they would have been able to claim reimbursement for from an employer.[19] The appellant admitted that he merely omitted to submit the receipts relating to the parking and postage expenses to IBM for reimbursement.
+[47] In order to deduct the expenses claimed for car rental, computer services, and office supplies (other than computer equipment), the appellant would have had to incur those expenses for the purpose of earning employment income and would have had to be required by contract to incur the expenses himself, without reimbursement by IBM.
+[48] The Minister assumed that all of the other expenses were personal, and not incurred for the purpose of earning employment income. I conclude that the appellant simply did not meet his onus of justifying the deduction of those expenses.
+Conclusion
+[49] The appellant’s motor vehicle expenses are deductible under paragraph 8(1)(f) of the ITA. The remaining expenses are not deductible. Where there may have been a clear employment purpose for those expenses, the evidence shows that the appellant could have sought reimbursement from his employer. Therefore, the appellant was not obligated to incur those expenses as is required for the purpose of deductibility.
+Signed at Calgary, Alberta, this 28th day of February 2013.
+“Robert J. Hogan”
+Hogan J.
+CITATION: 2013 TCC 70
+COURT FILE NO.: 2012-981(IT)I
+STYLE OF CAUSE: SCOTT BRANDT v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 27, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: February 28, 2013
+APPEARANCES:
+Agent for the appellant:
+James Deacur
+Agent for the respondent:
+Nicole Walton (student-at-law)
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript at page 73.
+[2] Transcript at page 77.
+[3] Transcript at page 88.
+[4] Transcript at page 79, reading in an excerpt from Exhibit R-3: “Automobile Reimbursement Plans - MM2-09” at page 77.
+[5] Transcript at page 80, reading in an excerpt from Exhibit R-3: “Automobile Reimbursement Plans - MM2-09” at page 69.
+[6] Transcript at page 81.
+[7] Transcript at pages 47-48.
+[8] Transcript at page 83.
+[9] 2000 DTC 2409 (TCC) at para. 16.
+[10] 2002 FCA 177, [2002] 4 F.C. 443.
+[11] [2002] 3 CTC 2422 (TCC), reproduced in the Respondent’s Book of Authorities at Tab 8. See in particular the findings in para. 24 and the conclusion on the non-deductibility of travel expenses in para. 26.
+[12] Landry v. The Queen, 2007 TCC 383, at para. 5-8, aff’d. 2009 FCA 174. See also Logan v. The Queen, 2008 TCC 546, at para. 15-18 and 22.
+[13] ITA, subpara. 6(1)(b)(x) (deeming an allowance to be unreasonable if it is not based solely on kilometres travelled) and Veinot v. The Queen, 2010 TCC 112, in particular para. 21-25.
+[14] Evans v. The Queen, 99 DTC 168.
+[15] Emond v. The Queen, 2011 TCC 142, at para. 10.
+[16] Ibid
+[17] Martorelli v. The Queen, 2010 TCC 216, at para. 25; Veinot, supra, at para. 16-18.
+[18] Hay v. R., [2001] 4 CTC 2742 (TCC), at para. 20. See also Xinaris v. The Queen, 2009 TCC 457, at para. 103-105.
+[19] Hay, supra, at para. 18(2). See also Xinaris, supra, at para. 103-105.

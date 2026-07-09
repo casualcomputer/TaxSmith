@@ -1,0 +1,103 @@
+Title: Williston v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27869/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-412-27869-williston-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-01-26
+
+# Williston v. The Queen
+
+- Citation: 2007 TCC 412
+- Decision date: 2007-01-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 344, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Williston v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-01-26
+Neutral citation
+2007 TCC 412
+File numbers
+2006-2126(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2007TCC412
+Date: 20070815
+Docket: 2006-2126(IT)I
+BETWEEN:
+HOLLY WILLISTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+For the Appellant: The Appellant herself
+Counsel for the Respondent: Chantal Roberge
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on
+January 26, 2007, in Montreal, Quebec.)
+McArthur J.
+[1] These appeals are for the taxation years 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004 and 2005. The issues, in summary, include the following:
+(a) whether the Appellant can deduct rental losses of $14,970 in the 1998 taxation year for 2030 Patricia Avenue, Montreal, and have a non‑capital loss from other years to be applied from the 1999 taxation year to the 1997 and 1998 taxation years;
+(b) whether the Appellant had additional revenues in the amounts of $9,515 in 1998, $8,640 in 1999, $15,031 in 2000, $6,211 in 2001 and $8,747 in 2002;
+(c) whether the taxable income of the Appellant for the 2003 taxation year was in the amount of $29,050 and if the Minister could assess the 2003 taxation year notwithstanding that the Appellant did not provide the income tax return for the year as required;
+(d) whether the Minister correctly disallowed expenses in the amounts of $8,095, $23,958, $23,842, $19,918, $15,004 for the taxation years from 1998 to 2002, respectively; and
+(e) whether the Minister correctly assessed penalties.
+[2] The Respondent had preliminary objections to the effect that the years 1997, 2004 and 2005 were not properly before the Court and I shall deal with these now. I agree with the Respondent that the Appellant cannot appeal the 1997 taxation year because she did not comply with subsection 169(1) of the Income Tax Act which provides in part:
+169(1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied …
+(a) …
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed under section 165 ...
+There is provision in the Act to make application for an extension of time which the Appellant did not do. The Appellant submitted what in effect was an estoppel argument. Her argument fails as estoppel does not supersede the legislation which is clear. The acts of the Minister's officials cannot change the law. The time limit to appeal from the assessment for the 1997 taxation year was one year and 90 days following the Minister's confirmation of assessment. The assessment was confirmed on April 5, 2001. However, the Appellant appealed on June 26, 2006, well beyond the legal time limits.
+[3] The Minister assessed the 2004 taxation year on March 27, 2006. The Appellant had not filed a notice of objection, nor requested an extension of time to do so in compliance with subsection 165(1) of the Act, and her purported appeal for 2004 is therefore quashed. Further, the appeal for the 2005 taxation year is also quashed and I agree with the Minister that he had not assessed the taxation year pursuant to subsection 152(1) of the Act and therefore, a valid Notice of Objection or a Notice of Appeal cannot be filed.
+[4] The Minister assessed the Appellant's 1998 taxation year beyond the three‑year limitation period. I have no difficulty in permitting the assessment beyond the normal period pursuant to subsection 152(4), in that the Appellant made misrepresentations attributable to neglect or carelessness, although I do not find there was wilful default or fraud. The Appellant had attempted to deduct the cost of items which were clearly not connected to the telemarketing business, including those listed in Exhibit R‑14, a sink from Reno Depot, unrelated bingo tickets from Obonsoins, one meal only from a restaurant, along with clothing which was obviously personal.
+[5] During the hearing, I found as a fact that the Appellant was in the business of sales through telemarketing as an independent contractor and not an employee for the taxation years 2000, 2001 and 2002. I believe the Appellant had been in telemarketing in the Montreal area since the late 1980s.
+[6] The Appellant maintains at length in her a Notice of Appeal that in her dealings with CRA, she endured a continuing pattern of harassment and denial of rights as a Canadian citizen. The Minister's auditor, Mr. Roy, was examined in-chief comprehensively and was cross‑examined by the Appellant. I found no evidence of harassment or denial of rights. To the contrary, Mr. Roy presented a very thorough report. In any event, my jurisdiction is limited to reviewing the correctness of the assessments and I need not make any finding with regard to the allegations of harassment.
+[7] The real property at 2030 Patricia Avenue was owned by the Appellant's common law partner, Edward Hopley. It was an eight-unit apartment building in which the Appellant and Mr. Hopley occupied three of the eight units. I find that she had no legal interest in the property and that she cannot deduct expenses as a 50% owner. The Supreme Court of Canada has dealt with matrimonial issues and matrimonial property upon separation and divorce, which is not the Appellant’s situation in this case. Therefore, the Appellant cannot benefit from the losses under the Income Tax Act.
+[8] For the reasons given by counsel for the Respondent, the appeals for 1998 and 1999 are dismissed since the Appellant did not meet the criteria in paragraph 18(12)(a) of the Act, which reads in part:
+18(2) … in computing an individual’s income from a business for a taxation year,
+(a) no amount shall be deducted in respect of ... a “work space” of a self‑contained domestic establishment in which the individual resides, except to the extent that the work space is either
+i) the individual's principal place of business, or
+ii) used exclusively for the purpose of earning income from business and used on a regular and continuous basis for meeting clients, customers, or patients of the individual in respect of business;
+(b) …
+Up to the year 2000, the Appellant's primary business workplace was in the premises of the telemarketing owner. She used its telephone, desk and office equipment. She did maintain an office at home, but it was not used exclusively for the marketing business. She used it for her husband's rental property up to at least 1998, and other sales efforts apart from telemarketing. I have no doubt that during those years her primary and principal place of business was the premises of the telemarketing owner for whom she was working at the time.
+[9] I will now deal with the taxation years 2000, 2001, 2002, beginning with additional revenues added by the Minister to the Appellant's income of $15,031, $6,211 and $8,747, respectively. The Minister added these amounts based on what he considered to be unexplained bank deposits to the Appellant's account. Since the Appellant's partner was not working during those years, the Respondent concluded that the only deposits in the account would have come from the Appellant. She conceded some amounts, but stated that some of the deposits came from her unemployed partner, Mr. Hopley, who deposited the proceeds from the sale of tools from time to time, together with other amounts. Mr. Hopley had been in the auto repair business prior to 1998, and closed shop for health reasons. Both he and the Appellant testified that he also deposited amounts from lottery or casino winnings and borrowed funds into the relevant account. All of this was unsubstantiated, but I do accept that some of the money added to the Appellant's income by the Minister had been deposited by Mr. Hopley.
+[10] Exhibit A‑6 is a spreadsheet entitled "Income Rebuttal", submitted by the Appellant. She indicated that Mr. Hopley made deposits of $11,109 in 2000, $4,754 in 2001 and $7,006 in 2002. I accept that a reduced amount of $7,416 in 2000, $3,300 in 2001 and $5,000 in 2002 were Mr. Hopley's deposits, and were not correctly added to the Appellant's income, reducing her income for the 2000 taxation from $46,347 to $38,931, in 2001, from $35,965 to $32,665 and in 2002, from $34,747 to $29,747.
+[11] I will now deal with expenses for the three years which I consider are in issue. I have determined that the Appellant was not an employee, but an independent contractor. In the taxation years 2000, 2001 and 2002, she used a home office space exclusively to operate her business, complying with subsection 18(12). I do not believe it serves a useful purpose to analyze the claim for expenses in detail as set out on the last page of the auditor's report. This is an informal procedure appeal, it is not an audit and I am certainly not an auditor. With the voluminous documents and oral evidence provided, I have come to conclusions, at time somewhat arbitrarily, that I feel more reflective of the commercial reality than the amounts presented. Many of the expenses claimed are disallowed, but the Appellant, no doubt, had legitimate business expenses that should be recognized pursuant to subsection 18(1) of the Act.
+[12] Dealing with the expenses in some generality, I find the Minister disallowed expenses claimed by the Appellant of $23,842 in 2000, $19,119 in 2001 and $15,004 for 2002. Commencing with the home office, I conclude that $400 per month, or $4,800 annually, will be allowed for the use of home office. This includes, among other items, the cost of the office space, which could be termed as rent, hydro, telephone, advertising, business taxes, fees, delivery, insurance, maintenance and repair, meals and entertainment and miscellaneous office expenses. As referred to earlier, no rental losses are allowed in any event. I do not believe rental losses were claimed for the three relevant years. The Appellant had no legal interest in the rental real estate which was owned by Mr. Hopley until late 1998, when it was seized by the Laurentian Bank, which held the mortgage that was in default. I further allow the sum of $2,000 per year for the three years, 2000, 2001 and 2002 to cover all other business expenses.
+[13] In these appeals, I find that the late filing penalties will remain as assessed. The Appellant has not seriously contested the dates for filing income tax returns as set out on page 2 of the Reply, which I accept. I have no discretion under subsection 162(1) of the Act after it is established that the returns were not filed as required by subsection 152(1). However, the gross negligence penalties under subsection 163(2) are to be deleted. I find that the Appellant was basically honest although misguided. She was aggressive in her expense claims but on balance, she did not intentionally act to not comply with the law. In Venne v. The Queen, 84 DTC 6247, Strayer, J. of the Federal Court, Trial Division, stated in part:
+With respect to the possibility of gross negligence, I have some difficulty to come to the conclusion that this has not been established. "Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, indifference as to whether the law is complied with or not. I do not find that high degree of negligence in connection with the misstatements of business income. …
+I find this comment applies equally to the Appellant in the present circumstances and, therefore, penalties pursuant to subsection 163(2) only are not to be imposed.
+[14] In summary, the purported appeals for the taxation years 1997, 2004 and 2005 are quashed. The appeals for 1998 and 1999, are dismissed in that the Appellant did not have legal ownership of 2030 Patricia Avenue and thus, she cannot claim expenses for a home office pursuant to subsection 18(12) for those years. The amounts have been varied for 2000, 2001, 2002 as referred to earlier and those appeals are allowed. The Minister correctly determined and assessed the income of the Appellant in the amount of $29,050 for the 2003 taxation year in accordance with subsection 152(7) of the Act and this appeal is also dismissed. Further, the penalties pursuant to 163(2) are deleted, but the late filing penalties remain as assessed.
+Signed at Ottawa, Canada, this 15th day of August, 2007.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2007TCC412
+COURT FILE NO.: 2006-2126(IT)I
+STYLE OF CAUSE: HOLLY WILLISTON and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: December 15, 2006 and
+January 25 and 26, 2007
+REASONS FOR JUDGEMENT BY: The Honourable Justice C.H. McArthur
+DATE OF AMENDED JUDGMENT: April 17, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Chantal Roberge
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,169 @@
+---
+title: "Anderson c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521276/index.do"
+last_modified: "2024-05-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 72"
+citation2: ""
+neutral_citation: "2024 CCI 72"
+decision_date: "2024-05-22"
+language: "fr"
+item_id: "521276"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5733
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:22:53.460000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1ad3647b3ba4e249ee541a4312f15454c379e44ffb7b3344dfc453907f8c3c8e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Anderson c. Le Roi
+
+- Citation: 2024 CCI 72
+- Decision date: 2024-05-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5733, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Anderson c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-05-22
+Référence neutre
+2024 CCI 72
+Numéro de dossier
+2023-2394(IT)I
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2023-2394(IT)I
+ENTRE :
+DAVID MICHAEL ANDERSON,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 29 avril 2024, à Ottawa (Ontario).
+Devant : l’honorable juge Guy R. Smith
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Alex Hibberd
+JUGEMENT
+Conformément aux motifs du jugement rendu oralement le 22 mai 2024 par téléconférence, l’appel d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu, datée du 7 septembre 2022, et de la décision du ministre de rejeter une demande de redressement d’une T1, datée du 15 mars 2023, lesquelles concernent toutes deux l’année d’imposition 2011, est annulé. Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Ontario, ce 22e jour de mai 2024.
+« Guy R. Smith »
+Le juge Smith
+Référence : 2024 CCI 72
+Date : 20240522
+Dossier : 2023-2394(IT)I
+ENTRE :
+DAVID MICHAEL ANDERSON,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+TRANSCRIPTION DES MOTIFS DU JUGEMENT
+Le juge Smith
+I – Aperçu
+[1] Je vais maintenant exposer les motifs de mon jugement.
+[2] David Michael Anderson (l’« appelant ») interjette appel d’une cotisation établie par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu, L.R.C., 1985 ch. 1 (5e suppl.) (la « LIR ») pour l’année d’imposition 2011, de même que de la décision du ministre de rejeter une demande de redressement d’une T1 faite pour la même année. La cotisation est datée du 7 septembre 2022, et le rejet de la demande est daté du 15 mars 2023.
+[3] L’intimé fait valoir que l’appel de la cotisation n’a pas été soumis à la Cour de façon régulière et qu’il devrait être annulé, au motif que l’appelant n’a pas déposé d’avis d’opposition en bonne et due forme dans les délais établis en vertu de la LIR. L’intimé estime également que le refus du ministre d’accepter la demande de redressement d’une T1 relève du pouvoir discrétionnaire accordé à ce dernier, et que la Cour n’en a pas été valablement saisie.
+[4] Au début de l’audience, l’appelant a indiqué qu’il contestait uniquement le rejet par le ministre de sa demande de redressement d’une T1, et il a affirmé qu’un avis d’opposition avait bel et bien été déposé dans les délais impartis en vertu de la LIR.
+II – Éléments de preuve pertinents et chronologie des événements
+[5] L’appelant a témoigné en son nom propre. Voici une chronologie des événements basée sur son témoignage et sur les preuves documentaires :
+[6] L’appelant travaillait en tant que fonctionnaire de carrière et était employé par Travaux publics et Services gouvernementaux Canada. Il souffrait d’une affection de longue date qui provoquait une fatigue extrême et affectait sa capacité à remplir ses obligations professionnelles. Il n’a pas non plus été en mesure de produire ses déclarations de revenus depuis 2004.
+[7] Il a finalement déposé une demande de crédit d’impôt pour personnes handicapées (le « CIPH ») le 12 août 2014. Après quelques vérifications initiales, le ministre a émis un avis de détermination faisant droit à la demande de l’appelant pour les années d’imposition 2014 à 2018. Le ministre a par la suite élargi l’admissibilité de l’appelant pour inclure l’année fiscale 2005 et les années suivantes.
+[8] Par une lettre datée du 13 novembre 2018, l’Agence du revenu du Canada (l’« ARC ») a expliqué que l’appelant aurait le droit de demander le CIPH [traduction] « pour certaines de ces années », mais que seules les demandes [traduction] « pour les années d’imposition se terminant dans l’une des dix années civiles qui précèdent l’année où vous faites votre demande peuvent être considérées ». Malgré cela, l’appelant a affirmé par la suite ne pas avoir été informé à propos du délai de dix ans.
+[9] Entre-temps, le ministre a exigé de l’appelant qu’il produise ses déclarations de revenus pour les années d’imposition 2011 à 2014. Une fois que l’admissibilité au CIPH a été élargie pour inclure les années 2005 et les suivantes, l’appelant a été tenu de produire une déclaration de revenus pour ces années-là également.
+[10] Le 25 septembre 2018, l’appelant a écrit à l’ARC pour demander un redressement pour les années d’imposition 2008 à 2017, afin que le CIPH soit pris en considération. L’ARC a cependant refusé de procéder aux redressements, étant donné que l’appelant n’avait pas produit ses déclarations de revenus pour les années en question.
+[11] L’appelant a finalement pu surmonter ses difficultés et a rassemblé les informations nécessaires pour produire ses déclarations de revenus pour les années d’imposition 2008, 2009 et 2010. Les demandes de redressement de T1 ont ensuite été traitées afin que le CIPH soit inclus pour ces années.
+[12] Toutefois, l’appelant a rencontré d’autres difficultés pour produire ses déclarations de revenus pour les autres années. Le 2 mai 2022, il a enfin pu produire sa déclaration de revenus pour l’année 2011. Il a demandé une déduction pour une cotisation de 25 472,00 $ à un REER, ainsi qu’un remboursement de 2 189,53 $ découlant du CIPH.
+[13] Le ministre a établi la cotisation le 7 septembre 2022, refusant tous les remboursements demandés pour l’année d’imposition 2011 au motif que la demande avait été faite plus de dix ans après la fin de l’année civile visée. La réponse envoyée à l’appelant disait [traduction] « nous ne pouvons pas vous rembourser l’impôt payé en trop ».
+[14] Dans son témoignage oral, l’appelant a expliqué qu’il avait l’intention de demander une déduction pour une partie du montant de sa contribution au REER pour l’année 2011, puis de reporter le reste du montant aux années suivantes. Il a dit avoir compris alors qu’il perdrait l’avantage d’appliquer la déduction à l’année 2011. L’appelant s’est plaint de ne pas avoir été informé au sujet de la limite de dix ans et a fourni de nombreux exemples de son incapacité à obtenir des conseils au sujet de son régime de retraite ou des informations en matière d’impôt de la part des fonctionnaires de l’ARC en général.
+[15] Au fil des discussions qu’il a entretenues avec l’ARC, il a été amené à penser qu’une solution envisageable serait de déposer une demande de redressement d’une T1 pour l’année 2011. Il a suivi ce conseil et a ainsi déposé une demande de redressement d’une T1 le 30 décembre 2022 (la « demande de redressement »). Comme il l’explique dans l’avis d’appel, l’appelant avait demandé un [traduction] « rajustement se rapportant à une seule ligne [...] pour réduire ou éliminer le montant de la déduction demandée au titre d’une contribution à un REER, laquelle avait été demandée pour l’année 2011 par erreur ».
+[16] Le 15 mars 2023, le ministre a rejeté la demande de redressement en spécifiant que [traduction] « les mesures d’allègement pour les contribuables ne s’appliquent pas aux demandes de nouvelle cotisation concernant des déductions admissibles » dans les cas où le contribuable [traduction] « est libre de choisir à quel moment, comment et quel montant déduire pour une année donnée ».
+[17] Lorsqu’il s’est renseigné auprès de l’ARC, l’appelant s’est vu répondre qu’en essayant de corriger la déduction demandée au titre d’une cotisation à un REER pour l’année 2011, il amorçait une planification fiscale rétroactive, ce qui n’était pas autorisé. L’appelant a nié, expliquant qu’il tentait simplement de corriger une erreur ou un oubli manifeste.
+[18] Le 12 juin 2023, l’appelant a déposé un avis d’opposition à la cotisation et y a joint une demande de prorogation de délai. À la même date, il a aussi déposé un avis d’opposition distinct concernant le rejet de sa demande de redressement d’une T1 par le ministre.
+[19] Le ministre a répondu le 15 août 2023, refusant d’accepter l’avis d’opposition à la cotisation au motif que l’appelant [traduction] « s’oppos[ait] à un remboursement d’impôt frappé de prescription » et que l’avis ne pouvait être accepté [traduction] « en tant qu’opposition valide, étant donné que la question n’est pas traitée comme faisant partie de la cotisation visant l’impôt, les pénalités et les intérêts ».
+[20] Dans ses observations finales, l’appelant fourni un recueil conjoint de jurisprudence et de la doctrine et fait référence à un certain nombre de décisions, notamment Canada c. Nassau Walnut Investments Inc., (1997) 2 CF 279 (« Nassau »), Weber c. La Reine, 2001 CanLII 478 (CCI) (« Weber »), Watanabe c. La Reine, 1999 CanLII 474 (CCI) (« Watanabe ») et Moulton c. La Reine, 2002 CanLII 798 (CCI) (« Moulton »). Toutes ces décisions concernent des conseils fournis par l’ARC et une allégation de planification fiscale rétroactive.
+[21] Dans l’affaire Nassau, la Cour d’appel fédérale a estimé que les faits dont elle était saisie n’impliquaient pas une « planification fiscale rétroactive », indiquant que « le cas [...] [était] plus semblable à une situation dans laquelle le contribuable demande à modifier sa déclaration d’impôt afin de tirer parti d’une déduction à laquelle il a un certain droit ».
+[22] La Cour canadienne de l’impôt s’est appuyée sur l’arrêt Nassau et est parvenue à une conclusion similaire dans l’affaire Weber.
+[23] Dans l’affaire Watanabe, la contribuable avait été amenée par les fonctionnaires de l’ARC à croire qu’elle avait le droit de cotiser à son fond de retraite et à son REER pour ensuite déduire ces montants au cours d’une année ultérieure. Elle a été informée plus tard qu’elle ne pouvait pas le faire et s’est rendu compte que les cotisations seraient imposables dans leur intégralité au moment de leur retrait. Cela a conduit le juge Bowman à conclure que « [l]a crainte [de la contribuable] d’être imposée deux fois » était bien fondée. Au paragraphe 15, il fait le commentaire suivant :
+De toute évidence, je n’ai pas le pouvoir d’ordonner au ministre de faire une remise aux termes de la Loi sur la gestion des finances publiques. Cependant, je peux exprimer l’opinion qu’il serait très approprié qu’il le fasse en l’espèce. Autrement, je ne peux venir en aide à l’appelante. [...]
+[24] Enfin, dans l’affaire Moulton, le contribuable s’était également appuyé sur les conseils des fonctionnaires de l’ARC avant de verser une cotisation à son régime de retraite, puisqu’il avait compris qu’elle pourrait être déduite au cours d’une année postérieure. Il a par la suite été informé que le montant de sa cotisation n’était pas déductible, ce qui a conduit le juge Bowman à répéter l’observation qu’il avait faite dans l’affaire Watanabe au sujet de la possibilité d’obtenir une ordonnance de remise, tout en concluant qu’il n’avait pas le pouvoir de changer les choses pour aider le contribuable.
+[25] Je reviens sur cette jurisprudence plus loin dans les présents motifs.
+III – Dépôt d’un avis d’opposition valide à l’égard de la cotisation
+[26] Passons à la question du dépôt d’un avis d’opposition valide à l’égard de la cotisation. Bien que l’appelant ait affirmé ne pas contester la position du ministre, la formulation de son avis d’appel semble suggérer le contraire; quelques remarques à ce sujet s’imposent.
+[27] Il est évident que l’avis d’opposition n’a pas été déposé dans les 90 jours à compter de la date de l’établissement de la cotisation, mais qu’il a été déposé au cours de la période de 12 mois qui a suivi. L’appelant avait inclus une demande de prorogation du délai de dépôt de l’avis d’opposition.
+[28] Lorsque le ministre a communiqué sa décision de rejeter la demande, le 15 août 2023, l’appelant aurait pu déposer une requête auprès de la Cour pour demander une prorogation du délai de dépôt d’un l’avis d’opposition, conformément au paragraphe 166.2(1) de la LIR. La Cour aurait alors examiné le bien-fondé de la demande à la lumière des critères énoncés au paragraphe 166.2(5) de la LIR. L’appelant ne l’a pas fait; il a plutôt interjeté appel de la décision.
+[29] La jurisprudence a établi que le dépôt d’un avis d’opposition est une condition préalable au dépôt d’un avis d’appel. C’est ce qu’on comprend à la lecture du paragraphe 169(1) de la LIR, dont les premiers mots sont : « Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel [...] ».
+[30] La Cour n’a pas compétence pour modifier ou prolonger les délais établis par la Couronne, comme le confirme l’arrêt Bormann c. Canada, 2006 CAF 83 (par. 3 à 6); ainsi, l’appel de la cotisation doit être annulé.
+IV – La demande de redressement
+[31] Abordons la question du rejet par le ministre de la demande de redressement faite pour l’année 2011. Le ministre n’a pas répondu expressément répondu au deuxième avis d’objection du 12 juin 2023, qui a été émis en lien avec sa décision du 15 mars 2023 de rejeter la demande de l’appelant.
+[32] L’appelant assure qu’il a été déposé dans les 90 jours. Malgré cela, j’estime qu’il ne s’agit pas d’un avis d’objection valide, étant donné qu’il vise à remédier à une question découlant de l’exercice d’un pouvoir discrétionnaire ministériel et qui ne relève pas de la compétence de notre Cour.
+[33] La Cour d’appel fédérale a déclaré que « [l]a compétence de la Cour de l’impôt est circonscrite par la Loi; dans les affaires d’impôt sur le revenu, elle entend généralement les appels relatifs à l’exactitude des cotisations. Elle ne peut procéder au contrôle judiciaire des décisions du ministre rendues en application des dispositions d’allègement discrétionnaires de la Loi [...] » : Bonnybrook Park Industrial Development Co. Ltd. c. Canada (ministre du Revenu national), 2018 CAF 136 (par. 19).
+[34] Le recours dont disposait l’appelant n’était pas d’interjeter appel devant la Cour, mais plutôt de demander un deuxième examen administratif de la décision du ministre du 12 mars 2023 et, en cas d’échec, de demander un contrôle judiciaire de cette décision devant la Cour fédérale.
+[35] Dans son avis d’appel, l’appelant admet qu’il [traduction] « ne connait pas l’état d’avancement de sa demande d’allègement et qu’il a demandé un deuxième examen administratif de cette même demande [...] ». On lui aurait répondu que « cela pouvait prendre jusqu’à 17 mois ». Il semble donc que la demande soit en suspens. Quoi qu’il en soit, cette question ne peut être tranchée par la Cour.
+[36] Subsidiairement, ou peut-être simultanément, l’appelant pourrait demander une remise en vertu de l’article 23 de la Loi sur la gestion des finances publiques, L.R.C., 1985, ch. F 11, comme l’a noté le juge Bowman dans les affaires Watanabe et Moulton. Cette question a été examinée récemment dans l’affaire Dunn c. The Queen, 2022 CCI 44 (par. 11 et 12).
+[37] D’après le témoignage de l’appelant, il n’est pas manifeste aux yeux de la Cour qu’il se soit livré à une planification fiscale rétroactive lorsqu’il a cotisé à son REER en février 2022, s’attendant à ce qu’une déduction découlant de cette cotisation puisse être appliquée rétroactivement à l’année 2011, et possiblement aux années suivantes. Il ne s’agit pas là d’une situation où un contribuable cherche à modifier une déclaration de revenus déposée plus de dix ans auparavant. En l’espèce, la demande de redressement a été déposée dans les douze mois suivant la production de la déclaration de revenus et la cotisation au REER.
+V – Conclusion
+[38] En fin de compte, peu importe que la Cour admette ou non la plainte de l’appelant selon laquelle les fonctionnaires de l’ARC ne l’ont pas bien conseillé en matière d’impôt : cela ne change rien au fait que notre Cour n’a pas compétence pour instruire le présent appel.
+[39] Pour les motifs qui précèdent, l’appel est annulé.
+[40] Aucuns dépens ne sont adjugés.
+Signé à Ottawa (Ontario), ce 22e jour de mai 2024.
+« Guy R. Smith »
+Smith J.
+RÉFÉRENCE :
+2024 CCI 72
+NO DU DOSSIER DE LA COUR :
+2023-2394(IT)I
+INTITULÉ :
+DAVID MICHAEL ANDERSON c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 29 avril 2024
+MOTIFS DU JUGEMENT :
+L’honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+Le 22 mai 2024
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Alex Hibberd
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+-
+Cabinet :
+-
+Pour l’intimé :
+Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada

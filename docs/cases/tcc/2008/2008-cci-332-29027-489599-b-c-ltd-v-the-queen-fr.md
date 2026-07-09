@@ -1,0 +1,366 @@
+---
+title: "489599  B.C.  Ltd v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29027/index.do"
+last_modified: "2008-06-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 332"
+citation2: ""
+neutral_citation: "2008 CCI 332"
+decision_date: "2008-06-06"
+language: "fr"
+item_id: "29027"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6836
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:41:47.021000+00:00"
+cases_cited_count: 7
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aafdebf763b9f7a7dc4fcbc04d2e62a0c92363f5893f561f12097512a30a6aa6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 489599  B.C.  Ltd v. The Queen
+
+- Citation: 2008 CCI 332
+- Decision date: 2008-06-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6836, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+489599 B.C. Ltd v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-06
+Référence neutre
+2008 CCI 332
+Numéro de dossier
+2006-1940(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1940(IT)G
+ENTRE :
+489599 B.C. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________
+Appels entendus le 14 avril 2008 à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Avocats de l’appelante :
+Mes Gordon S. Funt
+et Michelle Moriartey
+Avocate de l’intimée:
+Me Karen A. Truscott
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 sont accueillis avec dépens et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 6e jour de juin 2008.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 19e jour de janvier 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2008CCI332
+Date : 20080606
+Dossier: 2006-1940(IT)G
+ENTRE :
+489599 B.C. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Il s’agit d’appels interjetés par l’appelante concernant de nouvelles cotisations pour ses années d’imposition 2003 et 2004. L’appelante a déclaré son revenu pour ces années d’imposition sur le fondement qu’elle n’était pas une entreprise de prestation de services personnels et a demandé la déduction accordée aux petites entreprises en vertu du paragraphe 125(1) de la Loi de l’impôt sur le revenu (ci-après la « Loi »); elle a en outre demandé à déduire de son revenu pour ces deux années la totalité de ses dépenses d’entreprise. Le ministre du Revenu national (ci-après le « ministre ») a établi une nouvelle cotisation à l’égard de l’appelante et conclu qu’elle était une entreprise de prestation de services personnels; il a refusé de lui donner droit à la déduction accordée aux petites entreprises et a restreint la demande relative aux dépenses d’entreprise en application de l’alinéa 18(1)p) de la Loi.
+[2] Les parties ont déposé un exposé conjoint des faits et des questions en litige, lequel est présenté ci-après.
+[Traduction]
+2006-1940(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+489599 B.C. LTD.
+APPELANTE
+ET
+SA MAJESTÉ LA REINE
+INTIMÉE
+EXPOSÉ CONJOINT DES FAITS ET DES QUESTIONS EN LITIGE
+A. LES FAITS
+1. 489599 B.C. Ltd. (ci-après la « société 489 ») était une société dûment constituée en personne morale, résidente du Canada, au cours de ses années d’imposition 2003 et 2004, lesquelles avaient pris fin le 31 janvier 2003 et le 31 janvier 2004, respectivement.
+2. Au cours des années d’imposition 2003 et 2004 de la société 489, les époux Gerald Clark et Barbara Clark en étaient les seuls actionnaires et détenaient chacun 50 % des actions émises.
+3. Au cours de ses années d’imposition 2003 et 2004, la société 489 a fourni, aux termes d’une entente conclue le 1er janvier 2000 entre elle et Anglo American Cedar Products Ltd. (ci-après la « société Anglo »), qui était une société dûment constituée en personne morale et résidente du Canada, des services de consultation en gestion, d’achat et d’administration à cette société. Il s’agissait notamment de services de production, de soutien des ventes et d’achat, ainsi que de services financiers, juridiques et autres.
+4. Afin de fournir ces services à la société Anglo au cours de ses années d’imposition 2003 et 2004, la société 489 a employé 5 personnes, qui travaillaient régulièrement 5 jours la semaine, 7,5 heures par jour.
+5. Pendant ces mêmes années d’imposition, la société 489 a employé deux autres personnes. La première, Mme Barbara Clark, a travaillé 15 heures par semaine pendant les deux années d’imposition. Un tableau détaillant les heures pendant lesquelles le second employé, M. Sunny Donatelli, a travaillé pour la société 489 pendant les années d’imposition 2003 et 2004 figure à l’annexe A ci‑jointe. M. Donatelli était rémunéré à l’heure. Tous les autres employés de la société 489 recevaient un salaire annuel.
+6. Au cours des années d’imposition 2003 et 2004 de la société 489, M. Clark était le président et un administrateur de la société Anglo; pour ces fonctions, il recevait 10 000 $ par an. Il était également le président et un administrateur de la société 489.
+7. La société a calculé et déclaré son revenu pour les années d’imposition 2003 et 2004 sur le fondement qu’elle n’était pas une « entreprise de prestation de services personnels », terme défini au paragraphe 125(7) de la Loi de l’impôt sur le revenu (ci-après la « Loi »).
+8. Dans des avis datés du 17 août 2005, le ministre du Revenu national (ci‑après le « ministre ») a établi une nouvelle cotisation à l’égard de la société 489 pour ses années d’imposition 2003 et 2004 et a refusé la déduction de toutes les dépenses d’entreprise autres que celles susceptibles d’être légitimement présentées par une « entreprise de prestation de services personnels » en application de l’alinéa 18(1)p) de la Loi. Les nouvelles cotisations et leur ratification ont été fondées sur la conclusion du ministre, selon laquelle, au cours de ces années, la société 489 était une « entreprise de prestation de services personnels » au sens du paragraphe 125(7) de la Loi, conclusion elle-même fondée sur les conclusions suivantes auxquelles en était arrivé le ministre :
+a) M. Clark a dispensé les services à la société Anglo au nom de la société 489 et, aux fins de la Loi, il était donc un « employé constitué en société » de la société 489;
+b) M. et Mme Clark étaient, aux fins de la Loi, des « actionnaires déterminés » et « il serait raisonnable de considérer » M. Clark « comme étant un cadre ou un employé de la » société Anglo « si ce n'était de l'existence de la société » 489;
+c) La société 489 et la société Anglo n’étaient pas des « sociétés associées » au sens du paragraphe 256(1) de la Loi;
+d) Ainsi que l’a exposé le paragraphe 4 ci-dessus, les 5 employés ayant régulièrement travaillé 5 jours la semaine, 7,5 heures par jour, étaient, aux fins de la Loi, des « employés à temps plein »;
+e) Aux fins de la Loi, M. Donatelli était un « employé à temps partiel », et non un « employé à temps plein »;
+f) Aux fins de la définition d’« entreprise de prestation de services personnels » au paragraphe 125(7) de la Loi, 5 employés à temps plein et au moins 1 employé à temps partiel ne constituent pas « plus de cinq employés à temps plein ».
+9. L’appelante ne conteste pas les conclusions du ministre exposées aux paragraphes 8a) à d) du présent exposé. Elle conteste celles exposées aux paragraphes 8e) et f) du présent exposé.
+B. LES POINTS EN LITIGE
+10. L’appelante accepte que les montants de 5 000 $ et de 17 507 $ énoncés au paragraphe 8p) de la réponse de l’intimée ne soient pas déductibles.
+11. Les points en litige sont donc les suivants :
+a) Dans son année d’imposition 2003, la société 489 a-t-elle employé tout au long de l’année « plus de cinq employés à temps plein », de telle façon que la définition d’« entreprise de prestation de services personnels » au paragraphe 125(7) de la Loi ne s’applique pas en vertu de son alinéa c)?
+b) Dans son année d’imposition 2004, la société 489 a-t-elle employé tout au long de l’année « plus de cinq employés à temps plein », de telle façon que la définition d’« entreprise de prestation de services personnels » au paragraphe 125(7) de la Loi ne s’applique pas en vertu de son alinéa c)?
+C. DISPOSITIF
+12. Si la réponse au paragraphe 11a) était affirmative, il faudrait accueillir l’appel pour l’année d’imposition 2003, mis à part les rajustements pour la somme de 5 000 $ dont fait état le paragraphe 10 ci-dessus.
+13. Si la réponse au paragraphe 11a) était négative, il faudrait rejeter l’appel pour l’année d’imposition 2003.
+14. Si la réponse au paragraphe 11b) était affirmative, il faudrait accueillir l’appel pour l’année d’imposition 2004, mis à part les rajustements pour la somme de 17 507 $ dont fait état le paragraphe 10 ci-dessus.
+15. Si la réponse au paragraphe 11b) était négative, il faudrait rejeter l’appel pour l’année d’imposition 2004.
+Les parties s’accordent, aux fins de la présente action et des appels en découlant, sur le présent exposé conjoint des faits et des questions en litige, qui ne les lie dans aucune autre action. Aucun élément de preuve incompatible avec le présent exposé ne peut être présenté à l'instruction de la présente action ou des appels en découlant, sauf par entente ultérieure des parties.
+FAIT à Vancouver (Colombie-Britannique), ce 9e jour d’avril 2008.
+« Gordon S. Funt »____
+Me Gordon S. Funt,
+avocat de l’appelante
+FAIT à Vancouver (Colombie-Britannique), ce 9e jour d’avril 2008.
+« Karen A Truscott »___
+Me Karen A. Truscott,
+avocate de l’intimée
+---------------------------------------------------------------------------------------------------
+ANNEXE A
+Voici ci-dessous le détail des heures pendant lesquelles M. Sunny Donatelli a travaillé en tant qu’employé de la société 489 au cours de l’année d’imposition 2003 (ayant pris fin le 31 janvier 2003) de celle-ci :
+Fin de la période de paie[1]
+Heures travaillées
+2002-02-08
+64,00
+2002-02-22
+66,00
+2002-03-08
+60,50
+2002-03-22
+61,00
+2002-04-05
+59,50
+2002-04-19
+57,00
+2002-05-03
+61,00
+2002-05-17
+45,50
+2002-05-31
+64,00
+2002-06-14
+62,00
+2002-06-28
+54,50
+2002-07-12
+23,00
+2002-07-26
+50,50
+2002-08-09
+48,00
+2002-08-23
+70,50
+2002-09-06
+68,50[2]
+2002-09-20
+0,00
+2002-10-04
+6,00[3]
+2002-10-18
+0,00
+2002-11-01
+9,00
+2002-11-15
+0,00
+2002-11-29
+12,00
+2002-12-13
+15,00
+2002-12-27
+12,00
+2003-01-10
+42,50
+2003-01-24
+56,50
+2003-02-07
+63,00[4]
+Voici ci-dessous le détail des heures pendant lesquelles M. Sunny Donatelli a travaillé en tant qu’employé de la société 489 au cours de l’année d’imposition 2004 (ayant pris fin le 31 janvier 2004) de celle-ci :
+Fin de la période
+Heures travaillées
+2003-02-07
+63,004
+2003-02-21
+50,50
+2003-03-07
+62,50
+2003-03-21
+60,00
+2003-04-04
+60,50
+2003-04-18
+60,00
+2003-05-02
+68,50
+2003-05-16
+60,00
+2003-05-30
+60,00
+2003-06-13
+61,00
+2003-06-27
+60,00
+2003-07-11
+60,00
+2003-07-25
+60,00
+2003-08-08
+60,00
+2003-08-22
+60,00
+2003-09-05
+61,50
+2003-09-19
+0,00
+2003-10-03
+60,00
+2003-10-17
+60,50
+2003-10-31
+60,00
+2003-11-14
+60,00
+2003-11-28
+60,00
+2003-12-12
+60,00
+2003-12-26
+75,00
+2004-01-09
+60,00
+2004-01-23
+60,00
+2004-02-06
+60,00
+[3] L’appel porte sur l’interprétation de la définition d’« entreprise de prestation de services personnels » au paragraphe 125(7) de la Loi. Avant d’appliquer la définition légale d’entreprise de prestation de services personnels, la seule question en litige à l’égard des critères à satisfaire est : l’appelante a-t-elle employé « plus de cinq employés à temps plein » au cours de chacune des années d’imposition en cause ? Si tel a été le cas, alors la définition d’« entreprise de prestation de services personnels » au paragraphe 125(7) de la Loi ne s’appliquera pas, du fait de l’exception prévue à l’alinéa 125(7)c). Cette conclusion est importante pour l’appelante, car elle déterminera si ses activités relèvent de la définition d’« entreprise de prestation de services personnels » et, si tel est le cas, elle n’aura pas été en exploitation active pendant ces années d’imposition. Et bien sûr, si elle n’a pas été en exploitation active, il s’ensuit donc qu’elle ne peut demander la déduction accordée aux petites entreprises ou la déduction de la totalité de ses dépenses d’entreprise, sa demande se trouvant restreinte par l’alinéa 18(1)p) de la Loi.
+[4] Le paragraphe 125(7) de la Loi donne de l’expression « entreprise de prestation de services personnels » la définition suivante :
+« entreprise de prestation de services personnels » S'agissant d'une entreprise de prestation de services personnels exploitée par une société au cours d'une année d'imposition, entreprise de fourniture de services dans les cas où :
+a) soit un particulier qui fournit des services pour le compte de la société — appelé « employé constitué en société » à la présente définition et à l'alinéa 18(1)p);
+b) soit une personne liée à l'employé constitué en société,
+est un actionnaire déterminé de la société, et où il serait raisonnable de considérer l'employé constitué en société comme étant un cadre ou un employé de la personne ou de la société de personnes à laquelle les services sont fournis, si ce n'était de l'existence de la société, à moins :
+c) soit que la société n'emploie dans l'entreprise tout au long de l'année plus de cinq employés à temps plein;
+d) soit que le montant payé ou payable à la société au cours de l'année pour les services ne soit reçu ou à recevoir par celle-ci d'une société à laquelle elle était associée au cours de l'année.
+L’appel porte essentiellement sur l’alinéa 125(7)c), plus particulièrement sur le libellé « plus de cinq employés à temps plein ».
+[5] L’appelante allègue qu’elle n’a pas été une entreprise de prestation de services personnels, car elle a satisfait au libellé de l’alinéa 125(7)c) en ce qu’elle a employé au cours de ses années d’imposition 2003 et 2004 cinq personnes à temps plein et au moins une autre à temps partiel (argumentation écrite de l’appelante, au paragraphe 3).
+[6] L’intimée soutient que l’appelante a été une entreprise de prestation de services personnels, car elle n’a pas employé plus de cinq personnes à temps plein ainsi que l’exige la disposition, le libellé de celle-ci prévoyant qu’il y ait [traduction] « au moins six employés à temps plein ». Le fait d’employer des personnes à temps partiel ne peut satisfaire à cette disposition. L’intimée soutient que « l’employé à temps plein » doit se définir comme une personne employée avec régularité, à des heures de travail régulières de chaque jour ouvrable, tout au long de l’année d’imposition visée. Aucun des employés à temps partiel de l’appelante ne satisfaisant à cette exigence, celle-ci a exploité une entreprise de prestation de services personnels au sens du paragraphe 125(7), même si elle a eu cinq employés à temps plein, car elle n’a pas employé [traduction] « au moins six employés à temps plein » pendant chaque année d’imposition (observations écrites de l’intimée, aux paragraphes 7 et 8).
+[7] Les conséquences dérivant de la conclusion qu’une société gagne son revenu en tant qu’ « entreprise de prestation de services personnels » sont exposées dans une décision de la Cour d’appel fédérale, Dynamic Industries Ltd. v. The Queen, 2005 DTC 5293, aux paragraphes 45 à 48 :
+[45] Le revenu d'une société tiré d'une entreprise de prestation de services personnels n'est pas admissible à la déduction accordée aux petites entreprises, ce qui signifie qu'il est imposé à un taux plus élevé que ses autres revenus d'entreprise.
+[46] De plus, dans le calcul du revenu d'une société tiré d'une entreprise de prestation de services personnels, aucune déduction n'est permise, sauf la rémunération versée à « l'employé constitué en société » (la personne mentionnée à l'alinéa a) de la définition d'« entreprise de prestation de services personnels », certaines dépenses relatives à l'employé constitué en société et certaines dépenses juridiques. Ces restrictions touchant la déductibilité des dépenses d'entreprise sont indiquées à l'alinéa 18(1)p) […]
+[47] Dans la situation la plus répandue visée par l'alinéa 18(1)p) de la Loi de l'impôt sur le revenu, aucune déduction n'est permise pour des dépenses d'entreprise courantes comme le loyer, les frais téléphoniques, les frais d'administration et de bureau et la rémunération de tout employé autre que l'employé constitué en société. Dans la présente affaire, par exemple, la plus grande partie des dépenses refusées au cours des trois années visés par l'appel est constituée par la rémunération versée à Mme Shkwarok pour ses services administratifs. Cette dépense n'a été refusée que parce que la Couronne considérait que Dynamic exploitait une entreprise de prestation de services personnels. Personne ne prétend que Mme Shkwarok n'a pas rendu des services administratifs à Dynamic, ou que sa rémunération pour ces services était déraisonnable.
+[48] Aucune disposition de la Loi de l'impôt sur le revenu ne prévoit une compensation à l'application de l'alinéa 18(1)p). Ainsi, par exemple, Mme Shkwarok aurait été imposée sur la rémunération versée par Dynamic, malgré l'impossibilité pour Dynamic de déduire cette rémunération.
+Par conséquent, si je décide que l’appelante est une entreprise de prestation de services personnels, elle ne pourra demander que la déduction des dépenses énumérées à l’alinéa 18(1)p) et n’aura pas droit à la déduction accordée aux petites entreprises car elle ne sera pas considérée comme une « entreprise exploitée activement ».
+[8] Ma décision dépend de la façon dont je vais interpréter le syntagme « plus de cinq employés à temps plein ». Autrement dit, la disposition exige-t-elle au moins six employés à temps plein, ainsi que le prétend l’intimée, ou bien sera-t-elle respectée s’il y a cinq employés à temps plein et au moins un employé à temps partiel, ainsi que le soutient l’appelante? Celle-ci allègue qu’au cas où je serais d’accord avec l’intimée et que je conclurais que la disposition exige six employés à temps plein, alors M. Sunny Donatelli, l’un des employés classés comme ayant travaillé à temps partiel, qui travaillait pour l’appelante 30 heures par semaine en général, sauf pendant ses vacances et ses congés de maladie ainsi que pendant une période de licenciement due à un incendie, serait considéré comme ayant travaillé à temps plein pendant les années visées.
+[9] La Cour suprême du Canada a récemment réitéré les règles d’interprétation dans l’arrêt Cie pétrolière Impériale ltée c. Canada, 2006 CSC 46 :
+24 Notre Cour a créé une jurisprudence considérable en matière d’interprétation des lois fiscales. Je n’ai pas l’intention de l’examiner au complet, et il n’est pas nécessaire que je le fasse non plus. Je me concentrerai sur quelques principes clés qui semblent s’en dégager, de même que sur l’évolution de ces principes.
+25 La jurisprudence de notre Cour se fonde sur la méthode moderne d’interprétation législative. Depuis l’arrêt Stubart Investments Ltd. c. La Reine, [1984] 1 R.C.S. 536, la Cour a statué que l’interprétation stricte des lois fiscales n’est plus appropriée, et que la méthode moderne doit aussi s’appliquer à ces lois :
+[traduction] [I]l faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi . . .
+(E. A. Driedger, Construction of Statutes (2e éd. 1983), p. 87; Stubart, p. 578, le juge Estey; Entreprises Ludco Ltée c. Canada, [2001] 2 R.C.S. 1082, 2001 CSC 62, par. 36, le juge Iacobucci)
+26 Malgré cette approbation de la méthode moderne, la nature particulière des lois fiscales et les caractéristiques de leurs structures souvent complexes expliquent pourquoi on a toujours mis l’accent sur la nécessité d’examiner attentivement le texte même de la LIR, de manière à permettre aux contribuables de se fonder sur celui‑ci, sans risque d’erreur, pour exploiter leur entreprise et organiser leurs affaires fiscales. On ne devrait pas permettre que des considérations générales touchant l’objet de la loi se substituent aux termes précis employés par le législateur (Ludco, par. 38‑39).
+27 Bien qu’elle l’ait fait dans le contexte de la « règle générale anti‑évitement » ou « RGAÉ », notre Cour a récemment réitéré les principes clés régissant l’interprétation des lois fiscales dans les arrêts Hypothèques Trustco Canada c. Canada, [2005] 2 R.C.S. 601, 2005 CSC 54, et Mathew c. Canada, [2005] 2 R.C.S. 643, 2005 CSC 55. D’une part, la Cour a reconnu que l’interprétation textuelle de ces lois reste pertinente. D’autre part, elle a insisté sur l’importance d’interpréter leurs dispositions dans leur contexte, c’est‑à‑dire eu égard à l’esprit général de la loi, comme l’exige la méthode moderne.
+28 Dans les motifs conjoints qu’ils ont rédigés dans l’affaire Trustco Canada, la Juge en chef et le juge Major ont affirmé, au départ, que la méthode moderne s’applique à l’interprétation des lois fiscales. Il faut lire les mots dans leur contexte, en tenant compte de l’ensemble de la loi, c’est‑à‑dire en conservant toujours à l’esprit les mots employés dans les autres dispositions de la loi :
+Il est depuis longtemps établi en matière d’interprétation des lois qu’« il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur » : voir 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, par. 50. L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux. [par. 10]
+29 La Juge en chef et le juge Major ont ensuite abordé le problème de la tension sous‑jacente entre l’interprétation textuelle, les attentes des contribuables concernant la fiabilité de leurs arrangements fiscaux et commerciaux, les objectifs du législateur et les objets de certaines dispositions ou de la loi dans son ensemble :
+En raison du principe du duc de Westminster (Commissioners of Inland Revenue c. Duke of Westminster, [1936] A.C. 1 (H.L.)), selon lequel le contribuable a le droit d’organiser ses affaires de façon à réduire au maximum l’impôt qu’il doit payer, le droit fiscal canadien a reçu une interprétation stricte à une époque où l’interprétation littérale des lois était plus courante qu’aujourd’hui. De nos jours, il ne fait aucun doute que toutes les lois, y compris la Loi de l’impôt sur le revenu, doivent être interprétées de manière textuelle, contextuelle et téléologique. Cependant, le caractère détaillé et précis de nombreuses dispositions fiscales a souvent incité à mettre l’accent sur l’interprétation textuelle. Lorsque le législateur précise les conditions à remplir pour obtenir un résultat donné, on peut raisonnablement supposer qu’il a voulu que le contribuable s’appuie sur ces dispositions pour obtenir le résultat qu’elles prescrivent. [par. 11]
+(Voir aussi Mathew, par. 42‑43.)
+[10] La Cour d’appel fédérale et la Cour fédérale ont toutes deux étudié cette même formulation pour analyser la définition de l’expression « entreprise de placement déterminée », connexe à l’alinéa 125(7)c). La définition d’« entreprise de placement déterminée », que prévoit également l’alinéa 125(7)c), comporte la même exception que la définition d’ « entreprise de prestation de services personnels ». L’intimée s’est appuyée sur la décision du juge Muldoon dans The Queen v. Hughes & Co. Holdings Limited, 94 DTC 6511, dans laquelle la Cour fédérale s’est penchée sur la question de savoir si une entreprise de placement déterminée avait besoin d’« au moins six employés à temps plein » ou de « cinq employés à plein temps plus au moins un employé à temps partiel ». Le juge Muldoon affirme à la page 6518 de la décision :
+39 Selon la disposition législative applicable, l'exemption s'applique à « la corporation qui emploie dans l'entreprise tout au long de l'année plus de cinq employés à plein temps ». D'après la défenderesse, le Parlement voulait vraiment donner à la notion de « l'emploi » un sens fluide et parlait de l'emploi de façon générale plutôt que d'un employé en particulier. La contribuable soutient qu'une entreprise pourrait avoir « plus de cinq employés à plein temps » en ajoutant à ceux-ci des employés à temps partiel. Cette solution pourrait bien donner lieu à plus d'emplois que ce n'est nécessaire pour avoir plus de cinq employés à plein temps, mais ce n'est pas ce que le Parlement voulait dire, d'après la façon dont notre Cour interprète le sous-alinéa 125(7)e)(i). Le sens de cette exemption législative est assez évident lorsqu'on examine celle-ci en conservant tous les mots, mais en les disposant dans un ordre différent : « employés à plein temps, plus de cinq ». Cela signifie plus d'employés à plein temps que cinq [employés à plein temps]. Il ne serait pas question ici d'employés qui ne sont pas des employés à plein temps les employés à temps partiel ne sont même pas envisagés.
+40 Dans l'affaire Shenowski, que la défenderesse a citée plus haut, le juge Dysart a interprété de façon fort intéressante une construction semblable qui portait toutefois sur une question différente. Il s'agissait de la version de 1931 de l'article 750 du Code criminel, dont le libellé était le suivant :
+a) si la condamnation est prononcée ou l'ordre décerné plus de quatorze jours avant la session de la Cour à laquelle l'appel est porté, cet appel est entendu à cette session prochaine; mais si […]
+Étant donné que le sous-alinéa 125(7)e)(i) ne porte nullement sur les employés à temps partiel et encore moins sur une partie d'employé, il est intéressant de voir comment le juge Dysart a interprété l'alinéa 750a) précité du Code :
+[TRADUCTION] La Cour suprême de la Nouvelle-Écosse a décidé que l'expression "plus de quatorze jours avant" signifiait au moins 15 jours francs : Rer v. Johnston (1908), 13 C.C.C. 179; je ne connais aucune décision qui va à l'encontre de cet arrêt et aucune ne m'a été citée.
+[…]
+En conséquence, les mots « plus de quatorze jours avant la session » signifient 14 jours complets, sans tenir compte d'une partie de la journée de la session; comme il n'y a pas de fraction de jours, les mots « plus de quatorze jours » doivent signifier au moins 15 jours complets.
+([1932] 1 W.W.R., p. 193 et 194)
+[Non souligné dans l’original.]
+[11] En toute déférence, j’estime que les conclusions du juge Muldoon ne sont pas correctes. Premièrement, il est évident, au paragraphe 39 de ses motifs, qu’afin d’étayer ses conclusions, il a modifié le libellé de la Loi et déclaré que « plus de » modifiait « employés à plein temps ». Ceci va directement à l’encontre des règles d’interprétation auxquelles je fais référence au paragraphe 9. Deuxièmement, il s’est appuyé sur une affaire criminelle pour étayer sa conclusion que « plus de cinq » équivaut à « au moins six ». Dans Shenowski (Rex v. Shenowski, [1932] 1 W.W.R. 192), le juge a décidé que le syntagme « plus de quatorze jours » qui figurait à l’alinéa 750a) du Code criminel désignait « au moins quinze jours francs », en se basant sur la version de 1931 de cet alinéa. Dans Hughes, le juge Muldoon a cité le paragraphe (ainsi qu’en fait état ma citation de sa décision) où, dans Shenowski, la Cour expliquait qu’à l’époque, il existait en droit un usage bien établi pour calculer le temps. Le juge Muldoon a cependant négligé d’inclure la partie la plus pertinente de la décision Shenowski en ce qu’elle a trait à cette question; le juge Dysart y affirme :
+[traduction]
+9 Pour calculer le nombre de jours qui s’écoulent entre deux événements, on ne compte pas en général les jours où ces événements ont eu lieu. La raison en est qu’en droit, on considère que les jours sont des points ou des périodes de courte durée coïncidant exactement, quant à la durée, avec les événements eux-mêmes, de sorte qu’il n’est possible d’inclure dans le calcul aucune fraction de journée, ni avant ni après l’événement lui-même : Lester v. Garland (1808), 15 Ves. Jun. 248, à la page 257, 33 E.R. 748; Pugh v. Leeds (Duke) (1777), 2 Cowp. 714, à la page 720, 98 E.R. 1323; In re Railway Sleepers Supply Co. (1885), 29 Ch. D. 204, 54 L.J. Ch. 720.
+Certes, il a existé en droit, dans l’affaire criminelle Shenowski, un usage pour calculer le temps, mais que je sache, il n’existe pas d’usage semblable à l’égard des personnes, plus particulièrement à l’égard des employés. C’est donc à mauvais escient que le juge Muldoon s’appuie sur les principes de Shenowski. Troisièmement, quand le législateur a employé le syntagme « plus de cinq » à l’alinéa 125(7)c), sa volonté n’a pu être de vouloir dire « au moins six employés à temps plein » ainsi que l’a conclu le juge Muldoon. Le syntagme « plus de » se retrouve plus de 200 fois dans la Loi et la Cour l’a étudié à plusieurs occasions. Dans Burton c. Canada, 2005CCI762 par exemple, la Cour a jugé qu’il y avait prescription d’une cotisation établie « plus de » deux ans après que l’appelant eut cessé d’agir à titre d’administrateur. La cotisation datait du 26 avril 2004 et l’appelant avait démissionné en février 2002. Nous pouvons constater que le syntagme « plus de deux ans » employé au paragraphe 227.1(4) n’a pas été interprété de façon à vouloir dire « au moins trois ans ». Le syntagme « plus de » se retrouve dans d’autres articles de la Loi, par exemple à l’article 122.3, qui porte sur le crédit d’impôt pour emploi à l’étranger, concernant les résidents du Canada qui travaillent à l’étranger pour un employeur déterminé pendant « plus de 6 mois consécutifs ». Au paragraphe 9 du bulletin d’interprétation IT-497R4, l’Agence du revenu du Canada a adopté la position que cette période désigne 6 mois consécutifs « plus un jour », et non pas « au moins sept mois consécutifs ». Quatrièmement, le juge Muldoon avait réellement pris sa décision sur l’appel quand il a décidé que l’employé en cause n’est pas employé à temps plein par le contribuable et, donc, que la société de celui-ci n’avait que quatre employés à temps plein, et non pas cinq. Il a pourtant poursuivi et examiné la possibilité qu’une cour d’appel infirme sa décision et conclue qu’il s’agissait d’un employé à temps plein, ce qui porterait à cinq le nombre des employés à temps plein et obligerait alors à examiner le cas de plusieurs employés à temps partiel, ce qui est la question dans l’appel en l’espèce. Je pense que ses commentaires à l’égard des employés à temps partiel peuvent être considérés comme une opinion incidente.
+[12] Même si à mon avis le juge Muldoon a modifié de façon erronée le libellé de la disposition de façon à justifier sa conclusion, même si cela n’a pas affecté sa conclusion finale, on ne peut soutenir que le syntagme « plus de cinq » équivaut à « au moins six » si l’on prend en compte l’économie générale de la Loi et l’intention du législateur. Je suis d’accord avec les observations de l’appelant que, si le législateur avait voulu dire « au moins six » employés, c’est ce qu’il aurait écrit, tout simplement. Le législateur a employé le syntagme « au moins » dans de nombreuses autres dispositions de la Loi, notamment à l’article 19, à l’alinéa 110.6(1.2)a), au paragraphe 127.1(2.2), à l’alinéa 147(2)g) et à l’alinéa 248(1)e) pour la définition d’automobile. Par conséquent, il faut donc appliquer dans le présent appel la présomption d’uniformité d’expression, exprimée dans Driedger on the Construction of Statutes (3ième éd.) (Markham : Butterworths Canada Ltd., 1994), à la page 163. Il semble que ce soit l’intention du législateur que de distinguer soigneusement, uniformément et exactement dans la Loi entre l’usage des expressions « plus de » et « au moins ». Je ne crois pas que l’intention du législateur ait été que, dans cette disposition, ces termes puissent être employés de façon interchangeable. Si le législateur avait voulu « au moins six employés à temps plein » dans le contexte de cette disposition, il aurait employé ces mots-là. S’il a choisi le syntagme « plus de cinq employés à temps plein », c’est à mon avis parce qu’il reconnaît clairement que le milieu de travail du Canada d’aujourd’hui comprend à la fois des employés à temps plein et à temps partiel.
+[13] Avant d’en terminer avec mon analyse de la décision du juge Muldoon dans Hughes, je mentionne que plusieurs jugements l’ont citée à propos du syntagme « plus de cinq employés à temps plein ». Le juge Margeson, dans Ben Raedarc Holdings Limited et al. v. The Queen, 98 DTC 1218, a approuvé les commentaires du juge Muldoon dans Hughes, ayant affirmé à la page 1225 : « […] pour éviter de se voir accorder “le statut d'entreprise de placement désignée”, le contribuable doit avoir “plus de cinq employés à plein temps”. Cela veut clairement dire qu'il doit y avoir au moins six employés à plein temps. » En toute déférence, je ne suis pas d’accord avec les commentaires du juge Margeson, qui constituent néanmoins une opinion incidente, car la Cour, ayant décidé qu’il n’y avait que quatre employés à temps plein, n’avait pas à se prononcer sur cette question.
+[14] Dans Woessner et al. v. The Queen, 99 DTC 1039, le juge Beaubier a cité le juge Muldoon dans Hughes et simplement conclu qu’il avait à juger une situation identique. Le juge Beaubier devait décider si des gérants d’immeuble d’habitation constituaient des employés à temps plein de la société de sorte que celle-ci aurait, en sus de ses trois employés à temps plein, cinq employés à temps plein. Il n’a pas examiné toutefois le cas d’employés à temps partiel, dont je suis saisi en l’espèce.
+[15] Au paragraphe 18 de l’arrêt Lerric Investments Corp. v. The Queen, 2001 DTC 5169, le juge Rothstein a ainsi commenté la décision Hughes :
+18 Je ne suis pas convaincu du bien-fondé de l'opinion exprimée dans la décision Canada c. Hughes & Co. Holdings Ltd., [1994] 2 C.T.C. 170, au paragraph [sic] 37, suivant laquelle l'obligation pour une société d'employer « plus de cinq employés à plein temps » signifie qu'elle doit avoir au moins six employés à plein temps et qu'elle ne satisfait pas à cette exigence si elle emploie cinq employés à plein temps et un employé à temps partiel. Il suffit que l'employeur emploie plus de cinq employés à temps plein. J'estime toutefois qu'une méthode suivant laquelle on attribue des fractions d'employés à plein temps d'entreprises en copropriété ou de coentreprises à une société exploitée en copropriété ou en coentreprise pour satisfaire à l'obligation d'avoir « plus de cinq employés à plein temps » reviendrait à interpoler dans le texte de la loi des mots que le législateur n'y a pas mis.
+Dans Lerric, la Cour avait à décider si l’appelante satisfaisait à l’obligation d’avoir « plus de cinq employés à temps plein » du fait qu’elle employait deux personnes à temps plein et partageait les dépenses pour quinze autres. Puisque la Cour n’avait pas à trancher la question de savoir si un employé à temps partiel satisfaisait à l’exigence de « plus de cinq employés à temps plein », les remarques du juge Rothstein sont incidentes. Elles donnent toutefois à penser qu’il n’existe pas de consensus uniforme sur la démarche à adopter et qu’il existe de l’ambiguïté quant au sens à donner à cette expression.
+[16] Dans Baker et al. v. The Queen, 2005 DTC 5266, la Cour a examiné si six personnes travaillaient à temps partiel ou à temps plein et a affirmé au paragraphe 14 :
+14 Je partage la conclusion tirée par le juge Muldoon dans la décision Hughes and Co., précitée, en page 6517, que le concept d'emploi « à plein temps » dans la définition d'« entreprise de placement déterminée » s'emploie par opposition à emploi « à temps partiel ». Cette distinction se rapporte à la considération générale que le législateur avait à l'esprit lorsqu'il posait pour condition un minimum de cinq employés à plein temps tout au long de l'année. Cette condition n'est remplie que si l'emploi est à plein temps, par opposition à l'emploi à temps partiel.
+Je ne suis pas persuadée que la Cour commentait ce qui va constituer « plus de cinq employés à temps plein ». Elle ne s’est pas prononcée sur la question de savoir si l’employé supplémentaire devait travailler à temps plein ou à temps partiel. Elle a seulement affirmé que les cinq employés dont fait état la disposition sont tous tenus de travailler à temps plein. Ma conclusion s’appuie sur l’extrait suivant de cette décision, au paragraphe 11 :
+11 La condition du minimum de cinq employés à plein temps, que pose la définition d' « entreprise de placement déterminée », doit être analysée à la lumière de l'objet et du but de cette dernière. [...]
+La décision dans Baker ne fait à mon avis que confirmer qu’il n’est pas possible de remplacer l’obligation d’avoir cinq employés à temps plein par de nombreux employés à temps partiel, et je suis d’accord avec cette confirmation.
+[17] Les définitions du dictionnaire aident sans aucun doute à décider si une entreprise emploie le minimum de « cinq employés à temps plein », mais leur utilité ne va pas plus loin, car je ne crois pas que la disposition exige un sixième employé à temps plein. L’intimée soutient que « plus de cinq » veut dire « au moins six ». Au paragraphe 15 de la décision Lerric Investments Corp. v. The Queen, 99 DTC 755, le juge Bowman commente en ces termes l’allégation de la Couronne que « plus de cinq signifie au moins six » :
+[...] D'un simple point de vue mathématique, ce n'est pas exact. Cinq virgule deux, c'est plus que cinq.
+La présomption de l’uniformité d’expression doit s’appliquer à cet égard. Si le législateur n’a pas employé dans la disposition le syntagme « au moins », je ne crois qu’il y ait lieu d’interpréter de telle sorte que le syntagme « plus de cinq » voudrait dire « au moins six ». À ce propos, je suis consciente des commentaires du juge Bowman dans la décision Lerric Investments, sur l’objet et l’esprit de la Loi, que l’arrêt de la Cour d’appel fédérale a approuvés dans Lerric Investments. Le législateur a voulu à mon avis établir un critère de « plus de cinq employés à temps plein », auquel une société doit satisfaire afin d’être considérée comme une entreprise exploitée activement, lui ouvrant droit ainsi à la déduction. Cette obligation établie, le législateur n’a cependant pas été plus loin, alors qu’il aurait pu le faire, car il connaissait la possibilité bien réelle de l’emploi à temps partiel. Je pense donc que mon interprétation est conforme à l’esprit de la Loi et à l’intention du législateur lors de l’adoption de cette disposition. Le bon sens impose que le législateur aurait employé un libellé complètement différent s’il avait voulu dire que, pour qu’une société soit considérée comme une entreprise exploitée activement, elle devait employer « au moins six employés à temps plein ». Le législateur avait une raison de ne pas employer ce libellé, et c’est qu’il voulait que l’emploi à temps partiel tout au long de l’année favorise une société en exploitation active et employant cinq employés à temps plein. Ceci à mon avis reflète simplement le fait que le législateur reconnaît qu’il existe des employés à temps partiel tout autant que des employés à temps plein sur le marché du travail canadien.
+[18] Dans les faits en l’espèce, les parties ont convenu que l’appelante employait cinq personnes à temps plein [paragraphe 8d) de l’exposé conjoint des faits]. L’exposé fait également référence au fait que deux autres personnes étaient employées, Mme Clark et M. Donatelli (au paragraphe 5). Mme Clark a travaillé 15 heures par semaine, tout au long de chaque année d’imposition. Il a également été convenu au paragraphe 8e) que M. Donatelli était un employé à temps partiel. J’ai conclu que le syntagme « plus de cinq employés à temps plein » n’obligeait pas l’appelante à employer six personnes à temps plein tout au long des années d’imposition 2003 et 2004 afin d’être exclue de l’application de la définition d’entreprise de prestation de services personnels. L’emploi que fait le législateur du syntagme « plus de » est conforme à la façon dont il emploie ce syntagme dans d’autres articles de la Loi. L’appelante a satisfait à l’obligation d’embaucher « tout au long de l’année plus de cinq employés à temps plein » en employant des personnes à temps partiel. Il n’y a pas lieu d’examiner ici ce qui constitue l’emploi à temps partiel, vu les admissions contenues dans l’exposé conjoint des faits. L’examen de ce point est remis à plus tard.
+[19] La jurisprudence révèle certes une ambiguïté dans l’interprétation du syntagme « plus de cinq employés à temps plein ». Le principe affirmé dans Johns-Manville Canada Inc. v. The Queen, 85 DTC 5373, selon lequel cette ambiguïté doit jouer en faveur du contribuable est applicable en l’espèce. Ce principe a été affiné dans Corporation Notre-Dame de Bon‑Secours v. Communaute Urbaine de Québec et al., 95 DTC 5017. Le juge en chef Bowman a récemment réaffirmé cette règle d’interprétation législative dans 943372 Ontario Inc. c. La Reine, 2007CCI294. S’il y a ambiguïté dans la jurisprudence, elle doit bénéficier au contribuable. J’estime néanmoins que le législateur a employé les expressions « plus de cinq » et « tout au long de l’année » afin de distinguer la société à laquelle s’applique la définition d’« entreprise de prestation de services personnels » de celle à laquelle elle ne s’applique pas. Le législateur aurait pu retenir un libellé différent (« au moins six employés à temps plein »), mais il ne l’a pas fait. Même si la jurisprudence comporte des ambiguïtés, la disposition ne peut, à mon avis, recevoir qu’une seule interprétation.
+[20] Les appels sont en conséquence accueillis avec dépens en faveur de l’appelante.
+Signé à Ottawa, Canada, ce 6e jour de juin 2008.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 19e jour de janvier 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2008CCI332
+DOSSIER DE LA COUR :
+2006-1940(IT)G
+INTITULÉ :
+489599 B.C. Ltd.
+c. Sa Majesté La Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 14 avril 2008
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 6 juin 2008
+COMPARUTIONS :
+Avocats de l’appelante :
+Mes Gordon S. Funt
+et Michelle Moriartey
+Avocate de l’intimée :
+Me Karen A. Truscott
+AVOCATS INSCRITS AU DOSSIER :
+Avocats de l’appelante :
+Nom :
+Mes Gordon S. Funt
+et Michelle Moriartey
+Cabinet :
+Fraser Milner Casgrain, s.e.n.c.r.l.
+Vancouver (Colombie-Britannique)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les périodes de paie ont une durée de deux semaines.
+[2] Le 6 septembre 2002, M. Donatelli a fait l’objet d’un licenciement temporaire de la part de la société 489.
+[3] M. Donatelli a repris son travail à la société 489 le 1er octobre 2002.
+[4] Cette période chevauchant les deux années d’imposition 2003 et 2004 de la société 489, elle figure sur le tableau pour chacune des années.

@@ -1,0 +1,26 @@
+---
+title: "What to know if you have a debt with the CRA"
+gallery_title: "What to know if you have a debt with the CRA"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/series-debt-collection-canada-revenue-agency-cra/transcript-what-know-you-have-a-debt-cra.html
+series: "Debt Collection at the Canada Revenue Agency (CRA)"
+video_source: https://www.youtube.com/watch?v=gg4jeVgQDc4
+last_modified: 2018-11-30
+---
+
+# What to know if you have a debt with the CRA
+
+## Transcript
+**NARRATOR:** 9 out of 10!
+9 out of 10 Canadians who owe tax pay it on time.
+If you are among the vast majority of Canadians who are paying what they owe on time, you avoid “penalties” and “interest”. But, most importantly, you are giving yourself peace of mind.
+Do you owe taxes or other government debt like overdue student loans, or EI and CPP overpayments?
+If so, the Canada Revenue Agency wants to help you get back on track.
+Paying what you owe to the CRA is easier than ever with a variety of online payment options.
+And if you can't pay the whole amount right away, the CRA can work with you to set up a payment arrangement that lets you make payments over time.
+Take Michael for instance. He has a debt with the CRA and he can't pay the full amount right now.
+Using My Account on the CRA web site he was able to set up a monthly payment arrangement to pay off his debt.
+Michael will pay interest on his debt until it's paid in full so the sooner he pays it off, the less interest he'll have to pay.
+If you owe money to the CRA and you've been contacted by the CRA about it, collection actions could be underway.
+Avoiding your debt will not make things easier for you. By working together with the CRA as early as possible, you can avoid legal and financial consequences.
+So get some peace of mind by joining the 9 out of 10 Canadians who sleep easy knowing that their taxes are in order and their debt has been paid.
+To contact the CRA about your debt now or for more information, go to [canada.ca/cra-collections](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/when-you-money-collections-cra.html).

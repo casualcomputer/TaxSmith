@@ -1,0 +1,168 @@
+Title: Cherniak c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/108369/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-53-108369-cherniak-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-03-02
+
+# Cherniak c. La Reine
+
+- Citation: 2015 CCI 53
+- Decision date: 2015-03-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2765, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cherniak c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-03-02
+Référence neutre
+2015 CCI 53
+Numéro de dossier
+2008-272(GST)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-272(GST)G
+ENTRE :
+BRIAN DAVID CHERNIAK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 9,10 et 11 décembre 2013 ainsi que
+les 24 et 25 novembre 2014, à Toronto (Ontario).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me Craig Maw
+Me Roxanne Wong
+JUGEMENT
+L’appel de la cotisation établie au titre de l’article 323 de la Loi sur la taxe d’accise, dont avis est daté du 3 août 2006 et porte le numéro A107795, est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour réexamen et nouvelle cotisation, de manière à donner effet à la concession (définie dans les motifs ci-joints), le tout en conformité avec les motifs de jugement ci‑joints.
+Les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 2e jour de mars 2015.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 21e jour d’avril 2015.
+C. Laroche
+Référence : 2015 CCI 53
+Date : 20150302
+Dossier : 2008-272(GST)G
+ENTRE :
+BRIAN DAVID CHERNIAK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Aperçu [1] Le présent appel soulève la question de savoir si l’appelant, M. Brian David Cherniak (« M. Cherniak »), a été correctement cotisé aux termes d’une cotisation (la « cotisation ») établie au titre du paragraphe 323(1) de la Loi sur la taxe d’accise (la « LTA ») relativement à la taxe sur les produits et services (la « TPS ») non remise de GMC Distribution Ltd. (« GMC ») dans les circonstances décrites ci-dessous.
+[2] L’appelant conteste la cotisation pour deux motifs. Premièrement, il soutient que GMC n’a aucune dette de TPS, et il conteste donc la cotisation sous‑jacente (la « cotisation à l’égard de la société ») établie contre GMC. Deuxièmement, il fait valoir qu’il a agi avec diligence pour s’assurer que GMC respectait ses obligations en matière de perception et de remise de TPS.
+II. Le contexte factuel et les conclusions concernant la crédibilité [3] En juillet 2006, le ministre du Revenu national (le « ministre ») a établi une cotisation de 6 165 394,23 $ à l’égard de l’appelant, relativement à de la TPS non remise, des intérêts et des pénalités dus par GMC pour les périodes de déclaration du 1er mars 1999 au 30 septembre 2002. Les détails de la cotisation sont exposés à l’annexe A jointe aux présents motifs de jugement[1].
+[4] Le 24 octobre 2002, l’Agence du revenu du Canada (« ARC ») a enregistré un certificat à la Cour fédérale en vertu de l’article 316 de la LTA relativement à la dette de GMC au titre de la TPS impayée. À la même date, la Cour fédérale a délivré un bref de saisie et vente (le « bref ») au shérif de la ville de Toronto. En 2006, le bureau du shérif a reçu instruction d’exécuter le bref. Celui-ci a été retourné nulla bona, étant donné que GMC ne possédait aucun bien. Cela a amené le ministre à cotiser l’appelant tel qu’il a été indiqué plus haut.
+[5] Au début du procès, l’intimée a concédé que l’appelant ne pouvait pas être cotisé pour les montants indiqués relativement aux dix premières périodes énumérées à l’annexe A, représentant un total de 8 482,71 $, parce que ces montants n’étaient pas visés par le certificat déposé auprès de la Cour fédérale le 24 octobre 2002, comme cela a été décrit plus haut (la « concession »). L’intimée admet que l’appel devrait être accueilli dans la mesure nécessaire pour donner effet à la concession, mais elle soutient que le reste de la cotisation est juste.
+[6] L’appelant a présenté lui-même la plupart de ses éléments de preuve. Il a également appelé M. George Abela (« M. Abela ») pour décrire sa relation d’affaires alléguée avec GMC. Comme je l’expliquerai plus en détail ci-dessous, les comptes rendus de l’appelant et de M. Abela différaient sensiblement sur de nombreux points.
+[7] L’intimée a appelé deux agents de l’ARC comme témoins. J’ai entendu le témoignage de M. Ruffolo, l’agent de perception de l’ARC qui avait établi la cotisation à l’égard de l’appelant, puis M. Yasotharan a témoigné au sujet des circonstances qui l’avaient amené à établir la cotisation sous-jacente à l’égard de la société GMC.
+[8] Dans son témoignage, l’appelant a déclaré que GMC avait commencé à faire affaire dans le domaine de la vente de pièces d’ordinateurs neuves et usagées en gros en 1999 (l’« entreprise de pièces d’ordinateurs »). L’appelant prétend que cette occasion lui a été proposée par un dénommé John Nixey (« M. Nixey »). L’entreprise a été exploitée par l’entremise de GMC, quoique ni M. Nixey ni l’appelant n’aient détenu de parts dans GMC. Selon l’appelant, aux termes de l’entente conclue avec M. Nixey, celui-ci disposerait d’un véhicule loué mis à sa disposition par une autre société appartenant à l’appelant. C’est l’appelant qui interagissait avec les banques. L’appelant allègue que M. Nixey s’occupait de toutes les autres activités courantes de l’entreprise de pièces d’ordinateurs.
+[9] Selon l’appelant, GMC agissait comme intermédiaire entre, d’une part, Micro Computer Connections (« Micro Connections »), une entreprise individuelle appartenant à M. Morgan Jacobs (« M. Jacobs »), et Brocton Resources (collectivement les « fournisseurs »), et d’autre part, Jag Distributors, Jay-Tek et peut-être FB Enterprises, StarDust.com et Computer Micro‑Electronic Canada (les « clients »), des entités contrôlées par M. Abela et/ou son fils. Il appert des factures produites en preuve que Micro Connections fournissait à peu près toutes les pièces d’ordinateurs à GMC. Selon l’appelant, M. Abela et son fils exploitaient une entreprise d’exportation de pièces d’ordinateurs à Malte et aux États-Unis.
+[10] En tant qu’intermédiaire entre les fournisseurs et les clients, GMC gagnait une marge brute nominale d’environ 0,25 %. L’appelant fixait le prix de vente des pièces d’ordinateurs à partir du prix d’achat, qu’il majorait d’environ 0,25 %. Il appliquait ensuite le taux de TPS à ce montant total.
+[11] L’appelant soutient que les premiers volumes importants de pièces d’ordinateurs ont été reçus au cours des mois de juillet, août et septembre 1999. Lors de son interrogatoire principal, l’appelant a allégué qu’il voyait seulement les pièces qui restaient à M. Nixey parce qu’elles n’étaient pas expédiées ou les pièces qui faisaient partie du petit inventaire qui était conservé à l’époque. En contre-interrogatoire, l’appelant a soutenu qu’il avait vu entre 20 et 25 % de toutes les marchandises reçues. Son témoignage sur ce point était très flou.
+[12] L’appelant a fait ouvrir un compte pour GMC à la Banque royale du Canada (le « compte à la Banque royale ») pour les entrées de fonds et les paiements liés à l’entreprise de pièces d’ordinateurs. Lorsqu’il recevait des pièces d’ordinateurs, selon ce qu’allègue l’appelant, M. Jacobs lui donnait instruction de faire verser des paiements dans un compte à la Banque Canadienne Impériale de Commerce (le « compte à la CIBC ») par transfert électronique de fonds. Le compte à la CIBC était lié à un compte offshore détenu auprès d’une banque allemande aux Bahamas. L’appelant a prétendu que M. Nixey inscrivait le montant du paiement ou demandait à la commis-comptable, la mère de l’appelant, de donner les instructions de paiement. L’appelant signait chaque demande de paiement.
+[13] Dans son témoignage, l’appelant a déclaré que les modalités de paiement étaient « contre remboursement » parce que les fournisseurs n’offraient aucun crédit à GMC et GMC ne disposait pas de financement pour payer immédiatement ses fournitures. GMC achetait les pièces de ses fournisseurs et les livrait aux clients le même jour. Selon l’appelant, les clients de GMC effectuaient leur paiement avant de recevoir les pièces d’ordinateurs. Lorsqu’il a été demandé à l’appelant durant le procès de fournir davantage de renseignements sur les modalités de fonctionnement de ce système de paiement, il a déclaré qu’il n’était pas certain qu’il possédait des renseignements exacts à ce sujet et qu’il ne se souvenait pas de chaque détail.
+[14] Les éléments de preuve démontrent que la Banque royale (« la BRC ») a exprimé des préoccupations au sujet du montant et de la nature des paiements faits à partir du compte à la Banque royale et des dépôts faits dans ce compte. La BRC a menacé l’appelant de fermer le compte si on ne lui fournissait pas des renseignements concernant les opérations et la situation financière des parties. D’ailleurs, la BRC a finalement fermé le compte à la Banque royale.
+[15] Au cours du procès, l’appelant a dit que, lorsqu’il avait rencontré les fournisseurs en 1999, ceux-ci lui avaient fourni un numéro de TPS soit verbalement ou par télécopieur. L’appelant allègue qu’il a appelé l’ARC pour confirmer si le numéro de TPS était valide, mais qu’on lui a dit que l’ARC ne pouvait pas lui communiquer ces renseignements. Néanmoins, les factures de M. Jacobs pour la période avant le 30 août 2000 présentées en preuve par l’appelant durant le procès ne comportaient aucun numéro d’inscription au registre de la TPS.
+[16] Plusieurs des observations de M. Abela au sujet des circonstances entourant sa relation d’affaires avec GMC contredisaient carrément la version des faits de l’appelant. L’exemple le plus frappant de contradiction entre leurs témoignages était leur désaccord quant à la manière dont les clients payaient les biens fournis par GMC.
+[17] Comme il a été indiqué, M. Cherniak a affirmé que Micro Connections, le fournisseur clé de GMC, exigeait que GMC paie les biens au plus tard au moment de leur livraison. M. Cherniak a reconnu que GMC ne disposait pas d’une marge de crédit ni d’aucuns fonds pour payer les biens. En conséquence, GMC demandait un paiement de ses clients avant de leur livrer les pièces d’ordinateurs. En revanche, M. Abela a insisté durant son témoignage pour dire que les clients de GMC se trouvaient dans la même situation financière précaire que GMC. Ils ne pouvaient pas payer les biens avant de recevoir un paiement de leurs propres clients. Dans son témoignage, M. Abela a déclaré que ses clients payaient au moment de la livraison ou dans les trente (30) jours suivant la livraison. D’après le témoignage de M. Abela, il ne semble pas que GMC aurait pu payer les biens achetés des fournisseurs avant leur livraison.
+[18] Dans le rapport de vérification concernant GMC, M. Yasotharan documente soigneusement le flux allégué de pièces d’ordinateurs à partir de Micro Connections. Ses conclusions à cet égard sont illustrées à l’annexe B des présents motifs. M. Yasotharan note que Micro Connections s’est seulement inscrite au registre de la TPS le 30 août 2000. Cela explique pourquoi aucun numéro de TPS ne figurait sur les factures présentées à GMC. M. Yasotharan croit que Micro Connections s’est inscrite au registre de la TPS parce que M. Jacobs a appris que GMC faisait l’objet d’une vérification. M. Yasotharan a également affirmé dans son témoignage que Micro Connections n’avait pas remis la TPS qu’elle aurait perçue de GMC.
+[19] M. Yasotharan affirme en outre que les paiements provenant des clients finaux non résidents dans la chaîne de transactions étaient faits à partir d’un compte bancaire offshore situé aux Bahamas. Chose surprenante, les paiements faits par GMC à Micro Connections étaient également déposés dans un compte bancaire offshore détenu auprès de l’Ansbacher Bank. M. Yasotharan a dit trouver curieux qu’un fournisseur canadien d’équipement informatique qui aurait acheté des pièces d’ordinateurs au Canada dépose des paiements en dollars canadiens dans un compte offshore. M. Yasotharan ne pouvait pas identifier les titulaires de ces comptes bancaires offshores. GMC et l’appelant n’ont présenté aucun élément de preuve crédible à cet égard. M. Yasotharan a conclu que les entités insérées dans la chaîne participaient à des transactions artificielles conçues pour générer des remboursements de TPS importants en rapport avec des ventes à l’exportation détaxées fictives. Il a également conclu que toute la documentation créée par les parties n’était que de l’habillage[2].
+[20] Comme l’avocat de l’intimée l’a souligné dans sa plaidoirie, ce type d’arrangement est communément appelé « carousel scheme » (« mécanisme de fraude tournante »). De l’argent circule d’une manière prédéterminée en sens contraire du flux de transactions fictives. L’argent commence et aboutit entre les mains des mêmes parties. La TPS est retirée du système sur le fondement de ventes à l’exportation fictives de fournitures détaxées qui permettent à l’exportateur-vendeur de recevoir de gros remboursements en rapport avec de la taxe qui n’a jamais été remise en premier lieu. De nombreux acheteurs et vendeurs sont insérés dans la chaîne de transactions pour dissimuler la réalité des faits.
+[21] Il y a une autre contradiction frappante entre le témoignage de l’appelant et celui de M. Abela quant à savoir qui jouait un rôle clé dans les transactions. L’appelant soutient que M. Nixey s’occupait des activités courantes de l’entreprise de pièces d’ordinateurs. Selon l’appelant, lui-même s’occupait uniquement des transactions bancaires, qui étaient fondées sur des factures reçues et des instructions de paiement données selon les directives de M. Nixey. Par contraste, M. Abela a insisté pour dire qu’il avait souvent traité avec M. Cherniak, notamment lorsqu’il prenait livraison de biens.
+[22] Un autre exemple curieux de preuve contradictoire tient à la divergence entre le témoignage de M. Abela et celui de l’appelant concernant les circonstances qui les ont amenés à mettre un terme à leur relation d’affaires. M. Cherniak a prétendu que les entités contrôlées par M. Abela et son fils avaient découvert la source d’approvisionnement de GMC et qu'elles s’étaient organisées avec Micro Connections pour éliminer GMC comme intermédiaire. M. Abela allègue que ce n’est pas ce qui s’est produit. Ce qui se serait plutôt produit, c’est que ses clients auraient soudainement cessé de faire de nouvelles commandes. Je suppose que ce n’est pas par hasard si les relations d’affaires des entités énumérées à l’annexe B ont cessé après que l’ARC a commencé à vérifier leurs arrangements.
+[23] Voici une liste de certains autres faits qui viennent discréditer encore davantage le témoignage de l’appelant.
+i.M. Cherniak prétend que M. Nixey lui a présenté le projet d’entreprise de pièces d’ordinateurs. M. Nixey aurait fait tout le travail, il aurait conçu un plan pour acheter des biens d’entreprises qu’il connaissait et les vendre à des entreprises qu’il connaissait, et pourtant, il ne détenait aucun intérêt dans l’entreprise et ne participait pas à ses profits. Selon M. Cherniak, 100 % des actions de GMC appartenaient à son frère. Vers le début de son témoignage, l’appelant a fait allusion au fait qu’Amber Technology avait mis un véhicule à la disposition de M. Nixey ainsi qu’un bureau dans ses locaux. L’appelant a donné l’impression que cela représentait la rémunération de M. Nixey en contrepartie du travail qu’il effectuait pour l’entreprise de pièces d’ordinateurs. Lorsque l’audience a repris plusieurs mois plus tard, l’appelant a changé son récit. Il a allégué qu’Amber Technology avait mis le véhicule et le bureau à la disposition de M. Nixey en contrepartie partielle de son achat d’actions d’Amber Technology. La question laissée en suspens est de savoir quel était l’intérêt financier de M. Nixey et de l’appelant dans l’entreprise. L’appelant n’a proposé aucune explication raisonnable au fait que M. Nixey et l’appelant avaient apparemment décidé de ne pas être actionnaires de l’entité qui exploitait l’entreprise.
+ii. M. Cherniak prétend que les pièces d’ordinateurs étaient essentiellement des marchandises, et pourtant, GMC n’a jamais tenté de diversifier son noyau de fournisseurs. De plus, il n’y a aucun élément de preuve donnant à penser que GMC a tenté de diversifier sa clientèle.
+iii.(iii) M. Abela a admis qu’il ne savait pas grand-chose au sujet des ordinateurs et de leurs composants. Lorsqu’il a été contre-interrogé au sujet des pièces énumérées sur les factures qu’il avait produites, M. Abela a été incapable de décrire les fonctions de ces pièces ou de dire qui les fabriquait. Il ressortait clairement de la preuve que M. Abela ne possédait pas l’expérience ni les compétences requises pour exploiter une entreprise de pièces d’ordinateurs ayant un chiffre d’affaires de plusieurs millions de dollars. En outre, M. Cherniak connaissait M. Abela personnellement. Il l’avait engagé pour réaliser des travaux de construction dans les locaux d’Amber Technology. Il m’est impossible de croire que M. Cherniak, qui est un homme d’affaires averti et un comptable agréé, n’a pas relevé les carences de M. Abela à cet égard.
+iv.(iv) La marge brute sur les ventes réalisées par GMC était ridiculement faible. M. Cherniak a admis que GMC avait réalisé un profit net de 60 000 $ sur des ventes d’environ 54 000 000 $. Je ne puis concevoir comment cette faible marge brute permettait à GMC d’absorber tous ses coûts.
+v.(v) M. Cherniak a admis que la BRC avait exprimé des préoccupations au sujet des transactions passant par le compte de GMC. La BRC a finalement mis fin à sa relation avec GMC.
+[24] Compte tenu de tout ce qui précède, je conclus que les éléments de preuve présentés par l’appelant n’étaient ni fiables ni crédibles. Les contradictions flagrantes susmentionnées donnent à penser que l’appelant n’a pas dit la vérité dans son témoignage. Le témoignage de M. Abela était également défaillant à cet égard. À titre d’observation finale, je note que M. Abela a admis qu’il avait déclaré faillite peu après avoir reçu une cotisation pour de la TPS non remise due par les sociétés dont il avait été administrateur. M. Abela prétend qu’il n’a pas contesté la cotisation établie à son égard parce qu’il n’avait pas les moyens financiers de le faire. J’infère de son témoignage que M. Abela a vraisemblablement conclu qu’il ne pourrait pas présenter une défense valable. De nombreuses fois, il a répondu aux questions qui lui étaient posées en contre‑interrogatoire en disant qu’il ne parvenait pas à se souvenir des faits. Cela m’a laissé l’impression que M. Abela tentait délibérément de masquer sa complicité dans le cadre de ce qui est connu sous le nom de mécanisme de fraude tournante. L’appelant m’a également laissé une impression similaire.
+III. Analyse A. Les transactions étaient-elles authentiques? [25] L’appelant conteste la cotisation établie à l’égard de la société GMC au motif que GMC avait le droit de réclamer les crédits de taxe sur les intrants (« CTI ») que le ministre a refusés.
+[26] La preuve m’amène à conclure que GMC n’achetait pas ni ne vendait de pièces d’ordinateurs. À mon avis, GMC pouvait seulement payer les factures des fournisseurs parce que les parties ne se souciaient pas des risques liés aux paiements et au crédit. Les paiements suivaient une trajectoire circulaire, en partant de comptes bancaires offshore pour aboutir dans ces mêmes comptes, qui étaient vraisemblablement contrôlés par des parties qui agissaient de concert. Par conséquent, j’admets la théorie de l’intimée selon laquelle GMC a participé avec d’autres à ce qui s’est révélé être des transactions sur papier s’inscrivant dans le cadre d’une ruse élaborée visant à priver frauduleusement le gouvernement de revenus fiscaux.
+[27] Bien que les transactions aient été artificielles et que GMC n’ait pas eu le droit de réclamer des CTI relativement à ses achats fictifs, elle était néanmoins tenue de remettre la TPS qu’elle facturait à ses clients et percevait de ceux-ci. L’article 222 de la LTA énonce que quiconque perçoit un montant « au titre de la taxe » est réputé détenir le montant en fiducie pour le gouvernement. Ces montants sont visés par la définition de « taxe nette » au sens du paragraphe 225(1) de la LTA. Il en résulte l’obligation pour l’inscrit aux fins de la TPS de remettre ces montants avec ses déclarations de TPS. La Cour d’appel fédérale a approuvé cette interprétation de la loi dans l’arrêt 800537 Ontario Inc. c. La Reine[3]. Par conséquent, sauf en ce qui a trait à la concession, la cotisation à l’égard de GMC est juste.
+B. La défense de diligence raisonnable de l’appelant [28] L’appelant fait valoir qu’en tant qu’administrateur de GMC, il a agi avec autant de soin, de diligence et de compétence pour prévenir le défaut de remise de TPS que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances. L’appelant a formulé la prétention douteuse selon laquelle M. Nixey était le seul à blâmer pour le défaut de GMC de remettre la TPS.
+[29] Les paragraphes 323(1) et 323(3) de la LTA sont ainsi rédigés :
+Les administrateurs d’une personne morale au moment où elle était tenue de verser, comme l’exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette ou, comme l’exige l’article 230.1, un montant au titre d’un remboursement de taxe nette qui lui a été payé ou qui a été déduit d’une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférent.
+[...]
+L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[30] L’interprétation que la Cour d’appel fédérale fait de la défense de diligence raisonnable des administrateurs prévue au paragraphe 323(3) de la LTA a évolué au fil du temps. Le critère original, formulé dans l’arrêt Soper c. La Reine[4], était un critère objectif-subjectif qui incorporait le critère subjectif de la common law dans la disposition législative :
+[...] Au lieu de traiter les administrateurs comme un groupe homogène de professionnels dont la conduite est régie par une seule norme immuable, cette disposition [le paragraphe 227.1(3) de la Loi sur la taxe d’accise] comporte un élément subjectif qui tient compte des connaissances personnelles et de l’expérience de l’administrateur, ainsi que du contexte de la société visée, notamment son organisation, ses ressources, ses usages et sa conduite. [...][5]
+[31] En mars 2011, la Cour d’appel fédérale a rendu l’arrêt Canada c. Buckingham[6], dans lequel elle a statué que le critère de la défense de diligence raisonnable des administrateurs de l’arrêt Soper avait été remplacé « par la norme objective établie par la Cour suprême du Canada dans Magasins à rayons Peoples […] Le renvoi à une personne raisonnablement prudente indique clairement que le critère est objectif plutôt que subjectif. »[7] Même si l’arrêt Magasins à rayons Peoples inc. (Syndic de) c. Wise[8] traitait du libellé de la Loi canadienne sur les sociétés par actions, la disposition relative à la responsabilité des administrateurs a un libellé similaire à celui du paragraphe 323(3) de la LTA. Aussi, en s’appuyant sur le principe d’interprétation des lois de la présomption de cohérence des lois entre elles, la Cour d’appel fédérale a interprété l’arrêt Magasins à rayons Peoples comme établissant la norme relativement à la défense de diligence raisonnable des administrateurs sous les régimes de la LTA et de la Loi de l’impôt sur le revenu (la « LIR ») [9].
+[32] Dans l’arrêt Buckingham, la Cour d’appel fédérale explique ainsi comment appliquer le critère objectif :
+Cette norme objective écarte le principe de common law selon lequel la gestion d’une société par un administrateur doit être jugée suivant les compétences, les connaissances et les aptitudes personnelles de celui-ci : Magasins à rayons Peoples, aux paragraphes 59 à 62. Si l’on qualifie cette norme d’objective, il devient évident que ce sont les éléments factuels du contexte dans lequel agissent l’administrateur qui sont importants, plutôt que les motifs subjectifs de ce dernier : Magasins à rayons, au paragraphe 63. L’apparition de normes plus strictes force les sociétés à améliorer la qualité des décisions des conseils d’administration au moyen de l’établissement de bonnes règles de régie d’entreprise : Magasins à rayons Peoples, au paragraphe 64. Des normes plus strictes empêchent aussi la nomination d’administrateurs inactifs choisis pour l’apparence ou qui ne remplissent pas leurs obligations d’administrateurs en laissant aux administrateurs actifs le soin de prendre les décisions. Par conséquent, une personne nommée administrateur doit activement s’acquitter des devoirs qui s’attachent à sa fonction, et il ne lui sera pas permis de se défendre contre une allégation de malfaisance dans l’exécution de ses obligations en invoquant son inaction : Kevin P. McGuinness, Canadian Business Corporations Law, 2e édition (Markham, Ontario: LexisNexis Canada, 2007), à la page 11.9[10].
+[33] Toutefois, cette évaluation ne devrait pas être entreprise sans tenir compte des circonstances propres à la société et à l’appelant. Dans l’arrêt Buckingham, la Cour d’appel fédérale a affirmé que des facteurs contextuels font partie d’une analyse objective[11].
+[34] Dans l’arrêt Buckingham, la Cour d’appel fédérale affirme expressément que, lors de l’application du critère prévu au paragraphe 227.1(3) de la LIR et au paragraphe 323(3) de la LTA, il faut examiner les mesures prises par un administrateur pour prévenir un défaut de remise[12].
+[35] L’appelant soutient qu’il ne devrait pas être tenu d’assumer la dette de la société au titre de la TPS parce que le défaut de la société de remettre la TPS a eu lieu à son insu et était attribuable à des circonstances indépendantes de sa volonté. Lorsqu’il a découvert le défaut, il était trop tard pour qu’il y fasse quoi que ce soit.
+[36] L’appelant a fait de son mieux pour faire porter par M. Nixey tout le blâme pour le défaut de remise de TPS de GMC. L’appelant n’a ménagé aucun effort à cet égard, mais il n’a pas réussi à démontrer qu’il avait victime d’une ruse orchestrée par M. Nixey sans qu’il ne se doute de rien. Au contraire, de nombreuses circonstances suspectes et inhabituelles démontrent que l’appelant a participé activement au stratagème. Par exemple, l’appelant a admis que les fournisseurs de GMC devaient être inscrits aux fins de la TPS et fournir à GMC une preuve de leur enregistrement afin que GMC puisse réclamer des CTI sur ses achats. Malgré cela, l’appelant n’a pas pris de mesures adéquates pour s’assurer que les fournisseurs avaient des numéros de TPS valides. Les éléments de preuve démontrent qu’aucun numéro d’enregistrement n’apparaissait sur les factures que GMC recevait de ses fournisseurs. L’appelant soutient qu’il s’est enquis auprès de Micro Connections et a reçu d’elle un numéro de TPS lorsque GMC a commencé à acheter des biens de M. Jacobs. Toutefois, lorsque le vérificateur de l’ARC a demandé à l’appelant de lui communiquer le numéro que lui aurait donné M. Jacobs lorsque celui-ci avait commencé à faire affaire avec GMC, l’appelant a communiqué au vérificateur le numéro obtenu par M. Jacobs seulement après le début de la vérification. Il n’y a pas le moindre élément de preuve fiable qui puisse étayer l’affirmation de M. Cherniak selon laquelle celui-ci s’est intéressé à cette question. Le volume d’achats et de ventes était énorme pour une nouvelle entreprise. Les paiements étaient versés dans un compte bancaire offshore. La BRC a posé des questions, mais M. Cherniak soutient qu’il n’avait aucune raison de s’inquiéter.
+[37] M. Cherniak a affirmé dans son témoignage que M. Nixey s’occupait de toutes les activités courantes de l’entreprise d’informatique. Son témoignage a été contredit par celui de M. Abela.
+[38] La description que M. Cherniak a faite de sa relation d’affaires avec M. Nixey est tout simplement invraisemblable. M. Cherniak soutient que c’est M. Nixey qui a présenté l’occasion d’affaires à GMC et qu’il a travaillé sans relâche pour assurer le succès de l’entreprise, et pourtant, M. Nixey n’était pas rémunéré pour ses services et il ne détenait aucune participation dans GMC. L’appelant a laissé entendre que M. Nixey jouissait de l’usage d’un camion loué, mais ce véhicule et l’usage d’un bureau étaient fournis par Amber Technology, une société contrôlée par M. Cherniak. Plus tard dans son témoignage, M. Cherniak a prétendu que ces avantages n’avaient rien à voir avec le rôle de M. Nixey dans l’entreprise de pièces d’ordinateurs. M. Nixey aurait apparemment négocié les avantages à titre de contrepartie partielle d’un investissement en capital dans Amber Technology.
+[39] En terminant, je note que M. Cherniak n’a pas appelé M. Nixey comme témoin, bien que la Cour lui ait rappelé qu’il pouvait appeler d’autres témoins lorsqu’il est devenu évident que l’audience ne pourrait pas être menée à terme dans le délai prévu par les parties. L’appelant a également été informé qu’il pouvait forcer des témoins récalcitrants à comparaître par assignation à témoigner. Malgré cela, l’appelant a choisi de ne pas appeler M. Nixey. J’en infère donc que le témoignage de M. Nixey aurait vraisemblablement contredit les éléments de preuve présentés par l’appelant.
+[40] Compte tenu de tout ce qui précède, je conclus qu’il y a une preuve suffisante de la complicité de M. Cherniak pour permettre à GMC de réaliser des transactions non authentiques. En somme, la preuve mine complètement la défense de diligence raisonnable de l’appelant.
+[41] Par conséquent, l’appel est accueilli à seule fin de permettre au ministre de donner effet à la concession.
+[42] Les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 2e jour de mars 2015.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 21e jour d’avril 2015.
+C. Laroche
+RÉFÉRENCE :
+2015 CCI 53
+NO DE DOSSIER DE LA COUR :
+2008-272(GST)G
+INTITULÉ :
+BRIAN DAVID CHERNIAK c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Les 9, 10 et 11 décembre 2013 ainsi que les 24 et 25 novembre 2014
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 2 mars 2015
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me Craig Maw
+Me Roxanne Wong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’annexe A a été incluse dans la réponse de l’intimée à l’avis d’appel de l’appelant.
+[2] Selon le témoin, cela comprend des documents envoyés par messager et toutes les pièces diverses que les parties ont acquises pour étayer leur ruse.
+[3] 2005 CAF 333, aux paragraphes 5, 9,14 et 17. Voir aussi Gastown Actors’ Studio Ltd. v. M.N.R., (2000) GSTC 108 (CCI), au paragraphe 10; Canada c. 1524994 Ontario Limited, 2007 CAF 74.
+[4] [1998] 1 RCF 124, 1997 CanLII 6352 (CAF).
+[5] Ibid. au paragraphe 37.
+[6] 2011 CAF 142, [2013] 1 RCF 86, (2011) GSTC 74.
+[7] Ibid. aux paragraphes 34 et 35.
+[8] 2004 CSC 68, [2004] 3 RCS 461.
+[9] Buckingham, précité à la note 6, au paragraphe 38.
+[10] Ibid.
+[11] Ibid. au paragraphe 39.
+[12] Ibid. au paragraphe 40.

@@ -1,0 +1,209 @@
+---
+title: "Doteasy Technology Inc v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29278/index.do"
+last_modified: "2009-06-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 324"
+citation2: ""
+neutral_citation: "2009 TCC 324"
+decision_date: "2009-06-15"
+language: "en"
+item_id: "29278"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7079
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:12:46.773000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5da4a3bb137a449e64a6f7e31f8767e8207c7557071b5b0fba6310e9ffc74c8a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Doteasy Technology Inc v. The Queen
+
+- Citation: 2009 TCC 324
+- Decision date: 2009-06-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7079, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Doteasy Technology Inc v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-06-15
+Neutral citation
+2009 TCC 324
+File numbers
+2007-3069(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3069(IT)G
+BETWEEN:
+DOTEASY TECHNOLOGY INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 3, 2008, at Vancouver, British Columbia
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Douglas H. Mathew
+Amy L. Chapman
+Counsel for the Respondent:
+Michael Taylor
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2003, 2004 and 2005 taxation years are allowed with costs and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment
+Signed at Ottawa, Canada, this 15th day of June 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2009TCC324
+Date: 20090615
+Docket: 2007-3069(IT)G
+BETWEEN:
+DOTEASY TECHNOLOGY INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2007-3077(IT)G
+AND BETWEEN:
+IN2NET NETWORK INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] Prior to the hearing of these appeals, the parties reached the following agreement with respect to two issues raised by the Appellant, In2Net Network Inc. (“In2Net “):
+a) In2Net is allowed to deduct motor vehicle expenses in the amounts of $7,031.54 and $10,105.43 for the 2002 and 2003 taxation years, respectively.
+b) In 2002, the amount of $13,187.17 became a bad debt and In2Net is entitled to a deduction in accordance with subparagraph 20(1)(p)(i) of the Income Tax Act (“the Act”).
+[2] The only issue that was litigated in these appeals is whether the Appellants were entitled to claim a reserve pursuant to paragraph 20(1)(m) of the Act. The net reserves claimed by In2Net were $258,674.93 and $82,828.78 in the 2002 and 2003 taxation years respectively. The net reserves claimed by Doteasy Technology Inc. (“Doteasy”) were $2,826,047, $819,370 and $420,642 in the 2003, 2004 and 2005 taxation years respectively.
+[3] The appeals proceeded by way of a Statement of Agreed Facts. A summary of the material facts is as follows:
+a) The Appellants are British Columbia corporations. Mr. Kevin Tang is the sole shareholder and director of both companies.
+b) The year end for each Appellant is June 30.
+c) The Appellants are in the business of providing internet website hosting services and domain name registration services (“the Services”).
+d) In order to provide the website hosting services during the years under appeal, the Appellants operated and maintained computer servers. Customers were given space on these servers to create and maintain their own internet websites and files. The customers were also given space on the servers to maintain their email addresses under their domain name. This allowed the customers to send and receive emails.
+e) The Appellants also entered into contracts with their customers whereby they acquired and registered domain names on their customers’ behalf. Throughout the term of each contract for domain registration, the Appellants were obligated to maintain the customers’ domain presence by complying with the ongoing obligations required by the applicable Registry. In addition, the Appellants sent their customers annual emails with up-to-date information for their domain name records.
+f) The Appellants’ customers registered online for these Services and entered into service contracts ranging from several months to several years. Many contracts extended beyond the June 30 year end.
+g) Upon registration, the Appellants required their customers to consent to the terms and conditions of the service contracts. These terms and conditions provided, among other things, that none of the fees paid for Services were refundable.
+h) The customers were required to pay the full contract price for the entire service term at the time of registration.
+i) The service contracts were automatically renewed. The Appellants required renewing customers to pay for the entire service term up front, and they terminated the Services if payment was not received within 45 days.
+j) The Appellants, at their discretion and on a case-by-case basis, did provide refunds of website hosting fees to certain customers within 45 days of registration. The Appellants never refunded domain name registration fees.
+k) Doteasy sometimes provided refunds, in the form of in-store credits, outside the 45 day time period.
+l) The Appellants provided on-going customer service including customer support, technical support and bandwidth management.
+m) The Appellants operated out of an office of approximately 10,000 square feet and had a combined staff of 30 employees who were engaged in customer service, domain name service, server operations and maintenance, programming, billing, computer networking and marketing.
+n) In each of the taxation years in issue, each of the Appellants included in its income the full contract price received for customer registrations for the Services during the taxation year.
+o) In each of the taxation years in issue, each of the Appellants claimed a reserve under paragraph 20(1)(m) in respect of the Services. The reserve claimed in a particular taxation year was brought back into income in the following year in accordance with subparagraph 12(1)(e)(i). The claiming of the reserve is a timing issue.
+(p) These reserves were reported in the same manner on the Appellants’ financial statements.
+[4] At the hearing of these appeals, counsel for the Respondent conceded that certain of the assumptions made by the Minister of National Revenue (“the Minister”) were incorrect. It was conceded that the Appellants did provide Services to its customers in the subsequent taxation year into which a customer’s service term extended. The Services provided in each month of the service term were substantially identical. The Services were not substantially performed upon a customer’s initial service activation.
+[5] The Respondent agreed that if a reserve is available to the Appellants, then their calculation of the reserve on a straight-line basis is reasonable.
+Appellants’ Position
+[6] It is the Appellants’ position that the amounts received for the Services and included in income, were amounts described in paragraph 12(1)(a) of the Act. They further stated that they were entitled to claim the reserves under paragraph 20(1)(m) as the statutory conditions specified therein were satisfied. More specifically, the amounts were received by the Appellants in each taxation year in the course of a business and some of the Services were to be provided to their customers beyond the end of each taxation year.
+Respondent’s Position
+[7] It is the Respondent’s position that the amounts received by the Appellants for Services not rendered in the particular taxation year are Prepayments which are included in calculating the Appellants’ profits under section 9 of the Act and are not amounts described in paragraph 12(1)(a) of the Act.
+[8] Counsel for the Respondent explained that financial accounting principles allow a business to treat income as not being “realized” when that income is received for services not yet rendered. This rule is commonly known as the “realization principle”. The income is deferred to a later date when the services are performed. This deferral of income is the “matching principle” of accounting.
+[9] Counsel stated that the Act incorporates the realization and matching principles of accounting only to a limited extent. Tax law principles take precedence over accounting principles when interpreting the Act. One such tax principle is that a taxpayer’s “profit” under section 9 is a question of law and, accounting principles must yield to legal principles where those legal principles provide a “truer” picture of a taxpayer’s income[1].
+[10] Counsel submitted that the Appellants’ entitlement to the Prepayments was absolute. After setting up the Services, the Appellants were not obligated to meet any further conditions before they became entitled to retain the fees received from their customers. He argued that because the Prepayments were non-refundable, they had the quality of income[2] and the Prepayments were earned for tax purposes.
+[11] Paragraphs 12(1)(a) and 20(1)(m) are aimed at allowing reserves only in respect of amounts that are not earned for tax purposes but which the Act includes in income regardless. Amounts that have the quality of income are included in income by virtue of the calculation for profit in section 9 and no reserve can be claimed for these amounts.
+Analysis and Conclusion
+[12] The crux of the Crown’s argument rests on its interpretation of the decisions in Robertson Ltd. and Ikea Ltd. v. Canada[3]. Counsel relied on Robertson Ltd. to state that because the Prepayments have the “quality of income”, they are earned and they must be included in income when received.
+[13] It is my opinion that Robertson Ltd. does not stand for the principle that if an amount has the “quality of income”, then it is earned. At page 660 of his decision Thorson, J. stated that amounts received in a taxation year may have the “quality of income” regardless of whether they have been earned or unearned:
+It seems equally clear that if income is received in any one year it is taxable in that year, even although it has not yet been earned, and it follows that the appellant was not entitled to make any deduction from income received by it in any year on the ground that it was not earned in such year.
+[14] It must be remembered that Robertson Ltd. was decided under the Income War Tax Act which did not contain paragraph 12(1)(a) or any comparable provision which dealt specifically with unearned amounts[4].
+[15] Counsel for the Respondent also contended that the Supreme Court of Canada’s decision in Ikea Ltd. v. Canada[5] supported his position that income was earned when it attained the “quality of income”.
+[16] Iacobucci, J., speaking for the court in Ikea Ltd., stated:
+37
+The combined effect of these passages is to confirm what in the law of income tax has become known as the “realization principle”, given that an amount may have the quality of income even though it is not actually received by the taxpayer, but only “realized” in accordance with the accrual method of accounting. The ultimate effect of this principle is clear: amounts received or realized by a taxpayer, free of conditions or restrictions upon their use, are taxable in the year realized, subject to any contrary provision of the Act or other rule of law. The TIP received by Ikea in the present case fits this description perfectly. The tenant inducement agreement made it clear that the sole condition precedent to receipt of the payment was the assumption of Ikea’s obligations under the lease agreement, and further stipulated that the payment was to be made within seven days of Ikea’s commencing business in the premises, pursuant to the lease. Thus, Ikea’s right to the payment became absolute at that time. There were no further strings attached such as to postpone actual realization or receipt into a subsequent taxation year, and the payment was received in full by Ikea in 1986. Therefore, I conclude that the entire amount was taxable in that year. (emphasis added)
+…
+40 …The consideration for the TIP is not the future payment of rent, but rather, the immediate assumption of the contractual obligations. In such a case, unless otherwise specified by the inducement agreement, then, and in the absence of statutory or case law authority to the contrary, the realization approach commends itself as that which will give a more accurate picture of the taxpayer’s income. (emphasis added)
+[17] In Ikea Ltd., the inducement payments were taxable in the year they were realized because there was no contrary provision in the Act or other rule of law and the inducement payments did not relate to future obligations or expenditures. In the present appeal, the Prepayments are for future services and there is a provision of the Act that is contrary to the Prepayments being taxable in the year they are received. Therefore, the fact that the Appellants have the unrestricted right to use or dispose of the amounts is immaterial given that the Prepayments are amounts described in paragraph 12(1)(a) and a reserve is permitted under paragraph 20(1)(m).
+[18] The relevant provisions of the Act are as follows:
+12. (1) Income inclusions -- There shall be included in computing the income of a taxpayer for a taxation year as income from a business or property such of the following amounts as are applicable:
+(a) services, etc., to be rendered [or goods to be delivered] -- any amount received by the taxpayer in the year in the course of a business
+(i) that is on account of services not rendered or goods not delivered before the end of the year or that, for any other reason, may be regarded as not having been earned in the year or a previous year,
+20. (1) Deductions permitted in computing income from business or property -- Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+(m) reserve in respect of certain [future] goods and services -- subject to subsection (6), where amounts described in paragraph 12(1)(a) have been included in computing the taxpayer's income from a business for the year or a previous year, a reasonable amount as a reserve in respect of
+….
+(ii) services that it is reasonably anticipated will have to be rendered after the end of the year
+[19] There are two conditions that the Appellants must meet to be able to deduct a reserve for the Prepayments pursuant to paragraph 20(1)(m). The Prepayments must be described in paragraph 12(1)(a) of the Act and they must have been included in the Appellants’ income from a business for the year or a previous year. Both of these conditions have been met.
+[20] The Prepayments are described in paragraph 12(1)(a) as they were received by the Appellants in the years in issue in the course of business and they were on account of services not rendered before the end of the taxation year.
+[21] Counsel for the Respondent has argued that when one considers paragraphs 12(1)(a) and 20(1)(m) in light of the statutory scheme, it is clear that these paragraphs are aimed at allowing reserves only for amounts that are not earned, but which the Act includes in income nonetheless. Counsel referred to the closing words in subparagraph 12(1)(a)(i) to support this conclusion. Those words are: or that, for any other reason, may be regarded as not having been earned in the year.
+[22] I agree with counsel for the Appellants that the Respondent’s position disregards the words which precedes the clause quoted in the above paragraph. When one considers all the words in subparagraph 12(1)(a)(i), I interpret the subparagraph to mean that amounts that are received on account of services not rendered or goods not delivered before the end of the year, those amounts are regarded as not having being earned in the year. It is because the services have not been rendered before the end of the year that the amounts received for them in the particular year are regarded as not having been earned. Richard G. Tremblay explained it as follows in his article “The Meaning of Earned Income in Subparagraph 12(1)(a)(i): Burrard Yarrows Corp. (Versatile Pacific Shipyards Inc.)”:
+Firstly, it is submitted that the grammatically correct reading of para. 12(1)(a) is such that the mere fact that an amount is received in the course of a business in respect of services not rendered or goods not delivered is sufficient to bring the provision into play and the entitlement to the reserve in para. 20(1)(m). The use of the words “for any other reason” in subpara. 12(1)(a)(i) indicate that the mere fact that services have not been performed or that goods have not been delivered is sufficient to make the income unearned in the mind of Parliament[6].
+[23] The use of the words “for any other reason” and “may be” in subparagraph 12(1)(a)(i) suggests that if an amount is on account of services not rendered before the end of the year, then the amount is statutorily regarded as “not having been earned in the year”.
+[24] The Respondent also contended that because the Appellants’ customers are not entitled to receive a refund, the Prepayments are earned in the year they are received; they are brought into income through the calculation of profit in section 9; and, therefore they are not described in paragraph 12(1)(a).
+[25] This argument was made before Rip, J., as he then was, in Ellis Vision Inc. v. The Queen[7]. He dismissed the argument as follows:
+[45] Notwithstanding that the amounts the appellant received in its 1996 and 1997 taxation years from broadcasters under the licence agreements may have been included in computing the appellant's profits for those years under subsection 9(1) of the Act, I cannot find any prohibition in the Act that precludes the appellant from taking advantage of paragraph 20(1)(m) and claiming a reserve.
+[46] All amounts that are received or receivable in a taxation year by a taxpayer in the course of a business are to be included in the taxpayer's income for that year. However paragraph 20(1)(m), among other provisions in the Act, recognizes that a taxpayer may have been prepaid an amount that is or was required to be included in computing income for the year or previous year. In such circumstances the recipient of the amount may be eligible to deduct a reasonable reserve.
+[47] I do not agree with the respondent's position that if a taxpayer's income from a business is its profits from that business pursuant to subsection 9(1), one is foreclosed from considering amounts described in subsection 12(1)(a). Amounts included in income for purposes of subsection 9(1) may be described in paragraph 12(1)(a): services not rendered or goods not delivered before the end of the year or rent or other amounts for possession or use of chattels, for example, paid in advance are amounts described in paragraph 12(1)(a). Paragraph 20(1)(m) permits a reasonable reserve when amounts that are "described" in paragraph 12(1)(a) have been included in computing the taxpayer's income from a business for the year, or previous year, and rents or other amounts have been paid in advance, or services may reasonably be anticipated to be rendered in a future year. I agree with appellant's counsel: the word "described" in paragraph 20(1)(m) means just what it says it does. The word in the French version of the Act is "visées", which, in the context of paragraph 20(1)(m), is analogous to the words "referred to", or "directed at" in English. The "amounts described in paragraph 12(1)(a)" do not mean only amounts that were included in income "by virtue of" paragraph 12(1)(a); the amounts may be included in income by virtue of paragraph 12(1)(a) and the amounts may also be included in income as profit from a business in accordance with subsection 9(1).
+[26] However, counsel for the Respondent has further argued that his interpretation of paragraphs 12(1)(a) and 20(1)(m) are supported by the Federal Court decision in Burrard Yarrows Corporation v. The Queen[8]. It appears that this decision was not considered by Justice Rip.
+[27] In Burrard Yarrows, the taxpayer was a shipbuilder who had a contract with the Government of Canada to build two icebreakers and with the B. C. Ferry Corporation to construct two ferries. The purchase price for both contracts was paid by progress payments. The progress payments from the Government of Canada were calculated with respect to the expenses incurred by the taxpayer, whereas those from the B. C. Ferry Corporation were received upon completion of various stages of the construction. Title to all the materials, parts, and finished work paid for by each progress payment made under the icebreaker contract was said to vest in the federal Crown. Under the contract for the ferries, property in the vessels as well as all machinery, equipment, and materials vested in the purchaser as soon as they were intended for use in the ferries.. The taxpayer claimed an inventory allowance under paragraph 20(1)(gg). It also included in income the progress payments received during the year and then claimed a reserve for the same amount pursuant to paragraph 20(1)(m).
+[28] On finding that the Burrard Yarrows was not entitled to claim a reserve for the progress payments, Joyal, J. stated at paragraph 23:
+23 I agree with defence counsel that subparagraph 12(1)(a)(i) brings into income only those which are received by the taxpayer in the year but which must be regarded as being unearned.
+[29] It is my opinion that this is the ratio decidendi of the Burrard Yarrows case as it concerns the paragraph 20(1)(m) reserve issue. It stands for the proposition that, on the facts of that case, there was no unearned amount. There was no amount described in paragraph 12(1)(a). This is evident from Joyal, J.’s conclusion with respect to the inventory allowance. He stated at paragraph 17:
+17 In the present case there can be no doubt but that the property in the ships and the materials to be used therein was intended to pass to the purchasers upon the payment of the first instalment and throughout construction. I come to this conclusion after considering the clauses of the contract which are set out above. The result is that the property in the ships had already passed.
+[30] However, Joyal, J. did state the following at paragraphs 23 and 25 of the decision:
+23 …Further, the availability of a paragraph 20(1)(m) reserve depends entirely on whether an amount described in paragraph 12(1)(a) was included in computing the taxpayer's income. Therefore, to determine whether a paragraph 20(1)(m) reserve is available with respect to the progress payments in question, it must be determined whether they were brought into income pursuant to subparagraph 12(1)(a)(i), which in turn requires a determination of when they were 'earned' or, in other words, when they took on the quality of income. (emphasis added)
+…
+25 In the present case, the plaintiff, upon completing each of the various stages of construction, became absolutely entitled to receive the progress payments which had been agreed upon. Its right to those amounts was under 'no restriction, contractual or otherwise, as to its disposition, use or enjoyment'. The contract did not even contain a provision requiring refunding of the progress payments in the event of the plaintiff defaulting. As a result, I find that the progress payments had the quality of income when received and, hence, were earned amounts. It follows, therefore, that subparagraph 12(1)(a)(i) does not operate to bring the payments into income, and, further, that the Minister was correct in denying the plaintiff's claim for a paragraph 20(1)(m) reserve. The plaintiff must bring the progress payments into income in the year they are received.
+[31] It is my opinion that this statement is obiter and is incorrect. It ignores the clear inference that the drafters of the paragraph 12(1)(a) considered that amounts received on account of goods not delivered or services not rendered constituted amounts not earned.
+[32] In upholding the decision in Burrard Yarrows, the Federal Court of Appeal only stated that it was in agreement with the Trial Judge’s reasons.
+[33] The essential facts in the present case and the arguments made before me are indistinguishable from those in Ellis Vision. In Ellis Vision, Justice Rip, as he then was, found that the paragraph 20(1)(m) reserve was available even though the amount might be included in income under section 9 so long as it was described in paragraph 12(1)(a). It is my opinion that Ellis Vision has settled the law with respect to this issue.
+[34] For all of these reasons, the appeals are allowed with costs.
+Signed at Ottawa, Canada, this 15th day of June 2009.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2009TCC324
+COURT FILE NO.: 2007-3069(IT)G
+STYLE OF CAUSE: DOTEASY TECHNOLOGY INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: November 3, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: June 15, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Douglas H. Mathew
+Amy L. Chapman
+Counsel for the Respondent:
+Michael Taylor
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Douglas H. Mathew
+Amy L. Chapman
+Firm: Thorsteinssons LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Canderel Ltd. v. Canada, [1998] 2 C.T.C. 35 (SCC) at paragraphs 29 to 42
+[2] Robertson Ltd. v. Minister of National Revenue (1944), 2DTC 655 (Ex. Ct.)
+[3] [1998] 1 S.C.R. 196
+[4] Frankovic, Joseph, “The Taxation of Prepaid Income” (2002), 50 CTJ 1239 at 1285
+[5] [1998] 1 S.C.R. 196
+[6] (1989) vol. 2, no. 27 Canadian Current Tax C127-32 at page C131
+[7] 2003 TCC 912
+[8] [1986] 2 C.T.C. 313 (FCTD)

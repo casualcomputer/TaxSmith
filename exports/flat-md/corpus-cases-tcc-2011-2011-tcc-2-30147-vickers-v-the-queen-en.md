@@ -1,0 +1,314 @@
+---
+title: "Vickers v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30147/index.do"
+last_modified: "2011-01-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 2"
+citation2: ""
+neutral_citation: "2011 TCC 2"
+decision_date: "2011-01-04"
+language: "en"
+item_id: "30147"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7807
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:59:41.990000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f2894eb68842029a5708a692d66c4e34205cfa932098fb53ee9bedcc8c694311"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vickers v. The Queen
+
+- Citation: 2011 TCC 2
+- Decision date: 2011-01-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7807, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vickers v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-01-04
+Neutral citation
+2011 TCC 2
+File numbers
+2010-265(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-265(IT)I
+BETWEEN:
+CHRISTOPHER VICKERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 13, 2010, at Ottawa, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-France Camiré
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2005 taxation year is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The appeal from the reassessment made under the Income Tax Act for the 2004 taxation year is dismissed.
+There are no costs with respect to either appeal.
+Signed at Ottawa, Canada, this 4th day of January 2011.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2011 TCC 2
+Date: 20110104
+Docket: 2010-265(IT)I
+BETWEEN:
+CHRISTOPHER VICKERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] This is an appeal by Christopher Vickers (the “Appellant”) from reassessments for the 2004 and 2005 taxation years. The Appellant was and continues to be employed primarily as an investment advisor. In 2005, the Appellant changed employers, moving from RBC Dominion Securities (“RBC”) in Toronto to TD Waterhouse in Ottawa. In reassessing the Appellant, the Minister of National Revenue (the “Minister”) disallowed several employment expense deductions claimed under subsection 8(1) of the Income Tax Act (the “Act”). The expenses were in relation to the Appellant’s move and his employment as an investment advisor.
+[2] According to the Minister’s list of issues in the Reply to the Notice of Appeal, at the outset of the trial the only amounts that remained in issue were $18,000 in salary paid to an assistant and deducted as an expense by the Appellant for 2004, and the $7,830.87 in travel expenses and $7,444.33 in meal and entertainment expenses that the Appellant deducted for 2005.
+[3] During the trial, a question arose as to whether the Appellant could deduct as moving expenses under section 62 of the Act the costs related to several of his stays at an Ottawa hotel. This issue remains to be decided.
+I. Factual Background
+[4] In assessing the Appellant for the taxation years under review, the Minister relied, inter alia, on the following assumptions of fact:[1]
+(a) the Appellant was employed by RBC from August 30, 2002 to March 2, 2005, as an investment advisor and a branch manager in Toronto;
+(b) the Appellant was employed by TD Waterhouse in Ottawa from March to December of 2005 as a financial investment advisor;
+(c) the Appellant resided in Toronto and moved to Ottawa in June of 2005;
+(d) as an RBC employee, the Appellant:
+i. was not generally required to work outside of RBC’s premises;
+ii. was not required to be away from the area in which RBC was located;
+iii. was not reimbursed for travel costs incurred to meet clients;
+iv. was not reimbursed for selling-related expenses incurred in the performance of his duties;
+(e) the Appellant was married to Susan Bryson (the “spouse”);
+(f) the Appellant was not required by his employer to hire an assistant;
+(g) the Appellant did not pay his spouse to work as an assistant;
+(h) the Appellant did not incur expenses of $18,000 for an assistant for the 2004 taxation year;
+(i) the Appellant claimed meal and entertainment expenses of $1,774.83 and $5,669.50 in connection with the Lone Star Texas Grill restaurant and the Empire Grill restaurant respectively;
+(j) the Appellant did not incur meal and entertainment expenses of $1,774.83 and $5,669.50 to earn employment income for the 2005 taxation year;
+(k) the Appellant claimed $7,830.87 as lodging expenses for hotel accommodation at the Arc Hotel in Ottawa from March to June 2005;
+(l) the Appellant did not incur $7,830.87 in hotel accommodation expenses for the 2005 taxation year to earn employment income;
+(m) the Appellant was reimbursed by TD Waterhouse for the following expenses:
+Food, beverage and entertainment expenses
+$6,527
+Other Expenses
+5,248
+Travel
+2,983
+Total Expenses reimbursed by TD
+$14,758
+(n) the Appellant did not report the reimbursed amount of $14,758 as income in his income tax return.
+[5] The Appellant testified at trial that, when he tendered his resignation to RBC on March 2, 2005, his role with that organization ended abruptly, and he had to move his book of business over to his new employer, TD Waterhouse, in order to be able to continue to serve his clients. However, the Appellant was unable to move his family until the end of June as his children were in school. On the basis of these facts, the Appellant argued that it had been necessary for him to travel back and forth between Toronto and Ottawa for four months – thereby incurring $7,830.87 in hotel and meal expenses in Ottawa - in order to set up in and carry out the duties of his new employment with TD Waterhouse.[2] He also had to find permanent accommodation for his family.
+[6] The Appellant claimed an $18,000 deduction for salary paid to an assistant in 2004, alleging that the total amount represented a monthly salary of $1,500 paid to his spouse. The Appellant testified at trial that his spouse assisted him by attending charity functions and hosting social events, which helped him sell his services by presenting a stable, family–oriented image. Although she also assisted by filling out in advance, and helping the Appellant review, client information forms, the Appellant’s spouse did not attend client meetings with the Appellant, nor did she have any training in the field.
+[7] While the Appellant testified that his spouse worked 20 hours a week for 17 weeks during the busy months of February, September, October, and November, and 6 hours a week for another 30 weeks of the year, his spouse did not keep a time sheet, did not invoice the Appellant for her time, and was not paid regularly or in set amounts the $1,500 she was said to have earned per month. The Appellant’s spouse did, however, report $18,000 as income in the 2004 taxation year. The Minister has not reassessed the Appellant’s spouse to exclude this amount from her income and, consequently, the Minister’s current position results in double taxation.
+[8] During the trial, the Minister consented to judgement in favour of the Appellant with regard to the meal and entertainment expenses at the Lone Star Texas Grill restaurant and the Empire Grill restaurant.
+II. Issues
+[9] Accordingly, the remaining issues in dispute are:
+(a) whether the Appellant paid his spouse a salary to work as an assistant, the payment of which salary was required by his contract of employment – those being prerequisites to deductibility under subparagraph 8(1)(i)(ii);
+(b) whether the Appellant’s meal and lodging expenses that were not covered by TD Waterhouse are deductible as travel expenses under paragraph 8(1)(h) or paragraph 8(1)(f); and
+(c) in the alternative, whether those meal and lodging expenses are deductible as moving expenses within the meaning of paragraph 62(3)(c), up to the maximum period allowed of 15 days.
+III. Analysis
+Issue 1: Can the Appellant deduct under subparagraph 8(1)(i)(ii) the amount claimed to have been paid to his spouse for her services as an assistant?
+[10] As prescribed by subsection 8(2) of the Act:
+8(2) General limitation -- Except as permitted by this section, no deductions shall be made in computing a taxpayer’s income for a taxation year from an office or employment.
+8(1) Restriction générale -- Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi.
+[11] Subsection 8(1) sets out an extensive list of deductions that may be taken from employment income if the amounts to be deducted can reasonably be regarded as being applicable to that source of income.
+[12] Subparagraph 8(1)(i)(ii) allows a taxpayer to deduct the salary paid to an assistant in the circumstances specified therein. That provision reads as follows:
+8(1) Deductions allowed -- In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+. . .
+Dues and other expenses of performing duties
+(i) amounts paid by the taxpayer in the year as
+. . .
+(ii) . . . Salary to an assistant or substitute, the payment of which by the officer or employee was required by the contract of employment,
+. . .
+to the extent that the taxpayer has not been reimbursed, and is not entitled to be reimbursed in respect thereof.
+[Emphasis added.]
+8(1) Éléments déductibles -- Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant:
+[…]
+Cotisations et autres dépenses liées à l’exercice des fonctions
+i) dans la mesure où il n’a pas été remboursé et n’a pas le droit d’être remboursé à cet égard, les sommes payées par le contribuable au cours de l’année au titre:
+[…]
+(ii) […] du salaire d’un adjoint ou remplaçant que le contrat d’emploi du cadre ou de l’employé l’obligeait à payer,
+[…]
+[Je souligne.]
+[13] However, in order to claim an otherwise permissible deduction under subparagraph 8(1)(i)(ii), the requirements of subsection 8(10) must also be met.
+8(10) Certificate of employer -- An amount otherwise deductible for a taxation year under . . . subparagraph (1)(i)(ii) or (iii) by a taxpayer shall not be deducted unless a prescribed form, signed by the taxpayer’s employer certifying that the conditions set out in the applicable provision were met in the year in respect of the taxpayer, is filed with the taxpayer’s return of income for the year.
+8(10) Attestation de l’employeur -- Un contribuable ne peut déduire un montant pour une année d’imposition en application des […] sous-alinéas (1)i)(ii) ou (iii) que s’il joint à sa déclaration de revenu pour l’année un formulaire prescrit, signé par son employeur, qui atteste que les conditions énoncées à la disposition applicable ont été remplies quant au contribuable au cours de l’année.
+[14] In Schnurr v. The Queen, 2004 TCC 684 (General Procedure) (available on CanLII), Associate Chief Justice Bowman, as he then was, explained that:
+The filing of forms T2200 serves a dual function: it is a statutory condition precedent to the claiming of an employment expense deduction under subsection 8(1)(i) and it provides evidence of the terms of employment. I doubt that the form is conclusive or determinative if the evidence showed it to be wrong but it is at least prima facie evidence.[3]
+[15] The former Chief Justice further stated, in Schnurr, that it is not necessary that the contract of employment specifically refer to the requirement in subparagraph 8(1)(i)(ii), that the expenditures be required by the contract of employment; such a requirement can be inferred from the circumstances as being implicit in the employment relationship.[4] Nevertheless, the requirement is only satisfied if it is essential that the expenditures be incurred in order for the taxpayer to carry out the duties of his or her employment.[5]
+[16] As observed by Bowie J. in Morgan v. The Queen, 2007 TCC 475 (General Procedure) (available on CanLII):
+. . . Both the English verb “to require” and the verb “obliger” that appears in the French version of the Act are necessarily imperative.[6]
+[17] The Appellant has failed to meet his burden of proof on this point. The Appellant’s evidence that his spouse filled out forms and attended social functions in no way suggests that his spouse’s services were necessary for the Appellant to be able to carry out the duties of his employment as an investment advisor. Moreover, while it was open to the Appellant to do so, he did not call his spouse to substantiate his oral evidence, nor did he call an employee or officer of RBC, who could have spoken to the matter of whether or not her assistance was implicitly required.
+[18] Although the Appellant did submit his T2200 form as an exhibit, it was indicated thereon that he was not required under his contract of employment to pay for an assistant. While that form is not determinative of the issue, the Appellant did not call the supervisor who completed the form in an attempt to explain that the situation was otherwise, and he did not lead evidence of a different, implied understanding that may have existed with RBC, contrary to the information appearing on the T2200 form.
+[19] Despite the fact that the Appellant’s testimony indicated that his spouse may have genuinely provided some assistance, he did not provide evidence sufficient to establish the prima facie element of necessity. Accordingly, the Minister’s assumptions and assessment with regard to this point must stand. As a consequence of the Minister’s decision being upheld on this point, and mindful of the fact that I have no authority to deal with the matter, I would expect that the Minister will nonetheless reassess the Appellant’s wife for her 2004 taxation year to exclude the amount that she wrongly included as employment income.
+Issue 2: Can the Appellant deduct the meal and lodging expenses for which TD Waterhouse did not reimburse him under paragraph 8(1)(h) or paragraph 8(1)(f)?
+[20] While the Appellant invoked paragraph 8(1)(f) in justification of his deduction of his Ottawa meal and lodging expenses, the Respondent organized its submissions around paragraph 8(1)(h). Under that paragraph, unlike under paragraph 8(1)(f), only expenses for "travel" may be deducted; however, paragraph 8(1)(h) applies to any officer or employee, and not just commissioned salespersons. The Appellant is positioned in such a manner that, generally speaking, the expenses could be claimed under either paragraph. In any event, the dispute in this case boils down to the same issue – can the Appellant’s expenditures at the Arc Hotel be considered expenses incurred by the Appellant in the performance of his employment duties or are they personal expenses and consequently not deductible under section 8 of the Act?
+[21] In considering this question, the particularly concise words of Jorré J. in Blackburn v. The Queen., 2007 TCC 284 (Informal Procedure) (available on CanLII), are instructive:
+[41] When considering whether the deductions claimed are personal expenses or travel expenses within the meaning of paragraph 8(1)(h)] it is . . . necessary to take into account the principle that the choice to live in one city rather than another is a personal choice and that the expenses incurred to get to work are personal expenses and are not deductible.
+[42] If an individual who lives in one city takes a job in another city that is very far from his or her home, he or she cannot deduct the costs incurred by the choice not to move. That includes not only transportation, but also food and lodging. However, the Act provides for the deduction of moving expenses.
+[43] We therefore have two important principles:
+(1) Travel expenses incurred in the performance of one's employment duties are deductible.
+(2) However, expenses incurred by the choice of where one lives are personal expenses.
+[44] At what point does the decision to travel rather than to move become a personal choice? One cannot reasonably conclude that the fact that one does not relocate for a business trip of a few weeks is a personal choice. However, if someone takes a permanent position in another far away city, there cannot be any doubt that it is a personal choice if the person keeps his or her house and family in his or her hometown and chooses to travel between the two cities every Monday morning and Friday evening and to rent a small apartment in the city where he or she works.[7]
+[Footnotes omitted and emphasis added.]
+[22] The permanence of the Appellant’s employment with TD Waterhouse in Ottawa is not in dispute.[8]
+[23] Despite the fact that the Appellant’s choice was likely the best one for his family, it is clear it was a personal one and therefore outside the scope of the deductions permitted in subsection 8(1). Thus, the Appellant’s appeal should fail on this point. Nevertheless, as highlighted by Jorré J., the Act does provide for the deduction of moving expenses.
+Issue 3: Can the Appellant deduct the meal and lodging expenses for which TD Waterhouse did not reimburse him as moving expenses within the meaning of paragraph 62(3)(c)?
+[24] In its written submissions to the Court on this question, the Respondent took the position that, in order for an amount to qualify as a moving expense under subsection 62(3)(c), it must have been incurred in the course of the taxpayer’s actual move, when he or she changes his or her residence. With respect, that position is incorrect.
+[25] Section 62 of the Act opens as follows:
+62(1) Moving expenses -- There may be deducted in computing a taxpayer’s income for a taxation year amounts paid by the taxpayer as or on account of moving expenses incurred in respect of an eligible relocation . . .
+62(1) Frais de déménagement -- Un contribuable peut déduire dans le calcul de son revenu pour une année d’imposition les sommes qu’il a payées au titre des frais de déménagement engagés relativement à une réinstallation admissible dans la mesure où, […]
+[26] As highlighted by the emphasis added, the provision allows for the deduction of moving expenses where the following three conditions are satisfied:
+(a) The amount was paid by the taxpayer;
+(b) The amount was paid as or on account of moving expenses (as defined in subsection 62(3) of the Act); and
+(c) The moving expense was incurred in respect of an eligible relocation (as defined in subsection 248(1) of the Act).
+[27] That the third requirement has been met is not in dispute in this case.
+[28] With regard to the first requirement, in the Statement of Facts in its Written Representations the Respondent raises the point that TD Waterhouse reimbursed the Appellant for more than 15 days of meal and lodging expenses incurred at the Arc Hotel.[9] Even so, there is nothing in subsection 62(1), reproduced above, or paragraph 62(3)(c), reproduced below, that would preclude the Appellant from claiming under paragraph 62(3)(c) 15 of the 44 days for which there was no reimbursement. Directly addressing the argument alluded to by the Respondent herein, Judge O’Connor, in Trainor v. R., [2000] 1 C.T.C. 2159 (TCC, Informal Procedure) (available on CanLII), concluded:
+6 . . . I see nothing in subparagraph 62(3)(c) that would lead to the conclusion that [the appellant] cannot qualify because he has been reimbursed by his employer for a period other than the 11 days in question. I also see nothing that necessarily leads to the conclusion that it is only the first 15 days that are considered. If that were the case it would lead to the curious result that if a taxpayer personally bears the costs for the first 11 days, he gets the deduction but if the costs are for a period after the first 15 days, he does not.
+7 Section 62, in my opinion, should be given a liberal interpretation. As a matter of policy it allows a person to deduct certain expenses which would otherwise be personal and/or living expenses. This policy was to encourage mobility in our workforce and since in my view the section is not entirely clear on the issue at hand, a liberal interpretation following the teleological approach should be adopted.
+8 Moreover, since section 62 is not precisely clear on the issue, if there were any doubt on its interpretation, the taxpayer should be entitled to the residual presumption in his favour . . . .
+[29] With regard to the second requirement, the definition of “moving expenses” is set out in subsection 62(3) of the Act. The portions of that subsection relating to travel read as follows:
+62(3) Definition of “moving expenses” -- In subsection (1), “moving expenses” includes any expense incurred as or on account of
+(a) travel costs (including a reasonable amount expended for meals and lodging), in the course of moving the taxpayer and members of the taxpayer’s household from the old residence to the new residence,
+(b) the cost to the taxpayer of transporting or storing household effects in the course of moving from the old residence to the new residence,
+(c) the cost to the taxpayer of meals and lodging near the old residence or the new residence for the taxpayer and members of the taxpayer’s household for a period not exceeding 15 days,
+. . .
+but, for greater certainty, does not include costs (other than costs referred to in paragraph (f)) incurred by the taxpayer in respect of the acquisition of the new residence.
+62(3) Frais de déménagement -- Pour l’application du paragraphe (1), sont comprises dans les frais de déménagement toutes dépenses engagées au titre :
+a) des frais de déplacement (y compris les dépenses raisonnables pour repas et logement) engagés pour le déménagement du contribuable et des membres de sa maisonnée qui se transportent de l’ancienne résidence à la nouvelle résidence;
+b) des frais de transport et d’entreposage des meubles du contribuable qui doivent être transportés de son ancienne résidence à sa nouvelle résidence;
+c) des frais de repas et de logement, près de l’ancienne résidence ou de la nouvelle résidence, engagés par le contribuable et les membres de sa maisonnée pendant une période maximale de 15 jours;
+[…]
+il est toutefois entendu que le terme ne vise pas les frais (autres que les frais visés à l’alinéa f)) engagés par le contribuable pour l’acquisition de sa nouvelle résidence.
+[30] Under paragraph 62(3)(a), the Act allows a deduction of expenses incurred as or on account of travel costs – which include meals and lodging – by a taxpayer in the course of moving the taxpayer’s household from the old residence to the new residence.
+[31] Under paragraph 62(3)(c), the Act also allows a general deduction of expenses incurred as or on account of the cost of meals and lodging near a taxpayer’s old or new residence for a period of up to 15 days.
+[32] It is true that travel costs claimed under paragraph 62(3)(a) must be incurred in the course of moving from the old residence to the new one. Nevertheless, the requirements under paragraph 62(3)(c) are unconnected with and independent of those in paragraph 62(3)(a). In fact, deductions claimed as moving expenses under paragraph 62(3)(c) may be claimed in addition to any deductions claimed under paragraph 62(3)(a) or any of the other paragraphs of subsection 62(3). Limited to a maximum of 15 days, the expenses claimed as a deduction under paragraph 62(3)(c) need only be incurred as or on account of the cost of meals and lodging near the old residence or the new residence of the taxpayer.
+[33] If the requirement that expenses be incurred “in the course” of moving was imported into paragraph 62(3)(c), that paragraph would be rendered redundant by paragraph 62(3)(a) – which already provides for the deduction of meal and lodging expenses incurred in the course of moving – making it a subset of that paragraph. I would note that a more logical result would be achieved by taking the plain meaning of the word and interpreting paragraph 62(3)(a) as allowing the deduction of all travel expenses incurred in the actual move, and 62(3)(c) as allowing further and other meal and lodging expenses incurred near either the old or new residence, expenses such as are often incurred in scouting for a new residence or in setting up in or leaving a residence before the actual move takes place.
+[34] The Respondent justifies its position by citing the Federal Court of Appeal’s interpretation of paragraph 62(3)(d) in Séguin v. R., [1998] 2 C.T.C. 13 (available on CanLII). As recognized by the Respondent, the wording of subsection 62(1) of the Act was changed in 1998, after the Séguin decision was rendered. Paragraph 62(3)(c) is not comparable to the provision considered by the Federal Court of Appeal in that case. It is evident that the change to the wording of subsection 62(1) is substantive, rendering the Federal Court of Appeal’s interpretation of section 62 in Séguin wholly inapplicable to paragraph 62(3)(c) in its current form.
+[35] The relevant portions of the Act interpreted by the Federal Court of Appeal in Séguin read as follows:
+62(1) Moving expenses -- Where a taxpayer has, at any time, commenced
+(a) to carry on a business or to be employed at a location in Canada (in this subsection referred to as "the new work location"), or
+. . .
+and by reason thereof has moved from the residence in Canada . . . in computing the taxpayer's income for the taxation year in which the taxpayer moved from the old residence to the new residence or for the immediately following taxation year, there may be deducted amounts paid by him as or on account of moving expenses incurred in the course of moving from his old residence to his new residence
+. . .
+(3) Definition of "moving expenses" -- In subsection (1), "moving expenses" includes any expense incurred as or on account of
+(a) traveling costs (including a reasonable amount expended for meals and lodging), in the course of moving the taxpayer and members of the taxpayer’s household from the old residence to the new residence,
+(b) the cost to the taxpayer of transporting or storing household effects in the course of moving from the old residence to the new residence,
+(c) the cost to the taxpayer of meals and lodging near the old residence or the new residence for the taxpayer and members of the taxpayer’s household for a period not exceeding 15 days,
+(d) the cost to the taxpayer of cancelling the lease by virtue of which the taxpayer was the lessee of the old residence,
+[Emphasis added.]
+62(1) Frais de déménagement -- Lorsqu'un contribuable a, à une date quelconque, commencé
+a) à exploiter une entreprise ou à être employé dans un lieu au Canada (dans le présent paragraphe appelé son nouveau lieu de travail), ou
+[...]
+et a, de ce fait, déménagé d'une résidence au Canada […] il peut déduire, dans le calcul de son revenu pour l'année d'imposition dans laquelle il a déménagé de son ancienne résidence pour venir occuper sa nouvelle résidence, ou pour l'année d'imposition suivante, les sommes qu'il a payées à titre ou au titre des frais de déménagement engagés pour déménager de son ancienne résidence pour venir occuper sa nouvelle résidence
+[...]
+(3) Définition de "frais de déménagement" -- Dans le paragraphe (1), "frais de déménagement" comprend toutes dépenses engagées à titre ou au titre
+a) de frais de déplacement (y compris les dépenses raisonnables pour repas et logement) engagés pour déménagement du contribuable et des membres de sa maisonnée, qui se transportent de l’ancienne résidence à la nouvelle résidence du contribuable,
+b) de frais de transport et d’entreposage des meubles du contribuable qui doivent être transportés de son ancienne résidence dans sa nouvelle résidence,
+c) de frais de repas et de logement, près de l’ancienne résidence ou de la nouvelle résidence, engagés par le contribuable et les membres de sa maisonnée pendant une période maximale de 15 jours,
+d) de frais de résiliation du bail, si bail il y a, en vertu duquel il était le locataire de son ancienne résidence,
+[Je souligne.]
+[36] In interpreting the words of subsection 62(1), the Federal Court of Appeal reasoned:
+7 What section 62 allows, within its first subsection, is a deduction by the taxpayer of the amounts
+62(1) ...paid by him as or on account of moving expenses incurred in the course of moving from his old residence to his new residence
+62(1) ...payées à titre ou au titre des frais de déménagement engagés pour déménager de son ancienne résidence pour venir occuper sa nouvelle résidence....
+8 According to the ordinary meaning of the words used, the provision includes those expenses incurred for physically moving, changing one’s residence, and certain other expenses directly related to the actual move and resettlement . . . .[10]
+[37] As is unmistakably evident from the wording of the provisions of the Act quoted above, subsection 62(1) did in fact contain introductory language that directly limited the subsequently authorized deductions to expenses “incurred in the course of moving”. The Federal Court of Appeal accurately assessed the ordinary meaning of the words used, and limited the deduction claimed by that taxpayer to such expenses.
+[38] However, in 1998, a few months after the Court gave its oral reasons, the 1998 federal budget proposed several amendments to the wording of section 62 “to clarify the tax treatment of relocation expenses”; the proposals were enacted shortly thereafter. [11]
+[39] The relevant sections of the Act, as amended, now read as follows:
+62(1) Moving expenses -- There may be deducted in computing a taxpayer’s income for a taxation year amounts paid by the taxpayer as or on account of moving expenses incurred in respect of an eligible relocation, to the extent that
+. . .
+62(3) Definition of “moving expenses” -- In subsection (1), “moving expenses” includes any expense incurred as or on account of
+(a) travel costs (including a reasonable amount expended for meals and lodging), in the course of moving the taxpayer and members of the taxpayer’s household from the old residence to the new residence,
+. . .
+(c) the cost to the taxpayer of meals and lodging near the old residence or the new residence for the taxpayer and members of the taxpayer’s household for a period not exceeding 15 days,
+. . .
+248 (1) Definitions -- In this Act,
+. . .
+“eligible relocation”
+“eligible relocation” means a relocation of a taxpayer where
+(a) the relocation occurs to enable the taxpayer
+(i) to carry on a business or to be employed at a location in Canada (in section 62 and this subsection referred to as “the new work location”), or
+[Emphasis added.]
+62(1) Frais de déménagement -- Un contribuable peut déduire dans le calcul de son revenu pour une année d’imposition les sommes qu’il a payées au titre des frais de déménagement engagés relativement à une réinstallation admissible dans la mesure où, à la fois
+[…]
+62(3) Frais de déménagement -- Pour l’application du paragraphe (1), sont comprises dans les frais de déménagement toutes dépenses engagées au titre :
+a) des frais de déplacement (y compris les dépenses raisonnables pour repas et logement) engagés pour le déménagement du contribuable et des membres de sa maisonnée qui se transportent de l’ancienne résidence à la nouvelle résidence;
+[…]
+c) des frais de repas et de logement, près de l’ancienne résidence ou de la nouvelle résidence, engagés par le contribuable et les membres de sa maisonnée pendant une période maximale de 15 jours;
+[…]
+248(1) Définitions -- Les définitions qui suivent s’appliquent à la présente loi.
+[…]
+« réinstallation admissible »
+« réinstallation admissible » Réinstallation d’un contribuable relativement à laquelle les conditions suivantes sont réunies:
+a) elle est effectuée afin de permettre au contribuable :
+(i) soit d’exploiter une entreprise ou d’occuper un emploi à un endroit au Canada (appelé « nouveau lieu de travail » à l’article 62 et au présent paragraphe),
+[Je souligne.]
+[40] Aside from the transfer out of section 62 of the requirements now found under the definition of “eligible relocation” in subsection 248(1), only one substantive change was made to the relevant portions of section 62. In subsection 62(1), the precise words interpreted by the Federal Court of Appeal, “incurred in the course of moving from his old residence to his new residence”, were removed and were replaced with “incurred in respect of an eligible relocation”.[12]
+[41] As explained by the Supreme Court of Canada in Nowegijick v. The Queen, [1983] 1 S.C.R. 29 (available on CanLII):
+The words “in respect of” are . . . words of the widest possible scope. They import such meanings as “in relation to”, “with reference to” or “in connection with”. The phrase “in respect of” is probably the widest of any expression intended to convey some connection between two related subject matters.[13]
+[42] Parliament did not just reshape the requirement that the expenses claimed under section 62 be incurred in the course of moving, it removed the requirement entirely and replaced it with words of the widest scope of any expression intended to convey some connection between two related subject matters. While a more subtle change to the phrasing of subsection 62(1) may have left some room for argument, the phrasing chosen leaves no doubt that Parliament’s intent was to broaden significantly the potential scope of section 62.
+[43] As subsection 62(1) provides the foundation for the series of different deductions included in the definition of “moving expenses” in subsection 62(3), the amendment notably affects the breadth of the deductions authorized by several of the paragraphs – one such being paragraph 62(3)(c). Unlike paragraph 62(3)(a), paragraph 62(3)(c) does not contain what used to be a second statement of the “in the course of moving” requirement. Thus, the removal of that requirement from subsection 62(1) leaves it open to a taxpayer to claim a deduction for any expenses incurred as or on account of the cost of meals and lodging, so long as they are generally referable to the “eligible relocation” – in this case for the Appellant’s new employment. As mentioned above, the relation of the meal and lodging expenses to the Appellant’s employment with TD Waterhouse is not in dispute.
+[44] In light of this, the Appellant is entitled to succeed in part, as there are grounds for allowing the deduction of a further 15 days of meal and lodging expenses at the Arc Hotel under paragraph 62(3)(c). The deduction for the 15 days should be granted in addition to that for the three days with respect to which the Appellant claimed a deduction when he filed his 2005 return, since the expenses for those three days are deductible under paragraph 62(3)(a) of the Act as they represent travel costs incurred in the course of moving the Appellant and his household from the old residence to the new residence.
+[45] The Appellant’s appeal from the reassessment for the 2004 taxation year is dismissed, and his appeal from the reassessment for the 2005 taxation year is allowed and the matter is referred back to the Minister for reconsideration and reassessment in accordance with the reasons above, without costs with respect to either appeal.
+Signed at Ottawa, Canada, this 4th day of January 2011.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2011 TCC 2
+COURT FILE NO.: 2010-265(IT)I
+STYLE OF CAUSE: CHRISTOPHER VICKERS v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: October 13, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: January 4, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-France Camiré
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Reply to the Notice of Appeal, para. 16.
+[2] Transcript, pages 5-7, 16-19.
+[3] At para. 19.
+[4] At para. 9. As affirmed by Woods J. in Emery v. The Queen, 2003 TCC 568, at para. 18. (Informal Procedure) (available on CanLII).
+[5] Ibid., at para. 8.
+[6] At para. 12.
+[7] At paras. 41–44.
+[8] Transcript, page 44.
+[9] Respondent’s Written Representations at para. 6.
+[10] At paras. 7-8.
+[11] Canada, The Federal Budget (Ottawa: CCH, 1998) at 60, (24 February 1998).
+[12] As highlighted by that Court’s own emphasis added.
+[13] At p. 39.

@@ -1,0 +1,301 @@
+---
+title: "TBT Personnel Services Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30057/index.do"
+last_modified: "2010-06-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 360"
+citation2: ""
+neutral_citation: "2010 TCC 360"
+decision_date: "2010-06-30"
+language: "en"
+item_id: "30057"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7691
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:12:38.396000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ce5e636fa4b7d3f03dbfea8f907d27a03dc7ad6dd6dfab5192f35f8934ffd1e2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# TBT Personnel Services Inc. v. M.N.R.
+
+- Citation: 2010 TCC 360
+- Decision date: 2010-06-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7691, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+TBT Personnel Services Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-30
+Neutral citation
+2010 TCC 360
+File numbers
+2006-2393(EI)
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-2393(EI)
+BETWEEN:
+TBT PERSONNEL SERVICES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of TBT Personnel Services Inc. (2006-2394(CPP)) on March 25, 2010 in Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+David W. Chodikoff
+Counsel for the Respondent:
+Rita Araujo
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeal is allowed, without costs, and the decision of the Minister is varied in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 15th day of September 2010.
+"L.M. Little"
+Little J.
+Docket: 2006-2394(CPP)
+BETWEEN:
+TBT PERSONNEL SERVICES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of TBT Personnel Services Inc. (2006‑2393(EI)) on March 25, 2010 in Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+David W. Chodikoff
+Counsel for the Respondent:
+Rita Araujo
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeal is allowed, without costs, and the decision of the Minister is varied in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 15th day of September 2010.
+"L.M. Little"
+Little J.
+Citation: 2010 TCC 360
+Date: 20100915
+Dockets: 2006-2393(EI)
+2006-2394(CPP)
+BETWEEN:
+TBT PERSONNEL SERVICES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Little J.
+A. FACTS:
+[1] The Appellant, TBT Personnel Services Inc. (“TBT”) is a Canadian corporation that contracts truck drivers to provide truck driving services to other trucking businesses.
+[2] The Appellant was incorporated on October 27, 1999. The sole shareholder and director of the Appellant is Antonio Santos (herein referred to as “Mr. Santos”).
+[3] In the Notices of Appeal, the Appellant states that, in a typical trucking business arrangement, a trucking business will contract with the Appellant to provide a trucking service. In turn, the Appellant will enter into a subcontract with a driver for the provision of the trucking service.
+[4] According to statements made by counsel in the transcript, 43 of the truck drivers who provided the truck driving services to the Appellant were incorporated and 53 of the drivers were not incorporated.
+[5] The testimony indicated that all of the drivers drove trucks that were mainly carrying steel.
+[6] The Appellant entered into written contracts with the truck drivers (the “Workers”) or their companies.
+[7] Locomote Systems Inc. (“Locomote”) is a company which provides the trucks used by the Workers. The evidence indicates that Locomote leased approximately 40 trucks and a large number of trailers. Mr. Santos was the President of Locomote in 2001. Mr. Santos stated in evidence that he was not a shareholder or officer of Locomote in 2002, 2003 and 2004.
+[8] TOFI Holdings Inc. (“TOFI”) is a holding company. Mr. Santos stated that his wife, Filomena, owns 63 or 65 per cent of the shares of TOFI (Transcript, page 53, lines 15-24).
+[9] Mr. Santos stated in evidence that he was not a shareholder or officer of TOFI in the years 2002, 2003 and 2004.
+[10] Centinel Equipment Leasing Inc. (“Centinel”) is a truck finance leasing company. Centinel leases trucks to Locomote.
+[11] TOFI owns the shares of Locomote and Centinel.
+[12] The following diagram indicates how the shares of the corporations were held:
+Mr. Santos left Locomote in early 2000
+Mr. Santos resigned as a Director on February 22, 2002
+[13] The Workers performed their duties as truck drivers in the provinces of Ontario and Québec and in the United States.
+[14] The Appellant maintains that the contracts that the Appellant entered into with the unincorporated Workers were identical to the contracts that the Appellant entered into with the incorporated Workers.
+[15] The Minister of National Revenue (the “Minister”) determined that 96 of the Workers were employees of the Appellant in the period from January 1, 2002 to December 31, 2004 (the “Period”) for the purposes of the Employment Insurance Act (the “Act”) and the Canada Pension Plan (the “Plan”)
+B. ISSUE:
+[16] (a) In the Notice of Appeal, the Appellant states that the issue is as follows:
+11. Whether the unincorporated drivers are employees or independent contractors for purposes of the Employment Insurance Act and the Canada Pension Plan.
+(b) The Reply filed by the Minister reads as follows:
+11. The issue is whether the Workers were employed under a contract of service, during the period referred to herein, within the meaning of the Act [/Plan], and whether the assessments should be confirmed, varied or cancelled.
+(Note: Appendix “A” attached to the Reply contains the names of the 96 Workers. These individuals are the persons the Minister has determined were employees of the Appellant during the Period.)
+[17] It will be noted that the Appellant (in the Notice of Appeal) indicates that the issue is whether the “unincorporated drivers” are employees for the purposes of the Act and the Plan. However, the Reply clearly states that the issue is whether all 96 Workers identified in Appendix “A” were employees or independent contractors during the Period.
+C. ANALYSIS AND DECISION:
+[18] There is some confusion with the evidence and the position taken by each party. For example, counsel for the Respondent said that the Minister has recognized that there were other incorporated Workers of TBT which the Canada Revenue Agency (“CRA”) did not make part of this assessment.
+[19] However, counsel for the Respondent stated that she is not prepared to recognize that any of the Workers listed in Schedule “A” of the Reply were independent contractors. Ms. Araujo said:
+Essentially, the 96 workers at Appendix A were assessed and they were believed to be unincorporated workers.
+(Transcript, page 242, lines 2-4)
+[20] At page 263 of the transcript, I asked the following question:
+Justice Little: I want to go back to this question: Is it your position that every one of the individuals shown on appendix A of your Reply is an employee?
+Ms. Araujo: Yes, your honour.
+(Transcript, page 263, lines 16-20)
+[21] Counsel for the Respondent also said:
+From my understanding, there were incorporated workers, which CRA did not make part of this assessment and accepted - -
+(Transcript, page 264, lines 17-20)
+[22] Part of the reason for the confusion is that these appeals are Informal Procedure appeals and the parties have not had discovery or production of documents.
+[23] At page 216 of the transcript, counsel for the Appellant, Mr. Chodikoff, referred to the Minister’s Reply and said:
+Mr. Chodikoff: … my argument in part is that the Minister was absolutely indiscriminate in terms of the argument that it put forward in its assumptions. I think one of the reasons is that this is not a general procedure case. You don’t have, unless you resort to it - -
+Justice Little: Discovery.
+Mr. Chodikoff: - - discovery, a list of documents, and so forth.
+Justice Little: I understand.
+(Transcript, page 216 lines 20-25 to page 217, lines 1-4)
+[24] At page 268, I said:
+Justice Little: My concern, as you have mentioned earlier, is that with the lack of discovery, the lack of production of documents, and the procedure that has (sic “is”) followed, it is trial by ambush.
+Mr. Chodikoff: It is trial by ambush. There is no question about that. …
+(Transcript, page 268, lines 5-11)
+[25] I mention these comments regarding Informal Procedure versus General Procedure because, as the trial progressed, it became apparent that the parties were not in agreement on a number of factual issues.
+[26] During the trial, counsel for the Appellant filed a document headed “Appellant’s Book of Documents” (Exhibit A-1).
+[27] Counsel for the Respondent said that there were some documents contained in Exhibit A-1 which referred to individuals who were not Workers listed in Schedule “A” of the Respondent’s Reply.
+[28] The parties agreed that the following documents should be deleted from Exhibit A-1:
+Tab 8, Tab 9 and Tab 27
+(Note: The individuals referred to in Tabs 8, 9 and 27 were not relevant to the Period under appeal.)
+[29] I will now deal with the legal issues. As noted above, counsel for the Respondent maintains that the issue before the Court is whether the 96 individuals referred to in Appendix “A” were employees or independent contractors.
+[30] There have been many court decisions which have dealt with this question. The decision of the Federal Court of Appeal in Wiebe Door Services Ltd. v. M.N.R., 87 D.T.C. 5025, is one of the leading cases on this point. In Wiebe, the Court identified the following tests:
+(a) Control;
+(b) Ownership of tools;
+(c) Chance of profit and risk of loss; and
+(d) Integration of the employees’ work into the employer’s business.
+Control
+[31] Counsel for the Appellant called Mr. David Howson and Mr. Perry Lamers as witnesses.
+[32] They testified that they were paid on a per-kilometre basis. They both testified that they thought of themselves as independent and self-employed.
+[33] Mr. Santos also testified that he hired his drivers as independent. (Note: Mr. Lamers had his own company and Mr. Howson maintained that he was a sole proprietor.)
+[34] The relationship of Mr. Howson and Mr. Lamers with the Appellant was that they had a contract with the Appellant to act in a subcontracting manner to act as truck drivers to drive steel for Dofasco, Stelco, Algoma and other steel companies. Their evidence was that they would receive instructions from dispatchers who worked for Locomote. They drove trucks which were either leased or owned by Locomote.
+[35] I believe that it is useful to refer to the evidence provided by Mr. Howson and Mr. Lamers.
+[36] Counsel for the Appellant called Mr. David Howson as a witness. Mr. Howson testified that he had been a truck driver for approximately 31 years. Mr. Howson said that he was retained by the Appellant. Counsel for the Appellant referred to Exhibit A-2 and asked Mr. Howson:
+Q: What do you mean by “your company”?
+A: I owned my own business - - self-proprietor.
+Q: How did you report your taxes?
+A: As a self-proprietor.
+Q: Did you do that for the years 2002, 2003, 2004?
+A: Yes, I did.
+(Transcript, page 85, lines 2-11)
+[37] Counsel for the Appellant referred Mr. Howson to Exhibit A-1 (Tab 38) and asked Mr. Howson to explain what he was signing. Mr. Howson said:
+A: It was going to allow me to operate my business, which at that time was known as DNH Pro Services, and to be independent. I would no longer have to answer to a boss because I was the boss.
+(Transcript, page 89, lines 13-17)
+[38] Counsel for the Appellant also called Mr. Perry Lamers as a witness. Mr. Lamers testified that he has been driving trucks for 32 years. Mr. Lamers testified that he had his own company and that he signed a contract with the Appellant (Transcript, page 114, lines 20-22 and page 115, lines 2-5).
+[39] Counsel for the Respondent asked Mr. Lamers to comment on Clause 8 of the Agreement. Mr. Lamers said:
+A: That you are responsible for your own taxes and your own GST, which I had to do.
+(Transcript, page 116, lines 2-3)
+[40] The evidence contained in Exhibit A-1 is that some 43 Workers signed contracts with the Appellant in which the Workers agreed that their company (the companies were referred to as Contractors) wished to contract with the Appellant. Each of the Agreements contained in Exhibit A-1 contain the following statements:
+I. INDEPENDENT CONTRACTOR
+The Contractor represents and warrants that the Contractor hereby desires to engage in the business as an independent contractor and is fully qualified and adequately equipped to carry on such business. The Contractor agrees to perform such transportation and ancillary services including loading and unloading as required by the Company’s customers. The parties agree that the relationship between the parties reflects a contract for service.
+…
+XIII. RELATIONSHIP OF PARTIES
+It is understood and agreed that the relationship created herein is not one of principal and agent, master and servant, or employer and employee, between the Company and the Contractor. The Contractor covenants and agrees that it will not at any time enter in any contract, agreement or engagement whatsoever for and on behalf of the Company or do any other act or thing which would result in any liability or responsibility of the Company in respect of its business or otherwise. The Contractor agrees to be fully responsible for all government charges for itself and its employees including all taxes, corporate or income, payroll taxes, Canada Pension Plan, Unemployment Insurance contributions and GST and hereby indemnifies the Company against any of these charges. The Contractor agrees to provide a WSIB clearance certificate once per year.
+[41] In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59, [2001] S.C.J. No. 61, Justice Major asked the question, at page 14, “Whose business is it?” From the point of view of the witnesses, Mr. Howson and Mr. Lamers, it was their business.
+[42] Counsel for the Appellant referred to the control test and said:
+… it was not TBT (the Appellant) that had control over the drivers. In the case here today, the main company that had control over the drivers was Locomote, which was the steel carrying company, not TBT.
+(Transcript, page 206, lines 16-19).
+[43] Based upon an analysis of the evidence, the sworn testimony of the Appellant and Messrs. Howson and Lamers, and the Court decisions, I have concluded that the Workers who were incorporated were not caught by the control test and were therefore not employees of the Appellant.
+Ownership of Tools
+[44] Mr. Howson and Mr. Lamers testified that they each had their own tools, such as 12 binders, 12 chains, 6 bunks and 6 dunnage boards, which had a value of $3,000-$5,000. They also said that these tools had to be renewed. Counsel for the Appellant also noted that their real skill in this setting is their skill of driving trucks heavily loaded with steel.
+Chance of Profit and Risk of Loss
+[45] Counsel for the Appellant noted that if the Workers fulfilled their engagement with the trucking company and something occurred along the way for which they were responsible, the Workers suffered the loss. That was the Workers’ risk of loss.
+Intention
+[46] The intention of the parties has also been considered by the Court. As noted above, 43 of the Workers signed contracts with the Appellant in which they agreed that their truck driving services would be provided to the Appellant by their limited company.
+[47] In my opinion, the intent of the incorporated Workers and the Appellant was that the Workers who had signed these contracts had the intention of being independent contractors.
+[48] In The Royal Winnipeg Ballet v. M.N.R., 2006 D.T.C. 6323, Justice Sharlow said, at paragraph 64:
+[64] In these circumstances, it seems to me wrong in principle to set aside, as worthy of no weight, the uncontradicted evidence of the parties as to their common understanding of their legal relationship, even if that evidence cannot be conclusive. …
+In this situation, it is clear that the incorporated Workers had the intent of being independent contractors and not employees. I believe that the ratio of The Royal Winnipeg Ballet decision applies in this case.
+[49] I have concluded that the 43 Workers who have signed agreements with the Appellant to have their limited company provide truck driving services to the Appellant are independent contractors.
+[50] Based on the evidence presented, I am not prepared to recognize that the remaining 53 Workers (other than Mr. Howson) are independent contractors.
+[51] I have therefore concluded that the following taxpayers were independent contractors during the Period:
+1. E. Neron
+2. Mathias Serson
+3. Richard Nelson
+4. Roger Jaskula
+5. C. Thompson
+6. J. Woodlife
+7. J. Crawford
+8. David Otton
+9. Nelson Dodd
+10. Raymond Stargrat
+11. Steve Henderson
+12. Ryan Southern
+13. Timothy Thompson
+14. R. Summers
+15. J. Levey
+16. Mark Ingram
+17. Steven Bessey
+18. G. Kirkland
+19. R. Mason
+20. Randy Babcock
+21. T. Gaines
+22. M. Ward
+23. Donald Tisdale
+24. N. George
+25. J.H. Freitas
+26. Victor Latour
+27. Robert Glover
+28. D. Janzen
+29. Mark Roberts
+30. C. Diehl
+31. J. Nurse
+32. P. Santa Ri
+33. P. Lamers
+34. Steven Charest
+35. Ronald Taylor
+36. J. Buchanan
+37. D. Heueston
+38. Rob Vynychenko
+39. Colin Craig
+40. Jason Rossignol
+41. Mario Dasilva
+42. David Howson
+43. William Wood
+(Note: I have accepted the testimony of David Howson who described himself as a sole proprietorship.)
+[52] Since success has been divided by the parties, I am not prepared to award costs. The appeal is allowed, without costs, and the Minister is to reassess in accordance with the terms of these Reasons.
+Signed at Toronto, Ontario this 15th day of September 2010.
+"L.M. Little"
+Little J.
+CITATION:
+2010 TCC 360
+COURT FILE NOS.:
+2006-2393(EI) and
+2006-2394(CPP)
+STYLE OF CAUSE:
+TBT Personnel Services Inc. and
+The Minister of National Revenue
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 25, 2010
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+DATE OF AMENDED JUDGMENT:
+June 30, 2010
+September 15, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Counsel for the Respondent:
+David W. Chodikoff
+Rita Araujo
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David W. Chodikoff
+Firm:
+Goodman and Carr LLP
+For the Respondent:
+Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

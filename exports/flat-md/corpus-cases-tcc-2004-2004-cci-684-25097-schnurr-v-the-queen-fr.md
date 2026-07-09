@@ -1,0 +1,220 @@
+---
+title: "Schnurr v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25097/index.do"
+last_modified: "2004-10-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 684"
+citation2: ""
+neutral_citation: "2004 CCI 684"
+decision_date: "2004-10-13"
+language: "fr"
+item_id: "25097"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2506
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:57:08.711000+00:00"
+cases_cited_count: 0
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9d19a46e2255f811afa74a5dd670f45fa4ff96902608f4ff8b7163405b758b83"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Schnurr v. The Queen
+
+- Citation: 2004 CCI 684
+- Decision date: 2004-10-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2506, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schnurr v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-10-13
+Référence neutre
+2004 CCI 684
+Numéro de dossier
+2002-2144(IT)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-2144(IT)G
+ENTRE :
+GRANT SCHNURR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus avec les appels de Darcy Schnurr (2002-2145(IT)G))
+à Victoria (Colombie-Britannique), le 30 septembre 2004.
+Devant : L'honorable D.G.H. Bowman
+Comparutions :
+Avocat de l'appelant :
+Me D. Laurence Armstrong
+Avocate de l'intimée :
+Me Kristy Foreman Gear
+JUGEMENT
+Il est ordonné que les appels interjetés en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997, 1998 et 1999 soient admis avec dépens et que les cotisations soient déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation en vue de permettre la déduction du salaire que M. Schnurr a versé à sa femme.
+Signé à Ottawa, Canada, ce 13e jour d'octobre 2004.
+« D.G.H. Bowman »
+Juge Bowman
+Traduction certifiée conforme
+ce 16e jour de juin 2005.
+Sara Tasset
+Dossier : 2002-2145(IT)G
+ENTRE :
+DARCT SCHNURR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus avec les appels de Grant Schnurr (2002-2144(IT)G))
+à Victoria (Colombie-Britannique), le 30 septembre 2004.
+Devant : L'honorable D.G.H. Bowman
+Comparutions :
+Avocat de l'appelante :
+Me D. Laurence Armstrong
+Avocate de l'intimée :
+Me Kristy Foreman Gear
+JUGEMENT
+Il est ordonné que les appels interjetés en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997 et 1999 soient rejetés sans qu'aucuns dépens ne soient adjugés.
+Signé à Ottawa, Canada, ce 13e jour d'octobre 2004.
+« D.G.H. Bowman »
+Juge Bowman
+Traduction certifiée conforme
+ce 16e jour de juin 2005.
+Sara Tasset
+Référence : 2004CCI684
+Date : 20041013
+Dossiers : 2002-2144(IT)G
+2002-2145(IT)G
+ENTRE :
+GRANT SCHNURR et
+DARCY SCHNURR,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman
+[1] Ces appels ont été entendus ensemble; ils découlent de cotisations concernant les années d'imposition 1997, 1998 et 1999 des appelants. Les appelants sont mari et femme.
+[2] Initialement, l'appel interjeté par Grant Schnurr soulevait un certain nombre de questions se rapportant à la déductibilité de certaines dépenses. Toutes ces questions ont été abandonnées par l'appelant sauf celle de savoir s'il peut déduire à titre de dépense d'emploi, en vertu de l'alinéa 8(1)i) de la Loi de l'impôt sur le revenu, le salaire qu'il a versé à sa femme en sa qualité d'adjointe.
+[3] L'alinéa 8(1)i) est rédigé comme suit :
+8(1) Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant :
+[...]
+i) Cotisations et autres dépenses liées à l'exercice des fonctions - dans la mesure où il n'a pas été remboursé et n'a pas le droit d'être remboursé à cet égard, les sommes payées par le contribuable au cours de l'année au titre :
+[...]
+(ii) du loyer de bureau ou du salaire d'un adjoint ou remplaçant que le contrat d'emploi du cadre ou de l'employé l'obligeait à payer,
+[...]
+[4] Le paragraphe 8(10) est rédigé comme suit :
+8(10) Attestation de l'employeur - Un contribuable ne peut déduire un montant pour une année d'imposition en application des alinéas (1)c), f), h) ou h.1) ou des sous-alinéas (1)i)(ii) ou (iii) que s'il joint à sa déclaration de revenu pour l'année un formulaire prescrit, signé par son employeur, qui atteste que les conditions énoncées à la disposition applicable ont été remplies quant au contribuable au cours de l'année.
+[5] Avant et pendant les années en question, l'appelant était conseiller en placements; il réussissait bien dans sa profession; il travaillait pour la maison de courtage Nesbitt Thomson (ou Nesbitt Burns ou BMO Nesbitt Burns; le nom a changé périodiquement).
+[6] L'appelant a embauché sa femme Darcy comme adjointe. En 1997, il lui a versé un salaire de 24 000 $; en 1998 et en 1999, il lui a versé un salaire annuel de 30 000 $. Des retenues à la source ont été effectuées au titre de l'impôt sur le revenu et des cotisations au Régime de pensions du Canada et le montant y afférent a été versé à l'Agence des douanes et du revenu du Canada.
+[7] Mme Schnurr accomplissait un certain nombre de tâches dans le cadre de l'entreprise de M. Schnurr. Elle effectuait des travaux de secrétariat à l'égard des dossiers des clients que M. Schnurr conservait à la maison. Elle s'occupait d'envoyer les cartes de Noël et d'acheter des cadeaux pour les clients. Elle établissait des contacts dans la collectivité afin d'attirer des clients pour son mari.
+[8] Je n'hésite pas à conclure que, de fait, Mme Schnurr exerçait auprès de son mari un emploi véritable et que sa rémunération était raisonnable par rapport aux services qu'elle fournissait (voir Gabco Ltd. v. M.N.R., [1968] C.T.C. 313). Mme Schnurr fournissait des services qui étaient essentiels aux services rendus par M. Schnurr dans son travail de conseiller en placements. Le montant versé à Mme Schnurr, dans le contexte général du revenu élevé et du grand nombre de clients recrutés par M. Schnurr, était en fait fort modeste.
+[9] J'en arrive au noeud véritable du litige. Pour déduire le coût d'un salaire versé à un adjoint, l'employé doit remplir les conditions énoncées au sous-alinéa 8(1)i)(ii), c'est-à-dire que le paiement ou le salaire versé à l'employé doit être exigé par le contrat d'emploi. À l'onglet 1 de la pièce A-1 se trouve une lettre datée du 30 juillet 1992 que le vice-président de Nesbitt Thomson a envoyée à l'appelant. La lettre ne traite pas expressément de l'embauchage d'une adjointe. Toutefois, la relation existant entre Nesbitt Thomson et M. Schnurr laissait implicitement entendre que, pour recruter le nombre de clients auquel s'attendait Nesbitt Thomson, M. Schnurr était obligé d'embaucher quelqu'un pour fournir le type de services que sa femme fournissait. Une telle disposition n'a pas à être expressément énoncée dans l'entente conclue entre l'employeur et l'employé.
+[10] Cet avis est conforme à la pratique administrative énoncée au premier paragraphe du bulletin d'interprétation IT-352R2, qui est rédigé comme suit :
+1. Sous réserve de la présentation de l'attestation de l'employeur (voir le numéro 13 ci-dessous), les sous-alinéas 8(1)i)(ii) et (iii) permettent à un contribuable de déduire, dans le calcul du revenu qu'il a tiré d'une charge ou d'un emploi pour une année d'imposition donnée, les sommes payées dans l'année au titre du loyer de bureau, du coût des fournitures et du salaire versé à un adjoint ou à un remplaçant, à condition que les exigences suivantes soient respectées :
+a) le contribuable est tenu, par son contrat d'emploi, de payer de telles dépenses de loyer de bureau ou de salaire, ou de fournir et de payer de telles fournitures;
+b) le contribuable n'a pas été remboursé et n'a pas droit au remboursement de telles dépenses;
+c) ces dépenses peuvent raisonnablement être considérées comme se rapportant à ce revenu tiré d'une charge ou d'un emploi;
+d) les fournitures, quant à elles, sont consommées directement dans l'accomplissement des fonctions de la charge ou de l'emploi du contribuable.
+En règle générale, l'application du point a) ci-dessus requiert que le contrat d'emploi écrit précise de façon explicite cette exigence. On pourra cependant reconnaître qu'un contribuable doit payer le loyer de bureau, les coûts de fournitures ou le salaire à un adjoint ou à un remplaçant quand il pourra établir que les deux parties (le contribuable et l'employeur) avaient convenu tacitement que le contribuable s'acquitterait de ces dépenses et que celles-ci, dans les circonstances, étaient nécessaires pour exécuter les fonctions de l'emploi.
+[11] La chose est également conforme aux décisions rendues par la Cour dans les affaires Baillargeon c. M.R.N., [1990] A.C.I. 712 et Madsen c. Canada, [2001] A.C.I. 246, à la décision rendue par la Cour fédérale du Canada dans l'affaire Canada c. Gilling, [1990] A.C.F. 284 et à l'arrêt Verrier c. Canada, [1990] 3 C.F. 3 de la Cour d'appel fédérale.
+[12] Enfin, la chose est conforme aux propres pratiques administratives de Nesbitt Thomson. Les directeurs de succursales de cette firme signaient habituellement les attestations exigées au paragraphe 8(10), attestant que le contrat d'emploi du conseiller en placements l'obligeait à payer les frais afférents à un remplaçant ou à un adjoint. Tel était le cas de l'appelant. Pour chacune des années visées par l'appel, une attestation (formulaire T2200) a été signée par David Schneider, qui était alors directeur de succursale de Victoria. Le formulaire renferme la question suivante :
+[traduction]
+10a) Cet employé était-il obligé selon un contrat d'emploi à payer le salaire d'un adjoint ou d'un remplaçant?
+10b) Avez-vous remboursé ou rembourserez-vous à cet employé une ou plusieurs des dépenses dont il est question au point 10a)?
+[13] Dans ce formulaire, pour chacune de ces années, la case « oui » était cochée pour la première question et la case « non » était cochée pour la deuxième question.
+[14] Si l'affaire en était restée là, la Cour n'aurait pas été saisie de l'affaire. L'ADRC aurait simplement admis la déduction comme elle le fait couramment. Le 6 février 1998, le contrôleur de Nesbitt Burns a envoyé une note de service à l'intention des directeurs de succursales, laquelle est rédigée comme suit :
+[traduction]
+Veuillez trouver ci-joints les formulaires T2200 pour les CP de votre succursale. Seuls le nom du CP, son numéro d'assurance sociale et son revenu de commissions ont été inscrits dans les formulaires (question 6.b)). Les formulaires devraient être distribués aux CP individuels pour qu'ils répondent aux questions 2 à 10. Une fois que les formulaires auront été remplis, nous vous prions de les examiner et de les signer dans le coin inférieur droit ( « Signature de l'employeur ou de l'agent autorisé » ).
+Le formulaire T2200 vise à établir un cadre permettant de déterminer les dépenses que les CP peuvent déduire de leur revenu de commissions lorsqu'ils remplissent leurs déclarations de revenu personnelles. En général, pour qu'une dépense soit déductible, certains critères doivent être respectés, le plus important étant que le contrat d'emploi « obligeait » l'employé à payer le salaire d'un adjoint et que l'employé ne pouvait pas être remboursé de ses frais. La définition du mot « obligeait » telle qu'il est employé dans la Loi de l'impôt sur le revenu est cruciale. Selon la définition donnée par Revenu Canada, il ne suffit pas que l'employé ait le choix d'engager une dépense; il faut plutôt que « [...] les deux parties [aient] convenu tacitement que le contribuable [l'employé] s'acquitterait de ces dépenses et que celles-ci, dans les circonstances, [aient été] nécessaires pour exécuter les fonctions de l'emploi » . (Bulletin d'interprétation IT-352R2 de Revenu Canada).
+Bien sûr, il y a des exceptions légitimes aux conditions normales susmentionnées. Les exceptions doivent correspondre aux véritables conditions d'emploi des CP et les dépenses engagées par le CP doivent être nécessaires pour lui permettre d'exécuter les fonctions de son emploi. Veuillez conserver une copie de tous les formulaires signés pour vos dossiers. De plus, veuillez transmettre au service de la paie une copie de tout formulaire rempli lorsque la zone de déplacement mentionnée dans la question 2 comprend des destinations ailleurs que dans les provinces où les CP sont inscrits (par exemple aux États-Unis, en Europe, etc.) ou lorsqu'il a été répondu par l'affirmative à quelque partie de la question 10.
+Dans le cas où la déclaration du CP serait vérifiée par Revenu Canada, il se peut que l'on communique avec vous et que l'on vous demande de donner des détails additionnels au sujet des conditions d'emploi du CP. Je tiens à vous informer qu'en vertu de la Loi de l'impôt sur le revenu, toute entreprise qui remet à un employé un formulaire T2200 renfermant des renseignements faux ou trompeurs peut se voir imposer des pénalités et des intérêts d'un montant élevé. De plus, toute entreprise qui a déjà fourni des renseignements faux ou trompeurs fait habituellement l'objet d'un examen beaucoup plus approfondi dans tous les domaines associés à l'impôt.
+[...]
+[15] Le 13 mars 2000, une employée de Nesbitt Burns a envoyé le courriel suivant à M. Schnurr :
+[traduction]
+De : Natalie Peters (adm. de la succ.)
+Envoyé le : lundi 13 mars 2000 à 15 h 06
+À : Grant Schnurr
+Objet : T2200
+Bonjour,
+En ce qui concerne le formulaire T2200 qui a été signé par Davie, j'ai constaté une erreur dans les réponses que vous avez données aux questions 9a), b) et c). Dans TOUS les cas, il faut cocher la case « NON » . Veuillez lire ce qui suit.
+La définition du mot « l'obligeait » telle qu'il est employé dans la Loi de l'impôt sur le revenu est cruciale. Selon la définition donnée par Revenu Canada, il ne suffit pas que l'employé ait le choix d'engager une dépense; il faut plutôt que « [...] les deux parties (le contribuable et l'employeur) [aient] convenu tacitement que le contribuable [l'employé] s'acquitterait de ces dépenses et que celles-ci, dans les circonstances, [aient été] nécessaires pour exécuter les fonctions de l'emploi » . (Bulletin d'interprétation IT-352R2 de Revenu Canada, paragraphe 1). Cela veut dire que les dépenses des CP ne sont pas toutes des dépenses d'emploi admissibles.
+Veuillez modifier votre copie signée du formulaire T2200 étant donné qu'il se peut que Revenu Canada téléphone à Dave dans l'avenir à ce sujet; je veux m'assurer que le formulaire est rempli et modifié correctement. Pardon!
+Merci!
+Sally Green
+Administratrice intérimaire de la succursale
+Île de Vancouver
+No de téléphone : 250 351 2412
+No de télécopieur : 250 361 2465
+[16] À peu près au moment où M. Schnurr a quitté son emploi chez Nesbitt Burns, un employé de l'ADRC a soumis au directeur de la succursale, M. Schneider, un questionnaire dans lequel ce dernier disait que le contrat d'emploi n'obligeait pas M. Schnurr à payer le salaire d'un adjoint. Le questionnaire a été rempli par une employée, Natalie Peters, de la façon indiquée par M. Schneider. Les réponses étaient celles de M. Schneider, et non celles de Mme Peters. En effet, Mme Peters n'agissait que comme secrétaire. En outre, M. Schneider a altéré le formulaire qu'il avait signé chaque année en rayant ou blanchissant les réponses « oui » qui avait été données aux questions se rapportant à l'embauchage d'un adjoint et en les remplaçant par la réponse « non » . M. Schneider a envoyé les formulaires altérés à l'ADRC, et ce, sans consulter M. Schnurr ou sans obtenir son assentiment.
+[17] M. Schneider n'a pas été cité comme témoin. Je considère le questionnaire comme du pur ouï-dire; il est fortement sujet à caution et les formulaires T2200 altérés n'ont aucune valeur probante.
+[18] Je note en passant que vers la fin de la durée de l'emploi de M. Schnurr auprès de Nesbitt Burns, les relations qui existaient entre M. Schneider et M. Schnurr s'étaient énormément détériorées. Selon la preuve non contredite soumise par M. Schnurr et par sa femme, M. Schneider essayait de détruire M. Schnurr et la relation qui existait entre les deux hommes était devenue venimeuse. Mme Peters a confirmé les relations tendues qui existaient entre M. Schnurr et M. Schneider. En l'absence du témoignage de M. Schneider, je retiens cette preuve. Par conséquent, je considère le questionnaire et les formulaires T2200 altérés comme doublement sujets à caution; en effet, je ne crois pas qu'ils aient été préparés de bonne foi. Il en va de même pour le courriel du 13 mars 2000. À mon avis, les formulaires originaux T2200 indiquaient correctement les dispositions du contrat d'emploi conclu entre M. Schnurr et son employeur. Il est tout simplement inacceptable qu'après les années en question, on ait tenté d'altérer ces formulaires ou d'alléguer que les conditions d'emploi n'étaient pas telles qu'elles avaient initialement été énoncées.
+[19] La présentation des formulaires T2200 vise deux objectifs : il s'agit d'une condition prévue par la loi aux fins de la déduction de dépenses d'emploi en vertu de l'alinéa 8(1)i) et il s'agit d'une preuve des conditions d'emploi. Je doute que le formulaire soit concluant ou déterminant si la preuve montre qu'il est inexact, mais il s'agit du moins d'une preuve prima facie. La tentative ultérieure mal avisée et plutôt maladroite que M. Schneider a faite pour récrire l'histoire rétroactivement est inefficace. De fait, ce n'est tout simplement pas une preuve. Les formulaires initiaux ont été remplis d'une façon consensuelle. Les deux parties ont convenu des réponses, alors que le changement unilatéral que M. Schneider a fait par la suite ne représentait clairement pas un accord des volontés.
+[20] Les appels interjetés par Grant Schnurr sont admis avec dépens et les cotisations relatives aux années 1997, 1998 et 1999 sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation en vue de permettre à M. Schnurr de déduire le salaire versé à sa femme.
+[21] Les appels interjetés par Mme Darcy Schnurr pour les années 1997 et 1999 ne visent pas l'obtention d'une réduction d'impôt. Mme Schnurr s'oppose au fait que le ministre du Revenu national n'a pas considéré le salaire qu'elle a reçu de son mari comme un revenu et qu'il lui a renvoyé le montant de l'impôt qu'elle avait payé à cet égard. Comme il en a ci-dessus été fait mention, je crois que l'appelante exerçait un emploi auprès de son mari et que son salaire était un revenu d'emploi. Néanmoins, aussi louable que soit le désir de Mme Schnurr de remettre l'impôt au ministre du Revenu national et d'en arriver à une situation conforme et correspondant point par point à celle de son mari sur le plan de l'impôt, la Cour n'est pas autorisée à ordonner au ministre d'augmenter le montant d'une cotisation (Harris v. M.N.R., 67 DTC 5332 (C. de l'É.), confirmé par 66 DTC 5189 (C.S.C.)). Par conséquent, les appels de Darcy Schnurr sont rejetés sans qu'aucuns dépens ne soient adjugés.
+Signé à Ottawa, Canada, ce 13e jour d'octobre 2004.
+« D.G.H. Bowman »
+Juge Bowman
+Traduction certifiée conforme
+ce 16e jour de juin 2005.
+Sara Tasset
+RÉFÉRENCE :
+2004CCI684
+Nos DES DOSSIERS
+DE LA COUR :
+2002-2144(IT)G, 2002-2145(IT)G
+INTITULÉ :
+Grant Schnurr et Sa Majesté la Reine
+Darcy Schnurr et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Victoria (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 30 septembre 2004
+MOTIFS DU JUGEMENT :
+L'honorable D.G.H. Bowman
+DATE DU JUGEMENT ET DES MOTIFS DU JUGEMENT :
+Le 13 octobre 2004
+COMPARUTIONS :
+Avocat de l'appelant :
+Me D. Laurence Armstrong
+Avocate de l'intimée :
+Me Kristy Foreman Gear
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+D. Laurence Armstrong
+Cabinet :
+Armstrong Nikolich
+Avocats
+Victoria (C.-B.)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,185 @@
+---
+title: "MacKenzie v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28445/index.do"
+last_modified: "2008-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 70"
+citation2: ""
+neutral_citation: "2008 TCC 70"
+decision_date: "2008-01-30"
+language: "en"
+item_id: "28445"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1178
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:36:02.561000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "857798a4584b30620d3dc52aa6060011862c5324feacdfc7b27e7231f7287b92"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# MacKenzie v. The Queen
+
+- Citation: 2008 TCC 70
+- Decision date: 2008-01-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1178, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacKenzie v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-30
+Neutral citation
+2008 TCC 70
+File numbers
+2007-779(GST)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-779(GST)I
+BETWEEN:
+KIM STEVEN MACKENZIE & CARLA JOANNE MACKENZIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 30, 2007, at Calgary, Alberta.
+Before: The Honourable Justice B. Paris
+Appearances:
+Agent for the Appellant:
+Kim Steven Mackenzie
+Counsel for the Respondent:
+Julian Malone and Julia Parker
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which bears number 10CT0605-6135-6342 and is dated January 18, 2006, is allowed in part and the reassessment will be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+1. the Appellant was entitled to use the Quick Method of accounting for GST for the reporting periods commencing October 1, 2002 and ending December 31, 2003; and
+2. the taxable supplies made by the Appellant for the reporting period December 31, 2002 should be reduced by $15,682.25.
+Signed at Ottawa, Canada, this 30th day of January 2008.
+“B.Paris”
+Paris J.
+Citation: 2008TCC70
+Date: 20080130
+Docket: 2007-779(GST)I
+BETWEEN:
+KIM STEVEN MACKENZIE & CARLA JOANNE MACKENZIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] This is an appeal from a reassessment under Part IX of the Excise Tax Act whereby the Minister of National Revenue increased the Appellant partnership's tax payable for its reporting periods ending between July 1, 2002 and December 31, 2003 by $10,399.47 and imposed a penalty of $638.44 and interest of $113.14.
+[2] The increase in tax was made up of two components. Firstly, the Minister determined that the Appellant had failed to collect and remit GST on management fees it received from two related corporations, Kimbowmac Inc. and Grymus Ymdrech Inc. during 2002 and 2003. Kimbowmac and Grymus were wholly owned by the two partners of the Appellant partnership. Secondly, the Minister determined that the Appellant was not entitled to use the Quick Method of accounting for GST pursuant to section 227 of the Act, as it had done for its reporting periods commencing October 1, 2002 to December 31, 2003. Under the Quick Method, a taxpayer remits GST at a rate of only 4% of its taxable supplies but is not entitled to claim input tax credits. Since the Minister found that the Appellant was not entitled to use the Quick Method, the Appellant was reassessed for GST of 7% of its taxable supplies for the relevant periods.
+[3] At the hearing, the Respondent's counsel conceded that the Appellant was, in fact, entitled to use the Quick Method to calculate its GST payable for the periods in issue. The Respondent's counsel also conceded that the amount of management fees received by the Appellant from Kimbowmac during 2002 was $15,682.25 less than the amount the Minister assumed the Appellant received.
+[4] The only issue left is whether the Appellant was required to collect and remit tax on the remainder of the management fees it received from Kimbowmac and Grymus from July 1, 2002 to December 31, 2003.
+[5] The relevant assumptions relied upon by the Minister in reassessing are set out in paragraph 11 of the Reply to Notice of Appeal and read as follows:
+. . .
+(d) at all relevant times Kimbowmac, Grymus and the Appellant provided consulting services to the oil and gas industries;
+(e) at all relevant times the Appellant also provided management services to Kimbowmac and Grymus;
+(f) all supplies made by the Appellant during the Relevant Period were taxable supplies subject to tax;
+. . .
+(p) for the reporting period ending December 31, 2002, the Appellant received consideration from Kimbowmac for management services in the amount of $62,729.00 on which tax was collectible;
+(q) for the reporting period ending December 31, 2003 the Appellant received consideration from Grymus for management services in the amount of $67,045 on which tax was collectible;
+(r) in filing its returns for December 31, 2002 and December 31, 2003, the Appellant failed to include the tax collectible on the management fees referred to in subparagraphs 11(p) and 11(q) respectively;
+Appellant's Evidence
+[6] Kim Steven Mackenzie, one of the partners of the Appellant, represented the Appellant and gave evidence on its behalf. His testimony dealt largely with the manner in which officers of the Canada Revenue Agency (CRA) had dealt with the Appellant in the course of the audit of the Appellant and the review of the Appellant's objection to the reassessment. Mr. Mackenzie believed that the audit was connected in some way with earlier GST difficulties that the related company Kimbowmac had encountered in 2002. Mr. Mackenzie felt harassed and badly treated by the CRA officers he dealt with as the audit and objection process progressed. He said he did not receive answers to his questions and was confused why the auditor believed that the Appellant was not entitled to use the Quick Method to file its GST returns. Mr. Mackenzie felt strongly that the Appellant was entitled to use this method and was frustrated by the unresponsiveness of the auditor to his concerns. He was also upset that the scope of the audit appeared to have widened from what he was originally told would be covered. He said that he did not receive a clear explanation of the adjustments made in the reassessment until the summer of 2006 when he spoke with the appeals officer.
+[7] Mr. Mackenzie also said that he had been misled regularly during the process, but it is not clear whether this applied to the auditor or appeals officer, or to the collections officer who later took steps to collect the amounts payable under the reassessment. According to Mr. Mackenzie, after the Appellant filed its appeal to this Court in February 2007, it experienced further difficulties with the CRA. Around the time of the appeal, Mr. Mackenzie called and left a message for a collections officer advising that the Appellant was appealing the reassessment and requesting that the CRA hold off on collection action. However, in May 2007, the CRA sent a requirement to pay to the Appellant's bank and garnisheed over $12,000 from its account without notice to the Appellant.
+[8] Mr. Mackenzie said that delays in the audit resulted in Kimbowmac and Grymus being unable to claim input tax credits (ITCs) for the GST the Appellant was now being asked to pay. Kimbowmac had declared bankruptcy and Grymus had been dissolved.
+[9] Mr. Mackenzie testified that prior to May 1, 2002, Kimbowmac and Grymus distributed their profits to the Appellant by way of dividends and that no GST was collectible on the dividends. However, from May 1, 2002 on, Kimbowmac and Grymus paid management fees to the Appellant. This was done on the advice of the Appellant's accountant. The accountant failed to advise the Appellant that it was required to collect GST from Kimbowmac and Grymus on the management fees, and the Appellant did not charge or collect the GST on the fees.
+[10] In cross-examination, Mr. Mackenzie admitted that the Appellant had provided services to Kimbowmac and Grymus during the periods in issue and that the amounts received by the Appellant for those services had been treated as management fees by all of the parties involved.
+[11] Mr. Mackenzie also testified that the Minister erred in allocating all of the management fees that were received by the Appellant from Kimbowmac to the final quarter of 2002 and all of the management fees received from Grymus to the final quarter of 2003. He said that the fees were received throughout the year, although he was unable to say what amounts were received when.
+Appellant's Arguments
+[12] Mr. Mackenzie argued that the GST owing by the Appellant had been collected and remitted by Kimbowmac and Grymus as agent for the Appellant.
+[13] Alternatively, he submitted that Kimbowmac and Grymus were shell corporations used by the Appellant to earn income, and that it would be appropriate in the circumstances of this case to consider that the Appellant and the two corporations formed a single entity for tax purposes. In other words, he asked the Court to disregard the existence of Kimbowmac and Grymus, and find that their operations were carried on by their shareholders who were the partners in the Appellant. In this way, the only GST that would have been required to be remitted was that collected by Kimbowmac and Grymus on their taxable supplies, which they had already done, and there would be no supply of management services by the Appellant to another party.
+[14] Mr. Mackenzie said that this would create a fair result, because the government would not be out any money. He suggested that the tax that the CRA was attempting to obtain from the Appellant would have been offset by ITCs that would have been claimed by the corporations if they had paid GST on the management fees to the Appellant. Since Kimbowmac and Grymus no longer exist, the government would get a windfall from the reassessment in issue because it would collect the GST from the Appellant without having to pay out any ITCs.
+[15] In the event that the Appellant is found liable, Mr. Mackenzie asked that the Court allow the Appellant to claim ITCs on behalf of Kimbowmac and Grymus.
+[16] The Appellant also took issue with the inclusion of the full amount of the management fees from Kimbowmac in the Appellant's reporting period ending December 31, 2002 and the full amount of management fees from Grymus in the Appellant's reporting period ending December 31, 2003. However, Mr. Mackenzie recognized that he had not presented any evidence to show when the Appellant received the amounts.
+[17] The Appellant also raised a number of arguments related to the Canadian Bills of Rights, 1960, c. 44 and the Canadian Charter of Rights and Freedoms, Part I of the Constitution Act, 1982, being Schedule B to the Canada Act 1982 (U.K.), 1982, c. 11.
+[18] It was submitted that the garnishee of the Appellant's bank account, in May 2007 under section 317 of the Act constituted i) an unreasonable seizure, contrary to section 8 of the Charter, ii) unusual punishment or treatment contrary to section 12 of the Charter, iii) breached the Appellant's right, under section 7 of the Charter to life, liberty and security of the person, and finally iv) breached its right under section 11 of the Charter and paragraph 2(e) of the Canadian Bill of Rights to a fair hearing.
+[19] It was also submitted that the imposition of the penalty and interest under subsection 280(1) of the Act i) amounted to cruel and unusual punishment or treatment contrary to section 12 of the Charter because it acted as a deterrent to the Appellant challenging the reassessment, and ii) was discriminatory within the meaning of section 15 of the Charter because it had the effect of denying the Appellant equal access to and benefit of the law.
+[20] Next, Mr. Mackenzie contended that the CRA had discretion in how it administered the Act, but failed to exercise that discretion properly in this case, given that, taken collectively, the Appellant and Kimbowmac and Grymus had not been enriched by the Appellant's failure to collect and remit GST on the management fees from Kimbowmac and Grymus. He said that the CRA's failure to exercise its discretion not to enforce the Act amounted to unfairness towards the Appellant, which amounted to discrimination and a breach of section 15 of the Charter.
+[21] The Appellant concluded by submitting that the CRA should be made to pay for its malfeasance in this case, and that the appropriate remedy would be for the Court to allow the appeal, vacate the reassessment and order the return of the seized funds.
+Analysis
+Substantive Arguments
+[22] The Appellant's first argument, that Kimbowmac and Grymus were acting as agent of, or trustee for, the Appellant in collecting and remitting tax on supplies made to third parties, cannot succeed because there was no evidence presented to show that a trust or agency agreement existed between the parties or that they carried on their business in accordance with such an agreement, or that any GST was collected or remitted by the corporations on behalf of the Appellant. It appears to me that the Appellant is attempting to recharacterize the transactions it entered into with the two corporations in order to escape the tax consequences of those transactions, something which is not permitted in tax law (Shell Canada Ltd. v. The Queen, [1999] S.C.J. No.30(QL)).
+[23] The Appellant’s alternative argument, that it would be appropriate to disregard the separate legal existence of Kimbowmac and Grymus with the result that there would be no taxable supply of services by the Appellant to the corporations and therefore no tax payable in this case, is equally untenable. In Meredith v. R., [2002] F.C.J. No. 1007 (QL), the Federal Court of Appeal stated at paragraph 12 that:
+Lifting the corporate veil is contrary to long‑established principles of corporate law. Absent an allegation that the corporation constitutes a "sham" or a vehicle for wrongdoing on the part of putative shareholders, or statutory authorisation to do so, a court must respect the legal relationships created by a taxpayer (see Salomon v. Salomon & Co.(1896), [1897] A.C. 22 (U.K. H.L.); Kosmopoulos v. Constitution Insurance Co., [1987] 1 S.C.R. 2 (S.C.C.)). A court cannot recharacterize the bona fide relationships on the basis of what it deems to be the economic realities underlying those relationships (see Continental Bank of Canada v. R., [1998] 2 S.C.R. 298 (S.C.C.); Shell Canada Ltd. v. R., [1999] 3 S.C.R. 622 (S.C.C.); Ludmer c. Ministre du Revenu national, 2001 SCC 62 (S.C.C.) at para. 51).
+[24] There was no evidence before me that Kimbowmac and Grymus were shams or that they were used for any wrongful purpose by their shareholders (i.e. the partners of the Appellant), nor has the Appellant shown that there is any other basis for piercing the corporate veil in this case.
+[25] Nor can I accede to the Appellant's request that it be allowed to claim ITCs on behalf of Kimbowmac and Grymus. The Appellant itself is not permitted under the Quick Method of accounting for GST to claim any ITCs, and there is no provision in the Act that would allow one taxpayer to claim the benefit of another taxpayer's ITCs.
+[26] While the Appellant did not make any substantive arguments concerning the imposition of the penalty in this case, I am satisfied that the evidence shows that the Appellant received the management fees in issue and did not collect or remit tax in respect of those fees. I am also satisfied that the Appellant rendered services to Kimbowmac and Grymus in exchange for the management fees and that those services were a taxable supply within the meaning of section 123 of the Act. The Respondent has therefore met the onus of showing that the penalty was correctly imposed in this case.
+Charter and Bill of Rights Arguments
+[27] I will deal firstly with the Appellant’s claim that its rights under the Charter and the Canadian Bill of Rights were breached by the garnishee of its bank account.
+[28] It is clear that the garnishee was an action taken to collect the outstanding tax debt after the Appellant was reassessed. It is also clear that this Court does not have jurisdiction to set aside or vacate a reassessment because of alleged wrongful or abusive conduct by officers of the CRA in the course of collecting debts. To this effect, the Federal Court of Appeal stated in Moss v. R., [2006] F.C.J. No 665 (QL) at paragraph 5:
+If unlawful or improper tax collection actions occur, and are proved, it may be possible to obtain a remedy by commencing appropriate proceedings in the Federal Court, but as a matter of law, the Tax Court of Canada has no jurisdiction to set aside or vacate a reassessment because of such actions. In an appeal from a judgment of the Tax Court, this Court’s jurisdiction is similarly limited.
+[29] Given that this Court has no jurisdiction over collection matters, it has no
+power to grant any remedy sought by the Appellant concerning the garnishee.
+[30] The Appellant’s next argument is directed at what Mr. Mackenzie described as the Minister’s unwillingness to exercise discretion not to reassess tax on the management fees. He alleged that the Minister has this discretion, and the failure to exercise that discretion when the circumstances of the case warrant amounts to discrimination under section 15 of the Charter.
+[31] The Appellant is not arguing that any provision of the Act relied upon in the reassessment offends section 15 of the Charter. The source of his complaint is the actions taken by the Minister in the course of reassessing. Once again, this Court does not have jurisdiction to decide a challenge to the Minister’s actions, as opposed to a challenge of the legislation relied upon in reassessing. The following comments of this Court in Hardtke v. R., 2005 TCC 263 are applicable to the case at bar:
+Here, the appellant is not arguing that the legislation itself offends section 15 of the Charter, but maintains rather that the Minister's actions violate section 15. Accordingly, a subsection 24(1) remedy cannot be granted by this Court on the grounds of a breach of section 15 of the Charter by the Minister in his administrative capacity as tax collector, since the Court does not have jurisdiction over the subject matter of that portion of the appeal. Therefore, even if a breach did occur, this Court has no jurisdiction to remedy such a breach.
+(at paragraph 20)
+[32] Even if I had jurisdiction to decide this issue, I am not satisfied that the Appellant has shown that he was the victim of the kind of discrimination prohibited by the Charter. Firstly, there was no evidence presented to show that the Appellant was accorded any differential treatment as compared to other persons in similar circumstances. Mr. Mackenzie’s belief that others may have been assessed differently at the discretion of the Minister appeared to me to be speculation. In the absence of proof of differential treatment, it is impossible to proceed with the section 15 analysis mandated by the Supreme Court of Canada in Law v. Canada (Minister of Employment and Immigration), [1999] 1 S.C.R. 497.
+[33] The Appellant also challenged the constitutionality of subsection 280(1) of the Act which imposes a penalty and interest on unpaid amounts. That provision reads as follows:
+280(1) Subject to this section and section 281, where a person fails to remit or pay an amount to the Receiver General when required under this Part, the person shall pay on the amount not remitted or paid
+(a) a penalty of 6% per year, and
+(b) interest at the prescribed rate,
+computed for the period beginning on the first day following the day on or before which the amount was required to be remitted or paid and ending on the day the amount is remitted or paid.
+[34] The Appellant argued firstly that subsection 280(1) allows the Minister to charge a higher rate of interest on unpaid amounts due by a taxpayer than the rate of interest paid by the Receiver General on amounts due to a taxpayer, and resulted in an infringement of his rights under sections 7 and 15 of the Charter.
+[35] This argument cannot succeed since it is untrue that the Act set a different rate of interest on unpaid amounts due by a taxpayer than on amounts due to a taxpayer for the periods in appeal.[1] Under the Act and under the Interest Rate (Excise Tax Act) Regulations SOR/91-19 (for the periods in appeal prior to July 1, 2003) and the Interest Rates (Excise Tax Act) Regulations SOR/2006-230 (for the periods in appeal beginning July 1, 2003) there was no difference between the interest rate paid on GST refunds or rebates and the rate payable on overdue GST. In each case, the rate of interest payable is “the prescribed rate” (see subsections 280(1) and 280(2) of the Act relating to overdue GST and subsections 229(3) and 230(3) of the Act relating to refunds of GST.) The prescribed rate of interest for Part IX of the Act was fixed by section 3 of both of the above-mentioned regulations and the same rate of interest was applicable to amounts of GST owing and to GST refunds.[2] I also note that the document relied upon by Mr. Mackenzie to show an interest rate differential was a Statement of Account relating to Mr. Mackenzie’s personal income tax.
+[36] The Appellant’s argument that penalties levied under subsection 280(1) constituted cruel and unusual treatment or punishment, and therefore breached his rights under section 12 of the Charter must also fail. The test for determining whether a penalty is cruel or unusual treatment or punishment is whether the penalty is “grossly disproportionate in the sense that it is so excessive as to outrage standards of decency” (see R. v. M. (C.A.) [1996], 1 S.C.R. 500. I can see nothing in the imposition of a penalty equal to 6% of the unpaid amount that would in any sense outrage standards of decency. A penalty of this magnitude is consistent with a purpose of general deterrence within the context of a self‑reporting tax system.
+[37] The Appellant also argues that subsection 280(1) of the Act breaches his rights under section 15 of the Charter because the penalty of 6% is unfair and coercive. The Appellant failed however to relate the imposition of the penalty to the right to equality under section 15. Once again he did not suggest that subsection 280(1) allowed for differential treatment based on a ground enumerated in section 15 or on an analogous ground. Therefore, the Appellant did not establish any foundation for this final aspect of his constitutional challenge of subsection 280(1).
+[38] In summary, I am not satisfied that the Appellant has shown that the reassessment in issue breaches any of his rights under the Charter or the Canadian Bill of Rights.
+[39] The appeal will be allowed in part and the reassessment will be referred back to the Minister for reconsideration and reassessment on the basis of the Respondent’s concessions that the Appellant was entitled to use the Quick Method of accounting for GST in the relevant periods, and that the taxable supplies made by the Appellant for the period ending December 31, 2002 should be reduced by $15,682.25.
+Signed at Ottawa, Canada, this 30th day of January 2008.
+“B.Paris”
+Paris J.
+CITATION: 2008TCC70
+COURT FILE NO.: 2007-779(GST)I
+STYLE OF CAUSE: Kim Steven Mackenzie & Carla Joanne Mackenzie and Her Majesty the Queen
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: November 30, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: January 30, 2008
+APPEARANCES:
+Agent for the Appellant:
+Kim Steven Mackenzie
+Counsel for the Respondent:
+Julian Malone and Julia Parker
+COUNSEL OF RECORD:
+For the Appellants:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] As one of the consequences of the Budget Implementation Act, 2006 S.C. 2006, c. 4, the Regulations are to be amended retroactively effective April 1, 2007, to create different prescribed rates for interest paid on GST refunds and rebates and interest applied to overdue GST amounts.
+[2] Section 3 of Regulation SOR/91-19 reads:
+For the purposes of the Excise Tax Act, the prescribed rate of interest in effect during any quarter shall be the rate (expressed as a percentage per month and rounded to the nearest one tenth of a percentage or, if the percentage is equidistant from two consecutive multiples of one tenth of a percentage, to the higher thereof) determined by the formula
+A/12
+where A is the simple arithmetic mean of all amounts, each of which is the average equivalent yield (expressed as a percentage per year) of Government of Canada Treasury Bills that mature approximately three months after their date of issue and that were sold at auctions of Treasury Bills during the first month of the immediately preceding quarter.
+Section 3 of Regulation SOR/2006-230 reads:
+Despite section 2, for the purposes of Part IX of the Excise Tax Act, the prescribed rate of interest in effect during any quarter is the rate (expressed as a percentage per month and rounded to the nearest one tenth of a percentage or, if the percentage is equidistant from two consecutives multiples of one tenth of a percentage, to the higher of them) determined by the formula
+A/12
+Where A is the simple arithmetic mean of all amounts, each of which is the average equivalent yield (expressed as a percentage per year) of Government of Canada Treasury Bills that mature approximately three months after their date of issue and that were sold at auctions of Government of Canada Treasury Bills during the first month of the immediately preceding quarter.

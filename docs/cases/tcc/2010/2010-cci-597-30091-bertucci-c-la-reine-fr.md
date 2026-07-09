@@ -1,0 +1,282 @@
+---
+title: "Bertucci c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30091/index.do"
+last_modified: "2010-11-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 597"
+citation2: ""
+neutral_citation: "2010 CCI 597"
+decision_date: "2010-11-24"
+language: "fr"
+item_id: "30091"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7609
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:25:20.448000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c94db0768b1c0709efbb5eea966b23a2df4c452aa29dca8d4c58f27170880233"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bertucci c. La Reine
+
+- Citation: 2010 CCI 597
+- Decision date: 2010-11-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7609, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bertucci c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-11-24
+Référence neutre
+2010 CCI 597
+Numéro de dossier
+2008-3468(IT)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008‑3468(IT)G
+ENTRE :
+DINO BERTUCCI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu les 29 et 30 mars 2010, à Toronto (Ontario).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Ricky Tang
+________________________________________________________________
+JUGEMENT
+L'appel des nouvelles cotisations établies au titre de la Loi de l'impôt sur le revenu pour les années d'imposition 2000, 2001, 2002, 2003 et 2004 est rejeté, avec dépens, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2010.
+« Paul Bédard »
+Le juge Bédard
+Traduction certifiée conforme
+ce 20e jour de janvier 2011.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 597
+Date : 20101124
+Dossier : 2008‑3468(IT)G
+ENTRE :
+DINO BERTUCCI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Le présent appel interjeté sous le régime de la procédure générale a été entendu à Toronto (Ontario), les 29 et 30 mars 2010.
+[2] Les paragraphes 10 à 18 inclusivement de la réponse à l'avis d'appel donnent un aperçu des questions en litige. Ils sont rédigés comme suit :
+[TRADUCTION]
+10. Dans ses déclarations de revenus pour les années d'imposition, l'appelant a déclaré et calculé les pertes d'entreprise suivantes relativement aux services de gestion d'artistes :
+2000
+2001
+2002
+2003
+2004
+Honoraires (revenu)
+2 000,00
+Néant
+Néant
+Néant
+Néant
+Dépenses :
+Publicité
+1 400,00
+1 400,00
+1 500,00
+1 600,00
+1 650,00
+Frais de repas et de représentation (50 %)
+2 194,33
+4 437,37
+1 803,14
+617,78
+2 228,07
+Automobile
+8 771,53
+13 973,00
+6 548,36
+11 397,10
+6 885,64
+Dépenses de bureau
+165,58
+1 041,72
+694,48
+Néant
+482,04
+Fournitures
+1 028,50
+1 141,64
+1 278,63
+1 342,56
+1 979,43
+Voyages
+17 551,17
+25 654,39
+8 940,00
+8 260,44
+13 042,04
+Salaires
+1 700,00
+Néant
+Néant
+Néant
+Néant
+Téléphone, services publics
+1 153,42
+1 522,83
+1 347,03
+1 320,49
+Néant
+Matériel d'éducation
+165,00
+175,00
+1 590,40
+2 325,00
+638,91
+Entretien et réparations
+Néant
+Néant
+Néant
+Néant
+200,00
+DPA (à l'égard de l'automobile)
+1 464,86
+1 003,45
+463,27
+12 448,64
+11 484,49
+Total des dépenses
+35 894,39 $
+50 349,40 $
+24 165,31 $
+39 312,01 $
+38 590,62 $
+Pertes nettes
+(33 894,39 $)
+(50 349,40 $)
+(24 165,31 $)
+(39 312,01 $)
+(38 590,62 $)
+11. Afin d'établir les cotisations pour les années d'imposition, le ministre a rejeté la déduction demandée par l'appelant des dépenses précédentes et, par conséquent, l'intégralité des pertes d'entreprise déclarées.
+12. Afin d'établir la dette fiscale de l'appelant pour les années d'imposition, le ministre a fait les hypothèses de fait suivantes :
+a) la principale source de revenus de l'appelant était son emploi de professeur au Collège Seneca;
+b) l'appelant travaillait également comme directeur des ventes et de la commercialisation chez Pink Triangle Press @ Xtra Magazine;
+c) l'appelant travaillait également comme instructeur de conditionnement physique chez Oxygen Fitness;
+d) dans ses déclarations de revenus pour les années d'imposition, l'appelant a demandé la déduction de dépenses d'entreprise et a déclaré des pertes d'entreprise relativement à ses services de gestion d'artistes, dont les détails sont donnés au paragraphe 10 ci‑dessus;
+e) l'appelant a déclaré un revenu brut total de 2 000 $ et une perte d'entreprise totale de 186 311,73 $ pour les années d'imposition pertinentes relativement à ses services de gestion d'artistes;
+f) les services de gestion d'artistes n'ont produit de profit durant aucune des années entre 2000 et 2004;
+g) les montants déduits par l'appelant à titre de dépenses d'entreprise n'ont été versés relativement à aucune activité d'entreprise de l'appelant;
+h) l'appelant fournissait des services de gestion d'artistes pour son plaisir personnel, et non pour exercer une activité d'entreprise dans le but d'en tirer un revenu;
+i) les montants dont la déduction était demandée par l'appelant au titre de dépenses d'entreprise étaient des dépenses personnelles de l'appelant;
+j) les montants dont la déduction était demandée par l'appelant au titre de dépenses d'entreprise n'étaient pas raisonnables dans les circonstances.
+B. LES POINTS EN LITIGE
+13. Les points en litige sont les suivants :
+a) la question de savoir si les activités de l'appelant au titre des services de gestion d'artistes constituaient une source de revenus;
+b) la question de savoir si les dépenses déduites par l'appelant pour ses années d'imposition ont été faites afin de tirer un revenu d'une entreprise;
+c) la question de savoir si les dépenses déduites par l'appelant pour ses années d'imposition étaient des frais personnels ou de subsistance de l'appelant;
+d) la question de savoir si les dépenses déduites par l'appelant pour ses années d'imposition étaient raisonnables dans les circonstances.
+C. LES DISPOSITIONS LÉGISLATIVES, LES MOYENS ET LES CONCLUSIONS RECHERCHÉES
+14. Il s'appuie sur les articles 3, 4 et 9, les alinéas 18(1)a) et 18(1)h), l'article 67 et le paragraphe 248(1) de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), et ses modifications (la « Loi »).
+15. L'appelant a entrepris des services de gestion d'artistes à titre de démarche personnelle et ne poursuivait pas ses activités d'une manière suffisamment commerciale ou dans l'intention de réaliser un profit. En conséquence, les services de gestion d'artistes ne constituaient pas une source de revenus aux fins de l'article 9 de la Loi et le ministre a rejeté à bon droit les pertes déduites par l'appelant relativement à cette activité.
+16. Subsidiairement, les dépenses d'entreprise déduites n'ont pas été versées pour tirer un revenu d'une entreprise. Par conséquent, la déduction des dépenses a été à bon droit refusée par le ministre conformément à l'article 9 et à l'alinéa 18(1)a) de la Loi.
+17. Outre ce qui est dit au paragraphe ci‑dessus, certaines dépenses étaient des « frais personnels ou de subsistance » de l'appelant, selon la définition qui en est donnée au paragraphe 248(1) de la Loi, et l'alinéa 18(1)h) de la Loi exclut expressément la déduction de tels montants.
+18. Subsidiairement encore, il fait valoir que, si la Cour conclut que l'appelant exploitait, au cours des années d'imposition, une entreprise relativement aux services de gestion d'artistes, ce que le ministre met expressément en cause, l'appelant n'a le droit de déduire aucun montant de dépenses dans la détermination du revenu de l'entreprise au titre des paragraphes 9(1) et 9(2) de la Loi, pour ces années d'imposition, sauf si les montants sont raisonnables dans les circonstances, conformément à l'article 67 de la Loi.
+[3] Les hypothèses 12a), b), c), d) et f) n'ont été réfutées par aucune preuve.
+[4] L'appelant et Teresa D'sa, une agent des litiges de l'ARC, furent les seuls témoins.
+Le témoignage de l'appelant
+[5] Le témoignage de l'appelant était sensiblement le suivant :
+(i) L'appelant n'avait pas l'intention de fonder une entreprise de gestion de chanteurs d'opéra jusqu'à ce que Catherine McKeever (une chanteuse d'opéra qu'il avait rencontrée par l'entremise de son frère, également un chanteur d'opéra), impressionnée par son sens de la commercialisation et des ventes, lui fît le commentaire qu'il devrait fonder une entreprise de gestion d'artistes. L'appelant a expliqué qu'il était fasciné et qu'il s'est rapidement aperçu qu'il lui serait possible de surmonter immédiatement l'un des obstacles, car il disposait de relations dans le milieu qui étaient susceptibles de lui présenter des chanteurs d'opéra à promouvoir. L'appelant a raconté avoir décidé (après avoir effectué une recherche sur le sujet et après avoir préparé des prévisions des résultats pro forma) de fonder une entreprise de gestion de chanteurs d'opéra dénommée BSG Artist Management (« BSG ») — même s'il n'avait pas de goût ou d'intérêt particulier pour l'opéra — car il avait la formation, l'éducation et l'expérience des affaires pour réussir une telle entreprise. Je souligne immédiatement qu'il ressort de la preuve que la recherche de l'appelant sur l'opéra a consisté essentiellement en une discussion avec Catherine McKeever et en la lecture de trois livres (voir la pièce A‑2), dont l'un était un guide de carrière à l'intention des chanteurs paru en 1994. Je ferai observer aussi que l'appelant a expliqué qu'il n'avait pas acheté une édition récente du guide de carrière pour les chanteurs (dont le coût était de 300 $) parce qu'il était trop dispendieux. Enfin, l'appelant a ajouté qu'il avait appris à la suite de sa recherche que sa démarche d'entreprise requerrait des années de travaux et d'investissements pour parvenir au succès et à la profitabilité. L'appelant a également expliqué qu'il avait découvert au cours de sa recherche que la société de gestion d'artistes la plus importante au Canada n'était parvenue au succès et à la profitabilité qu'après cinq années de pertes continues, et ce, malgré les subventions qu'elle avait reçues au cours de ses cinq premières années d'exploitation.
+(ii) L'appelant était l'unique propriétaire de BSG et ses fonctions consistaient essentiellement à joindre des chanteurs d'opéra et à essayer de les faire embaucher par des compagnies d'opéra.
+(iii) L'appelant a financé lui‑même les activités de BSG durant ses cinq années et demie d'existence.
+(iv) Le bureau ou l'établissement principal de BSG se trouvait dans l'appartement de l'appelant.
+(v) BSG fournissait les services suivants :
+a) Fournir des candidats qualifiés pour les auditions tenues par les compagnies d'opéra. L'appelant a expliqué que ce service l'obligeait à joindre des recruteurs et de leur présenter les curriculum vitae et les biographies des chanteurs d'opéra qu'il représentait. À l'appui de son témoignage, l'appelant a déposé des courriels et des lettres qu'il avait échangés avec les compagnies d'opéra (voir la pièce A‑1).
+b) Recruter des chanteurs d'opéra. L'appelant a expliqué que, pour recruter des chanteurs d'opéra, il assistait à des auditions et événements auxquels des chanteurs d'opéra étaient présents. Je ferai observer immédiatement que le témoignage de l'appelant ne dit rien sur les noms des chanteurs qu'il est censé avoir rencontrés à ces auditions et événements et sur les lieux et les dates de ces rencontres prétendues. L'appelant a également témoigné que, durant les cinq années et demie d'existence de BSG, il avait conclu des contrats avec huit chanteurs, dont six aux termes de contrats écrits. À l'appui de son témoignage, l'appelant a déposé au premier jour de l'audience un contrat de gestion d'artistes conclu le 29 juin 2000 entre Catherine McKeever et BSG (voir la pièce A‑5). L'appelant a également présenté, au deuxième jour de l'audience, deux contrats de gestion d'artistes, dont l'un conclu le 5 janvier 2000 entre Dominic Bertucci (le frère de l'appelant) et BSG (voir la pièce A‑7) et l'autre conclu le 14 mars 2000 entre Melinda Enns et BSG. Je ferai observer immédiatement que l'appelant n'a pas précisé quand les trois autres contrats écrits avaient été signés ou les circonstances dans lesquelles ils avaient été signés. Le témoignage de l'appelant ne disait rien quant à la durée de ces contrats. Je ferai observer également que l'hésitation dont a fait montre l'appelant en nommant les deux chanteurs qui avaient censément un contrat oral avec BSG, et le temps qu'il a pris pour les nommer, a soulevé des doutes dans mon esprit quant à sa crédibilité. Enfin, le fait que la signature de Dominic Bertucci qui apparaît sur le contrat de Mme Enns et sur le contrat de Dominic Bertucci est complètement différente de celle qui apparaît sur le contrat de Mme McKeever a également soulevé des doutes sérieux dans mon esprit quant à la crédibilité de l'appelant.
+c) Jumeler les types de chanteurs avec les rôles pour lesquels les compagnies d'opéra voulaient des chanteurs. L'appelant a expliqué que cette activité l'obligeait à lire régulièrement les listes d'auditions et d'embauche pour voir quels opéras étaient mis en scène et quels étaient les rôles pour lesquels il pouvait présenter ses clients.
+d) Faire des recherches sur les opéras afin de déterminer quels chanteurs ils requéraient. L'appelant a témoigné qu'il effectuait la recherche à l'aide de plusieurs livres sur les opéras qui donnaient des renseignements sur les représentations, y compris le nombre et les types de voix requis. À l'appui de son témoignage, l'appelant a déposé les trois livres qu'il consultait (voir la pièce A‑2).
+e) Enregistrer et produire des disques compacts des interprétations des chanteurs. À l'appui de son témoignage à cet égard, l'appelant a présenté seulement un disque, qu'il aurait produit lui-même (voir la pièce A‑1).
+f) Créer un site Web à des fins de promotion.
+g) Créer et imprimer des curriculum vitae et des biographies en utilisant l'en‑tête de BSG.
+h) Voyager pour se rendre aux événements, y compris aux représentations et aux auditions, pour essayer de rencontrer les directeurs d'audition et également pour rencontrer des chanteurs afin de leur faire signer un contrat avec BSG. L'appelant a expliqué qu'il voyageait également pour se rendre aux auditions afin de donner un appui moral à ses clients durant les auditions. Je ferai observer que le témoignage de l'appelant ne disait rien sur les noms des directeurs d'audition qu'il a rencontrés et sur les endroits et les dates des rencontres alléguées. L'appelant a témoigné qu'au cours de la période pertinente, il a fait 32 voyages pour se rendre à des auditions hors du Canada (en Europe et aux États‑Unis) avec ses clients. La preuve (pièce A‑1, onglet 12) révèle aussi que le coût moyen de ces voyages était de 2 000 $ et que les voyages n'avaient donné aucun résultat, puisqu'ils n'avaient abouti à la signature d'aucun contrat entre ses clients et une compagnie d'opéra, et au recrutement d'aucun nouveau chanteur comme client par BSG. L'appelant a aussi expliqué que ses clients (des chanteurs censément liés par contrat) payaient leurs propres frais de voyage. Le résumé des auditions et des dates de voyage présenté par l'appelant à l'appui de son témoignage (voir la pièce A‑1, onglet 12) révèle que Melinda Enns a effectué 12 voyages avec l'appelant à des auditions hors du Canada, le frère de l'appelant, huit voyages, Karyn Hanson, 12 voyages, Katherine McKeever, deux voyages, Justin Spears, quatre voyages, et David Vabarjad, trois voyages. Il est réellement difficile de croire que des chanteurs d'opéra de deuxième classe n'ayant tiré aucun revenu de leur profession durant la période pertinente puissent avoir fait de nombreux voyages hors du Canada et eu en conséquence des coûts considérables afin de trouver des rôles secondaires qui pourraient leur être accordés par des compagnies d'opéra non canadiennes. Il aurait été intéressant d'entendre le témoignage de ces chanteurs qui ont censément fait des voyages pour se rendre à des auditions hors du Canada ou le témoignage des directeurs d'audition que l'appelant a censément rencontrés lors de ces auditions prétendues.
+(vi) L'appelant n'a obtenu aucun permis pour exploiter BSG. Cependant, il s'est inscrit auprès de la province de l'Ontario (voir la pièce A‑1, onglet 5).
+(vii) L'appelant n'avait pas un compte bancaire distinct pour BSG, parce que cela aurait coûté trop cher.
+(viii) La principale source de revenu de l'appelant était son emploi de professeur de commercialisation au collège Seneca. L'appelant a témoigné qu'il consacrait en moyenne 25 heures par semaine à cet emploi durant la période de septembre à avril. L'appelant travaillait également (à partir de 2003) comme vendeur (vendant de la publicité) et directeur des ventes chez Xtra ‑ Pink Triangle Press. L'appelant a expliqué qu'il consacrait en moyenne 20 heures par semaine à cette activité, surtout l'après‑midi. L'appelant travaillait aussi comme instructeur de conditionnement physique à Oxygen Fitness. Il a ajouté qu'il consacrait deux heures par semaine à cette activité. L'appelant a témoigné qu'il avait encore beaucoup de temps à consacrer à ses fonctions pour BSG, compte tenu des nombreuses journées durant lesquelles il n'enseignait pas au cours de la période pertinente et du fait que le secteur présente des cycles tels que parfois l'on travaille pendant de nombreuses heures, et parfois pas du tout dans une semaine donnée. Enfin, l'appelant a ajouté que, parfois, ses collègues enseignants le remplaçaient lorsqu'il devait voyager pour se rendre à des auditions hors de Toronto. Il aurait été intéressant d'entendre le témoignage de ces enseignants qui ont remplacé si gentiment l'appelant durant la période pertinente.
+(ix) Tous les frais de repas et de représentation demandés par l'appelant étaient des dépenses d'entreprise. L'appelant a expliqué que ces repas étaient en fait des réunions d'affaires avec des chanteurs et des gens du secteur, durant lesquelles il parlait de compagnies d'opéra, des représentations qui étaient organisées, de représentations futures et des endroits où trouver de nouveaux talents. Je souligne immédiatement que les noms des personnes qu'il a censément rencontrées durant ces repas d'affaires n'apparaissent pas sur les factures des repas. Le témoignage de l'appelant est également muet sur les gens qu'il a rencontrés et les lieux et les dates de ces rencontres. De plus, la preuve révèle que la plus grande partie des restaurants où ces repas ont censément eu lieu se trouvaient dans le voisinage de sa résidence et que les montants dépensés étaient souvent particulièrement petits. L'appelant a eu des dépenses de repas et de représentation considérables durant la période pertinente sans avoir convaincu un seul chanteur de signer un contrat avec BSG et sans convaincre une seule compagnie d'opéra d'embaucher un de ses clients. Il est vraiment difficile de croire que ces repas étaient réellement des repas d'affaires.
+Analyse et conclusion
+[6] La Cour suprême du Canada, dans Stewart c. La Reine, [2002] 2 R.C.S. 645, a énoncé une méthode à deux volets pour déterminer si une activité peut être considérée comme une source de revenus :
+a) L'activité du contribuable est‑elle exercée en vue de réaliser un profit, ou s'agit‑il d'une démarche personnelle?
+b) S'il ne s'agit pas d'une démarche personnelle, la source du revenu est‑elle une entreprise ou un bien?
+Selon la Cour suprême du Canada, le premier volet du critère ne s'applique que si l'activité en cause comporte un aspect personnel ou récréatif. Lorsqu'une activité est clairement de nature commerciale, la recherche d'un profit par le contribuable est établie, et il n'est pas nécessaire de pousser l'examen plus loin en analysant les décisions commerciales du contribuable. Cependant, lorsque la nature de l'entreprise du contribuable comporte des aspects indiquant qu'elle pourrait être considérée comme un passe‑temps ou une autre activité personnelle, cette entreprise ne sera considérée comme une source de revenu que si elle est exploitée d'une manière commerciale. Pour qu'une activité soit qualifiée de commerciale par nature à cette fin, le contribuable doit avoir une intention subjective de réaliser un profit et il doit exister une preuve de comportement d'homme d'affaires sérieux étayant cette intention. L'expectative raisonnable de profit n'est rien de plus qu'un facteur parmi d'autres qui doit être pris en considération à ce stade de l'analyse. Dans la décision Stewart, la Cour suprême du Canada a résumé les critères pertinents de la manière suivante, aux paragraphes 54 et 55 :
+[...] Ainsi, sous une forme plus élaborée, le premier volet du critère susmentionné peut être reformulé ainsi : « Le contribuable a‑t‑il l'intention d'exercer une activité en vue de réaliser un profit et existe-t-il des éléments de preuve étayant cette intention? » Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l'activité et que cette activité a été exercée conformément à des normes objectives de comportement d'homme d'affaires sérieux.
+Les facteurs objectifs énumérés par le juge Dickson dans Moldowan, précité, p. 486, étaient (1) l'état des profits et pertes pour les années antérieures, (2) la formation du contribuable, (3) la voie sur laquelle il entend s'engager, et (4) la capacité de l'entreprise de réaliser un profit. Comme nous le concluons plus loin, il n'est pas nécessaire pour les besoins du présent pourvoi d'ajouter d'autres facteurs à cette liste; nous nous abstenons donc de le faire. Nous tenons cependant à réitérer la mise en garde du juge Dickson selon laquelle cette liste ne se veut pas exhaustive et les facteurs diffèrent selon la nature et l'importance de l'entreprise. Nous tenons également à souligner que, même si l'expectative raisonnable de profit constitue un facteur à prendre en considération à ce stade, elle n'est ni le seul facteur, ni un facteur déterminant. Il faut déterminer globalement si le contribuable exerce l'activité d'une manière commerciale. Cette détermination ne devrait toutefois pas servir à évaluer après coup le sens des affaires du contribuable. C'est la nature commerciale de son activité qui doit être évaluée, et non son sens des affaires.
+Une fois qu'on a déterminé qu'une activité est une source de revenus, on procède à l'examen de la déductibilité pour déterminer si les dépenses en cause tombent sous le coup des dispositions en matière de déduction pertinentes de la Loi de l'impôt sur le revenu. Même si l'on conclut que les dépenses déduites par le contribuable ont été faites afin de tirer un revenu d'une entreprise ou d'un bien, on doit encore déterminer si ces dépenses étaient raisonnables dans les circonstances.
+[7] Par conséquent, l'appelant a le fardeau de convaincre la Cour que l'activité qu'il a entreprise était de nature clairement commerciale.
+[8] La preuve de l'appelant à cet égard consistait essentiellement en son propre témoignage, lequel n'est pas étayé par des documents suffisants ou par le témoignage crédible d'autres témoins. Par conséquent, l'appréciation de la crédibilité de l'appelant a joué un rôle important dans ma décision.
+[9] Il est vrai que le témoignage d'une seule personne peut suffire à satisfaire à la charge de persuasion. Cela dit, l'appelant doit comprendre qu'un juge n'est pas tenu de croire un témoin non contredit. En vérité, il est possible de déterminer que l'explication non contredite n'est pas plausible à la lumière des faits de l'espèce révélés par la preuve ou sur le fondement de principes de sens commun. Dans le cas présent, il est clair que le témoignage de l'appelant selon lequel son activité était de nature clairement commerciale n'est pas plausible, compte tenu des faits révélés par la preuve. En fait, la preuve révèle notamment que l'entreprise que l'appelant aurait exploitée durant les cinq années et demie d'existence de BSG n'a produit aucun profit. De plus, les activités d'entreprise prétendues n'ont produit aucun revenu (sauf un montant de 2 000 $ ayant donné lieu à un profit de 300 $, qui a été incorrectement déclaré relativement à l'année d'imposition 2000 de l'appelant, puisqu'il a en fait été gagné durant son année d'imposition 1999) durant ces cinq années et demie, même si, selon le témoignage de l'appelant, huit artistes avaient signé des contrats exclusifs avec BSG, aux termes desquels BSG devait recevoir 15 p. 100 des gains bruts de ces huit artistes relativement à leur carrière de chanteurs d'opéra. Cela signifie que ces artistes liés par contrat à BSG n'ont tiré aucun revenu de leur carrière de chanteurs d'opéra durant les cinq années et demie d'existence de BSG. Il est également vraiment difficile de croire que des chanteurs d'opéra de seconde classe n'ayant pas gagné d'argent de leur profession durant la période pertinente aient pu effectuer de nombreux voyages hors du Canada et payer, en conséquence, des coûts considérables afin de trouver des rôles secondaires qui pourraient leur être accordés par des compagnies d'opéra non canadiennes (voir le sous‑alinéa 5(v)h) ci‑dessus). En d'autres mots, il ne me semble pas plausible que les activités du contribuable aient été entreprises dans l'intention de réaliser un profit.
+[10] L'appelant doit également comprendre qu'il est encore plus difficile de croire un témoin qui se contente de faire des commentaires généraux et non vérifiables, et qui donne des explications évasives. De plus, je dirais que l'hésitation de l'appelant, le temps qu'il a pris pour répondre aux questions, son attitude et ses trous de mémoire (voir notamment le sous‑alinéa 5(v)b) ci‑dessus) soulèvent encore plus de doutes dans mon esprit quant à la crédibilité de l'appelant. Je souligne également que le fait que la signature de Dominic Bertucci qui apparaît sur le contrat de Mme Enns et sur le contrat de Dominic Bertucci est complètement différente de sa signature telle qu'elle apparaît sur le contrat de Mme McKeever soulève également des doutes sérieux dans mon esprit quant à la crédibilité de l'appelant.
+[11] Enfin, pour évaluer la preuve présentée par l'appelant, la Cour doit également faire des commentaires sur le défaut de l'appelant d'appeler certaines personnes à témoigner (soit le frère de l'appelant, les chanteurs d'opéra qui étaient censément liés par contrat à BSG, les recruteurs qu'il est censé avoir rencontrés au cours des ans, les artistes que l'appelant a essayé de recruter, et les professeurs qui ont si gentiment remplacé l'appelant durant la période pertinente), personnes qui auraient pu confirmer les affirmations de l'appelant. Dans Huneault c. La Reine, no 96‑1435(IT)G, 6 février 1998, [1998] A.C.I. no 103 (QL), ma collègue le juge Lamarre a rappelé, au paragraphe 25, les propos des auteurs Sopinka et Lederman dans The Law of Evidence in Civil Cases qui sont cités par le juge Sarchuk, de la présente cour, dans l'affaire Enns c. M.R.N., no APP‑1992(IT), 17 février 1987, 87 D.T.C. 208, à la page 210 :
+[...] Dans l'ouvrage de Sopinka et Lederman, The Law of Evidence in Civil Cases, les auteurs font remarquer ce qui suit au sujet des conséquences de l'omission de faire comparaître un témoin, je cite :
+[TRADUCTION]
+Dans l'affaire Blatch v. Archer, (1774), 1 Cowp. 63, p. 65, Lord Mansfield a déclaré :
+Il existe certainement un principe voulant que tous les faits soient appréciés à la lumière de la preuve que l'une des parties était en mesure de produire et que l'autre partie était en mesure de réfuter.
+L'application de ce principe a conduit à établir une règle bien connue selon laquelle l'omission d'une partie ou d'un témoin de produire une preuve que la partie ou le témoin était en mesure de produire et qui aurait peut‑être permis d'élucider les faits, fonde la Cour à déduire que la preuve de la partie ou du témoin en question aurait été défavorable à la partie à laquelle l'omission a été attribuée.
+Dans le cas d'un demandeur auquel il incombe d'établir un point, l'effet de cette déduction peut être que la preuve produite sera insuffisante pour s'acquitter du fardeau de la preuve. (Levesque et al. c. Comeau et al., [1970] R.C.S. 1010, (1971), 16 D.L.R. (3e) 425.)
+[12] Pour les motifs exposés ci‑dessus, je suis d'avis que l'appelant a fondé l'entreprise de services de gestion d'artistes à titre de démarche personnelle et qu'il ne poursuivait pas ses activités en vue de réaliser un profit. Les services de gestion d'artistes ne constituaient donc pas une source de revenus aux fins de l'article 9 de la Loi et le ministre a refusé à bon droit les pertes déduites par l'appelant relativement à ces activités. En conséquence, il n'est pas nécessaire d'examiner la question de savoir si les dépenses d'entreprise déduites ont été faites pour tirer un revenu d'une entreprise ou celle de savoir si ces dépenses d'entreprise étaient raisonnables dans les circonstances. L'appel des nouvelles cotisations établies au titre de la Loi pour les années d'imposition 2000, 2001, 2002, 2003 et 2004 est donc rejeté avec dépens.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2010.
+« Paul Bédard »
+Le juge Bédard
+Traduction certifiée conforme
+ce 20e jour de janvier 2011.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2010 CCI 597
+NO DU DOSSIER DE LA COUR : 2008‑3468(IT)G
+INTITULÉ : DINO BERTUCCI c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATES DE L'AUDIENCE : Les 29 et 30 mars 2010
+MOTIFS DU JUGEMENT : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : Le 24 novembre 2010
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Ricky Tang
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

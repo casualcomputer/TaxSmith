@@ -1,0 +1,179 @@
+Title: Légaré v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/71767/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-155-71767-l-gar-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-05-15
+
+# Légaré v. The Queen
+
+- Citation: 2014 TCC 155
+- Decision date: 2014-05-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5335, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Légaré v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-05-15
+Neutral citation
+2014 TCC 155
+File numbers
+2012-1891(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-1891(GST)I
+BETWEEN:
+ANDRÉ LÉGARÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on February 3, 2014, at Québec, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Pier-Olivier Julien
+JUDGMENT
+The appeal from the assessment made on October 27, 2006, under Part IX of the Excise Tax Act, disallowing an amount of $3,865.59, claimed by the appellant as a New Housing Rebate is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 15th day of May 2014.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 17th day of July 2014
+Margarita Gorbounova, Translator
+Citation: 2014TCC155
+Date: 20140515
+Docket: 2012-1891(GST)I
+BETWEEN:
+ANDRÉ LEGARÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The appellant is appealing from an assessment made by the Minister of National Revenue, through the Minister of Revenue of Quebec (the Minister), on October 27, 2006, under Part IX of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the ETA), in which an amount of $3,865.59 claimed by the appellant as a New Housing Rebate was disallowed.
+[2] The dispute concerns primarily the date on which the appellant's complex was substantially completed.
+[3] In making and confirming the assessment, the Minister relied, among other things, on the following findings and assumptions of fact:
+• The appellant undertook himself, or through a person he had hired, the construction of a residential complex located at 53 Bord-de-l’Eau Street in Portneuf [the complex]; (admitted)
+• The complex was entered on the municipality’s assessment roll on September 1, 2002; (admitted)
+• An application for a tax rebate for new housing was filed with the Minister on June 20, 2006; (admitted)
+• A review of the purchase invoices submitted by the appellant with his rebate application showed the Minister that the expenses were incurred mostly in 2001 and 2002; (denied)
+• In 2003, the appellant purchased paint, an alarm system, sod, fencing, and other materials for landscaping; (admitted)
+• In 2004, work was done almost exclusively on the shed and the finishing of a workshop; (admitted)
+• The Minister therefore determined that January 1, 2004, was the date when the complex was substantially completed. (denied)
+[4] The appellant claims that, when he applied for the tax rebate on June 20, 2006, less than 90% of the construction work on the new housing had been completed, despite the fact that he had moved into the new housing on July 14, 2004. He also claims that his rebate application was made within the time limit prescribed by the ETA, namely, on June 20, 2006, which is within two (2) years of the move-in date to the new residence.
+[5] The appellant testified at the hearing and provided the timeline of the construction work on the residential complex located at 53 Bord-de-l’Eau Street in Portneuf (the complex). The lot was acquired in the spring of 2001 and the work began in October 2001. The construction of the foundation, exterior walls and roof was entrusted to a contractor. The appellant kept the finishing of the complex for himself as a retirement project. At that time, the appellant lived in Donnacona about ten kilometres away from the complex.
+[6] The appellant retired from the education sector in 1993, but from 1993 to 2006, he provided consulting services. His primary clients were Aboriginal people, who often lived in remote areas of Quebec. The appellant had to travel across Quebec to meet with his clients and carry out his mandates. His absences, which were both frequent and long, considerably delayed the construction work on the complex, which lasted from 2001 to 2006.
+[7] The appellant enclosed with his tax rebate application original invoices for the expenses incurred. The total cost of the work (materials and labour) was $153,605.39, and the price paid for the lot was $42,000. The percentages of expenses incurred over each of the years 2001, 2002, 2003 and 2004 as compared with total expenses for the construction project, are as follows:
+Appellant
+Revenu Québec
+2001
+52.99%
+53.53%
+2002
+34.37%
+34.72%
+2003
+5.68%
+5.74%
+2004
+3.74%
+3.78%
+[8] By December 31, 2003, the appellant had incurred 93.04% of the expenses while, according to Revenu Québec's calculations, the percentage of expenses incurred in 2001, 2002 and 2003 was 93.99% of total expenses. The difference between the expense percentages is not really significant.
+[9] The complex was entered on the assessment roll of the Ville de Portneuf on February 28, 2003, for 2003. The lot was assessed at $10,410 at that time and the building at $84,000. For 2004, the value of the lot was $23,200, and the value of the building was still $84,000.
+[10] For insurance purposes, the value of the building (without the lot) was as follows on the following dates:
+2001 (November)
+$100,000
+2002 (August)
+$106,000
+2003 (August)
+$106,000
+2004 (August)
+$112,000
+2004 (September)
+$130,000
+2005 (August)
+$137,000
+2006 (August)
+$175,000
+[11] At the hearing, the appellant submitted a list of work that had to be done, as of January 1, 2004, in order to finish the construction of the complex. The list included the following work:
+− Staircase to the second floor, banister and rungs
+− Finishing under the stairs
+− Constructing a built-in bookshelf in the wall facing the staircase
+− Construction of storage under the stairs, plastering and painting
+− Replacing the support post of the cantilevered floor with a permanent pillar.
+− Finishing the ceiling in the staircase
+− Finishing the ceiling in the foyer and painting the ceiling
+− Finishing the floating floor in the foyer
+− A half wall at the top of the stair enclosure
+− Dividing wall in the office with four sliding doors to the bedroom and bathroom
+− Painting the second floor: bedroom, bathroom, office, billiard room
+− Framing door and window openings
+− Installing mouldings
+− Paint finish
+− Second floor flooring, floating hardwood
+− Finishing the billiard room: cherry wood half-wall panelling, lighting (drop ceiling for a billiard lamp); floating floor
+[12] The appellant also explained that, during the construction of the complex, the billiard room was used as a workshop for working on the second floor and that the stairs, railing, banister, low wall, bookshelf and painting could not be finished before the piano and the billiard table were moved. The appellant specified that the temporary post supporting the cantilevered floor of the second floor was replaced by a finishing pillar and that, after that, the second-floor ceiling was plastered and painted and the foyer floor was completed.
+[13] According to the appellant, the materials were largely purchased, stored and used as needed based on his availability.
+[14] Subsection 256(3) of the ETA sets out the time limit within which the individual must apply for his or her tax rebate. Section 256(3) reads as follows:
+256(3) A rebate under this section in respect of a residential complex shall not be paid to an individual unless the individual files an application for the rebate on or before
+(a) the day (in this subsection referred to as the “due date”) that is two years after the earliest of
+(i) the day that is two years after the day on which the complex is first occupied as described in subparagraph (2)(d)(i),
+(ii) the day on which ownership is transferred as described in subparagraph (2)(d)(ii), and
+(iii) the day on which construction or substantial renovation of the complex is substantially completed; or
+(b) any day after the due date that the Minister may allow.
+[15] There is no doubt in this case that the relevant provision is subparagraph 256(3)(a)(iii). The appellant filed his application within two (2) years of the date that he had moved in, while the time limit prescribed by the ETA is within two (2) years after the day on which construction of the complex is substantially completed. The appellant never agreed that January 1, 2004, was the relevant date for the purposes of calculating the time limit for filing the application. The appellant argues that he did not move in until July 14, 2014, because the complex was not suitable for habitation before that date, that is, the complex could not be used for the purpose for which it had been constructed.
+[16] The expression "substantially completed" is not defined in the ETA, and we must be guided by the interpretation that a reasonable person would give it. Over the years, the case law has applied the criterion of 90% of work completed to determine when the construction was substantially completed. This interpretation is generous and very favourable to taxpayers because 90% is normally used to define the expression "all or substantially all" found often in the ETA. The ETA requires only that the construction of the complex be substantially completed, not that all or substantially all of it be completed.
+[17] In a recent decision in Claude Mercure v. The Queen, 2013 FCA 102, the Federal Court of Appeal considered that the construction of the taxpayer's house was substantially completed in December 2006, because at that time, the taxpayer had incurred 97.3% of the total expenses related to the construction of the house, even though the taxpayer had stored a certain amount of the materials in his garage. The Court wrote the following at paragraph 22:
+. . . While Mercure did store a certain amount of supplies in his garage, as he argued before this Court, the high percentage of the expenses incurred by the end of 2006 leaves no room for doubt that the construction of the house was substantially completed in December 2006. . . .
+[18] The appellant's situation is very similar to that of Mr. Mercure in the decision cited in the previous paragraph. By January 1, 2004, the appellant had incurred no less than 93.04% of the total expenses related to the construction of the house. By December 31, 2002, over 87% of total construction expenses had already been incurred.
+[19] The volume of construction work completed in 2001, 2002 and 2003 tends to show that, by January 1, 2004, the appellant's house was habitable or on the verge of being habitable. The appellant put his Donnacona residence up for sale in March 2004, and moved in to his new residence on July 14, 2004. Let us recall that, in 2004, the appellant was still working as a consultant and that he could not spend all of his time on the construction of the house.
+[20] The list of work to be completed as of January 1, 2004, as provided by the appellant, indicates that it was essentially the second floor (office with built-in bookshelf and billiard room) that had to be finished. The appellant also admitted that the work done in 2004 was almost exclusively done on the complex’s shed and on finishing a workshop.
+[21] For these reasons, the appeal is dismissed because the application was filed after the expiry of the time limit prescribed by the ETA.
+Signed at Ottawa, Canada, this 15th day of May 2014.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 17th day of July 2014
+Margarita Gorbounova, Translator
+CITATION
+2014TCC155
+COURT FILE NO.:
+2012-1891(GST)I
+STYLE OF CAUSE:
+ANDRÉ LÉGARÉ AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+February 3, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+May 15, 2014
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Pier-Olivier Julien
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

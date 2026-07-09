@@ -1,0 +1,195 @@
+---
+title: "O'Connor c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25809/index.do"
+last_modified: "2004-03-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 217"
+citation2: ""
+neutral_citation: "2004 CCI 217"
+decision_date: "2004-03-16"
+language: "fr"
+item_id: "25809"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3885
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:42:08.956000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "57b8f72190d2425d9a4dd21e878f074440936767a6e3a8132a2f7d391a98889c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# O'Connor c. La Reine
+
+- Citation: 2004 CCI 217
+- Decision date: 2004-03-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3885, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+O'Connor c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-16
+Référence neutre
+2004 CCI 217
+Numéro de dossier
+2002-4586(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4586(IT)I
+ENTRE :
+DAVID O’CONNOR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+DIANNE STEPHANIE O’CONNOR,
+partie jointe.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 17 décembre 2003 à Toronto (Ontario)
+Par : L’honorable E. A. Bowie, juge
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Jason J. Wakely
+Pour la partie jointe :
+Dianne Stephanie O’Connor
+____________________________________________________________________
+DÉCISIONS ET JUGEMENT MODIFIÉS
+Par ordonnance rendue le 14 août 2003, Dianne Stephanie O’Connor a été jointe aux appels interjetés par David O’Connor, aux fins des décisions relatives aux questions suivantes :
+1. Les sommes payées par David O’Connor à Dianne O’Connor l’ont‑elles été en vertu d’un accord écrit?
+2. Les sommes payées par David O’Connor à Dianne Stephanie O’Connor sont‑elles déductibles du revenu de M. O’Connor pour ses années d’imposition 1997, 1998, 1999 et 2000, conformément à l’alinéa 60b) et aux paragraphes 60.1(1) et 60.1(2) de la Loi de l’impôt sur le revenu (la « Loi »)?
+3. Les sommes payées par David O’Connor à Dianne Stephanie O’Connor devraient‑elles être incluses dans le calcul du revenu de cette dernière pour ses années d’imposition 1999 et 2000, conformément à l’article 56 de la Loi?
+L’appelant, la partie jointe et l’avocat de l’intimée ayant été entendus;
+les réponses suivantes sont données aux questions :
+1. Certaines sommes payées après décembre 1997 peuvent l’avoir été en vertu d’un accord écrit.
+2. Aucune somme payée par David O’Connor à Dianne Stephanie O’Connor n’est déductible dans le calcul du revenu de M. O’Connor pour les années 1997, 1998, 1999 ou 2000.
+3. Aucune somme payée par David O’Connor à Dianne Stephanie O’Connor ne devrait être incluse dans le calcul du revenu de cette dernière pour les années 1997, 1998, 1999 ou 2000.
+L’appel interjeté à l’encontre de la cotisation relative à l’impôt qui a été établie en vertu de la Loi pour l’année d’imposition 1999 est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour qu’il la réexamine et en établisse une nouvelle en tenant compte du fait que l’appelant a droit aux crédits pour frais de scolarité et pour études qui lui ont été transférés et qui doivent être calculés conformément aux faits exposés aux alinéas 7(i) et (j) de la réponse modifiée à l’avis d’appel qui a été déposée en l’espèce.
+Les appels interjetés à l’encontre des cotisations relatives à l’impôt qui ont été établies en vertu de la Loi pour les années d’imposition 1997, 1998 et 2000 sont rejetés.
+Signé à Ottawa, Canada, ce 21e jour d’avril 2004.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 16e jour de décembre 2004.
+Jacques Deschênes, traducteur
+Référence : 2004CCI217
+Date : 20040421
+Dossier : 2002-4586(IT)I
+ENTRE :
+DAVID O’CONNOR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Bowie
+[1] Les présents appels interjetés suivant la procédure informelle visent des cotisations relatives à l’impôt qui ont été établies pour les années d’imposition 1997, 1998, 1999 et 2000. Selon ces cotisations, l’appelant n’avait pas droit aux déductions qu’il réclamait pour les années en question relativement aux pensions alimentaires qu’il avait versées pour subvenir aux besoins de ses enfants et de son épouse. Devant la Cour, il a limité ses demandes de déduction concernant les pensions alimentaires à 6 000 $ pour chacune des années en question, soit une somme de 500 $ versée chaque mois pour subvenir aux besoins de son fils cadet. Il réclame aussi les crédits pour frais de scolarité et pour études visés aux articles 118.5 et 118.6 de la Loi de l’impôt sur le revenu (la « Loi ») qui lui ont été transférés par ses enfants en vertu de l’article 118.9 pour l’année d’imposition 1997.
+[2] À la demande du ministre, l’ancienne épouse de l’appelant, Dianne Stephanie O’Connor, a été jointe aux appels en vertu de l’article 174 de la Loi. Je dois répondre aux questions suivantes :
+1. Les sommes payées par David O’Connor à Dianne O’Connor l’ont‑elles été en vertu d’un accord écrit?
+2. Les sommes payées par David O’Connor à Dianne Stephanie O’Connor sont‑elles déductibles du revenu de M. O’Connor pour ses années d’imposition 1997, 1998, 1999 et 2000, conformément à l’alinéa 60b) et aux paragraphes 60.1(1) et 60.1(2) de la Loi?
+3. Les sommes payées par David O’Connor à Dianne Stephanie O’Connor devraient‑elles être incluses dans le calcul du revenu de cette dernière pour ses années d’imposition 1999 et 2000, conformément à l’article 56 de la Loi?
+[3] Au cours de l’audience, l’avocat de l’intimée a reconnu que l’appelant avait droit aux crédits pour frais de scolarité et pour études qu’il avait demandés et qui doivent être calculés conformément aux hypothèses de fait exposées par le ministre aux alinéas 7(i) et (j) de la réponse modifiée à l’avis d’appel qui a été déposée. Dianne Stephanie O’Connor n’a pas contesté ce droit. L’appel sera donc accueilli en ce qui concerne l’année 1997, à tout le moins sur cette question.
+[4] Examinons maintenant le point qui est contesté en l’espèce, soit le droit de l’appelant de déduire, dans le calcul de son revenu pour chacune des années faisant l’objet du présent appel, un montant de 6 000 $ à titre de « pension alimentaire pour enfants », conformément à l’alinéa 60b) de la Loi. Cette disposition prévoit ce qui suit :
+60 Peuvent être déduites dans le calcul du revenu d’un contribuable pour une année d’imposition les sommes suivantes qui sont appropriées :
+[...]
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l’année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement et avant la fin de l’année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d’imposition antérieure;
+[5] M. O’Connor et son épouse se sont séparés en août 1996. Leurs deux enfants étaient âgés de 17 et de 20 ans à l’époque. M. O’Connor a versé certaines sommes à Dianne O’Connor pour subvenir aux besoins de leur fils cadet après leur séparation. Il a aussi versé de l’argent directement à ce dernier pour la même raison. La preuve de M. O’Connor et de Mme O’Connor diffère sur le montant de ces paiements, mais je ne pense pas qu’il soit nécessaire de déterminer ce montant. À mon avis, aucun des paiements faits par l’appelant ne peut être déduit de son revenu en vertu des dispositions de la Loi. En effet, il est bien établi qu’une somme payée et reçue après 1996 pour subvenir aux besoins d’un enfant n’est déductible du revenu du payeur que si elle est visée par la définition de « pension alimentaire » contenue au paragraphe 56.1(4) de la Loi. Cette disposition prévoit ce qui suit :
+56.1(4) Les définitions qui suivent s’appliquent au présent article et à l’article 56.
+[...]
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui‑ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex‑époux ou l’ancien conjoint de fait du payeur et vit séparé de celui‑ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+Cette définition s’applique également aux articles 56 et 60 de la Loi.
+[6] Il faut, pour qu’il y ait une pension alimentaire, qu’un tribunal compétent ait rendu une ordonnance ou qu’un accord écrit ait été signé. Or, il n’y a rien dans la preuve qui semble indiquer qu’un tribunal ou une cour ait à quelque moment que ce soit rendu une ordonnance enjoignant à M. O’Connor de faire les paiements en cause en l’espèce. Il faut donc se demander si ces paiements ont été faits en vertu d’un accord écrit.
+[7] M. O’Connor a fondé ses déductions sur le contrat de mariage qu’il a passé avec Mme O’Connor le 30 octobre 1991[1]. Comme ce contrat renferme des stipulations devant s’appliquer en cas de rupture, l’appelant le qualifie de contrat de mariage et d’accord de séparation. Ce document prévoit ce qui suit au sujet des besoins des enfants en cas de séparation des époux :
+[TRADUCTION]
+9b) Si les parties se séparent et ne peuvent s’entendre sur la contribution de chacune, la question du montant que chaque partie devra payer à ce moment pour les besoins des enfants et les autres frais sera soumise à un arbitre qui procédera à un arbitrage en conformité avec la Loi sur l’arbitrage de l’Ontario et dont la décision sera sans appel. Les parties conviennent de se soumettre à une telle procédure d’arbitrage. L’arbitre tiendra compte, entre autres facteurs, des stipulations du présent contrat concernant la contribution des époux aux dépenses du ménage avant la séparation, du fait que l’époux assume trois quarts (¾) de ces dépenses et l’épouse, un quart (¼) de celles‑ci, et du fait que, à la date du présent contrat, ces dépenses totalisent environ 8 000 $ par mois et devraient augmenter ou baisser en fonction de l’indice des prix à la consommation (tous les articles – région de Toronto) publié par Statistique Canada.
+c) La pension alimentaire pour enfants et le soutien familial dont il est question dans le présent paragraphe sont payables jusqu’à ce que l’un des événements suivants se produise :
+(i) chaque enfant cesse de résider principalement avec ses deux parents ou avec l’un d’eux;
+(ii) chaque enfant atteint l’âge de 19 ans et cesse de suivre des cours à temps plein dans un établissement d’enseignement;
+(iii) chaque enfant atteint l’âge de 23 ans;
+(iv) l’enfant se marie;
+(v) l’enfant décède.
+[8] M. O’Connor soutient que cette obligation alimentaire est un accord écrit qui satisfait à la définition de « pension alimentaire ». Cet accord ne précise cependant pas le montant qui devra être payé, mais prévoit plutôt que ce montant sera fixé ultérieurement par les parties ou par un arbitre. Il ne prévoit pas non plus de formule mathématique reposant sur des critères objectifs qui doit être utilisée pour déterminer le montant précis de l’obligation, bien qu’il décrive certains des facteurs que l’arbitre doit prendre en considération à cette fin. M. O’Connor fait valoir qu’il a remis à Mme O’Connor des chèques mensuels de 500 $ pour subvenir aux besoins de leur fils cadet après la séparation et que, en acceptant et en encaissant ces chèques, cette dernière a reconnu par écrit que ce montant était celui auquel elle avait droit à cette fin en vertu du contrat de mariage.
+[9] Je ne pense pas que ces chèques ont eu un tel effet. La même question s’est posée dans Grant c. Canada[2]. À la suite de la séparation mais avant tout accord écrit ou ordonnance judiciaire, M. Grant a remis chaque mois un chèque de 1 000 $ à son épouse dont il était séparé pour subvenir aux besoins de leurs enfants. Le juge Mogan a rejeté la prétention selon laquelle, en encaissant ces chèques, Mme Grant a conclu un accord écrit fixant à 1 000 $ par mois la pension alimentaire qui devait être versée par son mari pour les enfants. Je suis d’accord avec le juge Mogan quand il dit que le fait que les chèques ont été encaissés ne signifie pas qu’un accord a été conclu. Une mère subvenant aux besoins de ses enfants dans de telles circonstances aurait probablement besoin de l’argent, et l’on pourrait s’attendre à ce qu’elle encaisse les chèques même si elle estime que leur montant n’est pas assez élevé. Dans Grant, le juge Mogan a déduit des chèques et de l’[TRADUCTION] « accord qui prévoit un versement de 1 000 $ par mois » dont il était question dans une lettre subséquente envoyée par l’avocat de Mme Grant à celui de M. Grant qu’il existait un accord écrit entre les parties. Or, il n’y a pas de lettre ou de document semblable en l’espèce, et la Cour ne peut conclure qu’il existe un accord écrit entre les parties.
+[10] Le procès‑verbal de transaction signé par M. et Mme O’Connor pour mettre fin à la procédure entreprise devant la Cour de l’Ontario (Division générale) en 1997 afin de régler la question du divorce et des mesures accessoires est le seul autre document important qui m’a été présenté. Ce document prévoyait que M. O’Connor devait verser rétroactivement une somme de 6 000 $ au titre de la pension alimentaire pour enfants et payer ensuite 500 $ par mois pour leur fils cadet. Le document renferme également des dispositions complexes sur le paiement de certaines dépenses par le mari et sur l’obligation de l’épouse de verser une pension alimentaire si leur enfant décidait de vivre avec son père. La copie de ce document qui a été produite au procès et qui est devenue la pièce A‑2 est datée du 1er décembre 1997 et n’est pas signée. M. et Mme O’Connor ont tous deux affirmé cependant qu’ils avaient signé l’original. Comme le document ne prévoit rien au sujet d’une pension alimentaire pour l’un ou l’autre des époux, tous les paiements de pension alimentaire qui ont été faits en vertu de ce document doivent donc être pour les enfants. Le document ayant pris effet après le 30 avril 1997, aucune pension alimentaire qui a été payée pour les enfants en vertu de ce document ne peut être déduite.
+[11] M. O’Connor a fait valoir devant la Cour que le contrat de mariage était devenu un accord de séparation lorsque lui et son épouse se sont séparés en août 1996, et qu’ils ont convenu de vive voix à ce moment‑là qu’il devait payer une somme de 500 $ par mois pour subvenir aux besoins de leur fils cadet. Selon lui, cet accord renforce l’entente écrite en en faisant réellement un accord écrit prévoyant le paiement d’une somme de 500 $ chaque mois. Cet argument est insoutenable. Il ressort clairement de la décision rendue dans Grant et de nombreux jugements antérieurs que le montant de la pension qui doit être payé doit être précisé par écrit pour qu’il y ait un accord écrit prévoyant le paiement d’une pension alimentaire pour enfants. Ce principe a récemment été confirmé par la Cour d’appel fédérale dans l’arrêt Milliron c. Canada[3].
+[12] La Cour doit donner les réponses suivantes aux questions qui lui ont été soumises en vertu de l’article 174 :
+1. Certaines sommes payées après décembre 1997 peuvent l’avoir été en vertu d’un accord écrit.
+2. Aucune somme payée par David O’Connor à Dianne Stephanie O’Connor n’est déductible dans le calcul du revenu de M. O’Connor pour les années 1997, 1998, 1999 ou 2000.
+3. Aucune somme payée par David O’Connor à Dianne Stephanie O’Connor ne devrait être incluse dans le calcul du revenu de cette dernière pour les années 1997, 1998, 1999 ou 2000.
+[13] L’appel relatif à l’année 1999 est accueilli seulement en ce qui concerne la question sur laquelle les parties se sont entendues, conformément à ce qui a été indiqué précédemment. Les appels pour les années 1997, 1998 et 2000 sont rejetés.
+Signé à Ottawa, Canada, ce 21e jour d’avril 2004.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 16e jour de décembre 2004.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI217
+NUMÉRO DU DOSSIER DE LA COUR :
+2002-4586(IT)I
+INTITULÉ :
+David O’Connor c. Sa Majesté la Reine
+et Dianne Stephanie O’Connor
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 17 décembre 2003
+MOTIFS DU JUGEMENT MODIFIÉ :
+L’honorable E. A. Bowie, juge
+DATE DU JUGEMENT MODIFIÉ :
+Le 21 avril 2004
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Jason J. Wakely
+Pour la partie jointe :
+Dianne Stephanie O’Connor
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimée :
+Morris Rosenberg
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1.
+[2] [2001] A.C.I. no 180.
+[3] 2003 CAF 283.

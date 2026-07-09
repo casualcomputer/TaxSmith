@@ -1,0 +1,184 @@
+---
+title: "Lafontaine c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28605/index.do"
+last_modified: "2008-04-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 191"
+citation2: ""
+neutral_citation: "2008 CCI 191"
+decision_date: "2008-04-16"
+language: "fr"
+item_id: "28605"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1105
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:53:35.475000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3c8d7eecf02ad750ecbf6c13ea5a3bb672ca4689d86a53f9b63c34186524263b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lafontaine c. La Reine
+
+- Citation: 2008 CCI 191
+- Decision date: 2008-04-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1105, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lafontaine c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-16
+Référence neutre
+2008 CCI 191
+Numéro de dossier
+2007-2475(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2475(IT)I
+ENTRE :
+GINETTE LAFONTAINE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+GASTON GAUTHIER,
+intervenant.
+____________________________________________________________________
+Appel entendu le 12 mars, à Sherbrooke (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l’appelante :
+Me Pierre G. Picard
+Avocat de l’intimée :
+Me Philippe Dupuis
+Pour l’intervenant :
+L’intervenant lui-même
+____________________________________________________________________
+JUGEMENT
+L’appel des déterminations par lesquelles le ministre du Revenu national (le « ministre ») a refusé à l’appelante la prestation fiscale canadienne pour enfants pour les périodes de juillet 2005 à juin 2006 et de juillet 2006 à octobre 2006, pour les années de base 2004 et 2005, et le crédit pour la taxe sur les produits et services de l’appelante pour les années d’imposition 2004 et 2005 est accueilli; conséquemment, les déterminations sont déférées au ministre pour nouvel examen et nouvelles déterminations en tenant compte du fait que l’appelante était le particulier admissible au sens de l’article 122.6 de la Loi de l’impôt sur le revenu, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 16e jour d’avril 2008.
+« Alain Tardif »
+Juge Tardif
+Référence : 2008CCI191
+Date : 20080416
+Dossier : 2007-2475(IT)I
+ENTRE :
+GINETTE LAFONTAINE,
+appelante,
+Et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+GASTON GAUTHIER,
+intervenant.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel d’une détermination qui date du 20 novembre 2006 aux termes de laquelle le ministre du Revenu national (le « ministre ») a refusé à l’appelante la prestation fiscale canadienne pour enfants pour les périodes de juillet 2005 à juin 2006 et de juillet 2006 à octobre 2006. Le ministre a déterminé que les paiements reçus en trop s’élevaient à 2 950 $ pour l’année de base 2004 et à 1 066,64 $ pour l’année de base 2005.
+[2] Le 27 octobre 2006, le ministre révisait également le crédit pour la taxe sur les produits et services de l’appelant, pour les périodes de juillet 2005 à avril 2006 et de juillet 2006 à octobre 2006; il a déterminé que l’appelante n’avait pas droit au montant de 347 $ pour l’année d’imposition 2004 et de 177 $ pour l’année d’imposition 2005.
+[3] La décision dont il est fait appel est celle du 3 avril 2007. Dans sa décision, le ministre ratifiait les nouvelles déterminations du 20 novembre 2006 pour les années de base 2004 et 2005 et les nouvelles déterminations du 27 octobre 2006 pour les années d’imposition 2004 et 2005.
+[4] Voici les hypothèses sur lesquelles le ministre s’est appuyé pour rendre ses déterminations :
+a) L’appelante est la mère de Pascal-Dévid Lafontaine né le 27 mars 1989;
+b) M. Gaston Gauthier est le père de Pascal-Dévid;
+c) Au cours des périodes en litige, Pascal-Dévid résidait chez son père;
+d) Le Ministre a déterminé que M. Gaston Gauthier était le particulier qui assurait principalement le soin et l’éducation de Pascal-Dévid pendant les périodes en litige.
+[5] La Cour doit décider si les affirmations suivantes sont véridiques :
+a) Le Ministre a correctement révisé les montants des prestations fiscales pour enfants de l’appelante et déterminé que les montants reçus en trop s’élevaient à 2 950 $ pour l’année de base 2004 et à 1 066,64 $ pour l’année de base 2005;
+b) Le Ministre a correctement révisé le crédit pour taxe sur les produits et services de l’appelante et déterminé que les montants reçus en trop s’élevaient à 347 $ pour l’année d’imposition 2004 et à 177 $ pour l’année d’imposition 2005.
+[6] Ginette Lafontaine a longuement témoigné. Elle a d’abord affirmé être la mère de Pascal-Dévid Joseph Lafontaine, né le 27 mars 1989 avec aucune inscription au certificat de sa naissance quant au nom du père.
+[7] Elle a aussi précisé que le père biologique était l’intervenant, Gaston Gauthier, avec qui elle avait d’ailleurs eu un autre garçon nommé Simon. Elle a expliqué avoir cohabité avec ce dernier durant trois ou quatre années, et qu’une première séparation avait eu lieu au moment où elle était enceinte de Pascal-Dévid.
+[8] Un peu plus tard, elle a repris la cohabitation avec Gaston Gauthier, mais pour une courte période, à la suite de quoi il n’y a plus jamais eu cohabitation.
+[9] Elle a expliqué qu’un diagnostic de diabète grave a été établi à l’égard de Pascal-Dévid dès un très jeune âge, soit environ deux ans et demie. Il en découlant que Pascal-Dévid devait faire l’objet d’une attention constante et qu’il avait besoin de soins sur une base de 24 heures.
+[10] Pour mitiger les effets de sa maladie, le jeune Pascal-Dévid devait recevoir des injections sept jours par semaine. Du début, il devait se rendre à l’hôpital toutes les semaines, après quoi, à toutes les deux semaines et, finalement, à toutes les trois semaines.
+[11] La santé de Pascal-Dévid était très préoccupante. Il avait besoin de très nombreux soins et il fallait lui porter une attention de très haut niveau, et ce, au point où il fallait lui donner jusqu’à quatre injections par jour.
+[12] Durant toutes ces années, (jeunesse et adolescence) le père de Pascal‑Dévid n’a jamais prêté son aide et n’a jamais vraiment manifesté de préoccupation à l’égard de la santé de son fils.
+[13] Madame Lafontaine a affirmé n’avoir eu aucun contact avec Gaston Gauthier, sauf à une occasion où des accusations sérieuses circulaient en rapport avec le comportement de Pascal-Dévid.
+[14] Madame Lafontaine a fourni de nombreux détails sur les soins et l’éducation de Pascal-Dévid. Elle a expliqué avoir toujours été très préoccupée par le suivi médical et avoir dépensé beaucoup d’énergie afin de permettre à son fils de fonctionner de manière normale.
+[15] Manifestement, l’appelante consacrait une partie importante de sa disponibilité et de ses énergies au mieux-être de Pascal-Dévid. Elle a affirmé qu’elle fournissait de façon hebdomadaire un montant d’environ 35 $ à 40 $ à son fils afin qu’il puisse manger à la cafétéria et avoir une collation, le tout étant essentiel à sa santé. L’appelante payait également l’achat de protéines, les frais d’inscription dans un gymnase, ses vêtements, le matériel scolaire, les fournitures scolaires, et ainsi de suite. Elle s’intéressait également au rendement scolaire de Pascal-Dévid.
+[16] Pascal-Dévid avait une relation privilégiée avec son grand‑père. Celui‑ci le conduisait de façon quotidienne au travail qu’il occupait dans un dépanneur. Pascal-Dévid profitait également du bateau de son grand-père, au point d’en faire, à un moment donné, son quartier général.
+[17] L’appelante a expliqué qu’au début des périodes en litige, son fils avait exprimé le désir de se rapprocher de son père. Elle a affirmé qu’elle ne s’était pas opposée à ce souhait de son fils, bien au contraire. Selon l’appelante, son fils voulait mieux connaître son père ainsi que son frère qui était demeuré avec lui.
+[18] Pascal-Dévid a ainsi réussi à obtenir une chambre avec un futon et une commode dans le logement occupé par son père.
+[19] Selon monsieur Gauthier, Pascal-Dévid s’y est établi, et ce, durant une période de près de deux ans. À l’appui de ses prétentions, il a précisé que son loyer était situé à proximité de l’école de son fils.
+[20] À cet égard, l’appelante de son côté n’a pas nié le fait que son fils habitait chez son père de façon sporadique, mais elle a affirmé que son fils passait une partie de son temps chez son père, chez elle, chez des amis et, à l’occasion, chez son grand-père.
+[21] Dans son récit, l’appelante était explicite et donnait de nombreux détails démontrant un intérêt véritablement quotidien, mais aussi une importante préoccupation quant au bien-être et à l’équilibre de son fils lourdement handicapé par son problème de santé.
+[22] De son côté, monsieur Gauthier a affirmé que son fils s’était présenté un bon matin, au moment où il prenait possession d’un nouveau logement; Pascal‑Dévid lui aurait dit vouloir passer plus de temps avec lui pour mieux le connaître ainsi que pour se rapprocher de son frère qui habitait dans la même demeure.
+[23] Monsieur Gauthier n’a pas été très explicite et a, à quelques reprises, mentionné que Pascal-Dévid était un solitaire en mesure de prendre ses propres décisions. Monsieur Gauthier exploitait une entreprise d’aménagement paysager et il confiait à son fils certaines tâches, notamment la coupe du gazon.
+[24] Il a soutenu avoir hébergé son fils durant une année environ. Après cela, comme la situation de Pascal‑Dévid semblait devenir permanente, il a entrepris des démarches pour obtenir des prestations fiscales, ce qu’il a fait sans en aviser la mère de Pascal‑Dévid.
+[25] Il a aussi fait des démarches pour changer les différentes adresses sur les documents relatifs à l’enfant, toujours sans en informer la mère. Il a notamment demandé à l’école que Pascal-Dévid fréquentait de changer l’adresse de ce dernier en se présentant mensongèrement comme le tuteur de l’enfant.
+[26] Appelé à fournir des précisions sur son témoignage, monsieur Gauthier a essentiellement fait des affirmations générales et souvent confuses. Par exemple, lorsque la Cour a posé une question concernant les écarts entre deux bulletins, le père est manifestement devenu mal à l’aise.
+[27] De façon générale, la mère a toujours agi de façon pro-active avec son fils, alors que le père a plutôt eu une attitude et un comportement essentiellement passifs.
+[28] D’autre part, et c’est là un élément déterminant qui est d’ailleurs validé par la prépondérance de la preuve tirée des explications du père et de la mère, Pascal-Dévid n’a jamais vraiment quitté la résidence maternelle; il a toujours laissé à la résidence de sa mère tous ses effets personnels et, plus spécifiquement, les différents objets ayant trait à ses passe-temps, ses sports, par exemple sa ligne de pêche, sa mobylette, et ainsi de suite.
+[29] À cet égard, j’ai tenté d’obtenir plus de renseignements de la part du père au sujet de la chambre aménagée pour Pascal-Dévid. Il a expliqué que, dès le départ, il avait fait l’achat d’un futon, et, un peu plus tard, d’une commode. En d’autres termes, il avait acheté le strict minimum pour accueillir son fils.
+[30] À la lumière des explications nombreuses et fort détaillées de l’appelante, il appert que Pascal-Dévid a vécu la plus grande partie de son enfance avec sa mère et qu’il n’a eu que très peu de contacts avec son père, sinon aucun.
+[31] À l’adolescence, il était naturel que Pascal‑Dévid veuille connaître son père et se rapprocher de son frère. Le père a accueilli son fils; il lui a aménagé un espace et fourni du travail dans le cadre de l’entreprise qu’il exploitait.
+[32] Ces éléments sont-ils suffisants pour conclure que le père était le parent admissible?
+[33] La preuve a révélé que la relation père-fils était une relation d’adultes dans le sens où le père considérait son fils mûr, responsable et en mesure de s’assumer totalement. L’appelante, elle, se préoccupait de sa santé.
+[34] Qu’un enfant mineur qui n’a à peu près pas connu son père, ni son frère, manifeste le besoin d’établir un lien avec eux est une démarche normale, légitime, voire même recommandable.
+[35] Un tel rapprochement signifie-t-il l’abandon automatique de son lieu de résidence? L’appelante a décrit toutes les choses et les biens personnels laissés chez elle par son fils qui retournait régulièrement à la résidence maternelle.
+[36] Du côté du père, il a certes aménagé une chambre pour recevoir son fils. Il a indiqué avec une fierté avoir acheté un futon et un bureau à son fils. Comme s’il s’était agi de quelque chose d’exceptionnel et remarquable. Quelle générosité, quel accueil! Cette étonnante générosité devrait-elle lui mériter le statut de parent admissible? Pourquoi a‑t‑il mensongèrement affirmé être le tuteur de l’enfant pour obtenir le changement d’adresse? Pourquoi a-t-il procédé à ce changement à l’insu de l’appelante? La réponse est fort simple. Jamais il n’a fourni de soutien à l’appelante pendant les moments extrêmement difficiles qu’elle a dû connaître à cause de l’état de santé de Pascal‑Dévid.
+[37] Il voulait laisser voir à son fils qu’il était un père accueillant et sans reproche, mais non totalement désintéressé puisqu’il a fait sournoisement une demande pour obtenir les prestations fiscales, sans doute pour payer le futon et la commode.
+[38] La prépondérance de la preuve est à l’effet que l’enfant, pour les périodes visées par l’appel, disposait d’un certain nombre d’endroits où dormir. Adolescent, il disposait d’une grande liberté ce qui rend l’exercice visant à déterminer la question de la résidence difficile.
+[39] Cependant, il a été établi que Pascal‑Dévid avait laissé tous ses effets personnels chez sa mère. Il s’agit là d’un élément déterminant quant à l’identification de la résidence permanente.
+[40] De plus, le fait que le père a effectué toutes les démarches quant au changement d’adresse à l’insu de la mère de Pascal‑Dévid est révélateur. Il ne s’agissait pas d’un enfant, mais d’un adolescent.
+[41] Si ces démarches avaient été entreprises dans la transparence, il est probable que le présent litige n’aurait jamais eu lieu puisque toutes les personnes concernées se seraient entendues sur le choix de la véritable résidence.
+[42] Pour toutes ces raisons, je conclus que la mère a toujours été le parent admissible, et ce, jusqu’à ce que l’enfant atteigne l’âge de la majorité.
+Signé à Ottawa, Canada, ce 16e jour d’avril 2008.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2008CCI191
+No DU DOSSIER DE LA COUR :
+2007-2475(IT)I
+INTITULÉ DE LA CAUSE :
+Ginette Lafontaine c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L’AUDIENCE :
+le 12 mars 2008
+MOTIFS DU JUGEMENT PAR :
+l’honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 16 avril 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Pierre G. Picard
+Avocat de l’intimée :
+Me Philippe Dupuis
+Pour l’intervenant :
+L’intervenant lui-même
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Firme :
+Ville :
+Me Pierre G. Picard
+Picard & Beaucage
+Lac‑Mégantic (Québec)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

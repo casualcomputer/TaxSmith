@@ -1,0 +1,120 @@
+Title: Monton v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26837/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-190-26837-monton-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-03-16
+
+# Monton v. The Queen
+
+- Citation: 2005 CCI 190
+- Decision date: 2005-03-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 708, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Monton v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-16
+Référence neutre
+2005 CCI 190
+Numéro de dossier
+2004-845(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-845(IT)I
+ENTRE :
+RICHARD MONTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 15 février 2005 à Montréal (Québec)
+Devant : l'honorable juge Louise Lamarre Proulx
+Comparutions :
+Représentant de l'appelant :
+John Apissoghomian
+Avocat de l'intimée :
+Me Claude Lamoureux
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+JUGEMENT
+Les appels découlant des cotisations établies sous le régime de la Loi de l'impôt sur le revenu pour les années d'imposition 1996, 1997 et 1998 sont admis et les cotisations sont renvoyées au ministre du Revenu national pour qu'il les examine et en établisse de nouvelles, étant entendu que le revenu de l'appelant pour chacune des années 1996 à 1998 est de 14 000 $, conformément aux motifs de jugement ci-joints.
+Signé à Ottawa (Ontario), ce 16e jour de mars 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Traduction certifiée conforme
+ce 24e jour d'octobre 2005.
+Joanne Robert, traductrice
+Référence : 2005CCI190
+Date : 20050316
+Dossier : 2004-845(IT)I
+ENTRE :
+RICHARD MONTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'un appel interjeté selon la procédure informelle. La question en litige concerne le montant du revenu de l'appelant pour chacun des exercices 1996 à 1998.
+[2] Pour établir et confirmer les cotisations datées du 22 mai 2001, relativement aux années d'imposition 1996, 1997 et 1998, le ministre du Revenu national (le « ministre » ) s'est fondé sur les présomptions de fait suivantes, qui sont décrites au paragraphe 11 de la réponse à l'avis d'appel (la « réponse » ) :
+[TRADUCTION]
+Revenu net d'entreprise non déclaré
+a) L'appelant n'a pas produit de déclaration de revenus pour ses années d'imposition 1996, 1997 et 1998;
+b) Lors d'une conversation téléphonique tenue le 23 mai 2000 entre notre agent de la Section de l'identification et de l'observation et l'appelant, ce dernier a mentionné qu'il n'avait touché à titre de revenus d'entreprise que les montants approximatifs suivants pour les années d'imposition 1996, 1997 et 1998 :
+1996
+1997
+1998
+22 000 $
+24 000 $
+25 000 $
+c) Par conséquent, le 5 septembre 2000, le ministre a établi comme suit la cotisation de l'appelant, conformément au paragraphe 152(7) de la Loi :
+1996
+1997
+1998
+Revenus nets d'entreprise
+32 000 $
+34 000 $
+35 000 $
+d) Le 11 août 2000, en réponse aux cotisations datées du 5 septembre 2000 pour les années d'imposition 1996, 1997 et 1998, l'appelant a envoyé des déclarations de revenus en soutenant qu'il n'avait touché aucun revenu au cours des années en question;
+e) Tout à fait insatisfait des déclarations de revenus que l'appelant avait envoyées, l'agent de la Section de l'identification et de l'observation les a transmises pour examen à la Section de la vérification du ministre;
+f) En se fondant sur les renseignements disponibles, le vérificateur du ministre a établi le 22 mai 2001 de nouvelles cotisations concernant les années d'imposition 1996, 1997 et 1998 de l'appelant, réduisant les montants considérés comme les revenus d'entreprise de l'appelant de 10 000 $ pour chacune des années d'imposition en litige;
+g) Lors d'une conversation téléphonique tenue le 9 septembre 2002 entre l'agent de la Section des oppositions et le représentant de l'appelant, ce dernier a mentionné à l'agent que l'appelant n'avait touché aucun revenu pour les années d'imposition 1996, 1997 et 1998;
+h) Le 5 novembre 2002, le représentant de l'appelant a déposé auprès du ministre des déclarations de revenus modifiées pour 1996, 1997 et 1998, en déclarant les montants suivants à titre de revenus nets d'entreprise :
+1996
+1997
+1998
+Revenus nets d'entreprise
+10 000 $
+14 000 $
+12 000 $
+i) L'appelant n'a jamais fourni au ministre une preuve quelconque de revenu ou de dépenses pour les années en litige;
+[3] L'appelant et M. Jean-Claude Roy, l'agent du ministre, ont témoigné.
+[4] L'appelant a expliqué qu'au cours des années en question, il effectuait des rénovations domiciliaires. C'est au travail qu'il a reçu un appel téléphonique de l'agent du ministre pour s'enquérir de son revenu annuel. Ce fait est relaté à l'alinéa 11b) de la réponse.
+[5] À l'audience, l'appelant a juré que les sommes mentionnées à l'agent étaient un revenu brut et non un revenu net d'entreprise, comme l'agent le présumait.
+[6] C'est en se fondant sur le fait que les montants mentionnés par l'appelant au téléphone étaient des montants de revenu net d'entreprise qu'une cotisation a été établie à l'endroit de l'appelant. Par ailleurs, comme l'a expliqué M. Roy, l'agent des appels, un montant arbitraire de 10 000 $ a été ajouté.
+[7] L'appelant a dit qu'à l'époque, deux de ses trois enfants vivaient avec lui. Ses parents l'aidaient financièrement. Il touche maintenant des prestations d'aide sociale, car il s'est blessé au dos au travail.
+[8] M. Roy a dit s'être entretenu avec les parents de l'appelant et que ces derniers ont confirmé qu'ils fournissaient une maison à leur fils, ainsi qu'une aide financière. Ils ont évalué que leur aide globale équivalait à 12 000 $ par année.
+[9] M. Roy a aussi dit que le 23 décembre 1996, l'appelant a produit ses déclarations de revenus pour les années d'imposition 1993, 1994 et 1995. Les montants de revenu net d'entreprise déclarés étaient de 10 000 $, 11 000 $ et 6 800 $, respectivement.
+Conclusion
+[10] Je suis encline à croire l'appelant lorsqu'il dit que le revenu dont il parlait au vérificateur était un revenu brut et non un revenu net. Il serait surprenant qu'il ait dit à l'agent qui l'appelait qu'il avait doublé son revenu net d'entreprise par rapport aux années précédentes.
+[11] Il me faut tenir compte du fait que les parents de l'appelant fournissent à ce dernier et à sa famille une maison et une pension alimentaire. Les parents ont estimé que ces avantages ont une valeur pécuniaire de 12 000 $. J'ai tenu compte aussi du fait que l'appelant touche aujourd'hui des prestations d'aide sociale.
+[12] C'est donc dire que, d'une part, je ne suis pas persuadée que les chiffres donnés par l'appelant sont des montants de revenu net d'entreprise. Mais, d'autre part, il faut bien que l'appelant gagne un peu d'argent pour pouvoir subvenir à ses besoins ainsi qu'à ceux de sa famille. J'ai donc décidé que le montant de revenu, pour chacune des années en question, est sûrement aussi élevé que celui qui a été déclaré pour l'année 1997, soit 14 000 $.
+[13] Les appels sont admis et les cotisations sont renvoyées au ministre pour qu'il les examine et en établisse de nouvelles, étant entendu que le revenu de l'appelant pour chacune des années 1996 à 1998 est de 14 000 $.
+Signé à Ottawa (Ontario), ce 16e jour de mars 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Traduction certifiée conforme
+ce 24e jour d'octobre 2005.
+Joanne Robert, traductrice

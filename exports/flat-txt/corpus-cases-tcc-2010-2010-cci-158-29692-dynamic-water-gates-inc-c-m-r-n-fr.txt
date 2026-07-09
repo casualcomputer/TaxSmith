@@ -1,0 +1,182 @@
+Title: Dynamic Water Gates Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29692/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-158-29692-dynamic-water-gates-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2010-03-19
+
+# Dynamic Water Gates Inc. c. M.R.N.
+
+- Citation: 2010 CCI 158
+- Decision date: 2010-03-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6197, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dynamic Water Gates Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-19
+Référence neutre
+2010 CCI 158
+Numéro de dossier
+2009-1810(EI)
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2009­1810(EI)
+ENTRE :
+DYNAMIC WATER GATES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 30 novembre 2009, à Montréal (Québec)
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Représentant de l’appelante :
+M. Michael Quinn
+Avocat de l’intimé :
+Me Sarom Bahk
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance­emploi est rejeté et la décision du ministre du Revenu national est confirmée conformément aux motifs du jugement ci­joints.
+Signé à Ottawa, Canada, ce 19e jour de mars 2010.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 13e jour de mai 2010.
+Marie­Christine Gervais, traductrice
+Référence : 2010 CCI 158
+Date : 20100319
+Dossier : 2009­1810(EI)
+ENTRE :
+DYNAMIC WATER GATES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel d’une décision de l’intimé qui a conclu que le travail exécuté pour l’appelante par Christopher Quinn et Timothy Quinn (les « travailleurs ») pendant la période allant du 1er janvier 2007 au 31 décembre 2007 respectait les exigences d’un contrat de louage de services malgré l’existence d’un lien de dépendance entre les parties.
+[2] L’appelante était liée aux travailleurs au sens de la Loi de l’impôt sur le revenu pour les raisons suivantes :
+a) Michael Quinn était l’unique actionnaire de l’appelante;
+b) les travailleurs étaient les fils de Michael Quinn;
+c) les travailleurs étaient liés à une personne qui contrôlait l’appelante.
+[3] L’intimé a décidé que les travailleurs occupaient un emploi assurable auprès de l’appelante au sens de l’alinéa 5(1)a) de la Loi sur l’assurance­emploi, L.C. 1996, ch. 23, dans sa version modifiée (la « Loi ») pendant la période allant du 1er janvier 2007 au 31 décembre 2007, au motif que, malgré l’alinéa 5(2)i), l’appelante et les travailleurs auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance. Cette décision est fondée sur les hypothèses de fait suivantes qui sont énoncées au paragraphe 6 de la réponse à l’avis d’appel :
+[traduction]
+a) l’appelante a été constituée en société le 26 septembre 1988 (admise);
+b) l’appelante fabrique sur demande une variété de vannes de garde d’eau qui sont distribuées sur le marché par quelques distributeurs (admise);
+c) l’appelante a obtenu son contrat par soumission (niée tel que rédigée; c’était au moyen d’une proposition de prix);
+d) l’appelante vend ses produits un peu partout au pays (admise; en fait, les produits sont vendus tant au Canada qu’aux États­Unis);
+e) l’appelante a soutenu que quatre personnes travaillaient pour elle : l’actionnaire, les travailleurs (les fils de l’actionnaire) et un autre employé (niée; l’appelante n’avait que trois employés au cours de la période pertinente, soit l’actionnaire et les deux fils de celui­ci);
+f) l’appelante a produit pour la période en question des feuillets T4 se rapportant à trois personnes seulement, soit l’actionnaire et les deux fils de celui­ci, les travailleurs (admise);
+g) les heures d’ouverture de l’entreprise de l’appelante sont de 8 h à 17 h, du lundi au vendredi (admise);
+Christopher Quinn
+h) le travailleur avait investi 12 000 $ dans l’entreprise de l’appelante (admise);
+i) le travailleur a commencé à travailler pour l’appelante en 1999 (admise);
+j) il avait pour tâche de s’occuper des achats et des contrats avec les fournisseurs et de préparer les soumissions et les contrats avec les clients (admise);
+k) le travailleur travaillait à la fois sur la route et au bureau (admise);
+l) les heures de travail du travailleur étaient de 8 ou 9 h à 16 h ou 17 h du lundi au vendredi (admise; puisqu’il s’agit des heures d’ouverture générales de l’entreprise);
+m) le travailleur travaillait de 40 à 45 heures par semaine (admise; mais il travaillait aussi la fin de semaine);
+n) l’appelante ne contrôlait pas les heures de travail du travailleur (admise; mais le travailleur devait être disponible);
+o) le travailleur n’était pas tenu de se présenter au travail, mais il devait assister à une réunion hebdomadaire (admise; la réunion avait habituellement lieu le lundi matin);
+p) l’appelante planifiait et supervisait le travail du travailleur (niée);
+q) le travailleur était autorisé à acheter les produits en utilisant la marge de crédit de l’appelante jusqu’à concurrence de 100 000 $, mais l’appelante approuvait tous les achats (admise quant à la première partie et niée pour le reste, car seuls les achats dont le montant était plus élevé devaient être approuvés);
+r) le travailleur avait utilisé un véhicule automobile, un téléphone cellulaire et tout l’équipement nécessaire à l’exécution de ses tâches aux frais de l’appelante (admise; l’équipement comprenait un ordinateur portatif);
+s) l’appelante et le travailleur ont affirmé tous les deux que celui­ci avait reçu un salaire annuel de 50 000 $ et une prime de 15 000 $ (niée pour l’année 2007);
+t) cette rémunération avait été établie par l’appelante (admise);
+u) comme le montre le feuillet T4 fourni par l’appelante, le travailleur a déclaré un salaire de 34 999 $ en 2007, sans prime ou avantage imposable se rapportant à l’utilisation du véhicule automobile de l’appelante (admise; il a reçu une nouvelle cotisation à l’égard de l’avantage imposable);
+v) cette rémunération était raisonnable, eu égard aux heures travaillées, aux tâches et à l’expérience, et elle est semblable au salaire versé à l’actionnaire et à l’autre fils de celui­ci (niée; le travailleur méritait davantage, mais il était payé selon les moyens de l’appelante);
+w) le travailleur avait droit à trois semaines de vacances par année et à des congés de maladie payés (niée; il n’a jamais pris trois semaines de vacances);
+Timothy Quinn
+x) le travailleur avait investi 12 000 $ dans l’entreprise de l’appelante (admise);
+y) le travailleur a commencé à travailler pour l’appelante il y a trois ou quatre ans (admise);
+z) le travailleur était affecté au service de la production et était chargé d’assurer la qualité. Il devait également faire certains achats en plus de recevoir les marchandises et apprenait comment présenter les plans d’ingénierie aux sous­traitants (admise);
+aa) le travailleur travaillait à la fois sur la route et au bureau (admise; étant donné qu’il était responsable de la qualité des produits, le travailleur devait en surveiller l’installation);
+bb) les heures de travail du travailleur étaient de 8 ou 9 h à 16 ou 17 h du lundi au vendredi (admise; il s’agit des heures d’ouverture générales de l’entreprise);
+cc) le travailleur travaillait de 40 à 45 heures par semaine (admise; mais il travaillait également la fin de semaine et le soir à l’occasion);
+dd) l’appelante ne contrôlait pas les heures de travail du travailleur (admise);
+ee) le travailleur n’était pas tenu de se présenter au travail, mais il devait assister à une réunion hebdomadaire (admise);
+ff) l’appelante planifiait et surveillait le travail du travailleur (niée);
+gg) le travailleur avait utilisé un véhicule automobile, un téléphone cellulaire, un ordinateur portatif et tout l’équipement nécessaire à l’exécution de ses tâches aux frais de l’appelante (admise);
+hh) tant l’appelante que le travailleur ont affirmé que celui­ci avait touché un salaire annuel de 45 000 $ et une prime de 15 000 $ (niée; il a touché un salaire annuel de 30 000 $ seulement en 2007);
+ii) cette rémunération avait été établie par l’appelante (admise);
+jj) comme le montre le feuillet T4 fourni par l’appelante, le travailleur a déclaré un salaire de 30 000 $ en 2007, sans prime ou avantage imposable lié à l’utilisation du véhicule automobile de l’appelante (admise);
+kk) cette rémunération est raisonnable, eu égard aux heures travaillées, aux tâches et à l’expérience, et est semblable au salaire versé à l’actionnaire et à l’autre fils de celui­ci (admise);
+ll) le travailleur avait droit à deux semaines de vacances par année ainsi qu’à des congés de maladie payés (admise; cependant, en 2008, il a été absent de janvier à juin).
+[4] La Cour souligne que l’appelante a remis des feuillets T4 aux travailleurs pour l’année d’imposition 2007 et que ceux­ci ont déclaré la rémunération reçue au cours de cette année­là dans leurs déclarations de revenus. Ces faits confirmeraient normalement que les travailleurs étaient des employés de l’appelante selon un contrat de louage de services. La Cour souligne également que l’investissement de 12 000 $ effectué par chacun des travailleurs était un prêt consenti à l’appelante.
+[5] Le représentant de l’appelante et les travailleurs ont témoigné à l’audience et l’agente des appels de l’Agence du revenu du Canada a témoigné à l’appui de la position de l’intimé. L’agente des appels a déclaré qu’elle avait téléphoné à l’appelante le 27 janvier 2009 afin d’obtenir des renseignements supplémentaires au sujet du représentant et des travailleurs de celle­ci. Elle a dit que des renseignements inexacts avaient été fournis au sujet de la rémunération de chacun des travailleurs et qu’il n’avait nullement été question des heures supplémentaires que ceux­ci avaient travaillées la fin de semaine et le soir. Le représentant de l’appelante a expliqué qu’aucune question précise n’avait été posée au sujet des heures supplémentaires effectuées par les travailleurs et que les renseignements inexacts relatifs à la rémunération de ceux­ci découlaient d’une erreur quant à la période pertinente.
+[6] Au cours de son témoignage, le représentant de l’appelante a confirmé que les travailleurs étaient couverts par les régimes d’assurance collective de l’appelante (assurance­vie, assurance soins dentaires et assurance maladie complémentaire) et que celle­ci payait les primes d’assurance. Il a également confirmé que les travailleurs n’étaient pas autorisés à signer des chèques au nom de l’appelante et que seul l’actionnaire de celle­ci s’occupait de la comptabilité et de la tenue de livres.
+Analyse
+[7] La Loi énonce que l’emploi dans le cadre duquel l’employeur et les employés ont entre eux un lien de dépendance n’est pas un emploi assurable, sauf lorsqu’il est raisonnable de conclure que ceux­ci auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[8] Les dispositions applicables de la Loi sont les paragraphes 5(2) et 5(3), dont voici les extraits pertinents :
+5. (2) N’est pas un emploi assurable :
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+[…]
+(3) Pour l’application de l’alinéa (2)i),
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[9] L’article 251 de la Loi de l’impôt sur le revenu énonce des règles précises au sujet du concept de « personnes liées » :
+251. (1) Pour l’application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[…]
+Définition de « personnes liées » :
+(2) Pour l’application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage, de l’union de fait ou de l’adoption;
+b) une société et :
+(i) une personne qui contrôle la société si cette dernière est contrôlée par une personne,
+(ii) une personne qui est membre d’un groupe lié qui contrôle la société,
+(iii) toute personne liée à une personne visée au sous­alinéa (i) ou (ii);
+[…]
+[10] L’appelante demande à la Cour d’infirmer la décision du ministre. Il incombe à l’appelante de prouver selon la prépondérance des probabilités que la décision du ministre n’est pas fondée en faits et en droit.
+[11] Dans Légaré c. Canada (Ministre du Revenu national – M.R.N.), [1999] A.C.F. n° 878 (QL), la Cour d’appel fédérale a examiné, au paragraphe 4, le rôle que joue la Cour lors de la révision de la décision du ministre :
+[…] La Cour n’est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c’est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[12] Dans Canada (Procureur général) c. Jencan Ltd. (C.A.), [1998] 1 C.F. 187, la Cour d’appel fédérale a conclu que la décision découlant du pouvoir discrétionnaire que le ministre exerce en application de l’alinéa 5(3)b) de la Loi ne peut être modifiée que si le ministre a agi de mauvaise foi, qu’il n’a pas tenu compte de toutes les circonstances pertinentes ou qu’il a tenu compte d’un facteur non pertinent. Voir Quigley Electric Ltd. c. Canada (Ministre du Revenu national – M.R.N.), [2002] A.C.I. n° 674 (QL).
+[13] La bonne foi du ministre n’est pas contestée en l’espèce.
+[14] L’examen des circonstances de l’emploi couvre la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli.
+Rétribution
+[15] Le salaire des travailleurs était déterminé par le représentant de l’appelante. En 2007, Christopher a touché un salaire de 34 999 $, sans prime. Pour la même année, le salaire de Timothy s’est élevé à 30 000 $, sans prime, et celui du représentant de l’appelante, à 40 000 $. Les renseignements que les travailleurs et le représentant de l’appelante ont fournis à l’agente des appels au sujet du salaire versé aux travailleurs en 2007 étaient inexacts, mais cette erreur est sans conséquence, étant donné que le ministre a pu se fonder sur les feuillets T4 fournis par l’appelante. Eu égard à la preuve, le salaire versé aux travailleurs semble avoir été raisonnable dans les circonstances. Aucune preuve montrant le contraire ni aucune donnée comparable n’a été présentée à la Cour. Les travailleurs bénéficiaient de vacances annuelles (trois semaines pour Christopher et deux semaines pour Timothy) et d’avantages sociaux (soit les régimes d’assurance collectifs). Ils pouvaient également utiliser un véhicule automobile, un téléphone cellulaire, un ordinateur portatif et tout l’équipement nécessaire à l’exécution de leurs tâches, lesquels étaient fournis aux frais de l’appelante.
+Modalités d’emploi
+[16] Il a été établi que les travailleurs travaillaient normalement de 40 à 45 heures par semaine et que, à l’occasion, ils travaillaient le soir et la fin de semaine. Cette dernière précision n’a pas été mentionnée à l’agente des appels. De plus, aucun document visant à confirmer le nombre d’heures supplémentaires travaillées par chacun des travailleurs ou les dates auxquelles les heures additionnelles ont été travaillées n’a été présenté en preuve. Aucun registre des heures travaillées chaque semaine ou chaque mois par les travailleurs n’a été mis à la disposition de la Cour. L’appelante ne contrôlait pas les heures de travail des travailleurs. Dans les circonstances, la Cour se demande comment l’appelante a préparé les feuillets T4 et calculé les montants qui y figurent.
+[17] Les travailleurs semblaient jouir d’une grande autonomie dans l’exécution de leurs fonctions et jouer un rôle important dans les activités commerciales de l’appelante. Christopher était responsable de l’établissement des propositions de prix et de l’achat des matières premières. Il participait également aux démarches visant à obtenir des contrats dans la province de Québec. Pour sa part, Timothy était responsable du contrôle de la qualité des produits et de la réception des produits fabriqués par les sous­traitants. De plus, il montait les petites vannes. Le représentant de l’appelante passait en revue les propositions de prix, qui étaient habituellement préparées par Christopher, mais à l’occasion par Timothy également. Le représentant de l’appelante parlait tous les jours aux travailleurs et tenait chaque lundi une réunion avec eux. De plus, il contrôlait tous les aspects des activités commerciales de l’appelante, y compris les opérations bancaires, la comptabilité, les achats de matériaux et les ventes de produits. Dans les circonstances, il est raisonnable de conclure que les travailleurs travaillaient sous l’autorité de leur père et sous la direction ou la surveillance de celui­ci.
+Durée
+[18] Christopher travaille à temps plein pour l’appelante depuis 1999 et Timothy, depuis 2004. Aucun d’eux n’a un titre particulier. Un jour, ils prendront la relève à la tête de l’entreprise familiale.
+Nature et importance du travail accompli
+[19] Le travail accompli par chaque travailleur était important et entièrement intégré dans l’entreprise de l’appelante. Les travailleurs n’étaient pas propriétaires des outils et ils n’avaient aucune chance de faire des profits ni aucun risque de subir des pertes dans le cadre de l’exécution de leur travail. De toute évidence, les travailleurs ne travaillaient pas à leur compte et exerçaient un emploi assurable auprès de l’appelante.
+[20] La comparaison avec des contrats sans lien de dépendance ne nécessite pas une concordance parfaite, étant donné que la Loi renvoie explicitement à un « contrat de travail à peu près semblable ».
+[21] Malgré l’existence d’un lien de dépendance entre l’appelante et les travailleurs, la Cour estime qu’il est raisonnable de conclure que l’appelante et les travailleurs auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[22] L’appel est rejeté et la décision du ministre est confirmée.
+Signé à Ottawa, Canada, ce 19e jour de mars 2010.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 13e jour de mai 2010.
+Marie­Christine Gervais, traductrice
+RÉFÉRENCE : 2010 CCI 158
+NUMÉRO DU DOSSIER DE LA COUR : 2009­1810(EI)
+INTITULÉ : Dynamic Water Gates Inc. c. M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 30 novembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 19 mars 2010
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Michael Quinn
+Avocat de l’intimé :
+Me Sarom Bahk
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous­procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,151 @@
+---
+title: "Leibtag c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29997/index.do"
+last_modified: "2010-03-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 120"
+citation2: ""
+neutral_citation: "2010 CCI 120"
+decision_date: "2010-03-02"
+language: "fr"
+item_id: "29997"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7841
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:13:46.068000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8f7375bf9bfd3993e078c92d887314d921ea5f998c5490fa231fe9bee9f79de7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Leibtag c. La Reine
+
+- Citation: 2010 CCI 120
+- Decision date: 2010-03-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7841, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leibtag c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-02
+Référence neutre
+2010 CCI 120
+Numéro de dossier
+2007-2759(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+RÉFÉRENCE : 2010 CCI 120
+2007-2759(IT)G
+ENTRE :
+HESTY LEIBTAG,
+appelante,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+TRANSCRIPTION RÉVISÉE
+DES MOTIFS DE L’ORDONNANCE
+Que la transcription révisée ci‑jointe des motifs de l’ordonnance que j’ai prononcés à l’audience tenue à Toronto (Ontario) le 22 février 2010 soit déposée. J’ai révisé la transcription (certifiée par la sténographe judiciaire) par souci de stylistique et de clarté et afin d’y apporter quelques corrections mineures. Je n’y ai apporté aucune modification de fond.
+Signé à Ottawa, Canada, ce 2e jour de mars 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 12e jour de novembre 2010.
+Marie
+-Christine Gervais
+Référence : 2010 CCI 120
+Date : 20100302
+Dossier : 2007-2759(IT)G
+ENTRE :
+HESTY LEIBTAG,
+appelante,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+TRANSCRIPTION RÉVISÉE
+DES MOTIFS DE L’ORDONNANCE
+(rendus oralement à l’audience à Toronto (Ontario) le 22 février 2010)
+Le juge Boyle
+[1] Voici mes motifs relatifs à la requête de l’intimée visant à obtenir une ordonnance l’autorisant à procéder à la signification indirecte d’un subpoena à M. Terry Verk, l’époux de l’appelante, en vertu de l’article 37 des Règles de
+la Cour canadienne de l’impôt (procédure générale) (les « Règles »). Il est prévu que l’instruction de l’affaire se déroule sur trois jours la semaine prochaine. L’intimée a tenté de signifier un subpoena à M. Verk afin de s’assurer que
+la Cour entendrait son témoignage.
+[2] L’intimée a pris des dispositions afin que le subpoena soit signifié à M. Verk à ce que l’intimée croyait être l’adresse résidentielle de M. Verk. Cette adresse figurait sur une lettre datée de septembre 2008, que l’avocate de l’appelante avait adressée à M. Verk, et qui a été communiquée à l’intimée pour donner suite à un engagement. Il semble qu’aucune démarche n’ait été faite pour confirmer que cette adresse était encore l’adresse résidentielle de M. Verk. L’huissier a constaté que la résidence faisait l’objet d’importants travaux de rénovation, puisque l’intérieur de la résidence avait été complètement dénudé et que des ouvriers étaient présents sur les lieux.
+[3] L’intimée a ensuite pris des dispositions pour que le subpoena soit signifié à M. Verk à sa place d’affaires plus tôt ce mois-ci. L’adresse correspond bien à celle d’une société que M. Verk contrôle et qui a été désignée suivant son nom. Cette société possède des locaux commerciaux et a des employés à cette adresse. M. Verk a bel et bien travaillé à partir de ces locaux, notamment au moins un des trois jours consécutifs où l’huissier a tenté de lui signifier le subpoena, bien que M. Verk fût parti lorsque l’huissier est arrivé sur les lieux une demi-heure après avoir confirmé que M. Verk y était présent. Le lendemain, l’huissier a été avisé que M. Verk ne s’était pas présenté et qu’il serait en dehors de la ville pendant deux semaines.
+[4] Pour accueillir une requête fondée sur l’article 37 des Règles, je dois être convaincu que la signification à personne à M. Verk est difficile. La signification indirecte ne constitue pas simplement un moyen d’éviter un retard, une dépense, un inconvénient ou une difficulté lié aux démarches visant à déterminer où une partie se trouve, et la partie requérante doit démontrer qu’il n’est pas raisonnable d’exiger qu’elle effectue une signification à personne. Voir la décision Laframboise v. Woodward, 59 O.R. (3d) 338, de
+la Cour supérieure de justice de l’Ontario.
+[5] Cependant, il ne s’agit pas ici d’une situation où il faut déterminer où des témoins se trouvent.
+La Couronne dispose d’une adresse valide pour M. Verk qui aurait raisonnablement dû permettre une signification à personne. Cependant, tel n’a pas été le cas, et ce, malgré plusieurs tentatives de communiquer avec M. Verk et de lui signifier le subpoena à cette adresse trois jours consécutifs ce mois-ci. Je suis convaincu que
+la Couronne a déployé des efforts raisonnables en vue de trouver M. Verk afin de lui signifier le subpoena.
+[6] Je suis convaincu que, si j’ordonne qu’il soit procédé à une signification indirecte par voie de signification à l’avocate de l’appelante et remise en mains propres à l’adresse d’affaires de M. Verk, celui-ci sera mis au courant du subpoena et y aura accès en temps opportun.
+[7] M. Verk est l’époux de l’appelante. L’avocate de l’appelante lui a parlé et a correspondu avec lui. M. Verk est au courant de l’instruction imminente de l’appel de son épouse. Il l’a conseillée au sujet des investissements qui ont donné lieu à l’appel. M. Verk figure sur la liste des témoins de l’appelante. Il travaille au moins parfois à partir de son bureau situé à son adresse d’affaires.
+[8] On peut raisonnablement s’attendre à ce qu’une signification indirecte effectuée de la manière décrite plus haut fasse en sorte que M. Verk reçoive rapidement le subpoena, et ce, bien avant l’instruction. Une telle signification indirecte ne cause aucun inconvénient ni n’impose aucun fardeau au cabinet d’avocats de l’appelante. Je n’ordonne pas au cabinet d’avocats d’effectuer la signification.
+[9] Je fais droit à la requête de l’intimée et j’autorise la signification indirecte du subpoena de M. Verk par voie de signification d’une copie à l’avocate de l’appelante et livraison d’une copie à l’adresse d’affaires de M. Verk pendant les heures ouvrables. La signification ainsi faite sera alors réputée valable.
+[10] En ce qui concerne les dépens, l’avocate de l’appelante avait offert par écrit de consentir à la requête de l’intimée à la condition que celle-ci paie les dépens au taux de 525 $ prévu au tarif.
+La Couronne a refusé afin de demander les dépens suivant l’issue de la cause. C’est-à-dire que, n’eut été des 525 $, la requête d’aujourd’hui n’aurait pas été nécessaire.
+[11] Dans le contexte d’un appel d’envergure régi par la procédure générale dont l’instruction devrait durer plusieurs jours et dans le cadre duquel il y a eu des interrogatoires préalables et la communication préalable d’éléments de preuve, je suis prêt à adjuger contre
+la Couronne , quelle que soit l’issue de la cause, des dépens d’un montant qui dépasse le montant prévu au tarif, et ce, pour plusieurs raisons : je n’ai reçu aucune explication en réponse à la question que j’ai posée plusieurs fois et qui était celle de savoir pourquoi l’avocate de l’intimée, avant de tenter de signifier le subpoena et, à plus forte raison, avant d’introduire la requête, n’avait pas décroché le combiné du téléphone pour confirmer où se trouvait M. Verk, quelle était son adresse domiciliaire actuelle exacte, et s’il serait prêt à recevoir signification du subpoena. On ne m’a pas expliqué pourquoi l’huissier semble ne jamais avoir tenté de prendre rendez‑vous avec M. Verk pour la signification, ni mentionné qu’il avait un document à signifier, ni laissé une carte professionnelle ou tout autre message pour M. Verk à sa place d’affaires. Tous ces éléments ont pu contribuer à la tenue de la requête d’aujourd’hui, qui a été rendue nécessaire par le refus par l’intimée d’accepter l’offre de l’avocate de l’appelante de consentir à la requête, et qui a duré presque toute la journée. En pareilles circonstances, j’ordonne que
+la Couronne paye à l’appelante des dépens de 1 500 $, quelle que soit l’issue de la cause.
+[12] La séance est levée. Merci, Mme Bruce. Merci, Me Somerville Taylor.
+Signé à Ottawa, Canada, ce 2e jour de mars 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 12e jour de novembre 2010.
+Marie
+-Christine Gervais
+RÉFÉRENCE : 2010 CCI 120
+NO DU DOSSIER DE
+LA COUR : 2007-2759(IT)G
+INTITULÉ : HESTY LEIBTAG c. SA MAJESTÉ
+LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 22 février 2010
+MOTIFS DE L’ORDONNANCE : L’honorable juge Patrick Boyle
+DATE DE L’ORDONNANCE : Le 2 mars 2010
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Leigh Somerville Taylor
+Avocate de l’intimée :
+Me Suzanne M. Bruce
+ÉTAIENT AUSSI PRÉSENTS :
+Greffier de
+la Cour :
+M. D. W. Burtnick
+Sténographe judicaire :
+Mme Catherine Keenan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Leigh Somerville Taylor
+Cabinet : Richler & Tari
+Toronto (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

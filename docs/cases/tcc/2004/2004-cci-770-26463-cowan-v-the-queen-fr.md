@@ -1,0 +1,127 @@
+---
+title: "Cowan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26463/index.do"
+last_modified: "2004-12-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 770"
+citation2: ""
+neutral_citation: "2004 CCI 770"
+decision_date: "2004-12-06"
+language: "fr"
+item_id: "26463"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3147
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:46:57.067000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bc6ff6a5ee2f0143a2a0157a09567ec7b2cd6c0891c4341a786434a9fd75ec16"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cowan v. The Queen
+
+- Citation: 2004 CCI 770
+- Decision date: 2004-12-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3147, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cowan v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-06
+Référence neutre
+2004 CCI 770
+Numéro de dossier
+2003-2267(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI770
+Date : 20041206
+Dossier : 2003-2267(IT)I
+ENTRE:
+LINDA COWAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Représentant de l'appelante : Latif Rehman
+Avocat de l'intimée : Me Craig Maw
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à Toronto (Ontario), le 5 novembre 2004.)
+Le juge McArthur
+[1] L'appelante interjette appel des nouvelles cotisations établies par le ministre du Revenu national pour ses années d'imposition 1999 et 2000. La ville de Toronto lui a versé 35 000 $ en exécution d'une sentence arbitrale. Le montant de 17 500 $ a été ajouté à son revenu pour 1999, et le montant de 17 500 $ a été ajouté à son revenu pour 2000. L'appelante veut que les 35 000 $ soient étalés sur les années 1992 à 1999, soit les années visées par la sentence arbitrale. Les faits comprennent ce qui suit :
+[2] L'appelante travaillait pour la ville de Toronto. De 1992 à 1999, elle a déposé 36 griefs par l'entremise de son syndicat, ce qui a donné lieu à une sentence arbitrale en sa faveur et, selon le procès-verbal de transaction, elle a reçu 35 000 $. À la demande de l'appelante, le montant lui a été payé en deux versements égaux de 17 500 $; elle a reçu le premier versement le 2 décembre 1999 et le deuxième le 13 janvier 2000. Ces montants ont été inclus dans les montants indiqués sur les feuillets T4 que la ville lui a envoyés pour les deux années. Les feuillets T4 indiquaient les montants de 59 313 $ et de 64 212 $, respectivement, et, bien sûr, comprenaient le salaire de l'appelante.
+[3] La ville de Toronto n'a pas produit de formulaire T1198E, soit l'état d'un paiement forfaitaire rétroactif admissible. L'appelante essaie d'obtenir ce formulaire de la ville depuis quelques mois, et peut-être même depuis un an, mais ses efforts n'ont pas porté fruit. La question est de savoir si la cotisation établie pour les années 1999 et 2000 est correcte ou si les 35 000 $ auraient dû être étalés sur les années 1992 à 1999.
+[4] La principale position adoptée par l'appelante est que le gouvernement fédéral s'est enrichi de façon injuste à cause de la décision du ministre. Elle affirme qu'elle n'a pas été traitée de façon équitable et que le montant qu'elle a reçu en exécution de la sentence arbitrale devrait être réparti entre les années en cause. De plus, si l'utilisation de cette méthode donnait lieu à l'imposition d'intérêts à effet rétroactif, elle demanderait qu'il soit renoncé aux intérêts.
+[5] L'appelante était représentée par Latif Rehman, mais, en grande partie, a agi à son propre compte lors de l'appel. L'audience devait commencer à 9 h 30, mais n'a commencé que vers 16 h. L'appelante n'a pas pu se présenter à l'audience à 9 h 30 et ne s'est présentée qu'à 10 h 30 alors qu'une autre audience se déroulait. À ce moment-là, sa demande d'ajournement a été refusée. Il s'agissait de sa quatrième demande de ce genre. L'appelante a dit qu'elle demandait un ajournement pour des raisons médicales, mais aussi pour avoir plus de temps pour obtenir un formulaire T1198E de la ville de Toronto et parce qu'elle voulait qu'un ami témoigne en sa faveur. Pour ce qui est de ses troubles médicaux, elle a demandé un ajournement le 8 mars 2004, et le juge Margeson a accepté sa demande, mais a dit en partie ce qui suit au représentant de l'appelante :
+[TRADUCTION]
+La prochaine fois que vous demanderez un ajournement, vous faites mieux d'avoir le certificat médical nécessaire.
+Et il poursuit :
+[TRADUCTION]
+La prochaine fois, si elle n'a pas de certificat médical et que la Couronne s'oppose à votre demande, ou même si la Couronne accepte votre demande, la Cour est susceptible de la rejeter.
+Dans la demande qu'elle a encore faite ce matin, elle n'avait toujours pas de certificat médical, et la Couronne n'a pas consenti à un ajournement. En ce qui concerne les autres raisons qui l'ont motivée à demander un ajournement, je conclus qu'elle a eu presque un an pour obtenir le formulaire de la ville de Toronto et pour prendre les mesures nécessaires pour faire comparaître son témoin. De toute manière, je ne pense pas que le formulaire ou le témoin l'auraient aidée dans la présentation de sa cause. Bien que l'appelante ait demandé du temps pour obtenir et produire le formulaire T1198E, elle a admis, si je me souviens bien, que le formulaire ne l'aurait pas du tout aidée compte tenu des dispositions législatives actuellement en vigueur.
+[6] Encore une fois, son appel est principalement axé sur le fait qu'il est injuste qu'elle doive payer de l'impôt à la suite de l'ajout des 17 500 $ à son revenu pour chacune des années 1999 et 2000 et que les 35 000 $ qui lui ont été accordés devraient être étalés sur les années 1992 à 1999. À cet égard, je me réfère aux commentaires qu'a récemment formulés le juge Rothstein dans l'affaire Chaya c. Sa Majesté la Reine, 2004 A.C.F. 1630, dont le jugement date du 4 octobre 2004. Les commentaires suivants du juge Rothstein s'appliquent également à l'appelante :
+Le demandeur soutient que la loi est inéquitable et il demande à la Cour de faire une exception pour lui. Toutefois, la Cour n'a pas le pouvoir de faire droit à sa demande. La Cour doit appliquer la loi telle qu'elle est. Elle ne peut pas déroger aux dispositions législatives pour des raisons liées à l'équité. S'il estime que la loi est inéquitable, le demandeur doit avoir recours au Parlement et non pas à la Cour.
+[7] Bien qu'il ne soit pas nécessaire en l'espèce d'analyser l'incidence des articles 110.2 et 120.31 de la Loi de l'impôt sur le revenu, je vais quand même le faire brièvement. Les articles en question sont entrés en vigueur en 2000 pour permettre l'allégement du fardeau fiscal des contribuables qui reçoivent un paiement forfaitaire rétroactif admissible au moyen d'un calcul complexe. L'onglet 7 de la pièce R-1 est une lettre de l'Agence du revenu du Canada qui montre le calcul méticuleux fait pour mesurer l'incidence de la situation fiscale spéciale. L'agent de la Division des appels a conclu correctement que l'utilisation de la méthode de calcul se rapportant au paiement forfaitaire rétroactif admissible n'aurait pas été avantageuse pour l'appelante. Je ne crois pas que l'appelante soit en désaccord avec cette conclusion, mais elle dit que ce n'est pas juste de calculer des intérêts à effet rétroactif sur l'impôt quand il n'y avait absolument rien qu'elle pouvait faire pour éviter la situation. En bref, l'application des articles 110.2 et 120.31, dans certains cas, permet au contribuable de répartir des parties d'un montant sur des années d'imposition antérieures. L'application de ces articles n'aiderait pas l'appelante parce que la Loi exige l'application d'intérêts à effet rétroactif. Les intérêts auraient pour effet d'annuler l'avantage. L'appelant demande qu'il soit renoncé à l'exigence de l'application d'intérêts à effet rétroactif parce qu'elle est inéquitable.
+[8] De toute manière, l'appelante n'arrive pas à obtenir le formulaire nécessaire dûment rempli de la ville de Toronto, et la présentation du formulaire en question est une condition essentielle à l'application des articles 110.2 et 120.31. Le résultat n'est peut-être pas juste pour l'appelante, mais il m'incombe d'interpréter les dispositions législatives telles qu'elles sont rédigées. Encore une fois, pour reprendre les propos du juge Rothstein, je ne peux pas modifier les dispositions législatives; seul le Parlement peut le faire. Par conséquent, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2004.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 8 février 2006.
+Mario Lagacé, réviseur
+RÉFÉRENCE :
+2004CCI770
+NO DU DOSSIER :
+2003-2267(IT)I
+INTITULÉ DE LA CAUSE :
+Linda Cowan et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 3 novembre 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable C. H. McArthur
+DATE DU JUGEMENT :
+Le 16 novembre 2004
+COMPARUTIONS :
+Pour l'appelante :
+Latif Rehman
+Avocat de l'intimée :
+Me Craig Maw
+AVOCATS INSCRITS AU DOSSIER
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

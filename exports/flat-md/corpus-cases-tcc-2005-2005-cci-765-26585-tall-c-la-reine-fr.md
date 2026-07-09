@@ -1,0 +1,180 @@
+---
+title: "Tall c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26585/index.do"
+last_modified: "2005-11-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 765"
+citation2: ""
+neutral_citation: "2005 CCI 765"
+decision_date: "2005-11-25"
+language: "fr"
+item_id: "26585"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3528
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:16:46.116000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f59915701422508621b2e4fc03c373987967fd2856c4610b475deeb681ad55d7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tall c. La Reine
+
+- Citation: 2005 CCI 765
+- Decision date: 2005-11-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3528, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tall c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-11-25
+Référence neutre
+2005 CCI 765
+Numéro de dossier
+2005-1354(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1354(IT)G
+ENTRE :
+FRANKLIN D. TALL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+LE CONSEIL NATIONAL DES CANADIENS CHINOIS,
+requérant demandant à intervenir.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête en autorisation d’intervention entendue le 17 octobre 2005 à Toronto (Ontario)
+Devant : l’honorable juge Gerald J. Rip
+Comparutions
+Pour l’appelant :
+Personne n’a comparu
+Pour l’intimée :
+Mes Catherine Letellier de St‑Just
+et Brent Cuddy
+Pour le requérant demandant à intervenir :
+Me Avvy Yao-Yao Go
+___________________________________________________________________
+ORDONNANCE
+La demande de statut d’intervenant du Conseil national des Canadiens chinois est rejetée.
+Il n’y aura pas de frais relativement à cette demande.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2005.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 21e jour de décembre 2005.
+Mario Lagacé, réviseur
+Référence : 2005CCI765
+Date : 20051125
+Dossier : 2005-1354(IT)G
+ENTRE :
+FRANKLIN D. TALL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+LE CONSEIL NATIONAL DES CANADIENS CHINOIS,
+requérant demandant à intervenir.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Rip
+[1] Le Conseil national des Canadiens chinois (« CNCC ») demande une ordonnance l’autorisant à intervenir dans l’appel à titre d’intervenant bénévole et à présenter des éléments de preuve, une argumentation orale et d’autres moyens pouvant être considérés comme justes par la Cour, en vertu de l’article 28 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »).
+[2] Franklin D. Tall a interjeté appel contre une cotisation d’impôt sur le revenu pour son année d’imposition 2003 relativement à un crédit d’impôt pour frais médicaux au titre de sommes dépensées pour lui et son épouse pour des vitamines, suppléments, herbes, remèdes homéopathiques, produits alimentaires biologiques, produits d’hygiène et eau embouteillée, ainsi qu’au titre de frais de thérapies physiques non actuellement réglementées en Ontario.
+[3] M. Tall soutient que, s’il ne peut déclarer de tels frais médicaux à l’égard du crédit d’impôt pour frais médicaux en sa forme actuelle, il s’agit de savoir si l’alinéa 118.2(2)n) de la Loi de l’impôt sur le revenu (la « Loi ») a pour objet ou pour effet de violer ses droits à l’égalité (par extension ceux de son épouse), qui lui sont reconnus par l’article 15 de la Charte canadienne des droits et libertés (la « Charte »), et ceux de personnes dans une situation semblable à la sienne, c’est‑à‑dire d’exercer une discrimination fondée sur la religion et sur l’origine nationale ou ethnique; il s’agit également de savoir si l’alinéa 118.2(2)n) de la Loi viole l’article 27 de la Charte. Les droits garantis par la Charte sont‑ils violés et, dans l’affirmative, sont‑ils restreints dans des limites raisonnables dont la justification se démontre dans le cadre d’une société libre et démocratique, conformément à l’article premier?
+[4] M. Tall soutient que la raison pour laquelle le ministre n’a pas admis les frais médicaux en vertu du paragraphe 118.2(2) de la Loi est que ces frais se rapportent à des produits qui n’ont pas été enregistrés par un pharmacien comme l’exige l’alinéa 118.2(2)n). M. Tall fait valoir qu’il est en fait admissible au crédit d’impôt pour frais médicaux en vertu de l’alinéa 118.2(2)n). Toutefois, si la Cour conclut que tel n’est pas le cas, alors il fait valoir que le libellé de l’alinéa 118.2(2)n), en incluant les termes « enregistrés par un pharmacien », viole les droits à l’égalité qui lui sont garantis par le paragraphe 15(1) de la Charte et il demande que les termes « enregistrés par un pharmacien » figurant dans cette disposition ne soient pas pris en compte.
+[5] M. Tall dit qu’il achète les vitamines, les suppléments, les herbes, l’eau embouteillée et les produits alimentaires biologiques en conformité avec ses croyances religieuses et/ou spirituelles concernant la nature de la maladie et la relation entre l’humanité et la nature. Il ajoute qu’il fait partie d’un vaste groupe, qui inclut de nombreux adeptes du bouddhisme, de l’hindouisme, du taoïsme, du shintoïsme, du chamanisme (comme chez les Premières nations), de la wicca, de l’ésotérisme occidental contemporain, et ainsi de suite. L’appelant utilise de tels traitements médicaux parallèles et complémentaires — qui selon lui préviennent ou soulagent la maladie — de préférence aux traitements médicaux orthodoxes, qui mettent l’accent sur les produits pharmaceutiques.
+[6] Dans son avis d’appel, l’appelant affirme également ceci :
+[TRADUCTION]
+13. L’appelant est traité différemment à cause de la nature de ses croyances religieuses, car, en raison directe de l’exigence relative aux termes « enregistrés par un pharmacien », il ne peut bénéficier du crédit d’impôt pour frais médicaux à l’égard du coût des substances bonnes pour sa santé, comparativement à d’autres personnes, qui peuvent bénéficier de tels crédits, en vertu l’alinéa 118.2(2)n), en allant voir des médecins et en achetant des produits pharmaceutiques. Les croyances religieuses et l’origine nationale ou ethnique sont inextricablement liées au choix de traitements médicaux; de plus, comme l’indiquent de nombreuses recherches universitaires, différents systèmes médicaux comportent différentes hypothèses de base, souvent avec des origines religieuses. En particulier, nous démontrerons que les croyances fondamentales de la médecine orthodoxe ont des bases bibliques; ainsi, l’actuel crédit d’impôt pour frais médicaux est biaisé en faveur de la religion judéo‑chrétienne, de telle sorte qu’il constitue une violation de la Charte. Exemple prima facie : les paiements faits à un guérisseur de la Science chrétienne, c’est‑à‑dire à un guérisseur de religion chrétienne, sont déductibles, tandis que ceux que l’on fait à des guérisseurs d’autres religions ne le sont pas.
+14. La disposition contestée refuse à l’appelant un avantage, à savoir le crédit d’impôt pour frais médicaux, et ce, de façon discriminatoire. Ce refus, basé sur la nature des croyances religieuses et spirituelles de l’appelant qui ont conduit ce dernier à utiliser des traitements médicaux parallèles et complémentaires, implique que les croyances de l’appelant sont moins dignes d’être reconnues dans la société canadienne et que la souffrance ainsi que les besoins médicaux de l’appelant ne sont pas respectés comparativement à ce qu’il en est dans le cas d’autres citoyens. L’appelant et des personnes dont la situation s’apparente à la sienne sont marginalisés du fait de cette exclusion de l’allègement fiscal accordé à d’autres Canadiens.
+15. Enfin, l’actuelle liste de praticiens de la santé admis par l’Agence du revenu du Canada dans son bulletin d’interprétation sur les frais médicaux, qui se veut une aide à l’interprétation de la Loi, n’inclut pas assez de praticiens de la santé offrant des services et prescrivant des produits qui entrent dans le domaine de la médecine parallèle et complémentaire. Comme elle est liée aux autorisations d’exercer provinciales, elle varie selon les provinces et manque donc de cohérence. Parmi les nombreux praticiens de la santé qui y sont omis, mentionnons les homéopathes, les herboristes, les chamans et les praticiens œuvrant dans la médecine ayurvédique, le toucher thérapeutique, le reiki, le qi gong, la méthode Feldenkrais, la technique Mitzvah, l’intégration structurale (rolfing), le shiatsu, la médecine chinoise traditionnelle, le massage de la poitrine, la programmation neurolinguistique, l’hypnothérapie, etc. Nous soutenons que l’actuelle classification relative aux praticiens à admettre ou à ne pas admettre est irrationnelle et discriminatoire. De plus, les catégories de praticiens de la santé énumérées dans le bulletin d’interprétation pertinent ne sont pas assujetties à une législation uniforme dans toutes les provinces. La Loi exige qu’un praticien de la santé soit assujetti à la législation d’une province pour que puissent être déduits les honoraires à l’acte versés à un praticien de la santé. Malgré cette exigence, les honoraires de guérisseurs de la Science chrétienne sont admis, alors que ces guérisseurs ne font pas l’objet de la législation d’une province quelconque.
+[…]
+17. En vertu de la Loi, l’appelant peut déclarer les frais médicaux de sa conjointe, qui est d’origine japonaise. Au Japon, les frais relatifs au massage de la poitrine pour les mères qui allaitent sont reconnus comme des frais médicaux légitimes. Le fait que la disposition sur la déductibilité de frais médicaux n’englobe pas un tel traitement constitue de la discrimination contre les Canadiens d’origine japonaise. Des arguments semblables s’appliquent, avec les adaptations de circonstance, à la médecine chinoise traditionnelle et à la médecine ayurvédique. Ainsi, l’appelant allègue en outre qu’il y a violation de l’article 15 de la Charte, c’est‑à‑dire une discrimination fondée sur la race et l’origine nationale ou ethnique.
+18. Est également violé l’article 27 de la Charte, qui parle du maintien et de la valorisation du patrimoine multiculturel des Canadiens. Le fait de ne pas reconnaître les diverses traditions médicinales d’autres cultures en n’admettant pas la déductibilité de frais relatifs à des remèdes culturellement approuvés, vu l’exigence liée aux termes « enregistrés par un pharmacien » figurant à l’alinéa 118.2(2)n), est un affront au patrimoine multiculturel des Canadiens.
+[7] Le CNCC est un organisme national sans but lucratif ayant pour vocation de promouvoir les droits à l’égalité des Canadiens chinois, entre autres choses. Son mandat inclut l’intervention dans des procédures judiciaires relatives à des questions touchant les intérêts de la communauté canadienne chinoise.
+[8] Le CNCC soutient que l’appel soulève des questions d’avantages égaux, selon la Loi, pour les particuliers qui recourent à des formes de médecines parallèles et complémentaires qui ne sont pas reconnues par le Canada et ses provinces ni, par conséquent, assujetties à leur réglementation et à l’égard desquelles aucun crédit d’impôt ne peut être demandé au titre des frais engagés. La médecine chinoise traditionnelle (« MCT ») est une forme de médecine parallèle et complémentaire qui n’est pas reconnue de la sorte par les autorités canadiennes. L’appel de M. Tall présente donc beaucoup d’intérêt pour les membres de la communauté chinoise et d’autres communautés asiatiques du Canada qui recourent à la MCT et/ou pratiquent cette médecine.
+[9] Le CNCC affirme qu’il s’intéresse depuis longtemps à l’égalité pour les Chinois du Canada en général et à la question de la reconnaissance de la MCT comme forme légitime de traitement médical en particulier. Il dit avoir une perspective unique en son genre ainsi que des préoccupations particulières qui aideront la Cour à obtenir une argumentation complète dans l’appel. Le CNCC affirme que sa participation ne risque pas de retarder indûment l’instance ni de compliquer indûment les questions déjà soulevées. Le CNCC dit que l’appelant consent à la requête du CNCC en autorisation d’intervention; l’avocat de l’appelant n’a pas comparu à l’audition de cette requête.
+[10] L’affidavit de Colleen Hua déposé par le CNCC présente un historique du CNCC, énonce les objectifs de cet organisme et fait état de ses réalisations à ce jour. Il présente en outre un bref historique relatif à la communauté chinoise du Canada ainsi qu’au travail du CNCC. L’affidavit de Mme Hua traite également de diverses interventions du CNCC devant des tribunaux administratifs et judiciaires au Canada. Voici une description de l’engagement du CNCC à l’égard de la promotion de la MCT, comme l’indique l’affidavit de Mme Hua :
+[TRADUCTION]
+22. La médecine chinoise traditionnelle (MCT) joue un rôle vital quant à la promotion de la santé dans de nombreuses parties du monde, et notamment dans les pays dont la population chinoise est prédominante. Le recours à la MCT fait partie intégrante de la vie de nombreux Canadiens d’origine asiatique, et plus particulièrement de Canadiens d’origine chinoise. La MCT a historiquement été disponible dans de nombreuses communautés chinoises de l’ensemble du Canada. Avec le temps, le recours à la MCT s’est graduellement répandu au‑delà des communautés chinoises et autres communautés asiatiques du Canada, c’est‑à‑dire dans la société en général.
+23. Toutefois, malgré sa popularité croissante, la MCT, tout comme d’autres modalités médicinales chinoises, n’a pas encore été pleinement reconnue par tous les niveaux de gouvernement du Canada comme forme légitime de traitement médical pour les citoyens.
+24. Le cadre législatif adopté par le gouvernement du Canada pour régir ou contrôler la profession médicale ou les traitements médicaux disponibles ne reconnaît pas non plus les différences fondamentales entre la MCT en tant que médecine parallèle et complémentaire et la médecine « traditionnelle » occidentale.
+25. Un exemple du manque de compréhension du gouvernement à l’égard de la MCT est la décision que le gouvernement canadien avait prise en 1997 de faire modifier le règlement sur les aliments et les drogues de manière à inclure le contrôle de certaines herbes chinoises traditionnelles comme des drogues selon la Loi sur les aliments et drogues. Cette décision avait été prise sans que soient préalablement consultés la communauté chinoise du Canada en général et les praticiens de la MCT en particulier. Le CNCC a alors joué un rôle en créant le National Supporters of Chinese Herbs and Herbal Products Action Committee. Par l’intermédiaire de ce comité, le CNCC a contribué à faire valoir les préoccupations de la communauté chinoise du Canada concernant les modifications législatives proposées. Le CNCC a notamment présenté au Comité permanent de la santé du Parlement, en mars 1998, un mémoire intitulé « Access to Multicultural Health: The Rights of Consumers of Chinese Herbs and Herbal Products ». Dans ce document, le CNCC décrivait comme suit l’opposition au contrôle de certaines herbes chinoises traditionnelles comme des drogues :
+[TRADUCTION]
+a. Dans le système de santé, la MCT et l’acupuncture sont souvent traitées comme un simple prolongement de la biomédecine. Leurs théories et cadres conceptuels intrinsèques sont souvent ignorés ou rejetés. Le système unique global de concepts et pratiques de la MCT n’a pas été vraiment accepté comme solution de rechange à la biomédecine.
+b. Régir la MCT sans comprendre et reconnaître le caractère unique de cette médecine et l’incommensurabilité du système en cause est problématique. Tout contrôle doit commencer par un respect et une ouverture d’esprit face au fait que la MCT est réellement une solution de rechange possible.
+c. En MCT, la santé dépend non seulement du bon fonctionnement d’organes et de systèmes individuels, mais, plus important encore, de l’équilibre de divers systèmes intégrés et de la bonne circulation du sang ainsi que de l’« énergie vitale » intérieure. Ces concepts sont totalement étrangers au modèle de la biomédecine. Ce n’est donc pas pratique et juste d’exiger que la MCT soit soumise au même cadre de laboratoire qu’exige le système de réglementation basé sur la biomédecine.
+[...]
+27. Au bout du compte, en partie grâce aux efforts du CNCC et d’autres organismes communautaires intéressés et de groupes représentant des praticiens de la MCT, le gouvernement du Canada n’a pas donné suite à son projet initial de traiter certaines herbes chinoises traditionnelles comme des « drogues »[1].
+[11] L’article 28 des Règles se lit comme suit :
+28. (1) Quiconque n’est pas partie à l’instance et prétend :
+a) qu’il a un intérêt dans l’objet de cette instance;
+b) qu’il peut subir un préjudice par suite du jugement;
+c) que lui‑même et l’une ou plusieurs des parties à l’instance sont liés par la même question de droit, la même question de fait ou la même question de droit et de fait,
+peut demander, par voie de requête, l’autorisation d’intervenir dans l’instance.
+(2) Saisie de la requête, la Cour, après avoir examiné si l’intervention risque de retarder indûment ou de compromettre la décision sur les droits des parties à l’instance, peut :
+a) autoriser le requérant à intervenir à titre d’intervenant bénévole et sans être partie à l’instance, afin d’éclairer la Cour par son témoignage ou son argumentation;
+b) rendre toute directive qu’elle estime appropriée en matière d’actes de procédure, d’interrogatoire préalable ou de frais.
+[12] L’avocate du requérant reconnaît que le CNCC n’a pas d’intérêt financier ou fiscal dans l’appel, mais exerce des pressions pour que soit reconnue la MCT. L’avocate a fait valoir que l’appelant, M. Tall, n’est pas d’origine asiatique et n’a pas d’expérience de la communauté chinoise et qu’il ne peut donc présenter un témoignage qui aiderait les gens que le CNCC souhaite protéger ou représenter.
+[13] L’intimée s’oppose au projet d’intervention du requérant CNCC relativement aux questions soulevées en vertu de la Charte. De l’avis de l’intimée, le requérant n’a pas un intérêt dans l’instance suffisant et ne subirait pas un préjudice par suite du jugement et il n’a pas montré non plus qu’il peut apporter à la Cour, et lui apportera effectivement, un éclairage ne pouvant déjà être apporté par l’appelant. La demande du requérant ne correspond à aucun des motifs énumérés au paragraphe 28(1) des Règles, et, pour ce qui est de l’alinéa 28(2)a), l’intimée soutient que l’intervention du CNCC risquerait de retarder indûment ou de compromettre la décision sur les droits des parties à l’instance.
+[14] Je ne doute pas que le CNCC soit un organisme qui s’intéresse vraiment à la question soulevée par M. Tall et qui cherche à promouvoir la MCT auprès de divers niveaux de gouvernement au Canada dans le but de permettre aux Chinois du Canada de déduire des frais afférents à la MCT dans le calcul de leur revenu comme contribuables.
+[15] Les questions constitutionnelles en cause dans l’appel ne sont pas selon moi critiques pour la circonscription que représente le CNCC. La lutte de M. Tall semble se rapporter principalement au fait qu’on lui refuse une déduction dans le calcul de son revenu à cause de croyances religieuses et/ou spirituelles. L’autre allégation de l’appelant est qu’il y a une violation de la Charte basée sur l’origine nationale ou ethnique. Ni l’une ni l’autre de ces allégations ne semble être à la base de l’intervention sollicitée par le CNCC, dont le but est de faire reconnaître la MCT en tant que forme légitime de traitement médical et que partie intégrante de la vie de nombreux Canadiens d’origine asiatique, et plus particulièrement de Canadiens d’origine chinoise.
+[16] L’intervention du requérant risquerait de retarder indûment le procès et de compromettre la décision sur les droits des parties. L’appelant, par exemple, peut présenter des éléments de preuve fondés sur la religion, la race ou l’origine nationale ou ethnique; le témoignage du requérant serait basé sur la légitimité de la MCT et sur l’acceptation de cette médecine par un ou plusieurs groupes de Canadiens.
+[17] La demande de statut d’intervenant du CNCC est rejetée.
+[18] Il n’y aura pas de frais relativement à cette demande.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2005.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 21e jour de décembre 2005.
+Mario Lagacé, réviseur
+RÉFÉRENCE : 2005CCI765
+No DU DOSSIER DE LA COUR : 2005-1354(IT)G
+INTITULÉ DE LA CAUSE : FRANKLIN D. TALL ET SA MAJESTÉ LA REINE ET LE CONSEIL NATIONAL DES CANADIENS CHINOIS
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : le 17 octobre 2005
+MOTIFS DU JUGEMENT PAR : l’honorable juge Gerald J. Rip
+DATE DU JUGEMENT : le 25 novembre 2005
+COMPARUTIONS :
+Pour l’appelant :
+Personne n’a comparu
+Pour l’intimée :
+Catherine Letellier de St‑Just
+et Brent Cuddy
+Pour le requérant demandant à intervenir :
+Avvy Yao-Yao Go
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Étude :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa (Ontario)
+[1] Est annexée comme pièce à l’affidavit de Mme Hua une copie du mémoire du CNCC au Comité permanent de la santé de la Chambre des communes.

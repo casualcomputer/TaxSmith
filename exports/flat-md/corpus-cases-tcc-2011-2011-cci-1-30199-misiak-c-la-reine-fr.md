@@ -1,0 +1,251 @@
+---
+title: "Misiak c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30199/index.do"
+last_modified: "2011-01-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 1"
+citation2: ""
+neutral_citation: "2011 CCI 1"
+decision_date: "2011-01-04"
+language: "fr"
+item_id: "30199"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7722
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:13:53.696000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "358f387773dc3c366049f502e02b911c5bca8b3ddcf403f5696b8e4cdf109671"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Misiak c. La Reine
+
+- Citation: 2011 CCI 1
+- Decision date: 2011-01-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7722, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Misiak c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-01-04
+Référence neutre
+2011 CCI 1
+Numéro de dossier
+2008-3574(GST)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2008-3574(GST)I,
+2008-3575(IT)I
+ENTRE :
+WALDEMAR MISIAK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec l’appel d’Independent Construction Business Inc. (2008-3578(IT)I) les 21 et 22 septembre 2010, à Toronto (Ontario).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Représentant de l’appelant :
+M. Costa A. Abinajem
+Avocates de l’intimée :
+Me Rishma Bhimji
+Me Alisa Apostle
+JUGEMENT MODIFIÉ
+Conformément aux motifs du jugement ci‑joints :
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise pour la période du 1er janvier 2001 au 31 décembre 2003, dont l’avis est daté du 23 avril 2008, est accueilli et la nouvelle cotisation est annulée.
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est accueilli et la nouvelle cotisation est annulée.
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 est rejeté.
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est rejeté.
+L’appelant a droit au remboursement du droit de dépôt de 200 $ qu’il a versé.
+Compte tenu du succès partiel de l’appelant, il n’y aura pas d’adjudication des dépens.
+Le présent jugement modifié remplace le jugement daté du 6 janvier 2011.
+Signé à Ottawa, Canada, ce 12e jour de décembre 2011.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 20e jour de décembre 2011.
+Marie-Christine Gervais
+Dossier : 2008-3578(IT)I
+ENTRE :
+INDEPENDENT CONSTRUCTION BUSINESS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Waldemar Misiak (2008-3574(GST)I, 2008-3575(IT)I) les 21 et 22 septembre 2010, à Toronto (Ontario).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Représentant de l’appelante :
+M. Costa A. Abinajem
+Avocates de l’intimée :
+Me Rishma Bhimji
+Me Alisa Apostle
+JUGEMENT MODIFIÉ
+Conformément aux motifs du jugement ci‑joints :
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 est accueilli et la nouvelle cotisation est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation afin de faire passer le montant de revenu non déclaré de 53 440 $ à 30 234 $.
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est rejeté.
+L’appelante a droit au remboursement du droit de dépôt de 100 $ qu’elle a versé.
+Compte tenu du succès partiel de l’appelante, il n’y aura pas d’adjudication des dépens.
+Le présent jugement modifié remplace le jugement daté du 6 janvier 2011.
+Signé à Ottawa, Canada, ce 12e jour de décembre 2011.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 20e jour de décembre 2011.
+Marie-Christine Gervais
+Référence : 2011 CCI 1
+Date : 20110106
+Dossiers : 2008-3574(GST)I,
+2008-3575(IT)I
+ENTRE :
+WALDEMAR MISIAK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+Dossier : 2008-3578(IT)I
+INDEPENDENT CONSTRUCTION BUSINESS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Hogan
+[1] L’appelant, Waldemar Misiak, exploitait une entreprise à titre de propriétaire unique dans l’industrie de la construction. Il posait des carreaux sur les murs et les planchers en tant que sous‑entrepreneur indépendant. Il travaillait seul dans l’entreprise. Le 16 octobre 2001, M. Misiak a constitué l’entreprise individuelle en société sous le nom d’Independent Construction Business Inc. (la « société »). L’exercice financier de la société se termine le 30 septembre.
+[2] Après avoir découvert un écart entre le revenu que la société avait déclaré pour l’année d’imposition 2002 et le revenu que la société avait tiré des contrats de sous‑traitance pour la pose de carreaux qu’elle avait conclus avec les entrepreneurs cette année‑là, l’Agence du revenu du Canada (l’« ARC ») a entrepris une vérification exhaustive des années d’imposition 2001, 2002 et 2003 de M. Misiak et des années d’imposition 2002 et 2003 de la société.
+[3] À la suite de la vérification, et après avoir pris en considération certaines des observations formulées par les contribuables à la suite du dépôt des avis d’opposition, le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations à l’égard des contribuables en tenant compte des éléments suivants :
+2001
+2002
+2003
+M. Misiak
+2008-3575(IT)I
+Revenu non déclaré
+25 810,90 $
+23 206,00 $
+5 935,26 $
+Pénalités pour faute lourde
+1 048,48 $
+1 078,90 $
+—
+La société
+2008-3578(IT)I
+Revenu net non déclaré
+—
+30 234,00 $
+5 935,26 $
+Dépenses d’entreprise refusées
+—
+10 454,00 $
+5 236,00 $
+Du 1er janv. 2001 au 31 déc. 2003
+M. Misiak
+2008-3574(GST)I
+TPS nette
+10 630,51 $
+5 429,39 $
+Pénalités et intérêts
+[4] Les appels ont été entendus sur preuve commune.
+[5] Les nouvelles cotisations établies à l’encontre de M. Misiak sont fondées sur la méthode de l’avoir net. Le calcul de l’avoir net effectué par l’ARC fait état d’un écart important entre le revenu que M. Misiak a déclaré et l’estimation du revenu dont il a besoin pour subvenir aux besoins de sa famille. L’année d’imposition 2001 de M. Misiak peut seulement être rouverte si l’intimée établit que M. Misiak a fait une présentation erronée du revenu qu’il a gagné cette année‑là et que cette présentation erronée est attribuable soit à sa négligence, à son inattention ou à une omission volontaire de sa part. L’intimée allègue que, comme M. Misiak a admis qu’il n’avait pas gagné d’autre revenu que celui qu’il avait directement tiré de la société, il s’est approprié le revenu de la société pour payer les frais personnels et les frais de subsistance estimés en sus de son revenu déclaré. L’intimée a estimé les frais personnels et les frais de subsistance de M. Misiak en se fondant sur les moyennes nationales calculées par Statistique Canada (« StatCan ») relativement aux frais de subsistance pour une famille de cinq personnes ou plus vivant au Canada.
+[6] Pendant l’instruction, l’avocate de l’intimée a renoncé, pour la période allant du 16 octobre 2001 au 31 décembre 2003, à la contestation de l’appel interjeté par M. Misiak à l’encontre de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise (la « LTA »), étant donné que l’entreprise était exploitée par la société et non par M. Misiak pendant cette période. La cotisation relative à la taxe sur les produits et services demeure en litige pour la période du 1er janvier au 15 octobre 2001. L’intimée a également concédé le fait que M. Misiak et la société n’avaient pas omis de déclarer des revenus pour l’année d’imposition 2003. Les seules dépenses qui demeurent en litige sont les dépenses d’entreprise dont la déduction a été refusée pour cette année‑là.
+[7] Comme il est mentionné dans les observations écrites de l’intimée, les questions à trancher dans le cadre des présents appels sont les suivantes :
+[traduction]
+a) le ministre a établi à juste titre une nouvelle cotisation à l’égard de l’appelant, M. Misiak, après l’expiration de la période normale de nouvelle cotisation pour son année d’imposition 2001 en vertu du sous‑alinéa 152(4)a)(i) de la Loi de l’impôt sur le revenu et de l’alinéa 298(4)a) de la Loi sur la taxe d’accise;
+b) l’appelant, M. Misiak, a omis d’inclure 25 810 $ et 23 206 $, respectivement, dans le calcul de son revenu pour les années d’imposition 2001 et 2002;
+c) le ministre a imposé à juste titre des pénalités de 1 048,48 $ et de 1 078,90 $ pour les années d’imposition 2001 et 2002, respectivement, à l’égard de l’appelant, M. Misiak, en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1, dans sa version modifiée (la « Loi »);
+d) le ministre a imposé à juste titre des pénalités à l’égard de l’appelant, M. Misiak, pour la période allant du 1er janvier au 16 octobre 2001, en vertu de l’article 285 de la Loi sur la taxe d’accise, L.R., 1985, ch. E-15, dans sa version modifiée (la « LTA »);
+e) l’entreprise a omis de déclarer la somme de 30 234 $ dans le calcul de son revenu pour l’année d’imposition 2002;
+f) le ministre a imposé à juste titre des pénalités de 1 048,48 $ pour l’année d’imposition 2002 à l’égard de l’entreprise, en vertu du paragraphe 163(2) de la Loi;
+g) les dépenses de 10 454 $ et de 5 236 $ dont la déduction a été refusée pour les années d’imposition 2002 et 2003, respectivement, ont été faites ou engagées par l’entreprise;
+h) les dépenses relatives aux années d’imposition 2002 et 2003 ont été faites ou engagées en vue de tirer un revenu d’une entreprise ou d’un bien.
+Contexte factuel
+[8] M. Misiak a témoigné qu’il recevait son travail d’entrepreneurs généraux. Il travaillait généralement six jours par semaine et était payé en fonction de la superficie en pieds carrés. Il a affirmé qu’il était toujours payé par chèque.
+[9] M. Misiak a cinq fils et a demeuré avec son épouse dans la résidence familiale à Mississauga, en Ontario, jusqu’en 2003, puis il a quitté le foyer familial pour vivre seul à la suite de l’échec de leur mariage.
+[10] M. Misiak a expliqué qu’en 1999, il avait quitté la Pologne pour venir s’installer au Canada. La vie était difficile en Pologne. M. Misiak a allégué que sa famille et lui avaient appris à vivre sobrement. Il a témoigné qu’ils achetaient des vêtements d’occasion et des meubles dans les magasins d’occasion Goodwill situés dans le quartier où ils vivaient. Ils mangeaient rarement au restaurant, et lorsqu’ils le faisaient, ils allaient chez McDonald’s. La famille ne dépensait de l’argent que pour se procurer des biens et des services essentiels. Selon M. Misiak, sa famille pouvait vivre avec le revenu d’environ 28 000 $ que son épouse et lui gagnaient annuellement et les prestations fiscales pour enfants de 9 000 $ à 10 000 $ qu’ils recevaient chaque année.
+[11] Pour les besoins de l’analyse de l’avoir net, l’ARC a tenu pour acquis que les frais personnels et les frais de subsistance de M. Misiak étaient de 52 907 $ et de 57 633,19 $ pour les années d’imposition 2001 et 2002, respectivement. M. Misiak a soutenu que ses frais personnels et ses frais de subsistance étaient nettement inférieurs à ceux des moyennes nationales calculées par StatCan pour une famille similaire pour ce qui est du nombre de membres. Dans son témoignage, il a affirmé que, pour les années d’imposition 2001 et 2002, respectivement, ses frais personnels et ses frais de subsistance étaient inférieurs à ceux déterminés par l’ARC d’au moins 8 000 $ et 11 500 $.
+Analyse
+[12] Le sous‑alinéa 152(4)a)(i) de la Loi de l’impôt sur le revenu (la « LIR »), qui régit les délais de prescription pour l’établissement de cotisations, est libellé ainsi :
+(4) Cotisation et nouvelle cotisation [délai de prescription] ― Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi, […][1]
+[Non souligné dans l’original.]
+[13] La nouvelle cotisation relative à l’année d’imposition 2001 a été établie après l’expiration de la période normale de nouvelle cotisation. Selon le sous‑alinéa 152(4)a)(i), lorsque le ministre établit une nouvelle cotisation pour une année d’imposition après l’expiration de la période normale de nouvelle cotisation, il a le fardeau d’établir que le contribuable a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou qu’il a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la LIR pour l’année d’imposition visée[2].
+[14] Selon la thèse de M. Misiak, le ministre ne peut pas rouvrir l’année d’imposition 2001 en se fondant uniquement sur son analyse de l’avoir net. M. Misiak invoque la décision que le juge en chef Bowman a rendue dans 943372 Ontario Inc. c. La Reine[3] à l’appui de sa thèse. Dans cette affaire, le ministre a établi une cotisation à l’égard de la société contribuable en incluant dans son revenu des présumées ventes non déclarées d’environ 697 000 $. L’appelante individuelle était la directrice de la société contribuable, laquelle appartenait à sa fille. L’appelante individuelle a fait l’objet d’une nouvelle cotisation à l’égard des présumées ventes non déclarées de 697 000 $ faites par la société contribuable, la nouvelle cotisation étant fondée sur les résultats d’une l’analyse de l’avoir net.
+[15] Étant donné la gêne qu’il éprouvait à l’égard de la cotisation fondée sur l’actif net, le juge en chef Bowman a tranché l’affaire en faveur de l’appelante et a fait les observations suivantes :
+10 La preuve présentée par la Couronne à l’encontre de Valerie mère pose un autre problème qui est selon moi plutôt troublant. Les cotisations relatives à l’année 2001 établies contre Valerie mère sont prescrites et peuvent uniquement être préservées si les conditions prévues aux paragraphes 152(4) et 152(4.01) sont réunies. Les cotisations relatives à l’année 2001 dont Valerie mère a fait l’objet sont fondées sur l’actif net. Il s’agit de cotisations arbitraires qui ne sont pas expressément basées sur une source particulière de revenu. Comment une cotisation d’actif net peut‑elle satisfaire aux conditions énoncées au paragraphe 152(4.01)? Pour être conforme aux dispositions du paragraphe 152(4.01), une nouvelle cotisation établie en vertu du paragraphe 152(4) doit respecter les restrictions énoncées au paragraphe 152(4.01) dans lequel figurent les mots suivants : « [...] dans la mesure où il est raisonnable de considérer qu’elle [la nouvelle cotisation] se rapporte à une présentation erronée des faits [...] effectuée par négligence, inattention ou omission volontaire ou attribuable à quelque fraude [...] ». […]
+[Non souligné dans l’original.]
+[16] Pour les années d’imposition qui ne sont pas frappées de prescription, c’est au contribuable qu’il incombe de démontrer que son revenu était inférieur à celui déterminé au moyen d’une cotisation fondée sur l’actif net. Le contribuable peut s’acquitter du fardeau de preuve qui lui incombe en montrant qu’il a reçu des sommes non imposables ou emprunté de l’argent dont il n’a pas été tenu compte dans les calculs effectués pour les besoins de l’analyse de l’avoir net. Il peut prouver que son actif net au cours de l’année de base était supérieur à l’actif net déterminé par le ministre pour cette année‑là. Le contribuable peut produire des éléments de preuve convaincants pour reconstituer son revenu. Cependant, lorsque les rôles sont inversés et que l’année est par ailleurs prescrite, le ministre a la même charge de présentation que le contribuable : il doit produire des éléments de preuve fiables pour démontrer, selon la prépondérance des probabilités, que le contribuable n’a pas déclaré la totalité de son revenu par négligence, inattention ou omission volontaire.
+[17] La preuve présentée par le ministre en l’espèce ne satisfait pas à cette norme de preuve. La thèse de l’intimée repose entièrement sur la prémisse limitée selon laquelle l’analyse de l’avoir net fait état d’un écart important entre le revenu déclaré par M. Misiak et son épouse et les frais personnels et les frais de subsistance estimés de leur famille pour l’année d’imposition 2001. L’estimation a été effectuée au moyen des chiffres fournis par StatCan pour une famille comprenant un homme, une femme et trois enfants ou plus. Personne n’a été appelé à témoigner pour expliquer comment ces chiffres avaient été obtenus. L’avocate de l’intimée a admis que ces chiffres sont des moyennes nationales. Aucun élément de preuve n’a été présenté pour établir comment ces moyennes avaient été calculées ou pour montrer quel était leur lien avec la capacité de gain de M. Misiak dans le domaine de la pose de carreaux et le style de vie de sa famille en 2001. Lorsqu’une année d’imposition est prescrite, le ministre ne peut pas simplement supposer que les frais personnels et les frais de subsistance d’un contribuable correspondent à un certain montant, puis avoir gain de cause si le contribuable ne réfute pas son hypothèse. Le ministre peut seulement agir ainsi si la nouvelle cotisation a été établie pendant la période normale de nouvelle cotisation. La LIR n’oblige pas les contribuables à conserver des relevés de leurs dépenses personnelles.
+[18] Je comprends que M. Misiak puisse avoir de la difficulté à reconstituer ses frais personnels et ses frais de subsistance plusieurs années après le fait. Cependant, c’était au ministre qu’il incombait de présenter des éléments de preuve fiables concernant les frais personnels et les frais de subsistance de M. Misiak. Comme l’intimée ne s’est pas acquittée du fardeau qui lui incombait, l’année d’imposition 2001 demeure prescrite.
+[19] J’arrive à une tout autre conclusion concernant les autres questions qui sont en litige dans les présents appels. M. Misiak admet que la société n’a pas déclaré la totalité de son revenu pour l’année d’imposition 2002. La vérificatrice de l’ARC croit que M. Misiak s’est approprié le revenu non déclaré pour payer ses frais personnels et ses frais de subsistance. Elle se fonde sur l’analyse de l’avoir net pour tirer cette conclusion. M. Misiak a le fardeau de démontrer que ses frais personnels et ses frais de subsistance étaient inférieurs à ceux supposés par le ministre parce que l’année 2002 n’est pas prescrite. Son représentant et lui auraient pu déposer en preuve les registres de la société pour montrer que M. Misiak ne s’était pas approprié les fonds pour son propre bénéfice. M. Misiak aurait pu produire un bilan et des documents renfermant des détails concernant le flux de trésorerie de la société pendant la période pertinente pour montrer que la totalité des gains nets de la société avaient été réinvestis dans son entreprise. Rien de tout cela n’a été fait et j’en tire une inférence défavorable. La société n’a présenté aucun élément de preuve fiable pour montrer que les dépenses dont la déduction avait été refusée pour les années 2002 et 2003 étaient des dépenses qui avaient été supportées en vue de tirer un revenu de l’exploitation de l’entreprise.
+[20] Pour tous ces motifs, les appels sont tranchés ainsi :
+1. L’appel interjeté par M. Misiak à l’encontre de la nouvelle cotisation établie en vertu de la partie IX de la LTA pour la période du 1er janvier 2001 au 31 décembre 2003 est accueilli et la nouvelle cotisation est annulée.
+2. L’appel interjeté par M. Misiak à l’encontre de la nouvelle cotisation établie en vertu de la LIR pour l’année d’imposition 2001 est accueilli et la nouvelle cotisation est annulée.
+3. L’appel interjeté par M. Misiak à l’encontre de la nouvelle cotisation établie en vertu de la LIR pour l’année d’imposition 2002 est rejeté.
+4. L’appel interjeté par M. Misiak à l’encontre de la nouvelle cotisation établie en vertu de la LIR pour l’année d’imposition 2003 est rejeté.
+5. L’appel interjeté par la société à l’encontre de la nouvelle cotisation établie en vertu de la LIR pour l’année d’imposition 2002 est accueilli et la nouvelle cotisation est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation afin de faire passer le montant de revenu non déclaré de 53 440 $ à 30 234 $.
+6. L’appel interjeté par la société à l’encontre de la nouvelle cotisation établie en vertu de la LIR pour l’année d’imposition 2003 est rejeté.
+Les présents motifs du jugement modifiés remplacent les motifs du jugement datés du 6 janvier 2011.
+Signé à Ottawa, Canada, ce 12e jour de décembre 2011.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 20e jour de décembre 2011.
+Marie-Christine Gervais
+RÉFÉRENCE : 2011 CCI 1
+Nos DES DOSSIERS DE LA COUR : 2008-3574(GST)I, 2008-3575(IT)I,
+2008-3578(IT)I
+INTITULÉS : WALDEMAR MISIAK c.
+SA MAJESTÉ LA REINE, INDEPENDENT CONSTRUCTION BUSINESS INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Les 21 et 22 septembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT
+MODIFIÉ ET DES MOTIFS
+DU JUGEMENT MODIFIÉS : Le 12 décembre 2011
+COMPARUTIONS :
+Représentant des appelants :
+M. Costa A. Abinajem
+Avocates de l’intimée :
+Me Rishma Bhimji
+Me Alisa Apostle
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le mot « inattention » suppose en général que la personne n’a pas fait d’efforts raisonnables pour se conformer à la LIR; voir Bérubé c. Canada, [2002] A.C.I. no 107 (QL). Le terme « négligence » a été défini comme un acte qui va à l’encontre de la diligence raisonnable dont fait généralement ou habituellement preuve une personne sage et prudente dans une situation donnée; voir Venne c. Canada, [1984] A.C.F. no 314 (QL).
+[2] Voir Mensah c. La Reine, 2008 CCI 378.
+[3] 2007 CCI 294.

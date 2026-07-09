@@ -1,0 +1,203 @@
+Title: Lee c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29920/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-400-29920-lee-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-07-28
+
+# Lee c. La Reine
+
+- Citation: 2010 CCI 400
+- Decision date: 2010-07-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6469, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lee c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-07-28
+Référence neutre
+2010 CCI 400
+Numéro de dossier
+2008-3932(GST)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-3932(GST)I
+ENTRE :
+BRADMAN LEE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 3 septembre 2009, le 27 janvier, le 11 mars
+et le 22 avril 2010, à Toronto (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Mme Roxana Rodriguez
+Avocat de l’intimée :
+Me Darren Prevost
+____________________________________________________________________
+JUGEMENT
+L’appel visant une cotisation établie en vertu de la Loi sur la taxe d’accise pour la période du 1er janvier 1999 au 31 décembre 2002 est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu des faits suivants : (1) dans le calcul de la taxe nette, les crédits de taxe sur les intrants doivent être accordés dans la même mesure qu’ils l’ont été pour les besoins des déclarations de culpabilité, et (2) les pénalités imposées en application de l’article 285 de la Loi doivent être annulées.
+Chacune des parties assumera ses propres dépens.
+Signé à Toronto (Ontario), ce 28e jour de juillet 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 15e jour de septembre 2010.
+Marie-Christine Gervais, traductrice
+Référence : 2010 CCI 400
+Date : 20100728
+Dossier : 2008-3932(GST)I
+ENTRE :
+BRADMAN LEE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Le présent appel interjeté en vertu de la Loi sur la taxe d’accise intéresse des commissions que l’appelant, Bradman Lee, a gagnées en qualité d’agent immobilier pendant la période du 1er janvier 1999 au 31 décembre 2002.
+[2] L’appelant a fait l’objet d’une cotisation en vertu de la Loi de l’impôt sur le revenu (la « LIR ») et de la Loi sur la taxe d’accise (la « LTA ») relativement à ce revenu. Le présent appel ne vise que la cotisation touchant la taxe sur les produits et services (la « TPS ») établie en vertu de la LTA et, comme l’a choisi l’appelant, il est instruit sous le régime de la procédure informelle. Un appel en matière fiscale, interjeté sous le régime de la procédure générale, est également en instance. Il n’a pas encore été entendu.
+[3] Par un avis daté du 17 février 2005, une cotisation a été établie en vertu de la LTA à l’égard de l’appelant au titre de ce qui suit : (1) une taxe nette de 23 804 $, (2) des pénalités et des intérêts de 5 713,51 $ et de 2 823,15 $, respectivement, en application de l’article 280, et (3) des pénalités de 5 951 $ en application de l’article 285.
+[4] La cotisation a été ratifiée le 22 septembre 2008, soit peu de temps après que l’appelant eut été déclaré coupable, au criminel, d’infractions en matière d’impôt sur le revenu et de TPS relativement au même revenu de commissions.
+[5] Avant d’examiner les questions en litige, il est utile de résumer certains aspects de ces déclarations de culpabilité.
+[6] En 2007, la Cour de justice de l’Ontario a déclaré l’appelant coupable d’infractions en matière d’impôt sur le revenu et de TPS. Les motifs rendus par le juge Cowan sont publiés dans la décision R. v. Lee, [2008] GSTC 65, [2008] 5 CTC 117.
+[7] Les déclarations de culpabilité ont été confirmées en appel par la Cour supérieure de justice, et l’appelant a demandé l’autorisation d’interjeter appel devant la Cour d’appel de l’Ontario. Cette demande est toujours en instance.
+[8] Les infractions en matière d’impôt sur le revenu dont l’appelant a été déclaré coupable sont prévues aux alinéas 239(1)a) et d) de la LIR, soit l’omission de déclarer un revenu de commissions dans les déclarations de revenus et le fait d’avoir, volontairement, éludé le paiement d’un impôt sur ce revenu. Le montant total du revenu en cause s’élevait à presque 150 000 $.
+[9] Les infractions en matière de TPS dont l’appelant a été déclaré coupable sont prévues à l’alinéa 327(1)c) de la LTA, soit le fait d’avoir, volontairement, éludé le versement de la taxe nette. Le montant total de la somme en cause s’élevait à 19 191,22 $.
+[10] Il semble que l’appelant n’a pas été accusé en vertu de l’alinéa 327(1)a) de la LTA, lequel est analogue à l’alinéa 239(1)a) de la LIR.
+[11] Au cours du procès criminel, l’appelant a fait certains aveux, dont les suivants, qui sont particulièrement pertinents : (1) l’appelant n’a pas [TRADUCTION] « payé » la TPS sur le revenu de commissions qu’il a gagné, (2) l’appelant n’a jamais produit de déclaration de TPS pour la période de 1999 à 2002, et (3) le compte de TPS de l’appelant a été [TRADUCTION] « fermé et vidé » le 3 février 1998.
+[12] Pour plus de clarté, il convient de faire quelques observations au sujet d’un aveu auquel l’avocat de l’intimée a renvoyé pendant l’audience. Au cours du contre‑interrogatoire de l’appelant, l’avocat a lu certains passages d’un exposé conjoint des faits reproduit dans les motifs rendus par le juge Cowan et a laissé entendre que l’appelant avait reconnu qu’il avait éludé le paiement d’une TPS totale de 19 191,22 $. Or, l’aveu invoqué paraît uniquement confirmer qu’il s’agissait d’une allégation de la Couronne. Je n’ai pas supposé que l’appelant avait reconnu une telle fraude au cours de l’instance criminelle.
+[13] Même s’il semble que l’appelant n’a pas, dans le cadre du procès criminel, fait d’aveu formel quant au montant de TPS qui aurait dû être versé, l’allégation formulée par la Couronne à cet égard n’a nullement été contestée. Au début de ce procès, l’avocat de l’appelant a tenu les propos suivants :
+[TRADUCTION]
+[…] ce à quoi je ne m’attends pas, c’est que la question en litige concerne les détails relatifs au montant de la taxe qui a – n’a pas été payé. Je pense que – que l’intégralité de la présente affaire sera tributaire du point de savoir si le spécialiste en déclarations de revenus a, en réalité, fourni – dans les – dans les déclarations tous les renseignements à ce sujet qui, selon les assertions de M. Lee, ont été donnés. À vrai dire, la question sera donc tranchée par le truchement du spécialiste en déclarations de revenus et non des détails relatifs aux éléments qui pourraient être manquants. Je ne pense pas que le fait que des éléments n’ont pas été produits soit contesté.
+[Transcription, p. 2]
+[14] Comme le donne à penser l’extrait ci‑dessus, le principal moyen de défense invoqué par l’appelant au procès criminel paraît tenir au fait qu’il avait fourni tous les renseignements pertinents à un spécialiste en déclarations de revenus.
+[15] Dans le témoignage qu’il a présenté au procès criminel, le spécialiste en déclarations de revenus, Farooz Mohamed, a mentionné qu’en 2002, il avait établi des déclarations de revenus pour l’appelant relativement à la période de 1999 à 2001. Quant à la TPS, il a témoigné que l’appelant l’avait informé qu’il se chargerait lui‑même de ses obligations en la matière.
+[16] L’appelant a présenté des éléments de preuve contraires à ce témoignage au cours du procès criminel. Dans son témoignage, l’appelant a affirmé qu’il pensait que M. Mohamed avait établi à la fois les déclarations de revenus et celles de TPS. Il a ajouté qu’il s’était rendu à l’ARC à de nombreuses occasions pour payer des taxes.
+[17] Le juge au procès a rejeté le témoignage oral l’appelant, et il a accepté le témoignage de M. Mohamed. Des extraits pertinents des motifs sont reproduits ci‑dessous.
+[TRADUCTION]
+115 Lorsqu’on lui a mentionné son omission de payer l’impôt sur le revenu et la TPS sur un revenu important, [Lee] a de vive voix et de façon alambiquée invoqué des rencontres avec des représentants non identifiés, mais dénombrés, de l’ARC qui, malgré tous ses efforts, ont repoussé ses tentatives de paiement. Son témoignage était contradictoire, vague, et il n’offrait dans certains cas aucune réponse aux questions posées.
+[…]
+117 [Si j’accepte son témoignage,] il me faudrait aussi conclure que, malgré un examen de l’ensemble des documents, où il n’est jamais fait état de déclarations ou de crédits de TPS, il aurait d’une manière ou d’une autre cru que les déclarations de TPS avaient été établies au moyen de ces documents, lorsqu’il les a produits auprès de l’ARC.
+118 Rien dans la preuve ne permet de croire qu’il aurait calculé, ou chargé quelqu’un de calculer pour lui, le montant de TPS qu’il avait perçu et le montant du crédit qu’il pouvait appliquer en réduction de celui‑ci.
+119 Comme son compte a été fermé en 1998, il lui était impossible de verser quelque montant de TPS que ce soit pendant la période en cause. Pendant tout ce temps, il n’a fait aucun effort pour remédier à cette omission.
+[18] C’est sur le fondement de ces conclusions que l’appelant a interjeté le présent appel en 2008. L’audience s’est étalée sur une longue période. Elle a duré quatre jours, répartis sur plusieurs mois. Les premier et dernier jours de l’audience, l’appelant s’est représenté lui‑même. Les deux autres jours, il était représenté par une représentante, Mme Rodriguez.
+Cotisation en cause
+[19] Plusieurs points ont semé la confusion pendant l’audience. L’un d’eux visait à déterminer quelle cotisation faisait l’objet du litige.
+[20] Selon l’avis d’appel, il s’agissait de la cotisation établie en 2008. Or, celle‑ci n’a pas été déposée en preuve.
+[21] La réponse ne comporte aucune observation à cet égard, mais il y est précisé que la cotisation pertinente a été établie par un avis daté du 17 février 2005 et qu’elle a été ratifiée en 2008. Cet avis a été déposé en preuve.
+[22] L’analyse qui suit se fonde sur le fait que le présent appel intéresse la cotisation établie en 2005. La preuve était insuffisante pour établir l’existence d’une cotisation ultérieure. Ce point ne sera vraisemblablement pertinent que pour décider si les intérêts et les pénalités ont bien été calculés en fonction de la date de cotisation.
+Moyens d’appel
+[23] Les moyens d’appel étaient également source de confusion. Ils n’ont pas été clairement énoncés dans l’avis d’appel et de nouvelles questions ont été soulevées à divers moments de l’instance. Mme Rodriguez a bien réussi à présenter les questions en litige, mais elle n’a pas représenté l’appelant pendant toute l’instance et, de plus, elle semblait parfois avoir de la difficulté à comprendre la thèse avancée par son client.
+[24] La Cour fait habituellement preuve de souplesse et de compréhension dans les appels régis par la procédure informelle. Cependant, lorsqu’un appelant n’est pas en mesure de clairement présenter les raisons pour lesquelles il interjette appel, la Cour est privée de ses moyens.
+[25] Je vais maintenant passer à l’analyse touchant la taxe nette dans la cotisation.
+Taxe nette
+[26] Selon la législation applicable, l’appelant avait l’obligation de verser la taxe nette. En l’espèce, la taxe nette devrait normalement correspondre à la différence entre la TPS à percevoir par l’appelant sur les commissions gagnées à titre d’agent immobilier et la TPS due au titre des dépenses connexes.
+[27] Suivant la cotisation, la taxe nette pour la période en cause s’élève à 23 804 $. Il s’agit de la totalité de la TPS à percevoir étant donné qu’aucun crédit de taxe sur les intrants n’a été accordé.
+[28] Il importe de signaler que la taxe nette, telle qu’elle a été établie par la Couronne pour les besoins des accusations au criminel, se chiffrait à seulement 19 191,22 $. Certains crédits de taxe sur les intrants ont été accordés dans le calcul effectué à cette fin.
+[29] La réponse ne fait pas état de cette différence et elle n’explique pas non plus pourquoi la totalité des crédits de taxe sur les intrants ont été refusés dans la cotisation.
+[30] Madame Rodriguez a mentionné que les seuls éléments de la taxe nette en litige sont un élément de taxe à percevoir de 983,15 $ (pièce R‑2, onglets 8 et 9) et les crédits de taxe sur les intrants totalisant environ 13 700 $.
+[31] La preuve présentée à l’appui de ces sommes tient presque entièrement au témoignage intéressé de l’appelant. Dans son bref témoignage en interrogatoire principal, l’appelant a déclaré qu’il avait tenu des registres appropriés et conservé les pièces justificatives pertinentes, que ces registres et pièces avaient été remis à un expert‑comptable qui était décédé de même qu’à M. Mohamed, qu’ils avaient ensuite été soit perdus, soit saisis par l’ARC, et qu’il lui était maintenant impossible de les récupérer.
+[32] L’enquêteur de l’ARC, Francisco Carvalho, a soutenu le contraire dans son témoignage. Il a affirmé que tous les documents se trouvant en la possession de l’ARC avaient été fournis à l’appelant ou à son avocat, y compris 21 000 documents dont on a fait des copies par suite d’une demande de communication présentée par l’appelant. Ces documents auraient compris les documents saisis dans les locaux de l’appelant et de M. Mohamed.
+[33] Le témoignage de l’appelant n’était pas du tout convaincant; il était beaucoup trop court, vague et décousu.
+[34] Je suis persuadée, compte tenu du témoignage que M. Carvalho a présenté à l’audience, que le calcul de la taxe nette effectué pour les besoins de l’instance criminelle était juste. J’accepte en outre le témoignage de M. Carvalho voulant que tous les documents saisis aient été fournis à l’appelant.
+[35] L’appelant laisse entendre que l’instance criminelle était entachée d’irrégularité et qu’il n’avait jamais eu l’intention de reconnaître l’exactitude des aveux qui y ont été faits. Il signale également que son appel des déclarations de culpabilité est toujours en instance.
+[36] Même si les questions soulevées dans le cadre du présent appel sont différentes de celles qui ont été examinées au cours de l’instance criminelle, les faits sont pour l’essentiel identiques. Si la Cour tire en faveur de l’appelant des conclusions de fait qui sont contraires à celles prononcées par le juge Cowan, il doit exister une preuve claire et convaincante permettant de les étayer. Or, la preuve en l’espèce est loin de satisfaire à cette exigence.
+[37] J’éprouve toutefois quelques réserves en ce qui concerne le refus total de l’ensemble des crédits de taxe sur les intrants. Comme il est mentionné plus haut, aucune raison n’est donnée à cet égard dans la réponse. L’avocat de l’intimée, Me Prevost, a soutenu pendant le débat que les crédits de taxe sur les intrants devaient être demandés dans une déclaration et qu’aucune déclaration de TPS n’avait été produite en l’espèce.
+[38] L’absence de communication quant à des crédits de taxe sur les intrants dans la réponse est troublante, en particulier si l’on tient compte du fait que certains crédits de taxe sur les intrants ont été accordés pour les besoins des accusations au criminel, après un examen approfondi des dépenses engagées par l’appelant. Il a semblé que Mme Rodriguez avait peut‑être ignoré que les crédits de taxe sur les intrants avaient été intégralement refusés, jusqu’à ce que Me Prevost le mentionne pendant l’audience. Je suis préoccupée de ce que l’absence de communication dans la réponse ait pu causer un préjudice à l’appelant.
+[39] Il convient dans les circonstances d’accorder des crédits de taxe sur les intrants dans la même mesure qu’ils ont été accordés pour les besoins des accusations au criminel.
+[40] Aucun autre ajustement à la taxe nette n’est justifié.
+Autres questions soulevées par l’appelant
+[41] Le paragraphe 5 de l’avis d’appel est ainsi rédigé :
+[TRADUCTION]
+Aucune TPS n’est due à l’intimée étant donné que des déclarations de TPS ont été produites pour chacune des années d’imposition, y compris 2007, que la TPS est à jour et a été versée et qu’aucune somme n’est donc due à l’ARC, contrairement à ce que cette dernière allègue à tort.
+[42] Madame Rodriguez a informé la Cour qu’elle n’avait pas l’intention de s’intéresser davantage à cette question.
+[43] Bien qu’il ne soit donc pas nécessaire que j’examine ce point, il appelle néanmoins quelques brèves observations compte tenu de l’importance appréciable qu’y a accordée l’appelant lors du premier jour de l’audience.
+[44] Si l’appelant souhaite contester le fait que des sommes sont actuellement dues à l’ARC, le présent tribunal n’est pas l’endroit pour le faire puisque la Cour n’a pas compétence pour statuer sur ce point.
+[45] La seule question dont je suis valablement saisie est celle de savoir si la cotisation relative à 2005 est exacte. Les versements de taxe pourraient avoir une incidence sur l’exactitude de la cotisation quant aux intérêts et aux pénalités, mais uniquement si ces versements ont eu lieu antérieurement à la date de la cotisation. Cela est extrêmement improbable compte tenu du contexte factuel de la présente affaire.
+[46] Je me pencherai aussi brièvement sur une question liée à la prescription. Le paragraphe 13 de l’avis d’appel est libellé ainsi :
+[TRADUCTION]
+L’avis de nouvelle cotisation est frappé de prescription car il a été donné après l’expiration de la période normale de nouvelle cotisation applicable à l’appelant.
+[47] Les délais de prescription dans lesquels une cotisation doit généralement être établie sont énoncés à l’article 298 de la LTA. Les parties pertinentes de cette disposition, telles qu’elles étaient rédigées pendant la période en cause, sont reproduites ci‑dessous.
+298(1) Sous réserve des paragraphes (3) à (6.1), une cotisation ne peut être établie à l’égard d’une personne en application de l’article 296 après l’expiration des délais suivants :
+a) s’agissant d’une cotisation visant l’un des montants suivants, quatre ans après le dernier en date du jour où la personne était tenue par l’article 238 de produire une déclaration pour la période et du jour de la production de la déclaration :
+(i) la taxe nette de la personne pour sa période de déclaration,
+[…]
+e) s’agissant d’une pénalité payable par la personne, sauf la pénalité prévue à l’article 280, 285 ou 285.1, quatre ans après que la personne en est devenue redevable;
+[Non souligné dans l’original.]
+[48] Selon l’alinéa 298(1)a), la taxe nette peut faire l’objet d’une cotisation à n’importe quel moment si les déclarations de TPS n’ont pas été produites.
+[49] L’appelant a reconnu pendant le procès criminel que les déclarations de TPS n’avaient pas été produites. Le témoignage qu’il a présenté au cours de la présente audience était plus équivoque. À un certain moment, l’appelant a paru laisser entendre que les déclarations de TPS avaient réellement été établies par M. Mohamed puis produites. Ce témoignage était beaucoup trop vague pour être convaincant, en particulier à la lumière de l’aveu fait au procès criminel.
+[50] J’arrive à la conclusion qu’aucune déclaration de TPS n’a été produite, à tout le moins avant l’établissement de la cotisation. Certains éléments de preuve permettent de penser que des déclarations ont été produites ultérieurement, mais cela n’aurait aucune incidence sur la cotisation.
+[51] En ce qui touche les intérêts et les pénalités établis en application de l’article 280 et les pénalités établies en application de l’article 285, ces dispositions ne semblent pas prévoir de délai de prescription.
+[52] À titre subsidiaire, Me Prevost a fait valoir que le paragraphe 298(4) l’emporte en l’espèce sur les délais de prescription habituels. Voici le texte de cette disposition :
+298(4) Une cotisation peut être établie à tout moment si la personne visée a :
+a) fait une présentation erronée des faits, par négligence, inattention ou omission volontaire;
+b) commis quelque fraude en faisant ou en produisant une déclaration selon la présente partie ou une demande de remboursement selon la section VI ou en donnant, ou en ne donnant pas, quelque renseignement selon la présente partie;
+c) produit une renonciation en application du paragraphe (7) qui est en vigueur au moment de l’établissement de la cotisation.
+[Non souligné dans l’original.]
+[53] Les termes soulignés ci‑dessus s’appliquent en l’espèce. Manifestement, l’appelant a commis une fraude en omettant de fournir des renseignements exigés par la LTA quant à son revenu de commissions.
+[54] La cotisation n’est pas frappée de prescription.
+[55] L’appelant a en outre avancé que les fonctionnaires de l’ARC avaient commis des abus. Même si c’était le cas, ce fait ne lui permettrait pas d’obtenir réparation dans la présente instance : Main Rehabilitation Co. Ltd. c. La Reine, 2004 CAF 403, 2004 DTC 6762.
+Pénalités prévues à l’article 285
+[56] Des pénalités ont été imposées à l’appelant en application de l’article 285. D’une manière générale, cette disposition prévoit une pénalité d’un montant égal à 25 pour 100 en cas de faux énoncés ou d’omissions faits sciemment ou dans des circonstances équivalant à faute lourde.
+[57] L’article 285 a été modifié le 20 octobre 2000, soit au milieu de la période de cotisation. La modification n’est pas pertinente en l’espèce. Il suffit donc de reproduire la version modifiée, dont la partie applicable prévoit ce qui suit :
+285 Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, une demande, un formulaire, un certificat, un état, une facture ou une réponse – appelés « déclaration » au présent article – établi pour une période de déclaration ou une opération, ou y participe, y consent ou y acquiesce, est passible d’une pénalité de 250 $ ou, s’il est plus élevé, d’un montant égal à 25 % de la somme des montants suivants :
+a) si le faux énoncé ou l’omission a trait au calcul de la taxe nette de la personne pour une période de déclaration, le montant obtenu par la formule suivante :
+A - B
+où :
+A représente la taxe nette de la personne pour la période,
+B le montant qui correspondrait à la taxe nette de la personne pour la période si elle était déterminée d’après les renseignements indiqués dans la déclaration;
+[…]
+[Non souligné dans l’original.]
+[58] Selon la réponse, le ministre avance la thèse voulant que l’appelant n’ait [TRADUCTION] « déclaré aucune TPS à percevoir sur ses fournitures taxables ». Cela donne à penser qu’une déclaration quelconque aurait été fournie par l’appelant.
+[59] Il est nécessaire de déterminer la nature de la [TRADUCTION] « déclaration » à laquelle on renvoie dans la réponse. Selon les arguments formulés par Me Prevost, il semble que la déclaration alléguée ne soit pas une déclaration dans le sens habituel du terme, mais plutôt une omission de produire des déclarations de TPS. La décision Boucher c. La Reine, 2006 CCI 189, [2007] GSTC 138, de la Cour a été invoquée à l’appui de cet argument.
+[60] Cette thèse ne me convainc pas. À mon avis, même si l’appelant a sciemment éludé le versement de la taxe, l’article 285 ne s’applique pas à moins qu’un quelconque faux énoncé n’ait été fait.
+[61] Il ressort sans équivoque des parties soulignées de la disposition législative que la pénalité ne s’applique que dans les cas où le contribuable a fait une déclaration, une demande, un formulaire, un certificat, un état, une facture ou une réponse.
+[62] Le défaut de produire une déclaration ne constitue pas une omission dans une déclaration qui a été faite. Il semble que ce point n’ait pas été soulevé dans la décision Boucher.
+[63] Comme il s’agissait là du seul fondement permettant d’imposer des pénalités en application de l’article 285, ces pénalités doivent être supprimées de la cotisation. Cette conclusion n’influe en rien sur les pénalités imposées en application de l’article 280, lesquelles sont confirmées.
+[64] En raison des conclusions susmentionnées, l’appel sera accueilli, et la cotisation sera renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que : (1) des crédits de taxe sur les intrants doivent être accordés dans la même mesure qu’ils l’ont été pour les besoins des déclarations de culpabilité, et (2) les pénalités fondées sur l’article 285 doivent être annulées.
+[65] Quant aux dépens, Me Prevost a demandé qu’ils soient adjugés à l’intimée en application du paragraphe 9(2) des Règles de la Cour canadienne de l’impôt à l’égard de la Loi sur la taxe d’accise (procédure informelle) parce que l’appelant a retardé indûment le règlement prompt et efficace de l’appel.
+[66] Bien que cet argument ne soit pas dénué de fondement, je refuse d’adjuger des dépens en l’espèce compte tenu des lacunes appréciables que comportait la réponse. En effet, cette dernière omettait non seulement d’exposer clairement les raisons à l’origine de la cotisation, mais aussi, ce qui est plus important encore, de traiter d’un grand nombre des moyens soulevés dans l’avis d’appel.
+[67] Avant de conclure, je tiens à remercier Me Prevost pour ses observations écrites, lesquelles m’ont été fort utiles.
+Signé à Toronto (Ontario), ce 28e jour de juillet 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 15e jour de septembre 2010.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2010 CCI 400
+NO DU DOSSIER DE LA COUR : 2008-3932(GST)I
+INTITULÉ : Bradman Lee et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Le 3 septembre 2009, le 27 janvier,
+le 11 mars et le 22 avril 2010
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 28 juillet 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Mme Roxana Rodriguez
+Avocat de l’intimée :
+Me Darren Prevost
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

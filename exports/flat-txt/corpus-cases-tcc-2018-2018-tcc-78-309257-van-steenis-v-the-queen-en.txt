@@ -1,0 +1,112 @@
+Title: Van Steenis v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/309257/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-78-309257-van-steenis-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-04-20
+
+# Van Steenis v. The Queen
+
+- Citation: 2018 TCC 78
+- Decision date: 2018-04-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7423, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Van Steenis v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-04-20
+Neutral citation
+2018 TCC 78
+File numbers
+2017-3305(IT)I
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-3305(IT)I
+BETWEEN:
+ERIC VAN STEENIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on January 18 and April 3, 2018, at Vancouver, British Columbia
+Before: The Honourable Justice David E. Graham
+Appearances:
+Agent for the Appellant:
+Trevor Holmgren
+Counsel for the Respondent:
+Mara Tessier
+JUDGMENT
+The appeals of the Appellant’s 2013, 2014 and 2015 tax years are dismissed.
+Signed at Ottawa, Canada, this 20th day of April 2018.
+“David E. Graham”
+Graham J.
+Citation: 2018 TCC 78
+Date: 20180420
+Docket: 2017-3305(IT)I
+BETWEEN:
+ERIC VAN STEENIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] This appeal concerns the deduction of interest. The facts are not in dispute.
+[2] In 2007, Eric Van Steenis borrowed $300,000 (the “Loan”) to purchase units (the “Units”) of a mutual fund (the “Fund”). The parties agree that, at the time he took out the Loan, Mr. Van Steenis was borrowing the money for the purpose of gaining or producing income from property.
+[3] Each year from 2007 to 2015, Mr. Van Steenis received a return of capital from the Fund. The total returned over that period was $196,850. Mr. Van Steenis used some of that return of capital to reduce the outstanding principal of the Loan. However, he used the majority of the return of capital for personal purposes.
+[4] Mr. Van Steenis deducted all of the interest charged on the Loan each year. The Minister of National Revenue reassessed Mr. Van Steenis’ 2013, 2014 and 2015 tax years to deny a portion of the interest deducted. [1] The Minister concluded that Mr. Van Steenis was not entitled to deduct interest relating to the returns of capital that had been used for personal purposes as the money borrowed in respect of those returns of capital was no longer being used for the purpose of gaining or producing income.
+[5] Mr. Van Steenis has appealed those reassessments.
+[6] Paragraph 20(1)(c) of the Income Tax Act permits the deduction of interest paid on borrowed money that is used for the purpose of gaining or producing income from property. As set out by the Supreme Court of Canada in Shell Canada Ltd. v. Canada, there are four requirements that must be met for a deduction to be made under paragraph 20(1)(c): “(1) the amount must be paid in the year or payable in the year in which it is sought to be deducted; (2) the amount must be paid pursuant to a legal obligation to pay interest on borrowed money; (3) the borrowed money must be used for the purpose of earning non-exempt income from a business or property; and (4) the amount must be reasonable, as assessed by reference to the first three requirements”. [2]
+[7] Only the third Shell requirement is in issue in this appeal. To satisfy the third requirement, a taxpayer must establish that there is a sufficient direct link between the borrowed money and the current use of that money to gain or produce income from property. [3]
+[8] Mr. Van Steenis argues that the third requirement has been met. He submits that the money was borrowed for the purpose of buying the Units. There is no dispute that that was an eligible use of the funds. Mr. Van Steenis argues that, since he continues to own all of the Units, his current direct use of the borrowed funds is still that same eligible use. He says that he is therefore entitled to deduct all of the interest payments on those funds.
+[9] Mr. Van Steenis submits that he had no control over the characterization of monies distributed to him by the Fund. The choice to characterize those distributions as returns of capital was a choice made by the Fund. Mr. Van Steenis submits that “return of capital” is a description used by the mutual fund industry. He observes that the term is not used in the Act. He points out that, while a return of capital does represent a return of some of the capital held by a mutual fund, it does not necessarily represent the return of an individual unitholder’s capital. Mr. Van Steenis states that, because mutual funds are making distributions to many different unitholders, each of whom likely invested at a different price, it is possible that a given unitholder will receive a return of capital that exceeds the amount that he or she invested. Thus, Mr. Van Steenis reasons, there is no correlation between the funds described as being a return of capital and a unitholder’s actual capital.
+[10] I disagree with Mr. Van Steenis’ characterization of what has occurred. Mr. Van Steenis borrowed money to buy the Units. Over the years, almost two-thirds of the money that he invested was returned to him. More than half of that returned money was put to use for personal purposes. In the years in question, that was its current use. As a result, I find that there was no longer any direct link between those borrowed funds and the investment in the Units. The fact that Mr. Van Steenis still owned all of the Units does not change this analysis. Thus Mr. Van Steenis was not entitled to deduct the interest relating to the portion used for personal purposes.
+[11] My conclusions are supported by the scheme of the Act. Parliament clearly regards a return of capital as exactly that: a return of some or all of the amount that a taxpayer invested. A mutual fund is a trust. A taxpayer can receive money from a mutual fund in two ways: as a distribution of the fund’s income or as a distribution of the fund’s capital. Generally speaking, income that is paid or payable to unitholders is deducted from the fund’s income and included in the unitholder’s income. [4] By contrast, distributions of capital to unitholders (including capital upon which tax has already been paid) are not taxable. Subparagraph 53(2)(h)(i.1) reduces the unitholder’s adjusted cost base in the fund by the amount of capital distributed to him or her. This reflects the reality that a distribution of capital to a unitholder is, in essence, a return of that unitholder’s capital. The unitholder no longer has as much money invested. If a unitholder receives a distribution of capital that is greater than his or her investment, subsection 40(3) treats the resulting negative adjusted cost base as a capital gain. This too reflects the reality that, if a unitholder has received more back from his or her investment than he or she put in, the amount he or she has received must be a gain. The fact that distributions of capital are not treated as income until they exceed the amount of a unitholder’s investment clearly indicates that Parliament viewed distributions of capital as being returns of the unitholder’s own investment.
+[12] Mr. Van Steenis points to the statement in Shell that “absent a specific provision of the Act to the contrary or a finding that they are a sham, the taxpayer's legal relationships must be respected in tax cases”. [5] He argues that reducing the eligible portion of the interest by the returns of capital is a prohibited attempt to tax based on the economic reality of the situation rather than the transactions that actually occurred. I disagree. The transactions that occurred and the economic reality of those transactions are one and the same. Mr. Van Steenis invested money in the Fund and the Fund gave him some of his money back. That portion of his money is no longer invested. Had the Fund made income distributions to Mr. Van Steenis, his investment would not have changed. He would have been able to continue to deduct his full interest payments. However, the Fund did not do that. The Fund returned part of his capital to him. In denying part of Mr. Van Steenis’ interest deduction, the Minister has honoured that legal relationship.
+[13] Mr. Van Steenis also relies on the Supreme Court of Canada’s decision in Tennant v. The Queen. [6] In that decision, the Court found that, if an investment made with borrowed funds is disposed of at a loss and the entire proceeds are reinvested, the interest on the full loan continues to be deductible. With respect, the Tennant decision can be distinguished on its facts.
+[14] Based on all of the foregoing, the appeals are dismissed.
+Signed at Ottawa, Canada, this 20th day of April 2018.
+“David E. Graham”
+Graham J.
+CITATION:
+2018 TCC 78
+COURT FILE NO.:
+2017-3305(IT)I
+STYLE OF CAUSE:
+ERIC VAN STEENIS v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATES OF HEARING:
+January 18 and April 3, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+April 20, 2018
+APPEARANCES:
+Agent for the Appellant:
+Trevor Holmgren
+Counsel for the Respondent:
+Mara Tessier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Mr. Van Steenis claimed deductions of $9,545, $8,975 and $7,843 in 2013, 2014 and 2015 respectively. The Minister denied the deduction of $4,546, $4,603 and $4,304 of those amounts respectively. While Mr. Van Steenis initially raised an alternative argument regarding how the denied portion of the interest should be calculated, he abandoned that issue on the second day of the hearing.
+[2] [1999] 3 S.C.R. 622, 1999 CarswellNat 1809 at para. 28.
+[3] Shell at para. 31.
+[4] Subsections 104(6) and (13).
+[5] Shell at para. 39.
+[6] 1996 CarswellNat 51, 96 DTC 6121, [1996] 1 S.C.R. 305.

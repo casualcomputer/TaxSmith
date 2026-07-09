@@ -1,0 +1,129 @@
+Title: Modelerie Dorval Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28642/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-277-28642-modelerie-dorval-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-05-01
+
+# Modelerie Dorval Inc. c. M.R.N.
+
+- Citation: 2008 CCI 277
+- Decision date: 2008-05-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1122, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Modelerie Dorval Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-01
+Référence neutre
+2008 CCI 277
+Numéro de dossier
+2007-3500(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007‑3500(EI)
+ENTRE :
+MODÈLERIE DORVAL INC.,
+appelante,
+et
+LE MINISTRE DU REVENU DU CANADA,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 21 avril 2008, à Montréal (Québec).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l’appelante :
+Me Deryk W. Coward
+Avocat de l’intimé :
+Me Nadia Golmier
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») est accueilli, et la décision rendue par le ministre du Revenu national en date du 17 mai 2007 relativement à l’assurabilité de l’emploi occupé par Joseph Cassis chez l’appelante est modifiée au motif que, en vertu des alinéas 5(2)i) et 5(3)b) de la Loi, M. Cassis n’occupait pas un emploi assurable chez l’appelante, puisqu’ils avaient entre eux un lien de dépendance et qu’ils n’étaient pas réputés ne pas avoir de lien de dépendance durant la période en cause.
+Signé à Ottawa, Canada, ce 1er jour de mai 2008.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 9e jour de juin 2008.
+Aleksandra Koziorowska
+Référence : 2008CCI277
+Date : 20080501
+Dossier : 2007‑3500(EI)
+ENTRE :
+MODÈLERIE DORVAL INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelante conteste la décision par laquelle le ministre du Revenu national (le « ministre ») a conclu que Joseph Cassis (le « travailleur ») occupait un emploi assurable chez l’appelante durant la période allant du 1er janvier 2003 au 31 décembre 2005.
+[2] Le ministre a appuyé sa décision sur les hypothèses de fait énoncées au paragraphe 13 de la réponse à l’avis d’appel qui est en partie rédigé ainsi :
+[TRADUCTION]
+a) L’appelante qui a été constituée en société en 1987 exerce ses activités dans le domaine de la conception industrielle.
+b) L’appelante fabrique des prototypes et des pièces spécialisées (pour les avions et les trains) pour le compte de sociétés telles que Bombardier.
+c) L’appelante prépare des moules et fabrique des pièces coulées.
+d) Les trois actionnaires, Rui Cassis, Mario Claro et le travailleur, étaient garants de la marge de crédit et des emprunts de l’appelante.
+e) Les actionnaires pouvaient signer des chèques au nom de l’appelante, deux signatures étant requises.
+f) Les heures de bureau de l’appelante étaient de 7 h à 17 h.
+g) Le chiffre d’affaires annuel de l’appelante variait de 1 249 587 $ à 1 500 000 $.
+h) Aucun contrat de travail écrit n’avait été signé par l’appelante et le travailleur durant la période en cause.
+i) Le travailleur agissait comme directeur général de l’appelante et voyait à tous les aspects de son exploitation.
+j) Le travailleur touchait à tous les secteurs de l’exploitation – ingénierie, ventes et finances – et s’occupait à l’occasion de la maintenance.
+k) Les décisions étaient prises par les trois actionnaires mais M. Rui Cassis avait le dernier mot.
+l) Durant la période en cause, le travailleur n’avait pas d’horaire de travail régulier à respecter; il pouvait travailler entre 40 et 60 heures par semaine.
+m) Durant la période en cause, le travailleur a touché un salaire fixe de 920 $ par semaine, ou de 48 000 $ par année.
+n) Le salaire du travailleur était identique à celui de M. Mario Claro, un actionnaire qui n’était pas une personne liée à l’appelante.
+o) Le travailleur avait les mêmes modalités d’emploi et le même salaire que Mario Claro. L’appelante les traitait de la même manière.
+[3] L’avocat de l’appelante a précisé au début de l’audience qu’il ne contestait pas que le travailleur avait été engagé en vertu d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi (la « Loi »). Il a fait valoir toutefois que le travailleur et l’appelante avaient un lien de dépendance et qu’ils ne devaient pas être réputés ne pas avoir de lien de dépendance au sens des alinéas 5(2)i) et 5(3)b) de la Loi.
+[4] Mme Camille Ledoux, agente des appels, a expliqué pourquoi elle était d’avis que le travailleur et l’appelante étaient réputés ne pas avoir de lien de dépendance au sens des alinéas 5(2)i) et 5(3)b) de la Loi.
+[5] Mme Ledoux est parvenue à cette décision parce que le travailleur et l’autre actionnaire minoritaire, Mario Claro, touchaient à peu près le même salaire durant la période en cause.
+[6] Joseph Cassis a témoigné que, durant les années en cause, il gérait l’entreprise presque à lui seul. Son père prenait de l’âge et n’était pas aussi familier que lui avec les nouveaux outils informatisés maintenant utilisés dans l’entreprise. Son père passait quatre ou cinq mois au Portugal chaque année. Joseph Cassis a déclaré dans son témoignage qu’il consultait son père et Mario Claro pour les décisions importantes, et que son père s’intéressait principalement à la rentabilité de l’entreprise et en déléguait la gestion à son fils.
+[7] Joseph Cassis a témoigné qu’il travaillait très fort, qu’il a accepté un salaire peu élevé parce qu’il considérait l’entreprise comme la sienne et qu’il réinvestissait les profits dans celle‑ci.
+[8] Il touchait à peu près le même salaire que Mario Claro, mais, selon ce que Joseph Cassis a déclaré dans son témoignage, Mario Claro se spécialisait dans le moulage des pièces fabriquées par l’appelante et se consacrait exclusivement à cela. La preuve ne révélait pas que l’intimé avait pris en considération le nombre d’heures travaillées par Mario Claro et par Joseph Cassis. D’après les hypothèses de fait énoncées précédemment et compte tenu de tous les aspects de l’entreprise auxquels Joseph Cassis collaborait, il semblerait qu’il travaillait plus d’heures que Mario Claro.
+[9] De plus, la preuve a révélé que Joseph Cassis devait se rendre sur les lieux de travail durant les fins de semaine pour des raisons de sécurité et il était celui qu’on appelait en cas de problème sur les lieux de travail en dehors des heures de bureau. Mme Ledoux a également reconnu dans son rapport (pièce R‑1), que les heures de travail de Joseph Cassis ne faisaient l’objet d’aucun contrôle.
+[10] De tout ce qui précède, il peut être inféré que Joseph Cassis était payé le même salaire que l’autre actionnaire minoritaire, Mario Claro, mais qu’il travaillait plus d’heures et avait plus de responsabilités.
+[11] M’appuyant sur ce motif, je conclus que Joseph Cassis n’avait pas les mêmes modalités d’emploi que Mario Claro, l’autre actionnaire choisi par Mme Ledoux à des fins de comparaison.
+[12] Dans Bélanger c. Canada, [2003] A.C.F. no 1774 (QL), la Cour d’appel fédérale s’est prononcée à nouveau sur le rôle que la Loi confère à la Cour dans les cas où celle‑ci examine les décisions ministérielles rendues en application de l’alinéa 5(3)b) de la Loi, en précisant ce qui suit :
+[2] Le juge n’a pas exercé le rôle qui lui est confié par la Loi sur l’assurance‑emploi et que la jurisprudence de notre Cour a redéfini dans les arrêts Pérusse c. Canada (Ministre du Revenu national - M.R.N.), (2002), 261 N.R. 150, demande d’autorisation d’appeler à la Cour suprême rejetée, et Légaré c. Canada (Ministre du Revenu national - M.R.N.), (1999), 246 N.R. 176. Ces arrêts furent subséquemment suivis dans Valente c. Canada (Ministre du Revenu national - M.R.N.), [2003] A.C.F. no 418, 2003 CAF 132 et Massignani c. Canada (Ministre du Revenu national - M.R.N.), [2003] A.C.F. no 542, 2003 CAF 172.
+[3] Comme le disait cette Cour dans Massignani, précité, au paragraphe 2, « ce rôle ne permet pas au juge de substituer sa discrétion à celle du ministre, mais il comporte l’obligation de vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus et, après cette vérification, […] décider si la conclusion dont le ministre était convaincu paraît raisonnable ».
+[13] À mon avis, les faits sur lesquels le ministre s’est appuyé n’ont pas été appréciés correctement en tenant compte du contexte dans lequel ils sont survenus.
+[14] Je conclus donc que la décision du ministre de considérer que Joseph Cassis était réputé ne pas avoir de lien de dépendance avec l’appelante durant la période en cause n’était pas appropriée dans les circonstances et, par conséquent, n’était pas raisonnable.
+[15] Par conséquent, l’appel est accueilli, et la décision du ministre est modifiée au motif que, en vertu des alinéas 5(2)i) et 5(3)b) de la Loi, Joseph Cassis n’occupait pas un emploi assurable durant la période en cause.
+Signé à Ottawa, Canada, ce 1er jour de mai 2008.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 9e jour de juin 2008.
+Aleksandra Koziorowska
+RÉFÉRENCE : 2008CCI277
+NO DE DOSSIER DE LA COUR : 2007‑3500(EI)
+INTITULÉ DE LA CAUSE : Modèlerie Dorval Inc. et
+Ministre du Revenu national
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 21 avril 2008
+MOTIFS DU JUGEMENT : L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 1er mai 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Deryk W. Coward
+Avocat de l’intimé :
+Me Nadia Golmier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Deryk W. Coward
+Cabinet : D’Arcy & Deacon LLP
+Winnipeg (Manitoba)
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

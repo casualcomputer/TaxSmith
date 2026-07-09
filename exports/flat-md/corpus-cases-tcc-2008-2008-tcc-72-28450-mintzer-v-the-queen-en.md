@@ -1,0 +1,169 @@
+---
+title: "Mintzer v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28450/index.do"
+last_modified: "2008-02-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 72"
+citation2: ""
+neutral_citation: "2008 TCC 72"
+decision_date: "2008-02-05"
+language: "en"
+item_id: "28450"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1183
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:34:44.637000+00:00"
+cases_cited_count: 3
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5d1176048f7f7da2a00a2ae2ffaf77fc4f49c5af5fd501b4970e67b1f157e6a1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mintzer v. The Queen
+
+- Citation: 2008 TCC 72
+- Decision date: 2008-02-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1183, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mintzer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-05
+Neutral citation
+2008 TCC 72
+File numbers
+2006-3892(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3892(IT)G
+BETWEEN:
+NORMAN A. MINTZER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motions heard on January 28, 2008 at Toronto, Ontario
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Margaret J. Nott
+Andrea Jackett
+____________________________________________________________________
+ORDER
+The respondent’s motion for an order extending the time for serving the response to the appellant’s request to admit is granted, without costs, and the time for serving the response is extended to the day the response was served on the appellant;
+The appellant’s motions referred to in the Reasons for Order are dismissed with costs in the amount of $350.00.
+Signed at Ottawa, Canada, this 5th day of February 2008.
+“D.G.H. Bowman”
+Bowman, C.J.
+Citation: 2008TCC72
+Date: 20080205
+Docket: 2006-3892(IT)G
+BETWEEN:
+NORMAN A. MINTZER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bowman, C.J.
+[1] Three motions in this case were heard on January 28, 2008.
+[2] The first is a motion by the respondent for an order extending the time for the respondent to respond to the appellant’s request to admit. Inadvertently, counsel for the respondent miscounted the time in which to respond and filed the response late. Mr. Mintzer informed me that he was not satisfied with some of the answers given. I informed him that that in my view was not an appropriate basis for opposing the motion. He agreed and did not oppose the motion further.
+[3] The second motion is by Mr. Mintzer and it seeks the following relief:
+1. An order staying this appeal until the final determination of Federal Court action No.T‑827‑83, between the parties hereto.
+2. An order staying the enforcement of any claim for taxes arising from the reassessments or this appeal until the final determination of Federal Court action Nos. T‑827‑03 and T‑1604‑06.
+2. Striking out paragraphs 6(b), 12(a) to (d), (f) to (i), and (k) and (l) of the respondent’s reply.
+3. An order for full disclosure under rule 82.
+4. An order striking out the Notices of Reassessment and Confirmation thereof under appeal herein, and granting the appeal.
+5. Such further and other relief as this Honourable Court deems just.
+[4] Before I deal with these requests some background might be helpful. Mr. Mintzer is a former lawyer. He was charged under the Criminal Code with fraud. The allegation in the reply to his notice of appeal is that he perpetrated a scheme against Human Resources Development Canada by obtaining benefits under the Canada Pension Plan, Old Age Security Act and Guaranteed Income Supplement and against the Ontario Ministry of Finance in respect of the Guaranteed Annual Income System. He did so in the names of three deceased individuals, his former spouse’s deceased brother, sister and mother.
+[5] He pleaded guilty and was sentenced to a conditional sentence of two years less a day and was ordered to pay the amounts fraudulently obtained back to the governments that he had defrauded.
+[6] The total amount in respect of which he was charged was about $258,000. I am not entirely sure what his argument against the assessment of the $258,000 might be if the matter goes to a hearing. In the course of argument, I mentioned three cases of which I was aware. Svidal (K.L.) v. Canada, [1995] 1 C.T.C. 2692; Neeb v. The Queen, 97 DTC 895 and The Queen v. Poynton, 72 DTC 6329 (Ont. C.A.).
+[7] Mr. Mintzer has also instituted two actions in the Federal Court, T‑827‑03 and T‑1604‑06 against Her Majesty the Queen in Right of Canada. The Crown moved to dismiss T‑827‑03. Mr. Justice Russell of the Federal Court granted the Crown’s motion in part but left intact the claim for a declaration that the Crown was responsible for Mr. Mintzer’s by-pass surgery and also for an unlawful search and seizure of his income tax records. The Federal Court of Appeal dismissed an appeal from this order.
+[8] A second action against Her Majesty the Queen in Right of Canada, file no. T‑1604‑06 was commenced by Mr. Mintzer in the Federal Court. He claimed damages on a number of grounds. Mr. Justice Hughes of the Federal Court ordered that it be stayed pending the final determination of the tax appeal.
+[9] I should mention for completeness sake that a similar action was started against Her Majesty the Queen in Right of Canada by Mr. Mintzer. It was dismissed on motion by Justice Carnwath of the Ontario Superior Court of Justice and an appeal to the Ontario Court of Appeal was dismissed with costs.
+[10] With respect to the first two heads of relief sought, I can see no basis for staying the appeal in this court pending the disposition of the Federal Court action T‑827‑83. The disposition of that action will not affect the Tax Court appeal.
+[11] With respect to item 2, this court does not have the power to stay the enforcement of a claim for taxes pending the determination of a Federal Court action. That power belongs to the Federal Court.
+[12] The motion to strike out paragraphs 6(b), 12(a) to (d), (f) to (i) and (k) and (l) of the respondent’s reply to the notice of appeal is based on the view that since it has been found in the Provincial Court that the moneys were obtained by fraudulent means it is inappropriate for the respondent to set out any details (as has been done in the impugned paragraphs) of the manner in which the fraud was perpetrated. Essentially the paragraphs in the reply which Mr. Mintzer wants to have struck describe the way in which the identities of the appellant’s former spouse’s sister, brother and mother were in effect stolen so that Mr. Mintzer could apply for and obtain the various social benefit cheques. The appellant is alleging that the amounts are not income. He says in paragraph 80 of his notice of appeal that the money is a debt as determined by the Ontario Court of Justice, and is not subject to income tax and was not obtained by fraud or any other criminal activity. In paragraph 90 he says there are no grounds for imposing penalties. In light of these contentions it is highly relevant just how he perpetrated the fraud. The pleading of assumptions requires that the appellant and the court be given something more than the stark and arid assertion of conclusions. Pleaded assumptions are expected to be complete, accurate and informative. While judges may not be entirely ad idem on what constitute “material facts” as opposed to evidence[1], I would prefer to see a reply err on the side of completeness rather than on the side of sparseness provided of course that it does not cross the line into a rambling recitation of evidence and conclusions of law.
+[13] The impugned paragraphs are in my view well within the limits of permissible pleading, quite apart from the fact that several fresh steps were taken by the appellant before moving against the reply. (Rule 8(b))
+[14] Next, I shall deal with the request for an order for full disclosure of documents under Rule 82 of the Tax Court of Canada Rules (General Procedure) as opposed to partial disclosure under Rule 81. The partial disclosure rule in Rule 81 is somewhat unique. Most, possibly all, other courts in Canada require full disclosure. In this court making an order for full disclosure under Rule 82 is not unusual if the party seeking the order can demonstrate reasonable grounds for such an order. There should however be some basis for putting the other party to the expense and trouble of assembling a large number of documents. Given the nature of this appeal and the issues raised I think that the additional material obtained under a Rule 82 order will in all probability be of no assistance.
+[15] In Ikea Ltd. v. Idea Design Ltd., [1987] 3 F.C. 317, Mr. Justice McNair of the Federal Court reviewed at length the circumstances in which the court may order full disclosure under Rule 448 of the Federal Court Rules (as it then read) which corresponds to Rule 82 of the Tax Court of Canada Rules (General Procedure). He said at page 325:
+20. It becomes necessary to look at the wording of Rule 448 to determine the scope of its application and intendment. Rule 448 reads as follows:
+Rule 448. (1) The Court may order any party to an action to make and file and serve on any other party a list of the documents that are or have been in his possession, custody or power relating to any matter in question in the cause or matter (Form 20), and may at the same time or subsequently order him to make and file an affidavit verifying such a list (Form 21) and to serve a copy thereof on the other party.
+(2) An order under this Rule may be limited to such documents or classes of document, or to such of the matters in question in the cause or matter as may be specified in the order.
+21. W.R. Jackett, former President of the Exchequer Court and Chief Justice of the Federal Court of Canada, wrote an excellent treatise on the practice under the new Federal Court Rules, entitled A Manual of Practice. In contrasting the old Exchequer Court Rules and the new Rules in respect of the discovery of documents, the learned author makes this statement at page 68 of the Manual:
+Under the new Rules the right to discovery of documents in the possession or control of the opponent that might conceivably be of help to the party demanding discovery has disappeared. Such right has disappeared even though it would obviously serve the ends of justice that there be discovery of such documents. The reason for thus curtailing the ambit of discovery as of right is the purely practical one that while, on the one hand, it is felt that there are relatively few cases where a party can be [page326] building his case on documents that he hopes to get from his opponent, on the other hand it is a very onerous, tedious and difficult task, involving considerable expense and delay, to prepare a list of documents that would, conceivably, be of aid to one's opponent. This is particularly so when a party has widespread operations the details of which he prefers to keep from his opponent who is also his business competitor. On balance, it seems probable that the costs and delays of making such discovery outweigh, in most cases, the theoretical advantages obtained from it.
+While discovery as of right has been thus limited in scope, any party may apply for an order for the old style discovery by his opponent of the documents that are or have been in his possession, custody or power relating to any matter in question in the cause or matter (Rule 448). Such an application will only be granted where the applicant can convince the Court that there is something in the circumstances of the particular case calling for this more expensive type of discovery and, if granted, it may be granted on a restricted basis (Rule 448(2)). There is an automatic right of inspection and to make copies of any documents discovered pursuant to such an order (Rule 453).
+22. The leading case is Compagnie Financiere du Pacifique v. Peruvian Guano Company (1882), 11 Q.B.D. 55 (C.A.), where Brett L.J., stated the principle applicable to the interpretation of the words of the rule "a document relating to any matter in question in the action", at page 63 as follows:
+It seems to me that every document relates to the matters in question in the action, which not only would be evidence upon any issue, but also which, it is reasonable to suppose, contains information which may -- not which must -- either directly or indirectly enable the party requiring the affidavit either to advance his own case or to damage the case of his adversary. I have put in the words "either directly or indirectly," because, as it seems to me, a document can properly be said to contain information which may enable the party requiring the affidavit either to advance his own case or to damage the case of his adversary, if it is a document which may fairly lead him to a train of inquiry, which may have either of these two consequences ... .
+23. This general principle has been consistently followed and applied by the courts over the years, and has been extended to the area of the production of documents.
+[16] In Owen Holdings Ltd. v. Canada, [1997] 3 C.T.C. 2286, Justice Rip analysed the meaning of the words “relating to” — which have been interpreted as being of the broadest import — and referred with approval to the judgment of McNair J. in Ikea.
+[17] I do not think in the circumstances of this case an order under Rule 82 is warranted. Mr. Mintzer already has obtained further documents under the Access to Information Act. Given the manner in which the issues are framed, any further production of documents would be time consuming and onerous and would be unlikely to yield anything that would assist the appellant in his case.
+[18] The next head of relief sought is for an order striking out the notices of confirmation and the reassessments. I have seen nothing that would warrant so draconian a measure. Vacating assessments is what the appeal process in this court is ultimately in aid of. We do not exercise that jurisdiction summarily or arbitrarily.
+[19] Mr. Mintzer’s second motion is for an order striking out the reply and allowing his appeal. The grounds are as follows:
+1. The respondent filed an affidavit on a motion in this Court divulging that the appellant made an offer to settle this appeal and accusing him of lying about undertakings he made at discoveries, and has thereby fatally prejudiced this appeal and rendered a fair, unbiased and just hearing impossible.
+2. The respondent made exparte representations to the Registrar of the Tax Court of Canada, without any notice to the appellant, and without the knowledge of the appellant to gain an advantage in this appeal, and did gain an advantage.
+3. The respondent’s actions are a denial of natural justice, not in accordance with the principles of fundamental justice, an abuse of the process of the court and put the administration of justice into disrepute.
+[20] With respect to ground 1 there is nothing in any affidavit filed on behalf of the respondent in this proceeding that accuses Mr. Mintzer of lying about any undertakings. There is some discussion of undertakings but nothing that even remotely implies any dishonesty on the part of the appellant in his conduct of this appeal. So far as the fact that in a letter to the Registrar from counsel for the respondent stated that the appellant had made an offer of settlement is concerned, nothing in her letter discloses the terms of the settlement. In this court it is usual for offers of settlement to be made. Judges are aware that settlement negotiations continue up to the morning of trial and sometimes even beyond that. Neither I nor any other judge is influenced by the knowledge that settlement offers and counter offers are routinely made. The reference to a letter of settlement by one of the parties prejudices no one provided the terms are not disclosed.
+[21] A copy of Ms. Nott’s letter to the Registry was inadvertently not sent to the appellant. She admits it should have been and has apologized to Mr. Mintzer. He has suffered no harm whatsoever.
+[22] There is no basis for striking out the reply or for allowing the appeal.
+[23] The Crown’s motion to extend the time to serve a response to the request to admit is granted and the time for doing so is extended to the day the response was served on the appellant. I make no order for costs on that motion.
+[24] The appellant’s two motions are dismissed with costs which I fix in the total amount of $350.00.
+Signed at Ottawa, Canada, this 5th day of February 2008.
+“D.G.H. Bowman”
+Bowman, C.J.
+CITATION:
+2008TCC72
+COURT FILE NUMBER:
+2006-3892(IT)G
+STYLE OF CAUSE:
+Norman A. Mintzer
+v. Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+January 28, 2008
+REASONS FOR ORDER BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF ORDER AND REASONS FOR ORDER:
+February 5, 2008
+APPEARANCES:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Margaret J. Nott
+Andrea Jackett
+COUNSEL OF RECORD:
+Counsel for the Appellant
+Name:
+Firm:
+Counsel for the Respondent
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+[1] Cf. Gould v. The Queen, 2005 DTC 1311; Zelinski v. Canada, 2002 DTC 1204, affd. 2002 DTC 7395.

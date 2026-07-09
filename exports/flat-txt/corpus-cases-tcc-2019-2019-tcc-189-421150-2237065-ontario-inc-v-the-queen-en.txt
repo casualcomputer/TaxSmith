@@ -1,0 +1,140 @@
+Title: 2237065 Ontario Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/421150/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-189-421150-2237065-ontario-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-09-03
+
+# 2237065 Ontario Inc. v. The Queen
+
+- Citation: 2019 TCC 189
+- Decision date: 2019-09-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4236, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2237065 Ontario Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-09-03
+Neutral citation
+2019 TCC 189
+File numbers
+2017-3749(GST)I
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2017-3749(GST)I
+BETWEEN:
+2237065 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 3, 2019, at Toronto, Ontario
+Before: The Honourable Justice Susan Wong
+Appearances:
+Agent for the Appellant:
+Gurdeep Bhalla
+Counsel for the Respondent:
+Rini Rashid
+JUDGMENT
+The appeal from the April 6, 2016 reassessment made under Part IX of the Excise Tax Act, with respect to the reporting periods from January 1, 2011 to December 31, 2012 is dismissed, without costs.
+Signed at Ottawa, Canada, this 3rd day of September 2019.
+“Susan Wong”
+Wong J.
+Citation: 2019 TCC 189
+Date: 20190903
+Docket: 2017-3749(GST)I
+BETWEEN:
+2237065 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+Introduction
+[1] The appellant, 2237065 Ontario Inc., appeals the Minister of National Revenue’s April 6, 2016 reassessment in which she reassessed the appellant for unreported GST/HST collectible, among other things.
+[2] The April 6, 2016 reassessment covers the reporting periods from January 1, 2011 to June 30, 2014. The appellant only disputes the periods from January 1 to December 31, 2011 and January 1 to December 31, 2012, which are the only periods in which unreported GST/HST collectible was assessed (collectively, the “Period”). In that regard, the Minister reassessed the appellant for $6,947.98 and $7,436.39 with respect to 2011 and 2012, respectively.
+[3] The appellant’s owner, Shammy Mohan Das, testified on behalf of the appellant. No other witnesses testified.
+Issue
+[4] The issue is whether the appellant supplied zero-rated freight transportation services during the Period. The appellant says that it was not required to collect HST because its interline services were zero-rated.
+[5] In addition, the appellant says that if it was required to collect HST, the Minister should have determined the amount of tax by multiplying the sales by a factor of 13/113 rather than 13 percent.
+Factual Background
+[6] Mr. Das testified that he began driving trucks in 2006 in Manitoba. He moved to Ontario in 2009 and began working as an interline truck driver for Dhatt Transfreight Service Inc. (“Dhatt”) in 2010. He stated that in order to work for Dhatt, he was required to incorporate which led to the appellant’s incorporation.
+[7] Mr. Das tendered a copy of an October 1, 2013 letter from Dhatt (Exhibit A-1) which said the following:
+Please kindly be advised that the company named 2237065 ONTARIO INC. with owner Shammi Mohan Das has been employed as an independent contractor performing as an interlining carrier with our company Dhatt Transfreight Service Inc. from 2010 to 2013.
+Please note that under schedule VI, Part VII, section 11 of the Excise Tax Act (“ETA”). Supplies of freight transportation services between interlining carriers are zero-rated.
+[8] Mr. Das stated that during the Period, he drove Dhatt’s trucks and did not own one himself. He testified that in mid-2013, the appellant purchased its own truck and he began driving this truck when working for Dhatt.
+[9] On May 4, 2014, the appellant entered into an Equipment Lease and Operating Contract with Fedex Freight Canada, Corp. [Exhibit R-1]. Among other things, the contract provides that:
+a) the appellant will lease its equipment to Fedex and provide the necessary drivers to transport, load, and unload shipments on behalf of Fedex [paragraph 2 of the contract];
+b) the appellant will indemnify Fedex for at-fault claims, loss, or damage [paragraph 4(c) of the contract];
+c) the appellant will obtain several types of insurance coverage including general motor vehicle and cargo liability, fire and extended coverage, and workers’ compensation coverage [Exhibit “B” of the contract]; and
+d) if the appellant fails to provide satisfactory proof of insurance, then Fedex may terminate the contract [paragraph 1(b)(i) in Exhibit “B” of the contract].
+[10] On cross-examination, Mr. Das testified that the appellant did not have an operating contract with Fedex until after purchasing its own truck. He acknowledged that before purchasing the truck, the operating contract under which the appellant provided its services was one between Fedex and Dhatt.
+[11] Mr. Das testified that he telephoned CRA’s help line and asked whether he had to collect HST where his employer was in turn not collecting HST from him. He stated that he understood the answer to be no and that he relied on this advice to his detriment.
+Legislation
+[12] In order for the appellant’s services to be zero-rated during the Period, the appellant must be a carrier who supplies a freight transportation service under one or more of the circumstances listed in Part VII, Schedule VI of the Excise Tax Act (the “Act”).
+[13] A “carrier” is defined in subsection 123(1) of the Act as follows:
+“carrier” means a person who supplies a freight transportation service within the meaning assigned by subsection 1(1) of Part VII of Schedule VI;
+[14] A “freight transportation service” is defined in subsection 1(1) of Part VII, Schedule VI as follows:
+“freight transportation service” means a particular service of transporting tangible personal property and, for greater certainty, includes
+a) service of delivering mail, and
+b) any other property or service supplied to the recipient of the particular service by the person who supplies the particular service, where the other property or service is part of or incidental to the particular service, whether there is a separate charge for the other property or service,
+but does not include a service provided by the supplier of a passenger transportation service of transporting an individual’s baggage in connection with the passenger transportation service;
+[15] With respect to interlining, section 11 in Part VII, Schedule VI says:
+11. [Interlining of freight] – A supply of a freight transportation service made by a carrier of the property being transported to a second carrier of the property being transported, where the service is part of a continuous freight movement and the second carrier is neither the shipper nor the consignee of the property being transported.
+Analysis
+[16] The material facts in this appeal are similar to those in Vuruna v. The Queen, 2010 TCC 365, [2010] TCJ No. 436. In Vuruna, the appellant drove a transport truck delivering auto parts from Ontario to the U.S. He did so as a subcontractor to a shipping company, which in turn owned the transport truck. In dismissing that appeal, the court considered a CRA publication and the Minister of Finance’s Explanatory Notes to Bill C-62.
+[17] In the present appeal, the appellant was a contractor to Dhatt and Mr. Das operated one of Dhatt’s trucks during the Period.
+[18] The Minister of Finance’s Explanatory Notes to Bill C-62 were released in February 1990 and while they are not an official interpretation of legislative provisions, they can be useful for giving insight into Parliament’s intent.
+[19] The definition of “carrier” was introduced in Bill C-62 and the Explanatory Notes say as follows:
+“carrier” This term identifies a person who supplies a freight transportation service. There is no limit on the number of carriers that may be engaged in any given freight movement. Nor is there any requirement that a person physically perform a freight transportation service in order to be a carrier: the person need only assume liability as a supplier of a freight transportation service in order to be a carrier. Consequently, a person who contracts with a shipper to move goods from one place to another is still considered to be a carrier of the goods, even if the work is sub-contracted to another carrier who physically performs the entire service. Finally, it should be noted that a person does not have to be government-licensed in order to be considered to be a carrier for GST purposes. Therefore, independent owner-operators of trucks and courier vehicles are treated as carriers if they supply freight transportation services, whether or not they are required by law to be licensed as carriers.
+[20] Based on the Explanatory Notes, it is clear that the central question is who bears the liability as a supplier of a freight transportation service. In this case, Mr. Das drove Dhatt’s trucks during the Period and Dhatt assumed liability as the carrier. The appellant did not assume liability until it purchased its own truck and entered into the operating contract with Fedex in May 2014.
+[21] During the Period, the appellant was a supplier of driving services (to a carrier) and not a carrier supplying a freight transportation service. The interlining provision at section 11, Part VII, Schedule VI does not apply because the appellant was not a carrier during the Period. Therefore, the driving services provided by the appellant during the Period were not zero-rated and the appellant was responsible for collecting HST.
+[22] With respect to the appellant’s assertion that the Minister should have determined the amount of tax by multiplying the sales by a factor of 13/113 rather than 13 percent, the factor of 13/113 is used when an amount is comprised of the sale price and HST together. The factor serves to identify what amount of a global sales figure is actually HST. The appellant did not collect HST so there was no mingling of sale proceeds with tax, and the Minister was correct to use 13 percent.
+[23] With respect to Mr. Das’ testimony that he relied on incorrect advice given to him by CRA officers, this court cannot be bound by CRA’s advice or interpretations. In Grondin v. The Queen, 2015 TCC 169, [2015] TCJ No. 138 at paragraph 21, Justice Paris said:
+[T]he Court cannot be bound by erroneous departmental interpretations. In Moulton v. The Queen, [2002] 2 CTC 2395, Associate Chief Justice Bowman (as he was then) stated the following at paragraph 11:
+The appellant argues with great conviction that he should be entitled to rely on advice given by the CCRA and relied upon by him in good faith. I agree that the result may seem a little shocking to taxpayers who seek guidance from government officials whom they expect to be able to give correct advice. Unfortunately such officials are not infallible and the court cannot be bound by erroneous departmental interpretations. Any other conclusion would lead to inconsistency and confusion…
+Conclusion
+[24] The appellant supplied driving services during the Period and was not a carrier supplying a freight transportation service. Therefore, the services provided by the appellant during the Period were not zero-rated and the appellant was responsible for collecting HST.
+[25] The appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 3rd day of September 2019.
+“Susan Wong”
+Wong J.
+CITATION:
+2019 TCC 189
+COURT FILE NO.:
+2017-3749(GST)I
+STYLE OF CAUSE:
+2237065 ONTARIO INC. and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 3, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+September 3, 2019
+APPEARANCES:
+Agent for the Appellant:
+Gurdeep Bhalla
+Counsel for the Respondent:
+Rini Rashid
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+[blank]
+Firm:
+[blank]
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

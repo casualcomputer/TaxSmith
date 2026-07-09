@@ -1,0 +1,160 @@
+Title: Fraser v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521524/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-153-521524-fraser-v-the-king.md
+Document type: case_law
+Last modified: 2025-10-23
+
+# Fraser v. The King
+
+- Citation: 2025 TCC 153
+- Decision date: 2025-10-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5430, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fraser v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-10-23
+Neutral citation
+2025 TCC 153
+File numbers
+2025-1066(GST)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2025-1066(GST)I
+BETWEEN:
+AARON FRASER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion to Quash heard September 10 2025
+at Kelowna, British Columbia.
+Before: The Honourable Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Benjamin Roizes
+AMENDED ORDER
+WHEREAS the Court has published its reasons for Order on this date;
+NOW THEREFORE THIS COURT ORDERS THAT:
+The Respondent’s motion to quash the appeal is allowed because the notice of assessment dated September 9, 2019, was, more likely than not, sent by the Minister on that date, and as a consequence the Appellant is well beyond the prescribed time for appealing the assessment to this Court;
+The appeal is quashed because the Court has no jurisdiction to hear it; and,
+There shall be no costs.
+This Amended Order is issued in substitution for the Order dated October 23rd, 2025.
+Signed at Toronto, Ontario, this 28th day of October, 2025.
+“R.S Bocock”
+Bocock J.
+Citation: 2025 TCC 153
+Date: 20251023
+Docket: 2025-1066(GST)I
+BETWEEN:
+AARON FRASER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AMENDED REASONS FOR ORDER
+Bocock J.
+Motion to quash appeal [1] The Minister assessed the Appellant for the reporting period commencing January 1, 2018 and concluding December 31, 2018, by notice of assessment dated September 9, 2019 (the “NoA”). At the outset of the hearing of the main appeal, Respondent’s counsel brought a motion to quash the appeal, asserting that no notice of objection (“NOO”) was filed until September 18, 2024, more than five years after the NoA was sent.
+Appellant asserted no NoA sent [2] The Appellant, Mr. Fraser did not mention the NoA in his May 23, 2025 filed notice of appeal. He did indicate in response to the motion to quash that the Minister did not send the NoA as required under the Excise Tax Act, RSC 1985, c E-15, as amended (the “ETA”). The Appellant argues that, first, a promised NoA, although alluded to by the CRA in an explanation letter dated September 10, 2019, was not received and second, was consequently never sent.
+Respondent says: late NOO and no jurisdiction [3] Respondent’s counsel disputes that the NoA was never sent, and counters that:
+i. the Appellant failed to file a NOO in order to contest the NoA within the prescribed timeframe; and,
+ii. the Appellant is also not within the prescribed time frame(s) to file an extension of time to file a NOO to the NoA;
+Result if NoA was sent [4] The Court indicated at the hearing of the motion to quash that the sole issue for determination is whether, on balance, the NoA was sent. If it finds that the NoA was sent, the Court advised the parties that time frames for objecting, or filing an extension application, would not be met by Mr. Fraser, since, at best, his very first written response to the NoA occurred once enforcement proceedings commenced in 2024.
+Result if no NoA was sent [5] Should the Court find that the NoA was not sent, then, as explained to and agreed by the parties, the NoA is ineffective as against Mr. Fraser. As such, his original GST return filed on March 31, 2019, subsists and has not been assessed. While the Minister may reassess hereafter, other limitations will apply, and Mr. Fraser’s time for objection and appeal will commence after that.
+A. Were the notices of assessment sent to the Appellant? Assessment background and filing history specifics [6] Mr. Fraser, with the assistance of his accountant, Mr. Stone, filed GST/HST returns for 2018 with CRA on March 31, 2019. The Minister asserts the NoA was sent on September 10, 2019. As noted, Mr. Fraser asserts he never received the NoA and only learned of the assessment in 2024 when enforcement proceedings began. As a consequence of those proceedings, it appears he filed adjusted returns in 2024 for the 2018 reporting period. The Minister refused to consider the amended returns and said so on October 28, 2024. In doing so, the CRA rejected the amendments as a late objection under section 301(1.1) of the ETA. On November 26, 2024, Mr. Fraser filed a notice of objection responsive to that previous rejection and referenced the 2018 reporting period. The Minister repeated that Mr. Fraser was out of time. Mr. Fraser then appealed to the Tax Court on May 23, 2025. On that basis, the Respondent now moves to quash the appeal with this motion at the outset of the appeal hearing.
+What are the timelines that apply? [7] The various timelines imposed by the ETA on the Minister and taxpayer alike may be summarized as follows:
+Subsection 300(1): mandates that “after making an assessment, the Minister shall send to the person assessed a notice of the assessment,” making sending a statutory requirement.
+Section 301: under subsection 301(1.1), a taxpayer may file a notice of objection to an assessment “within 90 days after the day on which the notice of assessment is sent.” This establishes the initial deadline for challenging an assessment administratively with the Canada Revenue Agency (CRA).
+Section 304: subsection 304(1) allows a taxpayer to apply to the Tax Court for an extension of time to file an objection if the Minister refuses an earlier extension request under section 303, and if certain conditions are met. Subsection 304(5)(a) requires that such an application be made within one year after the expiration of the 90-day objection period.
+Section 306: this section permits an appeal to the Tax Court after an objection has been filed and either the Minister has decided it or 180 days have passed without a decision, provided the objection process under section 301 has been followed.
+[8] The critical first issue of whether the objection was made within ninety (90) days, or, if missed, the extension application was made within one-year (paragraph 304(5)(a)) is measured from the date from which the notice(s) of assessment were sent, if sent.
+[9] As referenced many times by the Tax Court, in Dasilva v HMQ, 2018 TCC 74, Justice Graham, re-summarized nicely the decision matrix, both as to sequence and burden, which ought to be analyzed concerning such timelines when, at paragraph 4, he states:
+The Tax Court of Canada and Federal Court of Appeal have had many opportunities to consider what happens when a taxpayer alleges that the Minister did not mail a notice of assessment or a notice of confirmation. I have previously summarized the steps that have emerged from those cases in respect of notices of assessment (see Mpamugo v. The Queen) and notices of confirmation (see Boroumend v. The Queen) under the Income Tax Act. I reproduce those steps below, with the modifications necessary to cover notices of assessment issued under the Excise Tax Act.
+a) Step 1: The taxpayer must assert that the notice of assessment was not sent. A taxpayer normally does so in one of two ways. The taxpayer may assert that he or she did not receive the notice of assessment and thus believes that it was not mailed. Alternatively, the taxpayer may assert that the notice was mailed to the wrong address through no fault of the taxpayer and was thus, in effect, not mailed. The Federal Court of Appeal has made it clear that if the taxpayer's assertion is not credible, there is no need to proceed to Step 2.
+b) Step 2: If the taxpayer asserts that the notice of assessment was not sent, the Minister must introduce sufficient evidence to prove, on a balance of probabilities, that the notice of assessment was indeed sent or, if the taxpayer has asserted that it was sent to the wrong address, that it was sent to the address that the CRA properly had on file.
+c) Step 3: If the Minister is able to prove that the notice of assessment was sent, then the sending is presumed to have occurred on the date set out on the notice (subsection 335(10)). This is a rebuttable presumption. The taxpayer may introduce evidence to prove that it was actually sent on a different date. The deadline for filing a notice of objection is calculated from the date established by this step (subsection 301(1.1)).
+d) Step 4: Once the sending date is established (either through the presumption or through proof of a different date), the assessment is deemed to have been made on that date (subsection 335(11)) and the notice of assessment is deemed to have been received on that date (subsection 334(1)). These deeming provisions are not rebuttable. Step 4 is not strictly relevant for the purpose of determining the deadline for filing a notice of objection. That determination is made in Step 3. Step 4 simply makes it clear that the fact that a taxpayer did not actually receive the notice of assessment is irrelevant.
+[10] The deadline for filing the Notice of Objection and/or extension embeds as its point of commencement the date from which the notice(s) of assessment is sent. Sending a “notice of the assessment” axiomatically transforms the calculation of tax assessed to assessment from its inchoate state by virtue of subsection 300(1) of the ETA. The critical trigger for these deadlines is the sending of the notice. Section 300(1) of the ETA mandates that “after making an assessment, the Minister shall send to the person assessed a notice of the assessment.” This statutory requirement underscores that sending the notice is an essential step in the assessment process.
+Notice of assessment 300 (1) After making an assessment, the Minister shall send to the person assessed a notice of the assessment.
+Has the Minister met her burden to prove sending in step 2? [11] The Court accepts Mr. Fraser’s assertion that he believes the NoA was never sent. He does not challenge the accuracy of the used address, simply that the NoA never was sent to that address.
+Mr. Fraser: the Minister’s evidence is insufficient [12] Mr. Fraser challenges the sending on the following basis:
+he did receive an explanation letter dated September 10, 2010 (“explanation letter”) which stated that “a notice of (re)assessment will be sent under separate cover”. However, Mr. Fraser states that if the Minister’s evidence is to be believed, then the NoA had already been sent on September 9, 2019, and such evidence is therefore unreliable [emphasis added];
+the explanation letter contained a statement of audit adjustments which referenced an inapplicable reporting period from the year before and not the one assessed; this further supports Mr. Fraser’s submission that the Minister’s assertions are unreliable;
+the affidavits tendered by the Respondent are only “bare bones” descriptions of the mailing of the NoA and lack specificity concerning the NoA, per se, for the Court to conclude it was, on balance, sent.
+Mr. Fraser’s accountant, Mr. Stone, also testified that he received a copy of the explanation letter but did nothing until the enforcement proceedings began because the NoA never arrived as promised by the Minister.
+Minister’s evidence that notices were sent [13] CRA agents each swore and filed affidavits providing evidence that the NoA was sent. Neither was cross-examined before the hearing nor was there a request by Mr. Fraser to do so or to compel their attendance for such purposes.
+CRA litigation officer testimony regarding specific assessment sent [14] Ms. Wong, a CRA litigation officer, gave testimony by affidavit concerning the generation of the NoAs, the purported dates of sending, address used, and the mail cycle run dates. A summary of the material evidence is as follows;
+a recitation of various records, data, practices of the CRA regarding taxpayer information generally and her review of Mr. Fraser’s records specifically;
+the date of the original GST return, an accurate statement of the reporting period and a composite copy of the reproduced NoA itself attached as an exhibit;
+a review of the data retrieval steps, the precise production date of the NoA, the assigned production cycle number with cross-referencing details to Mr. Fraser;
+a summary of the address records, the recipient address employed for the NoA and implementation of the relevant period applicable to Mr. Fraser;
+description of the search conducted of CRA records in order to confirm that no NOO was filed before the relevant expiration date: December 31, 2020; and,
+confirmation that the Minister had not issued a subsequent reassessment replacing the NoA.
+CRA print manager’s evidence on mailing systems [15] Ms. Matheson, a CRA print manager, testified by affidavit as to CRA practices in respect of mailing procedures. A summary of that material evidence is as follows:
+(i)Ms. Matheson examined the CRA mail division records applicable to Mr. Fraser’s NoA using her general experience, knowledge and role in the mailing services performed by her for the CRA;
+(ii)confirmation that GST NoAs are produced electronically, generated to the “Print to Mail” section thereby producing a post-dated printed copy with the date of mailing;
+(iii)confirmation that the downloaded and printed copy is inserted and shipped to Canada Post for inclusion into the mail stream;
+(iv)control reports and job tickets are generated to reconcile the documents and ensure the “jobs” are tracked from production to delivery to Canada Post;
+(v)when printed, a report is generated identifying the number of jobs/documents printed and that report is then reconciled to match the number of jobs requested;
+(vi)if reconciled, meaning no additional documents or lacunas, the documents are then inserted into the matching envelope prior;
+(vii)labels need not be matched because envelopes have “see through” windows whereby the NoA address itself provides the mailing address;
+(viii)confirmation that any job which does not reconcile is gathered, destroyed and re-run rather than manually corrected;
+(ix)once created, labelled and dated, mail bins with corresponding pick-up dates to the NoA dates are then sealed;
+(x)once all information is verified, the bin is then retrieved and shipped by Canada Post to its facilities; and,
+(xi)confirmation that overall, there was no inconsistencies, anomalies or error reports concerning any part of the production run or sequences concerning the NoA.
+On balance the NoAs were sent to Williams Lake address by the Minister [16] The quality of evidence is not one of perfection in these cases, however the Court should have a reasonable basis to find the Crown’s evidence reliable: Hamer v. HMQ 2014 TCC 218 at para. 10.
+[17] The evidence before the Court, is the form of the two affidavits, was not challenged under cross-examination. In fact, Mr. Fraser, several weeks before the motion sent a “Notice of Application for Production of Documents”. Respondent’s counsel indicated in response to that document that affidavits would be filed, which they were on August 28, 2025. Mr. Fraser neither requested issuance of subpoenas to the affiants nor requested an opportunity to cross-examine. When the Court raised this at the motion, Mr. Fraser did not request an adjournment to do so. The evidence by the affiants is uncontroverted before the Court; the question is whether it is sufficient and reliable.
+[18] In ascertaining the level of reliability, the Court focuses on Mr. Fraser’s arguments above:
+The use of the words “will be sent” regarding the NoA is not compelling. The explanation letter itself contains more detail and is normally sent for that purpose, generally before the NoA, and only one day after in this matter. The post-dating of the NoA, as explained in the production process, may also plausibly explain this “cross-dating”.
+The explanation letter did reference the correct reporting period in a section of some detail. These calculations were confirmed by Mr. Stone to be correct. The Court notes the explanation letter also directed that any taxpayer disagreement should prompt the filing of an objection within 90 days. In any event, again, the test is not whether the explanation letter was perfect, but whether a different document, the NoA, was sent;
+The affidavits described above and are neither bare-bones nor do they contain inconsistencies, vagueness, indirect knowledge, or errors as in other matters before this Court: Graham v. MNR, [1991] 2 CTC 2712; Hammer v. HMQ, 2014 TCC 218 at paras.11-14;
+The test is not whether receiving an explanation letter referencing an NoA “to be sent”, which is allegedly never received, allows a taxpayer to rely on that statement, but rather, whether the Minister has sent the NoA.
+[19] In conclusion, the quality and weight of the Respondent’s evidence presented before the Court was sufficient as to exhibits, knowledge and reliability. The unassailed affidavit testimony stands before the Court. The test is whether, on balance, the Minister has proven that, more likely than not, the NoA was sent to Williams Lake, Mr. Fraser’s address at the time. After hearing and reviewing the evidence, the Court concludes the NoA was, on balance, sent to Mr. Fraser on or around September 9, 2019. Therefore, Step 2 as outlined in Dasilva above has been successfully met by the Minister.
+Irrelevant amended returns filed in 2024 [20] During the motion, Mr. Fraser and his accountant, Mr. Stone, made much of the attempts to file adjusted GST returns, likely commencing in what appeared to be 2024. As explained several times to both Mr. Fraser and Mr. Stone by the Court: if the sole disagreement with the Minister was the NoA, then an objection needed to be filed to the NoA, not an amended return presumably altering the March 31, 2019 return for the 2018 reporting period with which the Minister disagreed.
+[21] Ultimately, this was understood by Mr. Fraser when he confirmed his primary goal was to have his originally filed GST return prevail. Similarly, a request to amend a return is not a notice of objection, does not trigger the objection or appeal procedures or the obligation of the Minister to reassess: Armstrong v. HMQ 2006 FCA 119 at para 8; Jiahua Car Rental Inc. v. HMQ 2019 TCC 258 at para 9.
+[22] In any event, Mr. Stone confirmed during questioning that no activity concerning the NoA was undertaken for 5 years until 2024 because he and Mr. Fraser awaited the threatened “will be sent” NoA of September 10, 2019. The Court has dealt with that issue above and Mr. Fraser cannot appeal the NoA to this Court because he is out of time by a wide margin.
+A. What is the effect of the sent Notices? All roads lead back to the NoAs [23] The Court reviews certain jurisprudence on the NoA. Mr. Fraser himself cited Aztec v R., [1995] 1 CTC 327, where the Federal Court of Appeal held “that it is the mailing of the notice of assessment which starts the clock ticking against the taxpayer.”
+NoA sent requires object or extension to object to be filed by taxpayer [24] The deadlines in sections 301, 304, and 306 apply to Mr. Fraser. The argument that these deadlines are “controlling to the jurisdiction of the TCC” assumes a validly sent assessment exists to dispute. The Court has determined that the NoA was sent, hence the time to object was 90 days thereafter and expired without such an objection. Similarly, within one year after the time for objecting, a notice of application for extension needed to be filed, and such time expired without a filed extension application. As such, the Court has no jurisdiction to hear the appeal: R v. Schofer, 2000 CanLii 16118 at para 24.
+II. Summary and Costs [25] For these reasons, the motion is granted, and the appeal is quashed. There shall be no costs.
+This Amended Reasons for Order is issued in substitution for the Reasons for Order dated October 23rd, 2025.
+Signed at Toronto, Ontario, this 28th day of October 2025.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2025 TCC 153
+COURT FILE NO.:
+2025-1066(GST)I
+STYLE OF CAUSE:
+AARON FRASER AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Kelowna, British Coloumbia
+DATE OF HEARING:
+September 9th, 2025
+REASONS FOR ORDER BY:
+The Honourable Justice Randall S. Bocock
+DATE OF ORDER:
+DATE OF AMENDED
+ORDER
+October 23, 2025
+October 28, 2025
+APPEARANCES:
+Counsel for the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Benjamin Roizes
+COUNSEL OF RECORD:
+For the Appellant: The Appellant himself
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

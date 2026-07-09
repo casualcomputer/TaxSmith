@@ -1,0 +1,125 @@
+Title: Taylor v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25878/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-550-25878-taylor-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-08-06
+
+# Taylor v. The Queen
+
+- Citation: 2003 CCI 550
+- Decision date: 2003-08-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3872, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Taylor v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-08-06
+Référence neutre
+2003 CCI 550
+Numéro de dossier
+2002-37(IT)I
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-37(IT)I
+ENTRE :
+DARRYL TAYLOR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 11 avril 2003, à Toronto (Ontario)
+Par : L'honorable juge A. A. Sarchuk
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me John Grant
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation d'impôt établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1999 est admis, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l'appelant a le droit de déclarer une perte déductible au titre d'un placement d'entreprise calculée en tenant compte du fait que sa perte au titre d'un placement d'entreprise était de 41 400 $.
+Signé à Ottawa, Canada, ce 6e jour d'août 2003.
+« A. A. Sarchuk »
+J.C.C.I.
+Traduction certifiée conforme
+ce 2e jour de mai 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI550
+Date: 20030806
+Dossier: 2002-37(IT)I
+ENTRE :
+DARRYL TAYLOR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Sarchuk
+[1] L'appel en l'instance est interjeté par Darryl Taylor à l'encontre d'une cotisation d'impôt établie à son égard pour l'année d'imposition 1999 et par laquelle le ministre du Revenu national (le « ministre » ) a refusé à l'appelant la déduction d'une perte au titre d'un placement d'entreprise au montant de 55 800 $, ce qui aurait entraîné une perte déductible au titre d'un placement d'entreprise ( « PDPE » ) de 41 850 $.
+[2] La PDPE déclarée par l'appelant découlait d'un placement effectué dans IT Professional Magazine Inc. ( « IT Professional » ), une entreprise constituée en société le 5 juin 1998 ou vers cette date. Ses actionnaires étaient Michael Bessey (55 %), Louis Laskovski (25 %) et l'appelant (20 %). IT Professional a cessé ses activités et est devenue insolvable le ou vers le 31 mars 1999. Dans sa cotisation à l'égard de l'appelant, le ministre ne conteste pas que IT Professional était une société exploitant une petite entreprise et reconnaît que les montants en cause étaient irrécouvrables depuis mars 1999. Toutefois, le ministre conteste l'affirmation selon laquelle la dette était payable à l'appelant et que ce dernier avait consenti les prêts en vue de tirer un revenu d'une entreprise ou d'un bien.
+[3] Vu la nature des prêts et vu les circonstances dans lesquelles ils ont été effectués, je suggère que nous les examinions séparément.
+(i) Prêt de Canada Trust : en septembre 1998 ou vers cette époque, l'appelant a emprunté 35 000 $ de Canada Trust, et cette somme a été prêtée à IT Professional. En contrepartie, IT Professional a fourni à l'appelant un billet à ordre de 35 000 $ qui indiquait entre autres choses que les intérêts seraient remboursés à l'appelant [traduction] « une fois que IT Professional Magazine sera devenue une entité rentable » . Le billet en question prévoyait également que [traduction] « si IT Professional Magazine cesse ses activités ou ne réussit pas à atteindre le seuil de rentabilité, M. Darryl Taylor devra assumer seul le remboursement du prêt et de la totalité des intérêts courus à l'institution financière ayant consenti le prêt (Canada Trust) » . Ni le billet à ordre, ni le contrat de société qui fait partie de la pièce A-6 ne mentionnent un taux d'intérêt payable sur le capital prêté.
+(ii) Le solde du « placement d'entreprise » de 20 800 $ reflétait plusieurs paiements décrits de la manière suivante par l'appelant :
+(a) la somme de 2 500 $, déposée le 7 août 1998 dans le compte bancaire de IT Professional, représentait un paiement partiel sur le coût d'achat de ses actions de 6 400 $;
+(b) la somme de 5 500 $ a été obtenue de son père[1]; de cette somme, un montant de 3 900 $ a été utilisé pour payer le solde dû pour l'achat des actions et un montant de 1 600 $ a été [traduction] « accordé au magazine » .[2]
+(c) la somme de 10 659,09 $ représentait le montant total des intérêts se rapportant au prêt de 35 000 $ de Canada Trust.[3]
+[4] La preuve montre que tous les montants susmentionnés, y compris les prêts consentis par le père de l'appelant, le prêt de Canada Trust et les intérêts se rapportant à ce prêt, ont été payés par DQuest Technologies Inc. ( « DQuest » ), une société dont l'appelant est le président et l'unique administrateur. Cela n'est pas contesté par l'appelant. L'appelant soutient que ces fonds provenaient du salaire qui lui était dû par DQuest et a mentionné au soutien de cette prétention une lettre non datée de DQuest adressée « à qui de droit » et signée par lui en sa qualité de président; cette lettre se lit comme suit :
+[traduction]
+Soyez avisés que toutes les sommes versées par DQUEST TECHNOLOGIES INC. à M. Bevan Taylor, Canada Trust, IT Professional Magazine etc. provenaient directement de M. Darryl Taylor de DQUEST TECHNOLOGIES INC. Ces fonds libérés d'impôt proviennent du salaire payable à M. Darryl Taylor par DQUEST TECHNOLOGIES INC. Ils ont été déclarés dans sa déclaration de revenus de 1999 et l'impôt sur le revenu a été payé. Les sommes libérées d'impôt prélevées par M. Darryl Taylor sont indiquées dans les états financiers de DQUEST TECHNOLOGIES datés du 31 juillet 1999 sous la rubrique des dépenses, au titre de frais de gestion. Elles comprennent les chèques émis par DQUEST TECHNOLOGIES INC. au nom de M. Darryl Taylor.[4]
+[5] L'appelant a témoigné que lui et ses associés avaient fait preuve de diligence pour [traduction] « obtenir des investissements de capitaux au titre de prêts à une société auprès d'investisseurs externes, y compris auprès d'institutions financières. En outre, des contacts avec la Banque de développement du Canada ont été établis à cette fin » . Leurs démarches ont échoué et, afin de poursuivre le projet, les trois actionnaires ont consenti des prêts à IT Professional. L'appelant a spécifiquement souligné que le calendrier de remboursement ne devait débuter qu'après que [traduction] « le seuil de rentabilité ait été atteint » et a fait remarquer que [traduction] « à titre d'actionnaires, nous ne voulions pas que le magazine nous rembourse les prêts avant qu'il ne soit devenu rentable et qu'il ne soit en mesure de le faire » .
+Analyse
+[6] L'intimée a principalement fait valoir qu'IT Professional n'avait aucune dette envers l'appelant. Elle s'est fondée sur l'hypothèse que le prêt avait en réalité été consenti par DQuest, la société de l'appelant, et non par l'appelant personnellement. L'intimée soutient en outre que, même si une dette était payable à l'appelant, les fonds en cause n'avaient pas été investis dans IT Professional en vue de tirer un revenu, condition exigée par les dispositions de l'alinéa 39(1)c) de la Loi de l'impôt sur le revenu.
+[7] Il m'est impossible d'accepter la thèse de l'intimée. L'accepter équivaudrait à faire fi de l'entente de prêt de Canada Trust, des avis de renouvellement et des renseignements sur le compte bancaire qui soutiennent clairement la position de l'appelant selon laquelle il a emprunté les sommes en cause à titre personnel. De plus, l'entente de prêt indique que l'argent a été directement déposé par Canada Trust dans le compte en dollars américains d'IT Professional à la Banque Royale[5]. La position de l'appelant est également étayée par le billet à ordre susmentionné émis par IT Professional et daté du 21 septembre 1998[6]. Aucune preuve présentée devant la Cour ne vient appuyer la prétention de l'intimée à l'effet que ces fonds ont été prêtés à IT Professional par la société de l'appelant, DQuest. Cette cour n'est pas saisie de la question de savoir si les sommes versées ultérieurement par DQuest à Canada Trust et au père de l'appelant représentaient ce qu'il a décrit comme un « revenu libéré d'impôt » ou si elles représentaient en fait un avantage conféré à un actionnaire.
+[8] L'intimée plaide en outre que les fonds n'ont pas été prêtés à IT Professional en vue de tirer un revenu d'une entreprise ou d'un bien. L'avocat a invoqué la décision Wierbicki c. Canada[7]à l'appui de l'argument selon lequel des fonds avancés à une société dans le but de la maintenir à flot ne constituent pas des fonds avancés en vue de tirer un revenu d'une entreprise ou d'un bien. Je ne crois pas que cette décision soit d'une bien grande aide à l'intimée étant donné que, dans la décision Wierbicki, la Cour a conclu entre autres choses qu'aucun élément de preuve ne démontrait que les sommes avaient été prêtées « dans l'intention ou dans l'espoir de créer une dette [...] » . Cela n'est pas le cas dans le présent appel. En l'espèce, je me fonde spécifiquement sur l'entente de prêt conclue avec IT Professional qui prévoit que :
+[traduction]
+(i) tous les prêts consentis à IT Professional Magazine Inc. par des actionnaires ou des investisseurs privés doivent être remboursés intégralement avec intérêt lorsque la société sera devenue une entité rentable, le cas échéant, selon les modalités du calendrier de l'entente de prêt;
+(ii) tous les prêts signés conjointement par les administrateurs d'IT Professional Magazine relèveront de la seule responsabilité de l'investisseur ayant accordé les prêts à la société; et
+(iii) le calendrier de remboursement des prêts consentis à IT Professional Magazine Inc. débutera le premier trimestre d'exercice suivant le moment où le seuil de rentabilité aura été atteint.
+Bien que cette entente eût pu être qualifiée de contrat de prêt éventuel, comme l'a suggéré l'intimée, il appert clairement que le motif pour lequel l'appelant a prêté les fonds était de créer une entente de prêt liant les parties, dans l'espoir que l'entreprise génère éventuellement des bénéfices.
+[9] Dans l'arrêt Sa Majesté la Reine c. Byram,[8]le litige portait sur la question de savoir si un contribuable avait le droit de se prévaloir d'une perte en capital déductible en vertu du sous-alinéa 40(2)g)(ii) de la Loi relativement à des pertes découlant de prêts sans intérêt consentis à une société dans le but de gagner un revenu de dividendes. Dans cette affaire, la Couronne a soutenu que les prêts doivent produire un flux de revenu indépendant pour le contribuable, sous forme d'intérêt ou d'honoraires, pour que les pertes attribuables aux prêts puissent être déduites sous le régime du sous-alinéa 40(2)g)(ii), et que le revenu de dividendes éventuel tiré d'une filiale est trop éloigné pour justifier une déduction en vertu de ce sous-alinéa[9]. Le juge McDonald a fait, au nom de la Cour, les observations suivantes :
+[13] Le sous-alinéa 20(1)c)(i) permet la déduction des intérêts lorsque l'argent est emprunté et utilisé en vue de tirer un revenu d'une entreprise ou d'un bien. Dans l'affaire Bronfman, la Cour a statué que l'application de l'alinéa 20(1)c) exige l'examen et la caractérisation à la fois de l'utilisation de l'argent emprunté et du but de l'emprunt. Un contribuable ne peut déduire des intérêts en vertu de cette disposition que s'il a emprunté l'argent en vue de gagner un revenu et s'il a fait une utilisation admissible directe de l'argent emprunté dans le but de produire le revenu en question.
+[14 ] En revanche, le sous-alinéa 40(2)g)(ii) de la Loi prévoit qu'une perte en capital découlant de la disposition d'une créance est réputée nulle, à moins que la créance ait été acquise en vue de tirer un revenu d'une entreprise ou d'un bien. Voici les dispositions pertinentes de cet article :
+40. (2)g) la perte subie par un contribuable, si perte il y a, et résultant de la disposition d'un bien, dans la mesure où elle est
+[...]
+(ii) une perte résultant de la disposition d'une créance ou d'un autre droit de recevoir une somme, sauf si la créance ou le droit, selon le cas, a été acquis par le contribuable en vue de tirer un revenu (non exonéré d'impôt) d'une entreprise ou d'un bien, ou en contrepartie de la disposition d'un bien en immobilisation en faveur d'une personne avec qui le contribuable n'avait aucun lien de dépendance
+[...]
+est nulle.
+[15] Contrairement à l'alinéa 20(1)c), l'examen requis par cette disposition ne comporte qu'un volet, c'est-à-dire qu'il ne porte que sur le but dans lequel la créance a été acquise. L'examen comportant deux volets décrit dans l'arrêt Bronfman indique clairement qu'il faut distinguer le but de l'utilisation. Par conséquent, bien que le libellé général de l'alinéa 20(1)c) et du sous-alinéa 40(2)g)(ii) présente des similitudes, il est significatif que l'article 40 ne comporte pas de préambule axé sur la « source » du revenu et qu'il ne mentionne pas l'utilisation en plus du but. En conséquence, il serait totalement inopportun d'appliquer à cette disposition la limite concernant l'utilisation directe ou indirecte établie dans Bronfman.
+[16] Le libellé de l'article 40 est clair. La question à trancher ne tient pas à l'utilisation de la créance, mais au but dans lequel elle a été acquise. Bien que le sous-alinéa 40(2)g)(ii) exige qu'il existe un lien entre le contribuable (c'est-à-dire le prêteur) et le revenu, il n'est pas nécessaire que le contribuable tire directement le revenu du prêt.
+[17] Ce raisonnement est aussi compatible avec la réalité commerciale. Il arrive fréquemment que des actionnaires consentent de tels prêts sans intérêt en s'attendant que les activités financées par ces prêts produisent des dividendes. Pour retenir la thèse du ministre, la Cour devrait faire fi de cette réalité. Cette thèse va en outre à l'encontre des remarques formulées par la Cour suprême du Canada dans l'arrêt Stubart Investments Limited c. La Reine. Lorsqu'ils interprètent des dispositions fiscales comme le sous-alinéa 40(2)g)(ii), les tribunaux doivent tenir compte des réalités commerciales, pourvu qu'elles soient compatibles avec le texte et l'objet de ces dispositions.
+[18] Le but ultime poursuivi par une société mère ou un actionnaire important qui consent un prêt à une société est, sans l'ombre d'un doute, de stimuler le rendement de cette société, augmentant de ce fait le montant des dividendes éventuels déclarés par la société. Il est clair que le texte et l'objet du sous-alinéa 40(2)g)(ii) incluent pareille fin, car cette disposition vise à empêcher les contribuables de déduire des pertes qu'ils n'ont pas subies en voulant tirer un revenu d'une entreprise ou d'un bien.
+[19] De plus en plus de décisions judiciaires considèrent les réalités commerciales actuelles comme suffisantes pour démontrer que la perspective de réaliser un revenu de dividendes justifie la déduction d'une perte en capital en vertu du sous-alinéa 40(2)g)(ii). Comme on l'a déjà mentionné, ce raisonnement est compatible avec les réalités commerciales actuelles et avec l'objet du sous-alinéa 40(2)g)(ii).
+[10] L'argumentation présentée au nom de l'intimée suggère que la déduction d'une PDPE devrait être refusée au motif que les fonds ont été investis à une fin autre que celle de générer un revenu. Cet argument ne tient pas. Il est vrai que le prêt a été consenti à une entreprise en démarrage qui n'avait pas encore commencé à générer des bénéfices, mais cela en soi ne veut pas nécessairement dire que l'entreprise ne réussira pas. Il appert clairement que les fonds ont été prêtés à la société par l'appelant pour le bénéfice de l'entreprise avec l'espoir réaliste de récupérer le capital et les intérêts[10]. À mon avis, cela suffit pour constituer une entente de prêt aux termes des articles 39 et 50 de la Loi.
+[11] Je dois faire remarquer plus particulièrement que la somme de 10 659,09 $, soit le montant des intérêts courus sur le prêt de Canada Trust, ne fait pas partie de la créance que devait IT Professional à l'appelant et ne peut donc pas être incluse dans sa perte au titre de placement d'entreprise pour cette année d'imposition. Il n'a pas été déterminé que le solde de 1 600 $, somme qui, selon l'appelant, « a été consentie au magazine » , était une créance que devait IT Professional à l'appelant.
+[12] La preuve produite par l'appelant montre que la somme de 6 400 $ représente le coût d'achat de ses actions de IT Professional et que la somme de 35 000 $ constitue une créance qui lui est due par IT Professional aux termes de l'alinéa 39(1)c) de la Loi. J'estime que les deux sommes représentent une perte au titre d'un placement d'entreprise de ce contribuable pour l'année d'imposition 1999 et que, partant, il a droit à la déduction d'une perte au titre d'un placement d'entreprise calculée sur ce fondement.
+Signé à Ottawa, Canada, ce 6e jour d'août 2003.
+« A. A. Sarchuk »
+J.C.C.I.
+Traduction certifiée conforme
+ce 2e jour de mai 2005.
+Sophie Debbané, réviseure
+[1] Un « calendrier de remboursement » produit par l'appelant (pièce A-4) indique que le montant qui a finalement été versé à son père par DQuest était de 5 750 $.
+[2] Bien que le témoignage de l'appelant n'était pas clair, j'ai compris qu'il voulait dire que l'argent avait été versé au compte de IT Professional. Aucune explication n'a été donnée quant à la raison pour laquelle ces fonds ont été accordés.
+[3] Il convient de noter que les trois sommes de 2 500 $, de 5 500 $ et de 10 659,09 $ ne totalisent pas 20 800 $.
+[4]
+Pièce A-3 : ce document a été présenté pour la première fois à l'intimée plusieurs jours avant le début du procès; sa formulation fait douter de sa date d'origine.
+[5]
+Pièces A-7, A-8 et A-9.
+[6]
+Pièce A-6, page 2.
+[7] [1996] A.C.I. n ° 1303.
+[8] [1999] A.C.F. n ° 92 (99 DTC 5117).
+[9] La Couronne a invoqué les arrêts Sa Majesté la Reine c. Bronfman, [1987] 1 R.C.S. 32 (87 DTC 5059) et Canada Safeway Ltd. v. M.N.R., 57 DTC 1239 (C.S.C.).
+[10] Voir la pièce A-6, paragraphe 1.

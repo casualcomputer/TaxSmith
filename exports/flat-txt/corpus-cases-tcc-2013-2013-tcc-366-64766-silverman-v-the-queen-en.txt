@@ -1,0 +1,128 @@
+Title: Silverman v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64766/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-366-64766-silverman-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-11-21
+
+# Silverman v. The Queen
+
+- Citation: 2013 TCC 366
+- Decision date: 2013-11-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5893, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Silverman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-11-21
+Neutral citation
+2013 TCC 366
+File numbers
+2012-3454(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3454(IT)I
+BETWEEN:
+DAVID ABRAHAM SILVERMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 4, 2013, at Toronto, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stephen Oakey
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment dated June 26, 2012 made by the Minister of National Revenue pursuant to the Income Tax Act concerning the appellant’s 2006 taxation year is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 21st day of November 2013.
+« Réal Favreau »
+Favreau J.
+Citation: 2013 TCC 366
+Date: 20131121
+Docket: 2012-3454(IT)I
+BETWEEN:
+DAVID ABRAHAM SILVERMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal by way of the informal procedure from a reassessment dated June 26, 2012 made by the Minister of National Revenue (the “Minister”), pursuant to the Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.), as amended (the “Act”) concerning the appellant’s 2006 taxation year. The appellant’s appeals for the 2010 and 2011 taxation years were dealt with by way of preliminary objection and were quashed on the basis that they were appeals from nil assessments. The appellant’s appeal from the reassessment dated June 26, 2012 concerning his 2005 taxation year was dismissed as the appellant did not dispute the $1,447 adjustment made to his tax liability for that year.
+[2] The sole issue to be decided in this appeal is whether the appellant was entitled to deduct, in computing his income for the 2006 taxation year, an amount of $13,320 paid to a U.S. publishing agent, William S. Hein & Co., Inc. (“WS Hein”). The other issues raised by the appellant in his amended notice of appeal concerning his 2006 taxation year are not in dispute anymore.
+[3] In determining the appellant’s tax liability for the 2006 taxation year, the Minister made the following assumptions of fact concerning the refund to WS Hein, as set out in paragraph 27 of the Reply to the Amended Notice of Appeal:
+a) at all relevant times, the appellant was a 50% partner in a limited liability partnership known as Silverman and Silverman, LLP (the “Partnership”);
+b) at all relevant times, the appellant’s mother, Anne Silverman, was the other 50% partner in the Partnership;
+c) the Partnership, a law practice, was formed in June 2003 and specialized in family law, wills and estates, immigration law and notary public services;
+d) the appellant is licenced to practice law in a province of Canada and part of the United States (“US”);
+e) the appellant has practiced law for approximately 22 years;
+. . .
+k) in years prior to 2003, the appellant was a resident and citizen of the US and filed US tax returns;
+l) in years prior to 2003, the appellant owned and operated as a sole proprietorship a publishing business known as Jonah Publications;
+m) the appellant operated Jonah Publications out of Buffalo, New York, US;
+n) all income earned or received from Jonah Pulications was reported in the appellant’s US tax returns;
+o) in 2003, the appellant closed Jonah Publications;
+p) in 2003, and the appellant moved from the US to Canada;
+q) the appellant was a resident of Canada throughout the 2005 and 2006 taxation years;
+r) for the 2006 taxation year, the appellant claimed an amount of CDN$13,320 as other expense, separate from expenses related to the Partnership;
+s) the claimed amount of CDN$13,320 related to a purported payment to a US publishing agent, William S. Hein & Co., Inc. (“WS Hein”), in US dollars in the amount of US$11,745, which the appellant computed to CDN$13,320 using the annual average conversion rate for 2006;
+t) the appellant purported to have received in a year(s) prior to 2003 fee income of US$11,745 from WS Hein, a client of Jonah Publications, and to have refunded such amount to WS Hein in 2006 for services not rendered;
+u) the amount of US$11,745 or any Canadian dollar equivalent had not been included in the appellant’s income for the 2006 taxation year or any preceding taxation year;
+v) the purported outlay of US$11,745 to WS Hein was not made by the appellant in the 2006 taxation year;
+w) the purported outlay of US$11,745 (CND$13,320), if made, was not made in connection to the Partnership or a business or profession from which income was subject to tax in Canada; and
+x) the purported outlay of US$11,745 (CDN$13,320), if made, was not made or incurred for the purpose of earning business income related to the Partnership or any other business endeavours of the appellant in the 2006 taxation year.
+[4] Mr. Silverman testified at the hearing and confirmed that in years prior to 2003, he owned and operated as a sole proprietor a publishing business, known as Jonah Publications. The appellant closed Jonah Publications in 2003 when he moved from the United States of America to Canada. In years prior to 2003, the appellant was a resident and a citizen of the United States of America and filed U.S. tax returns. Jonah Publications was operated out of Buffalo, New York. All income earned or received from Jonah Publications was reported in the appellant’s U.S. tax returns.
+[5] The appellant explained that the US $11,745 (CDN $13,320) payment to WS Hein he made on April 10, 2006 by a cheque drawn on his U.S. personal account represented a refund of funds advanced by WS Hein for law journals that were not published. WS Hein was acting as an intermediary between the publisher and the subscribers. Based on documents filed by the appellant (Exhibits A-1, A-2 and A-3), WS Hein was making advances to Jonah Publications which were recovered from the 20% royalty computed by reference to sales to which Jonah Publications was entitled to.
+[6] The appellant filed an e-mail from Mr. Dale Missert, Manager, Accounts Services/Royalties Administration with WS Hein, confirming that the appellant earned a royalty advance on the titles Chitty’s Law Journal, Family Law Review and Legal Medical Quarterly in the amount of US $1,500 that has been paid by cheque # 602366 dated February 9, 2011. No other payment of royalty has been received by the appellant since 2006.
+[7] In cross-examination, the appellant has not been able to confirm when the advances were made to Jonah Publications and for what reasons they were made. He stated that the advances may have been received before 2004. The appellant argued that the CDN $13,320 was owed to WS Hein and that, if it had not been paid, he would not have been entitled to receive any other royalty in the future.
+Analysis
+[8] The relevant provisions of the Act for the purpose of this appeal are subsection 9(1), and paragraphs 18(1)(a), 18(1)(b) and 20(1)(m.2). They read as follows:
+9.(1) Income. Subject to this Part, a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that business or property for the year.
+18.(1) General limitations. In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+(b) an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;
+. . .
+20(1) Deductions permitted in computing income from business or property. Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+. . .
+(m.2) Repayment of amount previously included in income — a repayment in the year by the taxpayer of an amount required by paragraph 12(1)(a) to be included in computing the taxpayer's income from a business for the year or a preceding taxation year;
+. . .
+[9] The appellant argued that the deductions allowed under subsection 9(1) and paragraph 18(1)(a) are for expenses incurred for the purpose of gaining income for the year in which they are claimed, no matter when the income is effectively being earned. According to the appellant, the refund made in 2006 was for the purpose of earning royalty income although there is no evidence that he received any royalty from WS Hein from 2006 to 2010.
+[10] Counsel for the respondent argued that the expense of $13,320 has been disallowed because it was a repayment of income pertaining to a publishing business owned and operated solely by the appellant while being a resident of the United States of America. The repayment obligation was in connection with a transaction predating 2003. This outlay was not made for the purpose of earning business income from the appellant’s current business activity as a partner in the law firm Silverman S. Silverman L.L.P. This outlay was not deductible under paragraph 20(1)(m.2) of the Act because the amount repaid was not brought into the taxpayer’s income from a business for the year or a preceding year under paragraph 12(1)(a) of the Act. In this appeal, there is no evidence that the advances made by WS Hein to Jonah Publications were included in the appellant’s income or in Jonah Publications’ income for Canadian tax purposes.
+[11] I have difficulty accepting that the repayment of $13,320 to WS Hein was made by the appellant for the purpose of earning royalty income from publications owned by Jonah Publications Inc. considering the fact that (a) the repayment was made in 2006, (b) no royalty was received by the appellant between 2006 and 2010, and (c) the royalty received in 2011 amounted to only US $1,500. In my opinion, the repayment to WS Hein was made to satisfy a debt contracted by Jonah Publications Inc. for the purpose of preventing collection proceedings and/or claims in court. The only connection, if any, I could see between the repayment and the royalty, is that the repayment can be considered to have been made to preserve or protect a capital asset or a source of income of the appellant. Such an expense is described in paragraph 18(1)(b) of the Act as a capital outlay and may not be deducted except to the extent provided in Part I of the Act.
+[12] For these reasons, I dismiss the appellant’s appeal.
+Signed at Ottawa, Canada, this 21st day of November 2013.
+« Réal Favreau »
+Favreau J.
+CITATION: 2013 TCC 366
+COURT FILE NO.: 2012-3454(IT)I
+STYLE OF CAUSE: David Abraham Silverman and Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 4, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: November 21, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stephen Oakey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

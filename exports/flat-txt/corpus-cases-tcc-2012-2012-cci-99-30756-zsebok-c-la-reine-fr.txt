@@ -1,0 +1,167 @@
+Title: Zsebok c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30756/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-99-30756-zsebok-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-03-29
+
+# Zsebok c. La Reine
+
+- Citation: 2012 CCI 99
+- Decision date: 2012-03-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7494, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zsebok c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-03-29
+Référence neutre
+2012 CCI 99
+Numéro de dossier
+2008-2035(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2035(IT)G
+ENTRE :
+JAMES ZSEBOK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus les 11, 12 et 13 janvier 2012 à Windsor (Ontario)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Avocat de l’appelant :
+Me Roland P. Schwalm
+Avocat de l’intimée :
+Me Frédéric Morand
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, les appels interjetés à l’encontre des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2001, 2003 et 2004 de l’appelant sont accueillis, avec dépens, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que, pendant ces années, les pertes subies par l’appelant lors de la disposition d’actions l’ont été à titre de revenu.
+L’appel visant la nouvelle cotisation établie en application de la Loi pour l’année d’imposition 2002 est rejeté parce que les exigences prévues au paragraphe 169(1) de la Loi n’ont pas été respectées.
+Signé à Ottawa, Canada, ce 29e jour de mars 2012.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 28e jour de mai 2012.
+Mario Lagacé, jurilinguiste
+Référence : 2012 CCI 99
+Date : 20120329
+Dossier : 2008-2035(IT)G
+ENTRE :
+JAMES ZSEBOK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] En 2001, 2002, 2003 et 2004, l’appelant, James Zsebok, a demandé la déduction de pertes d’entreprise subies dans le cadre de ses activités boursières en ligne. Le ministre du Revenu national (le « ministre ») n’a pas admis les pertes en partant du principe qu’elles avaient été subies au titre du capital.
+[2] À l’audience, on a annulé l’appel interjeté à l’encontre de la nouvelle cotisation établie pour l’année d’imposition 2002, l’appelant ayant reconnu qu’il n’avait jamais signifié à son endroit l’avis d’opposition exigé au paragraphe 169(1) de la Loi de l’impôt sur le revenu (la « Loi »). Les parties ont toutefois demandé que la preuve relative à l’année d’imposition 2002 soit prise en compte pour statuer sur les appels relatifs aux années 2001, 2003 et 2004.
+[3] Les seuls témoins ont été l’appelant lui‑même et Loris Macor, le comptable agréé qui a établi les déclarations de revenus de l’appelant pour les années 2001 à 2004. Bien que la preuve de l’appelant ait comporté certaines lacunes, elle était généralement crédible. Des éléments précis de son témoignage seront davantage commentés lors de l’examen qui va suivre de divers facteurs.
+[4] Quant à M. Macor, qui est comptable depuis quelque 30 ans, il comprenait parfaitement la question en litige dans le présent appel. J’estime toutefois comme l’avocat de l’intimée qu’il n’y a pas lieu de reconnaître une grande valeur probante à son témoignage. En raison des liens professionnels étroits existant entre l’employeur de l’appelant et M. Macor, en effet, le témoignage de ce dernier perdait dans une certaine mesure de son caractère objectif. L’appelant, en outre, n’a retenu les services de M. Macor qu’en 2005; le comptable n’était donc pas en mesure de traiter des intentions qu’avait l’appelant en exerçant ses activités boursières de 2001 à 2004. La connaissance qu’il pouvait avoir de la situation de l’appelant, il l’avait tirée, bien après le fait, des livres et registres de ce dernier. L’avocat de l’intimée a fait ressortir le fait que M. Macor n’avait pas été convoqué en tant que témoin expert. Ainsi, selon lui, la lettre du 7 mars 2007[1] que M. Macor a envoyée à l’Agence du revenu du Canada à l’appui de la prétention de l’appelant selon laquelle il exploitait une entreprise commerciale lorsqu’il s’adonnait à des activités boursières en ligne ne permet en rien de trancher la question soumise à la Cour – j’ajouterais à cet égard ne pas avoir même compris pourquoi l’avocat de l’appelant avait fait valoir cet élément de preuve à cette fin.
+[5] Comme tel est souvent le cas lorsqu’il s’agit de déterminer si une perte était au titre du capital ou du revenu, ce ne sont pas tant les faits qui sont en litige que leur interprétation.
+Analyse
+[6] Il incombait à l’appelant de prouver, pour que ses appels soient accueillis, soit qu’il était un « commerçant » (en valeurs mobilières) au sens de l’alinéa 39(5)a) de la Loi, soit subsidiairement qu’il participait à un projet comportant un risque de caractère commercial. On en décide en fonction de la situation de l’appelant, compte tenu des facteurs énumérés par la Cour d’appel fédérale dans l’arrêt The Queen v. Vancouver Art Metal Works Ltd., 93 D.T.C. 5116, à la page 5119 :
+[…] La question de savoir si des activités équivalent à l’exploitation d’un commerce ou d’une entreprise constitue toutefois une question de fait. […] Il est évident que les facteurs tels que la fréquence des opérations, le temps pendant lequel les valeurs ont été conservées, (pour réaliser un bénéfice rapide ou pour en faire un placement à long terme, par exemple), l’intention d’acheter pour revendre à profit, la nature et la quantité des valeurs mobilières détenues ou qui font l’objet de l’opération, le temps consacré à l’activité en question, sont tous des facteurs pertinents et qui aident à déterminer si une personne exerce un commerce ou une entreprise de courtage.
+L’appelant était‑il un « commerçant »?
+[7] Pour pouvoir être qualifié de « commerçant » au sens du paragraphe 39(5), l’appelant devait prouver, hormis les facteurs susmentionnés, qu’il possédait « […] une connaissance particulière ou spéciale du marché sur lequel il négocie » (Kane v. Canada, [1995] 1 C.T.C. 1 (C.F. 1re inst.), paragraphe 23). C’est cette caractéristique qui distingue un commerçant d’une personne participant à un projet comportant un risque de caractère commercial.
+[8] Quoique l’appelant n’avait aucune formation professionnelle en négociation d’actions, il avait fait des études en économie et en comptabilité. Une fois ses études universitaires terminées, il a acquis une certaine expérience des questions fiscales en gravissant les échelons de diverses entreprises, passant du poste de gestionnaire des stocks à celui de chef des services financiers. L’appelant a aussi démarré lui‑même trois entreprises à cette époque : un magasin de peinture et de papier peint ainsi qu’une société de construction domiciliaire, en plus de l’offre de services de conseil à l’intention d’autres entreprises en vue de l’obtention de financement. Seule la société de construction est devenue pleinement opérationnelle, mais elle a fait peser un lourd fardeau financier sur l’appelant et sur sa famille et elle a constitué en fin de compte un échec. Bien qu’aucune de ces entreprises n’ait connu de succès, elles témoignent de la tolérance au risque de l’appelant et de sa capacité à travailler à d’autres projets tout en ayant un travail à plein temps.
+[9] En 1997, l’appelant a ouvert un compte de négociation (le « compte sur marge ») et un compte de régime d’épargne-retraite autogéré (le « compte RER »).
+[10] En mars 1998, l’appelant a commencé à s’occuper du capital de son employeur, et il le faisait toujours pendant les années faisant l’objet de l’appel. Le sens des affaires de son employeur, M. Khan, inspirait une sincère admiration à l’appelant. M. Khan semble avoir été pour l’appelant, sinon un mentor, du moins certainement un modèle à suivre. En 2001, M. Khan a demandé à l’appelant de s’occuper de l’acquisition d’actions par sa société dans le cadre d’une prise de contrôle. Il lui a également confié la responsabilité du commerce des devises de la société. Ces tâches s’ajoutaient aux fonctions ordinaires du poste de l’appelant.
+[11] En tout état de cause, j’accepte l’argument de l’avocat de l’intimée selon lequel l’appelant n’avait pas les connaissances spécialisées nécessaires, d’après Kane, pour être un « commerçant ». Ce qui ressort au mieux de la preuve est le fait que les fonctions de son emploi ont permis à l’appelant d’acquérir une certaine expérience en négociation d’actions, et notamment de se familiariser avec divers outils Internet utilisés pour suivre l’évolution du marché. L’appelant n’avait toutefois aucune connaissance spéciale quant aux actions négociées, et pour ce qui est des programmes Internet dont il s’est servi, le grand public y avait accès simplement en acquittant les frais d’abonnement exigés.
+L’appelant a-t-il participé à un projet comportant un risque de caractère commercial?
+[12] Ce qui est plus difficile à trancher est la question de savoir si l’appelant a participé à un projet comportant un risque de caractère commercial. Saisie de cette même question, la Cour d’appel fédérale a formulé les commentaires suivants dans l’arrêt Baird c. R., 2010 CAF 35 :
+28 Le présent appel a une fois de plus mis en relief la difficulté inhérente à la détermination de la limite entre les revenus et les gains en capital et, par conséquent, la question de savoir si le contribuable participe à un projet comportant un risque de caractère commercial. L’intention qu’avait le contribuable lors de l’acquisition des biens en cause est toujours un facteur très pertinent que seul l’examen de l’ensemble des agissements dudit contribuable permet de déterminer. […]
+[13] Pour ce qui est dès lors de l’intention de l’appelant, celui‑ci a maintenu catégoriquement que la seule intention l’animant lorsqu’il a négocié des actions de 2001 à 2004, c’était de réaliser un profit rapide. Malgré le soin et l’énergie qu’a mis l’avocat de l’intimée lorsqu’il a contre-interrogé l’appelant sur ce point, celui‑ci est demeuré inébranlable.
+[14] Lors de son plaidoyer, l’avocat de l’intimée a qualifié de [traduction] « planification fiscale rétroactive opportuniste » le comportement de l’appelant. Il est bien vrai qu’en produisant uniquement le 27 janvier 2006 ses déclarations de revenus pour les années 2001 à 2004, l’appelant avait l’avantage de connaître le résultat global de ses quatre années d’activités boursières avant de choisir sa stratégie de déclaration fiscale. Même si j’ai l’impression que toute l’histoire n’a pas été révélée à l’audience, la seule question dont je sois saisie est de savoir si le ministre a eu raison d’établir que les pertes avaient été subies au titre du capital. Pour les motifs ci‑dessous, j’estime, compte tenu des facteurs énoncés dans Vancouver Art Metal, que la preuve quant au comportement général de l’appelant coïncide avec son intention déclarée d’avoir acheté les actions pour réaliser à leur revente un profit rapide. En raison du chevauchement d’éléments de preuve, toutefois, j’ai regroupé certains de ces facteurs.
+1. La fréquence des opérations, le temps pendant lequel les valeurs ont été conservées et la nature et la quantité des valeurs détenues ou transigées.
+[15] Le ministre a formulé les hypothèses suivantes relativement à la fréquence des opérations :
+[traduction]
+[…]
+g) le nombre total de jours où l’appelant a négocié des valeurs a été de 21 en 2001, de 24 en 2003 et de 11 en 2004;
+h) les bourses canadiennes sont ouvertes pour le négoce en moyenne 255 jours par année;
+i) le nombre de jours où l’appelant a négocié des valeurs correspondait à environ 5% à 10% des jours où les marchés boursiers sont ouverts et en activité;
+[…]
+[16] Les avocats ont convenu à l’audience qu’aux fins du calcul du nombre d’opérations sur valeurs, on devait considérer qu’une opération avait été effectuée lorsque l’appelant avait dû verser une commission à son endroit. Sur ce fondement, les avocats ont évalué comme suit le nombre d’opérations dont, chaque année en cause, le compte sur marge et le compte RER de l’appelant ont fait l’objet :
+Année
+Compte sur marge
+Compte RER
+2001
+23
+9
+2002
+48
+1
+2003
+21
+1
+2004
+1
+1
+[17] Aussi exactes qu’elles puissent être, ces statistiques arides ne rendent pas bien compte de l’intensité des activités boursières de l’appelant. À l’audience, l’avocat de l’appelant a examiné avec son client quatre années de rapports mensuels sur les opérations pour le compte sur marge et pour le compte RER[2]. L’appelant a ensuite été contre-interrogé à l’égard des mêmes documents. Ce processus, pour laborieux qu’il fût, a donné une image plus complète des activités boursières de l’appelant : sa stratégie consistait à repérer des actions hautement volatiles et fortement transigées en vue de maximiser ses gains tout en jouant les fluctuations. Cet objectif correspond à la propre hypothèse du ministre selon laquelle [traduction] « les valeurs ont été conservées en moyenne 62 jours en 2001, 60 jours en 2003 et 62 jours en 2004 »[3]. Nombre d’actions ont en fait été détenues beaucoup moins longtemps que la période moyenne, souvent seulement quelques jours ou même quelques heures. Il ne s’agissait pas de la sorte d’espérer gagner des dividendes ou d’attendre que les investissements viennent à maturité, des indices bien souvent d’une détention en vue d’un gain en capital
+[18] L’appelant tendait à limiter ses opérations à seulement trois titres, d’une valeur moyenne d’environ 10 $. En 2001, 20 500 actions ont été achetées et 32 600 vendues, en 2002, 70 800 achetées et 22 700 vendues, en 2003, 311 900 achetées et 345 000 vendues et, en 2004, 151 000 achetées et 66 000 vendues.
+[19] L’avocat de l’intimée a cité la décision Leng c. R., 2007 CCI 59, 2007 D.T.C. 370, à l’appui de sa prétention selon laquelle « [l]e fait qu’une personne achète et revende des actions dans un court laps de temps ne signifie pas, à lui seul, qu’elle est un négociateur ou qu’il s’agit d’une affaire de caractère commercial » [souligné par l’avocat de l’intimée]. En l’espèce, toutefois, le comportement en ce sens de l’appelant ne constituait qu’un facteur parmi tant d’autres favorisant une pareille conclusion.
+[20] Chaque fois que l’appelant disposait d’assez d’argent ou d’une capacité d’emprunt suffisante, il transigeait à nouveau sur le marché, en espérant gagner quelques sous à chaque opération et réaliser au total des gains importants. Il avait vu M. Khan tirer grand profit de cette stratégie pour le commerce des devises de sa société. L’appelant était loin, toutefois, d’avoir les ressources financières de son employeur. Il utilisait l’effet de levier de manière nettement excessive, un élément qui dénote bien souvent l’intention de spéculer. Quoi qu’il en soit, l’appelant continuait allégrement de négocier, jusqu’à ce que les fluctuations s’atténuent ou qu’il ne dispose plus de fonds. Bien souvent, les gains modestes réalisés par l’appelant par ses opérations de petite envergure étaient effacés par les commissions versées et le coût des emprunts.
+[21] Les actions négociées par l’appelant, à l’exception peut‑être de celles de Nortel, n’étaient pas des actions de premier ordre. Tout en reconnaissant que négocier de telles actions pouvait dénoter l’intention de faire commerce de valeurs, l’avocat de l’intimée a soutenu qu’on ne pouvait conclure en ce sens en l’espèce étant donné que l’appelant détenait le même type d’actions tant dans son compte RER que dans son compte sur marge. Comme généralement un compte RER sert aux fins d’investissements en capital à long terme, on peut en déduire selon l’avocat de l’intimée que l’appelant a aussi acquis dans la même intention les actions détenues dans son compte sur marge.
+[22] C’est toutefois là mal envisager les choses, selon moi. En réalité, l’appelant n’utilisait pas son compte RER de la même manière que la plupart des investisseurs. Il voulait tellement négocier des valeurs qu’à un moment donné, il a retiré de l’argent de son compte RER pour gonfler son compte sur marge – le résultat malheureux en étant que, non seulement il a perdu cet argent, mais il a aussi dû payer l’impôt sur celui‑ci. Lors d’une période de négociation de valeurs particulièrement infructueuse, l’appelant a dû retirer de l’argent de son compte RER pour acheter de la nourriture et faire ses versements hypothécaires. Aussi insensé que cela puisse paraître, l’appelant utilisait essentiellement son compte RER comme une succursale de son compte sur marge. L’appelant se servait des deux comptes pour assouvir ses rêves d’enrichissement rapide.
+[23] L’avocat de l’intimée a en outre soutenu qu’il ne fallait pas tenir compte de certaines actions négociées en 2004 – les actions de Dimethaid – en vue d’établir si l’appelant faisait le commerce des valeurs mobilières. L’avocat a relevé que l’appelant avait déclaré dans son témoignage que, contrairement aux autres actions qu’il avait achetées, son acquisition des actions de Dimethaid [traduction] « était un coup de cœur ». En outre, l’appelant a acheté 45 000 actions de Dimethaid directement par l’intermédiaire de son compte RER. Enfin, l’appelant n’a pas déclaré en tant qu’opérations boursières en 2004 les dispositions d’actions de Dimethaid alors détenues dans son compte sur marge, et en 2005, il a finalement transféré dans son compte RER les actions de Dimethaid toujours dans son compte sur marge. L’avocat de l’intimée a soutenu qu’on pouvait en déduire l’intention de l’appelant de détenir à long terme les actions de Dimethaid.
+[24] Tout d’abord, je ne suis pas convaincue qu’exclure les actions de Dimethaid du calcul des opérations puisse grandement influer sur l’appréciation de la ligne de conduite globale de l’appelant. Même si je devais me tromper sur ce point, toutefois, d’autres facteurs jouent contre la thèse de l’intimée. Ainsi, bien que l’appelant ait reconnu que seule la participation d’un ami au sein de Dimethaid l’avait incité à acheter des actions de cette société, il a également bien dit qu’il aurait vendu ces actions s’il y avait eu une soudaine flambée de leur valeur (ce qui ne s’est pas produit).
+[25] Le fait que certaines actions de Dimethaid aient initialement été achetées par l’intermédiaire du compte RER de l’appelant n’aide non plus en rien la thèse de l’intimée. Comme on l’a dit précédemment, l’appelant utilisait tant son compte RER que son compte sur marge comme outils de négociation d’actions. Quant au transfert d’actions de Dimethaid du compte sur marge au compte RER de l’appelant, cela n’avait rien à voir avec l’intention de détenir ces actions à long terme. Ce qui a incité l’appelant à transférer les actions en 2005, c’était la crainte suscitée par une demande formelle de paiement délivrée à son courtier par les Services de recouvrement de l’Agence du revenu du Canada. Pour éviter que tout produit de la disposition des actions de Dimethaid revienne au ministre, l’appelant a transféré ces actions dans son compte RER.
+[26] À mon avis, l’élément révélateur du comportement de l’appelant est le caractère fébrile de ses opérations boursières. Si la situation était inversée et que l’appelant avait réalisé les profits dont il rêvait, je n’imagine pas un instant que le ministre aurait décelé dans ses activités l’intention d’acquérir les actions à des fins d’investissement en capital à long terme. Pour les motifs exposés, la preuve relative aux divers facteurs étaie la prétention de l’appelant selon laquelle il participait à un projet comportant un risque de caractère commercial.
+2. Le temps consacré à l’activité
+[27] Le ministre a présumé qu’étant donné que l’appelant avait un emploi à temps plein qui l’obligeait à se rendre fréquemment à l’étranger[4], il n’avait pas le temps de faire le commerce d’actions. Selon la preuve non contredite de l’appelant, toutefois, ce dernier a rarement dû aller à l’étranger pour son emploi de 2001 à 2004. Même si tel avait été le cas, en outre, cela n’aurait pas empêché l’appelant d’exercer ses activités, comme il effectuait en ligne toutes ses opérations.
+[28] L’avocat de l’intimée a aussi soutenu que l’appelant avait surévalué le temps qu’il avait pu consacrer à ses activités personnelles de négociation pendant ses heures de travail. J’ai des doutes à ce sujet. Je retiens la preuve de l’appelant selon laquelle son travail l’obligeait à surveiller les marchés boursiers et lui fournissait les outils pour ce faire. Selon la description qu’il a donnée, l’appelant était assis devant son ordinateur et, sur plusieurs écrans, il y avait une mise à jour constante des données sur les marchés. Étant donné l’accès de l’appelant à ces outils et sa capacité d’accomplir en même temps des tâches multiples, je prête foi à sa preuve selon laquelle il pouvait surveiller simultanément des données sur les investissements aux fins de son emploi et à ses fins personnelles. Je prête foi également au fait que l’appelant travaillait de longues heures tant au bureau qu’à la maison, en partie pour suivre l’évolution des marchés mondiaux. Cela étant, je n’hésite aucunement à conclure que l’emploi à temps plein de l’appelant ne faisait pas obstacle à ses activités boursières personnelles. Bien au contraire, l’emploi de l’appelant non seulement lui a permis de disposer de certaines compétences et des outils nécessaires, mais a aussi alimenté son enthousiasme pour le domaine.
+[29] Bien que le ministre n’ait formulé aucune hypothèse à cet égard, l’avocat de l’intimée a souligné que l’examen de l’historique des opérations sur actions permettait de constater de longues périodes d’inactivité. Lorsque l’appelant n’avait pas suffisamment de liquidités pour négocier (par exemple, quand il avait dépassé la limite d’emprunt prévue pour le compte sur marge ou qu’il n’y avait plus de solde créditeur dans son compte RER), aucune opération n’était effectuée. On peut en déduire, selon l’avocat, que l’appelant ne faisait pas le commerce des valeurs mobilières.
+[30] On peut toutefois soutenir qu’au contraire, chaque fois que l’appelant avait un peu d’argent pour négocier, il revenait en ligne. Dès qu’il avait réalisé dans son compte sur marge un profit suffisant pour disposer même d’un modeste solde créditeur ou pour retrouver une certaine capacité d’emprunt, de nouveau il s’adonnait à la négociation d’actions. Aussitôt qu’il touchait ses généreuses primes d’emploi semestrielles, l’appelant s’empressait de les verser dans son compte de négociation, un choix qui s’avérait habituellement malheureux. Il faisait de même pour les cotisations versées dans son compte RER. À mon avis, les périodes d’inactivité dénotaient non pas l’absence d’intention de négocier, mais plutôt simplement un manque temporaire de ressources.
+3. Les déclarations de revenus antérieures
+[31] La Cour d’appel fédérale a déclaré dans l’arrêt Rajchgot v. Canada, [2005] 5 C.T.C. 1 (C.A.F.) : « Le fardeau qui incombe au contribuable qui veut changer la nature de ses déclarations dans des circonstances où il devient plus avantageux sur le plan fiscal de le faire est très lourd »[5]. À cet égard, le ministre a posé comme hypothèse à l’alinéa 10n) de la réponse à l’avis d’appel qu’en 1999 et 2000, l’appelant avait déclaré pour les dispositions de valeurs des gains ou des pertes, selon le cas, en capital.
+[32] Cela n’est pas exact, à proprement parler. Bien qu’il ait formulé cette hypothèse, le ministre ne conteste pas le fait que l’appelant n’a lui‑même produit aucune déclaration pour les années 1999 et 2000. C’est pour cela qu’en 2002, le ministre a établi des cotisations arbitraires pour ces années d’imposition, en application du paragraphe 152(7) de la Loi. D’après ses dossiers, il appert de la cotisation reconstituée arbitraire pour l’année 1999 que le ministre a considéré les gains comme ayant été réalisés tant au titre du revenu que du capital; rien n’indique clairement comment a été établie la cotisation pour l’année 2000.
+[33] À un certain moment en 2004, l’appelant a demandé à un comptable de la région de préparer des déclarations modifiées pour les années d’imposition 1999 et 2000. Dans les ébauches de déclarations préparées, on déclarait être au titre du capital les dispositions d’actions qui avaient été effectuées. Aucune déclaration n’a toutefois été produite. En 2005, plutôt, l’appelant a présenté les ébauches à M. Macor, le comptable agréé qui a témoigné à l’audience. Selon ses dires, M. Macor n’a pas procédé à sa propre analyse des livres et registres de l’appelant; il a simplement reproduit l’information figurant dans les ébauches initiales. Il n’a pas pu expliquer pourquoi il avait recouru à une telle méthode pour les déclarations d’un nouveau client. M. Macor a envoyé les nouvelles ébauches de déclarations à l’appelant afin qu’il les examine, les signe et les produise. M. Macor s’est dit surpris à l’audience lorsqu’il a appris que l’appelant n’avait pas produit ces déclarations. L’appelant n’a pas fourni d’explication au sujet de la non-production, sinon pour dire qu’il avait d’abord été empêché de produire ses déclarations en raison d’un différend prolongé avec l’Agence du revenu du Canada concernant une cotisation aux fins de la TPS pour l’année d’imposition 1999. Bien que je n’aie pas trouvé cela très convaincant, le fait demeure que l’appelant n’avait pas produit de déclarations pour les années 1999 et 2000.
+[34] L’avocat de l’intimée a pressé la Cour de tirer une conclusion défavorable du fait que l’appelant ne s’était jamais opposé au fait que, dans les cotisations arbitraires, le traitement par le ministre des gains et des pertes avait mené celui­‑ci à conclure que l’appelant avait dû avoir l’intention de déclarer les opérations sur actions au titre du capital. Il serait toutefois difficile d’en arriver à pareille conclusion étant donné l’insuffisance de la preuve présentée – par l’une et l’autre partie – relativement à la production de déclarations antérieures. Je ne cherche pas à excuser le comportement de l’appelant, mais, dans les circonstances, je ne vois pas comment la production de déclarations antérieures pourrait être attribuée à l’appelant de manière à pouvoir lui imposer le fardeau additionnel prévu dans Rajchgot. Ainsi, on ne peut faire valoir la production de déclarations antérieures comme élément empêchant l’appelant de soutenir qu’il participait à un projet comportant un risque de caractère commercial.
+Conclusion
+[35] Comme l’a reconnu la Cour d’appel fédérale dans l’arrêt Baird, précité, la limite entre les revenus et les gains en capital est difficile à déterminer. La présente affaire ne fait pas exception à la règle. Même si j’ai la désagréable impression que toute l’histoire n’a pas été révélée par la preuve, j’estime en fonction des éléments dont j’ai été saisie que la balance penche légèrement en faveur de l’appelant. L’appelant ayant réussi à établir qu’il avait participé à un projet comportant un risque de caractère commercial, les appels interjetés à l’encontre des nouvelles cotisations établies pour les années d’imposition 2001, 2003 et 2004 sont accueillis, avec dépens, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations, en tenant compte du fait que, pendant ces années, les pertes subies par l’appelant lors de la disposition d’actions l’ont été au titre du revenu. L’appel visant l’année d’imposition 2002 est rejeté, comme les exigences prévues au paragraphe 169(1) de la Loi n’ont pas été respectées.
+Signé à Ottawa, Canada, ce 29e jour de mars 2012.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 28e jour de mai 2012.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2012 CCI 99
+N° DU DOSSIER DE LA COUR : 2008-2035(IT)G
+INTITULÉ : JAMES ZSEBOK ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Windsor (Ontario)
+DATES DE L’AUDIENCE : Les 11, 12 et 13 janvier 2012
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 29 mars 2012
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Roland P. Schwalm
+Avocat de l’intimée
+Me Frédéric Morand
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Roland P. Schwalm
+Cabinet : Avocat
+518, avenue Victoria
+Windsor (Ontario) N9A 4M8
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] Recueil de documents de l’intimée, onglet 21.
+[2] Pièce A-4.
+[3] Réponse à l’avis d’appel, alinéa 10j).
+[4] Réponse à l’avis d’appel, alinéas 10c) et f).
+[5] Au paragraphe 5.

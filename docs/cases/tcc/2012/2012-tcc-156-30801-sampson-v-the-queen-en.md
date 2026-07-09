@@ -1,0 +1,137 @@
+---
+title: "Sampson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30801/index.do"
+last_modified: "2012-05-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 156"
+citation2: ""
+neutral_citation: "2012 TCC 156"
+decision_date: "2012-05-11"
+language: "en"
+item_id: "30801"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7545
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:26:05.981000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0bc61615af5d377e972bc2f6f9968e1801cc26998026c9b8c3912f57c7ce542e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sampson v. The Queen
+
+- Citation: 2012 TCC 156
+- Decision date: 2012-05-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7545, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sampson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-05-11
+Neutral citation
+2012 TCC 156
+File numbers
+2008-4192(IT)APP
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-4192(IT)APP
+BETWEEN:
+GEORGE SAMPSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard by conference call on May 4, 2012,
+at Ottawa, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nadine Taylor Pickering
+____________________________________________________________________
+JUDGMENT
+The application for an order extending the time within which a notice of appeal to the reassessments made under the Income Tax Act for his taxation years 2003, 2004, 2005 and 2006 may be filed with the Minister of National Revenue is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 11th day of May 2012.
+" B. Paris "
+Paris J.
+Citation: 2012 TCC 156
+Date: 20120511
+Docket: 2008-4192(IT)APP
+BETWEEN:
+GEORGE SAMPSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] Mr. Sampson has applied for an extension of time to institute an appeal from reassessments of his 2003, 2004, 2005 and 2006 taxation years.
+[2] In order to obtain an extension of time, an applicant must meet the conditions set out in subsection 167(5) of the Income Tax Act, which reads:
+When order to be made - No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time limited by section 169 for appealing; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer's name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted, and
+(iv) there are reasonable grounds for the appeal.
+2003, 2004 and 2005 Taxation Years
+[3] The application with respect to the 2003, 2004 and 2005 taxation years cannot succeed because Mr. Sampson has not met the requirement in paragraph 167(5)(a) of the Act that the application be made within one year of the expiration of the 90-day limit for filing a notice of appeal set out in subsection 169(1) of the Act.
+[4] The Respondent filed an affidavit of an officer of the Canada Revenue Agency (CRA) setting out that Mr. Sampson was reassessed on September 8, 2006, and filed a notice of objection to the reassessments on October 10, 2006, and that the reassessments were confirmed on February 6, 2008. Mr. Sampson did not dispute these dates. He simply said that whenever he received material from the Canada Revenue Agency, he forwarded it to OI Employee Leasing Inc. (OI), and that it was OI's responsibility to take care of it.
+[5] There is no evidence that OI took any steps relating to the confirmation of the reassessments for 2003, 2004 and 2005 until December 22, 2008, when this application was filed with the Court. This was more than one year and 90 days after the reassessments were confirmed. The deadline set out in paragraph 167(5)(a) for requesting an extension of time is absolute. Therefore, Mr. Sampson's application in respect of those years must be dismissed.
+2006 Taxation Year
+[6] The affidavit filed by the Respondent shows that Mr. Sampson was last reassessed for his 2006 taxation year on March 6, 2008, and that he objected to the reassessment by notice dated March 20, 2008. The affidavit also shows that the Minister confirmed the reassessment by notice dated August 14, 2008. The application to extend time to appeal this reassessment was made December 23, 2008, and therefore was within the year and 90-day limit found in paragraph 167(5)(a) of the Act.
+[7] However, I am not satisfied that Mr. Sampson has shown that he has met either of the conditions set out in paragraph 167(5)(b)(i), which requires that an applicant show either that he was unable to act or instruct another to act in his name, or that he had a bona fide intention to appeal within the time otherwise limited for appealing the reassessment (i.e. 90 days from the date of confirmation). There is no evidence before me to suggest that between August 14, 2008 and November 12, 2008, Mr. Sampson was unable to act or to instruct anyone else to act for him. Furthermore, Mr. Sampson has not shown that he had the intention to appeal within that period. There is no proof before me that he instructed OI to file an appeal on his behalf. His statement that he forwarded any materials he received from the CRA to OI, and expected OI to take care of things is insufficient to demonstrate a specific "bona fide" intention to appeal the reassessment during the relevant period. The application filed on December 23, 2008 on behalf of Mr. Sampson by OI sets out that a notice of appeal (presumably from the reassessments of the 2003, 2004 and 2005 taxation years) was submitted in May 2007 but that no filing fee or request to waive the filing fee was subsequently submitted. The application goes on to state that "[u]pon receiving another Notice of Confirmation for the 2006 taxation year and upon learning that a filing fee was no longer required, a new Notice of Appeal is being submitted".
+[8] It appears to me that Mr. Sampson chose not to appeal the reassessment before submitting his application on December 23, 2008 because he did not wish to pay the required filing fee or to request a waiver of the filing fee. In any event, he has not provided any evidence regarding what, if any, follow-up was done by him with OI after he forwarded the Notice of Confirmation for 2006 to OI. The onus in this application is on Mr. Sampson to show that he had a bona fide intention to appeal within 90 days of the confirmation of the reassessment, and in the absence of evidence as to what steps he took or attempted to take, (if any) through OI to appeal, that onus has not been met.
+[9] This conclusion is sufficient to dispose of the application in respect of the 2006 taxation year. Therefore, it is not necessary for me to deal with the respondent's submission that Mr. Sampson has not shown that he had reasonable grounds to appeal the reassessment, as required by subparagraph 167(5)(b)(vi) of the Act.
+[10] For these reasons, the application to extend time to institute appeals from the reassessments of Mr. Sampson's 2003 to 2006 taxation years, inclusive, is dismissed.
+Signed at Toronto, Ontario, this 11th day of May 2012.
+" B. Paris "
+Paris J.
+CITATION: 2012 TCC 156
+COURT FILE NO.: 2008-4192(IT)APP
+STYLE OF CAUSE: George Sampson v. Her Majesty the Queen
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: May 4, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: May 11, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nadine Taylor Pickering
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

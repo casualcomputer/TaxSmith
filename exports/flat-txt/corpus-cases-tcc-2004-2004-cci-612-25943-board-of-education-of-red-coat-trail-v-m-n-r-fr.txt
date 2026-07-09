@@ -1,0 +1,248 @@
+Title: Board of Education of Red Coat Trail v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25943/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-612-25943-board-of-education-of-red-coat-trail-v-m-n-r-fr.md
+Document type: case_law
+Last modified: 2004-09-16
+
+# Board of Education of Red Coat Trail v. M.N.R.
+
+- Citation: 2004 CCI 612
+- Decision date: 2004-09-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3676, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Board of Education of Red Coat Trail v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-16
+Référence neutre
+2004 CCI 612
+Numéro de dossier
+2003-1311(EI)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-1311(EI)
+ENTRE :
+Le BOARD OF EDUCATION OF RED COAT TRAIL,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+TAMMY BEAUBIEN,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 1er septembre 2004 à Regina (Saskatchewan)
+Devant : L'honorable juge D.W. Beaubier
+Comparutions :
+Représentante de l'appelant :
+Geraldine Knudsen
+Avocate de l'intimé :
+Pour l'intervenante :
+Me Penny Piper
+L'intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre est confirmée selon les motifs de jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 16e jour de septembre 2004.
+« D.W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 6e jour d'avril 2005.
+Colette Dupuis-Beaulne, traductrice
+Dossier: 2003-1318(CPP)
+ENTRE :
+LE BOARD OF EDUCATION OF RED COAT TRAIL,
+appelant,
+Et
+LE MINISTRE DU REVENU NATIONAL,
+intimée,
+et
+TAMMY BEAUBIEN,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 1er septembre 2004 à Regina (Saskatchewan)
+Devant : L'honorable juge D.W. Beaubier
+Comparutions :
+Représentante de l'appelant :
+Geraldine Knudsen
+Avocate de l'intimé :
+Pour l'intervenante :
+Me Penny Piper
+L'intervenante elle-même
+L'appel est rejeté et la décision rendue par le ministre est confirmée selon les motifs de jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 16e jour de septembre 2004.
+« D.W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 6e jour d'avril 2005.
+Colette Dupuis-Beaulne, traductrice
+RÉFÉRENCE : 2004CCI612
+Date : 20040916
+Dossier : 2003-1311(EI)
+2003-1318(CPP)
+ENTRE :
+Le BOARD OF EDUCATION OF RED COAT TRAIL,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+TAMMY BEAUBIEN,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Ces appels ont été entendus ensemble sur preuve commune à Regina, en Saskatchewan, le 1er septembre 2004. Merle Nostbakken, M.Ed., psychologue scolaire agissant pour l'appelant, et Marc Danylchuk, B.Sc., B.Ed., M.Ed., directeur de l'enseignement agissant aussi pour l'appelant, ont témoigné pour l'appelant. Tammy Beaubien, B.Sc.Soc. a été assignée à comparaître comme témoin par le répondant et a aussi témoigné pour son propre compte.
+[2] Aux paragraphes 4 à 7 inclusivement de la réponse à l'avis d'appel, dossier numéro 2003-1318(CPP), sont énoncés les points en litige. En voici la teneur :
+[TRADUCTION]
+4. En réponse à l'appel, le ministre a décidé que la travailleuse avait été embauchée en vertu d'un contrat de louage de services conclu avec l'appelant pour la période s'étendant du 20 septembre 2001 au 4 juin 2002.
+5. Le ministre a fondé sa décision sur les hypothèses de fait suivantes :
+a) l'appelant est un conseil scolaire;
+b) l'appelant a embauché la travailleuse;
+c) la travailleuse a été embauchée à titre de personne-ressource en services sociaux à la collectivité en milieu scolaire, et ses tâches incluaient l'élaboration de plans d'action visant les élèves à risque et leur famille;
+d) l'appelant et la travailleuse ont conclu par écrit un contrat précisant ce qui suit :
+(i) la travailleuse est un entrepreneur indépendant,
+(ii) la durée du contrat s'étend du 20 septembre 2001 au 19 septembre 2002,
+(iii) la travailleuse fournit des services aux trois « Shared Services Regions School » (ci-après « les divisions scolaires » ),
+(iv) l'énoncé détaillé des tâches de la travailleuse,
+(v) la travailleuse fournit chaque semaine à l'appelant 40 heures de service et lui soumet un horaire quotidien de ses activités,
+(vi) la travailleuse rencontre périodiquement le comité d'aiguillage et d'examen,
+(vii) le coordonnateur administratif supervise le travail de la travailleuse,
+(viii) l'appelant verse à la travailleuse la somme de 36 500 $ en 12 paiements égaux,
+(ix) l'appelant rembourse à la travailleuse les dépenses liées à ses déplacements dans l'exercice de ses fonctions,
+(x) la travailleuse se conforme à toutes les politiques de l'appelant,
+(xi) le contrat n'est pas cessible;
+e) l'appelant versait à la travailleuse un salaire mensuel fixe;
+f) l'appelant a fixé le taux salarial de la travailleuse;
+g) la travailleuse avait aussi droit à une paie de vacances;
+h) la travailleuse travaillait normalement 40 heures par semaine, du lundi au vendredi;
+i) la travailleuse passait la plus grande partie de son temps de travail à l'école;
+j) la travailleuse était tenue de travailler les jours de classe;
+k) la travailleuse était tenue de soumettre une fiche de présence, qui était ensuite vérifiée;
+l) l'appelant conservait le droit d'exercer un contrôle sur la travailleuse;
+m) l'appelant était membre des divisions scolaires au même titre que les divisions scolaires Borderland et Golden Plain;
+n) les divisions scolaires avaient un coordonnateur (ci-après « le coordonnateur » );
+o) le coordonnateur était membre du comité d'aiguillage et d'examen ainsi que du comité directeur des services aux familles;
+p) le coordonnateur était également le directeur de l'enseignement pour l'appelant;
+q) le comité d'aiguillage et d'examen (ci-après « le comité » ) confiait des travaux à la travailleuse et revoyait le travail effectué par elle;
+r) la travailleuse recevait ses directives du coordonnateur et du comité, qui la supervisaient;
+s) la travailleuse recevait du comité, verbalement et par écrit, des directives touchant l'aiguillage et les interventions;
+t) le comité et le coordonnateur décidaient quelles devaient être les tâches prioritaires de la travailleuse;
+u) la travailleuse soumettait au comité les dossiers et les documents faisant état de ses activités, notamment un tableau des tâches accomplies;
+v) la travailleuse était tenue de soumettre périodiquement au comité, verbalement et par écrit, des rapports sur les progrès faits par les clients;
+w) la travailleuse ne pouvait pas se faire remplacer;
+x) la travailleuse rendait ses services à l'école ainsi qu'au domicile des élèves;
+y) la travailleuse fournissait son propre véhicule;
+z) l'appelant fournissait un local, du matériel de bureau, un ordinateur portatif, des formulaires, du papier ainsi qu'un téléphone;
+aa) l'appelant remboursait à la travailleuse les frais de déplacement : kilométrage, repas, participation à des congrès et à des conférences, et hébergement;
+bb) la travailleuse devait soumettre un formulaire de demande de remboursement des dépenses pour les frais qu'elle avait engagés;
+cc) la travailleuse n'avait pas de perspective de bénéfice et ne risquait pas de subir une perte;
+dd) la travailleuse a été embauchée en vertu d'un contrat de louage de services conclu avec l'appelant.
+B. QUESTIONS EN LITIGE
+6. Déterminer si la travailleuse exerçait ses fonctions en vertu d'un contrat de louage de services durant la période s'étendant du 20 septembre 2001 au 14 juin 2002.
+C. DISPOSITIONS DE LA LOI INVOQUÉES ET RÉPARATIONS SOLLICITÉES
+7. L'intimé s'appuie, notamment, sur l'alinéa 6(1)a) et le paragraphe 2(1) du Régime de pensions du Canada.
+[3] Seules les hypothèses de fait 5 g), h), l), w), cc) et dd) ont été réfutées ou appellent les observations suivantes :
+g) Le contrat ne faisait pas expressément mention d'une paie de vacances. Ce contrat prévoyait le versement étalé sur 12 mois de la somme de 36 500 $, ainsi que 48 semaines de travail.
+h) M. Danylchuk a affirmé que Tammy travaillait plus de 40 heures par semaine. On le croit.
+l) Bien que ce point soit contesté, il est en principe exact.
+w) Si Tammy ne pouvait pas travailler, une seconde personne-ressource liée par contrat prenait ses dossiers en charge.
+cc) et dd) Ces questions sont-elles en litige?
+[4] Dans cette affaire, l'appelant représente un organisme public non constitué mis sur pied en vue de faciliter la fréquentation de l'école ou l'achèvement des études pour les élèves qui connaissent des difficultés liées à leur comportement ou des difficultés sur le plan financier ou familial, difficultés qui ont une incidence sur leur rendement. L'organisme est désigné sous le nom de « Board School-Based Family Resource » (ci-après le « Conseil » ) dans le contrat de Tammy (pièce A-4). Les responsabilités du Conseil et les tâches de Tammy se rapportent à des services extrascolaires offerts aux élèves pour les encourager à ne pas abandonner l'école.
+[5] Le contrat de Tammy pour la période en question (pièce A-4) contient les paragraphes suivants, que les parties ont respectés :
+Contrat visant la fourniture de services en milieu scolaire aux familles de la collectivité
+ENTENTE CONCLUE EN DOUBLE EXEMPLAIRE ENTRE :
+Le Board of Education of the Red Coat Trail School Division No 69 de la Saskatchewan
+(le Conseil)
+-et-
+TammyL. Norton, de Scout Lake, en Saskatchewan
+(l'entrepreneur)
+ATTENDU que le Conseil requiert la fourniture en milieu scolaire de services aux familles de la collectivité;
+ET ATTENDU que Tammy L. Norton est un entrepreneur indépendant apte à rendre ces services pour le compte du Conseil;
+POUR CES MOTIFS, cette entente atteste que les parties conviennent de ce qui suit :
+1. a) Durant la période commençant le 20 septembre 2001 et se terminant le 19 septembre 2002, l'entrepreneur fournira des services au Conseil en milieu scolaire aux familles relevant de trois divisions scolaires, à savoir les divisions scolaires Borderland, Golden Plains et Red Coat Trail. Ces services incluent ceux qui sont énumérés ci-après ainsi que tous les autres services connexes mis en oeuvre d'un commun accord lorsqu'il y a lieu :
+i. la mise en application du processus complémentaire (Wraparound Process) afin de faciliter l'élaboration, à l'intention des élèves à risque et de leur famille, des plans individualisés de soutien à long terme comprenant des services formels et/ou informels;
+ii. la conception, la mise en oeuvre et/ou la coordination d'activités de prévention et d'intervention (p. ex. une formation en gestion de la colère, des séances sur l'art d'être parents) qui répondent aux besoins des élèves à risque et de leur famille. Ces activités se déroulent habituellement en petits groupes, à des heures qui conviennent aux clients. La nature des programmes en question évolue au fur et à mesure que se font jour les besoins des élèves à risque et de leur famille;
+iii. la création et le maintien de liens ainsi que la collaboration avec les agences et les institutions communautaires de même qu'avec les personnes dont la présence est essentielle à la prestation efficace des services intégrés destinés aux enfants et aux familles relevant des divisions scolaires;
+iv. la consultation périodique avec les membres du comité du programme de ressources communautaires à qui a été attribué un rôle de supervision;
+v. la prestation de services, autant que possible, dans toutes les divisions scolaires comme il est indiqué dans le document intitulé CommunitySchool-Based Family Resource Program;
+vi. la tenue de dossiers et la documentation des activités, comme il est mentionné dans le document concernant le programme.
+b) Ces services sont fournis aux moments fixés d'un commun accord par les parties.
+c) L'entrepreneur assure au Conseil, de manière générale, 40 heures de service par semaine et remet au secrétariat de l'école son horaire quotidien afin qu'il soit facile de joindre l'entrepreneur durant la journée si besoin est. L'entrepreneur doit travailler un minimum de 48 semaines et être disponible les jours où il y a de l'école. La souplesse en ce qui regarde l'horaire est attendue.
+d) L'entrepreneur fournit les services prévus au présent contrat conformément à la norme professionnelle que doivent respecter les fournisseurs de services aux familles en Saskatchewan ou encore conformément à la norme de prestation de tels services dans les établissements d'enseignement, norme que le Conseil a communiquée à l'entrepreneur.
+2. L'entrepreneur rencontre périodiquement le comité d'aiguillage et d'examen afin de discuter des questions se rapportant au programme et de recevoir de la rétroaction. Le coordonnateur administratif de ABW Shared Services supervise le travail de l'entrepreneur.
+3.a) Le Conseil verse à l'entrepreneur la somme totale de 36 500 $ pour les services rendus en vertu de la présente entente. Sous réserve de la clause 3b), cette somme est versée en 12 paiements égaux le 25e jour de chaque mois durant la période s'étendant du 20 septembre 2001 au 19 septembre 2002 inclusivement.
+b) Les parties conviennent que pour la majorité des services prévus au contrat et énumérés ci-après, il est nécessaire de communiquer directement avec les élèves ou encore de participer à des activités menées de concert avec eux et les membres de leur famille ainsi qu'avec des institutions et ce, généralement durant les heures ouvrables. Par conséquent, si l'entrepreneur n'est pas disponible pour fournir les services un jour de classe et que ces services ne peuvent être dispensés un autre jour, est déduit du prix contractuel total mentionné plus haut 1/240 de ce prix pour chacun des jours où l'entrepreneur ne peut fournir les services prévus.
+4. Le Conseil rembourse à l'entrepreneur les frais engagés relatifs aux déplacements requis dans la prestation des services au tarif et aux conditions établis dans la politique GBAC de la division scolaire Red Coat Trail et qui sont en vigueur de temps à autre.
+5.a) L'entrepreneur se conforme à toutes les lois auxquelles il est assujetti en ce qui regarde la prestation des services en vertu du présent contrat.
+b) L'entrepreneur se conforme à toutes les politiques du Conseil auxquelles il est assujetti en ce qui regarde la prestation des services en vertu du présent contrat.
+6. Si l'entrepreneur omet de soumettre un rapport quelconque, omet de produire une déclaration, omet d'effectuer une retenue ou encore omet de verser une cotisation comme l'exigent la Loi sur l'assurance-emploi, le Régime de pensions du Canada ou toute autre loi fiscale fédérale ou provinciale ou encore toute loi à laquelle il est assujetti et si du fait de cette omission le Conseil doit engager une somme à l'égard de cette omission, le montant de cette dépense pour le Conseil est considéré comme une avance à l'entrepreneur à valoir sur le prix des services qu'il doit fournir en vertu du présent contrat. Si le Conseil doit faire un tel paiement après que le montant total mentionné à la clause 3a) a été versé ou versé en sus de ce montant, la somme devient alors une dette de l'entrepreneur envers le Conseil.
+7. L'entrepreneur, sur demande, fournit au Conseil tous les renseignements concernant les services rendus en vertu du présent contrat et dont il pourrait avoir besoin pour ses propres fins.
+8. Le présent contrat n'est pas cessible par l'entrepreneur. Il continue d'avoir force obligatoire et demeure en vigueur pour les successeurs et ayants droit du Conseil.
+9. Le présent contrat demeure en vigueur jusqu'au 19 septembre 2002 à moins qu'il ne soit résilié comme le prévoit la clause 10 du présent contrat.
+10. a) Le présent contrat peut être résilié avant le 19 septembre 2002 :
+i. par l'une ou l'autre partie moyennant signification écrite à l'autre partie d'un préavis d'au moins 30 jours;
+ii. par le Conseil, sans préavis, si l'entrepreneur omet de fournir les services ou s'il ne respecte pas la norme mentionnée à la clause 1 concernant la prestation des services.
+b) Si le contrat est résilié en application de la clause 10a), le prix total payable aux termes du présent contrat jusqu'à la date de la résiliation relativement aux services à rendre en vertu du contrat est égal à un montant qui, par rapport au total du contrat correspond au pourcentage des services rendus par l'entrepreneur jusqu'à la date de la résiliation par rapport à l'ensemble des services que l'entrepreneur a convenu de fournir selon le contrat.
+11. Toute modification à la présente entente doit être apportée par écrit et corroborée par la signature des deux parties.
+[6] Dans son argumentation, l'un des points que l'appelant a avancés est qu'il n'était ni l'entrepreneur ni l' « employeur » . Cette affirmation soulève deux problèmes :
+1. C'est lui qui a signé le contrat.
+2. Même s'il n'est pas l'entrepreneur, il est mandataire du Conseil et, à ce titre, il est responsable aux termes du contrat.
+Enfin, les autres organismes représentés au Conseil savaient qu'une personne morale devait recevoir les subventions et les fonds, devait en rendre compte et devait conclure les contrats au nom du Conseil. Le Conseil avait confié cette responsabilité à l'appelant, et celui-ci avait accepté de l'assumer. Par conséquent, dans la mesure où il s'agit de Tammy, l'appelant a accepté les obligations afférentes au contrat qu'il a conclu avec elle et, de toute façon, il est responsable à titre de mandataire du Conseil.
+[7] Pour ce qui est du contrat, la pièce A-4, soit la preuve relative aux clauses suivantes, est claire et sans équivoque puisqu'il y est dit que Tammy :
+1.a)(iv) rendait des comptes au Conseil lors des réunions du Conseil toutes les deux semaines et qu'elle recevait ses directives du Conseil ainsi que de ses superviseurs désignés;
+1.a)(vi) a documenté ses activités et en a fait rapport au Conseil ainsi qu'à ses superviseurs désignés. Font partie de cette pièce quelques-uns de ses rapports périodiques, lesquels se distinguent de ses rapports concernant ses clients;
+2. a accompli consciencieusement sa tâche, et tous les clients lui étaient référés par le comité; qu'elle a rendu ensuite compte au comité des progrès de ces mêmes clients au fil des « étapes » fixées et imposées par le comité;
+3.b) a exécuté son travail à partir de son bureau situé dans les locaux de l'appelant durant les heures de classe et a fourni les services requis;
+4. s'est fait rembourser ses dépenses en conséquence. (Fait à remarquer, de l'avis de la Cour, cet arrangement particulier en était un seulement de convenance sur le plan administratif. En soi il n'atteste donc pas qu'il s'agissait d'un emploi. C'était plutôt un mode de fonctionnement pratique, basé sur un système existant.)
+[8] D'après les critères établis dans la décision Wiebe Door Services Ltd. c. Ministre du Revenu national, [1986] C.F. 553 :
+1. Le contrôle : Tammy exerçait ses fonctions sous le contrôle du Conseil et elle recevait toutes ses directives du Conseil. Elle s'inscrivait aux cours approuvés par le Conseil. Elle traitait avec les clients conformément aux directives du Conseil et soumettait à celui-ci des rapports en suivant ses procédures, en utilisant ses formulaires et en respectant les délais fixés par le Conseil. C'est aussi le Conseil qui décidait du moment où elle devait entreprendre les différentes étapes du travail à exécuter concernant les dossiers en cours.
+2. La propriété des instruments de travail : Tout l'espace de bureau qu'elle occupait ainsi que tout le matériel et les formulaires étaient fournis par le Conseil ou l'appelant à la demande du Conseil, sauf son automobile, pour laquelle elle recevait une indemnité de parcours.
+3. La possibilité de projet et le risque de perte : Tammy touchait une paie périodique. Elle bénéficiait également de congés de maladie et des autres avantages sociaux que comporte un poste à traitement annuel. Apparemment, elle travaillait plus de 40 heures par semaine et cela pouvait constituer une perte pour elle. Toutefois, de manière générale, sa situation était celle d'une employée ne participant pas à un régime de pension.
+4. L'intégration : Tammy était parfaitement intégrée en ce qui regarde les fonctions du Conseil. Tous deux ne pouvaient fonctionner l'un sans l'autre durant la période en question. Tammy n'exploitait pas une entreprise pour son propre compte.
+[9] Dans ce cas, le problème est en partie attribuable au fait que le programme débutait et qu'il a évolué tout au long de la période en question. Il fallait que tous les dispensateurs de soins fassent preuve de beaucoup de bonne volonté et d'une collaboration active. Et justement parce que le programme était nouveau et en évolution, le Conseil devait jouer un rôle actif. En outre, Tammy devait soumettre des rapports détaillés pour que l'une et l'autre parties puissent s'aider mutuellement afin de bien fonctionner. Ainsi il était possible de demander à Tammy d'appliquer la politique et d'exercer les activités du Conseil dans le contexte d'un programme extrascolaire en voie de développement afin de déterminer tous les besoins liés au milieu extérieur à l'école et d'y répondre : cela afin que les enfants continuent de fréquenter l'école, reçoivent une bonne éducation et partent du bon pied dans la vie. Résultat : le comité du Conseil et ses superviseurs donnaient à Tammy des lignes directrices en ce qui regarde les questions : qui, quoi, pourquoi, et parfois ou peut-être même souvent (selon le cas), quand et où. Aussi, parce que tout était nouveau et en voie de développement, Tammy devait recevoir ces lignes directrices pour pouvoir s'acquitter de ses fonctions conformément à des principes directeurs encore embryonnaires. Ainsi, même si tous les intervenants entretenaient entre eux des relations de travail de bonne foi et qu'ils voulaient vraiment répondre aux besoins d'une grande collectivité rurale, le résultat, pour ce qui est de Tammy, a été qu'elle s'est trouvée être une employée durant la période en question. Tammy n'exploitait pas une entreprise pour son propre compte.
+[10] Pour ces motifs, l'appel est rejeté. Tammy était, durant la période en question, une employée de l'appelant en vertu d'un contrat de louage de services que ce dernier avait conclu avec elle en sa qualité de représentant du Conseil.
+Signé à Vancouver (Colombie-Britannique) ce 16e jour de septembre 2004.
+« D.W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 6e jour d'avril 2005.
+Colette Dupuis-Beaulne, traductrice
+RÉFÉRENCE :
+2004CCI612
+Nos DES DOSSIERS DE LA COUR :
+2003-1311(EI) et 2003-1318(CPP)
+INTITULÉ DE LA CAUSE :
+Le Board of Education of Red Coat Trail c. M.R.N.
+LIEU DE L'AUDIENCE :
+Regina (Saskatchewan)
+DATE DE L'AUDIENCE :
+Le 1er septembre 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge Beaubier
+DATE DU JUGEMENT :
+Le 16 septembre 2004
+COMPARUTIONS :
+Pour l'appelant :
+Geraldine Knudsen
+Avocate de l'intimé :
+Me Penny Piper
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

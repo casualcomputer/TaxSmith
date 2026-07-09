@@ -1,0 +1,169 @@
+---
+title: "Pelletier v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29293/index.do"
+last_modified: "2009-07-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 358"
+citation2: ""
+neutral_citation: "2009 TCC 358"
+decision_date: "2009-07-03"
+language: "en"
+item_id: "29293"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7094
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:09:40.459000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f647fcb7ea036f8c1f45745f0db3eb8e4deab030a2cd0bafa50e81ef85b39661"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pelletier v. The Queen
+
+- Citation: 2009 TCC 358
+- Decision date: 2009-07-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7094, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pelletier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-07-03
+Neutral citation
+2009 TCC 358
+File numbers
+2005-2632(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2632(IT)G
+BETWEEN:
+MARCEL PELLETIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 27, 2008, at Thunder Bay, Ontario
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Brian R. MacIvor
+Counsel for the Respondent:
+Gerald L. Chartier
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 1999, 2000, 2001 and 2002 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 3rd day of July, 2009.
+“E.A. Bowie”
+Bowie J.
+Citation: 2009 TCC 358
+Date: 20090703
+Docket: 2005-2632(IT)G
+BETWEEN:
+MARCEL PELLETIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] Mr. Pelletier brings these appeals from reassessments under the Income Tax Act[1] (the Act) for the taxation years 1999, 2000, 2001 and 2002. The amount of his income for those years is not in dispute. The only issue is whether the appellant is exempt from taxation of his income by reason of paragraph 81(1)(a) of the Act and section 87 of the Indian Act.[2] These provisions have been interpreted by the Supreme Court of Canada to exempt income received by an Indian on a reserve from taxation under the Act.[3] There is no dispute either about the status of Mr. Pelletier; he is a member of the Red Rock First Nation (the Band) and a status Indian within the definition contained in the Indian Act. The only matter in dispute is, as the Supreme Court put it in Williams, “…whether the property in question is situated on a reserve.”[4] The property in this case is the appellant’s income derived from a logging business.
+[2] The Band’s reserve, Lake Helen Reserve #193, is at Lake Helen, near Nipigon, Ontario, some 100 kilometers northeast of Thunder Bay. The predominant industry in that part of Ontario is logging, and the appellant has been engaged in logging all his working life, most recently carrying on business under the name 4 K Logging. His evidence was that he is good at it, and I have no doubt that is correct. The Band was not so good at it, however, and that is where the evidence in this case began. Mr. Pelletier was the only witness, and his evidence was far from clear. The appellant’s only other evidence consists of eight volumes of copies of documents that were entered upon the agreement of counsel. These stand some 25 cm. high and weigh 10 kg. The vast majority of these were neither referred to by the appellant in giving his evidence, nor by his counsel in argument. Many of these documents are contracts or work orders for logging work entered into between various paper companies and sawmills and either the Band or Mr. Pelletier. Many of them are invoices or cheques pertaining to the work under such contracts, and some are bank statements. Many of these are in the name of Pierre Pelletier; the appellant explained in his evidence that he has been universally known as Pierre Pelletier since a very early age, and that frequently his name, or that of 4 K Logging, appears on documents prepared by paper companies or lumber companies when in fact he was acting as agent for the Band. The evidence is both incomplete in some respects, and confused in others. That said, I accept that Mr. Pelletier’s evidence was truthful, and accurate in all important respects.
+[3] The Band was engaged in logging operations for some years prior to 1993, cutting on Crown land the timber rights to which were granted either to the Band or to companies that contracted with the Band to harvest for them. According to the appellant, the Band accumulated substantial losses in this endeavour, and in 1993 or 1994 he was approached by the Band council and asked to take over and carry on the operation. He agreed to do this, and there is in the evidence a contract entered into between the Band and PIERRE PELLETIER FOUR K’S LOGGING covering the period from April 1, 1997 to March 31, 2000. The terms are simply stated. The appellant was to have “full management of the logging operations granted to him by the Band, he was to pay the Band $3.50 per cord for wood harvested on the Band’s licensed areas, and he was to “abide by the roles [sic] and responsibilities” listed, which were the following:
+a) Will be fully informed of Operations.
+b) Will ensure all payments are made.
+c) Will have full knowledge of licensed areas.
+d) Will monitor all movement and delivery of wood.
+e) Will ensure licenses are in place.
+f) Will ensure Contractor reports weekly.
+h) Will ensure Lawrence Martin, In Trust, is kept informed
+i) Will ensure all expenditures paid out are kept on file at the Red Rock Indian Band Office.
+j) Will ensure all invoices are paid.
+k) Will ensure all transactions are kept separate from other Band business.
+l) Will ensure Contractor abides by the conditions of the license.
+m) Will meet once a week with Contractor, Band manager, Person in Trust, Chief and Council and Woodlands Clerk to update operations.
+n) Will ensure Contractor abides by the BCR (Band Council Resolution).
+o) Will ensure Contractor does his job properly and in the best interests of the operations and all parties concerned.
+There is much that is not covered in this contract, but it appears that the appellant was to carry on the logging business both on Crown lands where the Band itself had cutting rights from time to time and where third parties had the rights and the Band, generally through Mr. Pelletier as agent, was able to negotiate contracts to harvest for them. In either case Mr. Pelletier would receive payment from the mills on delivery of the wood, and he would pay stumpage to the Band. For the most part, the documentary evidence is simply illustrative of the execution of these arrangements.
+[4] In February 1995, on the advice of his accountants, Mr. Pelletier transferred the business of 4 K, which he had been operating as a proprietorship, to an inter vivos trust. The trustee is a numbered company created for the purpose, and its sole shareholder is Mr. Pelletier. The directors of the company are residents of the Lake Helen Reserve, and the address of the registered office of the company is 57 Creekside Street, Lake Helen Reserve #193, which is the address of a modular home owned by the appellant and situated on the reserve. The settlor of the trust is Selena Pelletier, and the beneficiaries are the appellant and his family. I was told that the appellant operates the business on behalf of the trust. Mr. Pelletier testified that he had no understanding of these arrangements, and there was no apparent operational purpose to them. They appear to be an attempt at manipulation and abuse of the kind that Gonthier J. referred to in paragraph 36 of his Reasons in Williams:
+However, an overly rigid test which identified one or two factors as having controlling force has its own potential pitfalls. Such a test would be open to manipulation and abuse, and in focusing on too few factors could miss the purposes of the exemption in the Indian Act as easily as a test which indiscriminately focuses on too many. (emphasis added)
+Counsel did not rely to any significant extent on the situs of the trust in argument, and for these reasons I do not consider them to be a factor that I should take into account in considering whether the appellant’s business income, routed to him through the trust, qualifies for exemption from income tax as personal property of an Indian situated on a reserve.
+[5] When invited to do so, Mr. Pelletier effectively took over the logging operations formerly managed by the Band. Cutting rights were allotted to the Band by the provincial government annually, and Mr. Pelletier, along with Mr. Lawrence Martin as the representative of the Band, made the selection on the Band’s behalf from the areas made available each year. The lands selected were within a radius of 35 to 50 miles from the reserve, and were within what Mr. Pelletier called the Band’s “traditional lands”. While he did not clearly explain what he meant by this, I took it to mean lands occupied by the Band prior to their surrender to the Crown by the Robinson-Superior Treaty. It is certainly clear from the evidence that all the logging in question in this case was done on Crown land pursuant to cutting licenses granted periodically by the provincial Crown to the Band, or sometimes under rights granted to a paper or lumber company, and by that company to the Band. In every case the Band had the cutting rights, either directly or indirectly, and it contracted with the appellant to exercise those rights for a price. Typically, he contracted with the mills to sell the wood to them at the price he could negotiate with them. From that he paid the expenses of cutting the wood and delivering it to the mill, and he paid $3.50 per cord for pulpwood and $5.00 per cord for sawlogs to the Band. What remained was his profit.
+[6] Mr. Pelletier was definitely a hands-on manager of his operations. He testified that he spent little time with his family at their home in Thunder Bay, and I am sure that is correct. He clearly spent a portion of his time negotiating contracts with the paper companies and the saw mills that purchased the product. He also spent some time at his other house, a 72-foot modular home, on the reserve. It had two bedrooms, a kitchen and bathroom, as well as the office from which he ran the business with the assistance of a clerk who worked there. He also had a workshop and fuel tank there where he stored and repaired equipment used in the business. Repairs were sometimes done at a larger workshop on the reserve that was owned by the Band.
+[7] Mr. Pelletier also spent time in the woods with the crews. Harvesting forest products requires not only cutting and hauling logs. Roads have to be built, the trees have to be limbed and skidded to the road, and then trucked to the mills. Mr. Pelletier used subcontractors to do most of that work, and in 2001 or 2002, after the Band had made sufficient money from the new arrangement to retire its debt and purchase trucks, he contracted with the Band to haul the product to the mills. He himself worked at many of the jobs when circumstances required it. 4 K had 18 or 20 people employed during the busy season, most of whom were Indians. There also were a number of Indians working for his subcontractors. Mr. Pelletier described his mandate from the Band as being to train Band members to work in the industry, to help the Band to pay off its debt through payments for cutting rights, and to operate as a viable First Nations logging contractor.
+[8] In Williams,[5] the Supreme Court had this to say about the nature and purpose of the exemption from taxation afforded to the income of Indians on a reserve:
+The question of the purpose of ss. 87, 89 and 90 has been thoroughly addressed by La Forest J. in the case of Mitchell v. Peguis Indian Band, [1990] 2 S.C.R. 85. La Forest J. expressed the view that the purpose of these sections was to preserve the entitlements of Indians to their reserve lands and to ensure that the use of their property on their reserve lands was not eroded by the ability of governments to tax, or creditors to seize. The corollary of this conclusion was that the purpose of the sections was not to confer a general economic benefit upon the Indians (at pp. 130‑31):
+The exemptions from taxation and distraint have historically protected the ability of Indians to benefit from this property in two ways. First, they guard against the possibility that one branch of government, through the imposition of taxes, could erode the full measure of the benefits given by that branch of government entrusted with the supervision of Indian affairs. Secondly, the protection against attachment ensures that the enforcement of civil judgments by non‑natives will not be allowed to hinder Indians in the untrammelled enjoyment of such advantages as they had retained or might acquire pursuant to the fulfillment by the Crown of its treaty obligations. In effect, these sections shield Indians from the imposition of the civil liabilities that could lead, albeit through an indirect route, to the alienation of the Indian land base through the medium of foreclosure sales and the like; see Brennan J.'s discussion of the purpose served by Indian tax immunities in the American context in Bryan v. Itasca County, 426 U.S. 373 (1976), at p. 391.
+In summary, the historical record makes it clear that ss. 87 and 89 of the Indian Act, the sections to which the deeming provision of s. 90 applies, constitute part of a legislative "package" which bears the impress of an obligation to native peoples which the Crown has recognized at least since the signing of the Royal Proclamation of 1763. From that time on, the Crown has always acknowledged that it is honour‑bound to shield Indians from any efforts by non‑natives to dispossess Indians of the property which they hold qua Indians, i.e., their land base and the chattels on that land base.
+It is also important to underscore the corollary to the conclusion I have just drawn. The fact that the modern‑day legislation, like its historical counterparts, is so careful to underline that exemptions from taxation and distraint apply only in respect of personal property situated on reserves demonstrates that the purpose of the legislation is not to remedy the economically disadvantaged position of Indians by ensuring that Indians may acquire, hold, and deal with property in the commercial mainstream on different terms than their fellow citizens. An examination of the decisions bearing on these sections confirms that Indians who acquire and deal in property outside lands reserved for their use, deal with it on the same basis as all other Canadians.
+La Forest J. also noted that the protection from seizure is a mixed blessing, in that it removes the assets of an Indian on a reserve from the ordinary stream of commercial dealings (at pp. 146-47).
+Therefore, under the Indian Act, an Indian has a choice with regard to his personal property. The Indian may situate this property on the reserve, in which case it is within the protected area and free from seizure and taxation, or the Indian may situate this property off the reserve, in which case it is outside the protected area, and more fully available for ordinary commercial purposes in society. Whether the Indian wishes to remain within the protected reserve system or integrate more fully into the larger commercial world is a choice left to the Indian.
+The purpose of the situs test in s. 87 is to determine whether the Indian holds the property in question as part of the entitlement of an Indian qua Indian on the reserve. Where it is necessary to decide amongst various methods of fixing the location of the relevant property, such a method must be selected having regard to this purpose.[6]
+[9] The Court then addressed the approach to be taken in applying these principles:
+The approach which best reflects these concerns is one which analyzes the matter in terms of categories of property and types of taxation. For instance, connecting factors may have different relevance with regard to unemployment insurance benefits than in respect of employment income, or pension benefits. The first step is to identify the various connecting factors which are potentially relevant. These factors should then be analyzed to determine what weight they should be given in identifying the location of the property, in light of three considerations: (1) the purpose of the exemption under the Indian Act; (2) the type of property in question; and (3) the nature of the taxation of that property. The question with regard to each connecting factor is therefore what weight should be given that factor in answering the question whether to tax that form of property in that manner would amount to the erosion of the entitlement of the Indian qua Indian on a reserve.
+This approach preserves the flexibility of the case by case approach, but within a framework which properly identifies the weight which is to be placed on various connecting factors. Of course, the weight to be given various connecting factors cannot be determined precisely. However, this approach has the advantage that it preserves the ability to deal appropriately with future cases which present considerations not previously apparent.[7]
+The cases in which the principle has been applied necessarily turn on their specific facts. Nevertheless, there is some guidance to be had from the judgment of the Federal Court of Appeal in Southwind v. Canada.[8] That case, like the present one, was concerned with business income derived from the logging industry. Linden J.A., writing for a unanimous Court, considered eight factors before concluding that the appellant’s income did not qualify for exemption as property situated on a reserve. I propose to consider the same factors here.
+[10] The first factor is the location of the business activities. In this case some of the business activities took place on the reserve, and some off. The physical work of cutting, limbing, skidding and hauling takes place some 35 to 50 miles from the reserve. There was evidence of a small amount of logging that took place on the reserve at one time, but as I understood the appellant’s evidence, it was before the years under appeal, and it was done for the purpose of clearing the reserve land rather than as logging on a commercial scale. There was evidence that some equipment is stored on the reserve from time to time, and may be repaired there as well. The office work done by the clerk is done on the reserve, and the books and records are maintained there. This factor is somewhat equivocal, but in my view the fact that the product is trees that grow in a location remote from the reserve, and that the physical work must therefore be done at that location, outweighs the location of the office work, which could be done either on or off the reserve.
+[11] The next factor is the location of the customers who are the source of the business income. Clearly they are all situated off the reserve. Subject to a minor exception, the product is transported by truck from the woods to the mills without entering the reserve. That exception is Mr. Pelletier’s evidence that sometimes trucks hauling wood late in the day to a mill at Nipigon that is close to the reserve would park overnight on the reserve if they were unable to make the delivery before morning. Clearly this factor suggests that the income is situate off the reserve.
+[12] The third factor is where the decisions affecting the business are made. No doubt the appellant does some paper work at his office on the reserve, and he probably makes some business decisions there. He is the sole manager of the business and, as in Bell v. Canada,[9] the management function is carried out by him wherever he happens to be at any given moment. I think it is inevitable that Mr. Pelletier must make important business decisions on the reserve when meeting with the Band Council, and off the reserve when dealing with customers and the Provincial Government, and when working with the subcontractors in the woods. The evidence on this was sparse, but in my view it is not a factor that points strongly in either direction.
+[13] The next factor considered by Linden J.A. is the type of business and the nature of the work. This should be considered along with the sixth factor, which is the degree to which the business is in the commercial mainstream. This is not a business that has any historical, social or cultural connection to the reserve. The appellant operates at arm’s length from the Band, and from the various mills that are his customers. If he makes a profit it is his, and if the operation loses money then it is his loss. There is nothing to distinguish his business from other logging operations carried on in the commercial mainstream. This factor is strongly indicative of an income that is not situated on the reserve.
+[14] The final two factors are the location of a fixed place of business and of the books and records, and the residence of the owner of the business. As I have said, the business is carried on in a number of locations, but its office and the books and records are located at the appellant’s modular home on the reserve. This is also the registered office of 1037738 ONTARIO LTD., the trustee of the 4 K Business Trust. Like Mr. Walkus, the owner of the business in the Bell case, Mr. Pelletier has two residences. His wife and children live in a house in Thunder Bay where the children go to school. Mr. Pelletier splits his time between that house and the modular home on the reserve. He made no estimate of the proportion of his time spent at each location during the year, but I think it is fair to say that during the logging seasons, winter and summer, he spends more time living on the reserve than he does in the city. I have already commented on the arrangement by which the business is owned by the 4 K Business Trust; otherwise, there is no evidence that the location of the office and Mr. Pelletier’s secondary residence on the reserve are an attempt at manipulation of the kind referred to at paragraph 36 of Williams. This factor does not point solely in either direction, but it may weigh more heavily on the side of exemption than not.
+[15] Considering all of these factors, and bearing in mind what the Supreme Court has said in Mitchell v. Peguis Indian Band,[10] I am of the view that the appellant’s income derived from the 4 K Logging business does not qualify as property situated on a reserve and therefore exempt from taxation. I can see no basis on which to conclude that to tax that income would in any way erode Mr. Pelletier’s enjoyment of property held by him qua Indian; it would simply put him on the same footing commercially as all the non-Indian logging contractors with whom he competes in the commercial mainstream of Northern Ontario.
+[16] For these reasons, the appeals are dismissed, with costs
+Signed at Ottawa, Canada, this 3rd day of July, 2009.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2009 TCC 358
+COURT FILE NO.: 2005-2632(IT)G
+STYLE OF CAUSE: MARCEL PELLETIER and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Thunder Bay, Ontario
+DATE OF HEARING: March 27, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: July 3, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Brian R. MacIvor
+Counsel for the Respondent:
+Gerald L. Chartier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Brian R. MacIvor
+Firm: MacIvor Harris Roddy LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. 1985 c.1 (5th supp.), as amended.
+[2] R.S.C. 1985, c. I-5.
+[3] Nowegijick v. The Queen, [1983] 1 S.C.R. 29; Williams v. Canada, [1992] 1 S.C.R. 877.
+[4] Supra, para. 23.
+[5] Supra at Note 3.
+[6] Supra, pages 885 to 887,
+[7] Supra, pages 892-893.
+[8] [1998] 1 C.T.C. 265.
+[9] [2000] 3 C.T.C. 181. (F.C.A.).
+[10] [1990] 2 S.C.R. 85.

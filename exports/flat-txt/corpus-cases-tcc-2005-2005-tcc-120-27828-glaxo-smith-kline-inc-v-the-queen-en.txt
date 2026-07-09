@@ -1,0 +1,298 @@
+Title: Glaxo Smith kline Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27828/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-120-27828-glaxo-smith-kline-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-03-01
+
+# Glaxo Smith kline Inc. v. The Queen
+
+- Citation: 2005 TCC 120
+- Decision date: 2005-03-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 368, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Glaxo Smith kline Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-03-01
+Neutral citation
+2005 TCC 120
+File numbers
+98-712(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 98-712(IT)G
+BETWEEN:
+GLAXOSMITHKLINE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on August 26, 2004, at Toronto, Ontario
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Pierre Barsalou and Eleni Kouros
+Counsel for the Respondent:
+Myra Yuzak, Karen Janke
+and Naomi Goldstein
+____________________________________________________________________
+ORDER
+Upon motion by the Appellant for an order that access to the file relating to the Respondent’s Motion dated July 20, 2004, including the present motion and all present and future affidavits, supporting exhibits and transcripts of examination filed in support or in opposition of the Respondent’s Motion dated July 20, 2004 or to the present motion, be restricted to Tax Court of Canada personnel, but excluding the judge to preside at trial, and to parties, including their counsel and their personnel;
+And upon reading the affidavits of Dr. Ian Winterborn and Marla McKitrick, filed;
+And upon hearing counsel for the parties;
+It is ordered that those parts of the affidavits of Marla McKitrick dated July 20, 2004 and Dr. Ian Winterborn dated August 10, 2004, set out in Schedules A and B, respectively, shall be kept separate from the Court file in this matter and shall not be accessible by anyone other than a Judge of the Court or the staff of the Court Registry until further order of the Court.
+It is further ordered that costs of this motion shall be in the cause.
+Signed at Ottawa, Canada, this 1st day of March, 2005.
+"E.A. Bowie"
+Bowie J.
+SCHEDULE A
+Affidavit of Marla McKitrick sworn July 20, 2004
+Paragraphs
+21(e)
+42
+56(b) & (c)
+59(c)
+Exhibits
+A-3
+F-6.6, p.1
+F-15.1
+F-20.8, p.1
+A-4
+F-6.7, p.1
+F-15.2, p. 1
+F-21.1, p.1
+B-4
+F-6.8, p. 1
+F-15.3, p.1
+F-21.2, p.1
+D-2
+F-7.1, pp. 1-2
+F-15.4, p.1
+F-21.3, p. 1
+E-5
+F-7.2, p. 1
+F-15.5, p. 1
+F-21.4, p. 1
+E-13
+F-7.3, p. 1
+F-15.6, p. 1
+F-22.1, p. 1
+E-14
+F-7.4, p. 1
+F-15.7, p. 1
+F-22.2, p.1
+E-15
+F-8.1, p. 1
+F-16.1
+F-22.3, p. 1
+F-1.1, p. 1
+F-8.2, p.1
+F-16.2, p. 1
+F-22.4, p. 1
+F-1.2, pp. 1-2
+F-9.1, p. 1
+F-16.3
+F-22.5, p. 1
+F-1.3, p. 1
+F-9.2, p. 1
+F-16.4, p. 1
+F-23, p. 1
+F-2.1, p. 1
+F-9.3, p. 1
+F-16.5, p. 1
+F-24
+F-2.2, p. 1
+F-9.4, p. 1
+F-16.6, p. 1
+F-25.1, p. 1
+F-2.3, p. 2
+F-10.1, p. 1
+F-16.7, p. 1
+F-25.2, p. 1
+F-2.4, p. 1
+F-10.2, p. 1
+F-17.1, p. 1
+F-25.3, p. 1
+F-3, p. 1
+F-10.3, p. 1
+F-17.2, p. 1
+F-26.1, p. 1
+F-4.1, p. 1
+F-10.4, p. 1
+F-17.3, p. 1
+F-26.2, p. 1
+F-4.2, p. 1
+F-10.5, p. 1
+F.18.1, p. 1
+F-26.3, p. 1
+F-4.3
+F-10.6, p. 1
+F-18.2, p. 2
+F-27, pp. 1-2
+F-4.4, p. 1
+F-10.7, p. 1
+F-18.3, p. 1
+F-28.1, p. 1
+F-5.1, p. 1
+F-10.8, p. 1
+F-18.4, p. 1
+F-28.2, p. 1
+F-5.2, p. 1
+F-11.1 p. 1
+F-18.5, p. 1
+F-28.3, p. 1
+F-5.3, p. 1
+F-11.2, p. 1
+F-19.1, p. 1
+F-29.1
+F-5.4, p. 1
+F-11.3, p. 1
+F-19.2, p. 1
+F-29.2, p. 1
+F-5.5, pp. 1-2
+F-12, p. 1
+F-19.3, p. 1
+F-30.1, p. 1
+F-5.6, p. 1
+F-13.1, p. 1
+F-19.4, p. 1
+F-30.2, p. 1
+F-5.7, p. 1
+F-13.2
+F-20.1
+F-30.3, p. 1
+F-5.8, p. 1
+F-13.3, p. 1
+F-20.2, p. 1
+F-31.1, p. 1
+F-6.1, pp. 1-2
+F-13.4, p. 1
+F-20.3, p. 1
+F-31.2, pp. 1-4
+F-6.2, p. 1
+F-14.1, p. 1
+F-20.4, p. 1
+F-32, p. 1
+F-6.3, p.1
+F-14.2, p. 1
+F-20.5, p. 1
+G-2, p. 3
+F-6.4, p. 1
+F-14.3, p.1
+F-20.6, p. 1
+F-6.5, p. 1
+F-14.4, p. 1
+F-20.7, p. 1
+SCHEDULE B
+Affidavit of Dr. Ian Winterborn sworn August 10, 2004
+Paragraphs
+Exhibits
+4(b)(ii)
+5
+4(b)(iii)
+8.2
+4(c)(last five lines)
+14, p. 2
+5
+16, pp. 2 and 3
+61-62
+18, pp. 2 and 3
+83(c)
+25
+87(a, b, c, d, e, g & h)
+Citation: 2005TCC120
+Date: 20050301
+Docket: 98-712(IT)G
+BETWEEN:
+GLAXOSMITHKLINE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bowie J.
+[1] The motion before me is for an Order restricting access by the public to part of the Court file concerning these appeals under the Income Tax Act (the Act). Specifically, the Appellant seeks an Order that would prevent access to the material filed by the Respondent in support of a motion to dismiss the appeals for alleged abuse of process, and to the material filed by the Appellant in opposition to that motion. I made an Interim Order on August 4, 2004 to maintain the status quo pending the hearing of this motion and my disposition of it.
+[2] These appeals are concerned with the price at which the Appellant (Glaxo) purchased the chemical compound ranitidine from certain affiliated foreign companies (the affiliates), for import into Canada, during its 1990, 1991, 1992 and 1993 taxation years. The Appellant and those affiliates are all part of a large multi-national group of companies (the Glaxo group) that manufactures and distributes various pharmaceutical products worldwide. The Appellant is the operating company in Canada, and it manufactures, in Canada, a widely prescribed drug for the treatment of ulcers. To do so, it purchases supplies of ranitidine manufactured by the foreign affiliates, and sold to it through a Swiss affiliate, for use at its Canadian manufacturing facility. At issue is the reasonableness of the consideration that was paid by the Appellant to the affiliates for ranitidine. The Minister of National Revenue says that the consideration was not reasonable in the circumstances, and has assessed accordingly. It is from those assessments that these appeals are brought. In addition to the Glaxo foreign affiliates, there are other primary manufacturers of ranitidine in other countries, and they supply it to generic manufacturers in Canada and elsewhere. These Canadian generic manufacturers operate in competition with the Appellant, selling finished product into the Canadian market. The Appellant has pleaded that the appropriate method by which to determine the transfer price for purposes of the Act is the resale price method; the Respondent says it is the comparable uncontrolled price (CUP) method, or alternatively, the cost-plus method, that should be used.
+[3] Each party has produced many thousands of documents. Non-parties also have produced a very large volume of documents, usually subject to a confidentiality Order restricting the dissemination of them. Many weeks of examinations for discovery have been held. The next major phase of the litigation is a pre-hearing conference, which the parties hope may produce a settlement of the appeals; at minimum, they expect that many of the factual issues can be agreed upon following the pre-hearing conference, thereby simplifying and shortening the trial of the remaining issues. All this is said simply to put in context the motion that is now before me.
+[4] I do not propose to go into the Respondent's allegations of abuse of process here. That motion has not yet been heard. When it is, those allegations will be examined in light of all the evidence then before the Court. For the present, it is sufficient to say that the motion is founded upon two affidavits made by a paralegal who is part of the legal team representing the Respondent. They contain a total of 65 paragraphs and 82 exhibits. In opposition to the motion, the Appellant has filed an affidavit sworn by the Appellant's principal nominee for discovery. It consists of 95 paragraphs and has 30 exhibits attached to it. Together, the two affidavits with their exhibits are about 17 cms. thick. This is the material that the Appellant wishes to keep from public view. Much of it consists of correspondence between counsel in relation to examinations for discovery and the satisfaction of undertakings given during discoveries, requests to admit facts or documents and the responses to them, and drafts of agreed statements of facts exchanged between counsel for the purpose of being put before the judge at the pre-hearing conference when it takes place.
+[5] The Appellant expresses its grounds for seeking an Order precluding public access to the part of the Court file containing these two affidavits this way:
+a) That such an order is necessary:
+1. in order to prevent a serious risk to important interests, including a commercial interest, in the context of litigation. This includes the risk resulting from the continued disclosure of confidential commercial documents and information. Moreover, in the present case, the affidavit filed in support of the Respondent’s motion and several exhibits in support thereof contain a number of references and extracts of drafts agreed statements of facts which the parties have agreed would, in the absence of prior written consent, be used only for the facilitation of the pre-trial hearing and would be kept confidential;
+2. because reasonably alternative measures will not prevent the risk.
+b) The salutary effects of the confidentiality order, including the effects on the right of civil litigants to a fair trial, outweigh its deleterious effects, including the public interest in open and accessible court proceedings;
+c) That the Appellant is entitled to the confidential commercial documents, information and extracts of draft agreed statements filed as exhibits by the Respondent remaining confidential to properly pursue his appeal.
+On the hearing of the motion, counsel abandoned the ground based upon the alleged need to protect the Appellant's commercial interests, and proceeded simply upon the basis that the parties had agreed that they would keep confidential their agreed statements of facts. Paragraphs 5 to 10 of Dr. Winterborn's affidavit in support of the motion describes the process by which the parties were developing those agreed statements of facts.
+5. Parties started exchanging draft ASFs in 2003. Since then, approximately 50 draft ASFs have been in development. While many are close to completion, parties have to this date not agreed to any final statements of fact.
+6. Throughout the process, draft ASFs have been exchanged, discussed and modified with the understanding that they would remain work in progress until parties had agreed on a final version and that such draft ASFs, along with discussions and communications taking place between parties and their counsel, would be treated under strict confidentiality.
+7. At all times, the Appellant’s willingness to participate in drafting ASFs was premised on the assumption that drafts would be treated under strict confidentiality by the Respondent, that such draft would never be used in current or other proceedings and that they would not be communicated to the Court. Only final versions of ASFs were to be communicated to the Court, in due time and in accordance with agreed “ASF Standards”.
+8. In March 2004, parties agreed to a revised set of written rules governing the use of ASFs. These “ASF Standards” were similar to those that had been agreed to by parties previously, which (sic) a few modifications and clarifications. Paragraph 8 of these “ASF Standards” stated:
+8. The Agreed Statements of Fact are not to be used by either party for any purpose other than the facilitation of the pre-trial in this matter and no use may be made of the Agreed Statements of Fact other than for that purpose, without the written permission of the other party. Parties will agree to what needs to be done for trial purposes at a later date (confidentiality order with the trial judge?).
+9. I was advised by the Appellant’s counsel that these “ASF Standards” were jointly submitted by parties to the Court on April 2, 2004 (see fax copy attached herewith) and forwarded to Justice Bowie for discussion during the conference call hearing of April 6, 2004.
+10. Over the last few months, parties have been actively working at finalizing ASFs. By the end of June 2004, both parties were aware that the time limit that parties had set for themselves to finalize 30 “major” ASFs had passed but were continuously proceeding with their discussions, in the hope to be finalizing the ASFs promptly.
+I am satisfied by the affidavit, and the transcript of the cross examination on it, that the parties had agreed to keep the agreed statements of fact, and the drafts leading up to them, confidential, and also that the Appellant would not have embarked upon the process without that assurance.
+[6] Much of the argument before me was directed to the question whether the documents in question could be said to be privileged, either as concessions made in the course of settlement negotiations, or within the principle enunciated by Professor Wigmore[1] and adopted by the Supreme Court of Canada in Slavutych v. Baker.[2] The question before me, however, is not so much one of privilege, which after all is principally an evidentiary rule, but rather whether there is a public interest in protecting the documents in question from scrutiny that outweighs the general rule that proceedings before the courts are to be conducted in public. Indeed, it was not argued before me that the drafts of agreed statements of facts, or any other documents annexed to the Respondent's affidavit in support of the main motion, are not admissible in evidence to support the motion; the Appellant's position is simply that they should not be available for examination by members of the public at the Court registry.
+[7] In recent years the Supreme Court of Canada has settled the principles governing the open courts rule, and the conditions under which it may be subordinate to another public interest. Sierra Club of Canada v. Canada (Minister of Finance)[3] governs the making of confidentiality orders in civil matters. At paragraphs 53 to 57, Iacobucci J. said this:
+53 Applying the rights and interests engaged in this case to the analytical framework of and subsequent cases discussed above, the test for whether a confidentiality order ought to be granted in a case such as this one should be framed as follows:
+A confidentiality order under Rule 151 should only be granted when:
+(a) such an order is necessary in order to prevent a serious risk to an important interest, including a commercial interest, in the context of litigation because reasonably alternative measures will not prevent the risk; and
+(b) the salutary effects of the confidentiality order, including the effects on the right of civil litigants to a fair trial, outweigh its deleterious effects, including the effects on the right to free expression, which in this context includes the public interest in open and accessible court proceedings.
+54 As in , I would add that three important elements are subsumed under the first branch of this test. First, the risk in question must be real and substantial, in that the risk is well grounded in the evidence, and poses a serious threat to the commercial interest in question.
+55 In addition, the phrase "important commercial interest" is in need of some clarification. In order to qualify as an "important commercial interest", the interest in question cannot merely be specific to the party requesting the order; the interest must be one which can be expressed in terms of a public interest in confidentiality. For example, a private company could not argue simply that the existence of a particular contract should not be made public because to do so would cause the company to lose business, thus harming its commercial interests. However, if, as in this case, exposure of information would cause a breach of a confidentiality agreement, then the commercial interest affected can be characterized more broadly as the general commercial interest of preserving confidential information. Simply put, if there is no general principle at stake, there can be no "important commercial interest" for the purposes of this test. Or, in the words of Binnie J. in , 2000 SCC 35, at para. 10, the open court rule only yields "where the public interest in confidentiality outweighs the public interest in openness" (emphasis added).
+56 In addition to the above requirement, courts must be cautious in determining what constitutes an "important commercial interest". It must be remembered that a confidentiality order involves an infringement on freedom of expression. Although the balancing of the commercial interest with freedom of expression takes place under the second branch of the test, courts must be alive to the fundamental importance of the open court rule. See generally Muldoon J. in Eli Lilly and Co. v. Novopharm Ltd. (1994), 56 C.P.R. (3d) 437 (F.C.T.D.), at p. 439.
+57 Finally, the phrase "reasonably alternative measures" requires the judge to consider not only whether reasonable alternatives to a confidentiality order are available, but also to restrict the order as much as is reasonably possible while preserving the commercial interest in question.
+[8] In the present case, the Appellant no longer asks for an order that would protect its business information from exposure simply on the basis of some potential impairment of its economic interests, perhaps because it was apparent to counsel that there was not the evidentiary grounding for such an order that the Sierra Club case requires. However, in my opinion the Appellant is entitled to an order that will maintain the essentially private nature of the drafts of agreed statements of facts that are appended to the Respondent's affidavit. Iacobucci J. was careful in Sierra Club not to restrict the possible bases for a confidentiality order in civil litigation simply to the protection of commercial information that business competitors might find useful. Clearly, there are other public interests whose protection may be of sufficient importance to require some abrogation of the public right of access to a court proceeding. In my view, early and efficient dispute resolution is one. To promote pre-trial settlement of litigation has become a goal of courts across Canada at all levels during the last two decades or more. Judges, lawyers and the public have all come to recognize the importance of reducing the cost of dispute resolution, not just in monetary but also in human terms.
+[9] Do the salutory effects of maintaining the confidentiality of draft agreed statements of fact outweigh the deleterious effect of preventing public access to a part of the evidence on which the main motion will be decided? In my view they do. Dr. Winterborn is emphatic that without the expectation that the drafts would remain in confidence, the Appellant would never have been willing to embark on the process of agreeing on facts. Indeed, the parties entered into a protocol to restrict the use of the agreed statements of facts to the purposes of the pre-hearing conference that both parties hoped would assist them in achieving a settlement of the litigation. Nothing in the cross-examination of Dr. Winterborn detracts from this. It is obvious that without substantial agreement between the parties as to numerous factual issues raised by the pleadings, no settlement conference is likely to be very productive.
+[10] Counsel for the Respondent sought to characterize the process of developing these agreed statements of facts as simply synthesizing the information obtained during examinations for discovery. This, I think, is an unwarranted oversimplification of the exercise. The reality is that as the parties exchange drafts the language is parsed, admissions are negotiated, and trade-offs are made on both sides in a dynamic process. It must be remembered, too, that the information contained in the transcripts of the examinations for discovery is not in the public domain.[4] It remains private, unless and until it becomes evidence by being read into the record at a trial or, as in this case, by being included in the affidavit evidence filed to support a motion.
+[11] I am bound, before making any Order of the kind sought here, to consider whether there are any alternatives that might suffice. I do not believe that there are. The Appellant's legitimate concern is the possibility that admissions that it may consider making for a limited purpose and under controlled conditions may become public. The public interest that must be set against the interest in open courts and the constitutional right to freedom of speech is the interest in creating an environment that is conducive to productive settlement negotiations, and that requires that litigants be able to negotiate agreements as to facts in privacy. However, minimum impairment requires that any order I make must restrict access only to those documents as to which the evidence satisfies me that there is a serious likelihood that the prospect of public exposure would be deleterious to the pre-hearing process. I have no doubt that if the parties were required to negotiate the facts of their dispute in public they would be far less likely to be able to reach meaningful agreements than if they did so in private. The prospects of holding meaningful pre-trial settlement conferences would be greatly impaired.
+[12] I shall make an Order, therefore, that precludes inspection by non-parties of those parts of the affidavits of Marla McKitrick sworn July 20, 2004 and of Dr. Ian Winterborn sworn August 10, 2004 (including the exhibits annexed to them) that would reveal any of the contents of agreed statements of facts, or drafts of them. The other material in those affidavits will be available for inspection, with the exception of a few documents as to which confidentiality Orders were made sometime ago. All of these shall remain sealed until further Order.
+[13] The Interim Order that I made on August 4, 2004 will be dissolved.
+[14] Costs of this motion will be in the cause.
+Signed at Ottawa, Canada, this 1st day of March, 2005.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2005TCC120
+COURT FILE NO.:
+98-712(IT)G
+STYLE OF CAUSE:
+GlaxoSmithKline Inc. and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 26, 2004
+REASONS FOR ORDER BY:
+The Honourable Justice E.A. Bowie
+DATE OF ORDER:
+March 1, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Pierre Barsalou and Eleni Kouros
+Counsel for the Respondent:
+Myra Yuzak, Karen Janke
+and Naomi Goldstein
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Pierre Barsalou and Sebastien Rheault
+Firm:
+Barsalou Lawson
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Wigmore on Evidence, 3d Ed., (McNaughton Revision, 1961) Vol. 8, para. 2285.
+[2] [1976] 1 S.C.R. 254.
+[3] [2002] 2 S.C.R. 522.
+[4] Sherman v. The Queen, [2000] 2 C.T.C. 2670.

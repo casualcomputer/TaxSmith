@@ -1,0 +1,262 @@
+---
+title: "Enviroway Detergent Mfg. Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27388/index.do"
+last_modified: "2006-12-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 658"
+citation2: ""
+neutral_citation: "2006 TCC 658"
+decision_date: "2006-12-22"
+language: "en"
+item_id: "27388"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 145
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:25:58.791000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "89b76228a1fb503b802e96f045f83b50c5c7b8ba28a3625e5108520e517e1ff9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Enviroway Detergent Mfg. Inc. v. M.N.R.
+
+- Citation: 2006 TCC 658
+- Decision date: 2006-12-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 145, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Enviroway Detergent Mfg. Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-22
+Neutral citation
+2006 TCC 658
+File numbers
+2005-761(CPP)
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2005-761(CPP)
+BETWEEN:
+ENVIROWAY DETERGENT MFG. INC.
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+DAVID ADAMS,
+Intervenor.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+Enviroway Detergent Mfg. Inc. (2005-759(EI)) on November 22, 2006,
+at Saskatoon, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Nicholas J. Stooshinoff
+Counsel for the Respondent:
+Ainslie Schroeder
+For the Intervenor:
+No one appeared
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 5th day of December, 2006.
+"D.W. Beaubier"
+Beaubier, J.
+Docket: 2005-759(EI)
+BETWEEN:
+ENVIROWAY DETERGENT MFG. INC.
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+DAVID ADAMS,
+Intervenor.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+Enviroway Detergent Mfg. Inc. (2005-761(CPP) on November 22, 2006,
+at Saskatoon, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Nicholas J. Stooshinoff
+Counsel for the Respondent:
+Ainslie Schroeder
+For the Intervenor:
+No one appeared
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 5th day of December, 2006.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2006TCC658
+Date: 20061205
+Docket: 2005-761(CPP)
+2005-759(EI)
+BETWEEN:
+ENVIROWAY DETERGENT MFG. INC.
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+DAVID ADAMS,
+Intervenor.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] These appeals were heard together on common evidence at Saskatoon, Saskatchewan, on November 22, 2006. The Appellant’s counsel called the sole shareholder and director of the Appellant, Birendra “Bob” Behari. The Respondent’s counsel called a former salesman for the Appellant, Jerry Balon. The Intervenor did not appear.
+[2] Paragraphs 3 to 8, inclusive, of the Reply to the Notice of Appeal (File No. 2005-759(EI)) set out the matters in dispute. They read:
+3. By Notice of Assessment dated March 5, 2004 the Appellant was assessed for, among other things, employment insurance premiums in the amount of $7,563.88 for the 2003 year, in respect of David Adams (hereinafter “Adams”), Jerry Balon (hereinafter “Balon”), David Panasiuk (hereinafter “Panasiuk”), Manoj Prasad (hereinafter “M. Prasad”), Nishchal Prasad (hereinafter “N. Prasad), Rajani Sharma (hereinafter “Sharma”), Earl Thomas (hereinafter “Thomas”) and Raymond Young (hereinafter “Young”).
+4. By Notice of Assessment dated March 5, 2004 the Appellant was assessed for, among other things, employment insurance premiums in the amount of $155.04 for the 2004 year, in respect of M. Prasad.
+5. By letter received April 6, 2004, the Appellant appealed to the Minister for a reconsideration of the 2003 and 2004 year assessments.
+6. In response to the Appellant’s appeal, the Minister decided to confirm the assessments for the 2003 and 2004 years as Adams, Balon, Panasiuk, M. Prasad, N. Prasad, Sharma, Thomas and Young (collectively hereinafter “the Workers”) were employed under a contract of service with the Appellant.
+7. In so deciding as the Minister did with respect to the Workers, the Minister relied on the following assumptions of fact:
+(a) the Appellant was in the business of manufacturing and wholesale distribution of cleaning detergents, janitorial supplies and associated products;
+(b) Birendra Behari (hereinafter “the Shareholder”) was the sole shareholder of the Appellant;
+(c) the Workers were hired as sales people and their duties included contacting customers, selling and distributing the Appellant’s products and educating customers on product use;
+(d) the Workers did not have written contracts with the Appellant;
+(e) the Workers’ earnings were based on commissions;
+(f) the Workers earned a set commission of 25% to 27% of the profit from sales;
+(g) the Appellant paid the Workers on a bi-weekly or monthly basis;
+(h) the Appellant’s business hours were from 8:30AM to 5:00PM, Monday to Friday;
+(i) the Appellant set goals and quotas for the Workers;
+(j) the Appellant expected the Workers to meet daily and monthly goals;
+(k) the Appellant expected the Workers to meet sales quotas;
+(l) the Appellant monitored the Workers’ performance by sales volume and profit margins;
+(m) the Appellant provided training seminars for the Workers;
+(n) the Workers were required to keep track of their hours worked and calls made;
+(o) the Workers were required to keep log sheets;
+(p) the Workers submitted reports to the Appellant on a weekly basis;
+(q) the Workers were required to attend monthly sales meetings;
+(r) the Appellant set the product distributor price and the product retail price;
+(s) the Appellant expected the Workers to sell the product for a price between the distributor price and retail price;
+(t) the Workers did not replace themselves of (sic) their own helpers;
+(u) the Workers did not work for others while performing services for the Appellant;
+(v) the Workers performed their services in the field;
+(w) the Workers provided their own vehicles;
+(x) the Appellant provided the Workers with price lists, order taking books, product literature and manufacturers literature;
+(y) the Appellant provided the Workers with the Appellant’s business cards;
+(z) the Appellant provided all of the supplies required;
+(aa) the Workers incurred vehicle expenses;
+(bb) the Appellant reimbursed the Workers for vehicle expenses;
+(cc) the Appellant paid all advertising expenses;
+(dd) the Workers did not incur operating expenses in the performance of their duties;
+(ee) the Workers did not provide their own liability insurance;
+(ff) the Workers did not have a chance of profit or risk of loss;
+(gg) the Workers represented the Appellant while in the field;
+(hh) the Workers were not in business for themselves;
+(ii) prior to February of 2003 the Appellant was withholding contributions and premiums from the Workers’ wages;
+(jj) the Workers’ working conditions were similar before and after February of 2003;
+(kk) M. Prasad was the nephew of the Shareholder and N. Prasad was the step-cousin of the Shareholder;
+(ll) the Workers’ wages, for the period January 1, 2003 to February 29, 2004, were as follows:
+2003
+2004
+Adams, David
+$ 8,214
+Balon, Jerry
+$38,671
+Panasiuk, David
+$22,823
+Prasad, Manoj
+$63,995
+$3,262
+Prasad, Nishchal
+$38,924
+Sharma, Rajani
+$ 7,428
+Thomas, Earl
+$ 6,455
+Young, Raymond
+$17,227
+B. ISSUES TO BE DECIDED
+8. The issue to be decided is whether the Workers were employed under a contract of service with the Appellant during the period January 1, 2003 to February 29, 2004.
+[3] Mr. Behari’s testimony was contradictory to Mr. Balon’s. Where there is a conflict, Mr. Balon’s testimony is preferred to Mr. Behari’s testimony. That is because:
+1. Mr. Balon never applied for EI after he left the Appellant’s workplace. He said he was sick of the problems there and he is believed. Thus, he has evidenced his lack of interest in the outcome of this appeal, whereas Mr. Behari does have an interest in its outcome.
+2. Mr. Balon attended the meetings where the Appellant submitted to the salesmen up to 15 or 20 different drafts of contracts purporting to terminate employment and to create contractual work. Mr. Balon signed one of them and was told the next day it was invalid and had been shredded. Therefore, Mr. Balon never signed a contract whereas Mr. Behari initially testified that all of the salesmen had signed contracts.
+3. The Appellant only filed one such contract in evidence and it had been signed by one of its managers. Moreover, as will be seen, it is of questionable value. Despite Mr. Behari’s statements, the Court does not believe that there are any other signed contracts. In the circumstances of this case wherein (1) signed contracts are alleged to exist, (2) the contracts are crucial to the case, (3) Mr. Balon testified that many forms of the alleged written contract were submitted to the salesmen and then withdrawn by the Appellant, and (4) the Appellant allegedly has signed copies of them, then the failure of the Appellant corporation to submit signed copies as Exhibits raises the question as to whether they even exist. The Court finds that any alleged signed contracts, which Mr. Behari stated exist, do not exist if they are not exhibited. Mr. Behari testified in rebuttal and he did not deny Mr. Balon’s evidence that he signed one of the Appellant’s contract forms which the Appellant then purposefully destroyed.
+[4] On the basis of the foregoing alone, the Court finds that Jerry Balon was an employee of the Appellant for the entire period. However, there are also additional reasons for this finding which will be detailed in what follows:
+[5] Respecting the assumptions in paragraph 7, as quoted, the Court finds:
+(a) Correct.
+(b) Correct.
+(c) Correct.
+(d) For the foregoing reasons, the Court finds this assumption to be correct except in respect to David Panasiuk concerning whom Exhibit A-1 was filed. This was alleged by Mr. Behari to be a contract that was representative of all of the salesmen’s alleged contracts. Exhibit A-1, however, amounts to a contract of employment, rather than that of a sub-contractor, because:
+Paragraph 1.01 – Requires the “sub-contractor” to perform such duties as shall be prescribed by the Appellant in the manner determined by the Appellant.
+Paragraph 4.01 – Requires the sub-contractor to devote his whole time to the Appellant’s business except as may be agreed to in writing by the Appellant.
+Paragraph 5.01 – Permits the Appellant to terminate the sub-contractor if the sub-contractor has been “unfaithful in his service” to the Appellant.
+These excerpts make the contract form one of employment.
+(e) and (f) Mr. Balon was unable to calculate them – for good reason. The calculation of commissions is set out in Schedule A to Exhibit A-1. It consists in part of a percentage on “Gross Profit Margins of 45%+” and then lower percentages of lower gross profit margins. These margins were known only to the Appellant and the different products with their margins are not written out. There were also other “commissions” described with similar problems. In other words, it appears that the salesmen were paid what the Appellant felt like paying them from time to time, because there was no objective source or basis from which to verify the Appellant’s calculations.
+(g) The workers were paid monthly.
+(h) Is generally correct.
+(i), (j) and (k) Are correct.
+(l) Is correct.
+(m) These “seminars” were for product training or introduction.
+(n), (o) and (p) Are correct.
+(q) They were required to attend meetings from time to time for sales and other purposes.
+(r) Is correct.
+(s), (t), (u), (v), (w), (x), (y), (z) and (bb) Are correct.
+(aa) The Appellant paid the workers $1,000 per month out of which they were to meet all of their expenses. Each salesman had a geographic sales territory and if in Saskatoon, an industrial territory. For instance, Mr. Balon’s territory at all times was confined to an area of Northern Saskatchewan including Prince Albert, La Ronge and Reindeer Lake, where he generally sold to schools, hospitals and Indian Reservations and in the City of Saskatoon, to five or six industries such as truckers or garages.
+(cc) Is correct.
+(dd) Is wrong. The workers incurred expenses in excess of the $1,000 per month, such as motels, meals, vehicle expenses, postage, fax disbursements and other costs. Many of these were claimable under the Income Tax Act.
+(ee) Is correct.
+(ff) Is wrong, within the limits and based on the foregoing conditions that they were selling for commissions and incurred large expenses weekly.
+(gg), (hh), (ii) and (jj) Are correct.
+(kk) and (ll) Were not refuted.
+[6] Based on the foregoing findings of fact –
+1. The Appellant and the salesmen, by their actions and the alleged one written contract, intended that the substance of their contracts was that of employer-employees.
+2. Control – was exercised over the workers by the Appellant.
+3. Tools – The workers supplied their own vehicles. The Appellant supplied everything else.
+4. Profit or Loss – The workers could incur a profit or a loss. However much of this was in the control of the Appellant which allocated fixed territories to the salesmen and calculated their compensation on a basis and in a manner that could not be verified objectively.
+5. Integration – The workers were completely integrated into the Appellant’s business. They could only sell the Appellant’s products within territories fixed by the Appellant.
+[7] The workers were not in business for themselves. They were employees of the Appellant.
+[8] The appeals are dismissed.
+Signed at Vancouver, British Columbia, this 5th day of December, 2006.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2006TCC658
+COURT FILE NO.: 2005-761(CPP) and 2005-759(EI)
+STYLE OF CAUSE: Enviroway Detergent Mfg. Inc. v. M.N.R.
+PLACE OF HEARING: Saskatoon, Saskatchewan
+DATE OF HEARING: November 22, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: December 5, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Nicholas J. Stooshinoff
+Counsel for the Respondent:
+Ainslie Schroeder
+For the Intervenor:
+No one appeared
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Nicholas J. Stooshinoff
+Firm: Stooshinoff Law Office
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,285 @@
+Title: Morris v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27623/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-502-27623-morris-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-09-15
+
+# Morris v. The Queen
+
+- Citation: 2006 CCI 502
+- Decision date: 2006-09-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 444, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morris v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-15
+Référence neutre
+2006 CCI 502
+Numéro de dossier
+2005-1261(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1261(IT)I
+ENTRE :
+BARRY MORRIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 29 août 2006, à North Bay (Ontario)
+Devant : L'honorable juge en chef D.G.H. Bowman
+Comparutions :
+Représentant de l'appelant : Ian Smith
+Avocat de l'intimée : Me Pascal Tétrault
+____________________________________________________________________
+JUGEMENT
+Les appels à l'encontre de la cotisation établie en application de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 1999 et 2000 sont rejetés.
+Signé à Ottawa, Canada, ce 15e jour de septembre 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 21e jour de novembre 2006.
+Hélène Tremblay, traductrice
+Référence : 2006CCI502
+Date : 20060915
+Dossier : 2005-1261(IT)I
+ENTRE :
+BARRY MORRIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Les présents appels concernent les cotisations établies à l'égard de l'appelant pour ses années d'imposition 1999 et 2000. La question est simplement d'établir quelle partie des dépenses concernant le chalet de M. Morris peut être déduite dans le calcul des revenus de ce dernier.
+[2] M. Morris n'a pas témoigné. C'est plutôt sa femme qui s'est présentée. Elle connaissait très bien les activités commerciales et les affaires fiscales de l'appelant.
+[3] M. Morris a construit son chalet en 1989. Il l'a donné en location en 1991 et en 1992, et de nouveau en 1999 et en 2000. En 1999, sa famille et lui en ont fait un usage personnel pendant 35 jours. En 2000, ils en ont fait un usage personnel pendant 24 jours. Le chalet a été donné en location pendant 21 jours en 1999 et pendant 28 jours en 2000, principalement pendant les mois de juillet et d'août. La possibilité de location du chalet était annoncée dans plusieurs établissements commerciaux.
+[4] En bref, la question ici est d'établir quelle partie des dépenses concernant le chalet il est raisonnable d'attribuer à l'entreprise de location par rapport à l'usage personnel. Le paragraphe 4(1) de la Loi de l'impôt sur le revenu prévoit que le contribuable doit déterminer ce qu'il est raisonnable de considérer comme étant applicable à une certaine source de revenus. En l'espèce, il s'agit de l'entreprise de location du chalet. La façon la plus simple d'expliquer la demande de déduction de l'appelant et la manière dont elle a été traitée au moment de l'établissement de la cotisation est de reproduire l'annexe A de la réponse à l'avis d'appel visant les deux années en litige.
+Annexe « A »
+Barry Morris
+2005-1261(IT)I
+Loyers de biens immobiliers : Ryerson TWP
+1999
+Déclaré /
+demandé
+Rajustements après examen au bureau
+Rajustements après opposition
+Total des rajustements
+Cotisation établie le
+14 déc. 2004
+Loyers bruts
+2 375,00 $
+-2 375,00 $
+2 375,00 $
+0,00 $
+2 375,00 $
+Dépenses (100 %)
+Intérêt
+4 535,79 $
+-4 535,79 $
+2 267,89 $
+-2 267,89 $
+2 267,90 $
+Entretien et réparations
+2 074,18 $
+-2 074,18 $
+586,46 $
+-1 487,72 $
+586,46 $
+Frais de bureau
+545,00 $
+-545,00 $
+123,96 $
+-421,04 $
+123,96 $
+Frais d'avocat et de comptabilité
+60,00 $
+-60,00 $
+65,00 $
+5,00 $
+65,00 $
+Impôt foncier
+1 014,62 $
+-1 014,62 $
+527,31 $
+-487,31 $
+527,31 $
+Déplacements
+720,32 $
+-720,32 $
+414,75 $
+-305,57 $
+414,75 $
+Services publics
+1 675,00 $
+-1 675,00 $
+789,91 $
+-885,09 $
+789,91 $
+Fournitures
+194,95 $
+-194,95 $
+293,19 $
+98,24 $
+293,19 $
+Téléphone et expressvu
+308,04 $
+308,04 $
+308,04 $
+Essence
+196,76 $
+196,76 $
+196,76 $
+10 819,86 $
+-10 819,86 $
+5 573,27 $
+-5 246,58 $
+5 573,28 $
+Bénéfice net (perte)
+-8 444,86 $
+8 444,86 $
+-3 198,27 $
+5 246,58 $
+-3 198,28 $
+Annexe « A »
+Page 1
+Barry Morris
+2005-1261(IT)I
+Loyers de biens immobiliers : Ryerson TWP
+2000
+Déclaré /
+demandé
+Rajustements après examen au bureau
+Rajustements après opposition
+Total des rajustements
+Cotisation établie le
+14 déc. 2004
+Loyers bruts
+2 525,00 $
+-2 525,00 $
+2 525,00 $
+0,00 $
+2 525,00 $
+Dépenses (100 %)
+Intérêt
+6 966,00 $
+-6 966,00 $
+2 189,95 $
+-4 776,04 $
+2 189,96 $
+Entretien et réparations
+3 192,15 $
+-3 192,15 $
+1 799,38 $
+-1 392,77 $
+1 799,38 $
+Frais de bureau
+308,09 $
+-308,09 $
+80,12 $
+-227,97 $
+80,12 $
+Frais d'avocat et de comptabilité
+0,00 $
+59,00 $
+59,00 $
+59,00 $
+Impôt foncier
+903,68 $
+-903,68 $
+440,06 $
+-463,62 $
+440,06 $
+Déplacements (véhicule)
+0,00 $
+234,00 $
+234,00 $
+234,00 $
+Services publics
+1 097,18 $
+-1 097,18 $
+485,31 $
+-611,87 $
+485,31 $
+Fournitures
+0,00 $
+0,00 $
+0,00 $
+Téléphone et expressvu
+510,28 $
+-510,28 $
+585,57 $
+75,29 $
+585,57 $
+Essence
+164,00 $
+164,00 $
+164,00 $
+12 977,38 $
+-12 977,38 $
+6 037,39 $
+-6 939,98 $
+6 037,40 $
+Bénéfice net (perte)
+-10 452,38 $
+10 452,38 $
+-3 512,39 $
+6 939,98 $
+-3 512,40 $
+Annexe « A »
+Page 2
+[5] Dans les cotisations initiales, l'appelant s'est vu refuser toutes les pertes en raison du principe de l'attente raisonnable de profit, maintenant abandonné. À la suite de l'opposition de l'appelant, on a reconnu que l'entreprise de location du chalet était une activité suffisamment commerciale, et on a admis une partie des dépenses.
+[6] Je trouve frappant qu'en 1999, selon sa demande, l'appelant a dépensé 10 819 $ pour gagner 2 375 $, et qu'en 2000, il a dépensé 12 977 $ pour gagner 2 525 $. Ceci, malgré le fait qu'environ 50 % de l'usage du chalet pendant ces deux années-là était d'ordre personnel.
+[7] Les concepts de ce qui est raisonnable, et, au contraire, de ce qui est déraisonnable, reviennent souvent dans le droit fiscal et dans d'autres domaines du droit. Ce sont des termes relativement élastiques. Ils sont plus faciles à reconnaître qu'à définir. Si le droit impose à la Cour de déterminer ce qui est « raisonnable » , elle doit alors recourir au bon jugement et au bon sens, et elle doit parfois même déterminer d'abord ce qui est déraisonnable.
+[8] Tout d'abord, je suis d'avis qu'il est déraisonnable d'engager des dépenses allant de 10 000 $ à 12 000 $ pour tirer des revenus d'environ 2 500 $. À cet égard, le représentant de l'appelant a présenté la formule ci-dessous.
+[9] Si on tient pour acquis que pendant environ 60 jours, le chalet ne peut pas être utilisé, en raison du gel, il reste donc 305 jours durant lesquels le chalet peut être utilisé. En 1999, l'appelant en a fait un usage personnel pendant 35 jours. Ces 35 jours représentent 11,4 % de 305 jours. De même, en 2000, l'usage personnel de 24 jours représente 7,84 % de 306 jours. L'appelant soutient donc que ce sont ces pourcentages qui devraient être attribués à l'usage personnel, et que le reste des dépenses (soit environ 89 % en 1999 et environ 92 % en 2000) doivent être attribuées à l'usage commercial. Sauf le respect que je lui dois, je trouve que ceci n'est pas vraiment logique. Il serait tout aussi raisonnable d'utiliser une formule semblable pour calculer l'usage commercial, qui représenterait alors environ 7 % ou 9 % de l'usage total.
+[10] Les dépenses que l'agente des appels a attribuées à l'entreprise correspondent à environ 50 % des coûts fixes (intérêts, taxes), et à 100 % des coûts qui sont entièrement applicables à l'entreprise, dans la mesure où elle pouvait les justifier. Ceci est parfaitement raisonnable, et même généreux.
+[11] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 15e jour de septembre 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 21e jour de novembre 2006.
+Hélène Tremblay, traductrice
+RÉFÉRENCE :
+2006CCI502
+N ° DU DOSSIER :
+2005-1261(IT)I
+INTITULÉ :
+Barry Morris c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+North Bay (Ontario)
+DATE DE L'AUDIENCE :
+Le 29 août 2006
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge en chef D.G.H. Bowman
+DATE DU JUGEMENT ET DES MOTIFS DU JUGEMENT :
+Le 15 septembre 2006
+COMPARUTIONS :
+Représentant de l'appelant :
+Ian Smith
+Avocat de l'intimée :
+Me Pascal Tétrault
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

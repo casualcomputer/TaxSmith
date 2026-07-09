@@ -1,0 +1,151 @@
+---
+title: "Bennett v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29503/index.do"
+last_modified: "2009-10-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 556"
+citation2: ""
+neutral_citation: "2009 TCC 556"
+decision_date: "2009-10-29"
+language: "en"
+item_id: "29503"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6260
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:47:49.448000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4cfdd90419665f497a4374d2f4b14eb96f1fc5be8ec1c71285f989152cdfd440"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bennett v. The Queen
+
+- Citation: 2009 TCC 556
+- Decision date: 2009-10-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6260, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bennett v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-29
+Neutral citation
+2009 TCC 556
+File numbers
+2008-352(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-352(IT)I
+BETWEEN:
+RICHARD BENNETT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 9, 2009, at Hamilton, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sandra K.S. Tsui
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2006 taxation year is dismissed.
+Signed at Halifax, Nova Scotia, this 29th day of October 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2009TCC556
+Date: 20091029
+Docket: 2008-352(IT)I
+BETWEEN:
+RICHARD BENNETT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] The issue in this appeal is whether the Appellant can deduct the amount of $50,000 which he paid to his spouse in his 2006.
+[2] The Appellant and his spouse, Gwyneth Bennett, have been living separate and apart since May 7, 2002.
+[3] On April 5, 2005, Mr. Justice Flynn of the Ontario Superior Court of Justice, Family Court, made a Temporary Order that the Appellant was to pay spousal support in the amount of $792 per month effective January 1, 2005.
+[4] On November 21, 2006, Justice D.S. Crane of the Superior Court of Justice, Family Court made a Final Order. The terms of the Order were that the Appellant was to pay the sum of $50,000 within 60 days to his spouse’s solicitors. If the amount was not paid within the time ordered, then the Appellant was to prepare and register a mortgage against his home in favour of his spouse to secure payment of $50,000. The mortgage was to bear interest at the rate of 6% per annum with monthly payments of $125 per month until the mortgage was paid. The Appellant was to continue to pay monthly spousal support in the amount of $792 per month until the $50,000 was paid in full. The Order also included this provision:
+Forthwith upon payment by the Applicant to the Respondent of the sum of $50,000:
+a) The Respondent shall release the Applicant of all claims to spousal support, maintenance of extended health care coverage for her benefit and designation as the irrevocable beneficiary of the Applicant’s life insurance policies;
+b) The Applicant and the Respondent shall execute mutual releases of all claims made to this date of any kind whatsoever;
+…
+[5] The Appellant was the Applicant in the matter before Justice D.S. Crane. The Appellant paid $50,000 to his spouse’s solicitor on November 30, 2006.
+[6] In this appeal, the amount of $50,000 can be deducted by the Appellant only if it is a support amount as that term is defined in subsection 56.1(4) of the Income Tax Act. That provision reads as follows:
+56.1 (4) Definitions -- The definitions in this subsection apply in this section and section 56.
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[7] Counsel for the Respondent referred to the Federal Court of Appeal decision in McKimmon v. Minister of National Revenue[1] where the Court listed some of the factors to consider when determining whether a lump sum amount is a support amount or a capital amount. The Court stated:
+10 The following are, as it seems to me, some of the considerations which may properly be taken, into account in making such a determination. The list is not, of course, intended to be exhaustive.
+11 1. The length of the periods at which the payments are made. Amounts which are paid weekly or monthly are fairly easily characterised as allowances for maintenance.2 Where the payments are at longer intervals, the matter becomes less clear. While it is not impossible, it would appear to me to be difficult to envisage payments made at intervals of greater than one year as being allowances for maintenance.
+12 2. The amount of the payments in relation to the income and living standards of both payer and recipient. Where a payment represents a very substantial portion of a taxpayer's income or even exceeds it, it is difficult to view it as being an allowance for maintenance. On the other hand, where the payment is no greater than might be expected to be required to maintain the recipient's standard of living, it is more likely to qualify as such an allowance.
+13 3. Whether the payments are to bear interest prior to their due date. It is more common to associate an obligation to pay interest with a lump sum payable by instalments than it is with a true allowance for maintenance.3
+14 4. Whether the amounts envisaged can be paid by anticipation at the option of the payer or can be accelerated as a penalty at the option of the recipient in the event of default. Prepayment and acceleration provisions are commonly associated with obligations to pay capital sums and would not normally be associated with an allowance for maintenance.
+15 5. Whether the payments allow a significant degree of capital accumulation by the recipient. Clearly not every capital payment is excluded from an allowance for maintenance: common experience indicates that such things as life insurance premiums and blended monthly mortgage payments,4 while they allow an accumulation of capital over time, are a normal expense of living which are paid from income and can properly form part of an allowance for maintenance. On the other hand, an allowance for maintenance should not allow the accumulation, over a short period, of a significant pool of capital.5
+16 6. Whether the payments are stipulated to continue for an indefinite period or whether they are for a fixed term. An allowance for maintenance will more commonly provide for its continuance either for an indefinite period or to some event (such as the coming of age of a child) which will cause a material change in the needs of the recipient. Sums payable over a fixed term, on the other hand, may be more readily seen as being of a capital nature.
+17 7. Whether the agreed payments can be assigned and whether the obligation to pay survives the lifetime of either the payer or the recipient. An allowance for maintenance is normally personal to the recipient and is therefore unassignable and terminates at death. A lump or capital sum, on the other hand, will normally form part of the estate of the recipient, is assignable and will survive him.6
+18 8. Whether the payments purport to release the payer from any future obligations to pay maintenance. Where there is such a release, it is easier to view the payments as being the commutation or purchase of the capital price of an allowance for maintenance.7
+[8] In the present appeal, the amount of $50,000 was a one time payment. It had to be paid within 60 days or the Appellant had to mortgage his home in favour of his spouse. Once the Appellant paid the amount of $50,000, he was released from all future claims for spousal support. The payment represented 45% of the Appellant’s annual income and it allowed a significant capital accumulation in his spouse’s hands.
+[9] As a result, I conclude that the amount of $50,000 was not paid as an “allowance on a periodic basis” within subsection 56.1(4) of the Act. It was not a support amount but was a capital payment which cannot be deducted by the Appellant.
+[10] At the hearing of the appeal, the Appellant stated that the Act should not be interpreted in an inflexible manner as he always paid the amounts to his spouse on time. He felt that he was being penalized because he acted responsibly. He would have continued to make periodic payments if he had known that the capital amount was not deductible.
+[11] In essence, the Appellant is asking for equitable relief.
+[12] This Court does not have the jurisdiction to set aside an assessment on equitable grounds. If, on a consideration of all relevant facts, the Court determines that the assessment is correctly made in accordance with the Act, the Court has to dismiss the appeal. As stated by Justice Tardif in Dubois v. The Queen[2] at paragraphs 5 and 12:
+5. Unfortunately, this Court must take all relevant facts into consideration in order to verify whether the assessment was correctly made in accordance with the provisions of the Act, in which case the assessment must be confirmed; the Tax Court of Canada does not have the legal authority to set aside or vary an assessment for reasons based essentially on equity. In other words, the role of a judge is to decide whether or not the assessment is well founded, not to make or change law.
+…
+12. Our Court does not have the power to do what the Appellant is asking of it. It merely has the power to consider whether an assessment complies with the provisions of the Act, and this assessment does.
+[13] For all of the above reasons, the appeal is dismissed.
+Signed at Halifax, Nova Scotia, this 29th day of October 2009.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2009TCC556
+COURT FILE NO.: 2008-352(IT)I
+STYLE OF CAUSE: RICHARD BENNETT AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: October 9, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: October 29, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sandra K.S. Tsui
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1990] 1 F.C. 600
+[2] 2006 TCC 403

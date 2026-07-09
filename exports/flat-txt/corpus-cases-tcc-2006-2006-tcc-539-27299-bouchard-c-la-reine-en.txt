@@ -1,0 +1,134 @@
+Title: Bouchard c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27299/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-539-27299-bouchard-c-la-reine-en.md
+Document type: case_law
+Last modified: 2006-10-10
+
+# Bouchard c. La Reine
+
+- Citation: 2006 TCC 539
+- Decision date: 2006-10-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 906, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bouchard c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-10
+Neutral citation
+2006 TCC 539
+File numbers
+2005-4396(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-4396(IT)I
+BETWEEN:
+LOUISE BOUCHARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 26, 2006, at Rouyn-Noranda, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marie‑Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal from the Canada Child Tax Benefit determination made under the Income Tax Act for the period from February 2003 to March 25, 2004, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of October 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 20th day of July 2007.
+Brian McCordick, Translator
+Citation: 2006TCC539
+Date: 20061010
+Docket: 2005-4396(IT)I
+BETWEEN:
+LOUISE BOUCHARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This is an appeal under the informal procedure against a determination by the Minister of National Revenue ("the Minister") that the Appellant was not the eligible individual, within the meaning of section 122.6 of the Income Tax Act ("the Act"), in respect of her daughter Marilyn for the period from February 2003 to March 25, 2004.
+[2] The Act defines "eligible individual" as follows:
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant;
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant;
+. . .
+(e) is, or whose cohabiting spouse or common-law partner is, a Canadian citizen or a person who
+. . .
+and for the purpose of this definition,
+. . .
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing.
+[3] Section 6302 of the Income Tax Regulations reads as follows:
+6302. For the purposes of paragraph (h) of the definition "eligible individual" in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[4] The Appellant claims that she was the eligible individual in relation to her daughter Marilyn during the period in issue. In the Minister's submission, Kenneth Cahill, the girl's father, was the eligible individual.
+[5] The Appellant and Mr. Cahill lived together for approximately 20 years. They had two daughters together, including Marilyn, born August 4, 1989.
+[6] The parents separated in August 2002. There does not appear to have been a written agreement. In any event, no agreement was produced. There was apparently an oral agreement that the custody of Marilyn, then 13 years of age, would be shared. The same agreement between the former spouses apparently provided that the Appellant would claim the Child Tax Benefit.
+[7] In May 2003, the parents attempted to resume cohabitation, but it ended badly after only three weeks, and the Appellant found refuge in a shelter for more than three months.
+[8] After her stay in the shelter, the Appellant apparently started having her daughter over on alternate weeks again.
+[9] The Appellant produced Exhibit A-2, which consists of receipts from the dance school. She produced Exhibit A‑1, a certification of attendance from a pediatric and adolescent medicine clinic. The document is dated November 17, 2005, and simply attests that Marilyn was seen by a physician on January 30, 2003, before the period in issue.
+[10] The judgment of March 25, 2004, was tendered as Exhibit I‑1. The agreement to which it refers does not discuss the prior child custody arrangement. It simply states [TRANSLATION] "WHEREAS it is Marilyn's wish and desire to live with her father and the parties wish to respect this freely‑expressed choice . . . " Further on, it states that [TRANSLATION] "The plaintiff [Mr. Cahill] shall have the legal custody of the child Marilyn . . ." It should also be noted that the 2002-03 school report cards attached to that exhibit state her father's address, not her mother's address, as hers.
+[11] The father's apartment was larger and more comfortable than the mother's.
+[12] On March 15, 2005, another judgment (Exhibit I‑4) was rendered. It granted the mother legal custody effective March 15, 2005.
+[13] Ms. Jamie Bouchard, Marilyn's sister, stated that Marilyn stayed at her mother's place every other week.
+[14] Kenneth Cahill stated that, from February 2003 to March 2005, his daughter Marilyn lived with him all the time. In fact, she allegedly lived with him continuously since the separation in late 2002. Mr. Cahill claimed that the judgment of March 25, 2004, merely confirmed this situation.
+Analysis and conclusion
+[15] Counsel for the Respondent referred to a decision of Chief Justice Bowman of this Court in Pollak v. Canada, [1999] T.C.J. No. 52 (QL), at paragraph 22, which reads as follows:
+Even if the matter were equally balanced I believe the court order directing that the appellant assume all financial responsibilities for Shai and that his primary residence be with the appellant would tip the scales in favour of the appellant. "The existence of a court order, in respect of the qualified dependant" one of the factors contemplated by paragraph (h) of section 6302 of the Regulations implies that this court must consider the contents of the court order. It is clear from both the original court order of Laforme J. and the revised order of Klowak J. that both judges considered that the primary responsibility for Shai was to lie with the appellant, whereas he had none in respect of Dina Philosoph.
+[16] The judgment of a court having jurisdiction to decide custody is an important element in this Court's analysis of the concept of eligible individual where the two parents' versions conflict.
+[17] The judgment of the Superior Court (Exhibit I‑1) confirms that it is Marilyn's wish to live with her father and grants him legal custody. In addition, the judgment provides that the mother must pay the father support in the amount of $99.05 per month, retroactive to the date on which the pleadings were served. This can only imply a previous situation in which the father had primary custody of his daughter. In addition to this, the report card states Marilyn's father's address as her own. Both of these elements, as well as the father's unambiguous testimony, tip the scales in favour of the father. He testified without hesitation and was not contradicted by the Appellant's questioning.
+[18] The Appellant said that she is particularly bothered by the fact that the parties agreed, upon separating, that she would receive the Child Tax Benefit amount. It appears that the parties may initially have wanted shared custody, but that the daughter, immediately or soon thereafter, expressed her wish to live permanently and solely with her father. Based on the judgment of March 25, 2004, the mother tacitly assented to this wish. From that point onward, the father was the eligible individual within the meaning of the Act. I must make my decision based on this provision of the Act, not the initial agreement between the parties. The initial agreement can be litigated in another court.
+[19] Consequently, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 10th day of October 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 20th day of July 2007.
+Brian McCordick, Translator
+CITATION: 2006TCC539
+COURT FILE NO.: 2005-4396(IT)I
+STYLE OF CAUSE: LOUISE BOUCHARD v. THE QUEEN
+PLACE OF HEARING: Rouyn-Noranda, Quebec
+DATE OF HEARING: September 26, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice
+Louise Lamarre Proulx
+DATE OF JUDGMENT: October 10, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marie‑Claude Landry
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

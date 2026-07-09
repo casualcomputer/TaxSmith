@@ -1,0 +1,210 @@
+---
+title: "Henriques v. Human Resources"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28191/index.do"
+last_modified: "2006-09-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 506"
+citation2: ""
+neutral_citation: "2006 TCC 506"
+decision_date: "2006-09-14"
+language: "en"
+item_id: "28191"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1973
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:45:33.137000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7423c4747dd1c1892fd306be8e55cf7033af72b212c3e03fc869f3b15d87c226"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Henriques v. Human Resources
+
+- Citation: 2006 TCC 506
+- Decision date: 2006-09-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1973, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Henriques v. Human Resources
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-14
+Neutral citation
+2006 TCC 506
+File numbers
+2005-3955(OAS)
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Old Age Security Act
+Decision Content
+Docket: 2005-3955(OAS)
+BETWEEN:
+NIGEL HENRIQUES,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES DEVELOPMENT CANADA,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 16, 2006, at Vancouver, British Columbia, by
+The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Julie Rogers-Glabush
+____________________________________________________________________
+JUDGMENT
+The appeal from the decision of the Minister of Human Resources Development Canada with respect to the Old Age Security Act is allowed on the basis that the Appellant may calculate his 2005 Guaranteed Income Supplement based on the estimate of his 2005 calendar year income.
+Signed at Ottawa, Canada, this 14th day of September 2006.
+"C.H. McArthur"
+McArthur J.
+Citation: 2006TCC506
+Date: 20060914
+Docket: 2005-3955(OAS)
+BETWEEN:
+NIGEL HENRIQUES,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES DEVELOPMENT CANADA,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] This matter came before me by referral dated November 28, 2005 from the Office of the Commissioner of Review Tribunals Canada Pension Plan/Old Age Security pursuant to subsection 28(2) of the Old Age Security Act[1] (the “Act”). The Appellant appeals the decision of the Minister of Human Resources Development Canada (the “Minister”) made August 16, 2005, regarding the calculation of his entitlement to the Guaranteed Income Supplement (GIS) under the Act, for the period of July 2005 to June 2006 (the “Payment Period”).
+[2] The Appellant describes himself as a very poor senior citizen receiving, together with his wife, total combined pensions of $17,000 annually. He states they have been able to survive for the past year by taking out a second mortgage on their home.
+[3] Mr. Henriques had been employed by Westroc Industries Limited from November 1978 to January 1984 when he was terminated due to the reorganization of Westroc. He then worked for Beaver Lumber, retiring in 1995 when he commenced receiving a modest pension from Westroc.
+[4] Out of the blue, he received a one-time lump-sum pension surplus payment of $30,093 (the “Lump-Sum Payment”) from the Westroc pension plan. Apparently the Westroc pension money had been extremely well invested. The Lump-Sum Payment came as a complete surprise. Of this amount, $9,028 was paid in income tax and he retained $21,065. Mrs. Henriques explained that it came at a very fortuitous time because they had been deeply in debt from medical and other expenses.
+[5] Taken for the most part from the Minister's assumptions in the Reply to the Notice of Appeal, the following facts are not in dispute:
+a) The Appellant’s actual income for 2004 was $38,463.24 including the Lump-Sum Payment of $30,093;
+b) The Appellant’s spouse’s actual income for 2004 was $8,406.84;
+c) Based on the Appellant’s actual income of $38,463.24 and the Appellant’s spouse’s income of $8,406.84, the Respondent concluded that the Appellant was not entitled to the GIS[2] for the Payment Period (as set out below):
+Maximum Supplement
+Monthly Pension (B)
+Total
+(A)
+Qualifying Factor
+Annual Income
+Monthly Base Income
+D/2
+Amount of Supplement
+Mr 2005
+$560.69
+$471.76
+$1,032.45
+1
+$32,212.53
+$552
+$553
+$7.69
+July 2005
+$566.87
+$476.97
+$1,043.84
+1
+$46,870.08
+$1,712.92
+$856
+$0
+Jan. 2006
+$593.97
+$484.63
+$1,078.60
+1
+$46,870.08
+$1,712.92
+$856
+$0
+The Minister's wording which included "the Appellant was not entitled to the GIS …" is a legal conclusion that is the issue herein that I am asked to decide. The rest of the facts are as follows:
+d) The Lump-Sum Payment was a pension surplus payment, which was due to the sharing of accumulated money from the Retirement Income Plan for Salaried Employees of Westroc Inc.;
+e) The Lump-Sum Payment was in addition to the pension payments the Appellant was already receiving;
+f) The Lump-Sum Payment was not arrears due for previous months; and
+g) The Lump-Sum Payment was not issued to replace weekly, semi-monthly or monthly payments which could have continued.
+[6] The Chronology of Events as set out by the Minister in the Reply is as follows:
+6. The Appellant filed an Application for Renewal of the Guaranteed Income Supplement for the Payment Period on March 29, 2005 (the “Application”).
+7. In the Application the Appellant declared his actual income for 2004 as follows:
+Appellant
+Spouse
+CPP/RRQ benefits
+3,883.44
+8,406.84
+Other pension income
+4,486.80
+Surplus pension from Westroc
+30,093.00
+Total
+38,463.24
+8,406.84
+[7] The Minister refused the Appellant’s request that his income, for the purpose of calculating his entitlement to the GIS for the Payment Period, be based on estimated income for the 2005 calendar year rather than actual income received and reported for the 2004 taxation year. In other words, the Appellant sought to exclude the Lump-Sum Payment from the calculation of his GIS entitlement.
+[8] The issue is whether the Minister correctly determined that the Appellant could not base his entitlement to GIS for the Payment Period on an estimate of his income for the 2005 calendar year.
+[9] Subsections 14(4) and 14(6) of the Act relied on by the Appellant, read as follows:
+14(4) Where in a current payment period a person who is an applicant, or who is an applicant’s spouse or common-law partner who has filed a statement as described in paragraph 15(2)(a), suffers a loss of income due to termination or reduction of pension income, the person may, … file a statement of the person’s estimated income for the calendar year in which the loss is suffered, other than pension income received by that person in that part of that calendar year that is before the month in which the loss is suffered, in which case the person’s income for the base calendar year shall be calculated as the total of
+(a) the person’s income for that calendar year, calculated as though the person had no pension income for that calendar year, and
+(b) any pension income received by the person in that part of that calendar year that is after the month immediately before the month in which the loss is suffered, divided by the number of months in that part of that calendar year and multiplied by 12.
+14(6) Where, in the circumstances described in paragraphs (a) and (b), a person who is an applicant, or who is an applicant’s spouse or common-law partner who has filed a statement as described in paragraph 15(2)(a), suffers a loss of income due to termination or reduction of pension income, the person may, …
+(a) where the loss is suffered in the last calendar year ending before the payment period, file a statement of the person’s estimated income for the calendar year ending in the current payment period, in which case the person’s income for that calendar year is deemed to be the person’s income for the base calendar year; and
+(b) where the loss is suffered in a month that is before the payment period and after the last calendar year ending before the payment period, file a statement of the person’s estimated income for the calendar year ending in the current payment period showing also the amount of pension income actually received by the person in that part of that calendar year that is before the month in which the loss is suffered, in which case the person’s income for the base calendar year shall be calculated as the total of
+(i) the person’s income for that calendar year, calculated as though the person had no pension income for that calendar year, and
+(ii) any pension income received by the person in that part of that calendar year that is after the month immediately before the month in which the loss is suffered, divided by the number of months in that part of that calendar year and multiplied by 12. [emphasis added]
+[10] In addition, section 14 of the Old Age Security Regulations (“Regulations”) created under the Act defines “pension income” as follows:
+14. For the purposes of section 14 of the Act, "pension income" means the aggregate of amounts received as
+(a) …
+(f) superannuation or pension payments, other than a benefit received pursuant to the Act or any similar payment received pursuant to a law of a provincial legislature;
+[11] At first glance, it is painfully obvious how any given individual might be confused when dealing with entitlements to GIS. The wording of the Act is not only complex but poorly drafted. My colleagues in the past have discussed this unfortunate situation in the hope that it might be remedied. It has not and I simply reiterate their concerns.
+[12] Section 2 of the Act states, with some exceptions that are not relevant in this appeal, that a person’s income for the calendar year is to be his or her income as determined in accordance with the Income Tax Act.[3] Normally, under subsection 14(1) of the Act, benefits for the year ending in June are calculated based on the previous year’s calendar income. For example, the Appellant’s 2004 yearly income would be used to calculate his benefits for the old age security fiscal year of July 2005 to June 2006. At this point, the Appellant would simply not qualify for GIS based on his 2004 income level as it included the Lump-Sum Payment.
+[13] The Minister, however, has the option to calculate GIS entitlement based on the Appellant’s estimate of income for the 2005 calendar year rather than his actual income in 2004.
+[14] The Minister rejected the use of the estimated income form claiming that it can only be used where the Appellant retired, where there was reduction or cessation of income, or where the lump sum payment was paid in order to replace a weekly, semi-weekly, or monthly payment. The Minister argues that none of these conditions have been met and the Appellant cannot exercise the option provided by the Act.
+[15] As stated in Mattina v. Canada (Minister of Human Resources Development Canada) 2006TCC324, the option is clearly available if an individual suffers a reduction of pension income in the current payment period. The receipt of the Lump-Sum Payment in the previous year would necessarily mean a reduction of pension income in the current year. I should not read anything additional into the express wording of the Act.
+[16] The option is available if the Lump-Sum Payment falls under the definition of “pension income” as defined in section 14 of the Regulations. The definition of “pension income” in the Regulations is restrictive rather than inclusive as the term “means” appears in the preamble of the definition. Thus, the Appellant must specifically fit the Lump-Sum Payment into one of the existing categories as outlined in the subparagraphs of the definition. In my opinion, the Lump-Sum Payment made from the pension plan falls under subsection 14(f) of the Regulations as a pension payment. There is no need to further restrict the scope of pension income as this has already been done in the preamble of the definition. Section 14 of the Regulations reads:
+14 For the purposes of section 14 of the Act, "pension income" means the aggregate of amounts received as
+…
+(f) superannuation or pension payments, other than …
+(the exceptions do not apply).
+[17] To summarize, the Lump-Sum Payment falls within the definition of “pension income” as a pension payment. As the payment occurred in 2004, there would necessarily be a reduction of pension income for the 2005 calendar year. Thus, the conditions for the option have been met and the Appellant is entitled to base his GIS entitlement on an estimate of his 2005 calendar year income.
+[18] The appeal is allowed. The Appellant may calculate his 2005 GIS entitlement based on the estimate of income for his 2005 calendar year.
+Signed at Ottawa, Canada, this 14th day of September 2006.
+"C.H. McArthur"
+McArthur J.
+CITATION: 2006TCC506
+COURT FILE NO.: 2005-3955(OAS)
+STYLE OF CAUSE: Nigel Henriques and
+Minister of Human Resources Development Canada
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: May 16, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: September 14, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Julie Rogers-Glabush
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. 1985, c. O-9, as amended.
+[2] I replaced the Minister's phrase "the Appellant was not entitled to the GIS" with "the Respondent concluded that the Appellant was not entitled to the GIS".
+[3] R.S.C. 1985, (5th Supp.), c. 1, as amended.

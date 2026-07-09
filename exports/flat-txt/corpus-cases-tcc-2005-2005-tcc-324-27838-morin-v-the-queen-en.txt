@@ -1,0 +1,139 @@
+Title: Morin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27838/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-324-27838-morin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-05-13
+
+# Morin v. The Queen
+
+- Citation: 2005 TCC 324
+- Decision date: 2005-05-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 378, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-13
+Neutral citation
+2005 TCC 324
+File numbers
+2002-3824(IT)G, 2003-3232(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Dockets 2002-3824(IT)G
+2003-3232(IT)G
+BETWEEN:
+DUSTIN MORIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 31, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Eric Douglas
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2000 and 2001 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+It was agreed at the hearing that if these appeals were allowed that the Appellant would be entitled to deduct the following amounts:
+2000 $82,710.05
+2001 $50,622.95
+This Judgment is issued in substitution for the Judgment dated May 13, 2005.
+Signed at Ottawa, Canada, this 26th day of July 2005.
+"Diane Campbell "
+Campbell J.
+Citation: 2005TCC324
+Date: 20050513
+Dockets: 2002-3824(IT)G
+2003-3232(IT)G
+BETWEEN:
+DUSTIN MORIN,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] These appeals are in respect to the Appellant's 2000 and 2001 taxation years. The Appellant sought to deduct $133,333.00 in 2000 and $50,662.95 in 2001 in respect of amounts expended for the right to acquire shares within the meaning of subparagraph 7(1)(a)(iii) of the Income Tax Act (the "Act"). The Minister of National Revenue (the "Minister") denied the deductions on the basis that they were not paid to acquire shares but instead were payments for employment consulting and counselling services.
+[2] In 1993 the Appellant attended school in Toronto. During this time, he met Robert Tordiffe, the father of one of his school friends. After discussions with Mr. Tordiffe concerning the high tech industry, he decided he wanted to pursue a career in this area specifically with a company that would offer employee stock options. The Appellant asked Mr. Tordiffe to assist him in finding such a position and eventually an agreement was entered into between the Appellant and Tordiffe's company, Bobsan Investments Inc. ("Bobsan") on March 12, 1999 (the "Agreement"). According to the Agreement, Bobsan had "the necessary associations and experience to provide valuable employment advise (sic)". This advice was to lead the Appellant to obtaining employment that would "maximize the financial benefits to him".
+[3] Pursuant to the Agreement, the Appellant was to pay Bobsan, for assistance given by Bobsan, "a portion of any stock option or similar compensation or benefit package that Morin obtains from any employment that Morin accepts from the recommendations provided by Bobsan" (paragraph 7 of the Agreement). The portion of this benefit that the Appellant would pay Bobsan from any employment accepted as a result of the recommendations was to be an amount equal to "...one hundred percent (100%) of the first one hundred thousand dollars ($100,000.00) and thirty-three and one third percent (33.33%) of the second one hundred thousand dollars ($100,000.00)" (paragraph 8 of the Agreement). As a result of this Agreement, the Appellant met with several potential employers from a list provided by Bobsan. After meeting with one of Tordiffe's contacts in Vancouver, the Appellant accepted a position in the finance and engineering department of a company called Westport Research Inc. ("Westport"). His remuneration package included an employee stock option benefit plan where the Appellant had the right to acquire shares of Westport. Eventually the Appellant exercised these stock options through a broker and pursuant to his agreement with Bobsan, he instructed the broker to pay Bobsan its share.
+[4] In the Appellant's tax return for 2000 he reported income of $192,113.55 in employment income and deducted payments of $133,333.00 as "consulting services provided by Bobsan". The Appellant on cross-examination stated that this description of the payments was incorrect and in his tax return of 2001, he reported $117,374.52 as employment income and deducted $50,662.95 for the "acquisition cost for Westport Research Inc. share options". Bobsan included these amounts paid to it by the Appellant in its income tax returns as consulting fees.
+[5] There is no issue as to whether these options were qualifying employee stock options. The issues here are as follows:
+(1) Did the Appellant pay the amounts to Bobsan in order to acquire stock options?
+(2) If not, did the arrangement between Bobsan and the Appellant constitute a partnership and as a consequence should the amounts retained by the Appellant be his share of the partnership income?
+[6] The relevant legislation is contained in paragraph 7(1)(a) of the Act. It states:
+7. (1) Subject to subsections (1.1) where a particular qualifying person has agreed to sell or issue securities of the particular qualifying person, or of a qualifying person with which it does not deal at arm's length, to an employee of the particular qualifying person or of a qualifying person with which it does not deal at arm's length,
+(a) if the employee has acquired securities under the agreement, a benefit equal to the amount, if any, by which
+(i) the value of the securities at the time the employee acquired them
+exceeds the total of
+(ii) the amount paid or to be paid to the particular qualifying person by the employee for the securities, and
+(iii) the amount, if any, paid by the employee to acquire the right to acquire the securities
+is deemed to have been received, in the taxation year in which the employee acquired the securities, by the employee because of the employee's employment;
+[7] The Appellant's position is that the purpose of the contractual arrangement was that Bobsan would provide advice to the Appellant on how to successfully secure a stock option benefit package. He submits that the amount paid to Bobsan in each year is within the literal meaning of "any amount paid" by the employee for the right to acquire the shares. The Appellant concentrated his argument on applying a plain reading of the relevant provisions. He focused on the distinction between subparagraphs 7(1)(a)(ii) and 7(1)(a)(iii) to argue that if the legislation had intended the Respondent's interpretation, that is, that subparagraph 7(1)(a)(iii) refers only to an amount paid to the corporation that provides the options, it would have limited the deduction as it did in subparagraph 7(1)(a)(ii). In the alternative, the Appellant argued that he and Bobsan formed a partnership, the purpose of which was to profit from an available profit sharing program through the high tech industry.
+[8] The Respondent submits that the amounts paid by the Appellant were payments for employment recruitment and counselling services and cannot be considered an amount paid by the employee to obtain the right to acquire the shares. The Respondent also argued that subparagraph 7(1)(a)(iii) requires that the benefit be calculated by subtracting any amount that the employee (the Appellant) paid to the corporation (Westport) for the option to purchase those shares from the value or market price of those shares (emphasis are mine).
+[9] The Respondent relied on a number of extrinsic authorities in support of his interpretation of subparagraph 7(1)(a)(iii) as there is no case law dealing directly with this particular provision. He referred me to the CCH interpretation of section 7 as well as an article written by Christin R. Van Cauvenberghe entitled "Taxation of Employee Stock Options – A Review and Update", 2001 Prairie Provinces Tax Conference, (Toronto: Canadian Tax Foundation, 2001). Both of these sources to a large extent simply restate the legislation in that it allows a deduction of the amount the employee paid to acquire the stock option. These materials are of little assistance to the issue before me and to some extent beg the question as to "what is an amount paid to acquire something".
+[10] The Respondent also referred me to a number of cases and in particular the case of M.N.R. v. Wardean Drilling Ltd., 69 DTC 5194. In doing so, the Respondent was attempting to address this issue by looking at the definition of "when something is acquired". In the case of Wardean Drilling, at page 5197 Cattanach J. stated:
+In my opinion the proper test as to when property is acquired must relate to the title to the property in question or to the normal incidents of title, either actual or constructive, such as possession, use and risk.
+While this case certainly addresses the issue of "when" something is acquired and what final steps may be essential before something can be said to have been acquired, it is silent on what each of these steps entails or what steps are necessary to acquire title to the property which in this case is title to the employee stock options. The definition of "acquire" as contained in Black's Law Dictionary, Eight Edition, and to which Respondent counsel referred me may be of assistance here. It states:
+to gain possession or control of; to get or obtain.
+The Canadian Oxford English Dictionary defines "acquire" as follows:
+gain by and for oneself; obtain; come to possess.
+[11] When I look to the plain meaning of the word "acquire", it is difficult to see how the word as it is used in the section can be limited to an amount paid by employee to the corporation only. While the amount paid by an employee for a stock option may in most cases be paid to the qualifying person (the corporation here) and therefore be the usual amount caught by subparagraph 7(1)(a)(iii), the plain reading of the wording does not specifically exclude other amounts.
+[12] The Supreme Court of Canada has on a number of occasions discussed the appropriate interpretation of income tax statutes. In 65302 British Columbia Limited v. The Queen, 99 DTC 5799, Bastarache J. stated at paragraph 51:
+[51] However, this Court has also often been cautious in utilizing tools of statutory interpretation in order to stray from clear and unambiguous statutory language. In Canada v. Antosko, [1994] 2 S.C.R. 312, at p. 326-27, this Court held:
+While it is true that the courts must view discrete sections of the Income Tax Act in light of the other provisions of the Act and of the purpose of the legislation, and that they must analyze a given transaction in the context of economic and commercial reality, such techniques cannot alter the result where the words of the statute are clear and plain and where the legal and practical effect of the transaction is undisputed.
+In discussing this case, P.W. Hogg and J.E. Magee, while correctly acknowledging that the context and purpose of a statutory provision must always be considered, comment that "[i]t would introduce intolerable uncertainty into the Income Tax Act if clear language in a detailed provision of the Act were to be qualified by unexpressed exceptions derived from a court's view of the object and purpose of the provision": Principles of Canadian Income Tax Law 2nd ed., 1997 at pp. 475-76. This is not an endorsement of a literalist approach to statutory interpretation, but a recognition that in applying the principles of interpretation to the Act, attention must be paid to the fact that the Act is one of the most detailed, complex, and comprehensive statutes in our legislative inventory and courts should be reluctant to embrace unexpressed notions of policy or principle in the guise of statutory interpretation.
+[13] The case law supports the principle of interpretation that when the language is plain and clear, the plain meaning should be followed. Aside from the plain meaning approach, when I look at the relevant subsection within the total context of this provision, I cannot help but notice that there is a definite distinction between the wording in subparagraph 7(1)(a)(iii) and the preceding subparagraph 7(1)(a)(ii). Subparagraph 7(1)(a)(ii) stipulates what allowable expenses are when buying the actual security and the wording allows only a deduction for an amount which the employee pays to the qualifying person (the corporation here) for the securities. Subparagraph 7(1)(a)(iii) however discusses the treatment of expenses in acquiring the stock option but is silent as to whom the amount must be paid. As noted in Drieger on the Construction of Statutes, Ruth Sullivan, 3rd ed., Butterworths, 1994 at page 163, "the legislature is presumed to avoid stylistic variation". The corollary of that presumption is that when the legislature uses different wording, that variation of wording will have a different meaning. In respect to this subparagraph, it follows that the legislature's decision to separate subparagraphs 7(1)(a)(ii) and 7(1)(a)(iii) was to provide different types of deductions to employees. To hold that subparagraph 7(1)(a)(iii) is limited to only amounts paid to the employer or "qualifying" person would clearly undermine Parliament's intention. Both the plain meaning approach and the total context approach indicate that subparagraph 7(1)(a)(iii) should be broadly interpreted to include any expense that the Appellant paid for the purpose of and as it related to obtaining the stock option.
+[14] The Appellant specifically wanted employment where he could benefit from stock options. He entered into a contract with Bobsan on the basis that Bobsan could assist him in securing employment with stock options or a "similar compensation or benefit package" (paragraph 7 of the Agreement). In doing so, the Appellant agreed not to "attempt to contact, deal with, or solicit, either directly or indirectly, any party, financial institution, or client introduced by ... (Bobsan) ... in any manner whatsoever without prior express written consent of the introducing party" (paragraph 2 of the Agreement). Pursuant to this Agreement, Bobsan introduced the Appellant to Westport which subsequently offered the Appellant employment which included a stock option package. As a consequence the Appellant was obligated under the Agreement to pay Bobsan a percentage of the stock option which he received.
+[15] While this type of Agreement may be an unorthodox method for obtaining such benefits, it does not alter the fact that the Agreement, and consequently the amounts paid to Bobsan, were directly related to the Appellant "acquiring" those options. Once the Appellant was introduced to Westport he could only accept employment with Westport if he paid Bobsan the amounts in issue. If he accepted the employment and did not pay Bobsan, he was in breach of the contract and liable to be sued.
+[16] I do not accept the Respondent's argument that the payments to Bobsan are really consideration for advice given and are not consideration for the acquisition of the right to acquire shares. The agreement to pay these amounts to Bobsan led the Appellant to obtaining these stock options. There is a direct correlation here. If I refer back to the dictionary definitions of "acquire", they include "to get" or "obtain" or "come to possess". This provision is not restricted to a situation where an amount is paid in exchange for legal title to the stock options. When I look at the clear and unambiguous statutory language of subparagraph 7(1)(a)(iii) as well as the language of this provision within the total context of the section, I conclude that subparagraph 7(1)(a)(iii) is not confined only to amounts paid in exchange for "legal ownership of options".
+[17] Subparagraph 7(1)(a)(iii) applies to the amounts paid by the Appellant to Bobsan, pursuant to the Agreement, to acquire the stock options. The amounts may be deducted because they were required to be made to Bobsan in order for the Appellant to obtain the stock options in the first place.
+[18] Although I do not have to deal with the Appellant's alternative argument, I believe it is without merit in any event.
+[19] The appeals are allowed, with costs, for the 2000 and 2001 taxation years and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment.
+Signed at Ottawa, Canada, this 13th day of May 2005.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2005TCC324
+COURT FILE NOS.:
+2002-3824(IT)G
+2003-3232(IT)G
+STYLE OF CAUSE:
+Dustin Morin and
+Her Majesty the Queen
+PLACE OF HEARING
+Vancouver, British Columbia
+DATE OF HEARING
+March 31, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice
+Diane Campbell
+DATE OF JUDGMENT
+May 13, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Eric Douglas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

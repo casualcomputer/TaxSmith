@@ -1,0 +1,418 @@
+---
+title: "Combined Insurance Company Of America v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30232/index.do"
+last_modified: "2011-02-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 85"
+citation2: ""
+neutral_citation: "2011 TCC 85"
+decision_date: "2011-02-25"
+language: "en"
+item_id: "30232"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7752
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:49:54.779000+00:00"
+cases_cited_count: 8
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0ae39a0e706e1b1422e665c2b0a45bcdb419b987c939d38529111f0f76b40f5c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Combined Insurance Company Of America v. M.N.R.
+
+- Citation: 2011 TCC 85
+- Decision date: 2011-02-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7752, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Combined Insurance Company Of America v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-02-25
+Neutral citation
+2011 CCI 85
+File numbers
+2008-3975(EI)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-3975(EI)
+BETWEEN:
+COMBINED INSURANCE
+COMPANY OF AMERICA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MICHEL A. PAQUETTE,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Combined Insurance Company of America (2008-3974(EI))
+on September 29 and 30 and October 28, 29 and 30, 2009,
+at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Dominic C. Belley
+Vincent Dionne
+Counsel for the respondent:
+Simon Petit
+Laurent Brisebois
+For the intervener:
+The intervener himself
+____________________________________________________________________
+JUDGMENT
+The appeal from the decision of the Minister of National Revenue that Michel A. Paquette held with the appellant insurable employment within the meaning of the Employment Insurance Act from January 25, 2007, to January 27, 2008, is allowed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of February 2011.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 13th day of June 2011
+Margarita Gorbounova, Translator
+Docket: 2008-3974(EI)
+BETWEEN:
+COMBINED INSURANCE
+COMPANY OF AMERICA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Combined Insurance Company of America (2008-3975(EI))
+on September 29 and 30 and October 28, 29 and 30, 2009,
+at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Dominic C. Belley
+Vincent Dionne
+Counsel for the respondent:
+Simon Petit
+Laurent Brisebois
+____________________________________________________________________
+JUDGMENT
+The appeal from the decision of the Minister of National Revenue that Suzanne Gisbert held with the appellant insurable employment within the meaning of the Employment Insurance Act from January 1, 2004, to January 21, 2005, is allowed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of February 2011.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 13th day of June 2011
+Margarita Gorbounova, Translator
+Citation: 2011 TCC 85
+Date: 20110225
+Docket: 2008-3975(EI)
+BETWEEN:
+COMBINED INSURANCE
+COMPANY OF AMERICA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MICHEL A. PAQUETTE,
+Intervener.
+AND BETWEEN: Docket: 2008-3974(EI)
+COMBINED INSURANCE
+COMPANY OF AMERICA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau, J.
+[1] The Court has before it two appeals heard on common evidence from the decisions of the Minister of National Revenue (the Minister) dated October 9 and 22, 2008, according to which Michel A. Paquette and Suzanne Gisbert (collectively, the workers) held with the appellant insurable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act, S.C. 1996, c. 23 (the Act), during the period from January 1, 2004, to January 21, 2005, in Ms. Gisbert's case and from January 25, 2007, to January 25, 2008, in Mr. Paquette's case.
+[2] The Combined Insurance Company of America (Combined) is an insurance company whose line of business is to sell various insurance policies throughout Canada such as life/health insurance and accident/sickness insurance. The appellant’s head office is in Chicago, Illinois, while its Canadian head office is in Markham, Ontario. The appellant also has a regional office in Boucherville, Quebec.
+[3] The Federal Court of Appeal set aside a decision of the Tax Court of Canada, finding that a sales representative did not hold insurable employment with the appellant (Combined Insurance Company of America v. The Minister of National Revenue, [2007] F.C.J. No. 124 (F.C.A.) (QL) and [1999] T.C.J. No. 113 (T.C.C.) (QL)).
+Mr. Paquette's service with the appellant
+[4] Mr. Paquette started working for the appellant on May 2, 2003. On that day, he completed or signed various documents, including a document entitled [Translation] "Declaration and Authorization", a questionnaire for a potential representative, a security agreement and a training agreement. Under an agreement effective January 1, 2004, Mr. Paquette became a representative responsible for selling the appellant's insurance products (January 1, 2004, agreement). Under an addendum to the January 1, 2004, agreement, on January 12, 2004, Mr. Paquette became a sales manager (in the field) in charge of recruitment of independent sales representatives and of collaborating with the appellant's independent sales representative teams. Starting on January 12, 2006, Mr. Paquette became a district manager, and on June 11, 2007, he was promoted to the position of urban district manager (this title is no longer in use). On January 28, 2008, he was demoted to the position of sales representative, a position he still holds. During the period relevant to Mr. Paquette, he occupied the position of district manager and urban district manager with the appellant.
+[5] Mr. Paquette's regional manager was Daniel Verdier, while his sub‑regional administrator was André Paquin. Mr. Verdier and Mr. Paquin were permanent employees of the appellant. Mr. Paquette was part of the accident and sickness insurance division.
+Ms. Gisbert's service with the appellant
+[6] Ms. Gisbert became the appellant's representative on June 3, 1996, following the signing of an agreement entitled [Translation] "Standard Agreement of Agency for Combined" (1996 agreement). She became a manager effective August 4, 1997, following the signing of an addendum to the 1996 agreement. From August 24, 1998, until October 16, 2000, Ms. Gisbert worked as a representative for the appellant on a casual basis. Through another addendum to the 1996 agreement effective January 1, 2001, Ms. Gisbert became manager again when she returned from maternity leave. Ms. Gisbert signed a new agreement with the appellant that came into effect on January 1, 2004, as a representative as well as an addendum to that agreement, by which she reclaimed her title as manager effective January 1, 2004. She worked as a manager from January 1, 2004 to June 20, 2004, and from September 7, 2004 to January 21, 2005. She was dismissed on November 23, 2005. During the period relevant to Ms. Gisbert, she worked as a sales manager for the appellant.
+[7] Ms. Gisbert's district manager was Robert Bourassa, her spouse, while her regional manager was Jacques Déry. Ms. Gisbert was part of the health and life insurance division.
+The testimony
+[8] Besides Ms. Gisbert and Mr. Paquette, Michel Rivest, Daniel Aubé, Yves Crevier and André Dufresne testified for the appellant, while Robert Bourassa and Jean‑Claude Lévesque testified for the respondent and Céline Gratton, Mylène Ruel and Philippe L’Espérance testified for the intervener.
+The appellant's operations in Quebec
+[9] Michel Rivest, Division Administrator for the appellant, testified at the hearing and provided details on the appellant's operations in Quebec. He explained that the appellant had 65 to 70 employees and about 325 representatives in Quebec. The appellant's sales in Quebec were around $100 million in 2008. The sale of accident and sickness insurance policies accounts for 90% to 94% of the sales figure, while life and health insurance policies account for about 8% of the sales. He also explained that Quebec was divided into 10 regions, which were managed by 3 regional managers, whose main responsibilities were to manage regional budgets, allocate files/clients and assist some 40 to 42 district managers in their recruitment of new representatives. District managers supervised 3 to 5 sales managers, which means that there were about 90 sales managers in all of Quebec. Sales managers had the same tasks as sales representatives except that they were also responsible for the 3 to 5 representatives on their team.
+District managers’ duties
+[10] Based on the testimony of André Dufresne and Michel Paquette, the main duties of district managers were as follows:
+a. Together with the regional manager, establish sales objectives (renewals and new sales) and ensure monthly and weekly follow up;
+b. Receive leads on clients in their area and distribute the leads to sales managers and representatives on their teams;
+c. Ensure that affidavits confirming the return of clients' universal documents are duly signed and sworn;
+d. Establish a work plan for recruiting new representatives, take part in the recruitment process and sign the questionnaires filled out by candidates;
+e. Supervise sales managers and representatives on their teams and organize team meetings and field internships that will be needed to help out the members of their teams;
+f. Ensure training for the representatives;
+g. Prepare sales reports and calculate commissions and overriding commissions;
+h. Manage vacation requests of sales managers and representatives on their teams;
+i. Deposit clients' cheques at the bank.
+j. Take part in quarterly regional meetings with the entire sales team.
+Sales managers’ duties
+[11] Based on the testimony of Suzanne Gisbert and Mylène Ruel, the main duties of sales managers were as follows:
+a. Perform the same duties as sales representatives and supervise 3 to 5 representatives;
+b. Secure amounts owed to the appellant by representatives on the team;
+c. Prepare the manager's sales reports every week;
+d. Have breakfast every morning with the sales representatives on the team in order to motivate them and make sure that they are present – only Friday breakfasts were mandatory (the district manager was always there and the regional manager often attended);
+e. Ensure that every representative earns at least $100 in commissions per week;
+f. Participate with their teams of representatives in the sales competition;
+g. Distribute files/clients obtained from the district manager to the representatives;
+h. Verify that sales objectives set for the team are attained.
+Relevant legislation and regulations
+[12] Daniel Aubé, national director of compliance and business practices at Combined, explained the legal background to the insurance industry in Quebec.
+[13] It is controlled by a number of acts, regulations and policies including the following:
+i. Act respecting the distribution of financial products and services, R.S.Q., c. D-9.2
+ii. Act respecting the protection of personal information in the private sector, R.S.Q., c. P-39.1
+iii. Personal Information Protection and Electronic Documents Act, S.C. 2000, c. 5
+iv. Regulation respecting the pursuit of activities as a representative, R.R.Q., c. D-9.2, r. 10
+v. Regulation of the chambre de la sécurité financière respecting compulsory professional development, R.R.Q., c. D-9.2, r. 13
+vi. Regulation respecting firms, independent representatives and independent partnerships, R.R.Q., c. D-9.2, r. 2
+vii. Regulation respecting the issuance and renewal of representatives' certificates, c. D-9.2
+viii. Code of ethics of the Chambre de la sécurité financière, c. D-9.2, r. 1.01
+ix. Guidelines of the Canadian Life and Health Insurance Association Inc.
+x. Joint guide of the Chambre de l’assurance de dommages, Autorité des marchés financiers and Chambre de la sécurité financière concerning the rules for submissions, posters and business cards.
+[14] In Quebec, a person who wants to sell personal insurance must obtain a certificate from the Autorité des marchés financiers, having met the prescribed conditions, especially in training, and paid the fees for the certificate. He or she must be with an insurance company and have appropriate liability insurance coverage.
+[15] The annual training on principles of compliance, ethics and confidentiality taken in Quebec is mandatory and is given by Combined. It takes 3 to 4 hours. Following the training, every participant must sign a document confirming that he or she attended the session, received a copy of the manual entitled: [Translation] "compliance, ethics and confidentiality at Combined" and is aware that he or she must comply with provincial insurance regulations and with Combined’s code of ethics.
+The January 1, 2004, agreement and addenda
+[16] The January 1, 2004, agreement is a typical Quebec contract that all sales representatives had to sign to be able to sell insurance products for Combined. Ms. Gisbert and Mr. Paquette signed that agreement and several other collateral arrangements. When a sales representative became a sales manager, he or she had to sign an addendum to that agreement, which remained in effect. That is why it is still necessary to refer to it even if the representative is promoted to sales manager.
+[17] The January 1, 2004, agreement is exhaustive; it is 6 pages long; none of its clauses is negotiable; and no changes are possible. The following are the main stipulations that caught my eye:
+[Translation]
+Status
+1. The representative declares that he or she is an independent contractor and that he or she acts as such non-exclusively; the representative acknowledges that he or she is not an employee within the meaning of either the Act respecting labour standards or the Quebec Labour Code.
+2. The representative is authorized to sign policies as well as renewals at the time the contract is signed.
+3. The representative agrees that he or she is not entitled to participate in any of the plans offered by Combined to its employees and agrees that Combined does not have to grant him or her any benefits.
+Commission
+4. Upon production of a statement of account indicating the nature of services rendered and the period covered, Combined undertakes, within 30 days of receiving the statement of account, to pay commissions in the form and amount compliant with the policies of Combined. Combined reserves the right to modify the commission scale at any time upon 10 days' notice.
+5. The representative assumes all costs resulting directly or indirectly from complying with the agreement.
+General terms
+6. The representative has complete control over who he or she shall approach about buying insurance as well as over the time, place and manner in which he or she shall approach them. Combined may prescribe directions and requirements related to underwriting, including policy forms, premiums tables and other such material.
+7. The representative is fully responsible for complying with the requirements of all acts, regulations or orders applicable to him or her. The representative undertakes to always be in good standing with relevant government authorities and to ensure that all documents and permits required by those authorities remain valid at his or her own expense.
+8. In accordance with Quebec's Act respecting the distribution of financial products and services, the representative must at all times be protected by an appropriate insurance plan covering his or her personal civil liability at his or her own expense.
+Policy ownership
+9. All established, sold or renewed policies taken on as a result of the representative's services are the exclusive property of Combined.
+10. Policy premiums are billed to the policy holder; all cheques and bank drafts received by the representative must be made payable to Combined or any other entity it may designate; and all premiums must be cashed by the representative on behalf of Combined or that other entity.
+Liability for policies and premiums
+11. The representative must report on the status of renewals assigned to him or her and submit to Combined the premium he or she collected on a renewal.
+12. Premiums collected on renewals are the exclusive property of Combined. The amounts are held in trust for Combined by the representative. Combined may order an inventory of all renewals assigned to the representative. If the inventory shows that the premium amount submitted to Combined is lower than the premium owed on renewals, the representative must pay Combined the difference in cash.
+Financial liability
+13. The representative is liable for all amounts owed to Combined and agrees to pay them to it on request. The representative shall, at his or her own expense, have an insurance with Combined against embezzlement. The representative declares that he or she is bound by the undertakings set out in the form related to the 10% operating account and in the embezzlement insurance form.
+Agreements on credit, expenses, costs and disbursements
+14. Combined shall not be held liable for any credit agreement that the representative enters into with anyone or for the representative's costs and disbursements. Should Combined pay such costs and disbursements on behalf of the representative, he or she undertakes to reimburse it.
+Repaid premiums
+15. If an insurance contract is cancelled or terminated or in case of any other transaction resulting in the repayment of premiums, the representative shall be billed and held liable for any commission credited to his or her account for the policy or renewal in question.
+Materials
+16. Should the agreement be terminated, the representative must immediately return to Combined all materials and all objects containing confidential information set out in this agreement as well as any other forms, instructions or other documents provided by Combined.
+Confidentiality
+17. The representative is aware that, for the duration of the agreement, he or she will have access to confidential information concerning individual or business clients and the business and activities of Combined and that he or she undertakes not to use that confidential information except as necessary in the delivery of service that he or she provides to Combined nor to disclose it to third parties unless he or she is authorized to do so in writing by Combined.
+Permit cost
+18. The representative undertakes to reimburse to Combined the expenses that it incurred to enable him or her to obtain a permit under the applicable government regulations if he or she terminates the agreement and sells insurance products within the twelve-month period following the date on which he or she finished the training program leading up to the obtaining of the permit.
+Limitations
+19. The representative agrees that, for the duration of the agreement and for a period of two years following its termination, he or she shall not sell, in the area that is assigned to him or her, competing products, shall not accept proposals, shall not receive cheques and shall not establish coverage from another company not affiliated with Combined or a client of Combined, without prior written notice to Combined.
+Termination
+20. The agreement may be terminated by either party upon two weeks' written notice. Notwithstanding the foregoing, the agreement may be terminated by Combined without prior notice for valid reasons, in which case the payment of any amounts to the representative by Combined shall cease and they shall no longer be payable.
+Advertising
+21. The representative may, at his or her own expense, distribute letters, flyers, radio or television programs, Web advertisements and use any other form of advertising concerning Combined, policies sold and renewals made, but only after an identical copy of the advertisement had been submitted to Combined and approved in writing by an authorized person.
+[18] As mentioned above, when a representative became a sales manager, Combined required him or her to sign an addendum to the January 1, 2004, agreement. Ms. Gisbert and Mr. Paquette signed the addendum, which makes only a few changes to the January 1, 2004, agreement. The preamble to the addendum describes the changes and additions to the January 1, 2004, agreement.
+[19] The points of the addendum are numbered based on the January 1, 2004, agreement; they read as follows:
+[Translation]
+a. Combined confirms the appointment of the representative as sales manager (in the field) in charge of recruiting independent sales representatives on behalf of Combined and working with teams of independent sales representatives for Combined.
+b. The manager agrees to comply with the underwriting rules and regulations with regard to the sale, establishment and renewal of policies of Combined. The consequences of selling or renewing a policy form in breach of the rules, regulations or instructions for underwriting of Combined are set out therein.
+c. Overriding commissions applicable to policies sold or renewed by the representatives on the team to which the manager is entitled while he or she is subject to this addendum are indicated in Appendix B of the addendum. Combined reserves the unqualified right to review the content of Appendix B at any time.
+d. Procedures for paying overriding commissions to the manager are set out therein as well as adjustments that can be made to determine net sales in overriding commissions payable to the manager.
+e. Combined may, entirely at its discretion, provide renewals to the manager so that they may be distributed to representatives on the team. The manager is liable to Combined for the full amount of the premium for each renewal provided and for returning policies that were not renewed.
+f. Combined relieves itself from all liability with respect to any credit agreement undertaken by the manager with anyone and with respect to costs and disbursements of the manager and representatives on the team, including guaranteed amounts paid to new representatives, advertisement or recruitment costs relative to independent sales representatives and all other expenses of the manager and representatives on the team.
+[20] In addition to the January 1, 2004, agreement and the addendum above, Mr. Paquette signed several agreements entitled [Translation] "Collateral arrangements", the last one produced was dated July 17, 2006. Its main points were as follows:
+i. First, it is indicated that the district manager’s contract with Combined requires him or her to repay commissions resulting from cancelled policies, shortages, guarantees of collection of all cheques paid or submitted to Combined and other amounts with respect to his or her business and to his or her performance as well as to the business and performance of all managers and agents under his or her supervision.
+ii. To minimize the financial disadvantages that may result from these obligations, provide for any future debt to Combined and help establish a well organized personal budget, the district manager requests that Combined keep 10% of overriding commissions to which he or she is entitled in an open collateral account until the accumulated amount reaches a variable minimum, in this case of $15,000, as long as the standard district manager contract remains in force.
+iii. Combined may increase the above collateral minimum amount at any time in order to maintain an adequate balance.
+iv. The district manager also requests that Combined retain for itself 10% of the weekly commissions attributable to his or her personal performance and that that amount be credited to a "miscellaneous" account opened in his or her name under a manager who will have recorded his or her weekly commissions report. Combined is authorized to pay into that "miscellaneous" account amounts equal to obligations undertaken by the manager toward Combined.
+v. Managers and agents who are under the district manager must bind themselves to him or her, under their respective contracts, with respect to reimbursing commissions resulting from cheques they received that were not honoured or charges for the security program. In consideration of best interests of managers and agents, the district manager declares that he or she has made arrangements with them for them to give him or her 10% of their weekly commissions every week. The district manager requests the permission of Combined to remit to it an amount equal to that which he or she receives every week from the managers and agents so that it credits them to the "miscellaneous" account opened in his or her name by Combined in order to liquidate any debt that the agents may incur.
+vi. Combined is authorized to retain, for a duration of 90 days following the end of the month during which the district manager ceases to act as such, the total amount of all sums that will have been accumulated in his or her name and to use them to repay premiums, cancelled cheques or any other debt that he or she may have incurred with Combined.
+[21] When he became a district manager, Mr. Paquette also signed an agreement that stipulated that he accepted full responsibility for any debt that a representative who worked directly or indirectly under him may have incurred with Combined. The word "debt" means any amount of money owed to Combined for cancelled commissions, the security program, materials owned by Combined or any other costs charged to its account up to the percentage indicated in the contract: either 50% or 100%.
+Ms. Gisbert's testimony
+[22] In her testimony, Ms. Gisbert referred to the fact that she was paid only on commission, she received no fixed wage. If a policy was cancelled, her commissions were reimbursed from her 10% account.
+[23] Ms. Gisbert also indicated that Combined supplied all the material for the sale of insurance policies including the performance bonus program for sales managers, questions and answers about compensation of sales representatives, a manual of answers to clients who object, sales presentations for the various policies, sales presentations for clients and binders on the sale of life and health insurance policies (the cost of those binders was not reimbursed to Combined out of the 10% account).
+[24] Ms. Gisbert stated that she had been supervised by her district manager and her regional manager. Her vacation requests had to be approved by the regional manager. She also indicated that the team's sales objectives were set by Combined and that, if the objectives were not met, the team’s area could be cut, the manager could be demoted to the sales representative’s position or the team could be split up.
+[25] Ms. Gisbert acknowledged that, in her tax returns for the 2004 and 2005 taxation years, she had entered her income from the sale of insurance policies as business income. For the 2004 taxation year, she claimed the deduction of expenses for advertising; business taxes; membership fees; permit and contributions; delivery; transportation and courier; interest; management and administration fees; meals; entertainment expenses; motor vehicle expenses; office and supply expenses; professional fees; travel; telephone and utility expenses; as well as $1,200 under a sub-contract. According to those tax returns, Ms. Gisbert contributed to the Régime des rentes du Québec as a self-employed worker.
+[26] Ms. Gisbert also indicated that she parcipated in Combined's group insurance plan administered by Manulife Financial (dental care, medical, chiropractor but excluding glasses and contact lenses) as well as in Combined's pension plan administered by Sun Life of Canada. Contributions to the group insurance plan are assumed entirely by Combined, while contributions to the pension plan are paid by Combined but some restrictions apply to the vesting of amounts from Combined. As a beneficiary of the pension plan, Ms. Gisbert could also contribute to the plan.
+[27] Ms. Gisbert also stated that clients called Combined directly with any problems with the sales representatives or insurance policies or with any other claims. The telephone numbers printed on Ms. Gisbert's business cards are those of Combined and not her own. The name and acronym of Combined are also printed on them as well as its address in Boucherville.
+Mr. Paquette's testimony
+[28] Michel Paquette testified at length at the hearing and touched on several subjects. He confirmed that he was with the Combined insurance company. He produced the five sales manuals that Combined gives to new sales representatives as well as the instructor's manual containing 50 activity meetings to use every workday and a notebook with 26 weekly training modules. He spoke about the training programs provided to representatives, which are paid for by Combined (JET I to VII programs). To be promoted to manager, a representative had to have taken Phase I of JET IV. Mr. Paquette was one of only two Canadians chosen in 2006 to take Phase I of JET IV in Chicago, all expenses paid. That course was supposed to make it possible for him to become sub-regional or even regional manager.
+[29] Mr. Paquette explained the procedure for hiring new representatives. As district manager, he placed ads in newspapers. The ads had to be approved by Combined and Combined always paid for them. The curricula vitae received were reviewed by the witness, his sub-regional manager, André Paquin, and his regional manager, Daniel Verdier; Mr. Paquin or Mr. Verdier reserved a conference room in a local hotel and it was the witness and Mr. Paquin who called the candidates to schedule half-hour meetings. Interviews were conducted by the witness together with Mr. Paquin and Mr. Verdier. Candidates had to pass an aptitude test to ensure that they could meet the requirements of the Autorité des marchés financiers. The witness proposed candidates, but all selected candidates had to be approved by Mr. Paquin and/or Mr. Verdier. The interview and aptitude test results were communicated to the candidates the same evening. Then, the witness scheduled a first meeting with each selected candidate to sign off on the 10% account, to offer the wage guarantee of $400 per week up to a maximum of $3,600 and to sign a registration application to the Autorité des marchés financiers. If the district manager was not a certified recruiter or training supervisor, Mr. Paquin would sign the registration application. At the meeting, future representatives were provided with information on their orientation day (date, time, location). After the orientation, the witness accompanied the future representative in the field to evaluate his or her work. A field training report had to be prepared by the trainer.
+[30] Mr. Paquette produced, as an example, a calendar of activities for the first six months of 2008, as established by Combined. During that period, 16 competitions and 23 activity weeks over a total of 26 weeks were planned by Combined. He had to be present and participate in all of these activities. He also had to ensure that one or two representatives per team participated in the outside‑of‑district "blitzes", even if the outside-of-district sales did not result in any wages. Representatives could not take vacation during competition weeks. Mr. Paquette's vacation and leave requests had to be approved by Mr. Verdier.
+[31] Mr. Paquette filed a memo dated April 30, 2007, from Combined to all participants in the plan for Canadian agents, which stated that, for 2006, Combined's contribution to the plan was $312,000 and that the allocation of unvested balances attributed to representatives who left Combined produced an additional $53,000, which was distributed among representatives. Mr. Paquette explained that participants contributed 3% of their income to the plan and that Combined matched their contributions. However, since Combined's contribution was vested only after 10 years (that is, 1/10 per year), the balance of unvested contributions of representatives who had left Combined was distributed among the other participants. Only contributions given out to participants appeared on their T‑4s. In addition to that plan, Mr. Paquette had complete group insurance coverage (life, dental, medical, etc.)
+[32] In cross-examination, Mr. Paquette confirmed that, between January 25, 2007, and January 25, 2008, he had paid his permit fees from his 10% account as well as his liability insurance. He paid for his travel as well as his home office. Rent for his office in Ste-Thérèse was paid by Combined but reimbursed through his commissions. As a district manager, he confirmed that he often worked on weekends, lost commission following cancelled policies and granted wage guarantees to representatives with the sales managers. Following his demotion, he is still working as a representative of Combined and his January 1, 2004, agreement is still in effect.
+Appellant’s position
+[33] According to the appellant, the two disputes are based on the following three questions:
+1. Are the facts that led up to the Federal Court of Appeal's decision in Combined Insurance Company of Canada v. Canada (Minister of National Revenue – M.R.N.) 2007 FCA 60, dated January 30, 2007, similar to those of this case?
+2. Is the parties' intention a determinative factor in this case?
+3. Are the following criteria stated at pages 12 to 17 of Combined Insurance Company of Canada, supra, determinative in this case?
+a. ownership of the work tools
+b. chance of profit and risk of loss
+c. integration
+d. degree of control
+e. required presence at workplace and observance of work schedule
+f. control of absences for vacation
+g. penalties
+h. imposition of work methods
+i. submission of activity reports
+j. control of quantity and quality of work
+[34] According to the appellant, the facts of this case are similar to those of Combined Insurance Company of Canada, supra; I note that they are identical in
+i. employer
+ii. business model
+iii. sales techniques
+iv. sales manuals
+v. relevant legislation and regulations
+vi. contracts with addenda.
+[35] With respect to the parties' intention, the appellant argues that, it is stated in the January 1, 2004, agreement and reflected in Ms. Gisbert's and Mr. Paquette's testimony and the tax returns they filed. Therefore, it must be determined whether the contracts were implemented contrary to the parties' original intention.
+[36] It is argued that the industry is very regulated and that several training measures were aimed more at compliance with applicable legislation and regulations than at controlling sales managers and district managers. The treatment of complaints, protection of clients' confidential information and application of sales techniques are some examples. Activity reports are used to calculate commissions owed to representatives and not for purposes of control. It is argued that the criteria to follow for determining the status of workers are not the same as those followed by the Court of Quebec under the Act respecting labour standards, RSQ, c. N-1.1 because, unlike the Employment Insurance Act, it is a statute of public order. The definitions of the words "employee" and "worker" are different from those found in the Employment Insurance Act, and the purpose of those statutes is not the same.
+[37] According to the appellant, Ms. Gisbert's and Mr. Paquette's testimony is neither consistent nor reliable, and it is stated that Mr. Paquette did not work for Combined exclusively.
+Respondent's position
+[38] The respondent argues that the duties of the workers concerned were different from those of the representatives in Combined Insurance Company of Canada, supra, because they had management duties. The disagreement does not apply to representatives but to sales managers and district managers.
+[39] According to the respondent, if a relationship of subordination exists between the appellant and the workers, this necessarily implies the existence of a contract of employment. The concept of subordination has broadened with time, and it connotes the power of control, whether it is exercised or not. It is also maintained that the concept of "control" is more important in Quebec civil law than it is in common law.
+[40] With respect to subordination, the following facts are indicated:
+(a) Weekly training given to representatives: managers had to organize these meetings and participate in them at the regional or sub-regional manager's request.
+(b) Recruitment: Combined paid for advertisements after they had been approved; candidates had to be accepted by the regional manager and Combined decided on the hiring of new representatives, on the composition of teams and on their area.
+(c) Sanctions: sanctions could be imposed on managers if they did not attain their objectives with respect to sales and sales teams.
+(d) Allocation of client files: it was done by Combined; managers did not decide on the area for which they received client files.
+(e) "Word for word": managers had to ensure that representatives used "word for word".
+(f) Dress code: managers had to enforce the dress code prescribed by Combined (clean, wrinkle-free clothing).
+(g) Obligations of Combined and regulatory obligations: requirements set by Combined sometimes exceeded those of regulatory bodies (e.g. selling insurance policies to social assistance recipients).
+(h) Precise and explicit training for managers: managers were part of the structure; they had to ensure the company operated properly if they did not want to be demoted.
+[41] With respect to other relevant criteria, the respondent stated the following facts:
+(a) Ownership of work tools: all sales materials belonged to Combined, including client files.
+(b) Chances of profit and risk of loss: no evidence was filed on this; Ms. Gisbert incurred the same expenses as if she had been an employee paid on commission.
+(c) Integration: theoretically, based on the January 1, 2004, agreement, representatives were not working exclusively for Combined, but, in reality, this was not the case at all: in practice, they could not represent other insurance companies; a representative's most precious asset is undoubtedly the client portfolio; since it was the property of Combined, the integration criterion favours a contract of employment.
+(d) The parties' intention: the relationship of subordination between Combined and the mangers and the control it exercised over them is more important than the parties' intention when signing the January 1, 2004, agreement. The January 1, 2004, agreement was signed by representatives at the start of their careers and not adapted to a manager’s duties.
+(e) The workers' participation in the appellant's benefit plans is an indicator of organization.
+Mr. Paquette's position
+[42] Mr. Paquette pointed out that, as a district manager, he sold insurance products only for part of his time. He repeated that the client portfolios belonged to Combined, that commissions were non-negotiable and were not paid in the event of dismissal. According to him, at each level of the hierarchy, a certain number of people was managed, that is, recruitment, training, control and supervision were ensured, and each representative was exclusively in the service of Combined, contrary to what was stated in the January 1, 2004, agreement. The training with representatives in the field was mandatory, and district managers had to ensure that all representatives were following the JET training program. Dates of competitions and locations for sales "blitzes" were not set by managers. He therefore concluded that he was not treated like a self-employed worker.
+Applicable statutory provisions
+[43] The words "insurable employment" are defined in subsection 5(1) of the Act:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+(b) employment in Canada as described in paragraph (a) by Her Majesty in right of Canada;
+(c) service in the Canadian Forces or in a police force;
+(d) employment included by regulations made under subsection (4) or (5); and
+(e) employment in Canada of an individual as the sponsor or co-ordinator of an employment benefits project.
+[44] As the agreements cited above are governed by the laws of Quebec, we must look to the provisions of the Civil Code of Quebec (CCQ) to determine whether the employment was that covered by paragraph 5(1)(a) of the Act, in accordance with section 8.1 of the Interpretation Act (R.S.C. 1985, c. I-21). That provision acknowledges Canada's bijuralism and engages Quebec provincial law in this case with respect to property and civil rights.
+8.1 Both the common law and the civil law are equally authoritative and recognized sources of the law of property and civil rights in Canada and, unless otherwise provided by law, if in interpreting an enactment it is necessary to refer to a province’s rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in the province at the time the enactment is being applied.
+[45] The CCQ defines a contract as follows:
+Art. 1378. A contract is an agreement of wills by which one or several persons obligate themselves to one or several other persons to perform a prestation.
+[46] In articles 1425 and 1426, the CCQ sets out the rules of interpretation applicable to contracts:
+Art. 1425. The common intention of the parties rather than adherence to the literal meaning of the words shall be sought in interpreting a contract.
+Art. 1426. In interpreting a contract, the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage, are all taken into account.
+[47] The "contract of employment" is defined in article 2085 of the CCQ as follows:
+Art. 2085. A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+A "contract of enterprise or for services" is defined in article 2098 of the CCQ as follows:
+Art. 2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+[48] In article 2099, the CCQ sets out the conditions for the existence of a contract of enterprise:
+Art. 2099. The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[49] Article 2827 of the CCQ deals with the signature of private writings:
+Art. 2827. A signature is the affixing by a person, to a writing, of his name or the distinctive mark which he regularly uses to signify his intention.
+Discussion and finding
+[50] First, it must be determined whether, in this case, the Court must follow the case law in Combined Insurance Company of Canada, supra. Despite the similarity of some of the facts noted by the appellant (see paragraph 34 above), I am of the opinion that this case is not the same as the case in that decision. The duties performed by Ms. Gisbert and Mr. Paquette included management duties, while the duties performed by the representative Mélanie Drapeau did not. Even though the January 1, 2004, agreement is the same, Ms. Gisbert and Mr. Paquette signed addenda to that agreement and additional agreements that have not been examined by this Court or the Federal Court of Appeal.
+[51] Second, it must be determined whether the parties' intention clearly stated in the January 1, 2004, agreement is a determinative factor in this case. If that is the case, the Court must decide whether it has been unambiguously proven that the parties did not implement the agreements in accordance with their intention.
+[52] The Federal Court of Appeal has had the occasion to consider this issue several times and has reiterated the importance that must be attributed to the parties' intention when it comes to contracts: see D&J Driveway v. Minister of National Revenue, 2003 FCA 453, Poulin v. Minister of National Revenue, 2003 FCA 50. In Combined Insurance Company of America, supra, Justice Nadon cited the following observation made by Justice Létourneau at paragraph 17 of Le Livreur Plus Inc. v. Canada, 2004 FCA 68:
+17. What the parties stipulate as to the nature of their contractual relations is not necessarily conclusive, and the Court may arrive at a different conclusion based on the evidence before it: D & J Driveway Inc. v. The Minister of National Revenue, 2003 FCA 453. However, if there is no unambiguous evidence to the contrary, the Court should duly take the parties' stated intention into account: Mayne Nickless Transport Inc. v. The Minister of National Revenue, 97-1416-UI, February 26, 1999 (T.C.C.). Essentially, the question is as to the true nature of the relations between the parties. Thus, their sincerely expressed intention is still an important point to consider in determining the actual overall relationship the parties have had between themselves in a constantly changing working world: see Wolf v. Canada, [2002] 4 F.C. 396 (F.C.A.); Attorney General of Canada v. Les Productions Bibi et Zoé Inc., 2004 FCA 54.
+[53] However, the Federal Court of Appeal diminished the importance of the parties' stated intention: the relationship between the parties must be examined in light of the tests set out in Wiebe Door Services Ltd. v. M.R.N., (1986) 3 F.C. 553, namely, the ownership of work tools, chances of profit and risk of loss, integration and control, which were applied by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., (2001) 2 S.C.R. 953 (see Combined Insurance Company of America, supra, and Royal Winnipeg Ballet v. Canada (M.R.N.), 2006 FCA 87).
+[54] In Royal Winnipeg Ballet, supra, Justice Desjardins stated the following at paragraph 81:
+. . . I accept Sharlow J.A.'s analysis, at para. 64 of her reasons, that what the Tax Court judge should have done was to take note of the uncontradicted evidence of the parties' common understanding that the dancers should be independent contractors and then consider, based on the Wiebe Door factors, whether that intention was fulfilled. . . .
+[55] More recently, Justice Létourneau observed the following in Michel Grimard and Her Majesty the Queen, 2009 FCA 47, at paragraph 33:
+As important as it may be, the intention of the parties is not the only determining factor in characterizing a contract: see D&J Driveway Inc. v. Canada (M.R.N.), 2003 FCA 453; Dynamex Canada Inc. v. Canada, 2003 FCA 248. In fact, the behaviour of the parties in performing the contract must concretely reflect this mutual intention or else the contract will be characterized on the basis of actual facts and not on what the parties claim.
+[56] Based on the parties' testimony, the way in which they implemented the agreements reflected their common intention, as expressed in the agreements signed by Ms. Gisbert and Mr. Paquette. They both stated that they were independent contractors, not employees within the meaning of the Act respecting labour standards or the Quebec Labour Code. In fact, no unambiguous evidence was filed showing that the contractual agreements were not implemented to reflect the parties' intention.
+[57] In fact, the following facts are undeniable:
+a. Ms. Gisbert and Mr. Paquette each covered the cost of their personal third‑party liability insurance and embezzlement insurance.
+b. Under collateral arrangements, Mr. Paquette had to reimburse Combined for commissions relating to his affairs and those of the representatives he supervised.
+c. As district manager, Mr. Paquette was fully liable for any debt that a representative under him may have incurred with Combined.
+d. The witness Michel Rivest confirmed in three letters to third parties that Mr. Paquette was self-employed. Mr. Paquette did not request a correction to his status.
+e. At the time of recruitment of new representatives, Mr. Paquette told them that they would be self-employed, which in itself is evidence of his acceptance of this status.
+[58] The main disagreement with regard to the parties' conduct concerns the exclusivity of managers and representatives' services. The January 1, 2004, agreement stipulated that the representatives' work was not exclusive, but the evidence shows that the representatives and managers were [Translation] "held captive" and could not sell other insurance companies’ products (see affidavit of witness Michel Rivest filed as Exhibit 1-7). The witness Jean-Claude Lévesque was dismissed for soliciting Combined's clients by offering them other insurance companies' products, while Mr. Paquette was demoted to the position of representative because he did not work exclusively for Combined. He had signed agreements with Blue Cross and l’Excellence insurance companies and he had founded his own insurance company operating under the name Services Financiers Tangibles Canada without disclosing this information to Combined.
+Determination of status through certain criteria
+A. Ownership of work tools
+[59] The evidence shows that the work tools belonged to Combined: clients, client files and confidential information concerning clients, sales manuals, forms, insurance policies, premiums, and clients' cheques. Everything had to be returned to Combined at the time of resignation or dismissal.
+[60] Based on the agreements signed, Ms. Gisbert and Mr. Paquette had to cover the cost of the operating permit, liability insurance and embezzlement insurance. They had to supply their own office, stationery and vehicle at their own expense. In addition, they had to cover a significant part of the cost of sales materials and business cards, even though the documents were prepared by Combined to ensure that they complied with statutory and regulatory requirements.
+B. Chances of profit and risk of loss
+[61] The evidence shows that a manager's income was based on the number of renewals of existing insurance policies (client files), the number of new insurance policies sold, the area covered, the number of representatives on the manager's team and those representatives’ hours of work. As far as income was concerned, the manager's success depended on recruiting a sufficient number of representatives and the adequacy of their training (theoretical training at weekly meetings and practical training accompanying them in the field). Mr. Paquette was very successful in that regard as a representative and manager for Combined and he received significant bonuses.
+[62] A manager also had to incur significant expenses in order to earn his or her commissions and overriding commissions such as office, meal, cell phone and travel expenses as well as the cost of his or her permit, liability insurance and embezzlement insurance. In addition, he or she sometimes had to personally guarantee minimum commissions for new representatives for their first eight weeks of work. He or she sometimes would also have to assume full liability for any debt that a representative under him or her may incur with Combined, as Mr. Paquette did (see paragraph 21 above). Under the agreement entitled [Translation] "Collateral arrangements", Mr. Paquette even guaranteed the repayment of commissions resulting from cancelled policies and the collection of all cheques paid or submitted to Combined relating to business transacted by himself or by representatives on his team. In order to minimize financial risk associated with these obligations, Mr. Paquette asked Combined to retain 10% of his overriding commissions in an open collateral account that could contain up to $15,000. In light of these circumstances, it seems clear to me that a manager was exposed to a risk of loss.
+C. Integration
+[63] The evidence shows that new and old clients were all clients of Combined, not clients of managers or representatives. Managers managed Combined's client base and were to broaden it. Managers' business cards had Combined's logo and the phone numbers on them were those of Combined. Client complaints were dealt with by Combined.
+[64] The January 1, 2004, agreement stipulated that representatives and managers worked as independent contractors on a non-exclusive basis, but in practice Combined did not like it very much if managers did not dedicate all their activities to it. For example, the agreemenent with Jean-Louis Lévesque was terminated on March 28, 2005, while he was a manger, because he had been promoted by another Quebec insurance company.
+[65] Under these circumstances, I find that Mr. Paquette's and Ms. Gisbert's activities were for the most part integrated into Combined's business.
+D. Degree of control
+[66] The control exercised by Combined over managers resulted from the objective‑oriented management approach established by Combined. The objectives were based on predicted annual sales and on the number of representatives on each manager's team. Any slackening in recruitment or training of new representatives or in sales was sanctioned by Combined through demotion, splitting the team, attribution of a new area or even decreasing the number of client files allocated to a manager. In regard to potential sanctions, managers were under an enormous amount of economic pressure.
+[67] However, Combined provided precise and explicit coaching to its managers in order to help them attain their objectives. For Combined, the important people were those out in the field selling insurance policies. Managers shared in Combined's interests because they were entitled to overriding commissions on the premiums generated by the sales representatives on their teams.
+[68] Managers did not have to put in an appearance in a given workplace; they did not have a specific work schedule, but from time to time they had to participate in meetings that were said to be [Translation] "mandatory". They had to have their vacation dates approved.
+[69] The weekly activity reports were used to calculate commissions and overriding commissions and could not be considered a measure for controlling managers.
+[70] Measures for controlling managers’ quality of work mostly involved compliance with regulatory requirements and confidentiality of clients' personal information.
+[71] Recruitment and training of new representatives were part of managers' management duties. It was the same for the allocation of client files by the manager to representatives on his or her team and for the application of working methods, such as using sales techniques recommended by Combined, complying with the dress code and the code of ethics, returning client files, preparing activity reports and depositing insurance policy premiums.
+Conclusion
+[72] In my opinion, the parties' conduct reflects the description in the contracts at issue, specifically, that Ms. Gisbert and Mr. Paquette worked as independent contractors for Combined. I know very few people who, as employees, would agree to be liable for debt incurred with the appellant by representatives who are part of their sales team.
+[73] As the Federal Court of Appeal found in Combined Insurance Company of America, supra, in light of the evidence adduced, I cannot find that a relationship of subordination existed with regard to the work that had to be performed by Ms. Gisbert and Mr. Paquette for Combined. They could choose how they performed their work. They could recruit and train any number of representatives that they wanted to have on their teams, accompany them in the field and motivate them and solicit the clients that they wanted except in sectors attributed to other representatives.
+[74] The criteria in Wiebe Door, supra, mainly support the appellant's arguments. Ms. Gisbert and Mr. Paquette owned certain tools needed for the their activities, but the most important tools belonged to Combined. With respect to the criterion of chances of profit and risk of loss, it is evident that Ms. Gisbert and Mr. Paquette could make substantial profits by dedicating time and energy to their activities but were also exposed to a risk of loss. The integration criterion seems to be more favourable to the respondent's arguments, but with respect to the control exercised by Combined over Ms. Gisbert and Mr. Paquette's activities, it was rather to help them in their management, to enable them to attain their objectives in terms of sales and revenue and to ensure they complied with statutory and regulatory requirements.
+[75] In my view, the evidence of subordination referred to by the respondent at paragraph 40 above does not make it possible to find that a relationship of subordination existed with respect to the activities performed by Ms. Gisbert and Mr. Paquette.
+[76] Accordingly, I find that Ms. Gisbert and Mr. Paquette did not hold insurable employment with the appellant from January 1, 2004, to January 21, 2005, in Ms. Gisbert's case and from January 25, 2007, to January 25, 2008, in Mr. Paquette's case.
+[77] For these reasons, the appeals are allowed.
+Signed at Ottawa, Canada, this 25th day of February 2011.
+"Réal Favreau"
+Favreau, J.
+Translation certified true
+on this 13th day of June 2011
+Margarita Gorbounova, Translator
+CITATION: 2011 TCC 85
+COURT FILE NOS: 2008-3975(EI); 2008-3974(EI)
+STYLES OF CAUSE: Combined Insurance Company
+of America v. M.N.R. v.
+Michel A. Paquette;
+Combined Insurance Company
+of America v. M.N.R.
+PLACE OF HEARING: Montréal, Quebec
+DATES OF HEARING: September 29 and 30 and
+October 28, 29 and 30, 2010
+REASONS FOR JUDGMENT: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: February 25, 2011
+APPEARANCES:
+Counsel for the appellant:
+Dominic C. Belley
+Vincent Dionne
+Counsel for the respondent:
+Simon Petit
+Laurent Brisebois
+For the intervener:
+The intervener himself
+COUNSEL OF RECORD:
+For the appellant:
+Name: Dominic C. Belley
+Vincent Dionne
+Firm: Ogilvy Renault
+Montréal, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the intervener:

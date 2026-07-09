@@ -1,0 +1,115 @@
+Title: Richard Essery, sole proprietor v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/23422/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-696-23422-richard-essery-sole-proprietor-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-10-29
+
+# Richard Essery, sole proprietor v. The Queen
+
+- Citation: 2004 TCC 696
+- Decision date: 2004-10-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2154, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Richard Essery, sole proprietor v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-29
+Neutral citation
+2004 TCC 696
+File numbers
+2003-3687(GST)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2004TCC696
+Date: 20041029
+Docket: 2003-3687(GST)I
+BETWEEN:
+RICHARD ESSERY,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Nimanthika Kaneira
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Toronto, Ontario, on March 30, 2004)
+Miller J.
+[1] This is an informal procedure appeal by Mr. Richard Essery in connection with a goods and services tax (GST) assessment for the period April 1, 1998 to December 31, 2001. Canada Revenue Agency denied Mr. Essery's input tax credits of $3,711.57 on the basis that he was not carrying on a business. Mr. Essery maintains he was in a computer consulting business, and that the input tax credits relate primarily to car and home office expenses incurred in that business. Mr. Essery acknowledged he was bad at keeping paperwork, as he was unable to provide supporting materials for his claim. Mr. Essery that may indeed prove your downfall in this matter. I will have more to say on that.
+[2] In 1995, Mr. Essery set up a sole proprietorship under the name R.Y.E. Enterprises. He was initially involved with software re-engineering and curiously, the sale of hovercraft and cottage accessories. By 1997 and 1998, the re-engineering business was floundering. Mr. Essery shifted his efforts to obtaining agency agreements with several software manufacturers on a commission basis. He provided copies of six contracts with:
+- Scarborough Enterprises, Inc. entered in 1999;
+- Windsor Industries Ltd. which dealt with cottage accessories, also entered in 1999;
+- Advance Multimedia IT Company Ltd. entered in 1999;
+- CRT Multimedia Ltd. in 1999;
+- TFPL Multimedia Ltd. in 1998;
+- JR Inkjet Limited in 1997; and
+- EuroPress in 1997.
+None of these agreements were signed. All were similar. Arising from these agreements, the only sales that Mr. Essery could confirm with some confidence, over the four-year period, were some one hundred inkjet cartridges on behalf of Inkjet. No business income was reported however in 1999, 2000 and 2001 from these contracts. Also no supporting bank records, invoices, ledgers, cancelled cheques or even basic financial statements were produced in support of carrying on this agency-type business.
+[3] Throughout the years in question, Mr. Essery also did what he referred to as contract work. A review of his 1998, 1999, 2000 and 2001 returns reveals he had employment agreements with the following:
+- Shiva Technologies Inc. both in 1998 and 1999;
+- Open Storage Solutions Inc. in 1998;
+- EYA in 1999;
+- Clinicare Corporation in 2001;
+- DMR Consulting Inc. in 2001;
+- Computer Associates Canada Company in 2000 and 2001; and
+- OAO Canada Limited in 2000.
+[4] Mr. Essery claimed employment expenses in his 1998, 1999, 2000 and 2001 returns covering similar items to which he claims his input tax credits, primarily car and home office related expenses. He also filed T2200 forms in the relevant years confirming his employer required him to incur these expenses. Two of those forms he actually signed on behalf of the employer EYA. All these companies provided T4 slips to Mr. Essery. Some of the work required that he report to the employer's place of business, for example, work involved in computer training. Other duties he indicated he could fulfil from home.
+[5] Mr. Essery maintained he always felt he was providing a service. He cited two reasons why these latter agreements were set up as employment agreements: first, so he could have source deductions made, and therefore not run into a problem he had previously encountered in getting behind on his tax payments; and, second, because the companies did not want to get involved in paying GST to what Mr. Essery called contract employees. He did not produce any written contracts reflective of these arrangements, suggesting they were all verbal agreements. In 2001, Mr. Essery successfully claimed employment insurance benefits of around $7,400.
+[6] The issue is simply Mr. Essery's entitlement to input tax credits. To receive such entitlement he must have engaged in commercial activity. If he can get past that hurdle, then he must prove the amount of his actual claim. In that regard, I refer you to subsections 169(4) and 286(1).
+[7] I turn then to the first question of whether Mr. Essery was engaged in commercial activity in the relevant years. The definition of "commercial activity" is found in section 123 and reads:
+123(1) In section 121, this Part and Schedules V to X,
+...
+"commercial activity" of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, ... except to the extent to which the business involves the making of exempt supplies by the person,
+There are two areas of possible activity: the agency relationships that Mr. Essery claimed he entered into; and the employment arrangements or contract work, as he calls it. First, with respect to the agency agreements, Mr. Essery had no income from such work in 1999, 2000 and 2001. He thought he might have made some inkjet sales in 1999 but his return indicated he did not. He characterized this branch of work as an attempt to earn a little extra cash. The attempt failed. He earned no income. He presented no plan. I find he was not carrying on business in that regard and, even if he was, he did not have any reasonable expectation of profit, a term that might have been diminished in the income tax arena but is certainly alive and well in the very definition of "commercial activity" which I have just read.
+[8] With respect to the contract work, from which Mr. Essery did generate income, it is clear that he and the payor companies agreed to structure this as an employment arrangement. T4s were issued and deductions were made. It certainly had the trappings and form of an employment agreement, and the Crown assumed as much in its Reply. It is up to Mr. Essery to satisfy me that the arrangements were something other than short-term employment arrangements. He has not done so. With respect, Mr. Essery, you are attempting to have it both ways. Employment from an income tax perspective and an independent contract from a GST perspective. It simply cannot work that way, although I accept that you believed it could.
+[9] The Supreme Court of Canada recently clarified the test with respect to this issue of employee versus independent contractor. The probing question is whether Mr. Essery was in business for himself on his own account. The factors to consider are the control factor, the chance of profit in each contract, the risk of loss, the ownership of tools, the ability to put forward someone else to do the work, and any other factors the Court might consider relevant.
+[10] Mr. Essery, you gave little evidence on these factors that might help me, nor did you call any representative of the companies with whom you contracted that might have helped. The only evidence I have is that this was akin to project work. You had to report at times to the company. No one else could do the work but you, and both sides treated it as an employment arrangement. You have not satisfied me on a balance of probabilities that these were contracts of an independent contractor nature. I find, therefore, you were not engaged in commercial activity entitling you to input tax credits.
+[11] Had you provided stronger evidence of the nature of the relationship and swayed me that indeed you were an independent contractor, you would still have to face the hurdle of producing sufficient evidence as to the quantum of your claim. You provided no supporting documents at all, other than your own summary of your calculation of the input tax credits. That is not enough. The Act is clear that the onus is on you to maintain appropriate records so that these amounts can be verified.
+[12] Mr. Essery, our tax system is mostly a self-assessment system. It would break down completely if everyone was as poor a recordkeeper as you admit to have been. While I have some sympathy that a computer expert might rely extensively on the computer, in this regard your statement that a virus wiped out your records highlights the very real inherent danger on that sort of reliance. Mr. Essery, you told me that your wife, who is a certified management accountant, gave up on your books as they were so inadequate. I strongly recommend you talk her into putting your records into some semblance of order so you do not get caught in this dilemma in the future.
+[13] You made one curious comment, several times actually, that you would not be at this point had you received a T4E instead of a T4. A T4E, for your information, is a T4 that shows employment insurance benefits. There is no form of T4 that would reflect an independent contractor arrangement. My only comment is that I do not know where you are getting your advice, but if your spouse is reluctant to help you out you may want to spend that extra money to obtain qualified professional advice in the future.
+[14] Mr. Essery, I am dismissing your appeal.
+Signed at Ottawa, Canada, this 29th day of October, 2004.
+"CampbellJ. Miller"
+Miller J.
+CITATION:
+2004TCC696
+COURT FILE NO.:
+2003-3687(GST)I
+STYLE OF CAUSE:
+Richard Essery and Her Majesty the Queen
+PLACE OF HEARING
+Toronto, Ontario
+DATE OF HEARING
+March 30, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT
+April 7, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nimanthika Kaneira
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

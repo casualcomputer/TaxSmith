@@ -1,0 +1,235 @@
+---
+title: "Kumar c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521306/index.do"
+last_modified: "2024-07-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 105"
+citation2: ""
+neutral_citation: "2024 CCI 105"
+decision_date: "2024-07-31"
+language: "fr"
+item_id: "521306"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5718
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-11-02T09:10:46.842000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "435e5e683920de5c178d48c9cbfeb3c57c15037cbbb0071d5bd4a22559170d45"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kumar c. Le Roi
+
+- Citation: 2024 CCI 105
+- Decision date: 2024-07-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5718, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kumar c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-07-31
+Référence neutre
+2024 CCI 105
+Numéro de dossier
+2019-160(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-160(IT)I
+ENTRE :
+DEO KUMAR,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 22 novembre 2021 et le 14 septembre 2022, à Vancouver (Colombie-Britannique)
+Devant : l’honorable juge B. Russell
+Comparutions :
+Représentant de l’appelant :
+Nick DiMambro
+Avocat de l’intimé :
+Me Mark Shearer
+JUGEMENT
+Le présent appel visant les nouvelles cotisations établies le 3 avril 2017 pour les années d’imposition 2013 et 2014 est accueilli, à tout le moins en ce qui concerne la contestation des pénalités pour faute lourde associées à chacune de ces deux nouvelles contestations et imposées en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu; le tout sans dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 31e jour de juillet 2024.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 30e jour d’août 2024.
+Karyne St-Onge
+Référence : 2024 CCI 105
+Date : 20240731
+Dossier : 2019-160(IT)I
+ENTRE :
+DEO KUMAR,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Russell
+I. Aperçu [1] L’appelant, M. Deo Kumar, interjette appel des nouvelles cotisations établies à son égard pour les années d’imposition 2013 et 2014 sous le régime de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la « Loi »). Il soutient que les paiements non déclarés de la société qui lui ont été versés directement ou indirectement au cours de ces années d’imposition étaient des remboursements de prêt aux actionnaires et donc, qu’ils étaient non imposables, contrairement à la conclusion du ministre du Revenu national (le « ministre »), énoncée dans les nouvelles cotisations, selon laquelle il s’agissait d’avantages imposables. M. Kumar conteste également les pénalités pour faute lourde qui lui ont été imposées en lien avec ces deux nouvelles cotisations.
+[2] En 2001, M. Kumar et sa défunte épouse ont cherché à aider leur fils aîné, Reanae Kumar (« RK »), un mécanicien automobile qualifié, dans son développement de carrière. M. Kumar a hypothéqué leur résidence pour financer un prêt consenti à une société nouvellement constituée, appelée RDR Tire & Autocentre Ltd. (« RDR »), dont son épouse et lui étaient actionnaires. Grâce à ce prêt, RDR a pu acheter et mettre sur pied une entreprise de pneus et d’entretien d’automobiles, qui serait exploitée par RK.
+II. Nouvelles cotisations [3] Les nouvelles cotisations contestées en appel font état de ce qui suit :
+a) des revenus non déclarés totalisant 24 249 $ (2013) et 41 680,40 $ (2014), à titre de paiements de RDR faits à M. Kumar (en sa qualité d’actionnaire de RDR) ou en son nom, imposables conformément au paragraphe 15(1) de la Loi;
+b) des revenus non déclarés totalisant 13 693 $ (2013) et 28 131,40 $ (2014), à titre de paiements de RDR faits à RK ou en son nom, selon les instructions ou avec l’accord de M. Kumar, bénéficiant indirectement à M. Kumar, et imposables conformément au paragraphe 56(2) de la Loi;
+c) des pénalités pour faute lourde imposées sur le revenu non déclaré, en application du paragraphe 163(2) de la Loi.
+[4] Les paragraphes 15(1), 56(2) et 163(2) de la Loi en vigueur en 2013 et en 2014 étaient rédigés ainsi :
+15(1) – Avantages aux actionnaires
+La valeur de l’avantage qu’une société confère, à un moment donné, à son actionnaire […] est incluse dans le calcul du revenu de l’actionnaire […]
+56(2) – Paiements indirects
+Tout paiement ou transfert de biens fait, suivant les instructions ou avec l’accord d’un contribuable, à une autre personne au profit du contribuable ou à titre d’avantage que le contribuable désirait voir accorder à l’autre personne […] est inclus dans le calcul du revenu du contribuable dans la mesure où il le serait si ce paiement ou transfert avait été fait au contribuable.
+163(2) – Faux énoncés ou omissions
+Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse […] rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants […]
+III. Questions en litige [5] Les questions en litige sont les suivantes :
+(i) Les montants des nouvelles cotisations constituaient-ils, à juste titre, des revenus imposables pour M. Kumar aux termes des paragraphes 15(1) et 56(2) de la Loi? (ii) Les pénalités pour faute lourde prévues au paragraphe 163(2) de la Loi ont-elles été appliquées aux nouvelles cotisations à juste titre? IV. Contexte [6] À l’audience, seul M. Kumar, qui était alors âgé d’un peu plus de 70 ans, a témoigné. Durant son témoignage, il a parlé d’événements survenus plusieurs années auparavant (huit ou neuf ans, et même avant). L’anglais n’est pas sa langue maternelle. Même si certaines des réponses de M. Kumar n’étaient pas entièrement claires, j’estime qu’il était un témoin crédible.
+[7] Il a déclaré avoir pris sa retraite d’un emploi de préposé à l’entretien à temps plein, emploi qu’il a occupé pendant de nombreuses années, y compris en 2013 et en 2014.
+[8] M. Kumar n’a aucune formation en comptabilité. Il y a plusieurs décennies, soit en 1978, il a suivi un cours offert par H&R Block sur la préparation de déclarations de revenus pour les particuliers, et non pour les sociétés.
+[9] M. Kumar n’est pas mécanicien. En 2001, il a pris les dispositions nécessaires pour que RDR soit constituée en société, puis a prêté 315 000 $ à cette dernière afin qu’elle acquière et mette sur pied une entreprise de pneus et d’entretien d’automobiles. Son fils RK a exploité cette entreprise jusqu’en 2014. RDR a cessé ses activités de manière définitive en 2018 en raison d’un échec financier.
+[10] Lorsque son emploi du temps le lui permettait, notamment au cours des années 2013 et 2014, M. Kumar se rendait environ une fin de semaine sur deux dans les locaux commerciaux loués par RDR pour y faire du ménage et réaliser divers travaux pendant une période approximative de deux heures. Il a présenté des reçus à RK pour diverses dépenses qu’il avait engagées au nom de RDR dans le cadre de ce travail.
+[11] M. Kumar a déclaré que RDR avait toujours eu des difficultés financières. Au cours d’une année non précisée, il a consenti à RDR un deuxième prêt garanti par une hypothèque, cette fois d’une somme de 335 000 $. M. Kumar a également consenti à RDR, à l’occasion et selon les besoins, des prêts de sommes inférieures en argent comptant. M. Kumar tirait son revenu de son emploi. RDR lui versait des remboursements. Aucun registre ou échéancier des paiements et des remboursements n’a été produit en preuve.
+[12] M. Kumar a également indiqué que RDR avait effectué des paiements à RK ou en son nom, pour les paiements hypothécaires et les dépenses [traduction] « courantes » de ce dernier. Contrairement à son père, RK n’avait pas d’autres revenus. M. Kumar a déclaré que les sommes des paiements que RDR a versés à RK ou au nom de ce dernier qui ont été établies dans les nouvelles cotisations et qui totalisent environ 42 000 $, [traduction] « pourraient être exactes ». (Comme il est précisé plus haut, les sommes réelles établies dans les nouvelles cotisations, qui totalisent environ 42 000 $, sont de 13 693 $ (2013) et de 28 131,40 $ (2014).)
+[13] M. Kumar a également déclaré que RDR n’avait pas les moyens d’embaucher un professionnel pour préparer ses déclarations de revenus annuelles. M. Kumar s’est donc lui-même chargé de compiler (et non de [traduction] « préparer ») ces déclarations à l’aide des données financières fournies par RK. Ce dernier utilisait un logiciel de comptabilité pour la tenue des livres et des registres comptables de RDR.
+[14] M. Kumar ne connaissait pas bien les ordinateurs ni les logiciels comptables. Il a compilé les déclarations de revenus à la main en utilisant [traduction] « les chiffres » fournis par RK.
+[15] Les déclarations de revenus de RDR pour les années d’imposition ayant pris fin le 30 avril 2013 et le 30 avril 2014, y compris les bilans et les états des résultats, ont été produites en preuve (pièces A-1, A-2 et A-4 à A-6). L’Agence du revenu du Canada (l’« ARC »), dans une lettre du 17 octobre 2013 (pièce A‑3), a demandé à RDR de présenter ses états financiers pour l’année d’imposition ayant pris fin le 30 avril 2013. Il semblerait que ces états financiers n’avaient pas déjà été présentés.
+[16] Les bilans des années d’imposition 2013 et 2014 font état de prêts d’actionnaire s’élevant à 279 022,68 $ et à 277 921,49 $, respectivement. Le représentant de M. Kumar a fait remarquer que les soldes annuels des prêts d’actionnaire fluctuaient, à l’instar du solde d’un compte de marge de crédit.
+[17] M. Kumar a déclaré qu’il ne savait pas comment consigner les remboursements de prêts d’actionnaire dans les documents de la société[1].
+[18] M. Kumar a également compilé les déclarations de TPS de RDR, en utilisant encore une fois les données générées à partir du logiciel de comptabilité de RDR et fournies par RK.
+[19] RDR a déclaré, pour les années d’imposition 2013 et 2014, des pertes nettes de 13 224 $ et de 102 490 $, respectivement.
+[20] M. Kumar a signé les déclarations de revenus de RDR à titre de signataire dûment autorisé et y a nommé RK comme personne-ressource pour l’ARC. M. Kumar a témoigné qu’au fil des ans, il n’avait été avisé d’aucune question de la part de l’ARC et qu’il en avait donc déduit que les déclarations de revenus de RDR étaient conformes.
+V. Thèses des parties [21] Le représentant de M. Kumar a fait valoir que la nouvelle cotisation établie pour l’année d’imposition 2013 est frappée de prescription, ou qu’elle pourrait l’être. Il a également affirmé que les sommes établies dans les nouvelles cotisations à titre de revenus imposables étaient erronées, puisque M. Kumar n’avait jamais reçu de telles sommes. Il a en outre fait valoir que toute somme reçue par M. Kumar constituait des remboursements de prêts d’actionnaire, et a contesté les pénalités pour faute lourde.
+[22] L’intimé est d’avis que les deux nouvelles cotisations contestées sont correctes.
+VI. Analyse Nouvelle cotisation frappée de prescription?
+[23] Examinons d’abord l’observation du représentant de M. Kumar, dont il n’a pas été fait mention dans l’avis d’appel, selon laquelle la nouvelle cotisation pour l’année d’imposition 2013 serait frappée de prescription si je rejetais la contestation de la pénalité pour faute lourde associée à cette nouvelle cotisation[2].
+[24] Je ne souscris pas à ce raisonnement. Selon le paragraphe 152(4) de la Loi, une nouvelle cotisation peut être établie pendant la « période normale de nouvelle cotisation » applicable, qui est définie à l’alinéa 152(3.1)b) de la Loi comme étant la période de trois ans commençant à la date de la première cotisation.
+[25] Le représentant de M. Kumar n’a pas contesté l’historique de la nouvelle cotisation de l’année d’imposition 2013 que l’intimé a présenté dans sa réponse[3]. Selon l’historique, la première cotisation à l’égard de M. Kumar pour l’année d’imposition 2013 a été établie le 20 mai 2014, et la nouvelle cotisation, le 3 avril 2017[4]. La période entre ces deux dates est d’un peu moins de trois ans.
+[26] Ainsi, la nouvelle cotisation du 3 avril 2017 n’est pas frappée de prescription puisqu’elle a été établie pendant la période normale de nouvelle cotisation applicable de trois ans. Ce fait restera inchangé, peu importe ce qu’il advient de la contestation de la pénalité pour faute lourde associée à cette nouvelle cotisation.
+Remboursements de prêts d’actionnaire?
+[27] Passons aux circonstances dans lesquelles le remboursement de prêts d’actionnaire peut être considéré comme tel, plutôt que comme un avantage conféré à l’actionnaire aux termes du paragraphe 15(1) de la Loi.
+[28] Tout d’abord, il doit bien évidemment y avoir à la fois un prêt d’actionnaire consenti de bonne foi ou des prêts consentis de bonne foi par l’actionnaire à la société en question, et un solde impayé. Ce fait n’est pas contesté en l’espèce. Pendant toute la période pertinente, M. Kumar était l’unique actionnaire de RDR.
+[29] L’intimé renvoie à la décision Tymchuk c. Sa Majesté la Reine, 2003 CCI 699 [Tymchuk]. Le contribuable appelant dans cette affaire, Donald L. Tymchuk (« DT »), était courtier immobilier et l’unique actionnaire de sa société, pour laquelle il travaillait sans recevoir de rémunération officielle. Il n’avait déclaré aucune somme reçue de sa société pour les années d’imposition 1997 et 1998. Néanmoins, au cours de ces années, la société lui a émis des chèques et a payé son compte de carte de crédit Visa. La société a également payé la totalité de ses frais d’automobile et ses primes d’assurance-vie. Le ministre a établi une cotisation à l’égard de DT concernant les avantages que la société lui avait conférés, attribuant 20 % des frais d’automobile relativement à l’utilisation de sa voiture à des fins personnelles.
+[30] D’après DT, ces sommes versées constituaient « un revenu personnel en vertu de l’alinéa 12(1)a) pour des services rendus ou [devaient] lui être crédité[e]s à titre de remboursement d’un pourcentage d’un prêt aux actionnaires et non à titre de rémunération pour des services rendus »[5]. Notre Cour (le juge McArthur) a affirmé croire que DT était un comptable général licencié et qu’il s’occupait de la tenue de livres de sa société.
+[31] Le juge McArthur a confirmé les nouvelles cotisations portées en appel selon lesquelles les paiements constituaient des avantages conférés à un actionnaire au sens du paragraphe 15(1) de la Loi, concluant que ni la société ni DT n’ont consigné les paiements en tant que salaire ou autre. Les paiements n’ont été mis en lumière que lors d’une vérification. La Cour a jugé que trop de temps s’était écoulé après la vérification par l’ARC pour que les paiements soient comptabilisés comme des remboursements de prêts aux actionnaires ou comme des paiements pour des services rendus. Il ne s’agissait pas d’une simple erreur dans la tenue de livres.
+[32] Au paragraphe 12 de ses motifs, le juge McArthur a fait la remarque suivante au sujet de la pénalité pour faute lourde associée à la cotisation :
+[…] Donald s’occupait lui-même de la tenue de livres et, si je ne m’abuse, il était également un comptable général licencié. Il n’a eu aucune intention d’inscrire lesdits montants au titre d’un prêt aux actionnaires ou autre jusqu’à ce que ces montants soient découverts au cours de la vérification. Il a eu la possibilité et avait l’obligation de consigner avec exactitude les paiements qu’avait versés la société. Après avoir fait l’objet d’une vérification, et il s’est fait prendre à son propre piège, et il demande maintenant à ce qu’on l’autorise à effectuer une planification fiscale rétroactive […]
+[33] Le juge McArthur a également fait siens les propos du juge Linden de la Cour d’appel fédérale quant à l’importance des documents de l’entreprise, figurant à la page 6032 de l’arrêt La Reine c. Friedberg, [1991] A.C.F. no 1255 (C.A.F.) :
+En droit fiscal, la forme a de l’importance. Une simple intention subjective, en l’espèce comme dans d’autres instances en matière fiscale, ne suffit pas en soi à modifier la caractérisation d’une opération aux fins de l’impôt. Lorsqu’un contribuable prend certaines dispositions formelles à l’égard de ses affaires, il peut s’ensuivre d’importants avantages fiscaux, quand bien même ces dispositions seraient prises principalement dans le but d’éviter des impôts (voir La Reine c. Irving Oil 91 DTC 5106, le juge Mahoney, J.C.A.). Toutefois, si un contribuable omet de prendre les mesures formelles appropriées, peut-être que des impôts devront être payés. S’il n’en était pas ainsi, Revenu Canada et les tribunaux se livreraient à des exercices interminables pour établir les intentions véritables derrière certaines opérations. Les contribuables et la Couronne chercheraient à restructurer des opérations après coup afin de profiter de la législation fiscale ou d’amener les contribuables à payer des impôts qu’ils pourraient autrement ne pas avoir à payer. Bien que la preuve de l’intention puisse parfois aider les tribunaux à clarifier des marchés, elle est rarement déterminante. En résumé, la preuve d’une intention subjective ne peut servir à « rectifier » des documents qui s’orientent clairement vers une direction précise.
+[Non souligné dans l’original]
+[34] Dans la décision Tymchuk, le juge McArthur a également renvoyé à la décision Chopp c. Canada, [1995] A.C.I. no 12 (C.C.I.), confirmée par [1997] A.C.F. no 1551 (C.A.F.) [Chopp], s’exprimant en ces termes (par. 8) :
+L’avocat de l’intimée a renvoyé la Cour à la décision qu’a rendue le juge Mogan de cette Cour dans l’affaire Chopp c. Canada, [1995] A.C.I. no 12 (95 DTC 527). Dans l’affaire Chopp, le contribuable détenait 99 p. 100 des actions émises de la C Ltd. Pendant que l’appelant était en vacances, sa corporation lui a avancé la somme de 28 500 $ pour son profit personnel aux fins d’achat de sa nouvelle maison. Cette avance a été inscrite par erreur à titre de dépenses de la société plutôt que d’être portée au débit de son compte de prêt aux actionnaires. Le ministre du Revenu national a refusé cette avance à titre de dépense de la société et l’a incluse dans le revenu du contribuable aux termes du paragraphe 15(1). Le juge Mogan a soutenu que, si la valeur d’un avantage doit être comprise dans le calcul du revenu de l’actionnaire en vertu du paragraphe 15(1), l’avantage doit être conféré au su de l’actionnaire ou de son plein gré dans des circonstances où il est raisonnable de conclure que l’actionnaire aurait dû savoir que l’avantage lui avait été conféré, raisonnement avec lequel je suis d’accord.
+[35] L’affaire Chopp concerne une situation où une simple erreur d’écriture a été faite dans la tenue des livres de la société. Il s’agit d’un type d’erreur qui, à des fins fiscales, peut être corrigée rétroactivement.
+[36] De manière générale, je considère que les décisions Tymchuk et Chopp révèlent des facteurs pertinents à prendre en compte pour faire la distinction entre les prestations versées au contribuable ou en son nom et les remboursements de prêts d’actionnaire (ou aux actionnaires). Essentiellement, pour qu’ils puissent être comptabilisés comme des remboursements de prêts d’actionnaire, les paiements doivent être consignés comme tels par la société payante, mais le défaut de le faire peut être qualifié de simple erreur d’écriture. L’intention subjective du contribuable, exprimée après les faits, est, au mieux, peu pertinente.
+[37] Examinons les hypothèses de fait du ministre énoncées dans la réponse sous la rubrique [traduction] « Avantages conférés aux actionnaires ». L’hypothèse figurant à l’alinéa 7n) est rédigée en ces termes :
+[traduction]
+[…] aucune écriture de débit n’a été portée au compte de prêt d’actionnaire au titre des dépenses personnelles payées par [RDR] pour l’appelant et le fils […]
+[38] Cette hypothèse n’est pas contestée. M. Kumar a expliqué, comme il est fait mention plus haut, qu’il ne savait pas comment comptabiliser de tels paiements dans le compte de prêts d’actionnaire de RDR.
+[39] Aucun document relatif aux paiements faits par RDR n’a été produit en preuve. Lors de son interrogatoire principal, M. Kumar a déclaré que, de façon régulière, RDR lui versait, ou versait en son nom, de petites sommes d’argent. Cependant, lors de son contre-interrogatoire, ses propos ont été différents. Il a dit que, pour chacune des années d’imposition 2013 et 2014, RDR lui avait versé à titre de dépenses personnelles des sommes correspondant approximativement à celles visées au paragraphe 15(1) établies dans les nouvelles cotisations, moins quelques 2 000 $[6].
+[40] L’échange avec l’avocat de l’intimé s’est déroulé ainsi :
+[traduction]
+Q. Maintenant, l’ARC et le ministre – le ministre a déclaré qu’en 2013 et en 2014, vos dépenses personnelles s’élevaient à environ 66 000 $. Est-ce exact?
+R. C’est exact, oui.
+Q. Et puis il y avait d’autres sommes dues pour votre fils, n’est-ce pas?
+R. Oui.
+Q. Et vous soutenez que ces sommes sont inexactes, n’est-ce pas?
+R. Je ne dis pas que c’est inexact. Une partie, une partie – la société m’a versé une somme minime. Ce n’était pas une somme élevée.
+Q. Donc, vous dites qu’en 2013, ce n’est pas la somme de 24 249 $ qui vous a été versée? C’était moins que ça?
+R. Peut-être quelques milliers de dollars de moins, mais pas beaucoup.
+Q. Et en 2014, encore une fois, c’était moins que 41 680 $?
+R. C’est exact.
+Q. Et combien était-ce?
+R. La même chose, la même somme peut-être. Vraiment très peu, quelques milliers de moins.
+[41] Lors du réinterrogatoire, le représentant de M. Kumar a demandé à ce dernier quelles avaient été ses dépenses personnelles pour l’année d’imposition 2013. M. Kumar a répondu ce qui suit : [traduction] « [une] hypothèque sur la maison. Un paiement hypothécaire. Je n’ai pas vraiment fait le calcul, donc »[7].
+[42] Ainsi, il ressort du témoignage que les prêts consentis par M. Kumar à RDR, financés en grande partie par deux hypothèques totalisant 600 000 $ dont il est fait mention plus haut, étaient remboursés, du moins en partie, au moyen de paiements faits par RDR et que M. Kumar reconnaît avoir reçus.
+[43] Toutefois, ces paiements n’ont pas été consignés au moyen d’écritures de débit dans le compte de prêts d’actionnaire de RDR. C’est ce qui pose problème en l’espèce. Comme je le mentionne plus haut, M. Kumar a déclaré qu’il ne savait pas comment consigner les paiements de dépenses personnelles dans le compte de prêts d’actionnaire[8].
+[44] Aucune preuve n’a été présentée relativement à quelque difficulté entourant la consignation des paiements pour des dépenses personnelles dans le compte de prêts d’actionnaire. Je suis d’avis qu’il ne s’agit pas d’un motif justifiant le défaut de RDR de débiter les remboursements de prêts d’actionnaire de son compte de prêts d’actionnaire. Il est fort possible que M. Kumar n’ait pas été conscient de l’importance pour la société de tenir un registre des remboursements de prêts d’actionnaire (c.-à-d. écritures de débit au compte de prêts d’actionnaire) pour que les paiements de la société à l’actionnaire ou en son nom soient acceptés en tant que remboursements de prêts d’actionnaire.
+[45] Pour que les dossiers de la société soient correctement tenus, il faut soit recourir aux services d’un professionnel, soit apprendre à le faire soi-même. M. Kumar n’a choisi ni l’une ni l’autre de ces options.
+[46] Les mêmes options s’appliquent pour les paiements que RDR a faits à RK ou en son nom, pour les paiements hypothécaires et les dépenses [traduction] « courantes » de ce dernier, comme il est mentionné plus haut. Il ne fait aucun doute dans mon esprit que M. Kumar, en tant qu’unique actionnaire de RDR, était au courant de l’existence de ces paiements, qu’il y a à tout le moins consenti, voire qu’il les a lui‑même planifiés.
+Avantages au sens du paragraphe 56(2)?
+[47] En 1998, dans l’arrêt Neuman c. M.R.N., la Cour suprême du Canada a énoncé les conditions préalables suivantes aux fins de l’application du paragraphe 56(2) :
+a) le paiement doit être fait à une autre personne que le contribuable à l’égard duquel une nouvelle cotisation est établie;
+b) la répartition doit être faite suivant les instructions ou avec l’accord du contribuable à l’égard duquel une nouvelle cotisation est établie;
+c) le paiement doit être fait au profit du contribuable à l’égard duquel une nouvelle cotisation est établie ou à une autre personne à titre d’avantage que ce contribuable souhaitait voir accorder à cette autre personne;
+d) le paiement aurait été inclus dans le revenu du contribuable à l’égard duquel une nouvelle cotisation est établie si ce dernier l’avait reçu lui-même[9].
+[48] J’estime que, au vu des faits de l’espèce, ces quatre conditions sont remplies à l’égard de M. Kumar en lien avec RK.
+[49] Avant de passer à la prochaine question, examinons l’hypothèse de fait du ministre énoncée à l’alinéa 7e) de la réponse, qui est ainsi exprimée :
+[traduction]
+[…] l’appelant s’acquittait des tâches administratives et de tenue de livres de [RDR] […]
+[50] Le ministre a donc décidé d’établir une nouvelle cotisation à l’égard de M. Kumar parce que, du moins en partie, il croyait que ce dernier était la personne qui s’acquittait des tâches administratives et de tenue de livres de RDR.
+[51] M. Kumar a lui-même affirmé qu’il ne s’acquittait d’aucune des tâches administratives et de tenue de livres de RDR[10]. Son fils RK s’en acquittait.
+[52] Je suis porté à croire que RK s’acquittait effectivement de ces tâches. Cependant, je ne crois pas que cet élément revête une grande importance pour ce qui est de la comptabilisation des paiements de la société en tant que remboursements de prêts d’actionnaire. Il ne faut pas en conclure que M. Kumar ne participait aucunement à l’exécution de ces tâches pour RDR. Après tout, c’est M. Kumar, et non RK, qui a décidé de compiler lui-même les déclarations de revenus de la société, plutôt que d’en confier la préparation à un professionnel. M. Kumar a fait de même pour les déclarations de TPS.
+Pénalités pour faute lourde prévues au paragraphe 163(2)
+[53] En ce qui concerne les pénalités pour faute lourde imposées à M. Kumar pour les années d’imposition 2013 et 2014, je renvoie à l’arrêt Ralph Abdel Deyab c. Sa Majesté la Reine, 2020 CAF 222 [Deyab], au sujet de la proposition suivante : puisque M. Kumar croyait qu’il faisait simplement en sorte que RDR lui rembourse les sommes qu’il lui avait avancées en sa qualité d’actionnaire, rien n’étaye la conclusion selon laquelle il savait qu’il recevait plutôt des avantages imposables à titre d’actionnaire[11].
+[54] En outre, dans l’arrêt Deyab (par. 77), la Cour d’appel fédérale fait remarquer ce qui suit :
+Le fait que M. Deyab n’a pas tenu de registres appropriés qui auraient pu établir que [sa société] remboursait les sommes d’argent qui étaient dues à M. Deyab (si ces montants avaient été correctement enregistrés) n’établit pas que son omission d’inclure dans ses revenus les sommes retirées démontrait « un degré important de négligence qui correspond […] à une action délibérée » ou qu’il était indifférent au fait de se conformer ou non à la loi. Le fait que M. Deyab n’a pas inclus dans ses revenus les montants qui ont fait l’objet d’une nouvelle cotisation, dans les circonstances de l’espèce, ne constitue pas une faute lourde.
+[55] J’estime que l’on peut facilement appliquer ce libellé à la situation de M. Kumar et ainsi l’exonérer des pénalités pour faute lourde qui lui ont été imposées en lien avec chacune des deux nouvelles cotisations contestées. Il ne comprenait pas suffisamment le droit fiscal ni les notions de revenus et de dépenses pour bien saisir toute l’importance de la nécessité de débiter le compte de prêts d’actionnaire. Je rejette le fait allégué à l’alinéa 8c) de la réponse, sous la rubrique [traduction] « Pénalités prévues au paragraphe 163(2) », selon lequel [traduction] « l’appelant comprenait le droit fiscal, les notions de revenus et de dépenses ainsi que l’obligation de veiller à la tenue de livres et de registres complets et exacts ». Je le répète : M. Kumar avait obtenu son certificat de H&R Block près de 40 ans avant les faits, mais le programme ne portait pas sur les obligations fiscales des sociétés ni sur les procédures de déclaration.
+VII. Conclusion [56] L’appel visant les deux nouvelles cotisations est accueilli, à tout le moins en ce qui concerne la contestation des pénalités pour faute lourde associées à chacune des deux nouvelles cotisations et imposées en application du paragraphe 163(2) de la Loi.
+Signé à Halifax (Nouvelle-Écosse), ce 31e jour de juillet 2024.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 30e jour d’août 2024.
+Karyne St-Onge
+RÉFÉRENCE :
+2024 CCI 105
+NO DU DOSSIER DE LA COUR :
+2019-160(IT)I
+INTITULÉ :
+DEO KUMAR ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 14 septembre 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 31 juillet 2024
+COMPARUTIONS :
+Représentant de l’appelant :
+Nick DiMambro
+Avocat de l’intimé :
+Me Mark Shearer
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Nick DiMambro
+Cabinet :
+The Accounting Office
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada Ottawa, Canada
+[1] Transcription, p. 42 et 43
+[2] Transcription, p. 120
+[3] Réponse, par. 3 à 6
+[4] Réponse, par. 3 et 4
+[5] Tymchuk, par. 4
+[6] Transcription, p. 75
+[7] Transcription, p. 91
+[8] Transcription, p. 42 et 43
+[9] Neuman c. M.R.N., [1998] 1 R.C.S. 770, par. 32
+[10] Transcription, p. 46
+[11] Deyab, par. 71

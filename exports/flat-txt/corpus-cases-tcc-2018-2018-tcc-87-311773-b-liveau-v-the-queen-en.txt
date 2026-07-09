@@ -1,0 +1,204 @@
+Title: Béliveau v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/311773/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-87-311773-b-liveau-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-05-29
+
+# Béliveau v. The Queen
+
+- Citation: 2018 TCC 87
+- Decision date: 2018-05-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5072, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Béliveau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-05-29
+Neutral citation
+2018 TCC 87
+File numbers
+2015-3395(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-3395(IT)G
+BETWEEN:
+CHANTAL BÉLIVEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on July 5, 2017, at Sherbrooke, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Richard Généreux
+Simon Archambault
+Counsel for the Respondent:
+Vlad Zolia
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the appellant’s 2009, 2010 and 2011 taxation years, whereby the Minister of National Revenue, among other things, added to the appellant’s business income amounts of $88,150, $249,417 and $114,116 for those years respectively from two professional overhead expense disability insurance policies is dismissed with costs in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 29th day of May 2018.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 11th day of July 2019.
+Erich Klein, Revisor
+Citation: 2018 TCC 87
+Date: 20180529
+Docket: 2015-3395(IT)G
+BETWEEN:
+CHANTAL BÉLIVEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from reassessments made under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the Act), by the Minister of National Revenue (the Minister) for the appellant’s 2009, 2010 and 2011 taxation years.
+[2] By means of the reassessments dated August 6, 2013 concerning the 2007, 2008, 2010 and 2011 taxation years and the reassessment dated April 18, 2013 for the appellant’s 2009 taxation year, the Minister, among other things, added the following amounts to the appellant’s income:
+2009: $88,150
+2010: $249,417
+2011: $114,116
+[3] The amounts so added to the appellant’s income are insurance benefits the appellant received during each of the years at issue under two professional overhead expense policies issued by the Great-West Life Assurance Company (Great-West).
+[4] At the start of the hearing, the parties informed the Court that a settlement had been reached regarding the other issues raised in the notice of appeal and that a partial consent to judgment had been filed with the Court on April 20, 2018. Under the partial consent to judgment, the appellant was allowed additional current expenditures for the 2010 and 2011 taxation years and, in all other respects, the reassessments remain unchanged, except with regard to the treatment of the insurance benefits the appellant received during the 2009, 2010 and 2011 taxation years under the two insurance policies mentioned in the previous paragraph.
+[5] The issue is whether the Minister was justified in adding to the appellant’s income the insurance benefits of $88,150 for her 2009 taxation year, $249,417 for her 2010 taxation year and $114,116 for her 2011 taxation year.
+I. Testimony of Chantal Béliveau
+[6] Ms. Béliveau testified at the hearing. The appellant is a dental surgeon who operated her clinic from an annex to her residence at 1461 Desnoyers Street in Sherbrooke. The appellant explained that during the years at issue she held three disability insurance policies underwritten by Great-West. These policies are as follows:
+- policy number 40087014 entitled [translation] “Professional Overhead Protection” was issued on July 22, 1991, for a monthly premium of $27.80 and monthly protection of $2,500. On September 22, 1992, monthly protection of $3,000 was added such that the monthly premium changed to $57.42 (policy 40087014);
+- policy number 41205537 entitled [translation] “Professional Overhead Expenses” was issued on September 19, 2007, for a monthly premium of $407.75 and provided monthly protection of $15,000 (policy 41205537); and
+- policy number 41216787 entitled [translation] “Disability Insurance Plan – Professional” was issued on July 22, 2008, for a monthly premium of $883.45 and monthly protection of $8,000 (policy 41216787).
+[7] The appellant maintains that she took out these three insurance policies on the basis of information provided by Great-West or its representatives that the insurance premiums payable under the policies were not tax deductible and that the benefits received were not taxable. The three insurance policies, the endorsements and the insurance proposals were entered as evidence.
+[8] The appellant explained that she paid the premiums for these three insurances policies from her personal bank account that she held with her spouse and that she had never deducted in the computation of her income the premiums paid under the three insurance policies. The appellant’s tax returns for taxation years 2007, 2008, 2009, 2010 and 2011 were entered as evidence.
+[9] The appellant became disabled in May 2009 because of illness. The appellant continued to operate her clinic from May 2009 to July 31, 2011 through external dentists paid at a rate of 50% of the billed income.
+[10] From January 1, 2009 to December 31, 2011 the appellant availed herself of waiver of premium clauses in the three insurance policies and thus paid no premiums under those insurance policies during that period.
+[11] From January 1, 2009 to December 31, 2011 the appellant received the following benefits under her three disability insurance policies:
+[BLANK]
+Policy 40087014
+$
+Policy 41205537
+$
+Policy 41216787
+$
+2009
+34,688
+95,528
+−
+2010
+66,917
+182,500
+33,760
+2011
+30,617
+83,500
+113,440
+[12] To receive the disability insurance benefits, the appellant provided her insurer with monthly statements of her clinic’s overhead costs and statements of her income and expenses, which were all entered as evidence.
+[13] During her testimony, the appellant said that the benefits she had received under her three disability insurance policies were paid into a bank account that she held with her spouse and which was not used for her business activities.
+[14] Following a tax audit of the appellant’s affairs, the Minister included in the calculation of the income of the appellant’s business for taxation years 2009, 2010 and 2011 the disability benefits the appellant had received under policy 40087014 and policy 41205537 because those benefits represented the reimbursement of her clinic’s overhead costs. The benefits the appellant received under policy 41216787 were not assessed because that policy was a personal disability insurance product and the benefits thereunder were not taxable.
+[15] Under the reassessment made for the appellant’s 2009 taxation year, an amount of $88,150 was added to the income of the business, whereas the appellant received total benefits of $130,216 under policy 40087014 and policy 41205537.
+[16] The appellant explained that she thought the three disability insurance policies issued by Great-West formed a whole and were to be subject to the same tax treatment, as was represented to be the case by the insurance company. The appellant entered as evidence emails and letters that were exchanged with Great-West regarding the tax treatment of her insurance policies and which confirm that the benefits paid under those policies are not taxable.
+[17] The appellant also explained that she had taken out these three disability insurance policies to protect her investment in her clinic.
+II. Testimony of Ms. Manousakos
+[18] Anna Manousakos of Great-West testified on behalf of the respondent. She was accompanied by Mélanie Dugré, also from Great­West. Ms. Manousakos is responsible for training representatives and is very familiar with Great-West’s products.
+[19] Ms. Manousakos provided a quick overview of the policies the appellant held with Great-West and explained that, in the emails and letters exchanged between December 4, 2012 and March 19, 2015, filed together as Exhibit A-2, Great-West had indeed given the appellant and her representatives incorrect information about the tax treatment of the benefits paid to the appellant under the three insurance policies. This error was moreover admitted in a letter dated October 5, 2015 that Mélanie Dugré sent to Richard Généreux and which was filed in evidence as Exhibit I-46. Ms. Manousakos was unable to find in Great-West’s files any communications with the appellant or her representatives from before December 2012.
+III. Positions of the parties
+A. The appellant
+[20] The three insurance policies the appellant took out with Great-West are disability insurance policies. The disability insurance proposal forms for the three policies are very similar. All three are disability insurance policies, and benefits are payable under these policies by reason of disability of the insured. The method of calculating the benefits varies depending on the policy. For policy 41216787, the calculation of the benefits is based on the income of the business operated by the insured. For the other two policies, benefits are based on the clinic’s overhead costs, that is, on the clinic’s real operating expenses, which is why monthly reports are required during the disability period.
+[21] Since disability insurance premiums are considered personal expenses that cannot be deducted in computing the income of the insured under paragraph 18(1)(h) of the Act, the benefits paid under disability insurance policies are not taxable.
+[22] With the exception of paragraph 6(1)(f) of the Act, which provides for the inclusion in computing an employee’s income of benefits received under a disability insurance plan to which the employer has made a contribution, the Act contains no provision for including disability insurance benefits in computing the income of a self-employed individual. In such a case, section 9 of the Act cannot apply because these benefits do not constitute a source of income under section 3 of the Act.
+B. The respondent
+[23] According to the respondent, the source of the disability insurance benefits under policy 40087014 and policy 41205537 is the insured’s business. For benefits to be paid out under these policies, the business must necessarily continue to be operated by the insured during the period of disability, and proof of the overhead costs associated with operating the clinic must be submitted monthly. The disability insurance benefits paid out in that context represent a reimbursement of business expenses; they are intended to keep the business operating for a period of 24 months so that the insured can reorganize her affairs in the event that the disability persists.
+[24] The benefits paid out under policy 41216787 are non-taxable because their only condition for payment is the insured’s disability, and they are paid as long as the disability lasts, regardless of whether or not her business continues to be carried on.
+[25] The benefits the appellant received under policy 40087014 and policy 41205537 are taxable and must be included in the appellant’s business income because the appellant deducted all of the operating expenses for her clinic, including those that were reimbursed by Great-West.
+IV. Legislation
+[26] The following statutory provisions are relevant to this appeal:
+Section 3: Income for taxation year
+The income of a taxpayer for a taxation year for the purposes of this Part is the taxpayer’s income for the year determined by the following rules:
+(a) determine the total of all amounts each of which is the taxpayer’s income for the year (other than a taxable capital gain from the disposition of a property) from a source inside or outside Canada, including, without restricting the generality of the foregoing, the taxpayer’s income for the year from each office, employment, business and property,
+(b) determine the amount, if any, by which
+(i) the total of
+(A) all of the taxpayer’s taxable capital gains for the year from dispositions of property other than listed personal property, and
+(B) the taxpayer’s taxable net gain for the year from dispositions of listed personal property,
+(ii) exceeds the amount, if any, by which the taxpayer’s allowable capital losses for the year from dispositions of property other than listed personal property exceed the taxpayer’s allowable business investment losses for the year,
+(c) determine the amount, if any, by which the total determined under paragraph (a) plus the amount determined under paragraph (b) exceeds the total of the deductions permitted by subdivision e in computing the taxpayer’s income for the year (except to the extent that those deductions, if any, have been taken into account in determining the total referred to in paragraph (a)), and
+(d) determine the amount, if any, by which the amount determined under paragraph (c) exceeds the total of all amounts each of which is the taxpayer’s loss for the year from an office, employment, business or property or the taxpayer’s allowable business investment loss for the year,
+and for the purposes of this Part,
+(e) where an amount is determined under paragraph (d) for the year in respect of the taxpayer, the taxpayer’s income for the year is the amount so determined, and
+(f) in any other case, the taxpayer shall be deemed to have income for the year in an amount equal to zero.
+6(1) Amounts to be included as income from office or employment
+There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable
+. . .
+(f) Employment insurance benefits – the total of all amounts received by the taxpayer in the year that were payable to the taxpayer on a periodic basis in respect of the loss of all or any part of the taxpayer’s income from an office or employment, pursuant to
+(i) a sickness or accident insurance plan,
+(ii) a disability insurance plan,
+(iii) an income maintenance insurance plan, or
+(iii.1) a plan described in any of subparagraphs (i) to (iii) that is administered or provided by an employee life and health trust,
+to or under which the taxpayer’s employer has made a contribution . . .
+Section 9: Income
+(1) Subject to this Part, a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that business or property for the year.
+Section 18: General limitations
+(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+. . .
+(h) Personal and living expenses – personal or living expenses of the taxpayer, other than travel expenses incurred by the taxpayer while away from home in the course of carrying on the taxpayer’s business;
+248(1) . . . “personal or living expenses” includes
+(a) . . .
+(b) the expenses, premiums or other costs of a policy of insurance, annuity contract or other like contract if the proceeds of the policy or contract are payable to or for the benefit of the taxpayer or a person connected with the taxpayer by blood relationship, marriage or common-law partnership or adoption, and
+(c) . . .
+V. Analysis
+[27] There is no doubt that the insurance benefits at issue were paid out under policy 40087014 and policy 41205537 and not under an out-of-court settlement of any dispute with the insurer.
+[28] There is also no doubt that the insurance benefits at issue were paid out to reimburse the appellant for part of her clinic’s overhead costs during the period of her disability and that it was essential that her clinic continue to operate in order for the benefits to be paid.
+[29] The source of the indemnification is a function of the appellant’s business expenses, which is why it is necessary to submit monthly statements of overhead costs incurred in the operation of her clinic. Consequently, since the source of the insurance benefits is the appellant’s business, the insurance benefits paid out to the appellant must be included in computing her business income.
+[30] The disability insurance benefits the appellant received are the result of the practice of her profession of dental surgeon. These benefits are not personal in nature and are intended to replace expenses associated with the operation of the appellant’s clinic, which were included in the calculation of her net income from operating the clinic and were deducted for income tax purposes.
+[31] The surrogatum principle, as stated in London and Thames Haven Oil Wharves, Ltd. v. Attwooll, [1967] 2 All E.R. 124 (C.A.) and cited by Abella J. in Tsiaprailis v. Canada, [2005] 1 S.C.R. 113 at paragraph 48, applies to the facts of this case. Under that principle, the tax treatment of disability insurance benefits depends on what the benefits are intended to replace, that being, in this case, the overhead costs of operating a dental clinic.
+[32] Great-West, as the insurer, acknowledged that the disability insurance benefits paid to the appellant under policy 40087014 and policy 41205537 were taxable and that the premiums the appellant paid under those two policies were deductible as business expenses in the calculation of her income.
+[33] The fact that the premiums the appellant paid to take out and keep in effect policy 40087014 and policy 41205537 during the years in which she did not have a disability were not deducted and the fact that these premiums were paid from the personal bank account she held with her spouse cannot change the nature of the benefits received, nor their tax treatment. Correlation between the deduction of premiums and the taxation of benefits is not an absolute principle, although in this case the premiums were deductible in the calculation of the appellant’s business income but were not deducted. It should also be noted here that for the three years at issue the appellant availed herself of waiver of premium clauses in her disability insurance policies and therefore did not pay any premiums during that period (the premiums she paid in 2009 were reimbursed).
+[34] For all of these reasons, the appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 29th day of May 2018.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 11th day of July 2019.
+Erich Klein, Revisor
+CITATION:
+2018 TCC 87
+COURT FILE NO.:
+2015-3395(IT)G
+STYLE OF CAUSE:
+Chantal Béliveau v. Her Majesty the Queen
+PLACE OF HEARING:
+Sherbrooke, Quebec
+DATE OF HEARING:
+July 5, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+May 29, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Richard Généreux
+Simon Archambault
+Counsel for the Respondent:
+Vlad Zolia
+COUNSEL OF RECORD:
+For the Appellant:
+Names:
+Richard Généreux
+Simon Archambault
+Firm:
+Services juridiques Evolex Inc.
+Ile-des-Sœurs, Quebec
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

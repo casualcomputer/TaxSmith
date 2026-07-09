@@ -1,0 +1,178 @@
+Title: MacMillan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28460/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-56-28460-macmillan-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-02-05
+
+# MacMillan v. The Queen
+
+- Citation: 2008 TCC 56
+- Decision date: 2008-02-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1193, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacMillan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-05
+Neutral citation
+2008 TCC 56
+File numbers
+2005-2914(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2914(IT)G
+BETWEEN:
+STUART A. MACMILLAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 18 and 19, 2007 at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Richard van Banning
+Counsel for the Respondent:
+H. Annette Evans
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1998 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 5th day of February 2008.
+“L.M. Little”
+Little J.
+Citation: 2008TCC56
+Date: 20080205
+Docket: 2005-2914(IT)G
+BETWEEN:
+STUART A. MACMILLAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] In 1997 the Appellant was employed by TelEnterprises ACC Limited (“ACC”).
+[2] ACC was a company involved in the communications’ business.
+[3] The Appellant was granted employee stock options by ACC.
+[4] The Appellant maintains that if the stock options were exercised by him, the shares represented by the stock options had a stock market value of approximately $400,000.00 with an exercise price of $113,996.18 (U.S. $).
+[5] On October 16, 1997 the Appellant resigned from ACC.
+[6] On November 16, 1997 the Appellant entered into a written agreement with Raffi Camci (See Exhibit A-1, Tab 1). The Agreement provided that the Appellant will sell and transfer his interest in the stock options granted to him by ACC to Raffi Camci. Raffi Camci agreed to pay the Appellant the sum of $140,000.00 (Cdn. $) for the Appellant’s interest in the stock options. The sum of $140,000.00 represented the Appellant’s salary for 12 months ($135,000.00) plus $5,000.00 in employee benefits.
+[7] In 1997 Raffi Camci was the Vice‑President of ACC (Eastern Markets).
+[8] The Appellant also entered into business arrangements with Harry Migirdic (“Migirdic”). Migirdic was a Vice-President and Financial Consultant with CIBC World Markets Inc. (“CIBC”) in Montreal.
+[9] The Appellant testified that Migirdic told him that in order to carry out the business plan that he had entered into with Raffi Camci regarding the ACC stock options, the Appellant had to be “connected with” 3095-7922 Québec Inc. (“Québec Inc.”). Québec Inc. was a company controlled by Raffi Camci.
+[10] The Appellant said that Migirdic advised him that the business arrangement with Raffi Camci also required that the Appellant’s personal securities’ accounts would guarantee the securities’ accounts of Québec Inc..
+[11] At the insistence of Migirdic, the Appellant signed a Guarantee Form with Wood Gundy (a subsidiary of CIBC World Markets) in which he agreed that his personal securities’ accounts would guarantee the securities account of Québec Inc. (See Exhibit A-1, Tab 4).
+[12] The Appellant also transferred all of his Registered Retirement Savings Plans to Migirdic at CIBC.
+[13] In May 1998, Migirdic arranged for the exercise and sale of the stock options granted by ACC which resulted in proceeds of approximately $380,000.00. The Appellant testified that the money realized on the ACC stock options was paid to Raffi Camci.
+[14] When the Appellant filed his income tax return for the 1998 taxation year, he did not report any income related to the stock options issued by ACC since he believed that he had sold all of his interest in the stock options granted by ACC to Raffi Camci.
+[15] On June 3, 2004, the Minister of National Revenue (the “Minister”) issued a Notice of Reassessment for the Appellant’s 1998 taxation year and included the following amounts in his income:
+Income from ACC stock option $448,138.00
+Interest from CIBC $8,059.00
+Stock option deduction ($112,034.00)
+Total additional income $344,163.00
+B. ISSUE
+[16] Did the Appellant receive a taxable benefit from the exercise and disposition of the ACC stock options?
+C. ANALYSIS AND DECISION
+[17] The Appellant testified at the hearing. The Appellant said that when he left his employment position with ACC in November 1997 ACC offered him two alternative packages.
+Option A:
+Six months’ salary with his stock options expiring immediately; or
+Option B:
+Six months’ salary but with his stock options extended for six months.
+[18] The Appellant testified that he originally selected Option A but he switched to Option B when Raffi Camci offered to purchase his stock options for the sum of $140,000.00.
+[19] The Appellant said that the reason that he selected Option B was that there was some risk, in his view, that the value of ACC shares would drop in value. The Appellant said that there was also a risk that the stock options would be worth less if a takeover of ACC did not occur. Furthermore, if there was a change of control of ACC, the number of shares covered by the Appellant stock options with ACC would be reduced.
+[20] The November 16, 1997 Agreement between the Appellant and Raffi Camci was filed as Exhibit A‑1, Tab 1. The Agreement reads as follows:
+In consideration of the payment detailed hereinabove, MacMillan agrees to sell, transfer and/or assign and Camci agrees to purchase all of MacMillan’s rights in his options in ACC.
+[21] Section 2.1 of the Agreement provides as follows:
+Should the ACC options which are vested in the name of MacMillan be exercised in the next six (6) months by MacMillan, the parties hereto agree that MacMillan shall immediately, upon receipt, assign the net proceeds from the aforementioned ACC options to Camci.
+[22] The Appellant said that he did not exercise the options or receive the proceeds from the options because the options were exercised by Raffi Camci and Migirdic.
+[23] After the sale of the stock options to Raffi Camci, the evidence gets somewhat confusing.
+[24] The Appellant testified that he signed a Guarantee Agreement following the advice of his Financial Advisor, Mr. Migirdic (see Exhibit A-1, Tab 4). As noted above in paragraph [9], the Appellant was advised by Mr. Migirdic that in order for the business plan that he had entered into with Raffi Camci to work he had to be connected with Raffi Camci’s company - 3095-7922 Québec Inc..
+[25] A Guarantee Agreement was provided by the Appellant to Wood Gundy to guarantee the account of Québec Inc..
+[26] The Appellant also testified that because of the Guarantee Agreement that he had provided to Wood Gundy, all of the assets transferred by the Appellant to CIBC were “wiped out” when the Guarantee was called by CIBC. In the Notice of Appeal filed with the Tax Court, the Appellant maintains that the amount of $273,661.71 was transferred from his account to the account of Québec Inc.. In addition, the Appellant maintains that he lost approximately $400,000.00 in funds held by the Registered Retirement Savings Plans that he had transferred to Migirdic at CIBC (see paragraph 3 of the Statement of Claim filed by the Appellant against CIBC and Migirdic (Exhibit R-2)).
+[27] The Appellant testified that Raffi Camci has not paid him the $140,000.00 that had been promised when the Agreement was signed.
+(Note: The documents filed with the Court indicate that Raffi Camci has claimed that he is bankrupt.)
+[28] However, the Appellant admits that he did receive the following payments from Raffi Camci:
+Received by the Appellant in 1998 - $27,500.00 Cdn.
+Received by Appellant’s Parents in 1998 - $5,600.00 U.S.
+Received by the Appellant in 1999 - $90,000.00
+[29] However, the Appellant maintains that all of the payments outlined in paragraph [28] should be applied to a previous transaction that the Appellant had entered into with Raffi Camci. This earlier transaction was referred to as the “UniDial” transaction. The Appellant said that he had not been paid by Raffi Camci for money owing in the UniDial transaction.
+[30] The Appellant stated that he discovered that Migirdic was acting in a fraudulent manner in his various financial dealings with the Appellant. The Appellant also stated that Migirdic has been subject to disciplinary action by the Investment Dealers Association of Canada (IDA).
+[31] In a Press Release dated July 9, 2004, the IDA announced that Harry Migirdic was permanently prohibited and banned for life by the IDA as a broker, dealer or in any other capacity. Mr. Migirdic was also fined $305,000.00 by the IDA and ordered to pay $55,000.00 in costs.
+[32] The Appellant also stated that because of the fraudulent actions of Migirdic he commenced a legal action against CIBC and Harry Migirdic claiming damages of $4,000,000.00 plus punitive damages in the sum of $500,000.00. The Appellant said that sometime after he commenced the Court action and after paying in excess of $100,000.00 in legal fees to his lawyer he accepted the sum of $100,000.00 from the CIBC as a settlement of the legal action.
+[33] During the hearing before the Tax Court, counsel for the Appellant filed a copy of a decision of the Honourable Justice Jean‑Pierre Senécal of the Québec Superior Court dated June 14, 2006. The decision deals with another client of a Harry Migirdic and CIBC. The Québec Court decision is Markarian v. CIBC World Markets Inc. and Harry Migirdic, [2006] Q.J. No. 5467 (Unofficial translation [2006] J.Q. No. 5467). Justice Senécal said at paragraphs 226 and 227:
+226 There is no doubt about Migirdic's fraudulent manoeuvres, nor is there any about the absence of consent on the part of the Markarians for the purposes pursued by means of P-6 and P-7 according to the terms they contain. The Markarians were, to say the least, misled by Migirdic in regard to the essential elements of the contract, and that error was more than determinative. …..
+227 Migirdic obtained the Markarians' signatures on both P-6 and P-7 by means of lies, deceit and false representations, and on false pretexts. He blatantly lied about the purpose and use of the documents he had them sign and about what would be entered on them. He had the documents signed when they were blank so that he could enter on them what he wanted, which he did. To carry out his fraud, he targeted people who were particularly inexperienced in stock market matters, who were simple, honest and trusting. He set up a veritable system (to which others besides the Markarians actually fell victim). He took numerous steps to prevent his fraud and actions from being discovered over the years. He thus engaged in many acts and lied many times in order to prevent the Markarians from discovering his fraud and deceit. He lied to the Compliance Department and invented stories to elude questions and controls. He changed the client profiles without authorization in order to increase the risk factors and assets. He constantly and on his own initiative "pushed" the risk factors in the accounts upward. He misleadingly indicated clients' investment knowledge in their profiles. He took many steps and lied to prevent the audit and control measures from being successful. He carried out transactions without mentioning them to the clients. He kept the Markarians and Mrs. Luthi in the dark about the obligations and "relationship" between them. When all is said and done, he devised a veritable conspiracy that went on for years.
+[34] In allowing the action of the Plaintiffs, Justice Senécal noted that Harry Migirdic had confessed his fraudulent actions involving Mr. and Mrs. Markarian to CIBC.
+[35] In the Markarian’s decision, at paragraph 38, Justice Senécal said:
+Let me add that the Markarians were not the only clients that Migirdic used to provide guarantees for other clients and his own account over the years. In fact, the Court was informed that other proceedings are pending in that regard.
+Note: Justice Senécal ordered the CIBC to pay substantial damages to the Plaintiffs, including $1,500,000.00 in punitive damages.
+[36] The facts in the Markarian case are very similar to the facts involving the Appellant in his dealing with Migirdic and CIBC. I found this decision to be very important since it clearly illustrates the numerous fraudulent actions that Migirdic employed in his dealing with clients such as Mr. and Mrs. Markarian and the Appellant.
+[37] Another point that must be dealt with is the fact that the Reassessment issued by the Minister was for the Appellant’s 1998 taxation year. The Reassessment was issued on June 3, 2004 and the 1998 taxation year was statute barred at that time.
+[38] Subsection 152(4) of the Act provides that where a taxpayer maintains that a particular taxation year is statute barred, the Minister must establish that the taxpayer had made a misrepresentation that is attributable to neglect, carelessness or wilful default, or has committed fraud in the filing of the return. The “failure to file” in this situation would be the failure by the Appellant to include in income the amounts received in connection with the stock options granted by ACC.
+D. CONCLUSION
+[39] After carefully considering all of the evidence, I have concluded as follows:
+(1) I found the Appellant to be a credible witness. I accept his evidence that on November 16, 1997 he entered into a valid and binding legal agreement with Raffi Camci to sell his entire interest in the stock options granted to him by ACC.
+(2) I also find that the Minister was statute barred from reassessing the Appellant with respect to the amount of $448,138.00 because the Appellant honestly believed that he had sold his interest in the ACC stock options to Raffi Camci. I also note that the Appellant maintains that he did not receive a T4 slip from ACC in connection with the stock options. The evidence indicates that if a T4 slip was issued by ACC, however, it was issued several months late and it was apparently sent to the wrong address.
+(3) The Appellant said that he received the amount of $27,500.00 (Cdn. $) and $5,600.00 (U.S. $) from Raffi Camci in 1998.
+(4) The Appellant also said that he received the amount of $90,000.00 (Cdn. $) from Raffi Camci in 1999.
+(5) I am not satisfied with the evidence provided regarding the fact that the money paid to the Appellant by Raffi Camci in 1998 and 1999 should be treated as payments for the UniDial transaction.
+(6) In my opinion, the Appellant should include in his income the following amounts regarding the ACC stock options, plus the interest:
+1998
+–
+–
+$27,500.00 Cdn. $
+$5,600.00 U.S. $
+1998
+–
+$8,059.00 – Interest from CIBC – Cdn. $
+The amount of $27,500.00 plus $5,600.00 (U.S. $) would be included in the Appellant’s income for the 1998 taxation year pursuant to paragraph 7(1)(b) of the Act and the Appellant would be allowed a deduction under paragraph 110(1)(d) of the Act.
+(7) The 1998 year was the only year under appeal and my decision only deals with the 1998 taxation year. I did not receive sufficient evidence or argument to comment on the tax treatment of the $90,000.00 that was received by the Appellant in the 1999 taxation year.
+[40] I have concluded that there is no basis in the evidence or in the jurisprudence to require the Appellant to include the amount of $344,163.00 in his income for the 1998 taxation year.
+[41] In my opinion the Appellant should have reported the above amounts in his income for the 1998 taxation year. The failure by the Appellant to report these amounts as income constitutes a misrepresentation attributable to neglect, carelessness or wilful default. The 1998 taxation year should therefore be reassessed to include the amounts of $27,500.00, $5,600.00 (U.S. $) and $8,059.00 of interest in the Appellant’s income.
+[42] I have also concluded that there is no basis for imposing penalties under subsection 163(2) of the Act since, in my opinion, the Appellant did not commit gross negligence when he failed to include the amounts referred to in paragraph [39](6) as income. In this connection I note that the Minister is held to a higher standard with respect to the penalties imposed under subsection 163(2) of the Act than with respect to the application of subsection 152(4) (the statute barred provision).
+[43] The appeal is allowed and the Minister is to issue reassessment to reflect the findings in the Reasons for Judgment. Since success has been divided between the parties, I have decided not to award costs.
+Signed at Vancouver, British Columbia, this 5th day of February 2008.
+“L.M. Little”
+Little J.
+CITATION:
+2008TCC56
+COURT FILE NO.:
+2005-2914(IT)G
+STYLE OF CAUSE:
+Stuart A. MacMillan and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 18 and 19, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+February 5, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Richard van Banning
+Counsel for the Respondent:
+H. Annette Evans
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Richard van Banning
+Firm:
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

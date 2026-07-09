@@ -1,0 +1,162 @@
+Title: Guignard c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28338/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-342-28338-guignard-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-05-05
+
+# Guignard c. La Reine
+
+- Citation: 2004 CCI 342
+- Decision date: 2004-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1890, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guignard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-05
+Référence neutre
+2004 CCI 342
+Numéro de dossier
+2003-4013(IT)APP
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-4013(IT)APP
+ENTRE :
+CAROLE GUIGNARD,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande entendue le 21 avril 2004 à Matane (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de la requérante :
+Me Edouard Côté
+Avocat de l'intimée :
+Me Pierre-Paul Trottier
+____________________________________________________________________
+ORDONNANCE
+La requérante soumet une demande pour obtenir une ordonnance prolongeant le délai dans lequel un appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu en date du 2 mars 2001 et portant le numéro 19975 peut être interjeté;
+Au soutien de sa demande, la requérante a soumis diverses explications pour justifier la non-production d'un avis d'appel dans les délais prescrits. Les explications soumises ne sont pas recevables pour les motifs exposés ci-après.
+La demande est rejetée.
+Signé à Ottawa, Canada, ce 5e jour de mai 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI342
+Date : 20040505
+Dossier : 2003-4013(IT)APP
+ENTRE :
+CAROLE GUIGNARD,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Tardif
+[1] La requérante a soumis une demande en prorogation de délai pour interjeter appel; elle a appuyé sa demande sur les faits suivants :
+1. Il prend note du paragraphe 1 de l'avis d'appel.
+2. Il admet les faits allégués aux paragraphes 2, 3 et 4 de l'avis d'appel.
+3. Il ignore les faits allégués aux paragraphes 5 et 6 de l'avis d'appel.
+4. Il admet le fait allégué au paragraphe 7 de l'avis d'appel.
+5. Il nie les faits allégués aux paragraphes 8, 9 et 10 de l'avis d'appel.
+6. En date du 2 mars 2001, le Ministre du Revenu national (ci-après, le «Ministre») a expédié à la requérante un avis de nouvelle cotisation portant le numéro 19975.
+7. Le ou vers le 31 mai 2001, la requérante a signifié au Ministre son opposition à l'égard de la nouvelle cotisation datée du 2 mars 2001 portant le numéro 19975.
+8. Par courrier recommandé expédié par la poste en date du 28 novembre 2001, le Ministre a avisé la requérante qu'il confirmait la nouvelle cotisation datée du 2 mars 2001 portant le numéro 19975.
+9. La requérante n'a pas interjeté appel auprès de la Cour canadienne de l'impôt dans le délai prescrit, qui se terminait le 26 février 2002, par le paragraphe 169(1) de la Loi de l'impôt sur le revenu (ci-après, la «Loi»), relativement à la nouvelle cotisation datée du 2 mars 2001, ratifiée le 28 novembre 2001.
+10. Le 4 novembre 2003, la requérante a déposé auprès de la Cour canadienne de l'impôt une demande de prorogation de délai pour interjeter appel, relativement à l'avis de nouvelle cotisation daté du 2 mars 2001 portant le numéro 19975.
+11. L'intimée soutient que la demande devrait être rejetée pour les motifs suivants:
+a) la demande de la requérante n'a pas été présentée dans l'année suivant l'expiration du délai imparti en vertu de l'article 169, conformément à l'exigence de l'alinéa 167(5)a) de la Loi;
+b) la requérante n'a pas démontré que, durant le délai imparti pour déposer son avis d'appel, elle n'avait pu ni agir ni charger quelqu'un d'agir en son nom, conformément aux exigences du sous‑alinéa 167(5)b)(i) de la Loi;
+c) la requérante n'a pas démontré que, durant le délai imparti pour déposer son avis d'appel, elle avait véritablement l'intention d'interjeter appel, conformément aux exigences du sous‑alinéa 167(5)b)(i) de la Loi;
+d) les raisons indiquées et les circonstances ne sont pas telles qu'il serait juste et équitable de rendre une ordonnance prorogeant le délai d'appel au sens du sous-alinéa 167(5)b)(ii) de la Loi;
+e) la requérante n'a pas démontré que la demande a été présentée dès que les circonstances le permettaient, au sens du sous‑alinéa 167(5)b)(iii) de la Loi.
+[2] Lors de son témoignage, la requérante a expliqué avoir prêté une somme de 20 000 $ à monsieur Yves Beaulieu pour lui permettre d'acheter un immeuble en 1995. Le 2 mai 1997, Yves Beaulieu est dans l'impossibilité de faire face à ses dettes; il transfère à la requérante l'immeuble grevé d'une hypothèque de l'ordre de 58 000 $. En mars 2001, la requérante vend le même immeuble 123 000 $; elle réalise ainsi un profit intéressant.
+[3] Après le transfert de mai 1997, l'intimée cotise la requérante en vertu de l'article 160 de la Loi de l'impôt sur le revenu (« Loi »). La cotisation fait l'objet d'une opposition soumise par le procureur de la requérante. Le 26 novembre 2001, un avis de ratification est adressé tant à la requérante qu'à son procureur. La cotisation, au montant de 52 754,96 $, regroupe les composantes suivantes :
+Impôt fédéral
+25 612,63 $
+Pénalités
+13 054,78 $
+Intérêts
+14 087,55 $
+52 754,96 $
+[4] Occupant un emploi de maîtresse de poste, la requérante a expliqué qu'elle croyait que l'avis de ratification signifiait que tout était réglé et qu'elle ne devait plus rien. Elle ne communique pas avec son avocat et son avocat ne la contacte pas non plus. Les mois passent et, le 2 juin 2003, soit près de deux ans plus tard, la requérante reçoit une lettre dont le contenu est le suivant :
+Objet: Cotisation en vertu du paragraphe 160(1) LIR à l'égard d'un transfert de propriété entre Yves Beaulieu et Carole Guignard
+Numéro de l'avis de cotisation: 19975
+Solde: 52 754,96 $
+Madame,
+Suite à l'examen de votre opposition, une lettre vous a été envoyée le 28 novembre 2001 disant que la cotisation 19975 était maintenue. Cependant, nos dossiers indiquent que le solde de votre compte n'a pas encore été payé.
+Nous vous prions de bien vouloir nous faire parvenir le montant total dans les 15 jours de la présente, sinon nous nous verrons dans l'obligation d'engager des poursuites judiciaires sans autre avis.
+Si vous avez déjà payé ce montant, veuillez ne pas tenir compte du présent avis. Toutefois, si votre paiement remonte à plus de 15 jours, veuillez nous en fournir le détail le plus tôt possible.
+Veuillez agréer, Madame, nos salutations distinguées.
+[5] Elle prend connaissance de la lettre et affirme avoir été convaincue qu'il s'agissait là d'une simple erreur. Elle avise alors son ami Beaulieu qui lui confirme qu'il s'agit d'une erreur.
+[6] Elle ne communique pas avec son avocat qui a préparé l'avis d'opposition. De plus, elle affirme ne pas avoir fait de démarches pour vérifier quoi que ce soit à cause de son travail qui commence tôt le matin et se termine après les heures habituelles de bureau; finalement, elle indique ne jamais faire d'appels personnels durant ses heures de travail.
+[7] Les mois passent et, le 3 septembre 2003, elle reçoit une autre lettre (pièce A-3) dont le contenu est le suivant :
+Madame,
+Objet : Cotisation en vertu du paragraphe 160(1) LIR à l'égard d'un transfert de propriété entre Yves Beaulieu et Carole Guignard
+Numéro de l'avis de cotisation : 19975
+Solde : 52 754,96 $
+Nos dossiers indiquent que vous n'avez toujours pas payé le solde de 52 754,96 $ de votre compte, même si nous avons déjà porté cette dette à votre attention.
+Nous vous prions de nous faire parvenir le montant total immédiatement.
+Si vous ne payez pas le montant complet d'ici 7 jours, nous pourrions engager des poursuites judiciaires sans autre avis.
+Si vous avez déjà payé ce montant, veuillez accepter nos remerciements et ne pas tenir compte de cet avis. Toutefois, si votre paiement remonte à plus de 15 jours, veuillez nous fournir des détails pour que nous puissions créditer votre compte.
+Veuillez agréer, Madame, Monsieur, nos salutations les meilleures.
+[8] À la réception de cette lettre, elle réagit; elle affirme avoir conclu qu'il ne devait pas s'agir d'une erreur parce que le délai accordé pour payer était très court. Elle communique avec son ami et son avocat, le même qui a préparé l'avis d'opposition. Cette fois, elle fournit ses quatre numéros de téléphone permettant de la rejoindre en tout temps, y compris à son travail.
+[9] Il y a lieu de souligner que l'un des numéros est celui d'un cellulaire et un des autres est celui du téléphone du bureau où elle travaille comme maîtresse de poste. Il semble que la requérante était disposée, à recevoir un appel sur les lieux de son travail.
+[10] Par suite de la demande de paiement du 3 septembre 2003, une demande de prorogation de délai est formellement soumise le 3 novembre 2003, soit près de deux ans après la ratification de la cotisation le 28 novembre 2001 et deux mois après le dernier avis de paiement.
+Analyse
+[11] La requérante voudrait pouvoir interjeter appel de la cotisation de 52 754,96 $, et cela, après l'écoulement d'un délai de près de deux ans sous prétexte qu'elle n'a pas compris la signification du mot « ratification » dans un premier temps et qu'elle n'a pas jugé utile de s'informer.
+[12] La requérante est maîtresse de poste; elle a donc ou doit avoir un certain sens de l'initiative d'autant plus que l'avis de ratification expliquait d'une façon fort explicite l'obligation de la requérante. De plus, comment expliquer et surtout comprendre qu'elle n'ait pas communiqué avec son avocat? Chose encore plus surprenante, comment comprendre que l'avocat ne l'ait pas contactée pour lui expliquer la situation? Il y a là des questions fort importantes; les réponses débordent ma compétence.
+[13] La demande de prorogation de délai pour interjeter appel fait référence à des faits qui, non seulement ne confirment pas le témoignage de la requérante mais, au contraire, le contredisent. Je fais notamment référence au paragraphe 5 qui se lit comme suit :
+5. Or, suite à la réception de la décision relative à l'avis de ratification par le Ministre, l'appelante a cru de bonne foi que son procureur avait interjeté appel devant la Cour canadienne de l'impôt;
+[14] Au paragraphe 6, il est fait mention de ce qui suit :
+6. Ce n'est qu'à la réception de l'avis de paiement en date du 3 septembre 2003 que l'appelante a compris que le dossier n'avait pas été porté en appel et n'était pas réglé;
+[15] Lors de son témoignage, la requérante a reconnu avoir reçu la première demande de paiement datée non pas du 3 septembre mais bien du 2 juin; son explication est à l'effet qu'elle était certaine qu'il s'agissait d'une erreur. Le paragraphe 6 a donc été rédigé comme si l'avis du 2 juin n'avait jamais existé.
+[16] La requérante voudrait que le tribunal tienne pour acquis que la date pour le calcul du délai d'appel soit, non pas la date de la ratification de la cotisation, mais la date de la dernière lettre reçue le 3 septembre 2003.
+[17] Quatre paragraphes plus loin, soit au paragraphe 11, elle reconnaît que sa demande est hors délai. L'admission est rédigée comme suit :
+11. L'appelante demande à cette honorable cour de l'autoriser à interjeter appel de l'avis de ratification par la Ministre émis le 28 novembre 2001 bien qu'elle soit hors de tout délai et ce, afin d'éviter que lui soit causé un préjudice irréparable;
+[18] Pour des motifs s'appuyant, selon elle, sur l'équité, la requérante demande, en réalité, à ce tribunal d'absoudre négligence, insouciance et incurie. Je ne crois pas qu'il s'agisse là de fondements valables pour une demande basée sur l'équité.
+[19] Je rappelle en terminant que la Cour canadienne de l'impôt doit appliquer la Loi et, en l'espèce, il n'y a aucun doute possible que la Loi commande le rejet de la demande de la requérante puisqu'elle est hors délai et qu'il s'agit d'un délai de rigueur.
+[20] La demande de prorogation de délai est donc rejetée.
+Signé à Ottawa, Canada, ce 5e jour de mai 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI342
+No DU DOSSIER DE LA COUR :
+2003-4013(IT)APP
+INTITULÉ DE LA CAUSE :
+Carole Guignard c. Sa Majesté La Reine
+LIEU DE L'AUDIENCE :
+Matane (Québec)
+DATE DE L'AUDIENCE :
+Le 21 avril 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+Le 5 mai 2004
+COMPARUTIONS :
+Pour l'appelant(e) :
+Me Edouard Côté
+Pour l'intimé(e) :
+Me Pierre-Paul Trottier
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Me Edouard Côté
+Étude :
+Guay, Côté, Desaulniers, Ouellet
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

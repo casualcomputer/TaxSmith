@@ -1,0 +1,107 @@
+Title: Air Liquide Canada Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27704/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-165-27704-air-liquide-canada-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-05-26
+
+# Air Liquide Canada Inc. v. The Queen
+
+- Citation: 2004 TCC 165
+- Decision date: 2004-05-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 457, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Air Liquide Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-26
+Neutral citation
+2004 TCC 165
+File numbers
+2003-3570(GST)APP
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Reference: 2004TCC165
+Date: 20040526
+Docket: 2003-3570(GST)APP
+BETWEEN:
+AIR LIQUIDE CANADA INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+AMENDED REASONS FOR ORDER
+McArthur J.
+[1] This is an application to extend the time, under section 305 of the Excise Tax Act (the “Act”), for appealing from an assessment.
+[2] Based on the facts, the Respondent made a reassessment on or about May 16, 2003. The Applicant objected to this assessment. Meetings were held between the Applicant and its agents prior to May 16, 2003, in order to prepare the objection to this reassessment before the Tax Court of Canada.
+[3] The Applicant did not appeal to the Court within the time period prescribed by section 306 of the Act, namely, within 90 days after the day on which the Notice of Reassessment was sent to it. The application before the Court was made 53 after the expiry of the time period. Subsection of the Act reads as follows:
+305(5) No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Part for appealing; and
+(b) the person demonstrates that
+(i) within the time otherwise limited by this Part for appealing,
+(A) the person was unable to act or to give a mandate to act in the person's name, or
+(B) the person had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted it to be made, and
+(iv) there are reasonable grounds for appealing from the assessment.
+[4] All of these conditions must be fulfilled. The conditions set out in paragraph 305(5)(a) and subparagraph 305(5)(b)(i) definitely have been met. I accept the Applicant’s statement that one of the business’s external accountants/tax specialists had communicated his intention to retain the services of Lavery, de Billy to file the Notice of Appeal required to challenge the Notice of Reassessment resulting from the Minister’s decision with respect to the Notice of Objection and that this communication did take place before the decision regarding the objection was rendered, as supported by the affidavit of Mr. Patrice Forget, a chartered accountant, filed as Exhibit R-2 in support of the application for extension.
+[5] Ms. Lisa Fluet, the Applicant’s internal tax specialist, had asked Samson Bélair/Deloitte & Touche to handle the matter of protecting the Applicant’s rights following the decision regarding the objection, as supported by the affidavit filed as Exhibit R-3 in support of the request for extension.
+[6] Given the reasons set out in the application and the circumstances in this case, I conclude that it is just and equitable to grant the Applicant’s application. The application was filed as soon as circumstances allowed.
+[7] The request for an extension to appeal from the assessment includes the following statements, as set out in paragraph D:
+[Translation]
+1. With respect to the time period, case law appears to establish that there is no prejudice to the Crown in allowing the extension.
+2. In the case overall, we believe that it is in the interest of justice to allow the extension.
+3. The Applicant could appeal as of right to this honourable Court from the Notice of Reassessment resulting from the Minister’s decision.
+4. If not for a misunderstanding between the Applicant’s accountants and the Applicant’s internal tax specialist, the Applicant’s appeal would have been filed within the prescribed timeframe.
+5. Refusal to grant this application would unduly penalize the Applicant and prevent it from exercising its rights and would not be in the interest of justice.
+[8] The Applicant states that the issue is based on the decision of this honourable Court in La Brasserie Labatt Limitée v. The Queen, docket 2000-4443(GST)I, a decision rendered on August 24, 2001.
+[9] The arguments raised by the Respondent in paragraph 16 of the Reply to the Application for an Extension of Time to file an appeal include the following:
+[Translation]
+The Respondent maintains that the application must be dismissed because the Applicant does not provide any reasons why the appeal was not filed within the prescribed timeframe, contrary to one of the conditions set out in subsection 305(5) of the Act to allow the application, namely, the condition provided for at subparagraph 305(5)(b)(ii) of the Act, which refers implicitly to subsection 305(2) of the Act.
+[10] The Agents for the Applicant are experienced in tax matters, and I am persuaded that the grounds for appeal are not frivolous. I find that there are reasonable grounds for the appeal and that the condition set out in subparagraph 305(5)(b)(iv) of the Act has been fulfilled.
+[11] Therefore, the application is allowed.
+Signed at Ottawa, Canada, this 26th day of May 2004.
+“C.H. McArthur”
+McArthur J.
+Certified true translation
+Colette Dupuis-Beaulne
+REFERENCE:
+2004TCC165
+COURT FILE No.:
+2003-3570(GST)APP
+STYLE OF CAUSE:
+Air Liquide Canada Inc. and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+December 12, 2003
+AMENDED REASONS FOR ORDER BY:
+The Honourable Judge C.H. McArthur
+DATE OF ORDER:
+February 6, 2004
+APPEARANCES:
+For the Appellant:
+Philip Nolan
+For the Respondent:
+Josée Lemieux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Lavery, de Billy
+Firm:
+Montréal, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

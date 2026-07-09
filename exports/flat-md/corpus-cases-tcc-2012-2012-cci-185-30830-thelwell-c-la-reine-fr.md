@@ -1,0 +1,164 @@
+---
+title: "Thelwell c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30830/index.do"
+last_modified: "2012-06-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 185"
+citation2: ""
+neutral_citation: "2012 CCI 185"
+decision_date: "2012-06-07"
+language: "fr"
+item_id: "30830"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7389
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:35:25.005000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ad5371e969c374dfe00b2ef501ccc7397a3d408d7d4888ffb10c49751b145554"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Thelwell c. La Reine
+
+- Citation: 2012 CCI 185
+- Decision date: 2012-06-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7389, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thelwell c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-06-07
+Référence neutre
+2012 CCI 185
+Numéro de dossier
+2011-3158(GST)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011‑3158(GST)I
+ENTRE :
+JUNIOR GEORGE THELWELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Tina Thelwell (2011‑3159(GST)I) le 12 avril 2012, à London (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Représentant de l’appelant :
+M. Peter Tindall
+Avocat de l’intimée :
+Me Paul Klippenstein
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 19 août 2009, pour la période du 1er janvier 2008 au 31 décembre 2008, est rejeté, sauf en ce qui concerne les crédits de taxe sur les intrants supplémentaires de 578,17 $ admis par la Couronne au début de l’audience, conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 7e jour de juin 2012.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 5e jour de septembre 2012.
+S. Tasset
+Dossier : 2011‑3159(GST)I
+ENTRE :
+TINA THELWELL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Junior George Thelwell (2011‑3158(GST)I) le 12 avril 2012, à London (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Représentant de l’appelante :
+M. Peter Tindall
+Avocat de l’intimée :
+Me Paul Klippenstein
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 6 août 2010, pour la période du 1er janvier 2008 au 31 décembre 2008, est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 7e jour de juin 2012.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 5e jour de septembre 2012
+S. Tasset
+Référence : 2012 CCI 185
+Date : 20120607
+Dossiers : 2011‑3158(GST)I
+2011‑3159(GST)I
+ENTRE :
+JUNIOR GEORGE THELWELL,
+TINA THELWELL,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Monsieur Junior Thelwell exploitait une petite entreprise de messagerie sous le nom de Discount Courier Services. Ses livraisons étaient effectuées dans les régions du Sud et du Sud‑Ouest de l’Ontario. En 2008, ses revenus déclarés tirés de son entreprise atteignaient un peu plus de 100 000 $ et il sous‑traitait pour environ 5 000 $ de travaux que lui confiaient ses clients et qu’il n’était pas en mesure d’accomplir.
+[2] Son épouse, Mme Tina Thelwell, travaillait pour l’entreprise. Elle s’occupait de la gestion des contrats, des écritures et de tâches administratives, notamment la réception des commandes d’expédition des clients, la tenue de registres pour les véhicules et pour les commandes et, de façon générale, elle tenait les livres et les documents de l’entreprise.
+[3] En 2007, les Thelwell ont commencé à s’adresser à un nouveau spécialiste en déclarations de revenus, M. Rudolfo (Rudy) Terracina. Ce dernier exploitait une entreprise qui remplissait les déclarations de revenus et offrait des conseils en matière fiscale sous le nom de « Doctor Tax ». Selon la preuve présentée en l’espèce, notamment le témoignage et les documents des Thelwell et le témoignage de M. Terracina, il semble que le terme « Doctor » était employé comme verbe (le verbe anglais « to doctor » ayant le sens de falsifier, manipuler) et non comme titre. À l’insu des Thelwell, M. Terracina avait antérieurement plaidé coupable à des accusations de fraude fiscale sous le régime de la Loi de l’impôt sur le revenu et de la Loi sur la taxe d’accise et il avait été condamné à une peine de trois ans d’emprisonnement à purger dans un établissement fédéral pour fraude fiscale parce qu’il avait frauduleusement rempli les déclarations de revenus d’autres clients. Il a également été condamné pour fabrication de fausses dépenses devant être déduites dans les déclarations de revenus de ses clients. Dans l’affaire dont je suis saisi, il semble qu’il ait repris ses anciennes habitudes. Malheureusement, peut‑être, pour les Thelwell, il ne suffit pas, pour être spécialiste en matière fiscale, de se présenter comme tel.
+[4] En l’espèce, les déclarations de revenus pour 2008 des Thelwell ont été mises en preuve. Elles ont été remplies par M. Terracina. Ni ce dernier, ni aucun des Thelwell n’a été en mesure d’expliquer les sommes déduites. Junior Thelwell a affirmé, et cela est crédible, qu’il ne s’agissait pas de son domaine de responsabilité, que cette tâche était confiée à son épouse et qu’elle s’était adressée à M. Terracina, de sorte que ces derniers devraient pouvoir fournir les explications nécessaires. Tina Thelwell a affirmé que les chiffres avaient été réunis et établis par M. Terracina et qu’il fallait donc s’enquérir de ces questions auprès de lui. Dans son témoignage, M. Terracina s’en est remis à Tina Thelwell parce que c’est elle qui lui avait fourni tous les renseignements, qu’il n’a pas, selon ses dires, vérifiés. À la lumière des réponses qu’il a données aux questions qui lui ont été posées, il semble qu’il ne lui soit pas venu à l’esprit de vérifier si les sommes déduites satisfaisaient à tout le moins à des critères préliminaires en ce qui concerne ce qui est raisonnable ou acceptable.
+[5] Heureusement, je ne suis pas saisi des questions d’impôt sur le revenu des Thelwell pour 2008. Les appels intéressent uniquement leurs demandes de crédits de taxe sur les intrants (« CTI ») au titre de la TPS relative à des dépenses liées à l’entreprise de Discount Courier Services et, dans le cas de Tina Thelwell, la TPS à payer au titre d’améliorations apportées à une résidence qu’ils ont maintenant vendue, la TPS à payer au titre de la nouvelle résidence qu’ils ont achetée ainsi que la TPS payée au titre du coût d’achat de deux véhicules qu’elle a acquis, mais qu’elle mettait à la disposition de l’entreprise Discount Courier Services de son mari.
+[6] Pour ajouter à la situation fiscale difficile dans laquelle ils se trouvent après avoir suivi les conseils de M. Terracina et la méthode de déclaration qu’il leur a recommandée, les Thelwell ont choisi l’un de ses collaborateurs ou collègues occasionnels, M. Peter Tindall, pour les représenter dans le cadre de leurs appels en matière de TPS entendus selon la procédure informelle. M. Tindall se fait passer pour une personne habile à agir comme représentant des contribuables dans les appels en matière de TPS instruits selon la procédure informelle. Malheureusement, il ne semblait pas savoir qu’il incombe aux contribuables d’établir leur droit à l’allégement de la taxe demandé, il n’avait pas prévu qu’il serait nécessaire de présenter en preuve des pièces justificatives quant à l’un ou l’autre des aspects de l’entreprise ni apprécié la valeur de ce genre de documents, il n’a même pas produit une quelconque ventilation des dépenses engagées et encore moins un réel relevé des dépenses présenté dans un document s’apparentant à un grand livre général ou d’authentiques reçus d’achats pour les dépenses. M. Tindall n’a présenté aucun élément de preuve quant aux améliorations apportées à l’ancienne maison ou à quoi que ce soit d’autre se rapportant à celle‑ci ni en ce qui concerne l’acquisition de la nouvelle demeure. Il ne possède aucune formation, aucune expérience ni aucun titre dans le domaine du droit ou des techniques juridiques. Son expérience de travail antérieure relevait d’un domaine non connexe.
+[7] Les Canadiens sont libres de choisir qui ils veulent pour les représenter dans le cadre des appels entendus selon la procédure informelle, et le droit de choisir englobe le droit de faire un mauvais choix. Malheureusement pour les Thelwell, il semble que, par suite de leur choix, la preuve était carrément insuffisante pour me permettre de conclure, selon la prépondérance des probabilités, que les dépenses sous‑jacentes au titre desquelles ils ont demandé des CTI ont même été réellement supportées et encore moins qu’elles étaient liées à l’entreprise. Aucun document ni élément de preuve n’a été produit au soutien de l’allégation voulant que la TPS relative aux dépenses se rapportant à la maison des Thelwell doive donner lieu à un CTI ou être par ailleurs remboursable. De même, je ne suis saisi d’aucun argument ou élément de preuve touchant la très vague prétention fondée sur la Charte canadienne des droits et libertés (la « Charte ») qu’a avancée M. Tindall dans les avis d’appel. Comme il fut expliqué à ce dernier au début de l’audience, la Cour n’a aucune compétence pour entendre ni son allégation d’intimidation et d’abus de la part de l’Agence du revenu du Canada (l’« ARC ») dans le cadre de la vérification ni sa réclamation relative au coût subi par les contribuables pour se conformer à celle‑ci. Comme il n’a pas déposé une preuve suffisante pour permettre à ses clients de s’acquitter du fardeau de la preuve qui leur incombait, et comme il n’a présenté aucune preuve ni aucun argument à l’appui de la prétention fondée sur la Charte ou de la déduction d’un CTI au titre des résidences, les appels doivent être rejetés, sous réserve uniquement de la concession relative à la somme de 578,17 $ faite par la Couronne au début de l’audience en ce qui a trait à l’appel de Junior Thelwell.
+[8] Je n’ai aucune raison de ne pas croire les Thelwell lorsqu’ils affirment que Junior Thelwell exploitait l’entreprise Discount Courier Services, que les deux véhicules acquis par Tina Thelwell l’ont été pour servir principalement dans le cadre de l’entreprise de messagerie, mais que c’est elle qui les a achetés parce que sa cote de solvabilité était plus avantageuse que celle de son mari, et que Tina Thelwell travaillait réellement pour l’entreprise Discount Courier Services de son mari. Cette preuve est toutefois bien insuffisante au regard de celle nécessaire pour établir l’existence d’un droit au montant des CTI demandé par les Thelwell et refusé par l’ARC.
+[9] Il semble que les Thelwell ne soient pas complètement étrangers à leur situation actuelle. Premièrement, ils ont choisi la personne qui a rempli leurs déclarations de revenus, ils ont choisi de suivre ses conseils et ils ont choisi de signer les déclarations remplies par cette personne même si, comme l’a précisé M. Terracina, les dépenses de l’entreprise paraissaient avoir explosé en 2008 et même s’ils demeuraient incapables d’expliquer comment cela avait pu se produire ou en quoi consistaient ces déductions.
+[10] Deuxièmement, ils ont choisi M. Tindall pour les représenter dans le cadre de la présente affaire, sur la recommandation, ou à tout le moins avec le soutien, de M. Terracina.
+[11] Je ne puis par ailleurs ajouter foi au témoignage de Tina Thelwell voulant que les deux sous‑baux qu’elle a conclus avec l’entreprise de son mari aient été établis en 2003 et en 2008. Il peut paraître étrange, dans les présentes circonstances, qu’ils soient tous deux libellés de façon identique. Mme Thelwell a reconnu que les documents n’avaient que récemment été imprimés et signés, mais elle a affirmé qu’ils existaient bel et bien et qu’elle les avait à sa disposition sous forme électronique depuis 2003 et 2008. Les documents stipulent tous deux que le sous‑bail est consenti à Discount Courier Services Inc. Or, cette entreprise n’a été constituée en société qu’au cours de 2007, sur la recommandation de M. Terracina. Il m’est absolument impossible d’admettre qu’une dénomination sociale ait été utilisée en 2003 relativement à une entreprise qui n’a été constituée en société qu’en 2007.
+[12] Je signale en outre que les explications offertes par les trois témoins étaient en grande partie incompatibles et contradictoires. Personne ne pouvait expliquer les montants des dépenses et de la perte consécutive inscrites par Tina Thelwell dans son état des résultats des activités d’une profession libérale au titre des services de gestion qu’elle fournissait à l’entreprise de son mari. Personne ne pouvait expliquer pourquoi les revenus qu’elle avait tirés de la sous‑location à bail des automobiles ne semblaient pas figurer dans cet état des résultats ni pourquoi cette somme n’a pas, quoi qu’il en soit, été inscrite sur la page réservée aux revenus dans la déclaration si, comme il l’a laissé entendre, M. Terracina doit avoir joint une autre annexe à l’état des résultats des activités d’une entreprise pour les revenus et les dépenses liés à la location. Les parties ne pouvaient s’entendre sur le rôle, s’il en est un, joué par la nouvelle société Discount Courier Services Inc. en 2008 en ce qui touche l’entreprise individuelle Discount Courier Services de Junior Thelwell alors même que des frais de gestion de 24 000 $ ont été payés à cette société selon le témoignage de M. Terracina et la déclaration remplie par ce dernier. Personne ne pouvait expliquer pourquoi les fournitures de bureau et les frais de bureau déduits au titre de l’entreprise de messagerie de Junior Thelwell et de l’entreprise de services de gestion de Tina Thelwell excédaient 20 000 $. Et personne ne pouvait expliquer quel genre de frais de déplacement totalisant plus de 5 000 $ ont bien pu être engagés par Junior Thelwell pour l’hébergement et les repas dans le cadre de son entreprise qui fait des livraisons locales le jour même.
+[13] Ce ne sont là que quelques exemples des raisons pour lesquelles je ne puis considérer aucune des sommes déduites comme ayant été engagée ou comme raisonnable si elle a été engagée. À mon avis, la preuve ne permet donc pas d’établir que les dépenses sous‑jacentes au titre desquelles les Thelwell ont demandé des CTI en l’espèce ont été réellement engagées ou qu’elles se rapportaient à une quelconque entreprise ou activité commerciale. Dans ces circonstances, il m’est tout simplement impossible d’accepter le témoignage de l’un ou l’autre des trois témoins, à moins qu’il ne soit corroboré par des pièces justificatives dignes de foi, concomitantes et satisfaisantes, lesquelles font défaut au regard des questions en litige dans la présente affaire.
+[14] Pour ces raisons, l’appel de Tina Thelwell est rejeté et l’appel de Junior Thelwell est également rejeté, sauf en ce qui concerne la somme de 578,17 $ admise par la Couronne au début de l’audience.
+Signé à Toronto (Ontario), ce 7e jour de juin 2012.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 5e jour de septembre 2012.
+S. Tasset
+RÉFÉRENCE : 2012 CCI 185
+NOS DES DOSSIERS DE LA COUR : 2011‑3158(GST)I, 2011‑3159(GST)I
+INTITULÉS : Junior George Thelwell et SMR, et Tina Thelwell et SMR
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 12 avril 2012
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 7 juin 2012
+COMPARUTIONS :
+Représentant des appelants :
+M. Peter Tindall
+Avocat de l’intimée :
+Me Paul Klippenstein
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

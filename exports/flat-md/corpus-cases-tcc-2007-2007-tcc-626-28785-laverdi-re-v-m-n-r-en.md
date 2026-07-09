@@ -1,0 +1,153 @@
+---
+title: "Laverdière v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28785/index.do"
+last_modified: "2007-10-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 626"
+citation2: ""
+neutral_citation: "2007 TCC 626"
+decision_date: "2007-10-26"
+language: "en"
+item_id: "28785"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1506
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:36:21.635000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a8d6827413f0333618c971306c5a60a4bfa552bb4e178f5888f22ed5621a4f4b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Laverdière v. M.N.R.
+
+- Citation: 2007 TCC 626
+- Decision date: 2007-10-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1506, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laverdière v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-26
+Neutral citation
+2007 TCC 626
+File numbers
+2006-3182(EI)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-3182(EI)
+BETWEEN:
+ANDRÉ LAVERDIÈRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on September 20, 2007, at Jonquière, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for appellant:
+Éric Lebel
+Counsel for respondent:
+Marie-Claude Landry
+JUDGMENT
+The appeal from the decision of the Minister of National Revenue to the effect that André Laverdière did not hold employment under a contract of service within the meaning of paragraph 5(1)(a) of the Employment Insurance Act and did not hold insurable employment from April 8, 2002, to August 10, 2002, while working for Robert Dumas is dismissed without costs in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of October 2007.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 31st day of January 2008
+Michael Palles, Reviser
+Citation: 2007CCI626
+Date: 20071026
+Docket: 2006-3182(EI)
+BETWEEN:
+ANDRÉ LAVERDIÈRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from a decision of the Minister of National Revenue (the "Minister") on May 15, 2006, concerning the insurability of Mr. Laverdière's employment with Robert Dumas from April 8, 2002, to August 10, 2002 (the "period in question").
+[2] The Minister concluded that Mr. Laverdière was not an employee of Robert Dumas during the period in question because the requirements of a contract of service within the meaning of paragraph 5(1)(a) of the Employment Insurance Act, S.C. 1996, C-23, as amended (the "Act"), were not met, and accordingly there was no employer–employee relationship.
+Facts
+[3] On December 13, 2001, Mr. Laverdière registered the corporate name "Bar le Foxy" and began operating the bar a short time thereafter. The bar, which had been closed for some time, belonged to Gaston Bonneau, who also held the liquor licence. During his testimony, Mr. Laverdière stated having contracted a $5,000 loan from Robert Dumas to open the bar and having instructed Mr. J.-P. Lévesque, a lawyer, to submit an application for a liquor licence.
+[4] As Mr. Laverdière feared not being able to obtain his liquor licence because of his criminal record, Mr. Dumas registered the corporate name "Bar le Foxy" on March 1, 2002, and continued operating the bar. The transfer of the ownership of the bar, if there was any such transfer, to Mr. Dumas, was not confirmed in any document and was allegedly made in exchange for the cancellation of the $5,000 loan mentioned in the preceding paragraph. Mr. Dumas obtained the liquor licence required to operate the bar in March 2002.
+[5] During the period in question, Mr. Laverdière worked at the bar as a manager and was paid $600 per week.
+[6] On August 12, 2002, Bar le Foxy/Robert Dumas issued a record of employment in Mr. Laverdière's name, which showed that the first day worked was April 8, 2002, and the last day worked was August 10, 2002.
+[7] In a statutory declaration dated May 25, 2005, Mr. Laverdière stated that he continued rendering services for approximately 30 hours per week at Bar le Foxy from August 11, 2002, to May 10, 2003, and was paid $64 per week, in addition to receiving room and board.
+[8] In October 2003, Mr. Dumas allegedly re-sold Bar le Foxy to Mr. Laverdière for $10,000, and Mr. Laverdière obtained his liquor licence during that same month. No document showing this transfer of ownership was submitted.
+[9] According to the unaudited financial statements of Bar le Foxy for the fiscal years ending December 31, 2001, December 31, 2002, and December 31, 2003, prepared by the firm of chartered accountants of Raymond Chabot Grant Thornton, Mr. Laverdière held 100% of the bar in 2001, 17% in 2002 and 25% in 2003, while Robert Dumas held 0% in 2001, 83% in 2002 and 75% in 2003. The apportioning of the net operating loss of Bar le Foxy for each of the periods was made on the basis of the equity interest percentages stated above.
+[10] In his income tax returns for 2002 and 2003, Mr. Laverdière reported business income and operating losses from Bar le Foxy in a proportion of 17% for 2002 and 25% for 2003.
+[11] In his income tax returns for 2002 and 2003, Robert Dumas reported business income and operating losses for Bar le Foxy in a proportion of 83% for 2002 and 75% for 2003.
+Respondent's position
+[12] The respondent determined that Mr. Laverdière's employment was excluded from insurable employment under paragraph 5(2)(i) of the Act during the period in question when he was employed by Robert Dumas because Mr. Laverdière was operating the bar in partnership with Robert Dumas.
+[13] As a partner of Robert Dumas, Mr. Laverdière worked for himself, and the services he rendered were not performed under the direction or control of another person as required under article 2085 of the Civil Code of Québec, which defines the contract of employment. Therefore, Mr Laverdière was not an employee as defined in subsection 2(1) of the Act.
+Appellant's position
+[14] Mr. Laverdière submits that he was not a partner of Robert Dumas during the period in question and that the bar had been operated by him and by Mr. Dumas respectively, each one in turn as a 100% owner.
+[15] Guylaine Simard, an accounting technician, testified and confirmed that she knew Mr. Laverdière and Robert Dumas and that she had done the bookkeeping at the bar from December 2001.
+[16] Ms. Simard confirmed that from December 2001 to February 2002, Mr. Laverdière was the sole owner of the bar, and that she had obtained tax and source deduction numbers for the bar's operation.
+[17] Ms. Simard confirmed that from March 1, 2002, to December 31, 2002, and from January 1, 2003, to October 2003, Robert Dumas was 100% owner of the bar. She confirmed having made source deductions, income tax and tax remittals and having issued T-4 statements to the employee(s) for each of the periods during which Mr. Laverdière was the owner and for each of the periods during which Robert Dumas was the owner.
+[18] Ms. Simard confirmed that from March 1, 2002, the cheque signing authorities for the bar were Robert Dumas and his spouse.
+[19] Ms. Simard stated that she had given Marc Lévesque, a chartered accountant at Raymond Chabot Grant Thornton, documents showing operating results for the periods of December 2001; January 1, 2002, to February 28, 2002; March 1 to December 31, 2002; and January 1, 2003, to October 2003. The statement of earnings for January 1, 2002, to February 28, 2002, bore the handwritten note "André" in the upper section. This document was submitted as Exhibit A-3.
+[20] Ms. Simard stated that it was only in 2003 that she realized that the accountant had combined the results of the bar's operations for all of 2002 and had apportioned the profits and losses between Mr. Laverdière and Robert Dumas.
+[21] Ms. Simard stated that she brought this mistake to the attention of accountant Marc Lévesque, but he refused to amend the bar's financial statements because of the cost and the lack of consequences that this would entail.
+Analysis
+[22] Article 2186 of the Civil Code of Québec defines the contract of partnership as follows:
+2186. A contract of partnership is a contract by which the parties, in a spirit of cooperation, agree to carry on an activity, including the operation of an enterprise, to contribute thereto by combining property, knowledge or activities and to share any resulting pecuniary profits.
+[23] In my opinion, the essential elements of the contract of partnership, namely, intention, the combining of property, knowledge or activities and, finally, the sharing of any resulting pecuniary profits, are present in this case.
+[24] Robert Dumas provided the capital, and Mr. Laverdière took care of managing the bar. The financial statements of the bar and the income tax returns of Mr. Laverdière and Robert Dumas confirm that the losses incurred in operating the bar were apportioned.
+[25] I do not believe that the accountant Lévesque made a mistake in preparing the bar's financial statements for the year 2002. It should be noted that in spite of Ms. Simard's comments to the effect that the 2002 financial statements were not accurate and did not reflect reality, the accountant Lévesque did not have the presentation of the bar's operating results for the years 2002 and 2003 changed. I conclude that that the bar's financial statements for the years 2002 and 2003 did indeed reflect the existing relationship between Mr. Laverdière and Robert Dumas and were in compliance with the parties' intentions.
+[26] Considering the preceding, I conclude that Mr. Laverdière was not an employee of Robert Dumas and did not hold insurable employment during the period in question. Accordingly, the appeal is dismissed, and the Minister's decision is upheld.
+Signed at Ottawa, Canada, this 26th day of October 2007.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 31st day of January 2008
+Michael Palles, Reviser
+CITATION: 2007TCC626
+COURT FILE NO.: 2006-3182(EI)
+STYLE OF CAUSE: André Laverdière and M.N.R.
+PLACE OF HEARING: Jonquière, Quebec
+DATE OF HEARING: September 20, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: October 26, 2007
+APPEARANCES:
+Counsel for appellant
+Éric Lebel
+Counsel for respondent:
+Marie-Claude Landry
+SOLICITORS OF RECORD:
+For the appellant:
+Name: Éric Lebel
+Firm: Fradette, Gagnon, Têtu, Le Bel, Potvin
+Chicoutimi, Quebec
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

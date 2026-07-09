@@ -1,0 +1,188 @@
+---
+title: "Valovic v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/484816/index.do"
+last_modified: "2020-09-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 101"
+citation2: ""
+neutral_citation: "2020 TCC 101"
+decision_date: "2020-09-03"
+language: "en"
+item_id: "484816"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4562
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:03:35.087000+00:00"
+cases_cited_count: 6
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "49c0b93b7369e3f6c8db1312d4b4c679b70d221f33852951f9bfce40e1fea7b4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Valovic v. The Queen
+
+- Citation: 2020 TCC 101
+- Decision date: 2020-09-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4562, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Valovic v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-09-03
+Neutral citation
+2020 TCC 101
+File numbers
+2017-1910(IT)G, 2017-1911(IT)G
+Judges and Taxing Officers
+Siobhan Monaghan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-1910(IT)G
+BETWEEN:
+DAGMAR VALOVIC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2017-1911(IT)G
+AND BETWEEN:
+IVAN VALOVIC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on August 20, 2020 at Toronto, Ontario
+Before: The Honourable Justice K.A. Siobhan Monaghan
+Appearances:
+Counsel for the Appellants:
+Jason Rosen,
+Arad Moslehi
+Counsel for the Respondent:
+Julien Wohlhuter
+JUDGMENT
+In accordance with the attached reasons for judgment:
+1. The appeals made under the Income Tax Act with respect to Assessment No. 3235738 dated June 11, 2015 (Court File No. 2017-1910(IT)G), and Assessment No. 3235723 dated June 11, 2015 (Court File No. 2017‑1911(IT)G), are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the underlying liability in respect of each of the assessments is reduced to $86,848.04; and
+2. The Respondent is awarded a single set of costs in these appeals. The parties have 30 days from the date of this judgment to agree on the amount of costs, failing which the parties shall have a further 20 days to make submissions on costs, such submissions not to exceed 10 pages.
+Signed at Ottawa, Canada, this 3rd day of September 2020.
+“K.A. Siobhan Monaghan”
+Monaghan J.
+Citation: 2020 TCC 101
+Date: 20200903
+Docket: 2017-1910(IT)G
+BETWEEN:
+DAGMAR VALOVIC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2017-1911(IT)G
+AND BETWEEN:
+IVAN VALOVIC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Monaghan J.
+I. INTRODUCTION
+[1] Ivan and Dagmar Valovic are married and are equal shareholders of Ivan’s Electric Limited (the “Corporation”), a corporation created in 1979 when the sole proprietorship carried on by Ivan Dagmar was incorporated. The Corporation paid dividends to the Valovics each year between 1998 and 2013, inclusive. Relying on section 160 of the Income Tax Act (Canada) (the “Act”), the Minister of National Revenue (the “Minister”) issued third party assessments dated June 11, 2015 to each of the Valovics. That is, the Minister has assessed the Valovics as jointly and severally liable with the Corporation for amounts the Corporation owes under the Act (the “tax debt”) because the Corporation transferred property to them (the dividends) when the Corporation had the tax debt. The Corporation’s tax debt is comprised of taxes, interest and penalties in respect of its taxation years ended April 30, 1995, 1997 to 2000, and 2013.
+[2] The Valovics objected to the assessments but they were confirmed on February 17, 2017 and so the Valovics are appealing to this Court.
+II. BACKGROUND FACTS
+[3] The parties filed a Partial Agreed Statement of Facts and four witnesses testified at the appeal. However, there is no significant dispute regarding the facts.
+[4] Both Ivan and Dagmar Valovic were employees, [1] shareholders and directors of the Corporation in all of the relevant years. The Corporation provided electrical services primarily to residential customers, but also to commercial and industrial customers. The Corporation’s success was attributable to the Valovics’ work and effort.
+[5] Ivan Valovic is an electrician and was responsible for the electrical work undertaken by the Corporation including preparing estimates, dealing with the Electrical Safety Authority, scheduling the work, arranging for permits, purchasing materials and dealing with other utilities where necessary (for example, to locate the gas and water lines). He was available 24/7. The Corporation sometimes employed other electricians and apprentice electricians for its operations, particularly for larger engagements, but Ivan Valovic was the face of the business and responsible for its operations.
+[6] Dagmar Valovic was responsible for the Corporation’s administrative work including taking phone calls, taking messages, dealing with the mail, sorting supplies, banking and bookkeeping.
+[7] Neither Ivan nor Dagmar Valovic prepared their own income tax returns or the Corporation’s income tax returns. Their accountant, Mr. Ron Hill, was responsible for preparing the income tax returns. They relied on Mr. Hill for more than 30 years.
+[8] From 1995 to 1997, the Valovics received salaries from the Corporation. In 1998, the Corporation commenced paying the Valovics dividends as well, and with the exception of 2004, the Valovics received dividends from the Corporation every year until 2013. However, in each year from 1997 to 2012, the Valovics also earned employment income and/or business income from the Corporation. Thus, over the period from 1998 to 2013, the Valovics derived a combination of employment income, business income and/or dividend income from the Corporation. The only year in which they derived dividend income only was 2013.
+[9] The Valovics stated that the mix of payments they received from the Corporation was determined by Mr. Hill, but suggested all payments were intended to be compensation for their services to the Corporation. Ivan Valovic stated Mr. Hill presented him with a T4 or T5 and advised him what tax he had to pay. Dagmar Valovic said she did not know why the nature of the payments from the Corporation changed from salary only to a combination of dividends and other payments.
+[10] Mr. Hill said that dividends are subject to lower tax than employment income and therefore if the Corporation had retained earnings it was advantageous to pay dividends to the Valovics which they could use for their own purposes. As he put it, when the Corporation had retained earnings, tax has already been paid by the Corporation on those funds and so it made sense to pay amounts out as dividends. He also suggested the change from salaries to self-employment income (i.e., business income) [2] was made to increase the Valovics’ Canada Pension Plan entitlements and that, from his point of view, both salary and self-employment income were income and whether characterized as salary or self-employment income made no difference. He said that each year he and the Valovics would discuss the nature of the amounts to be paid by the Corporation to the Valovics.
+III. ISSUE
+[11] The parties agree that three of the four conditions that must be satisfied before section 160 applies are satisfied:
+1. The Valovics do not dispute that the Corporation has a liability under the Act that remains unpaid – see subparagraph 160(1)(e)(ii);
+2. The Valovics do not dispute that the Corporation transferred property to them at a time when the Corporation had a tax debt outstanding – see preamble of subsection 160(1); and
+3. The Valovics do not dispute that they do not deal at arm’s length with the Corporation – see subparagraph 160(1)(a)(iii).
+[12] The dispute concerns the fourth condition under section 160 – did the Valovics provide consideration for the property transferred to them by the Corporation? If so, did the fair market value of that consideration exceed the fair market value of the property transferred to them by the Corporation?
+[13] In these appeals, the property transferred that the Minister points to is the dividends paid by the Corporation to Ivan and Dagmar Valovic in each of the 1998 to 2013 calendar years. [3] The payment of dividends is a transfer of property for purposes of section 160, [4] but the Valovics argue that the dividends they received were part of the compensation paid for services they provided to the Corporation in the years the dividends were paid. Thus, they argue, they gave consideration (their services) for the dividends and that consideration had a fair market value at least equal to the dividends they were paid.
+[14] In other words, the Valovics assert that the Corporation paid for their services through a combination of salary, business income and/or dividends and that, while the mix of those three components of remuneration received in any particular year changed, in all cases the aggregate amounts paid to them by the Corporation was consideration for the services they provided. Any change in the mix of payments was a function of tax advice they received from their accountant and was made for tax planning purposes.
+IV. ANALYSIS
+[15] The evidence that the dividends paid to the Valovics were partial consideration for their services to the Corporation was not very strong. The Valovics testified they deferred entirely to Mr. Hill regarding the nature of the payments they received. Mr. Hill testified that dividends were paid because there were tax-paid earnings available to the Corporation, suggesting that the dividends were not part of the consideration for services in the years paid. Rather, in my view, his testimony suggests compensation for their services was a combination of salaries and self-employment income. However, even if I accept that the Valovics reduced the amount of employment income and increased the amount of dividends, and that all payments were made because of the services they provided, the appeals must fail.
+[16] In Neuman v MNR, [5] the Supreme Court of Canada stated that a dividend is related to shareholding, and not to any other consideration the shareholder might have provided. It did so in the context of discussing McClurg, [6] a decision the Supreme Court of Canada had rendered a few years earlier. In doing so the Supreme Court stated as follows:
+[57] Dickson C.J. [in McClurg] seemed to be of the view that the character of a shareholder’s dividend income is to be determined by that shareholder’s level of contribution to the corporation. This approach ignores the fundamental nature of dividends; a dividend is a payment which is related by way of entitlement to one’s capital or share interest in the corporation and not to any other consideration. Thus, the quantum of one’s contribution to a company, and any dividends received from that corporation, are mutually independent of one another. La Forest J. made the same observation in his dissenting reasons in McClurg (at p. 1073):
+With respect, this fact is irrelevant to the issue before us. To relate dividend receipts to the amount of effort expended by the recipient on behalf of the payor corporation is to misconstrue the nature of a dividend. As discussed earlier, a dividend is received by virtue of ownership of the capital stock of a corporation. It is a fundamental principle of corporate law that a dividend is a return on capital which attaches to a share, and is in no way dependent on the conduct of a particular shareholder.
+[Emphasis added.]
+[58] Dickson C.J.’s finding that Wilma McClurg’s contributions to the corporation resulted in the dividend being consideration for her efforts rather than a “benefit” as required by s. 56(2) opened the door to his obiter comments which have led to some confusion . . . [7]
+[17] While the Neuman case dealt with the consequences of a dividend payment under subsection 56(2), since that decision was rendered, this Court and the Federal Court of Appeal have consistently rejected the argument that consideration may be given for dividends, including in the context of section 160. [8] These decisions accepted and endorsed the view expressed in Neuman that dividends relate to shareholding and rejected the argument that there was consideration for the dividends. [9] I see no reason to take a different view in these appeals.
+[18] Although the Valovics argue their circumstances might be viewed as somewhat different than some other cases, I do not see any meaningful distinction. In fact, the Valovics’ circumstances might be viewed as less sympathetic than some of the other cases in which the only consideration for services was said to be dividends. The Valovics received salary and/or business income from the Corporation as well as dividends in every year from 1998 to 2012 inclusive. [10] The amounts of salary and business income were not insignificant. Although they received only dividends in 2013, the cases are clear that dividends are not consideration for any services they may have provided.
+[19] The Appellants argue that I should allow their appeals on a basis that accords what their counsel described as the economic realities and that is consistent with the principle that a taxpayer is entitled to structure his or her affairs in a manner that minimizes tax. I cannot accept this argument. Having decided to transform what the Valovics now wish to characterize as consideration for services rendered into a dividend for any reason, including tax advantages, the Valovics must accept the consequences of that decision. [11] Put another way, the Valovics’ liability is determined in this case based on what they did, not what they might have done.
+V. CONCLUSION:
+[20] The Respondent conceded that the underlying liability of the Corporation should be reduced to $86,848.04. Thus, the appeals are allowed and the assessments are referred back to the Minister for reconsideration and reassessment on the basis that the Valovics’ assessments under section 160 each should be reduced to $86,848.04.
+[21] The Respondent seeks and is awarded a single set of costs in these appeals. The parties have 30 days from the date of this judgment to agree on the amount of costs, failing which the parties have a further 20 days to make submissions on costs, such submissions not to exceed 10 pages.
+Signed at Ottawa, Canada, this 3rd day of September 2020.
+“K.A. Siobhan Monaghan”
+Monaghan J.
+CITATION:
+2020 TCC 101
+COURT FILE NO.:
+2017-1910(IT)G
+2017-1911(IT)G
+STYLE OF CAUSE:
+DAGMAR VALOVIC v. HER MAJESTY THE QUEEN
+IVAN VALOVIC v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 20, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice K.A. Siobhan Monaghan
+DATE OF JUDGMENT:
+September 3, 2020
+APPEARANCES:
+Counsel for the Appellants:
+Jason Rosen,
+Arad Moslehi
+Counsel for the Respondent:
+Julien Wohlhuter
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Jason Rosen
+Firm:
+Rosen Kirshen Tax Law
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Partial Agreed Statement of Facts states they were employees until 2012. However, they were directors in all of the relevant years and therefore were employees of the Corporation in 2012 and 2013 for purposes of the Act. See definitions of “employee” and “office” in subsection 248(1) of the Act.
+[2] This is the only testimony that explained the business income aspect of the earnings derived by the Valovics from the Corporation.
+[3] The Minister has not suggested the salaries or business income the Valovics received give rise to a liability under section 160.
+[4] Algoa Trust v. Canada [1993] 1 CTC 2294 (TCC), aff’d Feb. 4, 1998 (FCA)(Docket A-201-93).
+[5] [1998] 1 SCR 770.
+[6] [1990] 3 SCR 1020.
+[7] Supra, note 5, at paras 57 and 58.
+[8] Prior to the Neuman case, this Court suggested consideration could be given for dividends. See Davis v. Canada, [1994] T.C.J. No. 242 (Q.L.), relying on the McClurg case. The Davis case has been criticized and, given the Neuman decision, in my view it is not relevant to these appeals.
+[9] See, for example, Larouche v The Queen 2010 FCA 32 [the Appellant unsuccessfully argued the consideration was the capital contributed for the shares and the release of the debt created when the dividend was declared]; Algoa Trust v. Canada, supra, note 4 (Q.L.) [the Appellant unsuccessfully argued the consideration was the capital paid to acquire the shares]; 155579 Canada Inc. v. Canada [1997] 1 CTC 2011 (TCC) [the Appellant unsuccessfully argued the consideration was services rendered]; Gosselin v. Canada [1997] 2 CTC 2830 (TCC) [the Appellant unsuccessfully argued the consideration was services rendered]; Pauzé v. Canada 1998 CanLII 536 (TCC) [the Appellant unsuccessfully argued the consideration was services rendered]; Gazaille v. Canada 2001 CanLII 825 (TCC) [the Appellant unsuccessfully argued the consideration was services rendered]; Cote v. The Queen [2003] 4 CTC 2064 (TCC) [the Appellant unsuccessfully argued the consideration was services rendered]; Therrien v. The Queen 2005 CanLII 92642 (TCC) [the Appellant unsuccessfully argued the consideration was services rendered and/or a reduction in the value of his shares]; Gilbert v. The Queen 2005 TCC 672, aff’d 2007 FCA 136, leave to appeal to SCC refused 32630 (September 20,2007) [the Appellant unsuccessfully argued the consideration was reduction in value of shareholder’s shares]; Piuze v. The Queen 2002 CanLII 47039 (TCC) [the Appellant unsuccessfully argued the consideration was services rendered]; Gestion Andre Pomerleau Inc. v. The Queen 2008 TCC 539 [the Appellant unsuccessfully argued the consideration was services rendered]; Duchaine v. The Queen 2015 TCC 245 [the Appellant unsuccessfully argued the consideration was services rendered]; and Kufsky v. The Queen 2019 TCC 254 [the Appellant unsuccessfully argued the consideration was services rendered].
+[10] Paragraph 13 of the Partial Agreed Statement of Facts.
+[11] Gestion Andre Pomerleau, supra, note 9, at para 22.

@@ -1,0 +1,220 @@
+Title: Zachary v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521209/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-8-521209-zachary-v-the-king-en.md
+Document type: case_law
+Last modified: 2024-01-24
+
+# Zachary v. The King
+
+- Citation: 2024 TCC 8
+- Decision date: 2024-01-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5661, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zachary v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-01-23
+Neutral citation
+2024 TCC 8
+File numbers
+2020-211(IT)APP
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2020-211(IT)APP
+BETWEEN:
+LOUIS ZACHARY,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Application heard on June 26, 2023 at Hamilton, Ontario
+Before: The Honourable Justice Ronald MacPhee
+Appearances:
+Agent for the Applicant:
+Wilfred Davey
+Counsel for the Respondent:
+Payton Tench
+ORDER
+UPON hearing from the parties;
+AND in accordance with the attached Reasons for Order, the application for an extension of time to file a Notice of Objection with respect to the Applicant’s 2014, 2015, 2016 and 2017 taxation years is dismissed, without costs.
+Signed at Ottawa, Canada, this 23rd day of January 2024.
+“R. MacPhee”
+MacPhee J.
+Citation: 2024 TCC 8
+Date: 20240123
+Docket: 2020-211(IT)APP
+BETWEEN:
+LOUIS ZACHARY,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+MacPhee J.
+I. FACTS NOT AT ISSUE [1] Louis Zachary (the “Applicant”) is applying for an order for an extension of time to object under the Income Tax Act (the “Act”)[1] for the 2014, 2015, 2016 and 2017 taxation years.
+[2] The Applicant is a Registered Indian pursuant to section 2(1) of the Indian Act. He is a member of the Haudenosaunee Iroquois Confederacy located in the Mohawk Territory of the Haudenosaunee Territory.
+[3] On June 4, 2015, the Minister assessed the Applicant’s 2014 taxation year and issued a notice of assessment (the “2014 Assessment”).[2]
+[4] On October 16, 2019, the Applicant filed a notice of objection in respect to the 2014 Assessment (the “2014 Objection”), over four years after the 2014 Assessment was issued.[3]
+[5] On November 26, 2019, the Minister wrote a letter to the Applicant stating that the 2014 Objection was filed late, and pursuant to paragraph 166.1(7) of the Act, their objection could not be granted or accepted.[4]
+[6] On January 20, 2020, the Applicant filed this application for an extension of time to file notices of objection for the 2014, 2015, 2016, and 2017 taxation years (the “Extension Application”).[5]
+II. ISSUES [7] Do the procedural requirements in order to object to an assessment, as set out in the Act, apply to the Applicant? If they do, am I able to grant the Extension Application?
+III. THE APPLICANT’S POSITION [8] The Applicant claims he paid income taxes in 2014, 2015, 2016, and 2017. He states that this tax was paid in error and thus he should be entitled to a refund.[6]
+[9] The Applicant appears to be making two main arguments. The first argument being that, pursuant to section 35 of the Constitution Act[7], the Act is not applicable to him (neither requiring him to pay income tax, nor to be bound by the provisions of the Act concerning the filing of an objection to an assessment).
+[10] The Applicant also argues that Treaty Indians are not citizens nor residents of Canada and thus he is not required to pay income tax.[8] In aid of this argument, the Applicant references various treaties.[9]
+IV. THE RESPONDENT’S POSITION [11] The Minister asserts that the Applicant’s 2014 Objection was filed late.[10]
+[12] Furthermore, the Minister states that no objection was ever filed in relation to the 2015, 2016, and 2017 taxation years.[11]
+[13] On March 4, 2020, the Respondent submitted an affidavit from Theresa Chichmanian (the “Affidavit”), an Officer in the Montreal Tax Services Office of the CRA.[12]
+[14] The Affidavit states that one of the conditions to filing an application with the Court for an extension of time for serving notices of objection with respect to the Applicant’s 2015, 2016, and 2017 taxation years has not been met pursuant to subsection 166.2 of the Act, as no objections were filed in those years.[13]
+[15] The Respondent takes issues with what he describes as the constitutional arguments raised by the Applicant. Specifically, the Respondent argues that the presence of a constitutional argument at the application stage is irrelevant, as the only question before the Court relates to the filing of the objection, whereas the merits of the constitutional arguments would be addressed in a subsequently filed notice of appeal.[14]
+[16] Furthermore, the Respondent argues that the Applicant has not articulated their constitutional challenge, and absent the Applicant following the proper procedures for bringing a constitutional challenge, their constitutional argument cannot move forward.[15]
+[17] The Respondent argues that the Applicant must fully articulate the constitutional question, serve a Notice of Constitutional Question in accordance with subsection 57(1) of the Federal Courts Act[16], and ensure there is a full evidentiary record in respect of the identified question. The Respondent argues the Applicant has not met any of these three criteria.[17]
+V. APPLICABLE LAW AND LEGAL ANALYSIS [18] In the following analysis, the term Indian is used, which is a subset of the term Aboriginal People, as it has legal meaning under the Indian Act[18] and the Constitution Act[19].
+[19] Indian is defined in section 2(1) of the Indian Act.
+Indian means a person who pursuant to this Act is registered as an Indian or is entitled to be registered as an Indian;
+[20] Section 35(2) of the Constitution Act reads:
+35(2) Definition of "aboriginal peoples of Canada"
+In this Act, "aboriginal peoples of Canada" includes the Indian, Inuit and Métis peoples of Canada.
+[21] The Applicant argues that as a Registered Indian, he is not a citizen nor a resident of Canada, and therefore the procedural requirements under the Act are not applicable to him.[20]
+[22] It must be noted that the representative for the Applicant, during hearings on November 22, 2022, and June 26, 2023, stated the Applicant was not making a constitutional challenge. The Applicant states at paragraph (D) of the Notice of Appeal that:
+The Income Tax Act applies to Canadian Residents, not Hausdenoshaune Iroquois Confederacy Treaty Indians. Mr. Louis Zachery is not Canadian Resident or United States Citizen therefore, he is exempt from paying Income Tax.
+[23] Although the Applicant states that he is not advancing a constitutional question, the thrust of what he is asserting in at least one of his arguments is that subsection 35(1) of the Constitution Act exempts him from paying income tax under the Act, and further the application of the Act as a whole is inapplicable to him. Although not formulated as a constitutional question, what the Applicant is challenging in this hearing is the applicability of sections 166.1 and 166.2 of the Act to Registered Indians, based on subsection 35(1) of the Constitution Act.
+[24] In Thompson v. MNR[21], Justice Trudel of the Federal Court of Appeal stated that the need for a notice of constitutional question is linked to the remedy sought by a party. If an applicant does not seek a finding that the provisions of an act are invalid, inapplicable, or inoperative, then no notice is required.
+67 The need for a notice of constitutional question is linked to the remedy sought by a party: Mikisew Cree First Nation v. Canada (Minister of Canadian Heritage), 2004 FCA 66, [2004] 3 F.C.R. 436 (F.C.A.). Section 57 of the Federal Courts Act states that the constitutional validity, applicability, or operability of an Act of Parliament shall not be judged unless notice has been served. Neither in his Notice of Appeal nor in the Order Sought section of his memorandum of fact and law does the appellant seek a finding that the provisions of the Act under which the Minister acted in this case are invalid, inapplicable or inoperable as required by section 57. As a result, it is not necessary to address the question raised in the notice of constitutional question.
+[25] Based upon the above analysis, it is clear that at least part of the Applicant’s argument comes by way of advancing a Constitutional question. Specifically, the Applicant is arguing that the provisions of the Act are inapplicable to him as a Status Indian. I must therefore determine whether the Applicant has met the requirements to make such an argument to the Court.
+[26] In order to advance a Constitutional question, the Applicant must have filed a Notice of Constitutional Question pursuant to section 19.2 of the Tax Court of Canada Act, RSC 1985 c T-2. This Notice must clearly identify the Constitutional question in issue. This has not been done. Therefore I will not rule upon the Constitutional question. Even if I were to allow the Constitutional argument to proceed, there is no evidence before the Court that supports the argument.
+A. Citizens and Residents of Canada
+[27] The Applicant’s second argument is that Treaty Indians are not citizens of Canada, and as such he does not have to pay taxes.
+[28] In considering this argument, the first question that must be answered is whether Status Indians are citizens of Canada[22].
+[29] In Mitchell v. MNR[23], the respondent was a Mohwak of Akwesasne and descendant of the Mohawk Nation. The respondent had crossed the Canada/US border and refused to pay custom tax, arguing that an aboriginal right existed that exempted him from paying duty. Then Supreme Court Chief Justice McLachlin discussed the history of aboriginal people in Canada and the entrenchment of their rights in the Constitution Act.
+9. Long before Europeans explored and settled North America, aboriginal peoples were occupying and using most of this vast expanse of land in organized, distinctive societies with their own social and political structures. The part of North America we now call Canada was first settled by the French and the British who, from the first days of exploration, claimed sovereignty over the land on behalf of their nations. English law, which ultimately came to govern aboriginal rights, accepted that the aboriginal peoples possessed pre-existing laws and interests, and recognized their continuance in the absence of extinguishment, by cession, conquest, or legislation: see, e.g., the Royal Proclamation, 1763, R.S.C. 1985, App. II, No. 1, and R. v. Sparrow, [1990] 1 S.C.R. 1075 (S.C.C.), at p. 1103. At the same time, however, the Crown asserted that sovereignty over the land, and ownership of its underlying title, vested in the Crown: Sparrow, supra. With this assertion arose an obligation to treat aboriginal peoples fairly and honourably, and to protect them from exploitation, a duty characterized as "fiduciary" in Guerin v. R., [1984] 2 S.C.R. 335 (S.C.C.).
+10. Accordingly, European settlement did not terminate the interests of aboriginal peoples arising from their historical occupation and use of the land. To the contrary, aboriginal interests and customary laws were presumed to survive the assertion of sovereignty, and were absorbed into the common law as rights, unless (1) they were incompatible with the Crown's assertion of sovereignty, (2) they were surrendered voluntarily via the treaty process, or (3) the government extinguished them: see B. Slattery, "Understanding Aboriginal Rights" (1987), 66 Can. Bar Rev. 727. Barring one of these exceptions, the practices, customs and traditions that defined the various aboriginal societies as distinctive cultures continued as part of the law of Canada: see Calder v. British Columbia (Attorney General), [1973] S.C.R. 313 (S.C.C.), and Mabo v. Queensland (No. 2) (1992), 175 C.L.R. 1 (Australia H.C.), at p. 57 (per Brennan J.), pp. 81-82 (per Deane and Gaudron JJ.), and pp. 182-83 (per Toohey J.).
+11. The common law status of aboriginal rights rendered them vulnerable to unilateral extinguishment, and thus they were "dependent upon the good will of the Sovereign": see St. Catharines Milling & Lumber Co. v. R. (1888), 14 App. Cas. 46 (Canada P.C.), at p. 54. This situation changed in 1982, when Canada's constitution was amended to entrench existing aboriginal and treaty rights: Constitution Act, 1982, s. 35(1). The enactment of s. 35(1) elevated existing common law aboriginal rights to constitutional status (although, it is important to note, the protection offered by s. 35(1) also extends beyond the aboriginal rights recognized at common law: Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010 (S.C.C.), at para. 136). Henceforward, aboriginal rights falling within the constitutional protection of s. 35 could not be unilaterally abrogated by the government. However, the government retained the jurisdiction to limit aboriginal rights for justifiable reasons, in the pursuit of substantial and compelling public objectives: see R. v. Gladstone, [1996] 2 S.C.R. 723 (S.C.C.), and Delgamuukw, supra.
+[Emphasis added.]
+[30] Grand Chief Mitchell’s claim of an aboriginal right was dismissed, as the Supreme Court found that he had not shown the right existed. Justice Binnie, concurring in result, went on to quote Justice Dickson (as he then was) and state that Indians are citizens of Canada, subject to all the responsibilities of other Canadian citizens.
+132 […] In other respects however, the respondent and other aboriginal people live and contribute as part of our national diversity. So too in the Court's definition of aboriginal rights. They find their source in an earlier age, but they have not been frozen in time. They are, as has been said, rights not relics. They are projected into modern Canada where they are exercised as group rights in the 21st century by modern Canadians who wish to preserve and protect their aboriginal identity.
+133 In the earlier years of the century the federal government occasionally argued that Parliament's jurisdiction under s. 91(24) of the Constitution Act, 1867 ("Indians, and Lands reserved for the Indians") was plenary. Indians were said to be federal people whose lives were wholly subject to federal "regulation". This was rejected by the courts, which ruled that while an aboriginal person could be characterized as an Indian for some purposes including language, culture and the exercise of traditional rights, he or she does not cease thereby to be a resident of a province or territory. For other purposes he or she must be recognized and treated as an ordinary member of Canadian society. In a decision handed down soon after the coming into force of the Constitution Act, 1982, Nowegijick v. R., [1983] 1 S.C.R. 29 (S.C.C.), a tax case, Dickson J. (as he then was) wrote at p. 36," Indians are citizens and, in affairs of life not governed by treaties or the Indian Act, they are subject to all of the responsibilities of other Canadian citizens". See also Birth Registration No. 67-09-022272, Re, [1976] 2 S.C.R. 751 (S.C.C.), per Laskin C.J. at p. 763, and R. v. Tenale, [1985] 2 S.C.R. 309 (S.C.C.), per Beetz J., at p. 326. In Gladstone (at para. 73) and again in Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010 (S.C.C.) (at para. 165), Lamer C.J. repeats that "distinctive aboriginal societies exist within, and are a part of, a broader social, political and economic community, over which the Crown is sovereign" (emphasis added). The constitutional objective is reconciliation not mutual isolation.
+[Emphasis added.]
+[31] The Applicant’s argument that he is not a citizen of Canada must fail.
+B. Subject to Procedural Requirements
+[32] The next question is, as a citizen of Canada, is the Applicant subject to the procedural requirements under the Act? This must be answered in the affirmative.
+[33] The scenario before the Court is almost on all fours with the decision in Horseman,[24] in which the Applicant was seeking an extension of time to appeal a GST assessment where the request was made outside of the statutorily mandated timelines. The Applicant also sought to raise constitutional arguments.
+[34] The Court in that instance had to decide whether the Act’s prerequisite provisions for filing of a notice of appeal, including temporal and procedural limitations, applied notwithstanding that the prospective Applicant’s intended argument was that the Act was unconstitutional in its application to Indians. The application was denied on the basis that the Applicant had not fulfilled the prerequisite provisions for filing a notice of appeal, regardless of the prospective argument of the appeal being based on constitutional grounds.
+[35] On appeal, the Federal Court of Appeal upheld Justice Russel’s decision and stated that procedural provisions apply and must be obeyed even where the constitutional rights and treaty rights of Indigenous peoples are asserted.[25]
+3. In dismissing the appellant's application, the Tax Court found (at para. 37) that the appellant had not filed a valid objection to the assessment, a statutory prerequisite for an appeal to the Court, and was now out of time. Further, the Tax Court held (at para. 24) that the provisions of the Act concerning objections and appeals apply even where a person intends to raise arguments based on the constitutional rights of Indigenous peoples. In this regard, the Tax Court emphasized (at para. 23) that the appellant was making "a private claim [...], seeking monetary relief in respect of his personal tax situation." The appellant appeals to this Court.
+4. In our view, the appeal must fail. In private, personal claims such as this, procedural and jurisdictional provisions apply and must be obeyed even where the constitutional rights and treaty rights of Indigenous peoples are asserted: Wewaykum Indian Band v. Canada, 2002 SCC 79, [2002] 4 S.C.R. 245; Canada (Attorney General) v. Lameman, 2008 SCC 14[2008] 1 S.C.R. 372 at para. 13; Manitoba Métis Federation Inc. v. Canada (Attorney General), 2013 SCC 14[2013] 1 S.C.R. 623 at para. 134. This case law is a subset of a larger body of case law requiring that those asserting personal, private claims founded upon constitutional rights must still comply with statutory limitation periods and other procedural and jurisdictional requirements: see, e.g., R. v. Mills, [1986] 1 S.C.R. 863 (S.C.C.) at page 953; Ravndahl v. Saskatchewan, 2009 SCC 7, [2009] 1 S.C.R. 181 ; St-Onge c. R., 2001 FCA 308, 288 N.R. 3; Newman v. R., 2016 FCA 213, 406 D.L.R. (4th) 602 and the many cases cited therein.
+5. The appellant notes that the exemption from taxation contained in subsection 87(1) of the Indian Act, R.S.C. 1985, c. I-5 opens with the words "[n]otwithstanding any other Act of Parliament...". He submits that this means that the procedural and jurisdictional requirements in the Excise Tax Act do not apply.
+6. We disagree. The opening words of section 87 prevent other Acts of Parliament imposing taxes contrary to the substantive exemption granted by section 87. They do not displace procedural and jurisdictional requirements such as where, when and how a proceeding is to be brought. Were it otherwise, what would stop a person from going directly to the Supreme Court of Canada at any time, perhaps a decade or more later, to claim the section 87 exemption at first instance?
+7. The Tax Court was correct in concluding that the application for an extension of time to file a notice of appeal must be dismissed. The Tax Court has jurisdiction over such an application only where the requirements of the Excise Tax Act, above, ss. 301-307 are met, including the requirement that a valid notice of objection be filed: Tax Court of Canada Act, R.S.C. 1985, c. T-2, s. 12. One was not filed here.
+8. We see no reviewable error in the Tax Court's findings of fact and substantially agree with the legal analysis of the Tax Court as it pertains to those facts (at paras. 25-42).
+[Emphasis added.]
+[36] Therefore, in order to be successful in this Application, Mr. Zachary must have met the procedural requirements of the Act, concerning the filing of a Notice of Objection. This is considered below.
+C. Extension Application
+[37] I must now determine whether to accept this Extension Application and thus allow the Applicant to file his various objections past the normal 90-day objection period.
+[38] Subsection 165(1) of the Act reads as follows:
+165 (1) A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) if the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a graduated rate estate for the year, on or before the later of
+(i) the day that is one year after the taxpayer’s filing-due date for the year, and
+(ii) the day that is 90 days after the day of sending of the notice of assessment; and
+(b) in any other case, on or before the day that is 90 days after the day of sending of the notice of assessment.
+[Emphasis added.]
+[39] The Applicant did not meet the 90-day objection period. The notice of assessment for the 2014 taxation year was dated June 4, 2015. The Applicant objected to the 2014 taxation year on October 16, 2019, 1,596 days later.
+[40] The Applicant, if he wished to object to the 2014 taxation year, must then have filed a section 166.1 application with the Minister requesting an extension of time to file an objection.
+Extension of time by Minister
+166.1 (1) Where no notice of objection to an assessment has been served under section 165, nor any request under subsection 245(6) made, within the time limited by those provisions for doing so, the taxpayer may apply to the Minister to extend the time for serving the notice of objection or making the request.
+[41] This application must be filed within one-year after the 90-day objection period. Unfortunately, the Applicant did not do this.
+(7) No application shall be granted under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice or making such a request, as the case may be, the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made as soon as circumstances permitted.
+[Emphasis added.]
+[42] After requesting an extension from the Minister, a taxpayer may request the Tax Court of Canada to grant the application using section 166.2. A pre-condition to making a section 166.2 extension application is that a taxpayer must have filed a section 166.1 extension application with the Minister. This was not done.
+Extension of time by Tax Court
+166.2 (1) A taxpayer who has made an application under subsection 166.1 may apply to the Tax Court of Canada to have the application granted after either
+(a) the Minister has refused the application, or
+(b) 90 days have elapsed after service of the application under subsection 166.1(1) and the Minister has not notified the taxpayer of the Minister’s decision,
+but no application under this section may be made after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer.
+This application, like the section 166.1 application to the Minister, must be made within one-year after the 90-day objection period.
+(5) No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice or making such a request, as the case may be, the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made under subsection 166.1(1) as soon as circumstances permitted.
+[Emphasis added.]
+[43] If no application was filed with the Minister under section 166.1, an application to the Tax Court of Canada under section 166.2 is invalid.[26]
+[44] Furthermore, if a taxpayer misses the 90-day deadline to apply to the Tax Court of Canada after the Minister rejects a section 166.1 application, the Tax Court of Canada has no jurisdiction to hear the application.[27]Therefore, the request for an extension of time to file a Notice of Objection for the 2014 taxation year must be denied.
+[45] For the 2015, 2016 and 2017 taxation years, no notices of objections were ever filed by the Applicant. No requests for an extension of time to file a Notice of Objection were ever filed either. Therefore I must deny the application for an extension of time to file a notice of objection for these years as well.
+VI. CONCLUSION [46] Mr. Zachary is citizen of Canada, and therefore, any argument that the Act or its procedural provisions are not applicable to him must fail.
+[47] This Court cannot grant the Applicant’s Extension Application as it does not meet the procedural requirements under the Act, namely that it be filed within the statutory timelines as well as having followed the correct extension procedure.
+[48] The Application is dismissed. There shall be no order as to costs.
+Signed at Ottawa, Canada, this 23rd day of January 2024.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2024 TCC 8
+COURT FILE NO.:
+2020-211(IT)APP
+STYLE OF CAUSE:
+LOUIS ZACHARY v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+June 26, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+January 23, 2024
+APPEARANCES:
+Agent for the Applicant:
+Wilfred Davey
+Counsel for the Respondent:
+Payton Tench
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+n/a
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Income Tax Act, RSC 1985 c 1 (5th Supp).
+[2] Affidavit of Therese Chichmanian, Tax Court of Canada, sworn on March 4, 2020, at para 8 [Affidavit].
+[3] Ibid at para 10.
+[4] Ibid at para 12.
+[5] Ibid at para 3.
+[6] Application for Extension of Time for the Serving of a Notice of Objection (Informal Procedure) (Subsection 18(2)), Tax Court of Canada, filed on January 20, 2020, at para (A) [Extension Application] note 2 at para (A).
+[7] Constitution Act, 1982, being Schedule B to the Canada Act 1982 (UK), 1982, c 11.
+[8] Ibid at paras (D), (E).
+[9] Under the Two Row Wampum Treaty Belt; Under the Silver Covent Chain Treaty Belt; Pickering Treaty; Washington Treaty; Nan Fan Treaty; Haldimand Proclamation Declaration.
+[10] Affidavit, supra note 2 at para 12.
+[11] Ibid at para 21.
+[12] Ibid at para 1.
+[13] Ibid at para 22.
+[14] Respondent’s Submissions to the July 13, 2023, Order, Department of Justice, dated August 22, 2023, at page 2 [Respondent’s Submissions].
+[15] Ibid.
+[16] Federal Courts Act, RSC 1985 c F-7. I believe this may be a mistake and that the Respondent should have correctly cited section 19.2 of the Tax Court of Canada Act, RSC 1985 c T-2. Constitutional questions at the Tax Court are not dealt with under the Federal Courts Act. This was affirmed in Horseman v. Canada, 2016 FCA 252.
+[17] Respondent’s Submissions, supra note 14 at page 3.
+[18] Indian Act, RSC 1985 c I-5.
+[19] Constitution Act, 1982, being Schedule B to the Canada Act 1982 (UK), 1982, c 11.
+[20] Extension Application, supra note 6 at paras (D), (E).
+[21] Thompson v. MNR, 2013 FCA 197, reversed on appeal for other reasons, 2016 SCC 21.
+[22] Of note, the Applicant has used the word resident and citizen in their notice of appeal. I do not draw a distinction from these two words for the purposes of this Extension Application.
+[23] Mitchell v. MNR, 2001 SCC 33.
+[24] Horseman v. The Queen, 2017 TCC 198 [Horseman].
+[25] Horseman v. R, 2018 FCA 119 at paras 3-8.
+[26] McKernan v. R, 2003 1 CTC 2275 (TCC); Boyko v. R, 2010 TCC 534; Asiedu v. R, 2011 TCC 150.
+[27] Lemieux c. R, 2003 TCC 855; 9848-3173 Quebec c. R, 2003 TCC 217; Maman v. R, 2007 TCC 429; De Lucia Estate v. R, 2010 TCC 479; Burke v. R, 2012 TCC 378.

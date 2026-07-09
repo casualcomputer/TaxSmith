@@ -1,0 +1,336 @@
+---
+title: "Callaghan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/497589/index.do"
+last_modified: "2021-07-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 TCC 35"
+citation2: ""
+neutral_citation: "2021 TCC 35"
+decision_date: "2021-07-21"
+language: "en"
+item_id: "497589"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4544
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:20:22.282000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0406d86e42ae1bc32b106930d1590cc3f3cf4ceda90efaa66f0dc38434e15d3f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Callaghan v. The Queen
+
+- Citation: 2021 TCC 35
+- Decision date: 2021-07-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4544, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Callaghan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-07-21
+Neutral citation
+2021 TCC 35
+File numbers
+2017-5026(IT)I, 2017-5027(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-5026(IT)I
+BETWEEN:
+MICHAEL CALLAGHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Written submissions on costs received on or about August 10, 2020, November 2, 2020, November 9, 2020, and December 9, 2020
+Before: The Honourable Justice Gaston Jorré, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Sean C. Flaherty
+Counsel for the Respondent:
+Rana El-Khoury
+AMENDED ORDER
+This Order is issued in substitution for the Order dated May 20, 2021 to correct the name of counsel for the Respondent.
+In accordance with the attached Reasons for Order, the Appellant is awarded a lump sum of $3,000 for fees and disbursements.
+Signed at Ottawa, Canada, this 21st day of July 2021.
+“G. Jorré”
+Jorré D.J.
+Docket: 2017-5027(IT)I
+BETWEEN:
+BARBARA VAN RASSEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Written submissions on costs received on or about August 10, 2020, November 2, 2020, November 9, 2020, and December 9, 2020
+Before: The Honourable Justice Gaston Jorré, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Sean C. Flaherty
+Counsel for the Respondent:
+Rana El-Khoury
+AMENDED ORDER
+This Order is issued in substitution for the Order dated May 20, 2021 to correct the name of counsel for the Respondent.
+In accordance with the attached Reasons for Order, the Appellant is awarded a lump sum of $3,000 for fees and disbursements.
+Signed at Ottawa, Canada, this 21st day of July 2021.
+“G. Jorré”
+Jorré D.J.
+Citation: 2021 TCC 35
+Date: 20210721
+Docket: 2017-5026(IT)I
+BETWEEN:
+MICHAEL CALLAGHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2017-5027(IT)I
+AND BETWEEN:
+BARBARA VAN RASSEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR ORDER
+Jorré D.J.
+These Reasons for Order are issued in substitution for the Reasons for Order dated May 20, 2021 to correct the name of counsel for the Respondent.
+Introduction
+[1] The parties have been unable to agree on costs. The Appellants seek $30,000 in costs [1] plus disbursements of $2,264.94; these amounts include HST. The cost amount sought is approximately 65% of the total Bill.
+[2] The Respondent takes the position that the costs should be $1,185 in accordance with the Tariff; there is a very limited dispute in respect of the disbursements.
+[3] This matter was heard under the Informal Procedure. The oral hearing lasted a full day not including argument. Argument was conducted in writing. There were substantial written submissions. Given that there was no agreement on costs, there were also substantial written submissions on costs.
+[4] The Appellants were in very large measure successful although they were not entirely successful. From a practical perspective, for the two Appellants together the amounts at issue were around $200,000 including provincial income tax and interest. The amount in issue for the purpose of computing the jurisdiction is less because provincial tax and interest are not included. [2]
+[5] The gross negligence penalties were removed in all the years, the first four years under appeal were allowed in their entirety on the basis that they were statute barred.
+[6] With respect to the adjustments to the losses claimed in the last three years, on a very rough and ready calculation the net effect of the Judgment was to reduce the losses of the business in those years by around 30%. [3] There were also some factual determinations that I did not have to make because they will have no impact in the years in issues but which may have an effect on certain balances in future years. [4]
+[7] There were a number of difficulties with the Appellants’ evidence some of which did not matter for the years in issue and some of which did. [5]
+The Legislative Framework
+[8] In the Canadian legal system there is a hierarchy of law:
+i) At the top is, of course, the Constitution. All other law is subordinate to it.
+ii) Next is legislation [6] and subordinate legislation. Subordinate legislation must be authorized by its parent legislation. Regulations and Court Rules are subordinate legislation.
+iii) Then there is the common law. In areas of law where the legislature has not legislated or where it has only legislated in part, the common law may rank equally with legislation.
+[9] While the common law has historically played an important role in Canada outside of Quebec, its role has been declining as legislation has increased.
+[10] The courts have two roles. In areas of law with legislation the courts determine the facts and then interpret and apply the legislation. This can include, for example, dealing with ambiguities in the legislation, with circumstances unforeseen by the legislation, with the interaction between different legislation or with the effect of the constitution on legislation. [7] It can also include circumstances where the legislation has left the courts to work out the details. [8] In areas where the common law is still dominant, the courts have a somewhat greater role in respect of the evolution of the law.
+[11] Accordingly, one should start by examining the Tax Court of Canada Act and Tax Court of Canada Rules (Informal Procedure) (the “Informal Procedure Rules”) [9] that govern the award of costs in the Informal Procedure.
+[12] The key provision in the Tax Court of Canada Act with respect to costs in the Informal Procedure is subsection 18.26. It reads:
+(1) The Court may, subject to the rules, award costs. In particular, the Court may award costs to the appellant if the judgment reduces the aggregate of all amounts in issue or the amount of interest in issue, or increases the amount of loss in issue, as the case may be, by more than one half.
+(2) The Court may, in deciding whether to award costs, consider any written offer of settlement made at any time after the notice of appeal is filed.
+(Emphasis added.)
+[13] There are certain circumstances where the court may transfer an appeal to the General Procedure even if the appeal is within the monetary jurisdiction of the court. These are set out in subsections 18.11(1), (2), (3) and (5). In certain of those cases subsection 18.11(6) of the Tax Court of Canada Act provides that the court may order that “all reasonable and proper costs” of the Appellant be borne by the Respondent; however, that power to order that “all reasonable and proper costs” of the Appellant be borne by the Respondent does not apply when the order transferring the appeal to the General Procedure is made under subsections (2) or (3). Subsection 18.11 reads, in part:
+General procedure to apply
+18.11 (1) The Court may order, on application of the Attorney General of Canada, that sections 17.1 to 17.8 apply in respect of an appeal referred to in section 18.
+When Court must order that general procedure apply
+(2) The Court shall grant an application under subsection (1) where
+(a) the outcome of the appeal is likely to affect
+(i) any other appeal of the appellant, or
+(ii) any other assessment or proposed assessment of the appellant, whether or not that assessment or proposed assessment relates to the same taxation year; and
+(b) the aggregate of all amounts
+(i) in issue in the appeal,
+(ii) likely to be affected in the other appeal referred to in subparagraph (a)(i), and
+(iii) likely to be affected in the other assessment or proposed assessment referred to in subparagraph (a)(ii),
+exceeds $25,000.
+General procedure applies — interest exceeding $25,000.
+(3) …
+Interest accruing
+(4) …
+Test case
+(5) …
+Costs
+(6) The Court may, on making an order under subsection (1), other than an order granting an application pursuant to subsection (2) or (3), order that all reasonable and proper costs of the appellant be borne by Her Majesty in right of Canada.
+(Emphasis added.)
+[14] I shall return later to section 18.11 but I would note that subsection 18.11(2) above is not the provision that requires appeals of over $25,000, appeals above the monetary jurisdiction of the Informal Procedure, to be moved to the General procedure. That provision is in section 18.12, set out below:
+Order for general procedure
+18.12 (1) The Court shall order that sections 17.1 to 17.8 apply in respect of an appeal referred to in subsection 18(1) if, before the start of the hearing of the appeal, it appears to the Court that
+(a) the aggregate of all amounts in issue exceeds $25,000; or
+(b) the amount of the loss in issue exceeds $50,000.
+Limitation
+(2) Subsection (1) does not apply if the appellant elects to limit the aggregate of all amounts in issue to $25,000 or the amount of the loss in issue to $50,000, as the case may be.
+[15] The power to make rules is contained in section 20 of the Act. The key portions read as follows:
+20 (1) Subject to the approval of the Governor in Council, rules for regulating the pleadings, practice and procedure in the Court shall be made by the rules committee.
+(1.1) Without limiting the generality of the foregoing, the rules committee may make rules
+…
+(j) for awarding and regulating costs in the Court in favour of or against the Crown as well as other parties and for authorizing the refusal of costs to an appellant who, in circumstances in which the appellant could make an election under section 18, does not make such an election;
+[16] Sections 10 and 12 of the Interpretation Act are always potentially relevant [10] . Those sections read as follows:
+10 The law shall be considered as always speaking, and where a matter or thing is expressed in the present tense, it shall be applied to the circumstances as they arise, so that effect may be given to the enactment according to its true spirit, intent and meaning.
+…
+12 Every enactment is deemed remedial, and shall be given such fair, large and liberal construction and interpretation as best ensures the attainment of its objects.
+[17] Subsection 12 of the Interpretation Act is quite old. Its origins predate Confederation in 1867 and can be traced back 172 years to legislation enacted on April 25, 1849 in what was then the then Province of Canada. [11]
+[18] The key cost provisions in the Informal Procedure Rules are:
+10 (1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+(2) The Court may award costs to the respondent, in an amount not exceeding the amounts listed in section 11, only if the actions of the appellant unduly delayed the prompt and effective resolution of the appeal.
+(3) The Court may direct the payment of costs in a fixed sum, in lieu of any taxed costs.
+11 On the taxation of party and party costs the following fees may be allowed for the services of counsel
+(a) for the preparation of a notice of appeal or for advice relating to the appeal, $185;
+(b) for preparing for a hearing, $250;
+(c) for the conduct of a hearing, $375 for each half day or part of a half day; and
+(d) for the taxation of costs, $60.
+11.1 Unless otherwise directed by the Court, where an appellant is represented or assisted by an advisor other than counsel, disbursements in respect of services referred to in section 11 may be allowed on the taxation of party and party costs in an amount not to exceed one half of the amounts listed in section 11.
+11.2 (1) Such other disbursements may be allowed as were essential for the conduct of the appeal if it is established that the disbursements were made or that the party is liable for them.
+(2) There may be allowed all services, sales, use or consumption taxes and other like taxes paid or payable on any counsel fees and disbursements allowed if it is established that such taxes have been paid or are payable and are not otherwise reimbursed or reimbursable in any manner whatever, including, without restriction, by means of claims for input tax credits in respect of such taxes.
+12 (1) A witness, other than a witness who appears to give evidence as an expert, is entitled to be paid by the party who arranged for his or her attendance $75 per day, plus reasonable and proper transportation and living expenses.
+(1.1) An amount is not payable under subsection (1) in respect of an appellant unless the appellant is called upon to testify by counsel for the respondent.
+(2) There may be paid to a witness who appears to give evidence as an expert a reasonable payment, not to exceed $300 per day unless the Court otherwise directs, for the services performed by the witness in preparing himself to give evidence and giving evidence.
+[19] It is useful to recall some of the features of the Informal Procedure created by the Tax Court of Canada Act and the Informal Procedure Rules.
+[20] Whereas the General Procedure is a full trial procedure including the production of documents and discoveries, the Informal Procedure is a simplified procedure where, normally, after the filing of the Notice of Appeal and the Reply to Notice of Appeal the next step is simply to go straight to trial. The simplification will generally reduce costs by eliminating steps; for any given party not having discoveries may be a disadvantage or an advantage depending on the circumstances.
+[21] It is intended to be faster and less expensive than the General Procedure and is available only for appeals involving relatively smaller amounts of tax in issue. [12]
+[22] The cost provisions of the Tax Court of Canada Rules (General Procedure) (the “General Procedure Rules”) are quite different from those of the Informal Procedure Rules. This is reflected in a number of ways.
+[23] Costs to the Respondent are restricted. Under subsection 10(2) they may be awarded “only if the actions of the Appellant unduly delayed the prompt and effective resolution of the appeal.” The costs that may be awarded to the Respondent are limited to the Tariff in section 11. [13] This system limits the downside risk with respect to costs for taxpayers filing an appeal.
+[24] The General Procedure Tariff scales are clearly higher than the Tariff of the Informal Procedure. [14]
+[25] More significant is the fact that there is nothing in the Informal Procedure Rules that resembles the provisions of Subsection 147(3) of Tax Court of Canada Rules (General Procedure) (“General Procedure Rules”) which provisions enumerate a long list of factors that may be considered in awarding costs.
+[26] Nor is there anything like subsections 147(3.1) to (3.6) of the General Procedure Rules that, in certain circumstances where a settlement offer is made, may give rise to substantial indemnity costs where a party has obtained a Judgment at least as favourable as a settlement offer he made to the other party. [15]
+[27] Another very significant difference is the absence in the Informal Procedure Rules of anything like subsection 147(4) of the General Procedure Rules which states:
+The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+(Emphasis added.)
+Discussion
+[28] There are many Informal Procedure Cases where no costs are ordered even though the appeal was allowed. Indeed, cost awards are uncommon in Informal Procedure Cases. There are many reasons for this: for example, the degree of success of the Appellant is modest, success is divided or there may be no or negligible costs. [16]
+[29] The Respondent did not take the position that there should be no costs in this matter.
+[30] In this case, the Appellants were in very large measure successful and there is nothing in the circumstances to suggest that there should not be costs.
+[31] The question then becomes one of quantum.
+[32] The Tariff in section 11 of the Informal Procedure Rules sets out specific cost items.
+[33] The Appellant strongly argued that I am not bound by the Tariff and I should follow a number of decisions relating to the General Procedure including the decision of the Chief Justice Rossiter in Velcro Canada Inc. v. R 2012 TCC 273. Those decisions indicate that the Court has a significant degree of leeway in fixing costs in the General Procedure. [17]
+[34] While decisions relating to the General Procedure Rules may often be usefully considered in interpreting the Informal Procedure Rules or in filing in gaps, they can not simply be transposed into the Informal Procedure without taking into account the scheme of the Informal Procedure as set out in the Tax Court of Canada Act and in the Informal Procedure Rules.
+[35] As described above the scheme of the Informal Procedure Rules is quite different from that General Procedure Rules.
+[36] As set out above subsection 10(3) of the Informal Procedure Rules says:
+The Court may direct the payment of costs in a fixed sum, in lieu of any taxed costs.
+[37] Subsection 10(3) adds a measure of flexibility to the process of fixing costs. That flexibility is particularly useful insofar as it allows the court to fix costs in a rough and ready way, for example at the end of a hearing or of a judgment without having to trigger the process of taxation. Such flexibility is something consistent with the intention that the Informal Procedure should be a simpler and faster procedure the General Procedure.
+[38] However, the Informal Procedure Rules must be read as a whole and applied in a principled way. Given the scheme of the Informal Procedure Rules, including the absence of anything like subsection 147(4) of the General Procedure Rules, cited above, that flexibility does not mean that the court can simply ignore the Tariff of costs set out in section 11.
+[39] I must take account of the Tariff in determining costs.
+[40] There are a number of other matters that I will address before I come back to the actual amount of costs.
+[41] The Appellant submits that the Appellants should not be left to bear so much of the costs of litigation where they have been successful to the degree that they have.
+[42] I do not disagree with the Appellants that in many circumstances, successful appellants may be left having to pay a lot of costs. However, subject only to the constitution, the role of the courts is to apply the law and not to make it. [18] That is my role here. [19]
+[43] There are a number of trade offs in choosing between the Informal Procedure and the General Procedure. Different costs consequences, including the ability to minimise downside risk in respect of costs for Appellants who chose the Informal Procedure, are one of those trade offs.
+[44] The Appellant noted the provisions of section 149.1 of the General Procedure Rules which, the Appellants say, could deprive the Appellants of costs had they opted for the General Procedure. That section reads as follows:
+On an appeal under the Income Tax Act, the Court may refuse or reduce costs otherwise payable to an appellant who, in circumstances in which the appellant could make an election under subsection 18(1) of the Act, does not make such an election.
+[45] As I will explain, I am not convinced that there was any real possibility that a successful Appellant in circumstances such as this would be deprived of costs under the General Procedure Rules.
+[46] No case was cited to me where that section was applied and I am not aware of it having been applied.
+[47] Given that under the Tax Court of Canada Act, the General Procedure is the default procedure and given that the Act gives the Appellant the choice of electing the informal procedure, I would expect this court to be reluctant to apply section 149.1 without very good reasons to do so – perhaps it would do so where the choice amounted, in all the circumstances, to an abuse.
+[48] It is also hard to imagine that the rule would be applied in a case such as this, where the total federal amounts at issue in the two appeals for all years are well above the $25,000, given that an Appellant with $25,000 in federal tax and penalty in issue in a single year is forced to go to the General Procedure unless that Appellant is prepared to abandon $4,000 of the claim.
+[49] Finally, in this particular case application of section 149.1 would be inconsistent with the scheme of the Tax Court of Canada Act for the following reasons.
+[50] Earlier I cited section 18.11 of the Tax Court of Canada Act. Subsection 2 thereof says that the Court shall grant the application of the Attorney General to move a matter to the General Procedure where:
+…
+(a) the outcome of the appeal is likely to affect
+(i) any other appeal of the appellant, or
+(ii) …
+and
+(b) the aggregate of all amounts
+(i) in issue in the appeal,
+(ii) likely to be affected in the other appeal referred to in subparagraph (a)(i), and
+(iii) …
+exceeds $25,000.
+[51] Given that in statutory interpretation the singular includes the plural, this means that where an Appellant has a number of years in issue with intertwined issues, as was the case here, and the sum of the aggregate of all amounts in issue in those related appeals exceeds $25,000, the court is obliged to issue an Order under subsection 2 moving the matter to the General Procedure.
+[52] Further under subsection 18.11(6) of the Tax Court of Canada Act, reproduced in paragraph 13 above, because the Order is issued under subsection 2 this Court can not order that all reasonable and proper costs of the appellant be borne by Her Majesty in right of Canada; as a result the appeals moved to the General Procedure under such an Order will be governed by the General Procedure cost rules in the same way as if the Appellant had originally filed those appeals in the General Procedure.
+[53] Here the criteria of section 18.11(2) of the Tax Court of Canada Act would have been met for both Appellants had such an Order been sought.
+[54] Given that the Respondent could have forced these matters into the General Procedure without any adverse cost consequences to the Respondent, it would be completely inconsistent with the scheme of the Act to apply section 149.1 of the General Procedure Rules in these appeals to penalise the Appellants for choosing the General Procedure, had they chosen to do so.
+[55] I will now turn to other issues.
+[56] One question that came up and can be dealt with quickly is the question of work before the court appeal stage. The principle is quite clear: costs are the costs in relation to the appeal and nothing else. Thus any costs for work on prior stages before the court appeal stage can not be included in any costs award. Here it appears that a very small amount of the fees in the client bill may have been incurred while the matter was still at the objection stage. The amount, if there is such an amount, has no impact on the costs award given the view I have taken. [20]
+[57] I wish to briefly deal with two of the Informal Procedure cases raised. The Appellant submits that the decision of Mathieu v. The Queen [21] is an example of this court ordering that the Respondent pay one half of the Appellant’s legal costs.
+[58] That is not what the decision ordered. When one examines the original judgment one sees that there were two issues. The Appellant was successful on one issue and lost the other issue. Because of that, recognizing the mixed result, the Court ordered that costs be paid to the Appellant but only to the extent of one half. In the original French text it said : « Les frais sont accordés à l'appelant à l'encontre de l'intimée pour la moitié. » In English this was translated as “the Respondent shall pay one half of the Appellant's costs”.
+[59] An order to pay costs to a party without any other comment has long been understood to be Tariff costs plus disbursements. [22]
+[60] Given the absence of any other statement in the original cost order it is clear that this was simply an order that the Respondent be paid costs equal to one half of the sum of the Tariff plus disbursements.
+[61] The review of the Order was sought by the Respondent on the grounds that under subsection 18.26(1) as it then read no cost order at all should have been granted [23] , a very different issue from the one here.
+[62] The Appellant also referred me to Grant v. R [24] a decision former Chief Justice Bowman where a review of a taxation was sought. In that case the taxation was not changed because the Registrar had already issued his certificate. However, it was stated, in obiter, that had that not been the case the court would probably have doubled the Tariff. Among other factors leading to that comment, was the fact about five months before the hearing the Appellant offered to settle on a basis that turned out to be the same as the disposition by the Court. There are two notable things about the comments. First, they take account of the provisions of subsection 18.26(2) of the Tax Court of Canada Act regarding settlement offers, a statutorily mandated consideration, and, secondarily, they also take account of the Tariff. [25]
+[63] Can one consider the wide range of factors that one can consider in the General Procedure? Clearly there are a variety of factors one can consider in ordering a lump sum but when doing so one cannot ignore the Tariff. In addition other factors must be considered in the context of the scheme of the Informal Procedure as set out by the Act and the Informal Procedure Rules. That implies that one keep in mind that the process needs to remain simpler than the General Procedure, that it is intended to remain lower cost and, accordingly, that there must be very good reasons to make adjustments in relation to the scale of the Tariff. [26]
+[64] Are there factors here that would justify increasing the fees here? No. The factors suggested by the Appellant are not sufficient to make a significant adjustment such as doubling the Tariff as was done in Grant.
+[65] The Appellant argued that the number of years in issue, the fact several of those years were found to be statute barred years and the fact that the gross negligence penalties were deleted in all years constituted such a ground. I do not agree. Those were all part of the situation as matters stood just before the start of the appeal. Court costs are for the court stage of the process of disputing appeals, not earlier stages. The fact that there are issues regarding penalties and potentially statute barred years adds to the number of issues but does not in and of itself create particular complexity different from other appeals of similar difficulty.
+[66] While there were many facts, often less than ideal evidence and a fair amount of factual and legal complexity and while these matters certainly required much work, I am not satisfied that this case was out of the ordinary in terms of difficulty. While there are a wide range of cases in terms of difficulty in the informal procedure, there are quite regularly cases of the complexity of this one.
+[67] Similarly, the amounts at issue [27] are not uncommon for the Informal Procedure. In addition, the fact that the Informal Procedure Tariff has only one scale unlike the General Procedure Tariff suggests that it is not intended that there should be adjustment for the amount in issue. [28]
+[68] Accordingly, in this matter I must set costs taking into the Tariff and taking account of the circumstances, specifically the mode of hearing.
+[69] The disbursements are reasonable and should be fully compensated.
+[70] Read literally section 11 of the Informal Procedure Rules does not fit all the circumstances here. Given, among other considerations, section 12 of the Interpretation Act one can certainly make adjustments to take account of circumstances that are not provided for while taking account of section 11 of the rules.
+[71] In this case, a good part of the hearing, argument, was held in writing whereas the Tariff is fixed in terms of hearing days in court. One can take account of the fact that in the absence of written submissions there would have been additional hearing time in court and make allowance for that. [29]
+[72] Similarly, there was not just a simple taxation of costs but a significant effort in written submissions equivalent to further hearing time.
+[73] It is not unreasonable to consider that the written argument and the written submissions on costs would have required preparing and holding a hearing on two separate days spread out in time had they not been in writing, days that would have had to be prepared. Taking account of the Tariff and applying it to the circumstances of the hearing, I award a lump sum for fees and disbursements for both appeals of $6,000. [30] This amount is to be divided equally between the two Appellants.
+Conclusion
+[74] There will be an order awarding to each appellant a lump sum of $3,000 covering both fees and disbursements.
+Signed at Ottawa, Canada, this 21st day of July 2021.
+“G. Jorré”
+Jorré D.J.
+CITATION:
+2021 TCC 35
+COURT FILE NO.:
+2017-5026(IT)I; 2017-5027(IT)I
+STYLE OF CAUSE:
+MICHAEL CALLAGHAN AND HER MAJESTY THE QUEEN; BARBARA VAN RASSEL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+London, Ontario
+WRITTEN SUBMISSIONS RECEIVED ON OR ABOUT:
+August 10, 2020, November 2, 2020, November 9, 2020 and December 9, 2020
+REASONS FOR ORDER BY:
+The Honourable Justice Gaston Jorré, Deputy Judge
+DATE OF CORRECTED REASONS FOR ORDER:
+July 21, 2021
+APPEARANCES:
+Counsel for the Appellant:
+Sean C. Flaherty
+Counsel for the Respondent:
+Rana El-Khoury
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blank
+Firm:
+Blank
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] $15,000 for each Appellant.
+[2] Of course this court does not have jurisdiction over provincial income tax but, as a practical matter, the result of any decision on the federal income tax will usually flow through to provincial tax. That will no doubt be the case here.
+[3] In paragraph 35 of their first written submission the Appellants state that they were “… successful on all issues.” This is not the case. The Appellants make that statement by framing it in reference to the issues as I stated them in paragraphs 2 and 3 of my Reasons for Judgment without taking account of the footnote to paragraph 2 which says: “There are also some secondary issues regarding expenses.” Expense issues were raised in paragraph 8, notably subparagraph (u) and in paragraph 17 of the Reply to Notice of Appeal. Part of my Reasons for Judgment deals with those issues.
+[4] See paragraphs 81 to 85 of the Reasons for Judgment in this matter.
+[5] See paragraphs 81 to 84 of the Reasons for Judgment for difficulties that did not matter in respect of the years in issue although they may matter in subsequent years, as explained in paragraph 85. See paragraphs 69 and 86 to 92 of those reasons in respect of difficulties that did matter.
+[6] Federal or Provincial depending on the subject matter.
+[7] The interaction of federal and provincial legislation is often a source of issues.
+[8] For example, if legislation says there is a consequence if something is “unreasonable in the circumstances” or an “abuse”.
+[9] Court rules are both “regulations” and “statutory instruments” for the purposes of the Statutory Instruments Act, see subsection 2(1) of that Act.
+[10] Under subsection 3(1) of the Interpretation Act, that Act applies “to every enactment, whether enacted before or after the commencement of this Act.” The definition section of the Interpretation Act in subsection 2(1) defines “enactment” to mean “… an Act or regulation …” and a “regulation” to include “… rules of court …”.
+[11] Subsection 12 was in the 1967 re-enactment of the Interpretation Act (S.C. 1967-68, c. 7), although at that time it was numbered section 11. Although the numbering was again different and the wording somewhat different, the substance was the same in the Revised Statutes of Canada 1927 (C.1). Indeed, as pointed out by Justice Locke in the decision of the Supreme Court of Canada in The King v. Robinson 1951 CanLII 22 (SCC), [1951] S.C.R. 522, at pages 530-531:
+… Section 15 reads:
+Every Act and every provision and enactment thereof, shall be deemed remedial, whether its immediate purport is to direct the doing of any thing which Parliament deems to be for the public good, or to prevent or punish the doing of any thing which it deems contrary to the public good; and shall accordingly receive such fair, large and liberal construction and interpretation as will best ensure the attainment of the object of the Act and of such provision or enactment, according to its true intent, meaning and spirit.
+This section appears to have had its origin in section 5 of c. 10, Statutes of Canada 1849 which was, with minor differences which do not affect the meaning, expressed in the same terms. It was reproduced in substantially the same form in section 6 of c. 5 Consolidated Statutes of Canada 1859 and appeared as the 39th paragraph of section 7 of the Interpretation Act, passed at the First Session of the Parliament of Canada in 1867, and has been continued in language identical in meaning up to the present time. Section 3 of the Act as passed in 1867 provided that section 7 and each provision thereof should extend and apply to every Act passed in the session held in that year and in any future session of the Parliament of Canada, except in so far as the provision was inconsistent with the intent and object of the Act or the interpretation which such provision would give to any word, expression or clause inconsistent with the context and except in so far as any provision thereof in any such Act is declared not applicable thereto. Section 2 of the Interpretation Act, R.S.C. 1886, c. 1, declared that the Act and every provision thereof should extend and apply to every Act of the Parliament of Canada then or thereafter passed, with the like exceptions, and the legislation was in this state when the Criminal Code was first enacted in 1892. Section 2 of the present Act is in like terms and its application does not, in my opinion, restrict in any way the application of section 15 to the language here to be construed.
+In those Statutes of of the Province of Canada of 1848-1849 referred to by Justice Locke, the 28th item of section V of chapter 10, vol. III, 129, 134 reads, in part:
+Twenty-eighthly. . . . every such Act and every provision or enactment thereof, shall be deemed remedial, whether its immediate purport be to direct the doing of anything which the Legislature may deem to be for the public good or to prevent or punish the doing of anything which it may deem contrary to the public good, and shall accordingly receive such fair, large and liberal construction and interpretation as will best ensure the attainment of the object of the Act and of such provision or enactment, according to their true intent, meaning and spirit.
+Notwithstanding the difference in the mode of expression the language of 172 years ago has the same meaning as the current provision of the Interpretation Act. Given the principle of the sovereignty of Parliamentary and of the provincial legislatures within their respective jurisdictions subject, of course, to the Constitution, it is surprising that section 12 of the Interpretation Act has not been cited more in the course of the evolution of Canadian tax law. One example is the absence of any mention of section 11 in Stubart Investments Ltd. v. The Queen, 1984 CanLII 20 (SCC), [1984] 1 SCR 536. With respect to the history of the establishment of Parliamentary supremacy, the rule of law and the independence of the Judiciary see paragraphs 71 and 72 of Canada (Fisheries and Oceans) v. David Suzuki Foundation, 2012 FCA 40.
+[12] I say, relatively smaller, because, although the Informal Procedure applies where “the aggregate of all amounts” in issue, as defined by the Tax Court of Canada Act, does not exceed $25,000, for a number of reasons, the amounts actually in issue from a practical perspective may in some cases be much greater especially when appeals from several taxation years are heard together. Here, although the amounts in issue as defined by the Act are smaller, from a practical perspective the two Appellants collectively were appealing from reassessments increasing what they owed by about $200,000. There are a number of reasons why a $25,000 threshold can, in practice be much higher in one Informal Procedure appeal. These include: The fact that the threshold is applied separately to each tax year in issue, that appeals from several taxation years may be heard together, that only federal tax and penalties are included in the monetary threshold and that interest is not included in the computation. While this Court has no jurisdiction over provincial income tax and therefore any provincial tax reassessed is not included in computing the threshold, the outcome of the appeal of federal income tax will, as a practical matter, typically have a corresponding effect on provincial income tax.
+[13] In certain situations amounting to extreme abuse of process it may be that there is an alternative basis for awarding costs see Fournier c. R., 2005 FCA 131 at paragraphs 7 to 13.
+[14] See Schedule II, Tariff B of the General Procedure Rules as compared to section 11 of the Informal Procedure Rules with respect to those steps that occur in both procedures.
+[15] Substantial indemnity costs is defined as 80% of solicitor and client costs in subsection 147(3.5) of the General Procedure Rules.
+[16] For example, when an Appellant is self represented.
+[17] I will discuss below some of the cases relating to the Informal Procedure referred to by counsel for the Appellant.
+[18] With the exception of certain areas where the law is still governed by the common law or where the legislation itself has left to the courts the role of elaborating the details of a provision of the law that is very general. For example, if a law says that someone must exercise due diligence in carrying out a function, the courts may have to elaborate what that would mean in the particular context. Here the Tariff is quite specific as to the amounts.
+[19] Amending the rules is a decision for the Rules Committee, subject to the approval of the Governor in Council. See subsection 20(1) of the Tax Court of Canada Act.
+[20] Again a similar question arises with respect to disbursements. The amount, if any, would be trivial and can be safely ignored.
+[21] 2006 TCC 258 for the reconsideration of the cost order and 2006 TCC 204 for the Judgment.
+[22] For example, this is reflected in Grant v. R 2000 CanLII 329 (TCC) at paragraph 9. The original cost order is set out in paragraph 4 of Grant. Grant is discussed below.
+[23] At the time there was a requirement in subsection 18.26(1), as it then read, that costs could only be granted if an Appellant was successful in having the amounts in issue reduced by at least one half.
+[24] Grant v. The Queen, 2000 CanLII 329 (TCC).
+[25] The Appellant also raises the Informal Procedure decision of Pink Elephant v. R., 2011 TCC 395 where a lump sum of $2,500 was awarded at the end of the hearing. The decision does not disclose the basis of the amount but I would not infer from the amount that the cost award did not take account of the Tariff.
+[26] Ordering a modest lump sum not out of line with the Tariff when rendering Judgment so as to speed the process and save steps is not inconsistent with that.
+[27] Whether I look at the amounts from a practical perspective, as the term “amounts in issue” is defined under the Tax Court of Canada Act or in terms of what falls within the jurisdiction of the Court.
+[28] Finally, I should note that the Appellant argued, in the alternative, that if I felt bound by the Tariff, given that conceptually there is an appeal from each year I could award the full Tariff amounts fourteen times, separately for each year under appeal by each Appellant. That is not the way the Tariff works. Such an interpretation is inconsistent with a purposeful interpretation of the Tariff.
+[29] To give an example of a similar nature if parties do the work necessary to file a written agreement on part of the facts saving two days of trial, one might reasonable adjust for that taking the Tariff into account.
+[30] In so doing I have considered the following: There were two Appellants and two Notices of Appeal had to be filed; this amounts to two times $185, $370, under the Tariff. The actual hearing in Court under the Tariff amounts to $750 for the day and $250 for the preparation of it, a total of $1,000. Similarly, given that the written argument and the written submissions regarding costs amounted to having the equivalent of hearings on two more sitting days spread out in time that each had to be prepared, I am adding $1,000 for each, a total of $2,000 for all the written submissions. With disbursements of $2,265 the total of fees and disbursements is $5,635 for both Appellants together. In all the circumstances this can reasonably be rounded up to $6,000.
+For reasons explained below, I have made no adjustment for HST either way. I have not added HST to the fees allowed nor have I deducted it from the disbursements.
+The difference it would make is likely small in any event and given that properly making an adjustment would require knowledge of facts not before me it is appropriate to ignore the question. Section 11.2(2) of the Informal Procedure Rules provides that HST may be allowed but only if “… not otherwise reimbursed or reimbursable in any manner whatever, including, without restriction, by means of claims for input tax credits in respect of such taxes.”(Emphasis added). As indicated in the Reasons for Judgment the Appellants’ business collected HST in 2017 and 2018 so it was registered for HST purposes no later than 2017. As a result, given that the Appeal was filed in 2017 and that the most important of the issues was the existence of the business, which was established, one would expect that input tax credits were claimed in respect of the fees and disbursements. If that is the case, then no HST is to be added for HST on fees but HST should be backed out of the disbursements. Of course there may be other factors that I am unaware of that would change this.

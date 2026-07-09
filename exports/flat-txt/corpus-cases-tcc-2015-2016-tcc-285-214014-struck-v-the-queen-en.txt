@@ -1,0 +1,121 @@
+Title: Struck v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/214014/index.do
+Corpus path: corpus/cases/tcc/2015/2016-tcc-285-214014-struck-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-10-16
+
+# Struck v. The Queen
+
+- Citation: 2016 TCC 285
+- Decision date: 2015-10-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2950, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Struck v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-10-16
+Neutral citation
+2016 TCC 285
+File numbers
+2015-2253(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2016TCC285
+Date: 20161208
+Docket: 2015-2253(IT)I
+BETWEEN:
+BERND STRUCK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on October 8, 2015, in Victoria, British Columbia.)
+V.A. Miller J.
+[1] The Minister of National Revenue (the “Minister”) determined that the Appellant was not entitled to the Canada Child Tax Benefit (“CCTB”) for the 2012 base taxation year (July 2013 to June 2014) and that he had received a deemed overpayment of $1,433. The Minister also determined that the Appellant was not entitled to the Goods and Services Tax Credit (“GSTC”) for the 2012 base taxation year (quarterly period July 2013 to June 2014) and that he had received a deemed overpayment of $404. The Appellant has appealed those determinations.
+[2] The issue in this appeal is whether the Appellant was the “eligible individual” to receive the CCTB and the GSTC for his child, S.S., (the “Child”) during the period July 2013 to June 2014.
+Facts [3] The Appellant and Lisa Morris, his former spouse, testified at the hearing. I found both witnesses to be credible and for the most part, there was no disagreement between their evidence.
+[4] Lisa Morris is the mother of the Child. The Child was born on November 19, 2001. The Appellant testified that he and Lisa Morris separated prior to the birth of their Child.
+[5] In 2003, the Provincial Court of British Columbia (Family Court) ordered that the Appellant was to have sole custody of the Child with Lisa Morris having “generous access” to the Child. By a “Final Order” dated May 23, 2014, Judge Quantz of the Provincial Court of British Columbia basically confirmed the custody and access provisions of the order from 2003 and he ordered that the parties shall not make any applications regarding “parenting time” until they have attended mediation.
+[6] According to the Appellant, Judge Quantz interviewed the Child and told both parents that the Child could choose where she wanted to live.
+[7] In May 2013, Lisa Morris moved from Parksville to Saanichton where the Appellant lived so that she could have greater access to her Child. She moved within walking distance to the Appellant’s home. It was the Appellant’s evidence that he has allowed S.S. to choose if she lives with him or her mother.
+[8] He testified that during the relevant period, the Child lived at her mother’s home the majority of the time. Lisa Morris testified that the Child lived with her more than 75% of the time during the relevant period.
+The Law [9] The definition of “eligible individual” for the CCTB is given in section 122.6 of the Income Tax Act. It reads:
+eligible individual in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is a parent of the qualified dependant who
+(i) is the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant and who is not a shared-custody parent in respect of the qualified dependant, or
+(ii) is a shared-custody parent in respect of the qualified dependant,
+(c) is resident in Canada or, where the person is the cohabiting spouse or common-law partner of a person who is deemed under subsection 250(1) to be resident in Canada throughout the taxation year that includes that time, was resident in Canada in any preceding taxation year,
+(d) is not described in paragraph 149(1)(a) or 149(1)(b), and
+(e) is, or whose cohabiting spouse or common-law partner is, a Canadian citizen or a person who
+(i) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act,
+(ii) is a temporary resident within the meaning of the Immigration and Refugee Protection Act, who was resident in Canada throughout the 18 month period preceding that time,
+(iii) is a protected person within the meaning of the Immigration and Refugee Protection Act,
+(iv) was determined before that time to be a member of a class defined in the Humanitarian Designated Classes Regulations made under the Immigration Act,
+and for the purposes of this definition,
+(f) where the qualified dependant resides with the dependant’s female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph 122.6 eligible individual (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+[10] For the purposes of paragraph (f) and (g) of the definition, section 6301 of the Income Tax Regulations provide:
+(1) For the purposes of paragraph (g) of the definition “eligible individual” in section 122.6 of the Act, the presumption referred to in paragraph (f) of that definition does not apply in the circumstances where
+(a) the female parent of the qualified dependant declares in writing to the Minister that the male parent, with whom she resides, is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of each of the qualified dependants who reside with both parents;
+(b) the female parent is a qualified dependant of an eligible individual and each of them files a notice with the Minister under subsection 122.62(1) of the Act in respect of the same qualified dependant;
+(c) there is more than one female parent of the qualified dependant who resides with the qualified dependant and each female parent files a notice with the Minister under subsection 122.62(1) of the Act in respect of the qualified dependant; or
+(d) more than one notice is filed with the Minister under subsection 122.62(1) of the Act in respect of the same qualified dependant who resides with each of the persons filing the notices if such persons live at different locations.
+[11] The prescribed factors for paragraph (h) are given in section 6302 of the Income Tax Regulations as follows:
+6302 For the purposes of paragraph (h) of the definition “eligible individual” in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+Analysis [12] Paragraph (a) of the definition of “eligible individual” requires that the person “reside” with the Child during the relevant period. The word “reside” usually means “to live in the same house as”: Burton v R, [2000] 1 CTC 2727(TCC). In the context of section 122.6, the word “resides” has been interpreted to connote “a settled and usual abode”: R(S) v R, 2003 TCC 649 or to habitually live with. During the period July 2013 to June 2014, the evidence established that the Child lived with Lisa Morris more than 75% of the time. It is my view that the Child resided with Lisa Morris during the relevant period.
+[13] According to paragraph 122.6(b), the “eligible individual” is the parent of the Child who “primarily fulfils the responsibility for the care and upbringing” of the Child. I have concluded from the evidence that both parents contributed to the care and upbringing of their Child during the period. They both cared for her and spent time with her. They both attended to her medical needs. However, because the evidence has established that the Child resided with her mother during the period, it is my view that the presumptions in paragraph 122.6(f) applies to the facts of this case. I have concluded that Lisa Morris primarily fulfilled the responsibility for the care and upbringing of the Child during the period.
+[14] It was the Appellant’s position that he was the “eligible individual” because he had sole custody of the Child. I agree that he had sole custody. However, this is but one of the factors that must be considered when determining what constitutes care and upbringing of the Child for the purposes of paragraph (h) of the definition of “eligible individual”. It is not a determinant factor: Delage v Canada, 2009 TCC 119 at paragraph 11.
+[15] In conclusion, Lisa Morris was the “eligible individual” during the period July 2013 to June 2014 and she was entitled to receive the CCTB and the GSTC for that period. The appeal is dismissed.
+Signed at Ottawa, Canada, this 8th day of December 2016.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2016TCC285
+COURT FILE NO.:
+2015-2253(IT)I
+STYLE OF CAUSE:
+BERND STRUCK AND THE QUEEN
+PLACE OF HEARING:
+Victoria, British Columbia
+DATE OF HEARING:
+October 7, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+October 16, 2015
+DATE OF REASONS FOR
+JUDGMENT: December 8, 2016
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Zachary Froese
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

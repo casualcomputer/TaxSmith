@@ -1,0 +1,200 @@
+---
+title: "Solomon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29286/index.do"
+last_modified: "2009-06-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 320"
+citation2: ""
+neutral_citation: "2009 CCI 320"
+decision_date: "2009-06-24"
+language: "fr"
+item_id: "29286"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7087
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:47:48.038000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "148e9bb90e3bfceb7e4ecc569884652f742a9d536419b1d02440e85b3d2a0772"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Solomon c. La Reine
+
+- Citation: 2009 CCI 320
+- Decision date: 2009-06-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7087, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Solomon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-06-24
+Référence neutre
+2009 CCI 320
+Numéro de dossier
+2008-91(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-91(IT)I
+ENTRE :
+NORTON SOLOMON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec l’appel de
+Thomas Steynor, 2008-92(IT)I, le 11 décembre 2008, à Ottawa (Ontario).
+Devant : L’honorable juge C. H. McArthur
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Julian Malone
+____________________________________________________________________
+JUGEMENT Les appels interjetés à l’encontre des nouvelles cotisations établies à l’égard de l’appelant en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004 et 2005 sont rejetés.
+Signé à Ottawa, Canada, ce 24e jour de juin 2009.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 20e jour d’août 2009.
+Alya Kaddour‑Lord, traductrice
+Dossier : 2008-92(IT)I
+ENTRE :
+THOMAS STEYNOR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec l’appel de
+Norton Solomon, 2008-91(IT)I, le 11 décembre 2008, à Ottawa (Ontario).
+Devant : L’honorable juge C. H. McArthur
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Julian Malone
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la prétendue nouvelle cotisation qui a été établie à l’égard de l’appelant en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2004 est annulé.
+L’appel interjeté à l’encontre de la nouvelle cotisation établie à l’égard de l’appelant en vertu de la Loi pour l’année d’imposition 2005 est rejeté.
+Signé à Ottawa, Canada, ce 24e jour de juin 2009.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 20e jour d’août 2009.
+Alya Kaddour‑Lord, traductrice
+Référence : 2009 CCI 320
+Date : 20090624
+Dossiers : 2008-91(IT)I
+2008-92(IT)I
+ENTRE :
+NORTON SOLOMON et
+THOMAS STEYNOR,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Les présents appels ont été entendus simultanément et sur preuve commune, en grande partie, pour les nouvelles cotisations établies à l’égard de M. Solomon pour les années d’imposition 2003, 2004 et 2005 et pour la nouvelle cotisation établie à l’égard de M. Steynor pour l’année d’imposition 2005. Les questions en litige reviennent à décider premièrement si les appelants ont reçu de leur employeur, TRS Relief Solutions Inc. (« TRS »), des avantages imposables au titre de leurs frais de déplacement, et deuxièmement si les appelants ont le droit de reporter rétrospectivement une partie du revenu qu’ils ont reçu de leur employeur en 2005 sur les années d’imposition 2003 et 2004. Il a été difficile de cerner toutes les conclusions que les appelants recherchaient. Ils étaient employés par TRS, une société dont l’appelant, Thomas Steynor, était le propriétaire et l’exploitant. J’ai accepté les questions en litige telles que l’intimée les a présentées, et pas autrement.
+[2] Je crois qu’il est clair pour tout le monde que M. Steynor a déposé son avis d’appel pour 2004 avant que 90 jours ne se soient écoulés depuis le dépôt de l’avis d’opposition, période dont le ministre du Revenu national (le « ministre ») disposait pour annuler la cotisation, la ratifier ou établir une nouvelle cotisation à l’égard de M. Steynor, ce qui fait que l’appel que ce dernier a tenté d’interjeter pour l’année 2004 n’a pas été déposé dans les règles devant la Cour; il est par conséquent annulé.
+[3] Le nombre de kilomètres parcourus par les deux appelants à des fins professionnelles n’est pas contesté.
+[4] Premièrement, l’intimée fait valoir que la somme de 60 cents que les appelants recevaient de leur employeur pour chaque kilomètre parcouru n’était pas une somme raisonnable au sens du sous‑alinéa 6(1)b)(v) de la Loi de l’impôt sur le revenu (la « Loi ») et de l’article 7306 du Règlement de l’impôt sur le revenu (le « Règlement »). Deuxièmement, l’intimée affirme que les contribuables ne peuvent reporter, de manière rétroactive, le revenu enregistré et les dépenses engagées en 2005 sur les années antérieures 2003 et 2004. Il n’est aucunement fait mention de cela dans les réponses à l’avis d’appel. Les avis d’appel sont ainsi rédigés : [traduction] « Les comptes de dépenses concernaient deux exercices de l’entreprise, mais trois années civiles ».
+[5] Tels que je les comprends, les faits comprennent les éléments suivants. Les appelants travaillaient pour TRS, entreprise qui collectait des fonds pour des organismes de bienfaisance[1]. Je crois que la tâche principale des appelants consistait à assurer le recrutement des préposés à la collecte de fonds et à organiser leur travail, bien que la preuve concernant leurs responsabilités au sein de l’entreprise soit vague, comme la plupart des autres déclarations dont il a été question. Dans la convention employeur‑employé de sept pages qui concerne M. Solomon (pièce A‑1), les fonctions de son emploi sont décrites de la manière suivante, au paragraphe 1.a. :
+[traduction]
+[…] l’employé avait les connaissances et l’expérience nécessaires pour s’acquitter de ses fonctions et assumer les responsabilités qui incombent a un directeur du marketing et à un directeur des finances[2].
+Curieusement, la convention n’a pas été déposée en preuve avant le jour de l’audition des appels, et ce, même si l’Agence du revenu du Canada (l’« ARC ») s’occupait du dossier des appelants depuis plus d’un an.
+[6] La pièce A-1, le document n° 17, est un état des résultats de l’ARC pour TRS au sujet de l’année 2005, lequel indique :
+[traduction]
+« Revenu total de 665 529 $ » et frais d’exploitation de 657 018 $, ce qui inclut 580 472 $ pour les commissions[3] et 75 960 $ pour les frais de déplacement.
+En l’espèce, les frais de déplacement sont la principale question en litige.
+[7] En 2005, TRS a versé aux appelants une somme de 60 cents pour chaque kilomètre parcouru dans le cadre de leurs déplacements professionnels, une somme que l’intimée juge déraisonnablement élevée. Dans leurs avis d’appel, les appelants ont tous deux déclaré :
+Faits pertinents qui ont été négligés :
+Mon VUS me sert à transporter des marchandises, du matériel et des passagers, et il me tient fréquemment lieu de chambre d’hôtel pour passer la nuit. Il m’arrive très souvent de dormir dans mon véhicule. Il me sert de bureau et dispose d’une ligne de téléphone fixe. À de nombreuses reprises, je me gare et je laisse le moteur en marche, ce qui permet d’alimenter les ordinateurs et les refroidisseurs qui se trouvent à l’arrière du véhicule ou d’avoir de la chaleur pendant les mois d’hiver. Ce véhicule est mon bureau ambulant.
+Mon véhicule n’est pas une automobile au sens du paragraphe 248(1) de la Loi de l’impôt sur le revenu parce qu’il est visé par l’exception du sous‑alinéa d)(ii) en tant que véhicule analogue dont la totalité ou la presque totalité de l’utilisation au cours de l’année est pour le transport de marchandises, de matériel ou de passagers, ou en tant que bureau ou chambre à coucher.
+[8] Les deux avis d’appel sont source de confusion dans la mesure où ils sont en majeure partie identiques alors qu’ils devraient faire état de montants spécifiques et différents pour chaque contribuable ainsi que d’autres différences, dont les fonctions occupées par ces derniers, etc. Par exemple, seul M. Steynor conduisait un VUS (une Hyundai Santa Fe). M. Solomon a déclaré conduire une Ford 150 (une camionnette) dans le cadre de son emploi; ma décision ne s’en trouve pas affectée, même s’il m’apparaît improbable qu’il ait dormi dans sa camionnette.
+[9] La première question en litige est de savoir si le taux applicable à chaque kilomètre parcouru devrait être de 60 cents ou plus près des 40 cents, comme le prévoit l’article 7306 du Règlement[4]. M. Steynor a déduit 16 245 $ de son revenu pour 27 075 kilomètres parcourus. Le ministre a autorisé la déduction de 10 047 $ pour cette même distance. M. Solomon a déduit 19 697 $ de son revenu pour 32 829 kilomètres parcourus. Le ministre a autorisé la déduction de 12 118 $ pour cette même distance.
+[10]Le sous‑alinéa 6(1)b)(v) est au nombre des dispositions pertinentes de la Loi; il est ainsi rédigé :
+6(1) Sont à inclure dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi, ceux des éléments suivants qui sont applicables :
+[…]
+b) les sommes qu’il a reçues au cours de l’année à titre d’allocations pour frais personnels ou de subsistance ou à titre d’allocations à toute autre fin, sauf :
+[…]
+(v) les allocations raisonnables pour frais de déplacement reçues de son employeur par un employé et afférentes à une période pendant laquelle son emploi était lié à la vente de biens ou à la négociation de contrats pour son employeur, […][5]
+[Non souligné dans l’original.]
+L’avocat de l’intimée fait valoir que le taux applicable est celui qui apparaît à l’article 7306 du Règlement, tel qu’il a été modifié pour 2005; cet article est ainsi rédigé :
+7306. Pour l’application de l’alinéa 18(1)r) de la Loi, le montant pour usage d’une ou de plusieurs automobiles par un particulier au cours d’une année d’imposition quant aux kilomètres parcourus au cours de l’année en vue de lui permettre de gagner un revenu correspond au total des montants suivants :
+a) le produit de 0,36 $ par le nombre de kilomètres parcourus au cours de l’année à cette fin[6];
+b) le produit de 0,06 $ par le nombre de kilomètres, jusqu’à concurrence de 5 000, parcourus au cours de l’année à cette fin;
+c) le produit de 0,04 $ par le nombre de kilomètres parcourus au cours de l’année à cette fin dans le territoire du Yukon, dans les Territoires du Nord-Ouest ou au Nunavut.
+[11]Les appelants ajoutent que leurs véhicules ne sont pas des automobiles au sens du paragraphe 248(1) de la Loi parce qu’ils sont visés par l’exception à la définition d’automobile du sous‑alinéa 248(1)d)(ii) de la Loi, en ce sens que « la totalité ou la presque totalité de l’utilisation […] est pour le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu ». Je conviens avec l’avocat de l’intimée que les appelants n’ont pas produit suffisamment d’éléments de preuve pour établir que leurs véhicules étaient visés par l’exception du sous‑alinéa 248(1)d)(ii). Il ne fait aucun doute que le VUS transportait une quantité impressionnante d’équipement de bureau qui était utilisé pour le compte de l’employeur, mais la preuve, qui était en majeure partie constituée de déclarations générales, ne suffit clairement pas à démontrer que les véhicules des appelants étaient :
+248(1)d)(ii) [d]es véhicules de type fourgonnette ou camionnette, ou d’un type analogue, dont la totalité ou la presque totalité de l’utilisation au cours de l’année d’imposition où ils sont acquis ou loués est pour le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu[7], […]
+[12]Je ne souscris pas aux observations des appelants selon lesquels le taux de 60 cents par kilomètre parcouru était raisonnable, et pour parvenir à cette décision, je me fonde sur la preuve impressionnante qu’a fournie le vérificateur de l’intimée, Bryce Corbett, ainsi que sur la position qu’il a adoptée. Celui‑ci a accepté le kilométrage tel que les appelants l’ont présenté, et ce, bien qu’un vérificateur précédent l’ait refusé. Je suis d’avis que la somme de 60 cents par kilomètre parcouru qui a été versée aux appelants en 2005 est complètement déraisonnable et que ces derniers ne peuvent la déduire de leur revenu à titre de frais de déplacement en vertu de la Loi et du Règlement.
+[13]Je me penche maintenant sur la question de savoir si les appelants peuvent de manière arbitraire reporter rétroactivement une partie de leur revenu de 2005 à des années antérieures. J’accepte la position de l’avocat de l’intimée et du vérificateur voulant que les contribuables doivent déclarer leurs revenus pour l’année où ils les ont reçus. Apparemment, en 2003 et en 2004, TRS n’a pas été en mesure de verser aux appelants la totalité de leur salaire ou de leur rembourser toutes leurs dépenses. Aucune disposition de la Loi ne permet de reporter une partie de la somme reçue en 2005 à des années antérieures. Le paragraphe 5(1) de la Loi est ainsi rédigé :
+[…] le revenu d’un contribuable, pour une année d’imposition, tiré d’une charge ou d’un emploi est le traitement, le salaire et toute autre rémunération, y compris les gratifications, que le contribuable a reçus au cours de l’année.
+[14]Il faut tenir compte du fait que M. Steynor dirigeait TRS. Il est important de reconnaître l’identité propre d’une société. Voir l’arrêt Solomon v. Solomon, [1897] A.C. 22[8]. Les appelants ne peuvent se servir de la société afin de satisfaire leurs besoins courants. Aucune preuve n’indique que les appelants et la société ont fait des provisions pour salaires impayés et dépenses à rembourser dans leurs déclarations de revenu pour 2003 et 2004. En 2005, il était trop tard pour faire de la planification fiscale rétroactive.
+[15] Il est compréhensible que le vérificateur ait éprouvé de la frustration. On lui a soumis des chiffres qui ne reposaient sur rien et que les appelants présentaient comme étant des dépenses légitimes. M. Corbett est un vérificateur-comptable scrupuleux. Ses collègues et lui ont besoin d’avoir des détails incluant des faits, des reçus, des témoins et autres preuves corroborantes pour étayer le fait que les dépenses que les appelants ont déduites de leur revenu ont été engagées pendant qu’ils étaient employés par TRS, que ces dépenses étaient nécessaires et qu’elles sont des dépenses autorisées par les articles 6 et 8 de la Loi.
+[16]Le nom de l’entreprise semble être « allégement fiscal », ce qui semble ne pas lui convenir; aucune preuve n’est venue expliquer la nature de cet allégement fiscal, ce qui n’influe toutefois en rien sur ma décision.
+[17]Malheureusement, les faits décrits par les appelants manquaient de précision, aussi bien devant le ministre que devant la Cour. Les chiffres, tels que ceux qui apparaissent à la page 2 de l’ensemble de documents déposés sous la cote A-1, peuvent être réels ou imaginaires; peut-être ont‑ils été préparés longtemps après la tenue des faits. En tant que tels, dates et montants n’ont pas grande signification. La preuve concrète des dépenses doit comprendre des reçus; des indications répondant aux questions visant à savoir quand, où, pourquoi et comment ces dépenses ont été faites pourraient aider. Je ne suis pas vérificateur et je ne jouerai pas aux devinettes pour décider si les dépenses en cause sont des dépenses d’entreprise légitimes. Les appelants n’ont pas satisfait au fardeau qui leur incombait d’établir que le montant autorisé par le ministre pour les kilomètres parcourus en 2005 en vue de gagner un revenu était déraisonnable. J’accepte la position du vérificateur et de l’avocat de l’intimée voulant que pour les années en question, aucune augmentation des dépenses ne doive être consentie aux deux appelants.
+[18]En conclusion, les appels interjetés par Norton Solomon pour les années d’imposition 2003, 2004 et 2005 sont rejetés, tout comme l’appel interjeté par Thomas Steynor pour l’année 2005. En outre, le présumé appel de Thomas Steynor pour 2004 est annulé.
+Signé à Ottawa, Canada, ce 24e jour de juin 2009.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 20e jour d’août 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2009 CCI 320
+NO DES DOSSIERS DE LA COUR : 2008-91(IT)I et 2008-92(IT)I
+INTITULÉ : Norton Solomon et Thomas Steynor et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 11 décembre 2008
+MOTIFS DU JUGEMENT : L’honorable juge C. H. McArthur
+DATE DU JUGEMENT : Le 24 juin 2009
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux‑mêmes
+Avocat de l’intimée :
+Me Julian Malone
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Aucune précision concernant l’[traduction] « allégement fiscal » n’a été déposée en preuve. L’appelant a déclaré que l’entreprise avait pour mission d’offrir de l’aide humanitaire aux pays africains.
+[2] Il est plus que vraisemblable que les appelants ont eux‑mêmes rédigé la convention.
+[3] La preuve relative aux commissions n’était pas claire, mais je suppose que les appelants retenaient les services de nombreuses personnes afin d’effectuer les collectes de fonds en tant que telles. Cela est sans conséquence en l’espèce.
+[4] Les appelants avaient droit à 0,42 $ par kilomètre pour les 5 020 kilomètres parcourus et à 0,36 $ pour chaque kilomètre restant. Voir l’alinéa 8f) des réponses aux avis d’appel ainsi que le sous‑alinéa 6(1)b)(v) de la Loi et l’article 7306 du Règlement ici reproduits.
+[5] Loi de l’impôt sur le revenu, sous‑alinéa 6(1)b)(v).
+[6] Il s’agit d’un extrait du Règlement de 2005; toutefois, il y est question d’une proposition de modification visant à remplacer 36 cents par 39 cents pour 2005. C’est ce taux modifié de 39 cents que le ministre applique aux frais de déplacement.
+[7] Loi de l’impôt sur le revenu, définition d’« automobile », sous‑alinéa 248(1)d)(ii).
+[8] Ne pas confondre avec l’appelant en l’espèce, Norton Solomon.

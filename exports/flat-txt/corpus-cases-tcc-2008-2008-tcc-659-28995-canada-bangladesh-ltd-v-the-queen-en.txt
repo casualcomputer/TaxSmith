@@ -1,0 +1,115 @@
+Title: Canada Bangladesh Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28995/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-659-28995-canada-bangladesh-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-12-02
+
+# Canada Bangladesh Ltd. v. The Queen
+
+- Citation: 2008 TCC 659
+- Decision date: 2008-12-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6744, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Canada Bangladesh Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-02
+Neutral citation
+2008 TCC 659
+File numbers
+2008-1134(GST)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-1134(GST)I
+BETWEEN:
+CANADA BANGLADESH LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 27, 2008 at Calgary, Alberta
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+Mohammed Siddiqui Salekur
+Counsel for the Respondent:
+Robert Neilson
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Excise Tax Act for the reporting periods from July 1, 2004 to June 30, 2005 is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that tax collected should be reduced by $2,100.
+Each party shall bear their own costs.
+Signed at Ottawa, Canada this 2nd day of December 2008.
+“J. Woods”
+Woods J.
+Citation: 2008TCC659
+Date: 20081202
+Docket: 2008-1134(GST)I
+BETWEEN:
+CANADA BANGLADESH LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on November 28, 2008.)
+Woods J.
+[1] These are reasons delivered orally in the matter of Canada Bangladesh Ltd. and Her Majesty the Queen.
+[2] The appeal concerns two GST assessments, one dated December 6, 2006 and the other dated January 14, 2008.
+[3] The appellant was represented at the hearing by its owner, Mr. Salekur.
+[4] The amount of tax in dispute appears to be $6,572.29 and I will mention how I have calculated this. It is simply the net tax as reported in the appellant’s GST return, which was a refund of $4,213.06, plus the tax that the Minister states was owing, which was $2,359.23. Penalty and interest were also assessed.
+[5] The assessments concern the calculation of net tax for four quarterly reporting periods between July 1, 2004 and June 30, 2005.
+[6] The background to this appeal is that the appellant operated a grocery store and, for the first two reporting periods also operated a clothing store in premises next to the grocery store.
+[7] The owner of Canada Bangladesh Ltd., Mr. Salekur, admitted that the company did not keep proper books and records, stating that it was expensive to have this done. Unfortunately for the appellant, the cost of preparing proper records is not a sufficient excuse not to have them prepared. It is very important to the integrity of the tax system in Canada that all taxpayers who carry on business keep proper books and records.
+[8] I turn now to the substance of the dispute which is whether the Minister correctly determined net tax for GST purposes.
+[9] The computation of net tax is a two-step process and I will consider each step separately, starting with input tax credits and then moving to tax collectible.
+[10] In regards to input tax credits, the appellant in its tax returns claimed total input tax credits of $5,113.26. The assessments disallowed a total of $1,295.98.
+[11] The appeals officer who considered the appellant’s objection testified at the hearing. In her testimony, she stated that the input tax credits were disallowed because there was not sufficient documentation.
+[12] I do not think that any adjustment in the appellant’s favour is warranted in respect of the input tax credits. The requirement for documentation in regards to input tax credits is important to the proper administration of the GST and I do not think the obligation should be lightly disregarded.
+[13] I turn now to the second step in the process of calculating net tax, which is to determine tax collectible on sales.
+[14] In this case, because there were not sufficient records, the Canada Revenue Agency auditor attempted to reconstruct taxable sales based on deposits in the appellant’s bank accounts. Any deposits that were not satisfactorily explained to either the auditor or the appeals officer were assumed to represent sales of taxable goods.
+[15] The adjustments that were made in the assessments were to increase tax collectible from $900 which was reported on the tax return, to $5,276.31. This represents a significant increase in tax collectible.
+[16] The appellant’s main argument with respect to this calculation is that the calculation incorrectly assumes that all of the unexplained sales are taxable whereas the appellant’s primary business was the sale of non-taxable groceries.
+[17] I do not think that this is a satisfactory explanation. In 1995, former Chief Justice Bowman commented in a case involving similar facts that it is not sufficient to merely make bald assertions regarding sales. There must be much more detailed evidence in support of the assertions. This decision is called 620247 Ontario Ltd. v. The Queen.
+[18] Notwithstanding that there was no satisfactory explanation for the deposits, I think that it is appropriate to make some adjustment in the appellant’s favour to the tax collectible.
+[19] The reason for this is that I am not satisfied that the auditor acted on the best information that was available. I would note that this distinguishes the 1995 decision of the former Chief Justice where the judge determined that the auditor acted on the best evidence that he could find.
+[20] One of the problems that the respondent has in this case is that the auditor was not available to testify. Because of this, we simply do not know everything that the auditor considered in reaching the conclusions that he did, namely that the deposits represent sales, and that the sales were not sales of basic groceries which would be exempt. Was the auditor diligent in reaching these conclusions? Did he act on the best information that he had available? I simply do not know. It is unfortunate that the auditor was not able to testify but that is not the fault of the appellant.
+[21] When I reviewed the auditor’s working papers that were introduced by the respondent, I found that I had a great deal of questions and very few answers. As an example, why were the deposits much greater in the first two reporting periods and much less in the second two?
+[22] Where does that leave us? On the one hand, there is a determination of net tax by the Minister on which I have little confidence that it was prepared with the best information available. On the other hand, the Minister was forced to make this determination because the appellant had neglected its statutory duty to keep proper records.
+[23] In these circumstances, I conclude that both parties must bear some of the blame. Because I have no idea what the correct figures should be, I have decided that it would be appropriate to make an arbitrary adjustment to net tax of $2,100. This is approximately 50 percent of the increase in tax collected from what was claimed in the tax returns.
+[24] In the result, the appeal will be allowed and the assessments will be referred back to the Minister of National Revenue to reduce net tax by $2,100. The reduction should be made to the earliest reporting period.
+[25] As for penalties and interest, there should also be a consequential adjustment to them. There is no justification to delete the penalty altogether, however, since the appellant did not keep proper records.
+[26] As for costs, each party shall bear their own costs.
+Signed at Ottawa, Canada this 2nd day of December 2008.
+“J. Woods”
+Woods J.
+CITATION: 2008TCC659
+COURT FILE NO.: 2008-1134(GST)I
+STYLE OF CAUSE: CANADA BANGLADESH LTD. AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: November 27, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice J. Woods
+DATE OF JUDGMENT: December 2, 2008
+APPEARANCES:
+Agent for the Appellant:
+Mohammed Siddiqui Salekur
+Counsel for the Respondent:
+Robert Neilson
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,565 @@
+Title: L'Association canadienne de protection médicale c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29031/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-33-29031-l-association-canadienne-de-protection-m-dicale-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-04-10
+
+# L'Association canadienne de protection médicale c. La Reine
+
+- Citation: 2008 CCI 33
+- Decision date: 2008-04-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6840, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+L'Association canadienne de protection médicale c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-10
+Référence neutre
+2008 CCI 33
+Numéro de dossier
+2005-98(GST)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2008CCI33
+Date : 20080410
+Dossier : 2005‑98(GST)G
+ENTRE :
+L’ASSOCIATION CANADIENNE DE PROTECTION MÉDICALE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Les présents appels se rapportent à des cotisations établies en vertu des dispositions relatives à la taxe sur les produits et services (la « TPS ») de la Loi sur la taxe d’accise (la « LTA ») pour les périodes allant du 15 octobre 2001 au 15 octobre 2003 et du 1er janvier 2002 au 31 mars 2004.
+[2] Il s’agit essentiellement de savoir si les honoraires que l’appelante (l’« ACPM ») a versés à certains gestionnaires de placements sont exemptés de la TPS parce qu’il s’agit de « services financiers ». Les gestionnaires de placements ont entière discrétion pour gérer le placement des fonds faisant partie de la réserve pour réclamations de l’appelante.
+[3] Les parties ont soumis un exposé conjoint partiel des faits (l’« ECF »), qui figure à l’annexe A des présents motifs.
+[4] L’ECF a été complété par la preuve de deux témoins cités par l’appelante et d’un témoin cité par l’intimée.
+[5] L’appelante est une personne morale sans but lucratif. Elle fournit aux médecins une protection à l’égard des poursuites en responsabilité professionnelle à titre d’organisation de défense mutuelle. Elle paie les frais juridiques engagés pour défendre les médecins qui sont poursuivis pour négligence professionnelle et, si une décision est rendue contre un médecin, l’appelante paie le montant en cause. Même s’il a été nié avec véhémence qu’elle est une compagnie d’assurance, l’appelante ressemble fort à un assureur, sauf qu’elle ne détient aucun permis; l’appelante affirme que, contrairement à une compagnie d’assurance, elle n’a aucune obligation légale de défendre un médecin contre lequel une demande fondée sur la négligence professionnelle est présentée ou de payer le montant demandé. Cela pourrait surprendre les médecins, qui ont versé de grosses sommes d’argent à l’appelante pour ce genre de protection.
+[6] Les médecins paient l’appelante; les montants ainsi reçus font partie des réserves pour réclamations de l’ACPM. L’appelante retient les services de gestionnaires de placements (les « GP »), qui ont entière discrétion pour investir les fonds de l’appelante dans deux types de comptes : les fonds réservés et les fonds communs.
+[7] Les fonds réservés ne sont pas amalgamés aux fonds d’autres investisseurs. De 75 à 80 p. 100 des fonds de l’appelante sont des fonds réservés. Les fonds communs sont des véhicules de placement dans lesquels les fonds de l’appelante sont mis en commun avec ceux d’autres investisseurs. Les fonds communs représentent de 20 à 25 p. 100 du total.
+[8] Dans les deux cas, les GP peuvent à leur discrétion prendre les décisions relatives au placement des fonds. La CIBC Mellon agit à titre de dépositaire à l’égard des placements faisant partie des fonds réservés. Les tâches et pouvoirs du dépositaire sont énoncés au paragraphe 18 de l’ECF. Le dépositaire détenait en tout temps le titre légal afférent aux valeurs mobilières dont étaient composés les fonds réservés et avait physiquement la garde de ces valeurs mobilières.
+[9] L’appelante a demandé un remboursement de la TPS à l’égard des honoraires versés aux GP. Le ministre du Revenu national (le « ministre ») a refusé la demande, d’où les présents appels.
+[10] L’appelante affirme que les services qui lui sont fournis sont des services financiers au sens des alinéas a), b), c), d), f) ou l) de la définition figurant au paragraphe 123(1) de la LTA et qu’ils sont donc exemptés. L’intimée affirme de son côté que les services ne sont aucunement visés par la définition de l’expression « service financier » et que, de toute façon, les alinéas p), q) ou t) de la définition ont pour effet d’exclure ces services. Plus précisément, l’intimée soutient que les honoraires payés à l’égard des fonds réservés sont visés à l’alinéa p), qu’en ce qui concerne les fonds communs, ils sont visés à l’alinéa q) et que, de toute façon, c’est l’alinéa t) qui s’applique aux fonds réservés.
+[11] Me Ezri a présenté la cause de l’intimée d’une façon fort claire dans son exposé préliminaire. Voici ce qu’il a dit :
+[traduction]
+Je crois que mon ami avait raison de dire que la question de la fourniture de conseils constitue notre argument subsidiaire. Notre principal argument en l’espèce est qu’ils fournissent un service de gestion, mais nous disons que le service de gestion n’est pas visé aux alinéas a) à l) parce que l’élément dominant du service de gestion qui est fourni est composé des compétences et capacités des gestionnaires et non des aspects mécaniques de la négociation de titres.
+[...]
+Ma principale position est qu’il ne s’agit pas de conseils. Tel est mon argument ultime. Mon argument principal est qu’ils paient certains montants pour la gestion de placements, qui n’est mentionnée nulle part aux alinéas a) à l).
+Il s’agit essentiellement du même argument que celui qui a été avancé dans la décision par laquelle la demande de remboursement a été rejetée. La décision est suffisamment importante pour qu’il vaille la peine de la reproduire. :
+[traduction]
+AVIS DE DÉCISION
+Le présent avis se rapporte à la cotisation concernant la demande générale de remboursement de la taxe sur les produits et services (TPS/TVH) pour la période allant du 1er janvier 2002 au 31 mars 2004, en date du 6 mai 2004.
+Le ministre du Revenu national a minutieusement réexaminé la cotisation par rapport aux renseignements donnés dans votre avis d’opposition; la décision suivante est rendue :
+Votre opposition est rejetée et la cotisation est ratifiée.
+1. Les services en question étaient des fournitures décrites aux alinéas a), c), d), f) et l) de la définition de l’expression « service financier », au paragraphe 123(1) de la Loi, de sorte qu’il s’agit de fournitures exonérées.
+2. La principale activité de l’inscrit ne consiste pas à investir des fonds de façon que l’alinéa q) de la définition de l’expression « service financier », au paragraphe 123(1) de la Loi, s’applique en vue d’exclure les services de la définition de la fourniture exonérée d’un service financier.
+3. L’alinéa q) s’applique uniquement si l’« activité principale » de l’inscrit se rapporte au placement de fonds.
+4. En vertu du paragraphe 165(1) et des définitions, au paragraphe 123(1), des expressions « fourniture taxable » et « activité commerciale », vous maintenez qu’une « fourniture exonérée » ne constitue pas une « activité commerciale » et n’est pas visée par la définition de l’expression « fourniture taxable ». Par conséquent, une fourniture exonérée n’est pas taxable conformément au paragraphe 165(1) de la Loi.
+5. Les services fournis à l’inscrit par les fournisseurs de services comprenaient des fournitures énumérées aux alinéas a), c), d) et f) de la définition de l’expression « service financier », au paragraphe 123(1) de la Loi, et constituaient également la prise de « mesures » en vue d’effectuer de tels services financiers, comme il en est fait mention à l’alinéa l).
+6. La décision rendue par la Cour canadienne de l’impôt dans l’affaire The Colleges of Applied Arts and Technology Pension Plan v. The Queen, [2003] G.S.T.C. 143 (« CAAT ») est déterminante étant donné que les faits énoncés dans la présente opposition sont en bonne partie identiques à ceux de l’affaire CAAT.
+Le dossier et les documents disponibles ont été examinés et il a été conclu ce qui suit :
+1. L’inscrit a conclu des contrats de prestation de services avec des fournisseurs de services de placement qui gèrent d’une façon indépendante le portefeuille de l’inscrit.
+2. Les fournisseurs de services de placement exigeaient la TPS de l’inscrit sur la contrepartie que celui‑ci payait pour leurs services.
+3. L’inscrit versait la TPS aux fournisseurs de services de placement; il a par la suite produit une demande générale de remboursement de la TPS payée par erreur en se fondant sur le fait que les services rendus par les fournisseurs de services de placement étaient des fournitures exonérées visées par la définition de l’expression « service financier », au paragraphe 123(1) de la Loi sur la taxe d’accise.
+4. La demande de remboursement de l’inscrit a été refusée pour le motif que les fournitures se rapportant aux services de gestion de placements effectuées par les fournisseurs de services de placement étaient des fournitures taxables et que, cela étant, la TPS avait à juste titre été demandée et payée. La décision de refuser le remboursement était fondée sur la décision 50019 remise à l’inscrit par la Direction de l’accise et des décisions de la TPS/TVH (Agence des douanes et du revenu du Canada) le 19 avril 2004.
+5. Nous avons examiné la décision, les dispositions pertinentes de la Loi sur la taxe d’accise et la politique P‑077R2. Compte tenu du contrat conclu entre l’inscrit et les fournisseurs de services de placement et conformément à la politique P‑077R, la fourniture effectuée par les fournisseurs de services de placement constitue une fourniture unique moyennant une contrepartie unique.
+6. En outre, conformément au contrat, la fourniture consiste principalement à fournir des conseils professionnels en matière de placements et de gestion de fonds.
+7. La décision rendue dans l’affaire The Colleges of Applied Arts and Technology Pension Plan v. The Queen, [2003] G.S.T.C. 143 (« CAAT »), comme l’a fait remarquer le juge, a une application restreinte compte tenu des modifications apportées à la Loi sur la taxe d’accise en l’an 2000. Elle n’a rien à voir avec la présente opposition.
+(Juge Bowie, J.C.C.I.) : « [...] puisque la définition a été modifiée en 2000 de façon rétroactive à 1991, la décision qui sera rendue en l’espèce n’aura qu’une application très limitée. La loi modificative a préservé les droits de contribuables qui, à l’instar de l’appelant, ont demandé un remboursement avant le 30 juillet 1998. »
+8. Une fourniture unique de services de gestion, moyennant une contrepartie unique, ne constitue pas un « service financier » en vertu de la Loi sur la taxe d’accise.
+9. Les alinéas de la définition de l’expression « service financier », au paragraphe 123(1) de la Loi sur la taxe d’accise, ne s’appliquent pas aux services fournis par les fournisseurs de services de placement.
+10. Par conséquent, l’inscrit est l’acquéreur d’une fourniture taxable et la TPS lui a à juste titre été demandée conformément aux paragraphes 165(1) et 221(1) de la Loi sur la taxe d’accise.
+En vertu du paragraphe 297(1) de la Loi sur la taxe d’accise, vous avez à juste titre fait l’objet d’une cotisation conformément au paragraphe 261(1) de la Loi sur la taxe d’accise.
+[12] Le service financier, dans la mesure où cette expression est pertinente en l’espèce, est défini en ces termes au paragraphe 123(1) :
+« service financier »
+a) L’échange, le paiement, l’émission, la réception ou le transfert d’argent, réalisé au moyen d’échange de monnaie, d’opération de crédit ou de débit d’un compte ou autrement;
+b) la tenue d’un compte d’épargne, de chèques, de dépôt, de prêts, d’achats à crédit ou autre;
+c) le prêt ou l’emprunt d’un effet financier;
+d) l’émission, l’octroi, l’attribution, l’acceptation, l’endossement, le renouvellement, le traitement, la modification, le transfert de propriété ou le remboursement d’un effet financier;
+[...]
+f) le paiement ou la réception d’argent à titre de dividendes, sauf les ristournes, d’intérêts, de principal ou d’avantages, ou tout paiement ou réception d’argent semblable, relativement à un effet financier;
+[...]
+l) le fait de consentir à effectuer un service visé à l’un des alinéas a) à i) ou de prendre les mesures en vue de l’effectuer;
+mais il n’inclut pas
+[...]
+p) les services de conseil, sauf un service visé aux alinéas j) ou j.1);
+q) l’un des services suivants rendus soit à un régime de placement, au sens du paragraphe 149(5), soit à une personne morale, à une société de personnes ou à une fiducie dont l’activité principale consiste à investir des fonds, si le fournisseur est une personne qui rend des services de gestion ou d’administration au régime, à la personne morale, à la société de personnes ou à la fiducie :
+(i) un service de gestion ou d’administration,
+(ii) tout autre service (sauf un service prévu par règlement);
+[...]
+t) les services visés par règlement.
+[13] Le Règlement sur les services financiers (TPS/TVH) prévoit ce qui suit à l’article 4 :
+4(1) Les définitions qui suivent s’appliquent au présent article.
+« effet » Argent, compte, pièce justificative de carte de crédit ou de paiement, ou effet financier.
+« personne à risque » Personne exposée à un risque financier du fait de la propriété, de l’acquisition ou de l’émission par la personne d’un effet à l’égard duquel un service mentionné au paragraphe (2) est offert, ou à cause d’une garantie, d’une acceptation ou d’une indemnité se rapportant à l’effet, à l’exclusion de la personne qui s’expose à un tel risque dans le cadre et du seul fait de l’autorisation d’une opération relative à l’effet ou de la fourniture d’un service de compensation ou de règlement relativement à l’effet.
+[...]
+(2) Sous réserve du paragraphe (3), pour l’application de l’alinéa t) de la définition de « service financier », au paragraphe 123(1) de la Loi, sont visés les services suivants, sauf ceux mentionnés à l’article 3 :
+a) la communication, la collecte ou le traitement de renseignements;
+b) les services administratifs, y compris ceux reliés au paiement ou au recouvrement de dividendes, d’intérêts, de capital, de créances, d’avantages ou d’autres montants, à l’exclusion des services ne portant que sur le paiement ou le recouvrement.
+(3) Pour l’application de l’alinéa t) de la définition de « service financier », au paragraphe 123(1) de la Loi, ne sont pas visés les services mentionnés au paragraphe (2) et fournis relativement à un effet par :
+a) la personne à risque;
+b) la personne étroitement liée à la personne à risque, si l’acquéreur du service n’est ni la personne à risque, ni une autre personne étroitement liée à celle‑ci;
+c) le mandataire, le vendeur ou le courtier qui prend des mesures en vue de l’émission, du renouvellement, de la modification ou du transfert de propriété de l’effet pour le compte de la personne à risque ou d’une personne étroitement liée à celle‑ci.
+[14] La réponse à la question de savoir si les services fournis par les GP sont visés aux alinéas a), b), c), d), f) ou l), ou s’ils sont visés par les exclusions prévues aux alinéas p), q) ou t), dépend essentiellement de la nature des services fournis. Il s’agit essentiellement d’une décision factuelle. De fait, bien que d’autres dispositions soient mentionnées, l’examen sera principalement axé sur les alinéas 123d) et 123l); « le transfert de propriété [...] d’un effet financier » ou « [la prise de] mesures en vue » [d’effectuer un tel transfert]. Telle est la position principale de l’appelante. L’intimée met l’accent sur l’expertise des GP et conclut que les honoraires ont été payés pour des conseils. Les paragraphes 6 et 7 de la réponse modifiée à l’avis d’appel sont ainsi rédigés :
+[traduction]
+6. En établissant la cotisation à l’égard de l’appelante en vue de rejeter les demandes de remboursement, le ministre du Revenu national (le « ministre ») s’est fondé sur les hypothèses suivantes, énoncées dans une décision rendue à l’égard de l’appelante au mois d’avril 2004 :
+a) l’objet primordial de l’embauche des gestionnaires de placements (les « GP ») se rapportait à l’expertise des GP lorsqu’il s’agissait de choisir des produits de placement rentables et de décider à quel moment il fallait échanger ces produits ou les vendre;
+b) les services des GP étaient fournis en tant qu’une fourniture mixte unique, moyennant une contrepartie unique;
+c) la fourniture effectuée par les GP en faveur de l’appelante consistait principalement à fournir une expertise et des conseils de qualité en matière de placements;
+d) le principal service fourni par les GP était composé de leur expertise lorsqu’il s’agissait de choisir des titres, soit un service autre qu’un service financier prévu aux alinéas a) à m) de la définition de l’expression « service financier », au paragraphe 123(1) de la Loi;
+e) la fourniture de services par les GP était une fourniture taxable.
+7. En ratifiant la cotisation, le ministre s’est fondé sur les hypothèses suivantes :
+a) la fourniture effectuée par les GP était une fourniture unique effectuée moyennant une contrepartie unique;
+b) la fourniture consistait principalement à fournir des conseils professionnels en matière de placements et à gérer des fonds;
+c) une fourniture unique de services de gestion moyennant une contrepartie unique ne constitue pas un « service financier », au paragraphe 123(1) de la Loi;
+d) les services fournis par les GP n’étaient pas visés aux alinéas de la définition de l’expression « service financier », au paragraphe 123(1) de la Loi;
+e) l’appelante était l’acquéreur d’une fourniture taxable.
+[15] Pour statuer sur la nature des services fournis, je crois qu’il importe d’examiner trois questions :
+a) les politiques de l’appelante en matière de placements;
+b) les dispositions du contrat conclu entre l’appelante et les GP;
+c) les témoignages oraux des représentants de l’appelante et des GP en ce qui concerne les services rendus par les GP.
+[16] Je commencerai cet examen en parlant des propres objectifs et politiques de l’appelante. À l’onglet 29 de la pièce A‑2, il y a un document appelé : [traduction] « Énoncé des politiques et objectifs de placement de l’Association canadienne de protection médicale » (l’« EPOP »). Ce document énonce en détail les objectifs de l’appelante en matière de placements. Je ne citerai que quelques dispositions de ce document de 16 pages :
+[traduction]
+Le comité de placements cherche à établir la politique et les procédures de placement de l’Association, à examiner les résultats comparativement au fonds de placement approuvé et à présenter un rapport à chaque séance du conseil. Le comité de placements est chargé d’établir l’énoncé des politiques et objectifs de placement et de veiller à ce que les actifs affectés à la réserve pour réclamations (ci‑après « le fonds ») soient gérés conformément aux lignes directrices mentionnées dans l’énoncé.
+[...]
+Le fonds sera géré à l’externe principalement sur une base externe. La gestion externe permet au fonds d’avoir accès aux meilleurs talents disponibles en matière de placements, à un coût qui, de l’avis du comité, se compare favorablement avec ce qu’il en coûterait pour employer de telles personnes à l’interne. Le recours à des gestionnaires externes permet également au comité de choisir des gestionnaires dont les styles de gestion sont complémentaires, ce qui crée une possibilité de rendements supérieurs sans pour autant qu’il y ait augmentation proportionnelle des risques d’investissement. On pourra envisager de faire exception à la gestion externe lorsqu’une analyse coût‑avantage indiquera un rendement positif pour l’Association. Cela peut comprendre la gestion de l’encaisse (les placements sur le marché monétaire), une catégorie d’actifs précise (comme un portefeuille varié d’unités dans des fonds de placement immobilier), ou une approche de gestion spécifique (comme des fonds indiciels synthétiques passifs). La gestion interne de fonds en période de transition d’un gestionnaire à l’autre sera également autorisée.
+[...]
+Article 3 – Répartition des responsabilités
+Les responsabilités associées à la gestion des placements du fonds ont été réparties comme suit :
+Le comité de placements :
+• se réunit au moins trois fois l’an;
+• établit l’énoncé des politiques et objectifs de placement;
+• examine l’énoncé chaque année, et procède notamment à un réexamen de la politique de composition de l’actif à long terme, des attentes relatives aux rendements, de la tolérance à l’égard des risques et de l’horizon temporel;
+• choisit, nomme, surveille et au besoin renvoie les gestionnaires de placements et surveille leurs mandats précis en matière de placements, et fait appel à des entreprises s’occupant de la mesure du rendement et, au besoin, à des conseillers et à d’autres experts;
+• répartit les fonds de l’Association entre les gestionnaires de placements et donne aux gestionnaires de placements des renseignements au sujet du flux de l’encaisse;
+• choisit, nomme, surveille et, au besoin, renvoie le dépositaire chargé de conserver les actifs du fonds;
+• examine et évalue, au point de vue de la quantité et de la qualité, le rendement de chaque gestionnaire de placements au moins une fois l’an, et compare notamment les taux de rendement obtenus par rapport aux objectifs établis et au rendement d’autres gestionnaires de placements dont les mandats sont similaires, et évalue le risque assumé dans la poursuite de ces objectifs;
+• surveille les mesures prises par la haute direction aux fins de l’exécution des décisions qui sont prises, ainsi que les lignes directrices opérationnelles qu’il a établies;
+• donne des conseils et fait des recommandations au conseil au sujet de placements précis;
+• établit un rapport à l’intention du conseil après chaque réunion.
+[...]
+Les gestionnaires de placements :
+• choisissent les titres dans chaque catégorie d’actifs, sous réserve de la législation applicable ainsi que des restrictions et instructions contenues dans le présent énoncé et dans tout document supplémentaire fourni par le comité;
+• remettent chaque mois au directeur des finances des rapports concernant le portefeuille d’actifs du fonds ainsi que des rapports concernant toutes les transactions conclues au cours de la période;
+• avisent sans délai le dépositaire des achats, ventes et autres opérations sur titres;
+• effectuent le rapprochement entre les soldes en espèces et les soldes en titres de fin du mois d’une part, et les relevés fournis par le dépositaire d’autre part,
+• rencontrent les membres du comité au moins une fois l’an pour présenter leur analyse du rendement des placements et pour décrire leurs stratégies de placement existantes et futures dans le cadre de leur mandat précis en matière de placements;
+• observent le code de déontologie et les règles de conduite professionnelle de l’Association pour ce qui est de la gestion des placements et de la recherche sur les placements;
+• fournissent chaque année des états financiers vérifiés (comprenant une liste des titres qui sont détenus) pour tous les fonds communs dans lesquels l’Association a des intérêts financiers.
+[...]
+Les éléments fondamentaux de la politique et son fondement sont énoncés ci‑dessous :
+• Le fonds fera des placements dans des actions canadiennes, américaines ou internationales, dans des titres canadiens à revenu fixe, dans des effets du marché monétaire et dans toute autre catégorie d’actifs que le comité juge appropriée. Les placements effectués dans ces catégories d’actifs fournissent une certaine protection contre l’augmentation des obligations de l’Association qui risquent d’être touchées par l’inflation. De plus, les placements dans une vaste gamme de catégories d’actifs comportent des avantages sur le plan de la diversification.
+• À l’heure actuelle, aucun actif n’est attribué à des valeurs immobilières ou à des hypothèques, mais le comité pourra ajouter cette catégorie d’actifs dans l’avenir.
+• À l’exception des obligations à rendement réel, aucun placement n’est disponible en vue de réduire directement les risques associés à l’inflation courus par l’Association. Toutefois, le marché canadien des obligations à rendement réel demeure non liquide et restreint au point de vue de la disponibilité des produits, des échéances et de la disponibilité des cotes de crédit. Pour ces raisons, aucun actif ne sera expressément attribué, à l’heure actuelle, à des obligations à rendement réel. Les gestionnaires d’obligations pourront acquérir des obligations à rendement réel pour leur portefeuille.
+‑ Objectifs de placement
+• Le fonds sera géré sur une base continue, le principal objectif étant la maximisation du taux de rendement à long terme afin de faciliter le financement des paiements récurrents à effectuer et d’assurer ainsi une certaine stabilité quant aux taux de cotisation applicables aux membres de l’Association lorsqu’ils paient leurs frais annuels d’inscription.
+[...]
+‑ Structure de la gestion des placements
+Le comité croit que la gestion active devrait améliorer les rendements et que ce potentiel justifie une augmentation modeste des risques d’investissement, dans les limites énoncées dans le présent document. Lorsque le comité croit que l’efficacité de marchés ou de segments de marché précis est telle que la gestion active a peu de chances de dépasser d’une façon continue le taux de référence, une approche de gestion passive pourra être adoptée au moyen de fonds indiciels.
+Les actifs du fonds seront gérés par chaque gestionnaire de placements, sous réserve des restrictions énoncées dans la présente politique. Le comité peut choisir un seul gestionnaire ou il peut en choisir plusieurs pour chaque catégorie d’actifs, ou pour toute combinaison de catégories d’actifs.
+‑ Objectifs de gestion applicables au fonds
+Le rendement de la partie du fonds qui est activement gérée sera considéré comme satisfaisant si le rendement calculé sur une année (une fois payés les honoraires de gestion) moyenné sur des périodes mobiles de quatre ans est au moins égal au rendement qu’il aurait été possible d’obtenir en effectuant des placements passifs dans le portefeuille de référence, plus les cibles de rendement fixées pour chaque catégorie d’actifs.
+Le rendement de la partie du fonds qui est passivement gérée sera considéré comme satisfaisant si l’erreur d’écart par rapport à l’indice connexe se situe dans une fourchette de dix points de base vers le haut ou vers le bas. Les rendements qui dépassent l’indice sont à première vue avantageux pour l’Association, mais des rendements excessifs peuvent indiquer des faiblesses dans la méthode de suivi utilisée par le gestionnaire, et le fonds indiciel peut être exposé à des niveaux de risque plus élevés que ce que l’on voulait. On s’attend à ce que l’erreur d’écart à court terme au cours de périodes où des fonds supplémentaires sont engagés dans des placements indiciels précis dépasse la fourchette susmentionnée. Le comité constate les frais marginaux de transaction qui sont inhérents au transfert de sommes supplémentaires dans un fonds indiciel existant.
+‑ Objectifs de gestion applicables aux gestionnaires actifs individuels
+Les taux de rendement obtenus par les gestionnaires de placements qui gèrent activement le fonds seront considérés comme satisfaisants si le rendement calculé sur une année (une fois payés les honoraires de gestion) moyenné sur des périodes mobiles de quatre ans :
+1. est au moins égal à l’indice des prix à la consommation pour le Canada, plus 4 % l’an (c’est‑à‑dire, un taux de rendement réel de 4 %);
+2. est supérieur au rendement médian d’autres gestionnaires de fonds de placement dont l’approche et les objectifs, en matière de placements, sont semblables à ceux qui s’appliquent à la gestion des placements de l’Association, tel qu’il est mesuré par un service indépendant reconnu de mesure du rendement;
+3. dépasse continuellement le rendement qu’il aurait été possible d’obtenir en effectuant des placements passifs dans les indices représentatifs de référence énumérés ci‑dessous (ou d’autres points de référence dont auront convenu le comité et les gestionnaires de placements), d’un montant qui est au moins égal aux « cibles de valeur ajoutée » suivantes :
+[...]
+‑ Motifs de renvoi des gestionnaires de placements
+Le comité se demandera, le cas échéant, s’il convient de remplacer un ou des gestionnaires de placements. Les gestionnaires de placements peuvent être remplacés à l’occasion pour les motifs énumérés ci‑dessous ainsi que pour d’autres motifs :
+• omission des gestionnaires actifs de respecter les cibles de rendement de valeur ajoutée énoncées dans la présente section;
+• changement de propriétaires ou de personnel clé chez les gestionnaires de placements;
+• désir de changer la structure de gestion des placements;
+• omission de satisfaire aux exigences de l’article 3;
+• omission d’observer les restrictions en matière de placements énoncées à l’article 8;
+• changement de style en matière de placements;
+• augmentation des honoraires de gestion des placements.
+[...]
+Article 11 – Examen périodique
+Les lignes directrices mentionnées dans le présent énoncé reflètent l’entente mutuelle conclue entre le comité et le gestionnaire, comme il en est fait mention dans l’entente concernant le conseiller en placement que le gestionnaire de placements et l’ACPM ont signée. Le comité a l’intention de réévaluer les lignes directrices au moins une fois l’an et, au besoin, plus souvent. Toutefois, si un gestionnaire croit qu’il est impossible de respecter les lignes directrices et que les lignes directrices peuvent restreindre le rendement, le comité devrait en être avisé immédiatement. Les lignes directrices pourront alors être modifiées de gré à gré en vue de donner au gestionnaire la latitude nécessaire pour qu’il puisse exercer ses compétences spéciales.
+[17] La conclusion que je tire de l’EPOP est que le comité de placements a élaboré des lignes directrices et des objectifs très précis et que l’on s’attend à ce que les GP se conforment à ces lignes directrices et à ces objectifs dans la gestion des portefeuilles de placement de l’appelante. Toutefois, je ne puis rien trouver dans ce document qui soit incompatible avec l’assertion de l’appelante selon laquelle les GP ont entière discrétion pour acheter et pour vendre les titres sur lesquels ils exercent un contrôle, dans les limites des règles énoncées dans l’EPOP.
+[18] J’examinerai maintenant les contrats conclus entre l’appelante et les GP.
+[19] Le contrat conclu avec Phillips, Hager & North Ltd. le 1er janvier 1992 renferme les dispositions suivantes :
+[traduction]
+Nous retenons par les présentes vos services pour que vous agissiez comme conseiller en placement et comme gestionnaire de portefeuille, à compter du 1er janvier 1992, à l’égard de notre portefeuille de placement; nous vous donnerons des renseignements détaillés au sujet du portefeuille de placement qui vous sera alors confié. Les conditions ci‑après énoncées s’appliqueront :
+1. Il est entendu que vous respecterez le caractère confidentiel des renseignements que nous vous aurons donnés au sujet de nos affaires financières, et que nous assurerons la confidentialité des conseils et renseignements en matière de placements que vous nous aurez donnés à l’égard de notre portefeuille de placement.
+2. Il est entendu que, sous réserve de lignes directrices précises que le comité de placements vous aura données par écrit, vous avez entière discrétion pour prendre toutes les décisions de placement au sujet du portefeuille qui vous sera confié et que vous êtes autorisé à donner des instructions au dépositaire, La Banque de Nouvelle‑Écosse, 44, rue King Ouest, Toronto (Ontario), au sujet de l’achat, de la vente, de l’échange et de la livraison de titres et d’argent pour notre compte ainsi qu’au sujet des débours y afférents. En outre, les règlements de l’Association prévoient que tous les placements doivent être des placements autorisés pour les compagnies d’assurance‑vie en vertu de la Loi sur les compagnies d’assurance canadiennes et britanniques, S.R.C. 1979, ch. I‑15, dans sa forme modifiée. Nous nous engageons à aviser sans délai le dépositaire que vous êtes autorisé à agir pour notre compte à l’égard du portefeuille de placement qui vous est confié.
+3. Tous les titres acquis pour le compte de la soussignée, à l’heure actuelle ou dans l’avenir, seront détenus aux fins de la garde à la succursale principale de La Banque de Nouvelle‑Écosse, 44, rue King Ouest, Toronto (Ontario). Tous les titres de la soussignée seront enregistrés au nom de Bansco & Co., qui est désignée par La Banque de Nouvelle‑Écosse, sauf instructions contraires de la soussignée.
+4. Tous les titres acquis pour le compte de la soussignée seront achetés à l’aide des sommes que la soussignée aura à son crédit dans le compte en espèces tenu en son nom à La Banque de Nouvelle‑Écosse, succursale principale de Toronto. Tous les soldes en espèces résultant des sommes reçues par suite de la vente ou de la disposition de titres détenus pour la soussignée seront déposés directement à La Banque de Nouvelle‑Écosse, succursale principale de Toronto, au crédit du compte en espèces de la soussignée. Les dividendes et autres paiements en argent reçus à l’égard de tels titres seront déposés directement à La Banque de Nouvelle‑Écosse, succursale principale de Toronto, au crédit du compte en espèces de la soussignée tenu à cette banque.
+5. Vous nous remettrez des rapports trimestriels concernant notre portefeuille de placement, un avis de chaque transaction relative à un titre lorsqu’elle est conclue et une évaluation mensuelle du portefeuille ainsi qu’une liste complète des sommes accumulées à la fin du mois, dans les dix jours ouvrables suivant la fin de chaque mois.
+6. Vous êtes autorisé à signer au nom de la soussignée les déclarations, affidavits et certificats de propriété nécessaires le cas échéant lorsque vous recouvrez les sommes reçues au titre du capital ou du revenu pour la soussignée.
+7. En ce qui concerne tous les titres détenus pour la soussignée, vous exercerez les droits de vote et les pouvoirs y afférents. Aucun rapport d’entreprise n’a à être transmis à la soussignée, sauf sur demande expresse faite par écrit.
+[...]
+10. Nous vous verserons, pour vos services, des honoraires trimestriels en arriérés compte tenu de la valeur marchande du portefeuille de placement dont vous assurerez la supervision, lesquels seront calculés conformément à l’annexe A jointe à la présente entente. Les honoraires payables sont ceux qui sont énoncés à l’annexe A jointe à la présente entente, le barème n’étant révisé par vous que sur préavis de 60 jours, donné avant le trimestre au cours duquel il prend effet. Les honoraires à verser pour vos services pour toute période inférieure à un trimestre complet seront calculés au prorata sur une base quotidienne.
+11. La soussignée ne remettra pas en nantissement les titres détenus par le dépositaire responsable dudit compte sans vous donner un préavis de son intention de le faire.
+12. La présente entente peut être résiliée par l’une ou l’autre partie sur préavis écrit de 30 jours. Lors de la dissolution ou de la liquidation de la soussignée, vous pouvez continuer à agir en vertu des présentes sans engager votre responsabilité tant qu’un avis de la dissolution ou de la liquidation ne vous sera pas communiqué ou tant qu’il ne sera pas par ailleurs mis fin à vos pouvoirs en application de la loi.
+Une entente similaire a été conclue avec Phillips, Hager & North Ltd. en 1997.
+[20] L’entente conclue avec Sprucegrove Investment Management Ltd. est en partie libellée en ces termes :
+[traduction]
+1.01 L’investisseur confirme la nomination, qui doit prendre effet le 1er février 1995, du gestionnaire de placements chargé de fournir, sur une base continue, des services de conseil, des avis et des services professionnels de placement à l’égard de l’investissement de certains actifs de l’investisseur.
+1.02 Le gestionnaire de placements confirme par les présentes qu’il accepte sa nomination; il s’engage à fournir les services décrits à l’article 1.01 des présentes et il s’engage à fournir en tout temps ces services conformément aux conditions énoncées dans les présentes.
+[...]
+2.01 Le gestionnaire de placements s’engage à s’acquitter de son mandat en matière de gestion de placements conformément à un énoncé des objectifs de placement, ainsi qu’aux lignes directrices et restrictions dont l’investisseur et le gestionnaire de placements auront mutuellement convenu, une copie de ceux‑ci étant jointe à l’annexe A. L’énoncé peut être modifié de gré à gré s’il y a lieu.
+2.02 Le gestionnaire de placements tâchera de répartir les possibilités d’investissement entre les comptes qu’il gère en se fondant sur le caractère approprié du placement pour chaque compte géré, compte tenu : (i) du type de transaction projetée; (ii) de la valeur de l’investissement dans les titres à acheter ou à vendre; (iii) du contenu du portefeuille existant du compte géré, et (iv) des objectifs de placement énoncés à l’annexe A.
+Le gestionnaire de placements n’assumera aucune responsabilité s’il n’offre pas une possibilité précise d’investissement pour un compte géré particulier.
+2.03 L’investisseur autorise par les présentes le gestionnaire de placements à exercer les fonctions de gestion de placements qu’il doit assumer en vertu des présentes au moyen de l’utilisation d’un fonds commun (un « fonds ») décrit à l’annexe A jointe aux présentes. Si un fonds est utilisé, l’investisseur désigne par les présentes le gestionnaire de placements à titre de fondé de pouvoir avec pleins pouvoirs et entière discrétion pour prendre les mesures qu’un détenteur d’unités doit prendre à l’égard d’un tel fonds. L’investisseur autorise par les présentes le gestionnaire de placements à déduire des actifs disponibles à des fins de placement et à verser aux organismes de réglementation pertinents les frais réglementaires, le cas échéant, payables par suite de l’achat d’unités d’un fonds pour le compte de l’investisseur.
+[...]
+3.01 Le gestionnaire de placements possédera tous les pouvoirs nécessaires pour exercer ses fonctions conformément à la présente entente, et pour plus de certitude, mais sans limiter le caractère général de ce qui précède, le gestionnaire de placements est par les présentes autorisé :
+(i) à passer des ordres auprès de courtiers, d’opérateurs, de banques ou de sociétés de fiducie aux fins de l’achat et de la vente de titres, à acheter des titres directement des émetteurs ou des détenteurs de titres et à vendre des titres directement aux émetteurs de titres ou à d’autres personnes;
+(ii) à acheter et à vendre des droits et des bons de souscription d’actions et à exercer de tels droits et à exercer des privilèges de conversion et de rachat, de prolongation et de rétractation se rattachant aux titres détenus ainsi qu’à exercer les droits et pouvoirs et à suivre les instructions se rapportant à de tels titres, ou à faire en sorte que ces droits et pouvoirs soient exercés et que ces instructions soient suivies, et notamment à exercer le droit de vote courant et à consentir à toute réorganisation ou à toute opération similaire;
+(iii) à conserver tout actif d’apport qui lui est acceptable et à ordonner la vente ou la disposition de tout actif de gré à gré ou aux enchères publiques;
+(iv) à donner des instructions aux dépositaires et à d’autres personnes, si cela est nécessaire et approprié, en vue de s’acquitter de son mandat de gestion de placements;
+(v) à acheter des instruments dérivés pour des opérations de couverture pour un fonds, à conclure des arrangements de prêt de titres pour le portefeuille d’un fonds et à prendre des dispositions à des fins d’emprunt pour un fonds, à court terme, afin d’assurer le service des obligations de rachat et de distribution du fonds.
+[21] Le contrat de gestion de placements conclu avec State Street Global Advisors, Ltd. prévoit notamment ce qui suit :
+[traduction]
+4. Compte tenu des renseignements fournis par le client, le gestionnaire établira de concert avec le client une politique de placement qui convient au client, compte tenu des besoins et des objectifs du client ainsi que des restrictions qui lui sont applicables. La politique de placement est jointe à l’annexe A des présentes (la « politique de placement »).
+5. Le client s’engage par les présentes à informer le gestionnaire par écrit, en lui donnant un préavis de 48 heures, de toute modification de la politique de placement afin de permettre au gestionnaire d’examiner ces modifications et de modifier la politique de placement et la gestion du compte ou des comptes du client en conséquence.
+6. Conformément à la politique de placement, le client :
+a) autorise le gestionnaire à investir, conformément à l’annexe A, tous les actifs du compte dans des unités du fonds indiciel d’actions SSGA MA S&P (le « fonds »), qui est l’un des fonds faisant partie des fonds multi‑accès de State Street Global Advisors;
+b) consent à la mise en commun de tels actifs avec les actifs détenus dans les comptes d’autres clients du gestionnaire du fonds;
+c) autorise le gestionnaire à souscrire en son nom, à l’occasion, des unités du fonds à leur valeur unitaire respective (les « unités achetées ») conformément aux dispositions du contrat de fiducie;
+d) autorise le gestionnaire à s’occuper du rachat d’unités du fonds pour son compte, à l’occasion, à la suite des instructions qu’il lui a données;
+e) convient et reconnaît par les présentes que tous les montants qui doivent être payés à un participant à l’égard d’un fonds conformément à l’article 9 du contrat de fiducie, ou comme le prévoit l’article 9 du contrat de fiducie, seront, sauf dans la mesure où le participant remet des unités pour rachat ou donne un autre avis écrit au fiduciaire et observe toute autre condition prescrite par le fiduciaire, automatiquement réinvestis dans ce fonds au moyen de l’achat d’unités ou de fractions d’unités additionnelles de ce fonds à la valeur unitaire à la date d’évaluation où ces montants deviennent payables ou, si cette date ne correspond pas à la date d’évaluation, à la date d’évaluation suivante et, afin de donner effet aux dispositions qui précèdent, le gestionnaire modifiera le registre approprié pour qu’il indique les unités additionnelles ainsi achetées à la place de distributions en argent.
+[22] Le contrat conclu avec Alliance Capital Management Canada, Inc. renferme les dispositions suivantes :
+[traduction]
+Alliance Capital Management Canada, Inc. (le « conseiller ») et la soussignée (le « client ») conviennent par les présentes, à la date susmentionnée, que le conseiller agira à titre de gestionnaire de placements ayant entière discrétion à l’égard des actifs du client ci‑dessous décrits (le « compte de placement ») aux conditions suivantes :
+1. Le compte de placement
+Le compte de placement sera initialement composé d’argent, de valeurs assimilables à des espèces, d’actions, d’obligations et d’autres titres ou actifs que le client aura placés dans le compte de placement ou qui feront partie du compte de placement par suite de transactions.
+Le client peut faire des apports au compte de placement ou faire des retraits du compte de placement, à condition que le conseiller reçoive un préavis écrit au moins dix (10) jours ouvrables avant le retrait. L’argent, les titres et les autres actifs détenus dans le compte de placement seront détenus par toute autre personne que le client désignera à titre de fiduciaire ou de dépositaire (le « dépositaire »). Le conseiller ne sera pas responsable des dispositions qui auront été prises au sujet de la garde des actifs détenus dans le compte de placement ou du paiement des frais et droits de garde; et il n’aura pas ces actifs en sa possession et n’en aura pas la garde. Les paiements, distributions et autres opérations effectués en argent ou au moyen de titres ou d’autres actifs à l’égard du compte de placement seront remis directement au dépositaire ou effectués par celui‑ci, et le conseiller n’assumera aucune responsabilité à l’égard de la transmission ou de la garde de cet argent, de ces titres ou de ces autres actifs, ou à l’égard des actes ou omissions du dépositaire ou d’autres personnes à cet égard. Le client demandera au dépositaire de fournir le cas échéant au conseiller des rapports concernant les actifs, les sommes reçues et les sommes déboursées à l’égard du compte de placement lorsque le conseiller en fera raisonnablement la demande.
+2. Services du conseiller
+Par suite de la signature de la présente entente, le conseiller accepte d’être nommé à titre de gestionnaire de placements pour le compte de placement, avec pleins pouvoirs discrétionnaires, et s’engage à superviser les placements se rapportant au compte de placement et à faire en sorte que ces placements soient effectués conformément aux politiques et objectifs écrits de placement ainsi qu’aux restrictions applicables au client qui lui auront antérieurement été fournis, compte tenu des modifications y afférentes effectuées au besoin par le client. Dans le cadre de la prestation de ses services, le conseiller n’assumera aucune responsabilité à l’égard de toute erreur de jugement ou de tout acte ou de toute omission d’agir, sauf ceux qui résultent de sa négligence, de sa faute de conduite volontaire ou de son insouciance téméraire à l’égard des dispositions de la présente entente.
+Le conseiller remettra au client, au moins tous les trois mois, un rapport écrit et un inventaire des placements figurant dans le compte de placement. Il est convenu que le conseiller, en tenant ses dossiers, n’assume aucune responsabilité à l’égard de l’exactitude des renseignements fournis par le dépositaire, par le client ou par une autre personne.
+[...]
+7. Pouvoir discrétionnaire
+Le conseiller, dès qu’il le juge approprié et sans consulter au préalable le client, peut (i) acheter, vendre, échanger, convertir ou liquider des actions, des obligations et d’autres titres (y compris des effets du marché monétaire) ou conclure de quelque autre façon des opérations sur titres et (ii), sous réserve des dispositions du paragraphe 9 des présentes, passer des ordres aux fins de la conclusion de telles transactions auprès ou par l’entremise de courtiers, d’opérateurs ou d’émetteurs, qu’il peut choisir à son entière discrétion.
+Il est entendu que, dans la mesure où le permet l’énoncé écrit des objectifs, des politiques et des restrictions susmentionné, le conseiller peut également effectuer des transactions pour le compte de placement à l’égard d’options, de contrats à terme standardisés, de contrats à terme d’indice boursier et d’autres contrats de marchandises. En pareil cas, le client signera tout document additionnel que le conseiller jugera nécessaire en vue de lui permettre de conclure de telles transactions pour le compte de placement.
+[...]
+9. Regroupement de transactions
+Le client autorise le conseiller, à sa discrétion, à regrouper les achats et ventes de titres effectués pour le compte de placement avec les achats et ventes de titres du même émetteur pour d’autres clients du conseiller, lorsque les transactions sont effectuées le même jour. Lorsque des transactions sont ainsi regroupées, les prix réels qui leur sont applicables seront moyennés, et le client et les autres clients participants seront réputés avoir acheté ou vendu leur part proportionnelle des titres en cause au prix moyen ainsi obtenu.
+Perigee Investment Counsel Inc. déclare ce qui suit :
+[traduction]
+La présente entente servira à confirmer la nomination de Perigee Investment Counsel Inc. (« Perigee ») à titre de gestionnaire de placements auprès de l’Association canadienne de protection médicale. La présente entente prendra effet le 1er novembre 2000 et continuera à s’appliquer par la suite jusqu’à nouvel avis. La présente entente peut être résiliée en tout temps par l’une ou l’autre partie sur préavis écrit de trente jours.
+Les fonds et titres pour lesquels nous agissons à titre de conseillers en placement seront détenus en fiducie, sous la garde de CIBC Mellon (le « fiduciaire »), à son bureau, à Toronto (Ontario). Perigee avisera le dépositaire susmentionné, au moyen d’une communication écrite, de toutes les opérations sur titres qu’elle effectue dans le cadre de la gestion de ces fonds et titres.
+Perigee s’engage à passer des ordres auprès des courtiers et opérateurs ou d’autres personnes aux fins de l’achat de titres et de la vente, de l’échange ou de la liquidation des titres détenus par le dépositaire dans le compte de placement, et à donner au besoin des instructions au dépositaire si elle l’estime nécessaire aux fins de la mise en œuvre des dispositions susmentionnées.
+[23] La convention de gestion des actifs (mandat concernant le revenu fixe) conclue avec McLean Budden Limited (« MBL ») prévoit ce qui suit :
+[traduction]
+B. L’Association veut nommer MBL comme gestionnaire d’une partie des actifs à « revenu fixe » de la réserve pour réclamations. Ces actifs seront ci‑après appelés le « portefeuille » :
+[...]
+1. L’Association nomme par les présentes MBL pour qu’elle gère le placement des actifs et des bénéfices du portefeuille selon les conditions énoncées dans les présentes, la nomination prenant effet le 1er juillet 2001 (la « date de prise d’effet »), et MBL accepte par les présentes cette nomination.
+2. À la date de prise d’effet, l’Association désignera le portefeuille comme étant confié à la gestion de MBL conformément aux conditions énoncées dans les présentes. L’Association placera les actifs dans le compte du dépositaire responsable du portefeuille et fournira une liste de ces actifs à MBL. Après la date de prise d’effet, l’Association pourra, s’il y a lieu, placer des actifs additionnels de la réserve pour réclamations sous la gestion de MBL, et ces actifs, ainsi que tous les bénéfices qui seront réalisés sur tous les actifs, feront partie du portefeuille.
+3. L’Association pourra en tout temps retirer des actifs du portefeuille, à condition de donner à MBL un préavis écrit de cinq jours de ce retrait.
+4. L’Association avisera MBL par écrit, le cas échéant, du nom des représentants de l’Association qui donneront des instructions à MBL au sujet du portefeuille (le(s) « représentant(s) autorisé(s) »).
+5. MBL gérera le portefeuille et sera autorisée à investir et à réinvestir les actifs du portefeuille et à tenir les actifs investis, avec de pleins pouvoirs discrétionnaires, sous réserve d’instructions précises reçues du représentant autorisé ou des représentants autorisés, conformément à l’énoncé des politiques, normes et procédures de placement de la réserve pour réclamations qui est joint à l’annexe A (les « politiques de placement »). L’Association peut, en donnant à MBL un préavis écrit de trente (30) jours, modifier les politiques de placement; pareil avis sera joint à la présente entente en tant qu’annexe supplémentaire.
+[...]
+8. MBL aura entière discrétion pour donner des instructions au dépositaire au sujet de l’achat, de la vente et de la livraison de titres et d’argent pour le portefeuille et sera pleinement autorisée à le faire.
+[24] Il existe une entente similaire avec MBL au sujet d’actions canadiennes. En me fondant sur ces contrats, je conclus que les GP ont entièrement discrétion pour acheter et vendre des titres pour le compte de l’appelante, mais que ce pouvoir discrétionnaire doit être exercé dans les limites des lignes directrices établies par le comité de placements de l’appelante, telles qu’elles sont énoncées dans l’EPOP. Il est également clair que le comité de placements surveille de près ce que les GP font et que les GP qui ne respectent pas les objectifs de placement prévus pour les fonds qu’ils gèrent risquent de voir leur mandat prendre fin.
+[25] Certains contrats de gestion de placements conclus entre l’appelante et les GP précisent que les GP donnent des avis et des conseils à l’appelante. Or, M. Stephen Campbell, directeur des finances et directeur financier de l’appelante, a affirmé avec véhémence que l’ACPM ne s’en remet pas aux GP pour obtenir des avis et des conseils, comme le montrent certains passages de son témoignage :
+[traduction]
+Q. Quel était, à votre avis, le service essentiel qui vous était fourni par les gestionnaires de placements?
+R. Ce que nous voulions qu’ils fassent, après avoir décidé de la composition des actifs qui, selon nous, produirait le rendement approprié, car on n’obtient pas le rendement, on n’obtient pas de revenu à moins que les actifs ne soient mis en place, de sorte qu’il faut convertir l’argent et l’exposer en achetant des titres. Par conséquent, ils étaient principalement chargés d’acheter un portefeuille d’actifs, et de toute évidence, une fois les actifs achetés, il fallait les surveiller et ensuite les vendre à certains moments, puis réinvestir le produit de ces dispositions. Ces portefeuilles devaient générer un revenu, et on s’attendait à ce que, lorsque les dividendes étaient versés dans un fonds d’actions, d’autres actions soient achetées. Lorsque des intérêts étaient versés dans un fonds d’obligations, on s’attendait à ce qu’ils achètent d’autres obligations pour mettre l’argent en place. Nous voulions que tout l’argent soit investi au complet dans ces catégories d’actifs afin d’obtenir le rendement prévu.
+Q. Quels autres services les gestionnaires de placements vous fournissaient‑ils?
+R. Le service de base consistait à acheter et à vendre des titres. S’ils ne le font pas, ils ne nous fournissent pas le service dont nous avons besoin.
+Ils fournissent ce service non seulement à nous mais à de nombreux autres clients, de sorte qu’ils sont sans aucun doute tenus d’ouvrir un compte pour identifier l’argent d’une façon appropriée et, ensuite, les actifs qu’ils achètent pour notre compte. Ces titres génèrent en temps et lieu un revenu de dividendes ou un revenu en intérêts, selon le mandat. Nous nous attendons à ce qu’ils reçoivent ce revenu, à ce qu’ils l’enregistrent et à ce qu’ils le placent de nouveau en achetant des titres additionnels. Les titres qui sont dans leur portefeuille arrivent à échéance lorsqu’une obligation arrive à sa date d’échéance ou qu’une action est rachetée par la société. Ils reçoivent ces fonds et veillent à ce qu’ils soient de nouveau placés d’une façon appropriée.
+Afin d’augmenter le rendement, nous avons un programme de prêt de titres. Nous sommes dans une situation à couvert seulement, mais il y a des gestionnaires qui sont dans une situation à découvert. Afin de vendre un titre dont on n’est pas détenteur, il faut l’emprunter de quelqu’un et il est possible d’obtenir un rendement, des frais pour le prêt de titres à la personne qui va vendre à découvert. Nous avions ce programme. Nous nous attendions à ce que le gestionnaire facilite la mise en œuvre de ce programme.
+Lorsque nos comptes sont libellés en monnaie étrangère, nous nous attendons à ce qu’ils convertissent la monnaie étrangère en dollars canadiens d’une façon appropriée. Et ensuite, ils doivent nous résumer la situation et nous faire rapport, de façon que nous comprenions ce qu’ils ont fait et que nous puissions assurer le suivi d’une façon appropriée et résumer la situation et faire rapport au comité de placements au sujet du rendement du fonds sur une période donnée.
+Q. Le gestionnaire de placements avait‑il quelque chose à voir avec les comptes chez les courtiers?
+R. Afin d’exécuter les ordres d’achat et de vente, ils doivent s’occuper de la logistique et il fallait parfois ouvrir un compte de courtage, de façon qu’il soit possible de donner des instructions afin d’exécuter l’ordre d’achat et de vente.
+[...]
+Q. Je remarque qu’au premier paragraphe il est dit ce qui suit :
+« Nous [l’ACPM] respecterons le caractère confidentiel de tous les avis et renseignements en matière de placements que vous [c’est‑à‑dire Phillips, Hager & North Limited] nous donnez. » [Tel que cet extrait a été lu.]
+R. C’est exact.
+Q. Pouvez‑vous faire des commentaires à ce sujet?
+R. En général, dans ces ententes, il est convenu que les deux parties doivent respecter le caractère confidentiel des renseignements échangés, des avis échangés. Il s’agit de renseignements exclusifs. Dans ce cas‑ci, ils appartiennent à Phillips, Hager & North. À coup sûr, lorsque nous obtenions des renseignements dans un rapport trimestriel, ce devait être pour notre usage personnel et nous ne pouvions pas les partager avec le public. Je suppose que s’ils donnaient un avis, cela s’appliquerait bien sûr également.
+Q. À votre connaissance, quels avis avez‑vous reçus en vertu de cette entente?
+R. Je n’ai pas reçu d’avis. Nous n’avons pas recours à Phillips, Hager & North pour nous donner des avis, nous avons recours à eux pour qu’ils s’occupent de la gestion de portefeuille. Cette entente date de 1972. Je ne puis dire ce qui se passait à ce moment‑là, mais à coup sûr, pendant la période où je traitais, depuis 1998, avec Phillips, Hager & North, nous avons certes reçu des renseignements d’eux dans un rapport trimestriel, mais nous n’avons reçu aucun avis. Nous ne leur avons pas demandé leur avis sur certaines questions.
+[...]
+Q. Si vous vous reportez à l’onglet 13, vous allez voir une autre entente conclue avec Phillips, Hager & North, en date du mois d’octobre 1997. De quel mandat s’agit‑il dans cette entente?.
+R. Cette entente s’applique à des actions américaines, à couvert seulement, un mandat concernant les sociétés à capitalisation moyenne qui a été confié à Phillips, Hager & North.
+Q. Si je comprends bien, il s’agit d’un mandat carte blanche. Je remarque qu’au premier paragraphe il est fait mention encore une fois « d’avis et de renseignements en matière de placements ». Quels avis avez‑vous obtenus de Phillips, Hager & North dans le cadre de ce mandat?
+R. Le mandat n’a pas été établi sur la base d’avis, il s’agissait d’un mandat carte blanche. Ils effectuaient des opérations dans le compte de leur propre chef. Nous avons obtenu d’eux certains renseignements, en ce sens qu’ils remettaient les rapports mensuels et trimestriels nécessaires, mais pour ce qui est d’avis auxquels je donnerais suite, je n’en ai reçu aucun.
+[...]
+Q. J’aimerais que vous vous reportiez à l’onglet 12, si vous le voulez bien. Cela semble être une entente conclue avec Sprucegrove en matière de placements et de gestion.
+R. C’est exact.
+Q. S’agit‑il du fonds réservé ou d’un fonds commun?
+R. Il s’agit d’un fonds commun. Sprucegrove est un gestionnaire international qui gérait un fonds commun international d’actions.
+Q. Quel était le mandat pour ce fonds?
+R. Il s’agissait encore une fois d’un fonds d’actions à couvert seulement, axé sur des titres non nord‑américains, de sorte qu’il était axé sur le reste du monde, à l’exclusion du Canada et des États‑Unis. Il s’agissait d’un mandat carte blanche, mais il était exécuté pas l’entremise d’un fonds commun.
+Q. Puis‑je vous demander de vous référer au paragraphe 101. Ici encore, il est déclaré que l’investisseur, l’ACPM, confirme la nomination :
+« – du gestionnaire de placements chargé de fournir, sur une base continue, des services de conseil, des avis et des services professionnels de placement – »
+Sprucegrove vous a‑t‑elle donné des conseils ou des avis?
+R. Non, elle ne l’a pas fait, et j’aimerais signaler qu’il s’agit d’une entente type pour tous ceux qui participaient au fonds de Sprucegrove. Je ne puis dire ce que Sprucegrove a pu fournir aux autres participants, mais en ce qui concerne l’ACPM, nous avions recours à leurs services de gestion de portefeuille plutôt qu’à des services de conseil ou à des avis. Ils avaient entière discrétion pour investir les actifs du fonds conformément à cette entente.
+[...]
+Q. Puis‑je vous demander de vous reporter à l’onglet 60?
+R. D’accord.
+Q. Il s’agit d’un mandat que l’ACPM a confié à Alliance Capital Management Limited, si je comprends bien?
+R. C’est exact.
+Q. Il s’agit encore une fois d’un mandat carte blanche?
+R. Un mandat carte blanche se rapportant à des sociétés américaines à grosse capitalisation, axées sur la croissance.
+Q. Il s’agit d’un fonds réservé, et non d’un fonds commun?
+R. C’est exact.
+Q. Je remarque que le pouvoir discrétionnaire est conféré au paragraphe 7, et ensuite au paragraphe 13, vous remarquez qu’il est dit :
+« Les recommandations, avis et autres documents de travail du conseiller élaborés aux termes de la présente entente et communiqués aux clients seront tenus confidentiels. » [Tel que l’extrait a été lu.]
+Des recommandations vous ont‑elles été faites ou des avis vous ont‑ils été donnés aux termes de cette entente?
+R. Il n’y a pas eu d’avis ni de recommandations. Il y avait des renseignements, conformément aux exigences applicables aux rapports, mais ici encore, il s’agit d’un document créé par Alliance à l’intention de ses clients. Encore une fois, il se peut que des avis et des conseils aient été donnés aux autres clients qui ont signé cette entente, mais ils ne m’ont pas donné d’avis ou de conseils.
+Q. Puis‑je vous demander de vous reporter à l’onglet 17? Il s’agit d’une lettre que Perigee vous a envoyée. Pourriez‑vous me dire qui est Perigee?
+R. Perigee est une maison de gestion de placements établie au Canada. Cette entente s’applique en fait à un mandat confié à Legg Mason, le fonds géré par Bill Miller. Il s’agit d’un fonds d’actions américaines à grosse capitalisation axé sur la valeur. Perigee Investment Counsel agissait comme agent de commercialisation de Legg Mason à ce moment‑là, et cette lettre s’applique à ce mandat.
+Q. Perigee a‑t‑elle donné des avis ou a‑t‑elle fait des recommandations à l’ACPM, au comité de placements principalement, comme je le suppose, dans le cadre de ce mandat?
+R. Non, non.
+[26] M. Campbell a donné les mêmes réponses au sujet des gestionnaires de placements McLean Budden Limited :
+[traduction]
+Q. Avez‑vous reçu de MacLean Budden des avis ou des recommandations au sujet de mesures à prendre?
+R. Non. Encore une fois, il s’agissait d’un gestionnaire de portefeuille dont les services ont été retenus pour qu’il gère un mandat précis, pour faire fructifier les actifs dans cette catégorie d’actifs. Nous ne comptions pas sur eux pour nous donner des avis ou des conseils.
+[27] Il ressort clairement du témoignage de M. Campbell qu’il ne s’en remettait pas aux GP pour obtenir des avis en matière de placements. M. Campbell comptait sur l’expérience et sur l’expertise des GP pour qu’ils achètent et vendent des titres et obtiennent un rendement conforme aux lignes directrices figurant dans l’EPOP. Il en est ainsi, peu importe que le mandat des GP consiste à effectuer des placements dans un fonds équilibré, pour lequel les GP pouvaient à leur discrétion décider de la composition des actifs, ou dans un fonds composé d’actions faisant partie d’un indice particulier comme le S&P/TSX ou le S&P 500 ou encore le Dow Jones.
+[28] On attend des GP que leurs stratégies de placement obtiennent un rendement supérieur à celui de l’indice. Pour que l’indice soit dépassé, il faut procéder à une évaluation habile des risques acceptables qui permettront de maximiser le rendement. Si l’équilibre délicat entre une stratégie de placement trop prudente et une stratégie trop agressive n’est pas atteint, il peut être mis fin au mandat des GP.
+[29] L’avocat de l’intimée a contre‑interrogé M. Campbell à fond et d’une façon habile au sujet des stratégies de placement de l’appelante et de son approche en matière de placements ainsi qu’au sujet des critères utilisés lorsqu’il s’agissait de choisir ou de renvoyer un GP, mais M. Campbell n’est jamais dans son témoignage revenu sur sa position, à savoir que l’appelante ne payait pas les GP pour obtenir des avis ou des conseils.
+[30] Je crois qu’il est possible de résumer d’une façon juste le témoignage de M. Campbell, lors de l’interrogatoire principal et lors du contre‑interrogatoire, en disant que l’on choisit les GP avec énormément de soin, mais qu’une fois que les services d’un GP sont retenus et qu’un mandat lui a été confié pour une catégorie particulière d’actifs – actions à petite capitalisation, actions à grosse capitalisation, obligations, fonds indiciels, fonds communs – le GP a un pouvoir discrétionnaire absolu pour décider des titres à acheter et à vendre et du moment où l’achat ou la vente doit être effectué. Le témoignage de M. Campbell ne permet pas vraiment de conclure que l’ACPM obtenait des avis ou payait pour obtenir des avis. L’ACPM rémunérait les GP pour qu’ils achètent et vendent un portefeuille de titres dans une catégorie particulière d’actifs et conformément aux lignes directrices figurant dans l’EPOP.
+[31] Le second témoin de l’appelante était M. Anthony Gage. Lors de l’instruction, M. Gage était à la retraite, mais il avait antérieurement été président du conseil d’administration de Phillips, Hager & North Ltd. (« PH&N ») où il avait travaillé de 1984 à 2006. Selon M. Gage, PH&N est [TRADUCTION] « une maison indépendante de gestion de capital de placement qui s’occupe de gestion discrétionnaire et de gestion non discrétionnaire pour les clients ». Cette maison gère des fonds d’une valeur d’environ 68 milliards de dollars[1].
+[32] La maison PH&N est inscrite à titre de conseiller en placement en Ontario; en sa qualité de conseiller financier, elle traite avec des clients sur une base non discrétionnaire, alors que les gestionnaires de portefeuille traitent sur une base discrétionnaire avec des clients qui possèdent d’importants actifs nets ainsi qu’avec des institutions.
+[33] Le personnel de PH&N est réparti entre les clients qui confient des mandats non discrétionnaires, à qui des conseils en matière de placements sont donnés, et les clients qui confient des mandats carte blanche, auxquels on offre la gestion de portefeuille. M. Gage a décrit les deux fonctions en ces termes :
+[traduction]
+R. Dans le cas du conseiller financier, des avis sont donnés. Il ne s’agit pas d’avis qui seraient normalement donnés par un courtier en valeurs mobilières, par exemple, qu’il ait une liste recommandée de titres ou qu’il s’occupe de titres individuels. Nos conseillers financiers comme on les appelle examinent le profil de la personne en cause selon les règles voulant que l’on connaisse son client et décident s’ils veulent proposer d’autres catégories d’actifs afin d’obtenir une meilleure diversification ou un meilleur rendement.
+Le côté « gestion de portefeuille » de l’entreprise ne fait pas cela. En fait, ils obtiennent une convention de gestion de placements et un énoncé des politiques et procédures de placement et ils se fondent sur ces deux documents pour agir.
+[34] M. Gage a décrit les mesures que PH&N prenait en gérant les deux comptes pour l’appelante – le compte des actions canadiennes et le compte à revenu fixe. Dans les années 1990, PH&N gérait également un compte d’actions américaines, mais il a été mis fin à ce mandat. Les propos suivants ont été échangés entre M. Gage et l’avocat de l’appelante :
+[traduction]
+Q. À votre avis, à quoi votre rémunération se rapportait‑elle?
+R. Nous devions fournir un service de gestion de placements, offrir notre expertise pour répondre aux objectifs du client, parce que si nous répondions aux objectifs du client, nous le conservions. Si nous conservions le client, le barème des honoraires était maintenu. Il n’y avait qu’un seul but fort simple.
+Q. Comment auriez‑vous atteint ces objectifs?
+R. En utilisant en fait nos compétences pour effectuer un choix et assurer l’exécution, pour négocier, pour ajouter de la valeur par rapport à l’indice passif.
+Q. Si vous n’aviez pas acheté ou vendu de titres pour l’ACPM, vos services auraient‑ils eu de la valeur pour l’ACPM?
+R. Non, l’ACPM nous aurait renvoyés.
+[35] La maison PH&N possède un pupitre de négociation composé où travaillent des personnes qui font le commerce de titres faisant partie des portefeuilles dont la gestion leur est confiée en vertu de leurs divers mandats. Ces personnes, conformément au mandat carte blanche qu’elles ont reçu du client, choisissent les titres qu’elles veulent acquérir ou dont elles veulent disposer et exécutent les opérations par l’entremise d’un courtier, qui agit comme mandataire ou comme mandant.
+[36] Le preuve présentée par M. Gage peut être résumée, dans la mesure où elle est ici pertinente, comme établissant que PH&N reçoit des honoraires, calculés en fonction de la valeur des actifs détenus dans le portefeuille qu’elle gère, pour l’utilisation de l’expertise de son personnel lorsqu’il s’agit de choisir, d’acheter et de vendre des titres pour le compte de l’appelante. Elle le fait par l’entremise de courtiers qui agissent comme mandants ou comme mandataires. Tous les titres qui sont achetés ou vendus sont détenus par le dépositaire. M. Gage a décrit PH&N comme s’occupant de la gestion de placements, ce qui est tout simplement une façon sommaire de décrire la prise de mesures en vue de l’acquisition et de la disposition de titres pour réaliser un bénéfice maximum conformément aux lignes directrices figurant dans l’EPOP.
+[37] M. Peter Letko a été cité par l’intimée. Il est premier vice‑président chez Letko Brosseau, qui s’occupe, comme il l’a dit, de gestion de placements.
+[38] L’appelante a retenu les services de Letko Brosseau pour lui confier la gestion d’un portefeuille d’obligations et d’un portefeuille d’actions canadiennes. Chez Letko Brosseau, il y avait trois groupes d’employés – ceux qui s’occupaient de la recherche sur l’investissement, ceux qui s’occupaient de l’administration et de la comptabilité et ceux qui s’occupaient du service à la clientèle.
+[39] L’interaction entre les analystes et les négociateurs a été décrite de la manière suivante :
+[traduction]
+Q. Quelle est la relation entre l’analyste et – vous avez mentionné qu’il y avait des négociateurs. Comment cela fonctionne‑t‑il?
+R. Les analystes accomplissent le travail fondamental qui consiste à essayer de comprendre une proposition de placement. Les négociateurs donnent suite à la décision. Une fois que le groupe a décidé que les titres, une liste de titres, devraient être achetés pour un portefeuille, il incombe aux négociateurs de négocier, de trouver ces titres, de les trouver en quantité suffisante, aux prix auxquels les analystes sont prêts à s’engager.
+[40] Comme PH&N, Letko Brosseau proposait parfois à l’appelante de modifier son EPOP, de façon à avoir un peu plus de latitude pour s’acquitter de son mandat. Cela n’arrivait pas souvent; les modifications étaient mineures et l’appelante n’avait pas à verser une rémunération supplémentaire aux GP.
+[41] Par conséquent, en résumé, le témoignage de M. Letko établissait que le mandat et les modalités d’exécution du mandat étaient essentiellement les mêmes pour Letko Brosseau et pour PH&N : les deux maisons avaient entière discrétion pour décider des titres à acheter et à vendre, et elles faisaient chaque mois rapport après coup. Un passage du contre‑interrogatoire de M. Letko est révélateur :
+[traduction]
+Q. Vous avez passé passablement de temps à parler de votre expertise, qui est certes impressionnante. Cependant, votre expertise ne devient en fait précieuse qu’une fois qu’elle se manifeste dans votre modèle de portefeuille, n’est‑ce pas? En d’autres termes, pour être plus clair, votre expertise ne se manifestait pas dans un rapport de recherche qui était ensuite vendu?
+R. Non, c’est exact. L’expertise est en fait – il s’agit d’effectuer des placements et d’y donner suite en exécutant des opérations sur titres, en donnant suite à nos stratégies.
+Q. De donner suite, par des achats et des ventes, à ce que votre recherche indique que vous devriez acheter et vendre?
+R. C’est exact.
+Q. Parce que c’est la seule opération que voit le client?
+R. Oui.
+Q. Et en fait si vous n’effectuez pas d’achats et de ventes, le résultat de votre recherche, selon la perspective du client, n’aurait pas de valeur?
+R. C’est exact. Puis‑je ajouter quelque chose? Nous ne vendons pas les résultats de nos recherches. Nous ne le faisons pas – nous nous occupons uniquement de gestion. Nous n’acceptons pas un mandat qui ne nous permet pas de gérer activement un portefeuille. En d’autres termes, la simple fourniture d’avis ne fait pas partie de nos services, ce n’est pas un service que nous offrons.
+[42] Il s’agit de savoir où, le cas échéant, les services fournis à l’ACPM par les GP se situent dans la définition des services financiers, au paragraphe 123(1) de la LTA. La question initiale est une question de fait : quel est le service que les GP fournissent pour gagner leurs honoraires? Une fois que la réponse est connue, une question de droit se pose, à savoir si cette activité est visée par la définition.
+[43] Ma conclusion de fait est la suivante : les services des GP sont retenus pour qu’ils achètent et vendent pour le compte de l’appelante, à leur entière discrétion, un groupe particulier de titres, qu’il s’agisse de titres à revenu fixe, d’actions canadiennes ou d’actions américaines. On s’attend à ce qu’ils le fassent en utilisant leurs compétences et leur expertise. Les GP sont choisis avec soin, compte tenu de leur expérience, de leur rendement passé et de leur expertise. Ils sont renvoyés si leur rendement ne répond pas aux attentes de l’appelante. Ils ont entière discrétion dans les limites du groupe de titres visé par leur mandat et sous réserve des restrictions imposées dans l’EPOP de l’appelante.
+[44] Les GP ne sont pas rémunérés pour donner des conseils et ils ne donnent pas de conseils, sauf dans des circonstances fort restreintes, lorsqu’ils peuvent proposer à l’appelante de modifier son EPOP, de façon à avoir plus de latitude en matière de placements, par exemple lorsqu’il s’agit de modifier le pourcentage d’obligations provinciales qui peuvent être détenues dans un portefeuille. Ils font chaque mois rapport à l’appelante au sujet des achats et des ventes qu’ils ont effectués. Ils n’obtiennent pas au préalable l’autorisation de l’appelante pour les achats et les ventes qu’ils concluent. Leurs honoraires sont basés sur un pourcentage de la valeur des titres qui sont détenus dans le portefeuille. Il ne s’agit pas de courtiers. Ils exécutent les opérations sur titres en donnant des instructions aux courtiers. Les titres sont détenus au nom du dépositaire, dont le rôle est essentiellement passif.
+[45] Quant à la dernière question, à savoir si les services sont visés par la définition des services financiers, l’analyse comporte deux volets :
+a) Les services sont‑ils visés aux alinéas a) à m) de la définition? Dans la négative, il n’est pas nécessaire de passer au second volet;
+b) Les services sont‑ils exclus en vertu des alinéas n) à t)?
+[46] À mon avis, il convient ici de signaler deux choses. En premier lieu, je ne puis rien voir qui permette de faire une distinction entre les services fournis par les GP à l’égard des fonds réservés et ceux qui sont fournis à l’égard des fonds communs. Les fonds réservés ne sont pas amalgamés aux actifs d’autres investisseurs. Ils sont tenus à l’écart, et les GP les achètent et les vendent conformément aux pouvoirs discrétionnaires qui leur sont conférés aux termes de la convention de gestion de placements. Les fonds communs sont des fonds dans lesquels les GP ont investi les fonds de l’appelante qui ont été mis en commun avec les fonds d’autres investisseurs. Les actifs investis dans les fonds communs étaient de deux types : des participations dans des sociétés en commandite et des unités de fiducies de fonds commun de placement.
+[47] En second lieu, il est à mon avis essentiel de faire une distinction entre la qualité du service fourni et la nature du service. L’avocat de l’intimée a fortement mis l’accent sur les compétences, sur l’expertise et sur l’expérience des GP dont l’appelante avait retenu les services. Je ne doute pas des compétences et de l’expertise des GP. Néanmoins, il est inexact de dire que l’appelante achetait ces compétences et cette expertise, et qu’elle payait pour en bénéficier. On n’achète pas ces qualités dans l’abstrait, indépendamment du service qui est fourni. Lorsque l’on retient les services d’un médecin, d’un avocat, d’un ingénieur, d’un courtier ou d’un comptable, chacun de ces spécialistes fournit un service qui est défini par son domaine particulier d’expertise – services médicaux, services financiers, services juridiques et ainsi de suite. Les services peuvent être fournis d’une façon adroite et éclairée ou leur fourniture peut être effectuée d’une façon malhabile. Peu importe qu’un spécialiste fournisse bien ou mal un service professionnel donné, la nature du service demeure la même.
+[48] Je crois que les services fournis à l’ACPM par les GP sont visés par la définition des services financiers en raison des alinéas d) et l) de la définition, parce qu’ils constituent « [la prise de] mesures en vue [...] [du] transfert de propriété [...] d’un effet financier ». Voir Royal Bank v. R., [2007] G.S.T.C. 18, paragraphes 9 et 12. Selon certains éléments de preuve, l’appelante s’occupait également de prêt de titres. Dans la mesure où elle le faisait, les honoraires sont également visés aux alinéas c) et l).
+[49] Étant donné que j’ai conclu que les services sont visés aux alinéas c) ou d) et l), j’examinerai maintenant le second volet de l’analyse, à savoir l’exclusion prévue aux alinéas p), q) et t).
+[50] J’ai conclu qu’en fait, la prestation d’avis n’était pas ce que les GP faisaient ou ce pourquoi ils étaient rémunérés. Il convient de reproduire une partie des observations écrites que Me Ezri a présentées au sujet des GP :
+[traduction]
+e) Fonctions et nomination des conseillers
+16. Les conseillers :
+a) choisissent les titres dans chaque catégorie d’actifs;
+b) remettent chaque mois au directeur des finances des rapports concernant le portefeuille d’actifs du fonds ainsi que des rapports concernant toutes les transactions qui ont été conclues;
+c) avisent sans délai le dépositaire des achats, ventes et autres opérations sur titres;
+d) effectuent le rapprochement entre les soldes en espèces et les soldes en titres de fin du mois d’une part et les relevés fournis par le dépositaire d’autre part;
+e) rencontrent les membres du comité de placements au moins une fois l’an pour présenter leur analyse du rendement des placements et pour décrire leurs stratégies de placement existantes et futures dans le cadre de leur mandat précis en matière de placements;
+f) fournissent chaque année des états financiers vérifiés;
+g) observent le code de déontologie et les règles de conduite professionnelle de l’Association pour ce qui est de la gestion des placements et de la recherche sur les placements.
+17. Le comité établit des normes strictes pour le choix des conseillers. Les critères applicables lorsqu’il s’agit de choisir un conseiller sont notamment les suivants :
+a) la période pendant laquelle le conseiller a exercé ses activités;
+b) le type d’équipe dont dispose le conseiller; ainsi, l’appelante préfère des conseillers dont les employés sont des analystes financiers agréés;
+c) la façon dont le conseiller traite les questions de conformité;
+d) la rotation du personnel du conseiller.
+18. L’appelante a recours à une entreprise pour effectuer la sélection préalable des conseillers éventuels, compte tenu de 28 critères distincts, notamment l’expérience, la composition et la continuité du personnel et les sommes d’argent qui sont gérées. L’appelante fait preuve d’énormément de diligence lorsqu’il s’agit de nommer un gestionnaire; elle se rend notamment sur les lieux et s’assure que les gestionnaires effectuent de fait le type de recherche qu’ils affirment effectuer.
+19. Les services des conseillers sont retenus compte tenu de leurs compétences et de leurs capacités lorsqu’il s’agit de décider des titres à acheter et à vendre et du moment où les achats et les ventes doivent être effectués. Les services des conseillers ne sont pas retenus parce qu’ils sont capables de s’occuper des aspects mécaniques de la négociation de titres. Plus précisément :
+a) les conseillers ne sont pas tenus d’avoir leurs propres pupitres de négociation, de façon à être en mesure d’exécuter les ordres d’achat et de vente de titres. Lorsqu’un conseiller a la capacité d’acheter et de vendre des titres, l’appelante ne permet généralement pas au conseiller de conclure des opérations uniquement par l’entremise de son propre pupitre, mais elle exige qu’il confie les opérations à des courtiers; dans tous les cas, on s’attend à ce que les conseillers répartissent leurs ordres entre un certain nombre de courtiers, de façon à obtenir des taux et des services compétitifs à l’égard de l’exécution des transactions;
+b) les courtiers qui exécutent les transactions le font avec énormément de compétence, mais leur rôle est subordonné à celui des analystes qui leur donnent des instructions. Étant donné qu’ils ne font pas partie du personnel des conseillers, il se peut qu’ils ne connaissent pas la stratégie ou les buts des analystes. On leur dit quoi acheter et on leur donne des conseils au sujet de la façon d’acquérir d’une façon agressive les titres ainsi que des lignes directrices au sujet des prix acceptables;
+c) à l’exception des titres qui sont détenus dans des fonds communs, les conseillers n’ont pas la garde des fonds qu’ils gèrent. Conformément aux principes habituels de gestion de placements, les ordres d’achat et de vente de valeurs mobilières sont exécutés par des courtiers et réglés par le dépositaire, qui conserve le titre et a la garde physique des valeurs mobilières. Un grand nombre des actes que l’appelante a décrits comme étant des services financiers fournis par les conseillers, dans la lettre par laquelle elle demandait une décision de l’ARC, étaient en fait accomplis par le dépositaire, notamment la réception et le paiement d’argent et la réception du principal, des intérêts et des dividendes;
+d) lorsque les titres détenus par le dépositaire sont prêtés, le dépositaire s’occupe des détails de l’opération, et le paiement se rattachant au prêt est partagé entre le dépositaire et l’appelante. Le conseiller, bien qu’il soit mis au courant de l’opération, n’y participe pas et n’inclut pas le revenu tiré du prêt des titres dans le rendement du portefeuille qu’il gère;
+e) les honoraires gagnés par les conseillers ne sont pas basés sur le nombre de transactions ou sur leur volume. Les honoraires sont fixés uniquement par rapport à la taille du portefeuille qui est géré et ils sont payables même s’il n’y a que quelques transactions au cours d’une période de facturation. Lorsqu’une commission est payable pour une opération sur titres, l’appelante la paie séparément pour le service qui consiste à faire en sorte qu’un courtier prenne des mesures en vue d’acheter et de vendre les titres que le conseiller veut acheter ou vendre. Quant aux transactions se rapportant à des obligations, la commission fait partie intégrante du coût de l’obligation, ou encore elle est déduite du produit de la disposition. Ce coût d’achat et de vente n’est pas payé par le conseiller;
+f) le principal motif de renvoi d’un conseiller est son omission d’obtenir un taux de rendement acceptable. Un taux de rendement acceptable exige que le conseiller produise un taux de rendement, une fois déduits les honoraires de gestion, lequel : i) donne un taux de rendement réel égal au taux d’inflation, plus 4 p. 100; ii) correspond au rendement d’autres conseillers dont les approches et placements sont similaires; et iii) dépasse un taux de rendement de référence précis (comme l’indice S&P 500) d’un certain nombre de points de base, soit habituellement 100 points de base. Les conseillers peuvent également être renvoyés en cas de changement de personnel clé, ou s’ils ne se conforment pas aux limites de leur mandat.
+[51] Compte tenu des témoignages présentés de vive voix et des contrats conclus entre l’appelante et les GP, j’ai conclu que les hypothèses fondamentales sur lesquelles le rejet des demandes de remboursement est fondé ont été [traduction] « démolies » pour employer les mots du juge Rand dans l’arrêt Johnston v. M.N.R., [1948] R.C.S. 486. Ces hypothèses, qui sont énoncées aux paragraphes 6 et 7 de la réponse à l’avis d’appel, sont reproduites au paragraphe 14 des présents motifs :
+[traduction]
+6. En établissant la cotisation de l’appelante en vue de rejeter les demandes de remboursement, le ministre du Revenu national (le « ministre ») s’est fondé sur les hypothèses suivantes, énoncées dans une décision rendue à l’égard de l’appelante au mois d’avril 2004 :
+[...]
+c) la fourniture effectuée par les GP en faveur de l’appelante consistait principalement à fournir une expertise et des conseils de qualité en matière de placements;
+d) le principal service fourni par les GP était composé de leur expertise lorsqu’il s’agissait de choisir des titres, soit un service autre qu’un service financier prévu aux alinéas a) à m) de la définition de l’expression « service financier », au paragraphe 123(1) de la Loi;
+[...]
+7. En ratifiant la cotisation, le ministre s’est fondé sur les hypothèses suivantes :
+[...]
+b) la fourniture consistait principalement à fournir des conseils professionnels en matière de placements et à gérer des fonds;
+[...]
+[52] Il y a deux choses qui sautent aux yeux. En premier lieu, il a été établi d’une façon concluante que les GP ne donnaient pas d’avis à l’appelante. Les GP prenaient des mesures pour acheter et vendre des titres pour le compte de l’appelante. En second lieu, il est en pratique impossible de dire que le service fourni était tout simplement composé de l’« expertise ». L’expertise est un attribut ou une qualité du service fourni, et ce, qu’il s’agisse d’un service financier, juridique, comptable, médical ou autre. L’expertise n’existe pas indépendamment de la chose à laquelle elle se rattache. Si j’achète un beau tableau, je n’achète pas la beauté dans l’abstrait. J’achète un tableau. Il se peut que, sur le plan philosophique, il soit possible de dire qu’en dehors du monde des choses matérielles, il y a un monde spirituel plus élevé de formes ou d’idées dans lequel des concepts abstraits comme la vérité, la beauté, la justice, la sagesse ou l’expertise existent, indépendamment des choses concrètes ou des choses banales dont elles font partie. Toutefois, même si l’on peut trouver de telles notions théoriques satisfaisantes sur le plan philosophique, elles n’ont aucune valeur dans le monde pragmatique du commerce moderne. Le service n’est pas composé de l’expertise. Le service est ce qu’il est, qu’il soit fourni d’une façon éclairée ou non. La nature d’un service particulier ne dépend pas du degré de compétence avec lequel ce service est fourni.
+[53] Puisqu’il a été conclu que les GP ne donnaient pas de conseils au sens de l’alinéa p) de la définition du service financier et que le fait de fournir une expertise en tant que service dans l’abstrait sans qu’il soit tenu compte de la nature du service fourni est en réalité une impossibilité commerciale, j’examinerai maintenant la prétention de la Couronne selon laquelle la fourniture est une fourniture de « service de gestion ». L’alinéa q) exclut les services de gestion de la définition de l’expression « service financier ». En premier lieu, je ne considère pas l’achat et la vente discrétionnaires de titres, que cela soit fait d’une façon éclairée ou non, comme un service de gestion ou d’administration au sens ordinaire du terme. La juxtaposition, à l’alinéa q), des mots « gestion » et « administration » s’entend implicitement du type de fonction de gestion associée à l’exploitation d’une entreprise. Les honoraires de gestion et d’administration sont généralement versés à des personnes ou à des sociétés pour que celles‑ci s’occupent de diverses questions nécessaires au fonctionnement d’une entreprise. Je ne crois pas que la « gestion » d’un portefeuille de placements ait ce type de connotation.
+[54] Toutefois, je n’ai pas à arriver à un avis concluant sur la question compte tenu des mots « à une personne morale [...] dont l’activité principale consiste à investir des fonds [...] » figurant à l’alinéa q). Il est reconnu, avec raison à mon avis, que la principale activité de l’appelante ne consiste pas à investir des fonds. Cela suffit pour répondre à l’argument fondé sur l’alinéa q).
+[55] Enfin, nous arrivons à l’alinéa t). L’article 4 du Règlement sur les services financiers (TPS/TVH) est reproduit ci‑dessus. L’alinéa 4(2)b) parle des « services administratifs [...] ». En ciblant la portée de ces mots, il faut noter que l’alinéa q) de la définition, à l’article 123 de la LTA, exclut les services de gestion ou d’administration uniquement lorsque ces services sont fournis à un type particulier d’acquéreur (qui n’inclut pas l’appelante).
+[56] Lorsqu’une loi limite expressément le type de service d’administration qui doit être exclu, on ne saurait, sur le plan de l’interprétation de la loi, interpréter la législation subordonnée, soit un règlement, comme élargissant la portée des mots et comme supprimant en fait les limitations imposées par la loi. Il n’est pas nécessaire d’invoquer des arrêts faisant autorité à l’appui de cette proposition évidente.
+[57] La décision rendue pas le juge Bowie dans l’affaire Banque Royale c. R., 2005 CCI 802, paragraphe 18, illustre l’interprétation plus stricte de l’expression « service d’administration » qui découle de l’effet restreint que j’ai attribué à son emploi dans le règlement :
+[18] L’appelante soutient que, de toute façon, les services de succursale ne peuvent pas être visés par la définition du service financier, parce qu’il s’agit de services administratifs et qu’ils sont donc expressément exclus de la définition par l’alinéa t) et par l’article 4 du Règlement. Cette disposition n’a été examinée qu’à deux reprises par la présente cour et ni l’une ni l’autre décision ne nous éclaire sur le sens de l’expression « les services administratifs » (« any administrative service »). Le Canadian Oxford Dictionary (2e éd.) donne cette définition, à la page 17 :
+[traduction]
+administratif : concernant la gestion des affaires ou s’y rapportant.
+D’autres dictionnaires, tant français qu’anglais, renferment des définitions aussi vagues. À coup sûr, le sens de cette expression est à la fois large et élastique, mais il semble clair que, lorsqu’elle est lue dans son contexte dans le cadre du régime de la partie IX de la Loi et par rapport à la définition de « service financier » (« financial service ») en particulier, elle vise à exclure de cette définition des services accessoires tels que le traitement de données, la tenue de dossiers et ainsi de suite, mais non les activités expressément énumérées dans la première partie de la définition qui doivent être incluses dans celle‑ci, ce qui comprend certes la prise de mesures aux fins de la distribution de valeurs mobilières. À mon avis, l’alinéa t) de la définition et le Règlement ne s’appliquent pas en l’espèce.
+[19] Pour les motifs susmentionnés, je conclus que les services de succursale étaient des services financiers exonérés de la taxe et que les intrants y afférents ne donnaient donc pas droit à des CTI.
+[58] Après la présentation de la preuve et de l’argumentation dans la présente affaire, la juge Campbell, de la Cour, a rendu jugement dans l’affaire General Motors du Canada Limitée c. La Reine, 2008 CCI 117. Dans cet appel, il s’agissait de savoir si General Motors du Canada Ltée (« GMCL ») avait droit à des crédits de taxe sur les intrants (les « CTI ») à l’égard de la TPS payée sur les honoraires qu’elle avait versés aux gestionnaires de placements pour des services fournis à l’égard de placements dans deux régimes de pension agréé de GMCL.
+[59] J’ai donné aux avocats des deux parties la possibilité de présenter des observations au sujet de cette décision. La juge Campbell a accueilli l’appel et a conclu que GMCL avait droit aux CTI demandés. Le jugement a été porté en appel devant la Cour d’appel fédérale et, par conséquent, je m’abstiendrai de faire à son sujet plus de remarques que ce qu’il est nécessaire de faire. La question de savoir si les honoraires que GMCL avait versés au conseiller en placement étaient des « services financiers » s’est posée par suite d’un argument subsidiaire invoqué par l’appelante, et il n’était peut‑être pas indispensable d’y répondre pour trancher la question de savoir si GMCL avait droit aux CTI à l’égard de la TPS qu’elle avait déjà payée sur les honoraires.
+[60] Les faits de l’affaire GMCL étaient beaucoup plus complexes que ceux de la présente espèce. Dans le cas de l’ACPM, il est tout à fait clair, compte tenu de la preuve, que les GP ne donnaient pas de conseils. Il est également clair que GMCL exerçait énormément de contrôle sur les décisions des gestionnaires de placements et se fondait sur les conseils que ceux‑ci lui donnaient. La juge Campbell a conclu, en fait, que le service consistait à donner des conseils, mais d’une façon éclairée et adroite. Eu égard à la preuve soumise en l’espèce, je ne puis arriver à la conclusion que les GP donnaient des conseils à l’ACPM.
+[61] Les appels sont accueillis avec dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que les honoraires versés aux GP (à l’exception de ceux qui, comme le reconnaît l’appelante, sont taxables) sont des services financiers exemptés.
+[62] Pour m’assurer que les honoraires que l’appelante reconnaît comme taxables sont exclus de l’application du présent jugement, je demande aux parties de rédiger un projet de jugement et de le soumettre à la Cour dans les deux semaines qui suivront la date des présents motifs.
+Signé à Ottawa, Canada, ce 10e jour d’avril 2008.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 8e jour d’août 2008.
+Aleksandra Koziorowska, LL.B.
+APPENDICE A
+2005‑98(GST)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+L’ASSOCIATION CANADIENNE DE PROTECTION MÉDICALE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION]
+EXPOSÉ CONJOINT PARTIEL DES FAITS
+Pour les besoins de la présente instance seulement, l’appelante et l’intimée conviennent des faits ci‑après énoncés :
+1. L’appelante est une personne morale sans but lucratif constituée conformément à une loi spéciale du Parlement, la Loi constituant en corporation l’Association canadienne de protection médicale; elle fournit une protection contre les poursuites en responsabilité professionnelle à des médecins au Canada à titre d’association de défense mutuelle.
+Avis d’appel modifié, paragraphe 7.
+Interrogatoire préalable de Stephen Campbell.
+2. L’appelante est un inscrit aux termes de la Loi sur la taxe d’accise (Canada) (la « Loi ») aux fins de la TPS.
+Avis d’appel modifié, paragraphe 8.
+3. L’appelante s’occupe, entre autres choses, à titre d’organisation de défense mutuelle, de fournir une protection contre les poursuites en responsabilité professionnelle à des médecins agréés au Canada.
+Avis d’appel modifié, paragraphe 9.
+4. Dans le cadre de ses activités de défense, l’appelante maintient une réserve pour réclamations (le « fonds ») à l’aide des cotisations de membre des médecins participants.
+Avis d’appel modifié, paragraphe 10.
+EPOP, recueil conjoint de documents, onglet 29.
+5. L’énoncé des politiques et objectifs de placement (l’« EPOP ») est un document de gestion établi par l’appelante qui traite de la façon dont les actifs du fonds doivent être investis et qui définit la structure et les procédures de gestion à adopter pour l’exploitation continue du fonds.
+EPOP, recueil conjoint de documents, onglet 29.
+6. Les réserves de l’appelante sont en partie gérées par des gestionnaires de placements (les « GP ») dont les services ont été retenus par l’appelante pour qu’ils fournissent, à l’occasion, des services de gestion de placements.
+Avis d’appel modifié, paragraphe 11.
+7. Les GP dont les services ont été retenus par l’appelante fournissent leurs services de gestion de placements d’une manière qui reflète les politiques mentionnées dans l’EPOP.
+EPOP, recueil conjoint de documents, onglet 29.
+8. L’appelante investit ces fonds dans deux types de comptes : (i) les fonds réservés; et (ii) les fonds communs.
+(i) Fonds réservés
+9. Les fonds réservés ne sont pas amalgamés aux actifs d’autres investisseurs. Chaque GP gère les placements réservés conformément à une entente qu’il a conclue avec l’ACPM (la « convention de gestion de placements »). Ces placements sont gérés conformément à des objectifs de placement précis.
+10. La convention de gestion de placements conclue entre l’ACPM et Phillips Hager & North Ltd. est un exemple d’une entente concernant un fonds réservé conclue avec un GP.
+Recueil conjoint de documents, onglet 11.
+11. Certains GP, mais pas tous, possèdent leur propre pupitre de négociation pour traiter les ordres d’achat et de ventes de titres. Toutefois, à l’exception des transactions portant sur un fonds indiciel distinct, les GP qui possèdent leur propre pupitre de négociation ne sont généralement pas libres de l’utiliser exclusivement pour traiter des transactions. On s’attend à ce qu’ils répartissent les transactions entre un certain nombre de courtiers, de façon à obtenir des taux compétitifs pour l’exécution des transactions.
+Interrogatoire préalable de Stephen Campbell, questions 143 et 144, et réponse à l’engagement 13.
+12. Les frais de transaction pour l’achat et la vente de titres sont inclus dans le coût d’acquisition du titre ou sont déduits du produit de la disposition du titre.
+Interrogatoire préalable de Stephen Campbell, question 145.
+(ii) Fonds communs
+13. Les fonds communs sont des véhicules de placement dans lesquels le capital de l’appelante peut être mis en commun avec le capital d’autres investisseurs aux fins de l’achat et de la vente de titres conformément au prospectus et aux ententes régissant l’exploitation du fonds.
+14. Au cours des périodes visées par l’appel, les fonds communs dans lesquels l’appelante avait effectué des placements comprenaient certaines fiducies de fonds commun de placement dans lesquelles l’appelante avait investi des capitaux et dont elle avait reçu des unités du fonds commun de placement. Les GP étaient les fiduciaires du fonds ou une entité de gestion liée au fiduciaire. Les droits et obligations des GP étaient énoncés dans une convention de gestion distincte. Les frais de gestion des GP étaient facturés directement à l’appelante en fonction de la part proportionnelle qu’elle détenait dans le fonds. D’autres frais ne se rattachant pas à la gestion étaient facturés au fonds.
+15. Les placements suivants étaient détenus par l’entremise de fiducies de fonds commun de placement en vertu d’ententes par lesquelles les honoraires de gestion, y compris la TPS y afférente, étaient facturés à l’appelante et payés par cette dernière, les frais se rattachant au fonds étant facturés au fonds et payés par celui‑ci :
+a) Perigee Investment Counsel Inc. (Legg Mason U.S. Value Fund);
+b) Sprucegrove International Pooled Fund.
+16. Le Legg Mason U.S. Value Fund est un exemple typique d’une telle fiducie de fonds commun de placement, et son acte constitutif est inclus dans les présentes comme un exemple de telles fiducies de fonds commun de placement.
+Déclaration cadre de fiducie modifiée mise à jour de Legg Mason, recueil conjoint de documents, onglet 22;
+Convention de gestion de Legg Mason, recueil conjoint de documents, onglet 23;
+Convention relative aux honoraires de Perigee et annexe, recueil conjoint de documents, onglet 32;
+Factures et relevés de Perigee, recueil conjoint de documents, onglet 36.
+17. La structure du Phillips Hager North Institutional Fund et du Phillips Hager North Small Float Fund est semblable à celles qui sont décrites ci‑dessus au paragraphe 15; toutefois, le GP ne facturait pas les dépenses du fonds (mais les honoraires de gestion et la TPS y afférente étaient facturés à l’appelante par les GP et payés par celle‑ci).
+Dépositaires
+18. L’appelante a recours à CIBC Mellon (le « dépositaire ») pour assurer la garde des actifs investis dans des fonds réservés. L’entente conclue entre l’appelante et le dépositaire comporte les conditions suivantes :
+a) Le dépositaire doit s’acquitter des tâches suivantes :
+(i) il recouvre le revenu et les produits de disposition;
+(ii) il rachète les titres;
+(iii) il remet à l’appelante les renseignements reçus.
+b) Le dépositaire possède les pouvoirs suivants :
+(i) il règle les achats et les ventes de titres et s’occupe d’autres livraisons et échanges;
+(ii) il effectue des distributions à l’aide du compte;
+(iii) il conclut des contrats de change étranger afin d’effectuer des conversions.
+c) Le dépositaire remet chaque mois à l’appelante un relevé de compte indiquant les placements, les rentrées de fonds, les débours et d’autres transactions découlant de l’exercice des pouvoirs décrits ci‑dessus à l’alinéa 15b).
+Convention entre l’ACPM et CIBC Mellon, en date du 14 octobre 1997, recueil conjoint de documents, onglet 28.
+19. Le titre et les valeurs mobilières dont est composé un fonds réservé demeurent toujours en la possession du dépositaire.
+Interrogatoire préalable de Stephen Campbell, questions 171 à 173.
+Demandes de remboursement
+20. L’appelante a produit deux demandes de remboursement de la TPS pour récupérer la TPS perçue sur les honoraires de gestion relatifs aux fournitures effectuées par les GP. La première demande se rapporte à la période allant du 15 octobre 2001 au 15 octobre 2003. La seconde demande se rapporte à la période allant du 1er janvier 2002 au 31 décembre 2004.
+Demandes de remboursement de la TPS de l’appelante, recueil conjoint de documents, onglets 1 et 3.
+21. Les demandes de remboursement ont toutes deux été rejetées par le ministre du Revenu national. En rejetant les demandes, le ministre a envoyé une lettre de décision dans laquelle il disait que les GP fournissaient leur expertise et leurs conseils pour ce qui est du choix des titres qui étaient acquis par l’appelante.
+Lettre de décision du ministre, en date du 5 avril 2004, recueil conjoint de documents, onglet 5.
+22. En ratifiant la cotisation, le ministre a pris la position selon laquelle les GP effectuaient une fourniture unique de conseils professionnels en matière de placements et de gestion de fonds, et qu’une telle fourniture n’était pas la fourniture d’un service financier exempté selon la définition qui figure au paragraphe 123(1) de la Loi.
+Avis de ratification, recueil conjoint de documents, onglets 10 et 11.
+23. Les parties reconnaissent qu’elles auront le droit de présenter des éléments de preuve supplémentaires et de demander à la Cour canadienne de l’impôt de faire des inférences à l’aide de la preuve soumise, à condition que ces éléments de preuve supplémentaires ou ces inférences ne soient pas incompatibles avec le présent exposé conjoint partiel des faits.
+24. L’appelante et l’intimée s’engagent à consigner en preuve des copies des documents suivants auprès de la Cour pour les besoins de la présente instance :
+A1. Le présent exposé conjoint partiel des faits;
+A2. Le recueil conjoint de documents contenant les documents suivants :
+Les documents énumérés dans la liste de documents de l’appelante;
+Les documents énumérés dans la liste supplémentaire de documents de l’intimée qui a été déposée auprès de la Cour le 9 février 2007;
+Les lettres d’engagement de l’appelante en date des 23 décembre 2005 et 31 janvier 2006;
+L’exposé des engagements de l’appelante, onglets 2, 4 (document de 2002 seulement), 7, 9 (document de 2002 seulement), 10, 17, 18;
+Copie des factures de McLean Budden Limited
+Copie des factures de Letko Brosseau
+Copie de la lettre de nomination de Letko Brosseau
+Copie des factures de Perigee
+Code de déontologie et règles de conduite professionnelle d’AIMR
+Copie des factures de Sprucegrove Investment Management Ltd.
+Copie des factures de Phillips, Hager & North Investment Management Ltd.
+25. Les parties peuvent consigner en preuve certains extraits des interrogatoires préalables de la partie opposée, et une partie peut consigner en preuve certains extraits admissibles de ses interrogatoires préalables, conformément aux règles et directives de pratique de la Cour de l’impôt.
+FAIT à Toronto (Ontario), le 17 novembre 2007.
+Par : ________________________
+Nom : Ian MacGregor, c.r.
+Titre : avocat de l’appelante
+FAIT à Ottawa (Ontario), le 16 novembre 2007.
+Par : ________________________
+Nom : Michael Ezri
+Titre : avocat de l’intimée
+Traduction certifiée conforme
+ce 8e jour d’août 2008.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE :
+2008CCI33
+No DU DOSSIER DE LA COUR :
+2005‑98(GST)G
+INTITULÉ :
+Association canadienne de protection médicale
+et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATES DE L’AUDIENCE:
+Les 19, 20 et 21 novembre 2007
+MOTIFS DU JUGEMENT :
+L’honorable D.G.H. Bowman, juge en chef
+DATE DU JUGEMENT ET
+MOTIF DU JUGEMENT :
+Le 10 avril 2008
+COMPARUTIONS :
+Avocats de l’appelante :
+Mes Ian S. MacGregor, c.r.,
+Sean C. Aylward,
+D’Arcy A. Schieman
+Avocats de l’intimée :
+Mes Michael Ezri,
+April Tate
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Osler, Hoskin & Harcourt LLP
+Avocats
+100, rue King Ouest
+1 First Canadian Place
+Bureau 6100, C.P. 50
+Toronto, ON M5X 1B8
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Je suppose que par milliard, on entend ce mot dans son sens français ou américain plutôt que britannique.

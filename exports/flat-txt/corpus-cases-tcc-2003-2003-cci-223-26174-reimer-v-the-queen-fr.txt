@@ -1,0 +1,93 @@
+Title: Reimer v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26174/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-223-26174-reimer-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-04-08
+
+# Reimer v. The Queen
+
+- Citation: 2003 CCI 223
+- Decision date: 2003-04-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3972, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Reimer v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-08
+Référence neutre
+2003 CCI 223
+Numéro de dossier
+2002-162(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-162(IT)I
+ENTRE :
+RODNEY REIMER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 20 mars 2003, à London (Ontario).
+Devant : l'honorable juge Gerald J. Rip
+Comparutions :
+Avocate de l'appelant :
+Me Rebecca L. Krasnor
+Avocat de l'intimée :
+Me Ifeanyichukwu Nwachukwu
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est admis avec dépens et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que l'appelant avait droit à un crédit d'impôt non remboursable pour personnes handicapées pour l'année d'imposition 2000.
+Signé à Ottawa, Canada, ce 8e jour d'avril 2003.
+« Gerald J. Rip »
+J.C.C.I.
+Traduction certifiée conforme
+ce 22e jour de février 2005.
+Sophie Debbané, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI223
+Date: 20030408
+Dossier: 2002-162(IT)I
+ENTRE :
+RODNEY REIMER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] Rodney Reimer interjette appel de sa cotisation d'impôt sur le revenu pour l'année 2000 dans laquelle le ministre du Revenu national (le « ministre » ) a refusé d'accéder à sa demande de crédit d'impôt pour personnes handicapées tel que décrit au paragraphe 118.3(1) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[2] M. Reimer, âgé de 42 ans lors de l'instance, a une déficience congénitale qui l'oblige à porter une prothèse partielle à la jambe gauche. Avant d'atteindre l'âge de 15 ans, il a subi environ douze interventions chirurgicales qui ont eu comme conséquence que l'incision résultant des opérations sur son moignon a tendance à s'ouvrir. Cette incision de même que trois ou quatre autres « déchirures » ont guéri, mais elles sont toujours des plaies ouvertes.
+[3] La prothèse est constituée de trois parties principales. La partie du haut combine un corset et une orthèse du genou, la partie inférieure est munie d'une semelle et la troisième partie consiste en un pied qui donne de la flexibilité pour faciliter la marche. Sans prothèse, M. Reimer ne peut pas marcher. Il n'utilise rien d'autre que la prothèse.
+[4] M. Reimer ne peut porter toute la prothèse que durant dix à douze heures par jour. S'il la porte trop longtemps, sa jambe ne peut respirer, la transpiration s'accumule et attaque la peau. Cela fait souffrir M. Reimer. Il a témoigné qu'il ressent de la douleur 99 p. 100 du temps. Sur une échelle de un à dix, il a affirmé que le niveau de douleur se situe à sept ou huit lors d'une « mauvaise » journée et que durant une « bonne » journée, le niveau de douleur correspond à deux ou trois, habituellement à trois. M. Reimer a estimé que les « mauvaises » journées représentent 25 à 33 p. 100 de l'année. Durant les journées chaudes d'été, la douleur était exacerbée par la transpiration causée par la chaleur. La douleur limite sa capacité de marcher.
+[5] Le niveau de douleur varie durant la journée. Le matin, l'enflure entraîne une douleur plus aiguë. Le niveau de douleur se stabilise en milieu de journée, mais il augmente le soir lorsque la transpiration apparaît sur les déchirures de la peau et que la jambe rétrécit. Selon la description de M. Reimer, la douleur ressemble à une sensation de « brûlure » causée par la déchirure et la dégradation de la peau.
+[6] M. Reimer soulage sa douleur en mettant de la glace sur son moignon durant 15 à 30 minutes, en appliquant diverses crèmes, dont des crèmes à base de cortisone et en prenant des médicaments anti-inflammatoires. Selon lui, la glace prévient la douleur, la crème à base de cortisone aide à guérir les plaies ouvertes et les médicaments anti-inflammatoires réduisent l'enflure et l'inflammation.
+[7] Durant les premiers mois de l'an 2000, M. Reimer a travaillé comme messager pour un laboratoire à raison de quatre ou cinq heures par jour. Il conduisait de London jusqu'à Burlington et Woodstock pour ramasser des échantillons destinés au laboratoire situé à London. Il se rappelle qu'il était capable de marcher jusqu'à l'intérieur d'un établissement pour ramasser un échantillon, mais qu'il stationnait sa voiture près de l'établissement pour ne pas avoir à marcher plus de 50 pieds. Il a estimé que, lors d'une « bonne » journée, il était en mesure de marcher 50 pieds en environ 20 à 25 secondes. Les « mauvais » jours, il marchait rapidement de sa voiture à l'établissement, [TRADUCTION] « uniquement pour y arriver rapidement » et tenter de s'asseoir. Il a affirmé qu'il [TRADUCTION] « boitait très vite » pour que la douleur s'apaise.
+[8] Plus tard durant l'an 2000, M. Reimer a travaillé dans la salle du courrier du laboratoire et il prenait également soin des véhicules du laboratoire. La salle du courrier mesure 25 pieds de long. Les « bonnes » journées, il se déplace sans difficulté dans la pièce. Les « mauvais » jours, il doit prendre appui sur les tables pour réussir à marcher ne serait-ce que cinq à dix pieds. Ainsi, il met moins de poids sur sa jambe.
+[9] De façon générale, M. Reimer évite de marcher. Il conduit n'importe quand et n'importe où. Lorsqu'il marche, il le fait lentement, soit les « bons jours » environ [TRADUCTION] « 25 à 40 p. 100 plus lentement » que la moyenne des personnes. Le matin, il marche plus lentement qu'en mi-journée, mais il ralentit à nouveau le soir. Si la surface sur laquelle il se déplace n'est pas à niveau ou n'est pas pavée, il doit être très attentif pour s'assurer que son pied se pose sur une surface plane. Il monte les escaliers deux fois plus lentement que la plupart des personnes; il fait un pas à la fois de façon à ne pas perdre l'équilibre.
+[10] Le Dr Michael Hickey a signé le Certificat pour le crédit d'impôt pour personnes handicapées (Agence des douanes et du revenu du Canada ( « ADRC » ) formulaire T2201) pour l'an 2000, en dépit du fait qu'il ait soigné M. Reimer pour la première fois en février 2001 pour une question qui n'était pas liée à sa déficience physique. Bien que le Dr Hickey ait répondu « non » à la question « Votre patient peut-il marcher ? » qui figure dans le certificat, il a reconnu lors de l'instance qu'il n'a pas évalué si M. Reimer pouvait marcher 50 mètres sur un terrain plat ou s'il prenait un temps excessif pour le faire. Lors de l'instance, le Dr Hickey était d'avis que M. Reimer était en mesure de marcher une distance de 50 mètres sur un terrain plat. Toutefois, selon lui, plus il marchait, plus son pas était lent. Selon le Dr Hickey, l'expression « temps excessif » signifiait au-delà de la moyenne.
+[11] Dans un questionnaire qui lui a été expédié par l'ADRC, le Dr Hickey a dit qu'il a longuement hésité avant de répondre à la question qui exigeait qu'il compare l'état de M. Reimer à [TRADUCTION] « la moyenne des personnes du même âge n'ayant pas la déficience » . De même, il a hésité lorsqu'il a dû déterminer si M. Reimer prenait plus de temps, modérément plus de temps ou beaucoup plus de temps pour parcourir 50 mètres en marchant sur un terrain plat. En fin de compte, il a répondu [TRADUCTION] « plus de temps » , mais il s'est [TRADUCTION] « tourmenté » à propos de cette question.
+[12] Il appert cependant que le Dr Reimer n'a jamais observé M. Reimer en train de marcher et il n'a pas non plus discuté avec lui du temps qu'il lui fallait pour marcher 50 mètres. Il a rencontré M. Reimer au moment où celui-ci entrait dans sa salle d'examen. Il a expliqué que, comme la peau de M. Reimer se fend, il lui faut plus de temps pour marcher. Lorsqu'il a examiné M. Reimer en 2001, la peau de ce dernier avait fendu et il souffrait. Il a prescrit des antibiotiques, de la cortisone et des antiémollients. Selon le Dr Hickey, la peau de M. Reimer allait mettre plusieurs jours ou deux à trois semaines pour guérir. Il est d'avis que l'état de M. Reimer est chronique et répétitif.
+[13] La description que M. Reimer a faite de la douleur, de sa durée et de son degré était valable tant pour l'an 2000 que pour la période durant laquelle l'instance a eu lieu.
+[14] Avant 2001, le médecin généraliste qui traitait M. Reimer était le Dr Pierce qu'il a consulté trois ou quatre fois durant l'an 2000 pour obtenir différentes crèmes. Il était également suivi par un spécialiste qui le voyait environ tous les trois ans.
+[15] Il ne fait aucun doute que la déficience dont souffre M. Reimer est grave et prolongée. Tel que requis, un médecin, soit le Dr Hickey, a attesté la déficience. Il ne reste donc qu'à déterminer si, aux fins du paragraphe 118.3(1) de la Loi, les effets de la déficience sont tels que la capacité de M. Reimer de marcher était limitée de façon marquée durant toute l'année 2000 ou pratiquement toute cette année-là [1].
+[16] Durant l'an 2000, M. Reimer n'était pas en mesure d'utiliser sa prothèse sur une base régulière soit en raison de la température qui faisait transpirer son moignon lorsqu'il faisait chaud, soit en raison de plaies ouvertes. Ces deux conditions entraînaient de la douleur et limitaient sa capacité de marcher. Lorsqu'il portait sa prothèse, soit la plupart du temps, sa capacité de marcher n'était pas comparable à celle d'une personne sans handicap. Il marchait plus lentement et sa vitesse diminuait au fur et à mesure qu'il tentait de franchir de plus longues distances. M. Reimer tentait d'éviter de marcher. Il a souffert de ce problème durant tout l'an 2000, que ce soit durant les « bonnes » ou les « mauvaises » journées. Selon moi, il lui fallait un temps excessif pour marcher avec sa prothèse et il n'était pas en mesure de le faire sans elle. Sa capacité de marcher était limitée de façon marquée durant toutes les heures de l'an 2000 qu'il a passé éveillé et actif.
+[17] L'appel est admis avec dépens.
+Signé à Ottawa, Canada, ce 8e jour d'avril 2003.
+« Gerald J. Rip »
+J.C.C.I.
+Traduction certifiée conforme
+ce 22e jour de février 2005.
+Sophie Debbané, réviseure
+[1] Voir le paragraphe 118.4(1) de la Loi.

@@ -1,0 +1,258 @@
+---
+title: "506913 N.B. Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/214099/index.do"
+last_modified: "2016-12-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 286"
+citation2: ""
+neutral_citation: "2016 CCI 286"
+decision_date: "2016-12-14"
+language: "fr"
+item_id: "214099"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2951
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:46:16.622000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ad9117e6117f1f0811c5c407f3af7ab347d0772423886419cca141c1064a7836"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 506913 N.B. Ltd. c. La Reine
+
+- Citation: 2016 CCI 286
+- Decision date: 2016-12-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2951, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+506913 N.B. Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-12-14
+Référence neutre
+2016 CCI 286
+Numéro de dossier
+2003-3382(GST)G, 2003-3383(GST)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-3382(GST)G
+ENTRE :
+506913 N.B. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2003-3383(GST)G
+ENTRE :
+CAMBRIDGE LEASING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête jugée sur la foi d’observations écrites.
+Par : L’honorable juge Patrick Boyle
+Participants :
+Avocats des appelantes :
+Me E.J. Mockler, c.r.
+Me Bruce R. Phillips
+Me Lee McKeigan-Dempsey
+Avocat de l’intimée :
+Me John P. Bodurtha
+ORDONNANCE
+Vu la requête présentée par les appelantes le 31 mars 2016 en vue d’obtenir une ordonnance enjoignant à l’intimée :
+1. de se présenter pour un nouvel interrogatoire préalable par les appelantes à ses propres frais et de répondre aux questions énoncées à l’annexe A de la requête (les [traduction] « questions contestées de l’interrogatoire préalable ») ainsi qu’à toute question légitime découlant de ses réponses;
+2. de payer les dépens de la requête présentée par les appelantes;
+Vu les observations présentées par les appelantes le 31 mai 2016 à l’appui de leur requête;
+Vu les observations présentées par l’intimée le 14 juin 2016 en réponse à la requête des appelantes;
+Vu les observations présentées par les appelantes le 21 juin 2016 en réplique à la réponse de l’intimée à leur requête;
+Et après examen par la Cour de la requête en question et de toutes les observations présentées;
+La Cour accueille la requête, conformément aux motifs de l’ordonnance ci‑joints, et ordonne à l’intimée :
+1. de répondre à toutes les questions ayant fait l’objet d’un refus;
+2. de se présenter pour un nouvel interrogatoire préalable à ses frais et de répondre aux questions et à toute autre question découlant des réponses données aux questions ayant fait l’objet d’un refus;
+3. de payer aux appelantes les frais de la préparation et de leur participation au nouvel interrogatoire préalable, selon un barème d’indemnisation substantielle;
+4. de payer aux appelantes un seul ensemble de dépens concernant la présente requête.
+Signé à Ottawa, Canada, ce 14e jour de décembre 2016.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 28e jour de mars 2018.
+Elisabeth Ross, jurilinguiste
+Référence : 2016 CCI 286
+Date : 20161214
+Dossier : 2003-3382(GST)G
+ENTRE :
+506913 N.B. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2003-3383(GST)G
+ENTRE :
+CAMBRIDGE LEASING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Boyle
+[1] Les appelantes ont présenté une requête en vue d’obliger l’intimée à répondre à un certain nombre de questions auxquelles elle a refusé de répondre lors du nouvel interrogatoire préalable relativement aux nouvelles réponses modifiées de l’intimée.
+[2] Les appels en l’espèce ont été interjetés en 2003. Ils portent sur des questions de TPS/TVH pour des périodes allant de 1998 à 2000. De façon générale, les questions soulevées sont décrites dans les avis d’appel comme se rapportant à l’application de la TVH (i) à la [traduction] « vente pour l’exportation » d’automobiles par les appelantes et (ii) à la vente d’automobiles par les appelantes aux [traduction] « Indiens dans les réserves ».
+[3] Les avis d’appel modifiés et les réponses modifiées ont été déposés en 2010. En 2015, la Cour a autorisé l’intimée à modifier à nouveau ses réponses. La Cour a également précisé que les appelantes recevaient l’autorisation de mener de nouveaux interrogatoires préalables [traduction] « relativement » (selon l’ordonnance) aux modifications figurant dans les nouvelles réponses modifiées de l’intimée ou [traduction] « concernant » (selon les motifs) ces modifications.
+Les modifications de l’intimée
+[4] La nouvelle réponse modifiée de l’intimée dans l’appel interjeté par Cambridge Leasing Ltd. (« Cambridge ») contenait notamment les nouveaux paragraphes suivants :
+[traduction]
+16. Pour calculer la taxe nette de l’appelante pour la période visée par l’appel, le ministre s’est fondé sur les faits supplémentaires suivants :
+a) l’appelante a participé à un stratagème lui permettant de demander des CTI;
+b) les opérations mentionnées à l’alinéa 13d) ci‑dessus n’étaient pas des opérations commerciales effectuées de bonne foi;
+c) les contrats de vente du grossiste utilisés pour l’achat et la vente de véhicules à moteur ont été préparés pour faciliter le stratagème;
+d) les renseignements figurant dans les contrats ne représentaient pas de véritables opérations commerciales;
+e) les factures ont été préparées pour faciliter le stratagème;
+f) les renseignements figurant dans les factures ne représentaient pas de véritables opérations commerciales;
+g) les renseignements ayant permis de calculer le montant des CTI ne représentaient pas de véritables opérations;
+h) les justificatifs de l’appelante censés prouver le droit de cette dernière aux CTI faisaient état d’un montant d’au plus 436 281,15 $, comme c’est précisé à l’annexe A qui fait partie de la présente nouvelle réponse modifiée.
+[…]
+20. Il soutient en outre que l’appelante n’avait pas droit à des CTI, étant donné que les renseignements figurant dans les justificatifs de l’appelante concernant les CTI demandés ne faisaient pas état de véritables opérations.
+21. Les contrats étaient des contrats de complaisance, c’est‑à‑dire, des contrats qui ont été préparés pour monter le stratagème et pour donner l’impression que de véritables opérations avaient été effectuées.
+22. Les factures ont été préparées pour monter le stratagème et pour donner l’impression que de véritables opérations avaient été effectuées.
+23. Les renseignements figurant dans les contrats, les factures et les autres justificatifs ne représentaient pas de véritables opérations et ont été utilisés dans le stratagème ayant permis à l’appelante de demander des CTI. L’appelante n’avait donc pas droit aux CTI en application des paragraphes 169(1) et 169(4) de la Loi et de l’article 3 des Règles.
+[5] La nouvelle réponse modifiée de l’intimée dans l’appel de la société 506913 N.B. Ltd. (« 506913 ») comprenait des observations, au paragraphe 18 et aux paragraphes 28 à 31, dont le libellé était virtuellement identique à ces paragraphes de l’appel de Cambridge.
+Les Règles
+[6] Le paragraphe 107(3) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») est rédigé ainsi :
+107(3) La Cour peut, à la suite d’une requête, décider du bien‑fondé d’une question qui a fait l’objet d’une objection et à laquelle il n’a pas été répondu.
+107(3) A ruling on the propriety of a question that is objected to and not answered may be obtained on motion to the Court.
+[7] Le paragraphe 95(1) des Règles énonce la portée des questions lors de l’interrogatoire préalable de la manière suivante :
+95(1) La personne interrogée au préalable répond, soit au mieux de sa connaissance directe, soit des renseignements qu’elle tient pour véridiques, aux questions pertinentes à une question en litige ou aux questions qui peuvent, aux termes du paragraphe (3), faire l’objet de l’interrogatoire préalable. Elle ne peut refuser de répondre pour les motifs suivants :
+95(1) A person examined for discovery shall answer, to the best of that person’s knowledge, information and belief, any proper question relevant to any matter in issue in the proceeding or to any matter made discoverable by subsection (3) and no question may be objected to on the ground that
+a) le renseignement demandé est un élément de preuve ou du ouï‑dire;
+(a) the information sought is evidence or hearsay,
+b) la question constitue un contre‑interrogatoire, à moins qu’elle ne vise uniquement la crédibilité du témoin;
+(b) the question constitutes cross-examination, unless the question is directed solely to the credibility of the witness, or
+c) la question constitue un contre‑interrogatoire sur la déclaration sous serment de documents déposée par la partie interrogée.
+(c) the question constitutes cross-examination on the affidavit of documents of the party being examined.
+[8] Selon une interprétation juste de la version anglaise et de la version française du paragraphe 95(1) des Règles, je crois que l’utilisation, dans la version anglaise, des deux termes « proper » et « relevant » devrait en fait être considérée comme une erreur de rédaction, gracieuseté du légendaire ministère ministériel des Redondances juridiques. Manifestement, la version française du paragraphe 95(1) des Règles n’exprime qu’un critère en recourant à la notion de « pertinence ». En outre, selon le paragraphe 107(3) des Règles, la Cour n’est appelée à décider que du « bien‑fondé » (propriety) des questions auxquelles l’on a refusé de répondre et il ressort clairement de la version française de ce paragraphe que la notion de bien‑fondé (propriety) et celle de pertinence (relevance) sont distinctes.
+[9] En particulier, pour les présents motifs, je refuse avec égard d’adopter le raisonnement exposé aux paragraphes 53 à 58 de la décision Stanfield c. La Reine, 2007 CCI 480, dans la mesure où on y considère les notions de « légitime » (proper) et de « pertinent » (relevant) comme des exigences distinctes. Pour reprendre les observations qui ont été rédigées par le juge en chef adjoint Christie (tel était alors son titre) de la Cour dans la décision 569437 Ontario Inc. c. Canada, [1994] A.C.I. no 531 (QL), et qu’il a citées avec insistance dans la décision Shell Canada Ltd. c. Canada, [1996] A.C.I. no 1313 (QL) :
+[...] [L]e critère relatif au bien‑fondé d’une question [...] est de savoir si les renseignements sollicités par une question peuvent être pertinents aux points qui, au stade de l’interrogatoire préalable, sont litigieux dans les actes de procédure déposés par les parties.
+Facteurs à prendre en compte pour obliger l’intimée à répondre
+[10] La Cour et la Cour d’appel fédérale ont examiné à fond la portée des questions posées lors de l’interrogatoire préalable. Celle-ci a été analysée en détail et de manière constante par non moins de trois juristes réputés qui sont devenus juges en chef de la Cour. Dans la décision Baxter c. La Reine, 2004 CCI 636, le juge en chef adjoint Bowman (tel était alors son titre) a décrit la portée de l’interrogatoire préalable aux paragraphes 12 et 13. Dans la décision Shell Canada, précitée, le juge en chef adjoint Christie a décrit la portée de l’interrogatoire préalable au paragraphe 9. Plus récemment, le juge en chef Rossiter a examiné et résumé les principes relatifs à l’interrogatoire préalable dans la décision Banque canadienne impériale de commerce c. La Reine, 2015 CCI 280, aux paragraphes 14 à 18, 270, 271, 362 et 363. Dans l’arrêt R. c. Lehigh Cement Limited, 2011 CAF 120, la juge Dawson, s’exprimant au nom de la Cour d’appel fédérale, a examiné la portée de l’interrogatoire préalable à la Cour aux paragraphes 24, 29, 30, 34, 37, 40 et 44.
+[11] Les quatre décisions susmentionnées, ainsi que les décisions qui y sont citées, ont établi ce qui suit :
+a) Les principes généraux applicables aux questions posées lors de l’interrogatoire préalable n’énoncent pas de formule magique applicable à tous les cas.
+b) La portée des questions autorisées dans le contexte de l’interrogatoire préalable est définie par les actes de procédure des parties. Ceux‑ci énoncent les faits, les questions et les thèses qui peuvent tous faire l’objet d’un interrogatoire préalable. Il suffit à la partie qui procède à l’interrogatoire de pouvoir convaincre le juge des requêtes que les renseignements sollicités peuvent être pertinents dans l’affaire, en interprétant les actes de procédure avec une latitude raisonnable et dans le contexte factuel et procédural propre à l’affaire.
+c) Le critère applicable à la pertinence dans le contexte d’un interrogatoire préalable est peu rigoureux et il est vraisemblablement facile d’y satisfaire, compte tenu de l’objectif de l’interrogatoire préalable — la franchise — et de son but de faire avancer les appels de façon juste, raisonnable et rapide jusqu’à l’audience.
+d) La question de la pertinence à cette étape est extrêmement large et doit recevoir une interprétation générale et libérale. Il faut accorder une très grande latitude, de façon à permettre l’enquête la plus complète sur tous les points qui sont raisonnablement susceptibles d’influer sur les questions en litige. Le critère a été décrit comme étant celui de l’apparence de pertinence, ce qui, à mon avis, signifie qu’il suffit qu’il semble raisonnable que la question soit potentiellement pertinente.
+e) Une question est pertinente si elle peut mener à une enquête pouvant directement ou indirectement permettre à une partie de faire valoir ses arguments ou de réfuter ceux de la partie adverse.
+f) Seules les questions concernant des points qui sont manifestement ou totalement dénués de pertinence devraient être rejetées à l’étape de l’interrogatoire préalable. Lorsqu’on ne sait pas très bien si une question est pertinente, vu l’objectif fondamental de franchise, on laisse le bénéfice du doute à la partie qui veut obtenir la réponse.
+g) Le juge des requêtes doit autoriser les questions qui se rapportent d’une façon générale aux points en litige. Il suffit qu’elles concernent les points en litige.
+h) Le juge des requêtes ne doit pas faire obstacle au pouvoir discrétionnaire du juge qui présidera l’instance. Celui-ci devra juger de la pertinence pour décider de l’admissibilité des éléments de preuve au dossier au regard de l’ensemble de la preuve et sera mieux à même de le faire. Une erreur commise par inadvertance par le juge des requêtes qui se prononce sur la pertinence lors de l’interrogatoire préalable peut mener à de graves problèmes ou même à des injustices au cours de l’instruction. C’est la décision du juge de première instance qui commande de la déférence. Le juge de première instance accorde, à juste titre, très peu de déférence à la décision du juge des requêtes. L’interrogatoire préalable et l’admission d’éléments de preuve sont des aspects de l’appel nettement distincts.
+i) Le juge des requêtes ne doit pas remettre en question l’interrogatoire préalable mené par l’avocat en examinant minutieusement chaque question. Une question peut être pertinente à l’étape de l’interrogatoire préalable même si, prise isolément, elle peut ne pas sembler pertinente. La pertinence d’une question peut être liée à des éléments de preuve dont le juge des requêtes n’est pas saisi.
+j) Il est légitime de poser des questions pour déterminer la position juridique de la partie adverse.
+k) On ne peut s’opposer à une question en disant que la partie qui interroge connaît déjà les faits. Il ne s’ensuit pas, à mon avis, que l’avocat soit autorisé à répéter sans fin une question essentiellement identique lors d’un même interrogatoire. Une question peut être semblable à une autre qui a été déjà posée sans qu’elle constitue pour autant une question essentiellement identique. Les mots et les expressions ne signifient pas la même chose pour tout le monde. Des termes et des expressions différents ont des sens différents.
+l) On ne peut s’opposer à une question au motif que la partie adverse n’a plus l’intention de se fonder sur une disposition, une thèse ou une caractérisation données.
+m) La Cour ne rejettera pas systématiquement une question au motif qu’elle n’est pas pertinente simplement parce qu’elle se rapporte à des points qui se situent en dehors des exercices en cause dans l’appel.
+n) Le juge des requêtes ne doit pas autoriser des questions qui sont manifestement non pertinentes, abusives, destinées à embarrasser, à harceler la personne ou la partie ou à retarder le processus ou qui font partie d’une recherche à l’aveuglette de portée vague et étendue.
+o) Une question pertinente peut être rejetée si y répondre exigerait trop d’efforts et de dépenses de la partie adverse.
+p) Le résumé ci‑dessus n’est pas exhaustif.
+Analyse et conclusions
+[12] En ce qui concerne les points (qu’il s’agisse de questions, de faits, d’éléments de preuve, de points de droit, d’arguments, de théories, de thèses, etc.) que l’intimée a présentés pour la première fois dans ses nouvelles réponses modifiées, il est manifeste et évident que les appelantes n’ont pas pu interroger l’intimée à leur sujet lors du premier interrogatoire préalable, qui a été achevé avant qu’elle ne produise les nouvelles réponses modifiées. La Cour a accordé aux appelantes leurs pleins droits pour interroger au préalable l’intimée sur tous les points en question. Pour tous ces points, les appelantes ont le droit de mener un interrogatoire préalable aussi complet que l’interrogatoire initial l’aurait été si les points en question avaient alors été énoncés dans les actes de procédure de l’intimée.
+[13] En l’espèce, il ressort manifestement de l’ordonnance rendue par la Cour en 2015 qu’aucune restriction n’a été imposée à la portée de l’interrogatoire relativement aux nouveaux points qui aurait découlé (i) du fait qu’un interrogatoire préalable avait été déjà mené, (ii) du fait que l’un ou l’autre de ces nouveaux points soulevés était semblable ou se rapportait à d’autres points qui avaient été déjà soulevés par l’intimée ou (iii) d’une autre raison. Je ne vois absolument aucune raison, à cette étape de la requête, d’imposer une telle restriction à la portée des questions posées lors du nouvel interrogatoire ordonné par la Cour.
+[14] Je peux uniquement conclure que l’intimée n’aurait pas demandé à la Cour l’autorisation de déposer ses nouvelles réponses modifiées si elle avait cru que les modifications distinctes et précises demandées n’étaient pas nécessaires, étant donné qu’elles avaient en quelque sorte, presque, pour la majeure partie, somme toute déjà été traitées dans ses réponses existantes. Dans ce contexte, je trouve que l’intimée, en rendant nécessaire la présente requête, n’a pas manqué d’audace. La principale raison avancée pour justifier le refus de répondre aux questions lors de l’interrogatoire préalable était que les questions ne se rapportaient pas aux modifications [1] .
+[15] Pour statuer sur la présente requête, j’établirai simplement si chacune des questions auxquelles l’intimée a refusé de répondre était pertinente, au sens de ce terme à l’étape de l’interrogatoire préalable et tel qu’il est décrit ci‑dessus, pour chaque nouveau point soulevé dans les nouvelles réponses modifiées.
+[16] J’examinerai également les autres raisons invoquées par l’intimée dans la présente requête pour justifier le refus de répondre à certaines questions.
+Questions répétitives ou qui se chevauchent
+[17] Lorsqu’un interrogatoire reprend après une longue période d’ajournement ou qu’un nouvel interrogatoire est autorisé ou ordonné, des questions qui semblent répétitives ou qui semblent se chevaucher seront autorisées dans une mesure raisonnable dans le cas de questions qui sont préliminaires ou qui constituent un rappel. Cela permet à l’avocat de résumer la situation pour la personne interrogée et de placer les questions à venir dans leur contexte.
+[18] Lorsque des modifications importantes sont apportées aux actes de procédure de la partie interrogée, comme en l’espèce, l’avocat sera autorisé à poser des questions concernant l’incidence que ces modifications pourraient avoir sur l’ensemble de la thèse de cette partie. C’est particulièrement vrai, comme en l’espèce, lorsque les nouvelles et les anciennes thèses énoncées dans les actes de procédure se chevauchent.
+[19] Par ailleurs, il faudra répondre aux questions identiques concernant tous les nouveaux points soulevés dans les actes de procédure modifiés, y compris celles concernant la manière dont la nouvelle réponse diffère de la réponse antérieure relativement à des points qui ont déjà été soulevés et examinés.
+[20] Parmi les questions auxquelles l’on a refusé de répondre au motif qu’on y avait déjà répondu à l’interrogatoire préalable, aucune ne semble manifestement dépasser la portée de l’interrogatoire ni être vaste au point d’être abusive. Pour ces raisons, il faut répondre à chacune d’entre elles.
+Abus
+[21] L’intimée n’a pas étayé ni établi dans les faits ou les raisons présentés dans ses documents de requête sa déclaration selon laquelle la nature répétitive de certaines questions constituait un abus. L’abus est une question importante. Si une partie allègue l’abus, elle doit prendre l’allégation au sérieux étant donné qu’elle s’attend à ce que la Cour la prenne au sérieux.
+Pertinence
+[22] Je conclus que chaque question pour laquelle la non‑pertinence a été invoquée pour justifier le refus d’y répondre est pertinente à l’égard des modifications effectuées par l’intimée dans ses nouvelles réponses modifiées ou qu’elle s’y rapporte. Aucune question n’aurait dû faire l’objet d’un refus de répondre au motif qu’elle ne concernait pas les modifications ou ne s’y rapportait pas. Il aurait fallu répondre aux questions ou, dans des circonstances appropriées, s’engager à y répondre.
+[23] Il est pertinent de demander si la thèse de l’intimée consiste à affirmer que le stratagème allégué auquel les appelantes auraient pris part a commencé avant les périodes d’imposition en cause dans les appels en l’espèce, au cours desquelles les appelantes ont mené des activités semblables. Quoi de plus élémentaire que de demander en quoi consiste le stratagème allégué et à quel moment celui-ci aurait commencé?
+Documents ne figurant pas sur la liste de documents
+[24] Chacune des questions auxquelles l’on a refusé de répondre pour le motif invoqué ci-dessus semble se rapporter à un document particulier d’une appelante, qui a été saisi lors d’une vérification ou plus tard, ou un affidavit de l’intimée se rapportant à des documents qui ont été préparés et utilisés dans une procédure pénale engagée contre un tiers relativement à des opérations précises ayant une grande importance dans les appels en l’espèce. L’intimée avait rendu ou fourni ces documents aux appelantes peu avant le nouvel interrogatoire et les appelantes n’avaient pas pu les consulter lors des interrogatoires antérieurs. Depuis le nouvel interrogatoire, les appelantes ont révisé leurs listes de documents.
+[25] Si une question est fondée ou porte sur des documents qui ont une apparence de pertinence, l’on devrait y répondre, ou prendre des engagements appropriés. Si ce qui est demandé est trop vaste et semble constituer un piège, tout refus devrait être accompagné d’un engagement de reprendre l’audience pour que l’on puisse répondre aux questions concernant ces documents à la suite d’un ajournement accordé pour permettre leur examen. C’est encore plus évident lorsque les documents sont préparés, ou obtenus, par la partie qui fait l’objet de l’interrogatoire préalable.
+Poursuites criminelles contre des tiers
+[26] L’intimée soutient que les questions se rapportant aux poursuites criminelles engagées contre des tiers sont, pour cette raison, dénuées de pertinence. Il semble que les tiers ont été poursuivis relativement à certaines opérations qui, selon les actes de procédure de l’intimée, constitueraient des stratagèmes trompeurs inopérants et que les documents des appelantes avaient été mis à la disposition de la poursuite par l’Agence du revenu du Canada. C’est suffisant pour satisfaire au critère de pertinence à l’étape de l’interrogatoire préalable. Il faut répondre à ces questions.
+Questions de droit
+[27] L’on a refusé de répondre à certaines questions au motif qu’elles étaient juridiques ou de nature juridique. L’intimée n’a pas développé plus à fond ce point dans ses observations écrites.
+[28] La question 855 appellerait une conclusion de droit s’il s’agissait simplement de demander si le titre sur les voitures a été transféré. Toutefois, la question est précédée d’un passage qui s’articule autour de la question de savoir pourquoi l’intimée pense qu’il s’agissait d’un stratagème dont les opérations n’étaient pas de véritables opérations commerciales. Cette contextualisation nuance la question et la rend pertinente relativement aux nouvelles observations de l’intimée alléguant des stratagèmes, de la mauvaise foi, des faux renseignements et des fausses opérations. La question de savoir si le fait que le titre ait été transféré ou non est un facteur pris en compte par l’intimée est une question appropriée.
+[29] Il est tout à fait approprié de demander quels faits la partie interrogée a pris en compte pour arriver à une conclusion juridique qu’elle invoque dans ses actes de procédure. Demander à la partie interrogée sur quelle partie de la disposition invoquée elle se fonde n’est pas lui demander une conclusion de droit. Il en va de même des questions sur les motifs pour lesquels la partie interrogée estime qu’il est satisfait aux exigences d’une disposition de la Loi sur la taxe d’accise qu’elle invoque.
+[30] Aucune des questions auxquelles l’on a refusé de répondre parce qu’elles étaient juridiques ou de nature juridique ne sollicite d’avis juridique ou de conclusion juridique et, pour cette raison, il faut répondre à chacune d’elles.
+Dispositif
+[31] L’intimée doit répondre à toutes les questions auxquelles elle a refusé de répondre.
+[32] La personne désignée par l’intimée doit de nouveau participer, aux frais de cette dernière et d’ici soixante jours, à l’interrogatoire préalable pour répondre aux questions auxquelles celle-ci a refusé de répondre, et pour répondre promptement à toute nouvelle question découlant des réponses données aux questions pour lesquelles il y avait eu refus de répondre.
+[33] Les appelantes ont droit au paiement des frais de leur préparation et de leur participation au nouvel interrogatoire, selon un barème d’indemnisation substantielle [2] . Si les parties ne peuvent pas s’entendre sur le montant, elles peuvent chacune déposer d’ici 30 jours leurs observations; celles-ci ne doivent pas dépasser six pages.
+[34] Les appels en l’espèce sont, comme le disait Charles Dickens, de ceux dont le procès dure toujours et se traîne à perpétuité devant son juge. La Cour en est saisie depuis plus de treize ans, au cours desquels ils ont fait l’objet de plusieurs conférences de gestion de l’instance et ont fait intervenir plusieurs juges des requêtes. Un juge précédent, chargé de la gestion de l’instance, a ordonné qu’aucune autre requête ou procédure incidente ne soit présentée devant la Cour avant l’audition des appels. Les requêtes présentées par l’intimée en vue de modifier ses réponses ont été présentées juste avant la date limite imposée à l’égard des nouvelles requêtes. L’on peut s’attendre à ce que les appels en l’espèce soient entendus sans délai — et il serait préférable que les parties elles‑mêmes assurent la réalisation de cet objectif.
+[35] Les appelantes ont droit à un ensemble mémoire de dépens pour la présente requête.
+Signé à Ottawa, Canada, ce 14e jour de décembre 2016.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 28e jour demars 2018.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2016 CCI 286
+NOS DES DOSSIERS DE LA COUR :
+2003-3382(GST)G
+2003-3383(GST)G
+INTITULÉ :
+506913 N.B. LTD. et
+CAMBRIDGE LEASING LTD.,
+c. LA REINE
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Patrick Boyle
+DATE DE L’ORDONNANCE :
+Le 14 décembre 2016
+PARTICIPANTS :
+[EN BLANC]
+Avocats des appelantes :
+Me E.J. Mockler, c.r.
+Me Bruce R. Phillips
+Me Lee McKeigan-Dempsey
+Avocats de l’intimée :
+Me John P. Bodurtha
+AVOCATS INSCRITS AU DOSSIER :
+[EN BLANC]
+Pour les appelantes :
+Me E.J. Mockler, c.r.
+Me Kevin C. Toner
+Me Bruce R. Phillips
+Me Lee McKeigan‑Dempsey
+Cabinets :
+E.J. Mockler Professional Corporation
+Fredericton (Nouveau‑Brunswick)
+Ellsworth Johnson Phillips
+Moncton (Nouveau‑Brunswick)
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Dans ses observations écrites, l’intimée a jumelé cette observation à l’exigence de pertinence, de sorte qu’elle soutient pouvoir à juste titre refuser de répondre aux questions si elles ne se rapportent pas aux modifications.
+[2] Les appelantes ont demandé l’adjudication des dépens avocat‑client. Les circonstances de la présente requête ne satisfont pas au critère rigoureux applicable aux dépens avocat-client. Je ne suis pas non plus convaincu qu’ils seraient appropriés en tout état de cause.

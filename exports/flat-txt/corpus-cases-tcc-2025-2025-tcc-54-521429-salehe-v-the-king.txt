@@ -1,0 +1,147 @@
+Title: Salehe v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521429/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-54-521429-salehe-v-the-king.md
+Document type: case_law
+Last modified: 2025-05-14
+
+# Salehe v. The King
+
+- Citation: 2025 TCC 54
+- Decision date: 2025-05-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5460, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Salehe v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-05-14
+Neutral citation
+2025 TCC 54
+File numbers
+2024-1407(IT)I
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2024-1407(IT)I
+BETWEEN:
+MOHAMMED (MOE) SALEHE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on March 6, 2025, at Toronto, Ontario
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+John H. Reiterowski
+Counsel for the Respondent:
+Melanie Da Costa
+AMENDED JUDGMENT
+UPON hearing the evidence and submissions of counsel for the Appellant and counsel for the Respondent;
+AND IN ACCORDANCE with the attached Reasons for Judgment, the appeal made under the Income Tax Act with respect to the reassessment dated May 16, 2022 and assessment dated July 7, 2023 in respect of the 2020 and 2021 taxation years, respectively, is hereby dismissed. There shall be no order as to costs.
+The Amended Judgment and Amended Reasons for Judgment are issued in substitution of the Judgment and Reasons for Judgment originally dated April 15, 2025 to correct a typographical error in paragraph 34.
+Signed this 14th day of May 2025.
+“Guy R. Smith”
+Smith J.
+Citation: 2025 TCC 54
+Date: 20250514
+Docket: 2024-1407(IT)I
+BETWEEN:
+MOHAMMED (MOE) SALEHE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Smith J.
+I. Introduction [1] Mr. Mohammed Salehe, the Appellant in this matter, has appealed from the reassessment and assessment for the 2020 and 2021 taxation years.
+[2] The Minister of National Revenue (the “Minister”) disallowed a deduction for legal expenses of $65,500 for the 2020 taxation year as well as legal expenses of $52,063 and rental losses of $12,715 for the 2021 taxation year. The Minister maintains that the Appellant did not have a source of income and as such was not entitled to claim these deductions.
+[3] As will be seen below, the facts relate to a property described municipally as 49 Oakridge Blvd., Nepean, Ontario, that I will refer to as the “Property”.
+[4] I would summarize the issues in this appeal as follows:
+1. Was the Property a source of business or property income such that the Appellant was entitled to claim rental losses in 2021?
+2. Was the Appellant entitled to claim the legal expenses?
+[5] To be clear, the Appellant claimed rental losses in 2020 (and may have claimed rental losses in prior years), but those amounts are not at issue in this appeal. Also, the Minister has not challenged the quantum of the legal expenses.
+[6] For reasons set below, the appeal must be dismissed.
+II. Background [7] The Appellant testified on his own behalf. There were no other witnesses.
+[8] The Appellant is a retired police officer. Prior to his retirement, or shortly thereafter, he obtained his license as a mortgage broker and in 2019 registered the business name Arius Capital to conduct those activities.
+[9] He claimed to have three rental properties, including the Property at issue in this appeal. It was purchased as an investment property in 1996 and his sole intention was to generate income.
+[10] His parents were the first tenants. In October 1996, his father signed a five-year lease, agreeing to pay rent of $900 per month plus utilities. Some of the Appellant’s siblings also occupied the Property during that time period but were not treated as tenants. They eventually left the premises to live on their own.
+[11] With the expiry of the lease in September 2001, a new one-year lease was signed on the same terms. Following its expiry, no other lease was signed but his parents continued to pay rent of $900 per month.
+[12] The Appellant’s father passed away in 2016, but his mother continued to reside in the Property. Her monthly income was just enough to cover her personal living expenses such as groceries, telephone and internet. From that point on, the Appellant did not charge her any rent.
+[13] His mother’s health gradually declined as she began to show signs of dementia. She was eventually placed in a care facility in February 2020.
+[14] The Appellant wanted to rent the Property to new tenants and began the process of removing his parents’ furniture and personal belongings. He planned to clean and paint the entire Property.
+[15] At this point, a conflict erupted between the Appellant and some of his siblings. They took the position that the Property formed part of their mother’s estate as it was purchased by their parents in 1996. It was also argued that the Property was registered in the Appellant’s name because they did not qualify for a mortgage.
+[16] As a result of this conflict, a certificate of pending litigation (“CPL”) was registered on title. The Appellant claims that the CPL prevented him from renting the Property. It remained vacant until 2023.
+[17] As explained by the Appellant, the legal costs that are at issue in this appeal, were incurred to defend his ownership and title to the Property.
+[18] This Court was provided with supporting documents including the parcel register, minutes of settlement signed by the Appellant and his siblings in November 2022 as well as an order of the Ontario Superior Court of Justice approving the settlement.
+[19] In cross-examination, the Appellant maintained that the rent charged in 1996 reflected market rates for similar properties at that time but acknowledged that it was just enough to cover the mortgage payments and realty taxes. He acknowledged that he was not actually making a profit and had reported rental losses over the years.
+[20] He acknowledged that the rent remained the same from 1996 to 2016. With the passing of his father, he did not collect any rent from his mother, on compassionate grounds.
+[21] The Appellant acknowledged that his parents were added to the title of the Property with him as tenants in common in 2007. He was unable to explain why this was done. His father was deleted from the parcel register in early 2017.
+[22] In 2019, his mother’s name was also deleted from the parcel register and the Appellant remained as the sole owner. He could not adequately explain how this was achieved given his mother’s dementia. He explained that he needed to mortgage the Property to settle debts arising from his divorce.
+A. First Issue: Was the Property a source of business or property income such that the Appellant was entitled to claim rental losses in 2021? [23] The Appellant stated that when he purchased the Property in 1996, his intention was to generate income. I find that the facts suggest otherwise.
+[24] In Stewart v. Canada, 2002 SCC 46 (“Stewart”) the Supreme Court of Canada noted that a “source of income assessment is not a purely subjective inquiry” and in order “for an activity to be classified as commercial in nature, the taxpayer must have the subjective intention to profit”. This determination must be made by “looking at a variety of objective factors” (para 54) and this was especially important where there was evidence of a personal or hobby element (para 55).
+[25] The Court then referred to the comments of Dickson J. in the earlier decision of Moldowan v. The Queen, [1978] 1 S.C.R. 480 and the objective factors referred to in that decision including 1) the profit and loss experience in past years; 2) the taxpayer’s training; 3) the taxpayer’s intended course of action; and 4) the capability of the venture to show a profit (page 486).
+[26] Similarly, in Coburn Realty Ltd. v. The Queen, 2006 TCC 245, Bowman, C.J. explained that “[s]tatements by a taxpayer of his or her subjective purpose and intent are not necessarily (…) the most reliable basis upon which such a question can be determined” (para 10). In the earlier decision of Symes v. Canada, [1993] 4 S.C.R. 695, the Supreme Court of Canada indicated that Courts should look “for objective manifestations of purpose, and purpose is ultimately a question of fact to be decided with due regard for all the circumstances” (page 736).
+[27] In this instance, I am not convinced that the Appellant truly intended to realize a profit from the Property and a review of the objective factors leads me to conclude that there is insufficient evidence to support that position.
+[28] It is not disputed that the Property was occupied by his parents and younger siblings. They were not at arm’s length with the Appellant. The actual rent was not increased from 1996 to 2016, a period of over 20 years. No rent was collected or charged to his mother for a further period of 4 years.
+[29] This Court may reasonably infer that the real arrangement between the Appellant and his parents was to ensure that mortgage payments and realty taxes were paid. It seems obvious that the Appellant did not intend to make a profit.
+[30] I attach no weight to the lease agreement(s) and find that they were merely intended to provide the parents with a form of security and to support the Appellant’s claim for rental losses throughout the period.
+[31] The Appellant stated that when his mother left the premises in early 2020, he subjectively intended to rent the premises and would have done so had it not been for the registration of the CPL. I find that the Appellant’s assertion that he intended to do so is insufficient and must be considered in the context of the ongoing litigation with his siblings and the allegation that he held the Property in trust for his parents and later his mother.
+[32] A reading of the minutes of settlement, signed in November 2022, supports the conclusion that the Property was held in trust because in April 2023 the Ontario Superior Court of Justice ordered that it be sold and the net proceeds of sale set aside for the benefit of the Appellant’s mother. Although the Appellant held exclusive title to the Property in 2020 and 2021, I find that he did so in trust for his mother. Had he successfully rented the Property during that period of time, I find that he would have done so for the benefit of his mother.
+[33] Two final points need to be made. Firstly, I find that no weight should be attached to the business name registration. While the Appellant may have been engaged in other business activities, I find that this did not include the Property.
+[34] Secondly, I will add that it would not have made a difference in this appeal had the Appellant submitted additional documentation such as tax returns for prior years. Such documents would not have been relevant to the taxation years at issue. This is so because the doctrine of estoppel does not run against the Crown and a concession made by the Minister in one taxation year does not preclude her from taking a different position in later taxation years. This point was addressed in Ludco Enterprises Ltd. v. The Queen, [1996] 3 C.T.C. 74 (at pages 78-79).
+[35] To conclude on this first issue, I find that the Appellant did not have a source of income from a business or property during the subject taxation years and consequently, he was not entitled to claim rental losses for the 2021 taxation year.
+B. Second Issue: Was the Appellant entitled to claim the legal expenses? [36] I have already concluded that the Appellant did not have a source of income from a business or property such that he could not deduct rental losses. For the same reason, I find that he was not entitled to deduct the legal expenses.
+[37] Although it is not necessary to do so, I will summarily review the Appellant’s arguments. He claimed that he incurred legal expenses following the registration of the CPL and litigation with his siblings. He was unable to rent the Property.
+[38] The Appellant relied on IT Bulletin 99R5 that contains “a general discussion of the treatment for tax purposes of legal and accounting fees” and explains that “[l]egal costs to prosecute or to defend most tort, contract or other civil claims arising in the ordinary course of business will generally be deductible” (para 4).
+[39] The Appellant also relied on Burley v. The Queen, 2020 TCC 68 where the Court indicates that “[l]egal, accounting and professional fees can ordinarily be deducted as business expenses when they are incurred in the normal course of a business’ income earning operations or are incurred to defend those business activities” (para 21).
+[40] With respect to Interpretation Bulletins in general, it is well established that they represent the opinion of the Minister. They are not binding on this Court and are only relevant in the event of doubt as to the meaning of legislation.
+[41] The focus must therefore be on the actual legislative provisions.
+[42] Subsection 9(1) of the Income Tax Act, R.S.C., 1985, c.1 (5th Supp.) (“Act”), provides that a taxpayer may deduct expenses that are incurred to earn profit, subject to the limitations set out in the Act.
+[43] Subsection 18(1) provides a number of such limitations.
+[44] Paragraph 18(1)(a) states that no deduction shall be made “(…) except to the extent that it was made or incurred for the purpose of gaining or producing income from the business or property.” Since I have already concluded that there was no source of income, the legal expenses would not be deductible for that reason alone.
+[45] Paragraph 18(1)(b) excludes “a payment on account of capital.” The Appellant stated that he incurred the legal expenses to defend his title or ownership of the Property. If that was the case, then it does not relate to the operation of a business but is on account of capital. Therefore, the legal expenses incurred would not be deductible even if there was a source of income.
+[46] A final limitation needs to be considered. Paragraph 18(1)(h) excludes “personal or living expenses (…)”. The Appellant must be taken to have known that he was holding the Property in trust for his mother. In that context, I conclude that the Appellant’s legal expenses relate to a family dispute that is akin to estate litigation and is not connected to a source of income. Once again, I must conclude that the Appellant’s legal expenses would not be deductible even if there was a source of income as they were the Appellant’s personal or living expenses.
+[47] To conclude on the second issue, I find that the Appellant was not entitled to deduct the legal expenses incurred in 2020 and 2021 because he did not have a source of income from a business or property. Further and in the alternative, those expenses were not deductible because they were his personal or living expenses or, alternatively, were on account of capital.
+III. Conclusion [48] For the foregoing reasons, the appeal is dismissed.
+[49] There shall be no order as to costs.
+The Amended Judgment and Amended Reasons for Judgment are issued in substitution of the Judgment and Reasons for Judgment originally dated April 15, 2025 to correct a typographical error in paragraph 34.
+Signed this 14th day of May 2025.
+“Guy R. Smith”
+Smith J.
+CITATION:
+2025 TCC 54
+COURT FILE NO.:
+2024-1407(IT)I
+STYLE OF CAUSE:
+MOHAMMED (MOE) SALEHE AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 6, 2025
+AMENDED REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF AMENDED REASONS FOR JUDGMENT:
+May 14, 2025
+APPEARANCES:
+Counsel for the Appellant:
+John H. Reiterowski
+Counsel for the Respondent:
+Melanie Da Costa
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John H. Reiterowski
+Firm:
+JHR Law
+Toronto, Ontario
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Ontario

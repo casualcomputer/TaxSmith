@@ -1,0 +1,105 @@
+Title: Shreedhar c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/182141/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-254-182141-shreedhar-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-11-09
+
+# Shreedhar c. La Reine
+
+- Citation: 2016 CCI 254
+- Decision date: 2016-11-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2970, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shreedhar c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-11-09
+Référence neutre
+2016 CCI 254
+Numéro de dossier
+2015-1894(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-1894(IT)I
+ENTRE :
+SUNIL SHREEDHAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête tranchée par voie d’observations écrites
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Représentants de l’appelant :
+Jessica Stansfield (stagiaire)
+Julio Paoletti (stagiaire)
+Avocate de l’intimée :
+Me Charlotte Deslauriers
+ORDONNANCE
+Vu la requête déposée par l’intimée à l’audience du 1er mars 2016 en vue d’obtenir l’annulation de l’appel au motif d’une cotisation néant;
+Après que la Cour a ajourné la séance en attendant que les parties soumettent d’autres observations;
+Et après avoir examiné les observations reçues de l’appelant le 29 mars 2016 et de l’intimée le 2 mai 2016;
+La cour ordonne que la requête de l’intimée soit rejetée pour les motifs ci‑joints.
+Signé à Ottawa, Canada, ce 9e jour de novembre 2016.
+« Patrick Boyle »
+Le juge Boyle
+Référence : 2016 CCI 254
+Date : 20161109
+Dossier : 2015-1894(IT)I
+ENTRE :
+SUNIL SHREEDHAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Boyle
+[1] Dans le présent appel interjeté sous le régime de la procédure informelle de la Cour, l’intimée a soulevé dans sa réponse une objection préliminaire quant au fait que l’appelant conteste une cotisation néant, ce qui n’est généralement pas permis.
+[2] La question sous-jacente importante dans l’avis d’appel n’est pas pertinente pour trancher cette question préliminaire. Il suffit de dire que l’Agence du revenu du Canada (l’« ARC ») a établi une nouvelle cotisation à l’égard de l’appelant pour inclure dans son revenu‎ un montant déclaré comme imposable à l’appelant par le fiduciaire d’un régime enregistré d’épargne-études que le grand-père de l’appelant a établi pour lui. L’appelant nie avoir reçu ce montant ou tout autre montant, directement ou indirectement. L’appelant est également préoccupé par le fait qu’il ne connaît pas les modalités de la fiducie ou quoi que ce soit d’autre au sujet de celle-ci.
+[3] Au moment d’établir la nouvelle cotisation de l’appelant, l’ARC a ajouté ce montant au revenu de l’appelant. L’ARC a ensuite déduit un montant correspondant ‎des déductions liées à l’éducation non réclamées auxquelles l’appelant avait droit. C’est cette déduction arbitraire, que l’appelant n’a pas demandée, mais que l’ARC a effectuée, qui a fait que la nouvelle cotisation d’un montant de revenu supplémentaire a néanmoins donné lieu à une cotisation néant.
+[4] Je ne comprends pas très bien pourquoi on devrait priver le contribuable de son droit d’appel quant à une cotisation néant, dans les cas où ladite cotisation résulte de la compensation par l’ARC d’un montant de revenu pour lequel une nouvelle cotisation a été établie en ayant recours à une déduction arbitraire à laquelle le contribuable avait droit, mais qu’il n’a pas demandée. C’est une question que j’aimerais étudier très sérieusement avant de rejeter l’appel d’un contribuable. Je n’ai cependant pas à résoudre cette question en l’espèce.
+[5] À première vue, la nouvelle cotisation à l’égard de l’appelant n’était pas une cotisation néant. Un montant d’intérêts a été établi par l’ARC lors de la nouvelle cotisation de l’appelant. Les intérêts évalués, contrairement aux intérêts courus après la cotisation, font partie de la cotisation. Étant donné qu’il ne s’agit pas d’une cotisation néant, l’appel peut être accueilli. J’ai examiné cette question plus en détail dans Cooper c. La Reine, 2009 CCI 236, et dans les décisions qui y sont mentionnées. Cette approche est conforme au paragraphe 15 de la décision Canada c. Interior Savings Credit Union, 2007 CAF 151, dans laquelle la Cour d’appel fédérale a déclaré qu’il n’y avait aucun motif d’appel à moins que le contribuable conteste l’impôt, les intérêts ou les pénalités fixés pour l’année. Un tel appel peut être accueilli à l’égard de tout aspect de la cotisation et n’est pas limité aux intérêts fixés. Dans Cooper, les intérêts s’élevaient à 6,47 $; dans le cas de l’appelant, ils se chiffrent à 2,10 $. Ces montants, bien que fort modiques, ne sont toutefois pas nuls. Ce sont des montants que l’ARC a décidé d’ajouter aux nouvelles cotisations en question.
+[6] Pour ces motifs, l’objection de l’intimée est rejetée et l’appel doit être réinscrit au rôle pour audition.
+[7] Je tiens à faire‎ remarquer que l’appelant a clairement indiqué que la principale préoccupation l’ayant amené à faire appel était le fait que ni l’ARC, ni l’intimée ou son grand-père ne l’avaient mis au courant ou ne lui avaient fourni d’information lui permettant de conclure que le montant devait effectivement être ajouté à son revenu. J’ignore en quoi une audience contribuera à régler ce point, à moins que l’appelant soit prêt à citer son grand-père à comparaître. J’espère que l’intimée et le grand-père de l’appelant pourront facilement trouver et utiliser un moyen plus efficace d’aider l’appelant à déterminer si ses préoccupations sont fondées.
+Signé à Ottawa, Canada, ce 9e jour de novembre 2016.
+« Patrick Boyle »
+Le juge Boyle
+RÉFÉRENCE :
+2016 CCI 254
+No DU DOSSIER DE LA COUR :
+2015-1894(IT)I
+INTITULÉ :
+SUNIL SHREEDHAR c. LA REINE
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Patrick Boyle
+DATE DE L’ORDONNANCE :
+Le 9 novembre 2016
+COMPARUTIONS :
+[EN BLANC]
+Représentants de l’appelant :
+Jessica Stansfield (stagiaire)
+Julio Paoletti (stagiaire)
+Avocate de l’intimée :
+Me Charlotte Deslauriers
+AVOCATS INSCRITS AU DOSSIER :
+[EN BLANC]
+Pour l’appelant :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

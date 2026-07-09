@@ -1,0 +1,141 @@
+---
+title: "Neufeld v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29299/index.do"
+last_modified: "2009-07-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 352"
+citation2: ""
+neutral_citation: "2009 TCC 352"
+decision_date: "2009-07-08"
+language: "en"
+item_id: "29299"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7100
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:08:56.850000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e74f529091cc7794bac73c48b19185b55ba50b0654561c05d62c18027b6cf242"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Neufeld v. The Queen
+
+- Citation: 2009 TCC 352
+- Decision date: 2009-07-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7100, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Neufeld v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-07-08
+Neutral citation
+2009 TCC 352
+File numbers
+2009-690(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-690(IT)I
+BETWEEN:
+KAREN ELIZABETH NEUFELD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 25, 2009, at Lethbridge, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Agent for the Appellant:
+Rick Miller
+Counsel for the Respondent:
+Valerie Meier
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2004 taxation year is dismissed.
+Signed at Saskatoon, Saskatchewan, this 8th day of July 2009.
+“D.W. Beaubier”
+Beaubier D.J.
+Citation: 2009TCC352
+Date: 20090708
+Docket: 2009-690(IT)I
+BETWEEN:
+KAREN ELIZABETH NEUFELD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, D.J.
+[1] This appeal pursuant to the Informal Procedure was heard at Lethbridge, Alberta on June 25, 2009. The Appellant testified and called Bradley Kreft (who sued her former husband, Kurt, and settled the lawsuit), her stepfather Andrew Johnstone and her boyfriend’s father Robert Frederick Miller. Messrs Kreft and Miller are both former recruits and members of Excel, a division of Vartec Telecom (“Excel”); Mr. Miller was recruited into Excel by Kurt Neufeld. The Respondent did not call any witnesses.
+[2] The Appellant has appealed the confirmation of the assessment for her 2004 taxation year which was assessed on the same basis as it was reported by her in her 2004 income tax return (Exhibit R-5). The Appellant testified that she signed it under duress from her husband Kurt. She signed a similar income tax return for 2003 (Exhibit R-6). Mrs. Neufeld also testified that she gave a letter to the accountant not to file her 2004 income tax return, but this letter is not in evidence, she didn’t state the letter’s date, and the accountant was not called to testify. Moreover, the Appellant nodded “yes” that she thought that signing the income tax returns reporting her partnership income would benefit her from income splitting.
+[3] The particulars in dispute are set out in paragraphs 2, 3, 6, 7 and 9 of the Reply. They read:
+2. The Appellant’s 2004 income tax return was initially assessed on April 16, 2007.
+3. In computing income for the 2004 taxation year, the Appellant declared gross business income of $86,635 and net business income of $35,617. The income was assessed as filed.
+6. In determining the Appellant’s tax liability for the 2004 year, the Minister relied on the following assumptions of fact:
+(a) during the relevant period, the Appellant and her husband, Kurt Neufeld (hereinafter “Kurt”), were 50/50 partners in a business venture (hereinafter “the Partnership”);
+(b) the Appellant was actively involved in the Partnership;
+(c) the Appellant and Kurt were each 50% shareholders of PowerTeam Inc.
+(d) from 2001 to 2004 the Partnership was involved in network marketing for Excel Telecommunications;
+(e) in 2004 the Partnership became distributors for XanGo juice
+(f) the Appellant and Kurt jointly owned the bank account in which business income was deposited;
+(g) the Appellant declared business income from the Partnership, in 2002 and 2003;
+(h) the Partnership received gross business income of not less than $86,635 in the 2004 year, and
+(i) the Appellant received net business income of not less than $35,617 in the 2004 year.
+7. The issue to be decided is whether income has properly been assessed in the Appellant’s tax return for the 2004 years.
+9. The Respondent submits that in the 2004 taxation year, the Appellant received net business income of not less than $35,617.
+[4] There is no evidence about assumptions 6 (c) and (e), so they were not refuted. Assumption 6(f) is correct. Assumption 6(g) was not refuted. Assumption 6(a), (b), (d), (h) and (i) were disputed by the Appellant on the basis that she was not a partner of Kurt and that she did not receive business income or business income from the partnership in 2004.
+[5] The Appellant and Kurt had their names together on business cards as Excel “Regional Directors” (Exhibit R-2) and on an Excel “Award of Excellence” dated December 7, 2002 (Exhibit R-3). Karen admitted that she served on the desk and as a greeter at Excel meetings. Kurt assembled and Karen added up receipts respecting the Excel business (Exhibit R-1). The Appellant went to Excel conferences in Calgary and Texas although she testified that she didn’t attend training sessions. She went on an Excel awarded holiday in Mexico, but she said that she went as Kurt’s spouse. However, she nodded yes and admitted that she was named in Excel’s documents as being in the Excel business.
+[6] The Neufelds had a joint account in the Alberta Treasury Branch into which the Excel earnings were deposited in 2004 and on which the Appellant had and used individual powers of withdrawal; she also had an ATM card on the account, which she used. She testified that she only did this with Kurt’s authorization. However the account record for October 2004 was admitted by her to be used by her for individual purchases (Exhibit R-4). This is the account that received the Excel earnings.
+[7] Bradley Kreft testified that Karen attended at major Excel events to support Kurt. Andrew Johnstone testified that he knew that Kurt exercised “significant pressure” on Karen, but he didn’t state when or in relation to what; he and his wife were recruited into Excel by Kurt and he testified that over the years he and his wife lost tens of thousands of dollars in Kurt’s schemes. Frederick Miller testified that Karen attended Excel meetings and socialized there, but that she was never involved in the business and most times in his experience she left the house when customers were there. Mr. Miller also testified that Excel members make money by recruiting representatives and make more money when these representatives recruit additional representatives.
+[8] The Appellant testified that she learned that they had become Excel representatives when Kurt come home and announced that he had signed up with Excel. She also testified that she did not recall signing a partnership agreement with Kurt and didn’t know of some of his business dealings and investments. She stated that recruits to Excel are often from social contacts and that when potential recruits were being approached in her home she often served them coffee or something similar.
+[9] The Neufelds separated in about August of 2006 and signed a divorce agreement (ExhibitA-6) on 18 and 15 December 2006. In that agreement Kurt reported net total assets of $132,663, whereas Karen reported total assets of $11,000. Kurt’s imputed annual income was $44,000; Karen’s was $12,000. She testified that the divorce agreement indicated to her that there had been an unequal division of their assets and that she didn’t profit from the business. However paragraph 7.5 of the Agreement orders Kurt to pay Karen $36,000 in consideration of her interest in the matrimonial home and the agreement agrees on a division of the remaining assets.
+[10] To be a partner with a person in business one need not sign an agreement or register the partnership. A partnership is merely a “relationship between persons carrying on a business in common with a view to profit.” (Alberta Partnership Act, RSA 2000 Chapter P-3 paragraph 1(a)). The Court finds that Kurt and Karen were doing this in their Excel business. They held out to others that they were in business together in their business cards, in their Excel awards, in their income tax returns and in their deposits of Excel earnings and profits in their joint bank account. Moreover they recruited through social contacts and Karen served potential representatives and recruited representatives coffee in their home and attended Excel meetings as a greeter and desk person. She testified that Kurt made threats to her to sign the 2004 income tax return, but she received Excel money in her joint account in 2004 and she knew that she and Kurt would receive a tax benefit from their partnership income tax returns by splitting income. The Court does not believe that she only spent money from this account on Kurt’s direction; rather it is an ordinary joint household account between spouses that they also used for their business purposes. All of this went on for a number of years. Section 28 of the Alberta Partnership Act states that the partners are entitled to share equally in the capital and profits of the partnership business. The evidence is that they shared profits equally in their account and there is no evidence that the business needed capital. On the evidence, each of them in their own ways was carrying on the Excel business in common with a view to profit.
+[11] As a result, having regard to the assumptions (a), (b) and (d) are correct, and assumptions (h) and (i) are also correct.
+[12] The appeal is dismissed.
+Signed at Saskatoon, Saskatchewan, this 8th day of July 2009.
+“D.W. Beaubier”
+Beaubier D.J.
+CITATION: 2009TCC352
+COURT FILE NO.: 2009-690(IT)I
+STYLE OF CAUSE: KAREN ELIZABETH NEUFELD AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Lethbridge, Alberta
+DATE OF HEARING: June 25, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: July 8, 2009
+APPEARANCES:
+Agent for the Appellant:
+Rick Miller
+Counsel for the Respondent:
+Valerie Meier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

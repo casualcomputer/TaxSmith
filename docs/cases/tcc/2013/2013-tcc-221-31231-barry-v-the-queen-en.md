@@ -1,0 +1,159 @@
+---
+title: "Barry v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31231/index.do"
+last_modified: "2013-07-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 221"
+citation2: ""
+neutral_citation: "2013 TCC 221"
+decision_date: "2013-07-09"
+language: "en"
+item_id: "31231"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5136
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:00:23.814000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6ba41d2a5a848bdad722ee0982d173a2cab48d30ec9b6d5da4f18a0ec18bdd56"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Barry v. The Queen
+
+- Citation: 2013 TCC 221
+- Decision date: 2013-07-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5136, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barry v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-07-09
+Neutral citation
+2013 TCC 221
+File numbers
+2012-390(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-390(IT)I
+BETWEEN:
+PATRICK J. BARRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 14, 2013, at
+St. John's, Newfoundland and Labrador
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jan Jensen
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2008 and 2009 taxation years is dismissed.
+Signed at Ottawa, Canada, this 9th day of July 2013.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2013TCC221
+Date: 20130709
+Docket: 2012-390(IT)I
+BETWEEN:
+PATRICK J. BARRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issues in this appeal are:
+(a) whether the Appellant is entitled to deduct his motor vehicle expenses of $6,707.53 and $7,592.06 in the 2008 and 2009 taxation years respectively;
+(b) whether he is entitled to deduct cell phone expenses in the amount of $410 and $440 in the 2008 and 2009 taxation years respectively; and
+(c) whether he is entitled to an “Employee and Partner GST/HST” rebate of $564.21 and $696.94 under section 253 of the Excise Tax Act for the 2008 and 2009 taxation years respectively.
+[2] In 2008 and 2009, the Appellant had two jobs. He had a permanent position as a schoolteacher and he also had a temporary position as a group home counsellor with the Eastern Residential Support Board Inc. (“ERSB”) in St. John’s, Newfoundland. The issues raised in this appeal concern the Appellant’s employment as a temporary employee with the ERSB.
+[3] In this appeal, the Minister of National Revenue (the “Minister”) relied on paragraph 8(1)(h.1) of the Income Tax Act (“ITA”) to disallow the Appellant’s claim for motor vehicle expenses. He found that the Appellant’s contract of employment with ERSB did not require him to pay motor vehicle expenses incurred in the performance of his duties of employment. The Minister also found that the Appellant’s contract of employment did not require him to have a cell phone.
+[4] The witnesses at the hearing were the Appellant and Allan English, the manager of finance and administration with the ERSB.
+[5] The ERSB operates fourteen group homes throughout the St. John’s metropolitan area. The Appellant started to work as a group home counsellor with the ERSB in 2000; and, in 2008 and 2009, he was “on call” to any of seven of the group homes. According to the Appellant, he was “on call” at anytime that he was not employed in his full time position as a schoolteacher. He explained that he could be called to report to work on very short notice. He needed his personal vehicle to get him to work on time as it was not practical to take a bus.
+[6] As part of his duties with the ERSB, the Appellant took residents of the group homes shopping, to medical appointments and to recreational activities. He used his personal motor vehicle to transport the residents; and, in 2008 and 2009, the ERSB provided him with positive T2200 forms which allowed him to deduct his motor vehicle expenses in accordance with paragraph 8(1)(h.1) of the ITA.
+[7] According to Mr. English, it was not a condition of employment that the Appellant have a motor vehicle. In 2008 and 2009, the ERSB gave the Appellant the option of using a taxi, public transportation, or his personal vehicle to take residents to their various activities. Mr. English testified that if an employee used his personal vehicle, he had to have the appropriate insurance. When an employee used his personal vehicle to transport residents, it had been the practice of the ERSB to either reimburse the employee for the kilometres he travelled in the course of his employment or to provide the employee with a positive T2200 form, whichever the employee found to be more advantageous.
+[8] Mr. English explained the circumstances which led to the ERSB issuing T2200 forms to its employees. It was his understanding that officials of ERSB had consulted with representatives of the Canada Revenue Agency (“CRA”) in 2003 and 2004 with respect to the use of the T2200 form. As a result of these consultations, ERSB understood that if employees were allowed to use their vehicles to perform the duties of their employment and the employees paid their own expenses, then the employer could issue T2200 forms to its employees.
+[9] Mr. English opined that it was mutually beneficial for both the employees and ERSB that its employees use their personal vehicles. It was more economical for ERSB and it assured more mobility for the residents of the group homes.
+[10] When he learned, in 2010, that several employees of ERSB had been audited to disallow their claim for motor expenses, Mr. English contacted an auditor with the CRA. After discussions with the auditor and then advice from the lawyer for ERSB, Mr. English caused ERSB to cease issuing positive T2200 forms to those employees who were not required under their contract of employment to pay motor vehicle expenses incurred in the performance of their duties of employment.
+[11] For those employees of ERSB whose motor vehicle expenses were disallowed by the CRA, the ERSB has since offered to reimburse them for the use of their vehicles in 2008, 2009 and 2010. However, the Appellant has chosen to continue with this appeal rather than make a claim for reimbursement from his employer.
+[12] The Appellant agreed that his contract of employment does not expressly require him to pay the motor vehicle expenses which he incurred. However, it is his position that it is an implicit term of his contract that he had to use his personal vehicle in the performance of his duties and therefore that he had to pay the motor vehicle expenses. He has argued that the ERSB wanted the residents to have access to the community and he was better able to provide this access when he used his own vehicle. He stated that it was not convenient or practical to use public transportation or a taxi.
+[13] It was also the Appellant’s position that he should be entitled to deduct the travel expenses he incurred to travel from his home to the group homes in which he worked. He stated that his vehicle was a tool he had to use in his employment. It did not remain parked by the group home during his shift. Rather, it was necessary to use his vehicle to give the residents access to the community.
+[14] The Appellant stated that he did not own a cell phone until he obtained his position with ERSB. It was essential to own a cell phone because of his “on call” status. He could receive a call to go to work with very little notice. He stated that if he refused or missed a call to go to work on three consecutive occasions, he would lose his seniority with the ERSB.
+Analysis
+[15] Paragraph 8(1)(h.1) of the ITA reads:
+8(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+…
+(h.1) where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for motor vehicle expenses that was, because of paragraph 6(1)(b), not included in computing the taxpayer's income for the year, or
+(iv) claims a deduction for the year under paragraph 8(1)(f);
+[16] According to paragraph 8(1)(h.1), a taxpayer must meet the following conditions to be entitled to deduct his motor vehicle expenses:
+(1) He must have been ordinarily required to carry on his duties away from his employer’s place of business or in different places; and,
+(2) He must be required under his contract of employment to pay his motor vehicle expenses; and,
+(3) The motor vehicle expenses must have been incurred in the performance of his duties of employment.
+[17] The expression “different places” does not exclude a place of business and can apply to a situation where the employer does not have just one place of business: Royer v R, [2000] 1 CTC 2688 (TCC); Ménard v R, 2004 TCC 516 at paragraph 35. In the circumstances of this appeal, I find that ERSB had its head office at 95 Bonaventure Avenue in St. John’s and it had a place of business at each of the fourteen group homes.
+[18] It was the Appellant’s evidence that he could be called to work at any of seven different group homes in 2008 and 2009. He was not assigned to a specific group home. In addition, he was required as part of his duties to take the residents out of the group homes and into the community. I find that the Appellant was ordinarily carrying on his duties at “different places” and the first condition has been met.
+[19] However, it is clear from the evidence that the Appellant has not met the second condition in paragraph 8(1)(h.1). I have concluded from the evidence that his contract of employment did not expressly or implicitly require that he pay for motor vehicle expenses.
+[20] It was Mr. English’s evidence that it was not a condition of the Appellant’s employment that he provide his own vehicle to use in his employment. He stated that many employees refuse to use their personal vehicle to transport the residents and instead, they use taxis or public transportation. Mr. English testified that the terms of the Appellant’s employment with the ERSB were contained in the Collective Agreement between Her Majesty the Queen in Right of Newfoundland and Group Homes and the Newfoundland Association of Public Employees (“Collective Agreement”). Mr. English was not aware of any other agreement between the Appellant and ERSB.
+[21] I note that article 30 of the Collective Agreement confirms that the Appellant was not required to use his personal vehicle in the course of carrying out his duties and therefore was not required to pay motor vehicle expenses. It reads:
+(b)(i) When, in the course of his/her duty, an employee is required to travel on the Employer’s business, transportation shall be provided by the Employer or with the approval of the Employer he/she may be permitted to use his/her own vehicle and be reimbursed as follows…
+[22] The Appellant relied on the decision in Rozen v Canada, [1986] 1 CTC 50 (FCTD) to argue that his employer expected him to use his vehicle in the performance of his duties and he was responsible for the costs of operating his own vehicle. This he argued was an implied term of his contract. However, Rozen is distinguishable from the present appeal. In Rozen, there was no written contract between the taxpayer and his employer as in the present appeal. Also, in Rozen, unlike the present appeal, the taxpayer was required to use his vehicle in the performance of his duties.
+[23] To support his position that he should be able to deduct the travel expenses incurred in travelling from his home to the group home, the Appellant relied on Chrapko v MNR, [1988] 2 CTC 342 (FCA) and Evans v The Queen, 99 DTC 168 (TCC). In Chrapko, the taxpayer was allowed to deduct the travel expenses from home to a place of work away from the places where he “usually” worked. In the present appeal, the seven group homes where the Appellant worked were his usual places of work. In Evans, the taxpayer was allowed to deduct the travel expenses incurred in commuting to and from work to home on the basis that she was transporting work-related materials in the trunk of her car. In this appeal, the travel expenses incurred in commuting to and from work were not incurred by the Appellant in the performance of his duties.
+[24] It may have been more convenient for the Appellant to use his personal vehicle to take the group home residents to their activities rather than use a taxi or public transportation. However, this does not mean that he was required under his contract of employment to pay his motor vehicle expenses. I have concluded that the Appellant has not shown that he is entitled to deduct his motor vehicle expenses. My decision on this issue also decides the issue with respect to the Appellant’s entitlement to a rebate under the Excise Tax Act.
+[25] There was no evidence that the Appellant was required by his employer to own a cell phone. It was convenient for him to have a cell phone but in my view, the cost of owning the cell phone was a personal expense.
+[26] The appeal is dismissed.
+Signed at Ottawa, Canada, this 9th day of July 2013.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2013TCC221
+COURT FILE NO.: 2012-390(IT)I
+STYLE OF CAUSE: PATRICK J. BARRY AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: St. John's, Newfoundland and Labrador
+DATE OF HEARING: February 14, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: July 9, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jan Jensen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

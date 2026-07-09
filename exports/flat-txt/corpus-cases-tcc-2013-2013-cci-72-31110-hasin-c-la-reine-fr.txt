@@ -1,0 +1,118 @@
+Title: Hasin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31110/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-72-31110-hasin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-02-26
+
+# Hasin c. La Reine
+
+- Citation: 2013 CCI 72
+- Decision date: 2013-02-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4759, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hasin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-02-26
+Référence neutre
+2013 CCI 72
+Numéro de dossier
+2012-2283(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2283(IT)I
+ENTRE :
+TANZINA HASIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu par vidéoconférence le 25 février 2013
+à Ottawa, Canada
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Serena Sial
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des déterminations faites en vertu de la Loi de l’impôt sur le revenu pour les années de base 2006, 2007 et 2008 sont rejetés sans frais, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 26e jour de février 2013.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 10e jour d’avril 2013.
+Marie-Christine Gervais, traductrice
+Référence : 2013 CCI 72
+Date : 20130226
+Dossier : 2012-2283(IT)I
+ENTRE :
+TANZINA HASIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Les présents appels concernent des prestations que l’appelante a reçues pour les années de base 2006, 2007 et 2008 base à l’égard de sa fille, qui a reçu un diagnostic d’autisme en mai 2003. Les prestations dont il est question sont les suivantes : la Prestation fiscale canadienne pour enfants, le Supplément de la prestation nationale pour enfants et la Prestation pour enfants handicapés, que j’appellerai collectivement les « prestations » dans mes motifs. Comme les prestations sont versées en fonction d’années de base, la période visée s’étend de juillet 2007 à juin 2010 inclusivement.
+[2] Dans un avis de ratification daté du 31 janvier 2012, le ministre du Revenu national (le « ministre ») a refusé d’accorder ces prestations à l’appelante en application de l’article 122.61 de la Loi de l’impôt sur le revenu (la « Loi »), compte tenu du fait qu’elle avait cessé d’être une résidente du Canada en avril 2006.
+[3] L’appelante et son époux ont tous les deux témoigné à l’audience, ce qu’ils ont fait par vidéoconférence à partir du Bangladesh. Ils ont tous deux confirmé essentiellement le même ensemble de faits et de circonstances entourant leur départ du Canada, ainsi que leurs conditions d’habitation actuelles et futures et leurs objectifs.
+[4] L’appelante et son époux ont quitté le Bangladesh pour s’installer au Canada en janvier 2001. Lorsque la fille de l’appelante a initialement reçu un diagnostic d’autisme en 2003, ils ont pu se prévaloir de divers programmes et traitements qui étaient offerts ici au Canada. En 2005, lorsque leur fille a eu six ans, leur admissibilité à ces programmes a pris fin. Ils ont donc décidé de retourner au Bangladesh, ce qu’ils ont fait en avril 2006. Ils ont témoigné qu’ils espéraient que le réseau de soutien familial qu’ils avaient au Bangladesh serait bénéfique pour leur fille.
+[5] Lors du contre‑interrogatoire, l’époux de l’appelante a témoigné que, à leur départ du Canada en 2006, ils avaient résilié le bail du logement qu’ils louaient, vendu tous leurs meubles et leurs biens et vendu leur automobile. Ils avaient conservé leurs passeports canadiens et un compte bancaire canadien, dont ils ne se servent que rarement. En fait, l’époux de l’appelante ne savait pas trop quand ils s’en étaient servis pour la dernière fois. Depuis leur retour au Bangladesh, ils louent une résidence et possèdent une automobile, et l’époux de l’appelante détient un permis de conduire valide du Bangladesh. Ils ont aussi un compte bancaire là‑bas. Leur bail d’habitation se termine dans un an. Leur fille est maintenant âgée de 13 ans et fréquente une école privée spécialisée au Bangladesh. Les parents ont tous deux témoigné que son état s’est amélioré depuis leur retour au Bangladesh et qu’elle continue de bien réussir à cette école spécialisée. L’appelante et l’époux ont tous les deux affirmé qu’ils n’ont aucun plan précis quant à un retour au Canada, étant donné que les dispositions actuelles donnent de bons résultats pour leur fille. Ils ont toutefois tous les deux témoigné qu’il se pouvait qu’ils reviennent au Canada lorsque leur fille serait adulte s’il y avait des programmes dont celle‑ci pourrait bénéficier en tant qu’adulte. Ils ne sont pas revenus au Canada depuis leur départ au début de l’année 2006.
+[6] L’appelante soutient essentiellement que son époux et elle ne contestent pas les exigences en matière de résidence et la jurisprudence, mais que, comme leur fille est une enfant ayant des besoins particuliers, la Cour devrait faire une exception aux règles, parce que, du fait de sa citoyenneté canadienne, leur fille devrait avoir droit aux mêmes prestations que tout autre enfant canadien ayant des besoins particuliers. Bien entendu, je n’ai pas le pouvoir de créer une exception aux dispositions législatives et à l’abondante jurisprudence qui existe sur la question pour tenir compte de ce qu’ils considèrent être des circonstances exceptionnelles.
+[7] Essentiellement, pour avoir droit à de telles prestations, un contribuable doit être un résident du Canada.
+[8] Le droit à ces prestations est prévu à l’article 122.6 de la Loi. Le « particulier admissible » qui avait le droit de recevoir ces prestations au sens de la disposition doit, suivant l’alinéa c) de la définition du terme, « résider au Canada […] ». Il s’agit d’une condition préalable pour avoir droit à de telles prestations. Si une personne ne réside pas au Canada, celle‑ci ne répond pas à cette condition de la définition de « particulier admissible ». La question relative à la détermination de la résidence est principalement une question de recherche de faits dans chaque appel.
+[9] Au paragraphe 2 de l’arrêt Laurin c. La Reine, 2008 CAF 58, 2008 D.T.C. 6175, la juge K. Sharlow de la Cour d’appel fédérale résume succinctement la position de la Couronne à l’égard de la résidence dans cette affaire et l’adhésion de la Cour d’appel à cette position :
+[2] L’appelante soutient qu’est résident dans un pays un contribuable qui, dans sa vie de tous les jours, y habite d’une manière régulière, normale ou habituelle, par opposition à quelqu’un qui y demeurerait exceptionnellement, occasionnellement ou par intermittence. Nous en convenons.
+[10] Dans la jurisprudence, on a énuméré plusieurs facteurs qui, bien qu’ils ne soient pas exhaustifs, sont importants pour trancher la question de la résidence et, en fin de compte, celle de savoir s’il y a lieu de verser des prestations en application de l’article 122.61. Au paragraphe 13 de la décision The Queen v. Reeder, [1975] C.T.C. 256, 75 D.T.C. 5160, le juge Mahoney a mentionné ce qui suit :
+[…] Ces éléments sont notamment :
+a. le genre de vie passé ou présent;
+b. la régularité et la durée des séjours dans le ressort de la juridiction de la résidence;
+c. les liens dans le ressort de cette juridiction;
+d. les liens en d’autres lieux;
+e. le caractère permanent ou autre des séjours à l’étranger.
+La question des liens dans le ressort de la juridiction de résidence et en d’autres lieux englobe toute la gamme des rapports et des engagements d’une personne : biens et placements, emploi, famille, affaires, liens culturels et mondains en sont des exemples. Tous les éléments ne seront pas retenus dans chaque cas. Ils doivent être considérés à la lumière du postulat que chacun doit avoir une résidence fiscale et qu’un individu peut avoir simultanément plus d’une résidence du point de vue fiscal.
+[11] Abstraction faite de la concession que l’appelante a faite concernant la résidence, je conclus sans hésitation que, compte des faits dont je suis saisie, l’appelante n’est pas une résidente du Canada et que, par conséquent, elle n’a pas droit à ces prestations.
+[12] Les membres de la famille sont retournés au Bangladesh plusieurs années après être venus s’installer au Canada dans l’espoir que cela aiderait la fille autiste. Ils n’avaient pas de plan précis quant à un retour au Canada et ont vendu la totalité de leurs biens avant de quitter le pays. Ils ont conservé leurs passeports canadiens et un compte bancaire, qu’ils n’utilisaient que rarement. Ils ne sont jamais revenus au Canada depuis leur départ il y a près de sept ans. Ils ne savent pas s’ils reviendront un jour et, encore une fois, cela dépend en grande partie de ce qui pourrait être offert à leur fille ici lorsque celle-ci sera adulte. Ils se sont établis au Bangladesh : ils ont loué un appartement, acheté une automobile et renoué des liens avec leurs familles. L’époux de l’appelante occupe un emploi et gagne un salaire équivalant à 1 500 $US. Ils n’ont aucun revenu de source canadienne.
+[13] Exception faite de leurs passeports canadiens et du compte bancaire qu’ils utilisaient rarement, ils ont rompu tous leurs liens avec le Canada. Ils n’ont aucun lien avec le pays. Il ne s’agit pas d’un cas où certains facteurs vont dans un sens et d’autres, dans le sens inverse, et où il faut apprécier les facteurs dans ce contexte, selon la prépondérance des probabilités. Pris dans leur ensemble, les faits en l’espèce ne peuvent mener à d’autre conclusion que celle selon laquelle l’appelante n’était pas une résidente du Canada, étant donné qu’elle a établi de nouveau sa résidence et celle de sa famille au Bangladesh. Comme elle a cessé d’être une résidente du Canada en avril 2006, elle n’a pas droit aux prestations en application de l’article 122.61 de la Loi.
+[14] L’appelante a souligné qu’il serait inéquitable que de demander le remboursement de ces prestations si le ministre considère qu’elles lui ont été versées par erreur. Comme je l’ai expliqué à l’appelante et à son époux au cours de l’audience, le ministre n’est pas lié par les cotisations qu’il a établies antérieurement. Si de nouveaux faits sont portés à l’attention du ministre, il peut avoir le droit d’établir une nouvelle cotisation, et ce, de manière rétroactive, exigeant ainsi le remboursement d’un paiement en trop réputé avoir été effectué à un contribuable.
+[15] Les appels visant les années de base 2006, 2007 et 2008 sont rejetés.
+Signé à Ottawa, Canada, ce 26e jour de février 2013.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 10e jour d’avril 2013.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2013 CCI 72
+NO DU DOSSIER DE LA COUR : 2012-2283(IT)I
+INTITULÉ : TANZINA HASIN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa, Canada
+DATE DE L’AUDIENCE : Le 25 février 2013
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 26 février 2013
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Serena Sial
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

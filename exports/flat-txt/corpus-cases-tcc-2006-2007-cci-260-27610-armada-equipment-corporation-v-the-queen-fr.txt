@@ -1,0 +1,145 @@
+Title: Armada Equipment Corporation v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27610/index.do
+Corpus path: corpus/cases/tcc/2006/2007-cci-260-27610-armada-equipment-corporation-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-11-10
+
+# Armada Equipment Corporation v. The Queen
+
+- Citation: 2007 CCI 260
+- Decision date: 2006-11-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 431, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Armada Equipment Corporation v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-10
+Référence neutre
+2007 CCI 260
+Numéro de dossier
+2005-4039(IT)I
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4039(IT)I
+ENTRE :
+ARMADA EQUIPMENT CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 10 novembre 2006, à Toronto (Ontario).
+Devant : L’honorable juge suppléant M.A. Mogan
+Comparutions :
+Avocate de l’appelante :
+Me Sarah J. O’Connor
+Avocate de l’intimée :
+Me Kandia Aird
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1994 est rejeté.
+Signé à Ottawa, Canada, ce 2e jour de mai 2007.
+« M.A. Mogan »
+Juge suppléant Mogan
+Traduction certifiée conforme
+ce 28e jour d’août 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI260
+Date : 20070502
+Dossier : 2005-4039(IT)I
+ENTRE :
+ARMADA EQUIPMENT CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Mogan
+[1] Dans le calcul de son revenu pour l’année d’imposition 1994, l’appelante a déduit des dépenses relatives à des activités de recherche scientifique et de développement expérimental (RS et DE) d’un montant de 134 235 $ et a demandé un crédit d’impôt à l’investissement (le « CII ») au taux de 35 p. 100, d’un montant de 45 982 $. Par un avis de nouvelle cotisation daté du 13 juin 1996, le ministre du Revenu national (le « ministre ») a refusé une partie (34 909 $) du montant (134 235 $) que l’appelante avait indiqué au titre de dépenses relatives à des activités de RS et DE, mais le ministre a admis le reste (99 326 $). Le ministre a également refusé (au taux de 35 p. 100) une partie (12 218 $) du CII demandé par l’appelante.
+[2] Au mois de septembre 1996, l’appelante a signifié un avis d’opposition à la nouvelle cotisation susmentionnée et, au bout de près de neuf ans, le ministre a ratifié la nouvelle cotisation. L’appelante a interjeté appel de la nouvelle cotisation de 1994 sous le régime de la procédure informelle.
+[3] Le montant de 34 909 $ que le ministre a refusé à titre de dépenses relatives à des activités de RS et DE comporte deux éléments, soit un de 18 618 $ et un de 16 291 $. La question qui se pose dans le présent appel se rapporte uniquement aux 18 618 $. Il s’agit de savoir si les 18 618 $ constituent une « dépense admissible » au sens du paragraphe 127(9) de la Loi de l’impôt sur le revenu (la « Loi »).
+Les faits
+[4] Le premier témoin de l’appelante était William J. Heaps, qui a constitué l’appelante en personne morale il y a bien des années. M. Heaps a toujours aimé tout ce qui concerne l’équipement et toute son expérience professionnelle se rattache à des véhicules. En 1994 (l’année visée par l’appel), l’appelante fabriquait du matériel lourd spécial, comme des installations de forage, des appareils souterrains d’évacuation des déchets et des véhicules servant au lancement de satellites. L’appelante s’occupait de tous les aspects des projets, de la conception et du design à la fabrication et à la livraison. Il n’y avait que quelques travailleurs au bureau (ingénieurs, dessinateurs, secrétaires, etc.) et une douzaine de travailleurs à l’usine (soudeurs, assembleurs, etc.). L’appelante ne fabriquait pas de moteurs, de transmissions ou de pneus. Ces produits devaient être obtenus de fournisseurs externes.
+[5] M. Heaps a pris sa retraite il y a deux ans mais, auparavant, il était président de la société appelante. Il a désigné le cabinet James A. Deacur & Associates Ltd. comme étant [traduction] « nos comptables ». Je désignerai ce cabinet sous le nom « Deacur & Co. ». La pièce A‑1 est une copie des états financiers non vérifiés de l’appelante pour l’exercice ayant pris fin le 31 mars 1995, lesquels ont été préparés par Deacur & Co. La pièce A‑2 est une copie d’une facture de 2 343,30 $ de Deacur & Co., datée du 10 août 1995, adressée à l’appelante pour la préparation des états financiers de 1995, des déclarations de revenus de la société de 1995 et des déclarations de TPS. La pièce A‑3 est une copie d’une facture différente de 30 621,26 $ de Deacur & Co., datée du 16 novembre 1994, adressée à l’appelante pour des services rendus à l’égard de la justification des dépenses relatives aux activités de RS et DE de 1994 et de la demande du CII correspondant.
+[6] Allan J. Gordon (le deuxième témoin de l’appelante) est comptable agréé; en 1994, il était associé à Deacur & Co et il l’est encore. Au début des années 1990, il a commencé à se spécialiser dans les demandes relatives aux activités de RS et DE, de façon à pouvoir aider les petites sociétés canadiennes à obtenir les crédits d’impôt à l’investissement auxquels elles avaient droit. Il est devenu un expert de la préparation et de la présentation de demandes relatives aux activités de RS et DE en vertu de la Loi. Il a reconnu les pièces A‑1, A‑2 et A‑3. Il a aidé à préparer les états financiers produits sous la cote A‑1. Il a produit la pièce A‑4, un imprimé des documents de Deacur & Co. montrant les factures envoyées à l’appelante. Dans la pièce A‑4, il a identifié la pièce A‑3, qui semble être une écriture pour le 16 novembre 1994. Il a également identifié la pièce A‑2, une écriture pour le 10 août 1995, ainsi qu’une facture similaire de 2 247 $ datée du 31 octobre 1994 pour la préparation de l’état financier et des déclarations de revenu de l’année 1994.
+[7] M. Gordon a décrit les renseignements qu’il fallait à l’appui de la demande de CII d’un contribuable fondée sur les dépenses relatives aux activités de RS et DE. Afin de fournir ces renseignements, Deacur & Co. avait embauché Gerry Loban, ingénieur à la retraite. M. Loban se rendait chez les clients de Deacur & Co. pour obtenir une description précise des activités de recherche et de développement qui étaient exercées et pour aider ensuite à la rédaction d’un rapport technique. Selon M. Gordon, Gerry Loban a travaillé énormément à la demande de l’appelante relative aux activités de RS et DE de l’année 1994. M. Loban facturait Deacur & Co. à l’égard de ce travail; Deacur & Co. transmettait le coût à son client si la demande de CII était acceptée.
+[8] M. Gordon a examiné avec soin la pièce A‑3, qui indiquait des honoraires professionnels de 28 618 $ plus un montant de 2 033,26 $ au titre de la TPS. Dans les honoraires professionnels de 28 618 $, il a conclu qu’un montant de 10 000 $ pouvait raisonnablement être imputé à une [traduction] « activité non admissible », de sorte que ce montant devait être déduit du total des honoraires pour ce qui est de la demande de CII. Il a déclaré qu’en déduisant les 10 000 $, il avait été fort prudent en exigeant uniquement le montant de 18 618 $ au titre d’honoraires professionnels pour la préparation de la demande de CII fondée sur les activités de RS et DE. Deacur & Co. n’aurait pas retenu les services de M. Loban si le cabinet n’avait pas préparé les demandes de CII pour les activités de RS et DE. De plus, la facture produite sous la cote A‑3 n’aurait pas été envoyée si Deacur & Co. n’avait pas préparé la demande de CII de l’appelante pour l’année 1994, fondée sur les dépenses relatives aux activités de RS et DE.
+[9] L’appel dépendra de l’interprétation de certaines dispositions de la Loi et du Règlement de l’impôt sur le revenu (le « Règlement »). En 1994, le paragraphe 127(5) permettait la déduction d’un crédit d’impôt à l’investissement à l’égard des dépenses admissibles d’un contribuable qui étaient attribuables aux activités de RS et DE. La définition suivante de l’expression « dépense admissible » figurait au paragraphe 127(10.1) :
+127(10.1) Aux fins des paragraphes (9) et (10),
+a) [...]
+c) « dépense admissible » désigne une dépense au titre d’une recherche scientifique faite par un contribuable après le 31 mars 1977, qui est admissible à titre de dépense visée à l’alinéa 37(1)a) ou au sous‑alinéa 37(1)b)(i) mais ne comprend pas
+(i) une dépense prescrite, et
+(ii) si le contribuable est une corporation, une dépense précisée par le contribuable aux fins de la disposition 194(2)a)(ii)(A);
+[10] L’appelante et l’intimée invoquent des dispositions différentes du Règlement pour établir que l’expression « dépense admissible » s’applique ou qu’elle ne s’applique pas ici. L’appelante invoque l’alinéa 2900(2)c) :
+2900(2) Pour l’application des divisions 37(7)c)(i)(B) et (ii)(B) de la Loi, les dépenses suivantes sont directement attribuables à des activités de recherche scientifique et de développement expérimental :
+a) le coût des matériaux consommés dans ces recherches et ce développement;
+b) dans le cas où un employé entreprend, supervise ou soutient directement ces recherches et ce développement, la partie du traitement ou salaire et des avantages connexes, versés à lui‑même ou en son nom, qu’il est raisonnable de considérer comme liée à cette activité;
+c) les autres dépenses qui sont directement liées à ces recherches et ce développement et qui n’auraient pas été engagées si ces recherches et ce développement n’avaient pas été effectués.
+L’intimée invoque de son côté la définition de l’expression « dépense prescrite » figurant à l’article 2902 du Règlement :
+2902 Pour l’application de la définition « dépense admissible », au paragraphe 127(9) de la Loi, une dépense prescrite est
+a) une dépense de nature courante engagée par un contribuable
+(i) pour l’administration générale ou la gestion d’une entreprise, y compris
+(A) un traitement ou salaire administratif et les avantages connexes d’une personne dont les fonctions ne sont pas orientées en totalité ou presque vers les activités de recherche scientifique et de développement expérimental, sauf dans la mesure où une telle dépense est visée au paragraphe 2900(2) ou (3),
+(B) des honoraires légaux et comptables,
+(C) une somme visée à l’un des alinéas 20(1)c) à g) de la Loi,
+(D) des frais de représentation,
+(E) des dépenses de publicité ou de vente,
+(F) des dépenses relatives à une conférence ou à un congrès,
+(G) une cotisation ou des droits à titre de membre d’une société ou d’un organisme scientifique ou technique, ou
+(H) une amende ou une peine, ou
+(ii) la préservation générale ou l’entretien de locaux, d’installations et de matériel, dans la mesure où ces dépenses ne sont pas imputables à la poursuite d’activités de recherche scientifique et de développement expérimental.
+[11] L’avocate de l’appelante a soutenu que le montant de 18 618 $ qui a été payé à Deacur & Co. était directement attribuable aux activités de RS et DE de l’appelante au sens de l’alinéa 2900(2)c) du Règlement, parce que le paiement n’aurait pas été effectué en l’absence de telles activités. L’intimée reconnaît qu’au cours de son année d’imposition 1994, l’appelante a engagé des dépenses élevées au titre des activités de RS et DE (99 316 $). Selon la preuve non contredite soumise par M. Gordon, la facture (pièce A‑3) de 28 618 $ (qui comprend les 18 618 $ en litige) n’aurait pas été envoyée à l’appelante et payée par celle‑ci si Deacur & Co. n’avait pas préparé les demandes de CII fondées sur les dépenses relatives aux activités de RS et DE.
+[12] L’avocate de l’intimée a soutenu que le montant de 18 618 $ n’était pas une « dépense admissible » en vertu du paragraphe 127(10.1) parce qu’il s’agissait d’« honoraires légaux ou comptables » et qu’il s’agissait donc d’une « dépense prescrite » au sens de la division 2902a)(i)(B).
+[13] À mon avis, le montant en litige (18 618 $) se rapportait à des « honoraires légaux ou comptables » au sens de la division 2900a)(i)B). Ce montant a été payé à Deacur & Co., que M. Heaps a appelée [traduction] « nos comptables ». Le cabinet Deacur & Co. a préparé les états financiers et les déclarations de revenus de l’appelante. Ces services font partie de ce qu’un comptable fait habituellement moyennant le versement d’honoraires. La présentation d’une demande de crédit d’impôt à l’investissement fait partie de la production d’une déclaration de revenus si le contribuable exerce des activités de RS et DE. Pourquoi l’expert externe (Deacur & Co.) dont les services ont été retenus aux fins de la préparation des états financiers et des déclarations de revenus ne serait‑il pas la personne qui préparerait et présenterait une demande concernant les crédits d’impôt à l’investissement qui sont déduits, à titre de crédit, de l’impôt par ailleurs payable selon les déclarations de revenus? L’expert externe qui prépare les états financiers et les déclarations de revenus est logiquement celui qui rédigerait le rapport nécessaire pour les activités de RS et DE, qui remplirait le formulaire prescrit de demande de crédit d’impôt à l’investissement fondée sur les activités de RS et DE et qui présenterait ce formulaire en tant que partie intégrante de la production d’une déclaration de revenus.
+[14] L’appelante a une tâche plus difficile lorsqu’il s’agit d’identifier le montant en litige (18 618 $) à titre de dépense directement attribuable à des activités de recherche scientifique et de développement expérimental au sens de l’alinéa 2900(2)c) du Règlement. L’alinéa (2)a) parle du coût des matériaux consommés « dans ces recherches et ce développement ». L’alinéa (2)b) parle du traitement ou salaire versé à un employé qui soutient directement « ces recherches et ce développement ». Et l’alinéa (2)c) énonce ce qui suit :
+c) les autres dépenses qui sont directement liées à ces recherches et ce développement et qui n’auraient pas été engagées si ces recherches et ce développement n’avaient pas été effectués.
+[15] Je ne puis conclure que le montant (18 618 $) qui a été payé à Deacur & Co. était une dépense « directement liée à ces recherches et ce développement ». Afin d’être « directement liée », une dépense doit être engagée aux fins de la recherche elle‑même ou du développement lui‑même. Le montant a été payé à Deacur & Co. par suite d’activités de recherche et de développement qui avaient déjà été exercées. Il s’agissait d’honoraires comptables payés au cabinet comptable qui avait préparé les déclarations de revenus de l’appelante en vue de déterminer si certaines dépenses déjà engagées au titre de la recherche et du développement étaient admissibles à un crédit d’impôt à l’investissement précis.
+[16] Les deux avocates ont référé à la décision rendue par la présente cour dans l’affaire Val‑Harmon Enterprises c. Sa Majesté la Reine, [1995] A.C.I. no 1762. Dans l’affaire Val‑Harmon, le juge Bowman (tel était alors son titre) faisait face à une question semblable à celle qui nous occupe. Val‑Harmon avait engagé des dépenses relatives à des activités de RS et DE et avait retenu les services de Gessat Inc. pour préparer sa demande de CII fondée sur ces activités. Gessat Inc. n’était pas un cabinet comptable ni un cabinet d’avocats, mais une société qui aidait les contribuables à demander des crédits au titre des activités de RS et DE. En 1993, Gessat Inc. a demandé des honoraires de 20 638 $ à Val‑Harmon, qui a ensuite demandé un CII de 7 223 $ en se fondant sur ces honoraires.
+[17] Lors de l’audience qui a eu lieu devant le juge Bowman, l’intimée avait tenté de modifier son acte de procédure en soutenant que les honoraires payés à Gessat Inc. étaient « une dépense de nature courante engagée par un contribuable (i) pour l’administration générale ou la gestion d’une entreprise, y compris [...] (B) des honoraires légaux et comptables » au sens du sous‑alinéa 2902a)(i) du Règlement. En refusant d’autoriser la modification que l’intimée se proposait d’apporter à son acte de procédure, le juge Bowman, dans les motifs de jugement qu’il a rendus oralement, a dit ce qui suit :
+8 À mon avis, cet argument est bien fondé. Il soulève une question sérieuse, à savoir si pareilles dépenses doivent être admises ou si elles doivent être considérées de la façon prescrite. Je n’ai pas admis la modification parce qu’elle a été présentée à un stade plutôt tardif de l’instance et que je croyais que cela serait injuste pour le contribuable, qui ne s’était préparé à débattre qu’une seule question, celle de savoir s’il s’agit d’honoraires comptables.
+9 J’hésite à refuser des modifications, mais à ce stade-ci de l’instance, je crois que cela serait tout à fait injuste parce que l’appelante a peut-être présenté des éléments de preuve différents, parce qu’elle a peut-être préparé des arguments différents [sic]. Je crois qu’il faut remettre cet argument à plus tard. Les montants en cause ici ne sont pas élevés et je ne crois pas qu’il soit juste de permettre une modification; il faudrait alors ajourner l’affaire; je crois que nous laisserons cet argument être présenté dans d’autres affaires. Bien sûr, cela soulève en outre la question plutôt sérieuse de savoir si les dépenses afférentes à la recherche scientifique, au sens général de l’expression, comprennent ce qu’une personne fait en préparant des rapports et en présentant des observations au ministère du Revenu national. C’est une très bonne question et je crois qu’il faudrait un jour l’examiner, mais pas ici.
+[18] Dans la décision Val‑Harmon, le juge Bowman a conclu que les honoraires payés à Gessat Inc. étaient, dans une proportion de 75 p. 100, une « dépense admissible » mais que l’intimée n’avait pas plaidé que les honoraires étaient une « dépense prescrite » au sens de l’article 2902 du Règlement. Or, dans la présente espèce, l’intimée fonde sa cause sur l’article 2902 du Règlement.
+[19] Il importe de noter que dans la décision Val‑Harmon, le juge Bowman (tel était alors son titre) a rendu ses motifs oralement à l’audience; rien n’indique que le paragraphe 2900(2) du Règlement ait été porté à son attention ou que le contribuable se soit fondé sur cette disposition. En la présente espèce, l’appelante repose sa cause sur le paragraphe 2900(2) du Règlement. Au paragraphe 14 ci‑dessus, j’ai essayé d’expliquer pourquoi le montant en litige (18 618 $) n’est pas selon moi visé au paragraphe 2900(2) du Règlement. À mon avis, les expressions et mots suivants figurant dans le paragraphe 2900(2) du Règlement militent fortement à l’encontre de l’appelante :
+« directement attribuables à des activités de recherche scientifique et de développement expérimental »
+« ces recherches et ce développement » aux alinéas a) et b);
+« directement liées à ces recherches et ce développement » à l’alinéa c).
+[20] Lorsque l’on examine la question des activités de RS et DE, « recherche » « développement » sont des noms. Les mots « scientifique » et « expérimental » ne sont que des attributs. Je conclus qu’une « dépense admissible » doit être engagée en liaison avec des activités continues de recherche et de développement plutôt que d’être engagées après coup parce que pareilles activités ont déjà été exercées. Je ne doute aucunement que les 18 618 $ constituent une dépense courante de l’appelante aux fins du calcul des résultats, mais je conclus qu’il ne s’agit pas d’une « dépense admissible » pour ce qui est du crédit d’impôt à l’investissement. L’appel est rejeté.
+Signé à Ottawa, Canada, ce 2e jour de mai 2007.
+« M.A. Mogan »
+Juge suppléant Mogan
+Traduction certifiée conforme
+ce 28e jour d’août 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI260
+No DU DOSSIER DE LA COUR : 2005-4039(IT)I
+INTITULÉ : Armada Equipment Corporation
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 10 novembre 2006
+MOTIFS DU JUGEMENT : L’honorable juge suppléant M.A. Mogan
+DATE DU JUGEMENT : Le 2 mai 2007
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Sarah J. O’Connor
+Avocate de l’intimée :
+Me Kandia Aird
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Sarah J. O’Connor
+Cabinet : Legal Professional Corporation
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,137 @@
+Title: Peragine v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30977/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-348-30977-peragine-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-10-04
+
+# Peragine v. The Queen
+
+- Citation: 2012 TCC 348
+- Decision date: 2012-10-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4792, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Peragine v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-10-04
+Neutral citation
+2012 TCC 348
+File numbers
+2009-3604(IT)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3604(IT)G
+BETWEEN:
+SALVATORE PERAGINE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 23, 2011 and September 24, 2012,
+at Hamilton, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+David M. Piccolo
+Counsel for the Respondent:
+Erin Strashin
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal from the reassessment issued in relation to his 2003 taxation year is allowed, with costs, and this reassessment is vacated.
+Signed at Ottawa, Canada, this 4th day of October, 2012.
+“Wyman W. Webb”
+Webb J.
+Citation: 2012TCC348
+Date: 20121004
+Docket: 2009-3604(IT)G
+BETWEEN:
+SALVATORE PERAGINE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The Appellant was reassessed after the expiration of his normal reassessment period for his 2003 taxation year to increase the amount of his taxable gain for 2003. The Appellant had reported a taxable capital gain of $8,500 in his tax return for 2003 and the Appellant was reassessed to increase this taxable capital gain by $92,874. Both parties submit that the Appellant’s tax return that he had filed for 2003 was not correct. The Appellant submitted that no amount should have been reported as a taxable capital gain and the Respondent submitted that the taxable capital gain that the Appellant should have reported should have been $101,374 and not $8,500.
+[2] The taxable capital gain in issue arose as a result of the disposition of the property located at 4057 Victoria Avenue, Niagara Falls, Ontario (the “Victoria Property”). The issue in this appeal is whether the Appellant was a bare trustee for the Victoria Property. If the Appellant was the bare trustee of the Victoria Property, the taxable capital gain realized on the sale of the property would not be the Appellant’s taxable capital gain for the purposes of the Income Tax Act (the “Act”). Such taxable capital gain would instead be the taxable capital gain of the beneficial owner[1] of the property. The position of the Respondent is that the Appellant was the legal and beneficial owner of the Victoria Property.
+[3] Then Chief Justice Bowman in Mensah v. The Queen, [2008] T.C.J. No. 302, 2008 DTC 4358 stated that:
+8 The fourth preliminary point is that the assessment for the 1993 taxation year is statute-barred. The onus is upon the Minister to establish the facts justifying the reassessment of the 1993 taxation year beyond the normal reassessment period. The provisions of the Income Tax Act permitting the Minister to open up statute-barred years have evolved and the evolution was summarized in 943372 Ontario Inc. v. R., 2007 D.T.C. 1051; [2007] 5 C.T.C. 2001 at paragraph 18:
+18 The evolution of these provisions can be briefly summarized as follows: originally, subsection 152(4) permitted the Minister to open up a statute-barred year for all purposes if he could find any misrepresentation of the type described in subsection 152(4), however small, and reassess any items whether the subject of any type of misrepresentation or not. This obviously appeared somewhat unfair and the result was paragraph 152(5)(b) which was introduced in 1973-1974 with effect from 1972. This provision permitted the taxpayer to establish that the omission of an amount of income was not the result of a misrepresentation that was attributable to neglect, carelessness, wilful default or fraud. Nonetheless it did cast on the taxpayer an onus. Subsection 152(4.01) was therefore introduced and its effect, according to Mr. Kutkevicius, is to remove that onus from the taxpayer and put a two-fold onus on the Minister to establish:
+(a) that there was misrepresentation, and
+(a) that the misrepresentation was attributable to neglect, carelessness, wilful default or fraud.
+I think this is the correct interpretation. If the onus that was imposed on the taxpayer under former paragraph 152(5)(b) survived the amendment to subsection 152(5) and the enactment of subsection 152(4.01), subsection (4.01) would have no purpose.
+(emphasis added)
+[4] Therefore the onus was on the Respondent to not only establish that there was a misrepresentation with respect to the failure of the Appellant to include the additional amount of $92,874 as a taxable capital gain as a result of disposing of the Victoria Property, but also that the “misrepresentation was attributable to neglect, carelessness, wilful default or fraud”.
+[5] In Nesbitt v. The Queen, 96 DTC 6588, Justice Strayer, on behalf of the Federal Court of Appeal, stated that:
+8 Even assuming that the letter of August 6, 1986, could be taken to prove the Minister's knowledge by that date (two months prior to expiry of the four-year limitation period) of the true facts and that there had been a misrepresentation, I do not believe this assists the appellant. It appears to me that one purpose of subsection 152(4) is to promote careful and accurate completion of income tax returns. Whether or not there is misrepresentation through neglect or carelessness in the completion of a return is determinable at the time the return is filed. A misrepresentation has occurred if there is an incorrect statement on the return form, at least one that is material to the purposes of the return and to any future reassessment. …
+(emphasis added)
+[6] Both parties submit that the statement on the Appellant’s income tax return for 2003 was incorrect in relation to the amount reported as a taxable capital gain. In order for the Appellant to be reassessed after the expiration of the normal reassessment period the Respondent will need to establish that the taxable capital gain should have been reported by the Appellant. If the Appellant was only the bare trustee of the Victoria Property there would not be any misrepresentation with respect to the failure to include the additional taxable capital gain as alleged by the Respondent as this additional amount (assuming that it was determined correctly) would not be income of the Appellant.
+[7] Both the Appellant and his brother Leo Peragine testified during the hearing. The testimony of both was clear and consistent that the building was acquired for the purposes of Leo Peragine’s business (which was being carried on through a numbered company – 1139057 Ontario Inc. (which was carrying on business as Cataract Towing & Recovery (“Cataract Towing”))). Initially Leo Peragine and his brother Angelo Peragine were shareholders in the company but later Leo Peragine bought his brother’s interest in the company.
+[8] The Victoria Property was acquired in 1998 and title to this property was registered in the name of the Appellant because Leo Peragine would not have qualified for financing at that time. In the Reply it is stated that the purchase price for the Victoria Property was $160,000 and in his tax return for 2003 the Appellant stated that the adjusted cost base of the property was $180,000 (without distinguishing between the land and the building). Although it is not entirely clear, it appears that the source of the money used to purchase the Victoria Property was a mortgage on the Appellant’s (and Leo Peragine’s) mother’s house in Toronto (for $146,000) and a mortgage on the Victoria Property to Jose Ribeiro and Teresa Ribeiro (for $55,750). Title for the Appellant’s (and Leo Peragine’s) mother’s house was in the Appellant’s name and in their mother’s name.
+[9] It was clear from the testimony of Leo Peragine that all of the payments on the mortgages (prior to the sale of the Victoria Property) were made by Cataract Towing. It is also clear from the testimony of Leo Peragine and the Appellant that the Appellant did not make any of the payments on these mortgages. Cataract Towing would make the payments on the mortgage on Leo Peragine’s and the Appellant’s mother’s house by depositing the required mortgage payment into her bank account before the payment was to be made to Scotiabank.
+[10] After the Victoria Property was acquired and before it was sold, the area behind the building was excavated and filled back in with concrete and gravel. Leo Peragine testified that 240 loads of fill were removed and 97 loads of crushed gravel were brought in. As well, the roof and the furnace were replaced and a spray booth for painting cars was installed. These projects required substantial outlays. It is clear that all of these projects were undertaken by Cataract Towing and not the Appellant. The Appellant was not involved in any aspect of any of these projects.
+[11] Installing the spray booth required renovations to the building. Financing for the costs of acquiring and installing the spray booth was arranged by London Leasing. At some point Cataract Towing stopped making payments in relation to the financing of the spray booth and since the registered owner of the building was the Appellant, London Leasing contacted the Appellant. At that time the amount remaining to be paid was $12,000 which was to be paid in 15 payments of $800 each. These payments were made by Cataract Towing or Leo Peragine paying $800 to the Appellant each time that such payment was required to be made and by the Appellant then making the $800 payment to 3413331 Canada Inc.
+[12] The Amended Direction in relation to the disbursement of the sale proceeds from the sale of the Victoria Property was filed as an Exhibit. This Direction shows that the funds were disbursed as payment of the outstanding mortgage on this property to Jose and Teresa Ribeiro (in the amount of $62,250) and as payment of the balance of the mortgage on the Appellant’s mother’s property to Scotiabank (in the amount of $133,288). Of particular note is the disbursement of $32,080 to Jose and Teresa Ribeiro which was identified on the Direction as a loan. It was clear from the testimony of Leo Peragine and the Appellant that either Leo Peragine or Cataract Towing had borrowed money from Jose and Teresa Ribeiro in addition to the initial mortgage amount. It is also clear that the Appellant had not arranged the financing with Jose and Teresa Ribeiro and that the Appellant had not received the money that Jose and Teresa Ribeiro had advanced. If, as the Respondent contends, the Appellant was the legal and beneficial owner of the Victoria Property, why was $32,080 from the sale proceeds of this property paid to Jose and Teresa Ribeiro as repayment of an unsecured loan that had been advanced to Leo Peragine or Cataract Towing?
+[13] The proceeds from the sale of the Victoria Property were also used to pay outstanding property taxes and legal fees. An amount was also paid to Libra Peragine (the wife of Angelo Peragine). The explanation that was provided for this payment was that it was probably repayment of a loan that Libra Peragine had made to Leo Peragine.
+[14] Approximately $95,000 from the proceeds of the sale of the Victoria Property was disbursed to the Appellant. This money was paid by the Appellant to either Leo Peragine or to other persons at the direction of Leo Peragine. Some of the money was used to pay a visa bill. The Appellant did not know whose visa account was being paid. However, since Leo Peragine had told him to make a payment of $4,788 on this particular visa account, the Appellant did so. If the Appellant would have been the legal and beneficial owner of the Victoria Property why would the Appellant have made a payment from the proceeds of sale of this property on an unknown visa account simply because Leo Peragine asked him to do so?
+[15] Leo Peragine testified that he had picked up the money from the Appellant within a few days of the closing. The Appellant testified that the money was disbursed in various amounts over a period of time to not only Leo Peragine but to other persons at the direction of Leo Peragine. While the witnesses may not have provided entirely consistent testimony with respect to the persons to whom the money from the closing was disbursed or when it was disbursed, the witnesses were in agreement that the Appellant did not keep any of the money from the sale of the Victoria Property and that all of the proceeds were disbursed to pay outstanding charges against the property or to Leo Peragine or at the direction of Leo Peragine.
+[16] Any inconsistency between the testimony of the Appellant and Leo Peragine in relation to the number or timing of disbursements made by the Appellant or whether it was all paid directly to Leo Peragine or partially to him and the balance to other persons at Leo Peragine’s direction, is not enough to impeach their credibility. The sale of the Victoria Property occurred in 2003 and it appears that the funds were disbursed in September 2003, which would be nine years ago. Whether an amount is paid directly to a particular person or at that person’s direction may be immaterial to that person since that person realizes the benefit from the payment in any event. It is also clear from the Appellant’s bank book that the entire amount was disbursed within 30 days of the closing.
+[17] A copy of the Trust Agreement / Declaration of Trust was also introduced at the hearing. This document was dated September 1, 1998 and stated that the Appellant was only a bare trustee of the Victoria Property for the benefit of Leo Peragine and Leo Peragine carrying on business as Cataract Towing. The conduct of the parties in this case was consistent with this document although the document does indicate that Leo Peragine was carrying on his business as a sole proprietor but the business of Cataract Towing and Recovery was actually being carried on by a numbered company. Whether the business was being carried on by Leo Peragine as a sole proprietor or by a numbered company dose not change the status of the Appellant as a bare trustee for the Victoria Property as the document does identify another person (Leo Peragine) as the beneficial owner of the property.
+[18] In De Mond, above, Justice Lamarre stated as follows:
+31 This approach has also been followed by the courts, as it has been held that losses incurred in a real estate transaction conducted in the name of a corporation as a bare trustee should be deducted by the person who has an absolute right to the profit. In Brookview Investments Ltd. et al v. Minister of National Revenue (1963), 63 D.T.C. 1205 (Can. Ex. Ct.), an arrangement had been devised under which a trust was constituted in order to purchase land as a bare trustee. Cattanach J. concluded that the sole function of the trust was to convey the property as directed by the group of investors. He therefore concluded that the investors could deduct the losses incurred due to the real estate transaction, which had turned bad. Cattanach J. affirmed that had a profit been realized, such profit would not have been taxed in the hands of the trust but rather in the hands of the person who had an absolute right to the profit. Mr. W.D. Goodman, in “The Character of the Bare Trust in Canadian Tax Legislation”, in D.W. Waters, ed., Equity, Fiduciaries and Trusts (Toronto: Carswell, 1993), at p. 219, made the following comment on Brookview Investments, at p. 233:
+... Unfortunately, the reasons for judgment do not clearly indicate the legal basis for this decision, but presumably it was based on the view that a bare trust may be totally ignored for tax purposes, so that the property held by the bare trustee and any income or loss flowing from such property had to be regarded as belonging to the beneficiaries of the bare trust.
+…
+34 In “The Character of the Bare Trust in Canadian Tax Legislation”, supra, Mr. Goodman referred at page 222 to an article by Professor Hayton in which a bare trust was characterized as not being a true trust. Professor Hayton wrote:
+If, despite the form of the trust instrument, the trust is a sham, apparently having legal effects, but not really intended to have any legal effect, the settlor having real dispositive control over capital and income, then the trust is not a true trust but a bare trust where the whole equitable ownership remains in the settlor.
+However, Mr. Goodman took care to suggest that Professor Hayton's statement should not be interpreted as implying that provisions in the Act regarding trusts are inapplicable to bare trusts.
+35 In the Corporate Management Tax Conference 1989: “Creative Tax Planning for Real Estate Transactions --- Beyond Tax Reform and into the 1990s”, Revenue Canada's view of the bare trust concept is stated as follows at p. 8:1:
+From Revenue Canada’s perspective, difficult income tax issues arise from the use of bare trusts for commercial purposes. The reason these issues are difficult is that in order to arrive at apparently equitable tax results, the existence of a trust, which is effective for commercial purposes, has to be ignored for income tax purposes.
+Although a bare trust is not defined in the Income Tax Act, Revenue Canada generally views this to be a trust under common law where the trustee has no significant powers or responsibilities, and can take no action regarding the property held by the trust without instructions from the settlor. Normally the trustee’s only function is to hold legal title to the property. Furthermore, the settlor is also the sole beneficiary and can cause the property to revert to him at any time. Thus a bare trust does not include a blind trust or other trusts in which the trustee has established powers and responsibilities.
+36 Aside from the definitions of bare trusts referred to by counsel for the appellant, supra, it has also been stated that a bare trustee is a person who holds property in trust at the absolute disposal and for the absolute benefit of the beneficiaries (see Halsbury’s Laws of England, 4th ed., volume 48, paragraph 641, and Adams v. R. (1998), 98 D.T.C. 6232 (Fed. C.A.)).
+37 Bare trustees have also been compared to agents. The existence of a bare trust will be disregarded for income tax purposes where the bare trustee holds property as a mere agent or for the beneficial owner. In Trident Holdings Ltd. v. Danand Investments Ltd. (1988), 64 O.R. (2d) 65 (Ont. C.A.), Mr. Justice Morden, speaking for the Ontario Court of Appeal, made the distinction between an ordinary trust and a bare trust. He reproduced the following passages from Scott, The Law of Trusts, 4th ed. (1987):
+An agent acts for, and on behalf of, his principal and subject to his control; a trustee as such is not subject to the control of his beneficiary, although he is under a duty to deal with the trust property for the latter's benefit in accordance with the terms of the trust, and can be compelled by the beneficiary to perform this duty. The agent owes a duty of obedience to his principal; a trustee is under a duty to conform to the terms of the trust [Vol. 1, p. 88].
+…
+A person may be both agent of and trustee for another. If he undertakes to act on behalf of the other and subject to his control he is an agent; but if he is vested with the title to property that he holds for his principal, he is also a trustee. In such a case, however, it is the agency relation that predominates, and the principles of agency, rather than the principles of trust, are applicable [Vol. 1, p. 95].
+38 Mr. Justice Morden also quoted with approval from an article by M.C. Cullity, “Liability of Beneficiaries — A Rejoinder”, (1985-86), 7 Estates & Trusts Quarterly 35, at p. 36:
+It is quite clear that in many situations trustees will also be agents. This occurs, for example, in the familiar case of investments held by an investment dealer as nominee or in the case of land held by a nominee corporation. In such cases, the trust relationship that arises by virtue of the separation of legal and equitable ownership is often described as a bare trust and for tax and some other purposes it is quite understandably ignored.
+The distinguishing characteristic of the bare trust is that the trustee has no independent powers, discretions or responsibilities. His only responsibility is to carry out the instructions of his principals --- the beneficiaries. If he does not have to accept instructions, if he has any significant independent powers or responsibilities, he is not a bare trustee.
+[19] Subsection 104(1) of the Act provides as follows:
+104. (1) In this Act, a reference to a trust or estate (in this subdivision referred to as a “trust”) shall, unless the context otherwise requires, be read to include a reference to the trustee, executor, administrator, liquidator of a succession, heir or other legal representative having ownership or control of the trust property, but, except for the purposes of this subsection, subsection (1.1), subparagraph (b)(v) of the definition “disposition” in subsection 248(1) and paragraph (k) of that definition, a trust is deemed not to include an arrangement under which the trust can reasonably be considered to act as agent for all the beneficiaries under the trust with respect to all dealings with all of the trust's property unless the trust is described in any of paragraphs (a) to (e.1) of the definition “trust” in subsection 108(1).
+(emphasis added)
+[20] It seems to me that the Appellant was simply acting as the agent for Leo Peragine in holding the Victoria Property. The Appellant did not have any beneficial interest in the property nor did the Appellant have any independent power, discretion, or responsibility with respect to the Victoria Property. Therefore the trust would not be a trust as determined in accordance with the provisions of subsection 104(1) of the Act and would be what has been described as a bare trust. As a result any gain arising from the sale of the Victoria Property would not be included in the Appellant’s income.
+[21] As a result the Respondent has failed to establish that the Appellant has made a misrepresentation that would support the reassessment that was issued and therefore the Appellant’s appeal is allowed, with costs, and the reassessment issued in relation to the Appellant’s 2003 taxation year is vacated.
+Signed at Ottawa, Canada, this 4th day of October 2012.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2012TCC348
+COURT FILE NO.: 2009-3604(IT)G
+STYLE OF CAUSE: SALVATORE PERAGINE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: November 23, 2011 and September 24, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: October 4, 2012
+APPEARANCES:
+Counsel for the Appellant:
+David M. Piccolo
+Counsel for the Respondent:
+Erin Strashin
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David M. Piccolo
+Firm: David M. Piccolo
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] De Mond v. The Queen, [1999] 4 C.T.C. 2007, 99 DTC 893.

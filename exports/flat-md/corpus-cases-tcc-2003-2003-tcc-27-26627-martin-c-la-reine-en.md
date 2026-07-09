@@ -1,0 +1,182 @@
+---
+title: "Martin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26627/index.do"
+last_modified: "2003-02-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 27"
+citation2: ""
+neutral_citation: "2003 TCC 27"
+decision_date: "2003-02-24"
+language: "en"
+item_id: "26627"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3635
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:31:34.546000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "36c3421ebff7ca98b80268c93f99ca1b733b7cefeffef4c210b3382cb227fdb4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Martin c. La Reine
+
+- Citation: 2003 TCC 27
+- Decision date: 2003-02-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3635, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martin c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-02-24
+Neutral citation
+2003 TCC 27
+File numbers
+2002-1767(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-1767(IT)I
+BETWEEN:
+DENIS MARTIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+_______________________________________________________________
+Appeal heard on January 23, 2003, at Sherbrooke, Quebec
+Before: The Honourable Judge Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Claude Lamoureux
+_______________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 1998, 1999 and 2000 taxation years are allowed, without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of February 2003.
+"Alain Tardif"
+J.T.C.C.
+Translation certified true
+on this 5h day of April 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC27
+Date: 20030224
+Docket: 2002-1767(IT)I
+BETWEEN:
+DENIS MARTIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif, J.T.C.C.
+[1] This is an appeal from the assessments for the 1998, 1999 and 2000 taxation years.
+[2] The question at issue is to determine whether the deductions for support claimed by the appellant for the years at issue were correctly disallowed by the Minister of National Revenue.
+[3] After being sworn, the appellant admitted most of the facts relied on when the reassessments were made; these facts are as follows:
+[TRANSLATION]
+(a) The appellant and Carole Poirier (former spouse) were divorced on January 20, 1992;
+(b) Four children were born of their relationship:
+Dominic, born on November 26, 1980
+Émilie, born on May 4, 1982
+Audray, born on September 24, 1984
+Joëlle, born on October 8, 1986
+(c) On the divorce, custody of the four children was awarded to the appellant's former spouse;
+(d) On March 15, 1996, the support was revised to $325 per week with annual indexing;
+(e) On April 11, 1997, Dominic Martin went to live with the appellant;
+(f) On April 14, 1997, the appellant filed an application to confirm the change of custody for his son and to obtain a reduction of the support paid to his former spouse;
+(g) On April 28, 1997, the appellant and his former spouse signed an agreement whereby they agreed that, if a change of custody was approved by the Court, the support paid to the former spouse for the other children would be reduced and would continue to be deductible in the hands of the appellant and taxable in the hands of the former spouse;
+...
+(i) On May 1, 1997, an interim order was made giving the appellant custody of his son Dominic, maintaining the status quo as to the amount of the support and postponing the hearing of the application to June 12, 1997;
+(j) The order also indicated that [TRANSLATION] "the amount of the support fixed will be retroactive to the date the proceedings were served";
+...
+(m) On May 5, 1998, the Superior Court issued a corrected judgment in which the Court ordered that support would be payable beginning on July 1, 1997, and that it would continue to be taxable and deductible in the hands of the parties;
+(n) In his tax return for the 1999 taxation year, the appellant claimed a deduction for the support he paid during 1998 and 1999;
+(o) The amounts at issue for each of the years amounted to $14,035 in 1998; $13,935 in 1999; and $13,439 in 2000.
+[4] He had no knowledge of the following facts: h, k and l.
+[TRANSLATION]
+(h) Under the agreement of April 28, 1997, the appellant and his former spouse left it to the Court to determine the date on which the change in the support amount would become effective;
+(k) On July 4, 1997, the Superior Court rendered judgment and awarded the parties joint custody of Dominic, who's principal residence was with the appellant, and reduced to $247.41 per week the amount of support payable by the appellant to his former spouse, effective from the judgment;
+(l) On April 20, 1998, another agreement was signed by the parties in which it was indicated that, since the parties had signed an agreement that the amount of support payable would continue to be deductible in the appellant's hands and taxable in his former spouse's hands and since there was no reference to this in the judgment of July 4, 1997, the parties agreed that judgment would issue to order the appellant to pay his former spouse support of $1,072.11 per month and to order that this support would be payable beginning on July 4, 1997, and would continue to be taxable and deductible.
+[5] The appellant gave a very detailed and qualified explanation of all the facts and circumstances relating to the support of which he was the debtor.
+[6] He explained that he and his former spouse had learned about the new provisions enacted making support non-taxable. They then contacted the Department a number of times to know specifically all of the requirements and conditions so that they could reach an agreement stating their decision. The appellant consulted and instructed a lawyer to ensure that everything would be done in compliance with the new requirements.
+[7] They quickly agreed on the financial aspects. However, one of the four children, Dominic, born on November 26, 1980, indicated at that time that he wanted to live with his father from then on.
+[8] As responsible parents, they wanted to ensure that Dominic's wishes were essentially not a mere whim, which explains why the question of custody was left open.
+[9] On April 28, 1997, the parties made an agreement (Exhibit I-1); the agreement is clear as to the parties' intention; it takes into account the uncertainty at the time surrounding the fate of one of the children, namely, Dominic. It is appropriate to reproduce this agreement.
+[TRANSLATION]
+AGREEMENT
+We, the undersigned, Carole Poirier and Denis Martin, acknowledge that an application for a change in custody for our son, Dominic, has been filed with the Superior Court of the District de St-François and that it is to be heard shortly by the Court.
+Should there be a change of custody, agreement has been reached on the following points:
+- reduction of support from $329.88 to $247.41 per week;
+- the father will have sole responsibility for the expense of maintaining and educating his son;
+- the father will continue to have sole responsibility for paying the premium for group insurance (medical and dental) for the benefit of his son and his three daughters;
+- the father may take the tax deductions for his son on his tax returns, beginning on April 30, 1997;
+- the support will continue to be tax deductible in the hands of the father and taxable in the hands of the mother;
+- 60 percent of the cost of the insurance premium (currently $110.94/month) will continue to be tax deductible in the hands of the father and taxable in the hands of the mother;
+- visiting and access rights to the children will henceforth be exercised on a voluntary basis and according to the children's wishes, each parent will be responsible for half of the transportation;
+- our son, Dominic, may take possession of his personal property.
+We agree to submit the following points of disagreement to the court:
+- the reasons and appropriateness of this change in custody;
+- the date on which the change in support is to be effective and the amount of retroactivity, if any;
+- the change in recipient for the tax benefits and family allowances.
+We agree that there is no point in submitting this dispute to arbitration or mediation. Moreover, we wish to exempt this agreement from the new rules on support in the interests of the parties in question.
+Sherbrooke, April 28, 1997
+Carole Poirier, mother Denis Martin, father Me Michèle Beaupré,
+witness
+[10] The appellant and his former spouse were in agreement on the entire financial aspect but did not agree about Dominic's wishes.
+[11] Dominic's custody had direct and significant consequences on the amount of support of which the appellant was the debtor since the judgment awarding custody of the four children to his former spouse was issued.
+[12] The uncertainty surrounding Dominic's custody meant that the parents could not reach a clear and unequivocal agreement regarding the support.
+[13] On the other hand, it was clear at the time that the Superior Court would ultimately have to decide the question of Dominic's custody, which had continued to be an issue.
+[14] The appellant and his former wife had a serious problem then. They agreed about the support initially awarded for the four children but did not necessarily agree about the appropriateness of Dominic's choice to live with his father. The parties accordingly reached an agreement describing, as best they could, the situation prevailing at the time. The whole was stated in the agreement of April 28, 1997.
+[15] In the light of the arguments submitted by the respondent, it appears that the assessment was based on the date when the provisions relating to the support became effective.
+[16] An excerpt from the parties' agreement of April 28, 1997 (Exhibit I-1) was given decisive importance; it involved, inter alia, the following passage:
+[TRANSLATION]
+We agree to submit the following points of disagreement to the court:
+- the reasons and appropriateness of this change in custody;
+- the date on which the change in support is to be effective and the amount of retroactivity, if any;
+- the change in recipient for the tax benefits and family allowances.
+[17] To interpret the agreement on the basis of this excerpt alone, without taking the overall context into account, might justify the respondent's interpretation. In general, that interpretation is not warranted since there is no doubt or ambiguity regarding the intention of the parties.
+[18] The sole purpose of the excerpt on which the respondent bases his arguments was to ensure that the issue of support in relation to Dominic would not likely alter the agreement.
+[19] The first judgment of the Superior Court dated May 1, 1997, i.e., several days after the agreement, is in every respect consistent and in keeping with the agreement; furthermore, it confirms the amount of the support and determines its effective date; this is very clear from the following excerpt (Exhibit I-2):
+[TRANSLATION]
+...
+MAINTAINS the status quo as to the amount of support;
+DECLARES that the amount of support fixed will be retroactive to the date on which proceedings were served;
+...
+[20] The evidence did not establish the date of service of the proceedings; it is obvious, however, that the date was several days before the date of the judgment.
+[21] Since the respondent did not agree that the agreement was consistent with the appellant's arguments, new proceedings were then initiated on the joint application of the appellant and his former spouse to have the first judgment corrected so as to satisfy the respondent.
+[22] As a result of this joint application for a corrected judgment, the judgment was in fact corrected on May 5, 1998. This judgment clearly shows that the judge hearing the case wanted to settle it in accordance with the intention of the parties clearly stated in the agreement of April 28, 1997.
+[23] Faced with the judgment of May 5, 1998, which was intended to be a mere clarification, the respondent rejected it outright, maintaining that the Superior Court had no authority to determine what was to be deductible or taxable.
+[24] It seems evident to me that the reference in the judgment to deductibility was not meant, however, to determine or to dictate to the respondent how the issue was to be handled but was essentially intended to confirm the intention of the parties.
+[25] The parties clearly stated their intention on the support issue in the agreement under private seal. The two subsequent judgments of the Superior Court dealt exclusively with the custody of Dominic and the portion of the support that concerned him. The appeal is accordingly allowed.
+Signed at Ottawa, Canada, this 24th day of February 2003.
+"Alain Tardif"
+J.T.C.C.
+Translation certified true
+on this 5h day of April 2004.
+Sophie Debbané, Revisor

@@ -1,0 +1,198 @@
+---
+title: "Breger v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27586/index.do"
+last_modified: "2007-04-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 254"
+citation2: ""
+neutral_citation: "2007 CCI 254"
+decision_date: "2007-04-30"
+language: "fr"
+item_id: "27586"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 80
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:43:35.628000+00:00"
+cases_cited_count: 4
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e0565a4e3db257348ff1fcde753fa3b84df9b819c16a592a7ea947e2dc47d468"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Breger v. The Queen
+
+- Citation: 2007 CCI 254
+- Decision date: 2007-04-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 80, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Breger v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-30
+Référence neutre
+2007 CCI 254
+Numéro de dossier
+2006-378(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-378(IT)I
+ENTRE :
+BARRY BREGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 8 décembre 2006, à Montréal (Québec).
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Chantal Roberge
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est accueilli, sans dépens, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant a le droit d’inclure les montants payés pour des suppléments prescrits par un médecin et enregistrés par un pharmacien dans le calcul du crédit pour frais médicaux conformément à l’alinéa 118.2(2)n) de la Loi.
+Signé à Ottawa, Canada, ce 30e jour d’avril 2007.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 28e jour d’août 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI254
+Date : 20070430
+Dossier : 2006-378(IT)I
+ENTRE :
+BARRY BREGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Il s’agit d’un appel d’une cotisation concernant l’année d’imposition 2004 de l’appelant. Le ministre du Revenu national (le « ministre ») a refusé la déduction de 227,30 $ et de 6 512,78 $ demandée par l’appelant à titre de crédit pour frais médicaux en vertu de l’alinéa 118.2(2)n) de la Loi de l’impôt sur le revenu. L’appelant avait engagé ces frais pour des suppléments médicinaux, nutritionnels et à base d’herbes médicinales qui servaient à traiter les affections peu communes dont souffrait sa femme. Il s’agit de savoir si le coût des suppléments qui ont été prescrits par un médecin en titre et qui ont été délivrés et enregistrés par un pharmacien peut être inclus dans le calcul du crédit pour frais médicaux.
+[2] L’appelant est un médecin en titre qualifié spécialisé dans la médecine orthomoléculaire. Cette spécialité n’est pas commune au Québec; il s’agit d’utiliser des molécules [traduction] « connues de l’organisme » dans le traitement ou dans la prévention de maladies et de certains troubles chroniques. En ayant recours à la médecine orthomoléculaire, l’appelant a traité sa femme, qui est atteinte de diverses affections graves, à l’aide d’un régime alimentaire et vitaminique précis.
+[3] Dans le cadre du traitement, l’appelant a prescrit certains suppléments médicinaux, nutritionnels et à base d’herbes médicinales. Ces ordonnances ont été exécutées par un pharmacien autorisé, elles ont dûment été enregistrées et des reçus officiels ont été délivrés. Toutefois, il est admis que les suppléments ne sont pas mentionnés en tant que médicaments d’ordonnance dans les annexes de la Loi sur la pharmacie du Québec[1] ni dans le règlement d’application.
+[4] Même si les suppléments en question étaient prescrits par un médecin en titre et enregistrés par un pharmacien, le ministre prend la position selon laquelle la demande de l’appelant doit être refusée parce que les produits pharmaceutiques en question n’avaient pas à être enregistrés par un pharmacien et auraient pu être achetés « en vente libre » sans l’intervention d’un pharmacien.
+[5] En établissant la nouvelle cotisation de l’appelant pour l’année d’imposition 2004, le ministre a émis les hypothèses de fait suivantes :
+[traduction]
+a) L’appelant est médecin de profession; en produisant sa déclaration de revenus pour l’année d’imposition, il a présenté une demande à l’égard de frais médicaux qu’il avait engagés pour lui‑même ou pour son épouse et son enfant, d’un montant de 10 038 $;
+b) Le 3 août 2005, le ministre a envoyé à l’appelant une lettre dans laquelle il informait celui‑ci que la demande relative aux frais médicaux pour l’année d’imposition 2004 était à l’étude et lui demandait de soumettre des reçus, des attestations médicales ou des documents à l’appui, applicables à la période en question;
+c) Le ministre a reçu et examiné la documentation soumise et, le 14 octobre 2005, il a informé l’appelant que la demande relative aux frais médicaux admissibles était ramenée à 3 369 $, et ce, pour les motifs suivants :
+(i) « Les frais que vous avez engagés pour des services médicaux doivent être payés à un médecin. Or, les naturopathes et les kinésithérapeutes ne sont pas reconnus à titre de médecins dans la province où vous avez reçu les services »;
+(ii) « Les vitamines, les herbes médicinales et notamment les produits pharmaceutiques en vente libre ainsi que les substances similaires ne sont pas déductibles à titre de frais médicaux »;
+d) À la suite de l’avis d’opposition, le ministre a conclu qu’un montant additionnel de 39 $ était admissible au titre des frais médicaux;
+e) Les dépenses qui ont été refusées se rapportaient :
+(i) à des montants que l’appelant avait déduits pour des substances nutritives, des vitamines et des suppléments minéraux vendus sans ordonnance pour lui‑même;
+(ii) à des montants que l’appelant avait déduits pour des substances nutritives, des vitamines et des suppléments minéraux vendus sans ordonnance, que l’appelant avait prescrits à son épouse et qu’un pharmacien avait délivrés.
+[6] L’alinéa 118.2(2)n) de la Loi prévoit ce qui suit :
+118.2(2) Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+n) pour les médicaments, les produits pharmaceutiques et les autres préparations ou substances – sauf s’ils sont déjà visés à l’alinéa k) – qui sont, d’une part, fabriqués, vendus ou offerts pour servir au diagnostic, au traitement ou à la prévention d’une maladie, d’une affection, d’un état physique anormal ou de leurs symptômes ou en vue de rétablir, de corriger ou de modifier une fonction organique et, d’autre part, achetés afin d’être utilisés par le particulier, par son époux ou conjoint de fait ou par une personne à charge visée à l’alinéa a), sur ordonnance d’un médecin ou d’un dentiste, et enregistrés par un pharmacien;
+[Je souligne.]
+Cette disposition légale énonce trois critères pour qu’un médicament ou un produit pharmaceutique soit considéré comme admissible au titre des frais médicaux en vertu de l’alinéa 118.2(2)n). Le produit pharmaceutique doit :
+(i) servir au diagnostic, au traitement ou à la prévention d’une maladie, d’une affection, d’un état physique anormal ou de leurs symptômes ou en vue de rétablir, de corriger ou de modifier une fonction organique;
+(ii) faire l’objet d’une ordonnance d’un médecin;
+(iii) être enregistré par un pharmacien.
+En l’espèce, seul le troisième critère, à savoir l’enregistrement par un pharmacien, est en litige.
+[7] Le sens de l’expression « enregistré par un pharmacien » a été examiné par la Cour d’appel fédérale dans l’arrêt Ray c. Canada[2]. La cour a annulé la conclusion fondée sur le bon sens que le juge de première instance avait tirée[3] et, dans un jugement unanime, et elle a conclu qu’il fallait satisfaire à l’exigence législative concernant l’enregistrement par un pharmacien pour que les dépenses soient admissibles à titre de « frais médicaux » aux fins de l’application du crédit d’impôt prévu à l’alinéa 118.2(2)n). La juge Sharlow a dit ce qui suit :
+[11] […], il n’est pas loisible à la présente cour, ou à la Cour de l’impôt, de ne pas tenir compte des exigences législatives imposées par le Parlement, même s’il est difficile de les justifier en principe. Il appartient uniquement au Parlement de déterminer si les mots * enregistrés par un pharmacien + devraient être supprimés de l’alinéa 118.2(2)n).
+[12] À mon avis, il est raisonnable d’inférer que l’exigence relative à l’enregistrement figurant à l’alinéa 118.2(2)n) vise à assurer qu’un allégement fiscal ne soit pas accordé pour le coût de médicaments achetés en vente libre. Il existe partout au Canada des lois qui régissent la pratique dans le domaine pharmaceutique. Les lois ne sont pas les mêmes dans chaque province et dans chaque territoire, mais elles comportent des éléments communs. En général, elles interdisent au pharmacien de délivrer certains médicaments sans ordonnance médicale et elles décrivent les documents qu’un pharmacien doit rédiger pour les médicaments d’ordonnance, y compris les renseignements qui identifient la personne qui prescrit le médicament et le patient. Il n’est pas établi que les pharmaciens, où que ce soit au Canada, soient obligés de rédiger pareils documents pour les substances ici en cause.
+[13] Je ne puis retenir la prétention selon laquelle, dans le cas d’un médicament qui est prescrit par un médecin, mais qui est acheté dans une pharmacie en vente libre, un reçu de caisse ou une facture du pharmacien constituerait un * enregistrement + suffisant pour satisfaire à l’exigence légale. Un document se présentant sous cette forme ne peut pas remplir la fonction apparente de l’exigence relative à l’enregistrement. Le pharmacien doit rédiger un document en sa qualité de pharmacien. Cela exclut nécessairement les substances, aussi utiles ou bénéfiques soient‑elles, qui sont achetées en vente libre. [Je souligne.]
+[8] Selon la position prise par l’intimée, le calcul du crédit pour frais médicaux, conformément au paragraphe 118.2(1) et à l’alinéa 118.2(2)n) de la Loi, est restreint aux éléments qui sont classés dans les « médicaments d’ordonnance » pour la délivrance desquels les pharmaciens sont tenus de rédiger un document en vertu de la loi.
+[9] Une distinction entre une substance qui a été prescrite et un médicament d’ordonnance a été proposée dans une remarque incidente qui a été faite au paragraphe 6 de l’arrêt Dunn c. la Reine[4] :
+Bien qu’il ne soit pas nécessaire que nous tranchions la question, il semblerait que la raison pour laquelle les médicaments doivent être enregistrés par un pharmacien serait de restreindre le droit aux paiements aux médicaments qui ne sont disponibles que sur ordonnance seulement, contrairement aux produits grand public ou aux autres médicaments. Le juge de la Cour canadienne de l=impôt a conclu en l=espèce que les médicaments fournis n=étaient pas disponibles dans les pharmacies ou autres sources de fournitures médicales ordinaires et, après avoir examiné le dossier, il n=est pas clair pour nous que les médicaments prescrits étaient des médicaments sur ordonnance.
+L’avocate de l’intimée s’est fondée sur les décisions rendues par la Cour d’appel fédérale dans les affaires Ray et Dunn pour faire une distinction entre les médicaments d’ordonnance et les médicaments qui ont été prescrits.
+[10] L’avocate a également mentionné la décision rendue par la présente cour dans l’affaire Herzig c. La Reine[5] comme exemple de cas attirant de la compassion ayant donné lieu à un refus par suite de la conclusion tirée dans l’arrêt Ray, au motif que les produits en question n’étaient pas enregistrés par un pharmacien. Dans la décision Herzig, le juge Bowman a rejeté avec regret l’appel dans « une affaire des plus méritantes », en disant que la présente cour était liée par l’interprétation stricte donnée à l’alinéa 118.2(2)n) selon l’arrêt Ray.
+[11] L’avocate de l’intimée a ajouté que [traduction] « la loi traite de médicaments » et elle a mis l’accent sur le fait que [traduction] « rien ne montre que les pharmaciens où que ce soit au Canada soient tenus de rédiger des documents pour délivrer des substances nutritives, des vitamines et des suppléments minéraux ». À l’appui de cette position, l’avocate a mentionné la décision rendue par la présente cour dans l’affaire Melnychuk c. la Reine[6], où le contribuable avait fait une demande à l’égard du coût de suppléments vitaminiques prescrits par un médecin, mais également offerts en vente libre sans ordonnance. À l’audience, on avait présenté une preuve selon laquelle le magasin avait comme politique de remettre des reçus et des étiquettes de la pharmacie et d’inscrire les renseignements dans le profil du client pour tous les produits pharmaceutiques prescrits par un médecin. Conformément aux politiques de la pharmacie particulière ou aux exigences du fabricant, certains produits pharmaceutiques étaient conservés derrière le comptoir du pharmacien et exigeaient l’intervention d’un pharmacien même s’ils étaient offerts sans ordonnance.
+[12] Dans la décision Melnychuk, le juge de première instance a refusé la déduction concernant certains produits pharmaceutiques pour les motifs suivants :
+[14] Compte tenu de l’ensemble de la preuve mise à la disposition de la Cour, je ne suis pas convaincu qu’il ait été démontré que les achats de suppléments vitaminiques que l’appelant a effectués ont été enregistrés par un pharmacien, comme l’exige l’alinéa 118.2(2)n) de la Loi. Dans l’arrêt Ray c. La Reine, 2004 CAF 1, la Cour d’appel fédérale a indiqué l’interprétation qu’il convient de donner aux mots « enregistrés par un pharmacien » [...]
+[15] Comme c’était le cas dans l’affaire Ray, je ne dispose d’aucun élément de preuve montrant que le pharmacien qui a exécuté les ordonnances de l’appelant était tenu en droit de conserver des documents au sujet de l’exécution de ces ordonnances [...]
+Le juge a ensuite examiné la Pharmacy Profession Act de l’Alberta et plus précisément le paragraphe 15(6) :
+[15] […] La Pharmaceutical Profession Act définit le mot [traduction] « médicament » à l’alinéa 1h) comme étant un produit ou une combinaison de produits désignés dans les annexes de cette loi. La preuve qui a été présentée en l’espèce ne montre pas que les suppléments vitaminiques en question figurent dans ces annexes, de sorte qu’un pharmacien serait tenu en droit de les enregistrer. M. Fong a déclaré que ces suppléments étaient vendus sans ordonnance, ce qui étaye encore plus la conclusion selon laquelle il ne s’agit pas de « médicaments » au sens de la Pharmaceutical Profession Act.
+[…]
+[17] [...] L’exigence voulant qu’un médicament soit enregistré par un pharmacien se rapporte aux exigences en matière d’enregistrement qui figurent dans la législation régissant les pharmaciens dans chaque province et dans chaque territoire. À moins que cette législation n’exige qu’un pharmacien enregistre un médicament particulier, le coût du médicament ne fera pas partie des frais médicaux en vertu de la Loi de l’impôt sur le revenu, et ce, peu importe la façon dont ce médicament est vendu ou traité dans une pharmacie particulière.
+[18] Ce qui satisfait à l’exigence prévue par la Loi de l’impôt sur le revenu au sujet de l’enregistrement par un pharmacien ne peut pas dépendre de la politique d’un magasin particulier lorsqu’il vend des médicaments sans ordonnance. Toute autre décision entraînerait une différence dans le traitement fiscal, fondée sur l’endroit où le contribuable a décidé d’acheter un médicament sans ordonnance plutôt que sur la nature du médicament acheté. Je ne crois pas que le législateur ait eu pareille intention lorsqu’il a adopté l’alinéa 118.2(2)n) de la Loi de l’impôt sur le revenu.
+Avec égards, je ne suis pas d’accord. La Cour doit appliquer le libellé clair de la Loi et interpréter la loi telle quelle[7].
+[13] L’appelant soutient que, dans ce cas‑ci, il a été satisfait aux trois exigences de l’alinéa 118.2(2)n). Contrairement aux faits de l’affaire Melnychuk, les produits pharmaceutiques de l’appelant ont été enregistrés par un pharmacien. L’appelant soutient en outre qu’il faudrait faire une distinction entre son cas et les faits des affaires Ray et Selent parce que, dans ces affaires, aucun document n’était rédigé par le pharmacien et aucun document ne devait être rédigé en vertu de la loi. Par contre, l’appelant se fonde sur les dispositions de la Loi sur la pharmacie du Québec et sur son règlement d’application en tant que législation régissant les pharmaciens dans sa province en vue de soutenir qu’au Québec, les pharmaciens sont tenus d’enregistrer tout produit pharmaceutique prescrit par un médecin. Je suis d’accord avec l’appelant.
+[14] L’article 21 de la Loi sur la pharmacie du Québec prévoit ce qui suit :
+21 Un pharmacien doit exécuter une ordonnance suivant sa teneur intégrale.
+Et l’article 2.01 du Règlement sur la tenue des dossiers, livres et registres par un pharmacien dans l’exercice de sa profession[8] prévoit ce qui suit :
+2.01 Sous réserve des articles 2.04 et 2.05, un pharmacien doit tenir à l’endroit où il exerce sa profession un dossier pour chaque patient pour le compte de qui une ordonnance est exécutée. [Je souligne.]
+Les définitions suivantes figurant à l’article premier de la Loi sur la pharmacie du Québec sont également pertinentes pour les besoins de la présente analyse :
+c) « pharmacien » ou « membre de l’Ordre » : quiconque est inscrit au tableau;
+d) « médecin » : tout membre de l’Ordre des médecins du Québec;
+[...]
+h) « médicament » : toute substance ou mélange de substances pouvant être employé :
+(i) au diagnostic, au traitement, à l’atténuation ou à la prévention d’une maladie, d’un désordre, d’un état physique ou psychique anormal, ou de leurs symptômes, chez l’homme ou chez les animaux; ou
+(ii) en vue de restaurer, corriger ou modifier les fonctions organiques chez l’homme ou chez les animaux;
+[...]
+j) « ordonnance » : une autorisation de fournir un médicament :
+(i) donnée par une personne autorisée par une loi du Québec à prescrire un médicament;
+(ii) donnée par une personne autorisée par une loi d’une autre province ou d’un territoire du Canada à prescrire un médicament dans la mesure où cette personne, si elle exerçait au Québec, serait autorisée par une loi du Québec à prescrire ce médicament;
+[15] L’alinéa 118.2(2)n) prévoit clairement qu’un produit pharmaceutique qui est prescrit par un médecin selon la définition donnée dans la Loi et enregistré par un pharmacien donne lieu à des frais médicaux admissibles. Dans l’affaire dont je suis ici saisi, les ordonnances relatives aux suppléments ont été rédigées par un médecin en titre qualifié et elles ont été enregistrées par un pharmacien autorisé. Ces faits ne sont pas contestés.
+[16] En outre, il ressort clairement des motifs énoncés dans les décisions Ray et Melnychuk que les substances qui pouvaient être achetées en vente libre étaient exclues parce que l’on n’avait soumis à la cour aucune preuve montrant qu’un pharmacien était tenu en droit d’enregistrer leur délivrance en sa qualité de pharmacien et que seul un reçu du magasin ou une facture avait été présenté. En l’espèce, je suis convaincu qu’au Québec, l’article 2 de la Loi sur la pharmacie, lorsqu’il est interprété en liaison avec le règlement sur la tenue des dossiers par les pharmaciens, indique clairement que les ordonnances ont été exécutées et enregistrées par le pharmacien en sa qualité professionnelle de pharmacien.
+[17] À mon avis, on dérogerait à la conclusion tirée dans l’arrêt Ray et au sens clair de l’alinéa 118.2(2)n) de la Loi en interprétant la disposition d’une façon stricte au point de limiter son application aux médicaments d’ordonnance énumérés dans des formulaires précis. La chose aurait pour effet d’ajouter une autre exigence qui, dans la plupart des cas, serait conforme à la Loi, tout en y n’étant pas prévue.
+[18] Selon l’interprétation que je donne de la disposition, l’admissibilité en vertu de l’alinéa 118.2(2)n) de la Loi ne dépend pas de la classification du produit pharmaceutique, mais dépend plutôt de l’exécution de certaines actions par les professionnels autorisés qui contrôlent l’accès à ce produit pharmaceutique. Un médecin et un pharmacien autorisés doivent s’acquitter de leurs devoirs professionnels lorsqu’ils prescrivent et délivrent des produits pharmaceutiques respectivement, comme la loi les autorise à le faire; ce sont là les obstacles de nature législative établis par le Parlement, et l’appelant les a surmontés.
+[19] Compte tenu de la conclusion que j’ai tirée, il est inutile d’examiner l’effet de la décision que l’appelant a déjà reçue de l’Agence du revenu du Canada.
+[20] Pour les motifs susmentionnés, l’appel est accueilli et l’affaire est déférée au ministre pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant a le droit d’inclure les montants payés pour les suppléments qui ont été prescrits par un médecin et enregistrés par un pharmacien dans le calcul du crédit pour frais médicaux selon l’alinéa 118.2(2)n) de la Loi.
+Signé à Ottawa, Canada, ce 30e jour d’avril 2007.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 28e jour d’août 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI254
+No DU DOSSIER DE LA COUR : 2006-378(IT)I
+INTITULÉ : Barry Breger
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 8 décembre 2006
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 30 avril 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Chantal Roberge
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Lois révisées du Québec, ch. P-10.
+[2] 2004 CAF 1.
+[3] Le juge O’Connor, en première instance, a dit ce qui suit : [traduction] « [S]i les produits pharmaceutiques sont prescrits par un médecin et qu’il s’agit d’une question de vie ou de mort, ou qu’ils permettent au patient de fonctionner, l’alinéa 118.2(2)n) devrait s’appliquer à ces produits. »
+[4] 2002 CAF 506.
+[5] 2004 CCI 344.
+[6] 2004 CCI 812.
+[7] Juge Rothstein, dans Chaya c. la Reine, 2004 A.C.F. no 227, 4 octobre 2004.
+[8] L.R.Q. 1981, ch. P‑10, r. 19.

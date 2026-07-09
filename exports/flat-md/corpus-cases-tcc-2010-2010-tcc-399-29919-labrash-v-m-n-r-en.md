@@ -1,0 +1,204 @@
+---
+title: "Labrash v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29919/index.do"
+last_modified: "2010-07-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 399"
+citation2: ""
+neutral_citation: "2010 TCC 399"
+decision_date: "2010-07-27"
+language: "en"
+item_id: "29919"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6468
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:08:18.155000+00:00"
+cases_cited_count: 5
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d6a6602bc6c82ae000ff9a315b0675213f6cd00cdda1d0ee289be469fc8bba74"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Labrash v. M.N.R.
+
+- Citation: 2010 TCC 399
+- Decision date: 2010-07-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6468, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Labrash v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-07-27
+Neutral citation
+2010 TCC 399
+File numbers
+2009-3055(CPP)
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2009-3055(CPP)
+BETWEEN:
+GERALD LABRASH,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Gerald Labrash (2009-3054(EI)), on June 28, 2010, at Sudbury, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Agent for the appellant:
+Tony McKenzie
+Counsel for the respondent:
+Ashleigh Akalehiywot
+Geneviève Léveillé
+____________________________________________________________________
+JUDGMENT
+The appeal under the Canada Pension Plan is allowed and the Minister’s decision of August 17, 2009 is vacated in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 27th day of July 2010.
+"Patrick Boyle"
+Boyle J.
+Docket: 2009-3054(EI)
+BETWEEN:
+GERALD LABRASH,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Gerald Labrash (2009-3055(CPP)), on June 28, 2010, at Sudbury, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Agent for the appellant:
+Tony McKenzie
+Counsel for the respondent:
+Ashleigh Akalehiywot
+Geneviève Léveillé
+____________________________________________________________________
+JUDGMENT
+The appeal under the Employment Insurance Act is dismissed in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 27th day of July 2010.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2010 TCC 399
+2009-3055(CPP)
+2009-3054(EI)
+BETWEEN:
+GERALD LABRASH,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF REASONS FOR JUDGMENT
+Let the attached edited transcript of the Reasons for Judgment delivered orally from the Bench at Sudbury, Ontario, on June 28, 2010, be filed. I have edited the transcript (certified by the Court Reporter) for style, clarity and to make minor corrections only. I did not make any substantive change.
+Signed at Ottawa, Canada, this 27th day of July 2010.
+"Patrick Boyle"
+Boyle J.
+Citation: 2010 TCC 399
+Date: 20100727
+Docket: 2009-3055(CPP)
+2009-3054(EI)
+BETWEEN:
+GERALD LABRASH,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF REASONS FOR JUDGMENT
+[delivered orally from the Bench at Sudbury, Ontario, on June 28, 2010]
+Boyle J.
+[1] These are my oral reasons delivered in Sudbury in this morning’s Employment Insurance (“EI”) and Canada Pension Plan (“CPP”) appeals of Gerald Labrash involving Parry Sound Taxi.
+[2] Mr. Labrash is one of the owners of Parry Sound Taxi and, in addition, he owns at least one of the taxicabs used in that business. The issue in these appeals is whether a taxi driver hired by a taxicab owner is engaged in pensionable employment for CPP purposes and is engaged in insurable employment for EI purposes.
+[3] A determination of employee versus independent contractor for CPP purposes is required to be made applying the traditional common law Sagaz Industries / Wiebe Door approach[1]. However, for EI purposes Regulation 6(e)[2] dealing with taxi drivers specifically must also be considered.
+[4] Parry Sound Taxi is owned by a group of taxicab owners licensed as such by the City of Parry Sound. The taxicab owners share the costs of operating the advertising, dispatch and related office expenses of Parry Sound Taxi. They each pay a set amount to Parry Sound Taxi for each shift that their cab is on the road, regardless of whether their cab is being driven by them or by a driver hired by them. Parry Sound Taxi has a number of dispatchers who are employees and treated as such for all purposes.
+[5] The taxicab owners are responsible for their car and their taxi owner’s licence as well as all maintenance, gas, cleaning, insurance, licensing and similar expenses associated with their cab.
+[6] Taxicab owners typically drive their own cabs during the day shift. The taxicab owners each typically hire taxicab drivers to drive their cabs during the night shift. The appellant taxicab owner has regularly hired drivers for his cab.
+[7] Taxicab drivers must be licensed by the City of Parry Sound as such. The drivers are responsible for obtaining such a licence and its cost.
+[8] Taxicab owners and drivers share the gross revenues from a driver’s shift on a 60/40 basis. The driver bears no associated expenses. The taxicab owner is responsible for all of the related expenses out of his 60% share. Drivers receive their 40% in cash on a daily basis at the end of each shift unless there was insufficient cash as a result of large charged accounts, in which case the owner will pay the driver the following day.
+[9] Cab drivers are responsible to cab owners for at-fault accidents to the extent they are not insured.
+[10] Each cab owner hires his or her cab drivers individually and it appears drivers tend to work for a single driver at a time for long indefinite periods. Drivers are not prohibited by owners or by Parry Sound Taxi, nor by the terms of their Parry Sound licence, from driving for another local cab company.
+[11] Drivers receive customers from Parry Sound Taxi’s dispatchers as well as picking up fares themselves on the streets. Drivers are permitted by Parry Sound Taxi and the owners to refuse any fare whether dispatched or otherwise, and do not have to explain their decision.
+[12] It appears drivers are not told which routes to drive customers to their destination from their pickup point. Drivers are free to take breaks whenever they choose without advising dispatch unless they leave their cab. Drivers are able to do personal errands and similar trips when they wish.
+[13] The driver who testified was one of Mr. Labrash’s two drivers during the period in question. He drove regular night shifts on the same three nights each week for Mr. Labrash. These were the shifts he was offered and agreed to when he was hired by Mr. Labrash. If he could not make one of his shifts he was expected to let Mr. Labrash know as soon as possible or, if he could not reach Mr. Labrash, he would let dispatch know. The owners insisted that they be given as much notice as possible so they could find a replacement driver.
+[14] Throughout the owners treated the drivers as independent contractors and did not make statutory remittances, issue T4s for tax purposes or pay vacation pay. It appears this carried on to everyone’s satisfaction for a long time with no complaint by taxicab drivers. It is unclear whether this changed as a result of a Canada Revenue Agency payroll audit or because the driver who testified filed his taxes in a different manner after his second year of working as a driver for Mr. Labrash.
+I. Applicable Law
+[15] The tests for a contract of service / employment versus a contract for services / independent contractor in common law are well settled. Pensionable employment and insurable employment are to be resolved by determining whether the individual is truly operating a business on his or her own account. See the decisions in Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732 (Q.B.D.), 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59, [2001] 2 S.C.R. 983, and Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025.
+[16] This question is to be decided having regard to all of the relevant circumstances and having regard to a number of criteria or useful guidelines including: 1) the intent of the parties; 2) control over the activities; 3) ownership of tools; 4) chance of profit or risk of loss. There is no predetermined way of applying the relevant factors and their relative importance and their relevance will depend upon the particular facts and circumstances of each case.
+[17] The decision of the Federal Court of Appeal in The Royal Winnipeg Ballet v. M.N.R., 2006 FCA 87, 2006 DTC 6323, and several later cases, highlights the importance of the parties’ intentions and of the control criterion in these determinations.
+[18] Under the Income Tax Act there is a deeming provision applicable to taxicab drivers. While remarkably poorly drafted it has been interpreted by the Federal Court of Appeal to essentially mean that a taxicab driver will be deemed to be engaged in insurable employment for EI purposes unless he is 1) the owner of more than 50% of the taxicab, 2) the owner or operator of the taxicab business or 3) a public authority operator.
+[19] The Federal Court of Appeal in Canada (Attorney General) v. Skyline Cabs (1982) Ltd., [1986] F.C.J. No. 335, and in Yellow Cab Co. Ltd. v. Canada (Minister of National Revenue), 2002 FCA 294, confirmed that the use of the word employment in Regulation 6(e) does not mean employment in the narrow legal sense of a contract of service but has the broader meaning of activity or occupation. Otherwise the regulation would have little meaning or effect in overriding the common law determinations.
+[20] With respect to the second exception for the regulation, for a driver who is also the owner or operator of the business, the Federal Court of Appeal in Yellow Cab, in paragraph 33 in particular, makes it clear that the driver must be an owner or operator of the taxicab business, not merely in the business of driving a cab. Otherwise the deeming provision would again have little effect in overriding the common law determinations.
+II. Analysis
+A. Intention
+[21] There is no evidence of a shared common intention between the appellant and his driver at the time the driver was hired. However, it seems clear on the evidence that there was a shared understanding throughout the relevant period that the drivers were self‑employed contractors of the taxicab owners. At no time did workers object to not receiving T4s, not having deductions made or not receiving vacation pay. There is no evidence drivers did not report their income as self‑employment income. The driver who testified did not pursue any employment related claims until after his contract was terminated by Mr. Labrash.
+[22] On the evidence before me there was a shared understanding during the work period that drivers were independent contractors not employees of the taxicab owners. That is entitled to considerable weight but must be tested against whether there were any legal or contractual impediments to self‑employment status and whether the parties carried on in a manner consistent with such a characterization of their relationship.
+[23] The by‑laws of the City of Parry Sound do not require that licensed taxicab drivers be employees of licensed taxicab owners. While the by‑law does refer to persons employed by an owner as a driver, that is clearly using the term employed in the broader sense of activity or occupation not the narrower legal sense. In fact the Ontario Superior Court of Justice, Small Claims Court, has recently arrived at a similar decision in a garnishment hearing involving Parry Sound Taxi and one of its drivers.
+B. Control
+[24] In this case the extent of control exercised by owners over drivers leans in favour of self-employment status. Drivers signed up in advance for particular shifts. They were free to turn down any fare for any reason with no explanation needed. Drivers could take the routes they chose, could take breaks of their own choosing, and were allowed to run personal errands with the cab. They had flexibility in deciding how late the night shift ended after 2:00 a.m.
+[25] This would appear to be less control than the Royal Winnipeg Ballet had to exercise over its dancers in its business, so it cannot be a degree of control that precludes or is necessarily inconsistent with the drivers having independent contractor status at common law.
+[26] In any event, in this case a consideration of the extent of control over the work leans in favour of independent contractor status.
+C. Chance of Profit / Risk of Loss
+[27] In this case the drivers were not assured of any regular income. Their revenues were made up only of 40% of the night’s fare revenue. The amount they earned would depend in large measure on them being on the streets, on the look out for fares and being responsive and engaged with dispatch. While they had no risk of actual loss, they were at considerable risk of receiving little or no income and could undoubtedly have considerable influence and control over their earnings on any shift. In this case this also leans slightly in favour of independent contractor status and is certainly not inconsistent with it.
+D. Ownership of Tools
+[28] I do not find this a particularly helpful consideration in a case such as this. The taxicab owners owned or controlled everything needed to run the overall taxi business except, of course, the drivers. On the other hand the taxicab drivers owned and paid for what they needed if they were in the business of driving taxicabs for others. That is, their city licence and their provincial driver’s licence. This does not usefully lead in either direction in businesses such as these.
+[29] I conclude that for common law purposes the taxicab drivers were not employees of the taxicab owners but were independent contractors. That is determinative for CPP purposes.
+[30] For EI purposes however I must go on to address the application of Regulation 6(e) and whether the taxicab drivers are excluded from being deemed to be in insurable employment.
+[31] I can see no basis for concluding that the drivers are excluded from this regulation. A driver is in the taxi driving business as an independent contractor with the cab owner being his customer. The driver is not the owner or operator of the overall taxicab business.
+[32] My conclusion in this case is consistent with the decision of Woods J. in 1022239 Ontario Inc. v. M.N.R., 2004 TCC 615. I agree with Woods J. that it would be inappropriate to extend the application of the exception for drivers who own or operate the business beyond the facts before the Federal Court of Appeal in Yellow Cab which involved lease operators as drivers and the payment of fixed monthly fees to the cab company, not a sharing of fare revenues.
+[33] Accordingly, I will be allowing the appellant’s appeal with respect to Canada Pension Plan and dismissing his appeal with respect to Employment Insurance.
+[34] Thank you Ms. Akalehiywot. Thank you Mr. Registrar and Madam Court Reporter.
+Signed at Ottawa, Canada, this 27th day of July 2010.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2010 TCC 399
+COURT FILE NOS.: 2009-3055(CPP), 2009-3054(EI)
+STYLE OF CAUSE: GERALD LABRASH v. THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Sudbury, Ontario
+DATE OF HEARING: June 28, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: July 27, 2010
+APPEARANCES:
+Agent for the appellant:
+Tony McKenzie
+Counsel for the respondent:
+Ashleigh Akalehiywot
+Geneviève Léveillé
+ALSO PRESENT:
+Court Registrar:
+William P. O’Brien
+Court Reporter:
+Andreena M. Brant
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59, [2001] 2 S.C.R. 983; Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025.
+[2] Section 6(e) of the Employment Insurance Regulations (“Regulations”).

@@ -1,0 +1,157 @@
+Title: Seier v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30008/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-495-30008-seier-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-10-06
+
+# Seier v. The Queen
+
+- Citation: 2010 TCC 495
+- Decision date: 2010-10-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7677, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Seier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-06
+Neutral citation
+2010 TCC 495
+File numbers
+2006-1659(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2006-1659(IT)G
+2006-1660(GST)G
+BETWEEN:
+LORNE SEIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 29 and 30, 2010 at Winnipeg, Manitoba
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Barbara M. Shields
+Melissa Burkett
+Counsel for the Respondent:
+Ainslie Schroeder
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to director liability assessments made under the Income Tax Act (Canada), the Excise Tax Act, the Employment Insurance Act, the Canada Pension Plan and the Income Tax Act (Manitoba) is dismissed. The respondent is entitled to costs, but only with respect to appeals under the Income Tax Act (Canada) and the Excise Tax Act.
+Signed at Ottawa, Canada this 6th day of October 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 495
+Date: 20101006
+Dockets: 2006-1659(IT)G
+2006-1660(GST)G
+BETWEEN:
+LORNE SEIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This appeal concerns director liability assessments issued to Lorne Seier, a retired businessman.
+[2] The assessments relate to remittance failures by 4236964 Manitoba Ltd. (the “Corporation”). At all relevant times, the appellant was the sole director and shareholder (indirectly) of the Corporation.
+[3] The remittance failures occurred between January and October, 2001.
+[4] Assessments in the aggregate amount of approximately $60,000 were issued to the appellant by notices dated September 16, 2005. The amounts are not in dispute and relate to source deductions under the federal and Manitoba Income Tax Acts, employer and employee contributions under the Canada Pension Plan and the Employment Insurance Act, and net tax under the Excise Tax Act.
+[5] The appellant has appealed to this Court in respect of all of the assessments, including the assessment under the Manitoba Income Tax Act. However, the Manitoba appeal was withdrawn by the appellant at the hearing following my questioning the jurisdiction of this Court over the provincial assessment.
+[6] The only issue to be decided with respect to the other assessments is whether the appellant acted with appropriate care as a director to prevent the remittance failures.
+Overview
+[7] An overview of the events that led to the remittance failures is set out below. It is based on the evidence presented, which included the testimony of the appellant and Tom Standing, and on certain of the Minister’s assumptions which were not disproven.
+[8] As mentioned earlier, the appellant is a retired businessman. After pursuing a career as a technician in the animal feed industry, the appellant in 1979 re-joined a family health food business, Vita Health. Located in Winnipeg, Vita Health employed up to 250 individuals before the corporation was sold in 1997. The appellant was the president of Vita Health but he was not involved in the day to day operation. His responsibilities were family succession, strategic planning and organization.
+[9] Upon the sale of Vita Health in 1997, the appellant retired and concentrated on managing his investments. From time to time, investment opportunities were brought to the appellant by Tom Standing, the president of Sigma Mortgage Services Inc. (“Sigma”).
+[10] Sigma’s business generally consisted of arranging loans for small businesses. Sigma earned fees for arranging the loans and for loan administration.
+[11] Through Sigma, the appellant became involved with a truck repair company, Beverley Truck and Bus Repairs (1993) Ltd. (“Beverley”), by providing financing to its manager, Frank Wall. Mr. Wall required financing to buy out Beverley’s other shareholders.
+[12] In September 1999, financing in the amount of $150,000 was advanced partly by way of an 18-month loan and partly by the purchase of shares held by the departing shareholders. The shares were to be repurchased over a three year period.
+[13] For approximately four months, Mr. Wall regularly made the monthly loan payments. Problems then developed.
+[14] Around March 2000, not only did the loan payments stop, but Mr. Wall abandoned the business, taking with him whatever cash it had. It was suspected that Mr. Wall had personal difficulties and that he had left the province.
+[15] Effectively, the appellant was left in the lurch as a major creditor and shareholder of Beverley. It was decided that the business should continue operating, if possible, until a buyer for Beverley could be found.
+[16] In addition, the appellant had a security interest in the shares of Beverley that were owned by Mr. Wall. The security was realized and the appellant effectively became Beverley’s sole shareholder.
+[17] Although Beverley’s owner/manager was gone, the business was able operate on a short-term basis with its other employees until a new manager could be found.
+[18] Very quickly after Mr. Wall’s disappearance, Mr. Standing located a new manager by the name of Peter Park. Mr. Park had managed a nearby trucking company that had gone out of business due to financial difficulty. Accordingly, Mr. Park was immediately available and he had experience and contacts in the trucking industry.
+[19] Mr. Park commenced to manage the business with oversight from Mr. Standing, but he was given limited authority over the finances. Mr. Standing’s signature was required on all of the cheques.
+[20] During this period, the appellant divided his time between Winnipeg and British Columbia and he had little contact with Mr. Park. However, Mr. Standing kept in fairly close contact with Mr. Park and provided the appellant with regular updates.
+[21] Shortly after these events, the appellant decided to put Beverley into bankruptcy on the advice of a lawyer at Aikens, MacAulay.
+[22] In May 2000, Beverley assigned its assets to a trustee, Joel Lazer, for distribution to its creditors pursuant to the Bankruptcy and Insolvency Act. The appellant agreed to fund the operations of Beverley during the receivership through The Seier Group Inc., an investment corporation wholly-owned by the appellant (Ex. A-12).
+[23] The receivership under Mr. Lazer continued for several months, with Mr. Park continuing to manage the business. During this period, Mr. Park expressed an interest in purchasing the business, but he did not have the money to do so. In an effort to facilitate this, the appellant agreed to purchase the business from the trustee, and he gave Mr. Park an option to purchase without requiring a firm commitment to buy.
+[24] The arrangement was implemented in the following manner. The Seier Group Inc. purchased the assets of the business from the trustee for $153,333. It is not exactly clear when the purchase took place, but it appears to be on or about October 24, 2000 when the receivership ended (Ex. A-12). The assets were then transferred by The Seier Group Inc. to the Corporation, which was a new corporation also wholly-owned by the appellant.
+[25] After this acquisition, the Corporation continued to operate the business under Mr. Park’s management.
+[26] Difficulties with the business continued after this time, with Mr. Park being diagnosed with cancer. He wished to remain active in the business, but Mr. Park’s proposed acquisition of the business was postponed.
+[27] Mr. Standing remained involved with the business post-acquisition, but his involvement was less frequent. He was attempting to extricate himself from the business, but Mr. Park preferred to contact him rather than the appellant due to his past involvement. Another factor was that the appellant was a client that had other investments with Mr. Standing.
+[28] In March 2001, the appellant received a call from the Canada Revenue Agency (the “CRA”) informing him that the Corporation was late in submitting its remittances for one or two months.
+[29] The appellant immediately called Mr. Standing who arranged a three-way meeting with Mr. Park.
+[30] At the meeting, Mr. Park indicated that there were cash flow difficulties. With respect to payroll remittances, the appellant requested that Mr. Park retain a payroll service, but Mr. Park advised him that the Corporation did not have sufficient cash flow to fund the source deductions. The appellant indicated that he would arrange a $25,000 line of credit and he did so.
+[31] There is no evidence that Mr. Park, or the appellant, took any follow up action on past or future remittances after this meeting and the remittance problem persisted. It is not known what the line of credit was used for.
+[32] The appellant heard nothing more about the remittance problem until September, 2001 when he received another call from the CRA indicating that withholdings had not been received.
+[33] An assumption in the reply refers to a letter from the CRA to the appellant dated July 4, 2001, again advising of the Corporation’s failure to remit. The appellant did not refer to this letter in his testimony and he was not cross-examined concerning this assumption. I have assumed that the appellant did not receive this communication.
+[34] Upon receiving the September 2001 call from the CRA, the appellant acted decisively. He went to the business premises himself and took charge of the situation. Upon doing so, he discovered for the first time that the Corporation’s financial records were inadequate and he took action to have that resolved. As a result of this incident, the appellant lost complete confidence in Mr. Park and Mr. Standing.
+[35] A short time after this, the Corporation’s assets were distributed to The Seier Group and were sold to a third party. The evidence does not reveal what the purchase price was.
+[36] The CRA subsequently took action to recover the outstanding liabilities against the accounts receivable of the Corporation. It appears that the assessments at issue in this appeal relate to the balance owing after the proceeds from the receivables were taken into account.
+[37] The assessed remittance failures occurred between January and October 2001 when the business was operated by the Corporation. However, the assessment under the Excise Tax Act is only for the period from May to October 2001.
+Discussion
+[38] The issue is whether the appellant exercised appropriate care as a director to prevent the remittance failures. Reproduced below is the relevant provision from the Income Tax Act, which is representative of all the relevant statutes.
+227.1(3) A director is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[39] From time to time, judges have observed that the obligation of the director is not in the nature of a guarantee. Nevertheless, directors need to take reasonable steps to prevent remittance failures.
+[40] The general principles to be applied are summarized by Sharlow J.A. in the following excerpt from Smith v. The Queen, 2001 FCA 84; 2001 DTC 5226:
+[9] The Soper decision, supra, established that the standard of care described in the statutory due diligence defence is substantially the same as the common law standard of care in Re City Equitable Fire Insurance Co., [1925] Ch. 407 (Eng. C.A.). It follows that what may reasonably be expected of a director for the purposes of subsection 227.1(1) of the Income Tax Act and subsection 323(1) of the Excise Tax Act depends upon the facts of the case, and has both an objective and a subjective aspect.
+[10] The subjective aspect of the standard of care applicable to a particular director will depend on the director’s personal attributes, including knowledge and experience. Generally, a person who is experienced in business and financial matters is likely to be held to a higher standard than a person with no business acumen or experience whose presence on the board of directors reflects nothing more, for example, than a family connection. However, the due diligence defence probably will not assist a director who is oblivious to the statutory obligations of directors, or who ignores a problem that was apparent to the director or should have been apparent to a reasonably prudent person in comparable circumstances (Hanson v. Canada (2000) 260 N.R. 79, [2000] 4 C.T.C. 215, 2000 DTC 6564 (F.C.A.)).
+[11] In assessing the objective reasonableness of the conduct of a director, the factors to be taken into account may include the size, nature and complexity of the business carried on by the corporation, and its customs and practices. The larger and more complex the business, the more reasonable it may be for directors to allocate responsibilities among themselves, or to leave certain matters to corporate staff and outside advisers, and to rely on them.
+[12] The inherent flexibility of the due diligence defence may result in a situation where a higher standard of care is imposed on some directors of a corporation than on others. For example, it may be appropriate to impose a higher standard on an “inside director” (for example, a director with a practice of hands-on management) than an “outside director” (such as a director who has only superficial knowledge of and involvement in the affairs of the corporation).
+[13] That is particularly so if it is established that the outside director reasonably relied on assurances from the inside directors that the corporation’s tax remittance obligations were being met. See, for example, Cadrin v. Canada (1998), 240 N.R. 354, [1999] 3 C.T.C. 366, 99 DTC 5079 (F.C.A.).
+[14] In certain circumstances, the fact that a corporation is in financial difficulty, and thus may be subject to a greater risk of default in tax remittances than other corporations, may be a factor that raises the standard of care. For example, a director who is aware of the corporation’s financial difficulty and who deliberately decides to finance the corporation’s operations with unremitted source deductions may be unable to rely on the due diligence defence (Ruffo v. Canada, 2000 DTC 6317 (F.C.A.)). In every case, however, it is important to bear in mind that the standard is reasonableness, not perfection.
+[41] The appellant testified that no one informed him about directors’ obligations, notwithstanding that he had received legal advice regarding this investment from Aikens MacAulay, a respected law firm.
+[42] Unless there is satisfactory evidence that a director sought advice as to his legal obligations as a director, ignorance is not sufficient to bring the director within the so-called due diligence defence. I am not satisfied from the evidence in this case that this was part of the law firm’s mandate. The fact that no advice was given suggests that it was not.
+[43] The appellant submits that he exercised appropriate due diligence by putting in place an experienced manager, Mr. Park, and by relying on Mr. Standing for oversight. It was Mr. Standing’s obligation to look after the administration of the financing, it was suggested.
+[44] In order to properly consider this argument, one must look at the circumstances in which the appellant decided to rely on others. Having done that, one must conclude that the appellant should not have presumed that Mr. Park and Mr. Standing were properly taking care of the Corporation’s obligations in regards to statutory remittances.
+[45] First, the appellant had very little first-hand knowledge of how Beverley was being operated while Mr. Park was in charge. He was not actively involved and generally relied on information from Mr. Standing. My impression from the testimony was that Mr. Standing’s reports focused on business prospects and not day to day administrative matters. Had the appellant had been more involved, he would have realized that proper financial records were not being kept under the watch of Mr. Park and Mr. Standing.
+[46] Second, the appellant should have realized that the Corporation had potential problems with statutory remittances based on a report from the trustee to The Seier Group Inc. dated December 15, 2000 (Ex. A-12).
+[47] An attachment to the report raises red flags in two areas. First, the appellant was put on notice of substantial prior source deduction failures which occurred both before and after the date of bankruptcy. The report also refers to source deduction assessments for the period to August 31, 2000 and it indicates that the trustee paid the source deductions for September.
+[48] The second problem suggested by the report is that the business may not have been generating sufficient cash flow to pay its obligations. The information in the report is not conclusive, but it suggests that the business did not have sufficient cash flow because the trustee planned to fund the remittance arrears out of the $150,000 purchase price that The Seier Group agreed to pay when it purchased the business from the trustee.
+[49] A prudent director would not ignore the warning signs that were evident in this report. The appellant suggested in his testimony that he had no reason to think there was a problem but this letter suggests otherwise.
+[50] Since the trustee’s report was sent in December, it was received in sufficient time for the appellant to take action with respect to remittances due in January. The assessment issued to the appellant does not relate to a period prior to this.
+[51] Further, the appellant submits that he took appropriate action when he learned of the remittance problem from the CRA in March. I disagree. The appellant acted quickly after the CRA contacted him by setting up a meeting with Mr. Standing and Mr. Park, but the appellant failed to take proper follow up action after that meeting to ensure that the remittance problem had been resolved.
+[52] Finally, the appellant suggests that he properly relied on Mr. Standing to provide oversight since it was his job to administer the financing.
+[53] I am not satisfied that this was a reasonable course of action.
+[54] Mr. Standing and the appellant appear to have differing views as to Mr. Standing’s role after the Corporation acquired the assets. Mr. Standing thought that his formal role ended when the assets were transferred to the Corporation and he testified that the appellant should have been aware of this. The appellant, on the other hand, saw Mr. Standing’s obligations as continuing.
+[55] I do not think it really matters whose understanding is correct. The important point is that the appellant had clear notice in December 2000 that there were potential problems with statutory remittances. It was not sufficient at that point to be passive and to rely on Mr. Standing.
+[56] The appeal will therefore be dismissed. The respondent is entitled to costs, but only in respect of appeals under the Income Tax Act and the Excise Tax Act.
+Signed at Ottawa, Canada this 6th day of October 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 495
+COURT FILE NOS.: 2006-1659(IT)G
+2006-1660(GST)G
+STYLE OF CAUSE: LORNE SEIER and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATES OF HEARING: June 29 and 30, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: October 6, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Barbara M. Shields
+Melissa Burkett
+Counsel for the Respondent:
+Ainslie Schroeder
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Barbara M. Shields
+Firm: Aikins, MacAulay & Thorvaldson LLP
+Winnipeg, Manitoba
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

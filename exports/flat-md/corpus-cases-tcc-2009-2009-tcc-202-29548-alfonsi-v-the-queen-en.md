@@ -1,0 +1,97 @@
+---
+title: "Alfonsi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29548/index.do"
+last_modified: "2009-01-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 202"
+citation2: ""
+neutral_citation: "2009 TCC 202"
+decision_date: "2009-01-13"
+language: "en"
+item_id: "29548"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6366
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:41:47.599000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "887760ac5f97a30462d667d2d122ed38d621ced74f29a4410a176be2d1c93435"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Alfonsi v. The Queen
+
+- Citation: 2009 TCC 202
+- Decision date: 2009-01-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6366, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alfonsi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-01-13
+Neutral citation
+2009 TCC 202
+File numbers
+2008-2070(GST)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Court File No. 2008-2070(GST)I
+CITATION: 2009 TCC 202
+TAX COURT OF CANADA
+IN RE: The Excise Tax Act
+BETWEEN:
+ANGELA ALFONSI
+Appellant
+- and -
+HER MAJESTY THE QUEEN
+Respondent
+* * * * *
+REASONS FOR JUDGMENT
+Delivered orally from the Bench by Justice B. Paris
+in the Courts Administration Service,
+Federal Judicial Centre, 180 Queen Street West,
+Toronto, Ontario
+on Tuesday, January 13th, 2009
+* * * * *
+APPEARANCES:
+Ms. Angela Alfonsi Self-Represented Appellant
+Mr. Thang Trieu for the Respondent
+Also Present:
+Mr. D.W. Burtnick Court Registrar
+A.S.A.P. Reporting Services Inc. © (2009)
+Suite 1105, 200 Elgin Street Suite 1800, 130 King Street West
+Ottawa, Ontario K2P 1L5 Toronto, Ontario M5X 1E3
+(613) 564-2727 (416) 861-8720
+These are the reasons for judgment in Angela Alfonsi v. The Queen, 2008-2070(GST)I.
+The Appellant is contesting an assessment of GST on rent she received from Creative Building Maintenance Inc. (“Creative”) between January and May 2006 for the lease of commercial premises located at 2205 Dunwin Drive in Mississauga. Ninety per cent of the shares of Creative were owned by a company wholly owned by Ms. Alfonsi's husband.
+Ms. Alfonsi did not charge Creative any GST on the rental payments as a result of legal advice she received from a Toronto law firm. The lease drawn up by that firm specified that the rent payable by Creative was paid non-inclusive of GST, and that Ms. Alfonsi agreed not to charge GST to Creative.
+In these proceedings, Ms. Alfonsi takes the position that it would be unfair and contrary to the intention of Part IX of the Excise Tax Act to hold her liable for GST that she did not collect on the rent charged to Creative, because Creative has gone bankrupt, and she can no longer recover the GST from it. Had Creative not gone out of business, it could have paid her the GST and claimed the input tax credit in the same amount.
+She also says that it was reasonable for her to rely on the legal advice she received that she was not required to collect GST on the rent.
+It is clear from the evidence that Ms. Alfonsi made a taxable supply of real property by way of lease to Creative, and that she was thereby obligated to collect and remit the GST in respect of the supply. The obligation is a statutory one, and cannot be contracted out of by agreeing not to collect the GST from Creative.
+The Appellant maintains that her appeal should be allowed on the grounds of fairness. Unfortunately, this Court has no equitable jurisdiction, and where the wording and provisions of the GST legislation are clear, the Court must apply those provisions. I agree with counsel for the Respondent that the inability of Creative to obtain an input tax credit is not relevant to the Appellant's obligation to collect and remit the GST in issue. Creative and the Appellant are separate parties, and the respective rights and obligations cannot be consolidated in the manner suggested by the Appellant.
+I also agree that the Appellant's reliance on legal advice is not a defence to the assessment. She was under a statutory obligation to collect and remit GST on the rents, and a mistaken belief that she was not cannot free her from that obligation.
+While I sympathize with the Appellant's position, she has not shown that the assessment is incorrect in law. The appeal must be dismissed.

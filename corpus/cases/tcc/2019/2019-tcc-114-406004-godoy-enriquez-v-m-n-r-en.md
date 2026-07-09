@@ -1,0 +1,612 @@
+---
+title: "Godoy Enriquez v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/406004/index.do"
+last_modified: "2019-05-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 114"
+citation2: ""
+neutral_citation: "2019 TCC 114"
+decision_date: "2019-05-10"
+language: "en"
+item_id: "406004"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4417
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:12:23.114000+00:00"
+cases_cited_count: 26
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d77d69e22735387559b951ff1d131f86cdcab667897f2fa79ef903a2cfc22f9f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Godoy Enriquez v. M.N.R.
+
+- Citation: 2019 TCC 114
+- Decision date: 2019-05-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4417, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Godoy Enriquez v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-05-10
+Neutral citation
+2019 TCC 114
+File numbers
+2017-3972(EI), 2017-3973(EI), 2017-3974(EI), 2017-3975(EI), 2017-3976(EI), 2017-3978(EI), 2017-3981(EI), 2017-3984(EI), 2017-3988(EI), 2017-3993(EI), 2017-3995(EI), 2017-3996(EI), 2017-3997(EI), 2017-3998(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2019 TCC 114
+Date: 20190528
+Docket: 2017‑3972(EI)
+BETWEEN:
+JUAN ANTONIO GODOY ENRIQUEZ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2017‑3973(EI)
+AND BETWEEN:
+JORGE FERNANDO BOTELLO AGUILAR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2017‑3974(EI)
+AND BETWEEN:
+JUAN DE JESUS HERNANDES SOLIS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2017‑3975(EI)
+AND BETWEEN:
+JOSUE WILDER CANTORAL URRUTA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2017‑3976(EI)
+AND BETWEEN:
+HUGO ALBERTO LOPEZ GARCIA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2017‑3978(EI)
+AND BETWEEN:
+RUDY FERNANDO ALVAREZ VASQUEZ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2017‑3981(EI)
+AND BETWEEN:
+JOAQUIN ABNER MIRANDA LOPEZ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2017‑3984(EI)
+AND BETWEEN:
+HENRY DE JESUS AGUIRRE CONTRERAS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2017‑3988(EI)
+AND BETWEEN:
+GUSTAVO ADOLFO PRADO PAREDES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2017‑3993(EI)
+AND BETWEEN:
+BANNER AUDIEL DONIS Y DONIS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2017‑3995(EI)
+AND BETWEEN:
+MARVIN ESTUARDO DIAZ PERLA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2017‑3996(EI)
+AND BETWEEN:
+ISMAEL SIMON CHUTA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2017‑3997(EI)
+AND BETWEEN:
+ERIK TANADEO LOPEZ MAYORGA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2017‑3998(EI)
+AND BETWEEN:
+EDSON VINCENT PEREZ VASQUEZ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT BY:
+Tardif J.
+[1] These appeals concern the insurability of the work the appellants performed. Since the facts are very similar, the parties agreed to proceed on common evidence for all the dockets.
+[2] The replies to the notices of appeal describe the facts retained as a basis to support the findings that gave rise to the notices of appeal. The facts in question are consistent with the evidence submitted. The facts are as follows:
+(a) The appellants are citizens of Guatemala;
+(b) The appellants were not citizens or permanent residents of Canada during the period at issue;
+(c) The appellants held a closed work permit that authorized them to work legally for a specific employer (the “work permit”);
+(d) The appellants left their job with the specific employer to go work for the payors without having their work permit changed;
+(e) The appellants and the payors made verbal agreements at Victoriaville; and
+(f) The appellants did not have a valid work permit, issued by Citizenship and Immigration Canada, to work for the payors for the periods at issue.
+[3] The appellants are from Guatemala. Faced with multiple difficulties in their country related to work shortage and very low salaries that forced them to live in extreme poverty, the appellants took steps with agencies to come work in Canada as part of a program that hires many seasonal workers, generally to work in the agri‑food industry.
+[4] The evidence was presented through the testimonies of several of the appellants and Viviana Medina, an associate at a community organization that helps and supports immigrants, specifically seasonal workers.
+[5] The evidence demonstrated that the appellants had been victims of an organization that had the ultimate goal of enriching itself at their expense. This parasitic, unscrupulous, if not criminal, organization had established a strategy that involved recruiting workers, namely including all of the appellants, by promising them a better quality of life, higher pay and the opportunity to obtain resident status quickly.
+[6] At this stage, it is important to keep in mind that this malicious organization intervened after the workers arrived but also, and most importantly, after a period of time when they had worked for an initial employer for which the work permit was issued.
+[7] Somewhat disappointed with their first experience, which did not meet their expectations, the appellants were easy prey or targets, lacking resources and support, and were completely vulnerable to the organization that recruited and solicited them by promising a significant improvement.
+[8] Given the particular context, the misleading and dishonest strategy won over the appellants, who had to work in difficult conditions, circumstances and an environment that were very different from those that had been presented to them in their country when they decided to come to Canada. Thinking they would have exceptional working conditions, they instead found that the work was difficult and that the conditions did not correspond to what they had been promised in Guatemala.
+[9] On this topic, two of the appellants stated the following:
+[translation] First witness:
+Hard work, have to move very heavy objects, reducing work hours, such as a day of more than 10 hours to a few hours per day and not every day. Lower pay than expected.
+[translation] Second witness: Gustavo Adolfo Prado Paredes
+Mistreated: Lack of water, insults and found that the working conditions were harder and more demanding than in their home country of Guatemala. Poor physical, psychological and emotional conditions.
+[10] In this context of disappointment and disillusionment, they met a man named Gordon who runs a placement agency in Victoriaville. He promised them better conditions, higher pay and a better work environment and permanent status; in other words, they were promised better work conditions that were more consistent with what they had expected when they decided to come to Canada.
+[11] Gordon told them that he would take care of all the required paperwork for Immigration Canada to update their file and ensure the work permit under which they came to work in Canada was compliant and valid.
+[12] Initially, it may be tempting to call the appellants somewhat naive, somewhat careless, or even negligent. However, considering their context and circumstances in which they did not speak the language and were vulnerable, disadvantaged, impoverished and without resources for support, it is completely inappropriate to come to that conclusion.
+[13] These individuals had one hope: the firm desire to improve their situation and that of their family. They knew nothing about the culture or the customs and, moreover, did not understand the language of the various documents they had to sign.
+[14] In this regard, as an aside, I consider it completely unacceptable to leave such seasonal workers to their own devices. It is urgent and imperative that the government establish an organization with the necessary resources to reach all seasonal workers or at least prepare an information package written in the workers’ language to help them understand their rights and obligations and to respond to seasonal workers’ problems and concerns before they arrive, upon their arrival and throughout their time in Canada.
+[15] In this case, it is clear to me that the appellants were victims of an unscrupulous organization that had the sole objective of enriching itself off the backs of disadvantaged, resourceless and completely vulnerable people.
+[16] Despite the human aspect of this case, the Court must not deviate from the real issue. The issue is as follows: the appellants worked and received pay as part of an employer‑employee relationship; are they entitled to receive employment insurance benefits?
+[17] Counsel for the appellants clearly overlooked nothing in determining and concluding that the contracts of employment were insurable. They compiled many decisions from various courts and commissions on similar issues, a number of which are nuanced by matters of humanity, compassion, sympathy and good faith.
+[18] The issue is the same for both parties, and is as follows: were the appellants engaged in insurable employment during the period at issue?
+[19] A contract of employment must exist for a person to be eligible for benefits under the Employment Insurance Act. Quebec legislation applies to the issue for the purpose of determining whether a contract of employment does indeed exist in the appellants’ case.
+[20] The relationship between the appellants and their employer qualified as a contract of employment within the meaning of article 2085 of the Civil Code of Québec. However, given that the appellants did not have a valid work permit, the validity of the contract they undertook with their employer must be examined.
+[21] If the contracts of employment are sanctioned by absolute nullity if we consider the lack of a work permit to affect the general interest, they are then considered null ab initio, and the appellants cannot receive employment insurance benefits.
+[22] However, the violation of a law alone does not necessarily render a contract absolutely null. The Immigration and Refugee Protection Act must be interpreted in this regard. It is also relevant to ask whether it is possible to take other considerations into account than the object of the statutory prohibition to determine the type of nullity involved.
+[23] There are two opposing schools of thought here. One should not clearly prevail over the other, despite a thorough examination of the concepts involved. The analysis of the legislative provisions at issue does not make it possible to conclude that they necessarily concern the general interest or only individual interests.
+I. Analysis
+[24] Employment is insurable when it is performed under a contract of service in Canada under paragraph 5(1)(a) of the Employment Insurance Act (EIA).
+[25] Therefore, the existence of a contract of employment is central to obtaining employment insurance plan benefits.
+A. Applicable law
+[26] Section 8.1 of the Interpretation Act, RSC, 1985, c. I‑21, stipulates that private law concepts must be interpreted based on the province with which the dispute under federal jurisdiction is associated. Consequently, the determination of the existence of a contract of employment in this case is made pursuant to Quebec legislation, more specifically the Civil Code of Québec (CCQ). [1]
+[27] Furthermore, the rules on private international law contained in the CCQ clearly indicate that the law applicable to a contract of employment is the law of the State where the work is performed (in the absence of a designation by the parties). [2] This confirms that Quebec legislation applies in this case, even though the appellants signed their contract of employment in Guatemala. [3]
+B. Existence of contracts of employment
+[28] The definition of a contract of employment is provided in article 2085 of the CCQ, which stipulates that it is a contract by which a person undertakes to do work under the direction or control of another person for remuneration.
+[29] The appellants did indeed perform work under the direction and control of an employer, and they were paid for their services. [4]
+[30] Consequently, the relationship between the appellants and their employer qualifies a priori for the purposes of paragraph 5(1)(a) of the EIA.
+C. Validity of the contracts of employment
+[31] However, beyond the meaning provided in article 2085 of the CCQ, a contract of employment is subject to the general formation and validity rules of contracts provided in articles 1371 to 1456 of the CCQ.
+(1) Contract formation conditions
+[32] For a contract to be validly formed in Quebec civil law, several elements are required. First, parties seeking to enter into a contract must be capable and give their free and informed consent. In addition, the contract in question must have a cause and an object (article 1385 et seq. of the CCQ).
+[33] In this case, the aspect of the validity of the contracts that is in question is the object, [5] since article 1413 of the CCQ provides that the object of a contract must not be “prohibited by law or contrary to public order.”
+[34] The object of a contract is “the juridical operation envisaged” (article 1412 of the CCQ). In this case, this is simply the appellants’ delivery of services in exchange for remuneration. [6]
+[35] Individuals who do not have Canadian citizenship or permanent resident status must obtain a work permit to work in Canada under section 30 of the Immigration and Refugee Protection Act [7] (IRPA) and section 196 of its Regulations: [8]
+IRPA
+30 (1) A foreign national may not work or study in Canada unless authorized to do so under this Act.
+Immigration and Refugee Protection Regulations
+196 A foreign national must not work in Canada unless authorized to do so by a work permit or these Regulations.
+[Emphasis added.]
+[36] A work permit associated with a specific employer (“closed” permit) is valid only for employment with the specified employer. [9]
+[37] In this case, the appellants worked for an employer that was not the one specified on their closed work permit. Therefore, the object of the appellants’ contracts of employment is contrary to the law because the IRPA clearly stipulates that the appellants could not work in Canada without a valid work permit. [10]
+[38] Therefore, one of the conditions for a contract to be considered valid was not met.
+(2) Application of the doctrine of illegality in Quebec
+[39] However, it is not disputed that a contract’s illegality does not necessarily require that it be cancelled in common law. [11] However, as previously mentioned, it is the principles of Quebec civil law that must apply, and common law cannot serve as a direct source for interpretation, especially if the civil law rules are not borrowed from the common law regime. [12]
+[40] Common law uses the “doctrine of illegality” to maintain illegal contracts in favour of a party in good faith. [13] In Still v. M.N.R., [1997] F.C.J. No. 1622 (FC, appeal division), the Federal Court of Appeal explains that it is not this doctrine, but rather the articles of the CCQ, that must be applied when a contract of employment in Quebec is being analyzed:
+[44] . . . Arguably, this Court should be applying the common law doctrine of illegality as understood and applied in each province. In theory, the legal consequences stemming from a person’s failure to obtain a work permit, as required under the Immigration Act, could be dependent on the common law of the province in which the employment contract arose. Given the bijural nature of the Federal Court, we cannot lose sight of the fact that cases originating from Quebec are to be decided under the illegality provisions found within the Civil Code of Québec. . . .
+[Emphasis added.]
+[41] In addition, the doctrine of illegality originates from a principle that has no application in Quebec civil law, that is, that the lack of precision on the consequences of the violation of a statutory prohibition is a delegation to the courts by the legislature of the power to determine what consequence is appropriate in the circumstances. [14] Civil law courts must instead first determine the legislature’s intent.
+[42] The appellants cited another notion that does not apply in civil law, the disproportionate nature of the sanction. [15] The same comments apply to that argument.
+(3) Sanction of contract formation conditions
+[43] Any contract which does not meet the necessary conditions of its formation may be annulled (article 1416 of the CCQ). Depending on the type of nullity involved—relative or absolute—the applicable rules differ.
+[44] Only absolute nullity may be invoked by the court or a person other than the contracting parties (articles 1418 and 1420 of the CCQ). A contract that is absolutely null may not be confirmed by the parties (article 1420, paragraph 2 of the CCQ).
+[45] Therefore, the fundamental question is as follows: does the illegality of the object of the contract in this case make the contract absolutely null?
+[46] Since the application of article 1413 of the CCQ arises here from an object “prohibited by law,” the type of nullity logically depends on the interests protected by the legislative provision that gives rise to its application, that is, subsection 30(1) of the IRPA and section 196 of the IRPR in this case.
+[47] Article 1421 of the CCQ presumes that a contract that does not meet the necessary conditions of its formation is relatively null unless the nature of the nullity is clearly indicated in the law.
+[48] This article establishes a simple presumption in favour of relative nullity, which may be overturned if there are enough elements in favour of absolute nullity. [16] Qualifying the type of nullity is therefore a necessary exercise, even when the law does not expressly provide for which type applies, and the presumption in article 1421 of the CCQ must be applied when doubt remains. [17]
+[49] A contract is absolutely null where the condition of formation sanctioned by its nullity is necessary for the protection of the general interest, as opposed to the protection of an individual interest (articles 1417 and 1419 of the CCQ).
+(a) Notion of general interest
+[50] Civil jurisprudence on the notion of general interest does not provide extensive detail on the concept. [18] Decisions often simply reiterate that these rules concern the provisions that protect “public, as opposed to merely private, interest”, [19] which implies examining whether the legislature [translation] “intended to protect a limited group of individuals or promote the well‑being of society”. [20]
+[51] The Minister of Justice made the following statements on the concept of general interest provided in article 1417 of the CCQ when the Civil Code of Québec was adopted. Note that the terms “general interest” and “public order” do not have the same meaning, even though they tend to be used interchangeably:
+[translation]
+Absolute nullity sanctions a condition of formation that concerns the general interest, that is, what is for the public good, for the benefit of all.
+While the notion of public order is closely related to the notion of general interest, in that both sanction contracts that violate them as null, they are not interchangeable, and the former has a broader scope than the latter.
+Only political public order and directive economic public order fall within the notion of general interest.
+Political public order is dedicated to defending the essential institutions of society: Government, Family and Morality.
+Directive economic public order is concerned with the direct regulation of the exchange of wealth and services to ensure the implementation of a directed economic policy.
+The notion of public order cannot be substituted for the notion of general interest without specifying as needed the nature of the public order in question.
+[Emphasis added.]
+[52] Consequently, it must be determined whether a provision falls within political public order or directive economic public order for the purposes of deciding whether it applies in order to protect the general interest.
+[53] The decision Fortin v. Chrétien, 1998 CanLII 12628 (QCCA) (aff’g. 2001 SCC 45), contains the following more detailed remarks on directive public order:
+[translation]
+Generally associated with political and moral public order is legislation regarding the administration of justice, the laws regarding the organization of the State, administrative and fiscal laws, laws regarding the organization of professional bodies, penal statutes, labour laws and charters of fundamental rights and freedoms. The parties cannot circumvent or contract out of it, and a contract purporting to do so is absolutely null. Thus, if an individual is illegally practising the profession of architect, physician or lawyer, not only is the violator subject to penal sanctions, but the contract based on a violation of the law is deemed null and invalid.
+Within directive economic public order, the jurisprudence and doctrine include the texts and decisions that seek to impart upon the behaviours of individuals a given public, social or economic direction. These are therefore, above all, rules established in the interest of society as a whole and its sound government and that relate more, though not exclusively, to the collective interest.
+[Emphasis added.]
+[54] Therefore, directive public order aims to protect [translation] “all the institutions that form the basis of the rules of the game in society”. [21]
+[55] A priori, either of the categories concerned by directive public order could apply. An interpretation of the provisions at issue is necessary to reach a conclusion.
+(b) Interpretation of the object of the provisions at issue
+[56] It is relevant to determine whether the object of the IRPA as a whole must be interpreted for the purposes of this case or the provisions giving rise to the object of the prohibition.
+[57] Sometimes decisions consider entire acts to be intended to protect public order, [22] while sometimes only specific provisions are subject to such interpretation. [23]
+[58] Since article 1417 of the CCQ refers to “the condition of formation sanctioned” and not to the law in general, it seems more logical to focus the analysis on the object of subsection 30(1) of the IRPA and section 196 of the IRPR and use the object of the entire legislation only to interpret these provisions.
+[59] The starting point for any interpretation of the nature of a legislative provision is generally to check whether the courts have already examined the matter.
+(i) Previous decisions
+[60] The parties submitted the two opposing lines of jurisprudence.
+[61] On one hand, there are decisions that consider the IRPA provisions as being of public order. On the other, some decisions considered that the violation of section 18 of the Immigration Regulations, 1978, which is the equivalent of section 196 of the IRPR, did not automatically affect the general interest. [24]
+(ii) Line against the appellants’ position
+[62] A series of Court decisions considered the interests protected by the IRPA to be of directive public order and that a contract of employment exercised by a foreign national without a valid work permit must be sanctioned by absolute nullity: Isidore v. M.N.R., [1997] T.C.J. No. 463, paragraph __; Saad v. M.N.R., [1997] T.C.J. No. 644 (TCC), paragraph 8; Amer v. M.N.R., [1999] T.C.J. No. 213 (TCC), paragraphs 19–20; Mia v. M.N.R., [2001] T.C.J. No. 199 (TCC), paragraphs 16–18; Coicou v. M.N.R., 2008 TCC 628, paragraph 44.
+[63] These decisions are based primarily on an excerpt from the doctrine of Baudouin and Jobin stating that [translation] “the unlawful nature of the object is penalized by absolute nullity since public order is at stake”. [25] This is no longer what the author states when referring to the illegality of the object of a contract: [translation] “if the law expressly forbids a certain contract from being entered into, the contract will be null. But if the law merely prohibits a certain activity or factual situation on pain of penal or administrative sanction, the situation is less clear: as previously seen, it is sometimes better to opt for a less draconian sanction than pure and simple nullity or perhaps not to impose any civil sanction”. [26]
+[64] Decisions in this line also explain that they consider the general interest to be at play because the Immigration Act, RSC, c. I‑2 (repealed by SC 2001, c. 27) was intended to regulate who can enter and reside in Canada. [27] In this regard, they generally cite the following excerpt of Saravia v. 101482 Canada Inc., [1987] Q.L.R. 2658 (P.C. Que.): “the Immigration Act, 1976 is a statute of public order, and a contract, knowingly or not, made in breach of one or many of its sections will be void and null.”
+[65] Saravia is a Provincial Court decision dating back thirty years. It obviously is not binding on the Tax Court of Canada. It is based primarily on the decision Pauzé v. Gauvin, 1954 S.R.R. 15, in which the Supreme Court wrote that all contracts made in violation of a provision of public order (the Architects Act in that case) are absolutely null.
+[66] Perhaps the law is not as set in stone as it at first appears. Moreover, that decision has rarely been cited by decision‑makers other than the Tax Court of Canada, and always by lower courts when it was. [28]
+[67] Conversely, there are a number of decisions that consider that public order is not involved and that civil law must apply in the same manner that common law applies in circumstances similar to those of the appellants: Haule v. M.N.R., [1998] T.C.J. No. 1079 (TCC); [29] Luzolo v. M.N.R., [1999] T.C.J. No. 822 (TCC), paragraphs 14–16; Lessuru v. M.N.R., 1998 CanLII 377 (TCC), [30] Garneau v. M.N.R., 2006 TCC 160, paragraph 58 (in obiter).
+[68] These decisions emphasize the fact that public interest is not affected in particular circumstances where an appellant is in good faith instead of examining whether the prohibition in the Immigration Act is intended to protect the general interest.
+[69] They are consistent with a certain line of administrative decisions of the Commission des lésions professionnelles du Québec, where contracts of employment that violate IRPA provisions are no longer always deemed absolutely null. They also consider the purpose of the laws the parties are seeking to have applied (such as the AIAOD provision intended to compensate victims of industrial accidents). [31]
+[70] The comparison with these decisions is relevant because they also examine precisely the question of the effect of an invalid permit on the existence of a contract of employment. In addition, the definition of the term “employment” in the Act respecting industrial accidents and occupational diseases, CQLR, c. A‑3.001, section 2, is similar to that provided in the EIA. [32]
+[71] However, it is surprising that these decisions directly apply Still without raising the distinction between civil law and common law, aside from mentioning that because the Commission is not a superior court, it does not have jurisdiction to rule on a contract’s nullity and must give it full effect until it is declared null. [33]
+[72] The appellants consider Haule to be based on Quebec civil law because the Court cites CCQ [34] provisions, but that is not clear upon reading the reasons for decision. They also argue that Luzolo applies because the judge finds that civil law does not depart prima facie from common law. [35] This argument is difficult to accept because the equality of civil law and common law means that the Quebec contract law regime does not have to “depart” from common law to apply distinctly.
+(iii) Analysis of the text
+[73] Another important indicator is in the wording of subsection 30(1) of the IRPA and subsection 196(1) of the IRPR, that is, the use of the prohibitive form. When a provision is written in the form of a prohibition, that can denote the presence of interests broader than those of individuals. [36] The Interpretation Act, CQLR, c. I‑16, section 41.3, provides that prohibitive laws entail nullity. This is a reproduction of section 13 of the Civil Code of Lower Canada. [37] This provision was superseded in the Interpretation Act and removed from the Civil Code. Although it is generally inappropriate to use a provincial interpretation act to interpret laws enacted by Parliament, the interrelation between the Civil Code and the Interpretation Act makes it difficult to ignore this rule.
+[74] According to a Quebec Court of Appeal decision, [translation] “that presumption may be rebutted where it appears that the legislature’s objectives in enacting the prohibition require that the nature, circumstances and effects of that juridical operation be examined”. [38] Some authors also state that this rule of interpretation [translation] “must yield when it is clear that the objectives of the legislature, when enacting any prohibition, do not require or would even be served by, the nullity of the contract that violates the rule” since it is simply one rule of interpretation among others. [39] In short, the use of the prohibitive form does not create an absolute presumption that a provision was enacted in the general interest, but it can be useful in this regard.
+[75] Since the text itself does not definitively favour one side, it is necessary to refer to the rest of the Act and its context to determine whether the object of the provision concerns the general interest.
+(iv) Provisions illustrating the legislature’s objective
+[76] The IRPA stipulates its objective at section 3: [40]
+3 (1) The objectives of this Act with respect to immigration are
+(a) to permit Canada to pursue the maximum social, cultural and economic benefits of immigration;
+(b) to enrich and strengthen the social and cultural fabric of Canadian society, while respecting the federal, bilingual and multicultural character of Canada;
+(b.1) to support and assist the development of minority official languages communities in Canada;
+(c) to support the development of a strong and prosperous Canadian economy, in which the benefits of immigration are shared across all regions of Canada;
+(d) to see that families are reunited in Canada;
+(e) to promote the successful integration of permanent residents into Canada, while recognizing that integration involves mutual obligations for new immigrants and Canadian society;
+(f) to support, by means of consistent standards and prompt processing, the attainment of immigration goals established by the Government of Canada in consultation with the provinces;
+(g) to facilitate the entry of visitors, students and temporary workers for purposes such as trade, commerce, tourism, international understanding and cultural, educational and scientific activities;
+(h) to protect public health and safety and to maintain the security of Canadian society;
+(i) to promote international justice and security by fostering respect for human rights and by denying access to Canadian territory to persons who are criminals or security risks; and
+(j) to work in cooperation with the provinces to secure better recognition of the foreign credentials of permanent residents and their more rapid integration into society.
+(2) The objectives of this Act with respect to refugees are
+(a) to recognize that the refugee program is in the first instance about saving lives and offering protection to the displaced and persecuted;
+(b) to fulfil Canada’s international legal obligations with respect to refugees and affirm Canada’s commitment to international efforts to provide assistance to those in need of resettlement;
+(c) to grant, as a fundamental expression of Canada’s humanitarian ideals, fair consideration to those who come to Canada claiming persecution;
+(d) to offer safe haven to persons with a well-founded fear of persecution based on race, religion, nationality, political opinion or membership in a particular social group, as well as those at risk of torture or cruel and unusual treatment or punishment;
+(e) to establish fair and efficient procedures that will maintain the integrity of the Canadian refugee protection system, while upholding Canada’s respect for the human rights and fundamental freedoms of all human beings;
+(f) to support the self-sufficiency and the social and economic well-being of refugees by facilitating reunification with their family members in Canada;
+(g) to protect the health and safety of Canadians and to maintain the security of Canadian society; and
+(h) to promote international justice and security by denying access to Canadian territory to persons, including refugee claimants, who are security risks or serious criminals.
+(3) This Act is to be construed and applied in a manner that
+(a) furthers the domestic and international interests of Canada;
+(b) promotes accountability and transparency by enhancing public awareness of immigration and refugee programs;
+(c) facilitates cooperation between the Government of Canada, provincial governments, foreign states, international organizations and non-governmental organizations;
+(d) ensures that decisions taken under this Act are consistent with the Canadian Charter of Rights and Freedoms, including its principles of equality and freedom from discrimination and of the equality of English and French as the official languages of Canada;
+(e) supports the commitment of the Government of Canada to enhance the vitality of the English and French linguistic minority communities in Canada; and
+(f) complies with international human rights instruments to which Canada is signatory.
+[Emphasis added.]
+[77] The section on sanctions reads as follows:
+124 (1) Every person commits an offence who
+(a) contravenes a provision of this Act for which a penalty is not specifically provided or fails to comply with a condition or obligation imposed under this Act;
+(b) escapes or attempts to escape from lawful custody or detention under this Act; or
+(c) employs a foreign national in a capacity in which the foreign national is not authorized under this Act to be employed.
+(2) For the purposes of paragraph (1)(c), a person who fails to exercise due diligence to determine whether employment is authorized under this Act is deemed to know that it is not authorized.
+(3) A person referred to in subsection 148(1) shall not be found guilty of an offence under paragraph (1)(a) if it is established that they exercised all due diligence to prevent the commission of the offence.
+125 A person who commits an offence under subsection 124(1) is liable
+(a) on conviction on indictment, to a fine of not more than $50,000 or to imprisonment for a term of not more than two years, or to both; or
+(b) on summary conviction, to a fine of not more than $10,000 or to imprisonment for a term of not more than six months, or to both.
+[Emphasis added.]
+[78] The definition of the term “work” and subsection 8(1) of the IRPR [41] read as follows:
+2 The definitions in this section apply in these Regulations.
+work means an activity for which wages are paid or commission is earned, or that is in direct competition with the activities of Canadian citizens or permanent residents in the Canadian labour market.
+8 (1) A foreign national may not enter Canada to work without first obtaining a work permit.
+[Emphasis added.]
+[79] The section of the Regulations on work permits relates more to other elements, such as the effects of hiring a foreign national:
+203 (1) On application under Division 2 for a work permit made by a foreign national other than a foreign national referred to in subparagraphs 200(1)(c)(i) to (ii.1), an officer must determine, on the basis of an assessment provided by the Department of Employment and Social Development, of any information provided on the officer’s request by the employer making the offer and of any other relevant information, if
+(a) the job offer is genuine under subsection 200(5);
+(b) the employment of the foreign national is likely to have a neutral or positive effect on the labour market in Canada;
+. . .
+(3) An assessment provided by the Department of Employment and Social Development with respect to the matters referred to in paragraph (1)(b) shall, unless the employment of the foreign national is unlikely to have a positive or neutral effect on the labour market in Canada as a result of the application of subsection (1.01), be based on the following factors:
+(a) whether the employment of the foreign national will or is likely to result in direct job creation or job retention for Canadian citizens or permanent residents;
+(b) whether the employment of the foreign national will or is likely to result in the development or transfer of skills and knowledge for the benefit of Canadian citizens or permanent residents;
+(c) whether the employment of the foreign national is likely to fill a labour shortage;
+(d) whether the wages offered to the foreign national are consistent with the prevailing wage rate for the occupation and whether the working conditions meet generally accepted Canadian standards;
+(e) whether the employer will hire or train Canadian citizens or permanent residents or has made or has agreed to make, reasonable efforts to do so;
+(f) whether the employment of the foreign national will or is likely to adversely affect the settlement of any labour dispute in progress or the employment of any person involved in the dispute; and
+(g) whether the employer has fulfilled or has made reasonable efforts to fulfill any commitments made, in the context of any assessment that was previously provided under subsection (2), with respect to the matters referred to in paragraphs (a), (b) and (e).
+[Emphasis added.]
+[80] In addition to accounting for the authenticity of the offer of employment [42] and the provision of a decent wage, other provisions are specifically intended to protect foreign workers, such as: [43]
+196.1 A foreign national must not enter into an employment agreement, or extend the term of an employment agreement, with an employer
+(a) who, on a regular basis, offers striptease, erotic dance, escort services or erotic massages; or
+(b) referred to in any of subparagraphs 200(3)(h)(i) to (iii).
+196.2 For the purpose of this Part abuse consists of any of the following:
+(a) physical abuse, including assault and forcible confinement;
+(b) sexual abuse, including sexual contact without consent;
+(c) psychological abuse, including threats and intimidation; and
+(d) financial abuse, including fraud and extortion.
+209.2 (1) An employer who has made an offer of employment to a foreign national referred to in subparagraph 200(1)(c)(ii.1) must comply with the following conditions:
+(a) during the period of employment for which the work permit is issued to the foreign national,
+(i) the employer must be actively engaged in the business in respect of which the offer of employment was made, unless the offer was made for employment as a live-in caregiver,
+(ii) the employer must comply with the federal and provincial laws that regulate employment, and the recruiting of employees, in the province in which the foreign national works,
+(iii) the employer must provide the foreign national with employment in the same occupation as that set out in the foreign national’s offer of employment and with wages and working conditions that are substantially the same as—but not less favourable than—those set out in that offer, and
+(iv) the employer must make reasonable efforts to provide a workplace that is free of abuse; . . .
+[Emphasis added.]
+(v) Legislative history and Parliamentary debates
+[81] The history of immigration laws is particularly interesting in terms of the objectives behind the provisions being examined.
+[82] The adoption of the first immigration act dates back to the beginning of Confederation. [44] Fortunately, it is unnecessary to look at all of the laws adopted by Canadian Parliament since 1867, because the implementation of specific rules mandating that all foreign nationals have a work permit to work in the country date back to 1973. [45] Prior to that amendment, the system for entering Canada was simply based on obtaining a visa. The visa application had to be justified by one of the reasons listed in the law (namely certain specific temporary jobs). [46]
+[83] The addition of the requirement to have a work permit originated in a context of an increase in the unemployment rate. [47] The measure was intended to [translation] “ensure that, wherever possible, vacant jobs are offered by preference to Canadians”. [48] The addition to the Regulations read as follows:
+3D(2) Where an issuing officer receives an application for an employment visa, he shall issue the employment visa unless
+(a) it appears to him from information provided by the national employment service that
+(i) a Canadian citizen or permanent resident qualified for the employment in which the applicant wishes to engage in Canada is willing and available to engage in that employment and, in the case of a person other than a self-employed person, there is no reason to believe that the prospective employer will not, for a reason relating to the nature of the employment, accept a Canadian citizen or permanent resident for such employment,
+(ii) a lawful strike is in progress at the place where the applicant wishes to engage in employment and the employment in which the applicant wishes to engage would normally be carried on by a person who is on strike, or
+(iii) a labour dispute or disturbance other than a lawful strike is in progress at the place of employment and the chances of settling the dispute or disturbance are likely to be adversely affected if the applicant engages in employment at that place; or
+(b) the applicant has violated the conditions of any employment visa issued to him within the preceding two years.
+[84] The Immigration Act, 1976, 30th Parl., 2nd sess., c. 52, page 1193, and the Immigration Regulations, 1978, SOR/78‑172, Can. Gaz. II, vol. 112, no. 5, March 8, 1978, page 757, that preceded the current legislation contained essentially the same prohibition on working without a permit. One of the criteria for granting a permit was that the authorization could not “. . . adversely affect employment opportunities for Canadian citizens or permanent residents in Canada” [49] or affect pending work conflicts.
+[85] Therefore, it seems to be relatively consistent that the prohibition on work by foreign nationals without a permit is intended primarily to protect job opportunities for Canadian citizens and to prevent collective bargaining from being obstructed by the hiring of foreign nationals. Conversely, the provisions concerning the protection of temporary workers appeared over time. [50]
+[86] It is also relevant to note that the former objectives of section 3 of that Act included [translation] “to maintain and ensure health, safety and public order in Canada” and that “public order” has been eliminated from the new IRPA. [51] However, if we consider all of the provisions concerning the object of the Act as well as other indicators, such as the definition of the term “work” and the requirements for granting a work permit, it would likely be an overstatement to argue that the legislature necessarily disassociated itself from the general interest by this removal from the new immigration act.
+[87] Parliamentary debates on the adoption of the current Act and the clause-by-clause analysis of the bill that led to its adoption [52] do not contain very explicit information for the purposes of interpreting section 30 of the IRPA. [53] It seems that the matter of permits was not as important of an issue as other questions related to immigration at the time the new Act was adopted.
+(vi) 3.2.5 Discussion
+[88] Firstly, the objectives listed by the legislature do not seem to concern individual interests (except for those of refugees), but rather national interests, such as preserving security and the economy.
+[89] However, one of the objectives stated in paragraph 3(3)(f) of the IRPA merits particular attention. That paragraph explains that the interpretation of the IRPA must have the effect of ensuring that Canada “complies with international human rights instruments to which Canada is signatory.”
+[90] Internal legislation is not subordinated to international instruments, [54] but the Supreme Court considered various treaties to arrive at a narrower interpretation of the IRPA in light of paragraph 3(3)(f) in B010 v. Canada (Citizenship and Immigration), 2015 SCC 58, at paragraphs 49–50. [55] According to the Federal Court of Appeal, paragraph 3(3)(f) “gives rise to a presumption that the legislation should be interpreted in a manner consistent with Canada’s international obligations”. [56]
+[91] Canada is part of the International Covenant on Economic, Social and Cultural Rights, [57] UN, G.A., res. 2200 A (XXI), December 16, 1966, of which article 9 states that “The States Parties to the present Covenant recognize the right of everyone to social security, including social insurance.” The term “social insurance” is not defined in the Covenant, but according to the Petit Robert, it is insurance that [translation] “protects workers and claimants against illness, workplace accidents and unemployment (see Social security)”. [58]
+[92] The Universal Declaration of Human Rights, UN, G.A., res. 217 A (III), December 10, 1978, also provides at article 25 that: “(1) Everyone has the right to . . . security in the event of unemployment . . .”. [59]
+[93] However, Canada did not ratify the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families, [60] UN, G.A. res. 45/158, December 18, 1990, which provided a similar, but more specific, right to migrant workers by giving them equality of treatment with nationals of the State of employment in respect of unemployment benefits at article 54. The government did not officially explain the reasons for its refusal, but there is no indication that the intention was to restrict the rights of migrant workers.
+[94] For a number of years, Canada has experienced such a shortage of agricultural workers that entire harvests are at risk of being lost because of a lack of availability of workers interested in the task. Businesses concerned about potential significant losses have urged the authorities to facilitate, support and encourage the entry of migrant workers.
+[95] They are a beneficial and critical human resource for both the economy and the greater good of all Canadians. General and public interest are certainly at stake; they are fighting for the entry of migrant workers and not to exclude or discourage them. This is a matter of general interest for Canadian society.
+[96] To return to the more general objective of the provisions being examined, the laws related to restricting competition [61] and managing the economy [62] are generally considered to pertain to the general interest. The provisions being examined limit foreign competition in the labour market and thus reduce the risks of an increase in the unemployment rate, which could be related to directive economic public order. However, the reality is, and has been, completely different for several years.
+[97] The work permit system also indirectly aims to determine whether a foreign national can enter the country for certain purposes (subsection 8(1) of the IRPR). Nevertheless, restrictions must be placed on foreign workers, namely to protect Canadian workers.
+[98] Canadian workers must be vigilant to potential bad faith tactics employers use during work conflicts. In this case, this aspect or dimension is not at all at issue.
+[99] However, it is clear that reducing unemployment is logically related to the Canadian economy.
+[100] Nevertheless, the Supreme Court determined that only protective public order was affected by the general provisions of the Civil Code of Québec [63] since they are intended to protect a specific group and since the legislature did not include the same exception prohibition in its rules as in other labour laws. [64] The provisions concerning collective bargaining were also considered as being intended to restore the balance of power between the parties, which also tends toward the qualification of protective public order. [65]
+[101] Thus, there is some latitude in determining the nature of a law intended to protect the interests of workers.
+[102] The requirement of a work permit also protects the individual interests of foreign workers to some extent by prohibiting certain degrading jobs and overseeing the authenticity of job offers before they arrive to prevent their exploitation. Once again, these can also be considered provisions that protect moral public order, because they prevent immoral behaviour, such as exploitation and violence against workers. [66] The difference in the wording of section 196 and section 196.1 of the IRPR could also indicate that Parliament wanted to make only certain contracts absolutely null, as mentioned previously.
+[103] Therefore, a law can protect both individual and general interests. Is that the case here? In Garcia Transport Ltée v. Royal Trust Co., [1992] 2 SCR 499, page 526, the Court qualified the provision being examined as being of protective public order even though it found that it was intended to “promote the economic health of society in general.” Contrary to this position, according to the Supreme Court, the legislation on professional bodies pertains to directive public order, even though in principle it protects a specific group (that is, their client), [67] though the reasoning used also originates from the time before the CCQ. In fact, the Civil Code of Lower Canada did not make a clear distinction between relative and absolute nullity, [68] which led the Courts to make their own distinctions between directive and protective public order, which clearly influenced the legislature in preparing the new Code. [69]
+[104] Since neither the Court of Appeal nor the Supreme Court drew definitive conclusions on the question of the impact of a plurality of interests affected by a law, the debate remains open to authors.
+[105] The solution from authors that I consider to be the most appropriate is that of Luelles and Moore, which is that the response [translation] “depends on the preponderance of the interest protected”. [70] Several authors argue that when [translation] “the two principles are present in equal measure, precedence must be given to directive public order because general interest takes precedence over individual interests”, [71] but note that this position ignores the presumption of relative nullity in article 1421 of the CCQ. [72]
+[106] Lastly, the existence of penal sanctions if a person violates a provision is an indicator of an objective of public order, [73] but not necessarily of directive public order. [74] This indicator is therefore more or less revealing, even though it is sometimes used to reinforce an interpretation.
+(c) The use of elements external to the object of the prohibition to qualify the nullity
+[107] It is useful to determine whether the general interest protected can be evaluated based on other considerations than the object of the prohibition, even though the doctrine of illegality as such does not apply in Quebec.
+[108] One of the primary differences between the two lines of doctrine on the effects of an employment contract’s invalidity is in the interpretation of what constitutes general interest. In one case, the provision is evaluated in the abstract, whereas in the other, it is evaluated according to the factual situation emerging from the evidence. Consequently, without applying common law principles, it is relevant to determine whether civil law always limits the analysis to determining the nature of public order of the legislative provisions at issue or whether it is also necessary to determine whether a violation of the provisions is contrary to public order in the particular case of the appellants.
+[109] Alternatively, one could also see this type of interpretation as a balance of the various public orders at play. One may wonder whether the public order objective protected by a law can yield to that protected by a different law since the general interest would be better protected in that case. In this case, it would have to be determined whether the object of protecting the Canadian economy (and/or Canadian workers) can be set aside in favour of protecting the social rights of the appellants. [75]
+[110] Although, in principle, the application of civil law is stricter than common law, and it is not for the judge to intervene in the legislature’s decisions, the fact remains that the notion of “general interest” intentionally leaves vast room for judicial interpretation.
+[111] It is obvious, even common knowledge, that the thousands of foreign agricultural workers do not present a threat or obstruction to the rights of Canadian workers.
+[112] On the contrary, these workers are an asset, an enrichment, and even a fundamental necessity to the stability and development of Canada’s agri‑food industry.
+[113] For many years now, foreign seasonal workers have been closely associated with numerous harvests. Without them, several farmers would experience enormous losses because of the massive shortage of Canadian workers. Thus, the situation evolved, and several changes merit deep reflection so that foreign agricultural workers are considered a critical component that in no way harms Canadian workers, but rather, is an asset to the maintenance and development of the Canadian economy. Therefore, I conclude that the general interest that could give rise to absolute nullity is not at stake. On the contrary, the general interest strongly supports the appellants’ case.
+[114] The wording of article 1417 of the CCQ regarding absolute nullity is not written in a manner that precludes any consideration other than that of the interest the provision protects, thus creating a prohibition, even though that is how many decisions [76] and several authors [77] concretely apply it.
+[115] In fact, the legislature chose to write that absolute nullity arises “where the condition of formation sanctioned by its nullity is necessary for the protection of the general interest” or where “la condition de formation du contrat qu’elle sanctionne s’impose pour la protection de l’intérêt général” in French. [Emphasis added.]
+[116] The common meaning of the English and French versions [78] opens the door to what one considers if general interest is indeed affected in certain specific circumstances. The legislature could have written that absolute nullity arises when the condition of formation of the contract “concerns” or “has the objective of” the general interest, which would have limited the analysis strictly to the objective of the provision and created a prohibition.
+[117] Since the new legislation essentially reiterates the distinction the case law had made to nuance the impact of non‑compliance with the law on the type of nullity involved, it is not unreasonable to conclude that the legislature wanted to give the judge some discretion.
+[118] Complying with the obligation to have a work permit to work in Canada is imposed to protect the general interest. In this regard, I reiterate that the appellants had obtained a permit and that the rights and obligations set out in their contract of employment were certainly defined; however, I do not find that the sanction should be equivalent to that in the event that they had not obtained any permit. They had the permit but did not comply with the conditions relating to the employer.
+[119] The good faith of the appellants and the fact that they were misled were alleged [79] to urge the Court not to deem the contract of employment between the appellants and their employer absolutely null.
+[120] The Court of Appeal [80] expressed an openness in stating the following:
+[translation] “Although articles 1411 and 1413 of the CCQ and section 41.3 of the Interpretation Act stating that ‘[p]rohibitive laws entail nullity, even if nullity is not pronounced therein’ create a presumption of the invalidity of a juridical operation that contravenes a prohibitive law, that presumption may be rebutted where it appears that the legislature’s objectives in enacting the prohibition require that the nature, circumstances and effects of that juridical operation be examined.”
+[Emphasis added.]
+[121] However, it must be noted that the Supreme Court did not cite this part of the Court of Appeal’s reasons, even though it upheld its decision. Another decision of that same court used the same reasoning, Madill v. Succession Vilon, 1987 CanLII 526 (QCCA), [81] but it predates the current CCQ, and the rules on nullity were different at that time, as previously mentioned.
+[122] Another Supreme Court judgment could support the appellants’ interpretation. In Côté v. Rancourt, 2004 SCC 58, the Court, seeking to determine the type of nullity affecting a contract with a lawyer in a conflict-of-interest situation despite the prohibition provided in the Act respecting the Barreau du Québec and the Code of Professional Conduct of Lawyers, explains as follows:
+9 The law governing conflicts of interest calls for a more nuanced analysis. The interests in conflict may involve either general public order or protective public order. The nature of the interest at stake will have an impact on the relief that may be ordered by a court. Not every breach of the duty of loyalty will automatically entitle the aggrieved party to annulment of the contract, to a refund of the professional fees or to damages.
+10 Clearly, the statutory provisions governing the organization of professional corporations and the exclusive right to practice those professions are, in principle, matters of general political public order (Fortin v. Chrétien, [2001] 2 S.C.R. 500, 2001 SCC 45 (CanLII), at paras. 20-21). An aggrieved party will have a civil action for a violation of those provisions, based on the absolute nullity of the contract that is vitiated by that violation. However, not all regulatory provisions made under the laws governing professions are of equal importance, and the sanctions for violating them must be tailored to fit the prohibition on which that party relies and the circumstances of each case.
+11 In the case of the prohibition against conflicts of interest, we must analyse the nature of the conflict in order to characterize the violation. In some situations, the integrity of the judicial system is at stake, while in others the only interests in play are those of the parties (M. Proulx and D. Layton, Ethics and Canadian Criminal Law (2001), at p. 287). Thus when a lawyer simultaneously represents two co-accused who are facing related criminal charges and whose interests are adverse, he or she cannot provide both clients with the assistance to which they are constitutionally entitled. The reliability of the verdict takes on an importance that prevails over the private interests of the clients. Respect for the integrity of the criminal justice system derives, first and foremost, from the reliability of verdicts. The protection of the integrity of the justice system is necessarily a part of general public order. A contract that violates general public order is absolutely null (art. 1417 of the Civil Code of Québec, L.Q. 1991, c. 64 (“C.C.Q.”)) and may not be confirmed (art. 1418 C.C.Q.).
+13 In MacDonald Estate v. Martin, 1990 CanLII 32 (SCC), [1990] 3 S.C.R. 1235, this Court developed rules allowing a firm of professionals to continue representing a client despite the existence of a conflict of interest. There is an infinite variety of possible conflicts. It will sometimes be possible to reconcile the various interests in play, including the right to retain counsel of one’s choice. Mere disclosure, followed by waiver (s. 3.06.08 of the Code of ethics) or confirmation (art. 1423 C.C.Q.), may sometimes be sufficient when only the interests of the parties are at stake. Where the facts giving rise to the conflict have not been discussed and the case is one in which confirmation is possible, the judge must analyse the conflict in order to determine its nature and decide what remedy, if any, should be applied. . . .
+16 Based on these facts, we must conclude that no interest higher than the interests of the parties themselves was at stake. This is not a conflict of interest such as would render the contract for services between Côté and Rancourt absolutely null. The only possibilities are that the contract was relatively null at the time it was formed or there was contractual fault in its performance.
+[Emphasis added.]
+[123] Therefore, it is not unprecedented to consider whether the violation of a public order prohibition is contrary to the general interest in the concrete circumstances presented to the judge and if the prohibition “is necessary” for the protection of the general interest in light of the specific facts of the case.
+[124] With regard to considering the good or bad faith of the parties more specifically, the Quebec Court of Appeal has rendered decisions of varying nature.
+[125] In Douville v. Société hypothécaire B.N.E., 1996 CanLII 6479 (QCCA), provisions of protective economic public order providing for the release of the debtor in certain circumstances were applied by the Quebec Court of Appeal despite the debtor’s bad faith. The Court found that [translation] “since they are public order provisions, it seems that the courts have no discretion as to their application.”
+[126] The particular circumstances are considered relevant to qualify the type of nullity involved in the case of a defect of consent to a marriage, which would affect general interest in only a few cases. For example, general interest would be affected if the sole purpose was to obtain Canadian citizenship without living together with the spouse. [82]
+[127] The Tax Court of Canada has also rendered decisions in this line. In Durocher v. The Queen, 2015 TCC 297 (appeal dismissed 2016 FCA 299), the Court had to determine whether a unanimous shareholders agreement that violated a provision of the Securities Act had to be deemed absolutely null. Former Chief Justice Rip stated the following to safeguard an agreement made in good faith:
+59 In her article on sanctions associated with laws of public order, Michelle Cumyn summarizes Professor Jobin’s position well as follows:
+[translation]
+When the prohibition specifically targets a particular contract, the trade of a particular non-conforming good or the provision of a particular service without the required authorization, the contract must be considered null. On the other hand, when the legislature has merely imposed certain duties on a person subject to a sanction, it is not relevant to apply nullity. In the first case, the contract would directly violate the law, and in the second, there would be an indirect violation.
+60 Professor Jobin also gives the example that [translation] “it is one thing to prescribe, subject to a fine, that all dwellings must have at least two exits, and completely another to defend renting an apartment that does not have two exits.”
+61 Jean Pineau, Danielle Burman and Serge Gaudet also defend Professor Jobin’s opinion that [translation] “if the legislature does not provide specific directions on the fate of the contract, should there be a violation of the law, one must question whether the objectives of the standard require the contract to be nullified. The presumption of nullity under section 41.3 of the Interpretation Act is merely a guide.”
+62 For example, a law may very well dictate that all cars must have a legible serial number, without necessarily leading to the conclusion that the sale of a vehicle is null if there is no serial number or if the number is not legible.
+63 Moreover, Michelle Cumyn writes that in analyzing whether to apply absolute nullity, one should ask if, on the one hand, this sanction is necessary to ensure compliance with the law, while considering, on the other hand, the disadvantages likely to result from the sanction of nullity for the parties and certain third parties. She adds that when a monitoring authority is responsible for enforcing the law, and the authority has a variety of preventive sanctions at its disposal, absolute nullity should be disregarded.
+64 This is the situation in the present case. Under section 184 of the Act respecting financial services, the AMF is the body responsible for the compliance with this act; it ensures the protection of the public with regard to the activities governed by the Act respecting financial services.
+65 Additionally, I have trouble applying the sanction of absolute nullity of the contract when the legislature provided the appropriate sanction at section 485 of the Act respecting financial services: [omitted]
+66 The Quebec Court of Appeal, in Elge financialease Inc. v. Dépanneur Kildare Enr.[13] noted the importance of applying the absolute nullity sanction with restraint and diligence.
+67 In that case, Dépanneur Kildare had signed a leasing contract with Elge for financing to use a rotisserie provided by N.A. Credit Services Inc. A few months later, Dépanneur Kildare realized that the rotisserie did not conform to the standards required under the Electrical Installations Act. It complained to the supplier, but to no avail. It therefore decided to stop making rental payments to Elge, and offered to return the rotisserie. Elge refused this offer and took action for the amount of rent owing. The Court of Quebec maintained Elge’s action and ordered Dépanneur Kildare to pay the rent in arrears. On appeal from this decision, Dépanneur Kildare alleged that the lease was an absolute nullity, considering the rotisserie was non-compliant.
+68 The Quebec Court of Appeal dismissed the appeal. Per Justice Rothman, the Court noted that the object of the contract was merely to obtain financing, which was received. Justice Rothman stated the following about the concept of absolute nullity:
+In principle, of course, the object of an obligation or contract must not be something forbidden by law…and prohibitive laws import nullity…. But application of these principles has evolved over the years to meet changing needs and realities…
+Not all contracts which violate a law or regulation, however indirectly or theoretically, must be considered absolutely null. The theory of public order and nullity must be applied with due regard to the nature of the law and the violation as well as the nature of the contract.
+[Emphasis added.]
+[128] Similarly to that decision, the sanctions for a general breach of the IRPA are set out at sections 124 to 124. [83]
+[129] The practical consequences must be considered secondarily to justify an interpretation of the law. For example, in Quebec (Commission des normes du travail) v. Asphalte Desjardins Inc., 2014 SCC 51, at paragraphs 64–65, the Supreme Court explained that the interpretation applied by the Court of Appeal was “not to be desired” and that this enables them to avoid having to ask the legislature to change the law.
+[130] The facts and circumstances demonstrated that the interests of society were not obstructed by the appellants’ work.
+[131] Laws intended to compensate members of the public when they face certain events in life are generally considered to be laws of public order that concern the general interest. [84] Therefore, it seems plausible that the EIA is intended to protect the public in general, [85] though once again a particular group is targeted (i.e. workers).
+[132] The appellants argue that the EIA does not expressly prohibit employment insurance payments being made to foreign workers without permits, though it does explicitly exclude several types of workers [86] and prohibits certain contracts of employment.
+[133] It is not false to state that Parliament had many opportunities to exclude foreign workers explicitly during the reforms of the Act since 1930. The protection this Act provides therefore seems to have a vast scope, particularly when considering the new and strategic phenomenon of foreign workers, who do not receive more rights and obligations than Canadian workers.
+[134] The appellants state that the CRA overstepped its jurisdiction by declaring the contract of employment null. [87]
+[135] Nullity can be declared only by a judge, which theoretically requires recourse before the courts, [88] through an action for cancellation, before the effects of the nullity can be applied. [89] Article 1416 of the CCQ stipulates that a contract that does not meet a condition of its formation “may be annulled,” which indicates that nullity does not exist by operation of law.
+[136] However, asserting nullity in an appeal is not necessarily fatal, since the Federal Court of Appeal determined that the jurisdiction of the Tax Court of Canada includes the ability to “pronounce on the nullity [of a contract] for the sole purpose of determining the validity of [an] assessment . . .” [90] and that it does not “declare” nullity in lieu of a provincial court in so doing. [91]
+[137] Furthermore, subsection 104(1) of the EIA stipulates that the Tax Court of Canada has the “authority to decide any question of fact or law necessary to be decided in the course of an appeal” under the regime of the Act.
+[138] Lastly, note also that it is generally acknowledged that it is possible to assert nullity by exception, meaning as a means of defence, and without resorting to an action for nullity, [92] which is what the Minister has done in this case.
+[139] It was argued that declaring the contract null would have the effect of entailing the restitution of prestations and that the appellants could then be sued to reimburse the salary they received. Some decisions of the Tax Court of Canada also expressed this concern. [93] In the case of contracts of continuous performance, such as contracts of employment, the typical rules of restitution of prestations are set aside in favour of restitution by equivalent, or by the absence of restitution when it would accord an undue advantage to one party (article 1699 of the CCQ). [94] Since a Tax Court of Canada decision does not constitute a declaration of nullity, the effects of the contract would not be cancelled by a decision against the appellants, and the employer would have to go before a provincial court in order to do this. [95] This argument must therefore be set aside.
+[140] According to the appellants, the nullity of the contract would also prevent them from making salary claims in the event of non‑payment. [96] However, the Tax Court of Canada decision is not binding on Quebec administrative tribunals, which are free to make their own interpretation of the principles surrounding nullity (which is what they seem to do, based on the appellants’ arguments themselves). Other avenues, like civil remedies (such as unjust enrichment) would certainly remain open as well in this case. [97]
+[141] The notice of appeal states that the contracts of employment were not considered null for the purposes of a complaint of psychological harassment, [98] but it seems rather obvious that the decisions of provincial administrative tribunals are not binding on the Tax Court of Canada. [99]
+[142] The parties did not make extensive submissions on the notion of fairness. It is well established that the Tax Court of Canada cannot make decisions based on fairness. [100]
+[143] Counsel for the appellants stated that fairness does not come into play if the law permits a certain interpretation of a legislative provision. [101] This interpretation is consistent with the jurisprudence surrounding Court jurisdiction.
+[144] While the notion of public order inherently raises questions beyond the scope of what constitutes strict law, the Court cannot use considerations of fairness except where the law so permits. For example, section 167 of the Income Tax Act requires the judge to determine whether it is fair and equitable given the circumstances when deciding whether to allow an application to extend the time for filing a notice of appeal. As previously mentioned, the law does not seem to be fixed in terms of the courts’ ability to extend their analysis beyond the object of the prohibition to determine whether the general interest is affected by a contract that violates the law, but in no case does the test turn into a simple evaluation of what is fair under the circumstances.
+[145] It is interesting to note that Quebec added new provisions to the Act respecting labour standards, CQLR, c. N‑1.1 to prevent situations like that of the appellants from recurring through the new sections 92.5 to 92.12, [102] which are intended to govern the activities of agencies that recruit temporary foreign workers. These agencies will now have to obtain a permit from the CNESST. However, the new provisions will not come into effect unless the new government adopts a regulation to this effect.
+[146] The Standing Committee on Human Resources (federal) recommended eliminating permits associated with a single employer to reduce mistreatment of foreign workers. [103] The government has not yet adopted this measure.
+[147] For the appellants to be entitled to employment insurance benefits, it is essential that their contracts of employment not be absolutely null.
+[148] The obvious good faith of the appellants and the object of the EIA enable me to conclude that the general interest is in no way affected by maintaining the validity of the appellants’ contracts of employment.
+[149] Consequently, the appellants’ appeals are allowed such that the work they performed during the periods at issue is insurable.
+“These amended Reasons for Judgment are issued to replace the Reasons for Judgment dated May 10, 2019, to correct paragraph 35.”
+Signed at Ottawa, Canada, this 28th day of May 2019.
+“Alain Tardif”
+Tardif J.
+CITATION:
+2019 TCC 114
+COURT FILE NOS.:
+2017‑3972(EI), 2017‑3973(EI), 2017‑3974(EI),
+2017‑3975(EI), 2017‑3976(EI), 2017‑3978(EI),
+2017‑3981(EI), 2017‑3984(EI), 2017‑3988(EI),
+2017‑3993(EI), 2017‑3995(EI), 2017‑3996(EI),
+2017‑3997(EI), 2017‑3998(EI)
+STYLES OF CAUSE:
+JUAN ANTONIO GODOY ENRIQUEZ,
+JORGE FERNANDO BOTELLO AGUILAR,
+JUAN DE JESUS HERNANDES SOLIS,
+JOSUE WILDER CANTORAL URRUTA,
+HUGO ALBERTO LOPEZ GARCIA,
+RUDY FERNANDO ALVAREZ VASQUEZ,
+JOAQUIN ABNER MIRANDA LOPEZ,
+HENRY DE JESUS AGUIRRE CONTRERAS,
+GUSTAVO ADOLFO PRADO PAREDES,
+BANNER AUDIEL DONIS Y DONIS,
+MARVIN ESTUARDO DIAZ PERLA,
+ISMAEL SIMON CHUTA,
+ERIK TANADEO LOPEZ MAYORGA,
+EDSON VINCENT PEREZ VASQUEZ v M.N.R.
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+October 10, 2018
+AMENDED REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF AMENDED REASONS FOR JUDGMENT:
+May 28, 2019
+APPEARANCES:
+Counsel for the appellants:
+Richard‑Alexandre Laniel
+Counsel for the respondent:
+Gabriel Girouard
+COUNSEL OF RECORD:
+For the appellants:
+Name:
+Richard‑Alexandre Laniel
+Firm:
+Ouellet Nadon et Associés
+Montréal, Quebec
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 9041‑6868 Québec Inc. v. Canada (Minister of National Revenue), 2005 FCA 334, paragraphs 3–7.
+[2] Article 3118, paragraph 2, CCQ.
+[3] Transcript, page 15.
+[4] This is not mentioned in either the reply to the notice of appeal or in the arguments.
+[5] While the notice of appeal refers to the notion of consent, which entails only a relative nullity the appellants alone can claim, that is not the reason the Minister denied the appellants’ claim for benefits. The same contract may contain multiple formation defects. It seems that the validity of the cause of the contract (the reason for which the parties signed the contract) is not in question because the appellants did not want to violate their work permit.
+[6] Article 1371 of the CCQ also stipulates that the object of an obligation cannot be contrary to public order.
+[7] S.C. 2001, c. 27.
+[8] Immigration and Refugee Protection Regulations, SOR/2002‑227 (IRPR).
+[9] This rule is not expressly stipulated in the Act or Regulations, but the wording of the regulation indicates that the permit is granted for a specific employer since the application must concern a specific offer of employment (see subsection 203(1) of the IRPR).
+[10] The invalidity of the work permits was acknowledged (transcript, page 4, paragraphs 9–10).
+[11] Still v. M.N.R., [1997] F.C.J. No. 1622 (FC, appeal division).
+[12] Curly v. Latreille (1920), 60 SCR 131 (SCC): [translation] “It is sometimes dangerous to go outside a legal system in search of precedents in another system, based on the fact that the two systems contain similar rules, except, of course, where one system has borrowed a rule from the other that was previously foreign to it. Even when the rule is similar in the two systems, it may be that it has not been understood or interpreted in the same way in each of them, and because the legal interpretation—I am of course referring to interpretation that is binding on us—is in fact part of the law that it interprets, it may in fact happen that despite their apparent similarity, the two rules are not at all identical.” Quebec’s rules on contract nullity are based on the legislation of France rather than common law: Michelle Cumyn, “Les sanctions des lois d’ordre public touchant à la justice contractuelle : leurs finalités, leur efficacité” (2007), 41 RJT 1, page 16.
+[13] Still v. M.N.R., [1997] F.C.J. No. 1622 (FC, appeal division).
+[14] Coicou v. Minister of National Revenue, 2008 TCC 628, paragraph 39.
+[15] Transcript, pages 50 and 75.
+[16] Garcia Transport Ltée v. Royal Trust Co., [1992] 2 SCR 499; Vincent Karim, Les obligations, 4th ed., 2015, vol. 1, Montréal, Wilson & Lafleur, paragraph 1600.
+[17] Ibid. However, in Groupe Trans‑inter Inc. v. Ragusa Canada Inc., 2012 QCCA 2033, at paragraph 47, the Court of Appeal seems to give considerable weight to this presumption in the context of evaluating the type of nullity arising from acting as a broker without a licence, whereas the presumption seemed to be practically ignored in the past.
+[18] The decisions concern primarily the powers of municipalities (and other issues under administrative law) and the regulation of certain professions.
+[19] Garcia Transport Ltée v. Royal Trust Co., [1992] 2 SCR 499.
+[20] Jean‑Louis Baudouin, Jean‑Gabriel Jobin, Les obligations, Yvon Blais, Cowansville, 7th ed., 2013, No. 103 (hereinafter, “Baudouin, Jobin”).
+[21] Fortin v. Chrétien, 2001 SCC 45, paragraph 21.
+[22] The Consumer Protection Act, RSQ, c. P‑40.1, is considered to be of protective economic public order as a whole in a number of decisions, such as: 9002‑5073 Québec Inc. v. Felix, 2013 QCCA 2048, paragraph 4.
+[23] For instance, there are certain CCQ articles in insurance law that are of public order. See Baudouin, Jobin, cited above, note 20, No. 110.
+[24] See, for example: Haule v. M.N.R., [1998] T.C.J. No. 1079 (TCC), paragraph 22.
+[25] Mia v. M.N.R., [2001] T.C.J. No. 199, paragraph 16.
+[26] Baudouin, Jobin, cited above, note 20, No. 353.
+[27] Amer v. MNR, paragraph 19.
+[28] Seddiki v. Glatt’s Kosher Meat Products Ltd., 2001 CarswellQue 5589, EYB 2001‑25714 (BCGTQ); Rouzier v. S.C.F.P., local 3187, [1994] T.T. 375; Bell Mobility Inc. and Kikangala, Re, 2014 CarswellNat 541. These are administrative decisions concerning eligibility for provisions on unjust dismissals.
+[29] As stated by the Minister, section 8.1 of the Interpretation Act was adopted after Haule (Federal Law—Civil Law Harmonization Act, No. 1, SC 2001, c. 4, section 8.). However, contrary to what is implied in the Reply to the notice of appeal, there is no clear departure in the law before and after the adoption of this section. In fact, there is a decision from 2006 in this line.
+[30] The application was dismissed on the grounds of the absence of demonstration of good faith, but the judge nevertheless applies the principles of Still.
+[31] See, for example: Henriquez et Aliments Mello, 2006 CanLII 65957 (QCCLP); Flores Cornejo et Viandes et aliments Or‑Fil, 2011 QCCLP 4969; Rodas Garcia et Services d’entretien Advance Inc., 2010 QCCLP 2995; Reyes Avila et Aliments Alasko Inc., 2013 QCCLP 3771; N’Zi et Coopérative de services à domicile du Cap Diamant, 2018 QCTAT 306.
+[32] Transcript, page 42.
+[33] With regard to the declaration of nullity, see section 1 of Part IV.
+[34] Transcript, page 24. Thus, the reasoning underlying the judgment would still be valid despite the entry into force of section 8.1 of the Interpretation Act.
+[35] Transcript, page 26.
+[36] Paul‑André Côté, Interprétation des lois, Montréal, Éditions Thémis, 4th edition, 2009, No. 890.
+[37] Savaria v. 101482 Canada Inc., [1987] Q.L.R. 2658 (P.C.).
+[38] Fortin v. Chrétien, 1998 CanLII 12628 (QCCA) (aff’g. on other grounds 2001 SCC 45).
+[39] Jean Pineau, Serge Gaudet, Théorie des obligations, 4th ed., Montréal, Éditions Thémis 2001, No. 170.
+[40] Subsection 3(2) is concerned with the protection of refugees, which is not at issue here.
+[41] A regulation can be a tool for interpreting the act, even though this may seem at first counterintuitive: see, for example, Kabiankan v. Kechichian, [2000] Q.L.R. 1730 (QCCA), paragraphs 15–17.
+[42] The Regulations Amending the Immigration and Refugee Protection Regulations (Temporary Foreign Workers), Can. Gaz. II, October 10, 2009, page 3051, was intended to facilitate the verification of the authenticity of offers of employment and to exclude employers from the plan if they did not meet the conditions of work promised to the foreign nationals in order to [translation] “minimize the risk of [temporary foreign workers] being exploited by employers and third parties . . .”
+[43] There are other examples in the Regulations, but the wording is rather similar. See, for example, section 209.3 of the IRPR.
+[44] Michel Chouinard, Louis Pelletier, “Aperçu historique de la politique d’immigration canadienne”, Cahiers québécois de démographie, vol. 12, no. 2, October 1983, https://www.erudit.org/fr/revues/cqd/1983-v12-n2-cqd2455/600505ar.pdf.
+[45] Immigration Regulations – Part 1 – amendment, December 21, 1972, SOR/73‑20, Can. Gaz. II, vol. 107, no. 1, page 83 (entry into force on January 1, 1973), sections 3A to 3D, http://www.collectionscanada.gc.ca/base-de-donnees/gazette-du-canada/001060-119.01-f.php?gen=2&image_id_nbr=438910&document_id_nbr=10663&f=p&PHPSESSID=42pqgvm4vp9mn0djsfjhm0sslpj8cq6jpvt3ia8hbu9449ega260. Previously, there were several cases listed where authorizations were required, but no general obligation was provided in the Regulations.
+[46] Parliament of Canada, Debates of the House of Commons, Ellen F. Fairclough (Minister of Citizenship and Immigration), 2nd Parl., 4th sess., vol. 3, March 27, 1961, page 3529, http://parl.canadiana.ca/view/oop.debates_CDC2404_03/1222?r=0&s=1.
+[47] Ninette Kelley, Michael J. Trebilcock, The Making of the Mosaic: A History of Canadian Immigration Policy, University of Toronto Press, 1998, page 360.
+[48] Parliament of Canada, Debates of the House of Commons, Robert K. Andras (Minister of Manpower and Immigration), 29th Parl., 4th sess., vol. 3, March 26, 1973, pages 2578 and 3374, http://parl.canadiana.ca/view/oop.debates_CDC2901_03/260?r=0&s=1.
+[49] Immigration Regulations, 1978, subsection 20(1). The French translation is less clear: “. . .l’embauchage de cette personne nuira à celui des citoyens canadiens ou des résidents permanents du Canada.”
+[50] For example, the Regulations Amending the Immigration and Refugee Protection Regulations (Temporary Foreign Workers), Can. Gaz. II, October 10, 2009, page 3051, was intended to facilitate the verification of the authenticity of offers of employment and to exclude employers from the plan if they did not meet the conditions of work promised to the foreign nationals in order to [translation] “minimize the risk of [temporary foreign workers] being exploited by employers and third parties . . .” Certain restrictions on issuing permits were also recently repealed (Regulations Amending the Immigration and Refugee Protection Regulations (Work Permits), SOR/2018‑61, Can. Gaz. II, vol. 152, no. 8) to remove the limit on the cumulative duration of permits issued to temporary foreign workers. However, these amendments perhaps intend to reduce the impacts of these limitations on certain industries rather than to protect foreign workers. In any case, the amendments do not repeal the existence of work permits associated with a specific employer or change the requirement to have a valid permit in order to work in Canada.
+[51] Ibid.
+[52] Citizenship and Immigration Canada, Immigration and Refugee Protection Act: clause-by-clause analysis, Bill C-11, March 2001, http://epe.lac-bac.gc.ca/100/200/301/cic/bill_c-11_clause_by_clause-f/c11-article.pdf.
+[53] Parliamentary Debates – Bill C-11, 37th Parl., 1st sess., no. 21, February 26, 2001, pages 1520 et seq., https://www.ourcommons.ca/DocumentViewer/en/37-1/house/sitting-21/hansard.
+[54] Charkaoui v. Canada, 2004 FCA 421, paragraph 138.
+[55] Because of international instruments, a provision establishing inadmissibility was interpreted not to include certain situations where essentially the violators were not acting maliciously.
+[56] Lewis v. Canada (Public Safety and Emergency Preparedness), 2017 FCA 130, paragraph 76.
+[57] https://www.ohchr.org/en/professionalinterest/pages/cescr.aspx
+[58] Le Petit Robert, Paris, 2018, page 162, under the definition of the word “insurance”.
+[59] https://www.un.org/en/universal-declaration-human-rights/index.html.
+[60] https://www.ohchr.org/EN/ProfessionalInterest/Pages/CMW.aspx.
+[61] Baudouin, Jobin, cited above, note 20, No. 107.
+[62] Michelle Cumyn, cited above, note 12, page 18.
+[63] The labour laws intended to protect this group probably pertain to directive public order since they expressly provide that they cannot be superseded (see, for example, Act respecting labour standards, CQLR, c. N‑1.1, section 93), but that is not the case here. Thus, the analogy is questionable. Moreover, the Supreme Court declined to make an definitive statement on these laws in Quebec (Commission des normes du travail) v. Asphalte Desjardins Inc., 2014 SCC 51, paragraph 71.
+[64] See previous note. See also: Isidore Garon Ltd. v. Syndicat du bois d’oeuvre de la région de Québec Inc., 2006 SCC 2, paragraphs 60–61. A contrario, refer to the dissenting opinion of Justice LeBel (paragraph 156), cited namely in Québec (Procureur général) v. Syndicat de la fonction publique du Québec Inc., 2010 QCCS 1702.
+[65] Isidore Garon Ltd. v. Tremblay, 2006 SCC 2, paragraph 38.
+[66] Michelle Cumyn, cited above, note 16, page 20.
+[67] Fortin v. Chrétien, 2001 SCC 45, paragraph 22.
+[68] The Code simply stated that a contract should not have an object contrary to the law and that prohibitive laws entail nullity (articles 14 and 1062).
+[69] See, for example: Girard v. Veronneau, [1980] C.A. 534, J.E. 80‑867 (C.A.).
+[70] Didier Luelles and Benoît Moore, cited above, note 36, No. 1124. That is the position the Court of Appeal seems to have adopted in Fortin v. Chrétien, 1998 CanLII 12628 (QCCA), (aff’g. on other grounds 2001 SCC 45).
+[71] Vincent Karim, cited above, note 16, No. 1359. For an opinion that laws partially enacted in the public interest are of directive public order, see: Paul‑André Côté, cited above, note 38, pages 231 and 232.
+[72] See, for example: Université de Sherbrooke v. Beaudoin, 2010 QCCA 28, paragraph 49.
+[73] Urbacon Architecture Inc. v. Urbacon Buildings Group Corp., 2016 QCCA 620, paragraph 26.
+[74] Girard v. Veronneau, [1980] C.A. 534; Lafrance v. Carter, 2018 QCCQ 198, paragraph 44 et seq.; Madill v. Succession Vilon, 1987 CanLII 526 (QCCA).
+[75] Transcript, page 65.
+[76] The Minister’s comments (cited at paragraph 35) do not seem to consider this possibility. However, this source of interpretation of the legislation is not binding on the courts (Doré v. Verdun (City), [1997] 2 SCR 862), and it is clear that the legislature itself was influenced by the decisions resulting from the rules applicable under the Civil Code of Lower Canada.
+[77] According to the comments of the Minister of Justice on the preliminary provision of the CCQ, the CCQ must be interpreted [translation] “dynamically” by “seeking the spirit of its provisions.” Since the Code is not interpreted statically, that leaves more room for judicial creativity.
+[78] Section 7 of the Charter of the French language, CQLR, c. C‑11 explains that French and English legal texts have the same judicial value. The common meaning is therefore generally used unless the Court finds that this could not have been the legislature’s intent (Doré v. Verdun (City), [1997] 2 SCR 862, 1997 CanLII 315 (SCC)). According to the definition, “necessary” can have the meaning of “is required” or “is essential.”
+[79] Transcript, pages 9–11. The arguments also mention a review on the working conditions and the vulnerability of workers from Guatemala.
+[80] Fortin v. Chrétien, 1998 CanLII 12628 (QCCA).
+[81] The following excerpt of the decision is revealing: [translation] “Given the development of the legislative or regulatory framework and the growing number of imperative and prohibitive provisions, it was necessary that the jurisprudence and doctrine give greater consideration to the objective and scope of a regime of nullity. However, they sometimes refuse to make the draconian conclusion of absolute nullity against an act posed against a prohibitive provision. . . . These reservations being made, however, it is necessary to examine the nature of the violation of section 56(a), in light of the factual circumstances of the case.”
+[82] Droit de la famille — 091179, 2009 QCCA 993.
+[83] Transcript, pages 8 and 46.
+[84] For example, the Quebec Court of Appeal found that the Civil Protection Act, intended to compensate victims of disasters, was of this nature in Québec (Procureur général) v. Côté, 2009 QCCA 176. The Automobile Insurance Act was qualified the same way in Automobiles Giguère Inc. v. Taïga Sylviculture Ltd., 2002 CanLII 63233 (QCCA).
+[85] The Re Employment Insurance Act, paragraph 48, explains that the plan is a public insurance program based on the notion of social risk and intended to preserve workers’ economic security. It is a “social policy” (paragraph 56) that could be qualified as being of general interest in comparison with the Civil Protection Act, for example (see previous note). For example, the Supplemental Pension Plans Act was described as a law of directive economic public order because it prevents people from becoming burdens on the State during their retirement in Bowater Pâtes et Papiers Canada Inc. et Régie des rentes du Québec, 2000 CanLII 41643 (TAQ).
+[86] Transcript, page 6.
+[87] Transcript, pages 84–85.
+[88] Note that the new Code of Civil Procedure no longer states that actions to cancel a contract are the exclusive jurisdiction of the Court of Québec (or the Superior Court, as applicable), as had previously been the case (Code of Civil Procedure, CQLR, c. C‑25, articles 31 and 34(2)).
+[89] Didier Luelles and Benoît Moore, cited above, note 36, Nos. 1101 and 1103–1104.
+[90] Durocher v. Canada, 2016 FCA 299, paragraphs 40–43. See also Markou v. The Queen, 2016 TCC 137, paragraph 16.
+[91] Note also that it is possible to assert nullity by exception, meaning as a means of defence (Baudouin, Jobin, cited above, note 20, No. 389). This approach was not even automatically rejected when it was applied by an applicant who had not previously sought declaratory relief in Durocher v. The Queen, 2015 TCC 297, paragraph 46. This is also fairly consistent with the fact that absolute nullity is automatically declared by the judge even if the parties did not assert it.
+[92] Baudouin, Jobin, cited above, note 20, No. 389.
+[93] For example, see: Garneau v. M.N.R., 2006 TCC 160, paragraph 58.
+[94] Baudouin, Jobin, cited above, note 20, Nos. 400 and 921. See, for example, Fortier v. Compagnie d’arrimage de Québec Ltd., 2014 QCCS 1984, paragraphs 90–92.
+[95] The Minister also noted that Court decisions are not binding on provincial courts (transcript, page 79).
+[96] Transcript, page 20.
+[97] Moreover, a person who has overpaid premiums may submit a request for refund to the Minister (subsection 96(2) EIA).
+[98] Transcript, page 11.
+[99] This was also argued by the respondent: transcript, page 76.
+[100] See, for example: Sunil Lighting Products v. Minister of National Revenue, [1993] T.C.J. No. 666 (TCC); Smith v. Minister of National Revenue, 89 D.T.C. 299 (TCC).
+[101] Transcript, page 60.
+[102] Bill No. 176, An Act to amend the Act respecting labour standards and other legislative provisions mainly to facilitate family-work balance, 41st legis., 1st sess., Quebec, 2018 (sanctioned on June 12, 2018), LQ 2018, c. 21.
+[103] Standing Committee on Human Resources, “Temporary Foreign Workers Program”, Report of the Standing Committee on Human Resources, 42nd Parl., 1st sess., September 2006, https://www.ourcommons.ca/DocumentViewer/en/42-1/HUMA/report-4/page-99.

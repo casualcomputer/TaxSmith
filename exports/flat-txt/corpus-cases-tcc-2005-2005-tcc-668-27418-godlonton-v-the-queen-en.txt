@@ -1,0 +1,125 @@
+Title: Godlonton v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27418/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-668-27418-godlonton-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-10-13
+
+# Godlonton v. The Queen
+
+- Citation: 2005 TCC 668
+- Decision date: 2005-10-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 240, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Godlonton v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-13
+Neutral citation
+2005 TCC 668
+File numbers
+2005-257(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-257(IT)I
+BETWEEN:
+DAVID GODLONTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on August 3, 2005, at Nanaimo, British Columbia,
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Agent for the Appellant:
+Robert Fischer
+Counsel for the Respondent:
+David Everett
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 2000, 2001 and 2002 taxation years are dismissed.
+Signed at Ottawa, Canada, this 13th day of October, 2005.
+"C.H. McArthur"
+McArthur J.
+Citation: 2005TCC668
+Date: 20051013
+Docket: 2005-257(IT)I
+BETWEEN:
+DAVID GODLONTON,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] These appeals are from assessments by the Minister of National Revenue for the 2000, 2001 and 2002 taxation years which increased the Appellant's taxable income by the amounts of $62,562, $45,436 and $58,546, respectively. After concessions were made, the amounts under appeal were reduced to $54,710, $36,212, and $48,973, respectively. The issue is whether these amounts which are for unpaid lottery tickets, are deductible as a cost of carrying on business.
+[2] The Appellant owned and operated a convenience store for over 20 years called Harbourview Grocery, in Ladysmith, British Columbia.[1] It was a small operation selling low-profit items including fresh meat, produce, lottery tickets and cigarettes. He and his wife, Judith, lived above the store for over 20 years. They are presently separated. She did all the day-to-day bookkeeping and an accountant, Robert Fischer, who represented the Appellant in these appeals, prepared his year end journal entries and income tax returns.[2] The Appellant's accounting records were reasonably kept by Judith.
+[3] The principal problem arises because the Appellant's spouse, Judith, played the lotteries marketed by the convenience store, without paying for her tickets. According to the Appellant, she was a gambling addict. Mr. Fischer explained the shortfall as follows:
+... a substantial reason why there is the shortfall between sales to customers and purchases from B.C. Lotteries is because Judy, his spouse, had been playing the Keno machines. And the way that recording process works is if you buy a ticket for a dollar on their terminal at the store it's recorded automatically by Victoria (the B.C. Lottery Commission) as a sale and therefore a purchase. But if someone doesn't pony in the dollar for that ticket and it gets registered in the cash register, it does not get recorded in the books of the client. So the sales were lower than they otherwise should have been because there was a substantial amount of Keno being played.
+[4] The question is whether the lottery payouts for unpaid tickets used by Judith can be deducted by the Appellant as an expense of carrying on business pursuant to paragraph 18(1)(a) of the Income Tax Act. The Minister contends that these lottery payouts were not incurred for the purpose of earning income. Paragraph 18(1)(a) of the Act reads:
+18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property.
+[5] It was almost impossible for the business to lose money from its lottery business unless tickets were in effect stolen. All lottery purchases and sales were transacted through an electronic lottery machine connected directly to the offices of the Lottery Commission. The business paid 95% of the face value for a ticket. The 5% difference was its commission. Winning payouts by the business were automatically reimbursed by the B.C. Lottery Commission. There was no loss for unsold tickets. Mr. Fischer determined that purchases were approximately $300,000 annually, yet sales were about $260,000 annually. The evidence of the Appellant is that his wife was stealing the missing lottery supplies. He has initiated an RCMP investigation. She did not testify. The Appellant stated that she was previously incarcerated for offences related to her gambling addiction. These offences included operating a pyramid scheme and cheque forging. She was described by both parties as an employee only because the Appellant filed income tax returns as a sole proprietor.
+[6] Both the Appellant and his wife worked very long hours and she acted more as a business partner than an employee. They mingled their funds as husband and wife and she, in effect, had control of the purse strings. She did all of the business's day-to-day bookkeeping and dealt exclusively with the accountant for the business, and with the Lottery Commission. He had little or no idea of their financial standing. He believed she was saving money for their retirement. In fact, the crisis arose when he learned from their daughter that she (his wife) had borrowed $3,000 from their daughter to make ends meet. Prior to this, he was oblivious to any financial problems. There was no evidence to establish that she had been paid a salary with the usual employee deductions. I believe they took money from the cash register and food from the shelves to meet their needs.
+[7] I have no doubt that the business was a family asset for the purposes of these appeals. Family asset is defined in the Family Relations Act[3] as follows:
+58(1) ... this section defines family asset for the purposes of this Act.
+(2) Property owned by one or both spouses and ordinarily used by a spouse or a minor child of either spouse for a family purpose is a family asset.
+Surely, the grocery store meets this definition. The Appellant and his wife worked as equals in the business. They used the business assets and proceeds for family purposes.
+[8] The Appellant summarized his understanding of the situation in this manner:
+... I owe $50,000.00 plus for the sale of $139,000.00 of lottery tickets that were acquired from the electronic lottery machine at Harbour View Grocery and not rung into the cash register and or accounted for properly. If this is the case Harbour View Grocery makes 5% on the sale of all lottery tickets sold, meaning on $139,000.00 Harbour View Grocery makes $7,000.00 and I am supposed to pay the government $50,000.00 plus for taxes. I don't understand that puts me approximately $43,000.00 in debt. Further more Harbour View Grocery pays automatically for every ticket that comes out of the electronic lottery machine which means $139,000.00 automatically comes out of Harbour View Groceries bank account. This means $182,000.00 plus Harbour View Grocery is out because I am a single proprietorship, and the guilty party walks away scot-free. ...
+I accept the Appellant's evidence that his wife used lottery tickets in the amounts referred to, without paying. With the latitude she had with the books and records, she had no problem doing this. She did not attend the hearing, yet I do not know whether she was made aware of this proceeding. I draw an inference that the Appellant concluded that his wife's evidence would not assist his situation. She had more knowledge of the situation than anyone, and could have been an essential witness to support the Appellant's contention that she was an employee and that the business was not a family asset.
+[9] I find that her engagement was one of an equal partner. She had very few of the trappings of an employee. No one controlled her work. She received no pay cheques. She worked extraordinarily long hours. I believe she was free to take groceries from the shelves, and money from the cash register, to fulfill family needs. She also used lottery tickets for her personal needs. Short of a theft, there cannot be a shortfall selling B.C. Lottery tickets unless someone is using them and not paying. I do not believe she can be said to have stolen the tickets when, with the Appellant, it was her business, her tickets. She had a free hand to do whatever she wanted with the store assets. They had been together 25 years. She did not become an employee because the Appellant filed his income tax returns as a sole proprietor. One must consider the reality of the working arrangement (substance over form).
+[10] Perhaps it could have been argued that the store was in the gambling business albeit unsuccessful. Given the evidence of Judith's gambling addiction, this argument would not go far. Mr. Fischer submitted that it boils down to the question "what do the amounts represent?". He concludes that it represents theft, money stolen by an employee from her employer and therefore, the stolen amounts are deductible. He stated:
+But the reality of it is there's a lot of circumstances that aren't perfect and there is one significant way you can lose money from lottery transactions, and that is by having tickets purchased from B.C. Lottery Corporation and those tickets never being paid for and/or sold at the source, which is a source of income to Mr. Godlonton and his personal tax return. And the bottom line is that there has been evidence at appeals presented - - and denied - - but presented that showed that there is an issue of misallocated sales but the bottom line is well after the fact it's come out that there has been significant theft taking place solely relating to these lottery tickets, which is why I wanted to focus solely on that particular issue. And yes, there can be a loss from lottery transactions, as there is in this case. And it's because, as I mentioned, purchases being rung through and charged to the business and paid for at a far lower level than they're at. It's actually cash sales being generated on the sales of these lottery tickets. That's really all that has happened here.
+The cash has not gone elsewhere and the bottom line is that revenue should not be recognized in Mr. Godlonton's business. He's the one carrying the brunt and forced to recognize income on cash sales that never took place in his business as a sole proprietor.
+[11] I agree with counsel for the Respondent whose position included that it was family property, and at least some of it was rightfully hers. It was not outright theft. She is entitled to some of the fruits of their marriage and he referred to the Family Relations Act. I realize that the Minister has accepted that it was a sole proprietorship based solely on the fact that that is the manner in which the Appellant filed his income tax returns, although he did state that it is hard to pigeon-hole what she was. As stated, I do not believe the true nature of their business relationship can be ignored although be it a sole proprietorship, or equal partnership, my conclusion does not change.
+[12] Losses through theft by partners are not normally deductible. They are more properly considered withdrawals of capital.[4] Interpretation Bulletin IT-185R goes on to state as follows:
+5 The treatment of losses resulting from theft, defalcation or embezzlement by senior employees and managers depends upon the circumstances of each case: See Cassidy's Ltd. v. MNR, [1989] 2 C.T.C. 2043, 89DTC686 (TCC). If, as is frequently the case, such a loss is not reasonably incidental to the normal income-earning activities consideration in determining deductibility in cases involving senior employees include:
+(a) the extent of the senior employee's authority and control - note that if the individual was in a position to act as if he or she were an owner of the business, the loss is unlikely to meet the requirements for deductibility;
+If Judith were an employee, no doubt she was a senior employee, and the reasoning in paragraph 5 of the Interpretation Bulletin set out above, would apply to the present situation.
+[13] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 13th day of October, 2005.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2005TCC668
+COURT FILE NO.:
+2005-257(IT)I
+STYLE OF CAUSE:
+David Godlonton and Her Majesty the Queen
+PLACE OF HEARING:
+Nanaimo, British Columbia
+DATE OF HEARING:
+August 3, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT:
+October 13, 2005
+APPEARANCES:
+Agent for the Appellant:
+Robert Fischer
+Counsel for the Respondent:
+David Everett
+COUNSEL OF RECORD:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Reference to the Appellant is interchangeable with his business, Harbourview Grocery.
+[2] Other members of Robert Fischer's accounting firm participated in the preparation as well.
+[3] R.S.B.C. 1996, c. 12.
+[4] Paraphrased from Interpretation Bulletin IT-185R - Losses from Theft, Defalcation or Embezzlement (Respondent's Book of Authorities, Tab 2).

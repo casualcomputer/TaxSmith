@@ -1,0 +1,167 @@
+Title: Lehoux c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28117/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-663-28117-lehoux-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-10-07
+
+# Lehoux c. M.R.N.
+
+- Citation: 2003 CCI 663
+- Decision date: 2003-10-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1637, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lehoux c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-07
+Référence neutre
+2003 CCI 663
+Numéro de dossier
+2003-663(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-663(EI)
+ENTRE :
+LOUIS LEHOUX,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+3935833 CANADA INC.,
+intervenante.
+____________________________________________________________________
+Appel entendu le 29 juillet 2003 à Sherbrooke (Québec)
+Devant : L'honorable J.F. Somers, juge suppléant
+Comparutions :
+Pour l'appelant :
+L'appelant lui même
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+Avocat de l'intervenante :
+Me Philippe Lafleur
+____________________________________________________________________
+JUGEMENT
+L'appel est admis et la décision rendue par le Ministre est annulée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 7e jour d'octobre 2003.
+«J.F. Somers»
+Juge suppléant Somers
+Référence : 2003CCI663
+Date : 20031007
+Dossier : 2003-663(EI)
+ENTRE :
+LOUIS LEHOUX,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+3935833 CANADA INC.,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers
+[1] Cet appel a été entendu à Sherbrooke (Québec), le 29 juillet 2003.
+[2] L'appelant interjette appel de la décision du ministre du Revenu national (le «Ministre»), selon laquelle l'emploi exercé au cours de la période en cause, soit du 3 janvier au 27 juin 2002, auprès de 3935833 Canada Inc., le payeur, n'était pas assurable au motif qu'il n'occupait pas un emploi en vertu d'un contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi sur l'assurance-emploi (la «Loi»).
+[3] Le fardeau de la preuve incombe à l'appelant. Ce dernier se doit d'établir, selon la prépondérance de la preuve, que la décision du Ministre est mal fondée en fait et en droit. Chaque cas est un cas d'espèce.
+[4] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes lesquelles ont été admises, niées ou ignorées par l'appelant :
+a) Le payeur est en opération depuis le mois d'août 2001. (ignoré)
+b) Le payeur fait l'entretien ménager d'édifices commerciaux. (admis)
+c) Le payeur fait des soumissions afin d'obtenir des contrats pour l'entretien ménager d'édifices commerciaux (les «clients»), et par la suite il engage des sous-traitants pour effectuer une partie des tâches que le payeur ne peut effectuer lui-même. (nié)
+d) Les tâches de l'appelant étaient d'épousseter, passer l'aspirateur et de nettoyer les salles de toilette pour deux restaurants. (admis)
+e) L'appelant était rémunéré 46,00 $ par jour sur présentation de factures au payeur. (admis)
+f) L'appelant défrayait les coûts de cotisation à la Commission de la santé et de la sécurité du travail («CSST»). (admis)
+g) L'appelant défrayait les dépenses de voyage, le coût des fournitures et les accessoires nécessaires à l'exécution de ses tâches. (nié)
+h) L'appelant pouvait accomplir ses tâches selon un horaire qui lui convenait. (nié)
+i) La seule contrainte pour l'appelant était seule exigée par le client qui demandait que l'entretien ménager se fasse pendant les heures de fermeture de l'établissement. (admis)
+[5] Le payeur, en opération depuis le mois d'août 2001, faisait l'entretien ménager d'édifices commerciaux.
+[6] Selon l'appelant, le payeur faisait des soumissions afin d'obtenir des contrats. Selon lui, le payeur a apposé une affiche au Centre de la main-d'oeuvre demandant une personne intéressée à faire des travaux d'entretien ménager et il a par la suite approché Marcel Lortie, directeur général du payeur, pour ce travail et les deux ont conclu une entente.
+[7] L'appelant a déclaré que Marcel Lortie lui a décrit les tâches à accomplir. Il a ajouté que Marcel Lortie le conduisait de sa résidence au lieu de travail, soit une distance de 20 kilomètres, et le ramenait à son domicile après le travail.
+[8] L'appelant a affirmé qu'il était payé 46 $ par jour pour le nettoyage d'un restaurant et par la suite 96 $ puisqu'il s'occupait, durant deux mois, d'un deuxième restaurant. L'appelant a calculé qu'il était payé 11,50 $ l'heure.
+[9] L'appelant a déclaré qu'il travaillait deux heures par jour au premier restaurant mais qu'il était rémunéré pour quatre heures et qu'il soumettait des factures au payeur (pièce I-1). Le payeur, pour sa part, déduisait de ces factures le prix de l'essence et un montant pour les contributions à la Commission de la santé et de la sécurité du travail. Les factures étaient payées par le payeur une fois par mois.
+[10] Les tâches de l'appelant consistaient à épousseter, passer l'aspirateur et nettoyer les salles de toilette des deux restaurants.
+[11] Selon l'appelant, tous les outils nécessaires à l'exécution du travail étaient fournis par lui-même ou par le restaurateur. Il a ajouté que le payeur fixait les heures de travail.
+[12] L'appelant a reconnu que sur les factures (pièce I-1) il écrivait «travailleur autonome pour entretien ménager».
+[13] L'appelant a déclaré qu'il ne recevait pas toujours 46 $ ou $96 par jour et que les montants des factures variaient selon le nombre d'heures travaillées.
+[14] Selon ce témoin, Marcel Lortie était sur les lieux pendant les heures de travail sauf quand il devait s'absenter. L'appelant a expliqué qu'une «bonne soirée de travail était d'environ 5 ½ heures» et que parfois M. Lortie lui demandait d'aller travailler ailleurs.
+[15] Marcel Lortie, propriétaire de l'entreprise depuis 20 ans, a affirmé qu'il a toujours engagé des travailleurs autonomes pour exécuter ce travail d'entretien ménager. Il a affirmé qu'il avait apposé une affiche au Centre de la main‑d'oeuvre dans le but de recruter des personnes pour ce genre de travail.
+[16] Ce témoin a déclaré que l'appelant l'a contacté et qu'une entente a été conclue entre eux. Selon cette entente, l'appelant se devait de faire l'entretien ménager au restaurant La Cage aux Sports, travail qui lui prenait de 1 à 1 ½ heure pour une rémunération de 46 $ par jour.
+[17] Selon Marcel Lortie, lors de l'entente, l'appelant lui aurait demandé la façon de rédiger les factures et il lui aurait dit d'y inscrire «travailleur autonome». Il est à noter qu'aucune déduction à la source n'est faite sur les factures soumises par l'appelant (pièce I-1).
+[18] Le payeur, pour sa part, déduisait du montant total de la facture la cotisation à la CSST, tel qu'il appert sur les factures déposées sous la cote I-1, ainsi qu'une somme pour l'essence puisqu'il conduisait l'appelant à son travail et le ramenait à sa résidence après le travail complété.
+[19] Marcel Lortie a déclaré qu'il conduisait l'appelant de sa résidence à son lieu de travail. Il a ajouté que le travail était ordinairement complété à 5 heures le matin puisque les restaurants ouvraient à cette heure. Il a de plus déclaré qu'il n'était pas sur place pendant que l'appelant exécutait son travail.
+[20] Selon Marcel Lortie, il remplaçait, à l'occasion, l'appelant quand ce dernier s'absentait, mais l'appelant avait la responsabilité de trouver un remplaçant. Il a ajouté que les restaurateurs fournissaient les outils de travail.
+[21] Afin de bien distinguer le contrat de louage de services du contrat d'entreprise, il faut examiner l'ensemble des divers éléments qui composent la relation entre les parties, incluant les intentions des parties.
+[22] La jurisprudence a reconnu que l'intention des parties est un élément parmi d'autres permettant de déterminer s'il s'agit d'un contrat de louage de services ou d'un contrat d'entreprise, mais pas nécessairement un facteur déterminant.
+[23] Une jurisprudence constante reconnaît quatre éléments de base pour faire cette distinction : a) le degré ou absence de contrôle exercé par l'employeur; b) la propriété des outils; c) les chances de bénéfice et les risques de perte; et d) le degré d'intégration du travail de l'employé dans l'entreprise de l'employeur (voir Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553).
+a) le contrôle
+[24] Le payeur était à la recherche d'une personne pour faire l'entretien ménager dans des édifices commerciaux où il avait obtenu un contrat. Le payeur a apposé une affiche au Centre de la main-d'oeuvre dans le but de recruter un travailleur autonome. Le fait d'apposer une affiche est un indice qu'il était simplement à la recherche d'un travailleur et non d'un entrepreneur indépendant (travailleur autonome), mais la Cour ne peut se fier qu'à ce seul indice.
+[25] L'appelant a répondu à cette annonce et est entré en contact avec le payeur. Marcel Lortie, propriétaire du payeur, a affirmé qu'il avait offert 46 $ par jour à l'appelant pour faire l'entretien ménager dans un restaurant et que par la suite ce montant avait été augmenté à 96 $ puisque l'appelant devait exécuter son travail dans un deuxième restaurant. Marcel Lortie a affirmé qu'il a toujours procédé de cette façon et ce depuis 20 ans.
+[26] L'appelant a accepté l'offre du payeur. Aucune preuve n'a été présentée démontrant que l'appelant était un entrepreneur indépendant ou qu'il avait des employés ou qu'il avait déjà exécuté ce genre de travail. L'appelant, sans emploi à ce temps, a accepté l'offre du payeur sans en négocier les termes et conditions; il faut reconnaître que le payeur était dans une situation de pouvoir.
+[27] Selon Marcel Lortie, l'appelant lui aurait demandé la façon de rédiger ses factures, ce à quoi il aurait répondu d'y indiquer «travailleur autonome»; ce fait démontre un certain contrôle du payeur sur l'appelant.
+[28] Marcel Lortie conduisait l'appelant de sa résidence au travail à tous les soirs, après la fermeture des restaurants, et le reconduisait chez lui à la fin de son travail; il a même remplacé l'appelant à son travail lorsque ce dernier s'absentait.
+[29] Les faits relatés ci-haut démontrent qu'il y avait un degré de contrôle sur l'appelant et permettent de conclure qu'il existait un contrat de louage de services.
+b) propriété des outils
+[30] Les outils de travail appartenaient aux restaurateurs et non à l'appelant; la clientèle était celle du payeur et non celle de l'appelant. De cet élément la Cour peut conclure qu'il existait un contrat de louage de services.
+c) chances de bénéfice et risques de perte
+[31] L'appelant était payé un montant fixe, établi par le payeur, peu importe le nombre d'heures travaillées. Cet élément pourrait émettre un doute sur la nature du contrat, mais considérant l'ensemble de la preuve on ne peut que conclure à l'existence d'un contrat de louage de services.
+d) degré d'intégration
+[32] L'entreprise était celle du payeur et non celle de l'appelant. L'appelant n'avait pas d'employés; il était au service de l'entreprise du payeur. D'après cet élément, il existait un contrat de louage de services.
+[33] L'ensemble des éléments ci-haut, dont le degré de contrôle du payeur sur l'appelant qui est un facteur essentiel pour faire la distinction entre les deux types de contrats, permet de conclure qu'il existait un contrat de louage de services.
+[34] Dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, le juge Major de la Cour Suprême du Canada s'est exprimé ainsi :
+Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigation, ... est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+[35] À la lumière de cette décision, il y a lieu de conclure qu'il existait un contrat de louage de services.
+[36] La procureure de l'intimé s'est appuyée sur la décision de la Cour d'appel fédérale dans Wolf c. Canada, [2002] C.A.F. no 96 au soutien de ses prétentions. Le juge Noël de cette Cour (souscrivant au résultat seulement) s'est exprimé ainsi au paragraphe 122 :
+J'accueillerais aussi l'appel. À mon avis, il s'agit d'un cas où la qualification que les parties ont donnée à leur relation devrait se voir accorder un grand poids. Je reconnais que la façon dont les parties décident de décrire leur relation n'est pas habituellement déterminante, en particulier lorsque les critères juridiques applicables pointent dans l'autre direction. Mais, dans une issue serrée comme en l'espèce, si les facteurs pertinents pointent dans les deux directions avec autant de force, l'intention contractuelle des parties et en particulier leur compréhension mutuelle de la relation ne peuvent pas être laissées de côté.
+[37] Cet arrêt de la Cour d'appel fédérale a donné beaucoup d'importance aux intentions des parties, mais reconnaît que la façon dont les parties décident de décrire leur relation n'est pas habituellement déterminante.
+[38] Dans la cause sous étude, c'est le payeur qui a offert du travail à l'appelant à un salaire fixe. L'appelant, n'ayant pas le choix puisqu'il était sans emploi, a accepté l'offre du payeur sans en négocier les termes. Le payeur a même donné des instructions à l'appelant, à sa demande, quant à la façon de rédiger ses factures, à savoir d'y inscrire «travailleur autonome».
+[39] Tenant compte de l'ensemble de la preuve, la Cour conclut qu'il existait un contrat de louage de services. En conséquence, l'emploi de l'appelant auprès du payeur, pendant la période cause, est assurable en vertu de l'alinéa 5(1)a) de la Loi.
+[40] L'appel est admis et la décision du Ministre est annulée.
+Signé à Ottawa, Canada, ce 7e jour d'octobre 2003.
+« J.F. Somers »
+Juge suppléant Somers
+RÉFÉRENCE :
+2003CCI663
+No DU DOSSIER DE LA COUR :
+2003-663(EI)
+INTITULÉ DE LA CAUSE :
+Louis Lehoux et M.R.N. et
+3935833 Canada Inc.
+LIEU DE L'AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L'AUDIENCE :
+le 29 juillet 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable J.F.Somers
+juge suppléant
+DATE DU JUGEMENT :
+le 7 octobre 2003
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimé :
+Me Emmanuelle Faulkner
+Pour l'intervenante :
+Me Philippe Lafleur
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l'intervenante :
+Nom :
+Me Philippe Lafleur
+Étude :
+Tremblay Gagnon
+Gatineau (Québec)

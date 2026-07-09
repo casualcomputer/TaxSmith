@@ -1,0 +1,155 @@
+---
+title: "Patel c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30641/index.do"
+last_modified: "2011-12-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 555"
+citation2: ""
+neutral_citation: "2011 CCI 555"
+decision_date: "2011-12-08"
+language: "fr"
+item_id: "30641"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7166
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:24:35.079000+00:00"
+cases_cited_count: 2
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "37bf8d832913d293e2d3f14cbdb22b3b9f0606bff7863fb4b2b331f7b2371991"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Patel c. La Reine
+
+- Citation: 2011 CCI 555
+- Decision date: 2011-12-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7166, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Patel c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-12-08
+Référence neutre
+2011 CCI 555
+Numéro de dossier
+2008-3993(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3993(IT)I
+ENTRE :
+DARSHANABEN PATEL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus le 26 octobre 2011, à Toronto (Ontario).
+Devant : L'honorable juge G. A. Sheridan
+Comparutions :
+Pour l'appelante :
+L'appelante elle‑même
+Avocat de l'intimée :
+Me Ernesto Caceres
+________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, les appels interjetés à l'encontre des nouvelles cotisations établies à l'égard de l'appelante en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2003, 2004, 2005 et 2006 sont rejetés.
+Signé à Ottawa, Canada, ce 8e jour de décembre 2011.
+« G. A. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 30e jour de janvier 2012.
+Yves Bellefeuille, réviseur
+Référence : 2011 CCI 555
+Date : 20111208
+Dossier : 2008-3993(IT)I
+ENTRE :
+DARSHANABEN PATEL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sheridan
+[1] L'appelante, Darshanaben Patel, interjette appel des nouvelles cotisations dans lesquelles le ministre du Revenu national lui a refusé les crédits d'impôt non remboursables qu'elle avait demandés relativement à des dons de bienfaisance de 2 960 $, de 7 560 $, de 5 350 $ et de 7 081 $ faits en 2003, en 2004, en 2005 et en 2006, respectivement. Bien que ces montants aient été acceptés au départ tels qu'ils avaient été déclarés pour chacune des années d'imposition, l'Agence du revenu du Canada (l'« ARC ») les a par la suite refusés au terme d'une enquête qu'elle avait menée à l'égard du spécialiste en déclarations de revenus de l'appelante, un certain Ambrose Danso‑Dapaah, qui exploitait son entreprise sous la raison sociale ADD Accounting. M. Danso‑Dapaah a été plus tard déclaré coupable[1], entre autres, d'avoir vendu des reçus pour dons de bienfaisance à ses clients pour 10 p. 100 du montant figurant sur les reçus.
+[2] Pour établir les nouvelles cotisations, le ministre s'est fondé sur le fait que l'appelante n'avait pas fait de « don » aux organismes de bienfaisance mentionnés sur les reçus et qu'elle n'avait pas produit de « reçus officiels » pour les montants déclarés sur le formulaire prescrit, comme l'exigent la Loi de l'impôt sur le revenu et le Règlement de l'impôt sur le revenu. Le ministre a supposé qu'au lieu de faire un don aux organismes de bienfaisance, l'appelante avait simplement acheté des reçus pour dons de bienfaisance pour 10 p. 100 du montant figurant sur ces reçus.
+[3] Il incombait à l'appelante de prouver que les hypothèses formulées par le ministre étaient erronées. En ce qui concerne l'année d'imposition 2003, qui a fait l'objet d'une nouvelle cotisation après l'expiration de la période normale de nouvelle cotisation, il revenait au ministre de justifier la nouvelle cotisation qu'il avait établie en vertu du paragraphe 152(4) de la Loi.
+[4] Madame Barbara Lovie, une enquêteuse de l'ARC, a été appelée à témoigner pour le ministre. Mme Lovie avait participé à l'enquête menée à l'égard de M. Danso‑Dapaah et de ses entreprises. Elle a présenté son témoignage de manière complète et prudente, et j'admets sans hésitation l'analyse qu'elle a faite des documents mentionnés au cours de son témoignage. Mme Lovie a expliqué que, durant l'enquête menée à l'égard de M. Danso‑Dapaah, l'ordinateur et les documents papier de celui‑ci ont été saisis, y compris les déclarations de revenus de ses clients, les reçus « officiels » pour dons de bienfaisance et les factures des clients sur lesquelles figuraient la valeur nominale des reçus pour dons de bienfaisance et le montant qui avait été facturé à leur égard. Les dossiers de l'appelante faisaient partie de ceux qui avaient été saisis.
+[5] L'appelante a comparu en personne à l'audience et a été la seule à témoigner pour son compte. Elle a déclaré qu'elle avait rencontré M. Danso‑Dapaah pour la première fois en 2002 et qu'elle avait commencé à faire appel à ses services l'année suivante. L'appelante avait effectué un bon nombre de paiements en espèces à M. Danso‑Dapaah selon les conseils de celui‑ci, et ce tout au long de chaque année d'imposition, pour faire des dons à des organismes de bienfaisance qu'il lui avait recommandés, à savoir la CanAfrica International Foundation et la Harvest Family Church. Comme l'appelante n'avait pas de reçus établis par M. Danso‑Dapaah pour ces montants, elle a présenté en preuve des relevés bancaires[2] faisant état de retraits en espèces effectués dans chaque année d'imposition. Elle a également produit un résumé manuscrit[3] (le « résumé ») où figuraient les retraits en espèces ayant servi à faire des dons de bienfaisance.
+[6] Alors que l'appelante avait déclaré au départ qu'elle avait aussi fait des dons en nature qui consistaient en des jouets et des vêtements, elle a dit plus tard que suivant les conseils de M. Danso‑Dapaah, elle lui avait donné de l'argent, puisqu'il avait affirmé pouvoir acheter ces articles pour un moindre coût en Afrique. L'appelante a reconnu qu'elle n'avait pas de reçus pour ces articles. Compte tenu de l'incohérence du témoignage de l'appelante, je conclus qu'il est fort peu probable qu'elle ait fait quelque don en nature que ce soit.
+[7] Lors du contre‑interrogatoire, l'avocat de l'intimée a soigneusement examiné, avec l'appelante, les chiffres figurant dans les déclarations de revenus trouvées dans les dossiers de M. Danso‑Dapaah. L'appelante a confirmé que ces chiffres reflétaient avec exactitude les renseignements qu'elle avait fournis à M. Danso‑Dapaah; elle a noté, par exemple, certaines prestations d'assurance‑emploi et certaines prestations fédérales pour enfants qu'elle avait reçues. Elle a confirmé, également, l'exactitude des renseignements concernant les dons de bienfaisance déclarés en 2003[4], 2004[5] et 2005[6].
+[8] Lorsque l'appelante a été interrogée au sujet des factures[7] saisies chez M. Danso‑Dapaah, lesquelles indiquaient qu'on lui avait facturé un montant égal à 10 p. 100 de la valeur nominale des dons de bienfaisance qu'elle avait déclarés en 2004 et en 2005, l'appelante n'a eu pour seule réponse qu'un démenti formel que tel était le cas. Elle n'a pas jugé utile de se prononcer sur le fait que tous les renseignements contenus dans ses dossiers étaient vraisemblablement corrects, à l'exception des factures.
+[9] L'avocat de l'intimée a également examiné les revenus inclus dans les déclarations de revenus de l'appelante et a demandé à cette dernière de donner une estimation des dépenses annuelles moyennes de son ménage. Elle l'a fait avec aisance et efficacité; bien qu'elle n'ait pu se fier qu'à sa mémoire, l'appelante n'a eu aucune difficulté à énoncer les montants qu'elle payait habituellement pour son prêt hypothécaire, les services publics, et ainsi de suite. Les rares fois où l'appelante s'est reportée à ses relevés bancaires, elle a été capable de désigner rapidement, par exemple, ses frais condominiaux mensuels et une cotisation de 5 000 $ à un régime enregistré d'épargne‑retraite faite en 2003.
+[10] Il ressort clairement de l'examen effectué à l'égard des revenus et des dépenses de l'appelante que, pour chacune des années d'imposition, il lui serait resté très peu d'argent pour qu'elle puisse effectuer les dons importants qu'elle avait inclus dans ses déclarations de revenus. Elle a toutefois répliqué qu'elle avait reçu des paiements comptants provenant de membres de sa famille et, après 2005, de son époux, pour l'aider à payer ses dépenses. Elle a ajouté qu'en 2004, elle avait également reçu de l'argent d'un « ami » en remboursement d'un prêt qu'elle lui avait consenti à un moment antérieur non précisé. Aucun témoin n'a été appelé pour corroborer ces allégations. En ce qui concerne le prêt, l'appelante n'a fourni aucune preuve documentaire du prêt ou de son remboursement. Elle n'a pas non plus expliqué comment elle avait même pu avoir des fonds disponibles pour faire un prêt si, comme elle l'a déclaré, elle était à la charge de sa famille.
+[11] Malheureusement, j'estime que, dans l'ensemble, l'appelante n'est pas un témoin crédible. Il ressort de l'examen que l'appelante a fait de ses déclarations de revenus, de ses relevés bancaires et des documents comptables saisis chez M. Danso‑Dapaah qu'elle est une personne à l'esprit vif, qui comprend bien ses activités financières. Pourtant, lorsqu'il a été question d'expliquer les éléments essentiels de l'historique des dons qu'elle avait faits, elle n'a eu pour seule réponse que de rappeler à la Cour qu'il n'y avait rien d'illégal à effectuer des opérations en espèces. Pour ce qui est des organismes en question, l'appelante n'a pas prétendu avoir un intérêt particulier à l'égard de la CanAfrica International Foundation ou de la Harvest Family Church, bien qu'elle ait insisté sur le fait que, malgré ses moyens limités, elle avait fait des dons relativement importants à ces organismes sur une période de quatre ans. Bien que l'appelante ait détenu au moins trois comptes bancaires durant la période pertinente, plutôt que d'émettre simplement des chèques aux organismes de bienfaisance afin d'avoir une preuve des dons faits, elle a avancé qu'elle avait effectué des paiements en espèces à M. Danso‑Dapaah, lesquels n'étaient pas constatés par des reçus. Il ne m'a pas semblé que l'appelante était assez crédule ou confiante pour agir aussi imprudemment. Dans l'ensemble, l'appelante n'a pas réussi à me convaincre qu'elle avait fait un « don » à quelque organisme de bienfaisance que ce soit dans les années d'imposition visées par l'appel.
+[12] Le terme « don » n'est pas défini dans la Loi. L'arrêt R. c. Friedberg, no A‑65‑89, 5 décembre 1991, [1991] A.C.F. no 1255 (QL) (C.A.F.), fait autorité pour ce qui concerne le sens du terme « don ». Le juge Linden a donné la définition suivante du terme « don » :
+[...] un don est le transfert volontaire du bien d'un donateur à un donataire, en échange duquel le donateur ne reçoit pas d'avantage ni de contrepartie [...]
+[13] Dans la décision Coombs c. La Reine, 2008 CCI 289, le juge Woods a énuméré les éléments de cette définition de la manière suivante :
+[15] [...] Premièrement, le bien donné doit appartenir au donateur. Deuxièmement, le transfert à l'organisme de bienfaisance doit être volontaire. Troisièmement, le donateur ne doit pas recevoir de contrepartie en échange du don. Quatrièmement, l'objet du don doit être un bien, ce qui distingue le don de la fourniture de services à un organisme de bienfaisance. Ces éléments reflètent l'idée générale voulant qu'un contribuable doive avoir une intention libérale relativement au transfert d'un bien à l'organisme de bienfaisance pour qu'il s'agisse d'un don.
+[Non souligné dans l'original.]
+[14] Dans la décision Webb c. La Reine, 2004 CCI 619, le juge Bowie a ainsi précisé la notion d'« intention libérale », au paragraphe 16 :
+[16] Il s'est écrit beaucoup de documents au sujet des dons de bienfaisance au cours des années. Cependant, la loi est selon moi très claire. Je suis lié par la décision de la Cour d'appel fédérale dans l'affaire La Reine c. Friedberg, entre autres. Ce cas et les autres du genre indiquent clairement que pour qu'un montant soit considéré comme un don fait à un organisme de bienfaisance, il doit être versé sans qu'il n'y ait d'avantage ou de contrepartie directs ou indirects pour le donateur, et sans qu'il n'y ait d'attente d'avantage ou de contrepartie. En d'autres mots, l'intention du donateur doit être entièrement libérale.
+[15] Compte tenu du manque général de crédibilité de l'appelante, sa simple assertion selon laquelle elle a fait don des montants énumérés dans le résumé n'est pas suffisante pour réfuter l'hypothèse du ministre. Le résumé n'est rien d'autre qu'une liste de certains des nombreux retraits en espèces figurant sur les relevés bancaires de l'appelante. Il ressort de l'examen des relevés bancaires de l'appelante que rien ne permet d'établir un lien entre les retraits indiqués sur le résumé et les montants des dons que l'appelante prétend avoir faits par l'intermédiaire de l'entreprise de M. Danso‑Dapaah, voire de les distinguer des autres retraits en espèces qu'elle avait effectués. Par exemple, l'appelante mentionne, dans le résumé, un retrait en espèces de 2 000 $ réalisé le 10 mars 2004 en vue de faire un don de bienfaisance. Toutefois, dans le même mois, l'appelante a fait d'autres retraits en espèces de 200 $ (le 2 mars), de 1 100 $ (le 3 mars) et de 40 $ (le 12 mars). De la même manière, le résumé fait état d'un retrait de 400 $ effectué le 29 avril 2005 relativement à un don de bienfaisance; d'autres retraits importants ont eu lieu le 18 avril (300 $) et le 28 avril (500 $). Cette manière d'effectuer des retraits en espèces se répète tout le long du résumé et dans les relevés bancaires. L'appelante n'a fourni aucune explication quant à la manière dont elle pouvait, en l'absence de reçus ou d'autres documents, reconnaître parmi les nombreux retraits en espèces effectués ceux qui, prétendument, étaient destinés à constituer des dons de bienfaisance.
+[16] L'appelante a fait remarquer à la Cour qu'il n'y avait rien d'illégal à faire des dons en espèces. Cela est tout à fait vrai : l'alinéa 3501(1)e) du Règlement prévoit explicitement cette possibilité. Toutefois, lorsqu'un contribuable choisit d'effectuer ses opérations uniquement en espèces, que ce soit pour des dons de bienfaisance ou pour toute autre fin qui est susceptible d'être examinée par le ministre, il s'impose le fardeau de pouvoir justifier des opérations qu'on ne peut pas vérifier autrement. L'espèce constitue une illustration parfaite de la raison pour laquelle les conditions d'admissibilité des dons de bienfaisance font l'objet d'une réglementation stricte. Comme l'a fait observer le juge Tardif dans la décision Plante c. La Reine, no 97‑1150(IT)I, 22 janvier 1999, [1999] A.C.I. no 51 (QL) (C.C.I.) :
+[46] Il ne s'agit pas là d'exigences futiles et sans importance; bien au contraire, ce sont là des renseignements tout à fait fondamentaux et absolument nécessaires pour permettre la vérification d'une part de la justesse de la valeur indiquée et d'autre part, de la réalité même du don.
+[47] De telles exigences visent à éviter les abus de toute nature et constituent un minimum pour qualifier la qualité d'un don pouvant générer un crédit d'impôt à l'avantage du contribuable donateur.
+[17] À mon avis, l'appelante n'a fait aucun don aux organismes de bienfaisance figurant sur les reçus. Elle a prétendu avoir fait des dons en espèces pour justifier le fait qu'elle n'avait aucun document susceptible d'être vérifié. Comme elle savait qu'elle n'avait que payé à M. Danso‑Dapaah 10 p. 100 de la valeur nominale des faux reçus pour dons de bienfaisance qu'elle avait achetés chez lui, et étant donné qu'elle n'avait aucun document pouvant lui permettre de justifier ses allégations, elle a décidé d'essayer de se tirer d'affaire en bluffant au stade de l'opposition et au stade judiciaire de ses appels, dans l'espoir que quelqu'un pourrait croire son histoire. Alors qu'il n'est jamais bien pour un contribuable de tricher à l'égard de ses impôts, cela me semble encore plus répréhensible de s'y adonner en prétendant faire des dons à des organismes de bienfaisance. Pire encore, en même temps que l'appelante récoltait le fruit de ses faux dons de bienfaisance, elle empochait joyeusement des prestations d'assurance‑emploi et d'autres prestations provenant de programmes fédéraux financés par des contribuables honnêtes. Étant donné que l'appelante n'a pas réussi à réfuter l'hypothèse du ministre sur laquelle il s'était fondé pour établir la nouvelle cotisation, il n'y a aucune justification pour renvoyer la nouvelle cotisation au ministre.
+[18] La seule question qui subsiste est donc celle de savoir si le ministre a établi à juste titre la nouvelle cotisation pour 2003 après l'expiration de la période normale de nouvelle cotisation. Le sous‑alinéa 152(4)a)(i) de la Loi exige que le ministre démontre, pour chaque année d'imposition, que le contribuable a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou qu'il a commis quelque fraude. Compte tenu des conclusions qui précèdent et du fait que l'appelante reconnaît que ses déclarations de revenus ont été établies par M. Danso‑Dapaah selon les renseignements qu'elle lui avait fournis, il est évident que l'appelante savait que sa déclaration de revenus pour 2003 incluait faussement un montant pour don de bienfaisance. C'est donc à juste titre que le ministre a établi une nouvelle cotisation après l'expiration de la période normale de nouvelle cotisation.
+[19] Les appels concernant les années d'imposition 2003, 2004, 2005 et 2006 sont rejetés.
+Signé à Ottawa, Canada, ce 8e jour de décembre 2011.
+« G. A. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 30e jour de janvier 2012.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2011 CCI 555
+NO DU DOSSIER DE LA COUR : 2008-3993(IT)I
+INTITULÉ : DARSHANABEN PATEL c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 26 octobre 2011
+MOTIFS DU JUGEMENT : L'honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 8 décembre 2011
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle‑même
+Avocat de l'intimée :
+Me Ernesto Caceres
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce R‑6.
+[2] Pièce A‑1.
+[3] Pièce A‑2.
+[4] Pièces R‑7 et R‑8.
+[5] Pièces R‑9 et R‑10.
+[6] Pièces R‑12 et R‑13.
+[7] Pièces R‑11 et R‑14.

@@ -1,0 +1,167 @@
+Title: Edwards c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29553/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-606-29553-edwards-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-11-30
+
+# Edwards c. La Reine
+
+- Citation: 2009 CCI 606
+- Decision date: 2009-11-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6371, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Edwards c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-11-30
+Référence neutre
+2009 CCI 606
+Numéro de dossier
+2007-3474(IT)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3474(IT)G
+ENTRE :
+MICHAEL EDWARDS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 24 septembre 2009, à Toronto (Ontario).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocats de l'appelant :
+Me Ian MacGregor
+Me Pooja Samtani
+Avocats de l'intimée :
+Me Martin Hickey
+Me Devon E. Peavoy
+____________________________________________________________________
+ORDONNANCE
+La requête est rejetée, conformément aux motifs d'ordonnance ci‑joints, les dépens devant suivre l'issue de la cause.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2009.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+Ce 17e jour de mars 2010.
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2009 CCI 606
+Date : 20091130
+Dossier : 2007-3474(IT)G
+ENTRE :
+MICHAEL EDWARDS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Angers
+[1] Il s'agit d'une requête en vue de l'obtention d'une ordonnance visant à faire radier tout ou partie des alinéas 13h) et cc) de la réponse modifiée à l'avis d'appel, en vertu des articles 4 et 53 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »).
+[2] L'appelant a interjeté appel d'une nouvelle cotisation concernant son année d'imposition 2003, dont l'avis est daté du 29 mars 2007. Le 26 avril 2007, l'appelant a signifié au ministre du Revenu national (le « ministre ») un avis d'opposition à l'égard de la nouvelle cotisation; le 1er août 2007, il a déposé auprès de la Cour un avis d'appel concernant la nouvelle cotisation. Il s'agit ici de savoir si le ministre a eu raison de rejeter la demande de crédit pour dons de bienfaisance que l'appelant avait faite pour le motif que l'appelant n'avait pas consenti un don au sens du paragraphe 118.1(1) de la Loi de l'impôt sur le revenu (la « Loi ») et, s'il y avait eu don, si la juste valeur marchande de ce don était supérieure à zéro, et si la règle générale anti‑évitement (la « RGAE ») s'applique, eu égard aux circonstances, en vue de permettre le refus du crédit pour dons de bienfaisance à l'égard du plein montant du paiement effectué en faveur de l'organisme de bienfaisance.
+[3] Les deux alinéas que l'appelant cherche à faire radier font partie des hypothèses sur lesquelles le ministre s'est fondé pour établir la nouvelle cotisation; ces alinéas sont libellés comme suit :
+[traduction]
+13h) La juste valeur marchande de l'accord de redevances était symbolique;
+13cc) Les parties suivantes participaient volontairement au stratagème et agissaient de concert en vue de faciliter sa mise en œuvre :
+i) Trafalgar Trading;
+ii) ParkLane;
+iii) Plaza Capital;
+iv) Plaza Capital Finance Corporation (Plaza Capital Finance);
+v) Specialty Insurance;
+vi) les associations désignées;
+vii) le participant.
+[4] Les moyens invoqués dans la requête sont les suivants :
+[traduction]
+4. en établissant la cotisation, le ministre du Revenu national n'a pas émis les hypothèses énoncées aux alinéas en question, comme l'exige l'alinéa 49(1)d) des Règles; le fait de plaider les alinéas en question constitue donc un recours abusif au sens de l'alinéa 53(1)c) des Règles;
+5. tout autre moyen que l'avocat juge bon d'invoquer et que la Cour autorisera.
+[5] L'alinéa 53(1)c) des Règles est libellé comme suit :
+Radiation d'un acte de procédure ou d'un autre document
+La Cour peut radier un acte de procédure ou un autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l'acte ou le document :
+a) [...]
+b) [...].
+c) constitue un recours abusif à la Cour.
+[6] La preuve soumise par l'appelant figure dans un affidavit auquel sont jointes plusieurs lettres et notes de service rédigées par M. Richard Newson, vérificateur de l'évitement fiscal à l'Agence du revenu du Canada (l'« ARC »). Ces lettres et notes de service comprennent entre autre choses :
+a) des notes de réunion échangées entre le vérificateur et la Division des évaluations, sous la forme d'une note au dossier;
+b) une lettre d'avis de 30 jours adressée à l'appelant, en date du 17 janvier 2007, et une lettre modèle similaire;
+c) une lettre au promoteur, ParkLane Financial Group Ltd., en date du 12 février 2007;
+d) un rapport de vérification T-20 en date du 2 mars 2007 et un modèle;
+e) un exposé de position concernant le programme de dons de bienfaisance ParkLane;
+f) une note de service concernant la RGAE, renvoyée au comité de la RGAE, délivrée avant la lettre de proposition du mois de janvier 2007;
+g) divers extraits de la transcription de l'interrogatoire préalable auquel M. Newson a été soumis les 7 janvier et 29 juin 2009.
+[7] L'intimée a soumis un affidavit du vérificateur de l'évitement fiscal, à l'ARC, Richard D. Newson.
+[8] Selon la position prise par l'appelant, aucun élément de preuve n'étaye les deux hypothèses de fait qui sont contestées. Il s'agissait d'une vérification longue et complexe dans laquelle toutes les hypothèses, sauf les deux hypothèses contestées, étaient méticuleusement documentées au moyen de pièces justificatives. L'appelant a cité certaines décisions dans lesquelles il avait été conclu qu'en plaidant les hypothèses, le ministre doit uniquement plaider le contenu se rapportant à des faits documentés, et non simplement des idées ou réflexions qui n'ont pas encore pris corps. L'appelant affirme qu'étant donné qu'il n'était aucunement fait mention de la valeur de l'accord de redevances dans le rapport de vérification, la valeur ne pouvait pas servir de fondement à une hypothèse émise au cours de l'établissement de la nouvelle cotisation.
+[9] Quant à la seconde hypothèse qui a été contestée, l'appelant soutient que le mauvais libellé y est employé. Selon l'appelant, l'hypothèse exacte devrait être que les parties désignées étaient des participantes à une [traduction] « série d'opérations », étant donné que, pour agir [traduction] « de concert », les parties devaient dépendre les unes des autres et que leurs intérêts devaient être les mêmes.
+[10] Le ministre soutient que le critère à appliquer à la radiation d'actes de procédure est un critère strict qui s'applique uniquement dans les cas flagrants. Selon la position prise par le ministre, certaines hypothèses peuvent être inférées même si les documents ne renferment pas expressément un énoncé tel que [traduction] « la juste valeur marchande de l'accord de redevances était symbolique ». L'absence de cet énoncé ne veut pas dire que l'énoncé n'est pas exact. Le ministre est d'avis qu'étant donné que l'organisme de bienfaisance (les associations désignées) ne bénéficiait pas de l'accord de redevances, la valeur de l'accord était implicitement symbolique.
+[11] En ce qui concerne la seconde hypothèse contestée, le ministre prend la position selon laquelle le fait [traduction] d'« agir de concert » veut dire agir ensemble dans « une série d'opérations ou d'événements » selon la description donnée au paragraphe 248(10) de la Loi. Selon le ministre, étant donné que, dans ce cas‑ci, toutes les parties agissaient ensemble en vue de mettre en œuvre le plan, l'hypothèse selon laquelle elles agissaient de concert est exacte et il n'y a pas de différence entre le fait [traduction] d'« agir ensemble dans le cadre du stratagème » et le fait [traduction] d'« agir de concert ». Le ministre affirme en dernier lieu que, si les termes employés posent un problème, la question peut être soulevée à l'instruction et examinée par le juge du procès.
+[12] Les actes de procédure, dans les litiges de nature fiscale, sont uniques en leur genre; en effet, lorsque des hypothèses sont plaidées dans un appel fiscal, le fardeau de la preuve passe au contribuable, qui est alors tenu de réfuter, selon la prépondérance des probabilités, les hypothèses émises par le ministre. Dans l'arrêt The Queen v. Anchor Pointe Energy Ltd., 2007 DTC 5379, le juge Létourneau fait mention de diverses décisions; aux paragraphes 27, 28 et 29, le juge résume bien l'importance des actes de procédure dans les affaires fiscales :
+[27] Dans notre système fiscal fondé sur l’autodéclaration, le ministre émet des hypothèses de fait pour déterminer l’obligation fiscale du contribuable. Comme l’a dit le juge Rothstein, alors juge à la Cour d’appel fédérale, dans l’arrêt Canada c. Anchor Pointe Energy Ltd., « [l]a Couronne a pour pratique de divulguer dans ses actes de procédure les hypothèses de fait sur lesquelles le ministre s’est fondé pour établir le montant de la dette fiscale », au paragraphe 2. Pour reprendre les termes du juge en chef adjoint Bowman, maintenant juge en chef de la Cour canadienne de l’impôt, « [c]es hypothèses sont censées représenter une communication complète et honnête des faits sur lesquels le ministre du Revenu national s’est fondé en établissant la cotisation » : Holm c. Canada, [2002] A.C.I. no 641 (QL), au paragraphe 9.
+[28] Lorsque les hypothèses sont plaidées, les contribuables ont le fardeau initial de réfuter, selon la prépondérance des probabilités, les hypothèses de fait du ministre : voir Canada c. Anchor Pointe Energy Ltd., au paragraphe 2 et Hickman Motors Ltd. c. Canada, [97 DTC 5363], [1997] 2 R.C.S. 336, au paragraphe 92. Les hypothèses non plaidées n’ont pas d’effet sur le fardeau de la preuve, ni dans un sens, ni dans l’autre : voir Bowens c. Canada, [1996] A.C.F. no 214 (C.A.) (QL), au paragraphe 5 et Pollock c. Canada, [1993] A.C.F. no 1055 (C.A.) (QL), au paragraphe 18.
+[29] L’équité exige que les faits allégués comme hypothèses soient complets, précis, exacts et énoncés de façon honnête et franche afin que le contribuable sache bien clairement ce qu’il devra prouver : Canada c. Anchor Pointe Energy Ltd., au paragraphe 23; Holm c. Canada; Canada c. Loewen, [2004 DTC 6321], [2004] 4 R.C.F. 3 (C.A.F.), au paragraphe 9; Grant c. Canada, [2003 DTC 5160], 2003 CAF 77, au paragraphe 18; First Fund Genesis Corp. c. Canada, [1990] 2 C.T.C. 24 (C.F. 1re inst.), aux pages 26 et 27; Shaughnessy c. Canada, [2002] A.C.I. no 9 (QL), au paragraphe 13; Stephen c. Canada, [2001] A.C.I. no 250 (QL), au paragraphe 6.
+[13] Dans les litiges fiscaux, la Cour a toujours mis l'accent sur l'obligation qui incombe au ministre de fournir des actes de procédure complets et honnêtes. Dans la décision Gould c. Canada, 2005 CCI 556, paragraphe 12, voici ce que le juge Bowman a dit à ce sujet :
+Il ne faut pas oublier que, dans un litige en matière fiscale, les actes de procédure servent à plusieurs fins. Par exemple, la réponse à l'avis d'appel doit faire pleinement état de la position de la partie intimée. Elle doit indiquer avec honnêteté et exhaustivité les hypothèses sur lesquelles se fonde la cotisation. Elle doit être informative pour le juge, de sorte qu'il connaisse la thèse de la Couronne, les questions à trancher, les points en litige et les faits que la Couronne a supposés ou qu'elle entend prouver. Elle doit également indiquer à l'appelant la thèse qu'il devra réfuter. La fonction essentielle des actes de procédure dans un litige est une fonction pratique consistant à donner de l'information sur la thèse de chacune des parties.
+[14] Dans l’arrêt The Queen v. Loewen, 2004 DTC 6321, il est dit que, par suite de l'obligation de clarté et d'exactitude qui lui incombe, la Couronne ne peut pas émettre d'hypothèses impossibles et qu'elle ne peut pas non plus plaider des hypothèses qui ont uniquement été émises une fois la cotisation établie. La Couronne ne peut pas non plus alléguer des énoncés ou des conclusions de droit à titre d'hypothèses, étant donné que tel n'est pas le but des hypothèses.
+[15] C'est la seconde restriction qui importe en l'espèce, à savoir que la Couronne ne peut pas alléguer des hypothèses qui n'ont pas été émises lors de l'établissement de la cotisation. Dans la décision Holm et al v. The Queen, 2003 DTC 755, le juge en chef Bowman a dit, au paragraphe 18, qu'« [i]l est indéniable que l'on soutient fermement au sein de notre cour qu'invoquer des hypothèses de fait non formulées à l'étape de la cotisation est inapproprié et répréhensible ». De même, le juge Rip (alors juge puîné) a conclu ce qui suit au paragraphe 26 de la décision Anchor Pointe Energy Ltd. v. R., [2002] 4 C.T.C. 2633 :
+[26] La Couronne a une sérieuse obligation qui est d'énoncer honnêtement et intégralement les hypothèses effectives sur lesquelles le ministre s'est fondé en établissant la cotisation, qu'elles appuient ou non la cotisation. Le fait d'alléguer dans la réponse à l'avis d'appel que le ministre s'est fondé sur des hypothèses qu'il ne peut avoir formulées n'est pas une façon de satisfaire à cette obligation.
+[16] Il est également bien établi dans la jurisprudence que, bien qu'il incombe à la Couronne de veiller à ce que les hypothèses soient claires et exactes, il incombe au contribuable qui cherche à faire radier des actes de procédure d'établir que le ministre n'a pas émis l'hypothèse en question lors de l'établissement de la nouvelle cotisation. (Voir Stanfield v. The Queen, 2007 DTC 1071, Loewen, précité, et Hickman Motors Ltd. v. The Queen, 97 DTC 5363.) Il semble également que le critère préliminaire aux fins de la radiation d'hypothèses soit rigoureux.
+[17] En 2003, l'appelant a fait un don en espèces de 10 000 $ à l'Association canadienne de lutte amateur; dans le calcul de son revenu de cette année‑là, il a demandé un crédit pour dons de bienfaisance à l'égard de ce don. Comme nous le savons, le ministre a refusé la déduction et a supposé, entre autres hypothèses de fait, que l'Association canadienne de lutte amateur participait à un programme de dons promu en 2003 par ParkLane Financial Group Limited et qu'elle imputait 93 p. 100 du don à l'achat d'un contrat de placement de 20 ans de Trafalgar Trading Limited, soit [traduction] l'« accord de redevances » mentionné dans les hypothèses de fait. Dans son rapport de vérification, et dans le cadre de ses hypothèses, le ministre a également exposé en détail la façon dont le flux de fonds passant entre les mains des divers participants désignés à l'alinéa 13cc) de la réponse modifiée, soit le second alinéa contesté, constituait la série d'opérations présumées.
+[18] L'examen des documents qui ont été soumis, comme la lettre d'avis de 30 jours adressée à l'appelant, la lettre au promoteur, le rapport de vérification et l'exposé de position, montre qu'ils ne renferment aucun énoncé en tant que tel selon lequel la juste valeur marchande de l'accord de redevances était symbolique, et ce fait a été reconnu par M. Newson lorsqu'on l'a questionné sur ce point dans le cadre de l'interrogatoire préalable. D'autre part, M. Newson a maintenu, au cours de l'interrogatoire préalable, que, même s'il n'avait pas fait évaluer l'accord de redevances, il avait émis l'hypothèse de fait selon laquelle la valeur de l'accord était symbolique. Pendant l'interrogatoire préalable, M. Newton a en outre témoigné que, dans sa lettre de proposition (avis de 30 jours), il avait mentionné une série d'opérations qui comprenaient l'acquisition de l'accord de redevances. Dans cet avis de 30 jours, qui est l'un des éléments de preuve les plus anciens, M. Newton a écrit ce qui suit à la page 5 :
+[traduction]
+Au moyen d'une série d'opérations et d'instructions signées par toutes les parties en cause, il y avait un mouvement circulaire du flux monétaire, et les fonds se sont retrouvés entre les mains du créancier. Cette série d'opérations était planifiée d'avance, de sorte que, moyennant un paiement minimal, vous n’étiez jamais tenu responsable du paiement du montant demandé à titre de don et que vous pouviez demander un crédit d'impôt pour dons de bienfaisance excédant le coût de la participation à ce stratagème. À notre avis, en participant à ce stratagème, vous étiez parfaitement au courant de cet avantage important. Nous sommes donc d'avis que le plein montant des fonds transférés aux organismes de bienfaisance ne représente pas un don.
+[19] La lettre d'avis de 30 jours adressée à l'appelant décrit également d'une façon claire et détaillée la série d'opérations et, en particulier, le mouvement circulaire du flux monétaire susmentionné. En conclusion, M. Newton a écrit ce qui suit :
+[traduction]
+À notre avis, la série d'opérations contrecarre l'objet et l'esprit du paragraphe 118.1(3). Cette série d'opérations visait à donner l'impression que des fonds avaient été donnés aux organismes de bienfaisance, alors qu'en fait ce stratagème n'a jamais eu pour but d'enrichir les organismes de bienfaisance. Dans le cadre de cette série d'opérations, les organismes de bienfaisance étaient obligés de transférer à des personnes précises presque tous les fonds reçus. De plus, l'organisme de bienfaisance a censément investi les fonds qu'il a reçus dans un contrat de placement, mais ces fonds se sont retrouvés, le même jour, entre les mains du créancier. Enfin, les organismes de bienfaisance ne disposaient d'aucun recours en vue de recouvrer ces fonds. Ils ne bénéficiaient donc pas d'un usage inconditionnel des fonds et il n'y avait pas de fonds qui puissent être placés au profit des organismes de bienfaisance. Ce mouvement circulaire du flux monétaire était planifié d'avance, l'objectif recherché étant que l'organisme de bienfaisance n'utiliserait jamais ces fonds pour ses activités. Les organismes de bienfaisance servaient simplement d'intermédiaires aux fins de la transmission des fonds dans le cadre d'une tentative visant à générer un crédit d'impôt pour dons de bienfaisance, ce qui est contraire à l'objet du paragraphe 118.1(3) et constitue un abus dans l'application des dispositions de la Loi.
+[20] Il me semble que la position prise par le ministre, à savoir que les fonds étaient transmis par l'entremise de l'organisme de bienfaisance, qui servait d'intermédiaire, a été adoptée dès la réunion organisée avec la Division des évaluations, quoique, selon M. Newson, il n'ait pas été question de la nécessité d'évaluer le contrat de placement de l'organisme de bienfaisance. D'autre part, il serait sensé pour le ministre de considérer tout le stratagème comme une série d'opérations dans le cadre desquelles l'organisme de bienfaisance agissait comme simple intermédiaire et, par conséquent, de présumer implicitement que l'accord de redevances n'avait qu'une simple valeur symbolique. Eu égard aux circonstances dans leur ensemble, cela semble être une conclusion logique. À mon avis, le point de vue du ministre a une répercussion importante sur la valeur de l'accord de redevances, et je suis convaincu que cette hypothèse de fait a été émise et que le ministre s'est fondé sur cette hypothèse en établissant la nouvelle cotisation.
+[21] La position que chaque partie a prise au sujet de la seconde hypothèse en litige a été décrite ci‑dessus dans les présents motifs. Il suffit de dire que, selon la position prise par l'appelant, le mauvais libellé a été utilisé; plutôt que d'employer les termes [traduction] « agissaient de concert », fait valoir l’appelante, les mots [traduction] « participaient à une série d'opérations ou d'événements » auraient dû être utilisés, puisque les parties agissaient indépendamment les unes des autres et que leurs intérêts étaient distincts. Selon la position prise par le ministre, il fallait que chaque partie participe volontairement au stratagème dans son ensemble; sinon, le stratagème n'aurait pas fonctionné. Le ministre se fonde sur le paragraphe 248(10) de la Loi à l'appui de son argument, à savoir que les mots [traduction] « agissaient de concert » veulent dire agir ensemble dans une « série d'opérations ou d'événements ». Enfin, le ministre affirme que, si les termes employés posent un problème, cette question devrait être abordée à l'instruction.
+[22] Lors de son témoignage dans le cadre de l'interrogatoire préalable, M. Newson a reconnu que les termes [traduction] « agissaient de concert » ne figuraient pas dans les documents de vérification. Il y est dit que les parties participaient à une série d'opérations ou d'événements, conformément à la description figurant au paragraphe 248(10) de la Loi. M. Newson a en outre dit que le ministre n'invoquait pas l'existence d'un lien de dépendance entre les parties, ou que l'opération avait été conclue entre des parties liées.
+[23] Il s'agit ici de savoir si le bon libellé a été utilisé dans les actes de procédure et, dans l'affirmative, si ce libellé correspond ou non aux conclusions auxquelles M. Newson était arrivé au cours de la vérification. M. Newson emploie les termes [traduction] « agissaient ensemble » alors que, dans les actes de procédure, les termes [traduction] « agissaient de concert » sont employés. Il semble évident que, lors de la vérification, M. Newson ne songeait probablement pas à la connotation juridique des mots [traduction] « agissaient de concert », mais à mon avis, il est préférable de laisser à l'appréciation du juge du procès la question de savoir si les faits justifient l'emploi de ces termes.
+[24] L'expression « agir de concert » fait partie du critère juridique permettant de décider si une opération entre deux parties est une opération sans lien de dépendance. Il faut se demander si les parties agissent séparément et si leurs intérêts sont distincts. Il a été conclu qu'il est satisfait à ce critère si quelqu’un « ne fait que participer à une opération, non pour son propre bénéfice mais pour celui de quelqu'un d'autre ou, même s’il agit pour son propre bénéfice, s’il agit aussi pour quelqu'un d'autre dans un contexte de réciprocité. On agit ainsi sans intérêt distinct, et non de façon indépendante pour son propre intérêt ». [Non souligné dans l’original.] (Voir la décision rendue par le juge Archambault dans l'affaire Gestion Yvan Drouin Inc. c. Canada, [2000] A.C.I. no 872, paragraphe 75).
+[25] Il serait possible de dire – et je laisserai le juge du procès arriver à sa propre conclusion – qu'en l'espèce, les parties ont participé à une série d'opérations dans lesquelles elles ont agi dans leur propre intérêt, ainsi que dans l'intérêt de quelqu'un d'autre, afin d'assurer le bon déroulement de toute la série d'opérations. On pourrait donc parler dans ce cas‑ci d'« agir de concert » ou de « participer à une série d'opérations ou d'événements ».
+[26] En l'espèce, étant donné la position prise par le ministre, à savoir que les parties participaient volontairement à une série d'opérations visant à permettre la transmission de fonds par l'entremise d'un organisme de bienfaisance qui servait d'intermédiaire, il est encore une fois logique pour le ministre de supposer que chaque partie agissait de concert avec les autres. Si l'utilisation des mots « agir de concert » dans un contexte où l'existence d'un lien de dépendance entre les parties n'est pas contestée pose un problème, la question devrait être abordée à l'instruction, comme le propose le ministre.
+[27] Il a été dit qu'une ordonnance visant la radiation d'actes de procédure ne doit être accordée que s'il est clair et manifeste qu'un acte de procédure constitue un recours abusif au tribunal (voir Gould, précitée, paragraphe 23, citant Niagara Helicopters Ltd. v. The Queen, 2003 DTC 513). À mon avis, tel n'est pas ici le cas.
+[28] Étant donné que la présente affaire a été inscrite au rôle à une date postérieure à celle qui avait antérieurement été fixée, je n'estime pas nécessaire d'examiner la demande que le ministre a faite pour que la Cour refuse l'autorisation de joindre les actes de procédure pour le motif que cela n'a pas été fait dans un délai raisonnable, conformément aux Règles.
+[29] La requête est rejetée, les dépens devant suivre l'issue de la cause.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2009.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+Ce 17e jour de mars 2010.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE : 2009 CCI 606
+No DU DOSSIER DE LA COUR : 2007-3474(IT)G
+INTITULÉ : Michael Edwards
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 24 septembre 2009
+MOTIFS DE L'ORDONNANCE : L’honorable juge François Angers
+DATE DE L'ORDONNANCE : Le 30 novembre 2009
+COMPARUTIONS :
+Avocats de l'appelant :
+Me Ian MacGregor
+Me Pooja Samtani
+Avocats de l'intimée :
+Me Martin Hickey
+Me Devon E. Peavoy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Ian MacGregor
+Pooja Samtani
+Cabinet : Osler, Hoskin & Harcourt LLB
+Ottawa, Canada
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

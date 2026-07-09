@@ -1,0 +1,182 @@
+Title: Phillips v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26096/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-24-26096-phillips-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-01-30
+
+# Phillips v. The Queen
+
+- Citation: 2006 TCC 24
+- Decision date: 2006-01-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4157, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Phillips v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-30
+Neutral citation
+2006 TCC 24
+File numbers
+2004-694(GST)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-694(GST)I
+BETWEEN:
+RONALD SYDNEY PHILLIPS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 12, 2005, at Winnipeg, Manitoba
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Penny L. Piper
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act which bears number 09CR0100071 and is dated January 29, 2003 is allowed in part, in accordance with the terms of the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 30th day of January, 2006.
+"B. Paris"
+Paris J.
+Citation: 2006TCC24
+Date: 20060130
+Docket: 2004-694(GST)I
+BETWEEN:
+RONALD SYDNEY PHILLIPS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] This is an appeal from a reassessment of the Goods and Services Tax on supplies made by the Appellant between July 1, 1997 and June 30, 2001. The Appellant has been reassessed on the basis that he failed to remit GST that he collected on attendance fees for various educational conferences he put on in Winnipegduring the period in issue.
+[2] The Appellant says that he did not charge GST on the attendance fees he received for the courses and that most of the attendance fees were paid by Indian bands or band entities who were exempt from paying GST pursuant to section 87 of the Indian Act.
+[3] The issues in this appeal are:
+1) whether all of the conference fees charged by the Appellant during the relevant period included GST which he failed to remit; and, if not,
+2) whether the Indian bands or band entities that paid conference fees to the Appellant were exempt from paying GST on the fees by virtue of section 87 of the Indian Act.
+Facts
+[4] The Appellant organized conferences consisting of workshops and training sessions which dealt with issues of particular interest to Indians working in the fields of health care, education and administration. While some of the conferences were held on reserves, the conferences that give rise to the present appeal were given off-reserve. The Minister of National Revenue accepted that fees received in respect of Indian participants at conferences held on reserve were exempt from GST under section 87 of the Indian Act.
+[5] The conferences put on by the Appellant off-reserve during the relevant period included the following:
+Effective Strategies for Lobbying Governments: Success for First Nations
+Empowering First Nations Health Committees
+Creating Economic Opportunities and Jobs
+Getting Funding for Your Community Projects and Community Development
+Aboriginal Community Health and Education Workshops
+Aboriginal Community Health Planning
+Restorative Justice
+Aboriginal Children and Youth: Empowerment/Self-determination
+FirstNations SchoolBoard Training: Planning and Budgeting
+Current Issues in Native Education
+Respecting Traditions: Bringing Aboriginal Values/Traditions/Languages into the Education System
+[6] The conferences were generally three to five days in length and consisted mainly of shorter workshops that ran for one to three days and were put on by presenters hired by the Appellant. Some handouts were provided to conference participants by the Appellant.
+[7] The brochures and registration forms for the Appellant's conferences showed the registration fees payable for the conference or selected workshops. The brochures for conferences that were held before April, 2001 were silent with respect to GST. Starting in April 2001, the payment forms provided a line for the addition of GST to the conference or workshop fees, and also stated that "First Nations Empowered Entities ...should indicate their exemption from GST for management activities off-reserve".
+[8] The Appellant explained that he did not charge GST on any of the conference fees because he believed the vast majority of his customers, being Indian bands or band entities, were exempted from paying GST. His belief that the fees were exempt from GST was based on administrative guidelines published by the CRA entitled "GST Administrative Policy: Application of GST to Indians"[1]. Those guidelines provide, in particular, that:
+Services acquired on or off a reserve by an Indian band or band-empowered entity (incorporated or unincorporated) for band management activities or for real property on a reserve are not subject to the GST/HST.[2]
+[9] He said that since Indian bands and band entities were not required to pay GST on the conference fees (according to the guidelines) it made his bookkeeping much simpler not to charge GST to any of the participants, even the few that were not exempt from GST, and to make up any GST payable out of his own pocket.
+[10] There was some inconsistency in the receipts issued by the Appellant for the registration fees. All of the receipts indicated a total amount received (a round dollar total), written out both in letters and numbers. In a few instances, for payment received from a person or organization that was not GST exempt, an amount of GST was shown. On a number of other receipts, for fees paid by Indian bands or band entities, there is a notation: "GST 0.00". However, on most of the receipts there was no reference to GST at all.
+[11] With respect to the receipts where an amount of GST was shown, the Appellant explained that occasionally a non-exempt registrant would send in its registration fee and note on its cheque that the payment included an amount of GST. In those instances, the Appellant treated the total payment received as including the amount of GST indicated by the participant. He said that although he did not intend the amount of registration fees that he charged to be inclusive of GST, he chose not to pursue those participants (i.e. those who treated it as being included) for the deficiency because the amounts involved were small, generally less than $20.
+[12] The Appellant put into evidence exemption certificates from the various Indian bands or band entities (such as band councils, education authorities, and health service providers) that had sent participants to the Appellant's conferences during the years in issue. Those certificates state that the property or service being acquired from the Appellant was for band management activities and that the supply was not subject to GST. The forms were signed by an authorized officer of the band or band entity. Those exemption certificates are in the form set out in the GST Technical Information Bulletin B-039 which states:
+Vendor documentation
+Indian bands and band-empowered entities
+When the purchaser is an Indian band or band-empowered entity, a certificate must be provided and retained by the vendor that the property is being acquired by an Indian band or band-empowered entity or that the services are being acquired for band management activities.
+The exemption certificates in evidence cover attendance fees paid to the Appellant totalling $693,818.30.
+Arguments
+First issue
+[13] The Appellant says that he did not charge GST on the fees collected from the Indian bands given the administrative policy of the CRA which exempted services provided off-reserve for band management activities. He pointed to the exemption certificates he obtained from the various bands and band entities in support of his position.
+[14] The Appellant does admit, however, that he should have collected GST on fees paid by participants who were not attending on behalf of a band or a band entity and who did not work on a reserve, and that he is required to pay this amount regardless of whether he in fact collected it from the customer. The only part of the reassessment in issue in this appeal relates to fees paid by Indian bands and band entities for the attendance of Indians working on reserves in the fields described above.
+[15] The Respondent alleges that the notations of some of the receipts regarding GST were sufficient to show that the Appellant intended that all the fees charged would include GST. Since the fees charged included GST, the Appellant was liable to remit those amounts, regardless of whether the GST was paid by the Appellant's customers in error.
+Second issue
+[16] Counsel for the Respondent argued that the Appellant was supplying "admissions" to the conferences he put on and that according to the definition of "admission" found in the Excise Tax Act (ETA) admissions are intangible personal property. That definition, found at section 123 of the Act, reads as follows:
+123.(1) Definitions - In section 121, this Part and Schedules V to X,
+...
+"admission", in respect of a place of amusement or a seminar, an activity or an event, means a right of entry or access to, or attendance at, the place of amusement or the seminar, activity or event;
+[17] Since the supply by the Appellant was a supply of intangible personal property and since the supply occurred off-reserve it was not exempted from GST by section 87 of the Indian Act. That exemption only covers personal property of an Indian that is situated on a reserve.
+[18] Counsel argued in the alternative that even if the conferences put on by the Appellant were a supply of a service rather than of property the supply would still be taxable and not exempt because section 87 of the Indian Act did not exempt services acquired by an Indian, even those acquired on a reserve.
+[19] The Appellant on the other hand referred to the CRA administrative policy set out in GST Technical Information Bulletin B-039R and argued that the policy provided a correct interpretation of the GST exemption regarding supplies made for the purpose of band management activities. Therefore he said the fees paid in respect of participants who worked in band management activities on reserves were exempt from GST.
+Analysis
+First Issue
+[20] The question of whether the Appellant collected but failed to remit GST on the conference fees he received from Indian bands and band entities is a question of fact.
+[21] I am satisfied by the evidence that the Appellant did not collect GST on the conference fees in issue. In arriving at this conclusion, I have taken into consideration that up to April 2001 no reference is made in the Appellant's brochures or elsewhere that GST was included in the fee charged, and I accept that the Appellant never intended that the GST be included. The Appellant's evidence that he chose not to collect the GST on the fees paid by the bands was not challenged in cross-examination and I have no reason not to believe it. I accept that in not collecting the GST he intended to follow the published CRA guidelines in Technical Administration Bulletin B-039R.
+[22] The fact that in a few instances the Appellant accepted payments as including GST does not displace the preponderance of the evidence to the effect that the Appellant did not collect GST on the conference fees he charged. I think it is also material that the bands and band entities understood that the fees they paid to the Appellant were not inclusive of GST.
+[23] Also, from April 2001 on the brochures show that GST, if applicable, is to be added to the fees charged for the conferences and workshops, and that those fees were not inclusive of GST. This also tends to support the Appellant's position that GST was not included in the fees listed in the brochures before then.
+Second issue
+[24] It must still be determined whether the bands and band entities that paid conference fees to the Appellant were exempt from paying GST on the fees. If not, the Appellant will still be liable to pay the GST on those supplies, even though he failed to collect it. In turn, pursuant to section 224 of the ETA he would be able to bring an action against the bands and band entities to recover the unpaid tax.
+[25] In order to determine whether any tax exemption under section 87 of the Indian Act is available, it is first necessary to consider the wording of the exempting provision. Section 87 reads as follows:
+(1) Property exempt from taxation - Notwithstanding any other Act of Parliament or any Act of the legislature of a province, but subject to section 83, the following property is exempt from taxation, namely,
+(a) the interest of an Indian or a band in reserve lands or surrendered lands; and
+(b) the personal property of an Indian or a band situated on a reserve.
+(2) Idem - No Indian or band is subject to taxation in respect of the ownership, occupation, possession or use of any property mentioned in paragraph (1)(a) or (b) or is otherwise subject to taxation in respect of any such property.
+...
+[26] According to section 87, the exemption from taxation is available if the property in respect of which the exemption is sought is either:
+(i) an interest of an Indian or band in reserve or surrendered lands, or
+(ii) the personal property of an Indian or a band situated on a reserve.
+[27] The first question that must be answered then is: what is the property in respect of which the exemption is being claimed in this case?
+[28] The Appellant did not specify any property basis for exempting the conference fees from GST. He stated that he supplied education or training services, and simply relied on the administrative guidelines referred to earlier in these reasons as a proper interpretation of the exemption, at least insofar as the treatment of services supplied for band management activities was concerned.
+[29] The Respondent argued that the Appellant supplied "admissions" to his conferences, which were deemed by subsection 123(1) of the ETA to be rights to attend, and were therefore intangible personal property. According to counsel, this property was not located on a reserve and therefore not exempt from GST under section 87.
+[30] On the question of whether the Appellant was supplying a service or property, I agree with the Respondent's conclusion, although I do not see that the definition of "admission" in subsection 123(1) of the ETA is relevant in arriving at that conclusion. That definition controls the meaning to be given to the word "admission" where it is used in section 121 and Part IX of the ETA and in Schedules V to X to the ETA. None of the provisions in the Act or in those Schedules where the word "admission" is used is applicable to the Appellant's situation and there is nothing in the Act which deems the payment of registration fees to a conference to be the purchase of an admission.
+[31] However, I believe that under the contract between the Appellant and his customers, the payment of the conference registration fees gave the latter a right to attend the conference at a future date. Although the conferences themselves would be the provision of a service, at the point in time when the bands or band entities made payments to the Appellant they acquired a right to the performance of a service in the future.
+[32] The conference fees were paid by participants or (in this case) by their employers in order to attend the conferences or workshops put on by the Appellant on a scheduled day or days. The fees were set according to the particular workshops that the participant wished to attend and were paid in advance. According to the Appellant, the various Indian bands or band entities would often pay for more than one place at a conference and decide afterwards who would attend. Thus it appears that the right to attend the conference was transferable from one person to another. The registration forms provided that no refund would be given if a registrant did not attend and had not made a request for a refund more than a week prior to the conference. Therefore the payment was not conditional on receipt of the service.
+[33] I find that, in this case at the time the supply was made, the supply consisted of a right to attend the conference.
+[34] Such a contractual right would be intangible personal property and would fall within the definition of "property" found in subsection 123(1) of the ETA:
+"property" means any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and includes a right or interest of any kind, a share and a chose in action, but does not include money; (emphasis added)
+[35] It is still necessary to determine whether this property was situated on a reserve, as required by section 87, in order to be exempt from taxation.
+[36] The test to be used to find the situs of intangible property - the "connecting factors test" - was set out by the Supreme Court of Canada in Williams v. The Queen[3]. In that case, at paragraph 61, Gonthier J. said:
+Determining the situs of intangible personal property requires a court to evaluate various connecting factors which tie the property to one location or another. In the context of the exemption from taxation in the Indian Act, there are three important considerations: the purpose of the exemption; the character of the property in question; and the incidence of taxation upon that property. Given the purpose of the exemption, the ultimate question is to what extent each factor is relevant in determining whether to tax the particular kind of property in a particular manner would erode the entitlement of an Indian qua Indian to personal property on the reserve.
+[37] The purpose of the section 87 exemption is "to preserve the entitlements of Indians to their lands and to ensure that the use of their property on their reserve lands was not eroded by the ability of governments to tax, or creditors to seize"[4].
+[38] Again, the property in this case is intangible rights. These rights are personal property of the bands and band entities that acquired them.
+[39] The taxation sought to be imposed on that property, the GST, is generally considered a consumption tax but one that attaches at the moment the property or service is acquired rather than at the time of its consumption. The charging section for the GST is section 165(1) of the ETA:
+Imposition of goods and services tax - Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada tax in respect of the supply calculated at the rate of 7% on the value of the consideration for the supply.
+[40] The tax is imposed on the recipient of a taxable supply, and a supply is defined as "the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition"[5]. The tax attaches at a particular point in time - when property or service is provided to the recipient - and would, in the absence of a tax exemption, apply in this case at the point at which the Indian bands or band entities acquired the rights. Therefore tax can be said to "in respect of"[6] the ownership of property, which is prohibited by subsection 87(2) of the Indian Act when directed at personal property of an Indian or Indian band situated on a reserve.
+[41] The factors that would be material to the question of whether the intangible property in this was situated on the reserve would be: the location of the purchaser of the property, the location of the vendor, and the purpose of the acquisition of the property by the Indian bands and band entities.
+[42] The factors that connect the property to a reserve are the location of the purchasers on reserves and the purpose for which the property was acquired. The property was acquired by the various Indian bands and band entities in the course of operating education and health facilities and carrying out band administration on their reserves and was acquired to ameliorate the quality of life of Indians on the reserve or for the better administration of the band lands.
+[43] The acquisition of the rights is linked physically with the reserve by the presence on the reserve of the Indian bands and band entities when they acquired the rights, and are also linked with the reserve by the purpose for which the rights were acquired: to improve the social, educational and administrative institutions on the reserve, and strengthen the reserve as the social base of the Indians who inhabit it. This is indicative of a strong nexus between the property and the occupation of the reserve lands by the Indian bands and band entities.
+[44] On the other hand, the location of the Appellant at the time of the supply would weigh against a finding that the property was situated on a reserve at the time of taxation.
+[45] In considering each of these factors, and in applying the appropriate weight to each, it appears to me that the location of the rights to attend the Appellant's conferences was on-reserve at the time they were acquired. In Monias v. The Queen[7] the Federal Court of Appeal said that in situating intangible property "it is the situs of its acquisition that is particularly important". In the circumstances of this case the property was acquired by the Indian bands and band entities on-reserve. For this reason, and in light of the strong nexus between the property and the use and occupation of the band lands, the property was held as part of the entitlement of Indians qua Indians on the reserve.
+[46] For all of these reasons I find that supply of the conference services by the Appellant to Indian bands were exempt from the payment of GST. The Appellant has presented evidence that conference fees totalling $693,818.30 were paid by Indian bands and therefore exempt from taxation. In the absence of any evidence that the remainder of the registration fees of $812,120.00 he received in respect of conferences held off-reserve were paid by Indian bands or band entities those fees will be subject to GST.
+[47] The appeal is therefore allowed in part. Because the amount of GST in issue is over $7,000.00 no award of costs will be made.
+Signed at Toronto, Ontario, this 30th day of January, 2006.
+"B. Paris"
+Paris J.
+CITATION: 2006TCC24
+COURT FILE NO.: 2004-694(GST)I
+STYLE OF CAUSE: RONALD SYDNEY PHILLIPS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: January 12, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: January 30, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Penny L. Piper
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Technical Information Bulletin B-039R, dated November 25, 1993.
+[2] Bulletin B-039R also states:
+A "band-empowered entity" is a corporation, board, council, association, society, or other organization that is owned or controlled by a band, a tribal council, or a group of bands other than a tribal council. This policy is applicable to those band-empowered entities that are situated on a reserve. A band-empowered entity is considered to be situated on a reserve when the entity maintains a presence on a reserve.
+...
+"Band management activities" are activities or programs undertaken by a band or band-empowered entity that are not commercial activities for which they would otherwise be entitled to an input tax credit. In determining whether the acquisition of a supply is for band management, the output of the activity or program will be the determining factor, as opposed to the objectives of the activity or program. For example, a band's objective may be to provide employment and training to band members. To achieve this objective, the band may form a commercial enterprise which will provide on-the-job training and also create employment. Although the band's objective is to train persons, the output is a commercial activity for which there is an entitlement to input tax credits. As a result, supplies acquired for use in this band program are not considered to have been acquired for use in band management activities.
+[3] [1992] 1 S.C.R. 877.
+.
+[4] Williams v. The Queen, supra, at paragraph 16
+[5] Definition of "supply", section 123(1) Excise Tax Act
+[6] Nowegijick v. The Queen 1983 [1983]1 S.C.R. 29 at page 30
+[7] [2002] 1 F.C. 51 at paragraph 66

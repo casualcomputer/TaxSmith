@@ -1,0 +1,105 @@
+---
+title: "Aasland c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27684/index.do"
+last_modified: "2004-03-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 95"
+citation2: ""
+neutral_citation: "2004 CCI 95"
+decision_date: "2004-03-01"
+language: "fr"
+item_id: "27684"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 504
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:45:00.311000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c331a96b623e887502570b536604c74df417337e92f6f6f4513ef2da091039c1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Aasland c. La Reine
+
+- Citation: 2004 CCI 95
+- Decision date: 2004-03-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 504, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aasland c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-01
+Référence neutre
+2004 CCI 95
+Numéro de dossier
+2003-1831(IT)I
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI95
+Date : 20040301
+Dossier : 2003-1831(IT)I
+ENTRE :
+BJARNE AASLAND,
+appelant
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Représentant de l’appelant : Gordon Gillespie
+Avocat de l’intimée : Michael Van Dam
+___________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience à
+Winnipeg (Manitoba), le 7 novembre 2003)
+Le juge Mogan
+[1] Ces appels visent les années d’imposition 1999 et 2000. Pour chacune de ces années, l’appelant a produit, en vertu de la Loi de l’impôt sur le revenu, des déclarations de revenus ne portant que son nom et son adresse. Les déclarations n’indiquaient ni les sources, ni le montant de son revenu. Des éléments de preuve ont été présentés pour le compte de Revenu Canada par M. Chervinski, agent d’examen des comptes de fiducie, qui a déclaré que l’appelant n’avait pas produit de déclaration de revenus pour les années 1994 à 1998. L’appelant ayant omis de produire des déclarations pour 1994 et les années ultérieures, Revenu Canada a établi ce qu’on appelle des cotisations arbitraires; pour ce faire, il a regroupé les sources de revenu pour lesquelles il possédait des relevés provenant de tiers, soit des feuillets T4 ou T5 pour la pension de vieillesse, le Régime de pensions du Canada ou d’autres pensions; il a ajouté un montant arbitraire de 2 000 $ au titre du revenu d’entreprise. C’est sur cette base que des cotisations ont été établies à l’égard de l’appelant pour les années 1994 à 1998. Pour les années visées par l’appel, Revenu Canada s’est fondé sur des preuves tangibles émanant de tiers, mais il a ajouté une somme arbitraire au titre du revenu d’entreprise.
+[2] D’après ce que l’appelant se rappelle, il n’a porté en appel aucune des cotisations pour les années 1994 à 1998. Dans les deux années visées par l’appel, comme je l’ai mentionné, l’appelant a produit des déclarations, mais il n’a pas indiqué de montants quant à son revenu ou à ses diverses sources ou encore à quelque élément qui aurait permis au ministre du Revenu national de déterminer quel était le revenu réel de l’appelant. Au début de l’audience, le représentant de l’appelant, M. Gillespie, a présenté à la Cour des copies des déclarations de revenus pour les années 1999 et 2000, qui avaient également été remplies par Revenu Canada et qui ont été déposées à titre de pièces.
+[3] Les pièces A-1 et A-2 sont les déclarations de l’appelant remplies par Revenu Canada pour les années d’imposition 1999 et 2000 respectivement. À la page 2 de la déclaration pour 1999, Revenu Canada indique que l’appelant a touché une pension de la Sécurité de la vieillesse de 4 959 $, des prestations du Régime de pensions du Canada de 6 983 $ et d’autres pensions de 18 302 $, pour un total approximatif de 30 000 $. À la ligne 135, Revenu Canada inscrit un revenu d’entreprise de 5 000 $, ce qui porte le revenu total à 35 244 $. Pour l’année 2000, le même genre de calcul est effectué. D’après la pièce A-2, Revenu Canada a inscrit une pension de la Sécurité de la vieillesse de 5 079 $, des prestations du Régime de pensions du Canada de 7 094 $ et d’autres pensions de 18 500 $, ce qui donne, dans ce cas également, un revenu total provenant de ces sources d’environ 30 000 $. Revenu Canada a, là aussi, ajouté 5 000 $ de revenu d’entreprise.
+[4] Par la voix de son représentant, l’appelant a reconnu que le calcul du revenu tiré de pensions dans ces déclarations était exact. En d’autres termes, l’appelant a admis qu’il avait bien touché un revenu d’au moins 30 000 $ pour chacune des années 1999 et 2000 des trois sources désignées, soit une pension de la Sécurité de la vieillesse, des prestations du Régime de pensions du Canada et un autre revenu de pension. Le seul montant en litige est la somme de 5 000 $ qui semble être une somme arbitraire ajoutée à titre de revenu d’entreprise par Revenu Canada.
+[5] Aucune preuve n’a été soumise par l’appelant ou en son nom. Personne ne s’est présenté à la barre des témoins pour témoigner de vive voix de ce que faisait l’appelant, outre recevoir son revenu de pension, pour dire s’il exploitait ou non une entreprise et quelle était la nature de ses activités. Mais des déclarations faites au hasard par le représentant de l’appelant, M. Gillespie, et les réponses données par l’appelant lui‑même à quelques questions que je lui ai posées directement alors qu’il ne se trouvait pas à la barre des témoins révèlent que ce dernier est musicien. Il a fait partie d’une musique militaire pendant près de 26 ans. Il a déclaré qu’il jouait d’instruments à anche, comme le saxophone et la clarinette, et qu’il jouait également du piano et de l’accordéon. Après son départ de l’armée, il a donné ce que certains appellent des « prestations », qui sont des engagements où un musicien se produit seul ou avec un groupe dans le cadre d’un événement social comme un anniversaire ou un mariage, ou dans un établissement commercial, par exemple un bar.
+[6] Le ministre a manifestement appris que l’appelant exerçait cette activité (« prestations ») grâce aux déclarations antérieures parce que, même si l’appelant n’a produit aucune preuve, l’avocat de l’intimée a convoqué un employé de Revenu Canada, M. Chervinski, qui, à l’époque en cause, soit en 2001, tentait de déterminer, dans le cadre d’une activité régulière de Revenu Canada, pourquoi des gens ne produisaient pas de déclarations. Des noms de personnes lui avaient été attribués et le nom de l’appelant se trouvait sur sa liste.
+[7] M. Chervinski s’est penché sur le cas et a découvert que, de 1994 à 1998, aucune déclaration n’avait été produite. Il savait que, pour chacune de ces années, le ministre avait ajouté un montant arbitraire de 2 000 $. Il a fait d’autres démarches et a constaté que l’appelant avait, de 1987 à 1993, produit des déclarations dans lesquelles il faisait état de ce genre d’activité. M. Chervinski a fourni, pour ces années, des montants précis qu’il avait tirés des déclarations de l’appelant. En 1987, l’appelant a indiqué, au titre de ses activités de musicien, un revenu brut de 5 650 $ et une perte de 3 024 $; en 1988, un revenu brut de 4 010 $ et une perte de 2 640 $; en 1989, un revenu brut de 2 185 $ et une perte de 3 846 $; en 1990 et 1991, il n’a déclaré aucun revenu brut, mais il a fait état d’une perte de 2 227 $ pour 1990 et de 2 023 $ pour 1991. En 1992 et 1993, l’appelant a de nouveau fait état de montants bruts et de montants nets : pour 1992, un revenu brut de 3 986 $, mais une perte nette de 1 692 $, et pour 1993, un revenu brut de 700 $, mais une perte nette de 1 853 $. Donc, à partir de 1987 jusqu’en 1993, l’appelant a fait état de son activité commerciale à titre de musicien en indiquant des montants de revenu brut se situant approximativement dans la fourchette comprise entre 4 000 $ et 2 000 $ si j’exclus les deux limites extrêmes de 700 $ en 1993 et de 5 600 $ en 1987. Si je ne tiens pas compte de ces deux montants extrêmes déclarés pour 1987 et 1993, dans les cinq autres années, les montants bruts se situaient entre 2 000 $ et 4 000 $, soit une moyenne de 3 000 $.
+[8] Puis l’appelant a, pour une raison ou pour une autre, cessé de produire des déclarations après 1993, et le ministre a rempli des déclarations non signées en se servant des renseignements de tiers apparaissant sur des feuillets T4 ou T5 délivrés par le Régime de pensions du Canada ou la Sécurité de la vieillesse. L’appelant est né en 1931, de sorte qu’il aurait atteint 65 ans en 1996. Je présume qu’à partir de 1996, il a reçu une pension de la Sécurité de la vieillesse, de même que des prestations du Régime de pensions du Canada et probablement une pension de service militaire de près de 18 000 $ comme suite à de nombreuses années de service.
+[9] M. Chervinski a affirmé qu’il avait discuté de la question avec son supérieur, et que tous deux avaient décidé d’augmenter le revenu brut du musicien établi arbitrairement pour le faire passer de 2 000 $ à 5 000 $ et ainsi tenter d’amener l’appelant à produire des déclarations de revenus. Cette déclaration vient confirmer le contenu d’un document que l’appelant a obtenu grâce à l’Accès à l’information et à la protection des renseignements personnels et qui est manifestement un document tiré des dossiers de Revenu Canada parce qu’il porte le nom de l’employé de Revenu Canada, Randy, soit le prénom du seul témoin qui est venu déposer sous serment ici aujourd’hui. Le document renferme la phrase suivante :
+[TRADUCTION]
+De plus, un montant arbitraire de 2 000 $ a été inclus à titre de revenu gagné comme musicien de 1994 à 1998, ce qui n’a toujours pas amené le client à se conformer à la loi. En conséquence, j’ai inclus un montant de 5 000 $ comme revenu tiré d’un travail indépendant en qualité de musicien pour inciter le client à se conformer à la loi.
+Ainsi, M. Chervinski a franchement déclaré qu’il avait augmenté le montant pour tenter d’amener l’appelant à observer la loi. Je ne trouve rien à y redire.
+[10] Le représentant de l’appelant estimait que le processus était appliqué de façon abusive et a invoqué le paragraphe 152(7) de la Loi de l’impôt sur le revenu, mais, à mon sens, ce paragraphe n’est pas en faveur de l’appelant parce qu’il confère au ministre le pouvoir d’établir des cotisations arbitraires quand aucune déclaration n’a été produite. Étant donné que l’appelant a admis qu’il avait produit, pour 1999 et pour 2000, une déclaration n’indiquant aucune source de revenu, il ne s’agit pas dans les faits d’une déclaration; c’est une feuille de papier portant son adresse.
+[11] Une déclaration de revenus est un document réglementaire prescrit par la Loi et le formulaire est adopté par Règlement. Le contribuable ne fait pas seulement état de son nom, de son adresse et de son numéro d’assurance sociale, mais aussi de son revenu réel ou de la meilleure estimation qu’il puisse faire de son revenu. S’il exploite une entreprise, il calcule son revenu et ses dépenses. Dans le cas de l’appelant, il lui est encore moins pardonnable de ne pas avoir produit de déclaration du fait qu’il touchait un revenu de sources discernables et de montants précis, comme une pension de la Sécurité de la vieillesse, des prestations du Régime de pensions du Canada et sa pension de service militaire. Il ne s’agit pas d’estimations, mais de montants réels, reçus chaque mois, et à la fin de l’année, les autorités qui distribuent ces pensions envoient à chaque personne concernée au Canada ce qu’on appelle un feuillet T4 ou T5 faisant état du nom du payeur et du montant précis qui lui a été versé dans l’année.
+[12] Cet appelant savait donc qu’il touchait près de 30 000 $ chaque année de sources précises, suivant des montants particuliers versés chaque mois. Le moins qu’on puisse dire, c’est que son défaut de produire des déclarations est curieux, et qu’il est vraiment inexplicable si tant est qu’il exploite une activité commerciale à perte, ce qui pourrait réduire son revenu. Le témoignage de M. Chervinski porte à croire que s’il avait déclaré ses activités comme musicien, celles‑ci auraient probablement donné lieu à une perte, que l’appelant aurait pu appliquer en réduction d’une partie de son revenu de pensions. Pour une raison ou pour une autre, l’appelant n’a pas produit de déclarations.
+[13] Le ministre est, à mon avis, fondé à établir une cotisation et à ajouter une somme arbitraire de revenu brut au titre des activités de l’appelant comme musicien. Si l’appelant a reçu le conseil de ne pas produire de déclaration, il a été très mal avisé, mais ce n’est pas la première fois qu’un contribuable reçoit de mauvais conseils.
+[14] Quoi qu’il en soit, j’ai de la compassion pour le contribuable pour trois raisons. D’abord son âge, puisqu’il n’est plus temps pour lui de partir à la recherche active d’un emploi. Il est à la retraite, il a plus de 70 ans et il s’est consacré à la vie militaire et à d’autres activités. Deuxièmement, il y a tout lieu de croire, d’après ce qui a été dit aujourd’hui devant la Cour, que l’appelant a reçu de mauvais conseils et qu’il les a suivis. C’est de l’imprudence de sa part, mais nous n’agissons pas toujours au mieux de nos intérêts. Et enfin, les preuves apportées en toute bonne foi par M. Chervinski indiquent que l’appelant a constamment déclaré des pertes.
+[15] Je compte par conséquent modifier les cotisations portées en appel. Si j’examine les sept années d’imposition pour lesquelles M. Chervinski a soumis des éléments de preuve précis, le niveau le plus élevé et le niveau le plus bas des montants bruts déclarés pour ces années sont 5 650 $ et 700 $. Je suggère d’exclure ces montants, comme on le fait souvent pour tenter d’en arriver à une moyenne. Les autres montants qui restent sont d’environ 4 000 $, 2 200 $ et 4 000 $. Je vais établir une moyenne et supposer que les cinq autres années indiqueraient un revenu brut d’environ 3 000 $.
+[16] Je conclus que le ministre pouvait établir une cotisation à l’égard de ce contribuable et ajouter le montant de 5 000 $, compte tenu des renseignements restreints dont il disposait. Il est difficile de forcer une personne à se conformer à la loi quand le ministre sait que cette personne touche près de 30 000 $ de revenus tirés de sources qui lui sont communiquées par des tiers payeurs. Le ministre doit faire tout en son pouvoir pour encourager et amener les gens à se conformer à la Loi, et le ministre était donc fondé à monter la barre, si je puis m’exprimer ainsi, de 2 000 $ à 5 000 $. Mais après avoir entendu les preuves présentées à la Cour aujourd’hui et comme j’éprouve une certaine compassion pour l’appelant, en raison de son âge d’abord, puis en raison de ses antécédents au cours des années antérieures et en raison encore des mauvais conseils qu’il a reçus, je vais réduire à 3 000 $ l’évaluation arbitraire de son revenu de musicien et décider d’accueillir l’appel en partie seulement. Les cotisations sont maintenues en tous points, sauf que les montants ajoutés de façon arbitraire par le ministre pour 1999 et 2000 sont réduits pour passer de 5 000 $ à 3 000 $. Les pénalités sont par ailleurs maintenues.
+[17] Des pénalités sont prévues à la Loi pour ceux qui non seulement omettent de produire des déclarations, mais omettent de le faire de façon répétitive, même après avoir reçu des demandes et des mises en demeure; et ces pénalités sont maintenues. Elles seront quelque peu réduites du fait que je réduis légèrement le revenu brut de l’appelant. Je veux que l’on prenne bonne note que j’ai affirmé que je maintenais expressément les pénalités, même s’il faut les réduire en conséquence de la réduction du revenu.
+Signé à Ottawa, Canada, ce 1er jour de mars 2004.
+« M.A. Mogan »
+Le juge Mogan
+Traduction certifiée conforme
+ce 6e jour d’avril 2005.
+Colette Dupuis-Beaulne, traductrice

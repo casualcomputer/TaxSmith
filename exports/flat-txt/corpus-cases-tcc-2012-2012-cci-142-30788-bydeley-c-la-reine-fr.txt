@@ -1,0 +1,168 @@
+Title: Bydeley c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30788/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-142-30788-bydeley-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-04-30
+
+# Bydeley c. La Reine
+
+- Citation: 2012 CCI 142
+- Decision date: 2012-04-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7591, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bydeley c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-04-30
+Référence neutre
+2012 CCI 142
+Numéro de dossier
+2011-622(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-622(IT)I
+ENTRE :
+DIANNE-MARIE BYDELEY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 11 janvier 2012, à Hamilton (Ontario).
+Devant : L’honorable juge Paul Bédard
+Comparutions :
+Représentant de l’appelante :
+M. Steve Bydeley
+Avocate de l’intimée :
+Me Alisa Apostle
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre du Revenu national est confirmée, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 30e jour d’avril 2012.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 22e jour de juin 2012.
+Mario Lagacé, jurilinguiste
+Référence : 2012 CCI 142
+Date : 20120430
+Dossier : 2011-622(IT)I
+ENTRE :
+DIANNE-MARIE BYDELEY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bédard
+Les faits
+[1] Au cours de l’année d’imposition 2009, Dianne-Marie Bydeley (l’« appelante ») a reçu du Régime de retraite des enseignantes et des enseignants de l’Ontario (le « payeur ») un revenu de pension ou de retraite de 43 237,80 $.
+[2] Le payeur a établi un feuillet T4A, État du revenu de pension, de retraite, de rente ou d’autres sources, pour l’année 2009.
+[3] Au cours de l’année d’imposition 2009, un montant d’impôt de 5 474,37 $ a été retenu à la source au titre du revenu de pension ou de retraite de 43 237,80 $.
+[4] L’appelante a déclaré un revenu total de zéro dollar dans le calcul de son revenu pour l’année d’imposition 2009.
+[5] Dans sa déclaration de revenus pour l’année d’imposition 2009, l’appelante a inscrit seulement un montant de 5 474,37 $ au titre de l’impôt retenu à la source.
+[6] Dans un avis de cotisation daté du 10 juin 2010, le ministre a établi l’obligation fiscale de l’appelante pour l’année d’imposition 2009 et, ce faisant, il a inclus le revenu de 43 237,80 $ que l’appelante avait reçu du payeur.
+[7] L’appelante a signifié au ministre un avis d’opposition daté du 16 juin 2010 pour l’année d’imposition 2009.
+[8] Dans un avis de ratification daté du 3 février 2011, le ministre a confirmé l’obligation fiscale de l’appelante pour l’année d’imposition 2009.
+[9] Pour déterminer l’obligation de l’appelante au titre de l’impôt sur le revenu pour l’année d’imposition 2009, le ministre s’est fondé sur les présomptions de fait suivantes :
+a) les faits énoncés ci-dessus;
+b) le fait qu’en 2009, l’appelante résidait au 118 Gracefield Crescent, à Kitchener (Ontario);
+c) le fait qu’en 2009, l’appelante était une résidente du Canada.
+La question à trancher
+[10] La question à trancher est de savoir si le ministre a eu raison d’inclure dans le revenu de l’appelante pour l’année d’imposition 2009 le montant de 43 237,80 $ que reçut l’appelante au titre du revenu de pension ou de retraite au cours de cette année-là.
+Les arguments des parties
+Les arguments de l’appelante
+[11] L’appelante soutient d’abord qu’elle ne devrait pas être tenue responsable en vertu de la Loi de l’impôt sur le revenu (la « LIR ») sans son consentement explicite. À son avis, la possibilité pour le législateur, en vertu de la LIR, de contraindre un homme ou une femme à payer de l’impôt sans le consentement explicite de cette personne constitue une preuve prima facie d’esclavage.
+[12] L’appelante ajoute que la « personne physique » n’est pas visée par la définition du mot « personne » énoncée dans la LIR et que, par conséquent, la « personne physique » est exemptée de l’obligation de payer de l’impôt sur le revenu.
+[13] L’appelante affirme également qu’elle n’a aucune obligation contractuelle valide envers l’Agence du revenu du Canada (l’« ARC ») du fait de sa demande de numéro d’assurance sociale (« NAS ») et n’a donc aucun [traduction] « revenu imposable ». À cet égard, l’appelante invoque notamment les trois raisons suivantes :
+a) lorsque l’appelante a demandé un NAS, elle était mineure et n’avait donc pas la capacité juridique de conclure un contrat;
+b) l’appelante a été incitée à tort à croire qu’elle ne pouvait pas exercer un emploi sans NAS et a été forcée de conclure un contrat avec l’ARC sous la menace ou l’intimidation, soit le risque de perdre une possibilité d’emploi;
+c) l’ARC a modifié les conditions ou les détails de ce contrat lorsqu’elle a porté à neuf le numéro à huit chiffres sur la demande sans le consentement de l’appelante.
+[14] Enfin, l’appelante nie qu’elle était une résidente du Canada pour l’année d’imposition 2009 étant donné que, selon la Loi d’interprétation, L.R.C. 1985, ch. I‑21, le Canada comprend « les eaux intérieures et la mer territoriale du Canada ». Invoquant la maxime juridique inclusio unius est exclusio alterius, qui signifie que « l’inclusion d’une chose exclut toutes les autres », l’appelante soutient qu’elle n’était pas une résidente du Canada en 2009, étant donné qu’elle ne résidait pas dans l’eau ou sur l’eau.
+Les arguments de l’intimée
+[15] L’intimée fait valoir qu’au cours de l’année d’imposition 2009, l’appelante a reçu du payeur un revenu de pension ou de retraite de 43 237,80 $ et que le ministre a eu raison d’inclure ce montant dans le calcul du revenu de l’appelante pour l’année d’imposition 2009 conformément à l’article 3 et au sous-alinéa 56(1)a)(i) de la LIR.
+[16] L’intimée ajoute que l’appelante était une résidente du Canada et qu’elle a touché un revenu imposable au cours de l’année d’imposition 2009, de sorte que le ministre a eu raison d’établir une cotisation à l’égard du montant d’impôt que l’appelante devait sur le revenu en question pour l’année d’imposition 2009 conformément à l’article 2 de la LIR.
+Analyse
+Le pouvoir du ministre de faire valoir une obligation fiscale en vertu de la Loi de l’impôt sur le revenu
+[17] L’appelante demande à la Cour canadienne de l’impôt de protéger son droit souverain et inaliénable de choisir de payer ou non des impôts.
+[18] Tant la Cour suprême de la Colombie-Britannique que la Cour suprême du Canada ont déjà décidé que la LIR est une loi constitutionnelle qui relève de la compétence du gouvernement fédéral d’adopter des lois exigeant le paiement d’impôts sur le revenu. Comme l’a souligné à juste titre l’avocate de l’intimée, il est bien reconnu dans la jurisprudence que le législateur a le pouvoir d’assujettir les citoyens à des impôts. Les décisions pertinentes sont les suivantes : Caron v. The King, [1924] 4 D.L.R. 105 (C.J.C.P.), confirmant l’arrêt de la C.S.C. publié à (1922), 64 R.C.S. 255; Bruno v. Canada (Customs and Revenue Agency), 2002 BCCA 47; R. v. Klundert (2004), 187 C.C.C. (3d) 417 (C.A. Ont.), pourvoi devant la Cour suprême du Canada rejeté, 2005 CarswellOnt 1118 (C.S.C.).
+[19] En ce qui a trait à l’argument selon lequel la LIR prône une forme d’esclavage, il m’apparaît suffisant d’examiner la définition du mot « slavery » (esclavage) contenue dans le dictionnaire en ligne Oxford English Dictionary (2012) afin de clarifier la question :
+[traduction]
+Esclavage, n. : […] Le fait d’être entièrement assujetti à la domination, au pouvoir ou à l’influence d’une personne.
+[20] La LIR est une loi adoptée par une assemblée législative dont le pouvoir est exercé par un gouvernement élu de manière démocratique. En conséquence, je ne puis voir le bien-fondé de cet argument.
+Argument de la « personne physique »
+[21] L’argument de la « personne physique » a déjà été examiné à maintes reprises par la Cour canadienne de l’impôt, par la Cour fédérale du Canada, par la Cour d’appel fédérale, par les cours supérieures et les cours d’appel des provinces et par bon nombre de cours provinciales.
+[22] L’appelante n’est manifestement pas la première personne à invoquer l’argument de la « personne physique » et, malheureusement, elle n’est probablement pas la dernière non plus. Je n’ai pas l’intention de m’attarder au raisonnement que les tribunaux ont suivi lorsqu’ils se sont penchés sur cette question; il suffit de dire que tous, sans exception, ont rejeté un argument identique à celui que l’appelante a invoqué dans la présente affaire.
+[23] Je mentionnerai simplement les décisions suivantes :
+· Kennedy v. Canada (Customs and Revenue Agency), [2000] O.J. No. 3313 (C.S.J. Ont.) (QL).
+· M.N.R. v. Camplin, 2007 DTC 5165.
+· R. v. Lindsay, 2006 BCCA 150, [2006] 3 C.T.C. 146.
+· Canada (M.R.N.) c. Stanchfield, [2009] A.C.F. no 61 (C.F.) (QL).
+· M.N.R. v. Stanchfield, 2009 DTC 5050 (C.F.).
+· Hovey Ventures Inc. v. The Queen, 2007 DTC 617.
+· Kion c. La Reine, 2009 CCI 447.
+· Canada v. Galbraith, 2001 BCSC 675.
+· R. v. Dick, 2003 BCPC 13.
+· R. v. Carew, [1992] B.C.J. No. 995 (C.S. C.-B.) (QL).
+· R. c. Sullivan, [1991] 1 R.C.S. 489.
+· PPG Industries Canada Ltd. v. Canada (Attorney General), [1983] B.C.J. No. 2260 (C.A. C.-B.) (QL).
+[24] À mon avis, l’argument de la « personne physique » est sans fondement. Comme l’a dit le juge P.R. Meyers, [traduction] « il ne serait pas utile de répéter la même analyse et le même raisonnement que ceux qu’ont invoqués les autres tribunaux. Je ne ferais qu’exprimer dans mes propres mots les opinions que ces tribunaux ont déjà exposées de façon plus éloquente. La phrase qui résume le mieux ma conclusion et ma décision est la suivante : “je suis d’accord” ». Voir R. c. Sydel, [2006] 5 C.T.C. 88, au paragraphe 9.
+Définition du terme « Canada » dans la Loi d’interprétation
+[25] Malgré l’existence du mot « includes » (« font partie » dans la version française) dans la version anglaise de la définition du mot « Canada » énoncée dans la Loi d’interprétation, L.R.C. 1985, ch. I-21, l’appelante soutient que le territoire du Canada se limite à ses eaux intérieures et à sa mer territoriale.
+[26] Il convient d’abord de souligner que l’article 12 de la Loi d’interprétation est ainsi libellé :
+Tout texte est censé apporter une solution de droit et s’interprète de la manière la plus équitable et la plus large qui soit compatible avec la réalisation de son objet.
+[27] La thèse de l’appelante ne tient pas compte du fait que, selon son sens ordinaire, le « Canada » s’entend d’abord et avant tout de ses terres et que la définition législative a pour but d’élargir ce sens de façon à englober également les eaux intérieures et la mer territoriale du Canada.
+[28] La thèse de l’appelante selon laquelle, pour l’application de la LIR, l’Ontario ne fait pas partie du Canada n’est tout simplement pas défendable.
+Principes fondamentaux de l’obligation fiscale au Canada
+[29] L’appelante ajoute qu’elle n’avait aucune obligation contractuelle fondée sur son NAS envers l’ARC et qu’elle n’a donc touché aucun revenu imposable pour l’année d’imposition 2009.
+[30] La juge Sheridan a été saisie de faits similaires dans la décision Tuck c. R., [2008] 1 C.T.C. 2598, où les appelants ont également contesté les cotisations établies à leur égard en invoquant, notamment, le fait qu’ils n’avaient jamais demandé de NAS et que, par conséquent, les cotisations en question n’étaient pas valides.
+[31] Appelée à trancher une requête en radiation de l’avis d’appel, la juge Sheridan a conclu que cet argument était sans fondement et souligné qu’il est bien établi dans la jurisprudence que le législateur a le pouvoir d’assujettir les citoyens à des impôts. Voir la décision Tuck, précitée, aux paragraphes 7 et 10.
+[32] Alors que d’autres pays exigent de l’impôt sur le revenu en fonction de la citoyenneté, du domicile ou de l’obtention d’un numéro analogue au NAS, le principal fondement de la responsabilité imposée par la LIR au titre de l’impôt sur le revenu est la résidence.
+[33] La personne qui est un résident du Canada au cours d’une année d’imposition est assujettie à l’impôt canadien sur ses revenus de toute provenance. Voir le paragraphe 2(1) de la LIR.
+[34] Pour déterminer l’obligation de l’appelante au titre de l’impôt sur le revenu pour l’année d’imposition 2009, le ministre s’est fondé sur la présomption de fait selon laquelle l’appelante était une résidente du Canada en 2009.
+[35] Il est bien reconnu en droit que, pour établir les cotisations, le ministre se fonde sur des présomptions et que la charge initiale de « démolir » les présomptions formulées par le ministre dans sa cotisation est imposée au contribuable. L’appelant s’acquitte de cette charge initiale de « démolir » l’exactitude des présomptions du ministre lorsqu’il présente au moins une preuve prima facie. Voir l’arrêt Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, aux paragraphes 91 à 94.
+[36] Dans la présente affaire, je ne puis voir comment l’appelante a réussi à s’acquitter de cette charge de preuve initiale.
+[37] L’appelante a admis qu’elle avait une habitation au 118 Gracefield Crescent, à Kitchener (Ontario) au cours de l’année d’imposition 2009. Voir le témoignage de Dianne-Marie Bydeley, aux pages 2 et 34 de la transcription.
+[38] De plus, l’appelante n’a pas présenté en l’espèce le moindre type d’élément de preuve susceptible de démontrer, à première vue, qu’elle n’était pas une résidente du Canada au cours de l’année d’imposition 2009.
+Conclusion
+[39] En conclusion, l’appelante a reçu du Régime de retraite des enseignantes et des enseignants de l’Ontario un revenu de pension ou de retraite de 43 237,80 $ au cours de l’année d’imposition 2009.
+[40] En conséquence, le ministre a eu raison d’inclure le montant de 43 237,80 $ dans le calcul du revenu de l’appelante pour l’année d’imposition 2009, conformément à l’article 3 et au sous-alinéa 56(1)a)(i) de la LIR.
+[41] Le ministre a également déterminé correctement l’obligation de l’appelante au titre de l’impôt sur le revenu pour l’année d’imposition 2009 conformément au paragraphe 2(1) de la Loi.
+[42] Pour les motifs exposés ci-dessus, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 30e jour d’avril 2012.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 22e jour de juin 2012.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2012 CCI 142
+No DU DOSSIER DE LA COUR : 2011-622(IT)I
+INTITULÉ : DIANNE-MARIE BYDELEY c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 11 janvier 2012
+MOTIFS DU JUGEMENT : L’honorable juge Paul Bédard
+DATE DU JUGEMENT : Le 30 avril 2012
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Steve Bydeley
+Avocate de l’intimée :
+Me Alisa Apostle
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

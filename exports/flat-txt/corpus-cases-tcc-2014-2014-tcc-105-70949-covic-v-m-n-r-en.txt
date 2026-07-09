@@ -1,0 +1,116 @@
+Title: Covic v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/70949/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-105-70949-covic-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2014-04-07
+
+# Covic v. M.N.R.
+
+- Citation: 2014 TCC 105
+- Decision date: 2014-04-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5305, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Covic v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-04-07
+Neutral citation
+2014 TCC 105
+File numbers
+2013-3708(CPP)APP
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2013-3708(CPP)APP
+BETWEEN:
+PREDRAG COVIC,
+Applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Application heard on March 12, 2014 at Hamilton, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+Agent for the Applicant:
+Violeta Rakic
+Counsel for the Respondent:
+Jan Jensen
+____________________________________________________________________
+ORDER
+Upon application for an Order extending the time to institute an appeal with respect to a decision made under the Canada Pension Plan, the application is dismissed.
+The Registry is directed to change the style of cause to reflect the proper name of the applicant as noted above.
+Signed at Toronto, Ontario this 7th day of April 2014.
+“J.M. Woods”
+Woods J.
+Citation: 2014 TCC 105
+Date: 20140407
+Docket: 2013-3708(CPP)APP
+BETWEEN:
+PREDRAG COVIC,
+Applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR ORDER
+Woods J.
+[1] Predrag Covic seeks an Order extending the time to institute an appeal with respect to a decision made under the Canada Pension Plan. He submits that he had good reasons for missing the deadline and that it would only be fair to grant the extension.
+[2] The respondent submits that the application should be disallowed for two reasons.
+(a) The application was not made within the 180-day deadline set out in subsection 28(1) of the Canada Pension Plan.
+(b) The applicant has not satisfied the requirements under subsection 28(1.2) of the Canada Pension Plan because he did not demonstrate that: (1) he was unable to institute an appeal within 90 days after the Minister’s decision was communicated, or (2) he had a bona fide intention to appeal within the 90 day period.
+[3] Mr. Covic was represented at the hearing by his bookkeeper, Violeta Rakic. Ms. Rakic also testified on Mr. Covic’s behalf as he did not attend the hearing.
+[4] Ms. Rakic testified that it was difficult for Mr. Covic to comply with the applicable deadlines. She stated that Mr. Covic is a truck driver who is away from home almost all of the time, and he has a family with young children.
+[5] Ms. Rakic also explained the background to the Minister’s decision. The decision was a consequence of Mr. Covic incorporating his trucking business. However, he did not conduct the business on this basis and he kept operating as he had done before.
+[6] The Minister of National Revenue issued a decision that Mr. Covic was an employee of the corporation, which gave rise to obligations for Canada Pension Plan premiums as well as adverse income tax consequences. Ms. Rakic stated that the financial impact of the Minister’s decision on Mr. Covic is very significant and that he has been overwhelmed by the entire situation.
+Discussion
+[7] Mr. Covic asks for relief based on fairness. I can understand Mr. Covic being overwhelmed by the situation that he found himself in, and am sympathetic to this. However, relief cannot be granted on the basis of fairness.
+[8] As explained in many court decisions, limitation periods are set for good reasons and they must be followed. Accordingly, if a limitation period set out in the Canada Pension Plan is missed, the Court cannot provide relief.
+[9] Based on the applicable legislative provisions and the evidence before me, I would conclude that the application should be dismissed because Mr. Covic did not file the application for an extension within the time required. Regrettably, the deadline was missed by three days.
+[10] The relevant provisions are subsections 28(1), (1.1) and (1.2) of the Canada Pension Plan, sections 5(2) and 5.2 of the Tax Court of Canada Rules of Procedure respecting the Canada Pension Plan, and subsection 167(3) of the Income Tax Act. These provisions are set out below.
+Canada Pension Plan
+28.(1) Appeal to Tax Court of Canada - A person affected by a decision on an appeal to the Minister under section 27 or 27.1, or the person’s representative, may, within 90 days after the decision is communicated to the person, or within any longer time that the Tax Court of Canada on application made to it within 90 days after the expiration of those 90 days allows, appeal from the decision to that Court in accordance with the Tax Court of Canada Act and the applicable rules of court made thereunder.
+28.(1.1) Communication of decision - The determination of the time at which a decision on an appeal to the Minister under section 27 or 27.1 is communicated to a person shall be made in accordance with the rule, if any, made under paragraph 20(1.1)(h.1) of the Tax Court of Canada Act.
+28.(1.2) Extension of time to appeal - Section 167, except paragraph 167(5)(a), of the Income Tax Act applies, with such modifications as the circumstances require, in respect of applications made under subsection (1).
+Tax Court of Canada Rules
+5.(2) Where a ruling or decision referred to in subsection (1) is communicated by mail, the date of communication is the date it is mailed and, in the absence of evidence to the contrary, the date of mailing is that date specified on the ruling or decision.
+5.2 Except as otherwise provided in these rules and unless otherwise directed by the Court, the date of filing of a document is deemed to be
+(a) in the case of a document filed with the Registry or sent by mail or by fax, the date shown by the date received stamp placed on the document by the Registry at the time it is received; or
+(b) in the case of a document filed by electronic filing, the date shown on the acknowledgment of receipt issued by the Court.
+Income Tax Act
+167.(3) How application made - An application made under subsection (1) shall be made by filing in the Registry of the Tax Court of Canada, in accordance with the provisions of the Tax Court of Canada Act, three copies of the application accompanied by three copies of the notice of appeal.
+[11] In accordance with these provisions and the evidence in this case, the limitation period for this application is 180 days and it starts to run from the date that the Minister’s decision is mailed, as stated in the decision. The mailing date as stated in the decision is March 21, 2013 (Exhibit C to Affidavit of Sandra Stewart).
+[12] The limitation period ends 180 days later, which is September 17, 2013. Unfortunately, Mr. Covic did not make the application by this date. The application letter is dated September 19, 2013 and it bears a filed stamp of the Registry dated September 20, 2013 (Exhibit D to Affidavit of Sandra Stewart). It is clear that the application was not filed by the deadline of September 17, 2013.
+[13] Since the limitation period has been missed, this application should be dismissed.
+[14] Before concluding, I would comment that the result in this case is harsh. Not only was the deadline missed by a very short period, but if the legislation had provided a deadline of six months instead of 180 days, the application would have been made in time.
+[15] Although the circumstances are sympathetic, there is no relief that this Court can provide. The application will be dismissed.
+Signed at Toronto, Ontario this 7th day of April 2014.
+“J.M. Woods”
+Woods J.
+CITATION: 2014 TCC 105
+COURT FILE NO.: 2013-3708(CPP)APP
+STYLE OF CAUSE: PREDRAG COVIC and THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: March 12, 2014
+REASONS FOR ORDER BY: The Honourable Justice J.M. Woods
+DATE OF ORDER: April 7, 2014
+APPEARANCES:
+Agent for the Applicant:
+Violeta Rakic
+Counsel for the Respondent:
+Jan Jensen
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

@@ -1,0 +1,295 @@
+Title: Gray c. LA Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28340/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-363-28340-gray-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-05-12
+
+# Gray c. LA Reine
+
+- Citation: 2004 CCI 363
+- Decision date: 2004-05-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1892, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gray c. LA Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-12
+Référence neutre
+2004 CCI 363
+Numéro de dossier
+2002-2555(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002‑2555(IT)G
+ENTRE :
+MICHAEL GRAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel d’Ellen Gray
+(2002-2557(IT)G) à Prince George (Colombie‑Britannique)
+Devant : L’honorable juge D. W. Beaubier
+Comparutions :
+Avocat de l’appelant :
+Me Kenneth R. Hauser
+Avocate de l’intimée :
+Me Lisa Macdonell
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1998 est rejeté conformément aux motifs du jugement ci‑joints.
+Les dépens entre parties sont adjugés à l’intimée, mais un seul mémoire de frais sera taxé pour l’audience elle‑même.
+Signé à Saskatoon (Saskatchewan) ce 12e jour de mai 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 23e jour d’août 2004.
+Ingrid B. Miranda, traductrice
+Dossier : 2002-2557(IT)G
+ENTRE :
+ELLEN GRAY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Michael Gray
+(2002-2555(IT)G) à Prince George (Colombie‑Britannique)
+Devant : L’honorable juge D. W. Beaubier
+Comparutions :
+Avocat de l’appelante :
+Me Kenneth R. Hauser
+Avocate de l’intimée :
+Me Lisa Macdonell
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1998 est rejeté conformément aux motifs du jugement ci‑joints.
+Les dépens entre parties sont adjugés à l’intimée, mais un seul mémoire de frais sera taxé pour l’audience elle‑même.
+Signé à Saskatoon (Saskatchewan) ce 12e jour de mai 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 23e jour d’août 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2004CCI363
+Date : 20040512
+Dossier : 2002-2555(IT)G
+ENTRE :
+MICHAEL GRAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2002‑2557(IT)G
+ET ENTRE:
+ELLEN GRAY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Les présents appels, interjetés sous le régime de la procédure générale, ont été entendus ensemble sur preuve commune à Prince George, en Colombie‑Britannique, le 4 mai 2004. M. Michael Gray a été le seul témoin.
+[2] Au début de l’audience, l’avocate de l’intimée a déposé une copie de la Demande d’aveux, contenant les aveux des appelants. Voici les paragraphes 1 à 3 de ce document :
+[traduction]
+1. Il n’y a pas de superficie minimale prescrite à l’égard des terrains situés dans la réserve de terres agricoles (la « RTA ») dans la province de la Colombie‑Britannique. La propriété décrite comme « NW 1/4 DL 341 CR4, Except Plan 8955 and Plan 9387 » (la « propriété ») et achetée par l’appelant et son épouse en 1976 se trouve dans la réserve en question.
+2. Les demandes de lotissement de biens‑fonds situés dans la RTA (y compris la propriété) relèvent de la décision de la commission des terres agricoles de la province de la Colombie‑Britannique.
+3. Voici la procédure devant être suivie pour demander l’autorisation de lotir des biens‑fonds situés dans la RTA (y compris la propriété) :
+a) les demandes sont d’abord soumises au district régional, qui vérifie si la demande est complète et qui prépare un rapport sur la demande;
+b) la demande est alors envoyée au conseil local de planification, la Advisory Planning Commission ainsi qu’au ministre de l’Agriculture, qui font des observations à son sujet;
+c) à son tour, le service de la planification, le Planning Department, fait des observations sur la demande et la transmet au conseil d’administration;
+d) le conseil d’administration fait des recommandations sur la question de savoir si la demande sera rejetée, approuvée ou approuvée avec conditions;
+e) puis le service de la planification transmet tous les documents à la commission des terres agricoles;
+f) la décision finale est prise par un groupe de trois commissaires de la commission des terres agricoles.
+[3] Les paragraphes 4 à 13 de la Réponse à l’avis de l’appel interjeté par Michael Gray exposent les questions en litige. Ils sont ainsi rédigés :
+[traduction]
+4. À l’égard du paragraphe 4 de l’Avis d’appel, il admet que la propriété décrite par l’appelant comme étant une « terre agricole » se trouve dans la réserve de terres agricoles de la Colombie‑Britannique, mais il affirme que la propriété peut être lotie en vertu des règlements locaux.
+5. À l’égard du paragraphe 12 de l’Avis d’appel, il admet que l’appelant a déclaré le revenu brut mentionné, mais il déclare de plus que l’appelant a aussi rapporté les chiffres suivants :
+Revenu agricole brut
+Revenu agricole net (perte)
+Revenu d’emploi
+1985
+1 155,00 $
+(1 381,21 $)
+35 767,80 $
+1986
+1 464,03
+(1 006,15)
+35 982,68
+1987
+1 012,86
+(1 012,86)
+13 543,04
+1988
+641,00
+(612,97)
+44 858,24
+1989
+1 060,00
+néant
+31 490,02
+Il déclare aussi que le revenu découlant de la production de foin constitue la part qui revient à l’appelant pour la location de la propriété au fermier voisin.
+6. Le ministre du Revenu national (le « ministre ») a émis à l’appelant sa première cotisation pour l’année d’imposition 1998 dans un avis daté du 13 mai 1999.
+7. En calculant son revenu pour l’année d’imposition 1998, l’appelant a déclaré un gain imposable de 90 701 $ découlant de l’aliénation de biens agricoles admissibles et il a demandé une exonération équivalente de gains en capital.
+8. Le ministre a émis une nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 1998 par un avis daté du 29 octobre 2001, dans lequel il a refusé l’exonération de gains en capital et a augmenté les gains en capital imposables de l’appelant au montant de 91 149 $.
+9. En établissant ainsi la nouvelle cotisation à l’égard de l’appelant, le ministre s’est fondé sur les hypothèses qui suivent :
+a) Les faits déclarés et admis plus haut;
+b) en 1977, l’appelant et son épouse, Ellen Gray, ont acheté 141,23 acres de terrain situées au « NW 1/4 DL 341, Except Plan 8955 and Plan 9387 » (la « propriété »);
+c) quand l’appelant et Ellen Gray ont acheté la propriété, ils avaient l’intention d’en faire leur résidence;
+d) la propriété contient un logement unifamilial d’un étage et demi où résident l’appelant et sa famille (le « logement »);
+e) la propriété se trouve dans la réserve de terres agricoles de la Colombie‑Britannique, mais elle ne fait l’objet d’aucun zonage ni d’aucun régime d’utilisation des terres, cela en raison de sa nature rurale;
+f) le lotissement de la propriété est autorisé;
+g) la partie de la propriété qui excède un acre et qui se trouve adjacente au logement ne peut pas être considérée comme facilitant l’usage du logement à titre de résidence;
+h) pendant la période de la propriété, l’appelant et son épouse ont utilisé la propriété ainsi : comme zone récréative pour leurs enfants, pour s’adonner à des activités agricoles de plaisance, pour avoir droit à des parts de récolte en louant des portions de la propriété à des fermiers voisins;
+i) sauf exception de l’année d’imposition 1989, l’appelant et son épouse ont loué la partie cultivée de la propriété, le loyer étant un tiers de la récolte de foin;
+j) en aucun moment, l’appelant et son épouse n’ont utilisé la propriété dans le cadre de l’exploitation d’une entreprise agricole;
+k) le revenu découlant d’une activité agricole que l’appelant a déclaré pour l’année d’imposition 1998 provenait de la location d’une partie de la propriété à un fermier voisin qui exploitait la propriété;
+l) en 1998, l’appelant et son épouse ont aliéné du bois d’œuvre se trouvant dans la propriété;
+m) l’appelant et son épouse ont reçu une contrepartie de 330 787 $ et ont engagé des dépenses s’élevant à la somme de 87 723 $, résultant en un gain total de 243 064 $ pour l’aliénation du bois d’œuvre;
+n) la fraction des recettes découlant de l’aliénation du bois d’œuvre qui correspondait à l’appelant était de 121 532 $ et son gain en capital imposable était de 91 149 $.
+B. QUESTIONS EN LITIGE
+10. Les questions en litige sont celles de savoir :
+a) si l’appelant a droit à l’exonération de gains en capital relativement à l’aliénation du bois d’œuvre;
+b) si le bois d’œuvre faisait partie de la résidence principale de l’appelant.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES
+11. Il invoque les articles 3, 9, 54, 110.6, ainsi que les alinéas 38a), 30(1)a), 40(1)a), 40(2)b) et 40(2)c) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), dans sa version modifiée (la « Loi »).
+D. MOTIFS INVOQUÉS ET MESURES DE REDRESSEMENT DEMANDÉES
+12. Il soumet que l’appelant n’a pas droit à l’exonération de gains en capital relativement aux gains découlant de l’aliénation du bois d’œuvre, pour les motifs suivants :
+a) La propriété ne constitue pas un « bien agricole admissible » aux termes de l’article 110.6 de la Loi, parce que, ni l’appelant, ni son épouse, n’ont jamais utilisé la propriété principalement dans le cadre de l’exploitation d’une entreprise agricole.
+b) En outre, aucune activité agricole effectuée sur la propriété par l’appelant et son épouse ne constitue une activité effectuée dans le cadre d’une entreprise agricole. Il s’agissait, soit d’activités agricoles de plaisance, soit de recueillir simplement une partie de la récolte en contrepartie de la location de la propriété.
+13. Il soumet que l’appelant n’a pas droit à l’exonération pour résidence principale relativement aux gains découlant de l’aliénation du bois d’œuvre, au motif que ni le bois d’œuvre, ni la terre sur laquelle le bois d’œuvre se trouvait, ne peuvent être considérés raisonnablement comme facilitant l’usage du logement comme résidence.
+Il demande que l’appel soit rejeté avec dépens.
+[4] Les hypothèses 13 c), d), e), f), k), l), m) et n) n’ont pas été réfutées.
+[5] Observations à l’égard des hypothèses :
+b) La bien‑fonds a été acheté en 1976; sa superficie est de 150 acres. Conformément aux désirs du vendeur, les appelants se sont engagés à lotir les 150 acres et à vendre pour 1 $ par lot, un lot à l’Église mennonite et un autre lot à M. Schmidt pour la construction d’un foyer pour squatteurs. Ils ont respecté leurs engagements, ce qui a laissé 141,23 acres en leur nom vers la fin de l’année 1977.
+c) Une partie du litige est de savoir si l’appelant avait aussi l’intention de se consacrer à des activités agricoles dans la propriété.
+f) Une fois le fonds du foyer de M. Schmidt loti par les appelants, il aurait été plutôt difficile de lotir le bien‑fonds à nouveau : il s’agit d’un terrain isolé, couvert de collines, de marécages et de fondrières, comme une région forestière du Nord de la Colombie‑Britannique. Aucune municipalité ne voudrait desservir des lots modestes qui s’y trouveraient.
+g) et h) Thèse qui repose sur les faits en l’espèce.
+i) Il aurait dû dire « son » épouse; de nouveau la thèse repose sur les faits.
+j) La thèse repose sur les faits.
+[6] Voici le libellé de la convention relative à la vente du bois :
+[traduction]
+DIVISION DU PLATEAU DU GROUPE SLOCAN
+CONVENTION D’ACHAT DE RONDINS
+DATE : LE 5 NOVEMBRE 1997
+VENDEUR : MICHAEL CLARK GRAY ET ELLEN VICTORIA GRAY
+No DE TÉLÉPHONE : 692-3312
+ADRESSE : SERVICE DE POSTE RESTANTE, BURNS LAKE, B.C., V0J 1E0
+No D’INSCRIPTION AUX FINS DE LA TPS :_______________
+1. Sous réserve des modalités de la présente, la Section du Plateau du Groupe Slocan (la « compagnie ») s’engage à acheter au vendeur, qui s’engage à vendre à la compagnie, 3 000 m3 de bois d’œuvre provenant du terrain forestier exploitable dont la description suit :
+Timberbark : NB DNT
+Property Description: NW 1/4, D.L. 341, Range 4, Coast Dist. (Except Plan 9387 and 8955)
+2. Le vendeur confirme qu’il possède la propriété des rondins qui font l’objet de la présente ou qu’il est en droit de les vendre. Si le vendeur n’est pas le détenteur de la marque du bois, il doit attacher à la présente une copie de la lettre d’autorisation du détenteur de la marque du bois, laquelle lettre fera intégralement partie de la présente convention.
+3. Le vendeur ne livrera pas de bois d’œuvre dudit terrain forestier exploitable à quiconque – personne physique ou morale – jusqu’à ce que la compagnie ait reçu la totalité du bois d’œuvre visé au paragraphe 1.
+4. Le bois d’œuvre acheté par la compagnie en vertu de la présente convention sera livré par le vendeur à la compagnie selon les modalités suivantes :
+Livraison de ------, m3 (-------par jour) ou (------ par mois).
+Date approximative du début des opérations : Déc. 1997
+Doit être terminée au plus tard le 31 mars 1998.
+5. Tous les conducteurs de grumiers, qu’ils soient employés directement par le vendeur ou engagés par lui, doivent être en mesure de capter la fréquence de canal utilisée par la Section du Plateau du Groupe Slocan dans le parc à grumes. Cela est nécessaire pour faciliter les communications et la direction des opérations dans le parc à grumes afin de réduire la durée des cycles d’abattage et de transport du bois d’œuvre. La fréquence de canal utilisée par la Section du Plateau du Groupe Slocan dans le parc est de 154.920.
+6. La Section du Plateau du Groupe Slocan se réserve le droit d’affecter l’entrepreneur en exploitation forestière de son choix (dans le but de récolter le volume de bois d’œuvre mentionné au paragraphe 4) en tout temps, si les modalités de la présente convention ne sont pas respectées. Toutes les dépenses engagées seront soustraites du prix convenu au paragraphe 9.
+7. Les rondins délivrés à Engen seront traités selon les normes de la Section du Plateau du Groupe Slocan conformément aux fiches signalétiques ci‑jointes.
+8. Tout au long de la durée du contrat, le vendeur indemnisera et dégagera de toute responsabilité la Section du Plateau du Groupe Slocan relativement à toute amende, tous les droits et taxes imposés, toute réclamation, tout dommage, toute dépense, ou toute poursuite judiciaire découlant de la faute du vendeur, de ses employés, de ses mandataires et de ses sous‑contractants.
+9. Le paiement du bois livré sera effectué deux fois par mois, conformément au calendrier en annexe.
+10. Le prix du bois sera calculé ainsi :
+BK
+s/m3
+Paiement versé à
+Adresse
+Description des rondins
+Livrés à
+TOTAL
+90.00
+Vendeur
+Ci‑dessus
+Pl, St, Ba
+Engen
+11. Les primes seront versées au : vendeur.
+12. Les droits et les taxes d’abattage et de redevance seront déduits de ‑‑‑‑‑ à un taux au m3 basé sur un taux de conversion de 800 kg par m3. Tout surplus ou déficit de fin d’année en matière de droits et de taxes d’abattage sera au compte de la compagnie et aucun rajustement ne sera versé.
+13. Les paiements seront basés sur un taux de conversion de 800 kg par m3.
+14. Le vendeur doit s’assurer que tous ses employés et entrepreneurs sont couverts suffisamment par la commission des accidents de travail. La Section du Plateau du Groupe Slocan se réserve le droit de déduire des recettes de la présente convention tout versement à la commission des accidents du travail pour le compte du vendeur.
+Entrepreneur : 478299-141 (Gary Martin)
+15. La Section du Plateau du Groupe Slocan se réserve le droit de retenir 15 p. 100 du prix d’achat pendant 40 jours.
+16. Le volume de rondins livrés à la Section du Plateau du Groupe Slocan peut être réduit en cas de grève, de lock‑out, de cas de force majeure, de mauvaises conditions du marché ou d’autres raisons hors du contrôle de la Section du Plateau du Groupe Slocan.
+17. Observations :
+18. La compagnie et le vendeur ont lu les dispositions qui précédent, les acceptent et conviennent d’en exécuter les stipulations.
+Pièce A/R‑1, onglet 17
+[7] D’après l’ensemble de la preuve, la Cour constate que Slocan s’occupait de toutes les activités, y compris la comptabilité. Les appelants étaient simplement payés par Slocan de manière que la vente ne constituait en fait qu’une vente de bois sur pied que Slocan abattait sur place.
+[8] La première question consiste à décider si les appelants ont droit à l’exonération de gains en capital pour l’aliénation du bois d’œuvre. Pour y avoir droit, les appelants doivent satisfaire aux dispositions suivantes du paragraphe 110.6(1) :
+110.6(1) Les définitions qui suivent s'appliquent au présent article.
+« bien agricole admissible » S'agissant d'un bien agricole d'un particulier à un moment donné, à l'exception d'une fiducie qui n'est pas une fiducie personnelle, l'un des biens suivants appartenant à ce moment donné au particulier, à son époux ou conjoint de fait ou à une société de personnes dont une participation est une participation dans une société de personnes agricole familiale du particulier ou de son époux ou conjoint de fait :
+a) un bien immeuble qui a été utilisé dans le cadre de l'exploitation d'une entreprise agricole au Canada :
+(i) soit par le particulier,
+(ii) soit, si le particulier est une fiducie personnelle, par un bénéficiaire de celle-ci visé à l'alinéa 104(21.2)b),
+(iii) soit par l'époux ou conjoint de fait, un enfant, le père ou la mère d'un particulier visé au sous-alinéa (i) ou (ii).
+[…]
+pour l'application du présent alinéa, un bien immeuble n'est considéré comme utilisé dans le cadre de l'exploitation d'une entreprise agricole au Canada que si, selon le cas :
+[…]
+(vii) dans le cas où le particulier ou la société de personnes a acquis le bien pour la dernière fois avant le 18 juin 1987, ou après le 17 juin 1987 conformément à une convention écrite conclue avant cette date, le bien ou un bien qui lui est substitué était utilisé par le particulier, un bénéficiaire visé au sous‑alinéa (ii) ou l'époux ou conjoint de fait, un enfant, le père ou la mère du particulier ou d'un tel bénéficiaire, une société visée au sous‑alinéa (iv) ou une société de personnes visée au sous‑alinéa (v) ou par une fiducie personnelle auprès de laquelle le particulier a acquis le bien ou le bien substitué principalement dans le cadre de l'exploitation d'une entreprise agricole au Canada :
+[…]
+(B) soit pendant au moins cinq années, pendant lesquelles le bien ou le bien substitué est la propriété d'un particulier visé à l'un des sous‑alinéas (i) à (iii), d'une fiducie personnelle auprès de laquelle le particulier a acquis le bien ou le bien substitué ou d'une société de personnes visée au sous-alinéa (v);
+[…]
+(d) une immobilisation admissible utilisée par une personne ou société de personnes visée à l'un des sous‑alinéas a)(i) à (v), ou par une fiducie personnelle auprès de laquelle le particulier a acquis le bien, dans le cadre de l'exploitation de l'entreprise agricole au Canada; pour l'application du présent alinéa, une immobilisation admissible doit répondre aux conditions suivantes :
+(i) elle n'est considérée comme ainsi utilisée que si les conditions visées au sous‑alinéa a)(vi) ou (vii), selon le cas, sont remplies,
+(ii) elle est réputée comprendre une immobilisation à laquelle les alinéas 70(5.1)b) ou 73(3)d.1) s'appliquent.
+[9] Plus précisément, pour être admissible à cette exonération, la terre doit avoir été utilisée par ces propriétaires pendant au moins cinq années principalement dans le cadre d’une exploitation agricole au Canada, ou avoir été acquis par l’un d’eux principalement pour cette raison (sous‑alinéa 110.6(2)(vii)(B)).
+[10] Pour trancher cette question en ce qui concerne la portée de l’adverbe « principalement », la Cour adopte des observations incidentes du juge d’appel Rothstein dans l’arrêt Ressources Gulf Canada Ltée c. Canada, C.F. 1re inst., no T‑2076‑89, 26 juillet 1993 (93 DTC 5345) (aux pages 5348 et 5349 de la DTC) :
+Toujours selon le bulletin. IT‑195R4, si la superficie totale d'un bien est louée à plus de 50 p. 100, cela indique que ce bien est utilisé principalement aux fins de produire un loyer. Voici ce qui est dit au paragraphe 4 du bulletin :
+4. Le terme « principalement » figurant dans la définition d'un bien locatif au paragraphe 1100(14) signifie « essentiellement » ou « surtout ». Pour déterminer si un bien est utilisé principalement à une fin précise, [...] [1l'étendue des locaux loués par rapport à la superficie totale de l'immeuble est également un autre facteur important. Là encore, si plus de 50 pour 100 de la superficie totale est louée, cela indique que le bien est utilisé principalement pour produire un revenu de location.
+Le paragraphe 1100(14) dans son intégralité et le bulletin IT‑195R4 donnent tous deux à penser que les mots il [sic] « utilisés [...] principalement aux fins de [...] » doivent être considérés sous deux optiques, l'une quantitative et l'autre qualitative. Selon l'optique quantitative, il faut prendre en considération la proportion de l'immeuble qui est utilisée pour produire un loyer. Il s'agit essentiellement de l'approche dont il est question au paragraphe 4 du bulletin IT‑195R4. Si plus de 50 p. 100 de la superficie de l'immeuble est louée, cela indique que le contribuable utilise principalement ce dernier en vue de la production d'un loyer, et il s'agit vraisemblablement d'un « bien locatif »; si la proportion est de moins de 50 p. 100, l'immeuble n'est vraisemblablement pas un « bien locatif ».
+Selon l'optique qualitative, il faut prendre en considération le but principal dans lequel le propriétaire a utilisé le bien en question dans l'année d'imposition; de là l'importance du passage qui suit les mots commençant par « mais, pour plus de précision, [...] », au paragraphe 1100(14), et l'exemple de la station-service qui est donné dans le bulletin IT‑195R4. Cela veut donc dire que même dans le cas où un bien est loué et qu'un loyer est perçu, si le bien en question sert principalement à une fin autre que celle de produire un i [sic] loyer, pour vendre les biens et services du propriétaire, disons, comme dans l'exemple susmentionné de la station‑service, le bien n'est pas « locatif ». Bien qu'il faille trancher chaque cas d'après les faits qui lui sont propres, je crois que cette évaluation qualitative requiert que l'on prenne en compte des éléments de preuve relatifs à l'entreprise qu'exploite le propriétaire et l'entreprise qui est exploitée dans les locaux loués, ainsi que la relation entre les deux. Lorsqu'il n'existe aucune relation, sinon peu, entre l'entreprise du propriétaire et celle qui est exploitée dans les locaux loués, on présumerait que le propriétaire utilisait les locaux loués principalement aux fins de produire un loyer, et le bien serait « locatif ». Lorsqu'il existe une relation entre l'entreprise qu'exploite le propriétaire et celle qui est exploitée dans les locaux loués, il faudrait prendre en considération la nature de la relation existant entre les deux types d'entreprise. Quand il peut être démontré que les locaux étaient loués à une fin commerciale autre que celle de produire un loyer, le bien en question ne serait vraisemblablement pas « locatif ».
+[11] Pour satisfaire la condition relative à la durée d’utilisation de cinq ans, l’appelant a consacré sa preuve à la période commençant le jour de l’acquisition de la propriété en 1976 et se terminant en 1986, alors que M. Gray a cessé, pour cause de maladie, toute activité liée au bien‑fonds. Aucune activité n’a eu lieu jusqu’en 1990, année où le bien‑fonds a été loué au ranch H&R.
+[12] Habituellement, et notamment en l’espèce, les biens‑fonds de toute dimension utilisés dans le cadre d’une exploitation agricole comportent des terrains incultes ou inutilisables qui, en fait, peuvent servir à quelque chose. Les arbres peuvent abriter les animaux et bien qu’un large plan d’eau ne soit pas utile, une partie de cette eau peut être utile. Dans une certaine mesure, quand on achète une terre, on prend tout ce qui vient avec, ce qui a été le cas en l’espèce. Par conséquent, l’utilisation quantitative des terres agricoles ne correspond pas toujours à l’usage « principal » qu’on en fait. Dans ce cas‑ci, la plus grande partie du bien‑fonds n’était pas utilisée dans le cadre d’une exploitation agricole. Le foin n’était cultivé que sur une surface correspondant au quart ou au tiers de la superficie totale, soit 141 acres. La cour de la ferme était très petite. M. Gray a déposé que les moutons erraient en dehors de leur pâturage, dans le tiers nord de la propriété; cependant, ils ne broutaient effectivement que sur un sixième de la superficie totale, dans le pâturage ou dans le champ de foin se trouvant près des bâtiments. L’appelant produisait les déclarations de revenus concernant la ferme et il avait demandé, et reçu, des pertes agricoles restreintes chaque année. En plus, ils vivaient à la ferme. Par conséquent, sur le plan quantitatif – c’est‑à‑dire la superficie ou les flux financiers – la propriété ne serait pas principalement à une exploitation agricole au Canada. Cependant, un tiers de la superficie totale était inculte ou inutilisable, consistant en fondrières et en zones rocailleuses.
+[13] Sur le plan qualitatif, la Cour accepte les réponses que M. Gray a données aux questions de l’ADRC et qui figurent dans la pièce A/R‑1, onglet 19, notamment la réponse à la question 3 selon laquelle la raison initiale de l’achat de la propriété était pour [traduction] « servir de résidence familiale avec suffisamment de terre pour que nos enfants puissent s’y "étirer les jambes" ». Ils avaient décidé d’acheter une maison et non pas 150 acres de terrain, mais le terrain comptait une maison aux dimensions satisfaisantes, à un prix convenable et facile à financer, et se trouvait près de l’école où M. Gray travaillait comme enseignant pendant les années en question.
+[14] M. Gray a déduit la totalité des intérêts de ses deux hypothèques en tant que dépenses agricoles, bien qu’une partie ait été imputable au coût en capital de leur résidence; il a déduit les impôts fonciers ainsi que toute la moulée utilisée pour la production d’œufs, de volaille et d’agneaux, y compris ceux qu’ils consommaient eux‑mêmes. Ces éléments constituent des intérêts personnels dans les activités d’exploitation agricole de la propriété. Il a témoigné qu’il prenait un grand plaisir à se promener tout simplement dans la propriété. Sauf exceptions de la culture du foin et de l’élevage de volaille, ses autres prétendues activités agricoles ont été de courte durée et, de toute évidence, infructueuses. Ces activités agricoles semblent avoir eu pour objectif de faire passer le temps aux enfants, ou de produire des denrées pour leur propre consommation et la plaisance, y compris l’acquisition, la consommation et la vente de quelques canards, oies, abeilles, lapins et moutons. Toutes ces activités ont été de petite envergure et de courte durée. On pourrait mieux les décrire comme des « essais de production agricole »; cependant, leur envergure est si limitée qu’elles répondent mieux à la description d’activités de passe‑temps ou de production pour leur propre consommation.
+[15] Seulement, la culture du foin et la production d’œufs étaient d’une toute autre envergure. Les appelants cultivaient le foin pour en vendre la plus grande partie. Ils vendaient aussi, en moyenne, environ la moitié ou plus des œufs qu’ils produisaient.
+[16] Avant que l’appelant n’achète la propriété en 1976, on y cultivait déjà du foin sur tous les terrains capables d’en produire. Les appelants ont continué à produire et à vendre du foin dans le cadre du même arrangement que le propriétaire antérieur (M. Fehr) avait conclu avec le voisin, M. Schmidt, qui coupait le foin et le mettait en balles avec son propre équipement, en contrepartie des deux‑tiers de la récolte. Contrairement à la pratique commune, les appelants déchargeaient leur part de la récolte de foin et l’entreposaient dans leur propre grange, puis ils la vendaient. M. Gray consignait également la part du foin revenant à M. Schmidt comme une vente de foin à M. Schmidt. Généralement, un contrat typique de récolte de foin aurait prévu que le moissonneur (M. Schmidt) garde le tiers correspondant aux Gray, l’entrepose, le livre et le vende en contrepartie d’un chèque ou de plusieurs chèques, pour ce tiers, qui seraient payables à M. Gray. De plus, la famille Gray nettoyait les champs de foin des roches, des éboulis et des débris. La Cour conclut que ces activités entreprises par M. Gray et sa famille entre 1976 et 1986 constituaient des activités agricoles. Elles se sont terminées en 1986, lorsque M. Schmidt a pris sa retraite. Pour la culture du foin, la famille Gray n’avait aucune dépense, sinon sa main‑d’œuvre, puisqu’ils vendaient le foin à des gens qui venaient le chercher directement à leur ferme. Par conséquent, le prix de vente était presque tout profit, bien que le volume de foin ait varié d’une année à l’autre. Il n’y avait pas d’élément personnel dans la production de foin.
+[17] D’après les registres produits par M. Gray, il semble que les revenus de la vente de foin entre 1976 et 1986 aient été les suivants :
+1976
+267,00 $
+1977
+490,00
+1978
+686,00
+1979
+652,00
+1980
+397,50
+1981
+262,50
+1982
+551,00
+1983
+524,00
+1984
+366,00
+1985
+300,00
+1986
+367,00
+[18] La famille Gray a commencé à vendre des œufs et de la volaille en décembre 1976 et elle a continué à le faire jusqu’en 1986. Chaque année, M. Gray a demandé des dépenses relativement à toute la moulée, sauf exception de la moulée des lapins en 1977. En outre, le revenu agricole qu’il a déclaré est également impossible à préciser parce que M. Gray consignait parfois la « valeur » plutôt que les prix de vente. Il semble aussi, d’après les montants inscrits, que parfois (ou peut‑être toujours), il ait consigné la valeur de biens consommés en tant que revenus de vente. Cependant, d’après les registres présentés comme preuve, les coûts relatifs à la volaille et aux œufs dépassent les revenus de leur vente chaque année entre 1976 et 1986, en partie en raison de la demande de tous les coûts à titre de dépenses.
+[19] M. Gray a témoigné que la ferme devait lui rapporter de l’argent pour qu’il ait été en mesure de payer chaque année, à même ses revenus, ses mensualités hypothécaires. En fait, il déduisait du revenu agricole tous les intérêts hypothécaires, tous les impôts fonciers –semble‑t‑il– et toutes les dépenses originelles. De plus, il déduisait du revenu des œufs toutes les dépenses relatives à la volaille, même si la famille consommât des œufs et de la volaille de sa propre production. Ces opérations donnaient chaque année une perte agricole qu’il déduisait de son salaire d’enseignant à titre de perte agricole restreinte. Ces déclarations de revenus, sous réserve d’une mineure exception et sans importance, ont été cotisées sans changement et les pertes demandées ont été admises entre 1976 et 1986.
+[20] M. Gray n’a pas amorti les bâtiments de la ferme, qui est une faculté dont jouissent les agriculteurs. Cependant, il n’y a pas de preuve que les bâtiments de la ferme aient une valeur quelconque. Par conséquent, dans les circonstances, la Cour statue que les bâtiments étaient sans valeur.
+[21] M. Gray a préparé et produit lui‑même ses déclarations de revenus. La Cour conclut que les méthodes comptables de M. Gray décrites au paragraphe [19] des présentes, révèlent un élément personnel en ce qui concerne l’exploitation agricole. Selon l’arrêt Brian J. Stewart c. La Reine [2002] 2 R.C.S. 645 (2002 DTC 6969), la présence de ces éléments personnels nécessite une décision quant à la question de savoir si l’exploitation agricole avait une attente raisonnable de profit, et quant à la qualification des activités des premières années comme activités de démarrage de l’entreprise selon les critères établis par l’arrêt Moldowan c. La Reine [1978] 1 R.C.S. 480 (77 DTC 5213).
+[22] En application des critères de l’arrêt Moldowan, on ne relève que des pertes; la compétence que M. Gray prétendait posséder consistait en quelques expériences après l’école ou en fins de semaine dans des fermes en Angleterre quand il était écolier, ainsi que quelques mois passés peu après chez son frère berger, à promener des troupeaux de moutons. Mme Gray n’avait pas d’expérience; il n’y a pas de preuve démontrant qu’aucun membre de la famille Gray ait eu l’intention d’exploiter ou de développer l’exploitation d’une ferme, ou même d’en tirer quelque profit que ce soit; et sur la base, tant des méthodes comptables adoptées par M. Gray que d’aucune autre méthode comptable, la ferme ne procurait aucun profit, et ne semblait pas non plus être en mesure de le faire, tant qu’elle serait aussi lourdement endettée.
+[23] Par conséquent, la propriété n’a pas été utilisée ni acquise par les appelants principalement dans le cadre de l’exploitation d’une entreprise agricole. En fait, toutes les activités de la ferme à l’exception de la culture du foin consistaient en l’usage et en la jouissance personnels de leur logement à titre de résidence. En outre, ni le bois d’œuvre, ni les terres sur lesquelles ce dernier se trouvait, ne peuvent être considérés comme facilitant l’usage du logement comme résidence, puisque le bois d’œuvre ne se trouvait pas près du bâtiment.
+[24] Pour ces motifs, les appels sont rejetés. Les dépens entre parties sont adjugés à l’intimée, mais un seul mémoire de frais sera taxé pour l’audience elle‑même.
+Signé à Saskatoon (Saskatchewan) ce 12e jour de mai 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 23e jour d’août 2004.
+Ingrid B. Miranda, traductrice

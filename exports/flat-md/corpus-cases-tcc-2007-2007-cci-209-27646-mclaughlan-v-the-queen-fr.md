@@ -1,0 +1,184 @@
+---
+title: "McLaughlan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27646/index.do"
+last_modified: "2007-03-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 209"
+citation2: ""
+neutral_citation: "2007 CCI 209"
+decision_date: "2007-03-05"
+language: "fr"
+item_id: "27646"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 402
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:54:49.207000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d9b415f70521c158ff84dbd54a241721cd179d76740a4e7ff42b7f00dc77b522"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McLaughlan v. The Queen
+
+- Citation: 2007 CCI 209
+- Decision date: 2007-03-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 402, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McLaughlan v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-05
+Référence neutre
+2007 CCI 209
+Numéro de dossier
+2006-2048(IT)I
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2048(IT)I
+ENTRE :
+STUART M. MCLAUGHLAN
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 5 mars 2007, à Toronto (Ontario).
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Paolo Torchetti
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002, 2003 et 2004 sont accueillis, et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour de mai 2007.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 15e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI209
+Date : 20070508
+Dossier : 2006-2048(IT)I
+ENTRE :
+STUART M. MCLAUGHLAN
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+rendus à l’audience le 4 mai 2007, à Toronto (Ontario).
+Le juge Hershfield
+[1] L’appelant interjette appel des nouvelles cotisations visant ses années d’imposition 2002, 2003 et 2004 et rejetant la déduction des paiements effectués pour le soutien des enfants de 11 343 $, de 11 400 $ et de 9840 $ respectivement.
+[2] L’appelant et sa femme sont séparés depuis le 1er octobre 1994 par cause d’échec de leur mariage. Ils ont deux enfants, dont l’un est né le 1er septembre 1987 et le second le 27 avril 1991. Pendant toute la période pertinente, les enfants ont habité avec la femme de l’appelant, depuis la rupture du mariage.
+[3] Un document intitulé [traduction] « accord financier » a été signé le 1er octobre 1994. Aux termes de cet accord, l’appelant était tenu de verser à sa femme un montant global de 820 $ par mois pour le soutien des enfants, payable en deux versements, à compter du 16 octobre 1994.
+[4] La position de l’intimée est que l’accord financier de 1994 a été modifié le 1er janvier 1999 pour porter à 850 $ par mois le montant des paiements pour le soutien des enfants de façon à créer une « date d’exécution », selon la définition qui figure au paragraphe 56.1(4) de la Loi de l’impôt sur le revenu (la « Loi »). Une modification de l’accord financier a été apportée à la main : on a biffé le chiffre 820 $ pour le remplacer par 850 $. La modification a été paraphée et datée du 1er janvier 1999. Si cette note manuscrite a pour effet de créer une « date d’exécution », comme l’affirme l’intimée, tous les paiements faits à compter de cette date, soit le 1er janvier 1999, sont une « pension alimentaire pour enfants », conformément au même paragraphe de la Loi, et ils ne sont pas déductibles, aux termes de l’alinéa (60)b) de la Loi.
+[5] L’appelant a admis que les annotations en question ont été ajoutées le 1er janvier 1999, mais il a déclaré dans son témoignage que ces annotations reflètent une modification apportée à ses obligations alimentaires en janvier 1997. Les éléments de preuve à l’appui de ce témoignage ne sont pas contestés et suffisent largement à étayer la conclusion selon laquelle les annotations apportées à l’accord financier reflètent une modification des obligations en matière de pension alimentaire convenue en janvier 1997. C’est à ce moment que les paiements ont effectivement augmenté, comme l’a confirmé la femme de l’appelant, qui a également comparu comme témoin et livré son témoignage. Elle a confirmé que, par entente verbale, elle et son mari avaient modifié le montant de la pension à verser dès janvier 1997, et non en janvier 1999. En outre, une lettre de 2005 signée par l’appelant et sa femme a confirmé que l’augmentation de la pension alimentaire pour enfant avait été convenue en janvier 1997, que la femme de l’appelant a, à compter de ce moment, ajouté les montants majorés à ses revenus et que la date du 1er janvier 1999 inscrite à la main sur l’accord financier n’était que la confirmation de l’obligation alimentaire pour enfants et non la date à laquelle avait été modifié le montant de la pension versée.
+[6] Il est clair que l’appelant et sa femme n’ont pas modifié en 1999 le montant de la pension alimentaire à verser. La modification avait déjà été faite au début de 1997. Toutefois, à la fin de 1998, ils ont pris conscience que les versements effectués ne seraient pas déductibles, du moins en ce qui concerne la majoration de 30 $ par mois, car ce montant n’était pas payé en vertu d’un accord écrit ou d’une ordonnance, comme il est exigé dans la définition de « pension alimentaire » proposée au paragraphe 56.1(4) de la Loi. Croyant que la déduction du montant intégral serait admise si l’accord financier était modifié pour tenir compte de l’accord verbal antérieur, ils ont ajouté l’annotation susmentionnée à l’accord. Cette modification ne devait pas changer le montant de la pension alimentaire payable. L’obligation de verser 850 $ existait déjà. Le montant avait été modifié en janvier 1997 par un accord verbal. En vertu des principes de la common law, la modification de 1999 n’avait aucun effet juridique – toute considération entre les parties était chose du passé, de sorte qu’il n’y en avait aucune. Autrement dit, il semble possible pour l’appelant de soutenir qu’aucun nouveau contrat aux termes duquel un paiement était versé n’a été fait en 1999. Toutefois, à moins qu’il ne soit fait abstraction de la modification de 1999, l’existence de celle-ci montre qu’il y a eu changement de forme de l’accord (l’accord verbal est devenu un accord écrit). Il est clair que la Loi met l’accent sur la forme, et avancer que les changements de forme n’ont aucun effet sur le plan de l’impôt, dans le contexte de l’alinéa 60b), irait à l’encontre de l’essence même de cette disposition.
+[7] En outre, citant Nanci Pach c. Sa Majesté la Reine et Bruce Rosenberg[1] comme jurisprudence, l’intimée soutient qu’une modification ne peut être apportée à une « pension alimentaire » que par écrit et que, par conséquent, la modification de 1999 a été le premier accord modificatif entre les parties, et non un deuxième accord qui reprenait le premier. Si tel est le cas, la modification du montant de la pension alimentaire, aux fins de l’impôt, si on se reporte à Pach, n’a eu lieu qu’en 1999, même si le changement s’est effectivement produit plus tôt, comme les parties le souhaitaient.
+[8] L’arrêt Pach repose sur l’application d’un principe de common law et sur la conclusion de fait selon laquelle la modification de la pension alimentaire dans ce cas avait été imposée unilatéralement et ne pouvait donc être considérée comme une modification de l’accord. Selon le principe de common law qui a été appliqué, un contrat qui modifie un accord antérieur doit être mis par écrit si le contrat initial devait être écrit.
+[9] Toutefois, cette décision n’examine pas à fond le contexte législatif dans lequel un accord de modification peut être analysé et, plus particulièrement, elle ne traite pas expressément de la date de prise d’effet d’une modification apportée par écrit. Dans l’affaire à l’étude, la modification de janvier 1997 a été mise par écrit en 1999, et l’intention commune des parties était que l’accord écrit reflète la modification apportée en 1997. En pareil cas, lorsque la date de prise d’effet souhaitée de la modification écrite correspond à la date où les parties se sont entendues sur la modification et à celle où cette modification a été appliquée, il est possible de conclure que la date de prise d’effet de la modification écrite correspond au moment où la modification a été convenue, même si l’exigence de consignation par écrit n’a été respectée qu’ultérieurement. C’est essentiellement la thèse que l’appelant a soutenue.
+[10] Cette thèse pourra être acceptée si les dispositions législatives permettent de donner effet aux intentions des parties en cause.
+[11] Cela dit, la définition de l’expression « date d’exécution » nécessite un examen minutieux. La définition est ainsi rédigée :
+56.1(4)
+[…]
+« date d’exécution » Quant à un accord ou une ordonnance :
+a) si l’accord ou l’ordonnance est établi après avril 1997, la date de son établissement;
+b) si l’accord ou l’ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l’accord ou de l’ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l’accord ou l’ordonnance fait l’objet d’une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d’exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l’accord ou l’ordonnance, ou dans toute modification s’y rapportant, pour l’application de la présente loi.
+[12] La date prescrite par l’alinéa a) n’est pas dictée expressément par un renvoi à des accords écrits. En l’espèce, il y a eu avant mai 1997 un accord, verbal il est vrai, qui prévoyait le paiement de 850 $ par mois. Par conséquent, il n’y a pas de « date d’exécution » qui soit créée en fonction des dispositions expresses de ce paragraphe.
+[13] Le préambule qui précède les dates prescrites par l’alinéa b) ne renvoie pas expressément aux seuls accords écrits conclus avant mai 1997, de sorte que les dates prescrites aux sous-alinéas suivant l’alinéa b) ne sont pas, au moins expressément, dictées par un renvoi à des accords écrits.
+[14] Parmi les sous-alinéas qui suivent l’alinéa b), il semble que l’intimée s’appuie sur les sous-alinéas (ii) ou (iii). La date prescrite par ces sous-alinéas n’est pas expressément dictée par un renvoi à des accords écrits. Toutefois, le libellé des deux sous-alinéas renvoie à une modification de la « pension alimentaire pour enfants », et il n’existe de « pension alimentaire pour enfants » que s’il y a un accord écrit qui en établit le montant[2]. Au 31 décembre 1998, la « pension alimentaire pour enfants » était de 820 $ par mois. Il s’agit du seul montant établi dans un accord écrit. Le montant en a été modifié le 1er janvier 1999. La « pension alimentaire pour enfant » est alors passée à 850 $ par mois. C’est dire que, même si la modification manuscrite ne visait qu’à reconnaître une modification antérieure apportée aux obligations alimentaires convenues, cette obligation antérieure de 850 $ n’est devenue une « pension alimentaire pour enfants » que lorsqu’elle a pris une forme écrite. Lorsqu’elle a été mise par écrit, le 1er janvier 1999, la « pension alimentaire pour enfants » définie par la Loi a été modifiée de façon à créer une « date d’exécution ». Ni la date réelle de la modification, ni la date de prise d’effet de la consignation par écrit de la modification n’y changent quoi que ce soit, du moins sur le plan de la forme. Les parties à un accord ne peuvent, par un accord, modifier le fait concret de la date de la consignation par écrit. Cela veut dire qu’il n’y a aucun autre recours qui puisse changer quoi que ce soit à ce résultat.
+[15] Un recours de cette nature serait que l’appelant demande une ordonnance de rectification ou une ordonnance portant que l’accord modificatif de 1999 soit annulé. L’ordonnance nécessaire pour obtenir le résultat souhaité par les parties statuerait que les versements de pension alimentaire pour enfants sont de 850 $ par mois et qu’elle, c’est-à-dire l’ordonnance, s’applique rétroactivement à compter de janvier 1997. Pareille ordonnance donnerait effet aux intentions et aux actes des parties, ainsi qu’à l’accord verbal exécutoire qu’elles ont conclu à cette date.
+[16] Bien que j’aie dit que les parties à un accord ne peuvent, par un accord, modifier le fait concret du moment où un accord a été consigné par écrit, une ordonnance judiciaire peut créer toute réalité jugée justifiable. C’est dire que le dossier d’une cour supérieure doit être considéré comme une vérité absolue tant qu’il n’est pas infirmé[3]. Ce principe est abordé dans John Dunfield v. Her Majesty the Queen[4]. Dans cette affaire, le juge Bell a donné effet à une ordonnance rétroactive à l’égard d’une pension alimentaire qui ne pouvait être déduite que si elle était versée aux termes d’une ordonnance. Les versements effectués avant l’ordonnance ont quand même été jugés déductibles, parce que l’ordonnance s’appliquait rétroactivement à partir d’une date antérieure.
+[17] En l’espèce, l’appelant n’a ni demandé ni obtenu une ordonnance de rectification, ce qui me laisse quatre possibilités à envisager : je peux accueillir l’appel, comme si l’ordonnance de rectification voulue avait été obtenue; je peux rejeter l’appel parce qu’il n’y a aucune ordonnance de rectification et que je n’ai pas compétence pour rectifier les documents en cause; je peux accorder à l’appelant le temps nécessaire pour demander une ordonnance de rectification; ou bien je peux reconnaître que la modification de 1999 n’a aucun effet juridique et l’annuler ou le traiter comme s’il en était fait abstraction. Il existe un précédent pour chacune des trois dernières solutions, et une argumentation a été avancée à l’égard de la première.
+[18] Comme il s’agit d’un appel présenté selon la procédure informelle, j’hésite à m’engager dans une analyse approfondie des enjeux qui gravitent autour de la rectification. J’hésite également à tenter de concilier la position de la Cour sur les diverses approches adoptées à l’égard des situations où un recours de rectification a été envisagé. Il faut là encore un certain contexte.
+[19] Dans Attorney General of Canada v. Paul Juliar, Karen Juliar and Juliar Holdings Ltd.[5], un contrat prévoyant l’émission de créances à l’égard du transfert d’actifs à une société a été rectifié pour tenir compte des intentions des parties et leur donner effet, c’est-à-dire veiller à ce que l’opération ne donne pas lieu à des conséquences fiscales immédiates. La rectification a permis, effectivement, d’annuler l’émission des créances et de la remplacer par l’émission d’actions, ce qui était conforme aux intentions des parties. Dans cette affaire, la Cour d’appel de l’Ontario a appliqué une réparation en equity qui consistait à rectifier un document pour permettre aux parties d’obtenir un avantage fiscal légitime qu’elles souhaitaient toutes deux obtenir. L’opération recherchée devait être un transfert des actifs en échange de la contrepartie nécessaire pour obtenir les résultats voulus sur le plan fiscal.
+[20] Il ne s’agit pas ici d’un tribunal d’equity, mais il y a peu de choses permettant de distinguer les réparations en equity au Canada de la common law en général. La Cour doit reconnaître la common law (voir Will-Kare Paving & Contracting Limited v. Her Majesty the Queen[6]), et si, dans ces circonstances, une cour supérieure de l’Ontario peut faire une rectification ou rendre une ordonnance annulant un document ou une opération afin de donner effet aux intentions des parties, la présente Cour, on peut au moins le soutenir, n’a pas à rester indifférente, sans reconnaître les dispositions qui permettent d’obtenir ce résultat.
+[21] Dans son article intitulé « Many Questions (and a Few Possible Answers) about the Application of Rectification in Tax Law[7] », Joel Nitikman, auteur qui traite de fiscalité, soutient ce qui suit, en dépit des textes faisant autorité qui vont en sens contraire[8] :
+[TRADUCTION]
+La Cour de l’impôt peut-elle rectifier un instrument? Pas au sens habituel : il ne s’agit pas d’un tribunal d’equity [voir l’article 12 de la Loi sur la Cour canadienne de l’impôt, L.R.C. (1985) ch. T-2, modifiée], et, en général, seule une des parties au contrat comparaît devant la Cour de l’impôt; l’autre partie n’aura pas reçu de cotisation et ne demande pas de rectification. À mon avis, cependant, la Cour de l’impôt peut décider d’une affaire comme si l’instrument avait été rectifié; elle a la compétence implicite nécessaire pour trancher des questions juridiques provinciales dans l’exercice de sa compétence en matière d’affaires fiscales [ITO Ltd. v. Miida Electronics Inc. (1986), 28 D.L.R. (4th) 641, à la p. 662 (C.S.C.)]. La Cour de l’impôt applique souvent des principes d’equity pour trancher des questions de nature fiscale [voir par exemple Datacalc Research Corporation v. The Queen, 2002 D.T.C. 1479, au paragraphe 58 (C.C.I.)].
+[22] M. Nitikman reconnaît ensuite que, même s’il semble que cette Cour peut décider (et doit peut-être le faire) s’il y a lieu de traiter un document comme ayant été rectifié lorsqu’elle tranche une affaire de fiscalité, la Cour a dit préférer que les contribuables s’adressent d’abord à la cour supérieure de la province pour obtenir une rectification. Mais il n’en va pas toujours ainsi. Dans la décision Zdislav Kovarik v. Her Majesty the Queen[9], le juge en chef Bowman (tel est son titre actuel) a non seulement refusé de considérer un document comme rectifié, mais il a aussi refusé d’accorder un délai à l’appelant pour que celui‑ci puisse demander une rectification à la cour supérieure de la province. Cette affaire portait sur une question de date d’exécution, mais l’appelant était en opposition avec son ex‑conjointe, ce qui n’est pas le cas en l’espèce. Dans l’affaire qui nous occupe, les parties signataires du document en question sont en parfait accord pour reconnaître qu’une erreur a été commise, et elles peuvent, à mon avis, s’appuyer sur Juliar.
+[23] Si on s’appuie sur ce jugement, il faut se demander ce que la Cour doit faire dans les circonstances. Dans la décision David A. Lloyd v. Her Majesty the Queen[10], le juge en chef Bowman a reconnu que la Cour de l’impôt n’a pas compétence pour rectifier des opérations ni le pouvoir de le faire, mais, s’appuyant en partie sur la décision de la Cour d’appel fédérale dans Her Majesty the Queen v. Jerrold D. Paxton[11], il a fait observer au paragraphe 19 que la Cour pouvait considérer un instrument comme inefficace :
+Il est bien évident que notre cour ne peut faire de déclarations qui lient les parties à une opération ou encore annuler ou rectifier des opérations à l’égard des parties. C’est là une question qui relève des tribunaux des provinces ou des territoires. Néanmoins, cela ne signifie pas que notre cour doit, lorsque la validité d’une opération est pertinente au règlement d’un litige fiscal opposant un contribuable et le gouvernement du Canada, s’abstenir d’agir et refuser de rendre une décision qui est essentielle à l’exercice de sa compétence. De toute évidence, notre cour doit déterminer la validité ou les conséquences juridiques d’une opération entre des parties dans le contexte de l’évaluation des incidences fiscales de celle-ci.
+[24] Dans Lloyd, il a été reconnu qu’un instrument juridiquement inefficace pouvait être reconnu comme tel par la Cour sans qu’on s’adresse à une cour supérieure provinciale pour faire annuler le document. Le juge a traité le document en question comme s’il avait été annulé. Je ne conviens pas que ce principe permet d’aller jusqu’à dire que la Cour a compétence pour modifier le passé, au sens où on l’a fait dans Juliar. En outre, la décision Lloyd ne m’autoriserait pas à donner effet aux intentions des parties en traitant cet appel comme si une ordonnance à effet rétroactif avait été prise par le tribunal compétent pour modifier les versements de pension alimentaire, les faisant passer de 820 $ à 850 $ par mois à compter du 1er janvier 1997. Ce serait attribuer à la Cour des compétences plus larges que celles qui sont reconnues dans la décision Lloyd.
+[25] Toutefois, si on applique en l’espèce le principe de la décision Lloyd, la Cour a compétence pour reconnaître que le document modificatif de 1999 était sans effet juridique et faire comme s’il était annulé. La confirmation écrite de l’accord verbal de 1997 ne constitue pas un contrat. Le fait que l’accord verbal ne soit pas un changement de la « pension alimentaire pour enfants » aux termes de la Loi ne change pas la conséquence, en matière de droit des contrats, selon laquelle la confirmation de 1999 n’ajoute rien aux obligations juridiques entre les parties, même si la forme de la confirmation crée une nouvelle « pension alimentaire pour enfants » aux termes de la Loi. Comme on l’a déjà signalé, il n’y a aucune considération nouvelle entre les parties à l’égard de l’annotation de 1999. Comme contrat, cette annotation est sans effet. Si on annule la « forme écrite », l’accord financier de 1994 demeure la seule source écrite de l’obligation de payer – cette obligation étant de 820 $ par mois. Conformément à l’arrêt Pach, le fait qu’il y ait un accord verbal prévoyant le versement d’un montant de 30 $ de plus ne change rien au résultat fiscal, soit que la « pension alimentaire pour enfants », aux termes de la Loi, est celle qui figure dans l’accord financier de 1994.
+[26] Considérant les diverses possibilités énumérées ci-dessus, dans les circonstances propres en l’espèce, j’estime qu’il n’est pas justifié de suspendre l’instance pour donner à l’appelant la possibilité de demander une rectification qui, peut-on soutenir, permettrait la déduction de 850 $ par mois. Sur ce point, je suis porté à me rallier au raisonnement de la décision Kovarik, soit que la Cour ne peut retarder sa décision et accorder une suspension chaque fois qu’un contribuable pense qu’il pourrait obtenir un meilleur résultat sur le plan fiscal s’il avait la possibilité de demander un type particulier d’ordonnance de rectification à un autre tribunal. L’appelant a confié son sort à la Cour, et le mieux que la Cour puisse faire, c’est reconnaître que l’accord de 1999 est sans effet juridique et donc en faire abstraction. À mon avis, cela est conforme au principe appliqué dans la décision Lloyd. Il s’ensuit qu’aucune date d’exécution n’a été créée.
+[27] Si on annule l’accord de 1999 ou, plus particulièrement, si on le traite comme annulé, on reconnaît simplement son inefficacité en droit des contrats. L’annuler ne revient pas à récrire l’histoire. Il ne s’agit pas de ce qu’on a qualifié de révisionnisme fiscal dans la décision Dunfield. En outre, il semble y avoir une double conséquence fiscale, si l’appel n’est pas accueilli[12]. Les deux parties à tous les accords en cause contestent l’effet du document de 1999. Elles ont comparu, et elles sont d’accord. Elles n’ont pas obtenu d’ordonnance judiciaire et n’ont pas établi un accord modificatif en bonne et due forme en janvier 1997 parce qu’elles ne s’en prenaient pas l’une à l’autre. Ne pas accorder à l’appelant le bénéfice du doute quant à l’application d’un principe qui, au moins, ramène les parties à la position qui était la leur avant leur tentative malheureuse d’officialisation d’une modification antérieure des obligations en matière de pension alimentaire, ce serait pénaliser les séparations harmonieuses dont il faut applaudir la civilité et le respect, dans l’intérêt supérieur des enfants.
+[28] Pour ces motifs, les appels sont accueillis parce qu’aucune date d’exécution n’a été créée par les annotations apportées en 1999 à l’accord financier de 1994. Le seul accord en vertu duquel les versements déductibles de « pension alimentaire pour enfants » pouvaient se faire était l’accord financier de 1994. Ces versements étaient de 820 $ par mois. En conséquence, la « pension alimentaire pour enfants » déductible, dans chacune des années visées, est de 820 $ par mois, ou 9840 $ par année.
+Signé à Ottawa (Canada), ce 8e jour de mai 2007.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 15e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE :
+2007CCI209
+No DU DOSSIER DE LA COUR :
+2006-2048(IT)I
+INTITULÉ :
+Stuart M. McLaughlan c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 5 mars 2007
+MOTIFS DU JUGEMENT :
+L’honorable juge J.E. Hershfield
+DATE DU JUGEMENT :
+Le 8 mai 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Paolo Torchetti
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Citée par l’intimée comme Rosenberg c. Canada 2003 A.C.F. no 1427; 2003 DTC 5634 (CAF).
+[2] La « pension alimentaire pour enfants » définie au paragraphe 56.1(4) doit être une « pension alimentaire », et une « pension alimentaire » est un montant qui peut être touché en vertu d’un accord écrit.
+[3] R. c. Wilson, [1983] 2 R.C.S. 594, page 598. Sauf circonstances exceptionnelles, il y a toutefois un autre fondement qui permet de dire que la Cour n’est pas forcément liée par les jugements formels qui révisent l’histoire, si cela équivaut à du révisionnisme fiscal. Voir Dunfield, précitée.
+[4] 2001 4 C.T.C. 2518 (C.C.I.).
+[5] 2000 DTC 6589 (C.A. Ont.).
+[6] 2000 DTC 6467, aux paragraphes 35 et 37.
+[7] (2005) vol. 53, no 4, Revue fiscale canadienne, p. 941-973.
+[8] Dans GLP NT Corporation v. The Attorney General of Canada, 2003 DTC 5654 (Cour supérieure de justice de l’Ontario), il est avancé que la Cour de l’impôt n’a pas le pouvoir de rectifier un document. Tout en admettant que cette assertion est juste, sur le plan juridique, M. Nitikman dit qu’il est erroné de prétendre que la Cour de l’impôt ne peut traiter un instrument comme ayant été rectifié. Pour énoncer cette thèse, il s’appuie sur St. Ives Resources Ltd. v. M.N.R., [1990] 1 C.T.C. 2539 (C.C.I.), confirmée pour d’autres motifs par 92 DTC 6223 (C.F. 1re inst.).
+[9] [2001] 2 C.T.C. 2503 (C.C.I.).
+[10] 2002 DTC 1493, paragraphes 18-19.
+[11] 1997 DTC 5012.
+[12] On me dit que la femme de l’appelant n’a pas fait l’objet d’une nouvelle cotisation fondée sur le retrait des versements de pension alimentaire de son revenu et qu’au moins une des années frappées d’appel se situe en dehors de la période normale prévue pour l’établissement d’une nouvelle cotisation dans le cas de la femme.

@@ -1,0 +1,180 @@
+Title: Oryschak v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27462/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-146-27462-oryschak-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-03-10
+
+# Oryschak v. The Queen
+
+- Citation: 2006 CCI 146
+- Decision date: 2006-03-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 218, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Oryschak v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-10
+Référence neutre
+2006 CCI 146
+Numéro de dossier
+2005-1548(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1548(IT)I
+ENTRE :
+BRENDA ORYSCHAK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 1er décembre 2005 à Kamloops (Colombie-Britannique)
+Devant : L'honorable juge L.M. Little
+Comparutions :
+Représentante de l'appelante :
+Mme Diane Serwatkewich
+Avocat de l'intimée :
+Me David Everett
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000, 2001 et 2002 sont accueillis, sans dépens, et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 10e jour de mars 2006.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 30e jour de mai 2006.
+Sara Tasset
+Référence : 2006CCI146
+Date : 20060310
+Dossier : 2005-1548(IT)I
+ENTRE :
+BRENDA ORYSCHAK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS
+[1] L'appelante exploite une entreprise de tenue de livres, de conseils fiscaux et de préparation de déclarations fiscales à son domicile à Kamloops, en Colombie-Britannique.
+[2] Dans ses déclarations de revenus pour les années d'imposition 2000, 2001 et 2002, l'appelante a demandé un certain nombre de déductions relatives à des frais afférents à un véhicule à moteur, à des repas et divertissements et à des créances irrécouvrables.
+[3] Le ministre du Revenu national (le « ministre » ) a établi des nouvelles cotisations en se fondant sur ce qui suit :
+1. Frais afférents à un véhicule à moteur :
+L'appelante a dit qu'elle utilisait la camionnette Ford à des fins commerciales dans une proportion de 90 %. Des fonctionnaires de l'Agence du revenu du Canada ( « ARC » ) ont calculé que l'appelante utilisait la camionnette Ford à des fins commerciales dans une proportion de 20 %. Les montants suivants sont en cause :
+Demandé
+Révisé
+2000
+6 521,29 $
+1 449,17 $
+2001
+3 659,36 $
+813,19 $
+2002
+7 008,27 $
+709,17 $
+[4] L'appel a été entendu à Kamloops (Colombie-Britannique) le 1er décembre 2005. Lors de l'audience, un certain nombre d'observations ont été soumises par les deux parties en ce qui concerne l'utilisation de la camionnette Ford de l'appelante à des fins commerciales.
+[5] Le 3 décembre 2005, la représentante de l'appelante a envoyé une lettre à la Cour. Dans sa lettre, la représentante de l'appelante soutenait que la vérificatrice de l'ARC n'avait pas terminé le calcul du kilométrage parcouru par l'un des véhicules à des fins commerciales. La représentante de l'appelante a aussi fait un certain nombre d'autres observations à propos des éléments de preuve fournis par la vérificatrice de l'ARC.
+[6] Le 9 décembre 2005, Me David Everett, l'avocat de l'intimée, a adressé à la Cour une lettre à laquelle il a annexé une copie d'une lettre de Clare Matheson, la vérificatrice de l'ARC, datée du même jour. Dans sa lettre, Mme Matheson disait que la façon dont elle a procédé pour calculer la proportion dans laquelle le véhicule a été utilisé à des fins commerciales était basée sur le registre estimatif que l'appelante lui avait fourni.
+[7] Dans une lettre datée du 11 janvier 2006, Me Everett a fourni à la Cour une autre analyse faite par Mme Matheson du calcul des frais afférents à un véhicule pour l'année d'imposition 2000, analyse qui, selon lui, doit être lue en parallèle avec la lettre de Mme Matheson datée du 9 décembre 2005.
+[8] Après avoir considéré les renseignements fournis par les parties à l'audience et les renseignements fournis après l'audience, j'ai conclu que l'utilisation de la camionnette Ford à des fins commerciales était la suivante :
+2000 - 60 %
+2001 - 60 % du montant que l'appelante avait demandé au départ
+2002 - 60 %
+2. Repas et divertissements :
+L'appelante a demandé les déductions suivantes :
+Année d'imposition
+Demandées
+Permises
+2000
+1 468,09 $
+0
+2001
+1 538,15 $
+0
+2002
+1 114,30 $
+0
+Le ministre n'a permis à l'appelante de déduire aucun montant qu'elle avait dépensé pour les repas et pour le divertissement de ses clients. (Note : Dans son témoignage, l'appelante a dit avoir déduit 50 % du montant payé pour ses propres repas et divertissements.)
+J'ai bien examiné le témoignage de l'appelante et j'accepte ce témoignage, selon lequel l'appelante a tenu des réunions d'affaires avec ses clients aux divers restaurants auxquels elle a fait référence dans son témoignage.
+J'ai conclu que les déductions suivantes devraient êtres permises :
+Année d'imposition
+2000
+1 101,06 $
+2001
+1 153,61 $
+2002
+835,73 $
+3. Créances irrécouvrables :
+[9] Les montants suivants ont été déclarés par l'appelante à titre de créances irrécouvrables :
+Déductions demandées relativement à des créances irrécouvrables
+Demandées
+Permises
+200l
+3 975,00 $
+0
+2002
+18 539,00 $
+0
+[10] Les alinéas 20(1)l) et 20(1)p) de la Loi traitent des créances irrécouvrables et des créances douteuses. L'alinéa 20(1)l) est ainsi libellé :
+20. (1) Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d'une entreprise ou d'un bien pour une année d'imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu'il est raisonnable de considérer comme s'y rapportant :
+[...]
+Créances douteuses
+l) la provision égale au total des montants suivants :
+(i) un montant raisonnable au titre de créances douteuses (sauf une créance à laquelle s'applique le sous-alinéa (ii)) incluses dans le calcul du revenu du contribuable pour l'année ou pour une année d'imposition antérieure,
+[11] L'alinéa 20(1)p) est rédigé en ces termes :
+Créances irrécouvrables
+p) le total des montants suivants :
+(i) les créances du contribuable qu'il a établies comme étant devenues irrécouvrables au cours de l'année et qui sont incluses dans le calcul de son revenu pour l'année ou pour une année d'imposition antérieure,
+[...]
+[12] En me basant sur le témoignage, j'ai conclu que l'appelante devrait avoir droit aux déductions pour créances irrécouvrables ou créances douteuses qu'elle a demandées pour autant qu'elle inclue dans son revenu pour les années suivantes toute partie des créances irrécouvrables ou des créances douteuses qui a été payée. En tirant cette conclusion, je souscris aux observations de Mme la juge Reed de la Cour fédérale dans la décision Coppley, Noyes & Randall Limited v. The Queen, 91 DTC 5291 où elle dit, à la page 5297 :
+Les avocats des deux parties conviennent que c'est la haute direction d'une société, lorsque cette dernière est le contribuable, qui est le mieux à même de déterminer, à la lumière d'un examen des comptes débiteurs de la société, les comptes qui risquent de donner lieu à des problèmes et dont le recouvrement pourrait être douteux.
+[13] Autrement dit, je crois que le jugement de l'appelante sur le plan commercial quant aux créances qui peuvent être irrécouvrables doit l'emporter sur le jugement de la vérificatrice de l'ARC.
+4. Bureau à domicile :
+Lors de l'audience, les parties se sont entendues en ce qui concerne le traitement fiscal du bureau à domicile. Par conséquent, je ne me pencherai pas sur cette question.
+[14] Les appels sont accueillis, sans dépens, et le ministre doit établir à l'égard de l'appelante une nouvelle cotisation tenant compte des modifications susmentionnées.
+Signé à Vancouver (Colombie-Britannique), ce 10e jour de mars 2006.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 30e jour de mai 2006.
+Sara Tasset
+RÉFÉRENCE :
+2005CCI146
+N º DU DOSSIER DE LA COUR :
+2005-1548(IT)I
+INTITULÉ :
+Brenda Oryschak et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Kamloops (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 1er décembre 2005
+MOTIFS DU JUGEMENT :
+L'honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 10 mars 2006
+COMPARUTIONS :
+Représentante de l'appelante :
+Mme Diane Serwatkewich
+Avocat de l'intimée :
+Me David Everett
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

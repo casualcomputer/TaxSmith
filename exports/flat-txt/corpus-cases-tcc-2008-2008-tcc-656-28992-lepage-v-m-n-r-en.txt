@@ -1,0 +1,204 @@
+Title: Lepage v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28992/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-656-28992-lepage-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-12-01
+
+# Lepage v. M.N.R.
+
+- Citation: 2008 TCC 656
+- Decision date: 2008-12-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6770, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lepage v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-01
+Neutral citation
+2008 TCC 656
+File numbers
+2007-1460(EI)
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-1460(EI)
+BETWEEN:
+YVON LEPAGE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on October 8 and 10, 2008, at Rimouski, Quebec
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Maryse Beaulieu
+Counsel for the Respondent:
+Christina Ham
+JUDGMENT
+The appeal is dismissed and the decision made by the Minister of National Revenue on December 5, 2006, under the Employment Insurance Act is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 1st day of December 2008.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 19th day of January 2009.
+Brian McCordick, Translator
+Citation: 2008 TCC 656
+Date: 20081201
+Docket: 2007-1460(EI)
+BETWEEN:
+YVON LEPAGE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+[1] The Appellant has appealed from a decision by the Minister of National Revenue ("the Minister") that his employment with 9076‑3442 Québec Inc. ("the Payor") from October 15 to December 8, 2001, July 8 to September 28, 2002, and August 14 to November 14, 2003, was excluded employment within the meaning of paragraphs 5(2)(i) and 5(3)(b) of the Employment Insurance Act ("the Act"). In the Reply to the Notice of Appeal, counsel for the Respondent argues as an alternative ground that the Appellant controlled more than 40% of the Payor's voting shares, which also excluded his employment under paragraph 5(2)(b) of the Act.
+[2] Paragraphs 5(2)(b), 5(2)(i) and 5(3)(b) of the Act, which are relevant to the grounds raised in the Reply to the Notice of Appeal, read as follows:
+5(2) Insurable employment does not include
+. . .
+(b) the employment of a person by a corporation if the person controls more than 40% of the voting shares of the corporation;
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+. . .
+(3) For the purposes of paragraph (2)(i),
+. . .
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[3] It is not in dispute that the Appellant and the Payor are related within the meaning of the Act. During the Payor's fiscal years ending on April 30, 2002, and April 30, 2003, the Appellant's son, Frédéric Lepage, held 52% of the voting shares, while his common‑law partner, Gaétane Beaulieu, held 48% of the voting shares. In the Reply to the Notice of Appeal, the Minister disputes the number of the Payor's voting shares owned by the Appellant in 2001, 2002 and 2003. In the Notice of Appeal, the Appellant claimed that he owned 33% of the Payor's shares in 2001, 2002 and 2003.
+[4] The Reply to the Notice of Appeal states that the Minister is not satisfied that it is reasonable to conclude that the Appellant and the Payor would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length. Subparagraphs 6(b) to (m) of the Reply read as follows:
+[translation]
+6.(b) The Payor, which was incorporated on April 14, 1999, operated a transportation and trucking business.
+(c) The Payor operated its business year‑round but did much less business during the winter.
+(d) According to tax returns, the Payor's had sales of $63,112 as at April 30, 2003, and $104,738 as at April 30, 2004.
+(e) The Appellant was in charge of the Payor's day‑to‑­day activities and worked as a truck driver and supervisor for the Payor.
+(f) Frédéric Lepage did not work for the Payor.
+(g) Depending on the version given, the Payor owned between two and four trucks.
+(h) The Appellant set his own work schedule but could not specify how many hours a week he worked.
+(i) The Appellant was not given any instructions by the Payor and worked as needed by the Payor.
+(j) According to his claims for benefits, the Appellant was paid $728 a week for 40 hours of work in 2001 and $750 a week for 40 hours in 2003.
+(k) Because of the parties' lack of cooperation, we were unable to determine the Appellant's remuneration for 2002.
+(l) After each of his alleged work periods, the Appellant made a claim for benefits and received benefits for the maximum number of weeks for which he qualified before returning to work.
+(m) Despite the Appellant's lack of cooperation, we can conclude that the periods during which he was on the Payor's payroll were based not on the Payor's needs but rather on his own needs in terms of qualifying for benefits.
+[5] In the Reply to the Notice of Appeal, the Respondent states that neither the Appellant nor the Payor wanted to cooperate with the Respondent's representatives (with regard to insurability and the appeal) and that the decision was made based on the documents already in the Appellant's file.
+[6] When the hearing began, counsel for the Appellant noted that the Payor had made an assignment in bankruptcy in 2005 and that all the Payor's files were in the records of the office of the trustee who handled its bankruptcy in 2005. She had difficulty obtaining a copy of the relevant records and received some extracts from the Payor's minutes only the day before the appeal was heard.
+[7] Frédéric Lepage, the Appellant's son, was the first witness. He testified that he had worked doing road repairs in the Rimouski and Québec areas in 2001, 2002 and 2003. He did not work for the Payor, since he did not have the licences required to drive the Payor's trucks.
+[8] He explained that his father had had major health problems in 2001, namely cancer and serious heart problems. In his opinion, his father's health problems caused financial difficulties that led him to make an assignment in bankruptcy on June 13, 2002.
+[9] He testified that he had purchased 52% of the Payor's voting shares after his father's illness. According to Mr. Lepage, his father no longer wanted to manage the Payor. He wanted to become just an employee.
+[10] Frédéric Lepage also testified that his father's common‑law partner, Gaétane Beaulieu, owned 48% of the Payor's voting shares.
+[11] During his testimony, Frédéric Lepage was unable to specify how he had acquired the voting shares. He finally said that his father had transferred them to him for consideration of $1 a share.
+[12] Even though he was not authorized to drive the Payor's trucks, Frédéric Lepage testified that he knew a lot about the road repair industry and the role that carriers play in major construction projects.
+[13] He stated that the Payor had three tank trucks and one gravel truck. He explained to the Court that contracts were distributed by a dispatching company called Transporteurs en vrac de Rimouski Inc., which handled dispatching for bulk carriers. If an individual had more than one truck, the dispatching was done in the individual's name. An individual who received a contract of carriage one day went back to the end of the list. However, if an individual created a legal person, the legal person was treated as another carrier for the purposes of contract distribution, even if the individual owned 100% of its shares.
+[14] He explained that the Payor had between two and four employees at all times during the 2001, 2002 and 2003 taxation years. Fernando Ross worked for the Payor during all those years. The Appellant was also an employee of the Payor. Jean‑Pierre Dubé worked part-time for the Payor.
+[15] Frédéric Lepage testified that he did not receive any dividends from the Payor and was not on its payroll as an employee. He therefore did not receive a salary.
+[16] He testified that he worked for Couillard Construction in Québec in 2001 repairing roads and shopping centre parking lots. In 2002, he did road repair work for the Wilfrid Allen company in Québec. He also said that he obtained a bulk carriage contract for repairs to a shopping centre parking lot while working for Couillard Construction.
+[17] He took the job at Wilfrid Allen to obtain his competency cards as a labourer. He continued working for Wilfrid Allen repairing highway 132 and, through his job, obtained bulk carriage contracts for the Payor.
+[18] He identified Exhibit A‑1 as Fernando Ross' record of employment (ROE) for the period of June 10 to September 27, 2002. That ROE is signed by Marlène Dumais, an employee of the Payor's outside accountant. He also identified Exhibit A‑2 as the Appellant's ROE for the period of July 8 to September 28, 2002. That ROE is unsigned, but Gaétane Beaulieu's name appears under the signature line.
+[19] Frédéric Lepage testified that he paid invoices, made bank deposits and was responsible for the Payor's employees. He hired his father to drive mainly tank trucks and to do mechanical work on the Payor's equipment.
+[20] During his testimony, he admitted that the Payor's customers sometimes telephoned his father's home and that his father sometimes took the calls and distributed the work if he was unable to reach his son Frédéric. He also testified that Ms. Beaulieu could take calls and leave him messages on his cellular telephone.
+[21] This witness' cross‑examination was interesting. Mr. Lepage was unable to explain to the Court how he acquired his shares in the Payor. In the end, he said that he thought he had purchased them from his father and not subscribed for them.
+[22] He said that he transferred the shares to his father in 2005 when he went back to school in Québec. He told the Court that he took a course on heavy equipment, the field in which he had worked until then. He explained to the Court that he wanted to go back to school because it was becoming obvious in 2005 that the Payor would not be profitable enough for him to become a full‑time employee. He also testified that the bulk trucking season was too short and that, in his opinion, it was inconceivable that he would be able to earn a decent living as the company's owner.
+[23] The Appellant was the second witness. He explained to the Court that he was born in Saint‑Marcellin.
+[24] He told the Court that the Payor was incorporated a few years earlier and that he was its sole shareholder until his son, Frédéric Lepage, acquired 52% of the voting shares and his common‑law partner acquired 48% of the voting shares. He confirmed that his health had led him to divest himself of his shares in the Payor. Since his son Frédéric had expressed an interest in the Payor, he transferred his shares to him. He also allowed his common‑law partner, Gaétane Beaulieu, to purchase 48% of the voting shares. He wanted to free himself from managing the Payor, so he transferred the shares.
+[25] He explained to the Court that Fernando Ross had worked for him between 1974 and 1990. Mr. Ross quit his job in 1980 to drive school buses and returned to his job with the Payor in 2000. His work for the Payor involved driving tank trucks and dealing with any mechanical problems. The Appellant testified that he was paid between $740 and $750 gross a week. He was paid by the week rather than by the hour because he had to be free at all times to drive the trucks when calls were received.
+[26] On cross‑examination, the Appellant explained that he incorporated the Payor because the rules and operation of the dispatching company, Transporteurs en vrac de Rimouski Inc., changed in 1995. From then on, an individual could incorporate a company that was wholly owned by the individual in order to appear twice on the dispatcher's list. If the individual had a driver's licence in his or her own name and a truck registered to the company, the individual could be on the list twice instead of once.
+[27] Gaétane Beaulieu, the Appellant's common‑law partner, was called to testify by counsel for the Respondent. She testified that she became a shareholder in the Payor in 2001 at the same time as Frédéric Lepage. She explained to the Court that she held 48% of the Payor's share capital, but she did not know what percentage of the issued and outstanding shares this represented.
+[28] She explained that she has been employed elsewhere as a broker for about seven years.
+[29] She said that she did very little work for the Payor. Her only task was to take the mail and the documents received by the Payor and put them in a folder that she gave to the accountant. When counsel for the Respondent asked her what type of documents she put in the folder, she was unable to say. She testified that, from time to time in the morning or in the evening after her work for the Payor, she would receive telephone calls that she passed on to Frédéric when she was able to reach him. She testified that she kept her shares until 2003, when she returned them to the Appellant. The Court must note that Ms. Beaulieu was unable to say how she obtained the shares. She did not know whether she subscribed for them or purchased them from Frédéric Lepage. It is obvious that she knew very little about the conduct of the Payor's activities.
+[30] Jean‑Luc Gauthier, an investigator with Human Resources and Social Development Canada (HRSDC), testified for the Respondent. He stated that he made an appointment to meet Frédéric Lepage at his office and, since the appointment was for 4:00 p.m., he told Mr. Lepage that he would have to meet him at the entrance to the building. Frédéric Lepage came to the meeting accompanied by his father, the Appellant, who told the investigator that he did not consent to his son coming to the meeting alone. He told Mr. Gauthier that either he or his lawyer would accompany his son to the meeting.
+[31] A meeting was also arranged with the Appellant. He came to the HRSDC offices but said at the very start of the meeting that he was uncomfortable being there without his lawyer. He said that he would make a new appointment with Mr. Gauthier, but this did not happen. Since he was unable to interview Frédéric Lepage or the Appellant, Mr. Gauthier decided to forward the file so a decision could be made.
+[32] Nicole Bérubé, Chief of Appeals, Canada Revenue Agency (CRA), testified that she gave the file to Nathalie Bédard, an appeals officer, so she could process the Appellant's appeal. She acted pursuant to the decision that the Appellant's employment with the Payor was not insurable during the periods at issue. She told the Court that she reviewed Ms. Bédard's work and that Ms. Bédard could not be present at the trial because she was on maternity leave.
+[33] Ms. Bérubé testified that she had Nathalie Bédard's file in her possession. She said that she and Ms. Bédard chose to confirm the initial ruling based on the documents in the CRA's file. She testified that Frédéric Lepage and the Appellant refused to cooperate with the CRA. She stated that Ms. Bédard's file showed that she contacted Frédéric Lepage and the Appellant several times. Frédéric Lepage always asked her to speak to his father, who refused to be interviewed over the telephone and asked her to come to Rimouski so any interview could be held with his lawyer present.
+[34] Ms. Bérubé identified the documents filed with the Court as Exhibits I‑1 to I‑10.
+[35] Exhibit I‑1 is the Payor's annual declaration for 2001, which was signed by Frédéric Lepage on May 16, 2002. That document was filed with Quebec's Inspector General of Financial Institutions. The box for identifying shareholders showed that Frédéric Lepage held more than 50% of the Payor's voting shares. Gaétane Beaulieu was identified as the holder of the remaining shares.
+[36] Ms. Bérubé also identified the Appellant's appeal. In his letter of May 22, 2006, the Appellant stated that his employment was insurable because, according to the information received from the CRA's offices, he owned less than 40% of the Payor's shares. This is relevant in disposing of the alternative ground raised by counsel for the Respondent.
+[37] Ms. Bérubé also identified the Payor's annual declaration for 2002 filed with Quebec's Inspector General of Financial Institutions. The same two persons were listed as the Payor's shareholders. The Appellant signed the form on December 9, 2002, as the Payor's vice‑president. Ms. Bérubé identified the claims for unemployment benefits filed by the Appellant for each of the years in issue. In his claim for benefits for the period of October 15 to December 8, 2001, the Appellant answered question 35 by stating that he was dealing at arm's length with the employer, that is, the Payor. Question 36 asked whether the Appellant owned more than 40% of the Payor's shares, and he answered "no". In the additional information concerning the claim for benefits, the Appellant stated that he owned 23% of the Payor's shares.
+[38] In his claim for benefits for the period of September 30 to October 25, 2002, the Appellant gave the same answers to the questions about the non‑arm's length relationship and ownership of the Payor's common shares. However, he wrote nothing in the section for additional information.
+[39] In his claim for benefits for the period of August 14 to November 14, 2003, the Appellant stated that he was related to the Payor because the Payor was controlled by his son. He answered "no" to the question about ownership of more than 40% of the Payor's voting shares.
+[40] Ms. Bérubé identified two other documents filed with the Court. The first is a computer printout, Exhibit I‑8, which contains basic information about Frédéric Lepage's tax returns for the 2001, 2002 and 2003 taxation years. The information shows that Frédéric Lepage had gross business income of $38,710 and net income of $11,909 for the 2001 taxation year. The electronic file shows gross income of $65,632 for the 2002 taxation year and net business income of ‑$10 for the same year. Finally, the electronic file shows no net business income for 2003.
+[41] The financial statements of a business belonging to Frédéric Lepage were filed in a bundle as Exhibit I‑10 of the electronic file. In the statement for January 1 to December 31, 2002, Mr. Lepage claimed an expense of $35,000 payable to the Payor for a subcontract.
+[42] After Ms. Bérubé's testimony, Frédéric Lepage was called to testify in re‑examination to explain the origin of the business income reported in his tax returns for the 2001 and 2002 taxation years.
+[43] Frédéric Lepage told the Court that, on his father's advice, he purchased a tank truck for the modest sum of $500. At his request, his father looked after major repairs to the truck, including to the engine. He explained that he did not want to mislead the Court by saying that he had received no income from the Payor. He testified that the reason why he owned the tank truck himself was to benefit from the priority system established by Transporteurs en vrac de Rimouski Inc.
+[44] The Appellant was recalled to identify new documents filed as Exhibit A‑4 and explain discrepancies relating to the number of the Payor's voting shares he owned. Those documents are extracts from the Payor's minutes for the periods of March 20, 2001, to December 5, 2003.
+[45] The minutes of March 20, 2001, provided for the issue of shares in the Payor as follows:
+Subscriber
+Number & class of shares
+Nature of consideration
+Total consideration
+Yvon Lepage
+23 Class A shares
+Cash
+23.00
+Frédéric Lepage
+29 Class A shares
+Cash
+29.00
+Gaétane Beaulieu
+48 Class A shares
+Cash
+48.00
+[46] Each of those parties obtained shares directly from the Payor.
+[47] In the minutes of April 30, 2002, signed by Frédéric Lepage, Gaétane Beaulieu and the Appellant, the Payor approved the transfer of 23 Class A shares from the Appellant to his son Frédéric Lepage.
+[48] In the last minutes in Exhibit A‑4, which are dated December 5, 2003, the Payor's directors approved the transfer of 48 Class A shares of the Payor from Gaétane Beaulieu to the Appellant.
+[49] During her testimony, Ms. Bérubé stated that the Payor's tax return for the taxation year ending on April 30, 2004, indicated that the Appellant was the Payor's sole shareholder. Neither the Appellant nor the Respondent filed a copy of that tax return.
+Analysis
+[50] Counsel for the Appellant argued that the Appellant's employment should be insurable under the Act. She explained to the Court that Frédéric Lepage's terms and conditions of employment were identical to those of Fernando Ross. She stated that the Appellant's income was a little higher than Mr. Ross' and that this was only because the Appellant also did mechanical work. The Appellant's period of employment was virtually the same as Mr. Ross'. The Appellant was paid a weekly salary in the same way as Mr. Ross. In both cases, Mr. Ross and the Appellant had to be free at all times to drive the trucks when calls were received. Since Frédéric Lepage's terms and conditions of employment were about the same as those of Mr. Ross, who was dealing with the Payor at arm's length, counsel for the Appellant argued that the CRA's decision was wrong. The non‑arm's length relationship had no effect on her client's terms and conditions of employment, since they were the same as those of a person who had no such relationship. With regard to the Respondent's alternative argument, she submitted that the Respondent had the burden of proving on a balance of probabilities that the Appellant had actual control over more than 40% of the Payor's voting shares. She told the Court that the Respondent had not discharged the burden of proof on the alternative grounds, and she therefore asked that the appeal be allowed.
+[51] Counsel for the Respondent argued that legal ownership of the Payor's shares was unclear for the Appellant's periods of employment. She argued that the Appellant stated in his appeal from the initial decision that he owned 33% of the Payor's issued and outstanding shares.
+[52] She explained to the Court that it was impossible for the CRA to provide direct evidence on the issue of the Appellant's actual control over the Payor's voting shares. The Appellant, his son and Ms. Beaulieu refused to cooperate during the initial investigation and when the decision was appealed. She argued that Ms. Beaulieu knew very little about the Payor's operations and was unable to say how she obtained the shares. She told the Court that Ms. Beaulieu said that she had acquired the shares from the Appellant, whereas the Payor's minutes show that she subscribed for them.
+[53] As for her filing of documents for the Payor, Ms. Beaulieu was unable to identify the nature of the documents in question. This indicated that her role in managing the Payor was very superficial.
+[54] Counsel for the Respondent stated that Frédéric Lepage did not testify frankly before the Court. During his examination in chief, he neglected to explain to the Court that he was the registered owner of a tank truck and that he had entered into a subcontract with the Payor. Second, counsel noted that Frédéric Lepage testified that he transferred the shares to his father in 2005 when he returned to school in Québec. The tax return and the notes in Ms. Bérubé's file show that the Appellant was the owner of all shares issued and outstanding on April 30, 2004.
+[55] Counsel for the Respondent explained to the Court that the scheme used to achieve priority status with Transporteurs en vrac de Rimouski Inc. was thought up by the Appellant, not his son. In her view, the evidence showed that the Appellant was the directing mind of the Payor during all the periods of employment in issue.
+[56] She argued that the Respondent discharged the burden of proof on a balance of probabilities on the alternative ground raised at the start of the trial. With regard to the initial ground referred to by the Minister in making his decision on the insurability of the Appellant's employment, she stated that the Appellant's employment was not similar to that of Mr. Ross. She said that the Appellant's ROE indicated that he was both a dispatcher and a truck driver, whereas Mr. Ross was only a driver. She stated that it would have been preferable for Mr. Ross to testify to establish his terms and conditions of employment, which the Appellant used as a basis for comparison. For all these reasons, she asked the Court to dismiss the Appellant's appeal.
+[57] I consider it important to deal with the alternative grounds raised by counsel for the Respondent in support of the decision made by Ms. Bérubé after reviewing the Appellant's appeal file. On the main ground, I find that the Appellant has proved on a balance of probabilities that his employment was similar to that of Mr. Ross, a person dealing with the Payor at arm's length.
+[58] Ms. Bérubé's decision reads as follows:
+[translation]
+We have determined that this employment was not insurable for the above‑mentioned periods. After reviewing the terms and conditions of employment, we are of the opinion that a similar contract of employment would not have been entered into if the employee and the employer had been dealing with each other at arm's length.
+This decision has been made under subsection 93(3) of the Employment Insurance Act and is based on paragraph 5(2)(i) of the Employment Insurance Act.
+[Emphasis added.]
+[59] The decision is in the first sentence of the quotation. In short, Ms. Bérubé concluded that the Appellant's employment was not insurable during the periods in issue referred to in her decision. The rest of the quotation discusses the reasons for the decision.
+[60] I note that Dany Leduc, the lawyer who was handling the Respondent's file before the trial, sent a letter to counsel for the Appellant on May 14, 2008, stating that, at the trial, the Respondent might make an alternative argument in support of the Minister's decision. Mr. Leduc stated that the alternative argument would be that the Appellant controlled more than 40% of the Payor's voting shares. A copy of the letter was filed with the Court. Counsel for the Appellant could not have been taken by surprise when counsel for the Respondent made that alternative argument at the start of the trial. However, since these are new grounds, I find that the Respondent has the burden of proving on a balance of probabilities that the Appellant controlled more than 40% of the Payor's voting shares.
+[61] Has the Respondent discharged this burden of proof? I find that he has. Obviously, there can be no direct evidence that the Appellant actually exercised control without an admission by the Payor's shareholders.
+[62] The Court could tell from Gaétane Beaulieu's testimony that she knew nothing about the management or operation of the Payor. By her own admission, she did not know the type of documents she put in a folder to give to the Payor's outside accountant. She did not know that she did not acquire her shares from Frédéric Lepage but subscribed for them instead. I conclude that she signed the documents the Appellant asked her to sign. In my opinion, someone responsible for managing a company could easily say whether the documents she filed were invoices for services rendered or invoices for expenses paid. She was not in charge of either bank deposits or the employees' pay. She simply put documents in a folder that she gave to the accountant once a week. During her testimony, she admitted several times that she knew nothing about the Payor's activities. She was a very recalcitrant witness for the Respondent.
+[63] I had a great deal of difficulty with Frédéric Lepage's testimony. The story about how he wanted to become the owner of the Payor seemed to be one he had learned by heart. He said that he transferred the shares to his father when he went back to school in 2005, whereas the file Ms. Bérubé had in front of her showed that Frédéric Lepage was the sole shareholder at the end of 2004. During his examination in chief, he neglected to explain to the Court that he had a truck registered in his name.
+[64] He explained the existence of that truck only in re‑examination after his tax returns filed by Ms. Bérubé showed that he had a subcontract with the Payor. Counsel for the Respondent asked him several times whether he had benefited from the shares or from his management of the Payor. During his examination in chief, he answered no several times. In re‑examination, his explanation was that the question related only to the Payor's activities and not his personal activities. However, he had a large subcontract with the Payor that required him to pay it $35,000 in 2002. In my opinion, Frédéric Lepage did not want to explain this arrangement during his examination in chief because it was part of a scheme, which his father knew very well, to appear twice on the list of Transporteurs en vrac de Rimouski Inc. I find by inference that the Appellant was the directing mind of that scheme.
+[65] When I asked him how he acquired the truck, he explained that the truck was purchased for the modest sum of $500. Major repairs to the tank truck were done entirely under his father's control.
+[66] Frédéric Lepage had no licence to drive that truck or the Payor's truck. He explained to the Court that one of the Payor's employees had to come and pick him up and drive him to the Payor's premises.
+[67] After hearing all the evidence, I find that the Appellant exercised actual control over the Payor's voting shares owned by Gaétane Beaulieu, his common‑law partner. I also find that he had significant control over the shares owned by his son. He was the directing mind of the Payor during all the periods of employment in issue.
+[68] For these reasons, I dismiss the Appellant's appeal.
+Signed at Ottawa, Canada, this 1st day of December 2008.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 19th day of January 2009.
+Brian McCordick, Translator
+CITATION: 2008 TCC 656
+COURT FILE NO.: 2007-1460(EI)
+STYLE OF CAUSE: YVON LEPAGE v. M.N.R.
+PLACE OF HEARING: Rimouski, Quebec
+DATE OF HEARING: October 8 and 10, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: December 1, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Maryse Beaulieu
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Maryse Beaulieu
+Firm: Desaulniers, Ouellet, Attorneys
+Rimouski, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,273 @@
+Title: Peckitt v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/229835/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-60-229835-peckitt-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-04-12
+
+# Peckitt v. The Queen
+
+- Citation: 2017 TCC 60
+- Decision date: 2017-04-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2296, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Peckitt v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-04-12
+Neutral citation
+2017 TCC 60
+File numbers
+2016-1894(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-1894(IT)I
+BETWEEN:
+JEFFREY PECKITT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 30, 2017, at Toronto, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Cathy Gardiner
+Counsel for the Respondent:
+Caroline Ahn
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act dated April 16, 2015 concerning the 2011 taxation year is dismissed in accordance with the attached reasons for judgment.
+Signed at Edmonton, Alberta, this 12th day of April 2017.
+“Réal Favreau”
+Favreau J.
+Citation: 2017 TCC 60
+Date: 20170412
+Docket: 2016-1894(IT)I
+BETWEEN:
+JEFFREY PECKITT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from a reassessment made by the Minister of National Revenue (the « Minister ») under the Income Tax Act, R.S.C. 1985 (5th Supp.) c.1, as amended (the “Act”), dated April 16, 2015 concerning the appellant’s 2011 taxation year.
+[2] By way of the said reassessment, the Minister disallowed the business loss in the amount of $46,003 claimed by the appellant for his 2011 taxation year and applied a late-filing penalty in the amount of $1,439.
+[3] In order to establish and maintain the reassessment for the 2011 taxation year, the Minister relied on the following facts:
+(a) During the taxation in issue, the Appellant operated a corporation offering financial consulting services under the name of Jayar & Associates Inc.;
+(b) the Appellant was the sole shareholder of Jayar & Associates Inc.;
+(c) during the same period, the Appellant claims he was operating a self-employed business since 2010 as a broker in the commercial lending industry;
+(d) in filing his tax returns for the 2011 taxation year, the Appellant declared Registered Retirement Savings Plans (“RRSP”) income in the amount of $129,075. He also reported a net business loss of $46,003, calculated as follows:
+2011
+Gross business income
+$ 0
+Less expenses:
+Advertising and Promotion
+$ 1,946
+Management fees
+$ 7,500
+Meals and Entertainment
+$ 9,841
+Motor Vehicle Expenses
+$15,452
+Office expenses
+$ 1,880
+Professional fees
+$ 5,250
+Rent
+$ 681
+Telephone and Utilities
+$ 559
+Travel
+$ 1,575
+Other expenses
+$ 1,319
+Net business loss
+($46,003)
+(e) during the 2011 taxation year, the Appellant did not have a contract for services with Jayar & Associates Inc.;
+(f) the Appellant filed his 2011 income tax return on June 14, 2012;
+(g) the Appellant did not file his income tax return for the 2011 taxation year on or before April 30 of the following year, therefore the minister applied a late-filing penalty in the amount of $1,439.
+[4] Essentially, the Minister alleged that the appellant did not operate a business on his own and that the expenses in the amount of $ 46,003 were not incurred by the appellant to gain or produce income from a business pursuant to paragraph 18(1)(a) of the Act.
+[5] In his notice of appeal, the appellant summarized the relevant facts as follows:
+(a) he is the majority shareholder in the corporation called Jayar & Associates Inc. (“Jayar”);
+(b) he operates his corporation in order to generate profits;
+(c) he earns consulting fees for the work that he does for his corporation as a sole proprietor;
+(d) in 2011, he personally paid for expenses totalling $46,003, all of which are supported by receipts and most of which were paid with his personal American Express card and personal funds;
+(e) his business connections have arisen from over 25 years of work experience in the financial services industry, as an employee.Specifically, he has worked in brokering finance deals in commercial lending;
+(f) after being laid off in 2008, he began a business in order to leverage his connections to generate business in the pursuit of profits and, as a result, he incurred the business expenses.
+[6] The appellant alleged that he incurred these expenses with a view to earn income from the business.
+[7] Mr. Pickett testified at the hearing. He filed as evidence the following documents in order to demonstrate the business ventures he was involved in and the efforts he made to generate interest in his business:
+a) Summary of business, scope of operations and partial client list with office locations;
+b) Relationship between Mr. Peckitt and Jayar;
+c) Linkedin profile – years of experience and his many connections;
+d) Referral letters;
+e) Power Point presentations to potential clients;
+f) Sample of referral agreement;
+g) Consulting engagement letter;
+h) Automobile log;
+i) Sale invoices from Mr. Peckitt to Jayar;
+j) T-2125 - 2011 Summary of expenses with copies of invoices to corroborate the expenses.
+[8] Mr. Peckitt explained that he incorporated Jayar & Associates Inc. in 1996 in order to protect his liability. The company has been inactive for some years but became active from 2008 to 2014 when he was not working for financial institutions. Mr. Peckitt was paid consulting fees from Jayar for performing services as an independent contractor. There was no formal written agreement between him and Jayar and he was the only source of revenue of Jayar.
+[9] Mr. Peckitt also stated that the invoices to his clients were made in his personal name and not under the name of his corporation but that the fees generated by the closing of transactions belonged to Jayar. The total gross revenue earned and net loss incurred by Jayar for its taxation years ending September 30, 2009, September 30, 2010, September 30, 2011 September 30, 2012 and September 30, 2013 were as follows:
+Gross Revenue
+Net Loss
+2009
+130,227
+(26,228)
+2010
+9,558
+(3,136)
+2011
+7,784
+(12,014)
+2012
+3,555
+(294)
+2013
+74,458
+(9,716)
+[10] For the same fiscal periods, Jayar paid the appellant the following consulting fees:
+2009 = $ 31,850
+2010 = $ 0
+2011 = $ 0
+2012 = $ 0
+2013 = $ 23,500
+[11] According to Mr. Peckitt’s testimony, the consulting fees paid by Jayar in 2009 were paid to him but he could not remember to whom the consulting fees were paid by Jayar in 2013.
+[12] In his tax return for the 2009 taxation year, Mr. Peckitt did not report any business income. For the 2010 taxation year, Mr. Peckitt reported a gross business income of $29,500 but a net business loss of $16,922. For the 2011 taxation year, Mr. Peckitt did not report any business income but reported a net business loss of $ 46,003. For the 2012 taxation year, Mr. Peckitt reported a gross and net business income of $ 7,500 but, as a result of a refiling of his tax return, the amount of gross and net business incomes were reduced to zero. For the 2013 taxation year, Mr. Peckitt reported a gross business income of $14,650 and a net business income of $14,183 but, as a result of a refiling of his tax return, the amount of gross and net business incomes were reduced to nil.
+[13] When Mr. Peckitt was questioned on the following invoices to Jayar:
+- invoice dated September 30, 2010 in the amount of $29,500;
+- invoice dated September 30, 2012 in the amount of $ 7,500; and
+- invoice dated September 30, 2013 in the amount of $ 14,184;
+for sale services rendered in relation to these financial transactions, Mr. Peckitt admitted that he has no record of the alleged transactions made in these years nor does he recall the names of his clients. He cannot explain how he arrived at these amounts and said that these invoices were prepared by his accountant based on the information he provided.
+[14] Mr. Peckitt maintained that he had every intention to make a profit. He could not explain why, in 2010, he spent $ 46,422 to earn only $29,500 and why, in 2011, he spent $46,003 to earn no business income. Mr. Peckitt could not describe any measures he undertook to prevent a loss in the 2011 taxation year, when he had experienced a loss in 2010.
+[15] Mr. Peckitt was asked to explain why Jayar claimed a deduction for capital cost allowance from 2009 to 2013 for a car considering that Jayar did not own a car during these years. He said that it was for his own car and stated that he did not claim the operating expenses twice although expenses for meals and entertainment, vehicle, travel, rent, office and telephone were claimed on both his personal tax returns and in the Jayar’s tax returns.
+Cathy Gardiner
+[16] Ms. Gardiner, the appellant’s accountant, testified at the hearing to provide information concerning the consulting fees paid by Jayar and the deductions of business expenses by both the appellant and Jayar.
+[17] Ms. Gardiner stated that the $ 7,500 fee paid by Jayar in 2012 was paid to Mr. Peckitt’s two children and were included in their respective income and that the $ 23,500 fee paid in 2013 was paid to Mr. Peckitt’s son and was also included in his income for that year.
+[18] These two amounts for consulting fees were withdrawn from Mr. Peckitt’s income for his 2012 and 2013 taxation years. Mr. Peckitt’s tax return for 2013 has already been amended to remove business expenses of $14,183 and transferred to Jayar’s income tax return.
+[19] Concerning the double claims for business expenses, the witness said that there are no double claims because the expenses made in the months of October, November and December 2010 were included in Jayar’s 2011 tax return and the expenses made in the months of January to September 2011 were included in the appellant’s 2011 tax return.
+[20] When cross-examined by counsel for the respondent, Ms. Gardiner confirmed that she was also acting as accountant for Jayar. She could not explain why the $ 7,500 consulting fee paid by Jayar in 2012 was not taken into account in Jayar’s tax return for that year.
+[21] She admitted that she redacted the three invoices for Mr. Peckitt’s consulting fees dated September 30, 2010, September 30, 2012 and September 30, 2013 in preparation for this trial and that they were backdated.
+[22] Concerning the business expenses, she admitted that the expenses for the use of the car and for the telephone were for the same car and the same telephone. She could not explain why the expenses for meals and entertainment claimed by the appellant for 2011 included the expenses for the whole year.
+Position of the Parties
+[23] The appellant’s position is that all expenses incurred by him should be taken into account in his own return as he used his personal assets to carry on his business in a commercial-like manner. Jayar is simply used to protect his own assets.
+[24] The respondent considers that the appellant did not carry on a separate business as the appellant had no source of business income. Alternatively, if a business is considered to have been carried on, the respondent alleged that the expenses incurred by the appellant were personal and living expenses, i.e. not incurred to earn income from a business.
+The Law
+[25] The relevant statutory provisions of the Act are the following:
+9.(1) Income. Subject to this Part, a taxpayer's income for a taxation year from a business or property is the taxpayer's profit from that business or property for the year.
+. . .
+18.(1) General limitations. In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) General limitation - an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+. . .
+(h) Personal and living expenses - personal or living expenses of the taxpayer, other than travel expenses incurred by the taxpayer while away from home in the course of carrying on the taxpayer's business;
+. . .
+248.(1) Definitions. In this Act,
+. . .
+personal or living expenses” includes
+(a) the expenses of properties maintained by any person for the use or benefit of the taxpayer or any person connected with the taxpayer by blood relationship, marriage or common-law partnership or adoption, and not maintained in connection with a business carried on for profit or with a reasonable expectation of profit,
+. . .
+Analysis
+[26] The income tax system is based on self-monitoring, therefore, the burden of proof of deductions and claims rests with the taxpayer (Njenga v. Canada, [1996] F.C.J. No. 1218 (Federal Court of Appeal)).
+[27] In Stewart v. The Queen, [2002] 2 S.C.R. 645, the Supreme Court of Canada has recommended a two-stage approach with respect to the existence of a source of income. The first stage of the test consists in assessing the general question of whether or not a source of income exists. The first stage is intended to distinguish between a commercial activity and a personal endeavour. The second stage of the test consists in categorizing the source as either business or property.
+[28] With respect to the facts in Mr. Peckitt’s appeal for 2011, the following extracts from Stewart are relevant:
+53 . . . Where the nature of an activity is clearly commercial, there is no need to analyze the taxpayer's business decisions. Such endeavours necessarily involve the pursuit of profit. As such, a source of income by definition exists, and there is no need to take the inquiry any further.
+54 It should also be noted that the source of income assessment is not a purely subjective inquiry. Although in order for an activity to be classified as commercial in nature, the taxpayer must have the subjective intention to profit, in addition, as stated in Moldowan, this determination should be made by looking at a variety of objective factors. Thus, in expanded form, the first stage of the above test can be restated as follows: "Does the taxpayer intend to carry on an activity for profit and is there evidence to support that intention?" This requires the taxpayer to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour.
+55 The objective factors listed by Dickson J. in Moldowan, at p. 486, were: (1) the profit and loss experience in past years; (2) the taxpayer's training; (3) the taxpayer's intended course of action; and (4) the capability of the venture to show a profit. As we conclude below, it is not necessary for the purposes of this appeal to expand on this list of factors. As such, we decline to do so; however, we would reiterate Dickson J.'s caution that this list is not intended to be exhaustive, and that the factors will differ with the nature and extent of the undertaking. We would also emphasize that although the reasonable expectation of profit is a factor to be considered at this stage, it is not the only factor, nor is it conclusive. The overall assessment to be made is whether or not the taxpayer is carrying on the activity in a commercial manner. . . .
+[29] Concerning the first question in the two-stage approach, I am satisfied that the appellant’s activities as a consultant in financial services could not be considered as a personal endeavour. However, I am concerned by whether the appellant carried on his activity as agent for Jayar or on his own account; (ii) whether the predominant intention of the appellant was to make a profit from the activities; and (iii) whether the appellant carried on his activities in accordance with objective standards of a business-like behaviour.
+[30] Based on the evidence, it is not clear in what capacity the appellant was carrying on his activities. The relationship between the appellant and his corporation has not been clearly established and no agreement between the appellant and his corporation has been filed as evidence. The appellant controlled the consulting fees that he charged to his corporation.
+[31] The following table shows the incomes and losses reported for income tax purposes by both the appellant and Jayar for the 2009 to 2013 taxation years.
+Taxation Year
+Jeffrey Peckitt
+Jayar & Associates
+2009
+Other employment income: $815
+RRSP income: $37,338
+Gross business income: $0
+Net business income: $0
+Total revenue: $130,227
+Operating expenses: $96,817
+- incl. consulting fees: $31,850
+Net income: $33,410
+2010
+RRSP income: $99,823
+Gross business income: $29,500
+Net business income: $16,922 (loss)
+Total revenue: $9,558
+Operating expenses: $12,694
+- no consulting fees
+Net income: $3,136 (loss)
+2011
+RRSP income: $129,075
+Business income: $0
+Net business income: $46,003 (loss)
+(disallowed)
+Total revenue: $7,784
+Operating expenses: $19,798
+- no consulting fees
+Net income: $12,014 (loss)
+2012
+Total income: $0
+Gross business income: $7,500, then changed to $0
+Net business income: $7,500, then changed to $0
+Total revenue: $3,555
+Operating expenses: $3,849
+- no consulting fees
+Net income: $294 (loss)
+2013
+Dividends: $46
+Total income: $0
+Gross business income: $14,650, then changed to $0
+Net business income: $14,183, then changed to $0
+Total revenue: $74,458
+Operating expenses: $84,174
+- incl. consulting fees: $23,500
+Net income: $9,716 (loss)
+[32] The table above shows that, over a five-year period, the appellant reported a business income only in 2010 and also claimed a business loss of $16,922 in that same year which has been used to shelter in part his RRSP income of $99,823.
+[33] In 2011, the appellant reported no business income and a business loss of $46,003 which has also been used to shelter his RRSP income of $129,075.
+[34] In 2012 and 2013, the appellant reported gross business income of $7,500 and $14,650 respectively but these amounts were later reduced to nil as a result of adjustments made by the appellant’s accountant.
+[35] For each of the 2009 to 2013 taxation years, Jayar reported a business income but also claimed a business loss in every year except for 2009.
+[36] I also note that the consulting fees paid by Jayar in 2009 and 2013 were not included in the appellant’s income.
+[37] In the five-year period, the appellant reported a gross business income of only $29,500 and a net business loss of $62,925.
+[38] Based on the foregoing financial information, I conclude that the appellant never intended to make a profit from his business activities and that he used the expenses strictly as a means to reduce his income from his RRSP. The course of action of the appellant does not demonstrate a capability to make a profit. Despite the realization of a business loss in 2010, the appellant has not changed the way he conducts his business activities. The expenses were continually kept at a very high level.
+[39] While I accept Mr. Peckitt’s position that he entered in a commercial venture, his lack of record-keeping concerning his clients’ billings, the unreliability of the invoices redacted by his accountant specifically for this trial and backdated and the way he and his corporation reported their incomes, his vagueness as to the nature of his relationship with his corporation and as to the splitting of expenses between him and his corporation, leave me unable to rely on his testimony and the documents filed as evidence, regarding his expenses.
+[40] Based on the foregoing, I conclude that the appellant had no source of income in 2011 and that he did not carry on his activities in a commercial manner or with a business-like endeavour.
+[41] The appeal for the 2011 taxation year is therefore dismissed.
+Signed at Edmonton, Alberta, this 12th day of April 2017.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2017 TCC 60
+COURT FILE NO.:
+2016-1894(IT)I
+STYLE OF CAUSE:
+Jeffrey Peckitt and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 30, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+April 12, 2017
+APPEARANCES:
+Agent for the Appellant:
+Cathy Gardiner
+Counsel for the Respondent:
+Caroline Ahn
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

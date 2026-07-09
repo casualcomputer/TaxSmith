@@ -1,0 +1,277 @@
+---
+title: "Landry c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29348/index.do"
+last_modified: "2009-08-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 399"
+citation2: ""
+neutral_citation: "2009 CCI 399"
+decision_date: "2009-08-10"
+language: "fr"
+item_id: "29348"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6903
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:40:24.465000+00:00"
+cases_cited_count: 4
+cases_citing_count: 9
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3834aeb62a46138fef27bc3974ab11b46c0e190372f66bb14119bb169f8682c2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Landry c. La Reine
+
+- Citation: 2009 CCI 399
+- Decision date: 2009-08-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6903, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landry c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-08-10
+Référence neutre
+2009 CCI 399
+Numéro de dossier
+2007-3211(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3211(IT)G
+ENTRE :
+MARTINE LANDRY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 9, 10, 11, 12 et 13 mars 2009, à Montréal (Québec).
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Avocats de l'appelante :
+Me Yves Ouellette
+Me Nicolas Cayouette
+Nicolas Dubé (stagiaire)
+Avocate de l'intimée :
+Me Marie-Claude Landry
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1998, 1999, 2000, 2001 et 2002 est accueilli, avec dépens de 35 000 $, et les nouvelles cotisations sont annulées.
+Signé à Ottawa, Canada, ce 10e jour d’août 2009.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2009 CCI 399
+Date : 20090810
+Dossier : 2007-3211(IT)G
+ENTRE :
+MARTINE LANDRY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Hogan
+Contexte factuel
+Témoignage de l’appelante
+[1] L’appelante a interjeté appel des nouvelles cotisations établies à son égard en vertu de la Loi de l’impôt sur le revenu (la « LIR ») pour les années d’imposition 1998, 1999, 2000, 2001 et 2002. Les cotisations furent établies en vertu de la méthode de l’avoir net, et le ministre du Revenu national (le « ministre ») a ajouté au revenu de l’appelante la somme de 91 388 $, de 89 146 $, de 68 068 $, de 181 849 $ et de 172 176 $ à titre de revenu non déclaré pour chacune des années 1998, 1999, 2000, 2001 et 2002.
+[2] La question en litige dont je dois disposer est celle de savoir si l’appelante a établi, selon la prépondérance des probabilités, que les cotisations en l’espèce sont erronées et que l’augmentation de son avoir net pendant la période en question est attribuable entièrement à des dons non imposables pendant les années d’imposition 2001 et 2002. Les années d’imposition 1998, 1999 et 2000 sont prescrites et l’intimée a le fardeau de prouver les circonstances qui permettent d’établir de nouvelles cotisations à l’égard de ces années. En ce qui a trait aux pénalités, l’intimée a le fardeau de la preuve.
+[3] L’appelante a témoigné que les écarts calculés par le ministre selon la méthode de l’avoir net étaient attribuables en grande partie à des dons non imposables faits par M. X[1] à son égard. Les écarts étaient aussi en partie attribuables aux gains qu’elle a faits au Casino de Montréal.
+[4] L’appelante a fait la connaissance de M. X lorsqu’elle travaillait comme danseuse érotique au bar Chez Parée situé à Montréal. M. X fréquentait ce bar à l’occasion, approximativement deux ou trois fois par semaine. La majorité du temps, il y allait seul.
+[5] M. X est un homme d’affaires bien connu à Montréal. Aujourd’hui, M. X est âgé de 80 ans alors qu’au début de sa relation avec l’appelante, il avait environ 68 ans.
+[6] L’appelante a témoigné qu’au début, M. X était un simple client. Cependant, leur relation a rapidement changé. Il payait l’appelante pour lui tenir compagnie plutôt que pour danser. L’appelante a raconté qu’elle était attirée par les grandes connaissances de M. X. Petit à petit, il lui a présenté un monde qu’elle ignorait. Selon l’appelante, M. X était impressionné par sa détermination à réussir malgré ses origines modestes; elle est la fille adoptive d’une mère seule.
+[7] D’après l’appelante, leur relation a évolué en relation symbolique père-fille. Au fur et à mesure que la relation se développait, M. X lui offrait des cadeaux de plus en plus importants. Au début, il lui achetait des biens de luxe tels que des valises, des foulards, des sacs à main Louis Vuitton, des bijoux, huit manteaux de fourrure et diverses voitures, dont une Corvette. Plus tard, il lui a fait don d’importantes sommes d’argent comptant tel qu’il est précisé ci-dessous.
+[8] L’appelante a témoigné qu’elle avait quitté Chez Parée à la suite d’une altercation avec un client qui, selon elle, était dangereux. À cette époque, elle était soucieuse de son avenir. Selon son témoignage, M. X lui avait promis qu’il l’aiderait à s’établir en affaires.
+[9] L’appelante cherchait à se procurer une entreprise qu’elle pouvait exploiter. Après quelques efforts non fructueux, M. X lui a mentionné qu’il connaissait un pub, Le Sainte-Élisabeth, situé près du siège social de son entreprise. Les propriétaires du fonds de commerce avaient fait faillite.
+[10] Une des sociétés de M. X, Les Immeubles Léopold inc., avait fait un prêt de 150 000 $ à 9057-6042 Québec inc., une société de gestion dont l’appelante était propriétaire, afin qu’elle puisse acheter des actions de l’entreprise qui détenait le fonds de commerce[2].
+[11] L’appelante louait le local à Montréal où le pub était situé. Elle a témoigné qu’elle avait eu beaucoup d’ennuis avec le bail et qu’elle avait peur que le loyer augmente à la longue. L’appelante avait alors convaincu M. X d’acheter l’immeuble en question. Selon l’appelante, M. X souhaitait acheter l’immeuble au meilleur prix. Comme il était un homme d’affaires très connu, il lui avait dit qu’elle pourrait négocier un meilleur prix, vu ses moyens modiques. Par la suite, l’offre d’achat fut cédée à l’une des entreprises immobilières de M. X.
+[12] Quelques années plus tard, l’appelante avait remarqué que l’un des membres de la famille de M. X était intéressé au pub. Elle s’inquiétait de perdre le commerce lors du décès de M. X. Ce dernier avait alors consenti à renoncer au prêt de 150 000 $. De plus, il avait vendu l’immeuble où se situait le pub pour la somme modique d’environ 50 000 $ selon la pièce A-2, onglet 14. Le coût de l’immeuble pour le vendeur, incluant les améliorations, était approximativement de 315 000 $[3].
+[13] L’appelante a témoigné que pendant les années en question, elle avait l’habitude de rencontrer M. X en soirée, vers 17 h ou 18 h, au pub Le Sainte‑Élisabeth. Trois ou quatre fois par semaine, ils fréquentaient le casino de Montréal. Selon le témoignage de l’appelante, M. X était un joueur VIP et il pariait entre 5 000 $ et 12 000 $ chaque fois qu’ils allaient au casino.
+[14] À la fin de chaque visite au casino, M. X remettait à l’appelante le montant de sa mise initiale, plus les gains de la soirée ou moins les pertes. L’appelante avait l’habitude de prendre ces sommes et de les déposer dans des guichets automatiques de sa banque. Puisque les sommes étaient considérables, elle bloquait parfois les guichets. Un représentant de sa banque l’a prévenue qu’elle ne pouvait mettre plus de 20 billets dans une enveloppe. Ceci explique pourquoi il y avait, parfois, plus d’un dépôt de 1 000 $ par soir; chaque enveloppe contenait 20 billets de 50 $.
+[15] L’appelante a expliqué qu’elle avait été prise au dépourvu lorsqu’elle avait appris que son dossier personnel d’impôt avait été transféré à la section des enquêtes de l’Agence du revenu du Canada (l’« ARC ») en raison de l’information recueillie par un agent de liaison de l’ARC. Les agents de liaison travaillent étroitement avec les services policiers afin de recueillir des renseignements qui pourraient mener à l’imposition de produits du crime.
+[16] Prise au dépourvu, l’appelante avait téléphoné à M. X afin de le convaincre d’aller expliquer à l’ARC que l’écart calculé par l’Agence était imputable aux dons importants qu’il lui avait faits. À cette époque, l’appelante craignait que M. X soit réticent à admettre qu’il lui avait fait parvenir des dons importants, puisque les sommes d’argent comptant qu’elle avait reçues provenaient de ventes au comptant faites à des établissements de vente au détail de M. X. Selon l’appelante, les membres de la famille de M. X avaient accès aux caisses enregistreuses et faisaient en sorte que certaines ventes ne soient pas enregistrées. L’appelante a expliqué que le produit de ces ventes était déposé dans un coffre-fort situé au siège social de l’entreprise de M. X.
+[17] M. X ne voulait pas s’occuper de la situation précaire dans laquelle se trouvait l’appelante. Cette dernière a alors fait appel à son avocat, Me Ouellette, pour qu’il puisse la guider dans ses démarches avec l’ARC. Dès le début de la première rencontre avec son avocat, l’appelante a indiqué qu’elle voulait prendre toutes les mesures possibles afin de protéger l’identité de M. X. Elle était soucieuse de la réputation de M. X et de l’effet que leur relation pouvait avoir sur le commerce de ce dernier. De même, l’appelante voulait se défendre lors de la vérification de l’ARC, tout en protégeant l’identité de M. X[4]. L’appelante, avec l’aide de son avocat, a élaboré une stratégie qui avait pour but une défense entière à la vérification de l’ARC et, du même coup, la protection de l’identité et de la réputation de M. X. Une entente fut conclue par l’avocat de l’appelante et un représentant de l’ARC. En vertu de cet accord, le nom de M. X serait fourni dans une lettre cachetée à l’instance supérieure de la Division des enquêtes afin que son nom demeure secret. Cependant, par la suite, l’identité de M. X fut révélée à l’ARC puisque l’Agence ne croyait pas à la version des faits présentée par l’avocat de l’appelante.
+Témoignage de M. Noiseux, vérificateur de l’ARC
+[18] À la suite de l’identification de M. X, l’ARC a attendu quelques mois avant d’organiser une rencontre avec lui pour vérifier la version des faits de l’appelante.
+[19] M. Noiseux a témoigné qu’à la suite de cette entrevue, aucune vérification n’a été entreprise auprès de M. X personnellement, ni auprès de ses commerces. En effet, M. Noiseux avait eu beaucoup de difficultés à joindre M. X. Il a tenté à plusieurs reprises de lui téléphoner, mais sans succès. Il a même essayé de le joindre à ses commerces et a téléphoné à certains de ses employés dans le but de prendre contact avec M. X, mais encore une fois sans succès.
+[20] Le 21 octobre 2004, M. Noiseux a reçu un appel téléphonique de M. X. Selon les notes de M. Noiseux, M. X était très réticent et ne voulait pas prendre rendez-vous avec lui. Lors de cette conversation, M. X lui a expliqué que tous les documents qu’il cherchait étaient chez son comptable, M. Landreville. Il a aussi affirmé qu’il n’avait aucun souvenir du contenu de ces documents[5]. De plus, M. X a mentionné que ses sociétés avaient fait l’objet d’une vérification, il y a quelque temps, et qu’aucun changement ne fut apporté.
+[21] Le 26 octobre 2004, M. Noiseux a enfin rencontré M. X. Avec l’accord de ce dernier, l’entrevue fut enregistrée sur DVD. Pendant la rencontre, M. X a déclaré à maintes reprises qu’il n’avait jamais versé des sommes importantes à l’appelante durant la période du 1er janvier 1997 au 31 décembre 2003. Cependant, il a admis qu’il lui avait avancé des montants lors d’une quinzaine de lancements de livres, dont les montants varieraient entre 1 000 $ et 1 500 $.
+[22] À la suite de l’entrevue, M. Noiseux a reçu un appel de M. X le 22 mars 2005. Ce dernier lui a confirmé qu’il avait fait un chèque de 150 000 $, en 1997, lorsqu’il avait accordé un prêt à la société 9057-6042 Québec inc., dont l’appelante était propriétaire[6]. M. X a aussi affirmé que l’appelante avait des difficultés financières et qu’elle n’avait jamais remboursé le prêt, ni le capital, ni les intérêts stipulés. De plus, M. X a affirmé qu’il avait reçu un chèque de 160 000 $ relativement à la vente de l’immeuble de la rue Sainte-Élisabeth, en 2003[7]. Toutefois, l’appelante a démontré, selon la prépondérance des probabilités, que la somme reçue pour l’immeuble était de 52 137,30 $ et non pas de 160 000 $. Cependant, M. X a dit que ce chèque avait peut-être été déposé dans le compte de Les Immeubles Léopold, mais qu’il devait faire des recherches pour s’en assurer[8]. Il a dit qu’il communiquerait avec M. Noiseux plus tard pour confirmer ce détail.
+Témoignages de Robert Paquette et de Mélanie Chrétien
+[23] Le conjoint de fait de l’appelante, M. Paquette, a corroboré le témoignage de l’appelante selon lequel cette dernière avait reçu, au printemps 1998[9], une somme de 168 000 $, en liasses de 1 000 $, de M. X[10]. D’après M. Paquette, cette somme fut utilisée afin de construire une résidence pour l’appelante à Blainville, au Québec[11].
+[24] Mme Chrétien a témoigné qu’elle était une amie d’enfance de l’appelante. Elle était, pendant plusieurs années, employée au même bar que l’appelante à titre de danseuse érotique. Mme Chrétien a raconté que M. X était un client très important de l’appelante. Elle a expliqué que M. X leur avait offert un voyage aux Bahamas. Celui-ci les avait accompagnées à l’aéroport et avait remis une somme d’argent importante à l’appelante pour les dépenses quotidiennes du voyage. Mme Chrétien a également témoigné que lorsque l’appelante avait quitté l’emploi au bar Chez Parée, M. X, l’appelante et elle-même avaient célébré l’événement en faisant la fête dans les restaurants et bars de Montréal. De plus, lors de cette soirée, M. X avait remis un montant d’argent important à l’appelante dans un sac d’épicerie IGA. Cette somme se retrouva plus tard dans le sac à main de l’appelante lorsqu’elle et Mme Chrétien dansaient dans un bar près de l’Hôtel de la Montagne[12].
+[25] Mme Chrétien a mentionné qu’elle était également présente à la résidence de l’appelante lorsque cette dernière est revenue d’une sortie avec M. X. Elle avait observé que M. X lui avait remis un sac d’épicerie contenant de l’argent comptant. Mme Chrétien a expliqué qu’elle était à la résidence de l’appelante ce soir-là parce qu’elle devait reconduire sa mère, qui gardait les enfants de l’appelante.
+Témoignages de John Baril, de Bernard Durand et de Paul-André Cyr
+[26] M. Baril, qui est le gérant du bar Chez Parée depuis de nombreuses années, a confirmé que M. X était un client très important de l’appelante. Il a expliqué que M. X avait l’habitude d’acheter des manteaux de fourrure dispendieux pour l’appelante. Cette dernière a témoigné et la preuve documentaire a établi qu’elle avait reçu approximativement huit manteaux de fourrure de M. X. De plus, M. X avait même présenté M. Baril au fabricant de manteaux de fourrure, puisque M. Baril cherchait à acheter un manteau pour son épouse.
+[27] M. Durand, responsable des voitures de luxe au concessionnaire John Scotti, a témoigné qu’un homme ressemblant à de M. X avait acheté une Corvette de l’année 1995 pour l’appelante. Le chèque pour cet achat fut tiré sur le compte bancaire de M. X intitulé « patrimoine familial ».
+[28] M. Cyr, directeur exécutif des clients VIP au casino de Montréal, a témoigné que M. X et l’appelante avaient l’habitude de se présenter au casino deux ou trois fois par semaine pendant les années d’imposition en question. Il a expliqué que M. X pouvait dépenser de 5 000 $ à 15 000 $ au cours de chaque visite au casino. M. X et l’appelante avaient réussi à gagner, à plusieurs reprises, des lots importants. À la fin de la soirée, M. X remettait à l’appelante les gains ou le reste de la mise de fonds initiale.
+Témoignages de Lorraine Jolicoeur et de la notaire Mireille Fortier
+[29] M. X a fait appel aux services de la notaire Fortier à plusieurs reprises. Cette dernière est la veuve de son cousin.
+[30] Le témoignage de la notaire Fortier corrobore celui de l’appelante selon lequel M. X a aidé l’appelante à acquérir le pub Le Sainte-Élisabeth. De plus, l’appelante avait témoigné qu’elle avait reçu une somme considérable de M. X pour l’achat de son condominium. Les dossiers de la notaire Fortier contiennent une facture pour le montant exact du prix d’achat du condominium. De même, la notaire Fortier a témoigné lors du procès que M. X lui avait téléphoné pour lui demander de préparer un prêt de 150 000 $. Ceci corrobore l’histoire de l’appelante qui indiquait que M. X avait transféré les sommes en question à sa société. La notaire Fortier a aussi admis lors du procès qu’elle s’était demandé si la société Les Immeubles Léopold inc. avait fait don de l’édifice à la société de portefeuille de l’appelante, puisque l’immeuble avait été vendu à un prix inférieur à la valeur marchande. Même si l’immeuble fut vendu après la période de cotisation, ceci corrobore la version des faits de l’appelante selon laquelle elle a reçu plusieurs dons de M. X[13].
+[31] Mme Jolicoeur, commis comptable principale de l’entreprise de M. X, a confirmé qu’il y avait un coffre-fort dans le bureau de M. X situé au siège social de l’entreprise. Elle a témoigné qu’on avait payé l’intérêt sur le billet de 150 000 $ et que le pub Le Sainte-Élisabeth payait un loyer à la société Les Immeubles Léopold inc. jusqu’au moment où l’immeuble fut cédé à la société de gestion de l’appelante. Cependant, lors de son témoignage, Mme Jolicoeur a expliqué qu’elle ne pouvait fournir aucun détail au sujet de la quittance du prêt de 150 000 $, puisqu’elle n’était pas au courant[14].
+Témoignage de M. X
+[32] M. X fut appelé à témoigner par l’avocat de l’appelante. À la demande de ce dernier, j’ai déclaré M. X comme étant un témoin hostile au sens des paragraphes 9(1) et 9(2) de la Loi sur la preuve au Canada. Au tout début de son témoignage, il évitait les questions formulées par l’avocat de l’appelante. Il était mécontent du fait que les messages qu’il avait laissés en confidence dans la boîte vocale de l’appelante furent déposés en preuve. M. X a déclaré, lors de son témoignage, que la personne qui avait conseillé à l’appelante de transcrire ces messages numériques était, selon ses mots, « stupide ». Il est clair que ce commentaire était dirigé, sans équivoque, envers l’avocat de l’appelante.
+[33] J’ai constaté que M. X se contredisait puisque son témoignage et ses déclarations antérieures, lors de son entrevue avec l’ARC, étaient incompatibles. M. X avait déclaré lors de son entrevue avec l’ARC qu’il avait seulement donné quelques fleurs et des cordes de bois au commerce de l’appelante, et qu’il avait payé des sommes modestes lors de lancements de livres. Pendant son témoignage, il a admis qu’il avait financé l’achat du pub Le Sainte-Élisabeth et qu’il avait vendu l’immeuble dans lequel se situait le pub à la société de gestion de l’appelante à un prix très inférieur à la juste valeur marchande de l’immeuble. Lorsqu’on lui a présenté des documents écrits et des factures importantes, M. X a admis qu’il avait acheté de nombreux manteaux de fourrure ainsi que des biens de luxe pour l’appelante. Il a également admis qu’il l’avait aidée à s’établir en affaires. M. X a aussi avoué qu’il avait payé pour la Corvette de l’année 1995 et qu’il avait donné de l’argent comptant à l’appelante pour qu’elle puisse se procurer une BMW. De plus, il a admis que l’appelante l’avait accompagné, à plusieurs reprises, au casino de Montréal. Cependant, il a refusé de commenter les sommes d’argent qu’il avait données à l’appelante.
+[34] Il suffit de dire que j’ai trouvé M. X peu crédible. J’ai eu l’impression que M. X regrettait les aveux qu’il faisait petit à petit lorsqu’on lui a présenté ses déclarations antérieures ainsi que les documents écrits déposés en preuve. Je lui ai expliqué que le but du contre-interrogatoire était d’établir sa crédibilité et surtout de permettre à la Cour d’obtenir la vérité. Je lui ai expliqué qu’il pourrait prendre congé de la barre des témoins lorsque l’avocat de l’appelante serait persuadé que la Cour était dotée d’une preuve convaincante.
+[35] J’ai demandé à M. X s’il était possible qu’il ait donné à l’appelante plus de 500 000 $ pendant les années d’imposition en question, comme l’appelante l’avait allégué. Il a répondu : « Oui, c’est possible. » Cet aveu a été fait à la fin de la journée, et j’ai averti M. X qu’il devrait réfléchir à ses réponses avant la reprise de l’audience le lendemain puisque de tels aveux pourraient avoir des conséquences pour lui.
+[36] D’abord, si les sommes d’argent comptant qu’il versait à l’appelante étaient assujetties à l’impôt des sociétés ou provenaient de ventes au comptant non déclarées faites par sa société, des conséquences fiscales pourraient surgir. Ensuite, si ces sommes provenaient des actifs de ses entreprises et que M. X avait mis sa main dans la caisse, ces sommes pourraient donner lieu à une imposition personnelle pour M. X en vertu de l’article 15 de la LIR. En bref, dans ces circonstances, les sommes pourraient être assujetties à l’impôt des sociétés et des particuliers.
+[37] M. X a modifié son témoignage, à la reprise de l’audience, lors de son contre-interrogatoire par l’avocat de l’appelante. Il a déclaré que les seuls biens qu’il avait donnés à l’appelante étaient ceux qui étaient notés au dossier de la Cour. Je ne crois pas la version modifiée des faits de M. X. À maintes reprises, il a changé sa version des faits au procès, au sujet de son entrevue avec l’ARC, lorsqu’on lui a présenté les documents déposés en preuve lors de son contre‑interrogatoire par l’avocat de l’appelante.
+[38] Lorsque l’avocat de l’appelante a interrogé M. X au sujet de la vente de l’immeuble dans lequel se trouvait le pub Le Sainte-Élisabeth par sa société immobilière à la société de gestion de l’appelante, M. X a admis qu’il avait payé 300 000 $ pour l’immeuble[15]. Cette somme incluait le prix d’achat et les coûts des améliorations à l’immeuble. D’ailleurs, il a admis la véracité de la pièce A-8 qui démontre qu’il avait fait preuve d’une grande générosité envers l’appelante. Il a nié qu’il voulait faire un don, mais il a témoigné qu’il aurait pu vendre l’immeuble 700 000 $ à une tierce personne. Ce qui est certain est que M. X risque d’avoir des ennuis avec l’administration fiscale en ce qui a trait à la vente de cet immeuble. Le bien appartenait à une société détenue à 100 % par M. X. Ce dernier était une personne jouant un rôle important dans la vente et il cherchait à accorder un avantage à l’appelante. À première vue, il semble que les faits suggèrent qu’il y a eu appropriation d’un bien de la société immobilière de M. X à sa demande. Dans de telles circonstances, il se peut qu’il y ait eu manquement à l’article 15 ou au paragraphe 56(2) de la LIR. Cependant, ceci est un débat pour une autre journée.
+[39] M. X est, de toute évidence, un homme d’affaires très expérimenté qui a connu beaucoup de succès dans le monde des affaires canadien. Il a mentionné qu’il avait parlé avec son comptable avant de se présenter à l’entrevue avec l’ARC. Le traitement fiscal des appropriations faites par des actionnaires est un élément de base en fiscalité canadienne. Je présume que M. X a reçu des mises en garde adéquates et qu’il connaissait les risques que ces transactions pouvaient comporter pour lui lorsqu’il s’était présenté à l’entrevue avec l’agent de l’ARC. Je présume également que lorsque les déclarations de revenus de la société immobilière de M. X ont été produites, les comptables externes avaient examiné la transaction, puisque c’était néanmoins une transaction importante pour la société, et qu’ils avaient fait les mises en garde nécessaires pour prévenir une cotisation supplémentaire.
+[40] Je note que la notaire Fortier s’était bel et bien posé cette question lorsque M. X lui avait demandé de préparer l’acte de vente. Elle a dit que M. X lui avait fourni des réponses satisfaisantes, selon lesquelles il n’y avait pas de don; cependant, j’ai des doutes à cet égard. La notaire n’est évidemment pas une fiscaliste.
+Analyse
+[41] Dans l’affaire Lacroix c. Canada[16], la Cour d’appel fédérale a avancé que :
+18 […] Notre système de perception d'impôt sur le revenu est fondé sur la déclaration du contribuable quant au revenu qu'il a touché au cours d'une année d'imposition. S'il arrive que le ministre doute, pour quelque raison que ce soit, de l'exactitude de la déclaration de revenu produite par le contribuable, il peut entreprendre l'enquête qui lui semble nécessaire. Il peut par la suite établir une nouvelle cotisation. […]
+[42] La méthode de l’avoir net est une méthode arbitraire, insatisfaisante et imprécise. C’est un instrument grossier que le ministre doit cependant utiliser en dernier ressort, notamment lorsque la comptabilité du contribuable ne permet aucunement l’appréciation adéquate de son revenu et de ses dépenses pour une période donnée. Le juge Bowman (tel était alors son titre) a exprimé les propos suivants au paragraphe 6 de l’affaire Ramey c. Canada[17] en ce qui a trait à la méthode de l’avoir net :
+6 […] Une cotisation d'actif net repose sur une comparaison de l'actif net du contribuable, à savoir la valeur de l'actif moins le passif au début d'une année, avec son actif net à la fin de l'année. À la différence ainsi obtenue, on ajoute les dépenses qu'il a engagées pendant l'année. Le montant obtenu est réputé être le revenu du contribuable, sauf preuve contraire. Ces cotisations peuvent être inexactes dans une mesure indéterminée, mais elles sont valables jusqu'à preuve de leur inexactitude. […]
+[43] De même, le juge Tardif a résumé les points saillants du processus de l’avoir net dans l’affaire Bastille c. Canada[18] :
+7 Le recours à ce procédé n'est d'ailleurs pas la règle. Il constitue en quelque sorte une exception utilisée dans les situations où le contribuable n'a pas en sa possession toutes les informations, documents et pièces justificatives pour permettre une vérification plus conforme aux règles de l'art et surtout plus précise quant au résultat.
+8 Les assises ou fondements des calculs élaborés dans le cadre d'un avoir net sont tributaires en très grande partie des informations transmises par le contribuable faisant l'objet de la vérification.
+9 La qualité, la vraisemblance, la raisonnabilité des informations ont donc une importance absolument fondamentale.
+[44] Dans l’affaire Hsu c. Canada[19], la Cour d’appel fédérale a énoncé le but ainsi que l’utilité de la méthode de l’avoir net :
+29 Les évaluations de la valeur nette sont une solution de dernier recours communément employée dans les cas où le contribuable refuse de produire une déclaration de revenus, qu'il a produit une déclaration fort inexacte ou qu'il refuse de fournir des documents qui permettraient à Revenu Canada de vérifier le rendement (V. Krishna, The Fundamentals of Canadian Income Tax Law, 5e éd. (Toronto : Carswell, (1995) à la page 1089). La méthode de la valeur nette est fondée sur l'hypothèse selon laquelle une augmentation de la richesse d'un contribuable au cours d'une certaine période peut être imputée au revenu pour cette période à moins que le contribuable ne démontre le contraire (Bigayan, précité, à la page 1619). Cette méthode vise à libérer le ministre de l'obligation ordinaire qui lui incombe de prouver l'existence d'une source imposable de revenu. Le ministre est uniquement tenu de démontrer que la valeur nette du contribuable a augmenté entre deux dates. En d'autres termes, une évaluation de la valeur nette ne se rapporte pas à la détermination de la source ou de la nature de l'augmentation de la richesse du contribuable. Une fois qu'il est démontré qu'il y a eu augmentation, il incombe entièrement au contribuable de séparer son revenu imposable des gains provenant de sources non imposables (Gentile c. La Reine, [1988] 1 C.T.C. 253, à la page 256 (C.F. 1re inst.)).
+30 Par sa nature, une évaluation de la valeur nette est une estimation arbitraire et imprécise du revenu du contribuable. Toute iniquité perçue se rapportant à ce genre d'évaluation est réglée en reconnaissant que le contribuable est celui qui est le mieux placé pour connaître son revenu imposable. Lorsque le fondement factuel de l'estimation du ministre est inexact, il devrait être simple pour le contribuable de corriger à la satisfaction de la Cour l'erreur que le ministre a commise.
+[45] Je suis d’avis que le ministre avait raison de recourir à cette méthode exceptionnelle dans les circonstances. À l’origine, l’appelante avait adopté un comportement réservé visant à protéger l’identité de M. X. Il était donc difficile pour le ministre de procéder à une vérification normale. C’est seulement si l’identité de M. X était révélée que la question d’une vérification selon la forme usuelle pouvait se présenter.
+[46] En ce qui concerne le fardeau de la preuve, il incombe à l’appelante de réfuter les hypothèses de fait sur lesquelles le ministre s’est fondé pour établir les cotisations pour les années d’imposition 2000 et 2001. La norme de la preuve à laquelle doit satisfaire l’appelante afin de réfuter les hypothèses du ministre est celle de la prépondérance des probabilités. Essentiellement, le fardeau de prouver l’inexactitude des cotisations, en l’espèce, repose sur l’appelante, qui doit apporter une preuve prima facie pour démontrer que les montants ainsi calculés ne représentent pas la réalité fiscale de son revenu. Il appartient à l’appelante d’identifier la source et d’établir la nature non imposable de ses revenus. Ce fardeau fut affirmé dans l’arrêt Lacroix par la Cour d’appel fédérale : [20]
+19 Cette façon de procéder a reçu l'approbation de la Cour suprême à de nombreuses reprises, dont l'affaire Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, n'est qu'un exemple. Dans cette cause, la Cour s'exprime ainsi aux paragraphes 92-93 :
+92 … En établissant des cotisations, le ministre se fonde sur des présomptions : (Bayridge Estates Ltd. c. M.N.R., 59 D.T.C. 1098 (C. de l'É.), à la p. 1101), et la charge initiale de « démolir » les présomptions formulées par le ministre dans sa cotisation est imposée au contribuable (Johnston c. Minister of National Revenue, [1948] R.C.S. 486, Kennedy c. M.R.N., 73 D.T.C. 5359 (C.A.F.), à la p. 5361). Le fardeau initial consiste seulement à « démolir » les présomptions exactes qu'a utilisées le ministre, mais rien de plus : First Fund Genesis Corp. c. La Reine, 90 D.T.C. 6337 (C.F. 1re inst.), à la p. 6340.
+93 L'appelant s'acquitte de cette charge initiale de « démolir » l'exactitude des présomptions du ministre lorsqu'il présente au moins une preuve prima facie : Kamin c. M.R.N., 93 D.T.C. 62 (C.C.I.); Goodwin c. M.R.N., 82 D.T.C. 1679 (C.R.I.)… Il est établi en droit qu'une preuve non contestée ni contredite « démolit » les présomptions du ministre : voir par exemple MacIsaac c. M.R.N., 74 D.T.C. 6380 (C.A.F.), à la p. 6381; Zink c. M.R.N., 87 D.T.C. 652 (C.C.I.)…
+20 L'application de la méthode de l'avoir net ne change rien à cette méthode de preuve. Dans la mesure où le ministre présume que le revenu constaté par l'application de la méthode de l'avoir net est un revenu imposable, il revient au contribuable de démolir cette présomption. Si celui-ci présente une preuve crédible que le montant en question n'a pas le caractère de revenu, le ministre doit alors aller au-delà de ses présomptions de fait et déposer la preuve de l'existence de ce revenu.
+[47] La crédibilité de l’appelante ainsi que la suffisance de la preuve à l’encontre des calculs de l’avoir net jouent un rôle primordial. Le sort de l’appel dépendra entièrement de ces deux facteurs[21].
+[48] Le juge Bowman (tel était alors son titre) a énoncé la meilleure façon de contester de telles cotisations dans Bigayan :
+3 Le meilleur moyen de contester une cotisation fondée sur la valeur nette est de produire la preuve de ce qu'est véritablement le revenu du contribuable. Un moyen moins satisfaisant, mais néanmoins acceptable, est décrit par le juge Cameron dans l'affaire Chernenkoff v. Minister of National Revenue, 49 D.T.C. 680, à la page 683 :
+[TRADUCTION]
+En l'absence de documents, l'autre moyen offert à l'appelant consistait à prouver que, même après une application en règle de la formule de la valeur nette, les cotisations étaient erronées.
+4 Ce moyen de contester une cotisation fondée sur la valeur nette est reconnu, mais, même après que l'on a procédé aux rajustements, on reste avec le sentiment trouble que la vérité n'a pas été pleinement découverte. Il est peu probable que l'on rende parfait en le modifiant un instrument qui, par nature, est imparfait. L'appelant a choisi d'utiliser le deuxième moyen.
+[49] Aussi, le juge Hamlyn dans l’arrêt Saikely c. Canada[22] avait ceci à dire en ce qui concerne les cotisations selon l’avoir net :
+36 Le contribuable peut contester les cotisations de diverses manières. Il peut prouver qu’une part de l’augmentation de son avoir net est attribuable à des rentrées d’argent non imposables comme un héritage ou une somme gagnée au jeu; que son avoir net au début de la période a été sous-évalué ou que des éléments d’actif à la fin de la période ont été surévalués; que des éléments de passif existant à la fin de la période ont été omis ou sous-évalués; que l’argent avait été emprunté ou que les pertes de revenu étaient supérieures aux estimations. Quoi qu’il allègue, le contribuable doit le prouver; une simple déclaration ne suffit pas. De plus, il faut une preuve forte pour réfuter une cotisation fondée sur l’avoir net.
+[Je souligne.]
+[50] De plus, dans l’affaire Morneau c. Canada[23], la Cour d’appel fédérale a constaté que les cotisations selon l’avoir net sont fréquemment annulées lorsque la preuve viva voce ou documentaire parvient à relever le fardeau qui repose sur le contribuable qui les conteste.
+[51] La preuve présentée par l’appelante est très convaincante et je suis d’avis qu’elle a satisfait à son fardeau de la preuve, selon la prépondérance des probabilités, à tout égard en ce qui a trait aux avis de nouvelle cotisation qu’elle avait reçus. Ceci a été fait pour les années d’imposition 2001 et 2002, ainsi que pour les années d’imposition 1998, 1999 et 2000, alors que le fardeau de la preuve reposait sur l’intimée. M. X a fait à l’appelante des dons importants pendant les années d’imposition en question. Une preuve abondante de son état d’esprit existe, ainsi qu’une preuve de la nature des dons qu’il avait faits à l’appelante avant la période en question. Il n’y a pas de doute que M. X a incité sa société à vendre l’immeuble à un prix très favorable à la société de gestion de l’appelante. Je crois également que la preuve est très concluante et démontre que M. X a fait une remise d’un prêt de 150 000 $ en faveur de la société de l’appelante afin qu’elle puisse acquérir le capital-actions du pub Le Sainte-Élisabeth. Je crois aussi que M. X a donné 128 000 $ à l’appelante pour qu’elle puisse s’acheter un condominium. Ces transactions sont à l’extérieur de la période visée, mais elles ont pour effet de démontrer l’affection que M. X éprouvait envers l’appelante. L’annexe du présent jugement fut préparée en vertu des témoignages que j’ai retenus comme étant crédibles. Cette annexe établit un sommaire des dons faits avant, pendant et après la période en question.
+[52] Quant aux années d’imposition en cause, je crois que M. X a donné 168 000 $ à l’appelante afin de l’aider à s’acheter une maison située à Blainville. L’appelante a également prouvé que M. X lui donnait des sommes d’argent importantes, deux ou trois fois par semaine, lorsqu’ils quittaient le casino de Montréal. Selon le témoignage des deux parties, M. X commençait ses soirées avec des mises allant de 5 000 $ à 12 000 $. Si je soustrais les pertes éventuelles, il n’est pas inconcevable que M. X ait donné des sommes d’argent comptant d’au moins 3 000 $ à l’appelante lors de chacune de leurs visites au casino, en moyenne trois fois par semaine. La somme pouvait être de 9 000 $ par semaine. En supposant que les visites aient lieu pendant 30 semaines, on peut facilement concevoir des sommes allant jusqu’à 1 350 000 $ pour les cinq années en question. Je dois du moins conclure que l’appelante a réussi à présenter sur ce point une preuve prima facie qui n’a pas été contredite par l’intimée.
+[53] Pendant le procès, l’avocate de l’intimée a affirmé que M. X avait bel et bien fait des dons à l’appelante. Toutefois, l’intimée n’en a pas concédé le montant. Ces faits ont été corroborés par un témoin indépendant, M. Paul-André Cyr, directeur exécutif des clients VIP au casino de Montréal. Je crois le témoignage de l’appelante lorsqu’elle affirme qu’elle déposait les sommes d’argent dans des guichets automatiques de sa banque de façon habituelle. Quelqu’un qui aurait empoché de l’argent assujetti à l’impôt canadien n’aurait pas, je crois, déposé ces sommes d’argent à la banque de façon si désinvolte.
+[54] Comme les dons ne sont pas imposables en vertu de la LIR, il n’y a aucune obligation prévue, pour les contribuables, de tenir des registres de l’information à cet égard. De plus, puisque M. X avait l’habitude de faire des dons d’argent comptant, la seule façon de faire la preuve de ces dons était par preuve testimoniale. Quatre témoins ont témoigné que M. X avait l’habitude de faire des dons d’argent comptant à l’appelante. M. X a compris cela lorsque je lui ai posé la question, mais il a changé son témoignage. Je présume que son témoignage a changé parce que ses conseillers lui ont fait prendre connaissance du coût fiscal que cet aveu pourrait entraîner pour lui.
+[55] En ce qui concerne l’adjudication des dépens, la Cour a un grand pouvoir discrétionnaire en vertu de l’article 147 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») et de l’article 18.26 de la Loi sur la Cour canadienne de l’impôt.
+[56] Selon le paragraphe 147(4) des Règles, la Cour peut fixer la totalité ou une partie des dépens en tenant compte ou non du tarif B de l'annexe II des Règles et peut adjuger une somme globale au lieu ou en sus des dépens taxés. De plus, le paragraphe 147(3) des Règles avance que la Cour, en exerçant son pouvoir discrétionnaire, peut tenir compte de plusieurs facteurs, incluant le résultat de l’instance, les sommes en cause, la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance ainsi que la question de savoir si une étape de l’instance a été accomplie de manière négligente, par erreur ou avec trop de circonspection.
+[57] Dans l’affaire Lau c. Canada[24], la question en litige était de savoir si le juge en chef adjoint Bowman (tel était alors son titre) avait erré en adjugeant une somme globale au lieu ou en sus des dépens taxés. En appuyant la décision de première instance, la Cour d’appel fédérale a conclu ce qui suit :
+4 Le juge en chef adjoint Bowman a refusé d'octroyer les dépens sur la base des dépens avocat-client. Il l'a dit explicitement. Il a plutôt tenu compte de certains des critères énoncés au paragraphe 147(3) des Règles, et a utilisé son pouvoir discrétionnaire pour accorder une somme globale aux termes du paragraphe 147(4). Il a noté, à la demande de la Couronne, que les appels avaient été retirés de la procédure informelle pour être entendus selon la procédure générale. À son avis, ceci a eu pour effet [TRADUCTION] « d'imposer un fardeau considérable aux deux appelants ». Il a également laissé entendre que la cause contre Agatha Lau n'avait absolument aucun fondement, et que la Couronne aurait dû [TRADUCTION] « être un peu plus disposée à accepter » une offre de règlement avant le procès. Il a comparé le montant des dépens partie-partie en vertu du Tarif de la Cour avec les dépens avocat-client de plus de 103 000 $, qu'il a jugé [TRADUCTION] « plutôt élevés ». À la fin, il a jugé [TRADUCTION] « qu'une somme de 52 000 $ était un règlement équitable dans cette affaire et que cela compensait en partie la dure épreuve à laquelle ont été soumis les appelants qui ont dû se présenter en Cour pour justifier leur position ».
+5 On voit donc que l'octroi des dépens en vertu de la règle 147 est hautement discrétionnaire même si, évidemment, ce pouvoir discrétionnaire doit être exercé en respectant les principes établis. Nous sommes tous d'avis que la Cour de l'impôt n'a pas manqué à ces principes et qu'il n'y a aucune raison de modifier le jugement qui a été rendu.
+[58] Dans l’affaire Taylor c. Canada[25], le juge Garon, en accordant une somme excédant les dépens prévus au tarif B, avait noté ce qui suit :
+27 Je devrais également souligner que le paragraphe 147(4) des Règles précise que la Cour « peut [...] adjuger une somme globale au lieu ou en sus des dépens taxés ». Cette disposition indique clairement qu'il pourrait y avoir des cas où il serait justifié que la Cour adjuge une somme globale pouvant excéder les dépens prévus au tarif B, qu'on retrouve à l'annexe II des Règles, pour les services d'un avocat. Cependant, la somme globale adjugée ne devrait pas équivaloir à l'adjudication des dépens sur une base procureur-client.
+[59] Dans l’affaire RCP Inc. c. Ministre du Revenu national et sous-ministre du Revenu national pour les douanes et l'accise[26], le juge Rouleau avait avancé ceci en ce qui a trait aux dépens lorsqu’il examinait la conduite antérieure des intimés :
+Je suis convaincu que je peux, en l'espèce, tenir compte de la conduite antérieure des intimés ayant donné lieu au présent litige, et j'ai le devoir de prendre en considération l'ensemble des circonstances de l'affaire et ce qui a amené l'action, l'obligation de contre-interroger longuement les témoins et le débat inhabituellement long sur les dépens. Pour ces motifs et pour les autres raisons déjà soulignées, je vais exercer mon pouvoir discrétionnaire pour fixer une somme globale.
+[60] Dans l’affaire Hunter c. Canada[27], le juge Bell a énoncé que les Règles prévoient expressément que la Cour peut adjuger une somme globale au lieu ou en sus des dépens taxés. En tenant compte des facteurs énoncés au paragraphe 147(3) des Règles, l’honorable juge avait accordé une somme globale de 22 000 $ à l’appelant en raison du comportement des fonctionnaires du ministre.
+[61] L’avocat de l’appelante, Me Ouellette, m’a supplié lors de l’audience d’accorder des dépens exemplaires à l’appelante vu que l’ARC avait bâclé la vérification de sa cliente en négligeant de vérifier le bien-fondé de ses prétentions selon lesquelles M. X lui avait fait des dons généreux et non imposables et que ces dons étaient à l’origine de l’augmentation de son actif net. Selon Me Ouellette, M. X fut traité avec déférence lors de son entrevue avec l’ARC. M. Noiseux n’a pas entrepris d’enquête approfondie; il a retenu sans fondement la version des faits de M. X, un homme d’affaires, plutôt que de croire l’appelante, autrefois une danseuse érotique. D’après moi, le comportement de M. Noiseux équivalait, dans les circonstances, à un préjugé favorable non fondé envers M. X en raison de son statut social, ce qui aurait été infirmé par une enquête et par une vérification normale de M. X ou de ses entreprises. Me Ouellette a argumenté que le comportement de M. X était suspect dès ses premières rencontres avec l’ARC et que si M. Noiseux avait suivi les procédures normales, l’ARC aurait découvert l’existence des dons importants que M. X avait versés à l’appelante.
+[62] De son côté, l’avocate de l’intimée a argumenté que le comportement de l’appelante a contribué en grande partie à l’établissement des cotisations à son égard. Le fait que l’appelante tentait de protéger l’identité de M. X est peut-être en soi un sentiment noble. Toutefois, dans un système d’autocotisation, lorsque le ministre observe des augmentations d’avoir net non expliquées par le revenu d’un contribuable, ce dernier a l’obligation d’apporter des explications claires au ministre. Il est également à noter que le comportement de M. Noiseux aurait pu être différent si la preuve que l’appelante possédait (y compris les bandes sonores enregistrées) avait été mise à la disposition de celui-ci.
+[63] Après avoir entendu la preuve dans son ensemble et avoir écouté le témoignage de M. X, je dois constater que l’ARC a failli à son obligation de mener une enquête raisonnable sur le bien-fondé des affirmations faites par l’appelante au sujet de M. X. De plus, si l’ARC avait poussé l’enquête avec M. X, elle aurait facilement été en mesure de découvrir la vérité et l’existence des dons. L’ARC avait le pouvoir de mener cette enquête ou cette vérification auprès de M. X. D’autre part, M. Noiseux n’avait aucune explication possible des sources de revenu de l’appelante. Il a admis, lors de son témoignage, que les comptes fiscaux des sociétés de l’appelante étaient en règle et il n’avait aucune indication de revenu non déclaré. Dans la plupart des cas, lorsque les cotisations selon l’avoir net ont été établies et confirmées par les tribunaux, on retrouve des revenus non déclarés des entreprises des contribuables. M. Noiseux n’avait aucun motif valable de croire la version des faits de M. X quant à la non-existence des dons en argent comptant.
+[64] Cela dit, j’estime par contre que si l’appelante avait mis à la disposition de l’ARC une partie de la preuve qui a été présentée lors du procès, l’attitude de l’ARC aurait pu être différente. Je suis ainsi d’avis que l’appelante est en partie responsable de la durée des procédures. Toutefois, j’estime que la faute de l’ARC était beaucoup plus grande et, par conséquent, j’accorde la somme de 35 000 $ à titre de dépens à l’appelante plutôt que la somme de 50 000 $ réclamée par ses procureurs.
+[65] Pour tous ces motifs, j’accueille l’appel et j’ordonne que les nouvelles cotisations soient annulées.
+Signé à Ottawa, Canada, ce 10e jour d’août 2009.
+« Robert J. Hogan »
+Juge Hogan
+ANNEXE
+Avoirs et cadeaux reçus par l’appelante et ses sociétés selon les témoignages retenus par la Cour
+Avoirs et cadeaux donnés à l’appelante pendant les années d’imposition en question (1998-2002)
+· Location d’une Jeep Grand Cherokee – prix du contrat initial de location : 6 455 $ (9 avril 1999).
+· Achat d’un système de cinéma maison coûtant 5 164 $ (9 juillet 1999).
+· Achat d’une maison se trouvant au 69, boulevard de Fontainebleau, à Blainville, coûtant 168 000 $ (19 novembre 1999).
+· Meubles coûtant 2 000 $ en 1999.
+· Achat de bijoux coûtant 6 096 $ chez Birks (20 décembre 1999).
+· Location d’une Chrysler Town & Country – prix du contrat initial de location : 4 464 $ (18 mai 2000).
+· Frais de garde d’enfants de 14 445 $ en 2001.
+· Location d’une Mercedes-Benz – prix du contrat initial de location : 8 448 $ (1er mars 2002).
+· Sacs à main et ceintures Louis Vuitton coûtant 1 127,83 $ (11 septembre 2002).
+· Paiement de 16 000 $ pour les cartes de crédit de l’appelante en 2002.
+· Paiement du solde des sommes en argent comptant à la fin des visites au casino : 3 000 $ (moyenne) x 30 semaines x 5 années (1998 – 2002) = 1 350 000 $.
+Avoirs et cadeaux donnés à l’appelante avant ou après les années d’imposition en question (1998-2002)
+· Achat d’une Corvette 1995 coûtant 55 000 $ (3 mai 1996).
+· Achat d’un condominium coûtant 128 000 $ situé au 4132, avenue du parc Lafontaine, à Montréal (24 octobre 1996).
+· Acquisition d’une Jeep Cherokee coûtant 36 124 $ (30 juin 1997).
+· Dépôts bancaires de 32 660,50 $ en 1997.
+· Police d’assurance automobile coûtant 3 179,40 $ (29 mars 2003).
+· Sacs à main et ceintures Louis Vuitton coûtant 26 433 $ (2004).
+· Voyages (coûts non précisés).
+· Bijoux (coûts non précisés).
+· Huit manteaux de fourrure (coûts non précisés).
+· Paiements pour les cartes de crédit de l’appelante (montants non précisés).
+Cadeaux donnés directement à la société de l’appelante pendant les années d’imposition en question (1998-2002)
+· Achat du pub Le Sainte-Elisabeth, au coût de 150 000 $ (5 décembre 1997). Ceci fut inscrit le 4 février 1998 comme étant un prêt de 150 000 $. La quittance générale et finale du prêt fut établie le 1er juin 1999 et équivaut à une remise de dette.
+· Achats de 13 000 $ inscrits à l’inventaire en 1997.
+· Dépôts bancaires de 3 450 $ en 1997.
+· Loyer de 3 275,31 $ en 1997.
+· Somme de 18 715 $ reçue pour les frais de notaire, de téléphone et pour les avances provenant des administrateurs en 1998.
+· Achat d’ordinateur et frais téléphoniques de 1 997 $ en 1999.
+· Somme de 9 936 $ reçue pour les frais téléphoniques et les avances pour le début de l’appareil « access card » en 2001.
+· Ajustement Lumideco de 3 132 $ au sujet du pub en 2002.
+Cadeaux donnés directement à la société de l’appelante avant les années d’imposition en question (1998-2002)
+· Achat de l’immeuble rue Sainte‑Elisabeth – la société de l’appelante a payé 52 000 $, mais l’immeuble avait une valeur marchande de 315 000 $ (30 octobre 2003).
+· Montant de 3 450 $ versé en 1997.
+RÉFÉRENCE : 2009 CCI 399
+Nº DU DOSSIER DE LA COUR : 2007-3211(IT)G
+INTITULÉ DE LA CAUSE : MARTINE LANDRY c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Les 9, 10, 11, 12 et 13 mars 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 10 août 2009
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Yves Ouellette
+Me Nicolas Cayouette
+Nicolas Dubé (stagiaire)
+Avocate de l'intimée :
+Me Marie-Claude Landry
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Me Yves Ouellette
+Cabinet : Gowling Lafleur Henderson
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Soit la personne déclarée témoin hostile par la Cour (voir le paragraphe 32 du jugement).
+[2] Voir la transcription du 9 mars 2009, témoignage de l’appelante, paragraphes 113, 117 et 118.
+[3] Voir la transcription du 9 mars 2009, témoignage de l’appelante, paragraphes 148 et 161. Voir aussi la pièce A-2, onglet 14.
+[4] Idem.
+[5] Voir la transcription du 13 mars 2009, témoignage de M. Noiseux, paragraphes 526-527. Voir aussi la pièce I-3, onglet 52.
+[6] Voir la transcription du 13 mars 2009, témoignage de M. Noiseux, paragraphes 581-590. Voir aussi la pièce I-3, onglet 52.
+[7] Voir la transcription du 13 mars 2009, témoignage de M. Noiseux, paragraphe 588. Voir aussi la pièce I-3, onglet 52.
+[8] Voir la transcription du 13 mars 2009, témoignage de M. Noiseux, paragraphe 588. Voir aussi la pièce I-3, onglet 52.
+[9] Voir la transcription du 9 mars 2009, témoignage de Robert Paquette, paragraphes 638-640.
+[10] Voir la transcription du 9 mars 2009, témoignage de Robert Paquette, paragraphes 622-632.
+[11] Voir la transcription du 9 mars 2009, témoignage de Robert Paquette, paragraphe 627.
+[12] Voir la transcription du 10 mars 2009, témoignage de Mélanie Chrétien, paragraphe 194.
+[13] Voir la transcription du 11 mars 2009, témoignage de Mireille Fortier, paragraphes 58-64, 68-69, 204-215, et 233-241.
+[14] Voir la transcription du 10 mars 2009, témoignage de Lorraine Jolicoeur, paragraphes 309 et 310.
+[15] Voir la transcription du 11 mars 2009, témoignage de M. X, paragraphe 631. Voir aussi la pièce A-8.
+[16] 2008 CAF 241.
+[17] [1993] A.C.I. no 142 (QL), paragraphe 6. Voir aussi Bigayan c. Canada, [1999] A.C.I. no 778 (QL), paragraphe 2.
+[18] [1998] A.C.I. no 1080 (QL).
+[19] 2001 CAF 240.
+[20] Voir aussi Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336.
+[21] Voir Roy c. La Reine, 2006 CCI 226.
+[22] [1992] A.C.I. no 803 (QL).
+[23] 2003 CAF 472.
+[24] [2004] A.C.F. no 35.
+[25] [2000] A.C.I. no 854 (QL).
+[26] [1986] 1 C.F. 485, à la page 495.
+[27] [2002] A.C.I. no 625 (QL).

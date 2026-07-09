@@ -1,0 +1,136 @@
+---
+title: "Neszt v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/417895/index.do"
+last_modified: "2019-07-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 139"
+citation2: ""
+neutral_citation: "2019 TCC 139"
+decision_date: "2019-07-11"
+language: "en"
+item_id: "417895"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4379
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:08:14.404000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f4ad6b495d7f5e34cf5c8db9d3c7b8ea26bcf23cc31bda3fa3da8305ae40be0a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Neszt v. The Queen
+
+- Citation: 2019 TCC 139
+- Decision date: 2019-07-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4379, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Neszt v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-07-11
+Neutral citation
+2019 TCC 139
+File numbers
+2018-352(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Notes
+A correction was made on July 22, 2019
+Decision Content
+Citation: 2019 TCC 139
+Date: 20190711
+Docket: 2018-352(IT)I
+BETWEEN:
+STEPHEN J NESZT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from a reassessment made under the Income Tax Act, R.S.C. 1985, c.1, (5th supplement), as amended (the “Act”) by the Minister of National Revenue (the “Minister”) concerning the appellant’s 2015 taxation year.
+[2] By virtue of the reassessment dated October 31, 2016, the Minister included in the appellant’s income an amount of $26,361 as income from Canadian sources pursuant to paragraph 56(1)(j) of the Act.
+[3] In determining the appellant’s tax liability for his 2015 taxation year, the Minister made the following assumptions of fact:
+(a) the Appellant holds two life insurance policies number 4701179-6 and 7435221-2, issued on November 1977 and November 1982 respectively with the London Life Insurance Company (hereinafter “London Life”);
+(b) during the 2015 taxation year, the appellant took personal loans against his life insurance policies from London Life;
+(c) the loans taken with London Life are deemed to be a disposition of the interests in the life insurance policies;
+(d) the Adjusted Cost Base (ACB) of the life insurance policies represents mainly the sum of premiums paid by the Appellant minus dividends declared, if applicable, minus the Net Cost of Pure Insurance (NCPI);
+(e) the ACB calculated by the London Life is $ 6,337.80 for policy number 4701179-6 and $11,077.72 for policy number 7435221-2;
+(f) the income in respect of the disposition of the appellant’s interest in his life insurance policies is $ 7,190 and $ 19,170.70 for a total amount of $26,361;
+(g) any repayment of the policy loans, if applicable, made in the taxation year 2015 would have reduced the above mentioned income.
+[4] For the 2015 taxation year, the London Life Insurance Company issued to the appellant, two T5 slips in the amounts of $7,190 and $19,170 respectively, as “other source of income.” In the appellant’s opinion, both amounts are non-taxable in nature because they arose from personal loans taken from two personal whole life insurance policies under his name. In his opinion, this is analogous and similar to having taken out personal loans with a financial institution, such as a chartered bank. Monies received from a personal loan from a chartered bank are non-taxable in nature.
+[5] With respect, I do not agree with the appellant that life insurance policy loans should be treated like personal loans from a financial institution because life insurance policy loans are governed by specific provisions of the Act.
+[6] Paragraph 56(1)(j) of the Act provides that there shall be included in computing the income of a taxpayer for a taxation year any amount required to be so included by subsections 148(1) or (1.1) of the Act.
+[7] Subsection 148(1) of the Act provides for the inclusion in income of the amount by which the proceeds of disposition of a policyholder’s interest in a life insurance policy to which he became entitled to receive in the year exceeds the adjusted cost base to the policyholder of that interest immediately before the disposition. The exceptions to this rule that are listed in paragraphs 148(1)(a) to (e) are not applicable in this appeal.
+[8] The terms and expressions that are relevant for the purposes of subsection 148 of the Act are defined in subsection 148(9) of the Act.
+[9] The term “disposition” in relation to an interest in a life insurance policy includes a policy loan made after March 31, 1978.
+[10] The term “policy loan” means “an amount advanced by an insurer to a policyholder in accordance with the terms and conditions of the life insurance policy.”
+[11] The expression “proceeds of disposition of an interest in a life insurance policy” means:
+the amount of the proceeds that the policyholder … is entitled to receive on a disposition of an interest in the policy and for greater certainty, … in respect of a policy loan made after March 31, 1978, means the lesser of:
+(i) the amount of the loan, other than the part thereof applied, immediately after the loan, to pay a premium under the policy, as provided for under the terms and conditions of the policy, and
+(ii) the amount, if any, by which the cash surrender value of the policy immediately before the loan was made exceeds the total of the balances outstanding at the time of any policy loans in respect of the policy.
+[12] The “cash surrender value” at a particular time of a life insurance policy means “its cash surrender value at that time computed without regard to any policy loans made under the policy, any policy dividends (other than paid-up additions) payable under the policy or any interest payable on those dividends.”
+[13] The “adjusted cost basis,” at any time to a particular policyholder of the policyholder’s interest in a life insurance policy is determined by a very complex formula which essentially includes the policy premiums with adjustments for the net cost of pure insurance and the amounts of policy loans which reduces the adjusted cost basis of the policy.
+[14] Basically, the purpose of these complex rules is to ensure that a policyholder will include in his income any policy loan amount that is greater than the adjusted cost basis of his interest in the policy.
+[15] It may be worthwhile here to mention that when a policy loan is repaid, the policyholder is entitled to claim a deduction for the total of all repayments made in the year in respect of the policy loan (section 60(s) of the Act). If the amount of the repayments is greater than the amounts that were included in his income for the year or a preceding taxation year from a disposition of an interest in a life insurance policy, the excess will be added to the adjusted cost base of the policy.
+[16] Section 217 of the Income Tax Regulations provides that when an amount is required to be included in computing the income of a taxpayer pursuant to paragraph 56(1)(j) of the Act, the insurer shall make an information return in the prescribed form in respect of that amount. The prescribed form is a T5 form. This is precisely what the London Life Insurance Company did in respect of the loans made by the appellant in 2015 against his two life insurance policies.
+[17] There is no evidence that the amounts indicated on the two T5 slips issued by the London Life Insurance Company were incorrectly computed. The appellant has requested from the Ombudsman’s Office of the London Life Insurance Company, the issuance of revised T5 slips for income tax purposes but his request has been dismissed because the amounts reported on the T5 slips were correctly calculated.
+[18] For all these reasons, the appeal is dismissed.
+These Amended Reasons for Judgment are issued in substitution for the Reasons for Judgment signed June 27, 2019.
+Signed at Mont St-Hilaire, Québec, this 11th day of July 2019.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2019 TCC 139
+COURT FILE NO.:
+2018-352(IT)I
+STYLE OF CAUSE:
+STEPHEN J NESZT AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Québec
+DATE OF HEARING:
+January 15, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+June 27, 2019
+AMENDED REASONS FOR JUDGMENT:
+July 11, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gabriel Girouard
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

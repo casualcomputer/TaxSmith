@@ -1,0 +1,155 @@
+Title: Picard c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26314/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-134-26314-picard-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-03-08
+
+# Picard c. M.R.N.
+
+- Citation: 2004 CCI 134
+- Decision date: 2004-03-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3296, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Picard c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-08
+Référence neutre
+2004 CCI 134
+Numéro de dossier
+1999-4845(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 1999-4845(EI)
+ENTRE :
+JEAN-CLAUDE PICARD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 3 février 2004 à Sept-Îles (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me François Landry
+Avocat de l'intimé :
+Me Sylvain Ouimet
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision rendue par le ministre est annulée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour de mars 2004.
+« Paul Bédard »
+Juge Bédard
+Référence : 2004CCI134
+Date : 20040308
+Dossier : 1999-4845(EI)
+ENTRE :
+JEAN-CLAUDE PICARD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Jean-Claude Picard interjette appel de la décision du ministre du Revenu national (le « ministre » ) selon laquelle l'emploi exercé par lui au cours des périodes en litige, soit du 6 mai au 7 septembre 1996, du 2 juin au 4 octobre 1997 et du 6 juillet au 3 octobre 1998, lorsqu'il était au service de madame Lise Tremblay, la payeuse, est exclu des emplois assurables au sens de la Loi sur l'assurance-emploi (la « Loi » ) au motif qu'il existait un lien de dépendance entre monsieur Picard et madame Tremblay.
+[2] Le paragraphe 5(1) de la Loi se lit en partie comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+[3] Les paragraphes 5(2) et 5(3) de la Loi se lisent en partie comme suit :
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[4] L'article 251 de la Loi de l'impôt sur le revenu se lit en partie comme suit :
+Article 251 : Lien de dépendance.
+(1) Pour l'application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+(2) Définition de « personnes liées » . Pour l'application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage ou de l'adoption;
+[...]
+[5] En rendant sa décision, le ministre s'est basé sur les présomptions de fait suivantes énoncées au paragraphe 6 de la Réponse à l'avis d'appel, lesquelles ont été admises ou niées selon le cas :
+a) La payeuse exploite une entreprise agricole familiale depuis 1990 sous la raison sociale de « Jardins Gallix Enr. » . (niée)
+b) De 1985 à 1990, l'appelant avait exploité l'entreprise qu'il a vendu [sic] à sa conjointe en 1990. (niée tel que rédigée)
+c) La payeuse possède 9 serres et fait la culture de fleurs et de tomates; tous les actifs de l'exploitation agricole ont été transférés à son nom. (admise avec précisions)
+d) Durant la saison forte, en janvier pour les tomates et en mars pour les fleurs, la payeuse embauche de 10 à 12 personnes. (niée)
+e) L'appelant travaille pour la payeuse comme gérant; il dirige les autres travailleurs et s'occupe d'un peu de tout dans l'entreprise. (admise en partie)
+f) L'appelant est le seul propriétaire d'un terrain que la payeuse exploite en fraises et en framboises. (niée)
+g) L'appelant, à titre de gérant, prétend qu'il remplace la payeuse quand le travail devient trop important pour elle seule alors qu'il rend des services à la payeuse durant toute la saison soit avant et après les périodes en litige. (niée)
+h) Les 2 parties reconnaissent que l'appelant rend des services en dehors des périodes en litige. (niée)
+i) Lorsqu'il était rémunéré, l'appelant recevait une rémunération brute fixe variant entre 624 $ et 655 $ par semaine et ce, sans considération des heures réellement travaillées. (niée)
+j) L'appelant était généralement payé par chèque; ces chèques révèlent plusieurs irrégularités : (niée)
+- Les chèques sont souvent changés longtemps après avoir été émis (jusqu'à six mois) par le payeur [sic].
+- L'appelant a reçu 2 chèques de paie complet [sic] dans la semaine du 23 au 29 juin 1996 sans pouvoir en fournir d'explication.
+- Du 25 août 1996 au 7 septembre 1996, l'appelant a été prétendument rémunéré en argent liquide.
+- Plusieurs des chèques de paie de l'appelant sont déposés dans le compte servant uniquement pour l'hypothèque de la maison qui est au nom de la payeuse.
+- Deux chèques de paie de l'appelant ont été déposés directement au compte personnel de la payeuse.
+k) Les prétendues périodes d'emploi de l'appelant ne coïncident pas avec les périodes réellement travaillées par celui-ci. (niée)
+Analyse
+[6] La Cour d'appel fédérale a défini à plusieurs reprises le rôle confié par la Loi à un juge de la Cour canadienne de l'impôt. Ce rôle ne permet pas au juge de substituer sa discrétion à celle du ministre, mais il emporte l'obligation de « vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification [...] décider si la conclusion dont le ministre était "convaincu" paraît toujours raisonnable » [3].
+[7] En d'autres termes, avant de décider si la conclusion dont le ministre était convaincu me paraît toujours raisonnable, je dois, à la lumière de la preuve dont je dispose, vérifier si les allégations du ministre s'avèrent, malgré tout, bien fondées en tout ou en partie, tenant compte des facteurs que mentionne l'alinéa 5(3)b) de la Loi.
+[8] Il convient de souligner d'entrée de jeu que seuls monsieur Picard et la payeuse ont témoigné lors de l'audience.
+[9] La preuve a révélé que la payeuse exploitait une entreprise agricole sous la raison sociale Jardins Gallix Enr. durant les années 1996, 1997 et 1998. La payeuse cultivait alors des fleurs et des tomates dans les serres qu'elle possédait. Elle faisait aussi la culture des fraises et des framboises. De plus, elle exploitait sur le même terrain un centre de jardinage qui lui permettait notamment d'écouler sa production agricole.
+[10] Le témoignage non contredit et crédible de monsieur Picard a révélé que, pendant les périodes en litige, il travaillait en moyenne six jours par semaine à raison de dix heures par jour. Pour ce travail, il recevait une rémunération hebdomadaire brute qui a pu varier entre 624 $ et 655 $. Il faisait principalement la supervision des employés de la payeuse, quoiqu'il vérifiât notamment les systèmes de chauffage et de ventilation, s'occupât de la livraison des fleurs et préparât les champs. Il donnait de temps à autre un coup de main à la payeuse au centre de jardinage. En d'autres termes, il était l'homme de confiance de la payeuse et s'occupait d'un peu de tout dans l'entreprise. Monsieur Picard considérait que les périodes en litige étaient des périodes très actives pour l'entreprise et que la payeuse avait alors grandement besoin de ses services.
+[11] À l'audience, monsieur Picard a reconnu qu'il travaillait bénévolement pour la payeuse en moyenne deux heures par semaine. Il n'a pas nié les réponses données aux questions 18 et 19 de sa déclaration statutaire fournie à Développement des ressources humaines Canada (pièce I-1). La réponse à la question 19 fait état de ce que, pendant le mois qui a précédé chacune des périodes en litige et pendant le mois qui a suivi chacune, il pouvait travailler bénévolement jusqu'à 15 heures par semaine quand les choses allaient mal.
+[12] La preuve a aussi révélé que monsieur Picard a déposé ses chèques de paie du 3 août 1996, du 10 août 1996, du 17 août 1996, du 24 août 1996 et du 17 septembre 1996 en décembre 1996 à la demande de la payeuse, qui n'avait pas suffisamment de fonds pour les honorer. Pour la mêmes raison, monsieur Picard a déposé en octobre 1997 ses chèques de paie des mois de juillet, août et septembre 1997.
+[13] À l'audience, monsieur Picard n'a pas nié avoir déposé plusieurs chèques de paie dans le compte de banque qui servait uniquement à rembourser l'hypothèque de la maison qui appartenait à la payeuse. Monsieur Picard a témoigné qu'il avait agi ainsi parce qu'il s'était porté caution à l'égard de l'hypothèque. Pour appuyer son témoignage il a d'ailleurs déposé copie du document de prêt hypothécaire (pièce A-4), qui fait état de son intervention à titre de caution.
+[14] Il n'a pas non plus nié qu'il avait déposé deux chèques de paie dans le compte de banque personnel de la payeuse. Pour justifier ce geste, il a tout simplement dit franchement qu'il était normal pour un conjoint d'aider son épouse.
+[15] Quant à l'assertion du ministre que monsieur Picard a reçu deux chèques de paie pour la période du 23 au 29 juin 1996, ce dernier a témoigné ne plus se souvenir de cet état de fait et que, si tel était effectivement le cas, il s'agissait sûrement d'une erreur.
+[16] Quant aux allégations du ministre selon lesquelles il a été rémunéré en argent liquide pour la période du 25 août 1996 au 7 septembre 1996, monsieur Picard a expliqué sans détour qu'il avait encaissé ses chèques à la petite caisse du kiosque du centre de jardinage. Il a ajouté qu'il avait agi ainsi parce que, autrement, il aurait eu, pour se procurer de l'argent liquide, à faire un trajet de 53 kilomètres en auto pour se rendre à sa caisse.
+[17] À mon avis, la preuve a révélé que monsieur Picard a bel et bien travaillé pour la ferme tout au long de ses périodes d'emploi, qu'il travaillait 60 heures par semaine et que son salaire était établi en fonction de cette moyenne de 60 heures. La preuve a aussi révélé que les périodes en litige se situaient dans les périodes actives de l'entreprise et que monsieur Picard recevait un salaire qui était dans les normes applicables, compte tenu des responsabilités qui lui avaient été confiées par la payeuse et compte tenu de son expérience. Cela, à mon avis, est concluant quant aux alinéas i) et k) des allégations du ministre; ni l'un ni l'autre de ces deux alinéas ne permet de conclure raisonnablement à l'existence d'un lien de dépendance.
+[18] Je suis d'opinion que le ministre a erré en considérant à peu près exclusivement la nature, la durée et l'importance du travail accompli en dehors des périodes d'emploi en litige et l'utilisation par monsieur Picard de ses chèques de paie. Nous examinerons donc les alinéas g), h) et j) des allégations du ministre.
+[19] La preuve a certes révélé que monsieur Picard travaillait bénévolement pour la payeuse en dehors des périodes en litige et qu'à l'occasion ce travail bénévole pouvait représenter jusqu'à 15 heures.
+[20] Or, ce que faisait monsieur Picard en dehors de ses périodes d'emploi me semble peu pertinent puisqu'il n'est pas allégué en l'espèce que le salaire versé pendant la période d'emploi tenait compte du travail accompli en dehors de ces périodes, ni que monsieur Picard avait inclus dans les heures consacrées à son emploi assurable des heures de travail qu'il avait effectuées en dehors des périodes d'emploi, ni que du travail accompli en dehors de ses périodes d'emploi avait été inclus dans le travail accompli pendant ces périodes. Le fait que monsieur Picard ait travaillé bénévolement en dehors des périodes en litige indique peut-être qu'il n'aurait pas effectué ce travail bénévolement s'il n'avait pas été le conjoint de la payeuse. Comme l'indique le juge Décary, J.C.A. dans la décision de la Cour d'appel fédérale dans l'affaire Théberge c. Canada (ministre du Revenu national - M.R.N.), [2002] A.C.F. no 464 (Q.L.) :
+[...] Ce n'est toutefois pas là le travail qui nous intéresse et le juge a erré en en tenant compte en l'absence de toute indication que l'emploi assurable en litige était sujet à des modalités spéciales attribuables à la prestation de services en dehors de la période d'emploi.
+[21] L'utilisation par monsieur Picard de ses chèques de paie me semble peu pertinente et non déterminante en l'espèce. Monsieur Picard, en déposant à l'occasion des chèques de paie dans le compte en banque de son conjoint, s'est tout simplement acquitté de son obligation de contribuer aux charges du ménage. Je ne vois pas comment on peut inférer du fait que monsieur Picard a reporté l'encaissement de certains chèques de paie, pour aider temporairement l'entreprise de la payeuse, que son emploi assurable en litige était assujetti à des modalités spéciales qui n'auraient pas été consenties par la payeuse à un employé avec qui elle n'était pas liée.
+[22] À la lumière de la preuve dont je dispose, après examen des facteurs mentionnés à l'alinéa 5(3)b) de la Loi et après ma vérification du bien-fondé des allégations du ministre, la conclusion dont le ministre était convaincu me paraît déraisonnable.
+[23] Pour ces motifs, l'appel doit être accueilli et la décision rendue par le ministre est annulée.
+Signé à Ottawa, Canada, ce 8e jour de mars 2004.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2004CCI134
+No DU DOSSIER DE LA COUR :
+1999-4845(EI)
+INTITULÉ DE LA CAUSE :
+Jean-Claude Picard et M.R.N.
+LIEU DE L'AUDIENCE :
+Sept-Îles (Québec)
+DATE DE L'AUDIENCE :
+Le 3 février 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 8 mars 2004
+COMPARUTIONS :
+Pour l'appelant :
+Me François Landry
+Pour l'intimé :
+Me Sylvain Ouimet
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me François Landry
+Étude :
+Landry, Savard
+Sept-Îles (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[3] Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878 (Q.L.), paragraphe 4.

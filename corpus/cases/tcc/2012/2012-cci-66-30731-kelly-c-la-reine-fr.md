@@ -1,0 +1,187 @@
+---
+title: "Kelly c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30731/index.do"
+last_modified: "2012-02-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 66"
+citation2: ""
+neutral_citation: "2012 CCI 66"
+decision_date: "2012-02-27"
+language: "fr"
+item_id: "30731"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7526
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:46:53.122000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4b556f61ecc0ba802e4049f534d7a926fa4066ee93a17083a46b5c67b8160199"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kelly c. La Reine
+
+- Citation: 2012 CCI 66
+- Decision date: 2012-02-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7526, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kelly c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-02-27
+Référence neutre
+2012 CCI 66
+Numéro de dossier
+2010-1454(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-1454(IT)G
+ENTRE :
+MARY KELLY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus le 1er décembre 2011, à Toronto (Ontario).
+Devant : L'honorable juge G. A. Sheridan
+Comparutions :
+Avocat de l'appelante :
+Me Jeffrey Radnoff
+Avocat de l'intimée :
+Me Thang Trieu
+________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, les appels interjetés à l'égard des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu relativement aux années d'imposition 2005 et 2006 sont accueillis, sans dépens, et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, compte tenu de ce qui suit :
+1. le revenu de location gagné par l'appelante en 2005 et en 2006 s'élevait à 2 218,79 $ et à 304,67 $ respectivement;
+2. en 2005, l'appelante a supporté des dépenses d'entreprise s'élevant à 1 519,26 $ et à 1 848,72 $ au titre de l'impôt foncier et des contributions aux dépenses communes respectivement;
+3. en 2006, l'appelante a supporté des dépenses d'entreprise s'élevant à 739,59 $ et à 1 848,72 $ au titre de l'impôt foncier et des contributions aux dépenses communes respectivement.
+Signé à Vancouver (Colombie-Britannique), ce 27e jour de février 2012.
+« G. A. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 16e jour de mai 2012.
+Yves Bellefeuille, réviseur
+Référence : 2012 CCI 66
+Date : 20120227
+Dossier : 2010-1454(IT)G
+ENTRE :
+MARY KELLY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sheridan
+[1] À la fin des années 1980, l'appelante, Mary Kelly, infirmière autorisée, a acheté un studio (le « logement ») dans un immeuble à condominiums à une station de ski située près de Collingwood, en Ontario. Elle interjette appel des nouvelles cotisations établies par le ministre du Revenu national en vertu de la Loi de l'impôt sur le revenu relativement à ses années d'imposition 2005 et 2006.
+[2] Pour chacune de ces années, le ministre a refusé les déductions au titre de pertes locatives de 8 555 $ et de 10 702 $, respectivement, que demandait l'appelante parce qu'il a supposé que cette dernière avait acquis le logement pour son usage personnel. Bien qu'il n'ait pas été formulé à titre d'hypothèse, l'un des moyens invoqués dans la réponse tenait au fait que l'appelante n'avait exercé aucune activité liée au logement en vue de réaliser un profit.
+[3] À titre subsidiaire, le ministre a fait valoir que, si le logement était une source de revenu tiré d'une entreprise, les dépenses déduites n'ont pas été prouvées ou elles constituaient des dépenses en capital.
+[4] Les hypothèses formulées par le ministre au sujet de la propriété, par l'appelante, du logement sont énoncées aux alinéas 5a) à f) de la réponse à l'avis d'appel :
+[TRADUCTION]
+a) l'appelante était propriétaire d'un studio (le « logement ») dans un immeuble enregistré comme étant l'Association condominiale de Grey no 37 (l'« immeuble à condominiums »), situé près de Collingwood, en Ontario;
+b) l'appelante possédait le logement pour son usage personnel;
+c) les propriétaires des parties privatives de l'immeuble à condominiums pouvaient offrir celles‑ci à un pool locatif exploité sous le nom de Mountain Springs Resort and Conference Centre (le « centre de villégiature »);
+d) le centre de villégiature offrait toute l'année la location de logements à court terme à ses clients, qu'il s'agisse de particuliers ou de groupes;
+e) MSL Management Inc. (« MSL »), filiale à cent pour cent de l'immeuble à condominiums, exploitait le centre de villégiature pour le compte des propriétaires des parties privatives;
+f) une convention de gestion des baux (la « convention ») conclue entre MSL et les propriétaires de parties privatives prévoyait notamment ce qui suit :
+i) toutes les recettes et les dépenses du centre de villégiature étaient mises en commun et partagées trimestriellement entre les propriétaires des parties privatives faisant partie du centre de villégiature, en fonction de leur participation respective et du genre de partie privative;
+ii) chaque année, les propriétaires de parties privatives avaient la possibilité de se retirer du centre de villégiature, mais ils demeuraient néanmoins liés par les règles prévues dans la convention en ce qui concerne la location de leur partie privative;
+iii) les propriétaires de parties privatives qui se retiraient du centre de villégiature ne pouvaient louer leur partie privative pour des périodes inférieures à trente jours;
+iv) les propriétaires de parties privatives qui se retiraient du centre de villégiature ne pouvaient louer leur partie privative plus de trois fois au cours d'une même année civile;
+v) les propriétaires de parties privatives étaient responsables du paiement de leurs contributions mensuelles et de leurs impôts fonciers;
+vi) les propriétaires de parties privatives étaient responsables des frais d'habitation lorsqu'ils utilisaient leur partie privative;
+[...]
+[5] L'appelante était le seul témoin. Elle n'a pas contesté le fait qu'elle avait acheté le logement notamment parce qu'elle voulait faire du ski, mais elle a affirmé que son principal intérêt tenait à la possibilité de tirer un revenu du logement. Bien qu'elle ait été quelque peu secouée par le contre‑interrogatoire rigoureux que lui a fait subir l'avocat de l'intimée, l'appelante a néanmoins tenu bon. Son incapacité, à l'occasion, à se rappeler ou à expliquer en détail chacune des opérations étayant ses prétentions n'a pas miné sa crédibilité en général.
+Analyse
+1. Existait‑il une entreprise?
+[6] Les deux avocats ont invoqué le critère établi dans l'arrêt Stewart c. La Reine, [2002] 2 R.C.S. 645, pour répondre à la question de savoir si, compte tenu de l'aspect personnel de l'activité de l'appelante, il existait une source de revenu :
+54 Il y a également lieu de souligner que la détermination de l'existence d'une source de revenu n'est pas un processus purement subjectif. Outre le fait que, pour qu'une activité soit qualifiée de commerciale par nature, le contribuable doit avoir l'intention subjective de réaliser un profit, il faut aussi, tel que mentionné dans l'arrêt Moldowan, que cette détermination se fasse en fonction de divers facteurs objectifs. Ainsi, sous une forme plus élaborée, le premier volet du critère susmentionné peut être reformulé ainsi : « Le contribuable a‑t‑il l'intention d'exercer une activité en vue de réaliser un profit et existe-t-il des éléments de preuve étayant cette intention? » Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l'activité et que cette activité a été exercée conformément à des normes objectives de comportement d'homme d'affaires sérieux.
+55 Les facteurs objectifs énumérés par le juge Dickson dans Moldowan, précité, p. 486, étaient (1) l'état des profits et pertes pour les années antérieures, (2) la formation du contribuable, (3) la voie sur laquelle il entend s'engager, et (4) la capacité de l'entreprise de réaliser un profit. Comme nous le concluons plus loin, il n'est pas nécessaire pour les besoins du présent pourvoi d'ajouter d'autres facteurs à cette liste; nous nous abstenons donc de le faire. Nous tenons cependant à réitérer la mise en garde du juge Dickson selon laquelle cette liste ne se veut pas exhaustive et les facteurs diffèrent selon la nature et l'importance de l'entreprise. [...]
+[7] La mise en garde formulée par la Cour suprême dans la seconde moitié du paragraphe 55 est particulièrement importante en l'espèce :
+[...] même si l'expectative raisonnable de profit constitue un facteur à prendre en considération à ce stade, elle n'est ni le seul facteur, ni un facteur déterminant. Il faut déterminer globalement si le contribuable exerce l'activité d'une manière commerciale. Cette détermination ne devrait toutefois pas servir à évaluer après coup le sens des affaires du contribuable. C'est la nature commerciale de son activité qui doit être évaluée, et non son sens des affaires.
+[Non souligné dans l'original.]
+[8] J'estime que le ministre, lorsqu'il a établi de nouvelles cotisations à l'égard de l'appelante, a en quelque sorte évalué après coup le sens des affaires de celle‑ci. L'avocat de l'intimée a soutenu qu'en raison de son caractère intéressé, il convenait de ne pas accorder beaucoup de poids au témoignage rendu par l'appelante au sujet de ses intentions subjectives au moment de l'acquisition du logement. Cependant, outre qu'elle est contrebalancée par la preuve relative aux facteurs objectifs favorisant l'existence d'une activité commerciale, cette préoccupation ne tient pas compte de la mise en garde formulée dans l'arrêt Stewart selon laquelle, dans chaque cas, ces facteurs « diffèrent selon la nature et l'importance de l'entreprise »[1].
+[9] Je me pencherai d'abord sur la question des intentions subjectives de l'appelante. J'ajoute foi à son témoignage voulant qu'elle a vu le logement comme une occasion de conjuguer la possibilité de gagner un revenu supplémentaire et le plaisir de skier. À l'instar du contribuable dans l'arrêt Stewart, l'appelante a acquis un logement « clés en main »; le vendeur assurait la gestion du pool locatif et le financement. L'appelante ne possédait toutefois pas le sens des affaires de M. Stewart. L'appelante, infirmière autorisée, avait, pendant [TRADUCTION] « quelques années »[2], loué un appartement au sous‑sol de sa maison. M. Stewart avait quant à lui « occupé des postes de cadre supérieur au sein de la Commission de transport de Toronto »[3] et il avait « de l'expérience en placement immobilier et avait déjà acquis et vendu plusieurs biens locatifs »[4]. À ce titre, il était en mesure de procéder à une analyse rigoureuse des projections du vendeur, tandis que l'appelante s'est fiée au matériel de promotion offert par les vendeurs de l'immeuble à condominiums. Elle a notamment été influencée par la participation active de Todd Brooker à la promotion de l'immeuble à condominiums : Todd Brooker était l'un des champions canadiens bien connus de la Coupe du monde de ski alpin à l'époque. Compte tenu des circonstances, je ne puis conclure qu'il était déraisonnable de la part de l'appelante de croire que la location de son logement lui permettrait non seulement de payer le coût du portage de son actif, c.‑à‑d. les paiements hypothécaires, les impôts fonciers et les autres frais, mais aussi de réaliser un certain profit.
+[10] L'avocat de l'intimée a reproché à l'appelante de ne pas avoir produit la convention de gestion des baux afin d'établir la répartition des profits et des pertes entre MSL et les propriétaires de parties privatives. Cependant, au cours du contre‑interrogatoire, l'appelante a reconnu que, selon [TRADUCTION] l'« État de compte trimestriel du propriétaire » (pièce A‑1, onglet 15) préparé par MSL, le pourcentage de profit ou de perte attribuable à son logement s'élevait à 0,545 93 p. 100. Elle a fait une distinction entre ce pourcentage et la part de 58 pour 100 des bénéfices et des pertes du centre de villégiature affectée aux propriétaires. Le bien‑fondé de cette distinction et l'exactitude des calculs qui en découlent, comme en fait état la pièce A‑1, à l'index, aux onglets 14 et 15, ont été admis par l'intimée, sous réserve que la Cour arrive à la conclusion qu'il existait une source de revenu constituée d'une entreprise. En outre, compte tenu des hypothèses détaillées formulées à l'alinéa 5f) de la réponse, le ministre paraît, à une certaine étape à tout le moins, avoir examiné la convention de gestion des baux de manière assez approfondie. Dans les circonstances, je ne puis voir aucun élément justifiant que je tire une inférence défavorable de l'omission, par l'appelante, d'avoir produit la convention de gestion des baux à l'instruction.
+[11] Quant à l'hypothèse du ministre selon laquelle l'appelante n'a jamais offert son logement au pool locatif, j'ajoute fois à l'assertion contraire de l'appelante. Son témoignage voulant qu'elle a utilisé son logement à des fins personnelles [TRADUCTION] « moins de 10 p. 100 » des 120 jours où il était à sa disposition au cours de chaque année civile n'a pas été ébranlé pendant le contre‑interrogatoire.
+[12] L'avocat de l'intimée a également soutenu que les pertes régulièrement subies par l'appelante de 1987 à 2006 donnaient à penser que l'entreprise n'était pas de nature commerciale. Il a invoqué en comparaison les mesures concrètes que le contribuable dans l'arrêt Stewart avait prises pour accroître la rentabilité de son entreprise de location immobilière :
+10 L'appelant a tenté de réduire le montant de la dette qui grevait les unités. En 1991, il a accéléré la fréquence des paiements des hypothèques de premier rang des unités en effectuant des versements hebdomadaires plutôt que mensuels, ce qui a permis de réduire sensiblement la période d'amortissement. Il a vendu l'une des unités Park Woods en 1991 et s'est servi du produit de la vente pour rembourser la dette de l'autre unité. En 1994, il avait remboursé les billets à l'égard de toutes les unités. En 1995, l'appelant s'est également retiré de l'accord de mise en commun des locations White Oaks en raison des taux d'inoccupation élevés et d'une mauvaise gestion, et il a fondé sa propre société de gestion. En 1996, il a changé de compagnie de gestion pour l'unité Park Woods.
+[13] Premièrement, il est intéressant de remarquer que, malgré la différence dans leurs compétences et dans leur degré de participation directe, tant M. Stewart que l'appelante se sont en fin de compte retrouvés perdants dans une entreprise qui avait initialement paru prometteuse. Dans l'arrêt Stewart, la Cour suprême du Canada a expressément rejeté l'idée selon laquelle le simple fait que des pertes ont été subies signifie qu'il n'existait aucune source de revenu constituée d'une entreprise. La Cour suprême a poursuivi en citant les commentaires formulés par l'ancien juge en chef Bowman dans la décision Bélec c. La Reine, 94 D.T.C. 1776, à la page 1778 :
+Ce serait [...] inacceptable de permettre au ministre de [dire] au contribuable : « Le fait que tu as perdu de l'argent [...] prouve que tu n'avais pas d'espoir raisonnable de profit, mais dès que tu gagnes de l'argent, ça prouve que maintenant, tu en as. »
+[14] Deuxièmement, appliquer la même norme à l'appelante et à M. Stewart ne tient pas compte de la différence du degré de contrôle que chacun exerçait à l'égard de son entreprise. Le ministre lui‑même a supposé à l'alinéa 5e) de la réponse que MSL [TRADUCTION] « [...] exploitait le centre de villégiature pour le compte des propriétaires des parties privatives »[5]. Par sa nature même, l'entreprise de location du logement ne se prêtait pas au même degré de participation active dont jouissait M. Stewart dans sa propre entreprise. C'est à la lumière de ces faits qu'il convient d'examiner la conduite de l'appelante à l'égard des pertes qu'elle a subies. Au début, elle a simplement accepté les propos rassurants de MSL selon lesquels la situation allait finir par s'arranger. Lorsque les pertes ont continué d'augmenter et qu'elle a commencé à avoir de la difficulté à faire ses paiements hypothécaires, elle a tenté de vendre le logement, la seule véritable « mesure » qu'elle pouvait prendre. Cette tentative s'est soldée par un échec. J'estime raisonnable son explication voulant que la récession subséquente à son acquisition du logement en 1989 a entraîné une dépréciation de celui‑ci. De plus, la location et la revente étaient davantage compliquées par un litige en cours entre MSL et les autorités municipales concernant certains défauts de l'immeuble à condominiums. Enfin, l'aménagement, entre temps, de centres de villégiature semblables dans la région avait réduit la demande pour les logements comme celui de l'appelante.
+[15] Bien que l'historique des pertes présenté à l'alinéa 5j) et au paragraphe 6 de la réponse soit un élément pertinent, je suis convaincue, à la lumière des autres facteurs applicables, que l'appelante s'est acquittée de son obligation d'en réfuter la force probante.
+[16] En définitive, je suis persuadée que la location du logement constituait une source de revenu tiré d'une entreprise pour l'appelante.
+2. Quelles dépenses peuvent, à juste titre, être déduites?
+Admissions
+[17] À l'audience, l'intimée a admis qu'en 2005 et en 2006, l'appelante avait gagné un revenu de location de 2 218,79 $ et de 304,67 $ et supporté des dépenses d'entreprise au titre des impôts fonciers de 1 519,26 $ et de 793,59 $, respectivement.
+[18] Les seules dépenses toujours en litige sont les sommes déduites en 2005 et en 2006 au titre des contributions aux dépenses communes, de l'intérêt hypothécaire et, en 2005 uniquement, d'une contribution extraordinaire.
+Contributions aux dépenses communes
+[19] En 2005 et en 2006, l'appelante a déduit une somme totale de 2 506,92 $ au titre des contributions aux dépenses communes. Cela correspond à 208,91 $ par mois. À l'audience, elle a estimé que ces frais s'élevaient à environ 223 $ par mois. On a produit en preuve une copie d'une lettre envoyée par l'actuel gestionnaire de l'immeuble à condominiums (pièce A‑1, onglet 13) montrant que les contributions aux dépenses communes pour une partie privative comme celle de l'appelante s'élevaient à 223,53 $ par mois en 2005 et en 2006. L'avocat de l'intimée a fait valoir qu'aucun poids ne devait être accordé à ce document parce qu'il s'agissait de ouï‑dire et qu'une meilleure preuve aurait dû être produite, comme les relevés bancaires de l'appelante.
+[20] Je conviens avec l'avocat de l'intimée que les relevés bancaires auraient constitué une preuve davantage digne de foi que la lettre du gestionnaire de l'immeuble à condominiums. Cependant, même en faisant abstraction de ce document, je n'ai aucune raison de douter du témoignage de vive voix rendu par l'appelante. L'examen de l'état des rajustements lors de la clôture définitive de l'acquisition de la partie privative (pièce R‑1) révèle que, lorsque l'appelante a acheté la partie privative en 1992, les contributions mensuelles aux dépenses communes étaient de 99,20 $. On peut légitimement supposer qu'en 2005, cette somme avait augmenté. Dans ces circonstances, il me semble raisonnable de faire la moyenne des frais initiaux de 99,20 $ et de la somme initialement déduite par l'appelante dans sa déclaration de revenus, soit 208,91 $. Le coût des contributions mensuelles aux dépenses communes s'élèverait donc à 154,06 $, soit 1 848,72 $ par année pour 2005 et 2006.
+Intérêt hypothécaire
+[21] Lorsque l'appelante a initialement acquis son logement, celui‑ci a été grevé d'une hypothèque en faveur du vendeur. Selon son témoignage, elle a commencé en 2002 à ne plus pouvoir effectuer ses paiements et elle a dû hypothéquer sa résidence pour rembourser l'hypothèque que le vendeur avait consentie sur le logement. En 2005 et en 2006, elle a déduit de l'intérêt hypothécaire s'élevant à 4 482 $ et à 4 382,98 $, respectivement.
+[22] Le seul document présenté à l'appui de sa déduction était une copie papier des calculs d'intérêts effectués à l'aide d'une calculatrice de versements hypothécaires sur Internet. Ces calculs se fondaient sur un capital s'élevant à 79 200 $ et un taux d'intérêt de 6,05 % amorti sur une période de 25 ans pour une durée de cinq ans (pièce A‑1, onglet 11). Toutefois, aucun élément n'étayait le recours à ces variables pour les calculs. L'appelante n'a pas témoigné au sujet des conditions de l'hypothèque. De plus, rien ne corroborait son témoignage voulant que le produit de l'hypothèque consentie sur sa résidence ait servi à rembourser l'hypothèque grevant le logement. Dans ces circonstances, l'appelante n'a pas réussi à établir qu'elle avait le droit de déduire l'intérêt hypothécaire déclaré.
+Contribution extraordinaire
+[23] En 2005 uniquement, l'appelante a déduit 2 191 $ au titre d'une contribution extraordinaire établie par l'association condominiale afin de payer les frais supportés pour enlever et remplacer le recouvrement du bâtiment. L'avocat de l'appelante a fait valoir que ce paiement palliait une insuffisance dans le budget d'exploitation de l'association condominiale et qu'il devait donc être déductible. Cependant, l'avocat de l'intimée m'a convaincue qu'il s'agissait en réalité d'une dépense au titre du capital, laquelle n'est donc pas déductible suivant l'alinéa 18(1)b) de la Loi.
+Conclusion
+[24] Les appels interjetés à l'égard des nouvelles cotisations établies relativement aux années d'imposition 2005 et 2006 sont accueillis et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux présents motifs du jugement. Comme les parties ont chacune eu partiellement gain de cause dans la présente instance, chaque partie assumera ses propres dépens.
+Signé à Vancouver (Colombie-Britannique), ce 27e jour de février 2012.
+« G. A. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 16e jour de mai 2012.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2012 CCI 66
+NO DU DOSSIER DE LA COUR : 2010-1454(IT)G
+INTITULÉ : Mary Kelly c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 1er décembre 2011
+MOTIFS DU JUGEMENT : L'honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 27 février 2012
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jeffrey Radnoff
+Avocat de l'intimée :
+Me Thang Trieu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Me Jeffrey Radnoff
+Cabinet : Radnoff Law Offices
+Barristers and Solicitors
+375, avenue University, bureau 701
+Toronto (Ontario)
+M5G 2J5
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Précité.
+[2] Transcription, page 48, lignes 8 à 12.
+[3] Au paragraphe 7.
+[4] Précité.
+[5] À l'alinéa 5e) de la réponse.

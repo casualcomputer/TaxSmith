@@ -1,0 +1,264 @@
+---
+title: "Monsell v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/362192/index.do"
+last_modified: "2019-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 5"
+citation2: ""
+neutral_citation: "2019 TCC 5"
+decision_date: "2019-01-30"
+language: "en"
+item_id: "362192"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4350
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:20:43.588000+00:00"
+cases_cited_count: 6
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c0a92cbe631d7f3f67c27f136dae0a5ba805edbb3de095fd6952ddc81e773426"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Monsell v. The Queen
+
+- Citation: 2019 TCC 5
+- Decision date: 2019-01-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4350, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Monsell v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-01-30
+Neutral citation
+2019 TCC 5
+File numbers
+2016-2457(IT)I, 2016-2466(IT)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-2466(IT)G
+BETWEEN:
+TAMMY ANNE MONSELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of Peter William Molander 2016-2457(IT)I, on October 29, 2018, at Vancouver, British Columbia.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the Appellant:
+Theodore Stathakos
+Counsel for the Respondent:
+E. Ian Wiebe
+JUDGMENT
+The appeal from the assessment made under section 160 of the Income Tax Act, notice of which is dated January 5, 2015, with respect of the 2007 taxation year, is dismissed in accordance with the attached Reasons for Judgment.
+Without costs.
+Signed at Ottawa, Canada, this 30th day of January 2019.
+“Johanne D’Auray”
+D’Auray J.
+Docket: 2016-2457(IT)I
+BETWEEN:
+PETER WILLIAM MOLANDER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of Tammy Anne Monsell, 2016-2466(IT)G, on October 29, 2018, at Vancouver, British Columbia.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the Appellant:
+Theodore Stathakos
+Counsel for the Respondent:
+E. Ian Wiebe
+JUDGMENT
+The appeal from the assessment made under section 160 of the Income Tax Act, notice of which bears number 2958058 and is dated January 8, 2015, is dismissed in accordance with the attached Reasons for Judgment.
+Without costs.
+Signed at Ottawa, Canada, this 30th day of January 2019.
+“Johanne D’Auray”
+D’Auray J.
+Citation: 2019 TCC 5
+Date: 20190130
+Docket: 2016-2466(IT)G
+BETWEEN:
+TAMMY ANNE MONSELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-2457(IT)I
+AND BETWEEN:
+PETER WILLIAM MOLANDER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Auray J.
+I. Overview
+[1] The appeals of Tammy Anne Monsell, 2016-2466(IT)G and Peter William Molander, 2016-2457(IT)I, were heard on common evidence. These reasons apply to both appeals and I direct that a copy be placed on the Court files for both appeals.
+[2] On January 5, 2015, the Minister of National Revenue (the “Minister”) assessed Ms. Monsell and Mr. Molander under section 160 of the Income Tax Act (the “Act”) in the amounts of $41,500 and $15,000 respectively.
+[3] The respondent submits that the Minister correctly assessed the appellants since all the conditions under section 160 of the Act are satisfied. The Minister assessed the appellants on the basis that they had received transfers of monies from a tax debtor, Newgate Holdings Ltd. (“Newgate”). At the time of the transfers, the appellants and Newgate were not dealing at arm’s length. Newgate did not receive any consideration from the appellants in return for the transfers.
+[4] The appellants’ position is that the assessments should not stand since the reassessments against Newgate dated December 12, 2008 for its 2005, 2006 and 2007 taxation years (the “underlying reassessments”) are incorrect in fact and in law. The appellants also submit that, since all the documents and information related to the underlying reassessments were, and are, in the possession of the Canada Revenue Agency (the “CRA”), the onus is on the respondent to prove the correctness of the underlying reassessments.
+[5] With respect to Newgate’s underlying reassessments for the 2005 and 2006 taxation years, the respondent argues that because of the appellants’ connection with Newgate, the burden of proof should not be reversed and the appellants bear the burden of proving that the underlying reassessments are incorrect. In addition, the respondent also submits that as the changes made by the auditor at the CRA were accepted by Newgate, the underlying reassessments are correct in fact and in law.
+[6] With respect to Newgate’s underlying reassessment for the 2007 taxation year, the respondent argues that because Newgate’s 2007 income tax return was available to the appellants, they bear the burden of proving that the underlying reassessment is incorrect. The respondent argues that in any event, on the face of the income tax returns filed by Newgate and its associated corporation, 0698807 British Columbia Ltd. (“807 BC Ltd.”), Newgate’s underlying reassessment for the 2007 taxation year is correct in fact and in law.
+II. FACTS
+[7] The appellants did not dispute many of the facts set out in the Minister’s assumptions of fact in the Replies to Notices of Appeal. I have set out the facts in the Replies which were not contested below. I have also included comments and some additional findings and have indicated where I did so.
+13. In determining [Ms. Monsell’s] tax liability under section 160 of the Act, the Minister made the following assumptions of fact:
+a) [Ms. Monsell] is married to Peter Molander (“Peter”);
+b) Peter is the son of Nellie Karsten (“Nellie”);
+c) Nellie was the sole shareholder and director of Newgate Holdings Ltd (“Newgate”);
+d) Nellie was the sole shareholder of 0698807 British Columbia Ltd.;
+e) Nellie died on February 27, 2010;
+Newgate Holdings Ltd
+f) Newgate was incorporated in British Columbia in 1997;
+g) Newgate’s tax year-end date was September 30;
+h) Newgate was dissolved on September 10, 2012;
+i) Newgate’s primary business activity was land sales and development;
+. . .
+k) Peter held signing authority on behalf of Newgate [the evidence showed that Mr. Molander had cheque-signing authority only];
+l) Newgate’s net business revenues were:
+i) $380,202.21 for the taxation year ending September 30, 2005; and
+ii) $88,789.97 for the taxation year ending September 30, 2006;
+. . .
+Reassessments of Newgate
+n) in filing its income tax returns, Newgate reported net income for tax purposes for its 2005 and 2006 taxation years as ($61,844) and $28,274 respectively;
+o) on December 12, 2008, the Minister reassessed Newgate’s 2005 and 2006 taxation years to increase Part I tax owing by $74,929 and $18,391 respectively;
+p) on December 12, 2008, the Minister reassessed Newgate’s 2007 taxation year to increase Part I tax owing by $25,452;
+q) Newgate did not object to any of the reassessments of its 2005, 2006 and 2007 taxation years;
+r) Newgate has not paid the tax owing or associated interests in respect of its 2005, 2006 or 2007 taxation years;
+Transfers to [Ms. Monsell]
+s) between February and June 2007, Newgate issued cheques in favour of [Ms. Monsell] totalling $41,500;
+t) the cheques were signed by Peter;
+u) [Ms. Monsell] deposited the cheques issued to her by Newgate; and;
+v) [Ms. Monsell] did not pay any consideration for the cheques issued to her by Newgate.
+On January 5, 2015, [Ms. Monsell] was assessed pursuant to section 160 of the Act for an amount of $41,500. [my addition]
+[8] And with regards to Mr. Molander:
+Transfers to [Mr. Molander]
+r) between April and July 2007. Newgate issued cheques in favour of the [Mr. Molander] totalling $15,000;
+s) the cheques were signed by [Mr. Molander];
+t) [Mr. Molander] deposited the cheques issued to him by Newgate; and;
+u) [Mr. Molander] did not pay any consideration for the cheques issued to him by Newgate.
+On January 8, 2015, [Mr. Molander] was assessed pursuant to section 160 of the Act for an amount of $15,000. [my addition]
+III. Law
+[9] The applicable section in this appeal is subsection 160(1) of the Act. The section states as follows:
+160(1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common- law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally, or solidarily, liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted for it, and
+(e) the transferee and transferor are jointly and severally, or solidarily, liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act (including, for greater certainty, an amount that the transferor is liable to pay under this section, regardless of whether the Minister has made an assessment under subsection (2) for that amount) in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection limits the liability of the transferor under any other provision of this Act or of the transferee for the interest that the transferee is liable to pay under this Act on an assessment in respect of the amount that the transferee is liable to pay because of this subsection.
+[10] This subsection applies when there is a transfer of property between persons not dealing at arm’s length, and at the time of the transfer, the transferor had a tax debt and the transferee does not give any consideration or gives a consideration less than the value of the property that he or she has received from the transferor.
+IV. ISSUES
+[11] I will begin by stating what is not in issue. First, in 2007, Mr. Molander and Ms. Monsell received cheques from Newgate, totalling $41,500 for Ms. Monsell and $15,000 for Mr. Molander.
+[12] Second, at the time of the transfers, Mr. Molander and Ms. Monsell were not dealing at arm’s length with Newgate.
+[13] Third, the appellants conceded that they could not establish that consideration had been given by them to Newgate in exchange for the amounts they received.
+[14] Finally, at the time of the transfers to the appellants, Newgate had been reassessed taxes for the 2005, 2006 and 2007 taxation years in amounts exceeding $130,000, $50,000 and $70,000 respectively.
+[15] In these appeals, the appellants’ position is that the assessments issued against them under section 160 of the Act were based on Newgate’s underlying reassessments for its 2005, 2006 and 2007 taxation years. The appellants argue that these underlying reassessments are incorrect in fact and in law. Accordingly, the appellants submit that their assessments under subsection 160 of the Act, should be vacated and their appeals allowed.
+[16] Therefore, the questions in issue deal with the underlying reassessments of Newgate, more particularly:
+a) Who has the burden of proof with respect to the underlying reassessments of Newgate for its 2005, 2006 and 2007 taxation years?
+b) Are the underlying reassessments correct in fact and in law?
+[17] The answers to these questions will determine if the Minister has correctly assessed the appellants under section 160 of the Act.
+V. POSITION OF THE PARTIES
+[18] The appellants submit that the onus is on the Minister to prove the correctness of the underlying reassessments of Newgate for its 2005, 2006 and 2007 taxation years, since the relevant tax records of Newgate were never in their possession. Rather, the tax records were within the custody and control of the CRA. In addition, the appellants argue that the respondent has not met the onus of establishing that the underlying reassessments are correct in fact and in law. Therefore, the section 160 assessments, which are based on incorrect underlying reassessments, should be vacated and the appeals allowed.
+[19] With respect to the question of onus, the respondent argues that the appellants bear the burden of establishing that the underlying reassessments are incorrect. For the 2005 and 2006 taxation years, the respondent points out that Mr. Molander played a role in managing Newgate’s business project in those years. There was therefore a sufficient connection with Newgate to justify not reversing the onus with respect to those taxation years. In addition, the respondent submits that the reassessments for the 2005 and 2006 taxation years are correct in fact and in law, since they reflect the changes proposed by Newgate.
+[20] With respect to the 2007 taxation year, the respondent submits that because the appellants had access to Newgate’s tax return for the year, they must bear the burden of proof and establish that the underlying reassessment is incorrect. In any event, the respondent submits that the evidence demonstrates that the underlying reassessment for the 2007 taxation year is correct in fact and in law.
+VI. ANALYSIS
+(a) Who has burden of proof?
+[21] The case law is clear that a taxpayer faced with a section 160 assessment may challenge the underlying reassessment of the person whose tax debt gives rise to the section 160 assessment (i.e. the tax debt owed by the tax debtor). [1] As a result, the appellants are entitled to challenge the correctness of Newgate’s underlying reassessments for its 2005, 2006 and 2007 taxation years.
+[22] The general rule in tax appeals is that the taxpayer bears the onus of establishing that an assessment or reassessment is incorrect. In certain circumstances, and contrary to the general rule, “where the facts concerning the underlying reassessments are exclusively or peculiarly within the knowledge of the Minister, the onus will shift to the Minister to show the correctness of the underlying reassessments.” [2]
+[23] For instance, in Andrew v R, [3] Justice Paris applied the exception where the taxpayer “does not have and cannot obtain the information required to verify the existence or amount of the underlying tax liability”.
+[24] The exception exists to ensure fairness. The determination of whether the onus will shift to the Minister to establish the underlying reassessments will depend on the facts of each case.
+[25] Mr. Molander testified that he was only involved in the marketing and the sale side of a joint venture, where Newgate was one of many participants. He stated that he was not involved in the administration, accounting or preparation of the income tax returns for Newgate for its 2005, 2006 and 2007 taxation years. He testified that it was his mother, Nellie Karsten, who was involved in the administration, accounting and preparation of the income tax returns of Newgate. She was also the one who kept the corporation’s records and dealt with Newgate’s accountant, Mr. Moberly. Mr. Molander also testified that he did not have knowledge of the current whereabouts of the records. For her part, Ms. Monsell testified that she had had no involvement whatsoever with Newgate or in the preparation of its tax returns. I have no reason to disbelieve the testimony of Ms. Monsell and Mr. Molander on these points.
+[26] Mr. Molander stated that he made efforts to locate the tax records of Newgate but to no avail. Mr. Molander was also unsuccessful in obtaining Newgate’s documents from the CRA through an access to information request. Newgate stopped its operations around the time Mrs. Karsten passed away in 2010.
+[27] Mr. Wensley, Excise Tax Auditor at CRA, who audited Newgate for its 2005 and 2006 taxation years, testified that the CRA’s file showed that it had received documents from Newgate allowing the CRA to perform an audit. [4] However, he testified that after his audit was completed, he forwarded Newgate’s documents to the Vancouver Appeals office. He did not know what happened to the documents after that. Mr. Wensley stated that the CRA could not find any documents pertaining to the 2005 and 2006 taxation years, including the original income tax returns filed by Newgate. Mr. Wensley explained that when documents are returned to a taxpayer, the taxpayer is asked to sign and return to the CRA a receipt (Form T2213) acknowledging that the documents have been returned. The receipt is usually available at the CRA. If the documents are sent by courier, CRA will also have a receipt to prove that the documents have been returned. No such Form T2213 or courier receipt was found for Newgate’s 2005 and 2006 tax documents. In cross-examination, he agreed that documents of Newgate could either have been destroyed or lost by the CRA.
+[28] Although Mr. Molander and Ms. Monsell were not dealing at arms’ length with Newgate, Mr. Molander testified that he was never involved with the management side of Newgate. He stated that the only authority he had was for signing cheques. In addition, the appellants never had control or access to Newgate’s tax records. As these documents are no longer available, the appellants are not in a position to challenge the correctness of the underlying reassessments for the 2005 and 2006 taxation years. The evidence showed that Newgate’s documents were at one time within the custody and the control of the CRA. However, the CRA is no longer capable of retrieving the Newgate’s documents. The only possible explanations are that the CRA lost or destroyed the documents. In light of this evidence, it would be unfair to place the onus on the appellants. The Minister must bear the burden of establishing the correctness of the underlying reassessments for the 2005 and 2006 taxation years.
+[29] I now turn to the 2007 taxation year. The situation for this year is different. The appellants had available to them Newgate’s 2007 income tax return, as well as that of its associated corporation 807 BC Ltd. As no audit was performed by the CRA for Newgate’s 2007 taxation year, the Minister relied solely on the income tax returns filed by both corporations to reassess Newgate.
+[30] In the decision of Arsenault v R, [5] Justice de Montigny of the Federal Court of Appeal stated that the usual burden of proof should not be shifted too lightly when the documents are available to the taxpayers:
+[8] Citing a previous Tax Court of Canada decision (Mignardi v. The Queen, 2013 TCC 67, [2013] TCJ No. 66), the judge reiterated that the burden of proof is not to be shifted lightly, and that the Minister is not be required to prove the existence of a tax debt, except in the event that the Minister has particular knowledge of the facts pertaining to this debt. In that case, the judge was of the opinion that there was no need to shift the burden of proof since the tax debtor was the appellant’s husband and the appellant was able to obtain the information needed to challenge the underlying assessment.
+[31] Therefore, in my view, because the documents relevant to the underlying reassessment of Newgate for the 2007 taxation year were available to the appellants, they had the burden of establishing that the Minister incorrectly reassessed Newgate for its 2007 taxation year.
+(b) Are the underlying reassessments correct?
+[32] In Gestion Yvan Drouin Inc. v The Queen, [6] Justice Archambault commented that typically prima facie evidence of the existence of a tax liability will require more than simply producing the tax debtor’s notice of assessment: “the Minister usually has in his possession the tax debtor’s tax return and, if he has carried out an audit, he may have copies of the source documents or other relevant documents supporting his assessment”.
+[33] As is mentioned above, the income tax returns and the other documents given by Newgate to the CRA for its 2005 and 2006 taxation years were not produced, having been lost or destroyed by the CRA. Instead, the respondent relied upon the audit report prepared by Mr. Wensley’s on Newgate and the proposal reassessment letter also prepared by Mr. Wensley. However, these documents did not explain in adequate detail why Newgate’s income had been increased by the CRA for these years. In addition, Mr. Wensley admitted in cross-examination that he could not explain the basis of the numbers that he used in the proposal letter for Newgate’s income with respect to its 2005 and 2006 taxation years. He admitted that the documents establishing these numbers were no longer available.
+[34] In light of the evidence, I am of the view, that the respondent did not establish that the underlying reassessments were correct in fact and in law for Newgate’s 2005 and 2006 taxation years.
+[35] Turning to the 2007 taxation year, the appellants’ bear the burden of proving that the underlying reassessment was incorrect.
+[36] Newgate was reassessed on December 12, 2008. At trial, it was shown that the effect of the underlying reassessment was to disallow Newgate’s small business deduction. The deduction was disallowed because Newgate and its associated corporation, 807 BC Ltd., made inconsistent filings in this respect.
+[37] According to paragraph 125(3)(b) of the Act, where associated Canadian-controlled private corporations do not all file an agreement that assigns a percentage of the business limit to one or more of them, the business limit is nil. [7]
+[38] The appellants submitted that the Minister had not established that the corporations were associated, since the income tax returns of Newgate and 807 BC Ltd. were inconsistent on the issue of association. The appellants further submitted that the information had to stem from the tax debtor’s income tax return, (Newgate’s), and not from the income tax return of a third party, (807 BC Ltd.).
+[39] The evidence at trial established that the two corporations were associated. Mr. Moberly, CGA, Newgate’s accountant, testified that he had prepared the income tax returns of both Newgate and 807 BC Ltd. for their 2007 taxation year. He stated that Mrs. Karsten owned 100% of the shares of the two corporations. He also conceded that the corporations were associated for the 2007 taxation year.
+[40] In any event, pursuant to paragraph 256(1)(b) of the Act, Newgate and 807 BC Ltd. were associated, since they were both controlled by Mrs. Karsten. Paragraph 256(1)(b) states as follows:
+256(1) For the purposes of this Act, one corporation is associated with another in a taxation year if, at any time in the year,
+. . .
+(b) both of the corporations were controlled, directly or indirectly in any manner whatever, by the same person or group of persons;
+[41] In reassessing Newgate’s 2007 taxation year and applying paragraph 125(3)(b) of the Act, the Minister relied on the income tax returns as filed by Newgate and 807 BC Ltd. No audit was performed by the Minister for the 2007 taxation year of Newgate and no changes were made by Minister. Since the small business deduction is shared among associated corporations, it was open to the Minister to rely on the income tax returns of Newgate and 807 BC Ltd. income tax returns, to reassess Newgate.
+[42] In my view, the appellants did not meet their burden of establishing that the underlying reassessment of Newgate was incorrect for the 2007 taxation year. Furthermore, I am satisfied that the Minister correctly reassessed Newgate for its 2007 taxation year.
+[43] While I have found that the respondent did not establish the correctness of the underlying reassessments for the 2005 and 2006 taxation years, my conclusion on the 2007 taxation year is sufficient to dismiss the appeals. The tax debt owed by Newgate in 2007 was at least $70,000 and the transfers of money received by the appellants totalled $56,500, namely for $41,500 for Ms. Monsell and $15,000 for Mr. Molander. Since the tax debt of Newgate in the 2007 taxation year was higher than the transfer of monies, section 160 of the Act, applies.
+[44] In sum, the conditions for the application of section 160 of the Act are met: monies were transferred by Newgate to the appellants, the appellants and Newgate were not dealing at arm’s length, no consideration was given by the appellants for the amounts that they received from Newgate, and Newgate had a tax debt owing at the time of the transfers.
+[45] The appeals are therefore dismissed without costs.
+Signed at Toronto, Ontario, this 30th day of January 2019.
+“Johanne D’Auray”
+D’Auray J.
+CITATION:
+2019 TCC 5
+COURT FILE NO.:
+2016-2466(IT)G
+2016-2457(IT)I
+STYLE OF CAUSE:
+TAMMY ANNE MONSELL v HER MAJESTY THE QUEEN
+PETER WILLIAM MOLANDER v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+October 29, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+January 30, 2019
+APPEARANCES:
+Counsel for the Appellants:
+Theodore Stathakos
+Counsel for the Respondent:
+E. Ian Wiebe
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Theodore Stathakos
+Firm:
+McCarthy Tetrault LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Gaucher v R, 2000 DTC 6678, [2001] 1 CTC 125 (Fed. CA). The Federal Court of Appeal recently reiterated this in Canada v 594710 British Columbia Ltd., 2018 FCA 166 at paragraph 5.
+[2] Mignardi v R, 2013 TCC 67 at paragraph 41.
+[3] Andrew v R, 2015 TCC 1 at paragraph 64.
+[4] See Exhibit A-1, Form T2213 proving that Newgate sent and that the CRA received the documents. See also Exhibit R-10, List of Documents that was requested by CRA and received by CRA.
+[5] Arsenault v R, 2016 FCA 225.
+[6] Gestion Yvan Drouin Inc. v The Queen, 2001 DTC 72.
+[7] See also Deneschuk Building Supplies Ltd. v R, 96 DTC 1467, [1996] 3 CTC 2039.

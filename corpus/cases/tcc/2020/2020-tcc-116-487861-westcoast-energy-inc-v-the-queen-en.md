@@ -1,0 +1,402 @@
+---
+title: "Westcoast Energy Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/487861/index.do"
+last_modified: "2020-10-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 116"
+citation2: ""
+neutral_citation: "2020 TCC 116"
+decision_date: "2020-10-28"
+language: "en"
+item_id: "487861"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4637
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:01:59.641000+00:00"
+cases_cited_count: 8
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9e3c4dec069b0fd58a0baa83789558eb5b9ea8facd6bc90ebfec5f22d9bb474b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Westcoast Energy Inc. v. The Queen
+
+- Citation: 2020 TCC 116
+- Decision date: 2020-10-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4637, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Westcoast Energy Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-10-28
+Neutral citation
+2020 TCC 116
+File numbers
+2018-579(GST)I
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2018-579(GST)I
+BETWEEN:
+WESTCOAST ENERGY INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 25, 2019 and October 16, 2019,
+at Calgary, Alberta; and written submissions received from the Respondent on November 29, 2019 and from the Appellant on December 19, 2019.
+By: The Honourable Justice Don R. Sommerfeldt
+Appearances:
+Counsel for the Appellant:
+David Douglas Robertson, Scott Joly
+Counsel for the Respondent:
+Adam Pasichnyk
+JUDGMENT
+The Appeal is dismissed, without costs.
+Signed at Edmonton, Alberta, this 28th day of October 2020.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+Citation:2020 TCC 116
+Date:20201028
+Docket: 2018-579(GST)I
+BETWEEN:
+WESTCOAST ENERGY INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sommerfeldt J.
+I. INTRODUCTION
+[1] This Appeal considers the question of whether an employer may claim an input tax credit (an “ITC”) in respect of a payment or reimbursement of the goods and services tax (“GST”) or harmonized sales tax (“HST”) imposed in respect of the cost of a health care service provided pursuant to a health care benefit plan made available by the employer to its employees.
+[2] This Appeal was instituted by Westcoast Energy Inc. (“Westcoast”) in respect of a (re)assessment (the “Reassessment”) issued by the Canada Revenue Agency (the “CRA”) on behalf of the Minister of National Revenue (the “Minister”) for the reporting period December 1, 2015 to December 31, 2015.
+II. FACTS
+[3] Westcoast is a corporation that was incorporated pursuant to the laws of Canada and that carries on the business of gathering, processing, transmitting, storing and distributing natural gas and natural gas liquids. During the period of approximately 2010 to 2015, Westcoast carried on business under the name of “Spectra Energy Transmission” or “Spectra Energy.” In 2017, Westcoast was acquired by, and subsequently amalgamated with, Enbridge Inc. (“Enbridge”).
+[4] As part of its contractual arrangements with its employees, Westcoast agreed to provide certain benefits, including health care benefits, for its employees. In particular, pursuant to section 11.1 of an agreement (the “Non-Union Agreement”), dated February 17, 2011, between Spectra Energy (i.e., Westcoast) and the Canadian Pipeline Employees’ Association, Westcoast agreed to provide group life and accident insurance, short-term and long-term disability, a retirement plan, a savings plan, extended health benefits, a dental plan and vision care to the employees covered by that agreement. As well, pursuant to section 9.01 of an agreement (the “Union Agreement”), dated May 20, 2011, between Spectra Energy (i.e., Westcoast) and Communications, Energy and Paperworkers Union Local 862, Westcoast agreed to provide group insurance, short-term and long-term disability, a retirement plan, a savings plan, medicare and extended health benefits, compassionate leave and a dental plan to its employees covered by that agreement. The extended health benefits under both agreements encompassed a variety of benefits, including the provision of acupuncture, massage therapy, naturopathy and homeopathy services, which are the four services (the “Subject Services”) that are the subject of this Appeal. [1]
+[5] The extended health benefits provided under Westcoast’s various benefit plans were also available to the spouse and minor children of a Westcoast employee, provided that the employee so chose.
+[6] At the time of the hearing of this Appeal, Richard DeBoer was the manager of pensions and benefits for Enbridge. During the period that is relevant for this Appeal (i.e., approximately October 2011 through December 2015), Mr. DeBoer was involved in managing Westcoast’s benefit plans. Mr. DeBoer testified that it was in the best interests of Westcoast to have a healthy workforce, as the economic cost to Westcoast of a sick or injured employee was quite high. In other words, Westcoast’s productivity was enhanced by promoting the health of its workforce. Mr. DeBoer stated that Westcoast regularly compared its benefits against those provided by the top 20 of its competitors in the energy industry. Westcoast regularly updated and enhanced its benefits so as to remain competitive in hiring and retaining employees.
+[7] For its non-unionized employees, beginning in 1999, Westcoast provided a flexible benefits and pension program (the “Choices Program”), to enable employees to customize their respective benefit packages. Pursuant to the Choices Program, near the end of each year, Westcoast allocated a particular number of flex credits to each employee, to be applied toward the cost of the benefits to be enjoyed by the particular employee in the following year. Each employee was entitled to allocate those flex credits among the various benefits that were potentially available. The flex credits had a notional monetary amount. The benefits that were offered by Westcoast had monetary costs allocated to them, which varied from benefit to benefit and from one level to another within a particular benefit. To obtain benefits for a spouse or other family member, an employee was required to allocate some of the employee’s flex credits to such benefits. Subject to a few guidelines, each employee was at liberty to allocate his or her flex credits among the various benefits (and levels within those benefits), as he or she desired.
+[8] Some of the benefits came within subparagraph 6(1)(a)(i) of the Income Tax Act (the “ITA”), [2] such that they were not included in computing the income of the employees for the purposes of the ITA. Mr. DeBoer indicated that some of the benefits under the Choices Program were taxable, such as life insurance, accidental death insurance and a long-term disability option. [3] If an employee did not allocate all of his or her flex credits to benefits, the monetary amount of the credit was paid to the employee as additional wages or salary, and thus was taxable. [4]
+[9] The various benefits offered by Westcoast could be acquired only with flex credits. An employee could not pay cash to acquire additional benefits.
+[10] As noted above, benefits were selected on an annual basis, with the selection for a particular year occurring late in the preceding year. Once benefits were selected for a year, they could not be changed. Furthermore, unused benefits in a particular area (such as dental) could not be reallocated to another area (such as optical). Similarly, unused benefits available to one employee could not be shifted to another employee, nor could unused benefits available to one family member be shifted to another family member.
+[11] Many of the benefits, including the provision of the Subject Services, were self-funded by Westcoast. In other words, Westcoast did not acquire insurance to fund those benefits. [5]
+[12] To facilitate the provision of the benefits to its employees, Westcoast retained the services of The Manufacturers Life Insurance Company (“Manulife”). Two agreements between Westcoast and Manulife were entered into evidence. One agreement, dated January 1, 2006, required Manulife to maintain certain insurance coverages (specifically, Workers’ Compensation, commercial general liability insurance and automobile insurance) and to include Westcoast as an additional insured. [6] The other agreement was dated January 1, 2008 and was entitled “Administrative Services Only Contract” (the “ASO Contract”). [7] Pursuant to the ASO Contract, Westcoast retained Manulife to administer many of Westcoast’s benefit plans, including Plans 85336 and 84727, which were the plans pursuant to which the Subject Services were provided to the non-unionized employees and the unionized employees respectively. Pursuant to paragraph 4(a) of the ASO Contract, Westcoast retained all final authority and responsibility for each plan and its operation, and Manulife was empowered to act on behalf of Westcoast in connection with each plan to the extent contemplated by the ASO Contract. The parties to the ASO Contract acknowledged that Manulife acted as the agent of Westcoast.
+[13] Pursuant to section 8 of the ASO Contract, Westcoast agreed to maintain an Operating Fund with Manulife, and Westcoast authorized Manulife to issue benefit payments from the Operating Fund under each plan on behalf of Westcoast. The expectation of the parties was that Westcoast would always ensure that there was sufficient money in the Operating Fund to enable Manulife to pay for all benefits as they arose. Accordingly, paragraph 8(g) of the ASO Contract provided that, if there was a deficit in the Operating Fund at the end of a particular calendar year, Westcoast was to pay the amount of the deficit, with interest, to Manulife, and, if there was a surplus in the Operating Fund at the end of the year, Manulife was to credit the balance, with interest, to the Operating Fund for the next year or to refund the balance, with interest, to Westcoast. Westcoast conscientiously kept sufficient money in the Operating Fund to cover the cost of all benefits as they arose. In fact, Mr. DeBoer testified that, during the 20 years that he had been involved with the plans, there had never been a deficit in the Operating Fund. [8]
+[14] Mr. DeBoer testified that the money in the Operating Fund was held by Manulife but controlled by Westcoast.
+[15] The amounts paid by Westcoast to fund the provision of the Subject Services were represented by deposits into the Operating Fund. Westcoast did not pay any premiums toward the cost of the Subject Services.
+[16] Manulife was entitled to receive a fee on a periodic basis for its services under the ASO Contract. Manulife took that fee from the Operating Fund.
+[17] There were several methods whereby an employee of Westcoast could enjoy a particular benefit:
+a) Upon receiving a particular health care service, the employee could pay the cost thereof to the health care provider, after which the employee could submit a written claim form and the receipt for the cost of the service to Manulife, which would use money from the Operating Fund to reimburse the employee.
+b) Upon receiving a particular health care service, the employee could pay the cost thereof to the health care provider, after which the employee could submit an electronic claim for the cost of the service to Manulife, which would use money from the Operating Fund to reimburse the employee.
+c) Upon an employee receiving a particular health care service from a health care provider registered with Manulife for direct billing, the health care provider could submit an electronic claim to Manulife, whereupon Manulife would use money from the Operating Fund to pay the health care provider directly.
+[18] While the supplies of some of the benefits, such as dental or optical, were exempt for the purposes of the Excise Tax Act (the “ETA”), [9] the supplies of the Subject Services were taxable for the purposes of the ETA. [10] When Manulife reimbursed or paid the cost of a Subject Service, it also included in the reimbursement or payment any GST/HST that was applicable.
+[19] Over a four-year period (2011-2015), Manulife, on behalf of Westcoast, reimbursed or paid the cost of various Subject Services provided to some of the employees of Westcoast or to members of their respective families, together with GST/HST in the aggregate amount of $20,576. In December 2015, Westcoast claimed ITCs in respect of that amount. By Notice of (Re)assessment dated July 18, 2017, the CRA, on behalf of the Minister, disallowed those ITCs. [11]
+III. ADMISSIONS
+[20] In its Amended Amended Amended Reply, the Crown admitted a number of the factual paragraphs pleaded by Westcoast in its Notice of Appeal. The Crown also admitted a substantial portion of another paragraph in the Notice of Appeal. The paragraphs which the Crown has admitted are the following:
+2. The Appellant is a corporation involved in the gathering, processing, transmission, storage and distribution of natural gas and natural gas liquids.
+3. The Appellant’s head office is located at Suite 200, 425, 1st Street SW, Calgary, Alberta, T2P 3L8.
+4. The Appellant is registered for Canadian goods and services tax (“GST”) under registration number XXXXX XXXX RT0001.
+5. The Appellant’s appeal is being made in respect [of] the Minister of National Revenue’s (the “Minister”) assessment of the Appellant’s net tax for its GST/HST reporting period ending on 31 December 2015 by which the Minister increased the Appellant’s net tax, in part, on the basis that the Appellant was not entitled to claim certain input tax credits (the total sum of which is $20,576), and the Minister’s concurrent assessment of arrears interest thereon, all as evidenced by the Notice of (Re)Assessment dated 18 July 2017 and numbered 16029000132330757 (the “Assessment”).
+6. The Appellant objected to the Assessment by filing a Notice of Objection with the Canada Revenue Agency (“CRA”) on 13 October 2017.
+7. The Minister sent a Notice of Confirmation to the Appellant on 12 February 2018 confirming the Assessment….
+9. As part of its contractual arrangements with its employees, the Appellant agrees to provide certain benefits for its employees, including healthcare benefits.
+10. During the period from October 2011 to December 2015, the Appellant provided healthcare benefits for its employees through self-funded employee benefits plans (the “Benefits Plan”)….
+15. Certain of the benefits provided by the Appellant under the Benefits Plan for its employees were subject to GST/HST (“Healthcare Expenses”), including:
+a. acupuncture;
+b. massage therapy;
+c. naturopathy; and
+d. homeopathy….
+17. In filing its GST/HST returns for the reporting period ending 31 December 2015, the Appellant claimed input tax credits in the amount of $20,576 in respect of the GST/HST … in respect of Healthcare Expenses (the “ASO ITCs”).
+18. The CRA subsequently undertook an audit of the Appellant, which included a review of its GST/HST reporting period ending 31 December 2015.
+19. In the course of its audit, the CRA proposed to deny the ASO ITCs claimed.
+20. As a result, the CRA on behalf of the Minister, by way of the Notice of Assessment dated 18 July 2017 and numbered 16029000132330757, reassessed the Appellant’s net tax for its GST/HST reporting period ending 31 December 2015 and in doing so, denied all of the ASO ITCs claimed by the Appellant in the period (the total sum of ASO ITCs denied being $20,576), plus arrears interest thereon.
+IV. ISSUE
+[21] The issue in this Appeal is whether subsections 169(1) and 175(1) of the ETA permit Westcoast to claim ITCs with respect to the GST/HST paid in respect of the supplies of the Subject Services that were provided pursuant to Westcoast’s benefits program for its employees.
+V. ANALYSIS
+A. Statutory Provisions
+[22] The statutory provision that permits the claiming of an ITC is subsection 169(1) of the ETA, the relevant portion of which states:
+169(1) Subject to this Part, where a person acquires ... property or a service ... and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply ... becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) [n/a],
+(b) [n/a], and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired ... the property or service ... for consumption, use or supply in the course of commercial activities of the person.
+[23] For the purposes of this Appeal, the above provision of the ETA sets out three conditions that must be satisfied by a person to be eligible to claim an ITC, as follows:
+a) the claimant must have acquired property or a service;
+b) the claimant must have acquired the property or service for consumption, use or supply in the course of its commercial activities; and
+c) GST must have been payable or paid by the claimant in respect of the supply. [12]
+[24] It is the position of the Crown that Westcoast did not acquire the Subject Services, nor did it pay GST or HST in respect of those services. Rather, according to the Crown, the Subject Services were acquired by Westcoast’s employees or their family members, and Westcoast merely paid the health care provider on behalf of the employees or their family members, or reimbursed the employees or their family members for the GST or HST collected by the health care provider from the employees or their family members. [13]
+[25] Westcoast submits that:
+a) in the case of direct-billing arrangements (in which Manulife paid the cost of a Subject Service directly to a health care provider), Westcoast was the recipient of the Subject Service, which it acquired for consumption, use or supply in the course of its commercial activities, and Westcoast paid the GST/HST; and
+b) in all other cases (i.e., in situations where the employee or family member paid the health care provider for the Subject Service and was reimbursed by Westcoast), the deeming provisions in paragraphs 175(1)(a), (b) and (c) of the ETA were sufficient to satisfy the three conditions set out in paragraph 23 above. [14]
+[26] A restriction on the ability of a registrant to claim an ITC is set out in subsection 170(1) of the ETA, the relevant portion of which reads as follows:
+170(1) In determining an input tax credit of a registrant, no amount shall be included in respect of the tax payable by the registrant in respect of
+(a) [n/a];
+(a.1) [n/a];
+(b) a supply … of property or a service that is acquired … by the registrant at any time in or before a reporting period of the registrant exclusively for the personal consumption, use or enjoyment (in this paragraph referred to as the “benefit”) in that period of a particular individual who was, is or agrees to become an officer or employee of the registrant, or of another individual related to the particular individual, except where
+(i) [n/a]; or
+(ii) if no amount were payable by the particular individual for the benefit, no amount would be included under section 6 of the Income Tax Act in respect of the benefit in computing the income of the particular individual for the purpose of that Act….
+[27] Westcoast submits that, for the purposes of subparagraph 6(1)(a)(i) of the ITA, the Subject Services were made available to Westcoast’s employees and their family members pursuant to a private health services plan, with the result that no amount was included under section 6 of the ITA in respect of those services in computing the income of the employees. Therefore, the exception in subparagraph 170(1)(b)(ii) of the ETA precludes the exclusion in paragraph 170(1)(b) of the ETA from applying. [15] The Crown does not dispute that, pursuant to subparagraph 6(1)(a)(i) of the ITA, no amount was required to be included in computing the income of Westcoast’s employees by reason of the Subject Services being made available to them or their family members. In other words, the Crown has not suggested that the value of a Subject Service received by an employee of Westcoast or a family member should, by reason of paragraph 6(1)(a) of the ITA, be included in computing the income of that employee.
+[28] As noted above, it is Westcoast’s position that, by reason of section 175 of the ETA, the requirements of subsection 169(1) of the ETA were satisfied. The Crown submits that section 175 does not apply in the context of this Appeal for several reasons, one of which is based on the decision of the Federal Court of Appeal in the ExxonMobil case, [16] which dealt with section 174 of the ETA, which is somewhat similar (but only to a limited extent) to section 175 of the ETA. The relevant portions of sections 174 and 175 are set out below:
+174 For the purposes of this Part, where
+(a) a person pays an allowance
+(i) to an employee of the person,
+(ii) [n/a], or
+(iii) [n/a]
+for
+(iv) supplies all or substantially all of which are taxable supplies (other than zero-rated supplies) of property or services acquired in Canada by the employee … in relation to activities engaged in by the person, or
+(v) [n/a],
+(b) an amount in respect of the allowance is deductible in computing the income of the person for a taxation year of the person for the purposes of the Income Tax Act, or would have been so deductible if the person were a taxpayer under that Act and the activity were a business, and
+(c) in the case of an allowance to which subparagraph 6(1)(b)(v), (vi), (vii) or (vii.1) of that Act would apply
+(i) if the allowance were a reasonable allowance for the purposes of that subparagraph, and
+(ii) [n/a],
+the person considered, at the time the allowance was paid, that the allowance would be a reasonable allowance for those purposes and it is reasonable for the person to have considered, at that time, that the allowance would be a reasonable allowance for those purposes,
+the following rules apply:
+(d) the person is deemed to have received a supply of the property or service,
+(e) any consumption or use of the property or service by the employee … is deemed to be consumption or use by the person and not by the employee …, and
+(f) the person is deemed to have paid, at the time the allowance is paid, tax in respect of the supply equal to the amount determined by the formula
+A × (B/C)
+where
+A is the amount of the allowance,
+B is
+(i) in prescribed circumstances relating to a participating province, the percentage determined in prescribed manner, and
+(ii) in any other case, the rate set out in subsection 165(1), and
+C is the total of 100% and the percentage determined for B.
+175(1) Where an employee of an employer … acquires … property or a service … for consumption or use in relation to activities of the employer … (… which is referred to in this subsection as the “person”), the employee … paid the tax payable in respect of that acquisition … and the person pays an amount to the employee … as a reimbursement in respect of the property or service, for the purposes of this Part,
+(a) the person is deemed to have received a supply of the property or service;
+(b) any consumption or use of the property or service by the employee … in relation to activities of the person is deemed to be consumption or use by the person and not by the employee …; and
+(c) the person is deemed to have paid, at the time the reimbursement is paid, tax in respect of the supply equal to the amount determined by the formula
+A × B
+where
+A is the tax paid by the employee … in respect of the acquisition … of the property or service by the employee …, and
+B is the lesser of
+(i) the percentage of the cost to the employee … of the property or service that is reimbursed, and
+(ii) the extent (expressed as a percentage) to which the property or service was acquired … by the employee … for consumption or use in relation to activities of the person.
+[29] If subsection 175(1) of the ETA applies, the deeming rules in paragraphs 175(1)(a) and (c) enable the person (i.e., the employer) to satisfy two of the requirements for ITC eligibility, as enunciated in the General Motors case and as set out in subparagraphs 23a) and c) above. The deeming rule in paragraph 175(1)(b) is sufficient to satisfy part of the requirement set out in subparagraph 23b) above; i.e., the consumption or use by an employee is deemed to be consumption or use by the employer. [17] Accordingly, a critical issue in this Appeal is to determine whether subsection 175(1) of the ETA was applicable to Westcoast.
+[30] In Brasserie Labatt, Justice Teskey noted that “Sections 174 and 175 [of the ETA] are very similar although the former deals with allowances while the latter with reimbursements.” [18] As set out above, subparagraph 174(a)(iv) refers to supplies of property or services acquired by an employee “in relation to activities engaged in by the person [i.e., the employer],” while subsection 175(1) refers to the acquisition of “property or a service … for consumption or use in relation to activities of the employer.” In other words, paragraph 174(a)(iv) uses the phrase “activities engaged in by the person [i.e., the employer]” and subsection 175(1) uses the phrase “activities of the employer.” The difference in wording raises the question of whether the words “engaged in” constitute a significant difference between the two provisions. In an effort to respond to that question, I have reviewed the terminology used by the Federal Court of Appeal in ExxonMobil. Although the Federal Court of Appeal, in discussing section 174, quoted the statutory phrase “in relation to activities engaged in by [the employer]” in paragraph 39 of its reasons in ExxonMobil, elsewhere in its reasons the Court used several variations of the key elements of that phrase, such as:
+(a) In paragraph 45, the Court referred to the submission of counsel for the Crown concerning “what must be ‘in relation to the activities’ of the employer….”
+(b) In paragraph 46, the Court stated, “the allowances in this case relate to the activities of the appellants [i.e., the employers].”
+(c) In paragraph 47, the Court referred to the Crown’s submission that the property or services in question “do not relate to the appellants’ activities”and contrasted that with “supplies of property or services that are in relation to the activities of the employer….”
+(d) In paragraph 48, in discussing the Zellers case, [19] the Court used the phrase “in relation to the activities in which Zellers was engaged….”
+(e) In paragraph 49, in summarizing an argument by counsel for the appellants in that case, the Court used the phrase “in relation to the activities of the appellants….”
+(f) In paragraph 50, the Court used the phrases “… in relation to the activities of the employer …,” “… no relationship with the employer’s activities”and “… are in relation to the employer’s activities.”
+(g) In paragraph 52, the Court used the phrase “… do not relate to the appellants’ activities.”
+(h) In paragraph 57, the Court used the phrase “… a relation between the supply of property or services which the allowances were intended to fund and their [i.e., the employers’] activities….”
+Thus, for the most part, the Federal Court of Appeal, in referring to the employers’ activities, did not use the words “engaged in.” This suggests that the phrase “activities engaged in by the employer” (which is used in section 174) and the phrase “activities of the employer” (which is used in section 175) have somewhat similar meanings. In turn, the similarity between the two phrases suggests that jurisprudence interpreting section 174 may also be relevant to an interpretation of section 175.
+[31] One of the conditions for the application of subsection 175(1) of the ETA is that the employees of Westcoast who acquired Subject Services must have acquired those services for consumption or use in relation to activities of Westcoast. [20] I will next consider the interpretation of that condition.
+B. Jurisprudence
+[32] To the best of my knowledge, the interpretation and application of subsection 175(1) of the ETA has not previously been judicially considered.
+[33] The key phrases to be interpreted in subsection 175(1) of the ETA are “Where an employee of an employer … acquires … property or a service … for consumption or use in relation to activities of the employer …” and “any consumption or use of the property or service by the employee … in relation to activities of the person [i.e., the employer] …” [emphasis added]. As noted above, the ExxonMobil case dealt with a somewhat similar phrase in section 174, although the actual wording of that phrase was “where … a person pays an allowance … to an employee of the person … for … supplies … of property or services acquired … by the employee … in relation to activities engaged in by the person …” [emphasis added].
+[34] In Nowegijick, the Supreme Court of Canada stated:
+The words “in respect of” are, in my opinion, words of the widest possible scope. They import such meanings as “in relation to”, “with reference to” or “in connection with”. The phrase “in respect of” is probably the widest of any expression intended to convey some connection between two related subject matters. [21] [Emphasis added.]
+Given that the phrase “in relation to” has a meaning that is somewhat similar to the meaning of the phrase “in respect of” and given that the phrase “in respect of” is probably the widest of the various connecting expressions, it follows that the phrase “in relation to” also has a very broad meaning.
+[35] Notwithstanding the broad meaning of the phrase “in relation to,” in ExxonMobil, the Federal Court of Appeal implied, albeit in the context of an allowance, that the ambit of that phrase is not as wide as the appellant in that case had argued. The Court stated:
+In my view, the fact that an allowance is in relation to the activities of the employer (and deductible pursuant to the ITA), does not necessarily mean that the supplies of property or services which it is intended to fund meet this requirement. If meaning is to be given to the words of subparagraph 174(a)(iv), regard must be had to the particular property or services contemplated and their intended use. Applying these criteria, property or services which are intended by the employer for the exclusive personal use of the employees and which lend themselves to such a use bear no relationship with the employer’s activities. In contrast, property or services which can be used by the employees in the course of their employment activities, and which are intended for such a use, are in relation to the employer’s activities. [22]
+[36] In ExxonMobil, the Federal Court of Appeal concluded that the requirement set out in subparagraph 174(a)(iv) of the ETA had not been met, as the supplies of property or services which the allowances were intended to fund were for the exclusive personal use of the employees, and thus did not relate to the employers’ activities. [23]
+[37] The decision of the Federal Court of Appeal in ExxonMobil was followed by the Tax Court of Canada in the City of Whitehorse case, which dealt with a contractual arrangement between The City of Whitehorse (the “City”) and certain of its employees, pursuant to which the City paid an allowance to those employees to fund the purchase of round-trip airline tickets for an annual flight for each particular employee and another person between Whitehorse and either Vancouver or Edmonton. The issue was whether, pursuant to sections 174 and 259 of the ETA, the City was entitled to a rebate of GST in respect of the allowance. [24]
+[38] The more specific question in that case was whether the supply of the flights was in relation to the City’s activities. Justice Sheridan considered the first prong of the test set out in ExxonMobil, namely:
+… property or services which are intended by the employer for the exclusive personal use of the employees and which lend themselves to such a use bear no relationship with the employer’s activities. [25]
+She then considered whether the flights were intended by the City for the exclusive personal use of the employees and whether the flights lent themselves to such a use.
+[39] In the City of Whitehorse case, counsel for the City gave an example of the supply of meal allowances or employee “break” rooms, and noted that the meals would be consumed exclusively by the employees (and not by the employer) and the break room and its furnishings provided a place for employees to relax while on a break; nevertheless, counsel submitted that those supplies would be in relation to the employer’s activities. Justice Sheridan noted that, in that example, the meals and break room would be consumed or used by the employees while they were “required to be on the job.” [26] Applying a similar criterion here, it is difficult to conceive of an employee of Westcoast consuming or using acupuncture, naturopathic or homeopathic treatment while on the job. I acknowledge that on occasion, in some situations, a massage might be given to an employee while the employee is at work; however, I do not think that that alters the overall analysis. Furthermore, the evidence suggests that Westcoast’s employees likely did not receive massages while they were at work. [27]
+[40] Justice Sheridan also considered the “functional connection” test enunciated by Justice Evans in his dissent in the Midland Hutterian Brethren case. [28] In that case, Justice Evans acknowledged that “… for the goods to be acquired for use ‘in the course of commercial activities’, there must be a functional connection between the needs of the business and the goods.” [29] He went on to indicate that a good is not consumed in the process of a commercial activity if the good “satisfies a personal need of the registrant and has only a tenuous connection with the registrant’s commercial activities.” [30] He also stated that the Court must assess the whole factual context and weigh the various factors indicative of a good’s functional integration into the particular commercial activity. [31] Taking guidance from Midland Hutterian Brethren, Justice Sheridan concluded that the flights in respect of which the City provided an allowance to its employees had only a tenuous link to the City’s activities, and those flights lent themselves to an exclusive personal use by the employees, such that she was unable to conclude that there was a sufficient nexus between the flights and the City’s activities. [32]
+[41] In Midland Hutterian Brethren, the Court was considering whether certain goods were acquired “in the course of commercial activities.” Accordingly, the interpretational question in that case, which focused on the phrase “in the course of commercial activities,” was not the same as in this case, where the focus is on the phrase “in relation to activities.” Nevertheless, Midland Hutterian Brethren is helpful, as the phrase “in the course of” is used in the second prong of the ExxonMobil test, which is as follows:
+… property or services which can be used by the employees in the course of their employment activities, and which are intended for such a use, are in relation to the employer’s activities. [33] [Emphasis added.]
+[42] In Midland Hutterian Brethren, Justice Evans provided the following comments in respect of the meaning of the phrase “in the course of employment”:
+48. … I have considered two examples of the use of the phrase [“in the course of”] in other legal rules.
+49. First, at common law a “master” is liable for the torts of “servants” committed “in the course of their employment”. It is clear that an employer will not be held vicariously liable simply because the tort was committed by the employee “while on the job for payroll purposes”: John G. Fleming, The Law of Torts, 9th edition (North Ryde, N.S.W.: LBC Information Services, 1998), page 421. The author goes on to say that the term “has failed to acquire a high degree of precision,” although an important consideration is that, if not actually authorised, the wrongful act must be capable of being regarded as an unauthorised mode of performing an authorised task.
+50. Indeed, the multiplicity of the factors considered by the courts, and the importance of the facts of the particular case in determining the result, give a significant factual component to the question of whether an employee was acting “in the course of” employment when the wrong was committed: see Lewis N. Klar, Tort Law (Toronto: Thomson Professional Publishing of Canada, 1991), pages 418-19.
+51. Second, the phrase occurs in the Canadian Human Rights Act, R.S.C. 1985, c. H-6, where paragraph 7(b) makes it a discriminatory practice “in the course of employment to differentiate adversely in relation to an employee on a statutorily prohibited ground of discrimination.” It was accepted in Cluff v. Canada (Department of Agriculture), [1994] 2 F.C. 176, at 187 (F.C.T.D.) that it was relevant to a determination of whether an employee was “in the course of” his or her employment for the purpose of this provision to consider whether the person was engaged in activities that were related to his or her employment, as opposed to those that were personal in nature.
+52. Again, it would seem evident from these two examples alone that there is no precise legal meaning of the phrase “in the course of employment”…. [34] [Emphasis is in original.]
+[43] Based on the above comments by Justice Evans, in determining whether, for the purposes of the second prong of the ExxonMobil test, employees of Westcoast were acting in the course of their employment when they received the Subject Services, it is insufficient that they were simply “on the job for payroll purposes,” and it seems that they would need to have been “performing an authorised task” (presumably referring to the employee’s duties of employment). Alternatively, a particular employee would need to be “engaged in activities that were related to his or her employment, as opposed to those that were personal in nature.” [35]
+[44] In summary, I am of the view that the principles enunciated by the Federal Court of Appeal in ExxonMobil are applicable to section 175, as well as to section 174, of the ETA. As the principles enunciated in ExxonMobil apply to this Appeal, it becomes necessary to determine:
+a) whether the Subject Services were intended by Westcoast for the exclusive personal use of its employees and whether the Subject Services lent themselves to such a use; or
+b) whether the Subject Services could have been used by the employees of Westcoast in the course of their employment activities and whether the Subject Services were intended for such a use.
+C. Application
+(1) Direct-Billing Situations
+[45] Westcoast takes the position that, in a situation where a health care provider billed Manulife directly for the cost of a Subject Service provided to a Westcoast employee or a family member, it was Westcoast (and not the employee or family member) which acquired the service. [36] Westcoast’s position is based, in part, on the definition of “recipient” in subsection 123(1) of the ETA, the relevant portion of which is as follows:
+“recipient” of a supply of property or a service means
+(a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration,
+(b) where paragraph (a) does not apply and consideration is payable for the supply, the person who is liable to pay that consideration….
+Westcoast submits that, in a direct-billing situation, Westcoast was liable to pay the consideration for the supply of the particular Subject Service, thus coming within paragraph (b) of the definition of “recipient.”
+[46] Paragraph (b) of the definition of “recipient” applies only where paragraph (a) of that definition does not apply. Therefore, paragraph (a) must be considered, and eliminated, before paragraph (b) can be applied. This requires a consideration of the agreements pursuant to which the Subject Services were supplied and a determination of whether consideration for the supplies was payable under those agreements.
+[47] The Appellant’s Book of Documents, consisting of various documents organized behind 25 tabs, was the only exhibit entered into evidence. [37] That exhibit does not contain copies of any of the contractual documents between health care providers and the Westcoast employees or family members who requested Subject Services, nor does it contain copies of the direct-billing agreements entered into by Manulife with the health care providers who chose to implement direct-billing arrangements. Similarly, none of the invoices or other billing documents submitted by health care providers to Manulife were put into evidence. [38]
+[48] Mr. DeBoer gave oral evidence concerning the direct-billing arrangements, as follows (after having discussed the two ways in which an employee could make a claim for reimbursement to Manulife – see subparagraphs 17a) and b) above):
+And then a third way is there are some provisionings that have a direct claim submission through the practitioner themselves. So some practitioners will register themselves with Manulife as a provider of services that -- in the province in which they operate, and again, they have to identify who they are and their registration number, et cetera, in order for them to be an authorized claim submitter.
+And then in that example, they can actually submit a claim direct to Manulife on your behalf or on the employee’s behalf who received the service, and then they get reimbursed directly for the eligible amount. If -- if they don’t get reimbursed the full eligible amount, the employee would be required to pay the difference themselves.
+So dentists, that’s a very highly used approach with dentists; pretty much 99 percent of dentists in Canada are registered with -- with their providers. And so when you go to a dentist, typically, they submit your claim automatically to Manulife or whoever the carrier is, and then the reimbursement sometimes can go directly to the dentist, sometimes it goes back to the member, and then they pay the dentist. So it depends on whether an assignment of claim has been agreed to or not agreed to. So -- so it’s a manual claim submission, it’s an online claim submission or a direct provider claim submission are really the three ways you can submit claims. [39] [Emphasis added.]
+[49] To further explain direct billing, Mr. DeBoer gave a personal example in the following exchange:
+Q. In terms of the -- the direct provider submission, how does that service provider sign up for direct billing?
+A. So they would register themselves with the provider [sic]. So use an example of -- I have a massage therapist that is registered with a number of providers, Manulife, Sun Life being the two big ones. And in her case, she -- when I -- when I go for a massage treatment, I have to sign into a logbook that I’ve had this treatment on this day by this person for this length of time. I sign it, and then she can actually do a claim submission.
+I get an email knowing she’s done a -- so she has to log into a Manulife system to do the submission. It automatically sends me a note saying a claim was just submitted on your behalf because you just received a service. And, obviously, if it didn’t, I would need to deal with it, saying, I didn’t go for that service, so they’re – they’re probably a fraudulent claim, et cetera, but -- and then in my massage therapist’s case, she gets paid directly from Manulife on my behalf, and I get a note when the payment is made. Again, I get an email from Manulife telling me a claim was just paid on my behalf to this provider for this amount of money. So I’m kept in the loop in two ways in that example, but she does the direct [billing] and gets the payment direct. [40] [Emphasis added.]
+[50] During his cross-examination, Mr. DeBoer described direct-billing arrangements in these terms:
+Q. When an employee of the appellant [i.e., Westcoast] was provided goods or services that were covered under the appellant’s healthcare plan, neither the appellant nor Manulife were ever invoiced by the seller of the goods or services; correct?
+A. No, it’s not correct. So we do have direct billing from a provider to Manulife, and then Manulife would pay that provider directly on behalf of the company. So it would depend. Again, the -- I think the example I gave -- if I understood your question properly, the example I gave of my massage therapist, I do not get invoiced by her. She sends the claim in directly to Manulife and then gets reimbursed according to the provision of the plan directly from Manulife back to her. I’m notified of it. I approve the claim by attending the session and signing off on the session, but the invoice goes directly -- or the claim submission goes directly from the provider to Manulife. [41] [Emphasis added.]
+[51] Shortly thereafter, Mr. DeBoer provided the following example and explanation:
+So I decide which acupuncturist I go to, and I go there and register with them and sign up for services, and then I get the service. And I get billed by them, or they might bill directly on my behalf. [42] [Emphasis added.]
+[52] The following exchange during Mr. DeBoer’s cross-examination shows that there was not a written agreement between a health care provider and either Westcoast or Manulife for the provision of specific health care services:
+Q. … There’s no agreements in existence between -- or, there’s no written agreement in existence between a healthcare provider and either the appellant or Manulife for specific healthcare services to be provided that were provided to an employee of the appellant; correct?
+A. Yeah, I would agree. There -- there is not. Again, the -- some service providers will have a relationship with Manulife as an eligible provider that can direct bill on behalf of the member, but -- but, yeah, there is no agreement with a service provider. I mean, I pick my service providers, and I agree to get services from them. [43] [Emphasis added.]
+The last statement above by Mr. DeBoer seems to indicate that there was an agreement between him and his service provider (and likely between other Westcoast employees and their service providers) for the supply of the particular health care services.
+[53] Based on the above comments by Mr. DeBoer, it is my understanding that, when an employee of Westcoast or a family member attended upon a health care provider to obtain a Subject Service, even in a direct-billing situation, it was the employee or family member (and not Westcoast or Manulife) who entered into the agreement with the health care provider for the provision of the service. [44] Under that agreement for the provision of the Subject Service, it was the employee or family member who was liable to pay the consideration for that service. In a direct-billing situation, pursuant to the assignment by the employee to the health care provider of the employee’s right to be reimbursed by Manulife (on behalf of Westcoast), [45] in conjunction with the direct-billing arrangement between the health care provider and Manulife, and using money from the Operating Fund, Manulife, on behalf of Westcoast, satisfied the employee’s or family member’s obligation to pay the consideration. However, the direct-billing arrangement did not negate or vitiate (although it satisfied) the employee’s or family member’s liability under the agreement to pay that consideration. [46] Thus, it is my view that paragraph (a), and not (b), of the definition of “recipient” in subsection 123(1) of the ETA, is the operative provision in this situation. Accordingly, as the employee or family member was the person liable, under the agreement for the supply of the Subject Service, to pay the consideration for that service, it was the employee or family member (and not Westcoast) who was the recipient of the service.
+[54] In a general sense, this situation is somewhat similar to the situation described by Justice Owen in Great-West Life, in the context of certain pharmaceutical services that were provided pursuant to a direct-payment arrangement known as the “Assure Card system,” which involved certain adjudication and payment services (referred to as the “Pay Direct Drug services”), provided by Emergis Inc. to The Great-West Life Assurance Company. [47] In that case, Justice Owen stated:
+76. To answer the question as to which view is correct, it is helpful to consider why the Pay Direct Drug services described in paragraph (i) of section II-A of Schedule A are being provided by Emergis to Great-West. Before the advent of real-time benefit administration systems such as the Assure Card system, a plan member would attend the pharmacy, present his or her prescription and pay for the prescribed drug(s) personally. The plan member would then submit a claim form to Great-West to obtain reimbursement of all or part of the amount paid. Great-West would adjudicate the claim and, if the plan member was eligible for plan benefits, mail a cheque to the plan member for the amount covered by the plan. In the meantime, the plan member was out of pocket for the full amount paid to the pharmacy for the drug(s) notwithstanding that the plan member had drug coverage under a group health benefits plan.
+77. The Assure Card system converted this process into a real-time adjudication and payment regime. The plan member now attends the pharmacy, presents his or her prescription and Assure Card (or Identification Card) and is advised on the spot how much coverage he or she has under the applicable group health benefits plan. The plan member is thereby relieved of paying to the pharmacy the amount covered by the plan.
+78. Seen in this light, it is clear that the essence of the service is the payment of the plan benefit to the plan member. Specifically, the services provided by Emergis effect the payment of the drug benefit to the plan member in accordance with the terms of the applicable Benefit Plan. All of the other services simply support this objective.
+79. The mechanics of how the pharmacy is paid are a red herring in the sense that the plan member is constructively paid the plan benefit when he or she is relieved of the obligation to pay at the pharmacy counter the amount covered by the plan. The mechanics under the Assure Card system to address this constructive payment consistent [sic] in the reimbursement of the pharmacy for agreeing to forgo payment by the plan member at the point of sale. The pharmacy has no entitlement to the benefit under the terms of the applicable group health benefits plan but does have a right to be reimbursed under its agreement with Emergis. The reimbursement is simply an aspect of the Assure Card system that allows Emergis to effect payment of the drug benefit to the plan member in an efficient manner….
+82. In the past, the entitlement to the benefit would have been satisfied by the issuance of a cheque to the plan member. Under the Assure Card system, the entitlement is satisfied by relieving the plan member of the obligation to pay the amount of the benefit to the pharmacy at the point of sale. The result is the same. The plan member constructively receives at the pharmacy counter the benefit payable to him or her under the terms of the group health benefits plan. The fact that a payment is subsequently made by Emergis to the pharmacy does not alter the substance of what has transpired at the point of sale. As already stated, the subsequent payment to the pharmacy is simply a means to give effect to the payment of the drug benefit to the plan member under the Assure Card system. [48]
+[55] As Great-West Life dealt with issues, property (i.e., pharmaceuticals) and health care services that were different from the issues and services that are the subject of this Appeal, it has no precedential or determinative value here. Nevertheless, the above excerpt from Great-West Life illustrates that, at least in some direct-billing situations, a payment by an employer (or its agent) to a health care provider generally satisfies the liability of the particular employee or family member, under the agreement for the supply of the health care service, to pay the consideration for that supply.
+[56] A further difficulty with Westcoast’s position (i.e., that, in a direct-billing situation, Westcoast was the recipient of the supply of the particular service) is more practical, as there was no documentary evidence to identify which, if any, Subject Services were supplied in the context of a direct-billing arrangement. [49] Although most dentists and pharmacists used direct billing, most of the other health care providers, including paramedical providers, generally did not use direct billing, as it was “a fairly new and recent thing.…” [50] Mr. DeBoer did state that direct billing was becoming more prevalent; [51] however, that statement was made at the hearing in 2019, while the Subject Services were supplied from 2010 to 2015. Furthermore, based on the following comment by Mr. DeBoer, it appears that Westcoast’s employees and their family members were not required to use a direct-billing mechanism, even if a particular service provider may have arranged such a mechanism with Manulife:
+Q. And in setting up [a direct-billing relationship] -- and they would ask the employee if they would like the claim to be made under their benefits plan?
+A. Absolutely. Yeah, you don’t have to use the direct bill. I could walk into my massage therapist and pay her directly and get a receipt and submit my bills on my own. I don’t have to use her direct billing. She had to ask me if I was okay with her using her direct billing approach, which I said I was, so they have to give me [sic] permission to do it, yes. [52]
+[57] In summary, the evidence suggests that few, if any, of the Subject Services were supplied in the context of a direct-billing arrangement. [53] If any of the Subject Services were supplied in the context of a direct-billing arrangement, there was no evidence at the hearing to enable those services to be identified. [54] To the extent that any of the Subject Services were supplied in the context of a direct-billing arrangement, it is my view that, in such a situation, the employees of Westcoast or their family members were the recipients of the supplies. In other words, Westcoast did not, for the purposes of subsection 169(1) of the ETA, acquire the Subject Services in respect of which Manulife made direct payments to the various health care providers.
+(2) Other Situations
+[58] In other situations, where there was not a direct-billing arrangement between Manulife and a health care provider, Westcoast acknowledges that it did not actually acquire the Subject Services itself. Hence, to satisfy the requirements of subsection 169(1) of the ETA, Westcoast must rely on the deeming provisions in paragraphs 175(1)(a), (b) and (c) of the ETA.
+[59] In order for Westcoast to come within subsection 175(1) of the ETA, it must show that its employees and their family members acquired the Subject Services “for consumption or use in relation to activities of” Westcoast. Counsel for Westcoast submits that this condition was met and that the Subject Services were not acquired for the exclusive personal use of Westcoast’s employees, given that:
+a) Mr. DeBoer testified that a healthy workforce is a more productive workforce; [55] and
+b) the Subject Services were made available to Westcoast’s employees and their family members, in fulfillment of Westcoast’s contractual obligations to its employees. [56]
+[60] The above submissions focus on the purpose or reason for which the Subject Services were made available to Westcoast’s employees and their family members; however, subsection 175(1) of the ETA focuses on the consumption or use of the Subject Services by the employees. Similarly, the first prong of the test set out in ExxonMobil refers to “property or services which are intended by the employer for the exclusive personal use of the employees.” [57] Given that the Subject Services pertained to acupuncture, massage therapy, naturopathy and homeopathy, it seems to me that those services were intended for the exclusive personal use of Westcoast’s employees or their family members. Furthermore, the Subject Services “len[t] themselves to such a use.” [58]
+[61] There was no evidence concerning the nature of the acupuncture, massage therapy, naturopathy or homeopathy services that were provided to Westcoast’s employees or their family members. However, as those services were provided under the extended health benefits provision of the Non-Union Agreement or the Union Agreement (as applicable), and as health care services, by their nature, are administered to individuals (and not corporations), it follows that the Subject Services were intended by Westcoast for the exclusive personal use of its employees and their family members. This is illustrated by the following exchange during the cross-examination of Mr. DeBoer:
+Q. … when [employees of Westcoast] requested a healthcare service be provided to them, even if that healthcare service was covered under the plan, they were making that request so that the service would be provided to and for them, and they were not making the request on behalf of the appellant or Manulife; isn’t that correct?
+A. I would say yes because they’re -- they’re requesting a service to treat an injury, let’s say, or an illness or a condition that they have, and that they want a treatment to help fix their problem or help mitigate whatever issues they’re having. So, yeah, they are the ones that make that request. Yes, I would agree with that. [59]
+[62] Furthermore, under Westcoast’s health benefit plans, the employees and their family members could decide which type of health care or paramedical service and which type of practitioner they required, [60] they could choose which health care practitioner to use, [61] they (and not Westcoast or Manulife) made the request to the health care practitioner for the particular health care service, [62] and they could make their own arrangements with their selected health care practitioner for the provision of the particular health care service. [63] When an employee or a family member needed health care services, he or she went to the office or clinic of the selected health care practitioner. [64] Neither Manulife nor Westcoast asked a health care provider to provide health care services to an employee of Westcoast, [65] nor did Westcoast arrange for health care services to be provided on its premises. [66] Westcoast was not made aware of the specific health care services provided to its employees or their family members, as that information was confidential. [67] Hence, it is my view that the Subject Services were intended by Westcoast for the exclusive personal use of its employees and their family members, and those services lent themselves to such a use.
+[63] Counsel for Westcoast also submits that, even if the Subject Services were acquired for the exclusive personal use of Westcoast’s employees (which counsel submits was not the case), the exclusion in subparagraph 170(1)(b)(ii) of the ETA “prescribes that the use of the Healthcare Services [i.e., the Subject Services] must nevertheless be considered ‘in relation to activities of [Westcoast]’ for the purpose of section 175.” [68] I disagree with the conclusion reached by counsel for Westcoast, given that the exception set out in subparagraph 170(1)(b)(ii) merely excepts a supply of a benefit that is not included in income under section 6 of the ITA from the exclusion set out in paragraph 170(1)(b) of the ETA. If the exception in subparagraph 170(1)(b)(ii) applies, such that the exclusion in paragraph 170(1)(b) does not apply, it is still necessary to satisfy the requirements of subsection 169(1) of the ETA, particularly the requirements that the service be acquired by Westcoast and that the service be consumed or used by Westcoast in the course of its commercial activities.
+[64] Westcoast relies on the General Motors case to support its submission that its benefit plans formed part of its compensation package for its employees and were an essential component of its commercial activities, such that the Subject Services acquired thereunder were acquired for consumption or use in relation to its activities and in the course of its commercial activities. [69] However, while General Motors is relevant in determining whether amounts expended by Manulife on behalf of Westcoast were “an integral component to the overall success of [Westcoast’s] commercial activities” and whether Westcoast’s functions in relation to its benefit plans were “for the sole benefit of its employees,” so as to be “an essential component to [its] business activities,” [70] the case does not address the question of whether health care services, which by their very nature are intended for the personal use of the individual receiving those services, were acquired by Westcoast’s employees and their family members in relation to Westcoast’s activities. In other words, in General Motors, the issue pertained to the relationship between the employer’s expenditures and its commercial activities, whereas in this Appeal, the issue pertains to the relationship (if any) between an employee’s acquisition of a Subject Service and Westcoast’s activities. Furthermore, in General Motors, it was the employer that acquired the services in respect of which ITCs were claimed, whereas in this Appeal it was the employees and their family members who acquired the health care services in respect of which the employer (i.e., Westcoast) has claimed ITCs. Therefore, the General Motors case is not on all fours with this Appeal, and does not assist Westcoast in qualifying for the ITCs.
+[65] The discussion to this point has focused on the first prong of the ExxonMobil test, (i.e., “… property or services which are intended by the employer for the exclusive personal use of the employees and which lend themselves to such a use bear no relationship with the employer’s activities”). Further guidance is obtained by considering the second prong of the ExxonMobil test (i.e., “… property or services which can be used by the employees in the course of their employment activities, and which are intended for such a use, are in relation to the employer’s activities”). I have difficulty in comprehending how an employee of Westcoast could be said, while receiving acupuncture, massage therapy, naturopathy or homeopathy services, to be consuming or using the particular service in the course of his or her employment activities, as distinct from an activity that was personal in nature. [71] The connection of the consumption or use of the Subject Services to the course of the employee’s employment activities is even more tenuous and remote in the situation where a spouse or a child of the employee received a Subject Service.
+[66] There might be an argument that an employee of Westcoast who was injured or who became ill while performing his or her employment duties and who required a Subject Service to treat the injury or illness or to be rehabilitated may well have received that service in the course of his or her employment. However, Westcoast did not adduce any evidence to indicate which (if any) of its employees who acquired a Subject Service did so as a consequence of a work-related injury or illness, rather than a non-work-related injury or illness. A further difficulty is that a spouse or child of an employee would not have been injured or become ill in the course of employment with Westcoast.
+[67] To summarize, it is difficult to conceive of an employee receiving acupuncture, a massage or a naturopathic or homeopathic treatment in the course of his or her employment activities with Westcoast, which, for the purposes of this analysis, I consider to be a reference to the performance of the employee’s duties of employment. Furthermore, the Subject Services were not intended for consumption or use by Westcoast’s employees in the course of their employment activities (i.e., while they were working). Therefore, it follows that those services were not in relation to Westcoast’s activities.
+[68] One of the criteria of the second prong of the ExxonMobil test is that the employer intend that the property or services in question be used by the employees in the course of their employment activities. Given that the Subject Services were acquired not only by Westcoast’s employees but also by members of their families, it is difficult to see how Westcoast could have intended that a Subject Service received by an employee’s spouse or child would have been used by the employee in the course of the employee’s employment activities.
+[69] For the reasons set out above, it is my view that Westcoast has failed to demonstrate a relationship between its activities and the consumption or use of the Subject Services by its employees and their families, as required by subsection 175(1) of the ETA.
+VI. CONCLUSION
+[70] This Appeal is dismissed, without costs. [72]
+Signed at Edmonton, Alberta, this 28th day of October 2020.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+CITATION:
+2020 TCC 116
+COURT FILE NO.:
+2018-579(GST)I
+STYLE OF CAUSE:
+WESTCOAST ENERGY INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATES OF HEARING:
+April 25, 2019 and October 16, 2019
+DATES OF SUBMISSIONS:
+November 29, 2019 and December 19, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF JUDGMENT:
+October 28th, 2020
+APPEARANCES:
+Counsel for the Appellant:
+David Douglas Robertson, Scott Joly
+Counsel for the Respondent:
+Adam Pasichnyk
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David Douglas Robertson,
+Scott Joly
+Firm:
+EY Law LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In the Appellant’s Memorandum of Fact and Law (“Appellant’s Memorandum”) and the Appellant’s Response to the Respondent’s Written Submissions, counsel for Westcoast referred to the acupuncture, massage therapy, naturopathy and homeopathy services as the “Healthcare Services.” In the Respondent’s Written Submissions, counsel for the Crown referred to those four services as the “Paramedical Services.”
+[2] Income Tax Act, RSC 1985, c. 1 (5th Supp.), as amended.
+[3] Transcript, p. 41, lines 1-28.
+[4] Transcript, p. 42, lines 1-2.
+[5] It appears that insurance may have been acquired by Westcoast to fund some of the benefits that are not the subject of this Appeal.
+[6] Exhibit A-1, Tab 4.
+[7] Exhibit A-1, Tab 5.
+[8] Transcript, p. 178, lines 19-23.
+[9] Excise Tax Act, RSC 1985, c. E-15, Part IX, as enacted by SC 1990, c. 45, and as subsequently amended.
+[10] The definition of “practitioner” in section 1 of Part II of Schedule V to the ETA was amended applicable to supplies made after February 11, 2014, to add a person who practices the profession of acupuncture or naturopathy as a naturopathic doctor. Thus, to the extent that the GST/HST that was the basis for the ITCs claimed in this Appeal related to the supply of acupuncture or naturopathic services, it is my understanding that those services were provided before February 12, 2014.
+[11] Exhibit A-1, Tab 25. See also Tabs 23 and 24.
+[12] See General Motors of Canada Ltd. v. The Queen, 2008 TCC 117, para. 30; aff’d, 2009 FCA 114, para. 30. In setting out above the second and third conditions of eligibility for an ITC, I have reversed the order of those conditions from that which appears in the General Motors case.
+[13] Respondent’s Written Submissions, p. 5-13, para. 28-54.
+[14] Appellant’s Memorandum, p. 7-8, para. 26-29. Subsection 175(1) will be discussed below.
+[15] Notice of Appeal, para. 29-30; and Appellant’s Memorandum, p. 17-19, para. 72-74.
+[16] ExxonMobil Canada Ltd. v. The Queen, 2010 FCA 1.
+[17] However, paragraph 175(1)(b) of the ETA does not go so far as to deem such consumption or use to be in the course of the employer’s commercial activities.
+[18] La Brasserie Labatt Limitée v. The Queen, [2001] GSTC 109 (TCC), para. 40.
+[19] 3859681 Canada Inc. and Zellers Inc. v. The Queen, 2003 TCC 501.
+[20] Subsection 175(1) of the ETA does not address the situation where a family member of an employee of Westcoast acquired a Subject Service. In making this comment, as well as other comments pertaining to spouses and other family members of Westcoast’s employees, throughout my analysis in these Reasons, I have assumed that a spouse or other family member was not also an employee of Westcoast.
+[21] Nowegijick v. The Queen, [1983] 1 SCR 29 (SCC), at 39.
+[22] ExxonMobil, supra note 16, para. 50.
+[23] Ibid, para. 52.
+[24] The City of Whitehorse v. The Queen, 2012 TCC 298; aff’d, 2013 FCA 144.
+[25] Ibid (TCC), para. 18; quoting ExxonMobil, supra note 16, para. 50.
+[26] City of Whitehorse, supra note 24, para. 20.
+[27] Mr. DeBoer stated that he was not aware of any situation where a massage therapist attended at a Westcoast facility, although he acknowledged that such might have occurred, without his knowledge, as part of a particular event at one of Westcoast’s local business offices; Transcript, p. 117, lines 1-17.
+[28] Midland Hutterian Brethren v. The Queen, [2000] GSTC 109, 265 NR 185, [2000] FCJ No. 2098 (FCA).
+[29] Ibid, para. 31.
+[30] Ibid, para. 70.
+[31] Ibid, para. 71.
+[32] City of Whitehorse (TCC), supra note 24, para. 19, 21-22.
+[33] ExxonMobil, supra note 16, para. 50.
+[34] Midland Hutterian Brethren, supra note 28, para. 48-52.
+[35] See para. 49 and 51 of Midland Hutterian Brethren, ibid.
+[36] Appellant’s Memorandum, p. 8-10, para. 32-36.
+[37] Exhibit A-1.
+[38] Transcript, p. 108, line 27 to p. 109, line 2; p. 135, line 27 to p. 136, line 11; and p. 137, lines 8-26.
+[39] Transcript, p. 78, line 15 to p. 79, line 14.
+[40] Transcript, p. 79, line 15 to p. 80, line 13.
+[41] Transcript, p. 108, lines 9-26.
+[42] Transcript, p. 110, lines 21-25.
+[43] Transcript, p. 116, lines 11-23.
+[44] Transcript, p. 116, lines 5-23.
+[45] Transcript, p. 79, lines 10-11.
+[46] Although there was no specific evidence directly on this point, based on an example given by Mr. DeBoer (Transcript, p. 149, lines 2-19; see also p. 78, line 27 to p. 79, line 1), I suspect that, if Manulife and Westcoast had both failed to make the requisite payment to the health care provider, the provider would have looked to the employee or family member for payment.
+[47] The Great-West Life Assurance Company v. The Queen, 2015 TCC 225, para. 17-19 & 41-42; aff’d, 2016 FCA 316.
+[48] Great-West Life, ibid (TCC), para. 76-79 & 82; and (FCA), para. 20-21.
+[49] Transcript, p. 137, lines 8-26.
+[50] Transcript, p. 136, lines 10-16. See also Transcript, p. 79, lines 2-5; p. 134, line 19 to p. 137, line 26; and p. 159, lines 16-26.
+[51] Transcript, p. 137, line 4; and p. 159, lines 25-26.
+[52] Transcript, p. 160, lines 4-13. Based on the rest of the statement quoted above, it appears to me that, near the end of the statement, Mr. DeBoer may have intended to say “… they have to get my permission …,” rather than “… they have to give me permission….”
+[53] Transcript, p. 137, lines 1-4; and p. 159, lines 23-26.
+[54] Transcript, p. 137, lines 24-26.
+[55] Transcript, p. 26, lines 1-12; Appellant’s Memorandum, p. 21, para. 82; and p. 38, para. 133.b.
+[56] Appellant’s Memorandum, p. 12, para. 45.
+[57] ExxonMobil (FCA), supra note 16, para. 50.
+[58] See ExxonMobil (FCA), supra note 16, para. 50.
+[59] Transcript, p. 111, line 28 to p. 112, line 13.
+[60] Transcript, p. 106, lines 2-20.
+[61] Transcript, p. 106, lines 20-22; p. 107, lines 5-7; p. 110, lines 16-21; p. 111, lines 19-26; and p. 116, lines 22-23. However, notwithstanding the right that employees and family members had to select their own health care services and practitioners, Westcoast did require that the health care services be approved by the applicable provincial authorities and that the health care practitioners be registered in the applicable province; Transcript, p. 106, lines 21-22; p. 110, lines 19-20; and p. 111, lines 23-26. As well, in a few situations, Manulife disqualified and delisted a few service providers who had been found to have engaged in inappropriate, fraudulent or illegal activities; Transcript, p. 117, line 23 to p. 118, line 23.
+[62] Transcript, p. 109, lines 3-9; and p. 116, lines 5-10.
+[63] Transcript, p. 110, lines 21-24; p. 111, lines 7-12 & 19-26; and p. 160, lines 7-13.
+[64] Transcript, p. 110, lines 22-24; p. 111, lines 11-12 & 24-25; and p. 160, lines 8-9.
+[65] Transcript, p. 116, line 24 to p. 117, line 1.
+[66] Transcript, p. 117, lines 11-14. Mr. DeBoer qualified his answer in respect of this point by stating that, although he did not know of any such situation, it was possible that one of Westcoast’s local offices may have arranged, on occasion, for an on-site service provider, such as a massage therapist, to provide services for a particular event; Transcript, p. 117, lines 1-11 & 14-17.
+[67] Transcript, p. 64, lines 14-17.
+[68] Appellant’s Response to the Respondent’s Written Submissions, filed December 19, 2019, p. 3, para. 18.
+[69] Appellant’s Memorandum, p. 38, para. 134.
+[70] General Motors, supra note 12, (TCC), para. 67; and (FCA), para. 44.
+[71] As stated by Mr. DeBoer, in the comment quoted in paragraph 61 above, “… they’re [i.e., Westcoast’s employees are] requesting a service to treat an injury … or an illness or a condition that they have, and that they want a treatment to help fix their problem or help mitigate whatever issues they’re having” [emphasis added]; Transcript, p. 112, lines 8-11. That comment clearly implied that the Subject Services were intended for the exclusive personal use of Westcoast’s employees. Furthermore, as noted in paragraph 62 above, Westcoast’s employees made their own selections and arrangements for their health care services. They attended upon their selected health care practitioners, and, to the knowledge of Mr. DeBoer, did not receive health care services at Westcoast’s premises. Westcoast was not aware of the specific health care services received by an employee. Those circumstances highlighted the personal nature of the Subject Services.
+[72] See subsection 10(2) of the Tax Court of Canada Rules (Informal Procedure), SOR/90-688, as amended.

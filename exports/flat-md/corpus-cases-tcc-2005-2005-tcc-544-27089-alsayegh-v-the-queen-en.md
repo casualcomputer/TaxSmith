@@ -1,0 +1,362 @@
+---
+title: "Alsayegh v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27089/index.do"
+last_modified: "2005-08-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 544"
+citation2: ""
+neutral_citation: "2005 TCC 544"
+decision_date: "2005-08-19"
+language: "en"
+item_id: "27089"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 959
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:26:25.518000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e1a11e748a7db448da316f82ac6a9089e1af0a0ddbb01769978dd5af915bf9c6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Alsayegh v. The Queen
+
+- Citation: 2005 TCC 544
+- Decision date: 2005-08-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 959, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alsayegh v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-19
+Neutral citation
+2005 TCC 544
+File numbers
+2000-4265(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-4265(IT)G
+BETWEEN:
+HIKMAT ALSAYEGH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeal of Firial Alsayegh, 2000-5104(IT)G, on May 30 and 31, 2005, at Vancouver, British Columbia, by
+The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+The purported appeals from assessments of tax made under the Income Tax Act for the 1988, 1989 and 1990 taxation years are quashed.
+The appeals from assessments of tax made under the Act for the 1991 and 1993 taxation years are dismissed.
+The appeal from the assessment of tax made under the Act for the 1992 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the adjusted cost base for 5318 Bruce Street property is increased to $158,975.
+The Respondent is entitled to one set of costs.
+Signed at Ottawa, Canada, this 19th day of August, 2005.
+"C.H. McArthur"
+McArthur J.
+Docket: 2000-5104(IT)G
+BETWEEN:
+FIRIAL ALSAYEGH,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Hikmat Alsayegh, 2000-4265(IT)G, on May 30 and 31, 2005, at Vancouver, British Columbia, by
+The Honourable Justice C.H. McArthur
+Appearances:
+Agent for the Appellant:
+Hikmat Alsayegh
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 1992 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the adjusted cost base for 5318 Bruce Street property is increased to $158,975.
+The Respondent is entitled to one set of costs.
+Signed at Ottawa, Canada, this 19th day of August, 2005.
+"C.H. McArthur"
+McArthur J.
+Citation: 2005TCC544
+Date: 20050819
+Docket: 2000-4265(IT)G
+2000-5104(IT)G
+BETWEEN:
+HIKMAT ALSAYEGH and FIRIAL ALSAYEGH,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] The Appellant, Hikmat Alsayegh ("Hikmat"), appeals the reassessments for his 1991, 1992 and 1993 taxation years inclusively,[1] while his spouse, the Appellant Firial Alsayegh ("Firial"), appeals the reassessment for her 1992 taxation year only. Although Firial had originally intended to appeal all of her 1991, 1992 and 1993 taxation years;[2] her application for a time extension to appeal was granted only with respect to her 1992 taxation year.[3]
+[2] The issues in the present case revolve around the deduction of certain rental property expenses.
+[3] Hikmat is a retired junior accountant with a Vancouver area hospital. Since 1980, he and Firial have purchased and sold approximately 17 residential properties comprised primarily of single family dwellings and smaller rental buildings of two or three apartments. Generally, the Appellants purchased properties with the intent of realizing a capital gain within a relatively short term. The present appeals involve the following two properties: 5641 Rumble Street ("Rumble") and 5318 Bruce Street ("Bruce").
+[4] These rental property expense cases have previously seen the intervention of six judges of this Court, some on two occasions. They should have been settled long ago. There are nine prior Court Orders dealing with preliminary matters. In addition, an application was made under the Fairness Provisions of the Income Tax Act. Mercifully, after a recent pre-hearing conference before Justice Hershfield, the issues were narrowed down to the following:
+(a) Whether the Rumble Street property was owned 100% by Hikmat or 50% by Hikmat and 50% by Firial;
+(b) Whether the 1989 and 1990 expenses sought to be capitalized for the Rumble Street property with respect to the years in issue were previously claimed in the 1989 and 1990 rental statements as current expenses;
+(c) Whether expenses, for which there is no documentation (i.e. receipts), were incurred in 1989 with respect to the Bruce Street property; and
+(i) If there were expenses, whether they were for the purpose of gaining or producing income from a business or property within the meaning of paragraph 18(1)(a) of the Act or whether they were personal or living expenses of the Appellants within the meaning of paragraph 18(1)(h) of the Act;
+(ii) If non-personal expenses were incurred, whether they were claimed as current or capital expenses in prior years;
+(iii) If non-personal expenses were incurred, but not previously claimed, what was the amount thereof.
+(d) Interest and penalties.
+(e) Costs.
+[5] The witnesses included the Appellants and Thomas Chang, a Revenue Canada auditor. Mr. Chang was a straightforward witness and for the most part, I accept his evidence. He stated that the Appellants kept no books or records, but did have invoices and bank cancelled cheques and statements, which the Appellants considered to be their books and records. Mr. Chang consolidated various documents and working papers of Appeals Officer, Ms. Kelly, into schedules entered as Exhibits R-1 and R-2.
+[6] Prior to this hearing, the parties arrived at a settlement for several smaller amounts with respect to 1991, 1992 and 1993 taxation years. At the outset of the hearing, the Appellants expressed some concern regarding the Minister's schedules, but they subsequently agreed with the Minister. In his final submissions, counsel for the Respondent demonstrated that the numbers in the Minister's schedules corresponded with those prepared by the Appellants. The Appellants acknowledged that these schedules (their Exhibit A-12 and the Respondent's Exhibit R-1) were no longer an issue.
+(a) Ownership of the Rumble Streetproperty
+[7] I will now turn to the outstanding issues, commencing with the ownership of the Rumble Street property. The Appellants claimed that they each owned 50% of the property while the Respondent, on the other hand, argued that Hikmat alone owned 100% of the property. The factors favouring the Appellants' position are the following:
+(i) the other property in question (Bruce Street) was owned by Hikmat and Firial on a 50-50 basis;
+(ii) that all other properties were also owned equally by Hikmat and Firial;
+(iii) the balance due on closing was paid from the Appellants' joint bank account; and
+(iv) Hikmat's lawyer may not have followed Hikmat's instructions to take title to this property in joint tenancy.
+[8] The factors favouring the Respondent's position that Rumble was owned 100% by Hikmat are the following:
+(i) title was taken, upon purchase in 1988, in Hikmat's name alone;
+(ii) just above Hikmat's signature on the interim agreement (Exhibit R-11) the document stated: "The sole purchaser of the above property is Mr. Hikmat Alsayegh";
+(iii) for the most part, the financial dealings with respect to the Rumble property reflect that Hikmat was the sole owner. In Hikmat's 1991, 1992 and 1993 income tax returns, he declared he was the sole owner and personally claimed 100% of the losses while Firial made no mention of Rumble in her returns;
+(iv) Hikmat agreed to assume the existing mortgage financing personally in a document filed as Exhibit R-12; and
+(v) Firial's original Notice of Appeal[4] dated April 30, 2001 contained the following statement on page 4:
+5. That the Court allow my husband Hikmat Alsayegh to represent me in all the proceedings of this honourable court due to the fact that all the properties in question other than 5641 Rumble Street were owned by both of us on a 50/50 basis and to consider this as my consent to authorize him to speak on my behalf before a judge in the court of general appeals.
+[9] The legal title to Rumble was registered in Hikmat's name alone. He claimed sole ownership in his relevant income tax returns. Firial acknowledged that she had a 50% interest in all her husband's properties except for Rumble.[5] The balance due on closing for Rumble and all of its expenses including mortgage payments and taxes were paid from a joint account. On balance, I find that Hikmat was a 100% owner of Rumble.
+[10] The following paragraph in Friedberg v. The Queen,[6] applies to the present appeal:
+In tax law, form matters. A mere subjective intention, here as elsewhere in the tax field, is not by itself sufficient to alter the characterization of a transaction for tax purposes. If a taxpayer arranges his affairs in certain formal ways, enormous tax advantages can be obtained, even though the main reason for these arrangements may be to save tax (see The Queen v. Irving Oil, 91 DTC 5106, per: Mahoney, J.A.). If a taxpayer fails to take the correct formal steps, however, tax may have to be paid. If this were not so, Revenue Canada and the courts would be engaged in endless exercises to determine the true intentions behind certain transactions. Taxpayers and the Crown would seek to restructure dealings after the fact so as to take advantage of the tax law or to make taxpayers pay tax that they might otherwise not have to pay. While evidence of intention may be used by the Courts on occasion to clarify dealings, it is rarely determinative. In sum, evidence of subjective intention cannot be used to 'correct' documents which clearly point in a particular direction.
+(Emphasis added)
+While all money advanced towards the benefit of Rumble probably came out of a joint bank account, there was little evidence to establish that 50% of this money came from Firial.
+[11] There is an obvious presumption that Hikmat was the sole owner because the title was taken in his name alone. While this presumption is rebuttable, it has not been successfully rebutted for the above reasons. In conclusion, with respect to the first issue, Hikmat was the sole owner of Rumble.
+(b) Capitalization of Rumble Streetexpenses
+[12] I will now deal with the second issue of whether the 1989 and 1990 rental expenses claimed for Rumble may be capitalized. The Respondent asserts the issue in Rumble is whether the 1989 and 1990 expenses sought to be capitalized were previously claimed in the 1989 and 1990 rental statements as current expenses.
+[13] Hikmat states that the 1989 and 1990 renovation expenses for Rumble, as set out in documents he enumerated as "exhibits" 31 and 32, were mistakenly claimed by their accountant as current expenses rather than being capitalized and the total added to the cost base on disposition. The Court allowed these expenses to be added to the cost base when calculating the capital gains taxable income for the year 1993 when the property was sold. All documents related to these renovations were checked by CRA as well as the Fairness Committee. Hikmat acknowledged that the renovation expenses were claimed in his 1989 and 1990 returns as current expenses. He now asks that these expenses be considered capital expenses.
+[14] Hikmat purchased Rumble in 1988 for $79,100 and sold it in 1993 for $255,000. He initially claimed that the adjusted cost base for computing the capital gain on disposition was $140,000. According to the Reply to the Amended Notice of Appeal, the Minister assessed Hikmat on the basis that the adjusted cost base was $99,291, which amount included legal fees, commissions and capitalized expenses from 1991, 1992 and 1993. The Minister was unsure whether Hikmat claimed amounts he had previously claimed as current or capital expenses in prior taxation years. The amounts that Hikmat now claims as capital include property taxes, mortgage interest, maintenance and repairs, labour, insurance, gas and mileage, for a total of $11,735 in 1989 and $22,642 in 1990.
+[15] In both 1989 and 1990, these expenses were claimed in Hikmat's rental statements as current expenses. This is consistent with Mr. Chang's evidence after his review of the file. At Tabs 12 and 14 of Exhibit R-3 are T1 Adjustment Requests on behalf of Hikmat for the 1989 and 1990 taxation years. These Adjustment Requests were mainly to increase interest expenses and allow expenses for salaries. It was the Minister's position that the adjustment requests were statute-barred under section 165 of the Act, which reads:
+165(1) A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a
+testamentary trust, on or before the later of
+(i) the day that is one year after the taxpayer's filing-due date for the year, and
+(ii) the day that is 90 days after the day of mailing of the notice of assessment; and
+(b) in any other case, on or before the day that is 90 days after the day of mailing of the notice of assessment.
+[16] The filing due date for the 1989 return was April 30, 1990 and the initial assessment was dated December 13, 1991. Thus, the deadline for filing an Adjustment Request for Hikmat's 1989 taxation year was mid-March 1992, that is 90 days after the date of mailing the Notice of Assessment. The Adjustment Requests were made in January 1995. Adding an additional year for any possible time extension that may have been granted by the Minister under section 166.1, the absolute deadline for objecting to the 1989 assessment was mid-March 1993. January 1995 was too late. The same thing applies with respect to the 1990 taxation year. The due date of the 1990 return was April 30, 1991 and the initial assessment was dated December 13, 1991. Thus, the deadline for filing an Adjustment Request for Hikmat's 1990 taxation year was April 30, 1992, that is one year after the return was due. Adding an additional year, the absolute last day for filing an Adjustment Request was April 30, 1993. The objections or Requests for Adjustment were made in January 1995, which is outside the period. The Requests for both 1989 and 1990 were therefore statute-barred.
+[17] As a result, Hikmat made application under the fairness provisions. The Fairness Package Report (Exhibit R-3, Tab 16) dated May 1996, stated on page 3 with respect to Rumble:
+Review of Rental Losses previously allowed
+Our examination of the returns revealed that:
+a) in 1989 and 1990 the taxpayer was allowed net rental losses yet no Statements of Real Estate Rentals appear to have been filed with the returns for any of the properties.
+...
+e) in 1992, a net rental loss of $10,644 was claimed and allowed for the Rumble Street property yet no rental income was reported. The amended return has increased this loss to $15,841 and still no income has been reported,
+...
+h) the Rumble Street property was sold in 1993 and the requested adjustments are mainly to increase interest expenses and allow expenses for salaries.
+In sum, for all years, on both the statements previously filed and the amended statements, expenses claimed are questionable.
+[18] Because no statements of real estate rentals were filed for 1989 and 1990, the Fairness Committee could not do a comparison of his new claim with his original claim. I believe there was a second fairness application with the same result. The Appellant has the same problem with his present request to capitalize the expenses. Even if they could be capitalized, which is doubtful, we have no evidence to establish that they were not already claimed as current expenses with his original returns for 1989 and 1990.
+[19] I agree with the Respondent that Hikmat has not met his onus of establishing that he is not claiming the same expenses twice. No evidence was produced to establish what expenses were initially claimed. Given the nature of the expenses, it is likely that they have been already claimed as current expenses and I believe allowed.
+(c) Capitalization of Bruce Streetrenovation expenses
+[20] The third issue is more substantive and difficult than the first two. The Minister describes the issue as whether expenses, for which there is no documentation (i.e. receipts), were incurred in 1981 with respect to the Bruce Street property, and if there were expenses incurred, whether they were for the purpose of gaining or producing income from a business or property within the meaning of paragraph 18(1)(a) of the Act, or whether they were personal or living expenses of the Appellants within the meaning of paragraph 18(1)(h) of the Act.
+[21] The Appellants claim that they incurred approximately $35,000 in renovation expenses on their Bruce Street property during the period from January 9, 1981 to April 1, 1981, just before they moved into the house. The Appellants believe that they are allowed to add these expenses to the cost base of the house when calculating the capital gains tax. There are no documents (receipts) to substantiate these expenses; rather there is only a three-page schedule prepared by the Appellants (Exhibit A-16 (enumerated by the Appellants as "exhibit #25")) which estimates the cost of each item that was purchased and/or replaced including the labourers' and/or the suppliers' names.
+[22] The Appellants purchased the Bruce property for $144,500 in 1981 and sold it in 1992 for $236,750. They occupied it as their principal residence from 1981 to 1984. The Minister assessed the adjusted cost base at $147,430. The Appellants claim that the adjusted cost base was approximately $180,000. The Appellant's argue that they spent approximately $33,000 in capital expenditures before moving into the house which should be added to the adjusted cost base for the purpose of computing the capital gain on disposition.
+[23] These expenses are enumerated in Exhibit A-16 totaling $32,141 and include the following:
+Description of expenses
+Estimated Cost
+1. Replace old oil furnace with new gas furnace
+$2,750.00
+2. 176 sq. yds. of carpet @ $35.00 sq. yd.
+6,160.00
+3. 176 sq. yds. underlay @ $4.50 sq. yd for living rooms and hallways and underlay @ $3.50 sq. yd. for bedrooms
+704.00
+4. Installation of above carpet
+616.00
+5. Primer paint 5 x 5 gal. containers @ $85 ea.
+425.00
+6. 1st and 2nd coat of paint 32 gal. paint @ $20 ea.
+640.00
+7. Ruff Tex for ceilings 3 bags @ $25 ea,
+75.00
+8. Labor for Ruff Tex
+575.00
+9. Labor to paint whole house
+1,300.00
+10. 48 sq. yds. of linoleum for kitchen @ $15 sq. yd.
+720.00
+11. Installation costs @ $3.50 sq. yd. including glue
+168.00
+12. Change electrical panel
+450.00
+13. New Westinghouse stove and Inglis fridge
+1,600.00
+14. New Inglis washer and dryer
+1,150.00
+15. Light fixtures and electrical labor
+400.00
+16. Interest on 1st mtge. $56,000 @ 13% for 81 days from Jan. 8/81 to March 31/81
+1,615.56
+17. Interest on two loans $35,000 @ 18 1/4%-81 days
+1,417.50
+18. Property tax for 81 days
+410.55
+19. Insurance for 81 days
+82.10
+20. Hydro and gas while under renovation
+270.00
+21. New roof
+2,200.00
+22. New gutters and down pipes
+800.00
+23. Shed 10 x 12 including stucco
+2,500.00
+24. Cement patio in yard
+450.00
+25. Paint fence including labor
+440.00
+26. Small hedge tree and shrubs
+250.00
+27. Interest on 2nd mortgage of $53,000 at 18% - 81 days
+2,153.05
+28. Repairs I cannot remember now
+29. Provincial sales tax
+1,819.31
+Total Guesstimated Expenses
+$32,141.07
+Hikmat stated that because they lived in the house from April 1981 to October 1984, he did not keep receipts because Revenue Canadadid not ask for them at that time.
+[24] Counsel for the Respondent states that his most salient argument is that in order to move into the house they needed a fridge, stove, carpeting, patio and shed, all of which are personal expenses. He then refers to paragraphs 18(1)(a) and 18(1)(h) of the Act and concludes that the expenses were not incurred to earn income, but are living expenses.
+[25] Paragraph 18(1)(a) provides that no deduction can be made for expenses unless they are incurred for the purpose of earning income and paragraph 18(1)(h) adds that personal and living expenses are not deductible. The expenses were incurred for the Appellants' family to live in the property and not with respect to a business. In 1984, the Appellants moved out and the property was converted to a rental business. But the Appellants are asking that the expenses be considered capital and be added to the cost of acquisition in calculating the adjusted cost base.
+[26] I agree with both parties in part. I find that some of the expenses were personal and some were clearly capital and rightfully should be added to the adjusted cost base. The invoices were presented and I am asked to accept the Appellant's estimates made over 20 years after the fact. To reflect depreciation for personal use and a reduction because the amounts are estimates, the amounts to be capitalized are to be reduced and added to the adjusted cost base[7]as follows:
+Description of expenses
+Estimated Cost
+1. New gas furnace (reduced by 33 %)
+$1,850.00
+2. New carpeting (reduced by 50%)
+3,080.00
+3. Underlay (carpeting) (reduced by 50%)
+350.00
+4. Carpet installation (reduced by 50%)
+310.00
+5. Personal
+-
+6. Personal
+-
+7. Personal
+-
+8. Personal
+-
+9. Personal
+-
+10. Personal
+-
+11. Personal
+-
+12. Electrical panel (reduced by 25%)
+340.00
+13. Stove and Fridge (reduced by 50%)
+800.00
+14. Washer and Dryer (reduced by 50%)
+575.00
+15. Personal
+-
+16. Personal.
+-
+17. Personal
+-
+18. Personal
+-
+19. Personal
+-
+20. Personal
+-
+21. New roof (reduced by 25%)
+1,650.00
+22. New gutters and down pipes (reduced by 25%)
+600.00
+23. Shed 10 x 12 including stucco (reduced by 50%)
+1,250.00
+24. Cement patio in yard (reduced by 25%)
+115.00
+25. Personal
+-
+26. Personal
+-
+27. Personal
+-
+28.
+-
+29. Personal
+-
+Total Allowable Expenses
+$11,545.00
+In conclusion, with respect to issue (c), the amount of $11,545 is added to the adjusted cost base for Bruce Street, increasing the assessed amount from $147,430 to $158,975.
+[27] It is unfortunate that the Appellants did not have the property appraised to arrive at its fair market value in 1984 when it was converted to a rental unit. The conclusion arrived at is far from perfection, but I believe more realistic and just than simply ignoring the capital expenditures. While the Appellants had no receipts, I accept that they did incur these expenditures. Hikmat's evidence was corroborated by his wife. Pictures from a former owner were of little value.
+(d) Secondary issues
+[28] In addition to the three primary issues, there are a number of secondary issues that were raised by the parties. The Minister refers to interest and penalties, and in Exhibit A-1 the Appellant has set out certain other items numbered 4 to 9 which are less significant questions. I will first attempt to deal with the Appellants' secondary issues. Items 4 and 5 concern the taxation years 1991 and 1993 for Firial which are not before the Court pursuant to an Order dated April 25, 2001.
+[29] Regarding the Appellants' item 6, I have no jurisdiction to order CRA "to produce final figures for each line of the income tax form." The Appellants' items 7 and 9 concern interest, penalties and costs which I will deal with shortly. Regarding item 8, I have no jurisdiction to award the remuneration requested.
+(e) Interest, penalties and costs
+[30] Finally, I turn to the question of interest, penalties and costs. The Minister appears to have assessed penalties under subsection 163(1) and interest under section 161 of the Act. Hikmat's returns for 1991, 1992 and 1993 taxation years were required to be filed on or before April 30 of 1992, 1993 and 1994, respectively. They were not filed until May 3, 1994. Similarly, Firial's return for 1992, which was required to be filed on or before April 30, 1993, was not filed until May 3, 1994. The Appellants do not seriously contest this.
+[31] The Appellants appear to blame CRA for all delays. In Main Rehabilitation Co. v. The Queen,[8] the Court stated: "Courts have consistently held that the action of the CRA cannot be taken into account in an appeal against assessments" and I adhere to that principle.
+[32] In the Amended Reply to the Notice of Appeal, the Respondent refers to late-filing penalties as well as to subsection 163(1), although no reference is made to subsection 162(1) of the Act. However, in argument at the hearing, counsel for the Respondent referred to subsection 162(1), but made no reference to subsection 163(1). I find that subsection 162(1) applies to the present facts.
+[33] Subsection 162(1) reads in part that "every person who fails to file a return of income as and when required by subsection 150(1) is liable to a penalty equal to the total of" and a formula follows. There is no doubt the Appellants' returns for 1991, 1992 and 1993 were filed late and that the Minister properly assessed penalties under the Act.
+[34] A due diligence defense may be available to the Appellants subsequent to the decision in Pillar Oilfields,[9] but I have no hesitation in concluding that they did not meet the threshold set out in that case. Bowman J. (as he then was) stated that "the taxpayer is expected to comply with the requirements of the Act with a high degree of diligence". The filing delays in these appeals cannot be blamed on CRA.
+[35] This Court has no jurisdiction to provide the Appellants relief from the interest there being no evidence that it was improperly calculated.
+[36] The appeal is allowed only to increase the adjusted cost base for the Bruce Streetproperty from $147,430 to $158,975. With the limited success of the Appellants, the Respondent is entitled to one set of costs.
+Signed at Ottawa, Canada, this 19th day of August, 2005.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2005TCC544
+COURT FILE NO.:
+2000-4265(IT)G and 2000-5104(IT)G
+STYLE OF CAUSE:
+Hikmat Alsayegh and Firial Alsayegh
+and Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATES OF HEARING:
+May 30 and 31, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF JUDGMENTS:
+August 19, 2005
+APPEARANCES:
+For the Appellants:
+Hikmat Alsayegh
+Counsel for the Respondent:
+Bruce Senkpiel
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Reference is made to the years 1988, 1989 and 1990 in the Appellant's Amended Notice of Appeal, but only as how the assessments for those years affected the taxation years 1991, 1992 and 1993. The years 1988, 1989 and 1990 are not now, nor were they ever under appeal.
+[2] On September 28, 2000, the last day to appeal, Hikmat filed a Notice of Appeal in the names of both himself and Firial for each of their 1991, 1992 and 1993 taxation years; however Firial was required to file her own Notice of Appeal.
+[3] Justice Margeson denied Firial's section 167 application with respect to her 1991 and 1993 taxation years on the basis that those two years were nil assessment years. The application was heard April 10, 2001 and the Order was issued April 17, 2001 (an Amended Order was issued on April 25, 2001, however the amendment is not relevant here).
+[4] Firial testified briefly at the hearing to the effect that she confirmed and agreed with all of Hikmat's testimony.
+[5] The original Notice of Appeal was subsequently amended.
+[6] 92 DTC 6031.
+[7] In the order presented by the Appellant as set out earlier.
+[8] Main Rehabilitation Co. v. R. (2003), [2004] 2 C.T.C. 2068 (T.C.C.), aff'd (2004), [2005] 1 C.T.C. 212 (F.C.A.).
+[9] Pillar Oilfield Projects Ltd. v. Canada, [1993] G.S.T.C. 49, explained in Consolidated Canadian Contractors Inc. v. Canada, [1999] 1 F.C. 209 (F.C.A.).

@@ -1,0 +1,133 @@
+Title: Katzenback v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28143/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-683-28143-katzenback-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-11-08
+
+# Katzenback v. The Queen
+
+- Citation: 2007 TCC 683
+- Decision date: 2007-11-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1826, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Katzenback v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-08
+Neutral citation
+2007 TCC 683
+File numbers
+2003-3722(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3722(IT)I
+BETWEEN:
+JOSEPH KATZENBACK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 6, 2007 at Edmonton, Alberta
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gregory Perlinski
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1998, 1999 and 2000 taxation years are allowed, without costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with and for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 21st day of November, 2007.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2007TCC683
+Date: 20071121
+Docket: 2003-3722(IT)I
+BETWEEN:
+JOSEPH KATZENBACK,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Edited from Reasons for Judgment delivered orally from the Bench
+on November 8, 2007 at Edmonton, Alberta)
+Hershfield J.
+[1] This appeal concerns business losses claimed and the failure to report interest income for the taxpayer’s 1998, 1999 and 2000 taxation years. The business losses relate to two businesses purported to have been carried on in those years. One business was a real estate agency business and the other was an importing business.
+[2] Both activities are asserted to have commenced in 1998.
+[3] The Respondent asserts that the Appellant had no business sources in any of the subject years and that expenses incurred and deducted in determining business losses were not incurred for the purpose of gaining or producing income.
+[4] The unreported income issue relates to interest income for which T5s were issued in the Appellant’s name and that were not reported by him.
+[5] Dealing firstly with whether there is a real estate agency business, the relevant facts as I find them are:
+· The Appellant has an Economics and Business degree;
+· Prior to the years in question and during the years in question he worked in the construction industry when he could find work that appealed to him – such work apparently having little or nothing to do with his formal education;
+· He was licensed as a real estate agent in 1997 but did not have a required linkage with a licensed office or broker from which he would be allowed to work or carry on business as a real estate agent until 1999 when he first started paying what he called “desk fees” and franchise fees to such a licensed office. It was not until 1999 then that I find that he had the required affiliation to conduct business as a real estate agent;
+· The income statement in his tax return for 1998 did not purport expenses to be in connection with a real estate agency business as it did in other years. I do not accept that this was a mistake.
+[6] Accordingly, I find there was no real estate agency business or no business income source in 1998 from a real estate agency business.
+[7] Turning to 1999, I note that during the first two months of that year the Appellant worked on a construction job. From thereon the picture seems different. The Appellant is distributing business cards, has a good sense of how he wants to try to build a real estate agency business and clearly spends time and money in the hope of building such business. He is paying material fees in the amount of $225 per month plus a franchise fee for his required broker affiliation which provided administrative facilities. I accept that he made attempts to find both buyers and sellers and focused mainly on building contacts from within a network of people with whom he came in contact. Accordingly, I conclude that his endeavors constituted a business or income source in 1999 and 2000 even though he received no revenues in either of those years, and even though I believe this was more of a sideline business standing behind his construction work and his efforts in respect of an importing business. As I will note momentarily however, that importing business, while being researched in 1999 and earlier, did not commence until the year 2000. That business was given a kick-start, so to speak, by the Appellant traveling abroad for some two and one-half months at the beginning of 2000. This put any real estate endeavors on a slow or back-burner. Still, I find that in 1999 and 2000 there was a business source in respect of the real estate agency business.
+[8] Turning to the importing business, it is clear that the Appellant did substantial research into this endeavor. He considered a variety of import products, primarily from India but from other countries as well. He produced documents supporting research done and generated in 1998. However, I still see no real start-up of a business per se until 2000 when he went to India to buy inventory at the beginning of that year. By this time his research enabled him to narrow his inventory objectives to small, less expensive items that might be more readily marketed in Canada. Accordingly, he acquired wallets and handbags and money belts and other like goods – primarily leather goods. His cost of inventory acquired on the trip was some $1,500. His research made him well-versed to deal with shipping and importing and the like. I accept that his trip had little to no personal element. He went alone and met a number of importers and exporters and trade people from other countries. He had a bag full of business cards of persons he met on the trip. I accept his testimony on these points.
+[9] The inventory acquired was not as easy to market as the Appellant might have hoped. The only sales made in the year were to flea market vendors yielding revenues of $840 and a gross profit of $210. There were no sales in future years mentioned at the hearing.
+[10] To sum up then, I find that there was a real estate agency business in 1999 and 2000 and an importing business in 2000. The appeals in respect of deductions for 1998 are denied and claims for deductions for 1999 for the importing business are denied as well.
+[11] A breakdown of where that leaves me is required.
+[12] Statements of earnings for the two businesses were presented in an amalgamated form on the taxpayer’s tax returns. That makes my task all the more difficult. Each distinct source of business income requires distinct income and expense statements. The Appellant’s testimony can be given some weight as to allocations here but he cannot get the benefit of any areas of doubt given his failure to properly account for the income and expenses of each business separately. That his former wife prepared returns, is of no importance on this question.[1]
+[13] I will deal firstly with auto expenses and capital cost allowance (CCA) on the van used in 1999 in the real estate agency business. It was a new van acquired in 1998 for over $20,000. The CCA was claimed on the basis of 100% business use. Recognizing some depreciation of the van at the time of transfer, I allow a value of the van of $19,000 for CCA purposes as of March 1999 when he was done construction work. This being the first year of inclusion in a depreciable class, the half-year rule will apply to the extent of usage related to the business which I find to be less than 100%.
+[14] The Appellant and his wife, a teacher, and a family of five children, at least one of which would appear to be of driving age in 1999 and 2000, are said to have used a second older van, as did he, for all of personal auto travel. This is highly improbable in my view. The new van in all probability had to have been used by the Appellant personally for personal use including use in respect of the research phase of the import business which did not commence until 2000. While I can see the vehicle would have been put to use in the conduct of the real estate activity, I would afford the Appellant no more than 60% business use. That is the percentage that I will allow for both the capital cost allowance purposes and for automobile expense purposes.
+[15] That takes me to the CCA claimed on the computer in 1999. The computer I find relates to three likely uses: use in the real estate agency business; use in the research and development phase of the importing business commenced in 2000; and personal use by his family. With respect to the latter usage, I note that there was a second computer in the house that had been provided by the school system to his children who were home taught. However, by the Appellant's own testimony, use of such computer was restricted for school work only and it is hard to believe that the children did not have full access to the Appellant's computer for non-school work as would his wife since again, by testimony of the Appellant, his wife would not be allowed to use the school computer for any personal use. As well, five children could readily put two computers to full use. I acknowledge that the Appellant himself did not likely use the computer much for personal use since he seems to have relied on others, like his wife, for the most part to assist him in respect of his computer use. As well, I have no evidence of computer usage in 2000 in respect of either of the businesses. I do not accept the Appellant’s testimony as the 100% business use of the computer.
+[16] Accordingly, I will allow 60% business use in respect of the computer in 1999[2] and would assign a capital cost of acquisition in that year subject to the half-year rule in that year (the first business year) of $2,000 recognizing the high rate of depreciation on such equipment as seen by the terminal loss claim in the 2000 taxation year.
+[17] Turning now to the 2000 year, I note that there is a significant increase in construction or other employment income. In 1998 it was some $13,000; in 1999 it was some $15,500; and in 2000 it was some $29,000.
+[18] Clearly it seems that the Appellant is working more on construction, his main area of work, yet his desk fees are continuing to be paid - only down slightly in respect of his real estate agency work. This slight drop does not even fully allow for the absence of the Appellant at the beginning of the 2000 year for some two and one-half months while on a trip abroad respecting the start-up of his importing business. Doubling his employment income and travelling to India and marketing his importing business inventory strikes me as being somewhat consuming and it strikes me, in spite of the maintenance of the desk fees, that something has to give. Based on the Appellant's testimony, focusing his efforts on the importing business, I would have to conclude that the real estate agency business was either winding down or not being as actively pursued as might be necessary to sustain it as a source. Still, I will allow it as a source, ignored or neglected or not, recognizing however that the percentage of business use expenditures must in all reason and probability have declined in respect of this business in 2000.
+[19] Dealing with the van then, in respect of the real estate agency business, I would allow 20% business use. With respect to the importing business, I would allow an additional 30% business use. I attribute greater personal use than the previous year based on the significant increase in construction or other employment income in the year. For CCA and auto expense purposes then the total business use is 50% for all businesses. I note that the non-arm’s length assignment of the van to a second business should not give rise to either the application of the half-year rule or a requirement that a new value be determined.
+[20] With respect to the computer, a terminal loss for the 2000 taxation year is allowed as recalculated in accordance with the above findings.
+[21] The administration and franchise fees claimed for both 1999 and 2000 are allowed in respect of the real estate agency business.
+[22] With respect to travel expenses in 2000 I note that it includes meals which are only allowed at 50%. Accordingly, the amount of deduction that I will allow will be fixed at $1,200.
+[23] Supplies are allowed as claimed in respect of both the 1999 and 2000 years.
+[24] Entertainment expenses claimed in 2000 are unsupported and likely include meals allowed only at 50%. Accordingly, I will permit a deduction of $250 in 2000. Meals in respect of the 1999 year are allowed at 50% of the amount claimed.
+[25] This takes me to the unreported interest income issue.
+[26] The issue arises from T5s issued by Canada Trust Mortgage Company to the Appellant, that the Appellant says have been issued to him as registered owner only and that they are income receipts earned for and held for his children and should be reported on their returns. He says he is, in effect, only a trustee.
+[27] It was determined at the hearing, on the basis of rough calculations, that the amount invested was in the order of some $40,000.
+[28] The Appellant said he thought that the capital of such trust for the children had been saved largely from family allowance but also from gifts and odd jobs. While I accept the possibility that family allowance or child tax benefit payments could have been saved and segregated in respect of children (that were in the year 2000 between the ages of 10 and 17) in amounts that could have added up to a significant part of a $40,000 capital fund, I find it hard to believe that what would have been required to be done to avoid attribution would in fact have been done. To find otherwise I would have to accept that each family allowance cheque for all the years was in fact segregated and kept separate since 1983 when the oldest child was born. While the Appellant said that was the case, I simply do not accept that testimony. He was aware of attribution rules and tax planning to avoid it and was, in my view, simply searching for a way out of attribution problems inherent in his assertions. If nothing else, the Appellant proved himself quite “clever” in much of his evidence which did not add to his credibility.
+[29] More credibly, he also hinted that his ex-wife would be the person who would have made more contributions to these trust accounts, not him, as she had greater earnings. While this theory seems more plausible it still, nonetheless, is a theory. In any event, I will not, in this case, give the Appellant the benefit of any doubt on the basis of possible explanations even recognizing that the unreported T5s are acknowledged by the Respondent to have been reported by Canada Trust Mortgage Company as “joint” accounts. Such acknowledgement carries with it a presumption that there is another owner and I accept the possibility that that was the children. However, the Appellant had some five years to look into this and sort out the attribution issues. He could have verified that the joint owners were the children and received a copy of the deposit history with the Canada Trust Mortgage Company – after all, he is the registered owner of the account and would have access to all such information (as opposed to his ex-wife). As well he could 4 or 5 years ago (after the assessment and separation from his ex-wife) have obtained records from banks that might have revealed sources of the payments to Canada Trust Mortgage Company.
+[30] The Appellant was totally unprepared to deal with this issue in the manner that it needed to be dealt with. He acknowledged this at the outset of the hearing (in relation to his request to adjourn the hearing). He said then that he was unprepared to deal with this issue but that does not help him. He ought to have been prepared. Justice Woods’ adjournment should have allowed him to get ready to deal with the issues. The interest issue has been there for five years. He talked about it with the Canada Revenue Agency right after the assessment. I appreciate that life was nearing a breaking point at that time but even in the last few months the Appellant should have known about the issue and heeded Justice Woods' advice to get his evidence together. He failed to do that and I will not engage in inventing scenarios or relying on possible or even plausible scenarios to assist the Appellant in respect of this issue. He has a burden that goes back to 1998 to know the facts related to the T5s sent to him at his address.
+[31] The appeals in respect of unreported interest income are, accordingly, dismissed in respect of all years.
+[32] This Judgment is made without costs.
+Signed at Ottawa, Canada this 21st day of November, 2007.
+"J.E. Hershfield"
+Hershfield J.
+CITATION:
+2007TCC683
+COURT FILE NO.:
+2003-3722(IT)I
+STYLE OF CAUSE:
+Joseph Katzenback and Her Majesty the Queen
+DATE AND PLACE OF HEARING:
+November 6, 2007
+Edmonton, Alberta
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.E. Hershfield
+DATE OF ORAL JUDGMENT:
+November 8, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gregory Perlinski
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Appellant was refused an adjournment request made at the outset of the hearing. The main reason for the request related to evidence that he asserted would be known to his wife was unavailable. That request was denied for Reasons attached to my Order signed coincidently with this Judgment.
+[2] In Reasons for Judgment delivered from the bench, the business use was said to be set at 40%. That was a slip - the reference was intended to be 40% personal.

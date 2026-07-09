@@ -1,0 +1,142 @@
+---
+title: "Sitter v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29991/index.do"
+last_modified: "2010-03-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 263"
+citation2: ""
+neutral_citation: "2010 TCC 263"
+decision_date: "2010-03-22"
+language: "en"
+item_id: "29991"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8000
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:31:33.847000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c3b6e66ab49f119914737f686a6a1ba1b28a7e37cc5387111627d31dbe6df7bf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sitter v. The Queen
+
+- Citation: 2010 TCC 263
+- Decision date: 2010-03-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8000, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sitter v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-22
+Neutral citation
+2010 TCC 263
+File numbers
+2009-1848(IT)I
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1848(IT)I
+BETWEEN:
+SHAWNA SITTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+____________________________________________________________________
+Before: The Honourable Justice Steven K. D'Arcy
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jack Warren
+____________________________________________________________________
+EDITED VERSION OF TRANSCRIPT
+OF ORAL REASONS FOR JUDGMENT
+Let the attached edited transcript of the Reasons for Judgment, delivered orally by conference call on March 18, 2010 at Ottawa, Canada, be filed. I have edited the transcript (certified by the Court Reporter) for style, clarity, and accuracy. I did not make any substantive changes.
+Signed at Ottawa, Canada, this 12th day of May, 2010.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2010 TCC 263
+Date: 20100322
+Docket: 2009-1848(IT)I
+BETWEEN:
+SHAWNA SITTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+____________________________________________________________________
+EDITED VERSION OF TRANSCRIPT
+OF ORAL REASONS FOR JUDGMENT
+(Delivered orally by conference call
+on March 18, 2010 at Ottawa, Canada)
+D’Arcy J.
+[1] I will now render my oral decision.
+[2] The Appellant, Shawna Sitter, has appealed a notice of redetermination issued in respect of the Canada Child Tax Benefit and the Goods and Services Tax Credit received by her during the period from March 2006 to December 2007.
+[3] There was no dispute with respect to the facts.
+[4] The Appellant and Steven Sitter married in 1995. Mr. Sitter’s two children began living with the Appellant and Mr. Sitter in August of 2004. The Appellant and Mr. Sitter began to receive the Child Tax Benefit and the Goods and Services Tax Credit shortly after the children began to live with them.
+[5] The Child Tax Benefit and the Goods and Services Tax Credit were deposited into a bank account held jointly by the Appellant and Mr. Sitter.
+[6] In February of 2006, Mr. Sitter filed for divorce. The Appellant continued to live in the matrimonial home until September 2006.
+[7] The Appellant testified that Mr. Sitter became the primary caregiver in February of 2006.
+[8] The Appellant did not realize that she was required to notify the Canada Revenue Agency of the change in her relationship with Mr. Sitter and the two children.
+[9] The Canadian Revenue Agency continued, after February 2006, to deposit into the joint bank account payments in respect of the Canada Child Tax Benefit and the Goods and Services Tax Credit.
+[10] The Appellant noted on her 2006 tax return the change in her status and her new address. This return was filed in 2007.
+[11] It appears that once the Canada Revenue Agency became aware of the change, it reviewed her eligibility for the Canada Child Tax Benefit and the Goods and Services Tax Credit. It then issued a redetermination stating that she had been overpaid amounts in respect of the Child Tax Benefits and the Goods and Services Tax Credit.
+[12] The Appellant has appealed the redetermination.
+[13] The Appellant acknowledged during the hearing that she was not entitled to the amounts paid to her after February 2006 in respect of the Child Tax Benefit and the Goods and Services Tax Credit.
+[14] She noted that if possible she would have repaid the amounts. However, she did not have access to the joint account after September 2006.
+[15] Further, she did not become aware that the Canada Revenue Agency was continuing to pay the amounts into the joint account until sometime in 2007.
+[16] Pursuant to subsection 122.61(1) of the Income Tax Act, the Child Tax Benefit can only be paid to an eligible individual in respect of qualifying dependents.
+[17] In order for a person to be an eligible individual, the person must be the parent of a qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant.
+[18] Unfortunately, in light of the fact that Mr. Sitter, in February 2006, became the person who primarily fulfilled the responsibility for the care and upbringing of the children, the Court cannot help the Appellant.
+[19] The Court is bound by the wording of the Income Tax Act.
+[20] As counsel for the Respondent noted in his argument, the Appellant ceased to be an eligible individual in February 2006, the month in which she ceased to be the primary caregiver for the children.
+[21] As a result, the Appellant was not entitled to receive the Child Tax Benefit after February 2006.
+[22] Further, pursuant to section 122.5, Mr. Sitter was also the person who was entitled, effective February 2006, to claim the Goods and Services Tax Credit in respect of the children.
+[23] Although I understand that the Appellant did not have access to the amounts paid in respect of the Child Tax Benefit, the amounts were paid into the bank account provided by her to the Canada Revenue Agency.
+[24] For these reasons, the appeal is dismissed, without costs.
+D’Arcy J.
+CITATION: 2010 TCC 263
+COURT FILE NO.: 2009-1848(IT)I
+STYLE OF CAUSE: SHAWNA SITTER AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: LONDON, ONTARIO
+OTTAWA, CANADA
+DATE OF HEARING: MARCH 11, 2010
+MARCH 18, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice
+Steven K. D'Arcy
+DATE OF JUDGMENT: MARCH 22, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jack Warren
+COUNSEL OF RECORD:
+For the Appellant: N/A
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

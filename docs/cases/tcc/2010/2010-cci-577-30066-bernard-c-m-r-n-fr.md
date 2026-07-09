@@ -1,0 +1,179 @@
+---
+title: "Bernard c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30066/index.do"
+last_modified: "2010-11-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 577"
+citation2: ""
+neutral_citation: "2010 CCI 577"
+decision_date: "2010-11-08"
+language: "fr"
+item_id: "30066"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7621
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:27:52.997000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3756b2f615dcaba29d0558e359eab263353750d952250993be1dd4c918341875"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bernard c. M.R.N.
+
+- Citation: 2010 CCI 577
+- Decision date: 2010-11-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7621, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bernard c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-11-08
+Référence neutre
+2010 CCI 577
+Numéro de dossier
+2010-524(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010-524(EI)
+ENTRE :
+RACHÈLE G. BERNARD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ALPHONSE BERNARD C.A. INC.
+intervenante.
+____________________________________________________________________
+Appel entendu le 13 juillet 2010, à New Carlisle (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocat de l'intimé :
+Représentant de l’intervenante :
+Me Simon‑Olivier de Launière
+Alphonse Bernard
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») est accueilli au motif que, du 5 janvier 2007 au 1er mai 2009, madame Rachèle G. Bernard occupait un emploi assurable au sens de l’alinéa 5(1)a) de la Loi lorsqu’elle était au service de Alponse Bernard C.A. Inc., selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2010.
+« Paul Bédard »
+Juge Bédard
+Référence : 2010 CCI 577
+Date : 20101108
+Dossier : 2010-524(EI)
+ENTRE :
+RACHÈLE G. BERNARD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ALPHONSE BERNARD C.A. INC.
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] L'appelante interjette appel de la décision du ministre du Revenu national (le « ministre ») rendue en vertu de la Loi sur l’assurance‑emploi (la « Loi »). Le ministre a décidé que l’appelante n’occupait pas un emploi assurable lorsqu’elle était au service de Alphonse Bernard C.A. Inc. (le « payeur ») pendant la période en litige, soit du 5 janvier 2007 au 1er mai 2009, puisqu’il a conclu qu’il s’agissait d’un emploi exclu, parce qu’un contrat de travail semblable n’aurait pas été conclu s’il n’y avait pas eu de lien de dépendance entre l’appelante et le payeur.
+[2] Pour rendre sa décision, le ministre s’est basé sur les présomptions de fait suivantes énoncées aux paragraphes 5 et 6 de la Réponse à l’avis d’appel, lesquelles ont été admises ou niées, selon le cas :
+5) L’appelante et le payeur sont des personnes liées au sens de la Loi de l’impôt sur le revenu car :
+a. l’actionnaire majoritaire du payeur était Alphonse Bernard avec 70 % des actions votantes, Claude Bernard avec 25 % et Hélène Lagacé avec 5 %; (admis)
+b. l’appelante est l’épouse de Alphonse Bernard et la mère de Claude Bernard; (admis)
+c. l’appelante est liée par les liens du mariage à une personne qui contrôle le payeur; (admis)
+6) Le ministre a déterminé que l’appelante et le payeur avaient un lien de dépendance entre eux dans le cadre de cet emploi. En effet, le ministre a été convaincu qu’il n’était pas raisonnable de conclure que l’appelante et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes :
+a) le payeur a été constitué en société le 1er janvier 2004; (admis)
+b) l’entreprise du payeur existe depuis 1996 et à cette époque, Alphonse Bernard exploitait seul son entreprise; (admis)
+c) l’entreprise du payeur est un cabinet de comptables; (admis)
+d) Alphonse et Claude Bernard ont leur titre de comptable alors que Hélène Lagacé a beaucoup d’expérience en comptabilité; (admis)
+e) Alphonse et Claude Bernard sont les seuls administrateurs du payeur et ont pour unique tâche d’approuver les états financiers à la fin de l’année; (nié tel que rédigé)
+f) chaque actionnaire gère sa propre clientèle, par contre, lorsqu’il s’agit d’achat, de réorganisation ou d’engagement du personnel, tous les actionnaires sont consultés; (nié)
+g) la période la plus achalandée du payeur se situe entre les mois de février et la fin mai, soit la période de production des déclarations d’impôt; (nié)
+h) le chiffre d’affaires du payeur connaît une croissance constante depuis quelques années et s’élevait à 476 000 $ au 31 décembre 2008; (admis)
+i) le payeur engage entre 7 et 8 personnes, incluant les actionnaires; (admis)
+j) les heures d’affaires du payeur, donc celles respectées par les actionnaires, sont de 8 h à 16 h 30 du lundi au vendredi alors que l’horaire des employés est de 8 h 30 à 16 h 30 pour 35 heures par semaine; (nié tel que rédigé)
+k) l’appelante a été engagée pour la première fois par le payeur lors de la période en litige; (admis)
+l) l’appelante était retraitée depuis le 31 octobre 2008 après 30 ans de services au Centre de Santé et service sociaux de Baie des Chaleurs; (nié tel que rédigé)
+m) l’appelante avait un mandat spécifique à remplir suite à son engagement, soit la réorganisation et l’uniformisation de la méthode de classement des dossiers des professionnels du bureau, la mise à jour des lettres modèles utilisées et d’agir comme personne ressource pour la secrétaire‑réceptionniste qui avait peu d’expérience; (admis)
+n) l’horaire de travail de l’appelante a été déterminé en fonctions de celui d’Alphonse Bernard, puisqu’ils voyageaient ensemble, elle faisait donc 40 heures par semaines, bien qu’elle soit payée pour 35 heures; (admis)
+o) les heures travaillées par l’appelante n’était pas compilées du fait qu’elle était payée à un salaire fixe par semaine et que ses fonctions étaient liées à l’administration de l’entreprise et non directement aux opérations; (nié tel que rédigé)
+p) le salaire de l’appelante a été déterminé lors d’une consultation des actionnaires suite à une discussion avec l’appelante de son salaire gagné chez le précédent employeur et de ses attentes; (admis)
+q) lors de la détermination du salaire de l’appelante, les actionnaires ont pris en considération le fait que le mandat de travail était très spécifique et ponctuel, qu’une fois le mandat rempli, l’appelante serait mise à pied et pas remplacée; de plus, ils ont considéré l’expérience de l’appelante dans ce domaine; (admis)
+r) l’appelante a reçu un salaire annuel de 60 000 $ qui est plus élevé que le salaire de base des 3 actionnaires et ce sans tenir compte des bonis qui leur sont versés; (nié tel que rédigé)
+s) la rémunération de l’appelante s’élevait à 2 307.69 $ brut aux deux semaines; (admis)
+t) selon Emploi‑Québec, le salaire horaire au Québec de 2006 à 2008 pour une secrétaire de direction variait entre 16 $ et 25,99 $; (nié)
+u) pour 17 semaines de travail, l’appelante a reçu 20 399 $, ce qui correspond au salaire annuel (20 255 $) reçu par la secrétaire non liée pour toute une année de travail; (admis)
+v) l’appelante a été engagée principalement pour une réorganisation du système de classement des dossiers pendant la période la plus achalandée du payeur; (nié tel que rédigé)
+w) l’appelante a été mise à pied lorsque son mandat a été entièrement réalisé, selon le payeur, alors que l’appelante affirme que sa mise à pied correspond au fait que le « rush » était terminé et qu’elle voulait retourner bénéficier de sa retraite malgré que tout le travail n’était pas terminé car il restait d’autres points à améliorer, tel que la politique d’archivage; (nié tel que rédigé).
+[3] L’appelante a témoigné. Monsieur Alphonse Bernard (le conjoint de l’appelante et aussi l'actionnaire majoritaire du payeur) a témoigné à l’appui de la position de l’appelante, alors que seule madame Nathalie Belleau, l’agente des appels a témoigné à l’appui de la position de l’intimé.
+[4] La Cour d’appel fédérale a défini à plusieurs reprises le rôle confié par la Loi à un juge de la Cour canadienne de l’impôt. Ce rôle ne permet pas à un juge de substituer sa décision discrétionnaire à celle du ministre, mais il emporte l’obligation de « vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, […] décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable » (voir Légaré c. Canada (Ministre du Revenu national – M.R.N.), [1999] A.C.F. no 878 (QL), au paragraphe 4).
+[5] Monsieur Bernard, dont la crédibilité n’est pas mise en doute, a notamment témoigné à l’effet que :
+i. l’appelante avait été engagée pour exécuter un mandat spécifique qui consistait essentiellement à :
+a) réorganiser et uniformiser la méthode de classement des dossiers du payeur;
+b) élaguer les dossiers inactifs compte tenu que le payeur n’avait plus d’espace pour entreposer ses dossiers actifs;
+c) reformuler toutes les lettres modèles afin qu’elles soient conformes aux normes de l’ordre des comptables agréés;
+d) agir comme personne ressource pour la secrétaire‑réceptionniste peu expérimentée que le payeur venait d’engager.
+Monsieur Bernard a aussi expliqué que, bien qu’il n’avait pas une idée très précise du temps requis pour exécuter le mandat, le payeur avait fait comprendre à l’appelante que le mandat était de nature temporaire et que le temps pour l’exécuter serait largement inférieur à un an;
+ii. avant que le payeur n’engage l’appelante pour exécuter le mandat, ce dernier avait été à la recherche d’une personne pour exécuter le mandat, et ce, pendant plus de deux ans. À cet égard, monsieur Bernard a expliqué que le poste avait été affiché au bureau d’Emploi Québec sans pour autant trouver preneur;
+iii. au début de l’année 2007, le payeur devait absolument trouver une personne pour exécuter le mandat compte tenu notamment que le payeur n’avait presque plus de place pour entreposer les dossiers actifs et que les lettres modèles ne respectaient plus les normes de l’Ordre des comptables agréés. Somme toute, monsieur Bernard a longuement expliqué l’urgence qu’il y avait alors de trouver une personne expérimentée pour exécuter ce mandat;
+iv. le payeur a mis à pied l’appelante le 1er mai 2009 puisque l’essentiel du mandat confié à l’appelante avait été exécuté avec succès;
+v. la rémunération de l’appelante avait fait l’objet de négociations entre le payeur et l’appelante et les facteurs qui avaient été pris en compte par le payeur avaient été les suivants : la nature du mandat en ce qu’il était spécifique, ponctuel et temporaire, l’urgence de trouver une personne pour l’exécuter, les efforts répétés et infructueux pour trouver une personne qualifiée pour exécuter le mandat, ainsi que l’expérience et les qualifications de l’appelante;
+vi. seul les employés du payeur dont le temps était facturé aux clients devaient remplir une feuille de temps;
+vii. le fait qu’il payait le lunch de l’appelante et que l’appelante voyageait gratuitement avec lui compensait en quelque sorte pour l’heure de travail bénévole qu’elle faisait quotidiennement pour le payeur.
+[6] L’appelante, dont la crédibilité n’est pas mise en doute, a essentiellement réitéré pour l’essentiel le témoignage de son conjoint. Toutefois, elle a ajouté que :
+i. elle avait occupé pendant plus de 30 ans un poste de secrétaire de direction au sein du Centre de santé et des services sociaux de la Baie des Chaleurs;
+ii. la rémunération exigée et obtenue du payeur était celle qu’elle recevait de son employeur avant de prendre sa retraite;
+iii. elle avait été mise à pied lorsque la presque totalité de son mandat avait été complété;
+iv. elle ne se souvenait pas d’avoir dit à madame Nathalie Belleau qu’elle avait été engagée par le payeur pour occuper un poste de secrétaire de direction.
+[7] Examinons maintenant les allégations du ministre à la lumière des faits mis en preuve. Je suis d’abord d’opinion que le ministre a erré en s’appuyant trop sur le fait que, selon les statistiques publiées par Emploi‑Québec, le salaire au Québec d’une secrétaire de direction variait entre 16 $ et 25,99 $. À mon avis, le ministre a ignoré à tort les particularités de la situation : d’abord, il a ignoré l’urgence pour le payeur de trouver une personne qualifiée et expérimentée pour exécuter le mandat et l’impossibilité pour le payeur de trouver cette personne, et ce, malgré ses nombreuses tentatives. Le ministre a aussi ignoré à tort le caractère précaire de l’emploi et la nature spécifique des tâches liées à cet emploi. Il ne faut pas oublier que le payeur recherchait une personne expérimentée pour exécuter un mandat spécifique et de courte durée. Le payeur ne recherchait aucunement une secrétaire de direction à temps plein. De toute façon, je ne suis même pas convaincu que toutes les tâches confiées à l’appelante correspondaient à celles normalement exécutées par une secrétaire de direction telles que décrites dans le document produit en preuve sous la cote I‑1, onglet 5, document émanant d’Emploi‑Québec. De plus, est‑ce que la statistique alléguée par le ministre était la même pour l’année 2009? Est‑ce que les taux horaires allégués par le ministre (en l’espèce de 16 $ à 25,99 $) incluent les avantages sociaux? Toutes ces questions sont demeurées sans réponse. J’ajouterais qu’il aurait été fort intéressant de connaître les statistiques publiées par Emploi‑Québec pour la région de la Gaspésie. De toute façon, considérant que l’appelante avait travaillé non pas 35 heures par semaine mais bien 40 heures par semaine et qu’ainsi le salaire horaire réel de l’appelante avait été de 28,83 $ pendant la période pertinente (2 307 $ ÷ 80 heures), il m’apparaît que le salaire horaire réel de l’appelante n’est pas éloigné du salaire horaire maximum qu’une secrétaire de direction gagnait en 2008 au Québec selon Emploi‑Québec. J’ajouterai que le fait que l’appelante ait reçu une rémunération plus élevée que celle de la secrétaire du payeur et des actionnaires du payeur ne me semble aucunement pertinent. Ceci, à mon avis, est concluant quant alinéas 6r), s), t) et v). Aucun de ces alinéas ne me permet de conclure raisonnablement à l’existence d'un lien de dépendance.
+[8] Le ministre a aussi allégué que l’emploi de l’appelante devait être exclu puisque cette dernière travaillait bénévolement pour le payeur à raison d’une heure par jour pendant la période pertinente. En soi, le fait d’exécuter du travail bénévole n’entraîne pas nécessairement l’exclusion en vertu de l’alinéa 5(2)i) de la Loi. Tout est question de circonstances et de degré. Que l’appelante donne un coup de main gratuitement (en l’espèce une heure par jour) à l’entreprise familiale en attendant que son conjoint, avec qui elle faisait la navette, termine son travail ne m’apparaît pas comme un facteur suffisamment important pour exclure cet emploi. De toute façon, ce travail était‑il vraiment bénévole puisque, en contrepartie, l’appelante n’avait rien à débourser pour se rendre à son lieu de travail et le lunch lui était offert gratuitement?
+[9] Enfin, j’ajouterais à l’égard des allégations du ministre traitant de la durée du travail, que les témoignages de l’appelante et de son conjoint m’ont convaincu que, non seulement le travail accompli par l’appelante avait été utile, mais aussi qu’il était nécessaire. Ils m’ont aussi convaincu que l’appelante avait été mise à pied parce que la presque totalité du mandat avait été exécuté.
+[10] Pour ces motifs, l’appel est accueilli.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2010.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2010 CCI 577
+Nº DU DOSSIER DE LA COUR : 2010-524(EI)
+INTITULÉ DE LA CAUSE : RACHÈLE G. BERNARD c. M.R.N et ALPHONSE BERNARD C.A. INC.
+LIEU DE L’AUDIENCE : New Carlisle (Québec)
+DATE DE L’AUDIENCE : le 13 juillet 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 8 novembre 2010
+COMPARUTIONS :
+Pour l'appelante :
+l'appelante elle-même
+Avocat de l'intimé :
+Représentant de l’intervenante :
+Me Simon‑Olivier de Launière
+Alphonse Bernard
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

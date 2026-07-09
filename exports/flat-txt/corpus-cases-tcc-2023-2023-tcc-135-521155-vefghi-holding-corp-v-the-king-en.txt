@@ -1,0 +1,264 @@
+Title: Vefghi Holding Corp. v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521155/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-135-521155-vefghi-holding-corp-v-the-king-en.md
+Document type: case_law
+Last modified: 2023-09-07
+
+# Vefghi Holding Corp. v. The King
+
+- Citation: 2023 TCC 135
+- Decision date: 2023-09-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5683, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vefghi Holding Corp. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-09-05
+Neutral citation
+2023 TCC 135
+File numbers
+2020-1216(IT)G, 2020-1231(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2020-1216(IT)G
+BETWEEN:
+VEFGHI HOLDING CORP.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2020-1231(IT)G
+AND BETWEEN:
+S.O.N.S. ENVIRONMENTAL LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Application heard on September 22, 2022 at Vancouver, British Columbia
+Before: The Honourable Justice Steven K. D’Arcy
+Appearances:
+Counsel for the Appellants:
+Robert Carvalho
+Alvin T.L. Lun
+Counsel for the Respondent:
+Spencer Landsiedel
+Whitney Dunn
+ORDER
+In accordance with my Reasons for Order;
+The answer to the Rule 58 Question is the following:
+Where a trust designates a portion of a taxable dividend (the “Amount”) received on a share of the capital stock of a taxable Canadian corporation (the “Issuer”), pursuant to subsection 104(19) of the federal Income Tax Act (the “Act”), such that the Amount is deemed to have been received by a beneficiary (the “Beneficiary”), the determination of whether the Issuer is connected with the Beneficiary is made at the time that the taxable dividend was, as a question of fact, received by the trust provided that the Beneficiary is deemed under subsection 104(19) to have received the Amount in the same taxation year as the taxable dividend was, as a question of fact, received by the trust.
+However, if the Beneficiary is deemed under subsection 104(19) to have received the Amount in a taxation year that is subsequent to its taxation year in which the taxable dividend was, as a question of fact, received by the trust, then the determination of whether the Issuer is connected with the Beneficiary is made in the subsequent taxation year of the Beneficiary.
+Each party shall bear their own costs of the Rule 58 Application.
+Signed at Toronto, Ontario, this 5th day of September 2023.
+“S. D’Arcy”
+D’Arcy J.
+Citation: 2023TCC135
+Date: 20230905
+Docket: 2020-1216(IT)G
+BETWEEN:
+VEFGHI HOLDING CORP.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2020-1231(IT)G
+AND BETWEEN:
+S.O.N.S. ENVIRONMENTAL LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+D’Arcy J.
+[1] These reasons address an application for the determination of a question of mixed law and fact, pursuant to Rule 58 of the Tax Court of Canada Rules (General Procedure), S.O.R./90-688a (the “Rule 58 Application”). The actual question (the “Rule 58 Question”) reads as follows:
+Where a trust designates a portion of a taxable dividend (the “Amount”) received on a share of the capital stock of a taxable Canadian corporation (the “Issuer”), pursuant to subsection 104(19) of the federal Income Tax Act (the “Act”), such that the Amount is deemed to have been received by a beneficiary (the “Beneficiary”), when is it determined whether the Issuer is connected with the Beneficiary for purposes of paragraph 186(1)(a) of the Act?
+[2] The question arises as a result of the Minister’s imposition of the tax levied under Part IV of the Income Tax Act[1] (the “Act”) in the situation where:
+-a taxable Canadian corporation paid a dividend to a trust at a time where the trust, or persons with whom the trust did not deal with at arm’s length, controlled the corporation;
+-the trust, under subsection 104(19), subsequently designated the dividends to be dividends received by a corporate beneficiary of the trust; and
+-the trust or the non-arm’s length persons, subsequent to the payment of the dividends and before the trust’s year-end, relinquished control of the corporation.
+[3] Each of the Appellants, Vefghi Holding Corporation (“Vefghi Corp.”) and S.O.N.S. Environmental Ltd. (“S.O.N.S.”) brought the required motion requesting a determination, before a hearing, of the Rule 58 Question. The Respondent consented to the motion. After hearing from the parties, I issued an order on July 29, 2022 providing for a hearing of the Rule 58 Question (the “July 29th Order”).
+Facts
+[4] Pursuant to the July 29th Order, the following evidence was placed before the Court for the purpose of the Rule 58 Application:
+-the pleadings; and
+-the agreed statements of facts, attached as Appendices A and B to these reasons for my determination.
+[5] The relevant facts for Vefghi Corp.’s appeal (the “Vefghi Appeal”) are as follows:
+-Vefghi Corp. is incorporated under the laws of British Columbia. During the relevant period it was, as defined in subsection 89(1) of the Act, a “taxable Canadian corporation” and a “private corporation”. Rahmatollah Vefghi and Parvin Yavari owned all of Vefghi Corp.’s issued and outstanding shares.
+-Rahmatollah Vefghi and Parvin Yavari were the trustees of a Canadian resident inter vivos trust called the Vefghi Family Trust (the “Vefghi Trust”). Vefghi Corp. was a beneficiary of the Vefghi Trust.
+-Vefghi Corp. and the Vefghi Trust each had a December 31st year-end.
+-R. Vefghi Environmental Consultant Inc. (“Consultant Inc.”) was incorporated in British Columbia and it also was, during the relevant period, a taxable Canadian corporation and a private corporation. Rahmatollah Vefghi and Parvin Yavari owned all of Consultant Inc.’s non-voting preferred shares. The Vefghi Trust owned all of Consultant Inc.’s Class A voting common shares.
+-On July 1, 2015, Consultant Inc. declared and paid a dividend on its Class A voting common shares in the amount of $1,363,283.
+-On July 1, 2015, the Vefghi Trust sold all of Consultant Inc.’s Class A voting common shares to a person whom both the Vefghi Trust and Vefghi Corp. dealt with at arm’s length for purposes of the Act.
+-The Vefghi Trust declared an income allocation to Vefghi Corp. in the amount of $1,363,283 effective July 1, 2015.
+-In computing its income for the taxation year ending December 31, 2015, the Vefghi Trust deducted an amount of $1,363,283, pursuant to subsection 104(6) of the Income Tax Act.
+-In filing its income tax return for the taxation year ending December 31, 2015, the Vefghi Trust designated an amount of $1,363,283 to be a taxable dividend received by Vefghi Corp. on Consultant Inc.’s Class A voting common shares, pursuant to subsection 104(19) of the Act.
+-In filing its income tax return for the taxation year ending December 31, 2015, Vefghi Corp. reported the $1,363,283 as a taxable dividend received and included the amount in its income, pursuant to paragraph 104(13)(a).[2] It determined that its liability for tax under Part IV of the Act in relation to the dividend was nil.
+-The Minister subsequently reassessed Vefghi Corp.’s December 31, 2015 taxation year for tax payable under Part IV of the Act in the amount of $454,428.
+[6] The relevant facts for S.O.N.S.’s appeal (the “S.O.N.S. Appeal”) are as follows:
+-S.O.N.S. is incorporated under the laws of British Columbia. During the relevant period it was, as defined in subsection 89(1) of the Act, a “taxable Canadian corporation” and a “private corporation”. Spouses George and Dani Mate, together with four other related family members, owned all of S.O.N.S.’s issued and outstanding shares.
+-George Mate was the trustee of a Canadian resident inter vivos trust called the Mate Family Trust (the “Mate Trust”). S.O.N.S. was a beneficiary of the Mate Trust.
+-The Mate Trust had a December 31st year-end and S.O.N.S. had an August31st year-end.
+-M&R Environmental Ltd. (“Environmental Corp.”) was incorporated in British Columbia and it also was, during the relevant period, a taxable Canadian corporation and a private corporation. George Mate and Dani Mate owned the majority of Environmental Corp.’s voting ClassA common shares. The Mate Trust owned the majority of Environmental Corp.’s non-voting Class B common shares.
+-On June 30, 2015, Environmental Corp. declared a series of dividends on its Class B common shares in the total amount of $3,100,000 (the “Class B Dividends”). The portion of the Class B Dividends attributable to the Class B shares held by the Mate Trust was $1,968,500. Environmental Corp paid the Class B Dividends on June 30, 2015 by way of the issuance of a promissory note.
+-On July 1, 2015, George Mate, Dani Mate and the Mate Trust sold all of their shares of Environmental Corp. to a person whom both the Mate Trust and S.O.N.S. dealt with at arm’s length for purposes of the Act.
+-The Mate Trust declared an income allocation to S.O.N.S. in the amount of $1,967,731.25 effective July 1, 2015.
+-In computing its income for the taxation year ending December 31, 2015, the Mate Trust deducted an amount of $1,967,731.25, pursuant to subsection 104(6) of the Act.
+-In filing its income tax return for the taxation year ending December 31, 2015, the Mate Trust designated an amount of $1,967,731.25 to be a taxable dividend received by S.O.N.S. on Environmental Corp.’s non-voting Class B common shares, pursuant to subsection 104(19) of the Act.
+-In filing its income tax return for the taxation year ending August 31, 2015, S.O.N.S. reported the $1,967,731.25 as a taxable dividend received and included the amount in its income, pursuant to paragraph 104(13)(a).[3] It determined that its liability for tax under Part IV of the Act in relation to the dividend was nil.
+-The Minister subsequently reassessed S.O.N.S.’s August 31, 2016 taxation year for tax payable under Part IV of the Act in the amount of $655,910.
+The Law
+A. Refundable Part IV Tax
+[7] The Rule 58 Question relates to the imposition of the tax levied under Part IV of the Act. The refundable Part IV tax is intended to reduce or eliminate the corporate tax deferral on passive investment income. Its general purpose and operation were explained by Linda Woo and Gavin Friedley in Chapter 9 of the 5th edition of the publication Taxation of Private Corporations and Their Shareholders[4] as follows:
+Refundable taxes were introduced to eliminate the corporate tax deferral on passive investment income. Under the refundable tax regime, private corporations are required to prepay the tax on their investment income earned; the prepaid tax approximates the amount of tax an individual subject to tax at the highest marginal rate would have paid if she had earned that investment income personally. A portion of the tax is subsequently refunded to the corporation upon the payment of taxable dividends by the corporation to its shareholders. This refundable tax mechanism is intended to discourage individuals from using a corporation to earn passive investment income to defer tax.[5]
+[8] In the current appeals, the deferral arises because of the deduction provided for in subsection 112(1) to a corporation in respect of a taxable dividend received from a taxable Canadian corporation. Generally speaking, the amount of the taxable dividend is included in the corporation’s income and then deducted under subsection 112(1). As a result, the corporation does not pay Part I tax on the dividend.
+[9] The deduction under subsection 112(1) avoids the double taxation of the inter-corporate taxable dividend. Former Associate Chief Justice Lamarre explained the purpose of subsection 112(1) in Fiducie Financière Satoma, at paragraphs 98 and 99, as follows:
+[98] To avoid double taxation of the same income, intercorporate dividends are subject to the deduction provided for in subsection 112(1) of the ITA (Report of the Technical Committee on Business Taxation (Mintz Committee Report on Business Taxation), December 1997, section 7.8: “The Inter-corporate Dividend Deduction” (Tab 27 of the Respondent’s book of authorities).
+[99] According to the integration theory, the dividend will only be taxable at the very end of the process, when the individual receives this amount. It can therefore be said that subsection 112(1) is necessary to allow a Canadian corporation to distribute its income to its shareholders without double taxation in the case of intermediary corporations, assuming, of course, that all the conditions in section 112 are met …[6]
+[10] However, the inter-corporate dividend may be subject to the refundable tax levied under Part IV of the Act. Specifically, paragraph 186(1)(a) levies a tax on a corporation that is at any time in a taxation year a private corporation,[7] equal to “38 1/3%[8] of all assessable dividends received by the particular corporation in the year from corporations other than payer corporations connected with it”.[9]
+[11] Assessable dividend is defined in subsection 186(3) and includes a dividend received by a private corporation that is deductible under section 112. The subsection reads as follows:
+“assessable dividend” means an amount received by a corporation at a time when it is a private corporation or a subject corporation as, on account of, in lieu of payment of or in satisfaction of, a taxable dividend from a corporation, to the extent of the amount in respect of the dividend that is deductible under section 112, paragraph 113(1)(a), (a.1), (b) or (d) or subsection 113(2) in computing the recipient corporation’s taxable income for the year.
+[12] Private corporation is defined in subsection 89(1) to mean a corporation that, at the particular time, is resident in Canada, is not a public corporation and is not controlled by one or more public corporations or prescribed federal Crown corporations or by any combination thereof.
+[13] The Rule 58 Question before the Court arises because the Part IV tax levied under subsection 186(1)(a) does not apply to dividends received by the private corporation from a payer corporation that it is connected with.
+[14] Subsection 186(4) determines when two corporations are connected for the purposes of Part IV. It reads as follows:
+(4) For the purposes of this Part, a payer corporation is connected with a particular corporation at any time in a taxation year (in this subsection referred to as the “particular year”) of the particular corporation if
+(a) the payer corporation is controlled (otherwise than by virtue of a right referred to in paragraph 251(5)(b)) by the particular corporation at that time; or
+(b) the particular corporation owned, at that time,
+(i) more than 10% of the issued share capital (having full voting rights under all circumstances) of the payer corporation, and
+(ii) shares of the capital stock of the payer corporation having a fair market value of more than 10% of the fair market value of all of the issued shares of the capital stock of the payer corporation.
+[15] The effect of subsection 186(4) is that Part IV tax does not apply in respect of dividends that a corporation receives from a corporation that it controls or has a 10% or greater interest in. It is clear from the wording of the provision that the Part IV tax is only intended to apply to dividends received on shares held as a portfolio or passive investment. My conclusion is consistent with the various technical notes issued by the Department of Finance with respect to subsection 186(1). The notes consistently refer to the Part IV tax applying to passive income.
+[16] Subsection 186(2) provides that for the purposes of Part IV,[10] one corporation is controlled by another corporation if more than 50% of its issued share capital (having full voting rights under all circumstances) belongs to the other corporation, to persons with whom the other corporation does not deal at arm’s length, or to the other corporation and persons with whom the other corporation does not deal with at arm’s length.
+B. Trust Deeming Rules
+[17] Subdivision K of the Act contains a complex taxing regime for trusts, including a number of special rules that apply to amounts paid in a taxation year to a beneficiary or that became payable in the year to the beneficiary. The relevant sections for purposes of the Rule 58 Question are paragraphs 104(13)(a) and 108(5)(a) and subsection 104(19).
+[18] Generally speaking, paragraph 104(13)(a) provides that a beneficiary of a trust is required to include in its income for a particular taxation year such part of the trust’s income for the trust’s taxation year that ended in the particular taxation year as became payable in the trust’s year to the beneficiary. In most instances, such amount is deductible by the trust under paragraph 104(6)(b).
+[19] Under the general rule in paragraph 108(5)(a), the amount that the beneficiary is required to include in its income is deemed to be income of the beneficiary from a property that is an interest in a trust and not from any other source. As a result, under the general rule, taxable dividends received by a trust and included in the beneficiary’s income are deemed to be property income from an interest in a trust and not dividend income.
+[20] However, the general rule in paragraph 108(5)(a) is subject to the other provisions of Part I, including subsection 104(19).
+[21] If the conditions of subsection 104(19) are satisfied, then all or a portion of a taxable dividend received by a trust on a share of the capital stock of a taxable Canadian corporation is deemed, for the purposes of the Act,[11] to be a taxable dividend on the share received by a beneficiary. The dividend is deemed to have been received by the beneficiary in the beneficiary’s taxation year in which the taxation year of the trust, in which the dividend was received by the trust, ends. Subsection 104(19) also provides that the dividend is deemed not to have been received by the trust for the purposes of the dividend gross-up in paragraph 82(1)(b), the stop-loss rules in paragraphs 107(1)(c) and (d) and section 112.
+[22] Subsection 104(19) reads as follows:
+(19) A portion of a taxable dividend received by a trust, in a particular taxation year of the trust, on a share of the capital stock of a taxable Canadian corporation is, for the purposes of this Act other than Part XIII, deemed to be a taxable dividend on the share received by a taxpayer, in the taxpayer’s taxation year in which the particular taxation year ends, and is, for the purposes of paragraphs 82(1)(b) and 107(1)(c) and (d) and section 112, deemed not to have been received by the trust, if
+(a) an amount equal to that portion
+(i) is designated by the trust, in respect of the taxpayer, in the trust’s return of income under this Part for the particular taxation year, and
+(ii) may reasonably be considered (having regard to all the circumstances including the terms and conditions of the trust) to be part of the amount that, because of paragraph (13)(a), subsection (14) or section 105, was included in computing the income for that taxation year of the taxpayer;
+(b) the taxpayer is in the particular taxation year a beneficiary under the trust;
+(c) the trust is, throughout the particular taxation year, resident in Canada; and
+(d) the total of all amounts each of which is an amount designated, under this subsection, by the trust in respect of a beneficiary under the trust in the trust’s return of income under this Part for the particular taxation year is not greater than the total of all amounts each of which is the amount of a taxable dividend, received by the trust in the particular taxation year, on a share of the capital stock of a taxable Canadian corporation.
+[23] On the basis of the wording of subsection 104(19), the following conditions must be satisfied before the subsection’s deeming rule applies to all or a portion of a taxable dividend:
+-in a particular taxation year of the trust, the trust received a taxable dividend on the share of the capital stock of a taxable Canadian corporation;
+-an amount equal to all or a portion of the taxable dividend (the “Designated Amount”) is designated by the trust, in respect of the taxpayer, in the trust’s tax return for the particular taxation year;
+-an amount equal to the Designated Amount may reasonably be considered to be part of the amount that was included in the taxpayer’s income under paragraph 104(13)(a);[12]
+-the taxpayer is in the particular taxation year a beneficiary under the trust;
+-the trust is, throughout the particular taxation year, resident in Canada; and
+-the total of all amounts designated by the trust under subsection 104(19) in respect of a beneficiary for the particular taxation year is not greater than the total of all taxable dividends received by the trust in the particular taxation year on shares of a taxable Canadian corporation.
+[24] The purpose of subsection 104(19) can be seen from its wording read in the context of Subdivision K of the Act. Its purpose is to treat the amount of a dividend on a share that is received by a trust from a taxable Canadian corporation and allocated as income to a beneficiary of the trust, as a taxable dividend received in the taxation year of the beneficiary in which the taxation year of the trust ends.[13] Absent subsection 104(19), the amount of the dividend would be treated by the beneficiary, under paragraph 108(5)(a), as property income from an interest in a trust.
+[25] The timing aspect of subsection 104(19) reflects the fact that the character of the income allocated by a trust is relevant only to the taxation year of the beneficiary in which the taxation year of the trust ends.
+[26] In summary, there is a hierarchy of deeming rules in Subdivision K that address the character of the income allocated by a trust to a beneficiary of that trust. Paragraph 108(5) applies “[E]xcept as otherwise provided in this Part” and subsection 104(19) overrides the general deeming rule in paragraph 108(5)(a) by retaining the character of taxable dividends that comprise all or part of the income of the trust allocated by the trust to a beneficiary of the trust. Consistent with the timing of the allocation of the income of a trust to a beneficiary of the trust, subsection 104(19) is relevant only to the taxation year of the beneficiary in which the taxation year of the trust ends.
+C. Positions of the Parties
+[27] The Appellants argues that the text of paragraph 186(1)(a) suggests that whether or not two corporations are connected (which the Appellants refer to as “connectedness”) must be tested at a point in time but that it does not specify that point in time. In their view, a purposive analysis demonstrates that Part IV tax was meant to apply only to dividends earned on portfolio investments, with the dividing line for a portfolio investment being the connected concept.
+[28] It is their view that a textual, contextual and purposive analysis of section 186 supports the conclusion that the determination of when a corporation is connected with a payer corporation should be made when the payer corporation declares or pays the dividend because:
+(a)parliament considered control or significant influence to be a determinative feature of a non-portfolio investment;
+(b)the declaration and payment of a dividend are actions that are closely tied with control or the exercise of significant influence; and
+(c)the interpretation furthers the purpose of neutrality.
+[29] In the alternative, the Appellants argue that if the Court finds that the connectedness is tested at the time at which the corporate beneficiary is deemed to have received the dividend pursuant to subsection 104(19), then in light of the text, context and purpose of subsection 104(19) and existing case law, this Court should find that the corporate beneficiary is deemed to have received the dividend at the time at which the trust received the dividend.
+[30] Under either of the Appellants’ arguments, it appears, on the basis of the agreed statements of facts, that no Part IV tax would be payable in the appeals before the Court. In the Vefghi Appeal, the Appellant was connected with Consultant Inc. on July 1, 2015, when Consultant Inc. paid and the Vefghi Trust received the dividend at issue. Similarly, in the S.O.N.S. Appeal, the Appellant was connected with Environmental Corp. on June 30, 2015, when Environmental Corp. paid and the Mate Trust received the dividend at issue.
+[31] The Respondent argues that the deeming effect of subsection 104(19) is only triggered when it is determined that all requirements of the subsection are satisfied and that that determination can only occur at the trust’s year-end. Until the subsection 104(19) designations become effective at the end of the trust’s taxation year, the amounts in issue are trust income distributions, not dividends. Therefore, the relevant time for determining whether corporations are connected is at the trust’s year-end.
+[32] Under the Respondent’s argument, it appears, on the basis of the agreed statements of facts, that Part IV tax would apply in the appeals before the Court. In the Vefghi Appeal, the determination of whether the Appellant was connected with Consultant Inc. would be made on December 31, 2015. Since the Vefghi Trust sold all of Consultant Inc.’s common shares on July 1, 2015, the Appellant would have not been connected with Consultant Inc. on December 31, 2015.
+[33] In the S.O.N.S. Appeal, the determination of whether the Appellant was connected with Environmental Corp. would also be made on December 31, 2015. However, on July 1, 2015, George Mate, Dani Mate and the Mate Trust sold all of their shares of Environmental Corp. As a result, the Appellant would have not been connected with Environmental Corp. on December 31, 2015.
+D. The Answer to the Rule 58 Question
+[34] In Canada Trustco,[14] the Supreme Court of Canada identified the “textual, contextual and purposive” principle as the principle that is to be used when interpreting the Act. At paragraph 10 of its reasons, the Court explained the principle as follows:
+10… The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words play[s] a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole.
+[35] Determining the answer to the Rule 58 Question requires the Court to first consider subsections 186(1), (3) and (4).
+[36] Subsection 186(4) provides the test for determining when two corporations are connected. The wording of subsection 186(4) indicates that the determination of whether two corporations are connected is made at a point in time. Both paragraph 186(4)(a) and paragraph 186(4)(b) refer to a specific point in time within a taxation year. For example, under paragraph 186(4)(a) two corporations are connected at any time in a taxation year if the payer corporation is controlled by the particular corporation at that time.
+[37] In my view, a textual analysis of subsections 186(1), 186(3) and 186(4) leads to the conclusion that the specific point in time for determining whether two corporations are connected is the point in time that the dividends are received by the corporation liable for the Part IV tax.
+[38] Part IV tax is levied under subsection 186(1) on all assessable dividends received by a private corporation in the year from corporations other than payer corporations connected with it. Assessable dividend is defined in subsection 186(3) to mean an amount received by a corporation at a specific time.
+[39] The wording of subsections 186(1) and 186(3) clearly states that Part IV tax is levied on dividends received by a taxpayer. In other words, the tax is levied on dividends received by a corporation, not on dividends paid by a payer corporation.
+[40] Since subsection 186(1) levies the Part IV tax on dividends received by the taxpayer, the logical conclusion is that the determination of when two corporations are connected is made at the time that the dividend is received by the corporate taxpayer, although in most instances, the dividend will be paid by the payer corporation at the same time as it is received by the corporation liable for the Part IV tax.
+[41] Further, this conclusion is consistent with the purpose of subsection 186(1), which is to only levy the Part IV tax on dividends that the taxpayer receives from payer corporations that it does not control or exercise influence over through its 10% or more holding of the voting shares of the payer corporation—in other words, dividends it receives from shares that it holds, at the time that it receives the dividends, as portfolio investments.
+[42] In order to accomplish this purpose the determination of whether the payer corporation and the taxpayer are connected must be made at the time that the dividend is received. If the test is applied at a later point in time, the taxpayer, by purchasing shares of the payer corporation, could easily defeat the purpose of subsection 186(1).
+[43] On the basis of the facts before the Court, if the dividends at issue had been paid directly by the payer corporations to the relevant Appellant, Part IV tax would not have applied to the dividends. However, that is not what occurred. The dividends were paid to trusts, which then allocated the dividends to the Appellants. As a result, the Rule 58 Question requires the Court to determine when, under the deeming provisions in subsection 104(19), the dividends were deemed to have been received by a beneficiary, such as the Appellants.
+[44] The deeming rule in subsection 104(19) creates a legal fiction. The Supreme Court of Canada in Verrette,[15] the seminal case on deeming rules, stated the following at page 845:
+… A deeming provision is a statutory fiction; as a rule it implicitly admits that a thing is not what it is deemed to be but decrees that for some particular purpose it shall be taken as if it were that thing although it is not or there is doubt as to whether it is. …
+[45] Subsection 104(19) creates a legal fiction by declaring that a taxpayer who is a beneficiary under a trust, received dividends that were, as a question of fact, received by the trust.
+[46] The legal fiction provides that the trust is still considered to have received the dividend except for the purposes of the dividend gross-up in paragraph 82(1)(b), the stop-loss rules in paragraphs 107(1)(c) and (d) and section 112.[16]
+[47] As noted previously, if the conditions of subsection 104(19) are satisfied, then a portion of the taxable dividend received by the trust, in a particular taxation year of the trust, on the share of the capital stock of a taxable Canadian corporation is, for the purposes of the Act other than Part XIII, “deemed to be a taxable dividend on the share received by a taxpayer, in the taxpayer’s taxation year in which the particular taxation year ends”.
+[48] Under subsection 104(19), the deemed dividend retains its character as a taxable dividend on shares of the capital stock of the taxable Canadian corporation that paid the dividend to the trust (i.e. the payer corporation). As a result, under section 112, the dividend is deductible by a corporate beneficiary in the taxation year in which it was received by the corporate beneficiary. Therefore, the deemed dividend is an assessable dividend for purposes of subsection 186(1). The corporate beneficiary will be subject to Part IV tax on the deemed dividend unless it was connected with the payer corporation at the time that it received the dividend.
+[49] The issue before the Court is as follows: Under the legal fiction created by subsection 104(19), at what point in time is the corporate beneficiary deemed to have received the dividend for purposes of the Part IV tax levied under subsection 186(1)?
+[50] Subsection 104(19) deems the dividend to have been received by the corporate beneficiary in the corporate beneficiary’s taxation year in which the taxation year of the trust ends. However, the subsection does not state at what specific point in that taxation year the dividend is received.
+[51] The Respondent asks the Court to find that the point in time is that date of the trust’s year-end. I do not accept this argument.
+[52] First, the Respondent is asking me to read words into the provision that are not there. That is not the role of the Court, rather, it is the role of Parliament to determine the wording of a provision. If Parliament had intended that the point in time was the year-end of the trust, then it would have specifically stated that the corporate beneficiary is deemed to have received the dividend on the last day of the taxation year of the trust.
+[53] I also do not agree with the foundation for the Respondent’s argument. He argues that since all of the requirements of subsection 104(19) are only satisfied at the trust’s year-end (in particular, the requirement that the trust be, throughout the particular taxation year, resident in Canada), then the deeming provision cannot apply until the year-end. As a result, the relevant time for determining whether corporations are connected is at the trust’s year-end.
+[54] I agree with the Respondent that the determination of the application of subsection 104(19) can only be made at the trust’s year-end. However, I do not agree that this results in the relevant point in time for determining whether corporations are connected being the trust’s year-end.
+[55] Once it is determined that a deeming provision applies, one must then look at the actual wording of the deeming provision to determine what legal fiction is created. Specifically, one must determine to what extent the created legal fiction changes what, as a question of fact, actually occurred. In making this determination, one must remember that the scope of a deeming provision is limited to what is clearly expressed in the provision.[17]
+[56] Subsection 104(19) creates the legal fiction that a beneficiary, including a corporate beneficiary, received a dividend on the shares of the payer corporation. The beneficiary is deemed to have received the same dividend as the dividend received by the trust.
+[57] As a question of fact, this dividend was received by the trust on a specific date. In my view, unless the legal fiction created by the deeming rule specifically results in the dividend being received at a different point in time, then the dividend is received by a corporate beneficiary on the same date as the date that it was received by the trust. It is at this point in time that one determines, for the purposes of subsection 186(1), whether the relevant corporations are connected.
+[58] My interpretation is consistent with the purpose of subsection 186(1) and the purpose of subsection 104(19).
+[59] As I noted previously, the purpose of subsection 186(1) is to levy the Part IV tax on dividends received on shares held, at the time that the dividend is received, as portfolio investments.
+[60] The purpose of subsection 104(19) does not suggest an intention to dictate the application of Part IV beyond stipulating that where the conditions of the subsection are satisfied the trust may elect to treat income allocated to a beneficiary of the trust as a taxable dividend received by the beneficiary in the taxation year of the beneficiary in which trust taxation year ends. Subsection 104(19) applies to the taxation year of the beneficiary in which the trust taxation year ends because that is when paragraph 108(5)(a) would otherwise deem the income allocated by the trust to be income from property that is an interest in the trust. Beyond specifying the taxation year of the beneficiary in which the taxable dividend received by the trust is deemed to be received by the beneficiary, subsection 104(19) says nothing about timing for purposes of Part IV.
+[61] If the corporate beneficiary is deemed under subsection 104(19) to have received the same dividend as the dividend received by the trust in the same taxation year as the dividend was, as a question of fact, received by the trust, then the legal fiction created by subsection 104(19) does not change the actual date that the dividend was received. It was received by the corporate beneficiary on the same day as it was received by the trust.
+[62] The legal fiction created by subsection 104(19) deems the dividend to have been received in a particular taxation year. However, subsection 104(19) does not state when in that taxation year the dividend was received. This legal fiction does not change the point in time that the dividend was received, unless it deems the dividend to have been received in a taxation year of the corporate beneficiary that does not include the point in time when the dividend was received by the trust.
+[63] For example, on the basis of the facts before the Court in the Vefghi Appeal, the Appellant would be deemed to have received the dividend on the same day as the day that it was received by the Vefghi Trust, since the Appellant is deemed to have received the dividend sometime during its taxation year ending December 31, 2015 and, as a question of fact, the dividend was received by the Vefghi Trust during that taxation year.
+[64] However, on the basis of the facts before the Court, it appears that the result is different in the S.O.N.S. Appeal. In that appeal, the Appellant’s taxation year ended on August 31, 2015. The Mate Trust received the dividend in question during its taxation year ending on December 31, 2015. As a result, the Appellant was deemed, under subsection 104(19), to have received the dividend during its taxation year ending on August 31, 2016. In this fact situation, the deeming rule creates a legal fiction that deems the dividend to have been received in a different taxation year of the Appellant than the taxation year of the Appellant in which the Mate Trust actually received the dividend. As a result, for the purposes of subsection 186(1), the Appellant is deemed to have received the dividend sometime during its taxation year ending on August 31, 2016.
+Conclusion
+[65] The answer to the Rule 58 Question is the following:
+Where a trust designates a portion of a taxable dividend (the “Amount”) received on a share of the capital stock of a taxable Canadian corporation (the “Issuer”), pursuant to subsection 104(19) of the federal Income Tax Act (the “Act”), such that the Amount is deemed to have been received by a beneficiary (the “Beneficiary”), the determination of whether the Issuer is connected with the Beneficiary is made at the time that the taxable dividend was, as a question of fact, received by the trust provided that the Beneficiary is deemed under subsection 104(19) to have received the Amount in the same taxation year as the taxable dividend was, as a question of fact, received by the trust.
+However, if the Beneficiary is deemed under subsection 104(19) to have received the Amount in a taxation year that is subsequent to its taxation year in which the taxable dividend was, as a question of fact, received by the trust, then the determination of whether the Issuer is connected with the Beneficiary is made in the subsequent taxation year of the Beneficiary.
+[66] Each party shall bear their own costs of the Rule 58 Application.
+Signed at Toronto, Ontario, this 5th day of September 2023.
+“S. D’Arcy”
+D’Arcy J.
+APPENDIX A
+APPENDIX B
+CITATION:
+2023 TCC 135
+COURT FILE NOS.:
+2020-1216(IT)G
+2020-1231(IT)G
+STYLE OF CAUSE:
+Vefghi Holding Corp. and S.O.N.S. Environmental Ltd. v. His Majesty The King
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 22, 2022
+REASONS FOR ORDER BY:
+The Honourable Justice Steven K. D’Arcy
+DATE OF ORDER:
+September 5, 2023
+APPEARANCES:
+Counsel for the Appellants:
+Robert Carvalho
+Alvin T.L. Lun
+Counsel for the Respondent:
+Spencer Landsiedel
+Whitney Dunn
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Robert Carvalho Alvin T.L. Lun
+Firm:
+Thorsteinssons LLP Vancouver, British Columbia
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] R.S.C. 1985, c.1 (5th Supp.)
+[2] I assume that Vefghi Corp. claimed a deduction under subsection 112(1) for the full amount of the taxable dividend.
+[3] I assume that S.O.N.S. claimed a deduction under subsection 112(1) for the full amount of the taxable dividend.
+[4] Taxation of Private Corporations and Their Shareholders, 5th ed. by Richard Gervais et al. (Toronto, Ontario: Canadian Tax Foundation, 2020).
+[5] Idem, Chapter 9: Dividend Taxation and the Passive Income Rules (by Linda Woo and Gavin Friedley) at 41.
+[6] Fiducie Financière Satoma v. The Queen, 2017 TCC 84, aff’d by 2018 FCA 74.
+[7] The tax is also levied on subject corporations. Subject corporation is defined in subsection 186(3) to mean a corporation, other than a private corporation, that is resident in Canada and controlled, whether because of a beneficial interest in a trust or otherwise, by or for the benefit of an individual or a related group of individuals.
+[8] The percentage was 33 1/3% for taxation years that ended before December 31, 2016. A special transition rule applied to taxation years that straddled December 31, 2015.
+[9] Paragraph 186(1)(b) levies the 38 1/3% Part IV tax on assessable dividends from connected corporations to the extent that the connected corporation received a dividend refund under section 129 for its taxation year in which it paid the dividend.
+[10] Other than for the purpose of determining whether a corporation is a subject corporation.
+[11] Other than Part XIII.
+[12] The amount may also be included under subsection 104(14) or section 105.
+[13] See Department of Finance Explanatory Notes, October 24, 2012, subsection 104(19).
+[14] Canada Trustco Mortgage Co. v Canada, 2005 SCC 54.
+[15] R. v. Verrette, [1978] 2 S.C.R. 838.
+[16] Prior to 2001, the dividend was deemed not to have been received by the trust. The Department of Finance Explanatory Notes issued in March 2001 state that subsection 104(19) was amended “so that a trust will, except for the purposes of the dividend gross-up in paragraph 82(1)(b) and stop-loss rules in paragraphs 107(1)(c) and (d) and section 112 of the Act, still be treated as having received the dividend even if it is designated in favour of a beneficiary.”
+[17] See, for example, Moules Industriels (C.H.F.G.) Inc. v. The Queen, 2018 TCC 85, at paragraphs 82 to 84.

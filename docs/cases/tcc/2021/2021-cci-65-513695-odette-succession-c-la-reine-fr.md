@@ -1,0 +1,249 @@
+---
+title: "Odette (Succession) c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/513695/index.do"
+last_modified: "2021-09-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 CCI 65"
+citation2: ""
+neutral_citation: "2021 CCI 65"
+decision_date: "2021-09-28"
+language: "fr"
+item_id: "513695"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4469
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:55:19.260000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2b2291cb5ba6f0f6d1b6a1d8887009681a0f180135d66c33791d10c1dc6639d2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Odette (Succession) c. La Reine
+
+- Citation: 2021 CCI 65
+- Decision date: 2021-09-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4469, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Odette (Succession) c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-09-28
+Référence neutre
+2021 CCI 65
+Numéro de dossier
+2018-2410(IT)G
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-2410(IT)G
+ENTRE :
+LA SUCCESSION D'EDMOND G. ODETTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu par visioconférence le 6 avril 2021, à Ottawa (Ontario)
+Devant : L'honorable juge en chef Eugene P. Rossiter
+Comparutions :
+Avocate de l'appelante :
+Me Rebecca Potter
+Avocats de l'intimée :
+Me Dominik Longchamps
+Me Andrew Miller
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2012 est rejeté, avec dépens à l'intimée, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2021.
+« E.P. Rossiter »
+Le juge en chef Rossiter
+Référence : 2021 CCI 65
+Date : 20210928
+Dossier : 2018-2410(IT)G
+ENTRE :
+LA SUCCESSION D'EDMOND G. ODETTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Rossiter
+Résumé
+[1] L'appelante, la succession d'Edmond G. Odette (« M. Odette »), interjette appel de la nouvelle cotisation que le ministre du Revenu national (le « ministre ») a établie le 23 septembre 2016 pour l'année d'imposition 2012 en vue de refuser un crédit d'impôt pour don de bienfaisance. M. Odette était un philanthrope bien connu qui est décédé le 17 novembre 2012. Sa succession, établie à la suite de son décès, est l'appelante.
+[2] Le 20 décembre 2013, l'appelante a mis en œuvre un plan fiscal auquel participaient deux autres parties ayant un lien de dépendance. Ce plan visait la distribution des actifs de M. Odette lors de son décès afin d'obtenir le meilleur résultat fiscal possible. En application de ce plan, les actions de la société de M. Odette ont d'abord été transférées à une fondation privée ayant un lien de dépendance. Par la suite, cette fondation a disposé des actions de la société de M. Odette en contrepartie d'un billet à ordre émis par cette société. La société a effectué les paiements en espèces correspondants huit mois après la disposition, environ.
+[3] Tant les actions que le billet à ordre étaient des titres non admissibles aux termes de la Loi de l'impôt sur le revenu, L.R.C., 1985, ch. 1 (5e suppl.) (la Loi). Il s'ensuit que l'alinéa 118.1(13)c) de la Loi s'applique. Le litige porte sur l'interprétation des mots « toute contrepartie » à l'alinéa 118.1(13)c) et la question de savoir si ces mots sont assez vastes pour inclure un billet à ordre émis au moment de la disposition ainsi que les paiements en espèces correspondants. Il est nécessaire d'analyser le contexte et l'objet de l'alinéa 118.1(13)c) pour déterminer si l'appelante a droit au crédit d'impôt pour don de bienfaisance.
+[4] Je conclus que, selon une analyse textuelle et contextuelle de l'alinéa 118.1(13)c) de la Loi, les mots « toute contrepartie » ont un sens restreint. Cette contrepartie doit être reçue au moment de la disposition et ne peut être un titre non admissible. Je juge que la seule contrepartie reçue à la disposition des actions était le billet à ordre. Puisque les parties à cette opération ont un lien de dépendance, le billet à ordre est un titre non admissible. Par conséquent, selon l'alinéa 118.1(13)c), la juste valeur marchande des actions est nulle et l'appelante n'a pas droit au crédit d'impôt pour don de bienfaisance.
+Les faits
+[5] Les faits en l'espèce ne font l'objet d'aucune controverse et ont été présentés à la Cour au moyen d'un exposé conjoint des faits. Voici les faits pertinents :
+a) Pendant toute la période pertinente, les fiduciaires de l'appelante étaient Anne Gloria Odette Kaye (« Anne »), Andrea Margaret Federer (« Andrea »), et Suzanne Irene Ruth Hanson (« Suzanne »).
+b) Anne et Andrea, de même que Edmond George Odette fils (« Odette fils ») et Curtis Michael Odette (« Curtis ») sont les enfants de M. Odette.
+c) Suzanne était l'avocate de M. Odette de son vivant.
+d) Edmette Holdings Ltd. (« Edmette ») est une société constituée aux termes de la Loi sur les sociétés par actions de l'Ontario. Avant sa mort, M. Odette était le seul administrateur, le seul actionnaire et le président d'Edmette. Après le décès de M. Odette, l'appelante est devenue la seule actionnaire d'Edmette, tandis que Anne, Suzanne et Andrea sont devenues les administratrices d'Edmette. Suzanne a démissionné de son poste d'administratrice le 30 juin 2016.
+e) La E. & G. Odette Foundation (la « fondation ») est une fondation privée constituée dans la province de l'Ontario enregistrée à titre d'œuvre de bienfaisance. Les administrateurs et membres de la fondation étaient Anne, Suzanne, Andrea et Curtis. Suzanne a depuis démissionné de son poste d'administratrice.
+[6] Pendant toute la période pertinente, l'appelante, Edmette, M. Odette, Anne, Andrea, Curtis et la fondation avaient entre eux un lien de dépendance.
+[7] À sa mort, M. Odette a laissé un testament primaire et un testament secondaire (les « testaments »), tous deux du 9 novembre 2012.
+[8] Immédiatement avant le décès de M. Odette, la juste valeur marchande des capitaux propres d'Edmette était de 45 921 271 $.
+[9] Le 2 juillet 2013, en application du paragraphe 51(1) de la Loi, Edmette a converti l'ensemble de ses actions de catégorie B et de catégorie C en 299 900 actions ordinaires. En conséquence, l'appelante possédait les actions suivantes d'Edmette :
+a) 726 863 actions de catégorie A rachetables à 7 777 434 $ ayant un capital versé de 6 550 456 $;
+b) 300 000 actions ordinaires ayant un capital versé de 103 $.
+[10] M. Odette a légué par ses testaments le reliquat de sa succession à la fondation, notamment toutes les actions émises et en circulation d'Edmette.
+[11] L'appelante a demandé et obtenu des conseils sur la manière de transférer efficacement 139 000 actions ordinaires d'Edmette à la fondation. Selon ces conseils, les opérations suivantes ont été effectuées :
+a) Le 20 décembre 2013, l'appelante a transféré les actions à la fondation (le « don »).
+b) Le 23 décembre 2013, la fondation a disposé de ces actions au moyen d'un rachat aux fins d'annulation par Edmette.
+c) Pour régler le paiement de ces actions, Edmette a émis à la fondation un billet à ordre payable sur demande et ne portant pas d'intérêt d'une somme principale de 17 710 000 $ (le « billet à ordre »).
+d) Edmette a remboursé le billet à ordre au moyen de trois versements en espèces à la fondation :
+i. le premier versement de 5 000 000 $ a été versé le 10 avril 2014;
+ii. le deuxième versement de 6 000 000 $, le 6 juin 2014;
+iii. le troisième versement de 6 710 000 $, le 6 août 2014.
+[12] Ces actions n'étaient pas cotées à une bourse de valeurs désignée.
+[13] Le 23 décembre 2013, Edmette avait plus de 17 710 000 $ en espèces et en quasi‑espèces (bons du Trésor, acceptations bancaires, titres négociables, etc.).
+[14] La fondation a délivré à Edmette le 23 décembre 2013 un reçu accusant réception du billet à ordre.
+[15] La fondation a délivré à l'appelante le 23 décembre 2013, pour les besoins de l'impôt sur le revenu, un reçu pour don de bienfaisance de 17 710 000 $.
+[16] Le 17 mai 2013, l'appelante a produit une déclaration finale T1 pour l'année d'imposition 2012, dans laquelle elle a déclaré des dons de bienfaisance et des dons à l'État de 17 314 770 $, dont 17 213 104 $ correspondaient aux actions transférées à la fondation.
+[17] Par l'avis de nouvelle cotisation du 23 septembre 2016 pour l'année d'imposition 2012 de l'appelante, le ministre a notamment refusé le crédit d'impôt correspondant au transfert des actions à la fondation.
+La question en litige
+[18] La seule question en litige devant la Cour est celle de savoir si l'appelante avait droit au crédit d'impôt pour don de bienfaisance demandé par M. Odette pour l'année d'imposition 2012 en ce qui concerne le don et, en particulier, la valeur réputée du don selon l'interprétation qu'il convient de donner à l'alinéa 118.1(13)c) de la Loi.
+La thèse de l'appelante
+[19] L'appelante défend la thèse selon laquelle il est possible d'interpréter le texte, le contexte et l'objet de l'alinéa 118.1(13)c) pour que les mots « toute contrepartie » englobent à la fois le billet à ordre et les paiements en espèces correspondants. Le billet à ordre et les paiements en espèces correspondants font partie intégrante de la contrepartie reçue et la valeur réputée du don est de 17 710 000 $. L'appelante défend la thèse selon laquelle une interprétation large respecte l'intention du législateur, celle d'encourager les dons de bienfaisance, et concorde avec l'esprit de la Loi dans son ensemble.
+La thèse de l'intimée
+[20] L'intimée estime que l'interprétation textuelle, contextuelle et téléologique de l'alinéa 118.1(13)c) exige que la valeur réputée du don soit nulle. La contrepartie visée à l'alinéa 118.1(13)c) n'est que la contrepartie reçue au moment de la disposition et ne peut être un titre non admissible.
+[21] Étant donné que la seule contrepartie reçue pour la disposition des actions est le billet à ordre, la juste valeur marchande des actions données est nulle, selon l'alinéa 118.1(13)c), et, par conséquent, le ministre a correctement établi la cotisation pour l'année d'imposition 2012 de l'appelante, en refusant le crédit d'impôt demandé pour les actions données. De plus, l'intimée affirme que l'intention du législateur n'était pas d'accorder un crédit d'impôt à ce moment, car la seule contrepartie est le titre non admissible, parce que le donateur ne s'est pas encore appauvri et que l'organisme de bienfaisance ne s'est pas encore enrichi. De plus, le législateur a exclu les titres non admissibles parce que lorsqu'il y a don de titres entre des parties ayant un lien de dépendance, il n'est pas possible d'évaluer la valeur du don.
+Le texte légal
+[22] Selon l'alinéa 118.1(13)a), lorsqu'un particulier fait don d'un titre non admissible et que le don n'est pas un don exclu, le don est réputé ne pas avoir été fait. Cependant, si ce titre cesse d'être un titre non admissible dans les 60 mois suivant le don, ou si le donataire dispose du titre durant cette période, le particulier est réputé avoir fait ce don, selon les alinéas b) et c) du paragraphe 118.1(13), et il peut alors demander un crédit d'impôt pour don de bienfaisance.
+[23] L'alinéa 118.1(13)b) de la Loi prévoit que le don d'un titre est réputé avoir été fait si le titre a cessé d'être un titre non admissible dans les 60 mois suivant le transfert du titre au donataire.
+[24] Voici ce que prescrit l'alinéa 118.1(13)c) :
+c) si le donataire dispose du titre dans les 60 mois suivant le moment donné et que l'alinéa b) ne s'applique pas au titre, le particulier est réputé avoir fait un don de bien au donataire au moment de la disposition, et la juste valeur marchande de ce bien est réputée être égale à la juste valeur marchande de toute contrepartie (sauf un titre non admissible d'une personne) reçue par le donataire pour la disposition ou, si elle est moins élevée, à la juste valeur marchande du titre au moment donné qui, en l'absence du présent paragraphe, aurait été incluse dans le calcul du total des dons de bienfaisance du particulier pour une année d'imposition;
+Définition de titre non admissible
+[25] Conformément au paragraphe 118.1(18), est un titre non admissible d'un particulier à un moment donné :
+a) une créance (à l'exception de l'obligation d'une institution financière de rembourser un montant déposé auprès d'elle et d'une créance cotée à une bourse de valeurs désignée) dont est débiteur le particulier, sa succession ou une personne ou société de personnes avec laquelle le particulier ou sa succession a un lien de dépendance immédiatement après ce moment;
+b) une action (à l'exception d'une action cotée à une bourse de valeurs désignée) du capital-actions d'une société avec laquelle le particulier, sa succession ou, si le particulier est une fiducie, toute personne qui lui est affiliée a un lien de dépendance immédiatement après ce moment;
+[...]
+Don exclu
+[26] Le paragraphe 118.1(19) dispose que le don fait par un contribuable est un « don exclu » si le titre est une action, le donataire n'est pas une fondation privée, le contribuable n'a aucun lien de dépendance avec le donataire et, si le donataire est une œuvre de bienfaisance ou une fondation publique, le contribuable n'a aucun lien de dépendance avec les administrateurs, fiduciaires, cadres ou représentants semblables du donataire.
+Analyse
+[27] Les parties conviennent que les actions transférées par l'appelante à la fondation étaient, pendant toute la période pertinente, des titres non admissibles selon la définition au paragraphe 118.1(18) de la Loi. Les parties conviennent également que le transfert de ces actions de l'appelante à la fondation n'est pas un don exclu selon la définition au paragraphe 118.1(19) de la Loi, parce que la fondation est une fondation privée.
+[28] En raison de ces faits, l'alinéa 118.1(13)a) dispose que le don des actions de l'appelante à la fondation est réputé ne pas avoir été fait. Les alinéas b) et c) du paragraphe 118.1(13) sont des dispositions d'allégement; si leurs conditions sont satisfaites, le don peut être réputé avoir été fait.
+[29] En l'espèce, l'alinéa 118.1(13)b) ne s'applique pas. Les parties conviennent que les actions n'ont pas cessé d'être des titres non admissibles.
+[30] La fondation a disposé des actions le 23 décembre 2013. Par conséquent, l'alinéa 118.1(13)c) s'applique et le don est réputé avoir été fait. La valeur de ce don est la moindre des sommes suivantes :
+i. la juste valeur marchande de toute contrepartie (sauf un titre non admissible d'une personne) reçue par le donataire pour la disposition;
+ii. la juste valeur marchande du titre au moment donné qui, en l'absence du paragraphe, aurait été incluse dans le calcul du total des dons de bienfaisance du particulier pour une année d'imposition.
+[31] La principale question en litige est l'interprétation et l'application de l'alinéa 118.1(13)c). Les parties conviennent que le billet à ordre est un titre non admissible.
+[32] Je vais d'abord procéder à une analyse textuelle, contextuelle et téléologique de l'alinéa 118.1(13)c). Je comparerai ensuite la forme juridique de l'opération à l'intention de l'appelante.
+Analyse textuelle, contextuelle et téléologique de l'alinéa 118.1(13)c)
+(1) Analyse textuelle
+[33] Pour interpréter les dispositions de la Loi, l'approche moderne d'interprétation des lois s'applique. En d'autres termes, « il faut lire les termes d'une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s'harmonise avec l'esprit de la loi, l'objet de la loi et l'intention du législateur » (65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, par. 50). Cependant, le caractère détaillé et précis de nombreuses dispositions fiscales a souvent incité à mettre davantage l'accent sur l'interprétation textuelle (Hypothèques Trustco Canada c. Canada, [2005] 2 R.C.S. 601, 2005 CSC 54, par. 11). Les contribuables ont le droit de s'en remettre au sens clair des dispositions fiscales pour organiser leurs affaires. Lorsqu'il est précis et non équivoque, le texte d'une loi joue un rôle primordial dans le processus d'interprétation (Placer Dome Canada Ltd. c. Ontario (Ministre des Finances), 2006 CSC 20, [2006] 1 R.C.S. 715, par. 21).
+[34] La Loi ne définit pas le terme « contrepartie ». Selon le dictionnaire Black's Law Dictionary (11e éd., « consideration »), il signifie [TRADUCTION] « un acte, une abstention ou une promesse réciproque négocié et reçu d'une personne qui s'engage à la personne qui reçoit l'engagement ». L'appelante prétend que les deux mots « toute contrepartie » sont suffisamment vastes pour englober le billet à ordre et les paiements en espèces correspondants que la fondation a reçus.
+[35] Cependant, comme il a été mentionné précédemment, le sens d'un mot dépend du contexte immédiat. L'approche textuelle tient compte du contexte nécessaire pour comprendre le sens des mots. Dans un texte de loi, le contexte est généralement l'article ou le paragraphe où se trouvent les mots en question (Ruth Sullivan, Sullivan on the Construction of Statutes, 6e édition, Markham, LexisNexis Canada, 2014, au paragraphe 3.11).
+[36] Le sens habituel d'un mot n'est pas nécessairement le sens que lui donne le dictionnaire. Ruth Sullivan critique le recours au dictionnaire pour interpréter les lois. Elle affirme ce qui suit :
+[TRADUCTION]
+Selon les dictionnaires, le mot est l'unité de base du sens. Le recours au dictionnaire encourage ainsi les lecteurs à considérer tout litige sur l'interprétation des lois comme étant un litige sur la signification de chacun des mots. Le lecteur est ainsi convié à repérer un mot précis qui serait la cause du problème, au lieu du passage ou d'un paragraphe, voire de toute la disposition. Lorsqu'il est évident que le litige porte sur une série de mots, le lecteur doit se contenter de trouver la définition de chaque mot et de rattacher ces définitions. C'est là une activité qui n'a que peu ou pas de rapport avec les opérations cognitives réelles pour dégager la signification d'un texte. (Ruth Sullivan, ibid., par. 3.33)
+[37] À l'alinéa 118.1(13)c), le terme « contrepartie » figure dans l'extrait suivant : « au moment de la disposition, et [...] est réputée être égale à la juste valeur marchande de toute contrepartie (sauf un titre non admissible d'une personne) reçue par le donataire pour la disposition ». Une analyse textuelle complète exige qu'on tienne compte du contexte de la disposition. C'est pour cette raison que notre analyse ne peut se limiter aux mots « toute contrepartie », mais doit inclure les termes « reçue », « au moment de la disposition » et « (sauf un titre non admissible d'une personne) ».
+i. L'interprétation des termes « reçue » et « au moment de la disposition »
+[38] L'alinéa 118.1(13)c) décrit la contrepartie en utilisant les termes « reçue » et « au moment de la disposition ». Ces termes indiquent une restriction quant au moment. Ensemble, ils indiquent que la contrepartie doit être reçue au moment de la disposition.
+[39] La Loi ne définit pas le terme « reçu ». Par contre, le Black's Law Dictionary offre une définition du terme « receive » (recevoir) : [TRADUCTION] « prendre (ce qui est offert, donné, envoyé, etc.); entrer en possession d'une chose ou recevoir d'une source extérieure » (Black's Law Dictionary, 11e éd., « receive »).
+[40] Le terme « disposition », lui, est défini dans la Loi. En voici un extrait :
+248. (1) Les définitions qui suivent s'appliquent à la présente loi.
+[...]
+« disposition » Constitue notamment une disposition de bien, sauf indication contraire expresse :
+[...]
+b) toute opération ou tout événement par lequel, selon le cas :
+(i) une action [...] est en totalité ou en partie racheté, acquis ou annulé,
+(ii) une créance ou un autre droit de recevoir une somme est réglé ou annulé,
+[...]
+[41] En l'espèce, la fondation a disposé des actions à Edmette le 23 décembre 2013. Le même jour, la fondation a reçu le billet à ordre d'Edmette. La fondation a reçu les paiements en espèces correspondants environ huit mois après la disposition.
+[42] L'affirmation de l'appelante voulant que les paiements en espèces reçus environ huit mois après la disposition fassent partie de la contrepartie que le législateur envisageait à l'alinéa 118.1(13)c) ne s'appuie sur rien. Si l'intention avait été d'inclure la contrepartie reçue après le moment du don réputé, en l'occurrence le 23 décembre 2013, le législateur l'aurait exprimé en termes clairs.
+[43] Le législateur a eu recours aux mots « received or receivable » (reçu ou à recevoir) environ 68 fois dans la version anglaise de la Loi, et aux mots « paid or payable » (payé ou exigible) environ 180 fois. (Ces chiffres sont ceux de recherches effectuées dans la Loi de l'impôt sur le revenu au site Web de la législation fédérale le 12 juillet 2021.) La présomption qu'une expression a toujours le même sens favorise donc une interprétation selon laquelle, si l'intention du législateur avait été qu'on tienne compte de la « contrepartie reçue ou à recevoir » pour connaître la juste valeur marchande d'un don, le législateur aurait choisi des termes convenables, comme il a l'a démontré à tant d'autres occasions.
+[44] Selon les éléments de preuve, la seule chose que la fondation a « reçue » le 23 décembre 2013 était le billet à ordre. Le paiement des actions a été réglé par l'émission du billet à ordre et par rien d'autre. Les documents sur l'opération montrent l'intention des parties, c'est‑à‑dire que le reçu que la fondation a délivré à Edmette indique que le billet à ordre règle le prix d'achat des actions. De plus, la résolution des administrateurs d'Edmette autorise l'émission du billet à ordre en tant que paiement des actions (et non un paiement en espèces). Enfin, le billet à ordre lui‑même porte l'inscription [TRADUCTION] « en contrepartie », ce qui ne peut renvoyer qu'aux actions.
+[45] L'appelante invoque la décision Groupmark Canada Ltd. c. La Reine, 93 D.T.C. 5179, pour faire valoir que les tribunaux ont rejeté les restrictions injustifiées du sens du terme « contrepartie ». On peut établir une distinction entre la décision Groupmark et l'espèce. La décision Groupmark portait sur le mot « contrepartie » au paragraphe 194(4) de la Loi. Au paragraphe 194(4), le mot « contrepartie » apparaît dans le passage suivant : « la valeur de la contrepartie pour laquelle l'action ou la créance a été émise, ou le droit accordé ». Le mot est libre de toute restriction. Contrairement à la situation dans la décision Groupmark, le mot « contrepartie » en l'espèce comprend de nombreuses restrictions et fait partie du passage suivant : « au moment de la disposition [...] est réputée être égale à la juste valeur marchande de toute contrepartie (sauf un titre non admissible d'une personne) reçue par le donataire pour la disposition ». À la simple lecture des deux dispositions, il est évident que le terme « contrepartie » à l'alinéa 118.1(13)c) comprend de nombreuses restrictions.
+[46] La contrepartie ne peut pas être à la fois le billet à ordre et les paiements en espèces correspondants. Les paiements en espèces ont été versés environ huit mois après la disposition des actions et non au moment de la disposition. La seule contrepartie reçue au moment de la disposition a été le billet à ordre. Le billet à ordre et les paiements en espèces correspondent à la même contrepartie. Il ne s'agit pas de deux promesses distinctes. Un billet à ordre est une promesse de versement. Les paiements en espèces versés par la suite règlent l'obligation de versement. En l'espèce, au moment de la disposition, la contrepartie était uniquement le billet à ordre. Ce n'était pas à la fois un billet à ordre et un versement en espèces.
+ii. L'exclusion entre parenthèses : « sauf un titre non admissible d'une personne »
+[47] L'exclusion entre parenthèses limite encore plus la portée de la contrepartie envisagée par le législateur. Elle signale que la disposition d'allégement ne s'applique que si la contrepartie n'est pas un titre non admissible. En l'espèce, le billet à ordre est fait entre parties ayant un lien de dépendance et il est donc un titre non admissible. Dans l'arrêt Remai c. Canada, 2009 CAF 340, [2009] 4 R.C.F. F‑18 (Remai), la Cour d'appel fédérale a accepté un crédit d'impôt pour don de bienfaisance au titre de l'alinéa 118.1(13)c). Dans cette affaire, la contrepartie était là également un billet à ordre, mais comme il avait été émis par un tiers qui n'avait aucun lien de dépendance avec le donateur, le billet n'était pas un titre non admissible. Dans la présente affaire, c'est le contraire : le billet à ordre n'a jamais cessé d'être un titre non admissible, car il a été délivré par une partie avec laquelle le donateur avait un lien de dépendance.
+[48] Un paiement en espèces n'aurait pas été un titre non admissible. Toutefois, comme il a été déterminé précédemment, les paiements en espèces ne sont pas la contrepartie en l'espèce, car ils n'ont pas été reçus au moment de la disposition et qu'ils satisfont à l'obligation de payer découlant du billet à ordre.
+[49] Par conséquent, l'interprétation textuelle complète de l'alinéa 118.1(13)c) montre que le sens du mot « contrepartie » dans cette disposition n'est pas aussi large que le prétend l'appelante. L'alinéa prévoit en termes explicites que la contrepartie doit être reçue au moment de la disposition et qu'elle ne peut pas être un titre non admissible. Par conséquent, au moment de la disposition, soit le 23 décembre 2013, la seule contrepartie ayant été reçue pour les actions était le billet à ordre. Ce billet à ordre, cependant, était un titre non admissible et, de ce fait, la valeur réputée des actions est nulle.
+(2) Analyse contextuelle et téléologique
+[50] Le contexte et l'objet du paragraphe 118.1(13) étayaient les restrictions relatives aux opérations avec lien de dépendance et veillent à ce que le crédit d'impôt pour don de bienfaisance ne puisse servir que lorsqu'un organisme de bienfaisance a effectivement été enrichi.
+i. L'imposition de restrictions relatives aux opérations avec lien de dépendance
+[51] Dans l'ensemble de la Loi, le législateur a imposé des restrictions sur les transferts de biens entre des personnes ayant un lien de dépendance. Ces règles ont pour objet de décourager les contribuables qui ont entre eux des liens sociaux, familiaux ou économiques étroits d'éviter l'impôt de façon artificielle en manipulant la valeur des opérations (Vern Krishna, Income Tax Law, 2e éd., Toronto, Irwin Law, 2012, p. 663). Il en va de même du paragraphe 118.1(13).
+[52] Selon le paragraphe 118.1(13), le don d'un titre non admissible est réputé ne pas avoir été fait. Le paragraphe 118.1(18) définit un « titre non admissible » comme suit :
+a) une créance [...] dont est débiteur le particulier, sa succession ou une personne ou société de personnes avec laquelle le particulier ou sa succession a un lien de dépendance immédiatement après ce moment;
+b) une action [...] du capital-actions d'une société avec laquelle le particulier, sa succession [...] a un lien de dépendance immédiatement après ce moment;
+[non souligné dans l'original]
+[53] Le législateur a porté son attention aux types de dons qui donneraient droit à un crédit d'impôt et a déterminé que les dons de titres entre parties ayant un lien de dépendance ne sont pas admissibles. La raison de cette inadmissibilité réside dans la difficulté pratique d'évaluer la juste valeur marchande de ces dons (Remai, précité, par. 56).
+[54] C'est pour ces cas que le législateur a inséré les dispositions d'allégement, les alinéas b) et c) du paragraphe 118.1(13). Ces dispositions autorisent un crédit d'impôt si, dans les 60 mois, le titre non admissible initial cesse d'être non admissible ou qu'on en dispose. Il s'ensuit que l'alinéa 118.1(13)c) permet aux contribuables de demander le crédit si, au cours du délai prescrit, l'organisme de bienfaisance dispose du « titre non admissible » à un tiers sans lien de dépendance. Le prix payé par le tiers pour le titre peut être considéré comme la juste valeur marchande de ce titre.
+[55] La restriction imposée par le paragraphe 118.1(13) sur les opérations avec lien de dépendance est par conséquent cohérente avec l'approche du législateur envers ce type d'opérations dans l'ensemble de la Loi. Ces limitations existent en raison de la difficulté d'évaluer la valeur du titre donné. C'est pour cette raison qu'il serait contraire à l'intention du législateur d'accorder un crédit d'impôt lorsqu'il y a disposition d'un titre non admissible (les actions) pour un autre titre non admissible (le billet à ordre).
+ii. L'organisme de bienfaisance doit s'être enrichi au moment de la disposition
+[56] L'alinéa 118.1(13)c) comporte un autre aspect important, celui du moment de la disposition. Comme il a été mentionné précédemment, l'usage des termes « reçue » et « au moment de la disposition » fait que la contrepartie doit être reçue lorsque la disposition a lieu. Cette interprétation est également étayée par le contexte et l'objet de l'alinéa 118.1(13)c).
+[57] Premièrement, en termes pratiques, la fondation a délivré le reçu fiscal pour don de bienfaisance le 23 décembre 2013. Selon le Règlement de l'impôt sur le revenu, la juste valeur marchande du bien au moment du don doit figurer sur le reçu. Il s'ensuit que cette valeur devait être déterminée et donnée le jour de la disposition.
+[58] Deuxièmement, l'intention générale du législateur est de ne pas accorder de crédit lorsque le donateur ne s'est pas encore appauvri et que l'organisme de bienfaisance ne s'est pas encore enrichi. Cette intention est attestée par les modifications apportées à l'alinéa 118.1(13)c) par le législateur en 2011. Voici un extrait des notes techniques concernant ces modifications :
+De façon générale, le paragraphe 118.1(13) porte sur les cas où un donataire reçoit d'un particulier un droit sur un bien donné, plutôt que le bien proprement dit, de sorte que le particulier ne subit pas d'appauvrissement à ce moment par suite du transfert du bien au donataire. [...]
+Les règles énoncées aux paragraphes 118.1(13) et (18) ainsi que les nouveaux paragraphes 118.1 (13.1) à (13.3) traduisent cette intention générale. Il n'y a pas lieu de supposer que les résultats d'arrangements qui ne sont pas assujettis à ces règles, mais aux termes desquels un organisme de bienfaisance ne s'enrichit pas dans l'immédiat sont conformes à cette intention générale. (Notes explicatives, septembre 2011, p. 65)
+[59] En termes simples, le législateur ne veut pas accorder de crédit d'impôt lorsque le donateur n'est pas appauvri et l'organisme de bienfaisance n'est pas enrichi. Un billet à ordre entre parties ayant un lien de dépendance ne crée pas une véritable obligation de payer. Les parties ayant un lien de dépendance peuvent, de façon artificielle, conclure des opérations semblables, demander un crédit d'impôt pour don de bienfaisance et ne jamais verser le paiement. C'est pourquoi il importe de démontrer que l'organisme de bienfaisance a effectivement été enrichi et le donateur, appauvri. Lorsque les parties ont un lien de dépendance, le billet à ordre n'est pas assez convaincant.
+[60] L'appelante invoque la décision Dale c. Canada, [1997] 3 C.F. 235 (C.A.F.), dans laquelle la cour a déterminé qu'une « contrepartie comprenant des actions » ne fait pas qu'il soit nécessaire d'émettre des actions en même temps, ni même durant la même année d'imposition. Dans cette décision, l'émission d'actions en contrepartie d'un transfert libre d'impôt prévu à l'article 85 n'a pas eu lieu en même temps que le transfert. L'entente prévoyait d'abord l'obtention de lettres patentes supplémentaires pour faire augmenter le capital‑actions autorisé avant l'émission d'actions. Il a fallu attendre une année d'imposition ultérieure pour que les actions soient enfin émises. Les tribunaux ont affirmé qu'il existe deux sortes de contreparties, soit les contreparties réalisées et les contreparties qui dépendent d'un événement futur, et qu'il serait injustifié de limiter le sens de ce terme à une seule sorte de contrepartie.
+[61] Toutefois, cette interprétation et le fait d'éviter les restrictions injustifiées sont pertinents dans le cas de l'article 85, et non pas dans celui de l'alinéa 118.1(13)c). Cet alinéa est une disposition d'allégement, car il donne aux contribuables une deuxième occasion d'avoir droit au crédit d'impôt. Son application est restreinte et il faut se conformer à ses exigences pour obtenir le crédit. Comme il a été mentionné précédemment, le législateur veut s'assurer qu'il y a appauvrissement pour une personne et enrichissement pour une autre au moment où le crédit est demandé.
+[62] Par conséquent, une interprétation large et inclusive des termes, comme l'appelante le suggère, sans tenir compte du contexte de l'alinéa 118.1(13)c) saperait l'objectif de la disposition ou irait à l'encontre de celui‑ci. L'intention derrière l'alinéa 118.1(13)c) est d'offrir une autre possibilité aux contribuables, qui doivent respecter un ensemble de conditions strictes. Cet alinéa ne vise pas toutes les dispositions faites n'importe quand.
+La forme juridique l'emporte
+[63] Les parties avaient l'intention d'effectuer les opérations qui ont eu lieu. Ce sont les conséquences fiscales qui n'ont pas été voulues. Le 17 décembre 2013, le comptable de l'appelante a suggéré à celle‑ci de [TRADUCTION] « transférer 139 000 actions valant 17 710 966 $ en échange d'un billet à ordre que vous réglerez lorsque vous serez en mesure de le faire ».
+[64] L'argumentation de l'appelante voulant que les paiements en espèces versés en règlement du billet à ordre fassent partie de la contrepartie des actions ne peut être accueillie. Comme la Cour d'appel fédérale l'a affirmé dans l'arrêt R. c. Friedberg, [1991] A.C.F. no 1255 (QL) (C.A.F.) :
+En droit fiscal, la forme a de l'importance. Une simple intention subjective, en l'espèce comme dans d'autres instances en matière fiscale, ne suffit pas en soi à modifier la caractérisation d'une opération aux fins de l'impôt. Lorsqu'un contribuable prend certaines dispositions formelles à l'égard de ses affaires, il peut s'ensuivre d'importants avantages fiscaux, quand bien même ces dispositions seraient prises principalement dans le but d'éviter des impôts (voir La Reine c. Irving Oil, 91 D.T.C 5106, le juge Mahoney, J.C.A.). Toutefois, si un contribuable omet de prendre les mesures formelles appropriées, peut‑être que des impôts devront être payés.
+[non souligné dans l'original]
+[65] Les attributs fiscaux d'une opération découlent de la forme juridique de cette opération. On ne peut faire de nouvelle qualification que lorsque la qualification de l'opération par le contribuable ne représente pas convenablement ses effets juridiques véritables. Un résultat indésirable ne supplante pas les effets juridiques évidents d'opérations exécutées.
+[66] Le transfert des actions et du billet à ordre faisait partie d'un plan visant à maximiser les dons de bienfaisance et à demander un crédit pour ces dons. On souhaitait demander le crédit d'impôt dans la déclaration finale T1 de l'appelante pour l'année d'imposition 2012, mais verser les paiements en espèces lorsque cela serait possible. Cependant, le plan a échoué en ce qui concerne les crédits d'impôt, parce que l'appelante n'a pas respecté les conditions imposées par la disposition d'allégement à l'alinéa 118.1(13)c) de la Loi. L'appelante ne peut remédier à ce défaut en faisant appel à notre Cour.
+Conclusion
+[67] Le terme « contrepartie » à l'alinéa 118.1(13)c) a un sens restreint. Selon l'intention du législateur, la contrepartie de cette disposition d'allégement se limite à la contrepartie reçue au moment de la disposition et qui n'est pas un titre non admissible. En l'espèce, le billet à ordre était la seule contrepartie reçue au moment de la disposition. Étant donné que le billet à ordre a été échangé entre des parties ayant un lien de dépendance, ce billet est un titre non admissible. La juste valeur marchande du don est donc nulle. L'appel est par conséquent rejeté, avec dépens à l'intimée.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2021.
+« E.P. Rossiter »
+Le juge en chef Rossiter
+RÉFÉRENCE :
+2021 CCI 65
+No DU DOSSIER DE LA COUR :
+2018-2410(IT)G
+INTITULÉ :
+LA SUCCESSION D'EDMOND G. ODETTE c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Ottawa (Ontario)
+DATE DE L'AUDIENCE :
+Le 6 avril 2021
+MOTIFS DU JUGEMENT :
+L'honorable juge en chef Eugene P. Rossiter
+DATE DU JUGEMENT :
+Le 28 septembre 2021
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Rebecca Potter
+Avocats de l'intimée :
+Me Dominik Longchamps
+Me Andrew Miller
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me Rebecca Potter
+Cabinet :
+Thorsteinssons LLP
+Pour l'intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada

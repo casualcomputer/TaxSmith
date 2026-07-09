@@ -1,0 +1,226 @@
+Title: Niagara Gorge Jet Boating Ltd. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31273/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-261-31273-niagara-gorge-jet-boating-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2013-08-20
+
+# Niagara Gorge Jet Boating Ltd. v. M.N.R.
+
+- Citation: 2013 TCC 261
+- Decision date: 2013-08-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5114, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Niagara Gorge Jet Boating Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-08-20
+Neutral citation
+2013 TCC 261
+File numbers
+2012-1867(CPP)
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2012-1867(CPP)
+BETWEEN:
+NIAGARA GORGE JET BOATING LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 11, 2013, at Hamilton, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Glen W. McCann
+Counsel for the Respondent:
+Tokunbo C. Omisade
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to the determinations by the Minister of National Revenue that John Kinney was employed in pensionable employment during the period from January 1, 2002 to December 31, 2006 is dismissed in accordance with the attached reasons for judgment.
+Signed at Québec, Québec, this 20th day of August 2013.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2013 TCC 261
+Date: 20130820
+Docket: 2012-1867(CPP)
+BETWEEN:
+NIAGARA GORGE JET BOATING LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I Introduction
+[1] This is an appeal from determinations by the Minister of National Revenue (the “Minister”) that Mr. John Kinney (the “Worker”) was an employee in pensionable employment with Niagara Gorge Jet Boating Ltd. (the “Appellant”) during the period from January 1, 2002 to December 31, 2006. The Appellant requested a review of the determinations, which were confirmed.
+II Factual Background
+[2] The Appellant provides jet boat tours on the Niagara River from facilities located in Niagara-on-the-Lake, Ontario and in Lewiston, New York.
+[3] The shareholders of the Appellant were John Kowalski, Joseph Kowalski, Joanne Clifford and John Kinney, each owning 25% of the Appellant.
+[4] The Worker is a resident of the United States.
+[5] The Worker was hired by the Appellant to manage its operation in Canada and the United States.
+[6] The Worker and the Appellant signed a written contract dated December 14, 1998 in which the parties confirmed that it was their intention to enter into a client-independent contractor relationship.
+[7] In her Reply to the Notice of Appeal, the Respondent admitted the following:
+(a) The Worker was hired to create and monitor the operational procedures of the Appellant’s business.
+(b) The Worker could provide his services to others, “subject only to a prohibition on acting for businesses directly competing with the Appellant.”
+(c) The Worker had flexible working hours. The Respondent denied, however, that the Worker was “subject to no minimum or maximum” number of hours.
+(d) The Worker maintained his own home office and received no reimbursement for his office expenses.
+[8] In determining whether the Worker held pensionable employment during the period at issue, the Minister relied on the assumptions of fact set out in paragraphs 13(a) to (fff) of the Reply to the Notice of Appeal, which will be referred to in the relevant sections of these reasons.
+[9] The Minister’s assumptions as to the duties performed by the Worker were as follows:
+- Managed the U.S. and Canadian jet-boating operations on the Niagara River.
+- Provided advice on tours.
+- Developed new ventures.
+- Expanded the business.
+- Dealt with legal matters.
+- Handled major boat renovations.
+- Trained management on how to safely run white-water rafting tours.
+- Provided ongoing training and supervision to all staff.
+- Developed and updated the Appellant’s training manuals.
+[10] The Minister found that the Worker was not in business for himself when performing services for the Appellant. The Appellant asserts that the Worker was an independent contractor and was therefore not required to pay Canada Pension Plan contributions.
+III Issues
+[11] Was the Worker employed in pensionable employment with the Appellant? In other words, was the Worker an employee or an independent contractor?
+[12] What percentage of the Appellant’s work activities constituted employment in Canada?
+IV Analysis
+[13] The primary issue is whether the Worker was employed with the Appellant in pensionable employment within the meaning of paragraph 6(1)(a) of the Canada Pension Plan ("CPP") during the relevant period.
+[14] The term “employment” is defined in subsection 2(1) of the CPP as the state of being employed under an express or implied contract of service or apprenticeship, and includes the tenure of an office.
+[15] Pensionable employment is defined as follows in paragraph 6(1)(a) of the CPP:
+6. (1) Pensionable employment is
+(a) employment in Canada that is not excepted employment;
+(b) employment in Canada under Her Majesty in right of Canada that is not
+excepted employment; or
+(c) employment included in pensionable employment by a regulation made
+under section 7.
+[16] Excepted employment is defined in subsection 6(2) of the CPP. In the case at bar, the Worker is not caught by any of the element of the definition of excepted employment in that subsection.
+[17] However, pursuant to paragraph 7(1)(a) of the CPP, the Governor in Council may make regulations for including in pensionable employment any employment outside Canada or partly outside Canada, being employment that would be pensionable employment if it were in Canada.
+[18] In paragraph 16(1)(a) of the Canadian Pension Plan Regulations, (the "Regulations") there is such an exception, which brings into pensionable employment employment outside Canada if the employee “ordinarily reports for work at an establishment in Canada of his employer”, as long as that employment would be pensionable employment if it were in Canada.
+[19] Employment which is not held under an express or implied contract of service is not considered pensionable employment. Thus, the performance of services under a contract for services (a client- independent contractor relationship) is excluded from pensionable employment.
+[20] Because the evidence shows that the Worker performed his duties in Canada and the United States, to the extent that it is concluded that the relationship between the parties was that of an employer and employee, the secondary issue requires a determination as to what percentage of the Appellant’s work activities represents employment in Canada.
+[21] When considering a person’s rights and obligations under the CPP, one must determine whether the person is an employee (employed under a contract of service) or a self-employed person (bound by a contract for services).
+[22] The common-law test governing this determination was established in Wiebe Door Services Ltd. v. M.N.R.[1] and subsequently confirmed by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[2] That test requires consideration of the following four elements (which are not exhaustive), bearing in mind the nature of the relationship of the parties:
+1. Control
+2. Ownership of the tools
+3. Chance of profit
+4. Risk of loss.
+[23] Furthermore, it has been established that the intent of the parties must be taken into account when determining the legal nature of a contract.[3] The recent Federal Court of Appeal decision in 1392644 Ontario Inc. o/a Connor Homes v. The Queen sheds some light on the analysis to be undertaken when it comes to the intent of the parties, and on how that analysis is to be carried out.[4]
+[24] To summarize, the Court noted in Connor Homes that the parties may characterize their relationship however they please, but the legal effects that result from the relationship are not decided solely on the basis of the parties’ subjective intention. The Court also made reference to the manner in which the analysis should proceed, which is that the intent of the parties should be ascertained before commencing the Wiebe/Sagaz analysis. The Court states the following in explaining how to conduct the analysis:
+38 Consequently, Wolf and Royal Winnipeg Ballet set out a two step process of inquiry that is used to assist in addressing the central question, as established in Sagaz and Wiebe Door which is to determine whether the individual is performing or not the services as his own business on his own account.
+39 Under the first step, the subjective intent of each party to the relationship must be ascertained. This can be determined either by the written contractual relationship the parties have entered into or by the actual behaviour of each party, such as invoices for services rendered, registration for GST purposes and income tax filings as an independent contractor.
+40 The second step is to ascertain whether an objective reality sustains the subjective intent of the parties. As noted by Sharlow J.A. in TBT Personnel Services Inc. v. Canada, 2011 FCA 256, 422 N.R. 366, at paragraph 9, “it is also necessary to consider the Wiebe Door Services Ltd. factors to determine whether the facts are consistent with the parties' expressed intention.” In other words, the subjective intent of the parties cannot trump the reality of the relationship as ascertained through objective facts. In this second step, the parties [sic] intent as well as the terms of the contract may also be taken into account since they colors [sic] the relationship. As noted in Royal Winnipeg Ballet at para. 64, the relevant factors must be considered “in the light of” the parties' intent. However, that being stated, the second step is an analysis of the pertinent facts for the purpose of determining whether the test set out in Wiebe Door and Sagaz has been in fact met, i.e [sic] whether the legal effect of the relationship the parties have established is one of independent contractor or of employer-employee.
+[25] Applying this framework, does the evidence show that the Worker was performing his services in the course of a business carried on for his own benefit?
+A. Intent of the Parties
+[26] The Minister made the following assumptions with respect to intention:
+- The Worker did not report business income or claim business expenses in his Canadian personal income tax returns for the 2003-2006 taxation years.
+- The Worker did not have his own clients; the clients were those of the Appellant.
+- The Worker did not manage his own staff.
+- The Worker did not have a registered business name or trade name until 2006.
+- The Worker did not have a registered business number with the CRA until 2006.
+- Beginning in 2005, the Worker charged the Appellant GST; however, the Worker did not remit this GST to the Receiver General.
+[27] The Appellant’s counsel insisted that the parties intended to enter into a client-independent contractor relationship, as evidenced by their written agreement. Furthermore, the contract refers to the Worker as “the contractor”.
+[28] I accept as true that the intent of the parties was that their relationship be that which is reflected in a contract for services.
+B. Control
+[29] In her Reply to he Notice of Appeal the Minister assumed the following:
+- The Worker’s hours of work varied depending on the time of year it was and what needed to be done.
+- The Worker’s hours worked were not recorded.
+- The Worker was responsible for the daily operations of the Appellant.
+- During April to October, the Worker was expected to be on site at least ten days every two weeks.
+- During November through March, the Worker was expected to be at the Appellant’s work locations enough to perform his responsibilities in a satisfactory manner.
+- The Worker was required to report to the Appellant on a weekly and monthly basis on the weekly cash position and the monthly trial balances.
+- The Worker was required to attend management team meetings on a regular basis.
+- The Worker performed his duties at the Appellant’s various work locations in the U.S. and Canada, and from his home office.
+- The Worker was required to obtain the Appellant’s written approval for:
+o Issuing full time staff contracts
+o Issuing staff bonuses
+o Purchase orders
+o Contracts over $5,000
+o Real estate acquisitions.
+- The Worker had signing authority on the Appellant’s bank account and only his signature was required for amounts up to $10,000.
+- The Worker had the authority to sign contracts on behalf of the Appellant.
+[30] The Worker was a director and minority shareholder of the Appellant. In evidence, the Worker was described as having the “honorary” title of president of the Appellant.
+[31] The Worker’s hours were flexible and seemed to be determined by him to a large extent. The Minister assumed that there was a minimum and a maximum number of hours, but this was denied by the Appellant.
+[32] The Worker was required to attend board and management team meetings.
+[33] The contract specified those actions of the Worker that had to be approved by the board of directors in writing, and these included actions with regard to full‑time staff contracts, staff bonuses, purchase orders and contracts over $5000, as well as real estate transactions. The Worker also had to report his weekly cash position and monthly trial balance to the board.
+[34] The Appellant did not directly supervise the Worker in the performance of his day-to-day activities. As noted by Sharlow J.A. in TBT Personnel Services Inc. v. The Queen,[5] this factor is a neutral one when a worker is highly skilled in his field and would need little or no supervision regardless of the characterization of the work relationship.
+[35] Furthermore, as noted in Meredith. v. The Queen.,[6] “[t]he importance lies in the corporation’s legal power to control the employees, not whether the employees feel subject to that control”. (My emphasis.)
+[36] The Appellant submits that the fact that the Worker was permitted to work for other clients is a factor indicative of independent contractor status. Although this is true, the Worker only worked for other clients during the periods before and after the relevant period.
+[37] It seems to me that the Worker’s signing authority in various matters on behalf of the Appellant is not indicative of a person who was in business for himself.
+[38] The Appellant has failed to show that the assumptions of the Minister are incorrect. I note that the written contract defines the Worker’s duties as being those of a manager. Furthermore, he was the president and a director of the Appellant. A reasonable inference can be drawn from the evidence as the Worker reported to the board of directors of the Appellant.
+[39] The control factor points to an employment relationship.
+C. Ownership of Tools and Equipment
+[40] In determining that the Worker was an employee, the Minister made the following assumptions with respect to the ownership of the tools:
+- While working in Canada, the Worker had access to the Appellant’s office space, computer, cell phone, VHF radio, company vehicle and office supplies at no cost to the Worker.
+- The Appellant also provided the jet boats and safety equipment for the boats.
+- The Worker provided his own wet suit and water gear, and a home office and home computer.
+- The Appellant provided the Worker with company business cards identifying the Worker as president of the Appellant.
+- The parties were responsible for the maintenance of their own tools and equipment.
+[41] One of the common attributes of independent contractors is that they make a significant investment in the tools and equipment used in their work, and retain all rights pertaining to the use of those assets.
+[42] The evidence shows that the Appellant provided the Worker with access, at no cost, to a desk and chair to perform his duties. The Worker did, however, have his own computer, cell phone and vehicle. Some of the expenses relating to these tools were reimbursed by the Appellant. The Worker also had his own wet suit and water gear.
+[43] It is noteworthy that, the nature of the business was jet boating, the main tools for which were the boats and the safety equipment, which were provided by the Appellant.
+[44] The Appellant submits that the most important tool provided by the Worker was his knowledge. An analogous argument was made in Asare-Quansah v. The Minister of National Revenue,[7] a case in which a chartered accountant who had contracted to design a financial literacy course submitted that the main tool he used for that purpose was his knowledge. Campbell J. Miller went on to find the ownership of the tools factor to be a neutral one in that case, and did not really explore the question of an intangible tool, saying only that knowledge “has not traditionally been the type of tool or equipment that courts usually refer to.”[8]
+[45] The Appellant failed to rebut the Minister’s assumptions or show that they were incorrect. The ownership of tools factor points to an employer-employee relationship.
+D. Chance of Profit/Risk of Loss
+[46] With respect to the chance of profit/risk of loss factor, the Minister made a number of assumptions:
+- The Worker was paid a base salary of $60,000 a year, an additional $5,000 for each of the months of January, August, September and November, and an additional $10,000 per month for the months of February, March, April and May.
+- The Worker was entitled to annual manager profitability fees based on a percentage of eligible surplus profit amounts.
+- Other workers also received bonuses.
+- The Worker was entitled to annual director’s fees in the amount of $25,000.
+- The Appellant determined the monthly timing of payments to the Worker.
+- The Appellant determined the method of payment to the Worker, which was payment by cheque.
+- The Worker was paid in his personal name until early 2006. Thereafter, he was paid in both his personal name and in the name of his company, 7863 Management Company LLC.
+- The Worker submitted invoices to Whirlpool Jet Boat Tours in order to be paid.
+- The Worker had access to the Appellant’s company credit card.
+- The Appellant provided the Worker with summer housing and paid his travel expenses an amount of up to $8,000 per year upon submission of receipts.
+- The Appellant provided the Worker with a travel allowance of up to $5,000 annually to travel to certain destinations with the approval of the Appellant.
+- The Appellant was ultimately responsible for resolving customer complaints.
+- The Worker incurred expenses relating to the home office, wet suit and cell phone that he provided in the performance of his work.
+[47] More often than not employees will not have any financial risk because their expenses will be reimbursed, and they will not have any ongoing fixed costs. Independent contractors, alternatively, face financial risk which may lead to losses because they usually pay fixed monthly overhead even if no work is being performed at the time.
+[48] Here, the Worker had a chance of profit as his income was directly related to the success of the business from year to year. The Worker had a base salary, but admitted that the majority of his income came from the bonus structure and the year-end profit sharing. I would suggest, however, that this chance of profit is more closely tied to his shareholder status than his position as president and manager of the company. Although the Worker did make an investment in the company, that does not necessarily mean that he had to do so in order to perform his services for the company.
+[49] In terms of risk of loss, it is true that if the company had filed for bankruptcy the Worker could have lost his original investment, but this can be true of any employee who invests in the company employing him. Furthermore, this potential loss of investment does not equate to lack of job security as a financial risk. The Worker had a base salary as well as access to the company credit card. The Worker also had other benefits such as a $5,000 travel allowance, reimbursement of health care premiums up to $4,500, and annual director’s fees. The sum of the evidence suggests that the Worker did not have to pay many expenses out of his own pocket. I do not find that this security is reflective of the risk of loss that most independent contractors endure when in business for themselves.
+[50] The hiring of substitutes or replacements can help determine whether a worker is in business on his own account, because the subcontracting of work can affect his chance of profit and risk of loss. In the present case, the evidence shows that at no point did the Worker hire a substitute for himself. This weighs in favour of the existence of an employment relationship.
+[51] The Appellant failed to rebut the Minister’s assumptions with regard to chance of profit and risk of loss. The Appellant’s counsel insisted on the fact that the Worker had the opportunity to earn bonuses based on the Appellant’s profits. I note on this point that most chief executive officers of Canadian corporations often share in the profits of the businesses that they direct.
+[52] The chance of profit/risk of loss factor points to the existence of an employer-employee relationship.
+V Conclusion
+[53] Notwithstanding the characterization of the relationship by the parties as being one governed by a contract for services, the ongoing and continuous nature of the relationship weighs in favour of an employment relationship. In light of the evidence and the application of the Wiebe/Sagaz factors, I conclude that the Worker was an employee of the Appellant. Hence, he was employed in pensionable employment in Canada.
+[54] As noted above this is not a complete answer. If the Worker "ordinarily" reported for work at an establishment in Canada of his employer then part of his employment will be considered pensionable employment in Canada under paragraph 16(1)(a) of the Regulations. Conversely, if he did not “ordinarily” report for work in Canada, the time spent in Canada working for the Appellant will not be considered pensionable employment in Canada.
+[55] The word “ordinarily” is an adverb. It means most of the time, generally, usually, etc.
+[56] The evidence shows that the Worker spent about 20% of his working hours in Canada and about 80% if his working hours in the United States. His services were more in demand in Lewiston, New York than in Niagara-on-the-Lake, Ontario. Therefore, only 20% of the Worker’s services constitute pensionable employment in Canada.
+Signed at Québec, Québec, this 20th day of August 2013.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2013 TCC 261
+COURT FILE NO.: 2012-1867(CPP)
+STYLE OF CAUSE: NIAGARA GORGE JET BOATING LTD. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: April 11, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: August 20, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Glen W. McCann
+Counsel for the Respondent:
+Tokunbo C. Omisade
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Glen W. McCann
+Firm: Sullivan Mahoney LLP
+Niagara Falls, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1986] 3 F.C. 553, DTC 5025 (FCA).
+[2] [2001] 2 S.C.R. 983.
+[3] Royal Winnipeg Ballet v. M.N.R., 2006 FCA 87, [2007] 1 F.C.R. 35.
+[4] (2013) F.A 85.
+[5] 2011 FCA, 256 at para. 35.
+[6] 2002 FCA 258, 2002 DTC 7190, at para 15.
+[7] 2012 TCC 226.
+[8] Ibid., para. 20.

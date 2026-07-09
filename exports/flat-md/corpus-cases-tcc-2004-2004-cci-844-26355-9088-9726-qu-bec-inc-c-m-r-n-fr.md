@@ -1,0 +1,218 @@
+---
+title: "9088-9726 Québec Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26355/index.do"
+last_modified: "2004-12-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 844"
+citation2: ""
+neutral_citation: "2004 CCI 844"
+decision_date: "2004-12-21"
+language: "fr"
+item_id: "26355"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3368
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:42:50.043000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d01fa798e26b986615e49d1ebf0a2acb298034c6a4286bcda541c09c40e80af8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9088-9726 Québec Inc. c. M.R.N.
+
+- Citation: 2004 CCI 844
+- Decision date: 2004-12-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3368, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9088-9726 Québec Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-21
+Référence neutre
+2004 CCI 844
+Numéro de dossier
+2003-4399(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-4399(EI)
+ENTRE :
+9088-9726 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SERGE ROY,
+intervenant.
+Appel entendu sur preuve commune avec l'appel de 9117-4623 Québec Inc., (2003-4579(EI)), le 25 novembre 2004 à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Représentant de l'appelante :
+Pierre Chénier
+Avocate de l'intimé :
+Me Agathe Cavanagh
+Avocate pour l'intervenant :
+Me Manon Leclerc
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 21e jour de décembre 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2004CCI844
+Date : 20041221
+Dossier : 2003-4399(EI)
+ENTRE :
+9088-9726 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SERGE ROY,
+intervenant.
+ET
+Dossier : 2003-4579(EI)
+9117-4623 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SERGE ROY,
+intervenant.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Ces appels ont été entendus sur preuve commune à Montréal (Québec), le 25 novembre 2004.
+[2] Il s'agit d'appels portant sur l'assurabilité de l'emploi de Serge Roy, le travailleur, lorsqu'au service de l'appelante 9088-9726 Québec Inc. du 25 novembre 2002 au 8 janvier 2003, la première période en litige, et lorsqu'au service de l'appelante 9117-4623 Québec Inc., du 13 janvier au 14 mars 2003, la deuxième période en litige.
+[3] Le 8 septembre 2003, le ministre du Revenu national ( le « Ministre » ) a informé l'appelante 9088-9726 Québec Inc. de sa décision selon laquelle le travailleur occupait un emploi assurable pendant la première période en litige et qu'il avait accumulé 200 heures assurables et une rémunération assurable totalisant 2 500 $ pendant cette période.
+[4] Le 4 septembre 2003, le Ministre a informé l'appelante 9117-4623 Québec Inc. de sa décision selon laquelle le travailleur occupait un emploi assurable pendant la deuxième période en litige et qu'il avait accumulé 360 heures assurables et une rémunération assurable totalisant 4 500 $ pendant cette période.
+[5] En rendant sa décision sur la première période en litige le Ministre s'est fondé sur les présomptions de fait suivantes :
+a) l'appelante, constituée en société le 20 mars 2000, exploite une entreprise de construction immobilière; (admis)
+b) l'unique actionnaire de l'appelante était M. Bruce Zikman; (nié)
+c) durant la période en litige, l'appelante faisait la construction d'immeubles de 6 et de 12 logements à Ville de Laval; (admis)
+d) le travailleur a été embauché comme surintendant afin de coordonner les travaux de construction d'immeubles de l'appelante; (nié)
+e) les travaux de construction étaient effectués par des sous-contractants payés par l'appelante et le travailleur supervisait leurs quarts de travail; (admis en partie)
+f) le travailleur travaillait sous la supervision de Léo Marcotte, surintendant en chef; (admis en partie)
+g) le travailleur utilisait les outils et équipements de l'appelante dans le cadre de son travail; (en partie)
+h) l'appelante prétend que le travailleur travaillait entre 35 et 40 heures par semaine alors que le travailleur prétend qu'il faisait entre 40 et 45 heures par semaine; (ignoré)
+i) le travailleur recevait une rémunération fixe de 500 $ net par semaine; (en partie admis)
+j) le travailleur recevait un montant mensuel de 200 $ de l'appelante pour couvrir ses frais de déplacement et autres dépenses encourues dans le cadre de son travail; (en partie admis)
+k) durant la période en litige, le travailleur a travaillé durant 200 heures, soit 5 semaines de 40 heures. (nié)
+[6] En rendant sa décision sur la deuxième période en litige le Ministre s'est fondé sur les présomptions de fait suivantes :
+a) l'appelante, constituée en société le 1er juin 2002, exploite une entreprise de construction immobilière;
+b) l'appelante a sa place d'affaires au 100-4400, chemin de la Côte de Liesse à Montréal;
+c) durant la période en litige, l'appelante construisait des immeubles de 6 et de 12 logements à Laval;
+d) l'appelante a embauché le travailleur comme aide-surintendant pour coordonner les travaux de construction des immeubles;
+e) le travailleur devait superviser le travail des travailleurs de la construction (électriciens, menuisiers, plombiers etc.) des sous-contractants de l'appelante;
+f) le travailleur travaillait sous la supervision de Léo Marcotte, surintendant en chef de l'appelante;
+g) le travailleur travaillait généralement du lundi au vendredi, entre 7h00 et 16h00, soit 40 heures par semaine;
+h) l'appelante fournissait au travailleur tous les outils nécessaires à son travail;
+i) le travailleur n'avait aucune dépense à encourir dans le cadre de son travail pour l'appelante;
+j) le travailleur recevait une rémunération hebdomadaire de 500 $;
+k) durant la période en litige, l'appelante a versé au travailleur 4 500 $, soit 9 semaines de 500 $;
+l) durant la période en litige, le travailleur a travaillé pendant 360 heures, soit 9 semaines de 40 heures.
+[7] La preuve a révélé que les deux appelantes sont la propriété d'une société dirigée par Bruce Zikman et Gerry Frankel portant le nom de « Les services immobiliers Sétam enr. » .
+[8] Le travailleur était un entrepreneur en construction et à ce titre il possédait un permis de construction ainsi qu'un numéro pour la taxe TPS et la TVQ.
+[9] À la demande des appelantes, le travailleur a rencontré Bruce Zikman et son comptable Allan Zeesman et a reçu une offre d'emploi. Ceci faisait suite à certains projets de développement et de construction immobiliers formulés par les parties avec le travailleur. Le travailleur aurait trouvé à acheter un terrain sur lequel les appelantes projetaient de construire et on lui avait promis une commission sur cette vente. Une entente avait été signée, le 11 mars 2002 entre le travailleur et 9096-9031 Québec Inc. et Pierre Chénier un partenariat sur le partage de profit. C'est le travailleur qui avait trouvé la propriété et les acheteurs lui devaient une commission de 12 000 $, somme qu'il a eu de la difficulté à percevoir. Il rapporte que les appelantes lui sont toujours redevables de 7 000 $.
+[10] Par la suite, les parties, c'est-à-dire les appelantes et la société Services immobiliers Sétam enr., ont fait des projets de développement à St-Jérôme, mais le projet a avorté.
+[11] C'est à ce moment, novembre 2002, que le travailleur a été embauché pour assurer la gérance avec Léo Marcotte sur deux chantiers de construction, l'un au 4930, chemin Queen Mary et l'autre rue Jasmin.
+[12] Les appelantes et Services immobiliers Sétam enr. voulaient embaucher le travailleur comme travailleur autonome et le payer sur présentation de factures portant le nom de la compagnie du travailleur, laquelle est titulaire d'un permis de constructeur pour ainsi éviter toutes les D.A.S. Pour accepter cet arrangement, le travailleur a exigé une rémunération de 1 200 $ à 1 500 $ par semaine. Les appelantes ont refusé cette rémunération et les parties ont négocié là-dessus.
+[13] Sans que cette mésentente soit réglée, le travailleur a commencé à travailler pour les appelantes durant la 1ère période en litige à partir du 29 novembre 2002. Le travailleur maintient que ce salaire de 500 $ par semaine était net et non brut.
+[14] Par après, selon la preuve, Bruce Zikman a talonné le travailleur pour qu'il lui fournisse des factures sous le nom de sa compagnie et ses numéros de TPS et de TVQ, « à 50 reprises » de dire le travailleur, ce qui n'a pas été contredit, mais le travailleur a refusé et Construction Sétam et les appelantes ont continué de payer au travailleur le 500 $ par semaine sans déductions.
+[15] Le travailleur a toujours oeuvré au moins 40 à 45 heures par semaine. Il s'occupait de la gestion des chantiers des appelantes et lorsque tous les sous-traitants étaient au travail et qu'il disposait de quelques périodes libres, il partait avec Pierre Chénier, directeur des opérations pour les deux appelantes, en quête de propriétés à acheter pour celles-ci pour fins de développements et de constructions futurs. Il avait aussi la charge, confiée par monsieur Zikman, de visiter d'autres chantiers pour y dénicher des sous-traitants pour les nombreux chantiers des appelantes. Le travailleur avait l'autorisation d'embaucher des ouvriers et de faire des achats. Les coûts des achats qu'il faisaient lui étaient remboursés par les appelantes.
+[16] M. Zikman visitait le chantier tous les jours. Si le travailleur ne s'y trouvait pas, il lui téléphonait sur son cellulaire. M. Zikman était en contact régulier avec le chantier et le travailleur, même lorsqu'il était sur les pentes de ski. Le travailleur était également sous le contrôle de Léo Marcotte.
+[17] Le travailleur a été au service des appelantes jusqu'au 14 mars 2003, sauf pour une période de congé de deux semaines pendant les Fêtes.
+[18] Au printemps 2003, les deux appelantes ont remis au travailleur, en son nom personnel, chacune un T4A indiquant des gains de 1 000 $ sous la rubrique « autres revenus » .
+[19] Sur réception de ces documents, produits en preuve sous la cote A-1, le travailleur a informé les appelantes qu'il n'en voulait pas puisqu'il avait fourni ses prestations de travail à titre individuel et non pas au nom d'une compagnie. Il a donc demandé des T4 ordinaires et on lui a répondu qu'on les lui remettrait plus tard.
+[20] Ceci a été suivi d'un appel téléphonique de M. Zikman qui lui demandait de remettre ses clés après le travail. On mettait fin à son travail à 2 heures d'avis. Il a été établi que le travailleur recevait des appelantes la somme de 200 $ par mois pour dédommager ses déplacements.
+[21] Allan Zeesman, le comptable des appelantes, a témoigné que le travail du travailleur avait été terminé parce que celui-ci n'avait pas honoré ses obligations et qu'il s'occupait davantage de ses affaires personnelles que de celles des appelantes. Il n'a pas précisé, mais son explication n'exclut pas le motif identifié par le travailleur. Monsieur Zeesman a d'ailleurs ajouté qu'on avait remis au travailleur un T4A parce qu'il était un travailleur enregistré.
+[22] Éric Williston avait été embauché comme journalier pour le compte de Habitation Sétam qui lui remettait un chèque de 312 $ le 22 janvier 2003 pour 26 heures de travail à 12 $ l'heure. Il a été révélé que l'embauche de monsieur Williston devait être autorisé par monsieur Zikman. Dans son témoignage monsieur Zikman a affirmé ne pas connaître cet individu. On a prétendu que monsieur Williston avait été embauché par le travailleur. C'est sans doute le cas, puisque le travailleur avait l'autorisation de le faire mais le chèque remis à monsieur Williston trahit le témoignage de monsieur Zikman quand il affirme que ses sociétés n'ont aucun employé, et qu'elles n'embauchent que des sous-traitants.
+[23] En effet, dans son témoignage, Bruce Zikman a affirmé que ses sociétés n'ont pas d'employés, donc pas de déductions à faire. Par ailleurs, il a affirmé que les appelantes donnaient tout à contrat et que tous ceux qui travaillaient pour les appelantes étaient des sous-traitants. En outre, il a précisé que même son comptable est incorporé.
+[24] D'une part les appelantes soutiennent que puisque le travailleur a continué à travailler pour elles, cela confirme l'entente selon laquelle il exécutait ses tâches en tant qu'entrepreneur indépendant, comme le voulaient les appelantes initialement.
+[25] D'autre part, le travailleur fait valoir qu'il a continué à travailler puisqu'il avait besoin de gagner et que le salaire qu'il recevait ne représentait aucunement une rémunération pour du travail exécuté par sa compagnie. Il ajoute que c'est pour cette raison qu'il a protesté lorsqu'on lui a remis des T4A au lieu des T4. Chose étrange et qui supporte l'argument du travailleur, c'est à ce moment même qu'il a été mis à pied.
+[26] La preuve des appelantes n'a pas réussi à prouver la fausseté des présomptions du Ministre. À bien des égards les témoignages rendus par les témoins des appelantes vont à l'encontre des faits. M. Zikman insiste sur le fait que les sociétés qu'il dirige n'embauchent que des sous-traitants. La preuve, cependant, a démontré que le salaire payé au travailleur en son nom personnel et les circonstances entourant son emploi, le salaire payé à Éric Williston, la surveillance exercée sur le travailleur par Léo Marcotte et les visites sur les chantiers, ses téléphones au travailleur sur son cellulaire, le remboursement de ses dépenses de déplacement, tout cela supporte l'argument en faveur de la relation employeur-employé.
+[27] Les outils de travail étaient fournis par l'appelante qui autorisait les achats et les locations faites par le travailleur pour lui en rembourser les frais par la suite.
+[28] La rémunération du travailleur était fixe; il n'encourait aucune dépense dans l'exécution de ses tâches. Les tâches du travailleur étaient liées-intégrées à l'entreprise de l'appelante. À qui appartient l'entreprise à qui le travailleur rend les services?
+[29] L' alinéa 5(1)a) de la Loi sur l'assurance-emploi (la « Loi » ), définit l'emploi assurable mais ne définit pas les critères sous lesquels les conditions d'emploi doivent être analysées. Ceci a été établi par la jurisprudence. Ainsi, l'arrêt Wiebe Door Services c.. M.R.N., [1986] 3 C.F. 553 a été reconnu pour avoir statué que les critères suivants servent à déterminer à l'existence ou non d'un contrat de louage de services. Il s'agit des critères du contrôle du travailleur, de la propriété des outils de travail, des chances de profit ou des risques de perte et de l'intégration des tâches du travailleur à l'entreprise du payeur.
+Le contrôle
+[30] Le travailleur oeuvrait toujours un minimum de 40 à 45 heures par semaine, selon un horaire établi qu'il suivait. Il travaillait sous la supervision de Léo Marcotte et de Bruce Zikman dont il exécutait les directives. Il était remboursé pour les achats faits pour les appelantes et on lui versait 200 $ par mois pour ses frais de déplacement. Il était rémunéré au salaire fixe de 500 $ par semaine.
+Propriété des outils
+[31] Dans ses tâches de gérant, le travailleur n'utilisait pas beaucoup d'outils. Il était dédommagé pour l'usage de sa voiture.
+Chances de profit ou risques de perte
+[32] La preuve a établi que le travailleur n'avait aucune chance de réaliser un profit ou de subir une perte. Il était payé à salaire fixe et il n'encourait aucune dépense non remboursée par les appelantes.
+Intégration
+[33] Le travailleur exécutait ses tâches pour les entreprises des appelantes et non à son propre compte. Le travailleur n'avait aucune entreprise. Il ne se servait pas de sa compagnie. Il a refusé de la mettre au service des appelantes. C'est d'ailleurs la raison principale de sa mise à pied. Il oeuvrait exclusivement pour les entreprises des appelantes. Il assurait leur gérance. Donc, ses tâches étaient parfaitement intégrées aux entreprises de celles-ci.
+[34] Au terme de cette analyse, cette Cour est d'avis que le travailleur, selon les critères énumérés ci-haut, exerçait un emploi assurable.
+[35] À cet égard, la tâche de cette Cour a été appuyée par la jurisprudence citée par le Ministre. La Cour d'appel fédérale, s'étant penchée sur une question semblable, s'exprimait en ces termes sous la plume du juge Pratte dans l'arrêt Gallant c. M.R.N., [1986] A.C.F. No 330 :
+La Cour canadienne a jugé que l'emploi du requérant n'était pas un emploi assurable au sens de la Loi de 1971 sur l'assurance-chômage. Elle a fondé cette décision sur deux motifs, savoir :
+1. le requérant était employé en vertu d'un contrat d'entreprise plutôt que de louage de services; et
+2. l'emploi du requérant était exclu parce qu'il s'agissait d'un emploi occasionnel à des fins autres que celles de l'entreprise de l'employeur.
+L'avocat de l'intimé a reconnu avec raison que ce second motif n'était pas fondé en droit. Quant au premier motif, il nous semble basé sur l'idée fausse qu'il ne peut y avoir de contrat de louage de services à moins que l'employeur n'exerce en fait un contrôle étroit sur la façon dont l'employé exécute son travail. Ce qui est la marque du louage de services, ce n'est pas le contrôle que l'employeur exerce effectivement sur son employé, c'est plutôt le pouvoir que possède l'employeur de contrôler la façon dont l'employé exécute ses fonctions. Si on envisage les circonstances de cette affaire à la lumière de ce critère, il est manifeste que le requérant était un employé plutôt qu'un entrepreneur.
+[36] Pour en arriver à sa décision, cette Cour a été éclairée par les principes énoncés par la Cour suprême du Canada dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, dont le passage suivant :
+[...] La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire.
+[37] Le témoignage de monsieur Zikman révèle son intention de n'embaucher que des travailleurs dont les travaux seraient exécutés en sous-traitance. Il s'est avéré, toutefois, que les circonstances décrites dans la preuve ont trahi ses intentions. Il convient, à ce propos, de considérer ce passage dans l'arrêt M.R.N. c. Emily Standing, [1992] A-857-90 où le juge Stone de la Cour d'appel fédérale s'exprimait en ces termes (à la page 2) :
+[...] Rien dans la jurisprudence ne permet d'avancer l'existence d'une telle relation du simple fait que les parties ont choisi de la définir ainsi sans égards aux circonstances entourantes appréciées en fonction du critère de l'arrêt Wiebe Door.
+[38] Il est de droit connu que le fardeau de la preuve dans la cause sous étude repose sur les appelantes, mais celles-ci ne s'en ont pas acquitté. Par ailleurs, la preuve a clairement démontré que le travailleur, durant les périodes en litige, a exercé un emploi assurable lorsqu'au service des appelantes au sens de la Loi parce qu'il existait un contrat de louage de services, et qu'il y avait donc une relation employeur-employé entre les appelantes et le travailleur.
+[39] En conséquence, les appels sont rejetés et les décisions rendues par le Ministre sont confirmées.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 21e jour de décembre 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2004CCI844
+No DU DOSSIER DE LA COUR :
+2003-4399(EI), 2003-4579(EI)
+INTITULÉ DE LA CAUSE :
+9088-9726 Québec Inc. c. M.R.N. et Serge Roy
+9117-4623 Québec Inc. c. M.R.N. et Serge Roy
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 25 novembre 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge suppléant S.J. Savoie
+DATE DU JUGEMENT :
+le 21 décembre 2004
+COMPARUTIONS :
+Pour les appelantes :
+Pierre Chénier
+Pour l'intimé :
+Me Agathe Cavanagh
+Pour l'intervenant :
+Me Manon Leclerc
+AVOCATE INSCRITE AU DOSSIER:
+Pour les appelantes :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l'intervenant :
+Me Manon Leclerc
+Mont-Laurier (Québec)

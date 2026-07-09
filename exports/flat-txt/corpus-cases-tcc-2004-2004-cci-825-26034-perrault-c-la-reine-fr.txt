@@ -1,0 +1,132 @@
+Title: Perrault c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26034/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-825-26034-perrault-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-12-17
+
+# Perrault c. La Reine
+
+- Citation: 2004 CCI 825
+- Decision date: 2004-12-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4094, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perrault c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-17
+Référence neutre
+2004 CCI 825
+Numéro de dossier
+2004-1535(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-1535(IT)I
+ENTRE :
+ANDRÉ PERRAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 29 novembre 2004, à Montréal (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Antonia Paraherakis
+____________________________________________________________________
+JUGEMENT
+L'appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1995, 1996 et 1997 est rejeté, selon les motifs du jugement ci joints.
+Signé à Ottawa, Canada, ce 17e jour de décembre 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI825
+Date : 20041217
+Dossier : 2004-1535(IT)I
+ENTRE :
+ANDRÉ PERRAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel concernant les années d'imposition 1995, 1996 et 1997.
+[2] Les questions en litige sont les suivantes :
+a) déterminer si le ministre du Revenu national ( « ministre » ) a correctement ajouté, pour les années d'imposition 1995, 1996 et 1997, dans le calcul du revenu de l'appelant, les sommes de 5 795 $, de 8 546 $ et de 9 952 $ respectivement à titre d'avantages imposables pour l'usage d'un véhicule,
+b) déterminer si le ministre a correctement refusé, pour l'année d'imposition 1996, dans le calcul du revenu de l'appelant, la somme de 21 368 $ réclamée au titre de frais financiers.
+[3] Après avoir été assermenté, l'appelant a admis les faits suivants :
+a) Le 13 mars 1992, la société Stabo Inc. a acheté une automobile Lincoln TownCar 1988 au prix de 16 800 $ + taxes (1 176 $ de TPS et 918 $ de TVQ).
+b) Stabo Inc. a mis cette automobile à l'usage exclusif de l'appelant durant l'année d'imposition 1995 et une partie de l'année d'imposition 1996.
+c) Le 27 mars 1996, la société Stabo Inc. a acheté une automobile Lincoln Continental 1994 au prix de 32 000 $ + taxes (2 240 $ de TPS et 2 226 $ de TVQ).
+d) Stabo Inc. a mis cette automobile à l'usage exclusif de l'appelant durant une partie de l'année d'imposition 1996 et l'année d'imposition 1997.
+[...]
+f) Durant toute la période en litige, l'appelant administrait Stabo Inc.
+g) L'appelant a également été actionnaire de Stabo Inc. de 1975 à 1996.
+[4] L'appelant a d'abord traité de la question de la perte de 21 368 $ qui a découlé d'un prêt consenti à son fils Richard. L'appelant a affirmé avoir été renversé que la personne responsable de son dossier ait pu tirer comme conclusion qu'il s'agissait d'une perte en capital et non pas une perte d'entreprise et cela, sans analyse ni prise en considération de tous les faits relatifs au prêt à l'origine de cette question en litige.
+[5] Il a ainsi expliqué en détail tous les faits et circonstances qui l'avaient motivé à consentir un tel prêt à son fils Richard. Vivant manifestement au-dessus de ses moyens, son fils n'était plus en mesure d'assumer ses obligations financières.
+[6] L'appelant a voulu éviter que son fils fasse cession de ses biens à cause des conséquences désastreuses pour son avenir; grande et profonde préoccupation pour son père, appelant.
+[7] Il a donc, pour sauver l'honneur de la famille, selon son propre témoignage, voulu intervenir pour mettre en ordre les revenus et les dépenses de son fils en imaginant divers scénarios qui impliquaient tous les membres de la famille et la caisse populaire impliquée dans le financement d'immeubles propriétés de son fils.
+[8] L'appelant était très critique et sévère à l'endroit de tous les intervenants; il semble qu'il était le seul à connaître la vérité quant à la façon de faire. L'appelant n'ayant manifestement pas réussi à convaincre tous les intervenants impliqués à souscrire à ses vérités, son fils a dû faire cession de ses biens, d'où la perte de 21 368 $.
+[9] Les raisons pour lesquelles il avait consenti le prêt de 21 368 $ à son fils, étaient d'ordre humanitaire et familial et découlaient de la préoccupation légitime d'un père qui a voulu éviter que son fils fasse faillite et cela, pour de multiples raisons, allant de la fierté à l'autorité en passant par l'exemplarité de la dignité.
+[10] Pour que la Cour souscrive aux prétentions de l'appelant qu'il s'agissait d'une perte d'entreprise et non d'une perte en capital, il aurait fallu qu'il établisse que le prêt avait été consenti dans le cours normal de ses activités et qu'il s'agissait d'une activité commerciale.
+[11] Non seulement l'appelant n'a pas fait cette démonstration, il a plutôt fait la preuve, hors de tout doute, qu'il avait voulu à tout prix éviter que son fils fasse faillite. Il a aussi voulu lui inculquer des notions de responsabilité et l'importance de faire face à ses responsabilités et de vivre en fonction de ses revenus, etc.
+[12] La preuve n'a pas établi que l'appelant exploitait une entreprise de prêts. Il était alors principalement impliqué dans l'immobilier à titre d'agent ou de courtier.
+[13] Bien que louable, légitime et irréprochable, le geste de l'appelant à l'endroit de son fils (prêt de 21 368 $ consenti avec intérêts) n'était pas une décision commerciale, et encore moins une décision dans le cadre d'une activité commerciale propre à une entreprise de prêts.
+[14] Pour ce qui est de la deuxième question, soit celle relative aux avantages obtenus des suites de l'utilisation d'automobiles qui appartenaient à la société dont il détenait des actions, l'appelant a d'abord fait des admissions dont la portée est très pertinente et aussi très conséquente quant à cette partie de son appel.
+[15] Il y a lieu de reproduire les faits qui ont fait l'objet d'admissions par l'appelant; il s'agit des faits suivants :
+a) Le 13 mars 1992, la société Stabo Inc. a acheté une automobile Lincoln TownCar 1988 au prix de 16 800 $ + taxes (1 176 $ de TPS et 918 $ de TVQ).
+b) Stabo Inc. a mis cette automobile à l'usage exclusif de l'appelant durant l'année d'imposition 1995 et une partie de l'année d'imposition 1996.
+c) Le 27 mars 1996, la société Stabo Inc. a acheté une automobile Lincoln Continental 1994 au prix de 32 000 $ + taxes (2 240 $ de TPS et 2 226 $ de TVQ).
+d) Stabo Inc. a mis cette automobile à l'usage exclusif de l'appelant durant une partie de l'année d'imposition 1996 et l'année d'imposition 1997.
+[...]
+f) Durant toute la période en litige, l'appelant administrait Stabo Inc.
+g) L'appelant a également été actionnaire de Stabo Inc. de 1975 à 1996.
+[16] L'appelant n'a présenté aucune preuve quant à l'utilisation personnelle qu'il avait fait des véhicules. Il a tout simplement tenu pour acquis qu'il était normal et légitime qu'une société fournisse une voiture à un de ses dirigeants. Il n'a donc pas été question de registre ou de quoi que ce soit de comparable pour établir la partie qui correspondait à l'usage personnel de la voiture et la partie qui correspondait à l'usage fait pour les sociétés propriétaires.
+[17] En guise de preuve pour ce volet de son appel, l'appelant a essentiellement fait état de nombreuses critiques à l'endroit de Revenu Québec. Il a affirmé qu'il avait produit une déclaration modifiée en 2000 pour corriger ses déclarations de revenus antérieures. Il a aussi admis qu'il avait toujours cru qu'il était normal, régulier et correct qu'une société fournisse une voiture à ses dirigeants.
+[18] Il a exprimé sa frustration et sa déception et il a décrit les problèmes qu'il avait vécus, lors des dernières années, avec Revenu Québec.
+[19] Les cotisations pour les années d'imposition 1995, 1996 et 1997 dont il est fait appel en ce qui a trait aux avantages imposables découlant de l'usage d'un véhicule ont été établies en vertu des alinéas 6(1)e), 6(1)e.1) et 6(1)k), des paragraphes 6(2), 6(7), 15(1) et 15(5) et de l'article 248 de la Loi de l'impôt sur le revenu ( « Loi » ). En ce qui a trait à la cotisation pour l'année d'imposition 1996 concernant au montant de 21 368 $ à titre de frais financiers, elle a été établie en vertu des alinéas 18(1)a) et 20(1)p) de la Loi.
+[20] Je dois décider essentiellement si les cotisations dont il a été fait appel ont été établies en conformité avec les dispositions pertinentes de la Loi.
+[21] Pour ce faire, je dois, à partir de la preuve - dont le fardeau incombait à l'appelant - évaluer si l'appelant a, par une prépondérance de la preuve, démontré que son interprétation des faits commandait une conclusion différente de celle retenue par l'intimée.
+[22] En l'espèce, sur la question de la perte, la preuve soumise n'a non seulement aucunement démontré le bien-fondé des prétentions de l'appelant, elle a plutôt confirmé la justesse et le bien-fondé de la cotisation.
+[23] Quant à l'avantage conféré découlant de l'usage exclusif d'une voiture, l'appelant n'a soumis aucune preuve pertinente qui doit être prise en considération pour discréditer la qualité de la cotisation.
+[24] Pour ces motifs, l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 17e jour de décembre 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI825
+No DU DOSSIER DE LA COUR :
+2004-1535(IT)I
+INTITULÉ DE LA CAUSE :
+André Perrault c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 29 novembre 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 17 décembre 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Antonia Paraherakis
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

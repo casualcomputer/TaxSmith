@@ -1,0 +1,158 @@
+Title: Szlavy v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29390/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-449-29390-szlavy-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-09-09
+
+# Szlavy v. The Queen
+
+- Citation: 2009 TCC 449
+- Decision date: 2009-09-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6881, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Szlavy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-09
+Neutral citation
+2009 TCC 449
+File numbers
+2007-868(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-868(IT)G
+BETWEEN:
+MARTIN SZLAVY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 9 and 10, 2009 and May 26, 2009 at
+Vancouver, British Columbia
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Selena Sit
+Raj Grewal
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2000 and 2001 taxation years are allowed, without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Summerside, Prince Edward Island, this 9th day of September 2009.
+"Diane Campbell"
+Campbell J.
+Citation: 2009 TCC 449
+Date: 20090909
+Docket: 2007-868(IT)G
+BETWEEN:
+MARTIN SZLAVY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] These appeals concern the 2000 and 2001 taxation years. The Minister of National Revenue (the “Minister”) conducted an audit of the Appellant’s taxation years using an indirect verification analysis referred to as a bank deposit analysis. This resulted in the inclusion of unidentified bank deposits as unreported income to the Appellant, in excess of the income and benefits reported by the Appellant in respect to his business activities in late‑filed income tax returns for each of these taxation years. Numerous claimed expenses were also disallowed and gross negligence penalties were imposed.
+[2] The Appellant operated a business in these taxation years in which he provided his services as a stuntman. He testified that he has also worked as an actor, car mechanic and contractor. The Respondent takes the position that, in the taxation years under appeal, the Appellant was operating businesses, aside from the stunt work, namely, work relating to construction and car repair. The Appellant testified that he did operate an automotive repair shop but that it was prior to the period in dispute in this appeal. He also stated that he only became involved in construction work subsequent to the 2000 and 2001 taxation years. The Respondent maintained that both the automotive and construction endeavours spilled into the relevant taxation years that have been reassessed.
+[3] The Appellant was paid for each job when he worked as a stuntman through the Union of B.C. Performers (the “Union”), which used a payroll company called TBD Televector. In some instances he was paid residuals directly by the Union when shows would stop and then resume but he testified that these were for smaller amounts only. The Respondent, however, assumed that the Appellant was paid in cash for many of his jobs.
+[4] During these taxation years, the Appellant had four bank accounts located at HSBC: a Canadian business account, a U.S. business account, a personal account opened after his divorce and a joint account held with his former wife.
+[5] The Appellant testified that he created a company called Picture Car that he used essentially as a destination to deposit cheques received primarily from stunt work involving vehicles.
+[6] One of the Appellant’s biggest obstacles in this appeal is his lack of supporting documentation. In respect to the 2000 bank deposits, he testified that his difficulty in producing source documents for each deposit was due to his bank’s inability to locate and provide this documentation to the Appellant because the bank had outsourced storage of these documents. This is particularly detrimental to the Appellant’s appeal by his own admission (Transcript pages 294-295), because he held a joint account in this same year, 2000, with his now ex‑wife. He acknowledged that his former spouse also made deposits to this joint account. In addition, although this explanation of inaccessible banking information was provided for the 2000 taxation year, the Appellant failed to adequately document the deposits for the following taxation year, 2001, when apparently his bank would have been able to locate and provide the alleged documentation. Colouring all of this lack of documentation, is the testimony of the Appellant, which for the most part was uncorroborated in any way and consisted primarily of vague and imprecise recollections.
+[7] Both prior to and during the hearing, there were a number of concessions and adjustments made by the Respondent when the Appellant produced revised claims and statements of business activity. Therefore, since the amounts initially reassessed have been adjusted, the amounts in issue before me have also changed.
+Unreported Income as per the Bank Deposit Analysis:
+[8] In respect to the unreported income for the year 2000, the Respondent conceded an amount of $21,963.38 and for the year 2001 a total of $4,605.10 was conceded. This means that the amounts of $34,539.71 and $26,820.90 are still in dispute in 2000 and 2001, respectively. The concession of $21,963.38 was from a non-taxable source as it related to the amount received from the refinancing of the Appellant’s mortgage on his house. However, upon my review of this deposit of May 23, 2000, it is in the amount of $26,259.97 (Exhibit R-1, Tab 7, page 3) and according to the Appellant’s evidence he identified this as the amount of the refinancing and the approximate time of the refinancing (Transcript page 125). According to the Respondent’s submissions (Transcript page 251), she was prepared to concede this deposit of May 23, 2000 because it covered an amount received from a refinancing of the Appellant’s house. There is no explanation respecting the discrepancy in these amounts. Consequently, I am going to allow the entire amount of $26,259.97 as I have been given no explanation why only a portion of this amount is attributed to the refinancing of that date. This in effect raises the conceded amount of $21,963.38 by $4,296.59 and reduces the amount included in the Appellant’s income for 2000 to $30,243.12 ($34,539.71 (unreported income at issue in 2000) minus $4,296.59 (increased refinancing amount)).
+[9] Without documentation and without witnesses called to corroborate his claims respecting the remainder of the 2000 deposits, for which no concessions were made by the Respondent, the Appellant has failed to satisfy the onus which is upon him. He addressed only a small portion of the total deposits for 2000 and then only with vague and unconvincing explanations. His testimony in this respect is sprinkled with such phrases as: “the number looks like” (Transcript page 126), that [$1,900 cash deposit] “could be a number of things” (Transcript page 126), this deposit stems from “a possibility of” (Transcript page 126), payment represents “some kind of cheque” (Transcript page 126) and “most likely they are paycheques … I only can speculate …” (Transcript page 131). With testimony such as this, respecting the non-conceded unidentified deposits in 2000, I am simply not prepared to remove any further amounts from the Appellant’s assessed income in 2000.
+[10] In respect to concessions for the unreported income for the 2001 taxation year, the Respondent agreed to an adjustment to the various deposit amounts totalling $4,605.21 as representing non-taxable sources of income. This total represented deposits made on May 4, 2001, August 29, 2001, February 27, 2001, May 4, 2001 and March 2, 2001.
+[11] The situation is somewhat different for the remaining 2001 unidentified deposits that were not conceded than those in the previous taxation year because the Appellant produced a witness, Ken Lelek, to corroborate his explanation respecting the source of funds for some of these 2001 deposits. During 2001, Mr. Lelek wrote six cheques to the Appellant totalling $10,300.00. The Appellant identified these six amounts as money used to purchase renovation materials on Mr. Lelek’s behalf, as loans to the Appellant from Mr. Lelek, and for auto and boat parts purchased on Mr. Lelek’s behalf. Mr. Lelek corroborated the Appellant’s testimony in respect to these amounts.
+[12] The Respondent’s position is that the Appellant was operating a construction business in the 2000 and 2001 taxation years. The Respondent submitted that the Appellant’s income tax return for 2000 (Exhibit R-4) supports this position because the Statement of Business Activities contained in the return indicates that the Appellant’s main product or service was construction. The Respondent also points to the first cheque dated January 5, 2001 from Mr. Lelek to the Appellant in the amount of $1,500.00 on which Mr. Lelek wrote “renovations”. Therefore the Respondent submits that this cheque constituted payment for renovation work performed for Mr. Lelek as part of the Appellant’s construction work.
+[13] The Appellant’s position is that he was not involved in construction activities in the years under appeal although he has been more recently involved in this activity. In addition, he testified that he was not capable of engaging in construction work during this period because of a shoulder injury and subsequent surgery. According to his testimony, his accountant, who prepared his return, mistakenly recorded the word “renovations” in the memo slot of the cheque and mistakenly alluded to construction as a source of business income.
+[14] The January 5, 2001 cheque is the only cheque that references “renovations”. The Appellant’s explanation of this cheque was that he purchased renovation materials for Mr. Lelek which was corroborated by Mr. Lelek. Even if it was payment for such work, the evidence indicates that it was a one‑time transaction which does not constitute a business. The Respondent did not submit any other cheques or deposits that might possibly have been derived from this alleged construction business. Therefore, I am prepared to accept the Appellant’s evidence that he was not conducting construction activities during this period nor do I believe that he was operating a car repair and sales business during this period. While the Appellant may have sold a few cars during this period (Transcript pages 353-355) I do not believe that a business existed that could provide a business source of income.
+[15] Although it is impossible to tell from the Appellant’s testimony to what extent, if any, he advanced the amounts received from Mr. Lelek to the uses he claimed, the majority of the bank statement information indicates merely that an ABM cash withdrawal had been made. I am therefore prepared, in light of Mr. Lelek’s corroboration, to remove these amounts from the assessed income of the Appellant which will reduce the Appellant’s 2001 income by $10,300.00, resulting in income for 2001 in the amount of $16,520.90 ($26,820.90 - $10,300.00). I am not prepared to accept the balance of the Appellant’s submissions respecting the 2001 deposits aside from those totalling $10,300.00 that were corroborated by Mr. Lelek’s testimony. These remaining deposits were described as repayments of loans, a sale of an aquarium and a bank draft but no supporting documentation or other corroborating evidence was provided to support the Appellant’s vague assertions.
+Disallowed Expenses:
+[16] In reassessing the Appellant, the Minister also disallowed certain expenses that the Appellant had claimed. During the hearing the Appellant submitted a revised statement of business activities in respect of the year 2000.
+[17] With respect to the disallowance of expenses in 2000, the Appellant claimed the following amounts which the Respondent conceded:
+(1) Business tax, fees, licenses and dues - $565.90;
+(2) Interest - $119.10;
+(3) Office - $144.64; and
+(4) Legal, accounting and other professional fees - $472.50.
+[18] For telephone and utilities expenses claimed by the Appellant in the amount of $1,648.83, the Respondent conceded 50% of this amount, viewing the remaining 50% as personal. I believe this is reasonable.
+[19] Although the Appellant claimed only $1,621.80 for supplies, based on the Respondent’s review of the receipts, she believed that some amounts that should have been claimed for supplies were included in other categories so these amounts were transferred to the supply category. This explains why the Appellant claimed no amount in the purchase category in his 2000 revised statement of business activities, as the proper figure for claimed purchases may have been inadvertently included in the subcontracts category amount of $6,236.27. This resulted in a concession of $5,625.27 under the supply category although the Appellant’s revised claim for supplies in 2000 was only $1,621.80.
+[20] The Appellant claimed travel expenses of $2,086.02 for the year 2000 but because of the lack of documentation, the Respondent made no concession. Out of the total amount claimed, the Appellant testified that $1,104.20 covered his travel to Hungary to meet with a stunt coordinator. The second identified amount of $857.00 was posted on December 18, 2000. The two amounts total $1,961.20 leaving a discrepancy of $124.82 which the Appellant thought might be related to a snowboarding trip. It is apparent that the Appellant’s business activities would require that he would be incurring some travel expenses to movie locations and to meet with stunt coordinators. I am therefore prepared to allow the documented travel amounts of $1,961.20 but because I view the Respondent’s concessions as otherwise reasonable, I am not prepared to make any further adjustments to the disallowed expenses in 2000. Therefore, the disallowed expenses for the year 2000, in respect to these categories, will be reduced to $3,182.02 (from the original amount of $5,143.23).
+[21] The Respondent’s concession in the amount of $3,809.75 for motor vehicle expenses in 2000, where the Appellant originally claimed $6,148.65, is reasonable in light of a lack of documentation and general substantiation.
+[22] The Appellant also claimed $26,446.81 for business use of home expenses in the year 2000 for which the Respondent allowed the amount of $22,878.51. Again based on the imprecise nature of the testimony and lack of documents or other corroborating evidence, this concession is more than reasonable.
+[23] Lastly, in respect to the year 2000, the Appellant on his revised statement for this year claimed $239.39 in respect to capital cost allowance (“CCA”) for camera equipment which he submits was used exclusively in the business. Without any supporting documentation or video footage to establish that the camcorder was used for business purposes, the Respondent conceded 50% of the amount claimed. Again I believe the Respondent has dealt reasonably with the Appellant’s claim.
+[24] In respect to the disallowed expenses for the year 2001, the Respondent conceded the following amounts as claimed by the Appellant:
+(1) Purchases - $1,871.00;
+(2) Advertising - $74.63;
+(3) Business tax, fees, licenses and dues - $655.00; and
+(4) Office - $365.88.
+[25] In respect to the Appellant’s claim for interest expenses of $319.58 and telephone and utilities of $1,549.71, the Respondent essentially conceded 50% of the amounts of $319.58 and $1,375.76 (Appellant having conceded that his telephone and utilities’ claim should total $1,375.76 and not $1,549.71). Based on the evidence, these concessions were reasonable.
+[26] In 2001, the Appellant also claimed meal and entertainment expenses of $306.27 (50% of $612.54). Because of the type of business activities he was conducting and because this amount is reasonable, I am prepared to allow this claim along the same reasoning that I allowed the travel claim in 2000.
+[27] The Appellant was unable to produce documentation to substantiate his 2001 claim for motor vehicle expenses of $6,561.59. The Respondent’s concession totalling $5,282.26 is reasonable in the circumstances.
+[28] The Appellant’s revised claim in 2001 respecting business use of home is not in dispute as the Respondent has conceded the amount of $20,968.71.
+Late Filing Penalty:
+[29] Although paragraphs 6 and 8 of the Reply to the Notice of Appeal state that the income tax returns for both the 2000 and 2001 taxation years were late filed, it appears from the Respondent’s initial comments (Transcript page 12) that late filing penalties are being imposed pursuant to subsection 162(1) in respect to the 2001 taxation year only. In addition, the Respondent pointed out that this penalty should be assessed on the October 8, 2003 filing date as opposed to an October 19, 2004 filing date. While the Appellant blames this late filing of his return and the consequent penalty on his accountant, he did not produce the accountant as a witness. He did little to demolish the Minister’s assumptions in this regard by simply deflecting the blame to others. The late filing penalty in respect to 2001 is justified.
+Gross Negligence Penalties:
+[30] The Minister also assessed penalties pursuant to subsection 163(2) on the unreported income. Subsection 163(2) states:
+Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of …..
+[31] The Respondent relied on the Federal Court of Appeal decision in Lacroix v. The Queen, 2008 FCA 241, 2009 D.T.C. 5029, and specifically paragraph 32, which states:
+…Insofar as the Tax Court of Canada is satisfied that the taxpayer earned unreported income and did not provide a credible explanation for the discrepancy between his or her reported income and his or her net worth, the Minister has discharged the burden of proof on him within the meaning of subparagraph 152(4)(a)(i) and subsection 162(3).
+[32] The Respondent’s submissions concerning Lacroix were as follows:
+… in this case where we have an unidentified bank deposit analysis, if Your Honour is satisfied on the evidence that the explanations for the unexplained deposits are not satisfactory, then clearly La Croix stands for the proposition in that case that gross negligence penalties are properly applied.
+(Transcript page 447)
+[33] I do not agree with the Respondent’s interpretation of the Lacroix decision. It dealt primarily with subsection 152(4) and to a lesser degree with gross negligence penalties imposed pursuant to subsection 163(2). The issue in the Lacroix decision, as stated at paragraph 1, was:
+…Can the Minister conclude, based on the discrepancy between a taxpayer's assets and the income reported in his or her tax return, on the one hand, and on the lack of a credible explanation for this discrepancy, on the other hand, that there is an error warranting an out-of-time reassessment or the assessment of a penalty?
+(Emphasis added)
+[34] The conclusion of the Court, which is at paragraph 32 of that decision and which is relied upon by the Respondent, references the provision of a credible explanation for any discrepancies between the reported income and the net worth (or the bank deposit analysis as in this appeal). I do not believe Lacroix stands for the proposition, as the Respondent contends it does, that the mere existence of unexplained deposits will permit the imposition of gross negligence penalties pursuant to subsection 163(2). The issue in Lacroix at the Tax Court level turned on the credibility of the taxpayer who was found to have fabricated evidence while deliberately failing to report $516,000.00 in income. Some of the evidence submitted to the Tax Court was in fact considered a sham to hide the truth of what was actually happening.
+[35] The Federal Court of Appeal upheld the decision of this Court and stated in Lacroix at paragraph 26:
+Although the Minister has the benefit of the assumptions of fact underlying the reassessment, he does not enjoy any similar advantage with regard to proving the facts justifying a reassessment beyond the statutory period, or those facts justifying the assessment of a penalty for the taxpayer's misconduct in filing his tax return. The Minister is undeniably required to adduce facts justifying these exceptional measures.
+[36] The Federal Court of Appeal also quoted from the decision of Farm Business Consultants Inc. v. The Queen, 95 D.T.C. 200, where Bowman J. (as he was then) stated at page 205:
+A court must be extremely cautious in sanctioning the imposition of penalties under subsection 163(2). Conduct that warrants reopening a statute-barred year does not automatically justify a penalty and the routine imposition of penalties by the Minister is to be discouraged. Conduct of the type contemplated in paragraph 152(4)(a)(i) may in some circumstances also be used as the basis of a penalty under subsection 163(2), which involves the penalizing of conduct that requires a higher degree of reprehensibility. In such a case a court must, even in applying a civil standard of proof, scrutinize the evidence with great care and look for a higher degree of probability than would be expected where allegations of a less serious nature are sought to be established. Moreover, where a penalty is imposed under subsection 163(2) although a civil standard of proof is required, if a taxpayer's conduct is consistent with two viable and reasonable hypotheses, one justifying the penalty and one not, the benefit of the doubt must be given to the taxpayer and the penalty must be deleted. I think that in this case the required degree of probability has been established by the respondent, and that no hypothesis that is inconsistent with that advanced by the respondent is sustainable on the basis of the evidence adduced.
+[37] I do not believe Lacroix changes the jurisprudence respecting subsection 163(2) penalties. The provision uses the expression “…knowingly, or under circumstances amounting to gross negligence”. This wording requires the presence of either a mens rea of intentional acting or of recklessness. Subsection 163(2) by its very wording necessitates that either of these elements be present in the preparation or acquiescence to the preparation of the taxpayer’s return. To hold otherwise would potentially result in the imposition of gross negligence penalties in every unsuccessful net worth appeal and revert the onus from the Minister to the taxpayer. This is not the intent of this provision.
+[38] I do not believe that the Respondent has demonstrated that the Appellant knowingly provided false information on his income tax returns. In fact, it is reasonable to conclude that had the bank been able to locate its documents which had been outsourced in respect to the year 2000, the Appellant had the potential to produce adequate documentation to demolish all or the majority of the Minister’s assumptions. In this respect, failure to maintain proper records does not, on its own, constitute gross negligence nor would it be attributable to knowingly preparing or acquiescing to false returns. If the facts had been similar to those in Lacroix, I do not believe the Respondent would have made the number of concessions it did. I have also rejected the Respondent’s position that the Appellant was operating two other businesses during this period. The problems in this appeal do not arise from credibility issues but from a lack of supporting documentation, in part due to the Appellant’s inability to access them from his bank, and to his own vague and imprecise recollections. Therefore gross negligence penalties will be deleted. Because success is divided, I make no order as to costs.
+[39] Accordingly, the appeal is allowed without costs.
+Signed at Summerside, Prince Edward Island, this 9th day of September 2009.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2009 TCC 449
+COURT FILE NO.:
+2007-868(IT)G
+STYLE OF CAUSE:
+Martin Szlavy and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATES OF HEARING:
+February 9 and 10, 2009 and
+May 26, 2009
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+September 9, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Selena Sit
+Raj Grewal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

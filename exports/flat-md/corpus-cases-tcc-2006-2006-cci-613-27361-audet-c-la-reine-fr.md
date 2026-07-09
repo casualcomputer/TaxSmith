@@ -1,0 +1,120 @@
+---
+title: "Audet c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27361/index.do"
+last_modified: "2006-10-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 613"
+citation2: ""
+neutral_citation: "2006 CCI 613"
+decision_date: "2006-10-04"
+language: "fr"
+item_id: "27361"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 183
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:42:10.575000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2a5a8de7aece699dd434f21c31392389053d2ad54199adbe33d8786f49e1e029"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Audet c. La Reine
+
+- Citation: 2006 CCI 613
+- Decision date: 2006-10-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 183, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Audet c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-04
+Référence neutre
+2006 CCI 613
+Numéro de dossier
+2006-792(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2006CCI613
+Date : 20061122
+Dossier : 2006-792(IT)I
+ENTRE :
+ANDRÉ AUDET,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Prononcés oralement à l'audience le 4 octobre 2006,
+à Montréal (Québec)).
+Le juge Paris, C.C.I.
+[1] Il s'agit d'un appel, par voie de procédure informelle, d'une cotisation établie par le ministre du Revenu national à l'égard de l'année 2001, dans laquelle la déduction du montant de 69 566 $, démontrée par monsieur Audet à titre de dépense d'entreprise, a été refusée.
+[2] Le montant en question est composé de deux éléments : un montant de 32 500 $ versé à titre de caution d'un emprunt par la Société de gestion et d'investissement dans le tourisme et le loisir, SOGITEL limitée, et un montant versé au titre des dépenses de l'entreprise A.E. Audet incorporée. Ces montants ont été déduits par l'appelant personnellement dans le calcul de son revenu d'entreprise.
+[3] En ce qui concerne le deuxième montant, monsieur Audet a admis en contre-interrogatoire que ces dépenses ont été encourues par A.E. Audet incorporée dans le cadre de l'exploitation de l'entreprise appartenant à cette société. Vu que la société A.E. Audet incorporée est une entité juridique distincte de monsieur Audet, il n'y a aucune règle de droit qui permettrait la déduction de ces dépenses par monsieur Audet personnellement. Même si la société était au bord de la faillite et n'avait pas les moyens de payer ces dépenses, on ne peut ignorer le fait que la société avait une existence distincte ni le fait que l'entreprise dans laquelle les dépenses ont été faites appartenait à la société et non pas à monsieur Audet.
+[4] En ce qui concerne le montant payé à titre de caution, la question en litige est de savoir si monsieur Audet s'était engagé à titre de caution dans le but de gagner un revenu d'entreprise.
+[5] En bref, monsieur Audet affirme avoir conclu, au début de sa participation dans le projet de SOGITEL, au début des années 80, une entente verbale avec PGL International selon laquelle il agissait à titre de conseiller en financement pour le projet en contrepartie d'une rémunération constituée d'honoraires et de commissions. Monsieur Audet affirme également s'être porté caution pour SOGITEL à l'égard de l'emprunt de 165 000 $ que cette société avait contracté en 1990 afin de protéger les honoraires qui lui avaient été consentis dans le cadre du projet et de préserver des honoraires et commissions à venir.
+[6] Le résumé des faits préparé par monsieur Audet se trouve à la pièce A-1 et se lit, en partie comme suit :
+Il y a environ de 20 à 25 ans, une connaissance de longue date, Monsieur Jean Larivé, alors président de P.G.L. International, société d'ingénierie de Montréal, me demandait de le conseiller en matière de financement pour un projet d'infrastructures touristiques de quelques centaine de millions de dollars qu'il croyait obtenir du gouvernement algérien. De nombreux intervenants se sont joint à l'effort de développement, CCC, ministère des affaires extérieures, EDC et SDI, prédécesseur d'Investissement Québec pour laquelle j'ai agi comme administrateur délégué au projet. Lors des quelques dix ans qui suivirent, le projet a connu des délais et complications de toute sorte et il fut chapeauté par diverses entités mais toujours sous la gérance de Monsieur Larivé. Le dernier véhicule corporatif fut incorporé vers 1985-1988 sous le nom de Société de tourisme et de loisirs (SOGITEL). À ma connaissance, je n'ai jamais détenu quelques actions de cette société. Sans aucune entrée de fonds, les promoteurs durent contracter des emprunts pour rencontrer les dépenses d'opération auprès de la Banque Royale du Canada contre, en partie, des garanties personnelles des promoteurs individuels. Ils m'informaient que je devais participer à de tels endossements sans quoi mes honoraires accumulés et commissions potentielles seraient ignorés. J'ai obtenu confirmation de circonstances de Monsieur Larivé le 26 mai 2004 à la demande du ministère. Ce que j'acceptai de faire en 1990. Environ un an plus tard, face à la montée de l'intégrisme islamique et à bout de souffle, le projet fut abandonné. La banque rappela son prêt et j'ai refusé de payer ma part après m'être rendu compte que les promoteurs avaient continué des activités commerciales à l'étranger dont l'Algérie tout en m'excluant et ceci sous la même société, Sogitel qui avait changé de nom pour Sofram à mon insu. J'invoquai donc le principe que l'on ne pouvait me demander de participer dans les pertes sans avoir l'opportunité de participer dans les profits.
+Les procédures légales se sont éternisées pendant cinq ans et quelques jours avant l'audition du procès, les parties acceptèrent un règlement qui me coûta 32 500 $ payés en juillet 2001. [...]
+[7] À la lumière de l'ensemble de la preuve, je ne peux accepter le témoignage de monsieur Audet quant aux motifs qui l'ont amené à se porter caution pour SOGITEL à l'égard de l'emprunt. À mon avis, la preuve ne révèle pas l'existence d'un contrat entre monsieur Audet et PGL au tout début du projet visant le paiement d'honoraires à monsieur Audet. Monsieur Jean Larivé, témoin de l'appelant et ancien président de la société PGL international, n'a pas été en mesure de confirmer l'existence d'un tel contrat.
+[8] En outre, le comportement de monsieur Audet n'était pas conforme à celui d'une partie à un contrat de cette nature. Monsieur Audet n'aurait jamais comptabilisé les honoraires supposément consentis. Il n'aurait jamais facturé les honoraires à PGL ou à SOGITEL. Il n'y aurait jamais eu d'entente sur la méthode selon laquelle ce travail devait être rémunéré. De plus, monsieur Audet n'aurait jamais exigé une reconnaissance du montant des honoraires supposément dus au moment de la signature de la lettre de cautionnement.
+[9] Même si, au tout début du projet, il y avait eu une entente telle que l'a décrite monsieur Audet, il est clair que cette entente aurait été modifiée avant la date à laquelle monsieur Audet s'est porté caution. Ceci découle du témoignage de monsieur Larivé, qui dit qu'il existait entre les quatre cautions - messieurs Larivé et Audet, monsieur Maurice Mayer et monsieur Claude Fréchette - au moment où les cautionnements ont été fournis, une entente selon laquelle les quatre se partageraient à parts égales les profits du projet en contrepartie de leurs services. Monsieur Larivé a aussi dit que lui et monsieur Audet devaient recevoir des actions de SOGITEL, mais qu'ils ne les avaient jamais reçues et qu'ils s'étaient fait « tasser » peu après s'être portés caution.
+[10] Le témoignage de monsieur Larivé sur la nature de l'entente qui existait entre lui, monsieur Audet, monsieur Mayer et monsieur Fréchette, au moment de la signature des cautionnements, a été corroboré par les déclarations de monsieur Audet figurant dans la pièce I-4 intitulée Déclaration en garantie du défendeur/demandeur en garantie André E. Audet en date du 15 mai 1996.
+[11] Aux paragraphes 5 b) et c) il indique :
+b. vers la fin du projet, certains associés ont emprunté de l'argent de la Banque Royale du Canada, soit un montant d'environ 75 000 $, et quatre individus avaient accepté de garantir ce prêt; soient messieurs Maurice Mayer, Claude Frenette, Jean Larivée et André E. Audet, le tout avec l'entente tacite que les profits des opérations à l'étranger du groupe seraient répartis proportionnellement entre eux, basés sur leurs garanties;
+c. subséquemment, le 20 août 1990, ledit prêt a été augmenté à 165 000.00 $ toujours avec la signature par les quatre mêmes individus d'une garantie personnelle ...;
+[12] Je note que les faits allégués dans le document ont été déclarés sous serment par monsieur Audet. Je note aussi que rien dans ce document n'indique que monsieur Audet avait accepté de se porter caution dans le but de protéger les honoraires consentis.
+[13] Par contre, j'écarte la thèse de l'intimée selon laquelle monsieur Audet se serait porté caution par amitié pour les trois autres participants. Il me semble peu probable que monsieur Audet, un homme d'affaires d'expérience, s'engage comme caution pour un montant de 165 000 $ par amitié pour des connaissances d'affaires.
+[14] Pourtant, étant donné ma conclusion que monsieur Audet s'est porté caution, non pas pour protéger et gagner des honoraires et des commissions dans l'exercice de sa profession, mais plutôt dans le but d'obtenir une partie des profits du projet de SOGITEL, il reste à déterminer s'il a droit en l'espèce à une déduction relative à une entreprise hors de l'exercice de sa profession.
+[15] La preuve démontre que l'argent du prêt servait de fonds de roulement à SOGITEL et lui permettait de payer les frais de bureau et les salaires de certains associés comme monsieur Larrivé. Si un contribuable consent un cautionnement dans le but de permettre à une entreprise d'obtenir des fonds de roulement, toute perte encourue à la suite de l'exécution de son engagement de caution est une perte en capital et non pas une perte d'entreprise.
+[16] Je cite les motifs de la Cour dans la décision Laframboise c. le ministre du Revenu national, 1992 DTC, 2155, où le juge Dussault a dit aux paragraphes 13 et 14 :
+C'est l'arrêt de la Cour suprême du Canada dans l'affaire M.N.R. v. Steer, 66 DTC 5481 [1974] R.C.S. 476 qui a d'abord sanctionné le principe à l'effet qu'une perte subie par un contribuable suite à une garantie donnée pour un prêt destiné à assurer un fonds de roulement à une corporation constitue une perte en capital.
+Lorsque l'entreprise d'un contribuable n'est pas d'accorder des prêts ou de fournir des garanties plusieurs décisions ont, d'une façon ou d'une autre, entériné ce principe à l'effet que des pertes subies suite à des prêts accordés ou des garanties données dans le but de fournir un fonds de roulement constituaient des pertes en capital et non des pertes d'entreprise. [...]
+[17] En l'espèce, monsieur Audet s'est porté caution dans le but de fournir des fonds de roulement au projet. Pour cette raison, le paiement lié au cautionnement est de nature capitale et n'est pas déductible comme dépense d'entreprise.
+[18] En conclusion, l'appel doit être rejeté à l'égard des deux montants, soit le montant lié au cautionnement et le montant lié aux dépenses de l'entreprise A.E. Audet incorporée.
+Signé à Ottawa, Canada, ce 22e jour de novembre 2006.
+« B. Paris »
+Juge Paris
+RÉFÉRENCE : 2006CCI613
+N º DU DOSSIER DE LA COUR : 2006-792(IT)I
+INTITULÉ DE LA CAUSE : ANDRÉ AUDET ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Montréal, Québec
+DATE DE L'AUDIENCE : le 4 octobre 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge B. Paris
+DATE DU JUGEMENT : le 22 novembre 2006
+COMPARUTIONS :
+Représentant de l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Dany Leduc
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

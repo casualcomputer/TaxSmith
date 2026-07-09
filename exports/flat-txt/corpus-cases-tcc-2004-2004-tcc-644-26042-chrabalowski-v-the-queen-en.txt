@@ -1,0 +1,203 @@
+Title: Chrabalowski v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26042/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-644-26042-chrabalowski-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-09-23
+
+# Chrabalowski v. The Queen
+
+- Citation: 2004 TCC 644
+- Decision date: 2004-09-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4102, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chrabalowski v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-23
+Neutral citation
+2004 TCC 644
+File numbers
+2004-1206(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1206(IT)I
+BETWEEN:
+RADEK CHRABALOWSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on September 13, 2004, at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Associate Chief Justice
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kandia Aird
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeals from the assessments made under the Income Tax Act for the 1999, 2000 and 2001 taxation years are dismissed.
+Signed at Ottawa, Canada, this 23rd day of September 2004.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+Citation: 2004TCC644
+Date: 20040923
+Docket: 2004-1206(IT)I
+BETWEEN:
+RADEK CHRABALOWSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] These appeals are from assessments for the appellant's 1999, 2000 and 2001 taxation years.
+[2] The notice of appeal is not edifying. It reads as follows:
+Reason for the Appeal
+NUMEROUS malicious actions of the Toronto West Tax Services Office in Mississauga over the last several years towards myself and my wife culminated in re-assessments of my 1999, 2000 and 2001 individuals Income Tax returns. Despite providing their auditors with ALL original receipts, cancelled cheques and invoices they disallowed - outright - ALL of my employment expenses undeducted from my commission earnings, based on unconfirmed statements from my previous employer (which I left on NON-AMICABLE terms!).
+[3] This case involves essentially a claim by the appellant to deduct employment expenses which it is alleged were incurred by him in the course of his employment as an investment advisor. In 1999, 2000 up to April 30, 2001, he worked as an investment advisor for the investment dealer Edward D. Jones & Company ("Jones") for the remainder of 2000 for BMO Nesbitt Burns.
+[4] The assessment for 1999 was initially made on April 6, 2001, on the basis of T4 slips issued to the appellant by Jones. Subsequently the appellant filed a return for 1999 and was reassessed on July 17, 2003. He was allowed a deduction of $2,753.00 for 1999.
+[5] In his return of income for 1999 he claimed employment expenses of $39,660.72. Exhibit R-2 is a statement of employment expenses (T777E). It shows total expenses of $33,390.30 plus $4,084.63 for automobile expenses. The copy which he gave to Ms. Lo, the appeals assessor, contains a number of handwritten notes which were probably not on the original. At all events, it is impossible to reconcile these figures.
+[6] The reply to the notice of appeal sets out the amounts claimed for 2000 and 2001. The amounts claimed for 1999 are blank because they were not available until after the appellant filed his return. The figures in the reply are:
+1999
+2000
+2001
+Employment income
+$31,339.00*
+$74,818.00*
+$53,767.00*
+Employment expenses
+Advertising &
+promotion
+$20,699.72
+$18,670.05
+Food, beverages &
+entertainment
+1,992.30
+2,393.80
+Lodging
+5,867.88
+529.40
+Motor vehicle
+5,428.07
+6,452.70
+Parking
+199.25
+306.25
+Supplies
+6,746.18
+3,522.93
+Other
+7,947.15
+8,723.00
+Legal
+1,200.00
+1,200.00
+Accounting & legal
+1,317.80
+____45.64
+Total claimed expenses
+$_____-_______
+$51,398.35______
+$41,843.77____
+* Includes commission income of $Nil $58,445.00 $53,523.00
+[7] The amounts disallowed were:
+2000
+2001
+Advertising & promotion
+$20,699.72
+$17,170.05
+Food, beverages &
+entertainment
+1,992.30
+1,893.80
+Lodging
+5,867.88
+529.40
+Motor vehicle
+2,844.96
+2,837.77
+Parking
+199.25
+206.25
+Supplies
+6,746.18
+3,322.93
+Other
+7,947.15
+8,623.00
+Legal
+1,200.00
+1,200.00
+Accounting & legal
+1,317.80
+45.64
+Total disallowed expenses
+$48,815.24
+$35,828.84
+[8] It boils down to this. I am sure that there are probably buried in the expenses claimed amounts that should be allowed, but I cannot determine what they are because they are mixed in with so many unproved or implausible claims.
+[9] The appellant came into court with a large box of receipts. They were grouped in bundles with adding machine tapes attached. Contrary to the allegations that the revenue authorities ignored his evidence or treated him unfairly, I find that Ms. Lo, the appeals assessor who dealt with his objection, made a serious and conscientious attempt to reconcile his claims with the receipts and she gave him ample opportunity to organize the receipts in an orderly and comprehensible way. She cited a number of instances in which she attempted to reconcile the amounts claimed under specific headings with the receipts, but was unable to do so.
+[10] As this court has said on a number of occasions there is no requirement that vouchers or receipts be provided for all expenditures claimed as deductions provided that the expenditures are proved by other credible evidence. I do not however think the appellant has passed even the very modest threshold of proving his case that I consider appropriate. It is worthwhile repeating what was said in Merchant v. The Queen, 98 DTC 1734:
+[7] Where a large number of documents, such as invoices, have to be proved it is a waste of the court's time to put them in evidence seriatim. The approach set out in Wigmore on Evidence (3rd Ed.) Vol IV, at s. 1230 commends itself:
+s.1230(11): . . . Where a fact could be ascertained only by the inspection of a large number of documents made up of very numerous detailed statements - as, the net balance resulting from a year's vouchers of a treasurer or a year's accounts in a bank-ledger - it is obvious that it would often be practically out of the question to apply the present principle by requiring the production of the entire mass of documents and entries to be perused by the jury or read aloud to them. The convenience of trials demands that other evidence be allowed to be offered, in the shape of the testimony of a competent witness who has perused the entire mass and will state summarily the net result. Such a practice is well-established to be proper.
+[8] This passage was cited with approval by Wakeling, J.A. in Sunnyside Nursing Home v. Builders Contract Management Ltd. et al., (1990) 75 S.R. 1 at p. 24 (Sask. C.A.) and by MacPherson, J. in R. v. Fichter, Kaufmann et al., 37 S.R. 128 (Sask. Q.B.) at p. 129. I am in respectful agreement.
+Some form of the method approved by Wigmore would have been appropriate here.
+[11] I shall take a few examples to illustrate why I have serious doubts about accepting any of the deductions claimed.
+(a) In 1999 the appellant claimed $23,633.46, for advertising and promotion. This is precisely the amount shown on Exhibit A-2 as the amounts paid on the appellant's behalf by Jones and deducted from the income shown on the T4. A similar policy prevailed in 2000 with Jones and BMO Nesbitt Burns in 2001 although I cannot match up the figures as precisely. I am not satisfied that the amounts that the appellant claimed for advertising and promotion were not paid on his behalf by Jones and BMO Nesbitt Burns and deducted from his employment income to arrive at the net amount shown on the T4.
+(b) Included in the appellant's income for 2000 is the amount of $5,571.92 as an employee benefit for a trip to Hawaii for the appellant and his wife paid for by Jones. In his T777E form he has deducted $5,738.00 as an expense under "lodging". As I understand the appellant's evidence this includes the $5,571.92 taxed as a business expense plus some other amounts. The appellant's explanation of the deduction is that the trip was business related. Even if this were established, which it is not, a taxable benefit paid for by an employer does not become a business expense for the employee.
+(c) In 2000 and 2001, he paid his daughter (age 8 in 2000 and 9 in 2001), $7,000 and $7,400 as casual labour. He said she stuffed envelopes. Nothing in his contract of employment requires him to hire an assistant and in any event paying an 8 year old child that sort of money strikes me, to put it mildly, as overreaching.
+The appellant testified that the Canada Customs and Revenue Agency had assessed his daughter on this amount. Perhaps it should not have, although it would not be surprising that the CCRA would have done so if one filed a return. At all events this does not make the amounts deductible by the appellant.
+(d) The appellant's automobile expenses are another problem. In the years in question he apparently owned two automobiles, a Cavalier and a Ventura. It is not entirely clear from the T777E forms, but the unrebutted assumption is that his claim for automobile expenses, including capital cost allowance, was based on 80 percent business use for the Cavalier and 20 percent for the Ventura. The assessor allowed him 50 percent for the Cavalier and zero for the Ventura.
+The appeals assessor did not change the conclusion and I can see no reason to do so either.
+I say this for several reasons:
+(i) The majority of the appellant's contacts with clients are by telephone.
+(ii) There is no evidence to support the view that the Cavalier was used more than 50 percent for business use or that the Ventura was used at all.
+(iii) The appellant kept no log book and his figures for mileage driven were simply round figure estimates.
+(e) There is a claim for legal expenses but no details were given with respect to the nature of the legal services rendered. The appellant stated that he needed legal advice if a dissatisfied client sued him for advising a bad investment. There is no evidence that anyone ever did sue him and no bill from a lawyer detailing the legal services was put in evidence.
+(f) The other expenses were, according to Ms. Lo, for such things as groceries, liquor, cell phone, bus rides, campground admittance and an unidentified gift certificate and the like. The appellant said these were all incurred for business purposes and I daresay there may have been a business element to some of them but there appears on the face of the expenses so much that is evidently personal that I cannot tell what portion may be business related.
+[12] One problem faced by an appellant in a case of this sort is that if there is a series of excessive, implausible or unreasonable claims it casts doubt on all of the claims. In other words, once a pattern of implausibility or excessiveness is established the court is inclined to scrutinize with greater care claims that, standing alone, might be sustainable. In other words, any gaps left in the evidence are filled in, and any doubts resolved, in a manner that is consistent with the pattern. I discussed this point in greater detail in Orly Automobiles Inc. v. The Queen, [2004] G.S.T.C. 57.
+135 The fact that some aspects of a witness' testimony are not satisfactory does not mean that the testimony is to be rejected in its entirety. In a case such as this, where the evidence is both complex and contradictory, the trier of fact must endeavour to reach conclusions on the evidence as a whole. This will involve, obviously, observation of the demeanour of the witnesses and the plausibility or implausibility of the testimony in light of other evidence. The witness, madame Turcotte, spoke on a number of occasions of a "pattern". To base findings of fact on a system or a pattern of behaviour - a general modus operandi if you will - is something that must be done with some care. First, there must be convincing evidence that a pattern exists. Second, the Court must be cautious about excessive use of the pattern simply as a means of filling in lacunae in the evidence, although it may have a limited function in this respect. Importantly the identification and articulation of a pattern can be used as a touchstone against which to test findings of fact. If they are consistent with a pattern they are more likely to be veridical; conversely, one should be skeptical of findings of fact that are inconsistent with an overall pattern. I am, of course, not talking about similar fact evidence in criminal law about which there is a great deal of jurisprudence. The use of a pattern for the somewhat limited purposes that I have indicated above as an aid, in civil cases, to making or testing findings of fact is, I think, appropriate provided one does not carry it too far. In civil cases courts have used evidence of a system or scheme as probative of a variety of matters, as discussed in Sopinka, Lederman & Bryant, Evidence, Second Edition, pages 592-604.
+[13] I do not think it is a particularly onerous task for a person claiming employment expenses to keep a record and separate receipts as well as a log book of automobile expenses. That was not done and the evidence, even on the most relaxed and liberal view, does not permit me to find in the appellant's favour.
+[14] The appeals are dismissed.
+Signed at Ottawa, Canada, this 23rd day of September 2004.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+CITATION:
+2004TCC644
+COURT FILE NO.:
+2004-1206(IT)I
+STYLE OF CAUSE:
+Radek Chrabalowski and
+Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 13, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Associate Chief Justice
+DATE OF JUDGMENT AND REASONS FOR JUDGMENT:
+September 23, 2004
+APPEARANCES:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Kandia Aird
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

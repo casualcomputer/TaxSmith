@@ -1,0 +1,155 @@
+Title: Alceus v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/72954/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-231-72954-alceus-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-07-25
+
+# Alceus v. The Queen
+
+- Citation: 2014 TCC 231
+- Decision date: 2014-07-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5187, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alceus v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-07-25
+Neutral citation
+2014 TCC 231
+File numbers
+2014-711(GST)APP
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2014-711(GST)APP
+[ENGLISH TRANSLATION]
+BETWEEN:
+LIONEL ALCEUS,
+Applicant
+and
+HER MAJESTY THE QUEEN
+Respondent
+Application heard on July 2, 2014, at Montréal, Quebec.
+Before: The Honorable Justice Johanne D’Auray
+Appearances:
+For the Applicant
+The Applicant himself
+Counsel for the Respondent:
+Catherine Boisvert
+ORDER
+Whereas the application for an order to extend the time in which an objection to an assessment under the Excise Tax Act, whose notice is dated August 1, 2012, for the periods of January 4, 2005 to December 31, 2005, January 1, 2006 to December 31, 2006, January 1, 2007 to December 31, 2007, and January 1, 2008 to December 31, 2008, may be served;
+And upon the submissions of the parties;
+The application for extension of time is dismissed without costs.
+Signed at Ottawa, Canada, this 25th day of July 2014.
+“Johanne D’Auray”
+D’Auray J.
+Citation: 2014 TCC 231
+Date: 20140725
+Docket: 2014-711(GST)APP
+BETWEEN:
+LIONEL ALCEUS,
+Applicant
+and
+HER MAJESTY THE QUEEN
+Respondent.
+REASONS FOR ORDER
+D’Auray J.
+[1] The applicant, Mr. Alceus, asks this Court for an extension of time to file a notice of objection to an assessment dated August 1, 2012, for the periods from January 4, 2005 to December 31, 2008 (“periods in issue”).
+[2] In this regard, a notice of assessment dated August 1, 2012, was sent to the applicant’s address, 6869 Papineau Avenue, Apt. 115, Montréal.
+[3] The assessment of August 1, 2012, issued after an agreement between the applicant and the Agence du revenu du Québec (“ARQ”). For the purposes of the agreement, the applicant and the ARQ representative, Mr. Dubois, signed an agreement entitled Transaction and Waiver of Rights to Object and Appeal (“agreement”) on July 25, 2012. Pursuant to this agreement, the parties agree and declare that:
+[translation]
+[…]
+1. Elements to be Amended and Issuing of a Notice of Assessment
+Following an audit conducted by the Minister for the periods of January 1, 2005 to December 31, 2008, and the resulting draft assessment, the parties consent that the fees, refunds, interests and penalties for which the agent is liable or to which he is entitled by virtue of a tax law or any other law whose application is vested in the Minister be determined or redetermined in view of the amendments made to the following elements:
+To the proposal made in November 2011, which reads as follows: We grant an input tax credit (ITC) and an input tax refund (ITR) for expenses equivalent to 60% of the income declared to the tax department for each year. The amounts are $1,320.24 for 2008, $1,545.49 for 2007, $1,088.37 for 2006 and $1,151.16 for 2005.
+Our proposal was partly based on documents received from the agent and statements made by the agent. Because the agent rents his taxi, we granted a certain amount for the rental. We also granted gas expenses based on the preceding year’s invoices.
+As a result, a notice of assessment will be issued to the agent.
+2. Waiver of Right of Objection or Appeal
+This transaction constitutes a transaction within the meaning of articles 2631 and 2637 of the Civil Code of Québec. Accordingly, the agent waives his right to notify the Minister of a notice of objection made in accordance with sections 93.1.1 et seq. under the Tax Administration Act to the assessment resulting from the elements that are part of the current transaction and concerning the periods mentioned above. He also waives his right to appeal to the court of competent jurisdiction to have this assessment vacated or varied.
+3. Ministerial Authority
+Except for the elements targeted by this transaction, the Minister retains his authority to redetermine, within the limits set by the law, the fees, refunds, interests and penalties for the relevant periods.
+The parties acknowledge having reviewed the contents of the current transaction and declare that they are satisfied with them.
+Signed at Montréal, Quebec, this 25th day of July 2012.
+(s) Lionel Alceus________________________________
+Signature of the agent or his authorized representative
+Signed at Montréal, Quebec, this 25th day of July 2012.
+(s) Alain Dubois________________________________
+Signature of the authorized employee
+[4] On March 12, 2013, some seven months after the assessment of August 1, 2012, the applicant filed an objection to the Minister of National Revenue (the “Minister”) despite having waived his right to object to the assessment and appeal to this Court from the assessment of August 1, 2012. The notice of objection filed by the applicant also serves as an application for an extension of time to file a notice of objection.
+[5] On January 29, 2014, the Minister notified the applicant that she is refusing to grant the application for an extension of time to file an objection to the assessment of August 1, 2012.
+[6] On February 17, 2014, the applicant submitted to this Court an application for an extension of time to file an objection to the assessment of August 1, 2012.
+[7] The respondent argues that this Court must dismiss the applicant’s application for an extension of time to file an objection because he waived his right to object to and appeal from the assessment of August 1, 2012.
+[8] The respondent also argues that the applicant’s application does meet the conditions of subsection 304(5) of the Excise Tax Act, Part IX (the “Act”).
+[9] The respondent further argues that the Court already issued an order dated March 8, 2013, to the applicant that rejects his application for an extension of time to file an objection against the initial assessment dated February 1, 2010. The assessment of February 1, 2010, essentially covered the same periods than those in dispute except for the assessment of January 1, 2012, which also includes the period from January 1, 2005 to December 31, 2005.
+[10] Ms. Sheehy, an ARQ analyst, explained why the ARQ issued an assessment dated August 1, 2012. The applicant was claiming input tax credits for the periods between 2005 and 2008, but he had no supporting documents proving the GST he had payed as a result of his commercial activities. The initial assessment of February 1, 2010, did not grant any input tax credits to the applicant. Following numerous meetings and telephone conversations with applicant, Ms. Sheehy made an offer regarding the periods of the initial assessment, specifically the periods covering 2006 to 2008 and the period covering 2005.
+[11] Pursuant to this offer, expenses equivalent to 60% of the applicant’s reported income for tax purposes would be accepted. The input tax credits were determined by applying the GST taxation rate in effect.
+[12] During her testimony, Ms. Sheehy explained that she granted input tax credits to the applicant despite the absence of supporting documents. In her view, it was obvious that, as a taxi driver, the applicant incurred expenses as part of his commercial activities. However, for settlement purposes, the applicant had to waive his right to object to and/or appeal from the assessment of August 1, 2012.
+[13] Ms. Sheehy testified that, without the applicant waiving his right to object, there never would have been an agreement, and the assessment of August 1, 2012, would not have been issued. Ms. Sheehy could not have known at the time of the agreement’s signing, on July 25, 2012, that the applicant would submit to this Court, on August 23, 2012, an application for an extension of time to file an objection against the initial assessment dated February 1, 2010.
+[14] Four days after the order issued by this Court on March 8, 2013, dismissing the applicant’s application for an extension of time to file an objection to the initial assessment of February 1, 2010, the applicant submitted to the Minister, on March 12, 2013, an application for an extension of time regarding the assessment of August 1, 2012. Following the Minister’s refusal to extend the time limitation, the applicant submitted to this Court an application for an extension of time to file an objection.
+[15] In support of his application for an extension of time to file a notice of objection to the assessment of August 1, 2012, the applicant argues that he never received the notice of assessment dated August 1, 2012, and, therefore, the time limitation to object to this assessment had not started to elapse. The applicant also argues that the agreement of July 25, 2012, is not generous enough and that he cannot pay his tax liability. Although the applicant admits to waiving his right to object and appeal, he claims that he signed the agreement so the ARQ would stop all seizures of his bank account.
+[16] The evidence shows that the applicant knowingly signed the settlement agreement and waived his right to object to and appeal from the assessment of August 1, 2012. It is important to note that the assessment of August 1, 2012, is in the applicant’s favour because he was granted input tax credits, whereas the initial assessment of February 1, 2012, did not grant him any input tax credits.
+[17] Thus, in the absence of an agreement between the ARQ and the applicant, the ARQ would never had settled and reassessed on August 1, 2012. The applicant would not have been able to claim input tax credits.
+[18] It is my opinion that the applicant cannot object to an assessment resulting from a settlement agreement in which he waived his right to object and appeal. On this issue, the wording of the Act is clear. Subsections 301(1.6) and 306.1(2) address the consequences of a waiver. A person cannot file an objection or an appeal if this person waived in writing the right to object or appeal. Subsections 301(1.6) and 306.1(2) of the Act read:
+301(1.6) Limitation – Notwithstanding subsection (1.1), no objection may be made by a person in respect of an issue for which the right of objection has been waived in writing by the person
+306.1(2) Limitation – Notwithstanding sections 302 and 306, a person may not appeal to the Tax Court to have an assessment vacated or varied in respect of an issue for which the right of objection or appeal has been waived in writing by the person.
+[19] Consequently, the application for an extension of time to file an objection to the assessment of August 1, 2012, is dismissed.
+[20] This decision sets aside the order. Nonetheless, I will still analyse the applicant’s arguments. The applicant argues that he never received the notice of assessment dated August 1, 2012.
+[21] Pursuant to subsection 334(1) of the Act, the applicant is deemed to have received the ARQ correspondence on the date it was mailed, in this case August 1, 2012. Specifically, section 334(1) states that:
+[...] anything sent by first class mail or its equivalent shall be deemed to have been received by the person to whom it was sent on the day it was mailed.
+[22] In Canada v. Schafer, [2000] FCJ No. 1480, 2000 DTC 6542, Sharlow J.A., for the Federal Court of Appeal, interprets subsection 334(1) of the Act. She wrote in paragraph 6 of her reasons:
+[6] The statutory provisions for assessments, objections and appeals are intended to provide clear rules for determining when the Minister’s obligation to make an assessment is fulfilled, and to provide procedures by which taxpayers may challenge assessments that may be mistaken. Parliament has chosen to adopt a rule that makes no allowance for the possibility, however remote, that the taxpayer may miss the deadline for objecting or appealing because of a failure of the postal system. I do not understand why Parliament has chosen to deprive taxpayers of the chance to challenge an assessment of which they are unaware, but that is a choice that Parliament is entitled to make.
+[23] Moreover, Ms. Privé, an ARQ analyst, testified in this case. Ms. Privé oversees the mailing of ARQ correspondence. She explained the ARQ’s correspondence mailing system. She used the mailing system’s computer reports to prove that the applicant’s assessment dated August 1, 2012, was indeed mailed to his address on August 1, 2012.
+[24] The applicant admitted that the mailing address used by the ARQ, specifically 6869 Papineau Avenue, Apt. 115 was correct.
+[25] Consequently, the applicant’s first argument does not stand. The applicant is deemed, pursuant to subsection 334(1) of the Act, to have received the notice of assessment dated August 1, 2012.
+[26] Furthermore, I am of the opinion that the applicant’s application does not meet the conditions of subsection 304(5) of the Act. Subsection 304(5) states:
+304(5) When application to be granted – No application shall be granted under this section unless
+(a) the application was made under subsection 303(1) within one year after the expiration of the time otherwise limited by this Part for objecting or making an application under subsection 274(6), as the case may be;
+and (b) the person demonstrates that
+(i) within the time otherwise limited by this Act for objecting, (A) the person was unable to act or to give a mandate to act in the person’s name, or (B) the person had a bona fide intention to object to the assessment or make the application,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made as soon as circumstances permitted, and
+(iv) the objection is reasonably founded.
+[27] The applicant did not prove that he was unable to act or to give a mandate to act in his name within the time limit of 90 days after the assessment. Moreover, he did not establish that he truly intended to object to the assessment. On the contrary, the applicant filed a notice of objection after this Court’s decision on March 8, 2013, to reject his application for an extension of time to file an objection to the assessment of February 1, 2010.
+[28] Moreover, in light of the regulation introduced on July 25, 2012, and the applicant’s waiving of his right to object, it would not be just and equitable to grant the application for an extension of time.
+[29] The objection is not reasonably founded. Pursuant to subsection 169(4) of the Act, a registrant can only claim input tax credits if supporting documents can be presented to prove the expenses incurred as part of his commercial activities. The applicant admitted that he had no supporting documents to prove his expenses incurred during the disputed periods and, consequently, the GST he had paid on these expenses.
+[30] The applicant does not seem to understand that the assessment of August 1, 2012, is in his favour. The greater part of his argument is that he is unable to pay and that his fiscal liability should be reduced. I do not have the authority, or, in other words, the power to reduce the applicant’s fiscal liability in consideration of his ability to pay.
+[31] For all these reasons, the application for an extension of time to file a notice of objection for the periods of January 1, 2005 to December 31, 2008, is dismissed without costs.
+Signed at Ottawa, Canada, this 25th day of July 2014.
+“Johanne D’Auray”
+D’Auray J.
+CITATION:
+2014 TCC 231
+COURT FILE NO.:
+2014-711(GST)APP
+STYLE OF CAUSE:
+LIONEL ALCEUS v. THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+July 2, 2014
+REASONS FOR ORDER BY:
+The Honorable Justice Johanne D’Auray
+DATE OF ORDER:
+July 25, 2014
+APPEARANCES:
+For the Applicant
+The Applicant himself
+Counsel for the Respondent:
+Catherine Boisvert
+COUNSEL OF RECORD:
+FOR THE APPLICANT
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

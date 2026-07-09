@@ -1,0 +1,159 @@
+Title: Sulcs v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28048/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-637-28048-sulcs-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-04-13
+
+# Sulcs v. The Queen
+
+- Citation: 2007 TCC 637
+- Decision date: 2007-04-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1568, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sulcs v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-13
+Neutral citation
+2007 TCC 637
+File numbers
+2006-112(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-112(IT)I
+BETWEEN:
+MARY LOUISE SULCS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 13, 2007, at Toronto, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+Agent for the Appellant:
+Peter Sulcs
+Counsel for the Respondent:
+Nimanthika Kaneira
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 19th day of October 2007.
+“B.Paris”
+Paris J.
+Citation: 2007TCC637
+Date: 20071019
+Docket: 2006-112(IT)I
+BETWEEN:
+MARY LOUISE SULCS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] The Appellant is appealing from a reassessment of her 2003 taxation year by which the Minister of National Revenue disallowed her claim for tuition tax credits transferred to her by her sons. The Minister held that the Appellant's sons were not entitled to any tuition tax credits and therefore that none were available to be transferred to the Appellant.
+[2] Subsection 118.5(1) of the Income Tax Act,[1] sets out the requirements for obtaining a tuition tax credit, and section 118.9 of the Act allows a person who is entitled to a tuition tax credit to transfer that credit to his or her parent or grandparent.
+[3] The relevant portions of subsection 118.5(1) and section 118.9 read as follows for the 2003 taxation year:
+118.5(1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted,
+(a) where the individual was during the year a student enrolled at an educational institution in Canada that is
+(i) a university, college or other educational institution providing courses at a post-secondary school level, or
+(ii) certified by the Minister of Human Resources Development to be an educational institution providing courses, other than courses designed for university credit, that furnish a person with skills for, or improve a person’s skills in, an occupation,
+an amount equal to the product obtained when the appropriate percentage for the year is multiplied by the amount of any fees for the individual’s tuition paid in respect of the year to the educational institution if the total of those fees exceeds $100, except to the extent that those fees
+(ii.1) are paid to an educational institution described in subparagraph (i) in respect of courses that are not at the post-secondary school level,
+(ii.2) are paid to an educational institution described in subparagraph (ii) if
+(A) the individual had not attained the age of 16 years before the end of the year, or
+(B)the purpose of the individual’s enrolment at the institution cannot reasonably be regarded as being to provide the individual with skills, or to improve the individual’s skills, in an occupation,
+118.9 Where for a taxation year a parent or grandparent of an individual (other than an individual in respect of whom the individual’s spouse or common-law partner deducts an amount under section 118 or 118.8 for the year) is the only person designated in writing by the individual for the year for the purpose of this section, there may be deducted in computing the tax payable under this Part for the year by the parent or grandparent, as the case may be, the tuition and education tax credits transferred for the year by the individual to the parent or grandparent, as the case may be.
+[4] The issue in this appeal is whether the tuition fees paid by the Appellant’s sons in 2003 for flying lessons met the requirements set out in subparagraph 118.5(1)(a)(ii.2) for obtaining the tax credits.
+[5] The Respondent says that those conditions were not met because the Appellant's sons had not reached the age of 16 by the end of 2003, and their enrollment in flying lessons was not for the purpose of providing them with skills, or improving their skills, in an occupation.
+[6] The Appellant takes the position that her sons' flying lessons provided them with skills in an occupation, as required by clause 118.5(1)(a)(ii.2)(B), and that the age requirement in clause 118.5(1)(a)(ii.2)(A) is discriminatory and is a breach of subsection 15(1) of the Canadian Charter of Rights and Freedoms[2], and should be held to be of no force and effect.
+First issue: Did the lessons provide skills in an occupation?
+[7] The Appellant's son, Max, testified that he began taking flying lessons in 2003 and that he received his student pilot permit in 2004 at age 14 which is the minimum age for obtaining it. This permit allowed him to fly solo. Max is now 17 years old and holds a recreational pilot permit and has logged 120 hours of flight time. He has been accepted into the flight program at Seneca College to train as a commercial pilot.
+[8] The Appellant's son, Erik, began flying lessons in 2003 and holds a student pilot permit. He has been accepted into the same flight program at Seneca College as Max.
+[9] The skills acquired by the Appellant's sons from the lessons allowed them to obtain their student pilot permit, which in turn has allowed them to fly solo and build up flight time towards the requirements of a commercial pilot license.
+[10] In my view, the evidence shows that Max and Erik took flying lessons in 2003 in order to acquire skills in an occupation. According to the Canadian Aviation Regulations enacted pursuant to the Aeronautics Act,[3] an applicant for a commercial pilot license must have completed a minimum of 200 hours of flight time (including solo flight time) in order to apply for the license. Therefore, the flying lessons taken by the Appellant's sons were a necessary first step towards qualifying as professional pilots and the skills learned in those lessons would form the basis of the skills used in that occupation.
+Charter issue
+[11] Counsel for the Respondent asked for the hearing of the Charter issue to be split into two parts. Counsel proposed that the Court first make a determination of whether clause 118.5(1)(a)(ii.2)(B) of the Act is discriminatory within the meaning of subsection 15(1) of the Charter, and that if it is found to be discriminatory, the hearing be reconvened to allow the parties to present evidence related to the question of whether such discrimination is justifiable under section 1 of the Charter. The Appellant's representative did not object to this procedure and the Respondent's request was granted.
+[12] With respect to the Charter issue, it is not disputed the Appellant's sons were both under 16 years of age at the end of 2003, thereby disqualifying the tuition fees in issue for the tuition tax credit provided for in the Act. However, the Appellant says that the age requirement in clause 118.5(1)(a)(ii.2)(A), and section 118.9 of the Act are discriminatory and breach the Appellant's equality rights guaranteed by subsection 15(1) of the Charter.
+[13] Subsection 15 (1) of the Charter reads as follows:
+15.(1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+[14] The same issue came before this Court in Troupe v. The Queen.[4] In Troupe, the taxpayer sought the transfer of a tuition credit from his 14-year-old daughter who was enrolled in a professional program in ballet. A Court held that her enrollment in the program was to provide her with skills in an occupation, but that she was not entitled to the tuition tax credit because she did not meet the age requirement imposed by clause 118.5(1)(a)(ii.2)(A). The Court rejected the Appellant's argument that the age requirement constituted discrimination against her under subsection 15(1) of the Charter.
+[15] Although Troupe was heard in the informal procedure, and according to section 18.28 of the Tax Court of Canada Act[5] the decision should not be treated as a precedent, both parties referred extensively to it. This was entirely appropriate, given the careful consideration and extensive analysis of the issue undertaken by Lamarre, J. in that case.
+[16] In Troupe, the Court applied the approach to the interpretation of subsection 15(1) set out by the Supreme Court of Canada in Law v. Canada (Minister of Employment & Immigration)[6], of the Charter. The Supreme Court summarized this approach as follows (at paragraph 88):
+The approach adopted and regularly applied by this Court to the interpretation of s. 15(1) focuses upon three central issues:
+(A) whether a law imposes differential treatment between the claimant and others, in purpose or effect;
+(B) whether one or more enumerated or analogous grounds of discrimination are the basis for the differential treatment; and
+(C) whether the law in question has a purpose or effect that is discriminatory within the meaning of the equality guarantee.
+Accordingly, a court that is called upon to determine a discrimination claim under s.15(1) should make the following three broad inquiries:
+(A) Does the impugned law (a) draw a formal distinction between the claimant and others on the basis of one or more personal characteristics, or (b) fail to take into account the claimant’s already disadvantaged position within Canadian society resulting in substantively differential treatment between the claimant and others on the basis of one or more personal characteristics?
+(B) Is the claimant subject to differential treatment based on one or more enumerated and analogous grounds?
+and
+(C) Does the differential treatment discriminate, by imposing a burden upon or withholding a benefit from the claimant in a manner which reflects the stereotypical application of presumed group or personal characteristics, or which otherwise has the effect of perpetuating or promoting the view that the individual is less capable or worthy of recognition or value as a human being or as a member of Canadian society, equally deserving of concern, respect, and consideration?
+[17] In Troupe, this Court found that clause 118.5(1)(a)(ii.2)(A) of the Act, in combination with section 118.9 of the Act, resulted in differential treatment of the taxpayer on the basis of a personal characteristic. The Court arrived at this conclusion by comparing the treatment of the Appellant under the Act to the treatment accorded to parents of children over 16 years of age and enrolled in a qualifying school or institution.
+[18] The Court found that the basis of the differential treatment was age, an enumerated ground of discrimination in subsection 15(1). However, the Court went on to find that the differential treatment was ultimately not discriminatory within the meaning of that provision because no violation of human dignity was involved. The differential treatment did not promote the notion that parents of children under the age of 16, enrolled in qualifying schools, were less deserving of concern, respect and consideration. The Court also found that the differential treatment was temporary only until the child attained the age of 16, at which point the tax credits became available either to the child or to his or her parent or grandparent.
+[19] In the case before me, the Appellant attempts to distinguish her case from that of the taxpayer in Troupe by choosing a different comparator group. The Appellant asserts, that since she was denied a tuition tax credit transfer because her sons were under 16 at the end of the year in which the tuition fees were paid, the appropriate comparator group would be children over 16 years of age who took flying lessons at a certified school or establishment, rather than the parents of those children.
+[20] I disagree with the Appellant. As part of the determination of whether legislation results in differential treatment, the treatment accorded to a claimant must be compared to the treatment accorded to other persons. If there is differential treatment, the grounds for that differential treatment must then also be established. With respect to the selection of the appropriate comparator group, the Supreme Court also said in Law[7] that:
+(6) The equality guarantee is a comparative concept, which ultimately requires a court to establish one or more relevant comparators. The claimant generally chooses the person, group, or groups with whom he or she wishes to be compared for the purpose of the discrimination inquiry. However, where the claimant’s characterization of the comparison is insufficient, a court may, within the scope of the ground or grounds pleaded, refine the comparison presented by the claimant where warranted. Locating the relevant comparison group requires an examination of the subject-matter of the legislation and its effects, as well as a full appreciation of context.
+[21] The comparator group chosen by the Appellant in this case must be refined because it does not allow for any meaningful comparison between the Appellant and other persons. It is of no assistance to compare the Appellant to children over 16 who took flying lessons. The “inquiry into whether legislation demeans the claimant’s dignity must be undertaken from the perspective of the claimant and from no other perspective…”[8] (Law, paragraph 60) (emphasis added)
+[22] In my view, a consideration of the subject matter of the relevant legislation and its effects, and a consideration of the relevant context all support Lamarre, J.’s choice of comparator group in Troupe. This allows for a more appropriate analysis of whether the combined effect of section 118.9 and subsection 118.5(1) is discriminatory vis-à-vis the Appellant.
+[23] The legislative subject matter here is the transfer of a tuition tax credit to a parent or grandparent pursuant to section 118.9 of the Act. The effect of the legislation is to provide a benefit to the parent or grandparent of the student. In terms of context, it is important to note that the availability of a benefit under section 118.9 is predicated on the student qualifying for the tax credit in the first place under subsection 118.5(1).
+[24] Each of these factors must be taken into account in selecting the appropriate comparator group, and in my view the comparator group must therefore be made up of parents of children over 16 who took flying lessons. This allows the Court to situate the distinction that the Appellant alleges to be discriminatory in the appropriate context and to evaluate the impact of the distinction on the Appellant, who is the person seeking the benefit of the transfer of the tax credit. On the other hand, the comparator group suggested by the Appellant focuses the comparison not on her but only on her sons.
+[25] As already noted, the Respondent conceded in this case, as in Troupe, that the operation of clause 118.5(1)(a)(ii.2)(A) and section 118.9 creates a differential treatment between the Appellant and comparator group, and that the differential treatment can reasonably be found to be based on age, an enumerated ground under subsection 15(1).
+[26] The real issue is whether the purpose or effect of these provisions is discriminatory within the meaning of subsection 15(1).
+[27] The purpose of the provisions was stated by Lamarre, J. to be to provide tax relief to students (or to a supporting person) by recognizing the tuition and non‑tuition costs they need to incur in order to receive post-secondary education or employability training through a certified institution that teaches occupational skills. The cutoff age was set at 16 in order to be consistent with provincial requirements that every individual receive secondary schooling up to a certain mandatory age (16 in most of Canada's provinces) before continuing on to occupational training or post-secondary education.
+[28] Although Lamarre, J. was relying on an affidavit material filed in that case, the purpose of the legislation appears clear from the wording of the legislation itself, and from the relevant provincial and territorial legislation regarding compulsory school attendance. In any event, the Appellant did not claim that any purpose of the legislation (as opposed to its effects) were discriminatory.
+[29] The Appellant argues, however, that the effects of these provisions demeans the dignity of her sons, because it treats them as less worthy members of society than children over 16 years of age who took flying lessons. She relied on the testimony of her son, who said that a denial of the tuition tax credit made him feel like a second‑class citizen, and put him and his family at an economic disadvantage compared to flying students who received the grant. He said that if he had waited until he was 16 to take flying lessons, the delay would be reflected in the time at which he could obtain his commercial pilot license and begin to earn a living in that occupation.
+[30] The evidence led by the Appellant did not, however, address the question of whether the legislation promotes the view that the Appellant, as the parent of a child under 16, is less worthy of recognition or value as a human being or as a member of Canadian society, and I am unable to see any basis in the evidence for so holding.
+[31] Firstly, it has not been shown that parents of children under 16 form a historically disadvantaged or vulnerable group, which makes a finding of discrimination more difficult.
+[32] Secondly, as pointed out by Lamarre, J., the disadvantage in issue is not a substantive disadvantage, but rather a temporary one, in that the tax credits become available once a child attains the age of 16, and the disadvantage does not demean the dignity of persons in the Appellant's position.
+[33] Thirdly, the impugned legislation reflects the fact that, because of compulsory attendance legislation, children are much less likely to undertake vocational or occupational training in certified educational institutions before the age of 16. As was found to be the case by the Supreme Court in Law (at paragraph 102):
+The law functions not by the device of stereotype, but by distinctions corresponding to the actual situation of individuals it affects.
+It is important to recall that the Supreme Court also stated in Law (at paragraph 105) that:
+In referring to the existence of a correspondence between a legislative distinction in treatment and the actual situation of different individuals or groups, I do not wish to imply that legislation must always correspond perfectly with social reality in order to comply with s. 15(1) of the Charter.
+(emphasis added)
+[34] The Supreme Court accepted that it was sufficient that the provisions of the legislation being challenged correspond to a very large degree with the needs and circumstances of the persons whom the legislation was targeting. This is also true of the legislation being challenged by the Appellant here.
+[35] I conclude that the Appellant has not shown that the provisions in issue, either in purpose or effect, demean her human dignity, and she has therefore not shown that they infringe subsection 15(1) of the Charter.
+[36] Given this conclusion, it is not necessary to reconvene the hearing to deal with section 1 of the Charter.
+[37] For all of these reasons the appeal is dismissed.
+Signed at Ottawa, Canada, this 19th day of October 2007.
+“B.Paris”
+Paris J.
+CITATION: 2007TCC637
+COURT FILE NO.: 2006-112(IT)I
+STYLE OF CAUSE: MARY LOUISE SULCS AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 13, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: October 19, 2007
+APPEARANCES:
+Agent for the Appellant:
+Peter Sulcs
+Counsel for the Respondent:
+Nimanthika Kaneira
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985 C.1 (5th supp.).
+[2] Part I of the Constitution Act, 1982, being Schedule B to the Canada Act 1982 (U.K.), 1982, c. 11.
+[3] R.S.C. 1985 c. A-2.
+[4] [2002] T.C.J. No. 77 (QL).
+[5] R.S., 1985, c.T-2.
+[6] [1999] 1 S.C.R. 497 (S.C.C.).
+[7] At paragraph 88.
+[8] Law, supra, at paragraph 60 (emphasis added).

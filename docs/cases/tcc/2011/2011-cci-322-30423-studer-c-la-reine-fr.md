@@ -1,0 +1,150 @@
+---
+title: "Studer c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30423/index.do"
+last_modified: "2011-07-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 322"
+citation2: ""
+neutral_citation: "2011 CCI 322"
+decision_date: "2011-07-04"
+language: "fr"
+item_id: "30423"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7954
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:45:43.207000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "17830f7ef0b165432461b06587a4da70371bb1b872c2eaf7dd3bdbdca8968eae"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Studer c. La Reine
+
+- Citation: 2011 CCI 322
+- Decision date: 2011-07-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7954, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Studer c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-07-04
+Référence neutre
+2011 CCI 322
+Numéro de dossier
+2010-3570(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3570(IT)I
+ENTRE :
+ROLF STUDER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 13 mai 2011 à Prince George (Colombie‑Britannique).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Kristian DeJong
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2008 et 2009 de l’appelant sont rejetés, sans frais, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 4e jour de juillet 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 9e jour d’août 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 322
+Date : 20110704
+Dossier : 2010-3570(IT)I
+ENTRE :
+ROLF STUDER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Rolf Studer, interjette appel à l’encontre des nouvelles cotisations établies par le ministre du Revenu national (le « ministre »), dans lesquelles la déduction à l’égard de la pension alimentaire pour enfants qu’il a versée en 2008 et en 2009 à son ex‑épouse, résidente de la Suisse, a été refusée.
+[2] Ni les faits qui sous-tendent l’appel ni les montants des déductions demandées par l’appelant ne sont contestés. L’appelant et son ex‑épouse ont divorcé en Suisse en 2005. En mai 2008, l’appelant s’est établi au Canada. Une ordonnance judiciaire rendue en Suisse en novembre 2008 et prenant effet en août 2008 enjoignait à l’appelant de verser, et il a dûment versé, à son ex‑épouse en Suisse, une pension alimentaire mensuelle de 750 francs suisses pour leur fils.
+[3] Alors que l’appelant reconnaît que, si lui et son ex‑épouse étaient résidents du Canada, ces montants ne seraient pas déductibles au titre de l’alinéa 60b) de la Loi de l’impôt sur le revenu (la « Loi »), parce que l’ordonnance judiciaire suisse concernant la pension alimentaire pour enfants avait été rendue après le 30 avril 1997, il soutient que la pension alimentaire pour enfants devrait être déduite du revenu en application de l’alinéa 18(2)d) de la Convention fiscale entre le Canada et la Suisse. Cette conclusion est fondée sur une situation factuelle hypothétique énoncée dans un guide de l’Agence du revenu du Canada (l’« ARC ») intitulé Pension alimentaire, qui illustre les conséquences fiscales à l’égard d’un bénéficiaire d’une pension alimentaire pour conjoint reçue d’un non‑résident. Cette situation est présentée de la manière suivante :
+Carole et Guy ont divorcé le 23 décembre 2009. Guy réside en Australie. Carole est une résidente canadienne. Selon l’ordonnance d’un tribunal, Guy verse 500 $ par mois à Carole à titre de pension alimentaire pour conjoint à compter du 1er janvier 2010.
+Selon la convention fiscale entre le Canada et l’Australie, les pensions alimentaires ou autres allocations d’entretien ne sont imposables que dans le pays source. Le paiement est seulement imposable en Australie.
+Carole doit inscrire 6 000 $ à la ligne 128 de sa déclaration de revenus et elle doit également inscrire ce montant à la ligne 156. Carole peut aussi déduire un montant équivalent à la ligne 256 conformément aux dispositions de la convention fiscale entre le Canada et l’Australie[1].
+[4] Le paragraphe 18(3) de la Convention fiscale entre le Canada et l’Australie prévoit que « [l]es pensions alimentaires ou autres allocations indemnitaires provenant d’un État contractant et payées à un résident de l’autre État contractant ne sont imposables que dans le premier État ».
+[5] L’alinéa 18(2)d) de la Convention fiscale entre le Canada et la Suisse est ainsi libellé :
+18.2 Nonobstant toute disposition de la présente Convention :
+[…]
+d) les pensions alimentaires et autres paiements semblables provenant d’un État contractant et payés à un résident de l’autre État contractant qui y est assujetti à l’impôt à raison desdits revenus, ne sont imposables que dans cet autre État.
+[6] Les dispositions précitées ont pour objet d’éviter les « doubles impositions juridiques » et se rapportent à la situation où un contribuable est assujetti à l’impôt à raison du même montant dans plus d’un État. Pour bénéficier de l’allégement fiscal prévu par la disposition du traité, un contribuable doit être capable de démontrer qu’il aurait eu à payer de l’impôt sur le même montant dans les deux ressorts où s’applique le traité.
+[7] En l’espèce, l’appelant a établi l’analogie suivante entre sa situation et le scénario utilisé dans le guide de l’ARC :
+[traduction]
+Rolf [l’appelant] et Daniela [son ex‑épouse] ont divorcé le 30 novembre 2005. Daniela réside en Suisse. Rolf est un résident canadien. Selon l’ordonnance d’un tribunal, Rolf verse 750 FS par mois à Daniela à titre de pension alimentaire pour enfants depuis août 2008. Selon la Convention entre le Canada et la Suisse en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune, les pensions alimentaires et autres paiements semblables provenant d’un État contractant et payés à un résident de l’autre État contractant qui y est assujetti à l’impôt à raison desdits revenus, ne sont imposables que dans cet autre État.
+Le paiement est seulement imposable en Suisse.
+Rolf peut déduire ce montant à la ligne 256 de sa déclaration de revenus, conformément aux dispositions de la Convention entre le Canada et la Suisse.
+[8] En toute déférence, sauf dans la mesure où ils étaient tous les deux résidents canadiens, la situation de l’appelant ne correspond pas tout à fait à celle de Carole. La première distinction réside dans le fait que, bien qu’elles soient toutes deux des « pensions alimentaires », la pension alimentaire pour conjoint et celle pour enfants entraînent des conséquences fiscales différentes selon la Loi. Une autre différence importante à signaler est que Carole était la bénéficiaire de la pension alimentaire pour conjoint provenant d’un non-résident. Cette pension alimentaire était, selon le droit canadien, imposable à l’égard de Carole. Par ailleurs, l’appelant était le payeur d’une pension alimentaire pour enfants à une non‑résidente. Par conséquent, il n’était pas assujetti à l’impôt au Canada à l’égard de la pension alimentaire pour enfants et il n’avait pas droit à une déduction relativement à cette pension.
+[9] Par suite de ces différences, la conclusion que l’appelant a tirée dans le deuxième paragraphe de l’analogie décrite ci‑dessus ne tient pas. Carole était déchargée de l’obligation d’inclure dans sa déclaration de revenus la pension alimentaire pour conjoint qu’elle aurait dû par ailleurs déclarer selon le droit canadien, et une déduction de ce montant ne lui a été accordée que parce que la Convention fiscale entre le Canada et l’Australie prévoyait que les « pensions alimentaires » (la pension alimentaire pour conjoint dans son cas) ne sont imposables que dans le pays « source », c’est‑à‑dire l’Australie. Contrairement à Carole, l’appelant, en tant que payeur de la pension alimentaire pour enfants, n’avait à payer aucun impôt au Canada sur une telle pension. Comme l’a souligné l’avocat de l’intimée, l’alinéa 212(1)f) de la Loi qui, avant avril 1997, exigeait que les payeurs d’une pension alimentaire pour enfants fassent des retenues d’impôt sur des versements effectués à des personnes non-résidentes, a été abrogé en même temps qu’ont été modifiées les dispositions régissant l’inclusion ou la déduction de pensions alimentaires pour enfants dans le calcul du revenu par la suite. Un renvoi à cet aspect de la Loi apparaît également à la page 17 du document de l’ARC sur lequel s’est fondé l’appelant relativement à des payeurs d’une pension alimentaire à des non‑résidents. Voici la teneur du passage invoqué :
+Payeur
+Si vous êtes un résident du Canada et que vous versez une pension alimentaire à un non‑résident, vous n’avez pas à faire de retenues d’impôt sur les paiements. Vous pouvez déduire les paiements de votre revenu s’ils constituent une pension alimentaire selon les conditions énumérées à la page 6 [qui ne s’appliquent pas à la pension alimentaire pour enfants].
+[10] En l’espèce, la situation de l’appelant ne tombe pas sous le coup de l’alinéa 18(2)d) de la Convention fiscale entre le Canada et la Suisse, parce que l’appelant n’avait pas d’impôt à payer relativement à la pension alimentaire pour enfants versée en 2008 et en 2009. En outre, l’alinéa 18(2)d) de la même convention ne peut pas être invoqué pour permettre une déduction dont l’appelante ne peut par ailleurs bénéficier, selon le droit canadien, relativement aux montants versés, simplement parce qu’ils ont été versés à une non‑résidente qui a payé un impôt en Suisse à l’égard de ces montants[2].
+[11] En conséquence, les appels interjetés à l’encontre des nouvelles cotisations établies au titre de la Loi pour les années d’imposition 2008 et 2009 de l’appelant sont rejetés. Sous le régime de la procédure informelle, chaque partie assume ses propres frais.
+Signé à Ottawa, Canada, ce 4e jour de juillet 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 9e jour d’août 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 322
+No DU DOSSIER DE LA COUR : 2010-3570(IT)I
+INTITULÉ : ROLF STUDER
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Prince George (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 13 mai 2011
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 4 juillet 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Kristian DeJong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir à la page 17 du guide de l’Agence du revenu du Canada, Pension alimentaire, dont la version anglaise est jointe à l’exposé du droit de l’appelant.
+[2] Anstead c. Canada, 2005 CAF 315, au paragraphe 9.

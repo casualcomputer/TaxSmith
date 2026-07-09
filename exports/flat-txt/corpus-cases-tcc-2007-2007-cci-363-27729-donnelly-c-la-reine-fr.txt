@@ -1,0 +1,128 @@
+Title: Donnelly c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27729/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-363-27729-donnelly-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-06-18
+
+# Donnelly c. La Reine
+
+- Citation: 2007 CCI 363
+- Decision date: 2007-06-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 480, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Donnelly c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-18
+Référence neutre
+2007 CCI 363
+Numéro de dossier
+2006-3172(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3172(IT)I
+ENTRE :
+JAMES DONNELLY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 6 juin 2007, à Ottawa, Canada.
+Devant : L’honorable juge T. O’Connor
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me April Tate
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 18e jour de juin 2007.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 11e jour de février 2008
+D. Laberge, LL.L.
+Référence : 2007CCI363
+Date : 20070618
+Dossier : 2006-3172(IT)I
+ENTRE :
+JAMES DONNELLY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O’Connor
+[1] Dans le présent appel, la question en litige ressort des passages suivants de la réponse à l’avis d’appel :
+[traduction]
+4. Dans le calcul de son revenu pour l’année d’imposition 2004, l’appelant :
+a) a indiqué un revenu de pension de source étrangère de 29 682,49 $ (22 806,36 $US x taux de conversion de 1,3015 $);
+b) a demandé des déductions « supplémentaires » représentant 15 p. 100 du revenu de source américaine (soit 22 806,36 $US), lesquelles s’élèvent à 3 420,95 $.
+[...]
+6. Par un avis daté du 18 octobre 2005, le ministre a établi une nouvelle cotisation à l’égard de la dette fiscale de l’appelant pour l’année d’imposition 2004 et a refusé les déductions « supplémentaires » de 3 420,95 $ pour l’année d’imposition 2004.
+[...]
+9. En établissant ainsi une cotisation à l’égard de la dette fiscale de l’appelant pour l’année d’imposition 2004 et en ratifiant la cotisation, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) pendant la période pertinente, au cours de l’année d’imposition 2004, l’appelant était un résident du Canada aux fins de l’impôt sur le revenu;
+b) l’« autre pension » de 29 682,49 $ était entièrement composée d’un revenu de source américaine (les prestations de pension américaines) converti en dollars canadiens;
+c) aucun impôt n’a été retenu sur le revenu tiré de l’« autre pension » mentionné à l’alinéa 9b);
+d) le montant de 3 420,95 $ mentionné ci‑dessus au paragraphe 6 représente 15 p. 100 du montant total du revenu de pension de source américaine (22 806,36 $) avant la conversion en dollars canadiens.
+[2] Les principales dispositions applicables sont le sous‑alinéa 56(1)a)(i) de la Loi de l’impôt sur le revenu (la « Loi ») et le paragraphe 5 de l’article XVIII de la Convention fiscale Canada‑États‑Unis (1980) (la « Convention »). Ces dispositions sont en partie rédigées comme suit :
+56. (1) Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+a) toute somme reçue par le contribuable au cours de l’année au titre, ou en paiement intégral ou partiel :
+(i) d’une prestation de retraite ou de pension [...]
+[...]
+5. Les prestations payées en vertu de la législation sur la sécurité sociale dans un État contractant [...] à un résident de l’autre État contractant ne sont imposables que dans cet autre État, sous réserve des conditions suivantes :
+a) Les prestations payées en vertu de la législation sur la sécurité sociale aux États‑Unis à un résident du Canada sont imposables au Canada comme s’il s’agissait de prestations en vertu du Régime de pensions du Canada, sauf que 15 p. 100 du montant des prestations est également exonéré de l’impôt canadien;
+[3] L’appelant estime avoir droit à la déduction de 15 p. 100 prévue au paragraphe 5 précité de l’article XVIII de la Convention. Il a présenté une lettre datée du 21 janvier 2005 que l’Agence du revenu du Canada avait envoyée à une collègue, laquelle lettre indiquait que sa collègue avait le droit de déduire 15 p. 100 de ses [traduction] « prestations de sécurité sociale » à titre de revenu exonéré d’impôt. L’appelant a également déclaré que d’autres collègues avaient de même bénéficié d’une déduction de 15 p. 100. L’appelant a également renvoyé aux lignes 115 et 256 du guide d’impôt 2004 (le « guide »), qui indique que la déduction de 15 p. 100 peut être demandée dans certains cas. Compte tenu des arguments invoqués par l’appelant, j’ai procédé à énormément de recherches en vue d’assurer le traitement correct du présent appel.
+[4] Malheureusement, ces recherches indiquent que la déduction de 15 p. 100 prévue au paragraphe 5 de l’article XVIII de la Convention ne s’applique qu’aux prestations payées à un résident du Canada en vertu de la législation sur la sécurité sociale aux États‑Unis. La déduction de 15 p. 100 ne s’applique pas aux pensions privées de source américaine payées à un résident du Canada. Les lignes 115 et 256 du guide pourraient nous amener à croire que la déduction s’applique à toutes les pensions étrangères, mais ces lignes sont de nature générale et ne sont pas concluantes. Quoi qu’il en soit, le guide n’a pas force de loi.
+[5] La question a déjà été expressément examinée dans deux décisions de la Cour. Dans la décision Tingley v. R., [1999] 1 C.T.C. 2177, le juge Hamlyn a dit ce qui suit :
+9 En examinant l’impôt payable par l’appelante, le ministre a conclu qu’elle n’avait pas droit à la déduction prévue au paragraphe 110(1) de la Loi au titre du revenu de pension étranger et que le montant intégral du revenu de pension devait être inclus dans le calcul de son revenu imposable aux termes de l’article 3 de la Loi, en conformité avec le sous-alinéa 56(1)a)(i)(C.1) de la Loi.
+[…]
+11 En ce qui concerne l’examen de la déduction réclamée et la conclusion tirée, la prestation reçue par l’appelante de la source américaine n’était pas une prestation payée aux termes d’une loi ayant trait à la sécurité sociale.
+12 La prestation reçue, c’est-à-dire la prestation de pension, était pleinement imposable aux termes de l’article 18 de la Convention entre le gouvernement du Canada et le gouvernement des États-Unis d’Amérique en matière d’impôts, plus particulièrement en application de l’article 5.
+13 Le revenu de pension, ai-je conclu, est une prestation de pension au sens du sous-alinéa 56(1)a)(i) de la Loi de l’impôt sur le revenu, et l’appelante n’est pas admissible à la déduction prévue au sous-alinéa 110(1)f)(i) de la Loi. Autrement dit, le revenu de pension n’était pas un montant non imposable au Canada en raison d’une convention fiscale.
+[…]
+[6] Dans la décision Bedard v. R., [1999] 2 C.T.C. 2671, la Cour est arrivée à la même conclusion que celle qui avait été tirée dans la décision Tingley, à savoir que le paragraphe 5 de l’article XVIII de la Convention ne s’applique qu’aux prestations payées en vertu de la législation américaine sur la sécurité sociale et non aux pensions privées. Le fait que d’autres employés ont peut‑être été traités différemment ne permet pas pour autant de dire que, dans ce cas‑ci, la loi ne devrait pas s’appliquer à l’appelant. En outre, même si le montant de la déduction ou de l’exonération représentait 50 p. 100 du montant en cause dans les décisions qui ont été citées, cela n’est pas pertinent parce que le droit applicable dans ces cas‑là prévoyait un taux de 50 p. 100. Ce taux a par la suite été changé pour être remplacé par un taux de 15 p. 100, soit le pourcentage applicable au cours de l’année d’imposition 2004.
+[7] Les conclusions tirées dans les décisions Bedard et Tingley représentent l’état du droit tel qu’il s’appliquait à l’année d’imposition 2004. Dans d’autres décisions se rapportant à l’article XVIII de la Convention, il a été conclu que les pensions étaient visées par les règles établies aux paragraphes 1 à 3 de l’article XVIII. La déduction de 15 p. 100 ne s’applique pas aux pensions; elle s’applique uniquement aux prestations de sécurité sociale.
+[8] Pour tous les motifs énoncés, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 18e jour de juin 2007.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 11e jour de février 2008
+D. Laberge, LL.L.
+RÉFÉRENCE : 2007CCI363
+No DU DOSSIER DE LA COUR : 2006-3172(IT)I
+INTITULÉ : James Donnelly
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Ottawa, Canada
+DATE DE L’AUDIENCE : Le 6 juin 2007
+MOTIFS DU JUGEMENT : L’honorable juge T. O’Connor
+DATE DU JUGEMENT : Le 18 juin 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me April Tate
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

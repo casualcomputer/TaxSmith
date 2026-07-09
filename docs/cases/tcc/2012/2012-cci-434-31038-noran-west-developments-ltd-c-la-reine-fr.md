@@ -1,0 +1,329 @@
+---
+title: "Noran West Developments Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31038/index.do"
+last_modified: "2012-12-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 434"
+citation2: ""
+neutral_citation: "2012 CCI 434"
+decision_date: "2012-12-12"
+language: "fr"
+item_id: "31038"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4861
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:14:50.396000+00:00"
+cases_cited_count: 2
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "673893a80a9feda9464008e46aba712e7858034dfb4f3acaf613886de174019d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Noran West Developments Ltd. c. La Reine
+
+- Citation: 2012 CCI 434
+- Decision date: 2012-12-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4861, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Noran West Developments Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-12-12
+Référence neutre
+2012 CCI 434
+Numéro de dossier
+2011-2274(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2274(IT)G
+ENTRE :
+NORAN WEST DEVELOPMENTS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 12 décembre 2011, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge B. Paris
+Comparutions :
+Avocats de l’appelante :
+Me Alistair G. Campbell
+Me Michelle Moriartey
+Avocates de l’intimée :
+Me Jasmine Sidhu
+Me Selena Sit
+____________________________________________________________________
+ORDONNANCE
+VU la requête des avocates de l’intimée en vue d’obtenir une ordonnance annulant l’appel en vertu de l’article 12 de la Loi sur la Cour canadienne de l’impôt, du paragraphe 58(3) des Règles de la Cour canadienne de l’impôt (Procédure générale) et du paragraphe 169(2.2) de la Loi de l’impôt sur le revenu;
+ET VU les observations déposées par les parties et après audition des parties;
+LA COUR ORDONNE que la requête de l’intimée soit accueillie, les dépens étant adjugés à l’intimée, et que l’appel concernant l’année d’imposition de l’appelante se terminant le 31 août 2005 soit annulé conformément aux motifs de l’ordonnance ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 12e jour de décembre 2012.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 27e jour de mars 2013.
+Mario Lagacé, jurilinguiste
+Référence : 2012 CCI 434
+Date : 20121212
+Dossier : 2011-2274(IT)G
+ENTRE :
+NORAN WEST DEVELOPMENTS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Paris
+[1] L’intimée a présenté une demande en vue d’obtenir une ordonnance annulant l’appel interjeté par Noran West Developments Ltd. (la société « Noran ») à l’encontre d’une nouvelle cotisation datée du 21 avril 2011. La demande est fondée sur le fait que la société Noran a renoncé à son droit d’opposition ou d’appel à l’égard de cette nouvelle cotisation relativement aux questions qu’elle cherche maintenant à porter en appel. Par conséquent, l’intimée soutient que la société Noran ne peut pas interjeter appel à la Cour à l’égard de ces questions, en application du paragraphe 169(2.2) de la Loi de l’impôt sur le revenu (la « Loi »). Cette disposition est ainsi libellée :
+Questions faisant l’objet d’une renonciation. Malgré les paragraphes (1) et (2), il est entendu qu’un contribuable ne peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier une cotisation établie en vertu de la présente partie relativement à une question à l’égard de laquelle le contribuable a renoncé par écrit à son droit d’opposition ou d’appel.
+[2] À titre subsidiaire, l’intimée demande une prorogation du délai pour déposer la réponse à l’avis d’appel.
+[3] La société Noran s’oppose à la demande de l’intimée.
+Le contexte factuel
+[4] La société Noran exerce ses activités dans le domaine de l’aménagement immobilier. M. Raymond Ayers est son unique actionnaire.
+[5] Le 20 juillet 2001, la société Noran a conclu une entente de coentreprise avec deux sociétés à dénomination numérique, à savoir 610421 B.C. Ltd. (la société « 610 ») et 616946 B.C. Ltd., dans le but d’acheter un terrain à White Rock, en Colombie‑Britannique, et d’y construire des unités condominiales. À un certain moment, la société 616946 B.C. Ltd. a changé de nom pour porter celui de Pacific Pointe Homes Ltd., et je la désignerai sous le nom de PPHL dans les présents motifs.
+[6] Selon l’entente de coentreprise, les intérêts de la coentreprise étaient détenus à 60 % par la société Noran et à 40 % par la société 610. Le titre juridique concernant le terrain était détenu par PPHL, à titre de nue-fiduciaire des sociétés Noran et 610, dans les mêmes proportions que les intérêts détenus par ces deux sociétés dans la coentreprise.
+[7] En avril 2004, les titres de deux des unités condominiales construites par la coentreprise ont été transférés de PPHL à la société Noran (les unités 106 et 204), et les titres de deux autres unités ont été transférés de PPHL à M. Ayers (les unités 111 et 408). Le titre d’une cinquième unité (l’unité 316) a été transféré de PPHL à l’épouse de l’unique actionnaire de la société 610, à savoir Mme Loren Thorne.
+[8] M. Ayers a déclaré dans un affidavit déposé à l’égard de la présente requête que le transfert des titres des unités 111 et 408 avait été fait à son nom dans le but de faciliter l’obtention de financement pour la coentreprise et qu’il avait toujours été entendu qu’il devait détenir les titres de ces unités en fiducie pour le compte de la société Noran. Aucun document ni élément de preuve corroborant n’a été fourni au soutien de cette déclaration.
+[9] Au milieu de l’année 2008, l’Agence du revenu du Canada (l’« ARC ») a effectué une vérification à l’égard de la société Noran et de la société 610. La question principale qui faisait l’objet de la vérification était de savoir si la société Noran et la société 610 n’avaient déclaré qu’en partie leur part des revenus tirés de la coentreprise par suite de la disposition des unités en faveur de personnes ayant un lien de dépendance, à savoir la société Noran, M. Ayers et Mme Thorne.
+[10] Lors de la vérification, la société Noran était représentée par la comptable de la société, à savoir Mme Deborah Foot, et la société 610 était représentée par M. Gary Luedke. Ce dernier a également présenté certaines observations à l’ARC pour le compte des deux sociétés (610 et Noran).
+[11] La vérificatrice de l’ARC a conclu que la société Noran et la société 610 n’avaient pas déclaré la totalité de leur part du revenu gagné par la coentreprise par suite du transfert des cinq unités, parce que le produit de ces dispositions déclaré par la coentreprise était inférieur à la juste valeur marchande des unités au moment de la disposition. La vérificatrice a également conclu que M. Ayers, en tant qu’actionnaire de la société Noran, avait reçu un avantage parce qu’il avait acquis de la coentreprise les unités 111 et 408 à un prix inférieur à la juste valeur marchande.
+[12] Avant l’établissement de nouvelles cotisations, M. Luedke avait demandé, pour le compte de la société 610 et de la société Noran, que la vérificatrice attribue à la société Noran la totalité du revenu supplémentaire de la coentreprise, parce que la plus grande partie du produit supplémentaire provenait des unités dont la société Noran et M. Ayers étaient propriétaires bénéficiaires[1]. Au soutien de cette demande, la société Noran et la société 610 ont produit une entente écrite conclue entre elles qui stipulait que tout revenu provenant d’un rajustement effectué par l’ARC à l’égard du produit de la disposition des unités serait entièrement attribué à la société Noran. La vérificatrice a accepté cette demande et, le 9 novembre 2009, une nouvelle cotisation a été établie à l’égard de la société Noran pour inclure dans son revenu pour l’année d’imposition se terminant le 31 août 2005 la totalité du revenu supplémentaire de la coentreprise relativement à la disposition des unités, soit 639 760 $.
+[13] Une nouvelle cotisation a été établie à l’égard de M. Ayers relativement à son année d’imposition 2005 pour inclure dans son revenu un montant de 515 000 $ représentant un avantage conféré à l’actionnaire et un montant de 9 163 $ représentant un avantage à l’égard d’intérêts implicites sur le prêt de l’actionnaire.
+[14] En vertu du paragraphe 163(2) de la Loi, des pénalités ont été appliquées aux montants des nouvelles cotisations établies à l’égard de la société Noran et de M. Ayers.
+[15] Une nouvelle cotisation a été établie à l’égard de PPHL relativement à la taxe sur les produits et services (la « TPS ») concernant le produit de la disposition revu à la hausse, mais les précisions concernant cette nouvelle cotisation n’ont pas été clairement présentées en preuve. Il semble que des pénalités prévues à l’article 285 de la Loi sur la taxe d’accise (la « LTA ») aient été également imposées.
+[16] Dans son affidavit, M. Ayers déclare qu’il a demandé à Mme Foot de déposer des avis d’opposition à l’égard de toutes ces nouvelles cotisations. Toutefois, Mme Foot a déposé des avis d’opposition pour la nouvelle cotisation établie à l’égard de la société Noran et pour celle établie à l’égard de PPHL, mais elle n’a pas déposé d’avis d’opposition relativement à la nouvelle cotisation établie à l’égard de M. Ayers à titre personnel.
+[17] Le fondement de l’opposition est énoncé dans une lettre qui faisait partie de l’avis d’opposition de la société Noran. Les questions soulevées avaient trait à l’imposition de pénalités pour faute lourde, à la date réelle de l’évaluation des biens et au montant de cette évaluation, à la cotisation de TPS concernant la vente des deux unités, à l’inclusion de 639 760 $ dans le revenu de la société Noran et à l’imposition d’intérêts. Voici la teneur de cette lettre :
+[traduction]
+1. Le contribuable conteste l’application de pénalités pour fautes lourdes imposées en vertu du paragraphe 163(2) pour une pénalité fédérale de 68 089 $ et une pénalité provinciale de 36 175 $. Le contribuable a agi sur la foi de renseignements et d’évaluations qui semblaient correspondre à la juste valeur marchande à cette époque et il n’a pas manqué de soin et de diligence en ce qui concerne ses affaires fiscales. La coentreprise a déclaré tous les revenus et toutes les dépenses qui se rapportent à ces ventes et la société Noran West a correctement inscrit l’acquisition à l’actif.
+2. Le contribuable conteste l’évaluation des biens faite par le service interne des biens immobiliers de l’ARC. Le contribuable signale que les montants d’évaluation utilisés par l’ARC sont excessivement élevés et qu’ils ne représentent pas la juste valeur marchande à l’époque de l’entente. Le contribuable avait demandé à l’ARC de lui fournir des renseignements concernant la méthode d’évaluation, mais l’ARC a refusé de les lui fournir.
+3. Le contribuable conteste l’utilisation de la date du 15 avril 2004 par l’ARC pour l’évaluation de la valeur marchande et déclare que la date du 14 janvier 2003 devrait être utilisée compte tenu du contrat d’achat‑vente conclu à cette date‑là.
+4. Le contribuable conteste la cotisation de TPS établie par l’ARC à l’égard de la vente de deux unités intervenue entre Pacific Pointe Joint Venture et Noran West Developments, étant donné qu’un formulaire de choix concernant la TPS aurait dû être produit (ou a été produit).
+5. Le contribuable conteste l’inclusion de la somme de 639 760 $ dans le revenu de Noran West Developments.
+6. Le contribuable conteste l’imposition d’intérêts de 79 137,10 $ dans l’avis de nouvelle cotisation.
+[18] Le formulaire d’avis d’opposition de la société Noran a été signé par M. Ayers et, selon la lettre qui était jointe à ce formulaire, une copie avait été envoyée à M. Ayers.
+[19] Mme Menen Wolde‑Mariam était l’agente de l’ARC chargée du dossier de la société Noran au stade de l’opposition.
+[20] Selon l’affidavit de Mme Wolde‑Mariam déposé par l’intimée, l’agente de l’ARC et Mme Foot ont eu de nombreuses discussions au téléphone concernant l’opposition. Ces discussions ont abouti à la proposition d’un règlement par Mme Wolde‑Mariam. Selon cette proposition, le revenu non déclaré établi à l’égard de la société Noran serait diminué de 50 000 $ pour tenir compte d’une juste valeur marchande réduite de l’unité 408 au moment du transfert, et la pénalité pour faute lourde serait rajustée en conséquence. Mme Wolde‑Mariam a préparé une lettre de renonciation qu’elle a envoyée à Mme Foot le 27 janvier 2011. Cette lettre de renonciation était ainsi rédigée :
+[traduction]
+Sous toutes réserves
+Renonciation au droit d’opposition ou d’appel
+Agence du revenu du Canada
+Division des appels, 430‑01
+Bureau des services fiscaux de Burnaby‑Fraser
+Centre fiscal de Surrey
+9755 King George Hwy
+Surrey (C.‑B.) V3T 5E1
+À l’attention de Mme Wolde-Mariam, CGA
+Madame Wolde‑Mariam,
+Objet : Avis d’opposition pour l’année d’imposition 2005
+La présente fait suite à nos discussions concernant l’avis d’opposition portant sur l’année d’imposition 2005. Je renonce à tous les droits d’opposition ou d’appel en ce qui concerne les éléments suivants :
+1. Le montant ajouté au revenu par suite de la disposition en faveur de personnes ayant un lien de dépendance des unités condominiales no 106, 111, 204, 316 et 408 situées au 15621 Marine Drive, à White Rock, en C.‑B.
+2. L’application d’une pénalité pour faute lourde au revenu non déclaré de 639 760 $, en vertu du paragraphe 163(2).
+Cette renonciation est conditionnelle à ce que l’Agence du revenu du Canada établisse de nouvelles cotisations comme il est précisé ci‑dessous :
+1. Réduire à 589 760 $, c’est‑à‑dire une diminution de 50 000 $, le montant ajouté au revenu et provenant de la disposition des unités condominiales no 106, 111, 204, 316 et 408 situées au 15621 Marine Drive, à White Rock, en C.‑B.
+2. Confirmer l’application d’une pénalité pour faute lourde au revenu non déclaré de 589 760 $.
+Revenu net antérieur 687 039 $
+Rajustements conformément au règlement :
+Déduction :
+Ajout au revenu ayant fait l’objet d’une
+cotisation antérieure 639 760 $
+Ajout révisé au revenu 589 760 $
+Réduction appliquée au revenu établi dans
+une cotisation antérieure 50 000 $
+Revenu net révisé 637 039 $
+Déduction :
+Perte autre qu’une perte en capital d’une année antérieure 57 318 $
+Revenu imposable révisé 579 721 $
+Je connais la teneur des paragraphes 165(1.2) et 169(2.2) de la Loi de l’impôt sur le revenu et je comprends que je ne pourrai pas déposer d’avis d’opposition ou d’appel à l’égard de ces questions.
+Je comprends et j’accepte que le présent règlement lie mes héritiers, mes exécuteurs testamentaires, mes fiduciaires, mes administrateurs successoraux ainsi que toute autre personne dont la responsabilité pourrait être retenue au titre des impôts, des intérêts et des pénalités découlant du présent règlement.
+_____________­­­­­­­­­­­
+Signature Date
+[21] Mme Foot a remis la lettre à M. Ayers pour signature et ce dernier l’a signée le 10 février 2011. Mme Foot a ajouté une brève note manuscrite à la lettre et l’a retournée à Mme Wolde‑Mariam. Celle‑ci a ensuite demandé à Mme Foot de lui fournir une copie signée sans la note. Mme Foot a présenté à M. Ayers une copie libre de toute note manuscrite de la lettre de renonciation et lui a demandé de la signer. Il l’a signée et, le 16 février 2011, Mme Foot l’a envoyée à Mme Wolde‑Mariam par télécopieur.
+[22] M. Ayers déclare dans son affidavit que, lorsqu’il a signé la lettre de renonciation, il avait compris que la société Noran, PPHL et lui‑même n’avaient conclu une entente avec l’ARC qu’à l’égard de la juste valeur marchande des unités ayant fait l’objet du transfert, et qu’il n’avait pas compris ou cru qu’il acceptait par cette entente une résolution complète de toutes les questions non réglées entre, d’une part, Noran, PPHL et lui‑même et, d’autre part, le ministre du Revenu national (le « ministre »). Il croyait que les points suivants n’étaient toujours pas réglés : la question de savoir si la société Noran lui avait transféré la propriété bénéficiaire des unités 111 et 408 ou s’il était titulaire de ce droit à titre de nu‑fiduciaire au nom de la société Noran, la question de savoir si un montant de TPS additionnel était payable par PPHL à l’égard du transfert des unités et la question de savoir si des pénalités pour faute lourde devraient être imposées à la société Noran, à PPHL et à lui‑même.
+[23] Le 21 avril 2011, le ministre a établi une nouvelle cotisation à l’égard de la société Noran pour diminuer de 50 000 $ son revenu pour son année d’imposition se terminant le 31 août 2005 et pour réduire la pénalité pour faute lourde.
+[24] L’avocate de l’intimée admet que, dans la nouvelle cotisation établie le 21 avril 2011, une erreur s’est glissée dans le calcul de la pénalité pour faute lourde et que le calcul de la pénalité a été fait en fonction d’un revenu non déclaré de 599 760 $ au lieu du montant convenu de 589 760 $. L’intimée concède que la pénalité comportait un montant en trop pouvant aller jusqu’à 1 106 $. Étant donné que l’avocat de la société Noran n’a soulevé cette erreur que peu de temps avant l’audition de la requête, l’avocate de l’intimée a avisé la Cour qu’elle ne pouvait pas obtenir le montant exact que cette erreur représentait.
+[25] Le 14 juillet 2011, la société Noran a interjeté appel auprès de la Cour à l’égard de la nouvelle cotisation établie le 21 avril 2011.
+La thèse des parties
+[26] L’intimée soutient qu’il est interdit à la société Noran d’interjeter appel auprès de la Cour parce qu’elle a renoncé à son droit d’opposition ou d’appel à l’égard de l’inclusion dans son revenu d’un montant non déclaré de 589 760 $ relativement au transfert des unités condominiales et à l’égard de l’imposition de pénalités pour faute lourde sur ce revenu non déclaré.
+[27] La société Noran affirme que le paragraphe 169(2.2) de la Loi ne l’empêche pas d’interjeter appel à l’encontre de la nouvelle cotisation pour les raisons suivantes :
+a) la lettre de renonciation n’était pas une [traduction] « entente par écrit » au sens du paragraphe 169(2.2) de la Loi, parce qu’une composante essentielle faisait défaut, à savoir le nom de l’appelante (Noran) ou tout autre élément permettant de l’identifier en tant que partie à l’entente;
+b) l’entente énoncée dans la lettre de renonciation n’est pas exécutoire parce qu’une nouvelle cotisation établie conformément à l’entente ne peut pas se justifier au regard des faits et du droit;
+c) aucune entente n’a été conclue entre les parties parce que celles‑ci n’étaient pas d’accord quant aux conditions de l’entente et que l’entente était déraisonnable et inique;
+d) même si une entente avait été conclue entre les parties :
+i) le ministre n’a pas établi de nouvelle cotisation à l’égard de la société Noran conformément à l’entente;
+ii) la société Noran interjette appel à l’égard d’autres questions que celles qui sont visées par la renonciation à son droit d’appel.
+L’analyse
+Quelle est l’interprétation correcte de l’expression « par écrit »?
+[28] L’avocat de la société Noran a soutenu que la renonciation en question n’était pas une entente conclue par écrit au sens du paragraphe 169(2.2) de la Loi, parce qu’elle ne contenait ni le nom de la société Noran ni tout autre élément permettant d’identifier la société Noran. Il convient de rappeler la teneur du paragraphe 169(2.2) de la Loi :
+Questions faisant l’objet d’une renonciation. Malgré les paragraphes (1) et (2), il est entendu qu’un contribuable ne peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier une cotisation établie en vertu de la présente partie relativement à une question à l’égard de laquelle le contribuable a renoncé par écrit à son droit d’opposition ou d’appel.
+[29] L’avocat de l’appelante a souligné le fait que la Loi n’exige pas de forme particulière de renonciation aux droits d’opposition ou d’appel et que l’expression « par écrit », utilisée au paragraphe 169(2.2), n’est pas définie dans la Loi. Il a avancé qu’il faudrait accorder à l’expression « par écrit » utilisée dans cette disposition le même sens que celui de l’expression [traduction] « établi par écrit » que l’on trouve dans les lois relatives aux preuves littérales de diverses provinces concernant les ententes portant sur des intérêts fonciers. Par exemple, dans l’arrêt McKenzie v. Walsh[2], la Cour suprême du Canada a jugé que, pour l’application de l’article 4 de la loi relative aux preuves littérales (Statute of Frauds) de la Nouvelle‑Écosse, l’un des éléments essentiels d’une entente écrite prévu par cette disposition était l’identification des parties à l’entente. À cette époque, l’article 4 de cette loi était ainsi libellé :
+[traduction]
+Un droit sur des biens‑fonds ne doit être cédé, transféré ou rétrocédé que par un acte scellé, ou une note, établi par écrit et signé par la partie qui transfère, cède ou rétrocède ce droit, ou par son représentant autorisé à cet effet par un écrit, par ses actes ou par l’effet de la loi.
+De même, dans la décision Imperial Bank v. Nixon[3], la Cour suprême de l’Ontario a décidé que l’omission du nom du débiteur principal sur une garantie était fatale pour ce qui était du caractère exécutoire de la garantie parce que celle‑ci n’était pas établie par écrit comme l’exigeait la Loi relative aux preuves littérales de l’Ontario.
+[30] Toutefois, je ne suis pas convaincu de la pertinence de ces affaires quant à l’interprétation de l’expression « renoncé par écrit » au paragraphe 169(2.2) de la Loi. L’avocat de l’appelante n’a pas démontré pourquoi on ne devrait pas se fonder sur la règle normale d’interprétation législative en l’espèce pour interpréter cette disposition. Il semble quelque peu incongru d’avoir recours à la jurisprudence citée par l’avocat de la société Noran pour interpréter l’expression « par écrit » alors que le type de renonciation dont il est question en l’espèce n’est même pas le type de contrat ou d’entente visé par la loi relative aux preuves littérales pertinente.
+[31] Je conclus que l’expression « renoncé par écrit » au paragraphe 169(2.2) de la Loi n’est pas ambiguë et que le sens ordinaire des mots qui la composent exige simplement qu’une renonciation soit consignée par écrit plutôt que donnée verbalement. Le caractère suffisant et les conditions de la renonciation constituent une question d’interprétation, comme pour tout autre contrat. En outre, dans la décision Solberg v. The Queen[4], le juge Reed a fait les observations suivantes :
+Pour interpréter ce document, il convient de vérifier l’intention que les parties y ont exprimée en tenant compte de toutes les circonstances pertinentes au sujet desquelles il existe une preuve.
+[32] La Cour d’appel fédérale a adopté cette approche dans l’arrêt Mitchell v. The Queen[5].
+[33] Même si l’affaire Solberg portait sur une renonciation à l’application du délai de prescription pour l’établissement d’une nouvelle cotisation à l’égard d’un contribuable, je ne vois pas pourquoi l’approche adoptée dans cette décision ne devrait pas s’appliquer à la renonciation à un droit d’opposition ou d’appel relativement à une nouvelle cotisation. Ainsi, l’identité de la partie à une renonciation est une question qui peut être établie par la preuve.
+Y a‑t‑il ambiguïté quant à l’application envisagée dans la renonciation?
+[34] Les facteurs suivants m’amènent à conclure qu’il était manifeste que la renonciation n’était censée s’appliquer qu’à la société Noran :
+- la renonciation mentionne expressément des montants d’impôt, y compris le montant du revenu non déclaré en cause, qui concernent la société Noran seulement;
+- la première raison pour laquelle la renonciation est faite concerne [traduction] « le montant ajouté au revenu par suite de la disposition en faveur de personnes ayant un lien de dépendance des unités no 106, 111, 204, 316 et 408[...] ». [Non souligné dans l’original] Seule la société Noran a procédé à la disposition des unités. M. Ayers, par contre, a acquis les unités. Seule la société Noran a fait l’objet d’une cotisation faisant état d’un revenu supplémentaire relativement aux cinq unités énumérées. M. Ayers n’a fait l’objet d’une cotisation qu’à l’égard de deux de ces unités.
+- Les nouvelles cotisations proposées sont très précises et n’envisagent manifestement pas de modifications à l’avantage conféré à un actionnaire, aux intérêts implicites ou à la TPS. Une seule série de chiffres est utilisée, et ces chiffres ne concernent que la société Noran.
+Je conclus également que l’utilisation des mots « je », « j’ » et « mes » dans la renonciation, qui sont tous des pronoms de la première personne du singulier, renforce la conclusion selon laquelle la renonciation était censée s’appliquer à un seul contribuable, et que les autres expressions et chiffres utilisés dans la renonciation démontrent que celle‑ci était censée s’appliquer à la société Noran.
+La nouvelle cotisation est‑elle conforme aux faits et au droit?
+[35] L’argument suivant de la société Noran est que la renonciation n’est pas exécutoire parce que la nouvelle cotisation envisagée dans l’entente n’est pas conforme aux faits et au droit.
+[36] L’avocat de l’appelante souligne à juste titre que le ministre ne peut pas faire de compromis ou régler un litige fiscal sur une base qui ne peut pas être justifiée en vertu de la Loi[6]. Il s’agit d’un prolongement logique du principe selon lequel le ministre doit établir une cotisation conformément à la loi[7]. Un autre prolongement logique de ce principe est que la Cour refuse de confirmer les ententes de règlement lorsqu’elle estime que la cotisation que le ministre doit établir en vertu de ces ententes est illégale[8]. Dans l’arrêt Galway, le juge en chef Jackett a fait observer que [traduction] « […] le Ministre a l’obligation, aux termes de la Loi, de fixer le montant de l’impôt exigible d’après les faits qu’il établit et en conformité de son interprétation de la loi[9] ».
+[37] En l’espèce, l’avocat de la société Noran soutient que, compte tenu des faits acceptés par le ministre et par la société Noran, le ministre ne pouvait inclure aucun montant provenant du transfert des unités dans le revenu de la société Noran pour l’année d’imposition se terminant le 31 août 2005. Les parties sont d’accord sur le fait que les transferts ont eu lieu en avril 2004. Par conséquent, tout revenu gagné par la société Noran par suite des transferts aurait été gagné dans l’année d’imposition se terminant le 31 août 2004 plutôt que dans l’année d’imposition se terminant le 31 août 2005.
+[38] Il semble que le ministre ait ajouté le revenu dans l’année d’imposition de la société Noran se terminant le 31 août 2005 à cause de la période utilisée par la coentreprise pour déterminer ses résultats financiers, période qui se terminait le 30 septembre. La coentreprise a inclus les bénéfices provenant de la disposition des unités dans ses résultats financiers pour la période se terminant le 30 septembre 2004. La société Noran a alors inclus sa part des bénéfices provenant de l’exploitation de la coentreprise pour cette période‑là dans son revenu pour son exercice se terminant le 31 août 2005. En fait, la société Noran a déclaré sa part du revenu tiré de la coentreprise en se fondant sur le fait que l’exercice de la coentreprise était différent du sien. C’est ce qui ressort du rapport de vérification de l’ARC concernant la société Noran. Voici un extrait du rapport de la vérificatrice :
+[traduction]
+[...] Les ventes des unités condominiales sont assujetties à la taxe sur les produits et services (la « TPS ») de 7 %, qui a été payée sous le numéro de TPS 889661013RT0001 d’une coentreprise. La plus grande partie de la TPS a été payée relativement à la déclaration de TPS pour la période allant du 1er janvier 2004 au 31 mars 2004. Les bénéfices ont ensuite été attribués à l’exercice de la société se terminant en août 2005, étant donné qu’il y avait un chevauchement entre les exercices de la coentreprise et du contribuable[10]. [...]
+[Non souligné dans l’original.]
+[39] La vérificatrice n’a pas déplacé la part des bénéfices de la société Noran provenant de la disposition des unités pour l’incorporer à l’année d’imposition de la société Noran se terminant le 31 août 2004, en dépit du fait qu’elle savait que la disposition avait eu lieu en avril 2004. Cela indiquerait que l’ARC avait accepté l’utilisation d’un exercice distinct pour la coentreprise.
+[40] La position de la vérificatrice est conforme à la politique administrative de l’ARC de l’époque[11], malgré le fait que cette politique n’était fondée sur aucune disposition de la Loi. La politique a fait l’objet des commentaires suivants de la part de James P. Thomas et d’Elizabeth J. Johnson dans l’ouvrage intitulé Understanding the Taxation of Partnerships[12], à la page 13 :
+[traduction]
+[...] la loi ne mentionne pas expressément les coentreprises et, étant donné qu’une coentreprise n’est pas une personne distincte aux fins d’imposition, la coentreprise n’a pas sa propre année d’imposition. Il s’ensuit que chaque coentrepreneur aurait l’obligation légale de déclarer son revenu ou sa perte à l’égard de la coentreprise de la même manière qu’il déclarerait tout revenu provenant d’une activité semblable qui n’est pas exercée au moyen d’une coentreprise. Toutefois, cette démarche comporte des difficultés pratiques, en particulier lorsque les participants à la coentreprise ont chacun des dates de fin d’exercice différentes, étant donné que la coentreprise devrait fournir des renseignements financiers à ses participants à divers moments de l’année.
+Pour résoudre ces difficultés, l’ARC a adopté une pratique administrative qui permettait à une coentreprise d’établir un exercice distinct pour elle‑même. Ainsi, de manière générale, les participants à la coentreprise pouvaient déclarer leur part du revenu provenant de celle‑ci en fonction de l’exercice de la coentreprise qui se terminait dans l’année d’imposition de chaque participant, comme si la coentreprise était une société de personnes.
+[Non souligné dans l’original.]
+[41] Étant donné que l’utilisation d’un exercice distinct pour une coentreprise ne tire aucun fondement de la Loi, je souscris à l’argument de l’avocat de l’appelante selon lequel l’inclusion des bénéfices provenant du transfert des unités dans l’année d’imposition de la société Noran se terminant le 31 août 2005 n’était pas conforme à la Loi.
+[42] Toutefois, à mon avis, il ne s’ensuit pas nécessairement que la nouvelle cotisation établie par le ministre conformément à la renonciation était une nouvelle cotisation que le ministre n’avait aucun pouvoir légal d’établir. Je fais cette affirmation parce que l’entente de règlement ne prévoyait pas de nouvelle cotisation qui incluait dans le revenu de la société Noran les bénéfices provenant de la vente des unités. Les bénéfices avaient déjà été inclus dans le revenu de la société Noran au moyen de la nouvelle cotisation antérieure. La nouvelle cotisation établie par suite de l’entente de règlement a simplement réduit les bénéfices de la société Noran provenant de la disposition des unités compte tenu d’une valeur différente des unités au moment de leur disposition. À mon avis, cette nouvelle cotisation n’est en rien contraire à une quelconque disposition de la Loi. La Cour aurait eu le pouvoir d’ordonner l’établissement d’une telle cotisation si l’affaire s’était rendue jusqu’à l’audience.
+[43] L’avocat de l’appelante a également soutenu que la nouvelle cotisation portée en appel était illégale à deux autres égards. Premièrement, étant donné que la société Noran était déjà propriétaire bénéficiaire d’un intérêt de 60 % dans la propriété de la coentreprise, il n’était pas correct d’inclure dans le revenu de la société Noran la totalité du montant représentant la différence entre la juste valeur marchande des unités et le produit de la disposition. La société Noran ne pouvait pas se vendre un bien à elle‑même et, par conséquent, il n’y a pas eu de disposition à l’égard de son intérêt initial de 60 % lorsque les titres des unités 106 et 204 lui ont été transférés en avril 2004. Deuxièmement, l’avocat de l’appelante a fait valoir que l’entente conclue entre la société Noran et la société 610 selon laquelle la société Noran serait imposée sur tous les revenus provenant du transfert des titres des unités (y compris l’intérêt de 40 % de la société 610) ne pouvait pas être rendue exécutoire par le ministre.
+[44] Il n’est pas nécessaire que la Cour se penche sur ces arguments. Tous deux ont trait à des aspects de la nouvelle cotisation qui a précédé la nouvelle cotisation établie conformément à la renonciation et, pour les mêmes motifs que ceux que j’ai énoncés ci‑dessus, toute erreur commise dans l’établissement de nouvelles cotisations antérieures n’a pas d’incidence sur le pouvoir du ministre d’établir la nouvelle cotisation en litige.
+[45] Les arrêts Galway et Cohen ne consacrent pas la thèse selon laquelle la Cour doit être convaincue de la légalité des cotisations qui précèdent la cotisation établie selon une entente de règlement afin de décider si l’entente de règlement lie les parties. L’acceptation de cette thèse serait de nature à compromettre le processus de règlement dans les affaires fiscales. La question de savoir s’il est souhaitable de faire respecter les ententes négociées a été abordée par le juge Bowie dans la décision 1390758 Ontario Corp c. La Reine[13]. Voici la teneur des observations du juge Bowie :
+[35] Je suis d’accord avec le juge en chef Bowman et les auteurs Hogg, Magee et Li, à savoir qu’il y a de bonnes raisons de principe pour faire respecter les ententes négociées relatives à des litiges fiscaux qui ont été librement conclues entre les contribuables et les représentants du ministre. L’ajout du paragraphe 169(3) à la Loi en 1994 constitue une reconnaissance de ce fait par le Parlement. Ce n’est pas aux tribunaux de réexaminer le bien-fondé de telles ententes. Cette tâche revient comme il se doit au vérificateur général.
+[36] La réalité est que des litiges fiscaux sont réglés tous les jours dans ce pays. S’ils ne l’étaient pas et que chaque point litigieux devait être tranché dans un jugement, des arriérés impossibles à gérer s’accumuleraient rapidement et le système tomberait en panne.
+[37] La Couronne règle régulièrement des réclamations contractuelles et des réclamations en responsabilité civile délictuelle, déposées par elle ou contre elle. Aucune raison ne justifierait que les litiges fiscaux ne fassent pas également l’objet d’un règlement. Les deux parties à un litige ont le droit de savoir que, si elles investissent le temps et les efforts nécessaires en vue de négocier une transaction, l’entente les liera.
+[46] Je tiens également à préciser qu’à aucun moment avant la conclusion de l’entente portant sur la renonciation, la société Noran n’a soutenu que le revenu avait été inclus dans la mauvaise année ou qu’il n’y avait pas eu de disposition à l’égard de son intérêt bénéficiaire de 60 %. Cela renforce la conclusion que j’ai tirée, selon laquelle les parties n’entendaient pas traiter, dans la renonciation, la question concernant le moment où le montant serait inclus dans le revenu ou celle concernant le propriétaire bénéficiaire des unités.
+Les parties étaient‑t‑elles d’accord?
+[47] L’argument suivant avancé par la société Noran est que la renonciation est invalide parce que les parties n’étaient pas d’accord quant aux conditions de l’entente.
+[48] Dans son affidavit, M. Ayers a déclaré que, selon ce qu’il avait compris au moment où il avait signé la renonciation, celle‑ci s’appliquait à la société Noran, à lui personnellement et à PPHL. Il a déclaré qu’il avait demandé à Mme Foot de déposer un avis d’opposition à l’égard de sa nouvelle cotisation personnelle ainsi qu’à l’égard des nouvelles cotisations établies pour la société Noran et pour PPHL, qu’il croyait qu’elle l’avait fait et qu’elle avait mené des discussions relativement à toutes les nouvelles cotisations avec l’agente des appels, Mme Wolde‑Mariam, avant de lui présenter la renonciation pour signature.
+[49] M. Ayers avance également qu’il avait compris que la renonciation ne réglait que la question concernant la juste valeur marchande des unités et que d’autres questions demeuraient non résolues. Il avait compris que les questions non résolues portaient sur la propriété bénéficiaire des unités, sur la TPS relative aux transferts payable par PPHL et sur les pénalités imposées à la société Noran, à PPHL et à lui‑même.
+[50] Pour ces raisons, l’avocat de la société Noran affirme que M. Ayers a été induit en erreur quant aux conditions de la renonciation et que cette erreur justifie que l’entente ne soit pas exécutée. L’avocat de l’appelante se fonde sur la décision Canadian Imperial Bank of Commerce v. Weinman et al.[14] rendue par la Cour de justice de l’Ontario (Division générale). Dans cette décision, le juge Chapnik a conclu que, l’une des parties ayant mal interprété l’offre, aucune entente de règlement n’avait été conclue entre les parties. La cour a conclu que [traduction] « les parties n’étaient pas d’accord à l’égard de l’“entente” qu’elles avaient conclue entre elles » et s’est fondée sur le passage suivant tiré de l’ouvrage Chitty on Contracts[15], au paragraphe 351 :
+[traduction]
+L’erreur unilatérale
+Il y a absence de contrat tant que l’acceptation ne correspond pas à l’offre. Si, par conséquent, une partie fait une offre à l’autre partie et que cette dernière, comprenant l’offre dans un sens fondamentalement différent de celui de l’offrant, l’accepte, le contrat pourrait être nul. En règle générale, l’intention des parties doit être interprétée de manière objective. Le langage utilisé par une partie, quelle que puisse être sa véritable intention, doit être interprété dans le sens où il serait raisonnablement compris par l’autre partie, ou à tout le moins dans le sens où il serait interprété par une personne raisonnable.
+[51] En l’espèce, l’avocat de la société Noran soutient que M. Ayers a mal interprété les conditions de la renonciation proposée par Mme Wolde‑Mariam, et que, par conséquent, la société Noran et le ministre n’étaient pas d’accord quant à la renonciation, et qu’il y a donc absence de contrat entre eux.
+[52] L’avocate de l’intimée soutient que la société Noran n’a pas démontré que M. Ayers avait commis une erreur quant à l’effet de la renonciation ou quant aux parties à la renonciation, et que la renonciation abordait toutes les questions soulevées dans l’avis d’opposition de la société Noran. L’avocate de l’intimée affirme qu’un examen de la renonciation et de toutes les circonstances concernant cette dernière n’appuie pas la conclusion selon laquelle M. Ayers aurait pu croire qu’il subsistait des questions non réglées après la signature de la renonciation. L’avocate de l’intimée souligne que l’avis d’opposition de la société Noran ne mentionne aucune autre question et que, selon Mme Wolde‑Mariam, la représentante de la société Noran, à savoir Mme Foot, n’avait soulevé aucune autre question dans leurs discussions. L’avocate de l’intimée précise également que la déclaration de M. Ayers selon laquelle il croyait que la renonciation concernait la nouvelle cotisation d’impôt établie à son égard à titre de particulier est dénuée de tout fondement, compte tenu du fait qu’il n’avait jamais signé de formulaire d’avis d’opposition à titre de particulier. En outre, l’avocate demande à la Cour de tirer une conclusion défavorable du défaut de la société Noran de fournir un affidavit de Mme Foot faisant état des discussions ou des communications qu’elle avait eues avec M. Ayers à l’égard de l’opposition ou de la renonciation.
+[53] La Cour est appelée à trancher la question de savoir s’il y a eu accord de volonté entre la société Noran et le ministre sur les conditions essentielles de la renonciation ou si une erreur commise par M. Ayers a fait obstacle à la formation d’un accord. Un accord de volonté est essentiel parce que [traduction] « [ …] la réciprocité de l’entente est au cœur même de tout contrat ayant force exécutoire » (Cour d’appel de l’Alberta dans l’arrêt Ron Ghitter Property Consultants Ltd. v. Beaver Lumber Company Limited.)[16]. La cour a continué ainsi, dans l’arrêt Ghitter :
+[traduction]
+[11] Toutefois, pour empêcher la formation d’un contrat, l’erreur doit être fondamentale, en ce sens qu’elle doit porter sur un élément essentiel du contrat allégué. Comme cela est expliqué dans l’ouvrage de Cheshire, Fifoot et Furmstom, Law of Contract, précité, à la page 270, si l’on se reporte à la catégorie connue de l’offre et de l’acceptation, cela signifie que le seul type d’erreur qui est susceptible d’écarter l’offre et l’acceptation est celui qui empêche la partie qui commet l’erreur d’apprécier le caractère fondamental de l’offre et de l’acceptation.
+[12] Il existe trois types d’erreurs : l’erreur commune, l’erreur mutuelle et l’erreur unilatérale : voir Cheshire, Fifoot & Furmston, Law of Contract, précité, aux pages 252 et 253 pour un résumé de chaque type d’erreur. Il y a erreur commune lorsque les parties commettent la même erreur. Par exemple, une partie s’engage envers une autre à lui vendre un vase alors que les deux parties ignorent que le vase a été détruit et qu’il n’existe plus. L’erreur mutuelle se produit lorsque les parties commettent toutes les deux une erreur, mais que leurs erreurs sont différentes. Dans ce cas, il y a un malentendu entre les deux parties et, autrement dit, elles « ne sont pas sur la même longueur d’onde ». L’erreur unilatérale quant à elle est celle qui émane d’un seul cocontractant. Si l’autre partie n’est pas au courant de la croyance erronée de son cocontractant, il s’agit d’un cas d’erreur mutuelle, mais si l’autre partie a connaissance de l’erreur de son cocontractant, on parle alors d’erreur unilatérale. La confusion est accrue par le fait que la distinction entre l’erreur mutuelle et l’erreur commune devient quelques fois floue lorsque les tribunaux utilisent les deux termes de manière interchangeable[17].
+[54] En l’espèce, le ministre n’était pas au courant de l’erreur alléguée de la société Noran, et ainsi, s’il est conclu qu’une telle erreur a été commise, il s’agirait d’un cas d’erreur mutuelle. L’erreur mutuelle empêche la formation d’un accord de volonté et a pour conséquence de rendre nulle l’entente apparente conclue entre les parties.
+[55] Par conséquent, il faut trancher la question de savoir si M. Ayers, agissant pour le compte de la société Noran, agissait en fonction d’une ou plusieurs croyances erronées lorsqu’il a signé l’entente. Afin de statuer à cet égard, je dois tenir compte de ce qu’avaient compris M. Ayers et Mme Wolde‑Mariam, qui représentait le ministre. C’est l’approche qui est énoncée dans l’arrêt Ghitter, en ces termes :
+[traduction]
+[16] En outre, pour déterminer si une erreur alléguée est de nature à invalider la prétendue entente, la Cour doit être convaincue qu’il y a bel et bien eu une erreur clé. La question de savoir si des parties à une prétendue entente ont agi en fonction d’une croyance erronée relativement à certains éléments du contrat exige que l’on tienne compte de ce qu’elles ont chacune compris à l’époque pertinente. C’est à l’égard de ce point que le juge de première instance a, à juste titre, examiné l’intention subjective de Beaver et de Ghitter au moment de la signature de la convention d’achat […][18]
+[56] M. Ayers affirme qu’il croyait que la renonciation s’appliquait non seulement à l’égard de la nouvelle cotisation établie pour la société Noran, mais aussi à l’égard de sa nouvelle cotisation personnelle et de celle de PPHL. Il a ajouté qu’il avait compris qu’il ne s’agissait que d’une résolution de la question concernant l’évaluation, et que lui, la société Noran et PPHL n’acceptaient pas un règlement de toutes les questions en suspens.
+[57] Je ne suis pas convaincu que l’intention de M. Ayers ait été que la renonciation s’applique à lui personnellement, à PPHL ainsi qu’à la société Noran. Malgré la déclaration de M. Ayers dans son affidavit à cet égard, une telle intention est loin d’être compatible avec le libellé de la renonciation. Il est difficile d’accepter le fait que M. Ayers, après avoir lu la renonciation, ait pu croire que celle‑ci s’appliquait à qui que ce soit d’autre qu’à la société Noran. Bien que la société Noran n’ait pas été précisément mentionnée, la renonciation parle très clairement d’un seul contribuable. À la première ligne, il est mentionné un seul avis d’opposition ainsi que le revenu non déclaré de 639 760 $ à l’égard duquel la pénalité a été imposée en vertu du paragraphe 163(2) de la Loi, ce qui ne concernait que la société Noran. Le [traduction] « revenu net antérieur » et [traduction] l’« ajout au revenu ayant fait l’objet d’une cotisation antérieure » sont aussi des chiffres qui ont été tirés de la nouvelle cotisation établie à l’égard de la société Noran. Même si M. Ayers n’était pas au courant des montants qui avaient été utilisés dans la nouvelle cotisation antérieure établie à l’égard de la société Noran, il demeure évident, à mon avis, qu’un seul contribuable et une seule nouvelle cotisation étaient visés par l’entente. Il est également difficile de concilier la déclaration de M. Ayers quant à ce qu’il avait compris avec l’absence de toute mention dans la renonciation d’un avantage conféré à l’actionnaire ou de la TPS, qui étaient les éléments sur lesquels portaient les nouvelles cotisations établies à l’égard de M. Ayers et de PPHL. Pour ces motifs, il semble fort improbable que l’intention de M. Ayers ait été que la renonciation s’applique à trois contribuables.
+[58] Je souscris à l’avis de l’avocate de l’intimée selon lequel il faudrait tirer une conclusion défavorable du défaut de la société Noran de fournir des éléments de preuve provenant de Mme Foot. Il ressort de l’affidavit de M. Ayers que celui‑ci avait eu des discussions avec Mme Foot durant la période où Mme Foot et Mme Wolde‑Mariam négociaient le règlement, et il est raisonnable de croire qu’ils auraient discuté du règlement proposé avant que M. Ayers ne signe l’entente de règlement. Le défaut de la société Noran de fournir des éléments de preuve provenant de Mme Foot m’amène à conclure que ces éléments de preuve, en ce qui concerne la manière dont M. Ayers avait compris le règlement, n’auraient pas été favorables à la société Noran.
+[59] La deuxième prétendue erreur porte sur la ou les questions visées par l’entente de règlement. M. Ayers affirme qu’il n’avait pas l’intention de concéder la question concernant la propriété bénéficiaire des unités 111 et 408. Toutefois, cette question n’a pas été soulevée dans l’avis d’opposition de la société Noran que M. Ayers avait signé. Je ne vois pas comment M. Ayers aurait pu croire qu’une question qui n’avait même pas été soulevée dans l’avis d’opposition survivrait à la renonciation.
+[60] M. Ayers déclare également qu’il n’avait pas l’intention de conclure une entente de règlement visant la question de la pénalité pour faute lourde et qu’il n’était pas au courant du fait que cette question était abordée dans la renonciation. Au paragraphe 65 de son affidavit, il affirme ce qui suit :
+[traduction]
+65. Après avoir relu la première lettre que j’ai signée, je l’ai notamment relue aux fins de la souscription du présent affidavit, je constate qu’elle mentionne des pénalités pour faute lourde. Toutefois, au moment où j’ai signé la première lettre, je ne comprenais pas ou ne croyais pas que j’acceptais l’imposition de pénalités pour faute lourde à l’égard de la société, de PPHL ou de moi‑même.
+[61] Néanmoins, il ressort très clairement de la renonciation que la question de la pénalité était un élément du règlement qui faisait l’objet de l’entente. La seule manière possible d’expliquer le fait que M. Ayers ait pu manquer cet élément serait qu’il n’ait pas lu la partie de l’entente qui s’y rapportait. Si une partie choisit de ne pas lire attentivement une entente avant de la signer, ou qu’elle choisit de ne pas lire certaines parties de l’entente, je ne vois pas comment elle peut se raviser et prétendre que l’entente écrite ne reflétait pas son intention. Il faut présumer que, en pareilles circonstances, la partie avait l’intention d’accepter l’entente telle qu’était rédigée.
+[62] Pour ces motifs, je conclus que la société Noran n’a pas réussi à prouver l’existence d’une erreur clé qui invalide l’entente conclue entre les parties en ce qui concerne la renonciation.
+[63] La société Noran avance ensuite que le ministre n’a pas respecté les conditions de la renonciation parce que la pénalité pour faute lourde n’a pas été correctement calculée dans la nouvelle cotisation établie conformément à l’entente. Selon l’avocat de la société Noran, cela porte atteinte à l’engagement de celle‑ci de ne pas interjeter appel à l’égard de quelque question que ce soit contenue dans la renonciation. Il se fonde sur la décision Rainville c. La Reine[19], rendue par la Cour dans le cadre de la procédure informelle.
+[64] Dans la décision Rainville, le contribuable avait renoncé à son droit d’opposition ou d’appel à l’égard de l’inclusion d’un avantage conféré à un actionnaire dans son revenu pour l’année d’imposition 1993. L’avantage consistait en des avances reçues de sa société ainsi qu’aux intérêts y afférents. En contrepartie de la renonciation du contribuable, le ministre a accepté de traiter le prêt que le contribuable avait consenti à sa société comme un remboursement des avances qu’il avait reçues de la société. Dans la nouvelle cotisation qui a été établie après la renonciation, le ministre a accepté la déduction concernant le remboursement des avances, mais il l’a acceptée pour l’année d’imposition 1996 du contribuable. Le ministre a alors effectué un report rétrospectif d’une perte autre qu’une perte en capital à l’année d’imposition 1993 du contribuable. Cela a donné lieu à l’établissement d’un montant important d’intérêts pour le contribuable, parce que l’impôt pour son année d’imposition 1993 demeurait exigible jusqu’à l’année où le report de perte est survenu. Le contribuable a interjeté appel à l’encontre de la nouvelle cotisation en se fondant sur le fait que la déduction concernant le prêt aurait dû être appliquée à son année d’imposition 1993 plutôt qu’à son année d’imposition 1996, parce qu’il avait consenti le prêt à sa société en 1993. Le ministre a fait valoir que le contribuable avait renoncé à son droit d’appel. La juge Lamarre Proulx a examiné la renonciation pour déterminer la véritable entente intervenue entre les parties. La juge Lamarre Proulx a conclu que l’intention du contribuable et du vérificateur de l’ARC était que le prêt soit considéré dans le calcul du revenu du contribuable pour son année d’imposition 1993 plutôt que pour son année d’imposition 1996. La juge Lamarre Proulx a fait les observations suivantes au paragraphe 20 de la décision Rainville :
+Comme je suis d’avis que dans la présente affaire, l’entente commune des parties est celle qui est proposée par l’appelant, la cotisation sur ce point n’est pas conforme à l’entente et l’appelant a droit d’en appeler pour cette partie[20].
+[65] Selon mon interprétation, cette décision autorise un contribuable à interjeter appel à l’égard d’une nouvelle cotisation établie après une renonciation seulement dans la mesure où il y a contradiction entre la renonciation et la nouvelle cotisation. Elle ne permet pas à un contribuable d’invoquer n’importe quelle contradiction entre la nouvelle cotisation et la renonciation pour interjeter appel à l’égard d’un quelconque aspect de la nouvelle cotisation comme si aucune renonciation n’avait été faite. Il n’est pas logique qu’une erreur commise dans l’établissement d’une nouvelle cotisation, si minime soit‑elle, puisse permettre à un contribuable de répudier la renonciation dans son ensemble.
+La renonciation était-elle inique?
+[66] Un autre argument soulevé par l’avocat de la société Noran était que la Cour devrait refuser d’exécuter la renonciation compte tenu du fait qu’elle est inique. Il a soutenu que la société Noran avait reçu un avantage minime en contrepartie de la renonciation à ses droits d’appel en vertu de l’entente.
+[67] Le caractère inique de la renonciation est un argument sur lequel on n’a pas beaucoup insisté et, à mon avis, il n’est pas fondé. Dans la décision Matheson Estate v. Stefankiw[21], le juge Zarzcenzy, de la Cour du Banc de la Reine de la Saskatchewan, a fait l’observation suivante : [traduction] « […] la partie qui allègue l’iniquité d’un contrat cherche à obtenir un redressement à l’égard d’un avantage injuste découlant du fait qu’une partie a profité inéquitablement de la situation de force dans laquelle elle se trouvait par rapport à l’autre ». En l’espèce, aucun élément de preuve n’a laissé penser que la société Noran, représentée par Mme Foot, une comptable générale accréditée, était la partie la plus faible dans la négociation de la renonciation ni que Mme Mariam‑Wolde avait inéquitablement profité de son pouvoir.
+La société Noran interjette‑t-elle appel à l’égard de questions non visées par la renonciation?
+[68] Le dernier argument de la société Noran visant à faire rejeter la requête de l’intimée tient au fait qu’elle interjette appel à l’égard d’autres questions que celles qui sont abordées dans la renonciation.
+[69] L’avocat de la société Noran soutient que la renonciation doit être interprétée de façon stricte à l’encontre du ministre, et que toute ambiguïté doit être dissipée en faveur de la société Noran. Si l’on se fonde sur cet argument, le premier paragraphe de la renonciation devrait être interprété comme étant limité à une renonciation du droit d’opposition ou d’appel à l’égard de la détermination de la juste valeur marchande des unités à la date de disposition. Ce paragraphe est ainsi rédigé :
+[traduction]
+1. Le montant ajouté au revenu et provenant de la disposition en faveur de personnes ayant un lien de dépendance des unités condominiales no 106, 111, 204, 316 et 408 situées au 15621 Marine Drive, à White Rock, en C.‑B.
+[70] L’avocat de la société Noran avance que ce paragraphe devrait être interprété en fonction de ce que M. Ayers avait compris, à savoir qu’il ne renonçait à ses droits d’appel qu’à l’égard de la question concernant l’évaluation.
+[71] Le deuxième paragraphe de la renonciation est ainsi rédigé :
+[traduction]
+2. Confirmer l’application d’une pénalité pour faute lourde au revenu non déclaré de 589 760 $.
+[72] L’avocat de la société Noran fait valoir une interprétation littérale de cette disposition et affirme qu’elle n’interdit à la Société Noran que d’en appeler d’une pénalité si cette pénalité est calculée sur le revenu non déclaré de 639 760 $. Étant donné que le revenu non déclaré a été réduit au moyen de la nouvelle cotisation, et que la pénalité a été calculée sur le montant réduit, il n’est pas interdit à la société Noran d’interjeter appel à l’encontre de la pénalité.
+[73] Je ne puis accepter l’interprétation des deux dispositions de la renonciation que l’avocat de la société Noran me demande de retenir. La démarche qu’il convient d’adopter pour interpréter une renonciation aux droits d’appels est, à mon avis, la même que celle concernant une renonciation faite par un contribuable pour permettre au ministre d’établir une nouvelle cotisation après l’expiration de la période normale de cotisation, ainsi que cela est énoncé dans la décision Solberg, précitée, à savoir qu’il faut « vérifier l’intention que les parties y ont exprimée en tenant compte de toutes les circonstances pertinentes au sujet desquelles il existe une preuve[22] ». La Cour d’appel fédérale a approuvé cette démarche dans l’arrêt Mitchell c. Canada[23].
+[74] Lorsqu’il faut rechercher l’intention des parties, je crois que la recherche de cette intention dans le cas d’une renonciation doit être effectuée de la même manière que pour n’importe quel autre contrat, à savoir en fonction de l’intention exprimée des parties. Cette intention est déterminée du point de vue d’un spectateur objectif et raisonnable. Dans l’ouvrage Law of Contract in Canada[24], Fridman parle de la formulation classique de cette notion qui est citée dans la décision Smith v. Hughe[25], en ces termes :
+[traduction]
+Peu importe l’intention véritable d’une personne dont le comportement ferait croire à quelqu’un de raisonnable qu’elle a consenti aux conditions proposées par l’autre partie, si son comportement mène l’autre partie à s’engager envers elle par contrat sur la foi de cette conviction, elle est liée par le contrat au même titre que si elle avait réellement eu l’intention de donner son accord aux conditions proposées par l’autre partie.
+[75] À mon avis, la formulation du premier paragraphe de la renonciation ne peut pas avoir le sens que propose l’avocat de la société Noran. Rien n’indique que la question est limitée à la détermination de la juste valeur marchande des unités. Compte tenu du langage clair et sans équivoque utilisé, l’intention subjective de M. Ayers ne saurait prévaloir.
+[76] En ce qui concerne le deuxième paragraphe, je conclus que l’intention des parties, du point de vue d’une personne raisonnable et objective, était que la société Noran ne contesterait pas l’imposition de la pénalité pour faute lourde sur le montant convenu du revenu non déclaré provenant de la disposition d’unités en faveur de personnes ayant un lien de dépendance. Je conclus que la mention du montant de 639 760 $ plutôt que de 589 760 $ est, tout comme dans la décision Solberg, « un vice matériel qui ne nuit pas à la substance de la renonciation[26] » au droit de s’opposer à la pénalité pour faute lourde ou d’interjeter appel à cet égard.
+Conclusion
+[77] Pour les motifs exposés ci‑dessus, la requête présentée par l’intimée en vue d’obtenir l’annulation de l’avis d’appel de la société Noran est accueillie et les dépens sont adjugés à l’intimée.
+Signé à Vancouver (Colombie‑Britannique), ce 12e jour de décembre 2012.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 27e jour de mars 2013.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2012 CCI 434
+No DU DOSSIER DE LA COUR : 2011-2274(IT)G
+INTITULÉ : NORAN WEST DEVELOPMENTS LTD. c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 12 décembre 2011
+MOTIFS DE L’ORDONNANCE : L’honorable juge B. Paris
+DATE DE L’ORDONNANCE : Le 12 décembre 2012
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Alistair G. Campbell
+Me Michelle Moriartey
+Avocates de l’intimée :
+Me Jasmine Sidhu
+Me Selena Sit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Alistair G. Campbell
+Michelle Moriartey
+Cabinet : Legacy Tax & Trust Lawyers
+Vancouver (Colombie‑Britannique)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Affidavit de Menen Wolde‑Mariam, pièce « G ».
+[2] (1920) 61 R.C.S. 312.
+[3] [1926] 4 D.L.R. 1052.
+[4] 92 D.T.C. 6448 (C.F. 1re inst.), 1992 CarswellNat 326, au paragraphe 13.
+[5] [2003] 2 C.F. 767.
+[6]Galway v. M.N.R., [1974] C.T.C. 454 (C.A.F.) et Cohen v. The Queen, [1980] C.T.C. 318 (C.A.F.)
+[7] Voir : Karen Sharlow (maintenant juge à la Cour d’appel fédérale) « Keeping Revenue Canada in Line », Report of Proceedings of Forty-Ninth Tax Conference, 1997 Tax Conference (Toronto : Fondation canadienne de fiscalité, 1998) 13 :1‑13.
+[8] Cohen v. The Queen, précité, note 6.
+[9] Le juge en chef Jackett, dans la décision Galway v. M.N.R., précitée, note 6, au paragraphe 7.
+[10] Affidavit de Menen Wolde‑Mariam, pièce « A », à la page 1
+[11] Cette politique a été modifiée depuis lors. L’ARC a renoncé à l’utilisation d’exercices fictifs pour les coentreprises. Voir : CRA Views, Interpretation 2011-0429581E5 (Opinion de l’ARC, Interprétation 2011-0429581E5), 29 novembre 2011.
+[12] 5e éd. (Toronto, CCH Canadian Ltd.) 2006.
+[13] 2010 CCI 572, au paragraphe 35.
+[14] 6 C.P.C. (3d) 189 (Cour de justice de l’Ontario (Division générale))
+[15] 26e éd. (London : Sweet & Maxwell, 1990)
+[16] 2003 A.B.C.A. 221, au paragraphe 8.
+[17] Ibid.
+[18] Ibid.
+[19] [2002] 2 C.T.C. 2786.
+[20] Ibid.
+[21] (2000), 191 Sask. R. 241, au paragraphe 253.
+[22] Précité, note 4.
+[23] 2002 CAF 407, au paragraphe 37.
+[24] 6e éd., (Toronto : Thomson Carswell).
+[25] (1871) L.R. 6 B.R. 597, au paragraphe 607. Ce passage a été cité par la Cour suprême du Canada dans l’arrêt St. John Tugboat Co. v. Irving Refining Ltd,. [1964] R.C.S. 614, au paragraphe 622.
+[26] Précité, note 4.

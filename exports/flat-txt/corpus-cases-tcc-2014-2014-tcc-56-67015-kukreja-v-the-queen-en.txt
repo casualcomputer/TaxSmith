@@ -1,0 +1,180 @@
+Title: Kukreja v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/67015/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-56-67015-kukreja-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-02-24
+
+# Kukreja v. The Queen
+
+- Citation: 2014 TCC 56
+- Decision date: 2014-02-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5965, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kukreja v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-02-24
+Neutral citation
+2014 TCC 56
+File numbers
+2013-2774(GST)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-2774(GST)I
+BETWEEN:
+SUJATA KUKREJA,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+____________________________________________________________________
+Appeal heard on January 29, 2014, at Toronto, Ontario.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Agent for the appellant:
+Danesh Luthra
+Counsel for the respondent:
+Lindsay Beelen
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated February 2, 2012, is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at Halifax, Nova Scotia, this 24th day of February 2014.
+“Gaston Jorré”
+Jorré J.
+Citation: 2014 TCC 56
+Date: 20140224
+Docket: 2013-2774(GST)I
+BETWEEN:
+SUJATA KUKREJA,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+Introduction
+[1] This is an appeal relating to the goods and services tax/harmonized sales tax new housing rebate.
+[2] In 2009 the appellant signed an agreement of purchase and sale for a house to be constructed, the Thorndale property.
+[3] Although the purchase closed the appellant never moved into the property.
+[4] The issue in this appeal is whether, at the time the appellant signed the agreement, she was purchasing the house with the intention of using it as her primary place of residence.[1]
+[5] If the answer is yes, then the appeal should be allowed and the appellant is entitled to the new housing rebate. If the answer is no, the appeal should be dismissed.
+[6] This case turns entirely on the facts. The appellant testified, as well as her husband, her brother-in-law and her mother-in-law.
+[7] It is well established that, when it is necessary to determine intention, one must consider not only the individual’s stated intention but also all the surrounding factual circumstances.
+The Evidence
+[8] It will be useful to first set out where the appellant actually lived and what properties were bought or rented over the course of several years.
+Residences/Properties
+2003-2009
+[9] From some time in 2003 until approximately September 2009, the appellant and her family lived with her brother-in-law and his family as well as her mother‑in-law in a house on Reindeer Crescent.
+2009
+[10] Some time prior to September 2009, the appellant and her family became aware that the brother-in-law intended to sell the house on Reindeer Crescent.
+[11] As a result, the appellant’s husband agreed to purchase a house to be constructed on Thorndale Road. Subsequently, her husband decided that the appellant should be the purchaser of the house and she signed an agreement of purchase and sale with respect to the Thorndale house on August 20, 2009, the purchase price being $525,000. The purchase was to close over a year later. Subsequently, in May 2010, the price was increased to $540,000 because the appellant had opted for certain upgrades to the home.
+[12] Around September 2009, the brother-in-law moved to a house on Mallory Road. After spending a short period at the brother-in-law’s new residence, the appellant and her family moved into a rental apartment at 420 Greenview Road for about one year.
+2010
+[13] In October 2010, the appellant and her family moved to India owing to financial difficulties that arose because of problems in the family business.
+[14] The appellant gave her brother-in-law a power of attorney to complete the purchase of the Thorndale property.
+[15] The purchase of the Thorndale property closed on November 25, 2010; the brother-in-law and sister-in-law used funds they had as well as funds they borrowed on their lines of credit to complete the purchase of the Thorndale property on behalf of the appellant.
+[16] Because the brother-in-law and sister-in-law needed to repay the large amounts they had borrowed on lines of credit in order to close the purchase of the Thorndale property, the appellant had to repay them quickly and the brother-in-law was therefore instructed to put the property up for sale.
+2011
+[17] It is not clear exactly when the appellant’s husband returned from India to Canada, but this took place prior to the appellant’s return and may have been at the very end of 2010 or in early 2011.
+[18] On January 19, 2011, an offer to purchase the Thorndale property was received and the sale by the appellant of the Thorndale property closed in February 2011.[2]
+[19] The appellant sold the property for a price slightly more than $100,000 more than her purchase price. According to the appellant, the gain was actually less than that because of various expenses, but even allowing for expenses, the appellant made a significant gain.
+[20] While the precise date is not clear from the evidence, around the end of the appellant’s stay in India in 2010, or soon after her return, the appellant agreed to purchase a house on Daden Oaks Drive.
+[21] Initially, upon returning from India the appellant and her family again lived with her brother-in-law for a couple of months.
+[22] They could not move to Daden Oaks Drive at that time because, according to the testimony, the house was delayed.[3]
+[23] They then tried to rent a dwelling, but were unable to do so because of the husband’s credit rating, so the appellant then bought a condo unit on Eglinton Avenue. The family moved into the condo unit.
+2012
+[24] In April 2012, the appellant’s purchase of the Daden Oaks property closed and the appellant and her family moved there. The statement of adjustments for the Daden Oaks property[4] shows the appellant as having received the GST/HST new housing rebate in respect of that property.
+[25] The appellant and her husband being unable to carry both the Eglinton property and the Daden Oaks property, the Eglinton property was sold to generate funds. The evidence does not disclose when the Eglinton property was sold.
+Stated Intention
+[26] Both the appellant and her husband stated that their intention had been to move into the house on Thorndale Road. They expected to have no difficulty obtaining a mortgage in time for the closing.
+[27] The appellant knew that at the time she had a good credit rating and was sure she could get a mortgage.
+[28] The appellant’s husband testified that he had decided that they should buy the house, and that at the time the business was going well and he foresaw no difficulty getting a mortgage. However, he also testified that he had a binding contract to buy and that, because his business was starting to have difficulties, he decided to take his name out of the contract and have the appellant contract for the purchase of the house in his place; however, he still thought it might work out.
+[29] Neither the appellant nor her husband had lined up mortgage financing at the time of the agreement of purchase and sale. Neither of them had made a budget or an estimate of what their monthly home ownership costs would be.
+[30] They also expected the appellant’s mother-in-law to move in with them and contribute toward the monthly expenses, although not to the purchase of the house.
+[31] According to the appellant and her husband, their plan to move into the house was thwarted because of (i) financial problems in the family business, problems that brought the business to an end, (ii) their inability to get a mortgage, and (iii) the decision of the mother-in-law to continue living with the brother‑in‑law.
+[32] The appellant’s mother-in-law testified that she had intended to move in with them and would have contributed toward the monthly expenses, but not to the purchase of the house.
+[33] The mother-in-law decided to stay with the brother-in-law when it became clear that the appellant and her family were not going to move into the Thorndale house.
+Other Circumstances
+Family Income
+[34] At this point, I should mention that it was the appellant’s repeated testimony that in all financial matters she trusted and relied on her husband. She simply did not involve herself in financial matters. Her husband made the financial decisions, including those relating to the purchase of a home. She went along with his decisions.
+[35] The only source of family income was the family business, part of which was operated by a proprietorship and part of which was incorporated. The proprietorship belonged to the appellant’s husband while the incorporated company belonged to the appellant.[5] One was called Mr. Golfshirt while the other was called Mr. Golfshirts.
+[36] The incorporated company was a retail business and acquired most of its goods from the proprietorship.
+[37] The appellant worked for the incorporated company and reported the following income:
+Year
+Income
+2005
+$8,250
+2006
+$8,500
+2007
+$9,500
+2008
+$12,500
+2009
+$12,000
+2010
+$12,000
+2011
+$12,500
+[38] The appellant’s husband reported a gross income of $78,200 and a net income of $13,148 from his proprietorship in 2009; the proprietorship was his only source of income in 2009. At the beginning of 2009, the business had $51,600 in inventory. During the year it bought $8,100 in inventory, and at the end of 2009 it had no inventory whatsoever.[6]
+[39] In 2010 the appellant’s husband reported no gross or net income from the proprietorship and no other income of any kind. Clearly, the proprietorship had ceased operating some time before 2010.[7]
+[40] With respect to 2008, the appellant’s husband testified that, although at one point the Canada Revenue Agency had claimed that he had earned an income for that year of about $65,000, they subsequently accepted that his income was about $9,700. He stated that $9,700 was the correct amount.
+[41] The mother-in-law testified that she might have been able to contribute $400 or $500 a month toward the expenses.
+[42] There was no evidence about the financial state of the incorporated company. The husband said that the company had ceased operations and that its accounts had not been brought up to date. I also note that at one point the husband testified that they did not take anything out of the company.
+[43] There was no evidence showing that the appellant or her husband had in the past saved up a large sum of money.[8]
+Other
+[44] The floor plan for the Thorndale house shows it to have a floor area of some 3,800 square feet, with six bedrooms (one of which is a loft), four full bathrooms and a powder room.
+[45] When the appellant was asked how many bedrooms and bathrooms there were in the house, she had no idea. When the mother-in-law was asked, she said four bedrooms.
+Analysis
+[46] I do not accept the appellant’s evidence of her intention for two reasons.
+[47] The first and primary reason is the following. In 2008, the year before the purchase, the appellant and her husband had a combined income of under $23,000. In 2009, the year the appellant signed the purchase agreement, they had a combined income of under $26,000. It is also clear that the financial difficulties of the business started some time during that year.
+[48] I do not think that the appellant or her husband, who also had two children at the time, could reasonably have expected that they would have been able to pay all their other living expenses and also finance the purchase of a $500,000 house, even with very low interest rates and with the modest assistance the mother-in-law could provide.
+[49] Although the appellant and her husband testified that the business had been going well, the evidence does not show that it had been generating the kind of income that could support such a purchase.
+[50] The husband suggested that they were perhaps dreamers and that this explained their unrealistic expectations as well as the business difficulties he had had. I do not accept that they would have been unrealistic to that degree.
+[51] Although, in itself, it would not be persuasive, my second reason is that it is unlikely that the appellant would not remember the number of bedrooms and bathrooms in the house. The prospect of acquiring a large house of their own would have been an exciting one for the family, and I would expect the appellant to remember significant features such as the fact that they would have six bedrooms, more than enough bedrooms for everyone.
+Conclusion
+[52] Given that I do not accept the appellant’s evidence of intention, it follows that she did not purchase the Thorndale house with the intention of using it as her primary place of residence, and the appeal must be dismissed.
+Signed at Halifax, Nova Scotia, this 24th day of February 2014.
+“Gaston Jorré”
+Jorré J.
+CITATION: 2014 TCC 56
+COURT FILE NO.: 2013-2774(GST)I
+STYLE OF CAUSE: SUJATA KUKREJA v. THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 29, 2014
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: February 24, 2014
+APPEARANCES:
+Agent for the appellant:
+Danesh Luthra
+Counsel for the respondent:
+Lindsay Beelen
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] This is one of the requirements for eligibility for the new housing rebate. It is contained in paragraph 254(2)(b) of the Excise Tax Act, which reads as follows:
+(2) Where
+(a) . . .
+(b) at the time the particular individual becomes liable or assumes liability under an agreement of purchase and sale of the [home] . . . between the builder and the particular individual, the particular individual is acquiring the [home] for use as the primary place of residence of the particular individual or a relation of the particular individual,
+(c) . . .
+[2] Exhibit A-6 is an agreement of some sort with the real estate broker. While the date on which it was signed by, or on behalf of, the vendor (the appellant) is very hard to read, part of it looks like “Dec”, which I take to be a reference to December 2010.
+[3] The house was bought from the same company as that which had sold them the Thorndale property. Neither the appellant nor her husband stated why it was delayed, but I assume that it was the construction of the house that was delayed.
+[4] Exhibit R-3.
+[5] The husband testified regarding the ownership history of the company. It was the following. Originally he founded it with a relative and they were both owners; then two other persons also became owners and, subsequently, after certain difficulties, the appellant became the sole owner. Later on in his testimony he stated that, after the appellant had become the owner, he became the sole owner again for a time, and finally his wife became the sole owner.
+[6] Exhibit R-5, page 2 of the Statement of Business or Professional Activities attached to the husband’s T1 return.
+[7] Exhibit R-4, page 2.
+[8] When pressed as to the source of the $30,000 deposit for the Thorndale house, the appellant’s husband said it was paid through credit lines; he also said that they were “inventory rich”, although I do not understand how that would help given (i) that, in the case of the proprietorship, the inventory was sold off in 2009 since the tax return shows that there was no inventory at year‑end, and (ii) that, in the case of the incorporated company, the husband stated that they never took any money out of that corporation, and the only income from the corporation is that shown in the appellant’s tax return. A little later in his testimony, the appellant’s husband said that, as they had paid some of the expenses relating to the Reindeer Crescent house, they received some of the money from the sale of that property. He never quantified this, however, and the appellant’s brother-in-law was never questioned on this point.

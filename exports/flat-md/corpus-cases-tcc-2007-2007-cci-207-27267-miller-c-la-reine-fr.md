@@ -1,0 +1,268 @@
+---
+title: "Miller c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27267/index.do"
+last_modified: "2007-04-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 207"
+citation2: ""
+neutral_citation: "2007 CCI 207"
+decision_date: "2007-04-10"
+language: "fr"
+item_id: "27267"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 808
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:47:13.683000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1abfaf978b3bdfd5e82c2a328ee2b23774d97bc3e3796d65ac81ff7a53d71d61"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Miller c. La Reine
+
+- Citation: 2007 CCI 207
+- Decision date: 2007-04-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 808, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Miller c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-10
+Référence neutre
+2007 CCI 207
+Numéro de dossier
+2006-2189(IT)G
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006‑2189(IT)G
+ENTRE :
+RONALD JAMES MILLER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue sur preuve commune avec la requête de
+R. J. Miller & Associates (1986) Ltd. (2006-2190(IT)G,
+le 9 mars 2007, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Theodore E. Margeson
+Comparutions :
+Avocat de l’appelant :
+Me Howard F. Peet
+Avocate de l’intimée :
+Me Linda Bell
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l’intimée en vue d’obtenir une ordonnance de la Cour radiant l’avis d’appel de l’appelant ou, subsidiairement, une ordonnance accordant à l’intimée 30 jours à compter de la date de l’ordonnance pour produire la réponse de l’intimée à l’avis d’appel;
+Vu l’affidavit de Susan Wong qui a été déposé;
+La requête est accueillie, avec dépens, et l’avis d’appel est radié dans sa totalité.
+Signé à New Glasgow (Nouvelle-Écosse), ce 10e jour d’avril 2007.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 19e jour de mars 2008.
+Michèle Ledecq, réviseure
+Dossier : 2006‑2190(IT)G
+ENTRE :
+R.J. MILLER & ASSOCIATES (1986) LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue sur preuve commune avec la requête de
+Ronald James Miller (2006-2189(IT)G,
+le 9 mars 2007, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Theodore E. Margeson
+Comparutions :
+Avocat de l’appelante :
+Me Howard F. Peet
+Avocate de l’intimée :
+Me Linda Bell
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l’intimée en vue d’obtenir une ordonnance de la Cour radiant l’avis d’appel de l’appelante ou, subsidiairement, une ordonnance accordant à l’intimée 30 jours à compter de la date de l’ordonnance pour produire la réponse de l’intimée à l’avis d’appel;
+Vu l’affidavit de Susan Wong qui a été déposé;
+La requête est accueillie, avec dépens, et l’avis d’appel est radié dans sa totalité.
+Signé à New Glasgow (Nouvelle-Écosse), ce 10e jour d’avril 2007.
+« T.E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 19e jour de mars 2008.
+Michèle Ledecq, réviseure
+Référence : 2007CCI207 Date : 20070410
+Dossier : 2006 2189(IT)G
+ENTRE :
+RONALD JAMES MILLER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2006 2190(IT)G
+ET ENTRE :
+R. J. MILLER & ASSOCIATES (1986) LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Margeson
+[1] Il s’agit d’une requête présentée par l’intimée en vue d’obtenir une ordonnance en vertu des alinéas 53b) et c) des Règles de la Cour canadienne de l’impôt (Règles générales) (les « Règles ») radiant l’avis d’appel de l’appelant ou, subsidiairement, une ordonnance en vertu de l’article 12 des Règles accordant à l’intimée 30 jours à compter de la date de l’ordonnance pour produire la réponse de l’intimée à l’avis d’appel.
+[2] La requête invoque comme motifs que l’acte de procédure de l’appelant est scandaleux, frivole ou vexatoire ou constitue un recours abusif à la Cour. Subsidiairement, il serait juste et équitable dans les circonstances d’accorder à l’intimée une prorogation de délai de 30 jours à compter de la date de l’ordonnance pour produire la réponse à l’avis d’appel.
+[3] L’appelant a interjeté appel à la Cour canadienne de l’impôt en rapport avec des cotisations relatives à ses années d’imposition 1992, 1993 et 1994. L’appel de l’appelant relatif à 1992 a été rejeté. Les appels relatifs à 1993 et 1994 ont été accueillis conformément au jugement et aux motifs de jugement de la Cour canadienne de l’impôt datés du 2 janvier 2001, signés par le juge C.H. McArthur, C.C.I.
+[4] L’appelante a interjeté appel de la décision de la Cour canadienne de l’impôt auprès de la Cour d’appel fédérale, mais seulement concernant la question de la déduction pour amortissement de R. J. Miller & Associates (1986) Ltd. (la « société ») et les dépens. L’appel a été rejeté le 1er mars 2002. Le jugement est daté du 1er mars 2002, et les motifs de l’ordonnance relative à l’appel de l’appelant à la Cour d’appel fédérale ont été rendus.
+[5] En bref, les appels interjetés par Ronald James Miller (« M. Miller ») à l’encontre des nouvelles cotisations d’impôt établies relativement aux années d’imposition 1992, 1993 et 1994 ont été accueillis au motif que, dans le calcul de son revenu, M. Miller avait le droit de déduire les dépenses d’entreprise indiquées en rapport avec les conclusions relatives aux armes à feu. L’appel de la société à l’encontre de la nouvelle cotisation relative à l’année se terminant le 29 février 1992 a été rejeté parce qu’aucune question n’avait été soulevée relativement à 1992, et l’appel interjeté par la société à l’encontre de la nouvelle cotisation concernant les années se terminant les 28 février 1993 et 1994 a été accueilli, et la nouvelle cotisation a été renvoyée au ministre du Revenu national (le « ministre ») pour réexamen et établissement d’une nouvelle cotisation en conformité avec les motifs du jugement. Le juge de première instance a affirmé ce qui suit :
+Vu la manière dont les montants ont été présentés, je n’entreprendrai pas de faire les calculs dans le cas présent. Je compte sur les deux parties pour qu’elles déterminent les montants selon mes motifs et, si elles n’arrivent pas à s’entendre, elles pourront me présenter des observations pour que je rende une décision à ce sujet.
+[6] Par lettre datée du 8 mai 2002, l’intimée a proposé des montants aux fins de l’établissement d’une nouvelle cotisation en conformité avec les motifs du jugement du juge McArthur.
+[7] Par lettre datée du 27 juin 2002, l’appelant a répondu en communiquant ses propositions de montants.
+[8] Par lettre datée du 20 octobre 2003, l’intimée a répondu à la proposition de l’appelant du 27 juin 2002, indiquant qu’elle était essentiellement d’accord avec les montants proposés par l’appelant – à quelques exceptions près, qu’elle mentionnait –, et elle a avisé l’appelant du revenu imposable révisé anticipé.
+[9] Par lettre datée du 11 décembre 2003, l’appelant a soulevé des questions quant à l’application de crédits au titre de la RS&DE [recherche scientifique et développement expérimental] se rapportant à des années d’imposition autres que celles qui avaient fait l’objet de l’appel en matière fiscale entendu par le juge McArthur.
+[10] Par lettre datée du 30 janvier 2004, l’intimée a répondu à la lettre de l’appelant datée du 11 décembre 2003; elle a traité des préoccupations de l’appelant et lui a demandé son approbation écrite des montants en cause dans cet appel.
+[11] Par lettre datée du 26 février 2004, l’appelant a réitéré sa position et a cherché de nouveau à amener le ministre à consentir à évaluer les montants se rapportant à des années autres que celles visées par l’appel.
+[12] Par lettre datée du 9 mars 2004, l’intimée a avisé l’appelant qu’elle avait accepté les chiffres proposés par l’appelant relativement aux montants visés par l’appel. L’intimée a également avisé l’appelant que sa lettre du 27 juin 2002 et la lettre de l’intimée du 20 octobre 2003 étaient considérées comme constituant l’entente entre les parties conformément aux instructions données par la Cour canadienne de l’impôt dans les motifs du jugement.
+[13] Par lettre datée du 10 mars 2004, l’appelant a répondu à la lettre de l’intimée du 9 mars 2004 et, entre autres choses, a demandé des déclarations de précotisation et a affirmé qu’il n’acceptait pas l’établissement de cotisations sur le fondement de la lettre préliminaire datée du 27 juin 2002 et de la lettre de l’intimée datée du 20 octobre 2003.
+[14] Par lettres datées des 18 et 22 mars et du 5 avril 2004, l’appelant a exposé ses préoccupations concernant l’application de crédits d’impôt au titre de la RS&DE se rapportant à des années non visées par l’appel et le calcul d’intérêts sur le solde d’impôt impayé, et il a communiqué son estimation du solde d’impôt impayé dans sa lettre du 5 avril 2004.
+[15] Par lettre datée du 27 mai 2004, l’intimée a avisé l’appelant que le ministre acceptait que les montants soient rajustés en ce qui avait trait aux années d’imposition visées par l’appel conformément aux annexes que l’appelant avait jointes à sa lettre datée du 5 avril 2004. En outre, l’intimée a avisé l’appelant que des avis de nouvelle cotisation seraient émis en conséquence.
+[16] L’appelant a répondu par deux lettres datées du 27 mai 2004, et il a affirmé sa position au paragraphe 5 de la première lettre :
+[traduction]
+5. ... L’ordonnance a des répercussions sur des années subséquentes, et il s’ensuit que les résultats de l’application des termes de l’ordonnance à ces années ont comme conséquence que ces années font partie intégrante de ce sur quoi une entente doit intervenir aux fins du règlement de cette ordonnance.
+[17] Par lettres datées du 23 et du 28 juillet 2004, l’appelant a fourni des annexes révisées indiquant ses calculs des soldes à payer.
+[18] Par lettre datée du 29 juillet 2004, l’intimée a communiqué à l’appelant des avis de nouvelles cotisations pro forma indiquant les calculs d’impôt net à payer après déduction des montants convenus relativement aux années visées par l’appel.
+[19] Par lettre datée du 29 juillet 2004, l’appelant a répondu à la lettre de l’intimée du même jour et a affirmé au cinquième paragraphe :
+[traduction]
+Cette ordonnance de la Cour de l’impôt n’a pas été réglée et ne sera pas réglée tant que l’ADRC ne nous aura pas fourni des états de compte complets pour les deux contribuables pour les années d’imposition 1992 jusqu’aux années en cours respectivement, indiquant ce qui figure actuellement dans leurs dossiers (avant toute nouvelle cotisation) ainsi que les pro forma convenus, et ce, en la forme et pour les périodes demandées précédemment. Tant que l’ordonnance n’est pas réglée, les nouvelles cotisations ne peuvent pas être établies. C’est aussi simple que cela.
+[20] L’appelant a aussi fait savoir dans l’avant-dernier paragraphe de sa lettre qu’il avait congédié son avocat.
+[21] Le ministre a établi des nouvelles cotisations à l’égard de l’appelant relativement à ses années d’imposition 1993 et 1994 par voie d’avis de nouvelle cotisation datés du 27 août 2004.
+[22] L’appelant interjette appel de ces cotisations devant la Cour canadienne de l’impôt.
+[23] Les avis d’appel à la Cour canadienne de l’impôt ont été produits le 25 juillet 2006.
+[24] L’avocate a soutenu que l’appel de Ronald James Miller était vexatoire ou constituait un recours abusif pour les motifs suivants :
+a) la Cour n’a pas compétence sur les questions soulevées aux paragraphes 2, 3, 4, 6 et 11 de l’avis d’appel;
+b) les paragraphes 2, 3 et 4 de l’avis d’appel n’énoncent pas les faits pertinents sur lesquels se fonde la cause d’action;
+c) la demande formulée par l’appelant au paragraphe 5 constitue un recours abusif puisque l’appelant aurait pu demander un redressement à la Cour avant que les avis de nouvelle cotisation soient émis.
+[25] En outre, l’appel de la société est vexatoire ou constitue un recours abusif pour les motifs suivants :
+a) la Cour n’a aucune compétence à l’égard des reports rétrospectifs de pertes dont il est question aux paragraphes 1 à 7, 16, 17 et 23 de l’avis d’appel;
+b) aucun fait pertinent n’est plaidé relativement aux paragraphes 8 à 11 et 18 de l’avis d’appel;
+c) la Cour n’a aucune compétence à l’égard des questions de comptabilité soulevées aux paragraphes 12 à 14, 19 et 24 de l’avis d’appel;
+d) la demande formulée par l’appelante aux paragraphes 15 et 20 de l’avis d’appel constitue un recours abusif puisqu’elle aurait pu demander un redressement à la Cour avant que les avis de nouvelle cotisation soient émis.
+[26] L’avocate a cité l’article 53 des Règles, qui est ainsi rédigé :
+53. La Cour peut radier un acte de procédure ou un autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour.
+[27] L’avocate de l’intimée a soutenu que, suivant l’application correcte de l’article 53 des Règles, un acte de procédure sera radié s’il est évident et manifeste qu’il n’a aucune chance de succès. Le pouvoir de radier doit être exercé avec beaucoup de circonspection. Cela a été confirmé dans Gauthier v. R., 2006 CarswellNat 1460 (C.C.I.).
+[28] Elle a soutenu en outre que le juge n’a pas pour fonction de remanier les actes de procédure. Toutefois, il incombe à la Cour de procéder à un examen approfondi d’un acte de procédure avant de déterminer qu’il ne peut être sauvegardé par des modifications appropriées. Elle doit décider si un document est si vicié qu’il défie toute correction par simple modification. Voir Nelson v. Canada, (Customs & Revenue Agency) 2001 CarswellNat 2270 (C.F. 1re inst.). Compte tenu de ce qui précède, l’avocate a soutenu que l’appel de M. Miller en matière fiscale était vexatoire ou constituait un recours abusif parce que les questions soulevées aux paragraphes 2, 3, 4, 6 et 11 de l’avis d’appel sont des questions à l’égard desquelles la Cour n’a aucune compétence. Elle n’a pas le pouvoir d’accorder les mesures de redressement demandées. Par conséquent, ces paragraphes devraient être radiés en vertu de l’article 53 des Règles puisqu’ils sont vexatoires ou constituent un recours abusif.
+[29] L’avocate a cité Hardtke v. R., 2005 CarswellNat 1065 (C.C.I.). Dans cette affaire, la Cour a statué que la Loi de l’impôt sur le revenu (la « Loi ») n’habilite pas la Cour à examiner les méthodes employées par le ministre pour établir des cotisations. Or, c’est précisément ce qui est demandé dans les paragraphes dont la radiation est demandée.
+[30] Un état de compte n’est pas une cotisation. Non plus que le « solde impayé » que peut inclure un avis de cotisation. Le « solde impayé » est le résultat d’une cotisation, pas un des résultats de l’impôt, des intérêts et des pénalités à payer. L’avocate a cité Ruffolo v. R., 2000 CarswellNat 881 (C.A.F.). Elle a aussi exprimé l’avis qu’une contestation de l’intérêt imposé en vertu du paragraphe 161(1) de la Loi se limitait à la question de savoir s’il y avait une erreur dans le calcul mathématique ou si le calcul avait été fait sur le fondement de principes erronés. Voir J. Cloud v. Canada, 1994 CarswellNat 1277 (C.C.I.). Par conséquent, les paragraphes 2, 3, 4, 6 et 11 de l’avis d’appel devraient exposer les faits, les questions soulevées et le redressement demandé relativement à la question des intérêts.
+[31] Au paragraphe 2 de l’avis d’appel, l’appelant n’allègue pas que l’intérêt imposé aux termes de l’avis de cotisation comporte des erreurs. Il y affirme plutôt que les états de comptes établis à partir de l’avis de nouvelle cotisation étaient inexacts et comportaient des erreurs dans le calcul des intérêts. Ainsi, l’appel ne vise pas les nouvelles cotisations, mais plutôt les états de compte. Or, il n’existe pas de droit d’appel d’un état de compte.
+[32] Au paragraphe 3 de l’avis d’appel, l’appelant évoque le solde résultant. Cette allégation se rapporte vraisemblablement à l’état de compte. Cependant, même si elle se rapportait au solde indiqué dans l’avis de nouvelle cotisation, il ne s’agit pas d’une question qui peut faire l’objet d’un appel en vertu des dispositions de la Loi.
+[33] Pour ce qui est du paragraphe 4 de l’avis d’appel, le fait que l’appelant n’ait pas pu vérifier les calculs de l’Agence du revenu du Canada quant à l’intérêt ou à l’affectation d’anciens paiements ne constitue pas, en soi, un motif de contestation de la validité de la nouvelle contestation.
+[34] La mesure de redressement que l’appelant demande au paragraphe 11 de l’avis d’appel consiste à ordonner la déclaration comptable détaillée de la dette due à la Couronne et non à déterminer les éléments ayant donné lieu à la dette. Or, une action en détermination d’une dette due à la Couronne relève de la compétence de la Cour fédérale et non de la Cour de l’impôt. L’avocate cite l’article 222 de la Loi à l’appui de cette proposition. Enfin, elle soutient que l’appel de l’appelant n’est pas un appel d’une cotisation imposant des intérêts relativement aux années d’imposition 1992, 1993 et 1994, mais une tentative de contraindre le ministre de produire une déclaration comptable détaillée de la dette qui lui est due. La Cour n’a aucune compétence sur les questions soulevées par l’appelant aux paragraphes 2, 3, 4, 6 et 11 de l’avis d’appel; ces paragraphes devraient donc être radiés au motif qu’ils sont vexatoires.
+[35] L’appelant n’a pas plaidé les faits pertinents sur lesquels il s’appuie en rapport avec l’intérêt imposé relativement aux années d’imposition 1992, 1993 et 1994. Ils sont donc vexatoires et devraient être radiés.
+[36] L’appel constitue un recours abusif. Au paragraphe 5 de l’avis d’appel, l’appelant a affirmé qu’il ne consentait pas aux nouvelles cotisations qu’avait ordonnées la Cour de l’impôt en réponse à son appel relatif à ses années d’imposition 1992, 1993 et 1994, et il énonce les questions à cet égard aux paragraphes 7 et 8.
+[37] Si l’appelant n’a pas accepté les nouvelles cotisations ou n’y a pas consenti, ce n’est pas parce que les parties ne s’étaient pas entendues sur les montants à cotiser – ce sur quoi elles se sont entendues –, mais plutôt parce que les parties ne parvenaient pas à s’entendre pour dire qu’une dette reliée à des années d’imposition ultérieures aux années d’imposition visées par l’appel était pertinente aux fins des nouvelles cotisations qui devaient être établies en conformité avec le jugement.
+[38] L’avocate a soutenu que la correspondance indiquait clairement que les parties s’étaient entendues sur le calcul relatif aux avantages conférés. En outre, si l’appelant n’était pas d’accord avec les rajustements proposés du revenu net imposable, il aurait pu présenter une requête à la Cour de l’impôt pour que le juge McArthur tranche la question, comme le prévoyait le jugement lui-même. Or, l’appelant a omis de le faire, et il cherche maintenant à faire valoir ses prétentions en prétextant d’un soi-disant appel des avis de nouvelles cotisations émises à la suite du jugement de la Cour de l’impôt. Il s’agit d’un recours abusif à la Cour.
+[39] Toutes ces clauses devraient être radiées.
+[40] Quant à l’appel de R.J. Miller & Associates (1986) Ltd., cet appel est vexatoire ou constitue un recours abusif pour les motifs suivants :
+a) la Cour n’a aucune compétence à l’égard des reports rétrospectifs de pertes dont il est question aux paragraphes 1 à 7, 16, 17 et 23 de l’avis d’appel;
+b) aucun fait pertinent n’est plaidé relativement aux paragraphes 8 à 11 et 18 de l’avis d’appel;
+c) la Cour n’a aucune compétence à l’égard des questions de comptabilité soulevées aux paragraphes 12 à 14, 19 et 24 de l’avis d’appel;
+d) la demande de l’appelante aux paragraphes 15 et 20 de l’avis d’appel est un recours abusif puisque l’appelante aurait pu demander un redressement à la Cour avant que les avis de cotisation soient émis.
+[41] Encore une fois, l’avocate a invoqué la décision Hardtke v. R., précitée, à l’appui de sa prétention selon laquelle la Cour de l’impôt n’a pas compétence sur les questions soulevées dans l’appel en ce qui a trait au report rétrospectif de pertes. L’acte de procédure peut être radié en vertu de l’article 53 des Règles soit parce qu’il est vexatoire, soit parce qu’il constitue un recours abusif, soit parce qu’il est tellement futile qu’il n’a pas la moindre chance de succès. Par conséquent, il est frivole et vexatoire.
+[42] La compétence de la Cour de l’impôt est décrite à l’article 12 de la Loi sur la Cour canadienne de l’impôt et à l’article 171 de la Loi de l’impôt sur le revenu. La Cour a compétence pour entendre les appels de cotisations ou de nouvelles cotisations à l’encontre desquelles le contribuable a produit un avis d’opposition. L’appel interjeté par l’appelante relativement à ses années d’imposition 1993 et 1994 est assujetti aux restrictions prévues au paragraphe 169(2) puisqu’il s’agit en l’espèce d’un appel d’un avis de nouvelle cotisation émis en conformité avec une ordonnance de la Cour renvoyant cette cotisation au ministre pour établissement d’une nouvelle cotisation et réexamen.
+[43] Selon la jurisprudence, la restriction prévue au paragraphe 169(2) empêche un contribuable de soulever, relativement à une année d’imposition, des questions qui auraient dû être soulevées dans l’appel original devant la Cour. Le principe de l’autorité de la chose jugée s’applique. Voir Armstrong c. Canada, 2006 DTC 6310, 2006 CAF 119.
+[44] Il est clair en l’espèce que l’appelante n’a pas soulevé la question des reports rétrospectifs de pertes pour les années d’imposition 1993 et 1994 parce que, d’après les paragraphes 1 et 3 de l’avis d’appel, ce n’est qu’après le prononcé du jugement de la Cour de l’impôt en 2001 qu’elle a décidé de réclamer les pertes au cours d’années suivantes. La Cour de l’impôt aurait pu disposer de la question des reports rétrospectifs de pertes si l’appelante avait choisi de produire sa déclaration de revenus de manière cohérente et si elle avait réclamé des reports rétrospectifs de pertes. L’appelante ne peut pas soulever maintenant la question des reports rétrospectifs pour les années d’imposition 1993 et 1994 de pertes d’années subséquentes dans le cadre d’un appel qui est assujetti aux restrictions énoncées au paragraphe 169(2).
+[45] En tout état de cause, même si les reports rétrospectifs de pertes de 1995 à 1998 constituent des questions qui peuvent être soulevées dans le cadre du présent appel, la Cour n’a pas compétence pour ordonner au ministre d’établir une nouvelle cotisation à l’égard des années d’imposition 1995 à 1998 de l’appelante de manière à donner effet aux déclarations de revenu modifiées qui ont été produites.
+[46] Les pertes alléguées découlent de déclarations de revenus modifiées produites par l’appelante. Le ministre n’a pas établi de nouvelle cotisation à l’égard de l’appelante à la suite de la production des déclarations de revenus modifiées et il ne peut pas être contraint de le faire.
+[47] Une déclaration de revenus modifiée visant une année qui a fait l’objet d’un avis de cotisation n’entraîne pas d’obligation pour le ministre d’établir une nouvelle cotisation, non plus qu’il ne renouvelle les délais de prescription prévus par la loi qui commencent à courir lorsque des déclarations de revenus relatives à une année donnée sont produites puis donnent lieu à un avis de cotisation. Une déclaration de revenus modifiée vaut simplement demande au ministre d’établir une nouvelle cotisation à l’égard de l’année en cause. Voir l’arrêt Armstrong, précité.
+[48] La Cour n’a pas le pouvoir d’ordonner au ministre d’établir une cotisation ou d’établir une détermination de perte relativement aux déclarations modifiées produites par l’appelante pour les années d’imposition 1995 à 1998. Ce pouvoir relève de la Cour fédérale, au titre de son pouvoir de contrôle judiciaire. Si le contribuable demande une détermination de perte, il doit s’adresser à la Cour fédérale pour demander un contrôle judiciaire si le ministre refuse ou omet d’établir une détermination. Cependant, une telle demande ne peut réussir si les conditions prévues par la loi relativement à une détermination de perte ne sont pas remplies. Encore une fois, voir l’arrêt Armstrong, précité.
+[49] Par conséquent, la Cour n’a aucune compétence et ne peut pas accorder la mesure de redressement que l’appelante demande. Ces paragraphes devraient être radiés de l’avis d’appel.
+[50] L’appelante soutient que les paragraphes 8 à 11 et 18 de l’avis d’appel de la société se rapportent à de la RS&DE. Cependant, ils n’énoncent aucun fait pertinent susceptible de fonder une cause d’action relevant de la compétence de la Cour de l’impôt. Par conséquent, les quatre paragraphes devraient tous être radiés au motif qu’ils sont vexatoires. Voir O’Neil v. M.N.R., 1994 CarswellNat 825 (C.F. 1re inst.), 95 DTC 5060, et la décision Gauthier, précitée.
+[51] L’avocate a soutenu qu’une contestation de l’intérêt imposé en vertu du paragraphe 161(1) de la Loi se limitait à la question de savoir s’il y avait une erreur dans le calcul mathématique ou si le calcul avait été fait sur le fondement de principes erronés. Voir la décision J. Cloud v. Canada, précitée.
+[52] Les paragraphes 12 à 14 et les paragraphes 19 et 24 de l’avis d’appel concernent des questions de comptabilité. L’appelante ne conteste pas la validité de la nouvelle cotisation, non plus qu’elle n’allègue une erreur mathématique spécifique dans le calcul des intérêts. Dans ces paragraphes, l’appelante soulève des questions relatives au calcul de sa dette, ce qui relève de la compétence exclusive de la Cour fédérale ou d’un autre tribunal compétent, mais n’est pas du ressort de la Cour de l’impôt. Voir l’article 222 de la Loi de l’impôt sur le revenu.
+[53] Par conséquent, les paragraphes 12 à 14 et les paragraphes 19 et 24 de l’avis d’appel devraient être radiés au motif qu’ils sont vexatoires.
+[54] Pour ce qui concerne le paragraphe 15 de l’avis d’appel, l’avocate a soutenu que l’intimée avait accepté le montant proposé par l’appelante relativement aux dépenses déductibles pour la division des armes à feu de l’appelante, et l’intimée a établi une nouvelle cotisation à l’égard de l’appelante sur ce fondement en conformité avec les motifs du jugement du juge McArthur. En conséquence, il y a eu une entente entre les parties quant aux montants devant fonder l’établissement d’une nouvelle cotisation, et l’intimée s’est conformée au jugement du juge McArthur.
+[55] En tout état de cause, si l’appelante n’était pas véritablement d’accord avec les rajustements proposés, alors que selon l’intimée elle a exprimé son accord sur ce point, il lui était loisible de présenter une requête à la Cour de l’impôt pour que le juge McArthur tranche la question. Or, l’appelante a omis de le faire, et elle cherche maintenant à faire valoir ses prétentions en prétextant d’un soi-disant appel des avis de nouvelle cotisation émis à la suite du jugement de la Cour de l’impôt. Cela constitue clairement un recours abusif à la Cour, et le paragraphe 15 de l’avis d’appel devrait être radié.
+[56] L’avocate a abordé la question de savoir si elle avait droit ou non à une prorogation du délai imparti pour produire une réponse à l’avis d’appel dans l’hypothèse où la Cour rejetterait sa requête. Cependant, l’avocat de l’intimé n’a pas soulevé d’objection à cet égard, et par conséquent, l’avocate n’a pas présenté d’autres arguments sur ce point.
+[57] En conclusion, l’avocate de l’intimée a exprimé l’avis que toutes les requêtes devraient être accueillies et que les avis d’appel devraient être radiés dans leur totalité.
+[58] Dans sa plaidoirie, l’avocat de l’appelant n’a pas contesté qu’il y avait eu une entente au sujet des montants qui devaient fonder l’établissement d’une nouvelle cotisation. Cependant, il a affirmé que l’appelant tenait fermement à ce que ses cotisations d’impôt soient établies correctement. Et il était soucieux de s’en assurer. L’avocat de l’appelant a ajouté qu’il n’y avait pas de contestation quant au critère à appliquer. S’il n’y a aucune chance de succès, l’affaire ne devrait pas être instruite, mais il soutient qu’il y aurait peut-être lieu en l’espèce de permettre une modification de sorte que l’affaire puisse être instruite.
+[59] L’appelant n’est pas parvenu à concilier les comptes. Il a dit que le paragraphe 4 de l’acte de procédure de l’appelant constituait le cœur de sa thèse. Ce paragraphe énonce que le calcul de M. Low indique que l’appelant devait la somme de 75 872,55 $, ce qui représente un écart de 23 266,28 $ en faveur de l’appelant par rapport au relevé fourni par l’ARC, qui indique un solde payable par l’appelant au montant de 99 098,83 $.
+[60] L’avocat a contesté l’argument avancé par l’avocate de l’intimée selon lequel il s’agit d’une question de comptabilité et la Cour n’a aucune compétence à cet égard. Il a cité J. Cloud v. Canada, précitée, à l’appui de cette prétention. Il a soutenu que, s’il y avait eu une erreur, la Cour pouvait en faire l’examen. La cause précitée, lorsqu’on la considère à la lumière de l’affaire George Pothitos v. M.N.R., 60 DTC 6376, étaye cette prétention. Cette affaire concernait une question technique, et la Commission a statué qu’elle avait compétence pour trancher la question en appel parce qu’il n’y avait aucun autre moyen de faire réviser une nouvelle cotisation qui déplaisait au contribuable. Le contribuable serait sans recours si l’établissement de la nouvelle cotisation n’était pas rigoureusement conforme aux motifs du jugement l’ordonnant. Même s’il ne s’agit pas d’un calcul, la Cour a le pouvoir de s’y pencher et d’ordonner les correctifs indiqués.
+[61] L’avocat a dit que l’appelant était d’accord quant aux montants, mais qu’il n’était pas d’accord quant à la méthode. Il croyait que le ministre aurait dû retourner devant la Cour de l’impôt, mais ce dernier a refusé de le faire. L’avocat de l’appelant a convenu que la question relative aux intérêts s’était présentée seulement après que soit intervenue l’entente relative aux montants.
+[62] L’avocat a formulé l’interrogation suivante : si la Cour ne peut pas trancher cette affaire, alors à qui peut s’adresser l’appelant? Il est peut-être trop tard pour qu’il demande un contrôle judiciaire.
+[63] L’intimée avait le fardeau de soumettre la question à la Cour de l’impôt.
+[64] Pour ce qui a trait à l’appel personnel de Ronald James Miller, l’avocat n’était pas en désaccord quant aux montants. L’appelant croyait qu’il avait encore le droit de faire en sorte que le ministre le cite devant la Cour de l’impôt. Par conséquent, il a accepté l’ordonnance proposée par l’intimée. La question de la comptabilité demeure en suspens.
+[65] Quant à la question des intérêts, l’avocat a convenu qu’il revient au ministre de décider de renoncer ou non aux intérêts. L’avocat a demandé à la Cour d’accorder à l’appelant un délai pour lui permettre de présenter ses propres calculs à la Cour à des fins d’examen.
+[66] Pour ce qui regarde l’appel de la société, le contribuable a dit qu’il y avait deux ententes avec l’ARC, soit l’entente Suleman et l’entente Thong, et que ces ententes pouvaient être examinées et ne devraient pas être radiées. Il a dit que le ministre avait accepté de permettre que les dépenses soient inscrites et ne soient pas réclamées dans les déclarations de revenus, de sorte qu’elles pouvaient maintenant être examinées, et ce, même si aucun avis d’opposition n’avait été produit à leur égard. Il a cité Entrac Property Corporation v. The Queen, 95 DTC 391, à l’appui de cette prétention.
+[67] En outre, concernant la question de la détermination comptable, l’avocat a plaidé qu’il y a des questions qui sont traitées dans le rapport de l’expert et que la Cour devrait en tenir compte. La question de la détermination comptable peut être examinée afin que l’on puisse vérifier l’exactitude des calculs relatifs aux intérêts.
+[68] L’avocat a formulé cette prétention même s’il a convenu qu’il ne pouvait pas indiquer où les calculs étaient erronés.
+[69] De manière générale, l’appelant n’était pas d’accord avec la nouvelle cotisation. Il croit qu’il aurait dû être cité de nouveau devant la Cour. Si la Cour décide que l’affaire peut être instruite, l’appelant devrait être autorisé à modifier son acte de procédure.
+[70] En réponse, l’intimée a soutenu que c’est le contribuable qui dispose d’un droit d’appel devant la Cour de l’impôt. Le ministre n’a aucune obligation de ramener l’affaire devant la Cour de l’impôt. En tout état de cause, la seule question qui subsistait après la décision du juge était la détermination des avantages qui pouvaient être accordés au contribuable.
+[71] Il n’y avait aucune question relative aux intérêts au moment où l’entente est intervenue. En outre, la Cour n’est pas saisie d’autres questions, comme des dépenses se rapportant à d’autres années.
+Décision sur la requête
+[72] La Cour est convaincue que cette requête doit être accueillie.
+[73] Comme l’a indiqué l’avocat de l’appelant dans sa plaidoirie, l’appelant tient fermement à ce que ses cotisations d’impôt soient établies correctement, et il est soucieux de s’en assurer. Il a convenu qu’il n’y avait aucune contestation quant au critère à appliquer pour déterminer si l’avis d’appel devait être radié ou non. Il a convenu que, s’il n’y avait aucune chance de succès, l’affaire ne devrait pas être instruite si la Cour ne permettait pas aux appelants de modifier leurs avis d’appel.
+[74] En somme, l’appelant est insatisfait parce que, après qu’il eut conclu une entente avec le ministre concernant les montants à inclure dans la cotisation, il ne parvenait pas à rapprocher le solde impayé allégué par le ministre et le montant que son expert avait conclu qu’il devait. L’appelant considère que les montants figurant sous l’onglet D ne représentent qu’un compte courant.
+[75] Le cœur de la thèse de l’appelant tient précisément à ce que les calculs de M. Lowe indiquaient une différence de quelque 23 226,28 $ entre ses calculs et ceux du ministre. L’appelant veut que ces calculs soient pris en compte, et il veut retourner devant la Cour de l’impôt à cette fin. Cependant, la Cour est convaincue qu’elle n’a aucune compétence à cet égard puisqu’il s’agit d’une question de calcul et que cela relève de la Cour fédérale.
+[76] La Cour accueille les arguments formulés par l’avocate de l’intimée. L’avocat de l’appelant a affirmé dans sa plaidoirie que les appelants se souciaient davantage de la forme que du fond. Malheureusement, la Cour ne peut pas intervenir à cet égard.
+[77] La Cour est convaincue, relativement à l’appel de Ronald James Miller, que l’avis d’appel devrait être radié dans sa totalité. La Cour n’a pas compétence à l’égard des questions soulevées aux paragraphes 2, 3, 4, 6 et 11 de l’avis d’appel, et aucun fait pertinent pouvant servir de fondement à la cause d’action n’a été énoncé.
+[78] La demande formulée au paragraphe 5 de l’avis d’appel est un recours abusif à la Cour puisque l’appelant aurait pu demander un redressement à la Cour avant que les nouvelles cotisations soient établies. En tout état de cause, la Cour est convaincue que l’appelant a convenu des montants sur lesquels les cotisations devaient se fonder en conformité avec l’ordonnance du juge, bien qu’il n’ait pas consenti à ce que l’ARC procède unilatéralement à leur comptabilisation conformément au jugement.
+[79] La Cour est convaincue que, même si l’appelant n’a pas consenti aux nouvelles cotisations, ce n’était pas parce que les parties ne s’étaient pas entendues sur les montants devant servir de fondement à l’établissement d’une nouvelle cotisation en conformité avec les motifs du jugement, mais plutôt parce que les parties ne parvenaient pas à s’entendre sur la pertinence ou la non‑pertinence de l’impôt à payer relativement à des années d’imposition ultérieures à celles visées par l’appel. Cela ne constituait pas un motif valable pour refuser de consentir aux nouvelles cotisations, et le ministre pouvait procéder.
+[80] La Cour est convaincue que l’argument de l’appelant est mal fondé lorsqu’il soutient que le ministre avait l’obligation de revenir devant la Cour pour que le juge McArthur rende un jugement sur la question. L’appelant ne peut pas faire valoir sa réclamation maintenant en se pourvoyant en appel.
+[81] Pour ce qui concerne l’appel de R.J. Miller & Associates (1986) Ltd., la Cour est tout à fait d’accord avec la position de l’avocate de l’intimée, et elle est convaincue que cet appel est vexatoire et constitue un recours abusif. La Cour est convaincue qu’elle n’a aucune compétence à l’égard des reports rétrospectifs de pertes évoqués aux paragraphes 1 à 7, 16, 17 et 23 de l’avis d’appel. Encore une fois, la Cour est convaincue qu’aucun fait pertinent n’est plaidé relativement aux paragraphes 8 à 11 et 18 de l’avis d’appel.
+[82] La Cour est convaincue qu’elle n’a aucune compétence à l’égard des questions de comptabilité soulevées aux paragraphes 12 à 14, 19 et 24 de l’avis d’appel. Elle n’admet pas l’argumentation de l’appelante à cet égard. La Cour est convaincue que les demandes de l’appelante aux paragraphes 15 et 20 de l’avis d’appel constituent un recours abusif. L’appelante avait le droit de demander un redressement à la Cour avant que les avis de nouvelle cotisation soient émis.
+[83] En conclusion, la requête est accueillie, avec dépens, et les avis d’appel sont radiés dans leur totalité.
+Signé à New Glasgow (Nouvelle-Écosse), ce 10e jour d’avril 2007.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 19e jour de mars 2008.
+Michèle Ledecq, réviseure
+RÉFÉRENCE : 2007CCI207
+NOS DE DOSSIER DE LA COUR : 2006‑2189(IT)G, 2006‑2190(IT)G
+INTITULÉ DE LA CAUSE : RONALD JAMES MILLER
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 9 mars 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge T.E. Margeson
+DATE DU JUGEMENT : Le 10 avril 2007
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Howard F. Peet
+Avocate :
+Me Linda Bell
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom : Me Howard F. Peet
+Cabinet : Bishop & Company
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,216 @@
+Title: McCartie v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/344907/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-185-344907-mccartie-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-09-19
+
+# McCartie v. The Queen
+
+- Citation: 2018 TCC 185
+- Decision date: 2018-09-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4937, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McCartie v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-09-19
+Neutral citation
+2018 TCC 185
+File numbers
+2016-2716(IT)G, 2016-2717(GST)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2016-2716(IT)G
+2016-2717(GST)G
+BETWEEN:
+COLIN MCCARTIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on June 27, 2018, at Nanaimo, British Columbia
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Max Matas
+Jamie Hansen
+ORDER
+IN ACCORDANCE with the attached reasons for order, the Appellant’s application that certain questions be determined pursuant to section 58 of the Tax Court of Canada Rules (General Procedure) is denied with costs payable to the Respondent in accordance with the applicable Tariff.
+Signed at Toronto, Ontario, this 19th day of September 2018.
+“R.S. Bocock”
+Bocock J.
+Citation: 2018 TCC 185
+Date: 20180919
+Dockets: 2016-2716(IT)G
+2016-2717(GST)G
+BETWEEN:
+COLIN MCCARTIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bocock J.
+I. Introduction
+[1] The Appellant, Colin McCartie (“Mr. McCartie”), brings this application under section 58 of the Tax Court of Canada Rules (General Procedure), (“Rule 58”) for the determination of certain questions (the “Rule 58 Questions”) to be posed to a motion judge in advance of a full trial. Mr. McCartie submits his proposed questions concern the admissibility of evidence which the Minister of National Revenue (the “Minister”) relied upon in support of the reassessments before this Court in both Mr. McCartie’s income tax and goods and service tax (“GST”) appeals.
+A. Reassessments
+[2] In April 2011, Mr. McCartie was reassessed for income tax and GST concerning unreported income for respective taxation and reporting years within the 2005-2009 period (the “appeal years”), inclusive. Thereafter, in 2012, Mr. McCartie was charge with tax evasion also covering the appeal years. His appeals before this Court were held in abeyance pending the criminal proceedings concerning the tax evasion charges.
+B. Previous Proceeding for Income Tax Evasion
+[3] During the criminal proceedings, a large body of evidence seized during various searches of Mr. McCartie’s residence and office was ruled inadmissible for the purposes of those proceedings. Judge Gouge of the Provincial Court of British Columbia made many findings concerning the inadmissibility of evidence [1] . Mr. McCartie asserts that certain of those determinations are relevant to this Rule 58 motion: the date the predominate purpose of the investigation of the Canada Revenue Agency (the “CRA”) changed could not be determined; Mr. McCartie was denied a review of the search warrant at the time of the search; and a fair criminal trial on certain counts could not proceed without certain lost documents. While there was much more to it, the criminal charges were not stayed by the judge. Instead, the trial proceeded without admission of the tainted and excluded evidence. While evidence obtained by search warrant during a second audit phase was excluded, other evidence was allowed. Ultimately, Mr. McCartie and his co-accused wife were acquitted on all counts.
+[4] As can be seen below, the roots of the requested Rule 58 Questions below are directly linked to Mr. McCartie’s assertion that the exclusion of evidence from the criminal proceedings, owing to the violation of his section 7 and 11 rights within of the Canadian Charter of Rights and Freedoms, s 15, Part I of the Constitution Act, 1982, being Schedule B to the Canada Act 1982 (UK), 1982, c 11 (the “Charter”), should cause this Court to entertain the Rule 58 Questions. If determined in his favour, Mr. McCartie believes the result would effectively exclude all such evidence (the “impugned evidence”). In these tax appeals, this is asserted under 24(2) of the Charter. Further, as is seen in proposed Question #4, Mr. McCartie wishes the Court to determine the question of “vacating” the Income Tax and GST assessments pursuant to subsection 24(1) of the Charter.
+C. The Rule 58 Questions
+[5] As early as a status hearing conference call in March and May 2017, held before examinations for discoveries, Mr. McCartie raised a Rule 58 Question concerning the admissibility of the impugned evidence. This very Court in an Order dated May 2, 2017 stated, among other things the following:
+WHEREAS a status hearing conference call was held on March 7, 2017;
+AND WHEREAS the parties mutually agreed upon dates for the completion of the remaining pre-trial steps;
+[…]
+AND WHEREAS at such status hearing the Appellant expressed his wish to file an application under Rule 58 of the Rules (“Rule 58 Question”);
+AND WHEREAS no list of documents had been exchanged nor examinations for discovery had then yet occurred;
+AND WHEREAS the Court advised the Appellant that the existence of a certain, established question of law, fact or mixed law and fact raised in the pleadings or a question of admissibility was a pre-condition to the hearing of an application in the nature of a Rule 58 Question;
+AND WHEREAS the Court advised the Appellant that in absence of an established question or issue of admissibility of evidence for trial, a Rule 58 Question would be premature and inchoate;
+AND WHEREAS on April 18, 2017, the Appellant filed an application for the hearing of a Rule 58 Question to determine, among other things, whether the Appellant’s rights under section 24(1) Part I of the Canadian Charter of Rights and Freedoms, The Constitution Act, 1982, being Schedule B to the Canada Act 1982 (UK), 1982, c 11 (the “Charter”), had been violated, whether such evidence obtained in alleged violation of the Charter be excluded, whether the “usual presumption of correctness” afforded the Minister be set aside and whether the examination for discovery of the Appellant be cancelled or limited;
+AND WHEREAS such relief sought by a Rule 58 Question is premature, dispositive, requires the presentation of evidence and/or relates to determinations properly heard and made by a trial judge;
+NOW THEREFORE THIS COURT ORDERS THAT:
+1. the timetable order of March 16, 2017 remains in full force and effect and the parties shall comply with the terms thereof; and
+2. the Appellant’s request for the hearing of an application of a Rule 58 Question is premature and shall not be considered by this Court until the completion of the litigation steps enumerated in paragraphs 1, 2 and 3 of the Order dated March 16, 2017.
+[6] The Court, and coincidentally this judge, will now entertain and determine whether Mr. McCartie’s stage 1 Rule 58 application to consider the Rule 58 Questions should be granted.
+D. The Appellant’s Proposed Rule 58 Questions
+[7] The proposed Rule 58 Questions submitted by Mr. McCartie are as follows:
+What evidence was relied on for the assessment under appeal?
+Was the “evidence” relied on for the assessments obtained in violation of the Appellant’s Charter rights?
+If yes, should that evidence be excluded from this proceeding under section 24(2) of the Canadian Charter of Rights and Freedoms?
+d. If the evidence is excluded, is it appropriate and just in the circumstances for the assessments of tax relevant to this reference to be vacated by virtue of subsection 24(1) of the Canadian Charter of Rights and Freedoms?
+II. The Law and Jurisprudence
+[8] The Court makes some preliminary and perhaps obvious observations. Firstly, it is quite possible some, but not all, of the Rule 58 Questions, are suitable Rule 58 questions. Secondly, the Court’s discretion may be exercised to re-format or re-phrase the Rule 58 Questions it may approve. Finally, in issuing any such Rule 58 order, the Court may determine the question, give directions relating to its determination, including directions as to oral or other evidence, documents and timing for service, time and place and other appropriate directions: section 58(3) of the Rules.
+A. What Does Rule 58 Provide?
+[9] Rule 58 now provides [2] :
+58 (1) On application by a party, the Court may grant an order that a question of law, fact or mixed law and fact raised in a pleading or a question as to the admissibility of any evidence be determined before the hearing.
+(2) On the application, the Court may grant an order if it appears that the determination of the question before the hearing may dispose of all or part of the proceeding or result in a substantially shorter hearing or a substantial saving of costs.
+(3) An order that is granted under subsection (1) shall
+(a) state the question to be determined before the hearing;
+(b) give directions relating to the determination of the question, including directions as to the evidence to be given — orally or otherwise — and as to the service and filing of documents;
+(c) fix time limits for the service and filing of a factum consisting of a concise statement of facts and law;
+(d) fix the time and place for the hearing of the question; and
+(e) give any other direction that the Court considers appropriate.
+A concise and helpful summary of why and how this occurred is provided by Justice Owen in Paletta v HMQ [3] .
+B. The Jurisprudence
+[10] Any application brought under Rule 58 is a two-step process. First, at stage 1, the Court must decide whether the question is appropriately dealt with under Rule 58 and, if so, the record and evidence to be heard. This step is the one now before this Court. Second, if Rule 58 is to be utilized, at stage 2, the Court will hear arguments and decide the question or questions to be heard.
+[11] At stage 1, three requirements must be met:
+(i) the question proposed must be a question of law, fact or mixed law and fact or be a question as to the admissibility of any evidence;
+(ii) the question must be raised in a pleading; and
+(iii) it appears that the determination of the question before the hearing may dispose of all or part of the proceeding, result in a substantially shorter hearing or result in a substantial saving of costs.
+[12] The applicant bringing the motion bears the onus to show that these requirements are fulfilled. Other considerations may figure into the Court's decision to grant an order under Rule 58. The Court has the discretion to ponder other factors than those set out in subsections 58(1) and (2), together with all the circumstances of the case. Likewise, the decision to grant an order under Rule 58 is highly discretionary and the fact that a question may meet the requirements in subsections 58(1) and (2) does not compel the Court to grant such order.
+[13] The main focus is to decide whether the second and third requirements are met, as the first requirement embodies all the possibilities of what form a question could take.
+[14] With respect to the second requirement, the proposed question must be properly raised as an issue in the pleadings, as it is insufficient for the question to be merely referred to in the pleadings.
+[15] As to the third requirement, this requirement is not satisfied if only one of two possible answers would lead to the desired results or where it will do so only if it is answered in a particular way.
+[16] In Paletta, Justice Owen stated that the changes to the text and structure of Rule 58 in the 2014 amendments, when compared to the previous version, are sufficient to warrant a fresh consideration of Rule 58 as it now exists [4] . Given the broader more inclusive wording, he held that a Rule 58 motion should not automatically fail to meet the third requirement because one possible answer to the question would not lead to one or more of the desired results [5] . This should rather be a factor for the Court to ponder in its discretion to hear a Rule 58 motion [6] . The case was affirmed on appeal [7] . Justice Visser in 2078970 Ontario Inc. [8] agreed with Paletta and stated that while earlier cases dealing with previous versions of Rule 58 may still be of assistance, they should be considered cautiously and distinguished when needed.
+[17] Cases still suggest some caution. Still relevant to the third requirement is also the prospect of success for the question submitted under a Rule 58 motion. Where the proposed question has no reasonable chance of success, it cannot possibly dispose of the proceeding, shorten the hearing, or save costs.
+[18] Paletta endorsed the principle stated in Suncor Energy Inc. [9] that, although a Rule 58 motion is very much like a trial, “an actual trial” is the forum which has “the benefits of a fair hearing with evidentiary protections”. In the view of the Court, Rule 58 should thus not be used as a substitute for a full hearing solely because evidentiary issues can now be addressed during the motion. Accordingly, if the evidence required in determining the question is substantially similar to the evidence that would be necessary at a subsequent trial, the third requirement will not be met. Further, where the facts of a case are complex and highly contentious, the interest of justice commands that a full hearing be held, as opposed to a Rule 58 motion.
+[19] Specifically regarding the exclusion of evidence by virtue of Charter violations, three cases, although relatively recent, concern the pre-2014 Rule 58.
+[20] In Jurchison [10] , the Federal Court of Appeal reaffirmed that Rule 58 is not intended as an easily accessible alternative to a trial for the disposition of complex and contentious disputes about the rights and liabilities of the parties. The Court held that it is conceivable that evidence might be inadmissible for purposes of a criminal prosecution, but admissible for purposes of a Tax Court of Canada trial. Thus, the Federal Court of Appeal found that this determination would require an examination of the evidence and the method by which it was obtained, and an inquiry into the seriousness of the Charter breach. The inquiry was therefore not suitable under a Rule 58 motion, since it would necessitate a factual basis. Furthermore, the Federal Court of Appeal stressed that the questions were not raised in the pleadings, and the Tax Court of Canada consequently did not have the authority to determine them pursuant to Rule 58.
+[21] The Federal Court of Appeal in Warawa [11] , in a case where a provincial court found a substantial part of the Crown's evidence to be inadmissible in criminal proceedings, stated that such a finding does not by itself establish that all the evidence presented by the Crown in the Tax Court appeal will be found to be inadmissible. In that case, the taxpayer brought a Rule 58 motion in the Tax Court seeking an order allowing the income tax appeal, on the basis of Charter breaches found by a provincial court with respect to the Crown’s evidence. The motion was dismissed by the Tax Court, as was the appeal before the Federal Court of Appeal.
+[22] In McIntyre [12] , Justice Campbell held that moving to estop a part of an appeal is not appropriate in an interlocutory motion pursuant to Rule 58, as it is best left to the judge that will hear the actual trial.
+III. Analysis and Decision
+[23] To reiterate, the stage 1 decision is whether an order directing a Rule 58 Question(s) shall be heard (58(1),(2)) and, if so, on what basis. To render that decision the Court references and considers the conditions provided for in section 58 in the sequence they appear.
+(a) Question of law, fact or mixed law and fact or admissibility of evidence.
+[24] The Questions are split among the three categories outlined within subsection 58(1).
+1. Question 1 – What evidence was relied upon?
+[25] This is a mixed question of fact and law. It is a question of which facts the Minster utilized in reassessing. Mr. McCartie and re-determining his tax liability.
+2. Question 2 – Was the evidence relied upon obtained in violation of the Charter?
+[26] This again would be a question of mixed law and fact. Do the facts concerning gathering the evidence violate the Charter rights of Mr. McCartie?
+3. Should the evidence be excluded under subsection 24(2) of the Charter?
+[27] This is a mixed fact and law question again, but going to the heart of admissibility of evidence. This is one of the newly added categories in Rule 58 as of 2014.
+4. If evidence is excluded, should the assessment be vacated under subsection 24(1)?
+[28] This is the “mother lode” of a mixed question of fact and law. It requires a determination of Questions 1 through 3 above and the potential consideration of all other evidence not excluded. As stated by the Court at the hearing of this motion, Question #4 per se is simply the outcome of the entire appeal. The Court will exercise its discretion and state that quite apart from any further determinations below, Question #4 is not appropriate as a Rule 58 Question. As an over-arching justification, even in the criminal proceedings, the exclusion of various evidence before that Court did not result in the stay of proceedings under subsection 24(1) of the Charter, but merely the holding of a trial with the ordered exclusion of certain documents obtained in violation of Mr. McCartie’s section 11(d) Charter rights [13] . There were documents which remained admissible in that proceeding. Moreover, inadmissible evidence did not warrant, in Judge Gouge’s considered opinion, the exercise of a discretion to stay proceedings. He ruled so given the nature of the established breach and the availability of a less intrusive remedy: the exclusion of the tainted evidence [14] . Ultimately, a trial judge of this Court shall analogously determine the validity of the civil Income Tax and GST assessments, with or without the impugned evidence. Rule 58 would not be an appropriate process for the determination of Question #4.
+[29] In summary, Question #4 is preliminary removed from further consideration. Questions 1, 2 and 3, which fall with the category of mixed questions of law or fact or the admissibility of evidence, shall be considered further.
+(b) Questions raised in pleadings
+[30] There is no serious dispute before the Court as to whether Questions 1, 2 and 3 were generally raised in pleadings. In the notice of appeal, Mr. McCartie described the documents comprising the impugned evidence as having been obtained through two distinct audits: the “Prior Audit” and the “Second Audit”. He recounts the previous Charter violations, exclusion of various records as inadmissible from the criminal proceedings and within the “issues section” of the notice of appeal he identifies the impugned evidence, its basis for the reassessment and the Charter rights violations.
+[31] The Reply is no different, save in denial. The Respondent submits the impugned evidence was obtained through usual civil audit proceedings, denies the violation of Charter rights and the remedies sought under section 24(1) and 24(2) alike. For these reasons, this second component of the conditions is satisfied.
+(c) Disposal of all or part, substantial shortening or substantial savings.
+(i) Disposal of all or part of proceeding.
+[32] The arguments concerning the disposal of critical parts of the appeal given of the Rule 58 Questions are slightly tautological. If Rule 58 questions are numerous enough and substantive enough, the determination of those Questions cannot but dispose of all or part of the proceeding. In this instance, it appears that if the Appellant were successful, part of the proceeding would be determined: the admissibility of the impugned evidence. A question remains as to whether there is “no reasonable chance of success” [15] . Again, the circuity remains. If the exclusion argument is so fatally flawed, the Rule 58 process would be quite summary and easily reached. Moreover, the Appellant’s legal arguments concerning exclusion of evidence, while not the clearest or strongest, are not to the point of fundamentally flawed and doomed to failure. More accurately perhaps, they do not “appear” so at first examination or review of the facta submitted [16] for the purpose of a stage 1 determination.
+[33] For these reasons, in this motion the more substantively measurable conditions are whether it appears the Rule 58 Questions will substantially shorten the hearing or result in cost savings.
+(ii) Substantially shorten the hearing or save costs.
+[34] The appearance of this condition is inextricably linked with substantial savings of resources and costs to the Court and the parties. The parties identify differing estimates for the length of a full hearing without a prior determination of the Rule 58 Questions. The Respondent estimates 5 days of trial. The Appellant suggests 10 to 14 days. The Court uses these estimates not for their absolute accuracy, but as examples of the disparity they represent. Both parties agree there would likely be 5 or so witnesses in total.
+[35] Substantial cost savings would result where the answering of the Rule 58 Questions would substantially shorten the trial. In considering the “apparent” substantial time and cost savings, the Court notes the following at the outset concerning the Questions proposed.
+[36] Question #1, the factual basis of the assessments, is the fundamental factual inquiry to be made by a tax court judge in any appeal before her or him. It is arranged in the display of assumptions of the Minister, counter-factual assertions of the Appellant and identification of issues in the pleading, all to be determined after the hearing of evidence. The end is the determination of the correctness of the assessment raised by the Minister. While the Minister’s facts are one thing, the Appellant also bears an onus, to demolish the Minister assumptions.
+[37] In these appeals, there is a genuine dispute not only as to the records and documents relied upon by the Minister, but also when and how they were obtained, through any of: third party request for information (“RFIs”); part of the Minister’s audit powers; and/or, search warrants executed by the Minister in aid if her criminal investigations. The consequences of this categorization are relevant to the Charter challenge. Ultimately and as importantly, the source, nature of records and information from each are also the factual basis of the Minister’s assessments under appeal.
+[38] Based upon the affidavit evidence filed before this Court there is no concurrence between the parties on the following:
+(i) What was the source of categories of documentary evidence: RFIs or warrants;
+(ii) Which source documents, information and categories correlative to their garnered location formed the basis for the reassessments in which taxation years; and
+(iii) Whether and which documents and information were contained in both the responsive RFI documents and the seized search warrant documents.
+The source is relevant because there is no Charter challenge in respect of the information obtained under the RFIs from financial institutions.
+[39] Apart from these fundamental factual matters in dispute, all of which would need to be determined through considerable testimony in order to answer each Rule 58 Question, the following legal issues remain in dispute:
+(i) Whether, or the degree to which, the exclusion of impugned evidence in the criminal proceeding legally informs the exclusion of evidence before the Tax Court?;
+(ii) Apart from informing the question, are Mr. McCartie’s Charter rights violated in the context of this civil proceeding before the Tax Court?;
+(iii) Must the determination of the violation of Mr. McCartie’s Charter rights concerning the impugned evidence be conducted de novo or by reference to the criminal proceeding?; and
+(iv) Are the elements of a subsection 24(2) analysis best suited within a Rule 58 Question or a trial setting?
+[40] There is much breadth to the Questions which go to the heart of the role of a trial judge. Should Mr. McCartie succeed on Question #1, but fail on Questions #2 and/or #3, there is no apparent, substantial savings or shortening of proceedings. Question #1 itself would require a motion judge to review all evidence in dispute; addressing its context and relevance is the very role of a trial judge [17] .
+[41] It is not apparent how this could be accomplished in anything substantially shorter or less costly than the trial itself. The primary witnesses, namely the CRA auditors and Mr. McCartie, would most probably need to testify during the Rule 58 process. Moreover, after hearing that testimony, the Rule 58 judge must determine, weigh and categorize that evidence as it relates to the assessments. This is the role of a trial judge.
+[42] Once that body of evidence has been determined, weighed and categorized by source, the section 24(2) Charter analysis begins in relation to Questions #2 and #3. While this proceeds through submissions, primary evidence concerning the alleged violations is needed. This again would be in the context of the tax assessment appeals and not the tax evasion proceedings.
+[43] On balance, in the Court’s view the determination concerning the exclusion of evidence would not substantively shorten or render the proceeding less costly. Any evidence not excluded, of which there will certainly be some, would be the subject of continued vive voce evidence re-heard before a trial judge. Even exclusion of “search warrant” obtained evidence would not obviate the need for hearing evidence from the same witnesses at trial as it concerns the RFIs and other admissible evidence.
+IV. Conclusion
+[44] For the reasons stated, the Court does not find that it appears that determining the Rule 58 Questions before trial would substantially shorten the proceedings or save costs.
+[45] Moreover, even if it did, in the circumstances of the present case, the Court would decline to exercise its discretion to order the determination of the Rule 58 Questions. The Rule 58 Questions 1, 2, and 3, however answered, would require testimony before the motion judge which would most likely need be repeated before a trial judge. The prospects of two judges, after considerable testimony, opining on the credibility and weight of the same witnesses in the same appeals is neither fair, nor consistent to the parties nor the interests of justice. Given the breadth of the alleged impugned evidence, the trial judge should hear it, consider it and, if warranted, exclude it. This allows the full appreciation of the factual viewscape by the person ultimately assigned with the task of ruling on the correctness of the assessments.
+[46] A properly established preliminary voir dire by a trial judge regarding the admissibility of this body of factual evidence is a more efficacious and efficient method of dealing with the exclusion of the impugned evidence. That decision is more proximate to the parties, the deciding trial judge and the ultimate outcome.
+[47] The exclusion or admissibility of the impugned evidence also replicates the original criminal trial process. In that process, Judge Gouge, like the future trial judge of this Court, heard the challenges, decided the admissibility issue and proceeded to hear the trial and render judgement. In this motion judge’s opinion, that is the way these appeals should proceed before this Court.
+[48] For these reasons, the motion is denied with costs payable in favour of the Respondent under the applicable Tariff.
+Signed at Toronto, Ontario, this 19th day of September 2018.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2018 TCC 185
+COURT FILE NOs.:
+2016-2716(IT)G, 2016-2717(GST)G
+STYLE OF CAUSE:
+COLIN MCCARTIE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Nanaimo, British Columbia
+DATE OF HEARING:
+June 27, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+September 19, 2018
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Max Matas
+Jamie Hansen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R. v Colin McCartie et al., 2015 BCPC 0069 ; 2015BCPC 0233 ; and 2015 BCPC 0254.
+[2] Rule 58 changed in February 7, 2014: SOR/2014-26, s.6.
+[3] 2016 TCC 171, at paragraphs 10, 11 and 12.
+[4] Paletta, supra, at paragraph 12.
+[5] Ibid, at paragraph 25.
+[6] Ibid.
+[7] Paletta v HMQ, 2017 FCA 33.
+[8] 2078970 Ontario Inc. v HMQ, 2017 TCC 173 at paragraph 7.
+[9] Suncor Energy v HMQ, 2015 TCC 210 at paragraph 26.
+[10] Jurchison v Canada [2011] FCJ No. 126 at paragraph 11.
+[11] Warawa v Canada, 2005 FCA 34 at paragraph 6.
+[12] McIntyre v HMQ, 2014 TCC 111 at paragraph 36.
+[13] R. V McCartie, 2015 BCPC 0069 at paragraph 67.
+[14] Regina v Bjelland [2009] 2 SCR 651 at paragraph 19.
+[15] Sentinel Hill v Canada, 2014 FCA 161 at paragraph 42.
+[16] Appellant’s June 27, 2008 submissions at paragraphs 57, 60, 62, 67 and 82.
+[17] Ye v Canada, [2000] FCJ No 1461 at paragraph 4.

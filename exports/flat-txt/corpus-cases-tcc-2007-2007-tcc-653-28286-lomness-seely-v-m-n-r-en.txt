@@ -1,0 +1,154 @@
+Title: Lomness-Seely v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28286/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-653-28286-lomness-seely-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2007-10-23
+
+# Lomness-Seely v. M.N.R.
+
+- Citation: 2007 TCC 653
+- Decision date: 2007-10-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1870, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lomness-Seely v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-23
+Neutral citation
+2007 TCC 653
+File numbers
+2005-2744(EI)
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-2744(EI)
+BETWEEN:
+CHANTELLE LOMNESS-SEELY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+GACELAS BALLET INC.,
+Intervenor.
+Appeal heard on common evidence with the appeal of
+Chantelle Lomness-Seely (2005-2745(CPP))
+on August 8, 2007, at Grande Prairie, Alberta
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Daniel Segal
+For the Intervenor:
+No one appeared
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the Minister’s decision of June 16, 2005 is vacated.
+Signed at Ottawa, Canada, this 23rd day of October 2007.
+"Patrick Boyle"
+Boyle, J.
+Docket: 2005-2745(CPP)
+BETWEEN:
+CHANTELLE LOMNESS-SEELY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+GACELAS BALLET INC.,
+Intervenor.
+Appeal heard on common evidence with the appeal of
+Chantelle Lomness-Seely (2005-2744(EI))
+on August 8, 2007, at Grande Prairie, Alberta
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Daniel Segal
+For the Intervenor:
+No one appeared
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the Minister’s decision of June 16, 2005 is vacated.
+Signed at Ottawa, Canada, this 23rd day of October 2007.
+"Patrick Boyle"
+Boyle, J.
+Citation: 2007TCC653
+Date: 20071023
+Dockets: 2005-2744(EI)
+2005-2745(CPP)
+BETWEEN:
+CHANTELLE LOMNESS-SEELY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+GACELAS BALLET INC.,
+Intervenor.
+REASONS FOR JUDGMENT
+Boyle, J.
+[1] The Appellant, Ms. Lomness-Seely, is appealing from determinations made by the Minister of National Revenue that she is engaged in insurable employment for purposes of the Employment Insurance Act and in pensionable employment for purposes of the Canada Pension Plan.
+[2] The Appellant is a professionally trained and accredited dancer. In addition she is an enterprising dance choreographer and dance instructor.
+[3] In the period in question, Ms. Lomness-Seely worked as a dance instructor at the Gacelas Ballet Inc. dance school in Drayton Valley, Alberta. The written teaching contract entered into with Gacelas Ballet was for a one season term from September through May, provided a “contract wage” of a fixed hourly rate and acknowledged that Ms. Lomness-Seely would be required to report and pay income tax as there would be no deductions. Importantly, the evidence is clear that Ms. Lomness-Seely and Gacelas Ballet both intended that the Appellant be a self-employed independent contractor and not an employee of the dance studio. The owner of the dance studio did not testify but did intervene by way of letter on the basis that the Appellant was a self-employed contracting dance instructor. While the teaching contract does on one occasion use the word “employment”, it does talk about contract wages, no withholdings, no overtime, no holiday pay and no sick days. The owner of Gacelas Ballet who wrote the standard teaching contract speaks English as a second language; her first language is Spanish.
+[4] The owner of the dance studio was only qualified to instruct ballet lessons. The Appellant was the only teacher qualified to teach and conduct examinations of dance styles and genres other than ballet. She taught jazz, tap, modern dance, and musical theatre. The schedule for the lessons taught by the Appellant was set based upon her availability and willingness to teach the classes. Since they were catering to students of school age, they were in the after-school period of the afternoon or the evenings. The dance studio did not exercise any further say in setting the timing of the classes.
+[5] As part of her teaching for the dance studio, she was expected or required to attend dance festivals, competitions and recitals with her classes.
+[6] Apart from her work for Gacelas Ballet, the Appellant was entitled to teach private lessons for students, including those in the dance studio’s classes. She was entitled to do contract choreography work including with dance class students. The Appellant charged a rate significantly in excess of the rate paid by the dance studio for the choreography and private lessons and she was paid directly by the dance students not by the dance studio for that work. In the period in question she did teach paid private lessons separate from her work for the dance studio. In addition, she earned fees from doing choreography work in the period in question.
+[7] Further, she was allowed to teach at other dance studios. In the period in question she did not teach at the only other dance studio in town because she felt it was of a significantly different quality. She did consider accepting a position offered to her at another dance studio but did not teach there because it was in a town 45 minutes away which made it largely uneconomic. She is now teaching at two unrelated dance studios and had previously taught at multiple studios.
+[8] The Appellant as instructor was responsible for grouping the students in classes based on proficiency levels. This was entirely her decision and not that of the dance studio. Ms. Lomness-Seely was entitled to refuse students and did. The dance studio did not seek to overrule her decisions. While she was expected to act in a professional manner and maintain the school’s desired standards, she had free rein as regards to what she taught, what music she used, etc. She had complete control over her classes. This meant that she effectively ran the dance programs other than the ballet classes.
+[9] In dance classes, the instructor is responsible for choreographing the productions the students perform in. In this case, the choreography developed by Ms. Lomness-Seely was her artistic property and did not become the studio’s property nor did the studio have the right to use it for other classes or in later years without her consent.
+[10] Gacelas Ballet was the owner of its dance studio. The dance studio was properly equipped with mirrors, sprung floors and a built-in sound system. Ms. Lomness-Seely was responsible for providing all of the other equipment and materials used in her dance classes. Given the nature of tap, jazz and modern dance classes, she had an inventory of dance music CDs costing her in the thousands of dollars. The music CDs and instructional videos were acquired and developed on her own time. She also provided her own computer to cut or edit the music as she desired. In addition to the choreography, her instruction methods and materials belonged to her. In addition, she provided the mats, ropes and exercise bands used by the students. She also provided her own necessary dance outfit, dance shoes, etc. She was not given any form of allowance or reimbursement for her music or other supplies nor did she receive anything towards maintaining her qualifications as a professional dance instructor. She was not reimbursed or provided an allowance for accompanying her students to events and competitions outside the dance studio.
+[11] Gacelas Ballet had no right to tell her what to do beyond what was agreed to between them nor did they have any right to discipline her. If the dance studio did not like what she was doing, its only contractual right was to inform her and terminate the contract. They did not have the right to make her change her ways of organizing, structuring or teaching her class.
+[12] The owner of Gacelas Ballet was the other Senior Instructor at the studio. The owner of the dance studio could have run the studio without the Appellant. The owner was a qualified ballet instructor and, even though she wasn’t credentialed in jazz, she could have taught jazz although she did not. The owner could not have taught tap or musical theatre or the other dance genres that the Appellant taught.
+Analysis
+[13] The issue of employee versus independent contractor for purposes of the definitions of pensionable employment and insurable employment are to be resolved by determining whether the individual is truly operating a business on her own account. This is the question set out by the British courts in Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732 (Q.B.D.), approved by the Federal Court of Appeal in Wiebe Door Services Ltd. v. The Minister of National Revenue, 87 DTC 5025 for purposes of the Canadian definitions of insurable employment and pensionable employment, and adopted by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R 983. This question is to be decided having regard to all of the relevant circumstances and having regard to a number of criteria or useful guidelines including: 1) the intent of the parties; 2) control over the work; 3) ownership of tools; 4) chance of profit/risk of loss and 5) what has been referred to as the business integration, association or entrepreneur criteria.
+[14] The decision of the Federal Court of Appeal in Royal Winnipeg Ballet v. The Minister of National Revenue, 2006 DTC 6323 highlights the particular importance of the parties’ intentions and the control criterion in these determinations. This is consistent with the Federal Court of Appeal’s later decision in Combined Insurance Co. of America v. Canada (Minister of National Revenue), 2007 FCA 60 as well as its decision in City Water International Inc. v. Canada (Minister of National Revenue), 2006 FCA 350. The Reasons of this Court in Vida Wellness Corp. v. Canada (The Minister of National Revenue), 2006 TCC 534 also provide a helpful summary of the significance of the Royal Winnipeg Ballet decision. Most recently, the Chief Justice’s Reasons in Lang v. Canada (The Minister of National Revenue), 2007 TCC 547 are also very helpful on this point.
+[15] The Minister determined that the Appellant’s work for Gacelas Ballet Inc. dance studio was an employment relationship not a business carried on by the Appellant. The Minister did not challenge the fact that Ms. Lomness-Seely’s contract choreography work for dancers and aspiring dancers and her private lessons were a separate business carried on by her. The Crown’s position is that Ms. Lomness-Seely’s private teaching and choreography was a separate business activity of hers distinct from her work for Gacelas Ballet.
+The intent of the parties:
+[16] In this case both parties intended the relationship to be that of independent contractor not one of employment. The Appellant’s entitlement to work for other dance studios or directly with dancers for her own account is consistent with that. While it is not necessarily the case that employment precludes an employee from also working for a competitor or in competition, that is generally the exception in cases of employment and the norm in cases of the self-employed. I find that the parties intended the contract to be an independent contractor relationship not an employment relationship and that they did not do anything inconsistent with their relationship being that of independent contractor.
+Control:
+[17] It is clear that Gacelas Ballet did not exercise the degree of control over its working relationship with Ms. Lomness-Seely of the type that an employer would normally exercise over an employee. Gacelas Ballet did not direct how the dance classes were to be taught nor indeed were they even credentialed or qualified to do so. The studio could not require her to teach a student who she did not feel should be in the class. Ms. Lomness-Seely exercised her control over those areas of her class and her decisions were never challenged. Her control of the classroom was absolute. What was taught, from warm-up to the end of class, and how it was taught, was unique to her and in her control. Upon hearing the evidence in this case, the Crown conceded that the Royal Winnipeg Ballet had greater control over its dancers than the studio does over the Appellant in this case.
+[18] I find the consideration of the issue of control inclines in favour of an independent contractor status not an employee relationship.
+Ownership of tools of the trade:
+[19] Ms. Lomness-Seely did not own a fully-equipped dance studio. That is why she held herself out to dance studios as an available contract instructor. She did own her choreography library developed by her and, in addition, she owned all of the recorded music selected and used by her in teaching her different classes. She also owned and provided the other equipment used in her particular classes. Ms. Lomness-Seely had the necessary credentials and qualifications to instruct and examine in the areas she taught and bore the cost of maintaining those qualifications. She provided her own dance suits and dance shoes and her own travel to competitions and events away from the studio. While the professional dance studio was necessary, music was equally necessary to the dance genres taught by her. I find that the issue of the ownership of tools of the trade inclines only slightly in favour of an independent contractor relationship. It is certainly not inconsistent with the desired independent contractor relationship.
+Chance of profit/Risk of loss:
+[20] Since Ms. Lomness-Seely was paid by the dance studio at an hourly rate, her chance of profit and risk of loss were not so great as they would be for a person not paid on that basis. However, she was able to make considerably more money by teaching private lessons and providing private choreography. Within her community her target audience for these services were in fact current students at her dance studio classes. Thus she was not only able to increase her profit by working more hours, she was able to generate more revenues from her dance studio class for private lessons and choreography by maintaining strong professional teaching relationships and goodwill with her dance studio students. She also made a considerable investment of her own time trying to generate choreography fees from a planned dance show at Disneyland which did not come to fruition. Because she was paid an hourly rate by the dance studio, Ms. Lomness-Seely’s risk of loss was the risk that her largest single client at the time became financially unable to pay her monthly invoice. It was the dance studio who bore the risk of a parent’s failure to pay. With respect to her chance of profit in the studio setting, Ms. Lomness-Seely testified that she negotiated her rate with the dance studio. In her experience, if a class grew because it was successful, she was able to re-negotiate for a greater hourly rate. The success of a specialized dance class in a small, two dance studio town is to quite an extent determined by the qualities and success of the instructor, perhaps moreso than the business promotion and similar advertising of the studio.
+[21] In these circumstances, considering the chance of profit/risk of loss criteria does not appear to favour either employment or independent contractor over the other.
+Conclusion
+[22] In these circumstances, I find that the Appellant was not in insurable employment or in pensionable employment in providing her dance instructor services to Gacelas Ballet. Each of the intent and control considerations leans strongly in favour of independent contractor status. The Federal Court of Appeal in the Royal Winnipeg Ballet decision considered these two considerations of particular importance in the case of dancers. The parties did not do anything inconsistent with the relationship being the desired independent contractor relationship. For these reasons, I will be allowing these appeals and vacating the Minister’s decision.
+[23] The Crown relied in argument on this Court’s decision in Quantum Fitness Inc. v. Canada, 2007 TCC 280. I note that in that case the fitness instructors were not allowed to act as a fitness instructor anywhere else and the B.T.S. fitness instruction process appears to have been proprietary to the employer. In Quantum Fitness, the training was to be done to the particular B.T.S. standard. The Quantum Fitness instructors had to teach the B.T.S. program. In this case the Appellant’s training and accreditation was entirely up to her and was not provided by a B.T.S. proprietary type system.
+Signed at Ottawa, Canada, this 23rd day of October 2007.
+"Patrick Boyle"
+Boyle, J.
+CITATION: 2007TCC563
+COURT FILE NOS.: 2005-2744(EI), 2005-2745(CPP)
+STYLE OF CAUSE: CHANTELLE LOMNESS-SEELY AND M.N.R. AND GACELAS BALLET INC.
+PLACE OF HEARING: Grande Prairie, Alberta
+DATE OF HEARING: August 8, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: October 23, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Daniel Segal
+For the Intervenor:
+No one appeared
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

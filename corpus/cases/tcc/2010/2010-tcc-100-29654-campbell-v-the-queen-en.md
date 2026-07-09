@@ -1,0 +1,225 @@
+---
+title: "Campbell v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29654/index.do"
+last_modified: "2010-02-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 100"
+citation2: ""
+neutral_citation: "2010 TCC 100"
+decision_date: "2010-02-19"
+language: "en"
+item_id: "29654"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6251
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:38:04.701000+00:00"
+cases_cited_count: 3
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "682dfa7d768d4ccf72a45e47a7d918b64ff6891bd2cb46674e2415ecb9d5ca97"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Campbell v. The Queen
+
+- Citation: 2010 TCC 100
+- Decision date: 2010-02-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6251, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Campbell v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-02-19
+Neutral citation
+2010 TCC 100
+File numbers
+2007-3715(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3715(IT)G
+BETWEEN:
+WILLIAM CAMPBELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 14 and 15, 2009
+at St. John’s, Newfoundland
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Bruce S. Russell
+Counsel for the Respondent:
+Stan W. McDonald
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act with respect to the Notice of Assessment number 43819 dated June 2, 2006 is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 19th day of February 2010.
+“Diane Campbell”
+Campbell J.
+Citation: 2010 TCC 100
+Date: 20100219
+Docket: 2007-3715(IT)G
+BETWEEN:
+WILLIAM CAMPBELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] The Appellant is appealing from a Reassessment against him as a director of a Newfoundland company, Complete Rent-Alls Limited (“CRL”), for unpaid deductions, employer contributions, interest and penalties. Consequently, this is a director’s liability reassessment pursuant to section 227.1 of the Income Tax Act (the “Act”).
+The Facts:
+[2] The Appellant is a knowledgeable and experienced businessman. He is now retired but was in the rental business in Newfoundland throughout most of his career. In 1966, he incorporated CRL which was involved in sales and equipment rental for both residential and industrial use.
+[3] The Appellant was the sole director and shareholder and acted as President of CRL.
+[4] For almost 25 years, until the 1990’s, CRL was financially successful, employing over 70 individuals and it had expanded to numerous locations throughout Newfoundland.
+[5] Throughout the years, the Appellant was involved primarily in the management of CRL but when financial problems occurred in the early 1990’s, he became involved at all levels of the business.
+[6] In 1989, CRL began to experience its first financial difficulties. This was due in large part to a grant of $486,000 from Atlantic Canada Opportunities Agency (“ACOA”) to a newly-formed company and competitor that was just entering the rental business. CRL, as well as other rental businesses within Newfoundland, were denied similar grants on the basis that the first one to the competitor should not have been given out. This event continued to affect the rental rates that CRL could charge.
+[7] In April 1994, CRL made a proposal in bankruptcy under the Bankruptcy and Insolvency Act which was accepted by the creditors of CRL, including Canada Revenue Agency (“CRA”). Upon that acceptance, CRL continued its business operations. Pursuant to the terms of the proposal, CRL was required to pay over $1 million to its creditors, including CRA. The terms of the proposal were fulfilled by CRL.
+[8] Prior to and for 2 years following the proposal, CRL met substantially all of its remittance obligations. The difficulties with the source deductions began in 1996 at which time CRL owed $45,000 in arrears. During that year, Stephen Lawlor, the Chief Financial Officer of CRL, made the Appellant aware of the difficulties that CRL was experiencing in keeping its payroll remittances current. Up to this point in time, Mr. Lawlor had dealt with these remittances but once the Appellant became aware of the problem he became involved in addressing this problem with both current and overdue remittances. His involvement with this ongoing remittance problem continued in the years under appeal. The Appellant’s evidence on this point was corroborated by Mr. Lawlor.
+[9] The Appellant testified as to the various steps that he took to ensure remittances to CRA were current. However, he did so without the benefit of the corporate records which in 2002 had been badly damaged by precipitation and, subsequently, discarded by workers without the Appellant’s knowledge. The Appellant stated that he remained in constant contact with CRA, arranged post‑dated cheques for arrears, suggested names of clients for third-party demands, increased the corporate operating line of credit, pursued outside professional advice, cut expenses by closing many locations, selling equipment, reducing staff and not paying other corporate expenses and he did not take any salary from CRL over a number of years.
+[10] Despite these efforts, CRL’s financial position remained tenuous and eventually the company ceased operations in 1999. The Appellant remained the director of CRL up to December 31, 2000 at which time he testified that he resigned from the company by a handwritten letter of resignation. The Appellant asserts that he prepared a duplicate handwritten copy of this letter of resignation, although not an identical copy, as he had no available photocopier. The letter of December 31, 2000 was first raised in the August 29, 2006 Notice of Objection.
+The Appellant’s Position:
+[11] The Appellant states that since he resigned as a director of CRL on December 31, 2000 as per his letter of resignation, he is not liable as a director because proceedings were commenced against him more than two years following his resignation, which is prohibited by subsection 227.1(4).
+[12] In the alternative, if he did not cease to be a director of CRL on December 31, 2000, he nevertheless exercised the necessary due diligence to prevent the failures to remit the source deductions to CRA.
+The Respondent’s Position:
+[13] The Appellant remained a director of CRL after December 31, 2000 because the letter of resignation was not valid. Therefore, the assessment was validly issued. If the letter of resignation is valid then the Respondent submits that the Appellant continued to be a de facto director of CRL after December 31, 2000 until the company was dissolved on February 18, 2006.
+[14] The Respondent further submits that if the Appellant was a director, either de jure or de facto, he cannot avail himself of the due diligence defence as he did not exercise the required care, diligence and skill that could have prevented the failure to remit that a reasonably prudent person would have exercised under similar circumstances.
+Analysis:
+[15] In deciding whether the Appellant is liable for CRL’s failure to remit these source deductions pursuant to subsection 227.1(1), two sub-issues must be addressed:
+(a) whether the Appellant ceased to hold office as a director of CRL on December 31, 2000 by virtue of a valid resignation and, consequently, the Minister of National Revenue (the “Minister”) is precluded from assessing the Appellant as a director more than two years after the Appellant resigned. If the Appellant validly resigned, did he continue to act as a de facto director of CRL after December 31, 2000? and
+(b) whether the Appellant exercised the degree of care, diligence and skill to prevent the failure to deduct, withhold or remit source deductions payable by the company that a reasonably prudent person would have exercised in comparable circumstances.
+A. Whether the Appellant resigned from CRL on December 31, 2000?
+[16] Subsection 227.1(4) of the Act states:
+(4) Limitation Period. No action or proceedings to recover any amount payable by a director of a corporation under subsection (1) shall be commenced more than two years after the director last ceased to be a director of that corporation.
+Pursuant to subsection 227.1(4), if the Appellant’s letter of resignation of December 31, 2000 is valid and he ceased to be a director on that date, he would not be liable for the remittances because the reassessment of June 2, 2006 was issued more than two years after the resignation.
+[17] The Appellant’s evidence is that he met with his accountant, Douglas Kirby, and CRL’s then solicitor, Wayne Myles, in December 1999 and was advised to resign as a director. Mr. Kirby corroborated that he did have these discussions with the Appellant at a meeting in 1999 and suggested to him that he prepare a letter of resignation to the company and notify the Registry of Companies. Although there were questions as to whether this resignation would be valid under corporate law, “in the end, the discussion basically became nothing ventured nothing gained” (Transcript, pages 184-185) and it was recommended that he submit a letter of resignation.
+[18] The Appellant’s only memory of drafting this letter was that he kept a “To Do” list and recalled that writing a resignation letter was one of the items on this list that came off in December 2000. Although no list was produced, he submits that it would have come off this list in December 2000 because he wrote the letter. There were two separate handwritten letters of resignation, both of which appear at some time to have found their way to the Registry of Deeds office in St. John’s. One of these letters (Exhibit R-1, Tab 4) was marked with the outgoing mail stamp of the Registry. As part of the CRA investigation in 2006, Christine Ash located the second letter of resignation (Exhibit R-1, Tab 3) in the corporate file of Rent-Alls Ltd., another company belonging to the Appellant, at the Registry Office. Neither copy had been properly filed and date-stamped by the Registry and neither were an original of the letters. Consequently, there can be no way to determine the date on which these letters first came to the Registry office.
+[19] The importance of a valid resignation as a director cannot be underestimated. Although a director has a responsibility to ensure that a company complies with its remittance obligations and a failure to do so will engage a director’s personal liability, no action can be commenced against a director who has validly resigned after two years following the resignation.
+[20] It is clear from the jurisprudence that a sole director can resign by giving written notice of resignation to the corporation. In addition, other requirements arising under the provincial corporate legislation may need to be addressed in order for a resignation to become validly effective.
+[21] According to the Corporations Act (Newfoundland and Labrador), R.S.N.L. 1990, c. C-36, section 177 states that a director stops holding office when he resigns. Section 178 of that Act states:
+Resignation of director
+178. A resignation of a director becomes effective at the time a written resignation is sent to the corporation, or at the time specified in the resignation, whichever is later.
+[22] Taxpayers, who have not strictly adhered to specific requirements for resignation as a director under the provincial corporate legislation, have nevertheless been held to be personally liable because they did not validly resign. (Zwierschke v. M.N.R., [1991] 2 C.T.C. 2783, 92 D.T.C. 1003 and Shepherd v. The Queen, 2008 D.T.C. 4284.)
+[23] The Newfoundland and Labrador Corporations Act contains no provisions similar to the provisions contained in the Ontario Business Corporations Act, R.S.O. 1990, c. B.16, which were applied in the decisions in Zwierschke and Shepherd. The Appellant testified that after he wrote the letter of resignation he kept it in his personal file. The provincial corporations legislation did not impose any direct obligation upon him to file the resignation with the provincial corporate registry.
+[24] In Hattem v. The Queen, 2008 TCC 32, [2008] T.C.J. No. 17, Lamarre‑Proulx J. concluded that a resignation would not be valid unless corporate requirements for notification of a change of directors were observed. Appellant counsel relied on the decision in Netupsky v. The Queen, [2003] G.S.T.C. 15, and submitted that those remarks in Hattem were obiter. Counsel submitted that, following Netupsky, a director’s letter of resignation will not be invalid simply because filing did not occur with the appropriate governmental office. In particular, this would not be required in the present appeal pursuant to the wording of section 178 of the Newfoundland and Labrador Corporations Act.
+[25] The Hattem case was decided under the Quebec Companies Act, R.S.Q., c. C-38, on the basis that a document will not be valid against third parties if it is not filed with the provincial corporate registry.
+[26] The Newfoundland Corporations Act relevant to this appeal contains provisions similar to those contained in the Quebec Companies Act. At paragraphs 31 and 32 of the Hattem decision the following comments were made:
+31 If a director resigns from the board of a corporation that is a tax debtor, and wishes the resignation to be a juridical act that is valid as against the Minister, then, according to the Quebec Companies Act, that director must notify the Minister of his resignation in the course of the exchanges of correspondence regarding the corporation's tax debt and the liability of its directors. I do not think that statutes of the other provinces or the federal Act concerning companies are any different in this regard.
+32 According to the evidence adduced, it appears that it was Mr. Hattem who discussed the corporation's debt with the Minister's employees, both for himself and for the appellant. As indicated earlier, when the employees told him that they were contemplating an assessment against him under section 323 of the Act, he pointed out that he had resigned from his position as director. He sent them a copy of the amending declaration filed with the enterprise registrar on February 19, 2002. The employees accepted this and so informed him on July 21, 2005. They continued their proceedings against the appellant. It must be recalled that the appellant had signed on June 2, 2005 a power of attorney authorizing her lawyer to discuss the corporation's affairs with Revenu Québec. The assessment against her is dated August 31, 2005.
+[27] Following the Hattem decision, the Appellant’s resignation would be invalid as he failed to send notice to the corporate registry. In addition, the Appellant did not remember sending one. Although a copy of the letter was found on the corporate registry file of another company, Rent-Alls Ltd., this only added further questions to the issue of the authenticity of this letter of resignation.
+[28] Although sending this letter to the corporate registry may not have been detrimental as suggested by the Appellant, I find it troubling that, even though it was found in another corporate registry file belonging to Rent-Alls Ltd., it bore no registration stamp affixing a date of registration and document number. Ultimately there was no evidence that addressed the important question of how it found its way to the corporate file belonging to another company owned by the Appellant.
+[29] In Moll v. The Queen, 2008 TCC 234, 2008 D.T.C. 3420, V.A. Miller J. held that the director’s resignation in that case was invalid because there were questions of authenticity. The taxpayer in Moll had submitted only photocopies, failed to inform the Minister of his resignation until the appeal and continued to act as a director.
+[30] Remembering that the onus is upon the Appellant to adduce evidence in support of the authenticity of the letter of resignation, I must conclude that he has not done so and that, consequently, he did not resign from CRL on December 31, 2000. There were some inconsistencies in evidence with the discoveries and with the Appellant’s prior recollection of events. During cross‑examination, the Appellant contradicted statements made during the discoveries as to where the letter of resignation was kept and how it had surfaced. There was also some doubt raised as to whether the letter was actually written on December 31, 2000. The Appellant never informed third-party creditors of his resignation nor did he inform CRA until August 2006 despite it being clearly in his interest to do so.
+[31] Even if I had concluded that the Appellant had validly resigned on December 31, 2000, I believe that, as the Respondent suggested, he remained a de facto director of CRL after December 31, 2000. He never informed third‑party creditors or CRA that he had resigned. He never informed CRA during the pre-assessment proposal in 2004 that contained standard questions as to whether he continued to act as a director nor did he advise CRA during meetings in 2005.
+B. Whether the Appellant, as a director of CRL, acted with the required due diligence to prevent the remittance failures?
+[32] Although I have determined that the Appellant remained a director of CRL, he may still escape the liability otherwise imposed upon him if he can avail himself of the defence provided in subsection 227.1(3). To be successful he must demonstrate that as a director he acted with due diligence at the relevant time the liability was incurred or that he exercised the degree of care, diligence and skill to prevent the failure to remit source deductions that a reasonably prudent person would have exercised in comparable circumstances.
+[33] Subsection 227.1(3) states:
+(3) Limitations on Liability A director is not liable for a failure under subsection 227.1(1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[34] Whether the Appellant has established a due diligence defence is a question of fact to be determined with reference to the personal knowledge, skills and experience of the Appellant together with the positive steps and actions that were taken to prevent the remittance shortfalls.
+[35] The standard of care required of a director intending to rely on the due diligence defence was established by the Federal Court of Appeal in Soper v. The Queen, 97 D.T.C. 5407. In the Soper decision, the standard of care was described, at page 5416, as a subjective/objective standard:
+This is a convenient place to summarize my findings in respect of subsection 227.1(3) of the Income Tax Act. The standard of care laid down in subsection 227.1(3) of the Act is inherently flexible. Rather than treating directors as a homogeneous group of professionals whose conduct is governed by a single, unchanging standard, that provision embraces a subjective element which takes into account the personal knowledge and background of the director, as well as his or her corporate circumstances in the form of, inter alia, the company's organization, resources, customs and conduct. Thus, for example, more is expected of individuals with superior qualifications (e.g. experienced business-persons).
+The standard of care set out in subsection 227.1(3) of the Act is, therefore, not purely objective. Nor is it purely subjective. It is not enough for a director to say he or she did his or her best, for that is an invocation of the purely subjective standard. Equally clear is that honesty is not enough. However, the standard is not a professional one. Nor is it the negligence law standard that governs these cases. Rather, the Act contains both objective elements - embodied in the reasonable person language - and subjective elements - inherent in individual considerations like "skill" and the idea of "comparable circumstances". Accordingly, the standard can be properly described as "objective subjective".
+[36] However, at page 5417 of Soper, the Court made the following observation respecting the use of the subjective/objective standard as it applies to inside directors:
+… At the same time, however, it is difficult to deny that inside directors, meaning those involved in the day-to-day management of the company and who influence the conduct of its business affairs, will have the most difficulty in establishing the due diligence defence. For such individuals, it will be a challenge to argue convincingly that, despite their daily role in corporate management, they lacked business acumen to the extent that that factor should overtake the assumption that they did know, or ought to have known, of both remittance requirements and any problem in this regard. In short, inside directors will face a significant hurdle when arguing that the subjective element of the standard of care should predominate over its objective aspect.
+[37] According to the Soper decision, a director must also establish that the steps taken were in the prevention of a failure to remit and not simply in hindsight to remedy the already existing non-remittances.
+[38] The Federal Court of Appeal made the further comment, concerning the standard of care established in Soper, at paragraph 23 of The Queen v. Corsano et al., 99 D.T.C. 5658:
+[23] It is true that in Soper, this Court wrote that "the standard of care laid down in subsection 227.1(3) of the Act is inherently flexible". It is obvious, however, on the reading of the decision, that it is the application of the standard that is flexible because of the varying and different skills, factors and circumstances that are to be weighed in measuring whether a director in a given situation lived up to the standard of care established by the Act. For, subsection 227.1(3) statutorily imposes only one standard to all directors, that is to say whether the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[39] The Federal Court of Appeal in A.G. of Canada et al. v. McKinnon et al., 2000 D.T.C. 6593, at paragraph 68, posed the question, which a Court must ask and answer, as follows:
+[68] In my opinion, it is essential to keep in mind the relevant question in this appeal: did the directors exercise due diligence to prevent the company's failure to remit? This is not necessarily the same as asking whether it was reasonable from a business point of view for the directors to continue to operate the business. In order to avail themselves of the defence provided by subsection 227.1(3) directors must normally have taken positive steps which, if successful, could have prevented the company's failure to remit from occurring. The question then is whether what the directors did to prevent the failure meets the standard of the care, diligence and skill that would have been exercised by a reasonably prudent person in comparable circumstances.
+[40] In Liddle v. The Queen, 2009 D.T.C. 1296, I summed up the specific positive actions which a director might take at paragraphs 30 and 32:
+[30] Generally, directors must take every reasonable effort to ensure that corporate deductions and other amounts owing in respect to tax are collected, withheld and then properly remitted. Directors will be expected to show the specific steps and actions that were taken to prevent this failure. Various methods may be implemented, depending on the circumstances, to achieve this end, including establishing separate accounts for such withholdings, regular communication and reporting between directors and the corporate accountants, financial officers and lending institutions and monitoring by obtaining periodic confirmation that remittances are current. However, there is no legal requirement that any of these methods or systems are utilized but they will go a long way to preventing such a failure in the first place and assisting a director in avoiding potential liability by supporting the argument that the director has exercised the diligence that a reasonably prudent person would have.
+…
+[32] This decision maintains that the standard of care in respect to the subjective test requires that a Court looks at the director's particular background, knowledge, skills and experience in determining if the director exercised due diligence. The objective test will then be applied to determine whether the director, measured against his or her personal background, acted reasonably.
+After a brief discussion of the Soper decision in relation to the decision in Peoples Department Stores Inc. (Trustee of) v. Wise, 2004 SCC 68, I made the following conclusion at paragraph 35 of Liddle:
+[35] Clearly the Soper test has been applied by this Court since the Peoples decision and endorsed by the Federal Court of Appeal. It would appear to be the appropriate and preferable test to apply in this appeal. …
+[41] In order to answer the question posed by the Court in McKinnon, that is, did the Appellant exercise due diligence to prevent CRL’s failure to remit, I must examine the Appellant’s actions which he pursued prior to CRL’s failure to remit occurring. As I noted in Liddle, a director has a higher duty to ensure that remittances are made when a company is experiencing financial difficulties.
+[42] Until 1996, CRL had met substantially all of its remittance obligations. CRL, for almost a quarter of a century, had been a thriving business throughout Newfoundland and Labrador. With economic problems in the province, as well as a substantial ACOA grant to a newly formed competitor, CRL began to experience financial trouble in the early 1990’s. In 1994, CRL filed an acceptable Proposal in Bankruptcy to its creditors, including CRA. It was following this proposal, while operating in an unhealthy economic climate, that CRL encountered further problems meeting remittance obligations. On June 26, 1996, CRL made an arrangement with CRA to pay arrears of source deductions in the approximate amount of $45,000 by issuing six post-dated cheques to CRA. On July 25, 1996 the Appellant informed CRA that the cash flow position of CRL prevented it from honouring these cheques pursuant to the arrangement. At this point, the Appellant proposed a further informal arrangement in which CRL would pay $1,000 three times monthly. This was accepted by Jim Fitzgerald, a collections officer at CRA. The Appellant testified that he was in constant contact with CRA, and particularly Mr. Fitzgerald, throughout this period. To honour some of these cheques, the Appellant testified that he engaged in a strategy in which he would ensure that client payments to CRL were deposited to the corporate account on the same day that payment to CRA would be clearing. This ensured that the bank would not have time to stop the payment on the cheques earmarked for CRA. Up until the time that the bank stopped this practice, the Appellant testified that this practice included watching and hoping for bad weather so that the planes carrying the cheques to a Nova Scotia clearing house would be delayed by the weather which frequently occurred in the province. This provided a further day’s grace period to ensure CRA’s cheques cleared. Steve Lawlor confirmed this practice as well as the ongoing involvement of the Appellant in ensuring that CRA was paid. In addition, the Appellant stated that he assisted CRA by proposing that a requirement to pay be placed against one of CRL’s larger debtors, likely the Hibernia account. In addition, he ensured that CRL facilitated CRA’s efforts to collect directly from other third-party accounts of the company.
+[43] In a further attempt to ensure priority to CRA, the Appellant testified that CRL maintained a separate account for its source deductions, number 106-2017, which was closed in December, 2000. Generally, funds would be deposited into CRL’s general account and then transferred immediately to the account designated for remittances. According to the Appellant, the bank, however, would not permit transfers to this account unless the company was current with its loan obligations.
+[44] During 1995, the Appellant convinced CRL’s account manager at the Royal Bank to allow the company to go into an overdraft in order that source deductions could be made. Later, in 1996, the bank’s auditors put a stop to this and converted the overdraft to a secured loan. The bank suggested that CRL seek professional accounting advice, which it subsequently did. However, CRL was unable to continue those services due to the higher fees which were being charged to CRL.
+[45] Correspondence dated February 28, 1997 from the Royal Bank to CRL and the attention of the Appellant (Exhibit A-1, Tab 10) supported the Appellant’s testimony that he sought additional financing in an attempt to refinance CRL. During this period he was able to negotiate an operating loan from the bank in the amount of $100,000.
+[46] The Appellant also considered having cheques being paid to CRL from its customers endorsed directly over to CRA, but because the bank was monitoring the company receivables so closely, the Appellant felt the bank would simply stop this practice if it were to be initiated.
+[47] On October 15, 1997 (Exhibit A-1, Tab 13), the bank advised CRL that it was automating CRL’s overdraft and delinquent loan reporting systems. This meant that cheques were to be honoured only if adequate funds were on deposit or otherwise available from the operating loan facility. This change had been unanticipated and made it more difficult for the company to meet its remittance obligations to CRA.
+[48] In early 1998, the Appellant, on behalf of CRL, sought further professional advice from the late Craig Dobbin, a well-known Newfoundland businessman. Following Mr. Dobbin’s advice, the Appellant entered into discussions with Morgan Capital Limited regarding a reorganization of CRL, together with an associated company, Campbell Development Limited. Although a letter of intent was signed on March 16, 1998 (Exhibit A-2, Tab 23), the Appellant did not proceed due to the amount of fees required by Morgan Capital Limited to complete the proposed work.
+[49] Throughout this period, the Appellant invested over $140,000 of his personal savings into the company to meet CRA remittances and loan payments and, in addition, made attempts to obtain funding from other sources. The Appellant also testified that he voluntarily did not take a salary from CRL so that priority again could be given to the CRA remittances. The Appellant’s name is not in fact present on any of the corporate payroll lists for 1996 (Exhibit A-1, Tab 7), 1997 (Exhibit A-1, Tab 15), 1998 (Exhibit A-1, Tab 17) and 1999 (Exhibit A-1, Tab 23).
+[50] Prior to 1999, the Appellant testified that he never considered closing CRL as he had a business plan based on his many years of successfully operating CRL. This plan, which aimed to get a handle on expenses, included consolidating all of the outlying branch offices scattered across the province and to have one main office in St. John’s to service the business. The Appellant explained how this would assist CRL in cutting costs by closing stores and decreasing staff, while continuing to rent heavy industrial equipment from the St. John’s office.
+[51] The Appellant also attempted to ensure cash flow for remittance obligations by continuing to scale back on internal corporate expenses. He stopped advertising, cut back on insurance premiums by ending all insurance coverage, except liability insurance, and purchased trucks at the end of lease periods instead of following the practice of leasing new vehicles. He further trimmed expenses to ensure remittances by not paying municipal business tax and water tax for a period until the water was cut off.
+[52] Stephen Lawlor, the CFO of CRL until he left in 1999, corroborated much of the Appellant’s testimony and the high priority placed on payment of CRA remittances. Mr. Lawlor was responsible for payroll remittances and in 1996, when cash flow problems arose, he immediately sought the Appellant’s involvement. He described the remittance and bank payments as always a topic of discussion. He recalled when cash was available, payments being made on remittance arrears. He also stated that the Appellant was regularly involved in communicating directly with the bank and with CRA officials in respect to meeting these obligations and also recalled that the Appellant injected his personal funds. When asked in direct examination whether CRA was given any priority in terms of payments that were owing, he responded:
+A. Well, CRA was always given priority, if we had the money. It was definitely given priority, that and the bank.
+(Transcript, page 175)
+[53] At page 179 of the transcript, Mr. Lawlor went on to explain that:
+A. Bill, Mr. Campbell basically attempted to do everything that he could do at that time. Borrowing money, putting money into the company, it was always a struggle. It could have been selling equipment that we really couldn’t afford to sell to help offset debt.
+…
+A. It’s a general observation, but we did everything in our power at that time to make sure that the Canada Revenue Agency was paid.
+[54] When Mr. Lawlor left CRL in 1999, just before it closed its doors, he testified that when he left, all of the corporate reporting, including T4 and T4A summaries, had been completed and brought up to date to that point in time (Exhibit A-1, Tab 27).
+[55] Between 1996 and 1999, the priority placed on remittance obligations by the Appellant became even clearer during a brief exchange in cross-examination of Mr. Lawlor:
+Q. Yes, your honour. Just one question, your honour. You do indicate that Mr. Campbell went out of his way to pay CRA and that was one of the main priorities?
+A. That was one of the priorities, yes.
+Q. You indicated the other main priority was the bank?
+A. Yes.
+Q. And pay off the debt to the Royal Bank?
+A. Right, yes.
+Q. Were these roughly equivalent on a day-to-day basis?
+A. As in a topic of discussion or what are you –
+Q. As an allocation of assets, an allocation of money available to pay debts.
+A. I recall basically having to deal with the bank and Bill having to deal with the bank to try and increase our credit line to help offset CRA debt. I do recall that. Whether – if you’re asking whether both of them balanced each other off or did they have the same priority, from my perspective, it was CRA that would have the main priority, but obviously if the bank couldn’t come to the table to help us out then that became obviously a bit of an issue to pay off the debt.
+(Transcript, pages 180-181)
+[56] Mr. Lawlor was both a straightforward and credible witness. He had stopped working for CRL over a decade ago and he had no personal interest in the outcome of this appeal. I attach considerable weight to his evidence particularly in respect to the personal involvement and commitment of the Appellant in seeing that CRA remittances were given the utmost priority.
+[57] The Respondent took the position that CRL should have been shut down prior to the period when the Appellant in early 1999 did make that decision. Yet the evidence did not suggest that anyone at CRA made that request or suggestion to the Appellant throughout the years in which he continued on behalf of CRL to have regular and frequent discussions with CRA and, in particular, CRA officer Jim Fitzgerald. It appears that, throughout this period and in light of the many actions taken by the Appellant, there was tacit acquiescence by CRA. Hindsight is always remarkably correct but I must focus on the facts as they unfolded during this period. I believe CRA’s acceptance and apparent approval of the many actions and steps taken by the Appellant support that the Appellant was seen to be acting as a reasonably prudent person would do in comparable circumstances.
+[58] In the facts of this case, I conclude that the Appellant acted as a prudent and reasonable person would have done in similar circumstances. At paragraph 28 of the McKinnon decision, it was confirmed that a director who seeks to establish due diligence is normally required to take certain positive steps:
+… when a director becomes aware, or ought to have become aware, that the company is falling behind with its remittances, he or she should take some positive steps to prevent the default, such as an attempt to increase the company's operating line of credit with its bank or to come to an arrangement with the bank that would enable it to make remittances. Directors have also alerted Revenue Canada to the problem and attempted to arrange to make payments by instalments.
+(Emphasis added)
+The Appellant took all of the actions enumerated in paragraph 28 of McKinnon but beyond those he pursued many additional actions in order to ensure compliance with remittance obligations.
+[59] In Information Circular IC89-2R-Directors’ Liability, CRA outlines some of the positive steps that a director can take to prevent remittance failure. Those steps include: establishing an account for withholdings and remittances, seeking regular status of the corporate accounts from the company officers, obtaining regular confirmation of whether remittances are made, and obtaining extension of the corporate line of credit when faced with financial difficulties. Again, the Appellant pursued most, if not all, of these steps in securing payment of CRL’s remittance obligations.
+[60] It is important to remember that the Appellant is held to the standard only of a reasonably prudent person and, as such, those positive steps that the Appellant pursued need only be reasonable without being foolproof solutions. As Sharlow J. explained in Smith v. The Queen, 2001 D.T.C. 5226, at paragraph 32:
+… A director is required only to act reasonably in the circumstances. The fact that his efforts are unsuccessful does not establish that he has failed to act reasonably.
+[61] I conclude that the Appellant can avail himself of the due diligence defence afforded under subsection 227.1(3) of the Act. Throughout the entire period, he involved himself directly with a hands-on, proactive approach in attempts to secure and comply with payment of the remittances of CRL. Although the Appellant testified many years after the fact without benefit of his corporate records, which through no fault of his own were discarded years previously, his testimony was largely corroborated by Stephen Lawlor. The fact that many of his cost-cutting actions were either only partially successful or not at all successful in enabling CRL to meet its obligations, does not mean that they were not those actions that any other reasonably prudent person would have undertaken when faced with similar circumstances.
+[62] For these reasons, the appeal is allowed with costs.
+Signed at Ottawa, Canada, this 19th day of February 2010.
+“Diane Campbell”
+Campbell J.
+CITATION: 2010 TCC 100
+COURT FILE NO.: 2007-3715(IT)G
+STYLE OF CAUSE: William Campbell and
+Her Majesty The Queen
+PLACE OF HEARING: St. John’s, Newfoundland
+DATES OF HEARING: December 14 and 15, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Diane Campbell
+DATE OF JUDGMENT: February 19, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Bruce S. Russell
+Counsel for the Respondent:
+Stan W. McDonald
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Bruce S. Russell
+Firm: McInnes Cooper
+Halifax, Nova Scotia
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

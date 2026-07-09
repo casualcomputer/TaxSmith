@@ -1,0 +1,155 @@
+Title: Demers c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26952/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-242-26952-demers-c-m-r-n-en.md
+Document type: case_law
+Last modified: 2004-04-13
+
+# Demers c. M.R.N.
+
+- Citation: 2004 TCC 242
+- Decision date: 2004-04-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 562, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Demers c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-13
+Neutral citation
+2004 TCC 242
+File numbers
+2002-3265(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-3265(EI)
+BETWEEN:
+ALEXANDRE DEMERS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on November 24, 2003, at Québec, Quebec
+Before: The Honourable Deputy Justice S. J. Savoie
+Appearances:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Stéphanie Côté
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 13th day of April 2004.
+"S. J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 24th day of August 2004.
+Gerald Woodard, Translator
+Citation: 2004TCC242
+Date: 20040413
+Docket: 2002-3265(EI)
+BETWEEN:
+ALEXANDRE DEMERS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie D.J.
+[1] This appeal was heard at Québec, Quebec, on November 24, 2003.
+[2] The issue is whether the employment held by the Appellant with the Payor, 9073-8931 Québec Inc., was insurable employment within the meaning of the Employment Insurance Act (the "Act") during the period at issue, from April 23 to November 9, 2001.
+[3] On June 19, 2002, the Minister of National Revenue (the "Minister") informed the Appellant of his decision that the employment was not insurable because a similar employment contract would not have been concluded had he and the Payor been dealing at arm's length.
+[4] In reaching his decision, the Minister relied on the following assumptions of fact:
+[translation]
+(a) The Payor was incorporated on February 11, 1999; (admitted)
+(b) The Payor operated as Peinture C. Demers; (admitted)
+(c) The Payor operated a house-painting business; (admitted)
+(d) The Payor's sole shareholder was Claude Demers; (admitted)
+(e) The Appellant is the son of Claude Demers; (admitted)
+(f) The Appellant was 17 years old during the period at issue; (admitted)
+(g) The Appellant was a labourer and did not paint; (denied)
+(h) The Appellant did not hold a competency certificate from the Commission de la Construction du Québec; (admitted)
+(i) The Appellant's duties consisted in helping other painters prepare rooms, sanding, cleaning and running errands; (denied)
+(j) The Appellant was usually entered in the Payor's payroll for 40-hour weeks; (admitted)
+(k) On June 6, 2002, in a statement to a representative of the Respondent, the Appellant stated that he always worked with other painters; (admitted)
+(l) On June 6, 2002, in a statement to a representative of the Respondent, the Appellant stated that he had worked a 50-hour week and that his hours were banked toward an incomplete week; (denied)
+(m) Some weeks during the period at issue, the Appellant was the only employee listed in the Payor's payroll; (denied)
+(n) On November 15, 2001, the Payor issued a Record of Employment to the Appellant for the period from April 23, 2001, to November 9, 2001, indicating 1,044 insurable hours and an total insurable income $8,854.00; (admitted)
+(o) The Appellant's Record of Employment does not give a true picture in terms of the period worked by the Appellant; (denied)
+(p) The Payor's payroll does not give a true picture in terms of the hours actually worked by the Appellant; (denied)
+(q) The weeks alleged to have been worked by the Appellant do not correspond to the weeks actually worked. (denied)
+[5] The Appellant admitted all of the Minister's presumptions of fact, except those listed at paragraphs (g), (i), (l), (o), (p) and (q).
+[6] The Human Resources Development Canada (HRDC) investigator, Michel Mathieu, met with the Worker and the Payor. He found it odd that the worker was always paid for 40 hours per week over a long period of time. The worker admitted that he sometimes worked more hours and that they were banked in order to round up other weeks that were incomplete, but this statement was denied by the Payor.
+[7] The Worker also stated that he always worked with his father and brothers. He indicated, however, that his brothers began work in 2001 after he started and stopped before him, leading the investigators to question the accuracy of his Record of Employment.
+[8] The Worker confirmed that hours had been banked. The Payor, while admitting that a certain number of hours had been carried forward to other weeks, referred to this procedure as compensation.
+[9] The Minister, however, said [TRANSLATION] "No, it is banking hours."
+[10] The Payor's payroll, filed as Exhibit A-1, indicates the total hours of Demers employees for the period at issue as follows:
+Alexandre Demers:
+1,044 hours
+Pascal Demers:
+724 hours
+Sébastien Demers:
+728 hours
+[11] That document also discredits the Appellant's evidence that he claimed to have always worked with his brothers. It is true that the Appellant also indicated that he worked with his father. However, the hours worked by his father, Claude Demers, are not recorded or included in any records.
+[12] The Appellant's file was submitted to the Eligibility Division on December 17, 2001, by the HRDC office in Charny. The grounds given were the date of termination which, according to the Appellant's statutory declaration, seemed to be earlier than that indicated on the Record of Employment. The Appellant stated that he had always worked with his brothers; their termination was well before his own.
+[13] The Appellant was a labourer and did not paint. He transported materials and ran errands. He often went to Bétonel to purchase paint. His duties consisted of preparing rooms for painting, i.e., sweeping, taping mouldings, covering windows and heaters for the first coat of paint, which was sprayed, and then sanding walls. He cleaned brushes and rollers, cleaned the premises and wrapped rollers. It was determined that all employees, even painters, did everything, such as sweeping, taping, covering openings, etc. The worker transported the paint from one house to the next once the work was finished.
+[14] In his testimony, however, the Appellant stated that painting was also part of his duties, but this contradicts the rest of the evidence, including his own statement to investigators, and that of the Payor.
+[15] It should also be noted that the Appellant and the Payor also do not agree regarding the time spent by the Appellant running errands. The Payor estimates that the Appellant spent three hours per day running errands, while the Appellant states that he only went to Bétonel a few times a week.
+[16] The Minister's presumption at paragraph (l) was proven at the hearing.
+[17] Appeals Officer Louise Savard's CPT 110 report was filed as evidence. Following are some relevant facts from that report, which summarizes the statutory declarations and information provided to the officer by the Appellant and Payor:
+The Worker stated that he and his brothers always travelled together with Michel Vallerand and Claude Demers, his father. He stated that he occasionally left the others, but remained with his father.
+The Payor reported that he laid the employees off due to a shortage of work, laying the others off prior to his son Alexandre. In response to a question from the appeals officer regarding whether or not he would have hired another person under the same conditions as his son, he responded: [TRANSLATION] "He is my son and I wanted him to work. Of course I gave him privileges because he is my son. Before hiring a stranger, I hired him. An apprentice would have done the same thing and would have cost $13 because he had a card. I wanted him to get up in the morning."
+[18] Pursuant to paragraphs 251(1)(a) and 251(2)(b) of the Employment Insurance Act, the Appellant and the employer are related and their relationship is not dealing with each other at arm's length. Paragraph 5(2)(i) of the Act excludes from insurability any employment "if the employer and employee are not dealing with each other at arm's length", but paragraph 5(3)(b) of that same Act states:
+(3) For the purposes of paragraph (2)(i):
+. . .
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[19] As indicated in this paragraph, all circumstances surrounding the employment must be examined in order to determine if it is reasonable for the Minister to conclude, as he did, that the Appellant and Payor would not have entered into a substantially similar contract of employment had they been dealing at arm's length.
+[20] Thus, we must now examine this employment in light of the circumstances set forth in paragraph 5(3)(b) of the Act, supra.
+[21] In terms of the Worker's remuneration, he received wages of $8.50 per hour for 32 or 40 hours per week over 27 weeks. He received this salary regularly and the cheques were cashed regularly.
+[22] In terms of employment conditions, it must be noted that the Appellant worked as a labourer helping other painters prepare the rooms to be painted, sanding them and cleaning them. He also ran errands for the Payor, including purchasing paint. A contradiction must be noted between the Appellant's version of his time spent running errands and that of the Payor. The Appellant claimed that he ran errands once or twice per week, while the Payor claimed that the Appellant went on errands to Bétonel two or three times per day and that it could take an average of three hours per day.
+[23] Another contradiction is related to the banking of hours. The Appellant stated in his statutory declaration and interview, as well as at the hearing, that he sometimes worked extra hours and banked them for incomplete weeks. This was flatly denied by the Payor.
+[24] In terms of the duration of the employment, it was established that the Appellant had begun work in April when there was only one other painter. The Minister questioned whether it was, under the circumstances, reasonable to have a full-time labourer to assist in the work of a single painter. In this regard, the Payor replied that, because there were fewer employees, it took longer to prepare the work. It must be remembered, however, that the Appellant is a labourer, not a painter, and that the Payor's contract was to paint houses.
+[25] Furthermore, according to the Record of Employment, the Appellant worked until November 9. However, he indicated to investigators that he always worked with his brothers and that they travelled together. He also indicated that he did not understand why his brothers had stopped working before him, according to the payroll, because it should have been the opposite, as he did not paint. The Payor indicated that he wanted his son Alexandre to work and that was why he had kept him to the end.
+[26] In terms of the nature and importance of the work performed, it was shown that the Appellant, as a labourer, performed work that other painters do as part of their daily work. It was thus established that it is not essential to have a labourer to help the painters. Furthermore, it was established that a person working as labourer helping painters in a house under construction must hold a certificate of competency-occupation from the Commission de la construction du Québec (CCQ). The Worker did not hold such a certificate. In this regard, the Payor indicated that the worker ran a lot more errands than he did labour at the site. It was indicated that the Commission de la construction du Québec does not require such a certificate for employees who only run errands. The Payor reported that the Appellant spent three hours per day running errands, while the Appellant stated that he ran errands once or twice per week. Furthermore, the Minister questioned whether a team of three or four painters would need two labourers because, according to the 2001 payroll, the Payor hired another labourer, Guy Charest. The Payor indicated that Guy Charest only worked on renovations of occupied homes. The Appellant noted, however, that he replaced labourer Charest in 2001 and that, to his knowledge, he was not employed by the Payor in 2001.
+[27] Having completed the administrative task set forth in subsection 5(3) of the Act, the Minister found that it was not reasonable to believe that a person dealing at arm's length would have had similar employment conditions, in that the Appellant was hired as labourer without a CCQ certificate of competency. The Minister also stated that he was unable to accept the contradictory versions provided regarding the "errands" run by the Worker.
+[28] The Minister also questioned the employment period of the Appellant, who held to the same version, i.e., that he always worked with his brothers, while they began work after him and finished before him. He thus found the Appellant's and Payor's statements to be contradictory.
+[29] Without listing all the contradictions uncovered and retained by the Minister during the investigation, some are listed:
+1. The Appellant and Payor both gave different versions of the work hours banked when the Appellant worked more than 40 hours per week.
+2. In his testimony, the Appellant claimed that he painted. This statement contradicts all the other evidence, including his own declaration and that of the Payor.
+3. The Appellant and the Payor, his father, give contradictory versions of the time the Appellant spent running errands.
+4. The Appellant claims he worked overtime, but this is denied by the Payor. The Appellant claimed that he always worked and travelled with his brothers, but this contradicts the rest of the evidence, including the Payor documents filed as evidence, such as payrolls. When the Appellant was confronted with this contradiction, he stated: [TRANSLATION] "I do not know. Logically, it is the opposite. I worked with my father, but my brothers were always there."
+[30] The Appellant has asked that this Court overturn the Minister's decision.
+[31] However, it is well established in law that the burden of proof rests on the Appellant, on a balance of probabilities.
+[32] The Federal Court of Appeal, in Légaré v. Canada (Minister of National Revenue - M.N.R.), [1999] F.C.J. No. 878, per Marceau, J., defined the role of this Court as part of an appeal under sections 70 et seq. of the Act as follows:
+While the applicable principles for resolving these problems have frequently been discussed, judging by the number of disputes raised and opinions expressed, the statement of these principles has apparently not always been completely understood. For the purposes of the applications before us, we wish to restate the guidelines which can be drawn from this long line of authority, in terms which may perhaps make our findings more meaningful.
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+Accordingly, it was guided by these principles that we considered the two cases before us for which the facts are relatively simple.
+[33] The Federal Court of Appeal, in Pérusse v. Canada(Minister of National Revenue - M.N.R.), [2000] F.C.J. No. 878, again per Marceau, J., again explained the role of this Court in the same context as follows:
+The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[34] The Federal Court of Appeal, in Massignani v. Canada (Minister of National Revenue - M.N.R.), [2003] F.C.J. No. 542 this time per Létourneau, J., adopted the same idea to define the role of this Court in similar circumstances as follows:
+First, the deputy judge failed to consider and fulfill his role under the Unemployment Insurance Act, S.C. 1970-71-72. c. 48 (the "Act"), paragraph 3(2)(c), a role that this Court described in Légaré v. Canada (1999), 246 N.R. 176 and Pérusse v. Canada (2000), 261 N.R. 150, which were followed in Valente v. Minister of National Revenue, 2003 FCA 132. This role does not allow the judge to substitute his discretion for that of the Minister, but it does encompass the duty to "verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, . . . decide whether the conclusion with which the Minister was 'satisfied' still seems reasonable". . .
+[35] More recently, the Federal Court of Appeal, in Louis-Paul Bélanger c. Canada (ministre du Revenu national - M.R.N.), [2003] A.C.F. no 1774, Létourneau, J., allowed the application for judicial review as follows:
+[translation]
+The judge did not fulfill his role under the Employment Insurance Act, which this Court has redefined in Pérusse v. Canada (Minister of National Revenue - M.N.R.), (2002) 261 N.R. 150, application for leave to appeal to the Supreme Court, [2000] S.C.C.A. No. 158, dismissed, and Légaré v. Canada (Minister of National Revenue - M.N.R.), (1999) 246 N.R. 176. These rulings were then followed in Valente v. Canada (Minister of National Revenue - M.N.R.), [2003] F.C.J. No. 418, 2003 FCA 132 and Massignani v. Canada (Minister of National Revenue - M.N.R.), [2003] F.C.J. No. 542, 2003 FCA 172.
+As indicated by this Court in Massignani, supra, at paragraph 2, "this role does not allow the judge to substitute his discretion for that of the Minister, but it does encompass the duty to 'verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, . . . decide whether the conclusion with which the Minister was 'satisfied' still seems reasonable . . .
+[36] In studying this case, this Court examined the facts inferred or relied on by the Minister. Most of the Minister's presumptions were admitted. Furthermore, the oral evidence heard at the hearing and the documents filed almost entirely proved the other presumptions.
+[37] In my opinion, the Minister, in exercising his duty under subsection 5(3) of the Act, was able to correctly assess these facts and presumptions.
+[38] The Appellant did not discharge his burden of proof as required by the Act. It is important to note that the evidence provided by the Appellant was contradictory on many major points. It therefore lacked credibility.
+[39] Having studied this case, and in light of additional facts presented in evidence, this Court must conclude that the Minister's decision still seems reasonable.
+[40] Accordingly, the appeal is dismissed and the Minister's decision is confirmed.
+Signed at Grand-Barachois, New Brunswick, this 13th day of April 2004.
+"S. J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 24th day of August 2004.
+Gerald Woodard, Translator

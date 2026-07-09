@@ -1,0 +1,172 @@
+Title: C.P.B. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30856/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-126-30856-c-p-b-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-04-20
+
+# C.P.B. c. La Reine
+
+- Citation: 2012 CCI 126
+- Decision date: 2012-04-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7353, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+C.P.B. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-04-20
+Référence neutre
+2012 CCI 126
+Numéro de dossier
+2011-2407(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2407(IT)I
+ENTRE :
+C.P.B.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 7 mars 2012, à Toronto (Ontario).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Représentants de l’appelante :
+Mme Shaira Nanji
+M. Richard Li
+Avocats de l’intimée :
+Me Laurent Bartleman
+Me Meaghan Hourigan
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des décisions du ministre du Revenu national (le « ministre »), relativement à la prestation fiscale canadienne pour enfants (la « PFCE ») pour les années de base 2007, 2008 et 2009 sont accueillis sans frais, et les décisions sont déférées au ministre pour qu’il procède à un nouvel examen et rende de nouvelles décisions compte tenu du fait que l’appelante était le seul particulier admissible à l’égard de la PFCE pour son fils pour les années de base en cause.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2012.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 20e jour de juin 2012.
+Mario Lagacé, jurilinguiste
+Référence : 2012 CCI 126
+Date : 20120420
+Dossier : 2011-2407(IT)I
+ENTRE :
+C.P.B.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Rip
+[1] L’appelante, qui est la mère des enfants, affirme qu’elle est la seule principale responsable des soins de ses deux enfants, une fille et un fils, et qu’elle a donc droit à la prestation fiscale canadienne pour enfants (la « PFCE ») pour les années de base 2007, 2008 et 2009. Son ex-mari, le père des enfants, affirme que la mère et lui ont la garde partagée des enfants et qu’ils ont tous deux droit à la PFCE.
+[2] Le ministre du Revenu national (le « ministre ») a donné raison au père et a accordé la PFCE aux deux parents, à l’égard des deux enfants, pour les périodes suivantes :
+L’appelante
+—
+Juillet 2008 à février 2009
+Le père
+—
+Mars 2009 à août 2009
+L’appelante
+—
+Septembre 2009 à février 2010
+Le père
+—
+Mars 2010 à août 2010
+L’appelante
+—
+Septembre 2010 à février 2011
+Le père
+—
+Mars 2011 à juin 2011
+[3] Le ministre a décidé que l’appelante n’était pas, à l’égard des enfants, le « particulier admissible » à l’égard de la PFCE au sens de l’article 122.6 de la Loi de l’impôt sur le revenu (la « Loi ») pendant plus de six mois pour chaque année de base en cause, étant donné que, au cours des périodes en cause, les enfants vivaient pendant un temps égal chez leur mère et leur père qui, chacun, assumait principalement la responsabilité pour leur soin aux moments pertinents. La mère n’était pas d’accord et a fait appel des décisions du ministre.
+[4] Les parents se sont séparés le 1er mai 2006 et ont conclu, en date du 26 septembre 2006, une entente de séparation selon laquelle ils se partageaient également la garde des enfants; les conditions de l’entente relative à la garde ont été confirmées par une ordonnance judiciaire provisoire le 26 septembre 2007. Une ordonnance finale a été rendue le 19 octobre 2009. Les enfants vivaient une semaine chez leur père et une semaine chez leur mère, en alternance. Il n’est pas contesté que chaque parent a consacré aux enfants un temps égal.
+[5] L’appelante a déclaré que les enfants avaient des besoins « exceptionnels, importants et continus ». L’intimée a reconnu ce fait. Les deux enfants doivent suivre une thérapie comportementale au Behaviour Institute de Toronto et auprès des Kinark Child and Family Services (« Kinark ») à Markham, en Ontario.
+[6] Le fils et la fille, nés en 1997 et en 1999 respectivement, fréquentaient tous deux une école située à un pâté de maisons de la demeure de l’appelante. Celle-ci a signé les formulaires d’inscription à l’école et précise que c’est avec elle que l’école devait communiquer en cas d’urgence : l’école tentait également de trouver avec les enfants et les parents des solutions aux problèmes que tous vivaient. L’appelante affirme qu’elle a assisté à toutes les réunions de l’école; quant au père, il a dit avoir été présent à la plupart d’entre elles.
+[7] Le fils a reçu un diagnostic d’autisme en 2002. L’appelante dit ne pas avoir raté une seule réunion concernant l’état de son fils, en plus d’avoir cherché de l’information à ce sujet. Le garçon a fréquenté un établissement d’Oshawa spécialisé dans l’orthophonie et l’ergothérapie; il a reçu des diagnostics au Children’s Hospital de Toronto de même qu’au Behaviour Institute et à Kinark. La fille recevait elle aussi des traitements au Behaviour Institute et à Kinark. L’appelante a produit des copies des chèques tirés sur son compte bancaire en 2008 pour acquitter le coût des services reçus par les enfants au Behaviour Institute. Les factures établies par le Behaviour Institute pour 2007 et 2008 étaient adressées aux deux parents, parfois à l’égard des deux enfants, mais le plus souvent à l’égard de l’un d’eux en particulier. En fait, la plupart des factures concernaient les soins donnés au fils.
+[8] Dans son témoignage, l’appelante a déclaré que le père, pendant un certain temps, refusait que les enfants suivent une thérapie au Behaviour Institute et qu’elle a dû s’adresser au tribunal de la famille pour l’empêcher de faire cesser les traitements.
+[9] L’appelante a également déclaré que, même si son ex-mari demandait des copies des reçus du Behaviour Institute, il disait qu’il était [traduction] « hors de question qu’il paie ». L’appelante a pu obtenir une aide financière du ministère des Services à la famille de l’Ontario.
+[10] En 2008, le fils recevait des services d’intervention comportementale intensive dans le cadre du programme pour autistes de Kinark. Le programme était en partie financé par le gouvernement de la province, mais il ressort de la preuve que les montants acquittés par les parents l’ont été par l’appelante. Kinark faisait parvenir les factures aux deux parents. Toutefois, c’est l’appelante qui a signé les contrats intervenus avec Kinark.
+[11] L’appelante a déclaré avoir payé 54 000 $ pour les soins professionnels reçus par les enfants en 2008, auxquels il faut ajouter [traduction] « 200 000 $ pour le total des années à l’égard de [son] fils ». Elle a expliqué qu’elle avait recueilli de l’argent en organisant des tournois de golf, en grevant sa maison d’une nouvelle hypothèque et en obtenant des prêts de ses parents.
+[12] Il semble que l’appelante ait été rapide à constater les problèmes de ses enfants et à vouloir faire quelque chose pour eux, même s’il me faut reconnaître, à la lecture des rapports rédigés par les travailleurs sociaux de Kinark, que ces problèmes, bien qu’importants, n’étaient pas aussi aigus qu’elle le pensait. La preuve semble également indiquer que le père n’a pas offert tout le soutien dont on était en droit de s’attendre de lui, notamment en ce qui a trait au fils.
+[13] Des éléments de preuve révèlent que le fils avait des liens plus étroits avec sa mère qu’avec son père. Il recherchait les conseils et la compagnie de sa mère plus que ceux de son père. Lorsqu’il était chez son père, il téléphonait à sa mère et lui rendait visite. Cette dernière assistait également à toutes les parties de hockey de son fils, qu’elles aient lieu ou non pendant la semaine où elle avait la garde de ses enfants.
+[14] L’appelante a fourni quantité de factures, de reçus et de chèques oblitérés pour étayer l’allégation selon laquelle elle contribuait aux activités récréatives de son fils, payait les coûts associés au hockey, à la crosse et à d’autres activités sportives, ainsi que les coûts des camps de jour et de l’équipement de sport. Elle a aussi payé les fournitures scolaires de chaque enfant.
+[15] Selon l’appelante, indépendamment du temps que les enfants passent avec leur père, c’est celle qui s’occupe de leurs besoins au quotidien : elle prend la majorité des rendez-vous des enfants chez le médecin et le dentiste et affirme qu’elle les y accompagne même pendant la semaine où ils sont avec leur père.
+[16] Les deux parents disent payer les vêtements et les activités des enfants. Bien que l’appelante ait produit des reçus, mais non le père, je suis convaincu que les deux parents ont contribué à l’achat des vêtements et au coût des activités, quoiqu’inégalement. Par exemple, l’appelante a produit la preuve qu’en 2007, en 2008 et en 2009, elle a contribué à hauteur de 1 945,69 $, 4 362,68 $ et 4 077,63 $, respectivement, au coût des activités des enfants[1].
+[17] Le père a décrit une journée type à la maison lorsqu’il avait la garde des enfants. Les enfants se réveillent, font leur toilette, font leur lit et prennent le petit déjeuner. Les premières années, la compagne du père les conduisait à l’école. Le père s’est rendu à l’école pour assister à des réunions et obtenir les bulletins des enfants. Pendant la semaine où il a la garde des enfants, c’est à lui que l’école téléphone en cas d’urgence. Cette affirmation est contraire au témoignage de l’appelante, mais, comme le dossier de l’école renferme son nom et ses coordonnées, je le crois lorsqu’il affirme qu’il pouvait aussi être appelé en cas d’urgence. Le père a également déclaré qu’il payait certaines des excursions organisées par l’école et les frais exigés lors de journées spéciales, telles que les [traduction] « journées pizza ». Il a ajouté qu’il achetait aussi des fournitures scolaires.
+[18] Aux dires du père, il arrivait que le fils reçoive des séances de traitement à son domicile. Le père ajoute qu’il était présent lors des séances et qu’il y prenait parfois part. Il avait la règle suivante : à leur arrivée à la maison, les enfants devaient faire leurs devoirs, après quoi ils pouvaient s’amuser.
+[19] À la maison, le père a aménagé une chambre pour chaque enfant. Il a acheté une console de jeu XBox à son fils. Il a inscrit sa fille à des cours de natation et son fils à des activités de hockey. Il affirme avoir acquitté les frais d’inscription au hockey et l’équipement de son fils. Il a reconnu que la mère avait elle aussi acheté de l’équipement de hockey. Puis, en contre-interrogatoire, il a affirmé qu’il avait assumé le coût de tout l’équipement et de tous les tournois de hockey de son fils. Les grands‑parents ont payé quelques pièces d’équipement, mais la mère n’en a acheté qu’à une seule occasion. La preuve documentaire de l’appelante contredit cette affirmation. Elle a produit des chèques oblitérés témoignant du paiement d’un grand nombre d’activités de son fils. Dans bien des cas, il s’agissait de dépenses liées au hockey.
+[20] En ce qui concerne la thérapie, le père soutient avec insistance qu’il a pris des mesures, aussi bien que la mère, pour permettre à son fils d’assister à des séances de traitement au Behaviour Institute une fois qu’il a été déclaré autiste. Cette affirmation aussi est contraire au témoignage de la mère.
+[21] Le père a déclaré qu’il accompagnait lui aussi les enfants aux rendez-vous chez le médecin et le dentiste lorsque ceux-ci tombaient pendant sa semaine de garde. Il voyait son fils pendant les semaines où il n’en avait pas la garde lorsqu’il assistait à une partie de hockey ou participait à une activité scolaire.
+[22] L’article 122.6 de la Loi codifie les règles relatives à l’admissibilité à la PFCE. C’est au « particulier admissible » qu’il revient de demander la PFCE à l’égard d’une personne à charge admissible, soit, en l’espèce, le fils et la fille. Aux fins du présent appel, « particulier admissible » s’entend de la personne qui répond aux conditions suivantes au moment pertinent :
+a) elle réside avec la personne à charge;
+(a) resides with the qualified dependant,
+b) elle est la personne — père ou mère de la personne à charge — qui :
+(b) is a parent of the qualified dependant who
+(i) assume principalement la responsabilité pour le soin et l’éducation de la personne à charge et qui n’est pas un parent ayant la garde partagée à l’égard de celle-ci,
+(i) is the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant and who is not a shared-custody parent in respect of the qualified dependant, or
+(ii) est un parent ayant la garde partagée à l’égard de la personne à charge;
+[…]
+(ii) is a shared-custody parent in respect of the qualified dependant,
+…
+[23] D’après les faits portés à ma connaissance, les parents ont la garde partagée de chacun des enfants. Les enfants passent un temps égal chez chacun des parents. Compte tenu de la situation, pour décider, dans les présents appels, quel parent est, à l’exclusion de l’autre, admissible à la PFCE, il faut déterminer lequel d’entre eux assume principalement la responsabilité pour le soin et l’éducation de l’enfant lorsqu’il réside avec lui, conformément à la réglementation.
+[24] L’article 6302 du Règlement de l’impôt sur le revenu (le « Règlement ») précise ce qui suit :
+[…] les critères suivants servent à déterminer en quoi consistent le soin et l’éducation d’une personne à charge admissible :
+… the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+(a) the supervision of the daily activities and needs of the qualified dependant;
+b) le maintien d’un milieu sécuritaire là où elle réside;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+c) l’obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+d) l’organisation pour elle d’activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+e) le fait de subvenir à ses besoins lorsqu’elle est malade ou a besoin de l’assistance d’une autre personne;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+g) de façon générale, le fait d’être présent auprès d’elle et de la guider;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+h) l’existence d’une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[25] Les témoignages des deux parents, lorsqu’ils portaient uniquement sur un enfant en particulier et non les deux, concernaient essentiellement le fils. La preuve relative au soin et à l’éducation de la fille était ténue en comparaison de celle ayant trait au fils. Les témoignages portaient principalement sur le fils. La preuve dont j’ai été saisi me pousse à conclure qu’il n’y avait pas de différence entre les parents quant au soin et à l’éducation de leur fille. À l’égard de celle-ci, les éléments énumérés à l’article 6302 du Règlement semblent avoir fait l’objet d’un partage égal.
+[26] Toutefois, je constate que les efforts déployés par l’appelante à l’endroit de son fils et le soutien qu’elle lui a apporté, tant sur le plan affectif que financier, surpassaient ceux du père. C’était auprès d’elle que le fils cherchait du réconfort, bien plus qu’auprès du père. C’est elle qui, dès le départ et sans relâche, a subvenu aux besoins du fils lorsqu’il était malade et qui était là pour lui lorsque sa présence était requise. L’engagement de l’appelante semble avoir également été plus important en ce qui concerne la participation du fils à des activités récréatives et athlétiques : pendant les années en cause, elle a assisté aux activités et en a payé le coût. Dans l’ensemble, elle était aussi plus présente auprès du fils et le guidait davantage; elle était son pilier affectif. Cela ne signifie pas que le père ne prenait pas part au soin et à l’éducation de son fils, mais simplement que la contribution de l’appelante était supérieure à la sienne.
+[27] Par conséquent, je ne modifierai pas la décision du ministre en ce qui concerne la fille de l’appelante : les parents se sont partagé également le soin de celle-ci. Toutefois, à mon sens, la mère a assumé principalement la responsabilité du soin du fils au cours des périodes en cause. Ainsi, seuls seront accueillis les appels interjetés à l’encontre de la décision rendue par le ministre relativement au fils.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2012.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 20e jour de juin 2012.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2012 CCI 126
+No DE DOSSIER DE LA COUR : 2011-2407(IT)I
+INTITULÉ : C.P.B. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 7 mars 2012
+MOTIFS DU JUGEMENT : L’honorable juge en chef Gerald J. Rip
+DATE DU JUGEMENT : Le 20 avril 2012
+COMPARUTIONS :
+Représentants de l’appelante :
+Mme Shaira Nanji
+M. Richard Li
+Avocats de l’intimée :
+Me Laurent Bartleman
+Me Meaghan Hourigan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le père a produit des reçus relatifs à des paiements effectués en 2010 pour un camp de planche à roulettes pour son fils et un camp d’activités artistiques pour sa fille. Par ailleurs, on trouve une lettre rédigée par un travailleur social en date du 9 octobre 2010, dans laquelle on peut lire que le père [traduction] « a supporté les coûts » liés à la pratique du hockey par son fils et aux leçons d’équitation de sa fille. L’année 2010 n’est pas une année de base visée en l’espèce.

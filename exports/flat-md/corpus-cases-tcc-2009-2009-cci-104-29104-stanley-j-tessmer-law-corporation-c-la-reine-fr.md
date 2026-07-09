@@ -1,0 +1,205 @@
+---
+title: "Stanley J. Tessmer Law Corporation  c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29104/index.do"
+last_modified: "2009-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 104"
+citation2: ""
+neutral_citation: "2009 CCI 104"
+decision_date: "2009-02-16"
+language: "fr"
+item_id: "29104"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6667
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:10:06.929000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c71477200a5615c9aff88b54bcde6244f29be832607dd12d56df261309b6110f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stanley J. Tessmer Law Corporation  c. La Reine
+
+- Citation: 2009 CCI 104
+- Decision date: 2009-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6667, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stanley J. Tessmer Law Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-02-16
+Référence neutre
+2009 CCI 104
+Numéro de dossier
+2007-3627(GST)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2007-3627(GST)G
+2007-3628(GST)G
+2007-3629(GST)G
+2007-3630(GST)G
+2007-3631(GST)G
+ENTRE :
+STANLEY J. TESSMER LAW CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Requête entendue à Vancouver (Colombie‑Britannique), le 29 janvier 2009.
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelante :
+Me Craig C. Sturrock
+Avocats de l’intimée :
+Me David Jacyk
+Me Elizabeth (Lisa) McDonald
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l’appelante, la Cour déclare que l’appelante a qualité pour soulever les prétendues atteintes aux droits garantis à ses clients par la Charte canadienne des droits et libertés et pour se fonder sur ces atteintes pour contester la validité de la Loi sur la taxe d’accise en ce qui concerne l’application de la taxe sur les produits et services aux honoraires juridiques demandés pour des services de défense au criminel fournis par l’appelante.
+L’adjudication des dépens pour la présente requête est laissée à la discrétion du juge du procès.
+Signé à Ottawa, Canada, ce 16e jour de février 2009.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 27e jour d’avril 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009CCI104
+Date : 20090216
+Dossiers : 2007-3627(GST)G
+2007-3628(GST)G
+2007-3629(GST)G
+2007-3630(GST)G
+2007-3631(GST)G
+ENTRE :
+STANLEY J. TESSMER LAW CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DE L’ORDONNANCE
+La juge V.A. Miller
+[1] L’intimée a déposé la présente requête en vertu de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »). La demande d’audition de la requête a été accueillie par une ordonnance rendue par la juge Campbell le 12 septembre 2008. La question de droit qui doit être tranchée est la suivante :
+[TRADUCTION]
+L’appelante a-t-elle qualité pour soulever et invoquer les prétendues atteintes aux droits reconnus par la Charte à ses clients de contester la validité de la Loi sur la taxe d’accise, telle qu’elle s’applique à l’imposition de la taxe sur les produits et services (la « TPS ») sur les honoraires juridiques demandés pour des services de défense au criminel qu’elle fournit?
+Les faits
+[2] L’appelante fournit des services juridiques, et son directeur, Me Stanley Tessmer, est avocat de la défense spécialisé en droit criminel.
+[3] L’appelante a omis de percevoir et de verser la taxe sur les produits et services (la « TPS ») à l’égard des services juridiques qu’elle a fournis. L’appelante s’est vu imposer le paiement de la TPS, d’intérêts et de pénalités par cinq cotisations établies à l’égard des périodes de déclaration entre le 1er juillet 1999 et le 30 septembre 2005 et de quatre autres périodes de déclaration de trois mois couvrant la période allant du 1er octobre 2005 au 31 décembre 2006. Les questions en litige communes aux cinq appels interjetés à l’égard de ces cotisations‑là sont de savoir : a) si l’application de la TPS aux honoraires juridiques relatifs à des services de défense au criminel viole les droits garantis aux clients de l’appelante par l’article 7 et les alinéas 10b) et 11d) de la Charte canadienne des droits et libertés (la « Charte »), et b) si le ministre du Revenu national (le « ministre ») a commis une erreur en imposant des pénalités. Dans l’appel visant la période allant du 1er juillet 1999 au 30 septembre 2005, l’appelante soutient que la cotisation en cause porte sur des années frappées de prescription.
+[4] L’appelante a déjà présenté un appel semblable devant la Cour en 1998, où elle soutenait que l’application de la TPS violait le droit garanti à ses clients par la Charte d’avoir recours à l’assistance de l’avocat de leur choix. En rejetant cet appel[1], le juge McArthur a affirmé que l’appelante n’avait présenté aucun élément de preuve démontrant que des personnes avaient été empêchées d’exercer leur droit d’avoir recours à l’assistance d’un avocat, et que la Constitution ne protège pas le droit de sélectionner l’avocat de son choix. De façon incidente, le juge McArthur s’est fondé sur l’arrêt Irwin Toy c. Québec (P.G.)[2] pour affirmer que l’appelante ne pouvait pas attaquer la constitutionnalité de la loi en alléguant qu’elle violait les droits d’une autre personne.
+[5] En l’espèce, l’appelante a plaidé très peu de faits dans ses avis d’appel, et l’intimée a présenté une demande de précisions. L’appelante a répondu à cette demande en expliquant qu’elle se fondait sur les faits suivants pour dire qu’elle avait qualité pour présenter ses appels et pour alléguer que la TPS violait les droits garantis à des tiers par la Charte :
+[TRADUCTION]
+a) l’appelante fournit presque exclusivement des services d’avocats de la défense spécialisés en droit criminel;
+b) les services fournis par l’appelante incluent la représentation de personnes accusées d’infractions prévues au Code criminel, à la Loi réglementant certaines drogues et autres substances et à d’autres lois fédérales et provinciales. Ces services sont fournis à des personnes qui ont été arrêtées ou détenues – auxquelles l’alinéa 10b) de la Charte s’applique donc – et à des personnes qui ont besoin de l’assistance d’un avocat pour avoir droit à un procès équitable – auxquelles s’appliquent ainsi l’article 7 et l’alinéa 11d) de la Charte, et d’autres droits constitutionnels garantis par la primauté du droit;
+c)l’avocat travaillant pour l’appelante demandait à tous ses clients qu’il défendait au criminel s’ils étaient capables de payer la TPS relative aux honoraires facturés pour les services qu’ils avaient reçus. Si un client disait être incapable de payer la TPS, l’appelante ne facturait pas, ne percevait pas et ne versait pas la TPS;
+d) l’application de la TPS aux services de défense au criminel nuisait à l’accès à la justice des clients de l’appelante et à la protection des droits décrits ci‑dessus que leur garantit la Charte;
+e)l’application de la TPS aux services en cause violait le droit des défendeurs d’avoir recours à l’avocat de leur choix et limitait les fonds qu’ils pouvaient consacrer à leur défense, et ce, sans justification légale;
+f) les cinq avis de cotisation visés par les présents appels imposent un fardeau considérable à l’appelante à cause du paiement de la TPS, d’intérêts et de pénalités qui y est exigé;
+g)l’appelante a dûment présenté des avis d’opposition quant aux avis de cotisation en cause;
+h)le ministre du Revenu national a entrepris une procédure de recouvrement à l’encontre de l’appelante en délivrant des demandes formelles de paiement le 6 mars 2006 et les 13 et 14 juin 2007. Ces demandes ont été envoyées à deux banques et à un autre tiers;
+i) à cause des faits exposés ci‑dessus, l’appelante a subi un préjudice exceptionnel;
+j) l’appelante a un intérêt véritable dans la détermination de la question portant sur la validité de l’application de la TPS dans la présente affaire. L’appelante est directement touchée, et, en plus d’avoir subi un préjudice exceptionnel, elle a qualité pour soulever les questions constitutionnelles en cause en vertu de la règle discrétionnaire de l’intérêt public. L’appelante se fonde, entre autres, sur les paragraphes 24(1) et 52(1) de la Charte pour demander des mesures de redressement appropriées.
+Les positions des parties
+[6] L’intimée soutient que le seul fait qu’une cotisation ait été établie à l’endroit de l’appelante ne donne pas à celle‑ci qualité pour interjeter appel en se fondant sur une violation des droits garantis à des tiers par la Charte. L’intimée s’est fondée sur l’arrêt de la Cour d’appel fédérale dans Moresby Explorer Ltd. v. Canada[3] pour appuyer sa position voulant que, de façon générale, une partie n’a pas qualité pour contester la constitutionnalité d’une loi lorsque le vice sur le plan constitutionnel ne viole pas ses propres droits garantis par la Charte.
+[7] L’intimée a aussi affirmé que l’appelante n’a pas qualité pour agir en vertu de l’exception de l’arrêt Office canadien de commercialisation des œufs c. Richardson[4] (« OCCO »), qui donne qualité pour agir aux sociétés dans certaines situations exceptionnelles. Selon l’intimée, l’appelante n’a pas été forcée de comparaître devant la Cour.
+[8] Plus précisément, l’intimée a affirmé que l’appelante avait déjà tenté de soulever la question de la constitutionnalité des dispositions en cause, et ce, même si ses propres droits garantis par la Charte n’avaient pas été violés. L’avocat de l’intimée a traité de la décision de la Cour canadienne de l’impôt à laquelle j’ai fait référence au paragraphe 4 des présents motifs. Plus récemment, l’appelante avait cherché, sans succès, à agir comme intervenante devant la Cour suprême du Canada dans le cadre de l’affaire Christie c. Colombie‑Britannique (PG)[5], qui portait sur une question semblable, à savoir la constitutionnalité de l’application d’une taxe provinciale de la Colombie‑Britannique aux frais juridiques.
+[9] L’intimée a aussi soutenu que l’appelante ne remplissait pas les conditions permettant d’avoir qualité pour agir en vertu du critère du préjudice exceptionnel. Selon l’intimée, pour avoir qualité d’agir en vertu du critère du « préjudice exceptionnel », l’appelante doit démontrer qu’elle a subi un préjudice disproportionné par rapport aux autres personnes tenues de percevoir ou de verser la TPS. L’avocat de l’intimée a affirmé que l’appelante n’a présenté aucun élément de preuve à ce sujet dans le cadre de la présente requête, présentée en vertu du paragraphe 58(1) des Règles.
+[10] Le dernier argument de l’intimée veut que l’appelante n’a pas qualité pour agir en vertu de la règle de l’intérêt public. Selon l’intimée, aucune question constitutionnelle sérieuse n’a été soulevée dans les appels. L’appelante aurait formulé sa question de façon à ne pas tenir compte de la situation financière de ses clients
+[11] L’avocat de l’appelante a affirmé qu’il n’est pas nécessaire de présenter d’éléments de preuve pour soulever un argument fondé sur la Charte, car la Cour peut analyser une question au moyen d’une situation hypothétique. Selon l’avocat de l’appelante, si une loi est inconstitutionnelle à l’égard de certaines personnes, la loi est inconstitutionnelle à l’égard de tous.
+[12] L’appelante soutient qu’elle devrait avoir qualité pour agir en vertu de la règle établie dans OCCO. L’avocat de l’appelante a affirmé qu’aucune personne inculpée n’a présenté de demande visant à soulever la question constitutionnelle en cause. De plus, il serait illogique de dire que l’appelante, à l’égard de qui une cotisation d’environ 350 000 $ a été établie, ne peut pas contester la constitutionnalité de la loi en vertu de laquelle la cotisation a été établie.
+Analyse
+[13] Je tiens tout d’abord à dire que je trancherai seulement la question qui a été soulevée dans la requête. Je ne me prononcerai pas sur l’issue des appels. Dans l’arrêt Office canadien de commercialisation des œufs c. Richardson[6], la Cour suprême du Canada a résumé l’état du droit en ce qui concerne la qualité pour agir dans une procédure où un argument fondé sur la Charte est soulevé. Dans cette affaire‑là, l’Office canadien de commercialisation des œufs avait entrepris une procédure à l’encontre de deux sociétés (les « producteurs d’œufs ») pour obtenir des dommages‑intérêts et une injonction enjoignant aux producteurs d’œufs de ne pas vendre leurs œufs dans d’autres provinces. Dans leur défense, les producteurs d’œufs ont soutenu que le régime de commercialisation des œufs violait les droits qui leur étaient garantis par la Charte, à savoir la liberté de circulation prévue à l’article 6 et la liberté d’association prévue à l’alinéa 2d). Dans l’appel, une des questions en litige était de savoir si les producteurs d’œufs, en tant que personnes morales, avaient qualité pour contester la constitutionnalité du régime de commercialisation des œufs en se fondant sur la Charte dans le cadre de leur défense à une poursuite civile.
+[14] Se prononçant au nom de la Cour suprême sur la question de la qualité pour agir, les juges Iacobucci et Bastarache ont affirmé ce qui suit au paragraphe 35 d’OCCO :
+[35] En général, la partie qui cherche à invoquer la Charte peut obtenir la qualité pour agir de quatre manières générales : de plein droit, en vertu de l’exception de l’arrêt Big M Drug Mart, dans l’intérêt public ou en vertu d’un pouvoir discrétionnaire résiduaire. Comme nous l’avons vu, notre Cour aurait pu reconnaître aux intimés en l'espèce la qualité pour agir, en vertu de son pouvoir discrétionnaire résiduaire.
+[15] La Cour suprême a pris connaissance du fait que, même si la règle générale veut que la Charte puisse seulement être invoquée par ceux qu’elle protège, l’exception de l’arrêt Big M Drug Mart permet à une personne morale accusée de se défendre en alléguant que la loi en vertu de laquelle elle est accusée est inconstitutionnelle. Dans OCCO, la Cour suprême a noté que l’exception de l’arrêt Big M Drug Mart fait « qu’une personne morale ou une personne physique accusée “pourrait […] contester une accusation portée en vertu de la Loi”, même si ses propres droits n’avaient pas été violés[7] ».
+[16] Dans OCCO, la Cour suprême a conclu que l’exception de l’arrêt Big M Drug Mart devait être étendue aux poursuites civiles dans des circonstances limitées. La Cour suprême s’est exprimée de la sorte aux paragraphes 39, 40, 44 et 46 d’OCCO :
+[39] Ce qu’a créé Big M Drug Mart, c’est une exception qui reconnaît la qualité pour agir de plein droit à la personne accusée en vertu d’une mesure législative qu’elle prétend être inconstitutionnelle. La personne dont les droits garantis par la Constitution sont violés a qualité de plein droit pour contester l’atteinte portée par l’État, dans une action intentée par elle ou contre elle. L’arrêt Big M Drug Mart étend ce droit à l’accusé dont les propres droits ne sont pas effectivement violés, mais qui plaide l’inconstitutionnalité de la mesure législative en vertu de laquelle il est poursuivi.
+[40] À notre avis, la logique de l’arrêt Big M Drug Mart va jusqu’à reconnaître aux intimés la qualité pour agir de plein droit. Bien qu’ils puissent chercher à se faire reconnaître la qualité pour agir dans l’intérêt public, nous ne croyons pas qu’ils aient besoin de le faire. Ils ne comparaissent pas volontairement devant la cour. Ils sont menacés du fait qu’un organisme de l’État les fait comparaître au moyen d’une demande d’injonction fondée sur un régime de réglementation. Si cette demande était accueillie, il pourrait en résulter une mise à exécution par voie de procédures en matière d’outrage. Si ces réparations reposent sur une règle de droit inconstitutionnelle, il semblerait extraordinaire qu’un défendeur ne puisse pas se faire entendre pour en plaider l’inconstitutionnalité, uniquement parce que la disposition constitutionnelle qui la rend invalide ne s’applique pas à une personne morale.
+[…]
+[44] En étendant l’exception de l’arrêt Big M Drug Mart aux poursuites civiles dans ces circonstances limitées, nous ne voulons pas fournir aux personnes morales une nouvelle arme en matière de litige. Notre but est de permettre à une personne morale, poursuivie en justice conformément à un régime de réglementation, de contester la loi – qu’elle considère inconstitutionnelle – en vertu de laquelle le régime en cause a été établi. Certes, tout comme nul ne devrait être déclaré coupable d’une infraction définie par une loi inconstitutionnelle, nul ne devrait faire l’objet de procédures et de sanctions coercitives autorisées par une telle loi.
+[…]
+[46] Même si les intimés n’ont pas été poursuivis en vertu du régime fédéral de commercialisation des œufs, il n’en demeure pas moins que c’est ce régime qui justifiait l’action civile de l’OCCO. N’eût été ce régime, l’OCCO n’aurait subi aucun préjudice. En fait, il n’y aurait pas d’OCCO. Le défendeur dans une action civile fondée sur une mesure législative a normalement le droit de contester la constitutionnalité de cette mesure législative. Cependant, il a été soutenu que, parce que les intimés étaient des personnes morales et que les actions intentées contre elles étaient de nature civile, ils ne pouvaient pas contester les dispositions du régime. À notre avis, pour maintenir la primauté du droit et l’intégrité du système judiciaire, il est beaucoup plus important de garantir la constitutionnalité de la mesure législative en vertu de laquelle l’État engage des procédures coercitives que de savoir si les procédures en question sont de nature pénale ou civile. Si l’exigence de procédures pénales était maintenue, une personne morale faisant l’objet d’une injonction civile prononcée à la demande d’un organisme de l’État ne pourrait pas contester la constitutionnalité de la loi ayant autorisé ces procédures. Toutefois, si elle violait l’injonction, elle pourrait être accusée d’outrage. Elle s’exposerait alors à des peines plus sévères. Pourtant, à cette dernière étape, même si elle s’exposait à des sanctions pénales, elle ne pourrait pas contester la loi en vertu de la Charte, du fait que ces sanctions ont été autorisées non par cette loi, mais en vertu des pouvoirs de la cour en matière d’outrage.
+[17] La question soulevée par la présente requête est de savoir si l’appelante a été forcée de comparaître devant la Cour dans le cadre des appels en cause. J’ai conclu que tel est le cas.
+[18] L’appelante est devenue un mandataire de Sa Majesté en chef du Canada lorsqu’elle a effectué une fourniture taxable. L’appelante devait percevoir la TPS payable par l’acquéreur de la fourniture taxable[8]. Selon le régime établi par la Loi sur la taxe d’accise (la « LTA »), le ministre pouvait établir une cotisation à l’égard de l’appelante, car elle était la personne qui avait effectué la fourniture taxable[9]. La cotisation de TPS a déterminé la taxe à payer de l’appelante[10], et la cotisation est valide et exécutoire, sous réserve d’une nouvelle cotisation et d’une annulation prononcée par suite d’une opposition ou d’un appel[11].
+[19] Je note aussi qu’une cotisation a déjà été établie à l’égard de l’appelante quant à la TPS non perçue, et que cette cotisation imposait des pénalités en vertu des articles 280 (non déclaration) et 285 (faute lourde) de la LTA. Le ministre a aussi pris des mesures de recouvrement en délivrant et signifiant des demandes formelles de paiement à une des banques de l’appelante et à une société liée à l’appelante. L’avocat de l’appelante a affirmé que l’appelante avait payé environ 350 000 $ pour acquitter ses obligations relatives à la TPS.
+[20] Le fait que l’appelante a dû entreprendre les appels en cause est simplement une nuance[12] de notre régime d’autocotisation, dans lequel c’est le contribuable qui doit établir que la cotisation du ministre est erronée. Cela n’enlève rien au fait que l’appelante a été forcée de comparaître devant la Cour. Compte tenu des circonstances des appels en cause et des observations et des conclusions présentées dans la jurisprudence que j’ai citée, si l’appelante juge que la loi est inconstitutionnelle, la question peut seulement être tranchée par la Cour si c’est l’appelante elle‑même qui la soulève.
+[21] Je conclus donc que l’appelante a qualité pour soulever les prétendues atteintes aux droits garantis à ses clients par la Charte et pour se fonder sur ces atteintes pour contester la validité de la LTA en ce qui concerne l’application de la TPS aux honoraires juridiques demandés pour des services de défense au criminel fournis par l’appelante.
+[22] L’adjudication de dépens pour à la présente requête est laissée à la discrétion du juge du procès.
+Signé à Ottawa, Canada, ce 16e jour de février 2009.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 27e jour d’avril 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009CCI104
+Nos DES DOSSIERS DE LA COUR :
+2007-3627(GST)G
+2007-3628(GST)G
+2007-3629(GST)G
+2007-3630(GST)G
+2007-3631(GST)G
+INTITULÉ :
+Stanley J. Tessmer Law Corporation et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 29 janvier 2009
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Valerie Miller
+DATE DE L’ORDONNANCE :
+Le 16 février 2009
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Craig C. Sturrock
+Avocats de l’intimée :
+Me David Jacyk
+Me Elizabeth (Lisa) McDonald
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Craig C. Sturrock
+Cabinet :
+Thorsheinssons LLP
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1999] G.S.T.C. 41.
+[2] [1989] 1 R.C.S. 927.
+[3] (2006), 350 N.R. 94 (CAF).
+[4] [1998] 3 R.C.S. 157.
+[5] 2007 CSC 21.
+[6] Précité, note 4.
+[7] Précité, note 4, au paragraphe 38.
+[8] Loi sur la taxe d’accise, paragraphe 221(1).
+[9] Idem, article 296.
+[10] Terra Nova Properties Ltd. v. Minister of National Revenue (1967), 67 D.T.C. 5064 (Cour de l’Échiquier), à la page 5066.
+[11] Loi sur la taxe d’accise, paragraphes 299(3) et (4).
+[12] Douglas H. Mathew c. La Reine, 2002CCI1999464, au paragraphe 500.

@@ -1,0 +1,160 @@
+Title: Scott-Trask c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28978/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-638-28978-scott-trask-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-10-03
+
+# Scott-Trask c. La Reine
+
+- Citation: 2008 CCI 638
+- Decision date: 2008-10-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6788, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scott-Trask c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-10-03
+Référence neutre
+2008 CCI 638
+Numéro de dossier
+2006-2629(GST)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-2629(GST)I
+ENTRE :
+JULIE SCOTT-TRASK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus à Toronto (Ontario), le 3 octobre 2008.
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Avocat de l’appelante :
+Me James Rhodes
+Avocate de l’intimée :
+Me Sharon Lee
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard de cotisations établies en vertu de la Loi sur la taxe d’accise pour les périodes allant du 1er octobre 2002 au 31 décembre 2002 et du 1er octobre 2001 au 31 décembre 2001, respectivement, dont les avis sont datés du 25 janvier 2006 et du 20 février 2006, sont accueillis et les cotisations sont annulées.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2008.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 12e jour de janvier 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2008 CCI 638
+Date : 20081124
+Dossier : 2006-2629(GST)I
+ENTRE :
+JULIE SCOTT-TRASK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Les présents appels ont été interjetés à l’égard de cotisations établies par le ministre du Revenu national (le « ministre ») en vertu de la Loi sur la taxe d’accise[1] (la « Loi ») pour les périodes allant du 1er octobre 2001 au 31 décembre 2001 et du 1er octobre 2002 au 31 décembre 2002 par suite du manquement de l’appelante, en tant qu’associée de Sunrise Gardens, de verser au receveur général une somme de taxe sur les produits et services s’élevant à environ 25 800 $, intérêts et pénalités compris. La question est donc de savoir si l’appelante était une associée de Sunrise Gardens durant les périodes en cause.
+[2] L’avocate de l’intimée a précisé la question en disant qu’il fallait se demander si l’appelante et son époux d’alors, Norman Scott‑Trask, exploitaient Sunrise Gardens (« Sunrise ») en commun. L’appelante, M. Scott‑Trask et David Foster ont témoigné pour l’appelante. Je n’ai aucune raison de ne pas croire leurs témoignages.
+[3] Essentiellement, on peut répondre à la question en appliquant la loi aux faits en cause dans la présente affaire. L’appelante enseignait à des enfants handicapés en 1997 et 1998, son époux n’avait pas d’emploi et leur relation était tendue[2]. Elle a été déçue lorsqu’elle a appris d’une tierce personne que son époux avait commencé à mettre sur pied une entreprise d’aménagement paysager, mais, pour appuyer son époux et pour consolider leur relation, elle a, en mars 1998, enregistré la raison sociale de la société de personnes en leurs deux noms[3]. Elle n’avait pas conscience des conséquences juridiques de sa décision, et elle ne connaissait rien de la nouvelle entreprise d’aménagement paysager de son époux, car elle enseignait à temps plein et s’occupait de leurs deux enfants à la maison. L’appelante n’a ni travaillé pour la nouvelle entreprise de son époux, ni participé à ses activités. De plus, elle a continué à être le principal soutien financier de la famille, et ce, surtout durant les premières années d’existence de Sunrise.
+[4] Avant 1998, M. Scott‑Trask avait déclaré faillite, et le couple a financé l’achat d’une maison avec le seul salaire de l’appelante. L’appelante tenait beaucoup à sauvegarder leur mariage qui était alors fragile et, pour ce faire, elle a cosigné une demande de ligne de crédit pour Sunrise, est devenue cosignataire du compte bancaire de Sunrise et a signé des déclarations de TPS et des documents connexes[4]. Elle n’a jamais signé de chèque tiré sur le compte bancaire de Sunrise et elle n’a jamais participé aux opérations bancaires ou à la tenue de dossiers de l’entreprise.
+[5] Dans ses déclarations de revenus personnelles pour les années d’imposition 2001 et 2002, l’appelante a déclaré son salaire d’enseignante, qui dépassait 60 000 $, mais elle n’a rien indiqué quant à Sunrise, que ce soit des bénéfices ou des pertes. M. Scott‑Trask ne discutait pas de Sunrise avec l’appelante; c’est lui qui prenait toutes les décisions, y compris celle d’acheter de l’équipement lourd tel un camion. L’appelante ne savait pas que Sunrise ne versait pas la TPS et d’autres taxes et impôts au receveur général du Canada : elle a été [TRADUCTION] « choquée et blessée » de voir son salaire saisi.
+[6] M. Scott‑Trask a corroboré le témoignage de l’appelante. Il a expliqué qu’il ne pouvait pas ouvrir un compte bancaire pour Sunrise sans avoir enregistré son entreprise et que, comme il n’avait pas d’argent, son épouse avait accepté de l’aider. Il a ajouté que [TRADUCTION] « nous n’avons jamais eu l’intention d’être associés, ce devait être mon entreprise ». M. Scott‑Trask exploitait Sunrise comme une entreprise individuelle et il a dit que l’appelante ne participait aucunement à son exploitation. Sunrise relevait exclusivement de M. Scott‑Trask. Il a toutefois fallu que son épouse lui serve de caution pour qu’il puisse obtenir la ligne de crédit parce qu’il n’avait aucun revenu et qu’il n’avait pas eu d’emploi depuis un certain temps avant 1998. Sunrise n’a jamais été rentable et a cessé ses activités en 2003. M. Scott‑Trask a ajouté que son seul moyen d’assurer la survie de son entreprise en 2001 et en 2002 avait été de ne pas faire les versements au receveur général du Canada. Il a déclaré faillite quand l’Agence du revenu du Canada a saisi le salaire de son épouse.
+[7] Le dernier témoin de l’appelante était David Foster. Celui‑ci a travaillé pour Sunrise comme paysagiste et ouvrier durant plus d’un an à compter de juin 2000. M. Foster n’avait jamais rencontré l’appelante ni vu quoi que ce soit qui lui aurait donné à penser qu’elle était liée à Sunrise durant cette période.
+[8] Une agente des appels, Maria Wormsbecker, a témoigné pour l’intimée. Elle a affirmé que l’appelante n’avait pas déclaré de revenus ou de pertes provenant de Sunrise pour les périodes en cause. L’agente des appels a aussi dit que, selon ses dossiers, l’appelante était une associée de Sunrise.
+[9] L’avocat de l’appelante a exposé la position de sa cliente de la façon suivante :
+a) Si l’appelante a signé les divers documents, c’était seulement en tant qu’épouse qui voulait aider et encourager son époux qui n’avait pas d’emploi.
+b) Les documents que l’appelante a signés n’ont pas créé de relation juridique d’associés entre elle et son époux.
+c) Ce sont les intentions et les actions de l’appelante et de M. Scott‑Trask à l’égard de Sunrise Gardens qui doivent servir à déterminer la nature juridique de leur relation. Leurs intentions et leurs actions démontrent que l’appelante et M. Scott‑Trask n’exploitaient pas Sunrise Gardens en commun.
+d) Durant toute la période pertinente, Sunrise Gardens était exploitée comme une entreprise individuelle dont M. Scott‑Trask était l’unique propriétaire et exploitant.
+[10] La position de l’intimée est la suivante :
+a) En 1998, l’appelante et son époux, John Norman Scott‑Trask, ont établi une société de personnes et l’ont enregistrée sous la raison sociale de Sunrise Gardens.
+b) La société était un inscrit aux fins de la TPS, et on lui avait attribué le numéro de TPS suivant : 89354 1623 RT0001.
+c) L’appelante était signataire autorisé et elle était désignée comme associée dans les documents relatifs aux comptes bancaires de la société de personnes.
+d) En application du paragraphe 272.1(5) de la Loi, l’appelante est solidairement responsable du paiement ou du versement des montants devenus à payer ou à verser par la société de personnes.
+e) Le ministre a eu raison d’établir une cotisation à l’égard de l’appelante en application des paragraphes 272.1(5) et 296(1) de la Loi pour les montants que la société de personnes n’avait pas versés.
+Analyse
+[11] Les deux parties ont cité Continental Bank Leasing Corp. c. Canada[5], où le juge Bastarache s’est exprimé ainsi :
+[22] […] Ce libellé, commun à la plupart des lois sur les sociétés en nom collectif dans les ressorts de common law, comporte trois éléments essentiels : (1) une entreprise, (2) exploitée en commun (3) en vue de réaliser un bénéfice. […]
+[23] L’existence d’une société en nom collectif est tributaire des faits et circonstances propres à chaque espèce. Elle est également fonction de l’intention véritable des parties. Comme il est indiqué dans Lindley & Banks on Partnership (17e éd. 1995), à la p. 73 : [traduction] « pour déterminer l’existence d’une société en nom collectif […] il faut tenir compte du contrat et de l’intention véritable des parties ressortant de l’ensemble des faits de l’affaire ».
+Dans les présents appels, les parties s’entendent pour dire que les éléments (1) et (3) sont présents, et il est admis que Sunrise était une entreprise exploitée en vue de réaliser un bénéfice. La seule question est donc de savoir si elle était exploitée en commun par l’appelante et M. Scott‑Trask.
+[12] La position de l’intimée peut être résumée en disant qu’il existait une société de personnes qui avait été enregistrée formellement et que le formulaire indiquait que l’appelante et son époux exploitaient Sunrise en tant qu’associés. L’appelante avait signé des documents bancaires et une demande de prêt; elle était aussi désignée comme associée dans les déclarations de TPS. Aucun contrat de société n’avait été conclu pour préciser les conditions relatives à l’établissement de la société de personnes. Dans sa conclusion, l’avocate de l’intimée s’est exprimée de la sorte :
+[TRADUCTION]
+[…]
+Il est clair que les tribunaux de toutes les instances ont conclu que l’existence d’une société de personnes n’exige pas que les deux associés gèrent l’entreprise. Il n’est pas davantage nécessaire que les deux associés partagent les bénéfices, ni même qu’ils travaillent l’un et l’autre dans l’entreprise.
+Il ne reste donc que la question de l’intention subjective de l’appelante et de M. Scott‑Trask, qui n’est étayée que par leur témoignage. Par conséquent, l’intimée soutient que la Cour devrait conclure qu’il existait une société de personnes parce que l’entreprise a été présentée comme telle à des tiers dans les déclarations de taxe, dans les documents bancaires, dans la demande de prêt, lors de l’ouverture du compte bancaire, et parce que l’appelante était signataire autorisée à l’égard du compte bancaire et pouvait lier l’entreprise par sa signature.
+En l’espèce, le ministre a conclu à l’existence d’une société de personnes. Mis à part les déclarations de l’appelante et de M. Scott‑Trask, aucune preuve n’a été présentée pour démontrer que l’appelante et M. Scott‑Trask n’étaient pas associés. […]
+(Transcription, pages 35 et 36)
+[13] L’article 2 de la Loi sur les sociétés en nom collectif[6] est ainsi rédigé :
+2. La société en nom collectif est la relation qui existe entre des personnes qui exploitent une entreprise en commun en vue de réaliser un bénéfice. […]
+[Non souligné dans l’original.]
+En l’espèce, ce sont les mots « en commun » qui revêtent la plus grande importance. Dans Backman c. R.[7], les juges Iacobucci et Bastarache se sont ainsi exprimés :
+[21] Pour déterminer si une entreprise est exploitée « en commun », il faut se rappeler qu’une société de personnes naît d’un contrat. L’objectif commun nécessaire à l’établissement d’une société de personnes sera habituellement présent lorsque les parties auront conclu un contrat de société valide énonçant leurs droits et obligations respectifs en tant qu’associés. […]
+[14] L’intimée se fonde sur un seul fait, le formulaire d’enregistrement d’entreprise de l’Ontario dans lequel il était indiqué que l’appelante et M. Scott‑Trask étaient les associés de Sunrise. Ce document doit être considéré dans son contexte. Comme l’a dit la Cour suprême du Canada dans Continental Bank :
+[…] une société en nom collectif est tributaire des faits et circonstances propres à chaque espèce.
+[15] Parmi les faits pertinents, on peut noter que l’appelante a signé le formulaire d’enregistrement d’entreprise et y a coché la case « société en nom collectif » en ne comprenant pas les conséquences juridiques de ce choix, mais elle a fait cela afin d’encourager son époux à se créer un emploi. Elle ne connaissait rien à l’aménagement paysager et n’avait ni le temps ni le désir d’y participer. M. Scott‑Trask considérait que Sunrise relevait exclusivement de lui, et l’appelante partageait ce point de vue. L’enregistrement à lui seul ne suffit pas pour conclure à l’existence d’une société de personnes. Dans son ensemble, la preuve tend à démontrer que l’appelante et M. Scott‑Trask n’avaient pas l’intention d’exploiter Sunrise comme associés. Je suis convaincu que la société de personnes était une entreprise individuelle. L’appelante a cosigné une demande de ligne de crédit de 5 000 $. Comme pour les autres documents, c’est en tant qu’épouse voulant appuyer son mari qu’elle l’a fait, et non pas à titre d’associée. C’est seulement à cause de l’enregistrement de la société de personnes que le nom de l’appelante apparaissait dans les déclarations de TPS. Dans ses déclarations de revenus, l’appelante n’a jamais fait référence à la société de personnes et à ses bénéfices, ou, plus probablement, à ses pertes. L’appelante aurait certainement pu se servir des pertes de Sunrise pour réduire son impôt à payer. La preuve présentée par l’appelante et M. Scott‑Trask, qui n’a pas été contredite, démontre clairement que l’appelante et M. Scott‑Trask n’ont jamais eu l’intention d’établir une société de personnes. Dans Backman, la Cour suprême du Canada a aussi dit que :
+[26] Les tribunaux doivent se montrer pragmatiques dans l’examen des trois éléments essentiels d’une société de personnes. Pour déterminer si une telle société a été établie dans une affaire donnée, il faut analyser et soupeser les facteurs pertinents eu égard à toutes les circonstances. Le fait que l'existence de la prétendue société de personnes doive être examinée au regard de l’ensemble des circonstances est incompatible avec l’application mécanique d’une liste de contrôle ou d’un critère comportant des paramètres définis de façon plus précise.
+[16] La citation suivante, tirée de la décision du juge Christie dans Sedelnick Estate v. Minister of National Revenue[8], s’applique aux présents appels :
+[…] Lorsque l’existence d’une convention expresse entre les époux n’est pas établie et sauf dans certaines circonstances particulières, qu’il m’est ici impossible d’imaginer, l’existence de la société ne devrait pas être déduite du comportement des parties, s’il s’agit d’un comportement que les époux pourraient également adopter dans leur intérêt commun, du fait de leur mariage. La chose peut englober de nombreuses activités qui sont purement de nature commerciale. […]
+Plus loin, il cite un passage de Lindley on Partnership[9] :
+[TRADUCTION]
+[…] la Cour soit réticente à conclure à l’existence d’une société lorsque les parties sont mari et femme.
+[17] Il faut donc appliquer une norme plus stricte avant de conclure à l’existence d’une association entre un époux et une épouse. Manifestement, Sunrise était l’entreprise de M. Scott‑Trask. L’appelante a soutenu cette entreprise, mais seulement en tant qu’épouse de M. Scott‑Trask, en non pas comme associée. M. Scott‑Trask était paysagiste; l’appelante était enseignante et s’occupait des enfants. Si elle avait demandé la déduction de 50 % des pertes de Sunrise, le ministre aurait probablement soutenu que l’appelante n’était pas associée. Il n’existait aucune synergie entre l’appelante et M. Scott‑Trask quant à Sunrise.
+[18] Pour ces motifs, les appels sont accueillis et les cotisations sont annulées.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2008.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 12e jour de janvier 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008 CCI 638
+No DU DOSSIER DE LA COUR :
+2006-2629(GST)I
+INTITULÉ :
+Julie Scott-Trask et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 3 octobre 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge C.H. McArthur
+DATE DU JUGEMENT :
+Le 24 novembre 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me James Rhodes
+Avocate de l’intimée :
+Me Sharon Lee
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me James Rhodes
+Cabinet :
+Miller Thomson
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. 1985, ch. E-15, dans sa version modifiée.
+[2] Ils sont aujourd’hui séparés ou divorcés.
+[3] Pièce R-1, onglet 1.
+[4] Pièce R-1, onglets 4 et 5.
+[5] [1998] 2 R.C.S. 298.
+[6] L.R.O. 1990, c. P.5, dans sa version modifiée.
+[7] 2001 CSC 10.
+[8] [1986] 2 C.T.C. 2102.
+[9] 14e édition (Scamell and Banks)

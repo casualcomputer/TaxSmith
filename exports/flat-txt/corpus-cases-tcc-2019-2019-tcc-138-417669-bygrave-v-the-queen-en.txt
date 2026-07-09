@@ -1,0 +1,183 @@
+Title: Bygrave v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/417669/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-138-417669-bygrave-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-06-25
+
+# Bygrave v. The Queen
+
+- Citation: 2019 TCC 138
+- Decision date: 2019-06-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4377, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bygrave v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-06-25
+Neutral citation
+2019 TCC 138
+File numbers
+2016-2201(IT)I
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Income Tax Act
+Notes
+A correction was made on July 23, 2019
+Decision Content
+Docket: 2016-2201(IT)I
+BETWEEN:
+STEPHEN BYGRAVE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 7, 2019, at Toronto, Ontario
+Before: The Honourable Justice Susan Wong
+Appearances:
+Counsel for the Appellant:
+Glenroy K. Bastien
+Counsel for the Respondent:
+Derek Edwards
+AMENDED JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2010 taxation year is allowed, without costs, and the December 18, 2014 reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+the Appellant’s $13,412 gain from the sale of the Property was a capital gain; and
+the penalties assessed under subsection 163(2) are deleted.
+Signed at Ottawa, Canada, this 22nd day of July 2019.
+“Susan Wong”
+Wong J.
+Citation: 2019 TCC 138
+Date: 20190722
+Docket: 2016-2201(IT)I
+BETWEEN:
+STEPHEN BYGRAVE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Wong J.
+Introduction
+[1] The Appellant Stephen Bygrave appeals the Minister of National Revenue’s January 12, 2016 reassessment of his 2010 taxation year. In that reassessment, she included unreported net business income in the amount of $13,412 and levied gross negligence penalties under subsection 163(2) of the Income Tax Act (the “Act”).
+[2] The reassessment arises from the Appellant’s 2010 sale of a condominium unit being Suite 214, 8 Maison Parc in Vaughan, Ontario (the “Property”).
+[3] The Appellant and his brother Patrick Bygrave testified on the Appellant’s behalf. No one testified on behalf of the Respondent.
+Issues
+[4] The issues before this Court are as follows:
+(i) whether the Appellant’s $13,412 gain from the sale was business income from an adventure or concern in the nature of trade, or a capital gain; and
+(ii) if the gain was business income, then whether the penalties levied under subsection 163(2) were appropriate in the circumstances.
+Test
+[5] The question of whether a gain from the sale of real estate is on account of income or capital is a question of fact.
+[6] Generally, the Court should consider the surrounding circumstances and specifically, the Court should consider intention.
+[7] Friesen v. Her Majesty the Queen, [1995] 3 SCR 103, Canada Safeway Limited v. Her Majesty the Queen, 2008 FCA 24, 2008 DTC 6074, and Happy Valley Farms Ltd v. Her Majesty the Queen (1986), 7 FTR 3, are often cited for the factors to be considered.
+[8] The Supreme Court of Canada took the list of factors in the Minister of National Revenue’s bulletin IT-218R and restated most of them at paragraph 17 of Friesen as follows:
+(i) The taxpayer’s intention with respect to the real estate at the time of purchase and the feasibility of that intention and the extent to which it was carried out. An intention to sell the property for a profit will make it more likely to be characterized as an adventure in the nature of trade.
+(ii) The nature of the business, profession, calling or trade of the taxpayer and associates. The more closely a taxpayer’s business or occupation is related to real estate transactions, the more likely it is that the income will be considered business income rather than capital gain.
+(iii) The nature of the property and the use made of it by the taxpayer.
+(iv) The extent to which borrowed money was used to finance the transaction and the length of time that the real estate was held by the taxpayer. Transactions involving borrowed money and rapid resale are more likely to be adventures in the nature of trade.
+[9] With respect to intention, the Supreme Court of Canada also said that an adventure in the nature of trade first requires a “scheme for profit-making” and that there must be a legitimate intention to gain a profit from the transaction in question: see Friesen at paragraph 16.
+[10] Also with respect to intention, the Federal Court of Appeal said that:
+[A]lthough the courts have used various factors to determine whether a transaction constituted an adventure in the nature of trade or a capital transaction, namely, those found in IT-218R, the most determinative factor is the intention of the taxpayer at the time of acquiring the property. If that intention reveals a scheme for profit-making, then the Court will conclude that the transaction is an adventure in the nature of trade.
+(See Canada Safeway Limited at paragraph 43)
+[11] In Happy Valley Farms Ltd., the Federal Court Trial Division discussed “secondary intention” and reproduced the following summary of the test from Racine et al v. Minister of National Revenue, [1965] CTC 150:
+…the fact alone that a person buying a property with the aim of using it as capital could be induced to resell it if a sufficiently high price were offered to him, is not sufficient to change an acquisition of capital into an adventure in the nature of trade. In fact, this is not what must be understood by a “secondary intention” if one wants to utilize this term.
+To give to a transaction which involves the acquisition of capital the double character of also being at the same time an adventure in the nature in trade, the purchaser must have in his mind, at the moment of the purchase, the possibility of reselling as an operating motivation for the acquisition; that is to say that he must have had in mind that upon a certain type of circumstances arising he had hopes of being able to resell it at a profit instead of using the thing purchased for purposes of capital. Generally speaking, a decision that such a motivation exists will have to be based on inferences flowing from circumstances surrounding the transaction rather than on direct evidence of what the purchaser had in mind.
+(See Happy Valley Farms Ltd. at paragraph 16)
+Factual background
+(1) The Appellant
+[12] The Appellant is a transit operator for the Toronto Transit Commission (“TTC”), where he has worked since May 2005. His brother Patrick is also a transit operator with the TTC and joined the TTC in 2006.
+[13] The Appellant graduated from high school in about 1988. A few years after that, he finished the courses needed for an associate degree from an online bible college but did not complete the process for obtaining the degree. He then spent some time in the music program at York University, where he also took some general science courses. He is presently in the Bachelor of Commerce program at York, through which he completes one course a semester while he continues to work full-time for the TTC.
+[14] Before joining the TTC, the Appellant worked for two or three years in customer service at General Motors Acceptance Corporation (as it was then known). He also worked as a youth pastor for a few years, and took a variety of short-term jobs through temp agencies.
+(2) 310 Cranston Park Avenue
+[15] The Appellant purchased this townhouse in Vaughan, Ontario, in about 1998 and stated that it was the first property he had ever bought. Patrick Bygrave testified that he (Patrick) contributed $7,000 toward the initial down payment. The Appellant stated that their cousin Doris Simpson was a co-signor for the purchase and that she was a one-percent owner for credit purposes. He stated that Ms. Simpson’s name appeared on title with his own, but the arrangement was that he and his brother would own 310 Cranston Park equally while their cousin would have no ongoing interest in it. Patrick stated that he and the Appellant shared all household expenses, including the mortgage payments, equally.
+[16] The Appellant testified that he and Patrick had lived under the same roof since childhood and they both moved into 310 Cranston Park in 1999. They both described this property as a two-storey townhouse with three bedrooms and an unfinished basement.
+[17] While they were living at 310 Cranston Park, Patrick Bygrave met someone in about 2003 and married her in April 2007. She moved into 310 Cranston Park, they had a child in February 2008, and the three of them continued to reside there.
+[18] In December 2008, the Appellant’s and Patrick’s father passed away in Jamaica (Exhibit A-1, Tab 7). Patrick testified that their parents met in Jamaica, got married in Canada in 1965 or 1966, and lived in Canada after that. He stated that upon retiring, their parents bought a house in Jamaica in about 2005 or 2006 and spent six months of each year there. He testified that when their parents came to Canada, they stayed at 310 Cranston Park. It is also an unrebutted assumption of fact [Reply to the Notice of Appeal at paragraph 9(n)] that their parents’ address of record for income tax purposes had been 310 Cranston Park since 1999.
+[19] The Appellant testified that following their father’s death, their mother did not feel safe living alone in Jamaica and she moved into 310 Cranston Park permanently in about March 2009. The Appellant stated that Patrick and his family shared the master bedroom, while the Appellant and their mother each occupied one of the remaining two bedrooms.
+[20] The Appellant testified that he refinanced the mortgage on 310 Cranston Park in order to purchase Patrick’s share of that property, but did not pay their cousin Doris anything. Patrick testified that he then used the funds to purchase a home for his own family at 1749 Angus Street in Innisfil, Ontario, in about September 2009.
+(3) 8 Maison Parc Court, Suite 214 (the “Property”)
+[21] The Appellant stated that in about 2005 or 2006, he and Patrick began discussing going their separate ways because of the changes in Patrick’s personal circumstances. The Appellant testified that he wanted to sell 310 Cranston Park and move to a home that was smaller and closer to his place of work.
+[22] The Appellant described the Property as a two-bedroom apartment on a single level, and smaller than 310 Cranston Park.
+[23] The Appellant testified that in 2006, he made an offer to purchase the Property, which was in the pre-construction phase at the time (Exhibit R-1, Tab 16). The tentative occupancy date of the Property was April 27, 2008, but the builder notified the Appellant on June 15, 2007, April 30, 2008, and September 2, 2009, to postpone the occupancy date to November 27, 2008, August 1, 2009, and October 28, 2009, respectively (Exhibit A-1, Tabs 17, 18, and 19).
+[24] When asked in cross-examination whether he had time to plan for these events, the Appellant responded that when his mother moved in with him, he did not have possession of the Property yet but he knew it would be too small. He testified that his plan then changed from selling 310 Cranston Park to selling the Property. He stated that 310 Cranston Park had multiple levels so there was a bedroom on the main floor as well as the ones on the second floor, and an unfinished basement with space for exercising.
+[25] On August 10, 2010, the Appellant took possession of the Property and became its registered owner. He stated that although the decision to sell was made in 2009, he did not take any steps to sell the Property prior to closing. He testified that a real estate agent advised him the best thing to do was to wait until he had title before doing so.
+[26] The Appellant testified that after he took possession of the Property, he immediately arranged to list it for sale. He stated that no one lived in the Property in the interim. He entered into an Agreement for Purchase and Sale (Exhibit A-1, Tab 6) in October 2010 with a closing date of November 19, 2010. The Appellant sold the Property for $343,000, resulting in a net gain of $13,412.
+[27] The Appellant and Patrick Bygrave testified that in May 2014, their mother moved in with Patrick at his Angus Street home to help care for her grandchild after Patrick experienced a marital breakdown.
+[28] The Appellant continues to reside at 310 Cranston Park.
+Applying the test
+(1) Intention
+[29] The Appellant stated that he purchased the Property with the intention of living in it after his brother moved out of their shared residence at 310 Cranston Park. When their father died and their mother wished to return to Canada to live full-time, the Appellant testified that he changed his plans to move so that his mother could live with him at 310 Cranston Park, which was a larger space. He testified that he could not afford to own both homes, so he listed and sold the Property shortly after assuming title. He stated that if not for his father’s death and his mother’s return to Canada, he would have carried out his plan to sell 310 Cranston Park and live in the Property as his primary residence.
+[30] The Appellant tendered a copy of his mother’s T4A(OAS) Statement of Old Age Security for the 2013 taxation year (Exhibit A-1, Tab 10), showing that his mother’s address was 310 Cranston Park. He also tendered a copy of an HOOPP (Healthcare of Ontario Pension Plan) Pension Confirmation Statement dated March 16, 2011, addressed to his mother at 310 Cranston Park.
+[31] The Appellant was examined in chief with respect to a reproduction of a Notice of Assessment with respect to his mother’s 2005 taxation year (Exhibit A‑1, Tab 12), in which his mother’s address is shown to be 1749 Angus Street (Patrick’s family home).
+[32] He referred to a notation at the bottom of the Notice of Assessment, indicating that it was released in accordance with section 241 of the Income Tax Act and that the date of the notation was “2016-04-05”. He testified that he subsequently telephoned the Canada Revenue Agency to inquire about his mother’s address on this notice and was informed that the Agency’s system automatically inserts taxpayers’ current addresses into documents.
+[33] He explained that after the Minister confirmed his 2010 reassessment in January 2016, he began requesting copies of tax records from CRA in preparation for his Tax Court appeal. In addition to his mother’s 2005 Notice of Assessment, this Court was referred to a May 4, 2016 reproduction of the Notice of Confirmation (Exhibit A-1, Tab 15) and an August 31, 2016 detailed Statement of Account (Exhibit A-1, Tab 16) in support of his explanation.
+[34] On a balance of probabilities, I find that it is very likely that his mother’s address was not 1749 Angus Street in 2005 and that her current address was automatically inserted into the CRA’s reproduction of her 2005 Notice of Assessment.
+[35] The Appellant was examined in chief and in cross with respect to information provided verbally and in writing by his accountant to CRA (Exhibit R-1, Tab 10 and a memo preceding Tab 1). His accountant’s explanation of the transaction and the surrounding circumstances contained apparent inconsistencies such as:
+(i) the Appellant’s mother was a 50-percent co-owner of 310 Cranston Park;
+(ii) the co-owner was to pay the Appellant out for his share of 310 Cranston Park but was unable to do so; and
+(iii) the Appellant could not carry both properties and was forced to sell the Property.
+[36] The Appellant stated that this accountant had done his taxes for a number of years, and the information provided by the accountant about the Appellant’s mother was incorrect. He testified that the accountant’s narrative otherwise reflected his and Patrick’s plan before their father passed away. He stated that if they had sold 310 Cranston Park, he would have received his share of the sale proceeds and applied it against his purchase of the Property. He also agreed that it was true that he was unable to carry both properties and was forced to sell the Property. With respect to the inconsistencies between his accountant’s and his own narrative, he testified that his accountant knew about their father’s death and their mother moving in with the Appellant; however, his accountant was of the view that these personal circumstances should not form part of the narrative provided to CRA because they were superfluous.
+[37] I found the Appellant and his brother to be credible witnesses. While a lack of precision can sometimes reflect dishonesty, that is not always the case. In this case of a close-knit family, the lack of precision is more reflective of the fluidity of decision-making when major unexpected life events occur, i.e. the death of their father and the need to ensure that their mother was looked after. I am of the view that the accountant’s misstatements were simply misstatements.
+[38] On a balance of probabilities, I find that the Appellant’s intention with respect to the Property was to live in it as his primary residence. I also do not find the possibility of resale to have been a secondary intention at the time the Appellant acquired the Property. I find that his intention to live in the Property was stymied by the unexpected death of his father, which gave rise to a new family obligation to look after his mother, a change to his personal plans, and the sale of the Property.
+[39] Therefore, this factor favors a finding on account of capital.
+(2) Nature of the business, profession, calling or trade of the taxpayer and associates
+[40] The Appellant and his brother Patrick have both been transit operators with the TTC since 2005 and 2006, respectively. The Appellant testified that 310 Cranston Park was the first property he had ever purchased. There was no evidence to suggest that he had purchased properties other than 310 Cranston Park and the Property.
+[41] Before he secured stable employment with the TTC, the Appellant did an eclectic series of jobs, none of which had a close connection to real estate transactions. Patrick’s testimony about prior employment was less detailed but he stated that he did a series of odd jobs before joining the TTC. Their father’s death certificate (Exhibit A-1, Tab 7) shows that he was a retired cabinet maker.
+[42] The Appellant’s and his brother’s occupations are not closely related to real estate transactions. Other than his real estate agents for his purchases of 310 Cranston Park and the Property, there was no evidence that the Appellant was associated with anyone in the business of real estate transactions. Their father’s occupation as a cabinet maker is related to residential and/or commercial interiors, but the connection to real estate transactions is remote.
+[43] Therefore, this factor favors a finding on account of capital.
+(3) The nature of the property and the use made of it by the taxpayer
+[44] The Property is a residential apartment-style condominium which sold relatively quickly after it was listed. The Appellant did not ever live in it, and it was listed for sale immediately after he took possession and title in August 2010.
+[45] Therefore, this factor favors a finding on account of income.
+(4) The extent to which borrowed money was used and the length of time the real estate was held
+[46] The Appellant’s offer and agreement to purchase the Property are dated September 2006 (Exhibit R-1, Tab 16). There were at least three postponements with respect to the occupancy date (Exhibit A-1, Tabs 17, 18, and 19), and he ultimately took possession and title in August 2010.
+[47] The only evidence of borrowed money was the Appellant’s testimony that he refinanced the mortgage on 310 Cranston Park to purchase Patrick’s share of that property so that Patrick could, in turn, purchase his new family home at 1749 Angus Street.
+[48] From August to November 2010, the Appellant held title to both 310 Cranston Park and the Property. No evidence was led as to the financing of his purchase of the Property, but he did testify that he could not afford to own both properties.
+[49] While the period between taking title and reselling the Property was relatively short (just over three months), the period between entering into the agreement to purchase and taking title was relatively long (just under four years).
+[50] Therefore, I find this factor to be neutral.
+(5) Summary
+[51] Based on my analysis of these factors and, in particular, that of intention, I find that the sale of the Property was a transaction on account of capital.
+Gross negligence penalties
+[52] Based on my finding with respect to the subject sale, the penalties are not applicable.
+Conclusion
+[53] The Appellant’s $13,412 gain from the sale of the Property was a capital gain and properly reported by him as such. Therefore, the Minister’s December 18, 2014 reassessment is referred back to her for reconsideration and reassessment on the basis that:
+1. the Appellant’s $13,412 gain from the sale of the Property was a capital gain; and
+2. the penalties assessed under subsection 163(2) are deleted.
+[54] The appeal is allowed without costs.
+Signed at Ottawa, Canada, this 22nd day of July 2019.
+“Susan Wong”
+Wong J.
+CITATION:
+2019 TCC 138
+COURT FILE NO.:
+2016-2201(IT)I
+STYLE OF CAUSE:
+STEPHEN BYGRAVE and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 7, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF AMENDED JUDGMENT:
+July 22, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Glenroy K. Bastien
+Counsel for the Respondent:
+Derek Edwards
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Glenroy K. Bastien
+Firm:
+Bastien’s Professional Corporation
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

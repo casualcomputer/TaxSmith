@@ -1,0 +1,121 @@
+Title: Valiquette v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26917/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-43-26917-valiquette-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-02-13
+
+# Valiquette v. The Queen
+
+- Citation: 2003 TCC 43
+- Decision date: 2003-02-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 723, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Valiquette v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-02-13
+Neutral citation
+2003 TCC 43
+File numbers
+2001-2422(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-2422(IT)I
+BETWEEN:
+JACQUES VALIQUETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Julie Lachance(2001-2425(IT)I)
+on February 4, 2003, at Québec, Quebec
+Before: The Honourable Judge Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Daniel Bourgeois
+Counsel for the Respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act concerning the 1997 and 1998 taxation years are allowed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 13th day of February 2003.
+"Louise Lamarre Proulx"
+J.T.C.C.
+Citation: 2003TCC43
+Date: 20030213
+Docket: 2001-2422(IT)I
+BETWEEN:
+JACQUES VALIQUETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND
+Docket: 2001-2425(IT)I
+BETWEEN:
+JULIE LACHANCE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+LamarreProulx, J.T.C.C.
+[1] These appeals, heard under the informal procedure, involve the 1997 and 1998 taxation years.
+[2] At issue is whether a property was acquired as inventory, rental property, or property for personal use.
+[3] Although the appellants both testified, the main testimony was given by the appellant Jacques Valiquette.
+[4] The property at issue in this case is a house forming part of a five-house row, and is described in the December 30, 1991, property purchase contract (Exhibit A-9) as a condominium in Les Condominiums Mont-du-Midi, numbered 62, de la Vallée in St-Philémon. The sale included all the furniture in the condominium. The parties to the contract were Gestion V.P.L. Inc. and the appellant Valiquette.
+[5] According to clause 8 of the purchase contract, the price was $88,428. This amount was paid to the vendor by the purchaser by means of advances in the amount of $44,000 plus advances that the purchaser agreed to pay in the amount of $2,714. The balance, in the amount of $41,714, represents advances paid or to be paid to the vendor by Bernard Poitras; under the terms of a previous agreement between the purchaser and Bernard Poitras, this debt was transferred to the purchaser.
+[6] The appellant Valiquette explained the events leading up to this transaction. In 1989, a project for a new ski centre in St-Philémon-de-Bellechasse on the south shore of the St. Lawrence was proposed. The promoters offered interested persons the possibility of participating in the project by investing $10,000 each in Société de placements dans l'entreprise québécoise (SPEQ) Massif du Sud Inc. As did 250 other persons, the appellant Valiquette invested in the project. A certificate dated December 29, 1989 (Exhibit A-1), was issued to him. For an additional $1,000, an investor could have a lot facing the mountain. Mr. Valiquette contributed this additional amount.
+[7] An investors' meeting was held. At this meeting, Jacques Valiquette met the architect Michel Leclerc. Mr. Valiquette was appointed to the urban development committee of the SPEQ.
+[8] Following these meetings, Jacques Valiquette, Michel Leclerc, and two other persons, Bertrand Gagnon and Bernard Poitras (the appellant Valiquette's brother-in-law), became partners in a corporation named Gestion V.P.L. Inc. The acronym means Valiquette, Poitras and Leclerc. Each partner contributed $40,000. The purpose of the corporation was to build and sell condominiums on a lot purchased from the ski centre. The project called for the construction of 214 units, five of them in phase 1.
+[9] Exhibit A-2 is a clipping from the September 29, 1990, issue of the newspaper Le Soleil. It reads in part, [TRANSLATION] "The Massif du Sud ski centre aims to be number one." In addition to providing a great deal of enthusiastic information, this article notes that Gestion V.P.L. Inc., whose president was Michel Leclerc, began construction on Thursday of a housing complex called Les Condominiums Mont-du-Midi.
+[10] Another newspaper clipping, undated and adduced as Exhibit A-3, is entitled, [TRANSLATION] "Coming soon: Les Condominiums Mont-du-Midi". There is a photo of the groundbreaking. The photo caption describes the appellant Valiquette as the president of Gestion V.P.L. Inc. and Michel Leclerc as the vice-president. As well, the article refers to Michel Leclerc as the project designer and architect.
+[11] An undated document advertising the sale of Les Condominiums Mont-du-Midi was adduced as Exhibit A-4. Exhibit A-5, dated November 6, 1990, is also a document advertising the sale of the condominiums.
+[12] According to the appellant Valiquette, on January 15, 1991, two units were completed but neither of them was sold.
+[13] Exhibit A-6 is another document produced by Gestion V.P.L. Inc.; it has to do with the fee structure of Hébergement Condominiums Mont-du-Midi.
+[14] The corporation made another request from its shareholders for capital in the amount of $5,000 and a further request for capital in the amount of $2,714. The appellant Valiquette could not afford to invest or did not wish to continue to do so.
+[15] Bernard Poitras, Mr. Valiquette's brother-in-law, did not wish to continue being involved in this business either. He did not provide the share in the amount of $5,000 and wanted to take legal action in order to be repaid the advance of $40,000 and not be obliged to pay the advance of $5,000.
+[16] Mr. Valiquette suggested that Bernard Poitras negotiate an agreement with him and the other shareholders. This negotiation resulted in the October 1, 1991, letter (Exhibit A-8) and the December 30, 1991, purchase contract (Exhibit A-9). Exhibit A-8 is an October 1, 1991, letter to the appellant Valiquette from Michel Leclerc and Bertrand Gagnon, describing the terms and conditions of Jacques Valiquette's withdrawal from the corporation as a shareholder. Under the purchase contract adduced as Exhibit A-9, Jacques Valiquette was to purchase his brother-in-law's debt and the corporation was to sell him a condominium for the price of the two debts, as described in paragraphs 4 and 5 of these Reasons.
+[17] Exhibit A-7 is a clipping from the October 10, 1991, issue of the newspaper Le Soleil concerning the various means of reviving the Massif du Sud ski centre, which shortly before that date had declared bankruptcy.
+[18] Exhibit A-10 is a February 20, 1992, transfer to the appellant Julie Lachance, of 25 per cent of Jacques Valiquette's rights in the property. Mr. Valiquette explained this transfer by stating that Ms. Lachance guaranteed repayment of the debt in the amount of $40,000 to Mr. Valiquette's former spouse by means of a mortgage on her house. This debt resulted from the advance of $40,000 paid to Gestion V.P.L. Inc.
+[19] The condominium was initially rented out through Hébergement Massif du Sud, starting on January 4, 1992 (Exhibit A-13). Dissatisfied with the rental profits, the appellants withdrew from Hébergement Massif du Sud on September 18, 1994 (Exhibit A-14). They decided to look after renting the condominium themselves. At the end of the letter, they nevertheless state that their condominium was still available for rental by Hébergement Massif du Sud, but on their terms and conditions.
+[20] The appellants stated that they never used the condominium during the summer. They stated that during the winter they used it only on the weekends when the condominium was not rented out, and then only rarely.
+[21] Ms. Lachance explained that she began skiing when she met Mr. Valiquette and that they started living together around 1990. She stated that she was not a very athletic person and that they did not often go skiing at the ski centre. They could use the condominium when it was not rented out.
+[22] Exhibit A-16 is an excerpt from the classified advertisements in the December 3, 1994, issue of the newspaper Le Soleil, in which the four condominiums forming part of the same group as Mr. Valiquette's condominium are put up for sale by bid. The basic price indicated is $45,000. As well, a note reads, [TRANSLATION] "The owners make no commitment to accepting either the highest or any bid received." When asked by the Court if the corporation was still the owner or if each investor, like himself, had become the owner of a condominium, Mr. Valiquette did not know what to say in reply.
+[23] According to Mr. Valiquette, although that advertisement gave him a shock, he did not follow the example of the other owners and did not put his property up for sale.
+[24] In the March 9, 2000, letter to the appellant Valiquette from Brigitte Caron of the Audit Division concerning rental income (Exhibit A-18), the only point raised is a reasonable expectation of profit.
+[25] The October 20, 2000, reasons for the objection (Exhibit A-21 and Exhibit A-22) set out Mr. Valiquette's position, which he reiterated at the hearing. He purchased the condominium in a business context, not for his personal use. There was personal use, but it was limited to the times the condominium was available.
+[26] On May 2, 2001, the condominium was put up for sale for $50,000 (Exhibit A-26). On January 7, 2002, it was sold for $45,000 (Exhibit A-27).
+[27] Under cross-examination, counsel for the respondent adduced a home insurance policy effective August 25, 1998. This policy covered the property of Ms. Lachance in Pont-Rouge and the property of Mr. Valiquette at 62, de la Vallée in St-Philémon. The rider stated that the provision should read [TRANSLATION] "condominium occupied by the insureds". On this point, the appellants were surprised and could not understand because, according to them, the condominium was continuously available for rental.
+[28] Another exhibit adduced by the respondent was the rental property questionnaire, which indicates that the property was initially purchased for rental for ski vacations and that the rental began on December 30, 1991.
+[29] Counsel for the appellants cited the decision by this Court in Stremler v. Her Majesty The Queen, [2000] T.C.J. No. 13 (Q.L.), a case heard under the general procedure, in which McArthur J. concluded that the taxpayers had acquired two properties for quick resale; that, pending the resale of the properties at a higher price, the rental expenses were deductible as business expenses; and that those properties were inventory.
+[30] Counsel for the appellants took the same position, arguing that the condominium was purchased as inventory and that the rental expenses could be deducted as business income expenses. Subsidiarily, he argued that the condominium was purchased for business and not for personal purposes and that the rental expenses were deductible as business expenses.
+[31] Counsel for the respondent argued that there was an overriding personal interest, which was the reason the property was purchased and kept for so many years. She referred to Exhibit I-1, the appellant's home and property insurance policy, and noted their interest in skiing.
+Conclusion
+[32] It is true that the wording of the condominium insurance policy is ambiguous. However, I cannot base my decision on an insurance policy clause, which in fact contradicts the events that transpired during the years the condominium was owned, a clause the appellants were apparently unaware of and which they were unable to explain. The documentary evidence has established that the condominium was indeed made available for rental, either by Hébergement Massif du Sud or by the appellants themselves.
+[33] Nor can I rule that there was an overriding personal interest in the purchase of the condominium because Mr. Valiquette enjoys skiing. Usually people go into business in a certain field because they have an interest for it and are familiar with it.
+[34] In order to determine whether personal interest has overridden business interest, we must examine the circumstances leading a person to purchase a property or start up a business.
+[35] I refer to the circumstances of the purchase of the property at issue. Mr. Valiquette had invested a considerable amount of money in a condominium construction corporation. He had led his brother-in-law to do the same. The condominiums were put up for sale, but no purchasers were found. The corporation requested additional capital. Neither Mr. Valiquette nor his brother-in-law wanted to continue. Mr. Valiquette negotiated the transfer of a property from the corporation to himself for the value of the advances he had made to the corporation. Prior to that, he had repaid his brother-in-law the value of the advance paid by the brother-in-law.
+[36] In fact, according to clause 8 of the purchase contract (Exhibit A-9), Mr. Valiquette purchased the property for $88,428, paid by writing off an advance in the amount of $44,000 that he had paid to the vendor as well as an advance in the amount of $2,714 that he had agreed to pay. The balance, in the amount of $41,714, represents advances paid or to be paid by Bernard Poitras, Mr. Valiquette's brother-in-law; under the terms of an agreement between them, this debt was transferred to the appellant Valiquette.
+[37] Jacques Valiquette paid advances to the corporation for business purposes. He purchased the property at issue in order to protect his investment. That motivation is a business reason, not a personal reason.
+[38] Were the appellants entitled to deduct all the carrying costs they incurred as rental expenses? Answering that question is not my responsibility but that of the Minister's auditors. The appellants were assessed on the basis that they purchased the property for personal interest and were asked to establish a reasonable expectation of profit from the rental activity. The evidence has established that the property at issue was purchased for business purposes. Mr. Valiquette's present position has been clearly set out in the Notice of Objection and the Notice of Appeal. The Reply to the Notice of Appeal merely reiterated the Minister's position following the audit: that what was involved was a rental building purchased in December 1991 for $89,800. No analysis was made of the context in which the rental property was purchased.
+[39] Counsel for the appellants has argued that the property was purchased as inventory. In my opinion, that is not what the evidence has established. Inventory is purchased at the lowest possible price for resale at a higher price. Here, the property was purchased in order to protect Mr. Valiquette's investment and enable him to repay the investment of his brother-in-law. Furthermore, it is highly doubtful that, on the market, the property purchased was worth the price indicated in the contract. Even at a lower price, the condominiums did not sell. Nor was there any indication of selling activity during the many years following the purchase. Mr. Valiquette was waiting for the value to increase. These facts do not point to inventory.
+[40] Since the Supreme Court of Canada decision in Stewart v. Her Majesty the Queen, [2002] S.C.J. No. 46 (Q.L.), when an activity is undertaken for business and not personal purposes, the reasonable expectation of profit test need not be applied.
+[41] As noted above, I consider that the evidence has established that the property at issue was purchased for business purposes. The appeals are therefore allowed, with costs.
+Signed at Ottawa, Canada, this 13th day of February 2003.
+"Louise Lamarre Proulx"
+J.T.C.C.

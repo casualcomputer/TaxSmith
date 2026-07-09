@@ -1,0 +1,88 @@
+Title: Alsamman v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27648/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-224-27648-alsamman-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-02-13
+
+# Alsamman v. The Queen
+
+- Citation: 2007 CCI 224
+- Decision date: 2007-02-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 418, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alsamman v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-02-13
+Référence neutre
+2007 CCI 224
+Numéro de dossier
+2006-865(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-865(IT)I
+COUR CANADIENNE DE L’IMPÔT
+OBJET : Loi de l’impôt sur le revenu
+ENTRE :
+WALID W. A. ALSAMMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT RENDUS ORALEMENT PAR LE JUGE PARIS,
+aux bureaux du Service administratif des tribunaux judiciaires,
+180, rue Queen Ouest, Toronto (Ontario),
+le vendredi 13 février 2007.
+COMPARUTIONS :
+Me Costa A. Abinajem pour l’appelant
+Me Laurent Bartleman pour l’intimée
+Également présent :
+M. Colin Nethercut greffier audiencier
+A.S.A.P. Reporting Services Inc. 8 (2007)
+200, rue Elgin, bureau 1004 130, rue King Ouest, bureau 1800
+Ottawa (Ontario) K2P 1L5 Toronto (Ontario) M5X 1E3
+613-564-2727 416-861-8720
+Toronto (Ontario)
+Les présents motifs ont été rendus oralement le vendredi 13 février 2007, à 14 h 11.
+LE GREFFIER : Veuillez vous asseoir, l’audience reprend.
+LA COUR : Il s’agit des motifs de jugement qui sont rendus dans l’affaire Walid Alsamman c. La Reine, dans le dossier 2006‑865(IT)I.
+Il s’agit d’un appel de nouvelles cotisations concernant les années d’imposition 2001 et 2002 de l’appelant, par lesquelles le ministre du Revenu national a augmenté le revenu d’entreprise de l’appelant de 20 668 $ et de 22 492 $ respectivement et a imposé des pénalités, en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu, à l’égard du revenu d’entreprise non déclaré. Les hypothèses que le ministre a émises en établissant les nouvelles cotisations sont énoncées au paragraphe 9 de la réponse à l’avis d’appel et elles feront partie des présents motifs.
+Selon la position prise par l’appelant, les dépôts non identifiés qui ont été effectués dans son compte de banque, que le ministre a traités comme un revenu d’entreprise, se rapportaient en partie à des sommes que l’appelant avait reçues de sa famille et en partie à des sommes reçues de clients à titre de remboursement de ce qu’il en avait coûté à l’appelant pour des matériaux utilisés dans son entreprise. L’appelant a affirmé ne pas avoir déduit le coût de ces matériaux dans le calcul de son revenu d’entreprise et que, si les remboursements en question étaient inclus dans son revenu, il devrait pouvoir déduire ce qu’il a payé pour les matériaux.
+L’appelant admet avoir un revenu d’entreprise non déclaré de 17 885 $ en 2002, mais il affirme qu’il ne devrait pas être redevable des pénalités parce qu’il venait de lancer son entreprise en 2001, que la tenue de dossiers lui posait des problèmes, qu’il essayait de s’occuper lui‑même de la tenue des dossiers, qu’il n’avait pas de formation et qu’il était déprimé à ce moment‑là.
+Aucun document justificatif n’a été produit par l’appelant à l’égard des sommes qu’il avait censément reçues de ses clients à titre de remboursement des matériaux. L’appelant a affirmé avoir des reçus, mais ces reçus n’ont pas été produits. Aucune précision quelle qu’elle soit n’a été donnée au sujet des sommes en cause et la preuve sur ce point était dans l’ensemble peu convaincante. En ce qui concerne l’affirmation de l’appelant selon laquelle il avait reçu de l’argent de membres de sa famille, l’appelant a produit une lettre de sa mère et une lettre de son frère, Mohamad, disant qu’ils lui avaient remis en tout 25 200 $ en espèces, et une copie d’un chèque de 4 000 $ reçu d’un autre frère en 2002.
+Aucune de ces personnes n’a été citée pour témoigner. De plus, l’appelant n’a pas produit de preuve établissant un lien entre l’argent qu’il avait censément reçu et les dépôts qu’il avait effectués dans son compte de banque.
+En ce qui concerne sa mère, l’appelant a affirmé qu’elle vivait à l’étranger et qu’elle lui rendait visite et lui donnait de l’argent. Selon la lettre de la mère, celle‑ci lui aurait donné 16 000 $ en 2001 et en 2002. Aucune date ni aucun montant précis n’ont été fournis.
+L’appelant n’a pas tenté d’identifier des dépôts bancaires particuliers comme se rapportant à l’argent qu’il avait reçu. Il en allait de même pour le présumé montant de 100 $ en espèces que le frère de l’appelant remettait chaque semaine à celui‑ci pour la pension. Aucun élément de preuve n’a été soumis pour démontrer que l’appelant déposait les sommes en question dans son compte de banque, en admettant qu’il les ait de fait reçues.
+L’appelant a également produit, à la pièce A‑5, une liste de dépôts effectués dans son compte de banque pour les années 2001 et 2002, avec une note expliquant le dépôt; dans certains cas, il s’agissait d’un virement ou d’une somme provenant d’une carte de crédit, et dans d’autres cas, de sommes reçues de membres de la famille.
+Je note que, selon l’agent des appels qui a témoigné, un grand nombre de sommes ont été reconnues comme ne constituant pas un revenu d’entreprise. Je me reporte à la pièce R‑1, onglets 6 et 7. Quant aux autres sommes, la source des dépôts n’a pas été corroborée devant la Cour.
+Dans l’ensemble, je ne suis pas convaincu que l’appelant ait démontré, selon la prépondérance des probabilités, qu’il avait reçu ces sommes, ou que ces sommes avaient été déposées dans son compte de banque et faisaient partie des dépôts non identifiés.
+L’autre somme, les 4 000 $ que l’appelant a reçus par chèque de son frère, était corroborée par une copie du chèque. Il a été démontré que cette somme avait été déposée dans le compte de banque de l’appelant et que le vérificateur l’avait traitée comme un revenu non déclaré.
+À mon avis, l’appelant a présenté une preuve prima facie selon laquelle les 4 000 $ n’avaient rien à voir avec son entreprise, et l’intimée n’a soumis aucun élément de preuve en vue de démontrer pourquoi cette somme devrait être considérée comme un revenu d’entreprise.
+Par conséquent, le revenu d’entreprise de l’appelant devrait être réduit de 4 000 $ en 2002 et être ramené au montant de 18 492 $. Cela est largement compatible avec l’aveu de l’appelant selon lequel il avait un revenu d’entreprise non déclaré de 17 885 $ en 2002.
+Comme il en a déjà fait mention, l’appelant ne s’est pas acquitté de l’obligation qui lui incombait de démontrer que quelque réduction de son revenu d’entreprise était justifiée pour son année d’imposition 2001.
+J’examinerai maintenant la question des pénalités imposées en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu.
+L’intimée a la charge de démontrer que l’appelant, sciemment ou dans des circonstances équivalant à faute lourde, a fait de faux énoncés ou des omissions dans ses déclarations de revenus de 2001 et de 2002. La preuve montre que l’appelant a déclaré un revenu d’entreprise de 10 008 $ et de 25 001 $ en 2001 et en 2002 respectivement.
+Je suis également convaincu que la preuve montre que l’appelant avait un revenu d’entreprise non déclaré de 17 885 $ en 2002, comme il l’a admis.
+Toutefois, je ne suis pas convaincu que l’intimée se soit acquittée de l’obligation qui lui incombait de prouver selon la prépondérance des probabilités que l’appelant avait un revenu d’entreprise non déclaré en sus du montant déclaré pour l’année 2002 ou que le ministre avait prouvé, indépendamment des hypothèses qu’il avait émises en établissant la cotisation de l’appelant, que celui‑ci avait un revenu d’entreprise non déclaré pour l’année 2001. La charge qui incombe à l’intimée, en ce qui concerne cette question de faux énoncé, est indépendante de la charge qui incombe à l’appelant à l’égard de la nouvelle cotisation d’impôt sous‑jacente.
+L’intimée n’a pas cité comme témoin le vérificateur qui avait examiné les livres et registres de l’appelant en vue de fournir des détails au sujet de la nouvelle cotisation; de plus, la preuve soumise par l’agent des appels démontre qu’il n’a pas examiné ou analysé les documents de base initialement obtenus de l’appelant.
+Cependant, je suis convaincu que l’intimée a démontré que le faux énoncé relatif au revenu de l’appelant, en 2002, a été fait dans des circonstances équivalant à faute lourde.
+L’importance du faux énoncé, à savoir 17 885 $, par rapport au revenu d’entreprise total de cette année‑là, à laquelle vient s’ajouter l’aveu de l’appelant selon lequel sa tenue de dossiers était inadéquate et qu’il ne savait pas ce qu’il faisait en s’occupant de la comptabilité de son entreprise, m’amènent à conclure que l’appelant n’a pas simplement été négligent dans son approche, lorsqu’il s’est agi de s’acquitter des obligations que lui imposait la Loi de l’impôt sur le revenu de déclarer son revenu avec exactitude.
+Quant à l’argument de l’appelant selon lequel il était déprimé à ce moment‑là, je note que, pendant toute la période en question, il exploitait son entreprise d’homme à tout faire et que sa dépression ne semblait pas l’affecter au point qu’il n’était pas en mesure de se livrer à ces activités.
+Rien ne permet de supposer que la présumée dépression aurait donc empêché l’appelant de s’acquitter de l’obligation qui lui incombait de rendre compte de son revenu avec exactitude comme l’exige la Loi de l’impôt sur le revenu.
+Un contribuable qui se trouve dans la même situation que l’appelant et qui ne sait pas comment enregistrer et déclarer son revenu devrait demander de l’aide à un teneur de livres ou à un comptable; s’il décide de ne pas le faire, sa conduite constitue une indifférence délibérée à l’égard de ses obligations légales.
+Pour ces motifs, l’appel est accueilli en partie. Le montant du revenu que l’appelant a tiré de son entreprise en 2002 sera réduit de 4 000 $, et les pénalités prévues au paragraphe 163(2) à l’égard de l’année d’imposition 2001 seront supprimées, toute pénalité sur les montants en sus des 17 885 $ représentant le revenu non déclaré en 2002 devant également être supprimée.
+L’audience a pris fin à 14 h 30
+Traduction certifiée conforme
+Ce 10e jour d’août 2007
+Johanne Brassard, traductrice

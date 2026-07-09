@@ -1,0 +1,179 @@
+Title: Chew (Succession) c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31132/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-89-31132-chew-succession-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-02-25
+
+# Chew (Succession) c. La Reine
+
+- Citation: 2013 CCI 89
+- Decision date: 2013-02-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4780, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chew (Succession) c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-02-25
+Référence neutre
+2013 CCI 89
+Numéro de dossier
+2011-3655(GST)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2013 CCI 89
+Date : 20130403
+Dossier : 2011-3655(GST)I
+ENTRE :
+SUCCESSION DE JOHN W. CHEW,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 1er mars 2013,
+à Victoria (Colombie‑Britannique)).
+La juge V.A. Miller
+[1] Pour établir la somme dont John Chew est redevable pour la période allant du 1er octobre 2009 au 31 décembre 2009, le ministre du Revenu national (le « ministre ») a conclu que John Chew n’avait pas droit aux crédits de taxe sur les intrants (les « CTI ») de 8 074,22 $ au motif qu’il avait demandé les CTI en dehors du délai de quatre ans fixé à l’alinéa 225(4)b) de la Loi sur la taxe d’accise (la « LTA »).
+[2] En l’espèce, la question en litige est la suivante : pour une demande de CTI, à quel moment l’utilisation d’un bien passe‑t‑elle d’une utilisation personnelle à une utilisation commerciale?
+[3] L’appelante était représentée par T. Charlotte Hoggard, comptable et enquêteuse agréée en médecine légale. Elle a aussi témoigné pour le compte de l’appelante.
+[4] Les parties s’entendent de façon générale sur les faits en l’espèce. Elles ont déposé un exposé conjoint partiel des faits (l’« ECPF »). Voici un résumé de ces faits :
+a) John Chew était un inscrit selon la LTA à partir du 1er janvier 1991 et il était tenu de produire ses déclarations de taxe sur les produits et services (la « TPS ») chaque trimestre.
+b) L’exercice de M. Chew en ce qui concerne la TPS se terminait le 31 décembre.
+c) Le 30 juin 2004, M. Chew a acheté deux parts (l’« intérêt ») représentant chacune un quart de la propriété d’une unité située au Poet’s Cove Resort, au 9801 Spalding Road, à South Pender Island, en Colombie‑Britannique (l’« unité »).
+d) Le prix d’achat de son intérêt dans l’unité était de 149 800 $ plus une TPS de 10 486 $.
+e) Lorsqu’il a acheté l’unité, M. Chew n’a pas demandé de CTI relativement à la TPS qu’il avait payée sur l’unité parce qu’il en faisait principalement une utilisation personnelle.
+f) Au plus tard le 1er janvier 2005, M. Chew a placé l’unité dans un pool locatif géré par un gestionnaire immobilier pour assurer la location à court terme taxable de l’unité.
+g) L’ECPF comportait également une annexe qui montrait qu’au cours du deuxième trimestre de 2005, l’unité avait été utilisée pendant 19 jours dont 17 jours correspondaient à des locations à court terme. Pour le reste de 2005 et, en 2006, en 2007 et en 2008, l’unité avait été principalement utilisée pour des locations à court terme.
+[5] M. Chew possédait ou contrôlait un groupe de sociétés connu sous le nom de The Chew Companies (les « sociétés Chew »). En décembre 2009, John Heraghty, vice‑président chargé des finances pour les sociétés Chew, a reçu des gestionnaires immobiliers de l’unité une liasse de documents concernant la TPS. Il a remarqué que l’utilisation de l’unité était passée d’une utilisation personnelle à une utilisation commerciale, et il a préparé la déclaration de TPS pour M. Chew pour le trimestre allant du 1er octobre 2009 au 31 décembre 2009 (la « période »). La déclaration a été produite à l’Agence du revenu du Canada (l’« ARC ») le 30 janvier 2010 et elle faisait état d’un CTI de 10 486 $ demandé par M. Chew relativement à l’unité.
+[6] Dans la cotisation établie pour la période, le ministre n’a accordé qu’un CTI de 1 258,32 $. M. Chew s’est opposé à la cotisation et le ministre a établi une nouvelle cotisation pour la période afin d’accorder un CTI supplémentaire de 1 153,46 $, ce qui a porté à 2 411,78 $ le montant total accordé à titre de CTI.
+[7] Le ministre a refusé un CTI de 8 074,22 $ au motif qu’il avait été demandé en dehors du délai de quatre ans fixé à l’alinéa 225(4)b) de la LTA. Le ministre a soutenu qu’il y avait eu un changement d’utilisation de l’unité au cours du deuxième trimestre de 2005, lorsque l’utilisation de l’unité est devenue principalement de nature commerciale, et que M. Chew avait le droit de demander un CTI pour l’unité à partir du 1er avril 2005. Voici le calcul que le ministre a effectué concernant l’utilisation de l’unité en 2005 :
+[traduction]
+Précisions concernant l’utilisation dans le cadre d’activités commerciales de l’unité en 2005.
+Période de déclaration
+A
+B
+C
+D
+Nombre total de jours d’utilisation
+B + C
+Nombre de jours d’utilisation par l’appelante
+Nombre de jours d’utilisation pour des locations à court terme
+% d’utilisation dans le cadre d’activités commerciales
+D/A
+31‑03‑2005
+10
+7
+3
+30 %
+30‑06‑2005
+19
+2
+17
+89 %
+30‑09‑2005
+42
+7
+35
+83 %
+31‑12‑2005
+22
+5
+17
+77 %
+Année 2005
+93
+21
+72
+77 %
+[8] Pour établir la somme dont M. Chew est redevable, le ministre a formulé les hypothèses de fait suivantes :
+[traduction]
+a) M. Chew était un inscrit aux fins de la taxe sur les produits et services (la « TPS »), et sa date réelle d’inscription aux fins de la TPS était le 1er janvier 1991;
+b) M. Chew était tenu de produire ses déclarations de TPS chaque trimestre;
+c) Durant toute la période pertinente, M. Chew a produit des déclarations trimestrielles de TPS;
+d) À l’exception de la période en question, M. Chew a produit des déclarations de revenus portant qu’aucune taxe n’était exigible pour les périodes de déclaration en 2005, en 2006, en 2007, en 2008 et en 2009, dans lesquelles il n’a déclaré aucune TPS à percevoir et n’a demandé aucun CTI;
+e) L’exercice de M. Chew en ce qui concerne la TPS se terminait le 31 décembre de chaque année;
+f) M. Chew a acheté l’unité le 30 juin 2004;
+g) Le prix d’achat de l’intérêt que M. Chew possédait dans l’unité était de 149 800 $, plus une TPS de 10 486 $;
+h) L’unité était une propriété de vacances de M. Chew;
+i) M. Chew a placé l’unité dans un pool locatif géré par un gestionnaire immobilier afin d’assurer la location à court terme taxable de l’unité;
+j) M. Chew recevait du gestionnaire immobilier des relevés trimestriels concernant les revenus et les activités de détails;
+Prix d’achat initial de l’unité
+k) En 2004, l’utilisation de l’unité par M. Chew était de nature principalement personnelle;
+l) M. Chew n’avait pas le droit de demander de CTI relativement à l’achat de l’unité en 2004;
+Premier changement d’utilisation important de l’unité
+m) À partir du deuxième trimestre civil de 2005, l’utilisation personnelle de l’unité par M. Chew est tombée en dessous de 50 %, comme cela est énoncé à l’annexe « B » ci‑jointe (« premier changement d’utilisation important »);
+n) À partir du deuxième trimestre de 2005, l’utilisation de l’unité par M. Chew est devenue principalement de nature commerciale;
+o) À partir du 1er avril 2005, M. Chew a eu le droit de demander un CTI relativement à l’utilisation commerciale de l’unité;
+p) M. Chew n’a demandé de CTI relativement au premier changement d’utilisation important de l’unité dans aucune des périodes de déclaration avant le 1er juillet 2009;
+Deuxième changement d’utilisation important
+q) En 2005, l’utilisation commerciale de l’unité était de 77 %, comme cela est énoncé à l’annexe « B »;
+r) Au cours du premier trimestre civil de 2006, l’utilisation commerciale de l’unité a augmenté et est passée de 77 % à 100 % (« deuxième changement d’utilisation important »), comme cela est énoncé à l’annexe « C »;
+s) Pour la période de déclaration se terminant le 31 mars 2006, M. Chew avait le droit de demander un CTI concernant son unité en fonction du changement d’utilisation de 23 % relativement à la teneur en taxe de l’unité;
+t) La teneur en taxe de l’unité était d’au plus 10 486 $;
+u) M. Chew pouvait demander un CTI de 2 411,78 $, et ce, jusqu’à la période de déclaration allant du 1er janvier 2010 au 31 mars 2010;
+v) Le pourcentage d’utilisation commerciale de l’unité pour les années civiles 2006, 2007 et 2008 était de 95 %, de 93 % et de 93%, respectivement, comme cela est énoncé à l’annexe « C »;
+w) À l’exception du changement d’utilisation commerciale de 23 % au cours du premier trimestre civil de 2006, les changements d’utilisation commerciale de l’unité dans les années civiles 2006, 2007 et 2008 représentaient moins de 10 %.
+[9] L’appelante a soutenu que le changement d’utilisation aurait dû être déterminé en fonction de l’exercice. Mme Hoggard, représentante de l’appelante, s’est fondée sur les paragraphes 141.01(5) et 208(2) ainsi que sur l’alinéa 225(4)b) de la LTA. Ces dispositions sont ainsi libellées :
+141.01(5)
+(5) Sous réserve de l’article 141.02, seules des méthodes justes et raisonnables et suivies tout au long d’un exercice peuvent être employées par une personne au cours de l’exercice pour déterminer la mesure dans laquelle :
+a) la personne acquiert, importe ou transfère dans une province participante des biens ou des services afin d’effectuer une fourniture taxable pour une contrepartie ou à d’autres fins;
+b) des biens ou des services sont consommés ou utilisés en vue de la réalisation d’une fourniture taxable pour une contrepartie ou à d’autres fins.
+[…]
+208(2)
+(2) Pour l’application de la présente partie, le particulier qui est un inscrit ayant acquis un immeuble la dernière fois en vue de l’utiliser comme immobilisation, soit hors du cadre de ses activités commerciales, soit principalement pour son utilisation personnelle ou celle d’un particulier qui lui est lié, et qui commence, à un moment donné, à l’utiliser comme immobilisation dans le cadre de ses activités commerciales et non principalement pour son utilisation personnelle ou celle d’un particulier qui lui est lié est réputé :
+a) avoir reçu, au moment donné, une fourniture de l’immeuble par vente;
+b) avoir payé au moment donné et relativement à la fourniture, sauf s’il s’agit d’une fourniture exonérée, une taxe égale à la teneur en taxe de l’immeuble à ce moment.
+[…]
+225(4)b)
+(4) La personne qui demande un crédit de taxe sur les intrants pour sa période de déclaration donnée doit produire une déclaration aux termes de la présente section au plus tard le jour suivant :
+[…]
+b) dans le cas où la personne n’est pas une personne déterminée au cours de la période donnée, le jour où la déclaration aux termes de la présente section est à produire pour la dernière période de déclaration de la personne se terminant dans les quatre ans suivant la fin de la période donnée;
+[10] Selon les observations de l’appelante, pour déterminer la mesure dans laquelle un bien a été utilisé, à une fin particulière, il faut tenir compte du fait que le paragraphe 141.01(5) de la LTA mentionne le terme « exercice » et précise qu’une méthode devrait être employée « tout au long d’un exercice ». L’appelante a ensuite cité le paragraphe 208(2) de la LTA et a déclaré que le moment donné où il a été déterminé que l’utilisation de l’unité était passée d’une utilisation principalement personnelle à une utilisation commerciale de 88 % était le 31 décembre 2005. C’était la date à laquelle une analyse complète de l’utilisation au cours de l’année pouvait être faite. Par conséquent, c’est cette date qui a été déterminée comme étant celle où un changement d’utilisation avait eu lieu. Le CTI concernant l’unité a été demandé dans la période de déclaration allant du 1er octobre au 31 décembre 2009, laquelle est située dans les quatre ans suivant la période de déclaration au cours de laquelle le changement d’utilisation a été déterminé.
+L’analyse
+[11] À mon avis, le paragraphe 141.01(5) de la LTA n’est d’aucun secours pour l’appelante pour déterminer le moment où le changement d’utilisation de l’unité a eu lieu. Le paragraphe 141.01(5) de la LTA autorise plutôt le contribuable à adopter une méthode d’allocation générale pour calculer le montant de CTI qui peut être demandé lorsque ce contribuable est un fournisseur à la fois de fournitures taxables et exemptées. C’est ce qui ressort de l’arrêt CIBC World Markets Inc. c. Canada, 2011 CAF 270. La méthode employée pour déterminer le pourcentage correspondant aux activités commerciales doit être juste et raisonnable et doit être suivie tout au long d’un exercice par le contribuable.
+[12] En l’espèce, le ministre a calculé que l’utilisation de l’unité dans le cadre d’activités commerciales était de 89 % dans le deuxième trimestre de 2005 et que, dans l’ensemble, l’utilisation commerciale de l’unité en 2005 était de 77 %. La représentante de l’appelante a calculé que l’utilisation de l’unité dans le cadre d’activités commerciales en 2005 était de 88 %.
+[13] La méthode d’allocation utilisée par le ministre en l’espèce pour déterminer l’utilisation commerciale par rapport à l’utilisation personnelle est celle qui est la plus avantageuse à l’appelante et elle est acceptée.
+[14] Dans la décision Roos c. Canada, [1993] ACI no 867, il a été conclu que la question de savoir si un changement d’usage avait eu lieu et quand ce changement avait eu lieu est une question de fait. Selon le paragraphe 208(2) de la LTA, un changement d’utilisation a lieu « à un moment donné » et non pendant une certaine période de temps. En l’espèce, le moment donné auquel le premier changement d’utilisation a eu lieu était le deuxième trimestre de 2005. À ce moment‑là, l’utilisation de l’unité par M. Chew a changé et est passée d’une utilisation personnelle à une utilisation principalement commerciale. Le droit de M. Chew au CTI a pris naissance au même moment où le changement d’utilisation a eu lieu. C’est ce qui ressort des alinéas 208(2)c) et d) de la LTA. En conséquence, M. Chew avait le droit de demander un CTI à partir du 1er avril 2005.
+[15] Selon l’alinéa 225(4)b) de la LTA, le CTI doit être demandé par l’inscrit dans sa déclaration le jour où la déclaration est à produire pour la dernière période de déclaration se terminant dans les quatre ans suivant la fin de la période dans laquelle le CTI pouvait être demandé pour la première fois. M. Chew a produit ses déclarations de TPS trimestriellement. Par conséquent, il était tenu de demander un CTI relativement au premier changement d’utilisation important de l’unité avant le 1er juillet 2009. Il ne l’a pas fait.
+[16] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 3e jour d’avril 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 16e jour de mai 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE : 2013 CCI 89
+No DU DOSSIER DE LA COUR : 2011-3655(GST)I
+INTITULÉ : SUCCESSION DE JOHN W. CHEW c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Victoria (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 1er mars 2013
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 4 mars 2013
+DATE DES MOTIFS
+RENDUS ORALEMENT : Le 1er mars 2013
+DATE DES MOTIFS
+DU JUGEMENT : Le 3 avril 2013
+COMPARUTIONS :
+Représentante de l’appelante :
+Mme T. Charlotte Hoggard
+Avocat de l’intimée :
+Me Zachary Froese
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

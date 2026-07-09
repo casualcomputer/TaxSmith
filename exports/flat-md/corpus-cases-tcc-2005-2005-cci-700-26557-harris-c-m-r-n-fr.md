@@ -1,0 +1,181 @@
+---
+title: "Harris c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26557/index.do"
+last_modified: "2005-10-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 700"
+citation2: ""
+neutral_citation: "2005 CCI 700"
+decision_date: "2005-10-27"
+language: "fr"
+item_id: "26557"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3565
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:22:13.023000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "28da84b30f1160f99dbd23ebfd21c485cf206fb4ce76b08ceeed1c6b80b0b7ff"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Harris c. M.R.N.
+
+- Citation: 2005 CCI 700
+- Decision date: 2005-10-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3565, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Harris c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-27
+Référence neutre
+2005 CCI 700
+Numéro de dossier
+2005-591(EI)
+Juges et Officiers taxateurs
+William E. MacLatchy
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2005-592(CPP)
+ENTRE :
+WILLIAM HARRIS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+JIM BOOKER, op. FENCE FACTORY,
+intervenant.
+_______________________________________________________________
+Appel entendu sur preuve commune avec l’appel de William Harris (2005‑591(EI)) le 4 octobre 2005
+à Toronto (Ontario)
+Devant : l’honorable W.E. MacLatchy, juge suppléant
+Comparutions :
+Pour l’appelant :
+l’appelant lui-même
+Avocat de l’intimé :
+Aleksandrs Zemdegs
+Avocat de l’intervenant :
+Michael D. Stahr
+_______________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est modifiée conformément aux motifs du jugement ci-joints.
+Signé à Toronto (Ontario), ce 27e jour d’octobre 2005.
+« W.E. MacLatchy »
+Juge suppléant MacLatchy
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2005-591(EI)
+ENTRE :
+WILLIAM HARRIS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+JIM BOOKER, op. FENCE FACTORY,
+intervenant.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de William Harris (2005‑592(CPP)) le 4 octobre 2005
+à Toronto (Ontario)
+Devant : l’honorable W.E. MacLatchy, juge suppléant
+Comparutions :
+Pour l’appelant :
+l’appelant lui-même
+Avocat de l’intimé :
+Aleksandrs Zemdegs
+Avocat de l’intervenant :
+Michael D. Stahr
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est modifiée conformément aux motifs du jugement ci-joints.
+Signé à Toronto (Ontario), ce 27e jour d’octobre 2005.
+« W.E. MacLatchy »
+Juge suppléant MacLatchy
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2005CCI700
+Date : 20051027
+Dossiers : 2005-591(EI)
+2005-592(CPP)
+ENTRE :
+WILLIAM HARRIS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+JIM BOOKER, op. FENCE FACTORY,
+intervenant.
+MOTIFS DU JUGEMENT
+Le juge suppléant MacLatchy
+[1] Les présents appels ont été entendus sur preuve commune le 4 octobre 2005 à Toronto (Ontario).
+[2] L’appelant a demandé qu’une décision soit rendue pour déterminer s’il était employé en vertu d’un contrat de louage de services, alors qu’il était à l’emploi de Jim Booker op. Fence Factory, le payeur, au cours de la période allant du 1er janvier au 31 juillet 2003, au sens de la Loi sur l’assurance-emploi (la « Loi ») et du Régime de pensions du Canada (le « Régime »). L’agent des décisions, du bureau des services fiscaux de Scarborough, a décidé que l’emploi de l’appelant était assurable et ouvrait droit à pension.
+[3] En désaccord avec la décision, le payeur a donc interjeté appel de la décision auprès du ministre du Revenu national (le « ministre »). À la suite d’un examen, le ministre a, par voie de lettre datée du 15 novembre 2004, informé l’appelant et le payeur qu’il avait été décidé que l’emploi de l’appelant auprès du payeur au cours de la période en cause n’était pas un emploi assurable ou ouvrant droit à pension, parce que l’appelant n’était pas employé en vertu d’un contrat de louage de services.
+[4] L’appelant a comparu et a présenté lui-même sa preuve avec l’aide de la Cour. L’appelant est relativement non averti et ne connaissait guère la procédure de la Cour. Cependant, il était prêt à raconter le plus fidèlement possible ce qui s’était passé lorsqu’il travaillait pour le payeur, lequel exploite une entreprise individuelle appelée Fence Factory.
+[5] En se fondant sur les hypothèses invoquées par le ministre et énoncées aux paragraphes 5 des réponses aux avis d’appel, l’appelant a convenu que plusieurs des hypothèses étaient exactes mais a expliqué pourquoi il était d’avis que le ministre avait été mal informé. D’après les apparences, l’appelant avait été considéré comme un employé avant 2003 et avait versé au besoin des cotisations à l’A-E et au RPC. Le payeur lui avait demandé d’obtenir un numéro de TPS à la fin de 2002, même si on avait informé l’appelant que cela n’était pas nécessaire s’il gagnait moins de 30 000 $ par année. Malgré de tels conseils, le payeur a maintenu sa demande et l’appelant s’y est conformé.
+[6] La relation entre l’appelant et le payeur n’a nullement changé au cours de la période en cause, si ce n’est du fait que l’appelant a facturé la TPS sur les feuilles de temps qu’il présentait au payeur afin d’être payé pour son travail. Le payeur négociait avec un client au sujet de la construction d’une clôture, donnait ensuite à l’appelant la consigne de construire la clôture en conséquence et payait l’appelant pour ses heures de travail. Le payeur augmentait le taux horaire de l’appelant à son gré et l’appelant était payé lorsqu’il présentait la facture, qui était une feuille de temps indiquant les heures travaillées.
+[7] Les critères établis dans diverses décisions rendues par la Cour d’appel fédérale, notamment dans Wiebe Door Services Ltd. c. M.R.N., 87 DTC 5025, et par la Cour suprême du Canada dans 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, doivent être appliqués pour décider si l’appelant était employé en vertu d’un contrat de louage de services ou d’un contrat d’entreprise.
+[8] L’appelant a déclaré que, pendant les mois d’hiver, il effectuait des travaux de déneigement et était également à l’emploi de Blue Mountain Welding and Machine Shop, où il travaillait sur place. À l’arrivée du printemps, il construisait des clôtures pour le payeur à un taux horaire convenu. Il se présentait chez le payeur à chaque jour pour que celui-ci lui indique le lieu de travail auquel il devait se rendre ainsi que le style et la conception de la clôture à construire. De temps à autre, le payeur se rendait au lieu de travail pour s’assurer que la clôture était construite selon les directives et pour approuver le projet fini. S’il fallait effectuer des modifications ou des réparations, l’appelant était payé pour les heures de travail supplémentaires, que le payeur ait ou non été payé par son client. L’appelant était payé après avoir rempli et présenté au payeur sa facture sous forme de feuilles de temps, ce qui arrivait de temps à autre et non régulièrement. Même si, selon les apparences, l’entente entre les parties était très floue, elle semblait convenir aux deux parties.
+[9] La question du contrôle semblerait favoriser une relation employeur-employé. Il n’était pas toujours nécessaire de superviser l’appelant, parce qu’il était un travailleur expérimenté. Toutefois, le produit fini était toujours inspecté pour s’assurer de sa conformité avec les directives initiales du payeur. Le payeur pouvait mettre un terme à la relation en tout temps et l’a fait en juillet 2003. Le payeur se chargeait d’obtenir le travail et donnait ensuite à l’appelant la consigne d’effectuer le travail. Leur relation semble avoir pris fin par accident ou par erreur. L’appelant a ensuite commencé à travailler à son propre compte.
+[10] Le critère relatif aux outils des parties semble aussi favoriser une relation employeur-employé. L’appelant possédait des outils dont la valeur était, selon lui, d’environ 3 000 $. Ces outils comprenaient notamment de petits articles qu’il utilisait tous les jours. Le payeur possédait du matériel beaucoup plus important d’une valeur approximative de 18 000 $, qui comprenait des outils plus lourds et plus spécialisés auxquels l’appelant avait intégralement accès pour effectuer le travail, notamment un camion et un tracteur muni d’une remorque dont l’appelant se servait régulièrement dans le cadre des divers travaux qui lui étaient attribués. Ce matériel servait à ramasser les matériaux de clôture et à effectuer le nivellement nécessaire pour l’installation des clôtures.
+[11] Les clôtures étaient construites pour les clients du payeur et l’appelant ne réalisait aucun profit ni aucune perte à l’égard du travail qu’il accomplissait. Le payeur estimait le taux de rémunération de l’appelant et les heures nécessaires pour construire la clôture et l’appelant devait travailler selon cette structure horaire ou justifier les heures supplémentaires auprès du payeur.
+[12] Le payeur a admis qu’il payait l’appelant pour un travail même s’il n’avait lui-même pas encore été payé à cet égard et que, s’il n’était pas payé, il poursuivait le client mais payait tout de même l’appelant.
+[13] La question de l’intégration est un peu plus complexe. Au cours de la période en cause, l’appelant travaillait pour son frère lorsqu’il était disponible; il a aussi entrepris un projet personnel que le payeur lui avait offert, ce qui a mené, au bout du compte, à la fin de leur relation. Le payeur donnait l’impression que l’appelant était l’un de ses employés et avait des cartes professionnelles indiquant que l’appelant était son gérant. Au besoin, l’appelant pouvait engager un auxiliaire qui était rémunéré par le payeur.
+[14] Il faut examiner l’ensemble de la relation entre les parties pour tenter de déterminer si l’appelant était ou non un employé du payeur. L’examen porte notamment sur l’intention des parties. L’appelant comprenait qu’il dépendait du payeur, en ce sens que le payeur obtenait le travail qui devait être effectué par l’appelant, fixait le prix du travail et établissait ensuite le taux horaire selon lequel l’appelant devait être payé pour le travail. L’appelant suivait les directives et, bien qu’il ne fût pas supervisé de façon continuelle, son travail faisait toujours l’objet d’une inspection et d’une approbation finale par le payeur. Jusqu’à la fin de la relation en juillet 2003, l’appelant ne croyait pas travailler à son propre compte. Le payeur doit avoir considéré l’appelant comme un employé parce qu’il l’a désigné gérant sur une carte professionnelle, malgré son témoignage selon lequel il voulait que l’appelant soit un entrepreneur indépendant et lui a demandé d’obtenir un numéro de TPS. Il semble que ce fut l’intention du payeur et non celle de l’appelant que ce dernier devienne un entrepreneur indépendant.
+[15] Compte tenu de la preuve présentée et après examen sérieux de l’ensemble de la relation entre l’appelant et le payeur, notre Cour conclut que l’appelant était employé par le payeur en vertu d’un contrat de louage de services et qu’il existait entre eux une relation employeur-employé.
+[16] Les appels sont accueillis et la décision du ministre est modifiée en conséquence.
+Signé à Toronto (Ontario), ce 27e jour d’octobre 2005.
+« W.E. MacLatchy »
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 23e jour de mars 2006.
+Éric Vovan, traducteur
+RÉFÉRENCE : 2005CCI700
+Nos DES DOSSIERS DE LA COUR : 2005-591(EI) et 2005-592(CPP)
+INTITULÉ DE LA CAUSE : William Harris et M.R.N. et Jim Booker op. Fence Factory
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : 4 octobre 2005
+MOTIFS DU JUGEMENT PAR : l’honorable W.E. MacLatchy,
+juge suppléant
+DATE DU JUGEMENT : 27 octobre 2005
+COMPARUTIONS :
+Pour l’appelant :
+l’appelant lui-même
+Avocat de l’intimé :
+Aleksandrs Zemdegs
+Avocat de l’intervenant :
+Michael D. Stahr
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Étude :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)
+Pour l’intervenant :
+Nom : Michael D. Stahr
+Étude : Baulke Augaitis Stahr, s.r.l.
+Collingwood (Ontario)

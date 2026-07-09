@@ -1,0 +1,196 @@
+Title: Sicurella c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31120/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-79-31120-sicurella-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-03-11
+
+# Sicurella c. La Reine
+
+- Citation: 2013 CCI 79
+- Decision date: 2013-03-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4769, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sicurella c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-03-11
+Référence neutre
+2013 CCI 79
+Numéro de dossier
+2011-1434(IT)I
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1434(IT)I
+ENTRE :
+MARIA SICURELLA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 21 janvier 2013, à Montréal (Québec).
+Devant : L'honorable Rommel G. Masse, Juge suppléant
+Comparutions :
+Représentant de l'appelante :
+Stéphane Coutlee
+Avocate de l'intimée :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+Les appels à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2007 et 2008 sont rejetés, selon les motifs du jugement ci‑joints.
+Signé à Kingston, Ontario, ce 11e jour de mars 2013.
+« Rommel G. Masse »
+Juge suppléant Masse
+Référence : 2013 CCI 79
+Date : 20130311
+Dossier : 2011-1434(IT)I
+ENTRE :
+MARIA SICURELLA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge suppléant Masse
+[1] En l’espèce, il s’agit d’un appel à l’encontre de deux cotisations établies en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985) (5e suppl.) c. 1, telle que modifiée (la « Loi ») à l’égard de l'appelante, pour les années d'imposition 2007 et 2008. Les cotisations ont été confirmées par décision sur opposition rendue le 2 mars 2011, d’où le présent appel.
+Contexte factuel
+[2] L'appelante est une veuve qui habite au 7385 rue Cartier, Montréal. Son mari, Francesco Sicurella, est décédé en 1993. Le 28 février 1968, le mari de l’appelante a acheté l'immeuble sis au 7385 rue Cartier à Montréal à un coût de 85 000 $. Cet immeuble était un immeuble locatif multirésidentiel comprenant sept unités. À la suite du décès de monsieur Sicurella en 1993, l'appelante est devenue l’unique propriétaire de l’immeuble. Elle habite une des unités comme sa résidence principale. C’est cet immeuble qui fait l’objet du présent litige. La question à trancher est à savoir si le ministre du Revenu national (le « ministre ») a bien calculé la Déduction pour amortissement (« DPA ») de l’immeuble pour les années visées.
+[3] L'appelante a réclamé comme DPA le montant de 11 065 $ pour l'année 2007 et le même montant pour l’année 2008. Le ministre a établi des cotisations pour ces deux années tout en refusant comme déduction le montant de 6 398 $ pour 2007 et de 6 585 $ pour 2008. Ces deux montants ont été ajoutés au revenu de l'appelante pour ces deux années. L'appelante conteste la décision du ministre de refuser ces déductions d’amortissement.
+[4] Le présent litige retrace sa genèse à l’année d’imposition 1994. Au mois d’avril 1995, l'appelante a choisi de déclarer un gain en capital sur un bien possédé en fin de journée le 22 février 1994 et à cet effet elle a rempli le formulaire T664 (voir pièce I‑2). Ce choix a permis à l'appelante de maximiser son exonération de gain en capital avant que le gouvernement fédéral abolisse cette exonération. L'appelante avait la faculté de désigner comme produit de disposition n’importe quel montant entre le coût d’acquisition du bien et la juste valeur marchande (« JVM ») du bien. Par ce choix T664, l'appelante a désigné le montant de 262 500 $ comme la JVM de l’immeuble et comme le produit de disposition désigné. Aussi, elle a désigné le montant de 131 250 $ comme Prix de base rajusté (« PBR »). Malheureusement, les montants indiqués par l'appelante dans son choix T664 auraient des conséquences inattendues à l’égard de la déduction pour amortissement du bien.
+[5] Giovanni Sicurella, âgé de 46 ans, est le fils de l'appelante. Il a témoigné que son père avait acheté l’immeuble en 1968 à un prix de 85 000 $. De 1968 jusqu’à 1994, le père a effectué des rénovations et des améliorations importantes à l’immeuble. Selon monsieur Sicurella, ces dépenses en capital s’échelonnaient dans les dizaines de milliers de dollars. Malheureusement, il n’a pu trouver aucune documentation pour établir le montant de ces dépenses. Alors, il a embauché un entrepreneur dans la construction pour fournir une estimation des coûts en capital qui auraient pu être encourus durant cette période de temps. La pièce A‑2, datée du 17 avril 2011, est l’estimation préparée pour monsieur Sicurella. Ce document démontre d’après lui, qu’entre 1968 et 1994, il y a eu des rénovations importantes à l’immeuble d’une valeur d'environ 140 300 $, et donc, la JVM et le PBR de l’immeuble en 1994 devraient refléter ces dépenses en coût capital. Par contre, ces estimations n’ont pas été acceptées par le ministre. Donc, monsieur Sicurella a décidé d’embaucher un évaluateur agréé, monsieur Nicholas St‑Cyr, qui était chargé d’établir la JVM de l’immeuble en 1994.
+[6] Monsieur St‑Cyr, un évaluateur très expérimenté, nous a décrit les méthodes d’évaluation dont il s’est servi pour arriver à ses conclusions. Il a préparé un rapport très détaillé, lequel a été déposé à la Cour sous la cote A‑1. Monsieur St‑Cyr s’est servi de trois méthodes d’évaluation : la méthode du coût, la méthode de comparaison et la méthode du revenu. Monsieur St‑Cyr a établi la JVM de l’immeuble en date du 1er juillet 1994 à un montant de 332 000 $ en utilisant la méthode du coût, à un montant de 301 000 $ en utilisant la méthode de comparaison et à un montant de 244 000 $ en utilisant la méthode du revenu. Il est d’avis qu’en l’espèce, la méthode de comparaison est la méthode la plus fiable, et donc, il est d’avis que la valeur marchande la plus probable de l’immeuble en date du 1er juillet 1994 est de 301 000 $. Il est d’avis que la valeur du terrain à l’époque était 80 455 $ en utilisant un taux unitaire de 18 $ le pied carré et une superficie de terrain de 4 470 pieds carrés. Donc, la valeur de l’édifice serait de 220 545 $ à l’époque.
+[7] D’après monsieur Sicurella, lorsque l'appelante a fait son choix T664, il soutient que le PBR de l’immeuble aurait dû être 262 500 $ et la JVM aurait dû être 301 000 $ au lieu des montants indiqués à la pièce I‑2. Aujourd’hui, il cherche à corriger ces erreurs et à rétablir la JVM et le PBR à leurs véritables valeurs.
+[8] Madame Dorothy Sanon est à l’emploi de l’Agence du revenu du Canada comme agente d’appel. C’est elle qui s’est occupée du dossier lorsque l'appelante s’est opposée à la cotisation refusant la déduction pour amortissement pour les années 2007 et 2008. Madame Sanon a témoigné que pour déterminer le montant d’amortissement, on doit commencer avec la Fraction non amortie du coût en capital (« FNACC »). Par contre, il y avait une pénurie d’information à cet égard pour l’immeuble avant 2003. Donc, madame Sanon a décidé qu’il serait raisonnable de se baser sur le montant que l'appelante avait elle-même déclaré dans son choix T664. Madame Sanon a pris pour acquis que lorsque l'appelante a fait son choix T664 en 1994, tous les travaux et les dépenses en capital qui ont été effectués avant 1994 y étaient déjà compris. Madame Sanon a donc calculé la FNACC de l’immeuble en 2003 à un montant de 84 164 $. En faisant ce calcul, elle a pris comme point de départ le PBR au montant de 131 250 $ comme indiqué par l'appelante dans son choix T664. De ce montant est soustrait le montant de 19 031 $, représentant la valeur du terrain tel qu’établi en utilisant l’évaluation de la Ville de Montréal pour l’année 1971 (131 250 $ x 14,5 % = 19 031 $) ainsi que le montant de 28 055 $, lequel représente 25 % pour l’utilisation comme résidence principale de l'appelante (131 250 $ - 19 031 $) x 25 % = 28 055 $). Le résultat de ce calcul est une FNACC de 84 164 $. La DPA pour les années 2007 et 2008 est basée sur la FNACC, la catégorie du bien et le taux applicable à cette catégorie (Catégorie 1 — 4 % pour un édifice).
+[9] Les calculs à l’appui des cotisations se trouvent aux pièces I‑3 et I‑4, lesquelles sont reproduites comme Annexe « A » et « B » respectivement.
+La thèse de l’appelante
+[10] L’appelante soutient que la cotisation établie contre elle devrait être annulée car le PBR de l’immeuble utilisé par le ministre pour calculer l’amortissement est trop bas et ne reflète ni la vraie FNACC ni le vrai PBR de l'immeuble. Lorsque l'appelante a rempli le formulaire T664, il y a eu des erreurs quant aux montants indiqués malgré le fait que ces montants ont été fournis par elle. L’appelante désire seulement corriger les erreurs qu’elle a faites en 1994 à l’égard de la JVM et le PBR malgré le fait que 13 années se sont écoulées. L’appelante a pris la peine d’embaucher un évaluateur agréé qui nous éclaire avec son opinion professionnelle que la JVM de l’immeuble en 1994 était du montant de 301 000 $ et non de 262 500 $. L'appelante soutient que le PBR indiqué dans le choix T664 aurait dû être 262 500 $ au lieu de 131 250 $ ce qui aurait donné un résultat de 168 328 $ comme FNACC au lieu de 84 164 $. Des améliorations importantes ont été effectuées à l’immeuble et donc il est juste et équitable que le PBR et la FNACC reflètent ces améliorations.
+La thèse de l’intimée
+[11] L’intimée soutient qu’en l’espèce, la JVM de l’immeuble et l’évaluation qui a été préparée par monsieur St‑Cyr n’ont aucune pertinence au présent litige. En l’espèce, il s’agit seulement du calcul de la DPA ce qui découle du calcul de la FNACC et non de la JVM du bien. Le ministre affirme qu’il avait bon droit de se fier au PBR indiqué dans le choix T664 de l'appelante (pièce I‑2) comme point de départ pour le calcul de l’amortissement. Il y a un manque de données avant 2003 qui ne permettait pas de vérifier les dépenses en capital qui ont été encourues avant 2003. Ni l’intimée, ni l’appelante, n’étaient en mesure de fournir des informations à l’égard des différents attributs fiscaux de l’immeuble. Donc, il fallait un point de départ et le plus fiable qui existait et qui a été mis à la disposition de l’intimée par l'appelante elle-même était le PBR indiqué dans le choix T664. C’est l'appelante qui a choisi le PBR dans son choix T664 et le ministre était justifié de se fier à ce montant et de calculer l’amortissement en fonction de ce montant
+[12] Dans les circonstances en l’espèce, le ministre peut à plein droit se fier aux montants indiqués dans le choix T664 de l'appelante pour établir la FNACC de l’immeuble. L'intimée soutient donc que les cotisations sont bien fondées et donc l’appel doit être rejeté.
+Les dispositions législatives
+[13] Les dispositions pertinentes en matière de l’alinéa 13(7)e) et du paragraphe 110.6(19) de la Loi sont les suivantes :
+[…]
+e) malgré les autres dispositions de la présente loi, à l’exception du paragraphe 70(13), lorsqu’un contribuable — personne ou société de personnes — a acquis, à un moment donné, directement ou indirectement, de quelque manière que ce soit (autrement que par suite du décès de l’auteur du transfert), un bien amortissable, sauf un avoir forestier, d’une catégorie prescrite auprès d’une personne ou société de personnes (appelée « auteur du transfert » au présent alinéa) avec laquelle le contribuable avait un lien de dépendance et que le bien était une immobilisation de l’auteur du transfert immédiatement avant le transfert :
+(i) si l’auteur du transfert était un particulier qui résidait au Canada ou une société de personnes dont un associé était un particulier qui résidait au Canada ou une autre société de personnes et si le coût du bien pour le contribuable à ce moment, calculé compte non tenu du présent alinéa, dépasse le coût ou, s’il s’agit d’un bien amortissable, le coût en capital du bien pour l’auteur du transfert immédiatement avant que celui-ci en ait disposé, le coût en capital du bien pour le contribuable à ce moment est réputé correspondre au total des montants suivants :
+(A) le coût ou coût en capital, selon le cas, du bien pour l’auteur du transfert immédiatement avant ce moment,
+(B) la moitié de l’excédent éventuel :
+(I) du produit de disposition du bien pour l’auteur du transfert,
+sur le total des montants suivants :
+(II) le coût ou coût en capital, selon le cas, du bien pour l’auteur du transfert immédiatement avant ce moment,
+(III) le double du montant déduit par une personne selon l’article 110.6 au titre de l’excédent éventuel du montant visé à la subdivision (I) sur le montant visé à la subdivision (II);
+(IV) le montant éventuel à déduire, en application du paragraphe 110.6(21), dans le calcul du coût en capital du bien pour le contribuable à ce moment;
+en outre, pour l’application de l’alinéa b) et du sous-alinéa d)(i), le coût du bien pour le contribuable est réputé correspondre au même total,
+[…]
+(iii) si le coût ou coût en capital, selon le cas, du bien pour l’auteur du transfert immédiatement avant que celui-ci en ait disposé dépasse le coût en capital du bien pour le contribuable à ce moment, calculé compte non tenu du présent alinéa, le coût en capital du bien pour le contribuable à ce moment est réputé correspondre au coût ou coût en capital, selon le cas, du bien pour l’auteur du transfert immédiatement avant que celui-ci en ait disposé, et l’excédent est réputé avoir été admis en déduction au titre du bien, conformément aux dispositions réglementaires prises en application de l’alinéa 20(1)a), dans le calcul du revenu du contribuable pour les années d’imposition se terminant avant que celui-ci ait acquis le bien;
+e.1) le contribuable qui est réputé par l’alinéa 110.6(19)a) avoir disposé d’un bien et l’avoir acquis de nouveau — lequel bien était, immédiatement avant la disposition, un bien amortissable — est réputé avoir acquis le bien de lui-même et, à cette fin, avoir un lien de dépendance avec lui-même;
+Choix concernant les biens appartenant à un contribuable le 22 février 1994
+110.6(19) Sous réserve du paragraphe (20), dans le cas où un particulier (sauf une fiducie) ou une fiducie personnelle (appelés chacun « auteur du choix » au présent paragraphe et aux paragraphes (20) à (29)) fait un choix, sur formulaire prescrit, pour que les dispositions du présent paragraphe s’appliquent à l’un des biens ou entreprises suivants, les présomptions suivantes s’appliquent :
+a) s’il s’agit d’une immobilisation dont l’auteur du choix est propriétaire à la fin du 22 février 1994 … l’immobilisation est réputée … :
+(i) d’une part, avoir fait l’objet d’une disposition par l’auteur du choix à ce moment pour un produit de disposition égal au plus élevé des montants suivants :
+(A) le résultat du calcul suivant :
+A – B
+où :
+A
+représente le montant indiqué au titre de l’immobilisation dans le formulaire concernant le choix,
+B
+le montant qui serait inclus, en application des articles 7 ou 35, dans le calcul du revenu de l’auteur du choix par suite de la disposition, s’il s’agissait d’une disposition visée à ces articles,
+(B) le prix de base rajusté de l’immobilisation pour l’auteur du choix immédiatement avant la disposition,
+(ii) d’autre part, avoir été acquise de nouveau par l’auteur du choix immédiatement après ce moment à un coût égal à l’un des montants suivants :
+[…]
+(C) dans les autres cas, le moins élevé des montants suivants :
+(I) le montant indiqué dans le formulaire concernant le choix,
+[…]
+(24) Le formulaire concernant le choix prévu au paragraphe (19) doit être présenté au ministre dans les délais suivants :
+a) l’auteur du choix étant un particulier, sauf une fiducie :
+(i) si le choix vise une entreprise de l’auteur du choix, au plus tard à la date d’échéance de production applicable au particulier pour l’année d’imposition dans laquelle se termine l’exercice de l’entreprise qui comprend le 22 février 1994,
+(ii) dans les autres cas, au plus tard à la date d’exigibilité du solde applicable au particulier pour l’année d’imposition 1994;
+[…]
+(25) Sous réserve du paragraphe (28), l’auteur du choix peut révoquer le choix fait en application du paragraphe (19) en présentant au ministre un avis écrit à cet effet avant 1998.
+(26) S’il est présenté au ministre après le jour (appelé « date du choix » au présent paragraphe et aux paragraphes (27) et (29)) où il doit être produit selon le paragraphe (24), mais au plus tard deux ans suivant ce jour, le formulaire concernant le choix fait en application du paragraphe (19) est réputé, pour l’application du présent article, à l’exception du paragraphe (29), avoir été produit à la date du choix si un montant estimatif de la pénalité relative au choix est payé par l’auteur du choix au moment de la présentation du formulaire au ministre.
+(27) Sous réserve du paragraphe (28), le choix fait en application du paragraphe (19) relativement à un bien ou à une entreprise est réputé être modifié et, pour l’application du présent article … produit, dans sa version modifiée, à la date du choix, si les conditions suivantes sont réunies :
+a) un formulaire prescrit concernant le choix modifié relatif au bien ou à l’entreprise est présenté au ministre avant 1998;
+b) un montant estimatif de la pénalité relative au choix modifié est payé par l’auteur du choix au moment où le formulaire concernant ce choix est présenté au ministre.
+(28) [Interdiction de révocation ou de modification dans certains cas]
+(29) [Pénalité relative à un choix auquel les paragraphes (26) et (27) s’applique]
+Le Règlement de l'impôt sur le revenu, C.R.C., 1978, c. 945, édicte comme suit :
+PARTIE XI
+Déductions pour amortissement
+Section I
+Déductions permises
+1100. (1) Pour l’application des alinéas 8(1)j) et p) et de l’alinéa 20(1)a) de la Loi, un contribuable peut déduire dans le calcul de son revenu pour chaque année d’imposition des montants correspondant :
+a) sous réserve du paragraphe (2), au montant qu’il peut réclamer à l’égard de biens de chacune des catégories suivantes de l’annexe II, sans dépasser, à l’égard des biens
+(i) de la catégorie 1, 4 pour cent,
+[…]
+SECTION III
+RÈGLES SUR LES BIENS
+Biens non compris
+1102. (1) Les catégories de biens décrits dans la présente partie et dans l’annexe II sont censées ne pas comprendre les biens.
+[…]
+Terrain
+(2) Les catégories de biens décrits dans l’annexe II sont censées ne pas comprendre le terrain sur lequel les biens qui y sont décrits ont été construits ou sont situés.
+ANNEXE II
+(art. 215, 700, 700(1), 1100 à 1105, 1205, 1206, 1700, 1704, 3900, 4600, 4601, 5202 et 5204)
+Déductions pour amortissement
+« Allocation de coût en capital »
+CATÉGORIE 1
+(4 pour cent)
+Les biens non compris dans aucune autre catégorie constitués par
+[…]
+q) un bâtiment ou une autre construction, ou toute partie de ceux-ci, y compris les parties constituantes notamment les fils électriques, la plomberie, les réseaux d’extinction automatiques, le matériel de climatisation, les appareils de chauffage, les appareils d’éclairage, les ascenseurs et les escaliers roulants …
+Analyse
+[14] Il va sans dire que les dispositions législatives qui s’appliquent en l’espèce sont très complexes et difficiles à interpréter. En décidant le fond de ce litige, il ne faut pas confondre les principes qui s’appliquent à l’exonération de gain en capital avec les principes qui régissent le calcul de déduction pour amortissement.
+Exonération de gain en capital
+[15] En ce qui a trait à l’exonération de gain en capital, tel que prévu par l’article 110.6, il est opportun de connaître un peu l’historique de l’imposition des gains en capital. La juge Lamarre‑Proulx nous a fait un exposé très succinct dans ses motifs pour décision dans l’affaire Foisy c. La Reine, 2000 CanLII 431 (CCI). Elle nous enseigne ainsi aux paragraphes 17 et suivants :
+[17] Avant 1972, les gains en capital n'étaient pas sujets à l'impôt sur le revenu. En 1967, le rapport de la Commission royale d'enquête sur la fiscalité, connue sous le nom de Commission Carter, a recommandé l'assujettissement de ces gains au même titre que les gains d'entreprise. En 1969, le Livre blanc sur la fiscalité a recommandé l'imposition entière du gain en capital, à l'exception de celui sur les actions des sociétés canadiennes publiques qui devrait l'être à 50 p. 100. La Loi de l'impôt sur le revenu, entrée en vigueur le 1er janvier 1972, prévoyait l'imposition à 50 p. 100 des gains en capital.
+[18] En 1985, la Loi a été modifiée pour prévoir en faveur des particuliers une exonération cumulative qui pouvait atteindre progressivement le montant de 500 000 $ pour les gains en capital. Cette exonération augmentait progressivement : ainsi en 1985, le plafond était de 20 000 $, en 1986 de 50 000 $, et en 1987 de 100 000 $. Par la suite d'année en année l'augmentation devait être de 100 000 $ pour atteindre un plafond final de 500 000 $ en 1990.
+[19] L'exonération est dite cumulative à cause du fait qu'il est nécessaire de cumuler les exonérations prises tout au long de la vie d'un particulier. Tout montant d'exonération utilisé dans une année antérieure réduit le plafond d'exonération disponible.
+[20] L'augmentation du plafond de l'exonération s'est arrêtée à 100 000 $ en 1987, lors de la réforme fiscale de 1987. Cette même réforme fiscale prévoyait qu'en 1988, la portion du gain en capital imposable serait augmentée à 66 2/3 p. 100 et à 75 p. 100 à compter de 1990. L'exonération de 100 000 $ a pris fin en 1994. (Au budget fédéral du 28 février 2000, il y a une proposition de ramener à 2/3 le taux d'inclusion des gains en capital réalisés après le 27 février 2000.)
+[21] L'arrêt de l'accroissement du plafond de l'exonération fiscale qui a eu lieu en 1988 ne s'est pas appliqué aux biens agricoles admissibles ni aux actions admissibles d'une petite entreprise. À leur égard, l'exonération a atteint son plafond final en 1990 et n'a pas pris fin en 1994.
+[22] Lors de l'abrogation de l'exonération de 100 000 $ en 1994, le paragraphe 110.6(19) de la Loi a permis aux particuliers de faire un choix qui avait pour objet une disposition présumée du bien en capital le 22 février 1994 et un rachat à sa juste valeur marchande ou à une valeur inférieure. La valeur choisie devient le coût de base rajusté de la propriété. Ce choix devait être fait dans le délai prévu au paragraphe 110.6(24) de la Loi.
+[16] Le paragraphe 110.6(19) de la Loi permet au contribuable de choisir d'utiliser tout montant restant de l'exonération cumulative des gains en capital pour qu'elle ne soit pas pour toujours perdue. Le contribuable, par moyen du choix T664, désigne une immobilisation et choisit une valeur pour cette immobilisation. Selon les dispositions législatives, le contribuable est réputé avoir disposé de l'immobilisation désignée et l'avoir acquise de nouveau pour la valeur choisie. Tout gain résultant de cette disposition réputée donnera lieu à un gain en capital imposable qui peut être compensé par le montant qui reste au contribuable à titre de l'exonération cumulative. À l’avenir, lorsqu'il y aura une disposition ou une vente du bien, il y aura compensation entre le gain réalisé à ce moment-là et le montant choisi, plutôt qu'entre le coût initial et le gain futur. Ceci entraînera une réduction de l'impôt payable lors de la vente éventuelle du bien.
+[17] En l’espèce, l'appelante avait la faculté de choisir comme produit de disposition désigné n’importe quel montant ne dépassant pas la JVM de l’immeuble. Ceci lui permettait de déclarer un gain en capital dans le but de profiter de l’exonération de 100 000 $ en gain capital avant que le gouvernement fédéral abolisse cette exonération. Le choix qu’a fait l'appelante a eu comme effet de maximiser le bénéfice de l’exonération. On ne peut pas dire qu’elle a fait un méchant choix à cet égard.
+[18] Il faut souligner que ces dispositions législatives affectent seulement le calcul du gain en capital et non l’amortissement du bien. Le montant désigné par le contribuable comme produit de disposition (et donc le nouveau coût d’acquisition du bien) dans le choix T664 est très important lors du calcul du gain en capitale quand le bien est vendu à une date ultérieure, mais ce montant n’entre pas en ligne de compte lors du calcul de déduction pour amortissement du bien.
+Le calcul de déduction pour amortissement
+[19] En ce qui a trait aux déductions pour l’amortissement d’un bien, différentes considérations entrent en ligne de compte. Par application du paragraphe 110.6(11), l'appelante est réputée avoir transigé avec elle-même, c'est‑à‑dire la transaction est considérée être avec une personne qui a un lien de dépendance. Les alinéas 13(7)e) et e.1) déterminent le coût en capital pour un contribuable d’un bien acquis d’une personne liée. Par application de ces dispositions, le coût de l’acheteur correspond au coût du vendeur augmenté du gain en capital imposable non exonéré. Donc, le coût pour l'appelante est le PBR du bien amortissable, qu’elle a indiqué dans son choix T664 comme étant 131 250 $. Pour ces mêmes raisons, la FNACC avant le transfert réputé est le même que la FNACC après le transfert réputé. Le ministre a fait son calcul en fonction du choix et des informations fournies par l'appelante.
+[20] Je suis d’avis que le ministre avait raison de se fier au PBR comme indiqué dans le choix T664 de l'appelante. Le PBR est un élément d’information très important. Il incombe au contribuable de veiller à ce que les coûts en capital attribuables à un bien amortissable soient bien comptabilisés. Comme l’a indiqué la juge Campbell dans l’affaire La succession de Lily Bullard c. La Reine, 2004 CCI 294 (CanLII) :
+[34] … Le choix du montant du PBR que le contribuable effectue est un élément crucial d'information dans ce formulaire. Il s'agit d'un renseignement possédé par le contribuable et non par le ministre et il incombe au contribuable de veiller à ce que le bon montant soit obtenu et inclus dans le formulaire.
+[35] … le contribuable choisit un gain en capital auquel une déduction pour gains en capital peut être imputée. … Il est tout simplement logique de conclure que le contribuable doit veiller à ce que le bon PBR soit inclus dans le formulaire, de façon que le ministre n'ait pas à faire de conjectures au sujet du traitement fiscal choisi par le contribuable.
+[21] Donc, le ministre était justifié de considérer le PBR indiqué par l'appelante dans son choix T664 comme point de départ pour calculer la FNACC et donc la DPA du bien pour les années 2007 et 2008.
+Conclusion
+[22] Je suis d’avis que le ministre avait raison de prendre le PBR indiqué par l'appelante dans son choix T664 comme point de départ afin de calculer la déduction pour amortissement pour les années 2007 et 2008. De plus, vu le manque d’information à l’égard des différents attributs fiscaux de l’immeuble entre 1994 et 2003, le ministre a agi raisonnablement en faisant abstraction de toute la déduction pour amortissement qui aurait pu avoir été prise durant cette période de temps, ce qui est au bénéfice de l'appelante. Les calculs de déductions pour amortissement pour les années 2007 et 2008, que l’on retrouve aux pièces I‑3 et I‑4, sont donc raisonnables et justes et l'appelante n’a pas démontré par une prépondérance de la preuve que le ministre était en erreur en prenant le PBR indiqué par l'appelante dans son choix T664 comme point de départ.
+[23] Pour ces motifs, l’appel doit être rejeté.
+Signé à Kingston, Ontario, ce 11e jour de mars 2013.
+« Rommel G. Masse »
+Juge suppléant Masse
+ANNEXE A
+ANNEXE B
+RÉFÉRENCE : 2013 CCI 79
+Nº DU DOSSIER DE LA COUR : 2011-1434(IT)I
+INTITULÉ DE LA CAUSE : MARIA SICURELLA c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 21 janvier 2013
+MOTIFS DU JUGEMENT PAR : L'honorable Rommel G. Masse,
+Juge suppléant
+DATE DU JUGEMENT : le 11 mars 2013
+COMPARUTIONS :
+Représentant de l'appelante :
+Stéphane Coutlee
+Avocate de l'intimée :
+Me Christina Ham
+AVOCATE INSCRITE AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,144 @@
+Title: DeCicco v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27493/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-67-27493-decicco-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-01-26
+
+# DeCicco v. The Queen
+
+- Citation: 2007 TCC 67
+- Decision date: 2007-01-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 51, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DeCicco v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-01-26
+Neutral citation
+2007 TCC 67
+File numbers
+2005-1640(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1640(IT)G
+BETWEEN:
+TONY DeCICCO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 10, 2006 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Emilio Bisceglia
+Counsel for the Respondent:
+Nimanthika Kaneira
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of an assessment made under the Income Tax Act for the 2000 taxation year is dismissed.
+The respondent is entitled to costs.
+Signed at Toronto, Ontario, this 26th day of January, 2007.
+"J. Woods"
+Woods J.
+Citation: 2007TCC67
+Date: 20070126
+Docket: 2005-1640(IT)G
+BETWEEN:
+TONY DeCICCO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, Tony DeCicco, paid an amount of $87,500 on account of a guarantee provided to The Manufacturers Life Insurance Company ("Manulife") in connection with a refinancing for a strip mall in which a corporation related to the appellant had a 25 percent interest.
+[2] The appellant seeks to deduct this amount as a business expense in computing his income for the 2000 taxation year. In a reassessment notice dated June 1, 2005, the Minister of National Revenue denied the deduction but allowed the amount as a capital loss.
+I. Factual background
+[3] The following findings of fact are based on the testimony of the appellant, an agreed statement of facts and a joint book of documents.
+[4] The appellant is 49 years of age and works as a property manager. At all relevant times, he was a 25 percent shareholder and director in A & L DeCicco Ltd. (the "Corporation"). The appellant's father, mother and brother owned the other 75 percent in equal shares.
+[5] Around 1989 or 1990, the Corporation acquired a 75 percent interest in a strip mall in Kitchener, Ontario, which was operated as a joint venture with Tony Greco, who is unrelated to the DeCicco family. The joint venture operated under the name of Zellagate Holdings Inc., and this corporation also owned the property as bare trustee for the two co-venturers. In these reasons, I will refer to the joint venture as "Zellagate."
+[6] The appellant and Mr. Greco gave personal guarantees on an existing mortgage on the property so that it could be assumed on the purchase. The appellant guaranteed 75 percent of the indebtedness, in accordance with the interest of the Corporation in Zellagate.
+[7] The joint venture was not successful. Although details are scant, it appears that at least part of the reason for the failure was a misrepresentation as to tenants by the former owners. The appellant testified that the situation went from bad to worse.
+[8] At some point, the Corporation decreased its interest in Zellagate from 75 to 25 percent. There is not much information about this transaction, except that there were two new joint venturers, each with a 25 percent interest, and that the new owners were corporations owned by persons related to the appellant. This transaction must have occurred prior to the refinancing described below.
+[9] In 1992, the property was refinanced with Manulife. The principal amount of the new borrowing was $1,150,000 and $987,185 of this amount was applied in repayment of the original mortgage. Personal guarantees for the new financing were required from a representative of each of the four joint venturers, and the Corporation's 25 percent share was guaranteed by the appellant. In addition, Manulife had a security interest in the property and an assignment of rents.
+[10] As compensation for the appellant's guarantee of the Manulife mortgage, the Corporation agreed to pay him 20 percent of the Corporation's 25 percent share of Zellagate's net income.
+[11] Sometime thereafter, there was a default on the Manulife mortgage, and in 1996 the lender realized on its security. A significant amount remained owing after the property was sold under a power of sale, and Manulife commenced litigation against the guarantors in 1997.
+[12] In August or September of 2000, the litigation against the guarantors was settled for an aggregate amount of $350,000. The four guarantors divided the settlement amount equally and the appellant paid $87,500 to Manulife, which represented his 25 percent share.
+[13] The appellant did not seek reimbursement of this amount from the Corporation, even though it appears that the Corporation had other assets at the time.
+II. Analysis
+[14] The appellant seeks to deduct the amount paid to Manulife as an ordinary business expense.
+[15] The general principles that apply when a corporation fails to reimburse a shareholder with respect to a guarantee are set out in Eastonv. The Queen, 97 D.T.C. 5464 (F.C.A.). At page 5468, Robertson J.A. states that a loss incurred by a shareholder is usually on capital account, either because the guarantee is in the nature of a deferred loan or because it has been provided to enhance share value. He also states, though, that this is only a rebuttable presumption and that the courts have recognized two exceptions. The first is where the guarantee is provided in the ordinary course of business; and the second is where the taxpayer holds the shares as a trading asset.
+[16] The appellant submits that he fits the first exception. Although he admits that he was not generally in the financing business, he suggests that the guarantee was an adventure in the nature of trade, given to supplement his income by way of a guarantee fee.
+[17] Before considering this submission, I note that the facts in this case give rise to an additional issue.
+[18] In a typical case when a guarantor is called to honour a guarantee, the guarantor has a right to be reimbursed by the primary debtor. A loss is incurred by the guarantor not simply because a payment was made under the guarantee but also because the debt against the primary debtor is uncollectible - it is a bad debt.
+[19] What is unusual in this appeal is that there is no evidence of a bad debt. On the contrary, it appears that the Corporation did have assets with which it could have at least partially reimbursed the appellant. Further, the appellant acknowledges that he made no effort to recover the amount from the Corporation.
+[20] These circumstances lead to a threshold question of the characterization of the appellant's loss. If the appellant had a right to be reimbursed by the Corporation, and if the Corporation had assets to satisfy this liability, then the expenditure by the appellant would not be a business expense. I note that a similar characterization issue arose in The Cadillac Fairview Corporation Limited v. The Queen, 99 D.T.C. 5121 (F.C.A.), although the facts in that case are very different.
+[21] Counsel for the appellant submits that the appellant did not have a right of reimbursement against the Corporation, either as a matter of law or fact. The argument on the facts is based on the appellant's testimony that he had agreed with the Corporation at the outset to bear any loss on the guarantee. As for the argument on the law, counsel for the appellant submits that there is no general principle of law that gives a guarantor a right of reimbursement against the primary debtor.
+[22] I do not agree with counsel's argument on the second point. The applicable legal principle was stated in Cadillac Fairview, supra, at para. 22:
+Under the law of subrogation, a guarantor is normally subrogated to the position of the creditor where a guarantee has been given in respect a primary debtor's obligation and the guarantor is required to, and does in fact, make payment under that guarantee. Where these subrogation rights have not been expressly or implicitly waived the primary debtor becomes obligated to the guarantor for the full amount that was paid under the guarantee.
+[23] It seems to me that the real question here is a factual one: Did the appellant, when he provided the guarantee, agree to bear the risk of loss and not seek reimbursement against the Corporation?
+[24] There are, then, two essential factual determinations to be made. The first is to determine the appellant's motivation in providing the guarantee. Was his intent, as he testified, to supplement his income by earning a guarantee fee? The second determination to be made is whether the appellant had agreed to bear the risk of loss when the guarantee was provided, as he had also stated.
+[25] At first blush, the appellant's testimony seems reasonable. His guarantee likely benefited the other shareholders of the Corporation, as a group, much more than it benefited him. As such, it makes sense for the Corporation to pay a fee to the appellant, and for that fee to be the appellant's prime motivation, given the appellant's relatively small shareholding. It also seems logical that the appellant would agree to bear any loss, given the substantial guarantee fee that was negotiated.
+[26] On the other hand, there are a number of troubling aspects with the appellant's position. My concerns are listed below, in no particular order.
+[27] The first point of concern is that appellant's testimony regarding an agreement at the outset to bear any loss is contrary to the position that the appellant had previously taken. In particular, in his 2000 income tax return the appellant had claimed the $87,500 as a bad debt expense; and he continued to take this position in the notice of appeal, which I note had been prepared on his behalf by counsel. Acknowledging the existence of a debt is inconsistent with the appellant's testimony at trial that he had no right to be reimbursed by the Corporation.
+[28] At the hearing, counsel for the respondent informed me that she had not previously been advised that the appellant was taking the position that there was no debt. If this is true, it is quite unfair as counsel for the respondent did not have sufficient time to prepare a response, or pursue this issue on examination for discovery. If an adjournment had been sought, I likely would have granted it.
+[29] Nevertheless, the failure to inform the respondent as to the change in position is a procedural issue which does not go to the merits of the appeal. The fact that the appellant's position has changed, though, is relevant to the reliability of his testimony.
+[30] I am also quite troubled by the fact that the appellant did not in his examination-in-chief provide a full and complete explanation of the circumstances surrounding the granting of the guarantee. The appellant began his testimony by agreeing with his counsel that the strip mall was purchased "around" 1992. This is actually when the Manulife refinancing took place and not when the property was purchased. From that starting point, the whole testimony in chief led me to believe that the Manulife guarantee was given when the property was first purchased. Only on cross-examination was it elicited that the property had been purchased earlier, that there had been a prior mortgage, and that the appellant had previously provided a personal guarantee as to 75 percent of the original mortgage.
+[31] The appellant testified in his examination-in-chief that he was motivated by the guarantee fee because he was optimistic about the income-earning prospects of the venture. That explanation makes sense if the guarantee was given at the time of the purchase of the property but it is not so readily apparent if the guarantee was given later.
+[32] Not only was the testimony misleading but there was no objective evidence to support the view that the appellant had reason to expect that Zellagate would generate income at the time that the Manulife guarantee was given. The relevant financial statements may have provided some assistance but they were not introduced into evidence. Further, the appellant himself testified that the investment had gone from bad to worse and that the former owners had been successfully sued for misrepresentation. It seems quite possible, then, that Zellagate's financial prospects were not rosy when the Manulife guarantee was given.
+[33] A further concern that I have is that no one was called to corroborate the appellant's testimony. A logical person who could have supported the testimony was the appellant's father, who was the president of the Corporation.
+[34] Lastly, the appellant's testimony in these key areas was very brief and it did not provide a good understanding of the discussions that took place at the relevant time.
+[35] Taking all these factors into account, I am not satisfied that the appellant's testimony on these points is reliable. In particular, I am not satisfied that the appellant has established on even a prima facie basis that he made a deal with the Corporation at the outset to bear the risk of loss. I am also not satisfied that his primary purpose in providing the guarantee was to earn the fee.
+[36] I am left quite frankly not knowing what the real situation was.
+[37] It is quite possible that the guarantee fee was simply window dressing, added to support the tax deduction that the appellant seeks. I note that this was the case in one of the judicial decisions that I was referred to, McLaws v. M.N.R., 72 D.T.C. 6149 (S.C.C.).
+[38] It is also possible that the appellant and his father had no discussions about the risk of loss when the guarantee was given. The appellant may have chosen to bear this loss only after he had made the payment to Manulife in 2000. It appears that family relations had become strained at that point because of the problems with the investment. In answer to a question I put to the appellant about recovering something from a dividend payable on January 31, 2001, the appellant answered (at page 44 of transcript):
+I think at that point things were not very nice within the family and the investment had gone bad. I just chose, because of family matters, not to pursue that [a recovery from the dividend], Your Honour.
+[39] In all the circumstances of this case, the evidence is not sufficient for me to be satisfied that the appellant had agreed at the outset to bear the risk of loss, or that the appellant's principal motivation in giving the guarantee was to earn a fee.
+[40] Before concluding, I would comment on a point that was not raised at trial. While preparing these reasons, I noticed that the Reply filed by the respondent did not state any Minister's assumptions regarding the appellant's purpose for providing the guarantee. The audit report suggests that such an assumption was made and therefore this may have been an oversight in the preparation of the Reply.
+[41] I mention this because a deficiency of this nature in the pleadings might affect the burden of proof. The outcome of the appeal does not turn on this, however, because the appellant clearly had the onus with respect to the other factual issue, which was whether the appellant had agreed to bear the risk of loss.
+[42] The appeal is dismissed, with costs to the respondent.
+Signed at Toronto, Ontario, this 26th day of January, 2007.
+"J. Woods"
+Woods J.
+CITATION:
+2007TCC67
+COURT FILE NO.:
+2005-1640(IT)G
+STYLE OF CAUSE:
+Tony DeCicco and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 10, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+Janaury 26, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Emilio Bisceglia
+Counsel for the Respondent:
+Nimanthika Kaneira
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Emilio Bisceglia
+Firm:
+Bisceglia & Associates
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

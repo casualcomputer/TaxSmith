@@ -1,0 +1,167 @@
+Title: Rancourt c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27075/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-709-27075-rancourt-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-09-16
+
+# Rancourt c. La Reine
+
+- Citation: 2005 CCI 709
+- Decision date: 2005-09-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 945, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rancourt c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-16
+Référence neutre
+2005 CCI 709
+Numéro de dossier
+2004-3604(IT)I
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI709
+Date : 20051103
+Dossier : 2004-3604(IT)I
+ENTRE :
+RENALD RANCOURT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] Il s'agit d'appels de cotisations établies en vertu de la Loi de l'impôt sur le revenu (la « Loi » ), le 16 décembre 2002, pour les années d'imposition 1993, 1994, 1995, 1996, 1997, 1998, 1999 et 2000.
+[2] Par ces cotisations, le ministre du Revenu national (le « ministre » ) a ajouté au revenu de l'appelant pour toutes ces années sauf pour l'année 1999 des montants qu'il considérait comme des revenus non déclarés. Pour chacune des années sauf pour l'année 1993 et l'année 2000 le ministre a également ajouté au revenu de l'appelant des montants à titre d'avances non remboursées consenties par la société Scierie Rénald Rancourt inc. ( « Scierie R.R. » ) dont l'appelant était l'unique actionnaire et administrateur.
+[3] Une pénalité pour production tardive a aussi été cotisée pour les années 1993, 1994, 1995, 1996 et 2000. Une pénalité pour production tardive répétée a été cotisée pour les années 1997 et 1998.
+[4] Les hypothèses de fait ayant servi de fondement aux cotisations sont énoncées aux alinéas a) à uu) du paragraphe 8 de la Réponse à l'avis d'appel ( « Réponse » ). Ils se lisent ainsi :
+Revenus non déclarés
+a) Au cours des années d'imposition en litige, l'appelant était l'unique actionnaire de la société Scierie Rénald Rancourt inc. (ci-après, la « société » );
+b) Au cours des années d'imposition en litige, l'appelant était aussi administrateur de la société;
+c) Selon le registre de l' « Inspecteur Général des Institutions Financières » , la société a été constituée le 15 août 1986;
+d) La société était une entreprise exploitant une scierie;
+e) Au cours des années d'imposition en litige, l'appelant a aussi occupé un emploi de chauffeur de taxi;
+f) Une vérification de la société a été effectuée par le Ministère du Revenu du Québec (ci-après, le « MRQ » ) étant donnée que celle-ci avait omis de produire ses déclarations de taxes (Taxe de Vente du Québec et Taxe sur les Produits et Services);
+g) La vérificatrice du MRQ a constaté que l'appelant n'avait pas produit de déclarations de revenus (TP-1) depuis 1993;
+h) Le MRQ a demandé à l'appelant de produire ses déclarations de revenus pour les années d'imposition 1993 à 2000;
+i) Au cours des années d'imposition en litige, la société de l'appelant ne semblait pas disposer de livres ou registres conformes;
+j) De plus, l'appelant ne disposait pas de registre pour ses revenus de taxi;
+k) Un vérificateur du MRQ a analysé la situation financière de l'appelant pour chacune des années d'imposition en litige, en procédant :
+i) À la compilation de toutes les transactions importantes survenues dans les comptes bancaires appartenant à l'appelant ainsi qu'à sa société;
+ii) Par voie d'entrevue avec l'appelant;
+l) Le vérificateur du MRQ a constaté qu'il y avait peu de transactions dans le compte bancaire de l'appelant, presque jamais de chèque et que des dépôts visant à couvrir le remboursement de ses emprunts;
+m) Aux bilans de la société, pour les années d'imposition 1993 à 2000, apparaissait le poste « avance à un administrateur » ;
+n) En 1999, l'appelant aurait liquidé l'ensemble de ses dettes personnelles ainsi que les dettes de la société auprès des institutions financières, en empruntant à la société Gestion Fernand Rancourt Inc.;
+o) La société Gestion Fernand Rancourt Inc. est détenue par la « Fiducie Familiale Fernand Rancourt » , Fernand Rancourt étant le frère de l'appelant;
+p) La somme empruntée par l'appelant auprès de la société Gestion Fernand Rancourt Inc. serait de 135 000 $;
+q) Cette transaction aurait eu lieu le 7 décembre 1999;
+r) Au cours de la période visée par la vérification, le bilan personnel de l'appelant n'a pas varié au niveau des actifs;
+s) L'appelant possède deux actifs importants, soit :
+i) Une maison et son terrain;
+ii) Les actions de la société;
+t) À la lumière des faits mentionnés précédemment, le vérificateur du MRQ a déterminé que l'appelant n'avait pas déclaré les revenus suivants, pour les années d'imposition en litige (voir tableau en annexe) :
+Année
+Revenus
+Non déclarés
+Avances
+Non remboursées
+1993
+22 817 $
+0 $
+1994
+8 565 $
+6 738 $
+1995
+7 985 $
+4 710 $
+1996
+6 679 $
+3 727 $
+1997
+8 057 $
+2 995 $
+1998
+4 533 $
+6 969 $
+1999
+0 $
+781 $
+2000
+2 898 $
+0 $
+u) Le MRQ a informé le ministre des changements apportés aux revenus de l'appelant pour les années d'imposition en litige;
+v) Le 16 décembre 2002, le ministre a émis à l'appelant des nouvelles cotisations pour les années d'imposition 1993 à 2000, apportant les mêmes changements aux revenus de l'appelant;
+Pénalité pour production tardive
+1993
+w) Pour l'année d'imposition se terminant le 31 décembre 1993, l'appelant avait un impôt payable après abattement d'impôt du Québec, de 2 405,89 $;
+x) L'appelant a produit sa déclaration de revenus pour son année d'imposition 1993, le 6 juillet 2001;
+y) L'appelant ayant produit sa déclaration de revenus pour l'année d'imposition 1993, le 6 juillet 2001, alors que celle-ci aurait dû être produite le 30 avril 1994, le ministre lui a imposé une pénalité pour production tardive de 409,00 $;
+1994
+z) Pour l'année d'imposition se terminant le 31 décembre 1994, l'appelant avait un impôt payable après abattement d'impôt du Québec, de 1 485,46 $;
+aa) L'appelant a produit sa déclaration de revenus pour son année d'imposition 1994, le 6 juillet 2001;
+bb) L'appelant ayant produit sa déclaration de revenus pour l'année d'imposition 1994, le 6 juillet 2001, alors que celle-ci aurait dû être produite le 30 avril 1995, le ministre lui a imposé une pénalité pour production tardive de 252,53 $;
+1995
+cc) Pour l'année d'imposition se terminant le 31 décembre 1995, l'appelant avait un impôt payable après abattement d'impôt du Québec, de 1 245,47 $;
+dd) L'appelant a produit sa déclaration de revenus pour son année d'imposition 1995, le 6 juillet 2001;
+ee) L'appelant ayant produit sa déclaration de revenus pour l'année d'imposition 1995, le 6 juillet 2001, alors que celle-ci aurait dû être produite le 30 avril 1996, le ministre lui a imposé une pénalité pour production tardive de 211,72 $;
+1996
+ff) Pour l'année d'imposition se terminant le 31 décembre 1996, l'appelant avait un impôt payable après abattement d'impôt du Québec, de 1 454,97 $;
+gg) L'appelant a produit sa déclaration de revenus pour son année d'imposition 1996, le 6 juillet 2001;
+hh) L'appelant ayant produit sa déclaration de revenus pour l'année d'imposition 1996, le 6 juillet 2001, alors que celle-ci aurait dû être produite le 30 avril 1997, le ministre lui a imposé une pénalité pour production tardive de 247,34 $;
+1997
+ii) Pour l'année d'imposition se terminant le 31 décembre 1997, l'appelant avait un impôt payable après abattement d'impôt du Québec, de 1 397,36 $;
+jj) Le 25 avril 2001, le ministre a envoyé à l'appelant, un avis d'exécution demandant la production de sa déclaration de revenus pour l'année d'imposition 1997;
+kk) Le 5 juin 2001, le ministre a émis à l'appelant, une demande formelle de déclaration de revenus, pour son année d'imposition 1997;
+ll) Le 6 juillet 2001, l'appelant a produit sa déclaration de revenus pour son année d'imposition 1997;
+mm) L'appelant ayant produit sa déclaration de revenus pour l'année d'imposition 1997, le 6 juillet 2001, alors que celle-ci aurait dû être produite le 30 avril 1998, le ministre lui a imposé une pénalité pour production tardive répétée de 698,68 $;
+1998
+nn) Pour l'année d'imposition se terminant le 31 décembre 1998, l'appelant avait un impôt payable après battement d'impôt du Québec, de 1 361,60 $;
+oo) Le 25 avril 2001, le ministre a envoyé à l'appelant, un avis d'exécution demandant la production de sa déclaration de revenus pour l'année d'imposition 1998;
+pp) Le 5 juin 2001, le ministre a émis à l'appelant, une demande formelle de déclaration de revenus, pour son année d'imposition 1998;
+qq) Le 6 juillet 2001, l'appelant a produit sa déclaration de revenus pour son année d'imposition 1998;
+rr) L'appelant ayant produit sa déclaration de revenus pour l'année d'imposition 1998, le 6 juillet 2001, alors que celle-ci aurait dû être produite le 30 avril 1999, le ministre lui a imposé une pénalité pour production tardive répétée de 680,80 $;
+2000
+ss) Pour l'année d'imposition se terminant le 31 décembre 2000, l'appelant avait un impôt payable après abattement d'impôt du Québec, de 162,44 $;
+tt) L'appelant a produit sa déclaration de revenus pour son année d'imposition 2000, le 6 juillet 2001;
+uu) L'appelant ayant produit sa déclaration de revenus pour l'année d'imposition 2000, le 6 juillet 2001, alors que celle-ci aurait dû être produite le 30 avril 2001, le ministre lui a imposé une pénalité pour production tardive de 11,37 $.
+[5] Deux tableaux sont annexés à la Réponse. Le tableau 1 indique le détail des calculs des revenus non déclarés. Le tableau 2 indique le détail des variations des avances consenties à l'appelant par Scierie R.R.
+[6] Le point principal contesté par l'appelant concerne les montants des avances de Scierie R.R. ajoutés à son revenu puisque sa prétention est que Scierie R.R. lui devait également des sommes qu'il y aurait investi au cours des années. Les sommes ainsi dues par Scierie R.R. à l'appelant auraient été indiquées aux états financiers comme une dette à long terme sans modalité de remboursement.
+[7] Malgré les nombreux documents présentés en preuve par l'appelant, il n'est pas possible d'établir qu'un montant lui était effectivement dû par Scierie R.R. L'origine et le montant des investissements de l'appelant sous forme de prêts ne peuvent être retracés, notamment parce que l'appelant a également investi dans Scierie R.R. par des souscriptions à son capital-actions et que la conciliation des différentes transactions s'avère tout simplement impossible. L'appelant n'a d'ailleurs jamais pu dire s'il avait ou non déjà reçu des intérêts sur la somme qui lui aurait été due par Scierie R.R.
+[8] À ces motifs déjà exposés verbalement lors de l'audition, j'ajouterai, à supposer même que l'on puisse reconnaître que Scierie R.R. avait une dette à long terme envers l'appelant, qu'il aurait fallu démontrer - ce qui n'a pas été fait - comment il aurait pu y avoir compensation entre cette dette à long terme et les avances annuelles consenties par Scierie R.R. à l'appelant aux fins de l'application du paragraphe 15(2) de la Loi.
+[9] Pour ce qui est des autres montants inclus dans le revenu de l'appelant comme revenus non déclarés, ils résultent directement de l'évaluation du coût de vie de l'appelant établie par le vérificateur (pièce I-7) et l'appelant n'a apporté aucune preuve que cette évaluation était erronée sur quelque point que ce soit.
+[10] Finalement, j'ajouterai que les pénalités pour production tardive et pour production tardive répétée sont justifiées dans les circonstances exposées à la Réponse.
+[11] En conséquence, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 3e jour de novembre 2005.
+« P. R. Dussault »
+Juge Dussault
+RÉFÉRENCE : 2005CCI709
+N º DU DOSSIER DE LA COUR : 2004-3604(IT)I
+INTITULÉ DE LA CAUSE : RENALD RANCOURT c. SA MAJESTÉ LA REINE
+DATES DES AUDIENCES : le 12 mai 2005 à Sherbrooke (Québec)
+le 16 septembre 2005 à Montréal (Québec)
+MOTIFS DE JUGEMENT PAR : L'honorable juge Pierre R. Dussault
+DATE DU JUGEMENT : le 20 septembre 2005
+DATE DES MOTIFS DU
+JUGEMENT : le 3 novembre 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Annick Provencher
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Étude :
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

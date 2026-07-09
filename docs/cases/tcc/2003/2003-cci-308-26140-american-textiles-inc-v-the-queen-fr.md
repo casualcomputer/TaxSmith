@@ -1,0 +1,196 @@
+---
+title: "American Textiles Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26140/index.do"
+last_modified: "2003-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 308"
+citation2: ""
+neutral_citation: "2003 CCI 308"
+decision_date: "2003-05-02"
+language: "fr"
+item_id: "26140"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4135
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:14:14.851000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "511a45710fdb10903f784308ef32bedafa5c855f16fd23f31eff9efcd4c61cd9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# American Textiles Inc. v. The Queen
+
+- Citation: 2003 CCI 308
+- Decision date: 2003-05-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4135, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+American Textiles Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-02
+Référence neutre
+2003 CCI 308
+Numéro de dossier
+2002-3118(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002-3118(IT)I
+ENTRE :
+AMERICAN TEXTILES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 16 avril 2003, à Kitchener (Ontario).
+Devant : L'honorable juge en chef adjoint D. G. H. Bowman
+Comparutions :
+Représentant de l'appelante :
+Roger Lubhaya
+Avocat de l'intimée :
+Me Steve Leckie
+____________________________________________________________________
+JUGEMENT
+L'appel à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenupour l'année d'imposition 2000 est rejeté.
+Signé à Toronto, Canada, ce 2e jour de mai 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 25e jour de février 2005.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2003CCI308
+Date : 20030502
+Dossier : 2002-3118(IT)I
+ENTRE :
+AMERICAN TEXTILES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman, C.C.I.
+[1] Il s'agit d'un appel à l'encontre d'une cotisation établie par le ministre à l'égard de l'appelante pour la période du 1er janvier 2000 au 31 décembre 2000. Selon la cotisation, l'appelante a omis d'effectuer les retenues et les remises d'impôt et de cotisations au Régime de pensions du Canada relativement aux montants versés aux employés de l'appelante à titre de traitement, de salaire ou d'autre rémunération.
+[2] Monsieur Roger (Baldev) Lubhaya était le seul témoin.
+[3] Il a témoigné qu'il était président de l'appelante et qu'il détenait également 75 % des actions de la société Kashel's Limited. L'entreprise de Kashel's Limited consistait à exporter des métaux non ferreux. Elle a engagé une société de navigation, Maesk, pour transporter vers l'Inde des métaux non ferreux d'une valeur approximative de 500 000 $. À la suite d'une erreur quelconque, les marchandises ont été expédiées en Jordanie, et il a fallu un an pour les récupérer. Cela a occasionné de sérieuses difficultés financières à la Kashel's, à la suite desquelles la banque a saisi son compte de banque et, par conséquent, il a été impossible de verser des primes aux employés. Le 28 décembre 2000, des chèques à Sunil Lubhaya, Anil Lubhaya (le fils de Roger Lubhaya), Peggy Martin (l'épouse de Roger Lubhaya) et Roger Lubhaya, aux montants de 20 000 $, 10 000 $, 25 000 $ et 31 000 $ respectivement, ont été tirés sur le compte de l'appelante; ils portaient tous la mention suivante : [TRADUCTION] « Prime 2000 » .
+[4] À partir de ce moment, la preuve devient quelque peu nébuleuse. Monsieur Roger Lubhaya a témoigné que personne, à part lui-même, n'a vu les chèques. Il a témoigné qu'il était allé à la succursale de la Banque Toronto-Dominion située au 381, rue King Ouest, à Kitchener, et a immédiatement les chèques dans le compte de banque de l'appelante.
+[5] Les entrées suivantes figurent sur les relevés bancaires :
+[TRADUCTION]
+DESCRIPTION
+CHÈQUE/DÉBIT
+DÉPÔT/CRÉDIT
+DATE
+DÉPÔT
+31 000,00
+29 DÉC
+DÉPÔT
+30 000,00
+29 DÉC
+DÉPÔT
+25 000,00
+29 DÉC
+...
+CHQ#00856-...
+31 000,00
+29 DÉC
+CHQ#00852-...
+20 000,00
+29 DÉC
+CHQ#00853-...
+10 000,00
+29 DÉC
+CHQ#00854-...
+25 000,00
+29 DÉC
+[6] Il a déclaré que la raison pour laquelle les chèques avaient été tirés sur le compte de banque de l'appelante plutôt que sur celui de la Kashel's était que la Banque de Montréal avait gelé le compte de la Kashel's et qu'il voulait payer les mêmes primes que lors des années précédentes.
+[7] La raison pour laquelle les chèques ont été déposés immédiatement était qu'il n'y avait pas suffisamment de fonds dans le compte de banque de l'appelante.
+[8] Le problème a été aggravé du fait que le comptable qu'il avait engagé a préparé et émis des feuillets T4 au nom des quatre membres de la famille sur lesquels figuraient les montants de revenu d'emploi et d'impôt retenu suivants :
+Revenu d'emploi
+Impôt retenu
+Baldev Lubhaya
+47 400 $
+11 900 $
+Anil Lubhaya
+11 000 $
+800 $
+Margaret Martin (Peggy)
+33 500 $
+8 500 $
+Sunil Lubhaya
+3 3074,08 $
+6 094,52 $
+[9] En fait, les montants qui figurent au titre de l'impôt retenu n'ont pas été remis à l'ADRC. Aucune cotisation au RPC n'a été retenue ou remise.
+[10] Les états financiers indiquent une déduction pour des salaires et des avantages sociaux de 92 927 $, ce qui comprend les primes, selon M. Lubhaya. Il m'est impossible de rapprocher ces chiffres. Le montant total de revenu indiqué sur les feuillets T4 est de 124 974 $. Le montant total des primes est de 86 000 $. Pour ajouter à la confusion, les états financiers indiquent un montant à recevoir de l'actionnaire de 83 453 $, montant qui, selon M. Lubhaya, représente les primes.
+[11] L'ADRC a procédé à une vérification et de nouveaux feuillets T4 ont été préparés par le vérificateur de l'ADRC.
+[12] Les nouveaux montants figurant sur les feuillets T4 modifiés se lisent comme suit :
+Emploi
+Impôt sur le revenu retenu
+Cotisation de l'employé au RPC
+Roger
+36 694,59 $
+0 $
+1 294,59 $
+Peggy
+25 872,53 $
+0 $
+872,53 $
+Sunil
+24 020,49 $
+498,92 $
+774,04 $
+Anil
+10 263,79 $
+0 $
+263,79 $
+[13] Les autres membres de la famille n'ont pas témoigné, mais M. Lubhaya a affirmé qu'ils avaient déclaré la prime dans leur déclaration de revenus pour l'année d'imposition 2000, que des cotisations avaient été émises à leur égard et que l'ADRC avait perçu l'impôt.
+[14] Une cotisation a été émise à l'égard de l'appelante en raison de son défaut de faire les remises obligatoires. L'avis de cotisation indique les montants suivants qui, selon l'intimée, auraient dû être remis :
+Impôt fédéral
+365,51 $
+Impôt provincial
+133,41 $
+RPC
+6 409,90 $
+Pénalité
+690,87 $
+Intérêts
+152,21 $
+Total
+7 751,90 $
+[15] Où nous mène toute cette confusion? Nous devons commencer par les chèques émis par la société, l'appelante, qui, dit-on, n'est pas l'employeur des membres de la famille. Il est possible que les membres de la famille autres que Roger n'aient même pas su que les chèques avaient été émis à leur nom. Les chèques ont été déposés immédiatement dans le compte de banque de l'appelante. Il ne fait aucun doute que le revenu d'emploi est imposable dans l'année où il est reçu et non dans l'année durant laquelle il doit être versé (voir Rousseau c. M.R.N., 58 D.T.C. 631, conf. par 60 D.T.C. 1236). Néanmoins, selon la preuve, les employés ont considéré ces montants comme un revenu et aucun avis d'opposition à l'encontre des cotisations émises à l'égard de ces personnes n'a été déposé.
+[16] De deux choses l'une : ou bien les employés ont reçu ces montants et ils étaient, par conséquent, imposables, ou bien ils n'ont pas reçu ces montants et, par conséquent, ces montants n'ont jamais fait partie de leur revenu.
+[17] Si l'on retient la deuxième hypothèse, il n'y a eu aucun paiement et, par conséquent, aucune obligation d'effectuer les retenues à la source et de les remettre. Ainsi, les employés n'auraient pas été assujettis à l'impôt sur ces montants et ils n'auraient pas dû les inclure dans leur revenu imposable. Par conséquent, les cotisations établies à l'égard de ces personnes pour l'année d'imposition 2000 sont erronées, mais aucune opposition n'a été déposée.
+[18] Je ne m'aventurerai pas à analyser l'effet de l'article 78 de la Loi de l'impôt sur le revenu qui contient des règles détaillées sur le traitement des dépenses non payées dues à une personne avec laquelle le contribuable a un lien de dépendance.
+[19] La première hypothèse est que les employés ont reçu les primes et qu'ils devaient payer de l'impôt à leur égard durant l'année, que les montants ont été prêtés à l'appelante et qu'ils peuvent être retirés plus tard sans être assujettis à l'impôt. Je suis d'avis que cette hypothèse est davantage appuyée par l'ensemble de la preuve, notamment l'inclusion des primes par les employés dans leur déclaration de revenus. Bien que la deuxième hypothèse, selon laquelle les montants n'auraient pas été reçus, ait un certain attrait, je suis d'avis que la preuve présentée à l'appui de celle-ci n'est pas convaincante.
+[20] Par conséquent, la cotisation à l'égard des montants non remis est exacte et l'appel est rejeté.
+Signé à Toronto, Canada, ce 2e jour d'avril 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 25e jour de février 2005.
+Yves Bellefeuille, réviseur

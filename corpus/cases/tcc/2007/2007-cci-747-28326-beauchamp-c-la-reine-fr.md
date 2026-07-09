@@ -1,0 +1,143 @@
+---
+title: "Beauchamp c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28326/index.do"
+last_modified: "2007-12-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 747"
+citation2: ""
+neutral_citation: "2007 CCI 747"
+decision_date: "2007-12-13"
+language: "fr"
+item_id: "28326"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1845
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:01:07.340000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "58936f6d3e4793e935ea51b3a7e2ca99df15810061fa93c4f427604a007c06f7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Beauchamp c. La Reine
+
+- Citation: 2007 CCI 747
+- Decision date: 2007-12-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1845, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beauchamp c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-12-13
+Référence neutre
+2007 CCI 747
+Numéro de dossier
+2007-2284(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2284(IT)I
+ENTRE :
+SERGE BEAUCHAMP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 4 décembre 2007, à Montréal (Québec).
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Chantal Roberge
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 13e jour de décembre 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2007CCI747
+Date : 20071213
+Dossier : 2007-2284(IT)I
+ENTRE :
+SERGE BEAUCHAMP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s’agit d’un appel pour l’année d’imposition 2005 relativement à une demande de déduction de frais juridiques. Selon l’appelant, ces frais juridiques ont été engagés pour une réclamation de pension alimentaire pour ses enfants. Selon l’intimée, l’appelant les a engagés pour régler un différend quant à la garde des enfants et en défense d’une demande de pension alimentaire.
+[2] L’appelant a déposé comme pièce A‑1 une requête en date du 8 novembre 2005, où il est demandeur et son ex‑conjointe, défenderesse. C’est une requête pour garde de leurs deux enfants dans laquelle, il demande notamment, de déterminer la pension alimentaire que devra verser la défenderesse pour les deux enfants. Le document déposé contient un nombre impressionnant de paragraphes où il n’y a que des points de suspension. On ne peut que se demander si ce document est une photocopie d’un document authentique. Ce ne sera pas là cependant le motif déterminant de ma décision.
+[3] L’appelant a produit, comme preuve des frais juridiques engagés, deux documents annexés à sa déclaration de revenu pour l’année 2005 produite comme pièce I‑1.
+[4] Le premier document est la photocopie d’un compte d’avocat pour la période du 15 septembre 2004 au 31 octobre 2005 au montant de 13 806,72 $.
+[5] Le deuxième document est une lettre en date du 20 février 2006 émanant de l’avocate qui aurait préparé la susdite requête, pièce A‑1. Il est à noter qu’elle n’indique nullement qu’il y a eu de la part de l’appelant une requête en réclamation de pension alimentaire pour enfants. On y lit l’affirmation suivante :
+Nous avons représenté les intérêts de monsieur Serge Beauchamp contre madame Manon Clair pour une requête en modification et révision de pension alimentaire pour enfants en défense.
+Monsieur Beauchamp a dû débourser la somme de 6 187,53 $ à titre d’honoraires professionnels, déboursés judiciaires et taxes, et ce pour l’année 2005.
+[...]
+[6] Le plumitif civil, relativement au litige matrimonial de l’appelant et de son ex‑conjointe, a été déposé comme pièce I‑3. On y voit que la requête de l’appelant aurait en effet été déposée le 23 novembre 2005.
+[7] Un consentement en date du 7 décembre 2006 est signé par les parties (pièce I‑2). Le même jour, un juge de la Cour supérieure du Québec donne effet au consentement et de plus adjuge sur les points en litige dont la rétroactivité de la pension alimentaire à octobre 2004. Selon ce jugement entérinant un consentement, l’appelant continuera de payer une pension alimentaire pour les enfants.
+Analyse et conclusion
+[8] L’appelant s’appuie sur un passage du paragraphe 17 du Bulletin d’interprétation IT‑99R5 :
+[...] Toutefois, comme les enfants ont un droit acquis, en vertu d’une législation, à une prestation alimentaire, les frais juridiques engagés en vue d’obtenir une ordonnance alimentaire au profit d’un enfant sont déductibles. [...]
+[9] Or, on voit d’après le plumitif et les pièces déposées, que la demande de pension alimentaire pour enfants provenant de l’appelant n’a été que l’affaire d’un jour dans une suite de procédures où l’ex‑conjointe était la demanderesse d’une pension alimentaire pour enfants. Si l’appelant a une fois demandé la garde des enfants et une pension alimentaire pour enfants, il n’a pas poursuivi cette avenue. L’avocate qui aurait préparé cette requête, non seulement n’en parle pas dans sa lettre, de plus elle n’indique aucun montant spécifique à la préparation de cette requête et à son dépôt. L’appelant a présenté plusieurs requêtes mais il s’agissait de requêtes pour faire valoir et réglementer ses droits d’accès à ses enfants. Dès le départ, la garde des enfants avait été accordée à ce qu’il semble, de consentement, à la mère des enfants.
+[10] Le plumitif et les différentes pièces de procédure déposées concernant le litige familial montrent clairement que l’appelant a toujours été défendeur relativement à la réclamation d’une pension alimentaire pour enfants. Il a pu être demandeur en ce qui concerne les droits d’accès et le respect des ententes mais en rien en ce qui concerne une pension alimentaire.
+[11] La jurisprudence entière de cette Cour ne permet pas la déduction des frais juridiques pour la personne en défense d’une réclamation en pension alimentaire. La Loi de l’impôt sur le revenu, en vertu de l’article 9 et de l'alinéa 18(1)a), permet la déduction des frais juridiques pour la personne qui demande une pension alimentaire qui sera ajoutée à son revenu.
+[12] Il est à noter que bien que la pension pour enfants payée en vertu d’une entente dont la date d’exécution est après avril 1997 ne soit pas incluse dans le calcul du revenu du parent à qui la pension pour enfants est payée, la déduction des frais juridiques, par la personne à qui la pension pour enfants est payée, est acceptée. Je cite à cet égard le paragraphe 19 du Bulletin d’interprétation IT‑99R5 :
+19. Les frais juridiques décrits au numéro 18 ci-dessus sont déductibles même si un montant reçu à titre de « pension alimentaire pour enfants » au sens du paragraphe 56.1(4) n'est pas inclus dans le revenu du bénéficiaire. L'expression « revenu exonéré » au paragraphe 248(1) est définie comme étant un bien reçu ou acquis qui n'est pas inclus dans le revenu; toutefois, cette définition exclut les « pensions alimentaires ». Par conséquent, la déduction des coûts engagés relativement aux pensions alimentaires n'est pas refusée en vertu de l'alinéa 18(1)c) comme étant un revenu exonéré. La dernière version du bulletin IT‑530, Pensions alimentaires, traite des expressions « pension alimentaire » et « pension alimentaire pour enfants ».
+[13] Je cite les paragraphes 18, 28, 29, 32, 33 et 34 de la décision de la Cour d'appel fédérale dans l'arrêt Nadeau c. R., 2003 CAF 400, qui expliquent l'application de la Loi à l'égard de la déduction des frais juridiques relativement à la réclamation d'une pension alimentaire, tant en égard de l'alinéa 18(1)a) qu'en regard de l'alinéa 18(1)c) de la Loi :
+18 Inversement, les dépenses encourues par le payeur d'une pension alimentaire (soit pour empêcher qu'elle soit établie ou augmentée, ou soit pour la diminuer ou y mettre fin), ne peuvent être considérées comme ayant été encourues pour gagner un revenu et les tribunaux n'ont jamais reconnu de droit à la déduction de ces dépenses (voir, par exemple, Bayer, supra).
+[...]
+28 Le revenu provenant d'une pension alimentaire illustre bien comment deux sources, distinctes en apparence, peuvent se confondre. Même si l'imposition des pensions alimentaires en tant que revenu est explicitement prévue à la sous‑section d qui traite d'« Autres sources », il n'en demeure pas moins que le droit à une pension alimentaire est un « bien » selon la Loi. Si le droit à une pension alimentaire est un « bien », il est difficile de l'en dissocier du revenu qui découle de l'exercice de ce droit. C'est pourquoi les tribunaux se sont permis au cours des années d'accorder la déduction de frais afférents à une pension alimentaire dans les circonstances que nous avons vues en invoquant la sous-section b et en particulier l'alinéa18(1)a).
+29 [...] j'ai peu de difficulté à conclure qu'un revenu issu d'une pension alimentaire est un revenu de bien et qu'à ce titre, les dépenses encourues pour en obtenir le paiement peuvent être déduites en vertu des règles prévues à la sous‑section b.
+[...]
+33 Afin de maintenir le droit à la déduction, le législateur a amendé la définition de « revenu exonéré » au paragraphe 248(1) en précisant que la partie de la pension destinée aux enfants, même si elle est dorénavant non‑imposable, ne constitue pas un revenu exonéré. De toute évidence, cet amendement serait sans objet si le législateur considérait que le revenu provenant d'une pension alimentaire n'était pas un revenu de bien au sens de la sous‑section b.
+34 Il ressort de ceci que non seulement le législateur s'est-il accommodé de la solution jurisprudentielle au cours des années, il est intervenu afin de la préserver face à un amendement qui aurait eu comme effet de l'écarter. Cette solution jurisprudentielle, je le rappelle, est fonction du fait que le revenu issu d'une pension alimentaire est un revenu de bien, et qu'à ce titre, les dépenses encourues pour gagner ce revenu peuvent être déduites.
+[14] Dans le cas qui nous occupe, l'appelant n'a pas fait la preuve que les frais juridiques engagés par lui, ou même une partie de ces frais, l’aient été en réclamation d’une pension alimentaire pour lui ou pour ses enfants. Ces frais sont donc de la nature de frais personnels car ils n’ont pas été engagés dans le but de gagner un revenu d’un bien.
+[15] En conséquence, l’appel doit être rejeté.
+Signé à Ottawa, Canada, ce 13e jour de décembre 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2007CCI747
+Nº DU DOSSIER DE LA COUR : 2007-2284(IT)I
+INTITULÉ DE LA CAUSE : SERGE BEAUCHAMP c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 4 décembre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : Le 13 décembre 2007
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Chantal Roberge
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

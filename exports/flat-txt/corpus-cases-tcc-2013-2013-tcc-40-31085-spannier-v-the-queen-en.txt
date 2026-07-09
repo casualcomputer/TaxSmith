@@ -1,0 +1,182 @@
+Title: Spannier v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31085/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-40-31085-spannier-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-02-04
+
+# Spannier v. The Queen
+
+- Citation: 2013 TCC 40
+- Decision date: 2013-02-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4669, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Spannier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-02-04
+Neutral citation
+2013 TCC 40
+File numbers
+2012-2239(IT)I
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2239(IT)I
+BETWEEN:
+SHEENA SPANNIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 23, 2013, at Edmonton, Alberta
+Before: The Honourable Justice David E. Graham
+Appearances:
+Agent for the Appellant:
+Brad Tetz
+Counsel for the Respondent:
+Jeff Watson
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2008 taxation year is allowed, with costs in the amount of $400 plus disbursements, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Allowance should not have been included in the Appellant’s income.
+Signed at Vancouver, British Columbia, this 4th day of February 2013.
+“David Graham”
+Graham J.
+Citation: 2013TCC40
+Date: 20130204
+Docket: 2012-2239(IT)I
+BETWEEN:
+SHEENA SPANNIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] This is an appeal under the informal procedure from an income tax reassessment relating to the Appellant’s 2008 tax year. The sole issue on appeal is whether the Appellant maintained a self-contained domestic establishment in Kelowna, British Columbia, as her principal place of residence from January until October or November 2008 within the meaning of subsection 6(6) of the Income Tax Act (the “Act”). When the Appellant filed her 2008 tax return she did not include an allowance received from her employer in her income on the basis that subsection 6(6) excluded it from income. The Minister reassessed the Appellant to include the allowance in her income on the basis that subsection 6(6) did not apply.
+FACTS:
+[2] The Appellant testified on her own behalf. The Respondent did not call any witnesses. I found the Appellant to be a credible witness.
+The Job:
+[3] In May 2007, the Appellant was hired as a safety coordinator by 2950-0519 Quebec Inc. (the “Employer”). The Appellant continued to work for the Employer until October or November, 2008. The Appellant’s employment required her to work at a job site located somewhere between a 45 and 90 minute drive from Fort McMurray, Alberta.
+[4] When the Appellant’s employment began, she expected that she would be working for the Employer for one or two years. Under the terms of her employment, the Appellant would work for 20 days and then have 8 days off. When she was working, the Appellant lived in Fort McMurray. With the exception of a few trips to Edmonton to visit family members, the Appellant lived in Kelowna on her days off.
+The Allowance:
+[5] In 2008, the Employer paid the Appellant a living allowance of $25,200 (the “Allowance”). The Respondent questioned whether the Appellant had actually spent $25,200 on rent and food in Fort McMurray and travel to and from Fort McMurray in 2008. I accept the Appellant’s testimony that she spent at least that amount.
+Accommodation in Fort McMurray:
+[6] During the period when she was working, the Appellant stayed in a furnished basement apartment in Fort McMurray. The Appellant rented the basement apartment for $2,000 per month during the period in question. The Appellant would commute to and from the job site each day in a vehicle supplied to her by the Employer. The Appellant kept her work clothes in Fort McMurray but had few other personal belongings there.
+Accommodation in Kelowna:
+[7] When she was in Kelowna, the Appellant lived in a house owned by a woman named Shirley Metcalfe (the “Kelowna Accommodation”). The Appellant’s family had had a long term friendship with Ms. Metcalfe’s family. Ms. Metcalfe’s husband passed away in 2004. Sometime thereafter, Ms. Metcalfe’s children asked the Appellant if she would be willing to live with Ms. Metcalfe. The Appellant agreed. She moved in with Ms. Metcalfe in 2005 and continued living there until 2011.
+[8] The terms of the Appellant’s accommodation with Ms. Metcalfe were akin to a barter relationship. The Appellant was not required to pay rent but she was expected to perform various services for Ms. Metcalfe from time to time. The Appellant described the following services that she performed while living with Ms. Metcalfe:
+· dusting (particularly in places that would be difficult for Ms. Metcalfe to reach);
+· cleaning the large view windows in the house;
+· ensuring that there was an adequate supply of firewood at the house;
+· bringing firewood into the house for Ms. Metcalfe’s use;
+· clearing leaves;
+· maintaining the gardens;
+· shoveling snow;
+· taking Ms. Metcalfe out to dinner;
+· painting the dock;
+· re-finishing the deck and installing glass railings to enhance the view; and
+· replacing a portion of the basement floor with hardwood.
+The specific services were not agreed to in advance but it was understood that the Appellant would perform these types of services as required.
+[9] The Appellant paid any out of pocket expenses involved with the above services. She roughly estimated that over the years those expenses had been in excess of $3,500. In addition, she contributed to the purchase of the groceries for herself and Ms. Metcalfe.
+[10] In addition to all of the above, my impression was that a large part of the reason why Ms. Metcalfe wanted to share her house with the Appellant was for her company.
+[11] The Appellant does not appear to own a lot of personal belongings but she testified that she kept most of those that she did have at the Kelowna Accommodation. These included some plants, photo albums, a love seat, some outdoor furniture, a bike and a car. She also testified that she had some other furniture which she stored in the garage at the Kelowna Accommodation. The Appellant also had a cat which lived in the Kelowna Accommodation.
+Other Residential Factors:
+[12] The Appellant was born in Salmon Arm, British Columbia, and grew up in Kelowna. During the time period in question, if asked, the Appellant would have indicated that she lived in Kelowna. The Appellant had no intention of moving to Fort McMurray.
+[13] The Appellant’s dentist and doctor were both in Kelowna. The Appellant made 2 separate visits to her dentist during the period in question.
+[14] The Appellant’s mailing address was the address of the Kelowna Accommodation. Her phone number was also listed in Kelowna. The Appellant’s bank account was in Kelowna and the cheques on that account reflected her Kelowna address.
+[15] The Province of British Columbia considered the Appellant to have been resident in British Columbia in 2008 for the purposes of its Medical Services Plan. The Appellant had a British Columbia driver’s license which listed as her address the address of the Kelowna Accommodation. The Appellant insured her car through the Insurance Corporation of British Columbia.
+[16] In the year in question, the Appellant filed her tax return on the basis that she was a resident of British Columbia.
+[17] The Appellant did not have memberships in either Kelowna or Fort McMurray.
+LEGISLATION:
+[18] Paragraph 6(1)(b) of the Act requires that a taxpayer include in his or her income from employment “all amounts received by the taxpayer in the year as an allowance for personal or living expenses or as an allowance for any other purpose …”. Subsection 6(6) is an exception to the general rule in paragraph 6(1)(b). Subsection 6(6) states:
+6(6) Employment at special work site or remote location
+Notwithstanding subsection (1), in computing the income of a taxpayer for a taxation year from an office or employment, there shall not be included any amount received or enjoyed by the taxpayer in respect of, in the course or by virtue of the office or employment that is the value of, or an allowance (not in excess of a reasonable amount) in respect of expenses the taxpayer has incurred for,
+(a) the taxpayer's board and lodging for a period at
+(i) a special work site, being a location at which the duties performed by the taxpayer were of a temporary nature, if the taxpayer maintained at another location a self-contained domestic establishment as the taxpayer's principal place of residence
+(A) that was, throughout the period, available for the taxpayer's occupancy and not rented by the taxpayer to any other person, and
+(B) to which, by reason of distance, the taxpayer could not reasonably be expected to have returned daily from the special work site, or
+(ii) a location at which, by virtue of its remoteness from any established community, the taxpayer could not reasonably be expected to establish and maintain a self-contained domestic establishment,
+if the period during which the taxpayer was required by the taxpayer's duties to be away from the taxpayer's principal place of residence, or to be at the special work site or location, was not less than 36 hours; or
+(b) transportation between
+(i) the principal place of residence and the special work site referred to in subparagraph (a)(i), or
+(ii) the location referred to in subparagraph (a)(ii) and a location in Canada or a location in the country in which the taxpayer is employed,
+in respect of a period described in paragraph (a) during which the taxpayer received board and lodging, or a reasonable allowance in respect of board and lodging, from the taxpayer's employer.
+[emphasis added]
+[19] The term “self-contained domestic establishment” is defined in Subsection 248(1) of the Act as meaning “a dwelling-house, apartment or other similar place of residence in which place a person as a general rule sleeps and eats”.
+RESPONDENT’S POSITION:
+[20] The Respondent submits that the Allowance does not fall within the exception in paragraph 6(6)(a) because the Kelowna Accommodation was not a self‑contained domestic establishment maintained by the Appellant as her principal place of residence. Specifically, the Respondent says that the Kelowna Accommodation:
+a) was not a self-contained domestic establishment;
+b) was not the Appellant’s principal place of residence; and
+c) was not maintained by the Appellant.
+[21] The Respondent agrees that the Allowance meets all of the other tests set out in paragraph 6(6)(a).
+ANALYSIS:
+Self-Contained Domestic Establishment:
+[22] The Respondent argues that the Kelowna Accommodation was not a self‑contained domestic establishment. The Respondent accepts that the Kelowna Accommodation was a dwelling house but asserts that it was not a self-contained domestic establishment because the Appellant did not, as a general rule, sleep and eat there since she slept and ate in Fort McMurray 20 out of every 28 nights.
+[23] I do not accept the Respondent’s position. The phrase “as a general rule” does not refer to the period of time in which the taxpayer was away from the dwelling but rather to the taxpayer’s ordinary habits. In the Appellant’s case, it is clear that, from 2005 until 2011, except for the periods in 2007 and 2008 when she was working in Fort McMurray, she generally slept and ate at the Kelowna Accommodation.
+[24] The purpose of subsection 6(6) is to ensure that taxpayers who are forced to incur expenses because of temporary work away from their home are not taxed on a reasonable allowance provided by their employer to cover such expenses. Taxation on such an allowance would leave the taxpayer worse off for having traveled for work as they would have to pay for their temporary accommodation with after tax dollars.
+[25] If the Respondent’s view of the definition were applicable, then an individual whose job required him to leave his home and family in Calgary and work full time in Winnipeg for 2 months without returning home would not qualify under subsection 6(6) simply because during that 2 month period he had neither slept nor eaten at his house. That result would run completely counter to the purpose of subsection 6(6).
+[26] I therefore find that the Kelowna Accommodation was a self-contained domestic establishment.
+Principal Place of Residence:
+[27] The Appellant and Respondent disagree as to the meaning of the phrase “principal place of residence”. The Appellant submits that it simply requires a determination, using the usual indicia of residency, whether the Appellant was principally resident in Fort McMurray or Kelowna. By contrast, the Respondent submits that the test is whether the Appellant principally resided in Kelowna or Fort McMurray.
+[28] The Respondent agrees that the Appellant resided in Kelowna and, in fact, accepts that her life appears to have been centered on Kelowna. However, the Respondent submits that while the Appellant may have had residences in both Kelowna and Fort McMurray, because she lived in Fort McMurray 20 out of every 28 days, she principally resided in Fort McMurray. I do not agree with the Respondent’s interpretation of the phrase “principal place of residence”.
+[29] The question of the meaning of “principal place of residence” in paragraph 6(6)(a) has previously been considered by this Court. At paragraph 9 of the decision in Larson v. The Queen, 2003 TCC 560, Bowie, J. held that:
+… the determination which residence is the principal one is not simply a matter of counting nights spent there. If that were the intention of Parliament it would have been very easy to say so. The question is one that must be answered qualitatively rather than quantitatively. This is inescapable in a world where working people must devote more days to labour than to leisure.
+[30] The Appellant submits that while she may have had residences in both Kelowna and Fort McMurray, under the standard indicia of residency the Appellant was clearly a resident of Kelowna during the period in question. I agree with the Appellant’s interpretation of the phrase “principal place of residence” and with the conclusion that the Appellant was principally resident in Kelowna. Other than her work and the basement apartment that she rented in Fort McMurray, all of the Appellant’s connections were to Kelowna. Kelowna was her home.
+[31] In reaching the conclusion that the Appellant was principally resident in Kelowna, I have not put any weight on that fact the Appellant filed her 2008 taxes as a resident of British Columbia and was both assessed and reassessed on that basis. In determining the provincial residence of the Appellant in her 2008 tax year, one is required to determine her residence on December 31, 2008. In the case before me, I must determine the Appellant’s residence from January 1, 2008 until October or November of that year. Thus her province of residence on December 31, 2008 is of little, if any, relevance to my determination.
+Maintained:
+[32] The parties take dramatically different views of the meaning of the word “maintained” in the phrase “maintained at another location a self-contained domestic establishment as the taxpayer's principal place of residence”.
+[33] The Respondent submits that in this context the word “maintained” means “paid for”. The Respondent’s position is that a taxpayer must be paying rent, mortgage payments, utilities, property taxes or some equivalent amount in order to be maintaining a self-contained domestic establishment. The Respondent’s position is that subsection 6(6) is designed to benefit taxpayers who are having to bear the costs of paying for two different residences at the same time and thus that the section is not applicable to a taxpayer who is not paying anything for their primary residence. The Respondent further submits that the services that the Appellant was providing to Ms. Metcalfe were not payment for the use of the Kelowna Accommodation.
+[34] By contrast, the Appellant submits that the word “maintained” in subsection 6(6) can include actual physical maintenance of a property. The Appellant says that the work that she did cleaning and upkeeping the Kelowna Accommodation was maintenance and thus that subsection 6(6) applies.
+[35] I do not accept either party’s interpretation of the word “maintained”. While I accept that both of their interpretations are common meanings of the word, in the context of subsection 6(6), the Respondent’s interpretation is too narrow and the Appellant’s is too broad.
+[36] If the Respondent’s view were correct, then a 20 year old taxpayer who lived rent-free with her parents in Halifax and whose job required her to leave home and work full time in Toronto for 2 months would not qualify under subsection 6(6) simply because her parents paid all of the costs of the home in Halifax. That result would run completely counter to the purpose of subsection 6(6). Furthermore, under the Respondent’s interpretation, a taxpayer with a permanent home but no housing costs would be worse off than a taxpayer with the same home but with housing costs. Both taxpayers would be incurring the same accommodation costs at their remote work sites but one of them would have to pay for those costs with after tax dollars. The Respondent was unable to point me to anything that would suggest that that outcome was intended by Parliament.
+[37] If Parliament had intended the word “maintained” to mean “paid for” then surely it would have included some sort of test of the quantum of the maintenance. It is difficult to believe that Parliament could have intended that a taxpayer paying rent of $1 per month would receive the benefit of subsection 6(6) but a taxpayer such as the woman described in the paragraph above would not.
+[38] I acknowledge that in the Larson decision, Bowie, J. found at paragraph 10 that:
+…
+The purpose of subsection 6(6) is to ensure that taxpayers who must work temporarily at such a distance from their homes that commuting is impossible should not be taxed on living allowances while they continue to incur unabated the normal expenses associated with a home to which they will return when the temporary work is done.
+[39] With respect, I do not agree that that is the purpose of subsection 6(6). As stated above, the purpose is to ensure that taxpayers who are forced to incur expenses because of temporary work away from their home are not taxed on a reasonable allowance provided by their employer to cover such expenses. I can see nothing in the subsection that requires the taxpayer to be paying for their principal place of residence. The issue of the meaning of the word “maintained” was not specifically before Bowie, J. and thus I expect that he may not have turned his mind to it in making the above statement.
+[40] Counsel for the Respondent referred me to the decision of this Court in Poulton v. The Queen, 2002 DTC 3847. My understanding of the Respondent’s argument is that section 6 is intended to apply to tax taxpayers who have received a net material benefit and that because the Appellant has only had to pay rent in Fort McMurray and that rent has been covered by the Allowance, the Appellant has received a net material benefit. While I agree that Poulton stands for the proposition taxpayers should only be taxed under paragraph 6(1)(a) if they have received a material benefit, with respect, I cannot see what relevance it has to the case at hand. Firstly, Poulton dealt with paragraph 6(1)(a) and we are dealing with paragraph 6(1)(b) as impacted by subsection 6(6). Subsection 6(6) is intended to be an exception to the general rule in paragraph 6(1)(b). Secondly, I do not accept that the Appellant has received a material benefit. Had she not taken the job in Fort McMurray she would not have had to pay rent in Fort McMurray. The Allowance simply covers the additional costs that she has incurred by virtue of taking the job. She is no better off. When I put this point to counsel for the Respondent, he stated that the Appellant was better off than she would have been if she had taken the job and not received the Allowance. I agree but, by definition, anyone receiving an allowance is better off if one assumes that they would have incurred the expenses anyway. The preamble to subsection 6(6) refers to receiving an allowance. It therefore cannot be that the section cannot apply to anyone who has received an allowance.
+[41] Counsel for the Respondent also referred me to this Court’s decision in Pezzelato v. The Queen, 1995 CarswellNat 606. I find the portion of the case to which I was referred to be unhelpful for the same reasons that Poulton was. However, at paragraph 20, Bowman, J. (as he then was), stated:
+One must of course be careful about the indiscriminate use of the words “economic benefit”. The reimbursement or prevention of a loss, as in Ransom or Splane, is an economic benefit in the sense that the employee is economically ahead of the position in which he or she would have been had the reimbursement not taken place. That is not, however, what I think the courts in the above cases meant by economic benefit. The employee must be economically ahead of the position in which he or she would have been had the employment-related loss or expense that is the subject of the reimbursement not occurred.
+[emphasis added]
+[42] Counsel for the Respondent also referred me to the decision of this Court in Rozumiak v. The Queen, 2006 DTC 2165. Counsel made specific reference to paragraph 7 of the decision which states as a fact that the appellant kept his home and paid its expenses while he was working at a remote work site. The issue in Rozumiak was whether the appellant’s work was of a temporary nature. The Court found that it was and held that subsection 6(6) applied. I am unable to find anything in the decision which indicates that the decision to apply subsection 6(6) turned on the fact that the appellant paid the expenses of his home while he was away so I do not find the case to be of assistance.
+[43] I find that in the context of subsection 6(6), “maintain” means “preserve for use” or “keep available”. This interpretation is consistent with clause 6(6)(a)(i)(A) which further refines the type of residence that meets the test by requiring that it be a residence “that was, throughout the period, available for the taxpayer’s occupancy and not rented by the taxpayer to any other person”. The intention of the subsection is that the relief is only available to taxpayers who keep a residence available for their use while they are away on work. A taxpayer who does not keep such a residence available has, in essence, moved to the remote work site. The costs of accommodation at the remote work site paid by such a taxpayer are the costs of normal living and, if covered by the taxpayer’s employer, would be properly taxable as an employment benefit under paragraph 6(1)(b).
+[44] I find that the Kelowna Accommodation was, at all times kept available for the Appellant’s use. Her staying at the Kelowna Accommodation was not subject to renegotiation when she returned to Kelowna. It was accepted by both the Appellant and Ms. Metcalfe that the Appellant would reside in the house whenever she was in Kelowna as she had done since 2005.
+[45] If I am wrong, and, as proposed by the Respondent, the word “maintained” means “paid for”, then I find that the services provided by the Appellant to Ms. Metcalfe were consideration for her staying in the Kelowna Accommodation and thus that the Appellant paid for that accommodation.
+CONCLUSION
+[46] Based on the foregoing, I find that the Appellant maintained a self-contained domestic establishment in Kelowna as her principal place of residence from January until October or November 2008 within the meaning of subsection 6(6). As the Respondent has conceded that all of the remaining tests of subsection 6(6) were met, I conclude that subsection 6(6) applied to the Appellant.
+RESPONDENT’S ALTERNATIVE ARGUMENT
+[47] The Respondent submitted that if subsection 6(6) applies to the Appellant, then the Allowance was in excess of a reasonable amount. I note that the Respondent did not make any assumptions of fact regarding the reasonableness of the Allowance nor did the Respondent introduce any evidence as to its reasonableness. The Appellant testified that she used all of the Allowance to pay for her accommodation and meals in Fort McMurray and her transportation to and from Fort McMurray. I accept the Appellant’s evidence and find that the Allowance was not in excess of a reasonable amount.
+DECISION
+[48] Based on all of the foregoing, the Appellant’s appeal is allowed with costs in the amount of $400 plus disbursements. The matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Allowance should not have been included in the Appellant’s income.
+Signed at Vancouver, British Columbia, this 4th day of February 2013.
+“David Graham”
+Graham J.
+CITATION: 2013TCC40
+COURT FILE NO.: 2012-2239(IT)I
+STYLE OF CAUSE: SHEENA SPANNIER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: January 23, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice David E. Graham
+DATE OF JUDGMENT: February 04, 2013
+APPEARANCES:
+Agent for the Appellant:
+Brad Tetz
+Counsel for the Respondent:
+Jeff Watson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,194 @@
+Title: Club 300 Bowl Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27912/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-488-27912-club-300-bowl-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-05-29
+
+# Club 300 Bowl Inc. c. La Reine
+
+- Citation: 2007 CCI 488
+- Decision date: 2007-05-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1726, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Club 300 Bowl Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-29
+Référence neutre
+2007 CCI 488
+Numéro de dossier
+2004-3080(GST)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-3080(GST)G
+ENTRE :
+CLUB 300 BOWL INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 29 mai 2007, à Toronto (Ontario).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Jeffrey Radnoff
+Avocate de l’intimée :
+Me Annie Paré
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 22 avril 2004 et porte le numéro 05EP118109081, pour la période du 1er janvier 1997 au 31 décembre 1997, est rejeté, sans dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie-Britannique), ce 23e jour d’août 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 20e jour de septembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI488
+Date : 20070823
+Dossier : 2004-3080(GST)G
+ENTRE :
+CLUB 300 BOWL INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] L’appelante a été constituée en société sous le régime des lois de la province de l’Ontario.
+[2] En 1986, l’appelante a construit une salle de quilles se trouvant au 146 Old Kennedy Road, dans la ville de Markham, en Ontario. La salle de quilles comptait 60 pistes.
+[3] La salle de quilles était située sur un terrain appartenant à Old Kennedy Road Recreation Centre Joint Venture.
+[4] Grace Mok, épouse de M. Simon Mok, était gérante de la salle de quilles. M. Mok était l’actionnaire majoritaire de l’appelante.
+[5] Grace Mok a témoigné pour le compte de l’appelante. Mme Mok a déclaré qu’en 1996, l’achalandage de la salle de quilles de l’appelante avait diminué en raison de l’âge des installations et du manque de nouveau matériel.
+[6] Selon Mme Mok, l’actionnaire de l’appelante avait décidé de procéder à d’importants travaux de rénovation s’élevant à environ 10 000 $ par piste, soit un coût total d’environ 600 000 $.
+[7] Mme Mok a également affirmé qu’outre les travaux de rénovation à la salle de quilles, l’appelante avait l’intention de débourser environ 150 000 $ pour d’autres améliorations.
+[8] Les rénovations devaient être financées de la manière suivante :
+1. Deutsche Financial Services Canada Inc. 450 000 $
+2. Brunswick Corporation 150 000 $
+3. Coûts des autres rénovations – Prêt de la Hong Kong Bank 150 000 $
+Total 750 000 $
+[9] Dans son témoignage, Mme Mok a déclaré que les travaux de rénovation de la salle de quilles avaient débuté en 1996 et s’étaient terminés en 1997.
+[10] Mme Mok a ajouté qu’en 1998, certains investisseurs propriétaires du terrain sur lequel se trouvait la salle de quilles avaient intenté des poursuites judiciaires contre l’appelante.
+[11] Mme Mok a précisé que les poursuites ont continué jusqu’au 8 décembre 1998, date à laquelle elles ont été réglées, mais l’appelante n’était alors plus propriétaire de la salle de quilles.
+[12] D’après Mme Mok, le 8 décembre 1998, l’appelante a été [TRADUCTION] « mise à la porte » de l’immeuble. Mme Mok a affirmé que le locateur de l’immeuble avait conservé tous les documents financiers de l’appelante et que ceux‑ci avaient par la suite été détruits.
+[13] L’appelante a produit une déclaration de taxe sur les produits et services (TPS) pour la période du 1er janvier 1997 au 31 décembre 1997 (la « période ») dans laquelle elle a déclaré une TPS perçue de 117 181,95 $ et demandé des crédits de taxe sur les intrants (« CTI ») de 188 843,43 $. L’appelante a réclamé un remboursement de taxe nette de 71 661,48 $ pour la période.
+[14] Par un avis de cotisation daté du 7 septembre 2001, le ministre du Revenu national (le « ministre ») a établi à l’égard de l’appelante, pour la période, une cotisation portant ce qui suit :
+Taxe nette 117 181,95 $
+Intérêt 25 238,46 $
+Pénalités 30 605,61 $
+[15] L’appelante s’est opposée à la cotisation du ministre par un avis d’opposition daté du 5 décembre 2001, et elle a fourni au ministre des pièces justificatives étayant des CTI de 55 273,22 $.
+[16] Par un avis de nouvelle cotisation portant le numéro 05EP118109081 et daté du 22 avril 2004, le ministre a examiné ces pièces justificatives et a modifié la cotisation initiale de la manière suivante :
+Taxe nette 61 903,73 $
+Intérêt 12 891,67 $
+Pénalités 15 425,47 $
+[17] L’appelante a produit un avis d’appel à la Cour canadienne de l’impôt.
+B. QUESTION EN LITIGE
+[18] La question en litige est celle de savoir si l’appelante est tenue de payer l’intérêt sur la taxe nette et les pénalités imposés par la nouvelle cotisation.
+C. ANALYSE et DÉCISION
+[19] L’avocate de l’intimée a avancé que l’appelante n’avait pas obtenu des renseignements suffisants et appropriés, lesquels sont exigés au paragraphe 169(4) de la Loi sur la taxe d’accise (la « Loi »). Pendant l’audience, l’avocate de l’intimée a également contesté le fait que l’appelante ait exécuté les rénovations alléguées.
+Dispositions législatives
+[20] Le paragraphe 169(4) de la Loi est ainsi rédigé :
+(4) Documents – L’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+b) dans le cas où le crédit se rapporte à un bien ou un service qui lui est fourni dans des circonstances où il est tenu d’indiquer la taxe payable relativement à la fourniture dans une déclaration présentée au ministre aux termes de la présente partie, il indique la taxe dans une déclaration produite aux termes de la présente partie.
+[21] L’article 2 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH) (le « Règlement ») prévoit la définition suivante :
+« pièce justificative » Document qui contient les renseignements exigés à l’article 3, notamment :
+a) une facture;
+b) un reçu;
+c) un bordereau de carte de crédit;
+d) une note de débit;
+e) un livre ou registre de comptabilité;
+f) une convention ou un contrat écrits;
+g) tout registre faisant partie d’un système de recherche documentaire informatisé ou électronique ou d’une banque de données;
+h) tout autre document signé ou délivré en bonne et due forme par un inscrit pour une fourniture qu’il a effectuée et à l’égard de laquelle il y a une taxe payée ou payable.
+[22] L’article 3 du Règlement énonce de la façon suivante les renseignements requis pour l’application de l’alinéa 169(4)a) :
+3. Les renseignements visés à l’alinéa 169(4)a) de la Loi, sont les suivants :
+a) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de moins de 30 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire,
+(ii) si une facture a été remise pour la ou les fournitures, la date de cette facture,
+(iii) si aucune facture n’a été remise pour la ou les fournitures, la date à laquelle il y a un montant de taxe payée ou payable sur celles-ci,
+(iv) le montant total payé ou payable pour la ou les fournitures;
+b) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 30 $ ou plus et de moins de 150 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire et le numéro d’inscription attribué, conformément au paragraphe 241(1) de la Loi, au fournisseur ou à l’intermédiaire, selon le cas,
+(ii) les renseignements visés aux sous-alinéas a)(ii) à (iv),
+(iii) dans le cas où la taxe payée ou payable n’est pas comprise dans le montant payé ou payable pour la ou les fournitures :
+(A) ou bien, la taxe payée ou payable pour toutes les fournitures ou pour chacune d’elles,
+(B) ou bien, si une taxe de vente provinciale est payable pour chaque fourniture taxable qui n’est pas une fourniture détaxée, mais ne l’est pas pour une fourniture exonérée ou une fourniture détaxée :
+(I) soit le total de la taxe payée ou payable selon la section II de la partie IX de la Loi et de la taxe de vente provinciale payée ou payable pour chaque fourniture taxable, ainsi qu’une déclaration portant que le total pour chaque fourniture taxable comprend la taxe payée ou payable selon cette section,
+(II) soit le total de la taxe payée ou payable selon la section II de la partie IX de la Loi et de la taxe de vente provinciale payée ou payable pour toutes les fournitures taxables, ainsi qu’une déclaration portant que ce total comprend la taxe payée ou payable selon cette section,
+(iv) dans le cas où la taxe payée ou payable est comprise dans le montant payé ou payable pour la ou les fournitures et que l’une ou plusieurs de celles‑ci sont des fournitures taxables qui ne sont pas des fournitures détaxées :
+(A) une déclaration portant que la taxe est comprise dans le montant payé ou payable pour chaque fourniture taxable,
+(B) le total (appelé « taux de taxe total » au présent alinéa) des taux auxquels la taxe a été payée ou était payable relativement à chacune des fournitures taxables qui n’est pas une fourniture détaxée,
+(C) le montant payé ou payable pour chacune de ces fournitures ou le montant total payé ou payable pour l’ensemble de ces fournitures auxquelles s’applique le même taux de taxe total,
+(v) dans le cas où deux fournitures ou plus appartiennent à différentes catégories, une mention de la catégorie de chaque fourniture taxable qui n’est pas une fourniture détaxée;
+c) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 150 $ ou plus :
+(i) les renseignements visés aux alinéas a) et b),
+(ii) soit le nom de l’acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+(iii) les modalités de paiement,
+(iv) une description suffisante pour identifier chaque fourniture.
+[23] La période en litige couvre l’ensemble de l’année 1997. Le sous‑alinéa 3b)(iv), modifié par C.P. 2000‑633, paragraphe 3(3), le 4 mai 2000, s’applique aux fournitures effectuées après mars 1997. Cependant, en ce qui concerne les fournitures effectuées avant février 1998, il n’est pas tenu compte de la division 3b)(iv)(C). Le texte de cette disposition était auparavant rédigé comme suit :
+[…] dans le cas où la taxe payée ou payable est comprise dans le montant payé ou payable pour la ou les fournitures et que l'une ou plusieurs de celles-ci sont des fournitures taxables qui ne sont pas des fournitures détaxées, une déclaration portant que la taxe est comprise dans le montant payé ou payable pour chaque fourniture à l’égard de laquelle il y a une taxe payée ou payable.
+[24] Selon l’interprétation donnée par les tribunaux au paragraphe 169(4), cette disposition exige que le contribuable fournisse des renseignements suffisants lorsqu’il présente les pièces justificatives et les renseignements prévus dans le Règlement. Dans la décision D & P Holdings Ltd. c. Canada, [1999] A.C.I. no 529 (procédure informelle), le juge Hamlyn mentionne ce qui suit :
+[15] Le paragraphe 169(4) précise la nature de l’obligation de fournir les documents nécessaires aux fins des CTI. Aux termes de cette disposition, l’inscrit doit fournir les renseignements suffisants pour établir le montant des CTI, y compris les renseignements visés par règlement. Ces renseignements sont énumérés à l’article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (le « Règlement »).
+[16] Suivant le Règlement, l’expression « pièce justificative », telle qu’elle est utilisée à l’article 3, vise notamment une facture, un reçu, un bordereau de carte de crédit, une note de débit, un livre ou registre de comptabilité, une convention ou un contrat écrits, tout registre faisant partie d’un système de recherche documentaire informatisé ou électronique ou d’une banque de données, et tout autre document signé ou délivré en bonne et due forme par un inscrit pour une fourniture qu’il a effectuée et à l’égard de laquelle il y a une taxe payée ou payable. L’appelante a été incapable de fournir quelque pièce justificative que ce soit pour les CTI exagérés.
+[Non souligné dans l’original.]
+[25] La Cour a conclu, de façon générale, que les exigences techniques explicites énoncées à l’alinéa 169(4)a) et dans le règlement d’application connexe sont obligatoires. Dans la décision Helsi Construction Management Inc. v. R., [2001] GSTC 39 (CCI), confirmée par [2002] GSTC 113 (CAF), le juge en chef adjoint Bowman, tel était alors son titre, est arrivé à la conclusion suivante :
+[11] Les raisons principales du rejet étaient que les numéros d’inscription des fournisseurs n’étaient pas indiqués sur les factures. Il s’agit d’une condition prévue par l’article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants. Bien qu’il puisse être justifié, dans certains cas, de considérer les conditions techniques ou mécaniques comme indicatives plutôt qu’obligatoires (voir par exemple l’affaire Senger-Hammond c. R., C.C.I., no 96‑1117(IT)I, 6 décembre 1996 ([1997] 1 C.T.C. 2728), ce n’est pas le cas pour ce qui est des dispositions relatives à la TPS de la Loi sur la taxe d’accise.
+[12] Le représentant de l’appelante a soutenu que le ministère possédait le numéro de TPS des différents fournisseurs et qu’il aurait dû les lui donner ou les chercher lui‑même.
+[13] Nous avons affaire à l’une des conditions techniques prévues par une loi qui est quelque peu unique par sa particularisation. En outre, il s’agit là du fondement d’un régime d’autocotisation visant le monde du commerce. Aussi malheureux que cela puisse paraître pour l’appelante, les règles sont les règles. Je ne peux rien faire pour l’aider sur ce point. Le problème, dans une certaine mesure, découle du fait de l’appelante. M. Familamiri s’est efforcé de corriger la situation créée initialement par l’état désordonné des dossiers et il y est parvenu dans une certaine mesure. Toutefois, il y a des limites à ce qu’une personne peut faire pour corriger des années de désordre.
+Cette interprétation a été suivie dans d’autres décisions rendues par la Cour canadienne de l’impôt, dont Alexander Nix Group Inc. v. R. (procédure informelle), [2002] GSTC 100, Key Property Management Corp. v. R., [2004] GSTC 32 (« Key Property »), et Davis v. R., [2004] GSTC 134.
+[26] Dans la décision Key Property, le juge Bowie explicite l’objet visé par le paragraphe 169(4) et conclut que les exigences fixées par cette disposition doivent être « rigoureusement appliquées » :
+[…] Le but même de l’alinéa 169(4)a) et du Règlement est de protéger le Trésor contre les violations tant frauduleuses qu’innocentes. Ce but ne peut être atteint que si les exigences sont considérées comme étant obligatoires et sont rigoureusement appliquées. Le fait de les envisager simplement comme une indication ne serait pas seulement malencontreux, mais serait une grave violation de l’intégrité du texte législatif.
+[27] J’ai minutieusement examiné le témoignage de Mme Mok ainsi que les documents présentés en preuve et j’ai conclu que l’appelante n’a pas satisfait aux exigences prévues par l’article 169 de la Loi et par le Règlement. J’ai tiré cette conclusion parce que, même si des éléments de preuve ont été produits pour établir l’existence d’emprunts faits par l’appelante pour financer les améliorations, les renseignements n’étaient pas suffisants pour constituer des « pièce[s] justificative[s] » au sens de l’article 2 du Règlement (voir le paragraphe 21 ci-dessus).
+[28] À mon avis, la thèse avancée par le ministre était fondée.
+[29] L’appel est rejeté, sans dépens.
+Signé à Vancouver (Colombie-Britannique), ce 23e jour d’août 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 20e jour de septembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE :
+2007CCI488
+NO DU DOSSIER DE LA COUR :
+2004-3080(GST)G
+INTITULÉ :
+Club 300 Bowl Inc. c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 29 mai 2007
+MOTIFS DU JUGEMENT :
+L’honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 23 août 2007
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Jeffrey Radnoff
+Avocate de l’intimée :
+Me Annie Paré
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Jeffrey Radnoff
+Cabinet :
+Radnoff Law Offices
+Toronto (Ontario)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

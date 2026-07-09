@@ -1,0 +1,158 @@
+---
+title: "Hunter c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30584/index.do"
+last_modified: "2011-11-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 502"
+citation2: ""
+neutral_citation: "2011 CCI 502"
+decision_date: "2011-11-03"
+language: "fr"
+item_id: "30584"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7142
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:29:29.742000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4f1596d056c8235dedfcef243ce9571e72eae4bfd5551e4e1b1d3967a0360290"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hunter c. La Reine
+
+- Citation: 2011 CCI 502
+- Decision date: 2011-11-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7142, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hunter c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-11-03
+Référence neutre
+2011 CCI 502
+Numéro de dossier
+2011-1645(GST)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-1645(GST)I
+ENTRE :
+ROSS HUNTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 24 octobre 2011, à London (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Tamara Watters
+JUGEMENT
+L’appel interjeté en vertu de la Loi sur la taxe d’accise à l’encontre de l’avis de nouvelle cotisation daté du 1er juin 2010 est accueilli, avec dépens, fixés à 500 $, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et
+nouvelle cotisation au motif que l’appelant a droit aux crédits de taxe sur les intrants de 3468,38 $ qui ont été refusés.
+Signé à Halifax (Nouvelle-Écosse) ce 3e jour de novembre 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 13e jour de décembre 2011.
+Julie Boulanger, LL.M.
+Référence : 2011CCI502
+Date : 20111103
+Dossier : 2011-1645(GST)I
+ENTRE :
+ROSS HUNTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Le présent appel soulève la question de savoir si l’appelant devrait se voir refuser, en vertu du paragraphe 208(4) de la Loi sur la taxe d’accise, les crédits de taxe sur les intrants qu’il a demandés au titre de la TPS qu’il avait payée relativement à la construction d’un nouveau bâtiment et d’une nouvelle voie d’accès en 2009, lesquels ont été utilisés dans la cadre de l’entreprise d’aménagement paysager de l’appelant.
+[2] L’appelant a démarré son entreprise d’aménagement paysager en 2000. Il a exploité l’entreprise à partir de sa résidence et d’une grange et d’un garage qui étaient situés sur son terrain. Son terrain mesurait environ 7 acres lorsqu’il l’a acquis[1], et il l’a ensuite subdivisé et a vendu deux lots avant l’époque qui nous intéresse ici. Chacun des lots qu’il a vendus mesurait environ ½ acre, de sorte qu’au moment où le nouveau bâtiment a été construit, le terrain de l’appelant mesurait environ 6 acres.
+[3] L’entreprise d’aménagement paysager de l’appelant a connu une croissance qui a rendu nécessaire l’ajout d’un bâtiment pour entreposer l’équipement que l’appelant utilisait dans le cadre de son entreprise d’aménagement paysager et de son entreprise hivernale d’enlèvement de la neige. L’appelant a donc construit un nouveau bâtiment à la fin de 2009 qui mesurait environ 48 pieds par 80 pieds. Il a également construit une nouvelle voie d’accès à partir de la route qui était plus éloignée de la maison afin que les véhicules circulant vers la nouvelle structure n’aient pas à circuler près de la maison. Dans le cadre de la construction du nouveau bâtiment et de la nouvelle voie d’accès, l’appelant a payé 3468,38 $ de TPS. Le ministre ne conteste pas la somme payée par l’appelant au titre de la TPS, non plus que le fait que la nouvelle structure a été utilisée exclusivement pour les besoins de l’entreprise d’aménagement paysager de l’appelant. Il me paraît clair que l’entreprise d’aménagement paysager est une activité commerciale au sens de la Loi sur la taxe d’accise.
+[4] Puisque le nouveau bâtiment a été utilisé exclusivement dans le cadre d’une activité commerciale de l’appelant, l’on s’attendrait intuitivement à ce que l’appelant ait droit à des crédits de taxe sur les intrants relativement à la construction de ce bâtiment. Les notes techniques sur l’article 169 de la Loi sur la taxe d’accise (qui ont été publiées aux environs de l’époque où les dispositions relatives à la TPS ont été ajoutées à la Loi sur la taxe d’accise) énoncent ce qui suit :
+L’un des principes fondamentaux de la TPS est qu’aucune taxe ne doit être incorporée aux coûts des intrants utilisés par un inscrit dans le cadre d’une activité commerciale afin de produire une fourniture taxable (y compris une fourniture détaxée).
+Afin que la TPS ne s’applique pas aux intrants utilisés dans des activités commerciales, les inscrits pourront demander un crédit entièrement remboursable appelé « crédit de taxe sur les intrants », pour la TPS payée ou payable sur ces intrants. Cet article stipule que, dans la mesure où un intrant taxable est utilisé dans le cadre d’une activité commerciale, la taxe payée ou payable donne droit à un crédit de taxe sur les intrants.
+[5] Cependant, en l’espèce, l’appelant s’est vu refuser les crédits de taxe sur les intrants sur le fondement du paragraphe 208(4) de la Loi sur la taxe d’accise. Cette disposition est ainsi rédigée :
+(4) Dans le cas où un particulier qui est un inscrit acquiert, importe ou transfère dans une province participante des améliorations à un immeuble qui est son immobilisation, la taxe payable par lui relativement aux améliorations n’est pas incluse dans le calcul de son crédit de taxe sur les intrants si, au moment où cette taxe devient payable ou est payée sans qu’elle soit devenue payable, l’immeuble est destiné principalement à son utilisation personnelle ou celle d’un particulier qui lui est lié.
+[6] « Immeuble » au sens de cette disposition s’entend de la totalité de l’immeuble et non uniquement du bâtiment qui a été construit. Le nouveau bâtiment est un accessoire fixe, et il a été incorporé à l’immeuble. Dans des situations où des particuliers n’avaient pas réussi à établir que la totalité de l’immeuble n’était pas destinée principalement à leur utilisation personnelle, les crédits de taxe sur les intrants liés à la construction de bâtiments qui étaient utilisés dans le cadre d’activités commerciales ont été refusés[2].
+[7] Cependant, si les conditions suivantes sont remplies, l’acquéreur, en application du paragraphe 136(2) de la Loi sur la taxe d’accise (qui séparerait l’immeuble en deux parties), a droit à des crédits de taxe sur les intrants au titre de la TPS (ou de la TVH) payée relativement à l’acquisition du bâtiment commercial :
+(a) le propriétaire d’une entreprise individuelle qui est un inscrit construit un bâtiment qui est destiné à être utilisé exclusivement dans le cadre de son activité commerciale sur son terrain;
+(b) le propriétaire de l’entreprise individuelle se voit refuser les crédits de taxe sur les intrants uniquement sur le fondement du paragraphe 208(4) de la Loi sur la taxe d’accise;
+(c) le propriétaire de l’entreprise individuelle vend l’ensemble de l’immeuble à un autre particulier qui est un inscrit et qui utilisera l’ensemble de l’immeuble de la même manière que le propriétaire de l’entreprise individuelle (notamment en utilisant le bâtiment distinct dans le cadre d’une activité commerciale);
+Ainsi, les deux particuliers ne sont pas traités de la même manière puisque l’acquéreur de l’immeuble (comprenant le bâtiment commercial) a droit à des crédits de taxe sur les intrants au titre de la TPS (ou de la TVH) payée relativement au bâtiment utilisé exclusivement dans le cadre de son activité commerciale, tandis que la personne qui construit ce bâtiment sur son propre terrain et le destine à la même utilisation se voit refuser les crédits de taxe sur les intrants. Aussi, il y aurait peut-être lieu de modifier la Loi sur la taxe d’accise de manière à préciser que le propriétaire d’une entreprise individuelle qui est un inscrit et qui construit sur son propre terrain un bâtiment qui n’est pas un complexe résidentiel et qui est destiné à être utilisé dans le cadre d’une activité commerciale a droit aux crédits de taxe sur les intrants dans la même mesure où il aurait droit à des crédits de taxe sur les intrants si le bâtiment avait été construit sur une parcelle de terrain distincte.
+[8] En l’espèce, toutefois, il me paraît clair que l’appelant a établi qu’à l’époque pertinente, l’immeuble n’était pas destiné principalement à son utilisation personnelle ni à celle d’un particulier qui lui était lié. L’époque pertinente pour l’application du paragraphe 208(4) de la Loi sur la taxe d’accise est le moment où la taxe devient payable ou est payée sans qu’elle soit devenue payable. Cette époque correspondrait en l’espèce à la fin de 2009, vraisemblablement peu après que le bâtiment a été construit et que les travaux d’aménagement de la voie d’accès ont été terminés.
+[9] Dans la décision Lavoie, précitée, alors qu’il examinait le paragraphe 208(4) de la Loi sur la taxe d’accise, le juge Angers a formulé le commentaire suivant :
+10. […] Il faut également se rappeler que le mot « principalement » pourrait être défini comme quelque chose de première importance, un élément principal ou premier, et que ce mot peut également vouloir dire plus de 50 p. 100 (voir Mid‑West Feed Ltd. et al v. M.N.R., 87 DTC 394).
+[10] La condition pertinente énoncée au paragraphe 208(4) de la Loi sur la taxe d’accise tient à la question de savoir si :
+[…] l’immeuble est destiné principalement à [l’]utilisation personnelle [du particulier] ou celle d’un particulier qui lui est lié.
+[11] La disposition ne prévoit pas que le droit aux crédits de taxe sur les intrants est conditionnel à ce que l’immeuble soit utilisé principalement par l’appelant dans le cadre de son activité commerciale. Il suffit de déterminer si l’immeuble est destiné principalement à l’utilisation personnelle de l’appelant (ou d’un particulier qui lui est lié). Soit l’immeuble est destiné principalement à l’utilisation personnelle de l’appelant (ou d’un particulier qui lui est lié), soit il ne l’est pas. Ce sont là les deux seules hypothèses qui sont pertinentes pour l’application du paragraphe 208(4) de la Loi sur la taxe d’accise.
+[12] En l’espèce, une prairie de fauche occupe environ la moitié de la superficie du terrain de 6 acres de l’appelant. L’appelant a permis à des agriculteurs voisins de faucher le foin dans cette prairie et de se l’approprier. Pendant deux ans, il a permis à un agriculteur de faucher le foin, et pendant une autre année, il a permis à un autre agriculteur d’en faire autant. Il me paraît clair que cette partie de l’immeuble n’était pas destinée principalement à l’utilisation personnelle de l’appelant ou d’une personne qui lui était liée puisqu’elle était destinée principalement à l’utilisation des agriculteurs voisins qui fauchaient le foin pour leurs propres besoins. L’appelant a évoqué les trois années durant lesquelles le foin avait été fauché. Selon la prépondérance des probabilités, ces trois années sont 2009, 2010 et 2011.
+[13] L’appelant n’a pas dit si les voisins lui étaient liés, et la question ne lui a pas non plus été posée. Dans l’arrêt F.H. c. McDougall, [2008] 3 R.C.S. 41, le juge Rothstein, s’exprimant au nom de la Cour suprême du Canada, a affirmé :
+47 Enfin, il peut arriver que le fait soit intrinsèquement improbable. L’improbabilité intrinsèque dépend toujours des circonstances. Comme le dit la baronne Hale dans l’arrêt In re B, par. 72 :
+[traduction] Prenons l’exemple bien connu de l’animal aperçu dans Regent’s Park. S’il est vu à l’extérieur du zoo, dans un lieu où l’on promène habituellement son chien, alors il est plus vraisemblable qu’il s’agisse d’un chien que d’un lion. S’il est vu à l’intérieur du zoo, près de l’enclos des lions, dont la porte est ouverte, il se peut fort bien qu’il soit plus vraisemblable qu’il s’agisse d’un lion que d’un chien.
+48 Un fait allégué peut être très improbable, un autre moins. Il ne saurait y avoir de règle permettant de déterminer dans quelles circonstances et jusqu’à quel point le juge du procès doit tenir compte de l’improbabilité intrinsèque. Dans l’arrêt In re B, lord Hoffmann fait remarquer ce qui suit (par. 15) :
+[traduction] Le sens commun — et non le droit — exige, pour trancher à cet égard, qu’on tienne compte, dans la mesure où cela est indiqué, de la probabilité intrinsèque.
+Il revient au juge du procès de décider dans quelle mesure, le cas échéant, les circonstances donnent à penser que le fait allégué est intrinsèquement improbable et, s’il l’estime indiqué, il peut en tenir compte pour déterminer si la preuve établit que, selon toute vraisemblance, l’événement s’est produit. Or, aucune règle de droit ne saurait le lui imposer.
+[14] Bien qu’il n’ait pas été clairement affirmé que les agriculteurs voisins n’étaient pas liés à l’appelant, il m’apparaît que, selon la prépondérance des probabilités, les agriculteurs voisins ne sont pas liés à l’appelant. L’appelant a simplement désigné les agriculteurs comme ses voisins, ce qui, dans le contexte de la présente espèce, m’amène à conclure que la réponse plus probable est que les agriculteurs voisins qui ont fauché le foin n’étaient pas liés à l’appelant.
+[15] En plus du nouveau bâtiment qui a été utilisé dans le cadre de l’entreprise d’aménagement paysager, une aire ceinturant le bâtiment était couverte de gravier et servait à entreposer de l’équipement, et d’autres parties de l’immeuble (notamment la nouvelle voie d’accès) étaient utilisées pour exploiter l’entreprise. Lorsque la partie de l’immeuble qui est (et était) une prairie de fauche est ajoutée aux parties de l’immeuble qui ont été utilisées dans le cadre de l’entreprise d’aménagement paysager, il est clair que l’appelant ou sa famille ont utilisé moins de la moitié de l’immeuble à leurs fins personnelles, et il me paraît donc clair que l’immeuble n’était pas destiné principalement à leur utilisation personnelle. Il m’apparaît que telle était la situation en 2009 lorsque le bâtiment a été construit. Par conséquent, lorsque la taxe est devenue payable ou a été payée en 2009 (soit après la construction du nouveau bâtiment et de la voie d’accès), l’immeuble n’était pas destiné principalement à l’utilisation personnelle de l’appelant ou d’une personne qui lui était liée.
+[16] En conséquence, l’appel est accueilli, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que l’appelant a droit aux crédits de taxe sur les intrants de 3468,38 $ qui ont été refusés. L’appelant a droit aux dépens, qui sont fixés à 500 $.
+Signé à Halifax (Nouvelle-Écosse) ce 3e jour de novembre 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 13e jour de décembre 2011.
+Julie Boulanger, LL.M.
+RÉFÉRENCE : 2011CCI502
+NO DU DOSSIER DE LA COUR : 2011-1645(GST)I
+INTITULÉ : ROSS HUNTER ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 24 octobre 2011
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 3 novembre 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Tamara Watters
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’avocate de l’intimée a posé une question à l’appelant quant à savoir qui avait acheté l’immeuble, et en particulier si l’appelant l’avait acheté seul ou avec son épouse. Cependant, dans l’avis d’appel, l’appelant ne mentionne que lui-même comme acheteur de l’immeuble et comme étant la personne qui a subdivisé le terrain et vendu les lots. Au paragraphe 2 de la réponse, on peut lire ce qui suit :
+[traduction]
+2. Il admet uniquement les faits suivants énoncés dans l’avis d’appel :
+a) l’appelant a acheté une parcelle de terrain et une résidence;
+b) une structure a été construite sur le terrain appartenant à l’appelant;
+Puisque l’intimée a admis que l’appelant était propriétaire de l’immeuble, et puisqu’il n’y a eu aucune requête visant à faire modifier la réponse pour que soit retirée cette admission, l’immeuble est considéré, pour les besoins du présent appel, comme appartenant uniquement à l’appelant.
+[2] Polley c. La Reine, 2008 CCI 192, [2008] G.S.T.C. 99; Lavoie c. La Reine, 2009 CCI 501, [2009] G.S.T.C. 142; Larivière c. La Reine, 2009 CCI 424, [2009] G.S.T.C. 152.

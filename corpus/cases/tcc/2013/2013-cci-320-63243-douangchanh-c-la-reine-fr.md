@@ -1,0 +1,191 @@
+---
+title: "DouangChanh c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/63243/index.do"
+last_modified: "2013-10-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 320"
+citation2: ""
+neutral_citation: "2013 CCI 320"
+decision_date: "2013-10-07"
+language: "fr"
+item_id: "63243"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6095
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:01:14.246000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fcad5b84a0633ee646d446bde50bd70d0460b8f58008b412efba2d367685c879"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# DouangChanh c. La Reine
+
+- Citation: 2013 CCI 320
+- Decision date: 2013-10-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6095, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DouangChanh c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-10-07
+Référence neutre
+2013 CCI 320
+Numéro de dossier
+2013-1145(IT)APP
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-1145(IT)APP
+ENTRE :
+PHETH DOUANGCHANH,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue les 26 juin et 30 septembre 2013, à Toronto (Ontario)
+Devant : L’honorable juge Judith M. Woods
+Comparutions :
+Pour le requérant :
+Le requérant lui-même
+Lane DouangChanh
+Avocate de l’intimée :
+Me Rita Arajo
+ORDONNANCE
+La demande visant à obtenir une ordonnance prorogeant le délai imparti pour signifier un avis d’opposition à l’égard d’une nouvelle cotisation, établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 et émise par un avis daté du 18 octobre 2011, est rejetée pour les motifs ci-joints. Chaque partie supportera ses propres frais.
+Signé à Toronto (Ontario), ce 7e jour d’octobre 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 21e jour de novembre 2013.
+C. Laroche, traducteur
+Référence : 2013 CCI 320
+Date : 20131007
+Dossier : 2013-1145(IT)APP
+ENTRE :
+PHETH DOUANGCHANH,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Woods
+[1] Le requérant, Pheth DouangChanh, sollicite une prorogation du délai imparti pour déposer un avis d’opposition à l’égard d’une nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007.
+[2] Je suis arrivée à la conclusion que, bien qu’il y ait lieu de rejeter la demande, un avis d’opposition déposé antérieurement demeure valide. Mes motifs sont exposés ci-après.
+[3] Le requérant était représenté par sa fille à l’audience et il a également présenté des observations pour son propre compte. Chacun d’eux a également témoigné.
+Les positions des parties
+[4] L’intimée s’oppose à la demande, au motif que le requérant n’a pas déposé une demande semblable auprès du ministre du Revenu national dans le délai prévu à cette fin, comme l’exige l’alinéa 166.2(5)a) de la Loi.
+[5] Le requérant soutient qu’il y a lieu de faire droit à la demande. Premièrement, son comptable l’a assuré que les documents appropriés avaient été déposés. Deuxièmement, cette décision a des conséquences financières dévastatrices, et il faudrait faire droit à la demande pour des motifs d’équité.
+[6] En examinant cette question après l’audience initiale, j’ai constaté que la nouvelle cotisation en cause avait peut-être été établie après l’expiration de la période normale de nouvelle cotisation et qu’elle était peut-être donc prescrite. Si la nouvelle cotisation n’est pas valide pour ce motif, une nouvelle cotisation antérieure le serait, tout comme un avis d’opposition déposé à l’égard de cette nouvelle cotisation-là. J’ai donc ordonné la réouverture de l’audience en vue d’examiner la question.
+[7] Par souci de commodité, j’appellerai la nouvelle cotisation la plus récente la « nouvelle cotisation la plus récente », et la nouvelle cotisation immédiatement antérieure la « nouvelle cotisation antérieure ».
+[8] À la seconde audience, l’intimée a fait valoir que la nouvelle cotisation la plus récente avait été établie à la demande du requérant, conformément au paragraphe 152(4.2) de la Loi. De ce fait, bien qu’elle ait été établie après la période normale de nouvelle cotisation, elle n’est pas prescrite. Elle a ajouté qu’il n’existe aucun droit de faire opposition à la nouvelle cotisation la plus récente selon les termes du paragraphe 165(1.2) de la Loi.
+Les dispositions législatives applicables
+[9] Les exigences législatives à remplir en vue d’obtenir une prorogation du délai imparti pour signifier un avis d’opposition sont exposées au paragraphe 166.2(5) de la Loi, dont le texte est reproduit ci-dessous, de pair avec les dispositions connexes :
+166.1(1) Prorogation du délai par le ministre – Le contribuable qui n’a pas signifié d’avis d’opposition à une cotisation en application de l’article 165 ni présenté de requête en application du paragraphe 245(6) dans le délai imparti peut demander au ministre de proroger le délai pour signifier l’avis ou présenter la requête.
+166.2(1) Prorogation du délai par la Cour canadienne de l’impôt – Le contribuable qui a présenté une demande en application de l’article 166.1 peut demander à la Cour canadienne de l’impôt d’y faire droit après :
+a) le rejet de la demande par le ministre;
+b) l’expiration d’un délai de 90 jours suivant la présentation de la demande, si le ministre n’a pas avisé le contribuable de sa décision.
+Toutefois, une telle demande ne peut être présentée après l’expiration d’un délai de 90 jours suivant la date de la mise à la poste de l’avis de la décision au contribuable.
+[…]
+(5) Acceptation de la demande – Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour signifier l’avis ou présenter la requête, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+[10] Les exigences législatives qui se rapportent aux nouvelles cotisations établies, à la demande d’un contribuable, après la période normale de nouvelle cotisation sont :
+152.(4.2) Nouvelle cotisation et nouvelle détermination – Malgré les paragraphes (4), (4.1) et (5), pour déterminer, à un moment donné après la fin de la période normale de nouvelle cotisation applicable à un contribuable — particulier, autre qu’une fiducie, ou fiducie testamentaire — pour une année d’imposition le remboursement auquel le contribuable a droit à ce moment pour l’année ou la réduction d’un montant payable par le contribuable pour l’année en vertu de la présente partie, le ministre peut, si le contribuable demande pareille détermination au plus tard le jour qui suit de dix années civiles la fin de cette année d’imposition, à la fois :
+a) établir de nouvelles cotisations concernant l’impôt, les intérêts ou les pénalités payables par le contribuable pour l’année en vertu de la présente partie;
+b) déterminer de nouveau l’impôt qui est réputé, par les paragraphes 120(2) ou (2.2), 122.5(3), 122.51(2), 122.7(2) ou (3), 127.1(1), 127.41(3) ou 210.2(3) ou (4), avoir été payé au titre de l’impôt payable par le contribuable en vertu de la présente partie pour l’année ou qui est réputé, par le paragraphe 122.61(1), être un paiement en trop au titre des sommes dont le contribuable est redevable en vertu de la présente partie pour l’année.
+165.(1.2) Restriction –Malgré les paragraphes (1) et (1.1), aucune opposition ne peut être faite par un contribuable à une cotisation établie en application des paragraphes 118.1(11), 152(4.2), 169(3) ou 220(3.1). Il est entendu que cette interdiction vaut pour les oppositions relatives à une question pour laquelle le contribuable a renoncé par écrit à son droit d’opposition.
+L’historique des cotisations
+[11] Il est utile d’exposer la chronologie des faits se rapportant à la cotisation initiale et aux nouvelles cotisations ultérieures qui ont été établies pour l’année d’imposition 2007 :
+a) 25 août 2008 – établissement de la cotisation initiale;
+b) 9 novembre 2009 – établissement d’une nouvelle cotisation;
+c) 30 août 2010 – établissement de la nouvelle cotisation antérieure, qui refuse un don de bienfaisance;
+d) 17 février 2011 – dépôt d’un avis d’opposition concernant le don de bienfaisance;
+e) 17 février 2011 – le ministre accuse réception de l’avis d’opposition et fait savoir qu’étant donné que la question en litige est la même pour plusieurs contribuables, les décisions relatives au dossier seront reportées en attendant le règlement d’oppositions connexes;
+f) 24 mars 2011 – le requérant demande que le ministre fasse droit à des frais financiers (documents justificatifs présentés ultérieurement, à la demande du ministre);
+g) 24 août 2011 – fin de la période normale de nouvelle cotisation;
+h) 18 octobre 2011 – établissement de la nouvelle cotisation la plus récente, faisant droit à des frais financiers;
+i) 19 février 2013 – le ministre informe le requérant que l’opposition relative au don de bienfaisance est annulée par la nouvelle cotisation la plus récente et qu’il est trop tard pour faire opposition ou pour demander une prorogation concernant la nouvelle cotisation ultérieure;
+j) 15 mars 2013 – dépôt auprès de la Cour canadienne de l’impôt d’une demande de prorogation de délai;
+k) 27 mars 2013 – dépôt auprès du ministre d’un avis d’opposition et d’une demande de prorogation de délai;
+l) 26 juin 2013 – demande de prorogation de délai additionnelle présentée de vive voix à l’audience (à la requête de l’intimée, au motif que la demande antérieure était prématurée).
+Analyse
+[12] Je fais remarquer, tout d’abord, que les circonstances de la présente affaire suscitent la compassion. Le requérant a déposé un avis d’opposition concernant un don de bienfaisance. Le ministre a ensuite établi une nouvelle cotisation concernant des frais financiers, qui, selon l’intimée, a privé le requérant du droit de faire opposition au refus concernant le don de bienfaisance.
+[13] Il y a quelque chose qui cloche. Je ne comprends pas pourquoi le ministre a établi la nouvelle cotisation la plus récente concernant les frais financiers, qui, si elle était valide, aurait pour effet de priver le requérant du droit de s’opposer au refus du don de bienfaisance. J’aurais pensé que l’on aurait pu reporter la décision du ministre au sujet des frais financiers jusqu’à ce qu’on règle la question du don de bienfaisance.
+[14] Selon l’avocate de l’intimée, il importe peu de savoir ce que le ministre aurait pu faire. La question consiste simplement à examiner ce que le ministre a fait réellement. La loi, dit-elle, est claire sur ce point, et il y a lieu de rejeter la demande de prorogation de délai pour les raisons suivantes :
+a) le requérant ne s’est pas conformé à l’alinéa 166.2(5)a), parce qu’il n’a pas présenté une demande antérieure au ministre dans le délai imparti;
+b) le requérant ne peut s’opposer à la nouvelle cotisation la plus récente, parce que celle-ci a été établie au titre du paragraphe 152(4.2).
+[15] Je conviens avec l’avocate qu’il me faut examiner les faits qui ont effectivement eu lieu. Voyons maintenant les observations du ministère public.
+L’obligation de présenter une demande antérieure au ministre
+[16] L’intimée soutient qu’une demande de prorogation de délai concernant la nouvelle cotisation la plus récente ne peut être accueillie que si le requérant a présenté une demande semblable au ministre dans le délai imparti, soit un an et 90 jours à compter de la date de l’envoi de l’avis de nouvelle cotisation. Il ressort clairement de la chronologie des faits qui précède que ce délai n’a pas été respecté. La demande au ministre a été présentée nettement plus tard.
+[17] Le requérant soutient que son comptable lui a dit que tous les documents avaient été présentés, mais il lui a été impossible de joindre ce dernier et il n’a pas pu établir qu’une demande avait été présentée en temps opportun au ministre.
+[18] Le requérant a aussi soutenu qu’il faudrait faire droit à la demande pour des motifs d’équité. Malheureusement pour lui, l’obligation de présenter une demande en temps opportun au ministre est prescrite par la loi, et la Cour ne peut en faire abstraction. C’est la prérogative du législateur de fixer des délais stricts, et c’est ce qu’il a fait en l’espèce (La Reine c Carlson, 2002 CAF 145).
+L’absence d’opposition à la nouvelle cotisation la plus récente
+[19] À la seconde audience, j’ai demandé aux parties de me faire part d’observations sur le fait de savoir si la nouvelle cotisation la plus récente était prescrite. Si c’est le cas, il s’ensuit que cette dernière n’est pas valide et que la nouvelle cotisation antérieure l’est. De plus, l’avis d’opposition concernant la nouvelle cotisation antérieure est lui aussi valide, ce qui veut dire que les droits d’appel du requérant n’ont pas été éteints.
+[20] L’intimée soutient que la nouvelle cotisation la plus récente a été établie à la demande du requérant, conformément au paragraphe 152(4.2), et qu’elle n’est donc pas prescrite. Par ailleurs, selon elle, dans ces circonstances le requérant ne peut s’opposer à la nouvelle cotisation la plus récente (paragraphe 165(1.2)).
+[21] La question à trancher consiste à savoir si la nouvelle cotisation la plus récente a été établie au titre du paragraphe 152(4.2). Je conclus que ce n’était pas parce que le requérant n’entendait pas présenter une demande en vertu du paragraphe 152(4.2).
+[22] La demande a été présentée au moyen d’un formulaire T1 de demande de redressement. Ce dernier indique qu’il doit servir à « demander un redressement à une déclaration de revenus des particuliers (c’est-à-dire l’établissement d’une nouvelle cotisation pour cette déclaration) ».
+[23] Le formulaire a été envoyé au cours de la période normale de nouvelle cotisation et peu de temps après la signification de l’opposition concernant le don de bienfaisance. Peu avant cela, le ministre avait informé le requérant qu’aucune mesure ne serait prise dans le dossier en attendant que l’on se prononce sur des décisions concernant des dons de bienfaisance semblables.
+[24] Dans ces circonstances, il m’aurait semblé fort peu probable que le requérant veuille demander que l’on établisse une nouvelle cotisation après la période normale de nouvelle cotisation, ce qui aurait ainsi éliminé ses droits d’appel à l’égard du don de bienfaisance.
+[25] Je suis d’avis de conclure que le requérant n’a pas présenté une demande de nouvelle cotisation en vertu du paragraphe 152(4.2). En l’espèce, la nouvelle cotisation la plus récente qui a été émise par un avis daté du 18 octobre 2011 est prescrite.
+[26] Le résultat de cette conclusion est que la nouvelle cotisation antérieure qui a été émise par un avis daté du 30 août 2011 demeure valide, tout comme l’avis d’opposition concernant le don de bienfaisance. Autrement dit, les droits d’appel du requérant à l’égard de l’année d’imposition 2007 n’ont pas été éteints.
+[27] Enfin, je signale que dans la décision St Germain c La Reine, 2009 CCI 518, le juge Angers est arrivé à un résultat semblable au sujet de faits différents.
+Conclusion
+[28] La demande de prorogation du délai imparti pour déposer un avis d’opposition à l’égard de la nouvelle cotisation la plus récente sera rejetée. Cependant, les droits d’appel du requérant, relativement à l’année d’imposition 2007, sont préservés par l’avis d’opposition qui a été déposé le 17 février 2011.
+[29] Chaque partie supportera ses propres frais à l’égard de la présente demande.
+Signé à Toronto (Ontario), ce 7e jour d’octobre 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 21e jour de novembre 2013.
+C. Laroche, traducteur
+RÉFÉRENCE : 2013 CCI 320
+No DU DOSSIER DE LA COUR : 2013-1145(IT)APP
+INTITULÉ : PHETH DOUANGCHANH et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Les 26 juin et 30 septembre 2013
+MOTIFS DE L’ORDONNANCE : L’honorable juge J.M. Woods
+DATE DE L’ORDONNANCE : Le 7 octobre 2013
+COMPARUTIONS :
+Pour le requérant :
+Le requérant lui-même
+Lane DouangChanh
+Avocate de l’intimée :
+Me Rita Arajo
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour le requérant :
+Nom : S.O.
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

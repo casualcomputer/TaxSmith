@@ -1,0 +1,163 @@
+---
+title: "WPH Mechanical Services Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27379/index.do"
+last_modified: "2006-12-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 677"
+citation2: ""
+neutral_citation: "2006 TCC 677"
+decision_date: "2006-12-22"
+language: "en"
+item_id: "27379"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 136
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:26:35.440000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "084c88ca9183b45a04c85ae0a837ce9b47c55c3f3d12cbeb90ee51ba554f8cf4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# WPH Mechanical Services Ltd. v. The Queen
+
+- Citation: 2006 TCC 677
+- Decision date: 2006-12-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 136, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+WPH Mechanical Services Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-22
+Neutral citation
+2006 TCC 677
+File numbers
+2005-820(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC677
+Docket: 2005-820(IT)G
+BETWEEN:
+WPH MECHANICAL SERVICES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+CERTIFICATION OF TRANSCRIPT OF
+REASONS FOR JUDGMENT
+Let the attached certified transcript of my Reasons for Judgment delivered orally from the Bench at Edmonton, Alberta, on October 4, 2006, be filed.
+"L.M. Little"
+Little J.
+Signed in Vancouver, British Columbia, this 22nd day of December 2006.
+Citation: 2006TCC677
+Date: 20061222
+Docket: 2005-820(IT)G
+BETWEEN:
+WPH MECHANICAL SERVICES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench at Edmonton,
+Alberta on October 4, 2006)
+Little J.
+[1] At the commencement of the hearing the parties filed a Statement of Agreed Facts. The Statement of Agreed Facts reads as follows:
+1. At all material times, the Appellant was duly incorporated, organized and existing under the laws of the Province of Alberta and was resident in Canada for the purposes of the Income Tax Act (Canada) (the "Act").
+2. The fiscal year of the Appellant ended on January 31, 2002.
+3. During the 2002 taxation year, the Appellant carried on business as a mechanical contractor.
+4. At all material times, the equal shareholders of the Appellant were Brydan Consulting Corp. and 847569 Alberta Ltd.
+5. At all material times, the equal shareholders of Brydan Consulting Corp. were Daryl Zimmerman and his spouse, Eileen Zimmerman.
+6. At all material times, the equal shareholders of 847569 Alberta Ltd. were Randall Ballance and his spouse, Lynn Ballance.
+7. At all material times, the directors of the Appellant were Daryl Zimmerman and Randy Ballance.
+8. Prior to January 31, 2002, the Appellant, Daryl Zimmerman and Randy Ballance agreed that the Appellant's profits, to the extent that they exceeded $200,000, would be paid to Zimmerman and Ballance as salary or remuneration. This agreement was reflected in a resolution of the Appellant dated January 30, 2002, wherein the Appellant resolved to pay a lump sum salary payment (the "Bonus") totalling $165,000 to Daryl Zimmerman and Randy Ballance. It was further resolved that the Bonus would be paid on or before July 15, 2002 at the discretion of the directors of the Appellant.
+9. In computing its income for the 2002 taxation year, the Appellant deducted the Bonus as an expense.
+10. On October 30, 2002, the Appellant paid Daryl Zimmerman and Randy Ballance $100,000.00, less source deductions, and recorded the payment as a debit to bonuses payable on October 31, 2002.
+11. In his 2002 T1 tax return, Daryl Zimmerman reported $50,000 of the Bonus received.
+12. In his 2002 T1 tax return Randy Ballance reported $50,000 of the Bonus received.
+13. On January 20, 2003, the Appellant paid Daryl Zimmerman and Randy Ballance $65,000, less source deductions, and recorded the payment as a debit to bonuses payable on January 28, 2003.
+14. In his 2003 T1 tax return, Daryl Zimmerman reported $32,500 of the Bonus as income.
+15. In his 2003 T1 tax return, Randy Ballance reported $32,500 of the Bonus as income.
+16. By Notice of Reassessment dated June 7, 2004, the Minister denied the Appellant's deduction of the Bonus for its 2002 taxation year. Although the Appellant filed a Notice of Objection to the Reassessment, the Minister confirmed the Reassessment on December 13, 2004.
+17. The Minister also issued a Notice of Reassessment dated June 7, 2004 with respect to the Appellant's 2003 taxation year. In so reassessing the Appellant, the Minister allowed a deduction of $165,000 with respect to the Bonus that is in issue in this Appeal.
+18. The Appellant's January 31, 2002 year end balance sheet shows a liability, as bonus payable, in the amount of $165,000.
+[2] The issue is whether the Appellant is entitled to deduct an expense in the amount of $165,000.00 in determining its income for the 2002 taxation year.
+[3] My analysis and decision are as follows. During the hearing counsel for the Appellant introduced a document that was called a Demand Loan Agreement. This document was filed as Exhibit A-2. This document contains a number of provisions or paragraphs. I will read a portion of the document. The third paragraph reads as follows:
+It is hereby mutually agreed that the $82,500 each is hereby paid in full by the Corporation on this 5th day of July 2002 and that the employees have lent back to the Corporation these funds of $82,500 each for a total of $165,000.
+[4] Counsel for the Appellant introduced a copy of the daily diary maintained by the Appellant's accountant, Mr. David MacGillivray. This document was filed as Exhibit A-3. Exhibit A-3 contains the following statement for Friday, June 28, 2002 "Call Daryl WPH for Bonuses paid."
+[5] Mr. MacGillivray testified that he had phoned Daryl pursuant to the comment made in his diary. Mr. MacGillivray also testified that he had prepared the demand loan agreement.
+[6] Mr. MacGillivray said that the intent and plan followed by him in the preparation of the Demand Loan Agreement was that the bonuses totalling $165,000.00 ($82,500.00 each to Messrs. Zimmerman and Ballance) were to be paid in full on July 5, 2002, and that Mr. Zimmerman and Mr. Ballance were to lend the money back to the Appellant on an interest-free demand loan basis. Mr. MacGillivray said that the arrangement was structured by him in this way because the Appellant had a cash flow problem at that time, that is, in July of 2002.
+[7] Mr. Zimmerman testified as a witness on behalf of the Appellant. On cross-examination by Mr. Body, counsel for the Respondent, Mr. Zimmerman, testified that the Demand Loan Agreement which he had signed on July 5, 2002, in Mr. MacGillivray's office, had in effect of establishing that bonuses totalling $165,000.00 ($82,500.00 each) were paid in full by the Appellant on July 5, 2002, and that he and Mr. Ballance then agreed to lend $165,000.00 back to the Appellant.
+[8] Mr. Ballance also testified as a witness for the Appellant. After counsel had completed their questioning of Mr. Ballance, I asked Mr. Ballance for his comment on the effect of the Demand Loan Agreement. Mr. Ballance stated that his understanding of the effect of the Demand Loan Agreement is that the Appellant paid a bonus of $82,500.00 to him and to Mr. Zimmerman effective July 5, 2002, and that he and Mr. Zimmerman each agreed to lend the money back to the Appellant on an interest-free demand loan arrangement. Mr. Ballance testified that he had signed the demand loan agreement sometime between the first and the middle of July 2002.
+[9] I have carefully considered all of the evidence that was before me plus the legal authorities that were provided by counsel. I am convinced, based upon the sworn testimony of Mr. Zimmerman and Mr. Ballance, confirmed by Mr. MacGillivray, that the Appellant paid a bonus of $82,500.00 to Mr. Zimmerman and a bonus of $82,500.00 to Mr. Ballance on July 5, 2002, and that the money was lent back by each of them to the Appellant on an interest-free demand loan basis.
+[10] In reaching my conclusion I have considered a number of authorities including, in particular, the decision of Chief Justice McLachlin in Shell Canada Limited v. The Queen. That decision is found in '99 Dominion Tax Cases, page 5669.
+[11] In that case Chief Justice McLachlin said at page 5677:
+[44] Although the terms of s. 20(1)(c)(i) are clear, the Federal Court of Appeal seems to have discerned in the Act an intention that courts, to be fair to less sophisticated taxpayers, should be alert to preventing taxpayers from using complex transactions designed to minimize their tax liability. It was said that courts should somehow look through transactions and impose tax according to their true economic and commercial effects. There are some obiter statements in some cases that may be said to support this view: ...
+(The Chief Justice makes a reference to Bronfman Trust.)
+[45] However, this Court has made it clear in more recent decisions that, absent a specific provision to the contrary, it is not the courts' role to prevent taxpayers from relying on the sophisticated structure of their transactions, arranged in such a way that the particular provisions of the Act are met, on the basis that it would be inequitable to those taxpayers who have not chosen to structure their transactions that way. This issue was specifically addressed by this Court in Duha Printers (Western) Ltd. v. Canada [98 DTC 6334] ...
+The point I wish to emphasize is that the courts' role is to interpret and apply the Act as it was adopted by Parliament. Chief Justice McLachlin said at paragraph 45:
+... Obiter statements in earlier cases that might be said to support a broader and less certain interpretive principle have therefore been overtaken by our developing tax jurisprudence. Unless the Act provides otherwise, a taxpayer is entitled to be taxed based on what it actually did, not based on what it could have done, and certainly not based on what a less sophisticated taxpayer might have done.
+[12] And I refer again to the words of McLachlin C.J. where she said that a taxpayer is entitled to be taxed based on what it actually did.
+[13] In this situation the Appellant declared a bonus and the evidence shows that the Appellant and its directors intended on July 5, 2002 to have the bonus paid and it was paid.
+[14] I have concluded that the Appellant is entitled to deduct the bonus of $165,000.00 in determining its income for the 2002 taxation year.
+[15] Before concluding my remarks, I wish to state that I do not fault Mr. Proctor or Mr. Body for bringing this case to this Court. Mr. Proctor was, I think, in line and properly in line in questioning the deduction of the bonus.
+[16] I make this statement because I agree with Mr. Body, counsel for the Respondent, that the response from Mr. MacGillivray in his letter dated April 26, 2004, Exhibit R-2, was somewhat vague and did not properly deal with the Demand Loan Agreement. I cannot explain or understand why Mr. MacGillivray did not refer to the Demand Loan Agreement. I also agree with Mr. Body that it would have been useful or helpful for Mr. MacGillivray to have referred to the Demand Loan Agreement in the Notice of Objection.
+[17] My function as a trial judge is to review and carefully consider the evidence and then apply the law to the evidence that is before me. When I consider the evidence before me, I have concluded that the Appellant satisfied the requirements of subsection 78(4) of the Income Tax Act with respect to the deduction of the bonus of $165,000.00 in determining its income for the 2002 taxation year.
+[18] The appeal is allowed with costs.
+Signed at Vancouver, British Columbia, this 22nd day of December 2006.
+"L.M. Little"
+Little J.
+CITATION:
+2006TCC677
+COURT FILE NO.:
+2005-820(IT)G
+STYLE OF CAUSE:
+WPH Mechanical Services Ltd.
+And Her Majesty the Queen
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+October 2, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF ORAL JUDGMENT:
+October 4, 2006
+APPEARANCES:
+Counsel for the Appellant:
+James C. Yaskowich
+Counsel for the Respondent:
+George Body
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+James C. Yaskowich
+Firm:
+Felesky Flynn LLP
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

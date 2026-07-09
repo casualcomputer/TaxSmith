@@ -1,0 +1,119 @@
+Title: Richard A. Kanan Corporation v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30308/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-211-30308-richard-a-kanan-corporation-v-the-queen.md
+Document type: case_law
+Last modified: 2011-04-15
+
+# Richard A. Kanan Corporation v. The Queen
+
+- Citation: 2011 TCC 211
+- Decision date: 2011-04-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8076, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Richard A. Kanan Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-04-15
+Neutral citation
+2011 TCC 211
+File numbers
+2010-1252(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2011 TCC 211
+Date: 20110415
+Docket: 2010-1252(IT)I
+BETWEEN:
+RICHARD A. KANAN CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+INTERIM REASONS
+Campbell J.
+[1] Richard A. Kanan Corporation (the “Appellant”), appeals reassessments of its 2006 and 2007 taxation years in which the Minister of National Revenue (the “Minister”) denied the deduction of certain legal and accounting expenses. The issue raised by this appeal concerns the interplay between the Appellant’s onus to prove the deductibility of its expenses and its fundamental and substantive right to the confidentiality of its communications with its legal counsel. The question may be phrased this way: how much information can the Minister, or the Court, require a taxpayer to produce in support of his or her expenses, if that information is subject to solicitor-client privilege?
+[2] The Appellant’s position is that a taxpayer’s onus to prove its expenses does not require it to disclose any privileged communication. The Respondent’s position is that full disclosure of the lawyer’s file is required to allow either the Minister, via his representatives in the Canada Revenue Agency (the “CRA”), or the Court to conclude that legal expenses are deductible. For the reasons that follow, neither of these positions can be accepted.
+Background
+[3] The Appellant is a British Columbia corporation that operates a dental practice in Invermere, British Columbia.
+[4] Olson Lemons LLP (“Olson Lemons”) is a Calgary law firm that acts as counsel to the Appellant. Olson Tax Consultants Inc. (“Tax Consultants”) provides various accounting services, including the preparation of tax returns. The expenses at issue were incurred for work done by Olson Lemons and Tax Consultants.
+[5] Thomas Olson, a partner at Olson Lemons, testified on behalf of the Appellant. He advised the Court that the Appellant had not waived solicitor-client privilege, and so his testimony would be limited to unprivileged information.
+[6] Wyndam West, an auditor from the Southern Interior B.C. Tax Services Office of the CRA (the “Penticton office”), testified for the Respondent. Mr. West took over when the original auditor on the Appellant’s file, Mr. Gay, was transferred to another department. Mr. West completed the audit and finalized the audit report, a copy of which was produced at the hearing.
+The Audit Process
+[7] According to Mr. Olson, Olson Lemons regularly assists its clients in responding to CRA’s audits. When informed that a client is the subject of an audit, Olson Lemons assembles and organizes all of the relevant documents and invites the auditor to come to its offices in Calgary. The firm makes space available for the auditor, and it assists the auditor by finding documents, copying documents, and answering questions. Mr. Olson testified that Olson Lemons assists its clients in more than twenty-five audits per year, and that its method of handling audits works well, regardless of where in Canada the client is located.
+[8] However, in the audit of the Appellant, the CRA declined the invitation to attend at the Calgary offices of Olson Lemons. The Penticton office took the position that the conduct of an audit for a British Columbia corporation should not require the auditor to leave the province, and that the file would not be transferred to an auditor based in Calgary. Rather than travel to Calgary, Mr. Gay travelled from Penticton to the dental office of the Appellant in Invermere, British Columbia. He made this trip despite having been informed that the dental office would not have room for him to work and that original copies of the relevant documents were at the offices of Olson Lemons in Calgary.
+[9] Mr. West’s evidence was that CRA reluctantly agreed to conduct the audit based on photocopied documents provided by Olson Lemons. He received copies of the corporate minute book, the general ledger, invoices for the expenses in question, and receipts for other expenses. As a result, Mr. West was satisfied that all of the transactions performed by the Appellant were reported correctly, and that all of the deductions, except those at issue, were properly taken.
+[10] Of the relevant corporate records, only the T2 corporate tax returns and the invoices for the expenses at issue were introduced into evidence at the hearing. Neither party sought to adduce the Appellant’s minute book or general ledger. Each invoice from Olson Lemons to the Appellant confirms the amount paid by the Appellant “For Legal Services Rendered”; however, they contain no further information about what legal services were provided.
+The Submissions
+[11] The Appellant acknowledges that it bears the burden of proof in this Court; however, it submits that taxpayers should not be required to reveal any privileged information in order to meet that burden. It argues that Mr. Olson’s testimony, without revealing any privileged communications, has succeeded in demolishing the Minister’s assumptions. Therefore, the appeal should be allowed.
+[12] The Respondent relies on paragraphs 18(1)(a) and 18(1)(b) of the Income Tax Act (the “Act”), and argues that Mr. Olson’s evidence contained insufficient detail about the work done to satisfy the Court that these expenses are deductible.
+[13] In the alternative, the Respondent invokes the doctrine of implied waiver, arguing that “Mr. Olson’s testimony is tantamount to waiver of privilege.”[1] That is, the Appellant should not be allowed to reveal only the privileged information which supports its case, while keeping the balance confidential. To do so would prevent the effective scrutiny of the evidence and render the hearing unfair.
+Analysis
+[14] I will address these two submissions in turn:
+1) Can the Appellant meet its onus without disclosing privileged information?
+2) If the Appellant relies on privileged information to meet its onus, will an implied waiver be found over its entire legal file?
+Can the Appellant meet its onus without disclosing privileged information?
+[15] The Appellant acknowledges that it has the initial onus to demonstrate the deductibility of its expenses. However, it argues that, if solicitor-client privilege was required to be waived in order to support the deduction of legal fees, it would be explicitly set out in the Act. The Act does not explicitly abrogate privilege; rather, Parliament has taken steps to preserve the privilege.
+[16] Information covered by solicitor-client privilege is given special protection in the Act in the context of CRA’s investigative powers.[2] However, the general scheme of the Act requires taxpayers to provide evidence to demonstrate the deductibility of their expenses. Accepting that the Act protects rather than abrogates solicitor-client privilege, the question remains: can a taxpayer satisfy the onus of proving a claim for legal expenses without revealing privileged information?
+[17] Legal expenses, like other expenses, are subject to the restrictions of subsection 18(1) of the Act. Of particular interest are paragraphs 18(1)(a) and 18(1)(b):
+18. (1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+(b) an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part.
+[18] Bowman A.C.J. (as he then was) explained the general approach to applying these provisions in International Colin Energy. The first step is to determine whether the payment was made for the purpose of producing income from a business or property. If it was, then the second step is to ask whether the deduction is disallowed by paragraph 18(1)(b) because the payment was made on capital account. The final step is to consider the application of provisions which permit the deduction of capital expenditures, such as the paragraphs in subsection 20(1).[3]
+[19] To classify a legal expense following this procedure, the Court requires a description of the work done. This description may not be privileged, as not all documents and information in a solicitor’s possession are covered by solicitor-client privilege. For example, where a lawyer has given business or investment advice, or where the lawyer’s work consisted of unprivileged acts rather than advice, communication related to that work is not protected. However, where a taxpayer seeks a deduction for amounts incurred in respect of confidential legal advice, the description of the work which the Court requires will be privileged.
+[20] The Appellant, like every taxpayer, has the burden of proving the deductibility of its expenses, and it is no answer to say, “that information is covered by solicitor-client privilege”. There is no question that taxpayers have the right to keep confidential all communications covered by solicitor-client privilege. However, taxpayers who fail to provide adequate support to demonstrate the deductibility of their expenses risk the denial of those deductions.
+[21] The question of what constitutes adequate proof of the deductibility of legal expenses will depend on the facts of each case. The Respondent suggested that I should be satisfied with nothing less than the “specific legal advice” given by Olson Lemons to the Appellant. I disagree. Adequate support to demonstrate the deductibility of these expenses might take the form of a detailed invoice, an engagement letter, or a reporting letter. Indeed, these documents might even be redacted to hide some irrelevant detail and still contain enough information to allow the Court to classify the expenses following the procedure described in International Colin Energy. The Court will require descriptions of the tasks undertaken by the lawyers, and the amounts charged for those tasks. In most cases, the Court will not, and should not, require the Appellant to reveal items such as complete legal advice memoranda, unexecuted drafts of contracts, or details of its discussions with counsel in order to be satisfied that the amounts charged by the lawyer are deductible business expenses.
+If the Appellant relies on privileged information to meet its onus, will an implied waiver be found over its entire legal file?
+[22] The Respondent argues that the Appellant has made its communications with Olson Lemons relevant to the issue before the Court and it has thus waived solicitor-client privilege over those communications. The Appellant, in the Respondent’s view, should not be allowed to provide evidence as to certain aspects of its legal fees while using the privilege to “deflect questions on the nature of the legal services and advice provided necessary for the Minister to determine whether they are properly deductible pursuant to the provisions of the Act.”[4]
+[23] Given my finding that taxpayers will often be required to reveal privileged information in order to claim deductions for legal expenses, the effect of the Respondent’s argument is profound: the Minister should have access to a taxpayer’s entire legal file in order to evaluate that taxpayer’s claim for legal expenses.
+[24] In general, an implied waiver of solicitor-client privilege is found where a litigant has voluntarily disclosed, and sought to rely on, privileged communications. The concerns of fairness and consistency operate to prevent litigants from relying on parts of privileged communication while using the privilege to shield others.[5]
+[25] The Supreme Court of Canada found an implied waiver in R. v Campbell, which dealt with the legality of a “reverse sting” operation. During the proceedings, the RCMP had relied on the fact that it sought legal advice in arguing that the police had a good‑faith belief in the legality of the operation. Binnie J., for a unanimous Supreme Court, found that by supporting its good‑faith argument with undisclosed legal advice, the RCMP had waived privilege over that advice.[6]
+[26] In the context of litigation before this Court, the Appellant has initiated the litigation by appealing its assessment. Its Notice of Appeal raises the issue of its legal expenses. However, if the Appellant is required to reveal privileged information, it is forced to do so because of the Minister’s assumptions listed in the Reply to the Notice of Appeal. Unlike Campbell, and other cases in which an implied waiver has been found,[7] the Appellant in this context has no choice but to put its legal advice in issue. In fact, the litigation arises because the Minister questions the nature of that advice.
+[27] Moreover, fairness and consistency would not operate to find an implied waiver in these circumstances. I accept that, in general, it is problematic to allow a litigant to pick and choose the privileged information to be disclosed. However, in this context it is both fair and reasonable to expect a taxpayer to reveal enough information to satisfy the Court and CRA as to the nature of the legal expense, while keeping the specifics of the lawyer’s advice confidential.
+[28] To find otherwise would create an unreasonable and unacceptable rule. Taxpayers would effectively have the choice of foregoing a proper deduction for legal expenses or revealing to CRA the entirety of their lawyer’s files. Such a rule would be inconsistent with the status accorded to solicitor-client privilege as a substantive and fundamental civil right, and a privilege which must be as close to absolute as possible.[8]
+Conclusion
+[29] When a taxpayer deducts an expense from his or her income, he or she may be called upon to justify that deduction – to convince the Minister, or failing that, the Court, that it is a properly deductible expense. Where the expense is a lawyer’s fee, the proof that is required will often be covered by solicitor-client privilege. While these Interim Reasons are not intended to provide the CRA with a licence to access privileged information, it is clear that a taxpayer who presents a claim for deductions in a return must also accept that at least some disclosure will be necessary to properly dispose of that claim.
+[30] However, to provide the proof that is required, a taxpayer should not be forced to reveal the specifics of its legal advice, or to turn over the lawyer’s entire file. In addition to limited disclosure, the lawyer or the Court may edit documents to remove non-essential material, and the Court may impose conditions to ensure the confidentiality of the information. Further, taxpayers must be allowed to provide the proof that is required without the risk that they will be found to have waived the privilege entirely.
+[31] In light of the insufficient evidence that was adduced, I am unable to reach a fair and just conclusion. As a result of these Interim Reasons, the parties are directed to reconsider their positions. Consequently, I direct that:
+1) On or before June 15th, 2011, the Appellant and lawyers from Olson Lemons shall meet to reconsider what information the Appellant is willing to provide under a limited and partial waiver of solicitor-client privilege in accordance with these Interim Reasons.
+2) On or before July 31st, 2011, a representative of the Respondent shall attend at the offices of Olsen Lemons in Calgary to review the information that the Appellant is willing to provide.
+3) On or before August 31st, 2011, both parties shall report back to the Court in writing.
+Signed at Ottawa, Canada, this 15th day of April 2011.
+“Diane Campbell”
+Campbell J.
+CITATION: 2011 TCC 211
+COURT FILE NO.: 2010-1252(IT)I
+STYLE OF CAUSE: RICHARD A. KANAN CORPORATION AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: November 24, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Diane Campbell
+DATE OF INTERIM REASONS: April 15, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Virginia A. Engel, Q.C.
+Counsel for the Respondent:
+Marla Teeling
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Virginia A. Engel, Q.C.
+Firm: Peacock Linder & Halt LLP
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Respondent’s Written Submissions at para. 56.
+[2] Ss. 231.7(1)(b), 232(1), 232(2), 232(3.1), 232(3) of the Act.
+[3] International Colin Energy Corporation v The Queen, 2002 D.T.C. 2185 at para. 43.
+[4] Respondent’s Written Submissions at para. 60.
+[5] See Alan W. Bryant, Sidney N. Lederman & Michelle K. Fuerst, Sopinka, Lederman & Bryant: The Law of Evidence in Canada, 3d ed. (Markham: LexisNexis, 2009) at 959 [The Law of Evidence], quoting 8 Wigmore (McNaughton rev., 1961) at §2327, at 635-36.
+[6] R. v Campbell, [1999] 1 SCR 565.
+[7] See e.g. Apotex Inc. v Canada (Minister of Health), 2003 FC 1480, aff’d 2004 FCA 280; Rogers v Bank of Montreal, [1985] 4 W.W.R. 508, 62 B.C.L.R. 387 (BCCA); United States v Exxon Corporation (1981), 94 F.R.D. 246 (D.D.C.), quoted in Campbell, supra at para. 69.
+[8] Lavallee, Rackel & Heintz v Canada (Attorney General), 2002 SCC 61 at paras 16-21; R. v McClure, 2001 SCC 14, [2001] S.C.R. 445 at para. 35.

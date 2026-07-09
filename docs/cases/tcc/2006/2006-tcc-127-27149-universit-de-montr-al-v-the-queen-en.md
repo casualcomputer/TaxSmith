@@ -1,0 +1,186 @@
+---
+title: "Université de Montréal v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27149/index.do"
+last_modified: "2006-03-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 127"
+citation2: ""
+neutral_citation: "2006 TCC 127"
+decision_date: "2006-03-14"
+language: "en"
+item_id: "27149"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1018
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:16:24.596000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f81d387058f55ef7a066c37d220f346359f9ab2a7a4c7ed3872a573c7cd1700e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Université de Montréal v. The Queen
+
+- Citation: 2006 TCC 127
+- Decision date: 2006-03-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1018, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Université de Montréal v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-14
+Neutral citation
+2006 TCC 127
+File numbers
+2005-2965(GST)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-2965(GST)G
+BETWEEN:
+UNIVERSITÉ DE MONTRÉAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Motion heard January 30, 2006, at Montréal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Maurice Mongrain
+Counsel for the Respondent:
+Benoît Denis
+____________________________________________________________________
+ORDER
+Upon motion filed by the Respondent under subsection 58(3) of the Tax Court of Canada Rules (General Procedure) that the Court dismiss, with costs, the appeal of the Appellant's assessment established January 31, 2000, by Quebec's Minister of Revenue on behalf of the Minister of National Revenue under Part IX of the Excise Tax Act, R.S.C. (1985), c. E-15, for which the notice is dated January 31, 2000;
+And upon the parties' claims;
+The motion is allowed, with costs, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 14th day of March 2006.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 27th day of June 2006.
+Elizabeth Tan, Translator
+Citation: 2006TCC127
+Date: 20060314
+Docket: 2005-2965(GST)G
+Référence: 2005CCI212
+Date: 20051220
+BETWEEN:
+UNIVERSITÉ DE MONTRÉAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Bédard J.
+[1] This is a motion filed by the Respondent under subsection 58(3) of the Tax Court of Canada Rules (General Procedure) asking the Court to dismiss, with costs, the appeal of the Appellant's assessment established January 31, 2000, by Quebec's Minister of Revenue (the "Minister") on behalf of the Minister of National Revenue under Part IX of the Excise Tax Act, R.S.C. (1985), c. E‑15 (E.T.A.), for which the notice is dated January 31, 2000.
+The facts
+[2] On April 14, 2000, within the prescribed deadline, the Appellant presented a notice of objection to the Minister against the assessment in question. On April 20, 2000, the Minister acknowledged receipt of the notice of objection. On April 26, 2002, in reply to the notice of objection, the Minister, in accordance with subsection 301(5) of the E.T.A., notified the Appellant by certified mail of his decision to confirm the assessment in question. Still on April 26, 2002, a letter enclosed with the decision on the objection was sent to counsel for the Appellant. On or around April 29, 2002, the decision on the objection was received by the Appellant. On August 19, 2005, the Appellant appealed from the assessment established against him. The Court registry acknowledged receipt of the notice of appeal and opened the present case. The Appellant did not, at any time, file a request for additional time to appeal the assessment established against him.
+Appellant's position
+[3] During his arguments, counsel for the Appellant explained that he did not appeal for his client from the assessment in question within the time granted for this purpose because he had only very recently became aware of the Minister's decision to the objection. He explained that he could not know that such a decision had been rendered, not only because he had not received the courtesy letter from the Minister (accompanied by the decision on the objection) dated April 26, 2002, but also because his client had only very recently advised him of the April 2002 reception of the decision to the objection. He explained that his client did not feel he had to advise him earlier because the client's internal counsel found, upon reading the decision on the objection, which I will reproduce as Appendix A, and more particularly upon reading the last two paragraphs of page 2 and the first paragraph of page 3 that it was not necessary to appeal the assessment in question so long as the courts had not ruled on a similar case (La Corporation de l’École Polytechnique de Montréal v. S.M.R.Q. (500-02-082980-009)) that had been appealed. Counsel for the Appellant claimed that his client's internal counsel had correctly interpreted the decision on the objection and asks, for all these reasons, that the Minister's motion be dismissed.
+Analysis
+[4] First, I feel that the decision on the objection does not leave room for interpretations. In fact, it is clear upon reading the decision that the Appellant had to appeal the assessment within the deadline given in order to protect his rights in case the Court did not overturn the Minister's position in Corporation de l’École Polytechnique de Montréal. At most, the decision implied that the Appellant's rights would be protected in case the Court overturned the Minister's position in the case.
+[5] In regard to the explanations given by counsel for the Appellant about not having appealed the assessment within the prescribed time, I must state that they might have been sufficient, if the evidence had been there, for the Court to allow an application for additional time to appeal the assessment in question. Unfortunately, under paragraph 305(5)(a) of the E.T.A., the deadline to file such an application expired July 25, 2003.
+[6] On Thursday, July 25, 2002, the deadline to appeal the assessment in question expired, in accordance with section 306 in fine of the E.T.A., and the Appellant had not filed such a notice to appeal. As a result, I feel that, under section 306 of the E.T.A., the Court simply does not have jurisdiction over this assessment because the notice of appeal from the assessment was filed with the Court registry past the deadline, more than three years after the date the deadline expired.
+[7] For all these reasons, the motion is allowed with costs.
+Signed at Ottawa, Canada, this 14th day of March 2006.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 27th day of June 2006.
+Elizabeth Tan, Translator
+APPENDIX A
+[translation]
+CERTIFIED LC 034 027 025
+Montréal, April 26, 2002
+Université de Montréal
+2900 Boul. Edouard Montpetit
+P.O. Box 6128 Succ. Centre Ville
+Montréal, Quebec
+H3G 3J7
+Subject: Notice of Objection
+Our Ref: 156619-156620
+Dear Sir:
+Further to your notice of objection, the decision on the objection regarding the period of 1994-06-01 to 1997-05-31 is as follows:
+The assessment was established in accordance with legal provisions, in particular, but without restricting the preceding generality, regarding:
+EXCISE TAX ACT
+1. the interest and penalties were calculated in accordance with the provisions of the Excise Tax Act.
+2. provision by the Université de Montréal of a licence for exploiting and marketing intellectual property to a "SPEQ" is an exempted supply under the general exemption terms of section 2 of Part VI of Schedule V of the Excise Tax Act. As a result, the tax paid by the Université de Montréal during the acquisition of the intellectual property rights does not lead to an input tax rebate credit. The $1,111,947.44 adjustment was assessed in accordance with the provisions of section 169 of the Excise Tax Act.
+This application of the Act was appealed in Corporation de l’École Polytechnique de Montréal v. La Reine (2000-386(GST)G).
+The ministère du Revenu du Québec adopted an administrative policy that releases you from the obligation to exercise your legal remedies to protect your rights in case the court overturns the position adopted by the ministère du Revenu du Québec.
+To this effect, the ministère du Revenu du Québec is committed to amending the assessments affected by the present decision on the objection in accordance with the principles that will be stated in the final judgment in Polytechnique, where appropriate.
+ACT RESPECTING THE QUEBEC SALES TAX
+1. interest was calculated in accordance with the provisions of the Department of National Revenue Act.
+2. the fees of $197,610.21 assessed for the acquisition of periodicals were assessed in accordance with the provisions in sections 17, 81(8) and 81(8.1) of the Act respecting the Québec sales tax.
+3. the provision by the Université de Montréal of a licence for exploiting and marketing intellectual property to a "SPEQ" is an exempted supply under the general exemption terms of article 141 of the Act respecting the Québec Sales Tax. Moreover, the acquisition of intellectual property rights by the Université de Montréal does not qualify as a non-taxable supply as defined under article 1 of the Act respecting the Québec sales tax before it was quashed.
+As a result, the tax paid by the Université de Montréal when the intellectual property rights were acquired does not lead to an input tax refund. The fees of $602,662.98 were therefore assessed in accordance with the provisions of article 199 of the Act respecting the Québec sales tax.
+This application of the Act was appealed in La Corporation de l’École Polytechnique de Montréal v. SMRQ (500-02-082980-009).
+The ministère du Revenu du Québec adopted an administrative policy that releases you from the obligation to exercise your legal remedies to protect your rights in case the court overturns the position adopted by the ministère du Revenu du Québec.
+To this effect, the ministère du Revenu du Québec is committed to amending the assessments affected by the present decision on the objection in accordance with the principles that will be stated in the final judgment in Polytechnique, where appropriate.
+For any specifications, additional information or, where relevant, a copy of the memorandum on objection, please feel free to contact the undersigned.
+In case you wish to appeal this decision before the courts, please refer to the flyer, "Renseignements sur les recours judiciaires" [Information on judicial remedies] and "Appel à la Cour canadienne de l’impôt concernant la TPS/TVH" [Appeals to the Tax Court of Canada regarding GST/HST], attached.
+Sincerely,
+Lucie Leduc, Counsel
+Objections Branch - Montréal
+Deposit D192LO
+Tel.: (514) 287-8324 or 1-888-830-8808 (ex. 8324)
+/jc
+Encl.
+C.C. Maurice Mongrain, Counsel
+CITATION:
+2006TCC127
+COURT FILE No.:
+2005-2965(GST)G
+STYLE OF CAUSE:
+Université de Montréal and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+January 30, 2006
+REASONS FOR ORDER BY:
+The Honourable Justice Paul Bédard
+DATE OF ORDER:
+March 14, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Maurice Mongrain
+Counsel for the Respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Maurice Mongrain
+Firm:
+Desjardins Ducharme, s.e.n.c.r.l.
+Montréal, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

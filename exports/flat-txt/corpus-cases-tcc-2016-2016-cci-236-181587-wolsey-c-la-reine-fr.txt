@@ -1,0 +1,240 @@
+Title: Wolsey c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/181587/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-236-181587-wolsey-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-10-24
+
+# Wolsey c. La Reine
+
+- Citation: 2016 CCI 236
+- Decision date: 2016-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2981, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wolsey c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-10-24
+Référence neutre
+2016 CCI 236
+Numéro de dossier
+2005-4409(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4409(IT)G
+ENTRE :
+GEORGE WOLSEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue les 23 et 24 août et les 15 et 16 septembre 2016,
+à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Avocat de l’appelant :
+Me Daniel Barker
+Avocates de l’intimée :
+Me Johanna Russell
+Me Pavanjit Mahil-Pandher
+JUGEMENT
+La demande de George Wolsey visant à annuler le rejet de son appel du 9 octobre 2014 relatif aux années d’imposition 2000, 2001 et 2002 aux termes du paragraphe 140(2) des Règles de la Cour canadienne de l’impôt (procédure générale) est rejetée.
+Les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2016.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 30e jour de novembre 2017.
+Mario Lagacé, jurilinguiste
+Référence : 2016 CCI 236
+Date : 20161024
+Dossier : 2005-4409(IT)G
+ENTRE :
+GEORGE WOLSEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] L’appel interjeté par George Wolsey à l’égard des années d’imposition 2000, 2001 et 2002 a été rejeté lorsqu’il a fait défaut de comparaître à l’audience sur l’état de l’instance. M. Wolsey fait valoir qu’il a fait défaut de comparaître à l’audience sur l’état de l’instance parce qu’il ignorait que l’audience allait avoir lieu et ne savait pas que son avocat s’était retiré du dossier. L’intimée ne croit pas l’explication de M. Wolsey. L’intimée croit que le défaut de M. Wolsey de comparaître faisait partie de ce que l’intimée considère être une tentative de longue date de retarder la poursuite de son appel.
+[2] Le paragraphe 140(2) des Règles de la Cour canadienne de l’impôt (procédure générale) permet à la Cour d’annuler le rejet pour défaut de comparution à une audience sur l’état de l’instance. En vertu de cette règle, M. Wolsey a demandé que le rejet soit annulé.
+[3] L’appel de M. Wolsey porte sur la nouvelle cotisation d’environ 1,165 million de dollars en revenus, avantages conférés à l’actionnaire et gains en capital provenant d’une société appelée Delivery Drugs Ltd et qui, prétendument, n’auraient pas été déclarés. Le ministre du Revenu national allègue que M. Wolsey a ordonné que plusieurs de ces montants soient payés à des sociétés, dont 892370 Alberta Ltd. dba Professional Services Company (« PSC »). L’argument principal de M. Wolsey semble être que le revenu en question était le revenu de PSC et non le sien. PSC n’avait jamais produit de déclarations de revenus.
+[4] M. Wolsey a interjeté appel en 2005, mais la période pertinente aux fins de la présente demande est de juin à octobre 2014. Plus précisément, les principaux événements sont une audience sur l’état de l’instance du 27 août 2014, la révocation de l’avocat inscrit au dossier le 17 septembre 2014 et, finalement, l’audience sur l’état de l’instance du 9 octobre 2014, à laquelle M. Wolsey a fait défaut de se présenter.
+[5] Je vais établir le critère à utiliser pour annuler un rejet. Avant de me pencher sur la question de savoir si M. Wolsey a satisfait à ce critère, je vais d’abord décrire le professionnel qui a agi pour lui, discuter de diverses questions relatives au secret professionnel liant l’avocat à son client et formuler des commentaires au sujet de la crédibilité générale de M. Wolsey.
+I. Critère à utiliser pour annuler un rejet [6] Le paragraphe 140(2) des Règles permet aux contribuables de demander l’annulation d’un rejet dans les 30 jours suivant le rejet. Deux critères doivent être satisfaits pour annuler le rejet en vertu du paragraphe 140(2) des Règles lorsque le contribuable présente une demande dans le délai prescrit. Le contribuable doit démontrer (Burke c. La Reine[1], Jamieson c. La Reine[2], Amethyst Greenhouses Ltd. c. La Reine[3]) :
+a) qu’il a une cause défendable; et
+b) qu’il a une explication raisonnable pour avoir fait défaut de comparaître à l’audience.
+[7] L’intimée ne conteste pas le fait que M. Wolsey a une cause défendable. Ainsi, la seule question est de savoir si M. Wolsey a fourni une explication raisonnable pour avoir fait défaut de comparaître à l’audience sur l’état de l’instance du 9 octobre 2014.
+II. Représentation professionnelle et privilèges [8] En juin 2014, l’avocat inscrit au dossier de M. Wolsey était Sukhminder Virk. Me Virk a été appelé à témoigner par l’intimée. J’ai conclu que Me Virk était un témoin crédible. Comme M. Wolsey attaque indirectement la conduite du litige par Me Virk, je tiens à préciser très clairement que tous les éléments de preuve dont je dispose indiquent que Me Virk a agi en tout temps de manière professionnelle et n’est nullement responsable du défaut de M. Wolsey de comparaître à l’audience sur l’état de l’instance du 9 octobre.
+[9] J’ai conclu que les communications entre Me Virk et M. Wolsey relatives au retrait de Me Virk du dossier, à l’audience sur l’état de l’instance du 27 août et à l’audience sur l’état de l’instance du 9 octobre n’étaient pas protégées. J’en arrive à cette conclusion pour trois motifs. Premièrement, M. Wolsey a précisément remis en cause ces communications dans la présente demande. Deuxièmement, si un contribuable n’assiste pas à une audience sur l’état de l’instance, le paragraphe 125(4) des Règles exige précisément que l’avocat produise une preuve établissant qu’il a avisé le contribuable de cette audience sur l’état de l’instance. Ainsi, la communication entre l’avocat et son client quant à l’existence d’une audience sur l’état de l’instance est une communication qui n’est pas de nature confidentielle. Enfin, si l’avocat veut se retirer du dossier, l’article 33 des Règles exige expressément que l’avocat signifie un avis d’intention de cesser d’occuper comme avocat à son client et à l’intimé. L’article 33 exige également que l’avocat dépose cet avis, accompagné d’une preuve de signification, auprès de la Cour. Ainsi, la communication entre l’avocat et son client par laquelle le client est informé que l’avocat cesse d’agir pour son compte n’est pas de nature confidentielle.
+[10] PSC était représentée par un groupe de conseillers fiscaux appelé Avocis Tax Group LLP. L’un des directeurs d’Avocis était un homme nommé Balbindra Singh. M. Singh a témoigné qu’Avocis ne représentait pas M. Wolsey en ce qui a trait à son dossier concernant ses impôts personnels. Je n’accepte pas ce témoignage. Il est contredit par la preuve documentaire et par la conduite de M. Singh. Je suis d’avis qu’Avocis représentait M. Wolsey et PSC. J’ai constaté que M. Singh avait une mauvaise mémoire. En outre, j’ai constaté qu’il était souvent confus ou n’écoutait pas attentivement les questions qui lui étaient posées, de telle sorte que je n’ai pas eu l’assurance que ses réponses étaient exactes. J’ai donc accordé moins de poids au témoignage de M. Singh et, lorsqu’il était contredit par la preuve d’un témoin plus crédible, j’ai préféré cette preuve.
+[11] Un avocat nommé Gavin Laird a également travaillé avec M. Wolsey et/ou PSC d’une certaine manière au cours des mois d’août, de septembre et d’octobre 2014. Me Laird n’est jamais venu témoigner devant la Cour. J’ai conclu que les communications entre M. Wolsey et Me Laird, y compris la question de savoir si Me Laird était mandaté et la nature de son mandat, étaient protégées. J’ai aussi conclu que M. Wolsey n’avait généralement pas renoncé à ce privilège. L’exception à cette conclusion était liée aux courriels que M. Wolsey niait avoir reçus de Me Virk. M. Wolsey a clairement soulevé la question de la réception de ces courriels. Dans la mesure où de tels courriels ont été transmis à Me Laird par M. Wolsey, cela amène directement la question de savoir si M. Wolsey les a reçus. Par conséquent, j’ai conclu que M. Wolsey avait renoncé au privilège sur toute communication avec Me Laird par laquelle M. Wolsey avait transmis de tels courriels ou par laquelle lui-même ou d’autres personnes avaient communiqué avec Me Laird d’une manière qui indiquait qu’il avait reçu ces courriels[4].
+III. Crédibilité [12] Avant d’aborder les événements en question, j’aimerais faire quelques observations générales sur la crédibilité de M. Wolsey. Mon appréciation de cette crédibilité a une incidence importante sur mon interprétation de l’opinion de M. Wolsey à l’égard de ces événements.
+[13] J’estime que M. Wolsey n’est pas crédible. Il s’est montré très évasif au cours de son contre-interrogatoire. Il a fourni des explications invraisemblables à l’égard d’un certain nombre d’événements[5]. La preuve documentaire montre clairement qu’il a induit la Cour en erreur dans son affidavit et dans son témoignage oral. En outre, il se souvenait incroyablement peu des événements survenus il y a deux ans à peine, sachant très peu de temps après que ces événements lui seraient d’une très grande importance.
+[14] Deux principaux exemples du manque de crédibilité de M. Wolsey se rapportent à l’utilisation par M. Wolsey d’une adresse électronique se terminant par « shaw.ca » (« l’adresse électronique Shaw ») et à son utilisation d’un téléphone cellulaire avec un indicatif régional 604 (le « téléphone 604 »)[6]. L’explication de M. Wolsey pour ne pas avoir comparu à l’audience sur l’état de l’instance du 9 octobre 2014 est tributaire du fait qu’il n’a pas reçu certains courriels envoyés à l’adresse courriel Shaw et qu’il n’a pas reçu certains messages laissés dans la boîte vocale du téléphone 604. L’adresse électronique Shaw a été utilisée par au moins trois cabinets d’avocats, un cabinet de conseil fiscal, l’avocate de l’intimée et la Cour elle-même pour correspondre avec M. Wolsey. Le téléphone 604 a été utilisé par au moins deux cabinets d’avocats, un cabinet de conseil fiscal et la Cour elle-même pour communiquer avec M. Wolsey ou tenter de communiquer avec lui.
+[15] M. Wolsey a raconté une histoire improbable sur son utilisation de l’adresse électronique Shaw et du téléphone 604. M. Wolsey a déclaré que l’adresse électronique Shaw n’était pas son adresse électronique personnelle et que le téléphone 604 n’était pas son téléphone personnel. M. Wolsey est pharmacien. Il a témoigné que l’adresse électronique Shaw et le téléphone 604 appartenaient à une pharmacie. Il a témoigné qu’il n’était ni actionnaire, administrateur ou dirigeant de la pharmacie, ni lié à une personne qui l’était. Il a déclaré qu’il n’était pas employé par la pharmacie. Il a expliqué qu’il a offert des analyses de gestion et de système à la pharmacie, mais n’était pas payé pour son travail[7].
+[16] M. Wolsey a témoigné que l’adresse électronique Shaw était une adresse électronique générale utilisée par la pharmacie pour les questions qui ne concernaient pas les clients. Il a déclaré que le gérant de la pharmacie, quelques techniciens en pharmacie et un livreur avaient tous accès à l’adresse courriel Shaw. Il a affirmé qu’il ne connaissait pas le mot de passe pour accéder au compte de courriel Shaw, raison pour laquelle il pouvait seulement ouvrir une session à partir du compte de la pharmacie elle-même. Il a également expliqué qu’il n’avait pas accès à la pharmacie à moins que les membres du personnel fussent présents. Il a précisé qu’il n’aurait pas eu accès à l’adresse électronique Shaw régulièrement en août, septembre ou octobre 2014[8]. M. Wolsey suggère implicitement dans son témoignage que l’une des autres personnes qui avaient accès à l’adresse courriel Shaw a peut-être supprimé les courriels qui lui ont été envoyés avant qu’il ne les voie. M. Wolsey s’est montré évasif lorsqu’on lui a demandé pourquoi il n’avait pas créé une adresse électronique privée pour ces communications[9]. Il savait manifestement comment créer un tel compte et y accéder[10].
+[17] M. Wolsey a témoigné que le téléphone 604 était le téléphone de la pharmacie et était utilisé par d’autres personnes à la pharmacie, y compris le livreur qui le prenait avec lui dans sa voiture. M. Wolsey a expliqué que la pharmacie utilisait le téléphone pour communiquer avec lui quand on avait besoin d’aide[11].
+[18] L’histoire de M. Wolsey est tout à fait improbable. Il voudrait me faire croire qu’il fournit des services à une pharmacie dans laquelle il n’a aucun intérêt financier en échange de l’accès partagé à l’adresse électronique de la pharmacie de temps à autre lorsqu’il se trouve physiquement sur les lieux et de l’accès à un téléphone cellulaire qui est également utilisé par le livreur de la pharmacie. Plus incroyable encore, il voudrait me faire croire qu’il n’avait pas d’autre numéro de téléphone au cours de la période en question et qu’il a choisi d’utiliser cette adresse courriel partagée pour communiquer avec ses avocats et ses conseillers professionnels en ce qui a trait à son dossier concernant ses impôts personnels et à son procès, sans la moindre préoccupation que de telles affaires privées puissent être lues par d’autres personnes à la pharmacie.
+[19] Non seulement l’histoire de M. Wolsey est tout à fait improbable, mais c’est aussi une histoire qu’il a mentionnée pour la première fois à l’audience. Nulle part dans son affidavit n’a-t-il fourni de tels renseignements. Il n’a fourni aucune preuve documentaire à l’appui de sa thèse et aucun témoignage par affidavit de personnes travaillant à la pharmacie. Je tire de cette omission une inférence défavorable. M. Wolsey a expliqué que la pharmacie avait fermé ses portes en juin 2015 et qu’il ne savait pas comment communiquer avec quelqu’un de la pharmacie. M. Wolsey a présenté sa demande à l’automne 2014. Il a eu amplement le temps, avant la fermeture de la pharmacie, de recueillir les éléments de preuve dont il avait besoin sur une question aussi importante.
+[20] Enfin, certains éléments de l’histoire de M. Wolsey se sont révélés faux. Les éléments de preuve documentaire indiquent que M. Wolsey avait activement envoyé et reçu des courriels au moyen de l’adresse électronique Shaw en août, septembre et octobre 2014. Qui plus est, il a été révélé que M. Wolsey a effectivement reçu certains courriels clés qu’il niait avoir reçus.
+[21] Non seulement ce qui précède nuit à la crédibilité générale de M. Wolsey, mais cela m’empêche également de croire les explications de M. Wolsey concernant son accès à l’adresse électronique Shaw, sa réception de courriels envoyés à cette adresse électronique, son accès au téléphone 604 et sa réception de messages vocaux laissés à ce sujet. D’après les éléments de preuve dont je dispose, je conclus que M. Wolsey avait un accès illimité à l’adresse électronique Shaw et au téléphone 604, qu’il utilisait régulièrement pour communiquer pendant la période en question, et qu’il avait reçu des courriels envoyés à l’adresse électronique Shaw et tous les messages laissés dans la boîte vocle du téléphone 604 pendant cette période.
+IV. M. Wolsey a-t-il fourni une explication raisonnable pour sa non-comparution? [22] Pour obtenir l’annulation du rejet de son appel, M. Wolsey doit démontrer qu’il a une explication raisonnable pour ne pas avoir assisté à l’audience sur l’état de l’instance du 9 octobre 2014. L’explication de M. Wolsey est qu’il n’a pas assisté à l’audience sur l’état de l’instance parce qu’il n’en a pas été informé. Il déclare qu’il n’en a pas été informé parce qu’il :
+a) n’était pas au courant de la tenue de l’audience sur l’état de l’instance du 27 août 2014 (suite à laquelle l’audience sur l’état de l’instance du 9 octobre 2014 a été fixée et un délai a été fixé pour que Me Virk se retire du dossier);
+b) ignorait que Me Virk s’était retiré du dossier; et
+c) n’était pas au courant de la tenue de l’audience sur l’état de l’instance du 9 octobre 2014.
+[23] Aucune des déclarations ci-dessus n’est crédible. Dans une annexe des présents motifs, j’ai exposé les détails de chaque communication avec les conseillers professionnels de M. Wolsey, mon analyse de ces communications et les renvois aux éléments de preuve pertinents. Voici un résumé de mes conclusions :
+a) 27 août 2014 – Audience sur l’état de l’instance : Me Virk a envoyé à M. Wolsey deux courriels avant l’audience sur l’état de l’instance du 27 août afin de l’informer de la tenue de cette audience et d’un rapport par courriel sur cette audience. Les éléments de preuve documentaire montrent que M. Wolsey a reçu ces trois courriels. La preuve démontre également que M. Wolsey a communiqué avec d’autres personnes tout en faisant fi des tentatives de Me Virk d’obtenir des directives avant l’audience sur l’état de l’instance du 27 août. Je conclus que M. Wolsey était bien au courant de l’audience sur l’état de l’instance du 27 août et qu’il a choisi de ne pas communiquer avec Me Virk avant cette audience.
+b) Retrait du dossier : Me Virk a envoyé un courriel à M. Wolsey à deux reprises, cherchant à obtenir ses directives concernant son retrait du dossier. Il lui a ensuite envoyé un courriel et pour l’informer qu’il allait se retirer du dossier à une date précise. Il lui a ensuite laissé de nombreux messages vocaux lui indiquant qu’il comptait se retirer du dossier. Il lui a ensuite envoyé deux fois un avis d’intention de cesser d’occuper comme avocat. Enfin, il lui a envoyé une copie de la lettre de la Cour indiquant qu’il avait été retiré du dossier, un courriel qu’il ne fait aucun doute que M. Wolsey a reçu puisqu’il l’a transmis deux fois à d’autres personnes. Compte tenu de tout ce qui précède, je conclus que M. Wolsey savait non seulement que Me Virk s’était retiré comme avocat, mais qu’il avait également été amplement averti de son intention de le faire.
+c) Audience du 9 octobre 2014 : Me Virk a envoyé un courriel à M. Wolsey pour l’informer qu’une audience sur l’état de l’instance aurait lieu au cours d’une période de deux semaines en octobre. Il a ensuite envoyé à M. Wolsey un courriel avec une copie de l’ordonnance du tribunal du 2 septembre 2014 établissant l’audience sur l’état de l’instance du 9 octobre. Enfin, le greffe a laissé des messages vocaux à M. Wolsey à deux occasions différentes, lui rappelant l’audience sur l’état de l’instance du 9 octobre. Compte tenu de tout ce qui précède, je conclus que M. Wolsey était au courant de l’audience sur l’état de l’instance du 9 octobre.
+[24] Afin de pouvoir faire annuler le rejet, M. Wolsey doit fournir une explication raisonnable de sa non-comparution. Compte tenu de tout ce qui précède, je conclus qu’il n’a fourni aucune explication. Une explication invraisemblable ne vaut guère mieux qu’aucune explication. L’affirmation « Mon chien a mangé mes devoirs » ne peut être qualifiée d’explication que si vous avez un chien.
+[25] Il ne s’agit pas d’un cas où le contribuable a fourni une explication et où je dois déterminer si, compte tenu de toutes les circonstances, cette explication est raisonnable. Si M. Wolsey avait soutenu qu’il était au courant de l’audience sur l’état de l’instance, mais qu’il croyait à tort que quelqu’un (Me Virk ou Me Laird peut-être) allait assister en son nom, j’aurais pu envisager cette explication. S’il avait soutenu qu’il était au courant de l’audience sur l’état de l’instance, mais croyait que la pire chose qui puisse arriver s’il ne comparaissait pas était l’inscription de l’appel au rôle pour audition par la Cour, j’aurais encore une fois pu envisager cette explication. S’il avait soutenu qu’il était au courant de l’audience sur l’état de l’instance, mais qu’il ne pouvait pas se permettre de retenir les services d’un avocat et qu’il espérait qu’en ne participant pas à l’audience sur l’état de l’instance, il pourrait retarder l’appel jusqu’à ce qu’il soit dans une situation financière qui lui permette de retenir les services de quelqu’un, j’aurais encore une fois pu envisager cette explication. Je ne dis pas que j’aurais nécessairement annulé le rejet dans l’une de ces circonstances, mais, au moins, j’aurais eu une explication que j’aurais pu envisager avant de prendre une décision. M. Wolsey ne m’a pas laissé cette option.
+V. Dois-je adopter une perspective plus large? [26] M. Wolsey me demande d’adopter une perspective plus large. Il dit que, même si je conclus qu’il était au courant de l’audience sur l’état de l’instance du 9 octobre, je devrais néanmoins examiner si, compte tenu de toutes les circonstances, le rejet devrait être annulé.
+[27] M. Wolsey soutient que les nouvelles cotisations sont très importantes et qu’il serait injuste de le priver de sa chance de les contester. Je conviens que les nouvelles cotisations sont très importantes. M. Wolsey soutient également que l’appel est prêt pour le procès de sorte qu’il serait inapproprié de l’arrêter si près d’une décision. Je n’ai aucune preuve étayant que M. Wolsey était prêt pour le procès en 2014, mais je reconnais qu’il a maintenant indiqué qu’il était disposé à ce que l’affaire soit inscrite au rôle de façon péremptoire.
+[28] Si M. Wolsey m’avait présenté une explication crédible de la raison pour laquelle il avait omis de se présenter, j’aurais pu déterminer s’il me fallait tenir compte de ces considérations plus larges. Sans une telle explication, je ne suis pas prêt à le faire. Si je devais annuler le retrait sans autre forme d’explication pour la non-comparution de M. Wolsey simplement parce qu’il a beaucoup d’argent en jeu et qu’il est prêt pour le procès, qu’est-ce qui empêcherait tous les autres appelants d’en faire de même? M. Wolsey a fait fi d’une ordonnance de la Cour et n’a fourni aucune explication crédible quant aux raisons pour lesquelles il a agi de la sorte. Ce n’est pas mon rôle d’imaginer une excuse pour lui.
+[29] Dans les cas où la Cour a examiné le montant de la somme que le contribuable contestait, le contribuable avait au moins fourni une explication raisonnable (Izumi c. La Reine[12], Speciale c. La Reine[13]). Même dans la décision GMC Distribution Ltd. c. La Reine[14], où la Cour a accordé une grande importance au montant en litige et statué en faveur du contribuable malgré la conclusion que l’explication du contribuable quant à sa non-comparution n’était pas raisonnable, le contribuable avait au moins une explication crédible; peut-être pas une explication particulièrement convaincante ou complète, mais crédible.
+[30] Si je me trompe et que j’aurais dû adopter une perspective plus large, même si M. Wolsey n’a pas fourni d’explication crédible pour sa non-comparution, j’aurais examiné la conduite de M. Wolsey entre le moment où son appel a été interjeté en 2005 et le moment où son appel a été rejeté à l’audience sur l’état de l’instance du 9 octobre 2014. J’aurais aussi examiné sa conduite au cours des 21 mois qui se sont écoulés avant que cette demande soit entendue. Tout de la conduite de M. Wolsey pendant ces périodes ne révèle pas quelqu’un qui désire désespérément résoudre son problème fiscal, mais plutôt quelqu’un qui désire désespérément en retarder la résolution. M. Wolsey a souvent fait fi des délais ordonnés par la Cour, a omis de demander la prorogation de ces délais jusqu’à ce que la Cour ou l’intimée l’y oblige et, avant et après l’audience sur l’état de l’instance du 9 octobre, a omis de fournir à la Cour et à son avocat ses coordonnées à jour. Si je devais adopter une perspective plus large, ce serait celle que décrit le juge Campbell à l’égard d’un contribuable placé dans la même situation dans la décision Jamieson c. La Reine[15] :
+[...] il faut, à un certain moment, que le bon sens prévale et que des plages soient réservées dans le rôle d’audience de la Cour pour les contribuables qui tentent sincèrement de respecter les ordonnances judiciaires et de faire instruire leurs appels. L’approche suivie par l’appelant dans ses appels cause un préjudice à ces contribuables. Je dois déduire de l’inaction de l’appelant en l’espèce et de sa façon de retarder l’affaire à l’infini qu’il n’a aucun désir de voir un jour la Cour statuer sur ses appels.
+VI. Conclusion [31] Compte tenu de tout ce qui précède, la demande est rejetée.
+VII. Dépens [32] Les dépens sont adjugés à l’intimée. J’espère que les parties parviendront à un accord sur les dépens. En s’efforçant de parvenir à un accord, M. Wolsey voudra peut-être garder à l’esprit que j’ai la forte impression que son comportement tout au long de la présente demande a inutilement prolongé la procédure. Vue collectivement, la série d’événements malheureux qui ont nécessité quatre ajournements de cette affaire (chacun juste avant, la veille ou pendant l’audience) commence à prendre l’apparence d’un retard intentionnel et d’un abus de la bonne volonté de la Cour. La tentative surprise de M. Wolsey d’ajourner l’audience une cinquième fois devant moi le matin de l’audience ne fait que renforcer cette impression. À moins que M. Wolsey soit en mesure de me convaincre que mon impression est fausse, toute décision que je suis tenu de rendre à l’égard des dépens tiendra compte de ce point de vue.
+[33] Si les parties ne parviennent pas à s’entendre, elles disposent d’un délai de 30 jours à compter de la date du présent jugement pour me présenter leurs observations relativement aux frais et dépens.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2016.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 30e jour de novembre 2017.
+Mario Lagacé, jurilinguiste
+Annexe Analyse détaillée des communications a) Dans la présente annexe, toutes les références à M. Wolsey envoyant ou recevant des courriels sont des références à son adresse courriel Shaw, et toutes les références à ses messages vocaux sont des références au téléphone 604.
+Avant juin 2014 b) À un moment donné, les déclarations de revenu ont été déposées pour PSC par Avocis. Je crois comprendre que ces déclarations ont rapporté une partie ou la totalité du revenu en question. Le ministre a vérifié les déclarations et a finalement refusé de les traiter tel qu’elles ont été produites. Au lieu de cela, le ministre a établi des cotisations « portant qu’aucun impôt n’était payable ». PSC s’est opposée à ces cotisations « portant qu’aucun impôt n’était payable ». Les parties ont demandé à la Cour de suspendre l’appel de M. Wolsey en attendant que l’opposition soit réglée.
+Juin 2014 c) Une audience sur l’état de l’instance de M. Wolsey a eu lieu le 10 juin 2014. Lors de l’audience sur l’état de l’instance, les parties ont demandé à la Cour de poursuivre le maintien de l’appel en suspens jusqu’à ce que l’opposition de PSC soit résolue, et elles ont avisé la Cour que cela devrait se produire à la mi-juillet. Me Virk a assisté à l’audience sur l’état de l’instance au nom de M. Wolsey.
+d) À la suite de l’audience sur l’état de l’instance du 10 juin, la Cour a rendu une ordonnance datée du 12 juin 2014. L’ordonnance prévoyait que l’audience sur l’état de l’instance suivante aurait lieu le 27 août 2014 par conférence téléphonique[16].
+e) M. Wolsey nie avoir été informé de l’audience sur l’état de l’instance du 27 août[17].
+f) Le 17 juin 2014, Me Virk a envoyé une copie de l’ordonnance du 12 juin à M. Wolsey[18]. M. Wolsey a accusé réception de ce courriel avec son propre courriel daté du 18 juin 2014[19]. C’était la première fois que Me Virk informait M. Wolsey de l’audience sur l’état de l’instance du 27 août.
+Juillet 2014 g) Dans une lettre datée du 30 juillet 2014, la Division des appels de l’ARC a informé M. Singh que l’avis d’opposition de PSC était invalide (comme on ne peut s’opposer à une cotisation « portant qu’aucun impôt n’est payable »), que la Division des appels de l’ARC avait examiné l’opposition [TRADUCTION] « par courtoisie et de manière officieuse », et que cet examen était maintenant terminé[20].
+h) Le 30 juillet 2014, Me Virk a envoyé un courriel à M. Wolsey. Il a déclaré que ses services avaient été retenus pour solliciter la suspension de l’appel en attendant que l’opposition de PSC soit réglée. Étant donné que la question était maintenant résolue, Me Virk a indiqué que M. Wolsey devrait soit retenir les services d’un autre avocat, soit se présenter seul, soit convenir d’un nouveau mandat de représentation avec Me Virk[21]. M. Wolsey a manifestement reçu ce courriel puisqu’il l’a transmis à M. Singh le 31 juillet[22].
+i) À la suite de la décision rendue par la Division des appels de l’ARC, il n’y avait plus de raison pour que l’appel soit maintenu en suspens. Tout doute à ce sujet a été dissipé par une nouvelle lettre de la Division des appels de l’ARC datée du 31 juillet 2014[23].
+Août 2014 j) Le 11 août 2014, Me Virk a envoyé un courriel à M. Wolsey. Il soumettait différentes questions. Il déclarait avoir parlé à l’avocate de l’intimée, qui avait confirmé que l’affaire de la Division des appels de l’ARC avec PSC était réglée. Il a rappelé à M. Wolsey l’audience suivante sur l’état de l’instance du 27 août, a informé M. Wolsey que l’intimée estimait que l’appel était prêt à être inscrit au rôle et l’a informé qu’ils étaient convenus que l’audience devait avoir une durée de cinq jours à Vancouver. Il a rappelé à M. Wolsey son courriel du 30 juillet et les questions soulevées concernant son mandat de représentation. Enfin, il a demandé à M. Wolsey s’ils pouvaient se rencontrer. Il ne fait aucun doute que M. Wolsey a reçu ce courriel puisqu’il l’a transmis à M. Singh le même jour, lui demandant son opinion et suggérant que [TRADUCTION] « l’utilité de Me Virk devait être examinée »[24]. C’était la deuxième fois que Me Virk informait M. Wolsey de l’audience sur l’état de l’instance du 27 août.
+k) Je trouve significatif que M. Wolsey n’ait pas répondu aux courriels du 30 juillet ou du 11 août de Me Virk, mais qu’il ait pourtant transmis ces deux courriels à M. Singh. Je conclus que M. Wolsey évitait de donner des instructions à Me Virk.
+l) Le 20 août 2014, Me Virk a envoyé un courriel à M. Singh. Me Virk a indiqué que M. Wolsey n’avait pas répondu à son dernier courriel et avait demandé l’aide de M. Singh pour communiquer avec M. Wolsey. Le courriel soulignait la nécessité de déterminer la disponibilité de M. Wolsey afin de pouvoir fixer des dates de procès[25]. J’ai trouvé peu fiable l’indication de M. Singh selon laquelle il avait transmis cette demande à M. Wolsey et je n’y ai accordé aucune importance. Je conclus que ce courriel n’est qu’une preuve que le 20 août, Me Virk n’avait toujours pas reçu d’instructions et tentait de rectifier cette situation.
+m) L’audience sur l’état de l’instance a eu lieu le 27 août 2014. Me Virk a assisté à l’audience au nom de M. Wolsey. À ce moment, il n’avait toujours pas reçu d’instructions de la part de M. Wolsey[26]. M. Wolsey n’a pas expliqué pourquoi il n’avait pas donné d’instructions.
+n) À l’audience sur l’état de l’instance du 27 août, Me Virk a informé la Cour qu’il avait l’intention de cesser d’occuper comme avocat de M. Wolsey. La Cour a ordonné à Me Virk de signifier et de déposer un avis d’intention de cesser d’occuper comme avocat au plus tard le 15 septembre 2014. La Cour a donné à M. Wolsey jusqu’au 26 septembre 2014 pour retenir les services d’un nouvel avocat et demander à cet avocat de signifier et de déposer un avis d’intention d’occuper. Enfin, la Cour a indiqué qu’une nouvelle audience sur l’état de l’instance aurait lieu au début du mois d’octobre[27].
+o) À ce stade-ci, il convient de noter que M. Wolsey a explicitement déclaré dans son affidavit qu’il n’a reçu aucune communication de Me Virk du 27 août au 9 octobre 2014[28]. Comme nous le verrons ci-dessous, c’est faux.
+p) Le 27 août 2014, à la suite de l’audience sur l’état de l’instance, Me Virk a envoyé un courriel à M. Wolsey pour faire un suivi concernant l’audience sur l’état de l’instance. C’était la troisième fois que M. Wolsey était informé de l’audience sur l’état de l’instance du 27 août. Me Virk a confirmé qu’il n’avait toujours pas reçu de directives de M. Wolsey. Me Virk a déclaré à M. Wolsey que l’intimée voulait inscrire l’appel au rôle, mais que Me Virk avait, [TRADUCTION] « par courtoisie », négocié avec l’intimée en vue d’accorder un certain délai à M. Wolsey afin qu’il puisse retenir les services d’un nouvel avocat. Me Virk a déclaré qu’il serait retiré du dossier le 10 septembre 2014, ce qui donnait à M. Wolsey environ deux semaines pour trouver un nouvel avocat. Le courriel indiquait à M. Wolsey qu’il aurait à se présenter seul s’il ne retenait pas les services d’un nouvel avocat au plus tard le 26 septembre. Finalement, Me Virk a indiqué que l’audience sur l’état de l’instance suivante aurait lieu la semaine du 6 octobre ou la semaine du 13 octobre et que l’objet de cette audience serait d’inscrire l’appel au rôle[29]. M. Wolsey a nié avoir reçu ce courriel[30]. M. Singh l’a contredit en produisant une chaîne de courriels électroniques montrant que M. Singh avait, sur instructions de M. Wolsey, transmis le courriel de Me Virk à Me Laird dix-sept minutes après que M. Wolsey l’ait reçu[31].
+Septembre 2014 q) À la suite de l’audience sur l’état de l’instance du 27 août, la Cour a rendu une ordonnance datée du 2 septembre 2014. L’ordonnance énonçait les questions réglées lors de l’audience sur l’état de l’instance et précisait que l’audience sur l’état de l’instance suivante aurait lieu le 9 octobre 2014[32].
+r) Le 5 septembre 2014, la Cour a envoyé l’ordonnance du 2 septembre à Me Virk[33].
+s) Le 5 septembre 2014, Me Virk a envoyé une copie de l’ordonnance du 2 septembre à M. Wolsey[34]. M. Wolsey nie avoir reçu ce courriel[35]. Évidemment, ce courriel l’aurait informé de l’audience sur l’état de l’instance du 9 octobre. Je ne crois pas M. Wolsey. Il y a beaucoup d’autres courriels que M. Wolsey a faussement nié avoir reçus, ce qui lui laisse très peu de crédibilité lorsqu’il nie avoir reçu celui-ci. M. Singh, à qui une copie de ce courriel a été envoyée, a confirmé qu’il l’avait reçu[36].
+t) Entre le 27 août et le 15 septembre 2014, Me Virk a laissé à M. Wolsey [TRADUCTION] « de nombreux » messages vocaux lui indiquant qu’il allait cesser d’agir à titre d’avocat inscrit au dossier[37]. M. Wolsey a témoigné que le téléphone 604 n’avait pas de boîte vocale. Je préfère le témoignage de Me Virk à celui de M. Wolsey, et, je conclus que le téléphone 604 avait une boîte vocale. Je crois que le témoignage de Me Virk est renforcé par le fait que, tel qu’il est indiqué ci-dessous, le dossier de la Cour montre que le greffe lui-même a laissé des messages à M. Wolsey dans la boîte vocale du téléphone 604[38].
+u) Le 12 septembre 2014, Me Virk a envoyé un avis d’intention de cesser d’occuper comme avocat. La lettre informait M. Wolsey que l’adresse de Me Virk cesserait donc d’être l’adresse de M. Wolsey aux fins de signification. La lettre a été envoyée à la dernière adresse postale connue de M. Wolsey de la rue Hastings à Vancouver. La lettre indiquait expressément que l’adresse de la rue Hastings deviendrait l’adresse aux fins de signification de M. Wolsey à moins que celui-ci ne dépose auprès de la Cour un document modifiant l’adresse[39].
+v) L’adresse de la rue Hastings n’était pas l’adresse à jour de M. Wolsey et elle ne l’avait pas été depuis avril 2012. M. Wolsey n’avait pas fourni à Me Virk une adresse postale à jour[40]. L’adresse de la rue Hastings était l’adresse qui figurait au dossier de la Cour comme l’adresse aux fins de signification de M. Wolsey avant la nomination de Me Virk. Cela faisait partie du dossier de la Cour parce que les avocats précédents de M. Wolsey du cabinet Bull Housser & Tupper LLP l’avaient fourni à la Cour lorsqu’ils se sont retirés du dossier en octobre 2013[41]. Dans son avis d’intention de cesser d’occuper, Bull Housser a informé M. Wolsey qu’il fournissait à la Cour l’adresse de la rue Hastings. Bull Housser a déclaré qu’il savait que l’adresse pouvait ne plus être l’adresse de M. Wolsey, mais que c’était la seule adresse qu’il avait puisque M. Wolsey avait refusé de lui fournir une adresse à jour. Cette lettre a été envoyée par courriel à M. Wolsey. M. Wolsey nie avoir reçu ce courriel, mais je ne le crois pas. Je conclus que M. Wolsey avait été avisé depuis octobre 2013 que la Cour avait une adresse postale incorrecte pour lui et qu’il n’a rien fait pour résoudre le problème.
+w) Le 16 septembre 2014, Me Virk a envoyé par courriel sa lettre du 12 septembre à M. Wolsey[42]. M. Wolsey nie avoir reçu ce courriel[43]. Je ne le crois pas.
+x) Me Virk a réalisé plus tard qu’il avait fait défaut d’envoyer l’avis d’intention de cesser d’occuper comme avocat par courrier recommandé. Par conséquent, plus tard dans la journée du 16 septembre, il a renvoyé le même avis à M. Wolsey par courrier recommandé et lui a renvoyé de nouveau l’avis par courriel[44]. M. Wolsey nie également avoir reçu ce courriel[45]. Je ne le crois pas.
+y) Le 17 septembre 2014, la Cour a écrit à Me Virk accusant réception de son avis d’intention de cesser d’occuper comme avocat. La Cour a précisé que les dossiers de la Cour avaient été mis à jour et que toute correspondance future serait envoyée directement à M. Wolsey[46].
+z) Le 17 septembre 2014, la Cour a écrit à M. Wolsey à l’adresse de la rue Hastings pour confirmer qu’une audience sur l’état de l’instance se tiendrait le 9 octobre et que la Cour allait communiquer avec lui à son numéro de téléphone 604[47]. M. Wolsey n’a, bien sûr, pas reçu cette lettre parce que l’adresse de la rue Hastings n’était plus son adresse. Le courrier recommandé a été renvoyé au greffe le 1er octobre et, conformément à la pratique habituelle du greffe, il a été renvoyé par courrier ordinaire[48]. Je conclus que M. Wolsey est seul responsable du fait que cette lettre n’a pas été reçue.
+aa) Le 24 septembre 2014, Me Virk a envoyé un courriel à M. Wolsey. Il a joint la lettre de la Cour datée du 17 septembre 2014 confirmant que Me Virk avait été retiré du dossier[49]. Lors de son contre-interrogatoire, M. Wolsey a nié avoir reçu ce courriel[50]. Je ne le crois pas. M. Singh, à qui une copie de ce courriel a été envoyée, confirme l’avoir reçu[51]. Plus important encore, les éléments de preuve documentaire montrent clairement que M. Wolsey a non seulement reçu ce courriel, mais qu’il l’a également transmis à M. Singh et à Me Laird le lendemain[52] et l’a de nouveau transmis à M. Singh et à Me Laird le 9 octobre[53].
+Octobre 2014 bb) Le 7 octobre 2014, le greffe a appelé M. Wolsey au numéro de téléphone 604 et a laissé un message vocal lui rappelant l’audience sur l’état de l’instance[54]. M. Wolsey nie avoir une boîte vocale pour ce téléphone et nie avoir reçu ce message[55]. Je ne le crois pas.
+cc) Tel qu’il a été susmentionné, le 9 octobre 2014, à 7 h 20 (juste quelques heures avant l’audience de 10 h), M. Wolsey a transmis le courriel de Me Virk du 24 septembre à M. Singh et à Me Laird. Était jointe à ce courriel la lettre de la Cour du 17 septembre confirmant que Me Virk n’était plus inscrit au dossier.
+dd) Le 9 octobre 2014, avant l’audience sur l’état de l’instance, le greffe a de nouveau appelé M. Wolsey au numéro de téléphone 604 et a de nouveau laissé un message vocal lui rappelant l’audience sur l’état de l’instance[56]. M. Wolsey nie avoir une boîte vocale pour ce téléphone et nie avoir reçu ce message[57]. Je ne le crois pas.
+ee) L’audience sur l’état de l’instance du 9 octobre a finalement commencé. M. Wolsey n’était pas présent. La Cour a rejeté son appel pour défaut de comparution[58].
+ff) Le 10 octobre, la Cour a envoyé l’ordonnance du 9 octobre par courriel à M. Wolsey. M. Wolsey reconnaît avoir reçu ce courriel[59]. Il prétend que c’est la première fois qu’il prend connaissance de l’audience sur l’état de l’instance du 9 octobre. Je ne le crois pas.
+RÉFÉRENCE :
+2016 CCI 236
+No DU DOSSIER DE LA COUR :
+2005-4409(IT)G
+INTITULÉ :
+GEORGE WOLSEY c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Les 23 et 24 août et les 15 et 16 septembre 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Graham
+DATE DU JUGEMENT :
+Le 24 octobre 2016
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Daniel Barker
+Avocates de l’intimée :
+Me Johanna Russell
+Me Pavanjit Mahil-Pandher
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Daniel Barker
+Cabinet :
+Barker & Company
+Vancouver (Colombie-Britannique)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2008 CCI 680
+[2] 2012 CCI 144
+[3] 2006 CCI 575
+[4] M. Wolsey a été interrogé au cours d’un contre-interrogatoire pour savoir s’il avait parlé à Me Laird ou si Me Laird lui avait parlé de l’audience sur l’état de l’instance du 9 octobre ou du fait que Me Virk s’était retiré du dossier. Son avocat ne s’est pas opposé à ces questions à l’époque. Son avocat a ensuite fait valoir que les réponses aux questions n’ont pas eu pour conséquence d’entraîner une renonciation au privilège. J’accepte que, dans les circonstances, les réponses ne soient pas censées constituer une renonciation au privilège. En même temps, je n’ai accordé aucun poids aux réponses. Leur donner du poids en l’absence d’une renonciation serait injuste pour l’intimée.
+[5] En plus des explications invraisemblables qu’il a données concernant son utilisation de l’adresse électronique Shaw et du numéro de téléphone avec indicatif régional 604 (décrit ci-dessous), il a également proposé une explication tout aussi invraisemblable de la façon dont Avocis est venu travailler pour PSC et pourquoi il donnait des instructions à Avocis au nom de PSC.
+[6] À un certain moment, M. Wolsey a commencé à utiliser un téléphone cellulaire avec un indicatif régional 778 (le « téléphone 778 »). Il a témoigné qu’il ne se souvenait pas du moment lorsqu’il est passé du téléphone 604 au téléphone 778. Je suis d’avis qu’il utilisait le téléphone 604 pendant la période en question.
+[7] Transcription de la page 52, ligne 10, à la page 53, ligne 4; de la page 118, ligne 14, à la page 119, ligne 12
+[8] Transcription de la page 54, ligne 4, à la page 55, ligne 19; pages 135 à 139
+[9] Transcription de la page 142, lignes 11 à 19
+[10] Transcription de la page 140, ligne 18, à page 142, ligne 10. Il y avait également des éléments de preuve étayant que M. Wolsey utilisait un compte Gmail sous le pseudonyme « Tom Wilson » pour communiquer avec au moins certains de ses conseillers professionnels avant l’audience sur l’état de l’instance du 9 octobre 2014 (voir la pièce R-15).
+[11] Transcription de la page 118, lignes 7 à 20; page 119, lignes 13 à 19; page 130, ligne 14, à la page 131, ligne 4
+[12] 2014 CCI 108
+[13] 2012 CCI 236
+[14] 2009 CCI 287
+[15] 2012 CCI 144, au paragraphe 22
+[16] Affidavit de Ruby Manget daté du 14 mai 2015 (« Manget no 1 »), pièce « K »
+[17] Affidavit de George Wolsey daté du 20 novembre 2014 (« Wolsey no 1 »), paragraphe 6
+[18] Pièce R-4
+[19] Pièce R-5
+[20] Manget no 1, pièce « L »
+[21] Pièce R-6
+[22] Pièce R-20
+[23] Manget no 1, pièce « M »
+[24] Pièce R-17
+[25] Pièce R-21
+[26] Transcription, page 243, lignes 7 à 13
+[27] Manget no 1, pièce « N » et pièce R-7
+[28] Wolsey no 1, au paragraphe 6
+[29] Pièce R-7
+[30] Transcription, page 181, ligne 18 à la page 182, ligne 2
+[31] Pièce R-22
+[32] Manget no 1, pièce « N »
+[33] Manget no 1, pièce « N »
+[34] Pièce R-8
+[35] Transcription, page 186, lignes 16 à 24, et Wolsey no 1, paragraphe 6
+[36] Transcription, pages 339 à 343
+[37] Manget no 1, pièce « O »; transcription des pages 226 à 227
+[38] Manget no 1, pièces « R » et « S »
+[39] Pièce R-11
+[40] Transcription, page 221, lignes 3 à 11. M. Wolsey le nie, mais je ne le crois pas.
+[41] Manget no 1, pièce « C »
+[42] Pièce R-11
+[43] Transcription, page 197, ligne 19, à la page 198, ligne 4, et Wolsey no 1, paragraphe 6
+[44] Pièce R-12 et Manget no 1, pièce « O »
+[45] Transcription, page 197, ligne 19, à la page 198, ligne 4, et Wolsey no 1, paragraphe 6
+[46] Manget no 1, pièce « P »
+[47] Manget no 1, pièce « Q »
+[48] Manget no 1, pièce « R »
+[49] Pièce R-13
+[50] Transcription, page 200
+[51] Transcription, pages 339 à 343
+[52] Pièce R-19
+[53] Pièce R-15 (Remarque : Je conclus que les deux dernières pages de la pièce R-15 ne sont pas le document qui était à l’origine joint à ce courriel. M. Singh semble avoir joint ces deux pages par erreur. Un examen de tous les éléments de preuve montre que la lettre de la Cour datée du 17 septembre 2014 jointe à la pièce R-19 était le seul et l’unique document joint à ce courriel.)
+[54] Manget no 1, pièce « R »
+[55] Transcription, page 109, lignes 21 à 28; pages 121 à 124
+[56] Manget no 1, pièce « R »
+[57] Transcription, page 109, lignes 21 à 28; pages 121 à 124
+[58] Manget no 1, pièce « R »
+[59] Wolsey no 1, paragraphe 6 et pièce « V »

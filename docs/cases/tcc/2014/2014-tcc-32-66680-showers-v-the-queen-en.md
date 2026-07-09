@@ -1,0 +1,136 @@
+---
+title: "Showers v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/66680/index.do"
+last_modified: "2014-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 32"
+citation2: ""
+neutral_citation: "2014 TCC 32"
+decision_date: "2014-01-30"
+language: "en"
+item_id: "66680"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6004
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:58:33.090000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c966456459d7c8d4d7e730ab6f024ec8db45b50c299080fc89c164ac7f5c4247"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Showers v. The Queen
+
+- Citation: 2014 TCC 32
+- Decision date: 2014-01-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6004, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Showers v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-01-30
+Neutral citation
+2014 TCC 32
+File numbers
+2012-3365(IT)I, 2012-4841(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2012-3365(IT)I
+2012-4841(IT)I
+BETWEEN:
+DAVE SHOWERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 23, 2014, at London, Ontario
+Before: The Honourable Justice J.M. Woods
+Appearances:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Christopher Kitchen
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2009 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to the home renovation tax credit in respect of expenses in the amount of $7,213.
+The appeal with respect to an assessment made under the Income Tax Act for the 2008 taxation year is dismissed.
+Each party shall bear their own costs.
+Signed at Ottawa, Ontario, this 30th day of January 2014.
+“J.M. Woods”
+Woods J.
+Citation: 2014 TCC 32
+Date: 20140130
+Dockets: 2012-3365(IT)I
+2012-4841(IT)I
+BETWEEN:
+DAVE SHOWERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, Dave Showers, is employed as a cabinet installer for Verbeek Kitchens in London, Ontario. His appeal concerns employment expenses claimed in his income tax returns for the 2008 and 2009 taxation years and a home renovation tax credit claimed in the 2009 taxation year.
+[2] During the hearing, there were concessions by both parties. In particular, Mr. Showers withdrew his claim for employment expenses other than motor vehicle expenses. The Crown conceded the home renovation tax credit issue. The only remaining issue, then, is the motor vehicle claim.
+[3] In his income tax returns for the 2008 and 2009 taxation years, Mr. Showers claimed deductions in computing employment income for motor vehicle expenses in the amounts of $6,186 and $9,796.81, respectively. He also claimed related GST rebates. Reassessments were issued under the Income Tax Act which disallowed all these amounts.
+[4] The problem that Mr. Showers has with respect to these claims is that the amounts claimed appear to be excessive and there is not sufficient reliable evidence to enable this Court to estimate what the proper amounts should be.
+[5] Mr. Showers acknowledges that the claims appear to be excessive and he blames his tax return preparer, Rudoph Terracina. Mr. Showers testified that he did not himself review the returns before he signed them.
+[6] With respect to particular aspects of the claim, Mr. Showers acknowledges that the kilometers driven for employment purposes that was reported on the Statement of Employment Expenses (T777) is inaccurate. He submits that the kilometers driven for employment purposes was correctly reported to his employer for purposes of receiving reimbursement at the rate of $0.38 per kilometer.
+[7] Another problem that Mr. Showers has is that the tax returns do not correctly reflect the reimbursements received by the employer, which were not included in Mr. Showers’ income. For 2008, Mr. Showers under-reported the reimbursement and for 2009 no reimbursement was reported. The full reimbursements should have been subtracted from the expenses in accordance with the T777 form.
+[8] A further problem is that most of the items claimed as motor vehicle expenses appear to be unreasonably high. This was acknowledged by Mr. Showers on cross-examination.
+[9] Although Mr. Showers acknowledges that the amounts claimed are wrong, he was not able to offer any correct figures, or even reasonable estimates. Further, Mr. Showers testified that he does not have any receipts because these were provided to Mr. Terracina and, according to Mr. Showers, he is nowhere to be found.
+[10] Mr. Showers appears to suggest that the Court should accept that his expenses are equal to allowance rates that have been approved on the website of the Canada Revenue Agency (CRA) (Ex. A-1). The CRA approved allowance is $0.52 up to 5,000 kilometers and $0.46 for additional kilometers.
+[11] The problem with this suggestion is that the allowance policy does not reflect actual expenses in a particular case and is not meant to. It was explained by the CRA auditor that these are amounts that the CRA accepts as reasonable allowances that may be paid by employers.
+[12] Further, Mr. Showers suggests that the actual kilometers driven were accurately reported to his employer for purpose of the reimbursements. This appears to be reasonable but it does not establish Mr. Showers claim because the expenses are not known and personal kilometers are not known.
+[13] I would note that Mr. Showers had a 2002 pick up truck in the relevant taxation years. The reimbursements from the employer may have adequately reimbursed his actual expenses or they may not have. The problem is that there is no way of verifying this one way or the other.
+[14] In my view, this is not a case in which the Court should bend over backwards to help a taxpayer who is not able to prove his case due to lack of receipts. Mr. Showers acknowledges that the amounts claimed in his income tax returns are excessive. If the result in this appeal is that Mr. Showers is not given relief for expenses that have been incurred and were not reimbursed, he must bear the responsibility for permitting excessive claims to be made in his income tax returns.
+[15] I would conclude that it is not appropriate for the Court to allow any of the motor vehicle expenses claimed by Mr. Showers, whether by way of deduction or GST rebate.
+[16] The appeal will be allowed only with respect to the home renovation tax credit that was claimed for the 2009 taxation year.
+Signed at Ottawa, Ontario, this 30th day of January 2014.
+“J.M. Woods”
+Woods J.
+CITATION: 2014 TCC 32
+COURT FILE NO.: 2012-3365(IT)I
+2012-4841(IT)I
+STYLE OF CAUSE: DAVE SHOWERS and HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: January 23, 2014
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: January 30, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Christopher Kitchen
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

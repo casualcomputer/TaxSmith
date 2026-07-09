@@ -1,0 +1,236 @@
+---
+title: "Costa Rego c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29028/index.do"
+last_modified: "2009-01-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 48"
+citation2: ""
+neutral_citation: "2009 CCI 48"
+decision_date: "2009-01-23"
+language: "fr"
+item_id: "29028"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6837
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:16:11.530000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6c09ea85b45ab712b18614efc8e803ec1fd416adfe39785b666dcdc4d9a1200d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Costa Rego c. La Reine
+
+- Citation: 2009 CCI 48
+- Decision date: 2009-01-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6837, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Costa Rego c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-23
+Référence neutre
+2009 CCI 48
+Numéro de dossier
+2008-252(GST)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-252(GST)I
+ENTRE :
+ISABELLE COSTA REGO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Teresinha Costa Rego (2008-255(GST)I), Miguel Sousa Rego
+(2008-256(GST)I) et Christine Costa Rego (2008-275(GST)I),
+le 25 novembre 2008, à Ottawa (Ontario).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocate de l'appelante :
+Me Chantal Donaldson
+Avocate de l'intimée :
+Me Maryse Nadeau-Poissant
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l’avis est daté du 30 novembre 2006 et porte le numéro de référence 85940 0368 RT 0001 est rejeté selon les motifs du jugement ci‑joints.
+Signé à Montréal, Québec, ce 23e jour de janvier 2009.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2008-255(GST)I
+ENTRE :
+TERESINHA COSTA REGO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Isabelle Costa Rego (2008-252(GST)I), Miguel Sousa Rego
+(2008-256(GST)I) et Christine Costa Rego (2008-275(GST)I),
+le 25 novembre 2008, à Ottawa (Ontario).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocate de l'appelante :
+Me Chantal Donaldson
+Avocate de l'intimée :
+Me Maryse Nadeau-Poissant
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l’avis est daté du 30 novembre 2006 et porte le numéro de référence 85942 5167 RT 0001 est rejeté selon les motifs du jugement ci‑joints.
+Signé à Montréal, Québec, ce 23e jour de janvier 2009.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2008-256(GST)I
+ENTRE :
+MIGUEL SOUSA REGO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Isabelle Costa Rego (2008-252(GST)I), Teresinha Costa Rego
+(2008-255(GST)I) et Christine Costa Rego (2008-275(GST)I),
+le 25 novembre 2008, à Ottawa (Ontario).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocate de l'appelant :
+Me Chantal Donaldson
+Avocate de l'intimée :
+Me Maryse Nadeau-Poissant
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l’avis est daté du 30 novembre 2006 et porte le numéro de référence 85750 8923 RT 0001 est rejeté selon les motifs du jugement ci‑joints.
+Signé à Montréal, Québec, ce 23e jour de janvier 2009.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2008-275(GST)I
+ENTRE :
+CHRISTINE COSTA REGO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Isabelle Costa Rego (2008-252(GST)I), Teresinha Costa Rego
+(2008-255(GST)I) et Miguel Sousa Rego (2008-256(GST)I)
+le 25 novembre 2008, à Ottawa (Ontario).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocate de l'appelante :
+Me Chantal Donaldson
+Avocate de l'intimée :
+Me Maryse Nadeau-Poissant
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l’avis est daté du 30 novembre 2006 et porte le numéro de référence 85940 5565 RT 0001 est rejeté selon les motifs du jugement ci‑joints.
+Signé à Montréal, Québec, ce 23e jour de janvier 2009.
+« Réal Favreau »
+Juge Favreau
+Référence : 2009 CCI 48
+Date : 20090123
+Dossiers : 2008-252(GST)I,
+2008-255(GST)I,
+2008-256(GST)I,
+2008-275(GST)I
+ENTRE :
+ISABELLE COSTA REGO,
+TERESINHA COSTA REGO,
+MIGUEL SOUSA REGO,
+CHRISTINE COSTA REGO,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Chacun des appelants a présenté distinctement auprès du ministre du Revenu du Québec (le « ministre ») une demande de remboursement de la taxe sur les produits et services (TPS) pour un immeuble d’habitation locatif neuf de type triplex dont ils étaient copropriétaires. Leur part respective dans la propriété de l’immeuble est de 33,33% pour chacune de Christine et d’Isabelle Costa Rego et de 16,66% pour chacun de Miguel Sousa Rego et de Teresinha Costa Rego. Les appelants habitent l’un des logements (41,39% de la superficie totale de l’immeuble). Des particuliers liés aux appelants (mère et sœur de Miguel Sousa Rego) occupent à titre résidentiel un autre logement (34,60% de la superficie totale de l’immeuble), tandis que le troisième logement (24,01% de la superficie totale de l’immeuble) est loué par bail à un tiers à titre résidentiel.
+[2] Le 14 mars 2003, les appelants ont acquis, conjointement un terrain sans bâtiment sis au 8, rue du Crépuscule à Gatineau (Québec). De mars à octobre 2004, les appelants ont fait construire par l’intermédiaire d’un entrepreneur, un immeuble résidentiel de type triplex, lequel a fait l’objet des demandes de remboursement de TPS. Sur ces demandes, les appelants ont déclaré être des acheteurs et locateurs (type de demande no 6).
+[3] Le ministre a considéré que le triplex était utilisé principalement à titre résidentiel par les appelants et des particuliers qui leur sont liés. Le ministre a conclu que les appelants n’étaient pas tenus de remettre à l’intimée la TPS sur la fourniture à soi-même du triplex prévu au paragraphe 191(3) de la Loi sur la taxe d’accise (LTA), puisqu’ils bénéficiaient de l’exception prévue au paragraphe 191(5) de la LTA. En conséquence, les appelants se sont vu refuser le remboursement de taxe pour un immeuble d’habitation locatif neuf qu’ils demandaient en vertu du paragraphe 256.2(3) de la LTA. Le ministre a donc établi une cotisation par laquelle il établissait qu’il n’était pas nécessaire que la taxe sur la fourniture à soi-même d’un immeuble d’habitation locatif soit payée et que le remboursement de TPS pour l’immeuble locatif neuf était refusé. Les appelants ont porté en appel ces cotisations.
+[4] En arrivant à cette conclusion, le ministre a pris pour acquis que chacun des appelants était un « constructeur » d’immeuble au sens de l’article 123 de la LTA qui se lit comme suit :
+« constructeur » Est constructeur d'un immeuble d'habitation ou d'une adjonction à un immeuble d'habitation à logements multiples la personne qui, selon le cas :
+a) réalise, elle-même ou par un intermédiaire, à un moment où elle a un droit sur l'immeuble sur lequel l'immeuble d'habitation est situé :
+[. . . ]
+(ii) dans le cas d’un logement en copropriété, la construction de l’immeuble d’habitation en copropriété dans lequel ce logement est situé,
+[. . . ]
+Les appelants ayant fait construire leur immeuble par un intermédiaire à un moment où ils avaient un droit sur le terrain sur lequel était situé l’immeuble, il en résulte que chacun des appelants est un « constructeur » au sens de la LTA.
+[5] L’exclusion à la définition du terme « constructeur » pour un particulier qui fait construire un immeuble en dehors du cadre d’une entreprise ne s’applique pas ici, selon le ministre, parce que les appelants ont fourni un bien par bail en louant à un tiers, de manière continue et régulière, un des trois logements de leur immeuble. Le terme « entreprise » est défini à l’article 123 de la LTA de la manière suivante :
+« entreprise » Sont compris parmi les entreprises les commerces, les industries, les professions et toutes affaires quelconques avec ou sans but lucratif, ainsi que les activités exercées de façon régulière ou continue qui comportent la fourniture de biens par bail, licence ou accord semblable. En sont exclus les charges et les emplois.
+[6] En vertu du paragraphe 256.2(3) de la LTA, une personne qui est le constructeur d’un immeuble d’habitation, a droit à un remboursement de TPS pour des fonds et bâtiments loués à des fins résidentielles lorsque ce constructeur est réputé, en vertu de l’article 191 de la LTA, avoir effectué et reçu, par vente, la fourniture taxable de l’immeuble.
+[7] Le paragraphe 191(3) de la LTA crée la présomption absolue selon laquelle dans certaines circonstances, le constructeur d’un immeuble d’habitation à logements multiples est réputé avoir effectué et reçu, par vente, la fourniture taxable de l’immeuble. Cette règle est connue comme étant la « fourniture à soi-même d’un immeuble d’habitation à logements multiples ». Par contre, une exemption existe lorsque l’immeuble est utilisé à des fins personnelles. Le paragraphe 191(5) de la LTA stipule en effet que lorsque le constructeur est un particulier et que l’immeuble est utilisé principalement à titre résidentiel par ce particulier ou par un particulier qui lui est lié, les paragraphes 191(1) à (4) de la LTA ne s’appliquent pas à ce constructeur. Le paragraphe 191(5) de la LTA se lit comme suit :
+191(5) Exception — utilisation personnelle — Les paragraphes (1) à (4) ne s'appliquent pas au constructeur d'un immeuble d'habitation ou d'une adjonction à celui-ci si :
+(a) le constructeur est un particulier;
+(b) à un moment donné après que la construction ou les rénovations de l'immeuble ou de l'adjonction sont achevées en grande partie, l'immeuble est utilisé principalement à titre résidentiel par le particulier, son ex-époux ou ancien conjoint de fait ou un particulier lié à ce particulier;
+(c) l’immeuble n'est pas utilisé principalement à une autre fin entre le moment où les travaux sont achevés en grande partie et le moment donné;
+(d) le particulier n'a pas demandé de crédit de taxe sur les intrants relativement à l'acquisition de l'immeuble ou aux améliorations qui y ont été apportées.
+[Je souligne]
+[8] Tout le litige porte sur l’interprétation à donner sur la partie soulignée de l’alinéa 191(5)b) de la LTA. Le terme « principalement » signifie dans ce contexte plus de 50% de la superficie totale de l’immeuble (voir Foote c. Canada, 2007 CCI 46, [2007] A.C.I. no 17 (QL)).
+[9] L’avocate des appelants soutient qu’ils habitent un seul logement du triplex et n’occupent pas plus de 50% de l’immeuble. Selon elle, le fait que la mère et la sœur de monsieur Miguel Costa Rego habitent un autre logement du triplex ne devrait pas être tenu en compte. Elle plaide que le texte législatif réfère à un immeuble utilisé principalement à titre résidentiel par un particulier ou par un particulier lié à ce particulier. Elle prétend que le texte de loi ne doit pas être interprété comme signifiant « utilisé principalement [. . .] par le particulier et un particulier lié à ce particulier ». En d’autres mots, la conjonction « ou » apparaissant à l’alinéa 191(5)b) de la LTA est exclusive en ce que la condition exigée par cet alinéa ne devrait être remplie que par un seul des critères qui y sont énumérés.
+[10] L’avocate des appelants s’appuie notamment sur une décision de la Cour du Québec, Fortin c. Québec (Sous-ministre du Revenu), [2006] R.D.R.Q. 153, dans laquelle il fut décidé que l’utilisation du mot « ou » au paragraphe 227(2) de la Loi sur la taxe de vente du Québec, soit l’équivalent du paragraphe 191(5) de la LTA, marquait l’alternative et non la conjonction. La Cour a donc conclu que le ministre ne devait pas tenir compte de l’utilisation d’une partie de l’immeuble par les parents de l’un des requérants. Le ministre en a appelé de cette décision mais les requérants se sont désisté en appel.
+Analyse
+[11] Dans une décision rendue le 25 novembre 2008 dans l’affaire Coutu c. Canada, 2008 CCI no 641, la juge Lamarre de cette Cour, s’est prononcée sur l’interprétation de l’expression « l’immeuble est utilisé principalement à titre résidentiel par le particulier, son ex-époux ou ancien conjoint de fait ou un particulier lié à ce particulier », telle qu’utilisée à l’alinéa 191(5)b) de la LTA. Les faits dans cette affaire sont très similaires à ceux de la présente instance. Il s’agissait d’un triplex dont les appelants étaient les constructeurs et qui habitaient l’un des logements (48% de la superficie totale). Les parents de l’appelant Coutu habitaient un autre logement (22% de la superficie totale) et le troisième logement occupant le reste de la superficie totale de l’immeuble était loué à un tiers.
+[12] Après avoir minutieusement analysé :
+(i) la jurisprudence traitant du sens à donner au mot « ou », dont les arrêts Radage c. Canada, [1996] A.C.I. no 730 (QL), Russell c. Canada, [2001] A.C.I. no 409 (QL), CCH Canada Ltd. c. Barreau du Haut-Canada, 2002 CAF 187, [2002] A.C.F. no 690 (QL) et Mercier c. Canada, [1997] A.C.I. no 613 (QL);
+(ii) les notes explicatives concernant le paragraphe 191(5) de la LTA sur la fourniture à soi-même d’un immeuble résidentiel (CCH fiscalité – Taxes à la consommation – octobre 2008, Publications CCH);
+(iii) la définition grammaticale du mot « ou » dans le Dictionnaire des difficultés du français; et
+(iv) l’impact de l’utilisation de la virgule entre le mot « particulier » et les mots « son ex-époux ou conjoint de fait ou un particulier lié à ce particulier »,
+la juge Lamarre a conclu au paragraphe 18, en ces termes :
+À mon avis, le texte, le contexte et l’intention du législateur dénotent plutôt que le "ou" utilisé a un sens inclusif, et exprime une conjonction plutôt qu'une alternative. [. . . ]
+[13] Je souscris entièrement à cette interprétation. L’interprétation souhaitée par les appelants limiterait indûment la portée de l’exception pour utilisation personnelle et ne pourrait être justifiée du point de vue de la politique fiscale sous-jacente à cette disposition.
+[14] Je suis également en accord avec la position prise par le ministre de considérer les appelants comme des constructeurs aux fins de la LTA parce qu’ils ont toujours eu l’intention d’exercer de façon régulière ou continue une activité qui comportait la fourniture de biens (logement) par bail. Ils le faisaient avant de faire construire le triplex sur la rue du Crépuscule et ils ont continué de le faire lorsqu’ils ont habité le triplex.
+[15] D’un point de vue légal, les appelants ont conclu deux opérations séparées et distinctes l’une de l’autre, soit l’achat du terrain d’abord et ensuite la conclusion du contrat de construction avec l’entrepreneur. Contrairement à ce que soutient l’avocate des appelants, on ne peut y voir une seule opération réalisée en deux étapes parce qu’il n’y a aucun lien entre les deux opérations.
+[16] Pour ces motifs, les appels sont rejetés et les cotisations datées du 30 novembre 2006 sont confirmées.
+Signé à Montréal, Québec, ce 23e jour de janvier 2009.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2009 CCI 48
+Nº DES DOSSIERS DE LA COUR : 2008-252(GST)I, 2008-255(GST)I,
+2008-256(GST)I, 2008-275(GST)I
+INTITULÉS DES CAUSES : Isabelle Costa Rego v. SMLR
+Teresinha Costa Rego v. SMLR
+Miguel Sousa Rego v. SMLR
+Christine Sousa Rego v. SMLR
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : le 25 novembre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 23 janvier 2009
+COMPARUTIONS :
+Avocate des appelants :
+Me Chantal Donaldson
+Avocate de l'intimée :
+Me Maryse Nadeau-Poissant
+AVOCATE INSCRITE AUX DOSSIERS :
+Pour les appelants :
+Nom : Me Chantal Donaldson
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

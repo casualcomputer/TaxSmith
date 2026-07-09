@@ -1,0 +1,128 @@
+---
+title: "Forsberg v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26805/index.do"
+last_modified: "2005-09-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 591"
+citation2: ""
+neutral_citation: "2005 TCC 591"
+decision_date: "2005-09-08"
+language: "en"
+item_id: "26805"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3485
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:21:08.099000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "25347f1509c41164651170694487a21e767082a4795399c10093ed47ece7f2a3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Forsberg v. The Queen
+
+- Citation: 2005 TCC 591
+- Decision date: 2005-09-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3485, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Forsberg v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-08
+Neutral citation
+2005 TCC 591
+File numbers
+2004-2473(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2005TCC591
+Date: 20050908
+Docket: 2004-2473(IT)I
+BETWEEN:
+KARL FORSBERG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on August 11, 2005, in Vancouver, British Columbia)
+Paris, J.
+[1] This is an appeal from reassessments by the Minister of National Revenue (the "Minister") from the appellant's 1999 and 2000 taxation years. The appellant is disputing the disallowance of deductions for Canadian Exploration Expenses ("CEE") of $8,335 in 1999 and $20,000 in 2000.
+[2]The CEE claimed relate to two flow-through share subscription agreements the appellant entered into with Thurlow Resources Ltd. ("Thurlow"), on November 2, 1999 and February 29, 2000, respectively. Pursuant to those agreements Thurlow agreed to apply the proceeds of the appellant's purchase of shares, totaling $10,000 for the first agreement and $20,000 for the second agreement, to a program of mineral exploration and to renounce the CEE related to that program to the appellant. Thurlow purported to renounce CEE for the full $10,000 in 1999 and $20,000 in 2000 to the appellant.
+[3] The Canada Revenue Agency ("CRA") subsequently conducted an audit of Thurlow's CEE and determined that all but $1,665 of the amount it had elected to renounce to the appellant in 1999 and all of the amount it had elected to renounce to the appellant in 2000 consisted of Canadian Exploration and Development Overhead Expenses ("CEDOE"), as defined in subsection 1206(1) of the Income Tax Regulations ("Regulations") because the amounts were paid to Bernard Fitch, who was a "connected person" with Thurlow within subsection 1206(7) of the Regulations. The CEE was therefore not eligible for renunciation by virtue of paragraph 66(12.6)(b) of the Income Tax Act (the "Act").
+[4] Thurlow was subsequently reassessed to disallow the renunciation of the CEE, and the appellant was reassessed to disallow the deduction of the CEE as set out above. Thurlow filed a notice of objection to the reassessment relating to its renunciation, and the reassessment was confirmed. Thurlow did not file a notice of appeal against the reassessment.
+[5] The respondent takes the position that the appellant cannot now appeal the determination made by the Minister against Thurlow that the expenses incurred by Thurlow were CEDOE. The second issue in appeal is whether the expenses were, in fact, CEDOE and therefore ineligible for renunciation.
+[6] With respect to the first issue, counsel for the respondent argued that once the Minister made the determination against Thurlow regarding the exploration expenses in question it was binding on the appellant. He argued that the only means of challenging that determination was by means of an appeal brought by Thurlow. He did not provide any authority for this position.
+[7] I note that in the case of Ressources Orco Incorporated v. Canada, [1994] F.C.J. No. 1405, the plaintiff was a mining company that had sold flow-through shares to investors. It purported to have incurred CEE which it renounced to the investors. The renunciation was disallowed in part by the Minister and the corresponding deductions of CEE were disallowed to the investors. The company then sought a declaration from the Federal Court that all of the expenses that it had incurred were CEE and that the renunciation should be allowed and that the investors should be permitted to deduct the CEE as claimed. The respondent in that case took the position that the Federal Court did not have jurisdiction to grant the declaration and that the only means for challenging the disallowance of the investors' CEE deductions was by way of appeals to this court brought by each investor from their individual reassessments. The Federal Court agreed with that position, confirming that individual investors could challenge the underlying determination that a portion of the expenses in question were not CEE.
+[8] Furthermore, the relationship between the reassessment of Thurlow and the consequential reassessment of the appellant bears a certain resemblance to that between a primary and secondary tax debtor in the case of a derivative assessment under section 160 or section 227.1 of the Act, since the tax liability of one taxpayer is dependent on an assessment which has been issued against the other. In such a situation the Federal Court of Appeal in Gaucher v. The Queen 2000 DTC 6678 said, at paragraph 6:
+... It is a basic rule of natural justice that, barring a statutory provision to the contrary, a person who is not a party to litigation cannot be bound by a judgment between other parties. ...
+[9] A fortiori, in the absence of a statutory provision to the contrary, a taxpayer cannot be bound by a reassessment of another taxpayer. In this case, given the interrelationship of the reassessments of Thurlow and the appellant, it would be contrary to the rules of natural justice to prevent him from challenging the basis for the assessment against Thurlow on which his own reassessment is based.
+[10] Therefore, I find that there is no basis for denying the appellant the right to challenge the Minister's determination that the expenses in issue were CEDOE.
+[11] Counsel for the respondent also objected to the appellant raising the question of whether the expenses qualified as CEDOE because the issue was not clearly stated in his Notice of Appeal. While the Notice of Appeal is not a model of clarity, I am satisfied that the Notice of Appeal was sufficient to put the respondent on notice that the appellant intended to raise the issue of whether the Minister erred in finding that the expenses in issue were CEDOE, since that was the only basis on which the renunciation was disallowed to Thurlow and the CEE was disallowed to the appellant. In an appeal brought using the informal procedure of this Court, some latitude must be given to self-represented taxpayers in their pleadings, and if the respondent is unclear on the matter in issue, efforts should be made to communicate with the taxpayer to determine the precise nature of the dispute prior to raising an objection at the hearing as to the sufficiency of the pleadings.
+[12] At the hearing Mr. Forsberg gave evidence on his own behalf and also called Mr. Bernard Fitch, a director of Thurlow, as a witness. Mr. Nowick, the CRA auditor who reviewed Thurlow's Canadian exploration expenses renunciation gave evidence on behalf of the respondent.
+[13] The thrust of the appellant's evidence was that he did not receive notice from the CRA that Thurlow had not appealed from the confirmation of the reassessments disallowing the renunciations, and that when he did find out he attempted to get Thurlow to apply to late file the appeal but was unsuccessful. He believed the matter should have been dealt with by Thurlow who was in the best position to handle the appeal.
+[14] While it would obviously have served the appellant's interests better had Thurlow filed a valid appeal of the issue to this Court, it is not material to the finding that I must make here regarding the reassessments of the appellant's 1999 and 2000 taxation years. It is unfortunate that the appellant has been put to the effort and expense of defending the renunciation by Thurlow, but in the absence of a valid appeal by Thurlow, it appears he had no choice in the matter.
+[15] The second issue, as stated above, is whether the Canadian exploration expenses which Thurlow sought to renounce to the appellant included amounts of CEDOE. In particular, the evidence showed that the auditor disallowed the appellant's deductions on the basis that most of the expenses were amounts paid by Thurlow to Mr. Bernard Fitch for work he did on the mineral property in question and as rent for use of equipment owned by Mr. Fitch. The auditor determined that Mr. Fitch was a person connected with Thurlow within the meaning of subsection 1206(7) of the Regulations because he held more than 10% of the issued share capital of Thurlow, and therefore the amounts that Thurlow paid him was CEDOE under subsection 1206(1) of the Regulations.
+[16] According to subsection 1206(7) of the Regulations, a person and a corporation are connected if the person has an equity percentage in the corporation of not less than 10 percent. "Equity percentage" is in turn defined in subsection 95(4) of the Act. In essence it refers to the proportion of the shares a person holds of a corporation's total issued share capital. In this case the auditor reviewed Thurlow's share register and concluded that Mr. Fitch held more than 10 percent of Thurlow's issued share capital throughout 1999 and 2000.
+[17] A copy of that share register was put in evidence. It showed that Bernard Fitch held between 350,000 and 400,000 shares in Thurlow in 1999 and 2000. The shares were issued to him on the following days:
+October 15th, 1997 350,000 common shares (escrow)
+October 15th, 1997 14,000 common shares (free trading)
+December 31st, 1997 16,000 common shares (free trading)
+March 16th, 2000 20,000 common shares (free trading)
+[18] On March 21st, 2000 Mr. Fitch transferred 50,000 escrow shares to another person leaving him with a total of 350,000 shares.
+[19] On the basis of these records Mr. Nowick determined that Mr. Fitch held between 16 and 22 percent of the shares of Thurlow during 1999 and 2000, which made him a connected person with Thurlow.
+[20] Mr. Fitch testified that he was holding some of the shares that were registered in his name in trust for another individual. He produced a copy of a signed memo agreement regarding Thurlow, dated July 9, 1996, whereby a Mr. Dil Gujral purported to agree to advance $10,000 to Thurlow in return for 750,000 escrow shares and 10,000 common free trading shares in the corporation. The agreement provided that Mr. Fitch and a Mr. George Keir were each to hold 375,000 of these escrow shares in trust for Mr. Gujral. Mr. Fitch said that Mr. Gujral was a wealthy investor who was active on the Vancouver Stock Exchange. No specific reason was given for Mr. Gujral's request that Mr. Fitch and Mr. Keir hold his escrow shares in trust. Reference was made, however, to Mr. Gujral having difficulties with the British Columbia Securities Commission, but the only corroboration of such difficulties was a newspaper article dated 2005.
+[21] In the course of his audit Mr. Nowick sent several proposal letters to Thurlow's representative, Mr. Greg Edge, outlining the CRA's position that Mr. Fitch was a connected person. This correspondence was copied to Mr. Fitch. However, neither Mr. Edge nor Mr. Fitch ever advised the auditor that Mr. Fitch did not have beneficial ownership of all of the shares registered in his name or that he was holding any shares in trust for Mr. Gujral.
+[22] After considering all the evidence that was presented at the hearing, I am not convinced that Mr. Fitch was holding any shares in trust for Mr. Gujral during the relevant periods. I do not find Mr. Fitch to be a reliable witness in this regard. There are several inconsistencies between the purported share sale agreement with Mr. Gujral dated July 9, 1996 and the books and records of the company and audit documents.
+[23] Firstly, the Gujral agreement was dated July 9, 1996, while the first shares in Thurlow were not issued to Mr. Fitch and other individuals until October 15, 1997. No explanation was given for this 15-month gap between the Gujral agreement and the first share issuance.
+[24] Secondly, the number of escrow shares that were to be issued to Mr. Fitch and Mr. Keir in trust for Mr. Gujral does not match the number of escrow shares that were issued to those individuals. While the Gujral agreement states that Mr. Keir and Mr. Fitch were to hold 375,000 escrow shares in trust each, the share register for Thurlow shows that Mr. Keir never held more than 100,000 escrow shares at any point and Mr. Fitch himself never held more that 350,000 escrow shares.
+[25] Thirdly, the Gujral agreement contemplates Mr. Gujral being issued 10,000 common free trading shares in Thurlow in his own name. No such shares were ever issued to him.
+[26] Fourthly, the register shows that Mr. Fitch transferred 50,000 escrow shares to another individual in 2000. This does not appear consistent with Mr. Fitch's evidence that he was holding 375,000 escrow shares in trust for Mr. Gujral. No mention was made of the transfer of the 50,000 shares being at Mr. Gujral's direction, which, if Mr. Fitch had been holding the shares for Mr. Gujral in trust, would have been required.
+[27] Finally, as already indicated, even though Mr. Fitch was aware during the audit that one of the issues raised by the auditor was the fact that he held more than 10 percent of the shares of Thurlow, neither Mr. Fitch nor Thurlow's representative ever indicated that Mr. Fitch was holding any shares in trust. Also Mr. Gujral was not called as a witness to corroborate Mr. Fitch's evidence regarding the July 9, 1996 agreement and I infer such evidence would not have been favourable to the appellant's case. In conclusion, it appears to me that the Gujral agreement was never acted upon by the parties.
+[28] For all these reasons I find that Mr. Fitch had beneficial ownership of more than 10 percent of the issued share capital of Thurlow in 1999 and 2000, that he was a connected person with Thurlow, and the amounts paid to him by Thurlow were CEDOE and not eligible for renunciation by Thurlow to the appellant. The appeal is therefore dismissed.
+Signed at Ottawa, Canada, this 8th day of September 2005.
+"B. Paris"
+Paris, J.
+CITATION: 2005TCC591
+COURT FILE NO.: 2004-2473(IT)I
+STYLE OF CAUSE: KARL FORSBERG AND THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: August 11, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: September 8, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gavin Laird
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

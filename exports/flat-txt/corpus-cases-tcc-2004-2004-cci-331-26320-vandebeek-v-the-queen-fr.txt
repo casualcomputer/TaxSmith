@@ -1,0 +1,143 @@
+Title: Vandebeek v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26320/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-331-26320-vandebeek-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-05-05
+
+# Vandebeek v. The Queen
+
+- Citation: 2004 CCI 331
+- Decision date: 2004-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3267, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vandebeek v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-05
+Référence neutre
+2004 CCI 331
+Numéro de dossier
+2003-3587(GST)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-3587(GST)I
+ENTRE :
+JOHN TEUNIS VANDEBEEK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue par Mme la juge L.M. Little
+à Kelowna (Colombie-Britannique),le 17 décembre 2003.
+Comparutions :
+Avocat de l'appelant :
+Me Robert S. MacLeod
+Avocat de l'intimée :
+Me Stacey Michael Repas
+____________________________________________________________________
+ORDONNANCE
+L'intimée ayant présenté une requête en vue de faire annuler l'appel interjeté par l'appelant pour le motif que cet appel n'est pas conforme aux exigences de la Loi sur la taxe d'accise;
+L'intimée ayant présenté une requête en vue d'obtenir une ordonnance prorogeant le délai dans lequel elle peut déposer la réponse à l'avis d'appel;
+La requête en annulation est rejetée conformément aux motifs d'ordonnance ci-joints. L'intimée disposera d'un délai de 60 jours à compter de la date de la présente ordonnance pour déposer une réponse à l'avis d'appel.
+Signé à Vancouver (Colombie-Britannique), ce 5e jour de mai 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+Jacques Deschênes, LL.B.
+Référence : 2004CCI331
+Date : 20040505
+Dossier : 2003-3587(GST)I
+ENTRE :
+JOHN TEUNIS VANDEBEEK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+La juge Little, C.C.I.
+A. LES FAITS :
+[1] L'appelant réside avec sa femme et ses quatre enfants à Westbank (Colombie-Britannique).
+[2] En 1997 et en 1998, l'appelant était entrepreneur en construction dans la région de Kelowna. L'appelant a témoigné avoir payé la taxe sur les produits et services (la « TPS » ) sur le matériel et les fournitures qu'il utilisait dans son entreprise.
+[3] Au mois de juin 1998, l'appelant a rempli et produit la déclaration relative à la taxe sur les produits et services (la « déclaration » ) pour la période de déclaration allant du 2 avril au 31 décembre 1997 (la « période » ).
+[4] Dans la déclaration, l'appelant a demandé le remboursement d'un montant de 95,01 $. Toutefois, il a témoigné à l'audience qu'il se rend maintenant compte qu'il a commis une erreur en préparant la déclaration. L'appelant affirme qu'il aurait dû demander le remboursement d'un montant de 8 499,35 $, correspondant aux crédits de taxe sur les intrants auxquels il avait droit, au lieu du montant de 95,01 $.
+[5] Les représentants de l'Agence des douanes et du revenu du Canada (l' « ADRC » ) ont procédé à une vérification de la comptabilité de l'appelant pour la période en question. Ils ont établi une cotisation arbitraire à l'égard de l'appelant pour la période.
+[6] Au moment où les représentants de l'ADRC procédaient à la vérification, l'appelant et sa conjointe faisaient face à des problèmes conjugaux. À ce moment-là, l'appelant vivait et travaillait en Alberta alors que sa conjointe et leurs quatre jeunes enfants vivaient à Westbank (Colombie-Britannique). L'appelant a déclaré qu'il essayait de rendre visite à sa famille, à Westbank, en fin de semaine, toutes les quatre ou cinq semaines. L'appelant a déclaré qu'il quittait l'Alberta pour se rendre en voiture à Westbank le vendredi après-midi et qu'il revenait à son lieu de travail, en Alberta, le dimanche.
+[7] L'appelant a témoigné avoir passé Noël avec sa famille au mois de décembre 1999. C'est alors qu'il s'est rendu compte qu'il devait peut-être effectuer un paiement au titre de la TPS pour la période en cause. L'appelant a témoigné avoir téléphoné à un représentant de l'ADRC le 21 décembre 1999 au sujet de sa dette fiscale et avoir été informé qu'il devait déposer un avis d'opposition.
+[8] Le 21 décembre 1999, le représentant de l'ADRC a envoyé à l'appelant, par télécopieur, une copie en blanc d'un formulaire d'avis d'opposition.
+[9] L'appelant a témoigné avoir rempli le formulaire d'avis d'opposition. Il a affirmé avoir personnellement apporté le formulaire d'avis d'opposition au bureau de l'ADRC de Kelowna de le 23 décembre 1999.
+[10] L'appelant a également témoigné qu'au début du mois de janvier 2000, il a reçu une lettre en date du 6 janvier 2000 de M. Nelson, de l'ADRC. Dans cette lettre figurait la déclaration suivante :
+[traduction]
+Nous avons annulé l' « ordre de paiement » du 8 décembre 1999, que nous vous avons envoyé en vertu de la « Loi sur la taxe d'accise » .
+À ce jour, vous n'avez pas à faire d'autres déductions. [...]
+(Nota : L'avocat de l'intimée a déclaré ne pas être au courant de l'existence de cette lettre.)
+[11] Pendant l'audience, l'appelant a affirmé croire que, par cette lettre, M. Nelson l'informait que la question de la TPS avait été réglée en sa faveur.
+[12] L'appelant a déclaré qu'en l'an 2000, il faisait encore la navette entre Westbank et son lieu de travail en Alberta en fin de semaine toutes les quatre ou cinq semaines. Il a affirmé que, pendant ses séjours mensuels à Westbank, il essayait de s'occuper du courrier qui s'était accumulé pendant le mois. Toutefois, il a déclaré qu'il ne savait pas trop si sa femme lui remettait toutes les lettres qu'il avait reçues pendant son absence.
+[13] L'appelant a témoigné qu'en l'an 2000, il a traversé un certain nombre d'épreuves personnelles. Il a déclaré qu'en l'an 2000, les membres ci-après mentionnés de sa famille étaient décédés :
+- sa mère était décédée;
+- son frère était décédé;
+- sa soeur était décédée;
+- son beau-frère était décédé;
+- l'appelant et sa femme avaient eu de sérieux problèmes conjugaux;
+- l'appelant avait subi une dépression nerveuse et passé un certain temps à l'hôpital.
+[14] L'appelant a déclaré qu'en l'an 2000, il a téléphoné à un représentant de l'ADRC pour discuter de la situation en ce qui concerne la TPS relative à la période en question. Lorsque l'appelant a fait part à l'agent du décès des membres de sa famille et de la dépression nerveuse qu'il avait subie, celui-ci lui a conseillé de téléphoner de nouveau lorsqu'il se porterait mieux.
+[15] En 2001, l'appelant s'est installé à Surrey (Colombie-Britannique) pour trouver un emploi. L'appelant déclare avoir eu des discussions avec les représentants de l'ADRC à Surrey au sujet de la TPS relative à la période en question.
+[16] L'appelant maintient que, pendant qu'il travaillait à Surrey, il s'était entendu verbalement avec M. Cliff Blair, agent de l'ADRC. L'appelant a affirmé que M. Blair lui avait fait savoir qu'il avait jusqu'au 12 avril 2002 pour soumettre une déclaration relative à la TPS pour la période en question, à condition de demander au ministre du Revenu national (le « ministre » ) de lui accorder une prorogation.
+[17] L'appelant affirme que, lorsqu'il a voulu se conformer aux demandes faites par M. Blair, on l'a informé que celui-ci avait été muté et qu'un autre agent était chargé de son dossier.
+[18] Le 2 décembre 2003, Marc Roy, agent de l'ADRC, a déposé un avis de requête auprès de la Cour en vue d'obtenir une ordonnance annulant l'appel interjeté par l'appelant pour le motif que l'appel n'était pas conforme aux exigences de la Loi sur la taxe d'accise. Subsidiairement, il demande, dans l'avis de requête, une ordonnance prorogeant le délai dans lequel la réponse à l'avis d'appel peut être déposée.
+B. POINT LIGIGIEUX :
+[19] La requête déposée par l'intimée doit-elle être accueillie?
+C. ANALYSE :
+[20] Comme il en a été fait mention, l'avis de nouvelle cotisation qui a été établi par le ministre pour la période en question se rapportait à une cotisation arbitraire, c'est-à-dire que les représentants de l'ADRC n'ont pas examiné les documents de l'appelant qui justifient sa demande de crédits de taxe sur les intrants.
+[21] L'appelant a témoigné que, selon les calculs effectués par son comptable, le montant maximum qui serait en cause si les crédits de taxe sur les intrants étaient accordés pour la période serait d'environ 1 000 $.
+[22] Étant donné les circonstances inhabituelles et tragiques auxquelles l'appelant a fait face et compte tenu du fait que l'ADRC a établi une cotisation arbitraire, il est impérieux que les représentants de l'ADRC examinent la preuve soumise à l'appui de la demande de crédits de taxe sur les intrants de l'appelant.
+[23] En me fondant sur la preuve mise à ma disposition pendant l'audition de la requête, j'ai conclu que l'avis d'opposition déposé par l'appelant au mois de décembre 2000 devait être accepté tel quel.
+[24] L'avis de requête déposé par l'intimée doit être rejeté.
+[25] L'intimée disposera d'un délai de 60 jours à compter de la date de la présente ordonnance pour déposer une réponse à l'avis d'appel.
+Signé à Vancouver (Colombie-Britannique), ce 5e jour de mai 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+Jacques Deschênes, LL.B.
+RÉFÉRENCE :
+2004CCI331
+No DU DOSSIER DE LA COUR :
+2003-3587(GST)I
+INTITULÉ :
+John Teunis Vandebeek
+et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Kelowna (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 17 décembre 2003
+MOTIFS DE L'ORDONNANCE :
+Mme la juge L.M. Little
+DATE DE L'ORDONNANCE :
+Le 5 mai 2004
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Robert S. MacLeod
+Avocate de l'intimée :
+Me Stacey Michael Repas
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Robert S. MacLeod
+Cabinet :
+Bassett et associés
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

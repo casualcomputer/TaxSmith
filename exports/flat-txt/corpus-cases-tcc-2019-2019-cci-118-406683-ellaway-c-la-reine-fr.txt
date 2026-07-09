@@ -1,0 +1,175 @@
+Title: Ellaway c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/406683/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-118-406683-ellaway-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-05-22
+
+# Ellaway c. La Reine
+
+- Citation: 2019 CCI 118
+- Decision date: 2019-05-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4391, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ellaway c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-05-22
+Référence neutre
+2019 CCI 118
+Numéro de dossier
+2018-1736(IT)G
+Juges et Officiers taxateurs
+John R. Owen
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-1736(IT)G
+ENTRE :
+MARY RUBY ELLAWAY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 2 mai 2019, à London (Ontario)
+Devant : L’honorable juge John R. Owen
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Dominik Longchamps
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2016, dont l’avis est daté du 12 septembre 2017, est rejeté. Chaque partie doit assumer ses propres dépens.
+Signé à Ottawa, Canada, ce 22e jour de mai 2019.
+« J.R. Owen »
+Juge Owen
+Référence : 2019 CCI 118
+Date : 20190522
+Dossier : 2018-1736(IT)G
+ENTRE :
+MARY RUBY ELLAWAY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Owen
+I. Introduction
+[1] La Cour est saisie d’un appel interjeté par la Dre Mary Ruby Ellaway (l’« appelante ») à l’encontre de la nouvelle cotisation établie à l’égard de son année d’imposition 2016 (l’« année d’imposition ») par avis de nouvelle cotisation en date du 12 septembre 2017 (la « nouvelle cotisation »). La nouvelle cotisation refusait à l’appelante la déduction d’une somme de 59 188 $ au titre de frais de déménagement engagés relativement à son déménagement de l’Australie vers le Canada en février 2016 (les « frais de déménagement »). L’appelante n’était pas représentée et était le seul témoin.
+II. Les faits
+[2] Au début de l’audience, les parties ont déposé un exposé conjoint des faits qui est ainsi rédigé :
+[traduction]
+1. Avant le 3 février 2016, l’appelante vivait en Australie dans une maison qui lui appartenait. Elle n’était propriétaire d’aucun bien immobilier au Canada.
+2. Avant le 3 février 2016, l’appelante travaillait en Australie et n’occupait pas d’emploi ni de charge au Canada.
+3. Avant le 3 février 2016, l’appelante était propriétaire de biens personnels, comme des meubles, des vêtements et des effets personnels, en Australie, mais non au Canada.
+4. Avant le 3 février 2016, l’appelante détenait un passeport australien, mais non pas un passeport canadien.
+5. Avant le 3 février 2016, tous les membres de la famille de l’appelante résidaient en Australie.
+6. Avant le 3 février 2016, l’appelante détenait un permis de conduire valide en Australie délivré par les autorités australiennes, mais ne détenait pas de permis de conduire canadien.
+7. Avant le 3 février 2016, l’appelante n’était pas physiquement présente au Canada.
+8. Le 3 février 2016, l’appelante est arrivée au Canada avec son mari, son intention étant d’y rester de façon permanente. Elle n’avait nullement l’intention de quitter le Canada.
+9. Le 15 mai 2016, l’appelante a fait une demande de résidence permanente.
+10. Jusqu’au 1er juillet 2018, l’appelante avait un contrat annuel renouvelable avec son employeur au Canada. Elle occupe maintenant un poste à durée indéterminée dans un hôpital.
+11. L’appelante est arrivée au Canada munie d’un visa de travail et elle a obtenu le statut de résidente permanente le 20 septembre 2016.
+12. L’appelante a engagé au cours de l’année d’imposition 2016 des frais de 63 609 $ qui seraient considérées comme des frais de déménagement déductibles si l’appelante était admissible à la déduction de tels frais.
+13. L’appelante a inclus dans sa déclaration de revenus pour l’année d’imposition 2016 la somme de 59 188 $ dont elle demandait la déduction à titre de frais de déménagement aux termes de l’article 62 de la Loi de l’impôt sur le revenu.
+14. Le ministre a établi un avis de nouvelle cotisation le 12 septembre 2017. La nouvelle cotisation refusait à l’appelante la déduction pour frais de déménagement pour l’année d’imposition 2016.
+15. L’appelante a signifié au ministre un avis d’opposition daté du 27 septembre 2017, conformément à l’article 165 de la Loi de l’impôt sur le revenu.
+16. L’appelant a déposé un avis d’appel à la Cour canadienne de l’impôt le 12 mai 2018.
+[3] Pour déterminer l’obligation fiscale de l’appelante pour l’année d’imposition, le ministre s’est appuyé sur les hypothèses de fait énoncées au paragraphe 7 de la réponse. Les hypothèses de fait dont il n’est pas explicitement question dans l’exposé conjoint des faits sont les suivantes :
+[traduction]
+a) L’appelante est citoyenne australienne.
+b) L’appelante détenait de 2003 à 2005 un permis de travail l’autorisant à travailler au Canada.
+c) Avant le 3 février 2016, l’appelante n’entretenait aucun lien résidentiel avec le Canada.
+[...]
+[4] Ces hypothèses de fait doivent être tenues pour véridiques par notre Cour, à moins que l’appelante ne les démolisse [1] .
+[5] L’appelante a témoigné elle avait quitté l’Australie le 2 février 2016 et qu’elle était arrivée au Canada le 3 février 2016 pour occuper un emploi à titre de médecin. L’ancienne résidence de l’appelante, en Australie, est demeurée vacante jusqu’à ce qu’elle soit vendue en décembre 2016.
+[6] L’appelante a affirmé qu’en prenant la décision de s’installer au Canada elle avait tenu compte des frais de déménagement et de l’allègement au titre de ces frais qu’elle croyait qu’elle recevrait sous la forme d’une déduction d’impôt. L’appelante a témoigné que cette croyance était fondée sur les notes accompagnant le formulaire T1-M E (15) ainsi que sur le texte du bulletin d’interprétation IT-178R3, cité dans lesdites notes. Plus particulièrement, l’appelante a dit que ni les notes ni le bulletin d’interprétation IT-178R3 ne faisaient référence à l’exigence, à l’alinéa c) de la définition de « réinstallation admissible » au paragraphe 248(1) de la Loi de l’impôt sur le revenu (LIR), voulant que l’ancienne résidence et la nouvelle résidence soient toutes les deux au Canada.
+III. Les positions des parties
+[7] L’appelante soutient que l’exigence selon laquelle les deux résidences doivent être situées « au Canada », énoncée à l’alinéa c) de la définition de « réinstallation admissible » au paragraphe 248(1) de la LIR, lui avait été cachée, que la dissimulation est une forme de déclaration inexacte et qu’il en résulte une injustice, car, dans la prise de sa décision de venir s’établir au Canada, elle a tenu compte de l’économie de frais que représente la déduction des frais de déménagement. En conséquence, le ministre devrait être préclus de s’appuyer sur l’exigence, à l’alinéa c) de la définition de « réinstallation admissible », voulant que les deux résidences se trouvent « au Canada ».
+[8] L’intimée soutient que la Cour est tenue d’appliquer le droit aux faits et que les opinions concernant le droit formulées dans des documents administratifs comme les bulletins d’interprétation ne lient pas la Cour. Selon les faits, l’appelante ne satisfait pas à la condition énoncée à l’alinéa c) de la définition de « réinstallation admissible », car elle a déménagé d’une résidence située en Australie pour s’installer dans une résidence située au Canada et, au moment où ce déménagement a commencé, l’appelante n’était pas un « contribuable [qui était] absent du Canada mais [qui] y résid[ait].
+IV. Analyse
+[9] Le paragraphe 62(1) de la LIR prévoit que peuvent être déduits des revenus provenant de sources spécifiées les frais de déménagement payés par un contribuable relativement à une « réinstallation admissible » au sens de la définition de cette expression au paragraphe 248(1) de la LIR. Les dispositions législatives pertinentes énoncent ce qui suit :
+62 (1) Un contribuable peut déduire dans le calcul de son revenu pour une année d’imposition les sommes qu’il a payées au titre des frais de déménagement engagés relativement à une réinstallation admissible dans la mesure où, à la fois :
+a) elles n’ont pas été payées en son nom relativement à sa charge ou à son emploi ou dans le cadre ou en raison de sa charge ou de son emploi;
+b) elles n’étaient pas déductibles par l’effet du présent article dans le calcul de son revenu pour l’année d’imposition précédente;
+c) leur total ne dépasse pas le montant applicable suivant :
+(i) dans le cas visé au sous-alinéa a)(i) de la définition de réinstallation admissible au paragraphe 248(1), le total des sommes représentant chacune une somme incluse dans le calcul du revenu du contribuable pour l’année tiré de son emploi au nouveau lieu de travail ou de l’exploitation de l’entreprise au nouveau lieu de travail ou une somme incluse dans le calcul de son revenu pour l’année par l’effet du sous-alinéa 56(1)r)(v) relativement à son emploi au nouveau lieu de travail,
+(ii) dans le cas visé au sous-alinéa a)(ii) de cette définition, le total des montants inclus dans le calcul du revenu du contribuable pour l’année par l’effet des alinéas 56(1)n) et o);
+d) les remboursements et allocations qu’il a reçus relativement à ces frais sont inclus dans le calcul de son revenu.
+(2) Frais de déménagement d’étudiants — Un contribuable peut déduire dans le calcul de son revenu pour une année d’imposition la somme qu’il pourrait déduire en application du paragraphe (1) s’il n’était pas tenu compte du sous-alinéa a)(i) de la définition de réinstallation admissible au paragraphe 248(1) et si l’alinéa c) de cette définition était remplacé par ce qui suit : « c) sauf si le contribuable est absent du Canada mais y réside, l’ancienne résidence ou la nouvelle résidence est située au Canada; »
+(3) Frais de déménagement — Pour l’application du paragraphe (1), sont comprises dans les frais de déménagement toutes dépenses engagées au titre :
+a) des frais de déplacement (y compris les dépenses raisonnables pour repas et logement) engagés pour le déménagement du contribuable et des membres de sa maisonnée qui se transportent de l’ancienne résidence à la nouvelle résidence;
+b) des frais de transport et d’entreposage des meubles du contribuable qui doivent être transportés de son ancienne résidence à sa nouvelle résidence;
+c) des frais de repas et de logement, près de l’ancienne résidence ou de la nouvelle résidence, engagés par le contribuable et les membres de sa maisonnée pendant une période maximale de 15 jours;
+d) des frais de résiliation du bail en vertu duquel il était le locataire de son ancienne résidence;
+e) des frais relatifs à la vente de son ancienne résidence;
+f) lorsque le contribuable ou son époux ou conjoint de fait vend l’ancienne résidence par suite du déménagement, des frais, pour le contribuable, à l’égard des services juridiques relatifs à l’achat de la nouvelle résidence et des impôts, frais, droits et taxes (sauf toute taxe sur les produits et services ou taxe à la valeur ajoutée) applicables au transfert ou à l’enregistrement du droit de propriété de cette résidence;
+g) des intérêts, impôts fonciers, primes d’assurance et coûts du chauffage et des services publics relativement à l’ancienne résidence, jusqu’à concurrence de 5 000 $ ou, s’il est moins élevé, du total des dépenses de cette nature engagées par le contribuable pour la période, à la fois :
+(i) tout au long de laquelle l’ancienne résidence n’est ni ordinairement occupée par le contribuable ou par une autre personne qui y résidait habituellement avec lui immédiatement avant le déménagement, ni louée par le contribuable à une autre personne,
+(ii) au cours de laquelle des efforts sérieux sont faits en vue de vendre l’ancienne résidence;
+h) du coût de la révision de documents juridiques pour tenir compte de l’adresse de la nouvelle résidence du contribuable, du remplacement des permis de conduire et des certificats d’immatriculation de véhicules non commerciaux (à l’exclusion du coût de l’assurance-véhicule) et des connexion et déconnexion des services publics;
+il est toutefois entendu que le terme ne vise pas les frais (autres que les frais visés à l’alinéa f)) engagés par le contribuable pour l’acquisition de sa nouvelle résidence.
+248 (1) réinstallation admissible Réinstallation d’un contribuable relativement à laquelle les faits ci-après s’avèrent :
+a) elle est effectuée afin de permettre au contribuable :
+(i) soit d’exploiter une entreprise ou d’occuper un emploi à un endroit au Canada (appelé « nouveau lieu de travail » à l’article 62 et dans la présente définition), sauf si le contribuable est absent du Canada mais y réside,
+(ii) soit de fréquenter, comme étudiant à temps plein inscrit à un programme de niveau postsecondaire, un établissement d’une université, d’un collège ou d’un autre établissement d’enseignement (appelé « nouveau lieu de travail » à l’article 62 et dans la présente définition);
+b) avant la réinstallation, le contribuable habitait ordinairement dans une résidence (appelée « ancienne résidence » à l’article 62 et dans la présente définition) et après la réinstallation, il habitait ordinairement dans une résidence (appelée « nouvelle résidence » à l’article 62 et dans la présente définition);
+c) sauf si le contribuable est absent du Canada mais y réside, l’ancienne résidence et la nouvelle résidence sont toutes deux situées au Canada;
+d) la distance entre l’ancienne résidence et le nouveau lieu de travail est supérieure d’au moins 40 kilomètres à la distance entre la nouvelle résidence et le nouveau lieu de travail.
+[10] L’appelante a quitté de façon permanente sa résidence en Australie pour venir s’installer dans sa nouvelle résidence au Canada afin d’occuper un emploi dans un nouveau lieu de travail au Canada. Il n’est pas contesté que l’appelante, avant ce déménagement, habitait ordinairement dans son ancienne résidence en Australie et qu’après le déménagement elle habitait ordinairement dans sa nouvelle résidence au Canada. Il n’est pas contesté non plus qu’avant le 3 février 2016 l’appelante résidait en Australie, et non au Canada, et qu’elle a déménagé au Canada afin d’y occuper un emploi comme médecin.
+[11] Les alinéas b) et c) de la définition de « réinstallation admissible » au paragraphe 248(1) de la LIR, pris ensemble, exigent dans des termes clairs et sans équivoque qu’avant son déménagement l’appelante ait habité ordinairement dans une résidence au Canada et qu’après le déménagement elle ait habité ordinairement dans une résidence au Canada. Une exception à l’exigence selon laquelle les deux résidences doivent être situées « au Canada », énoncée à l’alinéa c), n’est prévue que pour le cas où, au moment du déménagement, le contribuable (en l’occurrence, l’appelante) « est absent du Canada mais y réside » [2] . Malheureusement, au moment de commencer son déménagement de son ancienne résidence en Australie vers sa nouvelle résidence au Canada le 2 février 2016, l’appelante n’était pas une personne qui était absente du Canada mais qui y résidait.
+[12] L’appelante soutient que le ministre devrait être préclus de s’appuyer sur l’exigence, à l’alinéa c) de la définition de « réinstallation admissible », voulant que les deux résidences soient « au Canada », puisque cette exigence lui avait été cachée dans le formulaire T1‑M E (15) et dans le bulletin d’interprétation IT-178R3.
+[13] Le paragraphe 1 du bulletin d’interprétation IT-178R3 dit ce qui suit :
+1. Lorsqu'un particulier change de lieu de résidence au Canada pour commencer à exploiter une entreprise ou occuper un emploi à un nouveau lieu, les « frais de déménagement admissibles » (voir les numéros 12 à 17 ci-dessous) engagés pour le déménagement de l'ancienne à la nouvelle résidence peuvent être déduits. Cependant, le déménagement doit permettre au contribuable de se rapprocher d'au moins 40 kilomètres de son nouveau lieu d'affaires ou de travail. De plus, la déductibilité de ces frais est soumise aux conditions énoncées aux numéros 2 à 4 ci-dessous. Comme la Cour d'appel fédérale l'a établi dans la cause Dianne M. Giannakopoulos c. MRN, [1995] 2 C.T.C. 316 95 D.T.C 5477, la distance de 40 kilomètres se mesure en utilisant la route normale la plus courte disponible aux gens qui voyagent. Les contribuables absents du Canada mais qui sont des résidents du Canada aux fins de l'impôt doivent consulter le numéro 19 ci-dessous.
+[Je souligne.]
+[14] Je ne puis souscrire au point de vue de l’appelante selon lequel le bulletin d’interprétation IT-178R3 cache l’exigence voulant que les deux résidences soient situées « au Canada », énoncée à l’alinéa c) de la définition de « réinstallation admissible ». Le bulletin envisage très clairement la situation du particulier qui « change de lieu résidence au Canada ». Le bulletin souligne également qu’une règle différente ne peut s’appliquer que si le contribuable est absent du Canada mais y réside.
+[15] Par ailleurs, même si le bulletin d’interprétation IT-178R3 ne présentait pas un énoncé exact ou complet du droit applicable aux frais de déménagement, il est depuis longtemps établi que les bulletins d’interprétation ne lient pas le contribuable, ni le ministre, ni notre Cour [3] . Voilà qui a amené la Cour d’appel fédérale à déclarer que les bulletins d’information ne créent pas de préclusion [4] .
+[16] Pour les motifs exposés ci-dessus, le déménagement de l’appelante de l’Australie vers le Canada, qui a commencé le 2 février 2016, n’est pas une « réinstallation admissible », et les frais de déménagement payés par l’appelante en lien avec ce déménagement ne sont pas déductibles aux termes du paragraphe 62(1) de la LIR. Par conséquent, l’appel est rejeté.
+[17] Puisque l’appelante n’était pas représentée et que l’audience s’est déroulée en fonction d’un exposé conjoint des faits, chaque partie doit assumer ses propres dépens.
+Signé à Ottawa, Canada, ce 22e jour de mai 2019.
+« J.R. Owen »
+Juge Owen
+Traduction certifiée conforme
+ce 7e jour de décembre 2020.
+Erich Klein, réviseur
+RÉFÉRENCE :
+2019 CCI 118
+NO DU DOSSIER DE LA COUR :
+2018-1736(IT)G
+INTITULÉ :
+MARY RUBY ELLAWAY c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+London (Ontario)
+DATE DE L’AUDIENCE :
+Le 2 mai 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge John R. Owen
+DATE DU JUGEMENT :
+Le 22 mai 2019
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Dominik Longchamps
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] House c. La Reine, 2011 CAF 234, aux paragraphes 30 à 32.
+[2] Cette exception vise les situations où des résidents canadiens sont temporairement absents du Canada, comme c’est le cas du personnel militaire, des ambassadeurs ou des étudiants : Dixon c. La Reine, 2001 CAF 216, 2001 CarswellNat 5008 (CAF).
+[3] Vaillancourt c. La Reine, [1991] 3 C.F. 663, 132 N.R. 133, 52 F.T.R. 135 (CAF) à la page 674.
+[4] Ministre du Revenu national c. JP Morgan Asset Management (Canada) Inc., 2013 CAF 250, au paragraphe 75. Voir également la décision Vallelunga c. La Reine, 2016 CF 1329, aux paragraphes 9 à 12.

@@ -1,0 +1,354 @@
+Title: Meilleur v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/214322/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-287-214322-meilleur-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-12-19
+
+# Meilleur v. The Queen
+
+- Citation: 2016 TCC 287
+- Decision date: 2016-12-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2954, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Meilleur v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-12-19
+Neutral citation
+2016 TCC 287
+File numbers
+2013-4787(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-4787(IT)G
+BETWEEN:
+SUSAN MEILLEUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 6, 2016, at
+Edmonton, Alberta
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Neil T. Mather
+Counsel for the Respondent:
+Margaret McCabe
+JUDGMENT
+IN ACCORDANCE WITH the common Reasons for Judgment attached, the appeal of taxation years 2007, 2009 and 2010 is hereby dismissed with costs payable to Respondent fixed at $1,500.00 subject to the right of either party to make further submissions on costs within 30 days.
+Signed at Ottawa, Canada, this 19th day of December 2016.
+“R.S. Bocock”
+Bocock J.
+Docket: 2015-2214(IT)I
+BETWEEN:
+BARRY MEILLEUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 6, 2016, at
+Edmonton, Alberta
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Neil T. Mather
+Counsel for the Respondent:
+Margaret McCabe
+JUDGMENT
+IN ACCORDANCE WITH the common Reasons for Judgment attached, the appeal of taxation year 2012 is hereby dismissed, without costs.
+Signed at Ottawa, Canada, this 19th day of December 2016.
+“R.S. Bocock”
+Bocock J.
+Citation: 2016 TCC 287
+Date: 20161219
+Docket: 2013-4787(IT)G
+BETWEEN:
+SUSAN MEILLEUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2015-2214(IT)I
+AND BETWEEN:
+BARRY MEILLEUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+COMMON REASONS FOR JUDGMENT
+Bocock J.
+[1] The Appellants submit they are in the business of money lending. They assert they have suffered losses from loans ordinarily arising in that business. The Minister of National Revenue (the “Minister”) states they were investors who experienced investment losses. The determination to be made as between money lender or investor is the primary issue in these appeals.
+I. Introduction
+a) the deduction generally
+[2] More specifically, Susan Meilleur (“Susan”) and Barry Meilleur (“Barry”) bring these appeals against reassessments disallowing deductions claimed against income arising, in the words of the statute, from:
+(i) a loan or lending asset;
+(ii) of a business;
+(iii) relating to the business of money lending; and
+(iv) acquired in the ordinary course of that money lending business;
+where, it is established in the year by the taxpayer that such advances have become uncollectible, a bad debt or, if previously recorded as income and likely no longer collectible, as an allowance for doubtful debt, or, alternatively if not recorded as income, as an impaired loan or lending asset. Within these reasons, the Court utilizes the neutral term “advances” since the issue of whether such advances were loans, lending assets or investments is a critical issue in dispute.
+b) specific deduction for a bad debt
+[3] This deduction for bad debts (“bad debt deduction”) is statutorily expressed in clause 20(1)(p)(ii)(A) of the Income Tax Act, R.S.C., 1985, c. 1 (5th supp.) (“ITA”) an excerpt of which reads:
+“Bad debts”
+20(1) . . . in computing a taxpayer’s income . . ., there may be deducted
+. . .
+(A) where the taxpayer is an insurer or a taxpayer whose ordinary business includes the lending of money, [and a loan or lending asset] was made or acquired in the ordinary course of the taxpayer’s business of insurance or the lending of money, or
+…
+c) specific deduction for a doubtful or impaired debt
+[4] A correlative subsection, 20(1)(l) of the Act provides for a similar reasonable reserve or allowance against income. In respect of a doubtful debt, paragraph 20(1)(l)(i) may apply provided the receipt, receivable or advance has been previously reported or recorded as income, but not received and the likely collection of the advance becomes doubtful. Alternatively, subparagraph 20(1)(l)(ii)(B) allows for a reserve or allowance for impaired loans or lending assets of a money lending business made in the ordinary course of that business.
+[5] On a preliminary basis, the Court may dispense summarily with the doubtful debt basis for the appeal under paragraph 20(1)(l)(i). The prior recordal of receipt of the loan as business income in the year or prior year is a condition precedent to characterizing the debt as subsequently doubtful under sub-paragraph 20(1)(l)(i). Although pleaded by Susan and Barry in their Notices of Appeal, no evidence was adduced to challenge the Minister’s assumption that such debts were previously reported or recognized by either appellant as income in the applicable taxation year or a previous year. Therefore, the statutory requirement for such an allowance against income for a doubtful debt, as opposed to an impaired loan or lending asset (20(1)(l)(ii)(B), is not available to Susan or Barry: Heron Bay Investment Ltd. v. R., 2009 TCC 337 at paragraph 26. Accordingly, the appeals, to the extent they rely upon this specific provision, fail.
+d) allowable business investment loss
+[6] Another ground of appeal may also be dismissed preliminarily. Barry pleaded that his allocable portions of the advances were deductible as an allowable business investment loss (“ABIL”). Such a qualifying deduction is preferentially deductible against all income sources. However, no evidence was adduced to show that the recipient of the moneys advanced was a qualifying recipient, namely, a qualified small business corporation, defined within section 248(1) and referenced in paragraph 39(1)(c)(iv) which relate specifically to ABILs. The Minister made the assumption that the recipient was not a qualifying recipient. It is a condition precedent to claiming such an ABIL deduction: Rich v. R., [2003] 3FC 493 at paragraphs 4 and 5. Therefore, since no evidence that the borrower was such a qualifying entity was adduced, the assumption remains and the ABIL deduction is not available to Barry in his appeal.
+[7] Since the doubtful debt allowance and ABIL deduction are not available, the bad debt 20(1)(p)(ii) or allowance for impaired loans or lending assets 20(1)(l)(ii) are the remaining grounds of appeal (the “deduction”).
+II. Facts
+a) new directions for Susan and Barry beginning in 2006
+[8] Susan and Barry are each other’s spouse. Susan is a chartered public accountant (formerly designated a chartered accountant). She had worked since the early eighties in accountancy culminating, from 1991 until her leave from work in 2006 and her retirement in 2007, in positions with the Auditor-General for Canada. There, she undertook audits of various businesses and institutions throughout the north of the country. Upon retirement, Susan received moneys from a severance payment, management bonus and commuted pension benefits. In addition, she and Barry borrowed certain sums. They advanced the combined capital on the basis described below. The question remains whether such advances were loans within an existing money-lending business and whether such advances, if part of that business, were made in the ordinary course of such a money lending business. To reiterate, Susan characterizes the advances as a money lending business primarily related to speculative real estate development projects. The Minister asserts there was no money lending business and that the advances of capital were investments.
+[9] Barry has university degrees in business and is a certified public accountant. In 2006, when Susan went on work leave, he held a senior position with the Financial Services Branch of the government of Alberta. His job included monitoring compliance with procurement policies and formulating and incorporating accounting protocols and policies for that department. With respect to the advances, as described below, Barry arranged financing of the placements either from a bank or Susan’s savings.
+[10] From her years in accountancy, Susan testified she had witnessed the value and worthiness of making advances in real estate development projects. Barry, as well, indicated he had always had an “affinity’ for real estate. Therefore, according to both, when Susan left work in 2006 and retired in 2007, the undertaking of a money lending business made perfect sense.
+[11] With respect to the advances, the difference in the respective roles of Susan and Barry may be summarized as follows: Susan evaluated the placement of advances and Barry was responsible for identifying and arranging the sources of funds needed for the advances.
+b) advances of capital to earn income or gain a return on investments
+[12] In order to earn income Susan and Barry made the advances to two real estate development projects; both were related to two distinct developments of resort projects (the “projects”). The projects commenced with the acquisition of raw land, through servicing, approvals, construction and sale. Initially, Susan and Barry received interest payments at the prescribed rates and repayment of tranches of principal relating to the advances. This caused Susan and Barry to believe their fledging undertaking would be a success.
+[13] Susan and Barry characterized and recorded the advances of capital (“advances”) as follows:
+Advance Number
+(month)
+Project & Advancing
+Taxpayer
+Annual
+Interest
+Rate
+Term
+Mtge
+Priority
+Loan By
+Appellants
+Appraised
+value
+Total Project Cash Required
+#1 March 2006
+YK Projects Ltd.
+(“YK #1”) Barry
+24%
+1 Year
+2nd
+$150,000
+$86.8 million
+$10 million
+#2 April 2007
+YK Projects Ltd.
+(“YK #2”) Barry
+24%
+1 Year
+2nd
+$50,000
+$86.8 million
+$10 million
+#3 June 2007
+YK Projects Ltd.
+(“YK #3”) Susan
+15%
+1 Year
+1st
+$150,000
+$86.8 million
+$20 million
+#4 August 2007
+1256390 Alberta Ltd.
+(“Strathmore #1”) Susan
+16%
+1 Year
+1st
+$150,000
+$29.7 million
+$17 million
+#5 August 2007
+1256390 Alberta Ltd.
+(“Strathmore #2”) Susan
+24%
+1 Year
+2nd
+$150,000
+$29.7 million
+$7million (registered)
+$5million (approved)
+Total Advances
+by Susan and Barry
+$650,000
+[14] The term of each advance was relatively short (one year), but subject to renewal if the advances remained in good standing. As described by Barry, the interest rates were some 10 to 19% higher than usual prevailing borrowing rates. According to Barry, this reflected the inherent business risk or “risk of loss” premium in respect of the undertaking. Further, Barry asserted adamantly that the lucrative interest rate differentials comprised the business model for the loans: although one of four or five advances may be a total loss, the considerable returns from those “good” advances would exceed such losses and provide a handsome profit.
+[15] Other expenses related to the described money lending business were minimal. There was no advertising and little overhead outside of a home office. Barry and Susan stated they themselves provided the respective accounting, investigative and business services for the advances.
+c) use of “mortgage broker”
+(i) Arres Capital Inc.
+[16] In order to place the advances, Susan and Barry contacted Arres Capital Inc. (“ACI”). Susan had utilized a contact from her previous job to discover ACI. No other source for locating such business opportunities was utilized. ACI comprised this single source of placement recommendations, received the advances and directly placed them for Susan and Barry.
+(ii) nature and sources of advanced sums
+[17] In respect of the advances described above, Susan and Barry frequently borrowed the money as follows for the purposes of the advances of capital.
+Borrowed Source of Advances and Spreads
+Item
+Loan
+Date of Agreement
+Financed on Line of Credit
+Initial Line
+of Credit Interest Rate
+Approximate
+Interest Rate
+Spread
+#1
+YK #1
+March 20, 2006
+March 20, 2006
+5.50%
+18.5%
+# 2
+YK #2
+April 11, 2007
+April 7, 2007
+5.49%
+18.5%
+# 3
+YK #3
+June 4, 2007
+No financing
+No financing
+16%
+# 4
+Strathmore #1
+August 27, 2007
+August 15, 2007
+5.74%
+10.3%
+# 5
+Strathmore #2
+August 27, 2007
+August 15, 2007
+5.74%
+18.3%
+[18] Documents showed that 4 of the 5 placements were advanced from borrowings on a secured personal line of credit established by Susan and Barry. Moneys were then advanced to ACI who, together with funds received from other parties, in turn advanced all the commingled advances to the developers of the projects.
+(iii) structure and documentation
+Trust Agreement
+[19] For each advance, or at least each of the two projects, Susan and Barry entered into a trust agreement with ACI. The document was materially identical for each development. ACI declared itself a bare trustee. Either of Barry and Susan was defined as an “Investor”. The “loan” described in the trust agreement referred to the aggregate amount of all advances from all investors with Susan and Barry’s advance representing a proportionate share. In addition to standard indemnification provisions in favour of ACI, as trustee, the trust agreement afforded ACI the right to purchase the Investor’s advance.
+Lender Commitment, Letter
+[20] As part of the advance, Susan and Barry executed an irrevocable commitment to advance funds for the purposes of the described “mortgage investments”.
+Loan Summary
+[21] For each project, Susan and Barry received a commercial term sheet describing the aggregate capital required for each project from all participating parties. Susan and Barry made advances and acquired a proportionate share of this aggregate placement of capital.
+(iv) who did what?
+[22] From mid-1990 to 2007, Susan provided “professional business and accounting advice” free of charge to ACI. In 2007 and 2008, when ACI was without a professional accountant or comptroller, she provided accounting services for a fee. Such evidence was included in a letter from ACI arising from a CRA dispute concerning deductibility by Susan of business expenses related to the earning of such professional fee income.
+[23] Otherwise, ACI provided all of the reporting, legal and accounting services related to the advances made by Susan and Barry relating to the two projects.
+d) Collection and default
+[24] Regrettably for Barry and Susan, the world financial crisis and resulting collapse of the high risk debt markets wrought havoc on their plans. By 2007 and through 2009 and beyond, each of the advances was in default and losses were sustained. There are no factual issues in dispute regarding the quantum of losses or expenses, merely their deductibility as bad debts or impaired loans made in the course of a money lending business against all sources of income.
+[25] Some of the advances were irrevocably lost. Remnants of others were converted to interests in different ranking mortgages which remain unpaid. In one instance, converted shares in the capital stock of a project land owner appear to have been issued, but on this point the evidence and testimony of Susan was less than clear. What is clear is that from 2007 to 2010, all advances were in peril and an almost total loss was sustained.
+e) Enforcement, realization and loss
+[26] As described above various advances suffered slightly different ends. They are described below.
+YK #1 and #2
+[27] While it is difficult to know which of the tranches for YI #1 and YK #2 was actually repaid, it is an undisputed fact that of the $200,000.00 owing in aggregate, $150,000.00 was repaid in September 2008. The fate of the remaining $50,000.00, YK #2, is convoluted. To simplify, almost immediately after the repayment of YK #1, the borrower went into default, followed by a court directed administration of the company’s assets under the Companies’ Creditors Arrangement Act, R.S.C., 1985, c. C-36 (“CCAA”). Ultimately, in 2010, while under CCAA administration, the borrower and creditors agreed to a transfer of certain remaining interests in the project assets to mortgage creditors, rateably payable to their ranking security. The “board” responsible for administrating the assets for the benefit of the creditors demanded a cash contribution in 2012 from the remaining participating mortgagees. Barry, who was originally allocated the benefit of this advance, was unable to answer the call for capital contributions. On this basis, he determined the advance to be valueless as of 2012.
+YK #3
+[28] The project related to YK #3 concerned the same project as YK #2, but for the fact that the YK #3 advance was secured by a first rather than second ranking mortgage. Also Susan, not Barry, was the originally allocated owner of the advance.
+[29] No evidence was provided to show that Susan provided any additional funds during the cash contribution request of 2012.
+Strathmore #1 and #2
+[30] Both Strathmore #1 and #2 went into default in August and July of 2008, respectively. The first mortgagees (Strathmore #1) foreclosed upon the secured real property assets of this project. This caused any prospects of recovery for Strathmore #2 holders to disappear in 2009. In 2011, after protracted attempts to salvage the project, the first mortgagee’s trustee ultimately sold the property for proceeds insufficient to afford payment to any holders of the first mortgage.
+f) Filing position(s) and re(a)ssessment of Susan and Barry
+Susan
+[31] Susan originally declared interest income only in 2007 on the basis of T5s provided to her by ACI. Her originally filed 2008 tax returns were not before the Court. In 2009, Susan began to characterize her income from the advances as business income/losses from a money lending business. Simultaneously with the filing of her 2009 tax return, Susan submitted a Request for Loss Carry-Back (“T‑1As”) to taxation year 2007 in respect of the sum of $43,150.00. Upon disallowance of the business losses for 2009 and 2010 and refusal for the Loss Carry-Back, Susan filed additional T-1As for business loss carry-backs in respect of all, and by then allegedly uncollectible, advances related to YK #3, Strathmore #1 and Strathmore #2. In her notice of appeal, Susan asserted such losses and related deductions were either “bad debts” under paragraph 20(1)(p)(ii) or impaired loans under paragraph 20(1)(l)(ii). To summarize, Susan claims the bad debt or doubtful allowance in her 2007, 2009 and 2010 tax years.
+Barry
+[32] Barry’s filing position and reassessment relate only to one year, 2012. In that year, Barry claimed a “writedown” of $50,000.00 against total income related to YK #2 in line 130 of his return with an explanation. He described the $50,000.00 writedown as either “Realization of risk of loss premium” previously reported as income under sub-paragraph 20(1)(p)(i) or “write off [of a] mortgage secured by land development” and sub-paragraph 20(1)(p)(ii). The Minister reassessed and disallowed the “writedown” deductions of $50,000.00.
+III. Issues Restated
+[33] Counsel agree there are several issues or criteria for consideration relating to the bad debt or impaired lending asset deduction for the defaulted advances. Failure to establish any one of the criteria comprising the deduction is fatal. Therefore, if the Court determines that any single criterion is not established, the deductions are not allowed and the appeals shall be dismissed. The common criteria to either deduction, to reiterate, are as follows:
+(i) Is there a loan or lending asset?;
+(ii) Is there a business?;
+(iii) Is the business one of money lending?;
+(iv) Were the loans made in the ordinary course of that money lending business?; and
+(v) Has the taxpayer established that the debt or loan became uncollectible or impaired, as the case may be, in the year deducted?
+[34] Factually and legally, criteria (i) through (iv) are common to Susan and Barry. The fifth criterion (v) is distinct because of the different allocated loans and the taxation years to which each applies.
+IV. Submissions, Law, and Analysis
+a) is there a loan or lending asset?
+[35] The Respondent submits that the advances were not loans, but investments. The mere ownership of an undivided interest in an en bloc advance to a resort development project does not transform the advances into loans. In short, the advances were investments in specific capital projects, all very similar, with pre-negotiated rates of return by a third party and with title held by that third party who monitored, managed, mitigated and participated in the risk of the investments.
+[36] The Appellant asserts that there are three distinct mortgage loans, since directly registered mortgage interests in property were obtained. This mortgage loan security, title conveyance upon default and the assumed facts of the Respondent regarding the advances are consistent with loans and not simple investments.
+[37] As to legal authority on the issue of whether an advance is a loan, both counsel referred to the case of Loman Warehousing Ltd. v. HMQ, 1999 CarswellNat 1092, [1999] 4 CTC 2049. Specifically, at paragraphs 21 and 22, Justice Bowman states:
+21. Was the advance of $2,306,163 a loan? Counsel for the respondent contends that the advance was not a loan but rather an intercorporate advance. She points to the fact that there were no loan agreements, resolution, promissory notes or other security documents necessary to establish the existence of a loan in law as distinct from an accommodation between related entities.
+22. I agree that a loan and an advance are not always the same thing but where an advance is made on the understanding of both parties that there is an obligation to repay it either on demand or at some predetermined date it becomes a loan. The absence of formal documentation is not fatal nor is the absence of a requirement to pay interest. Here, however the payment of interest reinforces the implicit obligation to repay the amounts and the practice of the companies in the group of repaying advances confirms that the amounts advanced between the parties to the MNA were loans.
+[38] The presence of recurring interest, specific balance due dates, mortgage security and the fulsome rights of enforcement of Susan and/or Barry or their nominee proxy, together with the obligations of the recipients of the advance outweigh certain inconsistent descriptions within the documents: advances described as “investment”, co-existing rights of the trustee and stages and less than perfect rights to directly demand payment. As such, on balance, the advances may be characterized as loans or lending assets.
+b) Is there a business per se and was it money lending?
+[39] The more important question is whether these 5 loan advances relating to 2 projects were undertaken in the nature of trade or merely to gain higher yielding interest from risky secured instruments.
+[40] Logically, loans may exist in the context of an investment portfolio just as in an undertaking in the nature of trade. The classification of an advance as a loan speaks to the nature of the placement and its characteristic terms rather than the nature of activity of the recipient of the return and the degree and extent of activity expanded to generate it. The question remains: does the activity of placing these loans and the receipt of interest by both Appellants, in this case and upon these circumstances, constitute a business?
+[41] Susan and Barry argue that the loans totalling $650,000.00, concerning 5 different secured loans, the source of the funds, their avidity and activeness in the undertaking and the systematic continuity of the oversight ought to lead to the factual conclusion that there was a business.
+[42] The Respondent asserts that the ownership of an undivided interest in the secured advances does not render it a business. The level of direct involvement, passivity in the monitoring and negotiating of the lending assets, speculative nature of the capital projects, descriptions and terms of the documentation, small number of advances, commingling of advances with other participants and the use of a single source trustee/conduit/broker all reveal investments by way of a simple loan investment, rather than a commercial undertaking in the financial markets.
+[43] In the concluding paragraphs of Stewart v. HMQ, 2004 TCC 202 at paragraphs 5 and 6, Bowie, J. stated:
+5. …The present appeal is a simple case of a taxpayer, no doubt through misunderstanding of the difference between that which is on capital account and that which is on income account, seeking to set off the mortgage loan loss against interest income. The mortgage loan loss, whatever its amount, is not on income account. It is on capital account.
+6. The fact that a person makes repeated investments does not turn those investments into a business. There is no suggestion in the evidence that this taxpayer was purchasing securities for the purpose of turning them over for a profit. That would be an adventure, in the nature of trade. What we have is pure and simple investments in securities for the purpose of producing income. One of those investments went bad and was lost, and the loss is quite clearly a capital loss. The appeal is therefore dismissed.
+[44] Further, intention of the taxpayer during the possession of the asset (loan in this case) is important in determining whether the taxpayer was undertaking a business venture: Happy Valley Farms Ltd. v. Minister of National Revenue, [1986] CTC 259 at paragraph 15.
+[45] Of some assistance is the examination of certain factors over the course of ownership. This was referenced not only at paragraph 14 in Happy Valley, but also in Canadian Marconi Co. v. R., [1986] 2 SCR, 522 at pages 6529-6530, itself referencing Cragg v. Minister of National Revenue, [1952] Ex CR 40 at paragraph 46. Both of these authorities were referenced by Justice Rip of this Court in Langhammer v. R., 2000 CarswellNat 2833 at paragraph 34.
+[46] In so referencing in Langhammer, the former Chief Justice of this Court proceeded at paragraphs 35 and 36 to summarize the favourable and contrary indicia – and indeed the correlated facts in that case – related to his determination as to whether a business exists.
+[47] In favour of the existence of a business, the following criteria are listed in Langhammer: activity in seeking out funds to lend; the presence of security for the loans; overall level and complexity of loans. On the contrary side, lack of advertising and promotion; lack of accounting system; and, absence of direct investigation regarding new borrowers are listed. In short, the indicia of activity versus passivity during the course of ownership are to be evaluated through the facts. The presence or absence of any single factor per se will not be determinative, but rather the cumulative effect of all such factors will provide the answer.
+[48] In considering whether something is a business, reference must be made to the definition within section 248 of the Act: “a profession, calling, trade, manufacture or undertaking of any kind whatever” [underscoring added]. It is both the third and the last phrases which are relevant to the Court’s determination in the present case. While there is no clear redline test, there is a demarcation within the Act between “business” and “property”. That is to say, there is a difference between investment in assets (necessarily frequently including mortgages) in order to acquire income from that property and directing efforts constituting “an adventure or concern in the nature of trade” concerning the lending of money to others. This was identified by the Federal Court of Appeal in the case of M.R.T. Investments Ltd. v. R., [1976] DTC 6156 at page 6157.
+[49] It is a perspective to be observed from a “practical business point of view”: Morflot Freightliners Limited v. The Queen, (1989), 43 DTC 5182 (FCTD) at page 5185. In that case Justice Strayer concluded, based upon the facts, that
+The advances were provided by the plaintiff with a long-term objectivity to preserve for the indefinite future its U.S. subsidiary as a viable contracting party…
+He further continues
+The critical distinction here is as between the preservation of an enduring asset on the one hand and the expenditure of money for direct and more immediate gaining of profit through sales…
+[50] As stated, with respect to analyzing, weighing and concluding the presence of, firstly, a business and, secondly, a business of money lending, the Court must examine the facts in context to interpret the cumulative effect. Therefore, separating facts between those constituting a business and those revealing a general investment plan affords a contrasting comparison.
+[51] In the case at bar, the existence of a business is shown by the following facts adduced from the evidence:
+1. A sizeable proportion of the moneys representing the advances were borrowed from a financial institution by Barry and Susan. Such portion of the funds were then placed with ACI to advance to borrowers.
+2. The elevated interest income was generated from the significant “spread” between the frequently personally borrowed funds and the high risk interest returns on the less secure project advances.
+3. The advances were reflected by detailed, if pro forma, specific loan agreements, commitment letters and trust agreements. This documentary evidence, although customary in mortgage lending would be redundant and absent in single mortgage investments.
+[52] On the non-business or investment side, the following facts are to be considered:
+1. There was no direct ownership of the advances between the appellant lenders and borrowers. The documents themselves frequently referred to Barry and Susan as “investors.” This was legally true of others involved in advancing moneys in identical terms to those of Susan and Barry.
+2. There was no trading, assignment or sale of the mortgages. They were invested with express one-year terms, but factually they funded, by anticipated renewals, a more fixed duration, namely, the development and construction phase of each project. This plausible time horizon, notwithstanding the noted one year duration, was certainly borne out by the ultimate facts relating to each advance.
+3. The only return from the advances was interest income, albeit at much higher interest rates than usual investments. Noticeably, there were no conversion rights, equity bonuses or carry forward interests frequently and customarily afforded risk capital lenders in businesses. Similarly, there was no contractual right in favour of Barry or Susan to be either a board member, advisor or observer, either directly or through a nominee, on the board of the borrower or the trustee.
+4. It was not until 2012, some 5 years after the advances were first made that Susan was able to marshall for the CRA conclusions and representations of the existence of a business. This is revealed within the evidence when she states in June, 2012 “I finally was able to put into the documents [what] I wanted to show you.” This constructed, post-facto business is consistent with no prior or contemporaneously written or even “roughed out” business plan, organizational diagram, written criteria for a lending business, trade name, business cards, bank account for the business or its promotion.
+5. The exclusive use of ACI represented a single source intermediary who imposed terms, obligations and constraints upon Susan and Barry in respect of demand, repayment and enforcement in relation to the advances made.
+6. The lack of a written business plan, criteria or easily described business purpose was consistent with the lack of evidence concerning specific due diligence, of direct review and contact with borrowers and of negotiation of the lending terms of the advances, if not directly with the borrowers, then even with the intermediary, ACI.
+7. All of the supported “real property mortgages” were commingled and they represented undivided and fractional interests in an en bloc loan advanced together with other similarly advanced funds to a generally unfamiliar borrower through a very knowledgeable, familiar, active and co-participating manager trustee.
+[53] The analysis of these comparable factual components of activity is not an exercise in the assembly of in seriatim check lists or numerical calculations; it is the impression left factually from the cumulative effect of the activities in toto. In short, is there a sufficient level of commerciality achieved throughout which transforms the holding of real property mortgages in order to acquire interest income to that of an undertaking and activity in the nature of trade for profit concerned with a business of lending money?
+[54] After considering all of the facts in this particular case, the Court finds, as in Stewart, that the repeated investment through commingled, non-segregated advances to the projects did not constitute a trade or an undertaking. Of particular criticality to this conclusion, are the following findings:
+a) The initial inconsistent approach and characterization of the advances by Susan as property investments earning income in the early and operative years of the business. This was unlike the more methodical approach taken from the outset by the taxpayer in both Langhammer and Singh (2000 CarswellNat 472) where the taxpayer consistently viewed such advances as constituting a business of lending money by filing accordingly. Of particular note in the present appeals, is the request for adjustments to the returns after the 2007 and 2008 taxation years. While not singularly determinative, such a change during pendency of the business for these Appellants (both of whom were accountants) suggests a different intention at the outset and early periods of the loans when interest was then being paid and losses had not yet materialized than at later periods when it was not. This change in tack is further revealed by the need to subsequently analyze and re-articulate the existence of a business with some difficulty on Susan’s part;
+b) The retirement of Susan and the coincident receipt of her commuted pension benefits necessitated the need for high rates of interest as a return. The beginnings of the plan for investment were made possible by these personal funds, admittedly supplemented by borrowed funds as additional and similar advances were placed;
+c) The usual activities of a money lending business of this nature were not consistently present. There was no negotiation of financial terms with the borrowers, no revision of legal documentation reflecting the appellants’ direction and discernment and the lending opportunities were offered by a single third party and, at that, only on a take it or leave it basis;
+d) Although there was a general preference for these types of projects, there is no evidence indicating that preference was linked to an active business plan rather than a mere selection of these investments in resort projects conveniently offered by ACI. That intermediary was not a simple broker, but the indentured trustee responsible for procuring and aggregating the capital pool, monitoring the borrower and loan documentation and realizing upon the security in the event of default. To reiterate, this was the only intermediary for all five loans to the two projects. ACI, as such, acted as the primary party engaged in the relevant trade or undertaking and was not a mere agent or bare trustee facilitating the operation of Susan and Barry’s money lending business.
+e) Had the loans not ultimately defaulted, the Appellant was willing and did continue to advance funds solely for the purpose of earning interest, rather than turning the loans over for a profit in the nature of a business. The advances, notwithstanding their normal and customary one year terms, were intended by virtue of the documentation to remain outstanding from the beginning of the project development until receipt by the project owner of permanent post-development financing. Just as likely, the high interest rate reflected the risk of the advance and not the profit exigible from an enterprise relative to the effort, skill, knowledge or services of the Appellants as particularly adroit or connected money-lenders;
+f) Barry asserted that the “profit” of the business must be viewed through the knowledge that a small percentage, 20% or 25% of the loans would fail, but 80 to 75% would succeed. He asserted that the critical theory of this business model would function because the balance of repaid principal coupled with high interest on performing loans would provide a “businesslike” profit. The concept is inventive, but just as easily characterized as an investment strategy of a retiree, utilizing both pension benefits and borrowed home equity to achieve a much better than average rate of return. The evidence of an overriding business model enunciated by Barry in testimony in 2016 would have been much more convincing had it been reduced to a precise business description, or a plan at or during the early years of operation in 2006, 2007 or 2008 or even if it had readily appeared in the 60 or more pages of justification for the existence of a business submitted by Susan in response to queries by CRA in 2012 or 2013. The explanation contained in Barry’s 2012 tax return also lacked clarity and precision of an actual business description.
+V. Conclusion
+[55] Over the relevant period, an examination of the cumulative facts viewed through the criteria fails to reveal on balance a consistent, deliberate and overall level of commerciality of an activity in the nature of a trade or undertaking, as opposed to niche, larger scale personal investment strategies or plans.
+[56] The Court cannot, based upon the facts, glean an intention or activity level of the Appellants to sell or deal in these advances or loans for a profit and as a business. Their intention and activity was directed towards sufficiently regaining their principal and accrued high interest payments in order to earn high yielding investment income to support themselves. As such, these facts and conclusion are distinguishable from Happy Valley at paragraph 23. Similarly based upon the inconsistent reporting and filing history during the first two years of the advances, Susan did not approach the characterization of the advances as a business, but rather as a high income yielding investment strategy. This distinguishes the case at bar from Langhammer at paragraphs 49 and 50 where the determination of the loans in the course of business existed at both the time of initial advance and upon the occurrence of the loss.
+[57] Lastly, none of Singh, Langhammer, or Loman approach a factual situation, like the present appeals, where the loans were placed, managed, monitored and administrated by a remunerated co-lender who pooled advances from other “investors”. In short, in all these other instances there was a direct, singular, debtor-credit relationship between the taxpayer and the borrower. In the present case, the opaqueness of any such direct relationship gives further cause for concluding the Appellants utilized the intermediary to permit simplicity, ease and comfort for them as “investors” when making the loan advances.
+[58] For these reasons, the appeals are dismissed and the issue of when such advances became uncollectable is moot since there was no money lending business undertaken by Susan or Barry.
+VI. Costs
+[59] Costs are assessed in the appeal of Susan Meilleur and fixed at $1,500.00 subject to the right of either party to make written submissions thereon within 30 days of the date of judgment. For clarity, Barry Meilleur’s appeal was brought under informal procedure and, as such, there shall be no costs.
+Signed at Ottawa, Canada, this 19th day of December 2016.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2016 TCC 287
+COURT FILE NOs.:
+2013-4787(IT)G, 2015-2214(IT)I
+STYLES OF CAUSE:
+SUSAN MEILLEUR v. HER MAJESTY THE QUEEN and
+BARRY MEILLEUR v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+September 6, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+December 19, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Neil T. Mather
+Counsel for the Respondent:
+Margaret McCabe
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Neil T. Mather
+Firm:
+Neil T. Mather Professional Corporation
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

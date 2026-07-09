@@ -1,0 +1,429 @@
+---
+title: "177398 Canada Ltd c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31193/index.do"
+last_modified: "2013-05-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 177"
+citation2: ""
+neutral_citation: "2013 CCI 177"
+decision_date: "2013-05-31"
+language: "fr"
+item_id: "31193"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5061
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:16:58.730000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "14953627748665f48201cf80a2d047b58d8f9c4b0cd7acb95c2c269242a789eb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 177398 Canada Ltd c. M.R.N.
+
+- Citation: 2013 CCI 177
+- Decision date: 2013-05-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5061, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+177398 Canada Ltd c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-05-31
+Référence neutre
+2013 CCI 177
+Numéro de dossier
+2011-3018(CPP), 2011-3019(EI)
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2011-3019(EI)
+2011-3018(CPP)
+ENTRE :
+177398 CANADA LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 7 septembre 2012, à Vancouver (Colombie‑Britannique),
+et le 3 décembre 2012 par voie de conférence téléphonique en provenance d’Ottawa (Ontario).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Pour l’appelante :
+Me Meldon Ellis
+M. David Roberts (stagiaire en droit)
+Avocate de l’intimé :
+Me Holly Popenia
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des décisions rendues en vertu de la Loi sur l’assurance‑emploi (la « Loi ») et du Régime de pensions du Canada (le « Régime ») sont rejetés, et les décisions rendues par le ministre du Revenu national le 12 juillet 2011 sont confirmées au motif que Bryan C. Rossiter occupait un emploi assurable et ouvrant droit à pension entre le 12 novembre 2003 et le 22 mai 2010, au sens des alinéas 5(1)a) de la Loi et 6(1)a) du Régime, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa (Ontario), ce 31e jour de mai 2013.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 9e jour de juillet 2013.
+Alya Kaddour‑Lord, traductrice
+Référence : 2013 CCI 177
+Date : 20130531
+Dossiers : 2011-3019(EI)
+2011-3018(CPP)
+ENTRE :
+177398 CANADA LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction
+[1] L’appelante interjette appel des décisions rendues par le ministre du Revenu national (le « ministre ») le 12 juillet 2011, selon lesquelles Bryan C. Rossiter occupait un emploi assurable et ouvrant droit à pension auprès de l’appelante pendant la période de six ans et demi comprise entre le 12 novembre 2003 et le 22 mai 2010 pour l’application de la Loi sur l’assurance‑emploi (la « Loi ») et du Régime de pensions du Canada (le « Régime »).
+[2] 177398 Canada Ltd. exerce ses activités sous les noms d’Advantage Restoration Services, d’Advantage Plumbing & Drainage Company et d’Advantage Septic Services. Pour plus de commodité, j’appellerai 177398 Canada Ltd. « Advantage ».
+[3] Je tiens à remercier les avocats des deux parties.
+Les faits
+[4] Quand il a rendu sa décision, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelante exerçait ses activités sous le nom d’Advantage Plumbing & Drainage;
+b) les actions de l’appelante sont détenues à parts égales par Frederik Van Hunenstijn et sa femme, Ann Van Hunenstijn;
+c) l’appelante exploitait une entreprise de vente de fournitures de plomberie au détail et en gros, et elle se spécialisait dans les réparations après sinistre;
+d) les bureaux de l’appelante étaient situés à Coquitlam, en Colombie‑Britannique;
+e) l’appelante était ouverte toute l’année, du lundi au samedi, de 8 h à 18 h;
+f) M. Van Hunenstijn dirigeait les activités quotidiennes de l’appelante;
+g) le travailleur est un technicien en plomberie expérimenté;
+h) le travailleur détenait un diplôme d’« UCLI », obtenu en Angleterre, lui conférant le titre de maître-plombier;
+i) le travailleur a commencé à travailler pour l’appelante en 2003;
+j) le travailleur et l’appelante ont signé une entente écrite relative aux modalités de travail dont les deux parties avaient convenu en 2003 (la « première entente »);
+k) la première entente est restée en vigueur de 2003 à 2008;
+l) le 10 février 2008, le travailleur et l’appelante ont conclu une deuxième entente (la « deuxième entente »);
+m) le travailleur s’est vu fournir des cartes de visite sur lesquelles apparaissaient son titre ainsi que le nom commercial de l’appelante;
+n) le travailleur fournissait ses propres outils à main;
+o) aux termes de la première entente, le travailleur était payé à la commission au taux de 28 % des ventes brutes totales;
+p) aux termes de la deuxième entente, le travailleur devait être payé au taux de 40 % des ventes brutes totales;
+q) en avril 2008, le travailleur s’est inscrit aux fins de la TPS;
+r) l’appelante fournissait au travailleur le camion ainsi que les outils à usage industriel et l’équipement lourd, sans qu’il en coûte quoi que ce soit au travailleur;
+s) le camion que le travailleur utilisait était équipé d’un GPS, de telle sorte que l’appelante pouvait faire le suivi de l’emploi du temps du travailleur;
+t) l’appelante fournissait au travailleur un téléphone cellulaire et un téléavertisseur, sans qu’il en coûte quoi que ce soit au travailleur;
+u) le travailleur devait répondre aux appels d’un répartiteur qui le supervisait;
+v) le travailleur devait fournir ses services en personne;
+w) le travailleur ne pouvait pas engager de remplaçant ou d’assistants;
+x) le travailleur n’avait fait aucun investissement significatif dans sa propre entreprise;
+y) le travailleur effectuait des tâches additionnelles à titre de chef d’équipe, en échange de quoi il était payé 150 $ de plus par semaine;
+z) le travailleur ne faisait pas de publicité pour ses services;
+aa) l’appelante fournissait une assurance médicale et dentaire complémentaire à tous ses travailleurs;
+bb) l’appelante payait les primes du travailleur pour ce qui est de l’assurance médicale et de l’indemnisation des travailleurs, et le travailleur était couvert par l’assurance responsabilité de l’appelante;
+cc) le travailleur a présenté une demande auprès du bureau des normes d’emploi, qui a jugé que le travailleur était un employé de l’appelante.
+Les ententes contractuelles
+[5] La première entente conclue entre Advantage et M. Rossiter, datée du 12 novembre 2003, est intitulée [traduction] « Contrat de services exclusifs particuliers et d’intermédiaire »[1]. M. Van Hunenstijn a déclaré qu’il s’était servi d’un contrat d’emploi antérieur rédigé par un avocat et qu’il l’avait lui‑même modifié pour établir l’entente contractuelle en cause.
+[6] Le contrat est libellé d’une manière qui convient à la situation d’un entrepreneur indépendant, et certains termes sont compatibles avec une telle situation, par exemple :
+a) La clause 4 est ainsi libellée :
+[traduction]
+[…] [Advantage] peut retenir les services de [M. Rossiter] pour l’exécution de projets particuliers ou pour la fourniture de services particuliers […]. [M. Rossiter] peut se présenter comme un technicien en entretien et en réparation, mais pendant toute la période visée par le présent contrat, il agira à titre d’entrepreneur indépendant et ne sera expressément pas un employé […].
+b) La clause 6 est ainsi libellée :
+[traduction]
+[…] [M. Rossiter] est libre de refuser tout travail, projet ou services qu’[Advantage] lui propose, qu’elle les lui propose en son nom propre ou à titre d’intermédiaire.
+c) La clause 8 prévoit qu’aucune garantie n’est donnée relativement à la quantité ou au type de travail offert.
+[7] D’autres modalités contractuelles semblent incompatibles avec une entente d’entrepreneur indépendant. Par exemple, aux termes des clauses 9 et 12, il est pour ainsi dire interdit à M. Rossiter de travailler pour le compte d’un concurrent d’Advantage ou de faire concurrence à Advantage. Il ne peut travailler que pour le compte d’Advantage, que ce soit directement ou indirectement, comme il est établi dans la première partie de la clause 9. M. Rossiter doit également s’engager à exécuter le contrat à temps plein. Les clauses 9 et 12 sont ainsi rédigées :
+a) La clause 9 :
+[traduction]
+[M. Rossiter] peut fournir des services professionnels à d’autres représentants d’[Advantage] payés à la commission, que ce soit à titre de sous‑traitant ou en fonction des besoins, à la condition d’avoir pour cela obtenu l’autorisation préalable d’[Advantage]. Pendant toute la durée du présent contrat, [M. Rossiter] ne doit pas occuper d’autre emploi, effectuer d’autre travail ou fournir d’autres services, consultations ou toute autre forme de service, et il ne doit pas posséder d’entreprise de plomberie ou de réparations après sinistre ou d’entreprise connexe, que ce soit directement ou indirectement, ni faire concurrence, directement ou individuellement, à [Advantage].
+b) La clause 12 :
+[traduction]
+Pendant toute la durée du présent contrat, ou pendant toute la durée de la prorogation de ce contrat, sous réserve du consentement exprès d’[Advantage], [M. Rossiter] ne doit pas exploiter d’autre entreprise ou exercer d’autre occupation, ne doit pas devenir directeur, gestionnaire ou agent de toute autre société, entreprise ou personne, dans le domaine de la plomberie ou des réparations, et il doit s’engager à exécuter le présent contrat, qui le lie à [Advantage], à temps plein.
+[8] Il ressort au moins du contrat que M. Rossiter faisait l’objet d’un niveau de contrôle apparemment élevé.
+La clause 11 est ainsi libellée :
+[traduction]
+[M. Rossiter] doit observer et exécuter toutes les directives données par les directeurs respectifs et les autorités compétentes d’[Advantage] et il doit observer les règlements d’[Advantage], en agissant en tout temps dans le meilleur intérêt d’[Advantage]. Dans l’exécution de ses obligations contractuelles particulières, [M. Rossiter] doit observer toutes les politiques d’[Advantage] établies selon les besoins, et s’y conformer, qu’il s’agisse de politiques écrites ou non.
+[9] Certaines autres clauses sont ainsi libellées :
+[traduction]
+a) Advantage doit fournir à M. Rossiter un inventaire de pièces suffisant pour lui permettre d’exécuter la plupart des travaux sans avoir à faire d’achats additionnels[2].
+b) M. Rossiter peut acheter, selon ce qui est raisonnable et nécessaire, les pièces qui ne font pas partie du stock normal et qui sont nécessaires pour accomplir un travail particulier, et ce, sur le compte d’Advantage, auprès de fournisseurs agréés par celle‑ci[3].
+c) Advantage doit fournir à M. Rossiter un camion de service adéquat et supporter les frais relatifs à l’essence, à l’entretien, aux pneus, à l’assurance et à la location[4].
+[10] Le 12 novembre 2003, M. Rossiter a également signé une lettre[5] adressée à Advantage [traduction] « et à qui de droit », dans laquelle il reconnaissait qu’il était un entrepreneur indépendant. Cette lettre est ainsi rédigée :
+[traduction]
+Je ne suis pas un employé, mais j’agis à titre d’entrepreneur indépendant pour chaque contrat.
+Vous n’agissez qu’à titre d’intermédiaire dans la recherche de contrats de travail et vous ne contrôlez pas mon travail, ma rémunération ou mes pertes. J’exerce un contrôle total sur les contrats que je prends, les outils que j’utilise et le travail que j’effectue.
+Je n’ai aucune garantie de travail, de salaire ou d’argent, et je ne suis pas non plus soumis à des exigences relatives aux personnes que je pourrais engager pour effectuer mon travail.
+Je suis seul responsable du paiement de mes impôts, de mes taxes et de mes cotisations d’assurance-emploi ainsi que de mes autres dépenses ou versements.
+Je n’ai pas droit à un RE et je ne suis pas un employé.
+Advantage n’a pas signé cette lettre.
+[11] Le 10 février 2008, Advantage et M. Rossiter ont conclu une nouvelle entente intitulée [traduction] « Contrat d’entreprise »[6]. Elle a remplacé l’entente de 2003. Elle est ainsi libellée, en partie :
+[traduction]
+a) « Les parties comprennent que [M. Rossiter] n’est pas un employé d’[Advantage] et en conviennent[7]. » Elles conviennent également du fait que M. Rossiter fournit ses services à titre d’entrepreneur indépendant[8].
+b) [Mr. Rossiter] est libre de refuser tout travail ou contrat proposé […][9].
+c) Advantage doit fournir à M. Rossiter un stock de pièces suffisant pour lui permettre d’exécuter la plupart des travaux sans avoir à faire d’achats additionnels [10].
+d) M. Rossiter peut acheter, selon ce qui est raisonnable et nécessaire, les pièces qui ne font pas partie du stock normal et qui sont nécessaires pour accomplir un travail particulier, et ce, sur le compte d’Advantage, auprès de fournisseurs agréés par celle‑ci[11].
+e) M. Rossiter doit fournir tous les outils et l’équipement généraux nécessaires à l’exécution de ses services, mais il peut louer des outils spécialisés, en fonction des besoins d’Advantage[12].
+f) Advantage doit fournir à M. Rossiter un camion de service adéquat et supporter les frais relatifs à l’essence, à l’entretien, aux pneus, à l’assurance et à la location [13].
+[12] Il n’y a pas de dispositions semblables aux clauses 9, 11 et 12 de l’entente de 2003, qui empêchaient M. Rossiter d’accepter d’autres travaux de plomberie ou de faire concurrence à Advantage. Toutefois, l’annexe B de l’entente de 2008 stipule clairement que M. Rossiter ne peut se servir du camion de service fourni que pour les activités d’Advantage, par exemple : [traduction] « [M. Rossiter] ne doit jamais se servir, ou permettre à un tiers de se servir, du véhicule de service à d’autres fins que pour les activités d’[Advantage] […][14] ».
+Le calcul de la rémunération de M. Rossiter
+[13] Aux termes des ententes conclues aussi bien en 2003 qu’en 2008, Advantage payait à M. Rossiter un pourcentage fixe de ce que je qualifierais de [traduction] « prix de vente net ». Ce prix de vente net est égal au prix payé par le consommateur des services de plomberie avant l’ajout de la taxe de vente provinciale et de la TPS, moins certaines déductions. Ces déductions correspondent au coût des pièces, des matériaux et des outils spécialisés loués par Advantage à M. Rossiter.
+[14] Aux termes de l’entente de 2008, M. Rossiter recevait une rémunération égale à 40 % du prix de vente net. Toutefois, aux termes de cette entente, contrairement à l’entente de 2003, M. Rossiter versait également à Advantage une somme égale à 10 % du prix de vente net pour l’usage du véhicule de service, le camion. Ces 10 % étaient inclus dans les 40 % susmentionnés, et il s’ensuit que M. Rossiter recevait 30 % du prix de vente net[15].
+[15] Aux termes de l’entente de 2003, M. Rossiter recevait 28 % du prix de vente net et ne payait pas pour l’utilisation du camion.
+[16] En pratique, pour ce qui est de la rémunération, la seule différence entre les ententes de 2003 et de 2008 était que, après avoir tenu compte du camion selon les modalités de l’entente de 2008, M. Rossiter recevait 30 % du prix de vente net au lieu de 28 %, soit une augmentation de 2 %.
+[17] Bien que je sois incapable de trouver une disposition relative à cette conclusion dans une des ententes, dans les faits, la preuve a montré qu’on effectuait une autre déduction dans le calcul du prix de vente net. Quand M. Rossiter avait besoin d’aide pour un projet particulier et qu’il obtenait l’aide d’employés d’Advantage ou de travailleurs fournis par une autre société par l’intermédiaire d’Advantage, Advantage supportait ces frais et les déduisait ensuite dans le calcul de ce que j’ai qualifié de prix de vente net.
+[18] C’est ce qui ressort des calculs effectués pour les périodes de paie[16]. Dans ces calculs, on peut voir que les sommes déduites de la facture totale ne comprennent pas seulement l’utilisation d’équipement, de pièces et de fournitures, mais également le tarif horaire pour la main‑d’œuvre. Une « commission » de 30 % est alors calculée sur la somme nette. « Commission » est le terme employé dans les documents[17].
+[19] Je prends note du fait que cette façon de faire produit un résultat très différent de ce qui serait arrivé si M. Rossiter avait retenu les services d’autres travailleurs et les avait payés au moyen de sa rémunération.
+[20] Cela s’illustre facilement. Par exemple, aux termes de l’entente conclue entre Advantage et M. Rossiter, si le prix de vente net était de 10 000 $, nonobstant le coût de toute autre main-d’œuvre que celle de M. Rossiter, et si des frais de main‑d’œuvre de 5 000 $ avaient aussi été payés pour l’exécution du projet, on effectuerait le calcul suivant :
+Prix de vente net avant main-d’œuvre
+10 000 $
+Main-d’œuvre
+(5 000 $)
+Prix de vente net
+5 000 $
+Commission : 30 % x 5 000 $
+1 500 $
+Montant retenu par M. Rossiter
+1 500 $
+[21] Si on avait observé une pratique différente et que M. Rossiter avait dû payer la main-d’œuvre additionnelle au moyen de sa rémunération, le résultat serait très différent :
+Prix de vente net
+10 000 $
+Commission : 30 % x 10 000 $
+(3 000 $)
+Main-d’œuvre
+(5 000 $)
+Perte subie par M. Rossiter
+(2 000 $)[18]
+[22] Advantage calculait les commissions de M. Rossiter. Celui‑ci n’envoyait pas de factures à Advantage[19].
+[23] M. Rossiter n’était pas payé s’il allait voir un client et qu’il donnait à ce dernier une estimation qui était refusée. Il ne recevait pas de rémunération additionnelle s’il devait retourner chez un client pour retoucher un travail qu’il avait déjà effectué.
+[24] Pendant une période d’un peu moins d’un an en 2009, Advantage a payé à M. Rossiter ce qui a été qualifié de [traduction] « rémunération de chef d’équipe », à raison de 300 $ toutes les deux semaines. Cette rémunération était versée en reconnaissance des appels téléphoniques passés à M. Rossiter par d’autres techniciens en plomberie qui étaient confrontés à divers problèmes et qui avaient besoin de ses conseils. Personne d’autre ne recevait de rémunération à titre de [traduction] « chef d’équipe ».
+Les déclarations de revenus de M. Rossiter
+[25] Malheureusement, les déclarations de revenus de M. Rossiter n’ont pas été produites en preuve. La Cour ne disposait que d’imprimés de l’Agence du revenu du Canada qui faisaient état des renseignements limités suivants[20] :
+Année
+Type de revenus
+Montant approximatif
+Note
+2003
+Employé
+2 500 $ (T4)
+Environ 1 000 $ d’autres revenus ne provenant pas d’un travail autonome
+2004
+Travail autonome
+37 000 brut; 37 000 $ net
+Inscrits comme revenus de commission
+2005
+Employé
+55 500 $ (T4)
+2006
+Travail autonome
+63 000 $ brut; 57 000 $ net
+Inscrits comme revenus d’entreprise
+2007
+Travail autonome
+66 000 $ brut; 63 000 $ net
+Inscrits comme revenus d’entreprise
+2008
+Travail autonome
+78 000 $ brut; 75 000 $ net
+Inscrits comme revenus d’entreprise
+2009
+Travail autonome
+80 000 $ brut; 78 000 $ net
+Inscrits comme revenus de commission [21]
+[26] Il n’est pas assuré que le montant qui apparaît pour 2003 a trait au travail effectué pour le compte d’Advantage, étant donné que M. Rossiter a commencé à travailler pour l’appelante en novembre 2003.
+[27] Les revenus gagnés pendant l’année 2005 sont inscrits comme étant des revenus d’emploi figurant sur un T4.
+[28] En ce qui a trait aux années 2006 à 2009, le revenu brut déclaré correspond au montant qui apparaît sur le feuillet T5018 État des paiements contractuels, établi par Advantage, sauf en ce qui a trait à l’année 2008, pour laquelle le montant qui apparaît dans la déclaration de revenus de M. Rossiter semble être d’environ 3 000 $ inférieur à la somme qui apparaît sur l’État des paiements contractuels[22].
+La TPS
+[29] Le 1er juin 2007, M. Rossiter s’est inscrit aux fins de la TPS. Advantage calculait la TPS sur la somme due à M. Rossiter et donnait un chèque distinct pour le paiement de la TPS[23].
+Les outils
+[30] M. Rossiter ne fournissait qu’une petite partie de l’équipement utilisé.
+[31] M. Rossiter devait fournir ses propres petits outils et Advantage fournissait le camion de service, dans lequel se trouvaient les pièces et les outils qu’il fallait pour effectuer la plupart des travaux de routine. Le camion de service coûte environ 60 000 $ et il s’y trouve pour environ 10 000 à 20 000 $ de pièces, de raccords de tuyauterie, de pompes et d’équipement[24]. Le nom d’Advantage apparaissait sur le côté du camion de service.
+[32] Advantage fournissait également à M. Rossiter un téléphone cellulaire, un téléavertisseur et des cartes de visite avec le nom d’Advantage, sans frais.
+[33] Advantage fournissait un uniforme à M. Rossiter, et même si Advantage l’encourageait à le porter, ce n’était pas obligatoire. M. Van Hunenstijn a déclaré qu’en général, M. Rossiter ne portait pas l’uniforme. Il était obligatoire pour les employés de porter l’uniforme. M. Rossiter a affirmé qu’il devait porter l’uniforme.
+[34] Si M. Rossiter avait besoin d’autres pièces ou d’équipement supplémentaire, Advantage les lui fournissait. On avait recours à l’équipement d’Advantage, par exemple une excavatrice, quand celui-ci était disponible; si Advantage n’avait pas l’équipement voulu, les bureaux d’Advantage prenaient les dispositions nécessaires pour obtenir l’équipement. Advantage déduisait le coût des pièces ou de l’équipement quand elle calculait le prix de vente net et les commissions.
+La main-d’œuvre
+[35] Pour n’importe quel travail, si M. Rossiter avait besoin de l’assistance d’autres travailleurs, il pouvait faire appel aux travailleurs d’Advantage ou à des travailleurs fournis par une société telle que Labour Ready, et ce, par l’intermédiaire d’Advantage. M. Van Hunenstijn a ajouté que M. Rossiter avait la possibilité d’engager quelqu’un directement, mais qu’Advantage n’aurait aucun document à produire à ce sujet parce que cela ne se serait pas fait par son intermédiaire; il croyait que c’est ce que M. Rossiter avait fait en de rares occasions[25].
+[36] Je note que l’entente relative à la rémunération conclue entre M. Rossiter et Advantage avait de quoi dissuader fortement M. Rossiter d’engager directement de la main‑d’œuvre. Sans documents justificatifs, le coût de la main-d’œuvre que M. Rossiter engageait directement ne serait pas inclus dans les diverses déductions qui étaient faites dans le calcul du prix de vente brut.
+[37] Comme je l’ai souligné dans mes exemples ci‑dessus, le coût non déductible d’une telle main-d’œuvre réduisait de beaucoup la commission qui restait à M. Rossiter si on la compare à la commission qui lui restait quand il obtenait cette main-d’œuvre par l’intermédiaire d’Advantage. La main‑d’œuvre obtenue par l’intermédiaire d’Advantage réduisait sa commission de 30 %, mais la main-d’œuvre qu’il engageait directement réduisait son revenu de 100 % des frais payés, vu qu’il payait cette main-d’œuvre au moyen de sa commission.
+Les autres faits
+[38] En 2006, Advantage a décerné à M. Rossiter le prix du meilleur rendement général[26].
+[39] De l’avis général, M. Rossiter était un excellent plombier.
+[40] Le fait que la personne qui répondait à l’appel soit un entrepreneur indépendant comme M. Rossiter ou un employé ne faisait aucune différence apparente pour le client.
+[41] M. Rossiter avait choisi de participer aux régimes d’assurance médicale et dentaire de la société. Il n’y était pas obligé, contrairement aux employés. M. Rossiter supportait la moitié des frais associés à ces régimes.
+[42] Advantage obtenait un avenant spécial pour sa police d’assurance, de manière à couvrir ses entrepreneurs indépendants, dont M. Rossiter.
+[43] Le paiement était obtenu auprès des clients après l’exécution de chaque travail de plomberie, mais si un problème survenait quant à l’obtention du paiement, c’était Advantage qui s’en occupait.
+[44] Advantage payait la protection assurée par la loi sur les accidents du travail de M. Rossiter. Ce dernier n’avait ni assurance d’entreprise ni assurance professionnelle et il n’avait pas d’assurance responsabilité pour son travail[27].
+Les principaux problèmes relatifs aux faits en litige
+[45] Bien que les parties ne s’entendent généralement pas sur la plupart des éléments de preuve, il y a trois points relatifs aux faits sur lesquels les parties étaient largement en désaccord. Ces points étaient les suivants :
+a) les intentions des parties,
+b) la question de savoir si M. Rossiter avait refusé des travaux précis,
+c) la question de savoir si M. Rossiter avait effectué des travaux de plomberie pour le compte d’autres payeurs qu’Advantage pendant la période en cause.
+L’intention
+Le témoignage de M. Van Hunenstijn
+[46] M. Van Hunenstijn a déclaré qu’Advantage avait environ 25 employés et que, quand la société s’était lancée en affaires il y a de nombreuses années, presque tous les techniciens étaient des entrepreneurs indépendants, comme M. Rossiter. Pendant la période en cause en l’espèce, l’équipe de techniciens d’Advantage était composée d’un mélange d’employés et d’entrepreneurs indépendants; depuis, Advantage a adopté la pratique consistant à n’avoir que des techniciens employés.
+[47] M. Van Hunenstijn est la personne qui décidait si un technicien serait un employé ou un entrepreneur indépendant. Pour décider d’engager un entrepreneur indépendant, il devait être convaincu que le technicien en question avait de l’expérience, offrait un bon service à la clientèle et était capable de convaincre les clients potentiels de retenir ses services.
+[48] Il a déclaré que tandis que les employés étaient rémunérés selon un tarif horaire strict, les entrepreneurs pouvaient gagner plus d’argent en travaillant plus longtemps, plus intelligemment et plus dur. Toutefois, les entrepreneurs indépendants pouvaient aussi subir des pertes si le client potentiel n’était pas prêt à accepter l’estimation et à faire effectuer le travail.
+[49] M. Van Hunenstijn a affirmé que les entrepreneurs indépendants gagnaient plus que les employés et, selon ses estimations, que M. Rossiter gagnait approximativement 20 % de plus qu’un employé ayant une expérience similaire.
+[50] Contrairement aux employés, les entrepreneurs indépendants pouvaient refuser des appels, et il était parfois plus difficile d’obtenir que les entrepreneurs indépendants prennent les appels, par exemple le vendredi après-midi.
+[51] De manière graduelle, Advantage a introduit plus d’incitatifs dans le salaire de ses employés.
+[52] Quand on lui a demandé pourquoi il y avait eu un second contrat avec M. Rossiter, à savoir l’entente de 2008, M. Van Hunenstijn a donné la réponse suivante :
+[traduction]
+R Oui, je pense que l’autre couvrait une période de cinq ans, et vous savez, au fil des affaires et du temps, nous avons décidé, vous savez, de rédiger un autre contrat et, vous savez, nous avons simplement essayé d’apporter des améliorations par rapport au contrat précédent, au niveau de l’écriture et de la formulation. Mais l’intention et les faits n’ont pas changé au quotidien. Ce n’était pas – c’était une nouvelle entente sur papier, pour continuer de travailler comme nous le faisions déjà[28].
+[Non souligné dans l’original.]
+[53] Pour les travaux les moins importants, il y avait un prix suggéré et dans les dernières années, ce prix apparaissait sur les factures, même s’il pouvait être ajusté dans des circonstances particulières.
+[54] Pour les travaux les plus importants, M. Rossiter pouvait fournir des estimations sans l’approbation d’Advantage, contrairement aux employés, qui avaient besoin d’obtenir cette approbation pour les estimations supérieures à 1 000 $.
+[55] Les employés devaient effectuer des rotations de leurs quarts de travail de manière à ce qu’Advantage puisse offrir ses services sept jours sur sept, alors que les entrepreneurs indépendants ne travaillaient les samedis et les dimanches que s’ils le souhaitaient.
+[56] M. Rossiter était satisfait de son revenu et n’a jamais remis en question son statut d’entrepreneur indépendant.
+[57] Il importait peu à M. Van Hunenstijn que M. Rossiter travaille ailleurs tant que ce dernier n’utilisait pas l’équipement ou les pièces d’Advantage.
+Le témoignage de M. Rossiter
+[58] M. Rossiter a reçu sa formation de plombier en Angleterre, où il a acquis une expérience considérable.
+[59] Il se trouvait au Canada depuis plusieurs années quand il a commencé à travailler pour Advantage. Pendant cette période, il a travaillé comme vendeur en immobilier, et plus tard comme chef cuisinier.
+[60] Sa relation avec Advantage a commencé après qu’il a répondu à une annonce publiée par celle-ci. C’était la première fois qu’il travaillait comme plombier au Canada.
+[61] En ce qui le concerne, Advantage lui a offert un travail et il a été ravi de l’obtenir. Il aimait vraiment travailler pour Advantage.
+[62] Il a signé ce qu’on lui demandait de signer au départ, sans lire le document, et il n’a jamais reçu copie de ce qu’il avait signé, bien qu’on lui ait dit que ce serait le cas. Il croyait qu’il était un employé, qu’il devait être disponible pour effectuer des travaux et qu’il était rémunéré à la commission. Il a tenu pour acquis que quand on travaillait pour une société, on était un employé.
+[63] La lettre du 12 novembre 2003 adressée à Advantage [traduction] « et à qui de droit » qu’il a signée ne traduisait pas sa compréhension de l’entente qui le liait à Advantage.
+[64] Quand il a commencé à travailler, il croyait que tout le monde était payé à la commission.
+[65] Il travaillait du mardi au samedi et avait les dimanches et les lundis de congé. Il devait assister aux rencontres hebdomadaires relatives aux ventes et il recevait pour cela un rappel la veille de la rencontre. Ce rappel précisait qu’il était obligatoire d’assister à la rencontre.
+[66] En ce qui a trait au second contrat, il a également affirmé qu’il avait simplement signé le document qu’on lui avait présenté.
+[67] Il commençait sa journée de travail à la même heure tous les jours et il appelait le répartiteur pour lui demander de l’envoyer à son premier travail. Après chaque travail, le répartiteur l’envoyait effectuer le travail suivant. Il ne finissait pas ses journées à une heure régulière, son horaire pouvait être très variable en fonction du travail qu’il y avait à faire et du temps que cela pouvait prendre pour terminer le dernier travail de la journée.
+[68] Il devait se tenir disponible après les heures normales de travail certains soirs. Quand on lui a demandé si cela était exigé, il a répondu que c’était ce à quoi on s’attendait.
+[69] M. Rossiter a déclaré qu’il avait refusé un seul travail, et cela en raison des conditions de travail exécrables qu’il avait trouvées dans le vide sanitaire dans lequel il aurait dû travailler. Il avait téléphoné aux bureaux d’Advantage pour expliquer la situation; on lui avait répondu [traduction] : « c’est bon, va-t’en. »
+[70] Toutefois, M. Rossiter a ajouté que quand le répartiteur lui demandait d’aller prendre un travail dans un lieu très éloigné de son point de départ, il demandait à ce qu’on l’envoie dans un endroit plus raisonnable d’un point de vue géographique par rapport à l’endroit où il se trouvait.
+[71] M. Rossiter a déclaré qu’il s’en remettait à son comptable pour la production de ses déclarations de revenus.
+[72] Au début, Advantage utilisait des factures ordinaires, mais par la suite, elle a commencé à utiliser des formulaires préimprimés sur lesquels apparaissaient des prix fixes pour les travaux de routine. Pour les plus gros travaux, M. Rossiter pouvait donner sa propre estimation, mais il lui fallait tout de même obtenir l’approbation d’Advantage.
+[73] Advantage lui disait où aller et quel travail faire, mais, parce qu’il avait de l’expérience, il ne faisait pas l’objet d’une supervision sur le lieu de travail. De manière très occasionnelle, un représentant d’Advantage pouvait venir en observateur.
+M. Rossiter refusait‑il des travaux?
+[74] Amanda Cockroft et Katie Panganiban ont témoigné. Mme Cockroft a été répartitrice auprès d’Advantage d’octobre ou novembre 2009 jusqu’en juin 2010. Elle n’y travaille plus. Mme Panganiban est répartitrice auprès d’Advantage depuis décembre 2008.
+[75] Toutes deux ont déclaré qu’on disait simplement aux employés où aller, mais que les entrepreneurs indépendants devaient d’abord accepter le travail. Elles ont toutes deux déclaré qu’il était difficile de travailler avec M. Rossiter et qu’il refusait souvent le travail sous prétexte que le lieu de travail était trop éloigné ou qu’il ne serait pas suffisamment payé.
+[76] Comme je l’ai dit précédemment, M. Rossiter a déclaré qu’il n’avait pas refusé de travail, à une exception près, mais qu’il demandait à ce qu’on l’envoie dans des lieux de travail plus raisonnables du point de vue de la distance à parcourir.
+M. Rossiter travaillait-il pour le compte de tiers, en dehors d’Advantage?
+[77] Mme Cockroft a ajouté que le 20 mai 2010, elle avait reçu un appel d’une femme qui faisait l’objet de poursuites judiciaires de la part de son propriétaire et qui avait besoin d’avoir des preuves relatives à certains travaux de plomberie qu’elle avait fait effectuer un an plus tôt. La femme avait répondu à une annonce publicitaire relative à des services de plomberie qui avait été publiée dans le journal local, et elle ne se souvenait pas du nom du plombier mais se rappelait que le nom d’Advantage figurait sur son camion[29].
+[78] Advantage a également produit en preuve deux imprimés d’écrans d’ordinateur sur lesquels figuraient des annonces en ligne, la première pour « Bryan’s Plumbing » et l’autre pour [traduction] « un compagnon plombier d’expérience ». La première annonce a été publiée à la mi‑mai 2010 et la seconde à la fin du mois de mars 2010.
+[79] M. Rossiter a convenu du fait que les numéros de téléphone qui apparaissaient sur les deux annonces étaient les siens, mais il a déclaré qu’il ne reconnaissait pas les annonces. Il a affirmé qu’il ne connaissait rien d’Internet, mais que sa femme avait mis des annonces en ligne pour son compte à partir du moment où il avait été congédié.
+[80] Toutefois, quand il a regardé l’annonce qui avait été publiée à la fin du mois de mars 2010, il a dit que sa femme devait l’avoir mise en ligne, et que c’était probablement la raison pour laquelle Advantage l’avait congédié.
+[81] Plus tôt dans son témoignage, M. Rossiter a déclaré qu’il n’avait pas le temps de travailler pour d’autres entités qu’Advantage et qu’il n’aurait pas pu effectuer un tel travail parce qu’il aurait été immédiatement renvoyé.
+[82] Quand on lui a demandé comme il savait que le fait de travailler pour des tiers le conduirait au renvoi, il a répondu que M. Van Hunenstijn le lui avait dit juste après qu’il avait commencé à travailler.
+[83] Il a ajouté qu’il effectuait des travaux de plomberie pour des amis tout en travaillant pour Advantage, mais il a déclaré qu’il ne se faisait pas payer pour cela.
+Analyse
+Le droit applicable
+[84] De nombreuses décisions ont été rendues en ce qui a trait à la distinction entre un employé et un entrepreneur indépendant. Aux paragraphes 23 à 41 du récent arrêt de la Cour d’appel fédérale, 1392644 Ontario Inc., s/n Connor Homes c. Canada (Ministre du Revenu national)[30], le juge Mainville, qui s’exprimait au nom de la Cour d’appel fédérale, a examiné le critère permettant d’établir si un particulier est un employé ou un entrepreneur indépendant. Il résume cette analyse de la manière suivante :
+[36] Cependant, la démarche exposée dans Royal Winnipeg Ballet, bien comprise, met tout simplement l’accent sur le principe notoire selon lequel toute personne a le droit d’organiser ses affaires et ses relations comme bon lui semble. Les rapports des parties à un contrat sont généralement régis par ce dernier. Les parties peuvent donc fixer dans leur contrat leurs obligations et responsabilités respectives, les modalités de la rémunération des services à fournir et toutes sortes d’autres aspects de leur relation. Cependant, l’effet juridique ainsi produit, c’est‑à‑dire l’effet juridique du contrat en tant que celui‑ci crée une relation d’employeur à employé ou de client à entrepreneur indépendant, n’est pas une question que les parties peuvent décider par une simple stipulation. Autrement dit, il ne suffit pas d’énoncer dans le contrat que le travailleur fournit les services en tant qu’entrepreneur indépendant pour que ce soit effectivement le cas.
+[37] Étant donné que la qualification de la relation professionnelle a des conséquences juridiques et pratiques importantes et d’une portée considérable, qui intéressent entre autres le droit de la responsabilité délictuelle (la responsabilité du fait d’autrui), les programmes sociaux (l’admissibilité et les cotisations), les relations de travail (la syndicalisation) et la fiscalité (l’enregistrement aux fins de la TPS et la situation au regard de la Loi de l’impôt sur le revenu), on ne peut simplement laisser les parties décider à leur seul gré si elles sont liées par une relation d’employeur à employé ou de client à entrepreneur indépendant. La situation juridique d’entrepreneur indépendant ou d’employé ne se détermine donc pas seulement sur la base de l’intention déclarée des parties. Cette détermination doit aussi se fonder sur une réalité objective et vérifiable.
+[38] C’est pourquoi Wolf et Royal Winnipeg Ballet exposent une méthode en deux étapes pour l’examen de la question centrale, telle que l’ont définie Sagaz et Wiebe Door, qui est d’établir si l’intéressé fournit ou non les services en tant que personne travaillant à son compte.
+[39] La première étape consiste à établir l’intention subjective de chacune des parties à la relation. On peut le faire soit d’après le contrat écrit qu’elles ont passé, soit d’après le comportement effectif de chacune d’elles, par exemple en examinant les factures des services rendus, et les points de savoir si la personne physique intéressée s’est enregistrée aux fins de la TPS et produit des déclarations d’impôt en tant que travailleur autonome.
+[40] La seconde étape consiste à établir si la réalité objective confirme l’intention subjective des parties. Comme le rappelait la juge Sharlow au paragraphe 9 de TBT Personnel Services Inc. c. Canada, 2011 CAF 256, 422 N.R. 366, « il est également nécessaire d’examiner les facteurs exposés dans Wiebe Door afin de déterminer si les faits concordent avec l’intention déclarée des parties ». Autrement dit, l’intention subjective des parties ne peut l’emporter sur la réalité de la relation telle qu’établie par les faits objectifs. À cette seconde étape, on peut aussi prendre en considération l’intention des parties, ainsi que les modalités du contrat, puisqu’elles influent sur leur relation. Ainsi qu’il est expliqué au paragraphe 64 de Royal Winnipeg Ballet, les facteurs applicables doivent être examinés « à la lumière de » l’intention des parties. Cela dit, cependant, la seconde étape est une analyse des faits pertinents aux fins d’établir si le critère de Wiebe Door et de Sagaz est ou non rempli, c’est‑à‑dire si la relation qu’ont nouée les parties est, sur le plan juridique, une relation de client à entrepreneur indépendant ou d’employeur à employé.
+[41] La question centrale à trancher reste celle de savoir si la personne recrutée pour fournir les services les fournit, dans les faits, en tant que personne travaillant à son compte. Comme l’expliquent aussi bien Wiebe Door que Sagaz, aucun facteur particulier ne joue de rôle dominant, et il n’y a pas de formule fixe qu’on puisse appliquer, dans l’examen qui permet de répondre à cette question. Les facteurs à prendre en considération varieront donc selon les faits de l’espèce. Néanmoins, les facteurs que spécifient Wiebe Door et Sagaz se révéleront habituellement pertinents, ces facteurs étant le degré de contrôle exercé sur les activités du travailleur, ainsi que les points de savoir si ce dernier fournit lui‑même son outillage, engage ses assistants, gère et assume des risques financiers, et peut escompter un profit de l’exécution de ses tâches.
+L’application du critère
+L’intention subjective
+[85] Manifestement, Advantage voulait instaurer une relation de client à entrepreneur indépendant. M. Rossiter a déclaré qu’il croyait qu’il était devenu un employé.
+[86] La première entente est rédigée en des termes allant dans le sens d’une relation de client à entrepreneur indépendant, mais beaucoup de termes clés vont davantage dans le sens d’une relation employeur-employé, notamment : l’engagement de M. Rossiter quant à l’exécution du contrat à temps plein, l’interdiction visant la concurrence directe ou indirecte avec Advantage et le fait qu’Advantage fournisse le véhicule de service.
+[87] Le fait que ce soit M. Van Hunenstijn qui ait préparé l’entente ne change rien aux modalités qui y sont véritablement décrites.
+[88] Par ailleurs, dans la lettre qu’il a signée le même jour, M. Rossiter admet manifestement qu’il est un entrepreneur indépendant. Toutefois, la lettre, qui n’a pas été signée par Advantage, ne peut pas modifier les modalités du contrat, et à certains égards, la lettre est incompatible avec le contrat[31].
+[89] Il en ressort que, globalement, l’intention du premier contrat va davantage dans le sens d’un contrat d’emploi que d’une relation de client à entrepreneur indépendant.
+[90] Quand M. Rossiter a produit ses déclarations de revenus, il a presque toujours déclaré ses revenus en tant que revenus d’un travail indépendant, bien que, pour une année, 2005, il ait déclaré ses revenus en tant que revenus d’emploi[32]. Par ailleurs, M. Rossiter ne s’est pas inscrit aux fins de la TPS jusqu’au 1er juin 2007, trois ans et demi après avoir commencé à travailler, bien que son revenu brut en 2004 ait été supérieur au seuil prévu pour les petits fournisseurs.
+[91] En ce qui a trait à son statut, les déclarations de revenus de M. Rossiter pour la période en cause sont ambiguës pour l’ensemble de la période, bien que vers la fin, elles soient davantage compatibles avec la situation d’un entrepreneur indépendant.
+[92] M. Rossiter n’envoyait pas de factures à Advantage pour les services qu’il avait rendus. Advantage calculait ses commissions.
+[93] Dans la seconde entente, nombre des modalités allant dans le sens d’une relation employeur-employé qui se trouvaient dans la première entente n’apparaissent plus. Toutefois, je note que cette seconde entente prévoyait toujours que l’essentiel des outils serait fourni par Advantage, sous la forme du camion et de son contenu. De même, elle prévoyait toujours qu’il était interdit de se servir du camion pour autre chose que les activités d’Advantage.
+[94] Dans les autres éléments de preuve, la seconde entente mise à part, rien de donne à entendre qu’un changement est survenu dans l’intention contractuelle au moment de la signature de la seconde entente. En fait, il ressort du témoignage de M. Van Hunenstijn, qui a été cité ci‑dessus, au paragraphe 52, qu’il n’y avait pas de changement d’intention lorsque le nouveau contrat a été établi.
+[95] Pour résumer, dans l’ensemble, l’intention subjective est ambiguë.
+La réalité objective
+[96] M. Rossiter était un plombier très expérimenté qui n’avait besoin que d’un minimum de supervision, voire d’aucune supervision. Cela n’est pas rare pour les gens très qualifiés, même s’ils sont employés.
+[97] Par ailleurs, Advantage exerçait un degré élevé de contrôle juridique, même s’il ne s’agissait pas d’un contrôle plein et entier. Seule Advantage pouvait envoyer M. Rossiter effectuer des travaux, bien que j’accepte le fait qu’il pouvait refuser des travaux précis et qu’il insistait parfois pour obtenir des lieux de travail plus proches par rapport à ce qui lui était d’abord proposé. J’accepte le fait qu’il a évité au moins quelques travaux qui auraient pu ne pas être payants, leur préférant d’autres travaux[33].
+[98] Toutefois, un tel comportement n’est pas nécessairement incompatible avec celui d’un employé chevronné.
+[99] En ce qui a trait aux outils, M. Rossiter ne possédait que certains petits outils, par opposition au camion et aux outils et pièces qu’il contenait qui lui étaient fournis par Advantage. L’investissement était largement effectué par Advantage.
+[100] Il convient également de noter que rien ne donnait à entendre que M. Rossiter possédait son propre camion de service avec un contenu similaire, et, par conséquent, il ne pouvait pas, dans les faits, exploiter une entreprise similaire. Sans un tel camion et son contenu, il pouvait tout au plus effectuer des travaux mineurs et très simples au moyen des outils qu’il possédait, une mauvaise utilisation de son expérience et de ses compétences.
+[101] Au chapitre du profit et des pertes, M. Rossiter ne courait que très peu de risques de perte. M. Rossiter avait très peu investi, et, compte tenu de son expérience, le pire qui pouvait lui arriver était vraisemblablement de sous‑estimer le temps nécessaire, et dans ce cas, il était possible qu’il touche une rémunération horaire inférieure à ce à quoi il s’attendait.
+[102] Pour ce qui est des chances de profit de M. Rossiter, il pouvait gagner plus d’argent s’il travaillait plus rapidement et plus longtemps, mais cela n’est pas différent de la situation d’un employé payé à la commission.
+[103] Il convient également de rappeler que, en dehors de sa capacité à obtenir de [traduction] « meilleurs » travaux[34] que ceux qui lui étaient d’abord proposés, de façon générale, M. Rossiter agissait comme un employé. Il allait aux réunions relatives aux ventes par exemple. En outre, les clients ne savaient pas qu’il n’était pas un employé[35].
+[104] Vers la fin de la période en cause, il se peut que Mr. Rossiter ait accepté un petit nombre de contrats de plomberie à titre privé, et pas pour le compte d’Advantage. Toutefois, les seuls éléments de preuve dont nous disposons à cet égard sont les deux annonces de 2010 et l’appel téléphonique reçu par Mme Cockroft en mai 2010 au sujet d’un travail effectué en 2009, pour lequel on avait utilisé un camion de service d’Advantage. Si c’était le cas, et il n’est pas nécessaire que je tire une conclusion sur ce point, M. Rossiter aurait contrevenu à l’entente conclue avec Advantage, vu qu’il aurait utilisé le camion de service.
+[105] L’ensemble des facteurs, notamment la propriété des outils et le degré relativement élevé de contrôle juridique, par opposition à un plein contrôle, mène à la conclusion qu’on était en présence d’une relation employeur‑employé[36].
+[106] Il reste deux questions à examiner.
+La préclusion
+[107] Advantage a fait valoir qu’à ce stade, dans les faits, le principe de préclusion empêchait M. Rossiter d’affirmer qu’il était un employé. Advantage a accepté que ce principe de préclusion ne s’appliquait pas à la Couronne.
+[108] Quels que soient les arguments qui pourraient ou ne pourraient pas être avancés dans le contexte d’une procédure entre Advantage et M. Rossiter, il ne m’est pas nécessaire d’examiner ce point en l’espèce, étant donné que la Couronne a le droit de présenter tous les faits relatifs à la question dont la Cour est saisie.
+Les décisions ont‑elles été rendues trop tard?
+[109] Advantage a déploré le fait que les décisions rendues en juillet 2011 à l’égard de faits remontant à novembre 2003 avaient trait à des évènements trop anciens et étaient injustes. Advantage a accepté que la Loi n’imposait pas de délai pour rendre de telles décisions.
+[110] Les décisions ne sont pas trop tardives. Je voudrais toutefois noter qu’il existe une limite de trois ans pour les évaluations établies à l’égard des cotisations d’assurance‑emploi, en application du paragraphe 85(3) de la Loi, et une limite de quatre ans pour les évaluations fixées en application du paragraphe 22(3) du Régime[37].
+[111] Même si cela n’est pas certain, il semblerait qu’à la première date de l’audience, aucune évaluation n’avait encore été établie[38].
+[112] Concrètement, il est possible qu’on ne puisse donc plus établir d’évaluation à l’égard des cotisations pour une grande partie, ou pour la majeure partie, de la période en cause.
+Conclusion
+[113] Pour ces motifs, les appels seront rejetés.
+Signé à Ottawa (Ontario), ce 31e jour de mai 2013.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 9e jour de juillet 2013.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2013 CCI 177
+NOS DES DOSSIERS DE LA COUR : 2011-3019(EI)
+2011-3018(CPP)
+INTITULÉ : 177398 Canada Ltd. c. Le ministre du Revenu national
+LIEUX DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+Ottawa (Ontario) (conférence téléphonique)
+DATES DE L’AUDIENCE : Le 7 septembre 2012
+Le 3 décembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 31 mai 2013
+COMPARUTIONS :
+Pour l’appelante :
+Me Meldon Ellis
+M. David Roberts (stagiaire en droit)
+Avocate de l’intimé :
+Me Holly Popenia
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Meldon Ellis
+Cabinet : Ellis Business Lawyers
+Vancouver (Colombie‑Britannique)
+Pour l’intimé : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa (Ontario)
+[1] Pièce A-1, sous l’onglet 19.
+[2] Pièce A-1, sous l’onglet 19, à la clause 16.
+[3] Pièce A-1, sous l’onglet 19, à la clause 17.
+[4] Pièce A-1, sous l’onglet 19, à la clause 18; la copie du contrat qui se trouve sous la cote A‑1 est difficile à lire et je ne suis pas absolument certain du fait que le mot « pneus » (tires) est exact, mais il semble s’agir du mot qui a été employé.
+[5] Pièce A-1, sous l’onglet 5.
+[6] Pièce A-1, sous l’onglet 6.
+[7] Pièce A-1, sous l’onglet 6, clause 1.7.
+[8] Pièce A-1, sous l’onglet 6, clause 21.
+[9] Pièce A-1, sous l’onglet 6, clause 1.3.
+[10] Pièce A-1, sous l’onglet 6, clause 5.1.
+[11] Pièce A-1, sous l’onglet 6, clause 5.3.
+[12] Pièce A-1, sous l’onglet 6, clauses 6.1 et 6.2.
+[13] Pièce A-1, sous l’onglet 6, clause 7 de l’entente et clause 1 de l’annexe B de l’entente.
+[14] Pièce A-1, sous l’onglet 6, à l’annexe B, clauses 6a) et 7.
+[15] L’annexe B de l’entente de 2008 montre que M. Rossiter s’était vu offrir l’option d’un taux quotidien fixe au lieu des 10 %. Il ne s’en est pas prévalu.
+[16] À titre d'exemple, voir la pièce A-1, sous les onglets 9, 18, 20 et 25.
+[17] Il existe d’autres déductions dont il est fait état sur ces feuilles et qui ne sont pas pertinentes pour le calcul de la rémunération de M. Rossiter. Par exemple, il existe des déductions pour une contribution à des prestations de maladie et certains autres rajustements. La contribution aux prestations de maladie est déduite après calcul de la rémunération.
+[18] L’exemple théorique que je viens de donner contient des sommes qui exagèrent la situation, mais il démontre clairement que la pratique observée à l’égard de la main-d’œuvre était beaucoup plus avantageuse pour M. Rossiter que si on avait employé une autre pratique consistant à ne pas tenir compte du coût de la main-d’œuvre dans le calcul du prix de vente net.
+[19] On trouve de nombreux exemples de calcul sous l’onglet 9 de la pièce A-1.
+[20] Pièce A-1, sous l’onglet 16.
+[21] Au moment de reproduire ces renseignements, je suis convaincu de pouvoir admettre d’office le fait que le nombre à trois chiffres qui apparaît souvent sur le type d’imprimé produit sous l’onglet 16 correspond à la numérotation des lignes des déclarations de revenus T1, que les lignes 162, 164, 166, 168 et 170 correspondent à différents types de revenus de travail autonome bruts, que les lignes 135, 137, 139, 141 et 143 correspondent à différents types de revenus de travail autonome nets, que les lignes 162 et 135 correspondent à des revenus d’entreprise bruts et nets, que les lignes 166 et 139 correspondent à des revenus de commission de travail autonome et que la ligne 130 correspond à des revenus qui ne sont pas le fruit d’un travail autonome.
+[22] Pièce A-1, sous l’onglet 24. Ces feuillets visent des périodes d’un an qui se terminent au 31 août de chaque année. Le dernier relevé pour la période qui s’est terminée en 2010 faisait état de 55 517,95 $; en admettant le fait que M. Rossiter a été congédié à la fin du mois de mai, ou après environ trois trimestres de l’année qui s’est terminée le 31 août, cette somme est d’environ 4 000 $ inférieure aux trois quarts de la somme payée à M. Rossiter l’année précédente.
+[23] D’après M. Van Hunenstijn, le comptable de M. Rossiter a dit à Advantage qu’elle devrait payer la TPS. D’après M. Rossiter, Advantage lui a dit de s’inscrire aux fins de la TPS. Advantage préparait également un troisième chèque pour M. Rossiter pour chaque période de paiement. Ce chèque était pour l’ARC, et M. Rossiter s’en servait, dans les faits, pour verser des acomptes provisionnels. Sur les feuilles faisant état du calcul de la commission qui se trouvent sous l’onglet 9 de la pièce A-1, il y est fait référence par la mention [traduction] « ARC, déduction de 30 % ». Voir également la pièce A-1, sous l’onglet 8.
+[24] Transcription du 7 septembre 2012, aux pages 41 et 44.
+[25] Transcription du 7 septembre 2012, aux pages 79, 80 et 112.
+[26] Transcription du 7 septembre 2012, aux pages 138 et 139.
+[27] Transcription du 7 septembre 2012, à la page 183.
+[28] Transcription du 7 septembre 2012, à la page 38.
+[29] Voir également la deuxième page, sous l’onglet 10 de la pièce A-1. Je note que cet appel a eu lieu deux jours avant le congédiement.
+[30] 2013 CAF 85. Cet arrêt a été rendu après que les présents dossiers ont été plaidés; je n’ai pas jugé qu’il était nécessaire d’inviter les avocats des parties à formuler des commentaires parce que je ne vois pas la décision qui a été rendue comme une décision venant modifier l’état du droit, et ce, bien qu’elle dissipe tout doute quant au fait que l’intention subjective doit être examinée avant la réalité objective.
+[31] Par exemple, M. Rossiter ne conclut pas de contrat à titre d’entrepreneur indépendant pour chaque travail. Il s’agit d’une entente d’un an renouvelable sur une base annuelle au gré d’Advantage. Il est également erroné de dire que M. Rossiter contrôlait entièrement le travail qu’il accomplissait ou les outils qu’il utilisait; même s’il était libre de refuser du travail, il ne pouvait accepter que le travail qu’Advantage lui proposait, et la majeure partie des outils, et, par conséquent, de l’investissement, le camion et son contenu, d’une valeur comprise entre 70 000 et 80 000 $, étaient fournis par Advantage.
+[32] Avec un T4, ce qui signifie qu’Advantage doit lui avoir fait parvenir un T4, bien qu’elle ait pu l’avoir fait par erreur.
+[33] L’ensemble de la preuve qui va dans ce sens concerne plutôt la fin de la période en cause.
+[34] « meilleur » dans le sens de mieux situé ou de potentiellement plus payant.
+[35] Je voudrais noter que, bien que M. Rossiter ait pu parfois demander à obtenir, et obtenu, un travail qu’il jugeait préférable à celui qui lui avait été proposé au départ, en général, il devait accepter beaucoup de travaux et être considéré comme un atout par Advantage, vu que ses commissions ont augmenté progressivement de 2004 to 2009, qu’il a reçu le prix du meilleur rendement général en 2006, que d’autres employés lui téléphonaient régulièrement pour obtenir des conseils et que, pendant la plus grande partie de l’année 2009, il était payé 300 $ toutes les deux semaines en échange de ces conseils. Manifestement, il s’est produit quelque chose qui a gâché cette relation vers la fin de la période en cause.
+[36] Même si M. Rossiter avait effectué quelques petits travaux par ailleurs en utilisant le camion de service, contrevenant ainsi à l’entente, cela ne démontrerait pas, en soi, que M. Rossiter était un entrepreneur indépendant qui effectuait des travaux pour des tiers et pour Advantage. L’utilisation alléguée du camion d’Advantage est tout aussi compatible avec le fait que M. Rossiter était un employé qui contrevenait à son contrat de travail pour effectuer d’autres travaux.
+[37] Les dispositions renvoient en fait à plus de trois ou quatre ans en arrière, étant donné qu’elles visent le moment où les cotisations étaient payables, par opposition à la période à laquelle elles se rapportent. Aussi, les limites ne sont pas applicables en cas de fausses représentations ou de fraude.
+[38] Transcription du 7 septembre 2012, à la page 4.

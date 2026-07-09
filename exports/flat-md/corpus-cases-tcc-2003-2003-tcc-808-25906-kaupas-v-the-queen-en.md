@@ -1,0 +1,118 @@
+---
+title: "Kaupas v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25906/index.do"
+last_modified: "2003-11-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 808"
+citation2: ""
+neutral_citation: "2003 TCC 808"
+decision_date: "2003-11-07"
+language: "en"
+item_id: "25906"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3704
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:33:04.016000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e818ca8240f323c8e6123c99b4f09b5552b54998e55ec1be66bf572d95ba42fa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kaupas v. The Queen
+
+- Citation: 2003 TCC 808
+- Decision date: 2003-11-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3704, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kaupas v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-07
+Neutral citation
+2003 TCC 808
+File numbers
+2001-2572(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC808
+Date: 20031107
+Docket: 2001-2572(IT)G
+BETWEEN:
+DAVID KAUPAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(delivered orally from the Bench at
+Toronto, Ontario on October 17, 2003)
+Woods J.
+[1] Mr. David Kaupas is appealing income tax reassessments for the 1987, 1988, 1989 and 1990 taxation years that resulted from the denial of an allowable business investment loss in the amount of $145,823. Mr. Kaupas was one of over 400 individuals who claimed tax refunds in connection with a fraudulent scheme instigated by Mr. Paul Butt. Mr. Butt was convicted of tax evasion in connection with these transactions and sentenced to three years in penitentiary. The general nature of the tax evasion scheme is described in an agreed statement of facts introduced at the criminal proceedings against Mr. Butt. In those proceedings Mr. Butt pled guilty to two counts, one of which reads as follows:
+AND FURTHER THAT the said Paul Wilfred BUTT unlawfully did between the 31st day of December A.D. 1986 and the 3rd day February A.D. 1993 at or near the City of Toronto in the Toronto Region in the Province of Ontario or elsewhere in Canada commit an offence contrary to 239(1)(d) of the Income Tax Act, R.S.C. 1952, c. 148 as amended by willfully in any manner, evading or attempting to evade, compliance with the said Act or the payment of taxes in the amount of $6,475,993.35 imposed upon the individuals listed in Schedule "A" attached hereto and forming part of this information by providing to the Schedule "A" individuals, false certificates of Allowable Business Investment Loss, in the total amount of $128,803,190.00, which were filed with the T1 Individual Income Tax Return or T1A Adjustment Request of the Schedule "A" individuals, for the taxation years 1987, 1988, 1989, 1990 and 1991 ...
+[2] Mr. Kaupas was listed as a Schedule "A" individual and also admitted to receiving commissions for referring other individuals to Mr. Butt in connection with this scheme.
+[3] This appeal concerns deductions claimed by Mr. Kaupas in respect to an alleged loss of $200,000 incurred in the 1990 taxation year. The loss was reputed to be incurred in respect of an "investment" in Proaxi Industries Ltd. pursuant to subsection 50(1) of the Income Tax Act (the "Act"). Mr. Kaupas claimed an allowable business investment loss of ¾ of this amount, or $145,823, and applied to have a portion of this amount carried back as a non-capital loss to reduce his taxable income for the 1987, 1988 and 1989 taxation years.
+[4] In order for this appeal to succeed, the following must be established:
+1. that a debt of $200,000 was owed by Proaxi Industries Ltd. to Mr. Kaupas;
+2. that the debt became a bad debt in the 1990 taxation year;
+3. that the debt was incurred for the purpose of earning income; and
+4. that Proaxi Industries Ltd. was a Canadian-controlled private corporation that had assets used in carrying on business primarily in Canada or otherwise satisfied the criteria of a "small business corporation" as defined in subsection 248(1) of the Act.
+[5] The claim by Mr. Kaupas for an allowable business investment loss for the 1990 taxation year cannot succeed. No complete description of the transactions was submitted at the hearing and, for many transactions that were described, there was insufficient documentation to establish them.
+[6] Mr. Kaupas indicated that the transactions were complicated and that he did not understand them. For example, Mr. Kaupas indicated that he did not know whether the transactions involved promissory notes. Further, Mr. Kaupas admitted that there was documentation related to the transactions that he no longer had and could not describe.
+[7] Further, certain key aspects of the transactions were described in general terms but there was insufficient evidence establishing them. For example, it was submitted that Proaxi Industries Ltd. had non-resident corporations acting on its behalf and that Proaxi was carrying on business in Canada. To establish this, Mr. Kaupas submitted copies of letters from a law firm that provided tax advice to Mr. Butt. This correspondence falls far short of establishing these facts. For example, the writer of the letters does not state that he had direct knowledge of the facts stated therein.
+[8] In the circumstances, it is not necessary for me to consider whether the documents that were submitted at the hearing were genuine and, if genuine, whether the requirements of an allowable business investment loss would be satisfied. Needless to say, in the face of the admissions of Mr. Butt in the criminal proceeding, any documentation connected with these transactions would be suspect.
+[9] For these reasons, the appeal will be dismissed with costs.
+Signed at Ottawa, Canada this 7th day of November, 2003.
+"J.M. Woods"
+J.M. Woods J.
+CITATION:
+2003TCC808
+COURT FILE NO.:
+2001-2572(IT)G
+STYLE OF CAUSE:
+David Kaupas v. Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 14, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J. M. Woods
+DATE OF REASONS FOR JUDGMENT:
+November 7, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Suzanne M. Bruce
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

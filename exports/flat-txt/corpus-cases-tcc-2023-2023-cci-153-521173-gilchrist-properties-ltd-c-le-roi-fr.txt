@@ -1,0 +1,211 @@
+Title: Gilchrist Properties Ltd. c. Le Roi
+Source: https://norma.lexum.com/tcc-cci/decisions/fr/item/521173/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-153-521173-gilchrist-properties-ltd-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-10-26
+
+# Gilchrist Properties Ltd. c. Le Roi
+
+- Citation: 2023 CCI 153
+- Decision date: 2023-10-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5467, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gilchrist Properties Ltd. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-10-26
+Référence neutre
+2023 CCI 153
+Numéro de dossier
+2021-2673(IT)G
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2021-2673(IT)G
+ENTRE :
+GILCHRIST PROPERTIES LTD.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête en radiation de la réponse à l’avis d’appel entendue le 16 février 2023, à Montréal (Québec)
+Devant : l’honorable juge Guy R. Smith
+Comparutions :
+Avocats de l’appelante :
+Me Jonathan Lafrance
+Me Michel Gosselin-Trépanier
+Avocate de l’intimé :
+Me Christina Ham
+ORDONNANCE
+Conformément aux motifs de l’ordonnance ci-joints, la requête en radiation de la réponse à l’avis d’appel est rejetée, avec dépens en faveur de l’intimé.
+Signé à Ottawa, Canada, ce 26e jour d’octobre 2023.
+« Guy Smith »
+Le juge Smith
+Traduction certifiée conforme
+ce 6e jour d’octobre 2025.
+Sophie Reid-Triantafyllos, jurilinguiste principale
+Référence : 2023 CCI 153
+Date : 20231026
+Dossier : 2021-2673(IT)G
+ENTRE :
+GILCHRIST PROPERTIES LTD.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Smith
+I. Aperçu [1] Gilchrist Properties Ltd. (l’« appelante ») a déposé un avis de requête (la « requête ») au titre de l’alinéa 53(1)d) des Règles de la Cour canadienne de l’impôt (procédure générale), DORS/90-688a, (les « Règles ») en vue d’obtenir une ordonnance :
+1)radiant la réponse sans autorisation de la modifier ou d’en déposer une autre parce qu’elle ne révèle aucun moyen raisonnable de contestation de l’appel;
+2)faisant droit à l’appel interjeté par l’appelante;
+3)condamnant l’intimé aux dépens.
+[2] Comme je l’explique plus en détail ci-après, en vertu du paragraphe 53(1) des Règles, la Cour peut « radier un acte de procédure […] ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier » pour plusieurs motifs, notamment, aux termes de l’alinéa d), parce que l’acte « ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel ». Le paragraphe 53(2) prévoit qu’« [a]ucune preuve n’est admissible à l’égard d’une demande présentée en vertu de l’alinéa (1)d) ».
+[3] La présente requête soulève deux questions :
+-La réponse devrait-elle être radiée sans autorisation de la modifier?
+-La requête devrait-elle être rejetée sur le fondement de la « règle de la nouvelle mesure »?
+[4] Pour les motifs exposés ci-après, la Cour conclut que la requête doit être rejetée sur le fondement de la « règle de la nouvelle mesure » et qu’il n’est pas évident et manifeste que la réponse ne révèle aucun moyen raisonnable de contestation de l’appel.
+II. Contexte [5] La Cour n’a entendu aucun témoignage de vive voix ou par affidavit. Ce qui suit est donc un résumé des actes de procédure et des observations orales et écrites fournis dans le cadre de la requête.
+[6] L’appelante est une société de portefeuille qui réside au Canada depuis sa constitution en vertu de la Alberta Corporations Act en 1963. Son siège social est situé à Richmond, en Colombie-Britannique. Pendant toute la période en cause, ses administrateurs et ses actionnaires étaient également des résidents du Canada.
+[7] Le 28 mai 2014, l’appelante a conclu un contrat de vente de 24 550 000 $ avec un tiers sans lien de dépendance visant un bien désigné sous le nom de « 7100 Elmbridge Way » à Richmond, en Colombie-Britannique (le « bien »).
+[8] Le 16 juin 2015, l’appelante a été prorogée sous le régime des lois des îles Vierges britanniques (les « îles Vierges »), et la vente a finalement été réalisée le 23 juin 2015. L’appelante a tiré un gain de la vente du bien.
+[9] Pour l’année se terminant le 30 avril 2016 (l’« année d’imposition 2016 »), l’appelante a déclaré un gain en capital de 23 078 192 $ et un gain en capital imposable de 11 539 096 $.
+[10] Une somme équivalant à la partie non imposable du gain en capital a été portée au compte de dividendes en capital de l’appelante, établissant le solde de ce compte à 11 737 549 $.
+[11] Le 30 avril 2016, l’appelante a déclaré le gain en capital imposable et a produit une déclaration de revenus des sociétés (T2), dans laquelle elle a indiqué être une « [a]utre société privée ».
+[12] Le 13 octobre 2016, le ministre du Revenu national (le « ministre ») a établi une cotisation initiale pour l’année d’imposition 2016.
+[13] Pour l’année d’imposition 2019, l’appelante a déclaré un dividende total de 11 737 549 $, ce qui correspondait au solde de son compte de dividendes en capital, et a fait le choix prévu au paragraphe 83(2) afin que ce dividende soit traité comme un dividende en capital non imposable.
+[14] Le 23 décembre 2020, le ministre a établi une nouvelle cotisation pour l’année d’imposition 2016 (la « nouvelle cotisation ») au motif que, selon lui, l’appelante demeurait une société privée sous contrôle canadien (« SPCC ») malgré sa prorogation sous le régime des lois des îles Vierges. Par conséquent, sur le fondement des articles 123.3 et 123.4 de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la « Loi »), le ministre a augmenté ainsi l’impôt à payer par l’appelante au titre de la partie I :
+Description
+Montant
+Impôt remboursable sur le revenu de placement – SPCC (art. 123.3)
+905 538 $
+Réduction du taux général refusée (par. 123.4(2))
+1 438 979 $
+Augmentation nette de l’impôt à payer par l’appelante au titre de la partie I
+2 344 337 $
+[15] À titre subsidiaire, le ministre a invoqué la « règle générale anti-évitement » (la « RGAÉ ») énoncée au paragraphe 245(2) de la Loi, puisque l’appelante avait conclu une série d’opérations ayant entraîné un abus de la Loi.
+[16] L’appelante fait valoir i) que la nouvelle cotisation est prescrite puisqu’aucune renonciation n’a été signée et que cette nouvelle cotisation a été établie après la période normale de nouvelle cotisation de trois (3) ans applicable aux SPCC ou, ii) à titre subsidiaire, qu’elle n’était pas une SPCC pendant l’année d’imposition 2016 et, enfin, iii) que la RGAÉ ne s’applique pas à l’opération en cause.
+III. Historique procédural [17] Dans le présent appel, l’historique procédural se résume ainsi :
+a)Le 20 octobre 2021, l’avis d’appel a été déposé;
+b)Le 1er avril 2022, la réponse à l’avis d’appel a été déposée;
+c)Le 2 mai 2022, les parties ont conjointement demandé une ordonnance fixant l’échéancier;
+d)Le 20 mai 2022, l’appelante a déposé et signifié sa liste de documents;
+e)Le 20 mai 2022, l’intimé a déposé et signifié sa liste de documents;
+f)Le 9 juin 2022, les interrogatoires préalables ont eu lieu;
+g)Les 30 et 31 août 2022, les parties ont satisfait à leurs engagements;
+h)Le 29 septembre 2022, les parties ont demandé une prolongation du délai pour communiquer avec la Cour;
+i)Le 31 octobre 2022, l’appelante a déposé sa requête en radiation.
+IV. Requête en radiation A. Position de l’appelante [18] L’appelante fait essentiellement valoir que la nouvelle cotisation a été établie après l’expiration de la période normale de nouvelle cotisation de trois (3) ans applicable à une SPCC et qu’avant que la Cour n’examine les questions fiscales sous-jacentes (à savoir si l’appelante est assujettie aux articles 123.3 et 123.4 ou, à titre subsidiaire, si la RGAÉ s’applique), il incombe à l’intimé de démontrer que l’appelante a fait une présentation erronée des faits « par négligence, inattention ou omission volontaire », comme le prévoit le paragraphe 152(4) de la Loi.
+[19] L’appelante renvoie à l’hypothèse énoncée au paragraphe 28.1 de la réponse ainsi qu’aux paragraphes 36 et 37 figurant sous la rubrique [traduction] « Moyens invoqués et conclusions recherchées ». Ces paragraphes sont ainsi rédigés :
+[traduction]
+28. À cette étape-ci de l’instance, le procureur général du Canada s’appuie sur les faits suivants pour conclure que l’appelante a fait une présentation erronée des faits par négligence, inattention ou omission volontaire lors de la production de sa déclaration de revenus pour l’année d’imposition 2016 :
+28.1. Dans sa déclaration de revenus pour l’année d’imposition 2016, l’appelante a déclaré être une « [a]utre société privée » et non une SPCC.
+28.2. L’appelante savait ou aurait dû savoir qu’elle était une SPCC pendant toute l’année d’imposition 2016.
+28.3. L’appelante a fait cette présentation erronée des faits par négligence, inattention ou omission volontaire.
+[…]
+36. En déclarant être une société privée autre qu’une SPCC dans sa déclaration de revenus pour 2016, l’appelante a fait une présentation erronée des faits par négligence, inattention ou omission volontaire.
+37. L’appelante a fait une présentation erronée des faits en raison de son manque de diligence raisonnable dans la production de sa déclaration de revenus pour 2016.
+[20] L’appelante soutient que, dans sa réponse, l’intimé énonce le bon critère juridique, mais n’indique pas le fondement factuel à l’appui de sa position. Elle ajoute que le paragraphe 28.1 est un énoncé mixte de fait et de droit, et ne peut donc pas être considéré comme une présentation erronée des faits. De plus, dans ces paragraphes, l’intimé ne mentionne aucune action ni omission permettant de conclure à de la négligence, à de l’inattention ou à une omission volontaire. Il ne fait que reformuler la Loi, ce qui ne suffit pas à établir un fondement factuel. L’appelante ajoute que les paragraphes 36 et 37 ne sont d’aucune utilité.
+[21] L’appelante fait remarquer que toutes les étapes préalables au procès ont été franchies et que l’intimé n’a toujours pas présenté de faits à l’appui de sa position. Elle ajoute que l’intimé a eu l’occasion de modifier sa réponse, mais qu’il ne l’a pas fait. Elle affirme que de tels faits n’existent pas et que la réponse ne révèle aucun motif raisonnable de contestation de l’appel. L’appelante ajoute que, selon les principes d’équité procédurale, la réponse devrait être radiée, puisque l’appelante serait appelée à présenter sa preuve en premier sans connaître la preuve à réfuter. Elle soutient qu’il n’est pas dans l’intérêt de la justice d’instruire l’affaire.
+[22] L’appelante reconnaît que le critère de radiation d’une réponse est rigoureux, mais elle estime y satisfaire en l’espèce. Elle ajoute que la position exposée dans la réponse selon laquelle il y a eu présentation erronée des faits n’est étayée par aucun énoncé de fait et qu’il est donc évident et manifeste que l’intimé n’a aucune chance raisonnable d’obtenir gain de cause.
+[23] En réponse à la mention de la « règle de la nouvelle mesure » par l’intimé, l’appelante soutient que l’absence de fondement factuel dans la réponse concernant un aspect fondamental de l’appel que l’intimé doit prouver ne constitue pas qu’une simple irrégularité. Elle soutient que la « règle de la nouvelle mesure » ne devrait pas l’emporter sur son droit à un procès équitable.
+[24] Enfin, l’appelante affirme que la réponse devrait être radiée sans autorisation de la modifier ou d’en déposer une nouvelle, puisqu’elle contient des lacunes auxquelles une modification ou une nouvelle réponse ne saurait remédier. Elle fait valoir que l’intimé n’a présenté aucun fait à l’appui de sa position et que, s’il avait été en mesure de le faire, il l’aurait fait après le dépôt de la présente requête.
+B. Position de l’intimé [25] En résumé, l’intimé soutient que les actes de procédure visent à définir les questions en litige et que sa réponse atteint cet objectif. La requête doit être rejetée, car les faits nécessaires sont clairement énoncés dans la réponse. L’intimé fait valoir que la requête est intrinsèquement viciée, car elle est incompatible avec la position de l’appelante selon laquelle elle n’était pas une SPCC. De plus, la « règle de la nouvelle mesure » fait obstacle à la présente requête.
+[26] L’intimé reconnaît que la période normale de nouvelle cotisation applicable à une SPCC est de trois (3) ans. Cependant, au paragraphe 28.1 de la réponse, il indique clairement que l’appelante s’est présentée à tort comme une « [a]utre société privée » au lieu d’une SPCC dans sa déclaration de revenus. Selon l’appelante, comme ce n’est pas une question de fait, il ne peut s’agir d’une présentation erronée des faits. Cependant, la jurisprudence a évolué à ce sujet. Aux paragraphes 28.2 et 28.3 de la réponse, l’intimé affirme que l’appelante a fait une présentation erronée des faits par négligence, inattention ou omission volontaire, car elle savait ou aurait dû savoir qu’elle était une SPCC pendant l’année d’imposition 2016. Le fait que l’appelante le savait ou aurait dû le savoir démontre un manque de diligence raisonnable dans la production de sa déclaration de revenus. Les faits présentés par le ministre sont simples, mais les éléments essentiels sont présents. L’appelante connaît la preuve à réfuter.
+[27] En ce qui concerne la préoccupation de l’appelante de devoir présenter sa preuve en premier au procès, bien que le ministre ait le fardeau de la preuve lorsqu’il est question d’années d’imposition prescrites, l’appelante peut demander le changement de l’ordre des présentations, et la décision reviendra au juge du procès. L’intimé soutient également que l’appelante confond les faits allégués et la preuve à produire pour démontrer ces faits. Dans le cadre d’une requête en radiation, les faits allégués sont réputés véridiques, et il ne convient pas de demander à la Cour de tirer une conclusion défavorable en lien avec la preuve que l’intimé devra présenter au procès.
+[28] En outre, la requête de l’appelante est incompatible avec sa position. En effet, l’appelante fonde sa requête sur la prémisse qu’elle était une SPCC, alors qu’elle soutient que ce n’était pas le cas. La requête est donc intrinsèquement viciée, puisqu’elle est fondée sur la question en litige relativement au statut de l’appelante.
+[29] La question de savoir si l’appelante était une SPCC est, selon les deux parties, une question que doit trancher la Cour. Celle de savoir si la nouvelle cotisation est prescrite sera tranchée selon que l’appelante était ou non une SPCC. Si l’appelante n’était pas une SPCC à la fin de l’année d’imposition 2016, la période normale de nouvelle cotisation serait de quatre (4) ans et la nouvelle cotisation ne serait pas prescrite. Sur ce seul fondement, il est clair que l’appelante n’a pas démontré qu’il est évident et manifeste que la réponse devrait être radiée et son appel, accueilli.
+[30] Enfin, l’intimé soutient que la « règle de la nouvelle mesure » énoncée à l’article 8 des Règles devrait faire obstacle à la requête de l’appelante. Bien que la Cour ait le pouvoir discrétionnaire d’autoriser une requête en radiation après que d’autres mesures ont été prises, aucune raison ne justifie qu’elle le fasse en l’espèce. L’appelante a déposé sa requête après que les parties ont échangé leur liste de documents et procédé aux interrogatoires préalables. La « règle de la nouvelle mesure » empêche l’appelante de présenter sa requête.
+[31] Si la Cour accueille en partie la requête en radiation, l’intimé demande l’autorisation de modifier sa réponse.
+V. Analyse A. La « règle de la nouvelle mesure » [32] L’article 8 des Règles empêche une partie de présenter une contestation pour cause d’irrégularité après l’expiration d’un délai raisonnable après qu’elle a pris connaissance de l’irrégularité ou si elle a pris d’autres mesures dans le cadre de l’instance :
+Irrégularité
+8. La requête qui vise à contester, pour cause d’irrégularité, une instance ou une mesure prise, un document donné ou une directive rendue dans le cadre de celle-ci, ne peut être présentée, sauf avec l’autorisation de la Cour :
+a) après l’expiration d’un délai raisonnable après que l’auteur de la requête a pris ou aurait raisonnablement dû prendre connaissance de l’irrégularité, ou
+b) si l’auteur de la requête a pris une autre mesure dans le cadre de l’instance après avoir pris connaissance de l’irrégularité.
+Attacking Irregularity
+8. A motion to attack a proceeding or a step, document or direction in a proceeding for irregularity shall not be made,
+a) after the expiry of a reasonable time after the moving party knows or ought reasonably to have known of the irregularity, or
+b) if the moving party has taken any further step in the proceeding after obtaining knowledge of the irregularity, except with leave of the Court.
+[33] L’article 8 autorise une partie à contester, pour cause d’irrégularité, « une instance ou une mesure prise, un document donné ou une directive rendue dans le cadre de celle-ci ». Le terme « document » s’entend également des actes de procédure. Au paragraphe 11 de la décision Chad c. La Reine, 2021 CCI 45, le juge Sommerfeldt a noté que « les actes de procédure fautifs constituent une irrégularité ».
+[34] Comme l’a expliqué le juge Bowman (plus tard juge en chef) au paragraphe 20 de la décision Imperial Oil Limited c. La Reine, 2003 CCI 46 (« Imperial Oil »), la règle de la nouvelle mesure vise à veiller au bon déroulement de l’instance et « implique la renonciation à une irrégularité qui eût autrement pu être attaquée ».
+[35] Bien qu’une requête en radiation d’un acte de procédure présentée au titre de l’article 53 soit un recours distinct, la jurisprudence a établi que l’article 8 doit être pris en considération. L’article 53 n’indique pas l’étape de l’instance à laquelle une requête en radiation peut être présentée, mais l’article 8 précise quand elle ne devrait pas l’être.
+[36] L’alinéa 8a) fait référence à un « délai raisonnable » après que l’auteur de la requête a pris connaissance de l’irrégularité. La réponse a été signifiée à l’appelante le 1er avril 2022, et cette dernière a déposé sa requête le 31 octobre 2022. Bien que la Cour puisse reconnaître qu’il s’agit d’un délai raisonnable, l’alinéa 8b) prévoit une autre condition et empêche la contestation si l’auteur de la requête a pris « une autre mesure dans le cadre de l’instance » après avoir « pris connaissance de l’irrégularité ».
+[37] Comme il ressort du résumé ci-dessus, de nombreuses mesures ont été prises après la clôture des actes de procédure, y compris la présentation d’une demande en vue d’obtenir une ordonnance fixant l’échéancier, l’échange des listes de documents et la tenue des interrogatoires préalables.
+[38] Dans la décision Kossow c. La Reine, 2008 CCI 422, la Cour a appliqué la « règle de la nouvelle mesure » et a indiqué que celle-ci avait pour objet « d’empêcher une partie d’agir d’une façon qui contredit ses agissements antérieurs dans l’instance » (par. 21). La Cour d’appel fédérale a confirmé cette décision et a conclu qu’en demandant la production de documents et en menant les interrogatoires préalables, la contribuable avait « implicitement accepté les irrégularités » : Kossow c. Canada, 2009 CAF 83 (par. 17).
+[39] L’appelante soutient que l’absence de fondement factuel étayant l’hypothèse du ministre quant à la présentation erronée des faits ne constitue pas qu’une simple « irrégularité ». En effet, dans certains cas, les lacunes dans les actes de procédure sont si graves que la Cour doit exercer son pouvoir discrétionnaire et accueillir la requête en radiation, et ce, malgré le passage du temps ou la prise de nouvelles mesures.
+[40] Au paragraphe 7 de la décision Kulla c. La Reine, 2005 CCI 136, la Cour a fait remarquer que les « lacunes évidentes » peuvent être considérées comme étant « plus importantes que des irrégularités ».
+[41] Au paragraphe 20 de la décision Imperial Oil, le juge Bowman a noté que « des allégations selon lesquelles cette cour n’est pas compétente, que les appels sont non fondés, vexatoires et constituent un recours abusif, ne représente[nt] pas simplement une contestation pour cause d’irrégularité ».
+[42] Dans la décision Mochizuki c. La Reine, 2008 CCI 526, la Cour a accueilli la requête au motif que l’acte de procédure de l’appelant était « illogique et à peine cohérent » (par. 13).
+[43] En l’espèce, la Cour est d’avis qu’en prenant diverses mesures dans le cadre de l’instance après la clôture des actes de procédure, l’appelante a renoncé à contester la réponse pour cause d’irrégularité. De plus, malgré les arguments valables présentés par les avocats de l’appelante, la Cour n’est pas convaincue que la lacune alléguée [traduction] « ne constitue pas qu’une simple irrégularité », de sorte qu’elle doit exercer son pouvoir discrétionnaire d’accueillir la requête.
+B. La requête en radiation [44] Bien que je conclue que la requête doit être rejetée sur le fondement de la « règle de la nouvelle mesure », j’analyse brièvement les exigences d’une requête en radiation.
+[45] La décision de principe demeure la décision Sentinel Hill Productions (1999) Corporation c. La Reine, 2007 CCI 742, où le juge en chef Bowman a examiné l’application de l’article 53 des Règles et a affirmé qu’il s’agissait de principes bien établis. Au paragraphe 4, il les a ainsi résumés :
+a) Les faits allégués dans l’acte de procédure contesté doivent être considérés comme exacts sous réserve des limites énoncées dans l’arrêt Operation Dismantle Inc. c. Canada, [1985] 1 R.C.S. 441, à la page 455. Il n’est pas loisible à la partie qui attaque un acte de procédure en vertu de l’article 53 des Règles de contester des assertions de fait.
+b) Pour qu’un acte de procédure soit radié, en tout ou en partie, en vertu de l’article 53 des Règles, il doit être évident et manifeste que la position qui est prise n’a aucune chance de succès. Il s’agit d’un critère rigoureux et il faut faire preuve d’énormément de prudence en exerçant le pouvoir conféré en matière de radiation d’un acte de procédure.
+c) Le juge des requêtes doit éviter d’usurper les fonctions du juge du procès en tirant des conclusions de fait ou en se prononçant sur la pertinence. Il faut laisser de telles questions à l’appréciation du juge qui entend la preuve.
+[Non souligné dans l’original.]
+[46] La Cour suprême du Canada est revenue sur cette question dans l’arrêt R. c. Imperial Tobacco Canada Ltée, 2011 CSC 42 (« Imperial Tobacco »), et a conclu ce qui suit :
+[17] [L]’action ne sera rejetée que s’il est évident et manifeste, dans l’hypothèse où les faits allégués seraient avérés, que la déclaration ne révèle aucune cause d’action raisonnable […]. Autrement dit, la demande doit n’avoir aucune possibilité raisonnable d’être accueillie. Sinon, il faut lui laisser suivre son cours […].
+[…]
+[23] […] Les faits allégués sont réputés véridiques. La question de savoir si la preuve corrobore ou corroborera les faits allégués n’a aucune pertinence quant à la requête en radiation. Le juge saisi de la requête en radiation ne peut pas anticiper ce que la preuve qui sera produite permettra d’établir. Si l’on exigeait cela du juge, la requête en radiation perdrait sa logique et deviendrait en fin de compte inutile.
+[Non souligné dans l’original.]
+[47] Plus récemment, dans la décision Hillcore Financial Corporation c. Le Roi, 2023 CCI 71, la juge Lafleur a résumé ainsi les exigences d’une requête en radiation :
+[24] Le critère à appliquer en matière de radiation, en tout ou en partie, d’actes de procédure consiste à déterminer s’il est évident et manifeste que les actes de procédure ne révèlent aucun motif raisonnable d’appel (Main Rehabilitation Co. c. Canada, 2004 CAF 403, par. 3).
+[25] Dans le cadre d’une requête en radiation d’une réponse dans le cadre d’un appel en matière fiscale, la requête n’est accueillie que s’il est évident et manifeste, dans l’hypothèse où les faits allégués dans la réponse sont avérés, que la réponse ne permet pas de conclure de façon raisonnable que la nouvelle cotisation frappée d’appel est correcte (Banque Canadienne Impériale de Commerce c. Canada, 2013 CAF 122 [CIBC CAF], par. 7).
+[…]
+[35] La Cour peut autoriser toutes les modifications ou mesures nécessaires pour assurer une résolution équitable des véritables questions en litige. Pour radier un acte de procédure sans autorisation de le modifier, la lacune doit être impossible à corriger par une modification (voir Simon, par. 8). De plus, la Cour fédérale enseigne que, pour radier une demande sans autorisation de la modifier, il ne doit pas y avoir la « moindre trace » d’une cause d’action légitime (Riabko c. Canada, [1999] A.F.F. no 1289 (QL), 1999 CanLII 8627 [Riabko], par. 8).
+[36] Lorsqu’un appelant présente une requête en radiation d’une réponse, il a le fardeau de démontrer [traduction] « [qu’]il serait impossible pour l’intimé de modifier la demande pour appuyer la nouvelle cotisation » (voir Mont-Bruno C.C. Inc. c. La Reine, 2018 CCI 105, par. 29).
+[37] Ce fardeau est lourd. Comme l’a déclaré la Cour dans la décision Zelinski, « [d]e façon générale, il convient que la modification d’un acte de procédure soit autorisée, dans la mesure où cela n’est pas préjudiciable à l’autre partie – qui n’a pas droit à une contrepartie sous forme de dépens ou sous une autre forme –, les Règles visant à assurer, dans la mesure du possible, un procès équitable portant sur les vraies questions en litige entre les parties » (par. 4).
+[Non souligné dans l’original.]
+[48] L’appelante soutient que l’hypothèse énoncée au paragraphe 28.1 n’établit pas de fondement factuel à l’appui de l’allégation de présentation erronée des faits et qu’à la suite des diverses mesures prises dans le cadre de l’instance, de tels faits n’existent pas et que l’intimé ne sera pas en mesure de s’acquitter de son fardeau. Elle fait donc valoir que la réponse devrait être radiée sans autorisation de la modifier.
+[49] Cette prétention doit être rejetée. Comme l’a expliqué la Cour suprême du Canada au paragraphe 17 de l’arrêt Imperial Tobacco, « [l]a question de savoir si la preuve corrobore ou corroborera les faits allégués n’a aucune pertinence quant à la requête en radiation ». Autrement dit, dans le contexte d’une requête en radiation, il n’appartient pas à la Cour de se livrer à des conjectures sur la capacité de l’intimé à s’acquitter de son fardeau au procès. Il est préférable de laisser cette question au juge du procès.
+[50] Bien que l’on puisse dire qu’essentiellement, le paragraphe 28.1 ne fait que reformuler le critère énoncé au paragraphe 152(4), la Cour est d’accord avec l’intimé qu’il est possible d’en dégager les faits fondamentaux à l’appui de sa position selon laquelle il y a eu présentation erronée des faits.
+[51] De plus, bien que l’on puisse dire que le paragraphe contesté comporte un énoncé mixte de fait et de droit, la Cour d’appel fédérale a déclaré au paragraphe 8 de l’arrêt Canada c. Preston, 2023 CAF 178, « [qu’a]ucun principe de droit n’indique qu’un énoncé mixte de fait et de droit ne peut constituer une hypothèse ».
+[52] Enfin, je reconnais également que la requête est intrinsèquement viciée, car elle est incompatible avec la position de l’appelante selon laquelle elle était une « [a]utre société privée » et non une SPCC. Le juge du procès aura à déterminer le statut de l’appelante. S’il conclut qu’elle n’était pas une SPCC, alors la nouvelle cotisation n’est pas prescrite et la Cour devra examiner la question de la RGAÉ.
+VI. Conclusion [53] Comme l’a confirmé la Cour d’appel fédérale au paragraphe 12 de l’arrêt Preston CAF, « [l]a décision de radier un acte de procédure » est une décision discrétionnaire. La Cour est d’avis que la requête en radiation doit être rejetée sur le fondement de la « règle de la nouvelle mesure » et qu’il n’est pas évident et manifeste que la réponse ne révèle aucun moyen raisonnable de contestation de l’appel.
+[54] La requête est rejetée, avec dépens en faveur de l’intimé.
+Signé à Ottawa, Canada, ce 26e jour d’octobre 2023.
+« Guy Smith »
+Le juge Smith
+Traduction certifiée conforme
+ce 6e jour d’octobre 2025.
+Sophie Reid-Triantafyllos, jurilinguiste principale
+RÉFÉRENCE :
+2023 CCI 153
+NO DU DOSSIER DE LA COUR :
+2021-2673(IT)G
+INTITULÉ :
+GILCHRIST PROPERTIES LTD. c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 16 février 2023
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Guy R. Smith
+DATE DE L’ORDONNANCE :
+Le 26 octobre 2023
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Jonathan Lafrance
+Me Michel Gosselin-Trépanier
+Avocate de l’intimé :
+Me Christina Ham
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Jonathan Lafrance
+Me Marc-Olivier Plante
+Cabinet :
+Norton Rose Fulbright Canada S.E.N.C.R.L., s.r.l.
+Montréal (Québec)
+Pour l’intimé :
+Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada

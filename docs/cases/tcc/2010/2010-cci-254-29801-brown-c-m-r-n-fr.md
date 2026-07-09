@@ -1,0 +1,166 @@
+---
+title: "Brown c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29801/index.do"
+last_modified: "2010-05-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 254"
+citation2: ""
+neutral_citation: "2010 CCI 254"
+decision_date: "2010-05-07"
+language: "fr"
+item_id: "29801"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6607
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:00:13.965000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b6c22017ef113b5b9eafb238e80962f15b1d89a5bf86ed2f990bb74cdac99782"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brown c. M.R.N.
+
+- Citation: 2010 CCI 254
+- Decision date: 2010-05-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6607, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brown c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-05-07
+Référence neutre
+2010 CCI 254
+Numéro de dossier
+2009-3161(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2009-3161(EI)
+ENTRE :
+GLENN BROWN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 30 avril 2010 à St. John’s (Terre-Neuve-et-Labrador)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocate de l’appelant :
+Me Leah Mazerolle
+Avocate de l’intimé :
+Me Melanie Petrunia
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la décision prise par le ministre du Revenu national en application de la Loi sur l’assurance‑emploi selon laquelle Glenn Brown n’exerçait pas un emploi assurable est rejeté, et la décision est confirmée.
+Signé à Toronto (Ontario), ce 7e jour de mai 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 10e jour de juin 2010.
+Hélène Tremblay, traductrice
+Référence : 2010 CCI 254
+Date : 20100507
+Dossier : 2009-3161(EI)
+ENTRE :
+GLENN BROWN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Dans le présent appel, interjeté sous le régime de la Loi sur l’assurance‑emploi (la « LAE »), Glenn Brown porte en appel la décision du ministre du Revenu national (le « ministre ») selon laquelle il n’exerçait pas un emploi assurable pendant les périodes du 29 janvier 2007 au 5 mai 2007 et du 21 janvier 2008 au 10 mai 2008. La question à trancher en l’espèce est de savoir si l’appelant avait un lien de dépendance avec son employeur pendant les périodes en cause.
+Contexte
+[2] Depuis les années 1980, l’appelant travaille comme préparateur de déclarations de revenus auprès d’une franchise de H&R Block, à Bonavista (Terre‑Neuve).
+[3] La franchise a changé de propriétaire plusieurs fois, mais l’appelant a été pendant de nombreuses années un employé et un actionnaire minoritaire de la société propriétaire de la franchise.
+[4] Pendant l’année ayant précédé les périodes en cause, l’appelant était lui‑même propriétaire de la franchise et exploitait l’entreprise comme entreprise à propriétaire unique. Il travaillait à temps plein pendant la période de production de déclarations et avait un ou deux employés à temps partiel.
+[5] En janvier 2007, environ, l’appelant a demandé à une personne avec laquelle il entretenait des relations d’affaires, Mme Lynette Way, si elle voulait acheter une participation équivalente aux deux‑tiers de l’entreprise pour la somme symbolique d’un dollar. Elle a accepté l’offre.
+[6] Depuis, l’entreprise est exploitée par Bonavista Holdings Ltd. (« Bonavista »). Mme Way détient les deux‑tiers des actions de cette société, et l’appelant en détient l’autre tiers.
+[7] Mme Way et l’appelant ne sont pas liés.
+[8] Les activités de H&R Block sont saisonnières. La plupart des activités sont menées entre janvier et mai. Depuis de nombreuses années, l’appelant a droit à des prestations d’assurance‑emploi hors de la saison de pointe.
+[9] Cependant, selon l’avis du ministre, l’emploi de l’appelant auprès de Bonavista n’était pas assurable.
+Analyse
+[10] L’intimé soutient que l’emploi de l’appelant auprès de Bonavista est réputé ne pas être assurable parce que l’appelant avaient un lien de dépendance avec la société.
+[11] La disposition déterminative à l’alinéa 5(2)i) de la LAE est ainsi rédigée :
+5. (2) N’est pas emploi assurable :
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+[12] La question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu (la « LIR »). Les dispositions qui s’appliquent en l’espèce sont le paragraphe 5(3) de la LAE et le paragraphe 251(1) de la LIR, et sont rédigées en ces termes :
+5 (3) Pour l’application de l’alinéa (2)i),
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+251 (1) Pour l’application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+b) un contribuable et une fiducie personnelle (sauf une fiducie visée à l’un des alinéas a) à e.1) de la définition de « fiducie » au paragraphe 108(1)) sont réputés avoir entre eux un lien de dépendance dans le cas où le contribuable, ou une personne avec laquelle il a un tel lien, aurait un droit de bénéficiaire dans la fiducie si le paragraphe 248(25) s’appliquait compte non tenu de ses subdivisions b)(iii)(A)(II) à (IV);
+c) en cas d’inapplication de l’alinéa b), la question de savoir si des personnes non liées entre elles n’ont aucun lien de dépendance à un moment donné est une question de fait.
+[13] En ce qui a trait au paragraphe 5(3) précité, l’alinéa b) ne s’applique pas en l’espèce parce que l’employeur et l’employé n’étaient pas liés.
+[14] Pour ce qui d’établir s’il existe ou non un lien de dépendance, on doit appliquer le principe énoncé par le juge Rothstein dans l’arrêt La Reine c. McLarty, 2008 CSC 26; 2008 DTC 6354 (CSC), au paragraphe 62 :
+62 Le bulletin d’interprétation IT‑419R2 de l’Agence du revenu du Canada intitulé « Sens de l’expression “sans lien de dépendance” » (le 8 juin 2004) énonce une méthode pour déterminer s’il existe ou non un lien de dépendance entre les parties à une opération. La réponse dépendra des faits de chaque affaire. Les tribunaux ont toutefois élaboré et accepté des critères utiles : voir par exemple Peter Cundill & Associates Ltd. c. Canada, [1991] A.C.F. no 21 (QL) (1re inst.), conf. par [1991] A.C.F. no 1008 (QL) (C.A.). Le bulletin indique ce qui suit :
+22. […] En proposant des critères généraux pour déterminer si, pour une opération donnée, des personnes non liées ont entre elles un lien de dépendance ou non, il faut tenir compte du fait qu’il est impossible d’élaborer des lignes directrices prévoyant toutes les situations. Chaque transaction ou série de transactions donnée doit être examinée individuellement. Vous trouverez ci‑après les lignes directrices générales de l’ARC ainsi que des commentaires particuliers à propos de certaines relations.
+23. Les tribunaux ont, de manière générale, appliqué les critères suivants pour déterminer si une transaction avait été réalisée entre des personnes « sans lien de dépendance » :
+· un seul cerveau dirige les négociations pour les deux parties à une transaction;
+· les parties à une transaction agissent de concert sans intérêts distincts
+· il y a exercice effectif (de fait) du contrôle.
+[15] L’issue de la présente affaire est largement tributaire des témoignages de l’appelant et de Mme Way. À mon avis, aucun des deux témoins n’a été convaincant. Le témoignage de l’appelant est, de toute évidence, biaisé et m’a semblé tout sauf direct. Je souligne, par exemple, que l’appelant n’a pas avoué que les règles en matière d’assurance‑emploi avaient un rôle à jouer dans la décision d’offrir des actions à Mme Way. Pour ce qui est du témoignage de Mme Way, les réponses de cette dernière étaient très brèves et n’ont pas suffi pour me convaincre que son rôle allait au‑delà de la simple partie de complaisance. Je souligne également qu’aucun autre témoin, comme des employés à temps partiel de Bonavista, n’a été appelé.
+[16] Je conclus donc que l’appelant et Bonavista agissaient de concert sans intérêts distincts. Ils avaient entre eux un lien de dépendance.
+[17] Tout d’abord, rien n’indique que Mme Way s’attendait à tirer un revenu de Bonavista autre que l’allocation de présence de 500 $. Elle a payé la somme symbolique d’un dollar pour ses actions, et il semble que la société était exploitée en fonction du principe du budget équilibré.
+[18] Pendant la période en cause, Mme Way était employée à titre de gérante dans un point de vente Sears, à Bonavista, qui se trouve dans le même édifice que l’entreprise H&R Block. Mme Way est une employée des propriétaires de la boutique Sears depuis plus de 30 ans. L’appelant a acheté la franchise de H&R Block de Sears en 2005 et l’exploite depuis, parfois comme entreprise à propriétaire unique, parfois par l’entremise d’une société à cent pour cent, Omega Enterprises Inc. (« Omega »).
+[19] Dans son témoignage, Mme Way a affirmé avoir accepté d’acheter les actions de Bonavista afin de pouvoir être en mesure de prendre un des emplois à temps partiel à titre de préparatrice de déclarations de revenus si la boutique Sears venait à fermer ses portes. À mon avis, il s’agit‑là d’une explication peu convaincante. Même si elle s’avérait véridique, elle laisse entendre que Mme Way s’est contentée de laisser l’appelant diriger Bonavista comme entreprise exploitée en fonction du principe du budget équilibré pendant la période en cause.
+[20] Mme Way a affirmé qu’elle supervisait les activités, à Bonavista. Il n’y avait cependant rien indiquant qu’elle était au courant du détail des activités. Par exemple, rien ne laisse entendre qu’elle a fait preuve de diligence raisonnable lorsqu’elle a accepté une augmentation du salaire de l’appelant. De plus, lors du contre‑interrogatoire, Mme Way a admis qu’elle n’était pas au courant du fait qu’en 2008, Bonavista n’avait payé que la moitié du loyer qu’elle devait pour les locaux de H&R Block. Le loyer devait être payé à Omega, une société détenue en propriété exclusive par l’appelant.
+[21] Ensuite, il ressort de la preuve qu’à plusieurs occasions, l’appelant a agit de concert avec Bonavista. En contre‑interrogatoire, l’appelant a aussi affirmé qu’il n’était pas au courant du fait que Bonavista n’avait payé que la moitié du loyer qu’elle devait pour 2008. En outre, à deux occasions, l’appelant ou Omega a prêté de l’argent à Bonavista de façon temporaire, sans intérêts. L’appelant a affirmé que ces prêts avaient servi au flux de trésorerie de façon temporaire, pendant 6 mois, parce que Bonavista n’avait reçu les paiements du franchiseur qu’en mars. Toutefois, les prêts n’ont pas été remboursés en mars. Ils ont plutôt été remboursés en mai et en juin. L’appelant n’a pas fourni d’explication satisfaisante à ce sujet.
+[22] Enfin, selon le contrat de franchise H&R Block, l’entreprise doit ouvrir ses portes hors de la saison de pointe au moins quelques heures par semaine. L’appelant n’était pas payé par Bonavista pour ce travail.
+[23] Il ressort clairement de la preuve que l’appelant et Bonavista agissaient de concert sans intérêts distincts pendant la période en cause. Le ministre a eu raison de conclure que l’emploi de l’appelant n’était pas assurable.
+[24] L’appel est rejeté.
+Signé à Toronto (Ontario), ce 7e jour de mai 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 10e jour de juin 2010.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2010 CCI 254
+N° DE DOSSIER : 2009-3161(EI)
+INTITULÉ : GLENN BROWN et LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : St. John’s (Terre-Neuve-et-Labrador)
+DATE DE L’AUDIENCE : Le 30 avril 2010
+MOTIFS DU JUGEMENT PAR : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 7 mai 2010
+COMPARUTIONS :
+Avocate de l’appelant :
+Me Leah Mazerolle
+Avocate de l’intimé :
+Me Melanie Petrunia
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Leah Mazerolle
+Cabinet : Gittens & Associates
+St. John’s (Terre-Neuve-et-Labrador)
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

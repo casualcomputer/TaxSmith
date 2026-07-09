@@ -1,0 +1,141 @@
+Title: Chalati v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29742/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-124-29742-chalati-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-04-09
+
+# Chalati v. The Queen
+
+- Citation: 2010 TCC 124
+- Decision date: 2010-04-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6549, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chalati v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-09
+Neutral citation
+2010 TCC 124
+File numbers
+2007-4232(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4232(IT)G
+BETWEEN:
+BASSAM CHALATI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 28, 2010, at Montreal, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the appellant:
+Louis‑Frédérick Côté
+Counsel for the respondent:
+Annick Provencher
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act with respect to the appellant’s 1999, 2000, 2001, 2002 and 2003 taxation years is dismissed in accordance with the attached Reasons for Judgment.
+Costs shall be payable by the taxpayer in favour of the Crown.
+Signed at Toronto, Ontario, this 9th day of April 2010.
+"Patrick Boyle"
+Boyle J.
+Translation certified true
+on this 9th day of April 2010.
+Erich Klein, Reviser
+Docket: 2007-4236(IT)G
+BETWEEN:
+MAHER MAHROUSE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 28, 2010, at Montreal, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the appellant:
+Louis‑Frédérick Côté
+Counsel for the respondent:
+Annick Provencher
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act with respect to the appellant’s 1999, 2000, 2001, 2002 and 2003 taxation years is dismissed in accordance with the attached Reasons for Judgment.
+Costs shall be payable by the taxpayer in favour of the Crown.
+Signed at Toronto, Ontario, this 9th day of April 2010.
+"Patrick Boyle"
+Boyle J.
+Translation certified true
+on this 9th day of April 2010.
+Erich Klein, Reviser
+Citation: 2010 TCC 124
+Date: 20100409
+Dockets: 2007-4232(IT)G
+2007-4236(IT)G
+BETWEEN:
+BASSAM CHALATI,
+MAHER MAHROUSE,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Boyle J.
+[1] Maher Mahrouse and Bassam Chalati are pharmacists and the owners of two successful drugstores in the Montreal area, namely: a Uniprix pharmacy in Dollard‑des‑Ormeaux and another in Montreal.
+[2] It appears that the tax audit and investigation in this case had a long history and received some newspaper coverage at the time. It would seem as well that a number of matters were resolved along the way as, on the morning of the trial, a Partial Agreed Statement of Facts was filed which left only three issues for the Court to resolve. During the trial, the taxpayers’ counsel indicated they would no longer be contesting the gross negligence penalties either, so that only two issues now remained before the Court.
+[3] The first issue involves approximately $100,000 in rebates and other benefits received by the pharmacists in 2003 from large generic pharmaceutical companies with which their pharmacies did business. Most of this was received in cash, cheques and gift cards, or direct payments for the pharmacists' benefit made to third parties, such as contractors doing significant renovation and improvement work on a pharmacist's home. Messrs. Mahrouse and Chalati do not dispute that they received such benefits or that they should be taxable. Instead, they had a new accountant identify a seemingly unrelated closing inventory adjustment that should have been deducted in 2003 and which would largely offset the inclusion of the rebates from the pharmaceutical companies. They suggest that the inventory may have been intentionally overstated by their prior accountant to strategically account for the rebates without highlighting the fact that these may not have been reported at all in prior years.
+[4] The other issue is whether they paid, entirely in cash, fees of $47,000 in each of the years 2001 and 2002 to an old family friend, Amin Hachem, to manage the pharmacists and inventory at the two pharmacies, which amount their store bookkeeper and former accountant should have deducted but, for some reason, did not.
+[5] Mr. Mahrouse, Mr. Chalati and Mr. Hachem each testified at the trial. The only other witness was their new accountant. Overall, I would have to say that the witnesses testified to what was possible and not inconsistent with what supporting evidence they brought to Court. Mr. Chalati, Mr. Mahrouse and Mr. Hachem each gave his testimony in a manner that was general and vague, and in their cross‑examinations they were evasive. Mr. Chalati and Mr. Hachem were combative throughout their cross‑examinations. It is my view that it would be unwise to accept any of their testimony on material points, except to the extent that it is adequately corroborated by written supporting evidence. There were no other witnesses called to corroborate any part of their stories. As for the new accountant, he was hired only after the years in question to aid Mr. Chalati and Mr. Mahrouse in their tax disputes.
+I. Generic Drug Company Rebates
+[6] The taxpayers have been unable to satisfy me on a balance of probabilities that the rebates from the generic drug companies were either offset by an unrelated closing inventory adjustment deduction that they should be entitled to, or already intentionally included in their income by way of the closing inventory overstatement. The adjustment sought to the 2003 closing inventory was in respect of inventory purchases made during the first five days of January 2004. It appears from the written inventory count done by a third-party inventory count company that these might have been included in the 2003 closing inventory. No one from that company was called to explain its inventory summary. The new accountant could not confirm that something similar had happened at the start of 2003 which would have resulted in an overstated 2003 opening inventory; nor could the new accountant confirm that the early January 2004 inventory purchases were deducted from the 2004 opening inventory for the purposes of the 2004 financial statements in order to be consistent. The new accountant could not confirm that the 2002 income and the 2004 income were computed in a manner consistent with the closing inventory adjustment now proposed; nor could he confirm that, if his proposed closing inventory adjustment were made, there would not also need to be made a corresponding and offsetting 2003 opening inventory adjustment. These issues, he said, were not within the mandate given to him by Mr. Chalati and Mr. Mahrouse.
+[7] It was the new accountant who suggested that, given the similarity of the amounts involved, the previous accountant may have intentionally overstated the closing inventory so as to carefully show the rebate amounts as having been included in income already. The new accountant did not find any such indication in the old accountant’s files, to the extent that he had access to them. He did not speak with the previous accountant to discuss this possibility. As with every other problem question put to him, that was not within the mandate given to him by Mr. Chalati and Mr. Mahrouse. I think that, if this was an intentional strategic disclosure of the rebates, one or the other of Mr. Mahrouse and Mr. Chalati would at least somewhat remember it and there would have been a clear note in the file to validate it.
+[8] The taxpayers’ evidence does not satisfy me that their appeals should be allowed with respect to the rebates received by them from the generic pharmaceutical companies.
+II. Cash Payments to Mr. Hachem
+[9] Both taxpayers testified that Mr. Hachem worked for them as store manager for both pharmacies throughout 2001 and 2002 and that he was paid $47,000 in cash each year. The source of the cash was cheques the taxpayers made payable to themselves and then cashed at their pharmacy, by withdrawing cash from the till against the endorsed cheque, or at the bank. Copies of the endorsed cheques were not put in evidence. No bank records were produced. The duplicate record copy of some store cheques were produced, each drawn by one or the other of the taxpayers and payable to himself. Some were for as much as $15,000 to $20,000 and some were for very specific amounts down to dollars and cents. There was no reference to Mr. Hachem or to management fees on the cheques. The cheques do not total $47,000 per year. The pharmacies’ financial statements show other significant management fees as having been paid and deducted already.
+[10] Mr. Hachem’s 2001 and 2002 tax returns wherein he reported $47,000 of professional income were put in evidence. There was no description of the source or the nature of the professional activity. There were no expenses deducted from the gross revenue. Mr. Hachem said he insisted that he be paid in cash because his bank account had been seized by the tax authorities on account of unspecified tax problems and an unpaid tax liability associated therewith.
+[11] The evidence does not satisfy me that the taxpayers were entitled to deduct additional business expenses of $47,000 in these years in respect of fees paid in cash to Mr. Hachem. Mr. Hachem said the dates and amounts in his written acknowledgment of fees paid, which was prepared after the fact in the course of the tax dispute, were determined by the new accountant. The new accountant testified he had been given the dates by Mr. Hachem and from that information he located cheques which more or less corresponded. The written acknowledgment indicates Mr. Hachem was paid amounts of up to $20,000 on specific dates, yet Mr. Hachem and the taxpayers each testified that such was never the case. Mr. Chalati said he would put the $20,000 in a bag that he kept in his house or car or at the store for Mr. Hachem and would pay it to him in instalments of several thousand dollars over time, but not at the times indicated on the schedule.
+[12] While Mr. Hachem supposedly managed 20 professionals, i.e. pharmacists and technicians, no one else was called to give evidence that they regularly saw him working in either store, not even the two sisters of the taxpayers, who worked there as pharmacists. Mr. Hachem did not submit any bills for his services and was not registered for the goods and services tax or for the Quebec sales tax for the purposes of his services business. There was no corroborating evidence that the cheques ever passed through the stores’ bank account. There was no corroborating evidence that there were no corresponding deposits into the taxpayers’ personal bank accounts either of cash or of the endorsed cheques themselves. The cheques put in evidence did not correspond exactly as to either date or amount with what was stated in the written acknowledgment of payment signed by Mr. Hachem. It was not clear that there was a similar store manager position before or after the two years during which Mr. Hachem was said to have held that position.
+[13] This quality of evidence does not satisfy me that Mr. Chalati and Mr. Mahrouse paid $94,000 in cash to Mr. Hachem for management services rendered to their businesses.
+[14] The explanation put forward by Mr. Chalati and Mr. Mahrouse on both of these issues may have been possible and not inconsistent with whatever evidence they produced, but the totality of this evidence does not even come close to satisfying me on the balance of probabilities standard.
+[15] Each of the appeals is dismissed with costs payable by each appellant to the respondent.
+Signed at Toronto, Ontario, this 9th day of April 2010.
+"Patrick Boyle"
+Boyle J.
+Translation certified true
+on this 9th day of April 2010.
+Erich Klein, Reviser
+CITATION: 2010 TCC 124
+COURT FILE NOS.: 2007-4232(IT)G & 2007-4236(IT)G
+STYLE OF CAUSE: BASSAM CHALATI ET AL. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: January 28, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: April 9, 2010
+APPEARANCES:
+Counsel for the appellants:
+Louis‑Frédérick Côté
+Counsel for the respondent:
+Annick Provencher
+COUNSEL OF RECORD:
+For the appellants:
+Name: Louis-Frédérick Côté
+Firm: Spiegel Sohmer
+Montreal, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,329 @@
+---
+title: "C. J. McCarty Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/111225/index.do"
+last_modified: "2015-08-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 201"
+citation2: ""
+neutral_citation: "2015 CCI 201"
+decision_date: "2015-08-12"
+language: "fr"
+item_id: "111225"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2640
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:24:14.356000+00:00"
+cases_cited_count: 20
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "36dd4894aacb5c8f9465e1263a8b07521524dd4779ce1637d49cec2a9a69fbac"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# C. J. McCarty Inc. c. La Reine
+
+- Citation: 2015 CCI 201
+- Decision date: 2015-08-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2640, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+C. J. McCarty Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-08-12
+Référence neutre
+2015 CCI 201
+Numéro de dossier
+2012-1349(IT)G
+Juges et Officiers taxateurs
+Kathleen T. Lyons
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1349(IT)G
+ENTRE :
+C. J. McCARTY INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 3 et 4 novembre 2014, à Thunder Bay (Ontario)
+Devant : L’honorable juge K. Lyons
+Comparutions :
+Avocats de l’appelante :
+Me Brian R. MacIvor et Me Shannon Nelson
+Avocat de l’intimée :
+Me Paul Klippenstein
+JUGEMENT
+Les appels interjetés des nouvelles cotisations établies à l’égard de l’appelante en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2007 et 2008 sont accueillis, et les nouvelles cotisations sont déférées au ministre du Revenu national pour un nouvel examen et établissement de nouvelles cotisations; il sera tenu compte du fait que l’appelante n’exploitait pas une entreprise de prestation de services personnels au sens du paragraphe 125(7) de la Loi. Les dépens partie‑partie sont adjugés à l’appelante.
+Signé à Edmonton (Alberta), ce 12e jour d’août 2015.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 15e jour de décembre 2015.
+François Brunet, réviseur
+Référence : 2015 CCI 201
+Date : 20150812
+Dossier : 2012‑1349(IT)G
+ENTRE :
+C. J. McCARTY INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lyons
+[1] C. J. McCarty Inc., l’appelante (« CJ »), interjette appel des nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu (la « Loi ») relativement aux années d’imposition se terminant le 31 décembre 2007 (« 2007 ») et le 31 décembre 2008 (« 2008 »). CJ a fait l’objet de nouvelles cotisations sur le fondement qu’elle exploitait une « entreprise de prestation de services personnels » au sens du paragraphe 125(7). Par conséquent, CJ est assujettie aux déductions limitées offertes à ses « employés constitués en société », conformément à l’alinéa 18(1)p), et elle n’a pas droit à la déduction accordée aux petites entreprises au titre du paragraphe 125(1) de la Loi.
+I. La question en litige [2] Bruce McCarty et Steve Blazino, comptable, ont tous deux témoigné pour le compte de CJ et ont rendu des témoignages crédibles.
+[3] La question est de savoir si CJ était une « entreprise de prestation de services personnels » en 2007 et en 2008 (la « période pertinente »). Il n’est pas controversé entre les parties que la présente affaire porte sur la question de savoir s’il [traduction] « serait raisonnable de considérer [Bruce McCarty] comme l’ […] employé de [MEG Energy Corp. (« MEG »)], si ce n’était l’existence de [CJ]. »
+II. Les faits [4] De 1996 à 2000, Bruce McCarty était consultant et travaillait sur un projet de grande envergure en Indonésie. Cependant, il est rentré au Canada en raison des troubles politiques dans ce pays.
+[5] CJ a été constituée en société le 5 juin 2001. Elle est la propriété de Bruce McCarty, de son épouse, Nancy McCarty, et de leur fille[1]. Selon M. McCarty, Nancy et lui étaient employés par CJ et sa fille était à son service occasionnellement. Il est président et unique administrateur de CJ et il compte 35 ans d’expérience en gestion de la construction dans d’importants projets nationaux et internationaux. Son siège social est situé à Thunder Bay (Ontario). Pendant la période pertinente, CJ était une société privée sous contrôle canadien.
+[6] De 2001 à 2004, M. McCarty a collaboré avec Bantrel pour mener à bien la phase 1 d’un projet de construction pour Suncor relatif à la contruction d’une usine pour le drainage par gravité au moyen de vapeur (« DGMV » – un nouveau processus qui filtre le sable, mélangé au préalable avec du bitume et de l’eau, pour produire un liquide fluide qui est déposé dans le pipeline). Son rôle était de former une équipe de gestion de la construction en embauchant le personnel et de mettre au point des systèmes et des procédures pour procéder à la construction de l’usine. Pendant qu’il travaillait pour Suncor, il a rencontré Bryan Weir, directeur adjoint du groupe chargé des projets.
+[7] Par la suite, CJ a aidé Access Pipeline Inc. (« Access ») à résoudre les difficultés auxquelles elle était aux prises dans le même secteur que le projet de Suncor. MEG était un associé d’Access et détenait 50 % des actions de celle‑ci.
+[8] Comme il avait besoin de personnel d’expérience, Bryan Weir, maintenant vice‑président des projets de croissance pour MEG, a communiqué avec Bruce McCarty afin de garantir sa disponibilité relativement à la construction d’une installation de raffinage au lac Christina, qui est à 130 kilomètres de Fort McMurray, en Alberta. M. Weir souhaitait avoir une entente semblable à celle de Suncor avec M. McCarty. Au cours de la période pertinente, MEG employait 150 personnes.
+[9] CJ a décidé qu’elle assurerait des services de gestion de la construction (les « services ») à MEG suivant la conclusion de trois [traduction] « accords de consultation » en vigueur du 8 décembre 2005 au 3 janvier 2007, du 1er avril 2007 au 31 mars 2008 et du 1er mars 2008 au 31 décembre 2008 (l’« accord 1 », l’« accord 2 » et l’« accord 3 », respectivement)[2]. Dans chaque accord, un accord de mandant, portant la même date que l’accord, était joint à titre d’annexe B.
+[10] Bien qu’il y ait certaines différences entre les trois accords, les principales dispositions sont très semblables. Dans les présents motifs, l’accord 2 sera utilisé comme exemple relativement aux conditions applicables aux trois accords, sauf indication contraire.
+[11] L’article 2.1 stipule que MEG accepte d’embaucher CJ, la consultante, pour assurer des services pendant la durée de l’accord.
+[12] L’article 4.2 définit la nature de l’accord et précise que tous les services à assurer aux termes de l’accord doivent l’être par M. McCarty, le mandant, pour le compte de CJ à MEG, à moins que MEG en ait convenu autrement par écrit[3]. Les services, le rôle de M. McCarty et les exigences aux termes de l’accord (rapports, assurance et attentes quant à la prestation des services) sont éxposés aux annexes A et B et à article 4, respectivement.
+[13] Conformément à l’article 10.2, CJ doit exiger que M. McCarty exécute les obligations prévues par l’accord de mandant suivant lequel il est lié et respecte certaines conditions, y compris l’article 4, comme s’il était signataire de l’accord. CJ et MEG sont signataires de tous les accords de mandant. M. McCarty n’a signé que l’accord 3 à titre personnel.
+[14] Bruce McCarty a témoigné que l’accord 2 porte sur une usine pilote de 900 millions de dollars pour le processus de DGMV. CJ a examiné les dessins techniques et les schémas et était chargée de conclure des contrats d’acquisition de biens, sous réserve de l’approbation de MEG, et de déterminer le meilleur ensemble de contrats pour ce qui est de la sous-traitance et des marchandises. CJ devait être chargée d’établir les contrats avec les entrepreneurs – un accord interprofessionnel comportant environ 50 entrepreneurs – fixant les dates d’échéance et établissant un lien avec le directeur des achats de MEG. Au moment de l’accord 2, 20 personnes travaillaient sur le chantier. Au moment de l’accord 3, 1 500 personnes travaillaient sur le chantier, et CJ devait prendre les dispositions nécessaires pour héberger ces personnes et leur fournir des remorques.
+[15] Il a qualifié l’accord 2 de [traduction] « contrat propre », qui faisait état d’un taux horaire de 154 $ l’heure plus la TPS (ce taux a d’abord été de 125 $ dans l’accord 1 et il est ensuite passé à 164,55 $ dans l’accord 3). Il a affirmé qu’il n’avait pas choisi le taux horaire et que celui‑ci avait été fixé par M. Weir, conformément aux normes de l’industrie. Il a aussi dit que l’augmentation du taux horaire correspondait au coût d’affaires reflétant les normes et la situation de l’industrie. À un certain moment, il a dit que l’augmentation correspondait à ce que les employés de MEG avaient reçu, mais pendant le réinterrogatoire il a précisé que seuls les employés de MEG avaient reçu une augmentation, pas les entrepreneurs. Le nombre d’heures autorisé était plafonné à 200 par mois sans autorisation, et il avait prévenu M. Weir que ce nombre serait dépassé pour un projet de cette ampleur. Il a témoigné que le plafond était assez souvent dépassé.
+[16] L’article 5.3 stipule que [traduction] « la société doit aussi rembourser le consultant de certains frais remboursables », y compris un certain nombre de vols de retour vers Thunder Bay, des frais d’hébergement et des dépenses relatives à des véhicules loués alors qu’il résidait à Calgary, qui peuvent faire l’objet d’une vérification et de rajustements par MEG, le cas échéant[4]. M. McCarty a déclaré que, s’il tenait une réunion, il facturait les aliments. Pendant qu’il se trouvait à Calgary, il a facturé le coût des aliments. La location d’une voiture dépendait de l’emplacement de son véhicule, qui était utilisé pour faire la tournée des chantiers de construction de MEG au lac Christina. Une personne chez MEG s’occupait de ses déplacements en avion et, s’il y avait un siège libre dans l’avion de MEG, il le prenait. Les rapports des factures et des dépenses présentés par CJ à MEG aux fins de remboursement font état des types de dépenses susmentionnés et d’un téléphone cellulaire.
+[17] CJ était obligée de facturer à MEG les services rendus pendant la première semaine du mois suivant. Bruce McCarty a affirmé qu’il préparait les factures que son épouse officialisait et envoyait ensuite à M. Weir avec les reçus pour les dépenses joints à celles-ci. Elle payait les comptes, signait les chèques, assurait le suivi des affaires bancaires et financières, préparait les déclarations de TPS et travaillait avec le comptable, ce qui, au total, représentait environ 12 heures par mois. En contre-interrogatoire, il a convenu que les factures n’indiquent pas les heures attribuées à sa femme ou à sa fille, ni les salaires qui leur étaient versés à titre d’employés.
+[18] M. Blazino, le comptable de CJ, a confirmé dans son témoignage que Nancy fournissait les documents de base au cabinet comptable et qu’après différentes vérifications, le cabinet comptable préparait les états financiers.
+[19] Dans le calcul du revenu, CJ a demandé des déductions accordées aux petites entreprises s’élevant à 48 959 $ et à 60 194 $ et a demandé la déduction de dépenses d’entreprise ordinaires s’élevant à 97 143 $ et à 105 004 $ (le « montant des dépenses ») pour 2007 et 2008, lesquelles comprenaient les frais remboursables. Les dépenses ainsi déduites sont recensées ci‑dessous :
+2007
+2008
+Repas et divertissement
+8 587 $
+17 492 $
+Amortissement des immobilisations corporelles
+807 $
+787 $
+Frais bancaires
+448 $
+1 087 $
+Taxes professionnelles, permis et cotisations
+270 $
+220 $
+Frais de bureau
+1 543 $
+2 360 $
+Honoraires professionnels
+4 600 $
+3 970 $
+Téléphone et communications
+2 850 $
+5 388 $
+Frais de déplacement
+62 508 $
+54 966 $
+Frais afférents à un véhicule
+15 530 $
+18 734 $
+Total
+97 143 $
+105 004 $
+III. Thèse [20] Selon CJ, M. McCarty ne pouvait pas être raisonnablement considéré comme étant l’employé de MEG. Par conséquent, CJ est une entreprise exploitée activement ayant droit à la déduction accordée aux petites entreprises conformément au paragraphe 125(1) et elle ne doit pas être considérée comme exploitant une entreprise de prestation de services personnels.
+[21] La thèse de l’intimée porte que CJ était une entreprise de prestation de services personnels au sens du paragraphe 125(7). Voilà pourquoi CJ n’a pas le droit de déduire les dépenses supportées à titre de dépenses d’entreprise et elle peut uniquement déduire les types de dépenses recensées à l’alinéa 18(1)p)[5].
+IV. Analyse [22] Tous les renvois à des dispositions législatives figurant dans les présents motifs sont des renvois aux dispositions de la Loi de l’impôt sur le revenu qui étaient en vigueur pendant les années d’imposition 2007 et 2008.
+[23] Le paragraphe 125(1) dispose qu’une déduction accordée aux petites entreprises peut être utilisée par une société relativement aux « […] sommes dont chacune est le revenu de la société pour l’année tiré d’une entreprise exploitée activement au Canada […] ».
+[24] Au paragraphe 125(7), « entreprise exploitée activement » s’entend de « [t]oute entreprise exploitée par une société, autre qu’une entreprise de placement déterminée ou une entreprise de prestation de services personnels […][6] ».
+[25] Les mots « entreprise de prestation de services personnels » sont aussi définis au paragraphe 125(7) et il est le point central du présent appel. Cette disposition et la disposition connexe figurant à l’alinéa 18(1)p) « […] ont été adoptées pour refuser certains avantages fiscaux que l’on peut obtenir en fournissant des services par l’intermédiaire d’une société plutôt que personnellement » et qui, autrement, seraient disponibles[7]. Ces dispositions se lisent comme suit :
+248(1) Définitions. Les définitions qui suivent s’appliquent à la présente loi.
+[…]
+« entreprise de prestation de services personnels » – « entreprise de prestation de services personnels » S’entend au sens du paragraphe 125(7).
+[…]
+125(7) Définitions. Les définitions qui suivent s’appliquent au présent article.
+[…]
+« entreprise de prestation de services personnels » – « entreprise de prestation de services personnels » S’agissant d’une entreprise de prestation de services personnels exploitée par une société au cours d’une année d’imposition, entreprise de fourniture de services dans les cas où :
+a) soit un particulier qui fournit des services pour le compte de la société — appelé « employé constitué en société » à la présente définition et à l’alinéa 18(1)p);
+b) soit une personne liée à l’employé constitué en société,
+est un actionnaire déterminé de la société, et où il serait raisonnable de considérer l’employé constitué en société comme étant un cadre ou un employé de la personne ou de la société de personnes à laquelle les services sont fournis, si ce n’était de l’existence de la société, à moins :
+c) soit que la société n’emploie dans l’entreprise tout au long de l’année plus de cinq employés à temps plein;
+d) soit que le montant payé ou payable à la société au cours de l’année pour les services ne soit reçu ou à recevoir par celle-ci d’une société à laquelle elle était associée au cours de l’année.
+[…]
+18(1) Exceptions d’ordre général. Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+[…]
+p) Dépenses restreintes des entreprises de prestation de services personnels ‑ une dépense, dans la mesure où elle est engagée ou effectuée par une société au cours d’une année d’imposition en vue de tirer un revenu d’une entreprise de prestation de services personnels, à l’exception :
+(i) du salaire, du traitement ou d’une autre rémunération versé au cours de l’année à un actionnaire constitué en société de la société,
+(ii) du coût, pour la société, de tout autre avantage ou allocation accordé à un actionnaire constitué en société au cours de l’année,
+(iii) d’un montant dépensé par la société et lié à la vente de biens ou à la négociation de contrats par la société, lorsque le montant aurait été déductible dans le calcul du revenu d’un actionnaire constitué en société pour une année d’imposition tiré d’une charge ou d’un emploi s’il l’avait dépensé en vertu d’un contrat d’emploi qui l’obligeait à verser le montant,
+(iv) d’un montant versé par la société au cours de l’année au titre des frais judiciaires ou extrajudiciaires engagés par elle en recouvrement des sommes qui lui étaient dues pour services rendus,
+qui serait, si le revenu de la société était tiré d’une entreprise autre qu’une entreprise de prestation de services personnels, déductible dans le calcul de son revenu;
+[26] Les exclusions des alinéas c) et d) de la disposition concernant l’application à une entreprise de prestation de services personnels ne jouent pas et ne sont pas en cause dans le présent appel[8].
+[27] S’il est conclu qu’il y a entreprise de prestation de services personnels, le revenu d’entreprise tiré par une telle entreprise ne constitue pas un revenu tiré par une entreprise exploitée activement. Par conséquent, le revenu ne peut faire l’objet de la déduction accordée aux petites entreprises et il est imposé à un taux plus élevé que les autres revenus d’entreprise[9]. Aussi, dans le calcul du revenu de l’entreprise de prestation de services personnels, l’alinéa 18(1)p) interdit la déduction d’une dépense concernant un employé constitué en société (ou d’un montant dépensé par la société pour recouvrer des sommes). Par conséquent, cet alinéa ne joue que si l’appelante exploitait une entreprise de prestation de services personnels.
+[28] La définition de l’ « entreprise de prestation de services personnels » au paragraphe 125(7) exige qu’il y ait un « actionnaire déterminé » de la société, défini au paragraphe 248(1) comme tout contribuable qui possède au moins 10 % des actions émises d’une catégorie donnée du capital-actions de la société. La possession par Bruce McCarty de 40 actions à droit de vote dans CJ satisfait clairement à cette exigence[10].
+[29] L’autre exigence prévue au paragraphe 125(7) pour établir si une société est une entreprise de prestation de services personnels, laquelle exigence est en cause dans le présent appel, est celle :
+[…] de savoir s’il serait raisonnable de considérer l’employé constitué en société [M. McCarty] comme étant un cadre ou un employé de [MEG] […], si ce n’était l’existence de la société [CJ] […][11]
+[30] CJ a soutenu que la clé de la définition « est un actionnaire déterminé de la société, et […] l’employé constitué en société », ce dernier étant défini à l’alinéa 125(7)a) comme « un particulier qui fournit des services pour le compte de la société ». Non seulement Bruce McCarty était un actionnaire déterminé, mais il assurait des services pour le compte de CJ, qui est une entreprise exploitée activement et qui ne devrait pas être considérée comme une entreprise de prestation de services personnels. Par conséquent, si ce n’était de l’existence de CJ, en se fondant uniquement sur la relation entre Bruce McCarty personnellement et MEG, la Cour pourrait raisonnablement conclure que Bruce McCarty n’était pas l’employé de MEG et que CJ a droit à la déduction accordée aux petites entreprises et aux dépenses déduites. CJ a établi un parallèle entre les faits de la présente affaire et ceux de l’affaire Dynamic. Comme l’a relevé l’intimée, l’arrêt Dynamic est l’arrêt de principe en matière d’entreprises de prestation de services personnels, comme l’a récemment confirmé la Cour d’appel fédérale à l’occasion de l’affaire Aniger Consulting Inc. c Canada, 2010 CCI 637, 2011 DTC 1039.
+[31] Manifestement, vu les mots « si ce n’était de l’existence », la Cour ne doit tenir aucun compte de la relation réelle entre les parties, MEG et CJ, et recherche ce qui se serait produit si la relation entre M. McCarty et MEG avait été différente.
+[32] Comme l’a souligné la juge Sharlow à l’occasion de l’affaire Dynamic, la question hypothétique découle du libellé des alinéas b) et c) de la définition. Lorsqu’elle a recherché si Dynamic exploitait une entreprise de prestation de services personnels, la Cour d’appel fédérale a dit que les principes consacrés par l’arrêt Wiebe Door Services Ltd. c. Canada (Ministre du Revenu national ‑ MRN), [1986] 3 CF 553 (CAF) (Wiebe Door) et par l’arrêt 671122 Ontario Ltd. c Sagaz Industries Canada Inc., 2001 CSC 59, [2001] 2 RCS 983 (Sagaz) sont utiles pour rechercher s’il serait raisonnable de considérer l’intéressé comme l’employé d’un tiers acquéreur des services assurés par l’intéressé si son rôle dans la société, ses droits et ses obligations n’étaient pas pris en compte.
+[33] A l’occasion de l’affaire Sagaz, la Cour suprême du Canada a dit que la question centrale est de savoir si la personne qui a été engagée pour assurer des services à une autre les offre en tant que personne travaillant à son compte[12]. Pour trancher cette question, il est nécessaire d’examiner les facteurs, consacrés par la jurisprudence Wiebe Door, soit le contrôle, l’outillage, la question de savoir si le travailleur engage ses propres assistants, la possibilité de profit et le risque de perte. L’importance relative de chacun de ces facteurs dépend des faits de l’affaire. Avant d’examiner ces facteurs, il est nécessaire de rechercher d’établir si l’intention est un facteur dans l’application de la disposition concernant les entreprises de prestation de services personnels.
+Intention [34] L’article 3.1 de chaque accord stipule que CJ se considère comme entrepreneure indépendante.
+[35] Au départ, CJ et l’intimée ont soutenu que l’intention des parties, lorsqu’elles ont signé l’accord, est sans importance. CJ a soutenu qu’il n’est pas pertinent pour la Cour de prendre en considération la façon dont les parties ont choisi de se qualifier ainsi que leur intention. On a invoqué l’observation suivante de la juge Sharlow, au paragraphe 56 de l’arrêt Royal Winnipeg Ballet c Canada (Ministre du Revenu national ‑ MRN), 2006 CAF 87, 2006 DTC 6323 (CAF) : « […] [i]l existe de nombreuses décisions qui énoncent que les parties à un contrat ne peuvent en modifier la nature juridique simplement en le qualifiant d’autre chose ».
+[36] Les deux parties ont fait référence à la décision 609309 Alberta Ltd. c Canada, 2010 CCI 166, 2010 DTC 1136 (609309 Alberta Ltd.), dans laquelle, au paragraphe 23, le juge Boyle énonce ce qui suit :
+23. Dans le contexte de la détermination de l’existence d’une entreprise de prestation de services personnels, l’intention des parties n’est pas un critère utile ou pertinent pour au moins trois raisons […]
+[37] Premièrement, la disposition (anti-évitement) a pour but de refuser au contribuable des avantages fiscaux par ailleurs licites. Deuxièmement, un contrat entre la société faisant l’acquisition des services et la société offrant les services est toujours un contrat d’entreprise, parce qu’une société ne peut pas être un employé embauché aux termes d’un contrat de louage de services. Par conséquent, l’intention aurait été de conclure un contrat d’entreprise. Troisièmement, la disposition exige que la Cour ne tienne pas compte de l’existence de la société et fasse une conjecture raisonnable au sujet de ce que les parties auraient fait si elles avaient agi autrement[13]. A l’occasion de l’affaire G & J Muirhead Holdings Ltd. c Canada, 2014 CCI 49, 2014 DTC 1067, le juge Boyle a réitéré que l’intention n’est pas pertinente en ce qui a trait à la disposition concernant l’entreprise de prestation de services personnels.
+[38] A l’occasion de l’affaire W.B. Pletch Co. c Canada, 2005 CCI 400, 2006 DTC 2065, le juge Hershfield a conclu que l’intention des parties était un facteur neutre ne pouvant pas influer sur la détermination d’une question hypothétique se posant dans la disposition concernant les entreprises de prestation de services personnels, puisqu’« il est clair que la relation visée par la définition d’“entreprise de prestation de services personnels” ne peut tout simplement pas découler d’un choix ». L’intimée a soutenu que cette disposition anti-évitement est conçue pour exclure les choix des parties.
+[39] La jurisprudence récente de notre Cour enseigne aussi que l’intention n’est pas pertinente pour établir si une société est une entreprise de prestation de services personnels[14].
+[40] Après avoir réfléchi sur la jurisprudence 1392644 Ontario Inc. (faisant affaire sous la raison sociale Connor Homes) c Canada (Ministre du Revenu national – MRN), 2013 CAF 85, [2013] ACF no 327 (QL) (CAF) (Connor Homes), par ses observations présentées en réponse, CJ a soutenu que l’intention des parties, qui ressort des conditions de l’accord, est un facteur pertinent à prendre en compte eu matière d’entreprises de prestation de services personnels. Selon elle, la jurisprudence Connor Homes enseigne que l’intention ressortant des éléments objectifs doit être appliquée plus généralement qu’en matière de Loi sur l’assurance‑emploi et du Régime de pensions du Canada. CJ a invoqué les observations au paragraphe 37 de cet arrêt, selon lesquelles la relation professionnelle a des conséquences juridiques et pratiques importantes sur le droit de la responsabilité délictuelle, les programmes sociaux, les relations de travail et la fiscalité (inscription aux fins de la taxe sur les produits et services et situation au regard de la Loi).
+[41] Je retiens la formulation de CJ quant à l’enseignement de la jurisprudence Connor Homes : l’intention subjective des parties doit être appréciée selon des critères objectifs (Sagaz et Wiebe Door) et j’ajoute que la Cour a fait référence à une analyse en deux étapes où l’analyse de l’intention s’effectue à l’une des étapes.
+[42] Cependant, je ne puis dire que ce principe joue au regard de la disposition concernant les entreprises de prestation de services personnels. Le libellé et le cadre de cette disposition rendent effectivement superflue l’intention des parties – en ignorant la relation de CJ avec MEG en tant que parties aux accords – pour rechercher ce que M. McCarty et MEG auraient fait du fait de la question hypothétique qui est posée. En outre, la phrase « [s’il] serait raisonnable de considérer […] comme étant un […] employé » est incompatible avec une approche subjective.
+[43] Fait important, dans l’affaire Dynamic, la juge Sharlow n’a pas considéré l’intention des parties comme facteur pour rechercher qu’il n’y avait pas d’entreprise de prestation de services personnels, même si le juge de première instance avait discuté l’intention à titre de facteur.
+[44] Je conclus que l’intention des parties n’est pas utile pour rechercher s’il serait raisonnable de considérer M. McCarty comme étant l’employé de MEG dans le cadre d’une entreprise de prestation de services personnels.
+[45] Compte tenu des faits et selon les facteurs, la question à trancher est de savoir s’il serait raisonnable, si ce n’était de l’existence de CJ, de considérer M. McCarty comme étant l’employé de MEG.
+Contrôle
+[46] La question est de savoir si MEG avait le droit de contrôler la manière dont Bruce McCarty exerçait ses activités à titre de directeur de la construction. CJ a soutenu que MEG n’avait pas un tel droit. L’intimée a soutenu qu’il y a des indices de contrôle. Selon moi, il ressort des preuves qu’il était principalement autonome dans sa poursuite des résultats souhaités et que MEG n’exerçait pas un contrôle important sur ses activités.
+[47] Il est constant que M. McCarty possède des connaissances spécialisées et une grande expérience en gestion de la construction. Dans de tels cas, vu le critère du contrôle, si l’entité n’est pas en mesure de dire à l’individu ce qu’il doit faire ou comment il doit le faire, il s’agit plutôt d’un entrepreneur indépendant.
+[48] Les services à assurer sont énumérés à l’annexe A de l’accord. Chaque accord concerne une période déterminée. Même s’il existe certains éléments communs d’un accord à l’autre (aider relativement aux plans de construction, intervenir à titre de représentant à différentes réunions et donner des conseils sur certains aspects), la définition des services au paragraphe 1 des accords 2 et 3 ainsi que les paragraphes 1, 2 et 3 de l’accord 3 semblent viser des activités et des projets sensiblement différents, ce qui est évident d’après les factures. Cette situation pourrait être perçue comme le fait que M. McCarty était disponible pour MEG afin de faire ce que MEG voulait, ou comme le fait qu’il était en mesure de choisir les affectations qui lui étaient offertes[15]. Les éléments de preuve à ce sujet n’étaient pas suffisamment circonstanciés. Je conclus qu’il s’agit d’un facteur neutre.
+[49] L’alinéa 4.1b) de l’accord 3 précise que CJ assure des services pendant les heures normales d’ouverture de MEG. Bien qu’il en ressort qu’il y avait un certain contrôle, lorsque M. McCarty a été contre‑interrogé à ce sujet, il a affirmé que c’était [traduction] « ridicule », car la construction se fait 24 heures par jour dans les chantiers importants et qu’avec 1 500 personnes, des problèmes peuvent se produire à tout moment, jour et nuit. Je conclus que MEG ne décidait pas les heures de travail. Cela amoindrit l’importance à accorder à la qualification selon laquelle il est question d’un employé travaillant pendant les heures normales d’ouverture.
+[50] Même si MEG n’exigeait pas l’exclusivité aux termes de l’accord, CJ avait exclusivement travaillé pour MEG à cause de l’ampleur du projet. M. McCarty a affirmé que les projets d’une telle ampleur surviennent rarement. Suivant l’accord, il avait le droit de travailler pour des tiers, mais il a reconnu qu’il devait être disponible pour gérer les problèmes de MEG et qu’il ne devait y avoir aucun conflit d’intérêts concernant ses obligations envers MEG. Le droit de travailler pour autrui donne à penser qu’il ne s’agissait pas d’une relation employeur‑employé.
+[51] Même si M. McCarty parlait avec M. Weir deux fois par mois et le rencontrait sur le terrain lorsqu’il se rendait à Calgary, et qu’un rapport d’étape mensuel de trois ou quatre pages était déposé sur son bureau en plus de rapports particuliers pour la passation des marchés, il a affirmé que M. Weir était inexpérimenté, qu’il était souvent absent et qu’il donnait peu de directives. L’article 3.2 de chaque accord précise que MEG gérait uniquement les résultats devant être obtenus à la suite de la prestation des services et non la méthode ou la manière utilisée pour atteindre ces résultats. Cela est confirmé par le témoignage de M. McCarty, selon lequel on lui avait dit [traduction] « d’aller le construire » et [traduction] « de s’assurer qu’il soit construit », mais on ne lui avait pas dit quoi faire ni comment le faire pour que les résultats souhaités soient obtenus. Il a affirmé que [traduction] « personne ne lui avait dit quoi faire ». Le mécanisme de production de rapports est une forme de contrôle et indicateur d’une relation employeur‑employé. Cependant, pour atteindre les résultats souhaités, il était principalement laissé à lui-même. Cette situation est plus typique d’un entrepreneur indépendant exploitant une entreprise à son compte.
+[52] Dans l’ensemble, je conclus que MEG n’exerçait pas un contrôle important sur les activités professionnelles de M. McCarty. Ce facteur milite en faveur de l’existence d’une relation d’entrepreneur indépendant.
+Intégration
+[53] L’intégration est fondée sur la confiance mutuelle de l’organisation (parce qu’elle a besoin d’une personne) et les avantages conférés à la personne.
+[54] CJ a affirmé que le fait qu’une société monopolise les services d’une personne pendant une période prolongée, comme l’a souligné la Cour d’appel fédérale à l’occasion de l’affaire Dynamic, ne signifie pas nécessairement qu’une relation employeur‑employé a été établie. Dans l’affaire Dynamic, la Cour d’appel a aussi pris en compte les antécédents de l’entreprise de la personne.
+[55] Pendant la période de validité des accords, CJ aurait pu travailler pour autrui, mais elle n’a assuré ses services qu’à MEG, en raison de l’ampleur du projet et des exigences en matière de délais pour M. McCarty, un peu comme dans l’affaire Dynamic. Un des accords était d’environ neuf mois et les autres d’une année. À son retour au pays, M. McCarty a vu qu’une occasion s’offrait à lui et il s’est constitué en société en 2001 avant de commencer à assurer des services de gestion de la construction par l’intermédiaire de CJ. Après la conclusion de l’accord 1, mais avant le début de l’accord 2, CJ s’est investie dans des activités avec Access pour des services rendus en janvier et en février ainsi qu’en mars 2007 qui n’étaient pas liés aux trois accords[16]. Il lui été demandé en contre-interrogatoire quand ses responsabilités envers MEG prenaient fin, et il a répondu en disant que c’était à la fin du projet. Plus tard, il a précisé que c’était à la délivrance du [traduction] « certificat final », sauf dans le cadre de la garantie pour MEG. Au moment de l’audience, CJ existait toujours.
+[56] Il n’y a aucun élément de preuve dont il ressort qu’avant la conclusion de l’accord no 1, il existait une relation entre lui et MEG. Il a aussi déclaré que MEG employait un directeur de la construction et que d’autres entrepreneurs travaillaient sur le chantier de MEG.
+[57] Il est raisonnable de conclure qu’au cours de la période pertinente, c’est à titre d’entrepreneur indépendant ne faisant pas partie intégrante de l’entreprise de MEG, qu’il a assuré ses services à celle-ci.
+Outils
+[58] CJ a affirmé qu’aucun outil n’était fourni à M. Martindale par Dynamic.
+[59] M. McCarty a confirmé que CJ incluait dans les montants facturés à MEG ses frais remboursables liés aux déplacements, aux véhicules loués, à l’hébergement, aux repas et aux vols, ainsi qu’il a été signalé précédemment, pour lesquels CJ payait et MEG le remboursait, et que, dans certain cas, MEG prenait directement les dispositions nécessaires pour assurer ses déplacements. Les frais afférents aux véhicules, au téléphone et aux déplacements combinés qui ont été facturés par CJ s’élevaient à 105 000 $ et à 97 000 $ en 2007 et en 2008, respectivement. De ces montants, 96 000 $ et 89 000 $, respectivement, ont été remboursés par MEG. Lorsqu’il se trouvait sur les chantiers de construction au lac Christina, il demeurait au bâtiment‑dortoir de MEG et prennait ses repas dans la salle à manger de MEG.
+[60] Les outils et l’équipement utilisés par M. McCarty, soit un téléphone cellulaire, un ordinateur comprenant le logiciel Primavera dont MEG détenait la licence et les rapports de l’entreprise dont il avait besoin pour assurer ses services, auxquels il avait accès par l’entremise d’un ingénieur de MEG, étaient la propriété de MEG.
+[61] L’équipement fourni par CJ ou lui-même comprenait une serviette, des stylos, des crayons, de la papeterie, des vêtements pour le protéger des déversements de produits chimiques ainsi que son téléphone cellulaire personnel. Il utilisait aussi son propre véhicule lorsqu’il se trouvait au lac Christina pour faire la tournée des chantiers et se rendre au bureau du site.
+[62] CJ, M. McCarty et MEG fournissaient tous des outils à divers degrés. L’examen de ce facteur penche légèrement en faveur du fait qu’il serait raisonnable de considérer M. McCarty comme étant un employé.
+Assistants
+[63] L’intimée a soutenu que l’accord avec MEG exigeait que Bruce McCarty assure personnellement les services, comme on peut le voir à l’article 4.2. L’article 10.2 est aussi primordial, puisqu’il stipule que [traduction] « [l]e consultant doit exiger que le mandant signe un accord de mandant, qui figure à l’annexe B, aux termes duquel le mandant accepte d’être lié par les articles 3, 4, 7 et 8 de l’accord et de s’y conformer, lesquels ont force exécutoire comme si le mandant était signataire de l’accord ».
+[64] L’accord de mandant précise qu’après avoir lu et compris l’accord, M. McCarty accepte d’être lié par les mêmes obligations que CJ aux termes de l’accord avec MEG, comme s’il était signataire de l’accord, et qu’il respectera entièrement toutes les conditions et sera assujetti à toutes les restrictions, même si l’accord prend fin. M. McCarty a affirmé qu’il avait signé l’accord pour le compte de CJ, mais qu’il ne l’avait pas fait à titre personnel, ni qu’il se considérait lui‑même lié par celui-ci. Il n’avait signé que l’accord 3 à titre personnel, bien qu’il ait respecté les conditions des accords en assurant les services requis et en envoyant ses factures.
+[65] Il a aussi déclaré que, même s’il était le mandant et qu’il devait assurer tous les services, c’était impossible, puisqu’il ne pouvait pas tout faire seul et que le contrat consistait à faire partie d’un groupe de personnes, mais qu’en réalité, ce n’était pas ainsi que les choses fonctionnaient. Toutefois, en contre‑interrogatoire, il a admis que sa femme et sa fille ne figuraient pas sur la « liste de paye » et qu’elles ne recevaient pas de salaire pour leurs services. CJ versait plutôt des dividendes aux trois personnes. Cela a été corroboré au cours du contre-interrogatoire de M. Blazino, qui a confirmé que ni salaire, ni paye, ni avantage, ni indemnité n’avaient été comptabilisés comme une dépense dans les états des résultats de CJ. Il a affirmé qu’il n’avait pas pris part à la décision relative à la raison pour laquelle aucun salaire n’était réclamé.
+[66] Suivant l’article 3.4, CJ devait recevoir l’autorisation préalable de MEG pour sous-traiter des services. Par exemple, pour que la femme de M. McCarty l’aide à assurer les services, il aurait fallu obtenir l’autorisation de MEG. L’alinéa 4.1g) précise que CJ [traduction] « ne doit pas confier en sous‑traitance la prestation de quelque service que ce soit sans avoir obtenu au préalable le consentement de la société ». L’article 10.7 stipule que [traduction] « l’accord ne peut être confié à un autre par le consultant, et les services prévus dans le présent accord ne peuvent pas être sous‑traités sans le consentement écrit préalable de la société ».
+[67] Le fait qu’aucun salaire n’ait été versé et qu’il ne ressort d’aucun élément de preuve que MEG ait donné son consentement ne cadre pas avec les allégations selon lesquelles Nancy et leur fille étaient des employées de CJ pendant la période pertinente. Je conclus que personne d’autre n’avait le droit, aux termes de l’accord, d’accomplir quelque tâche que ce soit sans l’autorisation de MEG et que M. McCarty devait assurer les services prévus dans l’accord.
+[68] Les éléments de preuve relatifs à ce facteur militent en faveur de l’existence d’une relation employeur‑employé.
+Possibilité de profit et risque de perte
+[69] La possibilité de profit et le risque de perte sont des facteurs qui ont pour but de permettre de savoir si les activités de M. McCarty lui offraient la possibilité de tirer profit de l’exécution de ses activités comportant le type de risques qui sont généralement davantage assumés par une entreprise que par un employé.
+[70] L’intimée a soutenu que la possibilité de profit ne dépendait que du nombre d’heures travaillées en fonction du taux horaire, qui était en outre limité par MEG, qui avait le droit de ne pas autoriser plus de 200 heures par mois (au départ, aux termes de l’accord et plus tard, dans la pratique).
+[71] CJ était rémunérée pour les services assurés à MEG selon un taux horaire précis. En général, cette condition est indicative du statut d’employé. Cependant, dans l’arrêt Dynamic, au paragraphe 56, la Cour d’appel fédérale a relevé que les « contrat[s] à prix coûtant majoré » sont souvent utilisés par les sous-traitants exploitant une entreprise de gestion de la construction[17]. La Cour d’appel a conclu que c’était normal dans ce métier et que, puisque M. Martindale n’était pas rémunéré sur une base rapide et qu’il devait assumer le coût des travaux sous garantie, et en raison d’un autre aspect de la rémunération, cette situation était atypique et ne donnait pas à penser qu’il existait une relation employeur‑employé, même si M. Martindale recevait un taux horaire, une majoration pour heures supplémentaires et une prime.
+[72] M. McCarty n’a pas reçu de majoration pour heures supplémentaires ni de prime. Il a confirmé qu’il n’avait pas de prestations de maladie ni de régime de retraite comme les autres employés de MEG. Il a déclaré que les cadres supérieurs avec qui il faisait affaire chez MEG recevaient des options d’achat d’actions, mais pas lui. L’examen de ces facteurs tend à démontrer l’existence d’une relation d’entrepreneur indépendant.
+[73] Au départ, il a affirmé que les augmentations découlaient du coût des activités et des normes de l’industrie, puis, il a laissé entendre que celles-ci étaient liées aux augmentations que les employés de MEG avaient reçues et a plus tard précisé que seuls les employés de MEG avaient reçu des augmentations. Ce témoignage n’est pas concluant.
+[74] Même si le plafond de 200 heures peut être considéré comme une limite, il peut aussi être considéré comme une possibilité, puisque M. McCarty avait prévenu M. Weir qu’il s’attendait à ce que ce plafond soit facilement dépassé dans le cadre d’un tel projet. Il a affirmé que le plafond avait souvent été dépassé. Selon moi, le plafond de 200 heures était un élément inhabituel de sa rémunération et il n’était pas typique d’une situation d’emploi.
+[75] M. McCarty a témoigné qu’il y avait eu des retards de paiement et que, quand M. Weir était absent, les affaires s’accumulaient sur son bureau, même s’il s’attendait à être payé plus tard. M. Blazino a affirmé qu’à la fin de décembre 2007, un montant de 20 765 $, qui avait été facturé à la fin de décembre 2007, était toujours impayé dans les comptes débiteurs et CJ n’avait rien reçu.
+[76] La normalité d’un taux horaire dans ce secteur d’activité et la façon dont il était rémunéré (taux horaire, plafond, aucun avantage social semblable à ceux des employés de MEG, les retards de paiement et l’attente concernant les travaux sous garantie) diminuent l’importance à accorder au fait qu’il serait raisonnable de le considérer comme employé.
+[77] CJ a soutenu que les éléments de risque concernant la responsabilité, le risque de ne pas être payé et les retards de paiement sont indicatifs d’une relation d’entrepreneur indépendant. Elle a invoqué l’affaire Dynamic, où il y avait incertitude quant à la couverture particulière, où aucun contrat d’assurance ni confirmation n’avait été produit en preuve et où M. Martindale (M. McCarty en l’espèce) était convaincu que le fait que Dynamic (CJ en l’espèce) était couverte par la police de S.I.L.L. (MEG en l’espèce) n’empêchait pas la Cour d’appel de juger qu’il n’y avait pas d’entreprise de prestation de services personnels.
+[78] Dans la présente affaire, l’alinéa 4.1i) de l’accord exigeait qu’une assurance responsabilité civile générale de deux millions de dollars et une assurance automobile d’un million de dollars soient détenues, à moins que MEG y renonce par écrit. M. McCarty a nié qu’il avait rédigé la note manuscrite [traduction] « renonciation » à côté de cet article[18]. Je retiens son témoignage sur ce point.
+[79] Fait important, M. McCarty a affirmé que le risque de [traduction] « faux pas » dans le cadre d’un projet de 800 millions à 900 millions de dollars reposait principalement sur CJ et que tout le monde, CJ et M. McCarty compris, risquait d’être poursuivi. Son explication me convainc, et son témoignage selon lequel des entrepreneurs ne seraient pas admis sur le chantier de MEG sans assurance ajoute foi à sa conviction qu’une assurance avait été obtenue auprès d’une petite entreprise du sud de l’Alberta, même si aucun élément de preuve documentaire n’a été produit dans ce sens. J’en déduis qu’une certaine assurance a été obtenue, que ce soit grâce aux efforts de CJ ou de MEG, un peu comme l’a fait S.I.L.L. dans l’affaire Dynamic.
+[80] En plus du risque d’être poursuivi, si le rendement de M. McCarty avait une incidence sur le rendement de MEG, les dispositions auraient pour effet de mettre un terme au contrat de CJ.
+[81] Le montant facturé pour les dépenses et remboursé en l’espèce représentait un faible risque de perte en ce qui a trait aux dépenses.
+[82] Compte tenu du mode de rémunération et de l’exposition aux risques, il serait raisonnable de conclure que les services fournis par Bruce McCarty à MEG l’ont été à titre d’entrepreneur indépendant travaillant pour son propre compte.
+[83] Selon l’ensemble des preuves produites, les facteurs tendent à démontrer l’existence d’une relation d’entrepreneur indépendant et il ne serait pas raisonnable de conclure que, si ce n’était l’existence de CJ, M. McCarty aurait fourni ses services à MEG à titre d’employé.
+[84] Compte tenu de cette conclusion, il est inutile d’examiner l’alinéa 18(1)p) et CJ a le droit de déduire le montant des dépenses à titre de dépenses d’entreprise.
+[85] Selon la prépondérance des probabilités, je conclus que, si ce n’était de l’existence de CJ, il serait raisonnable de considérer M. McCarty comme étant une personne assurant des services à MEG en qualité de personne exploitant une entreprise pour son propre compte. Par conséquent, CJ n’a pas exploité une entreprise de prestation de services personnels en 2007 et en 2008 au sens du paragraphe 125(7) de la Loi.
+[86] Les appels sont accueillis.
+[87] Les dépens partie‑partie sont adjugés à l’appelante.
+Signé à Edmonton (Alberta), ce 12e jour d’août 2015.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 15e jour de décembre 2015.
+François Brunet, réviseur
+RÉFÉRENCE :
+2015 CCI 201
+NO DU DOSSIER DE LA COUR :
+2012-1349(IT)G
+INTITULÉ :
+C. J. McCARTY INC. et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Thunder Bay (Ontario)
+DATE DE L’AUDIENCE :
+Les 3 et 4 novembre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge K. Lyons
+DATE DU JUGEMENT :
+Le 12 août 2015
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Brian R. MacIvor et Me Shannon Nelson
+Avocat de l’intimée :
+Me Paul Klippenstein
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Brian R. MacIvor et Shannon Nelson
+Cabinet :
+MacIvor Harris LLP
+Thunder Bay (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’annexe 50 précise que Nancy possède 50 actions sans droit de vote et que leur fille possède 20 actions sans droit de vote.
+[2] Pièce A-2, onglets 9, 8 et 7 respectivement. Les accords 2 et 3 se chevauchent et semblent porter des dates fautives.
+[3] Ce point est renforcé dans la pièce A-2, onglet 8 – accord 2 - alinéa 4.1g) et article 10.7.
+[4] Pièce A-2, onglet 8 – accord 2 - article 5.3.
+[5] En raison du montant des dépenses refusées, le ministre a fait des rajustements en ramenant les montants suivants à zéro :
+2007
+2008
+Amortissement des immobilisations corporelles
+807 $
+787 $
+Repas et divertissement non déductibles
+4 294 $
+8 746 $
+Déduction pour amortissement
+1 147 $
+1 026 $
+[6] 125(7) […] « entreprise exploitée activement » Toute entreprise exploitée par une société, autre qu’une entreprise de placement déterminée ou une entreprise de prestation de services personnels mais y compris un projet comportant un risque ou une affaire de caractère commercial.
+[7] L’arrêt Dynamic Industries Ltd. c Canada, 2005 CAF 211, 2005 DTC 5293 (CAF) (Dynamic), au paragraphe 3, donne le contexte historique.
+[8] Les exclusions sont aux alinéas c) et d) de la définition de l’entreprise de prestation de services personnels puisqu’en 2007 et en 2008, CJ n’avait pas plus de 5 employés à temps plein et que CJ et MEG ne sont pas des « sociétés associées » au sens du paragraphe 256(1) de la Loi.
+[9] 125(1) Déduction accordée aux petites entreprises. La société qui est tout au long d’une année d’imposition une société privée sous contrôle canadien peut déduire de son impôt payable par ailleurs pour l’année en vertu de la présente partie une somme égale au produit de la multiplication du taux de la déduction pour petite entreprise qui lui est applicable pour l’année par la moins élevée des sommes suivantes :
+a) l’excédent éventuel du total des montants suivants :
+(i) l’ensemble de toutes les sommes dont chacune est le revenu de la société pour l’année tiré d’une entreprise exploitée activement au Canada (autre que le revenu de la société pour l’année tiré d’une entreprise qu’elle exploite comme associé d’une société de personnes),
+(ii) le revenu de société de personnes déterminé de la société pour l’année,
+sur le total des montants suivants :
+(iii) l’ensemble de toutes les sommes dont chacune est une perte de la société pour l’année provenant de l’exploitation d’une entreprise exploitée activement au Canada (autre qu’une perte de la société pour l’année provenant d’une entreprise qu’elle exploite comme associé d’une société de personnes),
+(iv) la perte de société de personnes déterminée de la société pour l’année,
+b) l’excédent éventuel du revenu imposable de la société pour l’année sur le total des montants suivants :
+(i) les 10/3 du total des sommes qui seraient déductibles, en application du paragraphe 126(1), de l’impôt payable par ailleurs par la société pour l’année en vertu de la présente partie si elles étaient déterminées compte non tenu des articles 123.3 et 123.4,
+(ii) les 10/4 du total des sommes qui seraient déductibles, en application du paragraphe 126(2), de l’impôt payable par ailleurs par la société pour l’année en vertu de la présente partie si elles étaient déterminées compte non tenu de l’article 123.4,
+(iii) la fraction du revenu imposable de la société pour l’année qui n’est pas assujettie à l’impôt en vertu de la présente partie par l’effet de quelque loi fédérale;
+c) le plafond des affaires de la société pour l’année.
+Conformément au paragraphe 125(1.1) le revenu d’entreprise provenant d’une entreprise exploitée activement réduit le taux d'imposition fédéral des sociétés de 16 % en 2007 et de 17 % en 2008. Le paragraphe 125(1.1) est ainsi rédigé :
+125(1.1) Taux de la déduction pour petite entreprise. Pour l’application du paragraphe (1), le taux de la déduction pour petite entreprise applicable à une société pour une année d’imposition correspond au total des sommes suivantes :
+a) la proportion de 16 % que représente le nombre de jours de l’année d’imposition qui sont antérieurs à 2008 par rapport au nombre total de jours de l’année d’imposition;
+b) la proportion de 17 % que représente le nombre de jours de l’année d’imposition qui sont postérieurs à 2007 par rapport au nombre total de jours de l’année d’imposition;
+c) [Abrogé.]
+[10] « actionnaire déterminé » S’agissant de l’actionnaire déterminé d’une société au cours d’une année d’imposition, contribuable qui, directement ou indirectement, à un moment donné de l’année, possède au moins 10 % des actions émises d’une catégorie donnée du capital-actions de la société ou de toute autre société qui est liée à celle-ci; pour l’application de la présente définition :
+a) un contribuable est réputé posséder chaque action du capital-actions d’une société appartenant, à ce moment, à une personne ayant un lien de dépendance avec lui;
+b) chaque bénéficiaire d’une fiducie est réputé posséder la fraction de toutes les actions appartenant, à ce moment, à la fiducie que représente la juste valeur marchande, à ce moment, de son droit de bénéficiaire sur la fiducie par rapport à la juste valeur marchande, à ce moment, de tous les droits de bénéficiaire sur la fiducie;
+c) chaque associé d’une société de personnes est réputé posséder la fraction de toutes les actions d’une catégorie donnée du capital-actions d’une société qui appartiennent à la société de personnes, à ce moment, que représente la juste valeur marchande, à ce moment, de sa participation dans la société de personnes par rapport à la juste valeur marchande, à ce moment, des participations de tous les associés dans la société de personnes;
+d) un particulier qui rend des services pour le compte d’une société qui, advenant que ce particulier ou une autre personne lui étant liée soit, à ce moment, un actionnaire déterminé de la société, exploiterait une entreprise de prestation de services personnels est réputé être un actionnaire déterminé de cette société à ce moment, si lui, ou une personne ou une société de personnes ayant avec lui un lien de dépendance, a droit ou, en vertu d’un arrangement, peut avoir droit, directement ou indirectement, à au moins 10 % des biens ou des actions d’une catégorie donnée du capital-actions de la société ou d’une société liée à celle-ci;
+e) malgré l’alinéa b), lorsque la part d’un bénéficiaire sur le revenu ou le capital de la fiducie dépend de l’exercice ou du non-exercice par une personne d’un pouvoir discrétionnaire, le bénéficiaire est réputé posséder chaque action du capital-actions d’une société que la fiducie possède à ce moment.
+[11] Si la Cour juge que Bruce McCarty pourrait raisonnablement être considéré comme un employé de MEG, la position de l’intimée l’emporte, les nouvelles cotisations sont maintenues et l’appelante n’a donc pas le droit d’obtenir les deux taux d’imposition réduits précisés au paragraphe 125(1.1) et elle n’aurait pas le droit, selon le l’alinéa 18(1)p), de déduire le montant des dépenses à titre de dépenses d’entreprise.
+[12] Arrêt Sagaz, précité, aux paragraphes 46 et 47.
+[13] Décision 609309 Alberta Ltd., précitée, au paragraphe 23.
+[14] Voir aussi 1166787 Ontario Ltd. c Canada, 2008 CCI 93, 2008 DTC 2722, 758997 Alberta Ltd. c Canada, 2004 CCI 755, 2004 DTC 3669, et Gomez Consulting Ltd. c Canada, 2013 CCI 135, 2013 DTC 1125.
+[15] Pièce A-2, onglet 8 – accord 2 - paragraphe 1 de l’annexe A.
+[16] Pièce A-1, onglets 6 et 8.
+[17] Dynamic a rendu des services de gestion de la construction, réalisés par M. Martindale, à S.I.L.L. de 1995 à 1999 dans le cadre d’un projet d’envergure et, pendant deux de ces années, des services ont été rendus uniquement à S.I.L.L. Des frais de subsistance ont aussi été remboursés. Dynamic a déclaré qu’en raison du volume de travail à accomplir, elle n’avait plus besoin de chercher ailleurs de nouveaux contrats.
+[18] L’avocat de MEG a affirmé que rien ne permet de penser qu’il y a eu renonciation à cette disposition.

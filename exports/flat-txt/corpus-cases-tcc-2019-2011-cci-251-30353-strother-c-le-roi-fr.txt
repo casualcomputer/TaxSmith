@@ -1,0 +1,1036 @@
+Title: Strother c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30353/index.do
+Corpus path: corpus/cases/tcc/2019/2011-cci-251-30353-strother-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2019-11-25
+
+# Strother c. Le Roi
+
+- Citation: 2011 CCI 251
+- Decision date: 2019-11-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7874, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Strother c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-06-20
+Référence neutre
+2011 CCI 251
+Numéro de dossier
+2007-329(IT)G, 2009‑2247(IT)G, 2009‑2248(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-329(IT)G
+ENTRE :
+ROBERT STROTHER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue sur preuve commune avec la requête déposée dans l’appel de Sentinel Hill Productions IV Corporation, en sa qualité d’associée désignée de Sentinel Hill No. 207 Limited Partnership (2009‑2247(IT)G) et de Sentinel Hill Productions IV Corporation, en sa qualité d’associée désignée de Shaae (2001) Master Limited Partnership (2009‑2248(IT)G) le 22 septembre 2010, à Toronto (Ontario).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocats de l’appelant :
+Me Warren J.A. Mitchell
+Me David Davies
+Avocats de l’intimée :
+Me John Shipley
+Me Robert Carvalho
+ORDONNANCE
+Vu la requête de l’appelant en autorisation de déposer une requête visant à contester des passages de la réponse de l’intimée à l’avis d’appel, conformément à l’article 8 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »);
+Et après avoir entendu les allégations des parties;
+L’appelant est autorisé à déposer une requête en application de l’article 53 des Règles;
+Et vu la requête de l’appelant, en application de l’article 53 des Règles, en radiation des passages de la réponse de l’intimée à l’avis d’appel;
+Les passages suivants de la réponse à l’avis d’appel sont radiés :
+1) les alinéas 1e),
+1f ), 1g), 1k), 1n) et 1p), les paragraphes 2 à 15, 18, 20, 22, 26 et 29, ainsi que les alinéas 46c), 46h), 46q) et 50(iii);
+2) les guillemets et les mots qu’ils encadrent, aux paragraphes 38 à 42, aux alinéas 46l), 46o), 46p) et 46s), aux sous-alinéas 46t)(i), 46t)(ii) et 46t)(iii), aux alinéas 46jj), 46qq), 46vv), 46ggg) – Titre, 46iii), 46nnn), 46qqq), 46ssss), 46uuuu), 46zzzz) et 46ccccc), ainsi qu’au paragraphe 48.
+L’intimée pourra signifier et déposer sa réponse modifiée conformément aux motifs de la présente ordonnance au plus tard le 30 juin 2011, et l’appelant disposera par la suite d’un délai de 30 jours pour signifier et déposer une réplique à cette réponse modifiée.
+Un seul ensemble de dépens est adjugé aux appelants dans les requêtes entendues sur preuve commune avec la présente requête. Les avocats présenteront des observations écrites sur la question de savoir si les dépens doivent être adjugés sur la base avocat-client au plus tard le 30 juin 2011 s’ils ne parviennent pas à s’entendre sur un montant de dépens fixe pour les présentes requêtes.
+Signé à Ottawa, Canada, ce 12e jour de mai 2011.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 7e jour de novembre 2022.
+François Brunet, réviseur
+Dossier : 2009-2247(IT)G
+ENTRE :
+SENTINEL HILL PRODUCTIONS IV CORPORATION, EN SA QUALITÉ D’ASSOCIÉE DÉSIGNÉE DE SENTINEL HILL NO. 207 LIMITED PARTNERSHIP,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue sur preuve commune avec la requête déposée dans l’appel de Robert Strother (2007‑329(IT)G) et de Sentinel Hill Productions IV Corporation, en sa qualité d’associée désignée de Shaae (2001) Master Limited Partnership (2009‑2248(IT)G) le 22 septembre 2010, à Toronto (Ontario).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocats de l’appelant :
+Me Warren J.A. Mitchell
+Me David Davies
+Avocats de l’intimée :
+Me John Shipley
+Me Robert Carvalho
+ORDONNANCE
+Vu la requête de l’appelante, en application de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), en radiation des passages de la réponse de l’intimée à l’avis d’appel;
+Et après avoir entendu les allégations des parties;
+Les passages suivants de la réponse à l’avis d’appel sont radiés :
+1) les alinéas 1i), 1k), 1l), 1o), 1r), 1s) et 1t), ainsi que les paragraphes 2 à 15, 18 à 23 et 25;
+2) le passage souligné qui suit, au paragraphe 35 :
+[traduction] […] L’appelante ne peut donc pas invoquer le moyen de défense de la fin de non-recevoir en equity;
+3) les alinéas 46c) et 46(f);
+4) les guillemets et les mots qu’ils encadrent, aux paragraphes 22, 36 et 41, ainsi qu’aux alinéas 46g), 46j), 46m), 46n), 46vv) et 46bbb).
+L’intimée pourra signifier et déposer sa réponse modifiée conformément aux motifs de la présente ordonnance au plus tard le 30 juin 2011, et l’appelante disposera par la suite d’un délai de 30 jours pour signifier et déposer une réplique à cette réponse modifiée.
+Un seul ensemble de dépens sera adjugé aux appelants dans les requêtes entendues sur preuve commune avec la présente requête. Les avocats présenteront des observations écrites sur la question de savoir si les dépens doivent être adjugés sur la base avocat-client au plus tard le 30 juin 2011 s’ils ne parviennent pas à s’entendre sur un montant de dépens fixe pour les présentes requêtes.
+Signé à Ottawa, Canada, ce 12e jour de mai 2011.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 7e jour de novembre 2022.
+François Brunet, réviseur
+Dossier : 2009-2248(IT)G
+ENTRE :
+SENTINEL HILL PRODUCTIONS IV CORPORATION, EN SA QUALITÉ D’ASSOCIÉE DÉSIGNÉE DE SHAAE (2001) MASTER LIMITED PARTNERSHIP,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue sur preuve commune avec la requête déposée dans l’appel de Sentinel Hill Productions IV Corporation, en sa qualité d’associée désignée de Sentinel Hill No. 207 Limited Partnership (2009‑2247(IT)G) et de Robert Strother (2007‑329(IT)G) le 22 septembre 2010, à Toronto (Ontario).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocats de l’appelant :
+Me Warren J.A. Mitchell
+Me David Davies
+Avocats de l’intimée :
+Me John Shipley
+Me Robert Carvalho
+ORDONNANCE
+Vu la requête de l’appelante, en application de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), en radiation des passages de la réponse de l’intimée à l’avis d’appel;
+Et après avoir entendu les allégations des parties;
+Les passages suivants de la réponse à l’avis d’appel sont radiés :
+1) les alinéas 1i), 1k), 1l), 1o), 1r), 1s), 1t) ainsi que les paragraphes 2 à 15 et 18 à 24;
+2) le passage souligné qui suit, au paragraphe 34 :
+[traduction] […] L’appelante ne peut donc pas invoquer le moyen de défense de fin de non-recevoir en equity;
+3) les alinéas 46c) et 46(f);
+4) les guillemets et les mots qu’ils encadrent, aux paragraphes 22, 36 et 41, ainsi qu’aux alinéas 46g), 46j), 46m), 46n), 46vv) et 46bbb).
+L’intimée pourra signifier et déposer sa réponse modifiée conformément aux motifs de la présente ordonnance au plus tard le 30 juin 2011, et l’appelante disposera ensuite d’un délai de 30 jours pour signifier et déposer une réplique à cette réponse modifiée.
+Un seul ensemble de dépens sera adjugé aux appelants dans les requêtes entendues sur preuve commune avec la présente requête. Les avocats présenteront des observations écrites sur la question de savoir si les dépens doivent être adjugés sur la base avocat-client au plus tard le 30 juin 2011 s’ils ne parviennent pas à s’entendre sur un montant de dépens fixe pour les présentes requêtes.
+Signé à Ottawa, Canada, ce 12e jour de mai 2011.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 7e jour de novembre 2022.
+François Brunet, réviseur
+Référence : 2011 CCI 251
+Date : 20110512
+Dossier : 2007-329(IT)G
+ENTRE :
+ROBERT STROTHER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2009-2247(IT)G
+ENTRE :
+SENTINEL HILL PRODUCTIONS IV CORPORATION, EN SA QUALITÉ D’ASSOCIÉE DÉSIGNÉE DE SENTINEL HILL NO. 207 LIMITED PARTNERSHIP,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2009-2248(IT)G
+ENTRE :
+SENTINEL HILL PRODUCTIONS IV CORPORATION, EN SA QUALITÉ D’ASSOCIÉE DÉSIGNÉE DE SHAAE (2001) MASTER LIMITED PARTNERSHIP,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DES ORDONNANCES
+Le juge en chef Rip
+[1]La Cour est saisie de trois requêtes à l’égard d’appels qu’ont interjetés en application de la Loi de l’impôt sur le revenu Robert Strother, Sentinel Hill Productions IV Corporation, en sa qualité d’associée désignée de SHAAE (2001) Master Limited Partnership (« SHAAE »), et Sentinel Hill Productions IV Corporation, en sa qualité d’associée désignée de Sentinel Hill No. 207 Limited Partnership (« Hill No. 207 »), à la suite de déterminations de pertes que le ministre du Revenu national (le « ministre ») a établies à l’égard de leurs années d’imposition 2001 et 2002[1]. Les requêtes ont été entendues ensemble.
+[2]Les appels ont trait à des investissements faits dans des sociétés en commandite de production cinématographique qui ont été soumis à la Division des décisions de l’Agence du revenu du Canada (l’« ARC »). L’ARC a rendu plusieurs décisions anticipées en matière d’impôt qui s’appliquaient censément aux appelants en particulier, à des sociétés de personnes ainsi qu’à d’autres parties intéressées, dont les Master Limited Partnerships (« MLP ») et les Productions Limited Partnerships (« PLP »). Selon les appelants, l’ARC a décidé de ne pas se conformer à ces décisions, d’où les déterminations de pertes qui ne concordent pas avec les pertes que les appelants ont calculées.
+[3]Chaque requête vise à obtenir :
+[traduction]
+1) Une ordonnance en application de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles) radiant la totalité des passages des réponses de l’intimée qui sont encadrés par des crochets ou, dans le cas des passages entre guillemets, qui sont encerclés[2].
+2) Une ordonnance en application du paragraphe 147(1) et des alinéas (3)i) et 5c) des Règles, adjugeant aux appelants les dépens sur la base avocat‑client relativement aux requêtes.
+[4]Les appelants invoquent l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») et leur grief porte que de nombreux passages des réponses aux avis d’appel (les « réponses ») sont scandaleux, frivoles et vexatoires et constituent un recours abusif à la Cour aux termes de l’article 53[3], en ce sens que :
+A. Pour ce qui est des réponses concernant SHAAE et Hill No. 207 :
+[traduction]
+a) les passages entre crochets et encerclés ne sont pas conformes aux prescriptions du paragraphe 49(1) des Règles;
+b) les passages entre crochets et encerclés de la réponse sont, pour ce qui est de la section intitulée « Survol », avancés à titre d’arguments juridiques et non d’exposés de fait;
+c) les passages entre crochets et encerclés de la réponse qui sont avancés à titre de faits présumés par le ministre lors de l’établissement de la cotisation et à titre d’autres hypothèses de fait sont des conclusions de droit et des conclusions mélangées de fait et de droit;
+d) le passage de la réponse intitulé [traduction] « Sommaire du stratagème de création de pertes fiscales », soit les paragraphes 2 à 15 inclusivement, n’est ni avancé à titre de faits présumés par le ministre au moment d’établir la cotisation, comme c’est le cas au paragraphe 46, ni à titre d’autres hypothèses de faits, comme c’est le cas au paragraphe 47. Ainsi, les paragraphes 2 à 15 inclusivement ne sont que des arguments avancés à titre de faits;
+e) les passages entre crochets et encerclés de la réponse sont argumentatifs, incendiaires ou insérés en vue de dénaturer l’instance et d’usurper la fonction du juge de première instance.
+B. Pour ce qui est de la réponse concernant M. Strother :
+[traduction]
+a) les passages entre crochets et encerclés ne sont pas conformes aux prescriptions du paragraphe 49(1) des Règles;
+b) les passages entre crochets et encerclés de la réponse sont, pour ce qui est de la section intitulée « Survol », avancés à titre d’arguments juridiques et non d’exposés de fait;
+c) les passages entre crochets et encerclés de la réponse, avancés à titre de « faits » et de « hypothèses de fait », sont des conclusions de droit ou des conclusions mélangées de fait et de droit;
+d) les passages entre crochets et encerclés de la réponse sont argumentatifs, incendiaires ou insérés en vue de dénaturer l’instance et d’usurper la fonction du juge de première instance.
+[5]Les réponses sont essentiellement identiques; la majorité des dispositions numérotées qui sont mentionnées ci-dessus sont les mêmes dans les trois réponses, et les différences sont indiquées dans des notes infrapaginales.
+L’objection fondée sur l’existence d’une « nouvelle mesure »
+[6]L’intimée s’oppose à la requête de l’appelant M. Strother au motif qu’il s’agit d’une nouvelle mesure. Comme le prévoit l’alinéa 8b) des Règles :
+La requête qui vise à contester, pour cause d’irrégularité, une instance ou une mesure prise, un document donné ou une directive rendue dans le cadre de celle-ci, ne peut être présentée, sauf avec l’autorisation de la Cour :
+A motion to attack a proceeding or a step, document or direction in a proceeding for irregularity shall not be made,
+[…]
+…
+b) si l’auteur de la requête a pris une autre mesure dans le cadre de l’instance après avoir pris connaissance de l’irrégularité.
+(b) if the moving party has taken any further step in the proceeding after obtaining knowledge of the irregularity,
+except with leave of the Court.
+[7]La chronologie des faits ayant abouti à la requête de M. Strother est pertinente :
+19 janvier 2007
+— Avis d’appel concernant les années d’imposition 1998 et 1999
+5 novembre 2007
+— Avis d’appel modifié
+9 novembre 2007
+— Deuxième avis d’appel modifié
+18 décembre 2008
+— Autre deuxième avis d’appel modifié
+19 janvier 2009
+— Réponse à l’autre deuxième avis d’appel modifié daté du 18 décembre 2008
+13 février 2009
+— Réplique de l’appelant à la réponse de l’intimée (la « nouvelle mesure »)
+11 février 2010
+— Troisième avis d’appel modifié
+18 février 2010
+— Réponse au troisième avis d’appel modifié daté du 11 février 2010
+26 mars 2010
+— Dépôt et signification, par l’appelant, de la requête en radiation
+[8]La philosophie la règle dite de la nouvelle mesure (aussi appelée « règle de la nouvelle démarche ») repose sur au moins deux éléments. Le premier est qu’elle vise à éviter de causer un préjudice dans les cas où il serait injuste de permettre que l’on retourne sa veste en changeant de stratégie[4], et le deuxième est fondé sur l’idée d’une renonciation implicite[5]. C’est-à-dire qu’en passant à la mesure suivante, la partie a renoncé à son droit de se plaindre de l’irrégularité. Si aucun des deux facteurs sous-jacents n’est présent, il y a dans ce cas de sérieux motifs pour la Cour d’exercer son pouvoir discrétionnaire et d’autoriser l’audition de la requête malgré l’existence de la nouvelle mesure.
+[9]Les deux parties se fondent sur l’observation qu’a formulée le juge en chef adjoint Bowman (plus tard juge en chef) dans
+la décision Imperial Oil Limited et Inco Limited c La Reine[6] :
+La règle de la « nouvelle démarche » fait partie des règles de pratique et de procédure au Canada et au Royaume-Uni depuis de longues années. La jurisprudence abonde sur ce qui constitue une nouvelle démarche, mais la règle se fonde sur l’idée que, si une partie répond à un acte de procédure, cela implique la renonciation à une irrégularité qui eût autrement pu être attaquée. Pour deux raisons, je ne pense pas que la règle de la nouvelle démarche empêche l’intimée de présenter ces requêtes. Premièrement, il est évident qu’en déposant les réponses aux avis d’appel, l’intimée ne renonce pas à ses objections concernant la déposition des avis d’opposition et d’appel. Les réponses indiquent clairement l’objection de la Couronne. Deuxièmement , une attaque élargie sur le droit d’appel des appelantes, contenant des allégations selon lesquelles cette cour n’est pas compétente, que les appels sont non fondés, vexatoires et constituent un recours abusif, ne représente pas simplement une contestation pour cause d’irrégularité.
+[Non souligné dans l’original.]
+[10]L’appelant invoque deux arguments à l’appui de la raison pour laquelle il y a lieu de faire droit à sa requête en radiation en se fondant sur la jurisprudence Imperial Oil. Premièrement, les conclusions de droit et les actes de procédure répétitifs vont au-delà d’une simple irrégularité. Les faits en l’espèce ne sont pas les mêmes que ceux dont il était question dans la décision Imperial Oil. Dans cette dernière affaire, la question en litige consistait à savoir si l’appelante avait le droit d’interjeter appel d’une cotisation « rapide » initiale, dans laquelle seuls les calculs avaient été vérifiés, après l’expiration de la période de ratification de 90 jours. L’argument du ministère public était qu’une cotisation « rapide » ne donnait pas naissance à un droit de faire opposition et que le contribuable ne pouvait faire opposition qu’après avoir fait l’objet d’une cotisation plus détaillée. La question de fond consistait à savoir si la Cour canadienne de l’impôt avait compétence d’entendre un appel portant sur une cotisation « rapide ». Dans cette affaire, la « nouvelle mesure » ne devait pas empêcher la Cour de tirer cette conclusion de droit.
+[11]Dans la présente affaire, comme le déclarent les avocats, les questions en litige qui figurent dans les dispositions contestées ne sont pas déterminantes quant à l’issue de l’affaire. La critique selon laquelle la réponse contient des conclusions de droit ou des répétitions concorde davantage avec la présence d’irrégularités qu’avec des conclusions concernant le droit d’interjeter appel. Il ne suffit pas que la requête en radiation ait été déposée pour cause de procédure frivoles et vexatoires ou de recours abusif pour qu’elle tombe sous le coup de l’observation qu’a formulée le juge en chef adjoint Bowman dans la décision Imperial Oil. Il doit plutôt s’agir d’une critique de fond de l’acte de procédure, d’une critique qui vise l’appel tout entier lui-même, et l’autorisation demandée ne devrait pas être accordée pour ce motif.
+[12]Le second argument de l’appelant porte que l’intimée ne subira aucun préjudice, car les questions en litige sont les mêmes que dans les autres appels, qui sont soumis aux mêmes délais. De plus, aucun document n’a été échangé et aucun interrogatoire préalable n’a eu lieu. L’intimée n’a pas précisé en quoi elle subirait un préjudice dans cette situation, sinon pour dire qu’il faudrait prendre en considération la nouvelle mesure si l’on rendait une décision relative aux dépens dans la requête de M. Strother. C’est-à-dire que, si j’ai bien compris, [traduction] « [les appelants] ne doivent pas pouvoir exiger des dépens à l’égard de M. Strother s’ils ont pris des mesures qui ne concordent pas avec la position actuelle. »
+[13]Depuis cette « nouvelle mesure », les parties ont toutes deux déposé de nouveaux actes de procédure, qui portent sur les questions en litige soulevées dans la réplique. Concrètement, elles se trouvent encore à la case départ. L’intimée et l’appelant ne se trouvent pas dans une position différente de celle dans laquelle ils seraient si la réplique avait été l’acte de procédure final. Les deux parties sont conscientes que l’une des questions fondamentales qui se pose dans les trois appels est le rôle de la Division des décisions de l’ARC, et toutes deux ont fait état de leurs faits entourant cette question. En conséquence, dans les circonstances, il n’est pas évident que l’intimée subira un préjudice quelconque. L’autorisation de déposer la requête est accordée.
+Les requêtes
+[14]Les éléments que doit comporter une réponse, dans le cas d’un appel relatif à l’impôt sur le revenu, sont énoncés au paragraphe 49(1) des Règles :
+Sous réserve du paragraphe (1.1), la réponse indique : a) les faits admis; b) les faits niés; c) les faits que l’intimée ne connaît pas et qu’elle n’admet pas; d) les conclusions ou les hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation; e) tout autre fait pertinent; f) les points en litige; g) les dispositions législatives invoquées; h) les moyens sur lesquels l’intimée entend se fonder; i) les conclusions recherchées.
+Subject to subsection (1.1), every reply shall state
+(a) the facts that are admitted,
+(b) the facts that are denied,
+(c) the facts of which the respondent has no knowledge and puts in issue,
+(d) the findings or assumptions of fact made by the Minister when making the assessment,
+(e) any other material fact,
+(f) the issues to be decided,
+(g) the statutory provisions relied on,
+(h) the reasons the respondent intends to rely on, et
+(i) the relief sought.
+[15]Une fois que l’intimée a admis et nié des faits et déclaré qu’il y a certains faits allégués dans l’avis d’appel qu’elle ne connaît pas et qu’elle n’admet pas, il y a seulement deux autres énoncés de fait que l’intimée peut plaider : les conclusions ou les hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation, et tout autre fait pertinent. Tous ces énoncés de fait doivent être des énoncés de faits pertinents, pas de faits non pertinents, pas des énoncés ou des principes de droit et pas des énoncés mélangés de fait et de droit. Les alinéas f), g) et h) de l’article 49 des Règles accordent à l’intimée la possibilité de définir les questions en litige, d’énoncer les dispositions législatives qui sont en jeu et de faire état des moyens sur lesquels elle entend se fonder.
+[16]Lorsqu’une partie admette ou nie un fait dans un acte de procédure mais combine cette admission ou ce déni à une conclusion de droit ou à des commentaires extrinsèques qui n’ajoutent rien au processus, cela donne lieu à un acte de procédure de piètre qualité et inapproprié. Les hypothèses de fait doivent être des faits sur lesquels le ministre s’est fondé pour établir la cotisation, et les faits ainsi invoqués devraient être pertinents. Sinon, pourquoi se serait-on fondé sur ces faits s’ils n’étaient pas pertinents? Dans
+la décision Foss c. La Reine[7], mon collègue, le juge Bowie, a expliqué ce qui suit :
+L’acte de procédure a pour but de définir les questions faisant l’objet du litige entre les parties aux fins de la communication préalable, tant du point de vue des documents que de celui des témoignages, ainsi qu’en prévision du procès. Cela n’exige pas plus qu’un exposé des [traduction] « conclusions de fait […] exactes » à la base de la cotisation. L’appelant pourrait subir un préjudice si plus d’éléments étaient invoqués dans un acte de procédure – certainement s’ils étaient invoqués en tant qu’hypothèses de fait. Évidemment, l’appelant a le droit d’obtenir des précisions concernant la preuve que la Couronne a l’intention de présenter au procès, mais ces précisions sont obtenues de façon régulière à l’interrogatoire préalable et non déguisées en faits pertinents à l’égard desquels la Couronne peut faire valoir une présomption de véracité au procès. […]
+I. Les conclusions mélangées de fait et de droit
+[17]Les appelants sont d’avis que le principe qu’a exposé le juge Rothstein de la Cour d’appel (plus tard juge à la Cour suprême du Canada) dans l’arrêt La Reine c. Anchor Pointe Energy Ltd.[8] à propos des conclusions mélangées de fait et de droit devrait s’étendre à toutes les dispositions de la réponse qui portent sur les faits :
+[25] J’estime également que les déclarations ou conclusions juridiques n’ont pas leur place dans l’énoncé des hypothèses de fait du ministre. Il en découlerait pour le contribuable le fardeau de réfuter une déclaration ou conclusion juridique et, bien sûr, cela ne doit pas être. Le critère juridique à appliquer n’a pas à être prouvé par les parties comme s’il s’agissait d’un fait. Les parties doivent présenter leurs arguments relativement au critère juridique, mais c’est à la Cour qu’il incombe en bout de ligne de trancher les questions de droit.
+[26] Toutefois, il serait plus exact de qualifier l’hypothèse formulée à l’alinéa 10z) de conclusion mixte de fait et de droit. La conclusion selon laquelle des données sismiques achetées ne sont pas admissibles au titre de FEC au sens de l’alinéa 66.1(6)a) requiert d’appliquer le droit aux faits. L’alinéa 66.1(6)a) énonce le critère à respecter pour qu’une déduction au titre de FEC soit admissible. Pour décider si l’achat de données sismiques en l’espèce satisfait à ce critère, il faut établir si les faits y satisfont ou non. Le ministre peut présumer les éléments de fait d’une conclusion mixte de fait et de droit. S’il souhaite le faire, toutefois, il devra extraire les éléments de fait présumés, de façon à ce que le contribuable sache exactement quelles hypothèses de fait il doit réfuter pour avoir gain de cause. Il ne convient pas que les faits présumés soient enfouis dans une conclusion mixte de fait et de droit.
+[18]Dans l’arrêt Anchor Pointe, la Cour d’appel a exprimé l’avis que les hypothèses de fait doivent être claires d’un point de vue factuel et qu’il ne faudrait pas que le ministère public formule les hypothèses de fait de telle manière que l’on alourdisse le fardeau qu’a l’appelant de réfuter les faits présumés. Ce dernier n’a pas besoin de cette protection dans les passages de la réponse où le ministère public a le fardeau de la preuve, par exemple aux alinéas a), b), c) et e) du paragraphe 49(1) des Règles.
+[19]La forme de la réponse qui est énoncée au paragraphe 49(1) des Règles envisage que l’on évite de confondre les faits et le droit. Les faits doivent être plaidés en premier selon les alinéas 49(1)a), b), c) et e). Selon l’alinéa d), l’intimée se borne à plaider les conclusions ou les hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation; il s’agit uniquement de faits pertinents. Les alinéas 49(1)f) à i), inclusivement, confèrent à l’intimée le droit de plaider des questions décrites dans les Règles. Cela ressemble aux règles de pratique que l’on applique dans les provinces de common law, dont l’Ontario et la Colombie-Britannique, ainsi qu’au sein de la Cour fédérale, qui autorisent à soulever des points de droit si le fondement factuel a été plaidé[9].
+[20]L’intimée fait valoir que l’article 49 des Règles énonce simplement ce qui doit être inclus et qu’il n’établit pas une structure particulière. Autrement dit, pour autant que l’on réponde aux exigences de cet article, il est possible d’intercaler dans les faits des conclusions de droit. Souscrire à l’argument de l’intimée donnerait lieu à des actes de procédure incohérents et répétitifs, aussi complexes et frustrants que ceux dont il est question dans la présente requête.
+[21]Nul besoin de procéder à une analyse complexe de la loi pour conclure qu’un « fait » signifie un fait dans le contexte juridique. La majorité des juges de la Cour suprême du Canada ont interprété de manière technique le mot « vente » dans la Loi de l’impôt sur le revenu; comme l’a observé le juge Major[10] :
+Interpréter en l’espèce le mot vente selon son « sens ordinaire » supposerait que la Loi s’applique en vase clos sans tenir aucun compte de la qualification juridique des rapports commerciaux plus généraux qu’elle vise. Il ne s’agit pas d’un code du commerce qui s’ajoute à une loi fiscale. Notre Cour a tenu pour acquis, dans des arrêts antérieurs, qu’il faut s’en remettre aux règles plus générales du droit commercial pour attribuer un sens à des mots qui, indépendamment de la Loi, sont bien définis. […]
+[22]Le mot « faits » figure dans les règles de procédure civile et doit donc être interprété au regard du contexte juridique en tenant compte des distinctions pertinentes qui existent entre les questions de droit, les questions de fait et les questions mélangées de fait et de droit. Le mot « fait » exclut les conclusions de droit et les conclusions mélangées de fait et de droit.
+[23]Les appelants soutiennent que, dans les réponses, les passages entre crochets qui sont contestés sont en réalité des conclusions de droit ou des conclusions mélangées de fait et de droit. L’intimée déclare toutefois qu’il s’agit simplement d’affirmations de fait.
+[24]Il est souvent difficile de faire la distinction entre une question de fait et une question de droit. Cette tâche est plus complexe encore quand on prend en compte la troisième catégorie, celle des questions mélangées de fait et de droit. Le juge Iacobucci, de la Cour suprême du Canada, a reconnu ce problème et a déclaré ce qui suit[11] :
+[…] En résumé, les questions de droit concernent la détermination du critère juridique applicable; les questions de fait portent sur ce qui s’est réellement passé entre les parties; et, enfin, les questions de droit et de fait consistent à déterminer si les faits satisfont au critère juridique. Un exemple simple permettra d’illustrer ces concepts. En droit de la responsabilité civile délictuelle, la question de savoir en quoi consiste la « négligence » est une question de droit. Celle de savoir si le défendeur a fait ceci ou cela est une question de fait. Une fois qu’il a été décidé que la norme applicable est la négligence, la question de savoir si le défendeur a respecté la norme de diligence appropriée est une question de droit et de fait. Toutefois, je reconnais que la distinction entre les questions de droit, d’une part, et celles de droit et de fait, d’autre part, est difficile à faire. Parfois, ce qui semble être une question de droit et de fait se révèle une question de droit, ou vice versa.
+a) La relation sans lien de dépendance
+[25]Les passages qui suivent portent sur des divers mots, termes et passages que les appelants considèrent comme des conclusions de droit ou des conclusions mélangées de fait et de droit. Pour que la lecture des présents motifs soit moins pénible au lecteur, je ferai référence aux passages de la réponse concernant SHAAE que les appelants ont mis entre crochets ou encerclés, ainsi qu’au passage de la réponse concernant SHAAE qui est intitulé [traduction] « Sommaire du stratagème de création des pertes fiscales », plutôt qu’aux mêmes questions qui figurent dans les appels de M. Strother et de Hill No. 207.
+[26]Une relation avec lien de dépendance est une question de fait : Teelucksingh c La Reine[12]. Le juge Bowie a expliqué que des questions telles que :
+[traduction] […] les affirmations relatives à la valeur, que des parties ont un lien de dépendance, qu’elles n’exploitaient pas une entreprise, que des dépenses n’ont pas été engagées, ou n’ont pas été engagées à une fin particulière, sont des affirmations de fait. Certes, ces faits ont des répercussions juridiques, et certains d’entre eux emploient des mots que l’on trouve dans la Loi, mais il s’agit néanmoins d’hypothèses de fait.
+[Non souligné dans l’original.]
+[27]En conséquence, toute mention d’une relation avec lien de dépendance ne peut pas être radiée compte tenu du fait qu’on a soulevé une conclusion de droit. Subsidiairement, il est possible de la radier dans certains cas compte tenu du fait qu’elle ne convient pas à une définition qui est analysée plus loin.
+Les passages entre crochets non radiés de l’appel de M. Strother :
+Paragraphe 24 et alinéa 46llll) – Titre, alinéa 46pppp) – Titre, car les énoncés relatifs à l’existence d’une relation avec lien de dépendance ne sont pas des conclusions de droit.
+b) N’a pas exploité une entreprise en vue de réaliser un bénéfice
+[28]Selon la Cour suprême du Canada, le critère relatif à l’existence d’une société de personnes est le suivant[13] :
+[…] En d’autres termes, pour statuer sur l’existence d’une société de personnes, les tribunaux doivent se demander si la preuve documentaire objective et les circonstances de l’affaire, notamment les actes concrets des parties, sont compatibles avec l’existence d’une intention subjective d’exploiter une entreprise en commun dans le but de réaliser un bénéfice.
+Les tribunaux doivent se montrer pragmatiques dans l’examen des trois éléments essentiels d’une société de personnes. Pour déterminer si une telle société a été établie dans une affaire donnée, il faut analyser et soupeser les facteurs pertinents eu égard à toutes les circonstances. Le fait que l’existence de la prétendue société de personnes doive être examinée au regard de l’ensemble des circonstances est incompatible avec l’application mécanique d’une liste de contrôle ou d’un critère comportant des paramètres définis de façon plus précise.
+[Non souligné dans l’original.]
+[29]D’après le raisonnement qu’a exposé le juge Iacobucci dans l’arrêt Southam, le critère relatif à l’existence d’une société de personnes constitue une conclusion mélangée de fait et de droit. Ce que les PLP et les MLP ont fait ou n’ont pas fait est une question de fait; ce qui constitue le critère relatif à l’existence d’une société de personnes est une question de droit et la question de savoir si les faits permettent aux appelants de satisfaire au critère consacré par l’arrêt Backman sera une question mélangée de fait et de droit.
+[30]L’intimée est donc tenue d’extraire les éléments juridiques d’une conclusion mélangée de fait et de droit et de ne plaider les faits que dans les cas où la règle requiert des faits. L’énoncé [traduction] « […] n’a pas exploité une entreprise en vue de réaliser un bénéfice » sera radié lorsqu’il est combiné aux faits :
+Les passages radiés des appels de SHAAE et de Hill No. 207 :
+Les alinéas 1i), k) et l), les paragraphes 18, 19, 20, 21 et 24[14], ainsi que l’alinéa 46f).
+Les passages entre crochets radiés de l’appel de M. Strother :
+Les alinéas 1e), f) et g), les paragraphes 18, 20 et 29 ainsi que l’alinéa 46h).
+c) Les allégations de trompe-l’œil, d’opérations circulaires ou de façade
+[31]Sont également en litige les allégations de trompe-l’œil, d’opérations circulaires et de façade. Le critère relatif à la théorie du trompe-l’œil a été énoncé dans l’arrêt Snook v. London West Riding Investments, Ltd.[15] :
+[traduction] […] [Un trompe-l’œil] désigne des actes faits ou des documents signés par les parties au « trompe-l’œil » et destinés à donner aux tiers ou au tribunal l’impression qu’il existe entre les parties des droits et des obligations juridiques autres que ceux et celles (s’il en est) que les parties ont l’intention de créer. […] si des actes ou des documents doivent constituer un « trompe-l’œil », avec les conséquences juridiques qui en découlent, ceux qui y sont parties doivent tous avoir une intention commune selon laquelle les actes ou les documents ne créent pas les droits et les obligations juridiques qu’ils donnent l’impression de créer. […]
+[Non souligné dans l’original.]
+[32]En l’espèce, les faits sont les droits et les responsabilités proprement dits, de même que ce que les parties ont fait ou n’ont pas fait. Cependant, l’application des faits en vue de déterminer s’il y avait une intention commune d’induire en erreur est une conclusion mélangée de fait et de droit, car cela implique l’application des faits au critère juridique du trompe-l’œil. Là encore, l’intimée est tenue de dégager les faits, et les mentions d’un trompe-l’œil ou d’une façade doivent être supprimées. Pour ce qui est de cet argument, certains des passages entre crochets sont radiés, mais d’autres non, car ils sont des fondements factuels et non des conclusions.
+Les passages entre crochets radiés des appels de SHAAE et de Hill No. 207 :
+Les paragraphes 19, 22 et 24[16] ainsi que l’alinéa 46c).
+Les passages entre crochets radiés de l’appel de M. Strother :
+Les paragraphes 20, 22, 26 et 29, ainsi que les alinéas 46c) et q).
+Les passages entre crochets non radiés des appels de SHAAE et de Hill No. 207 :
+Les alinéas 46a), b) et ss) ne sont pas radiés, car il s’agit des fondements factuels d’un argument de trompe-l’œil.
+Les passages entre crochets non radiés de l’appel de M. Strother :
+Le paragraphe 27 ainsi que les alinéas 46a), b), o), dd), oo), nnn), tttt) et pppp) ne sont pas des conclusions de droit mais les fondements factuels d’un argument de trompe-l’œil.
+[33]Ici, le mot qui pose difficulté est « circulaire » et ses dérivés. Le principal grief de l’appelant au sujet de ce mot est qu’il est spécieux et que ce n’est que dans sa plaidoirie que l’avocat des appelants a mentionné qu’il pouvait s’agir d’une conclusion juridique. Cependant, « circulaire » est une conclusion factuelle; c’est une description factuelle. De ce fait, aucun passage contenant ce mot ne sera radié pour cette seule raison. Il sera toutefois question plus loin du caractère spécieux du mot « circulaire » et de ses dérivés.
+[34]La Cour suprême du Canada a remplacé le critère relatif à la déductibilité fondée sur l’ERP, au sens de l’article 9, par le critère fondé sur la réalisation d’un profit qui a été consacré par l’arrêt Stewart c. La Reine[17]. Il s’agit maintenant d’un critère à deux volets :
+d) L’expectative raisonnable de profit (l’« ERP ») (i) L’activité du contribuable est-elle exercée en vue de réaliser un profit, ou s’agit-il d’une démarche personnelle?
+(ii) S’il ne s’agit pas d’une démarche personnelle, la source du revenu est-elle une entreprise ou un bien?
+[35]La Cour suprême du Canada a ensuite ajouté : « [i]l faut déterminer globalement si le contribuable exerce l’activité d’une manière commerciale », et l’expectative raisonnable de profit est un facteur dont il faut tenir compte[18].
+[36]C’est donc dire que le critère de l’ERP est encore un facteur qu’il faut prendre en compte pour déterminer si l’activité a été exercée d’une manière commerciale ou, subsidiairement, s’il existait une société de personnes. Par exemple, dans
+la décision Foster c. La Reine[19], le juge Angers a déclaré que l’absence de revenu était un facteur à prendre en considération pour conclure que la société de personnes n’était pas une société de personnes valide en droit, dans le cadre d’un programme d’abri fiscal fondé sur des activités de RS&DE.
+[37]Par conséquent, toute référence à une ERP n’est pas une conclusion de droit mais un fait sur lequel le ministre s’est fondé, et il n’y a donc pas lieu d’en radier la mention.
+Les passages entre crochets non radiés des appels de SHAAE et de Hill No. 207 :
+L’alinéa 46aaa).
+Les passages entre crochets non radiés de l’appel de M. Strother :
+Le paragraphe 37.
+e) La réponse aux allégations relatives aux décisions
+[38]Les paragraphes 28 à 34 de l’appel de SHAAE et les paragraphes 30 à 36 de l’appel de M. Strother sont la réponse de l’intimée à l’allégation des appelants selon laquelle ces derniers ont obtenu une décision favorable à l’égard de l’arrangement visant un abri fiscal. La seule conclusion de droit que comportent ces paragraphes se trouve au paragraphe 34 de l’appel de SHAAE et au paragraphe 35 de l’appel de Hill No. 207, lesquels précisent que les appelants ne peuvent pas invoquer le moyen de défense de la fin de non-recevoir tirée de l’equity.
+Les passages entre crochets radiés des appels de SHAAE et de Hill No. 207 :
+Seul un passage (la dernière phrase) des paragraphes 34 et 35 est radié des appels de SHAAE et de Hill No. 207, respectivement, pour cette raison.
+II. Faut-il radier des passages des réponses parce qu’ils sont répétitifs ou redondants?
+[39]L’argument subsidiaire des appelants en faveur de la radiation repose sur le caractère répétitif et redondant des réponses. Lorsqu’on parcourt les passages redondants et répétitifs des réponses, il suffit de quelques pages pour avoir le sentiment que l’une des parties tente de mettre l’autre sous sa botte, indépendamment du juge qui vient tout juste d’entrer dans
+la mêlée. Les appelants se fondent sur
+la décision Mudrick v Mississauga Oakville Veterinary Emergency Professional Corporation[20], dans laquelle
+la protonotaire Haberman , de la Cour supérieure de justice de l’Ontario, a radié pour cette même raison le survol et le sommaire du demandeur. Pour arriver à cette conclusion,
+la protonotaire Haberman a observé[21] :
+[traduction] L’acte de procédure contient un sommaire qui, essentiellement, répète le survol. Cela est inutile lorsque la demande est convenablement plaidée. L’inclusion du sommaire et du survol signifie que l’on répète trois fois les mêmes points dans l’acte de procédure. Ces derniers ne doivent être exposés qu’une seule fois, dans le corps de la demande, où ils s’insèrent chronologiquement.
+Dans sa conclusion, elle a ajouté les observations générales qui suivent à propos des actes de procédure en général[22] :
+[traduction] Toute répétition est à éviter. Les détails superflus doivent être éliminés. Les observations interprétées doivent être supprimés. […] Il ne s’agit pas de la « dernière chance » de raconter toute l’histoire – il ne s’agit que d’un survol du propos de l’affaire. […]
+[40]Par ailleurs, le juge Bowie a cité le passage suivant, extrait du jugement Holmsted and Watson, au sujet de la règle régissant les actes de procédure[23] :
+[traduction] Il s’agit de la grande règle en matière d’actes de procédure; toutes les autres règles sont essentiellement des règles accessoires ou des réserves à cette règle de base selon laquelle le plaideur doit exposer les faits pertinents sur lesquels il fonde sa demande ou sa défense. La règle comporte quatre composantes distinctes : 1) chaque acte de procédure doit exposer des faits et non pas simplement des conclusions de droit; 2) il doit exposer les faits pertinents et ne pas contenir de faits dénués de pertinence; 3) il doit exposer des faits, non les éléments de preuve qui serviront à étayer ces faits; 4) il doit exposer les faits avec concision.
+Le quatrième point est particulièrement pertinent en l’espèce. Un acte de procédure répétitif n’est pas concis. Il n’aide en rien à comprendre les questions en litige.
+[41]Le juge Orsborn (tel était alors son titre), de la Cour suprême de Terre‑Neuve‑et‑Labrador, a expliqué, après avoir été confronté à des actes de procédure répétitifs[24] :
+[traduction] […] Les actes de procédure définissent les moyens qu’il faut faire valoir et auxquels il est nécessaire de répondre, sur le plan tant factuel que juridique. Les actes de procédure vaguement définis et imprécis ne sont d’aucune utilité pour celui qui les reçoit ou pour le tribunal. Ils amoindrissent plutôt qu’ils ne facilitent la compréhension du cadre juridique par rapport auquel les circonstances de fait seront évaluées. Les actes de procédure inutilement verbeux et répétitifs sont une source d’incertitude; lorsqu’on a affaire à une demande de mesure, il n’y a pas de place pour l’incertitude.
+[Non souligné dans l’original.]
+[42]Enfin, le juge P.M. Perell, de la Cour supérieure de justice de l’Ontario, a déclaré que le caractère répétitif était l’une des raisons pour lesquelles il radiait certains paragraphes d’une déclaration en application de l’article 25.11 des Règles de procédure civile de l’Ontario[25] :
+[traduction] Je radie ces paragraphes ou ces mots compte tenu du fait qu’ils sont en tout ou en partie peu pertinents, embarrassants, argumentatifs, tautologiques, redondants ou répétitifs, ou qu’ils constituent une présentation d’éléments de preuve et non d’un fait pertinent. […][26]
+[Non souligné dans l’original.]
+[43]Les répétitions excessives que l’on retrouve dans chaque réponse sont superflues et minent les objectifs de concision et de certitude. Les passages répétitifs doivent être radiés.
+[44]Les passages les plus redondants que l’on relève dans les réponses sont le survol et le sommaire, lesquels réitèrent essentiellement les allégations formulées aux paragraphes 46 et 47. Dans
+la décision Gould c La Reine[27], le juge Bowman a refusé de radier un survol qui décrivait le « stratagème » dans son ensemble. Aux yeux du juge Bowman, le fait que les dons de bienfaisance faisaient partie d’un plan d’ensemble mettant en cause d’autres personnes était pertinent. Finalement, il a permis qu’on le conserve, car il remplissait l’une des fonctions des actes de procédure : informer le juge de la position du ministère public ainsi que des points en litige qu’il doit trancher[28]. Un survol peut être un ajout utile dans un acte de procédure, surtout dans une affaire complexe. Il permet au lecteur de prendre rapidement connaissance de la question en litige. Il peut être analogue au sommaire que l’on trouve dans un long rapport, dans la mesure où on l’utilise comme tel. Le fait qu’il puisse être spécieux – tant qu’il n’est pas manifestement partial – ne devrait pas inquiéter indûment la partie adverse dans un appel interjeté devant
+la Cour. Il n’y a pas de jury. Le juge peut facilement faire la distinction entre un fait et une hyperbole. Idéalement, toutefois, le survol devrait décrire de manière juste la question sur laquelle porte l’appel. Dans un survol, des propos incendiaires ont principalement pour effet de rendre le contentieux moins civil. J’autorise le maintien des survols que comportent les réponses. Comme dans la décision Gould, les présents appels ont trait eux aussi à un programme d’abri fiscal.
+[45]On ne peut en dire autant de chaque sommaire. Chacun réitère le survol, de même que les paragraphes 46 et 47 des réponses. L’intimée doit choisir l’un ou l’autre. Le lecteur a déjà été mis au courant des questions fondamentales qui sont en litige dans l’appel, ainsi que de la position du ministère public. Ces sommaires sont redondants et doivent être radiés dans les trois appels comme étant scandaleux, frivoles et vexatoires.
+a) Le caractère redondant du survol et du sommaire Les paragraphes radiés dans les appels de SHAAE et de Hill No. 207 :
+Les paragraphes 2 à 15 (Sommaire), ainsi que les paragraphes 19, 20, 23 et 24[29].
+Les passages entre crochets radiés de l’appel de M. Strother :
+Les paragraphes 2 à 15 (Sommaire), ainsi que les paragraphes 20, 22, 26 et 29.
+III. Faut-il radier certains passages des réponses en raison de propos spécieux ou enjolivés?
+[46]En ce qui concerne les mots que l’on emploie pour dénaturer ou enjoliver un texte, l’intimée cite la décision Meditrust Healthcare Inc v. Shoppers Drug Mart à l’appui de ce qui constitue un langage spécieux. Dans cette décision, la juge Molloy a observé[30] :
+[traduction] […] Des termes bien sentis ne sont pas interdits lorsqu’ils conviennent au contexte. […] Cela dit, faire la distinction entre des expressions ou des mots particuliers qui sont de nature simplement descriptive, plutôt qu’incendiaire, est un exercice essentiellement subjectif. Je suis personnellement d’avis qu’il convient d’accorder une grande latitude au style et au langage que choisissent les avocats. La Cour ne doit intervenir que dans les cas où les expressions employées « dépassent clairement les bornes ».
+[47]La juge Molloy a ensuite conclu que les mots ou les passages suivants ne dépassaient pas les bornes : [traduction] « intention frauduleuse – lettre bidon – avertissement – menacé – a tout intérêt à maintenir sa domination – faire de la propagande directement et par des moyens subreptices – détourné – pratique abusive – empoisonnement du marché – empoisonnement de l’entreprise du demandeur – modus operandi – agent provocateur dans le contexte d’une action pour pratiques monopolistiques ». En revanche, elle a qualifié les mots [traduction] « procédés douteux » d’incendiaires[31].
+[48]L’appelant a cité
+la décision George c. Harris[32] à l’appui de la thèse selon laquelle [traduction] « […] les passages d’un acte de procédure qui sont peu pertinents, argumentatifs ou insérés dans le but de dénaturer le texte ou qui constituent de simples allégations doivent être considérés comme scandaleux et radiés ». Cependant, cette décision avait trait à des paragraphes d’un avis de requête concernant les lacunes d’un affidavit de documents. Dans ce contexte, la plupart des mots se rapportaient à la conduite du défendeur, qui ne s’était pas conformé aux exigences en matière de communication préalable. Voici quelques exemples de mots qui ont été radiés : [traduction] « éviter délibérément de communiquer – a utilisé des techniques de dissimulation – a manipulé la forme et le contenu d’un affidavit – le caractère délibéré des mesures d’évitement de la communication de documents – des dissimulations et des failles délibérées ».
+[49]La question qui se pose en l’espèce consiste à savoir si le mot [traduction] « circulaire » et ses dérivés dépassent les bornes. Il s’agit là d’une décision subjective. En l’espèce, les références qui sont faites à des opérations circulaires sont loin de ressembler aux termes offensants employés dans les affaires Meditrust ou George c. Harris. Elles sont pertinentes dans le contexte d’un arrangement visant un abri fiscal, et rien de ce qui est pertinent n’est scandaleux[33]. De ce fait, aucun paragraphe n’est radié au motif qu’il serait spécieux.
+Les passages entre crochets non radiés des appels de SHAAE et de Hill No. 207 :
+Les alinéas 46j), p) et q), la page 20 - Titre, et la page 20 - Sous‑rubrique I, ainsi que les alinéas 47f), g), kk), pp) et le sous‑alinéa pp)(iv).
+Les passages entre crochets non radiés de l’appel de M. Strother :
+Le paragraphe 39, les alinéas 46l), p), r), s), t) u), v), zz), ggg), hhh), zzz), aaaa) et eeee), le sous-alinéa ffff)(f) et l’alinéa llll) – Titre.
+IV. Les réserves apportées aux définitions doivent-elles être radiées?
+[50]L’intimée a soumis la partie [traduction] « Définitions » de ses réponses à des réserves, et ce, à un point tel que les définitions sont inutiles. Il s’agit là d’une pratique à éviter. Il ne sert à rien d’avoir une définition, sauf si la partie adverse et le juge du procès peuvent aussi y faire aisément référence. Cette pratique empêche l’autre partie de se fonder sur un terme courant lorsque la réserve est controversée. De plus, cela empêche le juge d’utiliser l’expression courante avant de tirer une conclusion de fait au sujet de la réserve. Les définitions ne sont pas une exigence explicite selon l’article 49 des Règles; elles sont loisibles parce qu’elles simplifient les actes de procédure. Si les définitions introduisent un élément d’imprécision à cause des réserves formulées, il faudrait restreindre la possibilité d’en inclure. Par exemple, dans
+la décision Sun Life Assurance Co. of Canada v. 401700 Ontario Ltd, la Cour de l’Ontario (Division générale) a conclu ce qui suit[34] :
+[traduction]
+[…] dans un acte de procédure, les termes définis et les phrases descriptives relèvent en général du pouvoir discrétionnaire de la partie qui plaide. Ils sont souvent utiles à la bonne compréhension de l’acte de procédure. Mais il ne faudrait toutefois pas que les termes définis dans un acte de procédure soient de nature incendiaire, ni qu’ils confèrent au texte un caractère inutilement répétitif et préjudiciable.
+[51]Les réserves auxquelles nous avons affaire ici sont certes répétitives et se veulent incendiaires. Elles ne font qu’amoindrir la clarté des actes de procédure. Cela ne veut pas dire que ces réserves en particulier n’ont pas leur place dans les actes de procédure, mais simplement qu’elles doivent être présentées séparément des définitions. De ce fait, elles sont toutes radiées.
+Les passages entre crochets radiés dans les appels de SHAAE et de Hill No. 207 :
+Les alinéas 1i), k), l), o), r), s) et t).
+Les passages entre crochets radiés dans l’appel de M. Strother :
+Les alinéas 1e), f), g), k), n), p).
+V. Divers passages figurant dans l’appel de M. Strother
+[52]L’alinéa 50iii) n’est pas une allégation de droit, mais simplement une présumée explication de la position du ministre à l’égard de
+la cotisation. Il s’agit d’une inclusion intéressée et inutile dans la réponse, qui n’ajoute absolument rien aux questions à trancher.
+[53]La note infrapaginale qui se rapporte au paragraphe 43 n’est pas radiée, car son contenu n’a rien d’offensant, mais je me demande s’il est nécessaire de nommer ces appelants dans les actes de procédure.
+[54]À l’instruction, l’avocat de l’intimée a convenu de supprimer les guillemets controversés qui se trouvent dans toute la réponse et de les remplacer par le mot [traduction] « présumé ». Les passages suivants des paragraphes sont donc radiés avec autorisation de modification :
+VI. L’accord de l’intimée à l’égard de la suppression de guillemets Passages entre crochets radiés des appels de SHAAE et de Hill No. 207 :
+Les mots entre guillemets contenus dans le Survol, aux paragraphes 22, 36 et 41, ainsi qu’aux alinéas 46g), j), m), n), vv) et bbb).
+Passages entre crochets radiés de l’appel de M. Strother :
+Les mots entre guillemets contenus aux paragraphes 38, 39, 40, 41 et 42, aux alinéas 46l), o), p) et s), aux sous-alinéas 46t)(i), 46t)(ii) et 46t)(iii), aux alinéas 46jj), 46qq), 46vv), 46ggg) – Titre[35], 46iii), 46nnn), 46qqq), 46ssss), 46uuuu), 46zzzz) et 46ccccc) ainsi qu’au paragraphe 48.
+Conclusion
+[55]Une ordonnance en ce sens sera rendue pour chaque requête. L’intimée aura jusqu’au 30 juin 2011 pour modifier les passages des réponses qui sont à radier ainsi que pour signifier et déposer ses réponses modifiées. Les appelants disposeront par la suite d’un délai de 30 jours pour signifier et déposer leurs propres répliques aux réponses de l’intimée.
+[56]Un seul ensemble de dépens sera adjugé aux appelants. Ils ont demandé que les dépens leur soient accordés sur la base avocat-client, et j’invite les avocats à présenter par écrit des observations s’ils ne parviennent pas à s’entendre sur un montant fixe au plus tard le 30 juin 2011.
+Signé à Ottawa, Canada, ce 12e jour de mai 2011.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 7e jour de novembre 2022.
+François Brunet, réviseur
+Annexe A
+Les dispositions de la réponse concernant Sentinel Hill Productions IV Corporation, en sa qualité d’associée désignée de SHAAE (2001) MASTER LIMITED PARTNERSHIP, que l’appelante souhaite voir radiées.
+[traduction]
+Survol
+[ Les U.S. Motion Picture Studios (les « studios ») ont supporté des dépenses de production dans l’exploitation d’une entreprise de réalisation de films. Des promoteurs d’abris fiscaux canadiens ont loué ces dépenses. Cependant, la location de dépenses ne donne pas lieu à une déduction ou à une perte recevable au Canada.
+Les studios et les promoteurs canadiens, ou leurs représentants désignés respectifs, ont censément effectué une série d’opérations circulaires complexes, conçues pour permettre aux promoteurs et à leurs clients de faire indirectement ce qu’ils ne pouvaient pas faire directement. Cependant, les studios et les promoteurs n’ont pas traité les « opérations » comme si elles étaient véritables et ont simplement fait abstraction des présumés droits et obligations qu’ils étaient tenus de respecter pour réaliser leurs intentions réelles. Les « opérations » étaient conçues pour donner une apparence différente de la réalité qu’elles servaient à masquer. La véritable nature de la relation entre les studios et les promoteurs était tout simplement la suivante : les studios ont loué aux promoteurs une partie de leurs dépenses.
+Ni la SHAAE (2001) Master Limited Partnership (la « MLP ») ni aucune des 73 Production Limited Partnerships (les « PLP ») dans lesquelles la MLP « a investi » étaient des sociétés de personnes valides en droit. Bien qu’elles aient été conçues pour donner l’impression de posséder les caractéristiques juridiques d’une société de personnes, la MLP et les PLP étaient dénuées de l’élément essentiel consistant à exploiter une entreprise en commun en vue de réaliser un bénéfice. Au contraire, la seule fin de la MLP et des PLP était de créer des pertes fiscales dont les associés pouvaient se servir.
+Si les opérations étaient véritables et si la MLP et les PLP étaient bel et bien des sociétés de personnes valides en droit, le ministre a néanmoins eu raison de conclure que la MLP n’était pas parvenue à démontrer que les pertes subies, s’il y en avait, excédaient les montants qu’autorisaient les déterminations ou qu’elles étaient raisonnables dans les circonstances. ]
+[ Le sommaire du stratagème de création de pertes fiscales
+2. Les studios ont supporté des dépenses dans la production de films. Moyennant rétribution, ils ont convenu de louer une partie de leurs dépenses de production à des promoteurs canadiens, qui les ont annoncées au Canada à titre de dépenses déductibles au moyen d’abris fiscaux.
+3. Les promoteurs et les studios ont censément effectué une série d’opérations circulaires complexes (collectivement appelées le « stratagème de création de pertes fiscales »), qui étaient conçues pour permettre aux promoteurs et à leurs clients de faire indirectement ce qu’ils ne pouvaient pas faire directement : déduire les pertes découlant d’une simple location de dépenses. Une partie ou la totalité des opérations formant ce stratagème de création de pertes fiscales étaient des opérations fictives, incomplètes ou sans effet sur le plan juridique. Par exemple, au moment où les contrats relatifs aux services de production ont été signés, les studios avaient déjà supporté une partie où la totalité des dépenses elles‑mêmes et fourni une partie ou la totalité des mêmes services que les PLP s’étaient engagées par contrat à fournir. Dans certains cas, les services de production étaient déjà tout à fait terminés.
+4. Pour mener à bien le stratagème de création de pertes fiscales, les promoteurs ont créé la MLP, dont l’objet était de faire l’acquisition de parts de catégorie A des PLP. Ces dernières s’engageaient par contrat à fournir des services de production cinématographique.
+5. Les studios se sont engagés par contrat avec les PLP à produire des films. Les PLP ont conclu de nouveau des contrats avec les studios pour les mêmes services de production (dépenses de main‑d’œuvre à l’étranger), et les studios ont fourni les services au prix coûtant, plus une majoration. Pour ce qui est des services de production (dépenses de main d’œuvre au Canada), les studios ont supporté ces dépenses, pour lesquelles les PLP les ont remboursés.
+6. Pour créer les pertes fiscales, chacune des PLP a convenu de fournir les services de production des PLP aux studios moyennant des frais fixés à 80,02 % seulement du coût des services. Les PLP ont fixé ces frais sans aucune négociation, contrairement aux normes de l’industrie et sans aucune raison d’ordre économique. Les PLP ont choisi le chiffre de 80,02 % afin d’essayer d’éviter les règles relatives aux dépenses à rattacher aux produits dont il est question à l’article 18.1 de la Loi de l’impôt sur le revenu (Canada) (la « Loi »), tout en maximisant les pertes créées.
+7. Les PLP se sont donc engagées à fournir les services de production des PLP aux studios à 80,02 % de leur coût, tout en convenant de leur payer ce coût, plus une majoration, en vue de fournir certains des mêmes services. Pour surmonter cette perte garantie et donner l’apparence d’une possibilité de bénéfice, les contrats relatifs aux services de production des PLP comportaient une clause de participation au bénéfice net, ou clause de PBN.
+8. Tout en donnant l’apparence d’une possibilité de bénéfice, les participations au bénéfice net étaient structurées pour être sans valeur, et c’est ce qu’elles étaient en réalité. Il n’y avait aucune possibilité que les PLP tirent un montant quelconque de la participation au bénéfice net, et encore moins qu’elles produisent un bénéfice. Les participations au bénéfice net étaient tout au plus un simple camouflage.
+9. Les clients des promoteurs – les investisseurs – ont acquis des parts de la MLP, et cette dernière a réparti entre les investisseurs les pertes créées dans les PLP.
+10. Les investisseurs ont acquis des parts de la MLP grâce à des ententes de financement qui étaient aussi circulaires que les contrats relatifs aux services de production et qui garantissaient qu’aucuns fonds, à part leurs paiements comptants réels, ne seraient jamais à risque.
+11. L’argent comptant versé par les investisseurs en vue d’acquérir des parts de la MLP a servi à payer les frais des promoteurs, des studios d’accommodement et d’autres « accommodateurs », et non les services de production fournis aux studios. La MLP et les PLP ont donné l’apparence d’un fonds de roulement au moyen d’une série de « prêts d’un jour » circulaires. En fait, il n’y avait pas de fonds de roulement.
+12. Les promoteurs ont veillé à ce que toute dette présumée des investisseurs, à part l’argent comptant qu’ils avaient réellement versé, soit éliminée en intégrant dans le stratagème de création de pertes fiscales l’acquisition obligatoire, par les studios, de parts de catégorie B des PLP. Cette acquisition était conçue pour réduire le risque de perte auquel s’exposaient les investisseurs.
+13. Les parts acquises par les investisseurs n’étaient pas de véritables parts de société en commandite en ce sens qu’elles étaient conçues pour être sans valeur, ce que savaient les studios, les promoteurs et les investisseurs. Le stratagème était conçu pour profiter aux investisseurs qui achetaient des pertes fiscales, aux promoteurs qui touchaient des honoraires pour organiser ces achats, ainsi qu’aux studios qui touchaient une prime pour la location de leurs dépenses. Le stratagème de création de pertes fiscales n’était pas conçu pour produire un bénéfice au sein de la MLP ou des PLP.
+14. Les opérations formant le stratagème de création de pertes fiscales étaient conçues pour donner l’apparence de personnes exploitant une entreprise en commun en vue de réaliser un bénéfice, alors que la véritable relation était nettement différente. La véritable relation des parties était simplement la location de dépenses, ce qui ne donne pas lieu à une perte fiscale déductible.
+15. L’unique intention de la MLP, des PLP et des associés de la MLP et des PLP était de créer des pertes au moyen d’une série complexe d’opérations circulaires, et non d’exploiter une entreprise en commun en vue de réaliser un bénéfice. ]
+Alinéas 1i), k) et l)
+[traduction]
+6
+[…] au profit de M. Strother, de Darc, de Sherman et de Gordon et/ou aux membres de leurs familles respectives, respectivement;
+h) « Sentinel Hill Productions IV Corporation (SHPC) » est une société constituée en vertu des lois de l’Ontario. Pendant toute la période pertinente, elle a été le commandité de la MLP et de chacune des 73 PLP. Pendant toute la période pertinente, SHPC a été une filiale à 100 % de SHVC;
+i) « commandité » ou « appelante » désigne SHPC, le commandité de la MLP et des 73 PLP et, même si, pendant toute la période pertinente, SHPC a été appelée le commandité de la MLP et de chacune des PLP, [ elle n’a pas exploité une entreprise en commun en vue de réaliser un bénéfice; ]
+j) « Sentinel Group » désigne les promoteurs, SHVC et le commandité lorsqu’on les mentionne collectivement;
+k) « SHAAE (2001 Master Limited Partnership ou MLP » est une société en commandite enregistrée sous le régime des lois de l’Ontario le 27 octobre 2000. [ Même si, pendant toute la période pertinente, on l’a appelée une société en commandite, elle n’a pas exploité une entreprise en commun en vue de réaliser un bénéfice. ] Son objectif était de souscrire des parts de catégorie A d’un certain nombre de sociétés en commandite de production et, à ce titre, en 2001, elle a fait l’acquisition de parts de catégorie A des 73 PLP. La fin de son premier exercice était le 31 décembre;
+l) « PLP » désigne les 73 sociétés en commandite de services de production, qui sont énumérées à l’annexe « A » à la présente réponse; [ aucune d’elles n’a exploité une entreprise en commun en vue de réaliser un bénéfice. ] L’exercice de chacune se terminait le 31 décembre;
+m) « investisseurs » désigne les contribuables résidant au Canada qui ont acheté des parts de la MLP;
+Alinéas 1o), r), s) et t)
+[traduction]
+7
+n) « studios » désigne une ou plusieurs sociétés affiliées d’importants studios de cinéma des États-Unis, tels qu’ils sont énumérés à l’annexe « A » de la présente réponse;
+o) « THC » désigne collectivement des sociétés constituées en vertu des lois des îles Caïman [ et ayant un lien de dépendance avec l’un des studios ] énumérés à l’annexe « A » de la présente réponse;
+p) « sociétés de crédit » désigne soit des sociétés canadiennes constituées et contrôlées par les studios ou d’autres sociétés canadiennes sans lien de dépendance avec les studios, et auxquelles les studios ont recours, dans l’un ou l’autre cas, en vue de fournir des services de production (dépenses de main d’œuvre au Canada) ainsi que pour certains besoins de financement;
+q) « Banque Scotia » désigne la Banque de Nouvelle-Écosse, une banque à charte canadienne qui, au cours de l’année 2001, a procuré à
+la fiducie Veritus III une facilité de prêt avec « découvert d’un jour »;
+r) « fiducie Veritus III » est une fiducie [ qui agissait comme intermédiaire pour la circulation de montants d’argent et qui avait un lien de dépendance avec l’un quelconque des investisseurs, le groupe Sentinel, la MLP ou l’une quelconque des PLP; ]
+s) « fiducies Emeritus » désigne collectivement les huit fiducies résidant en Alberta, [ qui agissaient comme intermédiaires pour la « circulation » de fonds, et qui avaient un lien de dépendance avec les investisseurs, le groupe Sentinel, la MLP ou l’une quelconque des PLP; ] l’annexe « A » de la présente réponse énumère les fiducies Emeritus respectives;
+t) « fiducies Accep » désigne les fiducies [ qui agissaient comme intermédiaires pour la « circulation » de fonds, et qui avaient un lien de dépendance avec les investisseurs, le groupe Sentinel, la MLP ou l’une quelconque des PLP; ] l’annexe « A » de la présente réponse énumère les fiducies Accep respectives;
+Paragraphes 18, 19 et 20
+[traduction]
+12
+[…] phrase des paragraphes 14, 15, 16, 29, 37, 41, 45, 48, 52 et 56 de l’avis d’appel modifié.
+18. Il n’a aucune connaissance des allégations de fait énoncées à la deuxième phrase du paragraphe 14 de l’avis d’appel modifié et il les nie donc, et il demande à l’appelante d’en établir clairement la preuve. [ Il ajoute que ni la MLP ni aucune des 73 PLP n’exploitaient une entreprise en commun en vue de réaliser un bénéfice. ]
+19. Il nie les allégations de fait énoncées aux paragraphes 9, 10 et 30 de l’avis d’appel modifié et demande à l’appelante d’en établir clairement la preuve. [ Il déclare que ni la MLP ni aucune des PLP n’exploitaient une entreprise en commun en vue de réaliser un bénéfice. Il ajoute que la MLP et les PLP ont été chacune exclusivement créées dans le but d’effectuer une série d’opérations circulaires conçues pour créer des pertes fiscales pour les investisseurs et de « canaliser » les seuls montants d’argent comptant qui se trouvaient entre les mains des promoteurs et des studios. Il ajoute également qu’une partie ou la totalité des « opérations » ont été conçues pour donner une apparence différente de la réalité qu’elles servaient à masquer. ]
+20. En ce qui concerne le paragraphe 11 de l’avis d’appel modifié, il admet seulement que la MLP avait l’intention d’émettre 52 233,6033 parts à 2 200 investisseurs, au prix de 16 200 $ la part. [ Il nie expressément que les investisseurs ont exploité une entreprise en commun en vue de réaliser un bénéfice. Il déclare que, sur le produit de souscription total de 846 184 373 $, seule la somme de 94 020 486 $ était en argent comptant, et que le solde de 752 163 887 $, représentant 89 % de l’apport cumulatif des investisseurs à l’égard de parts de la MLP, était financé. Il ajoute que le caractère circulaire des « opérations » sous-jacentes garantissait que les investisseurs ne mettraient en péril que leur apport en espèces. Il ajoute également que les opérations étaient conçues pour éliminer toute possibilité que les investisseurs réalisent un bénéfice, sauf s’il se pouvait que ces derniers soient en mesure d’acquérir des pertes fiscales. ]
+21. Pour ce qui est du paragraphe 18 de l’avis d’appel modifié, il nie que l’appelante et les investisseurs ont exploité une entreprise en commun en vue de réaliser un bénéfice, et ajoute que le document se passe d’explications.
+Paragraphes 22, 23 et 24
+[traduction]
+13
+22. Pour ce qui est des paragraphes 31 et 32 de l’avis d’appel modifié, il admet seulement que chacune des parties désignées a censément conclu un contrat comme il est allégué, mais il nie par ailleurs lesdits paragraphes. [ Il ajoute que les contrats présumés étaient des opérations fictives, incomplètes ou sans effet sur le plan juridique. ] Il nie expressément que les PLP ont fourni des services quelconques aux termes des « contrats ». ]
+23. Il nie les allégations de fait énoncées au paragraphe 33 de l’avis d’appel modifié. [ Il déclare que l’acquisition présumée de parts de catégorie B des PLP faisait partie d’une série d’opérations circulaires qui étaient, chacune, déterminées d’avance. Plus précisément, les mesures suivantes étaient déterminées d’avance :
+a) les PLP émettaient censément des parts de catégorie B à un prix d’achat global égal au solde impayé des prêts aux investisseurs en date du 15 janvier 2003;
+b) le prix d’achat des parts de catégorie B devait être « financé » au moyen d’un billet à ordre portant le même taux d’intérêt et les mêmes dates d’exigibilité des paiements d’intérêts et de capital que dans les conditions associées aux prêts aux investisseurs;
+c) les paiements d’intérêts et de capital prévus par le billet à ordre devaient être faits aux PLP et distribués à la MLP, laquelle acquitterait les obligations en matière d’intérêts et de capital que prévoyaient les prêts aux investisseurs. ]
+24. Pour ce qui est des paragraphes 35, 36, 38, 39, 48, 49 et 50 de l’avis d’appel modifié, il admet seulement que les PLP et la MLP ont déclaré des pertes, comme il est allégué, mais il nie qu’elles l’ont fait avec raison. Il nie de plus que les PLP et la MLP ont subi des pertes d’entreprise en 2001 et en 2002. [ Il réitère que ni la MLP ni aucune des PLP n’ont exploité une entreprise en commun en vue de réaliser un bénéfice. Il ajoute que la MLP et les PLP ont été chacune exclusivement créées dans le but de participer à une série d’opérations circulaires conçues pour créer des pertes fiscales pour les investisseurs et de « canaliser » les seuls montants d’argent comptant qui se trouvaient entre les mains des promoteurs, des studios et d’autres « accommodateurs ». Il ajoute également
+Paragraphe 28
+[traduction]
+14
+qu’une partie ou la totalité des « opérations » ont été conçues pour donner une apparence différente de la réalité qu’elles servaient à masquer. ] Il nie par ailleurs les allégations de fait énoncées dans lesdits paragraphes.
+25. Pour ce qui est des paragraphes 40 et 51 de l’avis d’appel modifié, il admet seulement que les PLP et la MLP ont déclaré avoir reçu un revenu d’intérêt, mais il nie par ailleurs les allégations de fait énoncées aux paragraphes 40 et 51.
+26. Sauf pour ce qui est de la manière dont le ministre aurait établi les déterminations, il admet les allégations de fait énoncées aux paragraphes 42, 43, 53 et 54. Il ajoute que, dans les appels en matière d’impôt, c’est l’exactitude des déterminations du ministre qui est en litige et non la conduite de fonctionnaires de l’Agence du revenu du Canada (l’« ARC »).
+Réponse aux allégations formulées dans les décisions
+27. Il nie les paragraphes 12, 13, 17, 23, 24, 25, 26, 27 et 28 de l’avis d’appel modifié. Il ajoute qu’une décision anticipée en matière d’impôt au sujet des opérations précises qui sont en litige dans le présent appel n’a été ni demandée par quiconque ni donnée par l’ARC. Il ajoute également que l’ARC n’a eu, au sujet des opérations précises qui sont en litige dans le présent appel, ni lettre ni discussion sur lesquelles l’appelante, le groupe Sentinel, les investisseurs, la MLP ou les PLP auraient pu se fonder.
+28. Pour ce qui est des paragraphes 2, 3, 4, 5, 19, 21, 22 et 34 de l’avis d’appel modifié, il admet seulement que la Division des décisions de l’ARC a rendu une décision anticipée en matière d’impôt le 13 décembre 2000 et que des frais ont été payés à l’égard de la décision. [ Il ajoute que le contribuable qui a demandé la décision datée du 13 décembre 2000 n’a pas communiqué tous les faits pertinents. Si ce contribuable avait communiqué de manière complète et exacte les faits pertinents, la Division des décisions aurait peut-être soit refusé de se prononcer sur les opérations, soit rendu une décision défavorable. ] Il nie par ailleurs les allégations de fait énoncées dans ces paragraphes.
+Paragraphes 29, 30, 31, 32, 33 et 34
+[traduction]
+15
+29. [ Il ajoute que le groupe Sentinel, la MLP, les PLP et les investisseurs savaient ou auraient dû savoir que la décision anticipée en matière d’impôt ne s’appliquait qu’aux opérations expressément décrites dans
+la décision. Il ajoute également que le groupe Sentinel, la MLP, les PLP et les investisseurs savaient ou auraient dû savoir que la décision avait été obtenue sans une communication complète de tous les faits pertinents, et que les opérations précises qui sont en litige dans le présent appel ne répondraient pas, quoi qu’il en soit, aux diverses oppositions et limitations que contenait la décision. ]
+30. Il nie les paragraphes 46, 47, 57 et 58 de l’avis d’appel modifié. [ Il ajoute que la décision ne s’appliquait qu’aux opérations qui y étaient expressément décrites et qu’elle a été obtenue sans une communication complète de tous les faits pertinents, et que les opérations précises qui sont en litige dans le présent appel ne répondraient pas, quoi qu’il en soit, aux diverses oppositions et limitations que contenait la décision. ]
+31. [ Il déclare que les déterminations concernant les exercices 2001 et 2002 de la MLP n’ont pas été établies en contravention d’une décision quelconque. Les décisions anticipées en matière d’impôt ne s’appliquent qu’aux opérations qui y sont précisées. Aucune décision n’a été obtenue à l’égard des opérations précises qui sont en litige.
+32. Quoi qu’il en soit, les déterminations concordent avec l’interprétation de la loi que fait le ministre, laquelle figure dans la décision datée du 13 décembre 2000.
+33. Il déclare que les opérations par lesquelles plusieurs des PLP ont censément conclu un contrat en vue de fournir des services de production auraient été conclues avant le 13 décembre 2000, la date à laquelle la décision a été rendue.
+34. L’appelante et ses mandataires ont abusé du processus des décisions anticipées en matière d’impôt en obtenant la décision par de fausses déclarations de fait et d’importantes omissions de fait. L’appelante ne peut donc pas invoquer le moyen de défense de la fin de non-recevoir en equity. ]
+Paragraphes 36 et 41
+[traduction]
+16
+Déclarations fiscales et cotisation
+Exercice 2001
+35. Au cours de son exercice ayant pris fin le 31 décembre 2001, la MLP a acquis 100 % des parts de catégorie A des PLP à un moment où chacune de ces dernières se trouvait dans une situation financière déficitaire et n’avait aucune expectative raisonnable de récupérer cette perte, et encore moins une expectative de profit.
+36. Pour leurs exercices se terminant le 31 décembre 2001, les PLP ont attribué à la MLP des « pertes d’entreprise » cumulatives de 334 144 126 $.
+37. Pour l’exercice se terminant le 31 décembre 2001, la MLP a déclaré une perte d’entreprise nette de 335 506 103 $ ainsi qu’un revenu d’intérêt de 3 528 976 $.
+38. Par la détermination datée du 29 mars 2005 concernant l’exercice 2001 de la MLP, le ministre a déterminé que la perte d’entreprise nette de la MLP n’était pas supérieure à 199 404 223 $ et que le revenu d’intérêt était de 3 528 976 $, tel qu’il avait été déclaré, et il a réduit à 439 900 353 $ la fraction à risques du commanditaire.
+39. L’appelante a déposé un avis d’opposition à la détermination de 2001 le 27 juin 2005.
+40. L’appelante a interjeté le présent appel avant que le ministre rende une décision sur l’avis d’opposition concernant la détermination de 2001.
+Exercice 2002
+41. Pour leurs exercices se terminant le 31 décembre 2002, les PLP ont attribué à la MLP des « pertes d’entreprise » cumulatives de 73 585 345 $.
+42. Pour l’exercice se terminant le 31 décembre 2002, la MLP a déclaré une perte d’entreprise nette de 74 425 025 $ ainsi qu’un revenu d’intérêt de 13 991 820 $.
+Alinéas 46a), b) et c)
+[traduction]
+17
+43. Par la détermination datée du 30 mars 2005 concernant l’exercice 2002 de l’appelante, le ministre a déterminé que la perte d’entreprise nette de la MLP était de 30 640 652 $ et que le revenu d’intérêt était de 13 991 820 $, tel qu’il avait été déclaré, et il a réduit à 250 954 148 $ la fraction à risques du commanditaire.
+44. L’appelante a déposé un avis d’opposition à la détermination de 2002 le 27 juin 2005.
+45. L’appelante a interjeté le présent appel avant que le ministre rende une décision sur l’avis d’opposition concernant la détermination de 2002.
+46. Outre les faits que le ministre a tenus pour acquis lorsqu’il a établi les déterminations concernant les exercices 2001 et 2002 de la MLP, lesquels faits sont exposés en détail au paragraphe 47 qui suit, l’intimée s’est également fondée sur les faits suivants :
+[ L’arrangement réel
+a) le groupe Sentinel a cherché à acheter les dépenses de main d’œuvre à l’étranger des studios. Ces derniers ont convenu de recevoir des frais égaux à un pourcentage négocié du budget des films pour la location des dépenses de production aux investisseurs, et ce, indirectement, par l’entremise des PLP et de la MLP;
+b) l’achat et la vente des dépenses de production PLP a été l’arrangement réel intervenu entre les studios et le groupe Sentinel;
+c) pour mener à bien le stratagème de création de pertes fiscales, le groupe Sentinel, les studios, la MLP, les PLP et d’autres « accommodateurs » ont effectué une série d’« opérations » qui ne reflétaient pas la relation véritable des parties; ]
+Alinéas 46f) et g)
+[traduction]
+18
+Activités de la MLP
+d) le contrat de société de personnes modifié et reformulé entre la MLP et les investisseurs, daté du 27 octobre 2000, définit ses activités commerciales de la manière suivante :
+i. investir dans des parts de catégorie A d’une ou plusieurs PLP;
+ii. financer, grâce à des investissements dans ces parts de catégorie A de chaque PLP, les dépenses supportées par chaque PLP dans l’exécution ou la fourniture de services de production pour le studio ou à ce dernier, aux termes d’un contrat de services de production des PLP;
+iii. investir les fonds de la société en commandite dans des certificats de dépôt et des comptes portant intérêt auprès de banques à charte canadiennes ou faire d’autres investissements de cette nature déterminés par le commandité;
+e) les activités commerciales mentionnées aux sous-alinéas (i) et (iii) qui précèdent n’ont, en fait, jamais été concrètement exercées par
+la MLP. Le financement des dépenses présumées des PLP a été assuré soit par les sociétés de crédit soit par les studios, mais pas par
+la MLP. De plus, les fonds de la MLP n’ont pas été investis de la manière envisagée au sous‑alinéa (iii) qui précède, de manière à fournir un produit concret à
+la MLP. La seule activité que la MLP a exercée relativement à ses activités commerciales déclarées a plutôt consisté à acquérir ses participations présumées dans les 73 PLP;
+f) [ la MLP et les associés de cette dernière n’ont pas exploité une entreprise en commun en vue de réaliser un bénéfice; ]
+g) le seul « investissement » de la MLP a été fait dans les PLP;
+Alinéas 46j), m), et n)#
+[traduction]
+19
+h) à l’époque où la MLP a investi dans les PLP, toutes ces dernières faisaient état de pertes considérables et ne pouvaient se fonder que sur la participation au bénéfice net pour récupérer ces pertes;
+i) la participation au bénéfice net de chaque PLP était sans valeur et les parties n’envisageaient pas que cette participation produise un bénéfice quelconque;
+j) la participation au bénéfice net de chaque PLP n’était qu’un simple [ « camouflage » ] conçu pour donner l’impression que la MLP investissait dans un bien de valeur alors qu’en fait ce bien n’avait aucune valeur;
+k) ni la direction de la MLP ni celle des PLP n’ont procédé à une analyse indépendante pour déterminer s’il était raisonnable de présumer que les films produiraient des revenus en plus des frais déjà gagnés;
+l) ni la direction de la MLP ni celle des PLP n’ont procédé à une analyse pour montrer que l’on pouvait raisonnablement s’attendre à ce que, dans l’ensemble, le portefeuille de films atteigne le seuil de rentabilité et, encore moins, produise un bénéfice;
+m) la MLP n’a jamais eu l’intention de tirer un profit de son « investissement » dans les PLP; elle avait plutôt seulement l’intention d’acquérir les pertes découlant de la structure des PLP;
+n) la MLP n’a même pas eu le but accessoire de tirer un profit de l’« investissement » dans les PLP;
+o) aucune des PLP n’avait même le but accessoire de tirer un profit de la fourniture des services de production des PLP;
+Page 20 (Titres) et alinéas 46p) et q)
+[traduction]
+20
+Les ententes de services de production étaient [ à la fois circulaires ] et contraires aux règles du marché
+I. [ Caractère circulaire ] des obligations concernant les services de production des PLP
+p) [ l’obligation contractuelle de fournir les services de production des PLP était tout à fait circulaire; ]
+q) les studios produisent et distribuent des films. Cependant, pour ce qui est des 82 réalisations cinématographiques ou projets de télévision (collectivement appelés les « films », lesquels sont énumérés à l’annexe « A » de la présente réponse), les studios ou leurs sociétés affiliées ont conclu un contrat avec chacune des 73 PLP aux termes des contrats de services de production des PLP pour fournir et payer tous les services de production des PLP à l’égard du film. [ Les PLP ont ensuite conclu un contrat avec le studio au sujet de l’obligation de fournir exactement les mêmes services de production des PLP; ]
+r) en particulier, entre le 20 mars 2000 et le 1er décembre 2001 :
+i. les studios ont conclu les ententes de services de production avec les PLP (les « ententes de services de production des PLP ») au sujet des services de production des PLP, y compris, à la fois, les services de production (dépenses de main d’œuvre à l’étranger) et les services de production (dépenses de main d’œuvre au Canada), relativement aux films;
+ii. chacune des PLP a ensuite conclu des ententes de services avec les studios (les « ententes de services des studios »), pour confier ensuite en sous-traitance aux studios les obligations de fournir les services de production (dépenses de main d’œuvre à l’étranger) relativement aux films;
+iii. chacune des PLP et les studios ont conclu les ententes de services de production (dépenses de main d’œuvre au Canada) avec une société de crédit (les « contrats de production (dépenses de main d’œuvre au Canada) »), aux termes desquels une société de crédit fournit
+Alinéas 46ss) et vv)
+[traduction]
+26
+établi relativement aux lois provinciales applicables. Le survol financier fourni aux investisseurs a été établi compte tenu du fait que les PLP ne gagnaient que les frais de 80,02 %. Ils ne prévoyaient que les pertes, qui seraient réparties entre chaque investisseur pour les années d’imposition 2001 et 2002, à titre de souscripteur de parts de la MLP;
+ss) [ tout ce que la MLP mettait en marché était un stratagème visant à avoir accès aux dépenses des studios par l’entremise des PLP, et non un véritable investissement dans l’industrie du cinéma ou de la télévision.] La réception des seuls frais de 80,02 % par les PLP serait ce que l’on appelle fréquemment dans l’industrie du placement le « pire des scénarios »;
+tt) la MLP ou sa direction n’ont fait aucun effort pour fournir aux investisseurs des scénarios « médians » ou « les plus favorables » si, en fait, les PLP gagnaient des montants suffisants au titre de la participation aux bénéfices nets pour leur permettre de tirer un bénéfice de leurs ententes de PLP respectives;
+uu) les investisseurs ont acquis leurs parts respectives de la MLP à des dates de clôture situées à divers moments pendant toute l’année civile 2001, et aucune clôture n’a eu lieu après le 31 décembre 2001. À chacune des dates de clôture, la MLP a acquis 100 % des parts de catégorie A de la PLP particulière jusqu’à ce qu’elle détienne, à la fin de l’année, la totalité des parts de catégorie A des 73 PLP;
+vv) à l’époque où la MLP a acquis sa participation dans les PLP, des arrangements ont été mis en place de façon à ce que les comptes débiteurs au sujet des frais de 80,02 % soient acquittés en totalité et à éteindre les obligations des PLP envers les studios au plus tard le 31 décembre 2003, de sorte que le « seul » bien conservé par chacune des PLP était la participation au bénéfice net sans valeur qui se rapportait à chaque film ou groupe de films;
+ww) après que la MLP a acquis sa participation dans les 73 PLP, aucune de ces dernières n’a mené d’autres activités de fourniture de services de production des PLP à l’égard d’autres réalisations cinématographiques.
+Alinéa 46aaa)
+[traduction]
+27
+De plus, les PLP n’avaient pas d’autres activités, et n’ont pas contracté d’autres obligations à l’égard d’autres activités. Il n’y a eu aucune fonction de gestion relativement aux participations au bénéfice net des PLP;
+xx) ni les PLP ni leurs mandataires n’ont dépensé autre chose que leur temps, leur attention ou leur travail symboliques à l’égard des participations au bénéfice net, pas plus qu’ils n’ont contracté d’obligations quelconques à l’égard de ces participations ou de n’importe quelle autre activité;
+yy) aux termes des ententes de services de production des PLP, les PLP n’auraient aucun droit ou ne pourraient prétendre en avoir à l’égard des films. Les studios seraient les premiers et les seuls propriétaires à perpétuité de tous les droits, titres et intérêts sur les films et relatifs à ceux‑ci;
+zz) les studios auraient le droit d’utiliser, d’exploiter, d’annoncer, de présenter et, par ailleurs, de mettre à profit les films, ou toute partie de ces derniers, dans n’importe quel média, en fonction de ce que le studio, à sa plus entière discrétion, déterminait. En résumé, les PLP n’avaient aucun droit quant à la question de savoir si l’un quelconque des films était lancé, ou à la façon dont ces derniers étaient mis en marché ou par ailleurs exploités. Au lieu de cela, les studios pouvaient décider, à leur entière discrétion, si un film particulier pouvait être projeté dans des cinémas ou par ailleurs distribué ou exploité;
+aaa) la politique de fixation des prix adoptée par la direction des PLP à l’époque où ces dernières ont conclu les ententes de services de production des PLP n’était pas destinée à fournir aux PLP un « bénéfice » découlant de la fourniture des services de production. Elle visait plutôt à générer une perte d’exploitation pour les PLP. Cela était dû à l’important écart entre les frais de 80,02 % que l’on s’attendait à tirer de la fourniture des services de production des PLP et les dépenses de main d’œuvre à l’étranger et les CLSFR anticipés que les PLP étaient tenues de payer. [ Cela étant, la direction des PLP ne pouvait pas raisonnablement s’attendre à ce que les participations au bénéfice net procurent des rendements suffisants pour leur permettre de tirer un profit de la fourniture de services de production des PLP; ]
+Alinéa 46bbb)
+[traduction]
+28
+bbb) avant le 31 décembre 2001, quand la MLP a acquis sa participation dans chacune des PLP, chacune de ces dernières détenait deux « éléments d’actif » : leurs comptes débiteurs à l’égard des frais de 80,02 % et leurs participations au bénéfice net respectives.
+47. En établissant les déterminations concernant les exercices se terminant le 3 décembre 2001 et le 3 décembre 2002 de la MLP, le ministre a formulé les hypothèses de fait qui suivent :
+Structure de financement
+I. Paiement par les investisseurs du prix de souscription
+a) le prix de souscription de chaque part de la MLP était de 16 200 $. Pour chaque part, chacun des investisseurs versait la somme de 1 800 $ en espèces (1 150 $ payés en 2001 et 650 $ payés le 15 février 2002). Le solde de 14 400 $ du prix de souscription d’une part devait être financé par un prêt obtenu par l’entremise des promoteurs;
+b) les promoteurs ont vendu en tout 52 233,6033 parts de société en commandite de la MLP à 2 200 investisseurs pour un produit de souscription total de 846 184 373 $, dont seuls 94 020 486 $ (60 068 644 $ en 2001 et 33 951 842 $ le 15 février 2002) étaient en espèces. Le solde du produit de souscription de 752 163 887 $ a été financé, et il représentait 90 % de l’apport cumulatif des investisseurs au titre de parts de la MLP (les « prêts aux investisseurs »);
+c) pour chaque part, chaque investisseur a payé, au moyen de chèques postdatés au 15 février 2002, une somme additionnelle de 1 000 $ en espèces à la MLP en vue de financer les frais d’intérêts et de financement, et la MLP a ainsi reçu au total un montant supplémentaire de 52 233 603 $;
+d) la seule partie du prix de souscription qui a été payée en espèces pour chaque part de société en commandite de la MLP s’élevait à 1 800 $;
+Alinéas 47f) et g)
+[traduction]
+29
+e) la somme de 1 800 $ par part de catégorie A, ou la somme totale de 94 020 486 $, est le seul montant que les investisseurs ont jamais mis en péril en acquérant les parts;
+II. Financement par prêts d’un jour des investisseurs et des services de production
+f) le financement de l’investissement autre qu’en espèces des investisseurs dans la MLP et le financement des services de production des PLP ont été [ à la fois circulaires et ] réalisés au moyen de prêts d’un jour. La série de prêts d’un jour n’a pas ajouté d’espèces de plus que l’apport en espèces des investisseurs de 1 800 $ la part;
+g) [ bien que la « circulation » du financement ait été réalisée au moyen de prêts d’un jour, l’extinction des prêts a été réalisée grâce à une série d’opérations de compensation déterminées à l’avance; ]
+h) en résumé, les prêts, dans l’ensemble, ont eu lieu de la manière exposée en détail dans les paragraphes qui suivent;
+III. Prêts aux investisseurs – première étape
+i) à la date des diverses clôtures de la MLP en 2001,
+la Banque Scotia , au moyen d’une facilité de prêts assortie d’un découvert d’un jour, a prêté à
+la fiducie Veritus III des montants qui, cumulativement, ont totalisé la somme de 752 163 887 $;
+j) à la date des diverses clôtures de la MLP en 2001,
+la fiducie Veritus III a prêté aux investisseurs le montant total de 752 163 887 $ sur dix ans, avec des intérêts de 11 % payables annuellement à compter de la date de clôture de la MLP jusqu’au 15 janvier 2003 et à compter du 16 janvier 2003 jusqu’à ce que le prêt soit remboursé en 2011, à un taux d’intérêt annuel égal au plus élevé des taux suivants :
+i. le taux préférentiel annoncé par
+la Banque Royale du Canada périodiquement, plus un et demi pour cent;
+Alinéa 47kk)
+[traduction]
+36
+XII. Prêts aux investisseurs – deuxième étape
+ii) le 15 janvier 2003, la somme totale de 421 690 992 $ aurait été distribuée par les PLP à la MLP (somme sur laquelle seul un montant de 414 808 717 $ a peut-être été distribué), et ces paiements auraient été faits à partir du produit du paiement des frais fixes effectué par les fiducies Accep;
+jj) sur le montant total de 421 690 992 $ qui aurait été distribué par les PLP à la MLP (somme sur laquelle seul un montant de 414 808 717 $ a peut‑être été distribué), les investisseurs de la MLP avaient droit à une part proportionnelle, le commandité aurait remboursé à
+la fiducie Veritus III la somme de 382 160 445 $ à l’égard du principal des prêts aux investisseurs (sur laquelle seul le montant de 375 278 170 $ a peut-être été payé de cette façon) ainsi que la somme de 39 530 547 $ en vue de régler les intérêts courus, ce qui laissait un solde de 370 003 442 $ sur les prêts aux investisseurs le 15 janvier 2003;
+XII. Prêts aux investisseurs – troisième étape
+kk)
+la fiducie Veritus III a effectué des paiements d’intérêt annuels aux fiducies Emeritus à l’égard des prêts Emeritus. Cette mesure a mis en branle un mouvement [ circulaire ] de fonds qui garantissait que l’obligation de payer des intérêts annuels sur les prêts aux investisseurs serait acquittée;
+ll)
+la fiducie Veritus III a effectué aux fiducies Emeritus des paiements d’intérêt annuels d’un montant total de 186 677 351 $, de la manière suivante :
+i. la somme de 3 526 657 $ a été payée au plus tard le 28 février 2002;
+ii. la somme de 13 986 873 $ a été payée au plus tard le 28 février 2003;
+iii. la somme totale de 147 312 053 $, ou de 21 044 579 $ par année, a été payée ou était à payer au plus tard le 15 janvier de chaque année, entre 2004 et 2010;
+Alinéa 47 pp) et sous-alinéa pp)(iv)
+[traduction]
+38
+ii. la somme de 13 986 873 $ a été payée au plus tard le 28 février 2003;
+iii. la somme totale de 147 312 053 $, ou de 21 044 579 $ par année, a été payée ou était à payer au plus tard le 15 janvier de chaque année, entre 2004 et 2010;
+iv. la somme de 21 851 768 $ est à payer le 15 janvier 2011;
+XIV. Prêts aux investisseurs – quatrième étape
+pp) en 2011,
+la fiducie Veritus III est censée effectuer des paiements d’un montant total de 370 003 442 $ aux fiducies Emeritus à l’égard des prêts Emeritus, ce qui déclenchera un mouvement [ circulaire ] de fonds qui permettra d’acquitter le solde restant des prêts aux investisseurs, de la manière suivante :
+i.
+la fiducie Veritus III paiera la somme de 370 003 442 $ aux fiducies Emeritus en règlement complet des prêts Emeritus;
+ii. les fiducies Emeritus paieront à la PLP la somme totale de 370 003 442 $ en règlement complet du prix de souscription applicable aux parts de catégorie B des PLP;
+iii. les PLP prévoient une distribution obligatoire de 370 003 442 $ à la MLP après avoir reçu le paiement des parts de catégorie B des fiducies Emeritus;
+iv. le commandité de la MLP paiera la somme de 370 003 442 $ à
+la fiducie Veritus III en règlement complet du solde restant des prêts aux investisseurs, ce qui mettrait ainsi fin au mouvement [ circulaire ] des fonds à l’égard des prêts aux investisseurs;
+Annexe « B » – Liste des énoncés et des paragraphes contestés
+Section 1
+Sentinel Hill Productions IV Corporation, en sa qualité d’associée désignée de SHAAE (2001) MASTER LIMITED PARTNERSHIP et en sa qualité d’associée désignée de SENTINEL HILL NO. 207 LIMITED PARTNERSHIP
+2009-2248(IT)G et 2009-2247(IT)G
+Disposition (Sentinel Hill 207)
+Disposition (SHAAE (2001))
+Passages de la réponse pertinente que l’appelante souhaite voir radiés (passages entre crochets de la réponse pertinente) [Les passages cités sont des traductions.]
+(Seuls les passages entre [ ] sont contestés)
+À radier
+Survol
+Survol
+Passage entier, reproduit à l’annexe B dans le cas de SHAAE et à l’annexe C dans le cas de Sentinel Hill 207.
+Non
+1i)
+1i)
+« commandité » ou « appelante » […] [elle n’a pas exploité une entreprise en commun en vue de réaliser un bénéfice;]
+Oui
+1k)
+1k)
+« SHAAE (2001 Master Limited Partnership ou MLP » […] [Même si, pendant toute la période pertinente, on l’a appelée une société en commandite, elle n’a pas exploité une entreprise en commun en vue de réaliser un bénéfice.]
+Oui
+1l)
+1l)
+« PLP » […] [aucune d’elles n’a exploité une entreprise en commun en vue de réaliser un bénéfice.]
+Oui
+1o)
+1o)
+« THC » [et ayant un lien de dépendance avec l’un des studios]
+Oui
+1r)
+1r)
+« fiducie Veritus III » […] [qui agissait comme intermédiaire pour la circulation de montants d’argent et qui avait un lien de dépendance avec l’un quelconque des investisseurs, le groupe Sentinel, la MLP ou l’une quelconque des PLP;]
+Oui
+1s)
+1s)
+« fiducies Emeritus » […] [qui agissaient comme intermédiaires pour la « circulation » de fonds, et qui avaient un lien de dépendance avec les investisseurs, le groupe Sentinel, la MLP ou l’une quelconque des PLP;]
+Oui
+1t)
+1t)
+« fiducies Accep » […] [qui agissaient comme intermédiaires pour la « circulation » de fonds, et qui avaient un lien de dépendance avec les investisseurs, le groupe Sentinel, la MLP ou l’une quelconque des PLP;]
+Oui
+2 à 15
+2 à 15
+Sommaire du stratagème de création de pertes fiscales reproduit à l’annexe B dans le cas de SHAAE et à l’annexe C dans le cas de Sentinel Hill 207
+Oui
+18
+18
+Il n’a aucune connaissance des allégations […] [Il ajoute que ni la MLP ni aucune des 73 PLP n’exploitaient une entreprise en commun en vue de réaliser un bénéfice.]
+Oui
+19 – Différence minime dans le libellé
+19
+Il nie les allégations […] [Il déclare que ni la MLP ni aucune des PLP n’exploitaient une entreprise en commun en vue de réaliser un bénéfice. Il ajoute que la MLP et les PLP ont été chacune exclusivement créées dans le but d’effectuer une série d’opérations circulaires conçues pour créer des pertes fiscales pour les investisseurs et de « canaliser » les seuls montants d’argent comptant qui se trouvaient entre les mains des promoteurs et des studios. Il ajoute également qu’une partie ou la totalité des « opérations » ont été conçues pour donner une apparence différente de la réalité qu’elles servaient à masquer.]
+Oui
+20 (Valeurs en dollars différentes et différences minimes dans le libellé)
+20
+[Il nie expressément que les investisseurs ont exploité une entreprise en commun en vue de réaliser un bénéfice. Il déclare que, sur le produit de souscription total de 846 184 373 $, seule la somme de 94 020 486 $ était en argent comptant, et que le solde de 752 163 887 $, représentant 89 % de l’apport cumulatif des investisseurs à l’égard de parts de la MLP, était financé. Il ajoute que le caractère circulaire des « opérations » sous‑jacentes garantissait que les investisseurs ne mettraient en péril que leur apport en espèces. Il ajoute également que les opérations étaient conçues pour éliminer toute possibilité que les investisseurs réalisent un bénéfice, sauf s’il se pouvait que ces derniers soient en mesure d’acquérir des pertes fiscales.]
+Oui
+21
+21
+[…il nie que l’appelante et les investisseurs ont exploité une entreprise en commun en vue de réaliser un bénéfice, et ajoute que le document se passe d’explications…]*
+*Passage non encerclé, mais oubli probable.
+Oui
+22
+22
+[Il ajoute que les contrats présumés étaient des opérations fictives, incomplètes ou sans effet sur le plan juridique.]
+Oui
+23
+23
+[Il déclare que l’acquisition présumée de parts de catégorie B des PLP faisait partie d’une série d’opérations circulaires qui étaient, chacune, déterminées d’avance. Plus précisément, les mesures suivantes étaient déterminées d’avance :
+a) les PLP émettaient censément des parts de catégorie B à un prix d’achat global égal au solde impayé des prêts aux investisseurs en date du 15 janvier 2003;
+b) le prix d’achat des parts de catégorie B devait être « financé » au moyen d’un billet à ordre portant le même taux d’intérêt et les mêmes dates d’exigibilité des paiements d’intérêts et de capital que dans les conditions associées aux prêts aux investisseurs;
+c) les paiements d’intérêts et de capital prévus par le billet à ordre devaient être faits aux PLP et distribués à la MLP, laquelle acquitterait les obligations en matière d’intérêts et de capital que prévoyaient les prêts aux investisseurs.]
+Oui
+25 (Différences minimes dans le libellé)
+24
+[Il réitère que ni la MLP ni aucune des PLP n’ont exploité une entreprise en commun en vue de réaliser un bénéfice. Il ajoute que la MLP et les PLP ont été chacune exclusivement créées dans le but de participer à une série d’opérations circulaires conçues pour créer des pertes fiscales pour les investisseurs et de « canaliser » les seuls montants d’argent comptant qui se trouvaient entre les mains des promoteurs et des studios et d’autres « accommodateurs ». Il ajoute également qu’une partie ou la totalité des « opérations » ont été conçues pour donner une apparence différente de la réalité qu’elles servaient à masquer.]
+Oui
+29
+28
+[Il ajoute que le contribuable qui a demandé la décision datée du 13 septembre 2000 n’a pas communiqué tous les faits pertinents. Si ce contribuable avait communiqué de manière complète et exacte les faits pertinents, la Division des décisions aurait peut-être soit refusé de se prononcer sur les opérations, soit rendu une décision défavorable.]
+Non
+30
+29
+[Il ajoute que le groupe Sentinel, la MLP, les PLP et les investisseurs savaient ou auraient dû savoir que la décision anticipée en matière d’impôt ne s’appliquait qu’aux opérations expressément décrites dans la décision. Il ajoute également que le groupe Sentinel, la MLP, les PLP et les investisseurs savaient ou auraient dû savoir que la décision avait été obtenue sans une communication complète de tous les faits pertinents, et que les opérations précises qui sont en litige dans le présent appel ne répondraient pas, quoi qu’il en soit, aux diverses oppositions et limitations que contenait la décision.]
+Non
+31
+30
+[Il ajoute que la décision ne s’appliquait qu’aux opérations qui y étaient expressément décrites et qu’elle a été obtenue sans une communication complète de tous les faits pertinents, et que les opérations précises qui sont en litige dans le présent appel ne répondraient pas, quoi qu’il en soit, aux diverses oppositions et limitations que contenait la décision.]
+Non
+32
+31
+Il déclare que les déterminations concernant les exercices 2001 et 2002 de la MLP n’ont pas été établies en contravention d’une décision quelconque. Les décisions anticipées en matière d’impôt ne s’appliquent qu’aux opérations qui y sont précisées. Aucune décision n’a été obtenue à l’égard des opérations précises qui sont en litige.
+Non
+33
+32
+Quoi qu’il en soit, les déterminations concordent avec l’interprétation de la loi que fait le ministre, laquelle figure dans la décision datée du 13 décembre 2000.
+Non
+34
+33
+Il déclare que les opérations par lesquelles plusieurs des PLP ont censément conclu un contrat en vue de fournir des services de production auraient été conclues avant le 13 décembre 2000, la date à laquelle la décision a été rendue.
+Non
+35
+34
+L’appelante et ses mandataires ont abusé du processus des décisions anticipées en matière d’impôt en obtenant la décision par de fausses déclarations de fait et d’importantes omissions de fait. L’appelante ne peut donc pas invoquer le moyen de défense de la fin de non-recevoir en equity.
+Le passage non souligné n’est pas radié.
+Oui; le passage souligné est radié.
+46a) à c)
+46a) à c)
+L’arrangement réel
+a) le groupe Sentinel a cherché à acheter les dépenses de main d’œuvre à l’étranger des studios. Ces derniers ont convenu de recevoir des frais égaux à un pourcentage négocié du budget des films pour la location des dépenses de production aux investisseurs, et ce, indirectement, par l’entremise des PLP et de la MLP;
+b) l’achat et la vente des dépenses de production des PLP a été l’arrangement réel intervenu entre les studios et le groupe Sentinel;
+c) pour mener à bien le stratagème de création de pertes fiscales, le groupe Sentinel, les studios, la MLP, les PLP et d’autres « accommodateurs » ont effectué une série d’« opérations » qui ne reflétaient pas la relation véritable des parties;
+Les alinéas a) et b) ne sont pas radiés.
+L’alinéa c) est radié.
+46f)
+46f)
+[la MLP et les associés de cette dernière n’ont pas exploité une entreprise en commun en vue de réaliser un bénéfice;]
+Oui
+46j)
+46j)
+[camouflage]
+Non
+Page 19 - Titre
+Page 20 - Titre
+[à la fois circulaires]
+Non
+Page 19 - Sous-rubrique
+Page 20 I
+[Caractère circulaire]
+Non
+46 p)
+46 p)
+[l’obligation contractuelle de fournir les services de production des PLP était tout à fait circulaire;]
+Non
+46 q)
+46 q)
+[Les PLP ont ensuite conclu un contrat avec le studio au sujet de l’obligation de fournir exactement les mêmes services de production des PLP;]
+Non
+46ss)
+46ss)
+[tout ce que la MLP mettait en marché était un stratagème visant à avoir accès aux dépenses des studios par l’entremise des PLP, et non un véritable investissement dans l’industrie du cinéma ou de la télévision.]
+Non
+46aaa)
+46aaa)
+[Cela étant, la direction des PLP ne pouvait pas raisonnablement s’attendre à ce que les participations au bénéfice net procurent des rendements suffisants pour leur permettre de tirer un profit de la fourniture de services de production des PLP;]
+Non
+47f)
+47f)
+[à la fois circulaire et]
+Non
+47g)
+47g)
+[bien que la « circulation » du financement ait été réalisée au moyen de prêts d’un jour, l’extinction des prêts a été réalisée grâce à une série d’opérations de compensation déterminées à l’avance;]
+Non
+47kk)
+47kk)
+[circulaire]
+Non
+47pp)
+47pp)
+[circulaire]
+Non
+47pp)(iv)
+47pp)(iv)
+[circulaire]
+Non
+Section 2
+L’appel de Robert Strother 2007-329(IT)G
+Disposition
+Passages de la réponse pertinente que l’appelant souhaite voir radiés (passages entre crochets de la réponse pertinente) [Les passages cités sont des traductions.]
+(Lorsque les [] sont employés, seuls les passages entre [ ] sont contestés)
+À radier?
+Survol
+Reproduit intégralement à l’annexe D dans le cas de Robert D. Strother
+Non
+1e)
+n’était pas une société en commandite valide en droit
+Oui
+1f)
+…n’étaient pas des sociétés en commandite valides en droit;
+Oui
+1g)
+…n’était pas un associé en droit
+Oui
+1k)
+…et chacune est une société qui avait un lien de dépendance avec les studios;
+Oui
+1n)
+…qui agissait comme intermédiaire pour la circulation de montants d’argent et qui avait un lien de dépendance avec l’un quelconque des investisseurs, le groupe Sentinel, la MLP ou l’une quelconque des PLP;
+Oui
+1p)
+« fiducie Emeritus » … qui agissaient comme intermédiaires pour la « circulation » de fonds, et qui avaient un lien de dépendance avec les investisseurs, le groupe Sentinel, la MLP ou l’une quelconque des PLP;
+Oui.
+2 à 15
+« Sommaire du stratagème de création de pertes fiscales » reproduit à l’annexe D dans le cas de Robert D. Strother.
+Oui
+18
+…vu qu’elles étaient toutes dénuées de l’élément essentiel consistant à exploiter une entreprise en commun en vue de réaliser un bénéfice…
+Oui
+20
+…Il déclare que ni la MLP ni aucune des PLP n’étaient des sociétés en commandite valides en droit, vu qu’elles étaient toutes dénuées de l’élément essentiel consistant à exploiter une entreprise en commun en vue de réaliser un bénéfice. Il ajoute que la MLP et les PLP ont été chacune exclusivement créées dans le but d’effectuer une série d’opérations circulaires conçues pour créer des pertes fiscales pour les investisseurs et de « canaliser » les seuls montants d’argent comptant qui se trouvaient entre les mains des promoteurs et des studios. Il ajoute également qu’une partie ou la totalité des « opérations » ont été conçues pour donner une apparence différente de la réalité qu’elles servaient à masquer.
+Oui
+22
+…Il ajoute que le caractère circulaire des « opérations » sous‑jacentes garantissait que les investisseurs ne seraient exposés qu’à hauteur de leur apport en espèces. Il ajoute également que les opérations étaient conçues pour éliminer toute possibilité que les investisseurs réalisent un bénéfice, sauf s’il se pouvait que ces derniers soient en mesure d’acquérir des pertes fiscales.
+Oui
+24
+…Si, en fait, le prêteur a effectué de tels prêts, il n’agissait pas sans lien de dépendance avec la MLP.
+Non
+26
+…Il ajoute que les contrats présumés étaient des opérations fictives, incomplètes ou sans effet sur le plan juridique. Il nie expressément que les PLP ont fourni des services quelconques aux termes des « contrats. ». Il ajoute également que les clauses de participation au bénéfice net étaient toutes structurées pour être sans valeur et que, en réalité, elles n’en avaient aucune.
+Oui
+27
+…Il ajoute que les présumées options n’étaient pas de véritables options. Au lieu de cela, pour exécuter l’entente réelle consistant à louer leurs dépenses, les studios ont traité les « options » comme si elles étaient obligatoires. Les « options », une fois exercées, compenseraient et élimineraient toute obligation de la part des investisseurs en sus de leur apport en espèces. Il nie expressément que le prix d’option des parts de catégorie B a été fixé à leur juste valeur marchande et il ajoute que la juste valeur marchande des parts de catégorie B était nulle.
+Non
+29
+…vu qu’elles étaient toutes dénuées de l’élément essentiel consistant à exploiter une entreprise en commun en vue de réaliser un bénéfice. Il ajoute que la MLP et les PLP ont été chacune exclusivement créées dans le but d’effectuer une série d’opérations circulaires conçues pour créer des pertes fiscales pour les investisseurs et de « canaliser » les seuls montants d’argent comptant qui se trouvaient entre les mains des promoteurs et des studios. Il ajoute également qu’une partie ou la totalité des « opérations » ont été conçues pour donner une apparence différente de la réalité qu’elles servaient à masquer.
+Oui
+30
+…Il ajoute qu’une décision anticipée en matière d’impôt au sujet des opérations décrites dans le deuxième avis d’appel modifié n’a été ni demandée par quiconque ni donnée par l’ARC. Il ajoute également que l’ARC n’a eu, au sujet des opérations décrites dans le deuxième avis d’appel modifié, ni lettre ni discussion sur lesquelles l’appelante, le groupe Sentinel, les investisseurs, la MLP ou les PLP auraient pu se fonder.
+Non
+31
+…Il ajoute que le contribuable qui a demandé la décision datée du 6 octobre 1998 n’a pas communiqué tous les faits pertinents. Si ce contribuable avait communiqué de manière complète et exacte les faits pertinents, la Division des décisions aurait peut‑être soit refusé de se prononcer sur les opérations soit rendu une décision défavorable. Il nie par ailleurs les allégations de fait énoncées dans ces paragraphes.
+Non
+32
+Il ajoute que l’appelant, le groupe Sentinel, les investisseurs ou la MLP savaient ou auraient dû savoir que la décision anticipée en matière d’impôt n’a jamais été demandée par quiconque ou donnée par l’ARC relativement aux opérations décrites dans le deuxième avis d’appel modifié. Il ajoute également que l’appelant, la MLP, les PLP et les investisseurs savaient ou auraient dû savoir que la décision se rapportait à des opérations différentes et à des contribuables différents, qu’elle avait été obtenue sans une communication complète de tous les faits pertinents et que, quoi qu’il en soit, les opérations décrites dans le deuxième avis d’appel modifié ne satisferaient pas aux diverses oppositions et limitations contenues dans la décision.
+Non
+33
+…et ajoute que le vérificateur a conclu que l’énoncé des faits que l’appelant avait fourni aux Décisions était nettement différent des opérations en litige.
+Non
+34
+…Il déclare en outre que la décision se rapportait à des opérations différentes et à des contribuables différents, qu’elle avait été obtenue sans une communication complète de tous les faits pertinents et que, quoi qu’il en soit, les opérations décrites dans le deuxième avis d’appel modifié ne satisferaient pas aux diverses oppositions et limitations contenues dans la décision.
+Non
+35
+Il déclare que les nouvelles cotisations concernant les années d’imposition 1998 et 1999 de l’appelant et des investisseurs n’ont pas été établies en contravention d’une décision quelconque. Une décision anticipée en matière d’impôt ne s’applique qu’aux opérations précisées dans
+la décision. Aucune décision n’a été obtenue à l’égard des opérations en litige.
+Non
+36
+Quoi qu’il en soit, les nouvelles cotisations concordent avec l’interprétation de la loi que le ministre a incluse dans la décision d’octobre 1998.
+Non
+37
+…à une époque où chacune des PLP se trouvait en situation financière déficitaire et où chacune n’avait aucune expectative raisonnable de profit, ni même de récupérer sa perte.
+Non
+39
+…soi-disant…
+Non
+43 - Note infrapaginale 2
+En ce qui concerne le paiement incitatif de 571 026 $ payé par la MLP à certains des investisseurs, certains appelants se sont vu attribuer l’inclusion dans le revenu, mais le ministre n’a pas établi de nouvelle cotisation. Les appelants comprennent Gus Baril (24 000 $) Leslie Baril (24 000 $); Malcolm MacLean (5 559 $); Magic Bullet Enterprise Limited (125 000 $) et Parian Holding Limited (5 000 $).
+Non
+46a), b) et c)
+L’arrangement réel
+a) le groupe Sentinel a cherché à acheter les dépenses de main d’œuvre à l’étranger des studios. Ces derniers ont convenu de recevoir des frais égaux à un pourcentage négocié du budget des films pour la location de ses dépenses de production aux investisseurs, et ce, indirectement, par l’entremise des PLP et de la MLP;
+b) l’achat et la vente des dépenses de production des PLP a été l’arrangement réel intervenu entre les studios et le groupe Sentinel;
+c) pour mener à bien le stratagème de création de pertes fiscales, le groupe Sentinel, les studios, la MLP, les PLP et d’autres « accommodateurs » ont effectué une série d’« opérations » qui ne reflétaient pas la relation véritable des parties;
+Les alinéas a) et b) ne sont pas radiés.
+L’alinéa c) est radié.
+46h)
+La MLP et les associés de cette dernière n’ont pas exploité une entreprise en commun en vue de réaliser un bénéfice;
+Oui
+46l)
+…tout au plus du « camouflage »…
+Non
+46o)
+La MLP n’a jamais eu l’intention de tirer un profit de son « investissement » dans les PLP; elle avait plutôt seulement l’intention d’acquérir les pertes découlant du stratagème de création de pertes fiscales;
+Non
+46p) - Titre
+…circulaire et
+Non
+46p) Sous-rubrique
+Caractère circulaire de…
+Non
+46q)
+Les studios et le groupe Sentinel ont créé une série de « contrats » et d’« ententes » qui ne reflétaient pas la relation véritable entre les parties;
+Oui
+46 r)
+L’obligation « contractuelle » de fournir les services de production (dépenses de main d’œuvre à l’étranger) était circulaire;
+Non
+46 s)
+…l’obligation…
+Non
+46t)(v)
+…complétant ainsi le cercle de l’obligation contractuelle de fournir les services de production (dépenses de main d’œuvre à l’étranger);
+Non
+46v)
+…concoctés…
+Non
+46dd)
+Il est généralement reconnu parmi les participants de l’industrie du cinéma et de la télévision que les participants au bénéfice net tirent rarement, sinon jamais, un montant quelconque de leur participation au bénéfice net;
+Non
+46oo)
+La MLP et le groupe Sentinel n’ont mis en marché rien de plus qu’un stratagème pour avoir accès aux dépenses des studios par l’entremise des PLP, et non un placement véritable dans l’industrie du cinéma ou de la télévision.
+Non
+46zz)
+…exactement les mêmes services de production (dépenses de main d’œuvre à l’étranger)… que les PLP s’étaient engagées par contrat à fournir aux THC aux termes des ententes de services de production (dépenses de main d’œuvre à l’étranger);
+Non
+46ggg)
+Le financement de l’investissement autre qu’en espèces des investisseurs dans la MLP et le financement des services de production (dépenses de main d’œuvre à l’étranger) était à la fois circulaire et réalisé par une série d’opérations de compensation déterminées à l’avance;
+Non
+46hhh)
+La série d’opérations de compensation n’a pas ajouté d’espèces additionnelles au-delà de l’apport en espèces des investisseurs de 288,36 $ l’unité. Au lieu de cela, la « circulation » du « financement » et l’extinction des prêts ont été simplement réalisés par une série de directives de paiement et d’accusés de réception;
+Non
+46nnn)
+la somme de 127 374 310 $ est « empruntée » par les PLP [indirectement] aux [les studios par l’entremise] des THC sans intérêt…
+Non
+46zzz) - Titre
+Toutes les créances en souffrance réglées par compensation
+Non
+46aaaa)
+Les créances en souffrance, ainsi que les intérêts correspondant, de
+la fiducie Emeritus , de
+la fiducie Veritus et des investisseurs sont toutes réglées par compensation circulaire;
+Non
+46eeee)
+…complétant ainsi le cercle6
+Tous les « paiements » figurant dans le cercle décrit ont été effectués par une simple directive de paiement. Ni
+la fiducie Veritus ni
+la fiducie Emeritus n’étaient en mesure d’effectuer le paiement annuel qui se rapportait à leurs obligations respectives en matière d’intérêt. Ni l’une ni l’autre de ces fiducies ne tenait même un compte bancaire à partir duquel il aurait été possible d’effectuer un paiement.
+Non
+46ffff)(f)
+…complétant ainsi le cercle;
+Non
+46llll) - Titre
+Alinéa 96(2.2)c) – [prêt avec lien de dépendance et opérations de prêt circulaires]
+Non
+46pppp)
+…que par l’entremise de son fiduciaire, Veritus Capital Corp. (« VCC »), a agi comme intermédiaire pour la circulation des fonds.
+Non
+46pppp) - Titre
+Prêts aux investisseurs avec lien de dépendance
+Non
+46tttt)
+Le groupe Sentinel a exercé les activités commerciales déclarées de
+la fiducie Veritus ;
+Non
+50iii)
+La totalité de la perte que la MLP a déduite aurait dû être refusée, mais, au vu du paragraphe 152(1.4) de la Loi, la perte déterminée n’a pas été réduite par la confirmation;
+Oui
+Annexe « C »
+Survol et paragraphes 2 à 15 (« Sommaire du stratagème de création de pertes fiscales ») figurant dans la réponse concernant Sentinel Hill Productions IV Corporation en sa qualité d’associée désignée de SENTINEL HILL NO. 207 LIMITED PARTNERSHIP
+[traduction]
+Survol
+[ Les U.S. Motion Picture Studios (les « studios ») ont supporté des dépenses de production dans l’exploitation d’une entreprise de réalisation de films. Des promoteurs d’abris fiscaux canadiens ont loué ces dépenses. Cependant, la location de dépenses ne donne pas lieu à une déduction ou à une perte recevable au Canada.
+Les studios et les promoteurs canadiens, ou leurs représentants désignés respectifs, ont censément effectué une série d’opérations circulaires complexes, conçues pour permettre aux promoteurs et à leurs clients de faire indirectement ce qu’ils ne pouvaient pas faire directement. Cependant, les studios et les promoteurs n’ont pas traité les « opérations » comme si elles étaient véritables et ont simplement fait abstraction des présumés droits et obligations qu’ils étaient tenus de respecter pour réaliser leurs intentions réelles. Les « opérations » étaient conçues pour donner une apparence différente de la réalité qu’elles servaient à masquer. La véritable nature de la relation entre les studios et les promoteurs était tout simplement la suivante : les studios ont loué aux promoteurs une partie de leurs dépenses.
+Ni la SHAAE (2001) Master Limited Partnership (la « MLP ») ni les 73 Production Limited Partnerships (les « PLP »), y compris Sentinel Hill No. 207 Limited Partnership (« PLP-207 »), dans lesquelles la MLP « a investi » étaient des sociétés de personnes en droit. Bien qu’elles aient été conçues pour donner l’impression de posséder les caractéristiques juridiques d’une société de personnes, la MLP et les PLP étaient dénuées de l’élément essentiel consistant à exploiter une entreprise en commun en vue de réaliser un bénéfice. Au contraire, la seule fin de la MLP et des PLP était de créer des pertes fiscales dont les associés pouvaient se servir.
+Si les opérations étaient véritables et si la MLP et les PLP étaient bel et bien des sociétés de personnes valides en droit, le ministre a néanmoins eu raison de conclure que la MLP n’était pas parvenue à démontrer que les pertes subies, s’il y en avait, excédaient les montants qu’autorisaient les déterminations ou qu’elles étaient raisonnables dans les circonstances. ]
+[ Le sommaire du stratagème de création de pertes fiscales
+2. Les studios ont supporté des dépenses dans la production de films. Moyennant rétribution, ils ont convenu de louer une partie de leurs dépenses de production à des promoteurs canadiens, qui les ont annoncées au Canada à titre de dépenses déductibles au moyen d’abris fiscaux.
+3. Les promoteurs et les studios ont censément effectué une série d’opérations circulaires complexes (collectivement appelées le « stratagème de création de pertes fiscales »), qui étaient conçues pour permettre aux promoteurs et à leurs clients de faire indirectement ce qu’ils ne pouvaient pas faire directement : déduire les pertes découlant d’une simple location de dépenses. Une partie ou la totalité des opérations formant ce stratagème de création de pertes fiscales étaient des opérations fictives, incomplètes ou sans effet sur le plan juridique. Par exemple, au moment où les contrats relatifs aux services de production ont été signés, les studios avaient déjà supporté une partie où la totalité des dépenses elles‑mêmes et fourni une partie ou la totalité des mêmes services que les PLP s’étaient engagées par contrat à fournir. Dans certains cas, les services de production étaient déjà tout à fait terminés.
+4. Pour mener à bien le stratagème de création de pertes fiscales, les promoteurs ont créé la MLP, dont l’objet était de faire l’acquisition de parts de catégorie A des PLP. Ces dernières s’engageaient par contrat à fournir des services de production cinématographique.
+5. Les studios se sont engagés par contrat avec les PLP à produire des films. Les PLP ont conclu de nouveau des contrats avec les studios pour les mêmes services de production (dépenses de main‑d’œuvre à l’étranger), et les studios ont fourni les services au prix coûtant, plus une majoration. Pour ce qui est des services de production (dépenses de main d’œuvre au Canada), les studios ont supporté ces dépenses, pour lesquelles les PLP les ont remboursés.
+6. Pour créer les pertes fiscales, chacune des PLP a convenu de fournir les services de production des PLP aux studios moyennant des frais fixés à 80,02 % seulement du coût des services. Les PLP ont fixé ces frais sans aucune négociation, contrairement aux normes de l’industrie et sans aucune raison d’ordre économique. Les PLP ont choisi le chiffre de 80,02 % afin d’essayer d’éviter les règles relatives aux dépenses à rattacher aux produits dont il est question à l’article 18.1 de la Loi de l’impôt sur le revenu (Canada) (la « Loi »), tout en maximisant les pertes créées.
+7. Les PLP se sont donc engagées à fournir les services de production des PLP aux studios à 80,02 % de leur coût, tout en convenant de leur payer ce coût, plus une majoration, en vue de fournir certains des mêmes services. Pour surmonter cette perte garantie et donner l’apparence d’une possibilité de bénéfice, les contrats relatifs aux services de production des PLP comportaient une clause de participation au bénéfice net, ou clause de PBN.
+8. Tout en donnant l’apparence d’une possibilité de bénéfice, les participations au bénéfice net étaient structurées pour être sans valeur, et, en réalité, elles n’en avaient aucune. Il n’y avait aucune possibilité que les PLP tirent un montant quelconque de la participation au bénéfice net, et encore moins qu’elles produisent un bénéfice. Les participations au bénéfice net étaient tout au plus un simple camouflage.
+9. Les clients des promoteurs – les investisseurs – ont acquis des parts dans la MLP, et cette dernière a réparti entre les investisseurs les pertes créées dans les PLP.
+10. Les investisseurs ont acquis des parts de la MLP grâce à des ententes de financement qui étaient aussi circulaires que les contrats relatifs aux services de production et qui garantissaient qu’aucuns fonds, à part leurs paiements comptants réels, ne seraient jamais à risque.
+11. L’argent comptant versé par les investisseurs en vue d’acquérir des parts de la MLP a servi à payer les frais des promoteurs, des studios d’accommodement et d’autres « accommodateurs », et non les services de production fournis aux studios. La MLP et les PLP ont donné l’apparence d’un fonds de roulement au moyen d’une série de « prêts d’un jour » circulaires. En fait, il n’y avait pas de fonds de roulement.
+12. Les promoteurs ont veillé à ce que toute dette présumée des investisseurs, à part l’argent comptant qu’ils avaient réellement versé, soit éliminée en intégrant dans le stratagème de création de pertes fiscales l’acquisition obligatoire, par les studios, de parts de catégorie B des PLP. Cette acquisition était conçue pour réduire le risque de perte auquel s’exposaient les investisseurs.
+13. Les parts acquises par les investisseurs n’étaient pas de véritables parts de société en commandite en ce sens qu’elles étaient conçues pour être sans valeur, ce que savaient les studios, les promoteurs et les investisseurs. Le stratagème était conçu pour profiter aux investisseurs qui achetaient des pertes fiscales, aux promoteurs qui touchaient des honoraires pour organiser ces achats, ainsi qu’aux studios qui touchaient une prime pour la location de leurs dépenses. Le stratagème de création de pertes fiscales n’était pas conçu pour produire un bénéfice au sein de la MLP ou des PLP.
+14. Les opérations formant le stratagème de création de pertes fiscales étaient conçues pour donner l’apparence de personnes exploitant une entreprise en commun en vue de réaliser un bénéfice, alors que la véritable relation était nettement différente. La véritable relation des parties était simplement la location de dépenses, ce qui ne donne pas lieu à une perte fiscale déductible.
+15. L’unique intention de la MLP, des PLP et des associés de la MLP et des PLP était de créer des pertes au moyen d’une série complexe d’opérations circulaires, et non d’exploiter une entreprise en commun en vue de réaliser un bénéfice. ]
+Annexe « D »
+Survol et paragraphes 2 à 15 (« Sommaire du stratagème de création de pertes fiscales ») figurant dans la réponse concernant Robert C. Strother
+[traduction]
+Survol
+[ Les U.S. Motion Picture Studios (les « studios ») ont supporté des dépenses de production dans l’exploitation d’une entreprise de réalisation de films. Des promoteurs d’abris fiscaux canadiens ont loué ces dépenses. Cependant, la location de dépenses ne donne pas lieu à une déduction ou à une perte recevable au Canada.
+Les studios et les promoteurs canadiens, ou leurs représentants désignés respectifs, ont censément effectué une série d’opérations circulaires complexes, conçues pour permettre aux promoteurs et à leurs clients de faire indirectement ce qu’ils ne pouvaient pas faire directement. Cependant, les studios et les promoteurs n’ont pas traité les « opérations » comme si elles étaient véritables et ont simplement fait abstraction des présumés droits et obligations qu’ils étaient tenus de respecter pour réaliser leurs intentions réelles. Les « opérations » étaient conçues pour donner une apparence différente de la réalité qu’elles servaient à masquer. La véritable nature de la relation entre les studios et les promoteurs était tout simplement la suivante : les studios ont loué aux promoteurs une partie de leurs dépenses.
+Ni Sentinel Hill 1998 Master Limited Partnership (la « MLP ») ni aucune des 73 Production Limited Partnerships (les « PLP ») dans lesquelles la MLP « a investi » étaient des sociétés de personnes en droit. Bien qu’elles aient été conçues pour donner l’impression de posséder les caractéristiques juridiques d’une société de personnes, la MLP et les PLP étaient dénuées de l’élément essentiel consistant à exploiter une entreprise en commun en vue de réaliser un bénéfice. Au contraire, la seule fin de la MLP et des PLP était de créer des pertes fiscales dont les associés pouvaient se servir.
+De plus, dans l’année d’imposition 1999, l’appelant a reçu un paiement incitatif en vue d’acheter des parts de la MLP. L’appelant qualifie de manière inexacte ce paiement de remise et de rentrée de capital.
+À la suite d’une opposition, le ministre a conclu que la nouvelle cotisation qu’il avait établie à l’égard des années d’imposition 1998 et 1999 avaient été trop généreuse, car la MLP et les PLP n’avaient jamais été des sociétés de personnes et que, de ce fait, on n’aurait dû ne permettre aucune perte à l’appelant. Dans sa confirmation, le ministre n’a pas réduit les pertes de l’appelant mais a simplement confirmé que les pertes, s’il y en avait, n’excédaient pas celles qui faisaient l’objet de la nouvelle cotisation.
+Si les opérations étaient véritables et si la MLP et les PLP étaient bel et bien des sociétés de personnes valides en droit, le ministre a néanmoins eu raison de conclure que l’appelant n’était pas parvenu à démontrer que les pertes subies, s’il y en avait, excédaient les montants autorisés pour l’établissement de la nouvelle cotisation ou qu’elles étaient raisonnables dans les circonstances. ]
+[ Le sommaire du stratagème de création de pertes fiscales
+2. Les studios ont supporté des dépenses dans la production de films. Moyennant rétribution, ils ont convenu de louer une partie de leurs dépenses de production à des promoteurs canadiens, qui les ont annoncées au Canada à titre de dépenses déductibles au moyen d’abris fiscaux.
+3. Les promoteurs et les studios ont censément effectué une série d’opérations circulaires complexes (collectivement appelées le « stratagème de création de pertes fiscales »), qui étaient conçues pour permettre aux promoteurs et à leurs clients de faire indirectement ce qu’ils ne pouvaient pas faire directement : déduire les pertes découlant d’une simple location de dépenses. Une partie ou la totalité des opérations formant ce stratagème de création de pertes fiscales étaient des opérations fictives, incomplètes ou sans effet sur le plan juridique. Par exemple, au moment où les contrats relatifs aux services de production ont été signés, les studios avaient déjà supporté une partie où la totalité des dépenses elles‑mêmes et fourni une partie ou la totalité des mêmes services que les PLP s’étaient engagées par contrat à fournir. Dans certains cas, les services de production étaient déjà tout à fait terminés.
+4. Pour mener à bien le stratagème de création de pertes fiscales, les promoteurs ont créé la MLP, dont l’objet était de faire l’acquisition de parts de catégorie A des PLP. Ces dernières s’engageaient par contrat à fournir des services de production cinématographique.
+5. Les studios se sont engagés par contrat avec les THC à produire des films. Les THC ont conclu des contrats avec les PLP pour fournir les services de production. Les PLP ont conclu de nouveau des contrats avec les studios, et les studios ont fourni les services au prix coûtant, plus une majoration.
+6. Pour créer les pertes fiscales, chacune des PLP a convenu de fournir les services de production aux THC moyennant des frais fixés à 80,1 % seulement du coût des services. Les PLP ont fixé ces frais à 80,1 % du coût sans aucune négociation, contrairement aux normes de l’industrie et sans aucune raison d’ordre économique. Les PLP ont choisi le chiffre de 80,1 % afin d’essayer d’éviter les règles relatives aux dépenses à rattacher aux produits dont il est question à l’article 18.1 de la Loi de l’impôt sur le revenu, tout en maximisant les pertes créées.
+7. Les PLP se sont donc engagées à fournir les services de production aux THC à 80,1 % de leur coût, tout en convenant de payer aux studios ce coût, plus une majoration, en vue de fournir les mêmes services. Pour surmonter cette perte garantie et donner l’apparence d’une possibilité de bénéfices, les contrats relatifs aux services de production des PLP comportaient une clause de participation au bénéfice net, ou clause de PBN.
+8. Tout en donnant l’apparence d’une possibilité de bénéfice, les participations au bénéfice net étaient structurées pour être sans valeur, et, en réalité, elles n’en avaient aucune. Il n’y avait aucune possibilité que les PLP tirent un montant quelconque de la participation au bénéfice net, et encore moins qu’elles produisent un bénéfice. Les participations au bénéfice net étaient tout au plus un simple camouflage.
+9. Les clients des promoteurs – les investisseurs résidant au Canada, dont l’appelant – ont acquis des parts dans la MLP, et cette dernière a réparti entre les investisseurs les pertes créées dans les PLP.
+10. Les investisseurs ont acquis des parts de la MLP grâce à des ententes de financement qui étaient aussi circulaires que les contrats relatifs aux services de production et qui garantissaient qu’aucuns fonds, à part leurs paiements comptants réels, ne seraient jamais à risque.
+11. L’argent comptant versé par les investisseurs en vue d’acquérir des parts de la MLP a servi à payer les frais des promoteurs, des studios d’accommodement et d’autres « accommodateurs », et non les services de production fournis aux THC. La MLP et les PLP ont donné l’apparence d’un fonds de roulement au moyen d’une série de « prêts d’un jour » circulaires. En fait, il n’y avait pas de fonds de roulement.
+12. Les promoteurs ont veillé à ce que toute dette présumée des investisseurs, à part l’argent comptant qu’ils avaient réellement versé, soit éliminée en intégrant dans le stratagème de création de pertes fiscales des « options » en faveur des studios. Ces « options » étaient des opérations fictives conçues pour induire en erreur l’ARC quant à la nature véritable des opérations. Ces « options » étaient conçues pour limiter le montant à risque des investisseurs. Les « options » n’étaient pas facultatives. Les parties ont plutôt considéré les « options » comme obligatoires de façon à pouvoir s’acquitter de l’entente réelle consistant à louer les dépenses des studios.
+13. Les parts acquises par les investisseurs n’étaient pas de véritables parts de société en commandite. Les studios, les promoteurs et les investisseurs savaient qu’elles étaient sans valeur. Le stratagème était conçu pour profiter aux investisseurs qui achetaient des pertes fiscales, aux promoteurs qui touchaient des honoraires pour organiser ces achats, ainsi qu’aux studios qui touchaient une prime pour la location de leurs dépenses. Le stratagème de création de pertes fiscales n’était pas conçu pour produire un bénéfice au sein de la MLP ou des PLP.
+14. Les opérations formant le stratagème de création de pertes fiscales étaient conçues pour donner l’apparence d’une société de personnes véritable exploitant une entreprise en vue de réaliser un bénéfice, alors que la véritable relation était nettement différente. La véritable relation des parties était simplement la location de dépenses, ce qui ne donne pas lieu à une perte fiscale déductible.
+15. Étant donné que l’intention des associés de la MLP et des PLP était de créer des pertes au moyen d’une série complexe d’opérations circulaires, et non d’exploiter une entreprise en commun en vue de réaliser un bénéfice. La MLP et les PLP n’étaient pas des sociétés de personnes valides en droit. ]
+RÉFÉRENCE :
+2011 CCI 251
+NOS DES DOSSIERS DE LA COUR :
+2007‑329(IT)G, 2009‑2247(IT)G et 2009‑2248(IT)G
+INTITULÉS :
+ROBERT STROTHER c. LA REINE
+SENTINEL HILL PRODUCTIONS IV CORPORATION, EN SA QUALITÉ D’ASSOCIÉE DÉSIGNÉE DE SENTINEL HILL NO. 207 LIMITED PARTNERSHIP c. LA REINE
+SENTINEL HILL PRODUCTIONS IV CORPORATION, EN SA QUALITÉ D’ASSOCIÉE DÉSIGNÉE DE SHAAE (2001) MASTER LIMITED PARTNERSHIP c. LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE
+Le 22 septembre 2010
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge en chef Gerald J. Rip
+DATE DE L’ORDONNANCE :
+Le 12 mai 2011
+COMPARUTIONS :
+Avocats des appelants :
+Me Warren J.A. Mitchell
+Me David Davies
+Avocats de l’intimée :
+Me John Shipley
+Me Robert Carvalho
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Warren J.A. Mitchell
+Cabinet :
+Thorsteinssons
+Vancouver (Colombie-Britannique)
+Pour l’intimée :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] En effectuant les déterminations dans les appels de M. Strother ainsi que dans ceux de SHAAE et de Hill No. 207, le ministre a tenu pour acquis qu’il existait une société de personnes. La principale différence dans ces appels semble être qu’en confirmant la détermination relative à M. Strother, le ministre a nié qu’il existait une telle société. Toutefois, comme les appels de SHAAE et de Hill No. 207 ont été déposés 180 jours après les déterminations et avant que celles-ci soient confirmées, ce n’est que dans les réponses que l’intimée a nié l’existence des sociétés de personnes que le ministre avait tenues pour acquises au moment d’effectuer les déterminations. Les avocats des appelants ont laissé entendre que, dans les appels de SHAAE et de Hill No. 207, le ministre interjette appel à l’encontre de ses propres déterminations. Ce point n’a pas été débattu et il ne m’est pas soumis à ce stade-ci.
+[2] 1) Annexer chacune des réponses aux avis d’appel ajouterait plus d’une centaine de pages aux présents motifs. J’ai donc établi cinq annexes (A, B, C, D et E) aux présents motifs :
+a) L’annexe A comporte les dispositions de la réponse donnée dans l’appel de SHAAE que l’appelante souhaite voir radiées. Les numéros de disposition et le contenu de cette réponse sont identiques à ceux de la réponse concernant Hill No. 207 et semblables à ceux de la réponse concernant M. Strother. (Les différences entre les numéros des dispositions sont signalées dans les présents motifs.)
+b) À l’annexe B, une colonne intitulée [traduction] « Passages de la réponse pertinente que l’appelante souhaite voir radiés (passages entre crochets de la réponse pertinente ») se passe d’explications. Une autre colonne indique au lecteur si le passage contesté est radié ou non. La section 1 de l’annexe B décrit les passages contestés qui figurent dans les réponses concernant SHAAE et Hill No. 207, et la section 2 de cette même annexe décrit ceux qui figurent dans la réponse concernant Robert Strother. Les passages des réponses qui sont encadrés par des guillemets sont décrits dans les présents motifs.
+c) Les annexes C et D comprennent la section intitulée [traduction] « Survol » ainsi que les paragraphes 2 à 15, inclusivement, des réponses concernant Hill No. 207 et M. Strother, respectivement, qui sont contestés.
+2) Il est à noter que, dans les requêtes de Hill No. 207 et de SHAAE, les appelantes demandent que les alinéas 1i), 1k) et 1(l) ainsi que le paragraphe 19 des réponses soient radiés pour plus d’une raison. M. Strother demande que les alinéas 1e), 1f ) et 1g), ainsi que les paragraphes 20, 26 et 29 soient radiés pour plus d’une raison.
+[3] Bien que l’intimée ait offert quelques concessions relativement à l’appel de M. Strother, l’offre consistait à changer le passage [traduction] « n’étaient pas des sociétés de personnes valides en droit » pour [traduction] « n’ont pas exploité une entreprise en commun en vue de réaliser un bénéfice » dans plusieurs paragraphes de la réponse. Les appelants n’ont pas accepté l’offre de l’intimée.
+[4] Vogo Inc c. Acme Window Hardware Ltd, 2004 CF 851, au paragraphe 60.
+[5] Voir également Imperial Oil Limited et Inco Limited c La Reine, 2003 CCI 46; GCC Ltd v Thunder Bay, (1981), 32 OR (2d) 111 (HC); Garry D. Watson et Lynne Jeffrey, Holmsted et Watson, Ontario Civil Procedure, (Carswell), volume 3, p. 2‑20.
+[6] Imperial Oil, précitée à la note 3, paragraphe 20.
+[7] 2007 CCI 201, [2007] A.C.I. no 99 (QL).
+[8] 2003 CAF 294, aux paragraphes 25 et 26.
+[9] Règles de procédure civile, RRO 1990, Règlement 194, paragraphe 25.06(2); Supreme Court Civil Rules, BC Reg 168/2009, r 3-7(9); Règles des Cours fédérales, DORS/98-106, article 175.
+[10] Will-Kare Paving & Contracting Ltd c. La Reine, 2000 CSC 36, au paragraphe 31, [2000] 1 RCS 915.
+[11] Canada (Directeur des enquêtes et recherches) c Southam Inc., [1997] 1 RCS 748, au paragraphe 35.
+[12] 2010 CCI 94, au paragraphe 11; voir également Cameco Corporation c. La Reine, 2010 CCI 636, aux paragraphes 40 et 41.
+[13] Backman c. La Reine, 2001 CSC 10, aux paragraphes 25 et 26, [2001] 1 RCS 367.
+[14] Le paragraphe 24 de l’appel de SHAAE et le paragraphe 25 de l’appel de Hill No. 207.
+[15] [1967] 1 All ER 518, p. 529.
+[16] Le paragraphe 24 de l’appel de SHAAE et le paragraphe 25 de l’appel de Hill No. 207.
+[17] 2002 CSC 46, au paragraphe 50, [2002] 2 RCS 645.
+[18] Ibidem, au paragraphe 55.
+[19] 2007 CCI 659, au paragraphe 34, 2008 DTC 2450, [2008] 4 CTC 2242.
+[20] [2008] O.J. No. 4512 (QL).
+[21] Ibidem, au paragraphe 31.
+[22] Ibidem, au paragraphe 40.
+[23] Foss, précitée à la note 6, au paragraphe 6; voir aussi Globtek Inc c. La Reine, 2005 CCI 727, aux paragraphes 5 et 13.
+[24] Duffett v. Canada (AG) 2004 NLSCTD 58, au paragraphe 23, 235 Nfld & P.E.I.R. 321.
+[25] Cet article est identique à l’article 53 des Règles.
+[26] Robinson v. Medtronic Inc, 2010 ONSC 1739, au paragraphe 19.
+[27] 2005 CCI 556, 2005 DTC 1311.
+[28] Ibidem, aux paragraphes 11 et 12.
+[29] Le paragraphe 24 de l’appel de SHAAE et le paragraphe 25 de l’appel de Hill No. 207.
+[30] 85 ACWS (3d) 761, 1999 CarswellOnt 5285, au paragraphe 33.
+[31] Ibidem, au paragraphe 34.
+[32] [2000] O.J. No 1762 (QL), au paragraphe 20.
+[33] Quizno’s Canada Restaurant Corp. v Kileel Developments Ltd, (2008) 92 O.R. (3d) 347 (CA); Ontario (A.G.) v Dieleman (1993), 14 OR (3d) 697 (Division générale); Erinco Homes Ltd, (Re) [1977] O.J. No. 1415 (QL) (Haute Cour de justice de l’Ontario).
+[34] (1991) 3 O.R. (3d) 684, à la page 687.
+[35] Le passage n’est pas encerclé par l’appelant, mais je soupçonne qu’il s’agit d’un oubli.

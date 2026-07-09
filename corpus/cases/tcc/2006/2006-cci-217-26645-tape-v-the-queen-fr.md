@@ -1,0 +1,162 @@
+---
+title: "Tape v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26645/index.do"
+last_modified: "2006-04-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 217"
+citation2: ""
+neutral_citation: "2006 CCI 217"
+decision_date: "2006-04-04"
+language: "fr"
+item_id: "26645"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3623
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:43:54.861000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eb03dfc090003d2189855e80d056f777cbb34f678915841d496d1f08eed3a0d8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tape v. The Queen
+
+- Citation: 2006 CCI 217
+- Decision date: 2006-04-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3623, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tape v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-04
+Référence neutre
+2006 CCI 217
+Numéro de dossier
+2005-3832(IT)I
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+No de dossier : 2005-3832(IT)I
+ENTRE :
+STEPHEN R. TAPE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus à Ottawa (Ontario), le 28 mars 2006.
+Devant : M. le juge J.E. Hershfield
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Nicolas Simard
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2001 et 2002 sont admis avec dépens et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 4e jour d’avril 2006.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 6e jour de juin 2007.
+Maurice Audet, réviseur
+Référence : 2006CCI217
+Date : 20060404
+No de dossier : 2005-3832(IT)I
+ENTRE :
+STEPHEN R. TAPE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hershfield
+[1] Il s’agit d’un appel concernant les années d’imposition 2001 et 2002 de l’appelant.
+[2] Au cours de ces années, l’appelant a payé une pension alimentaire pour enfants s’élevant en tout à 8 211 $ pour l’année 2001 et à 8 268 $ pour 2002.
+[3] L’appelant a témoigné pour son propre compte et l’intimée a cité l’ex‑épouse de l’appelant, qui a reçu la pension alimentaire pour le compte de l’enfant issu de leur mariage.
+[4] Selon l’appelant, la pension alimentaire pour enfants a été payée conformément au procès‑verbal de règlement déposé devant la Cour de l’Ontario (Division générale) en 1993. Conformément au procès‑verbal, l’appelant était tenu de payer un montant mensuel de 600 $ à son ex‑épouse pour subvenir aux besoins de l’enfant, ce montant devant augmenter chaque année, par suite d’un rajustement pour le coût de la vie, en fonction du taux d’augmentation indiqué dans l’indice des prix à la consommation (« IPC ») publié pour l’année antérieure. Si c’est le cas, les paiements sont déductibles en vertu de l’alinéa 60b) de la Loi de l’impôt sur le revenu (la « Loi »).
+[5] L’intimée soutient que les paiements ont été effectués conformément à un jugement de cette même cour, prononcé en décembre 1997. Dans ce jugement, il était également ordonné de payer un montant mensuel de 600 $ pour subvenir aux besoins de l’enfant issu du mariage. Le montant de la pension alimentaire ne semble pas avoir été modifié, mais l’intimée prend la position selon laquelle il y a néanmoins eu modification étant donné que le jugement de 1997 ne comprenait pas le rajustement annuel en fonction de l’IPC. Si c’est le cas, les paiements ne sont pas déductibles en vertu de l’alinéa 60b) étant donné que la « date d’exécution » tomberait en décembre 1997 selon la définition figurant au paragraphe 56.1(4) de la Loi. Lorsqu’il existe une « date d’exécution », la pension alimentaire pour enfants cesse d’être déductible entre les mains du payeur et ce montant n’est pas imposable entre les mains du bénéficiaire. Tel est le « nouveau » régime fiscal qui a été mis en vigueur en mai 1997.
+[6] L’appelant croyait que le jugement de 1997 ne visait pas à modifier le montant de la pension alimentaire qui était payable et il soutient qu’il ne faudrait pas considérer qu’il en est ainsi.
+[7] L’appelant a présenté une preuve tendant à étayer son point de vue. Une bonne partie de la preuve se rapportait au contexte dans lequel l’ex‑épouse de l’appelant a été amenée à présenter une requête à la Cour de l’Ontario à l’égard du jugement de 1997.
+[8] Dans un affidavit qu’elle a établi en sa qualité de requérante dans l’instance du mois de décembre 1997, l’ex‑épouse a informé la Cour de l’Ontario que le procès‑verbal de règlement n’avait jamais été consigné dans une ordonnance judiciaire même s’il réglait toutes les questions l’opposant à l’appelant[1]. Le début du procès‑verbal de règlement stipule qu’il est établi [traduction] « sous réserve de l’approbation de la Cour ». Si le procès‑verbal de règlement n’avait jamais été consigné dans une ordonnance judiciaire, l’approbation de la Cour de l’Ontario n’a probablement jamais été obtenue et il ne s’agissait donc pas d’un accord obligatoire. De fait, il semble que telle était la position prise par le Bureau des obligations familiales (service du gouvernement provincial, responsable de l’exécution des contrats familiaux). En fait, le Bureau des obligations familiales a refusé d’assurer l’exécution des conditions du procès‑verbal de règlement tant que la Cour de l’Ontario n’aurait pas donné son approbation.
+[9] L’affidavit indique ensuite que le procès‑verbal de règlement avait été suivi, à une exception près. Cette exception touchait l’accès à l’enfant pendant le congé du temps des Fêtes. Pour incorporer la pratique réellement suivie par les parties après avoir établi le procès‑verbal de règlement, l’ex‑épouse de l’appelant a présenté une requête en vue d’obtenir une ordonnance modifiant le procès‑verbal de règlement en ce qui touchait [traduction] « uniquement l’accès pour Noël ». La demande de modification est énoncée au paragraphe 11 de l’affidavit de l’ex‑épouse :
+[Traduction] Je sollicite une ordonnance de la présente cour modifiant le procès‑verbal de règlement en ce qui touche uniquement l’accès pour Noël, de façon que le libellé de l’ordonnance soit conforme à la pratique réellement suivie par Stephen Tape et par moi‑même depuis quatre ans. Je sollicite en outre une ordonnance de la présente cour pour qu’elle rende un jugement conforme au procès‑verbal de règlement signé en mars 1993, là où il est question de la pension alimentaire pour enfants. [Je souligne.]
+[10] Quant à la requête que la requérante a présentée à la Cour de l’Ontario, elle visait l’obtention d’un jugement conforme au procès‑verbal de règlement :
+[Traduction] LA REQUÊTE VISE :
+l’obtention d’un jugement qui serait conforme au procès‑verbal de règlement signé par les parties et modifié sur consentement depuis quatre ans, dans la mesure où ce procès‑verbal s’applique à l’accès pendant le congé du temps des Fêtes.
+Les moyens sur lesquels la requête est fondée sont énoncés comme suit :
+[Traduction] LES MOYENS INVOQUÉS À L’APPUI DE LA REQUÊTE SONT LES SUIVANTS :
+1. La requérante Anne Beach Tape n’a pu déposer son ordonnance auprès du Bureau des obligations familiales, afin d’assurer son exécution, à cause du libellé figurant au début de ce procès‑verbal.
+2. Il n’y a entre les parties aucune question non réglée qui n’a pas été traitée dans le procès‑verbal de règlement.
+[11] Compte tenu des observations qui ont été présentées à la Cour de l’Ontario, il n’y a clairement aucune indication que l’on cherchait à faire modifier la pension alimentaire pour enfants.
+[12] De plus, l’appelant a attiré l’attention de la Cour sur le fait que son ex‑épouse avait demandé, au moyen d’une requête présentée en 2004, une ordonnance en vue d’obtenir une pension alimentaire au profit de leur enfant conformément aux Lignes directrices fédérales sur les pensions alimentaires pour enfants. Une ordonnance a ensuite été rendue, prévoyant qu’à compter du 1er septembre 2004, la pension alimentaire pour enfants s’élèverait à 604 $[2]. Comme il en sera fait mention ci‑dessous, cela a entraîné une baisse des paiements mensuels, ce qui donne à entendre que l’ex‑épouse de l’appelant n’aurait pas demandé une pension alimentaire pour enfants selon les lignes directrices sur les pensions alimentaires pour enfants en sachant que la chose entraînerait une diminution des paiements mensuels, si elle n’avait pas cru qu’il serait avantageux pour elle de le faire compte tenu de l’application des dispositions du nouveau régime fiscal à de tels paiements.
+[13] L’ex‑épouse de l’appelant a également signé un affidavit à l’égard de l’instance de 2004. Dans cet affidavit, l’ex‑épouse reconnaît que, depuis le jugement de 1997, l’appelant a versé un montant mensuel de 600 $ [traduction] « indexé ». De fait, elle a à nouveau reconnu la chose à l’audience et elle a également reconnu que l’appelant avait toujours honoré l’obligation qui lui incombait en vertu du procès‑verbal de règlement sur cette base depuis que le procès‑verbal de règlement fixait ces montants sur cette base. Avant et après le jugement de 1997, dans lequel il n’était pas expressément fait mention des augmentations basées sur l’IPC, l’ex‑épouse a accepté les paiements plus élevés comme étant ceux auxquels elle avait droit. De fait, le jugement de 1997 prévoyait un mécanisme selon lequel les paiements étaient effectués d’avance sous forme de chèques postdatés. Les propres aveux de l’ex‑épouse confirment que ces chèques se rapportaient à des montants indexés depuis 1993 et non au montant de 600 $ qui, selon l’intimée, était le montant modifié qui était payable en vertu du jugement de 1997. L’ensemble de la preuve étaye la conclusion selon laquelle les parties pensaient, et je crois donc qu’il faut dire qu’elles voulaient, que le jugement de 1997 ne modifie pas l’obligation de payer la pension alimentaire mensuelle pour enfants de 600 $ indexée chaque année en fonction de l’IPC.
+[14] Puisque j’ai tiré cette conclusion, il faut examiner un aspect paradoxal du témoignage de l’ex‑épouse. En effet, l’ex‑épouse a admis qu’elle croyait avoir droit aux montants indexés en vertu du jugement de 1997 conformément au procès‑verbal de règlement, mais elle a affirmé avec insistance qu’en présentant une requête à la cour en 1997, elle voulait assujettir la pension alimentaire pour enfants au nouveau régime fiscal. L’ex‑épouse a affirmé ne pas savoir pourquoi il n’en était pas fait mention dans la requête, étant donné qu’elle en avait parlé à son avocat, auquel elle s’en remettait. Il semble que l’ex‑épouse ait cru qu’elle pouvait maintenir les paiements au niveau auquel ils avaient été fixés dans le procès‑verbal de règlement de 1993, tout en les assujettissant au nouveau régime fiscal, dans la mesure où elle obtenait une nouvelle ordonnance. Il est clair que c’est ce qu’elle croyait. L’ex‑épouse a déposé sa déclaration de revenus de 1998 et ses déclarations de revenus ultérieures compte tenu du fait que la pension alimentaire pour enfants n’était pas imposable. Dans l’affidavit qu’elle a déposé à l’appui de l’ordonnance de 2004, l’ex‑épouse a expliqué qu’elle voulait obtenir la pension alimentaire pour enfants conformément aux Lignes directrices sur les pensions alimentaires pour enfants parce que Revenu Canada lui avait dit qu’elle se trompait en croyant que les paiements effectués après le jugement de 1997 n’étaient pas imposables en vertu des nouvelles dispositions relatives à la pension alimentaire pour enfants. L’ex‑épouse a demandé la modification de 2004 et le montant mensuel a été ramené, à son détriment, à 604 $, mais elle a assuré sa situation fiscale. En même temps, elle a interjeté appel des cotisations fiscales qui la rendaient redevable du paiement de l’impôt à l’égard de la pension alimentaire pour enfants des années antérieures.
+[15] Le fait que l’épouse de l’appelant s’est protégée en obtenant la modification en 2004 n’est pas pertinent dans le présent appel. Il s’agit encore de savoir s’il y a une « date d’exécution » à l’égard du jugement de 1997. L’intimée a soutenu qu’il y avait eu une modification de la pension alimentaire pour enfants qui était payable étant donné qu’il n’était pas fait mention du facteur d’indexation dans le jugement de 1997 et que, si l’on tient en outre compte du fait que l’ex‑épouse voulait obtenir un jugement l’assujettissant au nouveau régime fiscal en matière de pension alimentaire pour enfants, cela était suffisant pour créer une date d’exécution[3].
+[16] Je ne suis pas d’accord. Quant à la question des intentions, je conclus que l’intention de l’ex‑épouse était de ne pas faire modifier le montant de la pension alimentaire pour enfants. Si elle avait su qu’elle devait faire un changement, l’ex‑épouse aurait peut‑être bien présenté une requête à ce moment‑là en vue d’être régie par les lignes directrices sur les pensions alimentaires pour enfants. Si elle l’avait fait, l’appelant se serait vu imposer une pénalité fiscale, mais les paiements auraient probablement été rajustés. Selon l’appelant, il a été convenu des paiements fixés dans le procès‑verbal de règlement en tenant compte du fait qu’ils étaient déductibles. Quoi qu’il en soit, en ne contestant apparemment pas la requête de 1997, l’appelant avait l’intention de ne pas accepter de changement au régime fiscal associé à la pension alimentaire pour enfants qu’il versait. Selon la preuve qu’il a présentée, si tel est le résultat du jugement de 1997, l’appelant a été pris à l’improviste parce que, dans la requête, il était question de l’accès à l’enfant et du fait que la requête visait à rendre le procès‑verbal de règlement acceptable pour le Bureau des obligations familiales. Il n’y a rien dans les moyens invoqués à l’appui de la requête, ou dans les motifs mentionnés à l’appui dans l’affidavit de l’ex‑épouse, qui donne à entendre qu’une modification était apportée au montant de la pension alimentaire et ni l’une ni l’autre partie ne croyait qu’une modification était effectuée.
+[17] J’ai examiné les intentions des parties, mais je ne crois pas qu’on puisse leur accorder du poids ou qu’elles soient pertinentes en l’espèce, sauf pour ce qui est d’interpréter l’intention et la portée du jugement de 1997 lui‑même. Les intentions des parties laissent au mieux entrevoir les intentions du juge et ce que le jugement pourrait raisonnablement vouloir dire.
+[18] Je ne suis pas prêt à reconnaître que le jugement de 1997 visait à éliminer la disposition relative à l’indexation. Le procès‑verbal de règlement comporte 59 paragraphes. La disposition se rapportant au paiement d’une pension alimentaire pour enfants de 600 $ par mois figure au paragraphe 24, sous le titre [traduction] « Soutien financier de l’enfant ». Le contenu de ce paragraphe est repris au paragraphe 3 du jugement de 1997, comportant cinq paragraphes. La disposition se rapportant à l’indexation est énoncée au paragraphe 25 du procès‑verbal sous le titre [traduction] « Rajustement en fonction du coût de la vie ». Ni cette disposition ni 58 autres paragraphes environ ne figurent dans le jugement de 1997. On peut se demander si le jugement de 1997 peut être considéré comme annulant toutes les dispositions qui n’y sont pas reprises. Le simple bon sens veut que cela ne puisse tout simplement pas être le cas.
+[19] En outre, je note que, dans le jugement de 1997, il est ordonné à l’appelant de payer 600 $ par mois à compter du 15 janvier 1993. Si l’ordonnance était destinée à annuler le paragraphe relatif à l’indexation, l’appelant aurait pu intenter une action pour deniers détenus à l’égard de la fraction indexée de toutes les sommes payées et reçues, et notamment de tous les paiements effectués avant le prononcé du jugement de 1997.
+[20] Les parties doivent sans aucun doute considérer les dispositions non touchées du procès‑verbal de règlement comme continuant à être exécutoires. Tout ce qui se rapporte à l’instance de 1997 le confirme. La requête visait à [traduction] « faire modifier » le procès‑verbal de règlement. À mon avis, le jugement de 1997 ne change pas les attentes que les parties ont à cet égard. S’il existait une condition quant à la nature obligatoire du contrat, elle a depuis lors été abandonnée en raison de l’exécution de l’obligation.
+[21] Cela m’amène à examiner la décision Beach c. Canada, [2005] A.C.I. no 469. Dans cette affaire‑là, l’appelante était l’ex‑épouse de l’appelant en cause en l’espèce. Comme il en a été fait mention, l’ex‑épouse de l’appelant a interjeté appel des cotisations par lesquelles les montants qu’elle avait reçus au titre de la pension alimentaire pour enfants étaient imposables. L’appel interjeté par l’ex‑épouse a été entendu par la présente cour. Dans cet appel‑là, l’intimée a pris la position selon laquelle le jugement de 1997 ne modifiait pas le montant de la pension alimentaire pour enfants et qu’il ne créait donc pas de date d’exécution. Toutefois, l’intimée a maintenant eu à changer sa position à l’égard du jugement de 1997 étant donné que, dans la décision Beach, la présente cour a conclu que le jugement de 1997 créait de fait une date d’exécution.
+[22] Dans cette affaire‑là, le juge qui a présidé l’instruction ne bénéficiait pas de la preuve soumise par M. Tape : l’intimée ne l’avait pas cité comme témoin.
+[23] Dans le jugement qu’il a rendu à l’audience, le juge qui a présidé l’instruction a exprimé l’avis que le jugement de 1997 était un nouveau jugement, étant donné qu’il n’y était pas fait mention de modifications. Il a également exprimé l’avis que l’ordonnance de 1997 remplaçait le procès‑verbal de règlement au complet.
+[24] Compte tenu de la preuve que j’ai entendue, laquelle le juge qui a présidé l’instruction dans l’affaire Beach n’a pas eu l’occasion d’entendre, je ne puis être d’accord. La requête visait à faire modifier l’accès à l’enfant à Noël et à assurer la participation du Bureau des obligations familiales au besoin. On a cherché à atteindre ce dernier objectif en faisant en sorte que la question de la pension alimentaire soit reprise dans une ordonnance approuvée par la cour. À mon avis, aucune modification du montant de la pension alimentaire n’était envisagée ou n’a été effectuée.
+[25] De plus, dans la décision Beach, le juge qui a présidé l’instruction a avancé un motif subsidiaire justifiant l’octroi des appels interjetés par l’ex‑époux. Il a conclu qu’en vertu du jugement de 1997, l’ex‑époux dans cette affaire‑là, soit l’appelant dans ce cas‑ci, était tenu de payer le montant réduit, à savoir 600 $ par mois, étant donné que le montant payable selon le procès‑verbal de règlement était plus élevé puisqu’il était indexé. Dans ses motifs de jugement, le juge qui a présidé l’instruction a expressément fait remarquer qu’il ne disposait d’aucun élément de preuve au sujet du fait que l’indice du coût de la vie était respecté et accepté par les parties et qu’il n’en tenait pas compte. Le juge a également mis sa pertinence en question, mais cela ne pourrait être le cas que parce que la preuve y afférente n’avait pas été mise à sa disposition. Je suis convaincu de sa pertinence, compte tenu de la preuve présentée à l’audition de l’appel interjeté par l’appelant.
+[26] Somme toute, compte tenu de la preuve que j’ai entendue, je suis convaincu que le jugement de 1997 ne crée pas de « date d’exécution ».
+[27] Par conséquent, les appels sont admis avec dépens.
+Signé à Ottawa, Canada, ce 4e jour d’avril 2006.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 6e jour de juin 2007.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2006CCI217
+No DU DOSSIER DE LA COUR : 2005-3832(IT)I
+INTITULÉ : Stephen R. Tape
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 28 mars 2006
+MOTIFS DU JUGEMENT : M. le juge J.E. Hershfield
+DATE DU JUGEMENT : Le 4 avril 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Nicolas Simard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] À l’audience, j’ai initialement demandé des renseignements additionnels au sujet de la façon dont le procès‑verbal de règlement pouvait être déposé sans que quelque disposition ne soit prise en vue d’assurer son efficacité. J’ai donné à entendre que l’existence d’une ordonnance pourrait influer sur ma décision. Après l’audience, les parties ont été informées que ces renseignements additionnels n’étaient pas nécessaires étant donné que la question de l’existence d’une ordonnance en 1993 n’était pas pertinente aux fins de ma décision.
+[2] Il n’est pas contesté que les paiements prévus par cette ordonnance sont effectués dans le cadre du régime fiscal applicable après le mois d’avril 1998 et qu’ils ne sont donc pas déductibles par l’appelant.
+[3] L’intimée s’est fondée sur les principes généraux énoncés dans l’arrêt Kennedy c. La Reine, 2004 CAF 437, pour confirmer l’avis selon lequel il y a une « date d’exécution » lorsqu’il y a un changement dans le montant de la pension alimentaire pour enfants à payer. L’avocat de l’intimée a également mentionné l’arrêt Dangerfield c. R., 2003 CAF 480, selon lequel les intentions ont une certaine pertinence dans la détermination d’une date d’exécution.

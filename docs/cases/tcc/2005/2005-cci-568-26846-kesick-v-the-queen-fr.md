@@ -1,0 +1,143 @@
+---
+title: "Kesick v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26846/index.do"
+last_modified: "2005-09-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 568"
+citation2: ""
+neutral_citation: "2005 CCI 568"
+decision_date: "2005-09-08"
+language: "fr"
+item_id: "26846"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 652
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:32:59.437000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "711f396261eb306584c80c888a4600c45ec019f1c105b1b091eb5af0f719d43f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kesick v. The Queen
+
+- Citation: 2005 CCI 568
+- Decision date: 2005-09-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 652, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kesick v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-08
+Référence neutre
+2005 CCI 568
+Numéro de dossier
+2005-698(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI568
+Date : 20050908
+Dossier : 2005-698(IT)I
+ENTRE :
+SALLY E. KESICK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Prononcés de vive voix à l’audience le 22 juillet 2005, à Calgary (Alberta).)
+J. Paris
+[1] L’appelante interjette appel d’une nouvelle cotisation établie à son égard pour l’année d’imposition 2001, par laquelle le ministre du Revenu national (le « ministre ») a inclus dans le calcul de son revenu des paiements de pension alimentaire s’établissant à 9 600 $ reçus de son ex‑conjoint, Donald Clifford. Les faits de l’affaire ne sont pas contestés.
+[2] L’appelante et M. Clifford se sont séparés en mai 1995. En vertu de l’ordonnance d’un tribunal en date du 11 décembre 1995, M. Clifford était tenu de payer 400 $ par mois pour subvenir aux besoins des deux enfants issus du mariage.
+[3] M. Clifford a effectué la totalité des paiements de pension alimentaire à l’appelante, en conformité avec l’ordonnance, dont des paiements totalisant 9 600 $ en 2001.
+[4] En juillet 1997, l’appelante et M. Clifford ont signé un formulaire T1157 intitulé « Choix à l’égard de la pension alimentaire pour enfants ».
+[5] Le formulaire de choix T1157 est prescrit par la Loi de l’impôt sur le revenu (la « Loi ») et doit être présenté au ministre lorsque des ex‑conjoints conviennent de considérer les paiements de pension alimentaire effectués conformément à des accords ou ordonnances antérieurs à mai 1997 comme non imposables par le bénéficiaire et non déductibles par le payeur. Ce choix est prévu dans la définition de « date d’exécution » au paragraphe 56.1(4) de la Loi. Faute de choix, les paiements sont évidemment déductibles pour le payeur et imposables pour le bénéficiaire.
+[6] Le formulaire indiquait le nom, le numéro d’assurance sociale, le numéro de téléphone du payeur et du bénéficiaire de la pension, ainsi que le montant des paiements de pension et la date à laquelle les parties avaient décidé d’appliquer le choix.
+[7] L’appelante a déclaré qu’elle avait rempli et signé le formulaire T1157 et que M. Clifford l’avait signé par la suite. La date d’entrée en vigueur du choix initialement consignée dans le formulaire était le 1er juillet 1997. Or, après la signature du formulaire par les deux parties, l’appelante a remplacé cette date par le 1er mai 1997. Elle a indiqué qu’à la relecture du formulaire, il lui était apparu que la date d’entrée en vigueur devait être le 1er mai 1997 et qu’il était donc nécessaire de corriger la date qui avait été inscrite au départ.
+[8] L’appelante a admis qu’elle avait apporté ce changement en l’absence de M. Clifford et à son insu. Elle a ensuite envoyé le formulaire et reçu une lettre de l’Agence des douanes et du revenu du Canada (ADRC) en date du 12 décembre 1997 accusant réception du choix et l’informant qu’à compter du 1er mai 1997, les paiements de pension alimentaire qu’elle recevait de M. Clifford cesseraient d’être imposables pour elle.
+[9] Compte tenu de cette lettre, l’appelante n’a pas inclus dans le calcul de son revenu les paiements subséquents de pension alimentaire pour enfants reçus de M. Clifford.
+[10] M. Clifford a confirmé que la signature sur le formulaire T1157 en question était la sienne, mais il ne se rappelait pas s’il avait lu le formulaire avant de le signer. Il ne se rappelait rien de particulier dans le formulaire, y compris la date d’entrée en vigueur du choix. Il a déclaré qu’il n’avait pas donné son consentement à la modification de la date d’entrée en vigueur du choix par l’appelante après avoir signé le formulaire.
+[11] Au moyen d’un avis de nouvelle cotisation établi à l’égard de l’appelante le 2 septembre 2004, le ministre a inclus dans le calcul de son revenu pour l’année 2001 les paiements de pension alimentaire reçus de M. Clifford, au motif que le choix était invalide.
+[12] Il s’agit pour la Cour de déterminer si la modification unilatérale de la date d’entrée en vigueur du choix par l’appelante sur le formulaire T1157 invalidait le choix.
+[13] D’entrée de jour, il convient de noter que l’intimée a reconnu que l’appelante avait apporté le changement en toute innocence et sans aucune intention frauduleuse. Il est admis que l’appelante a simplement essayé de corriger ce qui lui semblait être une information erronée.
+[14] L’avocat de l’appelante a fait valoir que la modification du formulaire de choix ne constituait pas une altération essentielle et ne devrait pas influer sur la validité du choix. Il a exhorté la Cour à tenir compte de l’intention des parties de mettre le choix en application à compter du 1er juillet 1997 à tout le moins; il a aussi indiqué que le changement n’était pas important au vu de la durée prévue des paiements de pension alimentaire.
+[15] L’avocate de l’intimée a avancé que la modification de la date sur le formulaire de choix constituait un changement important du choix; elle a demandé à la Cour d’appliquer la règle établie dans l’affaire Pigot[1] et de conclure que le choix était invalide.
+[16] La règle établie dans l’affaire Pigot est une règle des contrats; en quelques mots, elle prévoit que le destinaire de la promesse qui modifie un contrat écrit à quelque égard que ce soit ne peut exécuter le contrat contre le promettant. Cette règle vise à préserver l’inviolabilité des documents.
+[17] L’avocate de l’intimée a renvoyé à la décision rendue par la Cour d’appel du Nouveau‑Brunswick dans l’affaire Roynat Ltd. v. Sommerville[2], qui, selon elle, fait autorité au Canada pour ce qui touche la proposition selon laquelle la règle énoncée dans Pigot s’applique même dans les cas où la partie qui a apporté le changement n’agissait pas de manière frauduleuse.
+[18] En terminant, l’avocate a indiqué que tout changement qui modifie la situation juridique des parties par rapport à celle prévue dans le document original ou l’effet juridique du document constitue une altération essentielle pour l’application de la règle. Étant donné que le changement apporté en l’espèce a eu une incidence sur le droit de M. Clifford de demander la déduction des paiements de pension alimentaire pour enfants qu’il a effectués pour les mois et mai et juin 1997, a fait valoir l’avocate, la modification du formulaire de choix par l’appelante constituait une altération essentielle.
+[19] À mon sens, même si le formulaire T1157 constitue un accord entre le bénéficiaire et le payeur de la pension alimentaire pour enfants en ce qui concerne le traitement fiscal des paiements, il me paraît erroné de considérer le choix comme un contrat entre les parties, puisque rien n’indique qu’une quelconque contrepartie est accordée par l’une des parties à l’autre pour exercer le choix.
+[20] Par conséquent, il s’agit de déterminer s’il y a lieu d’appliquer les règles des contrats, telles que celle énoncé dans l’affaire Pigot, à un choix conjoint exercé en vertu de la Loi. Cette règle s’applique dans les cas où une des parties s’emploie à exécuter un contrat contre l’autre.
+[21] Aucun précédent n’a été cité, et je n’en ai trouvé aucun qui indique que les choix conjoints exercés en vertu de la Loi devraient être considérés en droit comme des contrats entre leurs auteurs conjoints. Le choix, pour autant qu’il soit valide, ne peut être exécuté que par le ministre pour établir la dette fiscale des parties conformément aux dispositions de la Loi.
+[22] À mon avis, il s’agit de déterminer en l’espèce si le formulaire de choix T1157 présenté au ministre dans l’affaire qui nous occupe satisfaisait aux exigences de la définition de « date d’exécution » au paragraphe 56.1(4) de la Loi, dont les passages pertinents sont libellés comme suit :
+« date d'exécution » Quant à un accord ou une ordonnance :
+[...]
+b) si l'accord ou l'ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l'accord ou de l'ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+[...]
+[23] Cette disposition indique clairement que tant le payeur que le bénéficiaire doivent préciser la date d’exécution de l’ordonnance dans le choix conjoint et présenter ce choix au ministre. À mon point de vue, c’est le seul sens qui doit être attribué au libellé du texte législatif.
+[24] En l’espèce, les parties se sont entendues pour fixer la date d’exécution au 1er juillet 1997, mais l’appelante a modifié unilatéralement cette date en la remplaçant par le 1er mai 1997. Il s’ensuit que la date indiquée dans le formulaire qui a été présenté au ministre ne peut pas être considérée comme ayant été précisée tant par le payeur que par le bénéficiaire des paiements de pension alimentaire.
+[25] M. Clifford n’était pas au courant du changement apporté ni ne l’avait approuvé. Par conséquent, le formulaire de choix qui a été présenté au ministre ne précisait la date convenue d’application du choix aux paiements de pension alimentaire pour enfants et n’avait pas pour effet de créer une date d’exécution de l’ordonnance datée du 11 décembre 1995 en vertu de laquelle M. Clifford payait la pension alimentaire pour enfants à l’appelante.
+[26] À mon sens, la Cour ne peut pas substituer une autre date (c.‑à‑d. le 1er juillet 1997) à celle insérée par l’appelante après que M. Clifford eut signé le document. La Loi ne lui accorde pas ce pouvoir.
+[27] Dans l’arrêt The Queen v. Adelman[3], la Cour fédérale a déterminé qu’un contribuable qui avait signalé, dans sa déclaration de revenu, son intention d’exercer un certain choix mais qui avait omis de présenter ce choix sur le formulaire prescrit n’avait pas le droit d’en bénéficier. À la page 5379 de cette décision, la Cour fédérale cite le passage suivant de la décision rendue par la Cour suprême de l’Alberta dans l’affaire Re Public Finance Corp. and Edwards Garage Ltd. :
+[traduction] [L]orsque des pouvoirs, droits ou privilèges sont accordés sous réserve du respect de certains règlements ou de certaines formalités, il ne semble ni injuste ni inutile d’exiger qu’il soit essentiel que l’on s’y conforme aux fins de l’acquisition du droit ou du privilège ou du pouvoir en question, et il est en conséquence probable que telle était là l’intention de la législature [...][4]
+[28] Dans l’affaire Adelman, la Cour fédérale poursuit en ces termes :
+[...] Il ne semble ni injuste ni déraisonnable ni d’ailleurs incompatible avec la Loi ou son règlement d’application d’exiger qu’un contribuable se conforme strictement à la procédure prévue par la loi pour l’exercice de ce droit puisque l’exercice du choix influera sur sa situation et sur celle du ministre [...][5]
+[29] Ces observations sont pertinentes en l’espèce.
+[30] Le fait qu’un représentant du ministre ait envoyé une lettre indiquant qu’il acceptait le formulaire de choix n’est pas suffisant pour créer une préclusion en faveur de l’appelante. La question de savoir si le formulaire de choix satisfait aux exigences de la Loi constitue une question de droit, et une préclusion ne peut être considérée comme une assertion de droit faite par un représentant du ministre.
+[31] Pour l’ensemble de ces motifs, je conclus que le formulaire de choix présenté par l’appelante au ministre en 1997 est invalide et que le ministre a inclus à bon droit les paiements de pension alimentaire reçus de M. Clifford dans le calcul du revenu de l’appelante pour l’année d’imposition 2001. L’appel est donc rejeté.
+Signé à Ottawa (Ontario), ce 8e jour de septembre 2005.
+« B. Paris »
+J. Paris
+Traduction certifiée conforme
+ce 26e jour d’octobre 2005
+Ginette Côté, trad. a.
+RÉFÉRENCE : 2005CCI568
+NO DU DOSSIER DE LA COUR : 2005-698(IT)I
+INTITULÉ DE LA CAUSE : SALLY E. KESICK ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : le 22 juillet 2005
+MOTIFS DU JUGEMENT PAR : l’honorable juge B. Paris
+DATE DU JUGEMENT : le 8 septembre 2005
+COMPARUTIONS :
+Avocat de l’appelante :
+Me D.J. Salmon
+Avocat de l’intimée :
+Me Lesley K. Akst
+AVOCATS INSCRITS DU DOSSIER :
+Pour l’appelante :
+Nom : Me D.J. Salmon
+Cabinet : Salmon & Company
+Calgary (Alberta)
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa (Ontario)
+[1] 77 E.R. 1177.
+[2] [1981] N.B.J. n 160, 35 N.B.R. (2d) 236.
+[3] 93 DTC 5376.
+[4] (1957) 22 W.W.R. 312, à la page 317.
+[5] Précitée, note de bas de page 3, à la page 5380.

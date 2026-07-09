@@ -1,0 +1,343 @@
+---
+title: "Grimard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28353/index.do"
+last_modified: "2007-10-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 755"
+citation2: ""
+neutral_citation: "2007 CCI 755"
+decision_date: "2007-10-12"
+language: "fr"
+item_id: "28353"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1938
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:12:10.927000+00:00"
+cases_cited_count: 5
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8a6555a538e3cf5a931499a84add4837064eaf9ae9d80c70f00d788440875640"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Grimard c. La Reine
+
+- Citation: 2007 CCI 755
+- Decision date: 2007-10-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1938, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grimard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-12
+Référence neutre
+2007 CCI 755
+Numéro de dossier
+2006-1438(IT)G
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1438(IT)G
+ENTRE :
+MICHEL GRIMARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 12 octobre 2007, à Sherbrooke (Québec).
+Devant : L'honorable juge Pierre Archambault
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu à l'égard des années d'imposition 1995, 1996, 1997 et 1998 sont rejetés, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 20e jour de décembre 2007.
+« Pierre Archambault »
+Juge Archambault
+Référence : 2007CCI755
+Date : 20071220
+Dossier : 2006-1438(IT)G
+ENTRE :
+MICHEL GRIMARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Archambault
+[1] Monsieur Michel Grimard interjette appel des cotisations établies par le ministre du Revenu national (ministre) à l'égard des années d'imposition 1995, 1996, 1997 et 1998 (période pertinente). Au stade de la vérification, le ministre a refusé toutes les dépenses déduites par monsieur Grimard dans le calcul de son revenu tiré d'une profession, à l'exception des cotisations professionnelles pour les années 1995, 1996 et 1997. Au stade de l’opposition, le ministre a accordé la déduction des cotisations professionnelles pour l'année 1998 ainsi que des frais de congrès pour les années 1995 et 1996. Les dépenses qui font l'objet du litige sont les suivantes :
+Description des dépenses
+1995
+1996
+1997
+1998
+Loyer du bureau
+11 280 $
+11 280 $
+11 280 $
+11 280 $
+« Papeterie », timbres, téléphone, frais du bureau
+1 878 $
+1 803 $
+1 850 $
+1 920 $
+Déplacements
+4 986 $
+5 127 $
+4 943 $
+5 028 $
+[2] Pour justifier le refus de la déduction de ces dépenses, le ministre soutient qu'il s'agit de dépenses engagées dans le but de tirer un revenu d'un emploi et dont la déduction est prohibée en raison de l'application des paragraphes 8(1), (2) et (10) de la Loi de l'impôt sur le revenu (Loi). De façon subsidiaire, même s'il s'agissait de dépenses engagées dans le but de tirer un revenu d'une entreprise, le ministre soutient que ces dépenses n'auraient pas été admissibles en vertu de l'alinéa 18(1)h) de la Loi parce qu'elles représentaient des frais personnels ou de subsistance.
+Contexte factuel
+[3] Monsieur Grimard détient depuis 1981 un certificat de médecin spécialiste en santé communautaire. Cette spécialité recouvre plusieurs domaines, dont la santé publique, la santé environnementale et la santé au travail. Il détient d'ailleurs des diplômes de deuxième et troisième cycle dans les domaines de la biophysique et de la physiologie appliquées aux effets de l'environnement sur la santé humaine.
+[4] Monsieur Grimard a travaillé comme assesseur médical pour la Commission d'appel en matière de lésions professionnelles (CALP) de 1991 à 1998 et pour la Commission des lésions professionnelles (CLP) jusqu'à 1999. La CLP a hérité des attributions et des responsabilités de la CALP en 1998. La CALP et la CLP (Commission) sont des tribunaux administratifs appelés à trancher les litiges reliés aux décisions de la Commission de la santé et de la sécurité du travail (CSST). Selon l’article 368 de la Loi sur les accidents de travail et les maladies professionnelles (LATMP) telle qu'elle était rédigée à l'époque en cause, la Commission était composée d'au moins 12 commissaires, dont un président nommé par le gouvernement pour un mandat n'excédant pas cinq ans (article 358 LATMP). Le président était responsable de l'administration et de la direction générale de la Commission (article 377 LATMP). Il pouvait nommer des assesseurs à plein temps qui avaient pour fonction de conseiller les commissaires et de siéger auprès d'eux (l'article 378 LATMP). Il pouvait également nommer « pour la bonne expédition des affaires de la Commission » des assesseurs à vacation ou à titre temporaire et déterminer leurs honoraires (article 380 LATMP). Selon le deuxième alinéa de l'article 380, ces assesseurs n'étaient pas « membres du personnel » de la Commission.
+[5] De façon générale, les services de monsieur Grimard étaient fournis aux termes d'un contrat écrit à durée déterminée, généralement de deux ans. Le premier contrat couvrait la période du 15 avril 1991 au 14 avril 1993. Voici ce que stipule le contrat[1] en vigueur au début de la période pertinente et daté du 8 novembre 1993 :
+CONTRAT
+ENTRE :
+La Commission d'appel en matière de lésions
+professionnelles ayant son siège social au 900,
+place d'Youville, Québec (Québec) G1R 3P7,
+ici agissante et représentée par monsieur
+Freddy Henderson, président,
+(ci‑après appelée la « Commission d'appel ») :
+ET :
+Monsieur Michel Grimard, médecin spécialiste, résidant au [. . .],
+Sherbrooke (Québec) J1H 3R5,
+(ci-après appelé le « contractant ») :
+ATTENDU QUE la Commission d’appel en matière de lésions professionnelles a retenu les services professionnels du contractant aux termes d’un premier contrat écrit couvrant la période du 15 avril 1991 au 14 avril 1993 inclusivement.
+[...]
+ATTENDU QUE les parties ratifient par la présente le contrat verbal intervenu entre elles pour la période du 15 avril 1993 au 15 septembre 1993.
+LES PARTIES CONVIENNENT DE CE QUI SUIT :
+1. OBJET DU CONTRAT
+La Commission d’appel retient les services professionnels du contractant qui accepte de fournir ses services auprès de la Commission d’appel aux fins d’agir comme assesseur médical en vertu de la Loi sur les accidents du travail et les maladies professionnelles (L.R.Q. c. A-3.001) et ce, conformément au présent contrat.
+Le contractant s’engage à fournir ses services professionnels en exclusivité à la Commission d’appel dans toute matière ou cas relevant de la Loi sur les accidents du travail et les maladies professionnelles et de la Loi sur la santé et la sécurité du travail (L.R.Q. c. S-2.1).
+2. OBLIGATIONS DU CONTRACTANT
+Le contractant s’engage à :
+a) assurer le traitement professionnel des dossiers qui lui sont confiés et, plus particulièrement, mais sans restreindre la généralité de ce qui précède, étudier et analyser les dossiers selon ses connaissances et ses habiletés professionnelles;
+b) conseiller le commissaire responsable du dossier;
+c) siéger auprès du commissaire lors de l’audition d’un appel et, s’il y a lieu, lors d’une rencontre préliminaire;
+d) effectuer des recherches spécifiques en fonction de certains contenus et problématiques de son champ de compétence;
+e) élaborer des documents de référence pour son secteur d’activités;
+3. DURÉE
+Le présent contrat a effet à compter du 16 septembre 1993 et se termine le 15 septembre 1995 inclusivement.
+4. RÉMUNÉRATION
+4.1 En contrepartie des services rendus, la Commission d’appel s’engage à verser au contractant une rémunération annuelle de 116 756 $ correspondant à des honoraires professionnels basés sur quarante (40) heures par semaine.
+4.2 Le contractant facturera ses honoraires à tous les quatorze (14) jours et la Commission d’appel s’engage à le payer dès réception de la facture.
+5. JOURS FÉRIÉS ET CHÔMÉS
+Le contractant a droit au paiement des jours fériés et chômés prévus dans la fonction publique.
+6. VACANCES
+À compter de la date de prise d’effet du présent contrat, le contractant a droit à des vacances annuelles à raison d’une journée et deux tiers (1 2/3) par mois de service continu et ce, jusqu’à concurrence de vingt (20) jours ouvrables pour chaque période de douze (12) mois de service continu.
+7. MODIFICATION DES AVANTAGES PRÉVUS AUX CLAUSES 4, 5 ET 6
+La Commission d’appel peut modifier la rémunération ou les avantages prévus aux clauses 4, 5, et 6 pour tenir compte du Décret 1369‑93 concernant la prise de congés sans solde et l’application de mesures de remplacement dans les organismes publics adopté par le Conseil exécutif le 29 septembre 1993.
+La Commission d’appel applique le Décret 1369‑93[2] au contractant de la même façon qu’elle l’applique à son personnel nommé et rémunéré suivant la Loi sur la fonction publique (L.R.Q. F-3.1.1) comme s’il en faisait partie.
+8. FRAIS
+La Commission d’appel s’engage à rembourser au contractant les frais de déplacement et de séjour effectués dans l’exercice de ses fonctions conformément au décret 2500‑83 du 30 novembre 1983 et ses modifications subséquentes.
+9. VÉHICULE AUTOMOBILE
+Le contractant doit posséder un véhicule automobile aux fins de ses déplacements lorsque ses fonctions le requièrent.
+10. CONFLIT D’INTÉRÊT
+Le contractant accepte d’éviter toute situation qui mettrait en conflit son intérêt personnel et l’intérêt de la Commission d’appel à l’exclusion des obligations qui lui incombent en vertu du présent contrat. Si une pareille situation se présente, la Commission pourra, à sa discrétion, résilier le contrat sans délai ni avis.
+11. CARACTÈRE CONFIDENTIEL
+Le contractant s’engage à ne révéler ni ne faire connaître, sans y être dûment autorisé, quoi que ce soit dont il aurait eu connaissance dans l’accomplissement de ses tâches effectuées en vertu du présent contrat.
+12. DROITS D’AUTEUR
+Les travaux réalisés par le contractant suivant le présent contrat et tout produit, document ou outil d’information en découlant deviendront la propriété entière et exclusive de la Commission d’appel.
+Toute cession de droits d’auteur consentie en vertu du présent contrat ou toute renonciation à de tels droits par le contractant en faveur de la Commission d’appel est réputée incluse dans la rémunération prévue à l’article 4.
+13. RÉSILIATION
+Ce contrat peut être résilié par l’une ou l’autre des parties sous réserve d’un préavis de trois (3) mois avant la fin du présent contrat. En cas de résiliation, la Commission d’appel verse au contractant les sommes, frais de déboursés correspondant aux services rendus à la date de résiliation.
+14. AVIS
+Tout avis requis en vertu de ce contrat doit, pour être valide et lier les parties, être donné par écrit et être adressé par poste recommandée auquel cas il sera réputé avoir été reçu le troisième (3e) jour de sa date de mise à la poste. Cet avis peut aussi être livré par huissier ou messager et est réputé reçu le jour de sa livraison.
+[...]
+[Je souligne.][3]
+[6] Tout en reconnaissant que la totalité ou presque de ses revenus provenait de la Commission, monsieur Grimard a indiqué qu'il avait fait de la consultation professionnelle auprès de la Fraternité des ingénieurs de locomotives (Fraternité) (pièce A‑1, onglet 4) et pour des patients réclamant des indemnités d'invalidité auprès de sociétés d'assurance comme la compagnie d'assurance La Mutuelle d'Omaha (pièce A‑1, onglet 2). Monsieur Grimard a toutefois reconnu qu'il pouvait lui arriver de faire ce travail à titre gracieux. En outre, la seule preuve de rémunération pour ses services professionnels produite lors de l'audience a trait à une somme de 683 $ versée le 9 février 1999 pour des services rendus à la Fraternité concernant la « Railway Medical Rules Review » (pièce A‑1, onglet 4). Monsieur Grimard a admis qu'il n'avait jamais facturé à la Régie de l'assurance‑maladie les actes professionnels qu'il avait accomplis à titre de médecin durant la période pertinente[4]. Tous les revenus tirés d'une profession libérale pour les années d’imposition 1995, 1996 et 1997 provenaient de la Commission, comme le révèlent ses déclarations de revenus et les T4A préparés par la Commission[5].
+[7] Comme monsieur Grimard et sa famille résidaient à Sherbrooke et qu'il devait fournir sa prestation de travail en très grande partie à Montréal, il y a loué un appartement qu'il occupait lorsqu'il y travaillait. Il retournait tous les week‑ends à Sherbrooke. Les frais de bureau dont la déduction a été refusée ont trait à cet appartement et les frais de déplacement dont la déduction a été refusée sont ceux pour ses déplacements entre Sherbrooke et Montréal. Quand il devait se rendre à tout autre endroit au Québec dans le cadre de ses fonctions, ses frais lui étaient remboursés par la Commission.
+[8] Lors d'une vérification du ministère du Revenu du Québec (ministère), la Commission a été informée, le 31 mars 1998, que les assesseurs à vacation de la Commission étaient des salariés selon les normes établies en vertu de l'article 1 de la Loi sur le régime de rentes du Québec et qu'il fallait faire les retenues à la source appropriées de façon rétroactive au mois de janvier 1998[6].
+[9] La Commission a accepté cette directive du ministère. Le président de la Commission a par la suite nommé monsieur Grimard « médecin spécialiste occasionnel » à compter du 23 juillet 1998[7]. Par contre, dans la partie du formulaire où il est question des conditions de travail, le statut de salarié indiqué pour monsieur Grimard est celui d'« employé à temps plein »[8]. Selon monsieur Grimard, il ne serait devenu membre du personnel de la Commission qu'à partir de ce moment et il aurait alors reçu une rémunération salariale régulière établie selon la convention collective en vigueur dans la fonction publique. La Commission a également commencé à retenir à la source les montants requis pour les impôts et les cotisations obligatoires perçues sur les salaires des membres de la fonction publique (assurance‑maladie, assurance‑emploi, retenues syndicales, etc.). Elle a rempli le feuillet T4 de monsieur Grimard, sur lequel elle a indiqué un revenu d'emploi de 57 640,71 $ (pièce I‑1, onglet 4). Dans sa déclaration de revenus de 1998, monsieur Grimard a inscrit ce montant comme des revenus tiré d'un emploi. Par contre, il a déclaré les sommes reçues de la Commission en 1998 avant la nomination du 23 juillet 1998, soit 53 702 $, comme des revenus bruts tirés d'un travail indépendant, c'est‑à‑dire d'une profession libérale.
+[10] Par la suite, le ministère a établi de nouveaux avis de cotisation pour les années 1995, 1996 et 1997, refusant à monsieur Grimard toutes les déductions jusque‑là accordées parce qu'on tenait pour acquis que c'était un travailleur autonome, à l’exception de celles pour les cotisations professionnelles. À la suite de l'appel de monsieur Grimard à la Cour du Québec, le juge Raoul Barbe a rendu une décision le 9 juillet 2003 concluant qu'il occupait un emploi auprès de la CALP au cours des trois années d'imposition susmentionnées[9]. Pour rendre cette décision, le juge Barbe a analysé les quatre critères principaux que l'on reconnaît généralement dans la jurisprudence de common law, à savoir le contrôle, la propriété des outils, la possibilité de profits et de pertes et l'intégration du travailleur à l'entreprise. La Cour d'appel du Québec a confirmé cette décision le 23 mars 2005, en concluant non seulement que l'analyse faite par le juge de première instance était minutieuse et sa conclusion juste et que, par conséquent, monsieur Grimard était un salarié, mais également que les dépenses de déplacement et les dépenses pour le local loué à Montréal n'étaient pas admissibles pour réduire son revenu imposable et ne l'auraient pas été, même s'il avait été considéré comme un travailleur autonome. La Cour d'appel du Québec a écrit[10] :
+[...] Le local à Montréal ne constituait pas un bureau, un lieu de travail mais un pied‑à‑terre, une résidence secondaire et des frais de transport entre ces deux résidences ne peuvent être qualifiés de dépenses engagées pour son travail, pour produire un revenu. D'ailleurs, le local loué à Montréal n'a généré aucun revenu additionnel à l'appelant. Tout son revenu provient du travail effectué dans le bureau fourni par la CALP et là où il devait se rendre aux frais de cette dernière.
+[11] Le ministère a informé le ministre de sa conclusion relative au statut des assesseurs à vacation de la Commission. Lors de son témoignage, l'agent des appels du ministre a confirmé qu'il s'était fondé sur la décision de la Cour d'appel du Québec pour prendre sa décision dans le dossier de monsieur Grimard.
+[12] À la suite de la décision du ministère de le traiter, comme tous les autres assesseurs à vacation, comme un salarié et de lui refuser la déduction des coûts de son appartement montréalais et de ses déplacements entre Sherbrooke et Montréal, monsieur Grimard a réalisé qu'il n'avait pas les moyens d'occuper cet emploi à Montréal auprès de la Commission. Il a trouvé un nouvel emploi, auprès de la CSST à Sherbrooke, au cours du printemps 1999.
+Analyse
+[13] La question principale en litige est de savoir si les dispositions restrictives de l'article 8 de la Loi s'appliquent[11] parce que le revenu reçu de la Commission représentait un revenu tiré d'un emploi et non d'une entreprise. Le paragraphe 248(1) définit « emploi » ainsi :
+248(1) Les définitions qui suivent s'appliquent à la présente loi.
+« emploi » Poste qu'occupe un particulier, au service d'une autre personne (y compris Sa Majesté ou un État ou souverain étrangers); « préposé » ou « employé » s'entend de la personne occupant un tel poste.
+[Je souligne]
+[14] En définissant ce qui constitue un « poste [...] au service d'une autre personne », la jurisprudence a considéré généralement qu'il fallait qu'il existe une relation employeur‑employé. (Voir notamment Guérin v. M.N.R., 52 DTC 118 à la p. 120.) Comme la Loi ne définit pas cette relation, il est approprié que l'on se tourne vers la loi régissant la relation contractuelle entre un travailleur et un payeur pour déterminer si la relation employeur‑employé existe. Cette approche est d'ailleurs conforme à l’article 8.1 de la Loi d’interprétation :
+Propriété et droits civils
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s’il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d’assurer l’application d’un texte dans une province, il faut, sauf règle de droit s’y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l’application du texte.
+[Je souligne.]
+[15] Les dispositions législatives québécoises les plus pertinentes pour déterminer l’existence d’une telle relation sont celles du Code civil du Québec (Code civil ou C.c.Q.) concernant le contrat de travail, contrat qui doit être distingué au Québec du contrat de service. Les dispositions en question sont celles des articles 2085, 2086, 2098 et 2099 C.c.Q. :
+Contrat de travail
+2085 Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+2086 Le contrat de travail est à durée déterminée ou indéterminée.
+Contrat d'entreprise ou de service
+2098 Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+2099 L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[Je souligne.]
+[16] Lorsqu'on analyse ces dispositions du Code civil, il en ressort clairement qu'il y a trois conditions essentielles quant à l'existence d'un contrat de travail : i) une prestation de travail fournie par le salarié; ii) une rémunération pour ce travail payée par l'employeur; et iii) un lien de subordination. Ce qui distingue nettement le contrat de service du contrat de travail, c'est l'existence du lien de subordination, c'est‑à‑dire le fait pour l'employeur d'avoir un droit de direction ou de contrôle sur le travailleur.
+[17] Dans la doctrine, les auteurs se sont interrogés sur la notion de droit de « direction ou de contrôle » et son revers, le « lien de subordination ». Voici ce qu'écrit Robert P. Gagnon[12] :
+c) La subordination
+90 — Facteur distinctif — L'élément de qualification du contrat de travail le plus significatif est celui de la subordination du salarié à la personne pour laquelle il travaille. C'est cet élément qui permet de distinguer le contrat de travail d'autres contrats à titre onéreux qui impliquent également une prestation de travail au bénéfice d'une autre personne, moyennant un prix, comme le contrat d'entreprise ou de service régi par les articles 2098 et suivants C.c.Q. Ainsi, alors que l'entrepreneur ou le prestataire de services conserve, selon l'article 2099 C.c.Q., « le libre choix des moyens d'exécution du contrat » et qu'il n'existe entre lui et son client « aucun lien de subordination quant à son exécution », il est caractéristique du contrat de travail, sous réserve de ses termes, que le salarié exécute personnellement le travail convenu sous la direction de l'employeur et dans le cadre établi par ce dernier.
+[...]
+92 — Notion — Historiquement, le droit civil a d'abord élaboré une notion de subordination juridique dite stricte ou classique qui a servi de critère d'application du principe de la responsabilité civile du commettant pour le dommage causé par son préposé dans l'exécution de ses fonctions (art. 1054 C.c.B.‑C.; art. 1463 C.c.Q.). Cette subordination juridique classique était caractérisée par le contrôle immédiat exercé par l'employeur sur l'exécution du travail de l'employé quant à sa nature et à ses modalités. Elle s'est progressivement assouplie pour donner naissance à la notion de subordination juridique au sens large. La diversification et la spécialisation des occupations et des techniques de travail ont, en effet, rendu souvent irréaliste que l'employeur soit en mesure de dicter ou même de surveiller de façon immédiate l'exécution du travail. On en est ainsi venu à assimiler la subordination à la faculté, laissée à celui qu'on reconnaîtra alors comme l'employeur, de déterminer le travail à exécuter, d'encadrer cette exécution et de la contrôler. En renversant la perspective, le salarié sera celui qui accepte de s'intégrer dans le cadre de fonctionnement d'une entreprise pour la faire bénéficier de son travail. En pratique, on recherchera la présence d'un certain nombre d'indices d'encadrement, d'ailleurs susceptibles de varier selon les contextes : présence obligatoire à un lieu de travail, assignation plus ou moins régulière du travail, imposition de règles de conduite ou de comportement, exigence de rapports d'activité, contrôle de la quantité ou de la qualité de la prestation, etc. Le travail à domicile n'exclut pas une telle intégration à l'entreprise.
+[Je souligne.]
+[18] Soulignons que ce qui est la marque d'un contrat de travail, ce n'est pas le fait que la direction ou le contrôle a été exercé effectivement par l'employeur (la notion stricte ou classique), mais le fait qu'il avait le droit de l'exercer (la notion élargie). Dans Gallant c. M.R.N., [1986] A.C.F. no 330 (QL), le juge Pratte de la Cour d'appel fédérale affirme :
+[...] Ce qui est la marque du louage de services, ce n'est pas le contrôle que l'employeur exerce effectivement sur son employé, c'est plutôt le pouvoir que possède l'employeur de contrôler la façon dont l'employé exécute ses fonctions. [...]
+[Je souligne.]
+[19] De plus, dans Groupe Desmarais Pinsonneault & Avard Inc. c. Canada (M.R.N.), 2002 CAF 144, (2002), 291 N.R. 389, le juge Noël écrit :
+5. La question que devait se poser le premier juge était de savoir si la société avait le pouvoir de contrôler l'exécution du travail des travailleurs et non pas si la société exerçait effectivement ce contrôle. Le fait que la société n'ait pas exercé ce contrôle ou le fait que les travailleurs ne s'y soit [sic] pas senti [sic] assujettis lors de l'exécution de leur travail n'a pas pour effet de faire disparaître, réduire ou limiter ce pouvoir d'intervention que la société possède, par le biais de son conseil d'administration.
+[Je souligne.]
+[20] Il faut également ajouter ces commentaires du ministre de la Justice au sujet de l’article 2085 C.c.Q., qui accompagnaient le projet du Code civil et que j’ai cités à la page 2:26 d’un article (mon article) que j’ai écrit et qui est intitulé « Contrat de travail : Pourquoi Wiebe Door Services Ltd. ne s'applique pas au Québec et par quoi on doit le remplacer » [13]:
+L’article reprend la règle édictée à l’article 1665a) C.C.B.C. La définition contenue dans cet article nouveau permet de cerner avec plus de précision la différence entre le contrat de travail et le contrat d’entreprise ou de service. La ligne de démarcation parfois ténue entre ces contrats a suscité des difficultés tant en doctrine qu’en jurisprudence.
+Cette définition indique le caractère essentiellement temporaire du contrat de travail, consacrant ainsi le premier alinéa de l’article 1667 C.C.B.‑C., et met en relief l’attribut principal du contrat de travail : le lien de préposition caractérisé par le pouvoir de contrôle, autre que le contrôle économique, de l’employeur sur le salarié, tant dans la fin recherchée que dans les moyens utilisés. Il importe peu que ce contrôle soit ou non effectivement exercé par son titulaire; il importe peu également que le travail soit matériel ou intellectuel.
+[Je souligne.]
+[21] À mon avis, les règles du Code civil régissant le contrat de travail ne sont pas identiques à celles de la common law et, par conséquent, il n'est pas approprié d'appliquer des décisions de common law comme les arrêts Wiebe Door Services Ltd. c. Ministre du Revenu national, [1986] 3 C.F. 553 (C.A.F.) et 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, 2001 CSC 59[14]. En common law, « aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. [...] La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte[15] ». Voici ce qu’écrit le juge Major dans Sagaz :
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[Je souligne.]
+[22] Il existe de nombreuses décisions de common law où les tribunaux ont conclu que le facteur « contrôle » était neutre et, par conséquent, non déterminant. Il est ainsi possible de conclure, en common law, à l'existence d'un contrat de travail sans avoir tiré de conclusion de fait quant à la présence du droit de contrôle ou de direction.
+[23] Au Québec, contrairement à la situation en common law, la question centrale est de savoir s'il existe un lien de subordination, à savoir un pouvoir de contrôle ou de direction. Un tribunal n'a pas d'autre choix que de conclure à l'existence ou à l'absence du lien de subordination pour pouvoir conclure qu'un contrat constitue un contrat de travail ou bien un contrat de service. C'est l’approche que le juge Létourneau de la Cour d'appel fédérale a adoptée dans l'affaire D & J Driveway[16], où il a conclu à l'absence d'un contrat de travail en se fondant sur les dispositions du Code civil et, en particulier, en constatant l'absence d'un lien de subordination, lequel il a décrit comme « la caractéristique essentielle du contrat de travail »[17].
+[24] À la décision D & J Driveway, j’ajouterais celle rendue par la Cour d’appel fédérale dans l’affaire 9041‑6868 Québec Inc. c. Canada (ministre du Revenu national), 2005 CAF 334, [2005] A.C.F. no 1720 (QL). Voici ce que le juge Décary écrit aux paragraphes 2 et 3[18] :
+2 En ce qui a trait à la nature du contrat, le juge en est arrivé à la bonne solution, mais il y est parvenu, à mon humble avis, de la mauvaise manière. Nulle part, en effet, ne traite-t-il des dispositions du Code civil du Québec, se contentant, à la fin de son analyse de la preuve, de référer aux règles de common law énoncées dans les arrêts Wiebe Door Services Ltd. c. Canada (Ministère du Revenu national), [1986] 3 C.F. 553 (C.A.F.) et 671122 Ontario Ltd. Sagaz c. Industries Canada Inc., [2001] 2 R.C.S. 983. Cette méprise, je m'empresse de le souligner, n'est pas nouvelle et trouve son explication dans un flottement jurisprudentiel auquel le temps est venu de mettre un terme.
+3 L'entrée en vigueur du Code civil du Québec en 1994, puis l'adoption par le Parlement du Canada de la Loi d'harmonisation n 1 du droit fédéral avec le droit civil (c. 2001, ch. 4) et l'adjonction par cette Loi de l'article 8.1 à la Loi d'interprétation (L.R.C., ch. I‑21) ont redonné au droit civil du Québec, en matière fédérale, ses lettres de noblesse que les tribunaux avaient eu parfois tendance à ignorer. Il suffit, à cet égard, de consulter l'arrêt de cette Cour, dans St-Hilaire c. Canada, [2004] 4 C.F. 289 (C.A.F.) et l'article du juge Pierre Archambault, de la Cour canadienne de l'impôt, intitulé « Contrat de travail : pourquoi Wiebe Door Services Ltd. ne s'applique pas au Québec et par quoi on doit le remplacer » et publié récemment dans le Deuxième recueil d'études en fiscalité (2005) de la collection L'harmonisation de la législation fédérale avec le droit civil québécois et le bijuridisme canadien, pour se convaincre que le concept de « contrat de louage de services », à l'alinéa 5(1)a) de la Loi sur l'assurance-emploi, doit être analysé à la lumière du droit civil québécois lorsque le droit provincial applicable est celui du Québec.
+[Je souligne.]
+[25] Après avoir cité les mêmes propos de Me Robert P. Gagnon que j’ai reproduits ci-dessus, notamment quant aux indices d’encadrement qui permettent d'établir le lien de subordination, le juge Décary ajoute au paragraphe 12 de ses motifs :
+Il est intéressant de noter qu’en droit civil québécois, la définition même du contrat de travail met l’accent sur « la direction ou le contrôle » (art. 2085 c.c.c.), ce qui fait du contrôle l’objet même de l’exercice et donc beaucoup plus qu’un simple indice d’encadrement, ainsi que le note le juge Archambault à la page 2 : 72 de l’ouvrage précité.
+[Je souligne.]
+[26] En outre, rappelons ces propos de la juge Picard de la Cour supérieure du Québec dans 9002‑8515 Québec inc.[19], que j’ai cités au paragraphe 121, page 2:82 de mon article :
+15 Pour qu’il y ait un contrat d’entreprise, il ne doit y avoir aucun lien de subordination et l’Entente contient plusieurs éléments démontrant un lien de subordination. Il existe dans ce cas un nombre suffisant d’indices d’un rapport d’autorité.
+[Je souligne.]
+[27] Finalement, il faut mentionner que la jurisprudence reconnaît, à bon droit, que l'intention des parties quant à la nature d’un contrat qu'elles concluent constitue un facteur important dans la qualification de ce contrat. Toutefois, les réserves suivantes exprimées à la page 2 :63 de mon article doivent être apportées :
+[97] Même si les parties contractantes ont manifesté leur intention dans leur contrat écrit ou verbal ou qu’une telle intention peut être induite de leur comportement, cela ne signifie pas que les tribunaux vont nécessairement considérer ce fait comme décisif. Comme l’indique le juge Décary dans l’arrêt Wolf précité, il faut que le contrat soit exécuté conformément à cette intention. Ainsi, ce n’est pas parce que les parties ont appelé leur contrat un « contrat de service » et qu’elles ont stipulé que le travail sera exécuté par un « travailleur autonome » et qu’il n’existe pas de relation employeur‑employé, qu’il s’agit nécessairement d’un contrat de service. Le contrat pourrait correspondre à un contrat de travail. Tel que l’édicte l’article 1425 C.c.Q., on doit rechercher quelle est la véritable commune intention des parties et non pas s’arrêter au sens littéral des termes utilisés dans le contrat. Les tribunaux doivent également vérifier la conformité de la conduite des parties avec les prescriptions législatives relatives aux contrats. Voici ce qu’écrit Robert P. Gagnon :
+91 — Appréciation factuelle — La subordination se vérifie dans les faits. À cet égard, la jurisprudence s’est toujours refusée à retenir la qualification donnée au contrat par les parties :
+Dans le contrat, le distributeur reconnaît lui‑même qu’il agit à son compte à titre d’entrepreneur indépendant. Il n’y aura pas lieu de revenir sur ce point, puisque cela ne changerait rien à la réalité; d’ailleurs ce que l’on prétend être est souvent ce que l’on n’est pas.
+[Je souligne.]
+[98] Dans l’affaire D & J Driveway, le juge Létourneau de la Cour d’appel fédérale écrit :
+2 Nous reconnaissons d’emblée que la stipulation des parties quant à la nature de leurs relations contractuelles n’est pas nécessairement déterminante et que la cour chargée d’examiner cette question peut en arriver à une détermination contraire sur la foi de la preuve qui lui est soumise : Dynamex Canada inc. c. Canada, (2003), 305 N.R. 295 (C.A.F.). Mais cette stipulation ou l’interrogatoire des parties sur la question peuvent s’avérer un instrument utile d’interprétation de la nature du contrat intervenu entre les participants.
+[Je souligne.]
+[99] Les juges peuvent donc requalifier le contrat pour que sa dénomination corresponde à la réalité. En France, la requalification du contrat résulte de l’application du principe de la réalité[20]. La Cour de cassation adopte une approche semblable à celle suivie au Canada :
+Attendu que l’existence d’une relation de travail ne dépend ni de la volonté exprimée par les parties ni de la dénomination qu’elles ont donnée à leur convention mais des conditions de fait dans lesquelles est exercée l’activité des travailleurs; [...]
+[100] À mon avis, cette vérification de la conformité est nécessaire en matière d’interprétation de contrats de travail, puisqu’il peut y avoir intérêt à maquiller la nature véritable d’une relation contractuelle entre un payeur et un travailleur. L’expérience révèle en effet qu’il arrive que des employeurs, désirant diminuer leurs charges fiscales à l’égard de leurs salariés, décident de les traiter comme des travailleurs autonomes. Cette décision peut intervenir tant au début de la relation contractuelle que par la suite. Pareillement, certains salariés pourraient avoir intérêt à maquiller leur contrat de travail en contrat de service parce que les circonstances sont telles qu’ils ne prévoient pas avoir besoin de prestations d’assurance‑emploi et qu’ils désirent éliminer leurs cotisations d’employé au régime d’assurance‑emploi, ou encore parce qu’ils veulent avoir plus de latitude pour déduire certaines dépenses aux fins du calcul de leur revenu en vertu de la Loi de l’impôt.
+[101] Comme la LAE, de façon générale, n’autorise le versement de prestations d’assurance‑emploi qu’aux salariés qui perdent leur emploi, la vigilance des tribunaux est requise pour démasquer les faux travailleurs autonomes. Les tribunaux doivent également s’assurer que la caisse de l’assurance‑emploi, d’où sont tirées ces prestations, reçoit les cotisations de tous ceux qui y sont tenus, y compris les faux autonomes et leurs employeurs.
+[Renvois omis.]
+[Je souligne.]
+[28] Il reste à appliquer ces principes de droit aux faits pertinents de ces appels. La première question à traiter est celle de savoir quelle était l'intention des parties quant à la nature du contrat intervenu entre elles. Tout d'abord, le contrat ne précise pas expressément s'il s'agit d'un contrat de service ou d'un contrat de travail. Si on analyse les modalités du contrat lui‑même, on se rend compte que certaines d'entre elles tendent à indiquer l’existence d'un contrat de service. En effet, au paragraphe 4 du contrat, on parle de rémunération correspondant à des honoraires professionnels. De plus, on mentionne au paragraphe 4.2 que monsieur Grimard devait facturer ses honoraires à tous les 14 jours et que la Commission s'engageait à les payer sur réception de la facture.
+[29] Par contre, d'autres dispositions du contrat sont plus conformes à l'existence d'un contrat de travail. En effet, monsieur Grimard avait le droit d'être rémunéré même pour certains jours où il ne fournissait pas de travail, notamment les jours fériés et chômés prévus dans la fonction publique[21]. Il avait droit à quatre semaines de vacances. Selon le contrat du 8 novembre 1993, monsieur Grimard était assujetti à l'application du décret 1369‑93 relatif aux congés sans solde et visant les « salariés » des organismes publics, de la même façon que l’était le « personnel nommé et rémunéré suivant la Loi sur la fonction publique [...] comme s'il en faisait partie ».
+[30] La Commission considérait monsieur Grimard comme un travailleur autonome, puisqu'il n'y avait pas de retenues fiscales lors du versement de ses honoraires. De plus, la Commission tenait pour les contractuels une comptabilité de paye distincte et séparée du système de paye pour ses salariés (voir pièce A‑10). Monsieur Grimard croyait lui‑aussi qu'il était un travailleur autonome puisqu'il a inscrit dans ses déclarations de revenus ses honoraires reçus de la Commission avant le 23 juillet 1998 comme des revenus bruts tirés d'une entreprise.
+[31] La question de savoir quelle pouvait être l'intention des parties soulève un débat sur la compréhension que pouvaient avoir les parties de la différence entre un contrat de service et un contrat de travail. Comme on l'a vu ci-dessus, le « facteur distinctif » d’un contrat de travail par rapport à un contrat de service est le droit que possède un employeur d'exercer une direction et un contrôle sur le travail de son salarié. Est‑ce que les parties ont réfléchi sur « la caractéristique essentielle du contrat de travail » et son caractère distinctif par rapport au contrat de service? Il ne suffit pas que les parties disent qu'elles veulent conclure un contrat de service; il faut qu'elles aient eu l'intention que le prestataire de services ait le libre choix des moyens d'exécution et que le travail soit exécuté sans la direction ni le contrôle du payeur[22].
+[32] Il ressort du témoignage de Me Levasseur, qui était responsable du contentieux de la Commission, que cette dernière ne s'était pas interrogée sur cet aspect du contrat. La Commission était intéressée à engager des assesseurs contractuels pour se faciliter les choses de point de vue du recrutement et se libérer de certaines contraintes administratives auxquelles on est soumis lorsqu'on engage un salarié permanent, qui devient membre à part entière de la fonction publique. Il faut obtenir l'autorisation du Conseil du trésor pour créer un tel poste. Il semble que l'engagement de contractuels permet aux organismes publics de contourner cette contrainte. Me Levasseur a reconnu qu'il ne s'était pas préoccupé non plus des conséquences fiscales découlant du fait que monsieur Grimard était considéré comme un travailleur autonome.
+[33] L'autre avantage que comportait pour la Commission l’engagement d’assesseurs contractuels (décrits comme des assesseurs « à vacation ») était qu'elle pouvait mettre fin au contrat au bout de deux ans, ou même sur préavis de trois mois, alors que dans le cas des salariés permanents jouissant de la sécurité d'emploi la situation était, bien évidemment, tout autre. Me Levasseur a reconnu lors de son témoignage que la grande différence entre les salariés permanents et les contractuels était la sécurité d'emploi.
+[34] Pour illustrer le fait qu'il peut facilement y avoir confusion dans l'esprit des gens lorsqu'on essaye de distinguer entre un contrat de travail et un contrat de service, il y a cette question qui a été posée à monsieur Grimard par l'avocat du ministère à la page 14 de la transcription de l'interrogatoire hors cour, (pièce I‑1, onglet 17) : « [. . .] est‑ce que vous aviez un contrat de travail?», à laquelle il a répondu « oui ». À la page suivante, l'avocat du ministère fait mention d’une copie des « contrats d'emploi », de moniseur Grimard, sans que celui‑ci corrige l'expression utilisée par l’avocat. Il s'agissait bien des contrats liant monsieur Grimard à la Commission durant la période pertinente.
+[35] À mon avis, il ne faut pas accorder ici une grande importance à la compréhension que pouvait en avoir les deux parties de la nature de leur contrat lorsqu'elles l'ont conclu. Elles n'ont jamais envisagé de façon précise les questions de savoir si monsieur Grimard devait avoir le libre choix des moyens d'exécution de son contrat et s'il devait fournir son travail sans la direction ni le contrôle de la Commission.
+[36] De toute façon, comme on le mentionne à plusieurs reprises dans la jurisprudence, le fait que les parties aient qualifié leur contrat de contrat de service ne signifie pas nécessairement que c’en est un. Il faut déterminer de quelle façon les parties se sont conduites afin de déterminer la nature véritable de la relation contractuelle qui existait entre elles. C’est ce qu’on appelle en France l'application du « principe de la réalité ». Ici, je n'ai aucune hésitation à conclure que l’interprétation adoptée par les parties ne correspond pas à la réalité, comme ont d'ailleurs fait la Cour du Québec et la Cour d'appel du Québec : de par sa nature véritable le contrat en cause est un contrat de travail plutôt qu'un contrat de service. En effet, la Commission avait un droit de direction ou de contrôle sur monsieur Grimard et ce dernier a rendu ses services sous la direction ou le contrôle de la Commission. Il existait ainsi un lien de subordination entre lui et la Commission.
+[37] Comme preuve de l’exercice de ce droit de direction ou de contrôle sur monsieur Grimard, il y a les directives suivantes applicables aux assesseurs, énoncées dans un document (Description de tâches) intitulé Le rôle du commissaire tiré du site Internet de la Commission[23]. Dans le préambule, on indique que les assesseurs exercent leur rôle conformément aux dispositions de leur code de déontologie, qui est entré en vigueur le 24 mai 1986. Parmi ces dispositions, il y a celle selon laquelle les assesseurs « doivent maintenir leurs connaissances et leurs habiletés professionnelles de façon à ce qu'elles concordent avec les exigences de leur travail et en garantissent la qualité »[24]. En vertu de l'article 4 de ce code, un assesseur doit « s'abstenir de participer à l'enquête et à l'audition d'un appel [...] en cas d'appréhension raisonnable de partialité pouvant résulter notamment [...] de relations personnelles, familiales, sociales, de travail ou d'affaires avec l'une des parties ». Lors de son témoignage, monsieur Grimard a reconnu que ce code de déontologie, dont il n'avait pas pris connaissance à l'époque, aurait permis à tout justiciable ayant été en contact avec lui de porter plainte auprès du président de la Commission. Il existait donc un mécanisme de contrôle en ce qui concerne son travail[25]. Selon la Description de tâches, les assesseurs participent, selon leur rôle respectif, au processus décisionnel[26]. Au paragraphe 22(2) du document, on précise que l'assesseur exerce sa fonction « sous l'autorité du commissaire ». On trouve d’ailleurs à la section 3 du document plusieurs directives quant au travail à fournir par les assesseurs et quant à la façon de le faire[27] :
+[...]
+SECTION 3 LE RÔLE GÉNÉRAL DE L'ASSESSEUR
+22. L'assesseur :
+1. siège auprès du commissaire et le conseille sur toute question de nature médicale, professionnelle ou technique;
+2. exerce sa fonction sous l'autorité du commissaire dans le cadre du processus décisionnel;
+3. favorise le développement des connaissances et des habiletés requises à l'appréciation des questions de nature médicale, professionnelle ou technique en vue d'en arriver à une plus grande autonomie des commissaires et des conciliateurs;
+4. participe aux activités qui contribuent à maintenir un niveau élevé de qualité et de cohérence décisionnelles.
+23. L'assesseur exerce son rôle en toute intégrité, impartialité et objectivité et fait preuve de disponibilité.
+24. L'assesseur respecte le rôle du commissaire au moment de l'enquête, de l'audition et du délibéré.
+25. L'assesseur conseille le commissaire et n'agit pas comme expert des parties, ni examinateur, ni décideur.
+26. L'assesseur fait preuve de compréhension et d'ouverture d'esprit à l'égard du rôle et des perspectives particulières des membres.
+27. L'assesseur répond aux demandes d'éclairage médical, professionnel ou technique des membres.
+28. L'assesseur fait preuve d'ouverture d'esprit lors des échanges concernant des controverses au sein de la communauté scientifique.
+29. L'assesseur se familiarise avec les dispositions pertinentes de la Loi sur les accidents du travail et les maladies professionnelles et des règlements. Il maîtrise le volet médical du Règlement sur le barème des dommages corporels.
+30. L'assesseur connaît la spécificité d'un tribunal administratif.
+31. L'assesseur connaît les pouvoirs d'enquête de la CLP et ses limites, ainsi que la notion de connaissance d'office. Il connaît Les Lignes directrices relatives au rôle des experts.
+[Je souligne.]
+[38] Il n'y a pas de doute que monsieur Grimard jouissait, en raison de son niveau d’expertise, d'une large autonomie relativement au travail qu'il devait accomplir, à savoir fournir son expertise médicale pour répondre aux questions que la Commission lui soumettait. Il n’y à là rien de surprenant. Les médecins « salariés » des hôpitaux et des CLSC jouissent d’une telle autonomie, tout comme les avocats « salariés » de la fonction publique, des contentieux d'entreprises et des cabinets privés. À cette liste, on peut ajouter les experts « salariés » du ministre en matière d’évaluation des immeubles et des entreprises. Par contre, on peut constater que le droit de direction ou de contrôle de la Commission s’exerçait lorsque le coordonnateur au bureau des assesseurs faisait l'atttribution régulière des dossiers aux assesseurs de la Commission, y compris monsieur Grimard, sans les consulter d'ailleurs au préalable. Durant la période pertinente, il y avait une quinzaine d'assesseurs médicaux, dont deux étaient considérés par la Commission comme des salariés permanents. L’horaire de monsieur Grimard était dicté par les besoins de la Commission.
+[39] Dans une semaine typique, monsieur Grimard se présentait à l'établissement de la Commission où avait lieu l'audition des appels. De façon générale, il y avait audition de deux causes le matin et de deux autres l'après‑midi. Monsieur Grimard avait dans cet établissement un bureau doté de tous les outils nécessaires pour exercer ses fonctions. Avant le début de l'audience, il pouvait y avoir une courte rencontre avec le commissaire chargé du dossier. Le rôle de monsieur Grimard était d’y assister le commissaire dans l'analyse de la preuve médicale qui était présentée devant la Commission. C'est le commissaire qui définissait les questions en litige à l’égard desquelles l'opinion des assesseurs était demandée. Par exemple, il pouvait demander l'avis de monsieur Grimard sur les maux reliés au coude du demandeur et non pas ceux reliés au dos, même si ces deux questions allaient faire l'objet du débat devant la Commission. Si l’audition d’un appel était annulée, le coordonnateur des assesseurs assignait à monsieur Grimard un autre dossier qu'il devait entendre avec un commissaire. Lorsque je lui ai demandé de comparer le travail qu'il a fourni comme salarié à compter du mois de juillet 1998 avec celui qu'il fournissait avant cette date, monsieur Grimard a confirmé qu'il n'y avait aucune différence quant à l'exécution de ses tâches. La seule différence était au niveau de certains avantages sociaux auxquels il avait droit, notamment l'assurance collective.
+[40] Il faut ajouter par ailleurs que lorsqu'il recevait sa rémunération sous forme d’honoraires, la Commission tentait de tenir compte des avantages sociaux que les « contractuels » comme lui ne recevaient pas et que les « salariés permanents » recevaient. Par exemple, comme la Commission ne contribuait pas à la caisse de retraite des contractuels, elle augmentait leur rémunération du montant de la cotisation qu'elle aurait effectuée à la caisse de retraite si les contractuels avaient été considérés comme des salariés permanents de la Commission. Par contre, comme l'a fait remarquer monsieur Grimard, cet arrangement était moins avantageux pour eux puisque les salariés permanents auraient droit à des « prestations définies » de retraite, à savoir un montant de pension indexé calculé normalement en fonction de leur salaire. Monsieur Grimard, qui recevait un montant supplémentaire de rémunération, ne pouvait que cotiser à son régime enregistré d'épargne‑retraite, lequel ne pouvait pas lui assurer le même niveau de prestations au moment de sa retraite.
+[41] En outre, il ne fait pas de doute que monsieur Grimard devait fournir ses services personnellement et qu'il ne pouvait demander à un collègue médecin de le remplacer pour rendre ces services, à moins que ce médecin ne soit déjà un assesseur de la Commission. Il y avait dans le contrat une clause d’exclusivité quant à toute matière relevant de la LATMP et de la Loi sur la santé et la sécurité du travail.
+[42] En plus de la preuve directe de l'exercice par la Commission de son droit de direction et de contrôle sur monsieur Grimard, il y a également des indices, soit des présomptions de fait, quant à l'existence de ce droit qui découlent de l'encadrement général par la Commission du travail fourni par monsieur Grimard. Lorsqu'on étudie l'organigramme de la Commission, il en ressort clairement que le travail des assesseurs fait partie intégrante des rouages de la Commission. Le bureau des assesseurs relève directement du président de la Commission (pièce I‑1, onglets 18 et 19). Rappelons également que monsieur Grimard a fourni ses services à la Commissions à temps plein et de façon continue pendant environ huit ans, de 1991 à 1999. Il était rémunéré pour 40 heures par semaine, pendant toute l'année. Durant la période pertinente, tous les services (ou presque) fournis par lui l'ont été à la Commission, son employeur. Il bénéficiait de quatre semaines de congé annuel ainsi que des mêmes jours fériés que les salariés permanents de la fonction publique. Or, je ne connais pas d'entrepreneurs qui sont rémunérés par leurs clients pendant quatre semaines de vacances et durant leur absence pour cause de maladie.
+[43] En plus, monsieur Grimard rendait ses services dans les bureaux de la Commission ou dans les autres endroits où siégeait celle-ci. Il bénéficiait durant toute l’année d'un bureau où la Commission lui fournissait tous les outils nécessaires à l'exercice de son travail. Il est vrai que monsieur Grimard avait la possibilité, s'il le désirait, d'étudier ses dossiers à son appartement de Montréal, mais cela n'était pas requis pour ses fonctions.
+[44] En outre, le comportement de monsieur Grimard n'était pas celui d'un entrepreneur qui est partie à un contrat de service et qui exploite une entreprise à son propre compte. Son contrat d'engagement exigeait qu'il possède un véhicule automobile aux fins des déplacements que pouvaient lui imposer ses fonctions. Il s'agit là d'une exigence qui est contraire, à mon avis, à l'article 2099 C.c.Q., qui requiert qu’un entrepreneur ou un prestataire de services ait le « libre choix des moyens d'exécution du contrat ». Durant la période pertinente, monsieur Grimard ne travaillait que pour un seul payeur, la Commission. Toutes les dépenses engagées dans le cadre de ses fonctions lui étaient remboursées, notamment celles engagées lorsqu'il se déplaçait entre Montréal et St‑Jérôme ou entre Montréal et l'Abitibi. On lui fournissait un bureau et tout le nécessaire pour effectuer son travail. En vertu de la LATMP, il ne pouvait être poursuivi en justice en raison d'un acte accompli de bonne foi dans l'exercice de ses fonctions d'assesseur auprès de la Commission. Il n'avait pas à être couvert par une police d’assurance‑responsabilité[28]. Le travail de monsieur Grimard durant la période pertinente n'était pas différent de celui des autres assesseurs qui étaient salariés de la Commission ni de celui qu'il a lui‑même fait comme salarié à compter du mois de juillet 1998.
+[45] Il est vrai que, pour le poste d'assesseur médical au sein de la Commission, monsieur Grimard, qui résidait à Sherbrooke, devait se déplacer à Montréal pour exercer ses fonctions, et cela l'a obligé à y louer un appartement. N'eût été ces fonctions, monsieur Grimard n'aurait pas eu à engager des frais de logement à Montréal et des dépenses pour des déplacements entre Sherbrooke et Montréal. Par contre, il est reconnu de façon constante dans la jurisprudence que les frais de déplacement entre la résidence d’une personne et son établissement ou celui de son employeur constituent des dépenses personnelles qui ne peuvent être déduites ni dans le calcul du revenu tiré d'un emploi ni dans le calcul de celui tiré d'une entreprise (voir la décision de la Cour d'appel du Québec dans le dossier de monsieur Grimard (paragraphe 10, ci‑dessus)). Je peux facilement comprendre que monsieur Grimard n'aurait probablement pas accepté ce travail au sein de la Commission s'il avait su qu'il ne pourrait déduire ses frais de logement et de déplacement. Il est possible que son employeur l'ait induit en erreur et lui ait ainsi causé un préjudice. Toutefois, la preuve de la faute, le cas échéant, et du dommage qui en aurait découlé doit être faite devant un tribunal compétent. La compétence de cette Cour se limite à appliquer aux faits pertinents les dispositions de la Loi qui étaient en vigueur au moment pertinent. À mon avis, monsieur Grimard était un salarié de la Commission durant la période pertinente, même s’il ne bénéficiait pas de tous les avantages dont un salarié permanent de la fonction publique pouvait jouir. Beaucoup de salariés ne bénéficient pas d'un droit à la sécurité d'emploi comme le font les fonctionnaires de l'État. On n'a qu'à penser à tous ces salariés qui ne jouissent d'aucune convention collective.
+[46] Finalement, malgré le fait que l'article 380 de la LATMP édictait que les assesseurs « à vacation » ou « à titre temporaire » n’étaient pas considérés comme des membres du personnel de la Commission, cela ne change pas ma conclusion de droit que monsieur Grimard était un salarié aux fins du Code civil et que les honoraires versés par la Commission étaient aux fins de la Loi des revenus tirés d'un emploi. L'article 380 de la LATMP n'édictait pas que les assesseurs à vacation ou à titre temporaire étaient réputés ne pas être des « salariés » (au sens de l'article 2085 C.c.Q.) de la Commission. Rien dans la LATMP n'indique non plus que les dispositions générales de droit commun, à savoir les dispositions du Code civil, ne sont pas applicables en l'espèce. Pour l'application de la Loi sur la fonction publique, il est clair que la Commission considérait monsieur Grimard comme n'étant pas un salarié bénéficiant des avantages de cette loi. C'est la raison pour laquelle on le rémunérait par honoraires et que son contrat n'avait qu'une durée limitée, soit deux ans. Par contre, le fait qu'un emploi soit de durée déterminée n'est pas un empêchement à l'existence d'un contrat de travail. Au contraire, il est de l’essence d’un contrat de travail qu’une personne s'oblige pour un « temps limité »[29]. À l'article 2086 du C.c.Q., on dit que le contrat de travail est à durée déterminée ou indéterminée. À mon avis, la détermination de l'existence d'un contrat de travail doit se faire en fonction des critères du droit commun, à savoir, au Québec, les exigences du Code civil du Québec.
+[47] Pour tous ces motifs, les appels de monsieur Grimard sont rejetés.
+Signé à Ottawa, Canada, ce 20e jour de décembre 2007.
+« Pierre Archambault »
+Juge Archambault
+RÉFÉRENCE : 2007CCI755
+Nº DU DOSSIER DE LA COUR : 2006-1438(IT)G
+INTITULÉ DE LA CAUSE : MICHEL GRIMARD c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L’AUDIENCE : le 12 octobre 2007
+MOTIFS DU JUGEMENT PAR : honorable juge Pierre Archambault
+DATE DU JUGEMENT : le 20 décembre 2007
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Claude Lamoureux
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce I‑1, onglet 13.
+[2] Ce décret, en date du 29 septembre 1993, relatif à « la prise de congés sans solde et [à] l'application de mesures de remplacement dans les organismes publics » s'applique « aux organismes publics et à leurs salariés [...] » (art. 1 du décret).
+[3] Pour les services rendus après le 15 septembre 1995, il y a eu, le 12 septembre 1995, signature d'un nouveau contrat contenant essentiellement les mêmes modalités, couvrant la période du 18 septembre 1995 au 19 septembre 1997, et un autre en date du 10 juillet 1997 pour la période du 20 septembre 1997 au 19 septembre 1999. La principale différence entre ces contrats et le premier est qu'on ne trouve pas dans ceux‑ci l'article 7 du contrat du 8 novembre 1993. Par contre, la rémunération demeure la même durant toute la période pertinente.
+[4] Admission du paragraphe 17 y) de la Réponse à l'avis d'appel.
+[5] Pièce I‑1, onglets 1, 2, 3 et 23.
+[6] Lettre de Jacques P. Bourassa de la Direction de la vérification impôts et RAS, pièce I‑1, onglet 16.
+[7] Selon un formulaire d'engagement de personnel occasionnel de la Commission produit sous la cote A‑1, onglet 7.
+[8] On indique sur ce même formulaire que l'état civil de monsieur Grimard est celui de célibataire, alors que dans ses déclarations de revenus il se déclare comme marié (pièce I‑1, onglets 1 à 4).
+[9] No de dossier de la Cour du Québec : 500‑02‑087518‑002.
+[10] No de dossier de la Cour d'appel du Québec : 500‑09‑013703‑038.
+[11] En particulier, les paragraphes 8(2) et 8(10) édictent :
+8(2) Restriction générale. Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi.
+8(10) Attestation de l’employeur. Un contribuable ne peut déduire un montant pour une année d’imposition en application des alinéas (1)f), h) ou h.1) ou des sous‑alinéas (1)i)(ii) ou (iii) que s’il présente, en même temps que sa déclaration de revenu pour l’année en vertu de la présente partie, un formulaire prescrit, signé par son employeur, qui atteste que les conditions visées à cette disposition ont été remplies quant au contribuable au cours de l’année.
+[Je souligne.]
+Monsieur Grimard a reconnu que la Commission n’a pas fourni l’attestation visée par le paragraphe 8(10) de la Loi. Le débat à l’audience avait porté presque exclusivement sur la question de son statut de salarié ou de travailleur autonome.
+[12] Robert P. Gagnon, Le droit du travail du Québec, 5e éd., Cowansville (Qc), Les Éditions Yvon Blais Inc., 2003.
+[13] Article publié dans le Deuxième recueil d'études en fiscalité de la collection L'harmonisation de la législation fédérale avec le droit civil québécois et le bijuridisme canadien, Montréal, Association de planification fiscale et financière et ministère de la Justice du Canada, 2005.
+[14] Voir l’analyse plus approfondie que j’ai faite dans mon article (précité).
+[15] Le juge Major dans Sagaz, par. 46 et 47.
+[16] D & J Driveway Inc. c. Canada (M.R.N.), [2003] A.C.F. no 1784 (QL), 2003 CAF 453. Voir également Charbonneau c. Canada, [1996] A.C.F. no 1337 (QL) (C.A.F.); Sauvé c. Canada (M.R.N.), [1995] A.C.F. no 1378 (QL) (C.A.F.); Lagacé c. Canada (M.R.N.), [1994] A.C.F. no 885 (QL) (C.A.F.), confirmant [1991] T.C.J. no 945 (QL). Il faut toutefois mentionner que, dans les arrêts D & J Driveway et Charbonneau, la Cour d'appel n'a pas écarté explicitement l'application de Wiebe Door, mais a conclu à l'existence d'un contrat de service en se fondant sur l'absence du lien de subordination, suivant ainsi les règles du Code civil.
+[17] Par. 16 de la décision.
+[18] Il faut mentionner que les juges Pelletier et Létourneau ont manifesté leur adhésion à cette décision du juge Décary. Dans une décision plus récente, Combined Insurance Company of America c. Canada, 2007 CAF 60, motifs rédigés par le juge Nadon, auxquels, d'ailleurs, les juges Pelletier et Létourneau ont souscrit, on se réfère à nouveau à la décision Wiebe Door et on reproche au juge de la Cour de l'impôt de ne pas avoir « considéré les critères énoncés par cette Cour dans Wiebe Door » (par. 38)
+Par contre, dans Combined Insurance, il n'est aucunement fait référence à l'arrêt 9041‑6868 Québec Inc. (même si mention de cet arrêt apparaissait dans le « mémoire des faits et du droit de l'intimée ») et il n'est pas mentionné que l'interprétation adoptée par le juge Décary dans 9041‑6868 Québec Inc. ne fait plus loi pour l'application d'une loi fédérale au Québec.
+La demande d'autorisation d'en appeler de l’arrêt Combined Insurance à la Cour suprême du Canada a été rejetée sans motifs le 25 octobre 2007 ([2007] C.S.C.R no 156 (QL)). Selon la position défendue par l’avocat de Combined Insurance dans sa réponse écrite à la demande d’autorisation, l’arrêt de la Cour d’appel fédérale dans Combined Insurance « ne contredit aucunement l’arrêt 9041-6868 Québec inc. rendu par cette même Cour en 2005 » (paragraphe 25 de la réponse). Il ajoute :
+La Cour d’appel fédérale […] devait conclure qu’il n’existait aucun lien de subordination quant à l’exécution du travail que devait faire Mme Drapeau pour le compte de l’intimé. […] La Cour d’appel fédérale a donc bel et bien appliqué les dispositions pertinentes du Code civil du Québec en l’espèce. (paragraphe 13 de la réponse)
+[...] La Cour d’appel fédérale n’a pas ressuscité les critères de common law afin de déterminer l’existence d’un contrat de travail au Québec. [Elle] a plutôt correctement révisé toute la preuve au dossier, contrairement au premier juge, et a conclu qu’il n’y avait pas de lien de subordination entre Mme Drapeau et l’intimée en appliquant plusieurs indices d’encadrement tels que la propriété des instruments de travail, les chances de profits et les risques de pertes, l’intégration, le degré de contrôle, la présence obligatoire au lieu de travail et le respect de l’horaire de travail, le contrôle des absences pour vacances, les pouvoirs de sanction, l’imposition de moyens d’exécution de travail, la remise de rapports d'activités et le contrôle de la qualité et de la quantité de travail […] » (paragraphe 15 de la réponse).
+[19] Commission des normes du travail c. 9002‑8515 Québec inc., REJB 2000‑18725. Voir également les commentaires du ministre de la Justice du Québec reproduits au par. 42 de mon article, selon lesquels le prestataire doit avoir une « indépendance quasi absolue dans la manière dont s’exécute le contrat ».
+[20] Jean‑Maurice Verdier, Alain Coeuret et Marie‑Armelle Souriac, Droit du travail, 12e éd., Paris, Dalloz, 2002, à la p. 315.
+[21] Même s’il a affirmé lors de son interrogatoire hors cour du 14 février 2003 (pièce I‑1, onglet 17, p. 23) qu'il ne pouvait facturer ses heures pour les jours fériés, son contrat avec la Commission prévoyait expressément qu'il avait droit au paiement des jours fériés et chômés prévus dans la fonction publique (paragraphe 5 du contrat). Lors de son témoignage devant moi, monsieur Grimard a reconnu qu'il pouvait être rémunéré même s'il manquait une journée pour cause de maladie, contrairement à ce qu'il avait affirmé à la page 24 de son interrogatoire hors cour. Par contre, il a dit qu'il n'avait pas été rémunéré lorsqu'il avait pris trois semaines pour s'occuper des rénovations de sa résidence, qui avait subi de graves dommages dus à un incendie.
+[22] Une démarche semblable doit être suivie pour décider, par exemple, si une personne avait l'intention véritable de conclure un « contrat de vente ». Il faudrait alors se demander si cette personne avait eu l'intention de transférer « la propriété d'un bien » (art. 1708 C.c.Q.) et non pas seulement la « jouissance d'un bien » (art. 1851 C.c.Q.).
+[23] Pièce I‑1, onglet 21.
+[24] Art. 6 du Code de déontologie des commissaires et des assesseurs, pièce I‑1, onglet 20.
+[25] Lors de son interrogatoire hors cour, monsieur Grimard a indiqué que son travail ne faisait l'objet « d’aucune sorte d'évaluation formelle ou informelle » (pièce I-1, onglet 17, p. 16). Par contre, il a reconnu lors de l'audience que le contrat d'une des personnes qui avaient été engagées comme assesseurs avant lui n'avait pas été renouvelé en raison du travail fourni.
+[26] Dans les réponses fournies lors de son interrogatoire hors cour, monsieur Grimard a indiqué que, en tant qu'assesseur, il participait au processus de l'audition des appels devant la Commission et qu'il était en mesure de questionner non seulement les témoins experts, mais aussi les parties (pièce I-1, onglet 17, p.10).
+[27] Pièce I‑1, onglet 21.
+[28] Page 17 de la transcription de l'interrogatoire hors cour, pièce I‑1, onglet 17.
+[29] Article 2085 C.c.Q.

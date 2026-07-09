@@ -1,0 +1,243 @@
+---
+title: "Stephan c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30625/index.do"
+last_modified: "2011-11-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 529"
+citation2: ""
+neutral_citation: "2011 CCI 529"
+decision_date: "2011-11-28"
+language: "fr"
+item_id: "30625"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7119
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:27:02.329000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e92ba99ed2884ebe25d4c29f2d1459f3da65ee6192a318b84928ce3ad1d313b1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stephan c. M.R.N.
+
+- Citation: 2011 CCI 529
+- Decision date: 2011-11-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7119, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stephan c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-11-28
+Référence neutre
+2011 CCI 529
+Numéro de dossier
+2011-1432(EI)
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2011-1432(EI)
+ENTRE :
+LAURA STEPHAN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SHARED HOMES INTERNATIONAL INC.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 9 novembre 2011, à Calgary (Alberta)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Adam Gotfried
+Représentant de l’intervenante :
+Me Christopher Stephan
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu de la Loi sur l’assurance-emploi (la « Loi sur l’A‑E ») est accueilli et la décision du ministre du Revenu national rendue en vertu de la Loi sur l’A-E est modifiée, compte tenu du fait que l’appelante exerçait un emploi assurable pour l’application de la Loi sur l’A-E durant la période allant du 14 mai 2010 au 27 mai 2010.
+Signé à Ottawa, Canada, ce 28e jour de novembre 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 17e jour de janvier 2012.
+Mario Lagacé, jurilinguiste
+Dossier : 2011-1433(CPP)
+ENTRE :
+LAURA STEPHAN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SHARED HOMES INTERNATIONAL INC.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 9 novembre 2011, à Calgary (Alberta)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Adam Gotfried
+Représentant de l’intervenante :
+Me Christopher Stephan
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du Régime de pensions du Canada est annulé.
+Signé à Ottawa, Canada, ce 28e jour de novembre 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 17e jour de janvier 2012.
+Mario Lagacé, jurilinguiste
+Référence : 2011CCI529
+Date : 20111128
+Dossiers : 2011-1432(EI)
+2011-1433(CPP)
+ENTRE :
+LAURA STEPHAN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SHARED HOMES INTERNATIONAL INC.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] La question soulevée dans le présent appel est de savoir si la décision de l’intimé, selon laquelle l’emploi exercé par l’appelante auprès de la Shared Homes International Inc. (la « société ») durant la période allant du 14 mai 2010 au 27 mai 2010 n’était pas un emploi assurable pour l’application de la Loi sur l’assurance-emploi (la « Loi sur l’A-E »), était raisonnable. Un dossier avait également été ouvert pour un appel au titre du Régime de pensions du Canada (le « RPC »). Il avait été décidé que l’appelante exerçait un emploi ouvrant droit à pension pour l’application du RPC. L’appelante n’a pas fait appel de cette décision auprès du ministre, et elle a mentionné qu’elle ne souhaitait pas faire appel de ladite décision. Il n’est donc pas fait appel de la décision rendue par le ministre en vertu du RPC, et ledit appel est annulé.
+[2] Le paragraphe 5(2) de la Loi sur l’A-E prévoit notamment ce qui suit :
+N’est pas un emploi assurable :
+[...]
+(i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+[3] Le paragraphe 5(3) de la Loi sur l’A-E dispose ce qui suit :
+(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[4] Les actions de la société tout au long de la période en cause étaient détenues par l’époux de l’appelante. L’appelante et la société étaient donc liées pour l’application de la Loi de l’impôt sur le revenu, en raison des dispositions de l’alinéa 251(2)b) de cette loi et elles sont réputées avoir entre elles un lien de dépendance en vertu de l’alinéa 251(1)a) de la même loi. La question à trancher en l’espèce est donc de savoir si la décision du ministre, selon laquelle l’appelante et la société n’auraient pas conclu entre elles un contrat de travail à peu près semblable durant la période en cause si elles n’avaient pas eu de lien de dépendance, est raisonnable.
+[5] Dans la décision Porter c. M.R.N., 2005 CCI 364, la juge Campbell, de la Cour canadienne de l’impôt, a examiné les décisions de la Cour canadienne de l’impôt et les arrêts de la Cour d’appel fédérale où il était question du rôle de la Cour canadienne de l’impôt dans les appels de cette nature. Au paragraphe 13 de sa décision, la juge Campbell a écrit ce qui suit :
+En résumé, le rôle de la Cour consiste à vérifier l’existence et l’exactitude des faits sur lesquels le ministre se fonde, à examiner tous les faits mis en preuve devant elle, notamment tout nouveau fait, et à décider ensuite si la décision du ministre paraît toujours « raisonnable » à la lumière des conclusions de fait tirées par la Cour. Elle doit accorder une certaine déférence au ministre dans le cadre de cet exercice.
+[6] La société a commencé d’exercer ses activités en février 2010 au Salon national de l’habitation, à Toronto. Elle proposait ses services aux Canadiens qui voulaient acheter un bien immobilier aux États-Unis, et en particulier à ceux qui voulaient acheter un bien en copropriété. Durant le salon de l’habitation, environ 70 à 75 personnes se sont montrées intéressées par les services de la société. Christopher Stephan a mentionné que, vers la fin d’avril ou le début de mai 2010, il voulait embaucher quelqu’un qui serait son assistant. Il a engagé son épouse comme [traduction] « aide-comptable », tel qu’il était décrit dans le contrat de travail qu’il avait rédigé. Christopher Stephan est un avocat qui s’est inscrit au Barreau de l’Alberta en 2009 et au Barreau de l’État de New York en 2010.
+[7] Au paragraphe 9 de la réponse sont énoncées les hypothèses de fait sur lesquelles s’est fondé le ministre. L’une d’elles se présente ainsi :
+[traduction]
+g) l’appelante a été embauchée comme aide-comptable/ adjointe administrative, et ses tâches consistaient à répondre aux demandes de renseignements par téléphone, par courriel et sur Internet, à fixer les rendez-vous et à préparer les livres;
+[8] Puisque les tâches de l’appelante consistaient notamment à répondre aux demandes de renseignements par téléphone, elle devait être de service au cours des heures normales d’ouverture pour exercer cette fonction. Il me semble donc que ses heures de travail (qui correspondaient aux heures de bureau pour l’appelante) étaient raisonnables.
+[9] L’avocat de l’intimé a soulevé dans son argumentation deux facteurs principaux qui avaient amené l’intimé à conclure que les deux parties n’auraient pas conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance. Il s’agissait du taux de rémunération et du lieu où le travail était accompli.
+[10] Christopher Stephan a déclaré, durant son témoignage, qu’il avait fait des recherches sur Internet vers l’époque où l’appelante avait été embauchée et que, d’après ces recherches, le taux horaire de 21 $ était raisonnable. Malheureusement, il n’a pas conservé une copie de l’information qu’il avait recueillie à cette époque. L’appelante a imprimé une copie d’avis de postes vacants qu’elle avait trouvés sur Internet en février 2011. Un résumé de ces avis est reproduit ci-après :
+Titre
+Emplacement
+Salaire
+Expérience requise
+Scolarité requise
+Teneur de livres
+Calgary
+24,09 $ l’heure
+Entre deux ans et moins de trois ans
+Diplôme universitaire
+Aide-comptable
+Fort McMurray / Yellowknife
+22,48 $ l’heure
+Entre un mois et moins de sept mois
+Diplôme d’études secondaires, diplôme d’études collégiales (cégep ou autre), ou de formation professionnelle ou technique
+Teneur de livres / Administrateur de la paie
+Brooks, AB
+20 à 23 $ l’heure
+Entre deux ans et moins de trois ans
+Diplôme d’études secondaires, études collégiales (cégep ou autre) / formation professionnelle ou technique
+Adjoint de bureau (facturation et comptes créditeurs)
+Calgary Sud‑Est
+20 à 25 $ l’heure
+Cinq ans ou plus
+Études collégiales (cégep ou autre) / formation professionnelle ou technique
+Commis comptable
+Calgary
+20 à 25 $ l’heure
+Comptable / teneur de livres
+Calgary
+25 $ l’heure
+QuickBooks
+[11] L’appelante détient un certificat en commerce qui lui a été décerné en décembre 2005 par l’Institut des sciences appliquées et de la technologie de la Saskatchewan. Elle a travaillé comme aide-comptable et commis pour la société CSIT Consulting Inc. du 12 janvier 2005 au 14 décembre 2005. Son premier enfant est né en avril 2006 et, du 14 décembre 2005 au 14 mai 2010, elle n’a travaillé que quelques heures chaque année pour la société de son père. Son emploi à la CSIT Consulting Inc. a duré du 12 janvier 2005 au 14 décembre 2005, mais l’appelante a déclaré qu’elle avait pris congé de mai à août, et le nombre d’heures assurables (951,85) indique que l’appelante ne travaillait pas à temps plein durant cette période d’emploi. Si le nombre d’heures travaillées chaque semaine était de 35 à 40 heures, cela voudrait dire qu’elle avait travaillé environ six mois. Son expérience de travail serait donc d’environ six à sept mois, y compris les quelques heures de travail effectuées pour la société de son père.
+[12] Le seul témoin appelé par l’intimé a été une agente des appels travaillant pour l’Agence du revenu du Canada (l’« ARC »), dont la seule intervention dans le dossier était le fait qu’elle avait lu le rapport rédigé par la personne qui avait conclu que l’emploi de l’appelante était un emploi exclu. L’agente des appels n’a pu ajouter quoi que ce soit à ce qui était écrit dans le rapport puisqu’elle ne l’avait pas rédigé et qu’elle n’était intervenue d’aucune autre façon.
+[13] Dans le rapport de l’agente des appels qui était intervenue dans le dossier, le paragraphe se rapportant à la [traduction] « Rémunération » contient ce qui suit :
+[traduction]
+Le taux de rémunération ne correspond pas aux tâches accomplies. Il n’est pas raisonnable de croire que le payeur paierait quelqu’un 21 $ l’heure pour se familiariser avec toutes ses tâches. La rémunération payée à la travailleuse dépasse ce qui serait payé à un travailleur arrivant sur le marché du travail. Le taux de rémunération n’est pas lié aux compétences ou aux connaissances de la travailleuse, ni aux services qu’elle fournissait. En outre, la travailleuse ne recevait pas d’indemnité de congé. Sa rémunération était versée tardivement et elle était toujours réglée tardivement. La travailleuse n’agissait pas d’une manière conforme à son propre intérêt concernant sa rémunération.
+Tout cela montre que la rémunération n’est pas à peu près semblable à celle qui aurait été versée s’il n’y avait pas eu de lien de dépendance entre les parties.
+[14] Dans une section antérieure intitulée [traduction] « Analyse des contradictions et des renseignements conflictuels », l’agente des appels a écrit ce qui suit :
+[TRADUCTION]
+Le payeur affirme dans sa lettre d’appel que la travailleuse détient un certificat en commerce, dans le cadre duquel elle avait suivi des cours de comptabilité, et le payeur ajoute que la travailleuse possède de l’expérience en comptabilité et en tenue de livre. Outre son expérience, elle a travaillé avec le logiciel « Simple Comptable » et a fait un peu de facturation. La travailleuse a déclaré avoir suivi un cours de comptabilité de base, que son expérience de la facturation découlait des quelques heures de travail qu’elle avait effectuées pour son père et que son expérience de la tenue de livre était minime. Le payeur confirme que la travailleuse ne savait pas comment se servir du logiciel Simple Comptable.
+La travailleuse n’a pas non plus été formée pour administrer la paie ou pour travailler avec des devises étrangères. Elle n’avait pas non plus d’expérience de travail récente en matière de vente d’immeubles. Elle ne connaissait pas encore très bien le logiciel.
+En conséquence, il est raisonnable de croire que la travailleuse devait se familiariser avec toutes les tâches du poste. Elle était payée 21 $ l’heure, l’équivalent de 42 000 $ par année. Cette rémunération n’est pas raisonnable compte tenu des qualifications et de l’expérience de la travailleuse, qui n’était pas formée.
+[15] Au premier paragraphe mentionné dans la section intitulée [traduction] « Analyse des contradictions et des renseignements conflictuels », l’auteur écrit que l’appelante avait travaillé avec le logiciel « Simple Comptable », mais, dans la dernière phrase, il écrit que [traduction] « le payeur confirme que la travailleuse ne savait pas comment se servir du logiciel « Simple Comptable ». Si elle travaillait avec « Simple Comptable », alors elle devait vraisemblablement savoir comment se servir de ce logiciel. D’ailleurs, comme la dernière phrase commence par les mots « le payeur confirme[1] », il faudrait en conclure que ce qui suit est une confirmation de ce qui précède cette phrase dans le rapport, et non une contradiction. Cette dernière phrase ne cadre pas avec la portion antérieure du même paragraphe. L’auteur du rapport n’a pas été appelé à témoigner, et l’on n’a pas expliqué pourquoi il ne l’a pas été. Une explication de la contradiction apparaissant dans la dernière phrase est la présence d’une erreur typographique et le fait que le mot « confirme » ou la négation « ne… pas » est fautif. Puisque l’auteur n’a pas été appelé à témoigner pour expliquer le rapport et s’exprimer sur ce point, j’en tire une conclusion défavorable et je présume que la négation « ne… pas » est fautive, et l’agente des appels reconnaissait par conséquent que l’appelante savait bel et bien comment se servir du logiciel Simple Comptable.
+[16] En tout état de cause, l’appelante a témoigné qu’elle connaissait effectivement le logiciel Simple Comptable. J’accepte son témoignage et je conclus qu’elle savait effectivement se servir du logiciel. Par conséquent, les conclusions du rapport où l’on peut lire que [traduction] « la travailleuse devait se familiariser avec toutes les tâches du poste » et qu’elle était une [traduction] « travailleuse non formée » ne sont pas raisonnables.
+[17] L’auteur du rapport a aussi écrit que, selon elle, le montant de la rémunération n’était pas raisonnable. Cependant, il n’y a dans le rapport aucune analyse du marché du travail à Red Deer en 2010, et l’intimé n’a pas non plus apporté la moindre preuve qu’une analyse du marché du travail à Red Deer en 2010 avait été faite par l’agente des appels pour le compte de l’ARC. La conclusion de l’auteur du rapport, selon laquelle le montant de la rémunération n’était pas raisonnable, semble reposer uniquement sur son opinion personnelle.
+[18] J’accepte le témoignage de Christopher Stephan qui a affirmé s’être renseigné sur le marché du travail dans la région avant d’établir un taux horaire de 21 $, et pour qui ce montant s’inscrivait dans un éventail raisonnable de rémunérations pour une personne fournissant des services comme ceux de l’appelante en 2010 à Red Deer. La rémunération est également raisonnable si on la compare aux rémunérations que l’appelante avait constatées en 2011. L’appelante avait une certaine expérience, elle détenait un certificat en commerce et elle savait comment se servir du logiciel Simple Comptable. Il me semble que le taux horaire qui devrait être utilisé à titre de comparaison est le plus faible des taux horaires extraits des avis de postes vacants pour février 2011, à savoir 20 $ l’heure. Le taux de 21 $ l’heure payé à l’appelante était donc 5 p. 100 plus élevé que le taux comparatif de 20 $ l’heure.
+[19] En ce qui concerne l’interprétation de l’expression « la totalité, ou presque » aux fins de la Loi de l’impôt sur le revenu, l’ARC a toujours soutenu que cette expression signifiait 90 % ou plus. Cela se reflète dans plusieurs interprétations techniques de l’ARC, aux paragraphes 18 et 24 du bulletin d’interprétation IT-151R5 et au paragraphe 1 du bulletin d’interprétation IT-507R. Lorsque le ministre évalue si les modalités d’un contrat de travail sont « à peu près semblables » à celles du contrat qui aurait été conclu si les parties n’avaient pas eu de lien de dépendance, il me semble que le ministre ne devrait pas adopter un sens plus restrictif de l’expression « à peu près » que celui que l’ARC a adopté pour interpréter l’expression « la totalité, ou presque ». Puisque les termes « à peu près » et « presque » admettraient un écart pouvant aller jusqu’à 10 p. 100, il me semble raisonnable que, dans les cas où un montant pourrait être supérieur ou inférieur à un autre montant (et lui être à peu près semblable), on puisse se servir de la fourchette de 90 p. 100 à 110 p. 100 comme guide pour savoir si un montant est à peu près semblable à un autre montant.
+[20] Il me semble donc que, pour savoir si la rémunération était « à peu près semblable » à ce qu’elle aurait été si les parties n’avaient pas eu de lien de dépendance, l’intimé aurait dû procéder à une analyse du marché du travail à Red Deer en 2010 et se demander si la rémunération versée était à peu près semblable à celle que recevraient, sur ce marché du travail et pour le même travail, des personnes sans lien de dépendance. Vu l’absence d’une quelconque analyse du marché du travail à Red Deer qu’aurait pu effectuer l’agente des appels ou n’importe qui d’autre au sein de l’ARC, et vu le témoignage de Christopher Stephan et celui de l’appelante, ainsi que leur analyse faite en 2010 et en 2011 (analyse qui montre que l’appelante n’était payée que 5 p. 100 de plus que le taux de rémunération le plus faible pour un teneur de livres en février 2011), je suis d’avis que la décision du ministre, selon laquelle la rémunération versée à l’appelante n’était pas à peu près semblable à la rémunération qui lui aurait été versée s’il n’y avait pas eu de lien de dépendance entre elle et la société, n’était pas raisonnable.
+[21] S’agissant du moment auquel l’appelante encaissait ses chèques, l’appelante a témoigné que c’était là tout simplement la manière dont elle faisait les choses, c’est-à-dire qu’elle attendait d’avoir en main plusieurs chèques avant de se rendre à la banque. J’accepte son témoignage et j’arrive à la conclusion que le moment de l’encaissement de ses chèques n’était pas rattaché à une quelconque modalité de son emploi ni ne permettrait d’affirmer qu’elle n’aurait pas conclu avec la société un contrat de travail à peu près semblable si elle n’avait pas eu de lien de dépendance avec la société.
+[22] L’avocat de l’intimé a également soulevé la question du lieu où était fait le travail. En 2010, l’appelante, Christopher Stephan et leurs enfants vivaient chez les parents de Christopher Stephan. Une chambre avait été aménagée dans la maison des parents pour servir de bureau. Selon l’intimé, Christopher Stephan n’aurait pas engagé une personne sans lien de dépendance pour qu’elle travaille dans le bureau situé chez ses parents. Il importe, me semble-t-il, de se souvenir que les dispositions de l’alinéa 5(3)b) de la Loi sur l’A‑E ne requièrent pas que les modalités soient exactement les mêmes que ce qu’elles auraient été si l’appelante et la société n’avaient pas eu de lien de dépendance, la question étant de savoir si :
+Il est raisonnable de conclure, […], qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[23] Pour répondre à cette question, il est nécessaire de tenir compte de l’ensemble des circonstances de l’emploi. Il est clair que le bureau ne servait pas d’endroit où étaient reçus des clients. Il est clair également que Christopher Stephan pouvait s’arranger pour que les appels téléphoniques soient transférés à n’importe quel téléphone. En ce qui concerne les courriels, il avait simplement besoin d’un ordinateur et d’un accès Internet. Il a aussi été question du courrier ordinaire, mais on n’a pas fait état de la fréquence à laquelle était reçu le courrier ordinaire. Quoi qu’il en soit, si une personne devait travailler depuis son propre domicile, elle pourrait prendre des dispositions pour prendre son courrier à un autre endroit. Le travail de comptabilité pourrait lui aussi être fait à un autre endroit. Il ne semble y avoir aucune raison pour laquelle il faudrait que ce soit une personne sans lien de dépendance qui travaille au bureau situé chez les parents de Christopher Stephan.
+[24] Il me semble donc que la question qu’il faut se poser, c’est de savoir si les modalités seraient à peu près semblables pour le cas où un employé sans lien de dépendance devait travailler depuis son propre domicile. Compte tenu de l’ensemble des circonstances, il n’est pas raisonnable de dire simplement (comme l’a laissé entendre l’avocat de l’intimé) que les modalités ne seraient pas à peu près semblables parce que Christopher Stephan (en tant que dirigeant et administrateur de la société) n’engagerait pas une personne sans lien de dépendance pour qu’elle travaille chez ses parents à lui. Il me semble que les modalités se rapportant à l’emploi de l’appelante seraient à peu près semblables à celles qu’il y aurait eu entre la société et un employé sans lien de dépendance travaillant depuis son propre domicile.
+[25] Le rapport de l’agente des appels en ce qui concerne la durée de l’emploi fait état du fait que le « payeur » avait créé une autre entreprise. L’autre entreprise serait le cabinet juridique établi par Christopher Stephan, et non par le payeur. Christopher Stephan a déclaré que les activités de la société se sont poursuivies au même niveau tout au long de l’automne 2010, alors même qu’il briguait le mandat de conseiller municipal. Christopher Stephan et l’appelante ont témoigné que ce fut là une période très occupée pour Christopher Stephan. J’accepte leur témoignage et je conclus que les activités de la société se sont poursuivies au même niveau tout au long de l’automne 2010.
+[26] Le rapport de l’agente des appels mentionnait aussi que le téléphone de la société avait été transféré à un autre endroit en novembre 2010. Les parties ont produit des relevés téléphoniques montrant que la ligne téléphonique de la société n’avait été redirigée vers le cabinet juridique de Christopher Stephan qu’après la cessation d’emploi de l’appelante. Rien ne donne à penser que quelque tâche de l’appelante que ce soit a été transférée au personnel du cabinet de Christopher Stephan avant la cessation d’emploi de l’appelante.
+[27] Le rapport précise aussi que [TRADUCTION] « le poste semble avoir été créé pour la travailleuse ». Cependant, il n’y a aucune analyse du revenu de la société. Si la société n’avait pas de revenu ou avait très peu de revenus, cela pourrait montrer qu’il n’était sans doute pas raisonnable d’engager une personne sans lien de dépendance pour qu’elle travaille 40 heures par semaine à 21 $ l’heure. Cependant, sans une analyse du revenu de la société (c’est-à-dire de l’information que le ministre du Revenu national aurait sans doute pu obtenir), il me semble que la personne la mieux placée pour dire si un travailleur est nécessaire est celle qui gère l’entreprise. J’accepte le témoignage de Christopher Stephan selon lequel la société avait besoin d’engager quelqu’un. La période visée par l’appel n’est que la période de deux semaines allant du 14 mai 2010 au 27 mai 2010, mais l’avocat de l’intimé a mentionné que la décision portant sur cette période serait appliquée à la période restante. Plusieurs des faits mentionnés se rapportaient à des événements qui se sont produits après la période en cause. Deux de ces événements étaient l’ouverture du cabinet juridique de Christopher Stephan et sa candidature au poste de conseiller municipal. Il apparaît clair qu’il aurait fallu certainement engager quelqu’un pour répondre au téléphone et aux courriels pour la société durant cette période.
+[28] Il m’est donc impossible de conclure que la décision du ministre semble toujours raisonnable eu égard à la preuve qui a été produite et, en conséquence, l’appel interjeté en vertu de la Loi sur l’A-E est accueilli et la décision du ministre du Revenu national au titre de la Loi sur l’A-E est modifiée, compte tenu du fait que l’appelante exerçait un emploi assurable pour l’application de la Loi sur l’A-E durant la période allant du 14 mai 2010 au 27 mai 2010.
+Signé à Ottawa, Canada, ce 28e jour de novembre 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 17e jour de janvier 2012.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2011 CCI 529
+Nos DES DOSSIERS DE LA COUR : 2011-1432(EI)
+2011-1433(CPP)
+INTITULÉ : LAURA STEPHAN c. M.R.N.
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 9 novembre 2011
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 28 novembre 2011
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Adam Gotfried
+Représentant de l’intervenante :
+Me Christopher Stephan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Non souligné dans l'original.

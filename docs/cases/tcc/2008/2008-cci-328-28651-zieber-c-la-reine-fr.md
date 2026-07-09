@@ -1,0 +1,205 @@
+---
+title: "Zieber c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28651/index.do"
+last_modified: "2008-06-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 328"
+citation2: ""
+neutral_citation: "2008 CCI 328"
+decision_date: "2008-06-04"
+language: "fr"
+item_id: "28651"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1115
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:42:15.412000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5b2ceec6756277718dff3f8bcdbf55e13a436cd6d2fc9b7b41f015a655d53181"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zieber c. La Reine
+
+- Citation: 2008 CCI 328
+- Decision date: 2008-06-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1115, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zieber c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-04
+Référence neutre
+2008 CCI 328
+Numéro de dossier
+2007-4311(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4311(IT)I
+ENTRE :
+COLIN G. ZIEBER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu à Lethbridge (Alberta), le 2 juin 2008.
+Devant : L’honorable juge suppléant D.W. Beaubier
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Margaret M. McCabe
+____________________________________________________________________
+JUGEMENT
+Le présent appel interjeté à l’égard d’une nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci‑joints.
+La somme de 100 $ est adjugée à l’appelant à l’égard des débours qu’il a engagés dans le cadre de son appel.
+Signé à Calgary (Alberta) ce 4e jour de juin 2008.
+« D.W. Beaubier »
+Juge suppléant Beaubier
+Traduction certifiée conforme
+ce 25e jour de juillet 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2008CCI328
+Date : 20080604
+Dossier : 2007-4311(IT)I
+ENTRE :
+COLIN G. ZIEBER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge suppléant Beaubier
+[1] Le présent appel, interjeté sous le régime de la procédure informelle, a été entendu à Lethbridge (Alberta), le 2 juin 2008. Seul l’appelant a témoigné.
+[2] Les détails de l’affaire sont décrits aux paragraphes 1, 4, 7, 11, 12 et 13 de la réponse à l’avis d’appel, qui sont ainsi rédigés :
+[TRADUCTION]
+A. EXPOSÉ DES FAITS
+1. À l’égard du premier paragraphe non numéroté de l’avis d’appel,
+a) il admet :
+(i) que l’appelant et son épouse ont conclu un contrat de grossesse avec un autre couple en vertu duquel une mère porteuse s’engageait à porter un embryon qui avait déjà été créé;
+(ii) que les frais juridiques relatifs à un contrat de grossesse ne figurent pas à la Loi de l’impôt sur le revenu, et qu’ils ne constituent donc pas des dépenses admissibles;
+b) il nie qu’un représentant de l’Agence du revenu du Canada a conseillé à l’appelant de demander la déduction des frais juridiques engagés pour conclure le contrat de grossesse;
+c) il n’a pas connaissance des autres allégations énoncées dans les présentes, et il ne les admet pas.
+[…]
+4. En calculant ses revenus pour l’année d’imposition 2005, l’appelant a demandé un crédit d’impôt pour frais médicaux de 8 563 $.
+[…]
+7. Le 2 février 2007, le ministre du Revenu national (le « ministre ») a de nouveau établi une nouvelle cotisation pour l’année d’imposition 2005 de l’appelant (la « nouvelle cotisation du 2 février 2007 »), dont l’avis a été envoyé le jour même. Cette nouvelle cotisation admettait la déduction de 5 941 $ à titre de frais médicaux. Lorsque le ministre a établi la nouvelle cotisation du 2 février 2007, il a refusé la déduction de frais médicaux s’élevant à 2 987,21 $ (les « frais refusés ») parce qu’il jugeait qu’il ne s’agissait pas de frais médicaux, ou encore, s’il s’agissait de frais médicaux, qu’ils n’avaient pas été engagés pour l’appelant, pour son épouse ou pour une personne à la charge de l’appelant.
+[…]
+11. Lorsqu’il a établi la nouvelle cotisation pour l’année d’imposition 2005 de l’appelant et lorsqu’il a ratifié la nouvelle cotisation du 2 février 2007, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) L’épouse de l’appelant est Lori Zieber (l’« épouse »);
+b) les frais refusés sont ventilés de la sorte :
+Frais juridiques
+2 451,75 $
+Déplacements – repas
+90,00 $
+– hébergement
+159,70 $
+Réservation d’hôtel
+106,44 $
+Échographie pelvienne
+100,00 $
+Ordonnances
+79,32 $
+Total
+2 987,21 $
+c) les frais refusés avaient été engagés par l’appelant et l’épouse pour donner naissance à un enfant par l’intermédiaire d’une mère porteuse;
+d) les frais juridiques faisant partie des frais refusés avaient été engagés pour la préparation d’un contrat conclu entre l’appelant, l’épouse et la mère porteuse;
+e) les frais refusés relatifs aux déplacements – pour les repas et l’hébergement – avaient été engagés pour des séances d’information sur la maternité de substitution auxquelles l’appelant et l’épouse ont assisté;
+f) les frais refusés relatifs à la réservation de chambres d’hôtel ont été engagés en août 2004;
+g) les frais refusés relatifs à l’échographie pelvienne et aux ordonnances n’ont pas été engagés pour l’appelant, pour l’épouse ou pour une personne à la charge de l’appelant.
+B. QUESTIONS EN LITIGE
+12. La question en litige est de savoir si l’appelant a droit à une déduction de 2 987,21 $, à titre de frais médicaux pour l’année d’imposition 2005, lesquels ont été engagés pour permettre à l’appelant et à l’épouse de donner naissance à un enfant par l’intermédiaire d’une mère porteuse.
+C. DISPOSITIONS LÉGISLATIVES, MOYENS INVOQUÉS ET CONCLUSIONS RECHERCHÉES
+13. Il se fonde sur l’article 118.2 de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) (la « Loi »), dans sa version modifiée, pour l’année d’imposition 2005.
+[3] Les dispositions qui sont au cœur de l’appel sont les alinéas 118.2(1)a) et 118.2(2)l.1) de la Loi de l’impôt sur le revenu (la « Loi »), lesquels sont rédigés de la façon suivante :
+Crédit d’impôt pour frais médicaux
+118.2 (1) La somme obtenue par la formule ci-après est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+A x [(B - C) + D]
+où :
+A représente le taux de base pour l’année;
+B le total des frais médicaux du particulier, engagés à son égard ou à l’égard de son époux ou conjoint de fait ou de son enfant qui n’a pas atteint l’âge de 18 ans avant la fin de l’année et qui, à la fois :
+a) sont attestés par des reçus présentés au ministre,
+[…]
+Frais médicaux
+(2) Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+[…]
+l.1) au nom du particulier, de son époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a), qui doit subir une transplantation de la moelle épinière ou d’un organe :
+(i) pour les frais raisonnables, excluant les frais visés au sous‑alinéa (ii) mais incluant les frais judiciaires et les primes d’assurance, engagés dans la recherche d’un donneur compatible et dans les préparatifs de la transplantation,
+(ii) pour les frais raisonnables de déplacement, de pension et de logement, à l’exclusion des frais visés aux alinéas g) et h), du donneur (et d’une autre personne qui l’accompagne) et du particulier (et d’une autre personne qui l’accompagne) engagés relativement à la transplantation;
+[4] La Cour croit le témoignage de l’appelant selon lequel tous les frais dont la déduction a été demandée ont été engagés soit pour l’appelant et son épouse, soit pour la mère porteuse, afin de répondre aux exigences médicales imposées en vue de la transplantation de l’embryon de l’appelant et de l’épouse dans la mère porteuse pour que celle‑ci puisse donner naissance à leur enfant.
+[5] Par conséquent, la question que la Cour doit trancher est de savoir si un ovule fécondé ou un embryon constituent un « organe » aux termes de l’alinéa 118.2(2)l.1) de la Loi.
+[6] La loi fédérale régissant la maternité de substitution en question est la Loi sur la procréation assistée, L.C. 2004 ch. 2. L’article 3 de cette loi définit l’« embryon » de la façon suivante :
+« embryon »
+"embryo"
+« embryon » Organisme humain jusqu'au cinquante-sixième jour de développement suivant la fécondation ou la création, compte non tenu de toute période au cours de laquelle son développement est suspendu. Est également visée par la présente définition toute cellule dérivée d'un tel organisme et destinée à la création d'un être humain.
+Cela revient à dire qu’un embryon est un organisme humain.
+[7] L’édition de 1973 du Shorter Oxford Dictionary définit « organisme » de la façon suivante :
+[TRADUCTION]
+2. Un corps organisé ou organique; ensemble d’éléments dépendants et indépendants comparé à un être vivant […]
+et il définit ainsi « organe » :
+[TRADUCTION]
+II. Partie d’un organisme vivant, animal ou végétal, destiné par sa structure à remplir une fonction vitale qui lui est propre […]
+La Cour est d’avis qu’un ovule fécondé ou un embryon, tel celui en cause, est destiné par sa structure à devenir un être humain complet.
+[8] Pour ces motifs, la Cour conclut que la transplantation d’embryon en cause constituait une transplantation d’organe aux termes de l’alinéa 118.2(2)l.1) de la Loi et que les frais admissibles sont ceux qui y sont décrits. Tous ces frais ont été engagés par l’appelant pour la personne qui devait subir la transplantation d’organe, à une exception près. En effet, l’appelant a dit qu’il avait commis une erreur en demandant la déduction de 106,44 $ à titre de frais de réservation de chambres d’hôtel, mais qu’il avait toutefois oublié de demander une déduction supplémentaire de 90 $ à l’égard de repas, une dépense nécessaire pour la mère porteuse dans les circonstances.
+[9] Par conséquent, l’appel est accueilli dans son ensemble, exception faite de la somme de 16,44 $ – ce qui donne lieu à une déduction admise de 2 970,77 $ –, et la question est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux présents motifs.
+[10] La somme de 100 $ est adjugée à l’appelant à l’égard des débours qu’il a engagés dans le cadre de son appel, notamment pour faire des photocopies, pour payer des frais d’affranchissement et pour stationner son véhicule.
+Signé à Calgary (Alberta) ce 4e jour de juin 2008.
+« D.W. Beaubier »
+Juge suppléant Beaubier
+Traduction certifiée conforme
+ce 25e jour de juillet 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008CCI328
+No DU DOSSIER DE LA COUR :
+2007-4311(IT)I
+INTITULÉ :
+Colin G. Zieber et la Reine
+LIEU DE L’AUDIENCE :
+Lethbridge (Alberta)
+DATE DE L’AUDIENCE :
+Le 2 juin 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant D.W. Beaubier
+DATE DU JUGEMENT :
+Le 4 juin 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Margaret M. McCabe
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

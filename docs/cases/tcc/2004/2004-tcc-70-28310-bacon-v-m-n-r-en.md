@@ -1,0 +1,172 @@
+---
+title: "Bacon v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28310/index.do"
+last_modified: "2004-01-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 70"
+citation2: ""
+neutral_citation: "2004 TCC 70"
+decision_date: "2004-01-21"
+language: "en"
+item_id: "28310"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1829
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:53:16.942000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fa801a0859a8f722052b6d6fe4a66057fa298bdfdecb0775721a65f0f9633345"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bacon v. M.N.R.
+
+- Citation: 2004 TCC 70
+- Decision date: 2004-01-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1829, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bacon v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-21
+Neutral citation
+2004 TCC 70
+File numbers
+2001-1417(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+File: 2001-1417(EI)
+BETWEEN:
+LUCIE BACON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+RÉJEAN RIOUX O/A LA POURVOIRIE DU GOÉLAND ENR.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on November 7, 2003, at Trois-Rivières, Quebec.
+Before: The Honourable Judge François Angers
+Appearances:
+Counsel for the appellant:
+Gilbert Nadon
+Counsel for the respondent:
+Counsel for the intervener:
+Claude Lamoureux
+Gilbert Nadon
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is affirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of January, 2004.
+" François Angers "
+Angers J.
+Certified true translation
+Colette Beaulne
+Reference: 2004TCC70
+Date: 20040121
+File: 2001-1417(EI)
+BETWEEN:
+LUCIE BACON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+RÉJEAN RIOUX D.B.A. LA POURVOIRIE DU GOÉLAND ENR.,
+Intervener.
+REASON FOR JUDGMENT
+Angers J.
+[1] This is an appeal against a decision of the Minister of National Revenue (the "Minister") dated January 12, 2001, to the effect that the employment of the appellant, when she was working for Réjean Rioux (operating as "La Pourvoirie du Goéland enr." (the "payer") during the periods from May 18, 1997, to May 2, 1998, from May 3, 1998, to May 15, 1999 and from May 16, 1999, to May 12, 2000, was not insurable on the grounds that a similar employment contract would not have been entered into if, during the periods at issue, the payer and the appellant had been dealing with each other at arm’s length within the meaning of paragraph 5(2)i) and subsection 5(3) of the Employment Insurance Act (the "Act").
+[2] The respondent based his decision on the following assumptions of fact, which were admitted or denied by the appellant, as shown below:
+a) the payer operates a store; (admitted)
+b) Mr. Réjean Rioux is the spouse of the appellant; (admitted)
+c) the business owns 7 rental cabins; (admitted)
+d) the business is operated approximately 9 months per year; (admitted)
+e) the activities of the payer cease with the end of the hunting season in late October until the arrival of the snowmobilers in January and again between the spring thaw and the opening of the fishing season; (admitted)
+f) the turnover of the business is approximately $100,000 per year; (admitted)
+g) the business generates as much income during the winter months as during the summer months; (denied)
+h) the duties of the appellant were to do the housekeeping in the cabins, to take reservations, to keep the accounting books up to date, to receive customers and occasionally to serve in the dining room and the bar; (denied)
+i) the appellant's pay was $7 an hour in the winter; (admitted)
+j) the appellant's pay was $10 an hour in the summer, with the exception of the last period at issue, when her pay was reduced to $8.90; (admitted)
+k) during the periods as issue, the appellant was working full time both winter and summer; (denied)
+l) in winter, the appellant was paid for only 15 hours per week while she was receiving Employment Insurance benefits; (admitted)
+m) the hours of work recorded by the payer and paid to the appellant do not correspond to the actual number of hours worked by her, since she was working more hours than was shown on the payroll journal; (denied)
+n) the appellant performed services for the payer outside those periods where she was entered in the company payroll record; (denied)
+[3] Réjean Rioux and the appellant acquired a private residence, which they converted into a small lodge with a dining room in order to operate an outfitting operation, which they have done for the past 14 years. They added 7 cabins to rent out. They thus live in the lodge, where their bedroom is the only private area that they occupy. As was stated, the outfitting operation is operated for approximately nine months per year; the remaining three months, November, December and April, are months where there are very few visitors. During the winter months, they operate the restaurant primarily for a clientele that consists mainly of snowmobilers, whereas in the summer they do not operate as a restaurant, but instead concentrate their activities on providing accommodation for guests who hunt and fish.
+[4] According to Mr. Rioux, employees are always guaranteed a minimum number of hours per week, even if their presence is not warranted. He explained that their schedule varies depending on the customers and that, if things are quiet, the employees are laid off. He also explained that the employees' hours are variable and that, when they are at work, they are fed and sometimes also given accommodation. There are three or four employees, including the appellant, who work between 10 and 40 hours a week, depending on the employee and the season.
+[5] For his part, Mr. Rioux looks after everything. He does the maintenance and repair of the buildings and equipment and also looks after the guests. On occasion he also cleans the cabins. He explained that the profits are greater in summer than in winter, as the expenses are higher in winter. The two seasons generate equivalent income.
+[6] For the appellant, the guaranteed hours were 15 to 18 per week from January to March and in October and from 40 to 45 hours per week from May to September, depending on the period at issue. Mr. Rioux explained that the appellant's duties were more numerous in the summer. Since there were greater profits and fewer expenses during this season, he increased the appellant's hourly wage for it, and reduced it again during the winter. These rates are, moreover, stated at subsections 5(i) and (j) of the Reply to the Notice of Appeal. He recognized that only the appellant was subject to this variation in hourly rate. Mr. Rioux testified that the appellant was his partner in the business. They have been married for the past 23 years. He admitted that it is difficult to calculate the hours and that neither the appellant nor himself recorded their hours. The appellant assisted him in everything that he was not able to do himself, as he needed someone to be present all the time. According to him, the appellant deserved better conditions because she was, after all, his wife. They got up very early and went to bed very late and it was by no means rare for the appellant to work 100 hours per week. Notwithstanding the time she devoted to work, the appellant was paid for only 40 hours per week in 1997 and 1998 and 45 hours per week in 1990 and 2000.
+[7] The appellant looked after the bookkeeping every day of the year, unless the camp was closed, in which case there were virtually no bookkeeping entries to be made.
+[8] The appellant is the manager of an outfitter establishment and has been employed by the payer since 1990. During the summer months, she receives guests at the lodge and looks after the bar. She cleans the cabins, takes reservations, keeps the accounting books, makes the deposits and produces the various business reports. During the winter months, she supports the payer in his work in the kitchen, does the housekeeping and the bookkeeping. During the periods when she draws no salary, she does the deposits and her bookkeeping. She said that, during these periods, these duties require very little time.
+[9] In answer to the question whether she cashed her pay cheque before making the payer's deposits, the appellant explained that this was one way she could save time, because at the credit union where she made the deposit, customers had to go to a different wicket for a personal deposit.
+[10] In completing her testimony, the appellant acknowledged that her working hours were variable and that she had to be there if the payer was absent and vice versa. As far as her variable hourly rate was concerned, she explained it by saying that "instead of cutting the employees, she absorbed the cost".
+[11] The report on form CPT-110 was submitted as evidence. Ms. Johanne Nicol, the Appeals Officer, was the author of the report. When called to testify, she explained the steps she had taken before reaching her conclusion regarding the appellant's conditions of employment. She had thus had telephone conversations with the payer, the appellant, their representative, other employees of the payer, employees of other outfitters and a representative of the Fédération des pourvoyeurs du Québec (the Federation of Quebec Outfitters). She had also consulted the appellant's records of employment and applications for benefit for the periods at issue, the payroll record, the statutory declarations of the appellant and her son, who is also employed by the payer, the reservations book and certain items of correspondence.
+[12] In her testimony, Ms. Nicol explained that she had tried to determine the volume of work of the payer's business and the quantity of work performed by the appellant. After analyzing the documents in question, she found that the more departures there were of guests, the more work there was to do, and that there were times during the three years at issue that departures had occurred at times when the appellant was not listed in the payroll record. Ms. Nicol studied the payroll record and compared the appellant's pay with that of the other employees. The appellant's hourly rate varied widely in relation to the other employees, a fact on which Ms. Nicol based her conclusion that the appellant's hourly rate was established on the basis of the business's ability to pay.
+[13] Ms. Nicol also took into account a contradiction between what the appellant and the payer had said regarding the appellant's work schedule. The appellant stated that she began her day at around 8 or 9 am and worked during the afternoon or the evening, whereas Mr. Rioux stated that the appellant could work from 6 am to midnight. With regard to the periods in which the appellant worked 15 hours a week, the payer and the appellant contradicted each other in their telephone conversations with Ms. Nicol; whereas the payer said that she worked 15 hours on Fridays and Saturdays, the appellant stated that she had done these hours on Friday, Saturday and Sunday, working 4 or 5 hours each day and a little on the other days of the week.
+[14] On the issue of the volume of work to be done in comparison with the hours recorded in the payroll record, I have reproduced below an excerpt from the CPT-110 report on the nature and importance of work performed and the amount of work performed by the appellant during the winter months:
+Nature and importance of work performed:
+Whereas:
+In the winter, Ms. Lucie Bacon primarily looked after the housekeeping, whereas during the summer, in addition to cleaning the cabins, she looked after the bar, served the guests, handled reservations, orders, etc. The worker was the only person who looked after the bookkeeping (manually). She took care of the payroll record and source deductions, which took her approximately 15 minutes, since there were few employees. She did the bookkeeping on a daily basis (5 minutes) or once a week (15 to 20 minutes), entering the earnings based on the cash register tape.
+In the winter, the payer served meals (fast food; hot dogs, hamburgers, spaghetti) to attract customers. Mr. Réjean Rioux stated that he was the one who cooked the meals. He admitted, however, that when there were several customers at the same time, the worker would also help out. He was available in the winter because there was little maintenance work to be done outside, in contrast to the summer, when he was obliged to look after boat rentals, maintenance of the property and the cabins.
+We note that earnings for the years 1997 to 1999 are almost as much during the months of January, February and March as during June, July and August of the same year. The difference can be found in the area of meals and rentals: earnings from meals are greater during the winter, whereas earnings from rentals are greater during the summer. Bar income, however, is comparable in both seasons.
+It is difficult to establish a relationship between the needs of the payer in terms of staff and the payer's monthly earnings.
+The worker is listed in the payroll records for 12 to 13 consecutive weeks during the winter and for 23 to 30 consecutive weeks during the summer for the years 1997 to 2000.
+For the winter of 1999, Lucie Bacon and Jean-François Dumont work the same number of hours as the previous year, whereas Andrée Lamontagne, who replaced Ms.Hébert, works only 8 hours per week as compared to 15 hours. Nevertheless, earnings from cabin rentals are greater during the winter of 1999 than those of the previous year. In the summer of 1998, Ms. Hébert worked 16 hours per week for 21 weeks, while the person who was hired during the summer of 1999 worked 10 hours per week for only 10 weeks. And here again, the income from cabin rentals was comparable for some months. In addition, Ms. Francine Lapointe was not employed during the months where the rental income was highest.
+During the summer of 1999, during Ms. Lucie Bacon's first 11 weeks of work, there was no employee to help her with cleaning the cabins, as in other years, and Ms. Lucie Bacon did not have more recorded hours of work.
+In winter 2000, there were two employees, Ms. Lucie Bacon and Ms. Francine Lapointe; we note that Mr. Jean-François Dumont was not replaced.
+It is also difficult to establish the relationship between the needs of the payer in terms of staff and the number of cabin rentals for certain periods.
+According to the versions of Lucie Bacon and Réjean Rioux, the main duty of Lucie Bacon during the winter was to clean the cabins following the departure of the guests.
+In the winter of 1997, the worker reported 18 hours of work per week, whereas there are weeks in which no departures were recorded, and others with 8 departures within the same week. The first week of January, there was 1 departure and the worker's name does not appear in the payroll record.
+In September 1997, there were 5 departures for the month and the worker reported 20 hours of work per week, whereas in October, there were 12 departures in all and she reported 15 hours of work per week.
+We compared the reservations book for the first three months of the years 1997 to 2000, with the payroll records for the same years. We find that there is no logical consistency between the number of departures and the hours required by the staff on duty. For example, in 1998, the payer retained the services of Ms. Bacon and Ms. Hébert for 390 hours for a total of 22 departures, whereas in 2000, he retained the services of Ms. Bacon and Ms. Lapointe for 290 hours for a total of 75 departures - three times more departures and 100 fewer hours of work.
+Other circumstances:
+Whereas:
+For 1996, Ms. Julie Hébert, the payer's daughter-in-law, received pay totalling $9,464, which amounts to approximately 1352 hours at an hourly rate of $7. This number of hours is greater than that worked by Ms. Lucie Bacon during an entire summer season. If these hours are distributed during periods of business activity, i.e., 9 months out of 12 (approximately 38 to 39 weeks), Ms. Bacon was paid for an average of 35 hours a week, in summer and winter alike. Here again, Ms. Lucie Bacon did not have as many hours of work in the summer as in the winter.
+During 1997, the payer did not retain the services of Ms. Hébert, although she was drawing employment insurance benefits. Whereas during 1998, Ms. Julie Hébert has 531 hours of work entered in the payroll record. This number of hours is greater than the hours worked by the other people who replaced her subsequently.
+The question must be asked whether the payer retained the services of people with whom he did not have an arm’s length relationship based on the requirements for the business or the needs of the individuals themselves.
+In conclusion, the employment which is the subject of this appeal was, during the periods at issue, influenced and significantly shaped by the lack of an arm’s length relationship between the payer and Ms. Lucie Bacon.
+[15] A table was filed in evidence showing the hours worked by all the payer's employees, together with the number of departures and the income on a monthly basis, for the three periods at issue.
+[16] The task of the appellant in this case is to establish, based on the balance of probabilities, that the Minister exercised his discretionary power inappropriately in deciding that, in light of all the circumstances, the payer and the appellant would not have entered into a similar employment contract had there been an arm’s length relationship between them. According to the Federal Court of Appeal in the decision Canada v. Jencan Ltd. [1997] F.C.A. no 876, [1998] 1 F.C. 1987, the appellant must show that, depending on the case, the Minister acted in bad faith or for an improper purpose or motive, failed to take into account all the relevant circumstances, as expressly required by sub-paragraph 3(2)c)(ii) of the Employment Insurance Act and paragraph 5(3)b) of the Act, or took into account an irrelevant factor.
+[17] The statement of the role played by the Minister and that which the Court must play was reiterated by the Federal Court of Appeal in Légaré v. Canada, [1999] F.C.A. no 878 (Q.L.). Marceau J. summarized the issues in the following terms at paragraph 4:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used expresses a form of subjective element, and while this is being called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all the interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[18] The Federal Court of Appeal, furthermore, restated its position in Pérusse v. Canada, [2000] F.C.A. no 310 (Q.L.). Marceau J., referring to the passage cited above taken from Légaré, added the following at paragraph 15:
+The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister, when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[19] In exercising his discretion, the Minister concluded in this case that the appellant's hourly rate was established on the basis of the business's ability to pay. Counsel for the appellant, while acknowledging that there were variations in the appellant's hourly rate, maintained that this was nonetheless an hourly rate comparable to that found in other Quebec outfitters. The appellant is the only one of the payer’s employees whose hourly rate was reduced during the winter. Even if the rate paid to the appellant were comparable to that paid by other outfitter establishments, this reduction in the hourly rate was more readily acceptable by virtue of the lack of an arm’s length relationship. The payer himself acknowledged that the appellant's hourly rate was directly based on the business's ability to pay.
+[20] Among the conditions of employment, one salient point is the fact that the appellant's hours were not recorded. The appellant received the same pay every week for 40 or 45 hours of work, depending on the period at issue, even though she worked a great deal more than that. The evidence revealed that the appellant could work up to 100 hours a week. Even though an attempt appears to have been made on occasion to demonstrate that this number of hours is perhaps an exaggeration, I am satisfied that the appellant works many hours beyond the 40 or 45 per week for which she is paid. Counsel for the appellant maintains that the other employees, like the appellant, had no fixed schedule and that they were called upon to work as the business required, since weather conditions play an important role in the operations of this type of business. Counsel also maintains that the employees all had a guaranteed minimum number of hours when they were called in to work.
+[21] According to the table prepared by the Appeals Officer, the employees worked every day. The evidence has, however, revealed that, if bad weather affected operations, the employees did not work but were paid a minimum of guaranteed hours per day. In the case of the appellant, however, the circumstances were not the same, since she worked more than the 40 or 45 hours a week that were guaranteed her. In fact, she received the same pay every week, regardless of the hours actually worked. Since her hours of work always exceeded the guaranteed minimum, she was in a position which differed from that of the other employees, inasmuch as they never worked hours for which they were not paid. However, they were occasionally paid for hours not worked by reason of bad weather, which was not the case for the appellant, or at least there is no evidence to the contrary.
+[22] The Minister in his analysis has cast doubt on the needs of the business with regard to staff and the amount of the payer's monthly earnings. I am referring here to the comments I reproduced above on the nature and importance of the work performed. It is clear that, according to the report in which these comments appear, it is difficult to establish a relationship between the work to be performed and the staff on site during the three years covered by the analysis. Even though it is permissible to receive pay for part of a week of unemployment, the fact that this pay will not be deducted from benefits unless it exceeds 25% of the amount of weekly benefit necessitates an evaluation such as that contained in the report in order that the nature and importance of the work can be compared.
+[23] In the case before us, the facts reveal that the compensation paid to the appellant was based directly on the financial situation of the payer. By reason of her collaboration with the payer and her involvement in the business, the appellant was always available to respond to the needs of the outfitters, outside the hours for which she was paid. Her employment, during the three periods at issue, was undoubtedly influenced by the lack of an arm’s length relationship between her and the payer. In fact, Mr. Rioux acknowledged during the trial that the appellant was his partner in the business. She assisted him in everything he did and neither he nor she could leave the outfitter’s establishment unless the other were there. No record was kept of their hours. Mr. Rioux testified that the appellant deserved better conditions and that a love of nature was an essential pre-condition for agreeing to live in such a situation. In my view, while he is undoubtedly right, such a degree of willingness and involvement is not normally encountered in employment contracts entered into with third parties. The economic interests of the appellant and the payer are too closely linked.
+[24] Even though the Minister took into consideration the work performed by the appellant throughout the year - in other words, the deposits and the bookkeeping that she looked after - or again, without checking whether she did in fact keep the money or not, the fact that the appellant drew her pay cheque from the business account, he would, in my view, have reached the same conclusion.
+[25] The appellant has advanced no substantive proof that would support a conclusion on my part that the decision of the Minister is unreasonable in the circumstances, for the three periods at issue. I accordingly lack the authority to intervene.
+[26] For these reasons, the appeal is dismissed and the decision of the Minister is affairmed.
+Signed at Ottawa, Canada, this 21st day of January, 2004.
+" François Angers "
+Angers J.
+Certified true translation
+Colette Beaulne

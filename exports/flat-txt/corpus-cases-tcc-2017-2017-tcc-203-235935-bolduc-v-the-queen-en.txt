@@ -1,0 +1,420 @@
+Title: Bolduc v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/235935/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-203-235935-bolduc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-10-10
+
+# Bolduc v. The Queen
+
+- Citation: 2017 TCC 203
+- Decision date: 2017-10-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2184, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bolduc v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-10-10
+Neutral citation
+2017 TCC 203
+File numbers
+2012-816(IT)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-816(IT)G
+BETWEEN:
+BRIAN BOLDUC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 9, 2017, at Hamilton, Ontario.
+Written representations submitted by the Respondent on March 30, 2017 and by the Appellant on April 28, 2017.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the Appellant:
+Duane R. Milot
+Igor Kastelyanets
+Counsel for the Respondent:
+Dominique Gallant
+Meaghan Mahadeo
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2009 taxation year is allowed with costs.
+Signed at Toronto, Ontario, this 10th day of October 2017.
+“Johanne D’Auray”
+D’Auray J.
+Citation: 2017 TCC 203
+Date: 20171010
+Docket: 2012-816(IT)G
+BETWEEN:
+BRIAN BOLDUC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Auray J.
+I. OVERVIEW [1] Brian Bolduc (the “appellant”) hired Solutions 21 Financial (“Solutions 21”) to prepare and file his i tax return for the 2009 taxation year.
+[2] In computing his income for the 2009 taxation year, the appellant claimed a large business loss, although he was not operating a business during that year.
+[3] The Minister of National Revenue (the “Minister”) reassessed the appellant by disallowing the business loss and levied gross negligence penalties pursuant to subsection 163(2) of the Income Tax Act (the “Act”).[1]
+[4] Subsection 163(2) of the Act imposes a penalty when a taxpayer knowingly, or under circumstances amounting to gross negligence, makes a false statement in his income tax return.
+[5] The appellant states that prior to signing his income tax return for the 2009 taxation year, he carefully examined it and asked a representative of Solutions 21 why a business loss was being deducted. Satisfied with the answers given, the appellant decided to sign and file his income tax return with the deduction claimed.
+[6] The appellant states that he did not knowingly make a false statement nor was he wilfully blind in signing and filing his income tax return for the 2009 taxation year. The appellant further submits that he did not make a false statement under circumstances amounting to gross negligence.
+[7] The respondent submits that the appellant knew that he was not operating a business in his 2009 taxation year, but still reported a large business loss. Therefore, by signing the income tax return, the appellant knowingly made a false statement.
+[8] The respondent also submits that the appellant was wilfully blind to the false statement and therefore the assessment by the Minister whereby a penalty was levied pursuant to subsection 163(2) of the Act should be maintained.
+II. FACTS A. 2009 Income Tax Return [9] In filing his income tax return for the 2009 taxation year, the appellant claimed a business loss in the amount of $326,127. The appellant applied $82,963 of this business loss against his income in the 2009 taxation year and requested a carry back with respect to the remainder of the loss, which amounted to $243,164. The remainder of the loss would have been applied to the 2006, 2007, and 2008 taxation years, in the following manner: $78,514 (2006), $83,860 (2007), and $80,790 (2008).
+[10] On November 12, 2010, the Minister assessed the appellant for the 2009 taxation year and disallowed the business loss of $326,127. In addition, the Minister levied a penalty of $42,029 pursuant to subsection 163(2) of the Act.
+[11] The appellant appealed this assessment to the Tax Court of Canada on February 6, 2012.
+B. The Appellant [12] The appellant was born on October 13, 1977, and graduated from high school in 1996.[2] Following high school, the appellant completed an Electrical Engineering Technician Program at Conestoga College.
+[13] At all relevant times, the appellant was employed at Toyota Manufacturing as a production team leader. Prior to working at Toyota, the appellant had worked as a gas station attendant, a heating and cooling system installer and as an assembler of control panels.[3]
+[14] The appellant began working at Toyota in October 2001.[4] He started as a mobile equipment operator and was eventually promoted to the role of production team leader in November 2007. As a team leader, he supervised six employees.
+[15] The appellant has no training and has minimal knowledge with respect to tax matters, business law and accounting.[5] He testified that his knowledge of the Act was little to none.[6]
+C. Prior income tax returns [16] The appellant has never prepared his income tax returns. He has been filing income tax returns since 1993.
+[17] The appellant first used H&R Block for the preparation of his income tax returns. He stated that he paid H&R Block approximately $100 to $120. To save on these fees, the appellant asked his mother to prepare his returns.
+[18] With respect to his 2007 taxation year, the appellant participated in the Home Buyers’ Plan (the “HBP”). Under that Plan, the appellant borrowed an amount from his registered retirement savings plan (“RRSP”) towards the purchase of a house.[7] The appellant stated that in preparing his return for that year, his mother made a calculation error due to the HBP. Until 2008, when the appellant started using the services of Solutions 21, the appellant’s income tax returns always included the same items, employment income, RRSP contributions, and tuition credits.
+D. Solutions 21 [19] Beginning in the 2008 taxation year, the appellant hired Solutions 21 to assist him with tax matters and to prepare his and his spouse’s income tax returns.
+[20] The appellant was introduced to Solutions 21 through Ms. Linda Lockhart, his wife’s aunt, and her husband, Mr. Alex Pimentel.
+[21] Ms. Lockhart testified that she thought that it would be a good idea for the appellant to start using Solutions 21, since he was starting a family and purchasing a house.[8]
+[22] Ms. Lockhart had known the appellant, who was married to her niece Mandy Bolduc, for 17 years.[9] She was very close to Mandy. Ms. Lockhart stated that she saw the appellant and his spouse several times a month.[10]
+[23] Ms. Lockhart believed that Solutions 21 was a tax planning organization. Her spouse at the time, Mr. Pimentel, was the one who introduced her to Solutions 21.
+[24] Mr. Pimentel was first introduced to Solutions 21 through a co-worker at Denso, Tim Black.[11] Mr. Pimentel attended a Solutions 21 seminar in 2006. He then started using the services of Solutions 21 in 2006 and participated in their Stocklogics program.[12]
+[25] Ms. Lockhart attended her first meeting with Solutions 21 in 2007 and noted that there were between 40 and 50 people in attendance.[13] At the meeting, people had the opportunity to ask questions while some attendees shared their personal stories about their successful experience using Solutions 21.[14]
+[26] Ms. Lockhart and Mr. Pimentel had used Solutions 21 since 2006 for the following services:[15] income tax returns preparation for 2006 and 2007,[16] mortgage consultation and the purchasing of stocks and bonds.
+[27] Ms. Lockhart told the appellant that the advisers at Solutions 21 were experts who were very helpful and reliable. She described the organization’s two principal individuals, Ms. Janet Perry and Mr. Alrich Parkins, as being highly educated, experienced and trustworthy advisers.
+[28] Ms. Lockhart’s impression was that Ms. Perry and Mr. Parkins were very professional, and knowledgeable about finances, income tax return preparation, RRSPs and debt consolidation.[17] She stated that they promoted themselves as being registered financial advisors.
+[29] Further, Ms. Lockhart advised the appellant that Solutions 21 had connected her with Mr. Armavidis who was a mortgage broker at TD Canada Trust.[18]
+[30] Ms. Lockhart testified that she conducted the following research on Solutions 21 and relayed this information to the appellant:[19]
+- Checked if there were any complaints against Solutions 21 with the Better Business Bureau.[20] After finding Solutions 21 on the Better Business Bureau she found no bad reviews or alerts about them.
+- Conducted Google searches on Solutions 21, Ms. Perry, Mr. Parkins and Mr. Armavidis, and did not find anything negative or concerning with respect to these individuals. She believed that if there was something illegitimate about Solutions 21 it would be apparent from Google searches.[21]
+- Watched a YouTube video of a CityTV interview of Mr. Parkins discussing Solutions 21.[22]
+[31] Prior to attending his first meeting with Solutions 21 in November 2008, the appellant asked Ms. Lockhart questions about the organization. He also asked about the roles of Ms. Perry and Mr. Parkins and what services they had provided to Ms. Lockhart.
+E. Appellant’s first meeting with Solutions 21 [32] The appellant met with Solutions 21 for the first time in November 2008 at the residence of Ms. Lockhart and Mr. Pimentel. It was Ms. Perry and Mr. Parkins who led the Solutions 21 seminar. Eight or nine people attended the seminar including the appellant, his spouse, Ms. Bolduc, Ms. Lockhart, Mr. Pimentel and family and friends of Mr. Pimentel.[23]
+[33] The appellant stated that he was impressed with Ms. Perry and Mr. Parkins, he believed that they were highly educated and were registered financial advisors. He found them to be very professional, well‑dressed and well‑spoken.[24] In addition, the appellant stated that he was told by Ms. Perry that Solutions 21 was affiliated with TD Bank with respect to providing mortgage services.[25]
+[34] During the meeting, Solutions 21 representatives presented a slideshow that provided background on them personally and on Solutions 21. They promoted Solutions 21 as an innovative company made up of experienced financial advisors offering different services such as RRSPs, Tax Free Savings Accounts (TFSA), and life insurance. They also promoted their affiliation with TD Bank for mortgage services.[26] As well, they distributed written materials explaining their various programs.[27]
+[35] One of the products Solutions 21 promoted at the meeting was a charitable donation program. They provided a list of charities that had been researched and approved by Solutions 21. Further, they provided the appellant and the other attendees at the seminar with a link to review the charities on CRA’s website. The link had three charities that they could choose from.[28]
+[36] Immediately after the meeting, the appellant with Ms. Lockhart and Mr. Pimentel, conducted research on Solutions 21. Together they looked at Solutions 21’s website, and Ms. Perry and Mr. Parkin’s profiles. They found that everything on the website matched the information provided at the presentation.[29]
+[37] In addition, they watched a CityTV video on Solutions 21 and saw information on Solutions 21’s website about their affiliation with TD Bank.[30]
+[38] As a group, they discussed the charitable donation program presented by Solutions 21 and reviewed the CRA’s website to look at the list of charities. They looked on the CRA’s website to make sure the charities were legitimate.[31]
+[39] Everyone in the group chose the same charity namely, Furry World Rescue Mission. They found Furry World Rescue Mission on the CRA’s website.[32] The appellant chose this charity because it was located near his community in Cambridge, Ontario.[33]
+[40] Overall, the appellant testified that he thought Solutions 21 was a financial and savings institution. He believed it to be an all-star team made up of former CRA agents, high-end lawyers and experienced tax preparers.[34]
+F. Charitable donation program [41] After the meeting in November 2008, the appellant decided to participate in the charitable donation program and donated $2,000 to Furry World Rescue Mission.[35]
+[42] The appellant believed that Solutions 21 would be making a group donation, that would act similarly to a stock purchase, whereby depending on your donation amount, stocks would be disbursed throughout the group.[36] The appellant did not understand the details of the program but believed that Solutions 21 would be purchasing stock, while the money would be going to the charities.[37]
+[43] After making the donation, Solutions 21 provided a donation receipt to the appellant. The receipt listed a donation amount of $12,000. The appellant understood this amount to be the eligible amount of the donation or stock that was purchased on his behalf as a group donation.[38] The donation receipt specified the property received by the charity as common shares of RCT Global Networks Inc. appraised by the Frankfurt Stock Exchange.[39] The appellant did ask questions about these details when he received the receipt.[40]
+G. Additional meetings in 2008 [44] The appellant next attended a meeting at Solutions 21’s office in December 2008, where there was a presentation for another product based on a Whitby land development plan.[41] The appellant stated that approximately 30 to 40 persons attended the meeting.[42] The appellant also picked up his receipts from the charitable donation program.[43]
+[45] The appellant described Solutions 21’s office as a two to three storey glass building, with a reception area and boardrooms.[44] The appellant met with Solutions 21 at this office location on four different occasions.[45] Ms. Lockhart described the building as “gorgeous, beautiful, tall building. Kind of like downtown Toronto. Very well furnished.”[46]
+H. The appellant’s income tax return for his 2008 taxation year [46] The appellant hired Solutions 21 to prepare his and his spouse’s income tax returns for the 2008 taxation year. He paid them approximately $150 for this service, which he found reasonable since it was similar to what he had previously paid to H&R Block.[47]
+[47] The appellant did not have any reasons not to trust the representatives from Solutions 21. They had assisted Ms. Lockhart and her husband with respect to a mortgage, in addition to preparing successfully their income tax returns. The representatives at Solutions 21 were also able to solve the appellant’s tax issue with respect to the calculation error made by his mother in his 2007 income tax return.[48]
+[48] In April 2009, the appellant went to the business premises of Solutions 21 with Ms. Lockhart, Mr. Pimentel and Mr. Pimentel’s brother and father (the “Group”). The purpose of the visit was to review their income tax returns for the 2008 taxation year.[49] The Group met together with Ms. Perry, and reviewed their respective income tax returns page by page, asking questions throughout.
+[49] Everyone in the Group participated in the charitable donation program and was satisfied with Ms. Perry’s answers to their questions.[50] As far as the appellant knew, everyone in the donation program was getting a tax receipt that was not for the exact amount that they donated.[51]
+[50] The appellant preferred the Group atmosphere, as it gave everyone the opportunity to ask questions together, which was beneficial in case there was something he or someone else missed.[52]
+[51] Solutions 21 had claimed on behalf of the appellant a charitable donation in the amount of $12,000 for his 2008 taxation year.
+[52] Following the filing of his income tax return, an assessment was issued by the Minister and the appellant received a $7,000 refund.[53]
+[53] The appellant thought the amount refunded by CRA was too high. He contacted Ms. Perry at Solutions 21 who confirmed that the amount of the refund was correct. Ms. Perry told the appellant that the refund was large due to the following reasons:[54]
+(1) He was the sole income earner in his family;
+(2) It was the first year he had claimed child tax credits; and
+(3) He had made the charitable donation.
+[54] Ms. Perry advised the appellant that without the charitable donation he would have received a refund of around $2,500 and that the donation brought it up to $7,000.[55]
+[55] After speaking with Ms. Perry, the appellant believed that the refund was legitimate and that he was entitled to a refund of $7,000.[56]
+[56] In the summer of 2009, the Minister reassessed the appellant for his 2008 taxation year. The reassessment reduced the appellant’s refund by $400.
+[57] Apart from this $400 adjustment, the appellant was under the impression that his income tax return had been accepted as is, by the CRA.[57]
+[58] The appellant only found out that there was an issue with the charitable donation that he had claimed in his 2008 income tax return when the CRA contacted him in 2011.[58] By this time, he had already filed his 2009 income tax return, which he signed on April 14, 2010.[59] At the time his 2009 income tax return was filed, the appellant had no reason to believe that there was any issue with the donation he had claimed in 2008.
+I. Tiger Concierge program [59] The appellant attended a seminar in November 2009, where he was introduced by the representatives of Solutions 21 to the Tiger Concierge program.[60] The seminar was held at Solutions 21’s business premises. There were 30 to 40 people attending the seminar.
+[60] The appellant understood that the Tiger Concierge program would give him access and advice to invest in RRSPs, TFSAs, and a loss carryback program.[61]
+[61] The loss carryback program was promoted by Solutions 21 as a plan that had similarities with the HBP. The appellant stated that Solutions 21 advised him that you had to apply with the CRA and it was the CRA that decided if a taxpayer qualified for the loss carryback program. Solutions 21 told the appellant that he was a good candidate for the program because his spouse did not work; he just had a child and had recently purchased a house.
+[62] The appellant believed that the loss carryback program was put in place in order to provide interest-free loans to assist taxpayers that qualified for the program. In the presentation on the loss carryback program, the representatives of Solutions 21 suggested that the program had worked in the past for other taxpayers.[62]
+[63] The appellant and other attendees asked at the meeting why more people were not filing their income tax returns in this manner. The representatives of Solutions 21 explained at the meeting that this program was a special initiative that Solutions 21 had organized with the CRA and that this program was not available to the public at large.[63]
+[64] The appellant discussed the program with the Group prior to joining.[64]
+[65] The appellant believed that by joining the program he would gain access to the expertise of accountants and lawyers at Solutions 21. He paid $1,000 to join the program.
+J. The appellant’s 2009 income tax return [66] On April 14, 2010, the Group met with Ms. Perry and Mr. Parkins at Solutions 21’s business premises to review and sign their respective 2009 income tax returns.[65] The appellant stated that he reviewed his income tax return, page by page, in the group setting.
+[67] Prior to signing his 2009 income tax return, the appellant and other members of the Group asked many questions about the information in their income tax return. The Group asked about the business loss claimed in the income tax returns and confirmed with Solutions 21 that none of them had a business.[66]
+[68] Solutions 21 advised the appellant that the business loss of ($326,127.38) was not actually a business loss but was made up of his total income for the previous four years.[67] Ms. Perry explained that this was the manner in which they had to organize the return in order to explain to the CRA the loss carryback program request.[68] The appellant had a similar understanding of the meaning of the gross business income that was titled Receipts as Agent.[69] He believed that the amount listed as gross business income was the equivalent of the income tax deducted for the last four years.[70]
+[69] The appellant understood that as result of the loss carryback program he did not owe any tax. The appellant testified that he noticed that the Tiger Concierge program was not mentioned on his income tax return. That said, after asking questions about the business loss, the appellant and the rest of the Group were comfortable with the explanations provided and all signed their respective income tax returns.[71]
+[70] The appellant also noticed that on the last page of the income tax return, the word “Per” appeared beside the signature area.[72] The representatives of Solutions 21 explained to the appellant that since they were doing the request for the loss carryback program that they had to put the word “Per” beside the signature area.
+[71] The appellant testified that he believed that the way this program worked was that he would receive a refund of approximately $21,000, which he could invest, but would need to reimburse that amount to the CRA after four years. He believed that the refund was essentially an interest-free loan, and he planned to invest the money in a TFSA or RRSP through Solutions 21.[73]
+[72] The appellant believed that he would only receive this refund if he were to qualify for the loss carryback program. If he did not qualify, he would not receive the refund. However, if CRA granted his request, the appellant had to pay 20% of the loss carryback amount to Solutions 21.[74]
+[73] The appellant signed his 2009 income tax return. He testified that he believed the explanations given by the people at Solutions 21 because he trusted them. He had established a relationship with Solutions 21. In addition, at the time of signing his income tax return, the appellant had not been reassessed with respect to the charitable donation. He was under the impression that everything was in order.
+[74] Solutions 21 then filed the appellant’s 2009 tax return with the CRA. In initially assessing the appellant, the Minister’s denied the appellant’s claim for a business loss, therefore the appellant never received a refund from the CRA.[75]
+[75] Overall, the appellant testified that he met with Solutions 21 around eight to ten times, between 2008 and 2010.[76] These meetings included seminars, meet and greets, and the signing of tax returns.[77]
+K. Communication with the CRA [76] The CRA contacted the appellant in July 2010 and asked him to complete a business questionnaire in respect of his 2009 tax return.[78] The appellant was forewarned by Solutions 21 that because he was requesting a loss carryback related to a business loss, the CRA would first send this questionnaire prior to granting the loss carryback. Solutions 21 advised the appellant to forward the questionnaire to them so that they could properly respond.[79]
+[77] The appellant contacted Solutions 21 when he received the questionnaire from the CRA, which was dated July 15, 2010.[80] Solutions 21 then provided him with a letter to send back to the CRA.[81]
+[78] The letter used obscure wording such as “free will man”.[82] When the appellant read the letter, it did not make sense to him. He didn’t feel right sending it to the CRA so he contacted Ms. Perry.[83]
+[79] The appellant asked why it was worded in that way. Ms. Perry assured him that this was how the program worked. She asked him if they had ever steered him wrong before, and said that he was dealing with an experienced team “that knows what they can do”.[84] The appellant then sent the letter to the CRA.
+[80] In August 2010, after reading the letter provided by Solutions 21, members of the Group decided to consult an accountant. The Group, including the appellant, met with Mr. Atcheson. The latter advised the appellant (and the other members of the Group) that his 2009 income tax return prepared by Solutions 21 was not legitimate. A T1 adjustment was prepared by Mr. Atcheson for the appellant’s 2009 taxation year.[85]
+[81] After meeting with Mr. Atcheson, the appellant discontinued all communication with Solutions 21.[86]
+III. ISSUES [82] The only issue in this appeal is whether the appellant is liable for penalties in the 2009 taxation year pursuant to subsection 163(2) of the Act.
+IV. POSITION OF THE PARTIES [83] Before stating the position of the parties, the Minister’s assessment will be confirmed if pursuant to subsection 163(2) of the Act, the respondent establishes on a balance of probabilities, that:
+1. the appellant knowingly made a false statement, or (referred herein as the first path of subsection 163(2) of the Act.)
+2. the appellant made a false statement under circumstances amounting to gross negligence (referred herein as the second path of subsection 163(2) of the Act.)
+A. Appellant’s position [84] The appellant argues that he did not know that there was a false statement in his income tax return at the time of filing his income tax return. He also argued that he was not wilfully blind.
+[85] The appellant submits that this Court’s decision in Torres[87], which was upheld by the Federal Court of Appeal in Strachan, applied the wrong test to determine whether a taxpayer was wilfully blind, under the first path of subsection 163(2) of the Act. The appellant’s position is that the correct test for wilful blindness was articulated by the Supreme Court of Canada in the criminal context in Sansregret[88] and Hinchey[89].
+[86] Relying on the Supreme Court of Canada decisions, the appellant argues that for a Court to find that a taxpayer is wilfully blind, the respondent needs to establish that the taxpayer was deliberately ignorant of the need to make inquiry or he or she intended to cheat in filing his or her income tax return.
+[87] The appellant argues that the test applied in Torres[90] to determine if a taxpayer was wilfully blind, under the first path of subsection 163(2) of the Act, had the effect of diluting the concept of wilful blindness as formulated by the Supreme Court of Canada in Sanregret[91] and Hinchey[92].
+[88] Therefore, the appellant submits that the respondent did not establish that the appellant was wilfully blind to the false statement in his 2009 income tax return, namely the claim of a business loss. The appellant argues that he inquired as to why a business loss was claimed and he never had an intention to cheat.
+[89] The appellant further submits that he did not make a false statement in his income tax return under circumstances amounting to gross negligence pursuant to second path of subsection 163(2) of the Act.
+B. Respondent’s position [90] The respondent argues that the appellant understood the meaning of business income and loss. He signed his income tax return, knowing that he was claiming a large business loss, although he was not operating a business. He knowingly made a false statement when filing his income return for the 2009 taxation year.
+[91] Relying on the decision in Torres[93], the respondent also argued that the appellant was wilfully blind at the time of filing his income tax return. She argued that the appellant knew that he was not carrying on a business. After noticing that a large business loss was claimed in his 2009 income tax return, the appellant chose not to inquire about the business loss claimed to avoid finding the truth.
+[92] The respondent also argued that the appellant by not asking anyone else than the representatives of Solutions 21 about the business loss, was wilfully blind and grossly negligent.
+[93] The respondent submits that the factors outlined in Torres[94] have been confirmed by the Federal Court of Appeal and are the relevant factors to apply in this appeal as to whether the appellant was wilfully blind under subsection 163(2) of the Act.
+V. LEGAL ANALYSIS A. Penalties under subsection 163(2) of the Act [94] The relevant part of subsection 163(2) states:[95]
+False statements or omissions
+(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+…
+[95] The burden of proof for justifying the imposition of gross negligence penalties is on the respondent. Subsection 163(3) of the Act states:[96]
+(3) Where, in an appeal under this Act, a penalty assessed by the Minister under this section or section 163.2 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[96] After meeting with the accountant, Mr. Atcheson, the appellant became aware that he was dealing with scammers and that the program promoted by Solutions 21 did not exist. He therefore understood that he was not entitled to claim business losses, since he was not carrying on a business. Therefore, there is no doubt that there was a false statement in the appellant’s income tax return for the 2009 taxation year.
+[97] Accordingly, I will need to determine if the appellant knowingly made a false statement or if the appellant made a false statement under circumstances amounting to gross negligence.
+B. Knowingly and wilful blindness [98] In my view, the first argument of the respondent must fall. The evidence did not establish that the appellant knew that he made a false statement in his 2009 income tax return. At the time of signing his income tax return, the appellant believed that the loss claimed on his behalf by Solutions 21 was the mechanism to qualify for the program whereby the losses claimed could be reimbursed to the CRA similarly to HBP program after four years. I do not have any reason to doubt the testimony of the appellant. He was a candid and sincere witness.
+[99] That said, the Courts have stated that knowledge of one or more ingredients of the alleged act, may be established through the proof of wilful blindness. In Torres,[97] Justice Miller of this Court refers to the decisions of Hinchey[98] and Sansregret[99]. At paragraph 63 of his decision, Justice Miller stated as follows:
+[42] In R. v. Hinchey, [1996] 3 S.C.R. 1128, Cory J. discussed the concept of "wilful blindness" in the context of criminal law. At paragraphs 112 to 115 of that decision, he wrote the following:
+. . .
+In other words, there is a suspicion which the defendant deliberately omits to turn into certain knowledge. This is frequently expressed by saying that he “shut his eyes” to the fact or that he was “wilfully blind”.
+. . .
+114. In Sansregret, supra, this Court held that the circumstances were not restricted to those immediately surrounding a particular offence but could be more broadly defined to include past events. McIntyre J. distinguished wilful blindness from recklessness and quoted with approval a passage from Glanville Williams with regard to its application (at pp. 584 and 586):
+Wilful blindness is distinct from recklessness because, while recklessness involves knowledge of a danger or risk and persistence in a course of conduct which creates a risk that the prohibited result will occur, wilful blindness arises where a person who has become aware of the need for some inquiry declines to make the inquiry because he does not wish to know the truth. He would prefer to remain ignorant.
+. . .
+[43] Although Cory J.'s comments were made in the context of a criminal law case, they are nonetheless, in my view, entirely apposite to the facts of the present case. Consequently, the law will impute knowledge to a taxpayer who, in circumstances that dictate or strongly suggest that an inquiry should be made with respect to his or her tax situation, refuses or fails to commence such an inquiry without proper justification.
+[100] In Wynter[100], which is a decision recently rendered by the Federal Court of Appeal, Justice Rennie rejected the argument of the appellant, that this Court in Torres and the Federal Court of Appeal in Strachan failed to adopt the restrictive test for wilful blindness as formulated the Supreme Court of Canada in Sansregret and Hinchey and therefore, diluted the concept of wilful blindness.[101]
+[101] Justice Rennie stated as follows with respect to the concept of wilful blindness and in what circumstances it should be applied:
+[14] I turn to the appellant’s main argument. The appellant contends that wilful blindness requires evidence sufficient to demonstrate that the taxpayer actually knew the return was false and that the taxpayer “intended to cheat the administration of justice”.
+[15] The jurisprudence does not support the conclusion that an intention to cheat is a prerequisite for a finding of knowledge, and in particular, of wilful blindness. The decision of the Supreme Court of Canada in Guindon v. Canada, 2015 SCC 41, [2015] 3 S.C.R. 3 (Guindon), removes any doubt. The Supreme Court agreed with the decision of this Court, cited as Canada v. Guindon, 2013 FCA 153 at para. 37, [2014] 4 F.C.R. 786, which stated that “the assessment of a penalty under section 163.2 [dealing with tax preparers] is not the equivalent of being ‘charged with a [criminal] offence.’” While there is still a mental element present in subsection 163(2), I also note the Supreme Court’s endorsement in Guindon at paragraphs 60-62 of the reasons of Justice Strayer in Venne v. The Queen (1984), 84 D.T.C. 6247, [1984] C.T.C. 223 (Venne), and those of the Tax Court in Sidhu v. The Queen, 2004 TCC 174 at para. 23, 2004 D.T.C. 2540 that “[t]he burden here is not to prove, beyond a reasonable doubt, mens rea to evade taxes.”
+[16] In sum, the law will impute knowledge to a taxpayer who, in circumstances that suggest inquiry should be made, chooses not to do so. The knowledge requirement is satisfied through the choice of the taxpayer not to inquire, not through a positive finding of an intention to cheat.
+[17] While evidence, for example, of an actual intent to make a false statement would suffice to meet the “knowingly” requirement of subsection 163(2), requiring an intention to cheat to establish wilful blindness is inconsistent with the well-established jurisprudence that wilful blindness pivots on a finding that the taxpayer deliberately chose not to make inquiries in order to avoid verifying that which might be such an inconvenient truth. The essential factual element is a finding of deliberate ignorance, as it “connotes ‘an actual process of suppressing a suspicion’”: Briscoe at para. 24. I would add that, in the context of subsection 163(2), references to “an intention to cheat” are a distraction. The gravamen of the offence under subsection 163(2) is making of a false statement, knowing (actually or constructively, i.e., through wilful blindness) that it is false.
+[102] Therefore, a taxpayer will be deemed to have knowledge of a false statement and will be held responsible for the penalties under the first path of subsection 163(2) of the Act, if the respondent established that the taxpayer was willfully blind, namely in circumstances that suggest that an inquiry should be made but the taxpayer decides not to inquire because he knows that the answer may not serve his purposes. Contrary to the appellant’s position, the respondent does not have to establish that the intention of the taxpayer was to cheat.
+[103] Accordingly, I will apply the factors formulated in Torres[102] to the facts of this appeal to determine if the appellant was wilfully blind to the false statement.
+a) Education and experience
+[104] The appellant graduated from high school and completed a two-year Electrical Engineering Technician Program at Conestoga College.
+[105] During the relevant years, the appellant worked at Toyota as a production team leader. His position involved supervising a team of six employees, performing quality checks and helping out with repairs.
+[106] The appellant has no training in business, accounting or tax law. He has never prepared his own tax returns, but has been filing since 1993. Although he has never prepared his own returns, he did have a basic knowledge and understanding of RRSPs, the HBP and child tax credits.
+[107] Overall, the appellant’s education and experience is sufficient for him to have been suspicious of the methods used by Solutions 21. As a result, this factor will not limit the appellant’s liability in this case.
+b) Circumstances indicating a need for an inquiry [108] Justice Campbell Miller in Bhatti[103] used the term “flashing red lights” to describe circumstances that would indicate a need for inquiry. Examining the following factors will demonstrate whether there were “flashing red lights” that should have aroused the suspicion of the appellant.
+(i) Magnitude of the advantage [109] In prior tax years, the appellant received refunds of a few hundred dollars. In 2008, when the appellant used Solutions 21, he received a $7,000 tax refund. This was a significant advantage; however, the appellant did not specifically hire Solutions 21 anticipating this type of advantage.
+[110] Further, when the appellant received this refund, he immediately contacted Ms. Perry to confirm that the amount was correct. The appellant did not blindly just accept this amount; he asked questions to ensure that everything was filed correctly and that he was entitled to the refund.
+[111] In 2009, the appellant was claiming a refund of approximately $21,000. Even if the appellant did not receive the refund, it represented a significant benefit for the appellant, at the time of filing his income tax return. However, the appellant believed that he was requesting, under the program promoted by Solutions 21, a loan from the CRA of the last four years of income tax paid. He testified that he understood this amount to be an interest-free loan that would have to be repaid after four years and was part of a program put in place to assist couples with young families.
+[112] I found the appellant to be credible and honest and accept his testimony that he believed that the program promoted by Solutions 21 existed and that the amount of the loan had to be reimbursed after four years.
+[113] An interest free loan of $21,000 is still a significant advantage for the appellant. However, once again, the appellant did inquire as to how he was entitled to this amount and asked questions on several occasions about how the loss carryback program worked.
+[114] The appellant asked the tax preparer Solutions 21, questions to try to understand his entitlement to the refund. The tax preparer satisfactorily answered all his questions, leading him to genuinely believe he was entitled to these amounts.
+(ii) Blatantness of the false statement [115] The false statement was blatant on his 2009 tax return. The appellant testified that he did see the large business loss claimed by Solutions 21.
+[116] This is not a case where the taxpayer did not look at his return or did not notice the false statement. In this appeal, the appellant did see the false business loss and knew that he did not have a business.
+[117] However, the appellant questioned the tax preparer on why they claimed a large business loss. The appellant did not ignore the fact that a large business loss was claimed but asked questions and tried to understand why his return was organized in this manner.
+[118] The appellant believed the explanations provided by Solutions 21, and he did not appreciate the presence of the false statements.
+(iii) Lack of acknowledgement by the tax preparer [119] Solutions 21 did not complete the box in the tax return reserved for tax professionals. The appellant did not understand the significance of the tax preparer filling out this box and could not remember if he had seen it filled out in the past.
+[120] In this appeal, I do not think much weight should be given to this factor. This factor is especially relevant when it appears that the tax preparer does not want to acknowledge the services it performed. Although Solutions 21 did not fill out this box, this would not trigger suspicion in the mind of the appellant because Solutions 21 was visible publically.
+[121] The appellant testified that Solutions 21 had professional offices, a website and hosted large seminars (30 to 50 people). This is not a case where the tax preparer kept a low profile and not filling out the tax preparers’ box would be significant.
+[122] Solutions 21 operated in the public sphere and even if the appellant noticed that it did not fill out this box, it would not create much suspicion. In addition, the Group had been using Solutions 21 for different financial services, including, mortgages, RRSP and buying shares, since 2006. A trust relationship existed between Solutions 21 and the appellant.
+(iv) Unusual requests made by the tax preparer [123] The appellant did not write the word “Per” beside his signature but did notice that it was written on his tax return. He asked Solutions 21 about this and was satisfied with their answer.
+[124] This factor does not appear overly significant in this case.
+(v) Tax preparer previously unknown to the taxpayer [125] The tax preparer was known by the appellant. Mrs. Bolduc’s aunt and her husband had used Solutions 21 since 2006. Ms. Lockhart told the appellant about Solutions 21 and invited him to attend a meeting.
+[126] The appellant was not approached out of the blue by a supposed tax preparer. The tax preparer was recommended to him by close family members and he went on his own accord to learn more about their services.
+[127] The appellant asked Ms. Lockhart about Solutions 21 prior to attending his first meeting. Further, the appellant learned more about Solutions 21, Ms. Perry and Mr. Parkins at the meeting, and believed that the two individuals were registered financial advisors.
+[128] He relied on his own research and research conducted by Ms. Lockhart prior to getting involved with Solutions 21. He also relied on the fact that Ms. Lockhart had used Solutions 21 for two years for different financial services and had not experienced any problems with their services; in fact they had assisted Ms. Lockhart in her debt consolidation and with her mortgage. Solutions 21 also took care on behalf of the appellant of the error made by his mother, in his income tax return with respect to his HBP.
+[129] After using Solutions 21 in 2008, the appellant received a refund that was assessed and reassessed, leaving him with no knowledge of any improper conduct prior to signing his 2009 tax return.
+[130] By the time he signed his 2009 tax return he had built up a level of trust with the tax preparer that he had met with eight to ten times, and that his close family members had used since 2006.
+(vi) Incomprehensible explanations given by the tax preparer [131] The explanations given by the tax preparer made sense, at the time, to the appellant. Solutions 21 promoted the loss carryback program as being similar to the HBP program that the appellant was familiar with.
+[132] The tax preparer explained to him that the business loss listed was equal to his income from the last four years, and that the refund he received was equal to the tax he paid over that period. They told the appellant that this was the way they had to break it down for the CRA to understand that he was making the loss carryback request. The appellant trusted the representatives of Solutions 21; he did not have any reasons to not believe the explanations given by Solutions 21 as to why business losses were claimed.
+[133] Solutions 21 promoted the program as an initiative to assist young families in a similar way to the HBP program. This made sense to the appellant. The idea that the CRA could offer a program that allows taxpayers to borrow income tax previously paid to stimulate investment is not completely unreasonable. The appellant did go through his income tax return page by page with Solutions 21 and asked questions about the claimed amounts. The appellant made an effort to understand how the loss carryback program worked and believed that it was a legitimate program organized by the tax experts at Solutions 21.
+[134] The fact that the appellant asked questions and tried to understand the tax return is relevant in establishing his liability. He was under the impression that the program was designed to assist young families and that the amounts received would be repaid to the federal government after four years.
+[135] This Court in Brochu, noted that a taxpayer should try to understand their tax return to make sure it is filled out properly. The Court stated:[104]
+The appellant testified that she had quickly leafed through the return but that she did not understand the words “business income” and “credit”. Considering her education level and the fact that she had prepared her original return for the 2001 taxation year herself, it is difficult to believe that the appellant did not understand those words. If it is true that she did not understand them, she cannot use that as an excuse to avoid her liability. She should have tried to understand by asking Ms. Tremblay questions or by getting information from others in order to ensure that her income and expenses were properly accounted. For some reason, she did not think it necessary to get informed, and it is that carelessness which constitutes gross negligence, in my opinion. The penalty is thus justified under the circumstances.
+[Emphasis added.]
+[136] The program itself is not incomprehensible, and does not resemble tax plans that involve a separate identity for an individual and their social insurance number.
+[137] The appellant did not view any of the explanations as incomprehensible until he saw the letter that Solutions 21 provided him to send in to the CRA. This is the first time that the appellant saw explanations that made no sense to him, and shortly after he received this letter, he sought advice from an accountant.
+(vii) Whether others engaged the tax preparer or warned against using the tax preparer [138] No one warned the appellant about using the services of Solutions 21. The opposite was true in this appeal, as the appellant’s close family members encouraged him to use Solutions 21 for tax preparation.
+[139] His family had not experienced any problems with Solutions 21 since using their services and had not found anything negative on the company or on Ms. Janet Perry and Mr. Alrich Parkins when researching on the Internet. There was nothing negative found on Solutions 21 after researching them on the Internet and checking with the Better Business Bureau.
+(viii) Whether the taxpayer made an inquiry of the tax preparer to understand the return
+[140] The appellant asked questions of the tax preparer and tried to understand his income tax return.
+[141] This was not a case where the taxpayer did not look through their return, or blindly accepted the explanations of the tax preparer.
+[142] The appellant sat down with the tax preparer and went through his tax return page by page, asking questions throughout. He tried to understand all of the numbers claimed on the return and asked questions specifically about the business loss. Solutions 21 provided answers to all of his questions and unfortunately the appellant believed the explanations given.
+[143] The respondent argued that appellant should have inquired outside of Solutions 21. However, in the mind of the appellant there was no need to do so. He believed Solutions 21 was made up of experienced tax experts, who knew what they were doing.
+[144] The appellant’s close family members had used Solutions 21 since 2006 and had never had any problems with them. The appellant’s 2008 tax return was assessed and reassessed, and after these assessments the appellant believed that Solutions 21 properly filed his 2008 tax return.
+[145] The appellant asked questions of Solutions 21 when he went through his income tax return. He was satisfied with the answers and did not believe that any further inquiries were necessary.
+(ix) Fee structure [146] In 2009, the appellant paid $1,000 to join the Tiger Concierge program. Although this fee is high, the appellant believed that by joining it he would get access to products designed by experienced accountants and lawyers at Solutions 21. In this light, the fee did not seem unreasonably high to the appellant.
+[147] Further, if the appellant received a refund, he would need to pay a percentage of it to Solutions 21.
+[148] Overall, the appellant believed he was getting access to an all-star team of tax professionals and did not view the fee structure suspiciously.
+(x) Appearance of the tax preparer [149] In this appeal, the appearance of legitimacy is an important aspect to consider. In prior cases involving similar tax plans, often the tax preparer would never bring the taxpayer to their office but rather would go to the taxpayer’s home or meet in a coffee shop to sign the tax return.[105]
+[150] In contrast, Solutions 21 had a professional office, a reception area and boardrooms. The representatives were well dressed and hosted seminars that attracted 40 to 50 guests. They had a comprehensive website and discussed their business on CityTV. Further, they advertised an affiliation with TD Bank.
+[151] This factor on its own does not free the appellant from liability. However, it does make it more reasonable for a person to trust Solutions 21 and to believe that it was a legitimate financial savings institution.
+[152] In light of my analysis of all the facts in this appeal and the analysis of the factors enumerated in Torres[106], I am of the opinion that the respondent has not established that the appellant was willfully blind. The first path of subsection 163(2) of the Act is based on a subjective analysis. I believe the appellant when he stated that he trusted the representatives of Solutions 21 and believed in the existence of the program created by the government to assist families. Therefore, the appellant should not be imposed a penalty under the first path of subsection 163(2).
+[153] I will now analyze if the appellant made a false statement under circumstances amounting to gross negligence.
+C. False statement under circumstances amounting to gross negligence [154] The concept of gross negligence in subsection 163(2) of the Act is the subject of a wide body of jurisprudence.
+[155] The seminal decision on the meaning of gross negligence in the tax context is the Federal Court’s decision in Venne. Justice Strayer stated as follows on the meaning of gross negligence in subsection 163(2) of the Act:[107]
+“Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[156] In Lauzon,[108] this Court distinguished gross negligence from ordinary negligence. Gross negligence was described as a marked and substantial departure from the conduct of a reasonable person in similar circumstances. In the words of Deputy Judge Masse:
+There is a difference between ordinary negligence and gross negligence. Negligence is the failure to use such care as a reasonably prudent and careful person would use under similar circumstances. Gross negligence involves greater neglect than simply a failure to use reasonable care. It involves a high degree of negligence tantamount to intentional acting or indifference as to whether the law is complied with or not
+[157] As was stated by Justice Bowman in DeCosta,[109] in order to determine if the penalties under subsection 163(2) of the Act applies, the Court needs to consider a number of factors in order to draw the line between “ordinary” negligence and “gross” negligence, namely:
+a. the magnitude of the omission in relation to the income declared,
+b. the opportunity the taxpayer had to detect the error,
+c. the taxpayer's education and apparent intelligence, and
+d. genuine effort to comply.
+[158] No single factor predominates. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence.
+[159] Justice Bowman also stated in Farm Business Consultants,[110] that generally courts should be cautious when upholding the imposition of gross negligence penalties, and the benefit of the doubt should be in favour of the taxpayer.
+[160] It has been long recognized that the concept of “wilful blindness” is applicable to tax cases and is a circumstance, among others, amounting to “gross negligence” as that term is used in subsection 163(2) of the Act.[111]
+[161] The Federal Court of Appeal in Wynter[112] confirmed this approach. Justice Rennie for the Court of Appeal stated as follows at paragraph 20 of his reasons:
+[20] There is no question that, while conceptually different, gross negligence and wilful blindness may merge to some extent in their application. A taxpayer who turns a blind eye to the truth and accuracy of statements made in their income tax return is wilfully blind and also grossly negligent. . . .
+[162] The respondent argues that the penalties should be maintained, since she has established that the appellant was grossly negligent, by being wilfully blind to the false statement.
+[163] The Federal Court of Appeal in Villeneuve, Panini and Strachan[113] explained in what circumstances a taxpayer may be found to be willfully blind. If he or she becomes aware of the need for inquiry but declines to make such inquiry because the taxpayer does not want to know the truth.
+[164] The appellant was deceived by organized and sophisticated tax schemers. Solutions 21 had professional offices, a website, advertised an affiliation with TD Bank and ran seminars explaining their products.
+[165] Solutions 21 did not approach the appellant, but rather they were recommended to him by trusted family members. These family members had successfully used Solutions 21 for two years prior to the appellant getting involved.
+[166] Solutions 21’s programs offered tax advantages, but in this case the appellant did not blindly accept these advantages. The appellant asked questions and sought to understand the programs he was participating in.
+[167] It cannot be said that the appellant turned a blind eye to the amounts claimed in his tax return. The appellant went over his return with Solutions 21 page by page and specifically asked questions about the business loss claimed. Solutions 21 answered all the questions asked by the appellant.
+[168] The appellant believed their explanations and signed his tax return. Solutions 21 promoted a program that was allegedly offered by the government of Canada and the CRA, whereby young families could apply and if they qualified could benefit from a tax break for a four-year period. Further, under this program the benefit was a loan and would need to be repaid after four years. The program offered and the explanations provided by Solutions 21 were not incomprehensible. Solutions 21 did not promote an obscure scheme that involved a separate existence for an individual and their social insurance number.
+[169] The appellant’s behavior in this case does not meet the standard of wilful blindness and does not otherwise fall under conduct that occurred in circumstances that amount to gross negligence. The appellant’s conduct does not involve a degree of negligence tantamount to intentional acting or indifference as to whether the law is complied with or not. The appellant made a mistake by believing Solutions 21’s explanations but was not turning a blind eye in suspicious circumstances. It may be said that the appellant was naive, but in my view, his conduct, in light of what Solutions 21 told him, was not so reprehensible or unreasonable to be considered grossly negligent.
+[170] Overall, the appellant may have been naive by participating in the programs offered by Solutions 21. However, his conduct does not meet the higher standard of gross negligence and therefore does not warrant the imposition of subsection 163(2) penalties.
+VI. Disposition [171] The appeal is allowed with costs.
+Signed at Ottawa, Canada, this 10th day of October 2017.
+“Johanne D’Auray”
+D’Auray J.
+CITATION:
+2017 TCC 203
+COURT FILE NO.:
+2012-816(IT)G
+STYLE OF CAUSE:
+BRIAN BOLDUC v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+February 9, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+October 10, 2017
+APPEARANCES:
+Counsel for the Appellant:
+Duane R. Milot
+Igor Kastelyanets
+Counsel for the Respondent:
+Dominique Gallant
+Meaghan Mahadeo
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Duane R. Milot
+Igor Kastelyanets
+Firm:
+Milot Law
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Income Tax Act, RSC, 1985, c 1 (5th Supp).
+[2] Transcript, Brian Bolduc: Direct Examination at 9-10.
+[3] Transcript, Brian Bolduc: Direct Examination at 12-13.
+[4] Transcript, Brian Bolduc: Direct Examination at 13.
+[5] Transcript, Brian Bolduc: Direct Examination at 16.
+[6] Transcript, Brian Bolduc: Direct Examination at 16.
+[7] Transcript, Brian Bolduc: Cross-Examination at 90.
+[8] Transcript, Linda Lockhart: Direct Examination at 160.
+[9] Transcript, Linda Lockhart: Direct Examination at 140.
+[10] Transcript, Linda Lockhart: Direct Examination at 140.
+[11] Transcript, Brian Bolduc: Direct Examination at 26.
+[12] Transcript, Linda Lockhart: Direct Examination at 153.
+[13] Transcript, Linda Lockhart: Direct Examination at 150.
+[14] Transcript, Linda Lockhart: Direct Examination at 154.
+[15] Transcript, Brian Bolduc: Direct Examination at 21.
+[16] Transcript, Linda Lockhart: Direct Examination at 142.
+[17] Transcript, Linda Lockhart: Direct Examination at 149.
+[18] Transcript, Linda Lockhart: Direct Examination at 143.
+[19] Transcript, Linda Lockhart: Direct Examination at 166-167.
+[20] Transcript, Brian Bolduc: Direct Examination at 24; See also Transcript, Linda Lockhart: Direct Examination at 154.
+[21] Transcript, Linda Lockhart: Direct Examination at 155.
+[22] Transcript, Linda Lockhart: Direct Examination at 155.
+[23] Transcript, Brian Bolduc: Direct Examination at 26.
+[24] Transcript, Brian Bolduc: Direct Examination at 27.
+[25] Transcript, Brian Bolduc: Direct Examination at 29.
+[26] Transcript, Brian Bolduc: Direct Examination at 28.
+[27] Transcript, Brian Bolduc: Direct Examination at 29-30.
+[28] Transcript, Brian Bolduc: Direct Examination at 46.
+[29] Transcript, Brian Bolduc: Direct Examination at 41.
+[30] Transcript, Brian Bolduc: Direct Examination at 42-43.
+[31] Transcript, Brian Bolduc: Direct Examination at 45.
+[32] Transcript, Brian Bolduc: Direct Examination at 46.
+[33] Transcript, Brian Bolduc: Direct Examination at 28.
+[34] Transcript, Brian Bolduc: Direct Examination at 20.
+[35] Transcript, Brian Bolduc: Direct Examination at 58; Exhibit AR-1, Donation cheque, Tab 1.
+[36] Transcript, Brian Bolduc: Direct Examination at 58.
+[37] Transcript, Brian Bolduc: Cross-Examination at 101.
+[38] Transcript, Brian Bolduc: Direct Examination at 60.
+[39] Exhibit AR-1, Donation receipt, Tab 2.
+[40] Transcript, Brian Bolduc: Cross-Examination at 103.
+[41] Exhibit AR-1, Whitby land development plan, Tab 17; Transcript, Brian Bolduc: Direct Examination at 49.
+[42] Transcript, Linda Lockhart: Direct Examination at 170.
+[43] Transcript, Brian Bolduc: Direct Examination at 39.
+[44] Transcript, Brian Bolduc: Direct Examination at 38; the appellant also met with Solutions 21 once in 2009 at their new office in Markham, which he found to be even more impressive.
+[45] Transcript, Brian Bolduc: Direct Examination at 39.
+[46] Transcript, Linda Lockhart: Direct Examination at 149.
+[47] Transcript, Brian Bolduc: Direct Examination at 18.
+[48] Transcript, Brian Bolduc: Direct Examination at 56.
+[49] Transcript, Brian Bolduc: Direct Examination at 50.
+[50] Transcript, Brian Bolduc: Direct Examination at 51.
+[51] Transcript, Brian Bolduc: Cross Examination at 106.
+[52] Transcript, Brian Bolduc: Direct Examination at 60.
+[53] Transcript, Brian Bolduc: Direct Examination at 61.
+[54] Transcript, Brian Bolduc: Direct Examination at 61.
+[55] Transcript, Brian Bolduc: Direct Examination at 61.
+[56] Transcript, Brian Bolduc: Direct Examination at 61.
+[57] Transcript, Brian Bolduc: Direct Examination at 62.
+[58] Exhibit AR-1, Reassessment December 29, 2011, Tab 14.
+[59] Transcript, Brian Bolduc: Direct Examination at 63.
+[60] Transcript, Brian Bolduc: Direct Examination at 66.
+[61] Transcript, Brian Bolduc: Direct Examination at 64.
+[62] Transcript, Brian Bolduc: Direct Examination at 66.
+[63] Transcript, Brian Bolduc: Direct Examination at 66.
+[64] Transcript, Brian Bolduc: Direct Examination at 76.
+[65] Transcript, Brian Bolduc: Direct Examination at 68.
+[66] Transcript, Brian Bolduc: Direct Examination at 71.
+[67] Exhibit AR-1, 2009 tax return, Tab 6.
+[68] Transcript, Brian Bolduc: Direct Examination at 71.
+[69] Transcript, Brian Bolduc: Cross-Examination at 120.
+[70] Transcript, Brian Bolduc: Cross-Examination at 120.
+[71] Transcript, Brian Bolduc: Direct Examination at 71.
+[72] Exhibit AR-1, 2009 tax return, Tab 6.
+[73] Transcript, Brian Bolduc: Direct Examination at 75.
+[74] Transcript, Brian Bolduc: Direct Examination at 75.
+[75] Transcript, Brian Bolduc: Direct Examination at 74.
+[76] Transcript, Brian Bolduc: Direct Examination at 33.
+[77] Transcript, Brian Bolduc: Direct Examination at 33.
+[78] Exhibit AR-1, CRA inquiry, Tab 8.
+[79] Transcript, Brian Bolduc: Direct Examination at 79.
+[80] Transcript, Brian Bolduc: Direct Examination at 80; Exhibit AR-1, CRA inquiry, Tab 8.
+[81] Transcript, Brian Bolduc: Direct Examination at 80; Exhibit AR-1, Solutions 21 letter, Tab 9.
+[82] Exhibit AR-1, Solutions 21 letter, Tab 9.
+[83] Transcript, Brian Bolduc: Direct Examination at 81.
+[84] Transcript, Brian Bolduc: Direct Examination at 81.
+[85] Transcript, Brian Bolduc: Direct Examination at 83.
+[86] Transcript, Brian Bolduc: Direct Examination at 83.
+[87] Torres v The Queen, 2013 TCC 380, which was upheld in Strachan v Canada, 2015 FCA 60.
+[88] R v Sansregret, [1985] 1 SCR 570.
+[89] R v Hinchey, [1996] 3 SCR 1128.
+[90] Supra, at note 87.
+[91] Supra, at note 88.
+[92] Supra, at note 89.
+[93] Supra, at note 87.
+[94] Supra, at note 87.
+[95] Income Tax Act, supra note 1 at s 163(2).
+[96] Income Tax Act, supra note 1 at s 163(3).
+[97] Torres, supra at note 87.
+[98] Supra, at note 89.
+[99] Supra, at note 88.
+[100] Wynter v Canada, 2017 FCA 195.
+[101] In this appeal, counsel for the appellant was the counsel for Ms. Wynter. The same argument was made in Wynter, namely, that Torres and Strachan had not correctly applied the test formulated for “wilful blindness” by the Supreme Court of Canada.
+[102] Supra at note 87.
+[103] Bhatti v R, 2013 TCC 143.
+[104] Brochu v R, 2011 TCC 75 at para 22; See also Janovsky v R, 2013 TCC 140 and Atutornu v R, 2014 TCC 174.
+[105] De Gennaro v R, 2016 TCC 108, at para 70; Anderson v R, 2016 TCC 93 at para 65.
+[106] Supra, at note 87.
+[107] Venne v Canada (Minister of National Revenue), [1984] CTC 223 at para 37.
+[108] Lauzon v R, 2016 TCC 71 at para 25, confirmed by the Federal Court of Appeal on 2016 FCA 298.
+[109] DeCosta v R, 2005 TCC 545, at para 11.
+[110] Farm Business Consultants Inc v Canada, [1994] 2 CTC 2450 at para 26.
+[111] Villeneuve v Canada, 2004 FCA 20; Panini v The Queen, 2006 FCA 224.
+[112] Supra, at note 100.
+[113] Supra, at note 111 and 87.

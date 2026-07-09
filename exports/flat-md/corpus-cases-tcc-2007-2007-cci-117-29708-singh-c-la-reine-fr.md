@@ -1,0 +1,216 @@
+---
+title: "Singh c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29708/index.do"
+last_modified: "2007-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 117"
+citation2: ""
+neutral_citation: "2007 CCI 117"
+decision_date: "2007-01-30"
+language: "fr"
+item_id: "29708"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6213
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:00:09.215000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a9d98838a0e4a238913b24b8b9742e073fbd41a02d85dde4c6f5d2c9277be49c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Singh c. La Reine
+
+- Citation: 2007 CCI 117
+- Decision date: 2007-01-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6213, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Singh c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-01-30
+Référence neutre
+2007 CCI 117
+Numéro de dossier
+2004-2365(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2365(IT)G
+COUR CANADIENNE DE L’IMPÔT
+LOI DE L’IMPÔT SUR LE REVENU
+ENTRE :
+SANTOKH SINGH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+APPEL ENTENDU PAR M. LE JUGE MILLER,
+dans la salle d’audience B du Service administratif des tribunaux judiciaires,
+180, rue Queen Ouest, 6e étage,
+Toronto (Ontario),
+le mardi 30 janvier 2007, à 10 h 15.
+COMPARUTIONS
+Me Howard J. Alpert pour l’appelant
+Me Eleanor H. Thorn pour l’intimée
+Également présents :
+M. William O=Brien Greffier
+Mme Sheila Finlay Sténographe
+A.S.A.P. Reporting Services Inc. 8 (2007)
+200, rue Elgin, bureau 1004 130, rue King, bureau 1800
+Ottawa (Ontario) K2P 1L5 Toronto (Ontario) M5X 1E3
+613-564-2727 416-861-8720
+Toronto (Ontario)
+L’audience a débuté le mardi 30 janvier 2007, à 10 h 15.
+…
+LA COUR : Me Thorn, pourquoi votre ministère ne consentirait‑il pas à une ordonnance rendue en vertu de l’article 86 si la GRC est prête à remettre ces documents à la suite d’une ordonnance judiciaire, au lieu de ne prendre aucune position? Pourquoi ne consentez‑vous pas tout simplement à la délivrance d’une ordonnance, de façon que nous puissions récupérer les documents?
+Me THORN : Parce que nous devons de toute façon être ici présents pour l’autre requête, de sorte que je pensais qu’étant donné que nous entendons cette...
+LA COUR : Croyez‑vous qu’il y aura une autre requête? Il veut simplement que ses documents lui soient retournés. Je crois bien que si la GRC lui remet les documents...
+Me THORN : Je lui ai déjà fait part de notre position dans des lettres, et il affirme encore avec insistance que l’ARC a les documents en sa possession. Je ne connais aucune autre façon de faire comprendre à Me Alpert qu’il y a des moyens d’obtenir ces documents.
+LA COUR : Par exemple, au moyen d’une ordonnance judiciaire.
+Bon. Avant même de traiter de l’article 82 des Règles, Me Alpert, reprenez‑moi si je me trompe, mais vous n’avez pas besoin d’une ordonnance dans les deux cas, n’est‑ce pas?
+Me ALPERT : Non.
+LA COUR : Si je vous accorde une ordonnance que vous pourrez présenter à la GRC et que celle‑ci vous donne toutes ces boîtes de documents, de façon que vous puissiez préparer d’une façon appropriée une liste de documents et en fin de compte préparer l’instruction de votre client, vous n’allez probablement pas d’un autre côté chercher à obtenir la communication complète des documents que vous avez de toute façon déjà en votre possession, n’est‑ce pas?
+Si je vous accorde une ordonnance en vertu de l’article 86 des Règles, cherchez‑vous encore à obtenir une ordonnance en vertu de l’article 82?
+Me ALPERT : Eh bien, je crois que, selon l’ordonnance, les documents sont, je veux dire que je crois que nous avons droit aux deux ordonnances.
+LA COUR : Je ne comprends pas. En pratique, vous voulez les documents.
+Me ALPERT : Nous voulons de fait les documents.
+LA COUR : De sorte que vous obtenez les documents, ce sont vos documents. Il ne s’agit pas des documents de la Couronne, il s’agit de vos documents, qui ont été saisis chez votre client. Vous obtenez une ordonnance judiciaire, la GRC vous remet les documents, pourquoi donc voulez‑vous maintenant obtenir une communication complète du gouvernement?
+Me ALPERT : Ce n’est pas ce que je veux, cela serait parfaitement clair.
+Je veux éclaircir un point, et de toute évidence, l’obtention d’une ordonnance fondée sur l’article 86 des Règles, enjoignant à la GRC de livrer les documents au client, me convient fort bien.
+Lorsque ma collègue présentait ses observations, elle a affirmé que la GRC avait fait à l’appelant certaines déclarations selon lesquelles il pouvait aller chercher ses documents et il y avait un délai de six mois. Le dossier ne renferme rien à ce sujet. Ma collègue soumettait ici elle‑même une preuve. Il n’y a rien dans le dossier.
+Me THORN : J’ai déjà dit que cela avait été fait par téléphone, et de toute façon je ne suis pas certaine, au sujet du délai de six mois.
+Me ALPERT : Il n’y a rien dans le dossier, et il n’y a rien dans le dossier au sujet du fait que l’appelant aurait renoncé à ses droits.
+LA COUR : Quant à moi, cela importe peu. Cela n’influe pas sur ce que devrait être mon ordonnance.
+Me ALPERT : Je comprends, mais je voulais simplement éclaircir l’affaire parce que, selon moi, une inférence est ici faite, et cela sera reflété dans les observations concernant les dépens, que l’appelant est d’une façon ou d’une autre l’artisan de son propre malheur et il existe une preuve de ce genre dans la documentation. On ne m’a jamais dit quoi que ce soit de ce genre.
+LA COUR : D’accord. Je comprends, Maître.
+Me ALPERT : Merci.
+LA COUR : Avant de parler de l’article 82 des Règles, je veux bien, et je ne crois pas que la Couronne s’y oppose, accorder une ordonnance en vertu de l’article 86 et ordonner à la GRC de retourner ces documents à votre client, Maître.
+Franchement, je vais simplement ajourner la requête fondée sur l’article 82 des Règles, dans l’espoir de ne jamais la revoir.
+Me THORN : Monsieur le juge, nous venons d’entendre Me Alpert. Il insiste passablement sur la chose, de sorte que nous devrions tout aussi bien aller de l’avant et que je devrais soumettre mon argumentation.
+LA COUR : Il n’a pas insisté sur la chose.
+Me THORN : Il a dit que je dois encore...
+LA COUR : Pardon. Je l’ai entendu dire que s’il obtient l’ordonnance fondée sur l’article 86, la chose lui conviendrait.
+Je crois bien que c’est ce que vous avez dit, Maître?
+Me ALPERT : Cela me conviendrait.
+L’idée que vous avez exprimée, d’ajourner la demande fondée sur l’article 82 des Règles jusqu’à ce que nous puissions voir si la GRC se conforme à l’ordonnance, me plaît; cette idée me convient.
+LA COUR : C’est l’unique raison pour laquelle j’ajournerais la requête. Je ne puis concevoir que la GRC ne lui remettra pas tous les documents. S’il y a certains documents que la GRC croit avoir transmis à Revenu Canada et que l’Agence ne les a plus en sa possession et que vous les avez encore en votre possession, je ne puis concevoir que ce soit le cas.
+Me ALPERT : Mais il s’agit d’une garantie additionnelle, il s’agit simplement d’une protection et la Cour aurait encore les documents à sa disposition. Sur cette base, je crois qu’il n’est que prudent d’agir ainsi.
+Je souscris au raisonnement que vous avez adopté, Monsieur le juge.
+LA COUR : Cependant, je veux que la chose soit tout à fait claire, Maître. Si la GRC vous remet tous les documents qui ont été saisis, je ne prévois pas tenir une audience à l’égard de la demande fondée sur l’article 82 des Règles.
+Me ALPERT : Je puis vous assurer que cela ne posera pas de problème.
+LA COUR : Maître Thorn, si cette solution ne vous plaît pas, dites‑moi ce que vous préféreriez.
+Me THORN : Cela me convient tout à fait. La seule chose que j’aimerais éclaircir, c’est le fondement de la demande que Me Alpert a faite en ce qui concerne l’article 82. Cependant, étant donné que vous hésitez à entendre cette...
+LA COUR : Me Thorn, je ne voudrais pas que l’on me reproche d’avoir empêché quelqu’un de me dire une chose qu’il veut me dire. Si vous voulez soumettre des observations sur ce point, même si vous m’avez entendu dire que je préférerais simplement accorder un ajournement, allez‑y.
+Me THORN : Je ne voudrais pas vous faire gaspiller du temps inutilement, Monsieur le juge.
+LA COUR : Je n’ai rien d’autre aujourd’hui.
+Me THORN : Me Alpert a également déclaré que l’intimée, en l’espèce, est en possession des documents et dossiers de l’appelant que la GRC a saisis dans l’affaire d’immigration. Il n’a mentionné aucune source ni aucun motif à l’appui de ce renseignement. Aucun élément de preuve, quant aux faits ou au droit, n’a été produit ou mentionné par Me Alpert pour indiquer ce sur quoi sa conviction était fondée, si ce n’est le fait que l’intimée est Sa Majesté la Reine, comme l’a déclaré la vérificatrice dans son affidavit.
+Mis à part le fait qu’au mois de juin, certains documents de l’appelant que la GRC avait en sa possession ont été photocopiés aux fins de l’établissement d’une nouvelle cotisation à l’égard de l’année d’imposition 2000 de l’appelant, aucune des choses que la GRC a saisies chez l’appelant n’était par le passé, ou n’est à l’heure actuelle, en la possession de Sa Majesté ou de quelqu’un d’autre à l’ARC, ou encore sous son contrôle ou sous sa garde. Cela est tout à fait conforme à la Loi de l’impôt sur le revenu et à la Loi sur la protection des renseignements personnels.
+LA COUR : Veuillez simplement me dire, Maître Thorn, maintenant que vous vous êtes engagée sur cette voie, qui est l’intimée?
+Me THORN : Il s’agit de Sa Majesté la Reine.
+LA COUR : Cela ne comprend‑il pas la GRC?
+Me THORN : Oui, mais la GRC n’est pas partie à la présente affaire fiscale.
+LA COUR : Non, mais Sa Majesté la Reine y est partie. Vous me dites que si Revenu Canada avait certains documents, ou si le ministère des Finances avait certains documents, qu’étant donné qu’il s’agit de deux ministères différents du même plaideur, Sa Majesté la Reine, que l’on ne peut pas dire que Sa Majesté la Reine a ces documents sous son contrôle, n’est‑ce pas?
+Me THORN : Dans la présente affaire fiscale, Sa Majesté la Reine ne peut pas avoir accès à d’autres documents, à d’autres documents que quelqu’un d’autre a en sa possession, à moins qu’une loi fédérale ne le prévoie.
+LA COUR : D’où tirez‑vous ce principe?
+Me THORN : De la Loi sur la protection des renseignements personnels ainsi que de la Loi de l’impôt sur le revenu.
+En vertu de la Loi sur la protection des renseignements personnels, l’un des ministères du gouvernement peut avoir accès aux renseignements concernant un particulier, des renseignements qu’un autre ministère a en sa possession, à condition qu’une loi fédérale l’autorise.
+En fait, si l’intimée s’était adressée à la GRC, si elle avait emporté toutes les choses de l’appelant, l’appelant pourrait selon moi à bon droit se plaindre. Mais tel n’est pas ici le cas.
+La vérificatrice a simplement agi en vertu de l’article 231(1); elle s’est adressée à la GRC et a fait savoir qu’il fallait établir une nouvelle cotisation, qu’elle croyait comprendre que la GRC avait certains documents, qu’il lui fallait avoir accès aux renseignements et qu’elle ferait des copies des documents afin d’établir la nouvelle cotisation.
+C’est exactement ce que la vérificatrice a fait. Elle n’a pas enfreint la Loi de l’impôt sur le revenu ni la Loi sur la protection des renseignements personnels.
+LA COUR : Cependant, cela ne vous étonne‑t‑il pas, puisque l’expression employée est « en la possession, sous le contrôle ou sous la garde d’une partie »? Si Revenu Canada a le droit de s’adresser à la GRC et de faire savoir qu’il veut voir ces documents et que la GRC montre ces documents et que Revenu Canada peut photocopier tous les documents voulus, ne pourrait‑on pas soutenir que Revenu Canada est autorisé à avoir accès à ces documents et que ces documents sont donc disponibles aux fins d’une communication complète?
+Me THORN : Oui, en ce qui concerne les documents photocopiés.
+LA COUR : Mais elle pouvait photocopier tous les documents.
+Me THORN : Non, elle ne l’a pas fait.
+LA COUR : Je sais que vous ne l’avez pas fait, mais dans la Loi, il est question du pouvoir qui est conféré. Si elle était autorisée à photocopier certains documents, pourquoi ne serait‑elle pas autorisée à photocopier tous les documents?
+Me THORN : Parce que, en vertu de la Loi, il n’est possible de le faire qu’aux fins de l’établissement d’une nouvelle cotisation.
+Par exemple, si un document se rapporte à la vie personnelle de l’appelant, et ainsi de suite, le vérificateur ne serait pas autorisé à le photocopier.
+LA COUR : Mais il s’agit d’une affaire fiscale portant sur le présumé revenu obtenu de clients en matière d’immigration, et les documents saisis portaient sur une fraude commise en matière d’immigration, concernant des clients. Je crois que l’on pourrait avec raison soutenir que chacun de ces documents pourrait avoir quelque chose à voir avec la question fiscale. De qui cela dépendrait‑il?
+Me THORN : Cela a peut‑être quelque chose à voir avec son état de santé, et ainsi de suite, et cela n’a rien à voir avec la nouvelle cotisation en question, de sorte que la vérificatrice aurait tort de photocopier ces documents.
+Les arrêts mentionnés par mon collègue se rapportent à des documents pour lesquels il était établi qu’ils étaient sous le contrôle et sous la garde de la partie adverse. Or, tel n’est pas ici le cas. L’intimée n’a pas le contrôle ou la garde de ces autres choses.
+En ce qui concerne les photocopies des documents de l’appelant qui ont été faites, elles ont toutes été produites à la demande de l’appelant.
+Bien sûr, il reste encore l’argument fondé sur l’article 82, mais c’est ce que je veux au départ éclaircir.
+LA COUR : Merci beaucoup.
+Me THORN : Merci, Monsieur le juge.
+LA COUR : J’aimerais préciser deux choses. En premier lieu, si je rends une ordonnance en vertu de l’article 86, en enjoignant à la GRC de remettre les documents, Me Alpert, comment devraient‑ils être décrits, les documents saisis de M. Singh à une date donnée? Pouvez‑vous m’aider à indiquer en toutes lettres ce que nous demandons à la GRC?
+Me ALPERT : Les documents qui ont été saisis par la GRC, il s’agissait d’une procédure fondée sur le Code criminel, si je ne m’abuse, en vertu de l’article 367 du Code criminel, l’appelant avait agi en violation de l’alinéa 94(1)i) de la Loi sur l’immigration du Canada. Je crois que la chose est énoncée au paragraphe F. Aux paragraphes R et S, en fait, de la réponse de l’intimée, il est question de la pièce B produite dans l’instance.
+J’avais préparé un cahier dans lequel les pages étaient numérotées. C’est en fait à la page 24, ces deux paragraphes à la page 24. Ils figurent dans le haut de la page 6 de la réponse. Il s’agit d’aveux de la part de l’intimée au sujet de ce qui est réellement arrivé, qu’au mois de janvier 2006, la Gendarmerie royale du Canada a procédé à une perquisition et à une saisie légales des...
+Me THORN : C’était en 2001.
+Me ALPERT : En 2001, pardon, au mois de janvier 2001, excusez‑moi. Que la GRC avait procédé à une perquisition et à une saisie légales des locaux de l’appelant en vertu d’un mandat de perquisition obtenu de la façon appropriée.
+Puis, au paragraphe S, on dit que l’arrestation se rapportait à des accusations portées sous 13 chefs en vertu de l’article 367 du Code criminel. Je crois que les documents ont été saisis conformément aux dispositions de la Loi sur l’immigration du Canada.
+LA COUR : Je crois avoir suffisamment de renseignements pour décrire d’une façon appropriée ce que nous cherchons à récupérer.
+Me ALPERT : Les documents, ils sont en la possession de la GRC, sous les soins, sous la garde et sous le contrôle de la GRC.
+LA COUR : Vouliez‑vous présenter des observations au sujet des dépens, Me Alpert?
+Me ALPERT : Oui. Selon moi, et je crois que Monsieur le juge s’est penché sur l’argument que j’ai soumis, il s’agissait de deux ministères différents de la même intimée. L’ARC avait en tout temps accès aux renseignements qui étaient en la possession de la GRC. Tous ces documents auraient pu être photocopiés, tous ces documents, n’importe quand, et un consentement à la présente ordonnance pouvait être donné.
+L’appelant a dû engager des frais inutiles par suite de la conduite de l’intimée. Je demanderais les dépens sur la base procureur‑client dans ce cas‑ci parce que l’intimée a amplement eu la possibilité de retourner les documents. De nombreuses lettres ont été envoyées à l’avocate de l’intimée afin d’obtenir le consentement de l’intimée lorsqu’il s’agissait de coopérer avec la police. De toute évidence, compte tenu de la position qui a aujourd’hui été prise, ce consentement n’allait pas être donné.
+LA COUR : Avez‑vous effectivement déjà fait directement savoir à Me Thorn que si elle vous aidait à obtenir l’ordonnance fondée sur l’article 86 des Règles, si elle y consentait, vous alliez vous adresser à la GRC et obtenir les documents saisis et qu’il ne serait pas nécessaire de demander à la Couronne une communication complète? La chose a‑t‑elle déjà été mentionnée à la Couronne?
+Me ALPERT : Oui, elle l’a été. C’était dans mes documents. J’ai des lettres que j’ai rédigées. Elles figurent ici dans la documentation. C’est ce qui a été expliqué à maintes reprises. Je demandais que l’on coopère.
+LA COUR : Je ne veux pas connaître simplement la substance des lettres; je veux qu’il soit clair que le gouvernement n’allait pas vous accorder son consentement en vertu de l’article 86 des Règles, compte tenu du fait qu’il ne serait pas nécessaire d’invoquer l’article 82 des Règles.
+Me ALPERT : Cela se trouve dans la pièce K.
+LA COUR : Oui.
+Me ALPERT : Si nous consultons ma lettre du 3 octobre, j’y énonce les choses.
+La requête initiale a été ajournée pour une période indéfinie sur consentement en vue de permettre aux parties d’essayer de coopérer. Dans cette lettre, la lettre au ministère de la Justice, je lui disais que je confirmais que j’avais reçu signification des documents relatifs à la requête de l’intimée dont il est ici question, énonçant la position qu’ils prenaient. Je confirme que le 3 octobre, je vous ai encore une fois téléphoné au sujet de la présente requête. Je vous ai signalé que la GRC est le service national de police et une agence du ministère de la Sécurité publique et de la Protection civile du Canada :
+« Par conséquent, je vous ai informée que l’intimée en l’espèce est Sa Majesté la Reine et que l’ARC et la GRC sont toutes deux des agences de l’intimée, Sa Majesté la Reine. Je vous ai donc fait savoir que l’intimée, Sa Majesté la Reine, est en fait en possession des documents dont la production est demandée. [...] »
+Puis, au deuxième paragraphe de la deuxième page de la lettre, je dis ce qui suit :
+« Nous espérons donc tous les deux régler la présente affaire à l’amiable. L’ajournement proposé me donnera le temps d’essayer d’obtenir volontairement de la GRC la production des documents demandés. Vous m’avez fait savoir que vous alliez coopérer afin d’obtenir volontairement de la GRC les documents demandés. »
+LA COUR : N’allez pas si vite, Maître.
+Me ALPERT : Pardon?
+LA COUR : N’allez pas si vite, il est difficile de tout comprendre.
+Me ALPERT : Pardon. Je vais revenir en arrière :
+« Nous espérons donc tous les deux régler la présente affaire à l’amiable. L’ajournement proposé me donnera le temps d’essayer d’obtenir volontairement de la GRC la production des documents demandés. Vous m’avez fait savoir que vous alliez coopérer afin d’obtenir volontairement de la GRC les documents demandés. »
+La lettre dit ce qui suit :
+« Dans le cas où je réussirais à obtenir volontairement de la GRC la production des documents demandés, je retirerai ma requête sur consentement sans que les dépens soient adjugés. Toutefois, dans le cas où je ne réussirais pas à obtenir volontairement de la GRC la production des documents demandés, je devrai signifier et déposer une requête modifiée en vertu des articles 82 et 86 des Règles de la Cour canadienne de l’impôt afin de demander des ordonnances enjoignant à l’intimée ou à la GRC de produire les documents demandés. »
+« Comme il en a été question, nous sommes tous deux d’avis que la requête susmentionnée, si elle est nécessaire, devrait être examinée avant l’audience relative à l’état de l’instance, qui doit maintenant avoir lieu le 7 décembre. »
+L’audience relative à l’état de l’instance a maintenant été ajournée pour une période indéfinie en attendant le résultat de la présente requête. Dans la lettre, voici ce que je dis :
+« Par conséquent, je tiens à confirmer que je vous ai informée, au cours de notre conversation téléphonique, que dans le cas où ma demande d’ajournement de la requête ne serait pas accueillie, l’interrogatoire de l’appelant auquel vous deviez procéder devra être reporté à une nouvelle date. »
+J’ai reçu signification d’un avis indiquant qu’ils voulaient contre‑interroger l’appelant. Le contre‑interrogatoire n’a pas eu lieu; il y a eu désistement.
+« [...] devra être reporté à une nouvelle date qui convient aux deux parties afin de permettre à l’appelant de déposer et de signifier une requête modifiée en vertu des articles 82 et 86 des Règles de pratique de la Cour canadienne de l’impôt en vue de demander des ordonnances enjoignant à l’intimée ou à la GRC de produire les documents demandés. Veuillez me faire savoir si vous êtes prête à accepter signification de la requête modifiée, si elle est nécessaire, pour le compte de la GRC étant donné que la GRC et l’ARC sont toutes deux des agences de l’intimée. »
+Encore une fois, il s’agit de la même lettre. On m’a répondu qu’il n’y aurait pas de coopération et que je devais présenter la requête.
+C’est la réponse que j’ai finalement eue de Me Thorn, sous la cote O, dans sa lettre du 12 octobre. La réponse figure à la dernière page, à l’onglet 2 :
+« La présente fait suite à vos appels téléphoniques de la semaine dernière, lorsque vous avez demandé de l’aide pour obtenir les choses que la GRC avait saisies de l’appelant dans l’affaire de fraude criminelle en matière d’immigration. Dans la présente affaire fiscale, l’intimée n’a pas droit aux choses de l’appelant sauf pour ce qui est prévu aux fins de la vérification effectuée en vertu de la Loi de l’impôt sur le revenu, c’est‑à‑dire l’obtention de photocopies de documents qui sont nécessaires pour justifier la cotisation d’impôt; et des copies de ces documents vous ont déjà été fournies. Je vous recommande de consulter les textes législatifs et réglementaires en vertu desquels les choses de l’appelant ont été saisies. Ils renferment des dispositions indiquant à qui et comment ces choses peuvent être retournées. Veuillez suivre les procédures qui y sont énoncées. »
+C’est pourquoi nous sommes ici aujourd’hui.
+Dans la présente affaire, j’ai passé au moins dix heures à préparer les documents, à effectuer des recherches juridiques et à préparer l’audience d’aujourd’hui. Mon taux horaire est de 480 $, je demande 4 800 $ pour les frais, à fixer sur la base procureur‑client. Telles sont mes observations.
+LA COUR : Merci. Maître Thorn?
+Me THORN : Eh bien, Monsieur le juge, la partie adverse a demandé les frais sur la base procureur‑client et on ne saurait prendre la chose à la légère. Nulle part, et pour répondre à votre question directement, Me Alpert n’a indiqué nulle part et à aucun moment que si nous consentions à la requête fondée sur l’article 86, la requête fondée sur l’article 82 serait retirée. La lettre qu’il vous a mentionnée est antérieure à la modification de son avis de requête.
+LA COUR : À coup sûr, dans la correspondance, on faisait fondamentalement savoir que l’on voulait obtenir ces documents de la GRC et on demandait de l’aide à cet égard. Il reconnaît que vous avez coopéré.
+J’aurais cru que quelqu’un aurait proposé d’obtenir sur consentement une ordonnance en vertu de l’article 86 des Règles.
+Me THORN : Il a toujours insisté sur cette question de l’article 82. Étant donné que nous sommes ici, à quoi servirait‑il de consentir et d’avoir en fin de compte à préparer un affidavit de documents fort coûteux? De toute façon, il n’existe réellement aucun fondement justifiant la demande qui est faite en vertu de l’article 82.
+Selon toute probabilité, comme le dit l’appelant dans son affidavit, la chose se résume en ce que nous refusons de fournir de l’aide. Eh bien, en ma qualité d’avocate de la partie adverse, j’ai informé Me Alpert que j’aiderais dans certaines limites, et c’est exactement ce que j’ai fait.
+On a toujours dit à Me Alpert qu’une fois que notre liste de documents serait prête, il pourrait la consulter et faire des photocopies conformément aux Règles. S’il peut établir et produire une liste de documents qui ne sont pas énumérés dans notre liste, nous allions lui fournir une copie si ce document était pertinent.
+Pour faciliter les choses, on a remis à Me Alpert le rapport de vérification de l’intimée ainsi que le rapport d’appel.
+Il est également possible de dire, compte tenu de l’affidavit de Nancy Pasterelli, pièce I, à l’onglet 2, que ce n’est qu’après que j’eus proposé, le 28 septembre 2006, lorsque Me Alpert m’a appelée pour que je l’aide, de demander directement à la GRC de retourner les choses. Je lui ai même donné le numéro de la GRC.
+J’ai également dit : « Pourquoi ne communiquez‑vous pas avec l’avocat qui agit au criminel dans cette affaire? Il pourrait bien avoir les documents. » Et je lui ai également conseillé de communiquer avec les institutions financières avec lesquelles l’appelant travaillait. Bien sûr, il aurait également pu communiquer avec le comptable de l’appelant, chez qui la vérificatrice avait obtenu des indices en vue de préparer ces demandes de renseignements à la banque.
+Eh bien, le même jour, Me Alpert m’a rappelée et m’a dit : « J’ai parlé à la GRC » et il voulait faire ajourner la requête. Me Alpert a fait de nombreux appels téléphoniques du même genre en affirmant avec insistance que nous avions les choses de l’appelant, d’où ma lettre du 12 octobre qui vous a été citée. J’ai dit : « Eh bien, il y a des textes législatifs et des dispositions qui prévoient le retour des choses saisies. » Je ne sais pas ce que M. Alpert a fait.
+Compte tenu de ce qui précède, j’ai dit qu’en ma qualité d’avocate de la partie adverse, j’avais fait tout ce que je pouvais faire. Je ne peux toujours pas faire le travail de Me Alpert et représenter l’appelant.
+Je vous demande, en ce qui concerne la demande de requête de tiers, si elle est accueillie, de vous fonder sur la décision Bawolin, à l’onglet 8 du cahier de jurisprudence de l’appelant, pour demander de la même façon que l’appelant paie les dépens. Dans ce cas particulier, le montant s’élevait à 300 $.
+LA COUR : Merci. Y a‑t‑il autre chose, Maître Alpert?
+Me ALPERT : Non.
+LA COUR : Les dépens procureur‑client ne sont accordés qu’exceptionnellement; selon ma façon de les traiter, je les accorderais uniquement dans certaines circonstances insignes lorsque je suis convaincu qu’une partie ou l’autre a agi d’une façon tellement outrageante que cela justifie l’octroi des dépens procureur‑client. Or, je ne puis ici constater aucun comportement de ce genre, Me Alpert.
+Vous avez eu gain de cause dans votre demande relative à l’article 86 des Règles. Je rendrai une ordonnance portant que la GRC doit retourner les documents saisis chez M. Singh au mois de janvier 2001. Quant à cette requête, j’adjugerai également des dépens au montant de 500 $.
+La requête relative à l’article 82 des Règles est ajournée pour une période indéfinie.
+Merci beaucoup à vous tous.
+L’audience a alors pris fin à 11 h 20

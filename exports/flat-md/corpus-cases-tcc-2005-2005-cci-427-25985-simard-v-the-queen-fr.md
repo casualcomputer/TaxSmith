@@ -1,0 +1,174 @@
+---
+title: "Simard v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25985/index.do"
+last_modified: "2005-07-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 427"
+citation2: ""
+neutral_citation: "2005 CCI 427"
+decision_date: "2005-07-26"
+language: "fr"
+item_id: "25985"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3753
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:43:18.747000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "af2bf1ae496e9c1258f952de88efd1b2dd6985e32b37d02e52238440ed484378"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Simard v. The Queen
+
+- Citation: 2005 CCI 427
+- Decision date: 2005-07-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3753, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Simard v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-07-26
+Référence neutre
+2005 CCI 427
+Numéro de dossier
+2004-4597(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4597(IT)I
+ENTRE :
+MICHELLE SIMARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu à Kamloops (Colombie-Britannique) le 21 juin 2005.
+Devant : L'honorable juge D.W. Beaubier
+Comparutions
+Pour l'appelante :
+M. Girard Simard
+Avocat de l'intimée :
+Me Pavanjit Mahil
+[TRADUCTION FRANÇAISE OFFICIELLE]
+JUGEMENT
+Les appels interjetés contre les cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2001 et 2002 sont admis, et les cotisations sont renvoyées au ministre du Revenu national pour qu'il les réexamine et qu'il en établisse de nouvelles conformément aux motifs de jugement ci-annexés.
+L'appelante a droit aux dépens partie-partie relativement à cet appel, y
+compris une journée complète d'audience devant cette cour, où elle a été représentée par un avocat.
+Signé à Vancouver (Colombie-Britannique) ce 26e jour de juillet 2005.
+« D.W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 18e jour de janvier 2006.
+Joanne Robert, traductrice
+Référence : 2005CCI427
+Date : 20050726
+Dossier : 2004-4597(IT)I
+ENTRE :
+MICHELLE SIMARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Cet appel a été entendu sous le régime de la procédure informelle de la Cour à Kamloops, en Colombie-Britannique, le 21 juin 2005. L'appelante a témoigné et a appelé à la barre Pamela Astley ( « Pam » ), une amie qui a gardé ses enfants, et Sherry Yurkiew, qui a aussi gardé ses enfants et qui habite en face de chez elle à Clearwater, en Colombie-Britannique. L'intimée a appelé à la barre Yvan Rotzetter ( « Ron » ), l'ex-mari de l'appelante, et Glen Preston, ami de Ron et enseignant orienteur à l'école que fréquente Tyson, à Clearwater.
+[2] Les paragraphes 3 à 13 de la réponse à l'avis d'appel, qui énoncent les points en litige opposant les parties, sont libellés comme suit :
+[TRADUCTION]
+3. En ce qui concerne le paragraphe 2 de l'avis d'appel, il reconnaît qu'il existe une ordonnance rendue par le juge Blair et datée du 9 avril 2002 qui précise que l'appelante doit recevoir le montant total du crédit d'impôt pour enfants et du remboursement de TPS, mais il nie que le juge Blair ait eu la compétence pour rendre cette décision, et il ajoute qu'il existe une ordonnance ultérieure datée du 31 décembre 2003.
+4. Au cours de la période allant de juillet 2002 à octobre 2003, l'appelante a reçu les versements de la prestation fiscale pour enfants (la « PFE » ) et le crédit pour taxe sur les produits et services (le « CTPS » ) à l'égard de :
+Tyson Rotzetter ( « Tyson » ), né en décembre 1988;
+Robert Rotzetter ( « Robert » ), né en septembre 1990;
+Marc Rotzetter ( « Marc » ), né en janvier 1993;
+Devin Rotzetter ( « Devin » ), né en août 1995;
+Jessica Rotzetter ( « Jessica » ), née en juillet 1998.
+L'appelante a également reçu la PFE et le CTPS à l'égard d'un autre enfant né en juillet 2003, qui n'est pas concerné par le présent appel.
+5. Dans des avis de PFE datés du 20 novembre 2003 (les « avis de PFE » ) pour les années de base 2001 et 2002, le ministre du Revenu national (le « ministre » ) a informé l'appelante qu'elle n'avait plus droit à la PFE depuis juillet 2002 et qu'elle avait reçu les paiements en trop suivants :
+Année de base
+Période visée
+Paiement en trop
+2001
+de juillet 2002 à juin 2003
+5 218 $
+2002
+de juillet 2003 à octobre 2003
+1 888,73 $
+Ce changement s'expliquait par le fait que depuis juillet 2002, Tyson et Robert ne résidaient plus avec l'appelante.
+6. Dans un avis de CTPS daté du 22 octobre 2003 et dans un autre daté du 31 octobre 2003 (les « avis de CTPS » ) pour les années de base 2001 et 2002 respectivement, le ministre a informé l'appelante qu'elle n'avait plus droit au CTPS depuis juillet 2002 et qu'elle avait reçu les paiements en trop de 224 $ pour la période allant de juillet 2002 à juin 2003, et de 114 $ pour la période allant de juillet à octobre 2003. Ce changement s'expliquait par le fait que depuis juillet 2002, Tyson et Robert ne résidaient plus avec l'appelante
+7. L'appelante s'est opposée aux avis de PFE et de CTPS (les « avis » ). Dans un avis daté du 31 août 2004, le ministre a confirmé les avis, déterminant que l'appelante n'était pas un « particulier admissible » au sens de l'article 122.6 de la Loi de l'impôt sur le revenu (la « Loi » ) à l'égard de ses fils Robert et Tyson depuis juillet 2002 et que par conséquent, les paiements en trop au titre des sommes dont l'appelante était redevable pour les années de base 2001 et 2002 avaient été calculés correctement, conformément au paragraphe 122.6(1) de la Loi pour la PFE et au paragraphe 122.5(3) de la Loi pour le CTPS.
+8. Pour établir les avis et les confirmer, le ministre s'est appuyé sur les mêmes faits, c'est-à-dire :
+a) l'année d'imposition 2001 représente l'année de base pour la période allant de juillet 2002 à juin 2003;
+b) l'année d'imposition 2002 représente l'année de base pour la période allant de juillet 2003 à juin 2004;
+c) l'appelante était mariée à Yvan Rotzetter ( « M. Rotzetter » ), et le couple s'est séparé aux alentours de juin 2000;
+d) l'appelante et M. Rotzetter ont eu cinq enfants : Tyson, Robert, Marc, Devin et Jessica ( « les enfants » );
+e) selon une ordonnance rendue par le juge Blair de la Cour suprême de la Colombie-Britannique en date du 9 avril 2002 (la « première ordonnance » ) :
+(i) l'appelante et M. Rotzetter ont divorcé et ont obtenu la tutelle et la garde partagées des enfants;
+(ii) la résidence de l'appelante allait être la résidence principale des enfants;
+(iii) l'appelante avait le droit de recevoir le plein montant de la PFE et du CTPS;
+(iv) les enfants devaient passer la période allant du samedi soir au mercredi matin avec l'appelante, et le reste de la semaine avec M. Rotzetter;
+(v) Tyson et Robert pouvaient passer plus de temps avec M. Rotzetter s'ils le souhaitaient;
+(vi) l'appelante et M. Rotzetter devaient se partager la garde des enfants de manière égale pendant les vacances de Noël, les grandes vacances d'été et la semaine de relâche;
+f) au cours du mois de juin 2002, Tyson et Robert ont emménagé avec M. Rotzetter;
+g) selon une ordonnance ultérieure rendue par le juge Blair de la Cour suprême de la Colombie-Britannique en date du 31 décembre 2003 (la « seconde ordonnance » ), la résidence de M. Rotzetter devenait la résidence principale de Tyson et de Robert, et la résidence de l'appelante demeurait la résidence principale de Marc, de Devin et de Jessica. L'appelante et M. Rotzetter devaient se partager la garde des enfants de manière égale pendant les vacances de Noël, les grandes vacances d'été et la semaine de relâche;
+h) pendant la période allant de juillet 2002 à octobre 2003, Tyson et Robert ont résidé avec M. Rotzetter, et ce dernier était la personne qui assumait principalement la responsabilité du soin et de l'éducation des deux garçons.
+B. QUESTION EN LITIGE
+9. La question en litige est de savoir si l'appelante était un particulier admissible à l'égard de Tyson et de Robert (les « garçons » ) à partir de juillet 2002 et si par conséquent, elle avait droit à la PFE et au CTPS à l'égard des garçons pour la période allant de juillet 2002 à octobre 2003 ( « la période » ).
+C. DISPOSITIONS DE LA LOI INVOQUÉES
+10. Il s'appuie sur les articles 122.5, 122.6 et 122.61 de la Loi ainsi modifiée pour les années de base 2001 et 2002.
+D. MOYENS INVOQUÉS ET RÉPARATIONS SOLLICITÉES
+11. Il fait valoir qu'au cours de la période, les garçons étaient des « personnes à charge admissibles » au sens de l'article 122.6 de la Loi.
+12. De plus, comme les garçons résidaient avec M. Rotzetter pendant la période et que M. Rotzetter était la personne qui assumait principalement la responsabilité du soin et de l'éducation des deux garçons, celui-ci était un particulier admissible à l'égard des garçons à partir de juillet 2002 et par conséquent, l'appelante n'avait pas droit à la PFE pour la période.
+13. Il soutient que le ministre a déterminé à juste titre que les garçons n'étaient pas des personnes à charge admissibles à l'égard de l'appelante au cours de la période aux termes des paragraphes 122.5(1) et 122.5(5), et de l'article 122.6 de la Loi, et que dans ces conditions, le montant du CTPS auquel l'appelante avait droit pour la période a été calculé correctement, conformément à l'article 122.5 de la Loi.
+[3] Aucune des hypothèses posées par les faits sur lesquels le ministre s'est appuyé n'a été réfutée par la preuve, excepté les hypothèses énoncées aux points f) et h) du paragraphe 8 qui font l'objet du litige.
+[4] Il ressort clairement de l'ordonnance rendue par le juge Blair en date du 9 avril 2002 (pièce A-1) que celui-ci a ordonné que Michelle soit nommée « personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge » au sens de la définition du terme « particulier admissible » que renferme l'article 122.6 de la Loi. Dans cet esprit, l'alinéa f) de cette définition présume que la mère, Michelle, est ce « particulier admissible » . La présomption ne s'applique toutefois pas dans les circonstances décrites aux articles 6300 à 6302 de la partie LXIII du Règlement de l'impôt sur le revenu. Dans la présente affaire, Ron a déposé un avis où il déclarait Robert et Tyson comme personnes à charge admissibles pour la période allant de juillet 2002 à octobre 2003 parce qu'il affirmait que les garçons résidaient avec lui, dans sa maison située à un pâté de maisons et demi de la maison de Michelle.
+[5] L'article 6302 du Règlement décrit les critères qui doivent servir à déterminer en quoi consistent le soin et l'éducation de Tyson et de Robert dans les présentes circonstances. Se basant sur ces critères, la Cour est arrivée aux conclusions suivantes :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+Il ressort clairement de la preuve que Ron avait plus d'argent que Michelle, et qu'il payait pour leur hockey et les accompagnait lors de leurs tournois de hockey. Michelle n'avait pas d'ordonnance de pension alimentaire et devait s'occuper des trois plus jeunes enfants. Les subventions de la Colombie-Britannique payaient les services de gardiennage qu'offraient Sherry et Pam pour les trois plus jeunes enfants et parfois pour Robert. (L'appelante, Pam et Sherry ont témoigné que Tyson refusait de se faire garder et qu'il restait à la maison ou dans la cour de l'appelante pendant que les autres enfants se faisaient garder.) Pam et Michelle travaillaient par postes fractionnés dans le même restaurant de Clearwater et s'échangeaient des services de gardiennage du mieux qu'elles le pouvaient. La Cour ajoute foi à la preuve qu'ont présentée Sherry et Pam lorsqu'elles ont témoigné que Tyson et Robert passaient les heures suivant l'école chez Michelle, où tous les enfants de Ron et de Michelle jouaient ensemble. Vu l'ensemble de la preuve, les cinq enfants ont créé leur propre cellule familiale, distincte de leurs parents, lorsque ceux-ci se sont séparés et ont divorcé. Par opposition au hockey, Michelle amenait les enfants à l'église et elle a inscrit Tyson et Robert au baseball jusqu'à ce qu'elle ne soit plus en mesure de payer les frais demandés. Les deux parents étaient inscrits comme « première personne avec qui communiquer » à l'école des garçons. Glen Preston a fait un témoignage par ouï-dire d'un des garçons, mais il n'a jamais témoigné qu'il avait vu les garçons soit chez Michelle, soit chez Yvan. Ainsi, la Cour a conclu que Tyson et Robert passaient leur temps libre chez Michelle ou près de chez elle avec leurs frères et leur soeur plus jeunes et que, dans ces circonstances particulières, c'était là leur maison.
+b) le maintien d'un milieu sécuritaire là où elle réside;
+Les deux parents maintenaient un milieu sécuritaire à l'intention de Tyson et de Robert. La « résidence » dans ces circonstances est celle qu'a désignée le juge Blair dans ses ordonnances.
+c) l'obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+Encore une fois, les deux parents s'acquittaient de ces tâches à l'égard de Tyson et de Robert.
+d) l'organisation pour elle d'activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+Ron en faisait davantage à ce chapitre pour Tyson et Robert, mais il avait plus d'argent et n'avait pas droit aux subventions pour les services de garde à l'enfance de la Colombie-Britannique. En revanche, Michelle assistait aux parties de hockey que les garçons disputaient à Clearwater dans la mesure du possible. Elle a inscrit Tyson et Robert au baseball jusqu'à ce qu'elle ne soit plus en mesure d'en payer les frais et elle les amenait à l'église. Ron et Michelle s'acquittaient également de ces tâches.
+e) le fait de subvenir à ses besoins lorsqu'elle est malade ou a besoin de l'assistance d'une autre personne;
+Encore une fois, pour autant qu'il y ait des éléments de preuve concernant ce critère, Ron et Michelle s'acquittaient également de cette tâche.
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d'être présent auprès d'elle et de la guider;
+Encore une fois, pour autant qu'il y ait des éléments de preuve concernant ce critère, Ron et Michelle s'acquittaient également de ces tâches.
+h) l'existence d'une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+L'ordonnance qu'a rendue le juge Blair doit être clairement interprétée ainsi : elle donne à Michelle la fonction de « particulier admissible » jusqu'à ce qu'il y ait un changement le 31 décembre 2003 (pièce R-1) par suite de la demande de Ron. La pièce R-1 précise qu'au 31 décembre 2003, [TRADUCTION] « la résidence principale de [...] Tyson [...] et de [...] Robert [...] doit être » celle de Ron.
+[6] Pour ces raisons, l'appel est admis. La Cour conclut que Michelle était le particulier admissible, et que Tyson et Robert étaient des personnes à charge admissibles à l'égard de Michelle pour la période en question et jusqu'au 31 décembre 2003, comme le précise la pièce A-1. Le 31 décembre 2003, Ron est devenu le particulier admissible à l'égard de Tyson et de Robert, conformément à la seconde ordonnance rendue par le juge Blair (pièce R-1).
+[7] Il est à noter que les ordonnances du juge Blair dans cette affaire sont celles d'un juge siégeant à un tribunal qui a compétence sur les questions familiales et qui écoute des témoignages sous serment de toutes parts lors d'une audience relative à la garde des enfants. On peut dire que de telles ordonnances sont parfois rendues après coup, mais chacun des deux parents peut présenter une demande d'ordonnance et dans la présente affaire, Ron a agi en son nom relativement à l'ordonnance du 31 décembre 2003. Il s'agit d'une pratique de plus en plus courante. Néanmoins, toute la preuve présentée devant cette cour ne me donne aucune raison de conclure différemment du juge Blair.
+[8] L'appelante a droit aux dépens partie-partie relativement à cet appel, y
+compris une journée complète d'audience devant cette cour, où elle a été représentée par un avocat.
+Signé à Vancouver (Colombie-Britannique) ce 26e jour de juillet 2005.
+« D.W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 18e jour de janvier 2006.
+Joanne Robert, traductrice

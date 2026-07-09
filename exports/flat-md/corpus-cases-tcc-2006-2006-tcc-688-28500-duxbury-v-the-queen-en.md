@@ -1,0 +1,146 @@
+---
+title: "Duxbury v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28500/index.do"
+last_modified: "2006-12-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 688"
+citation2: ""
+neutral_citation: "2006 TCC 688"
+decision_date: "2006-12-18"
+language: "en"
+item_id: "28500"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1297
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:27:20.338000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ce9a8d547a00004b17735ab56ad044d0cf916558529dbd867ba24a5ac0672b26"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Duxbury v. The Queen
+
+- Citation: 2006 TCC 688
+- Decision date: 2006-12-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1297, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duxbury v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-18
+Neutral citation
+2006 TCC 688
+File numbers
+2004-1828(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1828(IT)I
+BETWEEN:
+COLIN DUXBURY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 27, 2006 at Nanaimo, British Columbia
+Before: The Honourable Justice T. O'Connor
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Pavanjit Mahil
+____________________________________________________________________
+JUDGMENT
+The Notice of Appeal in this matter related to the years 1986 to 2001 and 2003. This Court in Orders dated September 24, 2004 and April 1, 2005 quashed the appeals with respect to all years mentioned except 2000. Therefore the taxation year 2000 is the only year in issue; and the appeal from the reassessment made under the Income Tax Act for the 2000 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of December, 2006.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2006TCC688
+Date: 20061218
+Docket: 2004-1828(IT)I
+BETWEEN:
+COLIN DUXBURY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] As mentioned in the Judgment, the 2000 taxation year is the only year in issue.
+[2] With respect to the 2000 taxation year, the Minister of National Revenue ("Minister") assumed the following facts as set forth in paragraph 23 of the Reply:
+a) the Appellant's earned income for the 2000 taxation year, for the purpose of determining his RRSP deduction, was nil;
+b) prior to 1986, the Appellant and his spouse jointly owned real estate that was their principal residence (the "Home");
+c) the Appellant and his spouse mortgaged the Home with the Bank of BC so the Appellant could invest in a company;
+d) the Appellant guaranteed the mortgage and the Appellant's wife was a co-guarantor of the mortgage;
+e) the Appellant's wife was not an officer of the company that the Appellant invested in;
+f) in 1986, the Appellant rearranged his affairs to pay out the Bank of BC mortgage out of his own RRSP's, to protect his wife and himself from business creditors. Thus, the trustee of the Appellant's RRSP acquired a mortgage as an investment on behalf of the Appellant;
+g) after the mortgage at the Bank of BC was paid out, the Home was held solely by the Appellant's spouse;
+h) the Appellant made mortgage payments on the Home to the trustee of his RRSP;
+i) the Appellant did not make any RRSP contributions for the 2000 taxation year;
+j) the Appellant deducted no RRSP contribution for the 2000 taxation year;
+k) the Appellant made RRSP withdrawals of $38,527 from RBC Dominion Securities Inc. for the 2000 taxation year; and
+l) RBC Dominion Securities Inc. issued the Appellant a T4RSP information slip respecting the withdrawal for the 2000 taxation year as follows:
+Amount Withdrawn Tax Deducted At Source Spousal/common-law plan
+$38,527
+$3,852.78
+No
+[3] The Minister argues that any payments the Appellant made to the trustee of his RRSP respecting the mortgage registered against his wife’s property is not an RRSP contribution that is a “premium” as defined in subsection 146(1) of the Act and, therefore, none of the payments are deductible under subsection 146(5) of the Act.
+[4] The Minister submits that he properly included the RRSP withdrawal of $38,527 in the 2000 taxation years as per subsection 146(8) of the Act.
+[5] The Minister contends that the Appellant did not overpay tax nor was he double taxed on transactions respecting his RRSP since:
+1. RRSP premium contributions made by the Appellant were deducted by him in the applicable taxation years under subsection 146(5) of the Act, subject to a deduction limit;
+2. The Appellant's RRSP monies, for which he was allowed a deduction and not taxed, were used to acquire a mortgage on his spouse's property;
+3. Any income earned on the assets held in trust in the Appellant's RRSP (including qualified investments) are not subject to tax while it is governed by the trust, pursuant to subsection 146(4) of the Act; and
+4. Any mortgage payments made by the Appellant to the trustee administering his RRSP holding the mortgage secured against his spouse's property are not a contribution to an RRSP but constitute a repayment of borrowed funds.
+[6] The issue for the 2000 taxation year is whether the Minister properly included RRSP withdrawals of $38,527 in the computation of income and properly disallowed an RRSP deduction of $11,478.
+[7] Subsection 146(8) of the Act states:
+(8) Benefits [and withdrawals] taxable -- There shall be included in computing a taxpayer's income for a taxation year the total of all amounts received by the taxpayer in the year as benefits out of or under registered retirement savings plans, other than excluded withdrawals (as defined in subsection 146.01(1) or 146.02(1)) of the taxpayer and amounts that are included under paragraph (12)(b) in computing the taxpayer's income.
+[8] According to the assumptions of fact stated by the Minister, the Appellant made an RRSP withdrawal of $38,527 from RBC Dominion Securities Inc. in the 2000 taxation year. A T4RSP slip was issued detailing the withdrawal and the $3,852.78 of tax deducted at the source. There are no special provisions that would alter the treatment of this withdrawal so as to convert it from the normal rule of inclusion in income. Consequently the $38,527 RRSP withdrawal was properly included in the taxpayer’s income for his 2000 taxation year.
+[9] With respect to the Minister's disallowance of the $11,478 RRSP deduction which represents payments by the Appellant to the trustee of his RRSP respecting the mortgage registered against his wife's home, in my opinion it is not a premium as defined in subsection 146(1) of the Act. Therefore it is not deductible and the Minister's disallowance was correct.
+[10] For all of the above reasons the appeal is dismissed.
+Signed at Ottawa, Canada, this 18th day of December, 2006.
+"T. O'Connor"
+O'Connor, J.
+CITATION: 2006TCC688
+COURT FILE NO.: 2004-1828(IT)I
+STYLE OF CAUSE: COLIN DUXBURY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Nanaimo, British Columbia
+DATE OF HEARING: November 27, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice T. O'Connor
+DATE OF JUDGMENT: December 18, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Pavanjit Mahil
+COUNSEL OF RECORD:
+For the :
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

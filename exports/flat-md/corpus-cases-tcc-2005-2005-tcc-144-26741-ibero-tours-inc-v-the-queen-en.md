@@ -1,0 +1,195 @@
+---
+title: "Ibero Tours Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26741/index.do"
+last_modified: "2005-02-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 144"
+citation2: ""
+neutral_citation: "2005 TCC 144"
+decision_date: "2005-02-17"
+language: "en"
+item_id: "26741"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3422
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:00:40.510000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3f24dda455e818db0cc028df3fd296f6000f76737540e98e1b1f4e377fce1fc8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ibero Tours Inc. v. The Queen
+
+- Citation: 2005 TCC 144
+- Decision date: 2005-02-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3422, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ibero Tours Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-17
+Neutral citation
+2005 TCC 144
+File numbers
+2003-4248(GST)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-4248(GST)I
+BETWEEN:
+IBERO TOURS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 20 and 31, 2005 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+Gerald Grupp
+Counsel for the Respondent:
+Craig Maw
+JUDGMENT
+The appeal in respect of an assessment under the Excise Tax Act for the period from September 8, 2000 to August 31, 2001 is dismissed.
+Signed at Ottawa, Canada this 17th day of February, 2005.
+"J. Woods"
+Woods J.
+Citation: 2005TCC144
+Date: 20050217
+Docket: 2003-4248(GST)I
+BETWEEN:
+IBERO TOURS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This is an appeal by Ibero Tours Inc. in respect of an assessment under the Excise Tax Act for the period from September 8, 2000 to August 31, 2001. Ibero Tours was assessed GST in the amount of $11,842.50, a penalty of $832.11 and interest of $400.77 in respect of transportation services that it provided to a tour company.
+[2] The appellant's representative raised the following three issues:
+1) Is the assessment invalid on procedural grounds?
+2) Are the transportation services provided by Ibero Tours during the assessment period zero-rated?
+3) Should the penalty of $832.11 be vacated?
+I. Is the assessment invalid on procedural grounds?
+[3] The notice of assessment contained the following reference to the period that was being assessed: "(RE) ASSESSMENT PERTAINING TO: 2000-12-31 TO 2001-08-31." The parties agree that the actual period that was assessed was from September 8, 2000 to August 31, 2001. The representative for Ibero Tours submits that the notice of assessment contains an error with respect to the assessment period that is fundamental to the assessment and should invalidate it.
+[4] I do not agree with the appellant's submission. Assuming for purpose of this analysis that the notice of assessment does contain an error, subsection 299(4) of the Act is intended to prevent assessments from being invalidated by errors of this type. Subsection 299(4) reads:
+(4) Assessment deemed valid - An assessment shall, subject to being reassessed or vacated as a result of an objection or appeal under this Part, be deemed to be valid and binding, notwithstanding any error, defect or omission therein or in any proceeding under this Part relating thereto.
+[5] According to the case authorities, subsection 299(4) is not a complete bar to invalidating an assessment on procedural grounds but an assessment is not invalidated unless the error has caused the taxpayer to be misled (Friedberg v. The Queen, [2000] 2 C.T.C. 370 (F.C.A.); Papa v. The Queen, [2000] G.S.T.C. 74 (T.C.C.) at para. 11).
+[6] The appellant has not introduced any evidence to suggest that it has been misled by the error in the notice of assessment. I would note that it is clear from the detailed calculation in the Minister's Reply that the actual period assessed was from September 8, 2000 to August 31, 2001.
+[7] This procedural issue was not raised by the parties until I had asked for clarification as to the proper assessment period during the first day of the hearing. At that time, the appellant's representative suggested that it was only fair to have a proper determination of GST for the entire assessment period, September 8, 2000 to August 31, 2001. It was only when the hearing was resumed at a later date that the representative suggested that an error should invalidate the assessment.
+[8] In these circumstances, I see no evidence to support a finding that the appellant has been misled by an error on the face of the notice of assessment. Accordingly, I would conclude that the assessment is not invalid on grounds of fundamental error.
+II. Are services zero-rated?
+Facts
+[9] Gina Ledesma, the president and founder of Ibero Tours, testified on behalf of the appellant. She stated that she incorporated Ibero Tours for the purpose of providing airport transfer services for a United States tour company called City Tours USA. Apparently Ms. Ledesma was familiar with City Tours because she had previously worked with them as a tour guide.
+[10] Under a verbal contract with City Tours, Ibero Tours picks up its Spanish and Portuguese speaking customers at the Toronto airport and arranges van or bus transport for them to various local hotels. Ibero Tours does not own the vans or buses that are used but contracts for their use. Ibero Tours is paid directly by City Tours for these services and it is this charge that is the subject of this appeal.
+[11] Ms. Ledesma described her specific duties in the following manner. Customers are met at the Torontoairport. They are identified by a list of passengers that City Tours provides to Ms. Ledesma and she verifies this information by a "voucher" that customers show to her. Ms. Ledesma does not keep the "vouchers" because the customers need them throughout their tours. The customers are then transported by van or bus to various local hotels and Ms. Ledesma provides a list of the passengers to reception clerks at the hotels. That is the end of her duties. Occasionally Ibero Tours transported customers who were late for their tours to a hotel in Niagara Falls but this did not happen very often.
+[12] Although Ms. Ledesma's testimony clearly set out the operations of Ibero Tours, she provided little information regarding the tours offered by City Tours. It appears that City Tours sells multi-city bus excursions and that customers purchase air transportation separately. The airport transfer provided by Ibero Tours presumably is either included in the tour package or otherwise purchased through City Tours.
+[13] Throughout the assessment period, GST was not collected by Ibero Tours from City Tours and the Minister of National Revenue accordingly assessed Ibero Tours for GST, interest and penalties.
+Analysis
+[14] Ibero Tours takes the position that its services are zero-rated supplies and therefore are exempt from tax under subsection 165(3) of the Act. Zero-rated supplies, as defined in subsection 123(1), are listed in Schedule VI of the Act. Ibero Tours takes the position that its services are zero-rated under Part VII (Transportation Services) of Schedule VI.
+[15] The appellant did not make any submissions regarding Part VI (Travel Services) of Schedule VI, which zero-rates certain supplies provided as part of tour packages. I do not propose to analyze Part VI in detail, but I would note that the services provided by Ibero Tours appear not to be zero-rated under this provision. Specifically, it appears that Part VI does not include domestic transportation that is provided as part of a tour package. This describes the services provided by Ibero Tours.
+[16] I turn now to Part VII (Transportation Services) of Schedule VI which is the provision that the appellant relies on. The relevant provisions, sections 2 and 3, apply to supplies of passenger transportation services. Section 2 is entitled "International travel with no air" and section 3 is entitled "International travel including air." These provisions, along with related definitions, are reproduced in an appendix to these reasons.
+[17] The representative of Ibero Tours submits that section 2, which applies to international travel with no air, applies in this case. For the reasons that follow, I do not agree.
+[18] In general, section 2 zero-rates certain transportation services where the journey is partly outside Canada and does not include any air transportation. I will focus my analysis on the following three requirements in section 2:
+1) the services must be part of a continuous journey,
+2) the continuous journey must not include transportation by air, and
+3) either (a) the origin or termination of the continuous journey must be outside Canada, or (b) there must be a stopover outside Canada.
+[19] The terms "continuous journey," "stopover," "origin," and "termination" are defined in Part VII.
+[20] "Continuous journey" is defined as a set of all transportation services provided to an individual or group of individuals. Because the continuous journey must not include air transportation, the services to be considered for purposes of this section are only the transportation services provided by City Tours (including the services provided by Ibero Tours). The air transportation to Toronto should not be included, nor should any other air transportation as part of the journey.
+[21] The questions to be considered for the purposes of section 2 are whether the origin or termination of the transportation services provided by City Tours is outside Canada, and whether there is a stopover outside Canada.
+[22] I will first consider whether the origin or termination of the transportation services provided by City Tours is outside Canada. The terms "origin" and "termination" are defined in the Schedule as being, in essence, the start or end of the continuous journey. There is no evidence in this appeal that any of the relevant services provided by City Tours or Ibero Tours are provided outside Canada. Therefore the origin or termination of any continuous journey is not outside Canada.
+[23] It remains to be considered for the purpose of section 2 whether there is a stopover outside Canada. A "stopover" is defined in relation to a continuous journey and it is a place of embarkation or disembarkation of a conveyance used in the provision of the services included in the continuous journey. Again, there is no evidence that any of the transportation services provided by City Tours are provided outside Canada. Accordingly, I would conclude that there is no stopover outside Canada.
+[24] For these reasons, I would conclude that the services provided by Ibero Tours are not zero-rated under section 2.
+[25] Ibero Tours acknowledged that section 3, which applies to transportation services that include air, does not apply to it. For the following reasons, I would agree with that conclusion.
+[26] In general, section 3 zero-rates certain transportation services where the journey is partly outside Canada and includes some air transportation. I will focus my inquiry on the following three requirements of section 3:
+1) the services must be part of a continuous journey,
+2) the continuous journey must include transportation by air, and
+3) either (a) the origin or termination of the continuous journey, or (b) a stopover in respect of the continuous journey, must be outside Canada.
+[27] In this case, it has not established that there is a continuous journey that includes transportation by air. The key to this analysis is the definition of "continuous journey" and I will consider clauses (a) and (b) of that definition separately.
+[28] Clause (a) applies if there is a single ticket or voucher for all the transportation services. The representative for Ibero Tours acknowledged in argument that the air transportation was not included in the same ticket or voucher with the transportation services provided by City Tours. Ms. Ledesma's testimony was not clear on this point but this acknowledgement seems consistent with the overall testimony. Accordingly, clause (a) does not apply.
+[29] Clause (b) applies if all tickets or vouchers in the continuous journey are issued by the same supplier or agent. Ms. Ledesma stated that her impression was that some passengers purchased all their tickets through one travel agent. Ms. Ledesma's limited knowledge of how the tickets were purchased is insufficient to establish that clause (b) applies.
+[30] This is sufficient to dispose of clause (b). However, I will comment briefly on another part of clause (b) because of the focus on it at the hearing.
+[31] In order to have a "continuous journey" under clause (b), there must not be any stopovers between legs for which separate tickets or vouchers are issued. The evidence in this case falls far short of establishing that there were no stopovers between legs for which separate tickets or vouchers were issued. Specifically, the evidence does not establish whether or not, or when, there were stopovers, and also whether or not, or when, there were separate tickets or vouchers issued for the City Tours' excursions.
+[32] Ms. Ledesma testified that City Tours issued just one voucher for the entire trip. The only vouchers that were introduced into evidence, however, were inconsistent with this. There were at least three vouchers entered in evidence that provided for, and only for, an airport transfer by Ibero Tours. Ms. Ledesma testified that she was not able to obtain any vouchers that comprised the whole tour from the relevant assessment period because City Tours had destroyed them in the course of moving offices. She did not explain, however, why vouchers could not be obtained that relate to a later period.
+[33] The representative of Ibero Tours suggests that the Crown should have the burden of establishing the City Tours' vouchers because these were not in Ibero Tours' possession. While there may be circumstances in which it would be unfair to impose a burden on the taxpayer to establish facts that are not in the taxpayer's control (Redash Trading Inc. v. The Queen, [2004] G.S.T.C. 82 (T.C.C.)), in my view this is not such a case. Ibero Tours had an ongoing business relationship with City Tours and could have obtained this information from them. Indeed City Tours did provide assistance for purposes of this appeal because Ibero Tours introduced into evidence an affidavit from someone at City Tours regarding the destruction of vouchers from the relevant assessment period. Accordingly, I do not think that it is appropriate to conclude that Ibero Tours should not have to introduce evidence regarding ticketing and vouchers issued by City Tours.
+[34] For these reasons, I would conclude that it has not been established that section 3 applies in this case.
+III. Penalty
+[35] The final question to be determined is whether it is proper for the Minister to impose a penalty of $832.11. A defence of due diligence is available to avoid the imposition of administrative penalties under the Act. In order to take advantage of this defence, the taxpayer must demonstrate that it took reasonable precautions to comply with the Act (Corp. de l'Ecole Polytechnique v. The Queen, [2004] G.S.T.C. 102 (F.C.A.)).
+[36] Ms. Ledesma testified that she took steps to determine that Ibero Tours did not have to collect GST. She indicated that City Tours advised her that they do not collect GST and she also stated that she had spoken to her accountant.
+[37] In my view it is far from clear from Ms. Ledesma's brief testimony on this point that she took reasonable steps to comply with the Act. It is not sufficient to simply state that one consulted a professional adviser, or a corporation in a similar type of business. There is no indication what the nature of these consultations were and what the basis of the advice provided by the accountant was. A consultation with a professional adviser may constitute due diligence but there should be detailed evidence regarding the scope of the adviser's engagement and an explanation of why the adviser concluded that GST was not owing. Without more detailed information regarding the consultations that Ibero Tours had, I cannot conclude that Ibero Tours took reasonable steps to determine its obligations under the Act.
+[38] For all these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada this 17th day of February, 2005.
+"J. Woods"
+Woods J.
+APPENDIX
+Excerpts from Excise Tax Act, R.S.C. 1985, c. E-15, Schedule VI, Part VII.
+"continuous journey" of an individual or a group of individuals means the set of all passenger transportation services provided to the individual or group
+(a) and for which a single ticket or voucher in respect of all the services is issued, or
+(b) where 2 or more tickets or vouchers are issued in respect of 2 or more legs of a single journey of the individual or group on which there is no stopover between any of the legs of the journey for which separate tickets or vouchers are issued, and all the tickets or vouchers are issued by the same supplier or by 2 or more suppliers through one agent acting on behalf of all the suppliers where
+(i) all such tickets are supplied at the same time and evidence satisfactory to the Minister is maintained by the supplier or agent that there is no stopover between any of the legs of the journey for which separate tickets or vouchers are issued, or
+(ii) the tickets or vouchers are issued at different times and evidence satisfactory to the Minister is submitted by the supplier or agent that there is no stopover between any of the legs of the journey for which separate tickets or vouchers are issued;
+"origin" means
+(a) in respect of a continuous freight movement, the place where the first carrier that engaged in the continuous freight movement takes possession of the property being transported, and
+(b) in respect of a continuous journey, the place where the passenger transportation service that is included in the continuous journey and that is first provided begins;
+"stopover", in respect of a continuous journey of an individual or a group of individuals, means any place at which the individual or group embarks or disembarks a conveyance used in the provision of a passenger transportation service included in the continuous journey, for any reason other than transferring to another conveyance or to allow for servicing or refuelling of the conveyance;
+"termination" of a continuous journey means the place where the passenger transportation service that is included in the continuous journey and that is last provided ends.
+2. [International travel with no air] - A supply of a passenger transportation service that is provided to an individual or a group of individuals and that is part of a continuous journey of the individual or group, other than a continuous journey that includes transportation by air, where
+(a) the origin or termination of the continuous journey is outside Canada, or
+(b) there is a stopover outside Canada,
+but not including a passenger transportation service that is part of a continuous journey if both the origin and the termination of the journey are in Canada and, at the time the journey begins, the individual or group is not scheduled to be outside Canada for an uninterrupted period of a[t] least 24 hours during the course of the journey.
+3. [International travel including air] - A supply of a passenger transportation service that is provided to an individual or a group of individuals and that is part of a continuous journey of the individual or group that includes transportation by air, where
+(a) the origin or termination of the continuous journey, or any stopover in respect thereof, is outside the taxation area;
+(b) the origin and termination of the continuous journey, and all stopovers in respect thereof, are outside Canada;
+(c) the origin of the continuous journey is within the taxation area, but outside Canada; or
+(d) all places at which the individual or group embarks or disembarks an aircraft are outside Canada and the origin or termination of the continuous journey, or any stopover in respect thereof, is outside Canada.
+CITATION:
+2005TCC144
+COURT FILE NO.:
+2003-4248(GST)I
+STYLE OF CAUSE:
+Ibero Tours Inc. v. The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 20 and 31, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+February 17, 2005
+APPEARANCES:
+Agent for the Appellant:
+Gerald Grupp
+Counsel for the Respondent:
+Craig Maw
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

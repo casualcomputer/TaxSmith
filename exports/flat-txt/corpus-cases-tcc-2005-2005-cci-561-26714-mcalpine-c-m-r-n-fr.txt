@@ -1,0 +1,277 @@
+Title: McAlpine c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26714/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-561-26714-mcalpine-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-08-26
+
+# McAlpine c. M.R.N.
+
+- Citation: 2005 CCI 561
+- Decision date: 2005-08-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3409, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McAlpine c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-26
+Référence neutre
+2005 CCI 561
+Numéro de dossier
+2004-4116(CPP)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2004-4116(CPP)
+ENTRE :
+MICHAEL McALPINE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de Michael McAlpine (2004‑4117(EI), 2004-4118(CPP), 2004-4119(EI), 2004-4120(CPP) et
+2004-4121(EI)), le 12 août 2005 à Saskatoon (Saskatchewan)
+par l’honorable juge D.W. Beaubier
+Comparutions :
+Avocat de l’appelant :
+Me Collin K. Hirschfeld
+Avocate de l’intimé :
+Me Penny L. Piper
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée.
+L’appelant a droit aux frais prévus par le Régime de pensions du Canada.
+Signé à Regina (Saskatchewan), ce 26e jour d’août 2005
+« D.W. Beaubier »
+J. Beaubier
+Traduction certifiée conforme
+ce 17e jour d’octobre 2005
+Ginette Côté, trad. a.
+Dossier : 2004-4117(EI)
+ENTRE :
+MICHAEL McALPINE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de Michael McAlpine (2004‑4116(CPP), 2004-4118(CPP), 2004-4119(EI), 2004-4120(CPP) et
+2004-4121(EI)), le 12 août 2005 à Saskatoon (Saskatchewan)
+par l’honorable juge D.W. Beaubier
+Comparutions :
+Avocat de l’appelant :
+Me Collin K. Hirschfeld
+Avocate de l’intimé :
+Me Penny L. Piper
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée.
+L’appelant a droit aux frais prévus par la Loi sur l’assurance-emploi.
+Signé à Regina (Saskatchewan), ce 26e jour d’août 2005.
+« D.W. Beaubier »
+J. Beaubier
+Traduction certifiée conforme
+ce 17e jour d’octobre 2005
+Ginette Côté, trad. a.
+Dossier : 2004-4118(CPP)
+ENTRE :
+MICHAEL McALPINE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de Michael McAlpine (2004‑4116(CPP), 2004-4117(EI), 2004-4119(EI), 2004-4120(CPP) et
+2004-4121(EI)), le 12 août 2005 à Saskatoon (Saskatchewan)
+par l’honorable juge D.W. Beaubier
+Comparutions :
+Avocat de l’appelant :
+Me Collin K. Hirschfeld
+Avocate de l’intimé :
+Me Penny L. Piper
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée.
+L’appelant a droit aux frais prévus par le Régime de pensions du Canada.
+Signé à Regina (Saskatchewan), ce 26e jour d’août 2005.
+« D.W. Beaubier »
+J. Beaubier
+Traduction certifiée conforme
+ce 17e jour d’octobre 2005
+Ginette Côté, trad. a.
+Dossier : 2004-4119(EI)
+ENTRE :
+MICHAEL McALPINE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de Michael McAlpine (2004‑4116(CPP), 2004-4117(EI), 2004-4118(CPP), 2004-4120(CPP) et
+2004-4121(EI)), le 12 août 2005 à Saskatoon (Saskatchewan)
+par l’honorable juge D.W. Beaubier
+Comparutions :
+Avocat de l’appelant :
+Me Collin K. Hirschfeld
+Avocate de l’intimé :
+Me Penny L. Piper
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée.
+L’appelant a droit aux frais prévus par la Loi sur l’assurance-emploi.
+Signé à Regina (Saskatchewan), ce 26e jour d’août 2005.
+« D.W. Beaubier »
+J. Beaubier
+Traduction certifiée conforme
+ce 17e jour d’octobre 2005
+Ginette Côté, trad. a.
+Dossier : 2004-4120(CPP)
+ENTRE :
+MICHAEL McALPINE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de Michael McAlpine (2004‑4116(CPP), 2004-4117(EI), 2004-4118(CPP), 2004-4119(EI) et
+2004-4121(EI)), le 12 août 2005 à Saskatoon (Saskatchewan)
+par l’honorable juge D.W. Beaubier
+Comparutions :
+Avocat de l’appelant :
+Me Collin K. Hirschfeld
+Avocate de l’intimé :
+Me Penny L. Piper
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée.
+L’appelant a droit aux frais prévus par le Régime de pensions du Canada.
+Signé à Regina (Saskatchewan), ce 26e jour d’août 2005.
+« D.W. Beaubier »
+J. Beaubier
+Traduction certifiée conforme
+ce 17e jour d’octobre 2005
+Ginette Côté, trad. a.
+Dossier : 2004-4121(EI)
+ENTRE :
+MICHAEL McALPINE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de Michael McAlpine (2004‑4116(CPP), 2004-4117(EI), 2004-4118(CPP), 2004-4119(EI) et 2004‑4120(CPP), le 12 août 2005 à Saskatoon (Saskatchewan)
+par l’honorable juge D.W. Beaubier
+Comparutions :
+Avocat de l’appelant :
+Me Collin K. Hirschfeld
+Avocate de l’intimé :
+Me Penny L. Piper
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée.
+L’appelant a droit aux frais prévus par la Loi sur l’assurance-emploi.
+Signé à Regina (Saskatchewan), ce 26e jour d’août 2005.
+« D.W. Beaubier »
+J. Beaubier
+Traduction certifiée conforme
+ce 17e jour d’octobre 2005
+Ginette Côté, trad. a.
+Référence : 2005CCI561
+Date : 20050826
+Dossiers : 2004-4116(CPP), 2004-4117(EI),
+2004-4118(CPP), 2004-4119(EI),
+2004-4120(CPP), 2004-4121(EI)
+ENTRE :
+MICHAEL McALPINE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+J. Beaubier
+[1] Les appels en instance ont été entendus sur preuve commune par consentement des parties à Saskatoon (Saskatchewan), le 12 août 2005. L’appelant a témoigné, ainsi que son épouse, Kelly McAlpine. L’intimé a appelé l’agent d’appel inscrit au dossier, Herman Mah. D’entrée de jeu, l’appel 2004-4117(EI) a été annulé parce que le ministre n’avait pas émis de décision relativement à cette affaire.
+[2] Les appels se rapportent aux années civiles 1999, 2000 et 2001. Il s’agit, dans tous les cas, de déterminer si le montant de 7 $ payé à l’appelant pour chaque heure de fonctionnement des plate‑forme de maintenance de puits de pétrole appartenant à trois entreprises — Lanco Well Services (Elk Point) Corp, (« E.P. »); Lanco Well Services Ltd. (« Lanco ») et T. Gale Well Servicing Ltd (« T. Gale ») — constituait une indemnité d’utilisation de son camion quatre‑quatre de ¾ de tonne (« camion ») ou des honoraires relatifs à des contrats d’entreprise conclus entre l’appelant et ces compagnies. L’appelant soutient que le montant en cause lui a été payé à titre d’entrepreneur indépendant.
+[3] L’appelant, un homme d’âge mûr, est un travailleur de terrain dans le domaine de la maintenance de puits de pétrole depuis 1984. À toutes les périodes pertinentes, son épouse et lui vivaient sur une parcelle de terre de sept acres près d’une route municipale située à proximité d’une route, non loin de Kindersley (Saskatchewan). Ils y possèdent une maison et un grand garage de type atelier. Une des compagnies y avait installé un abri de chantier en métal (mesurant 24 pi. sur 10 pi.) pour y ranger le matériel destiné aux plate‑forme; à l’occasion, les compagnies y entreposaient aussi temporairement des plate‑forme de maintenance. Pour accéder à la propriété, elles utilisaient généralement une entrée distincte à partir de la route, que l’appelant avait fait recouvrir de gravier.
+[4] Dans les paragraphes 13 à 20 de la réponse modifiée à l’avis d’appel relatif au dossier 2004-4119(EI) reproduits ci‑après, « LWSEP » désigne EP :
+[traduction]
+13. LWSEP a interjeté appel au ministre en vue du réexamen des cotisations établies pour les années 1999, 2000 et 2001.
+14. Dans la réponse à l’appel, le ministre a décidé de ratifier les cotisations établies pour les années 1999, 2000 et 2001 étant donné qu’elles avaient été établies régulièrement eu égard aux montants payés à l’appelant. La lettre de décision du ministre faisait mention par erreur de l’avis de cotisation daté du 19 novembre 2003 alors qu’il s’agissait plutôt de l’avis de cotisation daté du 6 novembre 2003.
+15. En rendant ainsi sa décision relativement à l’appelant, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+a) LWSEP exploitait une entreprise de maintenance de puits de pétrole;
+b) l’appelant était employé comme superviseur sur le terrain;
+c) il n’existait pas de lien de dépendance entre LWSEP et l’appelant;
+d) les tâches de l’appelant consistaient à assurer le bon fonctionnement des plate‑forme, à recruter le personnel, à trouver des contrats pour les plate‑forme et à commander les pièces;
+e) l’appelant était un employé de LWSEP;
+f) LWSEP versait à l’appelant un salaire mensuel de 500 $ pour chaque plate‑forme qu’il supervisait (le « salaire »);
+g) LWSEP effectuait des retenues sur le salaire du travailleur au titre des cotisations au RPC, des cotisations d’A.‑E. et de l’impôt sur le revenu;
+h) l’appelant était tenu d’utiliser son propre camion pour s’acquitter de ses tâches pour LWSEP;
+i) outre le salaire, LWSEP payait un montant à l’appelant pour l’utilisation du camion;
+j) LWSEP payait à l’appelant, pour chaque heure de fonctionnement d’une plate‑forme, un montant horaire de 7 $relativement à l’utilisation de son camion; (ci‑après appelé « l’indemnisé d’utilisation du camion »);
+k) LWSEP payait à l’appelant l’indemnité d’utilisation du camion deux fois par mois;
+l) l’indemnité d’utilisation du camion a été reçue par l’appelant au titre, dans l’occupation ou en vertu de son emploi pour LWSEP;
+m) l’appelant n’exploitait pas une entreprise de location de camions ou de matériel;
+n) l’utilisation du véhicule de l’appelant était reliée à l’emploi qu’il exerçait pour LWSEP;
+o) l’indemnité d’utilisation du camion était préétablie et ne tenait pas compte des dépenses ou des coûts réels;
+p) l’indemnité d’utilisation du camion était un montant arbitraire dont l’appelant n’était pas tenu de rendre compte à LWSEP;
+q) l’indemnité d’utilisation du camion n’était pas établie en fonction de taux kilométriques précis;
+r) l’indemnité d’utilisation du camion n’était pas raisonnable;
+s) l’appelant était en mesure de titrer un profit de l’indemnité d’utilisation du camion;
+t) l’indemnité de déplacement payée à l’appelant par LWSEP s’établissait à 10 531 $ en 1999, 13 194 $ en 2000 et 11 715 $ en 2001.
+B. QUESTIONS À TRANCHER
+16. Il s’agit de déterminer la cotisation relative aux cotisations d’assurance‑emploi a été établie à juste titre eu égard à l’indemnité d’utilisation du camion payée à l’appelant.
+C. DISPOSITIONS LÉGISLATIVES, MOYENS INVOQUÉS ET RÉPARATION DEMANDÉE
+17. L’intimé s’appuie sur l’alinéa 5(1)a) de la Loi sur l’assurance-emploi et l’article 2 du Règlement sur la rémunération assurable et la perception des cotisations.
+18. L’intimé est d’avis que l’appelant exerçait un emploi assurable en vertu de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi car il était employé par LWSEP en vertu d’un contrat de louage de services dans les années 1999, 2000 et 2001.
+19. L’intimé avance que l’indemnité d’utilisation du camion a été reçue par l’appelant au titre, dans l’occupation ou en vertu de son emploi pour LWSEP.
+20. L’intimé estime qu’une cotisation au titre des cotisations d’assurance‑emploi a été établie régulièrement eu égard à l’indemnité d’utilisation du camion payée à l’appelant car celui‑ci était employé par LWSEP en vertu d’un contrat de louage de services dans les années 1999, 2000 et 2001.
+[5] Les hypothèses formulées au paragraphe 15 décrivent la thèse du ministre relativement à tous les appels. Dans les motifs exposés ci‑après, le terme « compagnies » désigne les trois compagnies, sauf indication contraire, pour les trois années en cause. Cela vaut aussi pour les hypothèses exposées au paragraphe 15. Les alinéas 15 a), c), d), f), g), h), k), o), p), q), s), et t) se rapportent à tous les appels. Ils n’ont pas été réfutés par la preuve, sauf dans la mesure indiquée ci‑après. Relativement à l’ensemble des hypothèses, la Cour en arrive aux conclusions suivantes :
+b) : L’appelant était payé mensuellement 500 $ pour chaque plate‑forme de maintenance utilisée par des compagnies pétrolières telles que Conoco-Phillips, dont il assurait la supervision sur le terrain pour le compte de chaque compagnie dans la région de Kindersley en Saskatchewan. Il s’agit d’une vaste région géographique rurale s’étendant le long de la frontière de l’Alberta, à mi‑chemin environ entre Lloydminster et Swift Current; des routes de terre et de gravier et, à certains puits, des chemins de terre traversent des ranch et des terres agricoles.
+d) et (e) : Ne correspond pas à la réalité en soi. Les tâches de l’appelant à titre d’employé consistaient principalement à vérifier personnellement (1) les feuilles de présence des travailleurs affectés aux plate‑forme et (2) les « fiches » de fonctionnement des plate‑forme et à les envoyer sans tarder par autobus à Calgary certains soirs pour que les salaires soient versés rapidement et en temps opportun. L’appelant ne pouvait se soustraire à cette tâche, la seule tâche qui lui incombait à titre d’employé, sous aucun prétexte. Il ne s’agissait pas d’une simple tâche de perception car la clarté et l’exactitude des documents devaient être vérifiés et les erreurs corrigées. Pour ce faire, l’appelant devait interroger les travailleurs ou vérifier les fiches de fonctionnement des plate‑forme en plus de se rendre aux plate‑forme et de s’assurer que les documents étaient en règle avant de les envoyer par autobus à Calgary, à quelque 320 kilomètres de là environ. Son témoignage selon lequel il exécutait l’autre prétendue tâche à des fins commerciales afin de pouvoir déclarer un plus grand nombre d’heures au tarif horaire de 7 $ pour le fonctionnement de chaque plate‑forme est considérée comme crédible. Autrement dit, l’appelant était payé non pas pour ses activités de contrôle, mais pour chaque heure pendant laquelle une plate‑forme relativement à laquelle il avait conclu un contrat était utilisée (au lieu d’être inactive) dans les faits sur le terrain par une compagnie pétrolière telle que Conoco-Phillips. Il était donc important que l’appelant obtienne des pièces pour ces plate‑forme, que le matériel nécessaire à leur entretien soit disponible pour en assurer le fonctionnement continu, que de nouveaux contrats soient conclus et que les compagnies pétrolières ne trouvent aucunement matière à redire : chaque année, il organisait un barbecue à ses frais à l’intention des employés et représentants des plate‑forme de maintenance et des compagnies pétrolières — un employé ne ferait pas ce genre de choses. Il sollicitait aussi des contrats pour les plate‑forme de maintenance auprès des compagnies pétrolières à leurs bureaux mêmes. Son épouse, Kelly, répondait au téléphone et livrait les pièces aux plate‑forme. Il avait un bureau à son domicile, mais il était constamment sur la route, visitant les plate‑forme ou sollicitant de nouveaux contrats. Ses conditions de travail et l’indemnité horaire de 7 $ ont fait l’objet d’une entente verbale; aucun contrat n’existe à cet égard. L’appelant facturait l’indemnité horaire de 7 $ et percevait la TPS. Si les compagnies utilisaient son camion, il leur facturait une indemnité journalière distincte de 100 $.
+i), j), k) et l): Voir ce qui précède. La Cour estime que la prétendue indemnité d’utilisation du camion correspondait en fait à quelque chose de complètement différent. Elle ne se rapportait pas à l’utilisation du camion, mais plutôt au nombre d’heures de fonctionnement de chaque plate‑forme. Elle était versée à l’appelant parce qu’on faisait appel à ses services pour obtenir des contrats et maintenir les plate‑forme en bon état de fonctionnement pour les compagnies pétrolières. Il exploitait une entreprise à titre de courtier, pourrait‑on dire, pour obtenir des contrats, fournir des travailleurs et des pièces pour les plate‑forme et prendre les mesures nécessaires à cette fin. C’est pourquoi il laissait les compagnies entreposer du matériel et des pièces chez lui, c’est pourquoi Kelly répondait au téléphone et livrait des pièces aux plate‑forme et c’est aussi pourquoi il s’employait à obtenir des contrats des compagnies pétrolières et organisait un barbecue annuel.
+m), n) et r): Cela n’avait absolument rien à voir avec son contrat d’emploi au salaire mensuel de 500 $. Mais il ne s’agissait pas simplement de la location d’un camion, de matériel ou d’un bien. Le montant de 7 $ avait été préétabli en partant du principe qu’il s’agissait d’une prime d’encouragement payée à l’appelant afin qu’il obtienne des compagnies pétrolières pour assurer l’utilisation continue des plate‑forme. C’est pourquoi l’indemnité était fondée sur les heures de fonctionnement des plate‑forme de maintenance. À cet égard, il s’agissait d’un montant raisonnable.
+[6] En appliquant les critères énoncés dans Wiebe Door Services Ltd v. The Minister of National Revenue [1986] C.R.T. 200, on en arrive aux conclusions suivantes :
+1. Contrôle : L’appelant exerçait un contrôle sur son horaire de travail ainsi que sur l’utilisation de sa propriété et de son matériel.
+2. Outils de travail : L’appelant était propriétaire de ses outils de travail — sa propriété et son atelier pour l’entreposage du matériel d’entretien et des plate‑forme en soi pour les compagnies; son bureau et son téléphone pour exploiter son entreprise et fournir les services; son camion pour se déplacer et transporter le matériel des compagnies; il y avait aussi son épouse Kelly, qui lui tenait lieu de secrétaire et de remplaçante quand il était occupé à autre chose ou s’occupait des affaires des deux autres compagnies ou cherchait des clients ou sollicitait des contrats pour leur compte.
+3. Chances de profit et risques de pertes : S’il ne réussissait pas à obtenir des contrats des compagnies pétrolières ou si les plate‑forme tombaient en panne, l’appelant ne tirait aucun revenu d’une plate‑forme. En revanche, lorsqu’une plate‑forme était utilisée, il gagnait 7 $ l’heure. Dans les deux cas, l’appelant payait lui‑même ses dépenses. Il était incontestablement susceptible de réaliser un profit ou de subir un risque de perte compte tenu de ses efforts personnels et de son matériel. S’il ne réussissait pas à obtenir de contrats pour les plate‑forme ou si ces dernières n’étaient pas utilisées, il subissait une perte.
+4. Intégration : L’appelant n’était pas intégré aux compagnies de services ni aux plate‑forme. Il pouvait obtenir des contrats supplémentaires, et les compagnies pouvaient faire appel à d’autres courtiers ou représentants. L’appelant pouvait se faire remplacer par d’autres, dont Kelly, à ses frais.
+[7] L’appelant était en affaires pour son compte en ce qui concerne les honoraires de 7 $ qui lui étaient versés pour chaque heure de fonctionnement d’une plate‑forme.
+[8] Les appels sont accueillis. L’appelant a droit aux frais et dépenses prévus par la Loi sur l’assurance-emploi et le Régime de pensions du Canada.
+Signé à Regina (Saskatchewan), ce 26e jour d’août 2005.
+« D.W. Beaubier »
+J. Beaubier
+Traduction certifiée conforme
+ce 17e jour d’octobre 2005
+Ginette Côté, trad. a.
+RÉFÉRENCE :
+2005CCI561
+NOS DES DOSSIERS DE LA COUR :
+2004-4116(CPP), 2004-4117(EI), 2004‑4118(CPP), 2004-4119(EI), 2004‑4120(CPP), 2004-4121(EI)
+INTITULÉ DE LA CAUSE :
+Michael McAlpine c. Le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE :
+le 12 août 2005
+MOTIFS DU JUGEMENT PAR :
+l’honorable juge Beaubier
+DATE DU JUGEMENT :
+le 26 août 2005
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Collin K. Hirschfeild
+Avocate de l’intimé :
+Me Penny L. Piper
+AVOCATS INSCRITS AUX DOSSIERS :
+Avocat de l’appelant :
+Nom :
+Me Collin K. Hirschfeild
+Cabinet :
+McKercher McKercher & Whitmore
+Pour l’intimé :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

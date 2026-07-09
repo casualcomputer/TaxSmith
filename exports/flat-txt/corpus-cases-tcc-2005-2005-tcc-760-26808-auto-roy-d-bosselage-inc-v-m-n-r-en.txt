@@ -1,0 +1,191 @@
+Title: Auto Roy Débosselage Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26808/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-760-26808-auto-roy-d-bosselage-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-12-02
+
+# Auto Roy Débosselage Inc. v. M.N.R.
+
+- Citation: 2005 TCC 760
+- Decision date: 2005-12-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3488, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Auto Roy Débosselage Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-02
+Neutral citation
+2005 TCC 760
+File numbers
+2004-4668(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-4668(EI)
+BETWEEN:
+AUTO ROY DÉBOSSELAGE INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+GRACIA ROY,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Gracia Roy (2004-4669(EI)) on October 12, 2005,
+at Rivière-du-Loup, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Counsel for the Intervener:
+Jean Lavigne
+Jérôme Carrier
+____________________________________________________________________
+JUDGMENT
+The appeals for the periods of June 28 to September 24, 1999, and April 6 to September 22, 2000, are allowed and the decision of the Minister of National Revenue is vacated in accordance with the attached Reasons for Judgment.
+The appeals for the periods of January 15 to October 26, 2001, December 17, 2001, to September 20, 2002, and June 16 to October 3, 2003, are dismissed and the decision of the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of December 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 18th day of March 2009.
+Brian McCordick, Translator
+Docket: 2004-4669(EI)
+BETWEEN:
+GRACIA ROY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+AUTO ROY DÉBOSSELAGE INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Auto Roy Débosselage Inc. (2004-4668(EI)) on October 12, 2005,
+at Rivière-du-Loup, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Counsel for the Intervener:
+Jean Lavigne
+Jérôme Carrier
+____________________________________________________________________
+JUDGMENT
+The appeals for the periods of June 28 to September 24, 1999, and April 6 to September 22, 2000, are allowed and the decision of the Minister of National Revenue is vacated in accordance with the attached Reasons for Judgment.
+The appeals for the periods of January 15 to October 26, 2001, December 17, 2001, to September 20, 2002, and June 16 to October 3, 2003, are dismissed and the decision of the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of December 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 18th day of March 2009.
+Brian McCordick, Translator
+Citation: 2005TCC760
+Date: 20051202
+Docket: 2004-4668(EI)
+BETWEEN:
+AUTO ROY DÉBOSSELAGE INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+GRACIA ROY,
+Intervener.
+Docket: 2004-4669(EI)
+BETWEEN:
+GRACIA ROY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+AUTO ROY DÉBOSSELAGE INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] These two appeals were heard on common evidence. The Minister of National Revenue ("the Minister") submits that the employment of Gracia Roy ("the Worker") with Auto Roy Débosselage inc. ("the Payor") during the periods of June 28 to September 24, 1999, April 6 to September 22, 2000, January 15 to October 26, 2001, December 17, 2001, to September 20, 2002, and June 16 to October 3, 2003, is not insurable employment within the meaning of paragraph 5(2)(i) and subsection 5(3) of the Employment Insurance Act ("the Act") because the Minister was satisfied that, having regard to all the circumstances of the employment, it was not reasonable to conclude that the Worker and the Payor would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[2] The Payor was incorporated on March 21, 1986, the year when a new garage was built. During the periods in issue, the Payor's voting shareholders were the Worker's spouse, Réjean Roy, and their two sons, Gino and Ricko Roy. The non‑arm's length relationship is not in dispute. The Payor operated a garage where mechanical work, painting and autobody repair work were done. The garage also had a towing service and a gas station. However, the Payor stopped selling gas in June of this year. The Payor's business was open seven days a week all year round. Its operating hours were 8:00 a.m. to 6:00 p.m. except during the summer, when it closed at 9:00 p.m. The Payor had sales of about $800,000 a year.
+[3] The Worker had worked for the Payor since it began operating. Her work involved pumping gas, answering the telephone, ordering automotive parts, keeping the books up to date, preparing the employees' pay and cleaning the office and the washroom. It should be noted that the Worker's residence was adjacent to the business's garage.
+[4] The Worker was listed in the payroll journal with five‑hour weeks and full weeks of work. She received $40 a week for the five‑hour weeks and $348.75 or $362.70 for the full‑time weeks. She gave up her job about two months before the hearing because of her health. She had been working full time for two years because the business had become certified by the Société de l'assurance automobile du Québec to do mechanical inspections. That additional work, especially the necessary documentation, justified her full‑time presence. Since her departure, her son has been doing this work until someone else is hired.
+[5] According to Réjean Roy, the Worker's spouse, the work at the gas pump took up a little more than half of the Worker's time; he added that it was much quieter during the winter months. The Worker worked 45 hours a week over five days. If she worked on Saturday or Sunday, she took a day off during the week to make up for it. The Worker and her son Gino were both responsible for ordering parts. The Worker handled the payroll and bookkeeping, but the business hired an accountant to remit the Quebec sales tax (QST) and the goods and services tax (GST) and prepare the year‑end statements. According to Mr. Roy, he and the Worker were authorized to sign the Payor's cheques.
+[6] Mr. Roy stated that the Worker's hourly wage was about $8. Her gross weekly pay was $375, but she was paid by the week and not on the basis of 45 hours of work. Her periods of employment depended on demand and the tourist season. According to Mr. Roy, the Worker did not work while she was receiving employment insurance benefits. He acknowledged that she came to the garage at break time and on the walks that she had to take for her health, if the weather was good. She sometimes pumped gas for customers when she was present. Mr. Roy also said that the only service the Worker may have provided without remuneration was the payroll, which required about an hour of work a week.
+[7] In 1997, the Payor owed money to both levels of government for the GST and the QST and was able to negotiate a settlement for $40,000. The two sons then borrowed $10,000 each. The Worker also borrowed $20,000, which she then loaned to her two sons. According to the testimony of Mr. Roy and the Worker, that amount was repaid to the Worker by their sons and not by the Payor. No documentation was filed in evidence to corroborate this. Mr. Roy also admitted that the Worker made cash advances to the Payor of about $4,000 to $5,000 in 2001, 2002 and 2003. This occurred two or three times, and he explained that it was necessary because cash withdrawals could be made on the credit cards of the Worker, his spouse, but not on his credit cards. The Payor repaid the advances, which were needed to make purchases and operate the business.
+[8] On cross‑examination, Mr. Roy acknowledged that the Worker signed invoices while she was unemployed. This occurred when she was at the garage. Indeed, hundreds of invoices signed or initialled by the Worker outside her periods of employment were filed in evidence for 2001, 2002 and 2003.
+[9] The Worker testified about her history in the Payor's business since 1980. She learned how to do the bookkeeping and said that her employment was insurable in 1992 as determined by the Minister at the time. In 2001, she worked five hours a week from mid‑January to the end of June. She did the bookkeeping for the week. Her son or her spouse decided when she would return to full‑time work. She worked full time until the end of August, then five hours a week until the end of October, then two weeks full time in December. In 2002, she worked two weeks full time in January and then worked full time from mid‑June until mid‑September. There were no five‑hours work weeks in 2002. The payroll journals from 2003, 1999 and 2000 were not filed in evidence.
+[10] The Worker admitted that she provided services to the Payor while receiving employment insurance benefits. At the time, she thought that she was the only one who could sign the Payor's cheques. She also prepared the cheques. This did not require more than an hour of her time per week. She did that work, just like signing the invoices, on the pretext that her spouse and her son always had dirty hands and that she was there visiting them during breaks or on her walks. She also sometimes pumped gas for customers when she was on the Payor's premises. In her testimony, she said that she was mistaken in her declaration to the Minister's officer and that therefore she did not go to the Payor's garage five times a day. She now said that she went there in the morning at break time and, weather permitting, on her walks. She no longer handled the remittances of QST and GST, since that work had been delegated to the Payor's accountant.
+[11] The Worker confirmed that she lent her two sons $20,000 in 1997 and that they and not the Payor repaid her that amount. She also admitted that she made cash advances to the Payor using her personal credit cards. She did this because her spouse's credit cards did not allow him to make cash withdrawals. The advances were recorded in the Payor's financial statements as a debt to a director. The Worker was not a director of the Payor and could not say whether the money under that item was owed to her. She admitted that she was repaid by the Payor nonetheless. The advances were necessary for the business to pay its bills.
+[12] On cross‑examination, the Worker was confronted with a large number of invoices that she signed or initialled while not working full time for the Payor. There were 132 invoices filed from 2001, 250 from 2002 and 300 from 2003. The Worker explained the situation by saying that in some cases she was present or that a supplier made a delivery early in the morning and came to her home to have the invoice signed or that she ran errands for the Payor while shopping. She also admitted entering information in the payroll journal, writing cheques and remitting source deductions the entire year. She explained that she did this work because her spouse and her son had dirty hands as a result of their work. In her declaration of November 26, 2003, the Worker stated that this work took her about five hours a week. In her testimony, she now said that five hours was an exaggeration and that the work did not take that much time. The same was true of her second declaration, in which she stated that she went to the Payor's garage five or six times a day, whereas it was less often than that. She also corrected the statement that for six years she was the only person who could sign cheques, since she now realized that her spouse also had that power. According to the Worker, he did not sign cheques because his hands were always dirty.
+[13] Daniel Michaud is an investigating officer. He prepared a table for 2001, 2002 and 2003 showing the number of days on which the Worker signed invoices outside her periods of full‑time employment. She did so nearly every week, including several weeks when she did not report five hours of work, at least in 2001 and 2002. The number of invoices examined outside her periods of full‑time work was 132 in 2001, 250 in 2002 and 300 in 2003. He did not ask for the invoices from 1999 and 2000 and therefore did not conduct a similar review for those two years. On cross‑examination, he acknowledged that he made no distinctions based on the nature of the invoices or the fact that several of them might have been signed at the same time. However, nothing in the evidence seems to indicate that this was the case.
+[14] Roger Dufresne, an appeals officer, filed his report. He examined all the invoices from 2001, 2002 and 2003. He compared the number of invoices signed by the Worker with the Payor's sales. During the busiest periods, when the Worker worked full time, she did not sign invoices for six months out of eight. During the months when she was not remunerated by the Payor, she signed invoices every month, and in at least eight of those months, there were more than 30 invoices, and there were 55 invoices in May 2002. He did not verify the nature of the invoices or whether several of them might have been signed at the same time. He accepted the fact that the work was done without pay, relying largely on the Worker's declarations acknowledging that she regularly worked five hours a week without pay.
+[15] The salient facts, all of which were denied by the Appellants and which led the appeals officer to conclude that the contract of employment between the Payor and the Worker could not be substantially similar to one between two parties dealing with each other at arm's length, are as follows: the Worker was the only person authorized to sign the Payor's cheques, she provided services to the Payor during the weeks when she was not on the payroll, she admitted working without pay while receiving employment insurance benefits, and she admitted that the work weeks when she was on the payroll were not the Payor's busiest weeks. As well, the Worker was at the Payor's garage five or six times a day while she was laid off, and her alleged hours of work do not correspond to the hours she actually worked, which means that the records of employment do not reflect reality in terms of the periods or amount of work. Finally, the credit card cash advances and the $20,000 loan are not consistent with terms and conditions of employment between persons dealing with each other at arm's length.
+[16] In Légaré v. Canada, No. A‑392‑98, May 28, 1999, [1999] F.C.J. No. 878 (QL), the Federal Court of Appeal defined the Minister's role and the role that must be played by this Court in cases where the Minister must determine whether employment is excluded from insurable employment because of non‑arm's length dealing. Marceau J.A. summarized the approach as follows at paragraph 4:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so‑called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[17] The Federal Court of Appeal reiterated its position in Pérusse v. Canada, No. A‑722‑97, March 10, 2000, [2000] F.C.J. No. 310 (QL). Marceau J.A., referring to the above passage from Légaré, added the following at paragraph 15:
+The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[18] The Act's provisions stating that employment is excluded from insurable employment if the employer and employee are not dealing with each other at arm's length and the provisions regarding situations in which they are deemed to deal with each other at arm's length are worded as follows:
+5. . . .
+Excluded employment
+(2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+Arm’s length dealing
+(3) For the purposes of paragraph (2)(i),
+. . .
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[19] In Louis‑Paul Bélanger v. M.N.R., 2005 TCC 36, Archambault J. of this Court analysed a number of decisions rendered by both the Federal Court of Appeal and this Court on the question of non‑arm's length dealing and the exercise in which the Court must engage on an appeal from the Minister's decision, based on the above‑mentioned legislative provisions. I will use all of these guidelines to analyse the facts of these appeals.
+[20] First, it seems obvious to me that the circumstances of the employment, namely the terms and conditions, the duration and the remuneration paid to the Worker, were analysed only for the periods of employment in 2001, 2002 and 2003. All the information gathered and analysed by both the appeals officer and the investigating officer is for those three years. The payroll journal, invoices and financial statements all refer to 2001, 2002 and 2003 and were not examined for the previous two years. The information the officers obtained from the Worker through her declarations is too general to encompass all the periods and examine the situation as a whole. As for more specific questions, the information disclosed deals with such questions for the same three years, which, in my view, are what they actually investigated.
+[21] For 2001, 2002 and 2003, the investigation enabled the officers to gather enough information, in my opinion, to objectively analyse the facts surrounding the Worker's terms and conditions of employment with the Payor. Although some of the facts on which the Minister relied may have been inaccurate, he obtained that information from either the Worker or the Payor. I am thinking in particular of the fact that only the Worker had the power to sign the Payor's cheques, whereas, according to the Worker's spouse, he too was authorized to do so. The officers obtained that information from the Worker, who admitted in her declaration that she was the only person authorized to signed cheques for six years. The fact remains that the Worker signed the cheques at all times and took care of the payroll journal, prepared the pay and remitted source deductions throughout the year. She was paid for five hours a week only in 2001, namely from January to June and in September and October. Except during the weeks she worked full time, she was not paid for the work she did for the Payor.
+[22] It is also obvious that the Worker did more than do the payroll and remit source deductions. When the invoices she signed or initialled outside her periods of full‑time work and their frequency are compiled, what emerges is that the Worker never really stopped providing services. I can believe that such services may be provided occasionally in the context of a family business, but the frequency and number of her actions clearly show that she provided services regularly. It is therefore obvious that the Worker provided services to the Appellant when she was not on the payroll and was not being paid for those services. At paragraph 74 of Louis‑Paul Bélanger, supra, Archambault J. provided a good summary of the possible consequences of such a situation:
+[74] In my view, failing to consider the fact that an employee works without remuneration for the same employer clearly opens the door to abuse. A good example can be found in the decision I rendered in Massignani ([2004] T.C.J. No. 127 (QL), 2004 TCC 75). In that case, the family members were not the only ones to abuse the Act. Employees dealing at arm's length with the employer were encouraged to participate in the scheme that had been devised. Failing to take into account the number of hours worked without remuneration would essentially enable employees to be remunerated through employment insurance while they continued to work for their employer. This is certainly not the intention of Parliament with respect to the employment insurance system.
+[23] The fact that the Worker's hours of work were not recorded during the periods when she was working full time also raises the question of whether she actually worked the 45 hours a week corresponding to her weekly pay. Since the number of hours of work must correspond to the number of insurable hours, this is once again a situation that invites abuse. Indeed, the payroll journal does not show the number of hours she worked during the periods of full‑time work.
+[24] The Minister also considered the fact that the Worker lent the Payor $20,000 and made cash advances in 2001, 2002 and 2003. The $20,000 loan was made prior to the periods in issue, and there is the question of whether the loan was made to the Payor or to the Worker's two sons. Moreover, with the exception of the Worker's testimony, no evidence was provided to shed light on the loan. One thing is clear: the loan enabled the Payor to pay its debt to the governments concerned, which means that the money ended up in the Payor's hands either through an investment by the Worker and her two sons or through the two sons only. In either case, the Payor benefited from it, just as it benefited from the cash advances made using the Worker's credit card. There is no prohibition against a family member making loans or cash advances to the family business, but when the same business provides the family member with employment for which the terms and conditions, duration, importance and remuneration must be compared with those that would exist for an employee dealing at arm's length, the loans or advances become a factor to consider, since the Payor's lack of funds to meet its obligations may have an impact on the remuneration paid to the Worker as an employee.
+[25] The table of total sales per month prepared by the appeals officer shows that the Worker sometimes worked fewer hours than during the following years, when she worked more hours with a similar monthly income.
+[26] For these reasons, the Minister's conclusion regarding the periods of January 15 to October 26, 2001, December 17, 2001, to September 20, 2002, and June 16 to October 3, 2003, seems reasonable to me, and the Worker's employment is therefore not insurable employment within the meaning of the Act. As for the periods of June 28 to September 24, 1999, and April 6 to September 22, 2000, the Minister's conclusion does not seem reasonable to me in the circumstances, since there was not enough evidence to support it. The appeals are therefore dismissed for the periods in 2001, 2002 and 2003 and allowed for the periods in 1999 and 2000.
+Signed at Ottawa, Canada, this 2nd day of December 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 18th day of March 2009.
+Brian McCordick, Translator
+CITATION: 2005TCC760
+COURT FILE NOS.: 2004-4668(EI) and 2004-4669(EI)
+STYLES OF CAUSE: Auto Roy Débosselage inc. and M.N.R. and Gracia Roy
+Gracia Roy and M.N.R. and Auto Roy Débosselage inc.
+PLACE OF HEARING: Rivière-du-Loup, Quebec
+DATE OF HEARING: October 12, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: December 2, 2005
+APPEARANCES:
+Counsel for the Appellants:
+Jérôme Carrier
+Counsel for the Respondent:
+Counsel for the Interveners:
+Jean Lavigne
+Jérôme Carrier
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Jérôme Carrier
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+For the Interveners:
+Name: Jérôme Carrier

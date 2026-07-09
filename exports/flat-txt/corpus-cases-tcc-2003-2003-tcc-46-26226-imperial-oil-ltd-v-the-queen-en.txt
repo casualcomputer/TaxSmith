@@ -1,0 +1,205 @@
+Title: Imperial Oil Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26226/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-46-26226-imperial-oil-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-02-14
+
+# Imperial Oil Ltd. v. The Queen
+
+- Citation: 2003 TCC 46
+- Decision date: 2003-02-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4023, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Imperial Oil Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-02-14
+Neutral citation
+2003 TCC 46
+File numbers
+2002-2257(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2257(IT)G
+BETWEEN:
+IMPERIAL OIL LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Motion heard with the motion in Inco Limited (2002-2695(IT)G),
+on November 1, 2002 at Toronto, Ontario
+Before: The Honourable D.G.H. Bowman, Associate Chief Judge
+Appearances:
+Counsel for the Appellant:
+Al Meghji, Esq.
+Counsel for the Respondent:
+Luther P. Chambers, Q.C.
+Rhonda Nahorniak
+Boyd Aitken, Esq.
+_______________________________________________________________
+ORDER
+Upon motion by the respondent to strike out the appeal or, alternatively, to stay the appeal
+And upon hearing what was alleged by the parties
+It is ordered that the motion be dismissed with costs.
+Signed at Toronto, Canada, this 14th day of February 2003.
+"D.G.H. Bowman"
+A.C.J.
+Citation: 2003TCC46
+Date: 20030214
+Docket: 2002-2257(IT)G
+BETWEEN:
+IMPERIAL OIL LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Docket: 2002-2695(IT)G
+BETWEEN:
+INCO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bowman, A.C.J.
+[1] Although the appeals of these two companies are not related the Crown's motions to strike the appeals out or, alternatively, to stay the appeals were heard together on consent because the question is the same. It is this: Can one file a return of income, obtain an initial (sometimes called a "quick" or "desk" assessment) based substantially on the return, file a notice of objection to the assessment, wait ninety days and, if the Minister has not responded by means of a confirmation or reassessment, file an appeal to the Tax Court of Canada?
+[2] The Crown says one cannot. The appellants say the Income Tax Act specifically permits them to do just that.
+[3] The order sought is as follows: (I am using the Inco motion. The wording is the same in Imperial Oil except that the years referred to in paragraph 3 of the grounds in the latter case are 1998 and 1999.)
+THE MOTION IS FOR an Order
+a) striking out the Appellant's Notice of Appeal pursuant to paragraph 58(3)(a), or alternatively, pursuant to paragraph 58(3)(b) of the General Procedure Rules, or alternatively,
+b) striking out the Appellant's Notice of Appeal pursuant to section 53 of the General Procedure Rules, or alternatively, pursuant to the Court's inherent jurisdiction to control its own process, or in the further alternative,
+c) staying the Appellant's appeal pursuant to its inherent jurisdiction to control its own process until the Canada Customs and Revenue Agency has completed its audit of the Appellant's 1997 to 2000 taxation years and has decided whether or not to reassess the Appellant for those years within the period provided by subsection 152(4) of the Income Tax Act.
+[4] The grounds are stated in the notice of motion as follows:
+1. that the Court has no jurisdiction over the subject matter of the Appellant's appeal, within the meaning of paragraph 58(3)(a) of the General Procedure Rules, or alternatively,
+2. that a condition precedent of instituting a valid appeal to the Tax Court of Canada, namely, the filing of a valid notice of objection, within the meaning of subsection 165(1) of the Income Tax Act, has not been met, within the meaning of paragraph 58(3)(b) of the General Procedure Rules, or in the further alternative,
+3. that the filing of the Notice of Appeal is premature and would thus prejudice the fair hearing of the issues raised therein, as well as such other issues that may arise following the completion of the Canada Customs and Revenue Agency's audit of the Appellant's 1997 to 2000 taxation years, within the meaning of paragraph 53(a) of the General Procedure Rules, or in the further alternative,
+4. that the Notice of Appeal is vexatious and an abuse of the process of the Court, within the meaning of paragraph 53(b) and 53(c) of the General Procedure Rules.
+[5] I shall outline first the facts in Inco. Inco is a large multinational mining company. It filed its income tax return for 2000 on June 30, 2001 in which it computed its taxable income at $272,824,201 and its Part I tax payable at $61,057,594. It filed an amended return (the first amended return) for 2000 revising its income and Part I tax downward to $238,309,131 and $51,006,806 respectively. In the original return it had omitted to deduct a Part VI.1 tax deduction of $34,515,070.
+[6] On July 17, 2001 the CCRA assessed the appellant on the basis of the first amended return. The assessment was done electronically, a mechanical, largely non-human, process in which the information in the return is used. In virtually all cases there is no audit performed at the stage of the initial assessment. The information in the return is fed into the CCRA's mainframe computer systems and a notice of assessment is issued. The computer programs enable it to pick up and correct certain types of errors (or what the computer is programmed to perceive as errors) and this was in fact done in the case of Inco's assessment for 2000, where the computer adjusted Inco's opening balance of non-capital losses downward by about $74,000,000. An error also made by the computer in reducing the Part VI.1 deduction from $34,515,070 to $34,065,070. All this resulted in the taxable income and tax being altered by the computer.
+[7] On August 14, 2001 Inco told the CCRA of an error and asked that it be corrected. I base this statement upon an assertion in the respondent's written argument where it is said "On August 14, 2001 the Appellant notified the CCRA of an error committed by the Appellant and requested that this error be correct[ed]" and on August 22, 2001 the CCRA again without audit gave effect to the Appellant's request for the 2000 taxation year. The reply to the notice of appeal, upon which this assertion is based, referred in paragraph 5 to "the said error of reducing the Part VI.1 tax deduction" (i.e. the error made by the Minister's computer). Carme K. Lau's affidavit does not deal with this specific point. I suspect the statement in the reply is more likely to be correct although the point is not really relevant here.
+[8] On or about October 25, 2001 the appellant filed another amended return in which it reduced its previous deduction of non-capital losses of $223,751,949 to $108,551,162 according to Mr. Lau's affidavit on account of its own capital losses. The appellant's "own capital losses" presumably is used to distinguish the losses from that of a subsidiary, 321821 B.C. Ltd., which was wound up into Inco in 1996.
+[9] In this second amended return for 2000 the appellant reported its taxable income to be $238,309,134 and the Part I tax payable to be $51,006,807.
+[10] On January 8, 2002 the CCRA reassessed the appellant on precisely the amounts reported in the second amended return.
+[11] On or about April 8, 2002 Inco filed with the CCRA a notice of objection to the second reassessment in which it for the first time asked for a deduction of foreign exchange losses on foreign currency denominated debentures. It also asked for a deduction of $346,859,296 on account of non-capital losses of which $194,092,604 were to come out of the appellant's own non-capital losses of 321821 B.C. Ltd.
+[12] On July 8, 2002 Inco's solicitors filed a notice of appeal in the Tax Court of Canada, 90 days having elapsed from April 8, 2002, the date the notice of objection was filed, without any response by the CCRA by way of confirmation or reassessment.
+[13] The facts in Imperial Oil are slightly less complicated but the point is the same. Imperial Oil is a large multinational oil and gas company. It filed its return of income for 1999 on June 28, 2000 and declared its taxable income to be $72,971,888 and its Part I tax to be $13,600,775.
+[14] On November 21, 2001 the CCRA assessed Imperial Oil on the basis of the information in the return. The reason it took about 16 months was because of a variety of computer problems at the CCRA. As in Inco's case the assessment was generated electronically without human intervention.
+[15] On December 5, 2001 the CCRA reassessed the appellant as reported, except that it removed the late filing penalties and interest.
+[16] On March 4, 2002 the appellant filed a notice of objection with respect to the December 5, 2001 reassessment for 1999 in which it asked for the first time for a deduction on account of foreign exchange losses on foreign currency denominated debentures as well as a full deduction for the cost of customer lists.
+[17] On June 10, 2002 the appellant filed a notice of appeal from the reassessment dated December 5, 2001, more than 90 days having elapsed from March 4, 2002, the date of filing the notice of objection without any response by the CCRA by way of confirmation or reassessment.
+[18] In both cases the respondent filed replies to the notices of appeal (in the case of Imperial Oil, an amended reply) in which she denied many of the allegations in the notices of appeal and responded to the substance of the contentions raised in the notices of appeal. The replies also raised objections to the right of the appellants to object and to appeal in the manner in which they did.
+[19] Before I deal with the other matters raised in the motions, this is a convenient time to mention the matter of section 8 of the Tax Court of Canada Rules (General Procedure) which reads:
+A motion to attack a proceeding or a step, document or direction in a proceeding for irregularity shall not be made,
+(a) after the expiry of a reasonable time after the moving party knows or ought reasonably to have known of the irregularity, or
+(b) if the moving party has taken any further step in the proceeding after obtaining knowledge of the irregularity,
+except with leave of the Court.
+[20] The "fresh step" rule is one that has been part of the rules of practice and procedure in Canada and the United Kingdom for many years. There is a great deal of jurisprudence on what constitutes a fresh step but the rule is based on the view that if a party pleads over to a pleading this implies a waiver of an irregularity that might otherwise have been attacked. For two reasons I do not think that the fresh step rule precludes the respondent from bringing the motions. First, it is clear that by filing the replies to the notices of appeal the respondent is not waiving her objections to the filing of the notices of objection and appeal. The replies clearly state the Crown's objection. Second, a rather wide ranging attack on the appellants' right to appeal, including allegations that that this court has no jurisdiction, that the appeals are frivolous, vexatious and an abuse of process is hardly an attack on an irregularity.
+[21] I pass then to a consideration of the merits of the motions. In both cases, lengthy affidavits by senior officials of the CCRA were filed. The statements in the affidavits were substantially repeated in the respondent's written submissions and I need not set them out in detail in these reasons. The affidavits and the written submissions of the respondent constitute an extensive narrative about the self-assessment process, the complexities of the audit process, and the practices employed by taxpayers to protect themselves from errors in their returns (such as filing protective notices of objection or filing amended returns).
+[22] I do not question the assertion that audits are an extremely important aspect of the CCRA's administration of the Income Tax Act within the context of the self-assessing system which is so integral a part of our Canadian tax system. Nor do I doubt that the audit process in the case of large companies such as Inco or Imperial Oil is complex and time consuming. One may assume that the system described at length in the material filed on the two motions works well, as do the objections and appeals procedures, considering how long they have been around. It would be difficult to take exception to the factual statements made in the material on behalf of the respondent. Indeed, counsel for the appellants in opposing the motions did not challenge the description of the process.
+[23] It boils down to this: auditing Inco and Imperial Oil will take a long time and will require devoting substantial human resources to the work. The respondent states that the points raised by the appellants in their objections and appeals have not been considered at the audit level and their fast tracking the matters into court not only puts a spanner into the orderly and deliberate progress of the audit process but also catapults the respondent into court with unseemly haste.
+[24] Although this may be inconvenient for the CCRA, it is not a reason to deprive a taxpayer - whether it be a huge multinational corporation or the humblest one of Her Majesty's loyal subjects - of clear statutory rights that the Income Tax Act confers.
+[25] Those rights are simple and straightforward: a taxpayer who objects to an assessment can file a notice of objection within 90 days of the assessment and if the Minister of National Revenue does not respond by way of a confirmation or a reassessment within 90 days of the filing of the notice of objection the taxpayer may appeal to the Tax Court of Canada.
+[26] There are a few restrictions on the right of appeal, such as the following.
+(a) One cannot object to or appeal from a nil assessment.
+(b) Subsection 165(1.1) puts some detailed and specific limitations on the right to object to assessments, notably where the objection relates to a point that has previously been determined by the court and the reassessment implements that prior determination.
+(c) Under subsection 165(1.11) large corporations must set out specifically each issue to be decided. Under subsection 165(1.13) objections to subsequent assessments can only be made if subsection 165(1.11) was complied with. Otherwise the right of appeal to the court is curtailed under subsection 169(2.1).
+(d) Under subsection 169(2) there are limitations on the right of appeal similar to those in subsection 165(1.11).
+(e) Where there has been a prior loss determination for a year that has not been objected to or appealed from one cannot object to an assessment for a different year in which a loss different from the prior loss determination is alleged.
+[27] These are some of the limitations on the right of objection and appeal. They all arise out of specific wording in the Income Tax Act. There are no explicit restrictions
+(a) where a taxpayer objects to an assessment based on its own return of income; or
+(b) where a taxpayer objects to an assessment that does not result from an adjustment by the Minister that is adverse to a position taken by the taxpayer.
+[28] The Crown says that these restrictions are implicit. There must be very compelling reasons to find that a taxpayer's rights under the Income Tax Act are implicitly restricted where the rights are explicitly conferred and restrictions are explicitly expressed.
+[29] Out of respect to learned counsel for the respondent I shall deal with each of the arguments presented by him. They are identical in both motions.
+[30] The first argument is that an assessment that is the product of a taxpayer's own calculations and accepted by the Minister (described by the respondent as an "as filed assessment") rather than the product of the Minister's calculations is not an assessment that can be objected to under subsection 165(1) or appealed from under subsection 169(1) of the Income Tax Act. This contention is based upon the submission that the "plain meaning" or "literal interpretation" of the legislation must be rejected in favour of a "contextual and purposive" approach. Counsel further relies upon the principle that if the meaning of a provision is unclear and there are two interpretations one of which leads to an absurdity and one of which does not the latter should be chosen. This is based on the well-known principle stated in Corporation of the City of Victoria v. Bishop of Vancouver Island, [1921] 2 A.C. 384. However the Judicial Committee of the Privy Council added a corollary to that principle to the effect that if the words of a statute are clear effect must be given to them even if they lead to an absurdity.
+[31] I am unable to accept the respondent's position on this point for two reasons:
+(a) the words are clear; and
+(b) the interpretation of "assessment" to mean the ascertainment and fixation (Pure Spring Co. Ltd. v. M.N.R., 2 DTC 844 at 851) of a taxpayer's liability under the Income Tax Act whether the process occurs and the notice is issued immediately after the filing of the return without an audit or after a full audit does not lead to an absurdity.
+[32] There is no justification as a matter of common sense or as a matter of statutory interpretation to say that an assessment to which one can object or from which one can appeal must be an assessment based upon an audit by the Minister of National Revenue or in which the Minister assesses in a manner that is inconsistent with the way in which the taxpayer has filed. If Parliament wishes to restrict the sort of assessment to which an objection can be filed or from which an appeal can be taken it is perfectly capable of saying so. It is not appropriate to read words into the statute in order to give it a strained meaning that the plain words do not reasonably bear.
+[33] It is not necessary to deal with the reasons for which the appellants have objected to and appealed from the assessments based on their own filing or determine whether their reasons are good or bad. It may be assumed that these companies have better things to do with their time and money than instruct their lawyers to file frivolous and pointless appeals. Nonetheless counsel for the appellants informed me that the purpose of filing the appeals was to preserve the appellants' rights under proposed legislation referred to in a Department of Finance News Release No. 99-67 dated July 23, 1999 which contains the following statement:
+Finance Minister Paul Martin today released proposed amendments regarding the tax treatment of certain resource expenditures.
+The proposed amendments are designed to deal with two related issues. First, they would ensure that taxpayers cannot obtain unintended tax relief by reclassifying certain Canadian development expenses (CDE), which qualify for a 30-per-cent annual write-off, as Canadian exploration expenses (CEE) qualifying for full deductibility in the year in which they were incurred. Second, these changes would prevent the reclassification, as CDE or CEE, of expenditures that have consistently been treated by taxpayers in the resource sector as relating to depreciable property, the cost of which is deducted as capital cost allowance (CCA) within the limits specified in the Income Tax Act.
+Allowing these expenditures to be reclassified would result in a windfall for taxpayers. The windfall is due to the 100 per cent rate of write-off for CEE, as opposed to lower rates of write-offs for CDE and CCA. In the case of the reclassification of depreciable property, an additional unintended benefit would occur because, unlike CCA claims, CEE and CDE claims do not result in a reduction of the resource allowance deduction available to taxpayers in the resource sector.
+The proposed amendments are intended to clarify the policy underlying the income tax law. Any necessary action will be taken to ensure that the right of parties involved in outstanding court cases to make arguments on the basis of the existing income tax law is not affected. However, the changes would prevent other taxpayers form seeking to benefit from the perceived deficiency in the existing law.
+More detailed information on the proposed amendments is contained in the attached draft legislation and explanatory notes.
+[34] Evidently the appellants believed that their rights were better protected if they were "parties involved in outstanding court cases ...". It is not my place to second-guess their judgement. Moreover no justification is necessary.
+[35] Taxpayers may have many reasons for objecting to an assessment based on their own filing. They may wish to leave the year open in case there is a change in the law as the result of an anticipated court ruling or legislative change. It is not necessary to explore the reasons for their doing so. It is sufficient that the Income Tax Act gives them the right to object to or appeal from an assessment whatever may be the basis of the assessment or the grounds of objection.
+[36] The second contention is that the right to object to and appeal from an "as filed assessment" is inconsistent with the Minister's right to perform an audit. I shall not dwell at length on the argument beyond observing that it is a non sequitur. The Minister is free to perform audits of a taxpayer during the period in which an appeal is outstanding. If he chooses to reassess or to issue additional assessments in that period the taxpayer may file a notice of objection and start the process over or he may amend the existing notice of appeal by referring to the new reassessment. The Crown's argument that the appellants may not raise in an objection or appeal points that are inconsistent with positions taken in their own return would have as much force if the objections were made to assessments issued after a full audit as they do if the objections were made to "as filed assessments."
+[37] The third argument is that an appeal from an "as filed assessment" is not one in respect of which this court has jurisdiction. It is wholly inappropriate to use the word jurisdiction in this context. Obviously this court has exclusive jurisdiction to hear appeals from assessments under the Income Tax Act.
+[38] Counsel for the respondent argues that there is no way a taxpayer can protect itself from errors in its own returns other than, perhaps, relying upon the Minister's leniency in accepting amended returns and assessing so as to permit the taxpayer to object if the Minister refuses to give effect to the amended return. There is no mechanism whereby the Minister can be compelled to accept an amended return or to act upon it if he chooses not to. I do not share counsel's faith in the Minister's magnanimity in voluntarily accommodating a taxpayer's requests to amend its returns. A taxpayer's legal right to compel reassessments lies in the objection and appeal process.
+[39] The Crown's position in these motions seems to demonstrate a belief that the Income Tax Act and all of the reporting, auditing and assessing procedures under it exist for the convenience of the Government and that anything that interferes with its orderly procedures is implicitly prohibited. I do not see it that way. Nor am I prepared to accept the dire predictions of fiscal chaos that may result if I dismiss these motions and allow Inco and Imperial Oil to file notices of objection and appeal from assessments based on their own returns. The respondent's stated concerns that the whole self-assessing and audit system will collapse in disarray are, in my view, hyperbolical.
+[40] Mr. Chambers submits that this court has the inherent jurisdiction to control its own process. I agree. The point is self-evident.
+[41] The next argument is that to permit the taxpayer to file an objection to and appeal from an assessment based on its own filing deprives the Minister of the benefit of the reverse onus of pleading assumptions.
+[42] I shall refrain from commenting on the somewhat peculiar logic that lies behind this remarkable contention and shall observe only that in proceeding in the manner chosen by the appellants they have taken on a much heavier burden than they would have if they were merely seeking to demolish pleaded assumptions. They must establish every constituent element of their entitlement. The reverse onus created by the pleading of assumptions does not exist primarily for the benefit of the Crown. If the assumptions on which assessments are based are honestly, fully and accurately pleaded by the respondent this is of much greater benefit to the appellant because it defines what facts the appellant must establish and what need not be.
+[43] However lest it be suggested that I have not done full justice to the Crown's contention I shall set out in full the written argument on this point.
+[44] Paragraphs 96 to 104 of the respondent's written argument in Inco read:
+96. The self-assessment system in Canada necessarily requires that the Minister's assessment be initially based solely upon facts relayed to the Minister by the taxpayer. The facts material to the assessment are peculiarly within the knowledge of the taxpayer. As a practical matter, the Minister's knowledge of the taxpayer's affairs is extremely circumscribed and is normally almost entirely dependent upon the taxpayer's cooperation.
+97. This disparity in information between the taxpayer and the Minister manifests itself into the unique procedural rule that if the Crown alleges that the Minister assumed a fact in the assessment process, that fact is presumed to be true and it is up to the taxpayer to demolish that fact in court.
+98. This effectively creates a reverse onus. This is a form of negative inference drawn by the courts as a matter of public policy where the facts are peculiarly within the knowledge of the taxpayer - not the Minister. In order to effectively know the case that the Minister must meet, the Minister must have an opportunity to verify the facts asserted by the taxpayer. Tax litigation is unique in the disparity in information known to each party in the absence of an audit by the Minister. The most effective method for confirming this information is the audit process described in the Act and not the examination for discovery process.
+99. To allow the Appellant to appeal from an As Filed Assessment to the Tax Court of Canada prior to the conclusion of an audit would preclude the Minister from being able to plead assumptions of fact and take the benefit of the reverse onus. Indeed this would effectively put the onus of showing what is in effect the Appellant's own assessment is wrong on the Minister. Put another way, the Minister would in effect be called upon to prove that which he does not know to be wrong. In the Respondent's submission, this would put the appeal process, as it has been known in Canada since at least the Second World War, on its head.
+100. Furthermore, in keeping with the principles of self-assessment the Minister has relied on the Appellant's representation in its income tax return that the taxable income and tax payable has been correctly calculated and reported. Hence if the Appellant's appeal were allowed to proceed, the result would be that in relying on the representation the Minister acted to his detriment. In the Respondent's submission, this is a classic case of estoppel and prejudice which the Court should not countenance.
+101. In order to assure a fair hearing the Court would at a minimum have to permit the Respondent to conduct what would in effect be an audit of the claims raised by the Appellant in its Notice of appeal through the litigation process. In the Respondent's submission, this would be to the Minister's prejudice, because it would deprive him of his statutory right to conduct audits in the most efficient manner in the time frame which Parliament has allowed him. Furthermore, this could entail the consequence that such isolated audit might be less thorough than it would be if it were conducted in the context of the totality of the Appellant's business dealings. The determination of the specific claims raised by the Appellant in its Notice of Appeal does not depend solely on facts which the Appellant may choose to highlight, but must be determined by reference to the Appellant's business transactions viewed in their totality.
+See: Respondent's Submissions, p. 14, paras. 40 and 41.
+102. Last, but not least, there is, in the Respondent's submission, the distinct danger of the Minister, and indeed the government's treasure, being prejudiced by the potential applicability of the res judicatadoctrine, were the Appellant's appeal allowed to proceed.
+103. Since an appeal is an appeal from the amount of tax assessed, there is a distinct danger that future courts might find that any matter affecting the computation of the tax payable for a particular taxation year is "related" to that tax payable and cannot be litigated more than once. In that event, the process engaged by the Appellants would prejudice the Minister in that it would effectively preclude the Minister from issuing a reassessment with respect to that taxation year after the Court's judgment is issued.
+See: Chevron Canada Resources Ltd. v. The Queen,
+98 DTC 6570, at 6578, para. 36 (F.C.A.)
+104. The Respondent submits that any debate as to whether the res judicata doctrine would or would not apply in the present case, if the Minister issued a reassessment for the 2000 taxation year after the pronouncement of the Court's judgment regarding the Appellant's appeal, does not diminish this distinct danger, the risk of which actually materializing the Respondent should not be called upon to shoulder.
+[45] I do not find these arguments persuasive. The taxpayers are prepared to assume the burden of proving their entitlement. The Crown's concern that it may be deprived of some perceived procedural advantage by not being able to plead "assumptions" is no reason to strike out an appeal by a taxpayer. The onus is a substantive one and exists as a matter of law. This is clear from the judgment of Rand J. in Johnston v. Minister of National Revenue, 3 DTC 1182 at 1183.
+[46] The idea that somehow a reassessment might be precluded by the doctrine of res judicata is barely even a theoretical possibility. In the extremely unlikely event that the problem were to arise in the future it could be dealt with. One does not strike out appeals on the basis of hypothetical and remotely conjectural eventualities.
+[47] The Attorney General of Canada can deal with the appeals at the same time as the CCRA is proceeding with the audit. The existence of an outstanding appeal does not curtail or limit in any way the Minister's powers under the Income Tax Act.
+[48] Once it is concluded that the appellants have the right to appeal from assessments based upon their own returns it must inevitably follow that the appeals are not frivolous or vexatious or an abuse of the court's process. They raise justiciable issues over which the court has jurisdiction and the appellants are entitled to have them determined by the court.
+[49] The motions to strike out the appeals are therefore dismissed.
+[50] The alternative relief sought is an order that the appeals be stayed until the Minister's audit of Inco's 1997 to 2000 years is completed and it has been decided whether to reassess those years. The years in the case of Imperial Oil are 1998 and 1999. The respondent is asking that the appeals be held in abeyance while the Minister completes his audit for several years, not all of which are the subject of the appeals. To stay a proceeding is an extraordinary discretionary remedy and it must be based upon compelling reasons. None have been put forward. This court's function is to serve the interests of justice, not the convenience of the Minister of National Revenue. The two are not necessarily the same.
+[51] The motions are dismissed with costs.
+Signed at Toronto, Canada, this 14th day of February 2003.
+"D.G.H. Bowman"
+A.C.J.
+CITATION:
+2003TCC46
+COURT FILE NOS.:
+2002-2257(IT)G and 2002-2695(IT)G
+STYLE OF CAUSE:
+Between Imperial Oil Limited and
+Her Majesty The Queen AND
+Between Inco Limited and
+Her Majesty The Queen
+PLACE OF HEARING
+Toronto, Ontario
+DATE OF HEARING
+November 1, 2002
+REASONS FOR ORDER BY:
+The Honourable D.G.H. Bowman
+Associate Chief Judge
+DATE OF ORDER
+February 14, 2003
+APPEARANCES:
+Counsel for the Appellants:
+Al Meghji, Esq.
+Counsel for the Respondent:
+Luther P. Chambers, Q.C.
+Rhonda Nahorniak
+Boyd Aitken, Esq.
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Al Meghji, Esq.
+Firm:
+Donohue LLP
+Toronto, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

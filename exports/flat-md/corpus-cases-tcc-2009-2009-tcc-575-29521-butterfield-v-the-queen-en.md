@@ -1,0 +1,127 @@
+---
+title: "Butterfield v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29521/index.do"
+last_modified: "2009-06-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 575"
+citation2: ""
+neutral_citation: "2009 TCC 575"
+decision_date: "2009-06-26"
+language: "en"
+item_id: "29521"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6278
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:10:44.796000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c24e7af0529ec0f936cbdb9664c96df2d5f534585d11fb6154ff739fe903a618"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Butterfield v. The Queen
+
+- Citation: 2009 TCC 575
+- Decision date: 2009-06-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6278, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Butterfield v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-06-26
+Neutral citation
+2009 TCC 575
+File numbers
+2007-3126(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2009TCC575
+Date: 20091109
+Docket: 2007-3126(IT)G
+2007-3169(GST)G
+BETWEEN:
+JOHN SEBASTIAN BUTTERFIELD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on June 26, 2009,
+in Vancouver, British Columbia.)
+Miller J.
+[1] This is a director's liability case. Mr. Butterfield objects to Canada Revenue Agency's assessment against him as a director of C. Davis Manufacturing Co. Ltd. The assessment relates to unpaid source deductions of $2,752 and unremitted GST of $21,403. There is really no dispute with respect to the facts of this matter. Mr. Butterfield was the sole director of C. Davis Manufacturing Co., a printing company. It ran into financial difficulties in late 2003, causing Mr. Butterfield to speak to first, a bankruptcy lawyer, and then soon after, bankruptcy consultants and trustees. In early December, he met with representatives of the insolvency firm Campbell Saunders, and shortly thereafter the company was assigned into bankruptcy.
+[2] From that point on, Mr. Butterfield was left with the impression he had no influence or say in the affairs of the company. The trustees indeed had an appraiser go around to the business premises, and meet with Mr. Butterfield. It was evident to Mr. Butterfield the appraiser knew nothing of the printing business, and ultimately prepared an inadequate asset list, which according to Mr. Butterfield showed shockingly low values. Mr. Butterfield prepared a more accurate list for the trustees, but felt that it was ignored.
+[3] The trustees arranged for a viewing of the premises on December 11 and Mr. Butterfield was advised he need not be there. He never learned what bids resulted from that viewing, other than a purchaser came forward to buy the business as a going concern. By January, that new owner was running the business with the same staff as Mr. Butterfield had employed.
+[4] In May 2004, Mr. Butterfield wrote a letter to CRA stating, in part:
+I reply to your two letters of April 28th respectively concerning each of the two above noted accounts. I do not dispute my personal liability to pay what is otherwise properly owing to you. On the other hand, I presently have no way to verify amounts which are properly owing to you. The bankruptcy trustee simply said 'Ask CCRA'.
+[5] In 2005, the company was struck off the B.C. Register. CRA accepts that time as the time when Mr. Butterfield ceased to be a director. In mid‑February 2006, on the unfortunate date of February 14, CRA assessed Mr. Butterfield pursuant to the Income Tax Act and the Excise Tax Act, as a director, responsible for the company's debt of $2,752 for unremitted source deductions and the $21,403 for unremitted GST.
+[6] The sole issue is whether Mr. Butterfield ceased to be a director in December 2003, such that the limitation period set forth in subsection 227.1(4) saves him. I am only going to refer to the Income Tax Act, as the Excise Tax is almost identical. Subsection 227.1(4) reads:
+No action or proceedings to recover any amount payable by a director of a corporation under subsection 1 shall be commenced more than two years after the director last ceased to be a director of that corporation.
+[7] Case law is very clear and well established, that an assignment in bankruptcy does not trigger a director ceasing to be a director. I have been referred to many cases in support of that proposition. Kalef v. R.[1], The Queen v. Wellburn and Perri[2], Worrell v. R.[3], Lassonde v. Minister of National Revenue[4], and there are others. Mr. Butterfield presents a slightly different argument. He does not claim the assignment itself triggered the ceasing to be a director, but that the circumstances of his rude removal from the affairs of the company by the trustees no longer allowed him to perform the functions of a director. He refers to the definition of director in the B.C. Company Act[5], which states:
+Director' includes every person by whatever name designated who performs functions of a director
+[8] Mr. Butterfield concludes that as his ability to perform functions of a director was lost in December 2003, he could no longer, by definition, be considered a director. He argues that section 130 of the B.C. Company Act, simply does not come into play. Section 130 of the B.C. Company Act reads as follows:
+(1) A director ceases to hold office when his or her term expires in accordance with the articles, or when he or she
+(a) dies or resigns,
+(b) is removed in accordance with subsection 3,
+(c) is not qualified under subsection 114; or
+(d) is removed in accordance with the memorandum or articles.
+(2) every resignation of a director becomes effective at the time a written resignation is delivered to the registered office of the company, or at the time specified in the resignation, whichever is later."
+…
+Mr. Butterfield acknowledges he never resigned as a director.
+[9] This is an intriguing and intelligent argument, but regrettably for Mr. Butterfield, it does not work. The law is clear. Again, you can see from the case of Kalef, for example, that yes indeed, I must look to the appropriate provincial corporate law legislation. But when I look at the definition of "director", and I read it in light of the requirements of Section 130, I conclude the following:
+(i) The definition of director is an inclusionary provision. It does not say "only persons who perform functions of directors are directors". It says, "director includes such persons". I read it as a given that someone who is properly appointed as a director, such as Mr. Butterfield, is a director. This definition is intended to broaden the definition to pick up those people not so properly appointed. They, too, are going to be directors in British Columbia.
+(ii) Mr. Butterfield was not a director as a result of the definition of "director" in section (1). He held office as a director as he was properly appointed as the director. He can therefore only cease to be a director by the limited provision set out in section 130 of the Company Act. He admitted he never resigned, so he did remain a director until the company was struck in 2005. And therefore, the government did bring the director's liability assessment within the two-year period.
+[10] Mr. Butterfield, it was a clever and well thought out argument, but I find it just misses the mark given my interpretation of the definition section. All the requirements for the application of section 227.1 of the Act, and section 323 of the Excise Tax Act have been met, and I must therefore dismiss your appeal with costs.
+Signed at Ottawa, Canada, this 9th day of November 2009.
+"Campbell J. Miller"
+Miller J.
+CITATION: 2009TCC575
+COURT FILE NO.: 2007-3126(IT)G
+2007-3169(GST)G
+STYLE OF CAUSE: JOHN SEBASTIAN BUTTERFIELD and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, Bristish Columbia
+DATE OF HEARING: June 26, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: June 30, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nadine Taylor-Pickering
+COUNSEL OF RECORD:
+For the Appellant: n/a
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 1996 CarswellNat 188.
+[2] 95 DTC 5417.
+[3] 2000 CarswellNat 2344.
+[4] 2001 CarswellNat 2277.
+[5] RSBC 1996, Chapter 62.

@@ -1,0 +1,152 @@
+Title: Leonard v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25886/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-417-25886-leonard-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-06-15
+
+# Leonard v. The Queen
+
+- Citation: 2004 TCC 417
+- Decision date: 2004-06-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3880, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leonard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-15
+Neutral citation
+2004 TCC 417
+File numbers
+2003-45(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-45(IT)I
+BETWEEN:
+STEPHEN C. LEONARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 12, 2004, April 27, 28 and 29, 2004
+at St. Catharines, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ifeanyichukwu Nwachukwu
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1997, 1998, 1999 and 2000 base taxation years are allowed, without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 15th day of June 2004.
+"Diane Campbell"
+Campbell J.
+Citation: 2004TCC417
+Date: 20040615
+Docket: 2003-45(IT)I
+BETWEEN:
+STEPHEN C. LEONARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] This appeal is from a re-determination made by the Minister of National Revenue (the "Minister") that for the base taxation years 1997, 1998, 1999 and 2000, the Appellant was not the "eligible individual" with respect to his son, Jesse, and was therefore not entitled to the child tax benefit (the "CTB") for these periods.
+[2] The Appellant and Kimberley Sweezey are the parents of Jesse born December 15, 1995. It is not in dispute that Jesse was a qualified dependent for these years within the meaning of section 122.6 of the Income Tax Act (the "Act"). The Appellant and Ms. Sweezey had an "on again - off again" tumultuous relationship but never resided together. Ms. Sweezey testified that the Appellant spent a lot of time at her residence but in essence the evidence would indicate that throughout the years in question, he resided with his parents at 6674 Sheldon Street, Niagara Falls. Ms. Sweezey resided at four or five different addresses throughout this period. Their relationship ended in early 1997.
+[3] Ms. Sweezey applied for the CTB in early 1996 in respect to Jesse. She received the CTB until the year 2000. In May 2000 the Appellant applied for the CTB and in November 2000 the Minister determined that the Appellant was entitled to the benefit in respect to these years. Accordingly the Minister re-determined that Ms. Sweezey was not entitled to the CTB and was in receipt of an overpayment for these years. On October 19, 2001, the Minister re-determined that the Appellant was not entitled to the CTB based on the assumptions, that at all relevant times, Jesse's primary residence was with Kimberley Sweezey and not the Appellant and that she was the primary caregiver of Jesse. As a result the Minister determined that the Appellant received overpayments of CTBs and was required to repay $5,119.54.
+[4] The Appellant appealed this re-determination and based his argument primarily on the basis that Jesse physically resided with him at his parents address at Sheldon Street during these years, that the court orders did not reflect the actual living arrangements for Jesse, and that Jesse's primary caregiver was the Appellant as demonstrated by sport registrations, documentation from schools, dental and doctor appointments, living arrangement documentation, receipts, photos, newspaper clippings and activity schedules. Some of the exhibits were authored by individuals not present and therefore the Respondent had no opportunity to cross-examine. Some of the other exhibits related to events occurring outside the relevant years, particularly in respect to Ms. Sweezey's conduct. For these reasons the Respondent objected to many of the documents.
+[5] It is the Respondent's position that the Minister properly re-determined that Ms. Sweezey, and not the Appellant, is the eligible individual and therefore entitled to the CTB for the relevant years.
+The Issue:
+[6] The only issue before me is whether the Appellant is the eligible individual in respect to Jesse during the relevant years, the 1997 to 2000 base taxation years.
+The Evidence In Respect To The Appellant's Position:
+[7] The Appellant gave evidence and called his wife, Allison Leonard, his father, John Leonard, and Fiorina Stranges to testify on his behalf.
+[8] The Appellant testified that he resided at his parents' residence on Sheldon Street during all of the period in question. He stated that for the majority of the time Jesse resided with him at Sheldon Street and that he had his own bedroom. He referred to three different court orders. The first court order, a consent order, dated October 4, 1996, placed Jesse in the joint custody of both parents with the principal residence with the mother and reasonable access to the father. The second order, dated September 28, 1998, was an interim order which set out specific visitation privileges to the Appellant. The third order, dated September 11, 2000, which issued on consent, ordered a family study to be completed and continued the second interim order. The Appellant's evidence was that these orders did not reflect the actual living arrangements, as they existed for Jesse at the time. He stated that in addition to weekends Jesse also resided with him at Sheldon Street three to four days during the week for the majority of the time. He testified that the mother was only interested in taking Jesse when she knew Family Services were intending to visit the home and expected Jesse to be there.
+[9] The Appellant introduced a number of exhibits which included dental receipts and records, medical appointment documents, recreational schedules, newspaper route contract, baptismal documents, report cards, school homework and other miscellaneous receipts and records. These exhibits were intended to support his evidence that he was the primary caregiver for Jesse and looked after feeding him, clothing him, overseeing his medical and dental necessities, as well as school assignments, and sporting activities and attending to his hygienic needs. He admitted in cross-examination that it was the mother who decided where Jesse would attend kindergarten and school, but stated it was due to the wording of the court orders.
+[10] The Appellant's wife, Allison Leonard, testified that she met the Appellant in June 1998 and they started dating in January 1999. She never resided with the Appellant at Sheldon Street. They married in 2002. She first met Jesse in April 1999. Although she had no knowledge concerning Jesse in 1997 or 1998, she did state that in 1999 she worked the night shift and after each shift ended, she would go to the Appellant's residence on Sheldon Street. Her evidence was that in 1999 and 2000 Jesse resided at Sheldon Street with his father for approximately 75% to 85% of the time, spending weekends and three to four days during the week with the Appellant. She stated she was aware of the court orders giving the Appellant weekend access only but that in fact Jesse was with his father most of the time. When asked on cross-examination if Jesse physically resided with the Appellant, she responded in the affirmative that Jesse spent nights at Sheldon Street with his father. In addition she testified that the Appellant was the primary caregiver of Jesse in 1999 and 2000. She stated that 50% of the time he or his parents would pick Jesse up from school or drop him off. She gave evidence that it was generally the Appellant who escorted Jesse to school and sporting activities and that she often accompanied the Appellant and Jesse to activities.
+[11] The next witness to give evidence on behalf of the Appellant was Fiorina Stranges, who owned and operated a restaurant located in Niagara Falls until August 2000. She stated that she knew both the Appellant and Jesse's mother, Kimberley Sweezey. She had known Sweezey since 1999; she stated that in 1999 and 2000, she observed Sweezey at the restaurant with a young girl (her daughter from another relationship) but never a young boy. When she eventually discovered that Sweezey had a son, she asked her where he was and was told in July 2000 that he was with his father. Other than this statement she could not confirm anything further respecting Jesse's situation.
+[12] The last witness called by the Appellant was his father, John Leonard. Mr. Leonard confirmed that his son resided at his residence at Sheldon Street during the relevant periods. He stated that Jesse resided 80% to 90% of the time with the Appellant at Sheldon Street where he had his own bedroom with attached playroom. He indicated that in spite of the court orders, Jesse normally stayed at Sheldon Street with the Appellant for entire weeks and that there would be two or three week periods in which the child did not see his mother. He confirmed the Appellant's evidence that Jesse resided at Sheldon Street except for those periods when the mother demanded the child, which on almost every occasion preceded a court date or family services visit.
+[13] Mr. Leonard's evidence was that he considered himself "the secondary caregiver" of Jesse, with the Appellant, the primary caregiver. He stated that among other things he bought food, diapers and medicine for Jesse, picked him up and dropped him off at school, attended his activities, coached his soccer team and took him to play parks. He also stated, as the Appellant did, that most of Jesse's friends were at Sheldon Street. He stated that he was aware of several police intervention reports but said he himself was actually the one who, on at least one occasion, refused to return Jesse after the child was found alone at the mother's residence. Mr. Leonard played a number of home videos during the hearing which showed interactions of Jesse with the Appellant and his family. This footage was dated and commenced on January 26, 1997 and concluded on March 11, 1998. Respondent counsel on cross-examination pointed out that most of the dates on the footage referred to a Friday or a Sunday.
+The Evidence In Respect to the Respondent's Position:
+[14] Respondent relied on two witnesses, Jesse's mother, Kimberley Sweezey and a child protection worker, Melanie Lepp.
+[15] Sweezey's evidence was that Jesse had always resided with her at her various addresses during this period, with the Appellant having access on weekends. She stated she would sometimes agree to additional access when the Appellant requested it. With respect to the first order in 1996, Family Services requested that she file for this order. According to her evidence, before the order they reconciled and agreed to joint custody. Because of the very tumultuous nature of their relationship, both before and after their break-up, police were involved on numerous occasions. In summary it was her evidence that Jesse spent no more than 10 days per month with his father and that for a period of two to three months in the summer of 2000 when she was hospitalized she did not allow any access by the Appellant. She also stated that the Appellant's witness, Fiorina Stranges, was mistaken respecting the date of the conversation she referred to as she was hospitalized in July of 2000. She also stated she never had her son with her at Stranges' restaurant because she only went on Fridays when Jesse would be with the Appellant.
+[16] It was also her evidence that she was Jesse's primary caregiver during these base taxation years. She testified that she attended to feeding and clothing Jesse as well as his medical and dental requirements. She also stated she was responsible for Jesse's hygiene and toilet training as well as his enrolment in kindergarten. She also stated that she attended school field trips and that Jesse had friends at her residence. She did acknowledge that the Appellant did take Jesse to some of the medical and dental appointments.
+[17] The second witness was Melanie Lepp, a child protection worker, who commenced work with the Family Services Niagara Department in March 2001 and at the same time assumed responsibility for the Sweezey file. She became involved because of an alleged incident involving a cigarette burn to Jesse, which was reported by the Appellant when he took Jesse to the hospital. Her evidence was based on the historical records kept by prior workers at Family Services of numerous short-term interventions respecting Jesse in 1997, 1998, 1999 and 2000. These interventions were prompted by contact from the Appellant or concerned neighbours of Sweezey. She reviewed the legislative duty and practices of such interventions. She admitted that she had no personal knowledge of the file prior to March 2001 and more specifically no personal knowledge of where Jesse resided or who his primary caregiver was during the relevant period. She indicated the records of other workers referred to Sweezey as the primary caregiver.
+Relevant Statutory Provisions:
+[18] The statutory definition of the term "eligible individual" is found in section 122.6 of the Act. It states in part:
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+. . .
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing.
+The presumption in favour of the female parent referred to in paragraph (f) of section 122.6 does not apply where more than one notice requesting the CTB is filed with the Minister under section 112.62. In other words this presumption does not apply because both parties have applied for the CTB.
+[19] Regulation 6302 of the Income Tax Regulations sets out the "prescribed factors" referred to in paragraph 122.6(h), which are to be considered in determining what constitutes care and upbringing of a qualified dependant. It reads:
+6302. For the purposes of paragraph (h) of the definition of "eligible individual" in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[20] Section 122.61 sets out the formula for calculating the amount of benefits payable by creating a deemed overpayment by an eligible individual entitled to the CTB. This obliges the Minister to make CTB payments to that person.
+[21] If the Appellant is found not to be the eligible individual as a result of this appeal, the Minister is entitled to collect the overpayment.
+[22] The onus of course is on the Appellant to disprove the Minister's assumptions on a balance of probabilities.
+Analysis:
+[23] Both parents of Jesse have claimed the CTB and both individuals are claiming to be the "eligible individual". However, as pointed out by Justice Bonner in Lauder v. Canada, [2002] T.C.J. No. 278 at paragraph 9,
+There can be only one eligible individual in relation to a qualified dependant for a particular period.
+The Appellant has claimed the CTB for the entire period of time in each of the base taxation years. I am not being asked to decide who is entitled to the credit for a period of time in each of these years. As Respondent counsel described it "this is an all or nothing dispute".
+[24] To be an eligible individual for the CTB, an individual must among other things reside with the qualified dependent and be the parent of that qualified dependent who primarily fulfils the responsibility for the care and upbringing of the qualified dependent. On the facts before me I must determine which parent that is.
+[25] I find on those facts presented to me it was the Appellant. The evidence of the Appellant and Ms. Sweezey was diametrically opposed in almost every relevant aspect. If I had only these two witnesses before me I would have to determine this issue almost exclusively on a finding of credibility, having regard to the factors listed in Regulation 6302. However, I had three witnesses called by the Appellant to support his evidence and one witness, additional to Ms. Sweezey, called by the Respondent, as well as three court orders and an array of exhibits, some relevant and some not.
+[26] I place very little reliance on Melanie Lepp's evidence, not because she was not a credible witness, but simply because her entire evidence was based on hearsay. She did not become involved with the file until 2001, well after the period at issue and by her own admission she had no personal knowledge of Jesse's residence during this period or who the primary caregiver may have been. Her only knowledge was obtained by reviewing Family Services records.
+[27] Respondent suggested that even if I accepted the veracity of the intervention dates by Family Services at Ms. Sweezey's residence but not the truth of the incidents themselves, this would strongly support the Respondent's position. There were three interventions in 1997, two in 1998, three in 1999 and two in 2000. The evidence supports that the child did not spend 100% of his time with either parent. I do not believe that it is extraordinary considering the facts that Family Services may have been involved ten times over a four-year period. The Appellant's evidence was that he called on a number of these occasions while his father John Leonard called on at least one occasion while Jesse was at his mother's residence. I do not accept these interventions as pointing the arrow one way or the other. They in no way suggest that Jesse resided primarily with his mother or that she was the primary caregiver. They simply suggest a problem in the Sweezey household during those periods when Jesse was at his mother's place of residence.
+[28] Respondent counsel suggested that Sweezey's evidence was supported by a number of documentary exhibits. These documents were primarily: three court orders, Exhibit R-6, a letter dated August 1998, by Sweezey's lawyer, Exhibit R-7, Notice of Application of the Appellant dated September 2000, Exhibits R-3, R-5 and R-10, being three police reports, Exhibit A-1, Tab 9, Transcript of Proceedings, dated January 2002, and video footage shown by the Appellant's father.
+[29] The first court order was in 1996 while Jesse's parents were still in the throes of the relationship. It gave both parties joint custody and established in 1996 that the physical residence for Jesse was to be at Ms. Sweezey's home. The next order was an interim one establishing specific access for the Appellant in 1998, while the third order in 2000 was again an interim one which continued the 1998 order and contemplated a trial date to be arranged. Exhibits R-6 and R-7 involve the Appellant's attempts to change his access to Jesse. I accept his evidence, supported by his father's evidence, that these documents did not reflect the reality of Jesse's actual living arrangement. The Appellant stated that he was advised in 1996 by his solicitor that it was better to have joint custody in these circumstances and that he was later advised that on these interim applications, it was not the time or the court level to request custody changes.
+[30] The court orders are one of the many factors I am to consider. And while I have weighed the orders and the other documentary evidence submitted by Respondent counsel I cannot ignore the credible evidence provided by Allison Leonard and John Leonard. They corroborated the Appellant's evidence, both in respect to Jesse's residence and as to which parent was the primary caregiver. I am not overlooking this documentary evidence but I prefer the substance of what I heard in court over the form of the various documents. I do accept that the reality of Jesse's living arrangements were not reflected in the array of paperwork before me. The Appellant was knowledgeable respecting all aspects of Jesse's care and habits as only a parent with more than weekend access would be. Both John Leonard and Allison Leonard corroborated almost every aspect of his testimony. John Leonard clearly and explicitly testified that Jesse was living at his own residence on Sheldon Street approximately 80% to 90% of the time. He described his own involvement in Jesse's care and referred to himself as a "secondary caregiver". He stated that it was a normal occurrence for Jesse to be at Sheldon Street through the weekend until Wednesday or Thursday. Allison Leonard again supported the evidence of both the Appellant and John Leonard when she testified that the Appellant had Jesse 75% to 80% of the time in 1999 and 2000. Both individuals were straightforward and credible and I have every reason to believe what they told the Court while under oath. While Respondent counsel suggested the dates of some video clippings in 1997 and 1998 were on weekends and therefore indicated weekend access only at John Leonard's residence, I do not accept that this in any way tips the scales in favour of Ms. Sweezey here.
+[31] Throughout the hearing, there were continuous displays reflecting the extreme bitterness and acrimony that existed between Jesse's parents. To some extent, both parents fulfil the responsibilities set out in paragraphs (a) to (g) of Regulation 6302, depending on where Jesse physically happened to be. However I conclude that the evidence supports that Jesse resided the majority of the time in each of these years with his father at John Leonard's residence on Sheldon Street and that the Appellant was Jesse's primary caregiver. This is bolstered by the evidence of both John Leonard and Allison Leonard. In fact the evidence would indicate that financially John Leonard supplied most of the resources as the Appellant either attended university or had no steady employment during this period. On a balance of probabilities, and considering all of the evidence before me, I accept that the Appellant assumed the greater degree of responsibility for Jesse than did Ms. Sweezey.
+[32] The appeals are allowed, without costs, and the determination is referred back to the Minister for re-determination on the basis that the Appellant is entitled to the CTB in respect to the 1997, 1998, 1999 and 2000 base taxation years.
+Signed at Ottawa, Canada, this 15th day of June 2004.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2004TCC417
+COURT FILE NO.:
+2003-45(IT)I
+STYLE OF CAUSE:
+Stephen C. Leonard
+Her Majesty the Queen
+PLACE OF HEARING
+St. Catharines, Ontario
+DATES OF HEARING
+February 12, 2004,
+April 27, 28 and 29, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice
+Diane Campbell
+DATE OF JUDGMENT
+June 15, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ifeanyichukwu Nwachukwu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,176 @@
+---
+title: "Jacques v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30636/index.do"
+last_modified: "2011-12-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 414"
+citation2: ""
+neutral_citation: "2011 TCC 414"
+decision_date: "2011-12-02"
+language: "en"
+item_id: "30636"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7130
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:48:43.338000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "581ba37e51542e3b9d4b33905af72b1517e5f745a286e61b6133314ecf358a05"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jacques v. M.N.R.
+
+- Citation: 2011 TCC 414
+- Decision date: 2011-12-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7130, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jacques v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-12-02
+Neutral citation
+2011 TCC 414
+File numbers
+2011-556(EI)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2011-556(EI)
+BETWEEN:
+RÉJEAN JACQUES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 18, 2011, at Sherbrooke, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the appellant:
+Renaud Boulet
+Counsel for the respondent:
+Emmanuel Jilwan
+____________________________________________________________________
+JUDGMENT
+The appeal from the decision of the Minister of National Revenue regarding the admissibility of the work of François Quesnel as insurable employment for the purposes of the Employment Insurance Act is dismissed and the Minister's decision is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of December 2011.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 17th day of January 2012
+Margarita Gorbounova, Translator
+Citation: 2011 TCC 414
+Date: 20111202
+Docket: 2011-556(EI)
+BETWEEN:
+RÉJEAN JACQUES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] Réjean Jacques is appealing from a decision of the Minister of National Revenue (the Minister) concerning the admissibility of the work of François Quesnel (the worker) as insurable employment for the purposes of the Employment Insurance Act, S.C. 1996, c. 23, as amended (the Act). The Minister determined that the worker held insurable employment with Réjean Jacques (the payer) from January 1, 2009, to December 31, 2009 (the period). According to the Minister, the worker was engaged under a contract of employment, but the payer argues that it was a contract for services.
+[2] The Minister determined that the worker was employed by the payer under a contract of service relying on the following presumptions of fact stated at paragraph 5 of the Reply to the Notice of Appeal:
+[Translation]
+(a) The appellant has owned a farm rearing livestock for meat for over 9 years; [admitted]
+(b) The farm is located at 774 rang 7 East Broughton; [admitted]
+(c) The owner of the farm, that is, the appellant, lives in Connecticut, United States, which is 400 miles from East Broughton; [admitted]
+(d) The farm's assets include a barn, 2 houses, 2 garages, 2 tractors with trailers for animals and an all-terrain vehicle; [admitted]
+(e) In 2008, the herd was about 500 heads, and another 400 were added to it for a total of about 900 heads; [admitted]
+(f) In 2009, gross sales were $911,646, which generated a net loss of $882,000; [admitted]
+(g) The worker was hired after he responded to an advertisement published at the l'Union des producteurs agricoles de Beauce; [admitted]
+(h) There was a verbal contract of employment between the parties; [admitted]
+(i) The worker replaced Réal Bolduc; [admitted]
+(j) The worker's duties were those of a farm manager; as such, his responsibilities were to take care of the animals and the cropland and to maintain the buildings; [admitted]
+(k) The worker gained his experience by working in Western Canada; [admitted]
+(l) In the summer, the worker performed his duties 7 days a week from 6 a.m. to 6 p.m., while, in the winter, he worked fewer hours, between 65 to 70 per week; [denied]
+(m) Although both parties decided on the work to be done, it was the appellant who planned out the worker's work; [denied]
+(n) Since the appellant lived far from the farm, supervision was done through monthly visits to the farm of at least one week per month and through several phone calls per day; [admitted]
+o) The appellant supplied all the equipment and materials necessary for the performance of the worker's tasks including one of the houses on the farm the heating and electricity for which were paid by the appellant as well as a 2007 Silverado truck; [admitted]
+(p) The worker was paid $750 per week in 2008 and $1,000 per week in 2009; [denied]
+(q) In order to get paid, the worker had to submit invoices to the appellant at the appellant's request; [admitted]
+(r) Two cheques from the appellant totalling $15,150 were issued to the worker by the appellant as bonuses; [denied]
+(s) On October 20, 2009, the appellant signed a letter addressed to the UPA, in which he referred to the worker as an employee, while on October 25, 2010, he signed another letter addressed to the UPA indicating that the worker was a sub-contractor. [admitted]
+[3] Subparagraph 5(l) of the Reply to the Notice of Appeal was denied by the appellant because, according to him, the worker worked much fewer hours than indicated because he had a flexible schedule allowing him to take care of his three children aged 4, 6 and 10, who did not live with him in the house on the farm. The worker's children lived in an undisclosed location around 150 kilometres away, the trip to which took 1.5 hours by car. According to the payer's testimony, the worker did not have to be present on the farm all day every day because the manual farm work was done by two other sub-contractors and because the animals did not need daily care: they were outside all year round and their food was given to them only every 4 or 5 days. In addition, the payer did not keep a staff schedule book because the worker was paid a fixed weekly salary, not based on hours worked.
+[4] Subparagraph 5(n) of the Reply to the Notice of Appeal was denied because the payer did not plan out the worker's work. In his testimony, the payer explained that the worker had over 30 years of experience and much more knowledge than he about raising livestock for meat, the care it needed and the diseases that could afflict it. The worker was the farm's general manager and it was he who planned out his work. The payer also explained that, during the period, he operated a construction business in Connecticut, United States, which employed about 15 people. The payer dedicated a great deal of time to his construction business so he had very little time to spend on the farm's activities. His presence on the farm was limited to only one week per month when he visited his 102 year-old mother and to daily phone calls.
+[5] Subparagraph 5(p) of the Reply to the Notice of Appeal was denied because the worker's pay in 2008 was $600 per week plus tax, and his pay for 2009 was $800 per week plus tax.
+[6] Subparagraph 5(r) of the Reply to the Notice of Appeal was denied because the two cheques dated March 22, 2009, totalling $15,150 were not paid as bonuses but were a rebate obtained by the worker when he bought hay. Instead of paying $20 per bale, the worker managed to get the price reduced by $3 to $4 per bale; the appellant therefore paid the worker an amount equivalent to the discount received.
+[7] In addition to the facts described above, the evidence showed the following:
+(a) The worker's invoices were generally for custom work and indicated the period during which the work was done, the amount billed and the amount of goods and services tax and Quebec sales tax. The worker's tax numbers were not on the invoices.
+(b) One invoice, dated January 16, 2009, referred to a sale of hay bales and to the sale price for the bales; in that case, the goods and services tax and the Quebec sales tax were not added to the invoice amount.
+(c) According to the payer's testimony, it was the worker who asked for a flexible schedule in order to be able to take care of his children and to be considered self-employed. According to the payer, if the worker wanted to be considered an employee, he would still have hired him because he did not object to this.
+(d) The payer also explained that, in September 2009, he made the decision to sell the farm and that he offered to pay the worker four months' salary if the farm was sold before the end of 2009. Even though the farm was not sold before the end of 2009, the payer still paid the worker for the last three months of 2009 because he continued cleaning the farm until December 2009.
+Analysis
+[8] The issue is whether François Quesnel held insurable employment for the purposes of the Act. The relevant provision is paragraph 5(1)(a) of the Act, which reads as follows:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[9] That provision defines insurable employment as employment under a contract of service. The Act does not define what constitutes such a contract. However, section 8.1 of the Interpretation Act, R.S.C. (1985), c. I-21 (enacted by S.C. 2001, c. 4, s. 8) states the following concerning the application of a federal act in a province with regard to property and civil rights:
+Property and Civil Rights
+8.1 Both the common law and the civil law are equally authoritative and recognized sources of the law of property and civil rights in Canada and, unless otherwise provided by law, if in interpreting an enactment it is necessary to refer to a province’s rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in the province at the time the enactment is being applied.
+[10] The provisions of the Civil Code of Québec (Civil Code or C.C.Q.) used to determine the existence of a contract of employment in Quebec and to distinguish it from a contract of enterprise or for services are articles 2085, 2098 and 2099:
+2085. A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+2099. The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[11] It is clear from these provisions of the Civil Code that the three essential conditions for the existence of a contract of employment are (i) performance of work by the worker; (ii) remuneration for that work paid by the employer; (iii) the employer's power of direction or control over the worker. The existence of a relationship of subordination with regard to the work performed clearly distinguishes a contract of enterprise or for services from a contract of employment.
+[12] As Justice Archambault of this Court so aptly stated in Beaucaire v. M.N.R., 2009 TCC 142 (CanLII):
+[24] In Québec, unlike in the common law, the main issue is whether there is a relationship of subordination, or a power of control or direction. . . .
+[13] In the common law, the applicable distinguishing criteria are those stated in Wiebe Door Services Ltd. v. M.N.R., 87 D.T.C. 5025, namely the degree of control, ownership of the work tools, the chance of profit and risk of loss, and the degree of integration of workers into the business.
+[14] The determination of the issue of insurability of employment implies the determination of the nature of the relationship between the parties. In the absence of a genuine written contract between the parties, the Court may consider the parties' statements with regard to the nature of their contractual relationship even though these statements are not necessarily conclusive.
+[15] In this case, it has been demonstrated that the payer had published with the U.P.A. an offer of permanent employment with lodging and electricity provided. According to the payer, the worker had asked to be considered as an independent contractor to be able to work at his own pace and to benefit from a flexible schedule. The worker submitted invoices for custom work to the payer charging him taxes. The payer did not produce T-4's for the remuneration paid to the worker. In a letter dated October 20, 2009, addressed to the U.P.A. (Exhibit A-2), the payer indicated that, since May 1, 2008, the worker has demonstrated many qualities as an employee and that he would not hesitate to recommend the worker for any job within the agricultural sector. In a subsequent letter dated October 25, 2010 (Exhibit A-3), also to the U.P.A., the payer indicated that the worker acted as an sub-contractor and not as an employee, that he did business under the name "Service Agricole François Quesnel" and that he provided invoices to him under that name. The worker did not act as an intervener in the proceedings and did not testify at the hearing.
+[16] The statements and behaviour of the parties with regard to the nature of their contractual relationship therefore contain contradictions and discrepancies.
+[17] However, the worker's and payer's versions are more or less similar with regard to the performance of work carried out by the worker for the payer and to the remuneration paid by the payer to the worker, except concerning the nature of the payments of $15,000 in March 2009, and $1,400 in January 2009, for the sale of hay bales.
+[18] Based on the evidence, the worker managed the payer's farm and had to supervise the payer's cattle herd. The worker had some flexibility in his work but had to constantly and regularly report to the payer on the services rendered or to be rendered by the worker during two to three telephone calls per day or during the payer's visits of at least one week per month. The exercise of the payer's power of control or direction over the worker shows the existence of a relationship of subordination and that the services provided by the worker were performed within an employee-employer relationship. It was not demonstrated at the hearing that the worker was free to choose the means of performing the services to be rendered.
+[19] Among the other factors considered, it should be noted that all equipment and material was supplied by the payer and that the payer assumed all the financial risk from the operation of the farm. The worker had the opportunity to make a profit from the sale of hay bales, but this factor is not determinative in itself given the nature of the entire relationship between the worker and the payer.
+[20] For these reasons, the appeal of the Minister's decision relative to the admissibility of the work of François Quesnel as insurable employment for the purposes of the Act is dismissed and the Minister's decision is confirmed.
+Signed at Ottawa, Canada, this 2nd day of December 2011.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 17th day of January 2012
+Margarita Gorbounova, Translator
+CITATION: 2011 TCC 414
+COURT FILE NO.: 2011-556(EI)
+STYLE OF CAUSE: Réjean Jacques and M.N.R.
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: August 18, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: December 2, 2011
+APPEARANCES:
+Agent for the appellant:
+Renaud Boulet
+Counsel for the respondent:
+Emmanuel Jilwan
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

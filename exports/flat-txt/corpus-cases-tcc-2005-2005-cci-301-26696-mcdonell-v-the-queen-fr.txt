@@ -1,0 +1,236 @@
+Title: McDonell v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26696/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-301-26696-mcdonell-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-04-28
+
+# McDonell v. The Queen
+
+- Citation: 2005 CCI 301
+- Decision date: 2005-04-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3442, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McDonell v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-28
+Référence neutre
+2005 CCI 301
+Numéro de dossier
+2004-4698(GST)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-4698(GST)I ENTRE :
+LORRAINE McDONELL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 19 avril 2005, à Ottawa (Ontario).
+Devant : L'honorable D.G.H. Bowman, juge en chef
+Comparutions :
+Avocat de l'appelante :
+Me Peter Chisholm, c.r.
+Avocate de l'intimée :
+Me Rosemary Fincham
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 16 février 2004, est rejeté conformément aux motifs du jugement.
+Signé à Ottawa, Canada, ce 28e jour d'avril 2005.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 7e jour de novembre 2005.
+Nathalie Boudreau, traductrice
+Référence : 2005CCI301
+Date : 20050428
+Dossier : 2004-4698(GST)I
+ENTRE :
+LORRAINE McDONELL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] L'appel porte sur une cotisation de taxe sur les produits et services ( « TPS » ) établie en vertu de la Loi sur la taxe d'accise (la « Loi » ) par laquelle le ministre du Revenu national (le « ministre » ) a refusé le remboursement de la TPS que l'appelante a versée pour le compte de l'acheteur d'un bien en particulier. En bref, la question est de savoir si un fournisseur qui perçoit la TPS auprès d'un acquéreur par erreur et qui verse cette taxe au gouvernement peut en demander le remboursement.
+[2] L'appelante était propriétaire d'une parcelle de terrain vague d'environ 80 acres. Elle a convenu de vendre sa parcelle de terrain à Louis Garth Riley.
+[3] Il est stipulé dans le contrat de vente que le prix d'achat est de 50 000 $. La septième clause du contrat dit ce qui suit :
+[TRADUCTION]
+7. TPS : Si l'opération est assujettie à la taxe sur les produits et services ( « TPS » ), cette taxe sera incluse dans le prix de vente. Si l'opération n'est pas assujettie à la TPS, la vendeuse convient de produire, au plus tard à la date de la conclusion de la vente, un certificat qui atteste que l'opération n'est pas assujettie à la TPS.
+[4] Voici ce qu'indique l'état des rajustements modifié :
+[TRADUCTION]
+ÉTAT DES RAJUSTEMENTS
+MODIFIÉ
+VENDEUSE Mary Lorraine McDonell
+ACHETEURS Louis Garth Riley et Betty Ann Riley
+BIEN RR 1, St. Andrews West (canton de South Stormont - anciennement le canton de Cornwall)
+RAJUSTÉ EN DATE DU 17 août 2001
+________________________________________________________
+PRIX DE VENTE RAJUSTÉ
+Prix de vente, y compris la TPS
+50 000
+TPS calculée au taux de 7 %
+3 271,03
+Crédit (vendeuse)
+46 728,97 $
+ACOMPTE
+1 000 $
+IMPÔT FONCIER
+Total de l'impôt foncier pour 2001
+1 367,38
+Rajustement selon le tiers du montant de l'impôt foncier actuellement évalué (estimation de la parcelle de terrain qui est transférée)
+455,79
+Montant payé par la vendeuse
+455,79
+Part de la vendeuse pour 228 jours
+284,71
+Crédit (vendeuse)
+171,08
+SOLDE À LA DATE DE LA CONCLUSION DE LA VENTE
+Montant payable à McDonald Duncan, en fiducie ou d'une façon autrement indiquée
+45 900,05 $
+___________
+46 900,05 $
+46 900,05 $
+SEO
+[5] L'opération a été conclue, et l'acte de vente du terrain qui a été enregistré auprès du bureau d'enregistrement indique que la contrepartie est de 46 728,97 $. Il s'agit du montant qui figure sur l'état des rajustements modifié, soit 50 000 $ moins 3 271,03 $. Les droits de cession immobilière ont été calculés en fonction du montant de 46 728 $ et non du montant de 50 000 $.
+[6] Le 22 août 2001, après la conclusion de l'opération, les avocats de l'appelante ont envoyé une lettre contenant l'extrait suivant au Centre fiscal de Summerside (Île-du-Prince-Édouard) :
+[TRADUCTION]
+Vous trouverez ci-joint les documents suivants :
+1. un chèque en fiducie de 3 271,03 $ payable au receveur général;
+2. le formulaire 62;
+3. une copie de l'acte de cession enregistré.
+Nous vous prions de nous envoyer un reçu à l'égard du paiement de la TPS applicable à la vente de ce bien.
+[7] La preuve révélait que le chèque en question a été tiré sur le compte en fiducie des avocats de l'acheteur.
+[8] Il est évident que jusqu'à ce point, les avocats de l'appelante pensaient que la vente du bien était assujettie à la TPS.
+[9] L'intimée a admis que les avocats de l'appelante avaient tort de penser de cette manière et que la vente du terrain vacant était exonérée de la taxe. Les avocats de l'appelante sont arrivés à cette conclusion après que le comptable de l'appelante a soulevé une question en particulier. La conclusion a été confirmée par l'Agence des douanes et du revenu du Canada, qui a envoyé aux avocats de l'appelante un mémorandum sur la TPS qui confirme que la vente de terrains vagues qui étaient antérieurement utilisés dans le cadre d'une entreprise agricole, mais qui ont été achetés pour être utilisés à des fins personnelles, est exonérée de la TPS.
+[10] Le 2 décembre 2003, l'avocat de l'appelante a envoyé une lettre à Leo D. Courville, avocat de M. Riley, l'acheteur du bien. Il a dit ce qui suit dans sa lettre :
+[TRADUCTION]
+L'opération susmentionnée a été conclue en août 2001.
+L'ADRC a déterminé que l'opération n'est pas assujettie à la TPS, et, à titre d'information, j'ai annexé à cette lettre une copie d'une télécopie de cinq pages envoyée par le Bureau des services fiscaux d'Ottawa. La préoccupation de Mme Taylor est que l'acte de cession enregistré, dont le numéro d'acte instrumentaire est le 306138, indique qu'une contrepartie de 46 728,97 $ a été payée.
+L'offre signée par les parties prévoit un prix d'achat de 50 000 $, y compris la TPS.
+L'état des rajustements modifié en date du 17 août 2001 ci-annexé indique un prix de vente rajusté de 46 728,97 $ après déduction de la TPS de 3 271,03 $, montant qui a été payé directement au receveur général.
+Avant de rembourser la TPS à la vendeuse, l'ADRC a demandé à obtenir la confirmation de l'acheteur ou de son avocat que le total de la contrepartie était de 50 000 $ et que la vendeuse est en droit de recevoir la TPS qui a été payée relativement à l'opération.
+Veuillez me confirmer par écrit : a) que le total de la contrepartie était de 50 000 $; b) que la vendeuse, Lorraine McDonell, est en droit de recevoir la TPS de 3 271,03 $ qui a été payée.
+Je vous saurais gré de me faire parvenir votre réponse le plus tôt possible étant donné que Mme McDonell souhaite vivement régler cette question en ce qui concerne l'ADRC.
+[11] Comme il n'a pas reçu de réponse, il a écrit à M. Courville le 14 janvier 2004 et il a annexé à sa lettre une ébauche de lettre devant être signée par M. Courville. M. Courville a signé la lettre et l'a renvoyée à l'avocat de l'appelante. Voici un extrait de la lettre :
+[TRADUCTION]
+L'opération susmentionnée a été conclue le 17 août 2001.
+Le prix d'achat payé conformément au contrat de vente était de 50 000 $, y compris toute TPS applicable.
+L'acte de cession enregistré dont le numéro d'acte instrumentaire est le 306138 (Stormont) indique une contrepartie de 46 728,97 $, et un montant de TPS de 3 271,03 $ a été versé au receveur général par l'avocat de la vendeuse.
+Je confirme que la vendeuse est en droit de se voir rembourser toute TPS payée.
+[12] L'ADRC, par une lettre datée du 13 février 2004, a refusé d'accorder le remboursement demandé. Voici un extrait de la lettre :
+[TRADUCTION]
+Nous avons examiné votre demande générale de remboursement de la TPS/TVH et, par la présente, nous confirmons que votre demande de remboursement a été refusée en entier.
+Nous reconnaissons que des observations ont été faites pour justifier que la vente du terrain aurait été exonérée de la TPS en vertu de l'article 9 de la partie I de l'annexe V de la Loi sur la taxe d'accise. Toutefois, nous voudrions vous renvoyer à la page 8 du guide ci-annexé où il est indiqué ce qui suit : « Montants perçus par erreur - Si vous avez perçu un montant au titre de la TPS/TVH que vous n'auriez pas dû percevoir, vous devez inclure ce montant dans le calcul de votre taxe nette. Vous n'avez pas le droit de demander un remboursement pour les montants que vous avez perçus par erreur à titre de TPS/TVH » .
+[13] Il semblerait que le refus du remboursement se trouvait dans l'avis de cotisation du 16 février 2004, mais l'avis de cotisation en question n'a pas été produit en preuve.
+[14] Un avis d'opposition a été produit. Il indiquait ce qui suit :
+[TRADUCTION]
+AVIS D'OPPOSITION / EXPOSÉ DES FAITS
+La contribuable a vendu un terrain vague à l'acheteur, Louis Garth Riley, en août 2001.
+Le contrat de vente prévoyait un prix d'achat total de 50 000 $, y compris toute TPS applicable.
+À la conclusion de l'opération, la contribuable (vendeuse) a remis à l'acheteur un acte de cession indiquant une contrepartie de 46 728,97 $ et a versé au receveur général un montant de 3 279,03 $ au titre de la TPS. L'acte de cession a été enregistré auprès du bureau d'enregistrement du canton de Stormont sous le numéro d'acte instrumentaire 306138.
+La contribuable a demandé le remboursement de la TPS payée relativement à la vente du terrain destiné à être utilisé à des fins personnelles aux termes du numéro 19-5, « Fonds de terre et immeubles connexes » , de la série des mémorandums sur la TPS/TVH que l'ADRC lui a fourni le 28 novembre 2003.
+L'acheteur du terrain, par l'entremise de son avocat, a envoyé à l'ADRC une lettre datée du 14 janvier 2004 dans laquelle il confirme que c'est bien la vendeuse qui a droit à tout remboursement de la TPS payée.
+L'ADRC, par une lettre datée du 13 février 2004, a refusé la demande de remboursement de la TPS pour le motif que le contribuable ne pouvait pas demander de remboursement des montants perçus par erreur au titre de la TPS.
+Le contribuable n'a pas perçu de TPS par erreur. Selon le contrat de vente, le contribuable était, et est toujours, en droit de recevoir 50 000 $ de l'acheteur. Le contribuable a établi par autocotisation la TPS qu'il devait payer et a versé 3 271,03 $ à l'ADRC. Cette taxe n'aurait pas dû être payée.
+[15] L'ADRC a confirmé la cotisation. Voici un extrait de l'avis de décision :
+[TRADUCTION]
+Le ministre du Revenu national a réexaminé attentivement la cotisation en fonction des renseignements et des motifs contenus dans votre avis d'opposition et rend la décision suivante.
+Votre opposition est rejetée, et la cotisation est ratifiée.
+Vous avancez que la TPS sur la vente du terrain a été versée par erreur. Il a été reconnu que la TPS n'aurait pas dû être facturée relativement à la vente de l'immeuble. Cependant, le payeur est en droit d'obtenir un remboursement en vertu du paragraphe 261(1). C'est l'acheteur qui a payé le montant alors c'est lui qui a droit au remboursement de ce montant. Comme vous avez perçu la TPS relative à l'opération, vous deviez la verser.
+[16] Le rapport écrit envoyé à l'appelante par ses avocats renferme les éléments d'information suivants :
+[TRADUCTION]
+CONTRAT DE VENTE
+Cette opération a été conclue conformément au contrat de vente signé par vous et par les acheteurs. Le prix de vente était de 46 728,97 $ dont 1 000 $ ont été versés à titre d'acompte, et le solde devait vous être versé par chèque certifié à la date de conclusion de la vente, sous réserve des rajustements.
+ÉTAT DES RAJUSTEMENTS
+[...]
+Le prix de vente qui, selon le contrat de vente, était de 50 000 $, y compris la TPS, a été rajusté de sorte que vous, à titre de vendeuse, avez reçu un crédit de 46 728,97 $, soit le prix de vente net après déduction de la composante de la TPS. Un crédit de 1 000 $ a été porté au compte de l'acheteur au titre de l'acompte.
+[17] Dans sa déclaration de revenus, qui a été préparée par un spécialiste en déclarations de revenus, l'appelante a déclaré que le produit de disposition du terrain était de 46 728,97 $.
+[18] Compte tenu de ces faits, l'appelante, par l'entremise de son avocat, allègue qu'elle a droit au remboursement de la TPS payée par erreur. La Couronne reconnaît que la TPS a été payée par erreur, mais soutient qu'étant donné qu'elle a été payée par l'acheteur (même si le chèque tiré sur le compte en fiducie des avocats de l'acheteur a été remis à l'ADRC par les avocats de l'appelante), seul l'acheteur peut en demander le remboursement. L'acheteur ne semble pas vouloir demander ce remboursement, et, de toute manière, il est probablement trop tard pour cela.
+[19] Une chose est certaine : le ministre est la dernière personne qui devrait essayer de garder le montant versé. Si le seul critère était l'équité, il est évident que le montant devrait être remboursé à l'appelante. Si le montant était remboursé à l'acheteur, celui-ci aurait l'obligation de le verser à l'appelante. Toutefois, nous savons ce qui se dit au sujet du manque d'équité dans les lois fiscales. Si cela veut dire que le sens de l'équité du juge ne peut pas l'emporter sur le libellé d'une loi, j'accepte cette idée. Si cela veut dire que, lorsqu'il y a deux interprétations possibles de la loi, la Cour ne peut pas adopter celle qui est en accord avec les principes d'équité par opposition à celle qui ne l'est pas, je n'accepte pas cette idée.
+[20] Je pars du principe selon lequel le droit du contribuable d'obtenir un remboursement de TPS doit, du moins en ce qui concerne la compétence de la Cour, être prévu dans la Loi sur la taxe d'accise (la « Loi » ), qui comporte un code exhaustif. L'article 261 de la Loi indique ce qui suit :
+261. (1) Remboursement d'un montant payé par erreur - Dans le cas où une personne paie un montant au titre de la taxe, de la taxe nette, des pénalités, des intérêts ou d'une autre obligation selon la présente partie alors qu'elle n'avait pas à le payer ou à le verser, ou paie un tel montant qui est pris en compte à ce titre, le ministre lui rembourse le montant, indépendamment du fait qu'il ait été payé par erreur ou autrement.
+(2) Restriction - Le montant n'est pas remboursé dans la mesure où :
+a) le montant est pris en compte à titre de taxe ou de taxe nette pour la période de déclaration d'une personne et le ministre a établi une cotisation à l'égard de la personne pour cette période selon l'article 296;
+b) le montant payé était une taxe, une taxe nette, une pénalité, des intérêts ou un autre montant visé par une cotisation établie selon l'article 296;
+c) un remboursement du montant est accordé en application des paragraphes 215.1(1) ou (2) ou 216(6) ou des articles 69, 73, 74 ou 76 de la Loi sur les douanes par l'effet des paragraphes 215.1(3) ou 216(7).
+(3) Demande de remboursement - Le remboursement n'est versé que si la personne en fait la demande dans les deux ans suivant le paiement ou le versement du montant.
+(4) Une demande par mois - Sous réserve des paragraphes (5) et (6), une personne ne peut pas présenter plus d'une demande de remboursement par mois.
+(5) Demandes par succursales ou divisions - La personne qui a droit au remboursement, qui exerce des activités dans des succursales ou divisions distinctes et qui est autorisée par le paragraphe 239(2) à produire des déclarations distinctes aux termes de la section V relativement à une succursale ou division peut produire des demandes distinctes aux termes du présent article relativement à la succursale ou division mais ne peut présenter plus d'une demande de remboursement par mois relativement à la succursale ou division.
+(6) Demande selon l'article 239 - Les règles suivantes s'appliquent à la personne qui n'a pas présenté de demande en vertu de l'article 239, qui a droit au remboursement et qui exerce des activités dans des succursales ou divisions distinctes :
+a) pour l'application de l'article 239 à la personne, les mentions de « activité commerciale » , « déclarations distinctes aux termes de la présente section » et « l'inscrit » à cet article valent respectivement mention de « activité » , « demandes distinctes aux termes de l'article 261 » et « la personne » ;
+b) la personne qui, par l'effet du présent paragraphe, est autorisée par l'article 239 à produire des demandes de remboursement distinctes aux termes du présent article relativement à une succursale ou division ne peut présenter plus d'une demande par mois.
+[21] Je ne pense pas qu'un fournisseur qui a perçu la TPS par erreur auprès d'un acheteur et qui a versé cette TPS au gouvernement est une personne qui a payé « un montant au titre de la taxe [...] ou [...] un tel montant qui est pris en compte à ce titre [...] » . L'acheteur est la personne qui a payé la taxe, à tort ou à raison, et le fournisseur n'a fait que verser cette taxe. Selon moi, cela correspond au sens ordinaire du libellé du paragraphe 261(1).
+[22] La jurisprudence sur cette question n'est pas tout à fait cohérente. L'appelante a invoqué la décision R. Mullen Construction Ltd. v. Canada, 1997 G.S.T.C. 106, qui a été rendue par la Cour. Dans cette affaire-là, le vendeur a payé la TPS relativement à la vente d'une maison dont le prix, semble-t-il, comprenait la TPS.
+[23] Voici un extrait de la décision :
+[3] Le contrat de vente entre l'appelante en tant que vendeur et Jacques et Deanna LaPierre en tant qu'acheteurs a été déposé en preuve sous la cote A-1. Il est difficile de déterminer à partir de la pièce A-1 si les parties s'attendaient que la TPS s'applique à l'opération, à cause de deux conditions contradictoires énoncées aux alinéas 1a) et 1h) figurant à la deuxième page de la pièce A-1, soit :
+[TRADUCTION]
+1a) Le solde du prix d'achat - sous réserve des ajustements habituels - doit être payé au vendeur à la date de la conclusion de l'opération. Le prix d'achat doit inclure la TPS.
+1h) Si cette opération est assujettie à la TPS en vertu de la partie IX de la Loi sur la taxe d'accise, L.R.C. 1985, ch. E-15, la TPS ne sera pas incluse dans le prix d'achat mais s'ajoutera au prix d'achat et sera perçue et versée conformément à la loi applicable. Si cette opération n'est pas assujettie à la TPS, le vendeur a convenu qu'il fournira à l'acheteur ou à l'avocat de ce dernier, au plus tard à la date de la conclusion de l'opération, une attestation, sous forme raisonnablement satisfaisante pour l'acheteur ou l'avocat de ce dernier, certifiant que l'opération n'est pas assujettie à la TPS.
+[4] M. David Melnick, qui était l'avocat de l'appelante dans l'opération de vente, a témoigné à l'audience et a dit que lui et l'avocat représentant les acheteurs étaient d'avis que la condition 1a) s'appliquait et que le prix d'achat de 101 900 $ incluait la TPS. Il a également dit que, par rapport à la condition 1h), c'était là le point de vue le plus favorable à l'acheteur. L'état des ajustements et la déclaration de fiducie qui l'accompagne concernant la conclusion de la vente figurent ensemble dans la pièce A-2. L'état des ajustements rend compte de l'opération comme suit :
+[TRADUCTION]
+ÉTAT DES AJUSTEMENTS
+SOMMES PORTÉES AU CRÉDIT DU VENDEUR
+PRIX D'ACHAT 95 233,64 $
+TAXES PAYÉES D'AVANCE
+AJUSTEMENT POUR MAZOUT
+TPS 6 666,36 $
+COÛT TOTAL POUR L'ACHETEUR 101 900 $
+SOMMES PORTÉES AU CRÉDIT DE L'ACHETEUR
+ACOMPTE 3 000 $
+CALCUL DE LA PARTIE DE TAXES
+COURANTES DU VENDEUR
+ARRIÉRÉ DE TAXES
+INTÉRÊTS SUR TAXES IMPAYÉES
+CERTIFICAT DE TAXES 40 $
+REMBOURSEMENT HYPOTHÉCAIRE
+ENREGISTREMENT DE MAINLEVÉES 42 $
+TOTAL DES SOMMES PORTÉES AUX
+CRÉDITS DE L'ACHETEUR 3 082 $
+SOLDE REQUIS POUR LA CONCLUSION
+DE L'OPÉRATION 98 818 $
+[...]
+[5] Considéré isolément, l'état des ajustements indique que de la TPS était payable sur la vente et que le montant de la TPS était de 6 666,36 $. Il y a cependant une contradiction entre la pièce A-1 (contrat de vente) et la pièce A-2 (était des ajustements), car la pièce A-1 indique que le prix d'achat est de 101 900 $, alors que la pièce A-2 indique qu'il est de 95 233,64 $. Aucun élément de preuve n'indique que le vendeur, les acheteurs ou les agents immobiliers étaient au courant du prix d'achat fictif de 95 233,64 $ figurant dans la pièce A-2. La pièce A-1 et la preuve orale de M. Melnick et de Randy Mullen me convainquent que le vendeur et les acheteurs n'ont jamais eu à l'esprit le montant de 95 233,64 $ lorsqu'ils ont signé la pièce A-1. Ils avaient seulement en tête le prix convenu de 101 900 $. S'ils pensaient réellement que la condition 1a) s'appliquait et non la condition 1h), le prix convenu de 101 900 $ était le montant maximum que les acheteurs seraient tenus de payer, et le vendeur paierait de la taxe en utilisant le produit de la vente. Il se peut que, au printemps 1992, la juste valeur marchande du 35, Armcrest Drive ait été de 101 900 $.
+[24] Le juge Mogan a accueilli l'appel. Il a tout d'abord invoqué l'article 232. Il n'est pas nécessaire que j'examine cet article. Comme le juge Mogan l'a dit au paragraphe 19 de ses motifs, « l'article 232 traite principalement du cas d'une personne qui a perçu trop de taxe d'une autre personne. L'article 261 traite principalement du cas d'une personne qui a payé trop de taxe au ministre » . Après avoir cité le paragraphe 261(1), le juge Mogan a dit ce qui suit :
+L'appelante et l'intimée conviennent que, sur la vente faite aux LaPierre en juin 1992, un montant de 6 666,36 $ a été payé au ministre au titre de la taxe; elles conviennent en outre qu'aucune taxe n'était payable relativement à cette vente. L'intimée soutient que tout montant payé au titre de la taxe par erreur au sens de l'article 261 a été payé par Jacques et Deanna LaPierre. L'intimée se fonde sur l'état des ajustements (pièce A-2). L'appelante soutient que tout montant qui a ainsi été payé l'a été par elle, et elle se fonde sur le fait que la juste valeur marchande du 35, Armcrest, était, en juin 1992 de 101 900 $, montant que les acheteurs étaient tenus de payer, que la TPS s'applique ou non. J'accepte l'argument de l'appelante et rejette celui de l'intimée. À mon avis, le montant de 6 666,36 $ figurant dans la pièce A-2 était une création de l'imagination de l'avocat du vendeur qui a établi l'état des ajustements. Le vendeur, soit l'appelante, ou les acheteurs (Jacques et Deanna LaPierre) n'ont jamais eu à l'esprit un prix de vente de 95 233,64 $. Le prix de 101 900 $ dont ils avaient convenu représentait la juste valeur marchande. Le vendeur a, par l'intermédiaire de son avocat, commis une erreur en établissant l'état des ajustements et en faisant état d'un prix de vente fictif de 95 233,64 $ et d'un montant de 6 666,36 $ au titre de la taxe. Les acheteurs ont payé ce qu'ils avaient accepté de payer (101 900 $) lorsque, le 12 juin 1992, ils ont conclu l'opération, et ce, sans se soucier de savoir si le vendeur (l'appelante) pouvait ou non être tenu de payer un certain montant au titre de la TPS. Je conclus que l'appelante a payé un montant au titre de la taxe par erreur au sens de l'article 261.
+[20] On n'a présenté aucun argument selon lequel une disposition quelconque des paragraphes (2) et (3) de l'article 261 empêcherait le versement d'un remboursement par le ministre. J'ordonnerai donc que le ministre effectue un remboursement de 6 666,36 $ à l'appelante.
+[25] Il semblerait que la conclusion du juge Mogan repose sur une conclusion de fait selon laquelle « le montant de 6 666,36 $ figurant dans la pièce A-2 était une création de l'imagination de l'avocat du vendeur qui a établi l'état des ajustements » .
+[26] Que j'accepte ou non le principe de droit sur lequel le jugement est fondé, la prémisse factuelle relative à la conclusion suffit pour faire la distinction entre l'affaire Mullen et l'affaire dont je suis saisi.
+[27] En l'espèce, le montant de TPS indiqué dans l'état des rajustements et payé au gouvernement n'est pas une création de l'imagination de quiconque. Il a peut-être été établi en fonction d'une mauvaise interprétation de la loi, mais ce montant était bien réel.
+[28] M. David Sherman, dans un commentaire, caractérise la conclusion comme étant [TRADUCTION] « contraire à l'esprit intégral de la loi » . M. Sherman critique aussi certains obiter dicta dans la décision GKO Engineering (a Partnership) v. Sa Majesté la Reine, [2000] G.S.T.C. 29, où le juge suppléant Rowe a rejeté l'appel parce que ce n'était pas la bonne personne qui avait demandé le remboursement étant donné que la TPS avait été perçue par une société et non pas par l'appelante, qui est une société de personnes. Le juge suppléant Row a néanmoins dit ce qui suit :
+L'avocat de l'appelante soutenait - à un moment donné - que l'article 261 de la Loi ne s'appliquerait pas à l'appelante parce que le cas de l'appelante n'avait jamais correspondu au cas où « une personne paie un montant » au ministre au titre de la taxe. Cette proposition est contraire au simple libellé de la disposition - qui traite d'un montant payé au titre de la taxe devant être « versée » par la personne - et cette proposition est également contraire à la décision même du ministre (concernant la cotisation 833427), qui dit à la page 2 - paragraphe 4 - que la taxe nette inclut [TRADUCTION] « tous les montants percevables ou perçus par la personne au cours de la période au titre de la taxe » . Je ne vois pas comment le ministre pouvait insister pour dire que l'article 232 de la Loi représentait la seule manière dont un redressement pouvait être effectué. S'il n'y a pas une relation suivie entre les parties, comment des redressements peuvent-ils être effectués au moyen de notes de débit ou de crédit? Il me semble qu'un client qui n'est pas un inscrit aux fins de la TPS doit pouvoir utiliser les dispositions du paragraphe 261(1) pour recouvrer un montant qu'il a payé au titre de la taxe, alors qu'il n'avait pas en fait à le « payer » , et que, si un montant non dû a été payé au titre de la TPS, la personne percevant la taxe n'avait pas à « verser » le montant.
+[29] Les commentaires formulés semblent vouloir dire qu'un fournisseur qui perçoit la taxe par erreur d'un acheteur et qui verse cette taxe au gouvernement peut obtenir un remboursement en vertu de l'article 261.
+[30] Dans la décision Battista v. The Queen, [2000] G.S.T.C., le juge suppléant Rowe a permis à un dentiste qui avait perçu par erreur la TPS d'un associé de demander un remboursement. Dans son commentaire sur cette décision, M. Sherman critique la décision rendue.
+[31] Nous avons donc deux approches contradictoires. Selon la première approche, c'est l'acquéreur de la fourniture auprès duquel le fournisseur a perçu la TPS par erreur qui est la personne qui a « payé » la TPS et qui est donc la seule personne à pouvoir en demander le remboursement.
+[32] Selon la deuxième approche, si un fournisseur perçoit la TPS par erreur et paie cette TPS au gouvernement, il peut demander un remboursement en vertu de l'article 261. Selon moi, cette approche se fonde sur le libellé du paragraphe 261(1), qui dit ce qui suit :
+« Dans le cas où une personne paie un montant [...] alors qu'elle n'avait pas à le payer ou à le verser [...] »
+[33] L'argument invoqué est que l'acquéreur d'un service doit payer la TPS, mais le fournisseur a l'obligation de verser la taxe perçue. J'estime moi aussi que les acquéreurs d'une fourniture ne versent pas la taxe, mais la paient, tandis que les fournisseurs, eux, la versent.
+[34] Si le fournisseur perçoit un montant au titre de la TPS, il a l'obligation de verser ce montant, même s'il l'a perçu par erreur. Par conséquent, il est impossible d'affirmer que le fournisseur n'a pas d'obligation de verser la TPS perçue par erreur auprès d'un acquéreur.
+[35] Je ne pense pas qu'il soit nécessaire en l'espèce de déterminer s'il est impossible qu'un fournisseur puisse obtenir un remboursement de la taxe en vertu de l'article 261. Il suffit de dire que, selon moi, dans les cas où un fournisseur perçoit un montant au titre de la TPS auprès de l'acquéreur d'une fourniture lorsque la TPS n'était pas exigible et verse le montant au gouvernement (comme il doit le faire : voir la décision ITA Travel Agency Ltd. v. Canada, [2000] G.S.T.C. 5), c'est l'acquéreur, et non le fournisseur, qui est en droit de demander le remboursement en vertu de l'article 261. Mon but en prononçant ces motifs n'est pas d'affirmer qu'un fournisseur ne peut jamais demander de remboursement en vertu de l'article 261. Selon moi, il y a au moins deux situations où une demande de remboursement faite par un fournisseur pourrait être acceptée :
+a) lorsqu'un fournisseur ne perçoit pas de TPS auprès d'un acquéreur relativement à une fourniture exonérée ou détaxée, mais par la suite verse au gouvernement, par erreur, un montant au titre de la TPS qui est tiré de ses propres fonds;
+b) lorsqu'un fournisseur perçoit de la TPS d'un acquéreur et, par la suite, verse au gouvernement un montant plus élevé que le montant qu'il a perçu, indépendamment du fait que la taxe ait été perçue par erreur ou non.
+[36] Il n'est pas nécessaire que je réponde aux questions soulevées dans le cadre de ces deux situations hypothétiques, mais je ne pense pas que le fait que le fournisseur soit en droit de demander un remboursement du montant payé dans le cadre de l'exemple a) ou du montant excédentaire perçu dans le cadre de l'exemple b) aille à l'encontre de l'esprit de la Loi ou du libellé de l'article 261.
+[37] Toutefois, ni l'une ni l'autre de ces deux situations ne correspond à la situation qui existe en l'espèce.
+[38] Je ne suis pas particulièrement heureux de la décision que je dois rendre dans ce cas-ci, mais, selon moi, la loi est claire.
+[39] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 28e jour d'avril 2005.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 7e jour de novembre 2005.
+Nathalie Boudreau, traductrice

@@ -1,0 +1,123 @@
+---
+title: "Carlsen v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27861/index.do"
+last_modified: "2005-05-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 334"
+citation2: ""
+neutral_citation: "2005 TCC 334"
+decision_date: "2005-05-13"
+language: "en"
+item_id: "27861"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 336
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:43:20.717000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b26c68cebe0d744d053bab92263ef9fb189bf6e5d2ebba7d8ff92702ebcf6cff"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Carlsen v. The Queen
+
+- Citation: 2005 TCC 334
+- Decision date: 2005-05-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 336, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carlsen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-13
+Neutral citation
+2005 TCC 334
+File numbers
+2004-3941(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2005TCC334
+Date: 20050513
+Docket: 2004-3941(IT)I
+BETWEEN:
+SANDRA CARLSEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+For the Appellant: The Appellant herself Counsel for the Respondent: Fiona Mendoza
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Vancouver, British Columbia, on February 24, 2005)
+McArthur J.
+[1] This appeal is from a determination by the Minister by National Revenue that the Appellant was not entitled to the Child Tax Benefit paid to her for the four-month period August, September, October and November, 2003 on the basis that she was, in those four months, not an eligible individual within the meaning of section 122.6 of the Income Tax Act in respect of her three infant children, Ian, Michael and Emily, in that she was not during that time the person who primarily fulfilled the responsibility for the care and upbringing of those children.
+[2] Both the Appellant’s former husband, whom I shall refer to as Mr. Carlsen, and the Appellant testified. I found them both honest and honourable. I believe them to be responsible parents who put the interest of their children first in their lives. They shared custody of the three children pursuant to an Order and the Appellant had access to the children commencing August 17, 2003 until August 20, 2003 and continuing on each successive Sunday to Wednesday. The parties adhered to this schedule almost rigidly. They appeared to have cooperated for the benefit of their children in a mature way.
+[3] Mr. Carlsen had access to the children when the Appellant did not and in fact, he had access for one day per week more than the Appellant. The Minister concluded that for the months of July 2003 and June 2004 of the 2002 base taxation year, the Appellant primarily fulfilled the responsibility for the care and upbringing of the children for the purpose of the Child Tax Benefit, and for the period August 2003 to May 2004, Mr. Carlsen primarily fulfilled the responsibility for the care and upbringing of the children for the purposes of claiming the benefit.
+[4] In Canada v. Marshall,[1] Justice Stone stated:
+… the Act contemplates only one parent being an "eligible individual" for the purpose of allowing the benefits. It makes no provision for prorating between two who claim to be eligible parents. Only Parliament can provide for a prorating of benefits but it has not done so.
+Also, the following is taken from the decision in Matte v. Canada,[2] where Justice Strayer of the Federal Court of Appeal stated:
+It is important to note that this definition clearly contemplates that the "eligible individual" may change from time to time, as long as at the relevant time he or she is primarily fulfilling the responsibility of a caregiver. This is indicated by the words "at any time means a person who at that time …" in the opening words of the definition.
+The formula for calculating the amount of benefits payable is found in subsection 122.6(1) of the Act and it is based on the deemed repayment of a notional overpayment of taxes. That overpayment, according to paragraph 122.6(1)(i) is deemed to have arisen during a month where the person to be paid the benefit was an eligible individual at the beginning of the month. Justice Strayer went on to state:
+We understand this to mean that the minimum benefit period is one month and that a month of benefits is to be paid to whoever was the eligible individual at the beginning of the month: that is, to the person who was primarily fulfilling the responsibility for the care and upbringing of the child or children at that time.
+[5] I would be remiss in not stating that I found the counsel for the Respondent to be fair in her appraisal of the facts. In her opinion, what tipped the scales in favour of Mr. Carlsen was not the fact that he had custody one day per week more than the Appellant, but she relied on the reasoning of Justice Lamarre Proulx in Robitaille v. The Queen[3] where she stated:
+According to the long-standing rules of evidence in tax litigation, in order to obtain a reversal of this determination, the burden is on the Appellant to show that she was the one who primarily fulfilled the responsibility for the care of the qualified dependent children. Her testimony was that the responsibility was shared equally. In light of the lack of evidence and the fact that the Court is bound by the decision of the Federal Court of Appeal, … , which states that only one parent may be an eligible individual,the Minister's determination must be affirmed.
+[6] Notwithstanding the above, the Minister had in effect divided benefits equally, six months to the Appellant and six months to Mr. Carlsen. I see no reason to interfere with that arrangement and find that the Appellant was entitled to the benefit for the months of August and September 2003 only.
+Signed at Ottawa, Canada, this 13th day of May, 2005.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2005TCC334
+COURT FILE NO.:
+2004-3941(IT)I
+STYLE OF CAUSE:
+Sandra Carlsen and Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+February 24, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF AMENDED JUDGMENT:
+April 7, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Fiona Mendoza
+COUNSEL OF RECORD:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1996] F.C.J. No. 431.
+[2] 2003 FCA 19 at paragraph 7.
+[3] [1997] T.C.J. No. 6.

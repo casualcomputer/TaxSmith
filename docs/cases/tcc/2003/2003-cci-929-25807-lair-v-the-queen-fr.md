@@ -1,0 +1,155 @@
+---
+title: "Lair v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25807/index.do"
+last_modified: "2003-12-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 929"
+citation2: ""
+neutral_citation: "2003 CCI 929"
+decision_date: "2003-12-12"
+language: "fr"
+item_id: "25807"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3850
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:24:17.017000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "667c64148610b25b2a0cef7f85036fd884d1c07de1703bd5fc529ba2264b30bd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lair v. The Queen
+
+- Citation: 2003 CCI 929
+- Decision date: 2003-12-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3850, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lair v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-12
+Référence neutre
+2003 CCI 929
+Numéro de dossier
+2002-4187(GST)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-4187(GST)I
+ENTRE :
+LOUISE D. LAIR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 8 juillet 2003 à Windsor (Ontario)
+Devant : L'honorable juge Gerald J. Rip
+Comparutions :
+Représentante de l'appelante :
+Dora Cashaback
+Avocate de l'intimée :
+Me Jennifer Neill
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 4 septembre 2001 et qui porte le numéro 01214247212370001, est admis, avec dépens, et la question est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation afin de permettre à l'appelante de recevoir le remboursement pour habitations neuves.
+Signé à Ottawa, Canada, ce 12e jour de décembre 2003.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 22e jour d'avril 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI929
+Date : 20031212
+Dossier : 2002-4187(GST)I
+ENTRE :
+LOUISE D. LAIR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] Louise D. Lair interjette appel à l'encontre de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise (la « Loi » ) dans laquelle le ministre du Revenu national a rejeté sa demande de remboursement pour habitations neuves d'un montant de 1 550,70 $ en vertu de l'article 256 de la Loi au motif que la construction exécutée au domicile de l'appelante ne répond pas à la définition de « rénovations majeures » reproduite au paragraphe 123(1) de la Loi.
+[2] L'appelante était représentée par sa soeur, Dora Cashaback, qui a aussi témoigné. Mme Lair, qui était malade au moment du procès, n'était pas témoin.
+[3] En 1999, peu après le décès de son mari, Mme Lair a décidé de moderniser sa demeure, qui avait plus de 100 ans. La résidence reposait sur des blocs en béton qui se désagrégeaient, et elle n'avait pas de sous-sol. Entre autres, Mme Lair a fait soulever la structure complète de plusieurs pieds au-dessus du sol et a engagé des travailleurs pour creuser et construire un sous-sol pour sa résidence. Lorsque la résidence a été soulevée, selon Mme Cashaback, les murs ont [traduction] « fissuré » , les escaliers se sont « déformés » et toute la structure a été « abîmée » .
+[4] Finalement terminé en 1999, le sous-sol contenait une salle familiale, une salle de bain complète, une buanderie et une salle de couture et d'artisanat. Le rez-de-chaussée de la résidence, dont il n'est resté que les quatre murs, a dû être complètement refait. L'ancien système électrique, la plomberie, l'installation, les cloisons sèches, les fenêtres et les planchers ont tous été enlevés et remplacés. Grâce à la nouvelle plomberie, Mme Lair a pu faire installer une nouvelle fosse septique. Une annexe a également été construite derrière la résidence pour agrandir la cuisine. On a installé de nouvelles armoires et construit une nouvelle salle de bain et une penderie. Le toit au complet a été enlevé et remplacé. Toute cette construction s'est déroulée entre 1999 et 2001, au coût de 67 030,98 $; Mme Lair a payé 4 307,50 $ de taxe sur les produits et services ( « TPS » ). D'autres travaux ont été entrepris à l'étage supérieur de la résidence après que Mme Lair a demandé le remboursement, et cette construction a été achevée en 2003 au coût de 7 886,25 $.
+[5] En août 1998, Mme Lair a subi une opération pour se faire remplacer deux valves du coeur. Une troisième valve devait être remplacée mais ne l'a pas été. Pendant tout le temps de la construction, Mme Lair était malade mais a continué d'habiter sa maison.
+[6] Mme Cashaback a présenté des photographies de la résidence avant, pendant et après la construction. D'après ces photos, l'extérieur de la résidence a été modifié radicalement, l'entrée et les fenêtres ayant été déplacées. Les annexes de la résidence se voient clairement. La résidence terminée ne ressemble nullement à ce qu'elle était avant le début de la construction. Les photos de l'intérieur du bâtiment montrent des travaux de construction d'une ampleur considérable.
+[7] Pour être admissible au remboursement de TPS pour une habitation construite par le propriétaire, le demandeur doit satisfaire aux critères établis à l'alinéa 256(2)a), qui est ainsi rédigé :
+Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+a) le particulier, lui-même ou par un intermédiaire, construit un immeuble d'habitation - immeuble d'habitation à logement unique [...] - ou y fait des rénovations majeures, pour qu'il lui serve de résidence habituelle ou serve ainsi à son proche;
+[...]
+Le montant remboursable est égal au montant suivant :
+[...]
+[8] L'expression « rénovations majeures » d'un immeuble d'habitation est définie de la façon suivante au paragraphe 123(1) :
+[...] le bâtiment qui est rénové ou transformé au point où la totalité, ou presque, du bâtiment qui existait immédiatement avant les travaux, exception faite des fondations, des murs extérieurs, des murs intérieurs de soutien, des planchers, du toit et des escaliers, a été enlevée ou remplacée, dans le cas où, après l'achèvement des travaux, le bâtiment constitue un immeuble d'habitation ou fait partie d'un tel immeuble.
+[9] La définition de « rénovations majeures » inclut la transformation d'un bâtiment, et non seulement sa rénovation. Le mot « renovation » (rénovation) est défini de la façon suivante dans le Shorter Oxford English Dictionary ( « Shorter Oxford » ) :
+[traduction]
+1. Action de rénover, ou état de ce qui a été rénové; renouvellement; restauration [...]
+[10] Le même dictionnaire définit ainsi le mot « renovate » (rénover) :
+[traduction]
+rendre neuf [...]
+2. Renouveler matériellement; réparer; restaurer en remplaçant des éléments perdus ou endommagés; créer à nouveau
+[11] Le Shorter Oxford définit le mot « alteration » (transformation) comme [traduction] « l'action de transformer » et « l'état de ce qui est transformé » . Le mot « alter » (transformer) est ainsi défini :
+[traduction]
+1. Rendre autre ou différent à certains égards, sans changer la chose elle-même; modifier.
+[12] Le débat entre les parties consiste à savoir si Mme Lair a apporté des rénovations majeures dans sa résidence. L'avocate de l'intimée a allégué que s'il y avait eu rénovation, elle n'était pas majeure, en utilisant le mot « majeure » pour indiquer qu'au moins 90 p. 100 de la structure devait être rénové. La superficie totale de la résidence, à l'exclusion du sous-sol, était de 1 664 pieds carrés. Le salon faisait 126 pieds carrés et l'étage, 366 pieds carrés.
+[13] Après le procès, j'ai demandé aux parties de me faire parvenir leurs observations concernant la question de savoir si Mme Lair avait « construit » sa résidence, si elle n'y avait pas fait de « rénovations majeures » . Il m'importait de déterminer si le résultat final des travaux entrepris serait considéré comme la construction d'un immeuble d'habitation plutôt que sa rénovation ou sa transformation.
+[14] J'ai étudié les nombreuses photographies présentées par Mme Cashaback. Les travaux exécutés étaient « majeurs » , au vrai sens du terme. Je ne pense pas que la mesure des différentes parties de la résidence et la comparaison des mesures, c.-à-d. les parties de la résidence qui ont subi la construction et celles qui ne l'ont pas subie, ni la comparaison des coûts et toute augmentation de valeur de la résidence à la suite de la construction, soient d'une aide quelconque dans ce cas particulier. D'après les faits dont j'étais saisi alors, si tout observateur raisonnable et neutre du bâtiment, avant et après la construction de l'intérieur et de l'extérieur du bâtiment, pouvait conclure que le degré de rénovation et de transformation était majeur, cela répondait alors à la définition de « rénovations majeures » . Mme Lair avait une vieille maison sur le point de s'effondrer et à toutes fins utiles, l'a reconstruite comme une nouvelle résidence.
+[15] Le verbe « construire » , à l'alinéa 256(2)a), n'est pas défini dans la Loi. Dans sa tentative de montrer que l'appelante n'avait pas construit un immeuble d'habitation, le ministre s'est grandement fondé sur le raisonnement de la décision Erickson c. La Reine[1]. Dans cette affaire, le critère qui détermine si une annexe est une construction ou non en vertu de l'alinéa 256(2)a) est le suivant :
+[...] à savoir si un projet de construction d'habitations peut à juste titre être considéré comme la construction d'un nouvel immeuble, par opposition à la rénovation d'un immeuble existant auquel on a ajouté quelque chose, [...][2]
+Dans cette affaire, le contribuable ne répondait pas au critère. Cependant, mon collègue, le juge Hershfield, a fait la remarque suivante :
+[...] il peut y avoir des cas où une annexe est d'une dimension si importante par rapport au bâtiment original que l'on peut à juste titre affirmer que celui-ci a été intégré dans l'annexe d'une manière qui justifie la conclusion selon laquelle le bâtiment original a effectivement cessé d'exister en tant que logement. Dans un tel cas, un nouvel édifice a été construit, et la disposition relative au remboursement s'appliquera[3].
+[16] À ces remarques, j'ajouterais seulement que la Loi ne prévoit pas de critère objectif pour faire la distinction entre ce qui est une construction et ce qui ne l'est pas. Le point de distinction entre les deux reste arbitraire, et cette détermination subjective doit s'appuyer sur les faits dans chaque cas.
+[17] Je ne crois pas que le degré de rénovation entrepris par Mme Lair soit réduit par le fait qu'une fondation a été construite ou qu'un nouveau toit a été installé. La locution « exception faite des fondations, des murs extérieurs, des murs intérieurs de soutien, des planchers, du toit et des escaliers » du paragraphe 123(1) n'empêche pas nécessairement le ministre de prendre en considération les rénovations ou les transformations de la fondation ou des murs extérieurs pour déterminer si la « totalité ou presque » du bâtiment a été rénovée. Elle empêche plutôt le ministre d'exiger la rénovation de la fondation, des murs, des planchers, du toit et des différents escaliers pour déterminer si le critère est rempli.
+[18] Dans les mémorandums sur la TPS (nouvelle série), au mémorandum 19.3.7, l'Agence des douanes et du revenu du Canada ( « ADRC » ) expose certains des facteurs qu'elle considère comme indiquant une construction[4]. Bref, ce sont le rapport de la nouvelle superficie par rapport à l'ancienne, la dimension relative de la nouvelle construction, le nombre et le genre de nouvelles pièces, la mesure dans laquelle l'immeuble existant est annexé, le genre de changements qui ont dû être apportés à l'extérieur et à l'intérieur du bâtiment, le coût total et la présence de nouveaux systèmes (p. ex. l'électricité et la plomberie).
+[19] Bien que ces lignes directrices administratives ne soient nullement déterminantes, je conviens qu'elles laissent supposer une construction qui doit être davantage qu'une simple « annexe » . En l'espèce, on satisfait à tous ces indicateurs de construction, chacun dans une mesure plus ou moins grande. Il ne fait aucun doute que la résidence de Mme Lair en 2001 n'est pas la même qu'avant 1999. De nouveaux locaux ont été construits; du moins la résidence a subi des rénovations et des transformations majeures. Mme Lair est donc admissible au remboursement pour habitations neuves.
+[20] Enfin, il semble que la période de demande en vertu de l'alinéa 256(3)b) soit expirée en ce qui concerne une partie des dépenses autrement admissibles de l'appelante en sus de la somme initiale de 67 030,98 $. Mme Lair a présenté sa demande de remboursement pour habitations neuves le 27 juillet 2001. La représentante de l'appelante et l'avocate du ministre conviennent que puisque Mme Lair a continué d'occuper son domicile après le début de la construction, la période de deux ans dont elle disposait pour présenter la demande de remboursement conformément au paragraphe 256(3) commence à la date du début de la construction, soit le 27 juillet 1999 ou vers cette date. C'est la date à laquelle elle a commencé à occuper l'immeuble. Un projet de modification de l'alinéa 256(3)b) actuellement en instance permettra au contribuable de présenter la demande de remboursement après l'échéance dans des circonstances exceptionnelles, et cette modification est formulée de manière à s'appliquer de façon rétroactive. Ce projet de modification, une fois adopté, sera réputé comme entrant en vigueur le 20 décembre 2002[5].
+[21] Un état sous-jacent grave exigeant une chirurgie du coeur importante et l'occupation de la résidence pendant l'épreuve de la construction seraient en temps normal des circonstances admissibles pour que le ministre autorise la demande après l'échéance. Malheureusement, le projet de modification n'est toutefois d'aucun secours à l'appelante au moment présent.
+[22] Néanmoins, l'un des objectifs directeurs importants de la Loi est de permettre que différents contribuables se trouvant dans des situations semblables soient traités de la même façon; or, tout contribuable se trouvant dans la même situation que l'appelante a des chances d'être traité bien différemment lorsque la modification de l'alinéa 256(3)b) sera adoptée. Par conséquent, il se peut que la méthode à suivre concernant les taxes payées par Mme Lair après le 27 juillet 2001 consiste pour elle à demander un décret de remise conformément au paragraphe 23(2) de la Loi sur la gestion des finances publiques pour tout montant qui serait admissible au remboursement si ce n'était de la formulation actuelle du paragraphe 256(3).
+[23] L'appel est admis avec dépens.
+Signé à Ottawa, Canada, ce 12e jour de décembre 2003.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 22e jour d'avril 2004.
+Nancy Bouchard, traductrice
+[1] C.C.I., 1999-5065(GST)I, 23 janvier 2001 ([2001] G.S.T.C. 19, 2001 G.T.C. 309). Voir aussi Cousineau c. Canada, [2001] A.C.I. no 752, Warnock c. Canada, [1996] A.C.I. no 1527, et McLean c. Canada, [1998] A.C.I. no 435.
+[2] Au paragraphe 14.
+[3] Au paragraphe 16.
+[4]
+19.3.7, Remboursement pour immeubles - Sujets particuliers, 1998, ADRC
+[5] Le projet de modification est ainsi formulé :
+256(3) Les remboursements prévus au présent article ne sont versés que si le particulier en fait la demande au plus tard :
+a) à la date qui suit de deux ans le premier en date des jours suivants :
+(i) le jour qui suit de deux ans le jour où l'immeuble est occupé pour la première fois de la manière prévue au sous-alinéa (2)d)(i),
+(ii) le jour où la propriété est transférée conformément au sous-alinéa (2)d)(ii),
+(iii) le jour où la construction ou les rénovations majeures de l'immeuble sont achevées en grande partie;
+b) à toute date postérieure à celle prévue à l'alinéa a), fixée par le ministre.

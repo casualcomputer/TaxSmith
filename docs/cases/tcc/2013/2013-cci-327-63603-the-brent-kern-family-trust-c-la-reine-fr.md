@@ -1,0 +1,201 @@
+---
+title: "The Brent Kern Family Trust c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/63603/index.do"
+last_modified: "2013-10-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 327"
+citation2: ""
+neutral_citation: "2013 CCI 327"
+decision_date: "2013-10-17"
+language: "fr"
+item_id: "63603"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5946
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:00:46.680000+00:00"
+cases_cited_count: 3
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e992b8b31a78379a8fd8c5916cb121d8d62f918e3072f91bc6463ddf500b8bb9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# The Brent Kern Family Trust c. La Reine
+
+- Citation: 2013 CCI 327
+- Decision date: 2013-10-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5946, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+The Brent Kern Family Trust c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-10-17
+Référence neutre
+2013 CCI 327
+Numéro de dossier
+2010-1860(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-1860(IT)G
+ENTRE :
+BRENT KERN FAMILY TRUST,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 19 juin 2012, à Winnipeg (Manitoba)
+Observations supplémentaires présentées le 3 juillet 2013, à Toronto (Ontario)
+Devant : L'honorable juge Randall S. Bocock
+Comparutions :
+Avocat de l'appelante :
+Me Jeff D. Pniowsky
+Avocats de l'intimée :
+Me Bonnie F. Moon
+Me Adam Gotfried
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l'appel interjeté à l'encontre des nouvelles cotisations établies au titre de la Loi de l'impôt sur le revenu (la « Loi ») pour les années d'imposition 2005 et 2006 est rejeté, compte tenu du fait que le paragraphe 75(2) de la Loi ne s'applique pas aux biens qu'un bénéficiaire transfère à une fiducie pour une contrepartie valable.
+Signé à Ottawa (Ontario), le 17e jour d'octobre 2013.
+« R. S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 17e jour de décembre 2013.
+Yves Bellefeuille, réviseur
+Référence : 2013 CCI 327
+Date : 20131017
+Dossier : 2010-1860(IT)G
+ENTRE :
+BRENT KERN FAMILY TRUST,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. Le contexte et les questions en litige
+[1] Le présent appel a principalement trait au déclenchement et à l'applicabilité de la règle d'attribution prévue au paragraphe 75(2) de la Loi de l'impôt sur le revenu (la « Loi »). Cette disposition, dans les cas où elle s'applique, a pour effet d'interdire à une personne de transférer des biens à une fiducie et de faire en sorte que le revenu, la perte, le gain en capital ou la perte en capital (l'« avantage ») en découlant revienne à une entité différente si cette personne — l'auteur du transfert — peut avoir ultérieurement la possibilité d'en bénéficier de nouveau. La règle prévue au paragraphe 75(2) attribue plutôt immédiatement l'avantage à l'auteur du transfert et empêche ainsi qu'on le détourne par l'intermédiaire d'une fiducie.
+[2] Jusqu'à récemment, il importait peu que le transfert du bien se fasse par voie de don ou de vente; toutefois, dans l'arrêt R. c. Sommerer, 2012 CAF 207, la Cour d'appel fédérale a décrété qu'un transfert de bien réalisé au moyen d'une vente véritable ne déclenche pas l'application du paragraphe 75(2), contrairement à la situation dans laquelle le bien fait l'objet d'un don. Dans le présent appel, les biens, soit des actions, ont été vendus pour une contrepartie valable par l'auteur du transfert, l'appelante. La Cour doit donc décider si cette vente tombe sous le coup de l'arrêt Sommerer. Si c'est le cas, le paragraphe 75(2) ne s'appliquera pas, l'avantage découlant du revenu de dividende restera entre les mains de l'appelante, et cette dernière n'aura pas gain de cause dans le présent appel.
+[3] Si l'arrêt Sommerer est inapplicable et, partant, le paragraphe 75(2) s'applique, la seule question qui subsiste consiste à savoir si le fait de recourir à cette règle d'attribution précise en vue de réduire l'impôt à payer — dans le cas où le propriétaire initial reconnaît l'existence de l'avantage et l'objet principal de la mesure, soit l'évitement de l'impôt — constitue un abus de la disposition qui est susceptible de déclencher l'application de la règle générale anti‑évitement (la « RGAÉ ») au titre des paragraphes 245(1) et (3) de la Loi.
+[4] Le moment et l'ordre des procédures n'ont pas facilité l'audition de l'affaire. L'audience initiale a eu lieu le 19 juin 2012. La Cour d'appel fédérale a rendu l'arrêt Sommerer quelque 23 jours plus tard, soit le 13 juillet 2012, pendant les délibérations de la Cour.
+[5] Quand l'arrêt Sommerer a été rendu, l'avocat de l'intimée a demandé à formuler des observations supplémentaires sur la question, soutenant que le droit avait changé. L'avocat de l'appelante s'est opposé à cette demande, parce qu'il n'y avait pas eu d'interrogatoires préalables pertinents dans le contexte d'une telle présomption juridique (l'inapplicabilité du paragraphe 75(2)), qu'un préjudice avait été subi et que, de toute façon, l'arrêt Sommerer ne s'appliquait pas.
+[6] Par une ordonnance rendue le 15 octobre 2012 (2012 TCC 358), la Cour a fait droit à la demande visant à présenter des observations juridiques additionnelles et a accordé à l'appelante le droit de tenir d'autres interrogatoires préalables, de même que des dépens. Après la tenue de ces interrogatoires préalables, d'autres observations orales et écrites ont été entendues et reçues, respectivement, au début du mois de juillet 2013.
+II. Le contexte factuel
+[7] Les avocats ont nettement abrégé la durée de l'instance en produisant deux exposés conjoints des faits, applicables à chaque étape de l'audition. Les faits pertinents pour le présent appel, relativement au montage financier, sont les suivants :
+1. de 1997 à juillet 2004, M. Kern a été l'unique actionnaire et l'âme dirigeante de Wilf's Oilfield Services (1997) Ltd. (la « société d'exploitation »);
+2. une société à responsabilité limitée de l'Alberta, 905558 Alberta Ltd., a été créée en novembre 2000 (la « société de portefeuille »);
+3. deux fiducies ont été créées le 30 juillet 2004 : l'appelante, la Brent Kern Family Trust (la « fiducie Brent »), et la Kern Family Trust (la « fiducie Kern »);
+4. M. Kern a structuré ses activités de façon à devenir un actionnaire privilégié de la société d'exploitation et de la société de portefeuille. M. Kern et la société d'exploitation étaient bénéficiaires, de même que d'autres membres de la famille, de la fiducie Brent, tandis que la société de portefeuille, M. Kern et des membres de la famille étaient bénéficiaires de la fiducie Kern;
+5. par la voie d'échanges d'actions, les actions ordinaires que détenait auparavant M. Kern dans la société d'exploitation et la société de portefeuille ont été échangées contre des actions privilégiées;
+6. moyennant une contrepartie valable, des actions ordinaires de la société d'exploitation ont été vendues à la fiducie Kern et, de la même façon, les actions de la société d'exploitation que détenait la société de portefeuille ont été vendues à l'appelante, la fiducie Brent.
+[8] Les faits pertinents qui se rapportent aux opérations ayant fait l'objet d'une nouvelle cotisation, lesquels faits sont survenus après la création du montage financier décrit au paragraphe 7 qui précède, sont essentiellement les mêmes pour chacune des deux années d'imposition visées par les nouvelles cotisations :
+2005
+1. la société d'exploitation a déclaré un dividende de 245 000 $ en faveur de la fiducie Kern;
+2. la fiducie Kern a attribué 245 000 $ à la société de portefeuille;
+3. la société de portefeuille a déclaré un dividende de 245 000 $ sur les actions ordinaires que détenait la fiducie Brent;
+4. l'appelante soutient que le paragraphe 75(2) s'applique, de sorte que le dividende de la fiducie Brent est réputé avoir été reçu par la société d'exploitation (le « dividende attribué »), parce que la société d'exploitation est la personne qui a transféré les biens à la fiducie Brent alors qu'elle était une bénéficiaire éventuelle;
+5. sur ce fondement, la fiducie Brent n'a fait état d'aucun revenu découlant du dividende déclaré dans sa déclaration de revenus des fiducies T‑3;
+6. le dividende attribué qui se trouvait entre les mains de la société d'exploitation était un dividende reçu par une société aux termes de l'article 112 de la Loi, lequel article autorise le paiement non imposable de dividendes entre sociétés;
+7. le montant du dividende, soit 245 000 $, a été attribué et payé à M. Kern, qui, à son tour, l'a prêté à la société d'exploitation.
+2006
+En 2006, des opérations semblables ont eu lieu, et des déclarations de revenus semblables ont été produites, sauf que le montant du dividende de 2006 qui a été déclaré s'élevait à 155 000 $ et que, par réduction progressive, le montant finalement prêté par M. Kern à la société d'exploitation s'élevait à 151 591,99 $.
+[9] Par suite des opérations de 2005 et 2006, à l'égard desquelles ni la société d'exploitation ni l'appelante n'ont déclaré un revenu ni payé de l'impôt, le ministre a établi une nouvelle cotisation à l'endroit de l'appelante en se fondant sur la non‑déclaration de dividendes imposables de 306 250 $ et de 190 368 $ que l'appelante avait censément reçus durant les années d'imposition 2005 et 2006 respectivement. Le ministre soutient que le paragraphe 75(2) ne s'applique pas, tout d'abord à cause de l'arrêt Sommerer et, subsidiairement, à cause de la RGAÉ et de l'abus allégué de la disposition.
+III. L'effet de l'arrêt Sommerer sur l'application du paragraphe 75(2)
+a) Le libellé du paragraphe 75(2)
+[10] Comme il a été décrit plus tôt, en tant que disposition anti‑évitement précise de la Loi, le paragraphe 75(2) prescrit que lors du transfert de biens à une fiducie par un bénéficiaire éventuel, on attribuera à ce dernier les revenus, les pertes, les gains en capital et les pertes en capital.
+[11] Le texte intégral de ce paragraphe (dont les passages pertinents sont soulignés) est le suivant :
+75(2) Lorsque, en vertu d'une fiducie créée de quelque façon que ce soit depuis 1934, des biens sont détenus à condition :
+a) soit que ces derniers ou des biens qui leur sont substitués puissent :
+(i) ou bien revenir à la personne dont les biens ou les biens qui leur sont substitués ont été reçus directement ou indirectement (appelée « la personne » au présent paragraphe),
+(ii) ou bien être transportés à des personnes devant être désignées par la personne après la création de la fiducie;
+b) soit que, pendant l'existence de la personne, il ne soit disposé des biens qu'avec son consentement ou suivant ses instructions,
+tout revenu ou toute perte résultant des biens ou de biens y substitués, ou tout gain en capital imposable ou toute perte en capital déductible provenant de la disposition des biens ou de biens y substitués, est réputé, durant l'existence de la personne et pendant qu'elle réside au Canada, être un revenu ou une perte, selon le cas, ou un gain en capital imposable ou une perte en capital déductible, selon le cas, de la personne.
+[12] Comme il a été indiqué dans les exposés conjoints des faits, les faits requis suivants, qui déclencheraient par ailleurs l'application du paragraphe 75(2), étaient présents : une fiducie, un auteur d'un transfert ayant un éventuel intérêt bénéficiaire, un transfert de biens et une possibilité que les biens transférés puissent revenir ultérieurement au bénéficiaire auteur du transfert.
+b) L'arrêt Sommerer
+[13] Avant que l'arrêt Sommerer soit rendu, les avocats ont convenu conjointement que le paragraphe 75(2) s'appliquait aux faits de l'affaire. La question est de savoir si l'arrêt Sommerer a changé cette application. Pour y répondre, la Cour doit examiner cet arrêt ainsi que les conclusions qui y ont été tirées.
+(i) En première instance
+[14] Il faut garder à l'esprit que la décision que la Cour d'appel fédérale a rendue dans Sommerer a confirmé à l'unanimité la décision de première instance du juge C. Miller, de la Cour canadienne de l'impôt (2011 CCI 212), relativement à la totalité de ses conclusions de fait et, par-dessus tout, à la question dont la Cour est maintenant saisie, soit la conclusion de droit selon laquelle la vente de biens par un bénéficiaire éventuel à une fiducie pour une contrepartie valable ne déclenchera pas la règle d'attribution prévue au paragraphe 75(2).
+[15] En première instance, le juge Miller a conclu :
+1. qu'il existait une fiducie (paragraphes 67 et 81);
+2. que l'appelant était un bénéficiaire éventuel en vertu de la fiducie (paragraphe 81);
+3. que le paragraphe 75(2) ne s'applique pas à un bénéficiaire qui vend des biens à leur juste valeur marchande (paragraphe 131).
+[16] Dans l'affaire qui lui était soumise, le juge Miller a eu à trancher de nombreuses questions qui, dans le présent appel, sont tenues pour acquises : la fondation était‑elle un arrangement constituant une fiducie, l'appelant était-il un bénéficiaire, y avait-il eu vente de biens transférés par le bénéficiaire, et le bénéficiaire était‑il saisi des biens transférés au moment de leur vente?
+[17] Malgré la complexité des faits en cause dans cette affaire, le juge Miller a néanmoins fait, à la fin du paragraphe 91, un énoncé concluant à propos du paragraphe 75(2) de la Loi :
+[91] [...] Je reconnais qu'il faut peut‑être lire à plusieurs reprises ce qui pourrait à première vue sembler simple. Or, ce n'est pas si simple. Une fois que le sens de ces termes est démêlé d'une façon appropriée et considéré sur le plan grammatical et logique, la seule interprétation possible est que seul le constituant, ou un disposant subséquent qui pourrait être considéré comme un constituant, peut être la « personne » en question pour l'application du paragraphe 75(2) de la Loi.
+(ii) En appel
+[18] Les complexités factuelles qui existaient en première instance sont disparues en appel, et cela n'est guère surprenant. Bien qu'elle ait traité assez longuement de la conclusion de fait litigieuse concernant l'existence d'une fiducie, la juge Sharlow a confirmé que, devant la Cour d'appel, la question était de nature théorique, car l'appelante ne la contestait pas.
+[19] Pour ce qui était des faits, la fiducie s'était servie du produit reçu du « disposant » pour acheter des actions du bénéficiaire à leur juste valeur marchande. Elle avait ensuite vendu les actions et réalisé un gain en capital. Dans Sommerer, la Couronne soutenait que le paragraphe 75(2) s'appliquait et que le bénéficiaire avait reçu le gain en question.
+[20] En interprétant le sens textuel, contextuel et téléologique du paragraphe 75(2), la juge Sharlow a conclu que le fait d'interpréter cette disposition de manière à ce qu'elle s'applique à un bénéficiaire vendant un bien lors d'une opération de vente véritable conduisait à des résultats absurdes qui ne pouvaient être voulus par le législateur (au paragraphe 49). En présentant une série d'exemples, la Cour d'appel a exprimé l'avis que c'était l'exemple final qui était le plus absurde (paragraphes 54 et 55). L'absurdité qu'elle a relevée était que l'application de la règle d'imputation prévue par le paragraphe 75(2) devenait une mesure fiscale d'attribution permanente et répétitive, susceptible d'attribuer simultanément le même gain en capital à de multiples contribuables du fait de son application objective.
+[21] Au paragraphe 57, la juge Sharlow a conclu que la prémisse suivant laquelle le paragraphe 75(2) peut s'appliquer au bénéficiaire d'une fiducie qui vend un bien pour une contrepartie valable est « erronée ». Ce faisant, elle a fait référence au paragraphe 91 de la décision rendue en première instance et a ainsi confirmé et souligné les propos concluants du juge Miller quant à son interprétation de la disposition.
+(iii) L'arrêt Sommerer s'applique‑t‑il au présent appel ou se distingue‑t‑il de lui?
+[22] En laissant entendre que l'arrêt Sommerer ne s'applique pas, l'avocat de l'appelante a fait valoir ce qui suit :
+1. la complexité des faits en cause dans Sommerer en fait une affaire exceptionnelle, dans laquelle les biens ayant fait l'objet d'une disposition ont servi à acheter les biens transférés;
+2. dans Sommerer, la Cour d'appel fédérale a confirmé une conclusion afin d'éviter la possibilité d'une double imposition, qui n'existe pas dans le présent appel;
+3. les déclarations de la Cour d'appel fédérale selon lesquelles le paragraphe 75(2) ne s'applique pas dans toutes les circonstances où l'on paie les biens à leur juste valeur marchande, même en l'absence de conversion des biens en fiducie, sont des remarques incidentes et elles ne font pas partie des faits importants dans cet appel‑là;
+4. en l'espèce, le contexte historique et l'objet du paragraphe 75(2) ont été invoqués en détail dans les actes de procédure, contrairement à ce qui a été fait dans Sommerer, et, sur ce fondement, le législateur entendait bel et bien que le paragraphe 75(2) s'applique dans les cas où la fiducie faisait l'acquisition de biens pour une contrepartie valable. Il ressort de l'intention législative historique et de l'évolution de la disposition que l'attribution à la personne détenant un droit réversif était un facteur essentiel, et il est donc inconciliable de prévoir une exception pour des biens vendus qui sont susceptibles de revenir à un bénéficiaire. En bref, dans Sommerer, les tribunaux (en première instance et en appel) se sont vus privés de leur possibilité respective d'examiner le sens textuel, contextuel et téléologique du paragraphe 75(2) en raison d'actes de procédure lacunaires.
+[23] Dans l'ensemble, malgré ce vaillant effort pour établir une distinction entre le présent appel et les règles de droit établies dans Sommerer, l'appelante ne peut avoir gain de cause dans son appel, et ce, pour les raisons qui suivent.
+A. La complexité des faits en cause dans Sommerer
+[24] Il est indubitable qu'en première instance, comme nous l'avons reconnu et décrit, le juge Miller a réglé un grand nombre de questions. Mais ces conclusions de fait n'ont pas été infirmées en appel. Devant la Cour d'appel fédérale, la conclusion factuelle concernant l'existence d'une fiducie n'a pas été contestée et l'applicabilité du paragraphe 75(2) est la seule question déterminante que la Cour d'appel fédérale a analysée. Les faits dont il est question en l'espèce ne se distinguent pas de ceux dont il est question au paragraphe 57.
+B. La Cour d'appel fédérale l'a fait à cause de la double imposition
+[25] On pourrait dire que la possibilité d'une double imposition était une question incidente qui a amené la Cour d'appel fédérale et le juge de première instance à examiner de près l'affaire, mais cette question n'a ni occupé une place importante ni été particulièrement mentionnée dans l'analyse, l'interprétation et la décision définitive concernant le paragraphe 75(2), comme on peut le voir aux paragraphes 57 et 91 des décisions rendues en appel et en première instance, respectivement, dans l'affaire Sommerer.
+C. L'applicabilité universelle du paragraphe 75(2) lorsque des biens sont vendus est une opinion incidente
+[26] L'absence d'intention et de subjectivité est la principale caractéristique du paragraphe 75(2). La Cour d'appel fédérale a déclaré avec force que l'applicabilité situationnelle de cette disposition est inacceptable, car elle s'applique à toutes les situations qu'elle décrit. Cela est peut‑être injuste, mais il s'agit de l'argument même que l'appelante avait invoqué avant la décision rendue dans Sommerer, dans le contexte de l'application automatique et objective du paragraphe 75(2). Du point de vue juridique, la seule différence qui existe maintenant est que, par suite de l'arrêt Sommerer, un transfert véritable, pour une contrepartie valable, de la part d'un bénéficiaire à une fiducie ne tombe plus sous le coup de la règle d'attribution automatique.
+D. L'arrêt Sommerer ne contient pas une analyse textuelle, contextuelle et téléologique pertinente du paragraphe 75(2)
+[27] Tout en faisant mention de l'absence d'historique législatif dans les actes de procédure dans Sommerer, l'avocat de l'appelante a présenté des observations détaillées sur ce contexte historique. Il ressort d'un examen des décisions rendues en première instance et en appel dans Sommerer que tant le juge de première instance (aux paragraphes 87 à 110) que la Cour d'appel (aux paragraphes 44 à 59) ont passé un temps considérable à analyser le texte, le contexte et l'objet de la disposition, du moins à un niveau suffisant, en vue d'en établir le fondement et de décider de manière définitive que le paragraphe 75(2) n'inclut pas en tant que « personne » un bénéficiaire qui vend des biens à une fiducie pour une contrepartie valable.
+IV. Conclusion
+[28] L'avocat de l'appelante a également expliqué pourquoi, à son avis, la décision rendue dans Sommerer est erronée plutôt qu'inapplicable : le caractère insuffisant de l'analyse contextuelle et téléologique, l'utilisation d'hypothèses mal fondées, la suppression universelle involontaire d'un type ordinaire d'opération de la portée du paragraphe 75(2), ainsi que des conséquences futures peut‑être absurdes par suite de la décision. La réponse à cela est simple : la Cour canadienne de l'impôt n'est pas un tribunal habilité à réviser les décisions non équivoques de la Cour d'appel fédérale. Elle est tenue de suivre et d'appliquer les principes de droit qu'énonce la Cour d'appel fédérale; le stare decisis est un processus de nature hiérarchique. La ratio decidendi dans Sommerer, qui est énoncée au paragraphe 57 de la décision rendue en appel, constitue maintenant une règle de droit; les contestations relatives à la déférence dont la Cour canadienne de l'impôt est tenue de faire preuve font également partie d'un processus hiérarchique bien connu.
+[29] En résumé, la fiducie appelante a acheté de la société d'exploitation (Wilf's Oilfield) cent actions ordinaires de la société de portefeuille (905558 Alberta Ltd.), pour une contrepartie valable. La société d'exploitation était également une bénéficiaire de la fiducie appelante. Ainsi, le paragraphe 75(2) ne s'applique pas au dividende déclaré sur les actions de la société de portefeuille qui constituaient les biens. Le revenu de dividende n'est pas attribuable à la société d'exploitation, mais plutôt à l'appelante.
+a) La question de la RGAÉ
+[30] La seule question de droit qu'il reste à la Cour à trancher est celle de savoir si la RGAÉ s'appliquerait aux opérations. L'appelante a reconnu que les deux premières exigences de la RGAÉ, soit l'attribution d'un avantage fiscal et l'existence d'une opération d'évitement, étaient présentes et qu'il n'était pas nécessaire que le ministre en fasse la preuve.
+[31] La dernière exigence, soit l'existence d'un abus dans l'application du paragraphe 75(2), serait restée la seule question à trancher que l'intimée avait la charge d'établir. Pour les motifs indiqués plus tôt, vu l'arrêt Sommerer, le paragraphe 75(2) de la Loi ne s'applique pas lorsque des biens sont vendus pour une contrepartie valable par une personne qui conserve un intérêt bénéficiaire et, en conséquence, la question de l'applicabilité de la RGAÉ est théorique.
+[32] Toute décision relative aux dépens doit tenir compte de la suite des faits qui sont survenus lors du processus d'appel et des diverses étapes qui sont liées à sa bifurcation. En conséquence, les dépens sont adjugés à l'intimée suivant l'issue de la cause relativement à ceux qui ont été versés en vue de répondre à l'appel à compter du 15 octobre 2012, soit la date à laquelle la Cour a décidé d'entendre des arguments additionnels sur l'inapplicabilité du paragraphe 75(2).
+Signé à Ottawa (Ontario), le 17e jour d'octobre 2013.
+« R. S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 17e jour de décembre 2013.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2013 CCI 327
+No DU DOSSIER DE LA COUR : 2010-1860(IT)G
+INTITULÉ : Brent Kern Family Trust c. Sa Majesté la Reine
+LIEUX DES AUDIENCES : Winnipeg (Manitoba) et Toronto (Ontario)
+DATES DES AUDIENCES : Les 19 juin 2012 et 3 juillet 2013
+MOTIFS DU JUGEMENT : L'honorable juge Randall S. Bocock
+DATE DU JUGEMENT : Le 17 octobre 2013
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jeff D. Pniowsky
+Avocats de l'intimée :
+Me Bonnie F. Moon
+Me Adam Gotfried
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Jeff D. Pniowsky
+Cabinet : Thompson Dorfman Sweatman LLP
+Winnipeg (Manitoba)
+Pour l'intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

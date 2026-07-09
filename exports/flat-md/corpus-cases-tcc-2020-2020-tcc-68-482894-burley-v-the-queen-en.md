@@ -1,0 +1,187 @@
+---
+title: "Burley v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/482894/index.do"
+last_modified: "2020-07-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 68"
+citation2: ""
+neutral_citation: "2020 TCC 68"
+decision_date: "2020-07-24"
+language: "en"
+item_id: "482894"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4598
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:06:37.002000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "43eba0f2d3fdb7a3dd21d1e07dc4a41c15da26975c8095781e68c6fc6fe83cc1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Burley v. The Queen
+
+- Citation: 2020 TCC 68
+- Decision date: 2020-07-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4598, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burley v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-07-24
+Neutral citation
+2020 TCC 68
+File numbers
+2019-1007(IT)I
+Judges and Taxing Officers
+Rommel G. Masse
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-1007(IT)I
+BETWEEN:
+DON H. BURLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 12, 2020, at Ottawa, Canada
+Before: The Honourable Justice R. Masse
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Zac Delong
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2016 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Kingston, Ontario, this 24 day of July, 2020.
+“R. Masse”
+Masse D.J.
+Citation: 2020 TCC 68
+Date: 20200724
+Docket: 2019-1007(IT)I
+BETWEEN:
+DON H. BURLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Masse D.J.
+[1] The Appellant, Mr. Burley, appeals an assessment made under the Income Tax Act, RSC 1985, c 1 (5th Supp) (the “Act”), for his 2016 taxation year.
+[2] Mr. Burley filed his returns for 2016 and was initially assessed as filed. This initial Notice of Assessment was dated March 13, 2017. Subsequently, Mr. Burley submitted a Form T2125 Adjustment Request that was received by the Minister of National Revenue (the “Minister”) on May 18th 2017. In this Adjustment Request Mr. Burley sought an adjustment to his 2016 taxation year so as to allow the sum of $33,363 as additional legal, accounting and other professional fees as business expenses. The Minister denied the request to allow these additional expenses by letter dated December 11, 2017. Mr. Burley filed a Notice of Objection on March 24, 2018. After due consideration the Minister confirmed the Assessment and so notified Mr. Burley by Notice of Confirmation dated November 16. Mr. Burley now challenges the Minister’s decision to disallow the $33,363 of additional legal, accounting and other professional fees. Hence the appeal to this Court.
+Factual Context
+[3] The pertinent facts are really not in dispute. The following factual context was gleaned from the pleadings and the testimony heard at the hearing. Mr. Burley was the only witness who testified. I found him to be an articulate, intelligent and honest witness.
+[4] At all material times Mr. Burley operated a management consulting service as a sole proprietorship. In August of 1992, a numbered company, 995432 Ontario Limited, operating as “Business Allies” was incorporated. Mr. Burley was the sole owner of the Class A (voting) shares and the sole officer of this company.
+[5] In January 2003, Business Allies created an Individual Pension Plan (“IPP”) for Mr. Burley. This was a Registered Pension Plan. Mr. Burley was the IPP’s sole beneficiary.
+[6] Sadly, Mr. Burley’s marital relationship broke down. This necessitated the equalization of assets. Litigation ensued.
+[7] On February 11th 2013, the Honourable Mr. Justice John Johnston of the Superior Court of Justice Family Court Branch issued an Order [1] which provided, among other things, that:
+Mr. Burley make a total net equalization payment to his spouse in the amount of $447,365.00;
+Mr. Burley’s spouse was to release her entire interest in the numbered company 995432 Ontario Limited;
+Mr. Burley was to pay to his spouse a lump sum spousal support in the amount of $294,469.00; and
+All amounts owing under this Order are secured by and form a first charge against all the savings and investments of Mr. Burley, as well as the savings and investments of the numbered company 995432 Ontario Limited.
+[8] This was not the end of Mr. Burley’s difficulties. On March 8th 2013, as a result of the aforementioned Court Order, Mr. Burley made an assignment in bankruptcy. On February 6th 2015, Business Allies was forced into bankruptcy. However, the company continued to operate for almost two years. According to the pleadings of Mr. Burley, the estate of Business Allies was discharged from bankruptcy on May 26th 2016. The company was dissolved. On June 1st 2016, the insolvency coordinator with the Financial Services Commission of Ontario appointed Mercer (Canada) Limited (“Mercer”), as administrator of Mr. Burley’s IPP for the purpose of winding up the IPP.
+[9] Mr. Burley was discharged from bankruptcy on August 10th 2016.
+[10] On August 17th 2016, the Honourable Mr. Justice Kershman of the Superior Court of Justice Family Branch ordered, among other things [2] , that:
+One-half of the amount accrued in Mr. Burley’s IPP was to be transferred to Mr. Burley’s spouse; and
+The amount accrued in the IPP was to be calculated after deducting the payment authorized to be paid by the Superintendent of Financial Services for the Province of Ontario for the fees and disbursements of the service providers to Mercer, who oversaw the winding up of the IPP.
+[11] In order to comply with this court order, Mr. Burley incurred from Mercer, legal, accounting and other professional fees in the amount of $33,653 in relation to the process of winding up the IPP. All required distributions from the plan were completed on November 10th 2016.
+Issue
+[12] The only issue to be decided is whether the Minister was justified in disallowing as business expenses the claimed additional legal, accounting and other professional fees of $33,653 for Mr. Burley’s 2016 taxation year.
+Position of the Parties
+[13] Mr. Burley takes the position that the expenses here claimed were legitimate business expenses related to Business Allies and more particularly related to the administration of his IPP. They were incurred for the sole purpose of gaining or producing income from business or property. The IPP had incurred expenses of this nature for around 15 years and such had always been allowed as deductible business expenses pursuant to s. 18(1)(a) of the Act and should still be allowed. Mr. Burley also claims that the money in the IPP have been subjected to double taxation, although this was not strenuously argued. In any event, I see no merit in the double taxation argument.
+[14] The Respondent advances three arguments:
+The expenses were not incurred for the purpose of producing income from a business or property;
+The disallowed expenses were personal in nature and were incurred only for the purpose of satisfying the Court Order requiring Mr. Burley to wind up his IPP in order to effect equalization payments upon the dissolution of his marriage; and
+The deduction of the claimed expenses is not permitted by any provision of the Act or it is specifically prohibited. In fact, the legal, accounting and other professional expenses related to the division or settlement of the IPP arising out of the breakdown of a marriage are specifically excluded per s. 60(o.1) of the Act.
+Analysis
+[15] A taxpayer who seeks to deduct an expense from business or property income must first have a source of income from a business or property. In Stewart v. Canada, [2002] 2 S.C.R. 645, the Supreme Court of Canada set out a two-stage test for identifying a source of business or property income:
+Is the activity undertaken in pursuit of profit, or is it a personal endeavour?
+If it is not a personal endeavour, is the source of the income a business or property?
+[16] The first stage of the test assesses the general question of whether or not a source of income exists; the second stage categorizes the source as either business or property. The purpose of the first stage is simply to distinguish between commercial and personal activities. The taxpayer must show that his or her activities were carried out in an objectively businesslike manner; however the Court made it clear that the taxpayer’s reasonable expectation of profit is not determinative of the issue, and it is not for this Court to evaluate the taxpayer’s business acumen.
+[17] In the instant case, it cannot be denied that Business Allies did constitute a source of business income for Mr. Burley. Indeed, he gained his livelihood from this business for years. Having determined that Mr. Burley had a source of business income, then we have to look at the relationship between the claimed expenses and the business source of income to determine whether the claimed expenses are deductible under the Act. Generally speaking, an outlay or expense that is incurred by the taxpayer in accordance with well accepted business or accounting practices is deductible unless specifically excluded by the Act.
+[18] The calculation of income or loss from a business or property is outlined in the provisions of s. 9 of the Act which provides:
+9(1) Income – Subject to this Part, a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that business or property for the year.
+(2) Loss – Subject to section 31, a taxpayer’s loss for a taxation year from a business or property is the amount of the taxpayer’s loss, if any, for the taxation year from that source of income computed by applying the provisions of this Act respecting computation of income from that source with such modifications as the circumstances require.
+(3) …
+[19] Under s. 9 of the Act, a taxpayer can deduct expenses that are incurred to earn that profit, subject to limitations set out in the Act. Section 18 of the Act sets out general limitations on deductions. Paragraph 18(1)(a) provides that an expense is deductible only to the extent that it was incurred by the taxpayer for the purpose of gaining or producing income from the business. Paragraph 18(1)(h) disallows the deduction from business income of expenses that are for personal purposes or for living expenses. The provisions of these two paragraphs are as follows:
+18(1) General limitations – In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) general limitation – an outlay, loss or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+(b) …
+…
+(h) personal and living expenses – personal or living expenses of the taxpayer, other than travel expenses incurred by the taxpayer while away from home in the course of carrying on the taxpayer’s business;
+[20] In addition, under s. 67 of the Act, a taxpayer may not deduct an “unreasonable” expense, even if the expense is otherwise deductible under the Act.
+[21] Legal, accounting and professional fees can ordinarily be deducted as business expenses when they are incurred in the normal course of a business’ income earning operations or are incurred to defend those business activities. Indeed, as Mr. Burley pointed out in his pleadings, this is so even if the taxpayer’s legal expenses were incurred to defend the taxpayer against criminal charges so long as it is shown that the activity that led to the criminal charges is a normal part of the production of the illegal income. For example, not only is the income of a person living from the avails of prostitution liable to tax, but the expenses incurred to earn this income are also deductible: M.N.R. v. Eldridge, [1964] C.T.C. 545 (Exch. Ct.). Allowing a taxpayer to deduct expenses for a crime would appear to frustrate the Criminal Code; however, tax authorities are not concerned with the legal nature of an activity: Toth v. The Queen, [2004] 2 CTC 2537, at para. 56.
+[22] Not all legal expenses are deductible. In order to be deductible, the expense must be incurred for the purpose of earning income. In Solman v. Canada, [2000] T.C.J. No. 271, a lawyer who specialised in commercial litigation was involved in a substantial amount of matrimonial litigation with his former wife. He incurred significant legal fees to enforce monetary rights granted to him by various court orders. They were also incurred to recover support overpayments paid to his wife and to protect himself from false accusation brought against him by his wife. Justice Sarchuk of the Tax Court of Canada held that these expenses were not incurred for the purpose of gaining or producing income from a business or property; the expenses were personal expenses that related to his marital breakdown. Justice Sarchuk observed at paragraph 11 of his reasons for decision:
+11 … At the outset I must say that I would have great difficulty in concluding that legal fees incurred in the course of matrimonial proceedings are anything but a personal expense. Expenditures of the type made by the Appellant pursuant to the support Orders are essentially expenditures of a personal nature made out of capital or income after it has been earned.
+The Solman case is not on all fours with the instant case but it does provide some guidance.
+[23] In R. v. Leduc, 2005 TCC 96, a lawyer was charged with criminal offences of a sexual nature. In defending himself against those charges, he incurred legal expenses amounting to $140,000. The lawyer argued that if he did not defend himself against the charges and if he was convicted, he would lose his license to practice law which of course would affect his ability to earn income from the business of lawyering. Justice Lamarre of this Court (now Associate Chief Justice) held that such legal expenses did not arise in the course of his business as a lawyer. The expenses were personal in nature and thus not deductible from business income. Justice Lamarre held that even if the lawyer had not practiced law, he nonetheless would still have incurred the legal expenses to defend himself before the courts against the criminal charges. It is the activity that resulted in the charges and its connection to the business that determine the deductibility of the legal expenses associated with the defence.
+[24] Justice Lamarre of this Court, relying on the dicta of Justice Iacobucci of the Supreme Court of Canada in Symes v. R., [1993] S.C.J. No. 131, indicated at paragraph 16 of her reasons for decision that it may be relevant to consider whether a deduction is ordinarily allowed as a business expense by accountants. Similarly, it is relevant to consider whether the expense is one normally incurred by others involved in the taxpayer’s business. It is sometimes useful to consider whether a particular expense would have been incurred if the taxpayer was not engaged in the pursuit of business income. If indeed such is the case, there is a strong inference that the expense has a personal purpose. Justice Lamarre further stated at paragraph 17 that it may also be helpful to resort to a “business need” test. Would the need exist apart from the business? If a need exists even in the absence of business activity, then an expense incurred to meet that need would be a personal expense.
+[25] In my view, it cannot be said that fees involved in the winding up of an IPP established by a corporation on behalf of a shareholder are incurred in the normal course of income earning operations. In the instant case, the legal accounting and other professional fees were incurred specifically in order to comply with the terms of the Family Court order to wind up the IPP and transfer 50% of the value of the IPP to Mr. Burley’s spouse as part of the equalization of family assets. These fees were not paid for the purpose of earning income for the company, the IPP or the taxpayer nor were they paid to defend their income earning activities. It may be true that in the past such fees were in fact deductible from income earned by the company or the IPP but that was when the company and the IPP were actively engaged in earning income and such fees were in fact incurred for exactly that purpose.
+[26] It is unfortunate that Mr. Burley’s marriage broke down. The marriage breakdown entailed certain legal consequences such as the equalization of assets. It very often happens that a spouse’s pension plan has to be shared on the breakdown of a marriage. Therefore, even if Mr. Burley was not a business man, he still would have had to share family assets, including any pension plans, with his spouse and therefore it is very likely that he would still have had to pay the fees associated with the winding up of the IPP.
+[27] At the time the company and the IPP were wound up, they were not carrying on any income-earning activities. The company was bankrupt and being dissolved, and the IPP was being wound up in order to satisfy a Court order mandating the apportionment of the IPP. The legal, accounting and other professional fees incurred by Mr. Burley were simply too remote and unrelated to the company’s and the IPP’s income-earning activities in order to qualify as valid tax deductions.
+[28] I am buttressed in my conclusions by s. 60 of the Act which provides in part:
+60. Other deductions – There may be deducted in computing a taxpayer’s income for a taxation year such of the following amounts as are applicable:
+…
+(o.1) legal expenses [re job loss or pension benefit] – the amount, if any, by which the lesser of
+(i) the total of all legal expenses (other than those relating to the division or settlement of property arising out of, or on a breakdown of, a marriage or common-law partnership) paid by the taxpayer in the year or in any of the 7 preceding taxation years to collect or establish a right to an amount of
+(A) a benefit under a pension fund or plan … in respect of the employment of the taxpayer …
+[Emphasis added]
+[29] Therefore, the deduction of legal expenses relating to the division or settlement of a pension plan arising out of a marriage breakdown is specifically disallowed by the Act.
+[30] For all of the foregoing reasons, I find that the legal, accounting and other professional fees incurred by Mr. Burley in the amount of $33,653, were incurred for the purpose of complying with the terms of a Family Court order made against him and for the purpose of winging-up and partitioning his IPP of which he was the sole beneficiary. The fees were not incurred for the purpose of earning income from a business or property. These fees were incurred for personal purposes.
+[31] The appeal is therefore dismissed.
+Signed at Kingston, Ontario, this 24 day of July, 2020.
+“R. Masse”
+Masse D.J.
+CITATION:
+2020 TCC 68
+COURT FILE NO.:
+2019-1007(IT)I
+STYLE OF CAUSE:
+DON H. BURLEY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Canada
+DATE OF HEARING:
+March 12, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Rommel G. Masse, Deputy Judge
+DATE OF JUDGMENT:
+July 24, 2020
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Zac Delong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+[BLANK]
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-1.
+[2] See copy of Court Order filed as Exhibit R-2.

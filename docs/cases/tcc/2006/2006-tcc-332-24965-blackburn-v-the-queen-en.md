@@ -1,0 +1,145 @@
+---
+title: "Blackburn v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/24965/index.do"
+last_modified: "2006-06-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 332"
+citation2: ""
+neutral_citation: "2006 TCC 332"
+decision_date: "2006-06-09"
+language: "en"
+item_id: "24965"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2516
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:01:18.496000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9bb0469b60043b99a83a6bea20ea01356e91a52568b1374dc749907a4cae965c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Blackburn v. The Queen
+
+- Citation: 2006 TCC 332
+- Decision date: 2006-06-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2516, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blackburn v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-06-09
+Neutral citation
+2006 TCC 332
+File numbers
+2005-4249(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-4249(IT)I
+BETWEEN:
+MEICHLAND BLACKBURN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on June 6, 2006, at Windsor, Ontario
+Before: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gatien Fournier
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 2001 and 2002 taxation years are dismissed.
+Signed at Ottawa, Canada, this 9th day of June 2006.
+"Campbell J. Miller"
+Miller J.
+Citation: 2006TCC332
+Date: 20060609
+Docket: 2005-4249(IT)I
+BETWEEN:
+MEICHLAND BLACKBURN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Mr. Meichland Blackburn is a former police officer with the Niagara Regional Police Service. In 1997 he was charged with dangerous driving. In July 2002 he was ultimately convicted of that offence. In his 2001 and 2002 tax returns Mr. Blackburn deducted legal fees of $4,500 and $10,500 respectively, in connection with this criminal matter. At trial, Mr. Blackburn increased his claim for legal fees, and also argued that some of the increased legal fees related to internal proceedings of the Niagara Regional Police Service under the Police Services Act. I find Mr. Blackburn has not been able to bring the payment of legal fees originally claimed within the deductibility requirements of paragraph 8(1)(b) of the Income Tax Act (the "Act"). Further, with respect to the claim for the deduction of legal fees in connection with the Niagara Regional Police Service proceedings, Mr. Blackburn has not proven payment of such legal fees.
+Facts
+[2] In 1997, Mr. Blackburn was a member of the Niagara Regional Police Service. In October 1997 he was charged with dangerous driving (the "Cobourg matter"). Unrelated to this charge Mr. Blackburn was moved from duty patrol to desk duty in December 1997. He continued to receive his pay. In 1998, Mr. Blackburn was also charged with offences in connection with a different incident (the "Hamiltonmatter").
+[3] In April 1999, Mr. Blackburn was convicted in the Cobourg matter. In August 1999 he was suspended by the Niagara Regional Police Service without pay. In November 1999 he was sentenced to 30 days incarceration. He appealed that conviction. In July 2000 the conviction was quashed, and a new trial ordered. Mr. Blackburn was paid his back salary. He deducted legal fees in 2000 in connection with this matter and was denied such deduction by Canada Revenue Agency. He appealed that assessment, and in a judgment of Justice Bowie of this Court dated February 24, 2004, Justice Bowie allowed a deduction for the portion of the fees that related to the appeal, not the trial.
+[4] In February 2001, Mr. Blackburn was acquitted of the charges in the Hamiltonmatter. The Crown then proceeded to retry the dangerous driving charge in the Cobourg matter in early 2002. On or about July 12, 2002, Mr. Blackburn was found guilty of that charge. He was sentenced in November 2002 to 30 days incarceration. He appealed the conviction and sentence. The Niagara Regional Police Service fired Mr. Blackburn on December 5, 2002.
+[5] These matters took their toll on Mr. Blackburn, as from September 1998 to July 2002 he worked halftime, claiming he was medically unfit to work full-time, as was his entitlement under the collective agreement. In July 2002, Mr. Blackburn provided the Niagara Regional Police Service with a medical certificate indicating he was not medically fit. Shortly thereafter, also in July 2002, just before he was found guilty in the Cobourg matter, the Niagara Regional Police Service placed Mr. Blackburn on sick leave without pay.
+[6] Coincidentally with the criminal matters, the Niagara Regional Police Service was conducting their own internal disciplinary procedure in accordance with the Police Services Act. Mr. Blackburn maintains they were seeking his dismissal through that procedure.
+[7] To support his claim for the 2001 legal fees, Mr. Blackburn provided:
+(i) a letter from the law firm of Pinkofsky confirming payment of $2,725 in January 2001 and $275 in March 2001;
+(ii) a letter from Donald McLeod, lawyer, confirming payment of $4,000 "to prepare and argue at trial";
+(iii) verbal testimony of payment to a Mr. Osier, lawyer, of $3,000 for acting on the Hamiltonmatter; and
+(iv) verbal testimony of payment to a Mr. Guiste, lawyer, of $2,500 for acting in the internal police matter under the Police Services Act.
+[8] To support his claim for the 2002 legal fees Mr. Blackburn provided:
+(i) a letter from Pinkofsky's confirming payment of $3,000 in November 2002 for opinion and bail application, and also payment of a $6,420 retainer in December 2002, which was applied to accounts rendered in 2003; and
+(ii) verbal testimony of payment to Mr. Guiste in 2002 of $5,000 for acting in the internal police charges under the Police Services Act.
+Analysis
+[9] Paragraph 8(1)(b) of the Income Tax Act is the relevant section and it reads as follows:
+8(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+...
+(b) amounts paid by the taxpayer in the year as or on account of legal expenses incurred by the taxpayer to collect or establish a right to salary or wages owed to the taxpayer by the employer or former employer of the taxpayer;
+It is useful to start with a review of Justice Bowie's decision relating to Mr. Blackburn's 2000 taxation year. Justice Bowie found, relying on the decision of the Federal Court of Appeal in Blagdon v. The Queen[1]that, as there was no salary owing to Mr. Blackburn at the time of trial the claim to deduct legal fees to that point under paragraph 8(1)(b) must fail. However, with respect to fees paid for the appeal, Justice Bowie concluded the following:[2]
+[7] The fees paid to counsel on appeal are a different matter, however. As soon as he was sentenced, the Appellant started to lose income as the direct result of that sentence. His only possible remedy was to have the conviction and the sentence set aside, which he did. The restoration of his lost pay followed automatically. There was no hearing, and no need for a hearing, under the Police Services Act. The quashing of the conviction was effective to "... establish a right to salary or wages owed ..." to him.
+[8] It may seem superficially attractive to consider that the reasoning in Blagdon applies to fees paid for the appeal as well. No back pay was "owed to" Mr. Blackburn until he succeeded in his appeal and his conviction was quashed. However, when the expression "... to ... establish a right to salary or wages owed to the taxpayer ..." is read in its entirety, and in its context, it must be intended to include those situations in which the salary or wages become owing to the taxpayer as the result of the litigation (or other legal services) for which the expenses were incurred. To establish a right is to bring that right into being; if the wages were owing before the legal services were rendered then those services could not be said to have brought the right into being. Grammatically then, the phrase must include enforcing an existing right to salary and wages owing, and also establishing (bringing into existence) such a right to salary or wages, which thereupon become owing to the taxpayer. In the present case, the appeal did the latter, and so the fees for the appeal fall within the permissible deduction.
+[10] Mr. Blackburn argued that Justice Bowie did not consider the distinction between a public service employee, such as a police officer, and other employees, such as Mr. Blagdon, in relying upon the Blagdon case as a precedent. Because police officers are protected by law in not losing pay when facing criminal charges, Mr. Blackburn argued their situation is unique. I have not been convinced by Mr. Blackburn that the difference has any impact on the application of paragraph 8(1)(b) of the Act. If Mr. Blackburn continued to receive his pay, for any reason, paragraph 8(1)(b) is not engaged. In 2001, Mr. Blackburn did continue to receive his police salary for the entire year. No fees in connection with the criminal matter were incurred to enforce an existing right to salary, as he was already receiving his salary. Similarly, no such fees were incurred to bring into existence a right to salary: he had that right and was exercising it.
+[11] With respect to the 2001 fees that Mr. Blackburn claimed were in connection with the internal Police Services Act matter, Mr. Blackburn has provided no support for his suggestion that Mr. Guiste was paid $2,500, and that such payment related to this particular matter. Even had Mr. Blackburn been able to prove this payment, he faces the same dilemma as the fees in the criminal matter, in that in 2001 no salary was withheld or not paid to Mr. Blackburn. Are fees paid to a lawyer to fight internal dismissal charges contemplated by paragraph 8(1)(b)? In following Justice Bowie's approach they would not be as, unlike the results of an appeal which entitled Mr. Blackburn to back pay, that is amounts owing, a successful result in the internal police matter would have been that Mr. Blackburn kept his job, and would be entitled to future salary. I raise this as obiter only as I have found the payment to Mr. Guiste for such work has not been proven.
+[12] I turn now to 2002. In 2002, Mr. Blackburn did not receive his salary from the Niagara Regional Police Service from mid-July to his dismissal in December. The reason, however, was not due to a criminal conviction, but was due to having been put on sick leave without pay shortly before the conviction. Although Mr. Blackburn indicated I could perhaps draw an inference from the timing that the Niagara Regional Police Service actually anticipated the conviction, and that was what really motivated suspending his pay, I am not prepared to draw such an inference without more evidence. The effect of this finding is that any legal fees incurred by Mr. Blackburn for appealing his criminal conviction would not result in establishing a right to such salary, as it did in the case before Justice Bowie. However, I need not rely on this reasoning, as looking at the fees claimed by Mr. Blackburn in 2002, it is clear that the $3,000 payment to Pinkofsky was not in connection with an appeal, but was with respect to a bail application. It is also clear that the $6,240 paid to Pinkofsky in 2002 was as a retainer and was not ultimately released to pay accounts rendered until 2003. Finally, the $5,000 which Mr. Blackburn claimed was paid to Mr. Guiste for work in connection with the Police Services Act has simply not been proven.
+[13] For these reasons, Mr. Blackburn has been unable to establish that any legal fees are deductible pursuant to paragraph 8(1)(b) of the Act in 2001 and 2002 and his appeals are therefore dismissed.
+Signed at Ottawa, Canada, this 9th day of June 2006.
+"Campbell J. Miller"
+Miller J.
+CITATION: 2006TCC332
+COURT FILE NO.: 2005-4249(IT)I
+STYLE OF CAUSE: Meichland Blackburn and
+Her Majesty The Queen
+PLACE OF HEARING: Windsor, Ontario
+DATE OF HEARING: June 6, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: June 9, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gatien Fournier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2003 DTC 5491.
+[2] 2004 DTC 2409 at page 2411.

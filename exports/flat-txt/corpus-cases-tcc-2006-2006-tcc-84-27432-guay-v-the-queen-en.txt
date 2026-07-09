@@ -1,0 +1,156 @@
+Title: Guay v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27432/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-84-27432-guay-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-01-24
+
+# Guay v. The Queen
+
+- Citation: 2006 TCC 84
+- Decision date: 2006-01-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 254, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-24
+Neutral citation
+2006 TCC 84
+File numbers
+2005-139(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-139(IT)I
+BETWEEN:
+VINCENT GUAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard January 19, 2006, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment established June 2, 2003, under the Income Tax Act, for the 2002 taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of February 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 24th day of July 2006.
+Elizabeth Tan, Translator
+Citation: 2006TCC84
+Date: 20060224
+Docket: 2005-139(IT)I
+BETWEEN:
+VINCENT GUAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from an assessment established by the Minister of National Revenue (the "Minister") June 2, 2003, for the 2002 taxation year.
+[2] On August 18, 2003, the Appellant asked the Minister to subtract $39,707 from his income on the ground that the amount was received as damages.
+[3] On November 5, 2003, the Appellant was advised that his request to have $39,707 subtracted from his income for the 2002 taxation year was refused unless Collège François-Xavier-Garneau (the "College"), the issuer of the T4A slip, modified the T4A by writing "cancelled" on it. A new assessment was issued November 18, 2003, followed by a notice of objection dated December 2, 2003, and was ratified on October 7, 2004, maintaining the refusal to consider that the $39,707 was received as damages.
+[4] To establish the new assessment for the 2002 taxation year, the Minister relied on the following presumptions of fact:
+[translation]
+(a) the Appellant was hired by the Collège François-Xavier-Garneau as executive director on May 5, 1997, and his contract of employment was to conclude on June 30, 2002;
+(b) at the request of the Collège François-Xavier-Garneau, the Appellant was considered on leave with pay from January 21, 2002;
+(c) as a settlement between the Collège François-Xavier-Garneau and the Appellant, an out-of-court agreement dated February 15, 2002, set out the following measures, among others:
+(i) from the date of this out-of-court agreement, all employment ties between the Appellant and the Collège François-Xavier-Garneau ended permanently;
+(ii) the Collège François-Xavier-Garneau agreed, among other things, to pay the Appellant or his representative the following amounts:
+(a) $48,907.03 representing his salary for the period of February 7, 2002, to June 30, 2002;
+(b) $23,480.08 representing vacation owing or that could be owing to June 30, 2002;
+(c) $8,000 as professional fees payable to the law firm Fasken Martineau;
+(d) $5,000 for job search purposes;
+(e) $76,077 as severance pay;
+(f) $39,707, with no reason provided;
+(iii) the parties gave each other full and final release of all amounts due and the Appellant waived all recourse or proceedings regarding the facts that led to the present agreement;
+(iv) this transaction is made without any admission of the responsibilities of either party and constitutes a transaction within the meaning of articles 2631 et seq. of the Civil Code of Québec;
+(d) further to the agreement mentioned at the above paragraph, Collège François-Xavier-Garneau issued a T4A slip in the Appellant's name, regarding the $39,707 as a retirement allowance.
+[5] Following the breach of the contract of employment between the Appellant and his employer, the College, the two parties represented by counsel negotiated and accepted an agreement that was confirmed by a written agreement.
+[6] The appeal essentially addresses subparagraph 3(c) of the agreement between the College and the Appellant; the paragraph in question states:
+[translation]
+3. The COLLEGE agrees to pay MR. GUAY or his representative, the following amounts:
+...
+(c) thirty-nine thousand seven hundred and seven dollars ($39,707.00) to be transferred directly to MR. GUAY's RRSP account at the financial institution he indicated to the COLLEGE.
+[7] In accordance with the terms of the agreement mentioned in the preceding paragraph, which constituted a transaction, the College issued a T4A slip in the Appellant's name regarding the $39,707 as a retirement allowance.
+[8] The parties' positions are easy to summarize: the Respondent claims that the $39,707 was paid as a retirement allowance, whereas the Appellant claims that it was compensation paid as damages in lieu of wages for non-pecuniary damages following the breach of his contract of employment.
+[9] First, counsel representing the Appellant during the negotiations that led to the signing of the agreement explained that it was in fact compensation for damages.
+[10] In support of his claims, he explained the circumstances surrounding the breach of the contract of employment; to justify damages, he relied on two newspaper articles and a draft record of proceedings of a board meeting, allegedly corrected following a default notice that he himself addressed.
+[11] He also told of problems of extreme tension between the Appellant and the College's administration; he claimed that the institution insinuated that the Appellant did not have the knowledge and abilities required to achieve the College's goals according to its expectations. He also stated that the College, on one hand, lacked discretion and, on the other, did nothing to prevent the leak of private and confidential information that was very prejudicial to the Appellant's good reputation and that could have devastating effects during a search for new employment.
+[12] Jasmin Marcotte, counsel, also stated that the $39,707 could not in any way be considered a retirement allowance, since this would have been in violation of the regulations to which the College is subject.
+[13] If this was a retirement allowance as the T4A slip showed, the finding would be that the College overstepped its powers and regulations by paying the Appellant an allowance that was higher than what he was entitled to receive under these regulations.
+[14] Why did the parties, during the transaction, decide to word the text the way it was worded, when it would have been just as easy to write it according to the Appellant's claims?
+[15] To explain the wording or the reason for the vocabulary used when paragraph 3(c) of the Agreement was written, counsel representing the interests of the Appellant during the negotiations, a specialist in labour law, stated that the text was the result of discussions and it was the only way for the board's chair to get the board of directors to approve the agreement. He added that a reference to "damages" would most likely have annulled the agreement sought by the two parties, that were represented by counsel.
+[16] Counsel for the Appellant stated that the person in charge of the College had indicated that it would not have been possible or feasible to have the agreement accepted if it included the payment of any amount as damages.
+[17] The Respondent had Céline Fortin testify. She is the College's secretary general. She gave a completely different version of the facts. She also described the context and circumstances regarding the minutes, which she recorded during the meeting at which the issue of the Appellant's case was discussed.
+[18] Contrary to the Appellant's claims that there was wide distribution, she explained that the draft record of proceedings was not distributed and, on the contrary, they were handled very discretely and privately. Moreover, she indicated that special measures were taken so that the Appellant's case would remain highly confidential.
+[19] She also explained the various constraints set out in the regulations; surprisingly, she referred to the same regulatory provisions as the Appellant to justify and explain the nature of the amount in question.
+[20] So, from the same regulatory provision the Appellant used as a basis for his claims at the end of the contract of employment, she explained that when the Appellant was hired by the College, he had a similar position with another institution; as a result, the years spent there led to rights for his job at the College. Therefore, these were years of service that were to be taken into consideration when his benefits were calculated after the breach of the contract of employment. This, in itself, is not surprising, because teaching is governed by the same laws and regulations.
+[21] With this explanation, she then described the method used to reach the amount of $39,707. Essentially, the Appellant was paid the amounts to which he was entitled under the circumstances, in accordance with the regulations to which the College, the Appellant's former employer, was subject.
+[22] Ms. Fortin admitted receiving the Appellant's requests for corrections to the T4A slip, adding that her employer always refused to do so, and referred to the text of the agreement in accordance with the two parties' wishes at the time it was signed.
+[23] What is the nature of the $39,707 set out in subparagraph 3(c) of the agreement?
+[24] First, it seems reasonable to state that the text prepared by very competent legal counsel is very clear and does not allow for any ambiguity.
+[25] In my opinion, this in itself is sufficient to deal with the appeal. An assessment must be established based on the existing facts and documents, in particular when the parties' intentions are very clearly expressed.
+[26] Need I restate that the clause was written clearly and was only an issue for the Appellant? The agreement was written and approved by competent legal counsel.
+[27] Establishing an assessment based on what the parties did or did not express but allegedly would have wanted would effectively render our tax system completely incoherent.
+[28] The Appellant enthusiastically claims that this is an allowance paid to him essentially as compensation for damages he suffered. First, I would like to restate that the burden of proof was his.
+[29] Based on this reality, it would have been interesting, and even important, for a representative or representatives of the other party to give their versions.
+[30] To justify his interpretation, the Appellant submitted two newspaper articles, minutes and a default notice. Without denying that the conflict evidently affected the Appellant deeply and relationships had become very tense, the content of the newspaper articles were not subject to any particular proceedings and it is not up to this court to decide whether the articles justify the payment of damages.
+[31] As for the minutes, the explanations provided by Ms. Fortin and the entire process being put into context discredit the bitter complaints made by the Appellant on this issue, at least in part, and particularly on the fact that the documents in question were allegedly widely distributed.
+[32] These are the two grounds that would have justified the Appellant's right to punitive damages, in his opinion.
+[33] He also stated that he could not have received the $39,707 as a retirement allowance since this would mean the College had overstepped its powers by granting a benefit higher than that set out in the regulations, given the duration of his employment with the College.
+[34] First, the Appellant's claims and arguments stem from interpretations; he mentioned the default notice, the subject of which was the non-distribution of the minutes and he stated that he tried to have the T4A slip the College issued amended, which the College refused to do.
+[35] Ms. Fortin, secretary general at the College, explained how the events took place in a very different way. She revised each of the points the Appellant raised.
+[36] First she explained that the media that presented the problem were local papers with very limited circulation. She then explained the procedure that is followed when producing a draft record of proceedings and its final version, the only genuine version; she also spoke of the procedure regarding the confidential nature of the Appellant's personnel file. She clearly described the procedure that was followed after the deliberations and thus established the obvious care that was taken to protect confidentiality through the respect of trade practices.
+[37] As for the nature of the amount, she explained that the text of the agreement was absolutely in accordance with the parties' wishes and that it was no more or less than what was set out in the regulation.
+[38] She stated that, to establish the compensation owed to the Appellant, the College had to consider not only the length of time he worked at the College but also the length of time at the same duties. Since the Appellant held the same position at another college before he arrived, this meant he was eligible for the maximum compensation. This disproved the Appellant's claim.
+[39] Using this obligation as a basis, she explained in a very detailed way and also a very logical way why the amount was established at $39,707; she first mentioned that it was an amount the Appellant could transfer to his RRSP (registered retirement savings plan) and that only the Appellant was aware of this detail.
+[40] The amount was calculated with the consideration that the Appellant was eligible for compensation according to the work performed both for the College and previously for other colleges, not only for the duration of the work at the College, as the Appellant claims.
+[41] The version presented by Ms. Fortin is simple, coherent and without fault. The $39,707 was paid as a retirement allowance and corresponded to the information the Appellant himself provided regarding the amounts he could contribute to his RRSP.
+[42] A contribution resulted from what was done and not what the parties might have wanted to do. In tax matters, a taxpayer can organize his affairs as he wishes while respecting the relevant and applicable legislation to reduce his tax burden, but he cannot change his mind after the fact when a decision or transaction produces unexpected or undesirable tax results.
+[43] In this case, the text on which the assessment is based is very clear. It does not lead to any type of confusion. The effect of the Appellant's interpretation would be to completely modify the scope of this very clear text, which is inadmissible.
+[44] Moreover, if the text did not have the desired clarity and certain elements needed to be considered to give it meaning, I would have undoubtedly relied on Ms. Fortin's explanations, which were more likely, more coherent and more believable.
+[45] Under the circumstances and for these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 24th day of February 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 24th day of July 2006.
+Elizabeth Tan, Translator
+CITATION: 2006TCC84
+COURT FILE NO.: 2005-139(IT)I
+STYLE OF CAUSE: Vincent Guay and Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: January 19, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: February 24, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

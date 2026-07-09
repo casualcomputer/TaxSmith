@@ -1,0 +1,169 @@
+Title: Evoy Estate v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/182415/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-263-182415-evoy-estate-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-11-17
+
+# Evoy Estate v. The Queen
+
+- Citation: 2016 TCC 263
+- Decision date: 2016-11-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2938, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Evoy Estate v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-11-17
+Neutral citation
+2016 TCC 263
+File numbers
+2014-2459(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-2459(IT)G
+BETWEEN:
+THE ESTATE OF GEORGE KENNETH EVOY
+FOR DAVID G. EVOY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 25, 2016,
+at Montreal, Quebec.
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Wilfrid Lefebvre Q.C.
+Taj Kudhail
+Counsel for the Respondent:
+Benoit Mandeville
+AMENDED JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2008, 2009 and 2010 taxation years is allowed, with costs to the Appellant, in accordance with the attached Reasons for Judgment.
+This Amended Judgment is issued in substitution for the Judgment dated November 17, 2016. The Judgment is amended solely to add the name of Taj Kudhail as counsel for the Appellant.
+Signed at Vancouver, British Columbia, this 7th day of December 2016.
+“B.Paris”
+Paris J.
+Citation: 2016 TCC 263
+Date: 20161117
+Docket: 2014-2459(IT)G
+BETWEEN:
+THE ESTATE OF GEORGE KENNETH EVOY
+FOR DAVID G. EVOY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] The Appellant is one of three testamentary trusts created by the Last Will and Testament of George Kenneth Evoy, who died in 2007. In reassessing the Appellant for its taxation years ending December 31, 2008, December 31, 2009 and December 31, 2010, the Minister of National Revenue (the “Minister”) treated all three of the trusts as one individual, pursuant to subsection 104(2) of the Income Tax Act, (the “Act”) and included the income of all three trusts in the income of the Appellant. The reassessments resulted in additional taxable income of $136,450, $519,499 and $220,191 to the Appellant in those years, respectively. The Appellant is appealing the reassessments.
+[2] Subsection 104(2) allows the Minister to treat multiple trusts as a single trust for the purpose of the Act where two conditions are met:
+i) substantially all of the property of each trust has been received from the same person; and
+ii) each of the trusts is conditioned so that the income accrues or will ultimately accrue to the same beneficiary or group or class of beneficiaries.
+[3] The Appellant is disputing the reassessments on the basis that the second of these conditions has not been met in this case. The issue in this appeal is one of proper interpretation of this condition, set out in paragraph 104(2)(b).
+Legislation [4] Subsection 104(2) reads as follows:
+(2) A trust shall, for the purposes of this Act, and without affecting the liability of the trustee or legal representative for that person’s own income tax, be deemed to be in respect of the trust property an individual, but where there is more than one trust and
+(a) substantially all of the property of the various trusts has been received from one person, and
+(b) the various trusts are conditioned so that the income thereof accrues or will ultimately accrue to the same beneficiary, or group or class of beneficiaries,
+such of the trustees as the Minister may designate shall, for the purposes of this Act, be deemed to be in respect of all the trusts an individual whose property is the property of all the trusts and whose income is the income of all the trusts.
+Facts [5] The following facts are taken from the Agreed Statement of Facts filed at the hearing:
+The Establishment of the Testamentary Trusts
+1. During his lifetime, George Kenneth Evoy (Testator) was a shareholder of Evoy Production Control Ltd. (EPCL).
+2. The Testator died on November 12, 2007.
+3. The Testator was survived by his spouse Pauline Alice Evoy (Pauline), his three children, David G. Evoy (David), Karie Lynn Evoy (Karie), and Wendy Anne Thaler (Wendy), and their respective children.
+4. By last Will and Testament dated January 7th, 1997, as amended by Codicil (the Amended Will) dated April 6, 2001 (attached as Schedule A and Schedule B respectively), the Testator created three separate testamentary trusts, namely:
+a) the Appellant (also referred to herein as David’s Trust);
+b) The Estate of George K. Evoy for Karie Lynn Evoy (Karie’s Trust); and
+c) The Estate of George K. Evoy for Wendy Anne Thaler (Wendy’s Trust).
+5. Pursuant to subsection 6(c) of the Amended Will, the shares of EPCL owned by the Testator at the time of his death were divided into three approximately equal blocs of shares and one such bloc was bequeathed to each of the three testamentary trusts. The provisions of subsection 70(6) of the Income Tax Act, R.S.c. 1985, c. 1 (5th Supp.) (the Act) applied to each transfer.
+6. David’s Trust and Karie’s Trust each received 947,623 Class A Shares of EPCL, 476,048 Preference Shares of EPCL, and 200 Class 1 Shares of EPCL.
+7. Wendy’s Trust received 947,622 Class A shares of EPCL, 476,049 Preference Shares of EPCL and 200 Class 1 Shares of EPCL.
+The Terms of David’s Trust
+8. David’s Trust is governed by paragraph 6(c)(A) of the Amended Will.
+9. Subparagraph 6(c)(A)(i) of the Amended Will provides that Pauline is an income beneficiary of David’s Trust during her lifetime, and is entitled to be paid all of the net annual income derived from David’s Trust during such time.
+10. Subparagraph 6(c)(A)(ii) of the Amended Will provides that David and his children are income and capital beneficiaries of David’s Trust.
+11. After Pauline’s death, David and his children are to be paid all of the net annual income derived from David’s Trust, divided into such portions among them as the trustees may in their discretion determine, until the trustees decide to terminate David’s Trust.
+12. The trustees of David’s Trust may terminate David’s Trust no earlier than the third anniversary of Pauline’s death and no later than the twenty-first anniversary of her death.
+13. At the termination of David’s Trust, the trustees must pay the capital to David.
+14. If David predeceases the termination of David’s Trust, the trustees are to divide the capital upon termination among David’s issues in equal shares per stirpes.
+15. If, at the time the capital of David’s Trust is to be distributed, none of David and his children are alive, the capital of David’s Trust is to be divided among the Testator’s children then living in equal shares per stirpes.
+16. The portion of the capital of David’s Trust accruing to either Wendy or Karie, if any, is to be added to the capital of Wendy’s Trust or Karie’s Trust, as the case may be.
+The Terms of Wendy’s Trust
+17. Wendy’s Trust is governed by paragraph 6(c)(B) of the Amended Will.
+18. Paragraph 6(c)(B) of the Amended Will contains identical provisions to paragraph 6(c)(A), but substitutes Wendy and her children for David and his children.
+The terms of Karie’s Trust
+19. Karie’s Trust is governed by paragraph 6(c)(C) of the Amended Will.
+20. Paragraph 6(c)(C) of the Amended Will contains identical provisions to paragraph 6(c)(A), but substitutes Karie and her children for David and his children.
+The Distribution of Income Earned by the Three Trusts following the Death of the Testator
+21. Pauline was alive during the Appellant’s taxation years ended December 31, 2008, December 31, 2009, and December 31, 2010 and so were David, Karie and Wendy. Pauline is still alive.
+22. Pauline was therefore the sole beneficiary entitled to receive the net annual income earned by each of David’s Trust, Wendy’s Trust, and Karie’s Trust in respect of each of those taxation years.
+23. Pauline has been paid the net annual income of each of David’s Trust, Wendy’s Trust and Karie’s Trust in respect of each taxation year of those trusts since the death of the Testator.
+The Appellant’s Position [6] The Appellant maintains that the condition in paragraph 104(2)(b) is satisfied only if, during the entire existence of the three trusts, the income accrues or will ultimately accrue to the same beneficiary, or group or class of beneficiaries. The Appellant says that while the income of the three trusts in issue accrued to Pauline during the years in issue (and will continue to do so during her lifetime), the income will accrue to different beneficiaries after her death. Since the three trusts will not have common income beneficiaries after Pauline’s death, the Appellant submits that they cannot be treated as a single trust pursuant to subsection 104(2) during Pauline’s lifetime.
+The Respondent’s Position [7] The Respondent submits that the test in paragraph 104(2)(b) must be applied on an annual basis to determine whether, in the particular taxation year, the income of the trusts accrues to the same beneficiary or will ultimately accrue to the same beneficiary, or group or class of beneficiaries. This is because liability for income tax is determined on an annual basis for a taxation year.
+[8] The Respondent also submits that in any taxation year should the income from the trusts no longer accrue to the same beneficiary or group or class of beneficiaries, the Minister would have the power to re-designate under subsection 104(2). Counsel maintains that the power to designate is discretionary and the Minister may re-exercise that discretion if the conditions in that provision are no longer met.
+[9] In this case the Respondent says that it is clear that during the years under appeal, the income from each of the three trusts accrues only to Pauline, and therefore the condition in paragraph 104(2)(b) is met for the years under appeal.
+Analysis [10] The issue before the Court is the meaning to be given to the words “conditioned so that the income thereof accrues or will ultimately accrue to the same beneficiary or group or class of beneficiaries,” in paragraph 104(2)(b) and in particular whether the determination required by that wording is to be made on an annual basis or for the entire life of the trusts in question.
+[11] The approach to be taken in interpreting tax statutes was set out by the Supreme Court of Canada in Canada Trustco Mortgage Co. Ltd. v. Canada, 2005 SCC 54 at paragraph 10:
+It has been long established as a matter of statutory interpretation that “the words of an Act are to be read in their entire context ad in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament”: see 65302 British Columbia Ltd. v. Canada, [1999] / S.C.R. 804, at para. 50. The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words play a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provision of an Act as a harmonious whole.
+[12] The Supreme Court in Canada Trustco also stated at paragraph 13 that the Act is “an instrument dominated by explicit provisions dictating specific consequences, inviting a largely textual interpretation.”
+[13] In applying this approach in Canada v. Quinco Financial Inc., 2014 FCA 108, the Federal Court of Appeal said at paragraph 8:
+Overall, the Act consists of clear, precise rules to facilitate ease of application, consistency and predictability. This underscores the dominance of the plain meaning of the text of the Act in the process of interpreting provisions of the Act.
+[14] In the case before me, the text of paragraph 104(2)(b) appears to contemplate a consideration of the right to receive the income of the trust over the entire lifetime of the trust rather than for each taxation year. The inclusion of the wording “or will ultimately accrue” supports this conclusion. It is difficult to see how the use of the phrase “or will ultimately accrue” can be reconciled to a test that would only apply for one particular taxation year at a time.
+[15] Furthermore, there is nothing in that provision that would suggest that the test is applied annually, as the Respondent contends, and would require the reading in of an annual test that does not appear on the face of paragraph 102(4)(b).
+[16] Another flaw in the Respondent’s argument is that there is no power given to the Minister to re-designate a consolidated trust as multiple trusts in the event that the conditions set out in paragraph 104(2)(b) are no longer met in a subsequent taxation year, nor is any process for applying for a re-designation provided. The Respondent’s counsel says simply that since the Minister has the discretion to designate multiple trusts to be a single trust, it should be inferred that a discretion to re-designate also exists. Again, on a plain reading of subsection 104(2), no such discretion is given.
+[17] I would also note that subsection 104(2) sets out the general provision deeming a trust to be an individual for the purposes of the Act. That deeming provision is not concerned with any annual process or review of the trust, and so I find it less likely than not that the tests set out in paragraphs 104(2)(a) and (b) would be premised on an annual determination either.
+[18] With respect to context, I agree with counsel for the Appellant that subsection 104(2) provides for an exception to the general rule that each trust is treated as a separate individual for the purposes of the Act, entailing the filing of separate tax returns. If, however, multiple trusts were designated as a single trust under subsection 104(2) in one taxation year, but subsequently did not meet the condition in paragraph 104(2)(b), it would be impossible for the trustees to know if a return for each of the original unconsolidated trusts was required to be filed. The Respondent’s interpretation of paragraph 104(2)(b) would lead to unpredictable results for the taxpayer, something that the Supreme Court has cautioned against in Canada Trustco.
+[19] The parties agree that the purpose of subsection 104(2), as it relates to multiple trusts, is to prevent income splitting among a number of trusts each with the same beneficiary or group or class of beneficiaries, in order to take advantage of lower marginal rates in respect of the income of each of the trusts.[1]
+[20] In Canadian Income Taxation of Trusts, 3rd ed. (CCH 1993), author L. Raphael says at page 267:
+The apparent purpose of this provision is to prevent a settlor from splitting potential income of a trust for a beneficiary by the creation of several trusts, each with smaller incomes, for the same beneficiary.
+[21] I agree with the Appellant that the purpose of the provision in issue is to prevent income splitting between trusts that are identical over the entire period the trusts are in existence. This purpose accords more closely with the nature of a trust as a legal relationship that endures in the great majority of cases for longer than a taxation year. It also accords more closely with the means chosen to prevent the mischief of income splitting among multiple trusts – a one time designation by the Minister that the trusts be treated as a single trust. Had the purpose of the provision been to create an annual test, one would expect to find some indication that the designation would be done annually, or that it could be revoked at some future point.
+[22] The Respondent submits, in the alternative that, should I find that I must consider all beneficiaries of the trusts throughout the entire existence of the trusts for the purposes of subsection 104(2), the three trusts were still conditioned so that the income accrued or would ultimately accrue to the same beneficiary or group or class of beneficiaries, because the children of George Kenneth Evoy and their children were part of the same group or class of beneficiaries.
+[23] With respect to the alternative argument, the Respondent submits that the children of George Kenneth Evoy and their children are part of the same class of beneficiaries because they are all members of the same family. Although the term “class of beneficiaries” is not defined in the Act, the Respondent submits that according to ordinary dictionary definition of “class” means a group that shares common attributes or characteristics, and that members of the same family would form a class.
+[24] However, even accepting that the children and grandchildren of the testator form a class for the purposes of subsection 104(2), the difficulty faced by the Respondent here is that none of the trusts have the same children and grandchildren of the settlor as residual income beneficiaries. In other words, the entire class of children and grandchildren are not income beneficiaries of each trust. Rather, a different part of the class is named in each of the trusts. There are no “cross-over” beneficiaries amongst the children and grandchildren of the testator in any of the three trusts. Therefore the trusts are not conditioned so that the income will ultimately accrue to the same group or class of beneficiaries.
+[25] Insofar as the Respondent suggests that it is not necessary that each trust have the same beneficiaries in each trust and that it is sufficient that the beneficiaries of each trust are members of the same group or class, I do not believe that this can be supported on the language of paragraph 104(2)(b) which refers to “the same group or class” and not to “members of the same group or class.”
+[26] For all of these reasons, the appeal is allowed with costs to the Appellant.
+Signed at Ottawa, Canada this 17th day of November 2016.
+“B.Paris”
+Paris J.
+CITATION:
+2016 TCC 263
+COURT FILE NO.:
+2014-2459(IT)G
+STYLE OF CAUSE:
+THE ESTATE OF GEORGE KENNETH EVOY FOR DAVID G. EVOY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+February 25, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF AMENDED JUDGMENT:
+December 7, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Wilfrid Lefebvre Q.C.
+Taj Kudhail
+Counsel for the Respondent:
+Benoit Mandeville
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Wilfrid Lefebvre Q.C.
+Taj Kudhail
+Firm:
+Norton Rose Fulbright
+Montreal, Quebec
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] For the 2016 taxation year and on, the Act is being amended so that testamentary trusts with certain exceptions now will be required to pay tax at the top marginal rate on all of their income.

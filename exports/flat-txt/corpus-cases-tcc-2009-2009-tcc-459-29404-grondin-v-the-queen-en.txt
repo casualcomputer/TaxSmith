@@ -1,0 +1,136 @@
+Title: Grondin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29404/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-459-29404-grondin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-09-15
+
+# Grondin v. The Queen
+
+- Citation: 2009 TCC 459
+- Decision date: 2009-09-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6956, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grondin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-15
+Neutral citation
+2009 TCC 459
+File numbers
+2008-3585(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3585(IT)I
+BETWEEN:
+MARIO GRONDIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 29, 2009, at Montréal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Laurent Brisebois
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments under the Income Tax Act dated March 26, 2008, and April 7, 2008, concerning the 2004, 2005 and 2006 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 15th day of September 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 21st day of October 2009
+Margarita Gorbounova, Translator
+Citation: 2009 TCC 459
+Date: 20090915
+Docket: 2008-3585(IT)I
+BETWEEN:
+MARIO GRONDIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The appellant is appealing from reassessments dated March 26, 2008, and April 7, 2008, concerning the 2005 and 2006 taxation years. In the assessment dated April 7, 2008, the Minister of National Revenue (the Minister) disallowed the deduction claimed for the repayment of employment insurance benefits of $11,575 and allowed a non-capital loss deduction of $7,533. In the assessment dated March 26, 2008, the Minister disallowed a deduction claimed for repaying employment insurance benefits of $1,650.
+[2] The assessment dated April 7, 2008, also applied to the 2004 taxation year for which no tax was payable. The appellant sought an adjustment for the 2004 taxation year, but the respondent maintains that the appellant cannot appeal from the reassessment for 2004 because it had a nil balance.
+[3] The underlying facts of this case are as follows:
+(a) Following a work accident in 1999, the appellant received employment insurance benefits during the 2002 and 2003 taxation years;
+(b) Following a 2004 decision by the Commission de la santé et de la sécurité du travail (CSST), the appellant received worker's compensation benefits in the amount of $107,135 in 2004.
+(c) Following that decision, in 2004 the appellant repaid $20,078 of the employment insurance benefits received in 2002 and 2003;
+(d) As a result of that repayment, a $20,078 deduction was allowed to the appellant for the 2004 taxation year;
+(e) As the appellant's total income for 2004 was $118,021, the entire $20,078 deduction could be applied;
+(f) In addition to the $20,078 deduction, in 2004 the appellant was entitled to deduct the amount he had received in worker's compensation benefits, namely $107,135;
+(g) Of this $107,135, $97,943 was used to bring the appellant's income for the 2004 taxation year down to zero;
+(h) From the unused remainder of that $107,135 deduction, namely $9,192, the Minister subtracted the farm loss amount claimed by the appellant in 2004, namely, $1,659, and carried forward to the 2005 taxation year a non-capital loss of $7,533;
+(i) The Minister allowed no deductions to the appellant for the 2006 taxation year although the appellant had claimed a $1,650 deduction for the repayment of employment insurance benefits.
+[4] The appellant is claiming that he is suffering a financial loss on the ground that the repayment of his employment insurance benefits is deductible in computing his income for 2004 rather than 2002 and 2003, that is, the years during which the appellant had received employment insurance benefits.
+[5] First, the appellant's right of appeal for 2004 should be examined. Unfortunately for the appellant, it is well settled that there is no right of appeal from a nil assessment or from an assessment of a nil amount: see for example Interior Savings Credit Union v. Canada, 2007 FCA 15 (Federal Court of Appeal); Okalta Oils Limited v. M.N.R., 55 DTC 1176 (Supreme Court of Canada); and Faucher v. Canada, 94 DTC 1575 (Tax Court of Canada). For this reason, the appellant's appeal concerning the 2004 taxation year must be dismissed.
+[6] To determine whether the Minister correctly modified the claimed deduction of $11,575 to become a non-capital loss deduction of $7,533 for the 2005 taxation year and correctly disallowed the deduction of $1,650 claimed for the 2006 taxation year, the provisions of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the Act) concerning repayment of employment insurance benefits should be considered.
+[7] Paragraph 60(n) of the Act provides that a taxpayer can deduct an amount paid in the year as a repayment of employment insurance benefits. Paragraph 60(n) reads as follows:
+60. Other deductions – There may be deducted in computing a taxpayer’s income for a taxation year such of the following amounts as are applicable
+. . .
+(n) Repayment of pension or benefits – any amount paid by the taxpayer in the year as a repayment (otherwise than because of Part VII of the Unemployment Insurance Act, chapter U-1 of the Revised Statutes of Canada, 1985, or of Part VII of the Employment Insurance Act) of any of the following amounts to the extent that the amount was included in computing the taxpayer’s income, and not deducted in computing the taxpayer’s taxable income, for the year or for a preceding taxation year, namely,
+. . .
+(iv) a benefit described in subparagraph 56(1)(a)(iv),
+. . .
+[8] The benefit described in subparagraph 56(1)(a)(iv) of the Act is a benefit paid under the Employment Insurance Act. Subparagraph 56(1)(a)(iv) of the Act stipulates the following:
+56(1) Amounts to include in income for year – Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+(a) Pension benefits, unemployment insurance benefits, etc. – any amount received by the taxpayer in the year as, on account or in lieu of payment of, or in satisfaction of,
+. . .
+(iv) a benefit under the Unemployment Insurance Act, other than a payment relating to a course or program designed to facilitate the re-entry into the labour force of a claimant under that Act, or a benefit under Part I, VIII or VIII.1 of the Employment Insurance Act,
+[9] For clarity, it should be noted that the repayment of benefits under Part VII of the Employment Insurance Act is also deductible in computing a taxpayer's income under paragraph 60(v.1) of the Act, which sets out that
+(v.1) UI and EI benefit repayment – any benefit repayment payable by the taxpayer under Part VII of the Unemployment Insurance Act or Part VII of the Employment Insurance Act on or before April 30 of the following year, to the extent that the amount was not deductible in computing the taxpayer’s income for any preceding taxation year;
+[10] In the instant case, the appellant repaid the employment insurance benefits in 2004 and benefited in 2004 from a full deduction of the amount repaid.
+[11] However, part of the worker's compensation received by the appellant was not deducted in computing his income for the 2004 taxation year. Worker's compensation must be included in computing the taxpayer's income for the taxation year during which it is received, in accordance with paragraph 56(1)(v) of the Act, and is deductible in computing the taxpayer's taxable income under paragraph 110(1)(f) of the Act. Those provisions read as follows:
+56(1)(v) Workers’ compensation - compensation received under an employees' or workers' compensation law of Canada or a province in respect of an injury, a disability or death;
+110(1)(f) Deductions for payments – . . . any amount that is
+(i) . . .
+(ii) compensation received under an employees’ or workers’ compensation law of Canada or a province in respect of an injury, disability or death, except any such compensation received by a person as the employer or former employer of the person in respect of whose injury, disability or death the compensation was paid,
+[12] In accordance with the definition of "non-capital loss" found in subsection 111(8) of the Act, the Minister justly considered the part of the compensation that was not deducted in computing the appellant's income for 2004, namely, $9,192, to be non-capital loss. Paragraph (b) of item E of the formula for determining the non-capital loss of a taxpayer for a taxation year specifically refers to an amount deductible under paragraph 110(1)(f) of the Act cited above. Paragraph (b) of item E of that formula reads as follows:
+(b) an amount deducted under paragraph (1)(b) or section 110.6, or deductible under any of paragraphs 110(1)(d) to (d.3), (f), (g), (j) and (k), section 112 and subsections 113(1) and 138(6), in computing the taxpayer’s taxable income for the year, or
+[13] The amount of the appellant's non-capital loss for the 2004 taxation year was reduced by the farm loss amount of $1,659 claimed by the appellant. That reduction in the non-capital loss was required by item D of the formula for determining the non-capital loss of a taxpayer for a taxation year. Item D reads as follows:
+D is the amount that would be the taxpayer’s farm loss for the year if the amount determined for B in the definition “farm loss” in this subsection were zero,
+[14] The non-capital loss, as determined for the 2004 taxation year, was applied in full in computing the appellant's taxable income for the 2005 taxation year. No balance of the appellant's non-capital loss for 2004 could be carried forward to the 2006 taxation year.
+[15] Subparagraph 56(1)(a)(iv) and paragraphs 56(1)(v), 60(n) and 110(1)(f) of the Act are unambiguous. A review of the appellant's record showed no clear error on the part of the Minister.
+[16] The appellant was therefore correctly assessed in accordance with the facts and the Act, and his appeal must be dismissed.
+Signed at Ottawa, Canada, this 15th day of September 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 21st day of October 2009
+Margarita Gorbounova, Translator
+CITATION: 2009 TCC 459
+COURT FILE NO.: 2008-4874(IT)I
+STYLE OF CAUSE: MARIO GRONDIN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: July 29, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: September 15, 2009
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Laurent Brisebois
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

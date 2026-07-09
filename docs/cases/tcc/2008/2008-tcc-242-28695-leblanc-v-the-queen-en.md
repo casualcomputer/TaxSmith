@@ -1,0 +1,335 @@
+---
+title: "Leblanc v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28695/index.do"
+last_modified: "2008-05-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 242"
+citation2: ""
+neutral_citation: "2008 TCC 242"
+decision_date: "2008-05-09"
+language: "en"
+item_id: "28695"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1485
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:14:15.841000+00:00"
+cases_cited_count: 5
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "affe9ff7dcb8306ec501f7b51701ccc7c0cadd1caebadcd08195bd6bbb56447e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Leblanc v. The Queen
+
+- Citation: 2008 TCC 242
+- Decision date: 2008-05-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1485, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leblanc v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-09
+Neutral citation
+2008 TCC 242
+File numbers
+2005-1246(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1246(IT)G
+BETWEEN:
+RÉJEANNE LEBLANC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________________
+Appeal heard on May 7, 2007, at Jonquière, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances
+Counsel for the Appellant:
+Claude Lemieux and
+Patrice Gobeil
+Counsel for the Respondent:
+Martin Gentile
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made pursuant to the Income Tax Act for the 1999 taxation year is allowed with costs; however, the Appellant is entitled to one set of costs even though the judgment relates to two separate cases. The assessment is therefore vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of May 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 16th day of June 2008.
+Carole Chamberlin, Translator
+Docket: 2005-4051(GST)G
+BETWEEN:
+RÉJEANNE LEBLANC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 7, 2007, at Jonquière, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances
+Counsel for the Appellant:
+Claude Lemieux and
+Patrice Gobeil
+Counsel for the Respondent:
+Martin Gentile
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment respecting the Goods and Services Tax made pursuant to Part IX of the Excise Tax Act, on the same legal basis as the appeal in docket 2005‑1246(IT)G, is allowed in that the assessment is vacated, without costs, in accordance with the Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of May 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 16th day of June 2008.
+Carole Chamberlin, Translator
+Citation: 2008TCC242
+Date: 20080509
+Dockets: 2005-1246(IT)G
+2005-4051(GST)G
+BETWEEN:
+RÉJEANNE LEBLANC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal filed under the general procedure from an assessment made pursuant to section 160 of the Income Tax Act (the "Act") for the 1999 taxation year.
+[2] The notice of assessment was sent on January 15, 2004; the Appellant objected to the assessment on February 13, 2004. The Minister confirmed the assessment on January 17, 2005.
+[3] Most of the facts assumed were admitted by the Appellant. They are the following:
+[TRANSLATION]
+a) the Appellant and André L'Écuyer have been married since 1993;
+b) as at December 17, 2003, Mr. L'Écuyer owed the following amounts to the Minister of National Revenue pursuant to the ITA in respect of his 1998 and 1999 taxation years:
+Federal income tax:
+Penalties:
+Interest:
+$15,529.15
+$ 0
+$11,228.57
+$26,757.72
+c) prior to September 15, 1999, the couple's family residence, located at 664 Sacré‑Cœur, Alma, Quebec, had been the exclusive property of Mr. L'Écuyer; the hypothec charged on the residence, with the Royal Bank of Canada, had been in Mr. L'Écuyer's name and he alone had made the payments on it;
+d) on September 15, 1999, Mr. L'Écuyer transferred the family residence to the Appellant;
+e) as at that date, the residence's fair market value, based on its municipal assessment, was $104,000;
+f) the sales contract provided as consideration for the sale, among other things, the extinguishment of a loan of $60,000 made by the Appellant to Mr. L'Écuyer in March 1999;
+g) the sales contract also provided that the Appellant would take over the balance of the hypothecary loan with the Royal Bank of Canada, then in the amount of $35,412.18.
+[4] Paragraphs (h), (i) and (j), the facts not admitted by the Appellant that served as the basis for the assessment appealed, read as follows:
+[TRANSLATION]
+h) however, following the sale, the hypothec remained in Mr. L'Écuyer's name and Mr. L'Écuyer continued to be the sole person to make payments toward the outstanding balance;
+i) the difference between the fair market value of the property transferred, $104,000, and the fair market value of the consideration paid, $60,000, is therefore $44,000;
+j) the lesser of this difference ($44,000) and the amount of Mr. L'Écuyer's liability ($26,757.72) is $26,757.72.
+[5] The Appellant denied the content of paragraphs (i) and (j), but admitted that André L'Écuyer had made the payments on the amount secured by hypothec.
+Issue
+[6] The issue is whether the Appellant must be held jointly and severally liable for her spouse's tax liability in the amount of $26,757.72, pursuant to section 160 of the Act.
+Appellant's arguments
+[7] The Appellant argues that she paid sufficient consideration for the transfer to her name of the principal residence formerly owned by her spouse. According to the deed of assignment of the property, the loan of $60,000 that she had made to Mr. L'Écuyer in March 1999 was extinguished and she took over the hypothec with the Royal Bank of Canada on the principal residence (Exhibit A‑2). In her view, this was adequate valuable consideration for the property.
+[8] Under the terms of the notarial act, the Appellant assumed the debt secured by a hypothec held by the bank. However, the monthly payments were made by her spouse, the tax debtor in respect of whom the assessment was made pursuant to section 160 of the Act.
+[9] She submits that the only reason Mr. L'Écuyer made the payments was that the parties had not wanted to change the way they handled family expenses.
+[10] In fact, although the hypothec payments came directly from Mr. L'Écuyer's bank account, the Appellant provided her spouse with consideration of at least equivalent, if not higher, value by covering other family expenses.
+[11] The Appellant maintains that the hypothec payments corresponded to the amounts her spouse was required to contribute toward covering family expenses. She, on the other hand, contributed a higher proportion to the payment of those same expenses. This arrangement was based on an informal agreement arrived at on the basis of the parties' expectations, each having a great deal of experience with managing family finances.
+Respondent's arguments
+[12] The Respondent argues, first, that, since the principal residence was transferred to the Appellant without sufficient consideration, the provisions of section 160 of the Act should apply.
+[13] The Respondent in fact maintains that the Appellant's assumption of the hypothec on the principal residence in the amount of $35,412.18 and the extinguishment of the debt obligation in the amount of $60,000 was not valuable consideration for the transfer since Mr. L'Écuyer continued to make the hypothec payments and to act as though he owned the residence. The Respondent further argues that the Appellant did not actually take over the hypothec.
+[14] In the alternative, the Respondent submits that, if the Court were to find that the property was transferred for valuable consideration, it would still have to affirm the merit of the assessment, given that the Appellant did not assume the hypothec on the principal residence transferred to her, since Mr. L'Écuyer continued to make the hypothec payments to the bank, thereby making transfers without valuable consideration within the meaning of section 160 of the Act.
+[15] The Respondent submits that the payments made in performance of the obligation to pay a portion of family expenses proportional to each spouse's ability to pay did not constitute valuable consideration for the transfers made by Mr. L'Écuyer.
+[16] The Respondent adds that, in analyzing the facts, it is necessary to bear in mind that Mr. L'Écuyer not only continued to make the hypothec payments, but also continued to cover other family expenses.
+Testimony
+[17] Only the Appellant and André L'Écuyer testified. They described how they had met. After living together for a time, they had married. Having been married previously, Mr. L'Écuyer had two children at the time; the Appellant was the mother of one disabled child.
+[18] The L'Écuyer‑Leblanc family was a blended family. Both spouses had experience with a failed family life. The Appellant’s experience had made her want to avoid another difficult situation.
+[19] The couple managed family finances using two completely separate personal bank accounts, each of which could not be touched by the other spouse. They did not have a joint account. Each spouse had specific obligations and responsibilities and nothing was taken for granted.
+[20] The explanations given by the Appellant, such as the fact that Mr. L'Écuyer paid the cable bill because she felt it was an unnecessary expense, showed not only the extent to which responsibility for family money matters was shared, but also the fact that responsibilities were clearly defined. Each spouse was independent and payments were not made from a joint account to which both spouses contributed indiscriminately.
+[21] After marrying in 1993, Mr. L'Écuyer and Ms. Leblanc had three more children, one of whom also has a disability.
+[22] From the very beginning of their relationship, the Appellant remained financially independent. Her job in a financial institution meant she knew how to handle her finances and was responsible for a significant portion of the household expenses of the new family unit.
+[23] Very disciplined and methodical with regard to finances, the Appellant managed her personal affairs very carefully and strictly. She even managed to set aside savings of about $100,000 over the years.
+[24] On March 30, 1999, the Appellant made a loan to her spouse to help him with his business affairs; the interest rate was set at the base rate plus 1 per cent per annum; the loan was secured by a hypothec ranking third on the family residence.
+[25] Having learned from her previous marital experience to be careful with finances and having been warned by a family member about possible problems in recovering the money she had loaned her spouse, the Appellant reached an agreement with her spouse for the family residence to be transferred to her in consideration of the extinguishment of his liability to her. The Appellant also assumed the hypothec on the property.
+[26] At the time of the transfer, on September 15, 1999, accrued interest totalled $2,400.
+[27] Before the transaction was carried out, the Appellant stubbornly insisted that she wanted to prepay the amount owing on the hypothec. She did not want to be in debt. In fact, the Appellant stated that she abhorred debt. That was why she always paid bills as soon as she received them.
+[28] Her husband talked her out of paying off the hypothec that she had agreed to take over, pointing out that they had enjoyed years of harmony in the sharing of family expenses. The Appellant alone dealt with the many routine household expenses, while he, who was ill-disciplined and not careful, had only one major payment to make, tremendously simplifying the extent and management of his obligations toward the family.
+[29] The Appellant stated that she had for many years been using her own assets and income to cover all routine household expenses for food, clothing and recreation, medical costs, and so on.
+[30] Her husband, on the other hand, paid one large sum to cover the housing costs, freeing him from all the hassle of managing the multiple expenses related to running any household.
+[31] This way of doing things worked for them and kept the peace with regard to their respective financial responsibilities for the family. The Appellant stated that she did not like to carry any debt and so paid off any amounts due as quickly as possible.
+[32] The Appellant submitted that, following the transfer of the property, she had wanted to pay off the hypothec, but her husband had convinced her that it would be best to stick to what worked for them. She had reluctantly agreed.
+[33] The Appellant thus went along with her husband's suggestion, and he continued to make the monthly payments on the hypothec for which the Appellant had become liable following the transfer of the title to the property.
+[34] The Appellant and her husband stated that the hypothec payment was the husband's only contribution toward paying household expenses. The property encumbered with the hypothec was the family residence. It was not income property.
+[35] The spouse confirmed that the Appellant was in the habit of always paying bills as soon as she received them and not leaving any outstanding balances. He explained that he had suggested they keep doings things as they always had, feeling that it was easier to handle matters that way. It meant that he paid the hydro and cable bills and made the hypothec payments, and the Appellant dealt with all the other family expenses, including clothing, food and school-related costs, telephone charges, and dental and medical expenses.
+[36] To support the explanations given, the Appellant managed to find spending record entries for the expenses she covered, showing her very real attention to detail and, especially, her thorough knowledge of financial responsibilities related to family.
+[37] Her testimony was brief, reasonable and credible. This was clearly not a person who attempts to make up all kinds of explanations to suit a situation after the fact.
+[38] The Appellant's financial participation in covering household expenses was not only real, but also substantial. As regards the amount of the monthly hypothec payment, it was not disproportionate, but rather a more than reasonable amount that could easily correspond to the spouse's minimum liability for household expenses, falling under the heading of housing, a basic and essential part of the expenses of any family unit. However, no evidence was provided as to the market value of the housing.
+[39] In this type of matter, it is often necessary to seek out the truth, as the circumstances unfortunately make concealing the facts very tempting. The explanations in this case were reasonable and, more importantly, very plausible.
+[40] Since, in tax matters, the rule of preponderance of evidence always applies, the Court must analyze the facts based on the evidence adduced. The matters of a non-arm's length relationship and of tax liability, two key questions for the application of section 160 of the Act, are not at issue.
+[41] The Court must first determine whether the extinguishment of the $60,000 loan made to Mr. L'Écuyer by the Appellant in March 1999, which the Respondent did not challenge, and the assumption of the hypothec by the Appellant constituted sufficient consideration for the transfer of the principal residence.
+[42] If so, the Court must then decide whether the payments made by Mr. L'Écuyer following the transfer of the title to the house to the Appellant constitute transfers without consideration within the meaning of section 160 of the Act.
+[43] The Court must thus decide whether the Appellant's payment of the household expenses constitutes good and valuable consideration for those payments.
+[44] The Respondent considers the transfer of the property irrelevant, given that it did not actually change anything. This interpretation of the facts disclosed by the evidence shows the degree to which the Respondent disregarded the notarial act.
+[45] The notarial act is decisive proof that a transfer did indeed take place and also that consideration was given, in the form of the claim held by the Appellant against the transferor and the Appellant's assumption of the balance outstanding on the hypothec with the Royal Bank.
+[46] If the Respondent believed this to be a fake transaction, the Respondent should have challenged the quality of the notarial act by means of an action of improbation, which it did not do. Consequently, the notarial act is proof of the facts it asserts, and the argument that nothing changed between the spouses is somewhat ludicrous and, certainly, unfounded.
+[47] Subsection 160(1) of the Act reads as follows:
+SECTION 160
+(1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common- law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+[48] Section 160 of the Act has been the subject of a number of decisions since its coming into effect and the conditions for its application were recently reiterated in a decision of the Tax Court of Canada, Raphael v. Canada,[1] and reaffirmed by the Federal Court of Appeal[2]:
+The Tax Court Judge set out four conditions to be met in order for subsection 160(1) to apply and in so doing he was following a decision of the Tax Court, Doreen Williams v. The Queen, File No. 98-1604, July 4, 2000. Those conditions were:
+1) There must be a transfer of property;
+2) The transferor and transferee are not dealing at arm's length;
+3) There must be no consideration or inadequate consideration flowing from the transferee to the transferor; and
+4) The transferor must be liable to pay an amount under the Act in or in respect of the year when the property was transferred or any preceding year.[3]
+[Emphasis added.]
+[49] The Appellant admitted to not dealing with Mr. L'Écuyer at arm's length. She also acknowledged that he was a tax debtor by admitting paragraphs 7(a) and (b) of the Reply to the Notice of Appeal submitted by the Respondent. Consequently, two of the four conditions are not at issue. As for the transfer, it was adequately established by the notarial act.
+[50] Did the extinguishment of the $60,000 loan made to Mr. L'Écuyer by the Appellant in March 1999 and the assumption of the hypothec constitute sufficient consideration for the transfer of the property formalized by notarial act?
+[51] Secondly, did the payments made by Mr. L'Écuyer following the transfer of the property to the Appellant constitute transfers without consideration within the meaning of section 160 of the Act?
+[52] The evidence established that, on September 15, 1999, Mr. L'Écuyer agreed, by means of a notarial act, to transfer to the Appellant his ownership rights in the principal residence, which he alone owned. This transaction was confirmed by an authentic act, which may be contested only according to strict rules.
+[53] The mere argument that the Appellant and her husband made no changes in the way they lived or managed their personal affairs is not sufficient proof for a finding that there was no valuable consideration for the transfer. The Court must therefore set aside this argument and thus finds that the transfer was made for valuable consideration.
+[54] Having ruled out the Respondent's first argument, that the transfer was made without true consideration of equivalent value, the Court must consider whether the payments made by Mr. L'Écuyer in exchange for the transfer of ownership were appropriate consideration.
+[55] The Respondent has argued that, when the Appellant's spouse made the hypothec payments in question in her stead, after she assumed responsibility for the payments on the residence transferred, the payments were made without consideration. In other words, he made periodic transfers without consideration that were subject to the provisions of section 160 of the Act.
+[56] In this case, there is no question as to the payer, since the Appellant admitted that her spouse had made the payments. However, she was quick to add that the payments had not been made gratuitously or without consideration, maintaining that a distinction had to be made between form and substance.
+[57] Were such payments transfers between Mr. L'Écuyer and his spouse within the meaning of section 160 of the Act?
+[58] In Yates v. The Queen,[4] Mr. Justice McArthur stated the following:
+[…] The word "transfer" was defined in Fasken Estate v. Minister of National Revenue [reference omitted] wherein Thorson P. stated:
+The word "transfer" is not a term of art and has not a technical meaning. It is not necessary to a transfer of property from a husband to his wife that it should be made in any particular form or that it should be made directly. All that is required is that the husband should so deal with the property as to divest himself of it and vest it in his wife, that is to say, pass the property from himself to her. The means by which he accomplishes this result whether direct or circuitous, may properly be called a transfer.
+This definition has been accepted by this Court in recent years including in the decision in Tétrault v. R. [reference omitted], where at paragraph 39, Archambault, J. stated:
+... in order for there to be a transfer of property for the purposes of the attribution rules, it is essential that the transferor be divested of his ownership and that the property has vested in the transferee.[5]
+[59] The notion of transfer is very broad, even including situations where a person pays one of the spouse's creditors instead of giving money directly to the spouse. In other words, the fact that a transfer is made indirectly does not invalidate or lessen the extent of the transfer.
+[60] Accepting that the payments made by Mr. L'Écuyer were a transfer, the Court must decide whether they were made with or without consideration.
+[61] The Appellant submitted to the Court two decisions, Michaud v. Canada[6] by Madam Justice Lamarre Proulx and Ferracuti v. Canada[7] by McArthur J., in which the Court found that, when payments are made to fulfill a legal obligation related to family expenses, such transfers may be deemed transfers with consideration within the meaning of section 160 of the Act.
+[62] The Respondent has argued that this position was rejected by Mr. Justice Archambault in Tétrault v. Canada[8] and Mr. Justice Bédard, who concurred with the reasons for that decision, in Mathieu v. Canada.[9] The Respondent has stated that those two judgments were more in line with the provisions of section 160 of the Income Tax Act.
+[63] In fact, after lengthy analysis of the jurisprudence, Archambault J. found that fulfilling family obligations constituted a transfer without consideration within the meaning of section 160 of the Act for the recipient.
+[64] Thus, according to those judgments, transfers made by one spouse to the other in fulfillment of a legal obligation to meet the needs of the family were deemed to have been made without consideration within the meaning of section 160 of the Act.
+[65] There appear to be two different lines of authorities at the Tax Court of Canada.
+[66] The decision of Archambault J. in Tétrault, supra, merits analysis. In it, he explains why he is of the view that the performance of a domestic obligation cannot be consideration:
+The contribution to the expenses of the marriage is, in my opinion, in the nature of a donation by which a property is given without any consideration. [Reference omitted.] This analysis of the domestic obligation concurs with that made by Judge Mogan in the Raphael decision, where he says "[t]hose same domestic obligations, however, cannot be 'consideration' within the meaning of section 160...." (paragraph 27 of the decision). It also concurs with that in Logiudice, where it is explained that "The word consideration, as it is used in the context of section 160 of the Act, in its ordinary sense refers to the consideration given by one party to a contract to the other party, in return for the property transferred" and that "The limiting provision in subparagraph 160(1)(e)(i) of the Act is to protect genuine business transactions from the operation of the section" (paragraph 16 of the decision). It is also consistent with the analysis made by Judge Sobier in Sinnott v. The Queen, supra, at paragraph 19 (Q.L.), page 598 DTC:
+The Appellant's counsel put a good deal of emphasis on the argument that consideration was given for the transfer. But what was that consideration? Can it be said that the paying of household expenses is consideration for the transfers? Subparagraph 160(1)(e)(i) states that the joint liability of the transferor and transferee is an amount equal to the lesser of the amount by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property. At the time the transfers were made, no consideration was given.
+The absence of any consideration given in return for the performance of the domestic obligation readily explains why it [sic–Tr] highly problematic, if not impossible, to determine what the FMV would be of the transferee's right to receive the property transferred by the transferor pursuant to the latter's domestic obligation. Furthermore, as Judge Mogan said, even if a FMV could be determined, this right would not constitute "consideration given for the property". [Reference omitted.]
+Not only does this interpretation seem to me to be in greater harmony with the language of section 160 of the Act, but it is unavoidable in light of the interpretative presumption that the law is coherent and systematic. [Reference omitted.] Section 160 must be considered as a whole if we are to determine its scope. Subsection 160(4) [reference omitted] of the Act provides that the paragraph 160(1)(e) rule is of no effect when a spouse transfers property to the other spouse as a result of the breakdown of the marriage. For the purposes of this rule, the FMV of the transferred property is deemed to be nil. If the reasoning adopted in the Ferracuti, Michaud and Dupuis decisions were adopted, one would have to conclude that subsection 160(4) is of no use, for upon separation [reference omitted], the spouse's right to receive a portion of the other spouse's domestic estate is recognized by law, in this case the Civil Code, in particular in the rules governing the partition of the family patrimony set out in articles 414 et seq. of the Code. It then involves "a transfer of property ... in performing [a] legal obligation". [Reference omitted.] Furthermore, if the right to receive this property under the Civil Code constituted consideration, the FMV of which is equal to the FMV of the transferred property, it would not have been necessary to enact that the FMV of the transferred property is nil. On the contrary, I think Parliament assumed that such a transfer upon a separation constitutes a transfer without consideration and, were it not for subsection 160(4) of the Act, the transferee could have been jointly and severally liable for any tax debt of the transferor.
+Consequently, the conclusion is unavoidable: the transfer of property under a legal obligation (as in the partition of the family patrimony) constitutes a "transfer" for the purposes of section 160 of the Act and is subject to that section. The mere right to be the beneficiary of this obligation does not constitute a particular consideration. Likewise, the transfer of property to the other spouse in performance of a domestic obligation constitutes a transfer for which no consideration has been given, and there is nothing in section 160 that would allow this Court to exempt this transfer from its operation. [Reference omitted.][10]
+[Emphasis added.]
+[67] It is reasonable to believe that subsection 160(4) was included in the Act to take into account situations such as a separation where there may be a transfer of property without valuable consideration. Parliament wanted to ensure that the transfer of property in fulfilment of legal obligations rather than as an attempt by the taxpayer to avoid tax obligations would not be subject to the provisions of section 160.
+[68] The principle underlying section 160 was expounded by Mr. Justice Desjardins of the Federal Court of Appeal in Medland v. Canada,[11] as follows:
+It is not disputed that the tax policy embodied in, or the object and spirit of subsection 160(1), is to prevent a taxpayer from transferring his property to his spouse in order to thwart the Minister's efforts to collect the money which is owned to him. [67] The issue turns, however, on the proper meaning to be given to the terms used in subsection 160(1) of the Act, namely whether Mr. Medland "transferred property... indirectly by any other means" to his wife.[12]
+[69] Subsection 160(4) is intended to ensure that a person who becomes the lawful owner of property as a result of a separation or divorce is not obligated to pay the tax liabilities of the transferor, since the transfer is in performance of legal obligations. This subsection does not rule out the possibility of consideration associated with domestic obligations.
+[70] In this case, it was shown that the Appellant required that the principal residence be transferred to her for her own protection. Although the intent is not relevant in this matter, it can nevertheless be seen that title was transferred to the Appellant not to enable Mr. L'Écuyer to shirk his obligations to the Department (in other words, to shield his assets from taxation), but, rather, to protect the Appellant financially.
+[71] It is quite possible for payments made in performance of legal obligations to be subject to the provisions of section 160; however, it is also possible for payments for family expenses to constitute consideration in respect of a transfer.
+[72] In support of this position, in addition to Michaud and Ferracuti, supra, the Court refers to the recent decision by McArthur J. in Yates v. The Queen, supra, in particular the following extract:
+I accept the second approach to the effect that certain limited payments made for some household expenses by a spouse, who is obligated to support his or her family, are not subject to subsection 160(1). I believe these expenditures should be for daily living necessities as opposed to permitting an accustomed lavish standard of living. The Appellant cited the following cases which support this: Michaud c. R. [reference omitted], Ferracuti v. R., [reference omitted] Laframboise v. R. [reference omitted] and Ducharme v. R. [reference omitted].
+…
+I agree that the function of this Court under section 160 is not to parse a taxpayer's grocery bills in order to determine which food items are reasonable and which are not. Each case must be considered on its own merits. The Court must examine the evidence of the taxpayer with respect to household expenditures to determine which expenses, if any, are the vital household expenses that may be excluded from the reach of section 160. I say this because section 160 is a far-reaching collection tool in the Act. It has been described as draconian and Parliament drafted it as such. Accordingly, the exceptions to the reach of this section are narrow. In Ferracuti, I attempted to determine which expenditures were made in satisfaction of the person's legal obligation to support his family.[13]
+[73] The Appellant, whose credibility is not in question, stated that the consideration she gave for the hypothec payments was much greater than her contribution to household expenses.
+[74] The Appellant’s testimony, backed by the spending records, shows that her payments in respect of family expenses were higher than the payments made by her spouse.[14]
+[75] Citing the decisions in Tétrault v. Canada, 2004 TCC 332, and Mathieu v. Canada, 2004 TCC 135, the Respondent has argued that the amounts paid by the Appellant’s spouse in fulfilment of his responsibility for household expenses were not valuable consideration for the transfer, hence the position that the provisions of section 160 apply to the transfer.
+[76] The Court notes that the facts in this matter are different from those in Tétrault, in that the consideration provided by the Appellant is higher than the amounts paid by Mr. L'Écuyer to cover the hypothec payments.
+[77] The facts tend to support the Respondent’s view if one accepts the suggestion that the analysis of the facts must take into account only the form or method used, and not the context, the circumstances.
+[78] The fact that nothing changed in how the spouses conducted their family affairs has been admitted and acknowledged. Should this automatically lead to the conclusion that what was involved was payment without consideration? If things were that simple, the Respondent would be correct in stating that a transfer without consideration took place, since the Appellant and her spouse continued to live in the building that was transferred. In other words, does the fact that the Appellant and her spouse continued to live in the residence not contradict the notarial act, in that nothing changed, from a day-to-day perspective? The Court thinks not.
+[79] As for the monthly payments which the Appellant agreed to handle, she and her spouse reached an arrangement that worked for them while complying with the substance of the notarial act.
+[80] In Ferracuti, supra, McArthur J. stated:
+[21] Mr. Ferracuti had a "juristic reason" to make some payments. He had a legal obligation to support his family as set out in sections 30, 31 and 35 of the Ontario Family Law Act.
+[81] By analogy to the obligations provided for in the Civil Code of Québec, the Court finds that Mr. L'Écuyer had "a legal obligation to support" his family.[15]
+[82] Moreover, in Michaud, Lamarre Proulx J. stated:
+I consider that when the appellant's former spouse made the payments on the hypothec on the family house, which was the appellant's property, he was only performing a legal obligation, that of providing for the needs of his family by obtaining the housing it required. The appellant could have made these payments on the hypothec herself and her husband could have paid what the appellant undertook to pay. However, that is not how the family expenses were naturally distributed in this couple. In any case, this monetary distribution of the family expenses is not essential to my decision. While this case concerns a couple in which both spouses earned money, my decision would have been the same if only one of the two spouses earned the family income: a payment on a hypothec on a family residence is not in the nature of a transfer of property made without valuable consideration if the person making it does so in performing the legal obligation to provide for his or her family's needs.
+I should add that it is when the evidence discloses that the payment on the hypothec was made in performing the legal obligation to provide for the family's requirements that it was made for valuable consideration within the meaning of s. 160(1) of the Act. If for example the husband in the instant case had paid his wife both rent and payments on the hypothec, it is unlikely that the payments on the hypothec would have been made in performing a legal obligation to provide for the family's needs.[16]
+[83] The decision of the Federal Court of Appeal in Ducharme v. Canada[17] also supports the Appellant’s position in that the hypothec payments can also be deemed consideration by way of and in addition to the payment of rent. The reasons for this finding are as follows:
+Almost all of the amount in issue involved five and a half years of mortgage payments of approximately $500 per month. I will assume, without deciding, that the entirety of the mortgage payments were transferred to Ms. Ducharme by Mr. Vienneau as that assumption is most favourable to the Minister. Over the relevant period of time, Mr. Vienneau was either living in the mortgaged premises or, when he was away at work, had access to the premises at any time he wanted. The Tax Court judge found as a fact that at the time of the subject mortgage payments "rent for an equivalent (and apparently, average) house for the family in Fort St. John ranged between $1,200 and $1,500 per month" (at paragraph 6). The amounts paid by Mr. Vienneau were less than half of these monthly rentals.
+It is a reasonable inference to draw from these facts that Ms. Ducharme gave to Mr. Vienneau the availability and use of her house in consideration for his payments on the mortgage. The amounts paid by Mr. Vienneau were tantamount to rent. The amounts paid were well under what appeared to be the fair market rental value of Ms. Ducharme's house and it cannot reasonably be said that the "rent" paid by Mr. Vienneau by way of making monthly mortgage payments on Ms. Ducharme's mortgage exceeded the fair market value of the consideration given by Ms. Ducharme to Mr. Vienneau.
+Identifying the amounts paid by Mr. Vienneau as rent is not a re-characterization of the legal effect of transactions. It is simply a way of explaining that Mr. Vienneau received consideration equivalent to or greater than the amounts he transferred to Ms. Ducharme.
+In view of this conclusion, it is not necessary to address Ms. Ducharme's other arguments based on valuing domestic services or "domestic obligations" of spouses.[18]
+[84] In that judgment, the Court of Appeal thus supported the position that, where a transfer occurs as a result of hypothec payments made by a spouse for the residence of the other spouse, there may be consideration received by the person making the payments.
+[85] According to that position, it is necessary to determine the value of such consideration by determining the value of the rent a person would have to pay to live in the residence. In other words, the fact of not having to pay rent to live in the home of the other spouse is the consideration received.
+[86] Given the specifics in this case, the Court accepts the Appellant’s explanations that the transfer of the family residence was made for sufficient consideration.
+[87] Reaching an opposite conclusion would be absurd since the issue would probably not have arisen had André L’Écuyer assumed responsibility for other expenses and the Appellant handled the hypothec payments.
+[88] The payments were indeed transfers, but not without consideration. Should the Appellant be penalized for previously paying more than her share? Should she be penalized for wanting the domestic arrangements that suited the couple best?
+[89] The Appellant could have obtained a judgment for non-payment of the $60,000 claim against her spouse and obtained title to the property as consideration. Instead, she chose an approach that would foster harmony in her relations with her spouse. Should she be penalized for not wanting to take legal action against her spouse?
+[90] The Respondent is asking the Court to disregard the notarial act between the Appellant and her spouse, the tax debtor, but does not dispute the fact that the Appellant had a $60,000 claim against her spouse. The Respondent also maintains that the payments made periodically by the Appellant’s spouse were made gratuitously, without any consideration, and consequently were subject to the operation of section 160 of the Act.
+[91] Yet the arguments, explanations and evidence of the Appellant were as reasonable as and certainly better founded than those submitted by the Respondent in suggesting that the Court negate an authentic instrument.
+[92] In this case, the facts before the Court are straightforward and revealing; they could have taken a completely different form.
+[93] A number of scenarios come to mind, including one where the Appellant would have paid off the balance owing to the Royal Bank by means of a prepayment and then set the spouse’s contribution at an equivalent amount.
+[94] Her spouse could quite simply have paid the Appellant the equivalent amount each month and let her make the hypothec payments from her own bank account.
+[95] The Respondent would have the Court completely disregard the notarial act in analyzing this case and give precedence to form rather than substance in interpreting the facts. The Respondent suggests that the Court reject the Appellant’s explanations, which are credible and reasonable in the context and the circumstances.
+[96] It is true that the couple's arrangement raises some questions and leaves the door open to speculation. However, the Court considers that those same facts reveal a lack of intent to use one or more transactions to avoid tax liability. Moreover, in tax matters, a key principle is that the Act applies to actions taken, not to actions that taxpayers may have intended to take.
+[97] The Court does not believe that it is flouting this basic principle in this case by accepting the Appellant’s claims; an agreement was indeed reached between the Appellant and her spouse at a given point in their lives because they had separate assets and, more importantly, their own past experiences.
+[98] This agreement involved two steps, the first being the signing of a notarial act, the content of which cannot be impugned based on the evidence before the Court.
+[99] As for the second step, involving the repayment of the amount outstanding to the Royal Bank, the Appellant formally assumed liability in this regard.
+[100] The manner in which the obligation was fulfilled does raise some questions or at least supports the Respondent’s contention that the Appellant did not assume her obligations.
+[101] The Court agrees that, in terms of form, the Appellant’s way of doings things might support the Respondent’s arguments. However, the explanations given to the Court and the context in this case lead the Court to find that the Appellant in all likelihood assumed the obligations flowing from the notarial act. There is accordingly no need to consider the Respondent’s ill-considered suggestion and disregard the notarial act.
+[102] It is true that the couple's arrangement was questionable, even clumsy, but not so much so that certain facts in the case or the Appellant’s arguments should be dismissed out of hand, especially since it would have been very easy for the Appellant to manage her personal affairs in such a manner as to make everything seamless and unassailable.
+[103] For these reasons, the appeals are allowed, with costs to the Appellant.
+Signed at Ottawa, Canada, this 9th day of May 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 16th day of June 2008.
+Carole Chamberlin, Translator
+CITATION: 2008TCC242
+COURT FILE NOS.: 2005-1246(IT)G and 2005-4051(GST)G
+STYLE OF CAUSE: RÉJEANNE LEBLANC AND HER MAJESTY THE QUEEEN
+PLACE OF HEARING: Jonquière, Quebec
+DATE OF HEARING: May 7, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENTS: May 9, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Claude Lemieux and
+Patrice Gobeil
+Counsel for the Respondent:
+Martin Gentile
+COUNSEL OF RECORD:
+For the Appellant:
+Names: Claude Lemieux and Patrice Gobeil
+Firm: Simard, Boivin, Lemieux
+City: Alma, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2000 D.T.C. 2434.
+[2] Raphael v. Canada, 2002 FCA 23.
+[3] Para. 4.
+[4] 2007 CarswellNat 2626, 2007 TCC 498 (general procedure).
+[5] Para. 14.
+[6] 99 D.T.C. 43 (Fr.), 1998 CarswellNat 1782, [1998] T.C.J. No. 908 (QL) (general procedure).
+[7] 1998 CarswellNat 1915, 99 D.T.C. 194, [1999] 1 C.T.C. 2420 (general procedure).
+[8] 2004 CarswellNat 1370, 2004 TCC 332, [2004] 4 C.T.C. 2234, 2004 D.T.C. 2763 (informal procedure).
+[9] 2004 CarswellNat 1935, 2004 TCC 135 (informal procedure).
+[10] Paras. 47–50.
+[11] [1998] F.C.J. No. 708 (QL).
+[12] Para. 14.
+[13] Paras. 19 and 29.
+[14] Page 9 of the transcript.
+[15] See article 396 of the Civil Code of Québec.
+[16] Paras. 19 and 20.
+[17] 2005 CarswellNat 3642, 2005 FCA 137, (sub nom. R. v. Ducharme), 2005 D.T.C. 5249 (Eng.), [2005] 2 C.T.C. 323, 2005 FCA 137.
+[18] Paras. 4–7.

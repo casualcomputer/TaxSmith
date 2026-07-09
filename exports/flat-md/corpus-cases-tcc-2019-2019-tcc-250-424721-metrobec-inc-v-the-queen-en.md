@@ -1,0 +1,468 @@
+---
+title: "Metrobec Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/424721/index.do"
+last_modified: "2019-11-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 250"
+citation2: ""
+neutral_citation: "2019 TCC 250"
+decision_date: "2019-11-18"
+language: "en"
+item_id: "424721"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4277
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:59:48.318000+00:00"
+cases_cited_count: 10
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a22898bb67b15681aa6bfcfb6df6c020e1bb8390a83620b8b8ab6112273c6b44"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Metrobec Inc. v. The Queen
+
+- Citation: 2019 TCC 250
+- Decision date: 2019-11-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4277, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Metrobec Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-11-18
+Neutral citation
+2019 TCC 250
+File numbers
+2017-2735(GST)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2017-2735(GST)G
+BETWEEN:
+METROBEC INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motion heard on September 12 and 13, 2019, at Montréal, Quebec.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the applicant:
+Michel Beauchamp
+Gabriel Bezeau
+Counsel for the respondent:
+Antoine Lamarre
+Christian Lemay
+ORDER
+UPON the amended motion filed by the applicant on June 28, 2019, in order to obtain:
+An order to strike out paragraphs 49h), 49i), 49j), 49k), 49l), 49m), 49n), 49o), 49p), 49q), 49r), 49s) and 49t), the heading “Valleyfield sham suppliers” and paragraphs 49z), 49aa), 49bb), 49cc), 49dd), 49ee), 49ff), 49gg), 49hh), 50c), 50d), 50e), 50f), 50g), 50h), 50i), 50j), 50k), 50l), 50m), 50n), 50o), 50p), 51b), 51c), 51d), 51e), 51f), 51g), 51h), 51i), 51j), 51k), 51l), 51m), 51n), 51o), 52d)i), 52e)i), 55b), 55d), 55e) and 55f) of the Reply to the Amended Notice of Appeal dated August 3, 2018, pursuant to section 53 of the Tax Court of Canada Rules (General Procedure);
+An assessment of costs against the respondent;
+AND UPON the affidavit of Caroline Desrosiers;
+AND after hearing the submissions of the parties;
+The motion is allowed in accordance with the attached reasons for order. The respondent may file an amended Reply to the Amended Notice of Appeal within 30 days following the date of this order.
+Costs in the cause.
+Signed at Ottawa, Canada, this 18th day of November 2019.
+“Johanne D’Auray”
+D’Auray J.
+Translation certified true
+on this 30th day of January 2020.
+François Brunet, Revisor
+Citation: 2019 TCC 250
+Date: 20191118
+Docket: 2017-2735(GST)G
+BETWEEN:
+METROBEC INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+D’Auray J.
+I. Motion
+[1] June 28, 2019, Metrobec inc. (“Metrobec”) filed a motion to strike out paragraphs 49h), 49i), 49j), 49k), 49l), 49m), 49n), 49o), 49p), 49q), 49r), 49s) and 49t), the heading “Valleyfield sham suppliers” and paragraphs 49z), 49aa), 49bb), 49cc), 49dd), 49ee), 49ff), 49gg), 49hh), [1] 50c), 50d), 50e), 50f), 50g), 50h), 50i), 50j), 50k), 50l), 50m), 50n), 50o), 50p), 51b), 51c), 51d), 51e), 51f), 51g), 51h), 51i), 51j), 51k), 51l), 51m), 51n), 51o), 52d)i), 52e)i), 55b), 55d), 55e) and 55f) of the Reply to the Amended Notice of Appeal dated August 3, 2018, pursuant to section 53 of the Tax Court of Canada Rules (General Procedure) (“Rules”).
+II. Background
+[2] Metrobec was incorporated on June 1, 2012, under the Canada Business Corporations Act following a merger between Acier Metropolitan Inc. and Métaux Lorbec Ltée.
+[3] Metrobec operates a scrap and old metal business. It therefore purchases scrap metal, that is, ferrous and non‑ferrous metals.
+[4] During the periods at issue, Metrobec purchased scrap metal from 12 suppliers located in Valleyfield (“Valleyfield suppliers”). It is these transactions with these suppliers that are at issue. The Valleyfield suppliers are:
+Company
+Director
+Shareholder
+Well-Dom Aménagement paysagiste
+Dominic Ouellet
+Dominic Ouellet
+Agence de personnel E.B. Inc.
+Éric Blouin
+Éric Blouin
+9229-8371 Québec Inc.
+Éric Blouin
+Éric Blouin
+Installation Info E.B. Inc.
+Éric Blouin
+Éric Blouin
+Services Entretien JHG
+Daniel Blouin
+Daniel Blouin
+9268-7193 Québec Inc. (Reno)
+Daniel Blouin
+Daniel Blouin
+9268-7219 Québec Inc. (Gestion)
+Daniel Blouin
+Daniel Blouin
+Transport Fleur-Ange
+Craig Smith
+Craig Smith
+Habitation Confort Énergétique Inc.
+Craig Smith
+Craig Smith
+Metal FLG Inc
+Craig Smith
+Craig Smith
+9283-7061 Québec Inc.
+Léo-Sébastien Fortier
+Léo-Sébastien Fortier
+9283-3888 Québec Inc.
+Léo-Sébastien Fortier
+Léo-Sébastien Fortier
+[5] When it purchased this scrap, Metrobec issued purchase orders to the Valleyfield suppliers reflecting the transactions. In other words, during the scrap metal purchase transactions, Metrobec prepared invoices for the Valleyfield suppliers. According to Metrobec’s submissions, the invoices all contain the information required under subsection 169(4) of the Excise Tax Act (“ETA”) and the ETA Input Tax Credit Information (GST/HST) Regulations (“ITC Regulations”). Metrobec therefore argues that it is entitled to claim the input tax credit (“ITC”) that it paid to these suppliers.
+[6] The Valleyfield suppliers did not remit to the Receiver General the GST from the transactions with Metrobec.
+[7] The Minister of National Revenue (the “Minister”) denied the ITC claimed by Metrobec for the transactions with the Valleyfield suppliers.
+[8] The respondent argues that the Valleyfield suppliers are not the real suppliers. The latter were allegedly used to hide the real suppliers.
+[9] According to the respondent, Metrobec knew or ought to have known that the Valleyfield suppliers were not the real suppliers. The respondent therefore argues, among others, that:
+− the invoices are false because the name on the invoice was not the name of the real supplier;
+− Metrobec participated in sham transactions with YvesSt‑Denis (“Mr. St‑Denis”), PlanèteMétal inc. (“PlanèteMétal”) and the Valleyfield suppliers, whose aim was to:
+§ enable the real suppliers to avoid including these sales in their revenue calculations;
+§ enable the real suppliers to not charge or remit GST on these sales; and
+§ enable Metrobec to claim the ITC on these metal purchases, when GST had not been remitted.
+[10] Penalties were also imposed by the Minister under subsection 285(1) of the ETA.
+[11] Metrobec argues that it is entitled to claim the ITC for the periods at issue. Metrobec states that the Valleyfield suppliers were all companies. Metrobec conducts thousands of transactions and could not have known that the Valleyfield suppliers were not the real suppliers, if such is the case. Metrobec also argues that it did not participate in transactions meant to dodge taxes. In addition, the invoices for the purchases contain the information required under the ITC Regulations.
+III. Applicable statutory provision
+[12] Section 53 of the Rules provides as follows:
+53 (1) The Court may, on its own initiative or on application by a party, strike out or expunge all or part of a pleading or other document with or without leave to amend, on the ground that the pleading or other document
+(a) may prejudice or delay the fair hearing of the appeal;
+(b) is scandalous, frivolous or vexatious;
+(c) is an abuse of the process of the Court; or
+(d) discloses no reasonable grounds for appeal or opposing the appeal.
+(2) No evidence is admissible on an application under paragraph (1)(d).
+(3) On application by the respondent, the Court may quash an appeal if
+(a) the Court has no jurisdiction over the subject matter of the appeal;
+(b) a condition precedent to instituting an appeal has not been met; or
+(c) the appellant is without legal capacity to commence or continue the proceeding.
+IV. Application of section 53 of the Rules
+[13] The criterion applicable to striking out passages from pleadings pursuant to section 53 of the Rules involves determining whether it is plain and obvious that the passages of the pleading at issue have no chance of success.
+[14] In R v. Imperial Tobacco Canada Ltd., [2] the Supreme Court of Canada stated that a claim will only be struck if it is plain and obvious that the alleged facts disclose no reasonable cause of action. More specifically, McLachlin C.J. of the Supreme Court of Canada writes as follows in paragraph 17:
+. . . This Court has reiterated the test on many occasions. A claim will only be struck if it is plain and obvious, assuming the facts pleaded to be true, that the pleading discloses no reasonable cause of action . . . Another way of putting the test is that the claim has no reasonable prospect of success. Where a reasonable prospect of success exists, the matter should be allowed to proceed to trial . . .
+[15] In Gramiak v. The Queen, [3] Mr. Gramiak moved to strike certain passages of the respondent’s Reply to the Notice of Appeal. In that case, Rossiter A.C.J. summarized the case law principles relating to section 53 of the Rules, referring to the remarks of Bowman C.J. (his title at the time):
+The plain and obvious test has been longstanding and widely accepted in Canadian jurisprudence as the test for motions to strike. In the decision in Sentinel Hill Productions (1999) Corporation, Robert Strother v. The Queen, 2007 TCC 742, Bowman C.J., provided a useful overview of the principles that govern the application of Rule 53:
+[4] I shall begin by outlining what I believe are the principles to be applied on a motion to strike under Rule 53. There are many cases in which the matter has been considered both in this court and the Federal Court of Appeal. It is not necessary to quote from them all as the principles are well established.
+(a) The facts as alleged in the impugned pleading must be taken as true subject to the limitations stated in Operation Dismantle Inc. v. Canada, [1985] 1 S.C.R. 441 at page 455. It is not open to a party attacking a pleading under Rule 53 to challenge assertions of fact.
+(b) To strike out a pleading or part of a pleading under Rule 53, it must be plain and obvious that the position has no hope of succeeding. The test is a stringent one and the power to strike out a pleading must be exercised with great care.
+(c) A motions judge should avoid usurping the function of the trial judge in making determinations of fact or relevancy. Such matters should be left to the judge who hears the evidence.
+(d) Rule 53 and not Rule 58, is the appropriate rule on a motion to strike.
+[16] Moreover, as stated in Heron v. The Queen, [4] an allegation in a pleading will be deemed irrelevant only if, at first sight, it is quite clear that the allegation is irrelevant. If there is any doubt as to the allegation’s relevancy, it is wiser not to strike out the allegation.
+[17] Therefore, a paragraph or part of a paragraph will only be struck out from a pleading if it is plain and obvious that the alleged facts disclose no reasonable cause of action. When in doubt, it is best to leave the determination of the relevancy of the facts to the trial judge, who, unlike the judge presiding over the motion, will have access to all of the evidence.
+V. Analysis
+[18] Metrobec is moving to strike four groups of paragraphs. The paragraphs in question are all assumptions of fact that the Minister used as a basis to make new assessments with respect to Metrobec.
+[19] The assumptions of fact that the Minister used to make an assessment play an important role in tax law. The purpose of the assumptions is to inform the taxpayer of the facts that the Minister considered when making an assessment.
+[20] In addition, as for assumptions of fact, there is a presumption of truth. That is because a taxpayer is in a better position to establish the facts in his or her case than the Minister. The taxpayer is the one who knows how and why their business runs. Generally, the taxpayer also knows and possesses information that the Minister does not. [5] In the light of this presumption, the assumptions must be clearly stated and must be accurate, complete and truthful. This provides the taxpayer with the factual basis for the assessment and makes it possible to establish that the assumptions of fact considered by the Minister are erroneous.
+[21] That said, in some circumstances where the Minister has exclusive knowledge of the assumptions of fact stated, it will be for the Minister to prove those facts.
+[22] According to the case law, the Minister must use as a basis assumptions of fact rather than conclusions of law or conclusions of mixed fact and law. The Minister must also refer to facts, not evidence supporting the facts. It goes without saying that alleged assumptions of fact must be relevant to the matters at issue.
+[23] In the case at hand, the parties acknowledge the legal principles governing assumptions of fact considered by the Minister to make an assessment. However, the parties do not agree on what constitutes an assumption of fact, an assumption of mixed fact and law, or an assumption of law. In Canada (Director of Investigation and Research) v. Southam Inc., [6] Iacobucci J. of the Supreme Court of Canada acknowledged that it is not always easy to determine what constitutes an assumption of fact compared with an assumption of law or an assumption of mixed fact and law:
+[35] . . . Briefly stated, questions of law are questions about what the correct legal test is; questions of fact are questions about what actually took place between the parties; and questions of mixed law and fact are questions about whether the facts satisfy the legal tests. A simple example will illustrate these concepts. In the law of tort, the question what “negligence” means is a question of law. The question whether the defendant did this or that is a question of fact. And, once it has been decided that the applicable standard is one of negligence, the question whether the defendant satisfied the appropriate standard of care is a question of mixed law and fact. I recognize, however, that the distinction between law, on the one hand, and mixed law and fact on the other, is difficult. On occasion, what appears to be mixed law and fact turns out to be law, or vice versa.
+[24] Before the paragraphs that Metrobec is moving to strike out are analyzed, the position of each party regarding the appeal on the merits must be determined.
+[25] During the hearing, Metrobec argued that the issue in this case is whether the invoices meet the requirements of subsection 169(4) of the ETA and the ITC Regulations, as the Minister acknowledges that Metrobec purchased scrap metal from the Valleyfield suppliers. Metrobec argues that it could not have known that the Valleyfield suppliers were not the real suppliers, if such were the case. It argues that it could not be held responsible for the actions of third parties. Therefore, according to Metrobec, all of the Minister’s assumptions about Planète Métal, the Valleyfield suppliers and Mr. St‑Denis and their respective roles in a false invoice scheme are irrelevant to the issue in the case at hand. These allegations should all be struck out.
+[26] According to the respondent, the issue is not to determine whether the invoices meet the requirements of the ITC Regulations, but to determine whether Metrobec participated in sham transactions, making the invoices false. The respondent claims that Metrobec knew or ought to have known about a scheme involving Planète Métal, Mr. St‑Denis and the Valleyfield suppliers. The respondent argues that the scheme, orchestrated by the latter, hid the real suppliers. The respondent therefore argues that, in the case at hand, the invoices are false. The respondent also argues that where a sham has been invoked, the circumstantial evidence as a whole is what will establish the existence of sham transactions. The respondent specifies that the assumptions considered by the Minister are based on facts used to establish circumstantial evidence, and it is in this context that I must analyze the assumptions of fact.
+[27] I agree with the respondent that the issue is not limited to the application of the ITC Regulations, but rather, it must be determined whether the transactions in the case at hand are a sham. Both Metrobec’s Notice of Appeal and the Reply to the Notice of Appeal refer to the legal notion of sham. [7] It is in this context and in the light of the strike‑out case law that I must decide whether some of the assumptions considered by the Minister should be struck out.
+First group of assumptions: Planète Métal
+[28] The first group of assumptions that Metrobec is moving to strike out are those pertaining to Planète Métal, namely the following paragraphs from the Reply to the Notice of Appeal: [8]
+49h) Planète Métal was incorporated in May 2005 and declares performing activities related to the acquisition of metal, aluminum and steel;
+49i) Louise Cousineau is the sole shareholder of Planète Métal;
+49j) Yves St-Denis acts as director of Planète Métal;
+49k) Yves St-Denis manages Planète Métal’s operations;
+49l) the appellant is Planète Métal’s only declared client;
+49m) since at least June 2010, the appellant owns all the assets used at Planète Métal’s business premises in Valleyfield;
+49n) the appellant assumes expenses related to scrap metal operations performed at Planète Métal’s business premises in Valleyfield;
+49o) the appellant assumes Planète Métal’s fiscal debts or liabilities and interacts with provincial and federal tax authorities concerning Planète Métal’s fiscal file;
+49p) the appellant refers to its accounts or employees related to Planète Métal as “Valleyfield” or “Valleyfield operations”;
+49q) Planète Métal is a façade for the appellant’s operations in Valleyfield;
+49r) All or part of the scrap metal operations performed by Planète Métal in Valleyfield are operations of the appellant;
+49s) the appellant manages the Valleyfield scrap metal operations in collaboration with Yves St‑Denis;
+49t) the appellant deals regularly with Yves St‑Denis;
+[29] Metrobec argues that the assumptions in these paragraphs are irrelevant to the issue in this case because they have no connection to it. Metrobec argues that Planète Métal is a third party and that it has no ties with the Valleyfield suppliers referred to in the Reply to the Notice of Appeal. According to Metrobec, if Mr. St‑Denis had previously been involved in transactions relating to false invoices, the Minister cannot cite, in his Reply to the Notice of Appeal, previous transactions that are unrelated to the appeal in the case at hand. Metrobec argues that the Minister cannot assume that Metrobec participated in a scheme to allow third parties to dodge payment of GST on the ground that Mr. St‑Denis is allegedly a “de facto” director of Planète Métal and the Valleyfield suppliers.
+[30] Moreover, Metrobec argues that some assumptions are not assumptions of fact, but rather, legal conclusions or assumptions that raise questions of mixed fact and law.
+[31] The respondent argues that the transactions in question are sham transactions. Metrobec allegedly used Planète Métal and the Valleyfield suppliers to hide the real suppliers.
+[32] According to the respondent, Metrobec plays a major role in Planète Métal activities. Moreover, Mr. St‑Denis is a de facto director of Planète Métal and the Valleyfield suppliers/companies. The respondent states that Planète Métal operates in Valleyfield, which is where the suppliers and Mr. St‑Denis are located. The respondent argues that Mr. St‑Denis had apparently previously participated in a scheme involving false invoices. In the light of the factual circumstances, the assumptions regarding Planète Métal are relevant. Moreover, the respondent argues that it is not up to the judge presiding over the motion to strike under section 53 of the Rules to determine the relevance of the assumptions regarding Planète Métal.
+[33] In Mungovan v. The Queen, [9] just like in this case, Mr. Mungovan alleged that the assumptions of fact considered by the Minister pertained to previous transactions that had occurred prior to the facts pertaining to the issue at hand, thus irrelevant facts to which Mr. Mungovan had no connection. Just like in the appeal in this case, Mr. Mungovan also stated that the assumptions of fact were nothing but an improper and scandalous attempt to colour the legitimacy of the transaction that were the subject matter of the appeal. Mr. Mungovan also stated, as does Metrobec, that he had to incur expenses to demonstrate the truthfulness of these assumptions of fact, even though he had not participated in the transactions alleged in the assumptions.
+[34] In Mungovan, [10] Bowman J. decided not to strike out the assumptions of fact alleged in the respondent’s Reply to the Notice of Appeal because it is up to the trial judge to determine the relevance and weight of such assumptions. Bowman J. writes as follows:
+[10] Assumptions are not quite like pleadings in an ordinary lawsuit. They are more in the nature of particulars of the facts on which the Minister acted in assessing. It is essential that they be complete and truthful. The conventional wisdom is they cast an onus upon an appellant and as Mr. Mungovan observes with some considerable justification, they may force him to endeavour to disprove facts that are not within his knowledge. Superficially this may be true, but this is a matter that can be explored on discovery. The trial judge is in a far better position than a judge hearing a preliminary motion to consider what effect should be given to these assumptions. The trial judge may consider them irrelevant. He or she might also decide to cast upon the respondent the onus of proving them. The rule in M.N.R. v. Pillsbury Holdings Ltd., 64 DTC 5184, is a rule of general application, but it is not engraved in stone.
+. . .
+[12] It is entirely possible, as Mr. Mungovan points out, that some of the impugned assumptions are irrelevant. This is a matter for the trial judge to determine after the evidence has been presented. It is not a matter that can or should be determined on a preliminary motion to strike. It may well be that the paragraphs contain allegations that lie exclusively within the respondent’s knowledge. It is a matter for the trial judge to determine whether the onus should be cast upon the respondent to establish them.
+. . .
+[14] The trial judge may well decide that the Crown has some onus that goes beyond the mere recitation of a bald assumption. The weight to be put on these paragraphs is a matter for the trial judge, as is the onus of proof. This is not, however, a reason for striking the paragraphs before trial.
+[35] Moreover, as Bowman J. explains in Gould v. The Queen, [11] nothing prevents the respondent from pleading assumptions of fact relative to third parties, if the Minister used those facts to make the assessment. In that respect, Bowman J. states as follows:
+[21] With respect, I am unable to ascribe to either the Status‑One decision or the case which it followed, The Queen v. Global Communications Limited, 97 DTC 5194, the effect contended for by counsel for the appellant. A central component in the assessment which disallowed the charitable donations is the existence of a “scheme” in which it is alleged that the appellant participated and which enabled the participants to obtain what the Crown sees as artificial or inflated charitable tax credits. It of necessity involved third parties and if the existence of a scheme is essential to the Crown’s case, it should be able to plead and prove all of the components of the scheme. To say, as the appellant does, that Global and Status‑One preclude any reference to third party transactions unless the appellant knows of or is privy to those transactions goes too far. If the existence of a scheme is germane to the disallowance it cannot be ignored whether or not the Minister assumed that the appellant knew about or was a party to the third party transactions that, according to the Reply, were an integral part of the scheme. If any of the facts assumed are truly within only the Crown’s knowledge the Crown probably has the onus of proving them although this is ultimately for the trial judge to decide.
+[22] I might observe that the complaint that is usually made is that the Crown has not pleaded all of the material assumptions or has not pleaded assumptions that assist the appellant. Here the reverse is true. The appellant is complaining that too many assumptions are pleaded. It would seem to me that if an assessment is based on assumptions that are irrelevant, contradictory or illogical, as the appellant alleges, this could arguably form a cogent basis for attacking the assessment. If those assumptions are removed from the Reply the appellant has deprived himself of one of the weapons in his arsenal. Why he would wish to do so escapes me. There is a danger that one can, in getting too engrossed in technical minutiae, lose sight of the substantial tactical advantage of forcing the Crown to live with its own pleadings. There is much to be said for the venerable rule about not educating your opponent.
+[36] I am of the opinion that it will be for the trial judge, who will have access to all the evidence, to determine the relevance and weight to be placed on the assumptions regarding Planète Métal. If it turns out that the Minister has exclusive knowledge of certain assumptions, the respondent will have to establish the truthfulness of those assumptions. Consequently, not all of the assumptions regarding Planète Métal should be struck out.
+[37] However, I am of the opinion that some assumptions, as written by the respondent in his Reply to the Notice of Appeal, raise conclusions of mixed fact and law.
+[38] It is my opinion that paragraphs 49j) “Yves St-Denis acts as director of Planète Métal” and 49q) “Planète Métal is a façade for the appellant’s operations in Valleyfield” of the Reply to Notice of Appeal raise allegations of mixed fact and law. These paragraphs must therefore be struck out. As I had done for Metrobec, [12] I will give the respondent an opportunity to amend the said paragraphs of the Reply to Amended Notice of Appeal.
+[39] An allegation referring to a de facto director is an allegation of mixed fact and law. The respondent must explain the facts on which the Minister based its determination that Mr. St‑Denis was a de facto director in paragraph 49j).
+[40] As for paragraph 49q), counsel for the respondent admitted that the word “sham” and the word “façade” should not have been used in drafting an assumption of fact. In Strother v. The Queen, [13] Rip J. states that allegations containing the words “sham,” “façade” and “circular transactions” are allegations of mixed fact and law:
+(c) The allegations of sham, circular transactions or façade
+[31] The allegations of sham, circular transactions and facades are also in issue. The test for the sham doctrine was set forth in Snook v. London and West Riding Investments, Ltd.:
+. . . [Sham] means acts done or documents executed by the parties to the “sham” which are intended by them, to give to third parties or the Court, the appearance of creating between the parties, legal rights and obligations different from the actual legal rights and obligations (if any), which the parties intend to create. . . . for acts or documents to be a “sham”, with whatever legal consequences follow from this, all the parties thereto must have a common intention that the acts or documents are not to create the legal rights and obligations which they give the appearance of creating. . . . [Emphasis added]
+[32] In this case, the facts are the actual rights and responsibilities as well as what the parties did or did not do. However, applying the facts to determine whether there was a common intention to mislead is a conclusion of mixed fact and law as it involves the applications of the facts to the legal test of sham. Again, the respondent is required to extricate the facts and mentions of sham, or façade should be deleted. With respect to this argument, some of the bracketed portions are struck, while some are not, as they are factual underpinnings and not conclusions.
+[41] Consequently, the respondent will have to support the facts used to allege that Planète Métal is a façade for the Valleyfield suppliers.
+[42] I am of the opinion that the assumption in paragraph 49s) does not contain plainly or obviously irrelevant facts. The paragraph therefore does not have to be amended.
+[43] As for the assumption in paragraph 49t), it is my opinion that the assumption is not specific enough as written. The respondent argues that Metrobec could, during discovery, ask questions about this assumption or make a motion for particulars. However, I agree with Bowman J.’s statement in Mungovan [14] that assumptions are not quite like pleadings in an ordinary lawsuit. They are more in the nature of particulars of the facts on which the Minister acted in assessing. A taxpayer must know what facts the Minister used to make the assessment. Therefore, the assumption in paragraph 49t), as written, is struck out, with permission to amend it.
+Second group of assumptions: Valleyfield suppliers
+[44] The second group of assumptions refers to the Valleyfield suppliers, namely:
+Company
+Director
+Shareholder
+Well-Dom Aménagement paysagiste
+Dominic Ouellet
+Dominic Ouellet
+Agence de personnel E.B. Inc.
+Éric Blouin
+Éric Blouin
+9229-8371 Québec Inc.
+Éric Blouin
+Éric Blouin
+Installation Info E.B. Inc.
+Éric Blouin
+Éric Blouin
+Services Entretien JHG
+Daniel Blouin
+Daniel Blouin
+9268-7193 Québec Inc. (Reno)
+Daniel Blouin
+Daniel Blouin
+9268-7219 Québec Inc. (Gestion)
+Daniel Blouin
+Daniel Blouin
+Transport Fleur-Ange
+Craig Smith
+Craig Smith
+Habitation Confort Énergétique Inc.
+Craig Smith
+Craig Smith
+Metal FLG Inc
+Craig Smith
+Craig Smith
+9283-7061 Québec Inc.
+Léo-Sébastien Fortier
+Léo-Sébastien Fortier
+9283-3888 Québec Inc.
+Léo-Sébastien Fortier
+Léo-Sébastien Fortier
+[45] The assumptions that the applicant moves to have struck out are the following:
+“Valleyfield sham suppliers”
+49z) Yves St-Denis acts as director and manager for the corporations listed in sub‑paragraph 49x);
+49aa) If they act for the corporations listed in sub‑paragraph 49x), Dominic Ouellet, Eric Blouin, Daniel Blouin, Craig Smith and Leo‑Sebastien Fortier act on behalf of Yves St‑Denis or following his instructions;
+49bb) the scrap metal related to the invoices detailed in Schedule B is obtained from unidentified businesses;
+49cc) despite the foregoing, the corporations listed in sub‑paragraph 49x) are shell corporations;
+49dd) Yves St‑Denis uses the corporations listed in sub‑paragraph 49x), as well as their respective directors and shareholders, to hide the true identity of the appellant’s real suppliers;
+49ee) In hiding the identity of the real suppliers:
+i) the real suppliers are allowed to sale [sic] their scrap metals without declaring the corresponding income, and;
+ii) the real suppliers are allowed to sale [sic] their scrap metals without remitting the corresponding GST; and,
+iii) the appellant is allowed to claim ITC while GST is not remitted and paid by the supplier;
+49ff) if either the corporations listed in sub‑paragraph 49.x), their respective directors or shareholders or Yves St‑Denis supplied scrap metal or received payment for the invoices listed in Schedule B, they did so on behalf of unidentified suppliers;
+[46] As for paragraph 49z) of the Reply to the Notice of Appeal, Metrobec argues that this paragraph is an allegation of mixed fact and law, particularly with respect to the statement “Yves St‑Denis acts as a director and manager”.
+[47] Metrobec argues that paragraph 49aa) is not an assumption of fact because the word “if” is used. If the individuals in question acted for the Valleyfield suppliers, they were acting on behalf of Mr. St‑Denis, on his instructions. Metrobec argues that the facts must be clear and precise as to whether or not the mentioned individuals are acting on behalf of the Valleyfield suppliers. It further argues that the question as to whether these individuals were acting on instruction from Mr. St‑Denis has no bearing on the matter at issue, that is, to determine whether the invoices meet the requirements of the ITC Regulations. Metrobec also argues that the word “act” refers to a legal concept.
+[48] As for paragraph 49bb), Metrobec argues that there is no ground to challenge this assumption. In addition, Metrobec submits that the presumption in article 928 of the Civil Code of Québec reinforces it: “[a] possessor is presumed to hold the real right he is exercising. A person contesting that presumption has the burden of proving his own right and, as the case may be, that the possessor has no title, a defective title, or defective possession.” Moreover, Metrobec argues that the Minister did not state the facts he used as a basis to support the allegation that the scrap metal came from unidentified suppliers. Lastly, Metrobec argues that it cannot be forced to pick apart facts relating to third parties.
+[49] As for paragraph 49cc), Metrobec argues that the alleged assumption is a conclusion of law and that the Minister must provide facts to support the statement that the suppliers are “shell” corporations.
+[50] With respect to paragraphs 49dd) and 49ee), Metrobec argues that the assumptions used by the Minister as a basis have no bearing on the dispute. Metrobec argues that it purchased scrap metal from the Valleyfield suppliers and that it could not have known that the latter were not the real suppliers. Metrobec argues that the assumptions regarding the Valleyfield suppliers are merely speculations and unfounded assertions. Therefore, Metrobec argues that it must know the facts on which the Minister based his allegation that the suppliers are not the real suppliers. Metrobec argues that if Mr. St‑Denis is in fact involved in managing the Valleyfield suppliers, this has no bearing on the issue in this case, that is, to determine whether the invoices meet the requirements of the ITC Regulations. Lastly, Metrobec submits that the Minister alleges a tax result in paragraph 49ee) without any basis in fact.
+[51] First, the word “sham” in the English version and the word “trompe‑l’œil” in the French translation must be deleted from “Valleyfield Sham Suppliers” and all the assumptions. The notion of “sham” or “trompe‑l’œil” is a legal concept that implies facts and law.
+[52] I am also of the opinion that paragraph 49z) contains an allegation of mixed fact and law. The Minister must state, in the assumptions of fact, the factual basis used to conclude that Mr. St‑Denis acted as the de facto director of the Valleyfield suppliers. Therefore, this part of paragraph 49z) will be struck out, but with permission to amend the paragraph.
+[53] Paragraph 49aa) refers to a likely fact, the assumption “[i]f they act.” The Minister must set out actual facts. As written, the paragraph must be struck out. However, the respondent may amend this paragraph.
+[54] In my opinion, paragraph 49bb) refers to facts. As I stated, Metrobec argues that the matter at issue is limited to the strict application of the ITC Regulations, that is, whether the invoices meet the requirements of these regulations. Therefore, according to Metrobec, paragraph 49bb) is irrelevant. However, as I already stated, it is evident from the pleadings, including Metrobec’s Notice of Appeal, that the issue in the case at hand will be to determine whether the invoices are false given a scheme involving the applicant. Paragraph 49bb) refers to unidentified suppliers. According to the respondent, the unidentified suppliers are part of the scheme used in this case. In addition, just because facts are considered by the Minister does not mean that they are entitled to the presumption of truthfulness. It will be for the trial judge to determine whether Metrobec or the respondent will have the burden of proving the facts involving third parties. That said, I am of the opinion that the alleged facts are not plainly or obviously irrelevant. Therefore, this paragraph will not be struck out.
+[55] As written, paragraph 49cc) must be struck out. The Minister states that the Valleyfield suppliers are “shell” corporations. This is an allegation of mixed fact and law. The Minister must state the facts on the basis of which he reached this conclusion. On this point, Rip J.’s decision in Strother v. The Queen cited in paragraph 39 of these reasons for order is relevant. The words “sham,” “shell” and “façade” are conclusions of mixed fact and law. The respondent may amend his Reply to the Notice of Appeal accordingly.
+[56] Paragraph 49ee) must also be struck out. This paragraph sets out the consequences of the scheme, not facts used to make the assessment. This paragraph could be alleged in the Reply to the Notice of Appeal, but it should not be part of the assumptions of fact that the Minister took into account when making the assessment.
+[57] In my opinion, paragraph 49dd) refers to facts. In making an assessment, the Minister took into account the fact that Mr. St‑Denis used the shareholders and directors of the Valleyfield suppliers to hide the identity of the real suppliers. In Bemco v. The Queen, [15] Paris J. decided that an intention to mislead is a question of fact that does not require the application of a legal criterion. That which a person does or knows is a question of fact. This statement by Paris J. applies in the case at hand. Therefore, this paragraph will not be struck out.
+[58] I am of the opinion that paragraph 49ff) does not contain plainly or obviously irrelevant facts. Therefore, it will not be struck out.
+Third group of assumptions: assessment under subsection 298(4) of the ETA
+[59] The third group of assumptions refers to those which the Minister used as a basis to make an out‑of‑time assessment with respect to certain periods. [16]
+[60] Metrobec moves to have the Minister’s following assumptions struck out:
+50c) the appellant knew false invoices were included in the calculation of its net tax while filling the remittance forms mentioned in sub‑paragraph 50.b);
+50d) the Valleyfield sham suppliers in dispute were all referred by Yves St‑Denis;
+50e) the appellant knows Yves St-Denis;
+50f) Yves St-Denis acts, in fact, as a director of Planète Métal;
+50g) the appellant owns all of Planète Métal’s equipment;
+50h) the appellant considers as its own all the sales of Planète Métal;
+50i) the appellant owns a bank account related to Planète Métal, in which the sales of Planète Métal are deposited;
+50j) the appellant uses the said account to pay for Planète Métal’s current expenses;
+50k) many of the Valleyfield sham suppliers declare to be administered by the same individual;
+50l) the appellant does not follow its own usual procedures when dealing with the Valleyfield sham suppliers;
+50m) many of the Valleyfield sham suppliers cash cheques issued by the appellant at a cheque cashing business;
+50n) the importance of the ITC claimed with respect to the Valleyfield sham suppliers, which amount to 488 738,36 $ [sic];
+50o) the length of the repeated false representation spanning over the period of June 1, 2009 to June 30, 2013;
+50p) the breadth of experience of the appellant’s directors, namely Mark and Richard Leibov.
+[61] The arguments presented by the parties are the same as those presented for the first and second groups of assumptions set out in these reasons. Consequently, I will not repeat the parties’ arguments or the applicable case law, except where a new argument is raised.
+[62] The word “sham” in the English version or the word “trompe l’œil” in the French translation must be deleted from paragraphs 50d), 50k), 50l), 50m) and 50n) for the reasons provided in paragraphs 40 and 51 of these reasons. The respondent may amend these paragraphs.
+[63] In Bemco, supra, Paris J. held that “[w]hat a person does or knows is a fact.” I adopt Paris J.’s reasoning here. Consequently, paragraphs 50c) and 50e) will not be struck out.
+[64] As written, paragraph 50f) is struck out for the same reasons as those which I stated in paragraphs 39 and 52 of these reasons. The Minister must state the facts that he used as a basis to conclude that Mr. St‑Denis was a “de facto” director. The assumption that Mr. St‑Denis is a “de facto” director is an allegation of mixed fact and law. The respondent may amend this paragraph.
+[65] The assumptions in paragraphs 50k) and 50l) are not written clearly and precisely. Is the individual in question Mr. St‑Denis? To what procedure is the respondent referring? The respondent may amend these paragraphs.
+[66] The alleged assumptions in paragraphs 50g), 50h), 50i), 50j) and 50o) are assumptions of fact. These facts are not plainly or obviously irrelevant facts. These paragraphs will therefore not be struck out.
+[67] I am of the opinion that the facts set out in paragraph 50p) are relevant as part of an out‑of‑time assessment under subsection 298(4) of the ETA. It will be for the trial judge, who will have access to all the evidence, to determine the weight to be placed on this assumption. Paragraph 50p) will therefore not be struck out.
+[68] A number of paragraphs refer to third parties. The allegations referring to third parties can remain. The assumptions of fact relating to third parties that the Minister used as a basis to make an assessment are relevant, particularly when the questions refer to sham transactions. [17]
+Fourth group of assumptions: assumptions relating to the establishment of penalties under section 285 of the ETA
+[69] Metrobec moves to have the following assumptions struck out:
+51b) the appellant knew false invoices were included in the calculation of its net tax while filling the remittance forms mentioned in sub‑paragraph 51.a);
+51c) the Valleyfield sham suppliers in dispute were all referred by Yves St‑Denis;
+51d) the appellant knows Yves St-Denis;
+51e) Yves St-Denis acts, in fact, as a director of Planète Métal;
+51f) the appellant owns all of Planète Métal’s equipment;
+51g) the appellant considers as its own all the sales of Planète Métal;
+51h) the appellant owns a bank account related to Planète Métal, in which the sales of Planète Métal are deposited;
+51i) the appellant uses the said account to pay for Planète Métal’s current expenses;
+51j) many of the Valleyfield sham suppliers declare to be administered by the same individual;
+51k) the appellant does not follow its own usual procedures when dealing with the Valleyfield sham suppliers;
+51l) many of the Valleyfield sham suppliers cash cheques issued by the appellant at a cheque cashing business;
+51m) the importance of the ITC claimed with respect to the Valleyfield sham suppliers, which amount to 488 738,36 $ [sic];
+51n) the length of the repeated false representation spanning over the period of June 1,2009 to June 30, 2013;
+51o) the breadth of experience of the appellant’s directors, namely Mark and Richard Leibov.
+[70] The arguments presented by the parties are the same as those presented for the first, second and third groups of assumptions set out in these reasons. Consequently, I will not repeat the parties’ arguments or the applicable case law, except where a new argument is raised.
+[71] The word “sham” in the English version or the word “trompe l’œil” in the French translation must be deleted from paragraphs 51c), 51j), 51k), 51l) and 51m) for the reasons I stated in paragraphs 40 and 51 of these reasons. The respondent may amend these paragraphs to delete the word “sham.”
+[72] In Bemco v. The Queen, [18] Paris J. held that “[w]hat a person does or knows is a fact.” I adopt Paris J.’s reasoning here. These facts are not plainly or obviously irrelevant. Paragraphs 51b) and 51d) therefore do not have to be amended.
+[73] As written, paragraph 51e) is struck out for the same reasons as those which I stated in paragraphs 39 and 52. The Minister must state the facts that he used as a basis to allege that Mr. St‑Denis was a “de facto” director. However, the respondent may amend this paragraph.
+[74] Paragraphs 51j) and 51k) are not written clearly and precisely. Is the individual in question Mr. St‑Denis? To what procedure is the respondent referring? The respondent may amend the paragraphs.
+[75] Paragraphs 51f), 51g), 51h), 51i) and 51n) refer to facts. These facts are not plainly or obviously irrelevant facts. These paragraphs will therefore not be struck out.
+[76] In the context of the application of a penalty under section 285 of the ETA, paragraph 51o) is relevant because the Minister must examine the characteristics specific to a taxpayer to determine whether the taxpayer knowingly, or under circumstances amounting to gross negligence, makes a false statement or omission. Therefore, the experience of directors is not a plainly or obviously irrelevant fact. This paragraph will therefore not be struck out.
+VI. Disposition
+[77] The motion is allowed based on the said grounds.
+[78] The respondent may file an amended Reply to the Amended Notice of Appeal within 30 days following the date of this order.
+[79] Costs in the cause.
+Signed at Ottawa, Canada, this 18th day of November 2019.
+“Johanne D’Auray”
+D’Auray J.
+Translation certified true
+on this 30th day of January 2020.
+François Brunet, Revisor
+EXCERPTS FROM THE REPLY TO THE NOTICE OF APPEAL FILED BY THE RESPONDENT
+49h) Planète Métal was incorporated in May 2005 and declares performing activities related to the acquisition of metal, aluminium and steel;
+49i) Louise Cousineau is the sole shareholder of Planète Métal;
+49j) Yves St-Denis acts as director of Planète Métal;
+49k) Yves St-Denis manages Planète Métal’s operations;
+49l) the appellant is Planète Métal’s only declared client;
+49m) since at least June 2010, the appellant owns all the assets used at Planète Métal’s business premises in Valleyfield;
+49n) the appellant assumes expenses related to scrap metal operations performed at Planète Métal’s business premises in Valleyfield;
+49o) the appellant assumes Planète Métal’s fiscal debts or liabilities and interacts with provincial and federal tax authorities concerning Planète Métal’s fiscal file;
+49p) the appellant refers to its accounts or employees related to Planète Métal as "Valleyfield" or "Valleyfield operations”;
+49q) Planète Métal is a façade for the appellant’s operations in Valleyfield;
+49r) All or part of the scrap metal operations performed by Planète Métal in Valleyfield are operations of the appellant;
+49s) the appellant manages the Valleyfield scrap metal operations in collaboration with Yves St-Denis;
+49t) the appellant deals regularly with Yves St-Denis;
+"Valleyfield sham suppliers"
+49z) Yves St-Denis acts as director and manager for the corporations listed in sub-paragraph 49x);
+49aa) If they act for the corporations listed in sub-paragraph 49x), Dominic Ouellet, Eric Blouin, Daniel Blouin, Craig Smith and Leo-Sebastien Fortier act on behalf of Yves St-Denis or following his instructions;
+49bb) the scrap metal related to the invoices detailed in Schedule B is obtained from unidentified businesses;
+49cc) despite the foregoing, the corporations listed in sub-paragraph 49x) are shell corporations;
+49dd) Yves St-Denis uses the corporations listed in sub-paragraph 49x), as well as their respective directors and shareholders, to hide the true identity of the appellant’s real suppliers;
+49ee) In hiding the identity of the real suppliers:
+i) the real suppliers are allowed to sale their scrap metals without declaring the corresponding income, and,
+ii) the real suppliers are allowed to sale their scrap metals without remitting the corresponding GST; and,
+iii) the appellant is allowed to claim ITC while GST is not remitted and paid by the supplier;
+49ff) if either the corporations listed in sub-paragraph 49.x), their respective directors or shareholders or Yves St-Denis supplied scrap metal or received payment for the invoices listed in Schedule B, they did so on behalf of unidentified suppliers
+50c) the appellant knew false invoices were included in the calculation of its net tax while filling the remittance forms mentioned in sub-paragraph 50.b);
+50d) the Valleyfield sham suppliers in dispute were all referred by Yves St-Denis;
+50e) the appellant knows Yves St-Denis;
+50f) Yves St-Denis acts, in fact, as a director of Planète Métal;
+50g) the appellant owns all of Planète Métal’s equipment;
+50h) the appellant considers as its own all the sales of Planète Métal;
+50i) the appellant owns a bank account related to Planète Métal in which the sales of Planète Métal are deposited;
+50j) the appellant uses the said account to pay for Planète Métal’s current expenses;
+50k) many of the Valleyfield sham suppliers declare to be administered by the same individual;
+50l) the appellant does not follow its own usual procedures when dealing with the Valleyfield sham suppliers;
+50m) many of the Valleyfield sham suppliers cash cheques issued by the appellant at a cheque cashing business;
+50n) the importance of the ITC claimed with respect to the Valleyfield sham suppliers, which amount to 488 738,36 $;
+50o) the length of the repeated false representation spanning over the period of June 1, 2009 to June 30, 2013;
+50p) the breadth of experience of the appellant’s directors, namely Mark and Richard Leibov.
+51b) the appellant knew false invoices were included in the calculation of its net tax while filling the remittance forms mentioned in sub- paragraph 51.a);
+51c) the Valleyfield sham suppliers in dispute were all referred by Yves St-Denis;
+51d) the appellant knows Yves St-Denis;
+51e) Yves St-Denis acts, in fact, as a director of Planète Métal;
+51f) the appellant owns all of Planète Métal’s equipment;
+51g) the appellant considers as its own all the sales of Planète Métal;
+51h) the appellant owns a bank account related to Planète Métal in which the sales of Planète Métal are deposited;
+51i) the appellant uses the said account to pay for Planète Métal’s current expenses;
+51j) many of the Valleyfield sham suppliers declare to be administered by the same individual;
+51k) the appellant does not follow its own usual procedures when dealing with the Valleyfield sham suppliers;
+51l) many of the Valleyfield sham suppliers cash cheques issued by the appellant at a cheque cashing business;
+51m) the importance of the ITC claimed with respect to the Valleyfield sham suppliers, which amount to 488 738,36 $;
+51n) the length of the repeated false representation spanning over the period of June 1,2009 to June 30, 2013;
+51o) the breadth of experience of the appellant’s directors, namely Mark and Richard Leibov.
+CITATION:
+2019 TCC 250
+COURT FILE NO.:
+2017-2735(GST)G
+STYLE OF CAUSE:
+METROBEC INC. v. THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+September 12 and 13, 2019
+REASONS FOR ORDER BY:
+The Honourable Justice Johanne D’Auray
+DATE OF ORDER:
+November 18, 2019
+APPEARANCES:
+Counsel for the applicant:
+Michel Beauchamp
+Gabriel Bezeau
+Counsel for the respondent:
+Antoine Lamarre
+Christian Lemay
+COUNSEL OF RECORD:
+For the applicant:
+Name:
+Caroline Desrosiers
+Michel Beauchamp
+Firm:
+CD Legal inc.
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] During the hearing of the motion, the applicant stated that it was not moving to strike out paragraphs 49gg), 49hh), 52d)i), 52e)i), 55b), 55d), 55e) and 55f) of the Reply to the Notice of Appeal.
+[2] 2011 SCC 42.
+[3] 2013 TCC 383.
+[4] Heron v. The Queen, 2017 TCC 71. This decision was upheld by the Federal Court of Appeal.
+[5] Orly Automobiles Inc. v. Canada, 2005 FCA 425, at para. 20.
+[6]
+Canada
+(Director of Investigation and Research) v. Southam Inc., [1997] 1 SCR 748.
+[7] See Amended Notice of Appeal, paragraphs 121 to 128.
+[8] The original English version of the relevant assumptions from the Reply to the Amended Notice of Appeal is appended to these reasons.
+[9] 3 TCC 2779.
+[10] Mungovan v. The Queen, 2001-568-IT-G – Although Kossow v. Canada, 2009 FCA 83, paragraph 21, pertained to another legal issue, the Federal Court of Appeal accepted Bowman J.’s conclusion in Mungovan regarding the assumptions of fact.
+[11] 2005 TCC 556.
+[12] There were a number of inconsistencies in Metrobec’s Notice of Appeal. I therefore gave Metrobec a chance to amend its Notice of Appeal. See order in Metrobec Inc. v. The Queen, 2018 TCC 115.
+[13] 2011 TCC 251.
+[14] Supra, note 9.
+[15] 2015 TCC 48.
+[16] That said, in the case at hand, Metrobec had signed a waiver. During the trial, the parties will debate the scope of this waiver.
+[17] See paragraph 35 of these reasons.
+[18] Ibid.

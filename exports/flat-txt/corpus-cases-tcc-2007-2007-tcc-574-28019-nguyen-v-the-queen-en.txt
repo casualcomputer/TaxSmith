@@ -1,0 +1,170 @@
+Title: Nguyen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28019/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-574-28019-nguyen-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-09-28
+
+# Nguyen v. The Queen
+
+- Citation: 2007 TCC 574
+- Decision date: 2007-09-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1605, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nguyen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-28
+Neutral citation
+2007 TCC 574
+File numbers
+2006-388(IT)I
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-388(IT)I
+BETWEEN:
+GA KY NGUYEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+___________________________________________________________________
+Appeals heard on November 23, 2006, at Toronto, Ontario
+By: The Honourable Justice A.A. Sarchuk
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sonia Akibo-Betts
+___________________________________________________________________
+JUDGMENT
+The appeals from reassessments of tax made under the Income Tax Act for the 1999 and 2000 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant personally occupied one-third of 1272 Bloor Street East, Toronto, Ontario.
+Signed at Ottawa, Canada, this 28th day of September, 2007.
+“A.A. Sarchuk”
+Sarchuk D.J.
+Citation: 2007TCC574
+Date: 20070928
+Docket: 2006-388(IT)I
+BETWEEN:
+GA KY NGUYEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sarchuk D.J.
+[1] These appeals are from reassessments for the 1999 and 2000 taxation years made under the Income Tax Act, in which the Minister of National Revenue disallowed certain amounts claimed by the Appellant as expenses against rental income. The Appellant disputes the reassessments on the basis that the expense items were properly deductible in the computation of his taxable income.
+Facts
+[2] In 1997, the Appellant and another party purchased property located at 1272 Bloor Street East, Toronto. The Appellant has been the sole owner of the property since August 1999.
+[3] In computing income for the 1999 and 2000 taxation years, the Appellant reported gross rental revenue in the amounts of $9,600 in 1999 and $18,000 in 2000, and deducted rental losses in the amount of $24,791.32 and $12,043.75. respectively. In both years, the Appellant deducted 100% of the expenses of the property in computing the rental losses.
+[4] The Minister’s reassessments were made on the basis that in the 1999 and 2000 taxation years,
+(a) the Appellant did not pay or incur expenses of the property in excess of the amounts of $33,132.54 and $23,154.03, respectively, for the purpose of gaining or producing income from the property in those taxation years; and
+(b) as a result, since at all material times during these taxation years, at least 50% of the property was the principal residence of the Appellant, 50% of the expenses in the amounts of $16,556.27 and $11,577.01 were the Appellant’s personal expenses and are not deductible by him.[1]
+[5] The Respondent further contends that repair and maintenance expenses claimed by the Appellant in the 2000 taxation year in the amount of $10,682 included an amount of $6,240.22 that was paid by him for the renovation of the ceiling, walls, floor and electrical improvements and is therefore a capital expenditure of the Appellant. Accordingly, he was precluded by subsection 18(1) and paragraph 18(1)(b) of the Act from deducting that amount in the computation of the rental loss under subsections 9(1) and 9(2) of the Act. I propose to deal with this issue first.
+Renovation Expenses
+[6] The buildings in issue were situated on a narrow lot approximately 18 feet in width and 100 feet in depth. A plan of survey submitted as part of the of the Appellant’s Notice of Appeal disclosed that buildings had been erected on the whole of the property. The front portion consisted of a two-storey building attached to which was a small one-storey section described by the Appellant as “It’s part of the store empty, not used”.[2] The second storey of this building was described by the Appellant as an “Apartment, 2 bedrooms” which had been occupied by tenants since 1998.
+[7] With respect to the main floor, the Appellant testified that in the year 2000, a prospective tenant, Vu My Trang (Trang) showed interest in renting the property to be used as a store, but said that substantial repairs were required before she was prepared to do so.
+[8] The Appellant conceded that there was substantial damage to the ceiling, the walls and “a lot of things broken”. He added that “No one had ever repaired it, so it has deteriorated quite a bit” and as a result, renovation was required which included substantial repairs to the ceiling, floor, plumbing, broken doors, and drywall. He further stated that the prospective tenant was prepared “to help me so I let them help me, repair renovate the place with a very cheap price” because he believed that if “he did not fix the store, the tenant would not rent the place”.
+[9] In support, the Appellant made reference to a letter dated May 15, 2002, signed by Trang, and which he sent to Revenue Canada. It reads:
+As required the landlord from the place we rented to do business at 1272 Bloor St. W, Toronto, ontario. Today we write letter to you to explain the sum of money we did because, we had agree the store have to Fix before we take over but that time the landlord was busy, he hired us to do. The things we did as:
+- May 1st to May 15,, the wall right side of the building damaged, it effected by moisture of the weather (closed outside), we take it out, put drywall with compound and paint. It cost $1,642.00
+- May 16 to May 20 we fixed ¼ the ceiling because it cracked, almost fell down, it danger for employee and Client when we do business, the new copper water pipe to replace the old one, the drywall put on, compound it, Sand and painted, it cost $1,815.00
+- May 21 to May 22 We dumped garbage, cleaned the place $353.22
+- May 24 to May 30 we cut down ¼ floor, replace damage wood (which handle floor), put plywood on top before
+- We replace the vinyl for the floor. It cost $2,430.00
+Total cost $6,240.00, I get money back from landlord and I fill on my incometax, it money as my income year 2000 I have.[3]
+[10] Evidence was also adduced by the Appellant from the tenant, Trang. She initially stated that she personally was involved in the repairs, and “did plumbing, repaired floor, broken door” and “I put up drywall”, etc. However, in cross‑examination, the following exchange with counsel took place:
+Q, With regard to the repairs, Mr. Nguyen was too busy to do the repairs so he hired you to do it, is that correct?
+A. He said that I’m the one who request to have repair. He would not do the repairs so then I suggest to him that I will hire somebody to do the job but he would have to pay me back for that person to do the job.
+Q. When you said, we did plumbing, repaired floor, broken door, put up the drywall, you said “I put up drywall”. It wasn’t you that put up the drywall?
+A. I have to hire someone.
+Q. You didn’t put up the drywall yourself?
+A. No.
+[11] The Appellant had difficulty in articulating the basis for this aspect of his appeals. It is fair to say that his primary objective was to establish that the repairs in issue were minor and that as his accountant wrote in the Appellants Notice of Objection:
+These repair and maintenance expenses did not meet capitalization criteria as suggested by the Government representative. These expenses were incurred to keep up with the wears and tears and not to enhance the value of the property. Also the taxpayer had to repair and clean the property, so that the property could be rented to tenants. Therefore, the repairs and maintenance should be deducted in 1999 and 2000 as originally submitted.
+Conclusion
+[12] The issue is whether the cost of the repairs was an expense on account of capital or income. In Johns-Manville Can. Inc. v. The Queen,[4] the Supreme Court of Canada conducted a substantial review of other decisions regarding the characterization of expenses as to whether they were on current or capital account. Reference was made by Estey J. to the comments by Viscount Cave in British Insulated and Helsby Cables v. Atherton,[5] in which he stated:
+When an expenditure is made not only once and for all, but with a view to bringing into existence an asset or an advantage for the enduring benefit of a trade, I think that is a very good reason (in the absence of special circumstances leading to an opposite conclusion) for treating such an expenditure as properly attributable not to revenue, but to capital.
+[13] Further reference should be made to the decision of Décary J.A. in The Queen v. Canadian Reynolds Metal Co, Limited,[6] in which he noted specifically:
+The characterization of expenditures as current or capital in nature has been complicated by the trend in case law to focus on the nature of the asset itself and whether or not it must be replaced on a recurring basis rather than on the benefit which the expenditure is intended to confer upon the enterprise. It is clear however that while the recurring nature of an expense may be a relevant factor in distinguishing between capital and current expenses, it is in no way decisive. On the other hand, it is also clear that an asset need not be of a perpetual nature in order to be classified as capital for the purposes of tax treatment.
+[14] The Appellant’s submission appears to be that the expenses were of a recurring nature and were incurred at the insistence of the tenant, Trang. This is totally inconsistent with the evidence. The fact that the building was 93 years old and required substantial renovation was never made more evident than by the Appellant’s responses to the questions put to him. As an example, I refer to the following exchange between the Appellant and counsel for the Respondent:
+Q. You planned to fix it and rent it out to tenants, is that correct?
+A. Yes.
+Q. When you purchased it, it wasn’t in a rentable condition, was it?
+A. If there is somebody willing, then I could rent it out.
+Q. You stated earlier that the tenants in the store refused to move in until after you had repaired the store, is that correct?
+A. Yes.
+Q. The fact that you couldn’t find anybody to rent it suggests that it wasn’t in a rentable condition. Is that right?
+A. There was a lot of interest, but they all required that it need to be repaired.
+Q. It wasn’t in a rentable state as is?
+A. Depends on what kind of business they are in. These people came in and they required all the work to be done first. That’s why we did it because we have to. I have to fix up before I can rent out and I have left it empty for about two years, three years now.
+[15] Clearly, the expenses claimed were for a substantial reconstruction of the portion of the building in issue and were not repairs on a property in rental condition, but repairs to make the property rentable, the purpose of which was to confer a lasting benefit on the property.
+[16] The distinction between a capital expenditure and an expense can simply be answered by the question, was the expenditure incurred to preserve a capital asset in a capital aspect, or in a revenue aspect. It is fair to say that a taxpayer who incurs expenses to restore a rundown building incurs capital expenditures which would not be considered to be routine maintenance. Given the decrepit nature of the premises, the work done goes far beyond the performance of minor repairs.
+[17] I have concluded that the Minister’s reassessments that the expenses were capital in nature were correct in fact and in law.
+Personal use issue
+[18] The Appellant submitted that there was absolutely no “personal use” of the property during the taxation years in issue. He went on to say that his comments in a number of exhibits such as “my place living” reflected nothing more than it was a “temporary living space. It’s like a resting place doing renovations”. However, this assertion is contradicted by a number of statements made by him in the course of his testimony, as well as by documents which have been filed as exhibits in these appeals. By way of example:
+(a) The Appellant’s objection to the reassessments forwarded to Revenue Canada by his then accountant reads, in part:
+On October 27, 2004. I reviewed and discussed with the taxpayer: I found that the 50% of the personal use of the property is not reasonable. The taxpayer’s personal use portion should be only 40%. The property had 2,596 square feet and the taxpayer’s personal use is 1,024 square feet. Thus the personal use should be 40%. (1,024/2,596). The 50% reassessed by Canada Customs and Revenue Agency is not reasonable in this case.[7]
+(b) In his undated letter to Revenue Canada[8] in response to a request for information, the Appellant provided a rough sketch of the building with two portions described as “my place living”.
+(c) In a subsequent letter received by the Respondent on December 11, 2004,[9] the Appellant provided a further sketch of the property in which the personal living area was now shown as the second floor of the section described in the Survey Plan as “brick garage”. On the following day, the Appellant sent a further note to Revenue Canada adding the following comment regarding this sketch, “The width of the building 18’; length, 100’, total of the building is 1,800 square feet. I live space 450 sq. ft. (1/4 space)”.
+(d) In his Notice of Appeal dated January 26, 2006, he stated:
+The personal/rental portion was determined as 50/50, it is more than I use, 1/3 it’s not right, but it’s still OK, because the building has main floor and second floor, the basement too low, cannot use anything, I live back side of the main floor, the back side did not have a second floor, did not have basement. And the side smaller front main floor. I sent to you the survey of this property and try to draw the map for you to easy understand.
+[19] Reference must be made to the Appellant’s T1 General 1999 income tax return in which he gave his address as 1272 Bloor Street E., Toronto, Ontario.[10] This document also discloses that the Appellant claimed Ontario Property Tax Credits in the amount of $881 on the basis that the property in issue was his principal residence. Furthermore, he certified that the information given on this return was correct and complete.
+[20] Nonetheless, the Appellant maintains that there had been no personal use of the property whatsoever during the relevant period of time and that at least since 1991, he has been a tenant renting one room of a property owned by Trang. In chief, she was asked the following questions by the Appellant:
+Q. Do I still pay you rent? In 1999, did you receive money from me, the rent money?
+A. Yes.
+Q. Am I still your tenant even in the year 2000?
+A. Yes.
+[21] The Appellant relied to a good extent on the testimony of Trang. However, in cross-examination, asked when he began renting, she responded: “he lived there for a very long time, 1991 or something like that, he lived there for a very long time”. When asked when he moved, she responded, “he moved out around 2002 or 2003, somewhere around there”. Asked whether receipts were provided, she responded: “no, only when he needed, as you know that’s how Vietnamese people like when they need it, will give them one. Vietnamese people like to pay cash”.
+[22] It is difficult to accept this witness as credible given the vagueness and inconsistencies of her responses and, more particularly, her readiness to sign the letter drafted by the Appellant without reading it and without taking any steps to confirm the facts.[11] I note that as part of his Notice of Appeal, the Appellant submitted a copy of the Plan of Survey of the property in issue superimposed on which was a receipt from Trang dated 20th May, 2002, in which she acknowledged that she “received from Nguyen Ky Ga, $6,240.22 for the repair the store”. This document shows that this payment was made at least 10 days prior to the date on which the repairs were said to have been completed in the aforementioned letter.
+[23] The Appellant also submitted two receipts, both dated 15th October, 2006, stating that one Pauline Vu was the recipient of the amount of $5,100 in each of the two years for rent at 22 Oakwood Avenue, Toronto. He stated that these two receipts were “for the year that I lived in that house” and when asked when the amounts were paid, he responded: “in the Vietnamese community, whatever we pay would be every year, for the year 1999, 2000”. When asked why receipts were dated the 25th of October, 2006, he responded: “because in the Vietnamese community, we trust each other so when we give money, we do not get any receipt back”.[12]
+Conclusion
+[24] The burden of proof lies on the taxpayer to establish that the facts upon which the Minister’s reassessments were based were wrong. The taxpayer’s burden does not require him to rebut every possible set of facts that would justify the Minister’s reassessments. However, since the Appellant most likely has the best access to the facts, it is his responsibility to affirmatively establish the proposition on which he relies in this case that 1272 Bloor St. East was not his primary residence during the taxation years in issue. That has not been done. In a number of documents prepared by the Appellant, he referred to a portion of the property as “my place living”. I make specific reference to his Notice of Objection in which the accountant wrote:
+On October 27, 2004, I reviewed and discussed with the taxpayer; I found that the 50% of the personal use of the property is not reasonable. The taxpayer’s personal use portion should be only 40%. The property has 2,596 square feet and the taxpayer’s personal use is 1,024 square feet.”
+There is I might add, absolutely no mention in the Notice that it was used as a “temporary resting place doing renovations”.
+[25] On balance, given the testimony adduced on behalf of the Appellant, it is not possible to determine with any degree of certainty that the property was not used by him as his primary residence.
+[26] There remains the question regarding the proportion to be allocated to the Appellant. My assessment of the evidence leads me to conclude that a personal allocation of one-third, as was agreed by the parties, would be most appropriate. To this extent, the appeals are allowed. In all other respects, the appeals are dismissed.
+Signed at Ottawa, Canada, this 28th day of September, 2007.
+“A.A. Sarchuk”
+Sarchuk D.J.
+CITATION: 2007TCC574
+COURT FILE NO.: 2006-388(IT)I
+STYLE OF CAUSE: GA KY NGUYEN and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 23, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT: September 28, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sonia Akibo-Betts
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Respondent relied on subsection 248(1), paragraphs 18(1)(a), 18(1)(h), subsection 9(2), and section 3 of the Income Tax Act.
+[2] See Exhibit A-1 – Plan of Survey, portions labeled brick. It should be noted that there were two more structures situated on the balance of the property. These were shown on the Plan of Survey as “a frame shed” and “brick garage”, but were described by the Appellant as “My place living”. (See Exhibits R-1 and R-2).
+[3] Exhibit R-8 - Counsel for the Respondent noted that the format of this letter is similar to all of the correspondence received from the Appellant in this case and indeed, he conceded that he drafted this letter for Trang’s signature.
+[4] 85 DTC 5373. [1985] 2 S.C.R. 46.
+[5] [1926] A.C. 205 @ 213.
+[6] 96 DTC 6312.
+[7] Exhibit R-3.
+[8] Exhibit R-1,
+[9] Exhibit R-2.
+[10] Exhibit R-5.
+[11] Exhibit R-8.
+[12] No other evidence was adduced by the Appellant with respect to these documents. It was suggested that sufficient time was available and it could be of substantial assistance to him if he called the signatory as a witness, but he chose not to do so.

@@ -1,0 +1,145 @@
+Title: Mackinnon v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28131/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-658-28131-mackinnon-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-11-16
+
+# Mackinnon v. The Queen
+
+- Citation: 2007 TCC 658
+- Decision date: 2007-11-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1651, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mackinnon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-16
+Neutral citation
+2007 TCC 658
+File numbers
+2006-2147(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2147(IT)G
+BETWEEN:
+BERNICE MACKINNON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 20, 2007, at Ottawa, Ontario.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+R. Wayne MacKinnon
+Counsel for the Respondent:
+Geneviève Léveillé
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is allowed in part and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Both parties will bear their own costs.
+Signed at Ottawa, Canada, this 16th day of November 2007.
+« François Angers »
+Angers J.
+Citation: 2007TCC658
+Date: 20071116
+Docket: 2006-2147(IT)G
+BETWEEN:
+BERNICE MACKINNON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal from an assessment by the Minister of National Revenue (the Minister) issued against the appellant on October 11, 2005 and confirmed on April 20, 2006. The Minister increased the appellant’s taxable income by $67,171.70 on the basis that this amount was received by the appellant in her 2003 taxation year as, on account of, in lieu of payment of or in satisfaction of, interest pursuant to paragraph 12(1)(c) of the Income Tax Act (the Act). The appellant also attempted to deduct her legal expenses incurred to recover RRSP money to which she was entitled as the named beneficiary and that had been remitted to her son’s estate by mistake. The deduction was refused by the Minister.
+[2] The parties provided the Court with an Agreed Statement of Facts which is reproduced below:
+1. The Appellant is the mother of Dennis Mackinnon who died on September 26, 1994;
+2. Patrick Mackinnon, the son of Dennis Mackinnon, was named as the beneficiary of his Father’s estate;
+3. At the time of his death, Dennis Mackinnon owned a Registered Retirement Savings Plan (“RRSP”) with Nesbitt Burns in the amount of $162,554.94;
+4. The RRSP was converted into an annuity with Patrick Mackinnon as the sole beneficiary;
+5. In 2001, after the RRSP had been converted into an annuity for the benefit of Patrick Mackinnon, Nesbitt Burns determined that the Appellant was named as the beneficiary to the RRSP;
+6. The Appellant filed an Application in the Ontario Superior Court of Justice in order to recover the RRSP. More specifically, the Order sought from the Court was “payment to the Applicant in the sum of $235,517.00 inclusive of interest from the 26th day of September, 1994;
+7. In 2003, the Ontario Superior Court of Justice awarded the Appellant the sum of $162,554.94 together with interest fixed at the sum of $67,171.70. The interest accrued in relation to the RRSP from September 26, 1994, until the date of the Ontario Superior Court of Justice’s Judgment. A copy of the Judgment is attached as Schedule A;
+8. The amount of interest of $67,171.70 referred to in paragraph 7 was arrived at by the Ontario Superior Court of Justice based on calculations submitted by the Estate’s accountant, Hewitt & Young, which calculations is [sic] detailed on a sheet attached as Schedule B;
+9. TD Canada Trust issued a T5 Investment Information Slip to the Appellant on January 17, 2005, in respect of her 2003 taxation year, showing interest income in the amount of $67,171.70. A copy of the T5 Investment Information Slip is attached as Schedule C;
+10. During the 2003 taxation year, the Appellant incurred legal expenses in the amount of $21,548.81 in order to recover the amount of money described in paragraph 7 above;
+11. The Minister of National Revenue (the “Minister”) initially assessed the Appellant’s tax liability for the 2003 taxation year by Notice dated May 13, 2004;
+12. By Notice of Reassessment dated October 11, 2005, the Minister increased the Appellant’s 2003 taxable income by including $67,171.70 of previously unreported interest income.
+[3] When it was determined that the RRSP money had been paid by mistake to the estate and later rolled into an annuity for her grandson, the appellant was told that, if she brought an action against Nesbitt Burns, the process would lead to a succession of lawsuits in which the estate would be embroiled. To avoid all these lawsuits, it was suggested that the estate should pay her what was rightfully hers and this was agreed to by the executors of the estate. The application filed with the Ontario Superior Court of Justice was necessary given the involvement of the grandson, who at the time was a minor and was represented by his litigation guardian, the children's lawyer.
+[4] The appellant agreed to settle her claim for the amount awarded by the Superior Court judgment. She testified that she was entitled to more money than she agreed to settle for, but accepted the settlement to avoid further litigation and costs.
+[5] The compromise amount was arrived at through calculations made by an accountant in order to establish a fair value for the RRSP at the time of the judgment. To that end, calculations were made that were based on past guaranteed income certificate interest rates taken from the Bank of Canada’s Website and on a simulated investment of the original amount of the RRSP, that is to say that the $162,554.94 in the RRSP as of September 26, 1994, was divided into three equal parts and invested for one-, two- and five-year terms. When the three original GICs matured, the funds were re‑invested for 5 years after deducting tax at the same rate as that applicable to the estate’s tax returns for each year. The end result of these calculations was an after‑tax additional value of $67,171.70, which is the amount that appears in the judgment of the Superior Court of Justice. The total amount so calculated would have been $89,647.82 had it not been for the deduction of taxes in the amount of $22,476.13 paid by the estate and which the accountant took into consideration.
+[6] Further hypothetical calculations were made by the accountant to show that, had the appellant settled for the full $89,647.82, her net amount after taxes would have been higher, thus the benefit to her would have been greater. These calculations being hypothetical, they are not relevant to resolving the issues before this Court.
+[7] The application for approval of the settlement made before the Ontario Superior Court was opposed by the litigation guardian representing the grandson, but only regarding the award of pre‑judgment interest to the appellant. In an affidavit dated March 10, 2003, Ruth Kilgour, the legal assistant to the Ottawa agent for the office of the children's lawyer, set out a series of circumstances explaining why such an award was being opposed.
+[8] Notwithstanding the children’s lawyer’s opposition, the application was eventually approved. The relevant portions of the judgment read as follows:
+JUDGMENT
+THIS APPLICATION was heard this day without a jury at Ottawa, in the presence of counsel for the Applicant and the Respondent Patrick MacKinnon by his Litigation Guardian, the Office of the Children’s Lawyer; no-one appearing for the Executor and Trustee of the Estate, the T-D Canada Trust, although properly served as appears from the Affidavit of Travis Henderson, sworn December 12, 2002, filed.
+ON READING the Application Record, the Affidavits of Bernice MacKinnon and Ruth Kilgor [sic], and the exhibits contained therein; and upon hearing the submissions of counsel for the parties:
+1. THIS COURT ORDERS that the Estate of Dennis MacKinnon, by its Executor and Trustee, the T-D Canada Trust, pay to the Applicant the sum of One Hundred and Sixty-Two Thousand, Five Hundred and Fifty-Four Dollars and Ninety-Four Cents ($162,554.94), together with interest fixed in the sum of Sixty-Seven Thousand, One Hundred and Seventy-One Dollars and Seventy Cents ($67,171.70); for a total of Two Hundred and Twenty-Nine Thousand, Seven Hundred and Twenty-Six Dollars and Sixty-Four Cents ($229,726.64).
+[9] The issues are whether the appellant must include the amount of $67,171.70 in her income as taxable interest for her 2003 taxation year, and if so, whether she can deduct her legal expenses in the amount of $21,548.81 incurred to recover the RRSP funds.
+[10] I will deal first with the issue of whether the $67,171.70 is interest. Counsel for the appellant submits that the $67,171.70 paid to the appellant by the estate is not interest as contemplated by the Income Tax Act. The Court must look at the circumstances of each case and determine from the facts whether the amount paid was intended by the parties to be interest irrespective of the fact that the judgment identifies it as such. Counsel also submits that the Court must look at the intention of the parties in resolving the issues between them. In this case, he submits that the intent was to simply bridge the gap between the value of the RRSP at the time it should have been paid to the appellant (1994) and the time it was actually paid (2003) so that the appellant would receive the fair value of the RRSP.
+[11] Counsel for the appellant further submits that since interest is not defined in the Act, the meaning thereof becomes a question to be decided by the Court. He referred the Court to the Supreme Court of Canada decision in Shell Canada v. Canada, [1999] 3 S.C.R. 622, where it was held that if there is no legal obligation to pay interest, the payment cannot be interest, and also to a quotation from the Federal Court of Appeal decision in the same case stating that something is not interest merely because the parties agree to call it interest.
+[12] Counsel for the respondent submits that even though the Act does not define the term interest, it has been defined by the Supreme Court of Canada in Re: Farm Security Act 1944 (Saskatchewan), [1947] S.C.R. 394 (QL), in the following passage by Mr. Justice Rand:
+Interest is, in general terms, the return or consideration or compensation for the use or retention by one person of a sum of money, belonging to, in a colloquial sense, or owed to, another. There may be other essential characteristics but they are not material here. The relation of the obligation to pay interest to that of the principal sum has been dealt with in a number of cases including: Economic Life Assur. Society v. Usborne [[1902] A.C. 147] and of Duff J. in Union Investment Co. v. Wells [(1929) 39 Can. S.C.R. at 645]; from which it is clear that the former, depending on its terms, may be independent of the latter, or that both may be integral parts of a single obligation or that interest may be merely accessory to principal.
+But the definition, as well as the obligation, assumes that interest is referrable to a principal in money or an obligation to pay money. Without that relational structure in fact and whatever the basis of calculating or determining the amount, no obligation to pay money or property can be deemed an obligation to pay interest.
+[13] Counsel for the respondent therefore submits that the wording used in the judgment makes it clear that interest is what was paid in this case, and that the wording of paragraph 12(1)(c) of the Act is sufficiently broad to include this situation. The amount of $67,171.70 thus cannot be anything other than taxable interest in the hands of the appellant.
+[14] Paragraph 12(1)(c) of the Act reads as follows:
+12(1) There shall be included in computing the income of a taxpayer for a taxation year as income from a business or property such of the following amounts as are applicable:
+(c) Interest — subject to subsections (3) and (4.1), any amount received or receivable by the taxpayer in the year (depending on the method regularly followed by the taxpayer in computing the taxpayer's income) as, on account of, in lieu of payment of or in satisfaction of, interest to the extent that the interest was not included in computing the taxpayer's income for a preceding taxation year;
+. . .
+[15] The Shell Canada case referred to by counsel for the appellant in fact established four factors to be used in determining whether there is interest under paragraph 20(1)(c), but this is in relation to the deductibility of interest. According to paragraph 20(1)(c), the lack of an obligation to pay interest will prevent the interest from being deductible and this may lend support to the argument that it is not interest per se. I do not believe, however, that the fact that an amount may not be considered interest under paragraph 20(1)(c) can make it something other than interest for the purposes of other provisions of the Act, more particularly paragraph 12(1)(c).
+[16] Paragraph 12(1)(c) of the Act does not specifically make mention of a legal obligation to pay interest, but given the definition of interest found in Re Farm Security Act, supra, interest arises when there is an amount due to, or belonging to, another person for the period for which the interest is calculated.
+[17] The appellant's position is that, until the Superior Court judgment was signed in March of 2003, the estate was under no obligation to pay anything whatsoever to the appellant, there being no enforceable agreement between them and thus no requirement to pay interest. Accordingly, the $67,171.70 is simply added on to adjust the RRSP to its 2003 value and is therefore not paid on account of, in lieu of payment of, or in satisfaction of, interest within the meaning of paragraph 12(1)(c) of the Act.
+[18] The fact of the matter, though, is that the appellant was the designated beneficiary of the RRSP and was entitled to receive the funds in question as early as 1994. By reason of what has been termed a mistake by Nesbitt Burns, the appellant was deprived of that sum of money for a period of over seven years. It is Nesbitt Burns’ failure to pay the RRSP funds over to the appellant in 1994 that has deprived her of the use of that money. It was Nesbitt Burns that owed the appellant, the rightful owner of the money, consideration or compensation in exchange for having deprived her of it. Had Nesbitt Burns paid the $67,171.70 directly to the appellant, the amount would have fallen within the definition of interest found in Re Farm Security Act and thus would have been taxable.
+[19] In order to avoid legal costs and a succession of actions, the appellant reached an agreement with her son’s estate to settle her action against Nesbitt Burns by accepting that the estate pay directly to her the principal amount of the RRSPs, that is, its 1994 value, together with a sum of money which, in my opinion, can only be compensation for having been deprived of the use of that money for over seven years. The fact that the judgment refers to the $67,171.70 as interest is consistent with the position taken by the children's lawyer, who was opposing the award of pre-judgment interest.
+[20] The appellant's entitlement to the principal amount of the RRSP and the obligation to pay that amount arose in 1994. The appellant, having been deprived of the use of that money, therefore became entitled to be fully compensated, which is what the judgment intended to do and what the litigation guardian was trying to prevent in opposing the application. When an amount is awarded over and above the amount wrongfully withheld, it has the characteristics of interest income and therefore is to be taxed under paragraph 12(1)(c) (See Coughlan v. R., [2001] 4 C.T.C. 2004).
+[21] The second issue concerns the deductibility of the legal expenses incurred by the appellant to recover what was rightfully hers. In fact, the Agreed Statement of Facts states that the legal expenses were incurred in order to recover the sum of $162,554.94 together with interest fixed at $67,171.70.
+[22] Counsel for the respondent agrees that the legal expenses are deductible insofar as they pertain to the recovery of the pre-judgment interest but are not deductible with respect to the principal amount of the RRSP, as this should be considered as being of a capital nature (paragraph 18(1)(b) of the Act), and therefore the legal expenses relating thereto were not incurred for the purpose of gaining or producing income from property under paragraph 18(1)(a) of the Act. Counsel for the respondent therefore suggests that the legal expenses be prorated accordingly. Counsel for the appellant maintains that the legal expenses relating to the principal amount were incurred for the purpose of gaining or producing income from property and that there is no capital aspect to the payment of that amount.
+[23] In Evans v. MNR, 60 DTC 1047, the Supreme Court of Canada addressed the issue of the deductibility of legal fees. The appellant in that case was seeking to recover legal fees paid in the pursuit of her testamentary right, as a beneficiary, to the income flowing from her share of the residue of the estate. The court determined that a distinction must be made between establishing a right to, or receiving, a capital asset and collecting income to which one is entitled but which one cannot obtain without incurring legal fees. The Supreme Court further said that the nature of the property cannot be altered by the circumstance that it was mistakenly claimed by another. Justice Cartwright also pointed out that the grounds on which the payment or the right was withheld from the appellant were in no way relevant and that the sole factor to be considered is the nature of the right. He further stated that a right flowing from a will does not depend on a court judgment for its existence. The judgment permits the release of a sum of money owing to the legal owner and does not create the right to that sum.
+[24] The definition of property found at subsection 248(1) of the Act, and more particularly the phrase “a right of any kind whatever”, has been the subject of many court decisions. In Manrell v. The Queen, 2003 DTC 5225, madam Justice Sharlow had this to say on the meaning of property:
+[48] I turn now to the jurisprudence that has considered the statutory definition of “property” and the meaning of the phrase “a right of any kind whatever”. There is ample authority for the proposition that the word “property” is capable of many meanings, and that in the fiscal context its meaning must be understood to be broad and inclusive. For example Justice Linden, writing for this Court in Kieboom v. Minister of National Revenue, [1992] 3 F.C. 488, [1992] 2 C.T.C. 59, 92 DTC 6382 (F.C.A.), said this:
+As for the word property, it too has been widely interpreted. The Income Tax Act, subsection 248(1) defines property as “property of any kind whatever whether real or personal or corporeal or incorporeal [page 500] and, without restricting the generality of the foregoing includes (a) a right of any kind whatever, a share or a chose in action,”. Lord Langdale once stated that the word property is the 'most comprehensive of all the terms which can be used, inasmuch as it is indicative and descriptive of every possible interest which the party can have.” (See Jones v. Skinner (1836), 5 L.J. (N.S.) Ch. 87 (Rolls Ct.), at page 90; see also Re Lunness (1919), 46 O.L.R. 320 (App. Div.), at page 322; Fasken, supra [Fasken, David v. Minister of National Revenue, [1948] Ex.C.R. 580], at page 591; and Vaillancourt v. Deputy M.N.R., [1991] 3 F.C. 663 (C.A.).)
+[49] Based in part on this understanding of the word “property”, Justice Linden concluded that a person who owns common shares of a corporation is considered to have transferred property to his wife when he enters into an arrangement whereby she subscribes for newly issued common shares of the corporation at a nominal price, reducing his interest from 90% to 20%, while increasing her interest correspondingly. This case is authority for the proposition that a share interest in a corporation is property, and the transaction in issue was a transfer of property because it resulted in a movement of part or all of that bundle of rights from one shareholder to another. While this case recognizes and restates the proposition that in the income tax context the word “property” has a very broad meaning, it does not say that everything of value is “property”.
+[50] The phrase upon which the Crown relies in this case, “a right of any kind whatever”, like the word “property”, has a very broad meaning. But it is not a word of infinite meaning. It cannot include every conceivable right. It cannot be given a meaning that would extend the reach of the Income Tax Act beyond what Parliament has conceived. Even counsel for the Crown conceded that it does not include a human right, or a constitutional right.
+[51] It is not difficult to imagine examples in which the meaning of “a right of any kind whatever” would be taken too far. Consider the case of a person who is injured in a car accident caused by the negligence of another person. The injured person has the right, possibly a valuable right, to claim damages against the negligent person. Suppose that claim is released in consideration of the payment of a sum of money. One could say that the right to claim damages was disposed of. But no one would accept the argument that the payment is the proceeds of disposition of capital property. Why? Because fundamentally the payment is compensation for a personal injury, something that is well understood to be beyond the reach of the Income Tax Act. Although a legal claim for damages for personal injury is a “right”, the settlement transaction is not within the scope of the capital gains provisions in the Income Tax Act.
+[52] Counsel for Mr. Manrell has provided what appears to be an exhaustive list of all the cases in which something has [sic] found to be “a right of any kind whatever”. I will not reproduce the whole list. But I will cite a few illustrative examples. The right represented by a term life insurance policy that has no cash surrender value but is convertible without evidence of insurability is a “right” for purposes of the definition of “property” in the Estate Tax Act, S.C. 1958, c. 29 (a definition very similar to the definition in the Income Tax Act): Estate of Harry A. Miller v. Minister of National Revenue, [1973] C.T.C. 793, 73 DTC 5583 (F.C.T.D.). An entitlement to receive payments from the pension plan of a deceased spouse is a “right” for purposes of the definition: Driol v. Canada, [1989] 1 C.T.C. 2175, 89 DTC 122 (T.C.C.). An irrevocable promise in a marriage contract to pay a sum of money to the spouse during the marriage gives rise to a right in the hands of the recipient spouse as of the date of the promise, and that right is at that time a “right” for purposes of the definition: Furfaro-Siconolfi v. Canada, [1990] 2 F.C. 3, [1990] 1 C.T.C. 188, 90 DTC 6237 (F.C.T.D.). An entitlement to maintenance or alimony is a “right” for purpose of the defintion [sic]: Canada v. Burgess, [1982] 1 F.C. 849, [1981] C.T.C. 258, 81 DTC 5192 (F.C.T.D.), see also Nissim v. Canada, [1999] 1 C.T.C. 2119, Donald v. Canada, [1999] 1 C.T.C. 2025 (T.C.C.).
+[53] The fact is that in the history of tax jurisprudence in Canada, involving dozens of cases that consider the statutory definition of “property”, there is not a single case in which the word “property” has been held to include a right that is not or does not entail an exclusive and legally enforceable claim. This does not prove that the Crown's argument is wrong, but in my view it casts serious doubt on it.
+[25] A distinction is to be made between fees incurred to affirm a right and those incurred to acquire a right. This distinction was made in Kellogg Co. of Canada v. M.N.R., 2 DTC 548 (Exchequer Court of Canada) at page 553 (a decision affirmed by the Supreme Court of Canada):
+No “material” or “positive” advantage or benefit resulted to the trade of Kellogg from the litigation except perhaps a judicial affirmation of an advantage already in existence and enjoyed by Kellogg. I do not think that the Crown can be heard to say that because the litigation affirmed a right which Kellogg, in common with others, was already entitled to and enjoyed that therefore it acquired something which should be treated as an asset or an enduring advantage to its trade. . . . It was to maintain this trading and profit-making position that Kellogg was obliged to make the expenditure in question.
+[Emphasis added.]
+[26] The application before the Ontario Superior Court was necessary to obtain approval of the out-of-court settlement because it involved a minor. It was also necessary in order to dispose of the objection by the litigation guardian with regard to pre-judgment interest. The legal fees incurred were necessary in order for the appellant to have returned to her that which was rightfully hers after the passing of her son, and they were not incurred for the purpose of acquiring a right. In my opinion, the legal fees were incurred by the appellant in order to materialize that right and they thus fall under the exception contained in paragraph 18(1)(a) of the Act and are therefore deductible.
+[27] The appeal is allowed in part and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment. Both parties shall bear their own costs.
+Signed at Ottawa, Canada, this 16th day of November 2007.
+« François Angers »
+Angers J.
+CITATION: 2007TCC658
+COURT FILE NO.: 2006-2147(IT)G
+STYLE OF CAUSE: Bernice Mackinnon and Her Majesty the Queen
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: September 20, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: November 16, 2007
+APPEARANCES:
+Counsel for the Appellant:
+R. Wayne MacKinnon
+Counsel for the Respondent:
+Geneviève Léveillé
+COUNSEL OF RECORD:
+For the Appellant:
+Name: R. Wayne MacKinnon,
+President and Lawyer
+Firm: Gateway Maritime Inc.
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,212 @@
+Title: Daniel Adam (Syndic) pour Luc Lafontaine (failli) c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27858/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-321-27858-daniel-adam-syndic-pour-luc-lafontaine-failli-c-la-reine-en.md
+Document type: case_law
+Last modified: 2005-04-11
+
+# Daniel Adam (Syndic) pour Luc Lafontaine (failli) c. La Reine
+
+- Citation: 2005 TCC 321
+- Decision date: 2005-04-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 333, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Daniel Adam (Syndic) pour Luc Lafontaine (failli) c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-11
+Neutral citation
+2005 TCC 321
+File numbers
+2003-1093(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1093(IT)G
+BETWEEN:
+DANIEL ADAM & ASSOCIÉS,
+TRUSTEES TO THE BANKRUPT LUC LAFONTAINE,
+Appellant,
+and
+HER MAJESTY THE QEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 11, 2005, at Québec, Quebec
+Before: The Honourable Judge Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Manès Webster
+Counsel for the Respondent:
+Marie-Aimée Cantin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment under the Income Tax Act for the 1999 taxation year is dismissed, with costs in favour of the Respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 13th day of May, 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29th day of March, 2006
+Garth McLeod, Translator
+Citation: 2005TCC321
+Date: 20050513
+Docket: 2003-1093(IT)G
+BETWEEN:
+DANIEL ADAM & ASSOCIÉS,
+TRUSTEES TO THE BANKRUPT LUC LAFONTAINE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] The assessment from which this appeal is made was established using the "net worth" method under unusual circumstances. In the wake of a police investigation, followed by criminal charges to which Mr. Lafontaine pleaded guilty, the Respondent reviewed Mr. Lafontaine's tax file.
+[2] Since Mr. Lafontaine had not submitted an income tax return for the 1999 taxation year, the Respondent issued an assessment on the basis of information taken from a variety of documents that were seized and confiscated during the police investigations.
+[3] After the assessment had been issued, Luc Lafontaine assigned his assets on July 16, 2004. Since Mr. Lafontaine no longer had the legal ability to proceed with his appeal, the bankruptcy trustees filed an application for resumption of proceedings, dated October 27, 2004, which was worded as follows:
+[translation]
+CANADA
+PROVINCE DE QUEBEC Tax Court
+of Canada
+_______________________
+NO: 2003-1093(ITG)
+LUC LAFONTAINE,
+Appellant;
+-vs-
+HER MAJESTY THE QUEEN,
+Respondent.
+________________________
+APPLICATION FOR RESUMPTION OF PROCEEDINGS
+We are appearing for Daniel Adam, in his capacity as trustees of the assets of Luc Lafontaine, Appellant, in the instant case, without prejudice.
+Luc Lafontaine, through his undersigned Counsel, is appearing in the instant case, without prejudice.
+Charlesbourg, October 27, 2004
+(Signed)
+ARMIJO & WEBSTER
+(Manès Webster)
+Counsel for the Appellant
+[4] In order to explain and justify the assessment, the Respondent relied on the following assumptions of facts:
+(a) The Minister undertook an audit of the personal finances of the Appellant using the net worth variance method following an investigation by the Royal Canadian Mounted Police Integrated Proceeds of Crime Unit.
+(b) On March 13, 2000, the Appellant was convicted of smuggling tobacco and alcohol and sentenced to a fine of three million dollars ($3,000,000).
+(c) On January 11, 2001, the Appellant pleaded guilty to four counts: 1. Conspiracy to export narcotics; 2. Conspiracy to traffic, possession for the purpose of trafficking and possession of narcotics; 3. Possession of property obtained by crime and 4. Exporting narcotics.
+(d) He was sentenced to five (5) years and four (4) months in prison, a victim fine surcharge of one hundred and twenty thousand dollars ($120,000), and prohibited from the possession of firearms for a period of ten (10) years.
+(e) In addressing his arguments to the Court, the Appellant admitted being the owner of a number of items of property, including the motor vehicle which the Appellant described in his Notice of Appeal.
+(f) In order to establish the assessment at issue, the Minister analyzed records of bank transactions, invoices, credit card statements and other information obtained in the course of his investigation, which are summarized in the tables attached to this response as Appendix A, and are an integral part thereof.
+(g) Using the net worth variance method, the Minister established that the Appellant had income of $283,825.00 for the 1999 taxation year, as it appears in the tables attached to this Response as Appendix A, of which they form an integral part.
+(h) The Appellant did not file an income return for the 1999 taxation year by April 30, 2000.
+(i) The Minister imposed a penalty of $10,947.11 on the Appellant for late filing of his income tax return.
+[5] The evidence submitted by the Appellant was made up exclusively of the testimony of Luc Lafontaine, who has a material interest in the result, in view of the fact that Counsel for the Appellant mentioned that the outcome of the appeal would have an impact on the progress of the case.
+[6] The Appellant targeted most of the elements considered in calculating the net worth. These elements were as follows:
+· personal expenses;
+· the ownership of a specific motor vehicle;
+· money from another person;
+· the assessed value of a second boat, which had been owned by Luc Lafontaine;
+· landscaping improvements to the residence of Luc Lafontaine;
+· furnishings and personal effects.
+[7] By way of introduction, Mr. Luc Lafontaine stated that, after serving his prison sentence, he had decided to mend his ways and become a responsible citizen.
+[8] To illustrate this turnaround, he stated that he had severed all ties to his former acquaintances, had regained custody of his child and had adopted the child of his new wife.
+[9] He then provided essentially oral explanations in order to refute the conclusions drawn under the various headings set out above.
+[10] For each of these headings, Mr. Lafontaine submitted only a variety of oral explanations, most of them summary. He did not opt to support his statements with any kind of documents or witnesses.
+[11] His statements were often vague and equivocal. They stemmed from a somewhat selective memory. On the other hand, this memory became surprising, even exceptional, with respect of other aspects which, naturally, supported his position.
+[12] Before the Court, Mr. Lafontaine clearly repeated the same oral arguments as he had done in the objection, without any additions in the form of documents, other witnesses or interventions by persons able to corroborate his statements.
+[13] He insisted, at the start of his testimony, that he was now a law-abiding person, rehabilitated, serious and responsible, now with substantial family responsibilities.
+[14] Such a turnaround is undoubtedly laudable and such as to cast a sympathetic light on the case. However, this new direction and rehabilitation of Mr. Lafontaine have no impact on whether or not the appeal is well founded.
+[15] Let us review the essentials of Luc Lafontaine's explanations. He claimed that he had received $50,000 from a Chinese named Mr. Wong; Mr. Wong reportedly had commissioned a lawyer to give him the amount in question after he had been obliged to return to China. He knew his name, "Wong"; he had done business with him in the past. Despite the passage of several years, he had heard nothing more of Mr. Wong and had done nothing to locate him, hence the fact that he still owed him this amount.
+[16] In the course of the action taken to verify the statements of Mr. Lafontaine, the Respondent explained that Mr. Wong had been located; according to their research, he was residing in British Columbia and not in China.
+[17] A review of the income reported by Mr. Wong leads to the conclusion that $50,000 constituted a considerable sum; this finding leads to a highly relevant question: why would someone who is owed the sum of $50,000, and whose income is very modest, have done absolutely nothing to recover what was owing to him, especially since it would appear that the lawyer who acted as his agent could have easily located Mr. Lafontaine in order to recover the money?
+[18] With regard to a Sebring vehicle, Mr. Lafontaine maintained that it was part of a group of vehicles of the same make seized in the context of criminal proceedings. According to his testimony, one of the vehicles in question did not belong to him; it belonged to another individual, who had recovered it following the seizure.
+[19] Are we dealing with the same vehicle? Why had he formally admitted, under oath before the Court, following the seizure, that he was the owner of the vehicle in question? Answer: he was following the advice of his lawyer. Why did the person who was the owner of the vehicle not appear to testify?
+Boat:
+[20] The assessment was established following an analysis of a number of factors and a variety of documents. According to Mr. Lafontaine, most of these factors were not relevant. He explained that, when he purchased the boat, the seller had undertaken to make improvements without charge, to do repairs without charge and also to provide certain additions without charge. Why did the seller not appear to testify and confirm his many statements?
+Heat pump:
+[21] The explanations by Mr. Lafontaine are that he had purchased it at a very good price and that he had installed it himself with the help of a friend who did the work for free. He claims that the amount assessed is totally unreasonable.
+[22] No one testified regarding the size of the residence in order to establish its energy requirements and specific features. Why did the vendor of the heat pump not appear as a witness? The value that was assigned was admittedly done in a somewhat arbitrary manner, albeit not an unreasonable one.
+Landscaping:
+[23] Mr. Lafontaine claims that he allegedly invested $20,000 in installing a swimming pool and adjacent facilities; he did not do the landscaping work at the front of his property. The facts considered in determining his net worth included an invoice which, according to Mr. Lafontaine, was not related to the work actually performed, but was merely an estimate; according to him, the work described in it was never performed.
+[24] He maintained that the Minister should have visited the property to verify and see for himself that the work had not been carried out. Why did he not call as witnesses the various contractors involved, who would have been in a position to explain the documents that were seized and used by the Minister?
+[25] With regard to the personal expenses and the purchase of furnishings, Mr. Lafontaine essentially asserted that his lifestyle was within the standards established by Statistics Canada. He also stated that his partner was very extravagant and that she had purchased certain assets with her own income.
+[26] There was also the matter of the "Poker Run", which consisted of boat trips over a certain route with a number of stops to take a playing card at each location; at the end of the outing, the participant with the best poker hand was declared the winner. According to his testimony, his passengers paid all the expenses, and his participation was limited to providing the boat.
+[27] In addition to many explanations that were unsubstantiated, incomplete and often implausible, I am obliged to recall that Mr. Lafontaine admitted to having used several cellular telephones not registered to him; the registered owners agreed to lend their names and consent in return for remuneration and reimbursement of the user fees. He also stated that he had used numerous aliases so that certain assets of which he was the real owner would not appear under his name.
+[28] With regard to this very specific context, the Appellant would have needed to provide more convincing proof of some of its claims, especially since it would have been very easy to have had certain persons appear who would have been very useful in this regard.
+[29] The Court, furthermore, raised in the course of the hearing the weakness of the evidence, since it consisted essentially of the testimony of Mr. Lafontaine, who was personally interested in and, most importantly, very much affected by the result of the appeal, in contrast to the claims of Counsel, who stated that Mr. Lafontaine had nothing to lose or gain from the appeal. This comment was utterly at variance with the claim that the cancellation of the assignment of assets for the benefit of creditors would be submitted if the appeal were upheld.
+[30] Counsel for the Appellant in fact himself repeated on several occasions that, if the appeal were upheld, the administrative process of the assignment of assets would be halted and an application for cancellation of the assignment would probably be filed.
+[31] In order to explain or justify the failure to appear on the part of certain individuals who could have substantiated, confirmed or validated certain essentially oral elements of proof, Counsel for the Appellant indicated that, on the one hand, Mr. Lafontaine had decided to sever all ties to his former circle of acquaintances and, on the other hand, that he had been formally prohibited, by Court order, from having any form of contact whatsoever with the persons with whom he had previously associated.
+[32] First, these arguments cannot stand because the Appellant, in accordance with the appearance in resumption of proceedings, is not Mr. Lafontaine, but the firm of trustees.
+[33] Second, the procedure for having a person testify at a trial has nothing to do with the nature of the relationship that may have existed between a potential witness and the interested party in the case. In other words, Mr. Lafontaine strictly speaking had nothing to do with the responsibility or the consequences of having certain persons testify or not; this decision rested essentially with the bankruptcy trustees who re-opened the case. Furthermore, the trustees, who alone are competent to act in the instant case, were obliged to present the best evidence possible. This required the appearance of any person capable of validating and corroborating the essentially oral evidence of a person who was very much concerned with the result.
+[34] If the reasons invoked to justify the non-intervention of certain individuals were acceptable, which is not the case, the Appellant could certainly have called several people who had absolutely no connection with Mr. Lafontaine's criminal past. I am thinking specifically of a representative of the company that prepared the document concerning the landscaping work, a person who could have shed light on the heat pump, a representative of the company that installed the swimming pool, the various parties involved in the purchase and sale of the boat, and so on.
+[35] To begin with, Mr. Lafontaine, having regard to the rather unusual context and circumstances which led to a substantial assessment, knew full well that his credibility would undoubtedly be an important factor in the analysis of the evidence in support of the appeal. The Court can understand in part some of the difficulties that that entailed in respect of certain aspects of the case.
+[36] Consequently, it was imperative to emphasize those elements where it was possible, or even very easy, to submit evidence of irreproachable quality, especially since the oral claims of Mr. Lafontaine had already been presented and rejected at the time of the objection.
+[37] The Appellant chose to dispute the grounds for the assessment by repeating essentially the same oral explanations that were submitted with the objection. According to the Appellant, these explanations should be retained for the following two reasons:
+· the difficulty of, indeed the prohibition against, having contact with his former associates;
+· his reformed behaviour and rehabilitation, complemented by the addition of major family responsibilities.
+[38] These may, admittedly, be arguments that have a certain relevance and that could have complemented or supported evidence that itself has minimal probative force. However, they definitely do not constitute sufficient evidence to discredit the value of the assessment which, although arbitrarily established, nonetheless had the merit of being reasonable and plausible, in terms of both the substance and the quality of the work resulting in the production of this assessment.
+[39] In fact, the evidence has shown that some assets were assessed in a somewhat arbitrary manner, albeit not an unreasonable one. The evidence has also clearly established that the Respondent had displayed considerable generosity in her approach to Mr. Lafontaine. I am referring specifically to the amounts allocated to him for personal expenses. (Reference to the statistical data provided by Statistics Canada)
+[40] Mr. Lafontaine quite clearly had substantial resources. He had many assets, luxury cars, a boat, a snowmobile, a Harley-Davidson motorcycle, high‑end clothing, and so on.
+[41] Claims that arriving at Mr. Lafontaine's cost of living on the basis of statistical data established by Statistics Canada constitute a real affront to the intelligence and are certainly not likely to create a context or a favourable predisposition with regard to certain elements where there might have been a degree of doubt; more than that, such audacious exaggeration undermines Mr. Lafontaine's entire testimony.
+[42] In order to satisfy the burden of proof, much more is required than merely to point out certain weaknesses with regard to the reliability of the data used in the calculation using the net worth method.
+[43] Highlighting certain weaknesses is definitely not sufficient to invalidate the result obtained by the net worth method, even if this is an imperfect approach which inevitably produces a commensurately imperfect result.
+[44] The use of the net worth method does not result from a choice by the Respondent; it stems essentially from the choice of the individual concerned by the assessment not to have in their possession a file that would allow for a traditional audit when the time comes to do so.
+[45] Furthermore, an assessment arrived by the net worth method always takes the form of a draft, which the individual involved can challenge. If that is not the case, the assessment can be disputed by a Notice of Objection. At that stage, the individual can seek help and advice and provide everything that is potentially relevant to support a review that will produce an outcome in their favour.
+[46] If the individual concerned by the assessment fails in his or her attempt to obtain satisfaction, he or she can then file a Notice of Appeal, after which a hearing will be held. If the Appellant does no more than essentially repeat the explanations produced at the objection, they are likely to encounter the same reasons that led to their being rejected previously.
+[47] However, if the individual being assessed believes in the merit of the arguments that were dismissed at the objection stage, it seems to me essential, if they are serious, that they undertake a whole series of efforts and initiatives to confirm and substantiate their arguments with a view to establishing probative force that will support elements that have a degree of reliability.
+[48] In the instant case, the testimony of Mr. Lafontaine was filled with such statements as "I don't remember", "Perhaps", and so on. Furthermore, many of his statements were vague, imprecise or very general. Overall, his testimony had very little credibility and was certainly insufficient to meet the requirements of the burden of proof that rests on the Appellant. This assessment is based specifically on the following elements:
+· Explanations that were outlandish and essentially oral. I am referring specifically to the money from a certain Mr. Wong. This was a large amount, over $50,000, which belonged to this Mr. Wong, who was supposed to leave for China, and which a lawyer had been instructed to give to him.
+· The total absence of relevant, valid documentation to confirm the oral assertions and explanations.
+· The denial of a judicial admission regarding the ownership of a motor vehicle.
+· The fact of having deliberately disposed of all the confiscated documents that were returned to him (the green bag).
+· The use of numerous aliases, with the obvious intent to leave no trail. I am referring specifically to boats, pagers and cellular telephones.
+· The totally implausible claims regarding lifestyle.
+· The non-appearance of a number of individuals who could have made a contribution.
+[49] Taken together, all these elements make the version of Luc Lafontaine very unconvincing, and support the conclusion that it is not credible in presenting better evidence.
+[50] The burden of proof was on the Appellant. Such a burden is of itself a heavy responsibility. In the instant case, it involved a large assessment, the substance of which stemmed from investigations that led to serious criminal charges, which in turn resulted in guilty pleas. In the context of these investigations, a considerable amount of property and documents was confiscated and seized, and this was clearly known by the person being assessed.
+[51] The assessment was arrived at on the basis of facts, conversations, transactions and a large quantity of highly relevant documents. The assessment was followed by an objection, where Mr. Lafontaine was represented by an accountant.
+[52] He accordingly had the time, energy and resources to assemble a detailed, substantiated objection that would make the basis of his objection credible and plausible, even if he had disposed of most of the documents that were given to him.
+[53] According to the person in charge the case, at the objection, Mr. Lafontaine had essentially produced the same, largely oral, explanations; they were not accepted.
+[54] In preparing for the appeal, the Appellant was aware of the basis for the assessment and accordingly of the nature of the evidence that would be presented to the Court.
+[55] All the documents, data and items in support of the assessment were known, hence it would have been essential to prepare and submit evidence more substantial than a mere repetition of the claims made at the objection.
+[56] This Court must decide on the justification for the assessment, based on the relevant proof submitted to it. Such proof must be credible, plausible and preponderant.
+[57] The basis for the assessment established using the net worth method was derived from a serious analysis and from appropriate questioning. The testimony of the Sergeant with the Royal Canadian Mounted Police and of the Auditor General also established numerous facts based on documents of eminently acceptable reliability.
+[58] Admittedly, the value of certain assets, specifically the heat pump, was established in a fairly arbitrary manner, although one that was not unreasonable; this is a consequence that any person must accept when they do not have in their possession supporting documentation to refute its accuracy. When an individual is the subject of an assessment based on the net worth method, they have all the latitude one could wish for to discredit the basis thereof.
+[59] When such an assessment is established, the individual concerned has access to all the factors and all the facets taken into account in arriving at it; they can accordingly demonstrate, through numerous means, such as the intervention of third parties, supporting documentation, strong circumstantial evidence or credible, reliable testimony, based on the preponderance of evidence, that the assessment in question is wholly or partially unfounded.
+[60] In order to dispute an assessment arrived at using the net worth method and based on facts and documents, the reliability of which was convincing, and circumstantial evidence that would appear to be equally convincing, it would have been necessary, given the quality of such evidence, to submit evidence of equally convincing reliability.
+[61] Mr. Lafontaine claimed that he had placed in a green bag all the documents handed over after the seizure, some of which could have shed a certain light on, or possibly confirmed, his statements.
+[62] In refuting and disputing the validity of the assessment, the Appellant did no more than make unsubstantiated, uncorroborated statements, which were for the most part vague and inconsistent.
+[63] This is flawed, incomplete evidence which is certainly not sufficient to discredit the validity of the assessment.
+[64] The burden of proof lay with the Appellant. It has unquestionably failed to discharge this responsibility. In light of the evidence submitted, one would have thought that the Appellant was under the impression this was a criminal trial, where reasonable doubt can make all the difference.
+[65] In tax law, the fact of raising a small doubt or several small doubts is not sufficient to satisfy the burden of proof that rests on the Appellant.
+[66] For all these reasons, the appeal is dismissed, all with costs.
+Signed at Ottawa, Canada, this 13th day of May, 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29th day of March, 2006
+Garth McLeod, Translator
+CITATION: 2005TCC321
+DOCKET NO.: 2003-1093(IT)G
+STYLE OF CAUSE: Daniel Adam & Associés
+Trustees in the case of the bankrupt
+Luc Lafontaine
+v. Her Majesty The Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: April 11, 2005
+REASONS FOR JUDGMENT: The Honourable Judge Alain Tardif
+DATE OF JUDGMENT: May 13, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Manès Webster
+Counsel for the Respondent:
+Marie-Aimée Cantin
+SOLICITOR OF RECORD:
+For the Appellant:
+Name: Manès Webster
+Firm: Armijo & Webster
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

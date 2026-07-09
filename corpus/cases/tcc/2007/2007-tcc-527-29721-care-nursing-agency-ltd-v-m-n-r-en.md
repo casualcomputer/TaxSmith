@@ -1,0 +1,192 @@
+---
+title: "Care Nursing Agency Ltd v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29721/index.do"
+last_modified: "2007-10-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 527"
+citation2: ""
+neutral_citation: "2007 TCC 527"
+decision_date: "2007-10-03"
+language: "en"
+item_id: "29721"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6529
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:39:40.590000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "72dd7383e7937b3a2c88e7c6fe02f27d11d51df8a9ef6905b2267fc74ab662b4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Care Nursing Agency Ltd v. M.N.R.
+
+- Citation: 2007 TCC 527
+- Decision date: 2007-10-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6529, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Care Nursing Agency Ltd v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-03
+Neutral citation
+2007 TCC 527
+File numbers
+2006-2546(EI)
+Judges and Taxing Officers
+Norris Weisman
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2007TCC527
+2006-2546(EI)
+2006-2547(CPP)
+BETWEEN:
+CARE NURSING AGENCY LTD.,
+Appellant,
+-and-
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+CERTIFICATION OF TRANSCRIPT OF
+REASONS FOR JUDGMENT
+Let the attached certified transcript of my Reasons for Judgment delivered orally from the Bench at Toronto, Ontario, on August 1, 2007, be filed.
+"N. Weisman"
+Weisman D.J.
+Signed at Toronto, Ontario, this 3rd day of October 2007.
+Court File Nos. 2006-2546 (EI)
+2006-2547(CPP)
+TAX COURT OF CANADA
+IN RE: the Employment Insurance Act
+and the Canada Pension Plan
+BETWEEN:
+CARE NURSING AGENCY LIMITED
+Appellant
+- and -
+MINISTER OF NATIONAL REVENUE
+Respondent
+HEARD BEFORE MR. JUSTICE WEISMAN
+in the Courts Administration Service,
+Federal Judicial Centre, 180 Queen Street West,
+Toronto, Ontario
+on Wednesday, August 1 , 2007 at 3:58 p.m.
+ORAL REASONS
+APPEARANCES:
+Mr. Ed Sarmiento Representative of the Appellant
+Ms. Kandia Aird for the Respondent
+Also Present:
+Mr. C.F. Nethercut Court Registrar
+A.S.A.P. Reporting Services Inc. 8 2007
+200 Elgin Street, Suite 1004 130 King Street West, Suite 1800
+Ottawa, Ontario K2P 1L5 Toronto, Ontario M5X 1E3
+(613) 564-2727 (416) 861-8720
+(ii)
+INDEX
+PAGE
+Decision with Reasons 1
+*************
+Toronto, Ontario
+--- Upon commencing the Decision with Reasons on
+Tuesday, August 1, 2007 at 3:58 p.m.
+JUSTICE WEISMAN: I have heard two appeals against decisions by the Respondent, Minister of National Revenue, that the Appellant is responsible for the Employment Insurance premiums and Canada Pension Plan contributions with reference to some 130 nurses listed on schedule A to the Minister's reply to the notice of appeal.
+It was agreed by the parties at the beginning of these proceedings that the two witnesses who are nurses were representative of the remaining nurses listed in schedule A and were working under the same terms and conditions and had the same relationship with the Appellant and with hospitals as all the others did, and so therefore we could proceed on consent to hear these many matters on common evidence, utilizing the witnesses that were heard viva voce as representative of all the nurses listed in schedule A.
+The Minister based his decisions on regulation 6(g) under the Employment Insurance Act and on regulation 34(1) under the Canada Pension Plan. These two provisions are similar. Regulation 34(1) says:
+"Where any individual is placed by a placement or employment agency in employment with or for performance of services for a client of the agency and the terms or conditions on which the employment or services are performed and the remuneration thereof is paid constitute a contract of service or are analogous to a contract of service, the employment or performance of services is included in pensionable employment and the agency or the client, whichever pays the remuneration to the individual, shall, for the purposes of maintaining records and filing returns and paying, deducting and remitting contributions payable by and in respect of the individual under the Act and these Regulations, be deemed to be the employer of the individual."
+The Employment Insurance Act regulation 6 says:
+"Employment in any of the following employments, unless it is excluded from insurable employment by any provision of these Regulations, is included in insurable employment."
+And (g) says:
+"Employment of a person who is placed in that employment by a placement or employment agency to perform services for and under the direction and control of a client of the agency, where that person is remunerated by the agency for the performance of those services."
+As I have noted in earlier decisions, notably Isomeric Inc. v. the Minister of National Revenue, [2000] T.C.J. No. 843, the regulation under the Plan is broader in scope than regulation 6(g) under the Employment Insurance Act in that it requires the court, before someone can be fit into this section, to be satisfied that the terms and conditions were either a contract of service or analogous thereto. I plan to deal with that in due course.
+The facts established at trial are, first, that all nurses in schedule A were placed in hospitals or nursing homes or rehabilitation centres by the Appellant. We have the evidence of Ms. Tran:
+"We send the nurses to the hospitals."
+And we also have the standard-form employment contract, which has been filed as an exhibit in these proceedings, A2. It specifically provides that:
+"The professional shall not approach or solicit service directly to the healthcare facility."
+So we have evidence that the Appellant places the nurses in the hospital, and we have a prohibition by contract against the nurses directly approaching the hospital.
+Therefore, I am satisfied that the first requirement in both statutory provisions has been satisfied in that the Appellant is a placement agency that has not denied that they do place these nurses in hospitals. And, of course, the hospitals are the clients of the Appellant.
+The next issue is whether these nurses are under the direction and control of the client where they were placed. There is clear evidence from Glennette London that she, and therefore the rest of the nurses in schedule A, were subject to the direction and control of the nurse manager or resource person or team leader or physicians in the hospitals. They could be sent home for unsatisfactory service. They were, upon reporting in the morning, given their duties and assignments for the day and they were bound to comply with the hospital's safety procedures and rules. That was not only the evidence of Ms. London but also of Ms. Tran. So the second requirement has also been satisfied.
+In adverting to the Canada Pension Plan regulation 34(1) requirement that the terms and conditions constitute a contract of service or are analogous to a contract of service, I would point out a few relevant considerations.
+There is a case called Silverside Computer Systems v. the Minister of National Revenue, [1997] F.C.J. No. 1591 in the Federal Court of Appeal. At paragraph eight, referring to regulation 34 under the Plan, and in 1997 it was section 12(g) of the Employment Insurance Act Regulations, which is now 6(g) of the Regulations, the Court says:
+"Those provisions, in our view, are consistent with the powers so conferred, and indicate that the respective regulatory authority has implicitly concluded that the activities of the person who is placed by an agency to perform services for and under the direction and control of an agency's client, and the nature of the work done, are “similar” or “analogous” to services performed under a contract of service." (as read)
+And indeed, in the Silverside case, the Court was dealing with independent contractors who were expert in computers, and it was nonetheless held that they were caught by regulation 34(1) under the Plan and regulation 12(g) of the Act.
+Therefore, certainly for the purposes of the Employment Insurance Act, it does not matter whether the workers are an independent contractor or an employee; both are caught by that section.
+It might make some difference under the Plan because, as I have said, the Court has to find that their terms and conditions are similar or analogous to a contract of service.
+In that regard, adverting to the four-in-one test set out in Wiebe Door, which is still the law and was confirmed as recently as 2001 by the Supreme Court of Canada in Sagaz Industries, which is 671122 Ontario Ltd. v. Sagaz Industries -- the 2001 Supreme Court judgment is No. 61 -- and more recently in Precision Gutters v. the Minister, [2002] F.C.J. No. 771, the control issue, which is the first guideline, I have already said is clearly established. Counsel for the Minister had a question as to whose intention one was talking about. I think it is pretty clear in a control issue that it has to be the control of the client. I have already said that the evidence is quite clear that these nurses were working under the control of the client.
+As far as tools are concerned, the evidence of Ms. London was that while she had her own uniform, and while she had her own stethoscope, when she went to a hospital the hospital provided the stethoscope. That takes it out of the rule in Precision Gutters where a worker owns the tools that it is normal and reasonable for him or her to own, that person is an independent contractor.
+In these particular circumstances, we have the hospital providing all the equipment and facilities, and whatever is required in a complicated function of looking after ill people, and that all the nurse provided was her uniform. Therefore, under the peculiar circumstances of this trade, I find that the tools factor indicates that the workers were also employees.
+Of course, there is no chance of profit. They are getting paid on an hourly basis as was recognized by the Minister, and also was ruled upon in the case, cited by the Minister, of Hennick, [1995] F.C.J. No. 294, in the Federal Court of Appeal.
+As far as risk of loss is concerned, I have not heard any evidence that the nurses had any expenses other than the uniform, and the four guidelines being determinative, it really isn't necessary to go into the conundrum of whose intention is involved, because of the cases as recently as City Water International, [2006] F.C.A. No. 350.
+At paragraph 31 the Court says:
+"Since the relevant factors", which are about four-in-one Wiebe Door factors, "yield no clear result, greater emphasis should have been placed on the parties' intention by the Judge in this case."
+In the matter before me, the relevant factors do yield a clear result.
+So I find within the meaning of regulation 34(1) of the Canada Pension Plan that the terms and conditions were indeed analogous to a contract of service.
+The next requirement of these sections are that the nurses be remunerated by the agency, and it is patently clear on the evidence that they were.
+Notwithstanding the fact that both sections are clearly satisfied on the facts of this case, there were various arguments raised by the representative of the Appellant that I feel, in fairness, I should address myself to. The first one was the argument that regulations 6(g) and 34(1) cover only employees.
+We have already said that it is negated by the case of Silverside, but also the cases cited by counsel for the Minister, Sheridan v. the Minister of National Revenue, [1985] F.C.J. No. 230, 57 N.R., page 69 in the Federal Court of Appeal, dealing with nurses, as in this case. The Court held that even though there was no contract of service either with the agency or with the hospital, the nurses were still caught by Employment Insurance regulation 12(g), which is now 6(g).
+And, using the same reasoning if that is the case, I see no reason why it should be different under the Plan regulation 34(1).
+The representative of the Appellant also argued that there was no direction and control because we are dealing with highly skilled and experienced nurses who, while they had to be told what to do, could not be told how. The problem with that argument is that it evokes archaic law, which is no longer followed in the courts in the case of highly skilled workers.
+That conclusion comes directly out of Wiebe Door itself, where they quote Baron Bramwell in Regina v. Walker, [1858] 27 LJMC, pages 207-208, and he lays down the principle as follows:
+"A principal has the right to direct what the agent has to do; but a master has not only that right, but also the right to say how it is to be done."
+Justice McGuigan has said:
+"The test has broken down completely in relation to highly skilled and professional workers, who possess skills far beyond the ability of their employers to direct."
+So the cases no longer speak the language of "what" versus "how", and people have been found to be employees even though they were so skilled that their employers could tell them what to do but not how.
+Finally, it was argued that the employment in regulation 34(1) of the Plan and regulation 6(g) of the Act means a contract of service; but as counsel for the Minister has pointed out, quoting, I believe, my decision once again in Isomeric:
+"It was held in the case of A.G. v. Skyline Cabs, [1986] F.C.J. No. 335, employment in section 12(g)," which is now 6(g), "is not to be given a narrow interpretation of contract of service but is to be construed in a broader sense of activity or occupation."
+I repeat that that applies under the Employment Insurance Act, and I see no reason why it should not apply to the construction of the relevant regulation of the Plan as well.
+In these matters, the burden is on the Appellant to demolish the assumptions contained in paragraph 13 in the Minister's reply to the Notices of Appeal, both under the Employment Insurance Act and the Canada Pension Plan. I would say that the only assumption that has been demolished would be 13(d): The workers did not run their own businesses and did not represent themselves as self-employed persons. The remaining assumptions, accordingly, clearly satisfy the requirements of regulations 34(1) and 6(g), and the Appellant has failed to demolish them.
+The decision of the Minister is objectively reasonable within the meaning of Légaré, [1999] F.C.J. No. 878 and Pérusse, [2000] F.C.J. No. 310, both in the Federal Court of Appeal.
+In the result, the appeals with reference to all the workers mentioned in schedule A under the Canada Pension Plan and under the Employment Insurance Act will be dismissed and the decisions of the Minister confirmed.
+Thank you for your assistance.
+--- Whereupon the hearing concluded at 4:24 p.m.
+I HEREBY CERTIFY THAT I have, to the best
+of my skill and ability, accurately transcribed from a recording
+the foregoing proceeding.
+Catherine Keenan, Court Reporter
+CITATION:
+2007TCC527
+COURT FILES NO.:
+2006-2546(EI) and
+2006-2547(CPP)
+STYLE OF CAUSE:
+Care Nursing Agency Ltd., and
+The Minister of National Revenue
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 1, 2007,
+ORAL REASONS FOR
+JUDGMENT BY:
+The Honourable N. Weisman,
+Deputy Judge
+DATE OF ORAL JUDGMENT: August 1, 2007
+APPEARANCES:
+Agent for the Appellant:
+Ed Sarmiento
+Counsel for the Respondent:
+Kandia Aird
+COUNSEL OF RECORD:
+Counsel for the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada Ottawa, Canada

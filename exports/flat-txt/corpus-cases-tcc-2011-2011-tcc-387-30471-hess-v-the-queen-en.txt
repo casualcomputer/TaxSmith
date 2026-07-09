@@ -1,0 +1,116 @@
+Title: Hess v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30471/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-387-30471-hess-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-08-18
+
+# Hess v. The Queen
+
+- Citation: 2011 TCC 387
+- Decision date: 2011-08-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7267, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hess v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-08-18
+Neutral citation
+2011 TCC 387
+File numbers
+2011-1211(IT)APP
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-1211(IT)APP
+BETWEEN:
+ERIK HESS,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on August 17, 2011 at Hamilton, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Applicant:
+Lia Hess
+Counsel for the Respondent:
+Rishma Bhimji
+____________________________________________________________________
+JUDGMENT
+The application for an extension and notice of appeal under the Income Tax Act for the 2002 taxation year is dismissed. Each party shall bear their own costs.
+Signed at Toronto, Ontario this 18th day of August 2011.
+“J. M. Woods”
+Woods J.
+Citation: 2011 TCC 387
+Date: 20110818
+Docket: 2011-1211(IT)APP
+BETWEEN:
+ERIK HESS,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This is an application for some type of extension instituted by Erik Hess. The nature of the extension being sought is not clear to me from the notice of application. The first line of the application states: “I am preparing this request for an extension and notice of appeal under the General Procedure rules.”
+[2] The Crown has interpreted this as an application to extend time to serve a notice of objection to a reassessment made under the Income Tax Act for the 2002 taxation year. The reassessment is dated June 12, 2006. The Crown opposes the application on the ground that Mr. Hess failed to request an extension from the Minister within one year and 90 days from the date of the reassessment as required by subsections 166.2(5) and 166.1(7) of the Act.
+[3] I do not think that the Crown has properly interpreted the application, but nothing turns on this. The real issue is whether Mr. Hess has appeal rights in respect of a charitable donation claimed in the 2002 taxation year.
+[4] Mrs. Hess, who represented her husband at the hearing, made two arguments in support of the application. First, she submits that she made every effort to make the proper tax filings to preserve her husband’s right of appeal. The situation was made difficult because of a family tragedy and in part because an objection for another year was being held in abeyance by the Minister. In essence, Mrs. Hess submits that it would be inequitable to deny relief.
+[5] In addition, Mrs. Hess submits that she was granted the relief sought in her own appeal and that the same relief should be provided to her husband.
+Analysis
+[6] It will be useful to begin with a summary of the relevant dates, which are not in dispute.
+- original assessment – July 31, 2003
+- possible notice of objection – March 18, 2004
+- reassessment – June 12, 2006
+- possible notice of objection – September 25, 2009
+- further notice of objection – December 2, 2010
+[7] There are two possible assessments which could be challenged by Mr. Hess, the 2003 original assessment and the 2006 reassessment.
+[8] As for the original assessment dated July 31, 2003, it is no longer possible for Mr. Hess to appeal this assessment because it was nullified when the reassessment was issued. It is only the reassessment that can be disputed.
+[9] As for the reassessment dated June 12, 2006, appeal rights have unfortunately been lost because no action was taken by Mr. Hess in respect of this reassessment until September 25, 2009. Some action had to have been taken by September 10, 2007 which is one year and 90 days from the date of the reassessment. Nothing was done until two years later.
+[10] In particular, the possible action that could have been taken would be to file a notice of objection or a notice of appeal to this Court, or to apply for an extension of time to take one of these steps. In either case, the outside date for taking these steps is one year and 90 days from the date of the reassessment. Clearly, that was not done and unfortunately the time deadlines have been missed.
+(a) Should relief be granted on grounds of fairness?
+[11] Mrs. Hess submits that, regardless of whether the time limits were missed, relief should be granted because she was under difficult circumstances and she did not understand the legislative requirements even though she tried very hard to do so. This is essentially an argument based on fairness.
+[12] It is not open to me to provide the relief that Mrs. Hess seeks. I have no doubt that Mrs. Hess tried her best to preserve her husband’s appeal rights, but this is not a sufficient reason to grant the relief sought. The time limits in the Act are strict and the Court is not permitted to waive them on grounds of fairness: Bormann v The Queen, 2006 FCA 83, 2006 DTC 6147.
+(b) Should the relief granted to Mrs. Hess be applied to Mr. Hess?
+[13] Mrs. Hess’ second argument is that her husband should be entitled to the same relief that was granted to her.
+[14] Mrs. Hess testified that she and her husband both claimed charitable deductions that were denied. She has managed the appeal process for both she and her husband and she objected to the assessments at the same time.
+[15] Lamarre J. of this Court granted an order in favour of Mrs. Hess, which is reproduced in part below:
+The application for an extension of time within which a notice of appeal for the 2002 taxation year may be filed is quashed because the Applicant filed a notice of objection with the prescribed time and there is insufficient evidence to show that she was subsequently sent a new reassessment;
+It is recommended that the Applicant file a notice of appeal for 2002 on or before May 15, 2010, […];
+[16] Based on the submissions of the parties, it appears that Justice Lamarre concluded that Mrs. Hess did not need an application to extend time because she was within time to appeal to this Court with respect to the original assessment issued in 2003. The underpinning of this decision was that Mrs. Hess had filed a notice of objection to the original assessment and that no further reassessment was issued.
+[17] Mrs. Hess suggests that the same conclusion should be reached for her husband. She testified that her husband’s situation is similar to hers and that she did parallel filings for both the same time.
+[18] The problem with this submission is that Mr. Hess’ situation is different from his wife’s because a subsequent reassessment was issued to him in 2006. Lamarre J. concluded that there was insufficient evidence that a reassessment was issued to Mrs. Hess.
+[19] The relief granted to Mrs. Hess, which was to allow a notice of appeal for the 2003 assessment, is not available to Mr. Hess because his 2003 assessment became a nullity once the reassessment was issued to him in 2006.
+[20] The conclusion that I have reached is that Mr. Hess cannot now appeal either the original assessment made in 2003 or the reassessment made in 2006. The application will be dismissed, and each party shall bear their own costs.
+Signed at Toronto, Ontario this 18th day of August 2011.
+“J. M. Woods”
+Woods J.
+CITATION: 2011 TCC 387
+COURT FILE NO.: 2011-1211(IT)APP
+STYLE OF CAUSE: ERIK HESS and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: August 17, 2011
+REASONS FOR JUDGMENT BY: Hon. J.M. Woods
+DATE OF JUDGMENT: August 18, 2011
+APPEARANCES:
+Agent for the Applicant:
+Lia Hess
+Counsel for the Respondent:
+Rishma Bhimji
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

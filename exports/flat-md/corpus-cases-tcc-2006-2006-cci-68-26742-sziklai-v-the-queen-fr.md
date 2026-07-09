@@ -1,0 +1,220 @@
+---
+title: "Sziklai v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26742/index.do"
+last_modified: "2006-04-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 68"
+citation2: ""
+neutral_citation: "2006 CCI 68"
+decision_date: "2006-04-05"
+language: "fr"
+item_id: "26742"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3423
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:43:42.333000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6b3cd206a5828d615192b0fd7e3f6e3fe292c753d918c4363b84fcac5fa7ac94"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sziklai v. The Queen
+
+- Citation: 2006 CCI 68
+- Decision date: 2006-04-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3423, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sziklai v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-05
+Référence neutre
+2006 CCI 68
+Numéro de dossier
+2003-2685(GST)G
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003‑2685(GST)G ENTRE :
+PETER SZIKLAI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Peter Sziklai (2003‑2686(IT)G) le 14 décembre 2005, à Vancouver (Colombie‑Britannique).
+Devant : L'honorable juge J. E. Hershfield
+Comparutions :
+Avocat de l'appelant :
+Me Richard C. Baker
+Avocate de l'intimée :
+Me Shawna Cruz
+________________________________________________________________
+JUGEMENT
+L'appel à l'encontre de la cotisation établie à l'égard d'un tiers en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis est daté du 22 octobre 2002 et porte le numéro 11BU‑100380997‑001, est accueilli avec dépens, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 5e jour d'avril 2006.
+« J. E. Hershfield »
+Le juge Hershfield
+Traduction certifiée conforme
+ce 25e jour de février 2008.
+Yves Bellefeuille, réviseur
+Dossier : 2003‑2686(IT)G
+ENTRE :
+PETER SZIKLAI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Peter Sziklai (2003‑2685(GST)G) le 14 décembre 2005, à Vancouver (Colombie‑Britannique).
+Devant : L'honorable juge J. E. Hershfield
+Comparutions :
+Avocat de l'appelant :
+Me Richard C. Baker
+Avocate de l'intimée :
+Me Shawna Cruz
+________________________________________________________________
+JUGEMENT
+L'appel à l'encontre de la cotisation établie en vertu des paragraphes 227(10) et 227.1(1) de la Loi de l'impôt sur le revenu, dont l'avis est daté du 22 octobre 2002 et porte le numéro 34471, est accueilli avec dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 5e jour d'avril 2006.
+« J. E. Hershfield »
+Le juge Hershfield
+Traduction certifiée conforme
+ce 25e jour de février 2008.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI68
+Date : 20060405
+Dossiers : 2003‑2685(GST)G
+2003‑2686(IT)G
+ENTRE :
+PETER SZIKLAI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hershfield
+[1] L'appelant interjette appel à l'encontre de cotisations établies en vertu du paragraphe 227(10) et de l'article 227.1 de la Loi de l'impôt sur le revenu et de l'article 323 de la Loi sur la taxe d'accise. Les cotisations se rapportent à la responsabilité de l'appelant en tant qu'administrateur de la société Baker Street Automotive Ltd. (la « société ») pour des montants non versés qui ont été perçus relativement aux salaires payés (y compris l'impôt sur le revenu fédéral et provincial, les cotisations d'assurance‑emploi et les cotisations au Régime de pensions du Canada) et pour la TPS perçue sur les fournitures taxables effectuées par la société.
+[2] Il n'y a aucun doute que les montants qui font l'objet de la cotisation ont été calculés correctement, qu'ils ont été retenus ou perçus par la société, qu'ils n'ont pas été versés comme l'exigent les dispositions légales pertinentes, que l'intimée a épuisé tous ses recours contre la société et que l'appelant était l'unique dirigeant, administrateur et actionnaire de la société pendant toute la période pertinente.
+[3] Les montants qui font l'objet de la cotisation pour ce qui est de la TPS non versée se rapportent à toute l'année civile 1999. Comme la société devait faire des versements trimestriels, le premier versement de TPS manqué était celui du mois d'avril 1999. Les montants qui font l'objet de la cotisation pour ce qui est de la responsabilité de la société relativement aux retenues à la source comprennent les montants non versés entre le mois de septembre 1999 et le 31 décembre 1999. Dans les deux cas, les montants comprennent les pénalités et les intérêts.
+[4] L'appelant n'invoque que le paragraphe 227.1(3) de la Loi de l'impôt sur le revenu et le paragraphe 323(3) de la Loi sur la taxe d'accise, respectivement libellés comme suit :
+227.1(3) Un administrateur n'est pas responsable de l'omission visée au paragraphe (1) lorsqu'il a agi avec le degré de soin, de diligence et d'habileté pour prévenir le manquement qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+323(3) L'administrateur n'encourt pas de responsabilité s'il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[5] L'appelant a été le seul à témoigner à l'audience. Il m'est apparu comme un témoin honnête, mais, compte tenu de ses antécédents scolaires, il est difficile de comprendre le manque évident de subtilité qui ressort de la manière dont il a conduit les affaires commerciales qui ont donné lieu aux présents appels. Toutefois, je ne pense pas qu'il ait fait semblant de manquer de subtilité pour pouvoir invoquer la diligence raisonnable comme moyen de défense. Il ne composait pas avec des personnes subtiles dans un milieu subtil. Il n'est pas rare que les gens concluent des ententes vagues qui sont rédigées de façon peu rigoureuse dans l'unique but de simplifier les choses, sans penser que ce genre de façon de faire pourrait avoir une incidence sur leurs obligations juridiques. J'aime à croire qu'il y a encore des gens d'affaires qui estiment que le fait d'échanger une poignée de main ou une lettre est suffisant pour conclure une entente valide. J'accepte que c'est ce qui est arrivé en l'espèce.
+[6] Voici un résumé des éléments du témoignage de l'appelant qui donnent un aperçu global des circonstances du manquement de la société à son obligation de faire les versements prescrits :
+· L'appelant a un baccalauréat ès sciences en foresterie et une maîtrise en administration des affaires. Il a témoigné que le programme de maîtrise qu'il a suivi n'était pas axé sur la comptabilité ou la finance.
+· Entre 1976 et 1981, l'appelant travaillait dans l'industrie forestière.
+· De plus, entre 1977 et 1979, l'appelant et un associé participaient à une entreprise de courses de voitures dynamisées menée par la société, mais le projet a été abandonné en 1979.
+· L'appelant s'était inscrit au programme de maîtrise en 1983, à peu près au moment où la société avait lancé son entreprise de réparation de carrosserie. À ce moment‑là, l'appelant était l'unique administrateur et actionnaire de la société, et il l'est demeuré jusqu'en 2001 ou 2002.
+· L'entreprise a crû lentement, mais, en 1988, elle comptait six ou sept employés, et au début des années 1990, un travailleur de bureau a été embauché à temps partiel.
+· Les affaires n'allaient pas très bien, mais la société était rentable. Les dettes étaient réglées dans un délai de 30 à 90 jours, et les versements prévus par la loi étaient régulièrement faits à temps. Si des versements étaient faits en retard, ce qui était arrivé à quelques reprises, les pénalités et intérêts établis dans la cotisation étaient payés tels quels. L'appelant s'est occupé de la comptabilité et des versements prévus par la loi jusqu'en mars 1998.
+· En 1995, l'appelant a eu la possibilité de prendre le contrôle d'un atelier de réparation de carrosserie situé à Tsawwassen, qui était exploité par une société distincte (appelée Tsawwassen Collision Ltd.). L'appelant a déménagé à Ladner pour exploiter l'atelier en question.
+· Malgré le nouveau projet de l'appelant, la société a continué à exploiter ses activités. Un dénommé Martin von Holst a été embauché comme gérant de l'exploitation à un moment donné en 1996. Il était le gérant de l'exploitation d'un atelier de carrosserie à New Westminster connu de l'appelant.
+· L'appelant passait de moins en moins de temps à l'atelier de carrosserie de la société, mais s'y rendait quand même plusieurs fois par semaine, même s'il n'y restait pas longtemps. Le nouveau gérant de l'exploitation avait comme tâches, entre autres, d'établir les calendriers de travail, de répartir le travail entre les travailleurs, d'établir les devis, de communiquer avec les sociétés d'assurance et d'être la personne‑ressource des clients au sujet des réparations et des plaintes. L'appelant a continué à superviser tout ce qui avait trait à la comptabilité, y compris les versements.
+· Le nouveau gérant de l'exploitation s'est révélé très compétent, honnête et fiable. L'appelant était très satisfait des capacités manifestes de M. von Holst. Après environ un an, M. von Holst avait prouvé qu'il était capable d'exploiter la société et peut‑être même de réaliser son potentiel de croissance, même si, au début de l'année 1998, la société était à peine rentable après déduction du salaire mensuel de 3 500 $ de M. von Holst.
+· En grande partie en raison des responsabilités qu'il assumait pour la société Tsawwassen, au début de 1998, l'appelant a décidé de cesser d'exploiter la société et de ne pas renouveler le bail des locaux où elle menait ses activités, qui expirait en octobre 1999. Il pensait cependant que la société pouvait être vendue à M. von Holst.
+· L'appelant a témoigné qu'en mars 1998, il a conclu avec M. von Holst une entente selon laquelle M. von Holst devait exploiter la société pour son propre compte jusqu'à l'automne 1999. À ce moment‑là, M. von Holst aurait le choix de renouveler le bail à son nom et d'acquérir le titre de propriété de la société en exploitation, ou de rompre l'entente. Je désignerai cette entente comme la cession de l'intérêt bénéficiaire dans la société.
+· On m'a dit que les modalités de l'entente étaient précisées dans une lettre qui est introuvable. De plus, l'appelant n'a pas su expliquer clairement les arguties ou les subtilités juridiques de l'entente. Malgré ceci, je ne doute guère que l'appelant et M. von Holst avaient conclu l'entente en pensant que celle‑ci aurait un effet juridique, et ce, en des termes suffisamment précis et bien compris par les parties pour créer des obligations contraignantes. La conduite des parties, et une seconde lettre qui a été déposée en preuve et qui fait référence à la première lettre (qui est introuvable), appuient cette conclusion[1]. La seconde lettre aurait pu être plus claire, mais je suis convaincu que les parties comprenaient l'entente telle que je l'ai reconstituée à la lumière des témoignages, de la tournure des événements et de la preuve documentaire.
+· Une contrepartie était payable et avait été payée pour la cession de l'intérêt bénéficiaire dans la société, et une contrepartie était prévue pour sa vente ultime, si elle avait bien lieu. Monsieur von Holst avait convenu de payer à la société 3 500 $ par mois de mars 1998 à octobre 2000, soit une contrepartie totale d'environ 100 000 $. Le total que je donne n'est qu'une approximation étant donné que, pour payer la première partie de la contrepartie, M. von Holst avait accepté de payer les dettes de la société, qui s'élevaient à peu près à 58 000 $ au moment où les paiements avaient commencé à être versés. La seconde incertitude découle du fait que l'appelant était incapable de dire à quel moment exactement les paiements avaient commencé à être versés, mais les deux parties connaissaient ces deux détails au moment où l'entente avait été conclue.
+· L'entente avait été mise en oeuvre de façon relativement peu rigoureuse. La société continuait à avoir le titre de propriété de l'entreprise à tous les égards. Elle était l'employeur de tous les travailleurs. Elle achetait toutes les fournitures. Elle utilisait toujours le même compte bancaire. Monsieur von Holst avait simplement été désigné comme un signataire autorisé additionnel à la banque. Toutefois, M. von Holst exploitait l'entreprise pour son propre compte, et on lui faisait confiance à cet égard. Si l'appelant n'avait pas eu confiance dans l'honnêteté et l'intégrité de M. von Holst, l'entente aurait été périlleuse pour la société.
+· À titre de signataire autorisé relativement aux comptes bancaires de la société, M. von Holst pouvait retirer des fonds des comptes de celle‑ci à titre de rémunération ou de bénéfice tiré de l'exploitation de l'entreprise pour son propre compte, dans la mesure où les dettes étaient remboursées conformément à l'entente et où tous les autres comptes étaient en règle. Cependant, aucun élément de preuve n'établit s'il avait retiré des fonds ou déposé des fonds pour respecter sa part de l'entente.
+· De toute manière, en plus de prendre le contrôle de l'entreprise et, essentiellement, d'une bonne partie des opérations bancaires de la société, M. von Holst avait pris en charge le volet administratif de l'entreprise. Il veillait notamment à ce que les versements nécessaires soient faits. Telle était la situation de mars 1998 jusqu'à la fin de l'année 1999, date à laquelle le transfert de la propriété de l'entreprise était sur le point d'être conclu.
+· En mars 1998, l'appelant avait des employés compétents et des logiciels de comptabilité fiables qui faisaient le suivi des retenues, des montants perçus et des versements. Au cours de ses visites régulières dans les locaux de la société, l'appelant avait pu se rendre compte que M. von Holst entretenait ces systèmes[2]. En fait, les éléments de preuve indiquent que l'appelant était suffisamment bien renseigné pour savoir qu'en juin 1999, toutes les cotisations d'assurance‑emploi, toutes les cotisations au Régime de pensions du Canada et tous les versements d'impôt sur le revenu avaient été effectués; à ce moment‑là, M. von Holst était responsable des affaires de l'entreprise depuis plus d'un an[3].
+· Monsieur von Holst a cessé de faire les paiements prévus dans l'entente de cession à peu près au moment où il a pris en charge le bail, en octobre 1999. Le total des paiements en question dépassait le total des dettes de la société (en date de l'entrée en vigueur de la cession), mais un solde de 42 000 $ du prix d'achat était toujours dû. Il s'agissait du montant toujours exigible pour les 12 mois (d'octobre 1999 à septembre 2000), à l'égard desquels M. von Holst avait convenu de payer 3 500 $ par mois[4]. Le transfert de propriété n'a eu lieu qu'en janvier 2000. Monsieur von Holst n'avait fait aucun paiement en vertu de l'entente de vente.
+· Ce n'est qu'en mai 2000 que l'appelant a appris que des versements n'avaient pas été faits. En effet, c'est à cette date que l'Agence du revenu du Canada (l'« ARC ») l'a avisé pour la première fois, au moyen d'une lettre envoyée à la société à son attention, que des versements n'avaient pas été effectués. Des avis antérieurs avaient été envoyés à l'adresse postale de la société, comme cela se fait normalement, mais étant donné que M. von Holst avait pris en charge les opérations, l'appelant n'en avait pas eu connaissance.
+· Le premier avis de l'ARC concernant les défauts de versement avait été envoyé le 11 août 1999. L'avis était destiné à [TRADUCTION] « Madame, Monsieur ». Un deuxième avis adressé encore une fois à la société avait été envoyé le 28 septembre 1999 et était destiné au [TRADUCTION] « responsable de la paie ». Dans cet avis, il était indiqué qu'une tentative de communication directe avait été faite et qu'il fallait absolument qu'un suivi soit fait auprès de l'ARC. L'ARC est entrée en communication avec M. von Holst avant le 7 octobre 1999, et il semblerait qu'elle ait continué de communiquer avec lui pendant le reste de l'année 1999 et une bonne partie de l'année 2000, comme en témoigne le fait que M. von Holst faisait des paiements au titre des versements qui n'avaient pas été faits par la société. Monsieur von Holst remettait notamment à l'ARC des chèques postdatés jusqu'au mois d'octobre 2000. À un moment donné, ces chèques sont devenus sans provision en raison des problèmes financiers de M. von Holst, mais la preuve appuie tout de même la conclusion selon laquelle M. von Holst, après le transfert de la propriété de l'entreprise, a accepté d'assumer la responsabilité des défauts de versement.
+Analyse
+[7] Nous sommes en présence d'une situation où, pendant la période allant de mars 1998 à décembre 1999, l'appelant se fiait à un tiers en croyant que celui‑ci respectait les procédures établies, et où l'expérience démontre qu'il était justifié de se fier à cette personne. Des systèmes étaient en place pour s'assurer que les obligations soient respectées et, mis à part un versement de TPS qui n'avait pas été fait et dont l'appelant n'était pas au courant, les exigences en matière de retenues à la source et de versements avaient été respectées de mars 1998 jusqu'à la fin du mois de juillet 1999 au moins. Pendant 16 mois consécutifs, au cours desquels l'entreprise était à peine rentable, une personne fiable et en qui l'appelant avait confiance avait pris les mesures nécessaires pour faire en sorte que les versements obligatoires soient faits à la satisfaction de l'appelant. Il s'agit du contexte dans lequel s'inscrit la question en litige formulée par l'appelant. Compte tenu de ces circonstances, l'appelant allègue qu'il ne devrait pas être tenu responsable des défauts de versement. Si le critère d'une personne raisonnablement prudente est appliqué, l'appelant fait valoir qu'il avait le droit de supposer que les versements obligatoires étaient faits.
+[8] L'intimée prétend que, dans les circonstances, si le critère d'une personne raisonnablement prudente est appliqué, le résultat est que l'appelant, en tant qu'administrateur unique de la société qui savait que son entreprise était à peine rentable, aurait dû en faire plus pour s'assurer que les versements nécessaires étaient faits.
+[9] Il y a un grand nombre de précédents qui étayent la position de l'intimée. Le précédent le plus pertinent, comme point de départ, à l'appui de la position adoptée relativement à l'appelant est la décision rendue par le juge Mogan dans l'affaire Weyand c. La Reine, no 2001‑4516(GST)G, 10 mai 2004, 2004 CCI 355, 2004 G.T.C. 306 (C.C.I.). Dans cette décision, le juge Mogan a laissé entendre que les administrateurs uniques étaient toujours des administrateurs internes qui sont responsables des actions des tiers. Au paragraphe 28, le juge Mogan dit ce qui suit :
+J'examinerai le statut de l'appelante, d'abord en tant qu'administratrice interne, puis en tant qu'administratrice externe. Si une société a deux ou plusieurs administrateurs, l'un d'eux peut être qualifié d'« interne » ou d'« externe » selon les fonctions qu'il exerce dans l'exploitation commerciale de la société. Si la société ne possède qu'un seul administrateur et cet individu sait qu'il est l'unique administrateur, à mon avis, il est implicitement un administrateur interne car il sait qu'il ne peut compter sur personne d'autre pour endosser les obligations d'un administrateur. Par conséquent, je conclus que l'appelante était une administratrice interne de Blackberry à partir du 24 mai 2000. Le tiers auquel un unique administrateur, sachant qu'il est le seul administrateur, permet d'assumer la responsabilité de la gestion de la société est à mon avis le mandataire de l'unique administrateur et sa conduite peut être imputée à l'unique administrateur.
+[10] Le mandat inévitable dont le juge Mogan parle est, selon lui, ce qui fait en sorte que l'unique administrateur est un administrateur interne et qu'il assume la responsabilité des omissions de faire les versements nécessaires. Malgré tout le respect que je lui dois, il s'agit d'une inférence qui pose problème. Dans l'arrêt Soper c. Sa Majesté la Reine[5], le juge Robertson explique, au paragraphe 44, le fondement de la distinction qu'il convient de faire entre les administrateurs internes et les administrateurs externes :
+[...] les administrateurs internes, c'est‑à‑dire ceux qui s'occupent de la gestion quotidienne de la société et qui peuvent influencer la conduite de ses affaires, sont ceux qui auront le plus de mal à invoquer la défense de diligence raisonnable. Pour ces personnes, ce sera une opération ardue de soutenir avec conviction que, malgré leur participation quotidienne à la gestion de l'entreprise, elles n'avaient aucun sens des affaires, au point que ce facteur devrait l'emporter sur la présomption qu'elles étaient au courant des exigences de versement et d'un problème à cet égard, ou auraient dû l'être. Bref, les administrateurs internes auront un obstacle important à vaincre quand ils soutiendront que l'élément subjectif de la norme de prudence devrait primer sur l'aspect objectif de la norme.
+Pour ce qui est des administrateurs externes qui ne participent pas directement à l'exploitation de l'entreprise, il dit, aux paragraphes 52 et 53, qu'ils peuvent :
+[...] compter sur les personnes qui s'occupent de la gestion quotidienne de la société pour payer des dettes comme les créances de Sa Majesté. [...]
+À mon avis, l'obligation expresse d'agir prend naissance lorsqu'un administrateur obtient des renseignements ou prend conscience de faits qui pourraient l'amener à conclure que les versements posent, ou pourraient vraisemblablement poser, un problème potentiel. En d'autres termes, il incombe vraiment à l'administrateur externe de prendre des mesures s'il sait, ou aurait dû savoir, que la société pourrait avoir un problème avec les versements[6]. [...]
+[11] Par conséquent, les administrateurs internes, par définition, participent à la gestion de l'entreprise. Imputer la participation à la gestion de l'entreprise à une personne qui ne participait pas à celle‑ci est incompatible avec ce facteur déterminant. De plus, le fait d'imputer à l'administrateur unique de la société la participation à la gestion de celle‑ci et la conduite de la personne qui s'est soustraite à ses obligations implique qu'aucune défense fondée sur la diligence raisonnable ne peut être invoquée par les administrateurs uniques. Il est clair qu'il ne peut en être ainsi, et, à mon avis, il ne faut pas non plus supposer que le juge Mogan voulait que sa conclusion soit considérée comme étant une règle immuable dans tous les cas.
+[12] Cela ne veut pas dire que la norme de diligence à laquelle l'appelant est assujetti n'est pas plus stricte que celle à laquelle les administrateurs externes sont assujettis. La démarche qui consiste à établir une distinction entre les administrateurs « internes » et les administrateurs « externes » sert à déterminer ce qu'une personne raisonnablement prudente aurait fait dans les mêmes circonstances. Dans ce contexte, il serait peut‑être mieux de se poser simplement la question de savoir si, compte tenu de sa position et de son niveau de participation, l'appelant était en mesure de détecter des problèmes éventuels et de les résoudre. Le juge Bonner a adopté cette approche dans la décision Mariani c. La Reine[7]. Au paragraphe 19, il a dit ce qui suit :
+Je ne peux souscrire au point de vue de l'intimée. La distinction entre les catégories d'administrateurs internes et externes ne fait pas partie d'un processus mécanique de classification dans des catégories définies de manière rigide de gagnants et de perdants. Il s'agit plutôt d'une reconnaissance qui va de soi. Certains administrateurs, généralement parce qu'ils participent à la gestion au jour le jour de l'entreprise, sont en meilleure position que d'autres pour détecter la possibilité de manquements et y faire face. Il s'agit là d'un élément pertinent.
+[13] De façon générale, les personnes qui sont en mesure de détecter les manquements aux obligations de versement et de les résoudre sont les personnes qui participent à la gestion au jour le jour de l'entreprise, et l'appelant ne répond pas à cette description en l'espèce. Dans la présente affaire, l'appelant ne participait pas à la gestion au jour le jour de l'entreprise qui avait donné lieu aux manquements. L'entreprise avait été cédée. Cependant, il participait toujours aux activités de la société. Il donnait comme instruction aux comptables d'établir les états financiers de la société et voyait à la production des déclarations annuelles ainsi qu'à l'établissement et à la production des déclarations fiscales. Il demeurait signataire autorisé de la société et était toujours tenu de remplir les obligations contractées au nom de la société par le cessionnaire, M. von Holst. L'appelant se rendait régulièrement dans les locaux de la société et pouvait prendre connaissance du courrier de celle‑ci. Il connaissait la situation et était signataire autorisé à la banque. Ces facteurs donnent à penser que l'appelant était assujetti à une norme de diligence plus stricte qu'un administrateur « externe ». De plus, même si, en première analyse, l'appelant était assujetti à une norme moins stricte parce qu'il ne participait pas à la gestion au jour le jour de l'entreprise, sa connaissance de la situation financière de la société lui imposait tout de même un devoir plus rigoureux. Dans ce contexte, il pourrait très bien être considéré comme étant un administrateur interne.
+[14] Toutefois, il y a malgré tout une certaine souplesse dans l'application des critères, même lorsqu'il s'agit des administrateurs internes. La norme est celle du raisonnable et non celle de la perfection, même à l'égard des administrateurs internes d'une entreprise à peine rentable. La question qu'il faut se poser est toujours la même et il s'agit de savoir ce que, dans les circonstances, une personne raisonnablement prudente qui se trouverait dans la même position que l'appelant devrait faire. Dans l'arrêt Smith c. La Reine[8], le juge Sharlow de la Cour d'appel fédérale a dit qu'il faut se rappeler que la norme n'est pas celle de la perfection.
+[12] La souplesse inhérente à la défense de diligence raisonnable peut créer des situations où une norme de prudence plus élevée s'impose à certains administrateurs d'une société par rapport à d'autres. Par exemple, il peut être approprié d'imposer une norme plus élevée à un « administrateur interne » (par exemple, un directeur ayant l'habitude de la gestion au jour le jour) qu'à un « administrateur externe » (comme un directeur qui connaît assez peu les affaires de la société et n'est impliqué que de façon superficielle).
+[13] Ceci s'applique plus particulièrement s'il est démontré que l'administrateur externe a donné foi de façon raisonnable aux assurances données par les administrateurs internes que les remises d'impôts correspondant aux obligations de la société étaient effectivement versées. Voir notamment Cadrin c. Canada (1998), 240 N.R. 354, [1999] 3 C.T.C. 366, 99 D.T.C. 5079 (C.A.F.).
+[14] Dans certaines circonstances, le fait qu'une société soit en difficultés financières et donc à risque plus élevé que d'autres sociétés de ne pas verser ses remises d'impôts peut être un facteur qui milite pour une norme de prudence plus élevée. Par exemple, un administrateur qui connaît les difficultés financières de la société et qui décide sciemment de financer les opérations de la société avec les sommes prélevées à la source et non remises pourrait ne pas pouvoir invoquer la défense de diligence raisonnable (Ruffo c. Canada, 2000 D.T.C. 6317 (C.A.F.)). Toutefois, il est important de se rappeler que dans tous les cas la norme est celle du raisonnable et non celle de la perfection.
+Dans ces remarques, le juge fait preuve d'une tolérance considérable. Elle laisse même entendre que les personnes qui ne tirent aucun avantage d'une omission d'effectuer les versements prescrits sont peut‑être mieux placées pour invoquer la défense de diligence raisonnable.
+[15] Il faut donc réexaminer la situation de l'appelant. Il semblerait qu'il faisait confiance à M. von Holst non seulement en ce qui concernait les versements, mais aussi, de façon indirecte, en ce qui concernait son propre bien‑être financier et sa propre réputation. Monsieur von Holst, au nom de la société, aurait pu commettre des manquements bien plus graves que l'omission de faire les versements. Cela pourrait faire davantage ressortir à quel point l'appelant faisait confiance à M. von Holst. Cependant, l'appelant visitait quand même les locaux de la société assez régulièrement et n'a présenté aucun élément de preuve qui permettrait de repousser la supposition selon laquelle il faisait peut‑être preuve de plus de diligence lorsqu'il s'agissait de vérifier les opérations ayant une incidence sur ses intérêts économiques que lorsqu'il s'agissait de vérifier les versements. De plus, il n'avait peut‑être pas grand‑chose à perdre en n'étant pas diligent. Sauf pour ce qui était de la cession, il mettait fin à l'entreprise au moment de l'expiration du bail. Tout ce qui serait resté de l'entreprise après l'expiration de l'entente de cession, que M. von Holst ait pris en charge le bail et continué les paiements relatifs au transfert de propriété de l'entreprise ou non, aurait été une prime. À mon avis, compte tenu du manque de preuves au sujet de ces possibilités, le fait que l'appelant faisait apparemment confiance à M. von Holst pour ce qui était de ses propres intérêts n'étaye pas sa position.
+[16] Malgré cela, j'accepte le témoignage de l'appelant voulant qu'à la fin juin 1999, il s'était assuré que les exigences en matière de versements avaient été respectées. Des éléments de correspondance corroborent ce témoignage. S'il avait effectué des recherches plus poussées en juin, l'appelant aurait peut‑être pu découvrir qu'un versement de TPS n'avait pas été fait, mais je suis quand même convaincu qu'il savait à quel point il était important qu'il vérifie si les versements avaient été faits. Le fait que l'appelant soit arrivé à la conclusion que les versements étaient à jour aurait confirmé, et peut‑être même renforcé, sa confiance en M. von Holst. Toutefois, dans les circonstances, cela ne le dispensait pas de l'obligation de se renseigner davantage à un moment ultérieur. En fait, cela souligne l'importance de faire les vérifications nécessaires. Si les vérifications étaient pertinentes et raisonnables en juin, il aurait été raisonnable, compte tenu des principes de diligence, de refaire les mêmes vérifications à une date ultérieure.
+[17] Cela m'amène à examiner la question de savoir si l'appelant devrait être tenu partiellement responsable des défauts de versement en cause, ou, plus précisément, s'il devrait être tenu responsable des omissions qui se sont produites après le mois de juin 1999, mais avant la fin de l'année. Quel serait, le cas échéant, le délai de grâce raisonnable qu'il conviendrait d'accorder à une personne prudente dans les circonstances?
+[18] Un délai de grâce de six mois semble être excessif dans les circonstances. En d'autres termes, je ne suis pas convaincu que la confiance de l'appelant en M. von Holst le dégage de sa responsabilité en tant qu'administrateur pendant les six mois qui se sont écoulés après la dernière demande de renseignements qu'il a formulée à la fin juin 1999. C'est une chose d'avoir confiance en un système et en une personne, mais, dans ce cas‑ci, il était évident qu'un problème était susceptible de se poser et, comme je l'ai déjà mentionné, les administrateurs sont assujettis à une norme de diligence plus stricte lorsque la société éprouve des difficultés financières.
+[19] En fait, comme il est indiqué ci‑dessus, en juin 1999, l'appelant était préoccupé par la viabilité financière de l'entreprise cédée à M. von Holst. Sa lettre du mois de juin confirme qu'il savait à quel point il était important que les versements soient faits compte tenu du fait que l'entreprise avait besoin de financement. De plus, l'appelant a témoigné qu'à peu près à partir du moment où M. von Holst a pris en charge le bail en octobre 1999, la société n'a reçu aucune somme au titre de la contrepartie payable relativement à la cession ou à la vente de l'entreprise. En effet, la preuve au sujet du moment où les paiements ont réellement cessé d'être faits est insuffisante. Tôt ou tard, les inférences défavorables sont de plus en plus difficiles à éviter. De plus, à la fin septembre, deux avis de défaut de versement avaient été envoyés aux bureaux de la société. L'appelant avait intérêt à lire le courrier de la société, mais il n'a jamais vu ces avis. Selon moi, cela montre un certain manque de diligence de sa part.
+[20] J'accorde un certain poids au fait que l'appelant s'est fié, de bonne foi et, dans une certaine mesure, avec raison à la diligence de M. von Holst et au fait que M. von Holst reconnaissait qu'il était responsable des défauts de versement et que c'était lui qui en tirait un avantage. Il n'en demeure pas moins qu'à ce moment, le fait de se fier à un tiers de cette façon et le fait qu'un tiers ait reconnu qu'il était responsable des manquements perdent de leur importance si l'on tient compte d'autres facteurs, comme ceux que j'ai exposés ci‑dessus. Selon moi, dans les mêmes circonstances, une personne raisonnablement prudente aurait, après s'être renseignée en juin, fait d'autres vérifications bien avant la fin de l'année. Toutefois, il n'y a pas de ligne de démarcation nette dans les affaires de ce genre. Pour donner à l'appelant un certain bénéfice du doute en ce qui concerne sa responsabilité en l'espèce, je conclus qu'il peut invoquer la défense de diligence raisonnable, mais seulement à l'égard des défauts de versement qui se sont produits avant la fin du mois de septembre 1999. À partir de ce moment‑là, une personne raisonnablement prudente se trouvant dans les mêmes circonstances aurait, à mon avis, fait preuve de plus de diligence, ce qui lui aurait permis de découvrir que certains versements n'avaient pas été faits et de prendre des mesures pour corriger la situation pour ce qui était des versements exigibles à la fin du mois de septembre et au cours des mois qui ont suivi.
+[21] Pour ces motifs, les appels sont accueillis avec dépens.
+Signé à Ottawa, Canada, ce 5e jour d'avril 2006.
+« J.E. Hershfield »
+Le juge Hershfield
+Traduction certifiée conforme
+ce 25e jour de février 2008.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2006CCI68
+NO DU DOSSIER :
+2003‑2685(GST)G
+INTITULÉ :
+Peter Sziklai et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L'AUDIENCE :
+Le 14 décembre 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge J.E. Hershfield
+DATE DU JUGEMENT :
+Le 5 avril 2006
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Richard C. Baker
+Avocate de l'intimée :
+Me Shawna Cruz
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] La seconde lettre est une lettre d'entente non datée, et l'appelant, dans son témoignage, a dit qu'elle avait été signée par lui‑même et par M. von Holst en octobre ou en novembre 1998. Elle fait référence à l'entente conclue en mars 1998.
+[2] Le fait que l'appelant se rendait régulièrement dans les locaux de la société plusieurs fois par semaine pour de courtes visites, au moins pendant une certaine période après la cession, ressortait clairement du témoignage de l'appelant. En 1999, les visites avaient peut‑être lieu moins fréquemment, mais elles avaient quand même lieu régulièrement.
+[3] Ceci ressort d'une lettre rédigée par l'appelant en juin 1999 dans laquelle il donne des conseils financiers à M. von Holst. La lettre indique que l'appelant était au courant des [TRADUCTION] « problèmes frustrants d'encaisse » de la société et de la nécessité de trouver un moyen d'injecter des fonds dans l'entreprise de l'extérieur, mais elle indique aussi que tous les versements étaient à jour. Cela était vrai pour tous les versements, sauf un versement de TPS qui n'avait pas été fait. Les états financiers pour 1998 indiquent qu'il n'y avait eu aucune autre omission de verser les montants nécessaires au cours des périodes antérieures.
+[4] La lettre d'entente présentée en preuve fait référence à des mois et non à des dates. Toutefois, il est clair que les paiements à partir du moment où M. von Holst avait officiellement pris le bail en charge en octobre 1999 jusqu'à la date du dernier paiement qui devait avoir lieu en octobre 2000 étaient censés se rapporter à une période de 12 mois.
+[5] [1998] 1 C.F. 124 (C.A.F.).
+[6] Dans l'arrêt Magasins à rayons Peoples inc. (Syndic de) c. Wise, [2004] 3 R.C.S. 461, il a été conclu que la norme de diligence raisonnable en ce qui concerne la responsabilité des administrateurs selon la Loi canadienne sur les sociétés par actions était une norme objective. Dans l'arrêt Soper, il a été conclu que la norme était « objective subjective ». À mon avis, la différence entre les deux arrêts n'est pas pertinente en l'espèce.
+[7] no 2001‑3102(GST)I, 22 mars 2002, 2002 G.T.C. 266.
+[8] no A‑154‑00, 26 mars 2001, 2001 D.T.C. 5226.

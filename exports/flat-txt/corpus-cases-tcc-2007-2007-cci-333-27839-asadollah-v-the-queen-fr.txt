@@ -1,0 +1,136 @@
+Title: Asadollah v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27839/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-333-27839-asadollah-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-05-15
+
+# Asadollah v. The Queen
+
+- Citation: 2007 CCI 333
+- Decision date: 2007-05-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 379, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Asadollah v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-15
+Référence neutre
+2007 CCI 333
+Numéro de dossier
+2006-1673(GST)I
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-1673(GST)I
+ENTRE :
+RAMIN ASADOLLAH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 15 et 16 mai 2007, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge E. P. Rossiter
+Comparutions :
+Représentant de l’appelant :
+Carl Beck, CMA
+Avocat de l’intimée :
+Me David Everett
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 26 janvier 2005 et porte le numéro A104734, est rejeté, avec dépens en faveur de l’intimée, conformément aux motifs du jugement ci‑joints.
+Signé à Charlottetown (Île‑du‑Prince‑Édouard), ce 8e jour d’août 2007.
+« E. P. Rossiter »
+Juge Rossiter
+Traduction certifiée conforme
+ce 29e jour d’août 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI333
+Date : 20070808
+Dossier : 2006-1673(GST)I
+ENTRE :
+RAMIN ASADOLLAH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Rossiter
+[1] Le présent appel concerne une cotisation fondée sur la responsabilité de l’administrateur, établie en vertu de l’article 323 de la Loi sur la taxe d’accise (la « Loi ») à l’encontre de Ramin Asadollah, inscrit comme administrateur, secrétaire et trésorier de Smart Security Systems Inc. (« Smart »).
+EXPOSÉ DES FAITS
+[2] M. Asadollah a rencontré pour la première fois Frank Guido, le président de Smart, en décembre 1996, au moment où il a été engagé par cette entreprise. Smart vendait des systèmes d’alarme et, dans certains cas, elle offrait des systèmes d’alarme gratuitement si le client signait un contrat de sécurité de cinq ans assorti de frais mensuels de surveillance. M. Asadollah avait pour tâche d’acquérir, d’installer et d’entretenir les systèmes d’alarme et d’encadrer cinq employés, tandis que M. Guido s’occupait des ventes et de l’administration. M. Asadollah devait recevoir un salaire qui couvrait essentiellement les frais de son automobile. L’entreprise avait un commis comptable, Alex Liu, qui s’occupait de la tenue des registres financiers, y compris de la production et de l’envoi des déclarations de TPS. M. Liu recevait généralement ses instructions de M. Guido, mais aussi de M. Asadollah environ 10 p. 100 du temps.
+[3] M. Guido a constitué Smart en société par actions sans la participation de M. Asadollah. Les parties conviennent qu’il existait entre les deux une entente écrite suivant laquelle M. Asadollah obtiendrait 50 p. 100 des actions de la société s’il y travaillait et y restait pendant cinq ans. M. Guido dit que, dans une tentative de gagner la confiance de M. Asadollah et de lui offrir une certaine sécurité d’emploi, il a également désigné celui-ci comme administrateur et dirigeant (secrétaire et trésorier) de la société. Les registres du ministère des Services aux consommateurs et aux entreprises de la province de l’Ontario confirment l’inscription de M. Asadollah comme administrateur et secrétaire-trésorier de Smart depuis le 5 mai 1997 jusqu’à la date des registres du 30 novembre 2004, même si M. Asadollah a affirmé ignorer qu’il était inscrit comme administrateur.
+[4] Tout au long de l’existence de la société, les relations entre M. Guido et M. Asadollah semblaient être très détendues. Rien dans la preuve n’indique qu’il y ait déjà eu des réunions d’administrateurs; toutefois, leurs intérêts étaient clairement liés. En fait, au cours de leur témoignage, ils ont tous les deux employé plusieurs fois la première personne du pluriel (nous). En discutant des finances de la société, M. Asadollah s’est exprimé dans les termes suivants : [traduction] « Nous étions corrects et ce n’est pas vrai que nous prenions les affaires un mois à la fois. » En ce qui a trait à l’embauche de M. Asadollah, M. Guido a dit ce qui suit : [traduction] « Nous formions la nouvelle société Smart Systems. » En discutant des activités financières de la société, il a employé les termes suivants : [traduction] « Nous avions assez d’argent pour subvenir à nos besoins, mais nous avons éprouvé des difficultés lorsque nous avons perdu un constructeur important. » Le langage employé par M. Asadollah et M. Guido pour parler de Smart donnait à penser qu'il s'agissait de leur société, de leur entreprise et de leurs activités.
+[5] Contrairement à la position initialement adoptée dans son avis d’appel, M. Asadollah a nié au procès l’assertion suivant laquelle M. Guido avait toujours eu une emprise totale sur les finances de Smart. M. Asadollah avait accès aux comptes bancaires de Smart : il avait un pouvoir de signature pour les montants de 1 000 $ et moins (tout comme M. Liu), même s’il ne participait pas aux arrangements financiers de la société. De plus, lui et M. Guido ont tous les deux également utilisé leurs cartes de crédit lorsque la société a manqué d’argent pour payer les fournisseurs et ils se sont partagé les produits de ses activités pour le remboursement de leur solde créditeur.
+[6] Dans la première année, ils avaient suffisamment de liquidités pour soutenir l’entreprise. Toutefois, environ six mois avant que la société cesse ses activités, un constructeur important qu’ils avaient comme client a décidé d’annuler l’achat d’environ 500 systèmes d’alarme. La situation financière de la société s’est ensuite vite détériorée. M. Asadollah et M. Guido ont dû régulièrement payer les comptes des fournisseurs avec leur propre argent. Avant la fermeture complète de la société, M. Asadollah a défendu les intérêts des employés et aidé à faire en sorte qu’ils soient payés, afin d’éviter des problèmes avec la Commission du travail ou d’autres organismes. M. Guido et M. Asadollah disent qu’ils croyaient que les déclarations de TPS étaient produites par M. Liu et qu’ils ont appris qu’ils avaient des arriérés après que la société a cessé ses activités en 2002 ou 2003.
+[7] M. Guido a informé M. Asadollah qu'il allait démissionner parce que l’entreprise ne pouvait plus être maintenue. Il a dit qu’il avait supposé que M. Asadollah ferait de même. M. Guido a dit que M. Asadollah savait et convenait qu’ils ne pouvaient faire concurrence aux grandes sociétés parce qu’elles offraient également des systèmes d’alarme gratuits et qu’elles possédaient de meilleures ressources financières. M. Guido a démissionné de son poste d’administrateur de la société en janvier 2000 sans autre discussion avec M. Asadollah.
+[8] Le 26 janvier 2005, l’ARC a établi un avis de cotisation à l’endroit de M Asadollah, en tant qu’administrateur de Smart.
+ANALYSE
+[9] M. Asadollah soulève trois arguments subsidiaires :
+1. L’avis de cotisation est prescrit.
+2. Si tel n’est pas le cas, il n'était pas un administrateur en fait même s’il pouvait en être un en droit.
+3. Si tel n’est pas le cas, il a agi avec autant de soin et de compétence diligente, pour éviter que la société ne fasse défaut de remettre la TPS, que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances, comme le prévoit le paragraphe 323(3) de la Loi.
+L’avis de cotisation est‑il prescrit?
+[10] M. Asadollah soutient que le paragraphe 323(4) de la Loi se rattache aux articles 296 à 311 dont l’application est par ailleurs assujettie au délai de prescription de quatre ans, à partir de la date à laquelle la déclaration doit être produite, lequel est prévu à l’article 298(1). Il allègue que la cotisation établie le 26 janvier 2005 était donc prescrite. Subsidiairement, M. Asadollah a invoqué le paragraphe 323(5) de la Loi qui prévoit un délai de prescription de deux ans après qu’une personne cesse pour la dernière fois d’être administrateur. M. Asadollah allègue avoir cessé d’être un administrateur lorsqu’il a initialement quitté la société. Par conséquent, il croit que, en vertu du paragraphe 323(5), la cotisation était hors délai.
+[11] L’intimée est d’avis que le paragraphe 298(1) ne s’applique pas, compte tenu de la décision Kern c. Canada, [2006] A.C.F. no 1094 (C.A.F.). L’intimée propose également que, puisque rien dans la Loi ne permet d’établir à quel moment une personne cesse d’être un administrateur, la Cour doit se tourner vers la loi provinciale applicable en matière de droit des sociétés, compte tenu de la décision Kalef v. Canada, [1996] 2 C.T.C. 1 (C.A.F.).
+[12] À mon avis, les arguments de l’intimée sont exacts.
+[13] La décision Kern, précitée, affirme de façon concluante que le paragraphe 298(1) ne s’applique pas aux cotisations fondées sur la responsabilité de l’administrateur et que le seul délai de prescription applicable est celui prévu au paragraphe 323(5) de la Loi. Aux paragraphes 8 et 9, le juge Létourneau, s’exprimant au nom de la Cour, a écrit ce qui suit :
+8 À propos du jugement de la Cour de l’impôt touchant la TPS, les appelants ont avancé devant notre Cour l’argument que la cotisation de 51 000 $ pour l’année 1997 avait été établie hors délai, c’est‑à‑dire après l’expiration du délai de quatre ans prévu à l’alinéa 298(1)a) de la Loi sur la taxe d’accise.
+9 Sauf révérence, le délai de prescription applicable aux cotisations qui – comme celles qui nous occupent – sont établies sous le régime de l’article 323 est prévu au paragraphe 323(5). En un mot, ce délai est de deux ans après que la personne physique faisant l’objet de la cotisation a cessé pour la dernière fois d’être un administrateur de la personne morale en cause.
+[14] La décision Kalef, précitée, autorise à se reporter à la loi provinciale applicable en matière de droit des sociétés pour déterminer à quel moment une personne cesse d’être un administrateur. Dans cette affaire, la Cour a examiné la Loi sur les sociétés par actions de l’Ontario. Dans le présent appel, la loi applicable est la loi de la Colombie‑Britannique intitulée Business Corporations Act (la BCBCA) et en particulier le paragraphe 128(1) qui est rédigé comme suit :
+[traduction]
+128 (1) Le mandat d’un administrateur prend fin :
+a) à l’expiration de la période pour laquelle il a été nommé conformément :
+(i) à la présente loi ou à l’acte ou aux statuts constitutifs;
+(ii) aux modalités de son élection ou de sa nomination;
+b) lorsqu’il meurt ou démissionne;
+c) lorsqu’il est démis de ses fonctions conformément au paragraphe (3) ou (4).
+[15] D’après les faits, la situation de M. Asadollah ne correspond pas aux alinéas 128(1)a), b) ou c) de la BCBCA. Puisque son mandat d’administrateur n’a pas pris fin, le délai de deux ans prévu au paragraphe 323(5) de la Loi n’a pas commencé à courir et la cotisation n’est pas prescrite.
+M. Asadollah était‑il un administrateur de facto?
+[16] M. Asadollah affirme qu’il n’était pas un administrateur de facto parce que : a) il ne participait pas à la gestion quotidienne de la société; b) il n’exerçait aucune emprise ni influence sur les finances de celle‑ci; c) il n’agissait pas à titre d’administrateur; d) il ne se considérait pas lui‑même comme un administrateur de facto; e) il a cessé d’être un administrateur de facto lorsque l’entreprise a fermé en juin 1999.
+[17] L’intimée considère que M. Asadollah était à la fois un administrateur de jure et un administrateur de facto et que, même s’il n’était pas un administrateur de facto, il n’est pas dégagé de sa responsabilité. L’intimée croit également que le simple fait qu’une société cesse ses activités ne signifie pas que l’administrateur cesse d’être un administrateur.
+[18] En de rares occasions, la Cour a statué qu’un administrateur de jure n’était pas un administrateur de facto et que, par conséquent, il ne devait pas être tenu responsable en vertu de l’article 323 de la Loi : François Lambert v. Her Majesty the Queen, [2005] G.S.T.C. 76 (C.C.I.); Gordon Fitzgerald et al. v. The Minister of National Revenue, 92 DTC 1019 (C.C.I.); Emilio Dirienzo v. Her Majesty the Queen, 2000 DTC 2230 (C.C.I.). Toutefois, ces affaires s’articulent autour du fait que les parties étaient des membres d’une famille et que le pouvoir de l’administrateur de jure ne pouvait être exercé sans perturber l’harmonie familiale, ce qui n’est pas le cas en l’espèce.
+[19] M. Asadollah était manifestement un administrateur de jure depuis le 5 mai 1997 et il l’était toujours pendant la période en question. En considérant la preuve dans son ensemble, je suis d’avis que M. Asadollah était également un administrateur de facto.
+[20] Dans son témoignage, M. Asadollah a affirmé n’avoir jamais discuté des activités de la société avec M. Guido et il a laissé entendre qu’il ne participait pas vraiment aux décisions s’y rapportant. Il a tenté de minimiser les connaissances qu’il avait relativement à la gestion de l’entreprise et à ses affaires et sa participation à celles‑ci pour essayer de donner l’impression qu’il n’était rien d’autre qu’un technicien. Ce tableau n’est tout simplement pas cohérent avec celui tracé par M. Guido. En ce qui a trait à cette question, j’accepte le témoignage de M. Guido plutôt que celui de M. Asadollah. À mon avis, M. Asadollah était un administrateur de fait et de droit. Il participait activement à la gestion et aux activités de Smart.
+M. Asadollah a‑t‑il agi avec le soin et la compétence diligente nécessaires pour se prévaloir de la protection du paragraphe 323(3) de la Loi?
+[21] Les administrateurs à l’égard desquels une cotisation est établie en vertu du paragraphe 323(1) peuvent soulever comme moyen de défense la diligence raisonnable prévue au paragraphe 323(3) :
+L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[22] Qu’est‑ce qu’une personne raisonnablement prudente aurait fait dans les mêmes circonstances? Certains croient que le critère applicable est une norme objective subjective qui tient compte des connaissances personnelles et de l’expérience de l’administrateur : Soper v. Canada, [1997] 3 C.T.C. 242 (C.A.F.). D’autres allèguent que ce critère a été remplacé par une norme strictement objective, à savoir une norme qui tient compte du contexte dans lequel l’administrateur agissait plutôt que de ses intentions subjectives : Magasins à rayons Peoples inc. (Syndic de) c. Wise, [2004] 3 R.C.S. 461 (C.S.C.).
+[23] Je ne discuterai pas de cette question aujourd’hui. À mon avis, M. Asadollah n’a pas agi avec la compétence et le soin diligents requis pour satisfaire à l’une ou l’autre de ces normes. D’après les faits, il avait le pouvoir, la possibilité et la responsabilité d’agir. Il n’a pris aucune mesure concrète pour prévenir le défaut de Smart de remettre la TPS. En fait, il a choisi de remplir d’autres obligations de Smart (par exemple, la paie, les comptes fournisseurs) plutôt que de rembourser la dette de TPS. Considéré objectivement, subjectivement ou autrement, ce comportement est nettement insuffisant pour satisfaire aux exigences de la défense de diligence raisonnable prévue au paragraphe 323(3) de la Loi.
+[24] L’appel est rejeté avec dépens en faveur de l’intimée.
+Signé à Charlottetown (Île‑du‑Prince‑Édouard), ce 8e jour d’août 2007.
+« E. P. Rossiter »
+Juge Rossiter
+Traduction certifiée conforme
+ce 29e jour d’août 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI333
+NO DU DOSSIER DE LA COUR : 2006-1673(GST)I
+INTITULÉ : Ramin Asadollah c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Les 15 et 16 mai 2007
+MOTIFS DU JUGEMENT : L’honorable juge E. P. Rossiter
+DATE DU JUGEMENT : Le 8 août 2007
+COMPARUTIONS :
+Représentant de l’appelant :
+Carl Beck, CMA
+Avocat de l’intimée :
+Me David Everett
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

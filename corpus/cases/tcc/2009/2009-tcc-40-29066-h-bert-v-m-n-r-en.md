@@ -1,0 +1,245 @@
+---
+title: "Hébert v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29066/index.do"
+last_modified: "2009-02-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 40"
+citation2: ""
+neutral_citation: "2009 TCC 40"
+decision_date: "2009-02-02"
+language: "en"
+item_id: "29066"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6813
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:37:02.701000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a59d1fdeccd103a1d98a495e36310d0c0bb84f7ad43231556b52ac66e4dbcd07"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hébert v. M.N.R.
+
+- Citation: 2009 TCC 40
+- Decision date: 2009-02-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6813, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hébert v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-02
+Neutral citation
+2009 TCC 40
+File numbers
+2007-4124(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-4124(EI)
+BETWEEN:
+IDA HÉBERT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ELZÉAR HÉBERT,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Elzéar G. Hébert (2007-4126(EI))
+on December 16, 2008, at Miramichi, New Brunswick.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant herself
+Jeremy Cook
+Counsel for the Respondent:
+Geneviève Léveillée
+For the Intervener:
+The Intervener himself
+Jeremy Cook
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of February 2009.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 17th day of March 2009.
+Bella Lewkowicz, Translator
+Docket: 2007-4126(EI)
+BETWEEN:
+ELZÉAR G. HÉBERT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+IDA HÉBERT,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Ida Hébert (2007-4124(EI))
+on December 16, 2008, at Miramichi, New Brunswick.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+Jeremy Cook
+Counsel for the Respondent:
+Geneviève Léveillée
+For the Intervener:
+The Intervener herself
+Jeremy Cook
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of February 2009.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 17th day of March 2009.
+Bella Lewkowicz, Translator
+Citation: 2009 TCC 40
+Date: 20090202
+Dockets: 2007-4124(EI)
+2007-4126(EI)
+BETWEEN:
+IDA HÉBERT and ELZÉAR G. HÉBERT,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Appellants are appealing from the decisions of the Minister of National Revenue (the Minister) made pursuant to the Employment Insurance Act (the Act). The Minister found that Ida Hébert (the Worker) was not carrying out employment under a contract of service and therefore did not have insurable employment within the meaning of paragraph 5(1)(a) of the Act while she was working for Elzéar G. Hébert (the Payor) from July 24, 2006, until October 14, 2006, (the relevant period). The Minister also found that the employment was excluded because the Worker and the Payor would not have entered into a similar employment contract, if they had been dealing with each other at arm’s length.
+[2] In making his decisions in dockets 2007-4124(EI) and 2007-4126(EI), the Minister relied on the following presumptions of fact, set out in paragraph 6 of each Reply to the Notice of Appeal:
+[TRANSLATION]
+a) the Payor had been a fisherman for several years and fished only lobster;
+b) the Appellant was the Payor’s spouse;
+c) the Payor was the sole proprietor and captain of a fishing boat called “M.V.G.”;
+d) the Payor had a lobster fishing permit issued by the Department of Fisheries and Oceans;
+e) the Payor was entitled to 100% of the proceeds from the sale of the lobster catch;
+f) the lobster fishing season in the St.-Louis-de-Kent region was from August 9, 2006, to October 10, 2006 (the season);
+g) during the time at issue, the Payor had hired two fisherman’s helpers: the Appellant and their son, Guillaume Hébert (Guillaume);
+h) during previous fishing seasons, the Payor had hired only one fisherman’s helper: his brother, who retired after the previous season;
+i) neither the Appellant nor Guillaume had any fishing experience;
+j) Guillaume operated the lobster trap hauler and so he was the main fisherman’s helper;
+k) during the two weeks before the season started, the Appellant’s tasks were preparatory and included: taking off the old paint, washing and painting the boat’s hull, washing and cleaning the boat’s interior and painting and numbering the buoys;
+l) during the season, the Appellant’s tasks onboard the boat included: preparing the bait, bagging the bait, placing the bags in the lobster traps, putting elastic bands over the lobster claws and preparing meals;
+m) at the end of the season, the Appellant’s tasks included: taking the boat out of the water, bringing in, cleaning and storing the lobster straps, storing the buoys, cleaning and storing the cables and preparing the boat for winter;
+n) during the two weeks preceding the season and the week following the season, the Appellant did not work 80 hours per week;
+o) during the period at issue, no one kept track of the Appellant’s hours;
+p) the Appellant was paid $750 per week, regardless of how many hours she worked;
+q) the Appellant and the Payor had a joint bank account (the family account);
+r) the family account was also used by the Payor to handle financial transactions related to fishing;
+s) before depositing the lobster sales proceeds in the family account, the Payor paid Guillaume directly;
+t) the Payor never remunerated the Appellant directly;
+u) the Payor did not pay the Appellant using a separate deposit;
+v) the Appellant’s pay never left the family account;
+w) during the period at issue, the balance of the family account was not high enough for the Appellant to be remunerated for the pay days of July 29, August 5 and August 12;
+x) the Payor had only one fisherman’s helper from September 17, 2006, to October 7, 2006;
+y) the Appellant did not work for the Payor between September 17, 2006, and October 7, 2006;
+z) the Appellant needed 860 insurable hours in order to be entitled to employment insurance benefits;
+aa) the Record of Employment issued by the Payor gave the Appellant exactly 860 insurable hours;
+bb) according to the Payor, the Appellant was paid a total of $9,000; and
+cc) the Appellant did not work all the hours and did not receive all the remuneration indicated on the Record of Employment.
+[3] The Appellants testified. Jeremy Cook, the Appellants’ accountant, also testified in support of their position. However, Katherine Elizabeth Chopin, the Appeals Officer acting in this matter, testified in support of the Respondent’s position.
+Payor’s testimony
+[4] The Payor explained the reason he hired his son and the Worker as fisherman’s helpers despite their inexperience during the relevant period: in the spring of 2006 and throughout the relevant period, he suffered from back aches, which prevented him from carrying out any task requiring even the slightest amount of physical effort. These back aches prompted him, starting in early spring 2006 and until the end of June 2006, to try to sell his boat. His sales efforts were unsuccessful. He had debts to pay, and as a result, he had no choice but to operate his boat. The decision to fish with his boat was made a few weeks before the start of the lobster fishing season and it was too late to hire fisherman’s helpers. As a result, he had no choice but to hire his son and the Worker as fisherman’s helpers, who, I wish to point out again, had little experience in this regard.
+[5] Moreover, the Payor testified that at the end of each week during the relevant period, he marked the number of hours worked by the Worker on a sheet of paper. He added that submitting this as evidence would be impossible as the paper had been lost.
+[6] The Payor testified that he paid the Worker in cash for the work she did during the relevant period. The Payor explained that he handed actual cash to the Worker, which came from the following sources:
+i) cash withdrawals from the joint bank account he had with the Worker (the family account). It must be pointed out that the Payor was not able to specify the amounts or dates of the withdrawals made for this purpose;
+ii) cash withdrawals made with his credit card;
+iii) cash advances the buyer of his lobster catches granted him at the start of the fishing season;
+iv) cash in his possession from other sources.
+It must immediately be pointed out that when discussing the Worker’s remuneration, the Payor was at best vague, imprecise and difficult to understand.
+Mr. Cook’s and the Worker’s testimony
+[7] The Worker’s testimony was essentially the same as the Payor’s. I note that the Worker’s testimony with respect to her remuneration was just as vague, imprecise and sometimes difficult to understand as the Payor’s. Moreover, Mr. Cook’s testimony revealed little other than that the Payor’s business had a gross revenue of $31,000 and a loss of about $4,000 in 2006. Mr. Cook also explained that the salary allegedly paid to the Worker was recorded as an operating expenditure in the income statement of the Payor’s business for the year 2006.
+Katherine Elizabeth Chopin’s testimony
+[8] From Ms. Chopin’s testimony, I learned mainly that she sent each of the Appellants a questionnaire that they both completed and returned to her. The questions and answers on these questionnaires that addressed the Worker’s remuneration should be cited:
+(questions and answers Exhibit I-4)
+[TRANSLATION]
+18. According to the information in the file, you were never paid directly. Instead, your pay was deposited into the Payor’s bank account. Is this correct?
+A: Yes, I was never paid directly. My pay was deposited into our personal account.
+19. It is indicated that you could withdraw money from the Payor’s account using an automated banking machine as needed. Is this correct?
+A: Yes.
+a) If yes, how did you establish that the money you were withdrawing was your pay and not family money withdrawn to handle household expenses?
+A: For my personal needs and household expenses, electricity, satellite, groceries, clothing, telephone, etc.
+b) Did you provide the Payor with receipts when you withdrew your pay from the account? (If yes, please submit them.)
+A: No.
+c) Please provide proof that you received your full pay.
+A: No, no proof.
+(questions and answers Exhibit I-5)
+[TRANSLATION]
+19. According to the information in the file, the Worker was never directly paid. Instead, her pay was deposited directly into the Payor’s account. Is this correct?
+A: Yes, the pay was deposited into our personal account.
+20. It is indicated that the Worker could withdraw money from the Payor’s account using an automated banking machine as needed. Is this correct?
+A: Yes.
+a) If yes, how did you establish that the money she was withdrawing from the account was her pay or if she was using it for household expenses?
+A: For household and personal expenses.
+b) Did the Worker give you receipts when she withdrew her pay from your bank account? (If yes, please submit them.)
+A: No.
+c) Please provide proof that the Worker received her full pay.
+A:
+Analysis and conclusion
+[9] The Appellants had to show that there was a contract of service between the Payor and the Worker. To do so, they had to show, among other things, that the Worker was paid for the work she did. In fact, a contract of service cannot exist without remuneration for the work completed.
+[10] The Appellants’ evidence in this regard relied essentially on their testimony, which I found to be vague and imprecise and sometimes incomprehensible. Their testimony was not supported by sufficient documentary evidence, such as the Payor’s credit card statements, pertinent bank statements from the family account and sufficient written evidence of the advances granted by the Payor’s buyer. The Appellants were able to provide this evidence. They did not do so. I infer from this that this evidence would not have been favourable to their case. Moreover, their testimony was contradicted by the documents (Exhibits I-4 and I-5) submitted as evidence by the Respondent. The Appellants were not able to sufficiently explain the contradictions. The Appellants simply did not satisfy me that the Payor had paid the Worker for the work that was done.
+[11] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 2nd day of February 2009.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 17th day of March 2009.
+Bella Lewkowicz, Translator
+CITATION: 2009 TCC 40
+COURT FILE NOs: 2007-4124(EI) and 2007-4126(EI)
+STYLES OF CAUSE: Ida Hébert and M.N.R.
+Elzéar G. Hébert and M.N.R.
+PLACE OF HEARING: Miramichi, New Brunswick
+DATE OF HEARING: December 16, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: February 2, 2009
+APPEARANCES:
+For the Appellants:
+The Appellants themselves and Jerry Cook
+Counsel for the Respondent:
+Geneviève Léveillée
+For the Interveners:
+The Interveners themselves and
+Jerry Cook
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

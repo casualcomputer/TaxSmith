@@ -1,0 +1,166 @@
+---
+title: "1314420 Ontario Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27597/index.do"
+last_modified: "2006-09-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 490"
+citation2: ""
+neutral_citation: "2006 CCI 490"
+decision_date: "2006-09-06"
+language: "fr"
+item_id: "27597"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 166
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:47:10.403000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "017a1e0b6885ebff163b6d1ab3920c4c416aa58cfd7806d5479b2901d82a7036"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1314420 Ontario Ltd. v. The Queen
+
+- Citation: 2006 CCI 490
+- Decision date: 2006-09-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 166, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1314420 Ontario Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-06
+Référence neutre
+2006 CCI 490
+Numéro de dossier
+2006-1322(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1322(IT)G
+ENTRE :
+1314420 ONTARIO LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Requête entendue le 2 août 2006, à Welland (Ontario)
+Devant : L'honorable juge G. Sheridan
+Comparutions :
+Pour l'appelante :
+Personne n'a comparu
+Avocat de l'intimée :
+Me George Boyd Aitken
+________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l'intimée afin d'obtenir une ordonnance en application de l'alinéa 58(1)b) des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles ») radiant l'avis d'appel à l'égard de l'année d'imposition 2000;
+Et vu les observations de l'avocat de l'intimée et les documents présentés;
+Et vu que personne n'a comparu au nom de l'appelante, et qu'aucun document n'a été déposé pour son compte :
+LA COUR ORDONNE, selon les motifs de l'ordonnance ci-joints :
+1. en application du paragraphe 30(2) des Règles, l'appelante est tenue de retenir les services d'un avocat et d'aviser la Cour et l'avocat de l'intimée par écrit du nom et de l'adresse aux fins de signification de son avocat, ainsi que de son numéro de téléphone et de télécopieur, et ce, dans les 30 jours suivant la date de la présente ordonnance, ou bien, subsidiairement, l'appelante est tenue de demander l'autorisation de la Cour de se faire représenter par un de ses dirigeants, et ce, dans les 15 jours suivant la date de la présente ordonnance, laquelle requête doit m'être présentée à une date fixée de façon péremptoire;
+2. si l'appelante ne se soumet pas aux dispositions de la présente ordonnance, l'intimée peut renouveler sa requête concernant le redressement subsidiaire demandé, laquelle requête doit m'être présentée de nouveau à une date fixée de façon péremptoire;
+3. l'appelante doit payer à l'intimée les dépens de la présente requête, quelle que soit l'issue de la cause.
+Signé à Ottawa, Canada, ce 6e jour de septembre 2006.
+« G. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 11e jour de mai 2007.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI490
+Date : 20060906
+Dossier : 2006-1322(IT)G
+ENTRE :
+1314420 ONTARIO LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Sheridan
+[1] Le dossier de requête de l'intimée présente les ordonnances demandées et les moyens invoqués suivants :
+[TRADUCTION]
+La requête vise à obtenir :
+a) une ordonnance radiant l'avis d'appel présenté à la Cour canadienne de l'impôt le 1er février 2006, en application de l'alinéa 58(1)b) des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »);
+b) subsidiairement, une ordonnance enjoignant à l'appelante de fournir des précisions dans un délai déterminé, comme prévu à l'article 52 des Règles;
+c) subsidiairement, suivant l'article 26 des Règles, une ordonnance de réunion du présent appel et de l'appel interjeté par l'appelante dans l'affaire portant le numéro de dossier de la Cour canadienne de l'impôt 2006-1323(IT)I;
+d) subsidiairement encore, une ordonnance prorogeant le délai accordé à l'intimée pour présenter sa réponse à l'avis d'appel en application de l'alinéa 44(1)b) des Règles;
+e) une ordonnance enjoignant à l'appelante de se conformer à l'article 30(2) des Règles, soit de se faire représenter par un avocat ou de demander l'autorisation de la Cour de se faire représenter par un de ses dirigeants;
+f) les dépens, quelle que soit l'issue de la cause;
+g) toute autre mesure de redressement que la Cour jugera appropriée.
+Les moyens au soutien de la requête sont les suivants :
+a) l'avis d'appel ne révèle aucun moyen raisonnable d'appel, se limitant, au mieux, à soulever une question de droit concernant le paragraphe 152(7) de la Loi de l'impôt sur le revenu sur laquelle il a déjà été statué;
+b) l'appelante n'a pas fourni de précisions à l'intimée, et ce, malgré la demande de précisions qui lui a été signifiée par l'intimée le 30 juin 2006;
+c) l'avis d'appel, tel qu'il a été présenté, ne donne pas assez de précisions sur lesquelles l'intimée peut fonder sa réponse à l'avis d'appel;
+d) le présent appel et l'appel interjeté par l'appelante et qui porte le numéro de dossier de la Cour canadienne de l'impôt 2006‑1323(IT)I ont en commun des questions de fait et de droit. Étant donné les circonstances, il serait justifié de réunir les deux appels ou de les entendre ensemble sur preuve commune.
+[2] La présente requête a été inscrite au rôle pour audition à Welland (Ontario) le 2 août 2006. Le 1er août 2006, avant l'audition d'une autre instance, l'avocat de l'intimée a avisé la Cour qu'il avait cru comprendre que l'appelante demanderait un ajournement parce que, semblait-il, son comptable, M. Bill Haskin, qui devait (là encore, semblait‑il) la représenter à l'audition de la requête de l'intimée éprouvait des problèmes de santé. Après quelques questions de la Cour, l'avocat de l'intimée a indiqué qu'il n'était pas au courant qu'une demande officielle d'ajournement ait été présentée à la Cour.
+[3] Comme l'avocat de l'intimée prévoyait communiquer avec M. Haskin plus tard au cours de la journée, la Cour l'a chargé d'informer ce dernier que s'il avait l'intention de demander un ajournement de l'audition de la requête prévue le lendemain, il devait présenter sa demande par écrit et fournir une preuve de son rendez-vous médical qui (semblait-il) l'empêchait de comparaître au nom de l'appelante le 2 août 2006. Après une courte suspension d'audience, l'avocat de l'intimée a informé la Cour qu'il avait parlé à M. Haskin et que ce dernier lui avait dit qu'il [TRADUCTION] « essaierait » d'envoyer à Ottawa le document demandé et qu'il avait confirmé que M. Bobby Cosby[1] n'était [TRADUCTION] « pas disponible » le 2 août 2006. Bien qu'au départ l'avocat de l'intimée ne s'opposait pas à la demande éventuelle d'ajournement si elle était appuyée par une preuve écrite des problèmes médicaux empêchant la comparution de M. Haskin, comme les heures filaient, il s'est ravisé et a indiqué que l'intimée préférerait aller de l'avant comme prévu.
+[4] La cause a été appelée le 2 août 2006 pour audience de la requête de l'intimée. Personne n'a comparu au nom de l'appelante. La Cour a accordé le bénéfice du doute à l'appelante et a placé la requête de l'intimée à la fin du rôle de la journée. Après avoir entendu toutes les autres affaires et avant d'appeler la cause une seconde fois, la Cour a suspendu l'audience pour vérifier si le greffe, à Ottawa, avait reçu quelque chose de la part de l'appelante. Comme ce n'était pas le cas, la requête de l'intimée a été entendue en l'absence de l'appelante[2].
+[5] Après avoir examiné les lacunes de l'avis d'appel et de la réponse de l'appelante à la demande de précisions présentée par l'intimée, l'avocat de l'intimée a fait valoir que la demande du ministre visant à faire radier l'avis d'appel suivant l'alinéa 58(1)b) des Règles était justifiée. L'alinéa 58(1)b) est rédigé en ces termes :
+[...]
+b) soit de radier un acte de procédure au motif qu'il ne révèle aucun moyen raisonnable d'appel ou de contestation de l'appel,
+[6] L'avocat de l'intimée a également souligné le fait que l'appelante n'était pas représentée par un avocat et qu'il s'agissait là d'une contravention au paragraphe 30(2) des Règles. Le paragraphe 30(2) est rédigé en ces termes :
+Représentation d'une personne ou d'une personne morale par avocat
+[...]
+(2) Une personne morale se fait représenter par un avocat dans toute instance devant la Cour, sauf lorsque dans des circonstances spéciales, la Cour autorise la personne morale à se faire représenter par un de ses dirigeants.
+[7] En invoquant le principe voulant que la justice soit mieux servie si le contribuable a l'occasion de faire valoir son point de vue devant la Cour, et en avançant que le fait que l'appelante ne soit pas représentée par un avocat explique peut-être l'état dans lequel se trouvent ses actes de procédure, l'avocat de l'intimée a soutenu que bon nombre des lacunes mentionnées dans la requête de l'intimée pourraient être corrigées par l'octroi d'une ordonnance enjoignant à l'appelante de se conformer aux dispositions du paragraphe 30(2) des Règles. Cette proposition tout à fait équitable de l'avocat de l'intimée m'a convaincue. Elle suit la démarche préconisée dans la jurisprudence :
+Il est difficile de satisfaire au critère déterminant qui justifie le rejet d'une action ou la radiation d'une demande pour absence de cause raisonnable d'action. Nos tribunaux sont à juste titre réticents à mettre fin prématurément à des actions qui pourraient éventuellement s'avérer bien fondées. Nous préférons donner à chacun l'occasion d'être entendu et ne radier les demandes que dans les cas les plus manifestes. Pour reprendre les propos tenus par le juge Estey de la Cour suprême du Canada dans l'affaire Procureur général du Canada c. Inuit Tapirisat of Canada et autre, [1980] 2 R.C.S. 735, à la page 740 :
+Sur une requête comme celle-ci, un tribunal doit rejeter l'action ou radier une déclaration du demandeur seulement dans les cas évidents et lorsqu'il est convaincu qu'il s'agit d'un cas au-delà de tout doute [C'est moi qui souligne[3].]
+[8] Cependant, il n'y a rien dans ce propos qui vienne décharger l'appelante de son obligation de poursuivre son appel d'une façon diligente et responsable, comme le prévoient les Règles. De surcroît, il n'y a sûrement rien qui confère à l'appelante le droit de ne pas tenir compte d'une ordonnance de la Cour prescrivant l'inscription de la requête de l'intimée au rôle. Le manque d'attention et l'omission d'agir de ceux qui prétendent représenter l'appelante, soit M. Haskin et M. Cosby, ont causé un gaspillage du temps et des ressources de la Cour, de l'avocat de l'intimée et des contribuables du Canada. C'est pourquoi l'appelante doit payer à l'intimée les dépens de la présente requête, quelle que soit l'issue de la cause.
+[9] Par conséquent, la Cour ordonne :
+1. en application du paragraphe 30(2) des Règles, l'appelante est tenue de retenir les services d'un avocat et d'aviser la Cour et l'avocat de l'intimée par écrit du nom et de l'adresse aux fins de signification de son avocat, ainsi que de son numéro de téléphone et de télécopieur, et ce, dans les 30 jours suivant la date de la présente ordonnance, ou bien, subsidiairement, l'appelante est tenue de demander l'autorisation de la Cour de se faire représenter par un de ses dirigeants, et ce, dans les 15 jours suivant la date de la présente ordonnance, laquelle requête doit m'être présentée à une date fixée de façon péremptoire;
+2. si l'appelante ne se soumet pas aux dispositions de la présente ordonnance, l'intimée peut renouveler sa requête concernant le redressement subsidiaire demandé, laquelle requête doit m'être présentée de nouveau à une date fixée de façon péremptoire;
+3. l'appelante doit payer à l'intimée les dépens de la présente requête, quelle que soit l'issue de la cause.
+Signé à Ottawa, Canada, ce 6e jour de septembre 2006.
+« G. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 11e jour de mai 2007.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI490
+N° DU DOSSIER : 2006-1322(IT)G
+INTITULÉ : 1314420 ONTARIO LTD. ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Welland (Ontario)
+DATE DE L'AUDIENCE : Le 2 août 2006
+MOTIFS DE L'ORDONNANCE
+PAR : L'honorable juge G. Sheridan
+DATE DE L'ORDONNANCE : Le 6 septembre 2006
+COMPARUTIONS :
+Pour l'appelante :
+Personne n'a comparu
+Avocat de l'intimée :
+Me George Boyd Aitken
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Selon l'avis d'appel, le président de la société appelante.
+[2] On s'est plus tard rendu compte que le greffe de la Cour, à Ottawa, a reçu un message par télécopieur de la part de M. Haskin peu après 9 h, le matin de l'audience. Le message s'est rendu au fonctionnaire du greffe, et donc à moi, à Welland, seulement après que la requête de l'intimée a été entendue et que l'audience a été levée. Même si j'avais reçu le message avant 9 h 30, étant donné le comportement de M. Haskin et de M. Cosby, et étant donné le caractère insuffisant de l'information contenue dans le message envoyé par télécopieur au greffe, je n'aurais pas accueilli ce qui semblait être une demande d'ajournement faite par l'appelante.
+[3] Roach c. Canada (Ministre d'État au Multiculturalisme et à la Citoyenneté), [1994] 2 C.F. 406, à la page 420 (C.A.F.).

@@ -1,0 +1,162 @@
+---
+title: "Holt v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30592/index.do"
+last_modified: "2003-06-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 405"
+citation2: ""
+neutral_citation: "2003 TCC 405"
+decision_date: "2003-06-17"
+language: "en"
+item_id: "30592"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7148
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:02:58.900000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cda6cff2b77ee07a40ab943679d4c782ccea240efb82feaf4d96f2db533e0658"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Holt v. The Queen
+
+- Citation: 2003 TCC 405
+- Decision date: 2003-06-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7148, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Holt v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-17
+Neutral citation
+2003 TCC 405
+File numbers
+2001-1723(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-1723(IT)I
+BETWEEN:
+DAVID DESMOND HOLT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard by telephone conference on June 3, 2003, at Ottawa, Ontario
+By: The Honourable Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brooke Sittler
+____________________________________________________________________
+JUDGMENT
+UPON motion by counsel for the Respondent for an Order dismissing the appeal from the assessment of tax made under the Income Tax Act for the 1998 taxation year;
+AND UPON hearing the Appellant and counsel for the Respondent.
+It is ordered that the motion is granted and the appeal is dismissed.
+Signed at Ottawa, Canada, this 17th day of June, 2003.
+"C.H. McArthur"
+J.T.C.C.
+Citation: 2003TCC405
+Date: 20030617
+Docket: 2001-1723(IT)I
+BETWEEN:
+DAVID DESMOND HOLT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] This is a motion by the Respondent for an Order dismissing the appeal from an assessment of tax for the 1998 taxation year. The Respondent's grounds are:
+a) The appeal was scheduled for hearing before the Tax Court of Canada on January 11, 2002;
+b) The Appellant did not appear on the day fixed for the hearing and the Respondent applied pursuant to section 18.21(1) of the Tax Court of Canada Act for an Order that the appeal be dismissed;
+c) The Court adjourned the hearing of the appeal for a period of six months and advised that, should the Court not hear from the Appellant during the period of the adjournment, the Respondent could resubmit its motion to dismiss the appeal; and
+d) To the Respondent's knowledge, the Appellant has not taken any steps to pursue the appeal during the period of the adjournment.
+[2] Some of the facts are accurately set out in the affidavit of Rosemary daSilva-Kassian, paralegal with the Department of Justice in Edmonton, including the following:
+3. ... Brooke Sittler,[1] wrote to the Appellant on December 6, 2001, advising that she had conduct of the file. ...
+4. ... Ms. Sittler wrote to the Appellant on December 20, 2001, advising the Appellant that she would be willing to review any further information in support of the Appellant's claims before the hearing scheduled for January 11, 2002. ...
+5. ... Respondent received a facsimile from the Appellant dated January 10, 2002 advising the Respondent that he would not be attending the hearing scheduled for January 11, 2002 due to poor health. ...
+7. ... Ms. Sittler ... made efforts to contact the Appellant by telephone without success. ...
+9 ... the Appellant did not appear at the hearing of the appeal on January 11, 2002. ... Ms. Sittler made an application pursuant to section 18.21(1) of the Tax Court of Canada Act for an Order that the appeal be dismissed.
+10. ... by letter dated January 22, 2002, the Court advised the Appellant that the hearing of the appeal was adjourned for a period of six months. The said letter also stated that if the Appellant did not contact the Court during the adjournment period, the Respondent could "resubmit its motion to dismiss the appeal. ...
+11. ... on April 24, 2003, ... the Court has not received any communications from the Appellant during the period of the adjournment.
+12. ... the Appellant has not taken any further steps to pursue the appeal.
+The request for an adjournment of the scheduled January 11, 2002 hearing contained the following, which was received by fax from the Appellant:
+with regard to hearing tomorrow will not be able to attend due to poor health which is terminal.
+as far as information you can view public records to verify large debt with no assets to cover
+1997 year is under appeal so it should be looked after first
+due to previous bankruptcy the only humane way to settle is to go before tax fairness board and try for fresh start
+as i do not have long to live i would offer my body live for medical research in return my family could survive in peace otherwise just shoot me by firing squad the most practical solution to this problem
+thank you for your consideration
+[3] Mr. Holt made submissions during the telephone conference motion of June 3, 2003. He stated that he did not attend on the hearing date of January 11, 2002 because it was a bitterly cold day and his 10-year old son was sick. He had apparently forgotten about his terminal illness referred to in his facsimile of January 10, 2002.
+[4] I accept that he was advised on January 22, 2002 that the hearing of the appeal was adjourned for six months from January 11, 2002. I do not believe that he made any attempt to contact the Court, the Respondent, or the fairness committee until he was advised of the present motion.
+[5] He referred to the seizure action of Canada Customs and Revenue Agency for tax arrears in the approximate amount of $161,000. This appears to be for amounts other than the 1998 taxation year at issue in this appeal. The Appellant is a former accountant. He stated he is working although probably in another line of work.
+[6] This motion is a continuation of the January 11, 2002 motion for dismissal of the Appellant's appeal. The Respondent presents three reasons for dismissal: (i) that the Respondent made several attempts to contact the Appellant, without success;[2] (ii) on December 20, 2001, the Respondent wrote to the Appellant offering to review his information and the Appellant did not reply; and (iii) the Appellant has made no formal application to the Court.
+[7] On January 11, 2002, in reply to the Respondent's motion to dismiss the appeal, I stated in part:[3]
+... I am going to take the Appellant's fax ... at its face value. It is just too dramatic for me to ignore.
+... if the Court has not heard anything further from him in the six-month period, I invite the Respondent, and it can be done through conference call if it's practical, to resubmit its motion to have the case dismissed. ... in all likelihood, if we have not heard from him in six months the appeal will be dismissed.
+It is now over 16 months since the adjournment and the Appellant has taken no action whatsoever. If he wishes to make an application under the fairness provision of the Income Tax Act with respect to the 1998 taxation year under appeal, he may be in a better position with a judgment in place.
+[8] The motion is granted and the appeal from the assessment of tax made under the Act for the 1998 taxation year is dismissed.
+Signed at Ottawa, Canada, this 17th day of June, 2003.
+"C.H. McArthur"
+J.T.C.C.
+CITATION:
+2003TCC405
+COURT FILE NO.:
+2001-1723(IT)I
+STYLE OF CAUSE:
+David Desmond Holt and
+Her Majesty the Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+June 3, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge C.H. McArthur
+DATE OF JUDGMENT:
+June 17, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brooke Sittler
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Counsel for the Respondent.
+[2] It appears that the Court Registrar attempted to call the Appellant on January 11, 2002, without success, and the Appellant's answering recorder was full.
+[3]
+Transcript, pages 5, 6 and 7.

@@ -1,0 +1,175 @@
+Title: Chew Estate v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31132/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-89-31132-chew-estate-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-02-25
+
+# Chew Estate v. The Queen
+
+- Citation: 2013 TCC 89
+- Decision date: 2013-02-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4780, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chew Estate v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-02-25
+Neutral citation
+2013 TCC 89
+File numbers
+2011-3655(GST)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2013TCC89
+Date: 20130403
+Docket: 2011-3655(GST)I
+BETWEEN:
+ESTATE OF JOHN W. CHEW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on March 1, 2013,
+in Victoria, British Columbia.)
+V.A. Miller J.
+[1] In assessing John Chew’s liability for the period October 1, 2009 to December 31, 2009, the Minister of National Revenue (the “Minister”) denied that John Chew was eligible for input tax credits (“ITCs”) in the amount of $8,074.22 on the basis that he had claimed the ITCs beyond the statutory four year time limit allowed by paragraph 225(4)(b) of the Excise Tax Act (“ETA”).
+[2] The question in this appeal is: when does a change of use from personal to commercial occur for purposes of claiming an ITC.
+[3] The Appellant was represented by T. Charlotte Hoggard, accountant and certified forensic investigator. She also testified on behalf of the Appellant.
+[4] The facts in this appeal are generally agreed by the parties who submitted a Partial Agreed Statement of Facts (“PASF”). A summary of those facts are:
+(a) John Chew was a registrant under the ETA since January 1, 1991 and he was required to file his goods and services tax (“GST”) returns on a quarterly basis.
+(b) Mr. Chew’s fiscal year end for GST purposes was December 31.
+(c) On June 30, 2004, Mr. Chew purchased two one-quarter interests in a strata lot located at Poet’s Cove Resort, 9801 Spalding Road, South Pender Island, British Columbia (the “Unit”).
+(d) The purchase price of his interest in the Unit was $149,800 plus GST of $10,486.
+(e) When he purchased the Unit, Mr. Chew did not claim ITCs in respect of the GST he paid on the Unit because his use of it was primarily personal.
+(f) No later than January 1, 2005, Mr. Chew put the Unit into a rental pool managed by a property manager to supply short term taxable rentals of the Unit.
+(g) Also contained in the PASF was a schedule which showed that during the second quarter of 2005, the Unit was used on 19 days and on 17 of these days, it was used for short-term rentals. During the balance of 2005 and in 2006, 2007 and 2008, the Unit was used predominantly for short-term rentals.
+[5] Mr. Chew owned or controlled a group of companies known as The Chew Companies. In December 2009, John Heraghty, Vice President-Finance for The Chew Companies, received a package of materials concerning GST from the property managers for the Unit. He realized that there had been a change in use of the Unit from personal to commercial and he prepared the GST return for Mr. Chew for the quarter from October 1, 2009 to December 31, 2009 (the “Period”). The return was filed with the Canada Revenue Agency (“CRA”) on January 30, 2010 and in it Mr. Chew claimed an ITC in the amount of $10,486 in respect of the Unit.
+[6] In the assessment issued for the Period, the Minister of National Revenue (the “Minister”) allowed an ITC of only $1,258.32. Mr. Chew objected to the assessment and the Minister reassessed the Period to allow an additional ITC of $1,153.46 for a total ITC of $2,411.78.
+[7] The Minister disallowed an ITC of $8,074.22 on the basis that it was claimed beyond the 4 year limit allowed by paragraph 225(4)(b) of the ETA. It was the Minister’s position that there had been a change in use of the Unit in the second quarter of 2005 when its use was primarily commercial in nature and Mr. Chew was entitled to claim an ITC for the Unit as of April 1, 2005. The Minister calculated the use of the Unit in 2005 as follows:
+Details on commercial usage of the Strata Unity in 2005
+Reporting period
+A
+B
+C
+D
+Total days used
+B + C
+Days used by the Appellant
+Days used in short-term rentals
+% of use in commercial activities
+D/A
+31-03-2005
+10
+7
+3
+30%
+30-06-2005
+19
+2
+17
+89%
+30-09-2005
+42
+7
+35
+83%
+31-12-2005
+22
+5
+17
+77%
+2005 year
+93
+21
+72
+77%
+[8] The Minister made the following assumptions of fact in determining Mr. Chew’s liability:
+(a) Mr. Chew was a GST registrant, having an effective GST registration date of January 1, 1991;
+(b) He was required to file his GST returns on a quarterly basis;
+(c) At all material times, Mr. Chew filed GST returns on a quarterly basis;
+(d) With the exception of the Period at issue, Mr. Chew filed nil returns for the reporting periods in 2005, 2006, 2007, 2008 and 2009, reporting no GST collectible and claiming no ITCs;
+(e) Mr. Chew’s fiscal year end for GST purposes was December 31st of each year;
+(f) Mr. Chew purchased the Strata Unit on June 30, 2004;
+(g) The purchase price for Mr. Chew’s interest in the Strata Unit was $149,800.00, plus Goods and Services Tax (“GST”) of $10,486.00;
+(h) The Strata Unit was a vacation property of Mr. Chew;
+(i) Mr. Chew put his Strata Unit into a rental pool managed by a property manager, so as to supply short-term, taxable rentals using the Strata Unit;
+(j) Mr. Chew received quarterly statements of revenue and retail activities from the property manager;
+Original Purchase of Strata Unit
+(k) In 2004, Mr. Chew’s use of the Strata Unit was primarily personal in nature;
+(l) Mr. Chew was not entitled to claim an ITC with respect to the purchase of the Strata Unit in 2004;
+First Significant Change of Use of Strata Unit
+(m) In the second calendar quarter of 2005, Mr. Chew’s personal use of the Strata Unit fell below 50%, as set out in the attached Schedule “B” (First Significant Change in Use”);
+(n) As of the second quarter of 2005, Mr. Chew’s use of the Strata Unit became primarily commercial in nature;
+(o) As of April 1, 2005, Mr. Chew was entitled to claim an ITC with respect to the commercial use of the Strata Unit;
+(p) Mr. Chew did not claim an ITC in respect the First Significant Change in Use of the Strata Unit in any reporting periods before July 1, 2009;
+Second Significant Change in Use
+(q) In 2005, the Strata Unit’s commercial usage was 77%, as set out in Schedule “B”;
+(r) During the first calendar quarter of 2006, the Strata Unit’s commercial usage increased from 77% to 100% (“Second Significant Change in Use”) as set out in Schedule “C”;
+(s) For the reporting period ending March 31, 2006, Mr. Chew was entitled to claim and ITC in respect of his Strata Unit to the extent of the change of use of 23% in relation to the Strata Unit’s basic tax content;
+(t) The Strata Unit’s basic tax content was no more than $10,486.00;
+(u) An ITC of $2,411.78 was available to be claimed by Mr. Chew up to the reporting period from January 1, 2010 to March 31, 2010;
+(v) The Strata Unit’s percentage of commercial use for the calendar years of 2006, 2007 and 2008 was 95%, 93% and 93% respectively, as set out in Schedule “C”; and
+(w) Other than the 23% change in commercial usages during the first calendar quarter of 2006, the changes in commercial usage of the Strata Unit in the 2006, 2007 and 2008 calendar years were less than 10%.
+[9] It was the Appellant’s position that the change of use should have been determined on a fiscal year basis. Ms. Hoggard, agent for the Appellant, relied on subsections 141.01(5), 208(2) and paragraph 225(4)(b) of the ETA. Those provisions of the ETA read as follows:
+141.01(5)
+(5) Subject to section 141.02, the methods used by a person in a fiscal year to determine
+(a) the extent to which properties or services are acquired, imported or brought into a participating province by the person for the purpose of making taxable supplies for consideration or for other purposes, and
+(b) the extent to which the consumption or use of properties or services is for the purpose of making taxable supplies for consideration or for other purposes,
+shall be fair and reasonable and shall be used consistently by the person throughout the year
+…
+208(2)
+(2) For the purposes of this Part, where an individual who is a registrant last acquired real property for use as capital property of the individual and
+(a) primarily for the personal use and enjoyment of the individual or a related individual, or
+(b) not for use in commercial activities of the individual,
+and the individual begins, at a particular time, to use the property as capital property in commercial activities of the individual and not primarily for the personal use and enjoyment of the individual or a related individual, the individual is deemed
+(c) to have received, at the particular time, a supply by way of sale of the property; and
+(d) except where the supply is an exempt supply, to have paid, at the particular time, tax in respect of the supply equal to the basic tax content of the property at the particular time.
+…
+225(4)(b)
+(4) An input tax credit of a person for a particular reporting period of the person shall not be claimed by the person unless it is claimed in a return under this Division filed by the person on or before the day that is
+(b) where the person is not a specified person during the particular reporting period, the day on or before which the return under this Division is required to be filed for the last reporting period of the person that ends within four years after the end of the particular reporting period;
+[10] It was the Appellant’s position that to find the extent of use, subsection 141.01(5) refers to “fiscal year” and that a method should be used consistently “throughout the year”. She then quoted subsection 208(2) of the ETA and stated that the particular time the Unit was determined to have changed from primarily personal use to 88% commercial use was December 31, 2005. This was the date when a complete analysis of the year’s usage could be made. Therefore, this was the date it was determined there was a change of use. The ITC for the Unit was claimed in the reporting period October 1-December 31, 2009 which is within four years of the reporting period when the change of use was determined.
+Analysis
+[11] It is my view that subsection 141.01(5) does not aid the Appellant in determining when the change of use occurred with the Unit. Rather subsection 141.01(5) allows a taxpayer to adopt a general allocation method to determine the amount of ITCs that can be claimed when that taxpayer has both taxable and exempt supplies: CIBC World Markets Inc. v. R., 2011 FCA 270. The method used for determining the percentage of commercial activities must be fair and reasonable and be used consistently by the taxpayer throughout the year.
+[12] In this appeal, the Minister calculated that the Unit was used 89% for commercial activities in the second quarter of 2005 and that the overall commercial usage for the Unit in 2005 was 77%. The agent for the Appellant calculated that the Unit was used 88% for commercial activities in 2005.
+[13] In the circumstances of this appeal, the Minister’s allocation method to determine commercial versus personal usage is more beneficial to the Appellant and it is accepted.
+[14] A determination of whether and when a change of use has occurred is a question of fact: Roos v. Canada, [1993] TCJ No. 867. According to subsection 208(2) of the ETA, a change in use occurs “at a particular time” and not over a period of time. In this appeal the particular time when the first change of use occurred was the second quarter of 2005. At this time, Mr. Chew’s usage of the Unit changed from personal to predominantly commercial. His entitlement to an ITC arose at the same time that the change of use occurred: See paragraphs 208(2)(c) and (d) of the ETA. As a result, he was entitled to claim an ITC as of April 1, 2005.
+[15] According to paragraph 225(4)(b) of the ETA, ITCs must be claimed by a registrant in a return filed by the registrant on or before the due date of the return for the last reporting period that ends within four years after the end of the reporting period in which the ITC could have first been claimed. Mr. Chew filed his GST returns on a quarterly basis. Therefore he was required to claim an ITC with respect to the first significant change in use of the Unit before July 1, 2009. This he failed to do.
+[16] The appeal is dismissed.
+Signed at Ottawa, Canada, this 3rd day of April 2013.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2013TCC89
+COURT FILE NO.: 2011-3655(GST)I
+STYLE OF CAUSE: ESTATE OF JOHN W. CHEW AND
+THE QUEEN
+PLACE OF HEARING: Victoria, British Columbia
+DATE OF HEARING: March 1, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: March 4, 2013
+DATE OF ORAL REASONS: March 1, 2013
+DATE OF REASONS FOR
+JUDGMENT: April 3, 2013
+APPEARANCES:
+Agent for the Appellant:
+T. Charlotte Hoggard
+Counsel for the Respondent:
+Zachary Froese
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,154 @@
+---
+title: "Sauvageau c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28599/index.do"
+last_modified: "2008-04-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 166"
+citation2: ""
+neutral_citation: "2008 CCI 166"
+decision_date: "2008-04-14"
+language: "fr"
+item_id: "28599"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1066
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:54:20.754000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d08d8bc1757a73620f5a78e1db8229bd42235692f511e4f118b3cc12e254af49"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sauvageau c. La Reine
+
+- Citation: 2008 CCI 166
+- Decision date: 2008-04-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1066, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sauvageau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-14
+Référence neutre
+2008 CCI 166
+Numéro de dossier
+2007-4610(IT)APP
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4610(IT)APP
+ENTRE :
+CLAUDE H. SAUVAGEAU,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande de prorogation de délai entendue le 6 février 2008,
+à Sherbrooke (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour le requérant :
+le requérant lui-même
+Avocate de l'intimée :
+Me Chantal Roberge
+____________________________________________________________________
+JUGEMENT
+La demande de prorogation pour interjeter appel établie en vertu de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 1997 à 2006 est rejetée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour d’avril 2008.
+« Paul Bédard »
+Juge Bédard
+Référence : 2008CCI166
+Date : 20080414
+Dossier : 2007-4610(IT)APP
+ENTRE :
+CLAUDE H. SAUVAGEAU,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s’agit d’une demande de prorogation du délai pour interjeter appel en vertu de l’article 167 de la Loi de l’impôt sur le revenu (la « Loi ») à l’égard des années d’imposition 1997 à 2006.
+Année d’imposition 2006
+[2] Monsieur Claude H. Sauvageau (l’« appelant ») a signifié au ministre du Revenu national (le « ministre ») un avis d’opposition à l’encontre d’une cotisation établie le 10 mai 2007. Le 30 novembre 2007, le ministre a ratifié la cotisation établie le 10 mai 2007.
+[3] À mon avis, la demande de prorogation était tout simplement sans objet lors de l’audition puisque l’appelant était alors dans le délai imparti par la Loi pour interjeter appel de la cotisation établie le 10 mai 2007.
+Années d’imposition 2004 et 2005
+[4] Le 28 décembre 2005, le ministre a expédié à l’appelant un avis de nouvelle cotisation pour l’année d’imposition 2004. Le 5 juin 2006, le ministre a expédié à l’appelant un avis de cotisation pour l’année d’imposition 2005. Le ou vers le 30 mars 2006, pour l’année d’imposition 2004, et le 15 juillet 2006, pour l’année d’imposition 2005, l’appelant a signifié au ministre un avis d’opposition à l’égard de la nouvelle cotisation du 28 décembre 2005 et de la cotisation du 5 juin 2006. Par courrier recommandé expédié par la poste en date du 9 août 2006, le ministre a avisé l’appelant qu’il ratifiait la nouvelle cotisation datée du 28 décembre 2005 pour l’année d’imposition 2004 et la cotisation datée du 7 juin 2006 pour l’année d’imposition 2005.
+[5] Le 18 septembre 2006, l’appelant a fait parvenir à la Cour une lettre dont la partie pertinente se lit comme suit :
+À qui de droit,
+Appel à la Cour canadienne de l’impôt concernant l’interprétation d’une demande de règlement à l’amiable et un traitement approprié, juste et raisonnable des déclarations des revenus et de prestations pour les années d’imposition de 1997 à 2005…
+[6] Le 28 octobre 2006, monsieur Donald Ringuette, un agent du greffe de la Cour, a fait parvenir à l’appelant une lettre dont la partie pertinente se lit comme suit :
+« Nous accusons réception de votre lettre concernant l’avis d’appel et pour faire suite à mon appel téléphonique du 16 octobre dernier. Après examen de l’information que vous avez fournie, nous avons constaté qu’il manquait certains renseignements essentiels.
+Selon les Règles de pratique et de procédure de la Cour canadienne de l’impôt (IR, TPS, AE, etc.), certains renseignements de base doivent être fournis avant que l’on puisse déposer votre avis d’appel et que l’affaire puisse être entendue. Nous vous demandons donc de nous fournir les renseignements suivants :
+- le choix de procédure (informelle ou générale)
+- le droit de dépôt (frais judiciaire applicable)
+- les faits et motifs de l’appel
+Veuillez nous faire parvenir ces renseignements dans les 30 jours suivant la date de la présente lettre. Sinon, nous ne pourrons ouvrir un dossier et votre appel ne pourra être entendu.
+Vous trouverez ci-joint, à titre de renseignement, un dépliant concernant les appels portant sur l’impôt sur le revenu que vous pourrez adapter selon les circonstances et nous le retourner dans les plus brefs délais.
+[…]
+[7] Le 11 octobre 2007 (soit environ 11 mois après la réception de la lettre du 28 octobre 2006), l’appelant a fait parvenir à la Cour un avis d’appel notamment à l’égard des années d’imposition 2004 et 2005 (l’avis d’appel du 11 octobre 2007).
+[8] Dans une lettre datée du 12 octobre 2007, le greffe de la Cour avisait l’appelant qu’il était hors du délai imparti pour interjeter appel. Je rappelle que le délai pour interjeter appel en l’espèce expirait le 7 novembre 2006. Dans cette même lettre, on avisait l’appelant qu’il était toutefois dans le délai imparti par la Loi pour présenter à la Cour une demande de prorogation du délai pour interjeter appel. Je rappelle que le délai imparti pour présenter une telle demande expirait en l’espèce le 7 novembre 2007.
+[9] Le 6 novembre 2007, l’appelant expédie par courrier recommandé la demande de prorogation du délai pour interjeter appel.
+[10] Le débat portait en l’espèce sur les deux points suivants :
+a) Est-ce que l’appelant a présenté la demande de prorogation dès que possible ou encore dès que les circonstances le permettaient?
+b) Est-ce que l’appel est raisonnablement fondé?
+[11] À l’égard de la première question, l’appelant a témoigné que, pendant la période allant du 1er octobre 2006 au 30 septembre 2007, il avait souffert de maux de dos qui l’avaient empêché de présenter une telle demande de prorogation. L’appelant soutient qu’il a présenté en l’espèce sa demande de prorogation dès que possible, c’est-à-dire dès que son état de santé lui a permis de le faire.
+[12] La preuve de l’appelant à l’égard de son état de santé reposait sur son témoignage qui ne fut pas appuyé par une preuve documentaire sérieuse ou par un témoignage indépendant et crédible. L’appelant ne pouvait en l’espèce espérer me convaincre de son empêchement d’agir en faisant des assertions qui étaient non seulement vagues et imprécises, mais qui furent aussi contredites par des documents qu’il a lui-même produits. En l’espèce, le témoignage de l’appelant était pour le moins vague et imprécis quant à la nature de ses maux de dos et tout à fait silencieux quant à la nature des traitements et des soins qu’il aurait reçus et des médicaments qui lui auraient été prescrits. En l’espèce, le témoignage de l’appelant à l’égard de sa prétendue incapacité totale de s’occuper de ses affaires fiscales et même de donner un mandat à un tiers de s’en occuper est contredit par son avis d’appel du 11 octobre 2007 dans lequel je note que l’appelant avait communiqué avec le greffe de la Cour à au moins trois reprises en novembre 2006, soit pendant la prétendue période d’incapacité.
+[13] Enfin, je souligne que la prétendue incapacité de l’appelant aurait, selon son propre témoignage, cessé à la fin de septembre 2007. Par conséquent, plus rien n’empêchait l’appelant de présenter une telle demande de prorogation à partir de ce moment. Pourtant, l’appelant a présenté sa demande de prorogation plus de cinq semaines après la fin de sa prétendue incapacité ce qui constitue, à mon avis, un retard beaucoup trop long dans les circonstances.
+[14] Bien qu’il ne soit pas nécessaire de répondre à la deuxième question compte tenu de ma conclusion à l’effet que l’appelant n’a pas présenté sa demande de prorogation dès que possible, je suis d’avis que la demande pourrait aussi être rejetée au motif que l’appelant n’a pas démontré que son appel était raisonnablement fondé. En effet, le témoignage de l’appelant à l’égard de ses motifs d’appel était à peine compréhensible. Il m’a semblé que les questions soulevées et les remèdes recherchés pour les années d’imposition 2004 et 2005 avaient déjà été analysés par la Cour dans une décision[1] rendue par le juge Archambault à l’encontre de l’appelant. Dans l’affaire entendue par le juge Archambault, l’appelant cherchait notamment à déduire de son revenu d’emploi un manque à recevoir, c’est-à-dire une somme qu’il aurait reçue si ses fonctions avaient été celles d’un inspecteur et qu’il avait visité les différents chantiers de construction relevant de la compétence de la Commission de la construction du Québec. Il m’a semblé que l’appelant recherchait indirectement à déduire de ses revenus le même manque à recevoir qui aurait, selon lui, créé des pertes reportables.
+Années d’imposition 2000, 2001, 2002 et 2003
+[15] À l’égard des années d’imposition 2000 à 2003, la demande de prorogation du délai pour interjeter appel doit être rejetée tout simplement parce que le droit d’appel des cotisations établies à l’égard de ces années d’imposition n’a jamais pris naissance, l’appelant n’ayant jamais signifié d’avis d’opposition à l’égard des cotisations établies pour ces années d’imposition. En effet, le paragraphe 169(1) de la Loi oblige le contribuable à signifier un avis d’opposition s’il veut interjeter appel d’une cotisation. En d’autres mots, la signification d’un avis est une condition préalable à l’introduction d’un appel.
+Années d’imposition 1998 et 1999
+[16] À l’égard des années d’imposition 1998 et 1999, la demande de prorogation du délai pour interjeter appel doit être rejetée tout simplement parce que les cotisations établies à l’égard des années d’imposition ont déjà fait l’objet d’un appel à la Cour, appel qui fut rejeté par cette dernière le 14 janvier 2004[2]. Il y a donc chose jugée.
+Année d’imposition 1997
+[17] À l’égard de l’année d’imposition 1997, la demande de prorogation du délai pour interjeter appel doit être rejetée tout simplement parce que la cotisation établie à l’égard de cette année a déjà fait l’objet d’un appel à la Cour, appel qui fut rejeté par cette dernière le 23 janvier 2001[3]. Je souligne que le jugement du 23 janvier 2001 fut confirmé le 15 avril 2002 par la Cour d’appel fédérale[4]. Il y a donc chose jugée.
+[18] Pour tous ces motifs, la demande de prorogation pour interjeter appel à l’égard des années d’imposition 1997 à 2006 est rejetée.
+Signé à Ottawa, Canada, ce 14e jour d’avril 2008.
+Juge Bédard
+RÉFÉRENCE : 2008CCI166
+Nº DU DOSSIER DE LA COUR : 2007-4610(IT)APP
+INTITULÉ DE LA CAUSE : CLAUDE H. SAUVAGEAU ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L’AUDIENCE : le 6 février 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 14 avril 2008
+COMPARUTIONS :
+Pour le requérant :
+le requérant lui-même
+Avocat de l'intimée :
+Me Chantal Roberge
+AVOCAT INSCRIT AU DOSSIER :
+Pour le requérant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Claude H. Sauvageau c. R., dossier 1999-3505(IT)I
+[2] Claude H. Sauvageau c. R., dossier 2001-260(IT)I
+[3] Claude H. Sauvageau c. R., dossier 1999-3505(IT)I
+[4] Claude H. Sauvageau c. M.R.N. et al., 2002 CAF 136, dossier A-526-00

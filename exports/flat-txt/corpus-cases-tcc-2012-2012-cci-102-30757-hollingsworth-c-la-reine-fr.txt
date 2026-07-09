@@ -1,0 +1,128 @@
+Title: Hollingsworth c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30757/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-102-30757-hollingsworth-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-03-29
+
+# Hollingsworth c. La Reine
+
+- Citation: 2012 CCI 102
+- Decision date: 2012-03-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7495, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hollingsworth c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-03-29
+Référence neutre
+2012 CCI 102
+Numéro de dossier
+2011-2206(GST)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-2206(GST)I
+ENTRE :
+DAVID S. HOLLINGSWORTH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 21 mars 2012 à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge J.M. Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Amandeep K. Sandhu
+____________________________________________________________________
+JUGEMENT
+La Cour ordonne que :
+a) l’appel des cotisations établies en vertu de la Loi sur la taxe d’accise pour la période du 1er janvier au 31 décembre 2007 soit rejeté;
+b) l’appel des cotisations établies en vertu de la Loi sur la taxe d’accise pour la période du 1er janvier au 30 septembre 2008 soit accueilli, et que les cotisations soient déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que : (1) les pénalités imposées pour production tardive des déclarations doivent être supprimées, et que (2) les intérêts sur l’arriéré doivent être rajustés de manière qu’un paiement effectué le 9 janvier 2009 soit imputé aux montants établis à compter des premières périodes de déclaration de 2008;
+c) chaque partie assume ses propres frais.
+Signé à Ottawa (Ontario), ce 29e jour de mars 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 11e jour de mai 2012.
+Marie‑Christine Gervais
+Référence : 2012 CCI 102
+Date : 20120329
+Dossier : 2011-2206(GST)I
+ENTRE :
+DAVID S. HOLLINGSWORTH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] David Hollingsworth exploite une entreprise à titre de propriétaire unique depuis 1999. Le présent appel porte sur des cotisations établies en vertu de la Loi sur la taxe d’accise à l’égard de la taxe nette, d’intérêts et de pénalités pour production tardive. Les périodes de déclaration trimestrielles du 1er janvier 2007 au 30 septembre 2008 sont en cause.
+Contexte
+[2] L’appelant a produit des déclarations de taxe sur les produits et services (la « TPS ») pour les périodes en cause le 16 août 2010. Il a déclaré une taxe nette totale de 5 861,29 $.
+[3] Les avis de cotisation pour ces périodes ont été envoyés le 13 septembre 2010. Dans les cotisations, la taxe nette a été acceptée telle qu’elle a été produite, des intérêts sur l’arriéré s’élevant au total à 944,20 $ ont été établis, et des pénalités de 234,38 $ au total pour omission de produire les déclarations dans les délais ont été imposées.
+[4] Le contexte est le suivant : lorsque l’appelant a lancé son entreprise en 1999, il a produit des déclarations de TPS trimestrielles pour deux ou trois périodes de déclaration, mais il a ensuite produit très peu de déclarations pendant 10 ans environ. Il soutient avoir payé la taxe nette au moyen de ses déclarations de revenus et avoir cru que cela était suffisant.
+[5] Personne ne conteste la date à laquelle les déclarations en cause ont été produites. Les déclarations de 2007 ont clairement été produites tardivement.
+[6] Les déclarations trimestrielles pour 2008 ont elles aussi été produites tardivement, mais ce n’est pas tout. L’appelant a tenté de produire une déclaration annuelle pour cette année‑là le 2 janvier 2009, soit dans le délai prescrit pour les déclarations annuelles. L’Agence de revenu du Canada (l’« ARC ») a rejeté la déclaration parce que ses dossiers indiquaient qu’en 2000, l’appelant avait demandé l’autorisation de produire des déclarations de TPS trimestrielles.
+[7] Le 16 août 2010, soit après que l’ARC lui eut demandé en 2009 de produire des déclarations, l’appelant a produit des déclarations trimestrielles qui paraissent se rapporter à la plupart des périodes de déclaration depuis 2001. Les déclarations incluaient toutes les périodes trimestrielles qui sont en cause dans le présent appel.
+[8] En ce qui concerne les paiements de la taxe nette, il semble qu’aucun paiement n’ait été joint aux déclarations produites en août 2010, mais que l’appelant ait effectué certains paiements au titre de la TPS au cours des années antérieures.
+[9] D’après les dossiers de l’ARC, l’appelant a effectué un paiement de 2 467,02 $ au titre de la TPS le 29 janvier 2008 et un autre, de 3 066,50 $, le 9 janvier 2009.
+[10] D’après l’agent des litiges qui a témoigné pour le compte de l’intimée, l’ARC a pour pratique de n’imputer les montants qui sont payés au titre de la TPS que lorsque les déclarations sont produites.
+[11] L’ARC a imputé le paiement effectué le 29 janvier 2008 aux montants dus pour les périodes de déclaration de 2001 et 2002.
+[12] L’ARC a imputé le paiement effectué le 9 janvier 2009 à la période de déclaration trimestrielle se terminant le 31 décembre 2008. Lorsque les déclarations trimestrielles ont été produites le 16 août 2010, ce paiement a été imputé à nouveau compte tenu des montants établis le 13 septembre 2009. En conséquence, le 16 août 2010, un montant de 555,42 $ a été imputé au montant établi pour la période de déclaration se terminant le 31 décembre 2008 (il n’a donc pas été imputé à nouveau), et le solde de 2 508,08 $ a été imputé à nouveau aux périodes de déclaration en 2007.
+Analyse
+[13] L’appelant reconnaît qu’il a produit tardivement les déclarations trimestrielles de TPS, mais il soutient qu’il en a fait suffisamment pour se conformer à ses obligations en matière de TPS et qu’il ne devrait pas être pénalisé davantage. Il fait valoir également que les paiements ont été à tort tenus en suspens et qu’ils auraient dû être imputés aux montants dus.
+[14] De manière générale, le témoignage de l’appelant a été beaucoup trop bref et trop vague pour justifier un rajustement à lui seul. Cependant, une partie de ce témoignage est étayée par les documents déposés par l’intimée. Le principal document à l’appui est l’état de l’arriéré (pièce R‑2). La preuve dans son ensemble justifie un certain rajustement des cotisations.
+[15] Premièrement, la tentative de production d’une déclaration annuelle de 2008 justifie l’élimination des pénalités pour production tardive pour la période de déclaration du 1er janvier au 30 septembre 2008.
+[16] Dans les circonstances de la présente affaire, il ne convient pas d’imposer une pénalité pour production tardive pour les périodes de déclaration de 2008. L’appelant a tenté de se conformer à l’obligation de déclaration, mais la déclaration a été rejetée. À mon avis, il a été suffisamment diligent relativement à cette période pour qu’aucune pénalité ne soit imposée. L’on peut comprendre que l’appelant ne se soit pas rappelé qu’il avait demandé l’autorisation de produire des déclarations trimestrielles près de dix ans auparavant.
+[17] L’avocate de l’intimée soutient que l’appelant n’a pas fait preuve de diligence relativement à cette déclaration, car il ne l’a produite qu’après que l’ARC lui en eut fait la demande.
+[18] La preuve dans son ensemble n’appuie pas cette prétention. L’appelant a témoigné que l’ARC avait communiqué avec lui à un moment donné en 2009 et que c’est ce qui l’avait amené à produire des déclarations remontant à dix années auparavant. Il a tenté de produire une déclaration annuelle le 2 janvier 2009. L’on ne peut pas de manière réaliste penser qu’une déclaration produite à cette date serait une réponse à une demande de l’ARC faite à un moment donné en 2009. Je suis d’avis que la déclaration du 2 janvier 2009 a été produite avant que l’ARC ne communique avec l’appelant. Quoi qu’il en soit, la déclaration a été produite dans les délais si la période de déclaration était annuelle. La question de savoir si la déclaration a été produite en réponse à une demande de l’ARC est sans importance.
+[19] Le deuxième rajustement qui doit être effectué se rapporte aux intérêts pour les périodes de déclaration de 2008 qui sont en cause. Ainsi qu’il a été mentionné précédemment, l’appelant a effectué un paiement de 3 066,50 $ en faveur de l’ARC le 9 janvier 2009. Ce paiement a été dans un premier temps imputé à la période trimestrielle se terminant le 31 décembre 2008 et, par la suite, une portion de ce paiement a été imputée à nouveau aux périodes se terminant en 2007.
+[20] À mon avis, ce paiement aurait dû être imputé à tous les trimestres de 2008 parce qu’il est suffisamment clair que c’est ce que l’appelant souhaitait. Le paiement et la déclaration annuelle ont probablement été effectués ensemble ou au même moment à peu près.
+[21] D’après le témoignage de l’agent des litiges, l’ARC impute les paiements aux périodes souhaitées par les contribuables. Dans la présente affaire, l’ARC aurait dû imputer le total du montant aux quatre trimestres en 2008 à la place du quatrième trimestre seulement.
+[22] Les intérêts sur l’arriéré pour les cotisations se rapportant à la période du 1er janvier au 30 septembre 2008 doivent être rajustés de manière à tenir compte du paiement effectué le 9 janvier 2009. Pour simplifier, les intérêts établis doivent être rajustés compte tenu du fait que le total du montant versé le 9 janvier 2009, soit 3 066,50 $, doit être imputé à la taxe nette telle qu’elle a finalement été établie, en commençant par les premières périodes trimestrielles de 2008.
+[23] Ce sont les seuls rajustements qui, à mon avis, doivent être apportés aux cotisations.
+[24] La preuve ne permet pas de justifier un rajustement de la taxe nette. Elle a été acceptée par le ministre telle qu’elle a été déclarée.
+[25] En ce qui concerne la pénalité pour production tardive relativement à l’année 2007, l’appelant soutient qu’il a cru qu’il était suffisant de payer la TPS au moyen de ses déclarations de revenus. Il affirme que l’ARC aurait dû lui demander de produire les déclarations de TPS.
+[26] Je ne souscris pas à cette prétention. Les contribuables sont tenus de prendre les mesures nécessaires pour se conformer à leurs obligations en matière de TPS sous le régime de la Loi sur la taxe d’accise, dont l’obligation de produire des déclarations. Je ne suis pas convaincue que l’appelant a exercé le soin approprié relativement aux déclarations de TPS de 2007.
+[27] En ce qui a trait aux intérêts pour 2007, un paiement a été effectué le 29 janvier 2008. L’on ne peut pas raisonnablement s’attendre à ce que ce paiement soit imputé à l’année 2007, car les déclarations pour 2007 n’ont été produites que beaucoup plus tard. La preuve selon laquelle l’appelant souhaitait que ce paiement soit imputé aux montants dus pour 2007 est insuffisante.
+[28] En conséquence, l’appel des cotisations établies pour la période du 1er janvier au 31 décembre 2007 sera rejeté. L’appel des cotisations établies pour la période du 1er janvier au 30 septembre 2008 sera accueilli compte tenu du fait que les pénalités pour production tardive doivent être supprimées et que les intérêts doivent être rajustés de manière que le paiement effectué le 9 janvier 2009 soit imputé à des montants établis à compter des premières périodes de déclaration de 2008.
+[29] Chaque partie assume ses propres frais.
+Signé à Ottawa (Ontario), ce 29e jour de mars 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 11e jour de mai 2012.
+Marie‑Christine Gervais
+RÉFÉRENCE : 2012 CCI 102
+No DU DOSSIER DE LA COUR : 2011-2206(GST)I
+INTITULÉ : DAVID S. HOLLINGSWORTH c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 21 mars 2012
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 29 mars 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Amandeep K. Sandhu
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)

@@ -1,0 +1,173 @@
+---
+title: "Gutierrez v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30864/index.do"
+last_modified: "2012-06-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 234"
+citation2: ""
+neutral_citation: "2012 TCC 234"
+decision_date: "2012-06-28"
+language: "en"
+item_id: "30864"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7361
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:19:08.635000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5c6687a49f8b8d87ffdd7e6afc21184bdde4b0c9ed11cb9076268b1cd8d6ee41"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gutierrez v. M.N.R.
+
+- Citation: 2012 TCC 234
+- Decision date: 2012-06-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7361, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gutierrez v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-06-28
+Neutral citation
+2012 TCC 234
+File numbers
+2011-3441(CPP), 2011-3443(EI), 2011-3444(CPP), 2011-3446(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Canada Pension Plan
+Decision Content
+Dockets: 2011-3441(CPP)
+2011-3443(EI)
+BETWEEN:
+JOSE FABIANO GUTIERREZ and AMPARO SANDOVAL MUNOZ,
+o/a EMANUEL TRANSPORT,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Badarch Arunbold and
+Jose Gutierrez, o/a Josam Transport (2011-3444(CPP) and 2011-3446(EI))
+on June 20, 2012 at Vancouver, British Columbia
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellants:
+Amparo Sandoval
+Counsel for the Respondent:
+Nabeel Peermohamed
+Aman Sandhu
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Employment Insurance Act and the Canada Pension Plan is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that penalties should be deleted. The parties shall bear their own costs.
+Signed at Toronto, Ontario this 28th day of June 2012.
+“J. Woods”
+Woods J.
+Dockets: 2011-3444(CPP)
+2011-3446(EI)
+BETWEEN:
+BADARCH ARUNBOLD and JOSE GUTIERREZ,
+o/a JOSAM TRANSPORT,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Jose Fabiano Gutierrez and Amparo Sandoval Munoz, o/a Emanuel Transport (2011-3441(CPP) and
+2011-3443(EI)) on June 20, 2012 at Vancouver, British Columbia
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellants:
+Amparo Sandoval
+Counsel for the Respondent:
+Nabeel Peermohamed
+Aman Sandhu
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Employment Insurance Act and the Canada Pension Plan is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that penalties should be deleted. The parties shall bear their own costs.
+Signed at Toronto, Ontario this 28th day of June 2012.
+“J. Woods”
+Woods J.
+Citation: 2012 TCC 234
+Date: 20120628
+Dockets: 2011-3441(CPP)
+2011-3443(EI)
+BETWEEN:
+JOSE FABIANO GUTIERREZ and AMPARO SANDOVAL MUNOZ,
+o/a EMANUEL TRANSPORT,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent;
+Dockets: 2011-3444(CPP)
+2011-3446(EI)
+AND BETWEEN:
+BADARCH ARUNBOLD and JOSE GUTIERREZ,
+o/a JOSAM TRANSPORT,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellants operate a delivery service for Sears department store under the names Emanuel Transport and Josam Transport. They have been assessed for the failure to pay premiums under the Employment Insurance Act and the Canada Pension Plan in relation to individuals who were engaged to drive delivery trucks. The Minister of National Revenue has taken the position that the drivers were engaged as employees, and not as subcontractors as the appellants had treated them. The assessments included penalties and interest.
+[2] The periods at issue are 2008, 2009 and 2010 for Emanuel Transport and 2008 and 2009 for Josam Transport.
+[3] Ms. Amparo Sandoval represented the appellants at the hearing. She was a partner in Emanuel Transport with her husband, Jose Gutierrez. Josam Transport was operated by Mr. Gutierrez and another partner.
+[4] It was clear at the commencement of the hearing that the respondent did not understand the position of the appellants. The appellants acknowledge that the drivers are employees and do not wish to dispute this. Ms. Sandoval was quite distressed to see several drivers at the Court as witnesses for the respondent. It is unfortunate that the parties had not cleared up this misunderstanding prior to the hearing.
+[5] The appellants’ main concern is that the Canada Revenue Agency (CRA) did not notify them earlier of the problem and the appellants are now faced with very onerous assessments that total almost $15,000.
+[6] The appellants submit that they tried to follow the applicable laws when the businesses were commenced. They believe that they were misled by the CRA who had earlier conducted an audit and had not raised this concern. The same official from the CRA apparently audited the appellants again in 2011 and then issued the assessments.
+[7] Unfortunately for the appellants, this Court cannot give relief on grounds of fairness or equity, even if the appellants have been misled by actions of the CRA. There is no relief that the Court can give in these circumstances, except with respect to the imposition of penalties which are small relative to the entire amount assessed.
+[8] With some encouragement from the Court, counsel for the respondent examined Ms. Sandoval concerning whether a due diligence defence is available with respect to the penalties. Following the examination, the respondent conceded that the penalties should be deleted.
+[9] I am sympathetic to the plight of the appellants. Mrs. Sandoval and Mr. Gutierrez started business when they were new to this country, and they were unfamiliar with the business culture in Canada. Mr. Gutierrez had formerly been engaged as a subcontractor in driving a Sears’ truck and from what he had observed all Sears’ drivers were treated as subcontractors. The appellants naturally assumed that this was proper.
+[10] Although the circumstances are sympathetic, there is nothing that this Court can do other than to delete the penalties.
+[11] Ms. Sandoval indicated that the assessments, which are approximately $15,000, are very onerous for the family to bear. She may wish to pursue relief for this with the CRA.
+[12] In the result, the appeals will be allowed but only to delete the penalties.
+Signed at Toronto, Ontario this 28th day of June 2012.
+“J. Woods”
+Woods J.
+CITATION: 2012 TCC 234
+COURT FILE NOS.: 2011-3441(CPP)
+2011-3443(EI)
+2011-3444(CPP)
+2011-3446(EI)
+STYLE OF CAUSE: JOSE FABIANO GUTIERREZ and AMPARO SANDOVAL MUNOZ,
+o/a EMANUEL TRANSPORT and BADARCH ARUNBOLD and JOSE GUTIERREZ, o/a JOSAM TRANSPORT v. THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: June 20, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENTS: June 28, 2012
+APPEARANCES:
+Agent for the Appellants:
+Amparo Sandoval
+Counsel for the Respondent:
+Nabeel Peermohamed
+Aman Sandhu
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

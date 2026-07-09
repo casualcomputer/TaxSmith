@@ -1,0 +1,194 @@
+---
+title: "Gauthier v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28196/index.do"
+last_modified: "2006-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 537"
+citation2: ""
+neutral_citation: "2006 TCC 537"
+decision_date: "2006-10-24"
+language: "en"
+item_id: "28196"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1977
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:38:22.904000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ff14c3867dcd676e28484b07c8c57af39ca50f1cffbaed3d85ee6f7da53df483"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gauthier v. M.N.R.
+
+- Citation: 2006 TCC 537
+- Decision date: 2006-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1977, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gauthier v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-24
+Neutral citation
+2006 TCC 537
+File numbers
+2006-326(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-326(EI)
+BETWEEN:
+JOSÉE GAUTHIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 22, 2006, at Québec, Quebec
+Before: The Honourable Deputy Judge S.J. Savoie
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Stéphanie Côté
+________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 24th day of October 2006.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 18th day of July 2007.
+Brian McCordick, Translator
+Citation: 2006TCC537
+Date: 20061024
+Docket: 2006-326(EI)
+BETWEEN:
+JOSÉE GAUTHIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie D.J.
+[1] This appeal was heard at Québec, Quebec, on August 22, 2006.
+[2] It is an appeal from the decision of the Minister of National Revenue ("the Minister") dated October 25, 2005. The period in issue is from September 20 to November 27, 2004. The debate centres on the work done by the Appellant for the payor Lucien Paquet.
+[3] The Minister determined that the Appellant was not employed in insurable employment under a contract of service, but that even if she had been, her employment would be excluded from insurable employment under paragraph 5(2)(i) of the Employment Insurance Act ("the Act") because she and the payor were not dealing with each other at arm's length.
+[4] In making his decision, the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+5.(a) The payor Lucien Paquet is the sole shareholder of the business. (admitted)
+(b) The payor runs a transportation business that specializes in the transportation of lumber. (admitted)
+(c) The payor operates his business throughout the year but there is a slowdown during the spring thaw. (admitted)
+(d) The payor's business premises are in his home, and the payor has a garage located a short walk from his home. (admitted)
+(e) During the last seven years of operation, Patrick Paquet, the payor's son, was the only regular employee of the business. (admitted)
+(f) Patrick's main task was to drive the payor's truck. (admitted)
+(g) During the 10-week period in issue, the payor hired the Appellant for the first time with pay. (admitted)
+(h) The Appellant's principal duties were to run errands for the payor. These errands consisted in going to the Caisse Populaire, paying suppliers' invoices, bringing bills to the accountant, etc. (admitted with clarifications)
+(i) The Appellant alleges that she worked 40 hours per week during the period in issue, whereas the payor states that she worked "as needed" during that period. (denied)
+(j) According to the payor, sometimes the Appellant did not work for days, and sometimes she worked only half-days. (denied)
+(k) The payor did not record the Appellant's hours of work. (admitted)
+(l) The Appellant says that her main duty was to sell potatoes over a two-month period, whereas the payor specifies that the potatoes were only sold during two weekends (Friday-Sunday) per year. (denied)
+(m) The Appellant specified that she did not work weekends. (admitted)
+(n) During the 2004 season, the payor made two trips to purchase potatoes that he sold in his garage. (admitted)
+(o) The payor prepared no invoices concerning the purchase and sale of potatoes. (admitted with clarifications)
+(p) On the Record of Employment that she submitted with her claim for benefits, the Appellant stated that she worked for the payor as an office clerk and made no mention of her work selling potatoes. (admitted)
+(q) The payor specified that the Appellant was paid $6.00-$7.00 per hour, whereas the Appellant said that she was paid $13.00 per hour. (denied)
+(r) During the period in issue, the Appellant claims that she was paid gross fixed remuneration of $520.00 per week, and alleges that this was for 40 hours of work. (admitted)
+(s) There is no proof that the Appellant was paid her remuneration; she was supposedly paid in cash by the payor. (admitted)
+(t) The Appellant needed 700 hours of work to qualify for unemployment benefits. (admitted)
+(u) The 44 hours entered on the payor's purported Record of Employment enabled the Appellant to obtain a total of 736 insurable hours. (admitted)
+(v) There was an arrangement between the parties for the sole purpose of enabling the Appellant to draw employment insurance benefits. (denied)
+6. The Appellant and the payor are related within the meaning of the Income Tax Act because
+(a) Lucien Paquet was the sole shareholder of the business. (admitted)
+(b) The Appellant is Patrick Paquet's wife. (admitted)
+(c) Patrick Paquet is Lucien Paquet's son. (admitted)
+(d) The Appellant is Lucien Paquet's daughter-in-law. (admitted)
+(e) The Appellant was related to a person who controls the payor. (admitted)
+[5] The Appellant admitted to all the Minister's assumptions of fact, except those set out in subparagraphs 5(i), (j), (l), (q) and (v), which she denied, and those set out in subparagraphs 5(h) and (o), which she wished to clarify.
+[6] At the hearing, the Appellant revealed that she had to take on her father‑in‑law's duties because of the health problems that he had been experiencing since March 2004. At the hearing, she produced a medical report regarding his health. The report, tendered as Exhibit A‑1 and dated July 5, 2005, was issued by Clinique Médicale St-Zacharie and reads:
+[TRANSLATION]
+To Whom It May Concern:
+Mr. Paquet is a 79-year-old patient suffering from Type II diabetes, coronary heart disease, ATA, major vision loss and significant hearing loss. This condition has remained unchanged since March 2004.
+[7] The Appellant said that her father-in-law was no longer in good enough physical condition to drive due to his vision and hearing loss. However, the evidence discloses that Lucien Paquet transported a load of potatoes to his garage in his truck in September 2004. Moreover, it was established that Lucien Paquet and his son Patrick took over the Appellant's duties following her layoff.
+[8] In addition to the duties that the Minister acknowledges that she had, the Appellant said that she looked after settling the tonnage of the goods transported to the United States. This task consists in converting data from the metric system to the U.S. measurement system.
+[9] At the hearing, the Appellant specified that she could provide invoices for the potato purchases, but that potato sales were always cash transactions.
+[10] At the hearing, the Minister produced a document entitled "Supplementary Record of Claim" (Exhibit I‑5) prepared by Yolaine Vachon, an investigator with Human Resources Development Canada who also testified at the hearing. The investigation revealed that the payor's business was audited in February 2004, at which time only the source deductions for January and February 2004 had been remitted. However, Pierre E. Rodrigue, the accountant for the business, told the investigator that the Appellant had made the source deductions for the months of September to December 2004. Specifically, the excerpt from the payroll journal prepared by the Appellant states that $116.16 worth of employment insurance (EI) source deductions were made in respect of September 2004, and $293.52 worth of EI source deductions were made in respect of October 2004, but, after verification with the Canada Revenue Agency, it was discovered that the amounts withheld at the source from the Appellant's pay were $116.16 for September 2004 and $145.20 for October 2004. These amounts represent only the employer's contribution to the EI system.
+[11] Having been told that the Appellant was the person who completed the payroll journal, the investigators noticed that the handwriting of the person assigned to do entries remained the same throughout the periods preceding, during and after the Appellant's employment, thereby casting doubt on the Appellant's assertions regarding the duration of her employment.
+[12] The evidence establishes, on a balance of probabilities, that the Appellant worked part-time for the payor for roughly $6 to $7 per hour. Here duties were to run errands, which consisted in going to the caisse populaire, going to suppliers' premises to pay invoices, delivering invoices to the accountant, doing mail runs and settling the tonnage of goods delivered to the United States. She had no fixed work schedule. She was paid in cash, and there was absolutely no subordination in the relationship because her work was not supervised in any way.
+[13] The Appellant and her spouse Patrick Paquet approached the payor regarding the possibility of the payor giving the Appellant work, and they are apparently the ones who set her salary at $13 per hour. The Appellant needed 700 hours to qualify for unemployment benefits. The efforts of the Appellant and her spouse were fruitful: the payor acceded to their request and asked them to notify the accountant. Faced with the allegations in the instant case, the investigators asked the Appellant, the payor and the accountant to produce the documents that would substantiate them. No documents were produced, with the exception of the Record of Employment (Exhibit A‑2), which was discredited by the remainder of the evidence. It must be noted that the 400 hours entered on the Record of Employment would provide the Appellant with a total of 736 hours.
+[14] At the hearing, Yolaine Vachon stated that the information obtained during the investigation was highly contradictory. She repeatedly asked for documents, but her efforts were unsuccessful. As part of her investigation, Ms. Vachon interviewed Pierre E. Rodrigue, the accountant, on the telephone on February 3, 2005. She asked him to produce the books of account, but he replied that it was impossible for him to do so because the accounting was only done once a year. She therefore asked him to produce the payor's cheques, at which time he made the following disturbing statement:
+[TRANSLATION]
+What I told you before (in this matter) is worthless. The only person who can help you is the Appellant.
+[15] The few documents submitted to the investigator afterwards did not disclose anything consistent with the information already obtained. At this point, the investigator handed the file over to the Canada Revenue Agency.
+[16] At the hearing, the Appellant testified that her principal duty was to sell the potatoes that the payor had purchased in the fall of 2004. However, neither her benefit claim nor her Record of Employment make reference to this duty. Her testimony on this point is discredited by the payor's testimony, and, moreover, the accountant never brought it up.
+[17] The Appellant is asking this Court to vacate the Minister's decision, but the analysis of the evidence before me in light of the established factors does not warrant this Court's intervention.
+[18] The burden was on the Appellant to prove, on a balance of probabilities, that the facts on which the Minister relied in rendering his decision were wrong, but the Appellant did not discharge this burden.
+[19] Under these circumstances, it is appropriate to quote the remarks of Pratte J.A. in Elia v. Canada (Minister of National Revenue – M.N.R.), [1998] F.C.J. No. 316, where he held:
+Contrary to what the judge believed, he therefore could have intervened and should have intervened if, as he asserted, the evidence established that the Minister's decision was unreasonable. However, it seems to us that the judge's assertion is also inaccurate and based on an error of law, since the judge did not take into account the well-settled rule that the allegations in the reply to the notice of appeal, in which the Minister states the facts on which he based his decision, must be assumed to be true as long as the appellant has not proved them false.
+[20] A situation analogous to the case at bar was considered by this Court in Lemay v. Canada (Minister of National Revenue – M.N.R.), [2006] T.C.J. No. 304, where Tardif J. dismissed the appeal, stating as follows:
+In addition, the work must be genuine, especially if the
+contract of employment is subject to the provisions of the Employment Insurance Act ("the Act").
+Indeed, the parties to an agreement governing the performance of work for remuneration must honour that agreement to the letter. However, upon examining the contract's compliance with the provisions of the Act, the Court may conclude that it is, in essence, merely an arrangement between the parties to render the purported employee eligible to receive employment insurance benefits.
+A burden of proof can only be met through plausible evidence, and such plausibility generally depends on reliable, coherent explanations. The evidence may leave some doubts due to the passage of time. Hence, the requisite level of proof is proof on a balance of probabilities, not certainty beyond any doubt.
+In the case at bar, the Appellant has not made her case on a balance of probabilities. Rather, the evidence adduced contained numerous inconsistencies. On balance, the evidence tends to show that during the periods in issue, the Appellant and her employer made an arrangement one of the fundamental objectives of which was to secure the maximum amount of employment insurance benefits for the Appellant, as opposed to paying the Appellant fair value for her work.
+[21] Having completed this analysis, this Court must find, as did the Minister, that there was an arrangement between the parties for the sole purpose of enabling the Appellant to qualify for employment insurance benefits.
+[22] For all these reasons, the appeal is dismissed and the Minister's decision is confirmed.
+Signed at Grand-Barachois, New Brunswick, this 24th day of October 2006.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 18th day of July 2007.
+Brian McCordick, Translator
+CITATION:
+2006TCC537
+COURT FILE NO.:
+2006-326(EI)
+STYLE OF CAUSE:
+Josée Gauthier and M.N.R.
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+August 22, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Deputy Judge
+S.J. Savoie
+DATE OF JUDGMENT:
+October 24, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+For the Respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

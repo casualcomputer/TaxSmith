@@ -1,0 +1,261 @@
+---
+title: "Niagara Gorge Jet Boating Ltd. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31273/index.do"
+last_modified: "2013-08-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 261"
+citation2: ""
+neutral_citation: "2013 CCI 261"
+decision_date: "2013-08-20"
+language: "fr"
+item_id: "31273"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5114
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:08:06.934000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "67d4d49d9bef84d6d923041bf71b1536fe306c4e493695b6ba02bd6717565a26"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Niagara Gorge Jet Boating Ltd. c. M.R.N.
+
+- Citation: 2013 CCI 261
+- Decision date: 2013-08-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5114, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Niagara Gorge Jet Boating Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-08-20
+Référence neutre
+2013 CCI 261
+Numéro de dossier
+2012-1867(CPP)
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2012-1867(CPP)
+ENTRE :
+NIAGARA GORGE JET BOATING LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 11 avril 2013, à Hamilton (Ontario).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l’appelante :
+Me Glen W. McCann
+Avocat de l’intimée :
+Me Tokunbo C. Omisade
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la décision du ministre du Revenu national, selon laquelle John Kinney occupait un emploi ouvrant droit à pension durant la période allant du 1er janvier 2002 au 31 décembre 2006, est rejeté, conformément aux motifs du jugement ci-joints.
+Signé à Québec (Québec), ce 20e jour d’août 2013.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 24e jour de septembre 2013.
+C. Laroche, traducteur
+Référence : 2013 CCI 261
+Date : 20130820
+Dossier : 2012-1867(CPP)
+ENTRE :
+NIAGARA GORGE JET BOATING LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I Introduction
+[1] Il est fait appel de la décision du ministre du Revenu national (le « ministre ») portant que M. John Kinney (le « travailleur ») occupait un emploi ouvrant droit à pension auprès de Niagara Gorge Jet Boating Ltd. (l’« appelante ») durant la période du 1er janvier 2002 au 31 décembre 2006. L’appelante a demandé l’examen de la décision, laquelle a été ratifiée.
+II Le contexte factuel
+[2] L’appelante offre des excursions par bateau à propulsion hydraulique sur la rivière Niagara. Ses installations sont situées à Niagara-on-the-Lake, en Ontario ainsi qu’à Lewiston, dans l’État de New York.
+[3] Les actionnaires de l’appelante étaient John Kowalski, Joseph Kowalski, Joanne Clifford et John Kinney, chacun détenant 25 p. 100 du capital-action de l’appelante.
+[4] Le travailleur est résident des États‑Unis.
+[5] Le travailleur a été engagé par l’appelante pour assurer la gestion de ses opérations au Canada et aux États-Unis.
+[6] Le travailleur et l’appelante ont signé un contrat portant la date du 14 décembre 1998, dans lequel les parties confirment leur intention d’établir une relation de client à entrepreneur indépendant.
+[7] Dans sa réponse à l’avis d’appel, l’intimé admet les faits suivants :
+a) Le travailleur a été engagé fin d’établir et de suivre l’application des procédures d’exploitation de l’entreprise de l’appelante.
+b) Le travailleur pouvait fournir ses services à d’autres clients, [traduction] « sous la seule réserve de l’interdiction d’agir pour le compte de concurrents directs de l’appelante ».
+c) Le travailleur avait un horaire de travail souple. Toutefois, l’intimée conteste le fait qu’il n’était [traduction] « assujetti à aucun minimum ou maximum » quant au nombre d’heures.
+d) Le travailleur avait un bureau à domicile dont les dépenses ne lui étaient pas remboursées.
+[8] Pour déterminer si le travailleur occupait un emploi ouvrant droit à pension pendant la période en cause, le ministre s’est fondé sur les hypothèses de faits énoncées aux paragraphes 13a) à fff) de la réponse à l’avis d’appel, hypothèses dont il sera fait mention dans les paragraphes pertinents des présents motifs.
+[9] Concernant les fonctions exercées par le travailleur, le ministre a retenu les hypothèses suivantes :
+- Il assurait la gestion des services canadiens et américains d’excursions en bateau sur la rivière Niagara;
+- Il offrait ses conseils au sujet des excursions;
+- Il mettait au point de nouvelles activités;
+- Il travaillait à l’expansion de l’entreprise;
+- Il traitait les questions de nature juridique;
+- Il se chargeait des travaux majeurs de rénovation des bateaux;
+- Il enseignait aux cadres comment assurer la sécurité des passagers lors des excursions de canot pneumatique en eaux vives;
+- Il s’occupait de la formation permanente et de la supervision de l’ensemble du personnel;
+- Il élaborait les manuels de formation de l’appelante et veillait à leur mise à jour.
+[10] Le ministre a conclu que le travailleur ne travaillait pas à son propre compte lorsqu’il fournissait ses services à l’appelante. Celle‑ci soutient que le travailleur était un entrepreneur indépendant et qu’elle n’était donc pas tenue de cotiser au Régime de pensions du Canada.
+III Les points en litige
+[11] Le travailleur occupait-il un emploi ouvrant droit à pension auprès de l’appelante? Autrement dit, le travailleur était-il un employé ou un entrepreneur indépendant?
+[12] Quelle proportion du travail de l’appelante constituait un emploi au Canada?
+IV Analyse
+[13] La principale question qui se pose ici est de savoir si, pendant la période en cause, le travailleur occupait auprès de l’appelante un emploi ouvrant droit à pension au sens de l’alinéa 6(1)a) du Régime de pensions du Canada (le « RPC »).
+[14] Suivant le paragraphe 2(1) du RPC, le terme « emploi » s’entend de l’état d’employé prévu par un contrat de louage de services ou d’apprentissage, exprès ou tacite, et vise également la période d’occupation d’une fonction.
+[15] Quant à l’emploi ouvrant droit à pension, il est ainsi défini à l’alinéa 6(1)a) du RPC :
+6. (1) Ouvrent droit à pension les emplois suivants :
+a) l’emploi au Canada qui n’est pas un emploi excepté;
+b) l’emploi au Canada qui relève de Sa Majesté du chef du Canada, et qui n’est pas un emploi excepté;
+c) l’emploi assimilé à un emploi ouvrant droit à pension par un règlement pris en vertu de l’article 7.
+[16] La notion d’emploi excepté est définie au paragraphe 6(2) du RPC. Dans l’affaire qui nous intéresse, aucun des éléments de cette définition ne s’applique au travailleur.
+[17] En revanche, suivant l’alinéa 7(1)a) du RPC, le gouverneur en conseil peut prendre des règlements en vue d’assimiler à un emploi ouvrant droit à pension tout emploi à l’étranger ou en partie à l’étranger, qui serait un emploi ouvrant droit à pension s’il était exercé au Canada.
+[18] On trouve une telle exception à l’alinéa 16(1)a) du Règlement sur le Régime de pensions du Canada (le « Règlement »), qui prévoit que l’emploi hors du Canada fait partie des emplois ouvrant droit à pension si l’employé « se présente ordinairement au travail à un établissement de son employeur situé au Canada », dans la mesure où cet emploi ouvrirait droit à pension s’il était exercé au Canada.
+[19] L’emploi qui n’est pas exercé aux termes d’un contrat exprès ou tacite de louage de services n’est pas considéré comme ouvrant droit à pension. Par conséquent, la prestation de services aux termes d’un contrat d’entreprise (dans le cadre d’une relation de client à entrepreneur indépendant) n’est pas visée par la notion d’emploi ouvrant droit à pension.
+[20] Puisque la preuve révèle que le travailleur s’acquittait de ses fonctions au Canada comme aux États‑Unis, dans la mesure où l’on conclut que la relation entre les parties en était une d’employeur à employé, il faut alors déterminer, dans un deuxième temps, quelle part du travail de l’appelante constitue un emploi au Canada.
+[21] Pour savoir quels sont les droits et obligations que le RPC impose à une personne, il faut déterminer si cette personne est un employé (partie à un contrat de louage de services) ou un travailleur autonome (liée par un contrat d’entreprise).
+[22] Le critère de common law qu’il convient d’appliquer à une telle détermination a été établi dans l’arrêt Wiebe Door Services Ltd. c. M.R.N[1] et confirmé par la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc[2]. Ce critère exige d’examiner les quatre éléments suivants (qui ne sont pas exhaustifs) en prenant en compte la nature de la relation qui existe entre les parties :
+1. Le contrôle
+2. La propriété des instruments de travail
+3. La possibilité de profit
+4. Le risque de perte
+[23] Par ailleurs, la jurisprudence a établi qu’il y avait lieu de prendre en compte l’intention des parties dans la détermination de la nature juridique d’un contrat[3]. Dans une décision qu’elle a récemment rendue, 1392644 Ontario Inc. s/n Connor Homes c. La Reine, la Cour d’appel fédérale apporte quelques précisions concernant l’analyse qui s’impose pour déterminer l’intention des parties et la façon d’y procéder[4].
+[24] En résumé, dans Connor Homes, la Cour signale que, indépendamment de la façon dont les parties qualifient leur relation, on ne peut en déterminer les effets juridiques en s’en remettant uniquement à l’intention subjective des parties. La Cour aborde également la question de l’articulation de l’analyse : l’intention des parties doit être dégagée avant de procéder à l’analyse exposée dans les arrêts Wiebe et Sagaz. À ce sujet, elle s’explique ainsi :
+38 C’est pourquoi Wolf et Royal Winnipeg Ballet exposent une méthode en deux étapes pour l’examen de la question centrale, telle que l’ont définie Sagaz et Wiebe Door, qui est d’établir si l’intéressé fournit ou non les services en tant que personne travaillant à son compte.
+39 La première étape consiste à établir l’intention subjective de chacune des parties à la relation. On peut le faire soit d’après le contrat écrit qu’elles ont passé, soit d’après le comportement effectif de chacune d’elles, par exemple en examinant les factures des services rendus, et les points de savoir si la personne physique intéressée s’est enregistrée aux fins de la TPS et produit des déclarations d’impôt en tant que travailleur autonome.
+40 La seconde étape consiste à établir si la réalité objective confirme l’intention subjective des parties. Comme le rappelait la juge Sharlow au paragraphe 9 de TBT Personnel Services Inc. c. Canada, 2011 CAF 256, 422 N.R. 366, « il est également nécessaire d’examiner les facteurs exposés dans Wiebe Door afin de déterminer si les faits concordent avec l’intention déclarée des parties ». Autrement dit, l’intention subjective des parties ne peut l’emporter sur la réalité de la relation telle qu’établie par les faits objectifs. À cette seconde étape, on peut aussi prendre en considération l’intention des parties, ainsi que les modalités du contrat, puisqu’elles influent sur leur relation. Ainsi qu’il est expliqué au paragraphe 64 de Royal Winnipeg Ballet, les facteurs applicables doivent être examinés « à la lumière de » l’intention des parties. Cela dit, cependant, la seconde étape est une analyse des faits pertinents aux fins d’établir si le critère de Wiebe Door et de Sagaz est ou non rempli, c’est-à-dire si la relation qu’ont nouée les parties est, sur le plan juridique, une relation de client à entrepreneur indépendant ou d’employeur à employé.
+[25] Compte tenu de ce cadre d’analyse, la preuve montre-t-elle que le travailleur a fourni ses services dans le cadre d’une entreprise exercée pour son propre compte?
+A. L’intention des parties
+[26] Concernant l’intention des parties, le ministre a retenu les hypothèses suivantes :
+- Les déclarations de revenus que l’appelant a produites au Canada pour les années d’imposition 2003 à 2006 ne comportaient ni revenus ni dépenses d’entreprise.
+- Le travailleur n’avait pas ses propres clients; les clients étaient ceux de l’appelante.
+- Le travailleur ne gérait pas son propre personnel.
+- Jusqu’en 2006, le travailleur n’avait pas de nom commercial enregistré.
+- Jusqu’en 2006, le travailleur n’avait pas de numéro d’entreprise enregistré à l’ARC.
+- À compter de 2005, le travailleur a appliqué la TPS à ce que lui devait l’appelante; toutefois, le travailleur n’a jamais versé cette TPS au receveur général.
+[27] L’avocat de l’appelante a insisté sur le fait que les parties avaient voulu établir une relation de client à entrepreneur indépendant, ainsi qu’en faisait foi le contrat qu’elles avaient signé. D’ailleurs, dans ce contrat, le terme [traduction] « entrepreneur » était employé pour désigner le travailleur.
+[28] Je tiens pour avéré que l’intention des parties était d’établir la relation décrite dans un contrat d’entreprise.
+B. Le contrôle
+[29] Dans sa réponse à l’avis d’appel, le ministre a retenu les hypothèses suivantes :
+- L’horaire du travailleur variait en fonction des saisons et de ce qui devait être fait;
+- Le travailleur ne comptabilisait pas les heures qu’il effectuait;
+- Le travailleur était responsable de l’exploitation quotidienne de l’appelante;
+- D’avril à octobre, le travailleur devait être présent sur les lieux au moins dix jours par période de deux semaines;
+- De novembre à mars, le travailleur devait être présent sur les lieux de travail de l’appelante pendant un nombre d’heures suffisant pour s’acquitter convenablement de ses responsabilités;
+- Le travailleur était tenu de rendre des comptes à l’appelante à chaque semaine concernant la situation de trésorerie et à chaque mois pour la balance de vérification;
+- Le travailleur était tenu d’assister régulièrement aux réunions de l’équipe de direction;
+- Le travailleur s’acquittait de ses fonctions sur les divers lieux de travail de l’appelante situés aux États-Unis et au Canada ainsi qu’à partir de son bureau à domicile;
+- Le travailleur ne pouvait, sans l’autorisation écrite de l’appelante :
+o consentir des contrats de travail à temps plein;
+o accorder des primes au personnel;
+o délivrer des bons de commande;
+o conclure des contrats d’une valeur de plus de 5 000 $;
+o faire l’acquisition d’un immeuble;
+- Le travailleur était autorisé à signer les documents relatifs aux opérations du compte bancaire de l’appelante et seule sa signature était requise pour les montants ne dépassant pas 10 000 $;
+- Le travailleur était autorisé à signer des contrats pour le compte de l’appelante.
+[30] Le travailleur était un actionnaire minoritaire de l’appelante et l’un de ses administrateurs. Selon la preuve, le travailleur était considéré, à titre [traduction] « honoraire », comme le président de l’appelante.
+[31] Le travailleur disposait d’un horaire souple dont il décidait en grande partie lui‑même. Le ministre a supposé qu’il effectuait un nombre minimum et maximum d’heures, ce que l’appelante a nié.
+[32] Le travailleur était tenu d’assister aux réunions du conseil d’administration et de l’équipe de direction.
+[33] Le contrat précisait lesquels de ses actes le travailleur devait faire autoriser par écrit par le conseil d’administration; au nombre de ceux-ci, on comptait la conclusion de contrats d’emploi à temps plein, le versement de primes aux employés, la délivrance de bons de commande et la passation de contrats d’une valeur de plus de 5 000 $ ainsi que les opérations immobilières. Le travailleur devait également rendre compte au conseil d’administration de la situation de trésorerie hebdomadaire et de la balance de vérification mensuelle.
+[34] L’appelante ne supervisait pas directement l’exécution des activités quotidiennes du travailleur. Toutefois, comme le signale la juge Sharlow dans l’arrêt TBT Personnel Services Inc. c. La Reine[5], ce facteur est neutre lorsque le travailleur est hautement qualifié dans son domaine et qu’il n’a besoin que de peu ou pas de supervision, quelle que soit la nature de la relation de travail.
+[35] En outre, ainsi que cela a été dit dans l’arrêt Meredith. c. La Reine[6], « [c]e qu’il faut déterminer, c’est le pouvoir légal de la société de contrôler les employés, et non pas la question de savoir si les employés se sentent assujettis à ce contrôle ». [Non souligné dans l’original.]
+[36] Selon l’appelante, le fait que le travailleur était autorisé à travailler pour d’autres clients tend à démontrer qu’il avait la qualité d’entrepreneur indépendant. Cela est exact, mais le travailleur n’a fourni ses services à d’autres clients qu’au cours des périodes qui ont précédé et suivi la période en cause ici.
+[37] À mon avis, le pouvoir accordé au travailleur d’engager l’appelante par sa signature eu égard à diverses affaires ne tend pas à indiquer qu’il travaillait à son propre compte.
+[38] L’appelante n’a pas réussi à prouver l’inexactitude des hypothèses formulées par le ministre. Je remarque que le contrat écrit définit les fonctions du travailleur comme étant de la nature de celles d’un gestionnaire. De plus, le travailleur était président et administrateur de l’appelante. La preuve permet raisonnablement de conclure que le travailleur relevait du conseil d’administration de l’appelante.
+[39] Ainsi, le facteur du contrôle tend à démontrer l’existence d’une relation d’emploi.
+C. La propriété des instruments de travail et du matériel
+[40] Pour arriver à la conclusion que le travailleur était un employé, le ministre a retenu les hypothèses suivantes concernant la propriété des instruments de travail :
+- Quand il travaillait au Canada, le travailleur pouvait utiliser le bureau de l’appelante, son ordinateur, son téléphone cellulaire, sa radio VHF, la voiture de fonction et les fournitures de bureau sans qu’il lui en coûte rien.
+- L’appelante fournissait aussi les bateaux à propulsion hydraulique et l’équipement de sûreté des embarcations.
+- Le travailleur était propriétaire de sa combinaison humide et de son équipement aquatique et avait un bureau et un ordinateur à domicile.
+- L’appelante fournissait au travailleur des cartes de visite qui le présentaient comme président de l’appelante.
+- Chaque partie était responsable de l’entretien des instruments de travail et du matériel lui appartenant.
+[41] L’une des caractéristiques que partagent les entrepreneurs indépendants est qu’ils investissent d’importantes sommes dans l’acquisition des outils et du matériel dont ils ont besoin pour travailler et qu’ils conservent tous les droits se rattachant à l’usage de ces biens.
+[42] La preuve indique que l’appelante fournissait gratuitement au travailleur un bureau et un fauteuil pour vaquer à ses activités professionnelles. Cela dit, le travailleur possédait en propre un ordinateur, un téléphone cellulaire et un véhicule. L’appelante lui remboursait certaines des dépenses afférentes à ces outils. Le travailleur possédait aussi sa propre combinaison humide et son propre équipement aquatique.
+[43] Il importe de souligner que l’entreprise œuvrait dans le secteur de la navigation de plaisance et qu’elle utilisait principalement, pour ses activités, des embarcations et de l’équipement de sûreté fournis par l’appelante.
+[44] L’appelante prétend que la contribution la plus importante du travailleur, sur le plan des instruments de travail, était son savoir. Un argument analogue a été avancé dans l’affaire Asare-Quansah c. Le ministre du Revenu national[7], qui concernait un comptable agréé dont les services avaient été retenus pour la conception d’un cours de littératie financière et qui soutenait que ses connaissances étaient son principal instrument de travail. Ayant jugé qu’en l’espèce, le facteur de la propriété des instruments de travail était neutre, le juge Campbell J. Miller n’a pas véritablement poussé l’examen de la question de l’instrument immatériel, se contentant d’observer que les connaissances n’étaient pas « le type d’instrument de travail ou d’équipement auquel les tribunaux font traditionnellement référence »[8].
+[45] L’appelante n’a pas réussi à réfuter les hypothèses du ministre ou à prouver leur inexactitude. Le facteur de la propriété des instruments de travail tend à démontrer l’existence d’une relation employeur-employé.
+D. La possibilité de profit et le risque de perte
+[46] Concernant la possibilité de profit et le risque de perte, le ministre a formulé un certain nombre d’hypothèses :
+- Le travailleur touchait un salaire annuel de base de 60 000 $, en plus de recevoir 5 000 $ pour chacun des mois de janvier, d’août, de septembre et de novembre et 10 000 $ pour ceux de février, de mars, d’avril et de mai;
+- Le travailleur avait droit à une gratification annuelle pour son rendement en tant que gestionnaire correspondant à un certain pourcentage des bénéfices excédentaires admissibles;
+- D’autres travailleurs touchaient également des primes;
+- Le travailleur avait droit à des honoraires annuels de 25 000 $ au titre de sa fonction d’administrateur;
+- L’appelante décidait du moment du mois où elle payait le travailleur;
+- L’appelante décidait du mode de paiement : ainsi, le travailleur était payé par chèque;
+- Jusqu’au début de 2006, les paiements étaient faits au nom du travailleur. Par la suite, il a reçu des paiements en son nom propre et au nom de son entreprise, 7863 Management Company LLC;
+- Pour se faire payer, le travailleur présentait des factures à Whirlpool Jet Boat Tours;
+- Le travailleur pouvait utiliser la carte de crédit de l’appelante;
+- L’appelante fournissait au travailleur une résidence d’été et lui remboursait ses frais de déplacement, jusqu’à concurrence de 8 000 $ par année, sur présentation des reçus;
+- L’appelante versait au travailleur une indemnité de déplacement pouvant atteindre 5 000 $ annuellement; cette indemnité permettait au travailleur de se rendre aux destinations approuvées par l’appelante;
+- C’est à l’appelante que revenait la responsabilité ultime de régler les plaintes des clients;
+- Le travailleur a assumé des frais pour le bureau à domicile, la combinaison humide et le téléphone cellulaire dont il faisait usage dans l’exécution de son travail.
+[47] La plupart du temps, les employés ne prennent aucun risque financier, puisque leurs dépenses leur sont remboursées et qu’ils n’ont aucuns frais fixes récurrents. À l’opposé, les entrepreneurs indépendants courent un risque financier et peuvent subir des pertes, car ils ont normalement à payer chaque mois des frais généraux fixes, même s’ils n’ont pas de travail à ce moment‑là.
+[48] En l’espèce, le travailleur avait la possibilité de réaliser un profit, puisque le montant de ses revenus dépendait directement des résultats obtenus par l’entreprise d’une année à l’autre. Le travailleur touchait un salaire de base, mais il a admis que la plus grande partie de ses revenus provenait du régime d’attribution de primes et de sa participation aux bénéfices en fin d’année. Or, à mon avis, cette possibilité qu’il a de réaliser un profit tient davantage à sa qualité d’actionnaire qu’à ses fonctions de président et de gestionnaire de l’entreprise. Il est vrai que le travailleur a investi de l’argent dans l’entreprise, mais cela ne veut pas forcément dire qu’il y était tenu pour pouvoir fournir ses services à l’entreprise.
+[49] En ce qui concerne le risque de perte, c’est un fait que le travailleur aurait pu perdre l’argent qu’il avait investi au départ si l’entreprise avait fait faillite. Cependant, le constat est le même pour n’importe quelle personne ayant investi dans la compagnie qui l’emploie. De plus, au chapitre des risques financiers, la possibilité de perdre des sommes investies n’est pas assimilable à l’absence de sécurité d’emploi. Le travailleur recevait un salaire de base et pouvait utiliser la carte de crédit de l’entreprise. Il avait aussi droit à d’autres avantages, notamment à une indemnité de déplacement de 5 000 $, au remboursement de ses primes d’assurance maladie jusqu’à concurrence de 4 500 $ et à des honoraires annuels d’administrateur. Considérée dans son ensemble, la preuve donne à penser que les dépenses que le travailleur devait payer de sa poche étaient peu nombreuses. Je suis d’avis que la sécurité financière dont le travailleur jouissait empêche toute comparaison entre sa situation et celle de la plupart des entrepreneurs indépendants pour ce qui est du risque de perte supporté du fait qu’ils travaillent à leur compte.
+[50] La question de l’embauche de remplaçants peut aider à déterminer si un travailleur travaille à son compte, car la sous-traitance peut avoir une incidence sur ses chances de réaliser un profit ou d’essuyer une perte. En l’espèce, la preuve indique que le travailleur n’a jamais embauché qui que ce soit pour le remplacer. Ce facteur milite en faveur de l’existence d’une relation d’emploi.
+[51] L’appelante n’a pas réussi à réfuter les hypothèses retenues par le ministre en ce qui concerne la possibilité de profit et le risque de perte. L’avocat de l’appelante a insisté sur le fait que le travailleur avait la possibilité de toucher des primes calculées en fonction des profits réalisés par l’appelante. Sur ce point, je soulignerai que la plupart des premiers dirigeants de sociétés par actions canadiennes participent aux bénéfices des entreprises qu’ils dirigent.
+[52] Le facteur de la possibilité de profit et du risque de perte tend donc à confirmer l’existence d’une relation employeur-employé.
+V Conclusion
+[53] Bien que les parties considèrent que leur relation est régie par un contrat d’entreprise, le caractère permanent et suivi de leur relation fait plutôt pencher la balance du côté de la relation d’emploi. L’examen de la preuve et l’application des facteurs énoncés dans les arrêts Wiebe et Sagaz m’amènent à conclure que le travailleur était un employé de l’appelante. Il s’ensuit qu’il occupait un emploi ouvrant droit à pension au Canada.
+[54] Cela dit, comme nous l’avons vu précédemment, cette réponse ne règle pas tout. Si le travailleur se présentait « ordinairement » au travail à un établissement de son employeur situé au Canada, son emploi serait considéré en partie comme un emploi ouvrant droit à pension au Canada au titre de l’alinéa 16(1)a) du Règlement. À l’inverse, s’il ne se présentait pas « ordinairement » au travail au Canada, les heures passées au Canada à travailler pour l’appelante ne seraient pas considérées comme un emploi ouvrant droit à pension au Canada.
+[55] Le terme « ordinairement » est un adverbe signifiant la plupart du temps, généralement, habituellement, etc.
+[56] La preuve indique que le travailleur effectuait environ 20 pour cent de ses heures de travail au Canada, contre 80 pour cent aux États‑Unis. On avait davantage besoin de ses services à Lewiston, dans l’État de New York, qu’à Niagara-on-the-Lake, en Ontario. Par conséquent, seul le cinquième des services du travailleur constitue un emploi ouvrant droit à pension au Canada.
+Signé à Québec (Québec), ce 20e jour d’août 2013.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 24e jour de septembre 2013.
+C. Laroche, traducteur
+RÉFÉRENCE : 2013 CCI 261
+No DU DOSSIER DE LA COUR : 2012-1867(CPP)
+INTITULÉ : NIAGARA GORGE JET BOATING LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 11 avril 2013
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 20 août 2013
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Glen W. McCann
+Avocat de l’intimée :
+Me Tokunbo C. Omisade
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante:
+Nom : Glen W. McCann
+Cabinet : Sullivan Mahoney LLP
+Niagara Falls (Ontario)
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] [1986] 3 C.F. 553, DTC 5025 (CAF).
+[2] [2001] 2 R.C.S. 983.
+[3] Royal Winnipeg Ballet c. M.R.N., 2006 CAF 87, [2007] 1 R.C.F. 35.
+[4] 2013 FCA 85.
+[5] 2011 CAF 256, au par. 35.
+[6] 2002 CAF 258, 2002 DTC 7190, au par. 15.
+[7] 2012 CCI 226.
+[8] Ibid., au par. 20.

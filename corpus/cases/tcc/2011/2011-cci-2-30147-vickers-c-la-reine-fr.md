@@ -1,0 +1,324 @@
+---
+title: "Vickers c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30147/index.do"
+last_modified: "2011-01-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 2"
+citation2: ""
+neutral_citation: "2011 CCI 2"
+decision_date: "2011-01-04"
+language: "fr"
+item_id: "30147"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7807
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:14:07.370000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "303b49e9d792723290c6dcc5555debcf997036dbcf62f935b99dc4ecd14392f0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vickers c. La Reine
+
+- Citation: 2011 CCI 2
+- Decision date: 2011-01-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7807, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vickers c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-01-04
+Référence neutre
+2011 CCI 2
+Numéro de dossier
+2010-265(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-265(IT)I
+ENTRE :
+CHRISTOPHER VICKERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 13 octobre 2010 à Ottawa (Ontario).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Marie-France Camiré
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est accueilli et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci‑joints.
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est rejeté.
+Aucuns dépens ne sont adjugés relativement à l’un ou l’autre appel.
+Signé à Ottawa, Canada, ce 4e jour de janvier 2011.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 24e jour de février 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 2
+Date : 20110104
+Dossier : 2010-265(IT)I
+ENTRE :
+CHRISTOPHER VICKERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] Il s’agit d’un appel interjeté par Christopher Vickers (l’ « appelant ») à l’encontre de nouvelles cotisations établies à son égard pour les années d’imposition 2004 et 2005. L’appelant occupait principalement et continue d’occuper principalement un emploi de conseiller en placements. En 2005, l’appelant a changé d’employeur et a quitté la RBC Dominion – valeurs mobilières (la « RBC ») à Toronto pour la TD Waterhouse (la « TD ») à Ottawa. Dans la nouvelle cotisation établie à l’égard de l’appelant, le ministre du Revenu national (le « ministre ») a refusé la déduction de plusieurs dépenses d’emploi demandée au titre du paragraphe 8(1) de la Loi de l’impôt sur le revenu (la « Loi »). Les dépenses étaient relatives au déménagement de l’appelant et à son emploi en tant que conseiller en placements.
+[2] Selon la liste des questions établie par le ministre dans la réponse à l’avis d’appel, au début de l’audience, les seuls montants qui demeuraient en cause étaient les suivants : 18 000 $ représentant le salaire payé à une adjointe et déduit par l’appelant en tant que dépense pour 2004; 7 830,87 $ représentant des frais de déplacement et 7 444,33 $ représentant des frais de repas et de représentation que l’appelant avait déduits pour 2005.
+[3] Pendant l’audience, il s’est posé la question de savoir si l’appelant pouvait déduire au titre des frais de déménagement prévus par l’article 62 de la Loi, les dépenses liées à plusieurs séjours de l’appelant dans un hôtel d’Ottawa. La question doit être tranchée.
+I. Contexte factuel
+[4] Lorsqu’il a établi la cotisation à l’égard de l’appelant pour les années d’imposition en cause, le ministre s’est fondé, entre autres, sur les hypothèses de fait suivantes[1] :
+[traduction]
+a) du 30 août 2002 au 2 mars 2005, l’appelant travaillait à la RBC en tant que conseiller en placements et directeur de succursale à Toronto;
+b) de mars à décembre 2005, l’appelant travaillait à la TD Waterhouse à Ottawa en tant que conseiller en placements;
+c) l’appelant résidait à Toronto et il a déménagé à Ottawa en juin 2005;
+d) en tant qu’employé de la RBC, l’appelant :
+i. n’était pas, de manière générale, appelé à travailler ailleurs que dans les locaux de la RBC;
+ii. n’était pas tenu de travailler en dehors du secteur où était située la RBC;
+iii. ne recevait pas de remboursement des frais de déplacement supportés pour aller rencontrer les clients;
+iv. ne recevait pas de remboursement des frais liés à la vente supportés dans l’exercice des fonctions de son emploi;
+e) l’appelant était marié avec Susan Bryson (l’« épouse »);
+f) l’appelant n’était pas tenu par son employeur d’engager un adjoint;
+g) l’appelant n’a pas rémunéré son épouse pour travailler comme adjointe;
+h) l’appelant n’a pas supporté des frais de 18 000 $ relativement à une adjointe pour l’année d’imposition 2004;
+i) l’appelant a demandé des déductions pour frais de repas et de représentation de 1 774,83 $ et de 5 669,50 $ relativement aux restaurants Lone Star Texas Grill et Empire Grill, respectivement;
+j) l’appelant n’a pas supporté de frais de repas et de représentation de 1 774,83 $ et de 5 669,50 $ dans l’exercice de fonctions visant à gagner un revenu d’emploi pour l’année d’imposition 2005;
+k) l’appelant a demandé une déduction de 7 830,87 $ au titre de frais de logement pour son séjour à l’hôtel ARC à Ottawa de mars à juin 2005;
+l) l’appelant n’a pas supporté de frais de logement de 7 830,87 $ à l’hôtel pour l’année d’imposition 2005 dans l’exercice de fonctions visant à gagner un revenu d’emploi;
+m) la TD Waterhouse a remboursé les frais suivants à l’appelant :
+Frais de repas, de boissons et de représentation
+6 527 $
+Autres dépenses
+5 248 $
+Déplacements
+2 983 $
+Total des frais remboursés par la TD
+14 758 $
+n) l’appelant n’avait pas inclus le remboursement de 14 758 $ dans sa déclaration de revenus.
+[5] L’appelant a déclaré à l’audience que, lorsqu’il avait présenté sa démission à la RBC le 2 mars 2005, ses fonctions au sein de l’organisation avaient pris fin brusquement, et il avait dû emporter sa liste de clients chez son nouvel employeur, la TD, afin de pouvoir continuer à servir ses clients. Toutefois, la famille de l’appelant n’avait pu déménager avec lui qu’à la fin du mois de juin, étant donné que les enfants allaient à l’école. En se fondant sur ces faits, l’appelant a soutenu qu’il avait été nécessaire pour lui de faire des voyages aller‑retour entre Toronto et Ottawa pendant quatre mois – et qu’il avait par conséquent supporté des frais d’hôtel et de repas de 7 830,87 $ à Ottawa – afin de s’installer et d’exercer les fonctions de son nouvel emploi à la TD[2]. Il devait également trouver un logement permanent pour sa famille.
+[6] L’appelant a demandé une déduction de 18 000 $ au titre du salaire payé à une adjointe en 2004, et a soutenu que le montant total représentait un salaire mensuel de 1 500 $ payé à son épouse. L’appelant a déclaré à l’audience que son épouse l’avait aidé en participant à des activités de bienfaisance et en organisant des activités sociales, ce qui l’avait aidé à présenter à ses clients éventuels l’image d’une personne stable et centrée sur la famille et qui lui avait permis de vendre ses services. Bien qu’elle ait aidé l’appelant à remplir à l’avance et à réviser les formulaires de renseignements relatifs aux clients, l’épouse de l’appelant ne participait pas aux réunions des clients avec l’appelant et elle n’avait aucune formation dans le domaine.
+[7] Bien que l’appelant ait déclaré que son épouse avait travaillé 20 heures par semaine pendant 17 semaines au cours des mois d’activité intense de février, septembre, octobre et novembre, et 6 heures par semaine pour 30 autres semaines de l’année, l’épouse de l’appelant n’a pas tenu de feuille de temps, n’a pas facturé l’appelant pour son temps et n’a pas été régulièrement rémunérée ou n’a pas reçu les montants mensuels fixes de 1 500 $ que l’appelant dit lui avoir versés. L’épouse de l’appelant a toutefois déclaré un revenu de 18 000 $ pour l’année d’imposition 2004. Le ministre n’a pas établi de nouvelle cotisation à l’égard de l’épouse de l’appelant pour exclure ce montant de son revenu et, par conséquent, la position actuelle du ministre aboutit à une double imposition.
+[8] À l’audience, le ministre a consenti à un jugement en faveur de l’appelant en ce qui concerne les frais de repas et de représentation supportés relativement aux restaurants Lone Star Texas Grill et Empire Grill.
+II. Questions en litige
+[9] En conséquence, les questions qui demeurent en litige sont les suivantes :
+a) l’appelant a‑t‑il payé un salaire à son épouse pour qu’elle travaille comme adjointe, salaire que l’appelant était obligé de payer en vertu de son contrat d’emploi – ces éléments étant des exigences pour qu’il y ait une déduction au titre du sous‑alinéa 8(1)i)(ii) de la Loi?
+b) les frais de repas et de logement supportés par l’appelant et non remboursés par la TD sont‑ils déductibles au titre des frais de déplacement en application de l’alinéa 8(1)h) ou de l’alinéa 8(1)f) de la Loi?
+c) à titre subsidiaire, ces frais de repas et de logement sont‑ils déductibles au titre des frais de déménagement au sens de l’alinéa 62(3)c) de la Loi jusqu’à concurrence de la période maximale autorisée de 15 jours?
+III. Analyse
+Question 1 : L’appelant peut‑il demander une déduction en application du sous‑alinéa 8(1)i)(ii) des sommes qu’il affirme avoir payées à son épouse pour les services fournis par cette dernière en tant qu’adjointe?
+[10] Voici le libellé du paragraphe 8(2) de la Loi :
+8(2) Restriction générale -- Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi.
+8(2) General limitation -- Except as permitted by this section, no deductions shall be made in computing a taxpayer’s income for a taxation year from an office or employment.
+[11] Le paragraphe 8(1) de la Loi établit une longue liste de déductions qui peuvent être faites d’un revenu d’emploi si les sommes à déduire peuvent être raisonnablement considérées comme se rapportant à cette source de revenus.
+[12] Le sous‑alinéa 8(1)i)(ii) autorise un contribuable à déduire le salaire payé à un adjoint dans les circonstances qui sont spécifiées à cette disposition. Le sous‑alinéa 8(1)i)(ii) prévoit ce qui suit :
+8(1) Éléments déductibles -- Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+Cotisations et autres dépenses liées à l’exercice des fonctions
+i) dans la mesure où il n’a pas été remboursé et n’a pas le droit d’être remboursé à cet égard, les sommes payées par le contribuable au cours de l’année au titre :
+[…]
+(ii) […] du salaire d’un adjoint ou remplaçant que le contrat d’emploi du cadre ou de l’employé l’obligeait à payer,
+[…]
+[Non souligné dans l’original.]
+8(1) Deductions allowed -- In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+. . .
+Dues and other expenses of performing duties
+(i) amounts paid by the taxpayer in the year as
+. . .
+(ii) . . . Salary to an assistant or substitute, the payment of which by the officer or employee was required by the contract of employment,
+. . .
+to the extent that the taxpayer has not been reimbursed, and is not entitled to be reimbursed in respect thereof.
+[Emphasis added.]
+[13] Toutefois, pour qu’une déduction puisse être demandée en application du sous‑alinéa 8(1)i)(ii) de la Loi, il doit être aussi satisfait aux exigences du paragraphe 8(10) de la Loi.
+8(10) Attestation de l’employeur -- Un contribuable ne peut déduire un montant pour une année d’imposition en application des […] sous-alinéas (1)i)(ii) ou (iii) que s’il joint à sa déclaration de revenu pour l’année un formulaire prescrit, signé par son employeur, qui atteste que les conditions énoncées à la disposition applicable ont été remplies quant au contribuable au cours de l’année.
+8(10) Certificate of employer -- An amount otherwise deductible for a taxation year under . . . subparagraph (1)(i)(ii) or (iii) by a taxpayer shall not be deducted unless a prescribed form, signed by the taxpayer’s employer certifying that the conditions set out in the applicable provision were met in the year in respect of the taxpayer, is filed with the taxpayer’s return of income for the year.
+[14] Dans Schnurr c. La Reine, 2004 CCI 684 (procédure générale) (affichée sur le site Web de CanLII), le juge en chef adjoint Bowman, tel était alors son titre, avait donné l’explication suivante :
+La présentation des formulaires T2200 vise deux objectifs : il s’agit d’une condition prévue par la loi aux fins de la déduction de dépenses d’emploi en vertu de l’alinéa 8(1)i) et il s’agit d’une preuve des conditions d’emploi. Je doute que le formulaire soit concluant ou déterminant si la preuve montre qu’il est inexact, mais il s’agit du moins d’une preuve prima facie[3].
+[15] L’ancien juge en chef avait précisé, dans Schnurr, qu’il n’était pas nécessaire que le contrat d’emploi énonce expressément l’exigence contenue au sous‑alinéa 8(1)i)(ii) de la Loi, et selon laquelle les dépenses doivent être exigées par le contrat d’emploi. Une telle exigence peut être déduite des circonstances comme découlant implicitement de la relation d’emploi[4]. Il est toutefois uniquement satisfait à l’exigence s’il est essentiel que les dépenses soient supportées afin de permettre au contribuable d’accomplir les fonctions de son emploi[5].
+[16] Le juge Bowie a fait l’observation suivante dans Morgan c. La Reine, 2007 CCI 475 (procédure générale) (affichée sur le site Web de CanLII) :
+[...] Le verbe « obliger » figurant dans la version française de la Loi et le verbe « to require » employé dans la version anglaise sont tous deux nécessairement impératifs[6].
+[17] Sur ce point, l’appelant n’a pas réussi à s’acquitter du fardeau de la preuve qui lui incombait. La preuve de l’appelant selon laquelle son épouse avait rempli des formulaires et avait participé à des activités sociales ne signifie nullement que les services fournis par l’épouse de l’appelant étaient nécessaires pour que l’appelant puisse exercer les fonctions de son emploi en tant que conseiller en placements. En outre, alors qu’il lui était loisible de le faire, l’appelant n’a pas appelé son épouse à venir corroborer son témoignage oral, il n’a pas non plus appelé à témoigner un employé ou un représentant de la RBC qui aurait pu préciser si l’aide de l’épouse de l’appelant était une exigence implicite.
+[18] Bien que l’appelant ait produit en preuve son formulaire T2200, il était précisé dans ce formulaire que, selon le contrat d’emploi, l’appelant n’était pas obligé d’engager un adjoint. Quoique ce formulaire ne constitue pas un facteur déterminant pour trancher la question, l’appelant n’a pas demandé la comparution du superviseur qui avait rempli le formulaire pour qu’il explique que la situation était toute autre, et l’appelant n’a pas présenté la preuve d’une entente différente, implicite, qui aurait existé entre lui et la RBC, et qui serait contraire aux renseignements contenus dans le formulaire T2200.
+[19] Malgré le fait qu’il ressort de la preuve présentée par l’appelant que l’épouse de ce dernier peut avoir réellement fourni de l’aide, l’appelant n’a pas présenté de preuve prima facie permettant d’établir l’élément de nécessité. Les hypothèses du ministre et la cotisation établie relativement aux sommes en question doivent donc être maintenues. Étant donné que la décision du ministre est confirmée sur ce point, et compte tenu du fait que la question ne relève pas de ma compétence, je m’attends à ce que le ministre établisse néanmoins une nouvelle cotisation à l’égard de l’épouse de l’appelant pour son année d’imposition 2004 afin d’exclure le montant qu’elle avait à tort déclaré comme revenu d’emploi.
+Question 2 : L’appelant peut-il déduire les frais de repas et de logement que la TD ne lui a pas remboursés en application de l’alinéa 8(1)h) ou de l’alinéa 8(1)f)?
+[20] Alors que l’appelant a invoqué l’alinéa 8(1)f) pour justifier la déduction de ses frais de repas et de logement à Ottawa, l’intimée s’est fondée sur l’alinéa 8(1)h) dans ses observations. Selon l’alinéa 8(1)h), et contrairement à l’alinéa 8(1)f), seuls les frais de « déplacement » peuvent être déduits. Toutefois, l’alinéa 8(1)h) s’applique au cadre ou à l’employé et pas seulement aux vendeurs à la commission. La situation de l’appelant est telle que, de manière générale, la déduction des frais peut être demandée en application de l’une ou l’autre disposition. Dans tous les cas, le débat, en l’espèce, se résume à la même question : les dépenses de l’appelant à l’hôtel ARC peuvent-elles être considérées comme ayant été supportées par l’appelant dans l’exercice des fonctions de son emploi ou constituent‑elles des dépenses personnelles et, par conséquent, des dépenses non déductibles au titre de l’article 8 de la Loi?
+[21] Lors de l’examen de la question ci‑dessus, les propos particulièrement concis du juge Jorré dans Blackburn c. La Reine, 2007 CCI 284 (procédure informelle) (affichée sur le site Web de CanLII), sont instructifs. Voici la teneur des propos du juge Jorré :
+[41] [Lorsqu’il est question de savoir si les déductions demandées constituent des dépenses personnelles ou s’il s’agit de frais de déplacement au sens de l’alinéa 8(1)h)], il faut [...] tenir compte du principe que le choix de vivre dans une ville plutôt qu’une autre est un choix personnel et que les dépenses encourues pour se rendre au travail sont des dépenses personnelles et ne sont pas déductibles.
+[42] Si une personne qui vit dans une ville prend un emploi dans une autre ville très loin de chez elle, elle ne peut déduire les coûts encourus par le choix de ne pas déménager. Ceci comprend non seulement les frais de transport, mais également les frais de nourriture et de logement. Par contre, la Loi prévoit la déduction de frais de déménagement.
+[43] Nous avons donc deux principes importants :
+1) Les frais de déplacement pour exercer ses fonctions d’emploi sont déductibles.
+2) Par contre, les frais encourus par le choix d’où l’on vit sont des frais personnels.
+[44] À quel moment est-ce que la décision de se déplacer plutôt que de déménager devient-elle un choix personnel? On ne pourrait raisonnablement conclure que le fait de ne pas déménager sa résidence pour un voyage d’affaires de quelques semaines est un choix personnel. Par contre, si quelqu’un prend un poste permanent dans une autre ville lointaine, il ne peut y avoir de doute qu’il s’agit d’un choix personnel si la personne garde sa maison et sa famille dans la ville d’origine et choisit de voyager tous les lundis matins et vendredis soirs entre les deux villes et de louer un petit appartement dans la ville où il travaille[7].
+[Notes de bas de page omises; non souligné dans l’original.]
+[22] Le caractère permanent de l’emploi de l’appelant auprès de la TD à Ottawa n’est pas contesté[8].
+[23] Malgré le fait que le choix de l’appelant fût vraisemblablement le meilleur pour sa famille, il ne fait aucun doute qu’il s’agissait d’un choix personnel et, par conséquent, la demande de l’appelant sur ce point n’entre pas dans le cadre des déductions autorisées au paragraphe 8(1) de la Loi. Ainsi, l’appel de l’appelant doit être rejeté sur ce point. Néanmoins, comme l’a souligné le juge Jorré, la Loi prévoit bien la déduction des frais de déménagement.
+Question 3 : L’appelant peut‑il déduire les frais de repas et de logement que la TD ne lui a pas remboursés au titre des frais de déménagement en application de l’alinéa 62(3)c)?
+[24] Dans ses observations écrites adressées à la Cour au sujet de cette question, l’intimée a soutenu que, pour qu’une somme soit admissible au titre des frais de déménagement selon l’alinéa 62(3)c) de la Loi, cette somme doit avoir été engagée pour le déménagement proprement dit du contribuable lorsqu’il change de résidence. En toute déférence, cet argument est erroné.
+[25] Le libellé de l’article 62 de la Loi commence ainsi :
+62(1) Frais de déménagement -- Un contribuable peut déduire dans le calcul de son revenu pour une année d’imposition les sommes qu’il a payées au titre des frais de déménagement engagés relativement à une réinstallation admissible dans la mesure où, […]
+62(1) Moving expenses -- There may be deducted in computing a taxpayer’s income for a taxation year amounts paid by the taxpayer as or on account of moving expenses incurred in respect of an eligible relocation . . .
+[Non souligné dans l’original.]
+[26] Comme cela ressort des termes soulignés, la disposition autorise la déduction des frais de déménagement lorsque les trois conditions suivantes sont remplies :
+a) Les sommes ont été payées par le contribuable;
+b) Les sommes ont été payées au titre des frais de déménagement (tels que définis au paragraphe 62(3) de la Loi);
+c) Les frais de déménagement ont été engagés relativement à une réinstallation admissible (telle que définie au paragraphe 248(1) de la Loi).
+[27] Il n’est pas contesté que la troisième exigence a été remplie en l’espèce.
+[28] Concernant la première exigence, dans l’exposé des faits et dans ses observations écrites, l’intimée fait remarquer que la TD a remboursé à l’appelant des frais de repas et de logement qu’il avait engagés pendant plus de 15 jours relativement à l’hôtel ARC[9]. Même là, il n’y a rien au paragraphe 62(1) de la Loi, reproduit ci‑dessus, ou à l’alinéa 62(3)c) de la Loi, reproduit ci‑dessous, qui empêcherait l’appelant de demander la déduction en application de l’alinéa 62(3)c) de la Loi, des frais engagés pour 15 jours des 44 jours pour lesquels il n’y a pas eu remboursement. Lorsqu’il a abordé directement l’argument mentionné par l’intimée en l’espèce, le juge O’Connor, dans Trainor v. R., [2000] 1 C.T.C. 2159 (CCI, procédure informelle) (affichée sur le site Web de CanLII) a tiré les conclusions suivantes :
+6 [...] Et je ne vois rien dans l’alinéa 62(3)c) qui permettrait de conclure [que l’appelant] ne peut pas se prévaloir de la déduction du fait que son employeur lui a remboursé les frais engagés pour une période autre que les 11 jours en question. Je ne vois rien non plus qui amène nécessairement à conclure que seuls les 15 premiers jours sont pris en compte. Si tel était le cas, le résultat serait curieux : le contribuable obtiendrait la déduction s’il supportait personnellement les frais pour les 11 premiers jours, mais ne l’obtiendrait pas si les frais se rapportaient à une période au-delà des 15 premiers jours.
+7 L’article 62, à mon avis, devrait faire l’objet d’une interprétation libérale. Pour des raisons de politique gouvernementale, cet article permet à un contribuable de déduire certaines dépenses qui seraient autrement considérées comme des frais personnels ou de subsistance. Cette politique vise à favoriser la mobilité de la main-d’oeuvre et puisque l’article n’est pas, à mon avis, tout à fait clair en ce qui concerne la question en litige, une interprétation libérale suivant l’approche téléologique devrait être adoptée.
+8 De plus, comme l’article 62 n’est pas très clair sur la question soulevée, le contribuable devrait, en cas de doute relativement à son interprétation, bénéficier de la présomption résiduelle en sa faveur […]
+[29] Quant à la deuxième exigence, le paragraphe 62(3) de la Loi définit le terme « frais de déménagement ». Les passages de cette disposition qui ont trait aux déplacements sont ainsi libellés :
+62(3) Frais de déménagement -- Pour l’application du paragraphe (1), sont comprises dans les frais de déménagement toutes dépenses engagées au titre :
+a) des frais de déplacement (y compris les dépenses raisonnables pour repas et logement) engagés pour le déménagement du contribuable et des membres de sa maisonnée qui se transportent de l’ancienne résidence à la nouvelle résidence;
+b) des frais de transport et d’entreposage des meubles du contribuable qui doivent être transportés de son ancienne résidence à sa nouvelle résidence;
+c) des frais de repas et de logement, près de l’ancienne résidence ou de la nouvelle résidence, engagés par le contribuable et les membres de sa maisonnée pendant une période maximale de 15 jours;
+[…]
+il est toutefois entendu que le terme ne vise pas les frais (autres que les frais visés à l’alinéa f)) engagés par le contribuable pour l’acquisition de sa nouvelle résidence.
+62(3) Definition of “moving expenses” -- In subsection (1), “moving expenses” includes any expense incurred as or on account of
+(a) travel costs (including a reasonable amount expended for meals and lodging), in the course of moving the taxpayer and members of the taxpayer’s household from the old residence to the new residence,
+(b) the cost to the taxpayer of transporting or storing household effects in the course of moving from the old residence to the new residence,
+(c) the cost to the taxpayer of meals and lodging near the old residence or the new residence for the taxpayer and members of the taxpayer’s household for a period not exceeding 15 days,
+. . .
+but, for greater certainty, does not include costs (other than costs referred to in paragraph (f)) incurred by the taxpayer in respect of the acquisition of the new residence.
+[30] La Loi autorise, en application de l’alinéa 62(3)a) de la Loi, une déduction des dépenses engagées au titre des frais de déplacement – y compris les frais de repas et de logement – engagés pour le déménagement du contribuable et des membres de sa maisonnée qui se transportent de l’ancienne résidence à la nouvelle résidence.
+[31] La Loi autorise également, en application de l’alinéa 62(3)c) de la Loi, une déduction générale des dépenses engagées au titres des frais de repas et de logement, près de l’ancienne résidence ou de la nouvelle résidence d’un contribuable pendant une période maximale de 15 jours.
+[32] Certes, les frais de déplacement pour lesquels la déduction est demandée en application de l’alinéa 62(3)a) de la Loi doivent avoir été engagés pour le déménagement de l’ancienne résidence à la nouvelle résidence. Néanmoins, les exigences prévues à l’alinéa 62(3)c) de la Loi sont tout à fait indépendantes de celles prévues à l’alinéa 62(3)a) de la Loi. En réalité, les déductions demandées au titre de frais de déménagement en application de l’alinéa 62(3)c) de la Loi peuvent être demandées en plus de toutes déductions demandées en application de l’alinéa 62(3)a) de la Loi ou de toute autre déduction demandée en application du paragraphe 62(3) de la Loi. Limitées à une période maximale de 15 jours, les dépenses dont la déduction est demandée en application de l’alinéa 62(3)c) de la Loi n’ont qu’à avoir été engagées au titre de frais de repas et de logement, près de l’ancienne résidence ou de la nouvelle résidence du contribuable.
+[33] Si l’exigence selon laquelle les dépenses doivent être engagées « pour » le déménagement était incorporée à l’alinéa 62(3)c) de la Loi, il y aurait une redondance entre cet alinéa et l’alinéa 62(3)a) de la Loi – qui prévoit déjà la déduction des frais de repas et de logement engagés pour le déménagement – ce qui ferait de l’alinéa 62(3)c) de la Loi une composante de l’alinéa 62(3)a) de la Loi. Il convient de souligner qu’on aboutirait à un résultat plus logique si on gardait le sens ordinaire du terme et si on interprétait l’alinéa 62(3)a) de la Loi dans le sens où il autorise la déduction de tous les frais de déplacement engagés pour le déménagement proprement dit, et l’alinéa 62(3)c) de la Loi dans le sens où il autorise la déduction d’autres frais de repas et de logement engagés près de l’ancienne résidence ou de la nouvelle résidence, des frais tels que ceux qui sont souvent engagés pour la recherche d’une nouvelle résidence, pour s’installer dans une résidence ou pour quitter une résidence avant le déménagement proprement dit.
+[34] Pour justifier sa position, l’intimée a invoqué l’interprétation que la Cour d’appel fédérale a faite de l’alinéa 62(3)d) de la Loi dans Séguin v. R., [1998] 2 C.T.C. 13 (affichée sur le site Web de CanLII). Comme le reconnaît l’intimée, le libellé du paragraphe 62(1) de la Loi a été modifié en 1998, après la décision rendue dans Séguin. L’alinéa 62(3)c) de la Loi n’est pas comparable à la disposition examinée par la Cour d’appel fédérale dans cette affaire‑là. Il est évident que la modification du libellé du paragraphe 62(1) de la Loi en est une de fond, ce qui fait que l’interprétation que la Cour d’appel fédérale a faite de l’article 62 de la Loi dans Séguin n’est nullement applicable à l’alinéa 62(3)c) de la Loi dans sa forme actuelle.
+[35] Les passages pertinents de la Loi interprétés par la Cour d’appel fédérale dans Séguin sont ainsi libellés :
+62(1) Frais de déménagement -- Lorsqu’un contribuable a, à une date quelconque, commencé
+a) à exploiter une entreprise ou à être employé dans un lieu au Canada (dans le présent paragraphe appelé son nouveau lieu de travail), ou
+[...]
+et a, de ce fait, déménagé d’une résidence au Canada […] il peut déduire, dans le calcul de son revenu pour l’année d’imposition dans laquelle il a déménagé de son ancienne résidence pour venir occuper sa nouvelle résidence, ou pour l’année d’imposition suivante, les sommes qu’il a payées à titre ou au titre des frais de déménagement engagés pour déménager de son ancienne résidence pour venir occuper sa nouvelle résidence
+[...]
+(3) Définition de « frais de déménagement » -- Dans le paragraphe (1), « frais de déménagement » comprend toutes dépenses engagées à titre ou au titre
+a) de frais de déplacement (y compris les dépenses raisonnables pour repas et logement) engagés pour déménagement du contribuable et des membres de sa maisonnée, qui se transportent de l’ancienne résidence à la nouvelle résidence du contribuable,
+b) de frais de transport et d’entreposage des meubles du contribuable qui doivent être transportés de son ancienne résidence dans sa nouvelle résidence,
+c) de frais de repas et de logement, près de l’ancienne résidence ou de la nouvelle résidence, engagés par le contribuable et les membres de sa maisonnée pendant une période maximale de 15 jours,
+d) de frais de résiliation du bail, si bail il y a, en vertu duquel il était le locataire de son ancienne résidence,
+[Non souligné dans l’original.]
+62(1) Moving expenses -- Where a taxpayer has, at any time, commenced
+(a) to carry on a business or to be employed at a location in Canada (in this subsection referred to as "the new work location"), or
+. . .
+and by reason thereof has moved from the residence in Canada . . . in computing the taxpayer’s income for the taxation year in which the taxpayer moved from the old residence to the new residence or for the immediately following taxation year, there may be deducted amounts paid by him as or on account of moving expenses incurred in the course of moving from his old residence to his new residence
+. . .
+(3) Definition of "moving expenses" -- In subsection (1), "moving expenses" includes any expense incurred as or on account of
+(a) traveling costs (including a reasonable amount expended for meals and lodging), in the course of moving the taxpayer and members of the taxpayer’s household from the old residence to the new residence,
+(b) the cost to the taxpayer of transporting or storing household effects in the course of moving from the old residence to the new residence,
+(c) the cost to the taxpayer of meals and lodging near the old residence or the new residence for the taxpayer and members of the taxpayer’s household for a period not exceeding 15 days,
+(d) the cost to the taxpayer of cancelling the lease by virtue of which the taxpayer was the lessee of the old residence,
+[Emphasis added.]
+[36] Voici le raisonnement présenté par la Cour d’appel fédérale lors de l’interprétation des termes du paragraphe 62(1) de la Loi :
+7 Ce que permet l’article 62, dans le cadre de son premier paragraphe, est la déduction par le contribuable des sommes
+62(1) [...] payées à titre ou au titre des frais de déménagement engagés pour déménager de son ancienne résidence pour venir occuper sa nouvelle résidence.
+62(1) ... paid by him as or on account of moving expenses incurred in the course of moving from his old residence to his new residence
+8 Selon le sens ordinaire des mots employés, sont inclus dans la disposition les frais engagés pour déménager physiquement, pour changer de résidence, de même que certains autres frais qui se rapportent directement au déménagement et à la réinstallation proprement dits [10] [...]
+[37] Il ressort clairement de la formulation des dispositions de la Loi citées ci‑dessus que le paragraphe 62(1) de la Loi comportait un libellé introductif qui limitait de manière directe les déductions subséquentes autorisées aux frais « engagés pour déménager ». La Cour d’appel fédérale a analysé correctement le sens ordinaire des termes utilisés, et a limité la déduction demandée par le contribuable à de tels frais.
+[38] Toutefois, en 1998, quelques mois après que la Cour d’appel fédérale a prononcé oralement ses motifs, il a été proposé dans le budget fédéral de 1998 plusieurs modifications au libellé de l’article 62 « pour clarifier le traitement fiscal des frais de déménagement »[11]. Les modifications proposées ont été adoptées peu de temps après.
+[39] Les dispositions pertinentes de la Loi, dans sa version modifiée, sont maintenant ainsi libellées :
+62(1) Frais de déménagement -- Un contribuable peut déduire dans le calcul de son revenu pour une année d’imposition les sommes qu’il a payées au titre des frais de déménagement engagés relativement à une réinstallation admissible dans la mesure où, à la fois :
+[…]
+62(3) Frais de déménagement -- Pour l’application du paragraphe (1), sont comprises dans les frais de déménagement toutes dépenses engagées au titre :
+a) des frais de déplacement (y compris les dépenses raisonnables pour repas et logement) engagés pour le déménagement du contribuable et des membres de sa maisonnée qui se transportent de l’ancienne résidence à la nouvelle résidence;
+[…]
+c) des frais de repas et de logement, près de l’ancienne résidence ou de la nouvelle résidence, engagés par le contribuable et les membres de sa maisonnée pendant une période maximale de 15 jours;
+[…]
+248(1) Définitions -- Les définitions qui suivent s’appliquent à la présente loi.
+[…]
+« réinstallation admissible »
+« réinstallation admissible » Réinstallation d’un contribuable relativement à laquelle les conditions suivantes sont réunies:
+a) elle est effectuée afin de permettre au contribuable :
+(i) soit d’exploiter une entreprise ou d’occuper un emploi à un endroit au Canada (appelé « nouveau lieu de travail » à l’article 62 et au présent paragraphe),
+[Non souligné dans l’original.]
+62(1) Moving expenses -- There may be deducted in computing a taxpayer’s income for a taxation year amounts paid by the taxpayer as or on account of moving expenses incurred in respect of an eligible relocation, to the extent that
+. . .
+62(3) Definition of “moving expenses” -- In subsection (1), “moving expenses” includes any expense incurred as or on account of
+(a) travel costs (including a reasonable amount expended for meals and lodging), in the course of moving the taxpayer and members of the taxpayer’s household from the old residence to the new residence,
+. . .
+(c) the cost to the taxpayer of meals and lodging near the old residence or the new residence for the taxpayer and members of the taxpayer’s household for a period not exceeding 15 days,
+. . .
+248 (1) Definitions -- In this Act,
+. . .
+“eligible relocation”
+“eligible relocation” means a relocation of a taxpayer where
+(a) the relocation occurs to enable the taxpayer
+(i) to carry on a business or to be employed at a location in Canada (in section 62 and this subsection referred to as “the new work location”), or
+[Emphasis added.]
+[40] Mis à part le fait que les exigences contenues à l’article 62 de la Loi ont été transférées et se retrouvent maintenant dans la définition du terme « réinstallation admissible » à l’article 248(1) de la Loi, une seule modification de fond a été apportée aux parties pertinentes de l’article 62 de la Loi. Au paragraphe 62(1) de la Loi, le libellé précis interprété par la Cour d’appel fédérale, à savoir « engagés pour déménager de son ancienne résidence pour venir occuper sa nouvelle résidence », a été supprimé pour être remplacé par « engagés relativement à une réinstallation admissible » [12].
+[41] La Cour suprême du Canada donnait l’explication suivante dans Nowegijick c. La Reine, [1983] 1 R.C.S. 29 (affichée sur le site Web de CanLII) :
+[...] les mots « quant à » ont la portée la plus large possible. Ils signifient, entre autres, « concernant », « relativement à » ou « par rapport à ». Parmi toutes les expressions qui servent à exprimer un lien quelconque entre deux sujets connexes, c’est probablement l’expression « quant à » qui est la plus large[13].
+[42] Le législateur n’a pas simplement reformulé l’exigence selon laquelle les frais dont la déduction est demandée en application de l’article 62 de la Loi doivent être engagés pour déménager; il a complètement éliminé l’exigence et l’a remplacée par des mots ayant la portée la plus large possible parmi toutes les expressions qui servent à exprimer un lien quelconque entre deux sujets connexes. Bien qu’une modification plus subtile du libellé du paragraphe 62(1) de la Loi aurait pu donner lieu à un débat, la formulation choisie ne laisse aucun doute quant à l’intention du législateur d’élargir considérablement la portée de l’article 62 de la Loi.
+[43] Comme le paragraphe 62(1) de la Loi sert de fondement aux diverses déductions dont il est question dans la définition du terme « frais de déménagement » au paragraphe 62(3) de la Loi, la modification a une incidence importante sur l’étendue des déductions autorisées par plusieurs alinéas – l’un d’eux étant l’alinéa 62(3)c) de la Loi. Contrairement à l’alinéa 62(3)a) de la Loi, l’alinéa 62(3)c) de la Loi ne comporte pas ce qui était auparavant une deuxième déclaration de l’exigence « pour le déménagement ». Ainsi, l’élimination de cette exigence du paragraphe 62(1) de la Loi permet au contribuable de demander une déduction pour toutes dépenses engagées au titre des frais de repas ou de logement, du moment qu’elles se rapportent d’une manière générale à la « réinstallation admissible » – en l’espèce, pour le nouvel emploi de l’appelant. Comme il a été souligné précédemment, le lien entre les frais de repas et de logement engagés par l’appelant et l’emploi de l’appelant auprès de la TD n’est pas contesté.
+[44] À la lumière de ce qui précède, l’appelant a partiellement gain de cause, étant donné qu’il est justifié de lui accorder la déduction des frais de repas et de logement à l’hôtel ARC pour une période supplémentaire de 15 jours en application de l’alinéa 62(3)c) de la Loi. La déduction concernant la période de 15 jours devrait être accordée en plus de celle concernant la période de trois jours pour laquelle l’appelant a demandé une déduction dans sa déclaration de revenus pour 2005, étant donné que les dépenses pour ces trois jours sont déductibles en application de l’aliné 62(3)a) de la Loi, parce qu’elles représentent des frais de déplacement engagés pour le déménagement de l’appelant et des membres de sa maisonnée qui se transportent de l’ancienne résidence à la nouvelle résidence.
+[45] L’appel interjeté par l’appelant à l’encontre de la nouvelle cotisation établie pour l’année d’imposition 2004 est rejeté, et l’appel interjeté par l’appelant à l’encontre de la nouvelle cotisation établie pour l’année d’imposition 2005 est accueilli. L’affaire est déférée au ministre pour nouvel examen et nouvelle cotisation conformément aux motifs énoncés ci‑dessus, aucuns dépens n’étant adjugés relativement à l’un ou l’autre appel.
+Signé à Ottawa, Canada, ce 4e jour de janvier 2011.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 24e jour de février 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 2
+No DU DOSSIER DE LA COUR : 2010-265(IT)I
+INTITULÉ : CHRISTOPHER VICKERS c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 13 octobre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 4 janvier 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Marie-France Camiré
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Réponse à l’avis d’appel, au paragraphe 16.
+[2] Transcription, aux pages 5 à 7 et 16 à 19.
+[3] Au paragraphe 19.
+[4] Au paragraphe 9. Comme l’a confirmé la juge Woods dans Emery c. La Reine, 2003 CC 568, au paragraphe 18. (procédure informelle) (affichée sur le site Web de CanLII).
+[5] Ibidem, au paragraphe 8.
+[6] Au paragraphe 12.
+[7] Aux paragraphes 41 à 44.
+[8] Transcription, à la page 44.
+[9] Observations écrites de l’intimée, au paragraphe 6.
+[10] Aux paragraphes 7 et 8.
+[11] Canada. Le budget fédéral, Ottawa, CCH, 1998, p. 84 (24 février 1998).
+[12] Le premier passage entre guillemets avait été souligné par la Cour d’appel fédérale.
+[13] À la page 39.

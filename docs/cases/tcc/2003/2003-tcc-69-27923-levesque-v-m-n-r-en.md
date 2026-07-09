@@ -1,0 +1,169 @@
+---
+title: "Levesque v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27923/index.do"
+last_modified: "2003-02-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 69"
+citation2: ""
+neutral_citation: "2003 TCC 69"
+decision_date: "2003-02-25"
+language: "en"
+item_id: "27923"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1706
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:30:40.538000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8c47cbeeac7d47a5813b5ed796d51b0e7f070f3e9b08df5c2b952123123e1961"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Levesque v. M.N.R.
+
+- Citation: 2003 TCC 69
+- Decision date: 2003-02-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1706, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Levesque v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-02-25
+Neutral citation
+2003 TCC 69
+File numbers
+2002-962(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-962(EI)
+BETWEEN:
+MONIQUE LEVESQUE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE
+Respondent.
+_______________________________________________________________
+Appeal heard on December 17, 2002 in Bathurst, New Brunswick
+Before: The Honourable Judge François Angers
+Appearances:
+Agent for the Appellant:
+Prisca Levesque
+Counsel for the Respondent:
+Stéphanie Côté
+_______________________________________________________________
+JUDGMENT
+The appeal concerning the period from May 3, 1999 to March 17, 2000 is allowed and the Minister's decision is vacated, in accordance with the attached Reasons for Judgment.
+The appeal concerning the period from February 19 to June 29, 2001 is dismissed and the Minister's decision is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 25th day of February 2003.
+"François Angers"
+J.T.C.C.
+Citation: 2003TCC69
+Date: 20030225
+Docket: 2002-962(EI)
+BETWEEN:
+MONIQUE LEVESQUE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Angers, J.T.C.C.
+[1] The appellant has appealed from a decision by the Minister of National Revenue ("the Minister") that her employment by Levesque Mécanique Inc. ("the payor corporation") from May 3, 1999 to March 17, 2000 and from February 19 to June 29, 2001 ("the periods at issue") was not insurable under the Employment Insurance Act ("the Act") since the appellant and the payor corporation were not dealing with each other at arm's length within the meaning of paragraph 5(2)(i) of the Act.
+[2] In reaching his decision, the Minister relied on the following assumptions of fact, the truth of each of which was admitted or denied as indicated below:
+(a) the payor corporation was incorporated on or around October 11, 1991; its sole shareholder is the appellant's spouse; (admitted)
+(b) on December 10, 1991, with her spouse, the appellant was a guarantor for a loan in the amount of $105,000 negotiated on behalf of the payor corporation; (admitted)
+(c) since February 16, 2000, the appellant has been a co-signor for a line of credit in the amount of $25,000 on behalf of the payor corporation; (admitted)
+(d) the payor corporation's business is a service station, specializing in mechanical work and also operating gasoline pumps; (admitted)
+(e) the appellant's duties were to help her spouse by being responsible for the bookkeeping, accounts payable and accounts receivable, answering the telephone, running errands, preparing and making the bank deposits, preparing the pump attendants' work schedules, and pumping gasoline herself if necessary; (admitted, since the period at issue)
+(f) the appellant performed similar duties for the payor corporation starting in 1991, without being paid from 1992 to 1998, and without being on the payor corporation's payroll; (admitted)
+(g) the appellant continued to perform similar duties outside the periods at issue without being on the payor corporation's payroll; (denied)
+(h) the payor corporation issued cheques to the appellant both during and outside the periods at issue; (denied)
+(i) the appellant and her spouse shared the income or wages received from the payor corporation as follows:
+· $300 per week each if they were both paid;
+· $600 per week for the appellant if she was the only one of the two to be paid;
+· $500 or $600 per week for the appellant's spouse if he was the only one of the two to be paid;
+(denied)
+(j) neither the appellant nor the payor corporation recorded the appellant's hours of work, although her wages were based on a 40-hour work week; (denied)
+(k) the appellant's services were required both during and outside the periods at issue; (denied)
+(l) the appellant and the payor corporation are related persons within the meaning of the Income Tax Act; (admitted)
+(m) the appellant and the payor corporation are not dealing with each other at arm's length; (admitted)
+(n) having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is not reasonable to conclude that the appellant and the payor corporation would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length. (denied)
+[3] The appellant explained that, during the first period at issue, she worked as an accounting clerk for the payor corporation. Her duties were to be responsible for the bookkeeping, to prepare the payor corporation's bank deposits, to answer the telephone, and to serve the customers. She was paid $300 per 40‑hour work week.
+[4] During the second period at issue, the appellant was required to take over the duties of her spouse (who was also employed by the payor corporation) in addition to her own duties. For all practical purposes, she was responsible for everything. She stated that her additional duties were to be responsible for the employees' pays and work schedules, to prepare the invoices, to drop off customers, to negotiate the cost of repairs, and to approve credit to customers. She was required to check the estimates prepared by the employees and to order the parts required for repairs. During this second period, she was paid $600 per 40‑hour work week. She acknowledged that, during the two periods at issue, it happened that she worked overtime without being paid, even though her work schedule was from 8:00 a.m. to 5:00 p.m.
+[5] The appellant explained that the work she did during the second period at issue became necessary because her spouse had sciatalgia and was nearly always absent from work or hardly ever went to work. She explained that she was hired because she was familiar with the operations of the payor corporation's business and because it would have been more expensive to hire someone else. She considered her wages of $600 per week fully justified.
+[6] The appellant stated that, outside the periods at issue, she helped her spouse balance the cash, prepare the bank deposits, and collect the accounts receivable. She performed these duties without being paid. This point became relevant in explaining why the deposit slips for some cheques deposited outside the periods at issue referred to the appellant. The appellant explained this procedure by noting that she cashed her family allowance cheque at the payor corporation, which then deposited the cheque.
+[7] On her two applications for employment insurance (Exhibit A‑4), the appellant indicated that lack of work was the reason her employment ended. She explained that, when she was not working, her spouse was able to do all the work. She added that, when she returned to work after a period of absence, she had a great deal of work to do in bringing the payor corporation's affairs up to date.
+[8] Under cross-examination, the appellant explained that the payor corporation employed two mechanics, as well as young persons hired to pump gasoline in the evenings and on weekends. She acknowledged that, on February 16, 2000, she was a co-signor for the payor corporation's line of credit in the amount of $25,000 and that, in 1991, she was a guarantor for a loan taken out by the payor corporation in the amount of $105,000. She holds no shares in the payor corporation and does not sit on its board of directors. She acknowledged that her overtime is not recorded and that she is paid for a 40-hour work week. The other employees are paid on an hourly basis. Only the persons who pump gasoline are paid overtime. The two mechanics are the only employees who receive paid statutory holidays or paid vacation leave.
+[9] The respondent called Germaine Landry, an Appeals Officer for the Canada Customs and Revenue Agency, as a witness. Ms Landry adduced her report (Exhibit I‑2) and explained how she carried out her investigation. She interviewed the appellant and the representative of the payor corporation by telephone and by correspondence. She also examined the documentation, particularly the payor corporation's minute book, the 1999 general ledger, the bank deposits, the appellant's pay cheques, the persons authorized by the payor corporation to sign for banking purposes, the 1999 financial statements, and the payor corporation's gross monthly income for the purposes of the quarterly Harmonized Sales Tax remittances.
+[10] This examination allowed Ms Landry to conclude that the payor corporation's gross monthly income was steady during 1999 and 2000 and dropped slightly in 2001, a situation that, according to the payor corporation, was caused by an increase in the price of gasoline. The business was open seven days per week including evenings; its hours of business varied depending on the day of the week.
+[11] Ms Landry also stated that during her interviews with the appellant and the representative of the payor corporation they explained that their wages were $300 per week each when they were both paid, being careful to point out that more income tax was payable when only one person earned $600 per week. However, they were unable to explain why the appellant's spouse's wages were $500 per week from October 2000 to February 2001.
+[12] Ms Landry's investigation also showed that the appellant prepared the payor corporation's bank deposits outside her periods of employment, and that it happened that she cashed her family allowance and employment insurance cheques at the payor corporation. It also happened that she was paid by the payor corporation for cleaning work, without being on the payroll; the appellant did cleaning work early in 1999, before the first period at issue.
+[13] The other employees' wages vary from $320 per week for an apprentice mechanic to $600 per week for the mechanic.
+[14] In 1991, the appellant worked for the payor corporation and was paid by it. As well, from 1992 to 1998, she worked for the payor corporation for five hours per week, without being paid. The appellant considered that the work she did at her home constituted work for the payor corporation, since at that time the payor corporation's offices were located at her home.
+[15] On the appellant's Record of Employment, the payor corporation explained that the reasons the appellant's employment ended the first time, on March 17, 2000, were not only a lack of work but also a cash flow problem. The reasons her employment ended the second time were the fact that her spouse returned to work from March 19, 2000 to February 10, 2001 and the fact that the payor corporation was not making a profit.
+Law
+[16] Before considering whether the Minister's decision was justified, I must ask myself whether that decision resulted from the proper exercise of the Minister's discretionary authority. Did the Minister act in bad faith or for an improper purpose? Did the Minister fail to take into account all of the relevant circumstances, or did the Minister take into account an irrelevant factor? Unless I find that the Minister exercised his discretionary authority improperly, I have no jurisdiction to determine whether, having regard to all the circumstances, it is reasonable to conclude that the employer and the employee would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length (see Canada v. Jencan Ltd. (C.A.), [1998] 1 F.C. 187.
+[17] The onus is on the appellant to establish that, in applying the provisions of paragraph 5(3)(b) of the Act, the Minister exercised his discretionary authority improperly.
+[18] In accordance with Jencan, before this Court can intervene in this case, the appellant must establish that the Minister took into account irrelevant factors or acted in bad faith. In this case, the evidence adduced leads me to conclude that the Minister analysed the two periods at issue without actually distinguishing between them. Not only the pay but also the payor corporation's needs were different during the second period since the appellant was hired to replace her spouse, who was on sick leave.
+[19] In my opinion, the fact that the worker was a guarantor for the loan and a co-signor for the line of credit for the payor corporation is not a relevant factor that must be taken into account unless it can be linked to an obligation in the contract of service. Being a guarantor for the payor corporation's loan and a co‑signor for its line of credit was required of the appellant in her capacity as the spouse of the shareholder in the payor corporation, not in her capacity as an employee. There is no evidence that the appellant's employment was treated differently from that of an employee at arm's length because of the fact that she was a guarantor for the loan and a co-signor for the line of credit. Furthermore, the fact that she gained experience with the payor corporation for nearly seven years on a voluntary basis does not prevent the employer from entering into an employment contract with a person not at arm's length who meets the requirements of paragraph 5(3)(b) of the Act. In other words, a person not dealing with the employer at arm's length may work on a voluntary basis and subsequently be hired and have insurable employment, if that person meets the requirements of the Act. The Minister should not take such a situation into account unless it is possible to establish a direct link with the terms and conditions of the employment.
+[20] For these reasons, I find that the appellant has established on a balance of probabilities that the Minister exercised his discretionary authority improperly, and that I may review the facts and reach my own conclusion on the basis of those facts.
+[21] Concerning the second period at issue, from May 3, 1999 to March 17, 2000, I find, as did the Appeals Officer, that the appellant's wages of $300 per week were not excessive. As I mentioned earlier, even though the appellant worked on a voluntary basis before the period at issue, that factor did not prevent the payor corporation from hiring her and paying her for her services. It is clear that her work was essential to the business and that the payor corporation could justify hiring someone to do it. The appellant worked a 40-hour work week; even if it happened that she worked after her working hours, the evidence has not established that she did so continually.
+[22] There is nothing particular in the terms and conditions of employment during the first period at issue that could allow me to find that the appellant was apparently treated differently because she was not dealing with the employer at arm's length. Statutory holidays are compulsory for all employees, and the appellant is entitled to them. The responsibilities she assumed were necessary to the business; the payor corporation was required to stop paying her wages because of lack of funds. The appellant worked for a period of 46 weeks, which refutes the argument that the period of employment was used solely to make her eligible for unemployment insurance benefits.
+[23] It is true that the appellant's work was necessary to the business. That said, I accept that under the circumstances the payor corporation was justified in no longer paying her wages. The same thing would probably have happened to an employee at arm's length, and the payor corporation would then have relied on the appellant's doing the work on a voluntary basis. Concerning the first period at issue, I find that, having regard to all the circumstances, the appellant and the payor corporation would have entered into a similar employment contract if they had been dealing with each other at arm's length. The appeal concerning the first period at issue is allowed.
+[24] Concerning the second period at issue, from February 19 to June 29, 2001, I cannot make the same finding. The evidence has shown that the work piled up until the appellant returned, since she stated that she had a great deal of work to do in bringing the payor corporation's affairs up to date. She was hired in order to replace her spouse, who was absent on sick leave, and also because she was familiar with the operations of the business. During the second period at issue, her wages were doubled on the ground that she was required to assume double the responsibility. However, the evidence has established that she was hired only to replace her spouse, not to continue doing her own work. Her spouse received $500 per week, but she was paid $600 per week to do the same work.
+[25] Her job was to run the business; her role was more that of a boss or a partner than that of an employee. Thus there is no doubt that her employment was different from that of the other employees. The importance of her responsibilities, the nature of her duties, and the fact that she continued to work before and after the second period at issue mean that the parties would not have entered into a similar employment contract if they had been dealing with each other at arm's length. During this period, the appellant did her spouse's work and her own work during the hours established for doing only one of these jobs. If the appellant and the payor corporation had been dealing with each other at arm's length, assuming these responsibilities would have been impossible under the agreed-upon terms and conditions. The appellant's employment during the second period at issue is therefore not insurable. Accordingly, the appeal concerning the second period at issue is dismissed.
+Signed at Edmundston, New Brunswick, this 25th day of February 2003.
+"François Angers"
+J.T.C.C.
+CITATION:
+2003TCC69
+COURT FILE NO.:
+2002-962(EI)
+STYLE OF CAUSE:
+MONIQUE LEVESQUE
+and the Minister of National Revenue
+PLACE OF HEARING:
+Bathurst, New Brunswick
+DATE OF HEARING:
+December 17, 2002
+REASONS FOR JUDGMENT BY:
+The Honourable Judge François Angers
+DATE OF JUDGMENT:
+February 25, 2003
+APPEARANCES:
+For the Appellant:
+Prisca Levesque
+For the Respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

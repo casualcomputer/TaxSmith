@@ -1,0 +1,158 @@
+---
+title: "Riley c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30842/index.do"
+last_modified: "2012-06-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 208"
+citation2: ""
+neutral_citation: "2012 CCI 208"
+decision_date: "2012-06-12"
+language: "fr"
+item_id: "30842"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7401
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:34:13.455000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f1ca44a4d5795ab397588c2dab3e0cbdb7a4ca325109abbf78f37fa911eedd61"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Riley c. La Reine
+
+- Citation: 2012 CCI 208
+- Decision date: 2012-06-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7401, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Riley c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-06-12
+Référence neutre
+2012 CCI 208
+Numéro de dossier
+2012-617(IT)APP
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012‑617(IT)APP
+ENTRE :
+HAROLD RILEY,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 14 mai 2012 à London (Ontario)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentante du requérant :
+Mme Valerie Machan
+Avocate de l’intimée :
+Me Serena Sial
+____________________________________________________________________
+ORDONNANCE
+La demande du requérant pour que soit prorogé le délai de signification des avis d’opposition concernant les cotisations établies à son égard pour les années d’imposition 2001, 2002 et 2003 est rejetée, sans dépens.
+Signé à Halifax (Nouvelle‑Écosse), ce 12e jour de juin 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 23e jour de juillet 2012.
+S. Tasset
+Référence : 2012CCI208
+Date : 20120612
+Dossier : 2012‑617(IT)APP
+ENTRE :
+HAROLD RILEY,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Webb
+[1] Le requérant a présenté une demande au titre de l’article 166.2 de la Loi de l’impôt sur le revenu (la « Loi ») pour que soit prorogé le délai de signification des avis d’opposition à l’égard des cotisations établies à son intention pour les années d’imposition 2001, 2002 et 2003.
+[2] Les cotisations du requérant se rapportant à ces années d’imposition ont été établies aux dates suivantes :
+Année d’imposition
+Date de la cotisation
+2001
+22 avril 2002
+2002
+10 avril 2003
+2003
+10 mai 2004
+[3] Le requérant aurait signifié un avis d’opposition à l’égard des cotisations établies pour ces trois années d’imposition le 22 septembre 2011. Le ministre a considéré cette opposition comme une demande de prorogation du délai pour la signification d’un avis d’opposition, mais, comme la demande a été faite bien après l’échéance fixée, elle n’a pas été accueillie. Le requérant a ensuite fait la présente demande en vertu de l’article 166.2 de la Loi.
+[4] Le paragraphe 166.2(5) de la Loi prévoit ce qui suit :
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour signifier l’avis ou présenter la requête, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+[5] La demande présentée au titre du paragraphe 166.1(1) de la Loi est adressée au ministre en vue d’obtenir une prorogation du délai de signification de l’avis d’opposition : c’est ce qu’a fait en l’occurrence le requérant le 22 septembre 2011. Le délai dans lequel un tel avis peut être signifié (sans qu’une prorogation de délai ne soit accordée) est précisé au paragraphe 165(1) de la Loi. Cette disposition prévoyait, avant le 15 décembre 2010[1] :
+165(1) Le contribuable qui s’oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d’opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants :
+a) lorsqu’il s’agit d’une cotisation relative à un contribuable qui est un particulier [...] pour une année d’imposition, au plus tard le dernier en date des jours suivants :
+(i) le jour qui tombe un an après la date d’échéance de production qui est applicable au contribuable pour l’année,
+(ii) le 90e jour suivant la date de mise à la poste de l’avis de cotisation;
+b) dans les autres cas, au plus tard le 90e jour suivant la date d’envoi de l’avis de cotisation.
+[6] La demande de prorogation du délai de signification de l’avis d’opposition n’a pas été présentée dans l’année suivant l’échéance fixée par la Loi pour l’une ou l’autre des cotisations susmentionnées; elle n’a été présentée que plusieurs années après le délai prévu par le paragraphe 165(1) de la Loi. Le requérant a fait valoir que le ministre n’avait pas tenu compte des autres conditions énoncées au paragraphe 166.1(7) de la Loi ayant trait aux demandes de prorogation du délai de signification des avis d’opposition adressées au ministre, à savoir :
+166.1(7) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande est présentée dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour signifier l’avis ou présenter la requête, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+[7] Les conditions énoncées à l’alinéa 166.1(7)b) de la Loi (relativement aux demandes de prorogation du délai de signification des avis d’opposition adressées au ministre) sont identiques à celles qui sont prévues à l’alinéa 166.2(5)b) (en ce qui concerne les demandes de prorogation du délai de signification des avis d’opposition adressées à la Cour). Cependant, que la demande soit présentée au ministre ou à la Cour, les conditions prévues aux alinéas a) et b) des paragraphes 166.1(7) ou 166.2(5) de la Loi doivent être remplies; si la condition énoncée à l’alinéa a) du paragraphe applicable n’est pas respectée, la demande de prorogation du délai de signification d’un avis d’opposition ne peut pas être accueillie, que les conditions prévues à l’alinéa b) soient satisfaites ou non. Par conséquent, dès qu’il est établi que les conditions énoncées aux alinéas 166.1(7)a) et 166.2(5)a) de la Loi ne sont pas remplies, il n’est pas nécessaire de se demander si celles qui sont prévues par les alinéas 166.1(7)b) et 166.2(5)b) le sont.
+[8] Malheureusement, le pouvoir discrétionnaire de proroger les délais prévus par la Loi n’existe pas, et les dispositions du paragraphe 166.2(5) de la Loi précisent bien que la Cour ne peut faire droit à aucune demande si les exigences des alinéas a) et b) ne sont pas remplies. En l’espèce, le requérant n’a pas satisfait aux conditions de l’alinéa 166.2(5)a) de la Loi.
+[9] Par conséquent, la demande présentée par le requérant en vue de proroger le délai de signification des avis d’opposition concernant les cotisations établies à son égard pour les années d’imposition 2001, 2002 et 2003 est rejetée, sans dépens.
+Signé à Halifax (Nouvelle‑Écosse), ce 12e jour de juin 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 23e jour de juillet 2012.
+S. Tasset
+RÉFÉRENCE : 2012CCI208
+No DU DOSSIER DE LA COUR : 2012‑617(IT)APP
+INTITULÉ : HAROLD RILEY ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 14 mai 2012
+MOTIFS DE L’ORDONNANCE : L’honorable juge Wyman W. Webb
+DATE DE L’ORDONNANCE : Le 12 juin 2012
+COMPARUTIONS :
+Représentante du requérant :
+Mme Valerie Machan
+Avocate de l’intimée :
+Me Serena Sial
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa (Canada)
+[1] À partir du 15 décembre 2010, le mot « envoi » a remplacé l’expression « mise à la poste ».

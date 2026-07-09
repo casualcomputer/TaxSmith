@@ -1,0 +1,173 @@
+---
+title: "Sears v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29076/index.do"
+last_modified: "2009-02-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 22"
+citation2: ""
+neutral_citation: "2009 TCC 22"
+decision_date: "2009-02-02"
+language: "en"
+item_id: "29076"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6822
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:37:15.706000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d17a595b3a9887edd685f7c37ee6601c076e76d451832dba76dd3ab6ac33a68b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sears v. The Queen
+
+- Citation: 2009 TCC 22
+- Decision date: 2009-02-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6822, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sears v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-02
+Neutral citation
+2009 TCC 22
+File numbers
+2008-1162(IT)I
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1162(IT)I
+BETWEEN:
+MARK D. SEARS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 28, 2008, at Winnipeg, Manitoba
+Before: The Honourable Justice T.E. Margeson
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Melissa Danish
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the Appellant’s 2006 taxation year is dismissed and the Minister’s assessment is confirmed.
+Signed at Ottawa, Ontario, this 2nd day of February 2009.
+“T. E. Margeson”
+Margeson J.
+Citation: 2009TCC22
+Date: 20090202
+Docket: 2008-1162(IT)I
+BETWEEN:
+MARK D. SEARS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Margeson J.
+[1] This appeal is from the Minister’s assessment for the 2006 taxation year in which the Minister denied the Appellant the dependent credit for his child, Jack Sears, in the amount of $7,505. The Notice of Confirmation was dated April 11, 2008.
+Evidence
+[2] The parties agreed that the assumptions of facts as set out in the Reply are correct with the exception that the $100 of arrears for the 2005 taxation year was included in the $13,800 payments made pursuant to the Order in the 2006 year. The Appellant said that he was never in arrears and there was no evidence presented which contradicted that evidence. In any event this assumption was of no significance to the issue in this case.
+[3] The assumptions that were relevant in the Minister’s decision were as follows:
+(a) the Appellant and Mrs. Sears are parents of two boys, Jack and Michael, who were born April 22, 2000 and September 25, 2002 respectively;
+(b) throughout the 2006 taxation year the Appellant and Mrs. Sears lived separate and apart because of a breakdown of the marriage;
+(c) In December 2005, the Queen’s Bench (Family Division) issued a final Order (“Order”) whereby, among other things, the Appellant was required to:
+i. Pay Mrs. Sears, for the support of Jack Sears and Michael Sears, the sum of $860 per month; and
+ii. Pay Mrs. Sear’s spousal support of $350 per month;
+(d) The Appellant made payments pursuant to the Order totalling $13,800 to Mrs. Sears during the 2006 taxation year.
+This was the salient evidence given in the matter.
+[4] The only issue before the Court is whether or not the actions of the Minister, in denying the Appellant’s claimed deduction in the year, under the provisions of subsection 118(5) of the Income Tax Act (“Act”), were a denial of the Appellant’s rights and freedoms or an infringement thereof, as guaranteed by the Canadian Charter of Rights and Freedoms (“Charter”).
+[5] The Minister’s position is that neither the operation of the Act or the assessment has denied or infringed such rights.
+[6] Alternatively, the Minister took the position that if any of the Appellant’s rights and freedoms were denied, infringed or affected by the operation of the Statute or the assessment, such infringement, denial or affection of such rights as guaranteed by sections 7 and 15 of the Charter represent a reasonable limit prescribed by law as can be demonstrably justified in a free and democratic society within the meaning of section 1 of the Charter.
+[7] It was agreed that the Constitutional Question was properly before the Court. The Appellant said that the arguments that he was advancing have never before been dealt with by any court.
+[8] He said that under subsection 15(1) and section 7 of the Charter, everyone is entitled to equal protection and benefit of the law without discrimination. Section 1 of the Charter says that such rights are subject only to reasonable limits as prescribed by law as can be demonstrably justified in a free and democratic society. Subsection 118(5) suffers from vagueness and overbreadth by denying a lifetime of dependent eligibility credit. This cannot be saved by section 1 of the Charter.
+[9] He referred to the case of Re B.C. Motor Vehicle Act, [1985] 2 S.C.R. 486, and argued that such action as here cannot be justified except perhaps in times of war or national emergencies.
+[10] In R. v. Heywood, [1994] 3 S.C.R. 761, the Supreme Court of Canada said that overbreadth legislation, which involves the violation of the principles of fundamental justice cannot be justified. Here is an example of the state imposing legislation that goes too far and it violates section 1 of the Charter. It denies all persons who paid child support.
+[11] He referred to Ontario v. Canadian Pacific Ltd., [1995] 2 S.C.R. 1031, in support of his argument that the law in question in this case was too “vague” when considered within the larger context and not “in abstracto”. This section gives no guidance for legal debate. He suggested that the impugned section imposes a stigma on those taxpayers who are penalized by it. The government creates the image that such parents are different and less deserving than other parents. See Rodriguez v. British Columbia (Attorney General), [1993] 3 S.C.R. 519.
+[12] The fact that parents are treated differently based solely on the fact that they pay support cannot be justified as supporting the principles of fundamental justice under the Charter.
+[13] The case of Blencoe v. British Columbia (Human Rights Commission), 2000 SCC 44, [2000] 2 S.C.R. 307, speaks to the issue of human dignity and the need to have respect for it under the legislation.
+[14] He referred to the case of Cornelius v. The Queen, [2007] T.C.J. No. 592, where Justice Rossiter commented on the “grievous injustice” of this section and in spite of the unfavourable decision given to the taxpayer there, he said that the present arguments were not before the Court in that case as there was no Charter argument made.
+[15] On the question of justification, he referred to R. v. Oakes, [1986] 1 S.C.R. 103, in arguing that for the prescribed law to be reasonably and demonstrably justified in a free and democratic society, it must be of sufficient importance to warrant the overriding of a constitutionally protected right or freedom.
+[16] In accordance with Andrews v. Law Society of British Columbia, [1989] 1 S.C.R. 143, not everyone has to be treated exactly the same but an unreasonable distinction cannot stand.
+[17] In the case at bar, the denial amounts to discrimination either directly or incidentally. This denial rests on one of the grounds enumerated in subsection 15(1) of the Charter or on analogous ground. Here the Appellant argues that he is an “analogous group” being a parent who pays child support. Discrimination on that basis touches the essential dignity and worth of an individual in the same way as other recognized grounds of discrimination which violate fundamental human rights or norms.
+[18] With respect to the remedy to be applied in this case, the section should be struck down or certain reasonable limitations should be read into the section. There are no limits as the section now stands.
+[19] He suggested that the section should allow judges hearing the case to make a favourable decision for the taxpayer where both parents have equal custody or equally support the children.
+[20] He takes his parenting very seriously and he was offended that he could not obtain the same benefit as other parents. The statute is saying that he is not an eligible parent and the children are not eligible children. The appeal should be allowed with costs.
+Argument of the Respondent
+[21] Counsel argued that the plain meaning of subsection 118(5) of the Act is to deny the Appellant the deduction that he seeks because he is required to pay a support amount to his former spouse in respect of the children pursuant to a Court Order as he lived separate and apart from his spouse during the year. Does subsection 118(5) of the Act violate sections 7 and 15 of the Charter?
+[22] It is well‑settled law that this subsection does not violate the Charter. The arguments raised by the Appellant here are not new.
+[23] The case of Nelson v. R., [2000] 4 C.T.C. 252, stands for the proposition that this subsection does not violate the Charter. The facts in that case were not different from the facts here. It decided that the differential treatment created by subsection 118(5) is not based on one of the enumerated grounds found in subsection 15(1) or any analogous ground. The differential treatment was not discriminatory in the Charter sense. This section did not offend the taxpayer’s dignity, intrinsic worthiness or self-respect. Likewise, Calogeracos v. R., 2008 DTC 389 is to the same effect. In that case Justice Webb held the provisions of subsection 118(5) of the Act are clear and are not vague and that section 7 of the Charter does not apply to subsection 118(5). This is not a case dealing with the imprisonment of the Appellant. All of the other cases he referred to were.
+[24] It is not clear that section 7 of the Charter can apply to protect economic rights. Second, even if it could, the Appellant has not shown that the tax refund was necessary for his survival.
+[25] The same issue was canvassed by the Tax Court of Canada in Donovan v. R., [2006] 6 C.T.C. 2041, where Justice Hershfield considered the three broad inquiries as set out by the Supreme Court of Canada in Law, supra, in finding that the Charter was not engaged. In Calogeracos, Giorno and Frégeau, this Court found that the Charter was not engaged on the second inquiry as referred to in Donovan, supra. See Giorno v. R., [2005] 2 C.T.C. 2146 and Frégeau v. R., 2004 DTC 2726.
+[26] Even where courts have considered the third inquiry, (while not conceding that the first two have been met) they have also found that the Charter has not been engaged as in Donovan, supra.
+[27] The comparator group cited by the Appellant was the same one identified by the Federal Court of Appeal in Nelson, supra, namely a single parent who lives with and supports a child in a shared custody arrangement with the child’s other parent but who has no legal obligation to pay child support to the other parent. The Court found that this differential treatment resulting from subsection 118(5) did not constitute discrimination under subsection 15(1) of the Charter.
+[28] There is no merit to the Appellant’s argument that fathers are treated differently under subsection 118(5) than females because they pay support. In Calogeracos, supra, the Court found that this subsection does not draw a distinction between males and females.
+[29] Counsel agrees that on the first inquiry, there is a distinction between the Appellant and the comparator in the sense that the Appellant must pay support in respect to the child for which he claims the credit, but the distinction is not based on a personal characteristic (as is required by the first inquiry).
+[30] Even if the Appellant is correct that he is being treated differently based on a personal characteristic (which is not admitted) the Charter argument fails at the second inquiry level because the differential treatment is not grounded on an enumerated or analogous ground. The obligation to pay child support is based on the level of income, which is not an immutable personal characteristic.
+[31] Since the Charter is not engaged at the second level it is not necessary to go further.
+[32] However the third inquiry is also met here because the burden imposed upon him of being denied the credit must be a stereotypical application of a presumed personal characteristic to have the effect of perpetuating the view that the Appellant, as a custodial supporting parent, is less worthy of recognition as a parent or less deserving of equal respect.
+[33] Being denied the tax credit sought here is not demeaning nor does it indicate that his dignity or self worth as a custodial parent are being attacked.
+[34] The impugned legislation may be based on bad tax policy and hard to defend but it does not perpetuate a negative stereotype in these circumstances.
+[35] The Charter cannot be employed merely because an identifiable group is treated fiscally unfairly. This whole appeal is about protecting against what the Appellant conceives as bad tax policy. It is not about human dignity, it does not demean the Appellant’s merit as a parent. It does not stigmatize supporting custodial parents. His position within Canadian society has not been marginalized by the denial of the tax credit.
+[36] The Charter is not engaged at the level of the third inquiry. Nelson, supra, is binding on this Court and necessitates a finding that subsection 118(5) does not violate the Charter.
+[37] The appeal should be dismissed.
+Analysis and Decision
+[38] The Court does not accept the Appellant’s argument that the issues made manifest in this case have never been considered before. Indeed the cases referred to have dealt with the very same issue, that is whether or not subsection 118(5) of the Act violates the Charter, particularly sections 1, 7 and 15, thereof.
+[39] The Appellant argued that the impugned subsection is too vague and suffers from overbreadth. However the Court is satisfied that this is not the case.
+[40] The provision is anything but vague and it is also relatively limited in its application. It is true that it “catches” a whole group of taxpayers, i.e. those who are parents, who pay child support to the taxpayer’s spouse or common‑law partner, or former spouse or common-law partner, but this is not the broad net that indiscriminately traps unwary taxpayers as the Appellant suggests. Everyone reading the subsection knows immediately what group is being referenced. “The ambit of its application is not difficult to define.” There is “sufficient provision” in the legislation to inform the taxpayer as to who is to be affected by its provisions.
+[41] The Appellant argued that his dignity and worth as a supporting parent were being demeaned by the legislation. The Court rejects that proposition outright.
+[42] The Court is satisfied here that the right sought to be protected is an economic right and as Justice Rothstein opined in Mathew v. R., (2003 FCA 371 (F.C.A.)) “If there is a right at issue in a reassessment in income tax it is an economic right”. He further indicated that there is real issue as to whether section 7 was broad enough to encompass economic rights generally or in particular with respect to income tax reassessments.
+[43] This view was accepted by Justice Webb in Calogeracos, supra, where he found that the refund was not to be used for human survival but to fund a family vacation.
+[44] The Court is satisfied with the discussion set out by counsel for the Respondent in her argument with respect to the three broad inquiries, as set out by the Supreme Court of Canada in Law, supra, and adopts her conclusions in that regard.
+[45] The Court is satisfied that it is bound by the decision of the Federal Court of Appeal in Donovan, supra, and it agrees that there is nothing in the case at bar that distinguishes it from Donovan, supra, and the case necessitates a finding that subsection 118(5) does not violate the Charter.
+[46] The Appellant cannot find much solace in the obiter of Justice Rossiter in Cornelius, B. v. The Queen, Court File 2007-1130(IT)I dated December 6, 2007, whereby he suggested to the Respondent that he recommend to the Minister to make an amendment to the Act so that circumstances similar to those existent here do not occur.
+[47] The appeal in that case was dismissed and in any event it did not deal with the Charter issue as pursued here and in the other cases discussed.
+[48] The appeal is dismissed and the Minister’s assessment is confirmed.
+Signed at Ottawa, Ontario, this 2nd day of February 2009.
+“T. E. Margeson”
+Margeson J.
+CITATION: 2009TCC22
+COURT FILE NO.: 2008-1162(IT)I
+STYLE OF CAUSE: MARK D. SEARS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: November 28, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice T. E. Margeson
+DATE OF JUDGMENT: February 2, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Melissa Danish
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

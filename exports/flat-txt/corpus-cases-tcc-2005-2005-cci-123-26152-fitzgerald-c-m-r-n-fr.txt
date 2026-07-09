@@ -1,0 +1,146 @@
+Title: Fitzgerald c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26152/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-123-26152-fitzgerald-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-02-18
+
+# Fitzgerald c. M.R.N.
+
+- Citation: 2005 CCI 123
+- Decision date: 2005-02-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3950, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fitzgerald c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-18
+Référence neutre
+2005 CCI 123
+Numéro de dossier
+2003-3789(EI)
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Référence : 2005CCI123
+Date : 20050218
+Dossiers : 2003-3789(EI)
+2003-4162(EI)
+2004-493(EI)
+2003-4520(EI)
+ENTRE :
+ROBERT FITZGERALD, WALTER PRESHYON,
+RAYMOND FRICKER ET ELDON SAMPSON,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+à Sydney (Nouvelle‑Écosse), le 9 décembre 2004.)
+Le juge Margeson
+[1] La Cour est saisie en l’espèce des affaires Robert Fitzgerald c. Le ministre du Revenu national, 2003-3789(EI), Walter Preshyon, 2003‑4162(EI), et Raymond Fricker, 2004-493(EI).
+[2] Les périodes durant lesquelles ils auraient exercé un emploi assurable sont indiquées dans les réponses, et ce sont à ces périodes que la Cour s’intéresse.
+[3] La Cour est arrivée sans hésiter à la conclusion que les appels doivent être rejetés parce que c’est ce que les faits dictent assez clairement en l’espèce.
+[4] Deux motifs justifient le rejet de ces appels. En premier lieu, il n’y avait pas de contrat de louage de services entre les parties. S’il y en avait eu, il s’agirait de contrats de convenance conclus uniquement pour profiter des dispositions de la Loi sur l’assurance‑emploi (la « Loi »). Or, ce type de contrats de louage de services n’est pas prévu par la Loi.
+[5] Tout d’abord, la preuve a révélé des faits semblables au cas classique décrit dans l’arrêt Wiebe Door Services Ltd. c. M.R.N.[1]. Il s’agit du cas classique de l’entrepreneur indépendant par opposition au contrat de louage de services.
+[6] Ce type de travail n’impliquait pas nécessairement l’existence d’un contrat de louage de services. Pour qu’un tel contrat existe, il doit y avoir un élément de supervision, de contrôle. Dans la présente affaire et dans les cas où il faut décider s’il existe un contrat d’entreprise ou un contrat de louage de services, la supervision ou le contrôle est souvent le facteur dominant ou déterminant.
+[7] Comme la Cour l’a indiqué dans l’arrêt Wiebe Door, précité, il ne faut pas examiner les facteurs de façon mathématique, les additionner, dire que trois des facteurs sont présents et un autre non et conclure ainsi à l’existence d’un contrat de louage de services. Il faut examiner plutôt tous les facteurs comme s’il s’agissait d’un seul critère composé de quatre parties intégrantes. Un facteur peut peser plus lourd qu’un autre. Je préfère utiliser ce critère en l’espèce plutôt que la règle comprenant quatre critères.
+[8] Comme l’avocate de l’intimé l’a laissé entendre, les travailleurs faisaient l’objet de peu, voire d’aucune supervision en l’espèce. Ils ont établi clairement ce fait. Jamais il n’a été question qu’ils soient supervisés. Même le dernier témoin, M. Fricker, qui n’était pourtant pas un bûcheron expérimenté (sauf qu’il coupait lui‑même son bois) a dit que la supervision ou le contrôle exercé à son égard par la prétendue employeuse était minime, voire inexistant.
+[9] M. Fricker louait la scie à la payeuse, à qui il achetait également l’essence et l’huile. La payeuse disait en gros il y a ici une parcelle de terrain peuplée d’arbres. Vous vous y rendez, vous coupez ces arbres et vous les empilez soigneusement loin des broussailles. Nous viendrons ensuite les ramasser, nous les vendrons et nous vous payerons un certain montant par cordée. C’est tout ce que c’était. Il n’y avait aucune autre supervision exercée à son égard ou à l’égard des autres travailleurs qui étaient des bûcherons expérimentés et qui avaient de toute évidence besoin de moins de supervision que lui.
+[10] Les appelants ont indiqué que la payeuse s’était rendue sur le chantier à plusieurs reprises pour s’assurer qu’ils ne laissaient pas des morceaux de bois et des branches un peu partout, que le chantier était propre, que le bois était empilé et qu’ils étaient en mesure de l’identifier. La Cour est convaincue que la payeuse ne s’est jamais rendue sur les chantiers à d’autres occasions. Il a été impossible de déterminer à partir de la preuve combien de fois elle s’est rendue sur le chantier, mais elle l’a fait à quelques reprises seulement et de manière espacée.
+[11] La Cour a interrogé Walter Preshyon en particulier au sujet de la supervision. M. Preshyon a indiqué qu’il était un bûcheron expérimenté et qu’il n’avait pas besoin d’être supervisé. Il n’était pas nécessaire qu’un contrôle soit exercé à son égard. En outre, la payeuse n’était pas un bûcheron expérimenté. Elle était une femme d’affaires qui savait très peu de choses au sujet de la coupe de bois ou de l’empilage du bois. Elle était avant tout une acheteuse de bois.
+[12] La Cour est convaincue qu’aucune supervision n’était exercée et qu’il n’a jamais été question qu’il en soit autrement. Ce fait est très important en l’espèce. Il s’agit en fait du facteur le plus important. Toute apparence de supervision ayant pu être exercée ne constituait pas une supervision au sens envisagé par l’arrêt Wiebe Door, précité.
+[13] Il ne fait aucun doute que les appelants travaillaient quand ils le voulaient. Il est impossible de savoir avec certitude quand ils travaillaient parce que les relevés ne sont pas crédibles et cohérents. Aucun élément de preuve ne corrobore le témoignage des appelants. Chaque appelant a déclaré, dans son témoignage devant la Cour, que les relevés d’emploi étaient complets et exacts selon eux, mais ces déclarations n’ont pas été corroborées ou expliquées par des documents leur appartenant ou par d’autres documents pouvant justifier la teneur de leur témoignage.
+[14] Après avoir entendu le témoignage de Beverley Campbell, la Cour est convaincue que les relevés ne sont pas exacts ou complets. En dépit de la preuve fournie par les appelants concernant les périodes pendant lesquelles ils ont coupé du bois, les moments auxquels ils ont commencé leur travail et l’ont terminé, la Cour n’est pas en mesure de déterminer à quels moments ils ont travaillé.
+[15] En outre, il n’y a aucun doute qu’ils choisissaient eux‑mêmes leurs heures de travail. Ils décidaient quels jours ils travaillaient et à quelle heure. La payeuse n’avait rien à dire à cet égard.
+[16] Toute interprétation raisonnable de la preuve directe et toutes présomptions raisonnables qu’elle peut tirer de celle‑ci obligent la Cour à conclure que les travailleurs arrêtaient parfois de travailler au milieu de la journée et quand ils le voulaient.
+[17] Certains des travailleurs ont dit qu’ils travaillaient parfois sous la pluie et parfois presque du matin au soir. La Cour estime toutefois que cela est plutôt improbable.
+[18] Quoi qu’il en soit, le travail qu’ils décidaient de faire était du travail de convenance. Ils travaillaient quand ils le voulaient, mais la Cour n’est pas en mesure de déterminer pendant combien de temps ils ont réellement travaillé.
+[19] En ce qui concerne les instruments de travail, tous les travailleurs, à l’exception de M. Fricker, étaient propriétaires de leurs propres instruments. Ils possédaient leurs propres scies. Ils possédaient leurs propres chaînes. Ils possédaient leurs propres limes. Ils fournissaient eux‑mêmes l’essence. Ils fournissaient chaque pièce d’équipement dont ils avaient besoin.
+[20] Dans le cas de M. Fricker, la payeuse retenait les frais sur sa paye avant de lui verser le solde. Tous les autres travailleurs devaient fournir leurs propres instruments de travail, même s’ils pouvaient les avoir achetés à la payeuse.
+[21] En gros, tous les appelants travaillaient à leur compte. Ils étaient des travailleurs autonomes. Ils travaillaient en vertu de contrats d’entreprise comme les ouvriers dans l’arrêt Wiebe Door, précité.
+[22] En outre, ils n’étaient pas rémunérés à l’heure ou à la semaine, mais à la cordée. Ce facteur est également compatible avec l’existence d’un contrat d’entreprise (quoiqu’il ne soit pas déterminant).
+[23] Dans leurs témoignages, les appelants ont toujours fait référence aux heures travaillées, mais il était évident pour eux que les heures ne faisaient aucune différence. Ce facteur était important uniquement aux fins de l’application du Règlement sur l’assurance‑emploi, qui prévoit que les prestations sont calculées en fonction du nombre d’heures plutôt qu’en fonction de l’argent gagné. Or, cela ne change rien en l’espèce parce que personne n’a comptabilisé les heures.
+[24] Un témoin a dit qu’il avait un relevé, mais, malheureusement, il ne l’avait pas avec lui et, en conséquence, il n’a pas été en mesure de corroborer l’information contenue dans le relevé d’emploi.
+[25] Les facteurs relatifs au risque de perte et aux chances de bénéfice sont favorables à l’existence d’un contrat d’entreprise et non à l’existence d’un contrat de louage de services parce que les appelants ont établi très clairement qu’ils pouvaient travailler aussi longtemps qu’ils le voulaient, qu’ils pouvaient arrêter quand ils le voulaient, qu’ils recevaient de 25 à 30 $ la cordée, de sorte qu’ils gagnaient un certain montant s’ils coupaient 50 cordées par jour et un montant plus élevé s’ils en coupaient 60. La décision leur appartenait, et les heures dépendaient manifestement du nombre d’heures qu’ils décidaient de travailler et n’étaient pas fixées par la payeuse. S’ils travaillaient moins, ils recevaient moins d’argent et couraient ainsi un risque de perte.
+[26] Il ne fait aucun doute que le montant d’argent gagné par chaque travailleur n’était pas fonction du nombre d’heures qu’il travaillait, mais du savoir‑faire des bûcherons et des conditions de travail, comme la position des arbres et la présence ou l’absence de broussailles ou d’autres obstacles sur le chantier.
+[27] En ce qui concerne le risque de perte, les appelants partageaient un réel risque de perte parce que le montant d’argent qu’ils gagnaient était considérablement réduit s’ils ne manipulaient pas correctement leurs scies, s’ils ne les gardaient pas bien aiguisées, s’ils utilisaient trop d’huile, trop de limes ou trop d’essence. Ce facteur indique l’existence d’un contrat d’entreprise.
+[28] La Cour est convaincue qu’à la question « à qui appartient l’entreprise? » il faut répondre qu’elle appartient aux travailleurs. L’entreprise se livrait uniquement à la coupe et à l’empilage de bois. Le travail de la payeuse consistait à acheter du bois et à le vendre. Les travailleurs n’avaient rien à voir avec cela. Le travail des appelants ne faisait pas partie intégrante de l’entreprise de la payeuse.
+[29] Les modalités ont une certaine importance. En l’espèce, les travailleurs allaient et venaient à leur guise. Leurs heures de travail n’étaient pas fixées. Ils pouvaient travailler du matin au soir. Il n’y avait ni supervision ni contrôle. Tous ces facteurs révèlent l’existence d’un contrat d’entreprise.
+[30] En outre, si la Cour avait été en mesure de conclure qu’un contrat de louage de services existait, les appelants auraient dû établir le nombre d’heures qu’ils ont travaillées. Or, compte tenu de la preuve qui a été présentée à la Cour, laquelle est crédible, ils ne peuvent pas le faire. Le nombre d’heures de travail et la période de travail ne peuvent être établis avec certitude.
+[31] Les appelants ont répondu de façon évasive, incohérente et non concluante aux questions très précises et incisives qui leur ont été posées au sujet de leurs heures de travail. De plus, leurs réponses contredisaient les autres éléments de preuve présentés.
+[32] Après avoir entendu le témoignage de Mme Campbell, la Cour était convaincue hors de tout doute que les relevés qui ont été produits par les travailleurs n’étaient absolument pas dignes de foi. La Cour est convaincue également que ces relevés ne sont pas conformes aux faits.
+[33] En ce qui concerne la prétendue existence d’un contrat de louage de services, la Cour est plus que convaincue qu’un tel contrat n’existait pas. Ce sont de toute évidence des contrats d’entreprise qui sont en cause en l’espèce.
+[34] En ce qui concerne la deuxième prétention, la Cour est convaincue également que, si un emploi existait, il s’agissait d’un emploi de convenance.
+[35] Il s’agit du type d’emploi dont le juge Tardif parlait dans la décision Laverdière c. Canada (Ministre du Revenu national), [1999] A.C.I. no 124.
+[36] Les faits en l’espèce sont semblables à ceux de cette affaire. Le juge Tardif a dit à la page 7 :
+L’audience a plutôt révélé que les relevés d’emploi émis à partir des registres des salaires étaient façonnés par des considérations diverses, telles les prestations d’assurance‑chômage, des compensations pour éloignement et isolement de l’École de conduite à St‑Pamphile et, aussi, par des primes d’encouragement découlant de la responsabilité du bureau. Le livre des salaires ne reflétait pas la rigueur mathématique devant résulter essentiellement de l’addition des heures réellement travaillées au salaire horaire convenu.
+[37] Le même commentaire peut être formulé à l’égard de la présente affaire.
+[38] Les relevés d’emploi ont été établis de façon à permettre aux travailleurs d’obtenir les prestations les plus avantageuses possible.
+[39] Le juge Tardif a dit au paragraphe 50 :
+Il en est ainsi au niveau de toute entente ou arrangement dont le but et objectif est d’étaler ou cumuler la rémunération due ou [à] être due de manière à tirer avantage des dispositions de la Loi. Toute planification ou entente qui maquille ou altère les faits relatifs à la rétribution, dans le but de maximiser les bénéfices de la Loi, disqualifie le contrat de louage de services.
+[40] Il a ajouté au paragraphe 51 :
+La Loi n’assure que les véritables contrats de louage de services; un contrat de travail dont la rétribution n’est pas fonction de la période d’exécution du travail ne peut être défini comme un véritable contrat de louage de services.
+[41] C’est le problème en l’espèce. Quand le travail a‑t‑il été exécuté? Pendant combien de temps? Les RE et la preuve se contredisent clairement.
+[42] Il n’y a pas de véritable contrat de louage de services en l’espèce. Il y a plutôt une entente ou un arrangement incompatible avec l’existence d’un véritable contrat de louage de services en ce sens qu’il associe des éléments étrangers à la réalité contractuelle exigée par la Loi.
+[43] On a fait remarquer que la payeuse était absente. La Cour est cependant convaincue que cette absence est attribuable au fait que la payeuse était malade. La Cour ne tirera aucune conclusion défavorable aux parties parce que la payeuse était absente.
+[44] Si la payeuse avait été présente à l’audience, elle aurait peut‑être pu donner des éclaircissements sur les relevés, mais, compte tenu de ce que Mme Campbell a dit, la Cour ne pense pas que son témoignage aurait eu une incidence sur sa décision.
+[45] En ce qui concerne la crédibilité, la Cour estime que les témoignages des travailleurs étaient incohérents. Ils étaient incomplets. Les travailleurs ne semblaient rien savoir au sujet des faits. Ils ne savaient pas quand ils ont commencé à travailler ou quand ils ont arrêté de travailler.
+[46] Ils ont simplement consulté les relevés d’emploi et dit qu’ils étaient exacts. La plupart d’entre eux n’ont pas témoigné avec franchise, et la Cour et l’avocate de l’intimé devaient leur soutirer chaque réponse, à défaut de quoi elles n’auraient pas obtenu grand chose des appelants.
+[47] Ce n’est pas le genre de preuve qui permet en soi de conclure à la crédibilité. Lorsqu’elle a des doutes au sujet de la crédibilité, la Cour accepte bien sûr la preuve des autres témoins lorsque celle‑ci contredit la preuve des appelants, ne concorde pas avec elle ou la discrédite.
+[48] Il n’y avait aucune corrélation entre les renseignements contenus dans les RE et les autres documents que l’enquêteuse a pu consulter. Compte tenu de la preuve qu’elle a fournie à la Cour et de la preuve tirée de la déclaration, la Cour n’est pas convaincue que les appelants ont démontré que les renseignements contenus dans les RE étaient exacts.
+[49] Il est vrai que M. Preshyon n’a pas signé la déclaration. Il a dit qu’il ne voulait pas la signer, mais il y a apposé ses initiales. Après avoir entendu le témoignage de Dino Sophocleous ce matin, la Cour est convaincue qu’il a donné à M. Preshyon la possibilité de lire la déclaration. La Cour est convaincue également que la déclaration reflétait ce que le témoin a dit et que ce qu’il a dit devant la Cour n’était pas exact.
+[50] Contrairement à ce que M. Preshyon a dit devant elle, la Cour est convaincue que M. Sophocleous n’a pas essayé de changer ce que l’appelant avait à dire et que la déclaration indique clairement que l’emploi en était un convenance.
+[51] Ce que les travailleurs faisaient, c’était empiler le bois pendant plus longtemps afin de pouvoir prétendre qu’ils avaient coupé le bois pendant une période plus courte, de façon que le nombre total de jours pendant lesquels ils travaillaient leur permette de recevoir des prestations plus élevées. C’était là le but visé, cela ne fait aucun doute.
+[52] Cette situation est semblable à celle dont le juge Tardif parlait dans la décision Laverdière, précitée. C’est ce qu’on appelle l’[TRADUCTION] « accumulation d’heures ». En l’espèce, il s’agissait, pour les travailleurs, d’accumuler du bois jusqu’à la date leur permettant d’obtenir des prestations plus élevées étant donné que les heures assurables étaient calculées en fonction de la quantité de bois.
+[53] Mme Campbell a eu la possibilité d’examiner non seulement les RE mais également les documents de Stora (l’acheteur), les registres de la payeuse et les documents relatifs à l’impôt sur le revenu.
+[54] Le fait que M. Preshyon n’était pas en parfaite santé a constitué un autre problème. Dans les faits, M. Preshyon recevait des prestations du Régime de pensions du Canada. Comment pouvait‑il recevoir des prestations du Régime de pensions du Canada s’il n’était pas invalide? Soit il faisait semblant d’être malade afin de pouvoir obtenir des prestations du RPC, soit il recevait des prestations du RPC et travaillait malgré une forte douleur. Cela est difficile à croire. Ou alors ce n’était pas lui qui coupait du bois. Une autre personne le faisait à sa place et inscrivait simplement l’information sur son relevé d’emploi. Il n’y a pas d’autre possibilité.
+[55] Il a essayé de dire dans son témoignage qu’il n’a pas reçu de prestations du RPC pendant 12 mois, mais il ne fait aucun doute qu’il en a reçu. Les relevés l’indiquent clairement. Personne ne pourrait oublier cela. Si vous l’oubliez, c’est uniquement parce que vous ne voulez pas vous en souvenir.
+[56] La question de la crédibilité de M. Preshyon se pose ici aussi, en dehors de la conclusion défavorable que la Cour a déjà tirée relativement à la nature de son témoignage.
+[57] Au bout du compte, la Cour est convaincue, pour tous ces motifs, que les appelants n’ont pas démontré que leur travail était un emploi assurable comme ils devaient le faire. Les appels sont rejetés et les décisions du ministre sont confirmées.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 28e jour de février 2005.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2005CCI123
+NUMÉROS DES DOSSIERS
+DE LA COUR :
+2003-3789(EI), 2003-4162(EI), 2004‑493(EI) et 2003-4520(EI)
+INTITULÉ :
+Robert Fitzgerald, Walter Preshyon, Raymond Fricker et Eldon Sampson
+c.
+Le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Sydney (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE :
+Le 9 décembre 2004
+MOTIFS DU JUGEMENT RENDUS ORALEMENT :
+L’honorable T. E. Margeson
+DATE DES MOTIFS DU JUGEMENT :
+Le 18 février 2005
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux‑mêmes
+Avocate de l’intimé :
+Me Christa MacKinnon
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimé :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] [1986] 3 C.F. 553; 87 DTC 5025 (C.A.F.).

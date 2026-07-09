@@ -1,0 +1,115 @@
+Title: Brar c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/67308/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-76-67308-brar-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-03-17
+
+# Brar c. La Reine
+
+- Citation: 2014 CCI 76
+- Decision date: 2014-03-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5313, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brar c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-03-17
+Référence neutre
+2014 CCI 76
+Numéro de dossier
+2013-149(GST)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2013-149(GST)I
+ENTRE :
+GAMDUR SINGH BRAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 28 février 2014 à Edmonton (Alberta)
+Devant : L’honorable juge B. Paris
+Comparutions :
+Représentante de l’appelant :
+Mme Satvir Kaur Brar
+Avocate de l’intimée :
+Me Paige MacPherson
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation datée du 19 janvier 2012 relative à un remboursement de TPS/TVH pour habitations neuves en vertu de la partie IX de la Loi sur la taxe d’accise est rejeté conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 17e jour de mars 2014.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 28e jour d’avril 2014.
+S. Tasset
+Référence : 2014 CCI 76
+Date : 2014-03-17
+Dossier : 2013-149(GST)I
+ENTRE :
+GAMDUR SINGH BRAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L’appelant interjette appel à l’égard du refus d’une demande de remboursement pour habitations neuves concernant l’achat d’une maison neuve à Edmonton. Il était représenté à l’audience par son épouse.
+[2] Le ministre du Revenu national a refusé la demande de remboursement de l’appelant parce que celui-ci n’avait pas présenté sa demande dans les délais fixés au paragraphe 254(3) de la Loi sur taxe d’accise (la « Loi »).
+[3] La disposition en question est ainsi libellée :
+Le montant d’un remboursement prévu au présent article n’est versé que si le particulier en fait la demande dans les deux ans suivant le jour où la propriété de l’immeuble ou du logement lui est transférée.
+[Non souligné dans l’original.]
+[4] Les faits en l’espèce ne sont pas contestés.
+[5] Le 4 septembre 2004, l’appelant et son épouse ont signé une entente avec Landview Homes Ltd. (« Landview ») visant l’achat d’une maison qui devait être construite sur un lot au 1408, 69e rue, à Edmonton (la « maison »). La maison était un « immeuble d’habitation » au sens du paragraphe 123(1) de la Loi. L’entente avec Landview stipulait que la contrepartie que l’appelant devait verser incluait la cession du remboursement pour habitations neuves à Landview.
+[6] La propriété a été transférée par Landview à l’appelant et à son épouse le 24 janvier 2005, et ceux‑ci ont pris possession de la maison et y ont emménagé le 5 mai 2005. Peu de temps après, l’appelant et son épouse ont constaté des vices dans la construction de la maison. Il semble que, en raison du litige, l’appelant et son épouse n’aient pas pris les mesures nécessaires pour céder le remboursement pour habitations neuves à Landview. Finalement, l’appelant et son épouse ont intenté des poursuites contre Landview qui, en retour, a contre-attaqué en justice.
+[7] L’affaire a finalement été réglée en 2011 par un jugement de la Cour du Banc de la Reine de l’Alberta. La cour a conclu que Landview était responsable envers l’appelant et son épouse à l’égard de certains vices de construction et que l’appelant et son épouse devaient verser à Landview le montant du remboursement.
+[8] Le 31 octobre 2011, l’appelant a présenté sa demande de remboursement de TPS/TVH pour habitations neuves à l’égard d’une habitation achetée d’un constructeur.
+[9] La question que je dois trancher est de savoir si la demande de remboursement pour habitations neuves présentée par l’appelant a été présentée après l’expiration du délai de deux ans établi au paragraphe 254(3) de la Loi.
+[10] Avant de trancher cette question, il faut régler un point préliminaire. Selon l’alinéa 254(2)e) de la Loi, l’une des conditions pour obtenir le remboursement pour habitations neuves à l’égard d’une habitation achetée d’un constructeur est que la propriété du logement soit transférée au particulier une fois la construction achevée en grande partie. En l’espèce, la propriété a été transférée à l’appelant et à son épouse le 24 janvier 2005, mais ce n’est que le 5 mai 2005 qu’ils ont pris possession de la maison et y ont emménagé. Selon l’épouse de l’appelant, la construction n’a été achevée qu’un certain temps après qu’ils ont emménagé. Elle a produit un rapport d’inspection de la maison où étaient indiqués un certain nombre de vices de construction, ainsi qu’une liste des travaux inachevés en date du 16 mai 2005. Le trottoir, l’entrée de voiture et l’escalier avant, ainsi que le revêtement extérieur final en stuc et le terrassement extérieur n’étaient pas encore faits. Il ressort de ces éléments de preuve qu’il est possible de conclure que la construction de la maison n’était pas achevée en grande partie lors du transfert de la propriété le 24 janvier 2005. Par contre, aucune des parties n'a abordé les conséquences juridiques qui découleraient d'une telle conclusion et, après avoir évalué la question, il me semble que, même si j’admettais que la construction de la maison n’était pas achevée en grande partie à cette date, cela n’aiderait pas l’appelant. La raison de cela est que l’alinéa 254(2)e) interdirait toute demande en vertu de l’article 254 et, bien que l’on puisse soutenir que l’article 256 de la Loi (qui autorise un remboursement à l’égard d’une habitation construite par soi-même) pourrait s’appliquer parce que l’appelant et son épouse ont retenu les services de Landview pour achever la construction de la maison après la date du transfert[1], une demande en vertu de cet article serait néanmoins prescrite. Le paragraphe 256(3) établit que le particulier ne peut présenter une demande de remboursement pour habitation construite par soi-même que s’il en fait la demande au plus tard à la date qui suit de deux ans le premier en date des jours suivants :
+- le jour qui suit de deux ans le jour où l’habitation est occupée pour la première fois;
+- le jour où l’habitation est vendue avant d’être occupée;
+- le jour où la construction ou les rénovations majeures de l’habitation sont achevées en grande partie.
+En l’espèce, puisque l’appelant et son épouse ont emménagé le 5 mai 2005, une demande de remboursement au titre de l’article 256 aurait dû être faite au plus tard le 5 mai 2009.
+[11] Revenons maintenant au paragraphe 254(3) : l’épouse de l’appelant n’a pas nié que la demande n’avait pas été faite dans les deux ans suivant la date à laquelle la propriété leur a été transférée, mais elle a soutenu qu’il était nécessaire d’attendre jusqu’à ce que la poursuite en justice contre Landview soit réglée pour présenter une demande de remboursement. Pourtant, il ne me semble pas que cette poursuite en justice ait empêché l’appelant de présenter une demande de remboursement, et il ne m’a été soumis aucun élément de preuve en ce sens. Même si Landview affirmait que l’appelant avait convenu de lui céder le remboursement, l’appelant pouvait quand même présenter une demande de remboursement avant que l’affaire soit tranchée par la cour. Il est compréhensible que l’appelant et son épouse aient peut-être été incertains quant à savoir s’ils pouvaient faire une demande de remboursement pour habitations neuves tandis que la poursuite était en cours, mais il n’en demeure pas moins que la demande n'a pas été faite dans les deux ans suivant le transfert de la propriété à l’appelant et à son épouse.
+[12] Malheureusement, lorsque le délai prévu par la loi est dépassé, aucun remboursement pour habitations neuves ne peut être obtenu. Dans Cairns c. La Reine, 2001 GSTC 52, la Cour a statué :
+[…] L’intention du législateur de fixer un délai pour la présentation d’une demande de remboursement est énoncée en termes non équivoques. […] Lorsque la signification d’un texte est claire, notre cour n’a pas compétence pour en atténuer les conséquences. […]
+[13] À regret, je dois rejeter l’appel.
+Signé à Ottawa, Canada, ce 17e jour de mars 2014.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 28e jour d’avril 2014.
+S. Tasset
+RÉFÉRENCE : 2014 CCI 76
+NO DU DOSSIER DE LA COUR : 2013-149(GST)I
+INTITULÉ : Gamdur Singh Brar et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 28 février 2014
+MOTIFS DU JUGEMENT : L’honorable juge B. Paris
+DATE DU JUGEMENT : Le 17 mars 2014
+COMPARUTIONS :
+Représentante de l’appelant :
+Mme Satvir Kaur Brar
+Avocate de l’intimée :
+Me Paige MacPherson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir l'analyse de David Sherman concernant le paragraphe 254(2) de la Loi.

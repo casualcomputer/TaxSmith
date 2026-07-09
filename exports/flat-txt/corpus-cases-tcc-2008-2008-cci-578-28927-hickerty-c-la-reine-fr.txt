@@ -1,0 +1,156 @@
+Title: Hickerty c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28927/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-578-28927-hickerty-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-10-22
+
+# Hickerty c. La Reine
+
+- Citation: 2008 CCI 578
+- Decision date: 2008-10-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1399, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hickerty c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-10-22
+Référence neutre
+2008 CCI 578
+Numéro de dossier
+2005-1590(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1590(IT)I
+ENTRE :
+FRED HICKERTY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu à Edmonton (Alberta), le 10 octobre 2008.
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentante de l’appelant :
+Mme Betty Hickerty
+Avocat de l’intimée :
+Me Gregory Perlinski
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1998 et 1999 sont accueillis de façon à ce que l’utilisation du domicile pour le travail passe de 30 % à 45 % et à ce que l’appelant ait droit à une déduction pour amortissement pour l’abri Quonset.
+Les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément à ce qui précède.
+Signé à Ottawa, Canada, ce 22e jour d’octobre 2008.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 27e jour de janvier 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2008 CCI 578
+Date : 20081022
+Dossier : 2005-1590(IT)I
+ENTRE :
+FRED HICKERTY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1588(IT)I
+ET ENTRE :
+BETTY HICKERTY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Les présents appels ont été interjetés à l’égard des années d’imposition 1998 et 1999 des appelants, pour lesquelles le ministre du Revenu national (le « ministre ») a refusé la déduction de dépenses agricoles, a établi des cotisations quant aux revenus d’entreprise nets et a imposé des pénalités en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] Les appels ont été entendus sur preuve commune, et seule Betty Hickerty a témoigné pour les appelants.
+[3] Les questions en litige sont les suivantes :
+a) Les appelants ont‑ils déclaré des revenus en moins?
+b) Les appelants ont‑ils droit à des déductions supérieures à celles que le ministre a permises pour les frais d’utilisation du domicile pour le travail, de téléphone, d’assurance et d’entretien, et pour le coût de l’abri Quonset?
+c) Le ministre a‑t‑il eu raison d’imposer des pénalités pour faute lourde en application du paragraphe 163(2) de la Loi?
+[4] Les appelants sont mariés et, durant les années visées par les appels, ils résidaient dans une maison située près de Sundre, en Alberta. Ils exploitaient une entreprise de comptabilité et de préparation de déclarations fiscales, une entreprise de construction et une entreprise de vente de publicité (ensemble, les « entreprises ») à partir de leur domicile. Les appelants exploitaient aussi une entreprise agricole (l’« exploitation agricole ») près de Youngstown, en Alberta. Les appelants étaient partenaires à parts égales dans les entreprises et dans l’exploitation agricole.
+[5] Les appelants ne tenaient pas de livres et registres convenables. Ils conservaient leurs documents dans une reliure et une chemise de classement. Les factures fournies à l’Agence du revenu du Canada (l’« ARC ») par les appelants ne correspondaient pas aux déductions qu’ils ont demandées dans leurs déclarations de revenus. À la demande de l’ARC, les appelants ont aussi préparé un registre synoptique, et, une fois de plus, les écritures de ce registre ne concordaient pas avec les déductions demandées dans les déclarations de revenus.
+L’exploitation agricole
+[6] L’exploitation agricole des appelants était située près de Youngstown, en Alberta. Ils y faisaient l’élevage de bovins sur des terres louées de Tim et Jeff Laughlin (les « Laughlin ») et en partageant les dépenses avec ceux‑ci.
+[7] La seule question soulevée par les appelants quant à l’exploitation agricole porte sur l’abri Quonset. Mme Hickerty a dit qu’ils l’avaient acheté en 1999 en vue de le revendre. Ils ont déboursé 12 000 $ pour l’abri Quonset. Au lieu de le revendre, les appelants s’en sont servi comme atelier de mécanique et comme entrepôt. Les appelants sont toujours propriétaires de l’abri Quonset, et celui‑ci est utilisé par les Laughlin à Youngstown.
+[8] Patricia McCulloch, une agente des appels de l’ARC, a témoigné qu’elle n’avait permis aucune déduction à l’égard de l’abri Quonset parce qu’on lui avait dit qu’il avait été acheté en vue d’être revendu. Toutefois, après avoir pris connaissance de la preuve, Mme McCulloch a dit qu’une déduction pour amortissement aurait dû être permise quant à l’abri Quonset.
+Les entreprises
+[9] Les appelants ont joint un état des résultats des activités d’une entreprise agricole (l’« état des résultats ») à leurs déclarations de revenus (les « déclarations »). Dans cet état des résultats, ils ont inclus les revenus provenant de leurs entreprises sous la rubrique [TRADUCTION] « Travail sur commande ou à contrat et location de machinerie ». De plus, les appelants ont tous deux indiqué dans leurs déclarations qu’ils étaient ensemble partenaires à part entière.
+[10] Les appelants exploitaient une entreprise de comptabilité et de préparation de déclarations fiscales, une entreprise de construction et une entreprise de vente de publicité. La plus grande part des revenus des appelants provenait de l’entreprise de comptabilité et de préparation de déclarations fiscales. Mme Hickerty a dit que durant les années en cause, elle et son époux avaient préparé les déclarations d’entre 300 et 400 clients. Cependant, lorsque Mme Hickerty a été contre‑interrogée, elle a reconnu qu’ils avaient préparé les déclarations d’environ 700 clients.
+[11] M. Hickerty a cessé d’étudier après la 12e année. Il est un menuisier‑charpentier qualifié. Il a suivi des cours de comptabilité et de tenue de livres. M. Hickerty exploite une entreprise de comptabilité et de préparation de déclarations fiscales depuis 26 ans.
+[12] Mme Hickerty a elle aussi cessé d’étudier après la 12e année, et elle a suivi des cours de comptabilité. Elle exploite une entreprise de comptabilité et de préparation de déclarations fiscales avec son époux depuis 18 ans.
+[13] Les appelants ont utilisé leurs relevés bancaires pour calculer leurs revenus provenant de l’entreprise de comptabilité et de préparation de déclarations fiscales; ils ont expliqué que toutes les sommes provenant de cette entreprise étaient déposées dans leurs comptes bancaires. Mme Hickerty a expliqué qu’ils se servaient de la méthode de comptabilité de caisse parce que certains de leurs clients attendaient un an pour payer. Au total, les appelants ont déclaré des revenus bruts d’entreprise de 46 420 $ pour 1998 et de 32 510 $ pour 1999.
+[14] Mme McCulloch s’est servie du livre de factures des appelants pour déterminer que leurs revenus bruts avaient été de 63 051 $ pour 1998 et de 76 550 $ pour 1999. Les appelants ont pu déduire des créances irrécouvrables pour ces années‑là. Ces créances irrécouvrables s’élevaient à 1 880 $ pour 1998 et à 1 953 $ pour 1999.
+[15] Mme Hickerty a dit qu’elle et son époux n’avaient pas déclaré des revenus en moins, mais ils n’ont présenté aucun document à l’audience. Mme Hickerty a affirmé ne pas savoir exactement quels étaient ses revenus, mais elle a dit ne pas accepter les calculs du ministre.
+[16] Les appelants n’ont pas démontré que les calculs de leurs revenus faits par le ministre n’étaient pas exacts. Peu importe si les appelants ont utilisé la méthode de comptabilité de caisse ou la méthode de comptabilité d’exercice, il est évident qu’ils n’avaient pas déclaré tous leurs revenus pour les années en cause. L’importance des créances irrécouvrables pour chacune des années en cause est minime.
+[17] Aux fins de l’impôt, les appelants auraient dû calculer leurs revenus en rattachant leurs produits et leurs charges[1]. Ils auraient ainsi pu déterminer leurs revenus pour chaque année de façon plus précise.
+L’utilisation du domicile pour le travail
+[18] Les appelants se servaient de leur domicile comme principal lieu d’affaires. Ils soutiennent avoir utilisé 75 % du domicile dans le cadre de l’exploitation de leurs entreprises, car toutes les pièces du domicile contenaient des objets relatifs à ces entreprises. Mme Hickerty a expliqué que tous les dossiers de leurs clients étaient conservés dans des classeurs, qui se trouvaient dans la chambre à coucher des appelants et dans des remises. Elle a aussi dit qu’un photocopieur avait été installé dans leur chambre à coucher, et qu’une des chambres à coucher de la maison servait exclusivement à l’exploitation des entreprises. La période la plus occupée des appelants commençait en novembre, et ils avaient habituellement déjà engagé des employés au début de ce mois‑là.
+[19] L’agente des appels a permis une déduction de 30 % pour l’utilisation du domicile pour le travail. Elle a affirmé que les appelants lui avaient dit qu’ils utilisaient la quasi‑totalité de leur domicile pour le travail durant la période de préparation des déclarations de revenus (de mars à mai). L’agente des appels a estimé que l’utilisation du domicile pour le travail avait été de 25 % en janvier, de 50 % de février à mai et de 15 % de juin à décembre. Par conséquent, elle a permis la déduction de 30 % des frais de téléphone et de services publics, des impôts fonciers et des frais d’intérêts.
+[20] En l’absence de preuve documentaire, la demande d’une déduction de 75 % pour l’utilisation du domicile pour le travail me semble exagérée. Cependant, compte tenu de la description que Mme Hickerty a faite de ses entreprises et de son domicile, je suis d’avis que l’utilisation du domicile pour le travail était plutôt de 45 % pour la période en cause.
+Les frais de téléphone
+[21] Mme McCulloch a affirmé qu’elle voulait permettre aux appelants de déduire 30 % de leurs frais de téléphone et de services publics. À l’audience, elle a remarqué qu’elle avait seulement permis la déduction de 25 % des frais de téléphone. Les appelants ont demandé la déduction de 80 % de leurs frais de téléphone.
+[22] Les appelants ont reconnu que leurs frais de téléphone et de services publics n’ont pas dépassé 7 347 $ en 1998 et 6 927 $ en 1999.
+[23] J’accorde la déduction de 45 % des frais de téléphone pour chacune des années en cause.
+Les frais d’assurance
+[24] Les appelants ont pu déduire des frais d’assurance habitation et d’assurance automobile. Toutefois, ils ont aussi demandé la déduction de frais d’« assurance multirisque », dont le produit, selon les appelants, serait imposable en cas d’accident ou d’invalidité. Les appelants n’ont présenté aucune preuve montrant qu’ils avaient versé des primes d’assurance, ou qu’ils avaient souscrit une police d’assurance dont le produit serait imposable.
+Les frais d’entretien
+[25] Les appelants ont demandé la déduction de frais d’entretien s’élevant à 5 269,16 $ pour 1998 et à 6 991,26 $ pour 1999. Mme Hickerty a dit croire que ces sommes avaient été dépensées pour une clôture et des matériaux de construction. Lorsqu’elle a été contre-interrogée à ce sujet, elle a reconnu ne pas savoir à quoi ces sommes avaient vraiment servi.
+Les pénalités
+[26] Dans leurs déclarations de revenus, les appelants ont chacun déclaré des revenus nets de 6 500 $ pour 1998 et de 7 000 $ pour 1999. Dans les nouvelles cotisations, les revenus agricoles nets de chacun des appelants ont été évalués à 11 306 $ pour 1998 et à 9 308 $ pour 1999. De même, les revenus nets d’entreprise de chacun des appelants ont été évalués à 17 880 $ pour 1998 et à 24 161 $ pour 1999.
+[27] Les appelants ont omis de déclarer des revenus d’entreprise s’élevant à 16 631 $ pour 1998 et à 44 040 $ pour 1999.
+[28] Les appelants exploitent une entreprise de comptabilité et de préparation de déclarations fiscales. Ils fournissent des conseils fiscaux à d’autres contribuables. Ils représentent très souvent des contribuables auprès de l’ARC dans le cadre de processus de vérification et d’appel.
+[29] Les appelants ne tenaient aucun livre, et leurs registres laissaient grandement à désirer.
+[30] Les appelants estiment qu’ils auraient dû recevoir un avertissement, et que le ministre n’aurait pas dû leur imposer des pénalités pour faute lourde. Je ne suis pas d’accord avec eux. À mon avis, le ministre a eu raison d’imposer les pénalités.
+[31] Dans DeCosta c. La Reine[2], le juge en chef Bowman s’est ainsi exprimé :
+[11] Pour établir la distinction entre la faute « ordinaire » ou la négligence et la faute « lourde », il faut examiner plusieurs facteurs. Un de ces facteurs est bien entendu l'importance de l'omission relative au revenu déclaré. Il y a aussi la faculté du contribuable de découvrir l'erreur, ainsi que le niveau d'instruction du contribuable et son intelligence apparente. Il n'existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qu'il convient dans le contexte de l'ensemble de la preuve.
+[32] En l’espèce, tout indique que les appelants ont, sciemment, ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans leurs déclarations de revenus. Les omissions des appelants n’ont pas été faites par simple inadvertance. Les appelants ont demandé des déductions qu’ils ne pouvaient pas justifier, et ils ont omis de déclarer une partie importante de leurs revenus.
+[33] Les appels sont accueillis de façon à ce que l’utilisation du domicile pour le travail passe de 30 % à 45 % et à ce que les appelants aient droit à une déduction pour amortissement pour l’abri Quonset.
+Signé à Ottawa, Canada, ce 22e jour d’octobre 2008.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 27e jour de janvier 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008 CCI 578
+No DU DOSSIER DE LA COUR :
+2005-1590(IT)I
+INTITULÉ :
+Fred Hickerty et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 6 octobre 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 22 octobre 2008
+COMPARUTIONS :
+Représentante de l’appelant :
+Mme Betty Hickerty
+Avocat de l’intimée :
+Me Gregory Perlinski
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Neonex International Ltd. v. Her Majesty the Queen (1978), 78 D.T.C. 6339 (C.A.F.)
+[2] 2005 CCI 545

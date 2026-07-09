@@ -1,0 +1,187 @@
+---
+title: "Tuccaro c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/62997/index.do"
+last_modified: "2013-09-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 300"
+citation2: ""
+neutral_citation: "2013 CCI 300"
+decision_date: "2013-09-23"
+language: "fr"
+item_id: "62997"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6078
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:02:52.741000+00:00"
+cases_cited_count: 9
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6f407b0cffb0734489ef767dfee9d7eb0d8da7b6e2a2a5fc615de28a336fccdb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tuccaro c. La Reine
+
+- Citation: 2013 CCI 300
+- Decision date: 2013-09-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6078, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tuccaro c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-09-23
+Référence neutre
+2013 CCI 300
+Numéro de dossier
+2013-188(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-188(IT)G
+ENTRE :
+DAVID TUCCARO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Requête entendue le 9 septembre 2013, à Ottawa, Canada
+Devant : L'honorable juge Randall S. Bocock
+Comparutions :
+Avocat de l'appelant :
+Me Maxime Faille
+Avocates de l'intimée :
+Me Darcie Charlton
+Me Ashleigh Akalehiywot
+________________________________________________________________
+ORDONNANCE
+VU LA REQUÊTE présentée par l'intimée en vue d'obtenir la radiation de certains paragraphes de l'avis d'appel de l'appelant;
+ET VU les documents déposés ainsi que les observations et les arguments présentés par l'avocat de l'appelant et les avocates de l'intimée, y compris l'ébauche de l'avis d'appel modifié, qui a été présentée à l'audition de la requête, mais pas déposée devant la Cour;
+LA COUR ORDONNE QUE :
+1. tous les passages de l'acte de procédure faisant référence à l'exonération qui serait fondée sur les droits issus du Traité no 8 soient radiés de l'ébauche de l'avis d'appel modifié;
+2. les paragraphes 14 à 32 inclusivement soient radiés de l'ébauche de l'avis d'appel modifié;
+3. le paragraphe 43 soit reformulé afin de mieux décrire les faits essentiels pertinents qui appuient l'appel, ainsi que les faits qui, selon les renseignements dont l'appelant dispose, étayent la déclaration de fait figurant dans ce paragraphe;
+4. un avis d'appel modifié définitif reflétant les changements prévus dans l'ordonnance soit déposé dans les 45 jours suivant la date de la présente ordonnance;
+5. l'intimée ait 60 jours suivant le dépôt et la signification de l'avis d'appel modifié définitif pour déposer une réponse;
+6. il n'y ait pas d'adjudication des dépens, et la Cour n'exige pas la présentation d'observations relativement aux dépens.
+Signé à Ottawa, Canada, ce 23e jour de septembre 2013.
+« R. S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 18e jour de décembre 2013.
+Yves Bellefeuille, réviseur
+Référence : 2013 CCI 300
+Date : 20130923
+Dossier : 2013-188(IT)G
+ENTRE :
+DAVID TUCCARO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Bocock
+I. La requête en radiation de passages de l'acte de procédure et le critère juridique général applicable
+[1] Il s'agit d'une requête présentée par l'intimée en vertu des alinéas 53a) et c) des Règles de la Cour canadienne de l'impôt (procédure générale) en vue d'obtenir la radiation de certains passages de l'avis d'appel de l'appelant, parce qu'ils constituent un recours abusif à la Cour ou qu'ils retarderont l'instruction équitable de l'appel.
+a) Les moyens invoqués à l'appui de la radiation
+[2] Généralement, les passages contestés de l'ébauche de l'avis d'appel modifié et les moyens que l'intimée (la requérante) invoque pour les contester peuvent être décrits de la manière suivante :
+1. il faut radier, en raison du principe de l'autorité de la chose jugée, l'exonération fiscale demandée par l'appelant au titre du Traité no 8 de 1899 et de l'application à celui‑ci de l'article 35 de la Loi constitutionnelle de 1982;
+2. la description des divers faits et événements historiques aux paragraphes 10 à 34 est contestée sur le fondement que, dans ces paragraphes, on fait valoir une exonération qui découlerait du Traité no 8 et sur le fondement que ces paragraphes ne sont pas pertinents quant à l'exonération valablement invoquée au titre de l'article 87 de la Loi sur les Indiens, L.R.C. 1985, ch. I‑5;
+3. l'inclusion du paragraphe 43, qui prévoit que [TRADUCTION] « Le revenu des employés de Neegan qui sont des Indiens inscrits a été considéré comme exonéré d'impôt », est contestée sur le fondement que ce fait concerne le traitement d'un autre contribuable par le ministre et n'est donc pas pertinent dans le présent appel;
+4. les paragraphes 84 à 94 et le paragraphe 111 doivent être radiés parce que ces paragraphes invoquent le formulaire TD1‑IN(06), Détermination de l'exonération à l'égard d'un revenu d'emploi d'un Indien, de l'Agence du revenu du Canada, et les lignes directrices figurant dans celui‑ci; suivant un argument incident portant sur l'honneur de la Couronne, on affirme qu'il y a eu une décision préalable quant à l'assujettissement à l'impôt, ce qui aurait pour effet d'usurper la compétence de la Cour (l'« argument au sujet des lignes directrices »).
+[3] L'appelant (l'intimé dans la requête) a déposé une ébauche d'avis d'appel modifié avant l'audition de la présente requête. Ce document est la version de l'avis d'appel à laquelle il est fait référence ici.
+b) Le critère juridique applicable à la radiation de passages de l'acte de procédure
+[4] Les parties ont généralement convenu du critère à appliquer pour radier des passages d'un acte de procédure, que ceux‑ci concernent des moyens d'appel, des faits, des redressements demandés ou des dispositions légales. En général, il faut satisfaire à un critère élevé pour radier un acte de procédure (Sentinel Hill Productions (1999) Corporation c. La Reine, 2007 TCC 742, au paragraphe 4). Il doit être évident et manifeste, si l'on suppose au mieux que les faits allégués dans l'acte de procédure de la partie sont exacts, que l'acte de procédure n'a « aucune chance de succès ». Autrement dit, si l'argument invoqué à l'appui de la radiation d'un acte de procédure porte sur sa force probante ou sa pertinence, l'acte de procédure doit être soumis au juge du fond, à moins qu'il n'ait aucune chance d'être retenu. Pour être radié, un acte de procédure doit être entaché d'un « vice fondamental » (Hardtke c. La Reine, 2005 CCI 263, aux paragraphes 10 et 16).
+[5] En outre, et cela est particulièrement pertinent dans l'affaire dont la Cour est saisie, un examen des faits en vertu de l'article 87 de la Loi sur les Indiens n'est pas une mince tâche, et la Cour doit effectuer une analyse minutieuse et nuancée en fonction des faits (Kelly c. La Reine, 2013 CAF 171, au paragraphe 71).
+II. Les arguments et les décisions pour chacune des questions
+a) L'exonération qui serait fondée sur le Traité no 8
+[6] L'appelant déclare que les décisions rendues par la Cour d'appel fédérale dans les arrêts R. c. Benoit, 2003 CAF 236, et Dumont c. La Reine, 2008 CAF 32, étaient erronées et comportaient les erreurs de droit suivantes :
+1) les motifs de la Cour d'appel fédérale ne tenaient pas compte du fait que des documents supplémentaires avaient été présentés en preuve lors de l'instruction de l'affaire et que ces documents indiquaient que le Traité no 8 visait à créer une exonération d'impôt;
+2) la Cour d'appel fédérale a conclu à tort que les mandataires de la Couronne ne pouvaient pas lier juridiquement la Couronne à un engagement financier de ne pas lever d'impôts;
+3) enfin, le défaut de reconnaître dans les arrêts que la Couronne fédérale ne désavoue pas le libellé clair du Traité no 8 est déterminant quant à l'existence d'un engagement permanent de non‑assujettissement à l'impôt au titre de la Loi de l'impôt sur le revenu.
+[7] De plus, l'appelant allègue qu'il serait injuste que la Cour accepte d'être liée par les arrêts Benoit et Dumont et radie les passages de l'acte de procédure et que cela empêcherait le droit d'évoluer en ce qui concerne l'exonération qui découlerait du Traité no 8.
+[8] Pour les motifs exposés ci‑après, les arguments invoqués par l'appelant à l'encontre de la radiation des passages de l'acte de procédure portant sur l'exonération qui serait fondée sur le Traité no 8 ne peuvent être retenus.
+[9] Les arrêts Benoit et Dumont sont des décisions définitives de la Cour d'appel fédérale. La Cour canadienne de l'impôt est liée par le droit établi concernant l'absence d'effet juridique du Traité no 8 pour ce qui est de l'octroi à ses signataires d'une exonération d'impôt. Comme la juge Sheridan l'a déclaré au paragraphe 4 de la décision de première instance dans l'affaire Dumont (2005 CCI 790), c'est pour ces raisons mêmes que l'« argument voulant que le Traité no 8 exonère son revenu d'imposition est sans fondement ».
+[10] Si la Cour d'appel fédérale a tort, comme le prétend l'appelant, il n'appartient pas à la Cour canadienne de l'impôt de rendre une décision à ce sujet. Vu les conclusions claires tirées par la Cour d'appel fédérale concernant le Traité no 8, il est évident et manifeste qu'à l'heure actuelle, un argument fondé sur une exonération d'impôt pour ce motif n'a aucune chance d'être accueilli. Par conséquent, les paragraphes ou les parties de paragraphes qui renvoient à l'exonération qui serait fondée sur les droits issus du Traité no 8 ou qui renvoient à des faits à l'appui d'une telle exonération sont radiés de l'ébauche de l'avis d'appel modifié.
+b) Paragraphe 43 — Le traitement d'un autre contribuable
+[11] L'argument de l'appelant pour ce qui est du maintien du paragraphe 43 porte sur sa pertinence par rapport aux circonstances entourant le « critère des facteurs de rattachement » établi dans l'arrêt Williams c. Canada, [1992] 1 R.C.S. 877, et ce, bien que le fait invoqué concerne le traitement d'autres contribuables. La Cour convient avec l'appelant qu'il est prématuré de radier cette allégation, mais seulement si l'appelant invoque les allégations de fait nécessaires pour que l'allégation factuelle formulée devienne pertinente relativement au critère des facteurs de rattachement. Il incombera au juge du fond d'établir le poids à accorder à cet argument relatif aux circonstances. Par exemple, un fait essentiel antérieur comme [TRADUCTION] « tous les employés résidaient dans la réserve et les bureaux locaux de Neegan étaient eux aussi situés dans la réserve » est susceptible d'être pertinent quant aux faits étayant l'allégation de l'appelant relativement à l'exonération au titre de l'article 87. Il y a peut‑être d'autres faits essentiels concernant la décision rendue par le ministre relativement à l'exonération d'impôt pour ces employés. Ces autres faits essentiels sont peut‑être pertinents pour ce qui est du critère des facteurs de rattachement à appliquer en l'espèce, mais l'acte de procédure doit en faire état pour que le juge du fond puisse les voir. Ce paragraphe peut rester dans l'acte de procédure, mais il doit être modifié afin d'inclure les faits essentiels antérieurs qui peuvent être pertinents dans une telle instruction.
+c) Les lignes directrices et l'honneur de la Couronne
+[12] En réponse à la requête en radiation de ces allégations, l'appelant a déclaré que la présente affaire n'était pas une affaire typique. L'appelant a déclaré que, bien que les lignes directrices ne lient pas juridiquement le ministre à la cotisation, celles-ci sont néanmoins une considération pertinente étayée par les arguments relatifs à l'honneur de la Couronne, parce que, en fait, la Couronne publie ces lignes directrices et les formulaires connexes exclusivement pour les contribuables autochtones qui demandent une exonération. L'appelant a soutenu que la jurisprudence récente donne à penser que l'argument relatif à l'honneur de la Couronne a un sens plus important du fait du rôle fiduciaire historique que la Couronne fédérale a joué dans les affaires autochtones (Manitoba Métis Federation Inc. c. Canada, 2013 CSC 14, au paragraphe 90, et Mohawks of the Bay of Quinte c. Ministre des Affaires indiennes et du Nord canadien, 2013 CF 669, au paragraphe 48).
+[13] L'intimée a admis, dans sa réponse à l'argument invoqué pour conserver ces passages, que les lignes directrices ne constituent qu'un énoncé succinct de l'interprétation du droit que fait le ministre et qu'elles peuvent être utilisées devant la Cour qu'à cette fin et que dans cette mesure. Cependant, dans la présente affaire, l'avocate de l'intimée soutient que l'inclusion des lignes directrices se veut une sorte de préclusion en matière d'imposition et retire donc de la Cour sa compétence exclusive pour établir l'impôt à payer et qu'il faut, par conséquent, radier cet élément de l'acte de procédure (Hawkes c. Canada, 97 D.T.C. 5060, 1996 CanLII 3936 (C.A.F.)).
+[14] Comme il est dûment mentionné dans l'arrêt Hawkes, les actions, les prises de position ou les décisions du ministre ou de ses mandataires sur des questions de droit ne peuvent pas usurper le rôle fondamental de la Cour. Toutefois, la Cour suprême du Canada et la Cour d'appel fédérale ne se sont pas directement prononcées sur l'application des lignes directrices, en tant que fait, à l'analyse de l'exonération au titre de l'article 87. Cette question diffère donc de l'allégation, maintenant radiée, d'une exonération qui serait fondée sur le Traité no 8. C'est au juge du fond d'examiner les lignes directrices en fonction du contexte factuel de l'allégation relative à l'exonération au titre de l'article 87. Dans le contexte de l'article 87, de telles lignes directrices représentent de nouveaux faits sur lesquels la Cour doit se pencher. Leur inclusion en tant que faits dont il faut tenir compte ne liera pas le juge du fond. Leur inclusion dans l'analyse factuelle effectuée par la Cour n'a pas « aucune chance de succès » s'il peut raisonnablement être conclu que, même dans la plus petite des mesures, on peut présenter comme argument que les lignes directrices font partie des circonstances factuelles à examiner.
+[15] En tant que juge des requêtes, je ne laisse pas entendre que les paragraphes 84 à 94 et le paragraphe 111 contribueront à une conclusion par le juge du fond selon laquelle une exonération au titre de l'article 87 existe. Cependant, même dans le contexte de l'argument relatif à l'honneur de la Couronne, on ne peut pas dire que l'argument au sujet des lignes directrices n'a « aucune chance de succès » lorsqu'on le considère dans le contexte des circonstances factuelles de l'appelant, de la chaîne des événements dans son allégation relative à l'exonération au titre de l'article 87 et du fait qu'un juge du fond n'a pas encore apprécié la valeur probante de l'argument au sujet des lignes directrices et le poids à y accorder dans un tel contexte factuel. Il aura maintenant la possibilité de le faire.
+d) Les paragraphes particuliers à radier ou à conserver
+[16] Compte tenu des conclusions que j'ai tirées ci-dessus concernant l'exonération qui serait fondée sur le Traité no 8 et l'argument au sujet des lignes directrices, je me penche maintenant sur les paragraphes particuliers de l'ébauche de l'avis d'appel modifié qui doivent être radiés ou conservés pour donner des précisions aux parties.
+[17] Pour rendre ma décision, je garde à l'esprit deux questions primordiales. Tout d'abord, la conclusion portant sur une allégation relative à l'exonération au titre de l'article 87 doit être, compte tenu du commentaire formulé par la Cour suprême du Canada (Dubé c. Canada, 2011 CSC 39, [2011] 2 R.C.S. 764), fondée sur un examen des faits général, par le juge du fond, qui tient compte du contexte et des activités historiques dans l'application du critère des facteurs de rattachement. Ensuite, si une déclaration de fait figurant dans les paragraphes contestés traite exclusivement de l'exonération qui serait fondée sur le Traité no 8 et ne traite pas de l'allégation relative à l'exonération au titre de l'article 87, une telle allégation factuelle doit être radiée. Dans son examen des faits relatif à l'article 87, la Cour doit être généreuse et tenir compte même des éléments qui n'ont que très peu de pertinence. Par conséquent, le tableau suivant résume chacun des paragraphes contestés et la conclusion tirée par la Cour quant à la pertinence à l'égard des autres questions qui seront soumises au juge du fond.
+Paragraphes dans l'ébauche de l'avis d'appel modifié
+Nature des faits allégués
+Conclusion quant à la pertinence
+Décision
+11, 12 et 13
+Ces paragraphes décrivent les activités courantes « dans la réserve » et comment elles ont changé au fil des ans.
+Ces faits sont peut‑être pertinents quant aux activités et aux affaires courantes des autochtones dans la réserve.
+Maintien
+14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31 et 32
+Ces paragraphes décrivent exclusivement le contexte, l'historique, la négociation, la conclusion et l'effet du Traité no 8, de même que son interprétation subséquente et les actes qui ont été accomplis ultérieurement à l'égard de celui‑ci.
+Ces faits ne sont pas pertinents quant à l'allégation relative à une exonération au titre de l'article 87; ils sont fournis à l'appui d'une allégation relative au Traité no 8, qui a été radiée parce qu'elle n'offre aucun fondement juridique pour l'exonération d'impôt.
+Radiation
+33, 34, 35 et 36
+Ces paragraphes décrivent le mode de vie et les activités actuelles ainsi que leur évolution dans la région dans laquelle la réserve est située.
+Bien que ces déclarations ne soient pas nécessairement succinctes, elles décrivent les répercussions de l'industrie moderne des sables bitumineux sur la région et sur les réserves qui y sont situées. On pourrait soutenir que ces faits sont pertinents quant aux activités, aux entreprises et aux revenus en découlant pour les autochtones.
+Maintien
+[18] Encore une fois, toutes les références à l'exonération qui serait fondée sur les droits issus du Traité no 8 doivent être supprimées de l'ébauche de l'avis d'appel modifié, de même que les paragraphes 14 à 32 inclusivement.
+[19] Le paragraphe 43 doit être reformulé afin d'énumérer succinctement les faits essentiels que l'appelant connaît et qui ont trait à l'exonération juridique accordée aux employés de Neegan Development Corporation Ltd., mais seulement si ces faits sont pertinents à l'égard du présent appel.
+[20] Sous réserve de la radiation ou de la modification des paragraphes susmentionnés, l'avis d'appel modifié définitif doit être déposé et signifié dans les 45 jours suivant la date des présents motifs. L'intimée aura 60 jours suivant la signification pour déposer une réponse modifiée, s'il y a lieu.
+III. Les dépens
+[21] À la fin de l'audition de la requête, j'ai pris en délibéré ma décision sur la question de savoir s'il y avait lieu d'entendre les observations des parties sur la question des dépens afin que les parties puissent connaître le résultat avant de formuler de telles observations. Étant donné le succès partiel de chacune des parties, aucune ordonnance ne sera rendue au sujet des dépens et, par conséquent, la présentation d'observations relativement aux dépens n'est plus nécessaire.
+Signé à Ottawa, Canada, ce 23e jour de septembre 2013.
+« R. S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 18e jour de décembre 2013.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2013 CCI 300
+NO DU DOSSIER DE LA COUR : 2013-188(IT)G
+INTITULÉ : DAVID TUCCARO c. LA REINE
+LIEU DE L'AUDIENCE : Ottawa, Canada
+DATE DE L'AUDIENCE : Le 9 septembre 2013
+MOTIFS DE L'ORDONNANCE : L'honorable juge Randall S. Bocock
+DATE DE L'ORDONNANCE : Le 23 septembre 2013
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Maxime Faille
+Avocates de l'intimée :
+Me Darcie Charlton
+Me Ashleigh Akalehiywot
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Maxime Faille
+Cabinet : Gowling Lafleur Henderson S.E.N.C.R.L., s.r.l.
+Ottawa, Canada
+Pour l'intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

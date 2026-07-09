@@ -1,0 +1,104 @@
+Title: Sabbah c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28033/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-601-28033-sabbah-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-05-16
+
+# Sabbah c. La Reine
+
+- Citation: 2007 CCI 601
+- Decision date: 2007-05-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1619, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sabbah c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-16
+Référence neutre
+2007 CCI 601
+Numéro de dossier
+2005-86(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-86(IT)G
+ENTRE :
+DAVID SABBAH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 24 avril et le 16 mai 2007, à Montréal (Québec)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Suzanne Morin
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, les appels interjetés en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1995, 1996, 1997 et 1998 sont rejetés avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 11e jour d’octobre 2007.
+« G.A. Sheridan »
+Juge Sheridan
+Référence : 2007CCI601
+Date : 20071011
+Dossier : 2005-86(IT)G
+ENTRE :
+DAVID SABBAH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, David Sabbah, en appelle d’une cotisation suivant l’avoir net selon laquelle le ministre du Revenu national a ajouté à son revenu pour les années 1995 à 1998 plus de 150 000 $ à titre de revenu non déclaré. La cotisation suivant l’avoir net a été établie à la suite d’une vérification de la société de l’appelant. La position de l’appelant est que la cotisation doit être réduite de 74 619 $, étant donné que ce montant provenait d’un compte d’épargne qu’il avait ouvert au milieu des années 1980. Selon l’appelant, au cours des années 1995 à 1998, il avait retiré du compte d’épargne des fonds totalisant 74 619 $, en fonction des besoins, pour exploiter sa société et des avances personnelles avaient été faites à partir du compte de la société pour rembourser ce prêt. L’appelant a aussi soutenu que le ministre avait exagéré de façon arbitraire les frais de subsistance de sa famille.
+[2] Comme dans tout appel fiscal, il incombe à l’appelant de réfuter les hypothèses du ministre. En l’espèce, l’appelant n’avait pas la tâche facile. La banque où ses économies étaient censées être détenues avait depuis fusionné avec une autre institution financière. Même si cela avait rendu l’accès aux documents déjà dépassés encore plus difficile, il n’aurait pas été nécessaire d’effectuer de telles démarches si l’appelant avait tenu les documents comptables voulus qui sont requis par la Loi de l’impôt sur le revenu. Malgré l’insistance de l’appelant sur le fait que les dossiers bancaires prouveraient le bien‑fondé de ses affirmations, celui‑ci avait rejeté l’offre que la vérificatrice lui avait faite, c’est‑à‑dire de l’autoriser à utiliser les pouvoirs que la Loi lui conférait pour effectuer des recherches pour lui. L’appelant n’a donc pas été en mesure de présenter, que ce soit pendant la vérification ou pendant l'audience de son appel, des éléments de preuve corroborants, comme des relevés bancaires montrant des retraits de son prétendu compte d’épargne ou des feuillets T-5 pour la période montrant les intérêts qui s’étaient accumulés dans le compte. Il n’a pas non plus présenté les dossiers bancaires de sa société pour montrer les dépôts qui avaient été faits dans le compte de la société à partir du compte d’épargne. Pour établir le bien‑fondé de ses affirmations, l’appelant s’est principalement fondé sur une lettre[1] provenant d’un employé de la banque et indiquant simplement qu’il avait déjà été titulaire d’un compte d’épargne dans l’institution. Cela n’était pas suffisant pour prouver ses allégations.
+[3] L’appelant a également allégué qu’il s’était fié à son comptable, Haim Pinto, pour qu’il veille à ce que ses documents comptables soient en règle. Il avait plus ou moins l’habitude de présenter chaque année à M. Pinto une boîte renfermant les reçus de vente, les relevés bancaires et d’autres documents de sa société afin que celui‑ci puisse s’en servir pour établir les états financiers de la société et les déclarations de revenus de la société et de l’appelant. Après avoir terminé son témoignage le 24 avril 2007, l’appelant a informé la Cour qu’il était préoccupé par le fait que son manque de connaissances spécialisées en matière de comptabilité avait nui à sa capacité de bien expliquer ses affaires. Il a demandé que l’audience soit ajournée pour pouvoir appeler M. Pinto à témoigner. Cette requête a été accordée et l’audience a été ajournée au 16 mai 2007. Le témoignage de M. Pinto ne s’est toutefois pas révélé très utile. En plus d’avoir été victime d’un malentendu (de son propre fait), c’est‑à‑dire qu’il pensait qu’il était là pour témoigner en tant que témoin expert, M. Pinto n’avait pas de connaissance directe du compte d’épargne ou de son utilisation comme source de financement pour la famille Sabbah. De plus, ses pratiques comptables n’étaient pas plus rigoureuses que le système de tenue des documents comptables de l’appelant. Finalement, la stratégie que M. Pinto avait adoptée pour répondre à l’avocate de l’intimée pendant le contre‑interrogatoire était de prendre l’offensive plutôt que de donner des réponses intelligentes à ses questions assez simples. En somme, je n’ai accordé que très peu d’importance à son témoignage.
+[4] L’intimée a appelé à témoigner la vérificatrice responsable de l’établissement de la cotisation suivant l’avoir net, Julie St-Amant. Elle s’est révélée un témoin très crédible. Son témoignage montrait qu’elle avait attentivement examiné le peu d’information que l’appelant lui avait fournie et qu’elle avait établi, avec la même diligence, le relevé de l’avoir net[2]. Dans son excellente plaidoirie, l’avocate de l’intimée a examiné la preuve de l’appelant en détail, en la comparant aux chiffres figurant dans la cotisation suivant l’avoir net et en soulignant les nombreuses failles que comportait la représentation de sa situation financière pendant les années 1995 à 1998. Elle a renvoyé à un passage de l’arrêt Hsu c. La Reine[3] où la théorie sous‑tendant la cotisation suivant l’avoir net avait été examinée :
+Je tiens à ajouter qu'il était loisible au juge de la Cour de l'impôt de conclure que la méthode que le ministre avait employée pour déterminer le revenu de l'appelant était raisonnable et logique eu égard aux circonstances de l'espèce. Les nouvelles cotisations établies par le ministre étaient clairement arbitraires, mais il ne faut pas oublier que cette approche était directement attribuable au refus de l'appelant de divulguer des renseignements ou documents financiers. Dans la décision Dezura, précitée, aux pages 1103 et 1104, le président de la Cour de l'Échiquier du Canada a donné les explications suivantes :
+[traduction]
+La cotisation vise à permettre de déterminer le montant du revenu imposable du contribuable et à fixer le montant de sa dette conformément aux dispositions de la Loi. Si le contribuable ne produit pas de déclaration ou donne des renseignements inexacts dans sa déclaration ou de quelque autre façon, il ne peut à bon droit se plaindre de la façon dont le ministre a déterminé le montant de l'impôt qu'il devrait payer, à condition qu'il ait un droit d'appel à cet égard et qu'il ait la possibilité de démontrer que le montant que le ministre a déterminé est en fait inexact. Le contribuable qui a produit une déclaration exacte n'a pas non plus à craindre le pouvoir du ministre s'il a un droit d'appel. Les intérêts du Revenu sont donc protégés et les droits des contribuables sont pleinement maintenus. Habituellement, le contribuable connaît mieux que toute autre personne le montant de son revenu imposable et devrait être en mesure de l'établir à la satisfaction de la Cour. S'il le fait et si ce montant est inférieur à celui qui est déterminé par le ministre, pareil montant doit être réduit conformément à la conclusion tirée par la Cour. Si, d'autre part, il omet de démontrer que le montant déterminé par le ministre est erroné, il ne peut pas à juste titre se plaindre si le montant est maintenu. Si son omission de convaincre la Cour est attribuable à sa propre faute ou à une négligence telle que l'omission de conserver des comptes ou des documents appropriés lui permettant d'étayer ses propres déclarations, il ne peut imputer la chose qu'à sa propre faute.
+[5] Tout comme le contribuable théorique décrit ci‑dessus, l’appelant, dans une large mesure, était l’artisan de son propre malheur. Il n’a pas tenu des documents appropriés. Parmi les documents qu’il avait, l’appelant a été sélectif pour ce qui est des documents qu’il a choisi de montrer à la vérificatrice. Une comparaison des chiffres de la cotisation suivant l’avoir net avec les quelques documents comptables que l’appelant a présentés a révélé qu’à plusieurs reprises, les estimations dont le ministre s’est servi pour établir la cotisation suivant l’avoir net étaient, en fait, plus généreuses envers l’appelant que les chiffres que celui‑ci avait utilisés lui‑même. Le témoignage de la vérificatrice a prouvé que l’argument de l’appelant selon lequel le ministre n’avait pas tenu compte du montant de 36 000 $ qu’il avait reçu à titre d’allocation familiale était tout simplement mal fondé. La tendance que l’appelant avait à déduire les dépenses qu’il avait faites à l’appui de ce qui peut être décrit comme des « bonnes œuvres », c’est‑à‑dire des dons de bienfaisance, des dépenses liées à la religion et à l’éducation et un prêt consenti à sa sœur, constituait une autre faiblesse en ce qui concerne l’estimation du revenu par l’appelant. Toutefois, tout comme des paiements hypothécaires et des primes d’assurance, ces sorties de fonds exigent une source de revenu. L’appelant n’a pas permis à la vérificatrice de demander des renseignements aux institutions financières pour lui. Il a refusé de la rencontrer et il a fait preuve d’insouciance en confiant cette tâche à M. Pinto. J’accepte le témoignage de l’appelant selon lequel lui et sa famille avaient un train de vie modeste et devaient souvent avoir recours à l’aide des membres de leur famille élargie pour les nécessités de la vie. Même en tenant compte de la contribution de la famille élargie au budget de la famille Sabbah, j’ai quand même trouvé que les estimations que l’appelant avait faites concernant les sommes dépensées pour l’achat de nourriture, de vêtements et d’articles de maison pour une famille à revenu unique, dont le nombre de membres était passé de cinq à sept pendant les années d’imposition en cause, étaient excessivement basses. Par conséquent, l’appelant n’a pas réussi à réfuter les hypothèses sur lesquelles le calcul de la cotisation suivant l’avoir net était fondé. Les appels doivent donc être rejetés.
+[6] Le ministre a également imposé des pénalités pour faute lourde à l’appelant en application du paragraphe 163(2) de la Loi :
+Faux énoncés ou omissions. Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+[…]
+[7] Il incombe au ministre de prouver que ces pénalités sont justifiées[4]. Pour bon nombre des raisons considérées précédemment, les arguments de l’avocate m’ont convaincue que l’intimée s’est acquittée du fardeau de la preuve. L’appelant se souciait peu de tenir des documents comptables faisant état de son revenu de façon exacte. Il n’a pas fait preuve de bonne volonté pour ce qui est de la communication de renseignements à la vérificatrice, que ce soit personnellement ou par l’intermédiaire de son comptable. Lors de l’audience, l’appelant a indiqué qu’il ne changerait pas sa façon de faire dans l’avenir. Il s’agit d’une déclaration qui se voulait peut‑être davantage une représentation de la frustration que l’appelant éprouvait à l’égard des difficultés auxquelles il devait faire face qu’une vraie déclaration d’intention. Quoi qu’il en soit, je suis convaincue, selon la prépondérance des probabilités, que l’indifférence dont l’appelant a fait preuve à l’égard de ses obligations selon la Loi était suffisante pour justifier l’imposition des pénalités pour faute lourde pour les années d’imposition en cause.
+[8] La demande de dépens de l’intimée est également accordée, surtout compte tenu du délai causé par la demande d’ajournement que l’appelant a présentée à la dernière minute pour permettre à son comptable de témoigner.
+[9] Par conséquent, l’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 11e jour d’octobre 2007.
+« G. A. Sheridan »
+Juge Sheridan
+RÉFÉRENCE : 2007CCI601
+NO DU DOSSIER : 2005-86(IT)G
+INTITULÉ : DAVID SABBAH c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATES DE L’AUDIENCE : Le 24 avril 2007 et le 16 mai 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 11 octobre 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Suzanne Morin
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A‑4.
+[2] Pièce I-2. Voir aussi l’annexe A de la réponse à l’avis d’appel.
+[3] N° A-390-00, 24 juillet 2001 (C.A.F) au paragraphe 33.
+[4] Farm Business Consultants Inc. c. Canada, [1994] A.C.I. no 760 (C.C.I.) (confirmée à la C.A.F.); Bigayan c. Canada, [1999] A.C.I. no 778 (C.C.I.); Bastille c. Canada, [1998] A.C.I. no 1080 (C.C.I.).

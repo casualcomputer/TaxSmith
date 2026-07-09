@@ -1,0 +1,245 @@
+Title: Park v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30935/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-306-30935-park-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-08-29
+
+# Park v. The Queen
+
+- Citation: 2012 TCC 306
+- Decision date: 2012-08-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7431, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Park v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-08-29
+Neutral citation
+2012 TCC 306
+File numbers
+2009-2659(IT)G
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2659(IT)G
+BETWEEN:
+JI-HWAN PARK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 26, 2012 at Victoria, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+George F. Jones, Q.C.
+Gavin Laird
+Counsel for the Respondent:
+Matthew W. Turnell
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2007 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with and for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 29th day of August 2012.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2012 TCC 306
+Date: 20120829
+Docket: 2009-2659(IT)G
+BETWEEN:
+JI-HWAN PARK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hershfield J.
+[1] The Appellant appeals the Minister of National Revenue’s (the “Minister”) assessment of his 2007 taxation year.
+[2] In computing his income for the 2007 taxation year, the Appellant reported employment income of $158,189 being the amount received by him as an officer with the Canadian Forces (the “Employer”). The Appellant made a subsequent request to the Minister that, pursuant to subsection 110.2(2) of the Income Tax Act (the “Act”), he be allowed to claim a deduction for a lump-sum payment of $102,297 received by him in 2007. That subsection together with section 120.31 allow for income averaging for qualifying lump-sum payments.
+[3] The Appellant asserts his entitlement to this income averaging regime on the basis that the lump-sum payment he received in 2007 was a qualifying amount as defined under subsection 110.2(1) of the Act.
+[4] The Minister determined that the subject lump-sum payment was not a qualifying amount and therefore the Appellant was denied his request. That is, the original assessment denying him the benefit of the income averaging regime stands unchanged.
+[5] The Appellant objected to the assessment and the Minister confirmed it having made the following assumptions of fact:
+a) …
+b) the Appellant was employed by the Department of National Defence (the “Employer”) as a reservist;
+c) upon applying for regular service, the Appellant was accepted at a reduced pay grade;
+d) the Employer changed its payment policy as a result of adverse decisions in a number of employee grievances;
+e) the Appellant received the Lump Sum Payment in 2007 as a result of the Employer’s change in policy;
+f) the Appellant did not file a grievance against his employer regarding his back pay;
+g) the Appellant did not receive the Lump Sum Payment as a result of a grievance;
+h) the Appellant did not receive the Lump Sum Payment pursuant to the order or judgment of a competent tribunal, an arbitration award, or a contract to terminate a legal proceeding; and
+i) the Appellant earned employment income of $158,189.00 in 2007.
+Issues and Statutory Provisions
+[6] The issue is whether the lump-sum payment is a qualifying amount as defined under subsection 110.2(1) which would thereby entitle the Appellant to claim such amount as a deduction and recalculate his tax payable based on a special tax averaging calculation under subsection 110.2(2).
+[7] The relevant provisions of the Act are:
+110.2 [Lump-sum averaging] –
+(1) Definitions -- The definitions in this subsection apply in this section and section 120.31.
+“eligible taxation year”, in respect of a qualifying amount received by an individual, means a taxation year
+(a) that ended after 1977 and before the year in which the individual received the qualifying amount;
+(b) throughout which the individual was resident in Canada;
+(c) that did not end in a calendar year in which the individual became a bankrupt; and
+(d) that was not included in an averaging period, within the meaning assigned by section 119 (as it read in its application to the 1987 taxation year), pursuant to an election that was made and not revoked by the individual under that section.
+“qualifying amount” received by an individual in a taxation year means an amount (other than the portion of the amount that can reasonably be considered to be received as, on account of, in lieu of payment of or in satisfaction of, interest) that is included in computing the individual's income for the year and is
+(a) an amount
+(i) that is received pursuant to an order or judgment of a competent tribunal, an arbitration award or a contract by which the payor and the individual terminate a legal proceeding, and
+(ii) that is
+(A) included in computing the individual's income from an office or employment, or
+(B) received as, on account of, in lieu of payment of or in satisfaction of, damages in respect of the individual's loss of an office or employment,
+(b) a superannuation or pension benefit (other than a benefit referred to in clause 56(1)(a)(i)(B)) received on account of, in lieu of payment of or in satisfaction of, a series of periodic payments (other than payments that would have otherwise been made in the year or in a subsequent taxation year),
+(c) an amount described in paragraph 6(1)(f), subparagraph 56(1)(a)(iv) or paragraph 56(1)(b), or
+(d) a prescribed amount or benefit,
+except to the extent that the individual may deduct for the year an amount under paragraph 8(1)(b), (n) or (n.1), 60(n) or (o.1) or 110(1)(f) in respect of the amount so included.
+“specified portion”, in relation to an eligible taxation year, of a qualifying amount received by an individual means the portion of the qualifying amount that relates to the year, to the extent that the individual's eligibility to receive the portion existed in the year.
+(2) Deduction for lump-sum payments -- There may be deducted in computing the taxable income of an individual (other than a trust) for a particular taxation year the total of all amounts each of which is a specified portion of a qualifying amount received by the individual in the particular year, if that total is $3,000 or more.
+120.31 Lump-sum payments [averaging] --
+(1) Definitions -- The definitions in subsection 110.2(1) apply in this section.
+(2) Addition to tax payable -- There shall be added in computing an individual's tax payable under this Part for a particular taxation year the total of all amounts each of which is the amount, if any, by which
+(a) the individual's notional tax payable for an eligible taxation year to which a specified portion of a qualifying amount received by the individual relates and in respect of which an amount is deducted under section 110.2 in computing the individual's taxable income for the particular year
+exceeds
+(b) the individual's tax payable under this Part for the eligible taxation year.
+(3) Notional tax payable -- For the purpose of subsection (2), an individual's notional tax payable for an eligible taxation year, calculated for the purpose of computing the individual's tax payable under this Part for a taxation year (in this subsection referred to as “the year of receipt ”) in which the individual received a qualifying amount , is the total of
+(a) the amount, if any, by which
+(i) the amount that would be the individual's tax payable under this Part for the eligible taxation year if the total of all amounts, each of which is the specified portion, in relation to the eligible taxation year, of a qualifying amount received by the individual before the end of the year of receipt, were added in computing the individual's taxable income for the eligible taxation year
+exceeds
+(ii) the total of all amounts each of which is an amount, in respect of a qualifying amount received by the individual before the year of receipt, that was included because of this paragraph in computing the individual's notional tax payable under this Part for the eligible taxation year, and
+(b) where the eligible taxation year ended before the taxation year preceding the year of receipt, an amount equal to the amount that would be calculated as interest payable on the amount determined under paragraph (a) if it were so calculated
+(i) for the period that began on May 1 of the year following the eligible taxation year and that ended immediately before the year of receipt, and
+(ii) at the prescribed rate that is applicable for the purpose of subsection 164(3) with respect to the period.
+[8] While these provisions illustrate the complexities of a drafting style aimed at a precise methodological approach to spreading the tax impact of some lump-sum payments, its objective is straightforward. In a marginal rate system, taxing a lump-sum in the year received may attract greater tax payable than if it was received and taxed on a spread-out basis. In certain cases, and only in certain cases, Parliament provides relief from such result. In those cases, the lump-sum amount is removed from income in the year of receipt and apportioned over the years to which it relates. A notional tax is then computed on that basis for each of the years over which the income was spread. The total of all such notionally calculated amounts (plus any interest that would have accrued if the notional tax amount were actually payable in the year to which the portion of the lump-sum relates) is then added to tax payable in the year the lump-sum was received.
+[9] This is the averaging regime that the Appellant wants applied to the calculation of his tax payable in the subject year.
+[10] Drafting complexities aside, the issue here is simply whether the lump-sum payment received by the Appellant in 2007 was a “qualifying amount”. Not all lump-sum receipts qualify for the income averaging regime that these provisions allow. To qualify the amount has to be:
+… received pursuant to an order or judgment of a competent tribunal, an arbitration award or a contract by which the payor and the individual terminate a legal proceeding.
+[11] The Respondent submits that the Appellant’s receipt in this case was not “pursuant” to any of the required directives set out in this provision. There was no order or judgment of a competent tribunal, no arbitration award and no legal proceeding in respect of which the receipt could be attributed. Acknowledging that a grievance procedure could qualify as a legal proceeding, the Respondent submits, as stated in the Minister’s assumptions set out above, that the back-pay entitlement in this case did not arise from the filing of a grievance against the Employer, but rather arose from a change in the Employer’s pay grade entitlement policies.
+[12] The Appellant asserts that he did file a grievance that was effectively terminated by the Employer’s acceptance of his entitlement. As well, it is asserted that the lump-sum payment he received reflected a direction or order of a competent tribunal.
+[13] The Appellant testified at the hearing. The Appellant is currently a naval logistics officer with the Canadian Forces. His rank is Lieutenant, Navy. He was the only witness giving evidence. I accept his evidence as honestly and fairly given.
+[14] Prior to entering the Canadian Forces Regular Officer Training Program as an Officer Cadet in 2001, he was a Private in the reserve forces. On entering the officer training program his rate of pay was decreased from that which it had been as a Private.
+[15] Other reservists, in similar circumstances, challenged their decreased pay as an unfair pay reduction and as a result of these challenges the Employer recognized its obligation not to reduce an Officer Cadet’s rate of pay to less than their rate of pay prior to entering into the training program. Accordingly, the Appellant emailed the Canadian Forces Recruiting Group (the “CFRG”) seeking a review of his pay.
+[16] The Appellant was advised that he was required to make a formal request for a review in a memorandum and seek the approval of his commanding officer. The request to the CFRG was formalized in a memorandum and his commanding officer supported the request. A decision by the CFRG was made on May 7, 2007 approving the lump-sum payment to the Appellant to reflect his pay entitlement since his enrolment as an Officer Cadet.
+[17] There was, as well, an email record that the Appellant submitted at the hearing which was replete with military anachronisms that the parties graciously “translated” for me in a consent document filed after the hearing.
+[18] What the emails appear to reflect are not only the various operational groups that needed to be informed of decisions affecting military operations and military personnel but the need for a hierarchical chain of command to be included and informed. So, for example, a CFRG inquiry was copied to: National Defence Headquarters Director General Finance Operations Ottawa//Director Account Processing Pay and Pension Military Pay Operations//National Defence Headquarters Assistant Chief of Military Personnel Ottawa ---. As well, there were information notices to National Defence Headquarter Director General Recruiting Military Careers and others groups. As well, reference is made to the Assistant Deputy Minister (Human Resource – Military) Instruction July/2005 which might well be the authority that resolved the grievances referred to above by recognizing the Employer’s obligations to respect a higher pay grade. Or, as the Respondent would say, it might well be the authority reflecting the Employer’s policy clarification. In any event, the timing of this “Instruction” appears to correspond with the time that the Respondent asserts there to have been a policy change. Regardless, the Minister has the onus to clarify any chain of command decision procedures and that onus has not been addressed.
+Appellant’s Submissions
+[19] The Appellant describes the subject lump-sum payment averaging provisions as being remedial and as such must be given a large and liberal interpretation to attain its object. The Appellant cites R. v. 974649 Ontario Inc.;[1] section 12 of the Interpretation Act[2] and Bell Express Vu Limited Partnership v. Rex.[3]
+[20] The Appellant asserts that the CFRG is a competent tribunal and in making that submission recommends that I embrace the meaning of “tribunal” as defined very broadly in subsection 2(1) of the Federal Courts Act.[4] That subsection defines the term “tribunal” under the following definition:
+“Federal board, commission or other tribunal” means any body, person or persons having, exercising or purporting to exercise jurisdiction or powers conferred by or under an Act of Parliament or by or under an order made pursuant to a prerogative of the Crown, other than the Tax Court of Canada or any of its judges, any such body constituted or established by or under a law of a province or any such person or persons appointed under or in accordance with a law of a province or under section 96 of the Constitution Act, 1867;
+[21] The Appellant submits that using this definition, the Federal Court routinely decides judicial review applications based on the decision of a single administrative decision maker that has relatively limited authority. For example, in a tax context, the Federal Court will often, or so it is suggested by the Appellant, decide a judicial review application submitted under subsection 18.1(2) of the Federal Courts Act on the decision of a CRA officer on a tax relief application for waiver of interest and/or penalties.
+[22] Further, the Appellant relies on the decision in Bozzer v. The Queen,[5] where the Federal Court of Appeal decided a judicial review application, submitted under subsection 18.1(2) of the Federal Courts Act, regarding the decision of a CRA officer on a taxpayer relief application. Despite the absence of any court or quasi-judicial trappings, the CRA officer was considered by definition a “federal board, commission or other tribunal”.
+[23] The Appellant further makes reference to the 2010 Supreme Court of Canada decision in Canada (Attorney General) v. TeleZone Inc..[6] The court in that case in referring to the definition of “federal board, commission or other tribunal” found that the federal decision makers that are included run the gamut from the Prime Minister and major boards and agencies to the local border guard and customs official and everybody in between.
+[24] In recommending the adoption of this broad definition in the context of the Act the Appellant refers to the decision of Kelen J. of the Federal Court (Trial Division) in Canada (Information Commissioner) v. Canada (Minister of National Defence).[7] In that case the Federal Court held that the presumption that Parliament intends to use language consistently applies not only within the statutes but across statutes.[8]
+[25] The Supreme Court of Canada in its hearing of that case[9] upheld the ruling of Kelen J. finding his analysis on the point contained no error.
+[26] It is submitted that applying the Federal Court definition of “tribunal” would be particularly appropriate given its relieving nature which would be consistent with the nature of section 110.2 of the Act which itself is a relieving provision that should be given a large and liberal construction.
+[27] The Appellant points out that there has been no suggestion or evidence whatsoever to suggest that the CFRG acted ultra vires in reviewing the Appellant’s historic pay and ultimately rendering its decision. Indeed, by the very act of rendering its decision the recruiting group clearly “purported” to exercise jurisdiction of powers conferred by or under an Act of Parliament bringing it within the definition of a tribunal at least as set out in the Federal Courts Act.
+[28] The Appellant also argues that the term “tribunal” arises in the context of administrative law. As such, authorities that should be regarded as reviewable tribunals should correspond with current trends in administrative law. That trend is illustrated in Dunsmuir v. New Brunswick,[10] where the Supreme Court of Canada recognized Nicholson v. Haldimand-Norfolk Regional Board of Commissioners of Police,[11] as marking the turn to a less rigid approach of natural justice in Canada. Dunsmuir contemplates that administrative powers are exercised by all kinds of administrative actors in the context of assessing applications for judicial review.
+[29] The Court in Dunsmuir uses the terms “decision maker” and “tribunal” in a flexible manner as evidenced in paragraph 50 where, again in the context of judicial review, the Supreme Court of Canada states that without question the standard of correctness must be maintained to promote just decisions by not showing deference to a decision maker’s reasoning process. In that same paragraph 50, the court goes on to say that from the outset the court must ask whether the tribunal’s decision was correct.
+[30] The Appellant also points out that in Dunsmuir the court did not put emphasis on the formalities or court-like procedures employed by the administrative body in the making of its decision. As well, and in any event, the Appellant noted that there was a degree of formality in the instant case evidenced by the recruiting group requiring the Appellant to make a formal request and by giving a decision in writing.[12]
+[31] The Appellant also argues that the CFRG was not only a tribunal but a “competent” tribunal. It was submitted that the recruiting group functions within the broad parameters of subsection 17(1) of the National Defence Act,[13] which states:
+The Canadian Forces shall consist of such units and other elements as are from time to time organized by or under the authority of the Minister.
+[32] The Appellant also asserts that the exercise of authority by the recruiting group is authorized because it is within the “custom of the service” which is empowered by section 49 of the National Defence Act which states:
+Any power or jurisdiction given to, and any act or thing to be done by, to or before any officer or non-commissioned member may be exercised by, or done by, to or before any other officer or non-commissioned member for the time being authorized in that behalf by regulations or according to the custom of the service.
+[33] Again, the Appellant submits that there has been no suggestion that the decision of the CFRG was ultra vires and thus by definition its decision was that of a “competent tribunal”.
+[34] The Appellant also submits that if a different conclusion is warranted under the labyrinth of the hierarchical inner-workings of the military or any particular government department or branch, then it is up to the Respondent to bear the burden of establishing same.
+[35] The Appellant also submits that while the decision of the CFRG may not appear to be an order or judgment, giving a strict meaning to those terms would not be consistent with a broad definition of the term “tribunal”. In any event, the written decision of a tribunal can and has been referred to as a “judgment”. For example, the Supreme Court of Canada did so in Quebec (Commission des droits de la personne et des droits de la jeunesse) v. Maksteel Québec Inc..[14]
+[36] Again, in the context of the Federal Court Act, this points out that subsection 18.1(2) of that Act refers to orders from tribunals as corresponding to a decision.
+Respondent’s Submissions
+[37] The Respondent submits that the relevant portion of the definition of “qualifying amount” provides that the amount must have been received pursuant to one of the three options set out in subparagraph (a)(i) of that definition in subsection 110.2(1):
+(a) an order or judgment of a competent tribunal;
+(b) an arbitration award or;
+(c) a contract by which the payor and the individual terminate a legal proceeding.
+[38] The Respondent submits that a “competent tribunal” is one with legal jurisdiction granted by a federal or provincial statute to make an order or judgment. The Respondent relies on Bates v. The Queen[15] at paragraph 19.
+[39] It is further submitted that an “arbitration award” must be one resulting from a bona fide or formal arbitration process. As well, it is submitted that a contract terminating a “legal proceeding” would typically refer to an out of court settlement of a legal proceeding authorized by law. The Respondent’s position is based on the asserted fact that the Appellant was not a party to an order or judgment of a competent tribunal, an arbitration award or a settlement of a legal proceeding. It is submitted that the Appellant received the amount as a result of a clarification of his Employer’s policy regarding past services.
+[40] The Respondent acknowledges that there was uncertainty in establishing the rate of pay for persons like the Appellant who went from the reserve forces into the regular forces. It is acknowledged that such uncertainty affected many members of the forces and that as a result of a number of grievances filed by such other members of the Canadian Forces, the Department of National Defence clarified its policy and as a result of that clarification the Appellant received the lump-sum payment.
+[41] The Respondent submits that the Appellant wants the phrase “pursuant to” to be broadly interpreted to mean “as a result of”. The Respondent submits that such an expansive interpretation is inappropriate based on the facts of this case and the application of principles of statutory interpretation.
+[42] In respect of principles of statutory interpretation, the Respondent relies on the findings of the Supreme Court of Canada in Canada Trustco Mortgage Co. v. R..[16] In that decision the Supreme Court of Canada noted at paragraph 10 that when the words of a provision are precise and unequivocal the ordinary meaning of the words play a dominant role in the interpretive process. Where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. In all cases, the Court must seek to read the provisions of an Act as a harmonious whole.
+[43] It is submitted that the plain and ordinary meaning of the phrase “pursuant to” means that the amount must be paid in conformance with or under the terms of one of the three options noted above.
+[44] It is further submitted that the phrase “pursuant to” generally means “following upon, consequent and in conformance to; in accordance with”. Black’s Law Dictionary, (9th ed.) defines the phrase “pursuant to” as meaning:
+1. In compliance with; in accordance with, under …
+2. As authorized by ; under …
+[45] These definitions require that the plain ordinary meaning of the phrase “pursuant to” be understood as being more restrictive and narrow than other possible terms such as “as a result of” or “as a consequence of”. The phrase “pursuant to” requires a direct link between the amount received and the order, arbitration award or legal proceeding. It is submitted that the use of a more restrictive phrase reflects the intention of Parliament to restrict the circumstances in respect of which lump-sum payments should be afforded the benefit of the averaging calculation.
+[46] Further, reliance is placed on the Supreme Court of Canada decision in Minister of National Revenue v. Armstrong.[17] In that case, all three justices who wrote reasons agreed that the payment being considered, namely a lump-sum payment, was not made pursuant to an order or judgment in a divorce or separation action. In the words of Locke J. at page 449:
+… It cannot … be properly said that this lump sum was paid, in the words of the section, pursuant to the divorce decree. It was, it is true, paid in consequence of the liability imposed by the decree for the maintenance of the infant, but that does not fall within the terms of the section. [Emphasis in original.]
+[47] Similarly, Kerwin CJ stated at page 447:
+… The test is whether it was paid in pursuance to a decree, order or judgment, and not whether it was paid by reason of a legal obligation imposed or undertaken. …
+[48] It was submitted that a similar conclusion was also reached by the Federal Court of Appeal in R. v. Melford Developments Inc.[18] The Respondent also refers to the French version of the Act where the words “en exécution” are used in place of “pursuant to”.
+[49] It is argued that the phrase “en exécution” used in the French version of the subject provision is more restrictive than the phrase “conformément à” which is used in other provisions of the Act. The French version of the subject provision implies that there has to be a direct causal link between the payment of the amount and the order, award or settlement agreement. Accordingly, the Appellant’s suggestion that “pursuant to” in the English version should be read broadly, creates a conflict of the plain meaning of the words used in the French version.
+[50] The Respondent also cites the Supreme Court of Canada decision in Schreiber v. Canada (Attorney General)[19] where it was held that where one of two versions, English or French, is broader than the other, the common meaning would favour the more restricted or limited meaning.[20]
+[51] The Respondent also pursues arguments based on a contextual interpretation as well as a purposive interpretation of the subject provision. Contextually, there must be a direct link between the lump-sum received and the order or judgment, the arbitration award or settlement upon which the taxpayer relies. The individual entitled to the averaging must be the same individual that was a party to the resolution of the dispute. Contextually, it is further submitted that the definition of “qualifying amount” should only include payments in respect of specific types of payments that were expressly prescribed by Parliament including a superannuation of pension benefits, spousal or child support amounts, employment insurance and the like. The specific types of payments illustrate that lump-sum averaging is not available in every situation where a lump-sum payment is received.
+[52] A purposive interpretation can be drawn from the 1999 Budget which included the “The Budget Plan 1999”, a document prepared by the Department of Finance and tabled by the Minister of Finance. That document described retroactive lump-sum payments as:
+income from an office or employment or income received because of termination of an office or employment, received under the terms of a court judgment, arbitration, award or settlement of a law suit.
+[53] The legislative proposals and explanatory notes which followed the Budget and were published in September 1999 confirm this explanation of the purpose. In particular, that document states:
+A qualifying amount is the principal portion of certain amounts included in income. Those amounts are: spousal or child support amounts, superannuation or pension benefits otherwise payable on a periodic basis, employment insurance benefits and benefits paid under wage loss replacement plans. Also included is the income received from an office or employment (or because of a termination of an office or employment) under the terms of a court order or judgment, an arbitration award or in settlement of a lawsuit.[21] [Emphasis added.]
+[54] Lastly, the Respondent submits that the recruiting group cannot be regarded as a competent tribunal since it is without legal jurisdiction granted by federal or provincial statute to make an order or judgment and since it is not an administrative tribunal possessing legal jurisdiction to adjudicate disputes. The common theme amongst the three possible circumstances allowing for a lump-sum payment to be a “qualifying amount” is that it be received pursuant to the outcome or resolution of a formal legal dispute. In the case at bar, it is submitted that there is and has not been a formal legal dispute.
+Analysis
+[55] Resolution of the issue in this case requires answering the following questions:
+a) Is the CFRG a competent tribunal? And if so,
+b) Was payment received pursuant to an order of that tribunal?
+[56] While both parties have made excellent submissions on both these questions, none of the authorities relied on are definitive in terms of their application to this case. Nonetheless, I am persuaded that the CFRG must be regarded as a competent tribunal and that the payment was received pursuant to an order of that tribunal.
+[57] As to both questions, I accept the Appellant’s arguments and essentially adopt them as my own. They are well conceived, well supported by the jurisprudence and are in total harmony with a construction of the subject provisions which are clearly intended to relieve the marginal tax rate disadvantage imposed in cases where past year’s employment income entitlements have been corrected by a process that cannot be suspect of anything other than arising from a dispute or grievance that has been genuinely resolved by recourse to a formally recognized dispute or grievance resolution process. The Appellant had a grievance that was resolved by recourse to a formally recognized resolution process which gave rise to the decision of a statutorily recognized authority.
+[58] More specifically, as to whether the CFRG is a tribunal, I accept that the meaning of “tribunal” in the context of the definition of “qualifying amount” should, for the purposes of sections 110.2 and 120.31, be no less broad than defined in subsection 2(1) of the Federal Courts Act. While the principle of consistently applying language across statutes might not, in and by itself, be a compelling argument to endorse the meaning of a word carefully defined in one enactment but left undefined in another, as applying to the latter enactment, it is in this case, an argument that I find to be persuasive.
+[59] The CFRG clearly acted or purported to act as the responsible administrative decision maker in terms of granting the relief sought by the Appellant. The Appellant’s reliance on Bozzer and TeleZone confirm that neither the absence of judicial trappings nor the hierarchy of authority are themselves determinative of the sufficiency of the authority required to constitute a “tribunal”. If a border guard can be a “tribunal” for administrative law purposes, the CFRG can be a “tribunal” for the purposes of sections 110.2 and 120.31 of the Act. Further, the Appellant’s reliance on Dunsmuir, is not misplaced in my view in terms of my embracing his argument that as relieving provisions, sections 110.2 and 120.31 should recognize a broad range of administrative actors.
+[60] I also accept that the CFRG is a “competent tribunal”. Again, while the Respondent’s arguments on this point are more formidable, the Appellant has established a prima facie case that the CFRG was competent to make the determination and decision it made. I am impressed not only by the references in email correspondence to the chain of command that was apprised of the Appellant’s “grievance”, and thereby effectively part of the decision making process, but as well by the Appellant’s reliance on section 49 of the National Defence Act. The military exists in a world of its own. What happens at the CFRG level might well be said to have been statutorily authorized or more plainly put, section 49 of the National Defence Act might well be found to statutorily empower the CFRG as a “competent tribunal” to make the order or judgment that resulted in the subject payment being made to the Appellant.
+[61] As well, I agree with Appellant’s counsel that the burden has shifted at this point to the Respondent. The world of the military cannot be better understood, explained or argued than by the Respondent. I have heard nothing from the Respondent to answer the Appellant’s submissions as to the competency ob authority of the CFRG to make a determination, order or judgment requiring the payment in question to the Appellant.
+[62] Indeed, the Respondent at this point relies on a well-framed and well supported argument that the payment was not made “pursuant to” an order or judgment by which the Employer terminated a “legal proceeding”.
+[63] However, the Respondent does acknowledge that a grievance is a “legal proceeding”. That concession should not be undermined nor be taken issue with by this Court. It is consistent with the relieving nature of the provisions at issue.
+[64] Notwithstanding this acknowledgment, the Respondent argues that the Appellant did not file a “grievance”. It is the Respondent’s position that the Appellant’s entitlement to the payment was a result of a change in policy caused by the prior grievances of others in similar circumstances as the Appellant.
+[65] The Respondent draws a fine line here between a “grievance” procedure that ought to be accepted as a “legal proceeding” and a procedure that falls short of that line. Again, there is the difficulty here of understanding, in the context of the armed services, what might be a “grievance” procedure and that, in turn, raises questions of which party has the onus of proof. The Respondent has been of no assistance in this regard and on that basis I am inclined to find that the formal request in this case was a grievance that ought to be treated in a similar manner as the Minister treats other grievances resolved by, as I have found in this case, a competent authority.
+[66] Further, and importantly in this case, there is a very clear nexus between the acknowledged “grievances” of others, their resolution and the resolution of the Appellant’s formal request for a decision that abided by the decisions made in respect of those prior grievances. Precedents are the basis for most decisions. That a decision maker relies on a precedent, does not change a decision to compliance with a policy.
+[67] In my view, it is simply unacceptable that the subject provisions of the Act be read to require the advancement of certain formal litigation steps before they allow the relief they are meant to provide. This is especially true where there is a strong nexus between the settlement of a prior claim and the claim of another in similar circumstances. The issue is not the formality of the steps taken but whether there is a claim based on an entitlement. In this context, legal proceedings might start with a filed claim, a lawyer’s letter enclosing a draft claim or a complainant’s letter setting out a genuine basis for a claim. If the latter approach leads to a resolution by a competent authority, that should be sufficient to find that a “legal proceeding” has been terminated. The early resolution of an issue should not too readily be found to be a bar to a tax treatment that protracting that issue with formalist legal trappings would permit.
+[68] The formal “request” here was not asking for compliance with a policy. It was a claim based on an assertion of an entitlement established by prior competent tribunal pronouncements. The recognition of the entitlement by a competent tribunal terminated the claim. That is sufficient in my view.
+[69] For these reasons the appeal is allowed, with costs.
+Signed at Ottawa, Canada this 29th day of August 2012.
+"J.E. Hershfield"
+Hershfield J.
+CITATION: 2012 TCC 306
+COURT FILE NO.: 2009-2659(IT)G
+STYLE OF CAUSE: JI-HWAN PARK AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Victoria, British Columbia
+DATE OF HEARING: March 26, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT: August 29, 2012
+APPEARANCES:
+Counsel for the Appellant:
+George F. Jones, Q.C.
+Gavin Laird
+Counsel for the Respondent:
+Matthew W. Turnell
+COUNSEL OF RECORD:
+For the Appellant:
+Name & Firm: George F. Jones, Q.C.
+Horne Coupar, Barristers & Solicitors
+3rd Floor, 612 View Street
+Victoria, British Columbia, V8W 1J5
+Name & Firm: Gavin Laird
+Laird & Company
+204-12165 Harris Road
+Pitt Meadows, B.C., V3Y 2E9
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2001 SCC 81.
+[2] R.S.C., 1985, c. I-21.
+[3] 2002 SCC 42.
+[4] R.S.C., 1985, c. F-7.
+[5] 2011 FCA 186.
+[6] 2010 SCC 62.
+[7] 2008 FC 766.
+[8] At paragraph 76.
+[9] 2011 SCC 25.
+[10] 2008 SCC 9.
+[11] [1979] 1 S.C.R. 311.
+[12] The Respondent has not taken issue with the assertion that the decision transmitted by email was in writing.
+[13] R.S.C., 1985, c. N-5.
+[14] 2003 SCC 68. See at paragraph 5.
+[15] 98 DTC 1919 (T.C.C.).
+[16] 2005 SCC 54.
+[17] [1956] S.C.R. 446.
+[18] [1981] 2 F.C. 627 (FCA). See paragraph 21.
+[19] 2002 SCC 62.
+[20] At paragraph 56.
+[21] Legislative Proposals and Explanatory Notes Relating to Income Tax, September 1999, pps. 88-89.

@@ -1,0 +1,94 @@
+Title: Deschambault c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30763/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-107-30763-deschambault-c-la-reine.md
+Document type: case_law
+Last modified: 2012-02-17
+
+# Deschambault c. La Reine
+
+- Citation: 2012 CCI 107
+- Decision date: 2012-02-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7500, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Deschambault c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-02-17
+Référence neutre
+2012 TCC 107
+Numéro de dossier
+2010-3004(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+2010-3004(IT)I
+BETWEEN:
+ROBERT DESCHAMBAULT
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Monica Huntley 2010-2665(IT)I on February 16 and 17, 2012
+and decision rendered orally on February 17, 2012 at Ottawa, Ontario
+By: The Honourable Justice Brent Paris
+Participants:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Whitney Dunn
+____________________________________________________________________
+AMENDED ORDER
+The Appellant’s application to have the Judgment rendered from the bench on February 17, 2012 set aside or reconsidered is dismissed.
+This Amended Order is issued in substitution of the Order dated April 2, 2012.
+Signed at Vancouver, British Columbia, this 26th day of April 2012.
+"B. Paris"
+Paris J.
+Citation: 2012 TCC 107
+Date: 20120402
+Docket: 2010-3004(IT)I
+BETWEEN:
+ROBERT DESCHAMBAULT
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+I rendered an oral decision in this appeal, as well as the related appeal of Monica Huntley v The Queen 2010-2665(IT)I on February 17, 2012. I dismissed the appeal of Mr. Deschambault and allowed the appeal of Ms. Huntley.
+Prior to my signing the written judgment, Mr. Deschambault contacted the Court Registry and requested that I set aside or reconsider my decision on the basis that he was on medication during the hearing and for this reason should not have testified.
+He has provided a letter from a nurse practitioner who listed two medications Mr. Deschambault was taking at the time of the hearing. The letter also stated that "both these medications have adverse effects which may involve memory".
+At the hearing, Mr. Deschambault represented himself, gave evidence and cross-examined Ms. Huntley. Mr. Deschambault did not have any apparent difficulty participating in any of these aspects of the hearing. Nothing in his behaviour indicated that his memory was impaired. The evidence he gave and his cross-examination of Ms. Huntley were cogent and coherent.
+I find that the letter submitted by Mr. Deschambault is insufficient to show that his memory was impaired during the hearing. The letter refers only to a possibility rather than a probability or likelihood of impairment. Therefore, it is appropriate to rely on my own observations of Mr. Deschambault’s behaviour in assessing his ability to participate in the hearing.
+For these reasons, I decline to set aside or reconsider my decision in Mr. Deschambault’s appeal.
+Signed at Ottawa, Canada, this 2nd day of April 2012.
+"B. Paris"
+Paris J.
+CITATION: 2012 TCC 107
+COURT FILE NO.: 2010-3004(IT)I
+STYLE OF CAUSE: ROBERT DESCHAMBAULT AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: February 16 and 17 2012
+REASONS FOR ORDER BY: The Honourable Justice B. Paris
+DATE OF ORDER: April 2, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Whitney Dunn
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

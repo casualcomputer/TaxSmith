@@ -1,0 +1,199 @@
+---
+title: "Healy v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26832/index.do"
+last_modified: "2005-09-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 578"
+citation2: ""
+neutral_citation: "2005 CCI 578"
+decision_date: "2005-09-09"
+language: "fr"
+item_id: "26832"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 703
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:32:16.816000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "86a9d9cee9db00940493d498d460e6b9e936a56b8fd1b000cd8f538ce6959fff"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Healy v. The Queen
+
+- Citation: 2005 CCI 578
+- Decision date: 2005-09-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 703, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Healy v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-09
+Référence neutre
+2005 CCI 578
+Numéro de dossier
+2003-1450(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1450(IT)G
+ENTRE :
+DOROTHY HEALY, EXÉCUTRICE TESTAMENTAIRE
+DE LA SUCCESSION DE OMER HEALY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Dorothy Healy (2003‑1685(IT)I), le 22 août 2005 à Prince George (Colombie‑Britannique).
+Devant l’honorable juge B. Paris
+Comparutions
+Représentant de l’appelante :
+Arthur J. Burrows
+Avocat de l’intimée :
+Me Tom Torrie
+____________________________________________________________________
+JUGEMENT
+Les appels à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1998 et 1999 sont rejetés.
+Signé à Ottawa, Canada, ce 9e jour de septembre 2005.
+« B. Paris »
+J. Paris
+Traduction certifiée conforme
+ce 25e jour d’octobre 2005
+Ginette Côté, trad. a.
+Dossier : 2003-1685(IT)I
+ENTRE :
+DOROTHY HEALY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Dorothy Healy, exécutrice testamentaire de la succession de Omer Healy (2003‑1450(IT)G), 22 août 2005 à Prince George (Colombie‑Britannique).
+Devant l’honorable juge B. Paris
+Comparutions
+Représentant de l’appelante :
+Arthur J. Burrows
+Avocat de l’intimée :
+Me Tom Torrie
+____________________________________________________________________
+JUGEMENT
+Les appels à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1999 et 2000 sont rejetés.
+Signé à Ottawa, Canada, ce 9e jour de septembre 2005.
+« B. Paris »
+J. Paris
+Traduction certifiée conforme ce 25e jour d’octobre 2005
+Ginette Côté, trad. a.
+Référence : 2005CCI578
+Date : 20050909
+Dossier : 2003-1450(IT)G
+ENTRE :
+DOROTHY HEALY, EXÉCUTRICE TESTAMENTAIRE
+DE LA SUCCESSION DE OMER HEALY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+2003-1685(IT)I
+DOROTHY HEALY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+J. Paris
+[1] Les nouvelles cotisations visées par l’appel rejetaient les demandes de déduction de gains en capital égales aux gains en capital découlant de la vente de bois d’œuvre provenant du bien que l’appelant et son époux possédaient près de Quesnel (Colombie‑Britannique). M. Healy a fait l’objet d’une nouvelle cotisation pour inclure les gains en capital découlant de la vente de bois d’œuvre dans le calcul de son revenu pour les années 1998 et 1999 et dans celui de Mme Healy pour les années 1999 et 2000. (M. Healy est décédé en août 1999.)
+[2] L’appelante allègue que le bien duquel provenait le bois d’œuvre était utilisé principalement dans le cadre de l’exploitation d’une entreprise agricole et que le bois d’œuvre constituait donc un « bien agricole admissible » pour l’application du paragraphe 110.6(1) de la Loi de l’impôt sur le revenu (la « Loi »). Les gains en capital découlant de la disposition d’un bien agricole qualifié peuvent être portés en déduction de gains en capital équivalents, jusqu’à concurrence de 500 000 $, en vertu du paragraphe 110.6(2) de la Loi.
+[3] Dorothy Healy interjette également appel du rejet de sa demande de déduction de pertes agricoles s’établissant à 1 260 $ et 6 199,23 $ dans les années 1999 et 2000 respectivement.
+[4] En établissant les cotisations, le ministre du Revenu national (le « ministre ») a tenu pour acquis que l’appelante et son époux n’avaient jamais exploité une entreprise agricole sur le bien et que celui‑ci (y compris le bois d’œuvre qui s’y trouvait) ne constituait pas un bien agricole admissible.
+[5] Les appels ont été entendus sur preuve commune. Seuls Mme Healy et son comptable ont témoigné.
+[6] Il se dégage de la preuve que M. et Mme Healy ont acquis le bien en 1974. Il comprenait 220 acres environ de terrain ainsi qu’une maison, une étable, quelques remises et une remorque. Il semble qu’il y avait une douzaine d’acres de défrichées pour la culture du foin. Une superficie de 40 acres était boisée et le reste était couvert de buissons non entretenus.
+[7] Avant de faire l’acquisition du bien, M. et Mme Healy résidaient à Vancouver avec leur petite fille, mais M. Healy voulait élever sa fille dans une ferme à la campagne. Jeune garçon, il avait vécu à la ferme chez ses grand‑parents et considérait y avoir passé les plus belles années de sa vie.
+[8] De 1974 à 1995 environ, l’appelante et son époux ont élevé du bétail et cultivé du foin sur leur bien. Le nombre d’animaux est demeuré généralement stable, soit six têtes de bétail, un cheval, trois cochons, 15 poulets, deux canards et quelques dindons. Le cheval était réservé à la fille pour faire de l’équitation. Seulement une tête de bétail a été vendue au cours des années. Quelques bêtes étaient envoyées à l’abattoir chaque année afin de procurer de la viande à la famille. Une partie de la viande était aussi remise aux voisins pour les remercier de leur aide lors de la récolte du foin ou encore donnée en cadeau. Un cochon était abattu chaque année pour nourrir la famille. Mme Healy vendait des œufs aux voisins mais ne comptabilisait par les revenus. Elle utilisait l’argent pour acheter de la nourriture pour les animaux. Le foin qui poussait sur le bien était utilisé en totalité pour les animaux
+[9] Mme Healy s’occupait des animaux de la ferme et donnait un coup de main pour la récolte du foin et la pose des clôtures chaque année. M. Healy était souvent absent de la maison car il travaillait comme plombier et tuyauteur. En 1995 environ, Mme Healy a décidé qu’elle n’était plus capable de s’occuper seule des animaux, lesquels ont donc été vendus ou abattus. Elle n’a pas indiqué combien son époux et elle avaient reçu ni ce qu’ils avaient fait de l’argent.
+[10] Depuis 1995, un voisin est autorisé à récolter et conserver le foin provenant des champs des Healy.
+[11] En 1997 environ, M. Healy a décidé de prendre sa retraite et de consacrer plus de temps à l’exploitation agricole. Il a pris les mesures nécessaires pour faire abattre les arbres sur les 40 acres afin de disposer d’un revenu pour la retraite et l’exploitation de la ferme. L’abattage des arbres a commencé en 1998. M. Healy a reçu 155 557 $ en 1998 et 47 519 $ en 1999. Après avoir tenu compte du prix de base rajusté du bois d’œuvre, il a réalisé des gains en capital de 100 181 $ et 28 546 $ pour ces années respectivement. L’abattage s’est poursuivie en 1999 et 2000 après le décès de M. Healy. Mme Healy a reçu un produit de 85 279 $ en 1999 et de 19 063 $ en 2000 de cette activité, et réalisé des gains en capital de 50 405 $ et 13 200 $ dans ces mêmes années.
+[12] M. Healy s’occupait de toutes les questions financières de la famille. Mme Healy n’était au courant d’aucuns détails financiers concernant l’activité agricole; elle a été incapable de dire si M. Healy avait déjà déclaré les activités agricoles à titre d’entreprise aux fins de l’impôt. Elle a indiqué que M. Healy aurait comptabilisé les dépenses mais elle ne disposait d’aucun document contenant des données financières sur l’activité agricole.
+[13] Selon la réponse à l’avis d’appel relativement à la succession, M. Healy a demandé la déduction de pertes agricoles restreintes s’établissant à 978 $ en 1981 et à 5 679 $ en 1982 et n’a jamais déclaré de revenu agricole. De même, Mme Healy n’a jamais fait état de revenus agricoles dans ses déclarations de revenu.
+[14] Après le décès de M. Healy, Mme Healy a retenu les services d’un comptable pour l’aider à régler les questions fiscales. Elle ne se rappelait pas avoir produit de déclaration de revenu pour les années 1999 et 2000, mais les documents qui ont été admis en preuve avec le consentement de l’avocat indiquent qu’elle n’avait pas demandé la déduction de pertes agricoles pour ces années‑là au départ. Après qu’elle eut fait l’objet d’une nouvelle cotisation refusant la déduction des gains en capital découlant de la vente de bois d’œuvre, son comptable a préparé et produit un état des revenus et dépenses agricoles pour son compte. Cet état n’indiquait aucun revenu agricole et présentait des estimations des dépenses, a-t‑il été admis, que le comptable et Mme Healy croyaient reliées aux activités agricoles.
+[15] Il m’apparaît que le comptable de l’appelante a produit les formulaires dans le but d’étoffer la prétention selon laquelle le bien était utilisé dans le cadre d’une entreprise agricole. Mme Healy n’a pas fourni de précisions sur le genre d’activité agricole qui avait cours dans ces années‑là. À un moment donné, elle a déclaré qu’il ne restait plus de bétail après 1995; or, un peu plus tard, elle a affirmé qu’elle avait conservé quelques poulets. À un autre moment donné, elle a indiqué qu’elle était incapable de se rappeler les événements survenus après le décès de son époux. Quoi qu’il en soit, elle a été incapable de préciser en quoi les dépenses indiquées dans l’état se rapportaient à l’activité agricole.
+Analyse
+[16] La définition de « bien agricole admissible » se trouve au paragraphe 110.6(1) de la Loi. Les éléments pertinents de cette définition, pour les fins des appels en instance, sont les suivants :
+110.6(1) Les définitions qui suivent s'appliquent au présent article.
+[...]
+« bien agricole admissible » S'agissant d'un bien agricole d'un particulier à un moment donné, [...] l'un des biens suivants appartenant à ce moment donné au particulier, [...] :
+a) un bien immeuble qui a été utilisé [...] :
+(i) soit par le particulier,
+[...]
+(iii) soit par l'époux ou conjoint de fait [...] d'un particulier visé au sous-alinéa (i) ou (ii).
+[...]
+pour l'application du présent alinéa, un bien immeuble n'est considéré comme utilisé dans le cadre de l'exploitation d'une entreprise agricole au Canada que si, selon le cas :
+[...]
+(vii) dans le cas où le particulier ou la société de personnes a acquis le bien pour la dernière fois avant le 18 juin 1987, [...] le bien [...] était utilisé par le particulier, [...] ou l'époux ou conjoint de fait [...] du particulier [...] principalement dans le cadre de l'exploitation d'une entreprise agricole au Canada :
+(A) soit au cours de l'année où le particulier dispose du bien [...],
+(B) soit pendant au moins cinq années, pendant lesquelles le bien [...] est la propriété d'un particulier [...]
+[17] Le bien dont il a été disposé en l’espèce est du bois d’œuvre, lequel faisait partie, immédiatement avant l’abattage, du bien‑fonds sur lequel M. et Mme Healy exerçaient leurs activités agricoles. Il s’agit de déterminer si ce bien‑fonds était utilisé par M. ou Mme Healy « principalement dans le cadre d’une entreprise agricole » soit dans l’année où le bois d’œuvre a été coupé et vendu, soit dans les cinq ans suivant la date de son achat en 1974.
+[18] Dans l’arrêt Stewart c. Canada[1], la Cour suprême du Canada énoncé le critère qui s’applique pour déterminer si une activité exercée par un contribuable constitue une entreprise. La Cour a confirmé qu’une entreprise est une activité qui est exercée dans le but de réaliser un profit et statué que, lorsqu’une activité comporte un aspect personnel, le contribuable doit démontrer que son intention principale est d’en tirer un profit. La Cour a observé ce qui suit au paragraphe 5 de cette décision :
+[…] pour déterminer si une activité particulière constitue une source de revenu, le contribuable doit démontrer qu'il a l'intention d'exercer cette activité en vue de réaliser un profit, et présenter des éléments de preuve étayant cette intention. Ce critère a pour objet de distinguer les activités commerciales des activités personnelles. Lorsqu'une activité exercée dans le but de réaliser un profit ne comporte aucun aspect personnel ou récréatif, cette activité est commerciale et la recherche d'un profit par le contribuable est établie. Cependant, lorsqu'on soupçonne que l'activité du contribuable est un passe-temps ou une démarche personnelle plutôt qu'une entreprise commerciale, la prétendue expectative raisonnable de profit est un facteur parmi d'autres qui peut être pris en considération pour déterminer si le contribuable a l'intention d'exploiter une entreprise commerciale.
+[19] L’avocat de l’intimée a déclaré — et je partage son point de vue — que les activités agricoles de l’appelante comportaient un aspect personnel. Le bien agricole constituait leur résidence principale, et Mme Healy a déclaré qu’ils avaient acheté le bien parce que M. Healy voulait vivre dans une ferme pour élever leur fille à la campagne. Enfin, une grande partie de la viande provenant de l’abattage des animaux était consommée par la famille.
+[20] Compte tenu de ces aspects personnels, l’appelante doit démontrer que son époux et elle exerçaient l’activité de manière commerciale afin que cette activité soit considérée comme une source de revenu d’entreprise. Dans l’arrêt Stewart, la Cour suprême renvoie aux facteurs objectifs suivants énumérés dans un arrêt antérieur, en l’occurrence Moldowan, en indiquant qu’il convient d’en tenir compte :
+[55] Les facteurs objectifs énumérés par le juge Dickson dans Moldowan, précité, p. 486, étaient (1) l'état des profits et pertes pour les années antérieures, (2) la formation du contribuable, (3) la voie sur laquelle il entend s'engager, et (4) la capacité de l'entreprise de réaliser un profit. Comme nous le concluons plus loin, il n'est pas nécessaire pour les besoins du présent pourvoi d'ajouter d'autres facteurs à cette liste; nous nous abstenons donc de le faire. Nous tenons cependant à réitérer la mise en garde du juge Dickson selon laquelle cette liste ne se veut pas exhaustive et les facteurs diffèrent selon la nature et l'importance de l'entreprise. Nous tenons également à souligner que, même si l'expectative raisonnable de profit constitue un facteur à prendre en considération à ce stade, elle n'est ni le seul facteur, ni un facteur déterminant. Il faut déterminer globalement si le contribuable exerce l'activité d'une manière commerciale. Cette détermination ne devrait toutefois pas servir à évaluer après coup le sens des affaires du contribuable. C'est la nature commerciale de son activité qui doit être évaluée, et non son sens des affaires.
+[21] Or, dans l’affaire qui nous occupe, les éléments de preuve ne permettent pas d’établir à ma satisfaction que M. et Mme Healy exerçaient l’activité agricole de manière commerciale. Faute de documents ou d’éléments de preuve concernant les résultats financiers de l’activité agricole, je suis incapable de déterminer si l’appelante et son époux considéraient qu’ils exploitaient une entreprise, hormis pour les années 1981 et 1982 relativement auxquelles M. Healy a déclaré des pertes agricoles dans ses déclarations de revenu. Je ne dispose pas non plus de documents sur lesquels je pourrais m’appuyer pour conclure qu’ils exerçaient cette activité de manière commerciale. L’absence de registres m’empêche aussi d’apprécier la capacité de l’entreprise de réaliser éventuellement un profit.
+[22] Rien n’indique pourquoi M. Healy a déclaré des pertes agricoles dans les années 1981 et 1982 seulement. Le représentant de l’appelante m’a demandé de conclure que M. Healy aurait déclaré des pertes agricoles dans toutes les autres années, à tout le moins de 1974 à 1995, du fait que la preuve a démontré que le niveau des activités agricoles était demeuré plus ou moins stable au cours de ces années. Je refuse de tirer une telle conclusion étant donné le peu d’éléments de preuve dont je dispose concernant les transactions qui ont été effectuées au cours de ces années et l’absence d’information concernant les résultats financiers de ces transactions.
+[23] Il n’existe également aucun élément de preuve permettant de justifier les pertes agricoles dont Mme Healy demande la déduction pour les années 1999 et 2000. Elle a été incapable d’indiquer l’objet des dépenses dont elle demande la déduction à titre de dépenses agricoles ou de donner des précisions sur les transactions qui avaient été effectuées ni n’a prétendu avoir eu l’intention de tirer un profit de l’exploitation agricole dans ces années‑là.
+[24] Pour l’ensemble de ces motifs, j’estime que l’appelante n’a pas démontré que le bois d’œuvre vendu dans les années 1998, 1999 et 2000 constituait un bien agricole admissible; elle n’a donc pas droit aux déductions pour gains en capital demandées. Mme Healy n’a pas non plus droit à la déduction de pertes agricoles dans les années 1999 et 2000.
+[25] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 9e jour de septembre 2005.
+« B. Paris »
+J. Paris
+Traduction certifiée conforme
+ce 25e jour d’octobre 2005
+Ginette Côté, trad. a.
+RÉFÉRENCE : 2005CCI578
+NO DU DOSSIER DE LA COUR : 2003-1450(IT)G et 2003-1685(IT)I
+INTITULÉ DE LA CAUSE : DOROTHY HEALY, EXÉCUTRICE TESTAMENTAIRE DE LA SUCCESSION DE OMER HEALY ET SA MAJESTÉ LA REINE ET DOROTHY HEALY ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Prince George (Colombie‑Britannique)
+DATE DE L’AUDIENCE : le 22 août 2005
+MOTIFS DU JUGEMENT PAR : l’honorable juge B. Paris
+DATE DU JUGEMENT : le 9 septembre 2005
+COMPARUTIONS :
+Représentant de l’appelante :
+Arthur J. Burrows
+Avocat de l’intimée :
+Me Tom Torrie
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Arthur J. Burrows
+Cabinet : Arthur J. Burrows & Co.
+Quesnel (Colombie‑Britannique)
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa (Ontario)
+[1] [2002] 2 R.C.S. 645.

@@ -1,0 +1,170 @@
+---
+title: "McLarty v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30744/index.do"
+last_modified: "2012-03-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 79"
+citation2: ""
+neutral_citation: "2012 TCC 79"
+decision_date: "2012-03-08"
+language: "en"
+item_id: "30744"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7480
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:33:16.108000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7168b96aa28c689bae65583ff056e7ddd67b656b580c78dec56bb89105a8bee4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McLarty v. The Queen
+
+- Citation: 2012 TCC 79
+- Decision date: 2012-03-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7480, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McLarty v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-03-08
+Neutral citation
+2012 TCC 79
+File numbers
+98-1659(IT)G
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Docket: 98-1659(IT)G
+BETWEEN:
+ALLAN McLARTY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on February 1, 2012, at Calgary, Alberta.
+Before: The Honourable Justice T.E. Margeson
+Appearances:
+Counsel for the Appellant:
+Jehad Haymour
+Counsel for the Respondent:
+Josée Tremblay and
+Shane Aikat
+Counsel for Grant Thorton LLP:
+Alexandra Brown
+For Norman Knecht:
+Norman Knecht himself
+____________________________________________________________________
+ORDER
+UPON motion by the Respondent for an Order granting leave to examine a representative of Grant Thornton LLP or Mr. Norman Knecht (a former partner of Grant Thorton LLP) pursuant to section 99 of the Tax Court of Canada Rules (General Procedure) (the “Rules”);
+AND UPON reading the materials filed and hearing from counsel for the Appellant, counsel for the Respondent, counsel for Grant Thorton LLP and Norman Knecht himself;
+THIS COURT ORDERS THAT:
+1. The stringent requirements of section 99 of the Rules have not been met. The motion is dismissed with costs to the other parties.
+2. The Court will hear the parties on the issue of costs.
+Signed at Vancouver, British Columbia, this 8th day of March 2012.
+“T.E. Margeson”
+Margeson J.
+Citation: 2012 TCC 79
+Date: 20120308
+Docket: 98-1659(IT)G
+BETWEEN:
+ALLAN McLARTY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Margeson J.
+[1] The Respondent has brought a motion requesting that the Court grant the Respondent leave to examine a representative of Grant Thornton LLP (“Grant Thornton”) or Mr. Norman G. Knecht (“Mr. Knecht”), a former partner of Grant Thornton pursuant to section 99 of the Tax Court of Canada Rules (General Procedure) (the “Rules”). The Appellant, Grant Thornton and Mr. Knecht all oppose this motion. In support of the application, counsel for the Respondent argued that at the core of this issue was the nature of the business carried on by the Appellant. The audited statements and other financial statements may support the Crown’s theory of the case, according to counsel. Relevant to the question as to whether the Appellant was in the exploration business were the economic conditions at the relevant times. Financial statements of the Appellant are often indicative of the true nature of the business. The company’s auditors have specific tasks as set out in the audit report. The accounting firm has to retain documents under Rule 218[1] on the nature of the work done on the audit. They have to take specific actions to verify the work audited. They must be accountable and give assistance as to what the forms mean.
+[2] Counsel said that if the Appellant’s counsel accepts Canada Revenue Agency’s interpretation of what the audited statements mean, then she will withdraw the motion. There was no objection to the relevance of the questions asked by the Appellant on discovery nor the Respondent when he was required to obtain answers for the questions that were not answered.
+[3] The Appellant argues that the Respondent, to be successful in this motion, must satisfy the Court that either Grant Thornton or Mr. Knecht have information that is relevant to a material issue in this appeal. The Respondent must satisfy the Court that each of the elements of subsection 99(2) have been met. This section should be applied sparingly, according to the Courts. The use of this section represents an extraordinary measure and is only used when all requirements of the section are met and even then such an order is discretionary.
+[4] The affidavit evidence presented to the Court outlines the significant disclosure of documents and oral disclosure made by the Appellant, the third party 507326 Alberta Ltd. and by Grant Thornton.
+[5] The Court should not be satisfied that the examination by the Respondent of Grant Thornton or Mr. Knecht, under oath is “vital to the carriage of this case to a joint conclusion”. Further, the Respondent has obtained significant disclosure of documents from the Appellant and has subjected the Appellant and Mr. Sapieha, on behalf of 507326 Alberta Ltd., to numerous days of examination for discovery, written examinations for discovery and numerous answers to undertakings and follow-up questions. This information provided includes the full Grant Thornton external file, audit file materials for the joint venture from 1993 to 2006, except for 27 documents that are subject to solicitor-client privilege.
+[6] The Respondent has been unable to satisfy the Court that it has been unable to obtain information from either the Appellant, 507326 Alberta Ltd. or Grant Thornton and what information is missing from these disclosures. In this motion, the Respondent is merely carrying on a fishing expedition or trying to depose a potential witness under oath. These actions are not proper under section 99 of the Rules.
+[7] Here the Respondent is not seeking information but confirmation of the Respondent’s theory (see Labow v. Canada, 2008 TCC 511, 2008 DTC 4870). The timing of examination of Mr. Knecht or Grant Thornton could unduly delay the commencement of the May 28, 2012 hearing. The motion should be denied and the Appellant given the opportunity to address the Court on the matter of costs.
+[8] In written and oral argument, counsel for Grant Thornton argued that section 99 “adopts a middle ground. It does not confer a right to discovery of non‑parties but does permit a right of discovery of non-parties under well-defined conditions.” The Tax Court Rules do not provide a right to take some evidence before trial by “deposing” any person who may be a prospective witness.
+[9] The requirements of Rule 99 are cumulative and stringent. Therefore, in this case, the preliminary threshold has not been met.
+[10] The Crown has not established that Grant Thornton has further information relevant to a material issue in this appeal and has not overcome the obstacles posed by subsection 99(2).
+[11] The unchallenged evidence of Grant Thornton is that it has no relevant information that the Crown has been unable to obtain from other parties that it is entitled to examine (see the evidence of Wayne Wasylyshyn in his affidavit). There is nothing to indicate that anyone currently associated with Grant Thornton has any independent knowledge of the audits of the joint venture in issue except that which is reflected in the records already provided. The Crown is in possession of all the materials relating to the relevant audits. Nothing can be added by any person simply to be examined.
+[12] The Crown has not been able to show that it would be unfair for it to proceed to trial without discovery of those it seeks to examine.
+[13] The Crown can easily perform the review of the documents itself without the discovery it seeks.
+[14] The Crown is attempting to obtain information to confirm its theory of the case. It is not entitled to do so.
+[15] Mr. Knecht stated to the Court that there is nothing that he could remember that would be relevant to the issues in this case.
+Decision on the Motion
+[16] In order for the Respondent to be successful in this motion, she must bring herself within the provisions of section 99 of the Tax Court of Canada Rules (General Procedure).
+[17] Section 99 provides partly as follows:
+Discovery of Non-Parties with Leave
+99. (1) The Court may grant leave, on such terms respecting costs and other matters as are just, to examine for discovery any person who there is reason to believe has information relevant to a material issue in the appeal, other than an expert engaged by or on behalf of a party in preparation for contemplated or pending litigation.
+(2) Leave under subsection (1) shall not be granted unless the Court is satisfied that,
+(a) the moving party has been unable to obtain the information from other persons whom the moving party is entitled to examine for discovery, or from the person sought to be examined,
+(b) it would be unfair to require the moving party to proceed to hearing without having the opportunity of examining the person, and
+(c) the examination will not,
+(i) unduly delay the commencement of the hearing of the proceeding,
+(ii) entail unreasonable expense for other parties, or
+(iii) result in unfairness to the person the moving party seeks to examine.
+[18] It is clear that this will represent an extraordinary measure and one that should be used sparingly as in McBane Estate v. Canada, 2005 TCC 264, [2005] 2 C.T.C. 2787, Schiesser v. Canada, 2009 TCC 513, 2009 DTC 1345 and Labow, supra. Further, the cases indicate that paragraph 99(2)(a) is cumulative.
+[19] The onus is on the Respondent to show that the stringent requirements of the section 99 have been met.
+[20] When counsel for the Respondent was addressing the Court, she made it clear that she believed that she was entitled to examine these non-parties in order to be able to support the Crown’s theory of the case. This argument was considered by Bowie J. in Labow above and was rejected as it is by this Court.
+[21] The Court is not satisfied that either Grant Thornton or Mr. Knecht has information that is relevant to a material issue in this appeal. Mr. Knecht said very little in his address to the Court but he made it clear that after 19 years he could provide no information from his personal knowledge that would be relevant. Further, it is obvious that the Respondent has obtained significant disclosure of documents from the Appellant, 507326 Alberta Ltd. and Grant Thornton and the information that the Respondent seeks should have been obtainable from the above.
+[22] The Court is further satisfied that there would be no unfairness to the Respondent if this motion does not succeed.
+[23] The Court is satisfied that the further examination sought would cause undue delay and unreasonable expenses. The case has been set down for hearing commencing on May 28, 2012, and the Court is not satisfied that this date would not be jeopardized if the order was granted.
+[24] The stringent requirements of section 99 have not been met. The motion is dismissed with costs to the other parties. The court will hear the parties on the issue of costs.
+Signed at Vancouver, British Columbia, this 8th day of March 2012.
+“T.E. Margeson”
+Margeson J.
+CITATION: 2012 TCC 79
+COURT FILE NO.: 98-1659(IT)G
+STYLE OF CAUSE: ALLAN McLARTY and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: February 1, 2012
+REASONS FOR ORDER BY: The Honourable Justice T.E. Margeson
+DATE OF ORDER: March 8, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Jehad Haymour
+Counsel for the Respondent:
+Josée Tremblay
+Shane Aikat
+Counsel for Grant Thorton LLP:
+Alexandra Brown
+For Norman Knecht:
+Norman Knecht himself
+COUNSEL OF RECORD:
+For the Appellant: Jehad Haymour
+Fraser Milner Casgrain
+Calgary, Alberta
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+For Grant Thorton LLP: Alexandra Brown
+Laishley Reed LLP
+Toronto, Ontario
+For Norman Knecht: N/A
+[1] Institute of Chartered Accountants of Alberta, Rules of Professional Conduct,
+Rule 218.

@@ -1,0 +1,100 @@
+{
+  "columns": [
+    {
+      "name": "dataset",
+      "type": "string"
+    },
+    {
+      "name": "citation_en",
+      "type": "string"
+    },
+    {
+      "name": "citation2_en",
+      "type": "string"
+    },
+    {
+      "name": "name_en",
+      "type": "string"
+    },
+    {
+      "name": "document_date_en",
+      "type": "timestamp[us, tz=UTC]"
+    },
+    {
+      "name": "url_en",
+      "type": "string"
+    },
+    {
+      "name": "scraped_timestamp_en",
+      "type": "timestamp[us, tz=UTC]"
+    },
+    {
+      "name": "unofficial_text_en",
+      "type": "string"
+    },
+    {
+      "name": "cases_cited_en",
+      "type": "list<element: string>"
+    },
+    {
+      "name": "cases_citing_en",
+      "type": "list<element: string>"
+    },
+    {
+      "name": "citation_fr",
+      "type": "string"
+    },
+    {
+      "name": "citation2_fr",
+      "type": "string"
+    },
+    {
+      "name": "name_fr",
+      "type": "string"
+    },
+    {
+      "name": "document_date_fr",
+      "type": "timestamp[us, tz=UTC]"
+    },
+    {
+      "name": "url_fr",
+      "type": "string"
+    },
+    {
+      "name": "scraped_timestamp_fr",
+      "type": "timestamp[us, tz=UTC]"
+    },
+    {
+      "name": "unofficial_text_fr",
+      "type": "string"
+    },
+    {
+      "name": "cases_cited_fr",
+      "type": "list<element: string>"
+    },
+    {
+      "name": "cases_citing_fr",
+      "type": "list<element: string>"
+    },
+    {
+      "name": "citing_cases_count",
+      "type": "int64"
+    },
+    {
+      "name": "upstream_license",
+      "type": "string"
+    }
+  ],
+  "data_source": "A2AJ Canadian Case Law",
+  "data_source_dataset": "a2aj/canadian-case-law",
+  "data_source_last_updated": "2026-07-05",
+  "data_source_url": "https://huggingface.co/datasets/a2aj/canadian-case-law",
+  "export_generated_at": "2026-07-09T11:50:05.339290+00:00",
+  "export_limit": null,
+  "exported_row_count": 8083,
+  "parquet_row_count": 8083,
+  "parquet_size_bytes": 205230384,
+  "raw_jsonl": "data/a2aj_case_law/TCC/raw.jsonl",
+  "raw_jsonl_policy": "Each JSONL record preserves the A2AJ parquet column names exactly. Datetime/date values are serialized to ISO strings for JSON compatibility.",
+  "source_parquet": "data/a2aj_case_law/TCC/train.parquet"
+}

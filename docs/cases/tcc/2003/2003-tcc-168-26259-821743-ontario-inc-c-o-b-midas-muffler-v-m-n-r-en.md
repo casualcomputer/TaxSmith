@@ -1,0 +1,215 @@
+---
+title: "821743 Ontario Inc. c.o.b. Midas Muffler v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26259/index.do"
+last_modified: "2003-03-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 168"
+citation2: ""
+neutral_citation: "2003 TCC 168"
+decision_date: "2003-03-25"
+language: "en"
+item_id: "26259"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3990
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:23:57.135000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0fb9f81539cc7e8066ebcfaa0dc32ecd7ee1b64651ac1c6e75c3638e088a1c20"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 821743 Ontario Inc. c.o.b. Midas Muffler v. M.N.R.
+
+- Citation: 2003 TCC 168
+- Decision date: 2003-03-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3990, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+821743 Ontario Inc. c.o.b. Midas Muffler v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-25
+Neutral citation
+2003 TCC 168
+File numbers
+2002-3111(CPP)
+Judges and Taxing Officers
+Ronald D. Bell
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2002-3111(CPP)
+BETWEEN:
+821743 ONTARIO INC. c.o.b. MIDAS MUFFLER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ALI GHIASVAND GHIASI
+Intervenor.
+____________________________________________________________________
+Appeal heard on March 19, 2003 at Ottawa, Ontario
+Before: The Honourable Judge R.D. Bell
+Appearances:
+Counsel for the Appellant:
+Phillip Hunt
+Counsel for the Respondent:
+Jennifer Neill
+For the Intervenor:
+The Intervenor himself
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 25th day of March, 2003.
+"R.D. Bell"
+J.T.C.C.
+Docket: 2002-3110(EI)
+BETWEEN:
+821743 ONTARIO INC. c.o.b. MIDAS MUFFLER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ALI GHIASVAND GHIASI
+Intervenor.
+____________________________________________________________________
+Appeal heard on March 19, 2003 at Ottawa, Ontario
+Before: The Honourable Judge R.D. Bell
+Appearances:
+Counsel for the Appellant:
+Phillip Hunt
+Counsel for the Respondent:
+Jennifer Neill
+For the Intervenor:
+The Intervenor himself
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 25th day of March, 2003.
+"R.D. Bell"
+J.T.C.C.
+Citation: 2003TCC168
+Date:20030325
+Docket: 2002-3111(CPP)
+2002-3110(EI)
+BETWEEN:
+821743 ONTARIO INC. c.o.b. MIDAS MUFFLER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ALI GHIASVAND GHIASI
+Intervenor.
+REASONS FOR JUDGMENT
+Bell, J.T.C.C.
+ISSUE:
+[1] The issue is whether Employment Insurance premiums and Canada Pension Plan contributions are payable on amounts paid by the Appellant to Ali Ghiasvand Ghiasi ("Ali"), Eric Levac ("Levac") and Gregory Schwemler ("Schwemler") from January 1, 2000 to February 6, 2002. Canada Customs & Revenue Agency ("Revenue") decided that such premiums and contributions were payable by the Appellant on the basis that it regarded all three as being employees of the Appellant and not as being independent contractors.
+[2] Mark Spergel ("Spergel") owns 100 percent of 821743 Ontario Inc. ("Inc."). It, during the period under review, operated a Midas Muffler franchise. He testified that he gave each mechanic the option of being independent contractors or employees advising them of the benefits of each status. He stated that they were, before this discussion, employees paid an hourly rate. He said that some mechanics remained as employees and others pursued the independent contractor route.
+[3] Spergel described, in some detail, the manner in which the mechanics operated. He encouraged them to meet the client, to discuss vehicle needs with the client, to invite them to inspect the vehicle with them, et cetera. Inc. provided all mechanics with uniforms bearing the Midas logo and with business cards bearing the Midas logo and the mechanic's name.
+[4] Spergel stated that the independent contractors could work as much or as little as they chose and that they could come in early or late. He said that Inc.'s operation was conducted on the basis that the first one into its premises on any given day, got the first job available. He said that the independent contractors received 17 percent of the total bill, being the cost of parts and labour. He advised that there was a labour guide setting out the various rates and that, substantially, Inc. adhered to these rates. If an independent contractor took more hours than were suggested by this labour guide he was paid 17 percent of the amount related to the guide time. He said, for example, that if the guidebook suggested a job would take ten hours, an independent contractor would receive 17 percent of the charge for ten hours whether he completed the job in seven hours or 16 hours. He said that an employee would, in these circumstances, be paid for seven hours or 16 hours as the case may be. In short, he said that the employees were paid for every hour they worked.
+[5] Spergel also testified that the independent contractor never received an hourly rate. For example, if there was a snowstorm and no customers came in they would receive nothing. On the other hand, an employee in those circumstances would be paid for the time he was on the premises. He said that the normal hours were 8:00 a.m. to 6:00 p.m. five days a week, 8:00 a.m. to 4:00 p.m. on Saturdays and that on Sundays the business was closed.
+[6] He also stated that the independent contractors were not scheduled but that they would show up when they wanted to and they would tell him when they did not intend to be there.
+[7] Inc.'s counsel filed as an exhibit a photocopy of a calendar on which independent contractors had recorded what days they would not be on the premises. He testified that one such contractor worked on cars at the race track and this was consistent with the freedom independent contractors had to work at other jobs. He said that, on the other hand, an employee would have to have a good reason to take time off. He stated that an independent contractor could leave if it was a slow day. He said he would have to live with an independent contractor coming in on a casually late basis but that employees were expected to be there at 8:00 a.m. and he would want to know why they were late if such were the case.
+[8] Spergel also said that both employees and independent contractors owned their own tool kits, having paid for same. He said that Ali was a hard worker and sometimes took his tools home. He said that one other contractor, Greg, brought cars into the shop for alignment. He said they were sometimes treated as Midas clients and sometimes not. He seems to have left this to the contractor. He stated that many times an invoice was prepared and both Midas and the contractor would make money. He then stated unequivocally that the independent contractors were free to work elsewhere. Spergel stressed honesty, fairness, service and international guarantees as business-getting qualities. He stated that a rating agent, Bruno Pita gave Inc. one of the highest ratings for customer loyalty. He said that he encouraged the mechanics to use their business cards to help bring in business. He said he could not force the independent contractors to work but told employees when to work.
+[9] Spergel testified that he was not a qualified mechanic and although occasionally he made suggestions, he left the work to the mechanics. He stated that on a "come-back", a vehicle upon which a contractor had previously worked but needed more service, there would be no invoice for that "rework". Accordingly, the independent contractor would earn nothing on that task. He said that the employee would be paid for all time spent on such a job because he pays employees "as the clock ticks".
+[10] Spergel also testified that the mechanics had the right not to work for a certain customer if they so felt. He also said that if a job came in at 5:00 p.m. and the independent contractor worked until 7:00 p.m. he would stay with him on the basis, mainly, of safety.
+[11] He stated that the toolbox of his mechanics would, on average, cost about $8,000. He said that they bought and maintained their own tools, that he did not pay any tool allowance to his mechanics and that if a mechanic did not have a tool kit he would not be working at his location.
+[12] Inc. owned lifts, bays, and compressors. All mechanics used these - for example, empowering their tools.
+[13] He stated that appropriate deductions were made from the employees but no such deductions were made for the independent contractors and that they would receive nothing if they were off work.
+[14] He said that an invoice was submitted either in writing or through the computer in respect of amounts owing to the contractors. Finally, Spergel stated that one employee had, after about six months, stated that he wished to return to an employee hourly status.
+[15] On cross-examination Spergel stated, in response to a question as to whether the independent contractors could hire someone else to do work on their jobs, that it never happens. He said that a contractor could give a discount to be sure to get a job or could "up the price" if the job was difficult.
+[16] Ali was an intervenor who stated on his notice of intervention:
+I agree with the fact that was determined by the government that my employment with the Appellant was insurable and pensionable EMPLOYMENT.
+THIS IS THE REASON FOR MY INTERVENTION.
+[17] He said that he had nothing to say as an intervenor. However, he appeared as a witness for the Respondent. He presented his evidence in a sharp and combative manner. He stated that once he turned down a job because he didn't like the customer beside him while he was working. He also said that Spergel wanted to help him at one job and wanted it done a certain way. He said that he had to be at the premises from 8:00 a.m. to 6:00 p.m. With respect to invoices, he said that they went through the computers. He said that he had one or two customers of his own. He said that he used the shop compressor and lights and torches. He said that he worked as an independent contractor because "they" told him he would be able to claim his tools and pay less tax. He said that he had no more freedom than the employees. On cross-examination it took a number of questions to elicit his statement that he knew others gave discounts. He intimated that the independent contractors did not call different shops for competitive price purposes. When asked if he liked to come in to get the first customer he replied that he was there at 8:00 a.m. He testified that he never did outside work. When asked about Spergel's evidence that he had taken his tools from work, he said that that was when they were broken and that he went to replace or repair them. He insisted that this was the case even when a question, on cross-examination, regarding him taking tools in good shape was posed. He also testified that Spergel had never told him that Employment Insurance would not be available to him. He stated, finally, that he had written off his tools.
+[18] The Respondent also called Donovan Thompson ("Thompson"), a mechanic who had worked at Inc.'s premises. He said that when he was given the choice of being an independent contractor or employee he chose the employee status. His stated reason was that he did not want a big tax bill because he couldn't save money and that his mother who worked for Revenue Canada advised him to be an employee. He said that he followed her advice. His evidence was presented in a flippant manner. When asked if all were supposed to be there at the same time he said:
+As far as I know.
+When asked if independent contractors come and go he stated that he was not aware of any. He stated that he was paid 17 percent and taxes were taken off. He completed his evidence by saying that he was paid commission and was not paid by the hour.
+APPELLANT'S SUBMISSIONS:
+[19] Inc.'s counsel said, with respect to control, that:
+1. The independent contractors are responsible for the work to be done.
+2. The independent contractors were paid a percentage of parts and labour bills, their income being dependent upon the amount of work done and the value of work done.
+3. The independent contractor decided how work was to be done.
+4. The independent contractor was free to decide the hours or work and could come and go as he pleased.
+5. The independent contractor decided the volume of work he wanted to do.
+6. The independent contractor was responsible for his own training, there being no Midas school.
+7. The independent contractor could select work and choose customers.
+8. Employees received an hourly rate when there was no work to do but the independent contractors were paid only when they worked.
+9. There was no supervision.
+10. With respect to tool ownership, the contractors supplied their own tools, but for the large shop tools, at their own cost, there being no tool allowance and no repair allowance.
+11. The independent contractors were free to remove their tools when they were working elsewhere. Counsel stated that Midas owned lifts and compressors but it's gear was not sufficient to let the work be done without the mechanic's own tools.
+[20] Respecting profit and risk of loss, counsel reiterated the percentage payment for independent contractors and submitted that the independent contractor could work outside and could use his business cards for the mutual benefit of Inc. and him. He made the same point respecting uniforms.
+[21] Respecting the integration test, counsel submitted that the contractors used invoices and that they could work at other jobs.
+[22] Appellant's counsel referred to Cummins Alberta v. M.N.R., [1989] T.C.J. No. 328, a decision of the Tax Court respecting contract mechanics where mechanics were to be remunerated on a piecework basis. The Court ruled that the workers were independent contractors and not employees. It based its conclusion on:
+1. The Appellant exercised negligible control over the mechanics;
+2. The mechanics were allowed to work elsewhere;
+3. Their work was limited to specific tasks;
+4. Each mechanic was elsewhere engaged in business for himself doing truck or heavy equipment repairs and overhauls.
+[23] Counsel then referred to Metro Towing Ltd. v. Canada, [1991] T.C.J. No. 717. In that case the Appellant employed "B" as a truck driver in its towing business. This arrangement changed by an agreement under which B would lease a truck from the Appellant for a fixed rate and would receive 64 percent of towing revenue generated by him. The towing work jobs continued to be dispatched by the Appellant. B could not perform towing work for anyone else. He still wore the Appellant's uniform and could not refuse a particular towing job without valid reasons. The contract stipulated that the relationship between the parties was not to be one of employer-employee but one of independent contractor supplying services to the Appellant. The Court held that the Wiebe Door four-in-one test of control, ownership of tools and equipment, risk and integration did not yield a conclusive result because the intentions and objectives of the parties as clearly stated in the contract should be a prime determination. Counsel also referred to Wiebe Door Services Ltd. v. Canada, (1986) 3 F.C. 553.
+RESPONDENT'S SUBMISSIONS:
+[24] The Respondent submitted that the workers had to report at certain hours, citing the evidence of Thompson. She said that they had to perform work at the shop and could not set their own prices, that they were required to wear Midas uniforms and had to indicate when they would not come in. She suggested that Spergel "put his foot down", that they had to attend meetings and that control stayed with Spergel.
+[25] She submitted that the independent contractors needed Inc.'s tools. She submitted that there was no risk of loss and that there were no expenses, no supplies needed, et cetera.
+[26] She referred to 671122 Ontario Ltd. v. Sagaz Industries Canada Inc. [2001] 2 S.C.R. 983. In this case Mr. Justice Major referred to the Wiebe Door tests and said:
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[27] She also referred to T.M.J. Automotive Ltd. v. Canada [1999] T.C.J. No. 900, Standing v. Canada (F.C.A.), [1992] F.C.J. No. 890 and P.B. Adams Equipment Repair Ltd. v. Canada [2001] T.C.J. No. 832.
+ANALYSIS AND CONCLUSION:
+[28] On the basis of the tests I conclude that the Appellant should be successful. I enforce that conclusion by reference to the clear intention of the parties in creating a structure that was intended to form an independent contractor relationship. That was an informed decision made by mechanics who had been given the opportunity to make a choice. I was not favourably impressed with the evidence of Ali or of Thompson. Ali seemed to have an "axe to grind" and Thompson was facile with responses. Spergel was, in my assessment, credible. I accept the facts presented by him, such facts having been well summarized by Appellant's counsel, as set out above.
+[29] On the basis of the evidence and the Wiebe Door tests and the choice adoption of independent contractor status by some mechanics I conclude that the appeal should be allowed.
+Signed at Ottawa, Canada this 25th day of March, 2003.
+"R.D. Bell"
+J.T.C.C.
+CITATION:
+2003TCC168
+COURT FILE NO.:
+2002-3110(EI) and 2002-3111(CPP)
+STYLE OF CAUSE:
+821743 Ontario Inc. c.o.b. Midas Muffler v. M.N.R.
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+March 19, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge R.D. Bell
+DATE OF JUDGMENT:
+March 25, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Phillip Hunt
+Counsel for the Respondent:
+Jennifer Neill
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Phillip Hunt
+Firm:
+Shields & Hunt
+Ottawa, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

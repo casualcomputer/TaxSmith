@@ -1,0 +1,191 @@
+Title: Coates c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29316/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-366-29316-coates-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-07-17
+
+# Coates c. La Reine
+
+- Citation: 2009 CCI 366
+- Decision date: 2009-07-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7055, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Coates c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-07-17
+Référence neutre
+2009 CCI 366
+Numéro de dossier
+2008-1169(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1169(IT)I
+ENTRE :
+LUDMILA COATES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Harold Coates (2008-1170(IT)I)
+les 20 et 21 janvier 2009 à Calgary (Alberta).
+Devant : La juge G. A. Sheridan
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Robert Neilson
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 sont rejetés.
+Signé à Ottawa, Canada, ce 17e jour de juillet 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+Christiane Bélanger, LL.L.
+Dossier : 2008-1170(IT)I
+ENTRE :
+HAROLD COATES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Ludmila Coates (2008-1169(IT)I)
+les 20 et 21 janvier 2009 à Calgary (Alberta).
+Devant : La juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Robert Neilson
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 sont rejetés.
+Signé à Ottawa, Canada, ce 17e jour de juillet 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+Christiane Bélanger, LL.L.
+Référence : 2009CCI366
+Date : 20090717
+Dossier : 2008-1169(IT)I
+ENTRE :
+LUDMILA COATES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+2008-1170(IT)I
+HAROLD COATES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] Les appelants, M. Harold Coates et Mme Ludmila Coates, sont conjoints. Leurs appels de nouvelles cotisations établies pour les années d’imposition 2003 et 2004 ont été entendus ensemble, sur preuve commune. M. et Mme Coates ont tous deux témoigné à l’audience. Durant ces années, M. Coates était en affaires dans les domaines de la construction, de l’immobilier et de la comptabilité; Mme Coates avait une entreprise effectuant de la tenue de livres et la saisie de données.
+[2] Ont également été appelés à comparaître comme témoins au nom des appelants, leur fille Mme Nadine Coates et M. Ilya Vinnik, une connaissance de longue date de M. Coates qui connaissait bien le bureau à domicile. Bien que les deux témoins aient été des témoins crédibles, leur témoignage n’a pas été pertinent quant aux questions en litige.
+[3] Mme Colleen Carnevale, la vérificatrice qui s’était occupée des dossiers des appelants, a été le seul témoin à comparaître pour l’intimée. Elle a présenté un témoignage clair et crédible.
+[4] Un avis d’appel a été déposé au nom des deux appelants. Il se lit comme suit :
+[traduction]
+1) 62 p. 100 de la résidence servait de bureau et cela peut être vérifié par des clients et des employés précédents. (N’a pas été accepté par l’Agence du revenu du Canada)
+2) Les automobiles appartenaient à Bradshaw-Coates & Associates et des factures ont été établies à des fins d’utilisation commerciale et d’utilisation personnelle. (Non reconnu par l’ARC). C’est de la double imposition.
+3) Facture de services fournie par Bradshaw-Coates & Associates non acceptée par l’ARC à titre de dépense.
+4) Un remboursement par Bradshaw-Coates & Associates Ltd. de frais dépassant 18 mille dollars constitue une double imposition.
+5) Remboursement de prêt non accepté, l’ARC a établi une nouvelle cotisation à titre de frais de gestion.
+[5] Compte tenu du manque de détails dans l’avis d’appel et du fait que les appelants se représentaient eux-mêmes, il a fallu un certain temps pour clarifier les points en litige et les motifs des appelants pour interjeter appel des nouvelles cotisations établies pour les années 2003 et 2004. Aussi, M. Coates avait espéré que l’audience serait l’occasion de faire réévaluer leurs impôts des années 2003 et 2004 basés sur la version corrigée des dossiers personnels et d’entreprise et les versions révisées des déclarations de revenus de 2003 et de 2004 pour lui-même et Mme Coates qu’il avait préparées à ces fins. Comme je l’ai expliqué toutefois, le rôle de la Cour de l’impôt est d’établir le bien-fondé des nouvelles cotisations établies par le ministre en se basant sur des éléments de preuve concernant les années assujetties à un appel; dans le cadre du système d’imposition à déclaration volontaire que nous utilisons, il incombe au contribuable de prouver que les hypothèses sur lesquelles la nouvelle cotisation du ministre a été basée étaient erronées.
+[6] Mes conclusions quant aux différents points en litige pour chacun des appelants sont présentées ci-dessous sous différentes rubriques.
+Harold Coates
+[7] En ce qui a trait à la nouvelle cotisation de M. Coates, le ministre a pris pour acquis que durant les années 2003 et 2004 celui-ci exploitait une entreprise à titre de propriétaire unique de Tricon Accounting Services. Certains frais et certaines commissions ont été ajoutés à son revenu, et diverses dépenses d’entreprise réclamées pour ces années ont été refusées.
+Honoraires de gestion – 2003 et 2004
+[8] Le premier point en litige est l’inclusion, dans le revenu de M. Coates des années 2003 et 2004, des montants de 13 000 $ et de 12 901 $, respectivement. Le ministre a supposé que ces montants avaient été payés à M. Coates par Bradshaw‑Coates & Associates Ltd. (Bradshaw-Coates), une entreprise dont M. Coates était l’unique actionnaire et l’âme dirigeante. Le secteur d’activités principal de Bradshaw-Coates était la construction, bien que M. Coates ait témoigné que l’entreprise œuvrait aussi dans l’immobilier et les services de comptabilité.
+[9] Selon le ministre, M. Coates avait reçu les montants de 13 000 $ et de 12 901 $ de Bradshaw-Coates à titre d’honoraires de gestion en sa capacité de propriétaire unique de Tricon Accounting Services. M. Coates n’a pas nié avoir reçu ces montants de Bradshaw-Coates, mais il a fortement fait valoir qu’il les avait reçus à titre personnel plutôt qu’à titre de propriétaire unique d’entreprise. Sur cette base, il n’est pas nécessaire d’établir le statut de Tricon Accounting Services pour conclure que les montants de 13 000 $ et de 12 901 $ ont été inclus de manière adéquate dans son revenu personnel de 2003 et de 2004.
+Commissions - 2004
+[10] Il faut toutefois déterminer s’il s’agit d’une entreprise à propriétaire unique pour le prochain point en litige : l’inclusion du montant de 17 377,50 $ dans le revenu de 2004 de M. Coates à titre de commissions de courtage gagnées en tant que propriétaire unique de Tricon Accounting Services.
+[11] La question du déni par M. Coates du fait qu’il était propriétaire unique de Tricon Accounting Services a été soulevée pour la première fois à l’audience des appels. M. Coates a indiqué que la conclusion du ministre voulant qu’il était un propriétaire unique pouvait être attribuable à des erreurs de déclaration commises dans ses déclarations de revenus de 2003 et de 2004. Comme il l’a expliqué, en raison de problèmes de santé graves durant ces années, il a dû se fier entièrement à Mme Coates pour s’occuper de leurs impôts. Bien qu’elle ait fait de son mieux, a-t-il dit, Mme Coates avait déclaré erronément le montant de 17 377,50 $ dans sa déclaration de revenus de 2004[1] à titre de revenu d’un travail indépendant provenant de ventes, de commissions ou d’honoraires, et elle avait indiqué « Tricon Accounting Services » comme raison sociale de l’entreprise. Par ailleurs, elle avait réclamé à tort des dépenses d’entreprise pour Tricon Accounting Services dans sa déclaration personnelle.
+[12] Selon son témoignage, les commissions auraient dû être affectées à Bradshaw-Coates en qualité de propriétaire en droit de Tricon Accounting Services. Pour appuyer cette affirmation, il a déposé en preuve un document intitulé « Asset Purchase Agreement » (entente relative à l’achat de biens)[2] portant la date du 28 décembre 1998, désignant Bradshaw-Coates et un tiers acquéreur de l’entreprise « Tricon Accounting Services » au montant de 47 600 $ (ci-après « l’entente relative à l’achat de Bradshaw-Coates »). Lors de son témoignage, il a déclaré qu’il avait montré l’entente relative à l’achat de Bradshaw-Coates à Mme Carnevale durant la vérification. Bien qu’elle n’arrivait pas à se rappeler si elle avait bel et bien vu ledit document, Mme Carnevale a confirmé que M. Coaste lui avait dit, à un moment donné, que Bradshaw-Coates était propriétaire de Tricon Accounting Services. Toutefois, elle a aussi déclaré que M. Coates lui avait mentionné que le revenu de Tricon Accounting Services provenait d’un travail indépendant.
+[13] M. Coates a également contesté la source du montant de 17 377,50 $. Bien qu’il ait tout d’abord déclaré que les revenus provenaient de commissions de courtage, il s’est ensuite repris et a indiqué que le montant représentait en fait les factures de 2004 pour des services de comptabilité rendus à des clients par Tricon Accounting Services/Bradshaw-Coates. Pour appuyer ses dires, il a présenté un document intitulé « Tricon Accounting Services Transaction Detail By Account » (détail des opérations de Tricon Accounting Services par compte)[3], dans lequel figuraient les noms de clients et les montants facturés pour une somme totale de 17 377,50 $. Ces entrées avaient été effectuées dans les dossiers de Tricon Accounting Services avant la vérification.
+[14] Tout d’abord, en ce qui a trait à l’affirmation de M. Coates selon laquelle il n’était pas le propriétaire unique de Tricon Accounting Services, lui et Mme Coates ont fait l’objet d’une vérification à la suite d’une vérification de Bradshaw-Coates réalisée précédemment. Selon les résultats de la vérification de Bradshaw‑Coates, les déclarations de revenus de l’entreprise ont été acceptées telles que produites. Lors de la vérification effectuée à l’endroit de M. et Mme Coates, Mme Carnevale a comparé le revenu et les dépenses de Bradshaw‑Coates avec les montants correspondants indiqués dans les dossiers et déclarations de M. Coates pour Tricon Accounting Services et ceux de Mme Coates pour Tricon Management Services.
+[15] Dans les circonstances, la raison pour laquelle M. Coates a dit à Mme Carnevale que Bradshaw-Coates était propriétaire de Tricon Accounting Services semblait davantage liée à la vérification de l’entreprise que pour faire valoir toute allégation selon laquelle il n’était pas le propriétaire unique de Tricon Accounting Services. D’après ce que j’ai pu observer au sujet de la forte personnalité de M. Coates, et compte tenu de ses antécédents dans le milieu des affaires et de la comptabilité, si en fait il n’avait pas été le propriétaire unique de Tricon Accounting Services, je suis persuadée qu’il aurait rapidement clarifié l’erreur de la vérificatrice, impatient de la soulever à nouveau à l’étape du processus d’opposition, et qu’il l’aurait incluse dans son avis d’appel. À la place, il a soulevé ce moyen de défense en début d’audience. Même en tenant compte des difficultés liées au fait d’être une partie à un litige se représentant elle-même, Dans les circonstances, ces facteurs portent davantage à conclure à une révision historique plutôt qu’à un fait omis. Quoi qu’il en soit, même si Bradshaw-Coates était le propriétaire en droit d’une entité connue sous la raison sociale « Tricon Accounting Services », cela, en soi, n’empêche pas M. Coates d’avoir aussi exploité une entreprise à propriétaire unique portant cette raison sociale. Que les factures aux clients aient été saisies sous la raison sociale « Tricon Accounting Services » ne prouve pas non plus que Bradshaw-Coates exploitait cette entreprise.
+[16] Ainsi, bien que je reconnaisse que le montant de 17 377,50 $ était un revenu provenant de services de comptabilité plutôt que de commissions de courtage, je rejette l’allégation de M. Coates selon laquelle il n’a pas gagné ce montant en qualité de propriétaire unique de Tricon Accounting Services. Par conséquent, le montant de 17 377,50 $ a été inclus à juste titre dans les revenus de 2004 de M. Coates.
+Dépenses d’entreprise – 2003 et 2004
+[17] En raison de la position qu’il avait prise eu égard à la question d’entreprise à propriétaire unique, M. Coates a exprimé l’intention de laisser tomber sa requête au sujet des dépenses d’entreprise; toutefois, à la suite de ma conclusion selon laquelle il était le propriétaire unique de Tricon Accounting Services, selon le principe d’équité, il faut examiner les montants refusés par le ministre. Malheureusement, la preuve présentée par M. Coates n’a pas permis de réfuter les hypothèses du ministre au chapitre des dépenses demandées. Son incapacité à prouver le bien-fondé de ses demandes était directement attribuable à l’absence de dossiers précis et à jour pour chacune des entreprises.
+Conclusion
+[18] Pour les motifs énoncés plus haut, les appels de M. Coates des nouvelles cotisations établies pour les années d’imposition 2003 et 2004 sont rejetés.
+Ludmila Coates
+[19] Pour ce qui est de Mme Coates, il n’est pas contesté qu’elle exploitait, en qualité de propriétaire unique de Tricon Management Services, une entreprise effectuant la saisie de données et la tenue de livres. Mme Coates effectuait la majeure partie du travail elle-même, mais elle engageait parfois des sous-traitants pour l’aider. J’ai jugé le témoignage de Mme Coates crédible dans l’ensemble, même lorsque ce n’était pas à son avantage. Toutefois, à l’instar de M. Coates, l’absence de livres et de dossiers bien tenus a atténué la force de son témoignage.
+Honoraires de gestion - 2003
+[20] Le premier point en litige est un montant de 9 000 $ payé par Bradshaw‑Coates à Mme Coates. Le ministre a inclus ce montant dans ses revenus de 2003 à titre d’honoraires de gestion.
+[21] M. Coates et Mme Coates ont tous deux témoigné que le montant de 9 000 $ représentait le remboursement partiel d’un prêt à des actionnaires que Mme Coates avait consenti à Bradshaw-Coates. (Vu qu’il s’est avéré que Mme Coates n’avait jamais été une actionnaire de Bradshaw‑Coates, cette description a été changée pour un [traduction] « prêt » consenti à Bradshaw-Coates.) Mme Coates a expliqué que le prêt incluait le produit de la vente de leur résidence en octobre 2004 ainsi que des avances qu’elle avait faites de temps à autre à la compagnie en 2003 à l’aide de ses cartes de crédit ou des fonds appartenant à Tricon Management Services.
+[22] En appui à sa position, Mme Coates a déposé en preuve deux documents intitulés « Bradshaw-Coates & Associates Ltd. Transactions by Account » (Opérations de Bradshaw-Coates & Associates par compte) pour l’année 2003[4] et l’année 2004[5], respectivement. Étant donné qu’il n’y a aucun point en litige pour l’année 2004, seul le dossier pour l’année 2003 doit être examiné.
+[23] Je reconnais le témoignage de Mme Coates selon lequel elle a, de temps à autre, consenti des avances à l’entreprise Bradshaw-Coates lorsque celle-ci était à court d’argent. Il semble que le transfert de fonds dans les deux sens se produisait régulièrement entre les entreprises à propriétaire unique et Bradshaw-Coates; cette pratique et la relation étroite de Mme Coates avec l’ensemble des trois entreprises ont contribué dans une large mesure à l’état de confusion de leurs livres. Dans les circonstances, il était crucial de tenir des dossiers d’entreprise précis et à jour. Ce qui n’a toutefois pas été fait.
+[24] Le document invoqué en appui à l’allégation de Mme Coates, selon laquelle le montant de 9 000 $ était un remboursement de prêt (pièce A-7), a été créé par M. Coates bien après coup; de prime abord, le document indique que Bradshaw-Coates a effectué des paiements à Mme Coates totalisant 6 950 $, en 2003. On n’y précise pas les raisons pour lesquelles ont été effectués les paiements. Même si de tels paiements ont été faits et même s’il s’agissait de remboursements d’un prêt, cela ne veut pas dire que Mme Coates n’a pas aussi reçu un paiement de 9 000 $ de Bradshaw‑Coates à titre de frais de gestion, tel que consigné au départ dans les dossiers de Bradshaw‑Coates et rapporté dans ses déclarations de revenus.
+Dépenses d’entreprise – 2003 et 2004
+[25] Il ne reste plus que la question des dépenses d’entreprise de Tricon Management Services. Le ministre a refusé, entièrement ou en partie, les déductions demandées pour l’utilisation du téléphone, du télécopieur, de véhicules motorisés et de la résidence aux fins de l’entreprise, le loyer, la sous-traitance et la déduction pour amortissement. Le chef de demande concernant les dépenses pour le téléphone et le télécopieur a été abandonnée à l’audience.
+[26] Pour situer le contexte, l’entreprise Tricon Management Services exploitait un bureau dans un espace qu’elle partageait avec Bradshaw-Coates et Tricon Accounting Services dans la résidence des Coates. Cet espace était muni des articles de bureau habituels : des bureaux, des classeurs, des téléphones, un télécopieur, une photocopieuse et des ordinateurs. La manière dont ces articles étaient répartis entre les trois entreprises n’est pas claire. Tel que mentionné plus haut, le 1er octobre 2004, la résidence a été vendue de sorte que Tricon Management Services a dû louer d’un tiers un espace à bureau pour les trois derniers mois de cette année-là.
+Frais de véhicules à moteur – 2003 et 2004
+[27] En ce qui a trait tout d’abord aux frais de véhicules à moteur, Bradshaw‑Coates était propriétaire de six véhicules qui ont été mis à la disposition de M. et de Mme Coates à des fins personnelles et professionnelles. J’accepte le témoignage de Mme Coates voulant qu’elle ait conservé des notes manuscrites au sujet de son utilisation des différents véhicules à moteur et que ces notes aient ensuite été transcrites dans un [traduction] « registre »[6]. Toutefois, il ressort, après avoir examiné ce document, que certaines entrées ont été réécrites ou biffées et réécrites par-dessus, limitant ainsi considérablement sa valeur probante. Par ailleurs, l’explication fournie par Mme Carnevale quant à la méthode utilisée pour répartir les frais de véhicules à moteur entre les entreprises à propriétaire unique et Bradshaw-Coates était tout à fait raisonnable – elle était en fait généreuse compte tenu de l’absence de dossiers. Par conséquent, il n’y a aucune raison d’augmenter le montant déjà admis.
+Utilisation de la résidence aux fins de l’entreprise – 2003 et 2004
+[28] Selon les descriptions fournies par M. Coates[7] et M. Vinnik au sujet de l’espace du bureau à domicile partagé par les trois entreprises, la répartition de 25 p. 100 des coûts totaux accordée à Tricon Management Services par le ministre m’a semblé raisonnable. Aucune preuve probante n’a été présentée pour établir que Tricon Management Services avait droit à un montant supérieur à celui admis.
+Frais de location – 2004
+[29] Bien qu’il soit fait mention dans la réponse à l’avis d’appel d’une déduction demandée pour des frais de location en 2003, à l’audience, Mme Coates a expliqué qu’elle ne demandait aucune déduction de cette nature pour cette année-là. En ce qui a trait à l’année d’imposition 2004, Tricon Management Services a demandé une déduction pour des frais de location de 2 106,90 $ pour un espace à bureau loué après la vente de leur résidence. Toutefois, je ne suis pas convaincue que cette dépense a effectivement été engagée par Tricon Management Services. Tout d’abord, les copies des chèques annulés[8], déposés en preuve en appui à ce chef de demande, étaient tirés du compte de Bradshaw-Coates; aucune preuve documentaire n’a permis d’établir que Tricon Management Services ait jamais remboursé ce montant à Bradshaw-Coates. En fait, lorsque l’avocat a demandé si cela avait été fait, Mme Coates a répondu en toute franchise : [traduction] « Probablement pas[9]. » La deuxième faiblesse de cette preuve est que les montants des trois chèques totalisent seulement 800,35 $.
+Frais de sous-traitance – 2004
+[30] En 2004, Tricon Management Services a initialement demandé (et le ministre a autorisé) une déduction pour frais de sous-traitance d’un montant de 589,20 $. À un certain moment après la vérification, Mme Coates a toutefois changé ce montant à 5 589,20 $. Elle et M. Coates ont témoigné que le montant additionnel de 5 000 $ correspondait à du travail de sous-traitance que M. Coates (en qualité d’âme dirigeante de Bradshaw‑Coates/Tricon Accounting Services) avait effectué pour Tricon Management Services en 2004. En appui à ce chef de demande, M. Coates a déposé en preuve un document qui, à première vue, était une facture de Bradshaw-Coates à Tricon Management Services pour des [traduction] « honoraires de gestion » de 5 000 $[10]. Il a expliqué que Bradshaw-Coates n’avait pas encore facturé Tricon Management Services lorsque Mme Coates a produit sa déclaration de revenus de 2004 et il a avoué en toute franchise avoir créé la facture après la vérification. Ce document soulève toutefois un problème, car, comme l’a fait remarquer le juge en chef Bowman à l’époque dans l’arrêt Yiouroukis c. R., « [l]a réalité ne se crée pas rétroactivement[11] ».
+[31] Pour sa part, Mme Coates a déclaré en témoignage qu’elle avait embauché deux individus en 2003 à titre de sous-traitants. La réponse à l’avis d’appel indique effectivement qu’en 2003 le ministre avait autorisé une déduction pour de tels frais de sous-traitance d’un montant de 7 168 $. En ce qui a trait à cette déduction demandée, Mme Coates a été en mesure de fournir des détails convaincants des travaux de sous-traitance réalisés en 2003 : les noms des sous-traitants; qu’ils ont effectué de la saisie de données à l’aide du programme « Excel »; qu’ils ont travaillé sur les dossiers de Tricon Management Services à son bureau ou à leur propre résidence. Par contre, pour l’année 2004, Mme Coates a déclaré que seul M. Coates l’avait aidée : elle n’a pas précisé s’il a agi à titre personnel, en qualité de propriétaire unique de Tricon Accounting Services ou en qualité d’âme dirigeante de Bradshaw-Coates, ni indiqué les services qu’il avait rendus. Par ailleurs, il importe de se rappeler que M. Coates a déclaré, lors de son témoignage, qu’il était si malade en 2004 qu’il ne pouvait même pas passer en revue sa déclaration de revenus avant de la produire. Dans les circonstances, je ne suis pas convaincue que Mme Coates a droit à des frais additionnels de sous-traitance de 5 000 $.
+Déduction pour amortissement
+[32] Le ministre a refusé la déduction pour amortissement d’un montant de 2 467,95 $ demandée en 2004. Aucune preuve n’a été présentée pour réfuter l’hypothèse du ministre voulant que ce montant n’ait pas été engagé en 2004.
+Conclusion
+[33] Pour les motifs énoncés plus haut, les appels de Mme Coates des nouvelles cotisations établies pour les années d’imposition 2003 et 2004 sont rejetés.
+Signé à Ottawa, Canada, ce 17e jour de juillet 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+Christiane Bélanger, LL.L.
+RÉFÉRENCE : 2009 CCI 366
+NOS DES DOSSIERS DE LA COUR : 2008-1169(IT)I; 2008-1170(IT)I
+INTITULÉ : LUDMILA COATES ET SA MAJESTÉ LA REINE et HAROLD COATES ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Les 20 et 21 janvier 2009
+MOTIFS DU JUGEMENT : La juge G.A. Sheridan
+DATE DU JUGEMENT : Le 17 juillet 2009
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocat de l’intimée :
+Me Robert Neilson
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce R-2.
+[2] Pièce A-4.
+[3] Pièce A-5.
+[4] Pièce A-7.
+[5] Pièce A-8.
+[6] Pièce R-3.
+[7] Incluant le diagramme fourni dans la pièce A-1.
+[8] Pièce A-10.
+[9] Transcription, page 200 à la ligne 11.
+[10] Pièce A-9.
+[11] 1999 CarswellNat 74 au paragraphe 26 (C.C.I.).

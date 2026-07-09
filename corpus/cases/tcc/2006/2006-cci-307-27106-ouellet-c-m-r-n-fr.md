@@ -1,0 +1,185 @@
+---
+title: "Ouellet c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27106/index.do"
+last_modified: "2006-05-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 307"
+citation2: ""
+neutral_citation: "2006 CCI 307"
+decision_date: "2006-05-31"
+language: "fr"
+item_id: "27106"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 942
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:35:06.684000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a2c259e2769ecc6e79348dd7e35d64b8894d0f77769eff4813f3c86e6b9972a8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ouellet c. M.R.N.
+
+- Citation: 2006 CCI 307
+- Decision date: 2006-05-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 942, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ouellet c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-31
+Référence neutre
+2006 CCI 307
+Numéro de dossier
+2005-3433(EI)
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-3433(EI)
+ENTRE :
+GUYLAINE OUELLET,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 8 mai 2006, à Chicoutimi (Québec).
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocat de l'intimé :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi concernant la décision du ministre du Revenu national est rejeté et la décision du Ministre est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 31e jour de mai 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2006CCI307
+Date : 20060531
+Dossier : 2005-3433(EI)
+ENTRE :
+GUYLAINE OUELLET,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit de savoir si l'appelante a exercé un emploi assurable pour les périodes du 14 avril au 12 septembre 2003 et du 29 mars au 20 août 2004, auprès de Groupe Rénovatech Inc., le payeur ou la Société, au sens de l'alinéa 5(2)i) et du paragraphe 5(3) de la Loi sur l'assurance-emploi (la « Loi » ).
+[2] Ces dispositions se lisent comme suit :
+5(2) N'est pas un emploi assurable :
+...
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+5(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[3] Les paragraphes 5 et 6 de la Réponse à l'avis d'appel (la « Réponse » ) se lisent comme suit :
+5. L'appelante et le payeur sont des personnes liées au sens de la Loi de l'impôt sur le revenu car :
+a) durant les périodes en litige, les actions comportant droit de vote du payeur étaient détenues par :
+−
+Gaétan Lévesque avec 65% des actions
+−
+l'appelante avec 35% des actions;
+b) l'appelante est la conjointe de Gaétan Lévesque;
+c) l'appelante était liée à une personne qui contrôlait le payeur.
+6. Le ministre a déterminé que l'appelante et le payeur avaient un lien de dépendance entre eux dans le cadre de l'emploi. En effet, le ministre a été convaincu qu'il n'était pas raisonnable de conclure que l'appelante et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes :
+a) le payeur a été constitué en société le 20 février 2002;
+b) le payeur offrait des services de rénovation en tout genre et la réparation de toitures;
+c) le payeur exploitait son entreprise de façon saisonnière, généralement entre les mois d'avril et le début d'octobre;
+d) le payeur embauchait entre 5 à 6 employés, incluant les actionnaires;
+e) pour l'exercice financier se terminant le 31 octobre 2003, le chiffre d'affaires du payeur a été de 86 000 $ et, pour la période de janvier à août 2004, il a été de 156 000 $;
+f) le payeur a cessé ses activités en août 2004 et a fait cession de ses biens le 5 janvier 2005;
+g) l'appelante rendait des services au payeur à titre de secrétaire et ses principales tâches consistaient à :
+−
+écrire des lettres et des soumissions,
+−
+préparer la facturation et les paies (5 à 6 par semaine),
+−
+répondre au téléphone et fixer les rendez-vous,
+−
+faire les dépôts bancaires,
+−
+s'occuper de la comptabilité du payeur;
+h) à titre d'actionnaire du payeur, l'appelante pouvait s'occuper des tâches suivantes :
+−
+se déplacer chez les clients pour préparer une soumission,
+−
+s'occuper de l'embauche et du congédiement d'employés,
+−
+vérifier les travaux sur un chantier lorsque son conjoint ne le pouvait pas,
+−
+rencontrer des clients pour connaître leur degré de satisfaction pendant et après les travaux
+−
+se déplacer pour cueillir des chèques chez les clients;
+i) durant les périodes en litige, l'appelante travaillait 40 heures par semaine et recevait une rémunération hebdomadaire brute de 624 $;
+j) l'appelante a prétendu que tous les employés étaient mis à pied en même temps qu'elle alors que le registre des salaires du payeur nous démontre le contraire à plusieurs reprises au cours des périodes en litige;
+k) en 2003, de la fin juin à la mi-septembre, il y avait 3 travailleurs inscrits au registre des salaires en même tant que l'appelante alors qu'à partir de la mi-novembre on retrouvait 3 travailleurs inscrits au registre des salaires bien que l'appelante n'y était plus;
+l) en 2004, on retrouvait 5 travailleurs au registre des salaires en même temps que l'appelante, 3 travailleurs y étaient inscrits alors que l'appelante n'y était plus;
+m) en 2004, pendant les 2 mois les plus élevés en terme de revenus du payeur (juin et juillet), l'appelante n'a reçu aucune rémunération pendant 6 semaines;
+n) avant de reprendre son travail le 29 mars 2004, l'appelante a bénéficié de 26 semaines de prestations de chômage, soit le maximum auquel elle avait droit;
+o) les périodes où l'appelante était inscrite au registre des salaires du payeur ne correspondaient pas aux besoins réels du payeur.
+[4] L'appelante a admis le paragraphe 5, ainsi que les alinéas 6 a) à 6 i) et 6 n) de la Réponse.
+[5] Il est à noter au départ que c'est à la suite de la période du 14 avril au 12 septembre 2003, que l'appelante a reçu les prestations d'assurance-emploi mentionnées à l'alinéa 6 n) de la Réponse.
+[6] L'appelante croit bien avoir mentionné, dans sa demande de prestations, être liée au payeur.
+[7] En vertu des paragraphes 5(2) et 5(3) de la Loi, il s'agit d'un emploi exclu à moins que le Ministre soit convaincu qu'il est raisonnable de conclure qu'il s'agit d'un emploi semblable à celui qui aurait eu lieu entre des parties étrangères. Cette disposition semble donc requérir une détermination préalable du Ministre.
+[8] On peut alors se demander si le Ministre peut en appeler de sa propre détermination. Toutefois, comme ce point n'a pas fait l'objet d'un débat judiciaire et que je ne connaisse aucune décision à ce sujet, je me contente de le soulever.
+[9] Sur un autre plan, il faut bien constater que ce n'est pas rendre service à un travailleur que d'accepter sa demande de prestations et de lui demander des comptes deux ans plus tard. Si le travailleur savait dès le début qu'il y a contestation de l'emploi assurable, il aurait arrangé ses affaires en conséquence.
+[10] En ce qui concerne les allégués des alinéas 6 j) à 6 m), l'appelante déclare qu'il s'agit d'événements peu nombreux et que normalement elle a travaillé en même temps que les autres travailleurs. Elle a expliqué qu'elle n'avait pas pris de salaire durant six semaines des mois de juillet et août 2004, parce que la Société n'avait plus de liquidités. Elle ne pouvait même pas faire ce qu'elle faisait d'habitude, soit retirer son salaire et le reverser dans les caisses de la Société. Elle a tenu à payer les salaires des quelques employés étrangers que l'entreprise avait embauchés. Elle travaille présentement comme secrétaire auprès d'une entreprise non liée et ne croit pas qu'elle continuerait à travailler pendant six semaines sans retirer son salaire.
+[11] La description du travail que l'on trouve aux alinéas 6 g) et 6 h) de la Réponse provient de l'appelante. C'est elle qui divisait ainsi son travail entre celui de secrétaire et celui d'actionnaire. Elle a affirmé que les tâches de l'actionnaire ne se faisaient pas durant les heures consacrées au travail de secrétaire.
+[12] Monsieur Gaétan Lévesque a expliqué qu'il avait déjà eu d'autres sociétés et qu'il avait toujours eu besoin d'une secrétaire. Toutefois, il n'y a eu aucune preuve quant aux émoluments versés à cette personne.
+[13] Madame Nathalie Bédard, agente aux appels, a expliqué pourquoi elle a considéré que cet emploi devait demeurer un emploi exclu.
+[14] Elle a établi, à partir des registres concernant la rémunération des salariés pour les années 2003 et 2004, (pièces I-2 et I-3), un tableau descriptif des périodes d'emploi de chaque travailleur au cours des années 2003 et 2004 (pièce I-4).
+[15] On y voit que pour l'année 2003, sur les 23 semaines travaillées par l'appelante, il y a 15 semaines où il n'y a que l'appelante et monsieur Gaétan Lévesque comme salariés. Il y a sept autres semaines où s'ajoute un employé. Il y a une semaine où il y en quatre. À l'exclusion d'un salarié, tous ont accompli 40 heures dans leur semaine. L'appelante n'a pas travaillé lors d'un mois où l'entreprise a eu en recettes brutes un montant de 6 630 $ et a commencé un mois où les recettes étaient moindres.
+[16] Pour l'année 2004, l'appelante commence à travailler immédiatement après avoir épuisé ses prestations d'assurance-emploi. Les deux premières semaines de son travail, il n'y a aucun autre salarié. Encore là, le nombre de salariés est très petit. Au cours de cette période, sept semaines de travail de l'appelante n'ont pas été rémunérées.
+Analyse et conclusion
+[17] En ce qui concerne la rétribution versée, le payeur n'avait pas les moyens financiers de véritablement payer le salaire de l'appelante. Celle-ci le remettait immédiatement dans les fonds de l'entreprise. À un certain moment, ceci ne pouvait même plus se faire et l'appelante a quand même continué à travailler pour l'entreprise du payeur.
+[18] Une entreprise n'emploie pas une secrétaire à plein temps pour de longues périodes quand il n'y a comme autre employé que le propriétaire de l'entreprise. L'analyse des périodes d'emploi de chaque travailleur faite par l'agente des appels révèle des circonstances qui portent à croire que l'embauche de l'appelante n'aurait pas eu lieu si elle n'avait été une personne liée au payeur.
+[19] Je suis donc d'avis que, compte tenu de la rétribution versée et des modalités d'emploi de l'appelante, que la décision du Ministre prise en vertu de l'alinéa 5(3)b) de la Loi était raisonnable. En conséquence, l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 31e jour de mai 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2006CCI309
+N º DU DOSSIER DE LA COUR : 2005-3433(EI)
+INTITULÉ DE LA CAUSE : GUYLAINE OUELLET c. LE MINISTRE
+LIEU DE L'AUDIENCE : Chicoutimi (Québec)
+DATE DE L'AUDIENCE : le 8 mai 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 31 mai 2006
+COMPARUTIONS :
+Pour l'appelante :
+l'appelante elle-même
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

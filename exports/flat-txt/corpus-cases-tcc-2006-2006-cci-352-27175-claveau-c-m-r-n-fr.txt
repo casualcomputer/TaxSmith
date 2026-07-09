@@ -1,0 +1,219 @@
+Title: Claveau c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27175/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-352-27175-claveau-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2006-06-30
+
+# Claveau c. M.R.N.
+
+- Citation: 2006 CCI 352
+- Decision date: 2006-06-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 978, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Claveau c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-30
+Référence neutre
+2006 CCI 352
+Numéro de dossier
+2005-303(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2005-303(EI)
+ENTRE :
+GUY CLAVEAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ENTREPRISES CLAVEAU LTÉE.,
+intervenante.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel d'Entreprises Claveau Ltée. (2005-304(EI)) le 29 mars 2006, à Québec (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Avocat de l'appelant :
+Me Jérôme Carrier
+Avocat de l'intimé :
+Me Michel Lamarre
+Avocat de l'intervenante :
+Me Jérôme Carrier
+________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision rendue par le ministre est annulée, selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 30e jour de juin 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+Dossier : 2005-304(EI)
+ENTRE :
+ENTREPRISES CLAVEAU LTÉE.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+GUY CLAVEAU
+intervenant.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Guy Claveau
+(2005-303(EI)) le 29 mars 2006, à Québec (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocat de l'intimé :
+Me Michel Lamarre
+Avocat de l'intervenant :
+Me Jérôme Carrier
+________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision rendue par le ministre est annulée, selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 30e jour de juin 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2006CCI352
+Date : 20060630
+Dossier : 2005-303(EI)
+ENTRE :
+GUY CLAVEAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LES ENTREPRISES CLAVEAU LTÉE.,
+intervenante,
+ET
+Dossier : 2005-304(EI)
+ENTREPRISES CLAVEAU LTÉE.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+et
+GUY CLAVEAU
+intervenant.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Ces appels ont été entendus sur preuve commune à Québec (Québec) le 29 mars 2006.
+[2] Il s'agit d'appels de la décision du ministre du Revenu national (le « ministre » ) en date du 6 octobre 2004 selon laquelle l'emploi occupé par Guy Claveau, le travailleur, auprès d'Entreprises Claveau Ltée., le payeur, durant la période en litige, soit du 1er janvier 2002 au 1er août 2003 était assurable.
+[3] Les appels portent sur le travail exécuté par l'appelant pour le compte du payeur après que le ministre eut déterminé que l'appelant, pendant la période en litige, occupait un emploi assurable, en dépit du fait que celui-ci et le payeur étaient liés au sens de la Loi de l'impôt sur le revenu.
+[4] En rendant sa décision, le ministre s'est appuyé sur les faits présumés suivants énoncés aux paragraphes 7, 8 et 9 de la Réponse à l'avis d'appel dans le dossier 2005-303(EI) :
+a) le payeur, constitué en société en 1971, exploite une entreprise dans le domaine du génie civil et plus précisément dans la construction de routes, d'aqueducs et d'égouts;
+b) le payeur a obtenu un important contrat de 3 ans, totalisant 34 millions de dollars, du Ministère des Transports pour la construction d'une route dans le secteur de Rivière du Loup;
+c) le payeur embauche environ 70 travailleurs dont 10 occupent des postes permanents;
+d) l'appelant est ingénieur de profession et rend des services au payeur depuis une quinzaine d'années; il occupe un poste à plein temps depuis 1994;
+e) il rend des services au payeur comme contremaître et chargé de projets;
+f) il travaille dans les bureaux du payeur, à Mont joli, à l'atelier et sur les différents chantiers;
+g) dans le cadre de son travail, il couvre un territoire s'étendant de La Pocatière à Gaspé;
+h) il travaille en moyenne 60 heures par semaine;
+i) dans le cadre de son travail, l'appelant utilisait tout le matériel et l'équipement du payeur;
+j) le payeur lui fournit une camionnette pour ses déplacements sur les chantiers et, lorsqu'il se rend à l'extérieur, ses dépenses d'hébergement et de repas sont payées par le payeur;
+k) l'appelant bénéficie du programme d'assurance collective du payeur qui comprend une assurance-vie, une assurance-salaire de courte et de longue durée, une assurance-médicaments, une assurance-accident/maladie et une assurance-voyage;
+l) durant la période en litige, l'appelant recevait une rémunération hebdomadaire de 945 $ au début de l'année 2002 et de 1 040 $ depuis juin 2002;
+8. L'appelant et le payeur sont des personnes liées au sens de la Loi de l'impôt sur le revenu car :
+a) au 31 décembre 2002, les actions comportant droit de vote du payeur étaient réparties comme suit :
+- Dany Claveau, frère de l'appelant [Guy Claveau], avec 5 % des actions;
+- l'appelante avec 16 % des actions;
+- Lévis Claveau, père de l'appelant, avec 67 % des actions;
+- Mario Claveau, oncle de l'appelant, avec 9 % des actions;
+- Émilienne Claveau, mère de l'appelant, avec 3 % des actions;
+b) l'appelant est lié à une personne qui contrôle le payeur.
+9. Le ministre a déterminé aussi que l'appelant et le payeur étaient réputés ne pas avoir de lien de dépendance entre eux dans le cadre de cet emploi car il a été convaincu qu'il était raisonnable de conclure que l'appelant et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes :
+a) l'appelant recevait une rémunération hebdomadaire comparable au salaire moyen versé pour un ingénieur civil et il était couvert comme les autres employés par le programme d'assurance collective du payeur;
+b) l'appelant rendait des services au payeur depuis une quinzaine d'années et occupait un poste à plein temps depuis 1994 ce qui correspondait aux besoins du payeur;
+c) le travail de l'appelant était intégré et essentiel aux opérations du payeur.
+[5] Les appelants ont admis les faits présumés du ministre sauf ceux énoncés aux alinéas 7.b), c), e), h) et 9.a).
+[6] L'objet du débat ne consiste pas à déterminer s'il existait un contrat de travail entre l'appelant et le payeur. Il s'agit plutôt de déterminer si l'emploi de l'appelant est exclu des emplois assurables, selon la Loi sur l'assurance-emploi (la « Loi » ) qui stipule ce qui suit :
+5.(2) N'est pas un emploi assurable :
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+5.(3) Pour l'application de l'alinéa (2)i) :
+b) L'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+Le ministre a mené son enquête et a exécuté le mandat que lui a confié le Législateur au paragraphe 5(3)b).
+[7] À la suite de cet exercice, le ministre a fait la détermination décrite ci-haut.
+[8] L'appelant recevait un revenu d'emploi fixé par le payeur et payé par celui-ci. Le lien de subordination a été établi, selon la preuve, même si l'appelant jouit d'une certaine autonomie en raison de sa compétence parce qu'il est diplômé en génie civil et que le payeur ne peut rien lui apprendre dans son domaine, mais l'appelant est quand même soumis au contrôle du Conseil d'administration du payeur sur lequel il siège comme actionnaire minoritaire.
+[9] Le ministre soutient qu'il a exercé, à bon droit, son pouvoir discrétionnaire qui lui est conféré sous le paragraphe 5(3) de la Loi et que les conditions de travail de l'appelant auraient été à peu près semblables si l'appelant et le payeur n'avaient pas eu, entre eux, de lien de dépendance.
+[10] Dans le cas sous étude, la preuve a été faite que l'appelant a grandi dans cette entreprise qui a connu ses débuts dans les années cinquante avec son grand-père, puis son père en a pris la relève quelques décennies plus tard.
+[11] Quant à l'appelant, il s'est intéressé à l'entreprise dès son jeune âge et c'est dans l'intention de prendre la relève à la tête de cette entreprise qu'il a étudié et obtenu son diplôme universitaire en génie civil en 1994. Dès lors, il a débuté sa carrière au sein de l'entreprise familiale.
+[12] L'appelant et le payeur sont liés en vertu de la Loi de l'impôt sur le revenule ministre ayant déterminé, selon l'alinéa 5(3)b) de la Loi, que l'appelant et le payeur étaient réputés de ne pas avoir de lien de dépendance.
+[13] Donc, la décision du ministre comprend 2 volets. En premier lieu, le ministre a déterminé que l'emploi de l'appelant était assurable au sens de l'alinéa 5(1)a) de la Loi, parce qu'il rencontrait les exigences d'un contrat de louage de services. En deuxième lieu, il a déterminé que l'emploi de l'appelant n'était pas exclu des emplois assurables au sens de l'alinéa 5(2)i) de la Loi.
+[14] Il convient d'examiner ces circonstances décrites sous l'alinéa 5(3)b) à la lumière de la preuve présentée à l'audition.
+RÉTRIBUTION VERSÉE
+[15] La rémunération de l'appelant en janvier 2002 était de 945,00 $ par semaine puis à compter de juin 2002, son salaire hebdomadaire a augmenté à 1 040,00 $.
+[16] À l'audition, l'appelant a produit un document intitulé : Ordre des ingénieurs du Québec - Enquête sur la rémunération directe des ingénieurs salariés du Québec (pièce A-6).
+[17] Selon ce document, le salaire de base d'un ingénieur civil en 2001 était de 48 000,00 $ par année et en 2003 de 74 600,00 $. Il faut noter que l'appelant est diplômé depuis 1994. Donc, en 2001, il avait 7 années d'expérience, et en 2003, 9 années d'expérience. Il était donc qualifié pour un salaire au dessus de celui de base.
+[18] Quant au ministre, il a produit, sous la cote I-2, « le Guide des salaires selon les professions au Québec » . Le document est daté de mars 2001, mais celui-ci précise que les données qui ont servi à produire l'information datent du recensement de 1996. Il établit le salaire hebdomadaire d'un ingénieur civil à 1 034,42 $. Il se situe donc au même niveau de celui qui est versé à l'appelant depuis 2003. On peut supposer qu'en 2003, sur une base de données de la même année, le salaire d'un ingénieur serait ajusté à la hausse, de façon substantielle.
+[19] La preuve a révélé qu'en 2002 le salaire de l'appelant était de 53 510,00 $ et en 2003, de 61 080,00 $.
+[20] Le ministre a soutenu que l'appelant avait vu son salaire augmenter en 2003 par l'octroi d'un bonus de 5 000,00 $, mais l'appelant a établi que ce bonus n'était pas attribué tous les ans, mais tous les 3 ans.
+[21] L'appelant a établi que son subalterne Morissette, qui n'a qu'une formation de technicien en génie civil, reçoit un salaire de 225,00 $ par semaine de plus que lui. Il en est de même pour son frère, qui est opérateur d'équipement, ainsi que d'autres cadres au sein de l'entreprise. L'appelant a précisé que son salaire a été fixé d'après un examen de la moyenne et que celui-ci est augmenté selon l'indexation. Il a ajouté qu'il visait à vivre confortablement, pour le reste, il préférait laisser les fonds dans la société. L'appelant a affirmé à l'audition que selon lui son salaire était environ 30 000,00 $ en dessous de la moyenne, par rapport à l'Ordre des ingénieurs.
+[22] Cette Cour est d'avis que l'appelant a prouvé qu'il se sacrifiait pour l'entreprise familiale en travaillant un très grand nombre d'heures pour un salaire bien en dessous de la moyenne dans l'industrie. Il a été établi, par ailleurs, qu'il était destiné à prendre la direction de l'entreprise familiale, et qu'à bien des égards, c'était déjà chose faite.
+MODALITÉS ET DURÉE DE L'EMPLOI
+[23] L'appelant est au service du payeur à temps plein depuis 1994. Il arrive toujours le premier sur le chantier ou au bureau. Il ne compte pas ses heures. Son salaire est fixe peu importe le nombre d'heures qu'il travaille; celles-ci ne sont pas comptabilisées. En été, pendant la période de construction, de la mi-avril jusqu'à la mi-décembre, il est sur le chantier de 7 h à 18 h. Le soir, il travaille au bureau, à la maison ou rencontre des clients. Il travaille environ 65 heures par semaine. En hiver, il travaille environ 50 heures par semaine. Il n'est jamais payé pour ses heures supplémentaires. En 2003, il n'a pris qu'une journée de vacance.
+[24] Sur le chantier, c'est l'appelant seul qui dirige les opérations. Les contremaîtres sont sous ses ordres. Il est sur le terrain avec les sous-traitants. Personne n'a aucun contrôle sur lui. C'est lui seul qui détermine ses tâches et la façon de les exécuter. L'appelant est l'âme dirigeante de l'entreprise avec son père qui, lui, s'occupe surtout de la comptabilité et la préparation des soumissions, avec lui. L'agent des appels a concédé à l'audition que le contrôle du travail de l'appelant était tout au plus un contrôle de résultat, si véritablement ce contrôle existait, ce qui n'a pas été prouvé. L'appelant fixe son propre horaire de travail et n'a de compte à rendre à personne.
+[25] Madame Émilienne Claveau, mère de l'appelant, est secrétaire-comptable au sein de l'entreprise familiale. Elle affirme que son fils, Guy Claveau, représente la relève de l'entreprise. C'est avec une fierté évidente qu'elle parle de son fils. Elle a déclaré « Sans lui, on n'aurait pas été en mesure de soumissionner sur un contrat de 15 000 000,00 $. Mais, avec lui, on a eu confiance et on a bien réussi. Sans Guy, on ne serait pas là. Déjà, il pourrait remplacer son père » . Madame Claveau a rencontré l'agent des appels en septembre 2004. Elle l'a informé d'un projet de 34 000 000,00 $ sur lequel l'entreprise avait soumissionné. Elle a informé celui-ci que sans l'appelant l'entreprise n'aurait pas soumissionné sur un projet aussi important.
+[26] Le père de l'appelant, Lévis Claveau, visite le chantier, à l'occasion, mais il n'intervient d'aucune façon. L'appelant décide si l'entreprise va soumissionner, puis, Lévis Claveau prépare l'ébauche de la soumission qui, ensuite, est complétée par l'appelant. Le chantier de construction de routes dépend totalement et uniquement de l'appelant, c'est là qu'il exécute les travaux avec son personnel d'ouvriers, de contremaîtres, de chefs d'équipe et d'arpenteurs.
+NATURE ET IMPORTANCE DU TRAVAIL ACCOMPLI
+[27] Les opérations du payeur consistent à construire des routes, des aqueducs et des systèmes d'égouts. En qualité d'ingénieur civil « exécutant » , l'appelant était la personne toute désignée pour mener à bien cette entreprise. L'appelant, dans son témoignage a affirmé : « Je ne suis pas irremplaçable, mais ça prendrait plusieurs personnes pour accomplir mes tâches, et beaucoup plus de supervision. » Cette affirmation n'a pas été contredite à l'audition.
+[28] La question qu'il faut se poser est celle-ci. Un étranger aurait-il travaillé comme l'appelant pour un salaire très inférieur à la moyenne dans l'industrie, pour un salaire même inférieur à ses subalternes? Cet étranger aurait-il travaillé autant d'heures supplémentaires sans rémunération, sans vacances, sans journée de congé? Pour ne pas répéter toutes les conditions et modalités de l'emploi de l'appelant, il convient d'examiner cette détermination du ministre et se demander s'il est raisonnable de conclure que l'appelant et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[29] Après avoir examiné de près toutes les circonstances entourant l'emploi de l'appelant, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, cette Cour est d'avis que les faits ne supportent pas cette conclusion.
+[30] La Cour d'appel fédérale a énoncé les principes d'application quant à la solution au problème présenté à cette Cour dans l'arrêt Légaré c. Canada (ministre du Revenu national, M.R.N.), [1999] A.C.F. No 878 dont voici un extrait :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel, la Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui révèle du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[31] En raison de la preuve recueillie, cette Cour doit conclure que les faits supposés ou retenus par le ministre ne sont pas réels et n'ont pas été appréciés correctement en tenant compte du contexte où ils sont survenus. La preuve présentée à l'audition porte à la détermination que la conclusion dont le ministre était « convaincu » ne paraît plus raisonnable.
+[32] En conséquence, l'appel est accueilli et la décision rendue par le ministre est annulée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 30e jour de juin, 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2006CCI352
+No DU DOSSIER DE LA COUR :
+2005-303(EI)
+2005-304(EI)
+INTITULÉ DE LA CAUSE :
+Guy Claveau et M.R.N. et Entreprises Claveau Ltée.
+et
+Entreprises Claveau Ltée et M.R.N. et Guy Claveau
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+Le 29 mars 2006
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+Le 30 juin 2006
+COMPARUTIONS :
+Pour les appelants :
+Me Jérôme Carrier
+Pour l'intimé :
+Me Michel Lamarre
+Pour les intervenants:
+Me Jérôme Carrier
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Jérôme Carrier
+Étude :
+Jérôme Carrier, avocat
+Lévis (Québec)
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour les intervenants :
+Nom :
+Me Jérôme Carrier
+Étude :
+Jérôme Carrier, avocat
+Lévis (Québec)

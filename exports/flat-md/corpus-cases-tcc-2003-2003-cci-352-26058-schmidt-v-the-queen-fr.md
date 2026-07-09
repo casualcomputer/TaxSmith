@@ -1,0 +1,166 @@
+---
+title: "Schmidt v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26058/index.do"
+last_modified: "2003-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 352"
+citation2: ""
+neutral_citation: "2003 CCI 352"
+decision_date: "2003-05-20"
+language: "fr"
+item_id: "26058"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4053
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:10:04.994000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "09dae030bbcaae5bd22c887f2dbadde5b73bc1941df3e6218ce0b7c1f65fb952"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Schmidt v. The Queen
+
+- Citation: 2003 CCI 352
+- Decision date: 2003-05-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4053, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schmidt v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-20
+Référence neutre
+2003 CCI 352
+Numéro de dossier
+95-1651(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 95-1651(IT)G
+ENTRE :
+LORE G. SCHMIDT,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue sur preuve commune avec la requête de Gunther W. Schmidt (95-3609(IT)G), les 17 et 18 décembre 2002
+à Vancouver (Colombie-Britannique)
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Représentant de la demanderesse :
+Gunther W. Schmidt
+Avocat de l'intimée :
+Me David Jacyk
+____________________________________________________________________
+ORDONNANCE
+Vu la requête déposée par le représentant de la demanderesse pour une ordonnance annulant les jugements de M. le juge Gerald J. Rip, en date du 27 janvier 1999 et du 7 avril 1999, conformément à la Règle 172(2), et les dépens;
+Et vu les allégations des parties;
+La demande est rejetée selon les motifs de l'ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 20e jour de mai 2003.
+« L. M. Little »
+J.C.C.I.
+Traduction certifiée conforme
+ce 22e jour de mars 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 95-3609(IT)G
+ENTRE :
+GUNTHER W. SCHMIDT,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue sur preuve commune avec la requête de Lore G. Schmidt (95-1651(IT)G), les 17 et 18 décembre 2002 à Vancouver (Colombie-Britannique)
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me David Jacyk
+____________________________________________________________________
+ORDONNANCE
+Vu la demande d'une ordonnance annulant les jugements de M. le juge Gerald J. Rip, en date du 27 janvier 1999 et du 7 avril 1999, conformément à la Règle 172(2), et les dépens;
+Et vu les allégations des parties;
+La demande est rejetée selon les motifs de l'ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 20e jour de mai 2003.
+« L. M. Little »
+J.C.C.I.
+Traduction certifiée conforme
+ce 22e jour de mars 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI352
+Date: 20030520
+Dossiers: 95-1651(IT)G
+95-3609(IT)G
+ENTRE :
+LORE G. SCHMIDT,
+GUNTHER W. SCHMIDT,
+demandeurs,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Little
+A. FAITS :
+[1] Le 11e jour de décembre 2002, le demandeur, Gunther W. Schmidt, a déposé un avis de requête à la Cour.
+[2] L'avis de requête vise à obtenir une ordonnance annulant les jugements de l'honorable juge Rip en date du 27 janvier 1999 et du 7 avril 1999.
+[3] Dans l'avis de requête, le demandeur, Gunther W. Schmidt, a indiqué ce qui suit :
+[TRADUCTION]
+a) la Couronne a omis de divulguer pleinement et entièrement tous les documents et renseignements exigés par la Charte; et
+b) la Couronne a agi de concert avec d'autres parties au procès criminel afin d'entraver la justice dans le but d'obtenir de fausses preuves.
+[4] Le deuxième paragraphe de l'avis de requête se lit comme suit :
+[TRADUCTION]
+Que le jugement de la Cour canadienne de l'impôt découlait du même fait que celui sur lequel la Couronne s'est fondée pour déclarer le verdict de culpabilité devant la Cour provinciale.
+[5] Le troisième paragraphe de l'avis de requête se lit comme suit :
+[TRADUCTION]
+Des documents importants et pertinents n'ont pas été divulgués et auraient changé la décision de la Cour canadienne de l'impôt (non-divulgation massive). La Cour canadienne de l'impôt s'est inspirée de la décision de la Cour provinciale.
+[6] L'avis de requête a été déposé en vertu de la Règle 172(2)a) des Règles de la Cour canadienne de l'impôt (procédure générale).
+[7] La Règle 172(2) des Règles de la Cour canadienne de l'impôt (procédure générale) se lit comme suit :
+(2) Une partie peut demander, par voie de requête dans l'instance, selon le cas :
+a) l'annulation ou la modification d'un jugement en raison d'une fraude ou de faits survenus ou découverts après qu'il a été rendu;
+b) un sursis d'exécution d'un jugement;
+c) une mesure de redressement différente de celle qui a déjà été accordée.
+B. POINT EN LITIGE :
+[8] Y a-t-il lieu pour la Cour de rendre une ordonnance annulant les jugements du juge Rip, Schmidt c. Canada, [1999] A.C.I. no 66, C.C.I., nos 95-3609(IT)G et 95-1651(IT)G, en date du 27 janvier 1999 et du 7 avril 1999?
+C. ANALYSE :
+[9] Il convient de noter que l'avis de requête déposé par le demandeur, Gunther W. Schmidt, contient plusieurs renvois aux décisions de la Cour provinciale dans lesquelles le demandeur, Gunther W. Schmidt, a été reconnu coupable de fraude fiscale. Lors de l'audition des appels, le demandeur, Gunther W. Schmidt, a précisé que l'avis de requête n'avait rien à voir avec ses procès criminels. Il a dit viser les procès civils, c'est-à-dire les jugements du juge Rip.
+[10] Le jugement du juge Rip, Schmidt c. Canada, [2001] A.C.F. no 309, le 7 mars 2001 (2001 DTC 5218), a été interjeté devant la Cour d'appel fédérale. En rendant sa décision au nom de la Cour, le juge Décary a fait le commentaire suivant aux pages 4 et 5 (DTC, à la page 5220) :
+[...] Je suis plus que convaincu que le juge Rip, ainsi que les juges qui étaient intervenus dans ce dossier avant lui, ont fait tout ce qu'ils ont pu pour permettre à M. Schmidt d'avoir accès aux documents avant l'audience et éventuellement de déposer à l'audience et même par la suite tout document qui selon lui était pertinent. M. Schmidt est évidemment d'avis qu'il y a eu dans le procès criminel une injustice qui éventuellement a conduit à sa condamnation et à son emprisonnement, mais ce n'est pas là un aspect qui peut être résolu par la Cour de l'impôt ou par la Cour fédérale.
+Eu égard aux faits dont il était saisi, il était loisible au juge Rip de rejeter l'appel du contribuable. Le présent appel devrait lui aussi être rejeté.
+[11] Pour déterminer si la Cour canadienne de l'impôt peut considérer l'avis de requête déposé par le demandeur, Gunther W. Schmidt, je me suis inspiré de la décision rendue dans l'affaire Etienne c. Canada, [1993] A.C.F. no 1388, le 14 décembre 1993 (164 N.R. 318, 76 F.T.R. 43). Dans l'affaire Etienne, la Cour d'appel fédérale soutient qu'il est irrégulier de la part d'un juge de première instance de juger une demande de modification d'un jugement sur des faits survenus ou découverts après que le jugement a été rendu s'il y a déjà eu appel de ce jugement.
+[12] Dans ce cas-ci, tel que susmentionné, les jugements du juge Rip ont été interjetés devant la Cour d'appel fédérale et les appels ont été rejetés.
+[13] J'ai soigneusement pris en compte la requête du demandeur, Gunther W. Schmidt, et j'ai conclu, en m'inspirant de la décision Etienne susmentionnée, que la Cour canadienne de l'impôt n'a pas compétence pour entendre cette affaire.
+[14] Les demandes sont rejetées.
+Signé à Ottawa, Canada, ce 20e jour de mai 2003.
+« L. M. Little »
+J.C.C.I.
+Traduction certifiée conforme
+ce 22e jour de mars 2005.
+Sophie Debbané, réviseure

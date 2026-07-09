@@ -1,0 +1,302 @@
+---
+title: "Roger Dubois Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/65449/index.do"
+last_modified: "2013-12-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 409"
+citation2: ""
+neutral_citation: "2013 TCC 409"
+decision_date: "2013-12-20"
+language: "en"
+item_id: "65449"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5982
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:41:16.536000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b3402f434459ac2982eaf4c1a39cbaea27d61b6e219315dcadbae4c103e7e09e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Roger Dubois Inc. v. The Queen
+
+- Citation: 2013 TCC 409
+- Decision date: 2013-12-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5982, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roger Dubois Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-12-20
+Neutral citation
+2013 TCC 409
+File numbers
+2009-3024(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3024(IT)G
+BETWEEN:
+ROGER DUBOIS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 23, 2013, at Montréal, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the appellant:
+Benoît G. Bourgon
+Counsel for the respondent:
+Martin Lamoureux
+Benoit Mandeville
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeal from the reassessments made pursuant to the Income Tax Act for the 2002, 2003 and 2004 taxation years is allowed with costs to the respondent,[1] and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment, on the basis that the appellant may claim a capital cost allowance for the Sartory bow, but not for the other musical instruments in question.
+Signed at Ottawa, Ontario, this 20th day of December 2013.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+On this 18th day of March 2014
+François Brunet, Revisor
+Citation: 2013 TCC 409
+Date: 20131220
+Docket: 2009-3024(IT)G
+BETWEEN:
+ROGER DUBOIS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Jorré J.
+Introduction
+[1] This appeal regards:
+(a) a violin made by Joseph Guarnerius in 1705,
+(b) a bow made by François Xavier Tourte in 1820,
+(c) a violin made by Jean-Baptiste Vuillaume in 1840,
+(d) a violin made by Giovanni Francesco Pressenda in 1844, and
+(e) a Sartory bow the date of fabrication of which is unknown.
+[2] The appellant purchased these musical instruments for a total of more than $1,900,000.
+[3] The issue is whether the appellant can claim the capital cost allowance for income tax purposes despite paragraph 1102(1)(e) of the Income Tax Regulations (Regulations), under which certain property is not depreciable.[2] This paragraph provides, in part:
+(e) that was...
+(iv) antique furniture, or any other antique object, produced more than 100 years before the date it was acquired, the cost of which to the taxpayer was not less that $1,000,
+...
+[4] All the evidence was filed by consent with no witnesses being heard.
+The facts
+[5] The parties submitted the following statement of admitted facts:[3]
+[translation]
+1. In a reassessment dated November 5, 2003, for the 2002 taxation year, the Minister disallowed the capital cost allowance (CCA) of $198,774 for musical instruments that the appellant had included in class 8.
+2. In reassessments made July 6, 2007, the Minister disallowed the CCA for musical instruments that the appellant had included in class 8, specifically:
+2002
+$55,120
+2003
+$48,511
+2004
+$53,085
+3. The Company was incorporated in accordance with Part 1A of the Quebec Companies Act.
+4. The Company operates in the real estate field; in particular, it manages buildings in order to lease them to its subsidiaries.
+5. The Company also owns very valuable musical instruments, namely violins and bows. The violins have the Canimex logo.
+6. The violins and bows owned by the Company are made available to talented musicians though its subsidiary Canimex.
+7. During the years in question, the two musicians who used the instruments, Marc-André Gauthier and Alexandre Da Costa, worked in Europe and North America.
+8. During the years in question, the Company and Canimex entered into a contract under which the subsidiary agreed to pay the appellant around $65,000 for the right to use the musical instruments for promotional purposes.
+9. During the years in question, neither of the musicians signed a contract with the Company or its subsidiary, nor did they make any payment for the loan or rental of the musical instruments.
+10. Canimex does business in Europe.
+11. The Company holds all the capital stock of Canimex Inc.
+12. Canimex imports from Europe and Asia and sells mechanical and hydraulic parts and makes hardware parts for garage doors.
+The property acquired
+The Guarnérius and the Tourte bow (in 2000)
+13. On June 26, 2000, the Company acquired a violin made by Joseph Guarnerius in 1705 for $1,039,600.
+14. The Company also purchased a bow made by François Xavier Tourte in 1820 for $178,200.
+The Vuillaume (in 2000)
+15. On December 1, 2000, the Company acquired a second violin made by Jean‑Baptiste Vuillaume in 1840 for $151,948.
+The Pressenda and a Sartory bow (in 2002)
+16. On May 3, 2002, the Company acquired a third violin made by Giovanni Francesco Pressenda in 1844 and a Sartory bow, the fabrication date of which is unknown for $551,196.
+[6] The parties have also agreed on the following:
+[translation]
+With no admission by the appellant regarding relevance, the parties admit that the musical instruments described in document A-1 normally appreciate in value with the mere passing of time insomuch as they were acquired in good condition and at a reasonable price given the market. Moreover, if the musical instruments are used, transported, maintained or repaired poorly, they may lose value, which is not the case until now.
+The Sartory bow purchased in 2002
+[7] Considering that the respondent assumed that the fabrication date was unknown[4] and did not assume that the bow was made more than 100 years before it was purchased, the burden is on the Minister to show that the musical instrument is more than 100 years old.
+[8] Paragraph 16 of the statement of facts indicates that the date of fabrication of the Startory bow is unknown.
+[9] Considering paragraph 16 of the statement of facts, I do not see how I can conclude that the Minister has shown that the bow was made 100 years before it was purchased.[5]
+[10] As a result, the Sartory bow is depreciable regardless of the outcome for the four other musical instruments.[6]
+Analysis
+[11] The issue is whether the appellant may claim the capital cost allowance for income tax purposes. The answer depends on the effect of paragraph 1102(1)(e) of the Regulations. Below is a reproduction of the relevant parts of the English and French texts of this provision:
+Property Not Included
+1102(1) The classes of property described in this Part and in Schedule II shall be deemed not to include property.
+. . .
+Biens non compris
+1102(1) Les catégories de biens décrits dans la présente partie et dans l’annexe II sont censées ne pas comprendre les biens.
+[…]
+(e) that was acquired by the taxpayer after November 12, 1981, other than property acquired from a person with whom the taxpayer was not dealing at arm’s length (otherwise than by virtue of a right referred to in paragraph 251(5)(b) of the Act) at the time the property was acquired if the property was acquired in the circumstances where subsection (14) applies, and is
+e) qui sont acquis par le contribuable après le 12 novembre 1981, autre qu’un bien acquis d’une personne avec laquelle le contribuable avait un lien de dépendance (autrement qu’en vertu d’un droit visé à l’alinéa 251(5)b) de la Loi) au moment de l’acquisition du bien si le bien était acquis dans des circonstances visées au paragraphe (14), et qui sont :
+(i) a print, etching, drawing, painting, sculpture, or other similar work of art, the cost of which to the taxpayer was not less than $200,
+(i) une estampe, une gravure, un dessin, un tableau, une sculpture ou une autre oeuvre d’art de nature semblable, dont le coût, pour le contribuable, n’est pas inférieur à 200 $,
+(ii) a hand-woven tapestry or carpet or a handmade appliqué, the cost of which to the taxpayer was not less than $215 per square metre,
+(ii) une tapisserie ou un tapis tissé à la main ou une application faite à la main dont le coût, pour le contribuable, n’est pas inférieur à 215 $ le mètre carré,
+(iii) an engraving, etching, lithograph, woodcut, map or chart, made before 1900, or
+(iii) une gravure, une lithographie, une gravure sur bois ou une carte, faite avant 1900, ou
+(iv) antique furniture, or any other antique object, produced more than 100 years before the date it was acquired, the cost of which to the taxpayer was not less than $1,000,
+(iv) un meuble d’époque ou tout autre objet d’époque, fabriqué il y a plus de 100 ans avant la date de son acquisition, dont le coût, pour le contribuable, n’est pas inférieur à 1 000 $,
+other than any property described in subparagraph (i) or (ii) where the individual who created the property was a Canadian . . .;
+à l’exception des biens visés aux sous-alinéas (i) ou (ii) lorsque le particulier qui a créé le bien était un Canadien […];
+[12] If paragraph 1102(1)(e) applies, the appellant cannot claim the capital cost allowance for the musical instruments in question. However, if paragraph 1102(1)(e) does not apply, the appellant can claim the capital cost allowance.
+[13] The appropriate approach in relation to legislative interpretation was summarized by the Supreme Court of Canada in Canada Trustco Mortgage Co. v. Canada:[7]
+10 It has been long established as a matter of statutory interpretation that “the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament”: see 65302 British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804, at para. 50. The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words plays a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole.
+[14] The words "any other object" and "tout autre objet d'époque" are very broad. Whether in English or French, the scope of the word "object" is very broad.
+[15] For example, Le Nouveau Petit Robert 2006[8] gives, among others, the following definition that is most relevant in this context:[9] "[c]hose solide ayant unité et indépendance et répondant à une certaine destination".
+[16] The Canadian Oxford Dictionary, second edition 2004, gives, among others, the following definition that is the most relevant:[10] "a material thing that can be seen or touched."
+[17] As for the word "époque", Le Nouveau Petit Robert 2006 gives, among others, the following definitions that are the most relevant:[11] "2. ...MOD. Période historique déterminée par des événements importants, caractérisée par un certain état de choses... 3. Période caractérisée par un style artistique".
+[18] The Canadian Oxford Dictionary gives, among others, the following definition of the adjective "antique" that is the most relevant:[12] "1. of or existing from an early date."[13]
+[19] The words "époque" in French and "antique" in English have the common factor of referring to the past but a non-recent past. For there to be a clear delimitation, under the Regulations, objects must have been made at least 100 years prior to being purchased.
+[20] At first sight, paragraph 1102(1)(e) does seem to apply. The musical instruments are certainly objects, and they are antiques.[14]
+[21] The appellant submits that such an interpretation is eroneous for a number of reasons.
+[22] Before examining these submissions, I will reproduce part of the 1981 Budget Papers announcing this provision. It is stated:
+Other Corporate Tax Measures
+Works of Art and Antiques
+The budget disallows depreciation write-offs for works of art and antiques purchased by businesses and professionals after November 12, 1981. At present, art work and antiques bought by business and professional firms can be written off at 20 per cent a year, the same depreciation rate as office furniture. However, such purchases typically appreciate in value and often are in fact personal investments rather than serving the normal operations of the firm. There is thus no reason to allow their cost to be deducted against the firm’s income. This measure will not apply to the first purchaser of art produced by living Canadian artists.[15]
+Autres mesures fiscales intéressant les sociétés
+Oeuvres d’art et antiquités
+Le budget interdira de réclamer une déduction pour amortissement à l’égard des œuvres d’art et des antiquités achetées par des entreprises et des professionnels après le 12 novembre 1981. À l’heure actuelle, les œuvres d’art et les antiquités acquises par des entreprises et des cabinets professionnels peuvent être amorties au taux de 20 pour cent par an, comme le mobilier de bureau. Cependant, ces articles prennent généralement de la valeur avec le temps et constituent souvent des investissements personnels au lieu de servir aux opérations normales de l’entreprise. Il n’y a donc aucune raison de permettre la déduction de leur coût du revenu de l’entreprise. Cette mesure ne s’appliquera pas au premier acheteur d’œuvres d’art produites par un artiste canadien vivant[16].
+[23] It is worth noting that, in view of the above budget passage, it is clear that one of the underlying motivations of the provisions in question is that generally, the property referred to does not lose value.
+[24] There is a difference between an underlying motivation,and a requirement, of a statute. I agree with the appellant that neither the Income Tax Act (Act) nor the Regulations provide that a depreciable property must lose its value over time.[17] As a result, I agree with the appellant that the fact that [translation] "usually [the musical instruments in question] appreciate in value with the mere passing of time" is not relevant.
+[25] According to the appellant, the Regulations refer to decorative objects and not objects that are used, as is the case with the musical instruments in question.
+[26] The appellant suggests that the provision would not apply to other antique objects that are used, for example, an industrial boiler or an antique watch. However, it would apply to mirrors, clocks or silverware, for example.
+[27] There are two problems with this approach. The first is that the words "tout autre objet d’époque" and "any other antique object" (emphasis added) have a very broad scope, and do not suggest any limits. Second, in the context of section 1102 of the Regulations, or more generally in the Act and the Regulations, nothing suggests that a distinction must be made between old furniture that is simply displayed and old furniture that is used every day by its owner, for example, a beautiful antique desk used by its owner.[18] Similarly, there is nothing to suggest that a distinction must be made between an antique car that is simply displayed and an antique car that is used in movie productions.[19]
+[28] It is useful to recall that the entire depreciation mechanism in the Act contains a number of somewhat arbitrary rules that are to simplify the capital cost allowance, for example, for various classes of properties with a set depreciation rate. Having to distinguish between an old desk that is being used and an old desk that is displayed seems to defeat this simplification effort.
+[29] The appellant cites the associated words rule, noscitur a sociis, in support of his submissions.[20]
+[30] Citing the Supreme Court of Canada decision, McDiarmid Lumber Ltd. v. God’s Lake First Nation,[21] the appellant submits that the meaning of the words "any other antique object" must be different from the words "antique furniture" but that the object must still have qualities that are similar to furniture. According to the appellant, the common element is that the object is decorative and also serves to fill a space.
+[31] In his treatise, The Interpretation of Legislation in Canada,[22] professor Pierre‑André Côté notes that the associated words rule must be used with care:[23]
+1179 … Although a good servant, the noscitur a sociis principle may prove to be a poor master. It can be misleading and should be handled with care.
+[32] In McDiarmid Lumber, the issue related to paragraph 90(1)(b) of the Indian Act and, among other things, the meaning to give "agreement" in the following provision:
+90(1) ...personal property that was
+...
+(b) ...given to Indians or to a band under a treaty or agreement between a band and Her Majesty,
+The decision of the majority is based not only on the associated words rule, but also on an analysis of the context and background of that provision.
+[33] Here, the Regulations do not mention "other similar object" or "decorative object". The context of the provision does not suggest a limitation other than objects that are more than 100 years old. Such a limitation seems completely contradictory to the use of "any" and "tout".[24]
+[34] The appellant also cites the mischief rule.[25] I agree with the appellant that the above-noted budget papers show that the purpose was to prevent businesses and professionals from claiming depreciation for certain things that are generally investments.
+[35] However, upon reading the above-mentioned budget paper, one can note that it is recognized that there are, occasionally, situations where depreciation for things that were used for operations would be denied. This is clear in the following passage from the budget papers, which implies that sometimes the property will be used for operations:[26]
+...However, such purchases typically appreciate in value and often are in fact personal investments rather than serving the normal operations of the firm...
+[Emphasis added]
+[36] The appellant submits that subsection 1102(1) of the Regulations is a deeming provision[27] that creates a legal fiction and must therefore be interpreted restrictively.[28] However, the word "deemed"[29] can be used with four different purposes.[30] In the present case, it is not a legal fiction but rather the statement of a rule that certain things are excluded from the term "depreciable property". A legal fiction principle cannot apply to a provision that is a rule.[31]
+[37] I also note that, in the Regulations, the words "antique object" is found rather than "antique", the word used in the budget papers; also, in French, the Regulations use the words "objet d'époque" rather than "antiquité".[32]
+[38] As I have already stated, in this provision or the context of the Regulations in question, or more generally in the provisions of the Regulations or the Act regarding depreciation, I do not see any reason to conclude that the words "any other antique object" or "tout autre objet d'époque" should be given any meaning other than their ordinary and very broad meaning.[33]
+[39] I therefore conclude that the other musical instruments in question, aside from the Sartory bow, are subject to paragraph 1102(1)(e) of the Regulations and cannot be considered depreciable property.
+Conclusion
+[40] As a result, the appeal is allowed, with costs to the respondent, and the matter is referred back to the Minister for reconsideration and reassessment on the basis that the Sartory bow is depreciable property.
+Signed at Ottawa, Ontario, this 20th day of December 2013.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+On this 18th day of March 2014
+François Brunet, Revisor
+CITATION: 2013 TCC 409
+COURT FILE NO.: 2009-3024(IT)G
+STYLE OF CAUSE: ROGER DUBOIS INC. v. THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: April 23, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: December 20, 2013
+APPEARANCES:
+Counsel for the appellant:
+Benoît G. Bourgon
+Counsel for the respondent:
+Martin Lamoureux
+Benoit Mandeville
+COUNSEL OF RECORD:
+For the appellant:
+Name: Benoît G. Bourgon
+Firm: Heenan Blaikie
+Montréal, Quebec
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Considering the appellant's success was very limited. According to Exhibit A-1, the Sartory bow cost a little more than $38,000 whereas the total cost of the musical instruments in question is around $1,900,000.
+[2] The respondent does not contest that the instruments were acquired to earn income.
+[3] Exhibit A-3, joint statement of admitted facts.
+[4] See paragraph 12(n) of the Reply to the Notice of Appeal.
+[5] Even without paragraph 16, the document dated November 18, 1935, prepared by the Rudolph Wurlitzer Co. of New York, which states that in their opinion, the bow was made around 1900 does not call for a finding that the bow was more than 100 years old before it was purchased in 2002. "[A]bout 1900" in the document written in English (Exhibit I‑2).
+I note that in Exhibit I-3 on the page with the reply to the undertakings, the second paragraph refers to the 1935 document that I just mentioned; however, in the first paragraph of the replies, there is a reference to the certificate of authenticity by B. Millant, dated June 3, 2000, which states that the Sartory bow was made "around 1920". It seems that the first paragraph refers to a second Sartory bow that is not in issue in this case, although if I restrict myself to the evidence, it is not entirely clear. An invoice dated "2002-06-03" with number 212381, issued by Pépin, a financial services firm, contains a list of musical instruments on the second page where there are two Sartory bows (see Nos. 4 and 7). This seems to confirm that there is another bow with a certificate of authenticity that states "around 1920". Although it is not evidence, I must note that at paragraphs 43 and 44 of the appellant's written submissions, [translation] "Notes and authorities of appellant Roger Dubois Inc.", the appellant mentions a second Sartory bow made around 1920.
+[6] Considering subparagraph 1102(1)(e)(iv) of the Regulations applies only if the property was made more than 100 years before it was purchased.
+[7] 2005 SCC 54. This approach applies not only to tax laws but also generally; see, for example, paragraphs 57 to 59 of the Federal Court of Appeal decision Canada (Citizenship and Immigration) v. Tobar Toledo, 2013 FCA 226.
+[8] The copyright date of which is indicated at the very end as May 2005, printing no. B02/112760P.
+[9] Page 1759; this is the second definition of the concrete definitions.
+[10] Page 1071; this is the first definition given.
+[11] Page 928.
+[12] Page 57.
+[13] It is important to note that in the Regulations, the word "antique" is used as an adjective and not a noun.
+[14] I note that the definition of the word "antique" in the Merriam-Webster dictionary the appellant referred to is the definition of the noun. At the same page of the appellant's document, [translation]"Legislative provisions, press releases, interpretation bulletins and definitions" which contains, among other things, definitions (tab 17), the definition of the adjective "antique" gives, among others, the definition, "1: existing since or belonging to earlier times . . . 2 a: being in the style or fashion of former times".
+The definition of the noun "antique" in the Canadian Oxford Dictionary, supra, is: "an object of considerable age, esp. an item of furniture or the decorative arts having a high value."
+[15] Budget Papers — Supplementary Information and Notices of Ways and Means Motions on the Budget, tabled in the House of Commons by the Honourable Allan J. MacEachen, Deputy Prime Minister and Minister of Finance, November 12, 1981, page 37.
+[16] Documents budgétaires — Renseignements supplémentaires et avis de motions des voies et moyens sur le budget, déposés à la Chambre des communes par l’honorable Allan J. MacEachen, vice-premier ministre et ministre des Finances, le 12 novembre 1981, page 41.
+[17] It is clear that at the time of disposal of the depreciable property, the Act provides for the possibility of recovery if too much depreciation had been claimed; the Act also provides for the possibility of capital gain if a depreciable property is sold for an amount exceeding its cost.
+Our law is different than the US law under the Internal Revenue Code that made different choices regarding depreciation.
+[18] I do not believe that the Supreme Court of Canada decision R. v. Jarvis, 2002 SCC 73, would help the appellant. It is true that in that case, the Supreme Court restricted the scope of the words "for any purpose related to the administration or enforcement" in sections 231.1 and 231.2 of the Act. The French version is "pour l'application et l'exécution". The Supreme Court considered the context of the Act, the existence of a specific provision, section 231.3, to obtain a search warrant for the criminal application of the Act.
+As a result, while recognizing that the words are very broad in scope, the Supreme Court ruled that they were limited to the civil application of the Act.
+There is nothing comparable in the present context.
+[19] I am not sure that we can automatically say that a painting or other artwork is not used. A work of art could have a very strong influence on some people; it could also help create an atmosphere or brand identity.
+[20] And also claims that it is preferable over the ejusdem generis rule.
+[21] 2006 SCC 58.
+[22] Fourth Edition, Éditions Thémis, 2011.
+[23] And the ejusdem generis rule. See, in particular, paragraphs 1179 to 1181.
+[24] Considering most the appellant has submitted a long analysis of the effect of punctuation to conclude that the comma in "antique furniture, or any other antique object" cannot defeat the associated words rule, I would add that my conclusion would be the same without the comma.
+[25] "Règle de la situation à réformer".
+[26] See paragraph 22 above. The appellant also cited paragraph 8(1)(p) of the Act. The fact an employee musician is allowed to claim depreciation for a musical instrument does not assist in the interpretation of the Regulation in question; paragraph 8(1)(p) of the Act was necessary to create an exception to the general rule found in subsection 8(2) of the Act, that an employee cannot deduct expenses unless there is a specific provision. The amount of the depreciation deduction allowed under subparagraph 8(1)(p)(ii) is subject to the Regulations.
+As a result, I do not see how the existence of paragraph 8(1)(p) of the Act can show that paragraph 1102(1)(e) of the Regulations does not apply to musical instruments. The paragraph of the Regulations in question was added by P.C. 1983‑1083, s. 2, 15 April 1983, whereas the provision in the Act was added by S.C. 1988, c. 55, subs. 2(2).
+[27] "Une disposition déterminative" in French.
+[28] The appellant cites R. v. Verrette, [1978] 2 S.C.R. 838, and Survivance v. Canada, 2006 FCA 129.
+[29] "Censé" in French.
+[30] See R. Sullivan, Construction of Statutes, fifth edition, LexisNexis Canada, 2008, pages 85 to 91.
+[31] As for Nanaimo (City of) v. Rascal Trucking Ltd., 2000 SCC 13, cited by the appellant, the language to interpret was not of the same nature; the phrase "or other matter or thing" ("ou toute autre chose") was at the end of a long list of related items in a specific context where it was likely that the meaning of "or other matter or thing" would be associated with the general meaning of these other items. The Supreme Court of Canada confirmed the validity of the municipal orders in question.
+[32] Subsection 4(2) of the de la Cultural Property Export and Import Act provides as follows:
+(2) Subject to subsection (3), the Governor in Council may include in the Control List, regardless of their places of origin, any objects or classes of objects hereinafter described in this subsection, the export of which the Governor in Council deems it necessary to control in order to preserve the national heritage in Canada:
+(a) objects of any value that are of archaeological, prehistorical, historical, artistic or scientific interest and that have been recovered from the soil of Canada, the territorial sea of Canada or the inland or other internal waters of Canada;
+(b) objects that were made by, or objects referred to in paragraph (d) that relate to, the aboriginal peoples of Canada and that have a fair market value in Canada of more than five hundred dollars;
+(c) objects of decorative art, hereinafter described in this paragraph, that were made in the territory that is now Canada and are more than one hundred years old:
+(i) glassware, ceramics, textiles, woodenware and works in base metals that have a fair market value in Canada of more than five hundred dollars, and
+(ii) furniture, sculptured works in wood, works in precious metals and other objects of decorative art that have a fair market value in Canada of more than two thousand dollars;
+(d) books, records, documents, photographic positives and negatives, sound recordings, and collections of any of those objects that have a fair market value in Canada of more than five hundred dollars;
+(e) drawings, engravings, original prints and water-colours that have a fair market value in Canada of more than one thousand dollars; and
+(f) any other objects that have a fair market value in Canada of more than three thousand dollars.
+The appellant submits that, when Parliament does not want the meaning of the words "any other objects" to be limited by the preceding terms, it does so by creating a different provision, as it did in (f) above.
+I am not convinced that we can assume that Parliament always expresses itself in an identical way to express the same thought. At any rate, in the example of subsection 4(2), paragraph (f) must necessarily be separated because there are different conditions than those found in paragraphs (a) to (d).
+Specifically, at paragraph (f) there must be a minimum value of more than $3,000 whereas:
+- paragraph (a) has no minimum value,
+- paragraph (b) has a minimum value of more than $500,
+- paragraph (c) has a condition with regard to place or origin, Canada,
+- subparagraph (c)(i) has a minimum value of more than $500,
+- subparagraph (c)(ii) has a minimum value of more than $2,000,
+- paragraph (d) has a minimum value of more than $500 and
+- paragraph (e) has a minimum value of more than $1,000.
+[33] The appellant also cites the residual presumption stated by the Supreme Court of Canada in Johns‑Manville Canada v. The Queen, [1985] 2 S.C.R. 46. It is worth stating that the Supreme Court, in Québec (Communauté urbaine) v. Corp. Notre-Dame de Bon-Secours, [1994] 3 S.C.R. 3 noted, at page 19:
+... first, recourse to the presumption in the taxpayer's favour is indicated when a court is compelled to choose between two valid interpretations, and second, this presumption is clearly residual and should play an exceptional part in the interpretation of tax legislation. In his text The Interpretation of Legislation in Canada (2nd ed. 1991), at p. 412, Professor Pierre‑André Côté summarizes the point very well:
+If the taxpayer receives the benefit of the doubt, such a "doubt" must nevertheless be "reasonable". A taxation statute should be "reasonably clear". This criterion is not satisfied if the usual rules of interpretation have not already been applied in an attempt to clarify the problem. The meaning of the enactment must first be ascertained, and only where this proves impossible can that which is more favourable to the taxpayer be chosen.
+[Emphasis in original.]
+In this case, there is no reasonable doubt such as Professor Côté described and the residual presumption does not apply.

@@ -1,0 +1,113 @@
+Title: Sterritt c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/311898/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-117-311898-sterritt-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-06-20
+
+# Sterritt c. La Reine
+
+- Citation: 2018 CCI 117
+- Decision date: 2018-06-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5088, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sterritt c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-06-20
+Référence neutre
+2018 CCI 117
+Numéro de dossier
+2017-7(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-7(IT)I
+ENTRE :
+RICHARD STERRITT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 13 avril 2018, à Toronto (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Derek Edwards
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie le 20 avril 2015 en vertu de la Loi de l’impôt sur le revenu (Canada) pour l’année d’imposition 2003 de l’appelant est rejeté, sans dépens, en raison du fait que la Cour n’a pas compétence pour entendre l’affaire faisant l’objet de l’appel.
+Signé à Ottawa, Canada, ce 20e jour de juin 2018.
+« B. Russell »
+Le juge Russell
+Référence : 2018 CCI 117
+Date : 20180620
+Dossier : 2017-7(IT)I
+ENTRE :
+RICHARD STERRITT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+[1] L’appelant, M. Sterritt, a interjeté appel à l’encontre de la cotisation établie le 20 avril 2015 en vertu de la Loi de l’impôt sur le revenu (Canada) à l’égard de son année d’imposition 2003. Sa déclaration pour l’année d’imposition en cause a été produite des années plus tard, soit le 3 février 2014. Dans sa déclaration, l’appelant réclamait un remboursement de 9 415 $ (arrondi) à titre d’impôts payés en trop. L’appelant a signifié un avis d’opposition réclamant le remboursement déclaré. Le 30 août 2016, dans sa réponse à l’avis d’opposition, le ministre du Revenu national (ministre) a confirmé la cotisation et a informé l’appelant que sa déclaration de revenus pour l’année 2003 n’avait pas été produite dans un délai de 10 jours civils à partir de la fin de l’année d’imposition 2003 et qu’un remboursement à titre d’impôts payés en trop ne pouvait pas être effectué.
+[2] En l’espèce, l’appelant demande à la Cour d’ordonner au ministre de lui rembourser le montant réclamé à titre d’impôts payés en trop pour l’année 2003.
+[3] Au cours de l’audience du présent appel, l’appelant et sa voisine, Mme Jean Jamieson, ont tous deux témoigné. En 2003, l’appelant avait un revenu d’emploi et une perte d’exploitation liée à sa ferme. Il a déclaré qu’en 2003, la [traduction] « maladie de la vache folle » était endémique, qu’il venait de divorcer, qu’il avait tout juste commencé à s’occuper de ses parents âgés et qu’il avait des dépenses importantes relativement au partage des actifs avec son ex-conjointe. Il a déclaré que toutes ces circonstances ont contribué au fait qu’il n’a pas produit ses déclarations de revenus pour l’année 2003 et les années subséquentes, jusqu’au 3 février 2014, après que le ministre a intenté une action visant à l’obliger à produire ses déclarations tardives, y compris pour l’année d’imposition 2003. L’appelant croyait cependant qu’en raison du paiement de l’impôt sur son revenu d’emploi gagné à l’extérieur de la ferme et des pertes autres qu’en capital pour l’année 2002 qui, selon lui, pouvaient être reportées, il n’était pas redevable d’un montant d’impôt additionnel provenant d’années d’imposition postérieures à l’année d’imposition 2002.
+[4] Il a déclaré qu’en 2013, un fonctionnaire de l’Agence du revenu du Canada (ARC) lui a demandé de produire ses déclarations en retard, toutes en même temps, et qu’ils ont convenu d’une prorogation de délai jusqu’en février 2014. L’appelant a donc attendu que toutes ses déclarations tardives soient prêtes avant de les produire le 3 février 2014, dans les délais convenus. L’appelant affirme maintenant que, si l’agent de l’ARC lui avait dit qu’il y avait un délai de prescription de 10 ans pour le paiement des remboursements, il aurait pu produire (et aurait produit) sa déclaration de 2003 avant le 31 décembre 2013, de façon à respecter le délai de prescription de10 ans.
+[5] Comme je l’ai mentionné, l’appelant demande à la Cour d’ordonner au ministre d’effectuer le remboursement réclamé en 2013.
+[6] La Cour n’a cependant pas compétence pour rendre une telle ordonnance. En vertu de la loi, la compétence de la Cour consiste à entendre les appels interjetés à l’encontre des cotisations et des nouvelles cotisations (article 12 de la Loi sur la Cour canadienne de l’impôt).
+[7] Il est clair que le ministre a refusé d’effectuer ce remboursement en raison de l’alinéa 164(1.5)a) de la Loi, qui dispose que :
+Exception
+(1.5) Malgré le paragraphe (1), le ministre peut, à la date d’envoi d’un avis de cotisation pour une année d’imposition ou par la suite, rembourser tout ou partie d’un paiement en trop d’un contribuable pour l’année si, selon le cas :
+a) le contribuable est un particulier (sauf une fiducie) ou une succession assujettie à l’imposition à taux progressifs pour l’année et sa déclaration de revenu pour l’année en vertu de la présente partie a été produite au plus tard le jour qui suit de dix années civiles la fin de l’année d’imposition;
+b) une cotisation a été établie, ou un montant déterminé de nouveau, en application des paragraphes 152(4.2) ou 220(3.1) ou (3.4), à l’égard du contribuable;
+c) dans la mesure où le paiement en trop se rapporte à une cotisation établie à l’égard d’un autre contribuable en vertu des paragraphes 227(10) ou (10.1) (appelée « autre cotisation » au présent alinéa), si la déclaration de revenu que le contribuable est tenu de produire en vertu de la présente partie pour l’année est produite au plus tard le jour qui suit de deux ans la date d’établissement de l’autre cotisation et que celle-ci porte :
+(i) dans le cas d’une cotisation établie en vertu du paragraphe 227(10), sur le paiement au contribuable d’honoraires, d’une commission ou d’une autre somme à l’égard de services rendus au Canada par une personne ou une société de personnes non-résidente,
+(ii) dans le cas d’une cotisation établie en vertu du paragraphe 227(10.1), sur une somme à payer en vertu des paragraphes 116(5) ou (5.3) relativement à la disposition d’un bien par le contribuable.
+[8] Comme il est indiqué, le fait de demander à la Cour d’ordonner au ministre d’émettre un remboursement n’est pas un aspect à considérer pour décider si une cotisation ou une nouvelle cotisation ou encore un avis de nouvelle détermination est juste ou erroné. Par conséquent, cette question ne relève pas de la compétence de la Cour. Elle est susceptible de relever de la compétence de la Cour supérieure de justice de l’Ontario, puisque l’appelant réside en Ontario, et également du ressort de la Cour fédérale.
+[9] En l’espèce, l’appelant n’est pas mécontent de la cotisation elle-même, qui n’est pas incompatible avec la position de l’appelant en matière de production de déclaration. Il est plutôt insatisfait de la décision connexe du ministre de ne pas effectuer le remboursement demandé.
+[10] Par conséquent, l’appel est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 20e jour de juin 2018.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2018 CCI 117
+NO DU DOSSIER DE LA COUR :
+2017-7(IT)I
+INTITULÉ :
+RICHARD STERRITT c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 13 avril 2018
+MOTIFS DU JUGEMENT :
+L’honorable Juge B. Russel
+DATE DU JUGEMENT :
+Le 20 juin 2018
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Derek Edwards
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada

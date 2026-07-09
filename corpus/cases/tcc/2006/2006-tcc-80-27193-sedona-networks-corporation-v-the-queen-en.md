@@ -1,0 +1,377 @@
+---
+title: "Sedona Networks Corporation v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27193/index.do"
+last_modified: "2006-03-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 80"
+citation2: ""
+neutral_citation: "2006 TCC 80"
+decision_date: "2006-03-02"
+language: "en"
+item_id: "27193"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 996
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:18:36.203000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "481fea9fb5dd8e9ab1eeff2623e8709b27c91a9ba5a015f12202fb6a149f40b6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sedona Networks Corporation v. The Queen
+
+- Citation: 2006 TCC 80
+- Decision date: 2006-03-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 996, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sedona Networks Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-02
+Neutral citation
+2006 TCC 80
+File numbers
+2003-2379(IT)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2379(IT)G
+BETWEEN:
+SEDONA NETWORKS CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 28, 2005, at Montreal, Quebec.
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+Counsel for the Appellant:
+Robert Taylor
+Al-Nawaz Nanji
+Counsel for the Respondent:
+Daniel Bourgeois
+Carole Benoit
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1999 taxation year is dismissed, with costs to the Respondent, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 2nd day of March 2006.
+« Pierre Archambault »
+Archambault J.
+Citation: 2006TCC80
+Date: 20060302
+Docket: 2003-2379(IT)G
+BETWEEN:
+SEDONA NETWORKS CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Archambault J.
+[1] Sedona Networks Corporation (Sedona) is appealing an assessment issued by the Minister of National Revenue (Minister) for the 1999 taxation year. The Minister denied Sedona's claim for refundable tax credits in the amount of $927,785 because he considered that Sedona was not, throughout this taxation year, a Canadian-controlled private corporation (CCPC) according to the definition of that term in subsection 125(7) of the Income Tax Act (Act), as required by subsections 127(10.1), 127.1(1)(2) and (2.01) of the Act.[1]
+[2] Sedona's shareholders are Canadian residents (including public corporations) and non-residents. The difficulty raised by this appeal concerns the application of the rule (hypothetical shareholder rule) in paragraph (b) of the definition[2] of CCPC. For the purpose of determining whether a corporation (target corporation) is controlled by non-residents, public corporations or corporations a class of the shares of which is listed on a prescribed stock exchange (these three categories of shareholders being referred to as disqualifying shareholders), this rule provides that each share of a corporation owned by such disqualifying shareholders should be treated as if it was owned by a "particular person" (hypothetical shareholder). One of the issues is whether paragraph 251(5)(b)[3] of the Act applies for the purposes of the rule, and, if so, how it does. This paragraph deems, inter alia, certain persons having rights (option rights) to acquire shares or to control the voting rights of shares of a corporation to have been in the same position in relation to the control of the corporation as if they owned the shares. Another issue is how to treat, for the purposes of the hypothetical shareholder rule, the shares owned by one corporation (controlled by a public corporation) when the voting rights of these shares have been transferred to another corporation (not a public corporation). The last issue is a factual one: whether a certain non-resident, a Mr. Manouch Khezri, had been granted a right to acquire shares of Sedona during its taxation year ending on September 30, 1999.
+Facts
+[3] Most of the facts are not in dispute. Sedona was incorporated in 1998 under the Canada Business Corporations Act (CBCA) and was, throughout its 1999 taxation year, a private corporation as defined in subsection 89(1) of the Act. It was in the business of developing, manufacturing and distributing products that enable network service providers to deliver bundled voice and data services. During its 1999 taxation year, it incurred in Canada $2,929,361 of scientific research and experimental development expenditures. Unfortunately, it declared bankruptcy on March 30, 2001.
+[4] The following two tables describe the distribution of all Sedona's shares between, on the one hand, residents and non-"public corporations" (within the meaning of subsection 89(1) of the Act) (residents) and, on the other hand, non-residents and public corporations (non-residents/public), as determined by both the appellant and the respondent. The numbers in bold characters are the only figures in dispute in this appeal:
+According to the appellant
+SHARES
+Residents
+Non-residents/Public
+Total
+Com. sh.
+6 666 000
+148 000
+6 814 000
+Class A pref. sh.
+1 300 000
+500 000
+1 800 000
+Class B pref. sh.
+1 315 789
+8 771 931
+10 087 720
+438 597
+438 597
+SUBTOTAL
+9 720 386
+9 419 931
+19 140 317
+% of ownership
+50,78%
+49,22%
+100%
+OPTIONS
+Res. employee
+526 500
+526 500
+Res. non-employee
+207 000
+207 000
+Non-res. employee
+−
+Non-res. non-employee
+342 000[4]
+342 000
+SUB-TOTAL
+733 500
+342 000
+1 075 500
+TOTAL
+10 453 886
+9 761 931
+20 215 817
+% of ownership
+51,71%
+48,29%
+100%
+According to the respondent
+SHARES
+Residents
+Non-residents/Public
+Total
+Com. sh.
+6 666 000
+148 000
+6 814 000
+Class A pref. sh.
+1 300 000
+500 000
+1 800 000
+Class B pref. sh.
+1 315 789
+8 771 931
+10 087 720
+438 597
+438 597
+SUBTOTAL
+9 281 789
+9 858 528
+19 140 317
+% of ownership
+48,49%
+51,51%
+100%
+OPTIONS
+Res. employee
+526 500
+526 500
+Res. non-employee
+207 000
+207 000
+438 597
+438 597
+Non-res. employee
+458 000
+458 000
+Non-res. non-employee
+342 000
+342 000
+SUBTOTAL
+1 172 097
+800 000
+1 972 097
+TOTAL
+10 453 886
+10 658 528
+21 112 414
+% of ownership
+49,52%
+50,48%
+100%
+[5] All these shares entitle their holder to a right to vote. The 438,597 class B preferred shares were owned by the Bank of Montreal Capital Corporation (BMCC), a wholly-owned subsidiary of the Bank of Montreal (BMO). The latter is a Canadian public corporation for the purposes of the Act. A management agreement executed on January 10, 1996, between BMCC and Ventures West Management TIP Inc. (Ventures) was in place throughout Sedona's 1999 taxation year. Ventures is a Canadian resident corporation that was not a public corporation, within the meaning of subsection 89(1) of the Act. The management agreement gave Ventures both the right to exercise, as it deemed appropriate in its sole discretion, the voting rights with respect to the Sedona shares belonging to BMCC, and the right to acquire those shares in case of termination of the agreement by BMCC without proper cause. On January 10, 1996, BMCC also executed a power of attorney in favour of Ventures to facilitate the latter's carrying out and completing the management services to be provided to BMCC. According to Sedona, the shares in question should only be added to the "residents" column in the tables above. As to the Minister, he added the Sedona shares owned by BMCC to the "non-residents/public" column because BMCC was controlled by a public corporation, and, pursuant to paragraph 251(5)(b) of the Act, he also included them in the "residents" column because of Ventures having option rights in respect of them.
+[6] On July 22, 1999, Sedona's board of directors authorized the granting of option rights to Mr. Khezri, the grant was to take effect on October 15, 1999, but the rights vesting effective August 2, 1999. According to the testimony of the president of Sedona, Mr. Joseph Elchakieh, on examination for discovery, Mr. Khezri was hired in July 1999, although his actual first day of work was August 2, 1999. Mr. Khezri was told that no options could be granted to him in July because to do so would affect the CCPC status of Sedona. The letter granting Mr. Khezri the option on 458,000 shares was signed on October 15, 1999, by Messrs. Khezri and Elchakieh. The latter described his dealings with Mr. Khezri as follows at page 29 of the transcript of the examination for discovery:
+Q. This verbal agreement or understanding would have occurred when? After this? How long after?
+A. Yes. I believe within the time frame. We had the discussion, you know, plus or minus a few days. We had the discussion. I had the discussion with Mr. Khezri about the financial situation, about CCPC status, and him being aware that we will not be issuing the letter of options to him, and we will not be committing to providing him those shares up until the point of October 15, 1999. We were extremely careful about that.
+Q. But, he accepted the contract of employment?
+A. He did accept employment based on my promise to him that we will do that. We will carry that forward on October 15th.
+[My emphasis.]
+[7] The Minister takes the position that, if paragraph 251(5)(b) of the Act is applicable, the option rights given to Mr. Khezri should be taken into account in determining whether the hypothetical shareholder controlled Sedona in 1999. Sedona, on the contrary, argues that the rights were not granted in Sedona's 1999 taxation year which ended on September 30, 1999 and therefore should be excluded for the purpose of determining if Sedona was a CCPC in 1999.
+Analysis
+[8] The issues raised by these appeals will be resolved by a careful reading of the key relevant provisions. The first is paragraph (b) of the definition of CCPC found in subsection 125(7) of the Act. It is worth reproducing that particular provision again:
+"Canadian-controlled private corporation" means a private corporation that is a Canadian corporation other than a corporation
+. . .
+(b) that would, if each share of the capital stock of a corporation that is owned by a non-resident person or by a public corporation (other than a prescribed venture capital corporation) were owned by a particular person, be controlled by the particular person, or
+[My emphasis.]
+[9] Before determining the scope of this provision, three preliminary comments are required. First, the issue to be decided here is whether Sedona is controlled by non-residents/public and not whether it is controlled by residents. Indeed, a corporation may be a CCPC even if it is not controlled by Canadian residents! Secondly, it is important to state the interpretative approach that should be followed with respect to a provision such as this one, which creates a legal fiction. I agree with this statement by Dussault J. in Survivance (La) c. R., 2005 CarswellNat 1067, at paragraph 36:[5]
+Dans la mesure où une présomption ou une disposition déterminative a précisément pour effet de travestir la réalité, j'estime que l'on doit l'interpréter de façon stricte et en limiter la portée à ce qu'elle exprime clairement. Dans le cas présent, Société Nationale a acquis le contrôle de Les Clairvoyants durant la journée du 5 juillet 1994. Le paragraphe 256(9) établit que ce contrôle est réputé avoir été acquis au début de cette journée du 5 juillet 1994, rien de plus. Il n'établit pas que la personne qui détenait le contrôle légal ou effectif de Les Clairvoyants, soit La Survivance, a cessé simultanément de détenir ce contrôle. Rien non plus dans ce paragraphe ne permet de conclure que La Survivance serait réputée avoir disposé des actions du capital-actions de Les Clairvoyants avant le moment réel de leur disposition durant la journée du 5 juillet 1994, de sorte qu'au moment où cette disposition est survenue elle avait toujours le contrôle légal ou effectif de Les Clairvoyants . . .
+[My emphasis.]
+[10] Thirdly, it is useful to give some background to the enactment of paragraph (b) of the definition of CCPC, which was added by S.C. 1998, c. 19, subsection 145(2), applicable after 1995. The purpose of this provision was clearly stated in the Technical Notes relative thereto issued by the Minister of Finance:
+Currently, a corporation is a CCPC if it is a private corporation and a Canadian corporation (both of which terms are defined in subsection 89(1)), and it is not controlled, directly or indirectly in any manner whatever by one or any combination of public corporations (other than prescribed venture capital corporations) or non-resident persons. This amendment ensures that two other types of corporation are not CCPCs. The first type are corporations that, if they are not actually controlled by non-residents, avoid that status only because their shares are widely held. The second type are corporations the shares of which are listed on a foreign stock exchange. The following paragraphs describe in more detail how the amended definition applies to each of these cases.
+A corporation the voting shares of which are distributed among a large number of persons is usually not considered to be controlled by any group of its shareholders, provided the shareholders do not act together to exercise control. As a result, it may be argued that a private Canadian corporation that is owned by a number of non-residents or public corporations is not controlled by non-residents or public corporations, and is thus a CCPC. New paragraph (b) of the CCPC definition clarifies that this is not the case. Paragraph (b) requires non-residents' and public corporations' shareholdings - not only of the corporation in question, but of all corporations - to be notionally attributed to one hypothetical person. If that person would control the corporation, then the corporation is not a CCPC.
+[My emphasis.]
+[11] The hypothetical shareholder rule requires a two-step approach. The first step is the attribution of all the shares owned by disqualifying shareholders to the hypothetical shareholder and the second, a determination whether the target corporation is controlled by this shareholder. To properly apply the rule at the first step, it is important to note what the relevant provision says and what it does not say. It requires only that "each share . . . owned by" a disqualifying shareholder be attributed to the hypothetical shareholder. Subject to paragraph 251(5)(b) of the Act, which is applicable for the purposes of the definition of CCPC definition, the rule does not refer to option rights that are held by a disqualifying shareholder. A careful reading of paragraph 251(5)(b) is required, then, to decide if it applies for the purposes of the rule:
+(b) where at any time a person has a right under a contract, in equity or otherwise, either immediately or in the future and either absolutely or contingently,
+(i) to, or to acquire, shares of the capital stock of a corporation or to control the voting rights of such shares, the person shall, except where the right is not exercisable at that time because the exercise thereof is contingent on the death, bankruptcy or permanent disability of an individual, be deemed to have the same position in relation to the control of the corporation as if the person owned the shares at that time,
+. . .
+[My emphasis.]
+[12] A better understanding of the scope of this provision can be obtained by comparing its wording with that of paragraphs 256(1.4)(a) and (b) of the Act, which provide as follows:
+(1.4) Options and rights
+For the purpose of determining whether a corporation is associated[6] with another corporation with which it is not otherwise associated, where a person or any partnership in which the person has an interest has a right at any time under a contract, in equity or otherwise, either immediately or in the future and either absolutely or contingently,
+(a) to, or to acquire, shares of the capital stock of a corporation, or to control the voting rights of shares of the capital stock of a corporation, the person or partnership shall, except where the right is not exercisable at that time because the exercise thereof is contingent on the death, bankruptcy or permanent disability of an individual, be deemed to own the shares at that time, and the shares shall be deemed to be issued and outstanding at that time; or
+(b) to cause a corporation to redeem, acquire or cancel any shares of its capital stock owned by other shareholders of a corporation, the person or partnership shall, except where the right is not exercisable at that time because the exercise thereof is contingent on the death, bankruptcy or permanent disability of an individual, be deemed at that time to have the same position in relation to control of the corporation and ownership of shares of its capital stock as if the shares were redeemed, acquired or cancelled by the corporation.
+[My emphasis.]
+[13] Under paragraph 256(1.4)(a) of the Act, the holder of option rights is deemed to own the shares and the shares are deemed to be issued. Under paragraph 251(5)(b), the owner of such rights is only deemed "to have the same position in relation to control . . . as if . . ." he owned the shares. So it is fair to conclude that, under the rule enunciated in the latter paragraph, no legal fiction of ownership is being created regarding the shares in respect of which option rights exist. The purpose of this rule is only to create a legal fiction for determining if control exists. In other words, it creates a legal fiction of control of a corporation, but not of ownership of that corporation's shares. The option rights held by disqualifying shareholders are not "shares", nor are the shares in respect of which the option rights exist "deemed" to be owned by those shareholders. So the option rights belonging to any disqualifying shareholder cannot be attributed to the hypothetical shareholder because only a "share . . . owned" by a disqualifying shareholder is to be so attributed. It is therefore irrelevant whether Mr. Khezri was granted option rights by Sedona in 1999 and I will not make any finding in that respect. As a result, we must attribute to the hypothetical shareholder only the Sedona shares owned by non-residents/public and the BMCC shares owned by BMO, a public corporation.[7]
+[14] The second step required by the hypothetical shareholder rule is to determine if, as a result of such attribution, the hypothetical shareholder controlled Sedona. It is important to note that the word used in paragraph (b) of the definition of CCPC is "controlled"; it does not say "controlled, directly or indirectly in any manner whatever". Therefore, it is the de jure concept of control as developed by the courts which is applicable and not the de facto concept of control as found in subsection 256(5.1) of the Act.[8]
+[15] The seminal court decision on control is that of Buckerfield's Ltd. et al. v. M.N.R., 64 DTC 5301, where Jackett P. stated at page 5303:
+. . . I am of the view, however, that, in section 39 of the Income Tax Act, the word "controlled" contemplates the right of control that rests in ownership of such a number of shares as carries with it the right to a majority of the votes in the election of the Board of Directors. See British American Tobacco Co. v. I.R.C., [1943] 1 A. E. R. 13, where Viscount Simon L. C., at page 15, says:
+The owners of the majority of the voting power in a company are the persons who are in effective control of its affairs and fortunes.
+[My emphasis.]
+This definition of control was affirmed by the Supreme Court of Canada in M.N.R. v. Dworkin Furs (Pembroke) Ltd. et al., 67 DTC 5035, and again in Duha Printers (Western) Ltd. v. The Queen, 98 DTC 6334.
+[16] In Vineland Quarries and Crushed Stone Limited v. M.N.R., 66 DTC 5092, Cattanach J. recognized that this "control" can be determined directly or indirectly through a chain of corporations. He stated at page 5098:
+In my view the word "controlled" in section 39(4)(b) contemplates and includes such a relationship as, in fact, brings about a control by virtue of majority voting power, no matter how that result is effected, that is, either directly or indirectly.
+. . .
+On the authority of the British American Tobacco case,[9] I do not think it is appropriate to end the inquiry after looking at the share registers of the appellant and Sauder and Thornborrow Limited. It is proper and necessary to look at the share registers of Bold Investments (Hamilton) Limited and Sauder and Thornborrow Limited to obtain an answer to the inquiry whether the appellant and the two other companies are controlled by the same "group of persons". Where the registered shareholder in the first instance is a body corporate, you must look beyond the share register.
+[My emphasis.]
+[17] Recognizing that control can be determined indirectly through a chain of corporations, Parliament, when it added the hypothetical shareholder rule to the definition of CCPC, took care to refer not only to the shares of the target corporation, but to those of any relevant corporation in the chain.[10] Given that BMO, a public corporation, controls BMCC because it owns all of its shares, the Sedona shares owned by BMCC are to be taken into account, as required by the Vineland Quarries case.
+[18] As mentioned above, paragraph 251(5)(b) of the Act applies to the definition of CCPC and is, at first blush, relevant for the purpose of determining if the hypothetical shareholder controls the target corporation. However, it is without any practical application at that level because the hypothetical shareholder obviously does not actually own any option rights and, as mentioned above, no such rights belonging to disqualifying shareholders are attributed to the hypothetical shareholder. But what if an intermediary corporation had options rights? It is unclear to me to what extent paragraph 251(5)(b) could be applicable with regard to BMCC for the purpose of determining whether the hypothetical shareholder controlled Sedona either directly or indirectly, and in particular whether BMCC owned option rights in respect of Sedona shares. I do not have to resolve this issue here because there is no evidence that BMCC owned any such rights in respect of Sedona shares.[11] Paragraph 251(5)(b) is therefore not applicable.[12]
+[19] However, I should add that, in any event, paragraph 251(5)(b) of the Act does not deem the actual owner of the shares (in respect of which option rights have been transferred to somebody else) to have ceased to own them or to have ceased to control the target corporation. This was recognized by Jackett P. in Viking Food Products Ltd. v. M.N.R., 67 DTC 5067 (Ex. Ct. Can.), [1967] 2 Ex. C.R. 11. In that decision, he had to interpret paragraph 139(5d)(b) of the Act (R.S.C. 1952) [now paragraph 251(5)(b)]. At page 5071 (DTC), he wrote that Parliament did not intend that this subsection "would have the unexpressed effect of artificially deeming a person to have ceased to control a company whose issued shares all belonged to him merely because he had granted an option to someone else to buy such shares". In an appendix to his reasons, at page 5073, he added:
+In my view, this reductio ad absurdum argument is based upon an incorrect reading of subsection (5d). That subsection applies, when the question arises as to whether the owner of a "right" controlled the corporation and it directs that he should be deemed to have had the same position in relation to control of the corporation "as if" he owned "the shares". When the question arises as to whether the real owner of the shares controlled the corporation, there is no occasion to apply the deeming provision in subsection (5d). There is no possible justification for reading the provision as deeming the existence of two sets of shares in place of the one set that actually existed. [13]
+[My emphasis.]
+[20] Sedona's counsel strenuously argued that the Sedona shares owned by BMCC could not be added to the "non-residents/public" column because the right to control the voting rights of these shares had been transfered to Ventures for a six-year period starting November 1, 1996. He stated at paragraphs 36, 39 and 41 of his memorandum of fact and law:
+36. The relevance of the ownership of a share in relation to the control of a corporation is from the exercise of the voting right attaching to that share in the election of directors, not by the passive act of being owner or holder of shares.
+The Queen v. Alroy Industries Ltd., 76 DTC 6220 (F.C.T.D.) (Tab K in the Appellant's Book of Authorities).
+. . .
+39. The essential purpose of the Buckerfield's test is to determine the locus of effective control of the corporation. It is impossible to say that a shareholder can be seen as enjoying such control simply by virtue of his or her ability to elect a majority of a board of directors, when that board may not even have the actual authority to make a single material decision on behalf of the corporation.
+Duha Printers (Western) Ltd. v. The Queen, 98 DTC 6334 at para. 70 (S.C.C.) (Tab I in the Appellant's Book of Authorities).
+. . .
+41. The Management Agreement between BMCC and Ventures Inc. was an act of BMCC (and of BMO) to give to Ventures Inc. the right to vote its shares of the Appellant, thus removing such right from the board of directors of BMCC. The Management Agreement was not an agreement external to BMCC, but rather an agreement to which BMCC itself was legally bound.
+Management Agreement dated January 10, 1996 between Bank of Montreal Capital Corporation and Ventures West Management TIP Inc. (Tab A of the Joint of Book of Documents).
+Duha Printers (Western) Ltd. v. The Queen, 98 DTC 6334 at para. 7 (S.C.C.) (Tab I in the Appellant's Book of Authorities).
+[Only the underlined text is mine.]
+Counsel for Sedona then added at page 19, paragraph 50:
+(iii) In any event, the Management Agreement was a unanimous shareholder agreement by which BMO stripped the rights from the BMCC Board of Directors to manage the business and affairs of BMCC and transferred such rights to Ventures Inc.
+[My emphasis.]
+[21] In my view, these arguments are ill-founded. First, the principle put forward by Sedona's counsel in the above-quoted paragraph 36 is based on a statement in Alroy Industries taken out of context. This is what Decary J. stated at page 6221 in reference to paragraph 139(5d)(b):[14]
+It is to be noted that these provisions go further than the ownership of shares as they refer also to "a right . . . to control the voting rights of shares in a corporation".
+It is a clear recognition by Parliament that the voting control can be exercised by:
+(a) shareholders who vote all the shares they own, which is the normal case in private or small corporations,
+(b) shareholders who vote their shares and also shares for which they have proxies,
+(c) persons that are [not][15] registered in the books as shareholders, voting by proxy shares not being owned by them.
+That approach is surely realistic because the voting right carried by a share is far from being exercised all the time by the owner or holder of that share and it is by the exercise of the voting right that directors are elected, not by the passive act of being owner or holder of shares.
+[My emphasis.]
+[22] So Decary J. was just stating the rationale for the statutory provision which broadens the criteria for the determination of control. One takes into account not only the shares that a person owns in a corporation, but also the option rights respecting the shares of this corporation. Decary J. did not, then, modify the jurisprudential definition of control, which focuses on the ownership of shares.
+[23] Secondly, these arguments of Sedona's counsel are not in conformity with the teachings of the Supreme Court of Canada in Duha Printers. In his reasons therein, Iacobucci J. summarized at paragraph 85 the principles of corporate and taxation law that are to be considered in determining whether there is de jure control:
+¶ 85 It may be useful at this stage to summarize the principles of corporate and taxation law considered in this appeal, in light of their importance. They are as follows:
+(1) Section 111(5) of the Income Tax Act contemplates de jure, not de facto, control.
+(2) The general test for de jure control is that enunciated in Buckerfield's, supra: whether the majority shareholder enjoys "effective control" over the "affairs and fortunes" of the corporation, as manifested in "ownership of such a number of shares as carries with it the right to a majority of the votes in the election of the board of directors".
+(3) To determine whether such "effective control" exists, one must consider:
+(a) the corporation's governing statute;
+(b) the share register of the corporation; and
+(c) any specific or unique limitation on either the majority shareholder's power to control the election of the board or the board's power to manage the business and affairs of the company, as manifested in either:
+(i) the constating documents of the corporation; or (ii) any unanimous shareholder agreement.
+(4) Documents other than the share register, the constating documents, and any unanimous shareholder agreement are not generally to be considered for this purpose.
+(5) If there exists any such limitation as contemplated by item 3(c), the majority shareholder may nonetheless possess de jure control, unless there remains no other way for that shareholder to exercise "effective control" over the affairs and fortunes of the corporation in a manner analogous or equivalent to the Buckerfield's test.
+[My emphasis.]
+[24] So unless it can be considered a unanimous shareholder agreement (USA) or some type of constating document,[16] the management agreement is not to be taken into account for the purpose of determining if "effective control" existed. It might be relevant for the purpose of determining de facto control, but not de jure control[17]. The management agreement is an "ordinary"[18] contractual arrangement between BMCC and Ventures which gives the latter wide powers in managing the technology portfolio of BMCC. It is just an external document[19] and, as a general rule, this kind of document is not to be taken into account as determinative of de jure control. It does not affect the corporate constitution of BMCC.[20] For instance, it is not a constating document limiting the powers of the BMCC's board of directors to manage its affairs. Nor does it modify the ownership rights of BMCC in the Sedona shares, although such rights may be exercised by Ventures in the course of the provision of its management services.
+[25] The management agreement cannot be considered to be a USA entered into by BMCC's shareholder either. BMO is not a party to this management agreement.[21] Under subsection 146(3) CBCA, a person who is the beneficial owner of all the issued shares of a corporation can make a written declaration that restricts in whole or in part the powers of the directors to manage the business and affairs of the corporation, and this declaration is deemed to be a USA. Here, there is no evidence that BMO made such a written declaration. If BMO had the intention of removing or altering directors' powers to manage the business and affairs of BMCC, it would have at the very least intervened in the management agreement and made its intention clear. However, such is not the case. So, in the present appeal, the existence of de jure control can only be determined by looking at the shareholder registers of Sedona and BMCC.
+[26] One last argument made by Sedona's counsel requires comments. I am referring to the argument he made at page 25 of his memorandum of fact and law:
+(iv) The particular person in the CCPC definition at s. 125(7)(b) does not have de jure control of the Appellant in any event: the Shareholders' Voting Agreement
+67. The Shareholders' Voting Agreement, to which the Appellant is a party, provides that there be five directors thereof. The parties agree to vote their shares to ensure that the directors represent both the resident shareholders and the non-resident and/or public corporation shareholders, with no side having the right to elect a majority of the directors. The Voting Agreement thus provides a basis upon which the parties to it can enforce their rights as against the Appellant. Like the Management Agreement vis-à-vis BMCC, the Voting Agreement is not an agreement which is external to the Appellant and can be enforced against it.
+Shareholder Voting Agreement dated April 6, 1999 (Tab N of the Joint Book of Documents).
+[27] According to Duha Printers, the only way this document could be considered relevant for the purpose of determining de jure control[22] is if it was either a USA or a constating document which to a sufficient degree removed from the board of directors powers to manage the business and affairs of the corporation.[23] There is no evidence that all Sedona's shareholders entered into this agreement,[24] so it cannot be considered a USA within the meaning of section 146 CBCA. In any event, it does not restrict the powers of the directors to manage, or supervise the management of, the business and affairs of the corporation, as required by section 146 CBCA. Furthermore, even had it done so, it could not establish that Sedona was not controlled by non-residents/public throughout the 1999 taxation year, since it was entered into in April 1999, that is, during the relevant taxation year.
+[28] In light of the principles and the findings set out above, the only shares that are to be added in the non-residents/public column for the hypothetical shareholder are the Sedona shares that are actually owned by disqualifying shareholders and the Sedona shares that BMO controls through BMCC. The total of all these shares amounts to 9,858,528 out of 19,140,317 issued shares, which represents 51.51% and gives the hypothetical shareholder the right to a majority of the votes in the election of the board of directors. Therefore, Sedona is controlled by the hypothetical shareholder. Given that the hypothetical shareholder controls Sedona, the latter cannot be considered a CCPC.
+[29] For these reasons, Sedona's appeal must be dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada, this 2nd day of March 2006.
+« Pierre Archambault »
+Archambault J.
+CITATION: 2006TCC80
+COURT FILE NO.: 2003-2379(IT)G
+STYLE OF CAUSE: Sedona Networks Corporation and Her Majesty The Queen
+PLACE OF HEARING: Montreal, Québec
+DATE OF HEARING: July 28, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: March 2, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Robert Taylor
+Al-Nawaz Nanji
+Counsel for the Respondent:
+Daniel Bourgeois
+Carole Benoit
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Robert Taylor
+Firm: Couzin Taylor LLP
+Tax Counsel
+Ottawa, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Minister also denied the deduction of $62,215 claimed for current expenses, but the appellant abandoned its claim to these expenses at the hearing.
+[2] A CCPC is defined as follows in subsection 125(7) of the Act:
+"Canadian-controlled private corporation" means a private corporation that is a Canadian corporation other than a corporation
+(a) controlled, directly or indirectly in any manner whatever, by one or more non-resident persons, by one or more public corporations (other than a prescribed venture capital corporation), or by any combination thereof,
+(b) that would, if each share of the capital stock of a corporation that is owned by a non-resident person or a public corporation (other than a prescribed venture capital corporation) were owned by a particular person, be controlled by the particular person, or
+(c) a class of the shares of the capital stock of which is listed on a prescribed stock exchange;
+[My emphasis.]
+Only par. (b) is relevant for the purposes of this appeal.
+[3] Paragraph 251(5)(b) of the Act provides as follows:
+For the purposes of subsection (2) and the definition "Canadian-controlled private corporation" in subsection 125(7),
+. . .
+(b) where at any time a person has a right under a contract, in equity or otherwise, either immediately or in the future and either absolutely or contingently,
+(i) to, or to acquire, shares of the capital stock of a corporation or to control the voting rights of such shares, the person shall, except where the right is not exercisable at that time because the exercise thereof is contingent on the death, bankruptcy or permanent disability of an individual, be deemed to have the same position in relation to the control of the corporation as if the person owned the shares at that time,
+(ii) to cause a corporation to redeem, acquire or cancel any shares of its capital stock owned by other shareholders of the corporation, the person shall, except where the right is not exercisable at that time because the exercise thereof is contingent on the death, bankruptcy or permanent disability of an individual, be deemed to have the same position in relation to the control of the corporation as if the shares were so redeemed, acquired or cancelled by the corporation at that time;
+(iii) to, or to acquire or control, voting rights in respect of shares of the capital stock of a corporation, the person is, except where the right is not exercisable at that time because its exercise is contingent on the death, bankruptcy or permanent disability of an individual, deemed to have the same position in relation to the control of the corporation as if the person could exercise the voting rights at that time, or
+(iv) to cause the reduction of voting rights in respect of shares, owned by other shareholders, of the capital stock of a corporation, the person is, except where the right is not exercisable at that time because its exercise is contingent on the death, bankruptcy or permanent disability of an individual, deemed to have the same position in relation to the control of the corporation as if the voting rights were so reduced at that time; and
+. . .
+[My emphasis.]
+[4] Sedona takes the view however that these 342,000 (optioned) shares should be excluded from the numerator (the number of shares owned by the hypothetical shareholder) but included in the denominator (total shares including optioned shares), so that the 48.29% would be reduced to 46.6%.
+[5] See also the approach followed by the Supreme Court of Canada in Antosko et al. v. The Queen, 94 DTC 6314.
+[6] And not for the purposes of the definition of CCPC.
+[7] See par. 17 below for further comments as to why the BMCC shares are to be attributed to the hypothetical shareholder.
+[8] Subsection 256(5.1) provides as follows:
+(5.1) Control in fact
+For the purposes of this Act, where the expression "controlled, directly or indirectly in any manner whatever," is used, a corporation shall be considered to be so controlled by another corporation, person or group of persons (in this subsection referred to as the "controller") at any time where, at that time, the controller has any direct or indirect influence that, if exercised, would result in control in fact of the corporation, except that, where the corporation and the controller are dealing with each other at arm's length and the influence is derived from a franchise, licence, lease, distribution, supply or management agreement or other similar agreement or arrangement, the main purpose of which is to govern the relationship between the corporation and the controller regarding the manner in which a business carried on by the corporation is to be conducted, the corporation shall not be considered to be controlled, directly or indirectly in any manner whatever, by the controller by reason only of that agreement or arrangement.
+[9] The relevant passage of the British American Tobacco case referred to by Cattanach J. at p. 5096 is as follows:
+. . . The word "interest", however, as pointed out by LAWRENCE, J., is a word of wide connotation, and I think the conception of "interest controlling" may well cover the relationship of one company towards another, the requisite majority of whose shares are, as regards their voting power, subject, whether directly or indirectly, to the will and ordering of the first-mentioned company. If, for example, the appellant company owns one-third of the shares in company X, and the remaining two-thirds are owned by company Y, the appellant company will none the less have a controlling interest in company X if it owns enough shares in company Y to control the latter.
+[My emphasis.]
+[10] See the Technical Notes reproduced above at par. 10.
+[11] At first blush, it seems to me that par. 251(5)(b) would not be applicable because only shares - and not option rights - are taken into account with respect to the hypothetical shareholder. Given that our ultimate goal is to determine if this shareholder controlled Sedona - and not if BMCC controlled Sedona -, this paragraph is useless here. However, it would be another story if a corporation had been interposed between BMCC and Sedona. I believe that par. 251(5)(b) would then be applicable for the purpose of determining if BMCC controlled that corporation and if, as a result, the hypothetical shareholder controlled Sedona indirectly. The Sedona shares held by the corporation would be added to the non-residents/public column only to the extent that BMCC controlled that corporation. See note 9 above.
+[12] In any event, as will be seen below, the hypothetical shareholder controlled Sedona without taking into account any option rights that BMCC may have owned. It would thus not be necessary to resort to the rule in par. 251(5)(b) of the Act.
+[13] These comments were made after the following written submission had been presented by counsel for the appellant with regard to Yardley Plastics of Canada Limited v. M.N.R., [1966] C.T.C. 215, 66 DTC 5183:
+The depths of absurdity reached by any other construction are well illustrated by the example adduced at the hearing by Mr. Mogan, counsel for the Respondent.
+Suppose Eatons had a wholly owned subsidiary, all of the shares of which were optioned to Simpsons. Suppose further that the total number of shares issued and outstanding are one hundred shares. Under the construction which Mr. Mogan advanced, Eatons, Simpsons and the subsidiary would all be associated with each other. Under the construction for which I argued, Simpsons and the subsidiary would alone be associated. Eatons would not be associated with the subsidiary or with Simpsons.
+If the artificial concept of ownership dictated by Section 139(5d)(b) is not exclusive it would necessarily follow that none of the companies would be associated! If Simpsons, because of its option, is deemed to have had the same position in relationship to control of the corporation as if it owned a hundred shares and if, notwithstanding the foregoing, Eatons is regarded as being still the owner of a hundred shares, then the subsidiary is not associated with Eatons and it is not associated with Simpsons. If you add to the artificial deemed to be shareholdings of Simpsons the one hundred shares actually owned by Eatons, there emerges a company in which, in relation to control, Eatons and Simpsons each own or is deemed to own one hundred shares. As the number of shares balance each other and neither of the two companies in relationship to control has more than fifty per cent of the total share issue and deemed to be share issue, there will be no association, and the formerly associated subsidiary would become disassociated from anybody by the option itself.
+[14] In the DTC version of the text, it is written "S.139(4d)(b) [sic] in the preceding paragraph.
+[15] It makes sense to add "not".
+[16] In Daphne A. Dukelow and Betsy Nuse, The Dictionary of Canadian Law, (Scarborough (On): Thomson Professional Publishing Canada, 1991),"constating instrument" is defined as follows:
+Includes any statute, letters patent, memorandum of association, articles of association, certificate of incorporation, certificate of continuance, by-laws, regulations or other instrument by which a body corporate is incorporated or continued or that governs or regulates the affairs of a body corporate. Newfoundland statutes.
+[17] See par. 51 and 55 of Duha Printers.
+[18] See par. 16 and 42 of Duha Printers.
+[19] See par. 50 and 51 of Duha Printers reproduced at note 23.
+[20] In Duha Printers, Iacobucci J. stated :
+59 As I have already indicated, agreements among shareholders, voting agreements, and the like are, as a general matter, arrangements that are not examined by courts to ascertain control. In my view, this is because they give rise to obligations that are contractual and not legal or constitutional in nature. Thus, to my mind, the issue comes down to whether the USAis to be characterized as constitutional or contractual in nature. If it is the former, then its provisions are to be examined under the de jure control analysis; if it is the latter, then its provisions are beyond the scope of that test . . .
+[My emphasis.]
+[21] Even if BMCC has undertaken certain obligations on behalf of BMO. See for instance sections 9.3 and 10.4 of the management agreement. Furthermore, I agree with the following statement of the respondent's counsel in his oral argument (at p. 144 of the transcript):
+The shareholder here is the Bank of Montreal. The Corporation is BMCC. BMCC can undertake all kinds of obligations to Ventures West, can also stipulate that certain things will be done by a third party, but the only one that's on the hook for those obligations is BMCC.
+[22] In his oral argument, Sedona's counsel admitted that the "voting agreement" has more to do with the question of de facto control than with de jure control.
+[23] In Duha Printers, Iacobucci J. wrote:
+50 In any event, I certainly do not think it can be said that Consolidated Holding supports the very broad proposition gleaned from it by Linden, J.A. (at p. 118), that "[a]ny binding instrument . . . must be reckoned in the analysis if it affects voting rights." For precisely the reasons expressed by Wilson, J. in the above-quoted passage of her dissent in Imperial General Properties, and in keeping with the approach taken by courts since Buckerfield's, it is clear that the general test for de jure control remains majority voting control over the corporation, as manifested by the ability to elect the directors of the corporation. While this Court has occasionally been willing to examine factors other than the share register of the company, its assessment has been restricted only to the constating documents, not external agreements. The only exception to this rule has been in cases like Consolidated Holding, where the shareholders' very capacity to act has been limited by external documents, but this has to date been manifested only in cases where the shares are held by trustees.
+51 Thus, I would conclude that, as a general rule, external agreements are not to be taken into account as determinants of de jure control. This is consistent with the relatively recent decision of the Alberta Court of Queen's Bench in Harvard International Resources Ltd. v. Provincial Treasurer of Alberta, 93 DTC 5254, in which Hutchinson J. declined to interpret the reasons of Estey, J. in Imperial General Properties, supra, as inviting the consideration of agreements other than constating documents, other than possibly as an indicium of de facto control. For Linden, J.A. to rest his disposition of the instant case on the basis that, in determining issues of corporate control, "the Court will look to the time in question, to legal documents pertaining to the issue, and to any actual or contingent legal obligations affecting the voting rights of shares" (p. 121) was, with respect, inconsistent with the Canadian jurisprudence in this area.
+[My emphasis.]
+[24] Sedona's counsel admitted in his oral argument that this was not a "unanimous" shareholders' agreement (p. 94 of the transcript).

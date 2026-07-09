@@ -1,0 +1,248 @@
+Title: Gauthier (Gisborn) v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26768/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-290-26768-gauthier-gisborn-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-05-24
+
+# Gauthier (Gisborn) v. The Queen
+
+- Citation: 2006 TCC 290
+- Decision date: 2006-05-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3514, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gauthier (Gisborn) v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-05-24
+Neutral citation
+2006 TCC 290
+File numbers
+1999-2648(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 1999-2648(IT)G, 1999-2650(IT)G, 1999-2651(IT)G
+2000-37(IT)G and 2000-4883(IT)G
+BETWEEN:
+LORRAINE GAUTHIER (GISBORN), HENRY WETELAINEN,
+MICHAEL McGUIRE, and DAWN McKAY,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motions heard with the motion of Ontario Metis Aboriginal Association
+(2000-4883(IT)G) on May 10, 2006, at Toronto, Ontario, by
+the Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellants:
+John M. Clow
+Counsel for the Respondent:
+Julia S. Parker and Gérald L. Chartier
+____________________________________________________________________
+ORDER
+UPON motions by the Respondent for an Order striking out paragraphs 9, 10, 11, 12, 13, 28, 29(iii), (v), (vi), (vii), 30 and part of 33 of the Amended Amended Notices of Appeal, without leave to amend; and for costs of these motions;
+AND UPON reading the material filed;
+AND UPON hearing counsel for the parties;
+IT IS HEREBY ordered that the Respondent's motions are granted with one set of costs.
+Signed at Ottawa, Canada, this 24th day of May, 2006.
+"Campbell J. Miller"
+Miller J.
+Docket: 2000-4883(IT)G
+BETWEEN:
+ONTARIO METIS ABORIGINAL ASSOCIATION,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard with the motions of Lorraine Gauthier (Gisborn) (1999-2648(IT)G), Henry Wetelainen (1999-2650(IT)G), Michael McGuire (1999-2651(IT)G), and
+Dawn McKay (2000-37(IT)G) on May 10, 2006, at Toronto, Ontario, by
+the Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+John M. Clow
+Counsel for the Respondent:
+Julia S. Parker and Gérald L. Chartier
+____________________________________________________________________
+ORDER
+UPON motion by the Respondent for an Order striking out paragraphs 5, 6, 7, 8, 9, 24, 25(iii), (v), (vi), (vii), 26 and part of 33 of the Amended Notice of Appeal, without leave to amend; and for costs of this motion;
+AND UPON reading the material filed;
+AND UPON hearing counsel for the parties;
+IT IS HEREBY ORDERED that the Respondent's motion is granted with one set of costs.
+Signed at Ottawa, Canada, this 24th day of May, 2006.
+"Campbell J. Miller"
+Miller J.
+Citation: 2006TCC290
+Date: 20060524
+Docket: 1999-2648(IT)G, 1999-2650(IT)G
+1999-2651(IT)G, 2000-37(IT)G and 2000-4883(IT)G
+BETWEEN:
+LORRAINE GAUTHIER (GISBORN), HENRY WETELAINEN,
+MICHAEL McGUIRE, DAWN McKAY and
+ONTARIO METIS ABORIGINAL ASSOCIATION,
+Appellants,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Miller J.
+[1] The Respondent brings motions to have portions of the Appellants' pleadings struck out pursuant to section 53 or paragraph 58(1)(b) of the Tax Court of Canada Rules (General Procedure) (the Rules). Four of the Appellants are Metis, and the fifth is a non-profit organization incorporated to represent the interests of aboriginal people. The issues, as framed by the Appellants, in their pleadings are:
+(i) Whether the income attributed to the Appellants is exempt from taxation pursuant to the Indian Act R.S.C. 1985 c. I-5 and section 15 of the Canadian Charter of Rights and Freedoms (the Charter);
+(ii) Whether the assessment in issue, or any of the legislative provisions upon which they are based, (including paragraph 81(1)(a) of the Income Tax Act (Canada), subsection 2(1) and section 87 of the Indian Act) violates section 15 of the Charter and, if they do, whether the violation is demonstrably justified under section 1 of the Charter;
+(iii) Whether the Appellants have an inherent immunity from taxation as an aboriginal right deriving from the aboriginal right to self‑government which is constitutionally entrenched and protected under section 35 of the Constitution Act, 1982.
+It is the third issue, and all matters pled in connection with that issue, that the Respondent seeks to have struck, on the basis it runs afoul of both section 53 and paragraph 58(1)(b) of the Rules. Attached as Appendix A[1] are those parts of the pleadings in issue.
+[2] There are a couple of preliminary issues to deal with before addressing the substance of the Motions to strike. First, the Appellants contend that the Minister is simply too late to bring these Motions. Without going into the procedural history, the response to this position is found in Justice Bowie's Order of June 23, 2005 wherein he ordered that:
+The Respondent’s right to bring any application pursuant to the Tax Court of Canada Rules (General Procedure) in respect of the Amended Amended Notice of Appeal is not prejudiced by the terms of this order.
+Subsequently there was an Order of Justice Lamarre of this Court dated December 21, 2005, ordering that:
+The respondent shall file her motion to strike pursuant to paragraph 58(1)(b) of the Rules on or before February 10, 2006;
+The respondent shall serve on the appellant and file with the Registry of the Court a factum pursuant to section 62 of the Rules on or before March 10, 2006;
+The appellants shall serve their factums on the respondent and file them with the Registry of the Court on or before April 21, 2006;
+[3] Where judges of this Court specifically leave the door open for this very sort of motion, it would only be in exceptional circumstances where another judge would slam the door shut. I have not been satisfied there are any exceptional circumstances. The Appellants have even acknowledged that there has been no delay or untoward practice by the Respondent. The Respondent is not too late to bring these Motions.
+[4] Second, the Appellants argue, based on the case of Enterac Property Corp. v. Canada[2] that it is not open to the Respondent to rely on paragraph 58(1)(b) of the Rules to strike only portions of the pleadings. Justice Bell made a clear ruling in this regard in the Enterac case. The Federal Court of Appeal, on appeal, stated:
+… We are also of the view that Rule 58 does not apply.
+The Appellants argue that the statement of the Federal Court of Appeal is ambiguous, and that it is still open to me to rely upon subsection 58(1)(b) of the Rules to strike a portion of a pleading that represents an identifiable distinct issue (see in this regard the Montgomery v. Scholl-Plough Canada Inc.[3] decision). I disagree. I adopt Justice Bell's analysis. Given my understanding of the similarity of the tests for the application of these rules this is not a crucial point. The Respondent is limited to relying on section 53 of the Rules, which states:
+53 The Court may strike out or expunge all or part of a pleading or other document, with or without leave to amend, on the ground that the pleading or other document,
+(a) may prejudice or delay the fair hearing of the action,
+(b) is scandalous, frivolous or vexatious, or
+(c) is an abuse of the process of the Court.
+[5] What then is the test for the application of section 53 of the Rules? I find that it is not dissimilar from the test in section 58 of the Rules, that a pleading will be struck if it is plain and obvious it will not succeed. Unlike many other jurisdictions, the Rules of the Tax Court have separate provisions for striking a pleading in its entirety on the grounds of no reasonable cause of action (section 58 of the Rules), and striking portions of a pleading on the grounds enumerated in section 53 of the Rules above. The leading case in this regard is the Supreme Court of Canada decision of Hunt v. Carey Canada Inc.,[4] where the test was enunciated as follows:
+Thus, the test in Canada governing the application of provisions like Rule 19(24)(a) of the British Columbia Rules of Court is the same as the one that governs an application under R.S.C. O. 18, r. 19: assuming that the facts as stated in the statement of claim can be proved, is it "plain and obvious" that the plaintiff's statement of claim discloses no reasonable cause of action? As in England, if there is a chance that the plaintiff might succeed, then the plaintiff should not be "driven from the judgment seat". Neither the length and complexity of the issues, the novelty of the cause of action, nor the potential for the defendant to present a strong defence should prevent the plaintiff from proceeding with his or her case. Only if the action is certain to fail because it contains a radical defect ranking with the others listed in Rule 19(24) of the British Columbia Rules of Court should the relevant portions of a plaintiff's statement of claim be struck out under Rule 19(24)(a).
+[6] Relying on grounds of scandalous, frivolous or vexatious or an abuse of process has also been held to invoke a similar test. For example in Pfizer Canada Inc. v. Apotex Inc.,[5] Justice Lemieux cites Creaghan Estate v. The Queen[6] with approval as follows:
+Finally, in my view, a statement of claim should not be ordered to be struck out on the ground that it is vexatious, frivolous or an abuse of the process of the Court, for the sole reason that in the opinion of the presiding judge, plaintiff's action should be dismissed. In my opinion, a presiding judge should not make such an order unless it be obvious that the plaintiff's action is so clearly futile that it has not the slightest chance of succeeding, whoever the judge may be before whom the case could be tried. It is only in such a situation that the plaintiff should be deprived of the opportunity of having "his day in Court". [emphasis added]
+Justice Rouleau referred similarly to a frivolous or vexatious pleading as one where it is so clearly futile it does not have the slightest chance of success.[7] The jurisprudence is also clear that the power to strike must be exercised with great care.
+[7] A court can also strike out a pleading where it is so deficient in material facts that it does not raise a ground of appeal, or where the facts set out are irrelevant, or where the Respondent cannot know how to answer.
+[8] The Appellants referred me to Justice Rip's analysis in Wai Yu Gee v. The Queen,[8] in which he quoted the principles of pleading as set forth in Holmsted and Watson:[9]
+This is the rule of pleading: all of the other pleading rules are essentially corollaries or qualifications to this basic rule that the pleader must state the material facts relied upon for his or her claim or defence. The rule involves four separate elements: (1) every pleading must state facts, not mere conclusions of law; (2) it must state material facts and not include facts which are immaterial; (3) it must state facts and not the evidence by which they are to be proved; (4) it must state facts concisely in a summary form.
+Justice Rip proceeded to rely on such principles in addressing whether the pleadings were so irrelevant and improper as to prejudice or delay the fair hearing of the appeal. He then struck out portions of the Reply to the Notice of Appeal but granted the Respondent 21 days to file an Amended Reply. I distinguish this type of tidying up of inadequate pleadings, from the full-out striking of a separate and distinct basis for relief, as I am faced with in this application. I will, however, bear in mind these fundamental principles set forth in Holmsted and Watson.
+[9] With that background, I turn now to a review of the pleadings. The substance of the Appellants' pleadings of protection of aboriginal rights is found in the following paragraphs of the pleadings:
+12(a) The right to and exercise of self-government (which carries with it immunity from taxation) was of central significance and integral to the distinctive historic Metis community at Sault Ste. Marie and continues to be an integral part of the contemporary Metis community at Sault Ste. Marie. It constitutes a right, practice or tradition exercised by the Metis. It is integral t the distinctive Metis community and has existed since prior to effective control of the area by European settlers.
+28. Whether the Appellant has an inherent immunity from taxation as an aboriginal right deriving from the aboriginal right to self-government which is constitutionally entrenched and protected under section 35 of the Constitution Act, 1982.
+30(c) Tax immunity is part of the inherent right of self-government held by aboriginals and recognized under section 35 of the Constitution Act, 1982.
+[10] Section 35 of the Constitution Act, 1982 reads as follows:
+35(1) The existing aboriginal and treaty rights of the aboriginal people of Canada are hereby recognized and affirmed.
+(2) In this Act, "aboriginal peoples of Canada" includes the Indian, Inuit and Métis peoples of Canada.
+[11] Do the Appellants have any chance of succeeding on the basis the Appellants have a right to self-government including immunity from taxation, which right is protected by section 35 of the Constitution Act, 1982?
+[12] The leading case on the determination of what aboriginal rights are protected by section 35 of the Constitution Act, 1982 is Regina v. Van der Peet.[10] The Appellants' counsel argued that I should follow the more liberal approach of the dissenting judgment of Justice L'Heureux-Dubé, rather than what he referred to as the Frozen Rights approach of the majority. It would be improper for me to do so. The approach to this issue is clearly addressed by the majority in Van der Peet, and it is that approach which guides me in analyzing the viability of the Appellants' case. Further, the majority's decision in Van der Peet was applied in subsequent Supreme Court of Canada cases of R. v. Powley,[11] R. v. Pamajewon,[12] Mitchell v. M.N.R.[13] and Delgamuukw v. British Columbia.[14]
+[13] The Van der Peet case sets out a two-fold test for evaluating the scope of aboriginal rights protected by section 35. First, the Court must identify precisely the nature of the right claimed – the "proper characterization of the right" stage. As succinctly put by Justice Vertes in R. v. The Kátlodééche First Nation:[15]
+27 I agree that only a trial will develop the evidence necessary to evaluate the claims made in an action. But a plaintiff is still required to plead the necessary material facts to set up the cause of action. And, in the context of a claim to a right of self-government as an aspect of the aboriginal rights protected and affirmed by s. 35, and with reference to the unconstitutionality of some statute, the minimum requirements of a pleading should, as noted in Van der Peet and other cases, specify (a) the nature of the right being claimed; (b) the actions taken by the plaintiff that are done pursuant to that right; (c) the statute that infringes that right and how it does so or threatens to do so; and (d) the historical background to establish the right. Further, this should be done with reference to a "live controversy" as between the parties so as to provide a context for the action. In my opinion, the lack of this specificity makes the Statement of Claim here deficient.
+[14] Second, the Court must then determine whether the claimant has demonstrated that the practices, customs or traditions were an essential and significant part of the society's distinctive culture – the "integral to a distinctive culture" test.
+[15] The Supreme Court of Canada further stated that claims to aboriginal rights cannot be determined on a general basis. The existence of a right hinges on the practices, customs or traditions of the precise community claiming the right, and the protection relates to the specific history of the group claiming the right. As Chief Justice Lamer stated in Pamajewon:
+27 The appellants themselves would have this Court characterize their claim as to "a broad right to manage the use of their reserve lands". To so characterize the appellants' claim would be to cast the Court's inquiry at a level of excessive generality. Aboriginal rights, including any asserted right to self-government, must be looked at in light of the specific circumstances of each case and, in particular, in light of the specific history and culture of the aboriginal group claiming the right. The factors laid out in Van der Peet, and applied, supra, allow the Court to consider the appellants' claim at the appropriate level of specificity; the characterization put forward by the appellants would not allow the Court to do so.
+[16] The question of specificity was also dealt with by Justice Russell of the Federal Court in Sawridge Band v. Canada[16] as follows:
+288 These words suggest to me the following conclusions:
+(a) A right to self-government that is advanced in very broad terms is "not cognizable under s. 35(1)";
+(b) If self-government is asserted as a right under section 35(1), it "cannot be framed in excessively general terms";
+(c) If self-government is asserted, the party advancing the claim will have to deal with the many difficult conceptual issues attendant upon such a claim and this cannot be done where the right is merely advanced in very broad terms.
+[17] Also, in the Powley decision the Supreme Court of Canada adapted the Van der Peet test to the Metis community. The Supreme Court then went on to a ten-point analysis, similar to the analysis in Van der Peet, commencing with the characterization of the right.
+[18] Based on the Supreme Court of Canada's, and other courts' approach to the analysis of aboriginal rights protected by section 35 of the Constitution Act, 1982 what, if any, chance do the Appellants have in advancing their section 35 pleading on the basis of an inherent right of self-government (which carries with it immunity from taxation)? I find their position is not just weak – it is impossible.
+[19] The Appellants' pleadings do not pass the first hurdle of clearly characterizing a specific right related to specific practices, customs or traditions. There is nothing but bald assertions in the pleadings – no substantive support.
+[20] For the Appellants' claim to succeed they must plead:
+(i) the exact nature of the right claimed;
+(ii) the actions taken by the party pursuant to that right;
+(iii) the infringing statute; and
+(iv) the historical background to establish the right.
+[21] The Appellants refer to several paragraphs in the pleadings as support for identifying the exact nature of the right. Yet, what have the Appellants really pleaded in those paragraphs? For example, "tax immunity is part of the inherent right of self-government held by aboriginals and recognized under section 35 of the Constitution Act, 1982". That is not a material fact, but a conclusion of law or, at best, mixed fact and law. But it is a naked statement. Mr. Clow tried to dress it in argument by suggesting some principles of international law perhaps supported this pleaded conclusion. The other paragraphs relied upon are similar in asserting overly broad unsupported conclusions. I can find no specific practices, customs or traditions that have been pleaded with sufficient specificity so as to clearly identify the right at issue. I do not find that adding the words "which carries with it immunity from taxation" helps the Appellants narrow the broad right of self-government to which they allude. Further, this may be viewed as a form of negative right; that is, a right not to pay taxes to any government, at any time. Or, perhaps it is a right incidental to the right of self-government. The Supreme Court of Canada has been clear that incidental rights do not qualify as aboriginal rights, contemplated by section 35 (see Van der Peet). Also, in the Mitchell case, the Supreme Court of Canada rejected the characterization of a right to bring goods across the U.S. border "without having to pay any duty or taxes whatsoever to any Canadian government or authority". The Supreme Court of Canada re-characterized the right as a right to bring goods across the St. Lawrence River for purposes of trade. No suggestion was made at the Motions before me as to how to re-characterize the right of immunity from taxation.
+[22] The Appellants plead that the actions taken by them pursuant to their aboriginal right is the filing of the Notice of Objection. A solitary objection to income tax imposed by the Government of Canada falls far short of establishing a custom, practice or tradition of "immunity from taxation". The Appellants acknowledged in their pleading that "there is continuity between the historic right and the contemporary right asserted even though that right may not have always been asserted by way of claiming tax immunity".
+[23] Finally, what has been pleaded regarding the historical background to establish the right? Interestingly, the Appellants plead "in this case it is, in a sense, aboriginal ancestry itself which is being relied upon to establish the right, as opposed to an action, tradition or practice". It appears that the Appellants relied exclusively on the Powley decision that an historic Metis community existed and a contemporary Metis community still exists in and around Sault Ste. Marie. The Supreme Court also determined that the said community had been established with sufficient continuity and stability through evidence of shared customs, traditions and collective identity as well as demographic evidence. But the Supreme Court of Canada went on to state:[17]
+13 Our evaluation of the respondents' claim takes place against this historical and cultural backdrop. The overarching interpretive principle for our legal analysis is a purposive reading of s. 35. The inclusion of the Métis in s. 35 is based on a commitment to recognizing the Métis and enhancing their survival as distinctive communities. The purpose and the promise of s. 35 is to protect practices that were historically important features of these distinctive communities and that persist in the present day as integral elements of their Métis culture.
+[24] The Supreme Court of Canada recognized that this continuity requires a certain margin of flexibility to ensure aboriginal practices can evolve. The Appellants' pleadings, however, do not illustrate any historical practice grounding the right, nor any continuity. There is nothing upon which any flexibility can be exercised. Simply relying on Powley as confirming the existence of a Metis community is insufficient to prove any broad right of self-government, let alone any more exact identifiable right.
+[25] The Appellants argue that the door has been left open by the Supreme Court of Canada to claim self-government is a protected section 35 aboriginal right, especially where there is a live issue, such as the payment of taxes. I do not read the Supreme Court of Canada cases as opening the door quite as wide as the Appellants believe. Self-government must still pass the Van der Peet tests – practices, customs or traditions need be proven to establish what really constitutes the right of self-government. There can be no structure without a foundation. In this case the Appellants have pled the right without adequately identifying it. It is not therefore surprising that the pleadings fall short of establishing the foundation - the practices, customs or traditions to support the right. I conclude the Appellants' pleadings on this issue are so defective as to be futile. I grant the Respondent's motions and strike the paragraphs requested.
+[26] Is this an appropriate case to allow the Appellants' leave to amend? Had the Appellants' counsel given me any concrete idea as to how to amend the pleadings to address the concerns I have just expressed, I may have considered leave to amend. But he did not. I was given nothing to help identify a specific right arising from practices, customs or traditions, which could possibly be considered an aboriginal right protected by subsection 35(1) of the Constitution Act, 1982. In these circumstances, granting leave to amend, I believe, would serve no useful purpose.
+[27] I allow the Respondent's motions with one set of costs.
+Signed at Ottawa, Canada, this 24th day of May, 2006.
+"Campbell J. Miller"
+Miller J.
+APPENDIX "A"
+STATEMENT OF FACTS
+9. The Appellant is genealogically descended from the historic Metis community at Sault Ste. Marie, Ontario and has been accepted by the Sault Ste. Marie Metis community as a member of that community.
+10. There was an historic Métis community at Sault Ste. Marie that began to evolve in the mid 17th century. The Sault Ste. Marie community was largely under Metis control from the late 17th century to the mid-nineteenth century. The Metis community at Sault Ste. Marie was visually, culturally and ethnically distinct. It came under effective control by European settlers just prior to 1850.
+11. (a) The Sault Ste. Marie Metis community is not confined to the town-site proper and encompasses the surrounding environs. There is an existing Metis community at Sault Ste. Marie that is in continuity with the historic one.
+(b) The Sault Ste. Marie community is part of the Metis Nation, a historic and existing collective of Metis people who lived, and to a large extent whose descendants still live, in the Metis homeland consisting of the woodland areas of North Central North America, including Northern Ontario and specifically Sault Ste. Marie and the surrounding area including Batchewana, Goulais Bay, Garden River, Bruce Mines, Desbarates, Bar River, St. Joseph's Island, Sugar Island, as well as into what is now Northern Michigan and Searchmont.
+12 (a) The right to and exercise of self-government (which carries with it immunity from taxation) was of central significance and integral to the distinctive historic Metis community at Sault Ste. Marie and continues to be an integral part of the contemporary Metis community at Sault Ste. Marie. It constitutes a right, practice or tradition exercised by the Metis. It is integral to the distinctive Metis community and has existed since prior to effective control of the area by European settlers.
+(b) The Canadian government recognizes the inherent right of aboriginals to self-government as an existing right within section 35 of the Constitution Act, 1982, in the Charlottetown Accord and its Inherent Rights Policy.
+13. The Income Tax Act (Canada) is an infringement of the Appellant's inherent right of self-government, which is neither minimal nor justified. Although not all Metis have exercised this right at all times, it has not ceased to exist.
+ISSUES TO BE DECIDED
+28. Whether the Appellant has an inherent immunity from taxation as an aboriginal right deriving from the aboriginal right to self-government which is constitutionally entrenched and protected under section 35 of the Constitution Act, 1982.
+STATUTORY PROVISIONS
+29. The Statutory provisions relied upon are:
+…
+(iii) Constitution Act, 1982, section 35.
+…
+(v) Constitution Act, 1867, subsection 91(24).
+(vi) Act for the Protection of the Indians in Upper Canada from Imposition, S.C. 1850, c.74, section 4.
+(vii) Royal Proclamation of 1763.
+GROUNDS RELIED ON AND RELIEF SOUGHT
+30 (a) Metis who have not lost, surrendered or had extinguished their aboriginal rights, possess an "inherent" right of self-government, which carries with it a form of sovereign immunity from taxation.
+(b) The Canadian government already recognizes the inherent right to self-government as an existing aboriginal right within the meaning of section 35 of the Constitution Act. Such recognition is based on the principle that aboriginals have a right to govern themselves in relation to mattes which are internal to their communities and integral to their culture, identities, traditions, languages and institutions. Subsection 35(2) of the said Act states that "… "aboriginal peoples of Canada" includes the Indian, Inuit and Metis people of Canada".
+(c) Tax immunity is part of the inherent right of self-government held by aboriginals and recognized under section 35 of the Constitution Act, 1982.
+(d) Pursuant to this aboriginal right the Appellant claims immunity from income tax and, accordingly, the Income Tax Act (Canada) and the subject assessments.
+(e) In this case it is, in a sense, aboriginal ancestry itself which is being relied upon to establish the right, as opposed to an action, tradition or practice. The latter are emphasized in the jurisprudence to date probably because many cases have come before the courts on the issue of the aboriginal right to hunt and fish.
+(f) The "term" Metis in section 35 of the Constitution Act, 1982 does not encompass all individuals with mixed Indian and European heritage; it refers to distinctive peoples who, in addition to their mixed ancestry, developed their own customs, and recognizable group identity separate from their Indian and European ancestors. The Sault Ste. Marie Metis community, to which the Appellant belongs, is a group of Metis with a distinctive collective identity, living together in the geographical area described in paragraph 11(b) and sharing a common way of life.
+(g) In determining whether the Appellant's section 35 rights as a Metis have been established according to the jurisprudence, a "pre-control" test should be applied (to identify the relevant time frame) establishing when Europeans achieved political and legal control in the area in issue, focusing on the period after a particular Metis community arose and before it came under the control of European laws and customs. The pre-contact test applied in cases involving, for example, First Nations peoples, has been adjusted by the courts to take into account the post-contact ethnogenesis and evolution of the Metis. The Supreme Court of Canada has already decided in the Powley case that the Sault Ste. Marie Metis community came under European control in the mid-nineteenth century and that an historic Metis community existed and a contemporary Metis community still exists in and around Sault Ste. Marie. It also decided in that case that the said community had been established with sufficient continuity and stability through evidence of shared customs, traditions and collective identity as well as demographic evidence.
+(h) The Appellant, though not directly involved in the Powley case, is a member of the same contemporary Sault Ste. Marie Metis community and the Appellant's ancestors were members of the same historical Metis community.
+(i) The Appellant self-identifies as a Metis and is accepted by the contemporary Sault Ste. Marie Metis community as a Metis. The Appellant's ancestors were members of the historic Sault Ste. Marie Metis community. The Appellant is therefore an individual entitled to exercise Metis aboriginal rights, including the right to self-government and immunity from taxation.
+(j) The right claimed was and is integral to the community's distinctive culture.
+(k) There is continuity between the historic right and the contemporary right asserted even though that right may not have always been asserted (by way of claiming tax immunity).
+(l) The right has not been extinguished.
+(m) The right is infringed upon by the imposition of tax upon the Appellant by the Respondent.
+(n) The infringement is not justified nor is it minimal.
+RELIEF SOUGHT
+33. … on the basis that the subject income assessed the Appellant is exempt from, immune from or otherwise not subject to income tax; …
+CITATION:
+2006TCC290
+COURT FILE NO.:
+1999-2648(IT)G, 1999-2650(IT)G, 1999-2651(IT)G, 2000-37(IT)G, and 2000-4883(IT)G
+STYLE OF CAUSE:
+Lorraine Gauthier (Gisborn), Henry Wetelainen,
+Michael McGuire, Dawn McKay and Ontario Metis Aboriginal Association
+and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 10, 2006
+REASONS FOR ORDER BY:
+The Honourable Justice Campbell J. Miller
+DATE OF ORDER:
+May 24, 2006
+APPEARANCES:
+Counsel for the Appellants:
+John M. Clow
+Counsel for the Respondent:
+Julia S. Parker and Gérald L. Chartier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John M. Clow
+Firm:
+John M. Clow, Barrister & Solicitor
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The pleadings in Appendix A are those of the individual Appellants. The pleadings of the Ontario Metis Aboriginal Association in issue are identical though the numbering is different.
+[2] [1995] T.C.J. No. 341 (TCC); affirmed [1998] F.C.J. No. 302 (F.C.A.).
+[3] [1989] O.J. No. 1747 (Ont. H.C.J.)
+[4] [1990] 2 S.C.R. 959 at page 980.
+[5] [1999] F.C.J. No. 959.
+[6] [1972] F.C. 732.
+[7] Nelson v. Canada, [2001] F.C.J. No. 1548.
+[8] 2003 DTC 1020.
+[9] Ontario Civil Procedures, Vol. 3, pages 25-20 to 25-21.
+[10] [1996] 2 S.C.R. 507
+[11] [2003] 2 S.C.R. 207.
+[12] [1996] 2 S.C.R. 821.
+[13] [2001] 1 S.C.R. 911.
+[14] [1997] 3 S.C.R. 1010.
+[15] [2003] N.W.T.J. No. 85.
+[16] [2005] F.C.J. No. 1857.
+[17] supra, at pages 216-217.

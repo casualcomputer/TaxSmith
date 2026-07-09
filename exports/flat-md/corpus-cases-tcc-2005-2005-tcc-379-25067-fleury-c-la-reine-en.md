@@ -1,0 +1,136 @@
+---
+title: "Fleury c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25067/index.do"
+last_modified: "2005-06-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 379"
+citation2: ""
+neutral_citation: "2005 TCC 379"
+decision_date: "2005-06-24"
+language: "en"
+item_id: "25067"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2512
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:36:19.040000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b685dc4334f3497ba8dc1379c7544b7bb1879e85ac98324c891b39259ad3737b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fleury c. La Reine
+
+- Citation: 2005 TCC 379
+- Decision date: 2005-06-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2512, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fleury c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-24
+Neutral citation
+2005 TCC 379
+File numbers
+2004-4293(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4293(IT)I
+BETWEEN:
+ROGER J. FLEURY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 27, 2005 at Ottawa, Ontario
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-Eve Aubry
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is dismissed.
+Signed at Ottawa, Canada, this day of June 2005.
+Rip J.
+Citation: 2005TCC379
+Date: 200506__
+Docket: 2004-4293(IT)I
+BETWEEN:
+ROGER J. FLEURY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip J.
+[1] Robert Fleury appeals his income tax assessment for 2001 in which he was denied a disability tax credit in respect of his son in accordance with subsection 188.3(2) of the Income Tax Act ("Act").
+[2] There is no doubt that Mr. Fleury's son, Jean-Pierre, born in 1974, has impairment, suffering from a severe form of epilepsy. Jean-Pierre does not live with the appellant; he is, for all intents and purposes, institutionalized at the Pavillon du Parc in Quebec. The Quebec government pays for Jean-Pierre's care at the Pavillion du Parc, including food and clothing. Mr. Fleury does not make any financial contribution to Jean-Pierre's care.
+[3] However, Mr. Fleury is a very concerned parent who has been very aggressive to ensure Jean-Pierre obtains proper care. He has initiated legal proceedings and has written to the Prime Ministers of Canada and Quebec as well as other deputies complaining of the care at the Pavillion du Parc: lack of activities, poor security, alleged neglect by bureaucrats, and lack of information about Jean-Pierre, etc. There is no doubt that Mr. Fleury provides moral help to Jean-Pierre.
+[4] To be eligible for a disability tax credit of a child, for example, pursuant to subsection 118.3(2) of the Act the parent must be entitled to a deduction of an amount under subsection 118(1) of the Act. Subsection 118(6) provides that:
+(6) For the purposes of paragraphs (d) and (e) of the description of B in subsection (1) and paragraph (4)(e), “dependant” of an individual for a taxation year means a person who at any time in the year is dependent on the individual for support and is
+(a) the child or grandchild of the individual or of the individual's spouse or common-law partner; or
+(b) the parent, grandparent, brother, sister, uncle, aunt, niece or nephew, if resident in Canada at any time in the year, of the individual or of the individual's spouse or common-law partner.
+(6) Pour l'application des alinéas (1)d) et e) et (4)e), la personne aux besoins de laquelle un particulier subvient au cours d'une année d'imposition est une personne à charge relativement au particulier à un moment de l'année si elle est, par rapport au particulier ou à son époux ou conjoint de fait :
+a) son enfant ou petit-enfant;
+b) son père ou sa mère, son grand-père ou sa grand-mère, son oncle ou sa tante, son frère ou sa sœur, son neveu ou sa nièce, qui réside au Canada à un moment de l'année.
+[5] In Bartsch c. Canada[1] I referred to the Federal Court of Appeal decision Reine c. Robichaud[2] where le juge Marceau a interprété les termes "subvenir aux besoins" pour l'application de l'ancien paragraphe 109(1) [remplacé par le paragraphe 118(1)]. Il disait ceci à la page 5 (DTC : à la page 5267) :
+À mon avis, le terme anglais "support" et l'expression française correspondante "subvenir aux besoins" impliquent nécessairement l'idée de moyens de subsistance ou de vie. Celui aux besoins de qui un autre subvient, soit totalement soit seulement de façon partielle, est une personne à charge de l'autre, c.-à-d. qu'il reçoit de l'autre la totalité ou une partie de ses moyens de subsistance.
+[6] Earlier in Johnston c. Canada[3], Létourneau J.A. a écrit que:
+L'objectif des articles 118.3 et 118.4 ne vise pas à indemniser la personne atteinte d'une déficience mentale ou physique grave et prolongée, mais plutôt à l'aider à défrayer les coûts supplémentaires liés au fait de devoir vivre et travailler malgré une telle déficience. Comme le juge Bowman le dit dans l'arrêt Radage v. R.[4], à la p. 2528 :
+L'intention du législateur semble être d'accorder un modeste allégement fiscal à ceux et celles qui entrent dans une catégorie relativement restreinte de personnes limitées de façon marquée par une déficience mentale ou physique. L'intention n'est pas d'accorder le crédit à quiconque a une déficience ni de dresser un obstacle impossible à surmonter pour presque toutes les personnes handicapées. On reconnaît manifestement que certaines personnes ayant une déficience ont besoin d'un tel allégement fiscal, et l'intention est que cette disposition profite à de telles personnes.
+Le juge poursuit à la p. 2529 en faisant la remarque suivante, à laquelle je souscris :
+Pour donner effet à l'intention du législateur, qui est d'accorder à des personnes déficientes un certain allégement qui atténuera jusqu'à un certain point les difficultés accrues avec lesquelles leur déficience les oblige à composer, la disposition doit recevoir une interprétation humaine et compatissante.
+[7] Unfortunately, then, it is settled law that to be a personne à charge one must financially support the impaired person, pour des besoins de première nécessité et ce, de façon régulière. While Mr. Fleury supported his son in so many other ways, he did not do so financially.
+[8] Regrettably, the appeal is dismissed.
+Signed at Ottawa, Canada, this day of June 2005.
+Rip J.
+CITATION: 2005TCC379
+COURT FILE NO.: 2004-4293(IT)I
+STYLE OF CAUSE: ROGER J. FLEURY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: April 27, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT: June __, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-Eve Aubry
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] [2001] A.C.I. no 428, para. 23.
+[2] 83 DTC 5265.
+[3] [1998] A.C.I. no 169.
+[4] [1996] 3 C.T.C. 2510.

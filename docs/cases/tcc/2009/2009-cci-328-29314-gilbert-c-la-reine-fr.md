@@ -1,0 +1,273 @@
+---
+title: "Gilbert c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29314/index.do"
+last_modified: "2009-07-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 328"
+citation2: ""
+neutral_citation: "2009 CCI 328"
+decision_date: "2009-07-16"
+language: "fr"
+item_id: "29314"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7053
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:43:45.552000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "be1e8bdf9e55b70d50be1cf507ccf966404764233ecc5827ae34637623a37ab5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gilbert c. La Reine
+
+- Citation: 2009 CCI 328
+- Decision date: 2009-07-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7053, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gilbert c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-07-16
+Référence neutre
+2009 CCI 328
+Numéro de dossier
+2008-277(IT)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-277(IT)G
+ENTRE :
+PIERRE GILBERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 17 et 19 mars 2009, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Mounes Ayadi
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l’année d'imposition 2000 est rejeté avec dépens, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 16e jour de juillet 2009.
+« Paul Bédard »
+Juge Bédard
+Référence : 2009 CCI 328
+Date : 20090716
+Dossier : 2008-277(IT)G
+ENTRE :
+PIERRE GILBERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s’agit d’un appel interjeté sous le régime de la procédure générale d’une nouvelle cotisation établie le 13 novembre 2007 à l’égard de l’appelant pour l’année d’imposition 2000. Dans la nouvelle cotisation, le ministre du Revenu national (le « ministre ») a inclus dans le calcul du revenu de l’appelant la somme de 85 981 $ en vertu du paragraphe 15(2) de la Loi de l’impôt sur le revenu (la « Loi »).
+Contexte
+[2] L’appelant et sa conjointe sont diplômés en ingénierie. Le 22 mai 1996, l’appelant et sa conjointe ont constitué, en vertu de la Partie 1A de la Loi sur les compagnies du Québec, la société Secovac Inc. (« Secovac »). Secovac exploitait une entreprise de conception et de vente de séchoirs à bois. Secovac fournissait aussi des services de consultation auprès des scieries du Québec pour le séchage du bois. L’appelant et sa conjointe ont été les seuls administrateurs, actionnaires, dirigeants et employés de Secovac. L’exercice financier de Secovac se terminait le 31 octobre.
+[3] Au début de l’an 2000, les États-Unis ont imposé une taxe à l’exportation du bois d’œuvre, taxe qui a entraîné une diminution des investissements des scieries et, conséquemment, qui a marqué le début de difficultés financières de Secovac. Le 30 mars 2001, Secovac déposait un avis de l’intention de faire une proposition en vertu du paragraphe 50.4(1) de la Loi sur la faillite et l’insolvabilité (la « LFI »). Le 3 mai 2001, Secovac déposait une proposition concordataire. Les seuls créanciers ayant droit de vote étaient le ministre et le ministre du Revenu du Québec. Le 17 mai 2001, l’Agence des douanes et du revenu du Canada (l’« Agence ») déposait une preuve de réclamation comme créancier non garanti pour un montant de 138 418 $ représentant les arriérés d’impôt de Secovac pour les années d’imposition 1999 et 2000. Bien que la proposition concordataire avait fait l’objet d’une recommandation favorable du syndic le 15 mai 2001, elle fut l’objet d’un vote défavorable des créanciers lors d’une assemblée qui avait débuté le 17 mai 2001 et qui avait pris fin le 31 mai 2001, et Secovac fut ainsi réputée faillie le 31 mai 2001, à la suite de ce vote défavorable.
+[4] Au début de l’assemblée des créanciers, les créanciers avaient demandé à Secovac de leur faire parvenir, avant le 31 mai 2001, les états financiers pour l’exercice financier se terminant le 31 octobre 2000. Au plus tard le 31 mai 2001, l’appelant avait fait parvenir aux créanciers de Secovac les états financiers de cette dernière au 31 octobre 2000 (pièce A-1, onglet 7). Il ressort de ces états financiers que les avances consenties aux administrateurs (dont plus de 96 % avaient été consenties à l’appelant) représentaient des sommes de 729 003 $ et de 814 984 $, versées au cours des exercices se terminant le 31 octobre 1999 et le 31 octobre 2000, respectivement. En fait, entre le moment de la constitution de Secovac jusqu’au 31 octobre 2000, la dette personnelle de l’appelant et de sa conjointe envers Secovac n’a jamais cessé de croître :
+31 octobre
+1996
+1997
+1998
+1999
+2000
+Dette – début
+0 $
+0 $
+299 000 $
+739 841 $
+729 003 $
+Prêt sur résidence
+350 000 $
+(70 000 $)
+(280 000 $)
+Avances consenties
+0 $
+299 000 $
+90 841 $
+59 162 $
+365 981 $
+Dette – fin
+0 $
+299 000 $
+739 841 $
+729 003 $
+814 984 $
+On constate que les montants dus à Secovac par l’appelant se sont accrus de 85 981 $ au cours de l’année d’imposition 2000 de Secovac.
+[5] Le 19 mai 2004, l’appelant a été avisé du début d’une vérification portant sur ses renseignements fiscaux personnels pour les années d’imposition 1999, 2000 et 2001. Cette vérification portait notamment sur la réception par l’appelant de possibles avantages imposables résultant de prêts (non remboursés) consentis à l’appelant par Secovac depuis le début de ses activités jusqu’à sa faillite.
+[6] Dans le cadre de la vérification, monsieur Henri Guerrier (le vérificateur de l’Agence responsable du dossier de vérification de l’appelant) et son superviseur avaient rencontré l’appelant et sa conjointe aux bureaux de leur procureur (Fasken, Martineau). Monsieur Guerrier voulait obtenir des explications sur le poste « Avances aux administrateurs » de Secovac. L’appelant a témoigné qu’il n’avait alors fourni aucune explication à cet égard parce que le sujet avait fait l’objet d'une longue discussion le 17 mai 2001 lors de la première assemblée des créanciers (avant le refus de la proposition concordataire) et qu’il avait alors fourni toutes les explications à cet égard au syndic et à madame Marie-Claude Hébert, la représentante de l’Agence aux assemblées des créanciers de Secovac. L’appelant a aussi témoigné qu’il n’avait pu remettre à monsieur Guerrier les documents liés à ces avances, puisqu’ils avaient été remis au syndic à la suite de la faillite de Secovac. La preuve a aussi révélé que l’appelant avait alors refusé de signer une renonciation à l’application de la période normale de nouvelle cotisation.
+[7] Le 21 juin 2004, le ministre établissait une nouvelle cotisation (pièce A-1, onglet 8) afin d’inclure la somme de 814 894 $ dans le calcul du revenu de l’appelant pour l’année d’imposition 2000. Cet avis de nouvelle cotisation est ainsi rédigé :
+Revenu total ayant déjà fait l’objet
+d’une cotisation
+79 443,00 $
+Ajouter
+Inclusion des avances aux actionnaires
+au revenu
+814 984,00 $
+Revenu total révisé
+894 427,00 $
+Revenu net révisé
+894 427,00 $
+Revenu imposable révisé
+894 427,00 $
+Crédits d’impôt non remboursables
+Aucun changement
+Je souligne que l’avis de nouvelle cotisation n’indique nullement l’article de la Loi en vertu duquel la nouvelle cotisation a été établie. Par ailleurs, la preuve a révélé que la nouvelle cotisation avait été établie en vertu du paragraphe 15(1.2) de la Loi, le ministre ayant alors considéré que les avances étaient des prêts commerciaux au sens du paragraphe 15(1.21) de la Loi.
+[8] À la suite de cette nouvelle cotisation, Me Paul Ryan signifiait par écrit au ministre, au nom de l’appelant, (dans le délai prescrit par la Loi), un avis d’opposition à la nouvelle cotisation établie le 21 juin 2004.
+[9] Le 13 novembre 2007, le ministre établissait à l’égard de l’appelant pour l’année d’imposition 2000 une nouvelle cotisation (pièce A-1, onglet 1) afin de réduire la somme de 814 894 $ (incluse dans le calcul du revenu de l’appelant pour l’année d’imposition 2000 aux termes de la nouvelle cotisation du 21 juin 2004) à 85 981 $ (qui correspond à l’accroissement des prêts consentis à l’appelant par Secovac au cours de son exercice financier ayant pris fin le 31 octobre 2000). L’avis de la nouvelle cotisation est ainsi rédigé :
+Revenu total antérieur
+894 427,00 $
+Déduire
+Dette d’un actionnaire
+refusée antérieurement
+814 984,00 $
+Dette d’un actionnaire révisée
+85 981,00 $
+729 003,00 $
+Revenu total révisé
+165 424,00 $
+Revenu net révisé
+165 424,00 $
+Revenu imposable révisé
+165 424,00 $
+Les renseignements susmentionnés expliquent la Réponse du Ministre à votre opposition du 17 septembre 2004, et la nouvelle cotisation est émise en vertu du paragraphe 165(3) de la Loi.
+[10] Je souligne que l’avis de nouvelle cotisation n’indique pas l’article de la Loi sur lequel le ministre s’est fondé pour établir la nouvelle cotisation.
+Témoignage de l’appelant
+[11] L’appelant a notamment témoigné qu’il était propriétaire d’un logiciel (et qu’il est toujours propriétaire de ce logiciel) qui avait été utilisé par Secovac depuis le début de ses activités jusqu’à sa faillite. L’appelant a expliqué qu’il avait convenu (aux termes d’une entente verbale) avec Secovac d’une contrepartie de 800 000 $ pour l’utilisation de son logiciel et du paiement de cette somme après le 30 octobre 2000. L’appelant a ajouté qu’il avait fait part de cette entente au syndic de façon à ce que sa dette de 814 954 $ envers Secovac au 30 octobre 2000 soit réduite d’autant par l’effet de la compensation.
+Témoignage de monsieur Robert Malo, le syndic de Secovac
+[12] Je retiens du témoignage de monsieur Malo ce qui suit :
+i) il avait refusé d’intenter des procédures pour recouvrer de l’appelant et de sa conjointe les prêts (représentant au 31 octobre 2000 une somme de 814 984 $) que Secovac leur avait consentis en 2000 et au cours des années antérieures, et ce, tout simplement parce que l’actif de la société faillie, Secovac, n’était pas suffisant pour couvrir les frais que de telles procédures auraient pu engendrer;
+ii) l’Agence n’avait pas demandé au tribunal compétent une ordonnance l’autorisant à intenter des procédures en recouvrement de ses créances en son propre nom et à ses propres frais et risques, tel que le prévoie l’article 38 de la Loi sur la faillite et l’insolvabilité (LFI);
+iii) en aucun temps l’appelant ne lui fait part du fait que Secovac lui devait une somme de 800 000 $, et ce, pour l'utilisation de son logiciel (depuis le début des activités de Secovac jusqu’au 31 octobre 2000) et qu’ainsi les créances de 814 984 $ devaient être diminuées d’autant.
+Position de l’appelant
+[13] L’appelant soutient dans un premier temps que la nouvelle cotisation établie à son égard le 13 novembre 2007 pour son année d’imposition 2000 était prescrite puisque le ministre l’avait établie en dehors de la période normale de nouvelle cotisation. Les arguments invoqués à cet égard par l’appelant dans sa plaidoirie écrite méritent d’être cités :
+23. Le MRN a établi une première nouvelle cotisation afin d’ajouter la somme de 814 894 $ au revenu déclaré par l’appelant en 2000 en vertu de l’article 15(1) de la LIR dans les délais prescrits, le 21 juin 2004, soit le dernier jour de la période normale de nouvelle cotisation;
+24. Cette cotisation était manifestement mal fondée car suite à l’opposition de l’appelant, le MRN l’a annulé sans donner des explications et établissait une deuxième nouvelle cotisation le 13 novembre 2007, soit plus de 3 ans plus tard, pour diminuer le montant ajouté à son revenu déclaré en 2000. Le montant ajouté à son revenu déclaré en 2000 a passé de 814 894 $ à 85 981 $;
+25. Cette deuxième nouvelle cotisation a été établie en dehors de la période normale de nouvelle cotisation de trois ans à partir de la date de la cotisation initiale. Le MRN a émis cette deuxième nouvelle cotisation en vertu du paragraphe 165(3) de la LIR sans donner aucune explication, ni article de loi pour la justifier (A-1, onglet 1);
+26. L’appelant a produit son avis d’appel à la deuxième nouvelle cotisation comme s’il s’agissait d’une diminution du montant cotisé dans la première nouvelle cotisation. L’appelant constate que la deuxième nouvelle cotisation est prescrite mais il décide de faire preuve totale au lieu d’invoquer juste la prescription car si la cotisation était annulée au seule motif qu’elle est prescrite, le MRN pourrait aller en appel et vu que l’appelant n’a invoqué que la prescription comme argument dans son avis d’appel, il n’aurait pas le droit de soulever de nouveaux arguments pour sa défense;
+27. Or, le MRN, dans sa réponse à l’avis d’appel, informe l’appelant pour la première fois, qu’il est cotisé en vertu de l’article 15(2) de la LIR, tel que constaté dans le paragraphe 38 de la réponse, soit dans la question en litige;
+28. Si l’appelant ne peut plus soumettre des nouveaux arguments à son avis d’appel, est-ce qu’il se devait de recommencer les procédures afin de changer son avis d’appel à cause que le fondement de la cotisation avait changé avec le nouvel article de loi?
+29. L’appelant questionne la façon de procéder au MRN et soumet que ce n’était pas son l’intention du législateur de permettre l’émission d’une deuxième nouvelle cotisation après la période normale de nouvelle cotisation sur un autre fondement, sous couvert de l’article 165(5) de la LIR, suite à l’opposition d’une première nouvelle cotisation qui est manifestement mal fondée car annulée;
+30. Approuver cette façon de procéder, permettrait au MRN de contourner l’article 152(4) de la LIR. En effet, il suffirait au MRN d’émettre une cotisation arbitraire durant la période normale de nouvelle cotisation, pour ensuite se permettre après coup, de prendre tout le temps qu’il désire durant la période que la cotisation est en opposition et de façon malveillante, émettre une deuxième nouvelle cotisation avec un autre article de loi. Ce faisant, il contournerait effectivement son obligation de respecter l’article 152(4) de la LIR;
+31. L’honorable juge en chef Bowman a remis en question le recours à une deuxième cotisation en guise de réponse à une opposition dans la cause 943372 Ontario inc. c. La Reine, 2007 CCI 294. Au paragraphe 7 de cette cause il explique :
+« … Si les nouvelles cotisations relatives à l'année 2001 par ailleurs prescrites ne peuvent pas être justifiées en vertu des paragraphes 152(4) et (4.01), les nouvelles cotisations relatives à l'année 2003 établies en réponse aux avis d'opposition doivent également être rejetées, et ce, pour une raison bien évidente : supposons qu'une cotisation prescrite soit établie et que le contribuable présente une opposition pour le motif que la cotisation est prescrite. Le ministre du Revenu national pourrait-il remédier au défaut en établissant une nouvelle cotisation en réponse à l'opposition en vertu du paragraphe 165(3) et se fonder sur le paragraphe 165(5)? La réponse est en soi évidente. »
+32. Dans la cause Walsh c. La Reine, 2008 CCI 282, l’honorable Miller J.C.C.I. a déterminé, au paragraphe 15 de son jugement, que lorsque la deuxième nouvelle cotisation invoque un nouveau fondement, il ne s’agit tout simplement pas de la même cotisation. Il affirme au paragraphe 20 que l’article 152(9) de la LIR peut être invoqué seulement si le nouvel argument étaye la première nouvelle cotisation en litige et qu’il faisait une distinction entre le nouveau fondement et un nouvel argument contrairement à la remarque que le juge Rothstein a fait dans l’arrêt Sa Majesté la Reine c. Anchor Pointe Energy Ltd., 2003 CAF 294. Il conclut au paragraphe 34, que l’intimée ne doit pas être autorisée à invoquer le paragraphe 152(9) pour établir ce qui serait dans les faits une nouvelle cotisation;
+33. L’appelant affirme, dans le paragraphe 23 de son avis d’appel, qu’il n’a jamais renoncé à la prescription et qu’il n’a jamais été accusé de présentation erronée des faits, affirmation admise par l’avocat de l’intimée dans le paragraphe 23 de la réponse;
+34. Pour toutes ces raisons l’appelant soumet que la deuxième nouvelle cotisation est prescrite et elle devrait être annulée.
+[14] L’appelant soutient dans un deuxième temps que la nouvelle cotisation établie le 13 novembre 2007 est mal fondée en droit puisque le ministre a utilisé les dispositions de la Loi plutôt que les dispositions de la LFI pour recouvrer l’actif de Secovac, la société faillie, en cotisant son administrateur. Les arguments invoqués à cet égard par l’appelant dans sa plaidoirie écrite méritent d’être cités :
+35. Comme deuxième moyen de défense l’appelant soumet que la cotisation est mal fondée en droit :
+36. Lors des audiences du 17 et 19 mars 2009, chacun des éléments suivants de preuve, essentiels par l’appelant pour sa défense ont été établis hors de tout doute :
+- le 30 mars 2001 Secovac Inc, a déposé un avis de l’intention de faire une proposition en vertu l’article 50.4(1) de la LFI auprès du syndic Samson Bélair Deloitte & Touche qui accepte d’agir comme syndic;
+- le 3 mai 2001, la Société a déposé une proposition concordataire. Les seuls créanciers étaient le ministère du Revenu du Québec et l’ARC;
+- cette proposition a fait l’objet d'une recommandation favorable du syndic en date du 15 mai 2001;
+- les créanciers fiscaux ont voté contre la proposition de la Société, lors d’une assemblée qui a débuté le 17 mai 2001 et complétée le 31 mai 2001, et la Société est réputée avoir fait une cession de biens en faillite le 31 mai 2001, causé par ce vote défavorable;
+- les créanciers avaient connaissance du poste « Avances aux Administrateurs » apparaissant comme un actif dans les États financiers de la Société au 30 octobre 2000 (l’année fiscal de la Société se terminait le 31 octobre) et « ce poste » avait été discuté lors des assemblées avant le vote contre la proposition concordataire faite par la Société;
+- le 11 mai 2005, suite à sa demande, le syndic Samson Bélair Deloitte & Touche a été libéré sans opposition;
+37. Au paragraphe 31 de sa réponse, le procureur de la couronne affirme que les actionnaires auraient dû rembourser le montant des « Avances aux Administrateurs » au syndic, on lit ainsi :
+« La vérification permet également au MRN de constater que Secovac inc. a fait faillite au printemps 2001 et que les montants dus à Secovac inc. par ses actionnaires n’ont jamais été remboursés malgré les demandes du syndic ».
+L’appelant soutient que le procureur de la couronne est au courant que la cession des biens de la Société a été causée par le vote des créanciers contre sa proposition et que ces affirmations trompent les faits et sont faites de mauvaise foi;
+38. Le compte « Avances aux administrateurs » ainsi que les biens de la Société ont été discutés par les créanciers et le syndic, avant le vote sur la proposition concordataire. Dans les faits le vote a été reporté expressément pour pouvoir consulter les états financiers de l’an 2000 et de son compte « Avances aux administrateurs ». Il s’agit donc clairement d’une obligation pré-faillite;
+39. Le vote des créanciers fiscaux contre la proposition a eu comme effet la cession des biens de la Société tel que défini par l’article 57(a) de la LFI :
+57. Lorsque les créanciers refusent d’accepter une proposition visant une personne insolvable;
+a) celle-ci est réputée avoir fait dès lors une cession;
+40. À compter de la cession des biens en faillite, il y a dessaisissement de l’ensemble des « biens du failli » qui sont alors dévolus au syndic en vertu du paragraphe 71 de la LFI. Les « biens du failli » inclut le compte « Avances aux administrateurs »;
+41. La Couronne est un créancier non-garanti et comme tel, est lié à la LFI tel que stipulé par l’article 4.1 de la LFI :
+4.1 [Obligation de Sa Majesté] La présente loi lie Sa Majesté du chef du Canada ou d’une province.
+42. Le ministre ne peut pas utiliser la LIR pour imposer des obligations fiscales aux actionnaires de la Société faillie pour des dettes envers la Société contractées avant qu’elle devient faillie parce que son vote est l’acte juridique avec lequel il s’est engagé à respecter la LFI. Le ministre doit se soumettre à la LFI et il ne peut utiliser la LIR que pour les exceptions prévue par la LFI;
+43. Le ministre ne peut pas ignorer volontairement son acte juridique et se prévaloir de la LIR pour contourner toutes les autres lois sans tenir comptes des lois statutaires fédérales et des lois provinciales régissant les rapports entre créanciers et débiteurs;
+III. C) Le Code civil du Québec
+44. La Loi d’harmonisation no 1 du droit fédéral avec le droit civil est entrée en vigueur le 1er juin 2001, au chapitre 4 des Lois du Canada 2001. Il est clair que le droit civil québécois agit dans la province du Québec comme droit supplétif en matière de faillite. Ceci signifie qu’à l’égard des aspects qui ne sont pas régis par la LFI, les règles de l’enrichissement sans cause et de la prescription d’une dette s’appliquent;
+45. Le vote de l’ARC contre la proposition concordataire, malgré la recommandation favorable du syndic, est un acte juridique accompli volontairement, dans son intérêt personnel et exclusif et qu’elle a considéré comme son choix. Le vote défavorable de l’ensemble des créanciers a eu comme effet la cession des biens de la Société tel que défini par l’article 57(a) de la LFI;
+46. La cession des biens en faillite de la Société est un fait juridique dont les effets sont prédéterminés par la LFI. Ce fait juridique représente par lui‑même la contrepartie. Le ministre ne peut pas se prévaloir d’un autre acte juridique ou « d’une autre loi » pour imposer des obligations fiscales aux anciens administrateurs de la Société;
+47. L’acte juridique accompli par le ministre est une justification valable à son appauvrissement. Les administrateurs de la Société quant à eux, justifient leur enrichissement légitime par le fait juridique, soit la cession des biens en faillite de la Société, suite au refus de la proposition concordataire par les créanciers fiscaux;
+48. En effet, avant l’entrée en vigueur du nouveau Code civil du Québec en date du 1er janvier 1994, l’enrichissement sans cause n’était pas codifié dans une disposition spécifique du Code quoiqu’il s’agissait d’une notion du droit civil. Les articles 1493 et 1949 du Code civil du Québec se lisent ainsi :
+1493. Celui qui s'enrichit aux dépens d'autrui doit, jusqu'à concurrence de son enrichissement, indemniser ce dernier de son appauvrissement corrélatif s'il n'existe aucune justification à l'enrichissement ou à l'appauvrissement.
+1494. Il y a justification à l'enrichissement ou à l'appauvrissement lorsqu'il résulte de l'exécution d'une obligation, du défaut, par l'appauvri, d'exercer un droit qu'il peut ou aurait pu faire valoir contre l'enrichi ou d'un acte accompli par l'appauvri dans son intérêt personnel et exclusif ou à ses risques et périls ou, encore, dans une intention libérale constante.
+49. Lorsque le ministre cotise l’appelant, le 21 juin 2004 pour lui imposer des obligations fiscales comme actionnaire, il doit tenir compte des faits écoulés entre le moment de l’obligation et le jour de la demande. Le Ministre ne peut pas ignorer la cession des biens en faillite de la Société le 31 mai 2001, le fait juridique dont les effets sont prédéterminés par la LFI;
+50. En effet, tout comme l’enrichissement, l’appauvrissement du « demandeur » doit être susceptible d’une évaluation pécuniaire et s’apprécie au jour de la demande et non pas au jour où il a été subi tel qu’énoncé dans l’article 1495 du Code civil du Québec :
+1495. L'indemnité n'est due que si l'enrichissement subsiste au jour de la demande.
+Tant l'enrichissement que l'appauvrissement s'apprécient au jour de la demande; toutefois, si les circonstances indiquent la mauvaise foi de l'enrichi, l'enrichissement peut s'apprécier au temps où il en a bénéficié.
+51. Il faut en d’autres termes, que l’enrichi ne puisse pas se prévaloir d’un fait juridique l’autorisant à conserver l’enrichissement. La cession des biens ou faillite de la Société est le fait juridique qui justifie l’enrichissement des administrateurs de la Société et représente par lui-même la contrepartie. Un enrichissement ne peut être injuste s’il résulte de l’accomplissement d’un acte que la loi autorise;
+52. Permettre une intervention du ministre pour l’imposer des obligations fiscales à l’appelant avec la LIR sur des montants appartenant au syndic, alors que le syndic à la faillite pourrait aller chercher les mêmes montants, signifierait que l’appelant pourrait être poursuivi pour la même dette à deux places différentes, une fois par le syndic à la faillite et une autre fois par le Ministre, une absurdité, un abus de droit et contraire à l’intention du législateur;
+53. Durant son témoignage, le représentant du syndic, monsieur Malo, a confirmé que les créanciers ont voté en premier et lui ont dit par la suite qu’ils allaient se prévaloir de l’article 38 de la LFI pour récupérer l’actif en litige et que c’est à cause de cela qu’il n’avait rien fait;
+54. Cet actif appartenait au syndic de faillite et il devait le recouvrer dans le délai de 3 ans, tel que prescrit par l’article 2925 du Code civil du Québec. Il ne l’a pas fait;
+[15] L’appelant a aussi soutenu lors de l’audience que sa dette de 814 984 $ envers Secovac au 30 octobre 2000 avait été remboursée à hauteur de 800 000 $ après cette date par l’effet de la compensation et que le montant de 85 981 $ inclus dans le calcul de son revenu pour l’année d’imposition 2000 en vertu du paragraphe 15(2) de la Loi devait être réduit pour tenir compte du remboursement de la dette après le 30 octobre 2000.
+[16] L’appelant a aussi soutenu qu’une partie des avances de 85 981 $ que Secovac lui avait consenties pendant son exercice financier se terminant le 30 octobre 2000 avait été consentie en novembre et en décembre 1999 et qu'elle n’aurait pas dû être ajoutée à son revenu imposable pour l’année d’imposition 2000 en vertu du paragraphe 15(2) de la Loi.
+[17] Enfin, l’appelant a soutenu qu’une partie des avances de 85 981 $ (en l’espèce un montant de 17 500 $) avait déjà été incluse dans le calcul de son revenu pour l’année d’imposition 2000. À cet égard, l’appelant a déposé en preuve sa déclaration de revenu (A‑1, onglet 10) pour l’année d’imposition 2000 qui démontre à la ligne 130 de sa déclaration T‑1 2000 qu’une somme de 17 500 $ avait été incluse dans son revenu à titre de « Autres revenus ».
+Analyse et conclusion
+Prescription
+[18] Dans un premier temps, nous examinerons la question de savoir si la nouvelle cotisation établie à l’égard de l’appelant le 13 novembre 2007 pour l’année d’imposition 2000 est prescrite.
+[19] À cet égard, je rappelle que la première nouvelle cotisation, qui a été établie le 21 juin 2004, l’a été durant la période normale de nouvelle cotisation et que la deuxième nouvelle cotisation, établie le 13 novembre 2007, constitue la réponse du ministre à l’avis d’opposition de l’appelant à l’encontre de la première nouvelle cotisation.
+[20] Le paragraphe 165(3) de la Loi permet au ministre, après examen d’un avis d’opposition, d’accomplir l’une des quatre actions suivantes : annuler la cotisation, la ratifier, la modifier ou établir une nouvelle cotisation. Par ailleurs, le paragraphe 165(5) de la Loi prévoit clairement que les restrictions édictées au paragraphe 152(4) de la Loi ne s’appliquent pas aux actions qui peuvent être prises par le ministre en vertu du paragraphe 165(3) de la Loi. En d’autres termes, le paragraphe 165(5) de la Loi permet au ministre, après l’examen d’un avis d’opposition, de poser l’un des quatre gestes prévus au paragraphe 165(3) de la Loi sans se soucier des restrictions prévues au paragraphe 152(4) de la Loi.
+[21] En l’espèce, le ministre, en réponse à l’avis d’opposition de l’appelant à l’encontre de la première nouvelle cotisation, a établi une nouvelle cotisation. Or, l’établissement d’une nouvelle cotisation annule automatiquement l’ancienne cotisation. Par conséquent, je ne vois pas l’utilité de se demander sur quel fondement est basée la nouvelle cotisation. En effet, le paragraphe 165(3) de la Loi permet notamment au ministre de modifier la cotisation, auquel cas il est possible que la modification garde le fondement initial de la cotisation. Toutefois, à partir du moment où il s’agit d’une nouvelle cotisation, une nouvelle cotisation a nécessairement un nouveau fondement puisqu’elle annule et remplace l’ancienne cotisation. À cet égard, il ressort très clairement des enseignements de la Cour d’appel fédérale dans l’arrêt Canada c. Anchor Pointe Energy Ltd., 2003 A.C.F. no 1045 (QL), aux paragraphes 33 à 36, qu’il est possible pour le ministre d’invoquer un nouveau fondement pour ratifier une nouvelle cotisation ou établir une nouvelle cotisation après l’examen d’un avis d’opposition, et ce, même si la deuxième nouvelle cotisation est établie après la période normale de nouvelle cotisation en autant, toutefois, que le ministre n’augmente pas l’impôt exigible du contribuable aux termes de la première nouvelle cotisation, et ce, conformément aux exigences du paragraphe 156(5) de la Loi. À cet égard, je rappelle que la nouvelle cotisation établie à l’égard de l’appelante a plutôt diminué l’impôt exigible aux termes de la première nouvelle cotisation. Pour tous ces motifs, je suis d’avis que la nouvelle cotisation à l’égard de l’appelant établie le 13 novembre 2007 pour l’année d’imposition 2000 n’était pas prescrite, même si elle a été établie en dehors de la période normale de nouvelle cotisation. Finalement, à l’égard des décisions auxquelles l’appelant fait référence aux paragraphes 31 et 32 de sa plaidoirie écrite, je souligne qu’elles ne peuvent pas nous éclairer en l’espèce puisqu’elles renferment des situations factuelles et procédurales bien différentes des faits de la présente affaire.
+[22] Concernant les affirmations de l’appelant, notamment aux paragraphes 24 et 25, selon lesquelles la nouvelle cotisation du 13 novembre 2007 ne comporte aucun article de loi ni explication, je souligne que la Loi n’oblige aucunement le ministre à préciser dans un avis de cotisation ou de nouvelle cotisation le ou les articles de Loi sur lequel ou lesquels il s’appuie pour cotiser le contribuable. Quant aux explications, elles sont généralement fournies aux contribuables ou à ses représentants avant l’établissement de la nouvelle cotisation. Les prétentions de l’appelant selon lesquelles il n’a pas reçu d’explications concernant l’établissement de la nouvelle cotisation paraissent peu crédibles compte tenu que l’avis d’opposition a été produit par le procureur de l’appelant et que la nouvelle cotisation a été établie à la suite à de négociations intervenues entre le procureur de l’appelant et le ministre.
+[23] Concernant les allégations de l’appelant aux paragraphes 26 à 28 de sa plaidoirie écrite aux termes desquelles il demande de recommencer les procédures « afin de changer son avis d’appel à cause que le fondement de la cotisation avait changé avec le nouvel article de loi », je souligne que la Réponse à l’avis d’appel était suffisamment détaillée pour permettre à l’appelant de comprendre les faits et le fondement de la nouvelle cotisation. L’appelant avait la possibilité de faire valoir ses arguments à l’encontre de la nouvelle cotisation en présentant, soit une réplique à la Réponse à l’avis d’appel, soit en déposant un avis d’appel modifié. De plus, lors de l’audition de son appel, l’appelant a eu la possibilité de présenter tout argument valable à l’encontre de la nouvelle cotisation. Enfin, la Cour a donné à l’appelant la chance de présenter une plaidoirie écrite pour bien formuler et structurer ses arguments à l’encontre de la nouvelle cotisation. À mon avis, l’appelant n’a aucunement été lésé dans le processus. En effet, l’appelant a eu toutes les possibilités de présenter des arguments valables à l’encontre de la nouvelle cotisation et ainsi sa demande de « recommencer les procédures » ne peut être retenue.
+La LFI c. la Loi
+[24] Nous examinerons maintenant la question de savoir si le ministre, en établissant la nouvelle cotisation à l’encontre de l’appelant, a contourné la LFI.
+[25] Je suis d’avis que le ministre n’a pas contourné la LFI. Le ministre a tout simplement établi la nouvelle cotisation afin d’inclure la somme de 85 981 $ dans le calcul du revenu imposable de l’appelant pour l’année d’imposition 2000 à titre d’avantage conféré à un actionnaire et non afin de réclamer un actif de Serovac, la société faillie. En d’autres termes, en cotisant l’appelant, le ministre ne demandait pas indirectement à ce dernier de rembourser le prêt de 85 981 $ que Secovac lui avait consenti. Le ministre ne cherchait pas, en cotisant l’appelant, à recouvrer indirectement un actif de la société faillie. Le ministre demandait en quelque sorte à l’appelant de payer l’impôt sur l’avantage de 85 981 $ qu’il avait reçu de Secovac. Que Secovac soit une société faillie n’est tout simplement pas pertinent au présent litige. Le présent litige porte sur le calcul du revenu imposable de l’appelant pour l’année d’imposition 2000 et non sur la réclamation d’un actif d’une société faillie. En d’autres termes, je ne vois pas en l’espèce l’utilité d’analyser l’interaction de la Loi et de la LFI.
+Utilisation du logiciel
+[26] L’appelant prétend que sa dette de 814 984 $ envers Secovac au 30 octobre 2000 avait été remboursée à hauteur de 800 000 $ après cette date par l’effet de la compensation et que le montant de 85 981 $ inclus dans le calcul de son revenu pour l’année d’imposition 2000 en vertu du paragraphe 15(2) de la Loi devait être réduit pour tenir compte du remboursement de la dette après le 30 octobre 2000. Je rappelle que l’appelant a témoigné avoir convenu (aux termes d’une entente verbale) avec Secovac, en contrepartie de l’utilisation de son logiciel, du paiement d'une somme de 800 000 $ après le 30 octobre 2000, d’où la prétendue compensation. Je rappelle aussi que l’appelant a témoigné avoir fait part de cette entente au syndic de façon à ce que sa dette de 814 954 $ envers Secovac au 30 octobre 2000 soit réduite de 800 000 $ par l’effet de la compensation.
+[27] Je souligne immédiatement que la preuve de l’appelant à cet égard ne reposait que sur son témoignage qui, à mon avis, est peu crédible en l’espèce. D’abord, le témoignage de l’appelant indiquant qu’il avait fait part au syndic de son entente avec Secovac a été contredit par le témoignage du syndic, monsieur Malo dont la crédibilité ne fait pas de doute. De plus, je m’explique difficilement la raison pour laquelle l’appelant n’a pas soulevé ce fait majeur au stade de la vérification de l’opposition ou encore dans son avis d’appel.
+[28] J’ajouterai que, même si l’appelant m’avait convaincu de la véracité de ce fait, je n’aurais pas retenu l’argument de la compensation qu’il a soulevé, et ce, pour des raisons d’équité en matière procédurale. En effet, je rappelle que l’appelant n’a pas avancé cet argument dans son avis d’appel. En fait, l’appelant a avancé cet argument pour la première fois lors de sa plaidoirie. L’intimée a donc été prise par surprise. Ainsi, pour des raisons d’équité procédurale, cet argument doit être rejeté.
+[29] Enfin, je note que l’appelant n’a pas repris cet argument dans sa plaidoirie écrite, probablement parce que je lui avais fait la remarque lors de l’audience que le ministre pouvait peut-être tenter d’utiliser son aveu à cet égard pour le cotiser sur une somme de 800 000 $ (ce revenu provenant de Secovac) dans l’hypothèse où il n’aurait déclaré aucun revenu à ce titre.
+Avances de 17 500 $ déjà incluses dans le revenu de l’appelant pour l’année d’imposition 2000
+[30] L’appelant a soutenu qu’une partie des avances de 85 981 $, en l’espèce un montant de 17 500 $, avait déjà été incluse dans le calcul de son revenu pour l’année d’imposition 2000.
+[31] À mon avis, l’argument de l’appelant doit être rejeté en premier lieu pour des raisons d’équité procédurale. L’intimée a encore une fois été prise par surprise par l’appelant en ce qu’il a invoqué cet argument pour la première fois lors de l’audience. En effet, l’avis d’appel ne contient aucune mention de cet argument. De toute façon, la preuve documentaire déposée par l’appelant (pièce A‑1, onglet 10) à l’appui de son témoignage m’apparaît peu fiable étant donné qu’il s’agit d’une « copie client » non signée par l’appelant et étant donné que la déclaration de revenus de l’appelant pour l’année d’imposition 2000 (pièce I‑1) signée par l'appelant et déposée en preuve par l’intimée ne contient pas (contrairement à la déclaration de revenus déposée en preuve par l’appelant) à la ligne « Autres revenus » de sa déclaration de revenus T1‑2000 la déclaration d'une somme de 17 500 $ s'ajoutant au revenu de l’appelant en vertu du paragraphe 15(2) de la Loi. Bref, je m’explique difficilement la raison pour laquelle l’appelant n’a pas soulevé ce fait pourtant majeur au stade de la vérification ou encore au stade de l’opposition.
+[32] Enfin, l’appelant a soutenu qu’une partie des avances de 85 981 $ que Secovac lui avait consenties pendant son exercice financier se terminant le 30 octobre 2000 avait été reçue en novembre et en décembre 1999 et que les avances ainsi consenties en 1999 n’auraient pas dû être ajoutées à son revenu imposable de l’année d’imposition 2000 en vertu du paragraphe 15(2) de la Loi.
+[33] À mon avis, cet argument, bien que valable en théorie, doit être rejeté pour les raisons suivantes :
+i) l’appelant n’a pas fait la preuve du montant des avances qui lui auraient été consenties par Secovac en novembre et en décembre 1999;
+ii) encore une fois, l’intimée a été prise par surprise par l’appelant, en ce qu’il a avancé cet argument à la dernière minute, c’est‑à‑dire lors de sa plaidoirie.
+[34] Pour ces motifs, l’appel doit être rejeté avec dépens.
+Signé à Ottawa, Canada, ce 16e jour de juillet 2009.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2009 CCI 328
+Nº DU DOSSIER DE LA COUR : 2008-277(IT)G
+INTITULÉ DE LA CAUSE : Pierre Gilbert c. Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATES DE L’AUDIENCE : les 17 et 19 mars 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 16 juillet 2009
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Mounes Ayadi
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

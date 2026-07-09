@@ -1,0 +1,118 @@
+Title: Killam v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29203/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-227-29203-killam-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-04-24
+
+# Killam v. The Queen
+
+- Citation: 2009 TCC 227
+- Decision date: 2009-04-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6699, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Killam v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-24
+Neutral citation
+2009 TCC 227
+File numbers
+2009-563(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-563(IT)I
+BETWEEN:
+J. MALCOLM KILLAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________Motion heard by conference call on April 23, 2009
+Before: The Honourable Justice Wyman W. Webb
+Participants:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Susan Wong
+____________________________________________________________________
+ORDER
+Upon Motion filed by the Respondent for an Order quashing the Appellant’s appeal;
+And upon hearing from the parties;
+The Respondent’s motion is granted and the appeal is quashed.
+Signed at Ottawa, Ontario, this 24th day of April 2009.
+“Wyman W. Webb”
+Webb J.
+Citation:2009TCC227
+Date: 20090424
+Docket: 2009-563(IT)I
+BETWEEN:
+J. MALCOLM KILLAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________Motion heard by conference call on April 23, 2009
+Before: The Honourable Justice Wyman W. Webb
+Participants:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Susan Wong
+____________________________________________________________________
+REASONS FOR ORDER
+[1] This is a motion to quash the Notice of Appeal that was filed by the Appellant on February 18, 2009. The issue under appeal, as stated by the Appellant, was:
+This Notice of Appeal relates to Administrative Compliances of Registered E Filers with respect to Form T183 wherein the Ministers Efile Help Desk determined in August of 2008 the Appellant had not complied with Regulation and was informed he would not be approved for the coming year...
+[2] The Appellant had filed with his Notice of Appeal a copy of the letter that the Appellant had received from the Canada Revenue Agency confirming the decision of the Efile Help Desk. In this letter it is stated that:
+If you feel that discretion was not properly exercised during our administrative review of your request, you can apply to the Federal Court of Canada for a judicial review under section 18.1 of the Federal Court Act within thirty (30) days of the date of this letter, which is the date of our decision.
+[3] The Appellant stated that he had not noticed this reference to the Federal Court in this letter and had simply filed his Notice of Appeal to this Court because he was familiar with this Court in dealing with assessments and reassessments of tax.
+[4] The Appellant is seeking a review of the decision by the Canada Revenue Agency that the Appellant is no longer permitted to electronically file income tax returns on behalf of his clients. This appeal does not arise as a result of an assessment or a reassessment issued under the Income Tax Act but rather, although the “Regulation” in issue is not identified in the Notice of Appeal, appears to relate to an alleged failure of the Appellant to comply with the provisions of subsection 150.1(4) of the Income Tax Act.
+[5] This Court was formed by an Act of Parliament. The jurisdiction of this Court is set out in section 12 of the Tax Court of Canada Act. This section provides, in part, as follows:
+12. (1) The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the Air Travellers Security Charge Act, the Canada Pension Plan, the Cultural Property Export and Import Act, Part V.1 of the Customs Act, the Employment Insurance Act, the Excise Act, 2001, Part IX of the Excise Tax Act, the Income Tax Act, the Old Age Security Act, the Petroleum and Gas Revenue Tax Act and the Softwood Lumber Products Export Charge Act, 2006 when references or appeals to the Court are provided for in those Acts.
+[6] Subsection 169(1) of the Income Tax Act provides for appeals to this Court and this section provides as follows:
+169. (1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+[7] Section 171 of the Income Tax Act also provides as follows:
+171. (1) The Tax Court of Canada may dispose of an appeal by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+[8] Justice Hugessen of the Federal Court of Appeal in The Queen v. The Consumers' Gas Company Ltd., [1987] 1 C.T.C. 79, 72 N.R. 206, 8 F.T.R. 321, [1987] 2 F.C. 60, 87 D.T.C. 5008 stated that:
+13 ... What is put in issue on an appeal to the courts under the Income Tax Act is the Minister's assessment…
+[9] A taxpayer only has a right to appeal to this Court on matters arising under the Income Tax Act in relation to an assessment or a reassessment of tax. In this particular case, the Appellant is not appealing any assessment or reassessment of taxes owing, but rather is seeking a judicial review of a decision made by the Canada Revenue Agency that he is no longer permitted to electronically file tax returns on behalf of his clients. This is not a matter that is within the jurisdiction of this Court.
+[10] As a result the Respondent’s motion is granted and the appeal is quashed.
+Signed at Ottawa, Ontario, this 24th day of April 2009.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2009TCC227
+COURT FILE NO.: 2009-563(IT)I
+STYLE OF CAUSE: MALCOLM KILLAM AND HER MAJESTY THE QUEEN
+PLACE OF MOTION: Toronto, Ontario
+DATE OF MOTION: April 23, 2009
+REASONS FOR ORDER BY: The Honourable Justice Wyman W. Webb
+DATE OF REASONS: April 24, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Susan Wong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,141 @@
+Title: Moon v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29908/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-393-29908-moon-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-07-21
+
+# Moon v. The Queen
+
+- Citation: 2010 TCC 393
+- Decision date: 2010-07-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6398, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-07-21
+Neutral citation
+2010 TCC 393
+File numbers
+2010-934(IT)APP
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-934(IT)APP
+BETWEEN:
+GARRY MOON,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on July 16, 2010, at
+London ,
+Ontario
+,
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Marie-France Camiré
+____________________________________________________________________
+ORDER
+UPON application by the Applicant for an order extending the time within which appeals from an assessment and reassessments made under the Income Tax Act for the 2001, 2002 and 2003 taxation years may be instituted;
+AND UPON hearing from the parties;
+IT IS ORDERED THAT the application be dismissed in accordance with the Reasons for Order attached hereto. There will be no order with respect to costs.
+Signed at
+Ottawa ,
+Canada
+, this 21st day of July 2010.
+“Lucie Lamarre”
+Lamarre J.
+Citation: 2010 TCC 393
+Date: 20100721
+Docket: 2010-934(IT)APP
+BETWEEN:
+GARRY MOON,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Lamarre J.
+[1] The applicant is requesting an extension of the time for filing notices of appeal with respect to a Notice of Assessment dated December 1, 2003, for the 2001 taxation year and Notices of Reassessment dated October 5, 2006, for the 2002 and 2003 taxation years.
+[2] The Minister opposes the application for the reasons set out in paragraph 10 of the Reply to an Application for an Extension of Time (the “Reply”):
+10. the Respondent opposes the Application for an extension of time within which to file a Notice of Appeal in respect of the 2001, 2002 and 2003 taxation years for the following reasons:
+a) the Applicant did not comply with the statutory condition precedent required by subsection 167(5) of the Act, in that he did not make an application to file an extension of time to file and appeal to the Tax Court of Canada within the one year time limited by section 169 of the Act, for the 2001, 2002 and 2003 taxation years; and
+b) the Applicant failed to comply with the statutory condition precedent required by subsection 169(1) of the Act, in that he did not make an appeal to the Tax Court of Canada within 90 days of the Confirmation date for the 2001, 2002 and 2003 taxation years.
+[3] The facts relied upon by the Minister are found in paragraphs 1 to 9 of the Reply, which read as follows:
+1. the Minister assessed the Applicant for the 2001 taxation year by Notice of Assessment dated December 1, 2003 and for the 2002 and 2003 taxation years by Notices of Assessment dated April 13, 2006.
+2. the Applicant served on the Minister on June 13, 2006, a Notice of Objection for the 2001, 2002 and 2003 taxation years.
+3. the Minister confirmed the assessment for the 2001 taxation year by letter of confirmation dated October 3, 2006.
+4. the Minister reassessed the Applicant for the 2002 and 2003 taxation years by Notices of Reassessment dated October 5, 2006.
+5. the Applicant served on the Minister on October 19, 2006, a Notice of Objection for the 2002 and 2003 taxation years.
+6. the Minister confirmed the reassessments for the 2002 and 2003 taxation years by letter of confirmation dated January 18, 2008.
+7. the Applicant did not file a Notice of Appeal for the 2001 taxation year with the Tax Court of Canada on or before January 1, 2007, with is [sic] 90 days after the Minister issued the letter of Confirmation pursuant to subsection 169(1) of the Income Tax Act (the “Act”).
+8. Furthermore, the Applicant did not file a Notice of Appeal for the 2002 and 2003 taxation years with the Tax Court of Canada on or before April 18, 2008, which is 90 days after the Minister issued the letter of Confirmation pursuant to subsection 169(1) of the Income Tax Act (the “Act”).
+9. the Applicant filed an extension of time within which to file a Notice of Appeal for the 2001, 2002 and 2003 taxation years with this Honourable Court on March 29, 2010.
+[4] The applicant admitted that he did not contact either the Tax Court of Canada or the Canada Revenue Agency (“CRA”) between January 18, 2008 (the date of the confirmation of the reassessments for 2002 and 2003) and April 18, 2008 (the expiry date of the 90-day period for instituting an appeal), and that he did not file in timely fashion a notice of appeal for each of the taxation years at issue. He said that he was in contact with a certain Mr. Robillard from the CRA in August 2008 and that he was advised to speak to someone from this Court. The Applicant did speak to someone at the Registry of this Court in
+Toronto and forwarded the letter he had previously sent to Mr. Robillard, which is dated August 7, 2008 (Exhibit A‑1), to the Registry of this Court in
+Toronto
+on August 25, 2008. This letter did not mention that he was requesting an extension of the time for filing a notice of appeal, nor did it indicate the grounds for appeal, except to say that he was asking for fairness.
+[5] The applicant heard nothing from the Court thereafter, and it was only in July 2009 that he drove to
+Toronto
+to speak to someone at the Court, which was long after the one‑year limit had expired.
+[6] The applicant explains that he was not aware of the time limits and that is why he did not file notices of appeal or the application for an extension of time at an earlier date.
+[7] Subsections 167(1) and (5) of the Income Tax Act (“ITA”) read as follows:
+167. (1) Extension of time to appeal – Where an appeal to the Tax Court of Canada has not been instituted by a taxpayer under section 169 within the time limited by that section for doing so, the taxpayer may make an application to the Court for an order extending the time within which the appeal may be instituted and the Court may make an order extending the time for appealing and may impose such terms as it deems just.
+. . .
+(5) When order to be made – No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time limited by section 169 for appealing; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted, and
+(iv) there are reasonable grounds for the appeal.
+[8] Subsection 169(1) of the ITA reads as follows:
+169. (1) Appeal – Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+[9] The applicant had to show that he made his application for an extension of time within one year after the expiration of the time for filing a notice of appeal, that is, before April 18, 2009 for the 2002 and 2003 taxation years, and before January 1, 2008 for the 2001 taxation year.
+[10] I find that the letter forwarded to the Tax Court of Canada in August 2008 is not an application for an extension of time as nowhere does the applicant indicate the reasons for which he was unable to file his appeals on time. Furthermore, the applicant asks for fairness but does not actually indicate any grounds for challenging the validity of the assessments.
+[11] Once it has been found that the application for an extension of time was not made within the one-year limit imposed by paragraph 167(5)(a) of the ITA, this Court has no discretion to extend that time and the question whether it would be just and equitable to grant an extension of time may not be raised (see Minister of National Revenue v. Minuteman Press of Canada Co., [1988] 1 C.T.C. 440, 88 DTC 6278 (F.C.A.), and Lamothe v. The Queen, 2002 DTC 1559 (T.C.C.).
+[12] For these reasons, I am not in a position to be able to extend the time for instituting an appeal against the assessment and the reassessments issued against the applicant for the 2001, 2002 and 2003 taxation years.
+[13] The application is therefore dismissed.
+Signed at
+Ottawa ,
+Canada
+, this 21st day of July 2010.
+“Lucie Lamarre”
+Lamarre J.
+CITATION: 2010 TCC 393
+COURT FILE NO.: 2010-934(IT)APP
+STYLE OF CAUSE: GARRY MOON v. THE QUEEN
+PLACE OF HEARING:
+London ,
+Ontario
+DATE OF HEARING: July 16, 2010
+REASONS FOR ORDER BY: The Honourable Justice Lucie Lamarre
+DATE OF ORDER: July 21, 2010
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Marie-France Camiré
+COUNSEL OF RECORD:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

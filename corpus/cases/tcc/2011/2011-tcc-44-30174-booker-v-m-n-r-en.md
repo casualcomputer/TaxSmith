@@ -1,0 +1,142 @@
+---
+title: "Booker v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30174/index.do"
+last_modified: "2011-01-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 44"
+citation2: ""
+neutral_citation: "2011 TCC 44"
+decision_date: "2011-01-26"
+language: "en"
+item_id: "30174"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7779
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:55:22.371000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "30bd4013931da06681019e8a25008aaafbc9e09fc27e6c06a2655055522c0d61"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Booker v. M.N.R.
+
+- Citation: 2011 TCC 44
+- Decision date: 2011-01-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7779, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Booker v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-01-26
+Neutral citation
+2011 TCC 44
+File numbers
+2010-1689(CPP)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Canada Pension Plan
+Decision Content
+Dockets: 2010-1689(CPP)
+2010-1690(EI)
+BETWEEN:
+JAMES BOOKER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 17, 2010 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Leslie M. Ross
+Diana Aird
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Employment Insurance Act and the Canada Pension Plan for the period from January 1, 2008 to August 31, 2009 is allowed, and the assessments are vacated. Each party shall bear their own costs.
+Signed at Toronto, Ontario this 26th day of January 2011.
+“J. M. Woods”
+Woods J.
+Citation: 2011 TCC 44
+Date: 20110126
+Dockets: 2010-1689(CPP)
+2010-1690(EI)
+BETWEEN:
+JAMES BOOKER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, James Booker, operates a business in Collingwood, Ontario which specializes in the design and construction of fences for commercial and residential customers. The business name is The Fence Factory.
+[2] This appeal concerns assessments made under the Employment Insurance Act and the Canada Pension Plan in relation to four workers who were engaged to construct fences. The appellant was assessed premiums and contributions, and related interest, for the period from January 1, 2008 to August 31, 2009.
+[3] The appellant submits that the four workers, Kevin King, James Attridge, Tyler Harvey and Tom Dobson, were engaged as independent contractors, and that the assessments should therefore be vacated.
+[4] The applicable principles in a case such as this are well known. The hallmark of being an independent contractor is that the person is in business for himself. The intention of the parties is very relevant, but it is not determinative. The applicable test was described by the Federal Court of Appeal in Royal Winnipeg Ballet v. MNR, 2006 FCA 87, 2006 DTC 6323 in the following manner:
+64 In these circumstances, it seems to me wrong in principle to set aside, as worthy of no weight, the uncontradicted evidence of the parties as to their common understanding of their legal relationship, even if that evidence cannot be conclusive. The judge should have considered the Wiebe Door factors in the light of this uncontradicted evidence and asked himself whether, on balance, the facts were consistent with the conclusion that the dancers were self-employed, as the parties understood to be the case, or were more consistent with the conclusion that the dancers were employees. Failing to take that approach led the judge to an incorrect conclusion.
+[5] With these principles in mind, I will first consider the intention of the parties.
+[6] James Booker testified on his own behalf and Kevin King testified on behalf of the respondent. Based on their evidence, the intention was clear that the workers were in business for themselves. Mr. Booker’s intention was made evident as employee source deductions were not made and Mr. King acknowledged in cross examination that this was the intention.
+[7] In the respondent’s reply, an argument was made that the workers did not intend to be independent contractors because none of them had registered business names, GST accounts or business bank accounts.
+[8] These factors alone do not negate an intention on the part of the workers to be independent contractors. I do not find the argument to be persuasive.
+[9] Intention is not determinative, however. One must consider whether the relationship was consistent with this intention. I find that it was.
+[10] The Wiebe Door factors include control, ownership of tools, opportunity for profit and risk of loss and integration.
+[11] The relationship between the appellant and the workers was quite casual. There was no commitment given to the workers as to work hours and they were only offered work when it was available. The workers were not obligated to accept jobs when they were offered and it was expected that the workers may have other sources of income. Mr. King testified that he had other construction jobs while working for the appellant.
+[12] In a typical job, the workers worked in teams of two. The appellant informed them of the specifications for the fence to be constructed and the time within which the work was to be completed. The appellant would then deliver the materials to the work site. Beyond this, the workers had little supervision and they could perform the work during times of their choosing. They were also free to bring helpers and they did so on occasion. Although some oversight was provided by the appellant, and some training was given when needed, the level of control was only sufficient to ensure that the construction satisfied the expectations of the appellant’s customers.
+[13] The considerable freedom exercised by the workers and the lack of control is consistent with the workers being in business for themselves.
+[14] As for tools, the appellant provided most of the tools at the job site. The workers were responsible for getting to the work sites at their own expense and they often brought small personal tools that they used on other construction jobs. This factor points slightly more towards an employment relationship, but it is not a strong factor when considered against the lack of control.
+[15] The workers were paid on an hourly basis. I find this to be a neutral factor which is consistent with either type of relationship.
+[16] As for integration, it is not a significant factor in this case. The workers were engaged on an as needed basis and likely could have been easily replaced.
+[17] Overall, the relationship is consistent with the parties’ intention that the workers be engaged as independent contractors.
+[18] Finally, I would mention that an appeal by another worker hired by the appellant had come before this Court in 2005. In that case, the worker was successful in satisfying the Court that he was engaged as an employee: Harris v. MNR, 2005 TCC 700.
+[19] I have reviewed the reasons of MacLatchy D.J. in that case with some care as it is important for this Court to provide consistency.
+[20] There are important distinguishing facts in that case. In particular, some source deductions had been made by the appellant in relation to Mr. Harris, he had a senior position as a manager, and he reported to work on a daily basis during the seasonal operation of the business. The judge also found that Mr. Booker considered Mr. Harris to be an employee. The circumstances of the workers in these appeals are sufficiently different to warrant a different conclusion.
+[21] The appeal will be allowed, and the assessments will be vacated.
+Signed at Toronto, Ontario this 26th day of January 2011.
+“J. M. Woods”
+Woods J.
+CITATION: 2011 TCC 44
+COURT FILE NOS.: 2010-1689(CPP)
+2010-1690(EI)
+STYLE OF CAUSE: JAMES BOOKER and THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: December 17, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: January 26, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Leslie M. Ross
+Diana Aird
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

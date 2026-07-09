@@ -1,0 +1,143 @@
+---
+title: "Invesco Canada Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109218/index.do"
+last_modified: "2015-04-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 92"
+citation2: ""
+neutral_citation: "2015 CCI 92"
+decision_date: "2015-04-16"
+language: "fr"
+item_id: "109218"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2868
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:36:31.545000+00:00"
+cases_cited_count: 23
+cases_citing_count: 11
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "042241948f9c9e7c70a8d399de0595eabc970956242f03db483298101fe79ba1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Invesco Canada Ltd. c. La Reine
+
+- Citation: 2015 CCI 92
+- Decision date: 2015-04-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2868, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Invesco Canada Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-04-16
+Référence neutre
+2015 CCI 92
+Numéro de dossier
+2013-385(GST)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2015 CCI 92
+Date : 20150416
+Dossier : 2013-385(GST)G
+ENTRE :
+INVESCO CANADA LTÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS CONCERNANT LES OBSERVATIONS SUR LES DÉPENS
+La juge Campbell
+[1] Le 23 décembre 2014, j’ai prononcé des motifs accueillant les présents appels et j’ai adjugé les dépens à l’appelante. La question en litige portait sur la détermination de la valeur exacte de la contrepartie versée par différentes fiducies de fonds communs de placement à l’appelante pour la prestation de services de gestion qu’elle a assurés à ces fonds. En accueillant les appels, j’ai conclu que les frais de gestion avaient été réduits au point de vente et que les frais nets étaient constitués des montants réduits. Par conséquent, l’appelante avait perçu et versé la taxe sur les produits et services (la « TPS ») correctement à l’égard des montants réduits des frais de gestion, ceux-ci étant la valeur exacte de la contrepartie.
+[2] Le 22 janvier 2015, l’appelante a déposé un avis de requête, au moyen d’observations écrites, réclamant la somme forfaitaire de 347 448 $ au titre des dépens entre parties, conformément au paragraphe 147(1) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »). Ce montant correspond à 60 pour 100 des frais juridiques réels de l’appelante, soit 481 299 $, et à la taxe de vente harmonisée (la « TVH ») sur ces frais réduits, ainsi qu’à tous les débours, d’une somme de 18 886 $, et à la TVH applicable à ceux-ci.
+[3] Le 11 février 2015, l’intimée a déposé ses observations écrites concernant les dépens, s’opposant à la requête de l’appelante et proposant une adjudication de dépens conforme au tarif. Subsidiairement, l’intimée a soutenu qu’une adjudication de l’ordre de 15 à 20 pour 100 des frais et débours de l’appelante serait appropriée. La proposition subsidiaire de l’intimée donnerait lieu à une adjudication des dépens d’un montant allant de 71 478 $ à 95 304 $.
+[4] Le 2 mars 2015, l’appelante a écrit à la Cour pour reconnaître qu’elle avait commis une erreur que l’intimée avait portée à son attention concernant les dépenses encourues pour une réunion avec un autre cabinet d’avocats en vue de l’audience. Le montant de 5 399 $ concédé se ventile ainsi : 4 778 $ en frais juridiques et 621 $ en TVH sur ces frais. L’appelante réclamait 60 pour 100 de ce rajustement global, ou 3 239 $. Par conséquent, le total révisé des dépens entre parties sollicités par l’appelante est réduit à 344 209 $.
+[5] L’article 147 des Règles confère aux juges de la Cour un vaste pouvoir discrétionnaire en ce qui a trait à l’adjudication de dépens supplémentaires à ceux que prévoit le tarif. Un certain nombre de facteurs, qui sont énumérés au paragraphe 147(3) des Règles, doivent être pris en considération dans l’adjudication de dépens supplémentaires à ce que prévoit le tarif. À l’occasion de l’affaire Canada c Landry, 2010 CAF 135, 2010 DTC 5093, la Cour d’appel fédérale a confirmé au paragraphe 22, que, pour que la discrétion ne soit pas exercée de façon arbitraire, il faut « [l]’exercer selon les principes établis ». L’adjudication des dépens en faveur d’un plaideur qui a eu gain de cause est fondée sur le principe qu’elle doit être juste et raisonnable à la lumière des facteurs énoncés au paragraphe 147(3), des faits particuliers de l’appel, ainsi que de tous les autres facteurs que la Cour peut considérer comme étant pertinent. La Cour d’appel fédérale, par l’arrêt Consorzio del Prosciutto di Parma c Maple Leaf Meats, 2002 CAF 417, [2002] ACF nº 1504, au paragraphe 10, déclare que l’adjudication des dépens n’est pas une simple opération comptable, mais une question de jugement en ce qui concerne les éléments appropriés compte tenu des circonstances. Le juge Boyle, à l’occasion de l’affaire Spruce Credit Union c La Reine, 2014 CCI 42, 2014 DTC 1063, s’est livré à un examen exhaustif de la jurisprudence à ce jour en matière d’adjudication des dépens. Les grands principes qui ont été soulignés dans ces motifs sont notamment les suivants :
+a) une somme forfaitaire peut être adjugée au regard des sommes en cause, de la complexité et de l’importance des questions en litige, de la charge de travail et de l’issue de l’instance (Scavuzzo c La Reine, 2006 CCI 90, 2006 DTC 2311, Dickie c La Reine, 2012 CCI 327, 2012 DTC 1276, et Blackburn Radio Inc. c La Reine, 2013 CCI 98, 2013 DTC 1098);
+b) la Cour doit tenir compte des facteurs énoncés au paragraphe 147(3) bien que les sommes en cause et la complexité des questions en litige ne constituent pas en elles-mêmes une raison de s’écarter du tarif (Jolly Farmer Products Inc. c La Reine, 2008 CCI 693, 2009 DTC 1040);
+c) les circonstances doivent être sérieuses pour que le juge étudie la possibilité d’adjuger des dépens procureur-client (Sommerer c La Reine, 2011 CCI 212, transcription des motifs rendus oralement par conférence téléphonique le 14 juillet 2011);
+d) la majoration des dépens varie généralement de 50 à 75 pour 100 des dépens procureur-client (Zeller (Succession) c La Reine, 2009 CCI 135, 2009 DTC 1106);
+e) la majoration des dépens n’a pas un caractère punitif (General Electric Capital Canada Inc. v The Queen, 2010 TCC 490, 2010 DTC 1353), mais l’adjudication des dépens n’est pas limitée aux cas d’inconduite (Teelucksingh v The Queen, 2011 TCC 253, [2011] TCJ No 476);
+f) l’existence de circonstances exceptionnelles n’est pas nécessaire pour adjuger des dépens supplémentaires à ceux que prévoit le tarif (Velcro Canada Inc. c La Reine, 2012 CCI 273, [2012] ACI nº 219).
+[6] La discussion concernant les facteurs énoncés au paragraphe 147(3) qui se rapportent aux appels que j’avais à trancher suit.
+A. L’issue de l’instance [7] La Cour a retenu entièrement l’interprétation de l’appelante quant à la nature des opérations et des paiements pertinents qui étaient en cause. Ce faisant, la Cour a retenu les témoignages et les éléments de preuve documentaires présentés par l’appelante. L’intimée, d’après ce que j’en ai conclu, s’est fondée sur des hypothèses erronées dans ses actes de procédure et, par conséquent, sur des interprétations inexactes des ententes et des opérations.
+B. Les sommes en cause [8] La somme de 9 745 987 $ de TPS était en cause ainsi que des intérêts et des pénalités de plus de 13 000 000 $. L’appelante n’a pas poursuivi l’appel relatif à Aim Funds Management Inc. En ce qui a trait aux années subséquentes, qui font l’objet d’une opposition, un montant additionnel de 685 333 $ doit être pris en compte. Le total de la TPS, des intérêts et des pénalités s’élève donc à près de 24 000 000 $.
+[9] En outre, un autre appel devant notre Cour, Fidelity Investments Canada ULC v The Queen (Dossier 2013-1147(GST)G), a été suspendu dans l’attente de l’issue des appels dans l’affaire Invesco Canada Ltée. La somme en cause dans l’affaire Fidelity Investments est de 9 294 665 $, ce qui s’ajoute aux sommes finales en cause. Dans l’affaire Spruce Credit Union, le juge Boyle, au paragraphe 35, a préféré tenir compte du total des sommes en cause dans l’appel d’un cas type :
+[35] Dans un cas type tel que l’espèce, il convient de tenir compte du montant global contesté par tous les contribuables liés au moment de calculer les dépens. Il convient tout autant de tenir compte du fait que, de manière générale, chaque contribuable a le droit de faire valoir sa propre cause devant la Cour, et que, si les autres contribuables interjetaient appel à titre individuel et avaient gain de cause, ils s’attendraient généralement à avoir droit aux dépens. L’usage prudent et efficace des ressources publiques lors des cas types ou dans la résolution générale des litiges en matière d’impôt doit généralement être encouragé et non découragé de quelque façon que ce soit.
+[10] L’intimée, citant la jurisprudence Daishowa-Marubeni International Ltd. c La Reine, 2013 CCI 275, 2013 DTC 1222, demande à la Cour de prendre connaissance d’office du fait que, même si les montants en cause se chiffrent par millions, ils sont infimes en comparaison de l’ensemble des revenus et des biens de l’appelante et de Fidelity Investments. Dans l’affaire Daishowa, le juge Miller, au paragraphe 8, a expliqué que l’importance du montant en cause devait être relativisé :
+[8] La somme en cause d’environ 14 000 000 $ du produit semble considérable, mais elle doit être mise en contexte. La somme constituait environ six pour cent du produit de l’opération importante en cause; elle a donné lieu, en raison de l’utilisation de pertes, à un impôt peu élevé dans les années en question; Daishowa est une entreprise de plusieurs millions de dollars. Dès lors, qu’est-ce qu’une somme importante à cet égard – une petite entreprise condamnée à payer des dépens de 100 000 $ qui pourrait être acculée à la faillite ou une grande organisation multinationale qui porte devant le tribunal une cause mettant en jeu certains principes, peu importe le montant? Je conclus qu’en l’espèce, les sommes en cause ne constituent pas un facteur dont l’importance justifie l’adjudication de dépens supplémentaires.
+[11] L’intimée a soutenu que les dépens majorés ne sont pas justifiés lorsque le montant en cause est examiné en fonction du contexte, mais je ne crois pas que la taille de la société à elle seule peut être évoquée pour minimiser dans son ensemble l’importance d’une évaluation de près de 25 000 000 $ de TPS et d’environ 10 000 000 $ d’intérêts et de pénalités. Je retiens entièrement les observations du juge Miller selon lesquelles un montant moindre pourrait effectivement acculer une société beaucoup plus petite à la faillite. Cependant, lorsque le montant en litige est d’une importance particulière pour le contribuable, et qu’il a une incidence sur la manière dont il peut mener ses affaires à l’avenir, les dépens majorés peuvent être justifiés au titre du facteur de l’« importance des questions en litige », que je discuterai ci-dessous (Zeller (Succession)).
+[12] Compte tenu des sommes globales en cause, de l’importance de celles-ci pour l’appelante, et du fait qu’elle a sollicité une décision anticipée en matière d’impôt, mais pas une décision en matière de TPS, ce facteur ne penche que légèrement en faveur de l’adjudication des dépens majorés.
+C. L’importance des questions en litige [13] L’intimée fait valoir que la décision n’a d’incidence que sur la présente appelante et sur un autre gestionnaire de fonds communs de placement, Fidelity Investments. L’appelante soutient que l’affaire est d’une grande importance, non seulement pour l’appelante, mais également pour l’industrie des fonds communs de placement dans son ensemble. La position de l’intimée quant à la cotisation a, concrètement, augmenté le coût du produit que l’appelante offre à ses investisseurs, ce qui a une incidence sur la position concurrentielle de l’appelante dans l’industrie.
+[14] L’issue de l’appel était importante pour l’industrie des fonds communs de placement dans son entier, étant donné que le type de frais et les opérations en cause étaient chose courante dans l’ensemble de l’industrie. Comme l’appelante l’a signalé au cours de l’audience, on a fait référence à la décision ATR-65, une décision anticipée en matière d’impôt qui a été publiée, et qui comportait des demandes de décision similaires. En outre, le témoin de l’appelante, David Warren, a témoigné que les remboursements des frais de gestion et les distributions étaient d’usage courant dans l’ensemble de l’industrie.
+[15] De plus, cela a donné à notre Cour la première occasion de formuler des observations sur l’arrêt que la Cour suprême du Canada a rendu dans l’affaire Sattva Capital Corp. c Moly Creston Corp., 2014 CSC 53, concernant la manière dont les contrats doivent être interprétés.
+D. La présentation d’une offre de règlement [16] Aucune offre écrite de règlement n'a été présentée.
+E. La charge de travail / La complexité des questions en litige [17] Je qualifierais cette affaire d’appel modérément complexe imposant une charge de travail passablement importante. Les interrogatoires préalables se sont déroulés sur deux jours et l’audition a duré trois jours. Les parties ont préparé un volumineux recueil conjoint de documents, ce qui me semble avoir nécessité beaucoup de temps et d’efforts. L’appelante a soutenu que [traduction] « [l]e nombre même de fonds visés (à chacun desquels étaient joints des documents qui devaient être rassemblés et analysés) combiné au nombre de périodes d’imposition en cause a nécessité un travail considérable » (avis de requête de l’appelante, onglet 2, page 5). Deux avocats expérimentés étaient chargés de défendre la cause de l’appelante. Me John Tobin s’est concentré sur les questions fiscales, alors que Me Stuart Svonkin s’est chargé des questions de preuve.
+[18] En outre, la Cour a demandé aux parties de présenter des observations écrites à la suite de l’audience concernant le récent arrêt de la Cour suprême du Canada dans l’affaire Sattva.
+F. La conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance [19] Ces appels avaient un long historique. La vérification a commencé en 2002, et les nouvelles cotisations initiales ont été établies en 2003. En ce qui concerne ce facteur, l’appelante fait valoir principalement que, du fait qu’elle a collaboré durant tout le processus et qu’elle a finalement eu gain de cause dans les appels, l’intimée aurait dû être au fait des lacunes de son propre dossier et permettre à l’appelante de s’opposer. Ainsi, il n’aurait pas été nécessaire d’interjeter les appels. Je ne crois pas que le point de vue de l’appelante à l’égard de la conduite de l’intimée dans de telles circonstances doit avoir une incidence sur l’adjudication des dépens. Le point de vue de l’intimée quant aux documents était différent de celui de l’appelante, et la Cour a conclu que le point de vue de l’intimée était erroné. Cela n’équivaut toutefois pas à une inconduite de la part de l’intimée, ni ne signifie que la position adoptée par celle-ci était frivole ou vexatoire.
+G. Toute autre question pouvant influer sur la détermination des dépens [20] Il y a une certaine confusion au sujet de la période pour laquelle l’appelante sollicite les dépens. L’appelante déclare qu’elle sollicite les dépens à compter de la date du dépôt de l’avis d’appel, mais l’intimée soutient que les dépens ne doivent pas être adjugés en ce qui a trait à la période antérieure à la rédaction et au dépôt de l’avis d’appel.
+[21] La première entrée au mémoire de frais est de 4 277,05 $ pour 3,8 heures de travail concernant l’élément suivant : [traduction] « avis d’appel et autres travaux préparatoires » (avis de requête de l’appelante, onglet 3, page 37). L’intimée formule peut‑être des commentaires concernant l’expression [traduction] « autres travaux préparatoires » et, en particulier, concernant les 2,3 heures qui ont été consacrées à l’élément suivant : [traduction] « examen de la demande de vérification; rédaction d’une réponse » (avis de requête de l’appelante, onglet 4, page 96).
+[22] Outre les facteurs susmentionnés, l’intimée fait valoir que les coûts encourus par l’appelante en ce qui a trait aux documents qui lui ont été communiqués à la suite d’une demande d’accès à l’information ne constituent pas des frais appropriés, car l’appelante aurait pu demander ces documents à l’intimée au cours des interrogatoires préalables. Je n’ai pas la réponse de l’appelante à ce sujet, mais je souligne que celle-ci, même si, comme soutient l’intimée, elle avait pu obtenir ces documents, elle aurait quand même eu, selon toute vraisemblance, à organiser et à examiner ceux-ci.
+[23] L’intimée relève également que le mémoire de frais fait état de frais juridiques pour cinq avocats, même si seulement deux d’entre eux étaient présents devant la Cour. L’intimée soutient que cela n’est ni nécessaire, ni raisonnable, et attire l’attention sur des pratiques de facturation possiblement inefficaces et le possible dédoublement d’efforts.
+[24] J’ai pris ces points en considération dans mon adjudication définitive des dépens.
+Résumé [25] Le tarif doit être utilisé comme référence, mais, dans les présents appels, il s’agit d’un point de départ qui n’est pas satisfaisant, puisqu’il pourrait ne correspondre qu’à un faible pourcentage des frais réels de l’appelante. L’examen des facteurs énoncés au paragraphe 147(3) appelle l’exercice de mon pouvoir discrétionnaire d’accorder une somme forfaitaire à titre de dépens supplémentaires à ceux que prévoit le tarif. Cependant, en l’espèce, ils ne justifient pas l’adjudication des dépens selon les montants supérieurs prévus au tarif. Étant donné que l’appelante a eu gain de cause, et compte tenu de l’importance des questions en litige pour l’industrie des fonds communs de placement, de la complexité modérée des questions et de la charge de travail importante, il convient d’adjuger au titre des dépens 40 pour 100 des frais de l’appelante de 476 521 $, ou de 190 608 $, plus la TVH applicable à ces frais. L’appelante a également droit à 100 pour 100 de ses débours de 18 886 $, plus la TVH applicable à ces débours. Il n’y a pas eu de délais indus, d’offres de règlement à examiner ni de conduite irrégulière qui justifierait un pourcentage plus élevé. Par conséquent, ces dépens sont considérés comme appropriés, justes et raisonnables dans les circonstances.
+Signé à Ottawa, Canada, ce 16e jour d’avril 2015.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 11e jour d’août 2015.
+François Brunet, réviseur
+RÉFÉRENCE :
+2015 CCI 92
+Nº DU DOSSIER DE LA COUR :
+2013-385(GST)G
+INTITULÉ :
+INVESCO CANADA LTÉE et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATES DE L’AUDIENCE :
+Les 28, 29 et 30 avril 2014
+MOTIFS CONCERNANT LES OBSERVATIONS SUR LES DÉPENS :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 23 décembre 2014
+DATE DES MOTIFS CONCERNANT LES OBSERVATIONS SUR LES DÉPENS :
+Le 16 avril 2015
+OBSERVATIONS :
+Avocats de l’appelante :
+Me John Tobin / Me Stuart Svonkin
+Avocates de l’intimée :
+Me Marilyn Vardy / Me Andrea Jackett
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Noms :
+John Tobin / Stuart Svonkin
+Cabinet :
+Torys, s.r.l. / Chernos Flaherty Svonkin, s.r.l.
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,176 @@
+---
+title: "SAS Restaurants Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26556/index.do"
+last_modified: "2005-10-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 649"
+citation2: ""
+neutral_citation: "2005 CCI 649"
+decision_date: "2005-10-13"
+language: "fr"
+item_id: "26556"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3564
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:26:19.591000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8b2519379fd8a56eb5e2533d8c95e77b69ee85ed469944ae7784065bf14aa90f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# SAS Restaurants Limited c. La Reine
+
+- Citation: 2005 CCI 649
+- Decision date: 2005-10-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3564, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+SAS Restaurants Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-13
+Référence neutre
+2005 CCI 649
+Numéro de dossier
+2005-400(GST)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-400(GST)I
+ENTRE :
+SAS RESTAURANTS LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Halifax (Nouvelle-Écosse), le 15 août 2005
+Devant : L’honorable juge G. Sheridan
+Comparutions :
+Représentant de l’appelante :
+Allan MacPherson
+Avocate de l’intimée :
+Me Catherine M.G. McIntyre
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en application de la Loi sur la taxe d’accise (la « Loi ») est accueilli avec dépens et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs du jugement ci-joints, parce que SAS Restaurants Limited fournissait de la bière embouteillée à ses clients dans des « contenants consignés » et que, par conséquent, aucune taxe ne devait être perçue ou devenir percevable relativement à la fourniture de la bière, conformément au paragraphe 226(3) de la Loi.
+Signé à Ottawa, Canada, ce 13e jour d’octobre 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 4e jour d’août 2006.
+Christian Laroche, LL.B.
+Référence : 2005CCI649
+Date : 20051013
+Dossier : 2005-400(GST)I
+ENTRE :
+SAS RESTAURANTS LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante, SAS Restaurants Limited (« SAS »), interjette appel à l’encontre d’une nouvelle cotisation établie par le ministre du Revenu national (le « ministre ») en application de la Loi sur la taxe d’accise (la « Loi »). SAS a demandé un remboursement pour de la taxe perçue par erreur relativement aux contenants consignés dans lesquels des boissons alcoolisées et non alcoolisées ont été vendues dans ses établissements autorisés. Le ministre a accordé un remboursement pour les contenants à boisson non alcoolisée consignés, mais n’a pas accordé de remboursement pour les bouteilles de bière consignées. L’appel ne porte que sur les bouteilles dans lesquelles la bière était servie aux clients lorsque ceux-ci en achetaient (par opposition aux verres à bière dans lesquels était servie la bière pression).
+Le contexte
+[2] SAS exploite deux restaurants, une entreprise de services de traiteur et un pub. Le représentant de la société était M. Allan MacPherson. La seule personne ayant été appelée à témoigner pour l’appelante était Mme Simone A. Stewart, la présidente de la société. Mme Stewart est bien au fait des activités quotidiennes des entreprises[1] et supervise tout ce qui a trait à leur administration, y compris la tenue des livres, la commande et l’établissement des coûts de revient des stocks, ainsi que les calculs et les versements liés à la taxe de vente harmonisée (« TVH »). Elle s’occupe également de l’achat de la bière embouteillée de la Nova Scotia Liquor Commission (la « Commission »); le prix à l’unité de chaque bouteille de bière, la TVH et un dépôt[2] de 10 cents sont compris dans le prix d’achat. Le dépôt fait partie du prix majoré de la bière embouteillée vendue dans le pub. SAS vend aussi des boissons non alcoolisées dans des contenants consignés. La société paie pour que les bouteilles de bière vides et les contenants à boisson non alcoolisée vides soient retournés aux fins de recyclage; SAS reçoit une partie de son dépôt de 10 cents pour chaque bouteille ou contenant qu’elle retourne et le montant qu’elle reçoit est dûment inscrit au titre de revenu dans les livres de la société.
+[3] SAS perçoit et verse la TVH relativement à ces bouteilles et contenants depuis le 1er janvier 1999. Quelque temps après cette date, et après avoir donné aux dispositions pertinentes de la Loi l’interprétation qu’il convient de leur donner, Mme Stewart avait conclu que la société n’était pas tenue de percevoir ni de verser la TVH. Le 23 avril 2002, elle a produit une demande de remboursement relativement à la [traduction] « taxe payée par erreur » en application du paragraphe 261(1) de la Loi pour récupérer le montant de 18 038,14 $ déjà versé. La demande de remboursement a été rejetée et l’agent responsable a dit à Mme Stewart (à tort) que SAS pourrait obtenir le même résultat en demandant tout simplement la déduction de ce montant au titre de crédit de taxe sur les intrants (« CTI ») dans sa prochaine déclaration trimestrielle. SAS a suivi ce conseil et, dans sa déclaration du 30 juin 2002, a demandé un CTI de 18 038,14 $, déclarant un montant de taxe nette de 49 247,51 $.
+[4] Une vérification s’ensuivit et, au moyen d’un avis de cotisation daté du 9 juin 2003, le ministre a établi une cotisation à l’égard de SAS imposant une taxe de 49 247,51 $, des intérêts de 337,95 $ et une pénalité de 844,81 $ pour la période allant du 1er avril au 30 juin 2002. SAS s’est opposée à la cotisation. Le 8 octobre 2004, le ministre a envoyé un avis de nouvelle cotisation[3] dans lequel il a refusé tout remboursement pour les bouteilles de bière, mais a accordé un remboursement de 1 313,13 $ relativement aux contenants à boisson non alcoolisée consignés.
+[5] Au moment de refuser la demande de remboursement de la taxe perçue relativement aux bouteilles de bière retournées aux fins de recyclage, le ministre a adopté, entre autres, les hypothèses suivantes :
+[traduction]
+[...]
+20d) selon les lois de la Nouvelle-Écosse, les boissons alcoolisées vendues dans les bars peuvent être servies au consommateur dans leur contenant original (p. ex. bouteille de bière) ou dans une tasse ou un verre;
+20e) le prix de la boisson est le même, qu’elle soit servie dans son contenant original ou dans une tasse ou un verre;
+20f) lorsque les boissons sont vendues dans leur contenant original dans un bar, aucune partie du prix de vente n’est imputable au contenant;
+20g) dans les bars, on ne peut pas vendre des boissons alcoolisées dans un contenant non ouvert et l’appelante vendait toute boisson alcoolisée dans des tasses ou des verres, ou dans son contenant original, lequel avait été ouvert;
+20h) les boissons alcoolisées vendues dans les bars doivent être consommées sur place et, si le consommateur reçoit le contenant original, il ne doit pas le sortir du bar;
+20i) les boissons non alcoolisées ne sont pas assujetties aux règles ci-dessus et peuvent être vendues dans des contenants ouverts ou non ouverts; le consommateur peut sortir les contenants du bar;
+20j) la taxe était incluse dans les prix que demandait l’appelante pour ses boissons;
+20k) tel que l’exige le Nova Scotia Solid Waste Resource Management Regulations (« N.S. Waste Regulations »), l’appelante payait un dépôt à l’égard des contenants consignés lorsqu’elle achetait des boissons embouteillées de ses fournisseurs;
+20l) l’appelante retournait les contenants vides (tant pour les boissons alcoolisées que pour les boissons non alcoolisées) pour une partie du dépôt originalement payé à leur égard;
+20m) l’appelante ne pouvait pas retourner les contenants à boisson non alcoolisée que les clients sortaient des bars;
+20n) compte tenu des circonstances de l’espèce, il était raisonnable de présumer que, pour la vente de la boisson non alcoolisée, dans le cas où l’appelante sortait le contenant du bar, un montant de 10 cents du prix total de vente était imputable au contenant;
+20o) selon le N.S. Waste Regulations, le dépôt de 10 cents est le montant que l’appelante doit payer à son distributeur pour les contenants consignés de moins d’un litre;
+[...]
+[6] La position de la Couronne est que, même si une bouteille de bière est un « contenant consigné » aux termes du paragraphe 226(1), compte tenu des faits de la présente affaire, SAS ne peut répondre aux critères contenus au paragraphe 226(2) de la Loi. Comme cette disposition est rédigée de façon conjonctive, SAS n’est exemptée de la perception de la TVH prévue au paragraphe 226(3) que si elle remplit tous les critères; en outre, rien ne l’empêche de demander des CTI à l’égard des bouteilles de bière aux termes du paragraphe 226(4). Voici les dispositions pertinentes :
+226.(1) Définition de « contenant consigné » – Au présent article, « contenant consigné » s’entend d’un contenant à boisson (sauf le contenant habituel d’une boisson dont la fourniture est incluse à la partie III de l’annexe VI d’une catégorie donnée qui, à la fois :
+a) est habituellement acquis par des consommateurs;
+b) au moment de son acquisition par des consommateurs, est habituellement rempli et scellé;
+c) une fois vide, est habituellement fourni par des consommateurs pour une contrepartie.
+(2) Fourniture distincte de boisson et de contenant – Pour l’application du présent article, lorsqu’une personne fournit une boisson dans un contenant consigné, les règles suivantes s’appliquent :
+a) la remise du contenant est réputée être une fourniture distincte de la livraison de la boisson et ne pas y être accessoire;
+b) la présomption prévue à l’article 137 ne s’applique pas au contenant;
+c) la contrepartie de la fourniture du contenant est réputée égale à la partie de la contrepartie totale de la boisson et du contenant, qui est imputable au contenant. [Non souligné dans l’original.]
+(3) Taxe percevable sur les contenants consignés – La taxe perçue ou devenue percevable par un inscrit relativement à la fourniture d’un contenant consigné n’est pas incluse dans le calcul de la taxe nette de l’inscrit.
+(4) Crédit de taxe sur les intrants pour contenants consignés – La taxe payée ou devenue payable par un inscrit relativement à la fourniture d’un contenant consigné, ou à son transfert dans une province participante, n’est incluse dans le calcul du crédit de taxe sur les intrants de l’inscrit que si celui-ci acquiert le contenant, ou le transfère dans la province, selon le cas, en vue d’en faire une fourniture détaxée ou de le fournir à l’étranger.
+[7] D’après les observations de la Couronne, en ce qui concerne la bière embouteillée vendue dans le pub, SAS n’a pas respecté les exigences du paragraphe 226(2) sur trois points :
+1. SAS n’a pas fourni de boisson dans un contenant consigné, comme le prévoit le préambule du paragraphe 226(2), parce que seule la bière dans la bouteille, et non la bouteille elle-même, a été fournie;
+2. aucun contenant n’a été fourni aux termes de l’alinéa 226(2)a) parce que seule la bière, et non la bouteille, a été fournie et, par conséquent, il n’y a eu aucune fourniture ou fourniture réputée de bouteilles;
+3. aucune partie de la contrepartie de la fourniture de la bière n’était imputable à la bouteille, comme l’exige l’alinéa 226(2)c).
+[8] Pour ce qui est de la première observation, l’avocate de l’intimée allègue que, lorsque SAS servait des bouteilles de bière aux clients pour consommation dans ses établissements autorisés, il ne s’agissait pas d’une situation où « une personne fourni[ssai]t une boisson dans un contenant consigné » aux termes du préambule du paragraphe 226(2). Ni les éléments de preuve présentés ni les termes clairs de la Loi n’appuient cette affirmation. Pour déterminer si un contenant consigné a été fourni ou non, il faut voir si la disposition déterminative qui se trouve à l’alinéa 226(2)a) s’applique; la disposition déterminative s’applique si les exigences du préambule du paragraphe 226(2) sont satisfaites. Il est seulement exigé que la preuve appuie une conclusion selon laquelle : 1) une « personne » a 2) « fourni » une boisson, qui est 3) « dans » un « contenant consigné ». Il n’est pas contesté que SAS est une « personne »[4], que la bière est une boisson qui était « fournie »5 lorsque SAS la vendait à ses clients et que la bière était « dans » une bouteille de bière qui constituait un « contenant consigné ». Par conséquent, étant donné que les exigences minimales du préambule sont réunies, le paragraphe 226(2) s’applique; il ne reste plus qu’à voir si les critères exposés aux alinéas 226(2)a), b) et c) ont également été remplis.
+[9] Selon le deuxième point des observations de la Couronne, SAS serait incapable d’alléguer que sa situation respecte la règle prévue par l’alinéa 226(2)a), parce qu’il n’y a eu aucune « fourniture » de bouteille de bière et que seule la bière contenue dans la bouteille a été fournie. Il faut tout d’abord examiner les termes de la loi. L’alinéa 226(2)a) prévoit que « la remise du contenant est réputée être une fourniture distincte de la livraison de la boisson et ne pas y être accessoire ». Il faut noter que l’alinéa en question ne parle que d’un « contenant » et non d’un « contenant consigné », expression utilisée dans le préambule du paragraphe 226(2) et dans les paragraphes 226(3) et (4), qui portent respectivement sur la perception de la TVH et sur les demandes de CTI. Lorsqu’il a décidé d’utiliser le mot « contenant » aux alinéas 226(2)a) et b) plutôt que d’utiliser le terme défini, il faut présumer que le législateur voulait donner au mot son sens ordinaire. Il est clair que la bouteille, c’est ce qui contient la bière fournie; on ne va pas trop loin si on conclut que la bouteille peut être qualifiée de « contenant » au sens normalement compris de ce terme.
+[10] Toutefois, selon l’argument de la Couronne, même si les bouteilles sont des contenants, il n’y avait pas de « remise » étant donné que, selon la loi de la Nouvelle-Écosse, on ne pouvait pas sortir les bouteilles des établissements
+autorisés. Le terme « remise » n’est pas défini dans la Loi. Cependant, le terme « livraison » (« provision » en anglais) se trouve dans la définition de « fourniture » (« supply » en anglais), ce qui laisse entendre qu’il faut donner à « remise » et à « livraison » leur sens ordinaire. Cette conclusion est appuyée par l’alinéa 226(2)a), dont le but est de faire en sorte que la « remise » du « contenant » soit considérée comme étant une « fourniture » qui est « distincte de la livraison de la boisson » et qui n’y est pas « accessoire ». La distinction à faire entre la remise du contenant et la livraison de la boisson est appuyée encore davantage par l’alinéa 226(2)b), selon lequel l’article 137 (qui, normalement, s’appliquerait de sorte que la bouteille serait réputée faire partie de la fourniture de la bière) ne s’applique pas.
+[11] Étant donné qu’il n’y a pas de définition du terme « remise » (« provision » en anglais) dans la loi, il est possible, pour déterminer le sens du terme, de lui attribuer sa définition générale, soit [traduction] « action de remettre »6. La définition du verbe « remettre » se lit comme suit [traduction] : « rendre disponible, donner, en vue de fournir ou d’équiper »7 et, parmi les synonymes de ce mot, il y a « donner » et « rendre ». N’importe lequel de ces mots pourrait facilement être utilisé pour désigner l’action de servir une bouteille de bière à un client de SAS : les propriétés physiques de la bière font en sorte qu’il soit impossible de la fournir sans la « remise » d’une bouteille qui contient le liquide. Les lois de la Nouvelle-Écosse sur l’alcool exigent que les bouteilles de bière soient scellées jusqu’à ce qu’elles soient servies aux clients. Lorsqu’un client commande de la bière, il faut que la bouteille soit ouverte et servie au client, qui décide s’il veut boire la bière de la bouteille ou d’un verre fourni à cette fin. Il peut, à sa guise, décider de garder la bouteille avec lui, qu’elle soit vide, pleine ou intacte, jusqu’à ce qu’il quitte le pub. Le simple fait de ne pas pouvoir partir avec la bouteille ne change rien au fait que la bouteille lui a été « remise ». À mon avis, il n’y a rien dans les dispositions législatives pour étayer la position de la Couronne selon laquelle la notion de la « remise » comprend de façon inhérente un certain genre de droit de propriété ou de possession permanente. Dans ces circonstances, je suis convaincue qu’il y a eu remise de la bouteille en même temps que la livraison de la bière. Étant donné que les conditions préalables à l’application de la disposition déterminative, à savoir l’alinéa 226(2)a), ont été établies, il y a fourniture réputée de la bouteille qui est distincte de la fourniture de la bière et qui ne lui est pas accessoire.
+[12] En dernier lieu, la Couronne allègue qu’aucune partie de la contrepartie totale de la fourniture de la bière et de la bouteille n’est « imputable » à la bouteille aux termes de l’alinéa 226(2)c) de la Loi, observation non étayée par les éléments de preuve présentés à l’audience. Mme Stewart a témoigné que le dépôt payé8 par SAS à l’égard des bouteilles était transmis au consommateur dans le prix majoré de la bouteille de bière. Le calcul du prix de vente au détail de la bière embouteillée comprenait également des frais généraux, comme les salaires des employés qui servent la bière embouteillée, l’usure des verres fournis avec la bière embouteillée et le coût de livraison des bouteilles vides à l’installation de recyclage. De plus, lorsque les bouteilles de bière vides (ou les contenants à boisson non alcoolisée) sont retournées à des fins de recyclage, seule une partie du dépôt de 10 cents est remboursée, et non la totalité du montant comme le suppose9 le ministre pour ce qui est des contenants à boisson non alcoolisée. La Loi prévoit que seule une partie de la contrepartie totale de la boisson et du contenant consigné est imputable aux contenants consignés. À la lumière de cette norme et du témoignage crédible de Mme Stewart, je suis convaincue que l’exigence prévue par la loi a été satisfaite.
+[13] L’article 226 crée une rare exception à la règle générale de la Loi sur la taxe d’accise selon laquelle toutes les fournitures sont taxables et selon laquelle des CTI peuvent être demandés relativement à leur achat en vue d’une fourniture. Lorsqu’il a rédigé le paragraphe 226(2) de la façon dont il l’a fait, le législateur a prévu des circonstances particulières dans lesquelles l’exemption s’appliquerait. Si le législateur avait voulu exclure la bière embouteillée vendue dans les établissements autorisés, il aurait rédigé la disposition en conséquence; en fait, au moment où les présents motifs sont rédigés, il y a une modification proposée aux dispositions législatives qui permettrait d’atteindre ce même objectif. Toutefois, la Cour doit interpréter la loi comme elle est, et non pas comme elle pourrait être. Je ne peux repérer aucun passage de la Loi qui justifierait que les conditions ou restrictions sur lesquelles se fonde la Couronne soient sous-entendues dans le libellé clair de l’article 226.
+[14] Pour tous ces motifs, l’appel est accueilli avec dépens et l’affaire est renvoyée au ministre pour nouvel examen et nouvelle cotisation, parce que SAS fournissait de la bière embouteillée à ses clients dans des « contenants consignés » et que, par conséquent, aucune taxe ne devait être perçue ou devenir percevable relativement à la fourniture de la bière, conformément au paragraphe 226(3) de la Loi.
+Signé à Ottawa, Canada, ce 13e jour d’octobre 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 4e jour d’août 2006.
+Christian Laroche, LL.B.
+RÉFÉRENCE : 2005CCI649
+NO DU DOSSIER : 2005-400(GST)I
+INTITULÉ : SAS Restaurants Limited c. S.M.R.
+LIEU DE L’AUDIENCE : Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE : Le 15 août 2005
+MOTIFS DU JUGEMENT PAR : L’honorable juge G. Sheridan
+DATE DU JUGEMENT : Le 13 octobre 2005
+COMPARUTIONS :
+Représentant de l’appelante :
+Allan MacPherson
+Avocate de l’intimée :
+Me Catherine M.G. McIntyre
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] La bière embouteillée était principalement vendue dans le pub, mais mes commentaires s’appliquent de la même façon à la bière embouteillée vendue dans tous les établissements autorisés exploités par SAS.
+[2] Tel qu’il est prévu dans l’Environment Act, 1994-95, ch.1, art.1, de la Nouvelle-Écosse.
+[3] En raison d’une erreur d’écriture du montant de la nouvelle cotisation de taxe, un autre avis de nouvelle cotisation a été établi le 21 octobre 2004 dans lequel la taxe a été réduite pour qu’elle corresponde au montant de la nouvelle cotisation initiale; les intérêts et la pénalité ont été légèrement réduits et le remboursement relatif aux contenants à boisson non alcoolisée a effectivement été confirmé.
+[4] Paragraphe 123(1) de la Loi sur la taxe d’accise.
+5 Paragraphe 123(1), définition de « fourniture ».
+6 Oxford English Dictionary.
+7 Dictionary of the English Language de Random House.
+8 Pièce A-1, facture de la Nova Scotia Liquor Commission.
+9 Alinéas 20n) et o) de la réponse à l’avis d’appel.

@@ -1,0 +1,188 @@
+---
+title: "Paetz v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521656/index.do"
+last_modified: "2026-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 TCC 116"
+citation2: ""
+neutral_citation: "2026 TCC 116"
+decision_date: "2026-06-22"
+language: "en"
+item_id: "521656"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5239
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-06-26T09:02:35.015000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6941bfcfd038c4cf25e63f6c24f535e2a98b3943b551362b49abd5abeb01d63f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Paetz v. The King
+
+- Citation: 2026 TCC 116
+- Decision date: 2026-06-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5239, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paetz v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-06-22
+Neutral citation
+2026 TCC 116
+File numbers
+2024-2430(IT)I
+Judges and Taxing Officers
+Lara Friedlander
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2024-2430(IT)I
+BETWEEN:
+KENNETH ALLAN PAETZ,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on April 7, 2026, at Cranbrook, British Columbia
+Before: The Honourable Justice Lara G. Friedlander
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Lilian Mai Potvin
+JUDGMENT
+In accordance with the attached Reasons for Judgment;
+The appeal from the reassessment and the assessment made under the Income Tax Act for the 2021 and 2022 taxation years respectively is dismissed, without costs.
+Signed this 23rd day of June 2026.
+“Lara Friedlander”
+Friedlander J.
+Citation: 2026 TCC 116
+Date: 20260622
+Docket: 2024-2430(IT)I
+BETWEEN:
+KENNETH ALLAN PAETZ,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Friedlander J.
+[1] This appeal concerns the denial by the Minister of deductions by the Appellant under the Income Tax Act (the “Act”) for his 2021 and 2022 taxation years of certain expenses incurred in connection with his employment. The expenses in issue are lodging expenses of $8,740 for 2021 and $19,523 for 2022, and vehicle mileage, hydro and internet expenses of $10,617.28 for 2021 and $12,223.93 for 2022.
+I. Preliminary Matter [2] The Appellant asked at trial whether he could file an amended income tax return with the CRA, attempting to claim moving expenses, if he were to lose this Appeal. As I have no jurisdiction over the acceptance by the CRA of an amended income tax return, and it is premature to consider issues of estoppel, I discussed with the parties whether the Appellant might be requesting an amendment to his Notice of Appeal either at the commencement of the hearing or after the hearing. Although the Notice of Appeal was very brief, it specifically indicated that the Appellant was challenging the deductibility of employment expenses. The Tax Court of Canada Rules (Informal Procedure), which govern this matter, do not explicitly contemplate the amendment of the Notice of Appeal. Section 54 of the Tax Court of Canada Rules (General Procedure) contemplates that a pleading may be amended by the party filing it at any time before the close of pleadings, and thereafter either on filing the consent of all other parties or with leave of the Court. The Respondent opposed the filing of an amended notice of appeal, noting that the Appellant had had many opportunities to amend or request an amendment to his Notice of Appeal, and noting in particular that the Respondent had had several discussions with the Appellant prior to the hearing. I indicated that if the Appellant were seeking to amend his Notice of Appeal at the commencement of the hearing with a view to introducing additional evidence regarding a moving expense claim during the course of the hearing, I would not give leave to amend on the basis that the Respondent would not have sufficient time to prepare an amended Reply before continuing with the hearing on that day, and that in any case the Appellant had had more than sufficient time prior to the date of trial to make such a request, as noted by the Respondent. The Appellant subsequently restated his original desire to file an amended income tax return with the CRA. I agreed to postpone the issuance of my judgment for at least 30 days to allow the Appellant to have discussions with the CRA regarding this and/or any other matters relevant to his Appeal. As the Court has not been informed by the parties of any further developments in respect of this point, I am now issuing my judgment.
+II. Factual Background [3] The Appellant testified on his own behalf. I found him to be a credible and reliable witness.
+[4] The Appellant lived in Kimberley, British Columbia with his spouse in 2021 and 2022. The Appellant had been unable to find work closer to home, and so in February of 2021 the Appellant took a job as a controller for F.K.D. Contracting Ltd. (“FKD”), based in Salmon Arm, British Columbia. In November of 2021, the Appellant changed jobs and began working as a controller at Arthon Constructors Corp. (“Arthon”), based in Kelowna, British Columbia. The Appellant’s spouse was not willing to move away from Kimberley for personal reasons, and the Appellant himself testified that he would have preferred to take a job in the Kimberley area, but the job in Salmon Arm was the job available to him. As Kimberley is more than a five hour drive away from Salmon Arm, the Appellant rented a small apartment in Enderby, B.C., close to Salmon Arm, to allow him to go into the FKD office Monday to Friday, as he was required to do by his employer. Similarly, Kimberley is more than a six hour drive from Kelowna, and accordingly the Appellant rented an apartment in Kelowna to enable him to go to the Arthon office Monday to Friday, as he was required to do by his employer. The Appellant testified that his home in Kimberley was his primary residence. He testified that he went home for the weekend approximately once every month while working for FKD, and approximately once or twice each month while working for Arthon.
+[5] The lodging, hydro and internet expenses claimed by the Appellant relate to the apartments rented by the Appellant in Enderby and Kelowna. The mileage claimed by the Appellant relate to his travel between Enderby and Kimberley, and between Kelowna and Kimberley. The Appellant’s position is that all of these expenses were incurred in the course of his employment. The Appellant argues that he could not have attended the FKD and Arthon offices from his home in Kimberley, that moving his primary residence to Salmon Arm or Kelowna would have been personally disastrous and that therefore he was required to rent apartments in order to fulfill his employment duties at FKD and Arthon. He added that his travel to and from Kimberley was a reasonable expense as his primary residence and spouse were located in Kimberley.
+[6] The Appellant testified that he worked in his apartments in Enderby and Kelowna after business hours. He stated that in his Enderby apartment he worked at his kitchen table, where he also ate his meals. He stated that in his Kelowna apartment he worked in the living room, and did not use the living room for any other purpose. He estimated that the living room in the Kelowna apartment comprised approximately 1/3 of the space of his apartment. He stated that he attended meetings with Arthon colleagues virtually from his Kelowna apartment, ranging in frequency from once every 2-3 weeks to several times per week. He acknowledged that he used the internet for work and for personal purposes.
+[7] A job description for the Appellant’s role at FKD was introduced into evidence. He testified that he had no written employment contract and that the job description was the only documentation he had regarding the terms of his employment at FKD. He testified that the job description was a reasonable, but not comprehensive, description of his employment. The job description does not contain anything regarding any requirement to work away from the office, to travel or to bear any expenses in connection with the foregoing. The job description does state that the employee must hold a valid British Columbia driver’s license and have a reliable vehicle, but the Appellant testified that this was likely a reference to the odd meeting or errand outside the office.
+[8] An employment agreement (the “Arthon Employment Agreement”) relating to the Appellant’s role at Arthon was introduced into evidence. The Arthon Employment Agreement indicated that the Appellant was required to attend work at the Arthon offices in Kelowna during regular business hours Monday through Friday. It also stated that “[o]vertime is expected but will not be compensated as the Controller is considered a management position and is therefore exempt”. The Arthon Employment Agreement also stated that “[s]hould travel be necessary for the Employee’s employment, reasonable coverage of flights, vehicles, and hotel expenses will be afforded to the Employee. LOA or a food allowance may also be available. Employees using personal vehicles for company activities will be reimbursed on a per-kilometer basis.” There was no evidence that Arthon reimbursed the Appellant for the use of his vehicle for his trips to and from Kimberley.
+[9] None of the evidence adduced indicated that the Appellant was paid in whole or in part by way of commission.
+III. The T2200s [10] The Appellant produced a Form T2200 from FKD for the 2021 taxation year and a Form T2200 from Arthon for the 2022 taxation year. No Form T2200 from Arthon was produced for the 2021 taxation year. The Appellant indicated that he filled these forms out for signature, and signatures were provided by the relevant person at his employer. Both Form T2200s indicated the following, in relevant part:
+In response to the question “Did this employee’s contract require them to pay their own expenses while carrying out the duties of employment?”, the “yes” box was ticked off, with a notation stating “had to be in the local area” (for FKD) or “required to be in the Kelowna area” (for Arthon).
+In response to the question “Did you normally require this employee to travel to locations that were not your place of business, or between different locations of your places of business, during the course of performing their employment duties”, the “no” box was ticked off.
+In response to the question “Did you normally require this employee to be away for at least 12 consecutive hours from the municipality and metropolitan area (if there is one) of your business where the employee normally reported for work?”, the “no” box was ticked off.
+In response to the questions “Did this employee receive or were they entitled to receive a motor vehicle allowance?”, “Did this employee have the use of a company vehicle?” and “Was the employee responsible for any of the expenses incurred for the company vehicle?”, the “no” boxes were ticked off.
+In response to the question “Did you require this employee to pay for expenses for which they did or will receive a reimbursement?”, the “no” box was ticked off. In response to the question “Did you require this employee to pay other expenses for which they did not receive any allowance or reimbursement?”, the “no” box was ticked off, and a notation was included stating “had to be in the local Salmon Arm area to be in the Salmon Arm office Monday to Friday” (for FKD) and “required to have accommodations in the Kelowna area” and “Required to have accommodations in Kelowna to be able to work in the Kelowna office” (for Arthon). The Appellant testified that the handwritten notations were his, and that he had submitted the altered T2200s to his employers for signature.
+In response to the question “Did this employee’s contract of employment require them to rent an office away from your place of business?”, the “rent an office away from your place of business” language was crossed out, replaced in handwriting by “required to be in the Salmon Arm office to perform the job duties” (for FKD) and “required to have accommodations in the Kelowna area to be in the Kelowna office Monday to Friday” (for Arthon).
+In response to the questions “Did this employee’s contract of employment require them to pay for supplies that the employee used directly in their work? pay for the use of a cell phone?”, the “no” boxes were ticked off.
+In response to the question “Did you require the employee to use a portion of their home for work?”, the “no” box was ticked off.
+IV. Legal Framework [11] Subsection 8(2) of the Act provides that an employee may not deduct any expenses in computing income from an office or employment unless such deductions are explicitly permitted by section 8 of the Act. Accordingly, in order to deduct any expenses relating to employment, the employee must satisfy the requirements of the relevant parts of section 8 of the Act.
+V. Vehicle Mileage [12] I turn first to the claim for vehicle mileage. The potentially relevant provision here is paragraph 8(1)(h.1) of the Act. It reads as follows:
+8(1) In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto…
+(h.1) where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer’s place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for motor vehicle expenses that was, because of paragraph 6(1)(b), not included in computing the taxpayer’s income for the year, or
+(iv) claims a deduction for the year under paragraph 8(1)(f);
+[13] One of the requirements for deductibility under this provision is that the taxpayer must ordinarily be required to carry on the duties of the office or employment away from the employer’s place of business or in different places, and was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment.
+[14] With respect to the requirement that the taxpayer ordinarily be required to carry on the duties of the office or employment away from the employer’s place of business or in different places, the Reply assumes that the Appellant was not required to carry on his employment duties away from FKD’s or Arthon’s place of business, and that the Appellant did not travel as part of his employment duties. No evidence was adduced to contradict these assumptions, and therefore I adopt these factual assumptions as findings of fact.
+[15] Further, as stated by the Federal Court of Appeal in Daniels v The Queen, 2004 FCA 125 at paragraph 7, “[i]t is well established that travel expenses incurred by a taxpayer in travelling to and from his home to his place of work are considered personal expenses. They are not travelling costs encountered in the course of the taxpayer’s duties. Rather, they enable him to perform them.” Similarly, in Hogg v The Queen, 2002 FCA 177, the Federal Court of Appeal at paragraph 13 states that “the words ‘motor vehicle expenses incurred for travelling in the course of the office’ necessarily require that these expenses be incurred by the taxpayer while performing the duties of his office”. And see, more recently, Mason v The Queen, 2022 TCC 65.
+[16] The Appellant argued that I should distinguish his situation from those considered in Daniels, Hogg and Mason on the basis that his claims relate to distances that were far in excess of the distances in issue in all of those cases. I acknowledge this distinction, but do not see that this distinction is relevant to the principle articulated in these cases. These cases generally provide that expenses incurred by an employee to get to work are not deductible, but expenses incurred by an employee while performing his or her duties of employment potentially (provided other requisite conditions are met) are deductible. Notwithstanding that the Appellant had to travel farther than the appellants in these other cases, the expenses in issue are all still expenses incurred by the Appellant to get to work, not expenses incurred in the performance of his employment duties. Accordingly, I find that the motor vehicle expenses claimed by the Appellant are not expenses “for travelling in the course of the office or employment”, as contemplated by paragraph 8(1)(h.1).
+[17] Furthermore, subsection 8(10) imposes an additional requirement. It states:
+An amount otherwise deductible for a taxation year under paragraph (1)(c), (f), (h) or (h.1) or subparagraph (1)(i)(ii) or (iii) by a taxpayer shall not be deducted unless the taxpayer’s employer confirms in prescribed form that the conditions set out in the applicable provision were met in the year in respect of the taxpayer and the form is filed with the taxpayer’s return of income for the year.
+[18] The Form T2200s provided by the Appellant do not indicate that the Appellant was normally required to travel to locations that were not the employer’s place of business, or between different locations of the employer’s places of business, in the course of performing his duties of employment. The T2200s also indicate that the Appellant’s employer did not require the Appellant to pay other expenses for which he did not receive any allowance or reimbursement. (I also note that no T2200 was produced with respect to the Appellant’s employment with Arthon in 2021.) The notations on the T2200s to the effect that the Appellant was required to be in Salmon Arm/Kelowna do not confirm that the particular conditions of paragraph 8(1)(h.1) of the Act have been met, and therefore the requirement in subsection 8(10) has not been satisfied.
+[19] As the requirements of paragraph 8(1)(h.1) have not been met, nor have the requirements of subsection 8(10) been met, I must deny the Appellant’s claim for vehicle mileage.
+VI. Lodging Expenses [20] The two provisions under which the Appellant could potentially deduct his lodging expenses are paragraph 8(1)(h) and subparagraph 8(1)(i)(ii) of the Act. They state in relevant part as follows:
+8(1) In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto…
+(h) where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer’s place of business or in different places, and
+(ii) was required under the contract of employment to pay the travel expenses incurred by the taxpayer in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year (other than motor vehicle expenses) for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for travel expenses that was, because of subparagraph 6(1)(b)(v), 6(1)(b)(vi) or 6(1)(b)(vii), not included in computing the taxpayer’s income for the year, or
+(iv) claims a deduction for the year under paragraph 8(1)(e), 8(1)(f) or 8(1)(g);
+(i) an amount paid by the taxpayer in the year, or on behalf of the taxpayer in the year if the amount paid on behalf of the taxpayer is required to be included in the taxpayer’s income for the year, as
+…(ii) office rent, or salary to an assistant or substitute, the payment of which by the officer or employee was required by the contract of employment…
+[21] In addition, subsection 8(13) imposes a further requirement for expenses sought to be deducted under paragraph 8(1)(i):
+(13) Notwithstanding paragraphs 8(1)(f) and 8(1)(i),
+(a) no amount is deductible in computing an individual’s income for a taxation year from an office or employment in respect of any part (in this subsection referred to as the “work space”) of a self-contained domestic establishment in which the individual resides, except to the extent that the work space is either
+(i) the place where the individual principally performs the duties of the office or employment, or
+(ii) used exclusively during the period in respect of which the amount relates for the purpose of earning income from the office or employment and used on a regular and continuous basis for meeting customers or other persons in the ordinary course of performing the duties of the office or employment…
+[22] And, again, subsection 8(10) requires that a T2200 confirming that the conditions of the relevant provision have been met must be obtained.
+[23] Beginning with paragraph 8(1)(h), that provision could potentially apply to some types of lodging expenses, but would apply only where the taxpayer was ordinarily required to carry on the duties of the office or employment away from the employer’s place of business or in different places, and was required under the contract of employment to pay the travel expenses incurred by the taxpayer in the performance of the duties of the office or employment. These requirements are virtually identical to the requirements in paragraph 8(1)(h.1) already reviewed above. As concluded above, the Appellant was not ordinarily required to carry on the duties of his employment away from his employer’s place of business or in different places in respect of either FKD or Arthon, and amounts expended by the Appellant to enable him to work in Salmon Arm or Kelowna are not expenses incurred in the performance of the duties of his employment. Accordingly, the requirements of paragraph 8(1)(h) have not been met. In addition, the T2200s do not confirm that the particular requirements of paragraph 8(1)(h) were met, and therefore the requirement in subsection 8(10) has not been met. Accordingly, the Appellant’s lodging expenses are not deductible under paragraph 8(1)(h).
+[24] Turning to subparagraph 8(1)(i)(ii), that provision potentially allows a deduction for office rent. Given that the Appellant testified that he regularly worked from his Enderby and Kelowna apartments, I considered whether a portion of the rent for those apartments could be deductible under this provision.
+[25] I begin with subsection 8(10) which, again, provides that the taxpayer’s employer must confirm in prescribed form, the T2200, that the conditions of subparagraph 8(1)(i)(ii) were met. Here, as stated above, the question in the T2200s intended to support a deduction under this provision – namely “Did this employee’s contract of employment require them to rent an office away from your place of business?”, the “rent an office away from your place of business” - was crossed out, replaced in handwriting by “required to be in the Salmon Arm office to perform the job duties” (for FKD) and “required to have accommodations in the Kelowna area to be in the Kelowna office Monday to Friday” (for Arthon). Similarly, in response to the question “Did you require this employee to pay other expenses for which they did not receive any allowance or reimbursement?”, the “no” box was ticked off, and a notation was included stating “had to be in the local Salmon Arm area to be in the Salmon Arm office Monday to Friday” (for FKD) and “required to have accommodations in the Kelowna area” and “Required to have accommodations in Kelowna to be able to work in the Kelowna office” (for Arthon). (And again I also note that no T2200 was produced with respect to the Appellant’s employment with Arthon in 2021.) As this language does not confirm the conditions in subparagraph 8(1)(i)(ii), the requirement in subsection 8(10) was not met, and no deduction under subparagraph 8(1)(i)(ii) may be allowed for any portion of the Appellant’s rent.
+[26] Although I have concluded that no portion of the rent for the Enderby or Kelowna apartments may be deducted by the Appellant, I briefly address several other aspects of subparagraph 8(1)(i)(ii) for completeness. Beginning with subparagraph 8(1)(i)(ii) itself, no employment agreement containing a requirement to rent an office was presented in respect of FKD. In respect of the Kelowna apartment, the Arthon Employment Agreement does not contemplate that the Appellant was required to rent an office. That being said, in respect of his employment at Arthon, the Appellant testified that if he did not work outside office hours, there would be significant repercussions, and indeed the Arthon Employment Agreement supports that interpretation. I find that the Arthon Employment Agreement required that the Appellant work after hours. Although there was no evidence regarding the availability of the employer’s offices for after hours work, in my view the Arthon Employment Agreement contains an implicit term that the Appellant was required to work from home, if and as necessary, notwithstanding the content of the T2200 from Arthon. See Hoedel v The Queen (1986), 86 DTC 6535 (FCA) and Mason regarding implicit terms of an employment agreement. In addition, the Appellant testified that he estimated that the area of the Kelowna apartment used for work purposes constituted approximately 1/3 of the entire apartment.
+[27] Another relevant provision here is subsection 8(13), which provides that a deduction for expenses in respect of any part of a self-contained domestic establishment is not available unless the relevant work space is either the place where the individual principally performs the duties of the office or employment or used exclusively during the period in respect of which the amount relates for the purpose of earning income from the office or employment and used on a regular and continuous basis for meeting customers or other persons in the ordinary course of performing the duties of the office or employment. In this case, the Enderby work space does not meet the standards of subsection 18(13) as the Appellant also used the kitchen to eat his meals. However, the Appellant testified that he used the living room of his Kelowna apartment exclusively for work, and that he attended virtual meetings with Arthon colleagues from there, ranging in frequency from once every 2-3 weeks to several times per week.[1] Given that the case law on this issue is extremely fact-driven, this issue was not raised directly by the parties at trial and therefore factual context relating to this issue was only explored briefly during testimony, and given that I am able to decide deductibility under subparagraph 8(1)(i)(ii) on another basis, I decline to decide whether the Appellant’s virtual meetings were sufficient to constitute regular and continuous meetings with colleagues for purposes of subsection 8(13) of the Act.
+VII. Hydro and Internet Expenses [28] In large part, an analysis of the deductibility of the Appellant’s hydro and internet expenses is similar to that undertaken regarding the deductibility of the Appellant’s rent. Indeed, the analysis of potential deductibility of hydro and internet under paragraph 8(1)(h) is generally the same as the analysis above relating to the deductibility of rent under paragraph 8(1)(h); accordingly, for the reasons set out above, as applicable, I find that the Appellant’s hydro and internet expenses are not deductible under paragraph 8(1)(h).
+[29] I considered whether hydro and internet expenses could be deductible under subparagraph 8(1)(i)(iii), which reads as follows:
+(i) an amount paid by the taxpayer in the year, or on behalf of the taxpayer in the year if the amount paid on behalf of the taxpayer is required to be included in the taxpayer’s income for the year, as
+…(iii) the cost of supplies that were consumed directly in the performance of the duties of the office or employment and that the officer or employee was required by the contract of employment to supply and pay for …
+[30] Again, subsection 8(10) requires a T2200 to confirm that the conditions of this provision have been met and, again, the T2200s do not provide such confirmation. As noted above, in response to the question “Did this employee’s contract of employment require them to pay for supplies that the employee used directly in their work?”, the “no” box was ticked off. (And again I also note that no T2200 was produced with respect to the Appellant’s employment with Arthon in 2021.) Accordingly, the Appellant’s hydro and internet expenses cannot be deducted under subparagraph 8(1)(i)(iii) notwithstanding my finding that the Arthon Employment Agreement required the Appellant to work from home. I also note that there was no evidence regarding an allocation of internet costs as between employment and personal usage, and therefore even if the T2200 provided the appropriate confirmation for deductibility under subparagraph 8(1)(i)(iii), the fact that personal usage of the internet was admitted but no evidence of allocation between personal and employment usage of the internet was adduced leaves me unable to conclude that any particular portion of the Appellant’s internet usage was consumed directly in the performance of the Appellant’s employment duties.
+[31] I acknowledge the difficult personal situation of the Appellant. Regrettably, I do not have jurisdiction to render a decision on the grounds of fairness or equity where such a decision is not in accordance with the provisions of the Act. (See, among many examples, Chaya v The Queen, 2004 FCA 327.)
+[32] For these reasons, I dismiss the appeal, without costs.
+Signed this 23rd day of June 2026.
+“Lara Friedlander”
+Friedlander J.
+CITATION:
+2026 TCC 116
+COURT FILE NO.:
+2024-2430(IT)I
+STYLE OF CAUSE:
+KENNETH ALLAN PAETZ v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Cranbrook, British Columbia
+DATE OF HEARING:
+April 7, 2026
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lara G. Friedlander
+DATE OF JUDGMENT:
+June 22, 2026
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Lilian Mai Potvin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Marie-Josée Hogue
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] I also note that the Reply assumes that the Appellant did not use the work space in the home regularly and continually for in-person meetings with clients, customers, or other people while doing their work, but makes no assumptions regarding virtual meetings.

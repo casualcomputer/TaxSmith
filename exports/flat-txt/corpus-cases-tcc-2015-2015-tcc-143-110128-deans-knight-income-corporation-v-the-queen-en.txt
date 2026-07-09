@@ -1,0 +1,160 @@
+Title: Deans Knight Income Corporation v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110128/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-143-110128-deans-knight-income-corporation-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-06-11
+
+# Deans Knight Income Corporation v. The Queen
+
+- Citation: 2015 TCC 143
+- Decision date: 2015-06-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2741, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Deans Knight Income Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-06-11
+Neutral citation
+2015 TCC 143
+File numbers
+2014-4148(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-4148(IT)G
+BETWEEN:
+DEANS KNIGHT INCOME CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on June 3, 2015 at Vancouver, British Columbia
+Before: The Honourable Justice David E. Graham
+Appearances:
+Counsel for the Appellant:
+Michel H. Bourque and
+Heather R. Diregorio
+Counsel for the Respondent:
+Robert Carvalho
+Perry Derksen and
+Sara Fairbridge
+ORDER
+The Appellant’s motion to strike all or various portions of the Reply is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada this 11th day of June 2015.
+“David E. Graham”
+Graham J.
+Citation: 2015TCC143
+Date: 20150611
+Docket: 2014-4148(IT)G
+BETWEEN:
+DEANS KNIGHT INCOME CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Graham J.
+[1] The Appellant and others engaged in various transactions in 2008 and 2009. When it filed its tax returns for its taxation years ending December 31, 2009 to 2012, the Appellant claimed certain non-capital losses, a terminal loss and certain scientific research & experimental development expenditures (collectively, the “Claimed Amounts”). The Claimed Amounts arose in a period prior to the transactions in question. The Minister of National Revenue reassessed the Appellant to deny the Claimed Amounts on the basis that they had been lost as a result of an acquisition of control of the Appellant or, alternatively, that the general anti-avoidance rule acted to prevent the Appellant from claiming them. The Appellant appealed those reassessments and the Respondent filed a Reply.
+[2] The Appellant has brought a motion to strike the Reply on the grounds that it discloses no reasonable grounds for opposing the appeal. In the alternative, if I do not find that the Reply as a whole discloses no reasonable grounds for appeal, then the Appellant is seeking to strike those portions of the Reply that I find disclose no reasonable grounds for opposing the appeal and to strike certain other paragraphs of the Reply that it finds are irrelevant or prejudicial.
+Legal Test [3] The test for striking a pleading is set out by the Supreme Court of Canada in Knight v. Imperial Tobacco Canada Ltd., 2011 SCC 42 (S.C.C.) at paragraph 17:
+...A claim will only be struck if it is plain and obvious, assuming the facts pleaded to be true, that the pleading discloses no reasonable causes of action: Odhavji Estate v. Woodhouse, 2003 SCC 69, [2003] 3 S.C.R. 263, at para. 15; Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959, at p. 980. Another way of putting the test is that the claim has no reasonable prospect of success. Where a reasonable prospect of success exists, the matter should be allowed to proceed to trial: see, generally, Syl Apps Secure Treatment Centre v. B.D., 2007 SCC 38, [2007] 2 S.C.R. 83; Odhavji Estate; Hunt; Attorney General of Canada v. Inuit Tapirisat of Canada, [1980] 2 S.C.R. 735.
+[4] The Appellant asserts that it is plain and obvious that the Respondent cannot succeed on either its acquisition of control or GAAR arguments.
+Acquisition of Control [5] In the Reply, the Respondent takes the position that an acquisition of control occurred for two different reasons. First, the Respondent argues that a certain agreement that was entered into was a unanimous shareholders agreement that resulted in an acquisition of control of the Appellant. Second, the Respondent argues that a third party acquired a right to purchase shares of the Appellant that was the type of right described in paragraph 251(5)(b) of the Income Tax Act and thus that there was an acquisition of control of the Appellant. I will deal with each of these issues separately.
+Unanimous Shareholders Agreement [6] The Reply states that the Minister made the following assumptions of fact:
+(a) On February 27, 2008, the Appellant became a wholly owned subsidiary of Forbes Medi-Tech Inc. (“Newco”)[1].
+(b) Newco held 34,412,000 shares of the Appellant[2].
+(c) On March 18, 2008, 1250280 Alberta Ltd. (“Smallco”) purchased 100 shares of the Appellant[3].
+(d) On March 19, 2008, the Appellant, Newco and a company named Matco Capital Ltd. (“Matco”) entered into an investment agreement (the “Investment Agreement”)[4].
+(e) The Investment Agreement placed a large number of restrictions on the actions that the Appellant and Newco could take without the prior written consent of Matco[5].
+(f) The Investment Agreement was a unanimous shareholder agreement under the Business Corporations Act (Canada) and, in particular, was lawful, was in writing, was entered into by all of the shareholders of the Appellant and restricted, in whole or in part, the powers of the Appellant’s directors to manage or supervise the management of its business and affairs[6].
+[7] The Appellant submits that the assumption set out in (f) above contradicts the assumptions set out in (c) and (d) above. The Appellant says that the Investment Agreement could not have been entered into by all of the shareholders of the Appellant because Smallco was a shareholder and the parties who were described as entering into the Investment Agreement did not include Smallco. The Appellant therefore argues that it is plain and obvious that the Respondent cannot succeed in arguing that the Investment Agreement was a unanimous shareholders agreement which resulted in an acquisition of control. The Appellant submits that, if the Respondent wants to claim some other mechanism by which Smallco could have become a party to the Investment Agreement (e.g. through the agency of one of the other parties or through the signature of its sole shareholder appearing on the agreement albeit as a signatory on behalf of one of the other parties) the Respondent should have pled that mechanism specifically rather than waiting to flesh out her position after discovery.
+[8] The Respondent agrees that, for an agreement to be a unanimous shareholders agreement, all of the shareholders of the company in question must be parties to it. However, the Respondent says it has pled that all of the shareholders of the Appellant were parties to the Investment Agreement (see (f) above). The Respondent argues that the question of whether the assumption set out in (d) above is inconsistent with the idea that Smallco is a party to the Investment Agreement is a question best resolved by the trial judge. The Respondent asserts that it may be that the Respondent may not agree that the Appellant, Matco and Newco were the sole parties to the Investment Agreement. The Respondent clearly intends to argue at trial that Smallco became a party to the Investment Agreement through some other means but does not want to commit to that position at this time.
+[9] In considering this Motion, I must take the facts as pled by the Respondent to be true. Since the Respondent has pled that all of the shareholders of the Appellant were parties to the Investment Agreement, it is not plain and obvious to me that the Respondent cannot succeed in arguing that the Investment Agreement was a unanimous shareholders agreement that resulted in an acquisition of control. This is true regardless of the fact that the Respondent has drafted the Reply in a manner that leaves the Appellant unable to determine the basis upon which the Respondent claims that Smallco was a party to the Investment Agreement[7]. Accordingly I dismiss the Appellant’s motion to strike the Respondent’s unanimous shareholders agreement argument.
+Paragraph 251(5)(b) [10] Paragraph 251(5)(b) states that, where a person has a right to acquire shares of a corporation in certain circumstances, the person shall be deemed to own those shares for the purpose of determining control of the corporation. The Respondent takes the position that Matco held a right to acquire shares within the meaning of paragraph 251(5)(b).
+[11] The Reply states that the Minister made the following assumptions of fact:
+(a) Under the Investment Agreement, Matco “would pay the guaranteed amount of $800,000 less applicable adjustments for any” shares of the Appellant remaining outstanding one year after the date of closing of the agreement[8].
+(b) On April 16, 2009, Matco made an offer to purchase the remaining common shares of the Appellant from Newco for the adjusted guaranteed amount as per the Investment Agreement[9].
+(c) On April 20, 2009, Matco’s offer to purchase the remaining common shares of the Appellant held by Newco was accepted[10].
+(d) By virtue of the contractual rights associated with the Investment Agreement described in (a) above and some convertible debentures that it also held, Matco acquired a right to acquire all of the voting shares of the Appellant[11].
+[12] The Appellant argues that the assumptions in (b) and (c) above are inconsistent with the concept of a right to acquire shares. The Appellant says the fact that Matco offered to purchase the shares and Newco accepted that offer means that Matco cannot have had the right to acquire the shares from Newco, merely the right to offer to acquire them. Counsel for the Appellant admitted that he has not been able to find any cases that define what a right to acquire shares is. In Sedona Networks Corporation v. The Queen[12] the Federal Court of Appeal held that “[a]n option to acquire a share is a right that fits within the scope of paragraph 251(5)(b)” but did not define the parameters of that scope. The Appellant asserts that the term right to acquire shares must, at least, be limited to situations where the person disposing of the shares has no say in the matter. The Appellant cited a number of non-tax cases which described options to purchase as being unilateral rights[13].
+[13] The Respondent argues that the assumption set out in (d) above is a sufficient factual basis for it to support its position that Matco had a right to acquire shares of the Appellant. I am unwilling to rely on that assumption for the purposes of this Motion. It is a statement of mixed fact and law that simply states the legal conclusion that the Respondent wishes the Court to reach. At trial, the Court will have to determine whether Matco had a right to acquire the shares. The Respondent cannot simply assume that conclusion.
+[14] In the alternative, the Respondent argues that the assumptions set out in (a), (b) and (c) above are capable of supporting a conclusion that Matco had a right to acquire shares of the Appellant. The Respondent points out that the trial judge will have the opportunity to review all of the documents including the Investment Agreement and thus will be in a better position to decide whether Matco had a right to acquire shares or not. The Respondent also asserts that since the Courts have not, to date, been asked to determine what a right to acquire shares is, it is difficult to see how it could be plain and obvious that the Respondent’s position could be wrong.
+[15] I agree with the Respondent. While the Appellant’s position that a right to acquire shares must be a unilateral right appears to be strong, I am not prepared to conclude that it is plain and obvious that the Respondent could not convince a trial judge who had reviewed all of the evidence that whatever rights Matco may have received under the Investment Agreement were rights to acquire shares of the Appellant within the meaning of paragraph 251(5)(b). Accordingly I dismiss the Appellant’s motion to strike the Respondent’s paragraph 251(5)(b) argument.
+GAAR [16] The Respondent asserts that the Appellant entered into a series of transactions that could “reasonably be considered to have resulted directly or indirectly in an [sic] misuse of subsections 37(6.1), 111(5), 111(5.1), 127(9) and 127(9.1), and paragraphs 37(1)(h) and 111(1)(a) or an abuse having regard to the provisions of the Act read as a whole relating to the transfer of losses and control” and thus that GAAR should apply to deny the tax benefits claimed by the Appellant[14]. At paragraph 18 of the Reply, the Respondent highlights the existence of certain policies and provisions of the Act which she says have been misused or abused:
+(a) the general policy of the Act is to prohibit the transfer of losses between arm’s length parties, subject to certain express and permissive exceptions;
+(b) subsection 111(5) (and also the related provisions in respect of the Tax Attributes under subsections 111(4), 111(5.1), 37(6.1) and 127(9.1) of the Act) is an anti-avoidance provision designed to prevent arm’s length loss trading from an unrelated business and represents an exception to the general policy of the Act;
+(c) subsection 256(8) is an anti-avoidance provision designed to ensure the acquisition of control rules apply where effective control of a corporation was been acquired; and
+(d) subsection 251(5)(b) is one of a number of sections of the Act which attempts to ensure that a person with effective control of a corporation will be considered to control the corporation.
+[17] The Appellant asserts that none of the policies highlighted by the Respondent is applicable to its situation. The Appellant says that while there may be a general policy under the Act to prohibit the transfer of losses between arm’s length parties, no losses have been transferred in its case as the losses in question were, at all times, the losses of the Appellant. The Appellant says that while there may be a general policy under the Act to prohibit the continuation of losses where there has been an acquisition of control and the same or similar business is not continued, in its case there was no acquisition of control so it is irrelevant that the same or similar business was not carried on. Accordingly, the Appellant asserts that it is plain and obvious that the Respondent cannot succeed in its GAAR argument.
+[18] I disagree with the Appellant’s position. The object, spirit or purpose of the provisions in question is something that the trial judge has to determine. It is not something that simply comes from the object, spirit or purpose that has been culled from the Act by judges in previous GAAR cases. It can hardly be said that the courts have completed an exhaustive analysis and description of the object, spirit and purpose of all provisions in the Act. As a result, I find it very difficult to conceive how it could ever be said that it was plain and obvious that the Respondent could not succeed on a GAAR argument in respect of a series of transactions of a type that had not previously been ruled upon. By its very nature, the misuse or abuse test in GAAR is something that can only be determined after the detailed analysis that a trial permits. Accordingly I dismiss the Appellant’s motion to strike the Respondent’s GAAR argument.
+Striking Specific Paragraphs [19] The Appellant submits that, if I am not going to strike the Reply as a whole or the individual arguments raised by the Respondent, I should nonetheless strike certain paragraphs of the Reply. I decline to do so for the following reasons.
+Overview
+[20] The Reply contains an Overview section. The Appellant submits that I should strike the entire Overview on the basis that such a section is not permitted by the section 49 of the Tax Court of Canada Rules (General Procedure) and contains a mix of facts, argument and law. I disagree, while section 49 does not require the Respondent to include an Overview in the Reply, it does not prohibit her from doing so. In fact, two former Chief Justices have commented favourably on the usefulness of an Overview[15]. By its very nature, an Overview will contain a mix of facts, argument and law. So long as the facts are supported by facts in the appropriate section of the Reply, I see nothing wrong with this.
+Paragraph 2
+[21] Paragraph 2 of the Reply states that Matco “had a history of putting together monetization of tax attribute transactions”. The Appellant submits that this statement is both vexatious and irrelevant. I disagree. The statement would only be vexatious if it were irrelevant and I find that it is not plain and obvious that it is irrelevant. The second step of a GAAR analysis requires a determination of whether one or more transactions were undertaken or arranged primarily for a bona fide purpose other than to obtain a tax benefit. It is not plain and obvious to me that the trial judge would find that Matco’s history of putting together transactions for the purpose of getting at tax attributes was irrelevant when considering that test.
+Paragraph 4
+[22] Paragraph 4 of the Reply states that:
+…[the Appellant] was “cleaned out” of all assets related to [its business] except for the Tax Attributes (with the business being transferred to a new company with the same management and ownership as [the Appellant]) and an investment agreement was entered into which provided for a payment to [the Appellant] for the Tax Attributes and which gave control of [the Appellant] to Matco in order to allow Matco to pursue opportunities to bring in a profitable business to utilize the Tax Attributes.
+[23] The Appellant objects to the words “cleaned out”. The term is certainly colloquial but hardly prejudicial. The words “disposed of” would more likely have been a better choice but I would not say that the use of “cleaned out” crosses the line into being prejudicial, abusive or inflammatory. It is odd that quotation marks are used around the words but, in the context of the Reply as a whole, it is evident that they were used to indicate that the term was a colloquial term rather than to suggest that the assets were not actually transferred. Based on the foregoing I will not strike paragraph 4.
+Paragraph 7
+[24] Paragraph 7 of the Reply states:
+Although cognizant of them, the attempt to avoid the loss streaming rules in the [Act] was unsuccessful as the agreement and arrangements entered into resulted in an acquisition of control of [the Appellant] under the Act.
+[25] The Appellant submits that paragraph 7 should be struck because it is argument and because it fails to identify who was cognizant of the loss streaming rules. I am not going to strike paragraph 7. As set out above, it is perfectly acceptable for an Overview to contain argument. While I agree that paragraph 7 fails to indicate who was cognizant of the loss streaming rules I think it is evident from the rest of the sentence that it is the same person who was attempting to avoid them. That person can only be the Appellant. If the Appellant wants to be certain that my understanding is correct, it can make a demand for particulars.
+Conclusion and Costs [26] Based on all of the foregoing the Motion is denied with costs to the Respondent.
+Signed at Ottawa, Canada this 11th day of June 2015.
+“David E. Graham”
+Graham J.
+CITATION:
+2015TCC143
+COURT FILE NO.:
+2014-4148(IT)G
+STYLE OF CAUSE:
+DEANS KNIGHT INCOME CORPORATION AND THE QUEEN
+PLACE OF HEARING:
+Vancouver, BC
+DATE OF HEARING:
+June 3, 2015
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Graham
+DATE OF ORDER:
+June 11, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Michel H. Bourque and Heather R. Diregorio
+Counsel for the Respondent:
+Robert Carvalho, Perry Derksen and Sara Fairbridge
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Michel H. Bourque
+Firm:
+Burnet, Duckworth & Palmer LLP
+Calgary, Alberta
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Reply paragraph 17(n)
+[2] Reply paragraph17(n)(iv)
+[3] Reply paragraph 17(o). The Respondent also admits the corresponding statement of fact in the Notice of Appeal (Reply paragraph 9 admitting Notice of Appeal paragraph 7)
+[4] Reply paragraph 17(p). The Respondent also admits the corresponding statement of fact in the Notice of Appeal (Reply paragraph 9 admitting Notice of Appeal paragraph 8)
+[5] Reply paragraph 17(r)(ii)
+[6] Reply paragraph 17(gg)
+[7] Kinglon Investments Inc. v. The Queen 2015 FCA 134
+[8] Reply paragraph 17(q)(viii)
+[9] Reply paragraph 17(dd)
+[10] Reply paragraph 17(ee)
+[11] Reply paragraph 17(kk)
+[12] 2007 FCA 169 at paragraph 25
+[13] Hanen v. Cartwright 2007 ABQB 184; Re Nishi Industries Ltd., [1977] 4 WWR 674 (BCSC); and Mason v. Vulcan Machinery & Equipment Ltd. (1977), 4 BCLR 185 (BCSC)
+[14] Reply paragraph 24
+[15] Strother v. The Queen 2011 TCC 251 and Gould v. The Queen 2005 TCC 556

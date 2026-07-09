@@ -1,0 +1,201 @@
+---
+title: "Show Promotions and Personnel Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28182/index.do"
+last_modified: "2003-11-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 866"
+citation2: ""
+neutral_citation: "2003 TCC 866"
+decision_date: "2003-11-26"
+language: "en"
+item_id: "28182"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1963
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:27:10.847000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6ec7aaef93bfb78d5f1690377b9748b490f5fe7d006fa4e6a06e0377eb32244f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Show Promotions and Personnel Inc. v. The Queen
+
+- Citation: 2003 TCC 866
+- Decision date: 2003-11-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1963, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Show Promotions and Personnel Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-26
+Neutral citation
+2003 TCC 866
+File numbers
+2002-2025(EI)
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-2025(EI)
+BETWEEN:
+SHOW PROMOTIONS AND PERSONNEL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 6 and August 7, 2003 at Toronto, Ontario
+Before: The Honourable Justice Terrence O'Connor
+Appearances:
+Counsel for the Appellant:
+Daniel Condon
+Counsel for the Respondent:
+Ruth Dick
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of November 2003.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2003TCC866
+Date: 20031126
+Docket: 2002-2025(EI)
+BETWEEN:
+SHOW PROMOTIONS AND PERSONNEL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] This appeal was heard at Toronto, Ontario on August 6 and 7, 2003.
+[2] The relevant facts and the issue arising therefrom are set forth in the following paragraphs of the Reply to the Amended Notice of Appeal and of the Amended Notice of Appeal and certain contracts between the Appellant (the "Payor") and one, Raymonde Hamel (the "Worker").
+REPLY:
+…
+8. The Appellant appealed a ruling to the Respondent for the determination of the question of whether or not Raymonde Hamel (the "Worker") was employed in insurable employment, while engaged by the Appellant for the period from July 10, 2000 to September 29, 2001, within the meaning of the Employment Insurance Act (hereinafter the "Act").
+9. By letter dated April 24, 2002, the Respondent informed the Appellant that it had been determined the Worker's engagement with the Appellant, during the period in question, was insurable employment for the reason that the Worker was employed pursuant to a contract of service.
+10. In making his decision, the Respondent relied on the following assumptions of fact:
+a) The Appellant is involved in designing, staffing and managing sales marketing programs across North America, at airports, in stores and at special events such as trade and consumer shows;
+b) The Appellant's clients include major corporations such as the Canadian Imperial Bank of Commerce ("CIBC"), Primus Canada, Volkswagen Audi, Citizens Bank of Canada and AT & T (the "clients");
+c) The Appellant provides personnel who represent its clients in various types of sales and marketing programs;
+d) The Worker was hired by the Appellant, during the period under review, to promote CIBC Aerogold VISA credit card applications;
+e) The Worker performed the services for the Appellant at a booth operated by the Appellant at Dorval International Airport;
+f) The Worker performed the services from 7:00 A.M. to 1:00 P.M., Mondays to Fridays, and occasionally she worked weekends;
+g) The Worker was required to follow instructions, procedures and rules of conduct determined by the Appellant;
+h) The Worker was required to perform the services personally for the Appellant; [the Appellant denies this]
+i) The Worker was required to submit a CIBC Aeroplan VISA daily submissions' report indicating the number of applications received during the day;
+j) The Worker was obliged by the Appellant to sign a Non-Competition Agreement;
+k) The Appellant could and did in fact terminate the Worker's services at anytime;
+l) The Worker was paid $20.00 by the Appellant for each application obtained, which fee was adjusted based on the approval rate of the applications;
+m) The promotional booth, the furnishings, the equipment and the materials were provided to the Worker by the Appellant;
+n) The Worker did not incur any expenses in the performance of her duties.
+...
+AMENDED NOTICE OF APPEAL:
+…
+7. The Worker was able to determine the hours she worked by successfully bidding on those hours against other subcontractors. The bid was awarded by the Appellant based on demand and based on the contractor's sales performance.
+8. The Worker was successful in bidding for work shifts to promote CIBC Aerogold Visa credit card applications at Dorval International Airport.
+9. It was standard practice that if the Worker did not wish to perform any contract on which she had bid, it could be assigned to any other Worker who had executed similar agreements with the Appellant. [Not "it could be assigned to" rather "could be replaced by"]
+10. The Worker promoted the CIBC applications from a kiosk located in the airport, ... She was free to determine her own sales strategy without interference. The only parameters were that she follow the code of conduct and provide the correct product information.
+11. The kiosks are owned by the Clients. The space on which the kiosks are located are leased by the Appellant from the airport.
+12. The Worker incurred her own out-of-pocket expenses without reimbursement for clothes, transportation and other incidentals.
+13. The Worker was paid commission based on sales results.
+14. The Worker was paid $20.00 by the Appellant for each approved application obtained. If applications she submitted were not approved or accepted by the bank, the Worker did not get paid.
+15. Workers submit daily submission sheets, from which a weekly log is created. Biweekly payments are made based on a percentage of the applications obtained according to that log. After the Appellant receives confirmation from the Client of the approval of the applications, Workers are paid the balance owed. Workers then issue an invoice as proof of payment.
+16. The Appellant terminated the subcontract with the Worker on October 1, 2001.
+…
+ISSUE
+[3] The issue is whether the Worker was employed in insurable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (the "Act").
+Facts
+[4] The Worker and the Payor entered into certain contracts namely:
+THE BASIC CONTRACT
+Exhibit A-1 is the basic contract entered into between the Payor and the Worker on July 23, 2000 and Exhibit A-2 is essentially the same contract entered into on June 3, 2001. In these basic contracts, which were for a term of one year from the dates thereof the Worker is referred to as "Talent" and the Payor is referred to as "SPP".
+[5] The following are pertinent provisions of these contracts, namely – either party can terminate this agreement upon 14 days written notice without costs. Notwithstanding anything to the contrary contained herein, in the event of a material breach of the Talent's obligations herein, this Agreement can be terminated without notice by SPP. Also the following excerpts provide further details of these contracts.
+1. Talent understands that fees quoted to talent [sic] and agreed upon prior to an assignment are final and non-negotiable. Talent is an independent contractor and not an employee of SPP for any purpose. Talent, where applicable will provide SPP with A Business & GST number. Talent invoices SPP for payment after each assignment and is responsible for submitting payments for all federal, provincial taxes, UIC contributions and other applicable deductions.
+2. Talent understands that all fees are negotiated solely with SPP and never directly with clients. (Clients means companies, corporations, sole-proprietorships, organizations or persons who use or are negotiating to use the services of SPP).
+3. During the term of this agreement and renewal, Talent shall not disclose any proprietary information, private confidential affairs or trade secrets of SPP to any person or third party other than for SPP's purposes, nor shall Talent use for any purpose, other than those of SPP, any private confidential information or trade secret Talent has or may acquire in relation to SPP's business.
+4. Talent covenants and agrees during the term of this agreement and for 12 months after its termination, regardless of how that termination should occur, not to directly or indirectly solicit business from any clients of SPP introduced to the talent by SPP, nor with any other potential clients, exhibitors or companies that Talent comes in contact with as a result of work performed by Talent for SPP or SPP's clients.
+5. Talent understands that a booking is confirmed at the time of her/his acceptance of an assignment. No cancellations are permitted. Talent agrees that funds may be withheld for any cancellations which may cause damages or loss of income to SPP.
+6. …
+7. …
+8. …
+9. Talent agrees that he/she has been given ample and sufficient opportunity to consult with independent legal advice with regard to the meaning and effect of the terms and conditions stated herein, as evidenced by his/her initials below.
+…
+10. This agreement expresses the entire and final agreements between the parties with respect to all the matters herein and supersedes all previous representations, statements and promises. It shall not be altered, amended or qualified except by a memorandum in writing signed by the parties hereto.
+[6] Exhibit A-2 is another version of the basic contract. It is substantially the same as Exhibit A-1 with the following exceptions. The Payor is referred to in Exhibit A-2 as SPP and the Worker is referred to as "Contractor". With respect to termination, Exhibit A-2 states as follows:
+…
+The Term of This Agreement is one year from the above date and if not terminated prior to that date is automatically renewable for a further term of one year. Either party can terminate this agreement at any time with or without notice.
+[7] The Worker and Payor also entered into Code of Ethics Agreements dated July 23, 2000 and August 20, 2001 (Exhibits A-3 and A-4), the essentials of which are that the Worker will present herself in a well-groomed manner, wearing uniform including photo I.D. badge and other airport security identification required by the airport authority. The Code of Ethics Agreements also states that the Worker states that "it is my responsibility as an independent contractor to ensure that I comply with and adhere to all municipal by-laws and codes as they relate to direct sales." The Code of Ethics also contain provisions outlining how the Worker is to carry out her sales functions from the kiosks in the airport.
+[8] Other agreements and documentation provide for confidentiality, non‑competition and other matters between the Worker and the Payor, principally related to how the Worker was to behave and carry out her duties.
+SUBMISSIONS
+[9] The Appellant submits that the Worker was engaged under a contract for services, i.e. as an independent contractor. Counsel for the Respondent submits that the arrangement was a contract of employment, i.e., a contract of services.
+ANALYSIS AND DECISION
+[10] The basic criteria for determination of the issue in question are control, ownership of tools, chance of gain, risk of loss and whether the Worker was an integral part of the operations of the Payor. No one factor is to govern and the entire relationship between the parties must be examined.
+[11] The basic contracts signed by the parties are a prime consideration but do not establish a presumption nor are they definitely determinative of the issue. As stated, the entire relationship between the parties must be examined. However, in Wolf v. Canada (C.A.), [2002] 4 F.C. 396, the Federal Court of Appeal per Noël J.A. stated as follows:
+...This was a case where the characterization placed by the parties on their relationship ought to be given great weight. In a close case such as the present one, where the relevant factors point in both directions with equal force, the parties' contractual intent, and in particular their mutual understanding of the relationship could not be disregarded. As the parties considered that they were engaged in an independent contractor relationship and as they acted in a manner consistent with this relationship, it was not open to the Tax Court Judge to disregard their understanding.
+Also in Bradford v. M.N.R., 88 DTC 1661 Taylor, T.C.J. stated at page 11 of the decision :
+The general principle that commends itself to me arising out of this appeal and the recent jurisprudence noted is that under a given set of circumstances within which there are certain aspects of 'employee', some others of 'independent contractor', and even others that are somewhat ambiguous, that the intentions and objectives of the parties, if clearly and unequivocally stated and agreed upon, should be a prime factor in the determination of the Court...
+[12] With respect to control although there were various elements of control related to how the Worker was to carry out her operations and how to dress, in my opinion most of the provisions in the contracts and the way the operations were carried out, in effect were more or less guidelines to the Worker, not strictly proof of control. The Worker could choose her hours and, in fact did so. Although specific shifts were established, the Worker had the ability to choose the shifts she would work. The evidence is not conclusive as to the degree of supervision or control. On balance however, the control test, in my opinion, points to a contract for service i.e. an independent contract relationship.
+[13] With respect to supervision, counsel for the Appellant indicates that it was not really supervision but rather coordination by co-workers, mostly with respect to picking up the applications and arranging for their remittance to the Payor for payment purposes.
+[14] The conclusion is that although there were considerable guidelines and restrictions some of these are normal and to be expected in a relationship of this nature. Generally speaking the Worker was relatively unsupervised, i.e., uncontrolled and although it is a close call the aspect of control, or absence thereof, favours the conclusion that there was an independent contract, i.e., a contract for service as opposed to a contract of service.
+[15] With respect to ownership of tools, the Worker furnished very little, if any. The kiosk, signs and application forms were all furnished by CIBC. The space for the kiosks was rented to the Payor and as mentioned the Worker provided very little tools. Counsel for the Appellant submits that the skills of the Worker are to be considered as tools but I do not agree with that submission. In any event, the tools test is not as significant in an analysis of a kiosk sale operation as it would be in an analysis of construction contracts and other contracts involving physical work. In any event the tools test points to a contract of service.
+[16] With respect to chance of gain, it is clear that the more sales the Worker generated the more she was paid i.e. more gain. Less sales meant less gain. On balance, the chance of gain is an indication that the Worker was an independent contractor. There was no fixed remuneration. If she did not make sales she did not get any pay. In my opinion that is a strong indicator that there was a contract for services, i.e, an independent contractor relationship.
+[17] With respect to risk of loss, there was very little risk of loss for the Worker. Admittedly she had certain expenses relative to clothes, transportation and parking but these are certainly not clearly indicative of an independent contractor relationship. Any one who goes to work has to bear similar expenses. The conclusion is that the loss aspect points to a contract of service i.e., an employee relationship.
+[18] With respect to integration the question to be answered is whose business was it and that is to be answered from the point of view of the Worker. From a profit stand point the Worker fully realized that if her efforts were successful and her skills proved themselves she would earn money. Her efforts also produced advantages for the CIBC because applications and credit cards being issued would provide future business and earnings for CIBC. Of course the relationship between CIBC and the Payor must be considered, in other words, the Payor stood to gain from CIBC through the efforts of the Worker in obtaining applications for CIBC's Visa card. The integration test is not conclusive in my opinion. When one examines the facts of the advertising, the type of kiosk, the uniform worn by the Worker one would form the impression that the Worker was probably working for CIBC. That perception by the public does not govern the outcome but it should be considered as a factor in an analysis of "whose business was it". The Worker was engaged by the Payor but the work she did favoured not only herself via commission but also the Payor because CIBC paid the Payor certain fees based on credit card applications submitted.
+[19] Having considered all elements I believe that importance must be given to the written contracts, which are structured in such a way to purposely make the Worker an independent contractor with the benefits flowing to the Payor, namely, no deductions and no contributions for Employment Insurance and Canada Pension. On this issue, the fact that an arrangement is structured in such a way as to best benefit the parties is not the end of the matter. The parties are free to structure their arrangement as best suits their purposes. The parties have freely chosen to label their relationship as one of an independent contractor and as mentioned, that fact deserves consideration although not in itself conclusive. (Note the above references to Wolf and Bradford.)
+[20] Another factor that I consider quite significant is the aspect of commission. It is unusual in a contract of employment for the Worker not to have some assurance of being paid whether hourly, weekly, monthly or otherwise or on the basis of piece work.
+[21] In conclusion, as mentioned, some of the tests point one way and some of the tests point another way but in my opinion on a balance of probabilities I find that the Worker was engaged under a contract for services, namely, an independent contract which is exactly what the contracts are labelled. In applying tests especially the aspects of minimal control, the two-way indication from the integration test, the wording of the basic contracts and the aspect of the commission method of payment, in my opinion the Worker was engaged under a contract for services. Consequently the appeal is allowed and the determination of the Minister is vacated.
+Signed at Ottawa, Canada this 26th day of November 2003.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2003TCC866
+COURT FILE NO.:
+2002-2025(EI)
+STYLE OF CAUSE:
+Show Promotions and Personnel Inc. and H.M.Q.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 6 and 7, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice O'Connor
+DATE OF JUDGMENT:
+November 26, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Daniel Condon
+Counsel for the Respondent:
+Ruth Dick
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Daniel Condon
+Firm:
+Wilson, Vukelich
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

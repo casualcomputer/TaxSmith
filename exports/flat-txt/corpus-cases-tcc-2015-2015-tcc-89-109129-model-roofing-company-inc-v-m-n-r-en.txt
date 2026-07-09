@@ -1,0 +1,184 @@
+Title: Model Roofing Company Inc. v. M.N.R
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/109129/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-89-109129-model-roofing-company-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2015-04-13
+
+# Model Roofing Company Inc. v. M.N.R
+
+- Citation: 2015 TCC 89
+- Decision date: 2015-04-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2859, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Model Roofing Company Inc. v. M.N.R
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-04-13
+Neutral citation
+2015 TCC 89
+File numbers
+2014-1610(CPP), 2014-1611(EI)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2014-1611(EI)
+2014-1610(CPP)
+BETWEEN:
+MODEL ROOFING COMPANY INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+TEMESGHEN ZERU,
+Intervenor.
+Appeals heard on March 25, 2015, at Calgary, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+Hagos Desta
+Counsel for the Respondent:
+Paige MacPherson
+For the Intervenor:
+The Intervenor himself
+JUDGMENT
+The Appeals pursuant to subsection 103(1) of the Employment Insurance Act and subsection 28(1) of the Canada Pension Plan are allowed and the Minister of National Revenue’s decision is vacated on the basis that Temesghen Zeru was not in insurable or pensionable employment.
+Signed at Ottawa, Canada, this 13th day of April 2015.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2015 TCC 89
+Date: 20150413
+Dockets: 2014-1611(EI)
+2014-1610(CPP)
+BETWEEN:
+MODEL ROOFING COMPANY INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+TEMESGHEN ZERU,
+Intervenor.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] These Employment Insurance and Canada Pension Plan cases concern the status of the working relationship between the Appellant, Model Roofing Company Inc. (“Model Roofing”) and the Intervenor, Mr. Zeru. Mr. Zeru and the Respondent maintain that Mr. Zeru was employed by Model Roofing as an employee, while Mr. Desta, the owner of Model Roofing, maintains Mr. Zeru was an independent contractor. Regrettably, the Appellant and the Invervenor have had a falling out, as Mr. Zeru has sued Model Roofing for close to $20,000. The Parties seemed more concerned in addressing this aspect of their dispute than putting their minds to the real issue before me, being the true nature of Mr. Zeru’s work with Model Roofing for several months in 2012.
+[2] There were serious issues of credibility in this case; a prime example was the introduction of invoices which both Mr. Zeru and Mr. Desta denied preparing. I am satisfied from a review of the invoices that Mr. Zeru is lying when he claims he did not prepare the invoices and that in fact he did prepare those invoices. I reached this conclusion for two reasons. First, the invoices purportedly from Mr. Zeru to Model Roofing, numbered 716-721, indicate that payments were made by both cheque and cash, as well as indicating amounts of tax that were deducted. Mr. Desta’s position, on behalf of Model Roofing, is that Model Roofing never paid by cash and that it never deducted any tax. It makes no sense that he would prepare this type of invoice for Mr. Zeru to submit to Model Roofing. Second, three invoices numbered 722, 726, and 733, from Mr. Zeru to another roofing company, Cameron Roofing, are numbered subsequent to the invoices to Model Roofing, notwithstanding they are for periods of time (February to April 2012) which are prior to the time periods of the invoices to Model Roofing, being May to October 2012. No, Mr. Zeru has been caught in a web of deception. Given my finding with respect to his lack of credibility, I do not accept any of his testimony. I prefer that of Mr. Desta. Unfortunately, there was something of a language barrier and, as this was an informal procedure case, I allowed Mr. Desta’s wife to translate where necessary. Both the Respondent’s counsel and Mr. Zeru agreed to allow Mr. Desta’s wife to translate.
+[3] The Respondent’s counsel took Mr. Desta through all the Minister of National Revenue (the “Minister”) assumptions, which I will repeat, indicating where Mr. Desta’s testimony differed.
+a) The Appelant’s sole shareholder was Hagos Desta;
+b) Hagos Desta controlled the day-to-day operations of the Appellant’s business;
+c) The Appellant operated a roofing business in Calgary, Alberta;
+d) The Appellant’s customers were primarily residential;
+e) The Appellant’s business did not have set hours of operation;
+f) The Worker was not related to the Appellant;
+g) The Worker was hired by the Appellant under a verbal agreement to work as a roofer;
+h) The Worker was an experienced roofer at the time he was hired by the Appellant;
+i) The Worker’s duties included the following:
+i) Removing and disposing of old shingles;
+ii) Cleaning roof surfaces;
+iii) Hauling materials onto roofs; and
+iv) Installing new shingles.
+j) The Worker was hired for an indefinite period of time. Mr. Desta clarified that the work was on a job-by-job basis;
+k) The Worker worked for the Appellant on a continuous basis from May 1, 2012 to October 15, 2012. No, according to Mr. Desta, there were two gaps during this period when the Worker worked elsewhere, for example, with Cameron Roofing;
+l) The Worker was not a member of a trade union;
+m) The Appellant assigned the work to the Worker;
+n) The Appellant set the timeframes for completion of the work. No, according to Mr. Desta, there was no time set as such: it was just a matter of getting the work done;
+o) The Worker worked as part of a crew or alone, as determined by the Appellant;
+p) The Appellant provided the Worker with rides to and from the jobsite on a daily basis;
+q) The Worker was not allowed to decide which jobs to work on. Again, Mr. Desta clarified that he simply gave Mr. Zeru a job and he did it. Mr. Zeru could refuse a job if he so wanted.
+r) The Appellant set the Worker’s schedule. Again, Mr. Desta clarified that it was on a job-by-job basis. He did acknowledge, however, that he gave Mr. Zeru a ride to work when Mr. Zeru did work for Model Roofing;
+s) The Appellant determined the Worker’s hours of work. No, according to Mr. Desta, it was Mr. Zeru’s choice what hours he worked. It was up to the owner of the property being roofed when the roofers could start, and they would simply work until the job was done;
+t) Both the Appellant and the Worker tracked the Worker’s hours of work. No, according to Mr. Desta, they just worked until the job was done;
+u) The Worker recorded his daily hours on a calendar. I do not accept Mr. Zeru’s testimony in this regard that he did record his daily hours on a calendar;
+v) The Appellant determined the method and frequency of the Worker’s remuneration. No, according to Mr. Desta, Mr. Zeru would be paid when he provided an invoice;
+w) The Worker performed his duties at the Appellant’s clients’ premises;
+x) The Appellant supervised the Worker in the performance of his duties. No, Mr. Zeru was not supervised during the day;
+y) The Appellant addressed customer concerns and inspected work completed by the Worker;
+z) The Appellant provided the tools, equipment and supplies required by the Worker to perform his duties, at no cost to the Worker.
+aa) The tools and equipment provided by the Appellant included a nail gun, hammer, shovel, garbage bins and a helmet. Mr. Desta testified that some of this equipment came from the main contractor;
+bb) The Worker provided his own work gloves and a knife;
+cc) The Appellant was responsible for the maintenance and repairs of the tools and equipment it provided to the Worker;
+dd) The Worker was required to provide his services personally;
+ee) The Worker could not hire helpers or assistants. Mr. Desta indicated that Mr. Zeru could in fact hire helpers or assistants;
+ff) The Worker could not subcontract his work to another party. According to Mr. Desta, Mr. Zeru could subcontract his work;
+gg) The Appellant was responsible for hiring and remunerating replacement workers. According to Mr. Desta, if Mr. Zeru did not show up for work, Mr. Desta simply did the work;
+hh) The Worker was paid on an hourly basis for the services provided. No, according to Mr. Desta, Mr. Zeru was paid according to the number of bundles of tiles he roofed;
+ii) The Worker’s rate of pay was $17.00 per hour. No, it was not.
+jj) The Appellant determined the Worker’s pay rate. Yes, Mr. Desta determined the Worker’s pay but it was not on an hourly basis but on a basis of the number of bundles of tiles;
+kk) The Worker submitted invoices to the Appellant;
+ll) The Appellant withheld income tax from the Worker’s earnings. No, Mr. Desta testified that he did not do that;
+mm) The Worker was paid in cash and by cheque. No, according to Mr. Desta, he was paid by cheque only;
+nn) The Worker could turn down work offered by the Appellant;
+oo) The Worker could work for competitors of the Appellant;
+pp) The Worker did not incur any expenses in performing his services for the Appellant. Mr. Desta clarified that Mr. Zeru had to pay for his knife and gloves;
+qq) The Appellant provided liability insurance for the Worker. According to Mr. Desta, Model Roofing did not provide such insurance.
+rr) The Appellant guaranteed the quality of the work;
+ss) The Worker was not entitled to any bonuses or profit-sharing;
+tt) The Appellant’s intention was that the Worker performed his services as a sub-contractor;
+uu) The Worker’s intention was that he performed his services as an employee of the Appellant. I am not satisfied that was in fact Mr. Zeru’s intention at the outset. I will have more to say on that later;
+vv) The Worker did not have a trade name or business licence;
+ww) The Worker did not advertise his services;
+xx) The Worker did not have business cards;
+yy) The Worker was registered for the GST/HST, effective May 1, 2012;
+zz) The Worker did not charge the Appellant GST/HST. According to Mr. Desta, Mr. Zeru was in fact charged GST and he did pay it.
+[4] As I have concluded that Mr. Zeru’s testimony is unreliable, I rely entirely on Mr. Desta’s explanation of the facts surrounding Mr. Zeru’s work with Model Roofing.
+[5] Since the Federal Court of Appeal in 1392644 Ontario Inc. o/a Connor Homes v The Minister of National Revenue[1] the courts have undertaken the two‑step approach to the employment versus independent contractor analysis. First, determine if there is a mutual intention between the parties to the agreement, and, if so, review the usual factors (control, ownership of tools, chance of profit/risk of loss and any other relevant factors) in the context of this mutual intention. Clearly, Mr. Desta, on behalf of the Appellant, intended there to be an independent contractor arrangement. He charged GST, did not make source deductions and simply had no intention that Mr. Zeru was to be an employee. Mr. Zeru, at trial, claims he was an employee. He suggested that obtaining a GST number, shortly before he started with Model Roofing, was for another business which he never actually undertook. I do not believe him. He claims he never prepared invoices. I do not believe him. Notwithstanding his position at trial, an objective view of his behaviour in 2012 suggests to me he did indeed intend to have independent contractor status.
+[6] So, viewing the working relationship through the mutual intention of independent contractor status, can the traditional factors support such status? I believe they can.
+CONTROL [7] As the Supreme Court of Canada indicated in the case of 671122 Ontario Ltd. v Sagaz Industries Canada Inc.,[2] control is always a significant factor, yet here, where the worker, Mr. Zeru, is an experienced roofer, it is not particularly helpful to look at the most common control factor being daily supervision of how the work is performed. Mr. Zeru did not require such supervision and indeed there was none. The Crown therefore points to several other factors that suggest control by the Appellant:
+1. Inspection of the work at the conclusion of the job. I do not see why such inspection anymore reflects employment than independent contractor. I would assume a main contractor would inspect the work regardless of who actually performed it.
+2. The Appellant was responsible to the client for the quality of the work.
+3. The Appellant set the schedule. With respect, my understanding is that the Appellant would get a job and the schedule would be set more by the client and the nature of the work. According to Mr. Desta, the workers would simply work on the job until concluded.
+4. The rate of pay was determined by the Appellant. While Mr. Desta did acknowledge he set the price per bundle there was no detailed account of how this was done or whether it was an industry norm for example.
+[8] I accept that from a review of these factors alone there is some slight favouring of an employment arrangement, but only slight. But then I consider the following factors:
+1. Mr. Zeru could refuse a job.
+2. Mr. Zeru could work for competitors and, in fact, he did work for a competitor.
+3. Mr. Zeru was not required to track his hours.
+4. Mr. Zeru could hire helpers or sub-contractors although he did not do that.
+[9] I find these factors more than offset the factors relied upon by the Respondent and, viewed through the prism of a mutual understanding of independent contractor status, firmly support that independent contractor status.
+TOOLS [10] Mr. Zeru provided gloves and a knife while Model Roofing provided directly, or through the main contractor, the nail gun and remaining necessary roofer tools. The Crown acknowledged that in the industry, roofer tools are often provided by the main contractor. This factor does however favour employment.
+CHANCE OF PROFIT [11] Given payment was by the bundle of tiles as opposed to an hourly wage, this is more compatible with business venture and the ability of someone in business to increase profit. It points to an independent contractor arrangement rather than employment. Further, Mr. Zeru could increase profits by working for competitors, which he did.
+RISK OF LOSS [12] While Mr. Zeru had little expenses, he could choose simply not to work.
+[13] The financial factors taken together are neutral though, viewed through the lens of an independent contractor understanding, they do not fly in the face of independent contractor status.
+[14] On balance, I conclude Mr. Zeru was not an employee of Model Roofing and, therefore, the Appeals are allowed and the Minister’s decision is vacated on the basis that Mr. Zeru was not in insurable or pensionable employment.
+Signed at Ottawa, Canada, this 13th day of April 2015.
+“Campbell J. Miller”
+C. Miller J.
+CITATION:
+2015 TCC 89
+COURT FILE NOS.:
+2014-1611(EI), 2014-1610(CPP)
+STYLE OF CAUSE:
+MODEL ROOFING COMPANY INC. AND MINISTER OF NATIONAL REVENUE AND TEMESGHEN ZERU
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+March 25, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+April 13, 2015
+APPEARANCES:
+Agent for the Appellant:
+Hagos Desta
+Counsel for the Respondent:
+Paige MacPherson
+For the Intervenor:
+The Intervenor himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2013 CarswellNat 663, 2013 FCA 85.
+[2] 2001 SCC 59.

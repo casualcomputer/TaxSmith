@@ -1,0 +1,143 @@
+---
+title: "R & S Industries Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/230909/index.do"
+last_modified: "2017-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 75"
+citation2: ""
+neutral_citation: "2017 CCI 75"
+decision_date: "2017-05-05"
+language: "fr"
+item_id: "230909"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2152
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:31:13.231000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "24d7d221809bf82d3eb9d0cd94c4427d8ed0f4b9e5a5b42610625457552f89ca"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# R & S Industries Inc. c. La Reine
+
+- Citation: 2017 CCI 75
+- Decision date: 2017-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2152, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+R & S Industries Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-05-05
+Référence neutre
+2017 CCI 75
+Numéro de dossier
+2014-3997(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-3997(IT)G
+ENTRE :
+R & S INDUSTRIES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 30 mars 2017 à Edmonton (Alberta)
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Avocat de l’appelante :
+Me Darryl R. Antel
+Avocate de l’intimée :
+Me Donna Tomljanovic
+ORDONNANCE
+La requête est rejetée. Les dépens de cette dernière suivront l’issue de la cause.
+L’intimée déposera une réponse au plus tard le 30 juin 2017.
+Signé à Ottawa (Canada), ce 5e jour de mai 2017.
+« David E. Graham »
+Juge Graham
+Référence : 2017 CCI 75
+Date : 20170505
+Dossier : 2014-3997(IT)G
+ENTRE :
+R & S INDUSTRIES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Graham
+[1] L’intimée a déposé une requête en vue de faire annuler l’appel de R &S Industries Inc. (« R & S »), au motif que la Cour n’a pas compétence pour l’entendre.
+[2] En 2005, R & S a transféré ses activités à une société en commandite appelée Big Eagle Limited Partnership (« Big Eagle »). Les parties ont décidé que les dispositions de roulement du paragraphe 97(2) de la Loi de l’impôt sur le revenu s’appliqueraient au transfert. R & S a produit avec sa déclaration le formulaire de choix T2059, et le ministre a établi la cotisation de R & S en se fondant sur la déclaration produite.
+[3] Le ministre s’est rendu compte par la suite que les conséquences fiscales des montants choisis sur le formulaire T2059 étaient différentes de celles que R & S avait indiquées dans sa déclaration de revenus. Il a donc établi une nouvelle cotisation à l’endroit de R & S de façon à inclure dans son revenu des montants élevés.
+[4] La principale question en litige dans la présente requête consiste à savoir si la Cour a compétence pour entendre l’appel.
+[5] Le formulaire T2059 comporte plusieurs volets. L’un d’eux est les renseignements factuels de base au sujet des parties, de l’opération et des biens transférés. Cet élément du formulaire n’est pas contesté.
+[6] Un deuxième volet du formulaire T2059 est le choix que font les parties d’un « montant convenu » pour chacun des biens transférés. Ce volet du formulaire n’est pas contesté. R & S et l’intimée conviennent toutes deux que R & S et Big Eagle sont liées par les montants convenus qui sont indiqués sur le formulaire T2059, sous réserve du dépôt d’un choix modifié. Étant donné que le ministre a rejeté la demande de R & S et de Big Eagle concernant le dépôt d’un choix modifié au titre du paragraphe 96(5.1) et que la Cour fédérale a rejeté leur demande de contrôle judiciaire concernant la décision du ministre, R & S n’est pas en mesure de déposer un choix modifié. La Cour n’a pas compétence pour ordonner au ministre d’accepter un tel choix. Par son appel, R & S ne peut donc pas changer les montants convenus que Big Eagle et elle ont inscrits sur le formulaire de choix.
+[7] Un troisième volet du formulaire T2059 est la description que font les parties de divers faits importants relatifs aux transferts. Ces faits importants comprennent la juste valeur marchande des biens transférés, le nombre et la valeur des participations reçues pour le transfert, de même que le type et la valeur de la contrepartie autre que des participations (ou « non-participations ») qui a été reçue pour le transfert. Les paragraphes 97(2) et 85(1) prévoient que le montant convenu que choisissent les parties à un roulement est modifié dans certaines situations de fait. Les faits importants que comporte le troisième volet du formulaire T2059 permettent au ministre de déterminer si ces dispositions s’appliqueront de manière à modifier le montant convenu ou non. C’est sur ce troisième volet du formulaire T2059 que R & S et l’intimée ne s’entendent pas.
+[8] R & S est d’avis que la répartition de la contrepartie entre les participations et les non-participations qui ont été indiquées sur le formulaire T2059 ne reflètent pas la répartition réelle dont R & S et Big Eagle ont convenu. R & S prévoit que, si la présente affaire donne lieu à un procès, elle sera en mesure de produire suffisamment d’éléments de preuve pour convaincre la Cour que la répartition réelle était différente et qu’il y aurait donc lieu d’établir à son endroit une nouvelle cotisation fondée sur cette répartition.
+[9] Selon l’intimée, un contribuable ne peut se servir d’un appel devant la Cour canadienne de l’impôt pour contester la répartition de la contrepartie entre des participations et des non-participations sur un formulaire T2059. Elle soutient qu’étant donné que ces montants peuvent avoir pour effet de modifier indirectement le montant convenu par l’application du paragraphe 85(1), le fait d’autoriser un contribuable à changer ces montants autorise en fait ce dernier à modifier le choix qu’il a fait. L’intimée soutient également que la répartition de la contrepartie indiquée sur le formulaire T2059 fait partie du choix et qu’elle ne peut donc pas être modifiée autrement que d’une manière conforme au paragraphe 96(5.1).
+[10] Je ne suis pas d’accord avec la position de l’intimée. À mon avis, le seul aspect au sujet duquel le paragraphe 85(1) oblige les parties à une opération à faire un choix est le montant convenu. Il ne fait aucun doute que les faits importants qui sont indiqués sur le formulaire T2059 sont essentiels pour permettre au ministre de déterminer correctement si les diverses dispositions du paragraphe 85(1) s’appliquent de manière à modifier le montant convenu. Cependant, il y a une nette différence entre le montant convenu et les faits importants. Le montant convenu est un montant que choisissent les parties à l’opération. Le ministre ne peut pas modifier le montant convenu, autrement que d’une manière conforme aux dispositions du paragraphe 85(1). Par contraste, les faits importants sont des déterminations factuelles. Par exemple, les parties à une opération peuvent indiquer que la juste valeur marchande de la contrepartie autre qu’une participation est de X $. Cependant, le simple fait d’indiquer X $ sur le formulaire T2059 ne veut pas dire que la juste valeur marchande est de X $. Cela signifie simplement que les parties croient qu’elle est de X $. Si le ministre n’est pas d’accord avec cette évaluation, il lui est loisible d’établir une nouvelle cotisation en prenant pour base une évaluation différente. Le fait d’agir ainsi peut, par l’application du paragraphe 85(1), modifier le montant convenu, mais cela n’est pas la même chose que si le ministre changeait simplement le montant convenu. L’intimée ne conteste pas que si, dans cet exemple, le contribuable n’était pas d’accord avec la juste valeur marchande sur laquelle le ministre s’était fondé pour établir une nouvelle cotisation, le contribuable pourrait s’opposer à la nouvelle cotisation établie et, en fin de compte, la porter en appel. En faisant ainsi appel, le contribuable ne pourrait pas faire état de la juste valeur marchande indiquée dans son formulaire T2059. Il aurait à produire des éléments de preuve concernant cette juste valeur marchande. Comme dans toute affaire d’évaluation, la Cour ne serait liée ni par le chiffre avancé par le ministre ni par le chiffre avancé par le contribuable. En définitive, la juste valeur marchande serait celle que fixerait la Cour, en se fondant sur la totalité de la preuve.
+[11] D’autres faits importants, tels que la répartition de la contrepartie entre les biens transférés, ne diffèrent pas de la juste valeur marchande. Le ministre n’est pas lié par les faits importants qui sont indiqués sur le formulaire T2059 et il peut, s’il n’est pas d’accord, établir une nouvelle cotisation. Dans le même ordre d’idées, il est loisible aux contribuables de s’opposer à ces nouvelles cotisations et de les porter en appel.
+[12] Le ministre est lié par le montant convenu parce qu’il s’agit d’une chose que les parties ont choisie. Il n’est pas lié par les faits importants, car les faits sont les faits; ils existent indépendamment du choix effectué. Si le ministre n’est pas lié par les faits importants qui sont indiqués dans le choix, pourquoi donc les parties à l’opération seraient-elles liées par eux?
+[13] Il ne fait aucun doute qu’un contribuable aurait à livrer une lutte difficile devant le tribunal pour essayer de prouver qu’un fait important que les deux parties à l’opération ont attesté comme véridique sur le formulaire T2059 ne l’est pas en réalité. Mais cela ne veut pas dire qu’il n’est pas loisible au contribuable d’essayer de le faire. Plus important encore, cela ne veut pas dire que la Cour n’a pas compétence pour entendre un tel appel.
+[14] Au vu de tout ce qui précède, la requête de l’intimée en vue de faire annuler l’appel pour défaut de compétence est rejetée.
+[15] L’intimée soutient subsidiairement qu’il manque des précisions importantes dans l’avis d’appel modifié. Elle soutient, plus exactement, que cet avis d’appel n’indique pas la contrepartie totale que R & S dit avoir payée, ni la manière dont cette contrepartie est répartie entre les divers biens. Elle ajoute que, si je rejette sa requête en annulation de l’appel pour défaut de compétence, il me faut néanmoins radier l’appel au motif que l’appelante n’est pas parvenue, après ce qui équivaut à une triple tentative, à faire état d’un motif d’appel raisonnable. Je conviens qu’il manque certains renseignements importants dans l’avis d’appel modifié et qu’il est nécessaire de fournir des précisions supplémentaires, mais je ne suis pas disposé à radier l’appel pour cette raison. À l’audition de la requête, R & S a admis que la contrepartie totale était de 39 931 772 $. Plutôt que d’obliger l’intimée à déposer une demande de précisions, j’ai informé les parties que, si je me prononçais en faveur de R & S dans le cadre de la requête, je lui ordonnerais de fournir à l’intimée des précisions présentées sous la forme indiquée à la page 3 du formulaire T2059, afin d’illustrer la position de R & S quant à la répartition de la contrepartie qu’envisageaient R & S et Big Eagle. R & S a depuis ce temps fourni ces précisions à l’intimée, de sorte qu’il n’est pas nécessaire que je lui donne l’ordre de le faire.
+[16] L’intimée aura jusqu’au 30 juin 2017 pour déposer une réponse à l’avis d’appel modifié.
+[17] Les dépens de la présente requête suivront l’issue de la cause.
+Signé à Ottawa (Canada), ce 5e jour de mai 2017.
+« David E. Graham »
+Juge Graham
+RÉFÉRENCE :
+2017 CCI 75
+No DU DOSSIER DE LA COUR :
+2014-3997(IT)G
+INTITULÉ :
+R & S INDUSTRIES INC. c LA REINE
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 30 mars 2017
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge David E. Graham
+DATE DE L’ORDONNANCE :
+Le 5 mai 2017
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Darryl R. Antel
+Avocate de l’intimée :
+Me Donna Tomljanovic
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Darryl R. Antel
+Cabinet :
+Moodys Gartner Tax Law LLP
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)

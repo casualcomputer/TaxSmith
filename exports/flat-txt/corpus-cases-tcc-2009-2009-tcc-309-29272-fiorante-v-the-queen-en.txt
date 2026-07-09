@@ -1,0 +1,142 @@
+Title: Fiorante v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29272/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-309-29272-fiorante-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-05-25
+
+# Fiorante v. The Queen
+
+- Citation: 2009 TCC 309
+- Decision date: 2009-05-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7012, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fiorante v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-05-25
+Neutral citation
+2009 TCC 309
+File numbers
+2005-3091(IT)G
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3091(IT)G
+BETWEEN:
+GUISEPPE (JOE) FIORANTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the Motions filed by the Respondent
+in the Appeals of Kathryn Kossow 2005-1974(IT)G, Roy Gould 2004-4449(IT)G and Roy Gould 2006-2188(IT)G by telephone conference call
+on May 25, 2009 at Ottawa, Canada
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Joel A. Nitikman
+Counsel for the Respondent:
+Bruce Senkpiel
+Lynn Burch
+____________________________________________________________________
+ORDER
+Having read the materials filed and heard the submissions of counsel;
+And for reasons set out in the attached Reasons for Order;
+IT IS ORDERED THAT:
+1. Gilles Abrioux be examined on oath or affirmation before the hearing of the appeal pursuant to section 119 of the Tax Court of Canada Rules (General Procedure) (the “Rules”);
+2. Sections 101 to 112 of the Rules shall apply to the examination;
+3. Such examination shall be conducted at the Tax Court of Canada in Toronto, Ontario on June 25, 2009 and recorded on videotape using the facilities of the Court;
+4. The evidence given at the examination be common to this appeal and the appeals of Kathryn Kossow 2005-1974(IT)G; Roy Gould 2004-4449(IT)G and Roy Gould 2006-2188(IT)G (the “Related Appeals”);
+5. The appellants in the Related Appeals shall be entitled to participate in the examination either in person or by videoconference through the videoconferencing facilities available at the Court and the appellants shall be entitled to receive a copy of transcripts, videotapes and recordings of the examination. The cost of such copies shall be paid by the appellants;
+6. The disbursement costs of the examination shall be borne by the Respondent in the first instance subject to an award by the trial judge of such costs;
+7. Other costs of the examination shall be as awarded by the trial judge; and
+8. Costs of the motion shall, in accordance with the attached Reasons, be borne by the Respondent payable forthwith;
+Signed at Vancouver, British Columbia, this 11th day of June 2009.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2009TCC309
+Date: 20090611
+Docket: 2005-3091(IT)G
+BETWEEN:
+GUISEPPE (JOE) FIORANTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Hershfield J.
+Background and Issues
+[1] This is a motion made with respect to four appeals all relating to a particular leveraged donation program. The appeals concern alleged donations made for the purchase of certain art works which ultimately included certain works purchased by a Mr. Abrioux who the Respondent intended to call as a witness at the hearing of each of the appeals.
+[2] The Respondent has asked for an Order pursuant to section 119 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) to examine Mr. Abrioux before the hearing of the appeals. The grounds relied on are as set out in paragraph 119(2)(b) of the Rules which state that this Court, in exercising its discretion to grant the leave sought, shall take into account the possibility that the witness will be unavailable to testify at the hearing by reason of death, infirmity or sickness. The Respondent asserts that to be the case in respect of Mr. Abrioux. The only evidence of this is that Mr. Abrioux is 82 years of age and that an audit team leader observed that he may not be in the best of health. As well, it was noted that there have already been numerous long delays in bringing these appeals to trial and the matter has yet to be set down for trial.
+[3] The Respondent seeks the Order to examine Mr. Abrioux before the hearing of the appeals on the basis that the testimony so taken will be accepted as evidence at the trial of each of these appeals and Mr. Abrioux should not be called to give evidence at the hearing of the appeal. The Respondent relies on section 122 of the Rules in making this request.
+[4] As well, the Respondent has requested that the examination of Mr. Abrioux be by videotaped conference call, that all the appellants be allowed to participate in the examination and that the evidence be common to the appeals of each of them.
+[5] While noting that the risk of Mr. Abrioux not being able to appear at a hearing has not been well established by the Respondent, the appellants did not oppose the motion. Accordingly, there appears to be the necessary consent to the application of section 119 of the Rules. On this basis, I note that the parties can, pursuant to subsection 119(1) of the Rules, proceed under that section without a direction or Order of this Court. However, they do not agree that there should be an Order, or presumption taken from section 122 of the Rules, that by my granting the motion, Mr. Abrioux would thereby not be required to testify at a trial of the appeals even if he was able to do so. This issue (the “Section 122 Issue”) was the main focus of the parties at the hearing of this motion.
+[6] The parties also seek an Order as to costs. There are two sets of costs to deal with. First, there are the costs relating to the hearing of the motion. Secondly, there are the costs of conducting the examination.
+[7] I see little difference between the position of the parties in respect of the costs of conducting the examination although the rationale for their respective views differ. The Respondent, having argued that the examination costs were in lieu of or in the stead of costs that would be incurred at a trial (excepting the costs of the video), moved for an Order that the costs of the examination be reserved to the trial judge. The Appellant argued that the costs of the examination should be reserved to the trial judge, not because they were incurred in lieu of costs that would have risen at trial (since that issue in their view should not yet be determined), but rather because the factors that may be relevant have yet to unfold.
+[8] As to the cost of the motion, the Respondent seeks an Order granting costs in its favour. The Appellant argued that the Respondent, as the party requesting this examination, should bear the cost and that it should not be left to the trial judge. The Respondent argued that the need to bring this motion was greater now than it was a few years earlier and that the delays were the fault of the appellants. Accordingly, the appellants should bear the costs of the motion. I am not satisfied on what is before me that the delays were the fault of the appellants to such an extent as would justify an Order for costs on that basis.
+The Section 122 Issue
+[9] As noted, the Respondent relies on section 122 of the Rules, which, it is suggested, supports an Order that Mr. Abrioux should not be called to testify at any hearing of the appeals. Section 122 reads as follows:
+Use at Hearing
+122. (1) Any party may use at the hearing the transcript and a videotape or other recording of an examination under sections 119 and 121 as the evidence of the witness, unless the Court directs otherwise for any sufficient reason.
+(2) A witness whose evidence has been taken under section 119 or 121 shall not be called to give evidence at the hearing, except with leave of the judge.
+(3) Use of evidence taken under section 119 or 121 is subject to any ruling by the judge respecting its admissibility.
+(4) The transcript and a videotape or other recording may be filed with the Court at the hearing and need not be read or played at the hearing unless a party or the judge requires it.
+[10] This Rule clearly provides that any party may use at the hearing the transcript and a videotape or other recording of an examination under section 119 as the evidence of the witness, unless the Court directs otherwise. No such direction is sought or being made. Further, subsection 122(2) of the Rules provides that a witness whose evidence has been taken under section 119 shall not be called upon to give evidence at the hearing, except with leave of the judge.
+[11] The Respondent seemed to argue that by virtue of subsection 122(2) of the Rules, Mr. Abrioux’s evidence on videotape can be the only evidence allowed at the hearing since the use of the word “shall” suggests the mandatory nature of using only the videotape as evidence. The Respondent argued that the purpose of the motion and subsection 122(2) of the Rules was to ensure efficiency by having the witness testify only once. A better case might be made however that the purpose is to preserve the evidence that might otherwise be lost. Regardless, I can hardly believe that the Respondent is requesting an Order to bind the hands of the trial judge by having it provide that the videotape evidence be accepted as the only evidence to be given at trial. While the parties argued at the hearing as if that was the Order requested, I only see a motion for an Order that the before-hearing testimony of Mr. Abrioux be made available to be tendered and accepted as evidence at the trial. There is nothing in that that suggests an attempt to have me bind the hands of the trial judge.
+[12] Perhaps all that is at issue here is whether section 122 of the Rules changes any common law presumption that this type of testimony, commonly referred to as de bene esse evidence, is in the nature of insurance only. The common law approach is that it can only be used if the witness cannot in fact attend the trial.
+[13] The two cases cited by the Respondent on de bene esse evidence both refer to the common law that an Order for an out of Court examination is made de bene esse so if the witness is alive and well at the time of the trial he must give evidence in that forum.[1] Both such authorities also make it clear that in the case where evidence is heard at trial, any evidence stemming from the out of Court examination would be duly disregarded.
+[14] In Samson, Teitelbaum J. confirmed the de bene esse principle laid out by Hugessen J. in Dene Tsaa First Nation:
+3 However, in the event that Mr. Moore is alive, physically well and available when the Oil and Gas phase comes to trial, he will give his evidence in Court at that time. Any videotapes and transcripts stemming from his out of Court testimony will be duly disregarded. In making this particular, and in my opinion important point, I am guided by the recent Judgment of the Honourable Mr. Justice Hugessen in Dene Tsaa First Nation v. Canada, [2002] F.C.J. No. 1107.
+…
+[15] In Dene Tsaa First Nation v. Canada, [2002] F.C.J. No. 1107 [2], Hugessen J. of the Federal Court (Trial Division) addressed the issue of granting such an Order:
+7 … An order for the out of Court examination of a witness who is in Canada is always made, as we, lawyers, use to say, de bene esse, that is to say, for what it may be worth. If the witness is still alive and still available at the time the case comes on for trial, even if he cannot travel from Fort Nelson, the Court will, I have no doubt, accommodate that and make arrangements to go to Fort Nelson to take his evidence. But if, heaven forbid, Mr. Dickie should be no longer available or able to give evidence when this case finally comes on for trial, and that is likely to be several years hence, the ends of justice would be better served by having what we can of his evidence made available in such form as we can make it rather than depriving the Court of that evidence.
+[16] In Schwartz, Kent J. granted an Appellant’s application to examine two elderly witnesses de bene esse. In granting the application, the Court stated that de bene esse evidence is intended to preserve evidence in case a witness becomes incapable of testifying. If the witness is able to testify at the date of trial, then the witness must appear in person. The Court went on to say:
+12 Finally, and obviously subject to a ruling by the trial judge, if the applicant proposes to tender the videotaped evidence rather than the witnesses themselves, the onus on the applicant will be heavy to prove that the witnesses are not able to testify.
+[17] This takes me back to the position of the appellants who argue that the de bene esse principle is still good law. That is, it was argued that section 122, in spite of its apparently clear language in subsection (2), was not intended to replace the common law de bene esse principle.
+[18] It strikes me that if the appellants want the witness to give fresh evidence at trial they can argue, if the witness is able, for leave from the judge or, as they did at the hearing of the motion, that no such leave is required. While it is not my place to suggest what a trial judge’s response to such an argument might be, I refer the parties to the Ontario Superior Court of Justice decision in Russett v. Bujold.[3]
+[19] That case dealt with a similar rule to section 122 which has been embodied in the rules of the Ontario Superior Court of Justice.[4] It provides a good historical perspective of the rule which it refers to as the “modern rule”. Suffice to say there may be many reasons to grant leave to abandon this modern rule in favour of the common law principle of de bene esse as done in that case. If the witness is able to testify at the trial, the question of granting him leave to do so could consider such factors as costs, credibility, the need for further questioning given the evidence before the Court or the desirability of the judge seeing the witness first hand. One might argue that granting leave on such terms is no different than allowing for the re-examination of a witness as provided for in subsection 144(1) of the Rules.
+Conclusions
+[20] In any event, I am granting the motion for a before hearing examination of Mr. Abrioux without ruling in any way as to the use, if any, to be made of his evidence so given and whether he might be called to testify at the trial if he is able.
+[21] As to costs, I note that the authorities relied on by the Respondent provided no guidance as how costs might be properly and fairly dealt with in this case.
+[22] In Dene Tsaa First Nation the defendant Crown requested that the evidence be taken outside of Court. The motion was allowed and costs were reserved on a “costs in the cause” basis.
+[23] In Samson, the defendant Crown, who requested that the evidence be taken outside of Court had to pay costs of the videotaping. All other costs arising from the examination of the witness were to be addressed at a later date.
+[24] In Schwartz, the applicant plaintiff filed the motion and was ordered to pay taxed costs payable forthwith in respect of the motion.
+[25] In this case, I believe the Respondent’s cautious approach to getting evidence in hand can be presumed to be in the interests of supporting the Crown’s case and accordingly the costs of the motion made somewhat simpler by the Appellant not having contested it per se, should be awarded to the appellants. On the other hand, considering the appellants made no written submissions and appeared to have done little, if any, advance preparation in respect of their argument on the Section 122 Issue, which they raised at the hearing of the motion, I see no reason to award the appellants costs beyond one half of the applicable tariff set out in paragraph 1(1)(c) of Tariff B of the Rules. For greater certainty, such costs payable forthwith by the Respondent shall be payable once for the Appellant Kossow and once for all the other appellants as if they were one party.
+[26] As to the costs of the examination itself, there is too much yet to be learned and decided to award costs to a particular party. Costs of the examination shall be as directed by the trial judge. Disbursements shall in the first instance be borne by the Respondent.
+Signed at Vancouver, British Columbia, this 11th day of June 2009.
+"J.E. Hershfield"
+Hershfield J.
+CITATION: 2009TCC309
+COURT FILE NO.: 2005-3091(IT)G
+STYLE OF CAUSE: GUISEPPE (JOE) FIORANTE AND THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: May 25, 2009
+REASONS FOR ORDER BY: The Honourable Justice J.E. Hershfield
+DATE OF ORDER: June 11, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Joel A. Nitikman
+Counsel for the Respondent:
+Bruce Senkpiel
+Lynn Burch
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Joel A. Nitikman
+Firm: Fraser Milner Casgrain
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Samson Indian Nation and Band v. Canada, [2002] F.C.J. No. 1671 (F.C. Trial Division); Schwartz Estate v. Kwinter, [2008] A.J. No. 548 (Alberta Court of Queen’s Bench District of Calgary).
+[2] Relied on in Samson.
+[3] 2003 CarswellOnt 5501.
+[4] Subsection 36.04(3) of the Ontario Rules of Civil Procedure R.R.O. 1990 Reg. 194.

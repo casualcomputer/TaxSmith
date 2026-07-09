@@ -1,0 +1,184 @@
+Title: Emcon Services Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28870/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-501-28870-emcon-services-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-09-09
+
+# Emcon Services Inc. c. La Reine
+
+- Citation: 2008 CCI 501
+- Decision date: 2008-09-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1313, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Emcon Services Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-09
+Référence neutre
+2008 CCI 501
+Numéro de dossier
+2008-83(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-83(IT)I
+ENTRE :
+EMCON SERVICES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+________________________________________________________________
+Appel entendu à Kamloops (Colombie‑Britannique), le 26 mai 2008.
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Avocat de l'appelante :
+Me Kenneth R. Hauser
+Avocat de l'intimée :
+Me Andrew Majawa
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2005 est rejeté, avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 9e jour de septembre 2008.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 6e jour d'avril 2009.
+Yves Bellefeuille, réviseur
+Référence : 2008 CCI 501
+Date : 20080909
+Dossier : 2008-83(IT)I
+ENTRE :
+EMCON SERVICES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. Les faits
+[1] L'appelante est une société constituée en personne morale sous le régime des lois de la province de la Colombie‑Britannique.
+[2] Pour son exercice ayant pris fin le 31 octobre 2005, l'appelante était tenue de verser des acomptes provisionnels d'impôt de 150 930,83 $ par mois. Ces acomptes provisionnels devaient être versés à compter de novembre 2004.
+[3] Comme le compte d'acomptes provisionnels de l'appelante pour l'exercice prenant fin le 31 octobre 2004 avait un solde créditeur, l'appelante n'a pas fait de versement d'acompte provisionnel avant le 12 septembre 2005 pour son exercice prenant fin le 31 octobre 2005. L'appelante a alors versé 800 000 $.
+[4] Par un avis de cotisation daté du 24 février 2006, l'appelante a fait l'objet d'une cotisation de 1 812 418 $ d'impôt fédéral et provincial pour son exercice prenant fin le 31 octobre 2005.
+[5] L'appelante a déposé un avis d'appel à l'égard de la nouvelle cotisation.
+[6] Avant l'audience, les parties ont déposé un exposé conjoint des faits, qui est ainsi rédigé :
+[TRADUCTION]
+EXPOSÉ CONJOINT DES FAITS
+L'appelante et l'intimée s'entendent sur le présent exposé des faits et sur le recueil conjoint de documents aux fins des présents appels et de tout appel interjeté à l'égard des décisions rendues par la Cour dans les présents appels.
+1. En 2004 et en 2005, Emcon Services Inc. (la « société ») était tenue de payer son impôt sur le revenu par acomptes provisionnels conformément à l'article 157 de la Loi de l'impôt sur le revenu (la « Loi »).
+L'année d'imposition 2004
+2. L'exercice 2004 de la société a pris fin le 31 octobre 2004.
+3. Pour l'année d'imposition 2004, la société devait verser son premier acompte provisionnel mensuel le 30 novembre 2003. La société a versé son premier acompte provisionnel pour l'année d'imposition 2004 le 15 juin 2004; ce versement s'élevait à 2 362 000 $.
+4. Comme la société n'avait versé aucun acompte provisionnel entre le 30 novembre 2003 et le 15 juin 2004, des intérêts sur acomptes provisionnels ont couru à l'égard du solde impayé de la société durant cette période. L'onglet 1 du recueil conjoint de documents est un imprimé de la version électronique du relevé d'intérêts de la société pour l'année d'imposition 2004.
+5. Le versement de 2 362 000 $ fait le 15 juin 2004 était plus important que ce que l'appelante était tenue de payer à cette date; le compte d'acomptes provisionnels de la société présentait donc un solde créditeur. Par conséquent, pour le reste de l'année d'imposition 2004, la société a accumulé des intérêts sur son solde créditeur décroissant, comme le montre l'onglet 1 du recueil conjoint de documents.
+6. Le 23 décembre 2004, la société a fait un deuxième versement, de 500 000 $, à son compte d'acomptes provisionnels pour 2004. Ainsi, pour l'année d'imposition 2004, la société avait versé 2 862 000 $ dans son compte d'acomptes provisionnels pour 2004.
+7. Le 20 avril 2005, l'appelante a produit sa déclaration de revenus T2 pour 2004 (la « déclaration de 2004 »). Dans cette déclaration, l'appelante a déclaré un total d'impôt à payer de 1 841 122 $ à la ligne 770, et elle a déclaré 2 862 000 $ d'impôt payé par acomptes provisionnels; le paiement d'impôt en trop pour cette année-là s'élevait donc à 1 020 878 $ (le « paiement en trop de 2004 »).
+8. La société a inscrit le code de remboursement « 2 » à la ligne 894 de la déclaration de 2004. L'onglet 2 du recueil conjoint de documents est une copie de la déclaration T2 de 2004 produite électroniquement par la société. L'onglet 3 du même recueil est une copie du Guide des acomptes provisionnels pour les sociétés de 2004 publié par l'Agence du revenu du Canada (l'« ARC »).
+9. Par un avis de cotisation daté du 3 juin 2005, la déclaration de 2004 de la société a fait l'objet d'une cotisation (la « cotisation de 2004 »). L'onglet 4 du recueil conjoint de documents est un imprimé de la version électronique de la cotisation de 2004.
+10. La cotisation de 2004 a fait en sorte que la société avait un solde créditeur net de 1 020 878 $ pour l'année d'imposition 2004 à cause du paiement en trop de 2004. Ce paiement en trop a aussi permis à la société d'accumuler des intérêts sur remboursement s'élevant à 13 371,30 $, de sorte que le solde créditeur total de la société pour l'année d'imposition 2004 était de 1 034 249,30 $ (le « solde créditeur de 2004 »).
+11. Dans la cotisation de 2004, le solde créditeur de 2004 était qualifié de « montant transféré ». Il y était aussi indiqué ce qui suit : « Pour donner suite à votre demande, nous avons transféré votre solde créditeur au compte d'acomptes provisionnels de votre prochaine période de déclaration. »
+12. Le solde créditeur de 2004 a été transféré et appliqué à l'année d'imposition 2005 de la société à la date d'établissement de la cotisation de 2004, soit le 3 juin 2005.
+L'année d'imposition 2005
+13. L'exercice 2005 de la société a pris fin le 31 octobre 2005.
+14. Le premier versement mensuel d'acompte provisionnel de la société pour l'année d'imposition 2005 devait être fait au plus tard le 30 novembre 2004. Deux crédits étaient inscrits au compte d'acomptes provisionnels de 2005 de la société :
+a) le solde créditeur de 2004 qui avait été transféré au compte d'acomptes provisionnels de 2005 le 3 juin 2005;
+b) un versement de 800 000 $ fait par la société le 12 septembre 2005.
+15. Après le 30 novembre 2004, des intérêts sur acomptes provisionnels ont commencé à courir sur le compte d'acomptes provisionnels de 2005 de la société parce que le solde créditeur de 2004 n'avait été transféré à l'année d'imposition 2005 que lorsque la cotisation de 2004 a été établie le 3 juin 2005. Les intérêts sur acomptes provisionnels ont continué de courir jusqu'à ce que la société ait fait le paiement du 12 septembre 2005. L'onglet 5 du recueil conjoint de documents est un imprimé de la version électronique du relevé d'intérêts de la société pour l'année d'imposition 2005.
+16. Le versement de 800 000 $ fait le 12 septembre 2005 par la société dépassait ce que la société était tenue de verser à ce moment. Par conséquent, la société a commencé à accumuler des intérêts sur acomptes provisionnels sur son solde créditeur, comme le montre l'onglet 5 du recueil conjoint de documents.
+17. Par un avis de cotisation daté du 24 février 2006, la société a fait l'objet d'une cotisation pour son année d'imposition 2005 (la « cotisation de 2005 »). L'onglet 6 du recueil conjoint de documents est un imprimé de la version électronique de la cotisation de 2005. Selon la cotisation de 2005 :
+a) la société était tenue de payer un montant total de 1 812 418 $ (l'« impôt à payer de 2005 ») pour les impôts fédéral et provincial;
+b) la société était tenue de payer des intérêts sur acomptes provisionnels de 21 897,39 $, des pénalités sur acomptes provisionnels de 741,50 $ et des intérêts sur arriérés de 8,56 $, soit un total de 22 647,45 $ (ensemble, les « intérêts et pénalités de 2005 »);
+c) la somme de l'impôt à payer de 2005 et des intérêts et pénalités de 2005 s'élevait à 1 835 065,45 $;
+d) la société s'est fait créditer un versement de 1 834 249,30 $ sur le solde de 2005; cette somme représentait le solde créditeur de 2004 que l'ARC avait transféré le 3 juin 2005 et le versement de 800 000 $ fait le 12 septembre 2005;
+e) à la date de la cotisation, la société était tenue de verser 816,15 $ pour l'année d'imposition 2005 (1 835 065,45 $ - 1 834 249,30 $).
+18. Avant l'établissement des intérêts et pénalités de 2005, le compte d'acomptes provisionnels de la société avait un solde créditeur de 21 831,30 $.
+La demande en matière d'équité
+19. La société a fait des demandes de premier et deuxième paliers en matière d'équité auprès du ministre en vertu du paragraphe 220(3.1) de la Loi pour lui demander de renoncer aux intérêts et pénalités de 2005 (la « demande en matière d'équité »). Le ministre a refusé la demande de la société, et cette dernière a fait une demande de contrôle judiciaire à la Cour d'appel fédérale à l'égard de la décision du ministre. La procédure de contrôle judiciaire a été suspendue jusqu'à ce qu'une décision soit rendue dans l'appel interjeté par la société auprès de la Cour canadienne de l'impôt. L'onglet 7 du recueil conjoint de documents est une copie de la demande en matière d'équité de la société. L'onglet 8 du recueil est une copie du premier rapport de décision en matière d'équité de l'ARC.
+B. La question en litige
+[7] La question est de savoir si le ministre du Revenu national (le « ministre »), en établissant la cotisation, a eu raison d'imposer les intérêts sur acomptes provisionnels, les pénalités sur acomptes provisionnels et les intérêts sur arriérés pour l'année d'imposition 2005 de l'appelante.
+C. Analyse
+[8] En l'espèce, les sommes en cause sont les suivantes :
+1.
+Intérêts sur acomptes provisionnels
+21 897,39 $
+2.
+Pénalités sur acomptes provisionnels
+741,50 $
+3.
+Intérêts sur arriérés
+8,56 $
+22 647,45 $
+[9] L'avocat de l'appelante soutient que cette dernière a respecté les obligations prévues dans les guides quant au transfert du paiement en trop.
+[10] L'avocat de l'intimée soutient que le ministre a correctement établi la cotisation à l'égard de la société en vertu de la Loi de l'impôt sur le revenu (la « Loi »). L'avocat de l'intimée a affirmé que la Cour canadienne de l'impôt n'a pas compétence pour décider si l'article 221.2 de la Loi aurait dû être appliqué, car les décisions prises en vertu de cette disposition sont distinctes de l'établissement de l'impôt et de l'imposition d'intérêts ou de pénalités.
+[11] L'avocat de l'intimée a affirmé que la compétence de la Cour canadienne de l'impôt se limite à décider du bien‑fondé d'une cotisation. L'avocat a dit que la façon dont un remboursement est versé à un contribuable, ou porté à son crédit, ne fait pas partie de la cotisation, et que la Cour canadienne de l'impôt n'a donc pas compétence pour trancher cette question. Pour appuyer sa position, l'avocat de l'intimée a invoqué la décision Paradis c. La Reine, 2004 CCI 676, qui est ainsi rédigée :
+[3] [...] Conformément à l'article 12 de la Loi sur la Cour canadienne de l'impôt (la « LCCI ») ainsi qu'aux articles 169 et 171 de la Loi de l'impôt sur le revenu, la Cour a uniquement compétence pour annuler ou modifier les cotisations si les montants établis sont erronés. S'ils ne le sont pas, la Cour peut uniquement confirmer la cotisation. Le recouvrement des impôts ou les modalités de remboursement d'impôt ne relèvent pas de la compétence de la Cour en vertu de la législation.
+[4] Comme il en a ci-dessus été fait mention, l'appelant ne conteste pas la validité de la cotisation établie par le ministre du Revenu national (le « ministre ») en ce qui concerne le calcul de l'impôt, des intérêts ou de la pénalité pour son année d'imposition 2002, mais il conteste plutôt la façon dont le gouvernement fédéral a traité son remboursement d'impôt.
+[12] L'avocat de l'intimée a affirmé qu'en l'espèce, l'appelante conteste la façon dont l'Agence du revenu du Canada (l'« ARC ») a traité le remboursement de la société, et qu'elle se trouve à demander à la Cour d'exiger que le ministre le traite différemment. Comme dans Hrab c. La Reine, no 94‑3173(IT)I, 14 février 1996, [1996] 2 C.T.C. 2239 (C.C.I.), on ne se trouve pas à contester la façon dont l'impôt à payer a été calculé par le ministre. On « conteste plutôt la façon dont le contribuable s'acquittera de son obligation fiscale. Il s'agit donc d'une question de perception d'impôt et non de cotisation fiscale ». L'avocat de l'intimée a affirmé que [TRADUCTION] « la Cour n'a pas compétence pour accorder la mesure de redressement demandée ».
+[13] L'avocat de l'intimée a ajouté que la décision du ministre de « réaffecter un montant » relève d'un pouvoir discrétionnaire.
+[14] L'avocat de l'intimée a souligné que la méthode d'interprétation moderne des lois fiscales et des autres lois fait en sorte qu'« il faut lire les termes d'une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s'harmonise avec l'esprit de la loi, l'objet de la loi et l'intention du législateur »[1]. Toutefois, lorsque le texte d'une loi est « précis et non équivoque », la méthode téléologique n'est pas nécessaire; les termes de la loi jouent un rôle primordial, et il suffit d'appliquer la disposition[2].
+[15] L'avocat de l'intimée a aussi affirmé que le ministre n'est pas tenu de réaffecter un montant, car l'article 221.2 de la Loi prévoit que « [...] le ministre peut, à la demande de la personne, affecter [...] ». L'utilisation du verbe « pouvoir » donne au ministre le pouvoir discrétionnaire de faire quelque chose, mais ce mot ne lui impose pas l'obligation de faire cette chose. L'avocat de l'intimée a dit que cette interprétation est conforme au sens ordinaire du verbe « pouvoir », et à la décision de la Cour suprême du Canada dans R. c. Johnson, 2003 CSC 46, au paragraphe 16 : « De prime abord, le verbe “pouvoir” suggère une faculté, alors que l'indicatif présent suppose habituellement l'existence d'une obligation [...] ».
+[16] L'avocat de l'intimée a dit que le fait d'interpréter le verbe « pouvoir » comme donnant un pouvoir discrétionnaire est compatible avec l'article 11 de la Loi d'interprétation, qui est ainsi rédigé : « L'obligation s'exprime essentiellement par l'indicatif présent du verbe porteur de sens principal et, à l'occasion, par des verbes ou expressions comportant cette notion. L'octroi de pouvoirs, de droits, d'autorisations ou de facultés s'exprime essentiellement par le verbe “pouvoir” et, à l'occasion, par des expressions comportant ces notions »[3]. Il a aussi affirmé que, si le législateur avait voulu créer une obligation au moyen de l'article 221.2 de la Loi, il aurait utilisé l'indicatif présent au lieu du verbe « pouvoir ».
+[17] L'avocat de l'intimée a soutenu qu'il n'est pas nécessaire d'avoir recours au contexte de la disposition ou à des aides extrinsèques pour interpréter l'objet des termes précis et non équivoques de l'article 221.2 de la Loi. Il a affirmé que sa position était aussi appuyée par deux documents auxquels l'appelante avait accès en plus de la Loi :
+i. le Guide des acomptes provisionnels pour les sociétés, publié par l'ARC[4];
+ii. une note explicative de l'ARC datée de juin 1992, qui est ainsi rédigée :
+Le nouvel article 221.2 vise à autoriser explicitement le ministre du Revenu national à accepter des transferts de paiements d'un compte à un autre, et d'une année à une autre. Selon cette nouvelle disposition, qui s'applique après la date de sanction de la loi, tout montant transféré – à la demande du contribuable et avec le consentement du ministre – d'un compte à un autre sera réputé ne jamais avoir été versé au premier compte, mais avoir été initialement versé au deuxième[5].
+[Non souligné dans l'original.]
+[18] De plus, l'avocat de l'intimée a dit que : [TRADUCTION] « le fait d'interpréter l'article 221.2 de la Loi comme exprimant un pouvoir discrétionnaire est compatible avec l'économie de la Loi ». L'article 221.2 se trouve dans la partie XV de la Loi. Cette partie est intitulée « application et exécution », et l'article 221.2 suit le sous‑titre « application », tout comme les articles 220, 221 et 221.1. L'article 220 de la Loi prévoit les fonctions du ministre et accorde au ministre un certain nombre de pouvoirs discrétionnaires, notamment de renoncer à la production de documents, de proroger les délais pour produire des déclarations et de faire divers choix[6]. La renonciation aux intérêts et aux pénalités, qui est incontestablement un pouvoir discrétionnaire, est prévue au paragraphe 220(3.1) de la Loi. Ces dispositions sont habituellement appelées les dispositions d'allègement pour les contribuables, ou les dispositions en matière d'équité. L'article 221 prévoit le pouvoir de prendre des règlements. L'article 221.1 prévoit certaines règles spéciales quant à l'imposition d'intérêts lorsque la Loi ou ses règlements sont modifiés.
+[19] Les dispositions relatives au calcul des intérêts ou des pénalités imposés aux contribuables se trouvent dans la section I de la partie I de la Loi, sous les sous‑titres « intérêts » et « pénalités ». L'intimée a soutenu que, pour respecter l'économie de la Loi, si le législateur avait voulu que l'article 221.2 s'applique obligatoirement lors du calcul de l'impôt à payer de l'appelante, il l'aurait placé dans la section I de la partie I de la Loi, et non pas dans la partie XV.
+Conclusion
+[20] Je conclus que la compétence de la Cour canadienne de l'impôt se limite à décider du bien‑fondé d'une cotisation. Par conséquent, la façon dont un remboursement est versé à un contribuable ou porté à son crédit ne relève pas de la compétence de la Cour canadienne de l'impôt. Au cas où je me serais trompé en concluant que la Cour n'a pas compétence en l'espèce, je conclus aussi, pour les motifs déjà énoncés, que la décision du ministre de « réaffecter » des montants relève d'un pouvoir discrétionnaire.
+[21] L'appel est rejeté, avec dépens.
+Signé à Vancouver (Colombie‑Britannique), ce 9e jour de septembre 2008.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 6e jour d'avril 2009.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2008 CCI 501
+No DU DOSSIER DE LA COUR :
+2008-83(IT)I
+INTITULÉ :
+Emcon Services Inc. et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Kamloops (Colombie‑Britannique)
+DATE DE L'AUDIENCE :
+Le 26 mai 2008
+MOTIFS DU JUGEMENT :
+L'honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 9 septembre 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Kenneth R. Hauser
+Avocat de l'intimée :
+Me Andrew Majawa
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me Kenneth R. Hauser
+Cabinet :
+Kenneth Hauser Law Corporation
+Kamloops (Colombie‑Britannique)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Placer Dome Canada Ltd. c. Ontario (Ministre des Finances), 2006 CSC 20, paragraphe 21; recueil de jurisprudence et de doctrine de l'intimée, onglet 10.
+[2] Placer Dome, précité, paragraphes 21 à 23.
+[3] Loi d'interprétation, L.R.C. 1985, ch. I‑21, art. 11; recueil de jurisprudence et de doctrine de l'intimée, onglet 3.
+[4] Recueil conjoint de documents, onglet 3.
+[5] Recueil de jurisprudence et de doctrine de l'intimée, onglet 12.
+[6] Voir par exemple les paragraphes 220(2.1), (3) et (3.2) de la Loi.

@@ -1,0 +1,177 @@
+Title: Lori Jewellery Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28970/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-561-28970-lori-jewellery-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-10-03
+
+# Lori Jewellery Inc. c. La Reine
+
+- Citation: 2008 CCI 561
+- Decision date: 2008-10-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6780, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lori Jewellery Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-10-03
+Référence neutre
+2008 CCI 561
+Numéro de dossier
+2007-4325(GST)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007-4325(GST)I
+ENTRE :
+LORI JEWELLERY INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel fixé pour audition le 15 septembre 2008, à Toronto (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentant de l’appelante :
+M. Costa A. Abinajem
+Avocate de l’intimée :
+Me Bonnie Boucher
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 13 mars 2007 et porte le numéro GB061240755181, est rejeté.
+Signé à Ottawa, Canada, ce 3e jour d’octobre 2008.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 6e jour de novembre 2008.
+D. Laberge, LL.L.
+Référence : 2008CCI561
+Date : 20081003
+Dossier : 2007-4325(GST)I
+ENTRE :
+LORI JEWELLERY INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Il s’agit d’un appel interjeté par suite d’un avis de nouvelle cotisation, daté du 13 mars 2007 et délivré conformément à la Loi sur la taxe d’accise (la « Loi »), pour la période allant du 1er août 2002 au 31 juillet 2004 (la « période »).
+[2] L’appelante a fait l’objet d’une cotisation pour la période en cause, au moyen d’un avis daté du 6 avril 2006 par lequel le ministre du Revenu national (le « ministre ») a augmenté de 2 171,51 $ le montant de la taxe sur les produits et services (la « TPS »), a refusé des crédits de taxe sur les intrants (les « CTI »), d’un montant de 18 565,06 $, et a imposé des pénalités pour versement tardif et des intérêts. En établissant la nouvelle cotisation, le ministre a accordé des CTI additionnels s’élevant à 1 734,39 $.
+[3] L’appelante a uniquement interjeté appel du refus d’accorder des CTI.
+[4] L’appelante était représentée par Costa Abinajem, d’Alpha‑Omega Accounting & Services Inc. M. Abinajem, expert‑comptable, agit comme comptable de l’appelante depuis 1997. C’est lui qui a préparé et produit les déclarations relatives à la TPS de l’appelante pour la période visée par l’appel.
+[5] Au début de l’audience, M. Abinajem a déclaré que la réponse à l’avis d’appel (la « réponse ») avait été déposée après l’expiration du délai de 60 jours et que les allégations énoncées dans l’avis d’appel sont donc réputées vraies.
+[6] La réponse a été déposée avec un retard de six jours.
+[7] La disposition légale pertinente qui traite du cas dans lequel une réponse n’est pas déposée à temps est le paragraphe 18.3003(2) de la Loi sur la Cour canadienne de l’impôt, qui est libellé comme suit :
+Conséquence du retard (2) Le ministre du Revenu national peut répondre à l’avis d’appel même après l’expiration du délai prévu au paragraphe (1) ou accordé par l’appelant ou la Cour en vertu de ce paragraphe; les allégations de fait énoncées dans l’avis d’appel sont alors réputées vraies aux fins de l’appel.
+[8] La présomption créée au paragraphe 18.3003(2) est réfutable et son effet est d’inverser la charge de la preuve[1]. Par conséquent, l’intimée avait l’obligation de présenter une preuve en vue de réfuter les faits allégués dans l’avis d’appel et d’établir les hypothèses sur lesquelles la cotisation était fondée.
+[9] Wendy Lai, l’agente des appels qui s’est occupée du dossier de l’appelante, a témoigné pour le compte de l’intimée.
+[10] Fort peu de faits étaient allégués dans l’avis d’appel. Les faits présumés auxquels l’intimée devait répondre étaient les suivants :
+a) La demande de CTI de l’appelante était conforme à la Loi.
+b) L’agente des appels qui a accordé des CTI additionnels lorsque la nouvelle cotisation a été établie n’a pas diminué le montant de la pénalité et des intérêts imposés dans la nouvelle cotisation et elle a refusé d’établir une autre nouvelle cotisation afin de corriger son erreur.
+[11] L’appelante est une personne morale qui exploite une bijouterie au détail.
+[12] Mme Lai a dit que l’appelante avait produit une déclaration annuelle pour la période qui avait pris fin le 31 juillet 2003, et des déclarations trimestrielles pour les périodes qui avaient pris fin le 31 octobre 2003 ainsi que les 31 janvier, 30 avril et 31 juillet 2004.
+[13] Mme Lai a expliqué la façon selon laquelle elle avait traité l’avis d’opposition déposé par l’appelante. Elle a examiné le rapport et les documents de travail du vérificateur et elle a établi que le vérificateur avait refusé d’accorder les CTI en se fondant sur le rapprochement du grand livre de l’appelante et des CTI demandés dans les déclarations. Le vérificateur avait conclu qu’il y avait plus de CTI qui étaient demandés dans les déclarations que le montant indiqué dans le grand livre et il avait refusé l’excédent. Il a accordé tous les CTI figurant dans le grand livre.
+[14] Mme Lai a également examiné le grand livre et les déclarations produites par l’appelante. Elle souscrivait à la conclusion du vérificateur.
+[15] Mme Lai a déclaré avoir demandé à M. Abinajem (le « représentant ») la façon selon laquelle il avait calculé les CTI indiqués dans les déclarations. M. Abinajem l’a informée que, dans bien des cas, il avait reçu des liasses de factures, certaines factures étant récentes et d’autres étant d’anciennes factures. M. Abinajem additionnait les CTI indiqués dans les factures et il inscrivait la somme dans la déclaration relative à la TPS.
+[16] Le représentant n’a pas remis à Mme Lai les factures qu’il avait utilisées pour la préparation des déclarations relatives à la TPS. Il n’a pas pu indiquer lesquels des CTI demandés dans les déclarations se rapportaient à une période antérieure.
+[17] Mme Lai a témoigné que le représentant lui avait de fait remis certaines anciennes factures qui, selon lui, n’avaient jamais fait l’objet d’une demande. M. Abinajem lui avait en outre soumis une liste de ces CTI. Mme Lai a vérifié la liste par rapport aux factures et elle a accordé les CTI se rapportant aux éléments justifiés par des factures. Elle n’a pas accordé les éléments qui étaient uniquement étayés de chèques oblitérés et elle n’a pas accordé de CTI pour les années 2000 et 2001 étant donné que ces années n’étaient pas visées par la période de vérification. Mme Lai a déclaré s’être fondée sur le paragraphe 296(2) de la Loi pour prendre sa décision.
+[18] Aucun élément de preuve n’a été soumis à l’égard des documents qui avaient été remis afin de justifier les CTI pour les années 2000 et 2001.
+[19] La liste des CTI remise à Mme Lai s’élevait en tout à 5 127,27 $. Les éléments justifiés au moyen des documents qu’elle a accordés s’élevaient en tout à 1 468,85 $. Mme Lai a également accordé tous les éléments inférieurs à 20 $, pour un total de 265,54 $. Les CTI additionnels qui ont été accordés à la suite de l’opposition s’élevaient à 1 734,39 $. Dans cette liste, il y avait une demande de CTI au montant global de 1 352,89 $, à l’égard desquels la bijouterie Papissian était le fournisseur. Ces CTI avaient antérieurement été demandés et accordés selon le grand livre.
+[20] Quant au rajustement de la pénalité et des intérêts qui n’avait pas été inclus dans l’avis de nouvelle cotisation daté du 13 mars 2007, Mme Lai a expliqué qu’elle avait commis une erreur. La nouvelle cotisation aurait dû inclure un crédit pour la pénalité et les intérêts par suite des CTI additionnels qui étaient accordés. Mme Lai a déclaré que peu de temps après le mois de mars 2007, la procédure d’établissement des nouvelles cotisations au sein de l’Agence du revenu du Canada (l’« ARC ») avait été modifiée et qu’elle ne pouvait plus établir de nouvelles cotisations. Toutefois, l’erreur qu’elle avait commise a été corrigée au moyen d’un rajustement de crédit effectué dans le compte de l’appelante.
+[21] Le ministre a réduit de 238,86 $ et de 96,06 $ respectivement les pénalités et intérêts. La réduction a été effectuée le 24 août 2007 et prenait effet le 6 avril 2006. Je conclus que la seconde question soulevée par l’appelante a été réglée d’une façon satisfaisante.
+[22] Mme Hasmig Papissian, qui a été présentée comme étant la propriétaire de l’appelante, et le représentant ont témoigné pour le compte de l’appelante.
+[23] Selon la position prise par l’appelante, l’ARC avait obtenu 90 p. 100 des documents concernant les CTI et il aurait dû être reconnu que le reste du montant demandé (10 p. 100) pour les CTI était exact. L’appelante a également déclaré que l’ARC est en mesure de vérifier les données figurant dans les factures en accédant au compte du fournisseur.
+[24] Les dispositions légales pertinentes sont les suivantes :
+169(4) Documents – L’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH)
+2. Les définitions qui suivent s’appliquent au présent règlement.
+« pièce justificative » Document qui contient les renseignements exigés à l’article 3, notamment :
+a) une facture;
+b) un reçu;
+c) un bordereau de carte de crédit;
+d) une note de débit;
+e) un livre ou registre de comptabilité;
+f) une convention ou un contrat écrits;
+g) tout registre faisant partie d’un système de recherche documentaire informatisé ou électronique ou d’une banque de données;
+h) tout autre document signé ou délivré en bonne et due forme par un inscrit pour une fourniture qu’il a effectuée et à l’égard de laquelle il y a une taxe payée ou payable.
+3. Les renseignements visés à l’alinéa 169(4)a) de la Loi, sont les suivants :
+a) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de moins de 30 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire,
+(ii) si une facture a été remise pour la ou les fournitures, la date de cette facture,
+(iii) si aucune facture n’a été remise pour la ou les fournitures, la date à laquelle il y a un montant de taxe payée ou payable sur celle‑ci,
+(iv) le montant total payé ou payable pour la ou les fournitures;
+b) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 30 $ ou plus et de moins de 150 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire et le numéro d’inscription attribué, conformément au paragraphe 241(1) de la Loi, au fournisseur ou à l’intermédiaire, selon le cas,
+(ii) les renseignements visés aux sous-alinéas a)(ii) à (iv),
+(iii) dans le cas où la taxe payée ou payable n’est pas comprise dans le montant payé ou payable pour la ou les fournitures :
+(A) ou bien, la taxe payée ou payable pour toutes les fournitures ou pour chacune d’elles,
+(B) ou bien, si une taxe de vente provinciale est payable pour chaque fourniture taxable qui n’est pas une fourniture détaxée, mais ne l’est pas pour une fourniture exonérée ou une fourniture détaxée :
+(I) soit le total de la taxe payée ou payable selon la section II de la partie IX de la Loi et de la taxe de vente provinciale payée ou payable pour chaque fourniture taxable, ainsi qu’une déclaration portant que le total pour chaque fourniture taxable comprend la taxe payée ou payable selon cette section,
+(II) soit le total de la taxe payée ou payable selon la section II de la partie IX de la Loi et de la taxe de vente provinciale payée ou payable pour toutes les fournitures taxables, ainsi qu’une déclaration portant que ce total comprend la taxe payée ou payable selon cette section,
+(iv) dans le cas où la taxe payée ou payable est comprise dans le montant payé ou payable pour la ou les fournitures et que l’une ou plusieurs de celle‑ci sont des fournitures taxables qui ne sont pas des fournitures détaxées :
+(A) une déclaration portant que la taxe est comprise dans le montant payé ou payable pour chaque fourniture taxable,
+(B) le total (appelé « taux de taxe total » au présent alinéa) des taux auxquels la taxe a été payée ou était payable relativement à chacune des fournitures taxables qui n’est pas une fourniture détaxée,
+(C) le montant payé ou payable pour chacune de ces fournitures ou le montant total payé ou payable pour l’ensemble de ces fournitures auxquelles s’applique le même taux de taxe total,
+(v) dans le cas où deux fournitures ou plus appartiennent à différentes catégories, une mention de la catégorie de chaque fourniture taxable qui n’est pas une fourniture détaxée;
+c) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 150 $ ou plus :
+(i) les renseignements visés aux alinéas a) et b),
+(ii) soit le nom de l’acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+(iii) les modalités de paiement,
+(iv) une description suffisante pour identifier chaque fourniture.
+Loi sur la taxe d’accise
+296(2) – Le ministre, s’il constate les faits ci‑après relativement à un montant (appelé « crédit déductible » au présent paragraphe) lors de l’établissement d’une cotisation concernant la taxe nette d’une personne pour une période de déclaration donnée de celle‑ci, prend en compte le crédit déductible dans l’établissement de la taxe nette pour cette période comme si la personne avait demandé le crédit déductible dans une déclaration produite pour cette période :
+a) le crédit déductible aurait été accordé à titre de crédit de taxe sur les intrants pour la période donnée ou à titre de déduction dans le calcul de la taxe nette pour cette période s’il avait été demandé dans une déclaration produite aux termes de la section V pour cette période à la date limite où la déclaration pour cette période était à produire et si les exigences en matière de documentation, énoncées aux paragraphes 169(4) ou 234(1), qui s’appliquent au crédit avaient été remplies;
+b) le crédit déductible n’a pas été demandé par la personne dans une déclaration produite avant le jour où l’avis de cotisation lui est envoyé ou, s’il l’a été, a été refusé par le ministre;
+c) le crédit déductible serait accordé à titre de crédit de taxe sur les intrants ou de déduction dans le calcul de la taxe nette de la personne pour une de ses périodes de déclaration s’il était demandé dans une déclaration produite aux termes de la section V le jour où l’avis de cotisation est envoyé à la personne, ou serait refusé s’il était demandé dans cette déclaration du seul fait que le délai dans lequel il peut être demandé a expiré avant ce jour.
+[25] Le paragraphe 169(4) exige que l’inscrit soit en mesure de présenter des renseignements suffisants dans une forme permettant d’établir les montants des CTI qui sont demandés. Cela comprend tout renseignement prescrit à l’article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH). Il a été conclu que ces exigences techniques étaient obligatoires. Voir la décision Helsi Construction Management Inc. v. R., [2001] GSTC 39 (C.C.I.) dans laquelle le juge en chef adjoint Bowman (avant qu’il devienne juge en chef) a dit ce qui suit au paragraphe 11 :
+Les raisons principales du rejet étaient que les numéros d’inscription des fournisseurs n’étaient pas indiqués sur les factures. Il s’agit d’une condition prévue par l’article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants. Bien qu’il puisse être justifié, dans certains cas, de considérer les conditions techniques ou mécaniques comme indicatives plutôt qu’obligatoires (voir par exemple l’affaire Senger-Hammond c. R., C.C.I. no96-1117 (IT)I, le 6 décembre 1996 ([1997] 1 C.T.C. 2728)), ce n’est pas le cas pour ce qui est des dispositions relatives à la TPS de la Loi sur la taxe d’accise.
+[26] Le juge Bowie a également conclu que les exigences du paragraphe 169(4) étaient obligatoires et qu’elles devraient être rigoureusement appliquées. Dans la décision Key Property Management Corporation v. The Queen, [2004] GSTC 32 (C.C.I.), au paragraphe 14, le juge Bowie a énoncé comme suit les motifs de sa conclusion :
+[…] Aux termes du Règlement, la quantité de renseignements qu’un inscrit doit obtenir à l’appui d’une demande de CTI augmente à mesure que la contrepartie de la fourniture augmente, et les exigences à chaque niveau sont assez précises. Les avocats de l’appelant semblaient être d’avis que le témoignage oral de M. Krauel devrait être considéré comme satisfaisant adéquatement aux exigences particulières de la Loi et du Règlement. Je rejette une telle position. Nous savons bien que tout régime fiscal fondé sur la valeur ajoutée peut être vulnérable aux abus, et que l’un des aspects comportant le plus de risques concerne les demandes de crédits de taxe sur les intrants. Le but même de l’alinéa 169(4)a) et du Règlement est de protéger le Trésor contre les violations tant frauduleuses qu’innocentes. Ce but ne peut être atteint que si les exigences sont considérées comme étant obligatoires et sont rigoureusement appliquées. Le fait de les envisager simplement comme une indication ne serait pas seulement malencontreux, mais serait une grave violation de l’intégrité du texte législatif.
+[27] Le témoignage de Mme Lai et les pièces produites par l’intimée réfutent le fait présumé selon lequel la demande de CTI de l’appelante était conforme à la Loi. L’appelante n’avait pas les documents requis pour justifier le montant des CTI demandés dans les déclarations. Aux étapes de la vérification et des appels, l’appelante pensait que l’ARC aurait dû enquêter sur d’autres contribuables afin de l’aider à corroborer sa demande de CTI. Or, cette tâche ou cette responsabilité n’incombe pas à l’ARC. L’appelante est tenue de conserver les documents à l’appui de sa demande et de satisfaire aux exigences du paragraphe 169(4) de la Loi.
+[28] Lors de l’audition de l’appel, l’appelante a produit plusieurs pièces composées de chèques oblitérés et de factures. Le représentant a déclaré que ces documents n’avaient jamais été remis à l’ARC et n’avaient jamais fait l’objet d’une demande. Le représentant a invoqué la décision Byrnes, 2007-625(GST)I, afin d’affirmer que les documents produits en preuve devaient être acceptés par la Cour et que Mme Lai aurait dû tenir compte des documents remis pour les années 2000 et 2001.
+[29] J’ai comparé les pièces de l’appelante avec les documents de travail du vérificateur et de Mme Lai. J’ai conclu que les pièces faisaient partie des documents remis à Mme Lai. J’ai également conclu que tous les CTI accompagnés de documents appropriés avaient antérieurement été accordés par le vérificateur ou par Mme Lai.
+[30] La décision Byrnes n’aide pas l’appelante dans sa demande de CTI additionnels pour les périodes antérieures aux années 2000 et 2001. Dans cette affaire, les CTI demandés étaient pleinement documentés. En l’espèce, il y avait des documents pour l’année 2000 seulement et, à mon avis, les documents étaient inadéquats pour justifier des CTI additionnels. De plus, aucun élément de preuve ne montrait si ces montants avaient été demandés et accordés ou refusés au cours d’une période antérieure. J’ai conclu que les documents de l’appelante étaient complètement en désordre.
+[31] En conclusion, la preuve soumise par l’intimée établissait que la nouvelle cotisation était fondée. Il incombait à l’appelante de démontrer que la nouvelle cotisation établie par le ministre comportait une erreur.
+[32] J’ai examiné les documents ainsi que les témoignages présentés par Mme Hasmig Papissian et par son représentant et j’ai conclu que les documents ne satisfaisaient pas aux exigences du paragraphe 169(4) de la Loi et du Règlement. L’appelante n’a pas démontré que la nouvelle cotisation était erronée.
+[33] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 3e jour d’octobre 2008.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 6e jour de novembre 2008.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2008CCI561
+No DU DOSSIER DE LA COUR : 2007-4325(GST)I
+INTITULÉ : LORI JEWELLERY INC.
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le xx septembre 2008
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 3 octobre 2008
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Costa A. Abinajem
+Avocate de l’intimée :
+Me Bonnie Boucher
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Kosowan v. M.N.R., [1989] 1 C.T.C. 2044 (C.C.I.).

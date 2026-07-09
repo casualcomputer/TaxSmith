@@ -1,0 +1,146 @@
+---
+title: "Dumont v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29471/index.do"
+last_modified: "2009-10-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 517"
+citation2: ""
+neutral_citation: "2009 TCC 517"
+decision_date: "2009-10-15"
+language: "en"
+item_id: "29471"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6290
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:51:42.422000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1d164cb5cfc02bc803740c444a7ab2ad6d493f0227a77677da59392f1dad3b29"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dumont v. The Queen
+
+- Citation: 2009 TCC 517
+- Decision date: 2009-10-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6290, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dumont v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-15
+Neutral citation
+2009 TCC 517
+File numbers
+2008-3302(GST)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-3302(GST)I
+BETWEEN:
+JULIE DUMONT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 10, 2009, at Montréal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the Appellant:
+Maxim Parenteau
+Counsel for the Respondent :
+Édith-Geneviève Giasson
+____________________________________________________________________
+JUDGMENT
+The appeal from the goods and services tax assessment under Part IX of the Excise Tax Act, notice of which is dated October 18, 2007 and bears the number 84403 9180 RT0001, is dismissed without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 15th day of October 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 26th day of November 2009.
+Brian McCordick, Translator
+Citation: 2009 TCC 517
+Date: 20091015
+Docket: 2008-3302(GST)I
+BETWEEN:
+JULIE DUMONT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal from an assessment made under Part IX of the Excise Tax Act ("the Act"). In an assessment dated October 18, 2007, the Respondent, acting through the Minister of Revenue of Quebec ("the Minister"), disallowed the Appellant's claim of a $2,534.84 goods and services tax (GST) rebate in respect of new housing located at 2349‑2351 Charbonneau Street in Terrebonne, Quebec ("the new housing").
+[2] In making the assessment, the Minister relied, among other things, on the following assumptions of fact:
+[TRANSLATION]
+(a) The construction of the new housing in respect of which a GST rebate was claimed ended on or about December 1, 2006. (admitted)
+(b) The new housing is a duplex. (admitted)
+(c) The Appellant did not build the new housing for the purpose of using it as her primary place of residence. (denied)
+(d) The new housing was not the Appellant's primary place of residence. (denied)
+[3] I note from the Notice of Appeal that the Appellant in the case at bar is also contesting the assessment against her under the Act respecting the Québec sales tax, by which the Minister apparently also disallowed her Québec sales tax (QST) rebate claim in respect of new housing. In this regard, I should emphasize from the outset that this Court does not have jurisdiction to hear that appeal. If the Appellant wishes to appeal from the assessment under the Act respecting the Québec sales tax, the appropriate remedy is set out in sections 93.1.10 et seq. of the Act respecting the Ministère du Revenu, R.S.Q., c. M-31, and the forum is the Court of Québec. This Court has jurisdiction to hear the appeal from the assessment under Part IX of the Act.
+[4] The only real issue in the case at bar is whether the Appellant had new housing built for use as a primary place of residence. This is because subsection 256(2) of the Act states that an individual who has built a residential complex used by the individual as a primary place of residence is entitled to a new housing GST rebate.
+Preliminary remarks
+[5] I should begin by noting that the Appellant was the only person who testified in support of her position (other than Maxim Parenteau, who, by the Appellant's admission, has been her common-law spouse since 2008 and therefore cannot be considered an independent witness) and that she produced no documentary evidence. The Appellant's evidence in support of her position that she had new housing built for use as her primary place of residence was therefore essentially her own testimony.
+The Appellant's testimony
+[6] Essentially, the Appellant's testimony (which was generally vague, imprecise, ambiguous and frequently incomprehensible) was as follows:
+(i) She was a teacher in 2005 and 2006.
+(ii) Before moving into the new housing in the summer of 2006, she had lived primarily with her parents on Lauzon Street in Boisbriand. In this regard, I should note from the outset that the Respondent adduced Exhibit I‑6, an excerpt from the records of the Société de l'Assurance automobile du Québec (SAAQ), which states that, from September 6, 2005, to July 9, 2008, the Appellant's residential address was not that of her parents but that of Maxim Parenteau, who resided on Charny Street in Mascouche during that period. I should also note that the Appellant's answers to the questions asked by counsel for the Respondent, who was seeking explanations about this apparent contradiction, were so vague and ambiguous (if not incomprehensible) that they sowed doubt in my mind as to the Appellant's credibility. At most, the Appellant explained that she did indeed cohabit with Maxim Parenteau during this period, but not ordinarily, given the nature of their relationship. I should note that the Appellant's testimony with respect to the nature of this relationship was no more informative.
+(iii) In the spring of 2006, she had a duplex built on the land with the assistance of Mr. Parenteau, who apparently supervised the work for her. I should immediately note that Mr. Parenteau also bought some land on Charbonneau Street in Terrebonne in 2005, and that he built a duplex on that land in the spring of 2006.
+(iv) In the summer of 2006, she moved into the new housing. I should immediately note that the Appellant did not see fit to support her allegations in this regard with serious documentary evidence (such as address changes, moving-related receipts, proof of telephone, cable and Internet installations, and notices to insurance companies) or with credible and independent witnesses.
+(v) A month and a half after moving, her difficult financial circumstances compelled her (much to her regret) to rent out her lodging and move back to her parents' home. The Appellant explained that she tried to find a solution to her financial problems during this period. In this regard, she specified that she asked her parents for help and tried to find a roommate who would share the costs of the lodging in which she had lived, but that these efforts proved unsuccessful.
+Mr. Parenteau's testimony
+[7] Mr. Parenteau's testimony provided little useful information apart, perhaps, from an attempt to explain the nature of the financial troubles which the Appellant was experiencing; according to Mr. Parenteau's testimony, these troubles were related to construction cost overruns, and they forced her to rent out her new housing. In addition, Mr. Parenteau's testimony discloses that the Appellant lived in one unit of the duplex for a short time in the summer of 2006, but that his finances then forced him rent the unit to a third party.
+Analysis and conclusion
+[8] In the case at bar, the Appellant bore the burden of showing that she built new housing for use as her primary place of residence. As I have stated, the Appellant was the only person (other than Mr. Parenteau, who cannot be considered an independent witness under the circumstances) who testified in support of her position, and she produced no documentary evidence (such as evidence of address changes, or moving-related invoices, or bills related to cable, Internet and telephone installations, or notices to insurance companies, or correspondence with Hydro‑Québec). In sum, the Appellant's case essentially turned on her testimony, which I found worthy of little credibility. In other words, the Appellant could not hope to convince me with generally vague, imprecise and often incomprehensible answers. Her answers to questions posed by counsel for the Respondent, who was seeking explanations as to why the SAAQ's records indicated that her residential address from September 6, 2005, to July 9, 2008, was Mr. Parenteau's address, not her parents' address, were particularly vague, ambiguous and incomprehensible. Moreover, the Appellant could have adduced documentary or testimonial evidence indicating that she moved into the new housing unit and lived there for approximately 45 days. She did not adduce such evidence. In sum, I do not accept the Appellant's version of the facts.
+[9] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 15th day of October 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 26th day of November 2009.
+Brian McCordick, Translator
+CITATION: 2009 TCC 517
+COURT FILE NO.: 2008-3302(GST)I
+STYLE OF CAUSE: JULIE DUMONT AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 10, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: October 15, 2009
+APPEARANCES:
+Agent for the Appellant:
+Maxim Parenteau
+Counsel for the Respondent:
+Édith-Geneviève Giasson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

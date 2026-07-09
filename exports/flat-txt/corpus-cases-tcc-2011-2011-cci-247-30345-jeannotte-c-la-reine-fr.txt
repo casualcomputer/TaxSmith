@@ -1,0 +1,111 @@
+Title: Jeannotte c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30345/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-247-30345-jeannotte-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-03-03
+
+# Jeannotte c. La Reine
+
+- Citation: 2011 CCI 247
+- Decision date: 2011-03-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8049, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jeannotte c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-03-03
+Référence neutre
+2011 CCI 247
+Numéro de dossier
+2010-3222(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2011 CCI 247
+Date : 20110509
+Dossier : 2010-3222(IT)I
+ENTRE :
+TENAYA JEANNOTTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Prononcés à l’audience le 3 mars 2011 à Vancouver (Colombie‑Britannique)).
+La juge V.A. Miller
+[1] En l’espèce, la question qu’il faut trancher est de savoir si le ministre du Revenu national (le « ministre ») a correctement établi les impôts à payer selon l’article 120.4 de la Loi de l’impôt sur le revenu (la « Loi ») relativement aux dividendes reçus par l’appelante en 2006.
+[2] L’article 120.4 a été ajouté à la Loi en 2000 et est applicable aux années d’imposition 2000 et suivantes. Cette disposition vise à empêcher que des particuliers à revenus élevés ne réduisent leurs impôts par le fractionnement du revenu avec leurs enfants mineurs. L’impôt prévu par cette disposition est communément appelé « kiddie tax » (l’impôt des enfants).
+[3] L’appelante était représentée par son grand‑père, Ray Jeannotte. Il a déclaré que c’est lui qui avait la meilleure connaissance de la fiducie dont l’appelante et sa sœur sont les bénéficiaires.
+[4] M. Jeannotte a expliqué les démarches entreprises pour créer la fiducie. Il a déclaré qu’en 1994, suivant les conseils d’un comptable fiscaliste, il avait fait en sorte que l’appelante devienne actionnaire de 480554 B.C. Ltd. M. Jeannotte avait été avisé que l’argent qui devait servir à acheter les actions de l’appelante ne devrait pas provenir d’un membre de la famille. M. Jeannotte s’est arrangé pour que M. R[1] prête de l’argent à l’appelante. Les documents présentés à la Cour au soutien de ces déclarations sont : un « billet non négociable » daté du 1er septembre 1994 et signé par un tuteur inconnu pour le compte de l’appelante, un chèque de 15 $ daté du 1er septembre 1994 à l’ordre de l’appelante et portant la mention : prêt pour achat d’actions, une lettre de M. R datée du 27 août 1994 adressée à l’appelante dans laquelle il accepte de lui prêter 15 $ et un chèque de 26 cents à l’ordre de 480554 B.C. Ltd. pour l’achat d’actions.
+[5] En 1997, 333 actions ordinaires de 486368 B.C. Ltd. ont été transférées à Tenelle Financial Corp. (la « société »). M. Jeannotte a expliqué que le nom de la société était composé du nom de l’appelante et de celui de sa sœur. Le 30 avril 1997, la Vaughn Jeannotte Financial Trust (la « fiducie ») a été créée, et Vaughn Jeannotte, le père de l’appelante, en était fiduciaire.
+[6] M. Jeannotte a déclaré que le but de la fiducie n’était pas de fractionner le revenu ni d’effectuer un [traduction] « versement discrétionnaire de dividendes », mais de veiller à ce qu’il y ait des fonds pour les études de ses petites‑filles. La fiducie a été créée au moment où les parents de ses petites‑filles étaient en train de divorcer. L’appelante a soutenu que les fonds de la fiducie lui appartenaient parce que c’est elle qui avait emprunté de l’argent pour acheter les actions de 480554 B.C. Ltd. M. Jeannotte a déclaré qu’il y avait de nombreux documents qui pouvaient étayer les arguments de l’appelante, mais il n’avait pas ces documents avec lui.
+[7] La question en litige est de savoir si les faits, en l’espèce, satisfont aux conditions prévues à l’article 120.4 de la Loi, de telle sorte que l’appelante soit tenue de payer l’impôt prévu à cette disposition. J’examinerai les faits du présent appel par rapport à la disposition.
+Le droit et les faits
+[8] La disposition qui prévoit l’assujettissement à l’impôt est le paragraphe 120.4(2) de la Loi qui est ainsi libellé :
+(2) Impôt sur le revenu fractionné -- Est ajouté à l’impôt payable en vertu de la présente partie par un particulier déterminé pour une année d’imposition le montant représentant 29 % du revenu fractionné du particulier pour l’année.
+[9] Les termes « particulier déterminé » et « revenu fractionné » sont définis au paragraphe 120.4(1) de la Loi de la manière suivante :
+« particulier déterminé » Quant à une année d’imposition, particulier qui répond aux conditions suivantes :
+a) il n’avait pas atteint l’âge de 17 ans avant l’année;
+b) il n’a été un non-résident à aucun moment de l’année;
+c) son père ou sa mère a résidé au Canada à un moment de l’année.
+« revenu fractionné », S’agissant du revenu fractionné d’un particulier déterminé pour une année d’imposition, le total des montants (sauf les montants exclus) représentant chacun, selon le cas :
+a) un montant à inclure dans le calcul du revenu du particulier pour l’année :
+(i) soit au titre de dividendes imposables reçus par le particulier relativement à des actions du capital-actions d’une société (sauf des actions d’une catégorie cotée à une bourse de valeurs désignée et des actions du capital-actions d’une société de placement à capital variable),
+(ii) soit par l’effet de l’article 15 du fait qu’une personne est propriétaire d’actions du capital-actions d’une société, sauf des actions d’une catégorie cotée à une bourse de valeurs désignée;
+[10] En 2006, l’appelante satisfaisait à la définition de « particulier déterminé ». Elle est née le 23 octobre 1990 et était âgée de 15 ans au début de l’année d’imposition 2006. Tout au long de l’année 2006, l’appelante résidait au Canada et avait un parent qui résidait au Canada.
+[11] Selon l’hypothèse du ministre, la société a versé un dividende de 25 000 $ (montant imposable de 31 250 $) à la fiducie, qui l’a versé à l’appelante. L’appelante, qui est bénéficiaire de la fiducie, a reçu le dividende relativement à des actions du capital‑actions de la société.
+[12] M. Jeannotte a confirmé que les hypothèses du ministre étaient correctes. Il a aussi reconnu le fait que le dividende n’avait pas été versé relativement des actions d’une catégorie d’actions cotées à une bourse de valeurs désignée ou des actions du capital‑actions d’une société de placement à capital variable.
+[13] Le dividende reçu par l’appelante en 2006 répond à la définition de « revenu fractionné » au paragraphe 120.4 de la Loi et ne constitue pas un « montant exclu ». Voici la définition du terme « montant exclu » :
+« montant exclu », Quant à un particulier pour une année d’imposition, montant qui représente le revenu tiré d’un bien acquis par le particulier, ou pour son compte, par suite du décès d’une des personnes suivantes :
+a) le père ou la mère du particulier;
+b) une personne quelconque, si le particulier est :
+(i) soit inscrit au cours de l’année comme étudiant à temps plein dans un établissement d’enseignement postsecondaire au sens du paragraphe 146.1(1),
+(ii) soit une personne à l’égard de laquelle un montant est déductible en application de l’article 118.3 dans le calcul de l’impôt payable en vertu de la présente partie par un contribuable pour l’année.
+[14] Dans les circonstances du présent appel, les actions qui ont donné lieu au dividende n’avaient pas été acquises par l’appelante ou pour son compte par suite du décès du père ou de la mère de l’appelante ou d’une personne quelconque, et le « revenu fractionné » n’est pas un « montant exclu ».
+[15] Les dividendes que la fiducie a reçus de la société et qui ont été versés à l’appelante, un particulier déterminé, conservent leur nature pour l’application de l’article 120.4 de la Loi[2]. Il a été satisfait à toutes les conditions prévues à l’article 120.4 de la Loi et la cotisation établie à l’égard de l’appelante a été établie à juste titre.
+[16] Contrairement à ce que soutient l’appelante, il n’est pas nécessaire de déterminer le transfert de propriété ni la personne qui a consenti le prêt à l’appelante pour que l’article 120.4 de la Loi s’applique. La définition de « revenu fractionné » à l’article 120.4 de la Loi et la disposition qui prévoit l’assujettissement à l’impôt au paragraphe 120.4(2) de la Loi éliminent cette nécessité.
+[17] M. Jeannotte a soutenu que la loi était inéquitable et a demandé à la Cour d’interpréter l’article 120.4 de la Loi dans un sens qui soit compatible avec son argument. Toutefois, la Cour doit interpréter l’article tel qu’il est. Le juge Rothstein, tel était alors son titre, a fait la déclaration suivante dans Chaya c. Canada[3], au paragraphe 4 :
+[4] Le demandeur soutient que la loi est inéquitable et il demande à la Cour de faire une exception pour lui. Toutefois, la Cour n’a pas le pouvoir de faire droit à sa demande. La Cour doit appliquer la loi telle qu’elle est. Elle ne peut pas déroger aux dispositions législatives pour des raisons liées à l’équité. S’il estime que la loi est inéquitable, le demandeur doit avoir recours au Parlement et non pas à la Cour.
+[18] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 9e jour de mai 2011.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 23e jour de juin 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 247
+No DU DOSSIER DE LA COUR : 2010-3222(IT)I
+INTITULÉ : TENAYA JEANNOTTE
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 1er mars 2011
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 8 mars 2011
+DATE DES MOTIFS DU
+JUGEMENT : Le 9 mai 2011
+COMPARUTIONS :
+Pour l’appelante :
+M. Ray Jeannotte
+Pour l’intimée :
+M. Patrick Grayer (stagiaire)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] J’ai appelé la personne M. R parce que son nom, le nom de famille de Tenaya et le nom du tuteur de Tenaya ont été supprimés des documents présentés à la Cour.
+[2] Paragraphe 108(5) de la Loi de l’impôt sur le revenu.
+[3] 2004 CAF 327

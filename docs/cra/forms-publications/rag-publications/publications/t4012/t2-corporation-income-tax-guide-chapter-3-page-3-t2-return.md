@@ -1,0 +1,2112 @@
+---
+title: "T2 Corporation – Income Tax Guide – Chapter 3: Page 3 of the T2 return"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html
+last_modified: 2026-05-28
+---
+# T2 Corporation – Income Tax Guide – Chapter 3: Page 3 of the T2 return
+
+## Attachments
+
+See [Chapter 2](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html) to complete this section.
+
+## Additional information
+
+Provide all the information requested in the "Additional information" area of your return.
+
+### Line 270 – Did the corporation use the International Financial Reporting Standards (IFRS) when it prepared its financial statements?
+
+If the corporation used the IFRS to prepare its financial statements, answer **yes** to this question.
+
+The IFRS is mandatory for all publicly accountable enterprises. This includes corporations that have calculated their financial statements in accordance with the IFRS but have not complied with all aspects of the IFRS. A corporation that has issued, or is in a process of issuing, publicly-traded debt or equity instruments or who holds assets in a fiduciary capacity for a broad group of outsiders is generally considered to be a publicly accountable enterprise.
+
+For the first year when IFRS is adopted, corporations are required to maintain additional documentation to support amounts filed on the [General Index of Financial Information (GIFI)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4088.html) and tax returns. For more information on IFRS books and records and other IFRS topics, go to [International Financial Reporting Standards (IFRS)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/international-financial-reporting-standards-ifrs.html).
+
+### Line 280 – Is the corporation inactive?
+
+Even if a corporation is inactive, which means it has not operated during the tax year, it has to file a return.
+
+Corporations that are inactive throughout the tax year and that do not have balance sheet or income statement information to report do not have to attach schedules [100](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch100.html), [125](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch125.html), and [141](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch141.html) to their T2 return. However, they will be accepted if filed.
+
+### Lines 284 to 289 – Specify the principal products mined, manufactured, sold, constructed, or services provided, giving the approximate percentage of the total revenue that each product or service represents
+
+If you file electronically, enter the proper North American Industry Classification System (NAICS) code before completing lines 284 to 289. If you do not select the business activity, you will have problems and errors when you prepare the T2 return to be transmitted electronically or printed in bar-code format.
+
+Break down the business activity into the following categories:
+
+- the principal products mined, manufactured, sold, or constructed
+
+- the services provided
+
+Also, give the approximate percentage of the corporation's total revenue that each product or service represents.
+
+### Line 290 – Did the corporation meet the definition of substantive CCPC under subsection 248(1) at any time in the tax year?
+
+#### Substantive CCPC – Deferral of tax using foreign entities
+
+A private corporation that is a Canadian-controlled private corporation (CCPC) is subject to refundable Part I tax, such that in certain circumstances, it may be advantageous for a private corporation to cease to be a CCPC. Tax planning strategies have developed that rely on a loss of CCPC status before the realization of investment income.
+
+The concept of substantive CCPC eliminates this potential advantage by taxing passive income earned by a substantive CCPC in the same way as if the corporation was a CCPC.
+
+A substantive CCPC is a private corporation (other than a CCPC) that at any time in a tax year:
+
+- is controlled, directly or indirectly in any way, by one or more Canadian resident individuals, or
+
+- would, if each share of the capital stock of a corporation that is owned by a Canadian resident individual were owned by a particular individual, be controlled by the particular individual
+
+Further, a corporation is considered a substantive CCPC when the corporation would be a CCPC but for the fact that a non resident or public corporation has a right to acquire its shares.
+
+Measures regarding the deferral of tax using foreign entities generally apply to tax years ending after April 6, 2022, except that the measures apply to tax years starting after April 6, 2022, if both the following apply:
+
+- the corporation's first tax year ending after April 6, 2022, is because of an acquisition of control caused by the sale of all or substantially all of the shares of a corporation to an arm's length purchaser before 2023
+
+- the corresponding written purchase and sale agreement was entered into before April 7, 2022
+
+#### CCPC and substantive CCPC - Deferral of tax using foreign resident corporations
+
+Changes to the foreign accrual property income rules eliminate the tax deferral advantage that was available to CCPCs and their shareholders earning investment income through a controlled foreign affiliate.
+
+These measures, which affect both CCPCs and substantive CCPCs, apply to tax years starting after April 6, 2022.
+
+Foreign accrual business income (FABI) is a new elective relieving regime that complements the foreign accrual property income (FAPI) by taxing certain foreign affiliate income like Canadian active business income. It also provides relief in respect of distributions made by a foreign affiliate out of its FABI surplus. FABI rules apply to tax years that begin after 2025 but also apply to preceding tax years if an election is filed under subsection 93.4(4) or (5).
+
+Aside from the two measures above, substantive CCPCs will continue to be treated as non CCPCs for all other purposes of the Income Tax Act.
+
+### Line 291 – Did the corporation immigrate to Canada during the tax year?
+
+Tick the **yes** or **no** box.
+
+### Line 292 – Did the corporation emigrate from Canada during the tax year?
+
+Tick the **yes** or **no** box.
+
+### Line 293 – Do you want to be considered as a quarterly instalment remitter, if you are eligible?
+
+A small-CCPC is eligible to make quarterly instalment payments if it meets certain conditions. To determine if you are eligible, see the details on the [due dates for payments](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/corporation-payments/paying-instalments/instalment-dates.html).
+
+### Line 294 – If the corporation was eligible to remit instalments on a quarterly basis for part of the tax year, provide the date the corporation ceased to be eligible.
+
+Indicate the date that the corporation ceased to be eligible to remit instalments on a quarterly basis.
+
+### Line 295 – If the corporation's major business activity is construction, did you have any subcontractors during the tax year?
+
+Tick the **yes** or **no** box.
+
+#### Major business activity
+
+All individuals, partnerships, and corporations whose principal business activity is construction have to report payments made to subcontractors. For these purposes, construction is defined as erecting, installing, altering, modifying, repairing, improving, demolishing, dismantling, or removing any structure or part, including but not limited to buildings, roads, and bridges.
+
+#### Who is a subcontractor?
+
+A subcontractor is an individual, partnership, or corporation that provides construction services.
+
+For more information, go to [T5018 slip – Statement of contract payments](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/completing-filing-information-returns/t5018-slip-statement-contract-payments.html).
+
+## Calculating net income or loss
+
+There are several schedules you may have to use to calculate the net income or loss for income tax purposes. This section explains each of those schedules.
+
+### Schedule 1, Net Income (Loss) for Income Tax Purposes
+
+Generally, the net income (loss) reported on your financial statements will not be the same as the net income (loss) required for tax purposes. This is because certain income and expenses reported on your financial statements or the General Index of Financial Information (GIFI) may not be used in the calculation of net income (loss) for tax purposes.
+
+For example, you do not deduct charitable donations when determining net income for tax purposes, as you would to arrive at net income on your financial statement.
+
+Charitable donations are deducted (afterward) from net income for tax purposes to arrive at taxable income.
+
+Use [Schedule 1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch1.html) to reconcile the net income (loss) reported on your financial statements and the net income (loss) required for tax purposes.
+
+Enter net income or loss after income tax and extraordinary items at amountA, page 1 of Schedule 1. Add the taxable items and the non-allowable expenses listed on lines 101 to 199 and subtract from this the non-taxable items and eligible expenses listed on lines 401 to 499.
+
+Additions and deductions identified on lines 101 to 132 and 401 to 418 of Schedule 1 are the most common additions and subtractions. For other additions and deductions, see pages 3 and 4.
+
+Some expenses deducted on your income statement are not allowable for income tax purposes and are not identified on Schedule 1. In this case, use columns 605 and 295, and line 296, "Other additions", on page 3.
+
+For example, effective January 1, 2024, any deduction from income from non-compliant short-term rentals is disallowed to the extent of the non-compliant amount. On line 295 of [Schedule 1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch1.html), enter the non-deductible amount for non‑compliant short-term rentals.
+
+Also, certain items included in income that are not taxable are not identified on this schedule. In such cases, complete columns 705 and 395, and line396, "Other deductions", on page 4.
+
+Only complete lines 203 and 302 if you are converting from an accrual basis to a cash basis. Otherwise, these lines should be left blank.
+
+The deductible portion of expenses you incurred for food, beverages, and entertainment is only 50% of whichever is less: the expenditure actually incurred or the amount that would be reasonable in the circumstances.
+
+Eighty percent of expenses for food and beverages consumed by a long-haul truck driver during an eligible travel period are deductible. For more information, see [Guide T4002, Self-Employed Business, Professional, Commission, Farming, and Fishing Income](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002.html) or go to [Other employment expenses](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-22900-other-employment-expenses.html) and select "Transportation employees".
+
+A full deduction is allowed for meals provided to an employee at a temporary construction work camp, if certain conditions are met. For more information on this subject, see [What is a taxable benefit](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/benefits-allowances.html).
+
+Taxable capital gains or allowable capital losses allocated by a partnership to a corporate partner are not included on line 129 of Schedule 1 of the corporate partner. Instead, the corporate partner's share of the partnership's capital gain or loss should be reported on Schedule 6 of the corporate partner.
+
+You may have to use the following schedules to calculate certain amounts on Schedule 1:
+
+- [Schedule 6, Summary of Dispositions of Capital Property](#P1302_110078)
+
+- [Schedule 8, Capital Cost Allowance (CCA)](#P1479_127964)
+
+- [Schedule 12, Resource-Related Deductions](#P2333_152967)
+
+- [Schedule 13, Continuity of Reserves](#P2346_153491)
+
+- [Schedule 16, Patronage Dividend Deduction](#P2368_155289)
+
+- [Schedule 17, Credit Union Deductions](#schedule17)
+
+- [Schedule 73, Income Inclusion Summary for Corporations that Are Members of Partnerships](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html)
+
+- [Form T661, Scientific Research and Experimental Development (SR&ED) Expenditures Claim](#P2394_158817)
+
+### Schedule 6, Summary of Dispositions of Capital Property
+
+You have to complete [Schedule 6](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch6.html) if you disposed of capital property during the tax year and incurred any **capital losses** or realized any **capital gains**. You also have to complete this schedule if you claim an **allowable business investment loss**.
+
+**References** Section 54[Interpretation Bulletin IT‑170, Sale of Property - When Included in Income Computation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it170r.html)[Interpretation Bulletin IT‑448, Dispositions - Changes in Terms of Securities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it448.html)[Interpretation Bulletin IT‑460, Dispositions - Absence of Consideration](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it460.html)[Income Tax Folio S3-F4-C1, General Discussion of Capital Cost Allowance](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plans-folio-4-capital-cost-allowance/income-tax-folio-s3-f4-c1-general-discussion-capital-cost-allowance.html)
+
+#### Designation under paragraph 111(4)(e)
+
+Answer **yes** or **no** to the question on **line 050**, page 1 of Schedule 6.
+
+You can make a designation under paragraph 111(4)(e) if a person or group of persons has acquired control of the corporation. If you make the designation, capital properties will be considered as having been disposed of immediately before that person or group of persons acquired control of the corporation.
+
+#### Completing Schedule 6
+
+To help you complete Schedule 6, the following explanations briefly set out the type of information to enter in each column and each part of the schedule.
+
+##### Date of acquisition
+
+In this column, give the date you acquired the property.
+
+##### Proceeds of disposition
+
+In this column, indicate the proceeds of disposition. The proceeds of disposition are usually the selling price of the property. However, they can also include compensation the corporation received for property that was destroyed, expropriated, stolen, or damaged.
+
+For a gift or a deemed disposition, the proceeds of disposition are usually the fair market value of the property when its owner or use changes.
+
+**References** Section 54[Income Tax Folio S3-F3-C1, Replacement Property](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/folio-3-capital-transactions/income-tax-folio-s3-f3-c1-replacement-property.html)
+
+##### Adjusted cost base
+
+In this column, indicate the cost of the property you used to calculate any capital gain or loss. This amount is called the **adjusted cost base** (ACB). The ACB is the original cost of the property that has been adjusted to reflect certain transactions or occurrences that took place after acquiring the property.
+
+The cost of a capital property may be the actual cost, a deemed cost, or the valuation-day value of the property. The nature of the property and the circumstances under which you acquired it determine which cost of the capital property you should use.
+
+**References** Subsections 53(1) and 53(2)
+
+The cost of property acquired after 1971 is usually the actual cost of acquiring it, including the purchase price plus any related costs, such as commissions, legal fees, and other reasonable expenses. It also includes the cost of additions and improvements to the property. It does **not** include current expenses, such as maintenance and repair costs.
+
+Special rules apply when determining the cost of capital property owned on December 31, 1971. According to these rules, tax is not assessed and losses are not allowed for any gain or loss that arose before that date.
+
+When deductions from the cost base of a property (other than a partnership interest) reduce the balance to a negative amount at any time in the tax year, you are considered to have realized a capital gain equal to the amount of the negative balance, and the ACB becomes nil.
+
+You cannot use later additions to the ACB to reduce previous gains on the property that resulted from a negative balance. You can only consider these additions when you determine future gains or losses.
+
+**Reference** Subsection 40(3)
+
+Paragraphs 53(1)(e) and 53(2)(c) outline the rules for determining the ACB of a partnership interest.
+
+You have to reduce the ACB of a partnership interest by the amount of any share purchase tax credit, and one-half of any scientific research and experimental development tax credit the partnership allocated to the corporation.
+
+Interests in a partnership that a limited partner or an inactive partner holds are subject to the negative ACB rule.
+
+##### Outlays and expenses
+
+In this column, enter the amount of outlays and expenses you deducted when calculating a gain or loss. You can deduct most cash outlays the corporation used to put a property into saleable condition when you calculate a gain or loss. You can also deduct expenses incurred when disposing of the property. These expenses include certain fixing-up costs, finder's fees, commissions, surveyor's fees, transfer taxes, and other reasonable expenses incurred to dispose of the property.
+
+##### Gain (or loss)
+
+In the last column, enter the amount of the gain or loss as instructed.
+
+A **capital gain** results when the proceeds of disposition of a capital property are more than the ACB and any related outlays or expenses. A **capital loss** occurs when the proceeds of disposition are less than the ACB and the related outlays and expenses. However, a loss incurred on the disposition of depreciable property will not result in a capital loss, but will generally result in a **terminal loss**. See [Column 10 – UCC](#P1564_137652) (undepreciated capital cost) for more details about terminal losses.
+
+In certain cases, when you dispose of a building and the land on which it stands, and the building is disposed of for less than its undepreciated capital cost, you may have to reduce the gain on the sale of the land by the terminal loss on the sale of the building.
+
+**Reference** Subsection 13(21.1)
+
+If you dispose of crypto‑assets and other similar properties other than in the course of a business that you operate or an adventure in the nature of trade, the CRA may consider any resulting gain or loss to be a capital gain or capital loss. See the details in [Information for crypto-asset users and tax professionals](https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/cryptocurrency-guide.html) or [Guide T4037, Capital Gains](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037.html).
+
+##### Categories of capital property
+
+There are six categories of capital property you may have disposed of during the tax year. The categories are:
+
+- shares
+
+- real estate
+
+- bonds
+
+- other properties
+
+- personal-use property
+
+- listed personal property
+
+The first six parts of Schedule 6 reflect these six categories of capital property.
+
+##### Part 1 – Shares
+
+In this part, list the shares disposed of during the tax year. Give the number of shares, the name of the corporation in which the shares were held, and the class of the shares.
+
+Usually, disposing of a share of the capital stock of a corporation will result in a taxable capital gain or an allowable capital loss. However, if the corporation that is disposing of the share is in the business of trading shares, the resulting gain or loss is considered business income or loss.
+
+If a share is converted because of a merger or an amalgamation, subsection 248(1) deems a disposition to have occurred.
+
+Under paragraph 112(3)(b), a corporation (the shareholder) must reduce the losses from the disposition of shares held as capital property by certain dividends received for those shares. This is called a **stop-loss rule**. Generally, this rule does not apply when the shareholder owns less than 5% of the shares and has held these shares for over a year.
+
+On **line 160**, enter the total adjustment for such losses identified in Part 1. Enter the total amount of gain or loss realized on disposition of shares at amount A.
+
+**Reference**[Interpretation Bulletin IT‑328, Losses on Shares on Which Dividends Have Been Received](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it328r3.html)
+
+##### Part 2 – Real estate
+
+In this part, list all real estate disposed of during the tax year. Give the municipal address of each property.
+
+Dispositions of non-depreciable real property (unless the property is inventory) may result in a capital gain or loss. However, dispositions of depreciable property may result in a capital gain, a recapture of CCA, or a terminal loss. See [Column 10 – UCC](#P1564_137652) (undepreciated capital cost) for details about terminal losses and recaptures.
+
+Enter the total amount of gain or loss realized on disposition of real estate at amount B.
+
+**Reference**[Interpretation Bulletin IT‑218, Profit, Capital Gains and Losses From the Sale of Real Estate, Including Farmland and Inherited Land and Conversion of Real Estate From Capital Property to Inventory and Vice Versa](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it218r.html)
+
+##### Part 3 – Bonds
+
+In this part, list all bonds disposed of during the tax year. Give the face value, the maturity date, and the issuer's name for each type of bond.
+
+When you make a capital disposition of a debt obligation, the amount of any realized discount or bonus received is usually considered a capital gain. Similarly, a premium paid is considered a capital loss, either when the obligation matures or on the date you dispose of the obligation.
+
+Enter the total amount of gain or loss realized on disposition of bonds at amount C.
+
+**Reference**[Interpretation Bulletin IT‑479, Transactions in Securities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it479r.html)
+
+##### Part 4 – Other properties
+
+In this part, describe any capital property disposed of during the tax year that you have not already reported elsewhere in [Schedule 6](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch6.html).
+
+**Other property** includes capital debts established as bad debts, debts in respect of the disposition of personal-use property established as bad debts, amounts that arise from foreign currency transactions, as well as capital gains or losses allocated from partnerships and trusts.
+
+When an amount receivable on a capital account becomes a bad debt and you elect on your return to have the provisions of subsection 50(1) applied, a deemed disposition occurs at the end of the year. You are considered to have reacquired the debt immediately afterwards at a cost of nil. This usually allows the corporation to claim a bad debt as a capital loss in the year. Any later recovery of that debt will result in a capital gain.
+
+**References** Subsection 50(1)[Interpretation Bulletin IT‑159, Capital Debts Established to be Bad Debts](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it159r3.html)
+
+You can deduct, per subsection 50(2), capital losses in respect of bad debts relating to the disposition of personal use property to a person with whom you deal at arm's length.
+
+The amount of the loss cannot be more than the amount of the gain reported on the disposition of the personal-use property.
+
+**Reference**Subsection 50(2)
+
+Foreign exchange gains or losses from buying or selling capital properties are capital gains or capital losses.
+
+Transactions in foreign currency or foreign currency futures that do not form part of the business operations can be considered capital dispositions.
+
+**References** Subsection 39(2)[Interpretation Bulletin IT‑95, Foreign Exchange Gains and Losses](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it95r.html)
+
+For dispositions of depreciable property, a capital gain results if the proceeds are more than the capital cost. However, losses on depreciable property do not result in capital losses. These losses are **terminal losses**. See [Column 10 – UCC](#P1564_137652) (undepreciated capital cost) to find out more about terminal losses.
+
+Enter the total amount of gain or loss realized on disposition of other properties at amount D.
+
+##### Part 5 – Personal-use property
+
+In this part, describe any personal-use property you disposed of during the tax year.
+
+Personal-use property of a corporation is property owned mainly for the personal use or enjoyment of an individual who is related to the corporation.
+
+Use the $1,000 rule to determine gains and losses when you dispose of personal-use property. According to this rule, if the adjusted cost base is less than $1,000, it is considered to be $1,000. As well, when the proceeds of disposition are less than $1,000, they are considered to be $1,000.
+
+The $1,000 rule will not apply when donors acquire personal-use property as part of an arrangement in which the property is gifted to a qualified donee, such as a registered charity.
+
+You cannot deduct losses on dispositions of personal-use property (other than listed personal property or a debt that is personal-use property) from your income.
+
+Enter the total amount of gain realized on disposition of personal-use property at amount E.
+
+**Reference** Subsection 46(1)
+
+##### Part 6 – Listed personal property
+
+In this part, describe any listed personal property disposed of during the tax year.
+
+Listed personal property is a special category of personal-use property that usually increases in value. The following is a complete list of the different types of listed personal property:
+
+- prints, etchings, drawings, paintings, sculptures, or other similar works of art
+
+- jewellery
+
+- rare folios, rare manuscripts, or rare books
+
+- stamps
+
+- coins
+
+If you incur losses from disposing of listed personal property, you can only deduct these losses from capital gains realized from disposing of listed personal property.
+
+On line 655, enter the amount of listed personal property losses from previous years you want to apply against current-year net listed personal property gains. Also, enter this amount on line 530 of [Schedule 4, Corporation Loss Continuity and Application.](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch4.html)
+
+You can apply any unabsorbed losses in the current year to reduce similar net gains realized in the three preceding years, and in the following seven years. See Part 5 – Listed personal property losses for more details.
+
+At amount F, enter the total amount of gains or losses realized on disposition of listed personal property **minus** the amount of line 655.
+
+##### Part 7 – Property qualifying for and resulting in an allowable business investment loss
+
+Generally, a business investment loss arises from the **arm's length**disposition (or deemed disposition) of:
+
+- shares of a small business corporation
+
+- certain debts owed to the corporation by a small business corporation, certain bankrupt corporations, or certain wound-up corporations (these corporations **have to**deal with the corporation at arm's length)
+
+A small business corporation is defined in subsection 248(1).
+
+Complete Part 7 to calculate the business investment losses at amount G.
+
+#### Capital gains reserve
+
+Often, you will not receive part of the proceeds of disposition, usually for real property, until after the end of the year. In these cases, you can defer part of the capital gain to the year the corporation is due to receive the proceeds by setting up a capital gains reserve. By using reserves, you can spread a capital gain over a maximum of five years.
+
+Generally, a corporation that has made a gift of a non-qualifying security to a qualified donee may claim a reserve for any gain realized on this security. The reserve claimed by the corporation cannot exceed the eligible amount of the gift. The eligible amount of a gift is the amount by which the fair market value of the property that is the subject of the gift exceeds the amount of the advantage, if any, in respect of the gift.
+
+A reserve can only be claimed if the donation is not deducted for tax purposes and the donee does not dispose of the security or the security does not cease to be a non-qualifying security. This reserve can only be claimed in tax years ending within 60 months of making the gift.
+
+The reserve must be included in income if the corporation becomes a non-resident or tax exempt.
+
+The reserve that you can claim in a tax year cannot be more than the lesser of the following two amounts:
+
+A. (Capital gain **÷** Proceeds of disposition) × Amount not due until after the end of the year
+
+**and**
+
+B.
+
+- for the year of disposition 4/5 of the capital gain
+
+- for the second year 3/5 of the capital gain
+
+- for the third year 2/5 of the capital gain
+
+- for the fourth year 1/5 of the capital gain
+
+Add the reserve amount you deducted in a tax year to income in the following tax year.
+
+Add the reserve opening balance and subtract the reserve closing balance on lines 880 and 885 of Schedule 6.
+
+Show the continuity of capital gain reserves on [Schedule 13, Continuity of Reserves](#P2346_153491).
+
+**References** Subparagraphs 40(1)(a)(ii) and 40(1)(a)(iii) Subsection 40(1.01)
+
+##### Part 8 – Capital gains or losses
+
+When completing this part, line 875 is the capital gains dividends. Capital gains dividends under paragraphs 130.1(4)(a) and (b) and 131(1)(a) and (b) are considered to be capital gains. These paragraphs apply to mortgage investment corporations and mutual fund corporations. If you received any capital gains dividends in the tax year, enter them on this line.
+
+Line 880 is the balance at the beginning of the year of the capital gains reserve from Schedule 13. This amount should include any amount from the last tax year of predecessor corporations after amalgamation or wind-up.
+
+##### Part 9 – Taxable capital gains and total capital losses
+
+Generally, a zero inclusion rate applies for capital gains arising as a result of a gift to qualified donees of certain securities or of environmentally sensitive land. The zero inclusion rate is restricted to only part of the capital gain if the taxpayer is entitled to an advantage or benefit in respect of a gift.
+
+When completing this part, line 895 is the full amount of capital gains realized on donations of a security listed on a designated stock exchange, a share or unit of a mutual fund, an interest in a segregated fund, or a prescribed debt obligation made to a qualified donee.
+
+Generally, if you donate property to a qualified donee that is included in a flow-through share class of property, and you have an exemption threshold for the flow-through share class of property, you may be deemed to have an additional capital gain from the disposition of another capital property subject to the 50% inclusion rate.
+
+Amounts under section 34.2 (the adjusted stub period accrual regime) that have the character of capital are to be entered in this part of Schedule 6 and not on line 130 of Schedule 1.
+
+Since these amounts are deemed to be taxable capital gains/allowable capital losses under the rules in section 34.2 and so already reflect the 50% inclusion rate, they are multiplied by 2 on Schedule 6 to calculate the total capital gains or losses of the corporation.
+
+In general, if you dispose of an interest in a partnership to tax-exempt entities, non-resident persons, or partnerships and trusts that have such members or beneficiaries, a special rule may apply.
+
+Under subsection 100(1), part of the capital gain may be subject to the 50% inclusion rate and another part may be subject to a 100% inclusion rate.
+
+The portion of the capital gain that can reasonably be attributed to increases in the value of capital property (other than depreciable property) held directly by the partnership (or held indirectly by the partnership through one or more other partnerships) is subject to the 50% inclusion rate and the rest is subject to the 100% inclusion rate.
+
+If all the partnership assets are inventory, depreciable property, or resource property, then the capital gain would be subject to the 100% inclusion rate unless an exception applies. If there is also capital property (other than depreciable property), then it's an apportionment.
+
+If subsection 100(1) applies, enter the result of the portion of the capital gain that is subject to the 100% inclusion rate multiplied by 2 on line 902. Enter the portion of the capital gain that is subject to the 50% inclusion rate in Part 4.
+
+**Amount P** is the capital gain or loss for the year. If the amount is a loss, enter it at amount Q of Schedule 6 and line 210 of Schedule 4. If the amount is a gain, enter the result of amount P **multiplied** by 1/2 at amount R of Schedule 6 and line 113 of Schedule 1.
+
+**References**Subsections 40(12) and 100(1) Paragraphs 38(a.1) and 38(a.2)
+
+You can deduct an ABIL from all sources of income for the year. If any balance remains after the year the loss occurs, it becomes part of the non-capital loss. You can carry the non-capital loss back 3 tax years and carry it forward 10 tax years.
+
+If you are unable to deduct an ABIL as a non-capital loss within this allowed time frame, the unused part becomes a net capital loss, and you can carry it forward indefinitely to reduce taxable capital gains.
+
+Include all **unused ABIL** after the applicable carry-forward period in [Part 2, Capital losses](#P2496_170160), of [Schedule 4](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch4.html).
+
+**References** Paragraph 39(1)(c)[Income Tax Folio S4-F8-C1, Business Investment Losses](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/series-4-businesses-folio-8-losses/income-tax-folio-s4-f8-c1-business-investment-losses.html)
+
+### Schedule 8, Capital Cost Allowance (CCA)
+
+Paragraph 20(1)(a) allows a corporation to deduct part of the capital cost of certain **depreciable property** from income it earned in the year from a business or property. This deduction is called **capital cost allowance**.
+
+Complete [Schedule 8](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch8.html) to calculate CCA.
+
+When a tax year is shorter than 12 months, you generally have to prorate the CCA.
+
+Under Part XI of the [Income Tax Regulations](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._945/), depreciable property is grouped into prescribed classes. Schedule II of the regulations contains a complete list of these prescribed classes.
+
+A maximum rate is prescribed for each class. Apply the prescribed rate to the undepreciated capital cost of the class at year-end to determine the maximum CCA you can claim. You can deduct any amount up to the maximum that is available for the year.
+
+#### Disability-related modifications
+
+You can deduct outlays and expenses you incur for eligible disability-related modifications made to a building in the year you paid them, instead of having to add them to the capital cost of your building. Eligible disability-related modifications include changes you make to accommodate wheelchairs. You can also deduct expenses paid to install or get disability-related devices and equipment.
+
+You can claim this as "Other deductions" on [Schedule 1, Net Income (Loss) for Income Tax Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch1.html).
+
+#### Available-for-use rule
+
+The available-for-use rule determines the earliest tax year in which you can claim CCA for depreciable property.
+
+#### When is property available for use?
+
+**Property other than a building** is considered available for use at the earliest of several dates. The following are some examples of these dates:
+
+- when the corporation first uses the property to earn income
+
+- the beginning of the first tax year that starts at least 358 days after the tax year during which the corporation acquired the property
+
+- immediately before the corporation disposes of the property
+
+- when the corporation can use the property to either produce a saleable product or perform a saleable service
+
+**A building** is considered available for use on the earliest of the following dates:
+
+- when the corporation uses all or substantially all of the building for its intended purpose
+
+- when construction of the building is completed
+
+- the beginning of the first tax year that starts at least 358 days after the tax year during which the corporation acquired the property
+
+- immediately before the corporation disposes of the property
+
+- when the corporation acquires a replacement property, if it is replacing one it involuntarily disposed of (for example, expropriation) that it either acquired before 1990 or had already become available for use
+
+If a corporation acquires a property for a **long-term project**, it can elect to limit the impact of the available-for-use rule. This election is not available for rental buildings. To make this election, send the CRA a completed [Form T1031, Subsection 13(29) Election in Respect of Certain Depreciable Properties, Acquired for use in a Long Term Project](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1031.html), with your return.
+
+**References** Subsections 13(26) to 13(32)
+
+#### Election under Regulation 1101(5q)
+
+##### Line 101 – Is the corporation electing under Regulation 1101(5q)?
+
+Tick the **yes** or **no** box.
+
+This election allows you to include certain property usually included in classes 8 and 43 in a separate class. You have to have acquired each property at a capital cost of **at least $1,000**. The types of properties that qualify for this election include manufacturing and processing property, photocopiers, and electronic communications equipment, such as facsimile transmission devices or telephone equipment.
+
+You can elect to classify a property in a separate class or several properties in one or more than one separate class.
+
+This election can allow you to claim a terminal loss, which is any remaining undepreciated capital cost at the time of disposition of the properties in this class. For more information on terminal losses, see [Column 10 – UCC](#P1564_137652) (undepreciated capital cost).
+
+#### CCA rates and classes
+
+##### Zero-emission vehicles – Classes 54 and 55
+
+Two CCA classes (54 and 55) were added for zero-emission vehicles (ZEVs) acquired after March 18, 2019.
+
+Class 55 was created for zero-emission vehicles otherwise included in class 16, essentially automobiles for lease or rent and taxicabs, with the same CCA rate of 40%. Class 54 was created for zero-emission vehicles that would otherwise be included in class 10 or 10.1, essentially other automobiles, with the same CCA rate of 30%. The CCA still applies on a declining-balance basis.
+
+A corporation may elect to not include in class 54 or 55 a vehicle that would otherwise be a zero emission vehicle. When such an election is filed, the vehicle will no longer be considered to be a zero-emission vehicle. As a result, the vehicle will be included in its usual CCA class 10, 10.1 or 16. A corporation has to file this election with the minister of National Revenue in its return of income for the tax year in which the vehicle is acquired.
+
+An eligible zero-emission vehicle is essentially a motor vehicle for use on streets and highways (excluding a trolley bus or vehicle operated only on rails). It must be fully electric, or a plug in hybrid that has a battery capacity of at least 7 kWh, or fully powered by hydrogen. It must not have been used, or acquired for use, for any purpose before it was acquired by the corporation, unless the corporation acquires it after March 1, 2020.
+
+It cannot be a vehicle:
+
+- for which the Government of Canada paid assistance under a prescribed program such as the federal purchase incentive announced in the 2019 federal budget (presently there is only one prescribed program)
+
+- that the corporation elected not to include in class 54 or 55
+
+- for which an amount has been deducted as CCA or a terminal loss has been claimed by another person or partnership
+
+In addition, a zero-emission vehicle has to be acquired, and become available for use, after March 18, 2019, and before 2034.
+
+An enhanced first-year CCA is available as follows for property acquired before 2025:
+
+- 100% for property that becomes available for use after March 18, 2019, and before 2024
+
+- 75% for property that becomes available for use in 2024 or 2025
+
+- 55% for property that becomes available for use after 2025 and before 2028
+
+An enhanced first-year CCA is available as follows for property acquired after 2024:
+
+- 100% for property that becomes available for use after 2024 and before 2030
+
+- 75% for property that becomes available for use in 2030 or 2031
+
+- 55% for property that becomes available for use after 2031 and before 2034
+
+For the enhanced first‑year allowance, the following step should be done before calculating the CCA:
+
+- increase the net capital cost addition to the new class for property that becomes available for use before 2034 as follows:
+
+    - For class 54, increase the capital cost addition by an amount equal to:
+
+          - 2 1/3 times the net addition to the class for property acquired before 2025 that becomes available for use before 2024 and property acquired after 2024 that becomes available for use before 2030
+
+          - 1 ½ times the net addition to the class for property acquired before 2025 that becomes available for use in 2024 or 2025 and property acquired after 2024 that becomes available for use in 2030 or 2031
+
+          - 5/6 times the net addition to the class for property acquired before 2025 that becomes available for use after 2025 and property acquired after 2024 that becomes available for use after 2031
+
+    - For class 55, increase the capital cost addition by an amount equal to:
+
+          - 1 ½ times the net addition to the class for property acquired before 2025 that becomes available for use before 2024 and property acquired after 2024 that becomes available for use before 2030
+
+          - 7/8 times the net addition to the class for property acquired before 2025 that becomes available for use in 2024 or 2025 and property acquired after 2024 that becomes available for use in 2030 or 2031
+
+          - 3/8 times the net addition to the class for property acquired before 2025 that becomes available for use after 2025 and property acquired after 2024 that becomes available for use after 2031
+
+- suspend the existing CCA half year rule
+
+Multiply the result by the prescribed CCA rate of 30% for class 54 and 40% for class 55.
+
+The CCA will apply to any remaining balance for the new classes using the set rate for each class.
+
+These measures do not change the total amount that can be deducted over the life of the vehicle, it just allows a larger deduction in the first year.
+
+A zero-emission passenger vehicle is an automobile that is included in class 54. When the capital cost of a zero-emission passenger vehicle is more than a prescribed amount ($61,000 plus sales tax for vehicles acquired on or after January 1, 2023), the capital cost of the vehicle is deemed to be the prescribed amount. This amount will be reviewed annually.
+
+If a zero-emission passenger vehicle is disposed of to a person or partnership with which the corporation deals at arm's length and its cost is more than the prescribed amount, the proceeds of disposition will be adjusted based on a factor equal to the prescribed amount as a proportion of the actual cost of the vehicle. But for dispositions made after July 29, 2019, the actual cost of the vehicle will be adjusted for payment or repayment of government assistance.
+
+##### Zero-emission vehicles – Class 56
+
+A temporary enhanced first-year capital cost allowance (CCA) of 100% is available for eligible zero-emission automotive equipment and vehicles (other than motor vehicles) that currently do not benefit from the accelerated rate provided by classes 54 and 55. These vehicles and equipment are included in class 56. They have to be acquired after March 1, 2020, and become available for use before 2034.
+
+The enhanced CCA applies only for the tax year in which the equipment or vehicle first becomes available for use.
+
+It is subject to the following phase‑out for property acquired before 2025:
+
+- 100% for property that becomes available for use after March 1, 2020, and before 2024
+
+- 75% for property that becomes available for use in 2024 or 2025
+
+- 55% for property that becomes available for use after 2025 and before 2028
+
+It is subject to the following phase-out for property acquired after 2024:
+
+- 100% for property that becomes available for use after 2024 and before 2030
+
+- 75% for property that becomes available for use in 2030 or 2031
+
+- 55% for property that becomes available for use after 2031 and before 2034
+
+For the enhanced first-year allowance, the following step should be done before calculating the CCA:
+
+- increase the net capital cost addition by an amount equal to:
+
+    - 2 ⅓ times the net addition to the class for property acquired before 2025 that becomes available for use before 2024, and property acquired after 2024 that becomes available for use before 2030
+
+    - 1 ½ times the net addition to the class for property acquired before 2025 that becomes available for use in 2024 or 2025, and property acquired after 2024 that becomes available for use in 2030 or 2031
+
+    - 5/6 times the net addition to the class for property acquired before 2025 that becomes available for use after 2025, and property acquired after 2024 that becomes available for use after 2031
+
+- suspend the existing CCA half-year rule
+
+To be eligible for the enhanced first year allowance, a vehicle or equipment must be automotive (that is, self-propelled) and fully electric or powered by hydrogen. Vehicles or equipment that are powered partially by electricity or hydrogen (which includes hybrid vehicles and vehicles that require human or animal power for propulsion) are not eligible.
+
+Class 56 captures automotive equipment that is not designed for use on highways or streets such as zero-emission aircraft, watercraft, trolley buses and railway locomotives. Additions or alterations may qualify if they convert automotive equipment (other than a motor vehicle) into a zero-emission property.
+
+The CCA is deductible on any remaining balance on a declining balance basis at a rate of 30%.
+
+An election is available to not include the vehicle or equipment in class 56. As a result, the property will then be included in the class for which it would otherwise be eligible.
+
+Class 56 excludes property for which CCA or a terminal loss has previously been claimed by another person or partnership where the equipment was acquired by the corporation on a tax-deferred “rollover” basis or it was previously owned or acquired by the corporation or a non-arm's length person or partnership.
+
+##### Accelerated investment incentive property
+
+Accelerated investment incentive property (AIIP) is a property (other than property included in classes 54 to 56) that is acquired by the corporation after November 20, 2018, and before 2025, and becomes available for use before 2028.
+
+The property has to meet one of the following conditions:
+
+- no person or partnership (including the corporation) has claimed capital cost allowance (or a terminal loss) for the property
+
+- it has not been transferred to the corporation on a tax deferred "rollover" basis
+
+- it was not previously owned or acquired by the corporation or a non-arm's length person or partnership
+
+The following measures are available to AIIP:
+
+- Accelerated investment incentive – Providing an enhanced first-year allowance for certain eligible property that is subject to the CCA rules. In general, the incentive is made up of two elements:
+
+    - an increase up to 50% of the net capital cost addition to a class for property that becomes available for use before 2024
+
+    - suspending the existing CCA half-year rule (and equivalent rules for Canadian vessels and class 13 property) for property that becomes available for use before 2028.
+
+Under the half-year rule, in general, property other than AIIP, reaccelerated investment incentive property (RIIP), or property included in classes 54 to 56, acquired during the tax year, is eligible for only 50% of the normal maximum CCA for the year. You can claim full CCA for that property in the next tax year. See Regulation 1100(2).
+
+- Enhanced first year CCA for manufacturers and processors – Allowing businesses to immediately write off the full cost of machinery and equipment used for the manufacturing or processing of goods (class 53 or property included in class 43 and acquired after 2025, if the property would have been included in class 53 if it had been acquired in 2025) in the year the property becomes available for use, with a phase-out for property that becomes available for use after 2023.
+
+- Enhanced first year CCA for clean energy investments – Allowing businesses to immediately write off the full cost of specified clean energy equipment (classes 43.1 and 43.2) in the year the property becomes available for use, with a phase-out for property that becomes available for use after 2023.
+
+- Enhanced first year CCA for productivity-enhancing assets – Allowing businesses to immediately write off the full cost of classes 44, 46 and 50 assets that were acquired and became available for use by the business after April 15, 2024, and before 2027. Property that becomes available for use in 2027 would continue to benefit from the suspension of the half-year rule
+
+The accelerated investment incentive applies to property for which CCA is calculated on a declining balance basis (including class 14.1, intangible property), as well as property with straight line depreciation (for example, leasehold improvement, patents, and limited period licences).
+
+In certain situations, rules related to limited partners, specified leasing properties, specified energy properties and rental properties can restrict a CCA deduction, or a loss for such a deduction, that would otherwise be available. These rules continue to apply.
+
+The accelerated investment incentive does not change the total amount that can be deducted over the life of the property, it just allows a larger deduction in the first year.
+
+For more information, go to [Accelerated Investment Incentive](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/report-business-income-expenses/claiming-capital-cost-allowance/accelerated-investment-incentive.html).
+
+**Reference**Regulation 1104(4)[Income Tax Folio S3-F8-C2, Tax Incentives for Clean Energy Equipment](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-8-resource-properties/income-tax-folio-s3-f8-c2-tax-incentives-clean-energy-equipment.html)
+
+##### Reaccelerated investment incentive property
+
+Reaccelerated investment incentive property (RIIP) is a property (other than property included in classes 54 to 56) that is acquired by the corporation after 2024, and becomes available for use before 2034.
+
+The property has to meet one of the following conditions:
+
+- no person or partnership (including the corporation) has claimed capital cost allowance (or a terminal loss) for the property
+
+- it has not been transferred to the corporation on a tax deferred “rollover" basis
+
+- it was not previously owned or acquired by the corporation or a non-arm's length person or partnership
+
+- The following measures are available to RIIP:
+
+- Reaccelerated investment incentive – Providing an enhanced first-year allowance for certain eligible property that is subject to the CCA rules. In general, the incentive is made up of two elements:
+
+    - an increase up to 50% of the net capital cost addition to a class for property that becomes available for use before 2030
+
+    - suspending the existing CCA half year rule (and equivalent rules for Canadian vessels and class 13 property) for property that becomes available for use before 2034
+
+Under the half-year rule, in general, property other than AIIP, RIIP, or property included in classes 54 to 56, acquired during the tax year, is eligible for only 50% of the normal maximum CCA for the year. You can claim full CCA for that property in the next tax year. See Regulation 1100(2).
+
+- Enhanced-first year CCA for manufacturers and processors – Allowing businesses to immediately write off the full cost of machinery and equipment used for the manufacturing or processing of goods (class 53 or property included in class 43 and acquired after 2025, if the property would have been included in class 53 if it had been acquired in 2025) in the year the property becomes available for use, with a phase-out for property that becomes available for use after 2029.
+
+- Enhanced first-year CCA for clean energy investments – Allowing businesses to immediately write off the full cost of specified clean energy equipment (class 43.1) in the year the property becomes available for use, with a phase-out for property that becomes available for use after 2029.
+
+- Enhanced first-year CCA for productivity-enhancing assets – Allowing businesses to immediately write off the full cost of classes 44, 46 and 50 assets that were acquired and became available for use by the business after April 15, 2024 and before 2027. Property that becomes available for use after 2026 would continue to benefit from the suspension of the half-year rule.
+
+The reaccelerated investment incentive applies to property for which CCA is calculated on a declining balance basis (including class 14.1, intangible property), as well as property with straight line depreciation (for example, leasehold improvement, patents, and limited period licences).
+
+In certain situations, rules related to limited partners, specified leasing properties, specified energy properties and rental properties can restrict a CCA deduction, or a loss for such a deduction, that would otherwise be available. These rules continue to apply.
+
+The reaccelerated investment incentive does not change the total amount that can be deducted over the life of the property, it just allows a larger deduction in the first year.
+
+**Reference** Regulations 1100(2) and 1104(4.01)
+
+#### Completing Schedule 8
+
+This section explains how to complete each column of Schedule 8. Use a separate line for each class of property.
+
+**Reference**[Income Tax Folio S3-F4-C1, General Discussion of Capital Cost Allowance](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plans-folio-4-capital-cost-allowance/income-tax-folio-s3-f4-c1-general-discussion-capital-cost-allowance.html)
+
+##### Column 1 – Class number
+
+Identify each class of property with the assigned class number.
+
+Generally, you have to group all depreciable property of the same class together. Then, calculate CCA on the undepreciated capital cost of all the property in that class.
+
+However, sometimes you have to maintain property of the same class in separate lines. For example, list on separate lines property that you would usually group in the same class but use to earn income from different sources. Also, list on a separate line each class 10.1 passenger vehicle and property you elected to identify in a separate class under Regulation 1101(5q).
+
+If a class number has not been provided in Schedule II of the Income Tax Regulations for a particular class of property, use the subsection provided in Regulation 1101.
+
+**Reference**Regulations 1100 and 1101
+
+##### Column 2 – Undepreciated capital cost (UCC) at the beginning of the year
+
+Enter the amount of the undepreciated capital cost at the end of the **previous tax year**.
+
+##### Column 3 – Cost of acquisitions during the year
+
+For each class, enter the total cost of depreciable property you acquired in the tax year. Depreciable property is considered acquired when it becomes available for use. For more information, see the [available-for-use rule](#P1490_129462).
+
+**Reduce** the capital cost of a property by the following amounts:
+
+- goods and services tax / harmonized sales tax (GST/HST) input tax credit claimed or entitled to be claimed, or rebate received or entitled to be received in the year
+
+- federal investment tax credits (ITCs), other than scientific research and experimental development ITCs, used to reduce taxes payable or claimed as a refund in the previous tax year
+
+- reduction of capital cost after the application of section 80
+
+- provincial or territorial ITCs received or entitled to be received in the current year
+
+- government assistance received or entitled to be received in the year and described under paragraph 13(7.1)(f)
+
+- deemed decrease, under subsection 13(40), to the undepreciated capital cost of class 14.1 where you acquired property of that class through a non-arm's length transfer and the property had been eligible capital property of the transferor before January 1, 2017
+
+**Add** to the capital cost of the property:
+
+- deemed increase, under subsection 13(39), to the undepreciated capital cost of class 14.1 where you disposed of property of that class after December 31, 2016, and that property had been eligible capital property before January 1, 2017
+
+- repayment of GST/HST input tax credit previously claimed
+
+- government assistance repaid in the year that previously reduced the capital cost and described under paragraph 13(7.1)(d)
+
+The cost of acquisitions generally means the full cost of acquiring the property, including legal, accounting, engineering, and other fees. **Land is not a depreciable property, and is therefore not eligible for CCA.**List any acquisitions that are not subject to the 50% rule, separately. See Regulations 1100(2) and (2.2) for more information about these types of acquisitions. Do not enter in this column any property included in column 5 (for example, section 85 transfers).
+
+A corporation that receives an amount of non‑government assistance to buy depreciable property has the option of either reducing the capital cost of the property by this amount, or including the assistance in its income.
+
+**References** Subsections 13(7.1) and 13(7.4) Paragraph 12 (1)(x) Regulations 1100(2) and (2.2)
+
+##### Column 4 – Cost of acquisitions from column 3 that are accelerated investment incentive property (AIIP) or property acquired before 2025 that is included in classes 54 to 56
+
+For each class, enter the total cost of the AIIP or property acquired before 2025 that is included in classes 54 to 56 and that became available for use during the year. They are included in column 3 and shown separately in column 4.
+
+AIIP generally means a property, other than property included in classes 54 to 56, acquired after November 20, 2018, and before 2025, and that becomes available for use before 2028.
+
+See the details on the [zero-emission vehicles – classes 54 and 55](#cca_54_55), the [zero-emission vehicles – class 56](#class_56), and the [accelerated investment incentive property](#AIIP).
+
+**Reference** Regulation 1104(4) Schedule II of the Regulations
+
+##### Column 5 – Cost of acquisitions from column 3 that are reaccelerated investment incentive property (RIIP) or property acquired after 2024 that is included in classes 54 to 56
+
+For each class, enter the total cost of the RIIP or property acquired after 2024 that is included in classes 54 to 56 that became available for use during the year. They are included in column 3 and shown separately in column 5.
+
+RIIP generally means a property, other than property included in classes 54 to 56, acquired after 2024 and becomes available for use before 2034.
+
+For more details, see [Zero-emission vehicles – Classes 54 and 55](#cca_54_55), [Zero-emission vehicles – Class 56](#class_56), and [Reaccelerated investment incentive property](#expensing).
+
+**Reference** Regulation 1104(4.01) Schedule II of the Regulations
+
+##### Column 6 – Adjustments and transfers
+
+In some cases, you will have to adjust the UCC of a property. In column 6, enter the amounts that will either **reduce** or **increase** the UCC.
+
+**Reduce** the UCC of a property by the following amounts:
+
+- any amount by which the UCC for the class is required (otherwise than because of a reduction in the taxpayer's capital cost of depreciable property) to be reduced at or before the time of the UCC calculation because of the debt forgiveness rules in subsection 80(5)
+
+- each amount of ITC allowed on a property for a tax year which has ended before the UCC calculation and after disposition of the property
+
+- each amount of assistance you received (or were entitled to receive) after the disposition of a property, if such assistance would have decreased the capital cost of the property by virtue ofparagraph 13(7.1)(f)
+
+- each amount you received after February 23, 1998, and before the time of the UCC calculation for a refund of an amount as or on account of a proposed or existing countervailing or anti-dumping duty on a particular property added to the UCC of the class
+
+**Add** to the UCC of the property:
+
+- any legally required repayment of assistance made after the disposition of a particular property, that would have otherwise increased the capital cost of the property under paragraph 13(7.1)(d)
+
+- any legally required repayment of an inducement, assistance or any other amount contemplated in paragraph 12(1)(x) received after the disposition of a particular property, that otherwise would have increased the capital cost of the property under paragraph 13(7.4)(b)
+
+- each amount payable after February 23, 1998, and paid before the time of the UCC calculation as or on account of a proposed or existing countervailing or anti-dumping duty on a particular property
+
+Also include in column 6 depreciable property transferred on amalgamation or upon the wind-up of a subsidiary, and depreciable property transferred under section 85. Show the amounts that reduce the UCC in brackets. Do not include them as income.
+
+**References**Subsection 13(21)
+
+##### Column 7 – Amount from column 6 that is assistance received or receivable during the year for a property, subsequent to its disposition
+
+Enter the total amount of assistance you received (or were entitled to receive) after the disposition of a property, if such assistance would have decreased the capital cost of the property if received before the disposition by virtue of paragraph 13(7.1)(f).
+
+That amount is included in column 6 because it reduces the capital cost of a property. It is also reported separately in column 8.
+
+**References**Subsection 13(21)Paragraph 13(7.1)(f)
+
+##### Column 8 – Amount from column 6 that is repaid during the year for a property, subsequent to its disposition
+
+In column 8, include all amounts you have repaid during the year with respect to any legally required repayment, made after the disposition of a corresponding property, of:
+
+- assistance that would have otherwise increased the capital cost of the property under paragraph 13(7.1)(d)
+
+- an inducement, assistance or any other amount contemplated in paragraph 12(1)(x) received, that otherwise would have increased the capital cost of the property under paragraph 13(7.4)(b)
+
+These amounts are included in column 6 as they increase the capital cost of a property. They are also reported separately in column 8.
+
+**References**Subsection 13(21)Paragraphs 13(7.1)(d), 13(7.4)(b), and 12(1)(x)Regulation 1100(2.2)
+
+##### Column 9 – Proceeds of disposition
+
+For each class, you usually enter the total proceeds of disposition received or are entitled to be received for property disposed of during the year. However, if you disposed of the property for more than its capital cost, enter the capital cost, not the actual proceeds of disposition.
+
+A capital gain results when you dispose of a depreciable property for more than its capital cost. However, losses on depreciable property **do not result** in capital losses. They may result in terminal losses. For details about terminal losses, see column 19.
+
+##### Column 10 – UCC
+
+To calculate the amount you have to enter in column 10, do the following:
+
+- add the amounts in columns 2 and 3
+
+- either subtract or add the amount in column 6 (subtract if it is a negative amount, or add if it is a positive amount)
+
+- subtract the amount in column 9
+
+You cannot claim CCA in the following situations:
+
+- the amount in column 10 is positive, and no property is left in that class at the end of the tax year (a **terminal loss**)
+
+- the amount in column 10 is negative (a **recapture of CCA**)
+
+###### Terminal loss
+
+A terminal loss results when you dispose of all the property in a particular class and there is an amount of undepreciated capital cost left in column 10. You have to deduct the terminal loss from income. If applicable, enter the positive amount from column 10 in column 19. For details, see example 1 in [Schedule 8 examples](#P1618_142600).
+
+###### Recapture of CCA
+
+If the amount in column 10 is negative, you have a recapture of CCA. A recapture of CCA occurs when the proceeds of disposition in column 9 are more than the total of columns 2 and 3, plus or minus the amount in column 6 of that class.
+
+You have to add the recapture to income. If applicable, enter the negative amount from column 10 in column 18 as a positive. For details, see example 2 in [Schedule 8 examples](#P1618_142600).
+
+The recapture and terminal loss rules do not apply to passenger vehicles in class 10.1. However, the recapture rules do apply to a passenger vehicle that was, at any time, a DIEP.
+
+Once you have entered the recapture or terminal loss from column 10 in column 18 or 19, do not complete columns 20 and 21 for that line.
+
+##### Column 11 – Proceeds of disposition available to reduce additions of AIIP, RIIP, and property included in classes 54 to 56
+
+When you purchase an AIIP, RIIP, or a property included in classes 54 to 56 and a property other than an AIIP, RIIP, and property included in classes 54 to 56 during the year and a disposition occurs, the disposition first offsets the property other than AIIP, RIIP, and property included in classes 54 to 56. Then it reduces the undepreciated capital cost of the AIIP, RIIP, or the property included in classes 54 to 56.
+
+To calculate the amount you have to enter in column 11, do the following:
+
+- add the amount in column 9
+
+- add the amount in column 7
+
+- subtract the amount in column 3
+
+- add the amount in column 4
+
+- add the amount in column 5
+
+- subtract the amount in column 8
+
+**Reference** Regulation 1100(2)
+
+##### Column 12 – Net capital cost additions of AIIP and property acquired before 2025 that is included in classes 54 to 56
+
+Subtract the amount in column 11 from the amount in column 4 and enter the difference.
+
+**Reference** Regulation 1100(2)
+
+##### Column 13 –Proceeds of disposition from column 11 available to reduce additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56
+
+Under an administrative position, the CRA allows the amount from column 11 to reduce first the additions of AIIPs and property acquired before 2025 that is included in Classes 54 to 56, with any remaining amount reducing the additions of RIIPs and property acquired after 2024 that is included in Classes 54 to 56.
+
+Subtract the amount in column 4 from the amount in column 11 and enter the difference.
+
+##### Column 14 – Net capital cost of additions of RIIP and property acquired after 2024 that is included in classes 54 to 56
+
+Subtract the amount in column 13 from the amount in column 5 and enter the difference.
+
+**Reference** Regulation 1100(2)
+
+##### Column 15 – UCC adjustment for AIIP and property acquired before 2025 that is included in classes 54 to 56
+
+You must adjust the UCC (from column 10) to include an accelerated CCA component for AIIP and any property acquired before 2025 included in classes 54 to 56 that became available for use during the year.
+
+Multiply the net capital cost of additions from column 12 by 0.5 unless a different factor is provided in the legislation.
+
+**Reference** Regulation 1100(2)
+
+##### Column 16 – UCC adjustment for RIIP and property acquired after 2024 that is included in classes 54 to 56
+
+You must adjust the UCC (from column 10) to include an accelerated CCA component for RIIP and any property acquired after 2024 included in classes 54 to 56 that became available for use during the year.
+
+Multiply the net capital cost of additions from column 14 by 0.5 unless a different factor is provided in the legislation.
+
+**Reference** Regulation 1100(2)
+
+##### Column 17 – UCC adjustment for property acquired during the year other than AIIP, RIIP, and property included in classes 54 to 56 (previously known as the 50% rule)
+
+Generally, property acquired during the tax year was only eligible for 50% of the normal maximum CCA for the year. You could claim full CCA for that property in the next tax year.
+
+This 50% rule does not apply to certain property, including AIIP, RIIP, and property included in classes 54 to 56.
+
+To apply the 50% rule, the UCC of the property (from column 10) has to be adjusted. This adjustment is equal to half of the net amount of additions to the class (the net cost of acquisitions minus the proceeds of dispositions). Enter this amount in column 17. For details, see example 3 in [Schedule 8 examples](#P1618_142600).
+
+When applying the 50% rule, do not reduce the net amount of additions by the ITC claimed in the previous tax year and included in column 6.
+
+Certain properties acquired through non arm's length transfers or butterfly transfers (which occur in the course of certain reorganizations) are exempt from the 50% rule. The AIIP, RIIP, and property included in classes 54 to 56 are also exempt from the 50% rule. For special rules and exceptions, see [Income Tax Folio S3-F4-C1, General Discussion of Capital Cost Allowance](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plans-folio-4-capital-cost-allowance/income-tax-folio-s3-f4-c1-general-discussion-capital-cost-allowance.html).
+
+To calculate the amount you have to enter in column 17, do the following:
+
+- subtract the amounts in columns 4 and 5 from the amount in column 3
+
+- subtract the amount in column 7
+
+- add the amount in column 8
+
+- subtract the amount in column 9
+
+- multiply the result by 0.5
+
+**References**Regulations 1100(2) and 1100(2.2)
+
+##### Column 18 – CCA rate %
+
+Enter the prescribed rate that applies, as provided for under Part XI of the Regulations. If a specific rate has not been provided for a particular class of property, enter N/A in this column.
+
+Enter a rate only if you are using the declining balance method. In this method, the CCA is calculated by multiplying a constant rate by the diminishing balance every year.
+
+Some asset classes use the **straight-line** method to calculate the CCA. In this method, the CCA is calculated by dividing the original amount by the number of years that corresponds to the life expectancy of the property. Therefore, the **deducted amount stays the same** from one year to the other (except the first and last year, if the half-year rule applies for property acquired before November 21, 2018) and you do not have to enter a rate.
+
+**Declining balance method** – The capital cost of an asset other than an AIIP, RIIP, or a property included in classes 54 to 56 is $780,000. The rate for the class is 10% with a half-year rule.
+
+First year: 10% × $780,000 = $78,000 $78,000 ÷ 2 = $39,000 CCA (half-year rule)
+
+Second year: $780,000 − $39,000 = $741,000 (undepreciated capital cost) $741,000 × 10% = $74,100 CCA
+
+Third year: $741,000 − $74,100 = $666,900 (undepreciated capital cost) $666,900 × 10% = $66,690 CCA And so on for the following years.
+
+**Straight-line method**– The capital cost of an asset other than an AIIP, RIIP, or a property included in classes 54 to 56 is $780,000. The asset's life expectancy is 10 years and the half-year rule does not apply. Therefore, the capital cost allowance will be $78,000 per year ($780,000 ÷ 10).
+
+**Class 13** (property that is a leasehold interest) uses the straight-line method (with the half‑year rule for property acquired before November 21, 2018).
+
+An accelerated investment incentive applies to class 13 for property acquired after November 20, 2018, and before 2025. See [Accelerated investment incentive property](#AIIP). A reaccelerated investment incentive applies to class 13 for property acquired after 2024 and that becomes available for use before 2034. See [Reaccelerated investment incentive property](#expensing).
+
+If a disposition of all leasehold interests in class 13 occurs during the amortization period, the terminal loss is claimed in the year it occurs if the lessee does not acquire a depreciable property that is a leasehold interest before the end of the year.
+
+For more information on the half-year rule, see [Income Tax Folio S3-F4-C1, General Discussion of Capital Cost Allowance](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plans-folio-4-capital-cost-allowance/income-tax-folio-s3-f4-c1-general-discussion-capital-cost-allowance.html).
+
+##### Column 19 – Recapture of CCA
+
+Enter the amount of recapture from column 10, if applicable. Be sure you include the recapture as income. Enter the total of amounts from column 19 on line 107 of Schedule 1.
+
+The recapture rules do not apply to passenger vehicles in class 10.1.
+
+**References** Subsections 13(1) and 13(2)
+
+##### Column 20 – Terminal loss
+
+Enter the terminal loss from column 10, if applicable. Deduct the terminal loss from income. Enter the total of amounts from column 20 on line 404 of Schedule 1.
+
+The terminal loss rules do not apply to:
+
+- passenger vehicles in class 10.1
+
+- property in class 14.1, unless you have stopped carrying on the business to which it relates
+
+- limited-period franchises, concessions, or licences in class 14 if, at the time of acquisition, the property was a former property of the transferor or any similar property attributable to the same fixed place of business, and you had jointly elected with the transferor to have the replacement property rules apply, unless certain conditions are met
+
+**Reference** Subsection 20(16.1)
+
+##### Column 21 – CCA
+
+To claim the maximum CCA for each class, for the declining balance method, do the following calculation:
+
+- add the amount in column 10 and amounts in columns 15 and 16
+
+- subtract the amount in column 17
+
+- multiply the result by the rate in column 18
+
+Enter the result in column 21. You do not have to claim the maximum allowable CCA. You can claim any amount up to the maximum.
+
+If the tax year is less than 365 days, prorate the CCA claim for all property except for those classes of property that Regulation 1100(3) excludes. The exceptions in Regulation 1100(3) include:
+
+- class 14 assets
+
+- class 15 assets
+
+- timber limits and cutting rights
+
+- industrial mineral mines
+
+- certified productions
+
+- Canadian film or video productions
+
+- certain mining equipment in classes 28 and 41
+
+To determine the maximum CCA claim, multiply the maximum CCA for a complete year by the number of days in the tax year divided by 365.
+
+**References** Regulation 1100(3)[Income Tax Folio S4-F15-C1, Manufacturing and Processing](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-4-businesses/series-4-businesses-folio-15-manufacturing-research-development/income-tax-folio.html).
+
+The total of all amounts in column 21 is the CCA claim for the tax year. Deduct this amount on line 403 of Schedule 1.
+
+If you want to change the amount of CCA claimed in a tax year, send a written request within 90 days of the date on the notice of assessment or notice of reassessment. Only under certain circumstances can the CRA make adjustments after the 90-day period has expired. For more information, see [Information Circular IC84-1, Revision of Capital Cost Allowance Claims and Other Permissive Deductions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic84-1.html).
+
+##### Column 22 – UCC at the end of the year
+
+Subtract the amount in column 21 from the amount in column 10 and enter the difference. When there is a recapture of CCA or a terminal loss for a particular class in the year, the undepreciated capital cost at the end of the year is always nil.
+
+#### Schedule 8 examples
+
+A manufacturing business decided to sell its warehouse because it is better to lease instead. The business received $60,000 for the warehouse. At the end of the 2025 tax year, the business had no more assets in class 3.
+
+The business's Schedule 8 for its 2025 tax year looks like this:
+
+| 1 Class number | 2 Undepreciated capital cost (UCC) at the beginning of the year | 3 Cost of acquisitions during the year (new property must be available for use) | 4 Cost of acquisitions from column 3 that are accelerated investment property (AIIP) or property acquired before 2025 that is included in classes 54 to 56 | 5 Cost of acquisitions from column 3 that are reaccelerated investment incentive property (RIIP) or property acquired after 2024 that is included in classes 54 to 56 | 6 Adjustments and transfers (show amounts that will reduce the UCC in brackets) | 7 Amount from column 6 that is assistance received or receivable during the year for a property, subsequent to its disposition | 8 Amount from column 6 that is repaid during the year for a property, subsequent to its disposition |
+
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Line**200** | Line**201** | Line**203** | Line**225** | Line**226** | Line**205** | Line**221** | Line**222** |
+
+| **3** | **$65,000** | Blank space for value | Blank space for value |  |  | Blank space for value |  |
+
+|  |  |  |  |  |  |  |  |
+
+| 9 Proceeds of disposition | 10 UCC (column 2 **plus** column 3 **plus** or **minus** column 6 **minus** column 9) | 11 Proceeds of disposition available to reduce additions of AIIP, RIIP, and property included in classes 54 to 56 (column 7 plus column 9 minus column 3 plus column 4 plus column 5 minus column 8) (if negative, enter “0”) | 12 Net capital cost additions of AIIP and property acquired before 2025 that is included in classes 54 to 56 (column 4 minus column 11) (if negative, enter “0”) | 13 Proceeds of disposition from column 11 available to reduce additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 11 minus column 4) (if negative, enter "0") | 14 Net capital cost additions of RIIP and property acquired after 2024 that is included in classes 54 to56 (column 5 minus column 13) (if negative, enter "0") | 15 UCC adjustment for AIIP and property acquired before 2025 that is included in classes 54 to 56 (column 12 multiplied by the relevant factor) |  |  |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Line**207** |  |  |  |  |  |  |  |  |
+
+| **$60,000** | **$5,000** | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |  |  |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 16 UCC adjustment for RIIP and property acquired after 2024 that is included in classes 54 to 56 (column 14 multiplied by the relevant factor) | 17 UCC adjustment for property acquired during the year other than AIIP, RIIP, and property included in classes 54 to 56 (0.5 **multiplied** by the result of column 3 **minus** column 4 **minus** column 5 **plus** column 8 **minus** column 7 **minus** column 9) (if negative, enter “0”) | 18 CCA rate % | 19 Recapture of CCA | 20 Terminal loss | 21 CCA (for declining balance method, the result of column 10 **plus** column 15 **plus** column 16 **minus** column 17, **multiplied** by column 18, or a lower amount) | 22 UCC at the end of the year (column 10 minus column 21) |
+
+| --- | --- | --- | --- | --- | --- | --- |
+
+|  | Line**224** | Line**212** | Line**213** | Line**215** | Line**217** | Line**220** |
+
+| Blank space for value | Blank space for value | **n/a** | Blank space for value | **$5,000** | Blank space for value | Blank space for value |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+The amount in column 20 is a terminal loss.
+
+The manufacturing business deducts the $5,000 terminal loss from its income (line 404 of Schedule 1).
+
+A clothing company bought a machine on February 1, 2021, for $15,000. The machine qualified for the accelerated investment incentive. Now, because of the company's overwhelming success in the retail end of the business, it has decided to concentrate solely on retailing. As a result, the company sold its sewing machine in 2025 for $18,000 (but the proceeds of disposition in column 9 cannot be more than $15,000, the capital cost). At the beginning of 2025, the undepreciated capital cost of the sewing machine was $5,376.
+
+Schedule 8 for its 2025 tax year looks like this:
+
+| 1 Class number | 2 Undepreciated capital cost (UCC) at the beginning of the year | 3 Cost of acquisitions during the year (new property must be available for use) | 4 Cost of acquisitions from column 3 that are accelerated investment incentive property (AIIP) or property acquired before 2025 that is included in classes 54 to 56 | 5 Cost of acquisitions from column 3 that are reaccelerated investment incentive property (RIIP) or property acquired after 2024 that is included in classes 54 to 56 | 6 Adjustments and transfers (show amounts that will reduce the UCC in brackets) | 7 Amount from column 6 that is assistance received or receivable during the year for a property, subsequent to its disposition | 8 Amount from column 6 that is repaid during the year for a property, subsequent to its disposition |
+
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Line**200** | Line**201** | Line**203** | Line**225** | Line**226** | Line**205** | Line**221** | Line**222** |
+
+| **8** | **$5,376** | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 9 Proceeds of disposition | 10 UCC (column 2 plus column 3 plus or minus column 6 minus column 9) | 11 Proceeds of disposition available to reduce additions of AIIP, RIIP, and property included in classes 54 to 56 (column 7 plus column 9 minus column 3 plus column 4 plus column 5 minus column 8) (if negative, enter “0”) | 12 Net capital cost additions of AIIP and property acquired before 2025 that is included in classes 54 to 56 (column 4 minus column 11) (if negative, enter “0”) | 13 Proceeds of disposition from column 11 available to reduce additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 11 minus column 4) (if negative, enter "0") | 14 Net capital cost additions of RIIP and property acquired after 2024 that is included in classes 54 to 56 (column 5 minus column 13) (if negative, enter "0") | 15 UCC adjustmentfor AIIP and property acquired before 2025 that is included in classes 54 to 56 (column 12 multiplied by the relevant factor) |
+
+| --- | --- | --- | --- | --- | --- | --- |
+
+| Line**207** |  |  |  |  |  |  |
+
+| **$15,000** | **($9,624)** | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 16 UCC adjustment for RIIP and property acquired after 2024 that is included in classes 54 to 56 (column 14 multiplied by the relevant factor) | 17 UCC adjustment for property acquired during the year other than AIIP, RIIP, and property included in classes 54 to 56 (0.5 multiplied by the result of column 3 minus column 4 minus column 5 plus column 8 minus column 7 minus column 9) (if negative, enter “0”) | 18 CCA rate % | 19 Recapture of CCA | 20 Terminal loss | 21 CCA (for declining balance method, the result of column 10 plus column 15 plus column 16 minus column 17, multiplied by column 18, or a lower amount) | 22 UCC at the end of the year (column 10 minus column 21) |
+
+| --- | --- | --- | --- | --- | --- | --- |
+
+|  | Line**224** | Line**212** | Line**213** | Line**215** | Line**217** | Line**220** |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | **n/a** | **$9,624** | Blank space for value |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+The amount in column 19 is the recapture of CCA.
+
+The clothing company includes the $9,624 recapture in its income (line 107 of Schedule 1). The capital gain is $18,000 minus $15,000, which equals $3,000.
+
+In the 2025 tax year, a bookstore bought a photocopier for $10,000 to help keep up with the paperwork, and started using it right away. The vendor was a non-arm's length person who has claimed CCA for the photocopier in a prior tax year. The photocopier is therefore not considered RIIP and the half-year rule applies. Assume the exception to the 50% rule does not apply. The bookstore has to apply the 50% rule when it calculates the amount of CCA it can deduct for its tax year ending in 2025.
+
+The bookstore's Schedule 8 for its 2025 tax year looks like this:
+
+| 1 Class number | 2 Undepreciated capital cost (UCC) at the beginning of the year | 3 Cost of acquisitions during the year (new property must be available for use) | 4 Cost of acquisitions from column 3 that are accelerated investment incentive property (AIIP) or property acquired before 2025 that is included in classes 54 to 56 | 5 Cost of acquisitions from column 3 that are reaccelerated investment incentive property (RIIP) or property acquired after 2024 that is included in classes 54 to 56 | 6 Adjustments and transfers (show amounts that will reduce the UCC in brackets) | 7 Amount from column 6 that is assistance received or receivable during the year for a property, subsequent to its disposition | 8 Amount from column 6 that is repaid during the year for a property, subsequent to its disposition |
+
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Line**200** | Line**201** | Line**203** | Line**225** | Line**226** | Line**205** | Line**221** | Line**222** |
+
+| **8** | **$14,000** | **$10,000** | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 9 Proceeds of disposition | 10 UCC (column 2 plus column 3 plus or minus column 6 minus column 9) | 11 Proceeds of disposition available to reduce additions of AIIP, RIIP, and property included in classes 54 to 56 (column 7 plus column 9 minus column 3 plus column 4 plus column 5 minus column 8) (if negative, enter “0”) | 12 Net capital cost additions of AIIP and property acquired before 2025 that is included in classes 54 to 56 (column 4 minus column 11) (if negative, enter “0”) | 13 Proceeds of disposition from column 11 available to reduce additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 11 minus column 4) (if negative, enter "0") | 14 Net capital cost additions of RIIP and property acquired after 2024 that is included in classes 54 to 56 (column 5 minus column 13) (if negative, enter "0") | 15 UCC adjustmentfor AIIP and property acquired before 2025 that is included in classes 54 to 56 (column 12 multiplied by the relevant factor) |
+
+| --- | --- | --- | --- | --- | --- | --- |
+
+| Line**207** |  |  |  |  |  |  |
+
+| Blank space for value | **$24,000** | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 16 UCC adjustment for RIIP and property acquired after 2024 that is included in classes 54 to 56 (column 14 multiplied by the relevant factor) | 17 UCC adjustment for property acquired during the year other than AIIP, RIIP, and property included in classes 54 to 56 (0.5 multiplied by the result of column 3 minus column 4 minus column 5 plus column 8 minus column 7 minus column 9) (if negative, enter “0”) | 18 CCA rate % | 19 Recapture of CCA | 20 Terminal loss | 21 CCA (for declining balance method, the result of column 10 plus column 15 plus column 16 minus column 17, multiplied by column 18, or a lower amount) | 22 UCC at the end of the year (column 10 minus column 21) |
+
+| --- | --- | --- | --- | --- | --- | --- |
+
+|  | Line**224** | Line**212** | Line**213** | Line**215** | Line**217** | Line**220** |
+
+| Blank space for value | **$5,000** | **20** | Blank space for value | Blank space for value | **$3,800** | **$20,200** |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+A grocery store (with a tax year starting on July 1, 2024, and ending on June 30, 2025) bought refrigeration equipment to store fruits and vegetables for $20,000 on October 1, 2024. It became available for use on the same day.
+
+The refrigeration equipment is included in class 8 and is considered AIIP. These acquisitions are included in column 3 and also reported separately in column 4.
+
+AIIP is not subject to the half-year rule. Without the accelerated investment incentive, the amount of property bought during the tax year subject to the CCA deduction would be $10,000 as the half‑year rule would apply.
+
+The grocery store's Schedule 8 on June 30, 2025, looks like this:
+
+| 1 Class number | 2 Undepreciated capital cost (UCC) at the beginning of the year | 3 Cost of acquisitions during the year (new property must be available for use) | 4 Cost of acquisitions from column 3 that are accelerated investment incentive property (AIIP) or property acquired before 2025 that is included in classes 54 to 56 | 5 Cost of acquisitions from column 3 that are reaccelerated investment incentive property (RIIP) or property acquired after 2024 that is included in classes 54 to 56 | 6 Adjustments and transfers (show amounts that will reduce the UCC in brackets) | 7 Amount from column 6 that is assistance received or receivable during the year for a property, subsequent to its disposition | 8 Amount from column 6 that is repaid during the year for a property, subsequent to its disposition |
+
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Line**200** | Line**201** | Line**203** | Line**225** | Line**226** | Line**205** | Line**221** | Line**222** |
+
+| **8** | **$45,000** | **$20,000** | **$20,000** | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 9 Proceeds of disposition | 10 UCC (column 2 plus column 3 plus or minus column 6 minus column 9) | 11 Proceeds of disposition available to reduce additions of AIIP, RIIP, and property included in classes 54 to 56 (column 7 plus column 9 minus column 3 plus column 4 plus column 5 minus column 8) (if negative, enter “0”) | 12 Net capital cost additions of AIIP and property acquired before 2025 that is included in classes 54 to 56 (column 4 minus column 11) (if negative, enter “0”) | 13 Proceeds of disposition from column 11 available to reduce additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 11 minus column 4) (if negative, enter "0") | 14 Net capital cost additions of RIIP and property acquired after 2024 that is included in classes 54 to 56 (column 5 minus column 13) (if negative, enter "0") | 15 UCC adjustmentfor AIIP and property acquired before 2025 that is included in classes 54 to 56 (column 12 multiplied by the relevant factor) |
+
+| --- | --- | --- | --- | --- | --- | --- |
+
+| Line**207** |  |  |  |  |  |  |
+
+| Blank space for value | **$65,000** | Blank space for value | **$20,000** | Blank space for value | Blank space for value | Blank space for value |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 16 UCC adjustment for RIIP and property acquired after 2024 that is included in classes 54 to 56 (column 14 multiplied by the relevant factor) | 17 UCC adjustment for property acquired during the year other than AIIP, RIIP, and property included in classes 54 to 56 (0.5 multiplied by the result of column 3 minus column 4 minus column 5 plus column 8 minus column 7 minus column 9) (if negative, enter “0”) | 18 CCA rate % | 19 Recapture of CCA | 20 Terminal loss | 21 CCA (for declining balance method, the result of column 10 plus column 15 plus column 16 minus column 17, multiplied by column 18, or a lower amount) | 22 UCC at the end of the year (column 10 minus column 21) |
+
+| --- | --- | --- | --- | --- | --- | --- |
+
+|  | Line**224** | Line**212** | Line**213** | Line**215** | Line**217** | Line**220** |
+
+| Blank space for value | Blank space for value | **20** | Blank space for value | Blank space for value | **$13,000** | **$52,200** |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+A potato producer, with a tax year starting on July 1, 2024, and ending on June 30, 2025, bought tractors for $200,000 on September 1, 2024. The purchase includes tractors for $50,000 that do not qualify for the accelerated investment incentive because the producer bought them from a non‑arm's length person who has claimed CCA for them.
+
+The cost of the tractors that are accelerated investment incentive property (AIIP) is equal to $150,000. These acquisitions are included in column 3 and also reported separately in column 4.
+
+AIIP is not subject to the half‑year rule while properties bought during the year that are not AIIP ($50,000, which is the difference between columns 3 and 4) are subject to the half‑year rule calculation in column 17.
+
+The producer's Schedule 8 on June 30, 2025, looks like this:
+
+| 1 Class number | 2 Undepreciated capital cost (UCC) at the beginning of the year | 3 Cost of acquisitions during the year (new property must be available for use) | 4 Cost of acquisitions from column 3 that are accelerated investment incentive property (AIIP) or property acquired before 2025 that is included in classes 54 to 56 | 5 Cost of acquisitions from column 3 that are reaccelerated investment incentive property (RIIP) or property acquired after 2024 that is included in classes 54 to 56 | 6 Adjustments and transfers (show amounts that will reduce the UCC in brackets) | 7 Amount from column 6 that is assistance received or receivable during the year for a property, subsequent to its disposition | 8 Amount from column 6 that is repaid during the year for a property, subsequent to its disposition |
+
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Line**200** | Line**201** | Line**203** | Line**225** | Line**226** | Line**205** | Line**221** | Line**222** |
+
+| **10** | **$450,000** | **$200,000** | **$150,000** | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 9 Proceeds of disposition | 10 UCC (column 2 plus column 3 plus or minus column 6 minus column 9) | 11 Proceeds of disposition available to reduce additions of AIIP, RIIP, and property included in classes 54 to 56 (column 7 plus column 9 minus column 3 plus column 4 plus column 5 minus column 8) (if negative, enter “0”) | 12 Net capital cost additions of AIIP and property acquired before 2025 that is included in classes 54 to 56 (column 4 minus column 11) (if negative, enter “0”) | 13 Proceeds of disposition from column 11 available to reduce additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 11 minus column 4) (if negative, enter "0") | 14 Net capital cost additions of RIIP and property acquired after 2024 that is included in classes 54 to 56 (column 5 minus column 13) (if negative, enter "0") | 15 UCC adjustmentfor AIIP and property acquired before 2025 that is included in classes 54 to 56 (column 12 multiplied by the relevant factor) |
+
+| --- | --- | --- | --- | --- | --- | --- |
+
+| Line**207** |  |  |  |  |  |  |
+
+| Blank space for value | **$650,000** | Blank space for value | **$150,000** | Blank space for value | Blank space for value | Blank space for value |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 16 UCC adjustment for RIIP and property acquired after 2024 that is included in classes 54 to 56 (column 14 multiplied by the relevant factor) | 17 UCC adjustment for property acquired during the year other than AIIP, RIIP, and property included in classes 54 to 56 (0.5 multiplied by the result of column 3 minus column 4 minus column 5 plus column 8 minus column 7 minus column 9) (if negative, enter “0”) | 18 CCA rate % | 19 Recapture of CCA | 20 Terminal loss | 21 CCA (for declining balance method, the result of column 10 plus column 15 plus column 16 minus column 17, multiplied by column 18, or a lower amount) | 22 UCC at the end of the year (column 10 minus column 21) |
+
+| --- | --- | --- | --- | --- | --- | --- |
+
+|  | Line**224** | Line**212** | Line**213** | Line**215** | Line**217** | Line**220** |
+
+| Blank space for value | **$25,000** | **30** | Blank space for value | Blank space for value | **$187,500** | **$462,500** |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+A new corporation that is a CCPC decides to start manufacturing cars. On May 1, 2025, it bought eligible machinery and equipment for $1.2 million.
+
+The eligible machinery and equipment is included in class 53, and is considered RIIP. These acquisitions are included in column 3 and also reported separately in column 5.
+
+The amount of RIIP subject to the CCA deduction is $1,200,000 plus an additional relevant factor of 1 (calculated in column 16) for a total amount of $2,400,000 on which the CCA rate of 50% is applied for a maximum CCA deduction of $1,200,000. RIIP is also not subject to the half-year rule.
+
+Without the reaccelerated investment incentive, the amount of property bought during the tax year subject to the CCA deduction would be $600,000 as the half-year rule would apply.
+
+In this scenario, the reaccelerated investment incentive allows the corporation to deduct the full cost of the asset in the first year.
+
+The company's Schedule 8 for its 2025 tax year looks like this:
+
+| 1 Class number | 2 Undepreciated capital cost (UCC) at the beginning of the year | 3 Cost of acquisitions during the year (new property must be available for use) | 4 Cost of acquisitions from column 3 that are accelerated investment incentive property (AIIP) or property acquired before 2025 that is included in classes 54 to 56 | 5 Cost of acquisitions from column 3 that are reaccelerated investment incentive property (RIIP) or property acquired after 2024 that is included in classes 54 to 56 | 6 Adjustments and transfers (show amounts that will reduce the UCC in brackets) | 7 Amount from column 6 that is assistance received or receivable during the year for a property, subsequent to its disposition | 8 Amount from column 6 that is repaid during the year for a property, subsequent to its disposition |
+
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Line**200** | Line**201** | Line**203** | Line**225** | Line**226** | Line**205** | Line**221** | Line**222** |
+
+| **53** | **$0** | **$1,200,000** | Blank space for value | **$1,200,000** | Blank space for value | Blank space for value | Blank space for value |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 9 Proceeds of disposition | 10 UCC (column 2 plus column 3 plus or minus column 6 minus column 9) | 11 Proceeds of disposition available to reduce additions of AIIP, RIIP, and property included in classes 54 to 56 (column 7 plus column 9 minus column 3 plus column 4 plus column 5 minus column 8) (if negative, enter “0”) | 12 Net capital cost additions of AIIP and property acquired before 2025 that is included in classes 54 to 56 (column 4 minus column 11) (if negative, enter “0”) | 13 Proceeds of disposition from column 11 available to reduce additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 11 minus column 4) (if negative, enter "0") | 14 Net capital cost additions of RIIP and property acquired after 2024 that is included in classes 54 to 56 (column 5 minus column 13) (if negative, enter "0") | 15 UCC adjustmentfor AIIP and property acquired before 2025 that is included in classes 54 to 56 (column 12 multiplied by the relevant factor) |
+
+| --- | --- | --- | --- | --- | --- | --- |
+
+| Line**207** |  |  |  |  |  |  |
+
+| Blank space for value | **$1,200,000** | Blank space for value | Blank space for value | Blank space for value | **$1,200,000** | Blank space for value |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 16 UCC adjustment for RIIP and property acquired after 2024 that is included in classes 54 to 56 (column 14 multiplied by the relevant factor) | 17 UCC adjustment for property acquired during the year other than AIIP, RIIP, and property included in classes 54 to 56 (0.5 multiplied by the result of column 3 minus column 4 minus column 5 plus column 8 minus column 7 minus column 9) (if negative, enter “0”) | 18 CCA rate % | 19 Recapture of CCA | 20 Terminal loss | 21 CCA (for declining balance method, the result of column 10 plus column 15 plus column 16 minus column 17, multiplied by column 18, or a lower amount) | 22 UCC at the end of the year (column 10 minus column 21) |
+
+| --- | --- | --- | --- | --- | --- | --- |
+
+|  | Line**224** | Line**212** | Line**213** | Line**215** | Line**217** | Line**220** |
+
+| **$1,200,000** | Blank space for value | **50** | Blank space for value | Blank space for value | **$1,200,000** | **$0** |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+A corporation with a tax year starting on July 1, 2024, and ending on June 30, 2025, purchased clean energy generation equipment on November 1, 2024, for $1 million and February 1, 2025, for $1.8 million. All properties became available for use on the purchase date.
+
+Those properties are included in column 3 and reported separately in columns 4 and 5.
+
+The amount of AIIP and RIIP subject to the CCA deduction is respectively $1 million and $1.8 million, plus an additional relevant factor of 1 ½ for AIIP (calculated in column 14) and 2 1/3 for RIIP (calculated in column 15), for a total amount of $8,500,000 on which the CCA rate of 30% is applied for a maximum CCA deduction of $2,550,000.
+
+The corporation's schedule 8 on June 30, 2025, would look like this:
+
+| 1 Class number | 2 Undepreciated capital cost (UCC) at the beginning of the year | 3 Cost of acquisitions during the year (new property must be available for use) | 4 Cost of acquisitions from column 3 that are accelerated investment incentive property (AIIP) or property acquired before 2025 that is included in classes 54 to 56 | 5 Cost of acquisitions from column 3 that are reaccelerated investment incentive property (RIIP) or property acquired after 2024 that is included in classes 54 to 56 | 6 Adjustments and transfers (show amounts that will reduce the UCC in brackets) | 7 Amount from column 6 that is assistance received or receivable during the year for a property, subsequent to its disposition | 8 Amount from column 6 that is repaid during the year for a property, subsequent to its disposition |
+
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Line**200** | Line**201** | Line**203** | Line**225** | Line**226** | Line**205** | Line**221** | Line**222** |
+
+| **43.1** | **$0** | **$2,800,000** | **$1,000,000** | **$1,800,000** | Blank space for value | Blank space for value | Blank space for value |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 9 Proceeds of disposition | 10 UCC (column 2 plus column 3 plus or minus column 6 minus column 9) | 11 Proceeds of disposition available to reduce additions of AIIP, RIIP, and property included in classes 54 to 56 (column 7 plus column 9 minus column 3 plus column 4 plus column 5 minus column 8) (if negative, enter “0”) | 12 Net capital cost additions of AIIP and property acquired before 2025 that is included in classes 54 to 56 (column 4 minus column 11) (if negative, enter “0”) | 13 Proceeds of disposition from column 11 available to reduce additions of RIIP and property acquired after 2024 that is included in Classes 54 to 56 (column 11 minus column 4) (if negative, enter "0") | 14 Net capital cost additions of RIIP and property acquired after 2024 that is included in classes 54 to 56 (column 5 minus column 13) (if negative, enter "0") | 15 UCC adjustmentfor AIIP and property acquired before 2025 that is included in classes 54 to 56 (column 12 multiplied by the relevant factor) |
+
+| --- | --- | --- | --- | --- | --- | --- |
+
+| Line**207** |  |  |  |  |  |  |
+
+| Blank space for value | **$2,800,000** | Blank space for value | **$1,000,000** | Blank space for value | **$1,800,000** | **$1,500,000** |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+| 16 UCC adjustment for RIIP and property acquired after 2024 that is included in classes 54 to 56 (column 14 multiplied by the relevant factor) | 17 UCC adjustment for property acquired during the year other than AIIP, RIIP, and property included in classes 54 to 56 (0.5 multiplied by the result of column 3 minus column 4 minus column 5 plus column 8 minus column 7 minus column 9) (if negative, enter “0”) | 18 CCA rate % | 19 Recapture of CCA | 20 Terminal loss | 21 CCA (for declining balance method, the result of column 10 plus column 15 plus column 16 minus column 17, multiplied by column 18, or a lower amount) | 22 UCC at the end of the year (column 10 minus column 21) |
+
+| --- | --- | --- | --- | --- | --- | --- |
+
+|  | Line**224** | Line**212** | Line**213** | Line**215** | Line**217** | Line**220** |
+
+| **$4,200,000** | Blank space for value | **30** | Blank space for value | Blank space for value | **$2,550,000** | **$250,000** |
+
+| Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value | Blank space for value |
+
+#### List of CCA rates and classes
+
+The following chart is a **partial list** and description of the most common capital cost allowance (CCA) classes. You will find a complete list in Schedule II of the Income Tax Regulations.
+
+| Class number | Description | CCA rate |
+
+| --- | --- | --- |
+
+| 1 | Most buildings made of brick, stone, or cement acquired after 1987, including their component parts such as electric wiring, lighting fixtures, plumbing, heating and cooling equipment, elevators, and escalators (additional allowance of 6% for buildings used for manufacturing and processing in Canada and 2% for buildings used for other non-residential purposes, for buildings acquired after March 18, 2007, may be available). An additional allowance of 6% applies for eligible new purpose-built residential rental housing projects that begin construction after April 15, 2024, and before 2031, and are available for use before 2036 | 4% |
+
+| 3 | Most buildings made of brick, stone, or cement acquired before 1988, including their component parts as listed in class 1 above | 5% |
+
+| 6 | Buildings made of frame, log, stucco on frame, galvanized iron, or corrugated metal that are used in the business of farming or fishing, or that have no footings below-ground; fences and most greenhouses | 10% |
+
+| 7 | Canoes, boats, and most other vessels, including their furniture, fittings, or equipment | 15% |
+
+| 8 | Property that is not included in any other class such as furniture, calculators and cash registers (that do not record multiple sales taxes), photocopy and fax machines, printers, display fixtures, refrigeration equipment, machinery, tools costing $500 or more, and outdoor advertising billboards and greenhouses with rigid frames and plastic covers | 20% |
+
+| 9 | Aircraft, including furniture, fittings, or equipment attached, and their spare parts | 25% |
+
+| 10 | Automobiles (except taxis and others used for lease or rent), vans, wagons, trucks, buses, tractors, trailers, drive-in theatres, general-purpose electronic data-processing equipment (for example, personal computers) and systems software, and timber-cutting and removing equipment | 30% |
+
+| 10.1 | Passenger vehicles costing more than $39,000 plus sales tax, if acquired, or leased under leases entered into, after 2025. This amount is $38,000 for 2025. See subsection 7307(1) of the Regulations for prescribed amounts of prior years. | 30% |
+
+| 12 | Chinaware, cutlery, linen, uniforms, dies, jigs, moulds or lasts, computer software (except systems software), cutting or shaping parts of a machine, certain property used for earning rental income such as apparel or costumes, and videotape cassettes; certain property costing less than $500 such as kitchen utensils, tools, and medical or dental equipment acquired after May 1, 2006 | 100% |
+
+| 13 | Property that is a leasehold interest (the maximum CCA rate depends on the type of leasehold and the terms of the lease) | n/a |
+
+| 14 | Patents, franchises, concessions, and licences for a limited period – the CCA is limited to whichever is less:the capital cost of the property spread out over the life of the property the undepreciated capital cost of the property at the end of the tax year Class 14 also includes patents, and licences to use patents for a limited period, that you elect not to include in class 44 | n/a |
+
+| 14.1 | As of January 1, 2017, intangible capital property, previously known as eligible capital property, including goodwill, trademarks, franchises, concessions, or licences for an unlimited period, patents and licences to use patents for an unlimited period, that you elect not to include in Class 44. For each tax year that ends before 2027, an additional 2% CCA is allowed for property acquired before 2017 (maximum $500) | 5% |
+
+| 16 | Automobiles for lease or rent, taxicabs, and coin-operated video games or pinball machines; certain tractors and large trucks acquired after December 6, 1991, that are used to haul freight and that weigh more than 11,788 kilograms | 40% |
+
+| 17 | Roads, sidewalks, parking-lot or storage areas, telephone, telegraph, or non-electronic data communication switching equipment | 8% |
+
+| 29 | Machinery and equipment acquired after March 18, 2007, and before 2016 that is used in Canada mainly to manufacture and process goods for sale or lease | 50% |
+
+| 38 | Most power-operated movable equipment acquired after 1987 used for moving, excavating, placing, or compacting earth, rock, concrete, or asphalt | 30% |
+
+| 43 | Machinery and equipment acquired after February 25, 1992, that is used in Canada mainly to manufacture and process goods for sale or lease. Also see class 53 | 30% |
+
+| 43.1 | Clean energy generation and energy conservation equipment not included in class 43.2, including electric vehicle charging stations set up to supply more than 10 kW but less than 90 kW of continuous power | 30% |
+
+| 43.2 | Clean energy generation and energy conservation equipment acquired after February 22, 2005, and before 2025 | 50% |
+
+| 44 | Patents and licences to use patents for a limited or unlimited period that the corporation acquired after April 26, 1993—however, you can elect not to include such property in class 44 by attaching a letter to the return for the year the corporation acquired the property. In the letter, indicate the property you do not want to include in class 44. A 100% first-year deduction applies for new additions of property that is acquired after April 15, 2024, and becomes available for use before 2027 | 25% |
+
+| 46 | Data network infrastructure equipment that supports advanced telecommunication applications, acquired after March 22, 2004 – it includes assets such as switches, multiplexers, routers, hubs, modems, and domain name servers that are used to control, transfer, modulate and direct data, but does not include office equipment such as telephones, cell phones or fax machines, or property such as wires, cables, or structures. A 100% first-year deduction applies for new additions of property that is acquired after April 15, 2024, and becomes available for use before 2027 | 30% |
+
+| 50 | General-purpose computer equipment and systems software acquired after March 18, 2007, that is not used principally as electronic process control, communications control, or monitor equipment, and the systems software related to such equipment, and data handling equipment that is not ancillary to general-purpose computer equipment. A 100% first-year deduction applies for new additions of property that is acquired after April 15, 2024, and becomes available for use before 2027 | 55% |
+
+| 53 | Machinery and equipment acquired after 2015 and before 2026 that is used in Canada mainly to manufacture and process goods for sale or lease. | 50% |
+
+| 54 | Property that is a zero-emission vehicle that is not included in class 16 or 55. In general terms, this class would include zero-emission vehicles acquired after March 18, 2019, and that becomes available for use before 2034, that would otherwise be included in class 10 or 10.1. This includes zero-emission passenger vehicles, which have a capital cost limitation of $61,000 plus sales tax, if acquired after 2022. See subsection 7307(1.1) of the Regulations for prescribed amounts of prior years. | 30% |
+
+| 55 | Property that is a zero-emission vehicle that would otherwise be included in class 16. The vehicle is acquired after March 18, 2019, and becomes available for use before 2034. Does not include "zero-emission passenger vehicles" and, as such, does not have any capital cost limitation. | 40% |
+
+| 56 | Property that is fully electric or hydrogen powered automotive equipment (other than a motor vehicle) acquired after March 1, 2020, and that becomes available for use before 2034. Includes additions or alterations to automotive equipment (other than a motor vehicle) to the extent they cause the automotive equipment to become fully electric or powered by hydrogen | 30% |
+
+| 57 | Equipment, other than excluded CCUS equipment, that is used solely to capture, transport, or store carbon dioxide (CO2) as part of a CCUS project | 8% |
+
+| 58 | Equipment that is used solely to use carbon dioxide (CO2) in industrial production | 20% |
+
+| 59 | Intangible property acquired after 2021 for determining the existence, location, extent, or quality of a geological formation to permanently store captured carbon in Canada, including property acquired as a result of undertaking environmental studies or community consultations | 100% |
+
+| 60 | Intangible property acquired after 2021 for drilling, converting, or completing a well in Canada for the permanent storage of captured carbon | 30% |
+
+### Schedule 12, Resource-Related Deductions
+
+You have to complete the appropriate parts of [Schedule 12](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch12.html) if you are claiming any of the following deductions on [Schedule 1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch1.html):
+
+- Canadian exploration expenses, including Canadian renewable and conservation expense (CRCE)
+
+- Canadian development expenses
+
+- Canadian oil and gas property expenses
+
+- depletion
+
+- foreign exploration and development expenses
+
+- specified foreign exploration and development expenses
+
+- foreign resource expenses
+
+An accelerated investment incentive is available for eligible Canadian development expenses (CDE) and Canadian oil and gas property expenses (COGPE) incurred after November 20, 2018, and before 2025. The accelerated CDE or COGPE does not include expenses incurred by a predecessor corporation that a successor corporation is entitled to claim. It also does not include an expense that is a cost for Canadian resource property you, or a partnership in which you are a member, acquired from a person or partnership with which you do not deal at arm's length.
+
+For more information, go to [Accelerated Investment Incentive](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/report-business-income-expenses/claiming-capital-cost-allowance/accelerated-investment-incentive.html).
+
+An enhanced deduction generally applies to eligible Canadian development expenses and Canadian oil and gas property expenses incurred after 2024, and before 2034. These are referred to as Reaccelerated CDE and Reaccelerated COGPE respectively. The enhanced deduction will begin to be phased out for expenses made after 2029.
+
+#### Canadian exploration expenses and Canadian development expenses
+
+Under proposed clarifying changes, expenses incurred to determine the quality of a mineral resource in Canada will not include expenses related to determining the economic viability or engineering feasibility of the mineral resource. A similar clarifying change is proposed for certain expenses relating to accumulations of petroleum and natural gas.
+
+Eligible expenses related to lithium from brines made on or after March 28, 2023, qualify as Canadian exploration expenses and Canadian development expenses.
+
+##### Canadian renewable and conservation expense
+
+If most of the tangible property in a project is eligible for inclusion in class 43.1 or 43.2, certain intangible project start-up expenses (for example, engineering and design work, and feasibility studies) are treated as Canadian renewable and conservation expenses. You can generally deduct these expenses in full in the year you incurred them, carry them forward indefinitely for use in future years, or transfer them to investors using flow-through shares.
+
+Schedule 12 gives details for the calculations required.
+
+#### Flow‑through shares
+
+The flow-through share regime is eliminated for oil, gas, and coal activities. This means you can no longer renounce oil, gas and coal exploration or development expenditures to a flow-through share investor. This applies to expenditures under flow-through share agreements entered into after March 31, 2023.
+
+There is an accelerated rate for Canadian development expenses (CDE) that a flow‑through share (FTS) investor receives from a principal business corporation. This tax measure applies to accelerated CDE renounced under FTS agreements for CDE incurred after the agreement date and before 2028.
+
+Effective January 1, 2025, reaccelerated CDE would be available until before 2030, with a four‑year phase out after 2029.
+
+A principal business corporation needs to inform the investor that the renounced amount meets the above conditions in order for the investor to benefit from the permissive accelerated rate for these renounced expenses.
+
+If you have invested in an FTS and have received a statement of resource expenses from a principal business corporation, you may generally claim CDE in the tax year in which they are renounced to you at the rate of:
+
+- 45% for tax years ending before 2024
+
+- 37.5% for tax years starting after 2023
+
+- a proration of the two rates for tax years starting before 2024 and ending after 2023, based on the amount of CDE incurred before and after the end of 2023
+
+and, thereafter, at a rate of 30%.
+
+Effective January 1, 2025, reaccelerated CDE would be available at the 45% rate until before 2030, with a four‑year phase out after 2029.
+
+To calculate the amount of the CDE deduction you are entitled to claim, see Schedule 12.
+
+**References**Part XII of the Regulations Sections 65, 66, 66.1, 66.2, 66.4, and 66.7
+
+### Schedule 13, Continuity of Reserves
+
+You have to complete [Schedule 13](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch13.html) to show the continuity of deductible reserves. Indicate, on the appropriate lines, the prior-year and the current-year reserves as well as the reserve transferred from an amalgamation or wind-up. If your corporation or the predecessor corporation deducted a reserve amount last year, add that amount to current-year income and establish a new reserve amount.
+
+Complete Schedule 13 as follows:
+
+#### Part 1 – Capital gains reserves
+
+Establish the continuity of reserves for each different property. Unlike other reserves, you have to report the total capital gain reserves that you and the predecessor corporation deducted last year. Add the current-year reserve on [Schedule 6](#P1302_110078) to calculate the current-year capital gain.
+
+#### Part 2 – Other reserves
+
+In this part, establish the continuity of the following reserves:
+
+- reserve for doubtful debts
+
+- reserve for undelivered goods and services not rendered (except for reclamation obligations)
+
+- reserve for prepaid rent
+
+- reserve for returnable containers
+
+- reserve for unpaid amounts
+
+- other tax reserves
+
+Enter, on line 125 of Schedule 1, the total of the balance of your reserve at the beginning of the year (line 270 of Schedule 13) plus the amount of reserve transferred on wind-up/amalgamation (line 275 of Schedule 13).
+
+Enter, on line 413 of Schedule 1, the balance at the end of the year (line 280 of Schedule 13).
+
+The balance at the beginning of the year of reserves from financial statements and the balance at the end of the year of reserves from financial statements should not be entered on Schedule 13. Enter these amounts on line 414 and line 126 of Schedule 1 respectively.
+
+**References**[Interpretation Bulletin IT‑152, Special Reserves - Sale of Land](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it152r3.html)[Interpretation Bulletin IT‑154, Special Reserves](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it154r.html)[Interpretation Bulletin IT‑442, Bad Debts and Reserves for Doubtful Debts](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it442r.html)
+
+### Schedule 16, Patronage Dividend Deduction
+
+Complete [Schedule 16](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch16.html) if you are claiming a patronage dividend deduction. This deduction is for payments made to customers for allocations in proportion to patronage. An **allocation in proportion to patronage** entitles a customer to receive payment calculated at a rate relating to the quantity, quality, or value of either goods or products sold or services rendered.
+
+Corporations have to pay amounts that qualify for this deduction either during the tax year, or in the 12 months that follow the tax year.
+
+An agricultural cooperative corporation for a particular tax year can deduct patronage dividends issued in the form of tax deferred cooperative shares, but deductions cannot be more than 85% of its income for that year that is attributable to business done with its members.
+
+Corporations other than credit unions and cooperative corporations cannot deduct patronage dividends paid to non-arm's length persons.
+
+Parts 1, 2, and 3 of Schedule 16 give details on how to calculate the allowable patronage dividend deduction. Enter this deduction on line 416 of Schedule 1.
+
+If you are claiming a patronage dividend deduction, you also have to complete Part 5 of Schedule 16 entitled "Calculation of income from an active business carried on in Canada (ABI)". Enter the amount from line 124 at line 400 of the return.
+
+File a completed copy of this schedule with your return.
+
+Eligible members of agricultural cooperative corporations can defer including in income patronage dividends in the form of tax deferred cooperative shares issued before 2026 to the year of their disposal.
+
+This temporary deferral measure, which was set to expire at the end of 2025, will continue to apply for eligible shares issued before 2031.
+
+However, a member may elect to have an amount included in income before the disposition of the shares. To make this election, the member must send a letter specifying the amount to be included in income with their return for the particular tax year.
+
+**References** Sections 135 and 135.1[Interpretation Bulletin IT‑362, Patronage Dividends](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it362r.html)
+
+### Schedule 17, Credit Union Deductions
+
+As a credit union, you may deduct bonus interest payments and payments for allocations in proportion to borrowing. If so, complete [Schedule 17](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch17.html).
+
+Ontario and British Columbia provide a provincial tax reduction for credit unions. For details, see [Ontario credit union tax reduction](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html) and [British Columbia credit union tax reduction](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html).
+
+A credit union can deduct from its income for a tax year both the total of all bonus interest payments and the payments it made in the year to its members for allocations in proportion to borrowing. It can also deduct payments made in the 12 months after the end of the tax year. However, the credit union cannot deduct an amount if it could have deducted it in the previous tax year.
+
+The **allocation in proportion to borrowing** for a tax year means an amount a credit union credits to a member that is entitled to, or will receive, this amount.
+
+On Schedule 17, you have to calculate the payment made for allocations in proportion to borrowing at a rate that is related to one of the following:
+
+- the amount of interest payable by the member on money the member borrowed from the credit union
+
+- the amount of money the member borrowed from the credit union
+
+You have to calculate the bonus interest payment at a rate that is related to one of the following:
+
+- the interest payable by the credit union on money standing to the member's credit
+
+- the amount of money standing to the member's credit
+
+The amount the credit union credited to the member has to bear the same rate as the interest or money that the credit union similarly credited to all other members of the credit union of the same class.
+
+Complete the appropriate parts of Schedule 17 to calculate this deduction. Add lines 305 and 315 of Schedule 17 and enter the result on line 315 of Schedule 1.
+
+**References** Subsections 137(2) and 137(6)
+
+### Form T661, Scientific Research and Experimental Development (SR&ED) Expenditures Claim
+
+The CRA publishes [Guide T4088, Scientific Research and Experimental Development (SR&ED) Expenditures Claim – Guide to Form T661](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4088.html), which gives details on how to complete Form T661. For more information, go to [Scientific Research and Experimental Development (SR&ED)](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html).
+
+File [Form T661](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t661.html) if you carry on business in Canada and have incurred expenditures for scientific research and experimental development (SR&ED) you carried on in Canada and for some salary or wage expenditures for SR&ED carried on outside Canada.
+
+To avoid delays in processing, use the **most recent version** of Form T661.
+
+A corporation has to file Form T661 to identify an expenditure and the SR&ED work to support its characterization as an SR&ED expenditure, as well as any claim preparer information.
+
+If the corporation does not provide, in this way, the information about the expenditure, it cannot characterize the amount as an SR&ED expenditure.
+
+If the corporation does not provide complete and accurate claim preparer information, a $1,000 penalty applies. However, the SR&ED claim will not be disallowed for this reason. When an SR&ED claim preparer participates in preparing a claim, the corporation and the SR&ED claim preparer are liable, together or separately, for the $1,000 penalty.
+
+SR&ED expenditures, plus or minus adjustments, form a pool that you can deduct in the current year to calculate the net income for tax purposes or that you can carry forward and deduct in any future year.
+
+If the SR&ED expenditures have been included in your income statement, enter the amount on line 118 of Schedule 1. Enter the SR&ED expenditures claimed in the year on line 411 of Schedule 1.
+
+Form T661 summarizes the costs for all SR&ED projects. File it whether or not you claim an ITC. If you do not file Form T661 and [Schedule 31, Investment Tax Credit – Corporations](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch31.html), on or before the day that is 12 months after the filing due-date of your income tax return for the tax year in which the SR&ED expenditures were made, you cannot claim SR&ED expenditures and earn an SR&ED ITC for that year. For more information, see [Lines 652 and 780 – Investment tax credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-7-page-8-t2-return.html).
+
+A non-profit corporation for SR&ED (see [Box 2 – Exempt under paragraph 149(1)(j)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-1-page-1-t2-return.html)) has to file Form T661 on or before the filing‑due date for the tax year to avoid a late‑filing penalty.
+
+When a corporation is a member of a partnership that incurs SR&ED expenditures, the partnership, and not the members of the partnership, has to file Form T661 along with the [T5013 FIN, Partnership Financial Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013fin.html) and [T5013 SUM, Information Slips Summary](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sum.html). Each member that receives an [Information slip T5013, Statement of Partnership Income](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html), showing its share of the expenditures, does not have to file it with its return. They should keep it in case the CRA asks for it later.
+
+**References** Subsections 37(1), 37(11), 149(7), 149(7.1), 162(5.1), and 248(1) Regulation 2900[Guide T4088, Scientific Research and Experimental Development (SR&ED) Expenditures Claim – Guide to Form T661](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4088.html)
+
+## Losses
+
+### Current-year losses
+
+A corporation may not always have net income to report. Instead, it may have incurred a loss for the year. The different types of losses a corporation can incur are:
+
+- non-capital loss
+
+- farm loss
+
+- restricted farm loss
+
+- limited partnership loss
+
+- capital loss
+
+The application and continuity of the first four losses are calculated on [Schedule 4, Corporation Loss Continuity and Application](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch4.html). Information on how to complete Schedule 4 follows this section.
+
+Capital losses are determined on [Schedule 6, Summary of Dispositions of Capital Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch6.html). For information on how to complete this schedule, see the [section on Schedule 6](#P1302_110078).
+
+### Applying losses
+
+A corporation can apply unused losses and deduct them from income it earned in the current tax year or in previous tax years.
+
+You can choose whether or not to deduct an available loss from income in a tax year. You can deduct losses in any order. However, for each type of loss, make sure to deduct the oldest available loss first.
+
+You can view non-capital loss balances using the "View return balances" service through:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are the business owner
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), if you are an authorized representative or employee
+
+### Losses carryback
+
+You can use losses in any order, but consider the following:
+
+- a current-year non-capital loss or farm loss can reduce any kind of income or taxable dividends subject to Part IV tax for the three previous years
+
+- a net capital loss can reduce taxable capital gains included in your income for the three previous years
+
+- a restricted farm loss can reduce farming income for the three previous years
+
+- a listed personal property loss can reduce capital gains incurred on listed personal property for the three previous years
+
+Except for net capital losses, you cannot use other year losses to create or increase a non-capital loss for the tax year.
+
+Use [Schedule 4](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch4.html) to request the carryback of any losses to prior years. If you do not attach your request to the return, you can send it separately to your tax centre.
+
+### Calculating losses when there is an acquisition of control
+
+Following an acquisition of control, special rules apply for calculating and deducting net capital losses, non-capital losses, and farm losses. You will find more information about these rules on Schedule 4 and at lines [063 and 065](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-1-page-1-t2-return.html). Also, see the following references for details.
+
+**References** Subsections 111(4) and 111(5)[Interpretation Bulletin IT‑302, Losses of a Corporation - The Effect That Acquisitions of Control, Amalgamations, and Windings-Up Have on Their Deductibility - After January 15, 1987](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it302r3.html)
+
+## How to complete Schedule 4, Corporation Loss Continuity and Application
+
+### Part 1 – Non-capital losses
+
+#### Determination of current-year non-capital loss
+
+To determine the current-year non-capital loss, you have to complete Part 1 as follows:
+
+**Net income (loss) for income tax purposes** – income from all sources minus losses from business and property, plus or minus the adjustments on Schedule 1;
+
+**deduct**
+
+**net capital losses deducted in the year** – net capital losses from **previous years** used to reduce taxable capital gains included in income**taxable dividends deductible** – taxable dividends received, deductible under section 112 or 113 or subsection 138(6) (for details, see [Line 320](#P2756_199541))**amount of Part VI.1 tax deductible** – unused Part VI.1 tax deductible in the taxable income calculation**amount deductible as prospector's and grubstaker's shares – paragraph 110(1)(d.2)** – The amount deductible is the value of any shares received from a corporation on disposition of a right or a mining property, except if the amount is exempt from tax in Canada by virtue of one of Canada's tax treaties, multiplied by ½
+
+**Subtotal** – If the result is positive, enter "0"
+
+**deduct**
+
+**section 110.5 or subparagraph 115(1)(a)(vii) – addition for foreign tax deductions** – any amounts added to the taxable income to use foreign tax deductions you could not otherwise deduct from Part I tax. For details, see [Line 355](#P2817_205258)
+
+**add**
+
+**current-year farm loss** – whichever is less: the net loss from farming or fishing included in the income, **or** the non-capital loss before deducting the farm loss
+
+#### Current-year farm loss
+
+The current-year farm loss is whichever of the following amounts is less:
+
+- the loss from farming or fishing that is more than the farming or fishing income for the year
+
+- the amount of the current-year non-capital loss as calculated in Part 1 of Schedule 4 before you deduct the farm loss for the year
+
+Enter the farm loss calculated on line 310 of [Schedule 4](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch4.html).
+
+The farm loss can also include an amount allocated from a partnership.
+
+If the result after the calculation shown under Part 1 is negative, enter this result (as positive) on line 110 of Schedule 4 as the current-year non-capital loss.
+
+You cannot use prior-year losses to create or increase a current-year non-capital loss, except with net capital losses of other years.
+
+**References** Subsection 111(8)[Interpretation Bulletin IT‑302, Losses of a Corporation - The Effect That Acquisitions of Control, Amalgamations and Windings-Up Have on Their Deductibility -After January 15, 1987](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it302r3.html)
+
+#### Continuity of non-capital losses and request for a carryback
+
+Use this area to establish the continuity of non-capital losses and to carry back a current-yearnon-capital loss to prior years.
+
+The current-year non-capital loss can reduce any kind of income or taxable dividends subject to Part IV tax for the 20 following tax years and for the 3 previous tax years. The loss expires after the carry-forward period.
+
+When completing this part, line 105 is the amount of non-capital losses transferred from a predecessor corporation after amalgamation or a subsidiary after wind-up where not less than 90% of the issued shares in each class were, immediately before the wind-up, owned by the corporation. This amount is the unused non-capital losses available to be carried forward at the end of the tax year of the predecessor corporation or subsidiary ending immediately before the amalgamation or wind-up, **minus** any expired amount.
+
+**Line 150** is an amount received under **subsection 111(10)** as a fuel tax rebate that reduced non-capital loss for a previous year, and any other adjustments not previously mentioned. These adjustments would apply to corporations that have undergone an acquisition of control and whose losses that accrued before the acquisition of control are not deductible after the acquisition of control.
+
+**Line 140** is the amount of debt forgiveness under section 80 that reduces the non-capital losses balance. Losses have to be reduced in the order established by section 80.
+
+The result of this part is the closing balance of non-capital losses you carry forward to future years (line 180).
+
+Complete Part 6 to establish the balance of non-capital losses by year of origin.
+
+### Part 2 – Capital losses
+
+#### Continuity of capital losses and request for a carryback
+
+The current-year capital loss is calculated on [Schedule 6](#P1302_110078). Complete this part to establish the continuity and the application of capital losses.
+
+To establish the continuity, you have to enter the amount of **capital losses** and not the amount of **net capital losses** available. The inclusion rate will be used only when the loss is applied. You have to indicate the balance of any previous-year capital losses carried forward.
+
+The net capital loss can reduce taxable capital gains included as income for the three previous tax years and indefinitely for future years.
+
+When completing this part, line 205 is the amount of capital losses transferred from a predecessor corporation after amalgamation or a subsidiary afterwind-up where not less than 90% of**the issued shares** of each class were, immediately before the wind-up, owned by the corporation. This amount is the unused capital losses available to carry forward at the end of the tax year of the predecessor corporation or subsidiary ending immediately before the amalgamation or wind-up, including any amount of the allowable business investment loss (ABIL) expired as non-capital loss for the predecessor corporation or the subsidiary), divided by the inclusion rate for the tax year in which the ABIL was incurred.
+
+**Line 250** is the amount of any other adjustments not previously mentioned. These adjustments would apply to corporations that have undergone an acquisition of control and whose losses that accrued before the acquisition of control are not deductible after the acquisition of control. These adjustments would also apply to corporations whose losses that occurred after the acquisition of control are not deductible before the acquisition of control.
+
+**Line 240** is the amount of debt forgiveness under section 80 that reduces the capital losses balance. Losses have to be reduced in the order established by section 80.
+
+**Line 220** is the amount of ABIL earned as non-capital losses in the 11th previous year that has not been used against taxable income in the previous 10 years, multiplied by 2.
+
+On the appropriate line (lines 951 to 953), enter the amount of capital loss you carry back to prior years.
+
+The result of this part is the closing balance of available capital losses you carry forward to future years (line 280). The net capital loss amount will be calculated at the 50% inclusion rate.
+
+### Part 3 – Farm losses
+
+#### Continuity of farm losses and request for a carryback
+
+Use this part to establish the continuity of farm losses and to carry back a current-year farm loss to previous years. Farm losses include losses from farming and fishing businesses.
+
+Farm losses will expire after 20 tax years following the year of the loss.
+
+When completing this part, line 305 is the amount of farm losses transferred from a predecessor corporation after amalgamation or subsidiary after wind-up where not less than 90% of the issued shares in each class were, immediately before the wind-up, owned by the corporation. This amount is the unused farm losses available to carry forward at the end of the tax year of the predecessor corporation or subsidiary ending immediately before the amalgamation or wind-up **minus** any expired amount.
+
+**Line 350** is any other adjustments not previously mentioned. These adjustments would apply to corporations that have undergone an acquisition of control and whose losses that accrued before the acquisition of control are not deductible after the acquisition of control.
+
+**Line 340** is the amount of debt forgiveness under section 80 that reduces the farm losses balance. Losses have to be reduced in the order established by section 80.
+
+The result of this part is the closing balance of farm losses you carry forward to future years (line 380).
+
+Complete Part 6 to establish the balance of farm losses by year of origin.
+
+### Part 4 – Restricted farm losses
+
+#### Current-year restricted farm loss
+
+If your chief source of income is neither farming nor a combination of farming and some other **subordinate**source of income, the loss arising from the farming activity that you can deduct is restricted. An amount of farm loss allocated from a partnership may also be restricted.
+
+The limit of deductible farm losses for a year is $17,500.
+
+Enter your amount on line 410 of [Schedule 4](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch4.html) and add it to your income on line 233 of Schedule 1.
+
+**References** Subsection 31(1)[Interpretation Bulletin IT‑232, Losses - Their Deductibility in the Loss Year or in Other Years](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it232r3.html)
+
+#### Continuity of restricted farm losses and request for a carryback
+
+Use this part to establish the continuity of restricted farm losses and to carry back a current-year restricted farm loss to prior years.
+
+The current-year restricted farm loss can reduce farm income for the 20 following tax years and for the 3 previous tax years. The loss expires after the carry-forward period.
+
+When completing this part, line 405 is the amount of restricted farm losses transferred from a predecessor corporation after amalgamation or a subsidiary after wind-up where not less than 90% of issued shares in each class were, just before the wind-up, owned by the corporation. This amount is the unused restricted farm losses available to carry forward at the end of the tax year of the predecessor corporation or subsidiary ending just before the amalgamation or wind-up **minus** any expired amount.
+
+**Line 440** is the amount of debt forgiveness under section 80 that reduces the restricted farm losses balance. Losses have to be reduced in the order established by section 80.
+
+**Line 450** is the amount of any other adjustments not previously mentioned. These adjustments would apply to corporations that have undergone an acquisition of control and whose losses that accrued before the acquisition of control are not deductible after the acquisition of control.
+
+The result of this part is the closing balance of restricted farm losses you carry forward to future years (line 480).
+
+Complete Part 6 to establish the balance of restricted farm losses by year of origin.
+
+### Part 5 – Listed personal property losses
+
+#### Continuity of listed personal property loss and request for a carryback
+
+Use this part to establish the continuity of listed personal property losses. You can carry a current-year listed personal property loss against net capital gains incurred on the same kind of property back to the three previous tax years and forward to the seven following tax years.
+
+A listed personal property loss cannot be transferred.
+
+When completing this part, line 530 is the amount of prior-year listed personal property losses applied in the current year to reduce the net capital gain incurred in the current year on the same kind of property (enter this amount on line 655 of Schedule 6).
+
+**Line 550** is the amount of adjustments. These adjustments would apply to corporations that have undergone an acquisition of control and whose losses that accrued before the acquisition of control are not deductible after the acquisition of control.
+
+The result of this part is the closing balance of listed personal property losses you carry forward to future years (line 580).
+
+Complete Part 6 to establish the balance of listed personal property losses by year of origin.
+
+### Part 6 – Analysis of balance of losses by year of origin
+
+Use this part to show by year of origin the balance of losses you can carry forward to future years. Enter each loss by year of origin, starting with the current year and going down to the 20th previous year.
+
+### Part 7 – Limited partnership losses
+
+#### Current-year limited partnership losses
+
+Use this part to calculate the current-year limited partnership losses that cannot be deducted in the year, but can be carried forward to other years.
+
+The amount of partnership loss allocated to a limited partner is reported on an [information slip T5013, Statement of Partnership Income](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013.html).**If the limited partner does not receive this slip because the partnership is exempt from filing, you have to file the partnership's financial statements with the return to prove the corporation's share of the partnership loss for the year.**
+
+Report the amount in the corporation's tax year that the partnership's fiscal period ends in.
+
+The part of a partnership loss that a limited partner can deduct in determining net income for income tax purposes may be restricted.
+
+For tax years that end after February 26, 2018, it was clarified that the at-risk rules apply to a partnership that is itself a limited partner of another partnership and that a corporation's available non-capital loss and limited partnership loss carry-forward balances have to be adjusted as if these rules applied in the preceding years.
+
+In column 606, enter the corporation's at-risk amount at the fiscal period ending of the partnership (column 602). The amount entered in column 604 is from a business (other than a farming or fishing business) or from property.
+
+In general terms, you have to calculate a limited partner's at-risk amount as follows:
+
+the adjusted cost base of its partnership interest
+
+**plus**
+
+its share of the current-year's income from the partnership
+
+**minus**
+
+all amounts the partner owes to the partnership, and any amount or benefit to which the partner is entitled that is intended to protect it from the loss of its investment
+
+In general, interests in partnerships that were operating on a regular and continuous basis on February 25, 1986, and continuously thereafter, are exempt from the at risk rules. However, partnership interests may lose their exempt status if, after February 25, 1986, there has been either a substantial contribution of capital to the partnership or substantial partnership borrowings.
+
+The difference between the corporation's share of the actual loss of the partnership and the corporation's at-risk amount (reduced by any investment tax credit, clean economy tax credit, farming losses and resource expenses the partnership allocated to the corporation for that fiscal period) is called a **limited partnership loss**. This amount is entered in column 620.
+
+Add the total of column 620 to line 222 of Schedule 1. Enter all those losses in column 670 to establish the continuity of losses.
+
+**References** Subsection 96(2.1)[Interpretation Bulletin IT‑232, Losses - Their Deductibility in the Loss Year or in Other Years](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it232r3.html)
+
+#### Limited partnership losses from previous tax years that may be applied in the current year
+
+Complete this part if you want to apply limited partnership losses from previous years to reduce any kind of income in the current year. However, the deductible amount in respect of each partnership is limited to the difference between the balance of losses for that partnership and the corporation's at-risk amount for that partnership after deducting the amounts specified under subparagraph 111(1)(e)(ii).
+
+#### Continuity of limited partnership losses that can be carried forward to future tax years
+
+Limited partnership losses can be carried forward indefinitely to future years.
+
+For this part, column 664 is the amount of limited partnership losses transferred from a predecessor corporation after amalgamation, or a subsidiary after wind-up, where not less than 90% of the issued shares in each class were, immediately before the wind-up, owned by the corporation. This amount is the unused limited partnership losses available to carry forward at the end of the tax year of the predecessor corporation or subsidiary ending immediately before the amalgamation or wind-up.
+
+The result of this part is the amount of limited partnership losses you carry forward to later years (column 680).
+
+### Part 8 – Election under paragraph 88(1.1)(f)
+
+Further to a winding-up of a subsidiary, the part of a non-capital loss, restricted farm loss, farm loss, or limited partnership loss incurred by the subsidiary is deemed to be the parent corporation's loss for its tax year starting after the winding-up has begun.
+
+Paragraph 88(1.1)(f) allows the parent corporation to elect that this loss is deemed to be a loss from its tax year previous to the year mentioned above.
+
+Tick box 190 if you are making an election under paragraph 88(1.1)(f).
+
+## Taxable income
+
+The following section explains how to calculate the deductions you may be able to claim to reduce net income. You will use these amounts to arrive at your taxable income.
+
+### Line 300 – Net income or (loss) for income tax purposes
+
+On line 300, enter the **net income or loss for income tax purposes**, as you calculated on Schedule 1. If you did not have to make any adjustments to the net income or loss from the financial statements or the General Index of Financial Information (GIFI), enter on line 300 the net income or loss from the income statement. Show the amount of any loss in brackets.
+
+On Schedule 1, do not deduct charitable donations, taxable dividends, net capital losses, non-capital losses, farm losses, or restricted farm losses from other years. You have to deduct these items from net income for income tax purposes to arrive at **taxable income**.
+
+### Lines 311 to 314
+
+The deadline for making donations eligible for tax support in the 2024 tax year is proposed to be extended until February 28, 2025.
+
+Gifts made before March 2025 are deemed to have been made in a tax year of a corporation that ends after November 14, 2024, and before 2025 (the "donation year"), and not in the corporation's 2025 tax year, if all of the following apply:
+
+- the gift would be deductible under section 110.1 in computing the corporation's taxable income under Part I for the year if it were made immediately before the end of the donation year
+
+- the corporation deducts the amount of the gift under this section for the corporation's donation year
+
+- the gift was in the form of cash or was transferred by way of cheque, credit card, money order or electronic payment
+
+The amount deductible by the corporation will generally be the eligible amount of the gift. The eligible amount of a gift is the amount by which the fair market value of the property that is the subject of the gift exceeds the amount of the advantage, if any, in respect of the gift. For more information on the tax treatment of charitable gifts and the meaning of the term **gift**, see [Pamphlet P113, Gifts and Income Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html), and [Income Tax Folio S7‑F1‑C1, Split‑receipting and Deemed Fair Market Value](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-7-charities-non-profit-organizations/series/income-tax-folio-s7-f1-c1-split-receipting-deemed-fair-market-value.html).
+
+Effective on registration of the amended Regulation, charities will be allowed to issue donation receipts electronically if:
+
+- the receipts contain all the required information
+
+- the receipts are issued in a secure and non-editable format
+
+- the charity maintains an electronic copy of the receipts
+
+### Line 311 – Charitable donations
+
+Complete [Schedule 2, Charitable Donations and Gifts](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch2.html), if, during the tax year, you made charitable donations, or unused charitable donations were transferred from a predecessor corporation after amalgamation or from a subsidiary corporation after wind-up.
+
+You can claim a deduction from net income for charitable donations made to any of the following qualified donees:
+
+- registered charities (including registered national arts service organizations)
+
+- registered journalism organizations
+
+- registered Canadian amateur athletic associations
+
+- registered housing corporations resident in Canada set up only to provide low cost housing for the aged
+
+- registered Canadian municipalities
+
+- registered municipal or public bodies performing a function of government in Canada
+
+- the United Nations or its agencies
+
+- universities outside Canada, of which the student body ordinarily includes students from Canada, that are registered with the CRA
+
+- registered foreign charities to which His Majesty in right of Canada had made a gift
+
+- His Majesty in right of Canada, a province, or a territory
+
+**References** Subsections 149(1) and 149.1(1)
+
+The maximum amount of charitable donations that a corporation can deduct is equal to **75% of its net income** (line 300).
+
+This limitation can be increased by the following amounts:
+
+- 25% of the taxable capital gains arising from gifts of capital property made in the year and included in taxable income for the year; this amount is multiplied by the eligible amount of the gift divided by the corporation's proceeds of disposition for the gift
+
+- 25% of all taxable capital gains in the year from the disposition in a previous year of a non-qualifying security of a corporation that is making a gift to a qualified donee
+
+- 25% of whichever is less:
+
+    - the amount of recapture, included in the income of the year, arising from the donation of a prescribed class of depreciable property
+
+    - the eligible amount of the gift divided by the corporation's proceeds of disposition for the gift, multiplied by the lesser of the capital cost and the proceeds of disposition of the property minus any outlays and expenses made for the purpose of making the disposition
+
+Charitable donations are deducted in the order they were made (first-in, first-out rule).
+
+If you are reporting nil net income or a loss for the year, you cannot claim donations to create or increase a loss.
+
+However, you can carry forward unused charitable donations and claim them in any of the five following tax years.
+
+On line 255 of Schedule 2, enter the amount of any other adjustments (these adjustments would apply to corporations that have undergone an acquisition of control and whose donations carryforward that accrued before the acquisition of control are not deductible after the acquisition of control).
+
+Complete Part 1 of [Schedule 2](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch2.html) to calculate the total donations available and the charitable donations closing balance.
+
+Complete Part 2 of Schedule 2 to calculate the maximum deduction allowable and to determine the amount to claim for charitable donations including gifts of capital property.
+
+On line 311, enter the amount you want to deduct in calculating taxable income. This amount cannot be more than the lesser of:
+
+- the total donations available
+
+- the maximum deduction allowable
+
+Complete Part 6 of Schedule 2 to establish the continuity of charitable donations.
+
+You do not have to file receipts with your return. However, you have to keep them in case the CRA asks for them later.
+
+When a credit union calculates its income for purposes of the 75% limit, it has to add back any amounts it previously deducted for bonus interest payments and payments for allocations in proportion to borrowing.
+
+Where a corporation makes a gift of a non‑qualifying security, that gift has to be ignored for the charitable donations deduction. However, if the donee disposes of the security within 60 months, for consideration other than another non‑qualifying security of any person, or the security ceases to be a non‑qualifying security of the corporation within 60 months, the corporation will be treated as having made the gift at that later time.
+
+A non‑qualifying security generally includes:
+
+- an obligation of the corporation or a non‑arm's length person
+
+- a share of the corporation or a share issued by a corporation with which the corporation does not deal at arm's length
+
+- the corporation's beneficial interest in a trust in certain circumstances
+
+- any other security issued by the corporation or a non‑arm's length person
+
+Specifically excepted from this definition are obligations, shares, and other securities listed on designated stock exchanges and deposits with financial institutions.
+
+The eligible amount of gifts to Canada, a province, or a territory is deductible on line 311 as charitable gifts under paragraph 110.1(1)(a). Monetary gifts to Canada should be made payable to the Receiver General for Canada. Send the gift, along with a note stating that the money is a gift to Canada, to:
+
+Place du PortagePhase III11 Laurier Street Gatineau QC K1A 0S5
+
+If you made such a gift, you should have been provided with an official donation receipt.
+
+**References** Paragraph 110.1(1)(a) Subsections 40(1.01), 110.1(1.1), and 248(31)
+
+### Line 313 – Cultural gifts
+
+Complete Part 3 of Schedule 2 if, during the tax year, one of the following occurred:
+
+- you donated cultural gifts
+
+- the cultural gifts were transferred from a predecessor corporation after amalgamation or from a subsidiary corporation after wind-up
+
+You can claim a deduction from net income for a gift of certified cultural property that you made to a designated institution or public authority. The most you can deduct is the total eligible amount of the gifts donated in the current tax year and any undeducted amounts from the five previous years.
+
+If the eligible amount of cultural gifts is more than your net income for the year **minus** other donations you claim, you can carry the excess forward for up to five years.
+
+Donations do not require that property be of national importance (that is, have a direct connection with Canada's cultural heritage) to qualify for the enhanced tax incentives for donations of cultural property. Enhanced tax incentives include an enhanced charitable donation deduction and an income tax exemption for any capital gains arising on the disposition of the property.
+
+If the certified cultural property is acquired as part of a **gifting arrangement that is a tax shelter**, the fair market value (FMV) of the property is deemed to be the lesser of the FMV of the property otherwise determined and its cost to the donor. For more information about the deemed FMV rule, see [Pamphlet P113, Gifts and Income Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html), and [Income Tax Folio S7‑F1‑C1, Split‑receipting and Deemed Fair Market Value](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-7-charities-non-profit-organizations/series/income-tax-folio-s7-f1-c1-split-receipting-deemed-fair-market-value.html).
+
+On line 455 of Schedule 2, enter the amount of any other adjustments (these adjustments would apply to corporations that have undergone an acquisition of control and whose donations carryforward that accrued before the acquisition of control are not deductible after the acquisition of control).
+
+Cultural gifts are deducted in the order they were made (first-in, first-out rule).
+
+On line 313, enter the eligible amount for cultural gifts you want to deduct in calculating taxable income.
+
+Complete Part 6 of [Schedule 2](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch2.html) to establish the continuity of cultural gifts.
+
+The Cultural Property Export Review Board will issue you a certificate containing prescribed information. The qualified donee will issue a receipt. You do not have to file receipts and certificates with your return. However, keep them in case the CRA asks for them later.
+
+**References** Paragraph 110.1(1)(c) Subsection 110.1(1.1) and 248(31)[Interpretation Bulletin IT-407, Dispositions of Cultural Property to Designated Canadian Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it407r4-consolid.html)[Income Tax Folio S7-F1-C1, Split-receipting and Deemed Fair Market Value](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-7-charities-non-profit-organizations/series/income-tax-folio-s7-f1-c1-split-receipting-deemed-fair-market-value.html)
+
+### Line 314 – Ecological gifts
+
+Complete Part 4of Schedule 2 if, during the tax year, one of the following occurred:
+
+- you made certified ecological gifts
+
+- the ecological gifts were transferred from a predecessor corporation after amalgamation, or from a subsidiary corporation after wind-up
+
+You can claim a deduction from net income for certified ecological gifts made to:
+
+- Canada, a province, or a territory
+
+- an approved Canadian municipality or municipal or public body performing a function of government in Canada
+
+- an approved registered charity (other than a private foundation)
+
+An ecological gift is a gift of land (including a covenant, an easement, or, in the case of land in Quebec, a personal servitude that runs for at least 100 years or a real servitude) that is certified by the minister of Environment and Climate Change (ECC) as ecologically sensitive.
+
+The eligible amount of a gift of ecologically sensitive land and, consequently, the corporate donor's proceeds of disposition are considered to be the amount determined by the minister of ECC.
+
+Ecologically sensitive land must be protected and should not be used for other purposes. A tax of 50% of the fair market value of the land will be charged to recipients who change the use of the land or dispose of it without the consent of the minister of ECC.
+
+The maximum deduction you can claim is the total of ecological gifts made during the current tax year plus the unclaimed ecological gifts from the 10 previous tax years, if the gift was made on or after February 11, 2014.
+
+If the amount of ecological gifts is more than your net income for the year **minus** any other donations you claim, you can carry the excess forward for up to 10 years.
+
+On line 555 of Schedule 2, enter the amount of any other adjustments (these adjustments would apply to corporations that have undergone an acquisition of control and whose donations carry-forward amounts that built up before the acquisition of control are not deductible after the acquisition of control).
+
+Deduct ecological gifts in the order they were made (first-in, first-out rule).
+
+On line 314, enter the amount of ecological gifts you want to deduct in calculating taxable income.
+
+Complete Part 6 of [Schedule 2](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch2.html) to establish the continuity of ecological gifts.
+
+For an ecological gift, you must get a certificate issued by the minister of ECC and a Certificate for Donation of Ecologically Sensitive Land. The qualified donee will issue a receipt. You do not have to file the receipt or the two certificates with your return. However, keep them in case the CRA asks for them later.
+
+**References** Paragraph 110.1(1)(d) Subsections 110.1(5), 110.1(1.1), and 248(31)
+
+### Line 320 – Taxable dividends deductible under section 112 or 113, or subsection 138(6)
+
+Complete [Schedule 3, Dividends Received, Taxable Dividends Paid, and Part IV Tax Calculation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch3.html), if you either received **or** paid dividends. For details on how to complete Schedule 3, see [Parts 3 and 4 of Schedule 3](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-6-pages-6-7-t2-return.html) and [Line 712 – Part IV tax payable](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html).
+
+Section 112 and subsection 138(6) of the Act allow corporations that receive intercorporate dividends to claim a deduction equal to the amount of dividends received.
+
+The dividend received deduction under subsections 112(1), 112(2), and 138(6) will be denied for any dividends received or deemed received (if the shares were held by the financial institution) after 2023 by a corporation that is a financial institution (as defined in 142.2(1)). This applies to shares that are mark-to-market (MTM) property or tracking property of the corporation (or that would be MTM property of the corporation for the year if the share was held at any time in the year by the corporation).
+
+As an exception, this measure does not generally apply to dividends received on **taxable preferred shares** (as defined in the Income Tax Act).
+
+Shares are considered MTM property when a financial institution holds less than 10% of the vote or value of the corporation that issued the shares. A tracking property is a property the fair market value of which is determined by reference to certain attributes of another property that would be MTM property if held directly by the corporation.
+
+When calculating taxable income, you can deduct, under section 112, any of the following types of taxable dividends received:
+
+- dividends from a taxable Canadian corporation, or from a corporation resident in Canada and controlled by the receiving corporation
+
+- dividends (or a portion of them) from a non-resident corporation (other than a foreign affiliate) that has carried on business in Canada continuously since June 18, 1971
+
+The following types of taxable dividends received are not deductible under section 112:
+
+- dividends from a corporation that is exempt from Part I tax
+
+- dividends on collateralized preferred shares (loss rental plans)
+
+- dividends that are part of a dividend rental arrangement, as defined in subsection 248(1)
+
+- dividends on term preferred shares received by certain financial institutions
+
+- dividends on shares guaranteed by a specified financial institution, as described in subsection 112(2.2)
+
+**References** Subsections 112(1), 112(2), and 112(2.1) to 112(2.9)
+
+**Section 113** contains the authority and the limitations concerning the deduction of dividends received from foreign affiliates.
+
+**Subsection 138(6)** contains the authority for a life insurer to deduct the taxable dividends received from taxable Canadian corporations, other than dividends on term preferred shares that are acquired in the ordinary course of its business.
+
+On line 320, enter the amount of taxable dividends (as per Schedule 3) deductible in calculating taxable income under section 112, or 113, or subsection 138(6). This amount is the total of columns 235 and 240 of Schedule 3.
+
+A dividend does not include stock dividends received from a non-resident corporation.
+
+By deducting taxable dividends received from net income or loss amount shown on line 300, you can create or increase a non-capital loss for the year.
+
+**Reference**[Interpretation Bulletin IT-269, Part IV Tax on Taxable Dividends Received by a Private Corporation or a Subject Corporation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it269r4.html)
+
+### Line 325 – Part VI.1 tax deduction
+
+A corporation that pays Part VI.1 tax on dividends it paid on taxable preferred shares and short-term preferred shares can deduct 3.5 times the Part VI.1 tax the corporation has to pay. For details on how to calculate Part VI.1 tax, see [Line 724 – Part VI.1 tax payable](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-8-page-9-t2-return.html).
+
+On line 325, enter the Part VI.1 tax times 3.5.
+
+**Reference** Paragraph 110(1)(k)
+
+### Line 331 – Non-capital losses of previous tax years
+
+On line 331, enter any non-capital losses carried forward from previous years to reduce taxable income from line 130 of Schedule 4.
+
+On line 330 of Schedule 3, enter the amount of current-year non-capital losses, and on line 335, enter the non-capital losses from previous years to be used to reduce dividends subject to Part IV tax.
+
+The total of those two amounts has to be entered as an applied amount on line 135 of Schedule 4. For details, see [Part 1 – Non-capital losses](#P2439_164061).
+
+**References** Paragraphs 111(1)(a), 186(1)(c), and 186(1)(d)
+
+### Line 332 – Net capital losses of previous tax years
+
+On line 332, enter the amount of net capital losses from previous years that you applied against taxable capital gain incurred in the year. This amount is the capital loss entered on line 225 of Schedule 4 that you multiply by 50%. See [Part 2 – Capital losses](#P2496_170160) for details.
+
+A net capital loss can create a non-capital loss in the year you apply it, because the net capital loss is not limited to reducing the taxable income, but to reducing the taxable capital gain in that year.
+
+**References** Section 38 Subsections 111(1.1) and 111(8) Paragraph 111(1)(b)
+
+### Line 333 – Restricted farm losses of previous tax years
+
+On line 333, enter the amount you want to apply to reduce the current-year farm income. On line 430 of Schedule 4, enter the amount of restricted farm loss used. For details, see [Part 4 – Restricted farm losses](#P2545_176408).
+
+**Reference** Paragraph 111(1)(c)
+
+### Line 334 – Farm losses of previous tax years
+
+On line 334, enter the farm losses you are carrying forward from previous years to reduce taxable income from line 330 of Schedule 4.
+
+On line 340 of Schedule 3, enter the amount of the current-year farm loss, and on line 345, enter the previous years' farm losses that you are using to reduce dividends subject to Part IV tax.
+
+The total of those two amounts has to be entered on line 335 of Schedule 4 as the amount applied. For details, see [Part 3 – Farm losses](#P2522_173760).
+
+**References** Paragraphs 111(1)(d), 186(1)(c), and 186(1)(d)
+
+### Line 335 – Limited partnership losses of previous tax years
+
+On line 335, enter the deductible amount of limited partnership losses from previous years that were applied against other incomes in the current year from [Part 7 of Schedule 4](#P2604_182340).
+
+**Reference** Paragraph 111(1)(e)
+
+### Line 340 – Taxable capital gains or taxable dividends allocated from a central credit union
+
+If a central credit union has made an election under subsection 137(5.1), amounts allocated to a member credit union as taxable dividends or net non-taxable capital gains may be claimed by that member as a deduction from taxable income under paragraph 137(5.2)(c). Enter these amounts on line 340.
+
+### Line 350 – Prospector's and grubstaker's shares
+
+You can deduct ½ of the value of any shares received from a corporation in exchange for the disposition of an interest in a mining property, except if the amount is exempt under a tax treaty. Upon the disposition or exchange of those shares, you can deduct ½ of the lesser of the fair market value of the shares at the time of disposition of the mining property or at the time of the disposition or exchange of the shares.
+
+**Reference** Paragraph 110(1)(d.2)
+
+### Line 352 – Employer deduction for non-qualified securities
+
+Canada's tax treatment of employee stock options granted after June 30, 2021, will apply a $200,000 annual limit (on a calendar year basis) on employee stock option grants that can receive preferred tax treatment.
+
+Generally, employee stock option benefits will remain uncapped for Canadian-controlled private corporations (CCPCs) and non-CCPCs employers with annual gross revenue of $500 million or less (taking into account the gross revenue of a corporate group that prepared a consolidated financial statement, when the employer is member of such a group).
+
+If a security is deemed to be a non-qualified security for the 50% stock option deduction (either in the case of designation by the employer or because it was more than the annual vesting limit), the employer will be able to claim a deduction equal to the benefit received by an employee where the security would otherwise be deductible under paragraph 110(1)(d).
+
+The employer will have to notify:
+
+- the employee, in writing, that the security is a non‑qualified security no later than 30 days after the day that the agreement is entered into
+
+- the Canada Revenue Agency that the security is a non‑qualified security by filing [Schedule 59, Information Return for Non-Qualified Securities](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch59.html), with its T2 return for the tax year that includes the day on which the agreement is entered into
+
+For more information on your obligations regarding the payroll reporting of the taxable benefit from the non‑qualified securities, see the details on [Security options](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/benefits-allowances/security-options.html).
+
+### Line 355 – Section 110.5 additions or subparagraph 115(1)(a)(vii) additions
+
+You can use foreign tax deductions to reduce Part I tax that you would otherwise have to pay. Under section 110.5 and subparagraph 115(1)(a)(vii), a corporation that cannot deduct its foreign income tax deductions (for example, if it has no Part I tax payable for the year) can choose to add an amount to its taxable income. In this way, the corporation can use these otherwise non-deductible foreign tax deductions.
+
+The amount you add to income for this purpose forms part of the non-capital loss. See [Non-capital losses](#P2439_164061) for details.
+
+However, you cannot add an amount under section 110.5 if that addition increases **any** of the following deductible amounts:
+
+- the small business deduction
+
+- the manufacturing and processing profits deduction
+
+- the federal logging tax credit
+
+- the investment tax credit (ITC)
+
+- the share-purchase tax credit
+
+- the SR&ED investment tax credit
+
+If the corporation is an authorized foreign bank, you cannot add an amount under subparagraph 115(1)(a)(vii) if that addition increases **any** of the following deductible amounts:
+
+- the federal logging tax credit
+
+- the ITC
+
+On line 355, enter the amount you added to income under section 110.5 or subparagraph 115(1)(a)(vii).
+
+### Line 360 – Taxable income
+
+To calculate this amount, subtract all the deductions you entered on lines 311 to 352 from the net income for income tax purposes on line 300. Add, if it applies, section 110.5 or subparagraph 115(1)(a)(vii) additions (line 355). Enter the taxable income on line 360.
+
+If the result is a loss, enter "0" on line 360.
+
+If you want to carry back a current year loss to a previous tax year, see [How to complete Schedule 4](#P2438_163990) for details.
+
+- [Previous page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html)
+
+- [Table of contents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide.html)
+
+- [Next page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-4-page-4-t2-return.html)

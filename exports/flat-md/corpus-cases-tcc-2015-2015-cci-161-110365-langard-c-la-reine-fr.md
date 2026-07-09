@@ -1,0 +1,250 @@
+---
+title: "Langard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/110365/index.do"
+last_modified: "2015-06-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 161"
+citation2: ""
+neutral_citation: "2015 CCI 161"
+decision_date: "2015-06-25"
+language: "fr"
+item_id: "110365"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2657
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:28:48.979000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9dbca76630afd23c6db32d8ba56732d4772a90c206f4b8d817c2632960e18f75"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Langard c. La Reine
+
+- Citation: 2015 CCI 161
+- Decision date: 2015-06-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2657, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Langard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-06-25
+Référence neutre
+2015 CCI 161
+Numéro de dossier
+2012-689(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-689(IT)G
+ENTRE :
+ALBERT J. LANGARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 18, 19 et 20 août 2014
+à Victoria (Colombie-Britannique).
+Devant : L’honorable juge B. Paris
+Comparutions :
+Avocat de l’appelant :
+Me Jean-Philippe Couture
+Avocat de l’intimée :
+Me Raj Grewal
+JUGEMENT
+L’appel interjeté des nouvelles cotisations établies aux termes de la Loi de l’impôt sur le revenu pour les années d’imposition 2006 et 2007 est rejeté, avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 25e jour de juin 2015.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 15e jour de décembre 2015.
+François Brunet, réviseur
+Référence : 2015 CCI 161
+Date : 20150625
+Dossier : 2012‑689(IT)G
+ENTRE :
+ALBERT J. LANGARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] M. Langard interjette appel des nouvelles cotisations d’impôt établies à l’égard de ses années d’imposition 2006 et 2007. Le ministre du Revenu national (le « ministre ») a refusé sa déduction relative aux pertes d’entreprise découlant d’opérations sur le marché des contrats à terme sur marchandises. Les pertes s’élevaient à 472 029,89 $ en 2006 et à 151 551,06 $ en 2007.
+[2] Les opérations sur marchandises ayant donné lieu aux pertes ont été réalisées dans un compte ouvert au nom de Bearsden Enterprises Ltd. (« Bearsden »), société dont M. Langard était administrateur et président. Les fonds du compte provenaient de Bearsden.
+[3] La question en litige en l’espèce consiste à savoir si c’est M. Langard personnellement ou Bearsden qui a subi les pertes.
+[4] M. Langard soutient qu’il a conclu une convention avec Bearsden selon laquelle il pouvait utiliser le compte de Bearsden pour effectuer des opérations sur marchandises pour son propre compte et que les pertes en question avaient été enregistrées pendant des périodes où il faisait des opérations sur marchandises pour son propre compte. Il affirme que différents documents prouvent l’existence de la convention conclue avec Bearsden, dont une résolution de l’administrateur et des avis qu’il a donnés par écrit à la société concernant son intention de commencer et de cesser les opérations sur marchandises en son nom personnel. Il soutient également qu’il a remboursé à Bearsden toutes les pertes qu’il a subies au cours de périodes où il effectuait des opérations sur marchandises pour son propre compte.
+[5] Lorsqu’il a établi les nouvelles cotisations de M. Langard, le ministre a présumé que la résolution de l’administrateur n’était pas authentique (« bona fide » dans le texte anglais). Dans la réponse à l’avis d’appel, l’intimée a également avancé les autres faits importants suivants :
+[traduction]
+- La résolution et tout autre prétendu avis écrit se rapportant à celle‑ci étaient des trompe‑l’oeil calculés dans l’objectif de tromper le ministre afin qu’il traite des pertes d’entreprise comme des pertes personnelles.
+- Ni la résolution ni aucun prétendu avis écrit fourni conformément à celle‑ci n’ont été attestés ou notariés, et ces documents n’ont pas été signés aux dates qui y figurent.
+- La résolution et tout autre avis écrit fourni conformément à celle‑ci étaient des mécanismes sans effet sur le plan juridique au moyen desquels l’appelant a tenté de transformer des pertes d’entreprise en pertes personnelles dans l’objectif de compenser son revenu personnel provenant d’autres sources.
+[6] À l’audience, M. Langard a témoigné pour son propre compte. Mme Annie Vallière, chimiste judiciaire de documents de l’Agence des services frontaliers du Canada, a été appelée par l’intimée à témoigner à titre d’expert.
+Faits [7] M. Langard a constitué Bearsden en société le 29 décembre 2005. À ce moment‑là, l’épouse de M. Langard, Sally Langard, avait été désignée comme seule administratrice de Bearsden. Toutefois, lors de son témoignage, M. Langard a reconnu qu’il était l’âme dirigeante de Bearsden.
+[8] M. Langard a déclaré que Bearsden possédait et exploitait un restaurant qu’il avait construit à proximité de Calgary. Il semble que le restaurant était en activité un certain temps avant la constitution de Bearsden en société, mais aucun détail n’a été fourni sur l’ancien propriétaire du restaurant ou sur le transfert de titres de propriété. M. Langard a ajouté qu’au lancement de Bearsden, la valeur de la société s’élevait à environ sept millions de dollars, dont le restaurant constituait la majeure partie.
+[9] Selon M. Langard, environ 40 % des actions ordinaires de la société appartenaient à sa famille (y compris lui‑même, son épouse et ses enfants), 40 % appartenaient à John Thorpe ainsi qu’à l’épouse et aux enfants de celui‑ci, et les autres 20 % appartenaient à des employés de l’entreprise. Il a également déclaré que 60 % des actions privilégiées appartenaient à la famille Thorpe.
+[10] M. Langard a affirmé qu’en plus d’exploiter le restaurant, Bearsden effectuait des opérations sur marchandises. Il a ajouté qu’il avait exercé personnellement les opérations sur marchandises presque sans interruption depuis le début des années 1970.
+[11] Au départ, Bearsden utilisait un compte de négociation ouvert au nom d’AJS Financial Corporation (« AJS »), une autre société dont M. Langard était, selon ses dires, le président et l’âme dirigeante. M. Langard a affirmé que Bearsden avait l’intention d’ouvrir son propre compte, mais que l’ouverture du compte avait pris un certain temps. Selon un document intitulé [traduction] « Déclaration de fiducie », daté du 10 janvier 2006 et signé par M. Langard à titre de président d’AJS, AJS gérait et détenait en fiducie, pour Bearsden, le compte de négociation ouvert à son nom. Curieusement, la convention de fiducie entrait en vigueur pour une moitié du compte le 15 décembre 2005 et pour l’autre moitié du compte le 31 décembre 2005. Aucune explication n’a été donnée pour justifier comment la convention aurait pu, en partie, entrer en vigueur avant la constitution de Bearsden en société.
+[12] M. Langard a déclaré que son épouse, à titre de seule administratrice de Bearsden, avait adopté une résolution, également le 10 janvier 2006, établissant les modalités de la convention relative aux opérations sur marchandises entre lui‑même et la société. Selon cette résolution, la société lui offrait la possibilité d’établir un partenariat avec elle dans l’objectif d’effectuer des opérations sur marchandises dans le compte d’AJS et dans le compte qui serait ultérieurement ouvert au nom de Bearsden. La résolution prévoyait que M. Langard recevrait 75 % des bénéfices et assumerait 100 % des pertes subies pendant la durée du partenariat, et pourrait établir ce partenariat et y mettre fin à tout moment, pourvu qu’il avise la société par écrit de son intention à cet égard. Selon la résolution, la société fournirait les capitaux nécessaires pour maintenir le compte de négociation en règle.
+[13] M. Langard a affirmé qu’il s’était prévalu de la possibilité d’effectuer des opérations sur marchandises dans le compte de Bearsden entre le 6 mai et le 30 septembre 2006, puis entre le 13 avril et le 20 août 2007. Il a affirmé qu’il avait transmis les avis écrits nécessaires dans lesquels il faisait part de son intention d’effectuer des opérations sur marchandises dans le compte en question le 6 mai 2006, le 30 septembre 2006 et le 13 avril 2007. Il n’a donné aucun avis concernant la fin de la deuxième période, car Bearsden avait fermé le compte de négociation le 20 août 2007. M. Langard a affirmé qu’il avait essuyé une perte de 472 029,89 $ attribuable aux opérations sur marchandises pendant la première période et une perte de 151 551,06 $ pendant la deuxième période.
+[14] M. Langard a affirmé qu’il effectuait la tenue des livres pour Bearsden et qu’il avait inscrit ces pertes dans le compte 1200 des livres de Bearsden. Ce compte servait à consigner toutes les opérations financières entre Bearsden et lui‑même.
+[15] Des extraits du compte 1200 pour 2006 et 2007 ont été présentés en preuve. Ils révèlent qu’une opération de 472 029,89 $ a été inscrite au débit du compte 1200 le 30 septembre 2006 pour la [traduction] « participation aux opérations sur marchandises » de M. Langard et que les opérations inscrites ci‑dessous ont été portées au débit de ce même compte aux dates indiquées en 2007 pour des [traduction] « marchandises ».
+[traduction]
+30 avril
+86 981,47 $
+31 mai
+26 670,89 $
+30 juin
+52 500,50 $
+31 juillet
+(30 153,51 $)*
+*gain sur les marchandises
+31 août
+15 551,51 $
+[16] M. Langard a affirmé que les montants portés au crédit du compte 1200 en 2006 et en 2007 étaient suffisants pour compenser les pertes qu’il avait subies lorsqu’il avait effectué des opérations sur marchandises en son propre nom dans le compte de Bearsden. Plus particulièrement, il a déclaré qu’en septembre 2006, il avait obtenu un prêt d’un million de dollars de John Thorpe qui avait été porté au crédit du compte 1200 le 30 septembre 2006. M. Langard a affirmé qu’à ce moment‑là, Bearsden devait plus d’un million de dollars à M. Thorpe et que le prêt que M. Thorpe lui avait fait était compensé par la dette que Bearsden avait envers M. Thorpe au moyen d’une écriture de journal dans le compte de prêt de l’actionnaire de M. Thorpe dans les livres de Bearsden. Par conséquent, il a expliqué que bien qu’il n’y ait eu aucun transfert d’argent, Bearsden a reçu un crédit pour les pertes associées aux opérations sur marchandises, à savoir une réduction de sa dette envers M. Thorpe.
+[17] La copie de la convention de prêt entre M. Thorpe et M. Langard a été présentée en preuve, tout comme une copie d’un billet à ordre d’un million de dollars de M. Langard à M. Thorpe. Aucune copie du compte de prêt de l’actionnaire de M. Thorpe dans Bearsden n’a été produite.
+[18] Après l’écriture du prêt d’un million de dollars, le solde du compte 1200 s’élevait à 123 580 $ en faveur de M. Langard le 30 septembre 2006.
+[19] M. Langard a affirmé qu’il avait ensuite remboursé le prêt d’un million de dollars à M. Thorpe, mais n’a pas apporté de précision sur les questions de savoir quand et comment ce remboursement avait été effectué.
+[20] Les pertes de 2007 associées aux opérations sur marchandises, inscrites dans le compte 1200, avaient aussi été compensées par des crédits dans le compte en fiducie de M. Langard. Aucun élément n’a été fourni pour corroborer ces crédits.
+[21] Dans sa déclaration de revenus personnelle de 2006, M. Langard a déclaré un revenu d’emploi de 510 220 $. Après avoir déduit de ses revenus la perte d’entreprise subie en 2006 qui fait l’objet du présent contentieux, M. Langard a déclaré un revenu total de 38 617,96 $.
+[22] Dans sa déclaration de revenus personnelle de 2007, M. Langard a déclaré en tout 204 214 $ en salaire ainsi qu’en honoraires de gestion, en jetons de présence et en primes provenant de sociétés dont il était, selon ses dires, l’âme dirigeante. Après avoir déduit de ses revenus la perte d’entreprise subie en 2007, qui fait l’objet du présent contentieux, M. Langard a déclaré un revenu total de 12 955,11 $.
+[23] Bearsden a déclaré un revenu net de 27 052 $ pour son exercice prenant fin le 1er janvier 2007 et une perte de 141 549 $ pour son exercice prenant fin le 1er janvier 2008.
+Témoignage d’expert [24] Mme Vallière a été appelée par l’intimée à rendre un témoignage d’opinion sur la question de savoir si la datation de l’encre de la signature de M. Langard apposée sur certains documents se rapportant à l’entente lui permettant de faire des opérations sur marchandises dans le compte de Bearsden concordait avec les dates auxquelles il aurait soi‑disant signé ces documents.
+[25] L’avocat de l’appelant n’a pas contesté les compétences de Mme Vallière à titre de chimiste judiciaire de documents et j’ai conclu qu’elle avait les compétences requises pour rendre un témoignage d’expert sur la datation de l’encre.
+[26] Mme Vallière a utilisé la [traduction] « méthode du rapport de perte de solvant » pour dater l’encre séchée sur le papier. Elle l’a appelée la [traduction] « méthode du RPS » lors de son témoignage. Cette méthode s’appuie sur la mesure de certains solvants présents dans l’encre des stylos à bille. Le procédé consiste à prendre des échantillons minuscules d’encre et de papier. Pour ce faire, on découpe des échantillons de 0,5 mm de diamètre. La moitié des échantillons sont chauffés pendant une certaine période, après quoi on mesure la quantité de solvants présente dans les échantillons. La quantité de solvant restante est ensuite comparée à la quantité de solvant mesurée dans les échantillons qui n’ont pas été chauffés afin d’établir la quantité de solvants perdue pendant la période de chauffage. Selon Mme Vallière, le taux de perte des solvants présents dans l’encre est plus élevé peu de temps après l’application de l’encre sur le papier et diminue graduellement à mesure que l’encre vieillit. Par conséquent, l’encre appliquée récemment présente une plus grande quantité de solvants que l’encre plus vieille, et l’encre appliquée récemment enregistre un taux de perte des solvants plus élevé lorsqu’elle est chauffée. L’Agence des services frontaliers du Canada a compilé les données obtenues à la suite d’essais sur le taux de perte de certains solvants présents dans l’encre des stylos à bille et a préparé des graphiques illustrant les taux de perte connus. En l’espèce, elle a comparé le rapport de perte du 2‑phénoxyéthanol dans les échantillons aux taux de perte connus de ce solvant compilés par l’Agence.
+[27] Mme Vallière a prélevé des échantillons d’encre des quatre lettres que M. Langard avait transmises à Bearsden en guise d’avis au sujet des opérations sur marchandises, et d’un cinquième document, intitulé [traduction] « Déclaration de fiducie » daté du 19 avril 2006. Elle a été en mesure de donner son opinion sur une seule lettre, soit celle datée du 6 mai 2006, dans laquelle M. Langard informait Bearsden qu’il se prévalait de la possibilité d’effectuer des opérations sur marchandises pour son propre compte. Elle n’a pas été en mesure d’analyser la perte de solvant sur les quatre autres documents. Dans deux de ces documents, la signature n’avait pas été apposée au moyen d’un stylo à bille et dans les deux autres documents, la composition chimique de l’encre était récente et il n’existait pas suffisamment de données sur les caractéristiques de vieillissement des solvants présents dans cette encre‑là.
+[28] Mme Vallière a observé les échantillons prélevés sur la lettre datée du 6 mai 2006 et a conclu, selon le taux de perte, qu’en fonction de la quantité de solvant présente dans la signature au moment où elle a effectué l’analyse, le document ne pouvait pas avoir été signé le 6 mai 2006. À l’audience, Mme Vallière a avancé que l’encre de la signature datait d’un à quatre ans au moment de l’analyse. Toutefois, cette opinion ne s’appuyait pas sur une analyse officielle des taux de perte et j’estime qu’elle n’était pas fiable, car d’après le graphique illustrant le rapport de perte de solvants figurant dans son rapport, la signature apposée sur le document daterait d’environ 500 jours ou moins. Mme Vallière a défendu son opinion selon laquelle la signature datait d’un à quatre ans au motif que l’encre aurait pu être à [traduction] « séchage lent », et a expliqué que certaines variétés d’encre perdaient le 2‑phénoxyéthanol plus rapidement et plus lentement que l’encre utilisée pour la production du graphique illustrant le taux de perte de solvant dans son rapport. Quoi qu’il en soit, comme cette partie de son témoignage dépassait la portée de l’analyse produite dans son rapport et que l’avocat de l’appelant n’avait pas été informé de cette conclusion, l’estimation selon laquelle la signature daterait d’un à quatre ans doit être exclue.
+Thèse de l’appelant [29] L’avocat de l’appelant soutient que M. Langard a produit suffisamment d’éléments de preuve crédibles pour réfuter l’hypothèse du ministre selon laquelle la résolution de l’administrateur établissant la convention relative aux opérations sur marchandises n’était pas authentique. Il fait référence au témoignage de M. Langard, à la résolution de l’administrateur datée du 16 janvier 2006, aux documents comptables de Bearsden, aux avis que M. Langard a transmis à Bearsden conformément à la convention et à la convention de prêt conclue avec M. Thorpe. L’avocat de l’appelant fait valoir que ces éléments de preuve constituent une preuve prima facie que la convention relative aux opérations sur marchandises a été conclue de bonne foi, que les modalités de celle‑ci ont été respectées et que M. Langard a remboursé Bearsden pour les pertes subies pendant les périodes où il effectuait des opérations sur marchandises pour son propre compte.
+[30] L’avocat de l’appelant soutient que l’intimée n’a produit aucun élément de preuve réfutant cette preuve de prime abord. De plus, il fait valoir que l’intimée ne s’est pas acquittée du fardeau de prouver que la résolution de l’administrateur datée du 10 janvier 2006 et les avis écrits destinés à Bearsden datés du 6 mai 2006, du 30 septembre 2006 et du 13 avril 2007 étaient des trompe‑l’oeil et n’ont pas été signés aux dates qui y sont indiquées comme elle l’allègue dans les [traduction] « Autres faits pertinents » aux paragraphes 13 et 14 de la réponse. Comme ces faits supplémentaires n’étaient pas présumés au moment de l’établissement de la nouvelle cotisation, le fardeau de la preuve incombe à l’intimée.
+[31] Au sujet de ce dernier point, l’avocat de l’appelant soutient que le témoignage de Mme Vallière doit être rejeté, car selon les graphiques illustrant les taux de perte se trouvant dans son rapport, la signature pourrait remonter à 4 à 600 jours, c’est‑à‑dire que le document aurait été signé après le mois de juillet 2012 environ. Toutefois, ce document existait manifestement en 2009, car M. Langard avait transmis une copie du document signé à l’Agence du revenu du Canada à ce moment‑là. Par conséquent, le procédé de datation de l’encre utilisé par Mme Vallière devait être déficient et aucun poids ne devrait être accordé à son témoignage.
+Analyse [32] La question en litige en l’espèce consiste à savoir si c’est M. Langard personnellement ou Bearsden qui a subi les pertes dans le compte de négociation de Bearsden entre le 6 mai et le 30 septembre 2006, et entre le 14 avril 2007 et la fermeture du compte, en août 2007.
+[33] En ce qui a trait au fardeau de la preuve, la jurisprudence enseigne clairement que, dans les appels en matière fiscale, il revient d’abord au contribuable de prouver que les hypothèses sur lesquelles s’est appuyé le ministre pour établir les cotisations ou les nouvelles cotisations sont incorrectes. À l’occasion de l’affaire McMillan c. La Reine, 2012 CAF 126, la Cour d’appel fédérale s’est exprimée en ces termes au paragraphe 7 :
+[...] À notre humble avis, il est bien établi en droit que la charge initiale dont doit s’acquitter un contribuable qui interjette appel consiste à « démolir » les présomptions (hypothèses) du ministre sur lesquelles repose la cotisation. Le contribuable s’acquitte de cette obligation initiale de « démolir » les présomptions du ministre lorsqu’il produit à tout le moins une preuve prima facie. Après que le contribuable a produit une telle preuve, le fardeau de la preuve passe au ministre, qui doit établir, selon la prépondérance des probabilités, que ses présomptions étaient justes (Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, aux paragraphes 92 à 94; arrêt House c. Canada, 2011 CAF 234, 422 N.R. 144, au paragraphe 30).
+[34] Il est également clair que l’intimée a le fardeau de prouver les faits qui ne sont pas allégués comme des hypothèses dans la réponse.
+[35] Il est vrai que l’intimée a invoqué comme autre « fait pertinent » le fait que la résolution de l’administrateur était un trompe‑l’oeil, mais cette déclaration doit être examinée compte tenu de l’hypothèse de fait selon laquelle la résolution [traduction] « n’était pas authentique ». Je retiens la thèse de l’avocat de l’intimée portant qu’une convention qui n’est pas authentique est un trompe‑l’oeil.
+[36] À l’occasion de l’affaire Stubart Investments Inc. c. La Reine, [1984] 1 RCS 536, la Cour suprême du Canada a ainsi défini le trompe‑l’oeil en ces termes :
+[...] une opération assortie d’un élément de tromperie de manière à créer une illusion destinée à cacher au percepteur le contribuable ou la nature réelle de l’opération, ou un faux‑semblant par lequel le contribuable crée une apparence différente de la réalité qu’elle sert à masquer.
+[37] La Cour d’appel fédérale a également défini le concept de trompe‑l’oeil à l’occasion de l’affaire La Reine c. Central Supply Company (1972) Ltd., [1997] 3 RCF 674, au paragraphe 5 :
+[...] Une opération est qualifiée de trompe‑l’oeil lorsqu’un arrangement crée une apparence de droits et d’obligations qui masquent la véritable intention des parties en cause. Cela suppose habituellement un élément de tromperie ou même de fraude. La description classique du « trompe‑l’oeil » a été donnée par lord Diplock dans l’arrêt Snook v. London & West Riding Investments, Ltd.10; ce sont des actes ou documents qui [traduction] « visent à simuler [...] la création de droits et d’obligations juridiques différents des droits et obligations juridiques que les parties ont véritablement entendu créer (dans la mesure où elles ont voulu en créer)11 ». Comme le trompe‑l’oeil a pour résultat de dissimuler une opération sous‑jacente, la façon d’y remédier est de le remplacer par l’opération qui en constitue le véritable fondement. La doctrine du trompe‑l’oeil a été incorporée dans la common law du Canada. Dans l’arrêt Stubart, le juge Estey explique qu’en droit canadien l’élément de tromperie est « au cœur même du trompe‑l’oeil ».
+[38] La Cour suprême du Canada a cité la définition des mots « bona fide » tirée du Black’s Law Dictionary (8e éd. 2004) à l’occasion de l’affaire Nouveau‑Brunswick (Commission des droits de la personne) c. Potash Corporation of Saskatchewan Inc., 2008 CSC 45 (au paragraphe 34) : [traduction] « 1. Fait de bonne foi; sans fraude ni tromperie. 2. Sincère, authentique. »
+[39] Par conséquent, lorsqu’une chose n’est pas authentique, elle comporte un élément de fausseté, de mauvaise foi, de fraude ou de faux‑semblant, et équivaut à un trompe‑l’oeil. À l’occasion de l’affaire Nouveau‑Brunswick (Commission des droits de la personne), au paragraphe 40, la Cour suprême du Canada a également formulé l’observation suivante, qui confirme, à mon avis, que lorsqu’une chose n’est pas authentique, il s’agit d’un trompe‑l’oeil :
+Dans le contexte fiscal, les tribunaux ont dû déterminer si un régime de pension était véritable ou s’il s’agissait d’un « trompe‑l’œil » visant seulement l’obtention d’un avantage fiscal. Dans Susan Hosiery Ltd. c. Minister of National Revenue, [1969] 2 R.C. de l’É. 408, le juge Gibson a conclu que le régime de pension de l’entreprise était un simulacre et que ni les parties ni le fiduciaire du régime [traduction] « n’avaient voulu être liés par le document » (p. 418). [...]
+[40] Par conséquent, compte tenu de l’hypothèse formulée dans la réponse, à savoir que la résolution de l’administrateur n’était pas authentique, l’appelant a le fardeau de prouver que la résolution était authentique et ne comportait aucun élément de tromperie. L’allégation faite au paragraphe 13 de la réponse, à savoir que la résolution de l’administrateur était un trompe‑l’oeil, est superflue et ne fait pas passer le fardeau de la preuve à l’intimée, qui n’a donc pas à prouver que la convention n’était pas authentique. À mon avis, une autre allégation formulée au paragraphe 13 de la réponse, à savoir que les avis écrits transmis à Bearsden étaient des trompe‑l’oeil, est elle aussi superflue. Si la convention sous‑jacente n’était pas authentique, je ne vois pas comment les documents qui auraient été préparés dans le cadre de cette convention pourraient être authentiques.
+[41] La question consiste alors à savoir si l’appelant s’est acquitté du fardeau de prouver que la convention relative aux opérations sur marchandises était authentique.
+[42] Tout d’abord, je tiens à formuler l’observation suivante : la nature de la convention alléguée entre Bearsden et M. Langard, qui permettait à ce dernier d’effectuer des opérations sur marchandises dans le compte de Bearsden, ne peut qu’être qualifiée de très inhabituelle. Pourquoi M. Langard aurait‑il choisi de conclure cette convention au lieu d’ouvrir son propre compte de négociation? Pourquoi abandonner 25 % des bénéfices et assumer 100 % des pertes subies? Malheureusement, M. Langard n’a donné aucune explication sur la raison d’être de cette entente et aucune raison ne ressort des autres éléments de preuve présentés.
+[43] Il n’a pas été soutenu que M. Langard avait décidé d’effectuer des opérations sur marchandises dans le compte de Bearsden en raison du fait qu’il s’était vu interdire à perpétuité de faire le commerce de valeurs mobilières en Alberta par la Commission des valeurs mobilières de l’Alberta en 1992. En fait, à l’étape de l’opposition, M. Langard a exprimé qu’il estimait que les contrats à terme sur marchandises n’étaient pas des [traduction] « valeurs mobilières » et qu’en conséquence, l’interdiction qui lui avait été imposée ne visait pas cette activité. Toutefois, même si l’entente lui permettant d’effectuer des opérations sur marchandises dans le compte de société de Bearsden avait eu pour objectif de contourner l’interdiction, pourquoi n’aurait‑il pas choisi une forme de société dans laquelle il (ou des membres de sa famille) aurait eu droit directement ou indirectement à la totalité des bénéfices? Il semble que M. Langard aurait eu le capital nécessaire pour se lancer dans des opérations sur marchandises, car son revenu d’emploi était supérieur à 500 000 $ en 2006 et, selon son témoignage, il a été en mesure d’emprunter un million de dollars.
+[44] En outre, il ne semble pas non plus que la convention se soit avérée nécessaire parce que M. Langard était pressé de commencer à effectuer des opérations sur marchandises. En effet, selon ses dires, il a commencé à effectuer des opérations sur marchandises pour son propre compte seulement trois mois et demi après la résolution de l’administrateur du 10 janvier 2006.
+[45] D’autre part, il me semble plus plausible que M. Langard ait été poussé par le désir d’utiliser personnellement les pertes subies par Bearsden dont celle‑ci n’avait pas besoin parce qu’elle avait touché un faible revenu pendant les années en question. Au cours des périodes où M. Langard soutient avoir effectué des opérations sur marchandises pour son propre compte, des pertes considérables ont été enregistrées dans le compte : 472 029,89 $ en 2006 et 151 551 $ en 2007. Pendant les périodes où il aurait effectué des opérations sur marchandises pour Bearsden, des gains ont été enregistrés : 627 481 $ en 2006 et 126 585 $ en 2007. Il semble peu probable que les faits suivants relèvent de la coïncidence : les pertes subies par M. Langard dans le cadre de cette entente étaient presque équivalentes à son revenu provenant d’autres sources en 2006 et en 2007, de sorte qu’il a payé peu d’impôt pour les années en question, tandis que le revenu net de Bearsden en 2006, en tenant compte des gains relatifs aux marchandises, s’élevait à 27 052 $ pour l’exercice prenant fin le 1er janvier 2007 et ses pertes nettes se chiffraient à 141 549 $ pour l’exercice prenant fin le 1er janvier 2008.
+[46] Lors de son témoignage, M. Langard a soutenu qu’il serait insensé qu’il absorbe lui‑même toutes les pertes découlant des opérations sur marchandises uniquement pour obtenir les pertes fiscales personnellement, car l’impôt récupéré grâce à l’application des pertes serait inférieur aux pertes qu’il devrait rembourser à Bearsden. Je reconnais qu’il s’agit d’un point essentiel. Quels éléments de preuve permettent alors d’affirmer que M. Langard a remboursé les pertes à Bearsden? Il a produit la copie d’une convention de prêt qu’il a conclue avec M. Thorpe et les écritures de journal qu’il a faites dans les livres de Bearsden, qui indiquent qu’un million de dollars a été porté au crédit du compte 1200, ainsi que les montants portés au débit pour les pertes découlant des opérations sur marchandises.
+[47] L’intimée soutient que ces documents ne suffisent pas à eux seuls à prouver que M. Langard a remboursé les pertes, et j’en conviens. D’abord, M. Thorpe n’a pas été appelé à témoigner pour confirmer que le prêt a réellement été octroyé à M. Langard. Vu que le remboursement, par M. Langard, des pertes découlant des opérations sur marchandises est un élément essentiel en l’espèce et la convention de prêt est un élément de preuve intéressé, je me serais attendu à ce que M. Langard corrobore d’une quelconque façon le prêt et le remboursement de celui‑ci. À mon avis, il aurait été simple d’appeler M. Thorpe à témoigner pour prouver, au nom de M. Langard, l’existence du prêt et le fait que M. Thorpe avait transféré des fonds à Bearsden. Cependant, M. Thorpe n’a pas été appelé à témoigner et aucun motif n’a été donné pour justifier cette décision. Je tire une conclusion défavorable du fait que M. Thorpe n’a pas témoigné et je conclus que son témoignage n’aurait pas aidé M. Langard. En outre, le fait que Bearsden n’a pas consigné l’obtention initiale du million de dollars que M. Thorpe aurait soi‑disant versé dans la société à un certain moment avant septembre 2006 me porte à me demander si Bearsden devait alors un million de dollars à M. Thorpe. Cela me porte ensuite à douter de l’authenticité de la convention de prêt.
+[48] Compte tenu de ces conclusions, j’estime que le témoignage de M. Langard n’était pas fiable. Son témoignage comporte certains aspects que je trouve invraisemblables, auxquels j’ai déjà fait référence, et j’ai relevé un certain nombre de discordances dans son témoignage ainsi qu’entre le témoignage qu’il a rendu devant la Cour et les réponses qu’il a données au cours de son interrogatoire préalable.
+[49] L’une de ces discordances concernait les avis que M. Langard aurait donnés quant à son intention de commencer et de cesser ses opérations sur marchandises dans le compte de Bearsden. En contre‑interrogatoire, à la question de savoir s’il avait porté les avis à l’attention de quelqu’un, il a affirmé qu’il ne s’en souvenait pas et qu’il n’aurait eu aucune raison de les envoyer à qui que ce soit. Au cours de son interrogatoire préalable, il lui a également été demandé s’il avait envoyé les avis à quelqu’un ou s’il les avait portés à l’attention de qui que ce soit. Il a répondu que non, qu’il n’avait aucune raison de le faire et a ajouté que [traduction] « la seule et unique personne que ça concerne et la seule entreprise - - Je veux dire que c’était mon entreprise et que ça ne concernait que moi. Personne d’autre n’était concerné. » Cependant, au cours de son réinterrogatoire, il a déclaré qu’il avait verbalement informé au moins deux autres administrateurs qu’il se prévalait de cette possibilité et qu’il était certain de l’avoir fait. Il a soutenu qu’il n’avait pas compris la question qu’il s’était fait poser en contre‑interrogatoire. Toutefois, je n’ai rien remarqué qui aurait pu indiquer que M. Langard avait mal compris la question, et celle‑ci était claire.
+[50] J’ai également de la difficulté à croire le témoignage de M. Langard sur la façon dont il a inscrit dans les livres de Bearsden les pertes occasionnées par les opérations sur marchandises pendant la période où il soutient avoir effectué des opérations sur marchandises pour son propre compte.
+[51] Du mois de janvier à la fin du mois de juillet 2006, les résultats des activités d’opérations sur marchandises de Bearsden étaient consignés vers la fin de chaque mois dans le compte 4005. Après la fin du mois de juillet, la première écriture dans ce compte est datée du 9 août; elle indique la réalisation d’un gain pour la période s’échelonnant du 1er au 9 août. L’écriture suivante, datée du 30 septembre 2006, révèle qu’une perte de 371 614 $ a été enregistrée entre le 9 août et le 30 septembre. Ce dernier montant a été porté au débit du compte 1200 et au crédit du compte 4005 le 30 septembre 2006 à titre de perte subie par M. Langard au titre d’opérations sur marchandises. Cependant, des écritures d’ajustement subséquentes dans les comptes 4005 et 1200 ont fait passer la perte de M. Langard à 471 029 $. Le calcul de ce montant a été expliqué à la main sur un extrait du compte 1200.
+[52] M. Langard a témoigné que le montant de 100 415 $ ajouté à la perte associée aux opérations sur marchandises qu’il avait initialement déclarée correspondait à la perte qu’il avait subie entre le 6 mai et le 9 août 2006. Il a dit qu’il avait calculé la perte supplémentaire de 100 414 $ en fonction des relevés de compte quotidiens qu’il recevait par courriel. Il a affirmé que chaque relevé précisait la perte ou le gain cumulatif enregistré au compte. Il a fait la différence entre les chiffres du 6 mai et ceux du 9 août 2006 et a conclu que le solde du compte avait baissé de 100 415 $ pendant cette période. M. Langard a expliqué, en particulier, qu’une perte considérable avait été enregistrée dans le compte pendant la période s’échelonnant du 6 au 31 mai.
+[53] Toutefois, aucune écriture indiquant une perte n’a été faite ni dans le compte 4005 ni dans le compte 1200 pendant la période s’échelonnant du 6 mai au 9 août 2006. En fait, selon le compte 4005, des opérations sur marchandises ont permis de réaliser des gains chaque mois en mai, en juin, en juillet et du 1er au 9 août. Ces gains sont présentés ci‑dessous.
+Mai
+67 429 $
+Juin
+23 346 $
+Juillet
+49 601 $
+Du 1er au 9 août
+7 843 $
+[54] J’ai trouvé que l’explication de M. Langard sur le calcul de la perte supplémentaire de 100 471 $ était alambiquée et sans fondement. Les écritures auxquelles fait référence M. Langard dans les relevés de compte quotidiens étaient obscures et ne corroboraient pas clairement sa position. Je conclus aussi qu’il est difficile de croire que malgré les gains réalisés grâce aux opérations sur marchandises en mai, en juin et en juillet 2006, ainsi que du 1er au 9 août 2006 (comme l’indiquent les écritures faites dans le compte 4005), la perte subie entre le 6 et le 31 mai a été suffisamment importante pour éliminer tous les gains enregistrés au cours de ces périodes et occasionner une perte supplémentaire de 100 414 $ pour l’ensemble de la période. Aucun élément corroborant les pertes qui auraient été enregistrées entre le 6 et le 31 mai n’a été présenté.
+[55] En outre, aucune explication n’a été donnée pour justifier le fait qu’aucune écriture faite dans le compte 4005 ou 1200 ne fait référence au 6 mai 2006, soit la date à laquelle M. Langard aurait commencé à effectuer dans le compte des opérations sur marchandises pour son propre compte. À mon avis, ce détail est manifestement incompatible avec la position de M. Langard selon laquelle il a commencé ses activités personnelles d’opérations sur marchandises le 6 mai 2006.
+[56] Enfin, je voudrais également ajouter que j’estime qu’il est invraisemblable qu’après avoir subi une perte de 472 029 $ au titre d’opérations sur marchandises en cinq mois en 2006, et après avoir cessé d’effectuer des opérations sur marchandises pour son propre compte, M. Langard recommence à exercer cette activité pour son propre compte environ six mois plus tard, puis subisse des pertes au cours de cinq des six mois suivants. Il a déclaré qu’il avait commencé à effectuer des opérations sur marchandises en mai 2006, car la valeur du compte avait connu une augmentation considérable et [traduction] « nous avions le vent dans les voiles », mais il n’a pas précisé ce qui l’avait poussé à recommencer en avril 2007.
+[57] Il y avait également une discordance entre le témoignage de M. Langard et les éléments de preuve documentaire qu’il a présentés à la Cour en ce qui a trait aux actionnaires de Bearsden. M. Langard a déclaré qu’environ 40 % des actions ordinaires de la société appartenaient à sa famille et à lui‑même, que 40 % appartenaient à la famille Thorpe et que les 20 % restants appartenaient à des employés de l’entreprise.
+[58] Ces renseignements semblent différer de la réponse qu’il a donnée par suite d’un engagement pris au cours de son interrogatoire préalable. M. Langard avait alors affirmé que les actions avec droit de vote de Bearsden étaient réparties de la façon suivante pour les périodes pertinentes en 2006 et en 2007 :
+2006
+Sally Langard 16,666 %
+Steve Langard 16,666 %
+John Langard 16,667 %
+John Thorpe 16,667 %
+Craig Ison 16,667 %
+Dave Todoruk 16,667 %
+2007
+John Langard 12,5 %
+John Thorpe 12,5 %
+Nancy Thorpe 12,5 %
+Craig Ison 12,5 %
+Dave Todoruk 12,5 %
+Tracey Thoreson 12,5 %
+Alison Gillan 12,5 %
+Oceans Petroleum 12,5 %
+[59] Il y avait également une discordance entre le témoignage de M. Langard et les réponses qu’il a données au cours de son interrogatoire préalable au sujet d’un document daté du 19 avril 2006, qu’il a lui‑même rédigé et qui s’intitule [traduction] « Déclaration de fiducie ». Voici un extrait de ce document :
+[traduction]
+DÉCLARATION DE FIDUCIE
+SACHEZ PAR LES PRÉSENTES QUE :
+Bearsden Enterprises Ltd., « BEL », gère le compte bancaire canadien portant le numéro 103‑419‑8, à la Banque Royale, Bow Valley Square, à Calgary, « le compte ».
+La soussignée, BEL, déclare par les présentes qu’elle détiendra en fiducie des fonds pour Al Langard, « le titulaire de compte » dans le compte, sous le code 1200, « le compte ». BEL n’a aucun intérêt que ce soit dans le compte, outre celui de nu‑fiduciaire. Tous les droits, y compris le droit de possession et d’utilisation et les droits financiers, n’appartiennent d’aucune façon à BEL, mais bien au titulaire de compte, et par les présentes, BEL renonce à tous ces droits en faveur du titulaire de compte.
+Tout intérêt reçu par BEL des suites de la présente déclaration de fiducie appartiendra à BEL. Des découverts peuvent être permis avec l’autorisation du président, conformément à une résolution du conseil d’administration prise aujourd’hui.
+[60] Au cours de son interrogatoire principal, M. Langard a déclaré qu’il y avait une erreur dans le libellé du document et que Bearsden n’était pas censée détenir les fonds en fiducie dans le compte de la Banque Royale pour M. Langard. M. Langard a témoigné que la déclaration de fiducie se rapportait au compte 1200, et non au compte de la Banque Royale. Toutefois, au cours de son interrogatoire préalable, M. Langard a reconnu que le compte en fiducie dont il est question dans la déclaration de fiducie était le compte de la Banque Royale.
+[61] Les réponses données au cours de l’interrogatoire préalable contredisent les déclarations faites par M. Langard à l’audience, bien que les réponses données au cours de l’interrogatoire préalable n’aient fait l’objet d’aucune correction avant l’audience.
+[62] M. Langard a également soutenu que cette convention de fiducie comportait la même erreur que d’autres conventions de fiducie semblables qu’il avait préparées pour d’autres personnes en même temps que celle‑ci. Aucune de ces autres conventions de fiducie n’a été produite en preuve.
+[63] Outre le fait que les réponses qu’a données M. Langard au sujet de la convention de fiducie au cours de son interrogatoire préalable et à l’audience se contredisent, je conclus que sa réponse selon laquelle le compte qui devait être détenu en fiducie aux termes de la convention de fiducie n’était pas le compte de la Banque Royale est peu vraisemblable. Si, comme il le soutient, les fonds du compte de la Banque Royale n’étaient pas censés être détenus en fiducie pour lui, et si M. Langard, lorsqu’il a rédigé la convention de fiducie, voulait simplement préciser que le compte 1200 du grand livre général était le compte dans lequel seraient consignées les opérations financières entre Bearsden et lui‑même, je me demande pourquoi la convention de fiducie fait référence au compte de la Banque Royale. En outre, la stipulation de la convention de fiducie portant que tout intérêt reçu appartiendrait à Bearsden serait inutile si les fonds se trouvant dans le compte bancaire appartenaient à Bearsden.
+[64] J’ai déjà tiré une conclusion défavorable du fait que l’appelant n’a pas appelé M. Thorpe à témoigner. Je tirerai également une conclusion défavorable du fait que l’appelant n’a pas appelé son épouse, Sally Langard, à témoigner, bien que celle‑ci ait signé la résolution de l’administrateur prévoyant l’entente permettant à M. Langard d’effectuer des opérations sur marchandises pour son propre compte. Comme elle était alors la seule administratrice de Bearsden, elle devrait, selon moi, se souvenir dans une certaine mesure des circonstances entourant la signature de la résolution, même si M. Langard l’a rédigée, selon ses dires. De plus, s’il a verbalement informé deux autres administrateurs de son intention d’effectuer des opérations sur marchandises pour son propre compte, comme il soutient l’avoir fait, il aurait dû, à mon avis, les appeler à témoigner pour confirmer ces faits.
+[65] Compte tenu de mon constat selon lequel le témoignage de M. Langard n’était pas crédible et des conclusions défavorables que j’ai tirées, je conclus qu’il ne s’est pas acquitté du fardeau de prouver que la résolution de l’administrateur datée du 10 janvier 2006 prévoyant la convention relative aux opérations sur marchandises était authentique. Par conséquent, il n’a pas prouvé que c’est lui‑même, et non la société, qui a subi les pertes enregistrées dans le compte de négociation de Bearsden pendant les périodes applicables.
+[66] Comme j’en suis venu à cette conclusion, il est inutile que je me penche sur le témoignage de Mme Vallière. Il est également inutile que j’examine la thèse subsidiaire de l’intimée, à savoir que les avis écrits qu’a transmis M. Langard à Bearsden sur le début et la fin de ses activités d’opérations sur marchandises pour son propre compte étaient sans effet sur le plan juridique.
+[67] Par l’ensemble de ces motifs, l’appel est rejeté et les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 25e jour de juin 2015.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 15e jour de décembre 2015.
+François Brunet, réviseur
+RÉFÉRENCE :
+2015 CCI 161
+No DU DOSSIER DE LA COUR :
+2012‑689(IT)G
+INTITULÉ :
+ALBERT J. LANGARD ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Victoria (Colombie‑Britannique)
+DATES DE L’AUDIENCE :
+Les 18, 19 et 20 août 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 25 juin 2015
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Jean‑Philippe Couture
+Avocat de l’intimée :
+Me Raj Grewal
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Jean‑Philippe Couture
+Cabinet :
+Borden Ladner Gervais LLP
+Calgary (Alberta)
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

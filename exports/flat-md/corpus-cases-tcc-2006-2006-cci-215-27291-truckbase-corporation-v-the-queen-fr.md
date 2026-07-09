@@ -1,0 +1,222 @@
+---
+title: "Truckbase Corporation v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27291/index.do"
+last_modified: "2006-03-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 215"
+citation2: ""
+neutral_citation: "2006 CCI 215"
+decision_date: "2006-03-31"
+language: "fr"
+item_id: "27291"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 898
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:44:27.186000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e5346f6ea606d0188e128cf54c429f02904c1de75807792c33b8d85571345b96"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Truckbase Corporation v. The Queen
+
+- Citation: 2006 CCI 215
+- Decision date: 2006-03-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 898, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Truckbase Corporation v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-31
+Référence neutre
+2006 CCI 215
+Numéro de dossier
+2005-1297(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1297(IT)I
+ENTRE :
+TRUCKBASE CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus avec les appels de Tom Grabowski (2005-1299(IT)I)
+les 11 et 12 janvier 2006, à Edmonton (Alberta).
+Devant : L'honorable juge C.H. McArthur
+Comparutions :
+Avocat de l'appelante :
+Me Donald Cherniawsky
+Avocat de l'intimée :
+Me Mark Heseltine
+____________________________________________________________________
+JUGEMENT
+Les appels à l'encontre des cotisations fiscales établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition se terminant en 2001 et en 2002 sont admis conformément aux motifs du jugement ci-joints, et les dépens sont adjugés à l'appelante.
+Signé à Ottawa, Canada, ce 31e jour de mars 2006.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 15e jour de mars 2007.
+Nathalie Boudreau, traductrice
+Dossier : 2005-1299(IT)I
+ENTRE :
+TOM GRABOWSKI
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus avec les appels de Truckbase Corporation (2005-1297(IT)I)
+les 11 et 12 janvier 2006, à Edmonton (Alberta).
+Devant : L'honorable juge C.H. McArthur
+Comparutions :
+Avocat de l'appelant :
+Me Donald Cherniawsky
+Avocat de l'intimée :
+Me Mark Heseltine
+____________________________________________________________________
+JUGEMENT
+Les appels à l'encontre des cotisations fiscales établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 sont admis conformément aux motifs du jugement ci-joints, et les dépens sont adjugés à l'appelant.
+Signé à Ottawa, Canada, ce 31e jour de mars 2006.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 15e jour de mars 2007.
+Nathalie Boudreau, traductrice
+Référence : 2006CCI215
+Date : 20060331
+Dossiers : 2005-1297(IT)I
+2005-1299(IT)I
+ENTRE :
+TRUCKBASE CORPORATION
+et TOM GRABOWSKI,
+appelants,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Les appels ont été entendus ensemble sur preuve commune et visent des nouvelles cotisations établies par le ministre du Revenu national (le « ministre » ) en ce qui concerne la déductibilité de frais juridiques et de comptabilité engagés par les appelants, Tom Grabowski et Truckbase Corporation (ci-après appelée « Truckbase » ). En ce qui concerne Tom Grabowski, la question est de savoir si les montants de 22 213 $ et de 30 260 $ doivent être inclus dans son revenu à titre d'avantages conférés à un actionnaire pour les années d'imposition 2000 et 2001 respectivement. En ce qui concerne Truckbase, la question est de savoir si la société peut déduire un montant de 16 942 $ à titre d'honoraires pour l'année d'imposition 2001 et si elle peut demander la déduction des dépenses en capital admissibles pour les années d'imposition 2001 et 2002.
+[2] M. Grabowski était le témoin principal des appelants. Il est un entrepreneur instruit et intelligent. Au début des années 1980, son ami Robert Morton et lui ont lancé une entreprise dans le cadre de laquelle ils fournissaient des services technologiques à l'industrie forestière, surtout dans le Nord-Ouest canadien. Au fil des ans, leurs activités commerciales ont pris de l'expansion. Il y a aujourd'hui sept sociétés et plus de 40 employés. M. Grabowski est méticuleux et veut absolument que ses entreprises continuent à exister et à prendre de l'ampleur après que M. Morton et lui auront pris leur retraite ou après leur mort.
+[3] Pendant les années 1990, il envisageait d'étendre ses activités commerciales au marché américain. Il souhaitait vivement protéger les actifs de ses sociétés et ses actifs personnels au Canada des créanciers et des poursuites en général. De plus, à ce moment-là, il estimait que la structure de ses sociétés avait été sérieusement négligée. C'était dans cet état d'esprit qu'il avait contacté Michelle Simpson, une avocate chevronnée d'Edmonton qui pratiquait le droit commercial et le droit des sociétés. M. Grabowski avait engagé Me Simpson pour qu'elle examine ses livres et les livres de ses sociétés, qui avaient été négligés depuis bon nombre d'années. Me Simpson et M. Grabowski, ses comptables et ses employés se sont plongés dans la mise à jour et dans la restructuration des documents opérationnels des sociétés pour rendre celles-ci plus rentables et pour garantir leur continuité à long terme.
+[4] Truckbase, qui a été constituée en société en 1990, est l'une des sept sociétés qui forment le Silvacom Group of Corporations (ci-après appelé « le groupe Silvacom » ). Silvacom Ltd. a été constituée en société en 1983 et, depuis cette date, est contrôlée par Tom Grabowski et Robert Morton, qui en sont les administrateurs permanents. De façon générale, toutes les sociétés faisant partie du groupe Silvacom exercent des activités commerciales se rapportant aux industries forestière et du transport. Truckbase travaille à la conception, à la fabrication et à la vente d'appareils de production d'information satellitaire pour les semi-remorques et pour d'autre matériel lourd. Toutes les sociétés du groupe Silvacom utilisent le 30 novembre comme date de fin d'exercice.
+[5] Pour les années d'imposition 2000 et 2001, le groupe Silvacom a engagé des frais juridiques et de comptabilité généraux relativement à la réorganisation de ses sociétés et à des affaires de nature plutôt générale. Comme il est indiqué ci-dessus, le groupe Silvacom avait retenu les services de divers cabinets d'avocats et d'experts-comptables ; il avait plus particulièrement retenu les services juridiques de Michelle Simpson, qui est l'avocate générale du groupe et qui était responsable de la restructuration organisationnelle. J'accepte que les appelants ont engagé des frais pour les services suivants, qui sont indiqués dans leurs observations :
+[traduction]
+a) frais juridiques et de comptabilité généraux engagés de façon continue;
+b) reconstitution et mise à jour des registres des procès-verbaux pour les sept sociétés qui forment le groupe Silvacom;
+c) examen exhaustif des conventions unanimes des actionnaires (les « CUA » ) existantes;
+d) réunions pour passer en revue les différents climats juridiques et commerciaux aux États-Unis et les garanties nécessaires pour réduire le risque que le voile de la personnalité juridique soit soulevé;
+e) réunions et discussions pour déterminer les éléments qui devraient figurer aux nouvelles CUA;
+f) réunions et discussions pour déterminer les questions d'ordre commercial et opérationnel qui exigent le consentement unanime des actionnaires;
+g) nouvelle rédaction de toutes les CUA pour garantir leur uniformité;
+h) examen des dispositions d'impôt sur le revenu, y compris les règles contenues à l'article 122 relatives aux droits acquis pour ce qui est de l'assurance-vie détenue par les sociétés;
+i) examen des options relatives à l'acquisition d'une assurance-invalidité pour les employés clés;
+j) ajout, aux diverses nouvelles CUA, de la proposition voulant que M. Grabowski détienne une assurance-invalidité à l'endroit de M. Morton et paie pour cette assurance, et vice versa;
+k) modification du capital autorisé de Truckbase;
+l) conversion d'actions ordinaires de Truckbase détenues par Robert Morton et Tom Grabowski en actions privilégiées, suivie de la création de fiducies familiales et de l'émission de nouvelles actions ordinaires de Truckbase à la fiducie familiale Grabowski et à la fiducie familiale Morton.
+[6] Les comptes des sociétés montrent que, pour l'exercice allant du 1er décembre 2000 au 30 novembre 2001, des frais de comptabilité de 15 316,75 $ et des frais juridiques de 59 168,30 $ ont été engagés, pour un grand total de 74 485,05 $[1]. Des frais de comptabilité de 2 729,38 $ et des frais juridiques de 25 507,24 $ ont été attribués à Truckbase, pour un total de 28 236,62 $. Truckbase a déduit dans le calcul de son revenu un montant de 16 942,62 $ à titre de dépense courante et a considéré le solde de 11 294 $ comme étant des dépenses en capital admissibles. De plus, pour les années d'imposition 2001 et 2002, Truckbase a déduit, respectivement, des montants de 593 $ et de 553 $ relativement au solde de 11 294 $.
+[7] M. Grabowski a fait l'objet d'une nouvelle cotisation dans laquelle des avantages de 22 213 $ et de 30 260 $ ont été ajoutés à ses revenus pour ses années d'imposition 2000 et 2001 respectivement. Ces montants se rapportent à des frais juridiques et de comptabilité payés par le groupe Silvacom, et ils ont été considérés comme étant des avantages conférés à un actionnaire au motif que les frais avaient été engagés à des fins de planification successorale personnelle. La déduction demandée par Truckbase du montant de 16 942,62 $ à titre d'honoraires professionnels a été refusée.
+[8] Les dispositions pertinentes de la Loi de l'impôt sur le revenu (ci-après appelée la « Loi » ) sont ainsi libellées :
+9(1) Sous réserve des autres dispositions de la présente partie, le revenu qu'un contribuable tire d'une entreprise ou d'un bien pour une année d'imposition est le bénéfice qu'il en tire pour cette année.
+15(1) [...] l'avantage qu'une société confère, à un moment donné d'une année d'imposition, à un actionnaire ou à une personne en passe de le devenir [...] autrement que :
+[...]
+18(1) Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien;
+b) une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[...]
+h) le montant des frais personnels ou de subsistance du contribuable - à l'exception des frais de déplacement engagés par celui-ci dans le cadre de l'exploitation de son entreprise pendant qu'il était absent de chez lui;
+Position des appelants
+[9] Les appelants allèguent que les frais engagés pour la réorganisation des sociétés étaient des dépenses nécessaires pour gagner un revenu et ne représentaient pas un avantage conféré à un actionnaire. Les frais juridiques de 1 500 $ engagés pour l'établissement des deux fiducies familiales devraient être considérés comme étant un avantage conféré à un actionnaire pour la fiducie et non pour M. Grabowski.
+[10] Les appelants prétendent aussi que les frais engagés pour l'établissement des conventions unanimes des actionnaires sont actuellement des frais déductibles dans le calcul du revenu en vertu du paragraphe 9(1) de la Loi de l'impôt sur le revenu (la « Loi » ) et, par conséquent, ne constituent pas des avantages conférés à un actionnaire aux termes du paragraphe 15(1). Les appelants ont invoqué l'arrêt rendu par la Cour suprême du Canada dans l'affaire Duha Printers (Western) Ltd. c. Canada[2], où le juge Iacobucci a formulé des commentaires sur le rôle vital que jouent les conventions des actionnaires dans la gestion des sociétés. Il a précisé que ces conventions sont utilisées par les actionnaires pour restreindre les pouvoirs des administrateurs des sociétés, en ce sens qu'elles prévoient les règles fondamentales qui doivent régir les sociétés. Les intérêts des actionnaires constituent le facteur dominant; les actionnaires se voient conférer certains droits et pouvoirs qui ne peuvent pas être assimilés à des avantages qui leur sont octroyés. Les appelants concluent que les conventions des actionnaires qui étaient en vigueur avant la réorganisation n'étaient pas uniformes et contenaient de nombreuses erreurs, et que les frais relatifs à l'établissement de nouvelles conventions devraient être déductibles dans le calcul du revenu à titre de dépenses courantes. Ils ont comparé la situation en l'espèce à une situation où une dépense courante est faite pour réparer un toit qui coule par opposition à une situation où une dépense en capital est faite pour l'installation initiale d'un toit.
+[11] Les appelants ont aussi invoqué la décision BJ Services Co. c. Canada[3] rendue par la juge Campbell de la Cour, qui porte sur une offre publique d'achat hostile faite par BJ Services en vue de l'acquisition de toutes les actions de Nowsco Well Services Ltd. (ci-après appelée « Nowsco » ). Le conseil d'administration de Nowsco avait décidé que d'importantes dépenses devaient être engagées pour le compte de la société. BJ Services avait réussi à acquérir les actions de Nowsco et avait par la suite cherché à déduire les frais professionnels engagés de ses revenus courants. La juge Campbell a conclu que les frais professionnels étaient déductibles dans le calcul du revenu et que ces frais avaient été engagés pour maintenir les relations avec les actionnaires en vue de maximiser la valeur pour l'actionnaire. Les dépenses n'ont pas été considérées comme étant des dépenses en capital parce qu'elles avaient été engagées pour gagner un revenu et non pour tirer des bénéfices durables. La juge Campbell a parlé du fait qu'il est nécessaire pour les sociétés faisant publiquement appel à l'épargne d'engager des dépenses dans les situations où il y a une offre publique d'achat. Les appelants ont avancé que les commentaires de la juge s'appliquent directement aux conventions des actionnaires en cause parce que les frais ont été engagés pour gagner un revenu et qu'ils ne sont pas de nature personnelle.
+Position de l'intimée
+[12] L'avocat de l'intimée a argué que les frais professionnels se rapportaient à la réorganisation du groupe Silvacom et représentaient des avantages conférés à un actionnaire pour M. Grabowski et M. Morton. Il a aussi soutenu que les frais professionnels en question ne devaient pas être déductibles dans le calcul du revenu des sociétés du groupe Silvacom et qu'ils ne devaient pas être ajoutés aux dépenses en capital admissibles de ces sociétés.
+[13] L'intimée croit que les avantages octroyés à M. Grabowski sous la forme de frais engagés pour des conseils juridiques et de comptabilité et payés par Truckbase devraient être considérés comme des avantages personnels qu'une société confère à un actionnaire aux termes du paragraphe 15(1) de la Loi. L'avocat prétend que les conventions des actionnaires servaient à préserver la structure organisationnelle des sociétés. Le fait de prendre des mesures pour préserver une structure organisationnelle n'est pas le genre d'effort qui peut aider une société à gagner des revenus. La continuité d'une société après la mort d'un actionnaire ou d'un administrateur constitue une considération trop vague pour satisfaire au critère établi par l'alinéa 18(1)a) de la Loi, soit le critère voulant que les dépenses doivent avoir été engagées en vue de tirer un revenu d'une entreprise. De plus, comme les dépenses n'avaient pas été engagées en vue de gagner un revenu, aucune déduction pour dépense en capital ne devrait être permise.
+[14] L'intimée a aussi fait valoir que si je conclus qu'un avantage avait été conféré à M. Grabowski, Truckbase ne devrait pas avoir droit à une déduction connexe pour le paiement de l'avantage. L'avocat a invoqué la décision John Chopp v. The Queen[4] à l'appui de sa position.
+[15] De plus, l'avocat de l'intimée ne partage pas l'opinion des appelants quant à l'applicabilité de l'arrêt BJ Services. Il a dit que la présente affaire se distingue de l'affaire BJ Services en ce que BJ Services avait fait une offre d'achat publique hostile en vue d'acquérir Nowsco et que les administrateurs de celle-ci avaient l'obligation de consacrer les ressources de la société pour protéger les intérêts des actionnaires au moment où l'offre d'achat publique hostile avait été faite. L'avocat a aussi cherché à limiter l'application d'autres décisions où la déduction des frais professionnels avait été permise en expliquant qu'il s'agissait de situations où les sociétés avaient des problèmes financiers ou une obligation envers leurs actionnaires. L'intimée a invoqué l'arrêt The Queen v. Jager Homes Ltd. and Jager Holdings (Calgary) Ltd.[5] et la décision Rona Inc. v. The Queen[6] où il a été statué que les frais professionnels étaient des dépenses en capital. Dans les deux cas, il a été conclu que les frais professionnels avaient été engagés pour préserver la structure organisationnelle des sociétés.
+Analyse
+[16] Je me pencherai tout d'abord sur la question du paragraphe 15(1) et de l'avantage conféré à M. Grabowski en tant qu'actionnaire. Je souscris à l'argument des appelants voulant que les frais professionnels engagés pour l'établissement des conventions unanimes des actionnaires ne représentaient pas un avantage conféré à M. Grabowski. Je ne crois pas que BJ Services et les autres affaires invoquées dans cette décision ne doivent s'appliquer qu'aux situations où il est question d'une offre d'achat publique hostile ou de circonstances économiques difficiles. Je conviens que Truckbase devrait pouvoir déduire les montants en litige en vertu du paragraphe 9(1) de la Loi pour les années d'imposition en cause.
+[17] Les conventions des actionnaires jouent un rôle très important dans la protection de la société et de sa relation avec ses actionnaires. Comme il est mentionné ci-dessus, l'avocat des appelants a invoqué les paragraphes 61 à 71 de l'arrêt Duha, où le juge Iacobucci traite du rôle vital que jouent les conventions des actionnaires et de l'importance de ces conventions dans l'exploitation moderne des entreprises.
+[18] Des éléments de preuve ont été présentés à l'audience dans le but de prouver l'importance des conventions des actionnaires pour le groupe Silvacom. En effet, la révision de ces conventions a donné lieu au transfert des pouvoirs opérationnels des actionnaires aux administrateurs. Je suis d'accord avec Me Simpson sur le fait que les conventions des actionnaires originales étaient mal rédigées, incomplètes et incohérentes. Comme exemple de problèmes qu'on y trouvait, il y était indiqué qu'en cas de décès de M. Grabowski ou de M. Morton, Truckbase et Silvacom devaient automatiquement être liquidées, ce qui, de toute évidence, est inacceptable d'un point de vue commercial. Victor Wearden, directeur financier et contrôleur du groupe Silvacom, a témoigné que l'établissement des nouvelles conventions des actionnaires avait bien entraîné une amélioration de la productivité de la société. Je suis d'accord avec lui sur ce point. Les employés sont maintenant motivés parce qu'ils font partie intégrante de l'organisation. La situation a donné lieu à un régime de primes intéressant auquel tous les employés participent. De toute évidence, les nouvelles structures organisationnelles ont contribué à l'amélioration de la rentabilité de la société.
+[19] Je crois que les frais engagés relativement aux conventions des actionnaires se rapportaient à une réorganisation organisationnelle véritable ayant pour but de faciliter une gestion efficace et saine des sociétés et de protéger le groupe Silvacom de toute perturbation découlant d'une incapacité de travail chez les employés clés ou les actionnaires. Les frais n'étaient pas des frais personnels ou de subsistance de M. Grabowski aux termes de l'alinéa 18(1)h) de la Loi. Étant donné qu'aucun avantage conféré à un actionnaire n'avait été attribué à M. Grabowski, il n'est pas nécessaire d'examiner la question de savoir si Truckbase perd automatiquement son droit à une déduction connexe.
+[20] Je conclus donc que les frais professionnels ont été engagés pour gagner un « revenu » , conformément à l'alinéa 18(1)a). Ces dépenses faisaient partie intégrante de l'entreprise de Truckbase et avaient été engagées en vue de gagner un revenu au sens de l'alinéa en question.
+[21] Subsidiairement, l'intimée a soutenu que les dépenses étaient des dépenses en capital et qu'elles n'étaient donc pas déductibles en vertu de l'alinéa 18(1)b). Comme il a été mentionné ci-dessus, l'intimée a invoqué les décisions Rona et Jager. Dans les deux affaires, il a été conclu que si des frais juridiques sont engagés pour préserver l'entité, la structure ou l'organisation d'une entreprise, il faut les considérer comme étant des dépenses en capital plutôt que des dépenses faites pour réaliser un bénéfice.
+[22] Toutefois, dans l'arrêt Johns-Manville Can. Inc. c. Sa Majesté la Reine[7], la Cour suprême du Canada a établi que la caractérisation des dépenses comme des dépenses courantes ou des dépenses en capital est une question mixte de fait et de droit. Il n'y a pas de critère unique qui permet de faire la distinction entre les dépenses en capital et les dépenses courantes. La distinction de base a été expliquée par le lord chancelier Cave dans l'arrêt British Insulated and Helsby Cables Ltd. v. I.R.C.[8] de la manière suivante :
+[traduction]
+[...] lorsqu'une dépense est effectuée non seulement une fois pour toutes, mais en vue de créer un actif ou avantage pour le bénéfice durable d'une entreprise, je pense qu'il existe des motifs tout à fait valables (en l'absence de circonstances spéciales conduisant à une conclusion contraire) de traiter une telle dépense comme étant à juste titre attribuable non pas au revenu, mais au capital.
+Il faut mettre l'accent sur le but de la dépense et non sur le résultat. Je considérerais la nouvelle rédaction des conventions des actionnaires au même titre que l'entretien d'un bien et, par conséquent, j'assimilerais les frais connexes à une dépense courante déductible[9].
+[23] Les appelants ont rédigé les conventions des actionnaires initiales, qui avaient pour but de préciser, entre autres, quelles décisions opérationnelles nécessitaient le consentement des actionnaires, d'imposer des limites sur la vente des actions, d'établir les procédures à suivre en cas de décès ou d'incapacité des actionnaires clés et de fournir des mécanismes de résolution des différends, ce qui, initialement, constituait une dépense en capital. Ces conventions fonctionnaient mal et, pour les « réparer » , il a fallu engager divers frais professionnels. Les appelants ont effectué des dépenses pour faire rectifier et mettre à jour les conventions des actionnaires de façon à ce qu'elles répondent aux buts initiaux énoncés dans les conventions originales. Les modifications apportées n'ont pas pour effet d'élargir la portée des conventions initiales. Leur teneur est conforme à l'intention originale. Les frais juridiques engagés pour remanier les conventions peuvent être considérés comme étant des dépenses courantes déductibles dans le calcul du revenu en vertu du paragraphe 9(1) de la Loi. Les frais en question ne sont pas assujettis aux restrictions quant à la déductibilité des dépenses en capital prévues par l'alinéa 18(1)b).
+[24] Je conclus que les frais professionnels engagés n'étaient pas des avantages conférés à un actionnaire pour M. Grabowski. Je conclus également que Truckbase a eu raison de déduire le montant en cause en tant que dépense courante. Le solde des frais professionnels inscrit à l'actif du compte cumulatif des dépenses admissibles de Truckbase totalisant 11 294 $ devrait être admis, soustraction faite des déductions de 593 $ et de 551 $ pour l'amortissement des dépenses en capital admissibles demandées, conformément à l'alinéa 20(1)b) de la Loi pour ses années d'imposition 2001 et 2002. L'affaire est déférée au ministre pour qu'il établisse une nouvelle cotisation. Les appelants ont droit à un mémoire de dépens.
+Signé à Ottawa, Canada, ce 31e jour de mars 2006.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 15e jour de mars 2007.
+Nathalie Boudreau, traductrice
+RÉFÉRENCE :
+2006CCI215
+NOS DE DOSSIER :
+2005-1297(IT)I et 2005-1299(IT)I
+INTITULÉ :
+Truckbase Corporation et Tom Grabowski et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Edmonton (Alberta)
+DATE DE L'AUDIENCE :
+Les 11 et 12 janvier 2006
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge C.H. McArthur
+DATE DU JUGEMENT :
+Le 31 mars 2006
+COMPARUTIONS :
+Avocat des appelants :
+Me Donald Cherniawsky
+Avocat de l'intimée :
+Me Mark Heseltine
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Donald Cherniawsky
+Cabinet :
+Felesky Flynn LLP
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] À l'audience, M. Grabowski a convenu que le montant de 4 125 $ initialement déduit pour un voyage à Hawaï avait été refusé à juste titre par le ministre pour l'année d'imposition 2000, ainsi que les 1 070 $ qui correspondent aux montants versés par M. Grabowski pour la révision des testaments. De plus, Truckbase a convenu que la demande de déduction des 3 000 $ engagés pour l'établissement des deux fiducies familiales a été refusée à juste titre.
+[2] [1998] 1 R.C.S. 795.
+[3] 2003 CCI 900.
+[4] 95 DTC 527.
+[5] 88 DTC 6119 (C.A.F.)
+[6] 2003 DTC 979 (C.C.I.).
+[7] [1985] 2 R.C.S. 46.
+[8] [1926] A.C. 205 (H.L.).
+[9] Canada Steamship Lines Ltd. c. M.R.N. [1966] A.C.I. 255, 66 DTC 5205 (Exch. Ct.).

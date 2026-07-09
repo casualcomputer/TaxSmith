@@ -1,0 +1,122 @@
+Title: Lauzon c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25640/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-747-25640-lauzon-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-10-16
+
+# Lauzon c. La Reine
+
+- Citation: 2003 CCI 747
+- Decision date: 2003-10-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4046, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lauzon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-16
+Référence neutre
+2003 CCI 747
+Numéro de dossier
+2002-1874(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-1874(IT)I
+ENTRE :
+RENÉ LAUZON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 9 juillet 2003 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Antonia Paraherakis
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1996 et 1997 sont rejetés, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 16e jour d'octobre 2003.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2003CCI747
+Date : 20031016
+Dossier : 2002-1874(IT)I
+ENTRE :
+RENÉ LAUZON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'appels selon la procédure informelle de nouvelles cotisations établies le 20 avril 2000 pour les années d'imposition 1996 et 1997.
+[2] Il y a deux questions en litige. La première concerne la proportion de l'usage à des fins personnelles d'une voiture mise à la disposition de l'appelant par son employeur au sens du paragraphe 6(2) de la Loi de l'impôt sur le revenu (la « Loi » ). La deuxième concerne la proportion de l'établissement domestique autonome de l'appelant où ce dernier accomplit principalement les fonctions de son emploi au sens du paragraphe 8(13) de la Loi.
+[3] Les faits sur lesquels le ministre du Revenu national (le « Ministre » ) s'est appuyé pour établir ses nouvelles cotisations sont décrits au paragraphe 5 de la Réponse à l'avis d'appel (la « Réponse » ) :
+a) Au cours des années en litige, l'appelant était représentant des ventes auprès de l'entreprise Wyeth Ayerst Canada inc. (ci-après appelée l'employeur);
+b) L'employeur fournissait un véhicule automobile à l'appelant qui l'utilisait tant pour ses déplacements dans le cadre de son travail que pour ses déplacements personnels;
+c) Lors de la production de sa déclaration de revenus, l'appelant a déclaré avoir effectué 39 507 km au cours de l'année 1996 dont seulement 3 688 km à des fins personnelles;
+d) L'appelant utilisait le véhicule de l'employeur pour ses déplacements durant les fins de semaines et les jours fériés ainsi que durant ses vacances annuelles;
+e) Le carnet de route complété par l'appelant ne comprenait pas le kilométrage quotidien effectué par l'appelant;
+f) Le vérificateur a évalué le kilométrage personnel réel de l'appelant à 14,84 p. 100 du total;
+g) Lors de la production de ses déclarations de revenus pour les années en litige, l'appelant a réclamé 17 p. 100 des dépenses afférentes à sa résidence à titre de dépenses d'emploi estimant qu'il utilisait un tel pourcentage de sa résidence à des fins d'affaires;
+h) Le vérificateur a estimé que l'appelant utilisait 13 p. 100 de sa résidence à des fins d'affaires;
+i) La vérification a porté sur l'année d'imposition 1996 et a été extrapolée à l'année d'imposition 1997.
+[4] L'appelant a témoigné pour la partie appelante. Monsieur Guy Roy, vérificateur pour Revenu Québec a témoigné pour la partie intimée.
+[5] Le vérificateur a utilisé pour les fins de son analyse les historiques de consommation d'essence à partir des comptes de l'employeur, les comptes de dépenses hebdomadaires remis par l'appelant à son employeur et le registre de déplacements établi par l'appelant lui-même et produit comme pièce I-1.
+[6] Le rapport du vérificateur a été produit comme pièce I-3. Cette pièce montre le nombre de litres d'essence achetés ainsi que les dates de ces achats. Le vérificateur n'a spécifiquement vérifié que les époques où l'appelant était en vacances, soit la semaine du 1er janvier 1996 et les semaines du 20 juillet au 4 août, ainsi que les fins de semaine du 5 février, du 31 mars et 29 décembre. Il s'est rendu compte que selon le nombre de litres d'essence achetés durant les périodes de congé, le kilométrage aurait dû être beaucoup plus long que celui indiqué dans les registres de l'appelant pour ces périodes.
+[7] En ce qui concerne la période de vacances du 20 juillet au 4 août 1996, l'appelant a produit pour la période hebdomadaire se terminant le 27 juillet 1996 un relevé de dépenses faites par l'employé comme pièce A-6. Ce relevé permet le remboursement des dépenses de l'employé par l'employeur. Toutefois, selon les registres de l'employeur, il s'agissait bien d'une période de vacances.
+[8] L'appelant n'avait pas d'autre voiture que celle mise à sa disposition par son employeur. Il habitait en banlieue à Boucherville. Il avait un fils qui habitait avec lui. En 1996, ce fils avait 18 ans.
+[9] En ce qui concerne l'espace de bureau, l'intimée a produit comme pièce I-2, une lettre provenant d'un représentant de l'appelant auprès de Revenu Québec. Cette lettre en date du 17 novembre 1999, mentionne que l'appelant désire déduire ses frais de bureau en établissant à 13 p. 100 le pourcentage pour fins d'affaires pour les années 1995 à 1997.
+[10] Cette lettre se lit comme suit :
+...
+La présente est pour vous confirmer que M. René Lauzon désire déduire ses frais de bureau à domicile en vertu de l'article 78 L.I. Les nouvelles déductions demandées sont de $1,542 (1995), $1,670 (1996) et $1,631 (1997) et cela en réduisant le pourcentage à des fins d'affaires de son domicile à 13%, tel que nous l'avons évalué.
+En vous remerciant à l'avance de votre collaboration, nous vous prions d'agréer, Monsieur Roy, l'expression de nos sentiments les meilleurs.
+[11] Au moment de l'audience, l'appelant fait valoir que cela ne prend pas en compte l'espace d'entreposage.
+Analyse
+[12] Je suis d'avis que l'analyse des données faite par le vérificateur est substantiellement correcte. Elle montre que pour certaines périodes où la voiture est plus susceptible d'être utilisée pour des fins personnelles, le kilométrage indiqué par l'appelant dans ses registres de déplacement n'était pas exact.
+[13] Au lieu d'un usage personnel de 9,33 p. 100, le vérificateur est arrivé à un usage de 14,84 p. 100. Il est difficile en premier lieu de croire à un usage personnel aussi faible que 3 688 kilomètres par année à des fins personnelles. En divisant par 52 semaines, cela fait un kilométrage hebdomadaire de 70 kilomètres. Cela est peu. L'appelant habite en banlieue et a un fils de 18 ans. Ce n'est pas tout de s'efforcer de trouver des failles dans l'analyse du vérificateur, il faudrait être en mesure de présenter un registre du kilométrage plausible en fonction des litres d'essence consommés.
+[14] La réclamation pour l'espace d'entreposage ne peut se faire au stade de l'audience sans plus de preuve. En effet, nous ne savons pas quelles sont les espaces que le représentant de l'appelant a pris en compte dans son estimé dont il est mention aux paragraphes 8 et 9 de ces motifs. De plus, il y avait eu entente entre les parties pour les fins des nouvelles cotisations ce qui doit être pris en considération.
+[15] Pour toutes ces raisons, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 16e jour d'octobre 2003.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2003CCI747
+No DU DOSSIER DE LA COUR :
+2002-1874(IT)I
+INTITULÉ DE LA CAUSE :
+René Lauzon et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 9 juillet 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 16 octobre 2003
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Pour l'intimée :
+Me Antonia Paraherakis
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

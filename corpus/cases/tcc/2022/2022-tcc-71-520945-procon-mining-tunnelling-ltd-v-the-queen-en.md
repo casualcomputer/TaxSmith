@@ -1,0 +1,202 @@
+---
+title: "Procon Mining & Tunnelling Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520945/index.do"
+last_modified: "2022-06-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 71"
+citation2: ""
+neutral_citation: "2022 TCC 71"
+decision_date: "2022-06-29"
+language: "en"
+item_id: "520945"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4534
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:33:02.997000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e58be3112d20aad696c9a1b99264e9032019f4a2785f3aa4eb59172071fb980b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Procon Mining & Tunnelling Ltd. v. The Queen
+
+- Citation: 2022 TCC 71
+- Decision date: 2022-06-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4534, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Procon Mining & Tunnelling Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-06-29
+Neutral citation
+2022 TCC 71
+File numbers
+2017-4641(IT)G, 2019-2446(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-4641(IT)G
+2019-2446(IT)G
+BETWEEN:
+PROCON MINING & TUNNELLING LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 2, 2022, at Vancouver, BC.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Patrick Lindsay
+Mikael Johansson
+Counsel for the Respondent:
+Whitney Dunn
+Lalli Deol
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2013 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 29th day of June 2022.
+“Patrick Boyle”
+Boyle J.
+Citation: 2022 TCC 71
+Date: 20220629
+Docket: 2017-4641(IT)G
+2019-2446(IT)G
+BETWEEN:
+PROCON MINING & TUNNELLING LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] The only issue in this case is to decide whether certain junior mining companies’ shares were acquired and disposed of by the Appellant (“Procon”), or acquired and held by it, on income or capital account. That determination in turn determines whether the losses subsequently realised on the sale of those shares are on capital or income account. These shares were acquired and held by the Appellant in connection with its business. The Appellant deducted the losses it realised on these dispositions on income account.
+[2] The Appellant was reassessed on the basis that these losses were capital losses, and further, that they were “superficial losses” under the Income Tax Act (the “Act”). The Appellant maintains that the losses were on income account, but acknowledges that, if its reported losses were capital losses, they were non-deductible superficial losses.
+[3] Prior to the hearing of this appeal, the parties filed a Partially [sic] Agreed Statement of Facts (the“ASF”). A copy of that ASF is appended hereto. The parties also agreed on a single joint book of documents.
+I. Facts
+[4] In the ASF the parties agreed:
+1) One of the results of the acquisition of the shares by the Appellant was that it was to be awarded certain mining contracts from the issuers for the Appellant’s engineering procurement, construction and management mining contract services, at least renewable and some for the life of the issuers’ mines. These were set out in non-binding memorandums of understanding with the issuers. The Appellant did acquire the shares as contemplated. However, the proposed joint initiatives did not progress very far, and no such contracts were awarded.
+2) The Appellant projected earning revenues from its contract mining services provided to the issuers for up to a decade.
+3) These types of contract mining services formed part of the Appellant’s business from when it started the business circa 1980 to when it discontinued its business.
+4) The Appellant’s primary business activity is that of a mining contractor. Mr. Yurkowski testified that Procon had no other significant source of income apart from these contract services.
+5) The Appellant never received any dividends on the shares.
+6) The Appellant acquired the issuers’ shares as part of its joint initiatives whereby the issuers would enter into mining contracts with the Appellant who would then generate business income from such contracts. However, for different reasons, these joint initiatives did not proceed as planned and the contemplated contracts were never put in place following the acquisitions of the shares.
+7) In addition to the non-binding MOUs with these two issuers, Procon entered into a similar non-binding MOU with one other company. The ASF’s silence suggests that initiative did not proceed either.
+8) The Appellant reported the shares as “long-term investments” in its financial statements.
+9) In the years in question, the Appellant had reported capital gains on its dispositions of shares of two publicly traded mining companies. In the case of one company, there were never any mining contracts between the issuer and the Appellant. In the other case, the Appellant accepted the shares in lieu of payment of an unpaid debt of the issuer to Procon. There was no evidence to suggest Procon ever made similar investments in companies other than mining companies. This evidence confirms that Procon had invested in at least one mining company that it was not doing business with.
+[5] The only witness was Mr. Yurkowski, an experienced mining engineer and the founder, president and CEO of Procon. The relevant part of this testimony focused on the purpose for which Procon acquired the shares in each case, Mr. Yurkowski testified that:
+1) There was no intention to earn income on the shares of these two issuers.
+2) The cost of the shares acquired was for Procon’s entry in the joint venture/initiative. The intention was to get long-term contract work with the issuers.
+3) Procon did not acquire the shares intending to sell them, and contemplated that its equity investment might increase over time, that they wanted to acquire control of an issuer in which they made an initial investment, and that they might then sell their investment to a larger mining company.
+4) The mine financing that the MOU contemplated was to be provided by Procon to one of the issuers was a relatively new part of Procon’s business initiatives following the acquisition of control of the Procon group by a Chinese state-owned mining company. The only reason Mr. Yurkowski could recall for the planned issuance of a convertible debenture as well was a security for the planned financing.
+[6] None of the documents in the Book of Documents were put to Mr. Yurkowski nor referred to by him in any detail if at all.
+[7] The Respondent did not cross-examine Mr. Yurkowski on his testimony in chief.
+[8] The Appellant also read in several small passages from the Examination for Discovery of the CRA auditor regarding what she had written in CRA’s Capital Gain vs. Income Report included in the Book of Documents.
+[9] There is no dispute that the auditor’s thoughts, assumptions, analyses and conclusion developed in her report, or explained by her in discovery, do not bind the Court in its consideration of Procon’s appeal from the assessments in issue. This cuts both ways.
+[10] The evidence clearly supports two factual findings:
+1) The shares were acquired by Procon in order to generate more revenue from its mining contract business. This is not disputed. They were not acquired for trading purposes.
+2) Although they were not acquired for resale or to be traded, the shares also constituted an investment of Procon in the equity of the issuers. Procon also knew that it was intentionally making an investment in the shares it was acquiring with a view to further strategically enhancing its future growth, and recoveries/ cash flow generated from its business. Procon described these capital gains at the time in its Business Plan for Future Growth. Procon was not unaware of the shares’ potential for significant increase in value if their extensive planned initiatives with the issuer were successful. The Business Plan described at the time as Resource Equity Investments, with Investment Value and providing long-term revenue and earnings. Appellant’s counsel acknowledged in argument that Procon foresaw the inevitable sale of the public company shares.
+[11] The evidence that overwhelmingly supports these two findings includes the following:
+1) Mr. Yurkowski’s testimony that the initial stock prices of the junior mining companies Procon was focused on as part of its new strategic business plan had to be such that it would work, that Procon and the mining company would jointly operate the mine, perhaps acquire other mining properties, and both Procon and the issuers would grow. Mr. Yurkowski described the share acquisitions as investments.
+2) The two MOUs consistently described Procon’s acquisition of shares as an “investment”.
+3) The board of directors of Procon’s parent company in the Procon group, which included Mr. Yurkowski, passed a resolution headed “Approval of Investment” which described the acquisition of shares as an “investment”.
+4) The press release of one of the issuers relating to the acquisition of the shares and the MOUs specifies “Procon has agreed to acquire [the shares] for investment purposes and to facilitate the transactions contemplated by the MOU. The other issuer’s press release also describes Procon’s acquisitions of its shares as an “Investment by Procon” and similarly describes Procon having agreed to acquire the shares “for investment purposes”.
+5) The Book of Documents includes another press release of one of the issuers indicating that, in addition to Procon acquiring its shares, Mr. Yurkowski’s personal company acquired 10 million shares of the issuer for a nickel apiece contemporaneously at the singular closing of the private placement. The Court was given no other knowledge of this and therefore does not know the reason or purpose for which Mr. Yurkowski acquired those shares or if, when, why or for what price he sold them. It appears far from reasonable to assume he acquired the shares personally for him to allow Procon to generate contract revenue for the benefit of all of its shareholders, including the significant third-party Chinese state entity.
+6) The Court appears to have been provided with less than a complete description of the circumstances of the acquisition of the shares by the Appellant’s founder, president and CEO in his testimony. This highlights why the Court is to look beyond a taxpayer’s own description of their intention, motivation, reason or purpose for having done something, and to effectively test that against the other objective evidence. This oversight does not enhance Mr. Yurkowski’s credibility on the very point he was called to address. To quote Appellant’s counsel in argument: “You have to ask yourself whether you trust the testimony that you heard from Ed Yurkowski.” Left unexplained as the Appellant did, this causes me considerable concern about the credibility of his testimony.
+7) One of the issuers filed a detailed and lengthy US Regulatory Notice in respect of Procon’s share acquisition (which also refers to Mr. Yurkowski’s corporation acquiring shares). In describing Procon’s purchase of its equity interest in the issuer, it states that “Procon believes that….the gold production on the properties owned by [the issuer] is a valuable investment.” [1]
+The joint initiative contemplated by Procon and this issuer did not receive the approval of this US committee. Apparently, it did not approve the operation of gold and silver mining activities in close proximity to US military bases and installations, that would use sodium cyanide, blast explosives (including dynamite) and ammonium nitrate, which are controlled substances in the US as precursors for toxic chemical agents, for chemical and biological weapons purposes and/or for anti-terrorism purposes, by a proposed joint initiative with Procon, control of which had been acquired by a Chinese state-owned entity. This led to the demise of the planned joint initiatives.
+This filing states that Procon “is making its investment decision on the bases of economic and financial considerations”.
+8) The press release announcing the planned divestment of Procon’s shares in that issuer is headed “divestment of Procon investment… as a result of US regulatory review” and again describes Procon’s Holding as an “investment”.
+9) The Procon Group Business Plan for Future Growth at the relevant time set out that:
+- Its growth strategy would initiate direct equity investments in its clients, by owning and investing in direct investments into specific projects and obtain mining contracts as a condition of the investment.
+- Its Incremental/ Future Growth Initiative included Resource Equity Investments.
+- This Investment Strategy would provide long-term revenue and earnings for Procon.
+- Procon contemplated taking one of the issuers public within two to five years when it might have a one billion dollar market capitalisation. In his testimony, Mr. Yurkowski spoke of their investments never ceasing, and even increasing, as the issuer grew, and spoke of wanting to acquire control of an issuer.
+- Procon’s business forecasts’ 15-year projected cash flows distinguished between joint initiative's operating cash flows and its investing cash flows.
+10) The Court was not told by the Appellant whether it was Procon or the issuer who proposed the equity investment component. Given Procon’s business planning documents and the other evidence, I infer the equity investment was initiated and sought by Procon. No explanation was given on how the differing positions of Procon in each issuer was determined, nor why differing Board representation was part of the investments, nor why Board representation did not represent relative shareholdings.
+II. Law and Analyses
+A. Income Tax Act
+[12] The key section for the distinction between business income and capital gains is section 3 of the Act.
+[13] Sections relating to the current deductibility versus capitalisation of business expenses, such as sections 9, 18 and 20, and the related jurisprudence, are of little assistance in determining the character of a business asset owned (as opposed to an expense incurred) as being either on income or capital account. It can be noted that the Appellant did not seek to deduct or amortize its purchase price of the shares from its income for either tax or commercial/accounting purposes.
+[14] According to the Supreme Court of Canada and the Federal Court of Appeal, property owned or held in a business is one of two types of property. It is either inventory or it is capital property.
+[15] In Friesen v. Canada, 1995 SCC 103, the Supreme Court of Canada wrote:
+[28] The second problem with the interpretation proposed by the respondent is that it is inconsistent with the basic division in the Income Tax Act between business income and capital gain. As discussed above, subdivision b of Division B of the Act deals with business and property income and subdivision c of Division B deals with capital gains. The Act defines two types of property, one of which applies to each of these sources of revenue. Capital property (as defined in s. 54(b)) creates a capital gain or loss upon disposition. Inventory is property the cost or value of which is relevant to the computation of business income. The Act thus creates a simple system which recognizes only two broad categories of property. The characterization of an item of property as inventory or capital property is based primarily on the type of income that the property will produce.
+[Emphasis added]
+[16] In CAE v. Canada, 2013 FCA 92, the Federal Court of Appeal wrote:
+[77] As the Supreme Court explains in Friesen, there are only two classes of property under the Act, namely capital property, the disposition of which gives rise to a capital gain, and property held for sale – i.e. inventory – which when sold gives rise to income (Friesen, para. 28).
+[Emphasis added]
+[17] In Canada Safeway Limited v. Canada, 2008 FCA 24, J. Pelletier, of the Federal Court of Appeal wrote in his concurring reasons:
+[77] The definition of a capital property as property whose disposition gives rise to a capital gain or loss is not particularly useful as a device for identifying capital property. Since property which produces income by being turned over is inventory, capital property must necessarily produce income by being held. Without excluding other possibilities, property which produces income by being held can either produce a revenue stream on its own, i.e. a revenue property, or be used in the conduct of a business but without being part of the inventory (the trading stock) of that business. So, for example, real property can be inventory in the hands of a property developer but is capital property to a grocery store operator who uses it to house its grocery business.
+[78] The essence of the distinction between inventory and capital property, for purposes of the question of adventure in the nature of trade is one of intention at the time the property is acquired. See Hazeldean Farm v. Canada (Minister of National Revenue — M.N.R.), [1967] 1 Ex. C.R. 245 at p. 257. I suggest that the test is whether the property is acquired with the intention of being held for the purpose of producing income (or being used in the production of income), in which case it is capital property. If it is acquired for the purpose of being turned over, it is inventory.
+[Emphasis added]
+[18] In Rio Tinto Alcan Inc. v. The Queen, 2016 TCC 172, Justice Hogan wrote:
+[86] The Respondent correctly notes that the Appellant acquired the Pechiney shares for the long term with a view to obtaining an enduring benefit. It is common ground that the shares are capital property. As noted earlier, the Respondent argues that, because the Disputed Expenses were incurred in the context of the Pechiney transaction, they are capital in nature. The Respondent relies on the decisions in Neonex International Ltd. v. R. [30], Rona Inc. v. Her Majesty the Queen [31] and Firestone v. Canada [32] to support her argument in this regard.
+[19] As noted by Justice Hogan, Rio Tinto involved the treatment of expenses incurred in the course of investigating if and how a taxpayer should make an acquisition of shares. That is, it was an expense characterisation case, not an income or loss characterisation case.
+[20] There may appear to be some similarities between property characterisation cases and expense deductibility versus capitalisation cases, particularly if the expense in question relates to the acquisition of property (as was the case in the Johns-Manville, 1985 SRC 46, Rio Tinto and Millford Developments, 1993 DTC 5052 (F.C.T.D), decisions relied on by the Appellant). However, the jurisprudence on the characterisation for tax purposes of property acquired is distinct, clear and straightforward as all level of Courts quoted from above have set out:
+There are two types of property. Inventory and capital property. Inventory is a property acquired or produced for resale. All property held to produce income from the business other than inventory is capital property. The sale or disposition of property that is inventory gives rise to revenue included in income. The profit or loss on inventory dispositions are on income account. The sale or disposition of property that is not inventory gives rise to a capital gain or capital loss under the capital gain provisions of the Act (capital property that is depreciable under the Act may also give rise to recapture or a terminal loss).
+[21] The Appellant has not put forward any relevant exception or other reason to depart from these generally applicable rules for the characterisation of property acquired, manufactured or held in connection with the business. For example, the Act sets out so-called change of use rules, which can recharacterise property. In this case, the Appellant did not take the position in its Notice of Appeal or in its submissions that the share acquisitions were adventures in the nature of trade. That is consistent with the ASF.
+[22] When the Respondent walked the Court through the above jurisprudence on characterisation of property held in connection with a business, the Appellant offered no reply.
+[23] The Appellant’s position, simply put by it in its Notice of Appeal, is that the shares were an integral part of its business strategy to enter into contracts to earn business income. The Appellant maintains that, since its intention at the time of acquisition was to earn business income, the loss at issue was a business loss. This is even more succinctly written in its memorandum of fact in law: “The Appellant’s only purpose [in acquiring the shares] was to earn business income and, as such, the losses on the shares are on income account”. With due respect, one not reflect on this proposition for very long before realising that this is not the test. Businesses almost invariably hold significant amounts of capital property (think tree) to generate their business revenues (think fruit). It is almost antithetical to the correct distinction between the two types of property to say that the property acquired to be held and used to generate revenues from its business, which does not include trading in such property, is not capital property when sold (barring any change in use which is not before the Court in this case), generating a capital gain or capital loss, but is property of the business that when sold generates income or loss from the business in which it was held.
+III. Conclusion and Disposition
+[24] The totality of the evidence leads inexorably to the singular conclusion that the shares disposed of by Procon were capital property for purposes of the Act, giving rise to the capital loss that was a superficial loss. The CRA’s reassessment was correct. For these reasons, this appeal is dismissed with costs in favour of the Respondent. If the parties cannot agree on costs within 30 days, they may file written submissions of no more than 10 pages (excluding attachments) each.
+Signed at Ottawa, Canada, this 29th day of June 2022.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2022TCC71
+COURT FILE NO.:
+2017-4641(IT)G
+2019-2446(IT)G
+STYLE OF CAUSE:
+PROCON MINING & TUNNELLING LTD.
+AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, BC.
+DATE OF HEARING:
+May 02, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+June 29, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Patrick Lindsay
+Mikael Johansson
+Counsel for the Respondent:
+Whitney Dunn
+Lalli Deol
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Patrick Lindsay
+Mikael Johansson
+Firm:
+PwC Law LLP
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This filing further says that in addition to Mr. Yurkowski’s indirect corporate acquisition of the issuer’s shares, Mr. Yurkowski owned almost six hundred thousand shares of the issuer. The Court was not told anything about the circumstances or context of that acquisition either. This also raises the Court’s concern with credibility of the Appellant’s stated intentions.

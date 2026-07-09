@@ -1,0 +1,307 @@
+---
+title: "Korki c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29898/index.do"
+last_modified: "2010-07-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 384"
+citation2: ""
+neutral_citation: "2010 CCI 384"
+decision_date: "2010-07-15"
+language: "fr"
+item_id: "29898"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6391
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:48:02.872000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f7f67a2f995067a8b210051cd0e0d1b6f5bbc36628546fb0aeb44ccaf3b26d74"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Korki c. La Reine
+
+- Citation: 2010 CCI 384
+- Decision date: 2010-07-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6391, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Korki c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-07-15
+Référence neutre
+2010 CCI 384
+Numéro de dossier
+2008-74(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-74(IT)G
+ENTRE :
+SAEED KORKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus les 11 et 12 mars 2010, à Victoria (Colombie‑Britannique), et le 12 avril 2010, à Vancouver (Colombie‑Britannique).
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Avocat de l'appelant :
+Me D. Laurence Armstrong
+Avocat de l'intimée :
+Me Bruce Senkpiel
+________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'égard des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2002 et 2003 sont rejetés avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 15e jour de juillet 2010.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 5e jour de novembre 2010.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 384
+Date : 20100715
+Dossier : 2008-74(IT)G
+ENTRE :
+SAEED KORKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. Les faits
+[1] L'appelant réside au 3275, chemin Campion, à Saanichton, dans l'île de Vancouver, en Colombie‑Britannique.
+[2] L'appelant et son épouse sont nés en Iran. Ils ont immigré au Canada avec leurs deux enfants en 1993.
+[3] L'appelant a témoigné avoir été directeur général de la société de textiles de Borujerd, en Iran, jusqu'en juin 1997.
+[4] Dans ses déclarations de revenus canadiennes pour les années d'imposition 2002 et 2003, l'appelant a déclaré les revenus suivants :
+Année d'imposition
+Revenu de location net
+Revenu net
+2002
+20 000 $
+19 100 $
+2003
+20 000 $
+22 312 $
+[5] L'épouse de l'appelant a déclaré les revenus suivants dans ses déclarations de revenus canadiennes :
+Année d'imposition
+Revenu net
+2002
+0 $
+2003
+2 170 $
+[6] Après que les déclarations de revenus de l'appelant et de son épouse ont été produites, les fonctionnaires de l'Agence du revenu du Canada (l'« ARC ») ont procédé à une analyse de l'avoir net des contribuables.
+[7] Le 24 avril 2006, le ministre du Revenu national (le « ministre ») a établi des nouvelles cotisations pour les années d'imposition 2002 et 2003 de l'appelant afin d'inclure des revenus non déclarés de 805 239 $ et de 2 564 980 $ respectivement.
+[8] Le 8 mai 2006, l'appelant a déposé des avis d'opposition aux nouvelles cotisations.
+[9] Après avoir achevé l'analyse de l'avoir net et après avoir examiné les avis d'opposition, les fonctionnaires de l'ARC ont conclu que l'appelant avait gagné les revenus suivants, qu'il n'avait pas déclarés :
+Année d'imposition
+Revenu
+2002
+287 340 $
+2003
+177 380 $
+(Nota : Un revenu de pension de 2 400 $ a également été inclus pour chaque année.)
+[10] Le ministre a délivré des avis de nouvelle cotisation le 12 mars 2007 en vue de tenir compte des revenus mentionnés au paragraphe [9].
+B. Les questions en litige
+[11] Les questions en litige sont les suivantes :
+a) L'appelant a‑t‑il gagné et omis de déclarer des revenus de 287 340 $ pour l'année d'imposition 2002 et de 177 380 $ pour l'année d'imposition 2003?
+b) L'appelant était‑il passible de pénalités pour faute lourde pour avoir omis de déclarer des revenus de 287 340 $ et de 177 380 $?
+C. Analyse et décision
+[12] Avant d'examiner les questions susmentionnées, j'aimerais traiter de certains points préliminaires qui ont été soulevés au cours de l'audience.
+[13] Dans sa plaidoirie, l'avocat de l'appelant s'est opposé à l'utilisation de la méthode de l'avoir net pour établir les nouvelles cotisations initiales à l'encontre de l'appelant.
+[14] Monsieur Michael Goulet, un vérificateur de l'ARC, a témoigné pour l'intimée.
+[15] Monsieur Goulet a déclaré qu'à son avis, les revenus déclarés par l'appelant posaient des problèmes compte tenu de son train de vie. Les propos suivants ont été échangés au cours de l'interrogatoire principal :
+[TRADUCTION]
+Q. : Et qu'entendez-vous par là?
+R. : Par exemple, le contribuable possédait une maison dans l'un des quartiers riches de la ville et son revenu était bien inférieur au revenu moyen des habitants de ce quartier.
+Q. : D'accord, et vous rappelez-vous quel était son revenu pour les deux années visées par la vérification?
+R. : Je crois qu'il s'élevait à environ 20 000 $.
+(Transcription, page 256, lignes 5 à 13.)
+[16] Monsieur Goulet a également témoigné qu'il aurait eu besoin de plus de temps pour recueillir des renseignements aux fins de la vérification (transcription, page 271, lignes 10 et 11) :
+[TRADUCTION]
+[...] Et le délai de prescription était sur le point d'expirer pour des années visées par la vérification.
+(Transcription, page 271, lignes 13 et 14.)
+[17] Monsieur Goulet a déclaré qu'habituellement, il cherchait à obtenir une renonciation du contribuable :
+[TRADUCTION]
+R. : Je crois que la personne qui agissait comme avocat de M. Korki à ce moment‑là a dit qu'il ne signerait pas de renonciation.
+Q. : D'accord, et cela étant, qu'avez‑vous fait?
+R. : Eh bien, je me suis vu obligé de conclure la vérification avec les renseignements dont je disposais. [...]
+(Transcription, page 272, lignes 1 à 6.)
+[18] J'aimerais aussi faire remarquer que le paragraphe 152(7) de la Loi de l'impôt sur le revenu (la « Loi ») permet au ministre d'établir des cotisations arbitraires en utilisant toute méthode acceptable eu égard aux circonstances.
+[19] À mon avis, le ministre et ses fonctionnaires avaient tout à fait raison d'établir les nouvelles cotisations initiales en se fondant sur une analyse de l'avoir net de l'appelant.
+[20] L'avocat de l'appelant a également soutenu que l'analyse de l'avoir net a été annulée par les secondes nouvelles cotisations.
+[21] L'avocat de l'intimée a également appelé Cecilia Jenkins à témoigner. Madame Jenkins est agent des appels au bureau de district de Victoria de l'ARC.
+[22] Les propos suivants ont été échangés au cours du contre‑interrogatoire :
+[TRADUCTION]
+Q. : (Me Armstrong) :
+D'accord. Et vous avez rejeté la cotisation selon l'avoir net, l'utilisation de l'avoir net, parce que, comme vous le dites plus loin dans votre analyse, les écarts quant à l'avoir net ne concordent pas, et vous les avez rejetés en faveur de ces nouvelles cotisations‑là.
+(Transcription, page 386, lignes 21 à 25.)
+R. : Je n'ai pas rejeté l'avoir net.
+(Transcription, page 387, ligne 1.)
+[23] Lors de l'interrogatoire principal, l'avocat de l'appelant a posé la question suivante à Mme Jenkins :
+[TRADUCTION]
+Q. : (Me Armstrong) :
+[...] Pouvez-vous expliquer la façon dont vous considériez les nouveaux renseignements que vous aviez reçus?
+R. : Vu les nouveaux renseignements, j'ai conclu que le contribuable possédait à l'étranger un grand nombre d'actifs qui n'avaient pas antérieurement été divulgués, que ce soit au vérificateur ou au service des appels. [...]
+(Transcription, page 367, lignes 18 à 24.)
+[24] Selon moi, Mme Jenkins a suivi la procédure appropriée et autorisée par la Loi en établissant de secondes nouvelles cotisations pour tenir compte des nouveaux renseignements reçus par l'ARC.
+[25] Certains éléments de preuve montrent également que le conseiller de l'appelant avait demandé de secondes nouvelles cotisations en vue d'atténuer les demandes que les fonctionnaires de l'ARC chargés du recouvrement faisaient à l'appelant. Autrement dit, les secondes nouvelles cotisations auraient réduit de beaucoup l'impôt exigé à l'appelant au moyen des premières nouvelles cotisations.
+[26] À mon avis, rien ne permet à l'avocat de l'appelant de se plaindre de la procédure que les fonctionnaires de la section des appels ont suivie pour établir les secondes nouvelles cotisations. Les secondes nouvelles cotisations ont été établies conformément à la Loi.
+[27] J'examinerai maintenant les questions en litige dans le présent appel.
+[28] J'ai examiné la preuve et j'ai conclu que les témoignages renfermaient un grand nombre d'incohérences et de contradictions, notamment :
+a) L'appelant a immigré au Canada en 1993, en vertu du programme des investisseurs‑immigrants. Il a acheté un condominium à Collingwood, en Ontario, pour 331 000 $. (Ce condominium a été revendu en 2004.)
+b) L'appelant a affirmé ne pas se rappeler de la valeur nette qu'il avait déclarée à Douanes Canada (transcription, page 107, ligne 6).
+c) Monsieur Goulet a témoigné que l'appelant lui avait dit qu'il avait apporté [TRADUCTION] « de l'argent, plus d'un million de dollars, peut‑être environ deux millions ».
+d) L'appelant a également dit que l'argent avait transité par le marché noir (transcription, page 262, lignes 7 à 12). (Nota : L'appelant a déclaré à plusieurs reprises au cours de son témoignage que tout l'argent qui était à l'Union de Banques Suisses (« UBS »), en Suisse, avait été viré de l'Iran en Suisse par l'entremise du marché noir.)
+e) Monsieur Goulet a déclaré que, lorsqu'il avait interrogé l'appelant, il lui avait demandé s'il avait des actifs ou des dettes à l'étranger. Monsieur Goulet a déclaré que l'appelant avait répondu par la négative (transcription, page 264, lignes 8 à 10).
+f) M. Goulet a aussi déclaré avoir posé la question suivante :
+[TRADUCTION]
+[...] « Avez‑vous une fiducie à l'étranger? » Monsieur Korki a dit que non. [...]
+(Transcription, page 265, lignes 6 et 7.)
+[29] Monsieur Goulet a déclaré avoir posé la question suivante à l'appelant (page 265 de la transcription) :
+[TRADUCTION]
+R. : [...] « Est-ce que vous effectuez des opérations bancaires à l'étranger, possédez‑vous un compte en banque ailleurs? » Monsieur Korki a d'abord répondu par la négative [...]
+(Transcription, page 265, lignes 16 à 18.)
+[30] Lors de l'interrogatoire principal, M. Goulet a également déclaré avoir posé la question suivante à l'appelant :
+[TRADUCTION]
+R. : [...] au cours de la période visée par la vérification, aviez‑vous contracté des prêts non institutionnels ou deviez‑vous de l'argent en vertu de prêts non institutionnels? Il a d'abord répondu que non, et je lui aurais alors demandé si un ami ou un membre de la famille lui avait remis de l'argent à titre de prêt. Et aucun autre renseignement n'a été fourni pour M. Korki. Il a encore une fois répondu par la négative.
+(Transcription, page 267, lignes 12 à 17.)
+[31] Monsieur Goulet a déclaré qu'au cours de l'entrevue, il avait posé une question supplémentaire à l'appelant :
+[TRADUCTION]
+R. : [...] Je lui aurais donc demandé s'il avait reçu de l'argent de sa famille ou d'amis. Et il a répondu par la négative. [...]
+(Transcription, page 267, ligne 25, et page 268, lignes 1 et 2.)
+[32] Enfin, M. Goulet a déclaré avoir posé la question suivante à l'appelant :
+[TRADUCTION]
+R. : « [...] avez-vous déjà détenu de l'argent en fiducie pour d'autres personnes? » Et il a d'abord répondu que non. [...]
+(Transcription, page 268, lignes 8 et 9.)
+[33] Monsieur Goulet a témoigné que M. Korki avait dit que de l'argent provenant de ses parents avait été déposé dans son compte bancaire à la Banque Royale du Canada (transcription, page 269, lignes 24 et 25).
+[34] Monsieur Goulet a ensuite fait le commentaire suivant :
+[TRADUCTION]
+R. : [...] Je lui aurais en outre demandé quelle était la valeur nominale de l'argent qu'il avait reçu. Et il a dit qu'il avait reçu 10 000 $, 15 000 $ et 70 000 $.
+(Transcription, page 270, lignes 8 à 10.)
+[35] Comme je l'ai déjà mentionné, Mme Jenkins a également témoigné (voir le paragraphe [21]). Elle a déclaré qu'il y avait une liste de transferts bancaires effectués par le père du contribuable, qui réside en Iran (transcription, page 350, lignes 22 à 25). Nota : Les montants des transferts bancaires étaient les suivants :
+2002
+284 940 $
+2003
+174 980 $
+[36] L'avocat de l'intimée a posé la question suivante à Mme Jenkins (page 363 de la transcription) :
+[TRADUCTION]
+Q. : D'accord, et en particulier, qu'avez‑vous appris de ces nouveaux renseignements? Qu'avez‑vous découvert?
+R. : Qu'il y avait à l'étranger certains comptes et actifs dont je ne connaissais pas l'existence auparavant.
+(Transcription, page 363, lignes 1 à 5.)
+[37] L'avocat de l'intimée a posé la question suivante (page 365 de la transcription) :
+[TRADUCTION]
+Q. : Par conséquent, en ce qui concerne les actifs, qu'est‑ce que ce document de la banque indiquait?
+R. : Qu'il y avait un montant de 2 097 000 [$] dans le compte à la UBS. Il y avait également un compte en Allemagne, d'une valeur estimative de 200 000 [$]. Et il y avait en Iran des actions de sociétés de premier ordre, d'une valeur de 800 000 [$].
+Q. : Et je remarque également qu'il indique une acceptation bancaire d'une valeur de 200 000 [$], est‑ce exact?
+R. : Oui, c'est exact.
+(Transcription, page 365, lignes 16 à 24.)
+(Nota : L'appelant a témoigné qu'il n'avait pas de compte bancaire en Allemagne et il a affirmé que tous les actifs qui étaient en Suisse appartenaient à son père.)
+[38] L'avocat de l'appelant a posé la question suivante à Mme Jenkins (page 391 de la transcription) :
+[TRADUCTION]
+Q. : (Me Armstrong) :
+Disposez‑vous de quelque preuve que l'argent qui est dans le compte à la UBS, en Suisse, n'appartient pas à M. Korki père?
+R. : Cet argent figure dans la liste des actifs de M. Korki fils de la Banque Royale.
+(Transcription, page 391, lignes 13 à 17.)
+[39] L'appelant a admis lors du contre‑interrogatoire qu'il y avait de l'argent dans le compte bancaire à la UBS, en Suisse. Toutefois, il a affirmé que cet argent appartenait à son père. Par contre, l'appelant a aussi déclaré que la UBS croyait que cet argent lui appartenait :
+[TRADUCTION]
+R. : [...] Ils [la UBS] ne savaient pas que c'était l'argent de mon père. [...]
+(Transcription, page 128, ligne 4.)
+[40] Lors du contre-interrogatoire, l'avocat de l'intimée a posé la question suivante (page 139 de la transcription) :
+[TRADUCTION]
+Q. : (Me Senkpiel) :
+C'est vous qui demandez à la banque de vous envoyer ces fonds provenant du compte en banque à la UBS, n'est‑ce pas?
+R. : Le compte est à mon nom, comme c'est normalement le cas, oui.
+(Transcription, page 139, lignes 8 à 11.)
+[41] Au cours du contre-interrogatoire, les propos suivants ont été échangés :
+[TRADUCTION]
+Q. : (Me Senkpiel) :
+Par conséquent, simplement pour m'assurer que je comprends bien votre témoignage, vous dites que vous aviez un relevé du compte en banque à la UBS indiquant que vous étiez le client, que le solde du compte s'élevait à 1 600 000 [$] et que vous leur aviez simplement remis ce relevé sans rien leur dire.
+R. : Oui, je n'ai rien dit, mais je leur ai remis ce relevé, en effet.
+(Transcription, page 149, lignes 20 à 25, et page 150, lignes 1 et 2.)
+[42] Il importe également de noter que l'appelant a vendu une maison située promenade Beech, à Victoria, pour 4 500 000 $ (le prix d'achat initial était de 1 075 000 $, mais d'importantes rénovations ont été apportées à la maison). La maison de l'appelant, située au 3275, chemin Campion, est actuellement en vente. Le prix initialement demandé pour cette maison était de 15 000 000 $. À l'heure actuelle, le prix demandé est de 13 500 000 $.
+[43] L'avocat de l'intimée a cité l'arrêt Hsu c. La Reine, 2001 CAF 240, de la Cour d'appel fédérale, où le juge Desjardins s'est exprimée de la sorte :
+[23] Le paragraphe 152(7) de la Loi n'établit pas une méthode précise de détermination de l'impôt payable par le contribuable. Dans la plupart des cas, le ministre suit la « méthode de la valeur nette ». Le Manuel des opérations de l'impôt préparé par Revenu Canada décrit comme suit la méthode de la valeur nette :
+Le recours à la méthode de la valeur nette pour calculer le revenu repose sur la prémisse selon laquelle le revenu d'un client pour une période est égal à l'augmentation de la valeur nette du client (position financière) entre le début et la fin de cette période. La valeur nette d'un client est l'excédent de son actif total (d'entreprise et personnel) sur son passif total (d'entreprise et personnel) à une date donnée.
+[44] Le paragraphe 152(8) de la Loi établit une présomption de la validité de ces cotisations et impose au contribuable le fardeau de réfuter les faits présumés par le ministre :
+152(8) Sous réserve des modifications qui peuvent y être apportées ou de son annulation lors d'une opposition ou d'un appel fait en vertu de la présente partie et sous réserve d'une nouvelle cotisation, une cotisation est réputée être valide et exécutoire malgré toute erreur, tout vice de forme ou toute omission dans cette cotisation ou dans toute procédure s'y rattachant en vertu de la présente loi.
+[45] Selon moi, l'examen de la preuve révèle que les éléments suivants sont importants :
+a) l'appelant est titulaire du compte bancaire à la UBS, en Suisse;
+b) le père de l'appelant ne s'est jamais rendu en Suisse;
+c) l'appelant était l'unique signataire autorisé pour le compte bancaire à la UBS;
+d) seul l'appelant a accès aux fonds qui sont dans le compte à la UBS;
+e) la succursale de la Banque Royale du Canada, à Victoria, se fondait sur le compte à la UBS;
+f) la UBS a fourni à la Banque Royale du Canada une lettre de crédit de 700 000 $ pour garantir les prêts consentis à l'égard de la maison située chemin Campion (ce qui a été confirmé par M. Edwards);
+g) aucune preuve n'a été fournie pour démontrer que les fonds du compte à la UBS avaient été utilisés par quelqu'un d'autre que l'appelant;
+h) aucune preuve n'a été fournie, si ce n'est le témoignage intéressé de l'appelant, pour établir l'existence d'une fiducie orale, c'est‑à‑dire que l'appelant détenait le compte à la UBS pour le compte de son père;
+i) l'appelant a reçu 284 940 $ en 2002 et 174 980 $ en 2003 du compte à la UBS.
+[46] En résumé, comme l'indique la preuve susmentionnée, l'appelant a déclaré aux représentants de la UBS que l'argent qui était en Suisse lui appartenait. L'appelant a déclaré aux fonctionnaires de l'ARC que l'argent qui était en Suisse appartenait à son père. Monsieur Edwards, de la Banque Royale, a déclaré ne pas savoir si l'argent qui était en Suisse appartenait à l'appelant ou s'il s'agissait d'actifs familiaux.
+[47] L'appelant a le fardeau d'établir que les nouvelles cotisations n'étaient pas exactes. Je dois dire que j'ai trouvé qu'une bonne partie du témoignage n'était pas fiable. Compte tenu des diverses contradictions et incohérences relevées dans le témoignage dont il a ci‑dessus été fait mention, j'ai conclu que le témoignage de l'appelant n'est pas crédible. Ainsi, je suis d'avis que l'appelant n'a pas su se décharger du fardeau d'établir que les nouvelles cotisations sont inexactes.
+[48] Dans sa plaidoirie, l'avocat de l'intimée a soutenu que la faute lourde doit être plus qu'une simple omission de faire preuve d'une diligence raisonnable :
+[TRADUCTION]
+[...] La faute lourde n'est pas limitée à la connaissance réelle; elle peut aussi résulter de l'aveuglement volontaire. [...]
+(Transcription, page 483, lignes 18 et 19.)
+[49] En l'espèce, l'appelant a déclaré un revenu de location de 20 000 $ pour chacune des années 2002 et 2003. Il n'a déclaré aucun salaire qu'il aurait reçu de la société de textiles de 1993 à 1997, ni aucune prestation de pension reçue de la société pour les années 1998, 1999, 2000, 2001, 2002 ou 2003, et ce, bien qu'il ait déclaré avoir travaillé pour la société jusqu'à sa retraite, en 1997. Il a également dit qu'il recevait une petite pension de la société de textiles.
+[50] L'appelant était bien au fait des questions financières. Il est titulaire d'un diplôme en comptabilité et en finances d'une université iranienne. Il était également directeur général de la société de textiles, et ce, depuis la création de celle‑ci.
+[51] Dans l'arrêt Venne c. La Reine, no T‑815‑82, 9 avril 1984 (C.F. 1re inst.), le juge Strayer s'est exprimé de la sorte :
+[...] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi. [...]
+[52] Compte tenu des remarques faites précédemment, je crois que les pénalités pour faute lourde imposées par le ministre doivent être confirmées.
+[53] Avant de conclure, j'aimerais citer le juge Oliver Wendell Holmes, de la Cour suprême des États‑Unis :
+[TRADUCTION]
+Les impôts constituent le prix à payer pour vivre dans une société civilisée [...]
+(Compania General de Tabacos de Filipinas v. Collector of Internal Revenue, 275 U.S. 87, 100 (1927))
+À mon avis, cette remarque s'applique dans ce cas‑ci.
+[54] Les appels sont rejetés, avec dépens.
+Signé à Vancouver (Colombie-Britannique), ce 15e jour de juillet 2010.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 5e jour de novembre 2010.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2010 CCI 384
+No DU DOSSIER DE LA COUR : 2008-74(IT)G
+INTITULÉ : Saeed Korki c. Sa Majesté la Reine
+LIEUX DE L'AUDIENCE : Victoria et Vancouver (Colombie‑Britannique)
+DATES DE L'AUDIENCE : Les 11 et 12 mars et le 12 avril 2010
+MOTIFS DU JUGEMENT : L'honorable juge L. M. Little
+DATE DU JUGEMENT : Le 15 juillet 2010
+COMPARUTIONS :
+Avocat de l'appelant :
+Me D. Laurence Armstrong
+Avocat de l'intimée :
+Me Bruce Senkpiel
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : D. Laurence Armstrong
+Cabinet : Armstrong Wellman
+Victoria (Colombie‑Britannique)
+Pour l'intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

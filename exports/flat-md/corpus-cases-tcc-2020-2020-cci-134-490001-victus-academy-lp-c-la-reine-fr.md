@@ -1,0 +1,212 @@
+---
+title: "Victus Academy LP c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/490001/index.do"
+last_modified: "2020-12-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 134"
+citation2: ""
+neutral_citation: "2020 CCI 134"
+decision_date: "2020-12-10"
+language: "fr"
+item_id: "490001"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4655
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:52:48.769000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "255675bdd97df37512c8d10c2c253a6c2af22e6c7cab48e2c60a808b877b16a2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Victus Academy LP c. La Reine
+
+- Citation: 2020 CCI 134
+- Decision date: 2020-12-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4655, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Victus Academy LP c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-12-10
+Référence neutre
+2020 CCI 134
+Numéro de dossier
+2019-350(GST)I
+Juges et Officiers taxateurs
+Siobhan Monaghan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2019-350(GST)I
+ENTRE :
+VICTUS ACADEMY LP,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 12 novembre 2020, à Hamilton (Ontario)
+Devant : L’honorable juge K.A. Siobhan Monaghan
+Comparutions :
+Avocat de l’appelante :
+Me Amit Ummat
+Avocate de l’intimée :
+Me Rebecca L. Louis
+JUGEMENT
+Conformément à mes motifs du jugement ci-joints :
+L’appel interjeté à l’encontre des nouvelles cotisations datant du 7 février 2017 et établies en application de la partie IX de la Loi sur la taxe d’accise pour les périodes de déclarations du 27 mai 2016 au 31 juillet 2016 et du 1er août 2016 au 31 octobre 2016 de l’appelante, est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 10e jour de décembre 2020.
+« K.A. Siobhan Monaghan »
+La juge Monaghan
+Référence : 2020 CCI 134
+Date : 20201210
+Dossier : 2019-350(GST)I
+ENTRE :
+VICTUS ACADEMY LP,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Monaghan
+[1] Victus Academy LP (« Victus Academy ») exploite une école privée à but lucratif à Kitchener (Ontario). Elle interjette appel d’une nouvelle cotisation établie aux termes de la Loi sur la taxe d’accise (Canada) [la « LTA »] à l’égard de deux périodes de déclaration de 2016, soit du 27 mai 2016 au 31 juillet 2016, et du 1er août 2016 au 31 octobre 2016. Le ministre a rejeté des crédits de taxes sur les intrants (CTI) d’environ 28 500 $ pour ces deux périodes.
+[2] Le ministre a refusé les CTI pour le motif que Victus Academy est une administration scolaire qui effectuait des fournitures exonérées de services éducatifs.
+[3] Victus Academy ne conteste pas qu’elle soit une administration scolaire qui effectuait des fournitures exonérées de services éducatifs. Toutefois, Victus Academy allègue qu’elle effectue deux fournitures distinctes, dont une seule d’entre elles est une fourniture exonérée. La seconde, dit-elle, est une activité commerciale l’obligeant de percevoir la taxe de vente harmonisée (« TVH ») et lui permettant de réclamer des CTI.
+[4] Pour les motifs décrits ci-dessous, l’appel de Victus Academy est rejeté, sans frais.
+I. EXPOSÉ DES FAITS
+[5] Victus Academy a été cofondée en 2016 par Daniel C. Schmidt. M. Schmidt a expliqué que l’un de ses fils, un joueur de hockey accompli, fréquentait une école à Toronto offrant un programme pour des joueurs de hockey talentueux. Même si les Schmidt étaient très satisfaits de la qualité du programme de hockey, ils étaient très déçus du programme académique de l’école. Après cette expérience, M. Schmidt et un fils plus vieux ont décidé d’établir Victus Academy à titre d’école privée dans la région de Waterloo, offrant aux élèves un excellent programme de hockey et un excellent programme académique. M. Schmidt a décrit sa famille comme étant une passionnée de hockey et d’excellente éducation.
+1) Activités au cours de la période de déclaration faisant l’objet du présent appel
+[6] L’année scolaire 2016-2017 était la première année où Victus Academy exerçait ses activités. Lors de cette première année, elle a offert une programmation académique à des élèves de la 7e à la 12e année [1] . Victus Academy a fait l’objet d’une inspection par le ministère de l’Éducation de l’Ontario et ses cours de niveau secondaire sont admissibles au diplôme d’études secondaires de l’Ontario. Par souci de commodité, je ferai référence au service d’enseignement de la 7e à la 12e année de Victus Academy comme étant le programme académique.
+[7] Le second aspect du service offert par Victus Academy était qualifié de son programme de hockey. Au cours des périodes de déclaration faisant l’objet du présent appel, le programme de hockey était offert aux élèves de Victus Academy pendant la journée scolaire. Il était constitué d’un entraînement sur glace et de conditionnement physique hors glace. Pour des raisons pratiques, j’appellerai cet aspect du service le programme de hockey de jour [2] .
+[8] Victus Academy exerce ses activités à partir d’une installation municipale. Au cours des périodes de déclaration visées par le présent appel, elle avait accès à six salles de classe, un bureau, une patinoire, cinq vestiaires désignés et une salle d’entraînement ou de gym situés dans cette installation. Le contrat avec la ville donnait à Victus Academy trois périodes de glace de 50 minutes chacune, quatre jours par semaine, entre 8 h 15 et 11 h 40. Victus Academy avait accès aux salles de classe et à la salle d’entraînement ou de gym les jours d’école entre 7 h et 16 h 30. Victus Academy avait accès au bureau aux mêmes heures, mais sept jours par semaine.
+[9] Victus Academy retenait les services de tiers pour diriger le programme de hockey de jour. L’entraînement sur glace était dirigé par Mike Ellis et le conditionnement physique hors glace était dirigé par Brandon Merlie. Chacun était décrit comme ayant leur propre entreprise et d’autres clients. Comme M. Schmidt l’a énoncé, n’importe qui pouvait retenir les services de ces personnes. M. Ellis, par exemple, avait parfois d’autres clients sur la glace avec les élèves de Victus Academy. Mais ces autres clients n’avaient aucun lien avec Victus Academy. Ces tierces parties payaient leurs propres employés et exploitaient leurs aspects respectifs du programme de hockey de jour, avec une participation minime de la part de Victus Academy. Chacun avait des interactions directes avec les parents des élèves.
+[10] Toutefois, les parents faisaient affaire avec Victus Academy et payaient Victus Academy à la fois pour le programme académique et le programme de hockey de jour. Victus Academy payait la ville pour l’utilisation de ses installations, ses enseignants, et des deux tierces parties qui fournissaient des services relatifs au programme de hockey de jour. Un élève ne présentait qu’une seule demande d’admission à Victus Academy pour les deux programmes. Victus Academy délivrait une seule facture montrant deux sommes distinctes pour les frais de scolarités et le programme de hockey [3] . Par conséquent, les parents n’ont qu’un seul contrat avec Victus Academy indiquant que les deux programmes sont fournis aux élèves. (Le contrat conclut entre les parents et Victus Academy n’a pas été produit à titre d’élément de preuve. M. Schmidt a affirmé qu’il n’y avait pas de contrat écrit comme tel, mais plutôt, selon le témoignage de M. Schmidt, le contrat se compose du formulaire de demande d’admission, de la lettre d’acceptation de Victus Academy [4] et peut-être de documents dispensatoires.)
+[11] Le site Web de Victus Academy contient la description suivante :
+[traduction]
+Victus Academy est une école privée indépendante conçue à la fois pour les joueurs de hockey masculins et féminins de la 7e à la 12e année.
+Victus Academy offre le meilleur de deux disciplines : une éducation de niveau universitaire, combinée à une formation technique en hockey, tout en permettant aux élèves de jouer avec leur équipe de hockey locale.
+À Victus Academy, le hockey et les études sont poursuivis avec la même vigueur, excellence et compétitivité. Nous veillons à ce que le curriculum soit conçu afin d’accommoder le programme de hockey et les autres exigences ardues pesant sur l’athlète élite.
+Victus Academy n’est pas faite pour tous. Les candidats sélectionnés par Victus Academy seront des personnes qui, non seulement possèdent des compétences en hockey et des habiletés académiques élevées, mais ils devront également être prêts pour les rigueurs et les demandes de cette école hautement compétitive.
+[12] Bien que M. Schmidt décrive ce document comme un document de marketing, à mon avis il est révélateur. Victus Academy recherche des joueurs de hockey élites comme élèves. Il n’est suggéré nulle part que les élèves puissent participer seulement au programme académique ou au programme de hockey de jour seulement. En effet, il est difficile de concevoir qu’un élève qui ne joue pas au hockey examinant cette page Web envisagerait d’envoyer une demande d’admission à Victus Academy.
+[13] M. Schmidt a expliqué que l’avantage de fréquenter Victus Academy est qu’un élève peut participer aux deux programmes pendant la journée scolaire, au même endroit, sans entrer en conflit avec les pratiques et les parties de hockey régulières de l’élève. Cela a été le modèle d’affaires et la stratégie de marketing de Victus Academy depuis le départ.
+[14] Néanmoins, M. Schmidt a dit qu’un élève pouvait choisir de participer au programme académique seulement, au programme de hockey de jour seulement, ou aux deux. Bien qu’il ait reconnu que Victus Academy s’intéresse particulièrement aux élèves qui participent aux deux programmes (les frais pour les deux programmes étant meilleurs que les frais pour un seul programme), il a dit que des élèves ont participé à l’un sans participer à l’autre.
+[15] Lorsqu’on lui a posé la question de savoir si des élèves avaient participé à un seul programme pendant les périodes de déclarations visées par le présent appel, M. Schmidt a offert deux exemples de l’année scolaire 2016-2017. Un élève, un gardien de but, avait présenté une demande d’admission à Victus Academy au motif qu’il ne participerait pas au programme de hockey de jour parce qu’il préférait travailler avec son propre entraîneur de gardiens de but. Cependant, il a retiré sa demande et n’a jamais fréquenté Victus Academy. Le second élève, aussi un gardien de but, s’est inscrit aux deux programmes en septembre 2016, mais il a abandonné le programme de hockey de jour à la moitié du second semestre. Cela semble anormal, plutôt qu’habituel : un élève qui s’est inscrit à Victus Academy pour participer aux deux programmes et, pour des raisons personnelles, se retire de l’un des programmes au second semestre n’est pas un élément de preuve très convaincant. Par exemple, des élèves qui étudient au secondaire peuvent décider d’abandonner un cours avant la fin d’un semestre.
+[16] La thèse de Victus Academy est qu’elle possède deux programmes distincts, le programme académique et ce que M. Schmidt décrit comme le programme de hockey. M. Schmidt a qualifié le programme de hockey comme englobant non seulement le programme de hockey de jour, mais aussi les tournois de hockey du printemps et les camps de hockey de l’été offerts par Victus Academy. Comme le décrit M. Schmidt, les particuliers n’ont pas besoin d’étudier au programme académique pour participer au programme de hockey. M. Schmidt dit qu’un grand nombre de participants à ses tournois du printemps et ses camps d’été ne sont pas des élèves inscrits au programme académique de Victus Academy. Clairement, ce témoignage est offert pour appuyer la thèse de Victus Academy selon laquelle elle offre deux services complètement distincts, chacun constituant une fourniture distincte.
+[17] M. Schmidt ne pouvait se souvenir s’il y avait eu un tournoi au printemps ou un camp à l’été de 2016. Les pièces de l’intimée comprennent des documents fournis par Victus Academy à l’Agence du revenu du Canada à l’appui de sa demande de CTI. Ces documents indiquent que Victus Academy avait commencé à utiliser les installations municipales le 2 août 2016, tandis que l’entraînement sur glace a commencé le 6 septembre 2016, et la construction d’une salle de classe et d’un centre d’entraînement a eu lieu en août 2016. La déclaration des opérations par compte de Victus Academy qui portait sur la période du 1er août au 31 octobre 2016 déclare un revenu tiré du volet de hockey pour des élèves inscrits au programme académique seulement [5] .
+[18] Les documents liés aux tournois du printemps et aux camps d’été déposés à titre d’élément de preuve sont datés de mai 2017 et 2018 respectivement. J’ai conclu qu’aucun tournoi au printemps, ou camp à l’été, n’a été offert par Victus Academy pendant les périodes de déclarations faisant l’objet du présent appel. Par conséquent, je conclus que les seuls services que Victus Academy a fournis pendant les périodes de déclaration visées par le présent appel étaient le programme académique et le programme de hockey de jour.
+2) Documentation
+[19] À l’exception de la lettre du ministère de l’Éducation de l’Ontario confirmant le pouvoir de Victus Academy d’octroyer des crédits vers un diplôme d’études secondaires de l’Ontario, aucun des éléments de preuve documentaire fournis par Victus Academy ne porte sur l’année scolaire 2016-2017 ou les périodes de déclaration visées par le présent appel. J’ai conclu que l’absence d’élément de preuve documentaire pertinent provenant des périodes de déclaration visées par le présent appel comme étant surprenante. L’avocat de l’intimée a demandé à plusieurs reprises à M. Schmidt s’il avait des documents provenant des périodes de déclaration visées par le présent appel, car ceux-ci sont les plus pertinents. Aucune explication n’a été donnée sur le fait que Victus Academy n’avait déposé que des documents portant sur d’autres périodes de déclaration, mis à part qu’il s’agissait d’exemples.
+[20] Dans l’hypothèse que la demande d’admission déposée par Victus Academy pour l’année scolaire 2020-2021 soit identique à celle utilisée en 2016 [6] , cela ne suggère pas que Victus Academy était intéressée par les élèves qui ne participeraient qu’à un seul des deux programmes. L’accent de la demande d’admission est entièrement mis sur les études, même si elle décrit le candidat comme un « élève-athlète ». Il comprend une requête, laquelle doit être signée par le parent, pour que le dossier scolaire de l’Ontario soit acheminé à Victus Academy.
+[21] M. Schmidt a témoigné que cette demande d’admission était adéquate pour un élève qui souhaitait participer au programme de hockey de jour seulement, car les mêmes renseignements seraient nécessaires. Je suis loin d’être convaincu. Un trop grand nombre de renseignements demandés ne seraient pas du tout pertinents. Par ailleurs, M. Schmidt a dit qu’ils étaient intéressés par les joueurs de hockey compétitifs qui seraient capables de suivre les rigueurs du programme de hockey de jour [7] . Toutefois, la demande d’admission comprend des questions à propos de l’expérience du hockey, ce que l’on pourrait s’attendre d’un candidat qui présente une demande uniquement pour le programme de hockey de jour. Notamment, la demande d’admission de Victus Academy n’offre pas un choix au candidat, ou ne demande pas au candidat d’indiquer hockey seulement, ou académique seulement, ou les deux. La présomption sous-jacente semble être qu’un candidat participerait aux deux.
+3) Activités au cours des périodes de déclaration suivant les périodes de déclaration faisant l’objet du présent appel
+[22] Les activités menées au cours des périodes suivant les périodes de déclarations faisant l’objet du présent appel ne sont pas nécessairement pertinentes à l’appel. Toutefois, une grande partie des témoignages et presque tous les éléments de preuve documentaire offerts par Victus Academy portaient sur des périodes de déclarations bien après celles visées par le présent appel.
+[23] Par exemple, une demande d’admission remplie par un élève universitaire, pour ce qui était décrit comme le programme de hockey de jour, a été déposée à titre d’élément de preuve comme exemple d’élève ayant choisi seulement le programme de hockey. Toutefois, cette demande avait été signée 10 jours avant l’audition et après que l’élève eut commencé à participer au programme de hockey de jour [8] . Je n’accorde pas de poids à cet élément de preuve, sauf dans la mesure où il indique à quel point la demande d’admission de Victus Academy est inappropriée pour une personne qui cherche à participer seulement au programme de hockey (que ce soit pour le programme de hockey de jour ou pour le programme de hockey tel que le conçoit M. Schmidt). Une grande partie de l’information recherchée dans la demande d’admission ne s’applique tout simplement pas, comme il est indiqué sur la demande remplie.
+[24] Les tournois de hockey du printemps menés au cours des périodes de déclaration qui ont suivi celles faisant l’objet de l’appel ne sont pas particulièrement pertinents. Étant donné l’incertitude de M. Schmidt à propos de la tenue du premier tournoi de printemps ou camp d’été, j’ai présumé qu’ils avaient eu lieu au plus tôt en 2017 et 2018 respectivement, conformément aux éléments de preuve documentaire fournie par Victus Academy [9] . Le tournoi de printemps utilisait une demande d’admission complètement différente, qui cherche à obtenir beaucoup moins de renseignements que celle utilisée pour un élève du programme académie, ce qui n’est pas surprenant. De plus, le coût du tournoi de printemps est très modeste, soit 50 $.
+[25] Le matériel pour le camp d’été de 2018 mentionne qu’il est organisé par Victus Academy, mais qu’il est commercialisé comme un Pré-camp midget junior de Hockey Detail. Les personnes intéressées devaient communiquer avec Mark chez Hockey Detail, et non avec Victus Academy, pour confirmer une place. Ce camp comportait trois séances d’une durée de trois heures pour 25 personnes au cours d’une fin de semaine.
+[26] À mon avis, cet élément de preuve porte à croire que, dans la mesure où le programme de hockey de Victus Academy inclut une programmation autre que le programme de hockey de jour, cette programmation est entièrement distincte, voire accessoire au programme de hockey de jour. Par contre, la nature de ces programmes n’est pas une question litigieuse dans le présent appel, car ces programmes n’étaient pas offerts au cours des périodes de déclaration visées par le présent appel. Mes commentaires ne devraient pas être interprétés comme une conclusion tirée à l’égard de la nature de ces services. J’affirme simplement que l’élément de preuve à leur égard n’est ni persuasif ni particulièrement pertinent dans le présent appel.
+[27] À l’exception de l’élève universitaire, M. Schmidt n’a décrit aucun élève qui participait au programme de hockey de jour qui n’était pas un élève du programme académique de Victus Academy. En effet, il serait difficile pour un élève du primaire ou du secondaire, autre qu’un élève qui fréquentait Victus Academy à titre d’élève du programme académique, de participer au programme de hockey de jour. Étant donné que ce programme est offert pendant les heures de classe, la participation entrerait vraisemblablement en conflit avec la présence de l’élève à une autre école pour l’apprentissage académique. Sauf cette exception, les seuls élèves non-académiques que M. Schmidt a décrits comme participant au programme de hockey de Victus Academy (comme il l’a décrit) étaient des participants de son tournoi du printemps et de ses camps d’été.
+[28] Même si M. Schmidt a affirmé que des élèves participaient au programme académique sans participer au programme de hockey de jour, le seul cas qu’il a décrit en détail concernait trois frères, tous dans la même année scolaire, qui avaient fréquenté Victus Academy au cours de l’année scolaire 2018-2019. La facture pour ces frères indique que deux d’entre eux avaient participé à la fois au programme académique et au programme de hockey de jour, tandis que le troisième avait participé au programme académique seulement (avec des frais minimes pour l’accès aux installations du gymnase ou d’entraînement). Dans ces circonstances, le désir des parents que les trois enfants fréquentent une seule école est évident, plus particulièrement lorsque les droits de scolarité sont réduits en raison d’un rabais organisé pour les membres d’une même famille [10] . Ce seul exemple de l’année scolaire 2018-2019, pas les périodes de déclarations en cause, semble être une situation spéciale plutôt qu’un arrangement type. Comme il a été mentionné ci-dessus, je considère également un élève qui s’est inscrit aux deux programmes, mais qui s’est retiré du programme de hockey de jour à la moitié du second semestre, comme étant représentatif de circonstances spéciales et non d’une pratique habituelle.
+II. THÈSES DES PARTIES
+[29] Victus Academy présente la question en litige dans le présent appel comme si ses activités constituent une fourniture unique de services éducatifs qui sont des fournitures exonérées ou comme si ses activités constituent deux fournitures, composées de services éducatifs qui sont une fourniture exonérée, et d’un programme d’entraînement de hockey qui est une activité commerciale, qui l’oblige à facturer la TVH et lui donnant droit à des CTI.
+[30] L’intimée présente la question en litige dans le présent appel comme si les CTI avaient été refusés à juste titre pour le motif que Victus Academy avait effectué une fourniture exonérée de services éducatifs aux termes de l’article 2 de la partie III de l’annexe V de la LTA. L’intimée soutient que Victus Academy a effectué une seule fourniture de services éducatifs, car le programme de hockey de jour était entièrement intégré au programme éducatif. L’intimée affirme que Victus Academy offrait aux élèves un service unique (combiné).
+III. LA LOI
+[31] La prestation de fournitures exonérées n’est pas une activité commerciale. Par conséquent, le fournisseur de fournitures exonérées n’a droit à aucun CTI. La partie III de l’annexe V prévoit que les services éducatifs sont des fournitures exonérées.
+1) Fourniture unique ou deux fournitures
+[32] Le point central de l’argument était la question de savoir si les activités de Victus Academy constituaient une fourniture ou deux. La jurisprudence indique clairement que cette détermination repose sur les faits, même si elle précise plusieurs facteurs à prendre en compte. L’intimée et Victus Academy soulignent toutes deux les faits qui favorisent leur thèse.
+[33] Victus Academy fait valoir les facteurs suivants à l’appui de sa thèse :
+1) Le programme académique et le programme de hockey de jour pourraient être achetés séparément;
+2) Couper un service de l’autre ne rendrait pas le service restant inutile;
+3) Ils sont facturés séparément;
+4) Les deux activités sont fournies par deux fournisseurs distincts, soit les professeurs et le directeur de VictusAcademy pour le programme académique, et les tierces parties embauchées par VictusAcademy pour diriger le programme de hockey de jour.
+[34] L’intimée affirme que l’essence même de Victus Academy est l’offre conjointe du programme académique et du programme de hockey de jour. L’intimée dit que Victus Academy s’est organisée expressément pour offrir aux élèves qui jouent au hockey un programme académique et un programme de hockey de jour à une seule installation pendant la journée de classe. Selon l’intimée, cela est plus qu’une stratégie de marketing. Il s’agit de l’essence de Victus Academy. Par conséquent, selon l’intimée, les deux éléments font partie, ou sont une composante, intégrante d’une fourniture unique effectuée par Victus Academy pour ses élèves. Bien qu’en théorie un élève pourrait acheter les deux programmes séparément, il n’est pas pratique de conclure séparément le contrat pour le programme de hockey de jour, car il est exploité pendant la journée de classe.
+[35] Même si les deux thèses ont un certain mérite, il n’est pas nécessaire que je détermine si les services de Victus Academy au cours des périodes de déclarations visées par le présent appel constituaient une seule fourniture ou deux fournitures distinctes. À mon avis, cette détermination n’est pas pertinente. En d’autres termes, même si j’accepte que le programme académique et le programme de hockey de jour sont deux fournitures distinctes [11] , je conclus que les deux fournitures sont des services éducatifs comme le prévoit la partie III de l’annexe V de la LTA, et sont par conséquent des fournitures exonérées.
+2) Article 2 de la partie III
+[36] L’intimée appuie sa conclusion selon laquelle les services fournis par Victus Academy constituent une seule fourniture exonérée sur l’article 2 de la partie III de l’annexe V :
+La fourniture par une administration scolaire d’une province d’un service consistant à donner à des particuliers des cours s’adressant principalement aux élèves du primaire ou du secondaire.
+[37] Une administration scolaire est une institution qui administre une école primaire ou secondaire dont le programme d’études est conforme aux normes en matière d’enseignement établies par le gouvernement de la province où l’école est administrée : paragraphe 123(1) de la LTA. Chacun s’accorde à reconnaître que Victus Academy est une administration scolaire.
+[38] Un élève du primaire ou du secondaire est un particulier inscrit, dans une école administrée par une administration scolaire dans une province et à des cours d’enseignement primaire ou à des cours qui permettent d’obtenir des crédits menant à un diplôme ou à un certificat décerné ou approuvé par le gouvernement provincial, ou à des cours équivalents : article 1 de la partie III de l’annexe V de la LTA. Chaque élève inscrit au programme académique de Victus Academy est un élève du primaire ou du secondaire.
+[39] L’article 2 ne précise pas la nature des cours qui sont exonérés. Il est seulement requis que les particuliers reçoivent un enseignement dans un cours donné principalement à des élèves du primaire ou du secondaire et que l’enseignement soit donné par une administration scolaire.
+[40] Le mot « cours » n’est pas défini. Bien qu’il puisse être inhabituel d’utiliser le mot « cours » pour décrire un programme de hockey de jour, je mentionne que l’article 16 de la partie III fait référence à donner à des particuliers des cours, « sauf des cours de sports, jeux ou autres loisirs, conçus pour être suivis principalement à des fins récréatives ». Cela implique que la signification de « cours » de la partie III comprend l’entraînement dans des activités sportives et récréatives. En effet, même si cela n’a pas été abordé à l’audition, il est concevable que le programme de hockey de jour avait respecté la composante d’éducation physique du curriculum de l’Ontario pour les élèves de Victus Academy [12] .
+[41] Selon cet avis, une instruction dans des habilités en hockey et en conditionnement musculaire (comme des leçons dans d’autres activités récréatives ou des cours d’éducation physique) fournit par une administration scolaire principalement à des élèves du primaire et du secondaire pourrait être comprise dans l’article 2 de la partie III. Le programme de hockey de jour de Victus Academy est clairement principalement offert à ses élèves du primaire et du secondaire.
+[42] Ainsi, à mon avis, même si elles sont des fournitures distinctes, le programme de hockey de jour et le programme académique de Victus Academy semblent tous deux être des fournitures exonérées décrites à l’article 2 de la partie III de l’annexe V.
+3) Article 3 de la partie III
+[43] Cependant, il se pourrait que « cours » ait un sens plus étroit et qu’il n’inclue pas le programme de hockey de jour. Néanmoins, à mon avis, ce programme est une fourniture exonérée.
+[44] L’article 3 de la partie III de l’annexe V comprend une fourniture exonérée :
+La fourniture d’aliments ou de boissons (sauf ceux [...]), de services ou de droits d’entrée effectuée par une administration scolaire principalement au profit d’élèves du primaire ou du secondaire dans le cadre d’activités parascolaires qu’elle a autorisées et dont elle a la responsabilité.
+[45] Bien que cette disposition n’inclut pas des biens fournis par une administration scolaire, elle inclut des services. Le programme académique et le programme de jour offerts par Victus Academy sont des services.
+[46] Parascolaire n’est pas défini dans la LTA. Rien n’indique que cela devrait recevoir une signification spéciale ou technique. Par conséquent, la signification ordinaire du mot est pertinente. Parascolaire signifie :
+[traduction]
+« En marge de l’école. » (Le Petit Robert);
+« Qui est en relation avec l’enseignement scolaire sans en faire partie intégrante. » (Larousse).
+“(of an activity or subject of study) not included in the normal curriculum” (Canadian Oxford Dictionary).
+[47] Si le programme de hockey de jour offert par Victus Academy à ses élèves académiques est une fourniture distincte, elle est une fourniture exonérée décrite à l’article 3 de la partie III de l’annexe V. En d’autres termes, il s’agit d’une fourniture de services (entraînement sur glace et hors glace) effectuée par Victus Academy, une administration scolaire, principalement à ses élèves (académiques) du primaire et du secondaire au cours d’activités parascolaires (telles que définies ci-dessus). Comme les activités parascolaires ayant lieu à d’autres écoles, le programme de hockey de jour n’oblige pas tous les étudiants à y participer (même s’ils y avaient tous participé au cours des périodes de déclarations visées par le présent appel). Cette activité est organisée par Victus Academy conformément à sa responsabilité de remplir son obligation d’offrir un programme de hockey de jour aux termes de ses ententes avec les parents. Victus Academy a autorisé les deux entreprises tierces à fournir les services à ses étudiants en les embauchant afin de donner ce service et en leur fournissant les installations pour le faire.
+IV. CONCLUSION
+[48] Pour ces motifs, j’ai conclu que les services fournis par Victus Academy au cours des périodes de déclarations faisant l’objet du présent appel sont des fournitures exonérées. Par conséquent, l’appel de Victus Academy est rejeté sans frais.
+Signé à Ottawa, Canada, ce 10e jour de décembre 2020.
+« K.A. Siobhan Monaghan »
+La juge Monaghan
+RÉFÉRENCE :
+2020 CCI 134
+NO DU DOSSIER DE LA COUR :
+2019-350(GST)I
+INTITULÉ :
+VICTUS ACADEMY LP c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 12 novembre 2020
+MOTIFS DU JUGEMENT :
+L’honorable juge K.A. Siobhan Monaghan
+DATE DU JUGEMENT :
+Le 10 décembre 2020
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Amit Ummat
+Avocate de l’intimée :
+Me Rebecca L. Louis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Amit Ummat
+Cabinet :
+Ummat Tax Law
+Burlington (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Elle compte maintenant une programmation académique pour les élèves de la 5e à la 12e année.
+[2] Même si j’utilise le mot « programme » pour décrire les deux éléments du service offert par Victus Academy, cela est uniquement par souci de commodité et ne vise pas à indiquer s’ils sont considérés à juste titre comme des fournitures distinctes ou comme deux éléments d’une seule fourniture.
+[3] Appelé « hockey », « école de hockey », ou dans le cas d’une facture délivrée à un élève universitaire, « programme athlétique ». La nature de cette dernière facture est décrite ci-dessous.
+[4] Non mis à la disposition de la Cour.
+[5] Chaque entrée pour le revenu tiré du volet de hockey est de 2 000 $, à l’exception d’une entrée pour un élève dont les frais étaient inférieurs d’environ 68 %. Chaque élève recevait le même rabais sur les droits de scolarité pour le programme académique. M. Schmidt a indiqué que certains élèves recevaient une aide financière, ce qui pouvait expliquer le rabais. Cependant, peu importe la raison, il est clair que la personne participait aux deux éléments du programme de Victus Academy.
+[6] Les pièces de l’intimée incluaient une demande d’admission pour l’année scolaire 2017-2018, laquelle semble identique à celle de l’année d’imposition 2020-2021, à l’exception d’une référence à l’année académique.
+[7] M. Schmidt a effectivement décrit un joueur de hockey de la ligue locale que Victus Academy avait accepté, mais cela aussi semblait être exceptionnel. Il dit qu’ils étaient allés voir ses habiletés de hockey avant d’accepter sa demande d’admission. De plus, de très bons joueurs de hockey peuvent choisir de participer au hockey récréatif (non compétitif) pour plusieurs raisons non associées au niveau de compétences, comme une préoccupation à propos des commotions cérébrales ou à l’engagement en termes de temps requis.
+[8] La demande d’admission (2020-2021) est datée du 2 novembre, mais la facture qui lui a été remise porte sur les sessions qu’il a suivi en octobre 2020. Il est possible que l’élève ait continué de participer au-delà du mois d’octobre 2020, mais l’élément de preuve n’est pas particulièrement pertinent à mon avis puisqu’il s’agit d’activités qui ont eu lieu quatre ans après les périodes de déclaration visées par le présent appel.
+[9] J’observe également que la correspondance datée du 12 juillet 2018 envoyée à l’Agence du revenu du Canada au nom de Victus Academy mentionne que [traduction] « le programme de hockey de Victus a la capacité et il prévoit organiser des programmes de hockey et d’autres activités au cours de l’été ». [Non souligné dans l’original.] Ce libellé indique qu’aucun camp d’été n’a été organisé avant le 12 juillet 2018.
+[10] Les droits de scolarités du second élève étaient inférieurs à la moitié des droits de scolarité, et les droits du troisième élève étaient moins que 15 % des droits de scolarité.
+[11] Je n’exprime aucune opinion à ce sujet.
+[12] Il est possible que des élèves du secondaire gagnaient un ou plusieurs crédits en éducation physique vers l’obtention leur diplôme d’études secondaires pour leur participation au programme de hockey de jour.

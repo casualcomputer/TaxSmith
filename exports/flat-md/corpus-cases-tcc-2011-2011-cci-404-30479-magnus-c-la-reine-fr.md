@@ -1,0 +1,253 @@
+---
+title: "Magnus c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30479/index.do"
+last_modified: "2011-08-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 404"
+citation2: ""
+neutral_citation: "2011 CCI 404"
+decision_date: "2011-08-26"
+language: "fr"
+item_id: "30479"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7279
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:40:31.649000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9ab4188a45a095d409bab36398c237178d9467095b0d02f1099c1dfc0ec8acb9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Magnus c. La Reine
+
+- Citation: 2011 CCI 404
+- Decision date: 2011-08-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7279, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Magnus c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-08-26
+Référence neutre
+2011 CCI 404
+Numéro de dossier
+2009-2180(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2180(IT)G
+ENTRE :
+TIMOTHY H. MAGNUS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 18 et 19 juillet 2011, à Calgary (Alberta)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Robert Neilson
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L’appel interjeté à l’encontre de cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005 est accueilli, et les cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations au motif que l’appelant a le droit de déduire des frais d’intérêt et des frais financiers de 127 272,23 $ et de 74 306,71 $ pour les années d’imposition 2004 et 2005, respectivement.
+Le présent jugement modifié remplace le jugement daté du 26 août 2011.
+Signé à Toronto (Ontario), ce 9e jour de novembre 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2011 CCI 404
+Date : 20111109
+Dossier : 2009-2180(IT)G
+ENTRE :
+TIMOTHY H. MAGNUS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+La juge Woods
+[1] L’appelant, Timothy Magnus, avait demandé des déductions au titre de frais d’intérêt et de frais financiers relatifs à des biens immobiliers pour les années d’imposition 2004 et 2005. Dans les nouvelles cotisations établies pour ces années‑là, les déductions respectives de 190 600 $ et de 87 200 $ demandées dans les déclarations de revenus ont été refusées en totalité.
+[2] Les déductions ont principalement été refusées en raison du défaut de l’appelant de fournir quelque document justificatif que ce soit à l’étape de la vérification ou à celle de l’opposition. L’appelant rejette le blâme sur l’Agence du revenu du Canada (l’« ARC »). L’ARC aurait refusé d’examiner les documents chez l’appelant et insisté pour que l’appelant apporte les documents à ses bureaux.
+[3] La question relative à la production de documents a été réglée lors des interrogatoires préalables, lorsqu’une quantité considérable de documents ont été fournis par l’appelant.
+[4] À la suite de son examen des documents produits pendant les interrogatoires préalables, l’intimée a fait certaines concessions au début de l’instruction. Elle a reconnu qu’une somme de 77 173,14 $ était déductible pour l’année d’imposition 2004 et qu’une somme de 32 196,61 $ était déductible pour l’année d’imposition 2005. Ces sommes représentent généralement les frais d’intérêt et les frais financiers qui sont étayés par des pièces justificatives et qui concernent les biens à l’égard desquels l’appelant a déclaré un revenu de location dans ses déclarations de revenus pour les années d’imposition pertinentes.
+[5] Avant de passer à la question de savoir s’il y a lieu de permettre d’autres déductions, je ferai une observation concernant un avis de requête envoyé à la Cour par l’appelant un seul jour ouvrable avant l’audience.
+[6] Dans la requête, l’appelant demandait que les cotisations soient annulées pour des raisons liées à la conduite de l’ARC au cours du processus de vérification. La conduite de l’ARC n’est pas une raison suffisante pour annuler les cotisations. Pour ce motif, et comme les documents relatifs à la requête ont été déposés très tardivement, j’ai refusé d’entendre la requête.
+Questions en litige et fardeau de la preuve
+[7] Dans la réponse, l’intimée a cité l’alinéa 18(1)a) de la Loi de l’impôt sur le revenu (la « Loi ») à l’appui des cotisations. La disposition n’a pas été décrite dans la réponse, mais une description de celle‑ci a été fournie par l’ARC dans l’avis de ratification. La disposition est reproduite ci‑dessous.
+18(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+[8] Au début de l’audience, j’ai fait observer à l’avocat de l’intimée qu’il lui incombait d’établir qu’il n’y avait pas d’intention de gagner un revenu pour l’application de l’alinéa 18(1)a) de la Loi parce que les hypothèses figurant dans la réponse ne font pas mention de l’intention de gagner un revenu.
+[9] L’hypothèse pertinente, telle qu’elle est mentionnée dans la réponse, est ainsi libellée :
+[traduction]
+f) L’appelant n’a pas engagé des frais d’intérêt ou des frais financiers de 190 600 $ au cours de l’année d’imposition 2004 et de 87 200 $ au cours de l’année d’imposition 2005.
+[10] Il n’est nullement question de l’objet des dépenses dans l’hypothèse ci‑dessus. Il est bien établi que le fardeau d’un contribuable consiste seulement à réfuter les hypothèses énoncées dans la réponse : LeCaine c. La Reine, 2009 CCI 382, 2009 DTC 1246.
+[11] L’intimée s’oppose énergiquement à ce qu’on lui impose ce fardeau et allègue que plusieurs des biens n’étaient pas utilisés en vue de gagner un revenu. Elle soutient que l’hypothèse figurant à l’alinéa f) est suffisamment générale pour comprendre le critère de production de revenu et qu’il serait injuste d’imposer ce fardeau à l’intimée alors que l’appelant n’a fourni aucun document justificatif pendant le processus de vérification.
+[12] Je ne souscris pas aux arguments présentés.
+[13] Premièrement, l’hypothèse f) n’est pas assez générale pour englober les faits justifiant l’application de l’alinéa 18(1)a). L’intimée aurait pu éviter toute injustice découlant du fardeau qui lui incombe si elle avait formulé des hypothèses appropriées et les avait mentionnées dans la réponse.
+[14] Deuxièmement, les règles relatives aux hypothèses et au fardeau de la preuve sont bien établies et sont conçues pour permettre aux contribuables de connaître la preuve qu’ils doivent réfuter pour avoir gain de cause. La question fondamentale en est donc une d’équité. Il serait injuste pour l’appelant d’avoir la charge de réfuter des arguments qui ne sont pas mentionnés dans la réponse.
+[15] Troisièmement, cette affaire n’a rien d’exceptionnel. Le ministre doit souvent formuler des hypothèses concernant des dépenses d’entreprise qui n’ont pas été justifiées au cours du processus de vérification. En pareil cas, le ministre émet souvent plusieurs hypothèses : les dépenses alléguées n’ont pas été engagées, les dépenses n’ont pas été engagées en vue de gagner un revenu et, peut-être, les dépenses n’étaient pas raisonnables.
+[16] Je ne vois pas pourquoi il faudrait faire une exception en l’espèce à l’égard du fardeau de la preuve.
+[17] J’ai conclu que le fardeau de la preuve incombe à l’intimée en ce qui concerne les faits à l’appui de l’exigence de production de revenu figurant à l’alinéa 18(1)a).
+ANALYSE
+[18] À l’audience, l’appelant a témoigné pour son propre compte. À titre d’observation générale, j’estime que, dans l’ensemble, le témoignage n’était pas convaincant. Il n’était pas suffisamment détaillé ou convaincant pour être fiable et il semblait contredire certains des faits énoncés dans l’avis d’appel.
+[19] Cependant, en plus de témoigner, l’appelant a produit un grand nombre de pièces justificatives qui établissement clairement que des frais d’intérêt et des frais financiers ont été engagés par l’appelant ou par la société dont la totalité des actions lui appartenait.
+[20] Tout d’abord, je tiens à formuler un commentaire au sujet des dépenses que la société a peut‑être effectuées. L’appelant allègue que cela ne devrait pas l’empêcher de demander les déductions. Deux raisons ont été fournies à l’appui de cet argument : tout d’abord, l’appelant est devenu le propriétaire bénéficiaire de tous les biens immobiliers en 2003; ensuite, il a tiré un revenu de la société en contrepartie du paiement des dépenses.
+[21] Il se trouve qu’il n’est pas nécessaire que je me penche sur la question de savoir si l’appelant est devenu le propriétaire bénéficiaire de tous les biens. Il en est ainsi parce qu’aucune des dépenses déductibles ne concernait les biens qui appartenaient peut-être à la société.
+[22] Je commencerai par reproduire une partie de la déclaration écrite de l’appelant que celui-ci a lue lors de son témoignage (pièce A‑1). L’extrait ci-dessous décrit les biens immobiliers à l’égard desquels les déductions sont demandées.
+[traduction]
+Biens de placement
+4) Les biens immobiliers comprennent quatre unités situées au 610, 17e Avenue Sud‑Ouest [unités 302, 502, 600 et 602], trois unités situées au 317, 14e Avenue Sud‑Ouest [unités 701, 702 et 706], l’unité 601 située au 111, 14e Avenue Sud‑Est et deux maisons indépendantes [2925 Signal Hill Heights, et 434070, 2e Rue Est].
+5) Les biens condominiaux ont été acquis à des fins locatives ou personnelles. Au fil des ans, un revenu de location a été généré par chacun des biens condominiaux, même si aucun revenu de location n’a été produit en 2004 ou en 2005. [Voir le revenu de location pour les années 2002 et 2003.]
+6) Le bien situé au 434070 est une maison indépendante qui avait été offerte en location, mais nous avons découvert que le marché pour ce type de bien n’était pas rentable. Comme les locaux de la société étaient situés au 434070 en 2004 et en 2005, le bien constitue donc un placement d’entreprise où la « location » constitue une partie du revenu à l’annexe 4.
+7) Le bien situé au 2925 est une maison indépendante qui a été achetée dans le but d’offrir des « chambres » à louer. Le bien n’a généré aucun revenu de location en 2005 (l’année de son acquisition), mais, à l’heure actuelle, il s’agit d’une entreprise qui génère un revenu de location.
+[23] Avant d’examiner les biens plus en détail, j’aimerais formuler quelques observations générales.
+[24] Tout d’abord, selon la déclaration de l’appelant, les unités condominiales ont été acquises à des fins locatives ou personnelles. Cette déclaration est trop vague pour être utile, et le témoignage oral n’était pas assez clair. De plus, pendant les interrogatoires préalables, l’appelant a mentionné qu’il avait demeuré au bien situé au 2985 [traduction] « en 2005, en 2006 et jusqu’à aujourd’hui ». La déclaration de l’appelant est silencieuse à ce sujet.
+[25] Ensuite, il est mentionné dans la déclaration qu’un revenu de location a été gagné à l’égard de chacun des biens condominiaux. Cependant, dans l’avis d’appel, il est mentionné ce qui suit :
+[traduction]
+Le revenu de location déclaré par Tim Magnus a trait à la location d’un bien personnel, il ne concerne pas les biens gérés par la société.
+Il est peut-être possible de faire concorder les déclarations, mais la preuve n’a pas permis de le faire de façon satisfaisante.
+[26] En outre, dans la déclaration, on renvoie, à l’appui de celle‑ci, aux revenus de location pour les années 2002 et 2003. Cependant, les seuls documents fournis à l’appui sont un document sans titre dans lequel on semble faire état du revenu de location qui aurait été gagné en 2002 et en 2003 (pièce A‑2). Je n’ai accordé aucun poids à ce document, car je ne le juge pas fiable. Plus particulièrement, le document ne figurait pas dans la liste de documents de l’appelant, et l’intimée n’a pas eu pleinement le temps d’en apprécier la fiabilité.
+[27] De même, dans la déclaration ci‑dessus, il est mentionné que, à l’heure actuelle, le bien situé au 2925 est une entreprise qui génère un revenu de location. Aucun document à l’appui n’a été fourni à l’égard de cette assertion.
+[28] J’examinerai maintenant chaque groupe de biens.
+[29] Le premier groupe mentionné dans la déclaration de l’appelant est le groupe composé des quatre unités condominiales situées au 610, 17e Avenue Sud‑Ouest (les « biens situés au 610 »). L’intimée a concédé les frais d’intérêt, les frais de condominium et les taxes relatifs à trois des biens faisant partie de ce groupe. Je ne sais pas pourquoi les dépenses n’ont pas aussi été concédées pour le quatrième bien, soit l’unité 502. Cette unité a été vendue au début de la période pertinente, et les frais d’intérêt et les frais financiers y afférents sont peu élevés.
+[30] Je propose de permettre la déduction des frais d’intérêt et des frais financiers afférents aux quatre unités faisant partie des biens situés au 610.
+[31] Le deuxième groupe est formé des trois unités condominiales situées au 317, 14e Avenue Sud‑Ouest (les « biens situés au 317 »). Les dépenses relatives à ces biens n’ont pas été concédées par l’intimée parce qu’aucun revenu de location n’a été déclaré au cours des années d’imposition pertinentes à l’égard de ces biens. En d’autres mots, l’intimée laisse entendre que les biens n’ont pas été utilisés en vue de gagner un revenu.
+[32] Le fait qu’aucun revenu de location n’a été déclaré en 2004 ou en 2005 n’est pas suffisant pour refuser de déduire les frais d’intérêt et les frais financiers. Selon le propre témoin de l’intimée, un revenu de location a été déclaré par l’appelant en 2002 et en 2003. À moins que l’intimée ne présente des éléments de preuve établissant que le revenu ne concernait pas les biens, je conclurai que l’intimée ne s’est pas acquittée du fardeau d’établir les faits à l’appui de l’application de l’alinéa 18(1)a) à l’égard du groupe de biens.
+[33] Il est également pertinent de prendre en considération que le fait d’avoir un portefeuille comportant un nombre assez important de biens donne fortement à penser que les biens sont utilisés à des fins commerciales. L’intimée a fait mention d’éléments de preuve attestant que l’entreprise était en cours de liquidation, et on a laissé entendre que la source de revenu avait disparu. Je ne partage pas ce point de vue. Si des biens ont initialement été acquis dans le but de gagner un revenu, l’utilisation du bien ne change pas pendant la période de liquidation.
+[34] Je propose de permettre la déduction des frais d’intérêt et des frais financiers afférents à ces biens, sauf les dépenses relatives à l’unité 701, que l’appelant a considérées comme des dépenses personnelles dans la pièce A‑3.
+[35] Le prochain groupe est composé d’un seul bien, soit l’unité condominiale 601, qui est située au 111, 14e Avenue Sud‑Est (le « bien situé au 601 »).
+[36] L’intimée a concédé les frais d’intérêt, les frais de condominium et les taxes relatifs au bien pour les années d’imposition 2004 et 2005, même si l’appelant allègue que les dépenses effectuées après février 2005 sont des dépenses personnelles.
+[37] Je propose de permettre la déduction des frais d’intérêt et des frais financiers afférents au bien situé au 601 pour les années d’imposition 2004 et 2005. Pour les dépenses engagées après février 2005, le montant déductible sera le montant concédé par l’intimée.
+[38] Le prochain groupe de biens est aussi composé d’un seul bien, soit une maison indépendante située au 2925, Signal Hill Heights (le « bien situé au 2925 »). La valeur de ce bien est bien plus élevée que celle des unités condominiales, et des dépenses plus élevées ont été engagées à l’égard de ce bien.
+[39] Je rappelle que l’appelant a mentionné pendant les interrogatoires préalables qu’il vivait dans cette maison depuis « 2005, 2006 » et qu’il y demeurait toujours.
+[40] Les éléments de preuve qui ont été présentés par l’intimée sont, à mon avis, suffisants pour permettre à cette dernière de démontrer, à première vue, que le bien situé au 2925 était un bien à usage personnel qui n’avait pas été acquis en vue de gagner un revenu.
+[41] L’appelant a mentionné dans la pièce A‑1 qu’il avait fait l’acquisition du bien en 2005 dans le but d’offrir des [traduction] « chambres » à louer et qu’il tirait maintenant un revenu de location du bien. L’appelant aurait facilement pu fournir des éléments de preuve corroborant son affirmation, par exemple ses déclarations de revenus. En l’absence de documents à l’appui, je n’accepte pas la preuve intéressée selon laquelle le bien a été acquis en vue d’en tirer un revenu.
+[42] La déduction demandée à l’égard des dépenses relatives au bien 2925 sera refusée.
+[43] Le dernier bien en question est situé au 434070, 2e Rue Est (le « bien Oka Toks »).
+[44] Il n’y a guère de preuves dignes de foi concernant ce bien. Selon la déclaration de l’appelant figurant à la pièce A‑1, celui‑ci a essayé de louer le bien, mais sans succès. J’ai accordé peu de poids à la preuve de l’appelant sur ce point, car elle était trop brève pour être convaincante.
+[45] Dans la déclaration, l’appelant poursuit en mentionnant que les locaux de la société étaient situés à cet endroit en 2004 et en 2005. Toutefois, lors du contre‑interrogatoire, l’appelant a laissé entendre qu’il n’y avait personne sur les lieux et que les locaux étaient simplement utilisés pour entreposer des meubles et du matériel.
+[46] Même si l’appelant n’a présenté aucune preuve digne de foi concernant ce bien en particulier, j’ai conclu que la déduction des frais d’intérêt et des frais financiers devait être permise parce qu’il incombait à l’intimée d’établir qu’il n’y avait pas d’intention de gagner un revenu. Dans l’ensemble, la preuve présentée par l’intimée, que ce soit lors de l’interrogatoire principal ou lors du contre‑interrogatoire, n’était pas assez détaillée pour me donner une idée de ce à quoi devait servir le bien Oka Toks ou, en fait, de ce à quoi il a servi.
+[47] Je conclus que les frais d’intérêt et des frais financiers relatifs au bien Oka Toks sont déductibles.
+[48] Pour résumer, la déduction des frais d’intérêt et des frais financiers sera permise à l’égard de tous les biens, sauf l’unité 701 qui fait partie des biens situés au 317 et le bien situé au 2925 (les « biens admissibles »).
+[49] Reste à déterminer le montant approprié des frais d’intérêt et des frais financiers. Il est très difficile de déterminer les chiffres appropriés à partir des pièces justificatives et de la liste des dépenses figurant à la pièce A‑3. Par exemple, les dépenses figurant à la pièce A‑3 comprennent les remboursements du principal, et aucun calcul détaillé n’a été fourni à l’égard de ceux‑ci.
+[50] D’après la déclaration de l’appelant (pièce A‑1), les types de dépenses suivants sont déclarés à titre de déductions :
+1) intérêt hypothécaire et frais bancaires,
+2) frais exigés par les associations condominiales,
+3) taxes et frais municipaux,
+4) frais de conclusion des ventes (frais de courtage, frais juridiques, assurance de titres, frais bancaires, etc.),
+5) frais juridiques afférents aux actions intentées relativement aux biens et à une entreprise d’informatique exploitée par sa société.
+[51] Les trois premiers éléments sont admissibles à titre de frais d’intérêt ou de frais financiers et leur déduction doit être permise à l’égard des biens admissibles.
+[52] Les montants doivent être déterminés en fonction de la liste des dépenses qui a été dressée par l’appelant au cours de l’instance et déposée en preuve sous la cote A‑3 (le « registre »).
+[53] J’ai examiné un assez grand nombre de pièces justificatives pour vérifier la liste. Même si j’ai estimé que le registre correspondait de très près aux pièces justificatives, j’ai aussi trouvé des divergences qui ne pouvaient pas être éliminées. Par exemple, l’appelant a déduit des paiements hypothécaires pour le bien situé au 2925 pour une période de dix mois, alors que les pièces justificatives relatives à l’hypothèque ne font état que de neuf paiements hypothécaires. J’ai décidé qu’il était approprié de réduire arbitrairement de 10 p. 100 les montants par ailleurs déductibles pour tenir compte des divergences possibles.
+[54] Compte tenu de la réduction découlant des divergences, les frais d’intérêt et les frais financiers pour les biens admissibles doivent être déterminés en fonction des dépenses énumérées dans la pièce A‑3 en ce qui concerne les paiements hypothécaires (moins le principal), les paiements pour les frais de condominium et les taxes.
+[55] L’appelant veut aussi déduire des frais de vente. Ces frais ne sont ni des frais d’intérêt ni des frais financiers, et je n’ai pas l’intention d’en permettre la déduction.
+[56] L’appelant a allégué que ces dépenses sont des dépenses déductibles ordinaires. Je ne partage pas son avis. Les biens ont été déclarés et acceptés en tant qu’immobilisations. Les frais de vente doivent être déduits dans le calcul des gains en capital et ne sont pas des frais engagés dans le but ordinaire de gagner un revenu. Cela ressort sans équivoque du paragraphe 9(3) de la Loi.
+[57] Lorsque j’ai décidé de refuser la déduction de ces dépenses, j’ai aussi tenu compte des ententes écrites (pièce A‑4), dans lesquelles il est mentionné que la société augmentera les paiements d’intérêt à l’appelant si celui‑ci s’acquitte d’obligations à l’égard des biens (y compris les [traduction] « frais juridiques et les frais de vente »).
+[58] Les ententes donnent à penser que les frais de vente ont été engagés dans le but de gagner un revenu. Cependant, je ne suis pas convaincue de la fiabilité de ces ententes. Elles ne comportent aucune date d’exécution et elles semblent contredire la déclaration suivante qui figure dans l’avis d’appel :
+[traduction]
+5. Chaque année, la société verse un montant à Tim Magnus à l’égard du total du prêt de l’actionnaire et déclare des frais financiers déductibles, de façon à ce qu’il n’y ait pas de « déduction double » pour les frais financiers. Les frais financiers sont limités aux frais d’intérêt et aux frais de condominium payés par Tim Magnus.
+[Non souligné dans l’original.]
+[59] J’ajoute également que les ententes sont des documents produits par une partie intéressée et qu’elles ne sont pas étayées par des documents financiers à jour de la société. La société n’a pas produit de déclaration de revenus depuis environ 2001.
+[60] Enfin, je suis préoccupée par le fait que la question des frais de vente n’a pas été dûment soulevée dans l’avis d’appel. Il serait injuste pour l’intimée que l’appelant demande maintenant un allégement à l’égard de ces dépenses.
+[61] La prochaine catégorie de dépenses est celle concernant les frais juridiques. À ma connaissance, dans aucun cas les frais juridiques n'étaient étayés par des factures. Il ne serait pas approprié de permettre la déduction de ces dépenses sans la présence de pièces justificatives adéquates en ce qui concerne les dépenses engagées.
+[62] Enfin, j’ai refusé une déduction de 40 000 $ demandée à l’égard de deux chèques faits à une société dénommée Rock Solid Investors Group. Les documents à l’appui ne sont pas suffisants pour établir ce que ces montants représentent. L’appelant a mentionné dans la pièce A‑3 qu’il s’agissait de frais de courtage. Les montants sont aussi mentionnés indirectement dans des lettres d’avocat en tant que frais de consultation. Je ne suis pas convaincue de ce que ces éléments représentent.
+[63] Où cela nous mène-t-il? J’ai essayé de calculer les montants qui sont déductibles conformément aux présents motifs. Les montants, qui sont fondés sur les chiffres figurant dans le registre, sont exposés ci‑après :
+Année d’imposition 2004
+Frais d’intérêt et frais financiers
+Dépenses totales
+252 268,23 $
+Moins - usage à des fins personnelles
+18 112,64
+- remboursements du principal
+36 303,92
+- frais de vente
+16 436,97
+- paiements à Rock Solid
+40 000,00
+Sous-total
+141 414,70 $
+Moins – réduction de 10 p. 100
+14 141,47
+Total
+127 273,23 $
+Année d’imposition 2005
+Frais d’intérêt et frais financiers
+Dépenses totales
+188 785,25 $
+Moins - usage à des fins personnelles
+17 151,26
+- remboursements du principal
+23 783,15
+- frais de vente
+58 331,29
+- intérêt hypothécaire et taxes relatifs au bien 2925
+16 262,46
+Plus - concession relative au bien 601 en sus du montant déclaré dans le registre (si on tient compte du fait que le tiers du paiement hypothécaire concerne le principal)
+9 305,92
+Sous-total
+Moins - réduction de 10 p. 100
+Total
+82 563,01 $
+8 256,30 $
+74 306,71 $
+[64] L’appel sera donc accueilli conformément aux présents motifs.
+[65] Je voudrais donner la possibilité aux parties de présenter des observations concernant les dépens. Les observations, s’il y a lieu, doivent être envoyées à la Cour dans une lettre adressée au coordonnateur des audiences, et une copie de la lettre doit être envoyée à la partie adverse. L’appelant peut présenter ses observations à la Cour dans les deux semaines suivant la date de la présente décision. L’intimée bénéficiera alors de deux semaines supplémentaires pour préparer une réponse, et l’appelant disposera de cinq jours pour exercer son droit de réplique.
+Les présents motifs du jugement modifiés remplacent les motifs du jugement datés du 26 août 2011.
+Signé à Toronto (Ontario), ce 9e jour de novembre 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2011 CCI 404
+No DU DOSSIER DE LA COUR : 2009-2180(IT)G
+INTITULÉ : TIMOTHY H. MAGNUS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATES DE L’AUDIENCE : Les 18 et 19 juillet 2011
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT MODIFIÉ : Le 9 novembre 2011
+DATE DES MOTIFS DU JUGEMENT
+MODIFIÉS : Le 9 novembre 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Robert Neilson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)

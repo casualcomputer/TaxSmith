@@ -1,0 +1,227 @@
+Title: Carcone v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30624/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-550-30624-carcone-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-12-02
+
+# Carcone v. The Queen
+
+- Citation: 2011 TCC 550
+- Decision date: 2011-12-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7118, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carcone v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-12-02
+Neutral citation
+2011 TCC 550
+File numbers
+2011-530(IT)APP
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-530(IT)APP
+BETWEEN:
+JAMES CARCONE,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on June 16, 2011 at Toronto, Ontario.
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Applicant:
+Ladislav Beganyi
+Counsel for the Respondent:
+Ricky Y.M. Tang
+____________________________________________________________________
+ORDER
+The Applicant’s application for an order extending the time within which notices of objection to the reassessments may be filed is dismissed on the grounds that no such order is required as the Minister has failed to prove either the existence or date of mailing of the Notices of Reassessment.
+The Applicant is awarded his costs.
+Signed at Vancouver, British Columbia, this 1st day of December 2011.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2011TCC550
+Date: 20111201
+Docket: 2011-530(IT)APP
+BETWEEN:
+JAMES CARCONE,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+D'Arcy J.
+[1] The Applicant, James Carcone, has made an application under section 166.2 of the Income Tax Act (the “Act”) for an order extending the time within which notices of objection may be filed with regard to two reassessments that the Minister of National Revenue (“the Minister”) asserts he made on December 31, 2003 (the “Reassessments”). The Reassessments are in respect of the Applicant’s 1999 and 2000 taxation years.
+[2] The Applicant previously made an application to the Minister under section 166.1 of the Act for an extension of time within which to serve on the Minister a Notice of Objection for his 1999 and 2000 taxation years. The Minister refused the Application.
+[3] The first issue before the Court is whether the Reassessments were mailed to the Applicant on December 31, 2003 or sent to him at any other time. The second issue is, if the Reassessments were mailed to Mr. Carcone, were they mailed to his authorized mailing address.
+[4] I heard from three witnesses: the Applicant; his accountant, Mr. Carmine Rossi; and Mr. Michael Coombs, a Canada Revenue Agency (“CRA”) collections enforcement officer.
+[5] I found Mr. Carcone and Mr. Rossi to be credible witnesses. I will discuss Mr. Coombs’ testimony in the course of my reasons for judgment.
+Summary of Facts
+[6] Mr. Carcone testified that he first became aware of the Reassessments in early 2004 when he received a letter from the CRA informing him that he was in arrears in his income tax payments. He contacted Mr. Rossi and asked him to pursue the matter with the CRA.
+[7] Mr. Rossi testified that he contacted the CRA on numerous occasions in 2004 and 2005 in an attempt to obtain a copy of the Reassessments. He was not successful.
+[8] Mr. Carcone testified that he also attempted to obtain copies of the Reassessments from the CRA. He noted that his efforts continued into the summer of 2010 when he sought assistance from his Member of Parliament. Mr. Carcone testified that the first time he saw a copy of the Reassessments was a few days before the hearing of this application when he received the Respondent’s book of documents.
+[9] Mr. Carcone has resided at 3629 Birchmeadow Crescent in Mississauga, Ontario (the “Birchmeadow address”) since 1984. Mr. Carcone noted that since 1984 his authorized mailing address for the purpose of his personal income taxes has been the Birchmeadow address. Since 1984, the Birchmeadow address is the only address that has appeared on his personal tax returns; he has never filed any other address with the CRA and has never requested that his address be changed.
+[10] Mr. Carcone owns 50% of the shares of J.C. Carcone Carpenters Corporation (the “Corporation”). His spouse owns the remaining 50% of the shares. The Corporation carries on the business of providing general contracting services relating to construction.
+[11] The Corporation has reported three different mailing addresses to the CRA. Prior to July 2003, the authorized mailing address for the Corporation was the Birchmeadow address. The Corporation changed its authorized mailing address to 102 Lakeshore Road East, Mississauga, Ontario (the “Lakeshore address”) in June 2003 and to 2395 Cawthra Road, Mississauga, Ontario in October 2004.[1]
+[12] The fact that the Corporation changed its address is relevant for the purposes of this application since it was the Respondent’s evidence that the CRA changed the authorized mailing address of the Applicant to the Lakeshore address.[2] It was the Respondent’s evidence that this change occurred on May 25, 2004 and continued until April 21, 2005.[3]
+[13] There was no evidence before the Court that the Applicant authorized or otherwise initiated the change in his personal mailing address. It appears that the CRA changed the address in error.
+[14] The Respondent filed with the Court the affidavit of Mr. Coombs. Mr. Coombs also testified at the hearing and was cross-examined on his affidavit and his evidence-in-chief. Mr. Coombs’ affidavit states that the CRA mailed the Reassessments to the Applicant at the Birchmeadow address on the date they were issued, December 31, 2003. Mr. Coombs states in his affidavit that the CRA also mailed the Reassessments to the Applicant on June 11, 2004 and faxed them to the Applicant at his Birchmeadow address on April 21, 2005.
+Summary of Law
+[15] The Court may not grant an application made under section 166.2 of the Act unless the Applicant has previously made an application to the Minister under section 166.1 for an extension of the time for serving a notice of objection.
+[16] Paragraph 166.2(5)(a) of the Act provides that no application shall be granted by the Court under section 166.2 unless “the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection . . .”
+[17] The time limit for serving a notice of objection is prescribed in subsection 165(1) of the Act, which, during the relevant period, read as follows:
+A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a testamentary trust, on or before the later of
+(i) the day that is one year after the taxpayer's filing-due date for the year, and
+(ii) the day that is 90 days after the day of mailing of the notice of assessment; and
+(b) in any other case, on or before the day that is 90 days after the day of mailing of the notice of assessment.
+[18] In the application herein, the date from which the calculation of time must be done is the day of mailing of the notice of the reassessment.[4]
+[19] Where a taxpayer such as the Applicant alleges that a notice of reassessment was not mailed or otherwise communicated to him, the Minister bears the burden of establishing that the notice was in fact mailed or otherwise communicated to the taxpayer. As the Federal Court of Appeal noted in Aztec Industries Inc. v. Canada, [1995] F.C.J. No. 535 (QL), [1995] 1 C.T.C. 327, 95 DTC. 5235 (“Aztec”), at paragraph 10 (QL), “. . . the facts are peculiarly within his knowledge and he alone controls the means of adducing evidence of them. A number of statutory provisions recognize the Minister's burden in this respect and are clearly designed to alleviate it.”
+[20] The Applicant also argued that if the CRA mailed the Reassessments, it did not mail them to his authorized mailing address.
+[21] In The Queen v. 236130 British Columbia Ltd., 2006 FCA 352, 2007 DTC 5021, the Federal Court of Appeal stated the following, at paragraph 22, with respect to the effect of the Minister mailing a notice of assessment to an incorrect address:
+In the end, the reassessments were mailed to the wrong address on both occasions. As was stated in L.B. Scott v. M.N.R. [1960] C.T.C. 402 (Ex. Ct.) (Scott) at p. 417:
+. . . it is in my opinion also to be inferred that Parliament never intended that such a notice could be given effectively by the “mailing” of it to the taxpayer at some wrong or fictitious address, and I find nothing in the statute to suggest that a taxpayer should be bound by an assessment or fixed with notice of assessment upon the posting of a notice thereof addressed to him elsewhere than at his actual address or at an address which he has in some manner authorized or adopted as his address for that purpose.
+[22] The onus is therefore on the Minister to show that the Reassessments were sent to his authorized mailing address.
+Application of the Law to the Facts
+[23] It is the Applicant’s position that the Reassessments were never mailed or otherwise sent to him.
+[24] The Respondent provided evidence to support her position that the Reassessments were mailed to the Applicant on December 31, 2003, the date they were originally issued by the Minister, that they were mailed a second time on June 11, 2004, and that they were faxed to the Applicant on April 21, 2005.
+[25] The Court must consider all three dates. As my colleague Justice Bowie noted in Central Springs Ltd. et al. v. The Queen, 2006 TCC 524, 2006 DTC 3597 at paragraph 9, “The law is settled that when notices of assessment are not mailed but come to the attention of the taxpayer by personal delivery then the time within which they may be objected to starts to run with that personal delivery.”
+[26] Before considering the evidence before the Court, I will discuss whether Mr. Coombs’ affidavit satisfies the conditions of subsections 244(9) and 244(10) of the Act.
+[27] Subsections 244(9) and 244(10) of the Act are frequently used by the Minister to present evidence to the Court. Subsection 244(9) provides that an affidavit in which an officer of the CRA sets out that he has charge of the appropriate records and that a document annexed to the affidavit is a document or true copy of a document, or a printout of an electronic document, made by or on behalf of the Minister[5] or by or on behalf of a taxpayer is evidence of the nature and contents of the document.
+[28] Subsection 244(10) of the Act provides that an affidavit of an officer of the CRA that sets out that he has charge of the appropriate records and has knowledge of the practice of the CRA may be used as evidence of statements contained in the affidavit that relate to whether a notice of objection to, or appeal from, an assessment was received within the time allowed under the Act.
+[29] Paragraph 1 of the affidavit of Mr. Coombs states the following:
+1. I am employed as an officer with the Toronto West TSO of the Canada Revenue Agency (the “CRA”) and had carriage of this matter on behalf of the CRA. As such, I have personal knowledge of the facts set out below, save and except what is stated to be on information and belief, and where so stated, I believe that information to be true. Where I have referred in my affidavit to information without expressly disclosing the source, the information was derived either from my first-hand knowledge or from my review of the CRA’s file relating to James Carcone (the “Applicant”).
+[30] Mr. Coombs testified that he is a collections enforcement officer with the CRA who had carriage of the Applicant’s file for three months, from August 2009 to October 2009.
+[31] Mr. Coombs did not state in his affidavit that he had charge of the appropriate CRA records. Further, it was clear from his testimony that he did not have charge of the records. As a result, the Respondent cannot rely on subsections 249(9) or (10) of the Act.
+The alleged mailing of the Reassessments on December 31, 2003
+[32] The Respondent relied on the following evidence to support her position that the Reassessments were mailed on December 31, 2003 to the Applicant’s authorized address:
+a. The affidavit and oral testimony of Mr. Coombs with respect to the mailing practices of the CRA.
+b. Reconstructed Notices of Reassessment (Exhibits R-2 and R-3).
+c. A printout of the CRA’s electronic record of the Applicant’s authorized mailing address (Exhibit A-6).
+[33] Mr. Coombs described, at pages 12 and 13 of his affidavit, the CRA’s mailing practices with respect to income tax assessments. This description is attached to these reasons as Schedule A.
+[34] Mr. Coombs testified that the description was not based upon his personal knowledge. It was based upon a discussion he had had with a manager at the CRA’s Initial Processing Unit, located in Ottawa, Ontario.
+[35] Mr. Coombs stated the following during his examination-in-chief by the Respondent’s counsel:
+Q. Would you turn to page 12, please, to paragraphs (a) to (h), which continue on page 13. What steps did you take to confirm that the information contained within these two pages is correct?
+A. What I did was contact a manager at the Initial Processing Unit in Ottawa. Do you want her name?
+Q. Yes, please.
+A. Her name is Marie-Josée Gagne. She confirmed for me that this is the process. I am not in the Mailing Unit, so I have no idea how the process works. She clarified these issues for me so that I could complete the affidavit.[6]
+[Emphasis added.]
+[36] Clearly, the evidence provided by Mr. Coombs with respect to the CRA’s mailing procedures was hearsay evidence. This Court and the Federal Court of Appeal have, in certain situations, allowed such hearsay evidence.
+[37] The Federal Court of Appeal, in Kovacevic v. The Queen, 2003 FCA 293 at paragraph 16, noted the following:
+I accept that when legislation requires that documents be sent by a large organization such as a government department by ordinary mail, but does not require registered or certified mail or evidence of a more formal means of sending, the observation of Bowman J. in Schafer is reasonable. Generally, it would be sufficient to set out in an affidavit, from the last individual in authority who dealt with the document before it entered the normal mailing procedures of the office, what those procedures were. . . .
+[38] The Federal Court of Appeal’s comments recognize that, in most instances, the person who sent the particular notice of assessment will not be available to testify. As a result, this Court and the Federal Court of Appeal have allowed the CRA to discharge its evidentiary burden by providing affidavits or calling a witness to testify as to the ordinary mailing procedure for a notice of assessment.[7]
+[39] However, such hearsay evidence is only allowed when it meets the tests of reliability and necessity. These tests are not met in the present application.
+[40] The Court was not provided with the name of the last person in authority who dealt with the Applicant’s Notices of Reassessment. Instead, the Respondent produced Mr. Coombs, who admitted that he had “no idea” how the CRA mailing process worked. It is my view that, at a bare minimum, the tests of reliability and necessity require the Respondent to produce a witness who has knowledge of the CRA’s mailing practices with respect to notices of assessment.
+[41] The necessity of providing such a witness can been seen by reviewing the following statements made by Mr. Coombs at paragraphs a), b) and c) on page 12 of his affidavit,
+a) income tax assessments are processed electronically in our computer system and the information is released electronically to the Media Services Print Shop of the Electronic and Print Media Directorate in a Daily Assessing Schedule (“DAS”) for printing of the Notices of Reassessment and . . . the date of the notice is post dated to the date of mailing; and
+b) James Carcone’s, (the Applicant) Notices of Reassessment for the 1999 and 2000 taxation years were released in DAS 71 with the notices post-dated to December 31, 2003;
+c) there is no record of any problems with the download of information pertaining to this DAS.
+[42] These statements were crucial to the Respondent’s case. However, since the Respondent’s only witness, Mr. Coombs, had no knowledge of the CRA’s mailing process, it was not possible to determine the reliability of the statements.
+[43] Mr. Coombs testified that he based his statements solely on the information provided to him by a Ms. Gagné. Mr. Coombs did not explain, in either his affidavit or his testimony, how Ms. Gagné determined that the Applicant’s Notices of Reassessment were part of DAS 71 or how she determined that DAS 71 did not encounter any problems on that specific day.
+[44] Further, attempts by counsel for the Applicant to test, on cross-examination, the reliability of the statements Mr. Coombs made on pages 12 and 13 of his affidavit proved fruitless. This can be seen from the following exchange between Mr. Coombs and counsel for the Applicant:
+Q. Mr. Coombs, still referring back to your paragraph 17, which deals with the mailing practices, in subparagraph (b) you state:
+"James Carcone's Notices of Reassessment for the 1999 and 2000 taxation years were released in DAS 71 with the notices post-dated to December 31, 2003."
+Is that correct?
+A. That is what I was informed, yes.
+Q. This all came from Ms Gagne?
+A. Correct.
+Q. Are you aware, sir, that, when the CRA issues a reassessment initially, they actually put down a batch number, and that batch number is taped onto the actual T2 return of the year in question when the assessment was issued?
+A. I am not.[8]
+[Emphasis added.]
+[45] In addition, the evidence before the Court raises general concerns with respect to the reliability of the evidence provided in Mr. Coombs’ affidavit. The affidavit contained a number of statements which were shown on cross‑examination to be either incorrect or not within Mr. Coombs’ knowledge. The remaining part of my reasons provides examples of the numerous incorrect statements contained in the affidavit.
+[46] In summary, the description in Mr. Coombs’ affidavit of the CRA’s mailing practices is hearsay evidence. The evidence before me does not support a finding that this hearsay evidence was either reliable or necessary. As a result, I have given it no weight.
+[47] In an attempt to meet her burden, the Respondent also produced reconstructed Notices of Reassessment (Exhibits R-2 and R-3). Such evidence does not help the Respondent; evidence that the CRA generated notices of reassessment is not evidence that the CRA mailed the Reassessments to a taxpayer at his authorized mailing address.
+[48] For the foregoing reasons I have concluded that the Respondent has not met the burden of establishing that the Reassessments were mailed to the Applicant on December 31, 2003.
+[49] I also wish to note that the Respondent has also not shown that, if the Reassessments were mailed, they were mailed to the Applicant’s authorized mailing address.
+[50] The Respondent relied on the reconstructed Notices of Reassessment and the affidavit evidence and oral testimony of Mr. Coombs to support her position that the CRA mailed the Reassessments on December 31, 2003 to the Applicant’s authorized mailing address.
+[51] During his examination-in-chief, Mr. Coombs confirmed that the address on the reconstructed Notices of Reassessment was, in the words of counsel for the Respondent, “where this notice of reassessment would have been sent”[9].
+[52] During cross-examination, Mr. Coombs stated, in the first instance, that the address that appeared on the reconstructed Notices of Reassessment, that is, the Birchmeadow address, would have appeared on the original Notices of Reassessment. However, he then admitted that the address that appeared on the reconstructed Notices of Reassessment was the address that was contained in the relevant CRA file at the time the reconstructed Notices of Reassessment were printed. He also admitted that there was no way of knowing if the Notices of Reassessment were mailed to the Birchmeadow address or another address that may have been contained in the relevant CRA file at the time of the alleged mailing of the Notices of Reassessment.[10]
+[53] In light of this testimony, it is clear that reconstructed Notices of Reassessment cannot be used to prove the address that appeared on the original Notices of Reassessment.
+[54] The Respondent also relied on an extract from the CRA’s internal records and on paragraphs 13 and 17 of Mr. Coombs’ affidavit as evidence that the authorized mailing address of the Applicant was the Birchmeadow address from October 22, 1992 to May 24, 2004, the Lakeshore address from May 25, 2004 to April 20, 2005 and the Birchmeadow address after April 20, 2005.
+[55] Paragraph 13 of Mr. Coombs’ affidavit states the following:
+13. A careful examination and search of the records of the CRA shows that, on May 25, 2004, the Applicant’s address on the CRA file had been changed to 102 Lakeshore Road East, Mississauga, Ontario L5G 1E8 (“Lakeshore”) as a result of the Applicant’s indication on this T1 Tax Return filing.
+[Emphasis added.]
+[56] On cross-examination, Mr. Coombs admitted that he did not examine the relevant T1 tax return, the Applicant’s 2003 T1 tax return. He based his statement in the affidavit solely on an examination of an internal system of the CRA that is referred to as the RAPID system.[11]
+[57] The Respondent included the relevant extract from the RAPID record in her book of documents.[12] The document is entitled, Individual Identification, Mailing Address, Historic View. This document shows the Birchmeadow address as the Applicant’s mailing address from October 22, 1992 to May 24, 2004. It shows that the Applicant’s mailing address was changed to the Lakeshore address on May 25, 2004. The source of the change is shown as “T1 Return”.
+[58] The difficulty for the Respondent is that the Applicant produced his 2003 T1 income tax return,[13] which shows the Birchmeadow address as his mailing address.
+[59] On the evidence before me, it is clear that the excerpt from the CRA’s RAPID system and paragraph 13 of Mr. Coombs’ affidavit are incorrect. The applicant did not change his address on his 2003 T1 income tax return. The CRA changed the Applicant’s authorized mailing address in error.
+[60] Since the entry in the RAPID system is erroneous, I can place no weight on the document, including the reference to the date the CRA changed the Applicant’s mailing address. The Respondent has produced no reliable evidence to show why the address was changed. However, I note that the Corporation changed its address to the Lakeshore address in July 2003. This raises the question whether the CRA changed the Applicant’s address in July 2003 (prior to the alleged mailing of the Notices of Reassessment) as opposed to the date asserted by the CRA, namely May 25, 2004 (after the alleged mailing).
+[61] For the foregoing reasons, the Minister has not shown that, if the Reassessments were mailed on December 31, 2003, they were mailed to the correct mailing address.
+The alleged mailing of the Reassessments on June 11, 2004
+[62] Mr. Coombs states the following at paragraph 14 of his affidavit:
+14. A careful examination and search of the records of the CRA shows that on June 11, 2004, the Applicant Requested another copy of the Notices of Reassessment and thus the CRA has re-printed and mailed out on the same day, a copy of Notices of Reassessment as requested by the Applicant.
+[63] Mr. Coombs admitted, during cross-examination, that this statement was incorrect. He acknowledged that the CRA employee who received the request on June 11, 2004 did not have the authority to reprint the Reassessments.[14]
+[64] Mr. Coombs also admitted, on cross-examination, that if the Reassessments had been mailed on June 11, 2004, then, according to the CRA’s RAPID system, they would not have been mailed to the Applicant’s authorized address.[15]
+[65] In short, the Respondent’s evidence with respect to the alleged June 11, 2004, mailing of the Notices of Reassessment did not survive cross-examination and can be given no weight by the Court.
+The alleged faxing of the Reassessments on April 21, 2005
+[66] The Respondent’s evidence with respect to the alleged faxing of the Notices of Reassessment to the Applicant was provided at paragraph 17 of Mr. Coombs’ affidavit, where he stated the following:
+17. A careful examination and search of the records of the CRA shows that on April 21, 2005, the Applicant contacted the CRA to advise that the address on the file is incorrect. The CRA then changed the address back to the original Birchmeadow address as requested by the Applicant. The CRA then faxed a copy of the Notices of Assessment and Reassessment to the Applicant to the Birchmeadow address.
+[Emphasis added.]
+[67] On cross-examination, Mr. Coombs acknowledged that he did not review the fax in question, but instead relied on a CRA internal system referred to as the ACSES journal.[16]
+[68] The Applicant provided the Court with a copy of the April 21, 2005 fax.[17] As Mr. Coombs acknowledged during cross-examination, it did not contain a copy of the Reassessments. His statement at paragraph 17 of his affidavit was incorrect.
+[69] In summary, the Respondent has not provided any reliable evidence to show that the Reassessments were mailed to the Applicant on December 31, 2003 or June 11, 2004 or faxed to him on April 21, 2005. As a result, the Respondent has not established that the Notices of Reassessment were mailed or otherwise provided to the Applicant.
+[70] Counsel for the Respondent argued that the Applicant’s application should fail because the Applicant was aware of his liability for taxes in respect of his 1999 and 2000 taxation years. This argument has no merit. As the Federal Court of Appeal stated in Aztec, supra, at paragraph 19 (QL), “. . . Furthermore, the fact that the taxpayer, or its receiver, were aware of the Minister's claim or that the receiver paid some trust moneys on account thereof simply cannot serve to prove the dates of the mailing of the notices of assessment, still less their existence.”
+[71] For the foregoing reasons, the Applicant’s application for an order extending the time within which notices of objection to the Reassessments may be filed is dismissed on the grounds that no such order is required as the Minister has failed to prove either the existence or date of mailing of the Notices of Reassessment. The Applicant is awarded his costs.
+Signed at Vancouver, British Columbia, this 1st day of December 2011.
+“S. D’Arcy”
+D'Arcy J.
+Schedule A
+CRA Mailing Practices
+I am informed and verily believe to be true that:
+a) income tax assessments are processed electronically in our computer system and the information is released electronically to the Media Services Print Shop of the Electronic and Print Media Directorate in a Daily Assessing Schedule (“DAS”) for printing of the Notices of Reassessment and that the date of the notice is post dated to the date of mailing; and
+b) James Carcone’s, (the Applicant) Notices of Reassessment for the 1999 and 2000 taxation years were released in DAS 71 with the notices post-dated to December 31, 2003;
+c) there is no record of any problems with the download of information pertaining to this DAS;
+d) the printed Notices of Reassessment are inserted in individual envelopes;
+e) the inserters keep a tally sheet of the total number of printed notices for mailing;
+f) all envelopes are placed in bins for pickup by Canada Post for mailing on the date of the notice;
+g) before the Notices of Reassessment are placed in the bin for pickup by Canada Post, the computerized count on the inserters is matched with the expected count stored in the DAS and if both counts are not the same the print job is cancelled, the printed notices destroyed, and the print job is redone; and
+h) the counts were accurate for the aforementioned DAS.
+CITATION: 2011TCC550
+COURT FILE NO.: 2011-530(IT)APP
+STYLE OF CAUSE: JAMES CARCONE v. THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 16, 2011
+REASONS FOR ORDER BY: The Honourable Justice Steven K. D'Arcy
+DATE OF ORDER: December 1, 2011
+APPEARANCES:
+Counsel for the Applicant:
+Ladislav Beganyi
+Counsel for the Respondent:
+Ricky Y.M. Tang
+COUNSEL OF RECORD:
+For the Applicant:
+Name: Ladislav Beganyi
+Firm: Beganyi Professional Corporation
+Mississauga, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript, page 42.
+[2] Exhibit A-6, Respondent’s Book of Documents, Tab 12.
+[3] Ibid.
+[4] Subsection 248(1) of the Act provides that the term assessment includes the term reassessment.
+[5] Including a person exercising a power of the Minister.
+[6] Transcript, pages 71-72.
+[7] See, for example, the decisions of this Court in Abraham v. The Queen, 2004 TCC 380, 2004 DTC 3050 and Nicholls v. The Queen, 2011 TCC 39, 2011 DTC 1063.
+[8] Transcript, page 94.
+[9] Transcript, page 73.
+[10] Transcript, pages 92 to 93.
+[11] Transcript, pages 82 to 83.
+[12] Exhibit A-6, Respondent’s Book of Documents, Tab 12.
+[13] Exhibit A-3, Applicant’s Book of Documents, Tab 2.
+[14] Transcript, pages 87 to 90.
+[15] Ibid., page 90.
+[16] Transcript, page 80.
+[17] Exhibit A-2, Applicant’s Book of Documents, Tab 4.

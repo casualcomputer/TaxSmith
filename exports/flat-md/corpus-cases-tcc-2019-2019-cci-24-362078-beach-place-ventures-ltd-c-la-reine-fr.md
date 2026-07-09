@@ -1,0 +1,205 @@
+---
+title: "Beach Place Ventures Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/362078/index.do"
+last_modified: "2019-01-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 24"
+citation2: ""
+neutral_citation: "2019 CCI 24"
+decision_date: "2019-01-29"
+language: "fr"
+item_id: "362078"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4345
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:26:27.842000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "505c4d788407db396b9f6739ed6a43b546b11ecc109394d867ac29b4cd4a4d22"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Beach Place Ventures Ltd. c. La Reine
+
+- Citation: 2019 CCI 24
+- Decision date: 2019-01-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4345, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beach Place Ventures Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-01-29
+Référence neutre
+2019 CCI 24
+Numéro de dossier
+2017-514(EI), 2017-516(CPP)
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2017-514(EI)
+2017-516(CPP)
+ENTRE :
+BEACH PLACE VENTURES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+ALI ABADI-ASBFROUSHANI
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 5 et 6 décembre 2018 à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocats de l’appelante :
+Shaun Ramdin
+Taylor Clarke
+Avocat de l’intimée :
+Pour l’intervenant :
+Spencer Landsiedel
+L’intervenant lui-même
+JUGEMENT
+L’appel interjeté à l’encontre de la décision rendue par le ministre en vertu de la Loi sur l’assurance-emploi, L.C. 1996, ch. 23 et ses modifications, et du Régime de pensions du Canada, L.R.C. 1985, ch. C-8 et ses modifications, pour la période de déclaration allant du 24 janvier 2015 au 1er janvier 2016 est accueilli, sans dépens, et la décision est renvoyée au ministre du Revenu national afin qu’il la réexamine conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 29e jour de janvier 2019.
+« R. S. Bocock »
+Juge Bocock
+Référence : 2019 CCI 24
+Date : 20190129
+Dossiers : 2017-514(EI)
+2017-516(CPP)
+ENTRE :
+BEACH PLACE VENTURES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+ALI ABADI-ASBFROUSHANI
+Intervenant
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Juge Bocock
+I. CONTEXTE FACTUEL
+[1] L’intervenant (« M. Abadi ») était un conducteur de taxi à son compte de 2008 à 2013. Pendant cette période, il a convenu avec l’appelante (« Beach Place ») qu’il était un entrepreneur indépendant. Il produisait sa déclaration de revenu en fonction de ce statut. Chaque année, il déclarait son revenu brut d’entreprise, déduisait ses dépenses, versait la TPS et payait des impôts sur son revenu brut d’entreprise. En 2014, il a eu une révélation : M. Abadi et Beach Place s’étaient trompés. M. Abadi était désormais convaincu qu’il était un employé de Beach Place et de sa société mère, Black Top Cabs. Il ne travaillait pas à son propre compte. Il avait été embauché aux termes d’un contrat de louage de services. En 2014 et en 2015, il a donc déclaré son revenu comme revenu d’emploi.
+[2] Lorsque M. Abadi a quitté Black Top en 2015, l’ARC a fait enquête et a conclu que M. Abadi était un employé de Beach Place. Sa rémunération ouvrait droit à pension et était assurable. Le ministre a donc délivré à Beach Place un avis de cotisation au titre des contributions qu'il avait omis de verser au Régime de pensions du Canada et à l’assurance-emploi. En désaccord avec la décision du ministre, Beach Place a porté celle-ci en appel.
+[3] L’audition de l'appel s’est étendue sur deux jours. Quatre chauffeurs de taxi, dont M. Abadi, ont témoigné. Le cinquième témoin était le directeur général de Beach Place et de Black Top Cabs. À la suite de tels témoignages, il est devenu évident pour la Cour que le commun des mortels qui hèle un taxi dans les rues de Vancouver et qui n’est pas familier avec l’industrie du taxi dans cette ville ne saurait pas saisir les nuances des structures opérationnelles en jeu dans ce genre d’opérations.
+[4] Le cadre réglementaire à lui seul fait intervenir les trois ordres de gouvernement. La ville de Vancouver, par l’entremise de son service des transports publics, régit les tarifs de taxi, le nombre d’exploitants et les codes généraux de conformité. Le gouvernement de la Colombie-Britannique délivre les permis aux chauffeurs en octroyant des accréditations et en procédant à des inspections des véhicules afin d’en assurer la sûreté. Le gouvernement fédéral administre certains règlements en matière de sécurité des transports concernant les heures de travail des chauffeurs dans le cadre du Code national de sécurité.
+[5] La propriété et la répartition des taxis ne sont pas simples non plus. Les véhicules utilisés comme taxis appartiennent aux chauffeurs. En théorie, chaque propriétaire de taxi achète la moitié d’un quart de travail quotidien de 12 heures : celle de jour ou celle de nuit. Ces propriétaires conduisent eux-mêmes les véhicules certains jours de la semaine. Lorsqu’ils choisissent de ne pas travailler, ces propriétaires embauchent d’autres chauffeurs ou leur louent le véhicule pour des créneaux horaires d’une demi-journée. Les contrats de location de taxi peuvent être conclus à la journée, à la semaine, au mois ou à l’année. Les tarifs font l’objet de négociations entre le propriétaire du taxi et le locataire. Ainsi, le locataire peut sous-louer le taxi sans aucune restriction, pourvu que le sous-locataire soit un chauffeur titulaire d’un permis de taxi inscrit sur la liste de Beach Place. Il y a plus de 500 chauffeurs de taxi inscrit sur la liste de Beach Place/Black Top. De ce nombre, environ 260 sont propriétaires d’une voiture. Certains possèdent des parts dans plusieurs voitures. Les propriétaires de taxi sont les actionnaires de Black Top. De plus, ce sont les propriétaires qui déterminent le tarif par défaut que le locataire doit payer à un propriétaire pour la location d’un taxi pendant une demi-journée (le « tarif journalier »). Le tarif journalier peut être modifié sur accord entre tous propriétaires et locataires ou sous-locataires au moment de la location d'un véhicule.
+[6] Beach Place, en tant que mandataire de Black Top (qui appartient aux propriétaires/locateurs de taxis), est le bureau central ou le dépôt où les chauffeurs prennent possession des véhicules loués, des clés et de la papeterie (reçus et fiches journalières) et où, à la fin du quart de travail de douze heures, ils déposent leurs bons, leurs reçus pour les transactions par carte de crédit et de débit ainsi que leurs fiches journalières. Lorsqu’un chauffeur de taxi n’a pas de relation d’affaires directe avec un propriétaire ou sous-locateur pour la location d’un véhicule, il peut tout simplement appeler Beach Place, demander un véhicule pour un quart de travail à venir et, s’il y en a un de disponible, prendre possession du véhicule loué du propriétaire ou du sous-locateur moyennant le tarif journalier.
+[7] De même, Beach Place fait office de chambre de compensation pour le rapprochement des tarifs de location de taxi, que ce soit en fonction du tarif journalier, d'un tarif applicable sur une plus longue durée ou d'un tarif modifié. Beach Place tient un compte pour chaque chauffeur figurant sur la liste. En général, chaque chauffeur remet sa feuille de courses et son dossier à la fin du quart de travail. Si le chauffeur n’est pas propriétaire du véhicule, il doit remettre tous les reçus de transaction par cartes de crédit et de débit et les bons associés à des comptes d’entreprise à la fin de son quart de travail (les « reçus »). Le chauffeur conserve toutes les recettes monétaires. Il n’a pas à les remettre au propriétaire, au sous-locateur ou à Beach Place. Le tarif journalier ou le tarif de location négocié est déduit des recettes non monétaires. Beach Place s’occupe de verser le montant de la location dans le compte du propriétaire du véhicule. Le solde des recettes nettes est alors crédité au chauffeur de taxi qui a remis les recettes à l'origine. Le paiement de ce solde se fait habituellement par chèque le 15e jour et le dernier jour du mois. Si le propriétaire ou le sous-locateur s’écarte du tarif journalier ou de tout autre montant déduit, le propriétaire ou le sous-locateur doit alors payer au chauffeur de taxi le solde dû à une date ultérieure, habituellement à la fin du mois. Si les recettes de la journée sont en deçà du tarif journalier ou du tarif applicable à la location d’un taxi, le chauffeur doit payer la différence afin de couvrir les frais de location.
+[8] Les coûts d’exploitation de Beach Place et de Black Top sont couverts au moyen d’une cotisation versée par les propriétaires et les sous-locateurs à la fin de chaque mois. Les coûts recouvrés sont les primes d'assurances, les frais de répartition, les frais liés à l’équipement et aux réparations ainsi que les salaires et traitements des employés de bureau, d’administration et de répartition.
+[9] Les règles de trois ordres de gouvernement doivent être appliquées. Ce fardeau revient à Beach Place. Les propriétaires, les sous-locateurs et les chauffeurs de taxi doivent se conformer à des règles complexes et détaillées. Tous les chauffeurs risquent d’être sanctionnés ou coupés de la fréquence radio de répartition s’ils enfreignent les règles. Ces règles portent entre autres sur l’établissement des coûts pour une course, les délais applicables à la prise en charge des clients, la non-sollicitation, l’utilisation de la radio et les consignes de sécurité.
+[10] Tous les chauffeurs de taxi témoins, y compris M. Abadi, ont déjà, à un moment donné, loué le véhicule d’un autre chauffeur ou loué leur véhicule à un autre chauffeur. M. Abadi a vécu ces deux situations au mois d’août 2015, lorsque l’un de ses collègues propriétaires-exploitants est parti en voyage en Europe. Les frais mensuels de location ont été négociés directement entre M. Abadi et le propriétaire. M. Abadi a lui-même conduit le véhicule certains jours et l’a sous-loué à d’autres chauffeurs les jours restants. Fait remarquable, il semble y avoir eu peu de différends entre les conducteurs, les propriétaires, les sous-locataires et Beach Place au sujet de l’argent. Compte tenu de la variété des taux, du nombre de parties et des accords parallèles, cette absence de différend témoigne de la force de la coutume, de la collégialité et de l’efficacité qui caractérisent cette organisation virtuelle.
+II. CRITÈRE JURIDIQUE et POSITION DU MINISTRE
+[11] Le ministre affirme que M. Abadi ne travaillait pas à son propre compte. Pour établir cela sur le plan juridique, il faut d’abord appliquer le critère en deux étapes décrit et confirmé dans l’arrêt Connor Homes. Il faut ensuite répondre à la question suivante : la réalité objective confirme-t-elle l’intention initiale des parties?
+[12] À propos des faits de cette affaire, le ministre soutient que M. Abadi et Beach Place n'avaient pas d’intention commune initialement. M. Abadi s’est senti obligé de présenter ses déclarations de revenus à titre de travailleur autonome de 2008 à 2013 parce qu’il voulait toucher un revenu. Le fait que M. Abadi ait depuis joint les rangs d’un concurrent avec lequel il a signé un accord confirmant son statut de travailleur autonome en témoigne. Encore une fois, M. Abadi a agi sous une contrainte qu’il s’est imposée lui-même afin de toucher un revenu.
+[13] En ce qui concerne les facteurs à prendre en considération, le ministre affirme que l’équipement, les responsabilités et la gestion, ainsi que le droit d’engager des assistants, suggèrent l'existence d'un contrat de louage de services ou d'un emploi. Seule la possibilité de profits et pertes semble indiquer que M. Abadi avait sa propre entreprise ou fournissait ses services aux termes d’un contrat.
+[14] À titre d’exemples de contrôle, M. Abadi devait se conformer à une multitude de règles, règlements et protocoles concernant l’exploitation du taxi et la prestation des services. Il devait se rendre au bureau de répartition pour prendre possession du véhicule, de la papeterie et des clés. Il devait retourner le véhicule et l’enveloppe d’argent (qui, en dépit de son nom, ne contenait pas d’argent comptant) au bureau de répartition à la fin de son quart de travail. À ses débuts, il a dû assister à une séance de formation d’une demi-journée.
+[15] Pour ce qui est des sanctions en cas de non-conformité, le code de discipline (le « Code 6 ») était arbitraire. Les documents des contrats conclus entre les copropriétaires, les fournisseurs et les vendeurs autorisaient Beach Place à réprimander les chauffeurs en les retirant de la liste (ce qui équivalait dans les faits à un renvoi). Le tarif journalier était établi par le conseil d’administration (les représentants des propriétaires). Il fallait se résigner à accepter certains tarifs de grandes entreprises clientes. Les comités de répartition établissaient les zones sans consulter M. Abadi.
+[16] Quant à l’équipement, Beach Place assurait le contrôle des véhicules, à partir son bureau de répartition, ce à quoi s'ajoutaient le compteur de courses et l'ordinateur avec GPS. Il s’agissait des seules pièces d’équipement utilisées. Le ministre affirme en outre que M. Abadi n’avait pas investi dans cette entreprise ni dans aucune autre. Il n’avait pas de carte professionnelle, il ne pouvait pas faire de promotion ou entreprendre une relation d’affaires avec certains détenteurs de bons ou comptes d’entreprise. En somme, le ministre soutient que l’examen des facteurs pertinents révèle l'existence d'un contrat de louage de services.
+III. LA LOI
+a) Les dispositions législatives
+[17] La Cour se penche maintenant sur les dispositions législatives sur lesquelles le ministre se fonde. Premièrement, les dispositions applicables du Régime de pensions du Canada sont les suivantes :
+Définitions
+2 (1) Les définitions qui suivent s’appliquent à la présente loi.
+« employé » Est assimilé à un employé tout fonctionnaire.
+« employeur » La personne tenue de verser un traitement, un salaire, ou une autre rémunération à l’égard d’un emploi et, en outre, dans le cas d’un fonctionnaire, celle qui lui verse sa rémunération.
+Emplois ouvrant droit à pension
+6 (1) Ouvrent droit à pension les emplois suivants :
+a) l’emploi au Canada qui n’est pas un emploi excepté;
+8.1 (1) Toute personne qui paie en totalité ou en partie la rémunération d’un employé pour des services accomplis dans le cadre d’un emploi ouvrant droit à pension est, aux fins du calcul des traitement et salaire cotisables de l’employé, de la tenue de registres, de la production de déclarations ainsi que du paiement, de la retenue et du versement des cotisations payables en vertu de la Loi et du présent règlement, réputée être l’employeur de cet employé en plus de son véritable employeur.
+[18] Deuxièmement, la Loi sur l’assurance-emploi prévoit ce qui suit :
+Sens de emploi assurable
+5 (1) Sous réserve du paragraphe (2), est un emploi assurable :
+d) un emploi prévu par règlement pris en vertu des paragraphes (4) et (5);
+Règlements élargissant la catégorie des emplois assurables
+(4) La Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements en vue d’inclure dans les emplois assurables :
+c) l’emploi qui n’est pas un emploi aux termes d’un contrat de louage de services, s’il paraît évident à la Commission que les modalités des services rendus et la nature du travail exécuté par les personnes exerçant cet emploi sont analogues aux modalités des services rendus et à la nature du travail exécuté par les personnes exerçant un emploi aux termes d’un contrat de louage de services.
+Règlement sur l’assurance-emploi
+6 Sont inclus dans les emplois assurables, s’ils ne sont pas des emplois exclus conformément aux dispositions du présent règlement, les emplois suivants :
+e) l’emploi exercé par une personne à titre de chauffeur de taxi, d’autobus commercial, d’autobus scolaire ou de tout autre véhicule utilisé par une entreprise privée ou publique pour le transport de passagers, si cette personne n’est pas le propriétaire de plus de 50 pour cent du véhicule, ni le propriétaire ou l’exploitant de l’entreprise privée ou l’exploitant de l’entreprise publique;
+Règlement sur la rémunération assurable et la perception des cotisations
+Exploitants de véhicules de transport de passagers
+9 (1) Le propriétaire ou l’exploitant d’une entreprise privée ou publique au service de laquelle une ou plusieurs personnes exercent un emploi visé à l’alinéa 6e) du Règlement sur l’assurance-emploi est réputé, aux fins de la tenue des registres, du calcul de la rémunération assurable et du paiement des cotisations exigibles à cet égard aux termes de la Loi et du présent règlement, être l’employeur de chacune de ces personnes dont l’emploi est inclus dans les emplois assurables en vertu de cet alinéa.
+b) La jurisprudence
+[19] L’application du critère en deux étapes énoncé dans l’arrêt Connor Homes, qui prescrit que l’on prenne en considération les facteurs énumérés dans Wiebe Door [1] pour répondre à la question centrale formulée dans Sagaz [2] , est la démarche que doit entreprendre la Cour. Toutefois, cette analyse pourrait être légèrement abrégée dans le présent appel. Il existe une jurisprudence claire et sans équivoque au sujet des taxis, des chauffeurs de taxi et de l’industrie du taxi dans la même ville qu’en l’espèce, à savoir Vancouver. La Cour d’appel fédérale s’est penchée sur des faits presque identiques dans l'affaire Yellow Cab [3] . L’arrêt Yellow Cab a établi une distinction par rapport à la décision Skyline Cabs et a effectivement écarté cette dernière. Bien que nous ne soyons pas servilement liés par ce genre de décisions où le critère est de nature factuelle, et où une partie souhaite parvenir à une issue différente à partir de faits similaires, une argumentation doit être soumise à l’appui d'une distinction par rapport aux faits sur lesquels cette jurisprudence est fondée [4] . L’avocat de l’intimée n’a offert aucun argument à cet égard. En ce qui concerne le fond de la question centrale énoncée dans l’arrêt Sagaz, le juge Sexton a déclaré ce qui suit au paragraphe 31 de la décision Yellow Cab :
+31. Revenant à la question centrale énoncée par le juge Major dans l’arrêt Sagaz, je conclus que les exploitants à contrat exercent leur activité pour leur propre compte. J’estime également que le juge Hamlyn a commis une erreur en considérant uniquement le facteur du contrôle à l’exclusion d’autres facteurs pertinents. Les exploitants à contrat ont pour activité de fournir des taxis au public et sont de ce fait les exploitants de l’entreprise de taxi au sens de l’alinéa 6e). De son côté, l’activité de Yellow Cab consiste à fournir des services administratifs à l’entreprise de taxi, y compris la fourniture de services de soutien sous forme de services de répartition, de comptabilité, de marque et de marketing.
+IV. ANALYSE
+[20] Dans le présent appel, la Cour ne peut s’empêcher de penser que le ministre a été distraite dans son analyse visant à déterminer si M. Abadi était au service de Beach Place, plutôt que le contraire. Le but d’une entreprise est de générer un profit. Le profit correspond au montant qui reste après que l’on ait déduit les dépenses des recettes. Ce n’est pas sur cette base que l’on calcule les salaires des employés. La Cour ne sait même pas si M. Abadi était un travailleur (et encore moins un employé) au service de Beach Place/Black Top, d'une part, et des propriétaires, d'autre part, ou franchement de l'un ou de l'autre. Il était certainement le fournisseur de services de quiconque l’engageait pour l’amener du point A au point B dans les rues de Vancouver.
+[21] L'autre point de vue, et le plus probable selon les faits connus, est que M. Abadi a retenu les services de Beach Place, de Black Top et du propriétaire de taxi afin de soutenir son commerce de taxi. La taille comparative de ces entreprises par rapport aux activités des industrieux chauffeurs ne doit pas prêter à confusion pour l'observateur. Chaque jour, semaine ou mois, M. Abadi se procurait un taxi. Celui-ci était entièrement équipé. Il le louait du propriétaire. Le propriétaire exigeait que M. Abadi ait recours aux services opérationnels et administratifs fournis par Beach Place pour procéder à la prise de possession du véhicule, aux paiements, aux réparations et à l'exploitation. Des règles, des règlements, ainsi que des mesures de sécurité et de contrôle, ont été mis en place à titre de conditions d’utilisation pour cet équipement loué de grande valeur. Beach Place fournissait également du soutien et des services auxiliaires significatifs, à savoir des services de répartition, de réparation et de comptabilité. Tous profitaient de ces services : les chauffeurs, les propriétaires, les locateurs et les locataires. Ces services étaient achetés à un tarif fixe négocié. Ils étaient payés à partir des recettes non monétaires, après et non avant le quart de travail. Les frais de location constituaient également, à l’exception de l’essence, un investissement ou un débours que M. Abadi faisait dans son entreprise pour se procurer un moyen de production, à savoir le taxi.
+[22] Bien que cette infrastructure et cette organisation virtuelle puissent être déroutantes, les dimensions économiques des activités commerciales de M. Abadi étaient simples. Le processus était le suivant. M. Abadi a obtenu un permis de chauffeur de taxi et s'est prêté à une vérification de casier judiciaire Il a ensuite contacté Beach Place, qui l’a inscrit sur la « liste ». Il a trouvé un propriétaire-locateur qui était disposé à lui louer un taxi. Parfois, il faisait affaire directement avec le propriétaire-locateur. D’autres fois, il se servait simplement de la liste des véhicules disponibles du bureau de répartition de Beach Place. Lorsqu’il ne négociait pas le tarif, le tarif journalier par défaut s’appliquait. Il avait la possibilité de négocier le tarif journalier, mais la méthode de calcul des profits était claire et immuable. À la fin de chaque journée, semaine, mois ou année, M. Abadi calculait le total des rentrées de fonds : l’argent comptant qu’il avait gardé et les reçus des transactions par carte de crédit/débit et les bons qu’il a remis à Beach Place, qui faisait le même calcul pour lui verser ce qui lui était dû. De ce total, il déduisait ensuite tous les paiements relatifs à la location de la voiture et les frais d’essence afin de déterminer le profit (ou la perte) réalisé. Il a procédé ainsi de 2008 à 2013. Pendant cette période, il a aussi versé la TPS et demandé des CTI. Puis, sans la moindre modification dans les détails sous-tendant cet arrangement et ce calcul, M. Abadi a changé d'avis. Il était désormais un employé de Beach Place/Black Top. À la suite de ce changement d’avis et de l’enquête qui a suivi, le ministre est parvenu à la même conclusion.
+[23] C’est en fonction de ce contexte factuel que la Cour entreprend son analyse. Tout d’abord, toutes les parties concernées, y compris M. Abadi, ont eu une intention commune pendant 7 ans. Le fait que M. Abadi se soit par la suite rétracté ne change pas le fait qu’il a déclaré son revenu à titre de travailleur autonome, déduit ses dépenses d’affaires et versé la TPS pendant 7 ans. De plus, absolument rien n’a changé entre le début de sa relation avec Beach Place et le début de la période visée. Quoi qu’il en soit, passons à la réalité objective.
+[24] La principale affirmation de l’intimée au sujet du contrôle concerne le code de discipline, les instructions de répartition et la supervision. Il est important de noter que ces mesures de contrôle s’appliquaient à tous les chauffeurs lorsqu’ils étaient derrière le volant, peu importe qu’ils aient été propriétaires, locataires ou sous-locataires. Ces règles étaient des directives administratives visant à améliorer l'efficience, la sécurité, la fiabilité et les tarifs. En résumé, leur existence permettait d’augmenter les recettes et de réduire les coûts, et l’avantage pécuniaire qui en découlait revenait directement aux chauffeurs, et non à Beach Place. Ce n’est pas le genre de chose que l’on voit habituellement dans une relation employeur-employé. Encore une fois, l’obligation de déposer les véhicules au bureau de Beach Place s’appliquait même aux propriétaires des taxis, qui à moins d'avoir pris d’autres dispositions, devaient aller chercher les clés, les fiches journalières et les taxis à cet endroit. Encore une fois, il semble que l’efficacité et la centralité soient les deux principaux facteurs pour lesquels tous les chauffeurs utilisaient cette structure la plupart du temps.
+[25] En ce qui concerne la question de la propriété des outils, l’appelante ne les fournissait pas. Ils étaient loués auprès de leurs propriétaires. De plus, les modalités de la location pouvaient être modifiées de façon à baisser les coûts en faveur de M. Abadi et de personne d’autre.
+[26] Les possibilités de profits et risques de pertes sont évidents. M. Abadi était la seule et unique personne dont les profits ou les pertes étaient inconnus, variables et déterminés par son exploitation quotidienne du taxi. Le propriétaire du véhicule payait Beach Place. M. Abadi payait des frais fixes de location au propriétaire du taxi. Il n’en demeure pas moins que les recettes de M. Abadi étaient variables et principalement sous son contrôle. La Cour ne saurait trop insister sur l’importance de ce point pour déterminer qui exploitait le commerce de taxi et qui était exposé au risque de perte et à la possibilité de profit. La Cour a finalement conclu qu’il s’agissait principalement de M.Abadi.
+[27] Sur la question de l’investissement, M. Abadi a investi chaque jour dans son entreprise en louant de l’équipement réservé à son usage exclusif, en l'occurrence le taxi tout équipé.
+[28] Enfin, M. Abadi avait la possibilité sous-louer le taxi loué à d’autres, et il l’a fait. Il n’avait pas à demander l’autorisation de Beach Place pour le faire. Il était bien tenu de respecter le processus de délivrance de permis et d’accréditation dont Beach Place assurait la surveillance pour le compte des propriétaires. Encore une fois, il s’agit aussi bien d’une modalité de sous-location efficace que d'un mécanisme de supervision et de contrôle des travailleurs. Quoi qu’il en soit, il n’en demeure pas moins qu’il avait la possibilité de sous-louer le véhicule.
+[29] En ce qui concerne la question plus nuancée de l’applicabilité de l’alinéa 6e) de la Loi sur l’assurance-emploi dans le contexte de l’assurance-emploi pour les chauffeurs de taxi, la Cour définit et appuie la position adoptée dans l’arrêt Yellow Cab, où le juge Sexton a écrit :
+39. Cela ne veut pas dire, comme le prétend l’intimé, que l’alinéa 6e) [traduction] « a été édicté pour inclure dans les emplois assurables les services de chauffeurs de taxi exerçant leur activité en tant qu’entrepreneurs indépendants », ni que la Commission a assimilé tous les chauffeurs de taxi à des personnes exerçant un emploi assurable. Au contraire, il exclut expressément l’assimilation des chauffeurs de taxi qui possèdent ou exploitent leur propre entreprise à des personnes exerçant un emploi assurable.
+45. L’interprétation que l’intimé donne de l’alinéa 6e) mènerait à la contradiction suivante : lorsque les exploitants à contrat engagent des chauffeurs, ils sont des entrepreneurs indépendants, mais dès l’instant où l’exploitant à contrat prend le volant du taxi, l’identité des exploitants à contrat passe de celle d’entrepreneur indépendant à celle d’employé. Une telle absurdité n’a pas pu être visée par la Loi. Aucune contradiction n’apparaît si la loi est interprétée de la manière que j’ai proposée. Lorsque les exploitants à contrat conduisent eux-mêmes les taxis, ils travaillent pour eux-mêmes. Par conséquent, ils sont des employés indépendants exerçant leur activité pour leur propre compte. Bien que l’on doive favoriser une interprétation libérale de l’alinéa 6e), la Cour ne peut utiliser ce principe comme justification pour créer des absurdités dans son application.
+M. Abadi était un de ces exploitants à contrat. La Cour ne dispose pas de faits qui justifieraient de s’éloigner de l’analyse logique du juge Sexton.
+[30] Par conséquent, pour les motifs susmentionnés, il est fait droit à l’appel. M. Abadi travaillait à son propre compte pendant la période s’étalant du 24 janvier 2015 au 1er janvier 2016. Il n’était pas employé par Beach Place ou Black Top dans le cadre d’un contrat de louage de services prévoyant des gains assurables ou ouvrant droit à pension. Compte tenu de la nature de l’appel et des règles applicables aux appels relatifs à l’assurance-emploi et au Régime de pensions du Canada, la Cour n’adjugera aucuns dépens.
+Signé à Ottawa, Canada, ce 29e jour de janvier 2019.
+« R. S. Bocock »
+Juge Bocock
+RÉFÉRENCE :
+2019 CCI 24
+NOS DES DOSSIERS DE LA COUR :
+2017-514(AE) 2017-516 (RPC)
+INTITULÉ :
+BEACH PLACE VENTURES LTD. ET SA MAJESTÉ LA REINE ET ALI ABADI-ASBFROUSHANI
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATES DE L’AUDIENCE :
+Les 5 et 6 décembre 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 29 janvier 2019
+COMPARUTIONS :
+Avocats de l’appelante :
+Shaun Ramdin
+Taylor Clarke
+Avocat de l’intimée :
+Pour l’intervenant :
+Spencer Landsiedel
+L’intervenant lui-même
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Shaun Ramdin
+Taylor Clarke
+Cabinet :
+Gall Legge Grant & Munroe LLP
+Vancouver (Colombie-Britannique)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Wiebe Door Services Ltd c. MRN [1986] 3 CF 533
+[2] 671122 Ontario Ltd c. Sagaz Industries [2001] 2 RCS 983
+[3] Yellow Cab Co. c. MRN, 2002 CAF 294
+[4] Connor Homes, précité, au paragraphe 20

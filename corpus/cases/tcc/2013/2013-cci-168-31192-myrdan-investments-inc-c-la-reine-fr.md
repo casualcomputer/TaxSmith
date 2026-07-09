@@ -1,0 +1,242 @@
+---
+title: "Myrdan Investments Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31192/index.do"
+last_modified: "2013-05-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 168"
+citation2: ""
+neutral_citation: "2013 CCI 168"
+decision_date: "2013-05-29"
+language: "fr"
+item_id: "31192"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5062
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:17:13.234000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8201da98f9cfb5deafa684af9366a1a1af116aa776f840aef06ec0704dbe619e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Myrdan Investments Inc. c. La Reine
+
+- Citation: 2013 CCI 168
+- Decision date: 2013-05-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5062, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Myrdan Investments Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-05-29
+Référence neutre
+2013 CCI 168
+Numéro de dossier
+2011-940(IT)G, 2011-943(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-940(IT)G
+ENTRE :
+MYRDAN INVESTMENTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Avocats de l'appelante :
+Me Curtis R. Stewart
+Me Lisa Handfield
+Avocat de l'intimée :
+Me Robert Neilson
+ORDONNANCE
+Vu le jugement rendu le 31 janvier 2013 et le jugement modifié rendu le 13 février 2013;
+Vu les observations écrites sur les dépens que les deux parties ont déposé à la demande de la Cour;
+Les dépens sont adjugés à l'appelante, conformément aux motifs de l'ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 29e jour de mai 2013.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+ce 10e jour de juillet 2013.
+Yves Bellefeuille, réviseur
+Dossier : 2011-943(IT)G
+ENTRE :
+DANIEL HALYK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Avocats de l'appelant :
+Me Curtis R. Stewart
+Me Lisa Handfield
+Avocat de l'intimée :
+Me Robert Neilson
+ORDONNANCE
+Vu le jugement rendu le 31 janvier 2013 et le jugement modifié rendu le 13 février 2013;
+Vu les observations écrites sur les dépens que les deux parties ont déposé à la demande de la Cour;
+Les dépens sont adjugés à l'appelant, conformément aux motifs de l'ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 29e jour de mai 2013.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+ce 10e jour de juillet 2013.
+Yves Bellefeuille, réviseur
+Référence : 2013 CCI 168
+Date : 20130529
+Dossier : 2011‑940(IT)G
+ENTRE :
+MYRDAN INVESTMENTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2011-943(IT)G
+ET ENTRE :
+DANIEL HALYK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Hogan
+I Introduction
+[1] Les contribuables dont il est question en l'espèce, Myrdan Investments Inc. (« Myrdan ») et Daniel Halyk, ont obtenu gain de cause dans les appels qu'ils ont interjetés auprès de la Cour[1]. Dans mon jugement, j'ai invité les deux parties à me fournir des observations relatives aux dépens. Les deux parties ont déposé des observations écrites et je suis maintenant prêt à trancher la question des dépens.
+[2] Un certain nombre de questions en litige ont été réglées par un consentement à jugement la veille de l'instruction. Les seules questions en litige à l'instruction ont donc été celles de savoir si un camion était une « automobile » pour les besoins de la déduction pour amortissement dont Myrdan pouvait se prévaloir, ainsi que la mesure dans laquelle M. Halyk avait utilisé le camion en question à des fins personnelles. La Cour a conclu que cette utilisation avait été minime et qu'il en découlait un avantage à l'actionnaire de 950 $.
+[3] Les appelants sollicitent les dépens procureur‑client sur la base d'une indemnisation complète. Subsidiairement, ils sollicitent les dépens entre parties jusqu'à la date de leur offre de règlement du 28 septembre 2011, de même que les dépens sur la base procureur‑client à compter de cette date-là, en plus des débours. L'intimée admet que les appelants ont droit à des dépens, conformément au tarif B des Règles, mais elle conteste les dépens qu'ils demandent en sus des montants prévus au tarif.
+II Sommaire des dépens de Myrdan, résultat du jugement et adjudication des dépens prévus au tarif[2]
+Total des dépens[3] (y compris la vérification et l'opposition)
+Dépens[4] du dépôt de l'avis d'appel à l'audience
+Dépens[5] postérieurs à l'offre de règlement[6] (jusqu'à l'audience, inclusivement)
+Résultat atteint à l'instruction : réduction nette du revenu
+Impôt économisé par suite de l'instruction (montant estimatif)
+Adjudication des dépens prévus au tarif
+48 076,75 $
+37 845,89 $
+33 106,59 $
+19 380 $
+4 845 $[7]
+9 619,76 $
+[4] Pour ce qui est de Myrdan, les honoraires d'avocat supportés après la vérification et l'opposition ont été supérieurs au total des montants en litige. Le montant en litige dans l'appel ne présente toutefois pas le tableau tout entier. Il y avait, pour Myrdan, bien plus d'éléments en jeu avant d'en arriver au règlement par consentement à jugement le 12 octobre 2012. Il semble donc qu'un grand nombre des frais de Myrdan se rapportent à des questions qui ont été réglées avec le ministre la veille de l'instruction.
+III Sommaire des dépens de M. Halyk, résultat du jugement et adjudication des dépens prévus au tarif[8]
+Total des dépens[9] (y compris la vérification et l'opposition)
+Dépens[10] du dépôt de l'avis d'appel à l'audience
+Dépens[11] postérieurs à l'offre de règlement[12] (jusqu'à l'audience, inclusivement)
+Résultat atteint à l'instruction : réduction nette du revenu
+Impôt économisé par suite de l'instruction (montant estimatif)
+Adjudication des dépens prévus au tarif
+11 914,47 $[13]
+11 914,47 $
+4 363,19 $
+16 733 $
+6 525,87 $[14]
+3 450 $
+[5] Dans le cas de M. Halyk, le montant en litige dans l'appel était de 17 683 $ (compte non tenu de l'avantage à l'actionnaire de 950 $ qui, comme l'a conclu la Cour canadienne de l'impôt, lui avait été conféré). C'est donc dire que les montants inclus dans le revenu qu'ils portaient en appel excédaient clairement les frais qu'il avait supportés dans la poursuite de l'appel. Cependant, dans son cas, le montant estimatif de l'impôt en litige n'excède que les frais qu'il a supportés après l'offre de règlement des appelants du 28 septembre 2011.
+IV La question en litige
+[6] Une adjudication de dépens supérieure aux montants prévus par le tarif peut‑elle être fondée sur la conduite du ministre avant l'appel?
+V Les thèses des parties
+A) Les appelants
+[7] Les appelants font valoir que le ministre a établi de nouvelles cotisations sans terminer sa vérification. En particulier, ils reprochent au ministre de ne pas avoir examiné l'accord de services de gestion conclu entre Myrdan et Total Energy Services Ltd., car un tel examen aurait permis de régler un grand nombre des questions en litige[15]. Les appelants ont déposé des avis d'opposition et, n'ayant pas eu de nouvelles du service des appels dans le délai normal estimatif qui est prévu pour un examen, ils ont déposé leurs avis d'appel tout juste un peu plus de douze mois après le dépôt de leurs avis d'opposition.
+[8] Les appelants reconnaissent que les montants en litige sont peu élevés, et que les questions en cause ne revêtent pas une importance nationale. Ils soutiennent toutefois que ces facteurs, de même que l'ampleur du travail nécessaire pour se préparer à un procès sur des questions aussi simples, auraient dû inciter le ministre à conclure un règlement. Ils font remarquer qu'une part importante de leurs frais a été supportée dans le but de conclure un règlement avec le ministre au sujet des questions qui faisaient partie du règlement du 12 octobre 2012. Ils ajoutent qu'étant donné que le règlement a revêtu la forme d'un consentement à jugement sur les questions réglées, il me fallait prendre en considération, dans l'adjudication des dépens, les frais supportés en vue de la conclusion de ce règlement.
+B) L'intimée
+[9] L'intimée soutient que les appelants auraient dû régler les questions en litige qui ne l'avaient pas été par le règlement du 12 octobre 2012. Elle semble se fonder sur l'alinéa 147(3)d)[16] des Règles à l'appui de la thèse selon laquelle ses tentatives de règlement devraient atténuer une adjudication défavorable des dépens, étant donné que ses deux tentatives de règlement ont été fructueuses, sauf pour ce qui est de la question de l'utilisation du camion, qui a fait l'objet d'un procès. Cependant, il y a lieu aussi de louer la participation fructueuse (en grande partie) des appelants au processus de négociation d'un règlement, de sorte que l'intimée n'est pas mieux placée pour prétendre que les efforts de règlement qu'elle a faits penchent en sa faveur pour ce qui est de la fixation des dépens que ne le sont les appelants pour ce qui est de faire une prétention semblable relativement aux efforts qu'eux‑mêmes ont faits.
+[10] L'intimée souligne que les appelants ont admis que les questions soumises à la Cour n'étaient pas complexes ou ne revêtaient pas une importance nationale et que le montant en litige était peu élevé. Elle ajoute que le temps requis pour se préparer à l'instruction aurait dû être minime, car il y avait peu de documents pertinents et un seul témoin, et l'instruction a duré moins d'un jour.
+[11] Les arguments qu'invoque l'intimée au sujet du règlement, du montant et de la complexité jouent aussi dans les deux sens : on peut tout aussi bien faire valoir que l'intimée aurait dû faire preuve de plus de souplesse et régler les questions restantes au lieu de forcer les appelants à se rendre à une instruction, où ces derniers ont eu gain de cause (à une petite exception près : l'avantage à l'actionnaire de 950 $ que la Cour a déterminé). L'intimée omet également de prendre en compte le temps qu'il a fallu pour se préparer à l'instruction des questions qui ont été réglées par le consentement à jugement la veille de l'instruction.
+[12] L'intimée fait valoir de plus qu'il était [TRADUCTION] « tout à fait raisonnable » de vérifier à l'instruction les éléments de preuve relatifs au camion, car, à son avis, le carnet de route de M. Halyk était insuffisant et son sommaire au sujet de la distance parcourue était fondé sur du ouï‑dire. Comme l'intimée ne voulait pas accepter les documents de M. Halyk, il était également raisonnable que ce dernier décide de témoigner devant la Cour, sous serment, au sujet de l'utilisation du camion.
+[13] L'intimée soutient également qu'il ne faudrait pas tenir compte de la conduite du ministre avant le début de l'appel pour déterminer les dépens à adjuger, car il n'existe en l'espèce aucune circonstance exceptionnelle qui justifierait que l'on adjuge des dépens plus élevés pour ce motif. La conduite dont se plaignent les appelants (le fait de ne pas avoir examiné un accord de services de gestion et des factures de publicité, et celui de ne pas avoir répondu à des lettres du comptable des appelants) n'a eu aucune incidence sur la question relative à l'utilisation du camion. Une adjudication de dépens procureur‑client qui est fondée sur la conduite exige que cette dernière soit répréhensible, scandaleuse ou outrageante[17]. Selon l'intimée, la conduite du ministre n'a pas atteint ce seuil. En fait, à son avis, comme il est indiqué dans la note de bas de page no 6 des observations de l'intimée sur les dépens : [TRADUCTION] « les gestes dont se plaignent les appelants ne constituent pas une conduite inappropriée de la part du ministre ».
+[14] On ne peut guère dire que le fait d'avoir omis d'examiner des documents mis à la disposition de la vérificatrice et celui de ne pas avoir répondu à des offres de fournir des renseignements nécessaires à la vérification soient une conduite appropriée de la part du ministre. Cette conduite n'atteint peut‑être pas le seuil de la « conduite répréhensible, scandaleuse ou outrageante », mais elle a quand même fait obstacle au règlement du différend, et cela a mené à un règlement partiel tardif, la veille de l'audience.
+VI Analyse
+[15] Les appelants invoquent la décision du juge Bowman (plus tard juge en chef de la Cour canadienne de l'impôt) dans l'affaire Merchant c. La Reine[18] à l'appui de la thèse selon laquelle, même s'il existe une règle générale selon laquelle une conduite antérieure au début d'une action n'est pas pertinente à l'égard de l'adjudication de dépens, cette règle n'est pas invariable. Dans l'affaire Merchant, c'était le comportement obstructionniste du contribuable qui avait en fait empêché de procéder à une vérification efficace. La Cour avait été contrainte d'agir comme vérificatrice et d'examiner des documents qui auraient dû avoir été fournis à l'ARC lors de la vérification. La Couronne s'était vu adjuger les dépens procureur‑client pour le processus d'instruction ainsi que pour toutes les requêtes antérieures.
+[16] Les appelants invoquent également la décision Hunter c. La Reine[19], une affaire dans laquelle le ministre n'avait pas communiqué avec les appelants avant d'établir de nouvelles cotisations et avait refusé de reconnaître la pertinence de l'arrêt Stewart c. Canada[20] à l'égard des pertes d'entreprise qu'avait occasionnée aux contribuables leur exploitation agricole. Aucune décision n'a été prise lors de l'adjudication des dépens dans l'affaire Hunter pour ce qui est de la question de savoir si l'on pouvait tenir compte de la conduite antérieure au litige lors de l'adjudication des dépens, car le comportement obstructionniste du ministre s'était poursuivi pendant un temps considérable au cours du processus d'appel. Cependant, deux décisions mentionnées[21] dans cette décision donnent à penser que la conduite manifestée avant le début d'une instance peut justifier le fait que l'on adjuge des dépens forfaitaires qui excèdent les montants prévus au tarif.
+[17] En l'espèce, le ministre était la partie qui avait fait obstacle au processus de vérification de l'ARC elle‑même en refusant d'accepter ou d'examiner des documents pertinents. L'intimée a fait remarquer que si les appelants avaient attendu avant de déposer leurs avis d'appel auprès de la Cour canadienne de l'impôt, un agent des appels aurait pu les examiner. Toutefois, les appelants ont attendu plus que les douze mois au cours desquels on pouvait s'attendre à ce qu'un tel agent soit affecté à l'affaire. Il est déraisonnable de blâmer les appelants pour avoir fait activer le processus de règlement du litige en déposant leurs avis d'appel.
+[18] L'intimée invoque l'arrêt R. c. Landry[22] à l'appui de la thèse selon laquelle, dans le cas d'une adjudication des dépens, il ne faut prendre en compte qu'à titre exceptionnel la conduite des parties avant une instance judiciaire. Dans l'arrêt Landry, la Cour d'appel fédérale a annulé la somme forfaitaire que j'avais adjugée et a ordonné que chaque partie assume ses frais pour ce qui est de la procédure devant la Cour canadienne de l'impôt. La Cour d'appel fédérale a conclu que, de façon importante, la contribuable (à laquelle la somme forfaitaire avait été adjugée) et son avocat n'avaient pas collaboré avec le ministre au cours de la vérification ainsi que pendant la période précédant la tenue de l'audience. L'avocat de la contribuable avait retenu des renseignements favorables à cette dernière jusqu'à un stade avancé de l'appel.
+[19] La présente espèce se distingue de l'arrêt Landry. M. Halyk a fait certains efforts et assumé certaines dépenses pour que les documents pertinents à l'égard des présents appels soient mis à la disposition de la vérificatrice de l'ARC. La vérificatrice ne les a pas examinés, même si elle était au courant de leur existence. De plus, elle n'a pas répondu à des demandes visant à savoir quels documents additionnels seraient utiles pour la vérification; elle a plutôt procédé à l'établissement de nouvelles cotisations qui n'étaient pas fondées sur des documents que les appelants avaient mis à sa disposition.
+[20] L'intimée fait valoir que cette conduite de l'ARC n'a pas eu d'incidence sur la décision que la Cour a rendue relativement à la question à trancher, à savoir l'utilisation du camion. Cependant, dans ses observations écrites sur les dépens, elle affirme que le carnet de route de M. Halyk était insuffisant. Elle est d'avis que le ministre ne pouvait pas se fonder sur ce carnet ou sur le sommaire de la distance parcourue, car ce dernier était fondé sur le calendrier Outlook de M. Halyk ainsi que sur des renseignements provenant de tiers que l'intimée n'avait pas eu l'occasion d'interroger. Cela donne à penser que les appelants avaient en main des renseignements additionnels qui auraient aidé la vérificatrice de l'ARC à prendre une décision au sujet de l'utilisation du camion. Le fait que la vérificatrice de l'ARC n'ait pas demandé ces renseignements, ni même répondu au comptable des appelants après qu'on lui eut demandé quels autres documents pourraient être utiles pour la vérification, dénote que la conduite de la vérificatrice a bel et bien eu une incidence sur la question dont la Cour était saisie[23].
+VII Conclusions
+[21] Je conclus que la conduite qu'a eue l'intimée avant l'appel ne satisfait pas au critère de la conduite « répréhensible, scandaleuse ou outrageante »[24] qui est exigé en vue de l'adjudication des dépens procureur‑client. Je suis toutefois d'avis que le processus de règlement du litige a été miné par une inaction délibérée. Les réponses que la vérificatrice de l'ARC a données aux questions de l'avocat des appelants montrent qu'elle a pris la décision délibérée de ne pas agir et qu'elle l'a fait en se fondant sur les instructions de son chef d'équipe ainsi que sur les positions que ce dernier avait antérieurement adoptées. La question de savoir si la responsabilité en incombe à la vérificatrice de l'ARC ou à son chef d'équipe est peu pertinente. Le règlement efficace d'un litige requiert des efforts de la part de toutes les parties adverses. Dans le cas présent, il est clair que les appelants ont fait des efforts certains pour collaborer avec la vérificatrice de l'ARC et faciliter le processus de vérification. Il est clair qu'indépendamment des efforts de règlement que le ministre a faits par la suite, certaines des questions dont la Cour a été saisie, sinon toutes, auraient pu être réglées au départ si la vérificatrice avait examiné les documents des appelants, et fait ressortir les lacunes de leurs dossiers, avant l'appel.
+[22] La décision Merchant permet d'affirmer que l'on peut prendre en compte la conduite antérieure au début d'un appel pour fixer une adjudication des dépens. L'arrêt Landry peut être distingué de la présente espèce parce que, dans celle‑ci, les appelants n'ont été rien de moins que coopératifs dans leurs tentatives pour faciliter le règlement du litige. C'est le ministre seul qui a miné ce processus en négligeant d'examiner des documents ou de communiquer efficacement avec les appelants, ce qui s'est soldé par un long litige qu'il aurait été possible de régler bien avant que la Cour en soit saisie. Il y a donc lieu en l'espèce d'adjuger une somme forfaitaire au titre des dépens à l'encontre de l'intimée. Pour ces motifs, j'adjuge aux appelants des dépens de 20 000 $, plus les débours.
+Signé à Ottawa, Canada, ce 29e jour de mai 2013.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+ce 10e jour de juillet 2013.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2013 CCI 168
+NOS DE DOSSIER DE LA COUR : 2011-940(IT)G, 2011-943(IT)G
+INTITULÉS : Myrdan Investments Inc. c. Sa Majesté la Reine
+Daniel Halyk c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Calgary (Alberta)
+DATE DE L'AUDIENCE : Le 11 octobre 2012
+MOTIFS DE L'ORDONNANCE : L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 31 janvier 2013
+DATE DU JUGEMENT Le 13 février 2013
+MODIFIÉ :
+DATE DE L'ORDONNANCE Le 29 mai 2013
+RELATIVE AUX DÉPENS :
+COMPARUTIONS :
+Avocats des appelants :
+Me Curtis R. Stewart
+Me Lisa Handfield
+Avocat de l'intimée :
+Me Robert Neilson
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Curtis R. Stewart
+Lisa Handfield
+Cabinet : Droit fiscal Deloitte s.r.l.
+Calgary (Alberta)
+Pour l'intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Myrdan Investments Inc. c. La Reine, 2013 CCI 35.
+[2] Ces montants sont fondés sur les observations écrites de l'appelante sur les dépens, onglets B, C et D.
+[3] Les dépens comprennent les honoraires d'avocat, les débours et la TPS.
+[4] Les dépens comprennent les honoraires d'avocat, les débours et la TPS.
+[5] Les dépens comprennent les honoraires d'avocat, les débours et la TPS.
+[6] L'« offre de règlement » désigne l'offre que les appelants ont faite à l'intimée le 28 septembre 2011.
+[7] Montant estimatif.
+[8] Ces montants sont fondés sur les observations écrites de l'appelant sur les dépens, onglets B, C, D et E.
+[9] Les dépens comprennent les honoraires d'avocat, les débours et la TPS.
+[10] Les dépens comprennent les honoraires d'avocat, les débours et la TPS.
+[11] Les dépens comprennent les honoraires d'avocat, les débours et la TPS.
+[12] L'« offre de règlement » désigne l'offre que les appelants ont faite à l'intimée le 28 septembre 2011.
+[13] M. Halyk n'a pas eu de dépens liés à la vérification et à l'opposition, de sorte que le montant total de ses dépens est ceux de l'appel jusqu'à la tenue de l'instruction inclusivement.
+[14] En présumant que le taux marginal maximal de l'Alberta s'applique.
+[15] Les appelants font également remarquer que le ministre n'a pas passé en revue les factures relatives aux frais de publicité, ce qui aurait permis de régler cette question avant l'interrogatoire préalable, et qu'il n'a pas répondu à certaines lettres dans lesquelles le comptable de Myrdan demandait si le ministre avait besoin de plus de renseignements pour terminer sa vérification.
+[16] L'intimée se fonde également sur l'arrêt CIBC World Markets Inc. c. La Reine, 2012 CAF 3, à l'appui de la thèse selon laquelle le paragraphe 147(3) des Règles a pour objet d'encourager les parties à présenter des offres de règlement et à prendre ces dernières au sérieux.
+[17] Voir, par exemple, la décision General Electric Capital Canada Inc. c. La Reine, 2010 TCC 490, 2010 D.T.C. 1353, au paragraphe 24.
+[18] Merchant c. La Reine, 1998 CanLII 322 (C.C.I.), conf. par 2001 CAF 19.
+[19] Hunter c. La Reine, 2002 CanLII 47033 (C.C.I.).
+[20] Stewart c. Canada, 2002 CSC 46, [2002] 2 R.C.S. 645.
+[21] Voir les paragraphes 28 à 30 de la décision Hunter, notamment les références faites aux décisions RCP Inc. c. M.R.N., [1986] 1 C.F. 485, et Murano v. Bank of Montreal, 41 O.R. (3d) 222.
+[22] R. c. Landry, 2010 CAF 135. L'intimée se fonde également sur le paragraphe 24 de la décision de la Cour canadienne de l'impôt General Electric Capital Canada Inc., précité (note 17), où l'on fait simplement remarquer que le critère de la conduite répréhensible, scandaleuse ou outrageante s'applique aux demandes de dépens procureur‑client et non à des montants forfaitaires moins élevés.
+[23] Cela est différent des faits dans l'affaire Landry, où le fait qu'un vérificateur de l'ARC n'avait pas interrogé un nombre inconnu de parties indépendantes anonymes ne justifiait pas la conclusion selon laquelle le processus de vérification de l'ARC était vicié. Dans le cas présent, les appelants ont directement offert à l'ARC les documents pertinents, avant les appels.
+[24] Voir, par exemple, la décision General Electric Capital Canada Inc., précité (note 17), au paragraphe 24.

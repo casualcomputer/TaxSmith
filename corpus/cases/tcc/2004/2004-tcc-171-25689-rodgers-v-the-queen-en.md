@@ -1,0 +1,125 @@
+---
+title: "Rodgers v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25689/index.do"
+last_modified: "2004-02-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 171"
+citation2: ""
+neutral_citation: "2004 TCC 171"
+decision_date: "2004-02-25"
+language: "en"
+item_id: "25689"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3847
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:45:16.575000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9001b26c4c8070443f3923b42ca9b8cf8f3570104059a50bf6c33b464dda3d54"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rodgers v. The Queen
+
+- Citation: 2004 TCC 171
+- Decision date: 2004-02-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3847, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rodgers v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-02-25
+Neutral citation
+2004 TCC 171
+File numbers
+2002-1772(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC171
+Date: 20040225
+Docket: 2002-1772(IT)I
+BETWEEN:
+RAYMOND RODGERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+___________________________________________________________________
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Raj Grewal
+___________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Vancouver, British Columbia, on January 24, 2003)
+Bowie J.
+[1] Mr. Rodgers appeals from his income tax assessment for the 1997 taxation year. The only issue is in connection with a taxable capital gain to which he was assessed as the result of the sale by him of a ten-acre parcel of land at Pemberton, British Columbia. Mr. Rodgers takes the position that he was not subject to tax in connection with this sale as he had his principal residence, in fact his only residence, there.
+[2] However, the matter is not that simple, although only one fact is seriously disputed and that is a fact which, in the final analysis, I do not have to determine. The evidence shows that Mr. Rodgers acquired the lot, which is slightly in excess of ten acres, in April 1983. The transfer that was executed at that time showed the value of it to be $44,900. In filing his income tax return for the 1994 taxation year, Mr. Rodgers elected to declare a capital gain under subsection 110.6(19) of the Income Tax Act (the Act) in order to take advantage of the capital gains exemption that the Act provided for at that time.
+[3] In 1995, he and his wife took up residence in a travel trailer situated on the property. The Minister does not dispute that this trailer qualifies as a housing unit for the purposes of the definition of a principal residence that is found in section 54 of the Act. They lived there until 1997, when they moved their home and Mr. Rodgers sold the land. The net proceeds of the sale at that time were $221,446. None of this is disputed.
+[4] The Appellant and his wife purported to file a joint income tax return for the 1997 taxation year. The Act does not permit the filing of a joint return by two people, whether married or otherwise. He was, therefore, requested by the Minister to file an individual return for himself, but he has never done so. This gave rise to a late-filing penalty which was imposed under the Act. I did not understand the Appellant to dispute that as a matter of law he was liable to that penalty. On the uncontested facts, he was liable, and on that aspect of the appeal he cannot succeed.
+[5] The Minister, being aware of the sale of the property, assessed Mr. Rodgers, by a Notice of Assessment dated May 17, 2001, for a taxable capital gain of $45,493.11. This was computed on the theory that it was only the gain on one-half of the property during the period between 1995 and 1997 that was immunized from taxation as the taxpayer's principal residence. The Minister took the position that since the applicable by-law of the Squamish-Lillooet Rural District at that time provided that land zoned R1, as this land was, was subject to a minimum lot size of five acres, Mr. Rodgers could have severed a lot of five acres, and so half the lot was, for the purposes of the Act, excess land.
+[6] The Minister calculated the taxable capital gain on this basis and the assessment was made on this basis. The computation of that taxable capital gain was filed at the hearing as Exhibit R-18. It is apparent from Exhibit R-18 that the calculation made was in error. It started from the assumption that the property was acquired in 1992 rather than 1982, with the result that the taxable capital gain was understated. By the time the Minister filed a Reply to the Notice of Appeal, which was in July 2002, this error had been detected and in the Reply the Minister pleaded that, first, if the capital gain were calculated on the basis that 50 percent of the land was severable excess land, then the taxable capital gain was $45,037 for the excess land and $23,167 for the land with the trailer on it in respect of the years before it became a residence, giving rise to a total taxable capital gain of $68,204 and, in the alternative, if the capital gain were to be calculated on the basis that the lot was not severable, that none of it was excess land, then the taxable capital gain, properly computed with the principal residence exemption applied to all the land in respect of the period between 1995 and 1997, then the taxable capital gain is $46,334. These two computations are set out in detail in Exhibits R-19 and R-20, respectively. Mr. Dyak, who did the actual computations, explained his computations, but he was not questioned about them by Mr. Rodgers. I have reviewed these computations and I am satisfied that they were correctly done in accordance with the provisions of the Act.
+[7] Mr. Rodgers disputed the assessment on the basis that, in his opinion, the land was not severable for a number of reasons that I need not go into in any detail. He testified that he had filed an application to sever the land. He was not able to produce any evidence that his application to sever it had been specifically denied, although it certainly was not granted during the significant period of time for which he pursued it. I note, in passing, that the subsequent owner to whom Mr. Rodgers sold the land managed to accomplish a severance of it.
+[8] In any event, in the particular circumstances of this case, the question of severability is moot because, even giving Mr. Rodgers the benefit of the doubt and assuming that the land was not severable and that there was no excess land, the taxable capital gain, properly computed, is slightly greater than that to which he was assessed. Mr. Rodgers says that it was only days before the hearing of his appeal that it was explained to him for the first time that the Minister's recalculation of the gain gave rise to this result. While the new ground for supporting the assessment was pleaded in the Reply, he says that he did not understand it. I am certainly sympathetic to his position on that score. The new ground is pleaded in such an abstruse way as to render it difficult to comprehend. It is only one more example of the all too frequent practice of the Deputy Attorney General of Canada of filing pleadings which, if they do not deliberately obscure the issues, certainly do little to define or clarify them. This is a practice that I and other judges have deplored in writing in the past and have asked be brought to the attention of the Deputy Attorney General, without any discernable improvement in the pleadings being filed.
+[9] Mr. Rodgers asks that I apply principles of equitable estoppel, Scott's law, and other doctrines - all of which I am sure he does not understand - and thereby relieve him of the burden of taxation on this capital gain, because it was never explained to him or not explained to him until very shortly before the trial of the matter that, as a result of the mistake to which I have referred, the issue of excess land or no excess land became moot. It is well-settled law that this Court has no jurisdiction to relieve taxpayers of taxes that are properly payable when the law, as Parliament has written it, is applied to the facts as established at the trial, if they have been assessed according to law. The Act was recently amended to add subsection 152(9) which makes specific provision whereby the Minister may advance an alternative argument in support of an assessment at any time after the normal assessment period, unless there is relevant evidence that the taxpayer would not be able to adduce without leave of the Court and it is inappropriate to grant that leave. That exception has no application here and it is beyond doubt that the Minister was at liberty in this case to plead and to argue at the hearing the alternative computation, or I should perhaps say the more correct computation.
+[10] In any event, I am bound by the law as it was stated by Mr. Justice Stone for a unanimous panel of the Federal Court of Appeal in R. v. Riendeau[1] at paragraph 4. He said there:
+In our view, the Minister's mental process in making an assessment cannot affect a taxpayer's liability to pay the tax imposed by the Act itself. He may correct a mistake. The trial Judge was right in rejecting the appellant's argument and in determining that the Minister was entitled to confirm the reassessments in question.
+That, of course, is precisely what happened here. The Minister made a mistake. He subsequently corrected it, as he was entitled to do.
+[11] The application of this principle makes it irrelevant whether the Minister or the Appellant is correct as to the potential to sever this lot into two parcels of five acres each. If the Minister were correct, I have no jurisdiction to increase the tax imposed beyond that set out in the assessment, even though that assessment is in error (see Harris v. Minister of National Revenue).[2] If the Minister is correct and the lot was severable, then the Appellant, through the assessor's error, has had a windfall of the tax on $68,204 minus $45,037, which is $23,167. If Mr. Rodgers is correct, then his windfall is only the tax on $46,334 minus $45,037, which is to say the tax on $1,297. But either way, Mr. Rodgers has been assessed for less tax than in fact was exigible on his capital gain.
+[12] Given the history of this matter, including the erroneous calculation, it may be a case in which the Minister would give favourable consideration to an application to waive some or all of the interest that Mr. Rodgers owes under subsection 220(3.1) of the Act. That, however, is not a matter within my jurisdiction. My jurisdiction is limited to dealing with the legality of the assessment as it was made.
+[13] For all of the foregoing reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 25th day of February, 2004.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2004TCC171
+COURT FILE NO.:
+2002-1772(IT)I
+STYLE OF CAUSE:
+Raymond Rodgers and Her Majesty the Queen
+PLACE OF HEARING
+Vancouver, British Columbia
+DATE OF HEARING
+January 21, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT
+January 28, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Raj Grewal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 91 DTC 5416.
+[2] 64 DTC 5332.

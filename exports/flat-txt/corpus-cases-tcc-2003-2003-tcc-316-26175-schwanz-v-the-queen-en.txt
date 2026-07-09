@@ -1,0 +1,126 @@
+Title: Schwanz v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26175/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-316-26175-schwanz-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-05-07
+
+# Schwanz v. The Queen
+
+- Citation: 2003 TCC 316
+- Decision date: 2003-05-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3973, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schwanz v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-07
+Neutral citation
+2003 TCC 316
+File numbers
+2002-3171(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-3171(IT)I
+BETWEEN:
+JUDITH SCHWANZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 5, 2003 at Toronto, Ontario
+Before: The Honourable Judge L.M. Little
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Joel Oliphant
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1997 and 1998 taxation years are dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 7th day of May 2003.
+"L.M. Little"
+J.T.C.C.
+Citation: 2003TCC316
+Date: 20030507
+Docket: 2002-3171(IT)I
+BETWEEN:
+JUDITH SCHWANZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little, J.
+A. FACTS
+[1] The Appellant was the mother of three children:
+Born
+Holly M. Kirkwood
+December 18, 1982
+Sarah A. Kirkwood
+July 05, 1987
+Roy A. Kirkwood
+September 25, 1990
+(The above children are hereinafter referred to as the "Children").
+[2] Andrew Kirkwood was the father of the Children.
+[3] The taxation years in question are:
+1997 Base Taxation Year - (for the period July 1998 to June 1999).
+1998 Base Taxation Year - (for the period July 1999 to June 2000).
+[4] The Minister of National Revenue (the "Minister") determined that the Children were residing with the Appellant at all relevant times in the 1997 and 1998 base taxation years. The Minister therefore concluded that the Appellant was entitled to receive the Canada Child Tax Benefit ("CCTB") in respect of the Children.
+[5] The Minister paid the Appellant the CCTB in respect of the Children during the 1997 and 1998 base taxation years. The following CCTB payments were paid by the Minister to the Appellant in respect of the Children:
+1997
+$4,102.08
+1998
+$4,179.18
+[6] The Appellant stated that she did not advise the Minister that the Children had ceased to reside with her in the 1997 and 1998 base taxation years.
+[7] The Appellant maintains that she paid the CCTBs of $4,102.08 and $4,179.18 in cash to Andrew Kirkwood.
+[8] The Minister concluded that since the Children were not residing with the Appellant in the 1997 and 1998 base taxation years the Appellant was not entitled to receive the CCTB in respect of the Children for the 1997 and 1998 base taxation years. The Minister has therefore demanded that the Appellant repay the amounts of $4,102.08 and $4,179.18.
+B. ISSUE
+[9] The issue is whether the Appellant is required to repay the CCTB payments of $4,102.08 and $4,179.18 that she received in respect of the Children in the 1997 and 1998 base taxation years respectively.
+C. ANALYSIS
+[10] Section 122.61 of the Income Tax Act (the "Act") provides for payment of the CCTB to an "eligible individual". In order to qualify as an "eligible individual" a person must reside with the child (see definition of "eligible individual" in section 122.6 of the Act). In this situation the evidence is clear that the Appellant did not reside with the Children during the 1997 and 1998 base taxation years. The Appellant was therefore not an eligible individual within the meaning of the definition contained in the Act in the 1997 and 1998 base taxation years.
+[11] Before concluding my comments, I wish to note that I have some sympathy for the Appellant since she maintains that she gave all of the CCTB payments that she received to the children's father, Andrew Kirkwood. It seems to me that the Appellant's dispute is not with the Minister but with Andrew Kirkwood. In this connection it should be noted that in a memorandum dated November 18, 2001 (Exhibit A-1) Andrew Kirkwood said as follows:
+I Andrew Kirkwood, declare that I received $6,000.00 through Canada Customs and Revenue Agency. I received all child credits from Judith Anne Shwanz regarding our children, Holly, Sarah and Roy. I take all responsibilities hereafter.
+Based on the statements made by Mr. Kirkwood in this memorandum, it would appear that the Appellant should obtain the payments made to satisfy the Minister's claim from Andrew Kirkwood.
+[12] The appeals are dismissed, without costs.
+Signed at Toronto, Ontario, this 7th day of May 2003.
+"L.M. Little"
+J.T.C.C.
+CITATION:
+2003TCC316
+COURT FILE NO.:
+2002-3171(IT)I
+STYLE OF CAUSE:
+Judith Schwanz and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 5, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge L.M. Little
+DATE OF JUDGMENT:
+May 7, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Joel Oliphant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

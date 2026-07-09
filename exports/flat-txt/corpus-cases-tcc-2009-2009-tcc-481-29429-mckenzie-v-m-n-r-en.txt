@@ -1,0 +1,141 @@
+Title: McKenzie v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29429/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-481-29429-mckenzie-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2009-09-29
+
+# McKenzie v. M.N.R.
+
+- Citation: 2009 TCC 481
+- Decision date: 2009-09-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6981, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKenzie v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-29
+Neutral citation
+2009 TCC 481
+File numbers
+2009-1083(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2009-1083(EI)
+BETWEEN:
+GILLIAN McKENZIE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 24, 2009 at Halifax, Nova Scotia
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jill L. Chisholm
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to a decision of the Minister of National Revenue under the Employment Insurance Act that the appellant was not engaged in insurable employment for the period from May 7, 2008 to October 4, 2008 is allowed, and the decision is vacated. Each party shall bear their own costs.
+Signed at Ottawa, Ontario this 29th day of September 2009.
+“J. M. Woods”
+Woods J.
+Citation: 2009 TCC 481
+Date: 20090929
+Docket: 2009-1083(EI)
+BETWEEN:
+GILLIAN McKENZIE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, Gillian McKenzie, appeals with respect to a decision of the Minister of National Revenue concerning insurable employment under the Employment Insurance Act. The period at issue is from May 7, 2008 to October 4, 2008.
+[2] In 2006, the appellant and her parents purchased a restaurant in Nova Scotia by the name of Seaside Shanty. The restaurant was operated by GCM Holdings Limited (“GCM”), a corporation that was wholly-owned by the appellant and her parents.
+[3] The restaurant is open from May to October each year. The appellant’s parents do not have regular involvement with the business. The appellant was employed full time in the business during the period that the restaurant was open except in the last week when it was not busy. Both the appellant and her mother worked for a couple of weeks before the restaurant opened for the season and after it had closed. This was preparatory work.
+[4] The appellant is related to GCM for purposes of the Act. As such, her employment is not insurable unless the terms and conditions are substantially similar to what they would be if she and GCM were dealing at arm’s length.
+[5] The Minister determined that the employment terms were not substantially similar to an arm’s length relationship.
+[6] The question to be determined is whether the Minister’s determination was reasonable.
+[7] Before considering this issue, I would first comment on the approach that must be taken in a case such as this. It was succinctly described by Campbell J. in Porter v. MNR, 2005 TCC 364, at paragraph 13:
+In summary, the function of this Court is to verify the existence and accuracy of the facts relied upon by the Minister, consider all of the facts in evidence before the Court, including any new facts, and to then assess whether the Minister's decision still seems "reasonable" in light of findings of fact by this Court. This assessment should accord a certain measure of deference to the Minister.
+Discussion
+[8] There is very little dispute about the facts. I will start, then, by reproducing the relevant parts of paragraph 5 of the reply which describes the assumptions made by the Minister for purposes of his determination:
+[…]
+g) during the period under appeal, the Appellant was the dining room manager for the restaurant (the “Manager Position”);
+h) during the period under appeal, the Payor employed 5 to 10 employees to perform duties in the dining room (the “Dining Room Staff”);
+i) the Appellant’s duties in the Manager Position included supervising the Dining Room Staff, shopping for groceries, providing hostess services, cleaning, dishwashing, and bartending (the “Duties”);
+j) during the period under appeal, the Appellant purportedly spent an average of 50 hours per week performing the Duties;
+k) in the Director Position, the Appellant performed bookkeeping duties (the “Director’s Duties”);
+l) the Appellant spent approximately 2 hours per week performing the Director’s Duties;
+m) the Appellant was not remunerated for performing the Director’s Duties;
+n) the Appellant’s salary was $650 per week, regardless of the number of hours she worked;
+o) all staff members at the Restaurant, other than the Appellant, were paid hourly;
+p) when the Appellant was not performing the Duties, the Duties were shared by the Dining Room Staff;
+q) the Dining Room Staff were not remunerated for performing the Duties normally performed by the Appellant;
+r) the Restaurant had a separate kitchen manager (the “Kitchen Manager”);
+s) the Kitchen Manager was paid $12 per hour worked;
+t) all staff members at the Restaurant, other than the Appellant and the Kitchen Manager, were paid between $8 and $10 per hour;
+u) all staff members at the Restaurant, other than the Appellant, received pay, above their regular rate, if they worked on a statutory holiday;
+v) in 2008, the Restaurant opened for the season on or around May 7, 2008;
+w) prior to the period under appeal, the Appellant spent approximately 20 hours per week performing both the Duties and the Director’s Duties;
+x) the Appellant performed the Duties and the Director’s Duties prior to the period under appeal for no remuneration;
+y) prior to the period under appeal, the Appellant also ordered the bar supplies for the Restaurant;
+z) the Appellant was not remunerated for her time spent ordering the bar supplies for the Restaurant;
+aa) in 2008, the Restaurant closed for the season on October 12, 2008;
+bb) the Appellant was laid off from the Manager Position on October 4, 2008;
+cc) the Dining Room Staff continued to work for the Payor until the restaurant closed for the season;
+dd) after the period under appeal the Appellant continued to spend approximately 20 hours per week performing the Duties and the Director’s Duties;
+ee) the Appellant continued to perform the Duties and the Director’s Duties after the period under appeal for no remuneration; and
+ff) the Payor did not have a need for the Appellant to perform the Duties.
+[9] If the above assumptions are correct and complete, I would have no hesitation in concluding that the decision of the Minister was reasonable. The assumptions do not tell the whole story, however. The terms of the employment are much closer to arm’s length terms than the assumptions would suggest.
+[10] First, in (w) and (ee) the Minister assumed that the appellant worked before and after the relevant period for no remuneration.
+[11] These assumptions give the impression that work was performed for no remuneration on an indefinite basis. In fact, this period was quite limited. According to appellant’s testimony, which I accept, she worked for about two weeks before and two weeks after the restaurant was open each year in preparatory work. The appellant’s mother, who was also a shareholder, helped with some of the preparations for no remuneration.
+[12] Second, in (k) and (m) the Minister assumed that the appellant performed bookkeeping duties in her capacity as a director and that she was not remunerated for this.
+[13] The appellant testified that she was paid a flat amount of $1,500 annually for bookkeeping. She stated that she did not consider this as part of her employment duties and that the amount was equal to what the previous owner had paid a bookkeeper.
+[14] Although I can understand why the appellant concluded that the bookkeeping duties were not part of her employment, it is not reasonable to separate out the appellant’s duties as being in part employment and in part something else.
+[15] Nothing turns on this, however, because the important point is that the appellant received reasonable remuneration for the bookkeeping duties. The terms were set based on arrangements that the prior owner had made. I do not know what more the appellant could have done to have arm’s length terms than to mirror terms set by the prior owner.
+[16] According to (q), the Minister assumed that the dining room staff were not remunerated for performing duties normally performed by the appellant.
+[17] This assumption has been rebutted. Most of the staff were arm’s length and the hourly wage paid to them clearly compensated them for taking over the appellant’s duties when she was not there.
+[18] According to (ff), the Minister assumed that the payor did not have a need for the appellant to perform the duties.
+[19] It is not clear to me what conclusion was taken from this assumption. If the Minister assumed that the appellant’s duties were not important, this has been clearly rebutted by the appellant’s testimony.
+[20] If, on the other hand, the Minister assumed that someone else could have assumed these duties, this would be correct. Another manager could be hired to do these tasks. I do not believe, however, that the work was equivalent to the duties generally performed by the dining room staff. The appellant’s managerial role clearly should be paid on a different scale. All of the dining staff pitched in to help with various tasks, but the appellant’s managerial role carried considerably more responsibility.
+[21] Overall, the Minister seemed to view the appellant’s managerial duties as not being vital to the business. Based on the evidence presented, I would have thought that the appellant’s role was very important to the success of the restaurant. As for whether the salary paid to the appellant was reasonable, there is no reason for me to believe that it was not.
+[22] There is one factor that is not reflective of an arm’s length relationship and that is that the appellant worked for no additional remuneration for a couple of weeks before and after the restaurant was open.
+[23] The period involved in opening and closing was brief. The test is whether the employment was “substantially similar” to arm’s length employment. It would not be reasonable in my view to consider the appellant’s relationship as not satisfying the test in s. 5(3)(b) of the Act simply because of the opening and closing duties. In almost all respects, the employment was at arm’s length terms.
+[24] The appeal is allowed, and the decision of the Minister that the appellant was not engaged in insurable employment during the period from May 7, 2008 to October 4, 2008 is vacated.
+[25] Each party shall bear their own costs.
+Signed at Ottawa, Canada this 29th day of September 2009.
+“J. M. Woods”
+Woods J.
+CITATION: 2009 TCC 481
+COURT FILE NO.: 2009-1083(EI)
+STYLE OF CAUSE: GILLIAN McKENZIE and
+THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: September 24, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: September 29, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jill L. Chisholm
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

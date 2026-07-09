@@ -1,0 +1,190 @@
+---
+title: "Holmes c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25071/index.do"
+last_modified: "2005-06-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 403"
+citation2: ""
+neutral_citation: "2005 CCI 403"
+decision_date: "2005-06-21"
+language: "fr"
+item_id: "25071"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2481
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:48:15.021000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5aeb1a5df9112aec27f44328fdda308e4e49ad0bbc98c6a76c5a457815ed4733"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Holmes c. La Reine
+
+- Citation: 2005 CCI 403
+- Decision date: 2005-06-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2481, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Holmes c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-21
+Référence neutre
+2005 CCI 403
+Numéro de dossier
+2001-1819(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-1819(IT)G
+ENTRE :
+ANNE HOLMES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+________________________________________________________________
+Appel entendu avec l'appel de Ross Holmes (2001‑1820(IT)G)
+les 14 et 15 avril 2005 à London (Ontario).
+Devant : L'honorable juge G. Sheridan
+Comparutions :
+Avocat de l'appelante :
+Me Richard Lockwood
+Avocat de l'intimée :
+Me Ifeanyi Nwachukwu
+[TRADUCTION FRANÇAISE OFFICIELLE]
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1993 est admis, avec dépens, et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte de ce qui suit, conformément aux motifs du jugement ci‑joints :
+1. la question précisée dans la renonciation présentée au ministre par Anne Holmes pour l'année d'imposition 1993 ne peut raisonnablement être considérée, pour l'application du sous‑alinéa 152(4.01)a)(ii), comme se rapportant à des pertes agricoles restreintes.
+Signé à Ottawa, Canada, ce 21e jour de juin 2005.
+« G. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 12e jour de mai 2006.
+Yves Bellefeuille, réviseur
+Dossier : 2001-1820(IT)G
+ENTRE :
+ROSS HOLMES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+________________________________________________________________
+Appel entendu avec l'appel d'Anne Holmes (2001‑1819(IT)G)
+les 14 et 15 avril 2005 à London (Ontario).
+Devant : L'honorable juge G. Sheridan
+Comparutions :
+Avocat de l'appelant :
+Me Richard Lockwood
+Avocat de l'intimée :
+Me Ifeanyi Nwachukwu
+[TRADUCTION FRANÇAISE OFFICIELLE]
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1993 est admis, avec dépens, et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte de ce qui suit, conformément aux motifs du jugement ci‑joints :
+1. aucune renonciation n'a été présentée au ministre pour le compte de Ross Holmes relativement à l'année d'imposition 1993 de manière à permettre au ministre d'établir une nouvelle cotisation après l'expiration de la période normale de nouvelle cotisation en vertu du sous‑alinéa 152(4)a)(ii);
+2. même si je me trompe au premier point, la question précisée dans la renonciation présentée au ministre par Ross Holmes pour l'année d'imposition 1993 ne peut raisonnablement être considérée, pour l'application du sous‑alinéa 152(4.01)a)(ii), comme se rapportant à des pertes agricoles restreintes.
+Signé à Ottawa, Canada, ce 21e jour de juin 2005.
+« G. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 12e jour de mai 2006.
+Yves Bellefeuille, réviseur
+Référence : 2005CCI403
+Date : 20050621
+Dossier : 2001-1819(IT)G
+ENTRE :
+ANNE HOLMES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2001-1820(IT)G
+ET ENTRE :
+ROSS HOLMES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sheridan
+[1] Les appelants, Ross Holmes et Anne Holmes, interjettent appel à l'encontre des nouvelles cotisations établies par le ministre du Revenu national pour leur année d'imposition 1993. Les appels formés pour leurs années d'imposition 1994 et 1995 ont été retirés à l'audience. Les appels interjetés pour l'année 1993 ont été entendus ensemble. La question commune aux deux appels est de savoir si la description de la question précisée dans les renonciations peut raisonnablement être considérée comme se rapportant à des pertes agricoles restreintes, comme l'exige le sous‑alinéa 152(4.01)a)(ii) de la Loi de l'impôt sur le revenu. En ce qui concerne Ross Holmes uniquement, même si l'on répond par l'affirmative à la question précitée, il y a l'autre question de savoir si la renonciation signée par M. Holmes a été « présentée » au ministre au sens du sous‑alinéa 152(4)a)(ii) de la Loi de l'impôt sur le revenu.
+[2] En 1993, M. et Mme Holmes étaient les seuls actionnaires de R. B. Holmes Marketing Services Inc. et tiraient tous deux un revenu de la société. Ils étaient en outre associés dans une entreprise d'élevage et de courses de chevaux appelée Brookfield Farms. Avant 1989, la société exploitait Brookfield Farms, mais l'entreprise a par la suite été transférée à la société de personnes des Holmes. Dans leurs déclarations pour 1990 et 1991, M. et Mme Holmes ont restreint leurs pertes agricoles. En 1993, ils ont déduit le montant complet de leurs pertes agricoles; le ministre a établi de nouvelles cotisations afin d'autoriser uniquement des pertes agricoles restreintes, et c'est de ces nouvelles cotisations que M. et Mme Holmes font appel.
+[3] En janvier 1997, les dossiers des Holmes ont été confiés au vérificateur Richard LeDuc de l'Agence des douanes et du revenu du Canada. Voyant que la période normale de nouvelle cotisation pour leur année d'imposition 1993 arrivait à échéance le 6 juin 1997 dans le cas de M. Holmes et le 13 juin 1997 pour Mme Holmes, M. LeDuc a envoyé à M. et Mme Holmes une lettre datée du 24 avril 1997 et accompagnée de renonciations à signer. Il a demandé qu'on lui fasse savoir [TRADUCTION] « immédiatement » si les renonciations seraient [TRADUCTION] « présentées » étant donné que la date de prescription des déclarations pour 1993 approchait. Monsieur et madame Holmes ont transmis les renonciations à leurs comptables pour examen. Personne ne conteste que l'original de la renonciation d'Anne Holmes est parvenu au Bureau des services fiscaux de London, où on y a indiqué la date du 4 juin 1997 au moyen d'un timbre[1]. On ne sait toutefois pas ce qui est advenu de l'original de la renonciation de Ross Holmes; une copie portant la signature de M. Holmes datée du 16 mai 1997, mais sur laquelle on n'a pas indiqué de date au moyen d'un timbre, a été produite comme pièce R‑1, onglet 2. M. Holmes n'a aucune connaissance personnelle de ce qui est advenu de la renonciation après qu'il s'en fut départi, et il exige que le ministre prouve qu'elle a été produite en application de la Loi pour l'autoriser à rouvrir sa déclaration pour l'année d'imposition 1993 par ailleurs frappée de prescription.
+Une renonciation signée par M. Holmes a‑t‑elle été présentée au ministre au sens du paragraphe 152(4) de la Loi de l'impôt sur le revenu?
+[4] Le ministre peut établir une nouvelle cotisation d'impôt pour une année d'imposition après l'expiration de la période normale de nouvelle cotisation seulement si le contribuable a présenté au ministre une renonciation, selon le formulaire prescrit, au cours de la période normale de nouvelle cotisation applicable au contribuable pour cette année d'imposition[2]. C'est au ministre qu'il incombe de prouver que la renonciation a été présentée. Bien que la Loi fixe la forme que doit prendre la renonciation, elle ne prévoit ni ne définit autrement la façon dont elle doit être présentée; en conséquence, la question de savoir si une renonciation a été « présentée » sera déterminée par les preuves soumises.
+[5] La période normale de nouvelle cotisation pour l'année d'imposition 1993 de M. Holmes a pris fin le 6 juin 1997. Pour corroborer sa position selon laquelle la renonciation de M. Holmes a été présentée en bonne et due forme avant cette date, la Couronne a fait comparaître M. LeDuc, le vérificateur. Ce dernier croyait que, le 4 juin 1997, il s'était rendu dans les bureaux de Ernst & Young, les comptables de M. Holmes, pour recueillir les renonciations signées de M. et Mme Holmes auprès d'une certaine Mme Lecomte. Aucune des parties n'a fait comparaître cette dernière, même si son témoignage aurait pu être utile. Monsieur LeDuc a témoigné qu'il se rappelait être retourné à son bureau avec les renonciations et avoir photocopié les originaux. Il les a alors données à une commis, qui y a apposé la date au moyen d'un timbre, puis les lui a rendues. Il les a ensuite vraisemblablement versées dans leur dossier « de travail » respectif, ou peut‑être dans le « dossier des documents permanents ». Il s'est finalement rendu au poste de travail de son superviseur, Jim Taylor, pour l'informer qu'il avait obtenu les renonciations.
+[6] Ce témoignage détaillé est cependant incompatible avec le compte rendu fait antérieurement par M. LeDuc à Christine Spettigue, l'agente des appels de l'ADRC qui a fait l'objet d'un interrogatoire préalable en juillet 2002. Étant donné que M. LeDuc avait quitté le ministère en 2001 et que Mme Spettigue n'avait pas pris part à l'étape de la vérification, cette dernière a consulté M. LeDuc afin de remplir certains engagements pris au moment de l'interrogatoire préalable. Après avoir consulté M. LeDuc, Mme Spettigue a dactylographié ses réponses aux engagements (confirmées à l'audience) en s'appuyant sur les notes qu'elle avait prises au cours de leur conversation :
+[TRADUCTION]
+Monsieur LeDuc ne se souvenait pas précisément du moment où il a reçu les renonciations. Il affirme qu'il les aurait classées avec les autres documents qu'il conservait pour le dossier[3].
+Monsieur LeDuc dit qu'il aurait normalement informé son chef d'équipe au sujet des renonciations, mais il n'en a pas de souvenir précis et ne se rappelle pas si M. Taylor les a vues. Jim Taylor n'a pas de souvenir précis de ses discussions avec Rick LeDuc[4].
+[7] Pour essayer d'expliquer les écarts entre ces réponses et son témoignage à l'audience, M. LeDuc a dit qu'il était [TRADUCTION] « mieux préparé » pour ces appels qu'il ne l'avait été pour les questions que lui avait posées Mme Spettigue. Il a admis que ses T2020, les notes ponctuelles qu'il a prises sur des sujets tels que les appels téléphoniques, les rencontres, l'attribution des dossiers, les préparatifs de la vérification, l'approbation des renonciations et l'obtention des renonciations, ne lui étaient, dans les deux cas, pas accessibles parce qu'ils [TRADUCTION] « avaient été égarés », tout comme d'autres éléments du dossier Holmes. Ainsi, en fournissant des renseignements devant servir à la réponse de la Couronne aux engagements pris en 2002, M. LeDuc n'a pu se fier qu'à sa mémoire. Pour être « mieux préparé » pour ces appels, cependant, M. LeDuc a eu accès à divers documents liés au litige.
+[8] L'insistance avec laquelle il a maintenu, lors du contre‑interrogatoire, que son souvenir d'événements qui s'étaient produits en 1997 était meilleur en 2005 qu'il ne l'avait été en 2002 va non seulement à l'encontre de l'expérience humaine générale, mais elle contraste aussi avec les autres trous de mémoire qu'il a eus durant son témoignage. Monsieur LeDuc n'arrivait pas à se souvenir d'autres dates qui devaient avoir autant sinon plus d'importance dans sa vie que l'obtention d'une renonciation en 1997 au sujet de laquelle – selon sa version des événements – il n'avait à l'époque aucune raison de s'inquiéter particulièrement. Par exemple, il n'était pas tout à fait certain de la date à laquelle il avait quitté l'ADRC. De plus, M. LeDuc pensait qu'il avait transféré le dossier Holmes à son collègue Joe Sadlowski en juillet 1997; en fait, c'était en décembre 1997. Il ne se rappelait pas non plus à quel moment il avait rencontré Mme Spettigue pour préparer l'interrogatoire préalable; il croyait que c'était probablement en septembre 2002, mais c'était en réalité en juillet 2002. Il a attribué sa confusion au fait qu'il n'avait pas pris note de la date, une explication tout à fait raisonnable – mais qui amoindrit la probabilité qu'il ait eu en 2005 un souvenir plus clair qu'il n'aurait eu en 2002 des événements de 1997 qui ont entouré la présentation de la renonciation. Son explication démontre également la nécessité d'établir une procédure pour la tenue des dossiers et de s'y conformer quand des droits et des obligations dépendent d'une gestion saine et opportune de grandes quantités de documents.
+[9] Le témoignage des fonctionnaires de l'ADRC a révélé un manque général de pratiques uniformisées. Monsieur LeDuc a dit qu'il avait l'habitude d'indiquer la date au moyen d'un timbre sur toutes les renonciations. Madame Spettigue a affirmé qu'il n'aurait jamais été dans ses habitudes d'indiquer la date au moyen d'un timbre sur une renonciation qu'elle avait reçue personnellement; elle savait, par contre, que les renonciations reçues à la salle du courrier de son bureau portaient toujours la date. Aucune explication n'a été donnée au sujet du traitement différent accordé au même document reçu dans le même bureau. Monsieur Sadlowski, qui, comme M. LeDuc, n'est plus un employé de l'Agence, a décrit le souvenir qu'il avait du dossier Holmes comme n'étant [TRADUCTION] « pas aussi clair que ça ». Il ne savait pas non plus exactement quelle était la procédure, et a affirmé que s'il l'avait déjà su, ce n'était plus le cas aujourd'hui. Contrairement à ce que Mme Spettigue et M. Leduc considéraient comme une pratique courante, M. Sadlowski ne conservait pas de T2020, préférant tenir un « registre » électronique de ce qu'il jugeait digne d'intérêt. Bien qu'il ait témoigné que la renonciation de M. Holmes devait avoir été égarée alors qu'il en était responsable, un incident qu'il décrit comme [TRADUCTION] « gênant », il n'en a pas fait mention dans son registre. Quoi qu'il en soit, il était incapable de se rappeler s'il avait véritablement vu la renonciation originale de Ross Holmes ou, s'il l'avait vue, si on y avait indiqué la date au moyen d'un timbre.
+[10] Il ne serait pas raisonnable de s'attendre à ce que les fonctionnaires se fient uniquement à leur mémoire dans leur travail. Pour ce qui est de M. LeDuc, depuis son entrée en fonction à l'ADRC en 1989, il avait réalisé entre 70 et 80 vérifications d'exploitations agricoles. Il venait tout juste d'entamer les étapes préliminaires de la vérification du dossier Holmes quand celui‑ci a été transféré à son collègue, M. Sadlowski, il y a quelque sept ans. Il a quitté l'Agence en 2001, près de quatre ans avant la présente audience. Ses T2020 étaient manquants; tout autre journal personnel qu'il pouvait avoir tenu avait été détruit à son départ. En pareilles circonstances et compte tenu d'autres témoignages contradictoires, les souvenirs précis que M. LeDuc avait de la renonciation de Ross Holmes ne sont tout simplement pas crédibles.
+[11] La Loi autorise le ministre à établir une nouvelle cotisation après l'expiration de la période normale de nouvelle cotisation seulement si le contribuable a « présenté » une renonciation au cours de cette période. Pour faire valoir son droit d'établir une nouvelle cotisation, le ministre doit être capable de prouver qu'une renonciation a été présentée. Ce n'est qu'à cette condition qu'il sera fondé à empiéter sur le droit du contribuable de ne pas faire l'objet d'une nouvelle cotisation après l'échéance prévue par la loi. La Loi étant muette sur ce que comporte la présentation d'une renonciation, la question de savoir s'il y a eu présentation dépend des circonstances de chaque cas.
+[12] Il n'existe pas de fondement légal permettant de conclure qu'une renonciation n'est « présentée » que si on y indique la date au moyen d'un timbre. Toutefois, comme on peut facilement le constater dans le présent appel, l'adoption d'une telle pratique accroîtrait la capacité du ministre de prouver qu'une renonciation a été présentée comme il se doit. Sans les autres circonstances en l'espèce qui militent contre une telle constatation, la remise de la renonciation à M. LeDuc quand il s'est rendu dans les bureaux de Ernst & Young pourrait avoir constitué une présentation. Mais à la lumière des faits de l'espèce, selon lesquels la renonciation originale de M. Holmes et d'autres documents importants sous la garde du ministre sont introuvables, aucune inscription d'aucune sorte faisant foi de sa réception n'apparaît sur la copie de la renonciation, il n'y a pas de pratiques uniformes pour le traitement des renonciations, et il n'existe pas d'autre preuve fiable permettant de conclure que la renonciation de M. Holmes a été reçue en bonne et due forme, on ne peut pas affirmer que le ministre s'est acquitté du fardeau de la preuve qui lui incombait. Je ne suis pas convaincue, selon la prépondérance des probabilités, que M. Holmes a présenté au ministre, comme l'exige la Loi, une renonciation relativement à l'année d'imposition 1993 pour l'autoriser à établir pour cette année‑là une nouvelle cotisation après l'expiration de la période normale de nouvelle cotisation.
+Objet de la renonciation : la description de la question précisée dans les renonciations peut‑elle raisonnablement être considérée comme se rapportant à des pertes agricoles restreintes comme l'exige le sous‑alinéa 152(4.01)a)(ii) de la Loi?
+[13] À moins que je ne me trompe dans la constatation que j'ai formulée ci‑dessus, cette question s'applique uniquement à l'appel de Mme Holmes. Quoi qu'il en soit, l'inscription faite sur chacune des renonciations est identique. Selon la Loi, le ministre peut établir une nouvelle cotisation pour une année d'imposition après l'expiration de la période normale de nouvelle cotisation seulement si le contribuable a présenté au ministre une renonciation, selon le formulaire prescrit, au cours de la période normale de nouvelle cotisation applicable au contribuable pour cette année d'imposition[5]. Le sous‑alinéa 152(4.01)a)(ii) de la Loi vient limiter ce pouvoir général en prévoyant que cette nouvelle cotisation ne peut être établie « que dans la mesure où il est raisonnable de considérer qu'elle se rapporte à […] une question précisée dans une renonciation présentée au ministre » pour cette année d'imposition. Cette disposition est conforme au principe général voulant que le contribuable doit savoir sur quelle base repose sa nouvelle cotisation[6]. Il n'est pas contesté que la renonciation de Mme Holmes a été présentée en bonne et due forme le 4 juin 1997. Il reste toutefois à examiner l'objet de la renonciation à la lumière de la brève description que M. LeDuc a faite de la question et des modifications que les comptables de Mme Holmes y ont apportées.
+[14] Monsieur LeDuc a préparé la renonciation envoyée pour signature à Mme Holmes et l'a jointe à sa lettre du 24 avril 1997 adressée à M. et Mme Holmes. En voici le texte :
+[TRADUCTION]
+[...]
+Nous tenons à vous remercier pour les renseignements que vous avez soumis à notre examen. Toutefois, ces renseignements sont incomplets aux fins de notre vérification. Nous vous saurions ainsi gré de nous fournir, pour examen, les documents qui suivent.
+- tous les documents bancaires, notamment les relevés de compte, les chèques oblitérés, les récépissés de dépôt et les autres documents bancaires se rapportant à l'exploitation agricole;
+- les journaux tenus;
+- des copies des documents de travail comptables qui serviront au rapprochement avec les sommes indiquées dans vos déclarations;
+- une liste des chevaux que vous possédiez le 1er janvier 1993, des documents permettant de valider le prix d'achat de chacun, le pourcentage de propriété et le nom des associés;
+- pour chaque année, une copie des polices d'assurance s'appliquant aux animaux et aux biens agricoles;
+- une liste de tous les éléments d'actif selon le tableau de la DPA inclus dans votre déclaration de 1993;
+Dès que nous recevrons ces documents, nous pourrons parachever notre vérification de vos déclarations. Je souhaiterais en outre que vous communiquiez avec moi au numéro indiqué pour fixer la date d'une rencontre avec vous deux en vue de visiter votre entreprise agricole.
+Je joins à la présente lettre deux formulaires de renonciation, l'un pour Ross Holmes et l'autre pour Anne Holmes, ainsi que des copies. Les déclarations de 1993 seront bientôt frappées de prescription, soit les 6 et 13 juin respectivement, et les renonciations permettront au Ministère de terminer son examen sans contrainte de temps indue. Je vous saurais gré de discuter de cette question avec votre représentant et de m'informer immédiatement au cas où les renonciations ne seraient pas présentées étant donné que cette décision se répercutera sur le temps qu'il restera pour présenter les documents requis, puis pour les examiner.
+[...]
+[15] Dans l'espace prévu dans la renonciation de Mme Holmes pour décrire [TRADUCTION] « à l'égard de » quelle question la renonciation est faite, M. LeDuc a écrit [TRADUCTION] « entreprise agricole 1993 [et régime de participation des employés aux bénéfices (T4PS)[7]] ». Les comptables de Mme Holmes ont examiné ces documents et ont ajouté un astérisque et une mention supplémentaire [en italique], de sorte que le texte suivant apparaît dans la case de la question :
+[TRADUCTION]
+Entreprise agricole 1993*
+*Tel qu'il est indiqué dans la lettre de Revenu Canada envoyée le 24 avril 1997 par R. J. LeDuc à Ross Holmes et à Mme Holmes et concernant le caractère adéquat des renseignements justificatifs ayant trait aux activités agricoles. [C'est nous qui soulignons.]
+[16] Quand on examine l'objet d'une renonciation, il convient de chercher à déterminer l'intention des parties[8]. Monsieur Holmes a témoigné que la mention supplémentaire avait été ajoutée, sur la recommandation de leurs comptables, dans l'intention de bien faire comprendre que la renonciation s'appliquerait uniquement à la justification des dépenses de l'entreprise agricole déduites en 1993. D'où l'ajout d'un renvoi à la lettre du 24 avril 1997 qui, selon ce qu'il comprend des genres de renseignements supplémentaires demandés, avait trait exclusivement au montant et à la validation des dépenses déduites en 1993, les seules questions sous examen avant la réception de la lettre du 24 avril 1997. L'avocat de M. et Mme Holmes a en outre souligné que M. LeDuc avait admis qu'il n'avait fait aucune allusion dans sa lettre à une [TRADUCTION] « principale source de revenu » ou à [TRADUCTION] « d'autre source ». L'ajout de ces expressions aurait pu faire comprendre à Mme Holmes que non seulement M. LeDuc comptait [TRADUCTION] « épurer » (jargon ministériel signifiant « vérifier ») les dépenses, mais qu'il en était seulement à une étape préparatoire de sa véritable mission, qui consistait à déterminer dans quelle mesure les dépenses seraient admises en vertu de l'article 31 de la Loi.
+[17] La Couronne est d'avis que, même dans sa version modifiée, la question visée par la renonciation peut raisonnablement être considérée comme se rapportant à des pertes agricoles restreintes pour l'année d'imposition 1993 de Mme Holmes. L'avocat de l'intimée a soutenu qu'ayant fait l'objet d'une nouvelle cotisation fondée sur ses pertes agricoles restreintes pour son année d'imposition 1989 et qu'ayant volontairement déduit des pertes agricoles restreintes en 1990 et en 1991, Mme Holmes aurait dû savoir que sa renonciation portait sur cette question. L'avocat a fait en outre valoir que la demande faite afin qu'une rencontre soit fixée avec M. et Mme Holmes [TRADUCTION] « en vue de visiter votre entreprise agricole » aurait dû les avertir de l'intention du Ministère d'établir une nouvelle cotisation concernant les pertes agricoles restreintes, parce que la politique de l'ADRC oblige les vérificateurs à effectuer une « visite » afin de comparer les activités agricoles aux autres sources de revenu.
+[18] D'abord, en ce qui concerne ce dernier point, rien ne prouve que Mme Holmes connaissait les pratiques de l'Agence concernant les « visites » des entreprises agricoles. Quant à l'effet de son expérience passée au sujet des pertes agricoles restreintes, il est tout aussi probable que ce soit ce qui a motivé l'intention de Mme Holmes, comme l'ont formulé ses comptables, d'ajouter la précision selon laquelle la vérification comprendrait seulement la validation des dépenses de l'entreprise agricole, comme l'indiquait la lettre de M. LeDuc. Monsieur Holmes a témoigné que lorsque, quelque 18 mois après la présentation de la renonciation de Mme Holmes, il a reçu la lettre de proposition de M. Sadlowski qui comprenait la question des pertes agricoles restreintes, il a été [TRADUCTION] « secoué, surpris et contrarié », réaction que M. Sadlowski a confirmée dans son témoignage.
+[19] L'avocat de l'intimée prétend que la renonciation doit être interprétée contre celui qui l'a rédigée; même si la version originale a été rédigée par M. LeDuc, sa modification ultérieure par les comptables de Mme Holmes a eu pour effet de rejeter sur elle la responsabilité de toute ambiguïté qui en a résulté. Dans le contexte d'un contrat civil entre des parties traitant sur un pied d'égalité, cet argument pourrait avoir une certaine valeur, mais dans l'esprit de la Loi de l'impôt sur le revenu, alors que le pouvoir et l'obligation de prescrire la forme de la renonciation et de déterminer si la question a été correctement énoncée et si elle doit être acceptée telle qu'elle a été « présentée » incombent exclusivement au ministre, la règle contra proferentem ne trouve aucune application. Si M. LeDuc avait rejeté la renonciation dans sa version modifiée, par exemple, Mme Holmes aurait été dans l'impossibilité d'exiger que le ministre l'accepte. Monsieur LeDuc a librement admis qu'il avait remarqué les modifications, mais qu'il n'en avait pas tenu compte pensant qu'elles étaient faites [TRADUCTION] « uniquement à des fins d'éclaircissement »; malgré cette conclusion, il n'a rien fait pour savoir en quoi cet éclaircissement pouvait consister. En sa qualité de contrôleur délégué du ministre, M. LeDuc était tenu à tout le moins de se renseigner sur ce que Mme Holmes entendait par les modifications qu'elle avait apportées à sa version originale.
+[20] Lorsque M. LeDuc a accepté la présentation de la renonciation de Mme Holmes telle qu'elle avait été modifiée, sans chercher à obtenir (ou même sans envisager de chercher à obtenir) des précisions sur son nouveau sens possible, Mme Holmes avait tout lieu de croire que les restrictions qu'elle entendait imposer par la mention qui avait été ajoutée étaient acceptables pour le ministre. Étant donné que le pouvoir d'accepter la renonciation relève exclusivement du ministre et compte tenu du traitement généralement insouciant réservé aux dossiers Holmes pendant tout ce temps, je ne suis pas convaincue que l'objet de la renonciation de Mme Holmes, telle qu'elle avait été modifiée et présentée, peut raisonnablement être considéré comme se rapportant à des pertes agricoles restreintes. Le ministre n'a pas prouvé que l'objet de la renonciation s'étendait au‑delà de la validation des dépenses de l'entreprise agricole. En conséquence, les appels sont admis avec dépens et les nouvelles cotisations sont déférées au ministre pour nouvel examen et nouvelles cotisations en tenant compte de ce qui suit :
+1. aucune renonciation n'a été présentée au ministre pour le compte de Ross Holmes relativement à l'année d'imposition 1993 de manière à permettre au ministre d'établir une nouvelle cotisation après l'expiration de la période normale de nouvelle cotisation en vertu du sous‑alinéa 152(4)a)(ii);
+2. même si je me trompe au premier point, la question précisée dans la renonciation présentée au ministre par Ross Holmes pour l'année d'imposition 1993 ne peut raisonnablement être considérée, pour l'application du sous‑alinéa 152(4.01)a)(ii), comme se rapportant à des pertes agricoles restreintes;
+3. la question précisée dans la renonciation présentée au ministre par Anne Holmes pour l'année d'imposition 1993 ne peut raisonnablement être considérée, pour l'application du sous‑alinéa 152(4.01)a)(ii), comme se rapportant à des pertes agricoles restreintes.
+Signé à Ottawa, Canada, ce 21e jour de juin 2005.
+« G. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 12e jour de mai 2006.
+Yves Bellefeuille, réviseur
+[1] Pièce R-1, onglet 4.
+[2] Sous‑alinéa 152(4)a)(ii).
+[3] Réponse à l'engagement no 15, interrogatoire préalable de Mme Christine Spettigue.
+[4] Réponse à l'engagement no 16, interrogatoire préalable de Mme Christine Spettigue.
+[5] Sous‑alinéa 152(4)a)(ii).
+[6] Banque Continentale du Canada c. Canada, [1998] 2 R.C.S. 358, Pedwell c. Sa Majesté la Reine, [2000] 4 C.F. 616 (Cour d'appel fédérale).
+[7] Les parties conviennent que l'inscription faite par M. LeDuc à la suite de la mention « entreprise agricole 1993 » n'est pas pertinente en l'espèce.
+[8] Solberg v. Canada, no T‑942‑89, 13 août 1992, [1992] 2 C.T.C. 208 (C.F. 1re inst.).

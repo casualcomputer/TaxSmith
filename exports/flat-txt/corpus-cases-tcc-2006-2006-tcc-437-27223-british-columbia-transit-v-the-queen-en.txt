@@ -1,0 +1,314 @@
+Title: British Columbia Transit v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27223/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-437-27223-british-columbia-transit-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-08-01
+
+# British Columbia Transit v. The Queen
+
+- Citation: 2006 TCC 437
+- Decision date: 2006-08-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 829, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+British Columbia Transit v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-08-01
+Neutral citation
+2006 TCC 437
+File numbers
+2005-1038(GST)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-1038(GST)G
+BETWEEN:
+BRITISH COLUMBIA TRANSIT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard with the appeal of British ColumbiaTransit
+(2005-1039(GST)G) on June 22 and 23, 2006, at
+Vancouver, British Columbia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Werner H.G. Heinrich and
+David E. Graham
+Counsel for the Respondent:
+Lynn M. Burch
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated December 17, 2001, and bears number 11CU2000361, for the period April 1, 1998 to December 31, 1999, is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to input tax credits of $3,420,897.90.
+Signed at Ottawa, Canada, this 1st day of August 2006.
+"Campbell J. Miller"
+Miller J.
+Docket: 2005-1039(GST)G
+BETWEEN:
+BRITISH COLUMBIA TRANSIT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard with the appeal of British ColumbiaTransit
+(2005-1038(GST)G) on June 22 and 23, 2006,
+at Vancouver, British Columbia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Werner H.G. Heinrich and
+David E. Graham
+Counsel for the Respondent:
+Lynn M. Burch
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated January 30, 2001, for the period October 1, 2000 to October 31, 2000, is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to input tax credits of $335,862.42.
+Signed at Ottawa, Canada, this 1st day of August 2006.
+"Campbell J. Miller"
+Miller J.
+Citation: 2006TCC437
+Date: 20060801
+Docket: 2005-1038(GST)G
+2005-1039(GST)G
+BETWEEN:
+BRITISH COLUMBIA TRANSIT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] The Appellant, British Columbia Transit (BC Transit) has two appeals: one relates to a lease of real property (the Real Property appeal); the other relates to a lease of transit vehicles (the Vehicle appeal). The evidence at trial was directed entirely at the Real Property appeal, as was argument, on the understanding that my conclusion on that matter would determine the result in the Vehicle appeal.
+[2] BC Transit constructed the Skytrain transit system in Vancouverin three phases from the late-1980s to the mid-1990s. The provinceof British Columbia lent money to BC Transit to fund the development. Until the end of March 1999, BC Transit itself operated the Skytrain system. As of March 31, 1999, a reorganization took place resulting in BC Transit leasing certain assets of the Skytrain system to the Greater Vancouver Transportation Authority (Translink) for a nominal rent of $1.00, although Translink also took on certain obligations of BC Transit, notably the payment of property taxes on the leased Real Property. The province of British Columbia converted its loan to BC Transit to a "deferred capital contribution" at the end of March 1999, and each year reduced the "deferred capital contribution" by an amount equal to the amortization on the Skytrain assets (the Grants). In late 1999, BC Transit filed a goods and services tax (GST) return, claiming a rebate, though intending to claim input tax credits (ITCs) on the post-1990 capital costs estimated at approximately $120 million. The Minister of National Revenue (the Minister) denied BC Transit the ITCs on the basis that there must be a taxable supply for consideration (section 141.01 of the Excise Tax Act), and that the BC Transit lease arrangement with Translink did not constitute a taxable supply for consideration, as the Grants did not constitute consideration. BC Transit filed a Notice of Objection in February 2002 claiming entitlement to the ITCs. Later in 2002, BC Transit informed Canada Revenue Agency (CRA) that an additional reason it was entitled to ITCs on the Real Property appeal was because Translink's obligation to pay property tax constituted consideration. The Respondent argues BC Transit cannot make this argument at this stage (subsection 301(1.2) and section 306)), and even if it could, the property tax payment was only nominal consideration, which under subsection 141.01(1.1) is not consideration.
+[3] I find BC Transit can argue that the assumption of the property tax obligation is part of the consideration for the taxable supply and that it is more than nominal. BC Transit is therefore entitled to the ITCs on the Real Property appeal. I also find the Grants do constitute consideration and BC Transit is therefore entitled to ITCs on the Vehicle appeal.
+Facts
+[4] BC Transit developed the Vancouver Skytrain system in three phases from the late-1980s to the mid-1990s. This system consisted of concrete/steel platforms resting on concrete/steel piers, certain tracts of real property along the Skytrain tracks and elsewhere owned by BC Transit, and other real property leased by BC Transit. BC Transit paid the GST on the costs of development of the Skytrain system and claimed a 57.14% public service body rebate. It was entitled to this rebate, and not to ITCs, as operating the Skytrain system was providing an exempt transit service to the public. The British Columbia Government (BC Government) lent money to BC Transit for the development of the system, although waived interest on the outstanding loan.
+[5] The BC Government decided that it wanted to reorganize the way the transit services were provided in Greater Vancouver, by giving local municipalities more control over how their transit system was funded and operated. To achieve this, the BC Government decided to transfer the responsibility for providing transit services in Greater Vancouver from BC Transit to a local transit authority. The BC Government therefore incorporated the Greater Vancouver Transportation Authority, Translink, for this purpose in the fall of 1998. As part of the reorganization, on March 31, 1999, the BC Government caused BC Transit to lease certain of the Skytrain assets to Translink. They decided to lease, rather than sell the assets, because it was not economically feasible for Translink to purchase them.
+[6] Effective March 31, 1999, the BC Government also converted the debt with BC Transit to a "deferred capital contribution". Then, each year following, it would reduce the "deferred capital contribution" by an amount equal to the amortization cost of the Skytrain assets. Though no cash was transferred yearly to BC Transit, the effect of the arrangement was to reduce BC Transit's liability to the government by approximately $15 million a year. The authorization for the annual grant came through a Vote (Vote 44) which stipulated:[1]
+This vote provides for the annual provincial government transfers towards costs incurred for providing public passenger and transportation services.
+(a) British Columbia Transit - This sub-vote provides for the annual government payments and transfers to British Columbia Transit towards costs incurred for providing public and passenger and transportation services, including transportation services for the disabled, in various communities throughout the province including operating transfers, debt servicing, and amortization of prepaid capital advances.
+[7]The BC Government arranged these Grants to ensure BC Transit did not operate at a deficit, which it was prohibited from doing by law. According to Mr. Tony Sharp, vice-president of BC Transit, without these Grants BC Transit would not have been able to lease the Skytrain properties to Translink.
+[8] BC Transit sought a ruling from CRA with respect to the transactions giving effect to the proposed reorganization. CRA ruled on March 31, 1999, that the supply by way of lease to the Skytrain properties from BC Transit to Translink constituted a "taxable supply" with GST payable on the $1.00 consideration paid under that lease. The ruling did not deal with ITCs nor was there any mention made of consideration other than the $1.00 rent. Mr. Sharp testified that the reorganization did not hinge on obtaining this favourable ruling. BC Transit would have proceeded in any event, which it did.
+[9] The reorganization was effective by issue of an Order-in-Council dated March 30, 1999. The Order-in-Council stated:[2]
+3. The authority is granted a lease, for a nominal rental, to use, operate and generate revenues from the assets and portions of assets of BC Transit that are specified in paragraphs (a), (b) and (d) of Schedule 1 ....
+4. The terms and conditions applicable to the lease referred to in section 3 of this order are described in Schedule 5.
+Schedule 5 entitled "Terms and Conditions of Lease", stipulated in part as follows:
+1. The rental shall be $1.00 per annum,
+...
+3. The Greater Vancouver Transportation Authority shall be responsible for the costs of operation and maintenance.
+...
+9. The parties will, prior to September 30, 1999, enter into a formal agreement containing the above terms or such other terms as are agreed to by the parties.
+[10] Mr. Sharp explained that in the industry, "costs of operation and maintenance" would be taken to include responsibility for any property taxes associated with the property subject to the lease. Translink did pay the property taxes on the Skytrain real property subject to the lease commencing April 1, 1999. Such payments were as follows:[3]
+1999
+$1,068,257.97
+2000
+$1,397,701.89
+2001
+$1,772,444.11
+2002
+$2,223,455.12
+2003
+$2,235,206.23
+2004
+$2,203,044.89
+2005
+$2,339,006.35
+TOTAL
+$13,239,116.56
+[11] The parties were unable to come to a formal agreement by September 30, 1999, because of delays attributable to negotiations over a number of issues, including the term of the lease. They agreed to extend the time necessary for coming to an agreement, which was ultimately reached in January 2003. The BC Government amended the March 30, 1999, Order-in-Council by a further Order-in-Council dated January 30, 2003. The amendment deleted the prior Schedule 5 and substituted a new Schedule 5, which contained a more detailed lease stipulating in part as follows:
+(a) The Skytrain properties are leased to Translink (sections 3.01 and 5.01);
+(b) The Skytrain properties under which BC Transit is a tenant are subleased to Translink (section 3.02 subsection( b));
+(c) The base rent is set at $1.00 per annum (section 6.01); and
+(d) Translink is responsible for the payment of all taxes (section 6.02) which are defined as follows (section 1.01(o)):
+Taxes means all taxes, rates, levies, duties, charges and assessments levied or charged, at any time, by any competent governmental authority which relate to any or all of the Skytrain properties or the lease.
+[12] Mr. Sharp stated that the purpose of the formal agreement was to ensure that BC Transit remained harmless from Skytrain costs. He also stated that Translink could not have afforded the debt servicing, but could afford the property taxes and sublease payments from operating revenues.
+[13] In May 2002, BC Transit rendered an invoice to Translink charging GST on the property tax obligation due from Translink. Such GST has been charged and collected since that time. Mr. Sharp explained that until May 2002 he was unaware of this requirement, but once made aware, invoices were regularly rendered to Translink.
+[14] Translink also assumed BC Transit obligations on certain subleases for the period from April 1, 1999 to 2005. Translink paid approximately $4.3 million in respect of such subleases.
+[15] BC Transit based its claim for ITCs on costs incurred after 1990 in the Phase 2 and Phase 3 development of the Skytrain system, which costs were allocated to internal account numbers 1974 and 1978, summaries of which were provided as an exhibit. These costs totalled $120,766,598. Mr. Sharp testified that in his view, replacement costs would be significantly greater so he relied on these original costs to make the ITC claims. CRA conducted a limited audit of these costs. Ms. Karen Robert, the CRA auditor, indicated she took a small sample of entries from accounts 1974 and 1978 and identified those entries that did not appear to represent capital costs. She then totalled all invoices from those identified suppliers and concluded that approximately $3,080,888 of the $120,766,598 did not represent eligible capital costs. She also identified a further $200,478 which were "non-GST applicable costs". She did not do a more complete audit as CRA determined it was unnecessary, taking the view that, as there was only nominal consideration in any event, BC Transit would not be entitled to ITCs. The Appellant has conceded that these two amounts should reduce the costs to which the ITCs pertained, to $117,485,232. This reduced the ITCs claimed from $3,472,040 to $3,420,897, arrived at as follows:[4]
+Assuming the $120,766,598 figure is the correct starting point, and assuming it does not include GST
+Costs, per accountant
+$120,766,598.00
+Current/Other Expenses, identified during review
+$3,080,888.00
+Non-GST applicable costs, identified during review
+$200,478.00
+Net amount on which to calculate GST
+$117,485,232.00
+Estimated GST
+$7,981,563.00
+Estimated Rebate Claimed
+$4,560,665.10
+(57.14%)
+Estimated ITCs
+$3,420,897.90
+ITCs, As filed by Taxpayer
+$3,472,040.00
+Discrepancy
+$51,142.10
+[16] The Minister reassessed the Appellant on December 17, 2001, denying the $3,472,040 credit. In February 2002, BC Transit filed a Notice of Objection prepared by its accountants, KPMG, objecting to the denial of the $3,472,040 ITCs. In the facts and reasons in the Notice of Objection, BC Transit outlined the annual grant from the Government, but made no mention of the property tax or subleases constituting consideration for the lease. BC Transit identified two issues:
+(i) Did BC Transit use the Guideway (Skytrain) assets in the course of carrying on a commercial activity;
+(ii) Did BC Transit property compute "the basic tax content" ($120,766,598) in accordance with subsection 123(1) of the Excise Tax Act.
+[17] By letter of December 19, 2002, from Mr. B.P. Flexman of KPMG to the Chief of Appeals in Victoria, British Columbia, Mr. Flexman stated:[5]
+As we noted during our meeting some additional facts have come to light since we last discussed the issue with Verification and Enforcement.
+Property Taxes
+...
+Paragraph 6.02 of Schedule 5 to the Agreement requires Translink (...) to pay all Taxes, including property taxes. It has been the position of the CCRA for some time that where a tenant or lessee of real property pays property taxes that are otherwise the responsibility of the owner of the property, such payments represent consideration for the supply of the property. ...
+Since April 1, 1999 the GVTA has paid some $4.7 million in property taxes on Skytrain and West Coast Express assets leased from B.C. Transit. The $4.7 million is consideration for the supply of those assets. ...
+[18] Mr. Gordon Brown from CRA confirmed that the property tax matter had been discussed with Mr. Flexman prior to the December letter, though could not recall any discussion of subleases as part of the consideration.
+[19] BC Transit acknowledges that it is a specified person for purposes of the Excise Tax Act.
+Issues
+[20] The issue is ultimately BC Transit's entitlement to ITCs pursuant to subsection 169(1) of the Excise Tax Act. The Respondent's position is that there is no entitlement to ITCs as section 141.01 requires that, to qualify for ITCs, the property or service acquired must have been acquired for the purpose of making taxable supplies for consideration. The Respondent argues that the lease by BC Transit to Translink was for $1.00 nominal rent and subsection 141.01(1.1) specifically excludes nominal consideration from consideration.
+[21] Further, the Respondent argues that the Appellant cannot now ask this Court to consider that property tax paid by Translink or sublease payments made by Translink are part of the consideration for the lease, as the Appellant did not raise these matters in the Notice of Objection. By operation of subsection 306.1(1), BC Transit is limited, as a "specified person", to appealing with respect to "an issue in respect of which the person has complied with subsection 301(1.2) in the Notice".
+[22] If I find that BC Transit can argue that the property tax or sublease payments constitute consideration for the lease, then the Respondent argues that such consideration is nominal.
+[23] The Respondent next argues that the Grants also do not constitute consideration pursuant to subsection 141.01(1.2), as the Grants are not support for the lease activity of the Appellant but:
+(i) represent repayment of debt; or
+(ii) in the broader picture, represent the province's funding of public transportation.
+[24] Finally, if I find BC Transit has proven the taxable supply was for consideration and therefore is entitled to ITCs, the Respondent maintains that the Appellant has overstated the net amount on which to calculate the GST.
+[25] The Appellant's position is, firstly, that section 141.01 does not apply. It argues that the Respondent accepted that the lease was a taxable supply, which by definition is a supply made in the course of a commercial activity, and therefore, no further analysis is required - the Appellant qualifies under section 169 for ITCs. Relying on the case of BJ Services Company Canadav. The Queen,[6] the Appellant argues that where the sole use is in the course of a commercial activity, there is no need to resort to the apportionment process set out in section 141.01.
+[26] If, however, I find it is necessary to consider section 141.01 and whether the taxable supply of the lease was made for consideration, then the Appellant argues:
+(i) the property tax and sublease payments are properly before me and are to be considered part of consideration;
+(ii) such consideration is not nominal;
+(iii) if the property or sublease payments are not part of the consideration, then subsection 141.01(1.2) applies and the Grants constitute consideration; and
+(iv) apart from the $51,000 adjustment the basic tax content is properly calculated.
+Analysis
+[27] Before addressing the issues, it will be helpful to go over the role of the change in use roles to clarify how the parties even got to this point. The following is not in issue but serves as a useful context for the issue before me.
+[28] Subsection 169(1) of the Act sets out the circumstances in which a registrant is entitled to claim an ITC. It reads:
+169(1) Subject to this Part, where a person acquires ... property ... and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, ... becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property ... for the period:
+A x B
+where
+A is the tax in respect of the supply ... that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+...
+(c) ... the extent (expressed as a percentage) to which the person acquired ... the property ... for consumption, use or supply in the course of commercial activities of the person.
+[29] Essentially, subsection 169(1) allows a registrant to claim an ITC in respect of tax paid on property that the registrant acquired for consumption, use or supply in the course of the registrant's commercial activities. If the registrant did not acquire the property for consumption, use or supply in the course of commercial activities, then the registrant is not entitled to claim an ITC.
+[30] BC Transit is a registrant. However, it was not entitled to claim ITCs on the Skytrain's construction as:
+(a) When BC Transit originally acquired the Skytrain properties, it did so for the purpose of supplying exempt transit services to the public.
+(b) The supply of transit services to the public constitutes the making of an exempt supply.
+(c) The making of exempt supplies is not a "commercial activity", and
+(d) Thus, in supplying transit services to the public, BC Transit was not carrying on a "commercial activity".
+[31] The Act contains provisions which state that if a registrant who originally acquired property for consumption, use or supply other than in the course of commercial activities later changes the use to which the registrant is putting that property, the registrant may be eligible to claim ITCs when the change in use occurs. Subsection 199(3) is the change in use rule relied on by BC Transit. It states:
+199(3) For the purposes of this Part, where a registrant last acquired ... personal property for use as capital property of the registrant but not for use primarily in commercial activities of the registrant and the registrant begins, at a particular time, to use the property as capital property primarily in commercial activities of the registrant ... the registrant shall be deemed
+(a) to have received, at the particular time, a supply of the property by way of sale; and
+(b) except where the supply is an exempt supply, to have paid, at the particular time, tax in respect of the supply equal to the basic tax content of the property at the particular time.
+[32] By deeming the registrant to have received a supply of the property and to have paid tax, subsection 199(3) puts the registrant in a position to claim an ITC under subsection 169(1). The registrant is treated as if it has just acquired the property and is thus able to claim an ITC. The amount of the ITC that the registrant can claim is equal to the "basic tax content" of the property.
+[33] There are two conditions which must be satisfied before these change in use rules can apply:
+(a) firstly, the Skytrain properties must be personal property unless some other rule applies; and
+(b) secondly, BC Transit's use of the Skytrain properties must have been changed from an exempt (non-commercial) use to a commercial use.
+[34] While subsection 199(3) prevents most registrants from claiming an ITC on a change in use of real property, there is an exception for "specified Crown agents" under subsection 209(2). Subsection 209(2) makes subsection 199(3) apply to real property, if the registrant is a specified Crown agent, which the Respondent has admitted. As a consequence, subsection 199(3) applies if the second condition is met, namely that there was a change in use of the Skytrain properties from exempt use to commercial use. Indeed, there is no disagreement that there was a change in use from exempt to commercial use, as effective April 1, 1999, BC Transit ceased using the Skytrain properties for the purpose of making the exempt supplies of transit services to the public and from that point on was simply a landlord. As a "commercial activity" includes the making of a supply of real property, it follows that BC Transit was engaged in a commercial activity.
+[35] With this background, I now turn to the issues, commencing with the application of section 141.01 of the Act.
+Application of section 141.01
+[36] Is it sufficient for the purposes of calculating ITCs, that BC Transit prove that it acquired property for the purpose of making taxable supplies? Or, must it go further and prove it acquired property for the purposes of making taxable supplies for consideration? I conclude that BC Transit did make a taxable supply. And, taxable supply is defined as a supply made in the course of commercial activity. Yet, notwithstanding Appellant's counsel's reliance on my comments in BJ Services, that section 141.01 is inapplicable where it is proven that the entity seeking the ITC is only engaged in commercial activity, I find it is in order, in a case such as this, where the question of consideration is at issue, to ask whether it was intended the taxable supply was to be made for consideration. BJ Services was not a case dealing with whether or not a taxable supply was made for consideration. It dealt with whether section 141.01 imposed a requirement for a connective link between the input and the output. I determined this was unnecessary where there was only one form of output and that was a taxable supply for consideration. The Appellant's approach suggests that it follows that if all BC Transit does by way of commercial activity is make taxable supplies, it is unnecessary to question whether they are made with or without consideration. I disagree. The question has to be asked whether BC Transit intended to make taxable supplies for consideration, as without asking that question, it would be impossible to ascertain if an apportionment is required under section 141.01. I acknowledge that it does seem a rather chicken and egg type situation. The Appellant's argument would lead to the conclusion that if, as was the situation in Ville de Matane v. The Queen,[7] a registrant makes both a taxable supply for consideration and a taxable supply for nominal consideration, section 141.01 applies and an apportionment is required to allocate the ITCs appropriately; yet, if a registrant only makes a taxable supply without consideration, subsection 141.01(1.1) does not apply and the registrant is entitled to 100% of the ITCs. This would be a perverse result. If a registrant is in the unique position of only making taxable supplies without consideration, then section 141.01 should apply to deny the ITCs. This is a sensible reading of the provision. This may well be tantamount to reading section 141.01 as contemplating an apportionment on an all or nothing basis, where the issue is one of consideration, a conclusion which might appear contrary to the finding of BJ Services. These are different circumstances and this is a different issue. I simply acknowledge that the words of section 141.01 can accommodate a 100% versus 0% apportionment based on whether the taxable supply was with or without consideration.
+Section 306.1
+[37] Recognizing that BC Transit must prove the taxable supply of the lease was for consideration, it must now get over the section 306.1 hurdle presented by way of amendment to the Reply at trial, an application to which the Appellant did not object. The relevant sections read as follows:
+301(1.2) Where a person objects to an assessment in respect of which the person is a specified person, the notice of objection shall
+(a) reasonably describe each issue to be decided;
+(b) specify in respect of each issue the relief sought, expressed as the change in any amount that is relevant for the purposes of the assessment; and
+(c) provide the facts and reasons relied on by the person in respect of each issue.
+...
+306.1(1) Notwithstanding sections 302 and 306, where a person has filed a notice of objection to an assessment in respect of which the person is a specified person (within the meaning assigned by subsection 301(1)), the person may appeal to the Tax Court to have the assessment vacated, or a reassessment made, only with respect to
+(a) an issue in respect of which the person has complied with subsection 301(1.2) in the notice, or
+(b) an issue described in subsection 301(1.5) where the person was not required to file a notice of objection to the assessment that gave rise to the issue
+and, in the case of an issue described in paragraph (a), the person may so appeal only with respect to the relief sought in respect of the issue as specified by the person in the notice.
+As indicated earlier, BC Transit admits that it is a specified person for the purposes of these sections.
+[38] The Respondent argues that, as BC Transit did not raise as part of its facts and reasons in its Notice of Objection that consideration included the property tax and sublease payments, it has not complied with subsection 301(1.2) and is therefore precluded by section 306.1 from raising this at trial. The Respondent relies on the Federal Court of Appeal decision in The Queen v. Potash Corporation of Saskatchewan Inc.[8] in which the Appellant sought to amend its Notice of Appeal. The Crown had argued in that case that the Large Corporation Rules (the Income Tax Act equivalent of the Rules before me) restrict the appeal to the Tax Court of Canada solely to the issues and relief raised in the Notice of Objection. Potash argued that the rules were mere procedural rules, and it was a reasonable exercise of the judge's discretion to amend the Notice of Appeal to allow the amendment to the Notice of Appeal. In not allowing the amendment, the Federal Court of Appeal concluded:[9]
+[29] The proposed amendments to the notice of appeal seek to include in the computation of resource profits in the four years under appeal five new items of income not described in the notice of objection and, as a consequence, seek to increase the amount of the resource allowance and earned depletion from the amount set out in the notices of objection. To permit PCS to amend its pleading in this way is contrary to the requirements in subsection 169(2.1).
+[39] In the case before me, the Respondent has identified BC Transit's failure as failing to provide any facts respecting the property tax and sublease payments, and failing to provide any reasons as to the "nominal consideration" issue in the Notice of Objection. It did not argue that there have been any failures with respect to the issue or to the relief sought.
+[40] I do not find the Respondent's argument persuasive. The Potash case was not about the lack of facts or reasons: it was about not allowing an increase in the amount at issue. There is no change to the amount at issue before me from what was set out in the Notice of Objection, nor has the issue changed. The issue has always been the entitlement to the ITCs. The Respondent is correct that the property tax was not raised as part of the facts or reasons, but I find this is not fatal.
+[41] In the Potash case, the Court quoted comments from Mr. R.M. Beith, an official from Department of Finance, made at the 1994 Canadian Tax Foundation Conference:[10]
+One of the reasons for the legislation is to identify disputed issues much sooner so that a taxation year's ultimate tax liability can be determined in a timely way.
+Owing to the complexity of the law and the number of issues, for many years a number of large corporations have had some of their taxation years left open through outstanding notices of objection or appeals, so that they have been able to raise new issues based on emerging interpretations and the outcome of court decisions challenged by other taxpayers.
+Recently, a particular problem was identified by the auditor general and the Public Accounts Committee. A case dealing with the calculation of the "resource allowance" which was decided against the department, resulted in claims not only based on the particular facts decided by the court but in respect of a new issue concerning the calculation of the "resource allowance". These claims, both directly and indirectly from the court decision, involved significant amounts of tax and interests.
+In summary, it is essential that revenues be more predictable and therefore that potential liabilities be identified and resolved within a more reasonable time.
+[42] This emphasizes that it is the issue and quantum that is of significance to the Minister, not the facts and reasons that the Respondent points to as the failure. It would prohibitively handcuff the large corporation to read these provisions as limiting the large corporation to only those facts identified at the Notice of Objection stage. That does not appear to be the thrust of the section as supported by Mr. Beith, nor the interpretation of this section by the Federal Court of Appeal in Potash. The very words of section 306.1 itself refer only to the issues and the relief. Interestingly, at the 1994 Tax Conference Mr. Beith went on to say this about paragraph 165(1.11)(c) (Income Tax Act equivalent to paragraph 301(1.2)(c)):
+This requirement is no different from what the law currently requires from all taxpayers. In addition, in contrast to the requirements with respect to issue and quantum, additional facts and reasons can be raised in appeals.[11]
+This is certainly a sensible point of view, and one which I adopt. I find BC Transit is not in breach of subsection 301(1.2) and, therefore, section 306.1 is not invoked. BC Transit is free to argue that property tax and sublease payments are facts that go to the consideration for the lease.
+[43] If I am wrong in reaching this conclusion, I refer then to subsection 301(1.3) which reads:
+301(1.3) Notwithstanding subsection (1.2), where a notice of objection filed by a person to whom that subsection applies does not include the information required by paragraph (1.2)(b) or (c) in respect of an issue to be decided that is described in the notice, the Minister may in writing request the person to provide the information, and those paragraphs shall be deemed to be complied with in respect of the issue if, within 60 days after the request is made, the person submits the information in writing to the Minister.
+[44] By letter in December 1999, BC Transit, through KPMG, put the fact of the property tax squarely before the Respondent, and made it clear this was a reason for finding the taxable supply was made for consideration. I find this invokes the application of the late compliance provision in subsection 301(1.3), and that BC Transit is deemed to have complied with subsection 301(1.2).
+Consideration
+[45] Was there or was there not consideration for the lease? The Respondent first argued that the property tax does not form part of the consideration for the lease, but if I find that it does form part of the consideration then it, combined with the $1.00 rent, is nominal consideration, and therefore by operation of subsections 141.01(1.1) and (2) constitutes no consideration, precluding any entitlement to ITCs.
+[46] With respect to the first issue of whether the property tax constitutes consideration, the Respondent relies on the evidence that it was not until 2002 that BC Transit itself considered the property taxes as part of the consideration. The Respondent then asks "If the Appellant did not consider it consideration until then, how could it have been?".
+[47] When BC Transit addressed its mind to characterizing the nature of Translink's obligation to pay property taxes is not determinative of the issue. The fact is, Translink paid the property taxes commencing as of the effective date of the lease, and did so according to a legal obligation.
+[48] There is no question that the rental payment was intended to be $1.00. This is borne out by the Orders-in-Council and the Rulings sought from CRA. It is also clear the rental payment could not exceed $1.00. The Respondent draws a distinction between the nominal rent, being the intended consideration, and the obligation to pay property tax being something different, being a mere term or condition, suggesting that a term or condition cannot have the effect of rendering a nominal consideration into anything more than that. This is giving a too restricted meaning to "consideration".
+[49] The formal lease reads:[12]
+6.01 The rental for the rights granted to TransLink pursuant to paragraphs 3.01, 3.02 and 5.01 will be $1.00 per annum, payable to BC Transit.
+6.02 TransLink will be responsible for and will pay all Taxes.
+[50] Translink paid the property taxes. Once aware of the obligation to do so, BC Transit imposed GST on such property tax payments. Had Translink not obliged itself to pay the property taxes, BC Transit would have had to make the payments as it remained legally obliged to do so. Whether one calls Translink's obligation to pay the property taxes rent or a "term", it was clearly something of value given, along with the $1.00, in return for the taxable supply of the property. The rental payment was only $1.00 but BC Transit received more than that from Translink. It received millions of dollars to meet the property tax obligation. That is consideration.
+[51] That leads to the Respondent's next argument that the $1.00 plus the property tax, in the circumstances, constitute only nominal consideration and therefore by operation of subsections 141.01(1.1) and (2), BC Transit is not entitled to any ITCs. The Respondent provided the following definition of "nominal consideration", taken from Black's Law Dictionary, 5th Edition:
+One bearing no relation to the real value of the contract or article, as where a parcel of land is described in a deed as being sold for 'one dollar', no actual consideration passing, or the real consideration being concealed. This term is also sometimes used as descriptive of an inflated or exaggerated value placed upon property for the purpose of an exchange.
+[52] The Appellant provided three definitions of "nominal" as follows:
+"very small compared to expectations; slight, hardly worth mention; as, a nominal fee."(Webster's New Twentieth Century Unabridged Dictionary, 2nd Edition)
+"Existing in name only, in distinction to real or actual, merely named, stated, or expressed, without reference to reality or fact." (The OxfordEnglish Dictionary, 2nd Edition)
+"being so small, slight, or negligible as scarcely to be entitled to the name: TRIFLING, INSIGNIFICANT". Webster's Third New International Dictionary of the English Language Unabridged.
+[53] The Appellant also relied on the following comments from the House of Lords in the Midland Bank Trust Co. Ltd. v. Green (H.L.(E.)):[13]
+This conclusion makes it unnecessary to determine whether £ 500 is a nominal sum of money or not. But I must say that for my part I should have great difficulty in so holding. "Nominal consideration" and a "nominal sum" in the law appear to me, as terms of art, to refer to a sum or consideration which can be mentioned as consideration but is not necessarily paid. To equate "nominal" with "inadequate" or even "grossly inadequate" would embark the law upon inquiries which I cannot think were contemplated by Parliament.
+[54] The parties' disagreement on how to interpret the term "nominal consideration" boils down to the difference between nominal being a relative term or being an absolute term. It ultimately does not make any difference to my decision, as on either interpretation of nominal, I find the several million dollars paid by Translink to BC Transit to cover the property taxes is something more than nominal.
+[55] If I accept the Appellant's position that nominal is trifling or such an amount that it is immaterial whether or not it is paid, the answer is self evident - several million dollars are not nominal. There is no evidence that Translink ever intended not to pay the property taxes.
+[56] The more interesting question is whether nominal is a relative term, and, if so, relative in this case to what? The Respondent relates it to the carrying value of the leased assets, which were in excess of a billion dollars, arguing that a couple of million dollars a year bears no significant relation to such value. The Appellant suggests that the Respondent is confusing "nominal" with "adequate". Without getting overly tangled up in the semantics, I find the Respondent is not relating the property tax consideration to the appropriate amount. The comparison, if indeed a comparison is necessary, should be between the actual consideration and a fair market value (FMV) consideration. The evidence was that Translink could only afford the $1.00 plus the obligation to pay property taxes and make the sublease payments based on projected income from operations. Translink was the only purchaser. What is FMV in a case where the only parties to a transaction are municipal authorities, and the projected income is readily ascertainable. It is arguable the FMV is just what Translink promised to pay. There was no evidence before me to suggest a fair market consideration for such a lease was double, triple or even 10 times what Translink paid. In these circumstances, I am satisfied, interpreting "nominal" on a relative basis, that payment of the property taxes of approximately $2 million a year is not nominal.
+[57] Having reached this conclusion, it is unnecessary to decide the question of whether the Grants constitute a consideration for the Real Property appeal, as that only comes into play if there is no other consideration. However, it is necessary to analyze the issue for purposes of the Vehicle appeal, as there was no other consideration for the vehicles leased to Translink other than the $1.00, which the parties acknowledge is nominal.
+Grants as Consideration
+[58] Subsection 141.01(1.2) reads:
+Where a registrant receives an amount that is not consideration for a supply and is a grant, subsidy, forgivable loan or other form of assistance provided by a person who is
+(a) a government ... ,
+...
+and the assistance can reasonably be considered to be provided for the purpose of funding an activity of the registrant that involves the making of taxable supplies for no consideration, the amount is, for the purposes of this section, deemed to be consideration for those supplies.
+[59] Notwithstanding written submissions, the Respondent, in oral argument, accepted that the arrangement between BC Transit and the province of British Columbia did result in annual assistance or grants, as contemplated by subsection 141.01(1.2). The Respondent's argument is that the Grants cannot reasonably be considered to have been made for the purpose of funding BC Transit's lease to Translink, but were made for the purpose of retiring a long-term debt, a debt incurred at the time to fund an exempt supply, the provision of public transit services. The Appellant's position is that after March 31, 1999, the playing field changed. From that point, the BC Government provided financial assistance to BC Transit in order to fund the deficit created by amortizing the assets, without which, the Appellant argues, BC Transit could not have entered the lease with Translink: therefore, the Grants were for the purpose of funding the making of taxable supplies - the lease.
+[60] The Respondent argues that although BC Transit is making a taxable supply without consideration, as it no longer operates the Skytrain system (Translink does) the assistance is not for the purpose of funding any activity of BC Transit. This suggests that making a taxable supply without consideration is not an activity - a proposition I reject. The parties appear to be drawing a distinction between the ultimate purpose and the immediate purpose. I have no doubt the ultimate purpose, as expressed in the BC Government Vote 44, was to fund public transportation. Yet, the assistance went to BC Transit, not Translink, and BC Transit's only activity was leasing property to the entity that actually operated the public transportation.
+[61] The Respondent maintains that BC Transit cannot claim for GST purposes that it is not in the business of making exempt supplies (i.e. public transportation); yet, at the same time, claim for purposes of getting the BC Government assistance, that it is in the public transportation business, for that is the purpose of the assistance the BC Government identified in Vote 44. This is not an accurate portrayal of BC Transit's position. As a matter of fact and law, it has been established that BC Transit made a taxable supply of vehicles without consideration. This is not an idle claim. As a matter of fact, the BC Government provided assistance to BC Transit "towards costs incurred for providing public and passenger and transportation services ... including ... amortization of prepaid capital advances". From that statement by the BC Government, it does not necessarily follow that BC Transit is somehow claiming it remains, for GST purposes, in the public transportation business. The BC Government knew that BC Transit was leasing vehicles for $1.00 - it was intimately involved in the structuring of that arrangement. It knew it was Translink operating the Skytrain. In providing the financial assistance, there is no evidence to suggest the BC Government had BC Transit's GST issues in mind. It was simply assisting BC Transit, and in so doing, indirectly assisting the overall operation of public transportation in Vancouver. But the fact that the BC Government may have a broader purpose does not eradicate the fact that there remained an immediate purpose to assist BC Transit with its only activity of making a taxable supply, which falls squarely within subsection 141.01(1.2).
+[62] As subsection 141.01(1.2) applies, and the Grants are considered consideration, BC Transit, by the application of subsection 141.01(2) is entitled to ITCs in connection with the Vehicle appeal.
+Basic Tax Content
+[63] The last issue in the Real Property appeal is the question of the basic tax content. As I have mentioned, BC Transit accepts the adjustment of $51,142.10, as set out in paragraph 15 of these reasons. The Respondent argues that that is simply illustrative of the unreliability of the numbers presented by BC Transit. This discrepancy was based on a small sample by the CRA auditor, so if I decide that the BC Transit is entitled to ITCs, I should send the matter back to the Minister for further review to determine accurately the basic tax content. Further, the Respondent argues that if the FMV of the property at the time of a change in use is lower than cost, then basic tax content is reduced proportionately; BC Transit made no effort to review other valuation methods in concluding that cost was lower than FMV.
+[64] BC Transit did not consider a direct comparison approach nor an income capitalization approach to a valuation of the property, as, according to Mr. Sharp, neither approach was appropriate given the nature of the property and the character of the parties involved. Also, he testified it was apparent that replacement costs in the spring of 1999 were significantly higher than original costs, so BC Transit felt comfortable relying on costs. I accept this evidence and see no reason to question, on this basis, the basic tax content as determined by BC Transit.
+[65] I have some apprehension relying on the CRA auditor's findings to cast doubt on the overall reliability of BC Transit's calculation of the basic tax content. Granted, Ms. Robert only conducted what she called a small sample, but she identified all questionable suppliers and then totalled all such suppliers' invoices. This may have cast the net more broadly. Further, the Respondent is not in a position to suggest any alternative numbers. The Respondent is basically asking me to give the government another 'kick at the cat', up to 16 years after the expenditures were incurred, because CRA did not do a thorough job first time through.
+[66] BC Transit argues they would be prejudiced, as it has been six years since the return was filed and 16 years since the invoices issued - suppliers may have disappeared, individuals died. It is simply too late says the Appellant. The Respondent made a decision not to conduct a complete audit on the basis that there was no consideration. The Minister was wrong. The Minister could have hedged his bets by authorizing Ms. Robert to delve further. He did not do so, and has not done so to this point - this point being the realization that he was wrong. Under these circumstances, I am not inclined to send it back for further review. I accept the basic tax content as presented by BC Transit, adjusted to reflect the approximate $51,000 deficiency conceded by it.
+[67] I allow the appeals. I vary the reassessment in connection with the Real Property appeal by allowing BC Transit ITCs of $3,420,897.90, and I vary the reassessment in connection with the Vehicle appeal by allowing BC Transit ITCs of $335,862.42. The Appellant is entitled to one set of costs.
+Signed at Ottawa, Canada, this 1st day of August, 2006.
+"Campbell J. Miller"
+Miller J.
+CITATION: 2006TCC437
+COURT FILE NO.: 2005-1038(GST)G and 2005-1039(GST)G
+STYLE OF CAUSE: British Columbia Transit and
+Her Majesty The Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: June 22 and 23, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: August 1, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Werner H.G. Heinrich and
+David E. Graham
+Counsel for the Respondent:
+Lynn M. Burch
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Werner H.G. Heinrich and
+David E. Graham
+Firm: Koffman Kalef
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-1, Tab 17.
+[2] Exhibit A-1, Tab 2.
+[3] Appellant's Written Submissions, page 6.
+[4] Exhibit R-6.
+[5] Exhibit R-7.
+[6] 2003 GTC 513.
+[7] 2005 GTC 783.
+[8] 2004 DTC 6002.
+[9] supra, at page 6007.
+[10] supra at paragraph 4.
+[11] 1994 Conference Report, page 34:4.
+[12] Exhibit A-1, Tab 4, page 12.
+[13] (1981) AC 513 at 532.

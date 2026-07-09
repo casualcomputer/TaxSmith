@@ -1,0 +1,173 @@
+---
+title: "McCuaig Balkwill v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/311423/index.do"
+last_modified: "2018-06-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 99"
+citation2: ""
+neutral_citation: "2018 TCC 99"
+decision_date: "2018-06-12"
+language: "en"
+item_id: "311423"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4730
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:46:17.426000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1ef26c9f3062ff5a1ed3d89ee5002ce3fe5cdb43d0f4a4a85cd5f6d04d990a58"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McCuaig Balkwill v. The Queen
+
+- Citation: 2018 TCC 99
+- Decision date: 2018-06-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4730, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McCuaig Balkwill v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-06-12
+Neutral citation
+2018 TCC 99
+File numbers
+2015-1651(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-1651(IT)G
+BETWEEN:
+DARLENE MCCUAIG BALKWILL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 1, 2, 3 and 4, 2018, at Ottawa, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Graham S. Ragan
+Counsel for the Respondent:
+André LeBlanc
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2005, 2006 and 2007 taxation years is dismissed, with costs, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Ontario, this 12th day of June 2018.
+“Patrick Boyle”
+Boyle J.
+Citation: 2018 TCC 99
+Date: 20180612
+Docket: 2015-1651(IT)G
+BETWEEN:
+DARLENE MCCUAIG BALKWILL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] The only issue in this case is to determine the fair market value of collectible wines donated to charities for their charity auctions in 2005 and 2006. The parties disagree on the appropriate valuation methodology and, for that reason, on the fair market values.
+[2] The Court has less than complete, perfect evidence with which to do that in this case, even though it is clear that other possibly better or more complete evidence would have been available.
+Relevant Facts and Evidence
+[3] The taxpayer is a resident of Ontario who donated 21 bottles of wine, made up of 19 different labels and vintages, to two Ottawa charities, the Ottawa Food Bank and the Ottawa Chamber Music Society.
+[4] The charities’ appraisal of the donated bottles’ fair market value was $23,600. The Canada Revenue Agency (“CRA”) reassessed this taxpayer using a value of $4,700, being approximately 20% of the amounts receipted by the charities on the basis that the sales prices at the auctions reflected about 20% of the receipted amounts. None of the wines are available at the Liquor Control Board of Ontario (“LCBO”).
+[5] The parties entered a partial agreed statement of facts (copy attached) into evidence and each party called an appraisal expert. The hearing lasted four days.
+[6] The taxpayer’s expert was a qualified appraiser of personal property whose specialty is wine. She is also an accredited sommelier. The Respondent’s expert was a qualified appraiser of personal property who specializes in fine art. Both experts were qualified to provide their opinions to the Court. [1] Both experts were able to locate comparables of their choice involving the identical label and vintage of all but one of the 21 bottles in issue. With the exception of that bottle, which was the same for both experts, there was no need under either party’s appraisal methodology to involve any specific wine knowledge. I will return to that bottle briefly below.
+[7] The taxpayer’s position in this Court is that the fair market value of a bottle of wine in Ontario is the amount that would have been charged for each bottle had it been ordered through LCBO’s Private Ordering program. The Appellant’s expert maintained that is a retail price and the price which an Ontario resident would have to pay if they purchased the wine in Ontario. These wines are not otherwise generally available to be purchased in Ontario.
+[8] The LCBO’s Private Ordering pricing methodology begins with the cost to buy the particular wine ordered by the LCBO in the global wine market, presumably whether directly from the vineyard or from a reseller. To that are added markups, levies, taxes, tariffs, duties, freight transportation costs, etc.
+[9] The taxpayer’s expert, Sandi Bailey, was unable to locate data on the comparable sales prices of these same wines, or comparable wines, for 2005 and 2006. That data was either not known to her or not available to her. This expert’s only valuation amount proffered or opined on to the Court was as of 2016, the year in which her report was prepared. The only 2016 data she relied on was list prices from an online wine source website whose sellers are wine sellers around the world. [2] These were list, retail or asking prices, and she did not provide any evidence or rely on any evidence of actual sales prices. It was clear from her correspondence with a number of sellers that the prices posted online could not be simply presumed to be firm and non-negotiable. Several resellers told her there was some room for negotiation, but she did not follow up. Another offered a flat 10% discount, and another, a discount for orders over a certain price. The total of the global wine sellers’ 2016 prices for these wines was approximately $5,500. Applying her understanding of the LCBO’s pricing methodology to this amount, she arrived at a total 2016 fair market value of approximately $17,200.
+[10] The critical problem with this expert’s valuation is that she did not provide any evidence or an opinion on how the Court could extrapolate her 2016 values or aggregate value back to 2005 and 2006. [3] Her report and her testimony were primarily focused on the issue of the appropriate methodology (which in her opinion would have been the same in 2005/2006 and 2016). Her report and her testimony further opined that the overall LCBO resulting prices of in excess of three times the global wine market list price of fine collectible, investable or blue chip wines would also have been about the same multiple in the earlier years as in 2016. The Appellant’s counsel acknowledged that neither her report nor testimony gave me a value for the years in question.
+[11] The Respondent’s expert, Kathryn Minard, opined that the appropriate valuation methodology was to base value on known sales circa 2005/2006 at wine auctions available to the taxpayer/donor to sell her wines as a resident of Ontario. She provided data to the Court on actual auction sales in the United States in or near those years of the same label and vintage of these wines with one exception. [4] The Respondent’s expert arrived at an aggregate fair market value for the Appellant’s donated wines of about $2,650 in 2005 and 2006.
+[12] I am prepared to assume for purposes of these reasons that much of the difference between the Respondent’s $2,650 valuation in 2005 and 2006 auction sales and the Appellant’s $5,500 aggregate list prices at global merchants in 2016 reflects appreciation in the market over 10 plus years.
+Analysis
+[13] The parties agree that the appropriate definition of fair market value is properly summarized by the Federal Court of Appeal in Canada (Attorney General) v. Nash: [5]
+THE DEFINITION OF FAIR MARKET VALUE
+8 The well-accepted definition of fair market value is found in the decision of Cattanach J. in Henderson Estate and Bank of New York v. M.N.R. 73 D.T.C. 5471 at 5476:
+The statute does not define the expression “fair market value”, but the expression has been defined in many different ways depending generally on the subject matter which the person seeking to define it had in mind. I do not think it necessary to attempt an exact definition of the expression as used in the statute other than to say that the words must be construed in accordance with the common understanding of them. That common understanding I take to mean the highest price an asset might reasonably be expected to bring if sold by the owner in the normal method applicable to the asset in question in the ordinary course of business in a market not exposed to any undue stresses and composed of willing buyers and sellers dealing at arm’s length and under no compulsion to buy or sell. I would add that the foregoing understanding as I have expressed it in a general way includes what I conceive to be the essential element which is an open and unrestricted market in which the price is hammered out between willing and informed buyers and sellers on the anvil of supply and demand.
+Although Cattanach J. expressed the caution that his words did not constitute an “exact” definition, the extent to which his words have been adopted in the jurisprudence without change over some thirty years suggests that his approach, although not necessarily exhaustive, is now considered to be the working definition.
+[Emphasis added.]
+[14] This definition of fair market value in a tax case is clearly written focusing on a notional sale by the taxpayer; it also contemplates willing and knowledgeable buyers.
+[15] The Ontario provincial regulatory regime on buying and selling wine in Ontario and the LCBO pricing practices for private ordering were described by the taxpayer’s expert.
+[16] The LCBO Private Ordering program and pricing structure is generally described above.
+[17] Regulation of the buying and selling of wine under Ontario legislation, according to both parties, is that an Ontario resident wanting to sell their wine has three routes open to them:
+(i) The LCBO hosts regular auctions of collectible wines. This is more recently conducted by a private auctioneer, Waddington’s, on LCBO’s behalf. There is some data available in respect of past auctions of which the Appellant’s expert was unaware and which was not consulted and/or relied on by the Respondent’s expert.
+(ii) There are non‑Ontario, non‑Canadian global consignment auctions and sellers. Both experts used data from this category, the Appellant, from global sellers, and the Respondent, from a large U.S. consignment auction house that also operates a consignment retail sales operation.
+(iii) Donations to charities to be sold in a charity auction hosted by that charity. This is how the Appellant chose to dispose of her wines. Neither side’s expert relied upon the results at charity auctions in giving their opinion evidence to this Court.
+[18] Since there are actual, normal, functioning, lawful, and available real markets in which an Ontario resident wanting to obtain as high a price as they can for their bottle of wine can participate, and that are open to Ontario and non‑Ontario purchasers, the Court sees no need to consider creating a proxy market that is fictional and hypothetical and does not in fact exist. There appears to be even less reason to structure such a proxy market to use the LCBO’s Private Ordering pricing since (i) that government monopoly “market” is not available to the Ontario resident wanting to sell their wine, (ii) it would be an offense for such a person to try, and (iii) the price arrived at by the LCBO as its retail list price is a price that the Appellant’s expert testified the taxpayer could never be expected to receive on a sale of her wine. The Appellant’s expert, on more than one occasion, said that the LCBO’s Private Ordering retail pricing was the exact same as a replacement cost valuation for insurance purposes would arrive at. She also said that an Ontario seller wanting to sell their wine for the highest cash price they could obtain would be expected to be able to dispose of it using one of the lawful methods in Ontario, and would reasonably be expected to receive an amount somewhere close to the global wine price that she used as the starting point in her appraisal methodology for the Court.
+[19] In Nash, above, the Federal Court of Appeal describes in paragraph 22 a proxy market as something that might be looked to in the absence of a market for the sale of the property being valued. In paragraph 24, the Court of Appeal wrote: “But where there is a market in which assets of the description of the asset being valued are traded, there is no need for the use of a proxy.”
+[20] To use the language of our former Chief Justice Bowman in Klotz v. The Queen, [6] which the Court of Appeal in Nash described as colourfully expressed logic, the use of the LCBO Private Ordering pricing methodology in the way the Appellant in this case used it is devoid of common sense and out of touch with ordinary commercial reality.
+[21] It appears very clear that the markets in which this wine should be valued are the real, existing, markets that are used by residents of Ontario. [7] These are the LCBO auctions, the non‑LCBO global consignment auctions and sellers, and Ontario charity auctions. Prices for a purchase and sale in these markets are obviously relevant to, but not necessarily determinative of, a wine’s fair market value determination by this Court.
+[22] The provincial regulatory restrictions do not result in a market that is not open and unrestricted and which should for that reason be dismissed. The requirement in the Court’s definition of fair market value that the market be open and unrestricted is not breached, nor does it attain the level of being an undue stress on the markets by this level of jurisdictional regulation. The legislative restrictions are relevant and have to be considered. In this case, the Appellant’s expert opined and counsel argued that this extent of regulation automatically dismissed the market as a relevant market and required a proxy market be created. They did not opine or argue that the impact of these restrictions had any negative impact on prices obtained using available Ontario markets compared with world markets. Indeed, the Appellant’s expert seemed to agree they would expect to achieve about the same prices, and the Respondent’s expert was of a similar view.
+[23] The regulatory, tax, customs and import duties, transportation and other costs imposed by Ontario or any other jurisdiction in which one buys or sells a good will not generally be expected to impact the determination of the fair market value of an asset unless there is, for example, an available resale market which somehow reflects this. The asset to be valued is owned by the seller and these costs are either borne by the purchaser, or may give rise to a reduction in an actual seller’s proceeds of disposition, or may otherwise be deductible expenses. In a valuation, such related expenses borne by the buyers may normally only be expected to reduce the available market of buyers or reduce the amount a buyer may be willing to pay.
+[24] It is exceedingly hard to construct a rational argument that such restrictions should increase the assets’ valuation to a taxpayer/owner, who cannot impose such additional costs or collect them, beyond the value obtained in commercially available markets.
+[25] It is similarly hard to imagine circumstances in which one would dismiss real, functioning, available markets and create a proxy market that is a virtual, single seller monopoly that uses a monopolistic pricing structure that arrives at a price that the Appellant’s expert says the taxpayer could never receive. The Appellant’s expert clearly stated more than once that the LCBO retail pricing methodology she used arrives at a fair market value that is the same as its replacement cost, and that it is a price that no Ontario taxpayer could ever reasonably expect to realize on a sale — which she opined would simply reflect the global wine sellers’ price.
+[26] The only circa 2005/2006 data before the Court was provided by the Respondent’s expert and it was from completed auction sales at a single large U.S. consignment auction house and consignment seller. That amount is far inferior to the values used by CRA in the reassessments. That is the best evidence of value in 2005 and 2006 before the Court and I accept it as sound and as the Court’s determination of fair market value in this particular case.
+[27] This appeal must therefore be dismissed as this Court cannot order CRA to reassess using a lower value than used in the reassessments.
+[28] The parties jointly invited me to offer comments beyond the reasons necessary to decide this particular case because they hope to use this case as guidance on how to resolve a considerable number of other wine donation appeals and objections. These comments follow.
+[29] Fundraising activities are an important and permissible activity undertaken by charities. These reasons and this decision should not be considered to suggest otherwise or raise concerns that fundraising activities by charities should be in any way curtailed. The only issue is the valuation of donations by particular donors in their particular circumstances of their particular property.
+[30] This decision does not preclude a vintage or label of wine being purchased by a taxpayer at an LCBO store for the purpose of donating it to a charity for an upcoming auction or other event being considered to have a fair market value equal to its purchase price. There is no apparent reason to treat that bottle of wine any differently for valuation purposes than, for example, a snowsuit purchased by a taxpayer to donate to a charity’s snowsuit fund.
+[31] Clearly in another case involving wine, there could be other or better evidence on either side in which the same or a similar methodology is to be used to value wine; for example, actual purchase and sale prices in auctions, consignments, charity auctions, and any other available markets; or the use of comparable wines that are not identical labels and vintages.
+[32] In these reasons, I have not concluded that, using its Private Ordering methodology, the LCBO’s retail prices — properly applied to full cases and their actual starting market prices, and using accurate transportation and other costs and amounts, and fully supported with evidence — can never be a relevant consideration in determining a wine’s fair market value or the range of its fair market value. I have only decided it is not determinative on its own, and that it is not helpful when it is not properly and accurately applied.
+[33] The appeal is dismissed with costs.
+Signed at Ottawa, Ontario, this 12th day of June 2018.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2018 TCC 99
+COURT FILE NO.:
+2015-1651(IT)G
+STYLE OF CAUSE:
+DARLENE MCCUAIG BALKWILL v. THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATES OF HEARING:
+May 1, 2, 3 and 4, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+June 12, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Graham S. Ragan
+Counsel for the Respondent:
+André LeBlanc
+COUNSEL OF RECORD:
+For the Appellant:
+Graham S. Ragan
+Firm:
+Gowling WLG (Canada) LLP
+Ottawa, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] In one of her reports, Sandi Bailey challenged in rather strong terms whether Kathryn Minard was even competent or qualified to value wine. She went so far as to opine that Ms. Minard breached the applicable rules of their accrediting body. These remarks were not only intemperate, unnecessary and uncalled for — after reading and listening to Ms. Bailey’s explanations for such an attack, I could readily conclude they were entirely unfounded and without any merit. It appeared to be little more than the folly of the novice up against the experienced.
+[2] The Appellant’s expert did not apply this or any similar valuation methodology to the one bottle where she found the particular label and vintage available for sale at the Société des alcools du Québec (“SAQ”). In that case, she simply used the SAQ retail price. She could not satisfactorily explain how to reconcile doing this with her overall opinion that the appropriate valuation methodology was the price that would have to be paid in Ontario.
+[3] Notwithstanding that her report and her evidence in chief referred to a number of wine indexes that included up to half of these wines.
+[4] Her one exception was a bottle for which she could not find an exact comparable sale. After seeking advice from an experienced wine auctioneer with expertise in collectible wines, who opined it would probably not have been acceptable at LCBO wine auctions during the year of donation and was perhaps undrinkable by that time, she assigned it no value. In contrast, the Appellant’s expert was of the opinion that a different vintage of the same label was an appropriate comparable but the price of the subject vintage should be discounted by 15%.
+[5] 2005 FCA 386.
+[6] 2004 TCC 147.
+[7] There was some evidence that the restrictions on the sale of wine in some other Canadian provinces were somewhat similar to those in Ontario.

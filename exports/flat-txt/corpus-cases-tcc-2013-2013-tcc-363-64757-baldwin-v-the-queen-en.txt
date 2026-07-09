@@ -1,0 +1,214 @@
+Title: Baldwin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64757/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-363-64757-baldwin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-11-19
+
+# Baldwin v. The Queen
+
+- Citation: 2013 TCC 363
+- Decision date: 2013-11-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5889, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Baldwin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-11-19
+Neutral citation
+2013 TCC 363
+File numbers
+2012-2252(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2252(IT)I
+BETWEEN:
+LAURA BALDWIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-1839(IT)I
+AND BETWEEN:
+CHARLES CHAKASIM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-2042(IT)I
+AND BETWEEN:
+VIRGINIA FORSYTHE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-2035(IT)I
+AND BETWEEN:
+CARRIE MARTIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-2609(IT)I
+AND BETWEEN:
+DIANE SHERIDAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+2012-1920(IT)I
+AND BETWEEN:
+ART ZOCCOLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion by telephone conference call on November 5, 2013 at Ottawa, Ontario
+Counsel for the Appellant:
+G. James Fyshe
+Counsel for the Respondent:
+Gordon Bourgard
+__________________________________________________________________
+ORDER
+Upon consideration of a motion by the Respondent for an Order:
+1. Striking the clause “that was treated as tax exempt by the CRA” from each Fresh Notice of Appeal at:
+(a) 2012-2252(IT)I – Laura Baldwin: paragraphs 13(h) and 22;
+(b) 2012-1839(IT)I – Charles Chakasim: paragraphs 16(h) and 25;
+(c) 2012-2042(IT)I - Virginia Forsythe: paragraphs 12(h) and 21;
+(d) 2012-2035(IT)I – Carrie Martin; paragraphs 24(h) and 33;
+(e) 2012-2609(IT)I – Diane Sheridan; paragraphs 15(h) and 24;
+(f) 2012-1920(IT)I – Art Zoccole; paragraphs 11(h) and 20.
+2. Striking the sentences “If the basis of this connecting factor is to establish a level playing field for businesses providing employee leasing services to off-reserve non-profit and charitable organizations, then this connecting factor should weigh in favour of NLS being located on reserve. Otherwise, Native Leasing Services would be placed at a singular disadvantage compared to its competitors.” From each Fresh Notice of Appeal at:
+(a) 2012-2252(IT)I – Laura Baldwin: paragraph 22;
+(b) 2012-1839(IT)I – Charles Chakasim: paragraph 25;
+(c) 2012-2042(IT)I - Virginia Forsythe: paragraph 21;
+(d) 2012-2035(IT)I – Carrie Martin; paragraph 33;
+(e) 2012-2609(IT)I – Diane Sheridan; paragraph 24;
+(f) 2012-1920(IT)I – Art Zoccole; paragraph 20.
+The Motion is granted to the extent that the clause stated in point number 1 above is struck from each Fresh Notice of Appeal. The sentences at point number 2 are not struck. No costs are awarded.
+Signed at Halifax, Nova Scotia, this 19th day of November 2013.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2013TCC363
+Date: 20131119
+Docket: 2012-2252(IT)I
+BETWEEN:
+LAURA BALDWIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-1839(IT)I
+AND BETWEEN:
+CHARLES CHAKASIM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-2042(IT)I
+AND BETWEEN:
+VIRGINIA FORSYTHE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-2035(IT)I
+AND BETWEEN:
+CARRIE MARTIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-2609(IT)I
+AND BETWEEN:
+DIANE SHERIDAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-1920(IT)I
+AND BETWEEN:
+ART ZOCCOLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+V.A. Miller J.
+[1] The Respondent has brought a motion for an Order striking a clause and certain sentences contained in each of the Fresh Notices of Appeal for each of the Appellants.
+[2] In particular, the Respondent seeks to have the following underlined clause struck from each of the Fresh Notices of Appeal on the basis that the clause is not relevant and may prejudice or delay the fair hearing of these appeals. This clause appears twice in each Fresh Notice of Appeal.
+“In the present case, the only competitors for Native Leasing Services are employee leasing firms created by Band Councils and, in one case, another employee leasing firm located on reserve that was treated as tax exempt by the CRA.”
+[3] The Respondent also seeks to have the following underlined sentences struck from each of the Fresh Notices of Appeal on the basis that they are not relevant as these appeals are not about how Native Leasing Services should be treated for competitive or tax purposes.
+“The employee leasing business of Native Leasing Services was focused on providing necessary administrative services to employees working for social service organizations in the First Nations community and who were not providing services in the commercial mainstream. Alternatively, in Southwind, the Federal Court of Appeal’s concern about this connecting factor was that an Indian taxpayer should enter into the commercial mainstream on the same terms as other Canadians with whom he competes. In the present case, the only competitors for Native Leasing Services are employee leasing firms created by Band Councils and, in one case, another employee leasing firm located on reserve that was treated as tax exempt by the CRA. If the basis of this connecting factor is to establish a level playing field for businesses providing employee leasing services to off-reserve non-profit and charitable organizations, then this connecting factor should weigh in favour of NLS being located on reserve. Otherwise, Native Leasing Services would be placed at a singular disadvantage compared to its competitors.”
+[4] Each appeal has been brought under the Informal Procedure. Although the Tax Court of Canada Rules (Informal Procedure) do not provide for the striking of pleadings, it is within the inherent jurisdiction of the Court to control its own process: Garber v The Queen, 2005 TCC 635 at paragraph 31; Sackaney v The Queen, 2013 TCC 303. It is my view that this Court has the jurisdiction to strike pleadings or portions of pleadings in informal appeals. This is especially true when the pleading is not relevant to the issues in dispute.
+[5] However, as this is the informal process, I do not want to encourage the Crown to bring a motion whenever there are statements in a Notice of Appeal which it considers to be irrelevant. Most often the matter can be dealt with at the hearing of the appeal.
+[6] The test used for striking pleadings or parts of pleadings was stated by Chief Justice MacLachlin in Knight v Imperial Tobacco Canada Ltd., 2011 SCC 42 at paragraph 17:
+... A claim will only be struck if it is plain and obvious, assuming the facts pleaded to be true, that the pleading discloses no reasonable cause of action: Odhavji Estate v. Woodhouse, 2003 SCC 69, [2003] 3 S.C.R. 263 , at para. 15; Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959, at p. 980. Another way of putting the test is that the claim has no reasonable prospect of success. Where a reasonable prospect of success exists, the matter should be allowed to proceed to trial: see, generally, Syl Apps Secure Treatment Centre v. B.D., 2007 SCC 38, [2007] 3 S.C.R. 83 ; Odhavji Estate ; Hunt ; Attorney General of Canada v. Inuit Tapirisat of Canada, [1980] 2 S.C.R. 735.
+[7] The question is whether, assuming the clause and sentences pleaded by the Appellants are true, is it “plain and obvious” that they disclose no reasonable cause of action.
+[8] The issue in each of these appeals is whether the income earned by the Appellants, as employees of Native Leasing Services (“NLS”), was personal property of an Indian situated on a reserve within the meaning of section 87 of the Indian Act and thus exempt from taxation under the Income Tax Act (“ITA”).
+[9] NLS is a sole proprietorship which is owned and operated by Roger Obonsawin, a status Indian. NLS has its head office on Six Nations of the Grand River Reserve.
+Appellant’s Position
+[10] It is the Appellants position that the clause and sentences in question relate to the circumstances surrounding the “connecting factors test” and in particular whether their work activities constitute participation in the commercial mainstream. Counsel for the Appellants argued that if the Respondent concedes that ‘participation in the commercial mainstream’ is not a factor in this appeal, then the Appellants would delete the clause and sentences in issue on consent. In the Appellants’ submissions, counsel wrote:
+The term “commercial mainstream” had been understood to be a consideration which prevents Indians from securing a competitive advantage in the commercial mainstream with respect to (sic) other taxpayers. Thus, the issue of competition and specifically, who are the alleged competitors, has been brought into play by the respondent.
+[11] In conclusion, the Appellants argued that if ‘participation in the commercial mainstream’ is an issue, then the Appellants should not be prevented from presenting evidence to identify “its competitors in order to establish that no unfair competitive advantage arises.”
+Decision
+(a) that was treated as tax exempt by the CRA
+[12] It is totally irrelevant to these appeals that an employee leasing firm located on a reserve was treated as “tax exempt” by the Canada Revenue Agency. Whether each Appellant is entitled to an exemption under the ITA will be decided on the basis of the facts in each of their situations. That others have been given the benefit of the exemption is simply not relevant: Sinclair v R, 2003 FCA 348. These appeals have no chance of success on the basis that the CRA has found that another entity is entitled to the exemption. As stated by Noel J.A. in RCI Environnement Inc. v R, 2008 FCA 419 at paragraph 51:
+…no logic can justify that the tax treatment of a taxpayer should be determined according to the circumstances relating to another taxpayer.
+[13] The clause “that was treated as tax exempt by the CRA” is to be struck from each of the Fresh Notices of Appeal. It appears at:
+(a) 2012-2252(IT)I – Laura Baldwin: paragraphs 13(h) and 22;
+(b) 2012-1839(IT)I – Charles Chakasim: paragraphs 16(h) and 25;
+(c) 2012-2042(IT)I - Virginia Forsythe: paragraphs 12(h) and 21;
+(d) 2012-2035(IT)I – Carrie Martin; paragraphs 24(h) and 33;
+(e) 2012-2609(IT)I – Diane Sheridan; paragraphs 15(h) and 24;
+(f) 2012-1920(IT)I – Art Zoccole; paragraphs 11(h) and 20.
+[14] I am aware of the decision in the motion in Tuccaro v R, 2013 TCC 300 where the Crown sought to have a paragraph struck in the Notice of Appeal because it pled facts related to the tax treatment of other taxpayers. Bocock J. found that it was premature to strike the paragraph. He allowed it to remain in the notice of appeal on the condition that the Appellant had to amend the notice of appeal to plead facts concerning the application of the connecting factors test to the third party.
+[15] I respectfully disagree. It is my view that pleading the facts and circumstances of a third party will not assist the Appellants in convincing the trial judge that the income they received from NLS was situated on a reserve within the meaning of section 87 of the Indian Act: Sinclair (supra). As a matter of principle, a taxpayer must prove that it meets the requirements of the legislation on its own merits: Ford Motor Co of Canada v Minister of National Revenue, [1997] 3 FC 103 (FCA) at paragraph 48.
+(b) If the basis of this connecting factor is to establish a level playing field for businesses providing employee leasing services to off-reserve non-profit and charitable organizations, then this connecting factor should weigh in favour of NLS being located on reserve. Otherwise, Native Leasing Services would be placed at a singular disadvantage compared to its competitors.
+[16] Prior to commenting on these sentences, I want to emphasize to counsel for the Appellants that NLS is not an Appellant in these appeals. The Appellants are some of the individuals who were employees of NLS. If the commercial mainstream as a connecting factor is relevant to these appeals, it is the activities and services of the Appellants which are to be considered in this connecting factor. The focus is not on NLS or a third party: Bastien Estate v The Queen, 2011 SCC 38 at paragraph 60. Whether NLS is located on a reserve must be established by its own facts and not how the CRA treated another employee leasing business.
+[17] It is the Respondent’s position that the above sentences should be struck because the alternative argument made by the Appellants actually requests that the Court vacate the assessments on grounds of fairness or equitable grounds. The Tax Court’s jurisdiction does not include the power to make declarations or to instruct the Minister to correct a situation not resulting from an assessment.
+[18] It is my view that the underlined sentences are arguments which the Appellants intend to make based on their interpretation of the decision in Southwind v R (1998), 98 DTC 6084 (FCA). Whether or not I agree with the Appellants’ interpretation of Southwind is really not the question at this stage of the proceeding. It is my opinion that the Appellants’ argument based on their interpretation of a decision should not be struck from the pleadings.
+[19] The motion is granted. No costs are awarded.
+Signed at Halifax, Nova Scotia, this 19th day of November 2013.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2013TCC363
+COURT FILE NO.: 2012-2252(IT)I
+2012-1839(IT)I
+2012-2042(IT)I
+2012-2035(IT)I
+2012-2609(IT)I
+2012-1920(IT)I
+STYLE OF CAUSE: LAURA BALDWIN
+CHARLES CHAKASIM
+VIRGINIA FORSYTHE
+CARRIE MARTIN
+DIANE SHERIDAN
+ART ZOCCOLE
+AND THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: November 5, 2013
+REASONS FOR ORDER BY: The Honourable Justice Valerie Miller
+DATE OF ORDER: November 19, 2013
+APPEARANCES:
+Counsel for the Appellant:
+G. James Fyshe
+Counsel for the Respondent:
+Gordon Bourgard
+COUNSEL OF RECORD:
+For the Appellant:
+Name: G. James Fyshe
+Firm: Fyshe McMahon LLP
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

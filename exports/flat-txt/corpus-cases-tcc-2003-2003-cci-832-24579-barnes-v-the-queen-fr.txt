@@ -1,0 +1,163 @@
+Title: Barnes v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/24579/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-832-24579-barnes-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-11-07
+
+# Barnes v. The Queen
+
+- Citation: 2003 CCI 832
+- Decision date: 2003-11-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2178, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barnes v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-07
+Référence neutre
+2003 CCI 832
+Numéro de dossier
+2003-574(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI832
+Date: 20031107
+Dossier: 2003-574(IT)I
+ENTRE :
+ERIC DAVID BARNES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Il s'agit d'un appel interjeté sous le régime de la procédure informelle au sujet d'une cotisation établie par le ministre du Revenu national (le « ministre » ) en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) relativement à l'année d'imposition 2001 de l'appelant. Ce dernier est tombé malade et ne peut plus travailler depuis janvier 1999. Jusqu'en septembre 2000, il a reçu des prestations d'invalidité de longue durée de la part de son employeur. Il a ensuite demandé les prestations d'invalidité du Régime de pensions du Canada ( « RPC » ) et les prestations de maladie de l'Assurance-emploi ( « AE » ). Ces deux demandes ont été approuvées en 2001; cette même année, l'appelant a reçu un paiement forfaitaire de prestations d'invalidité du RPC ( « paiement du RPC » ) de 19 077 $ et un paiement forfaitaire rétroactif admissible ( « paiement de l'AE » ) de 6 195 $. Une partie de ces prestations était attribuable à l'année 2000. En effet, le montant total du paiement du RPC de 19 077 $ comprend un montant de 8 061 $ considéré comme étant applicable à l'année d'imposition 2000, et le montant total du paiement de l'AE de 6 195 $ était applicable à la période d'août à décembre 2000.
+[2] Le ministre a mis en application les dispositions des articles 120.3 et 120.31 de la Loi pour déterminer l'impôt à payer à l'égard de la partie du paiement du RPC (8 061 $) et le paiement de l'AE (6 195 $) s'appliquant à l'année d'imposition 2000. Le calcul que le ministre a effectué relativement au revenu et à l'impôt exigible est résumé aux paragraphes 7 e) à m) de la réponse à l'avis d'appel, lesquels sont repris ci-dessous :
+[TRADUCTION]
+e) le ministre s'appuie sur les dispositions du paragraphe 56(8) de la Loi de l'impôt sur le revenu (la « Loi » ) pour déterminer le revenu imposable, et sur l'article 120.3 de la Loi pour déterminer l'impôt exigible relativement à la partie du paiement forfaitaire du RPC de 8 061 $ s'appliquant à l'année d'imposition 2000;
+f) conformément au paragraphe 56(8) de la Loi, le montant de 8 061 $ n'était pas inclus dans le calcul du revenu de l'appelant pour l'année d'imposition 2001, mais il était considéré comme inclus dans l'année d'imposition 2000;
+g) l'impôt ainsi calculé conformément à l'article 120.3 de la Loi sur le montant de 8 061 $ de la façon indiquée au paragraphe 7(f) des présentes était établi à 929,25 $ et inclus dans l'impôt à payer pour l'année d'imposition 2001, de la façon indiquée à l'annexe A ci-jointe;
+h) le ministre a mis en application les dispositions des articles 110.2 et 120.31 de la Loi pour déterminer l'impôt payable à l'égard du PFRA de l'AE;
+i) le montant de 6 195 $ est un « montant admissible » et une « partie déterminée » selon le sens attribué à ces termes dans les définitions figurant au paragraphe 110.2(1) de la Loi;
+j) le montant de 6 195 $ est inclus dans la détermination du revenu net de l'appelant conformément au sous-alinéa 56(1)a)(iv) de la Loi, mais il est déduit du revenu net dans le calcul du revenu imposable en vertu du paragraphe 110.2(2) de la Loi;
+k) l'impôt ainsi calculé d'après le paragraphe 120.31(2) de la Loi sur le montant de 6 195 $ susmentionné était fixé à 612,03 $ et inclus dans l'impôt à payer pour l'année d'imposition 2001 de la façon indiquée à l'annexe A ci-jointe;
+l) le traitement fiscal spécial visant les montants de 8 061 $ et de 6 195 $ était plus avantageux pour l'appelant que ne l'aurait été l'inclusion de ces montants dans le revenu de l'appelant pour l'année d'imposition 2001 et l'établissement de l'impôt à payer en vertu de l'article 117 de la Loi; et
+m) le revenu net de 34 978 $ doit être inclus comme « revenu familial net » dans le calcul de la Prestation fiscale pour enfants et le crédit de taxe sur les produits et services pour l'année d'imposition 2001 et l' « année de base » .
+ANNEXE A
+Année d'imposition 2001
+ERIC BARNES
+CALCUL DU REVENU IMPOSABLE
+Revenu
+Revenu d'emploi
+Prestations d'invalidité du Régime de pensions du Canada
+Prestations de l'Assurance-emploi
+Prestations du Régime enregistré d'épargne-retraite
+Allocation de retraite
+Revenu total
+Note
+1
+Montant
+6 381,00 $
+11,016,00
+6 195,00
+16 666,00
+48 114,00
+88 372,00
+Déductions du revenu total
+Cotisations au Régime enregistré d'épargne-retraite
+Autres déductions
+Revenu net
+Déduction selon le paragraphe 110.2(2) de la LIR
+Revenu imposable
+52 874,00
+520,00
+-53 394,00
+34 978,00
+- 6 195,00
+$28783,00
+Note 1
+Total des prestations du Régime de pensions du Canada reçues
+Moins : prestations applicables à 2000 (parag. 56(8) de la LIR)
+Partie des prestations du Régime de pensions du Canada incluse en 2001
+19 077,00
+- 8 061,00
+11 016,00
+CALCUL DE L'IMPÔT À PAYER
+Revenu imposable (voir ci-dessus)
+Au taux de 16 %
+Plus : rajustements d'impôt (ci-dessous)
+Total partiel
+Moins : crédits non remboursables
+Impôt fédéral net
+28 783,00
+4 605,32
+1 541,28
+6 146,60
+- 3 749,00
+2 397,60 $
+Impôt exigible sur les prestations d'assurance-emploi selon le parag. 120.31(2) de la LIR
+Impôt exigible sur les prestations du RPC de 8061 $ selon l'article 120.3 de la LIR
+Total des rajustements d'impôt
+612,03
+929,25
+1 541,28 $
+[3] Bien que l'appelant accepte le traitement fiscal du paiement du RPC, il ne comprend pas pourquoi le paiement de l'AE n'est pas traité de la même façon. Autrement dit, il ne comprend pas pourquoi le paiement de l'AE applicable à l'année d'imposition 2000 est inclus dans le revenu pour 2001 alors que ce n'est pas le cas pour le paiement du RPC. Il affirme que cette méthode de calcul de son revenu lui porte préjudice, car elle a pour effet d'augmenter son revenu pour 2001 d'un montant de 6 195 $ (le paiement de l'AE) qui aurait dû être reçu en 2000 (année où son revenu était beaucoup plus faible), privant ainsi sa famille de 6 000 $ en prestations sociales pour l'année 2001.
+[4] Il en est peut-être ainsi, mais j'estime que le ministre a correctement mis en application les dispositions de la Loi. Si les articles 120.3 et 120.31 de la Loi n'existaient pas, l'appelant aurait eu à déclarer le montant intégral des paiements du RPC et de l'AE reçu en 2001 et à payer des impôts à cet égard, conformément à la division 56(1)a)(i)(B) et au sous-alinéa 56(1)a)(iv), qui se lisent comme suit :
+ARTICLE 56 : Sommes à inclure dans le revenu de l'année
+(1) Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+456(1)a)3
+a) Pensions, prestations d'assurance-chômage, etc. - toute somme reçue par le contribuable au cours de l'année au titre, ou en paiement intégral ou partiel :
+(i) d'une prestation de retraite ou de pension, y compris, sans préjudice de la portée générale de ce qui précède :
+[...]
+(B) une prestation prévue par le Régime de pensions du Canada ou par un régime provincial de pensions au sens de l'article 3 de cette loi,
+[...]
+(iv) d'une prestation versée en vertu de la Loi sur l'assurance-chômage, à l'exception d'un versement lié à un cours ou un programme destiné à faciliter le retour d'un prestataire sur le marché du travail aux termes de cette loi, ou d'une prestation versée en vertu des parties I, VIII ou VIII.1 de la Loi sur l'assurance-emploi.
+[5] Les articles 120.3 et 120.31 permettent à un particulier qui a reçu un tel paiement rétroactif forfaitaire de demander qu'un calcul spécial serve à déterminer l'impôt sur ce versement. Pour une raison ou une autre, les prestations d'invalidité du RPC font l'objet d'un traitement différent de celui des prestations d'AE d'après la Loi. Les dispositions pertinentes de la Loi sont les suivantes :
+456(8)3
+(8) Prestations du RPC/RRQ pour années antérieures. Malgré le paragraphe (1), le particulier, à l'exception d'une fiducie, qui reçoit au cours d'une année d'imposition, au titre ou en paiement intégral ou partiel d'une prestation aux termes du régime institué par le Régime de pensions du Canada ou d'un régime provincial de pensions au sens de l'article 3 de cette loi, un ou plusieurs montants dont une fraction d'au moins 300 $, au total, se rapporte à une ou plusieurs années d'imposition antérieures, n'a pas à inclure cette fraction dans son revenu, s'il en fait le choix.
+Paiements forfaitaires
+ARTICLE 110.2 : Définitions.
+(1) Les définitions qui suivent s'appliquent au présent article et à l'article 120.31.
+« année d'imposition admissible » - « année d'imposition admissible » Quant à un montant admissible reçu par un particulier, l'année d'imposition qui remplit les conditions suivantes :
+a) elle s'est terminée après 1977 et avant l'année au cours de laquelle le particulier a reçu le montant admissible;
+[...]
+« montant admissible » - « montant admissible » Montant reçu par un particulier au cours d'une année d'imposition [...] qui est inclus dans le calcul de son revenu pour l'année et qui représente l'un des montants suivants
+[...]
+b) une prestation de retraite ou de pension (sauf une prestation visée à la division 56(1)a)(i)(B)) [...]
+c) un montant visé à l'alinéa 6(1)f), au sous-alinéa 56(1)a)(iv) [...]
+« partie déterminée » - « partie déterminée » Quant à une année d'imposition admissible, la partie d'un montant admissible reçu par un particulier qui se rapporte à l'année, dans la mesure où le particulier était en droit, au cours de l'année, de la recevoir.
+4110.2(2)3
+(2) Déduction pour paiements forfaitaires. Peut être déduit dans le calcul du revenu imposable d'un particulier (sauf une fiducie) pour une année d'imposition le total des montants représentant chacun la partie déterminée d'un montant admissible qu'il a reçu au cours de l'année, si ce total s'établit à 3 000 $ ou plus.
+ARTICLE 120.3 : Prestations d'invalidité du RPC/RRQ pour années antérieures.
+Est ajouté dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition donnée le total des montants représentant chacun l'excédent éventuel du montant visé à l'alinéa a) sur le montant visé à l'alinéa b):
+a) le montant qui représenterait l'impôt payable par le particulier en vertu de la présente partie pour une année d'imposition antérieure si la fraction d'un montant non incluse, par application du paragraphe 56(8), dans le calcul du revenu du particulier pour l'année donnée et se rapportant à l'année antérieure, était incluse dans le calcul du revenu du particulier pour l'année antérieure;
+b) l'impôt payable par le particulier en vertu de la présente partie pour l'année antérieure.
+ARTICLE 120.31 : Définitions.
+(1) Les définitions figurant au paragraphe 110.2(1) s'appliquent au présent article.
+(2) Montant ajouté à l'impôt payable. Est ajouté dans le calcul de l'impôt payable en vertu de la présente partie par un particulier pour une année d'imposition donnée le total des montants représentant chacun l'excédent éventuel du montant visé à l'alinéa a) sur le montant visé à l'alinéa b) :
+a) l'impôt hypothétique payable par le particulier pour une année d'imposition admissible à laquelle se rapporte une partie déterminée d'un montant admissible qu'il a reçu et à l'égard de laquelle un montant est déduit en application de l'article 110.2 dans le calcul de son revenu imposable pour l'année donnée;
+b) l'impôt payable en vertu de la présente partie par le particulier pour l'année d'imposition admissible.
+[...]
+Note technique : Le nouvel article 120.31 de la Loi porte sur le calcul de l'impôt qu'un particulier doit payer pour une année d'imposition sur la fraction d'un paiement forfaitaire qui a été déduite en application du paragraphe 110.2(2) dans le calcul de son revenu imposable pour l'année. Cet impôt correspond au total des impôts supplémentaires qui seraient payables pour chaque année précédente visée si la partie du paiement forfaitaire qui se rapporte à l'année précédente était ajoutée au revenu imposable du particulier pour l'année. [...]
+Le nouvel article 120.31 s'applique aux années d'imposition 1995 et suivantes.
+[6] Il ressort clairement des dispositions de la Loi que la partie du paiement du RPC qui concerne l'année d'imposition 2000 et qui a été reçue en 2001 n'a pas besoin d'être incluse dans le revenu pour 2001 (en vertu du paragraphe 56(8)), mais cette règle ne s'applique pas au paiement de l'AE. Le paiement forfaitaire reçu relativement aux prestations d'AE pour 2000 doit être inclus dans le revenu pour 2001 et ne peut être déduit aux fins du calcul du revenu imposable que pour cette même année (paragraphe 110.2(2)). Par conséquent, le paiement de l'AE reçu en 2001 doit entrer en ligne de compte dans le calcul du revenu de l'appelant pour 2001 et ne peut être exclu du revenu aux fins de déterminer le crédit d'impôt pour enfants et le crédit de taxe sur les produits et services ( « TPS » ) pour l'année d'imposition 2001 et l'année de base (selon la définition de « revenu rajusté » aux articles 122.5 et 122.6 de la Loi).
+[7] L'appelant prétend que cela constitue une injustice. Il affirme que le même montant de 6 195 $ (paiement de l'AE) a été inclus dans son revenu pour l'an 2000 et 2001. Toutefois, ce n'est pas le cas. Le montant de 6 195 $ a été ajouté à son revenu pour l'an 2000 aux seules fins de calculer l'impôt théorique devant être payé sur ce montant pour 2000 et, en fin de compte, il a été ajouté à son impôt à payer pour 2001. Il n'a pas été inclus dans son revenu pour l'an 2000 aux fins de déterminer le crédit d'impôt pour enfants et le crédit de TPS pour l'an 2000. Il n'était inclus dans son revenu pour 2001 que dans le but de déterminer ces crédits pour 2001.
+[8] Le fait que l'appelant avait un revenu beaucoup plus faible en l'an 2000 qu'en 2001 ne constitue pas un facteur qui puisse l'emporter sur le libellé de la Loi. La Loi est claire, et le ministre a correctement calculé le revenu de l'appelant pour son année d'imposition 2001, conformément aux dispositions de la Loi.
+[9] L'appel est rejeté.
+Signé à Ottawa, Canada, le 7 novembre 2003.
+« Lucie Lamarre »
+La juge Lamarre
+Traduction certifiée conforme
+ce 30e jour de mai 2005.
+Sophie Debbané, réviseure

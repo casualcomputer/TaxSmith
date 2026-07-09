@@ -1,0 +1,220 @@
+Title: Gingras v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/181937/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-250-181937-gingras-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-11-03
+
+# Gingras v. The Queen
+
+- Citation: 2016 TCC 250
+- Decision date: 2016-11-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2994, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gingras v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-11-03
+Neutral citation
+2016 TCC 250
+File numbers
+2013-4696(IT)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-4696(IT)G
+BETWEEN:
+CLAUDE GINGRAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[ENGLISH TRANSLATION]
+Appeal heard on June 22, 2016, at Québec, Quebec
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the Appellant:
+Bobby Doyon
+Counsel for the Respondent:
+Marie-Aimée Cantin
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2008 taxation year is allowed with costs.
+Signed at Calgary, Alberta, this 3rd day of November 2016.
+“Johanne D’Auray”
+D’Auray J.
+Translation certified true
+On this 21st day of June 2017.
+François Brunet, Reviser
+Citation: 2016 TCC 250
+Date: 20161103
+Docket: 2013-4696(IT)G
+BETWEEN:
+CLAUDE GINGRAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+D’Auray J.
+I. INTRODUCTION [1] This is an appeal from a reassessment made on October 16, 2012, under the Income Tax Act (the “ITA”) regarding the 2008 taxation year, through which the Minister of National Revenue (the “Minister”) denied Claude Gingras a $51,256 allowable business investment loss (“ABIL”).
+[2] The issue is whether the Appellant meets the ITA criteria allowing him to claim an ABIL.
+[3] Three persons testified for the Appellant at the hearing: the Appellant himself, Claude Gingras (“Mr. Gingras”), his daughter, Stéphanie Gingras (“Ms. Gingras”) and Le Groupe Rassurance inc.’s accountant, Gilles Gingras. Although the accountant and Mr. Gingras share the same last name, they are not related. The Respondent called Sylvie Gélinas from the Canada Revenue Agency (“CRA”) as a witness.
+II. FACTS [4] During a trip to Europe, more specifically England, Ms. Gingras became interested in a new type of restaurant that offers take-out soups in a mug and has a few seats for clients to eat their soup on site.
+[5] When she returned to Quebec, Ms. Gingras, who was then working in the hotel and catering industry, wondered whether this type of restaurant would work in Québec.
+[6] She discussed that concept with Mr. Darras who was her colleague at the time. He had extensive experience in the hotel and catering industry. Mr. Darras found that concept interesting and decided to partner with Ms. Gingras. Together, they prepared a business plan and organized a focus group to determine whether there was a demand for this kind of restaurant. The focus group response was favourable.
+[7] However, Mr. Darras received an offer from a major hotel chain. It was an offer that Mr. Darras could not refuse, and he was forced to abandon the restaurant project in order to perform his new duties.
+[8] Ms. Gingras decided to pursue the restaurant project on her own. She discussed the matter with her father, Mr. Gingras. Mr. Gingras examined the business plan and the results of the focus group and encouraged Ms. Gingras to open the restaurant. Funds were needed to start the restaurant so he referred Ms. Gingras to the Caisse populaire de Ste-Foy (“Caisse de Ste-Foy”).
+[9] Mr. Gingras is a businessman; he is the sole shareholder and director of a corporation, Le Groupe Rassurance inc. The main activity of this corporation involves providing appraisal and settlement services.
+[10] The Caisse de Ste-Foy’s response was not positive. It agreed to lend Ms. Gingras only 30% of the amount needed to start the restaurant, which was $75,000. However, the Caisse de Ste-Foy agreed to lend her the $75 000 if Mr. Gingras would agree to co-sign the loan.
+[11] Mr. Gingras was not happy with the Caisse de Ste-Foy’s offer. By co-signing the loan, he would be taking a risk without any benefit. Mr. Gingras believed that it would be preferable to lend the amounts directly to Ms. Gingras and receive interest income. Therefore, he helped his daughter start the restaurant, and at the same time he received a yield on his investment. He discussed the matter with Groupe Rassurance inc.’s accountant, Gilles Gingras. He supported Mr. Gingras’s approach. Both came to the conclusion that a 6% interest rate on the loan was reasonable. The interest rate was the same as the usual bank rate during this period.
+[12] According to the testimony provided by Mr. Gingras, Ms. Gingras and Gilles Gingras, the 6% annual interest rate was agreed upon as soon as Mr. Gingras agreed to lend the money to Ms. Gingras.
+[13] Mr. Gingras was of the opinion that, according to the business plan, it was better for him to lend his daughter the restaurant start-up funds at a rate similar to that offered by the Caisse de Ste-Foy. This would allow him to earn interest income and retain control over the loan. Mr. Gingras said he offered Ms. Gingras a line of credit loan, and every time an amount was requested, she would have to explain why it was required.
+[14] On the basis of Mr. Darras’s involvement in the business plan and the focus group response, which seemed favourable, Mr. Gingras expected the restaurant to generate a profit. He was under the impression that he would be lending her only the amounts needed to start the restaurant and that the profits would be used to pay for the restaurant’s operating expenses.
+[15] On January 4, 2007, Ms. Gingras registered a restaurant at the Registraire des entreprises under the corporate name Bol et Gobelet enr. In October 2007, the Bol et Gobelet enr. restaurant started up.
+[16] In 2007, there was no written loan agreement between Mr. Gingras and Ms. Gingras. When they testified, Mr. Gingras and Ms. Gingras said that they had reached an oral agreement.
+[17] From August 3, 2007 to January 14, 2008, Mr. Gingras lent Ms. Gingras $69,393.04 to operate Bol et Gobelet enr.
+[18] On January 15, 2008, following the advice of her friend Marie-Sol, a former work colleague, Ms. Gingras decided to continue her operations, ceasing to operate the registered company and establishing a business corporation operating under the company name Bol et Gobelet inc. Ms. Gingras is the sole shareholder and director of Bol et Gobelet inc.
+[19] In 2008, Mr. Gingras lent $33,119.40 to Bol et Gobelet inc.
+[20] The take-out soup concept was not as successful as expected. Despite several attempts to diversify the menu to increase sales, Ms. Gingras had no choice but to close the restaurant at the end of 2008.
+[21] Bol et Goblet inc.’s financial situation was deplorable. Bol et Gobelet inc. had few assets, occupied a rented space, and its income statement posted a $42,846 loss for the period from August 1, 2008 to December 31, 2008. In addition, Ms. Gingras did not draw any salary in 2008. Bol et Gobelet inc. could not pay its employees’ salaries or the suppliers.
+[22] On June 30, 2010, Ms. Gingras declared bankruptcy. The declaration of her liabilities to the bankruptcy trustee included a debt relating to the commercial lease of the restaurant, which had remained in Ms. Gingras’s name. The liabilities also included some unpaid credit card balances. No claims by Bol et Gobelet inc. suppliers and creditors were included on the list of debts reported to the bankruptcy trustee.
+[23] Ms. Gingras testified that because she was not personally liable for the amount owed by Bol et Gobelet inc., she did not have to include them in her list of personal liabilities. For the same reason, she did not include the amounts owed to Claude Gingras in her list of personal debts because, according to Ms. Gingras, Bol et Gobelet inc. had assumed all the debts of her registered business.
+[24] In addition to testimony in this regard, three documents were submitted as evidence in order to confirm that the persons concerned intended to substitute the debtor, Ms. Gingras, with a new debtor, Bol et Gobelet inc. and that Ms. Gingras would be released from her 2007 debts to Mr. Gingras, and in order to confirm that Mr. Gingras had agreed to these transactions. These documents are dated January 15, 2008, January 16, 2008 and March 30, 2008.
+III. ISSUES [25] Can Mr. Gingras claim a $51,256 ABIL for the 2008 taxation year, half of the $102,512 business investment loss (“BIL”)?
+IV. POSITIONS OF THE PARTIES A. Appellant [26] Counsel for Mr. Gingras, Mr. Doyon, argued that the Appellant met all the ITA’s criteria to be entitled to claim an ABIL[1]:
+a) At the end of 2008, Bol et Gobelet inc. owed Mr. Gingras a $102,512 debt;
+b) Mr. Gingras had agreed to the loans in order to earn income;
+c) Bol et Gobelet inc. was a small business corporation (“SBC”);
+d) The debt became a bad debt in 2008.
+[27] In addition, Mr. Doyon argued that in this case, a novation was effected. Consequently, the debt prior to 2008 was assumed by Bol et Gobelet inc. According to Mr. Doyon, all the testimonies pointed in that direction.
+[28] Mr. Doyon argued that the novation did not have to be formally confirmed in writing to be in effect. Novation is effected when there is a change in debtor and consent between the parties, and the creditor’s intention to effect novation is clear. He maintained that in this case the testimonies show that a novation was effected.
+[29] According to Mr. Doyon, Mr. Gingras’s testimony indicated that, as the creditor, he agreed that Ms. Gingras, the debtor, be substituted by a new debtor, Bol et Gobelet inc., and that Ms. Gingras be released from her obligations to Mr. Gingras. In that regard, he argued that all of the documents confirm the testimony provided by Mr. Gingras and provided by Ms. Gingras.
+i) Respondent [30] The Respondent argued that the testimony of Mr. Gingras, Ms. Gingras and Gilles Gingras was not credible and should be disregarded. In addition, the Respondent argued that the agreements regarding Mr. Gingras’s loans to Ms. Gingras were made after the ABIL application was rejected by the CRA in 2012. For example, the Crown argued that the document dated January 15, 2008, was provided to the CRA only after the ABIL was rejected. According to the Respondent, all the evidence submitted by Mr. Gingras is not reliable.
+[31] The Respondent argued that Mr. Gingras cannot claim an ABIL for the loans made in 2007. The Respondent submitted that, in order to be entitled to claim an ABIL, the loans must have been made to a Canadian-controlled private corporation. The Respondent argued that, in this case, the loans made in 2007 were made to Ms. Gingras. She did not incorporate Bol et Gobelet inc. until 2008. Consequently, Mr. Gingras cannot claim an ABIL for the loans made in 2007.
+[32] The Respondent also argued that there was no novation in this case, because the documents regarding the transfer of assets and liabilities from Ms. Gingras to Bol et Gobelet inc. do not comply with the novation regulations. According to the Respondent, Ms. Gingras was not expressly released by Mr. Gingras from her personal debt. The Respondent submitted that it was an imperfect delegation of payment, because a new debt was not created.
+[33] The Respondent submitted that Mr. Gingras could not claim an ABIL for 2007 in any event, because the loans were made solely to help his daughter, Ms. Gingras, and not to earn income.
+[34] With respect to the loans made in 2008, the Respondent argued that even if Bol et Gobelet inc. was a private company, more specifically an SBC, Mr. Gingras could not claim an ABIL, because the loans made by Mr. Gingras to Bol et Gobelet inc. were solely to help his daughter, Ms. Gingras, and not to earn an income. Also, according to the Respondent, the loans were interest-free.
+V. ANALYSIS [35] Mr. Gingras will be entitled to deduct an ABIL if the following conditions are met:
+1. He had a debt owed to him at the end of 2008, in accordance with subparagraph 39(1)(c)(ii) and paragraph 50(1)(a);
+2. The debt was acquired by Mr. Gingras in order to earn income, in accordance with subparagraph 40(2)(g)(ii);
+3. The debtor is an SBC under clause 39(1)(c)(iv)(A);
+4. The debt is bad at the end of the year, in accordance with paragraph 50(1)(a).
+[36] However, before determining whether these conditions are met, I must first consider whether in this case a novation was effected. If a novation has been effected, Bol et Gobelet inc. will be the new debtor. Consequently, Bol et Gobelet inc. will be liable for the loans that Mr. Gingras made to Ms. Gingras in 2007.
+i) Novation [37] In Quebec civil law, novation is effected when a debt is substituted for the former debt and with the consent of the new creditor, a new debtor is substituted to the former debtor, who is discharged by the creditor. Section 1660 of the Civil Code of Québec (“C.C.Q.”) presents as follows:
+1660. Novation is effected where the debtor contracts towards his creditor a new debt which is substituted for the former debt, which is extinguished, or where a new debtor is substituted for the former debtor, who is discharged by the creditor; in such a case, novation may be effected without the consent of the former debtor.
+Novation is also effected where, by the effect of a new contract, a new creditor is substituted for the former creditor, towards whom the debtor is discharged.
+[38] In his treatise, Les obligations[2], Vincent Karim, summarizes the conditions relating to novation by substitution of debtor. He writes:
+3075. [translation] To effect novation by substitution of debtor, three conditions must be met. First, a new debtor must replace the former. Second, the creditor must expressly consent to novation. Furthermore, although a creditor expressly agrees to the debt being assumed by a new debtor, this does not necessarily mean that novation has been effected; it may simply mean that payment has been delegated within the meaning of section 1667 C.C.Q. In this case, the original debtor and the new debtor, who is another person, will both be liable for the debt due to the creditor.
+3076. For novation to be effected, the creditor must express his intention to release the debtor from his obligation within the meaning of section 1668 C.C.Q. However, this intention to renew may be inferred from the circumstances or conduct of the parties. This is the case, for example, where the obligations incurred and the actions instituted are incompatible. […]
+3077. In short, to effect novation by substitution of the debtor, the creditor must release the former debtor of his obligation. This condition in fact requires the creditor’s approval; failure to comply with this formality will result in imperfect delegation. The debtor cannot unilaterally be replaced by a new debtor, thus causing prejudice to his creditor.
+[39] In determining whether novation was effected, the Respondent asks that I disregard the documents submitted as evidence by Mr. Gingras, because, according to the Respondent, these documents were made after the Minister rejected the ABIL. According to the Respondent, I should also ignore the testimony, because it is not credible.
+[40] I am of the view that it has not been proved that documents were made after the 2012 audit pursuant to which the ABIL claimed by Mr. Gingras was rejected. On the contrary, it was shown at the hearing that the March 30, 2008 agreement between Mr. Gingras and Bol et Gobelet inc. was part of Mr. Gingras’s 2008 income tax return, produced on April 29, 2009[3]. In April 2009, Mr. Gingras could not have known that the Minister would reject his claim for an ABIL.
+[41] At any rate, as stated by Vincent Karim, novation does not have to be confirmed in writing. The intention to renew can be inferred from the circumstances or conduct of the parties.
+[42] In that regard, Mr. Justice Baudouin of the Appeal Court of Québec in Banque Laurentienne du Canada v. Mackay[4], clearly stated that novation is not assumed, but it can still be tacit and does not have to be confirmed in writing. At paragraph 24 of the decision, he wrote as follows:
+[24] [translation] Admittedly, although novation cannot be assumed, it may, nevertheless, be tacit (for example, arise from the behaviour or conduct of the creditor who clearly demonstrates his intention to release the original debtor. (See: Rémy v. Gagnon, [1971] C.A. 554 p. 557; Nadeau-Mercier v. Barbeau, [1988 CanLII 555 (QC CA),] [1988] R.J.Q. 1159 (C.A.); Trust Général du Canada v. Immeubles Restau-bar inc., J.E. 94-706 (C.S.); Trust Royal v. Entreprises B.M. St-Jean, [1997 CanLII 8959 (QC CS),] J.E. 97-1158 (C.S.); Caisse Populaire Desjardins v. Auclair, [1998 CanLII 11729 (QC CS),] R.E.J.B. 1998-09747 (C.S.); Banque Laurentienne du Canada v. Adeclat, J.E. 99-1643 (C.S.); [1999 CanLII 12173 (QC CS),] R.E.J.B. 1999-13740 (C.S.).) However, again, the intention to do this must not be ambiguous, we must prefer the solution, which maintains the creditor’s rights. However, it is certainly not necessary that the novation be formally confirmed in writing.
+[43] I am of the opinion that the testimony of by Mr. Gingras and of Ms. Gingras was clear as to the intent to renew. The credibility of the witnesses, Mr. Gingras, Ms. Gingras and Gilles Gingras, was not challenged at the hearing.
+[44] Mr. Gingras and Ms. Gingras both testified they had agreed that pursuant to the incorporation of Bol et Goblet inc. in 2008, Ms. Gingras would be released from all debt incurred prior to 2008 relating to the Bol et Gobelet registered business. The evidence also shows that Mr. Gingras agreed that Bol et Gobelet inc. would assume all of Ms. Gingras’s assets and liabilities, including those of 2007, and that the former debtor, Ms. Gingras, would be substituted by Bol et Gobelet inc.
+[45] The actions of the individuals involved, Mr. Gingras and Ms. Gingras, also confirmed that a novation was effected. For example:
+i) I note that in the context of Ms. Gingras’s bankruptcy, the statement of debts attributable to Ms. Gingras does not include any debts attributable to the Bol et Gobelet inc. restaurant;
+ii) In the December 31, 2008 Bol et Gobelet inc. balance sheet prepared by Marie-Sol, Mr. Gingras’s $104,330.30 debt was posted to the “Long-term liability” line item and represented all loans for 2007 and 2008;
+iii) In his 2008 income tax return produced on April 29, 2009, Mr. Gingras claimed a $102,512 BIL, representing all loans for 2007 and 2008, equal to a $51,256 ABIL.
+[46] Also, I am of the view that the documents, although incomplete, confirm the testimony provided by Mr. Gingras, Ms. Gingras and Gilles Gingras regarding the novation.
+[47] The first document, the January 15, 2008 agreement between Bol et Gobelet inc., Mr. Gingras and Le Groupe Rassurance inc., provided that [translation]“the amount already borrowed and any additional amounts will be reimbursable by 120 monthly payments starting on January 1, 2009 plus interest at a 6% annual interest rate.”
+[48] The second document, dated January 16, 2008, written by Ms. Gingras but not signed, [translation] “confirms that the Bol et Gobelet restaurant was converted from a registered business to an incorporated company.... All of the assets, liabilities and operations since July 2007 are therefore assumed by the incorporated company starting on January 15, 2008.”
+[49] The third document is the March 30, 2008 agreement between Mr. Gingras and Bol et Gobelet inc. represented by Ms. Gingras. In this agreement, [translation] “the lender agrees to provide a line of credit loan, which will be disbursed in accordance with the borrower’s needs in order to facilitate start-up of the business, acquisition of equipment and leasehold improvements. This loan will bear a 6% annual interest rate and will be reimbursable starting January 2009, by 120 monthly payments.” This agreement was part of Mr. Gingras’s 2008 income tax return filed with the CRA on April 29, 2009.
+[50] The Respondent argued that there were contradictions in the testimonies. The witnesses could not say when the documents had been signed. First, as I have already indicated, a novation does not have to be confirmed in writing. In addition, we cannot overlook the fact that Mr. Gingras learned in November 2007 that he had cancer and that he began undergoing treatment at that time. His priority at that time was to cure his cancer. In this regard, Mr. Gingras did not attempt to hide that he could not say exactly when the documents were signed. Ms. Gingras indicated that the documents were not signed contemporaneously, because she did not dare disturb her father, due to his illness. The hearing was held in 2016, eight years after the events, and it is understandable that the witnesses were unable to remember all the dates accurately.
+[51] As to why there were two documents that contained essentially the same terms and conditions, the January 15, 2008 and March 30, 2008 agreements, Mr. Gingras explained that he did not want to confuse the CRA by including his company, Le Groupe Rassurance inc. Therefore, he preferred to sign another agreement without Le Groupe Rassurance inc. as party to the agreement. That explanation makes sense.
+[52] For these reasons, I am of the opinion that in this case a novation was effected.
+ii) Were the 2007 and 2008 loans made to earn income from a business or property? [53] The Respondent argued that Mr. Gingras had lent money to Bol et Gobelet inc. only to help his daughter. According to the Respondent, the debt was not acquired by Mr. Gingras in order to earn income. Consequently, Mr. Gingras cannot claim an ABIL.
+[54] Under subparagraph 40(2)(g)(ii) of the ITA, Mr. Gingras can claim an ABIL only if he shows that the debt was acquired to earn income from a business or property.
+[55] Mr. Gingras and Ms. Gingras testified that they had agreed from the outset that the amounts loaned generated 6% interest income. The January 15, 2008 and March 30, 2008 agreements were consistent in this regard.
+[56] Also, Mr. Gingras testified that it was only when the Caisse de Ste-Foy asked him to co-sign Ms. Gingras’s loan that he decided to lend the money directly to Ms. Gingras. Mr. Gingras explained that he would benefit from lending the money directly to Ms. Gingras because the risk was the same, but at least he would earn interest income. This would enable him to help his daughter start her business, and at the same time he would earn interest income.
+[57] In MacCallum v. The Queen[5], Madame Justice Miller stated that the taxpayer’s intention to help his son did not prevent him from meeting the requirements of subparagraph 40(2)(g)(ii) of the ITA. In that case, the parties had not drafted a loan contract. The answer to the question regarding the intention to earn income from a business or property was therefore based solely on the credibility of the witnesses. Miller J. found that there had been no written agreement between the parties, but that the Appellant intended to earn interest income[6].
+[58] In this case, the testimonies provided by Mr. Gingras, Ms. Gingras and Gilles Gingras were consistent: Mr. Gingras lent Bol et Gobelet inc. sums of money to earn interest income.
+[59] The documents confirm these testimonies; under January 15, 2008 and March 30, 2008 agreements, the loans bore a 6% annual interest rate. I am of the view that Mr. Gingras clearly intended to earn interest income.
+[60] However, the Respondent argued that interest only started being charged on the debt on January 1, 2009. The Crown cited Bol et Gobelet inc.’s income statement for the period from August 1, 2008, to December 31, 2008, produced by Marie-Sol, in which no interest was reported.
+[61] I do not agree with the Respondent. In that regard, Mr. Gingras and Gilles Gingras testified that interest started to be charged on the loans when the loans were paid to Bol et Gobelet inc. According to the January 15, 2008 and March 30, 2008 agreements, loan payments were to start on January 1, 2009. However, this did not prevent interest from being charged as soon as the loans were made.
+[62] At the hearing, an explanation was provided as to why interest was not included in the income statement prepared by Marie-Sol. According to Mr. Gingras’s counsel, the interest was not entered because Ms. Gingras was under the impression that interest charges only started on January 1, 2009.
+[63] However, we note that in the long-term liability section of the statement prepared by Marie-Sol, the debt owed to Mr. Gingras included interest because the debt due to him amounted to $104,330.30 on December 31, 2008[7]. This amount included interest.
+[64] Consequently, the testimony of by Mr. Gingras and of Gilles Gingras that interest was charged as soon as the loans were made are also confirmed by the documents offered in evidence.
+[65] I therefore find that the debt was acquired by Mr. Gingras to earn interest income.
+iii) SBC and bad debt [66] Two other conditions must be met in order for Mr. Gingras to be entitled to claim an ABIL.
+[67] The first condition is that the company must be a SBC, a small business corporation, in accordance with subparagraph 39(1)(c)(iv) of the ITA.
+[68] In this case, there is no doubt that Bol et Gobelet inc. was an SBC.
+[69] To meet the second condition, Mr. Gingras must show that his debt was bad at the end of 2008.
+[70] In Rich v. Canada[8], Mr. Justice Rothstein, who was sitting on the Federal Court of Appeal at the time, indicated that the taxpayer is in the best position to determine whether a debt is bad. Nor is it necessary for the creditor to exhaust all his remedies before it can be found that a debt has become bad. According to Rothstein J.A., “[a]ll that is required is an honest and reasonable assessment.” He also stated that “[t]he non-arm’s length relationship may justify closer scrutiny than in non-arm’s length situations. But a non-arm’s length relationship alone, without more, cannot lead to a finding that the creditor did not honestly and reasonably determine the debt to be bad.”
+[71] In this case, the Bol et Gobelet inc. restaurant ceased operations at the end of December 2008. The restaurant posted a $42,846 loss for a five-month period. According to the testimony, the restaurant’s equipment was sold below purchase cost prices. The proceeds were used to pay the employees. Furthermore, Ms. Gingras declared bankruptcy.
+[72] In the light of these uncontested facts, I am of the opinion that Mr. Gingras made an honest and reasonable assessment that enabled him to find that the loans he had made to Bol et Gobelet inc. had become bad in 2008. Mr. Gingras may therefore claim a $51,256 ABIL.
+[73] The appeal is therefore allowed with costs.
+Signed at Calgary, Alberta, this 3rd day of November 2016.
+“Johanne D’Auray”
+D’Auray J.
+Translation certified true
+On this 21st day of June 2017.
+François Brunet, Reviser
+APPENDIX
+STATUTORY PROVISIONS
+Meaning of capital gain and capital loss
+39(1) For the purposes of this Act,
+(c) a taxpayer’s business investment loss for a taxation year from the disposition of any property is the amount, if any, by which the taxpayer’s capital loss for the year from a disposition after 1977
+...
+(ii) to a person with whom the taxpayer was dealing at arm’s length
+of any property that is
+...
+(iv) a debt owing to the taxpayer by a Canadian-controlled private corporation (other than, where the taxpayer is a corporation, a debt owing to it by a corporation with which it does not deal at arm’s length) that is
+(A) a small business corporation,
+...
+40(2) Notwithstanding subsection 40(1):
+...
+(g) a taxpayer’s loss, if any, from the disposition of a property, to the extent that it is:
+...
+(ii) a loss from the disposition of a debt or other right to receive an amount, unless the debt or right, as the case may be, was acquired by the taxpayer for the purpose of gaining or producing income from a business or property (other than exempt income) or as consideration for the disposition of capital property to a person with whom the taxpayer was dealing at arm’s length, is nil;
+Debts established to be bad debts
+50 (1) For the purposes of this subdivision, where:
+(a) a debt owing to a taxpayer at the end of a taxation year (other than a debt owing to the taxpayer in respect of the disposition of personal-use property) is established by the taxpayer to have become a bad debt in the year, or
+CITATION:
+2016 TCC 250
+COURT FILE NO.:
+2013-4696(IT)G
+STYLE OF CAUSE:
+CLAUDE GINGRAS v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+June 22, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+November 3, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Bobby Doyon
+Counsel for the Respondent:
+Marie-Aimée Cantin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Bobby Doyon
+Firm:
+Joli-Coeur Lacasse LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The relevant statutory provisions are appended to my reasons.
+[2] Vincent Karim, Les obligations, vol. # 2, 4e éd., Montréal, Wilson & Lafleur, 2015, at paragraphs 3075 to 3077.
+[3] Note in this regard that at the hearing, it was the Respondent who advised the Court that the March 30, 2008 agreement was part of the 2008 income tax return. This fact does not seem to have been considered by the CRA during its audit.
+[4] [2002] RJQ 36, 2002 CanLII 41095 (QC CA).
+[5] MacCallum v. The Queen, 2011 TTC 316, at paragraph 40.
+[6] Ibid., at paragraphs 33 to 35.
+[7] No explanation was provided at the hearing as to why the amount was greater than the amount claimed by Mr. Gingras, i.e. the $94,513 in loans and $3,180 of interest, for a total BIL of $102,693.
+[8] 2003 FCA 38, [2003] 3 CF 493.

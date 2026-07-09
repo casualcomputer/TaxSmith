@@ -1,0 +1,383 @@
+Title: Lawyers' Professional Indemnity Company v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/345259/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-194-345259-lawyers-professional-indemnity-company-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-09-26
+
+# Lawyers' Professional Indemnity Company v. The Queen
+
+- Citation: 2018 TCC 194
+- Decision date: 2018-09-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4972, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lawyers' Professional Indemnity Company v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-09-26
+Neutral citation
+2018 TCC 194
+File numbers
+2016-1437(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-1437(IT)G
+BETWEEN:
+LAWYERS’ PROFESSIONAL INDEMNITY COMPANY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 12 and 13, 2018 at Toronto, Ontario
+Before: The Honourable Justice Steven K. D’Arcy
+Appearances:
+Counsel for the Appellant:
+Mahmud Jamal
+Pooja Mihailovich
+Hemant Tilak
+Counsel for the Respondent:
+Justine Malone
+Kaylee Silver
+JUDGMENT
+In accordance with the attached Reasons for Judgment:
+The appeal with respect to reassessments made under the Income Tax Act for the Appellant’s 2013 and 2014 taxation years is allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s assessed taxable income for 2013 of $24,638,856 is to be reduced by $44,475 and its assessed taxable income for 2014 of $26,560,645 is to be reduced by $18,520.
+Costs are awarded to the Respondent.
+Signed at Toronto, Ontario, this 26th day of September 2018.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2018 TCC 194
+Date: 20180926
+Docket: 2016-1437(IT)G
+BETWEEN:
+LAWYERS’ PROFESSIONAL INDEMNITY COMPANY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Arcy J.
+[1] The only issue in this appeal is whether, during the 2013 and 2014 taxation years, the Law Society of Upper Canada (the “Law Society”) [1] was, for the purposes of paragraph 149(1)(d.5) of the Income Tax Act (the “Act”), a “public body performing a function of government in Canada.” If the answer is yes, then the Appellant, the Law Society’s wholly owned subsidiary, was a tax-exempt entity.
+[2] The parties filed the Statement of Agreed Facts - Partial (the “PASF”) set out in Appendix A hereto. In addition, the Appellant called two witnesses, Mr. Paul Schabas, the current treasurer of the Law Society, and Mr. James Varro, the director of the office of the Law Society’s chief executive officer. Mr. Varro is also the Law Society’s corporate secretary.
+[3] I found Mr. Schabas to be a credible witness.
+[4] At the commencement of the hearing, the parties filed a document referred to as the Parties’ Agreement Regarding Relief. In this statement, the Respondent in effect concedes that, even if I find that the Appellant is not an exempt entity, its assessed taxable income for 2013 of $24,638,856 should be reduced by $44,475 and its assessed taxable income for 2014 of $26,560,645 should be reduced by $18,520. The $44,475 and $18,520 represent amounts the Appellant is entitled to deduct as charitable gifts.
+I. Summary of Facts
+The Appellant
+[5] The Appellant is an insurance company licensed to operate in Ontario, as well as other jurisdictions in Canada. The Appellant provides professional liability insurance for lawyers licensed by the Law Society who engage in the practice of law (“Lawyer Licensees”). The Appellant also insures law firms in Ontario and provides comprehensive title insurance to real property owners and lenders in all jurisdictions in Canada, including Ontario. The Appellant realized revenue of approximately $124 million and $143 million in 2013 and 2014 respectively. [2]
+[6] While the Appellant carries on business outside of Ontario, its income for the relevant years from its activities carried on by it outside of Ontario, did not exceed 10% of its income.
+[7] The Law Society owns at least 90% of the Appellant’s capital.
+[8] The Law Society requires all Lawyer Licensees who engage in the practice of law to pay levies for professional liability insurance. Mr. Varro explained that the Law Society retained the Appellant to provide the required professional liability insurance. The Law Society collects the levies from the Lawyer Licensees and then pays the amounts to the Appellant as insurance premiums. [3]
+The Law Society
+[9] The PASF states that the Law Society is a corporation established by statute. Its functions, powers and duties are set out in the Law Society Act [4] and regulations, and in the by-laws made thereunder. [5] Its members are Lawyer Licensees (approximately 52,000) and paralegals (approximately 8,000) (the “Paralegal Licensees”).
+[10] The Law Society is governed by a board of directors, whose members are referred to as benchers. The Lawyer Licensees elect 40 of the benchers and the Paralegal Licensees elect 5. The Attorney General of Ontario appoints 8 lay benchers. In addition, the status of life bencher is granted to anyone who served as the treasurer of the Law Society before 2010, a bencher who completed four terms before 2010 and the Attorney General of Ontario.
+[11] The treasurer (Mr. Schabas at the time of the hearing) is the president and chairman of the board of the benchers.
+[12] Mr. Schabas and Mr. Varro explained that the Law Society operates in such a way as to satisfy the requirements of sections 4.1 and 4.2 of the Law Society Act, which read as follows during the relevant period:
+Function of the Society
+4.1 It is a function of the Society to ensure that,
+(a) all persons who practise law in Ontario or provide legal services in Ontario meet standards of learning, professional competence and professional conduct that are appropriate for the legal services they provide; and
+(b) the standards of learning, professional competence and professional conduct for the provision of a particular legal service in a particular area of law apply equally to persons who practise law in Ontario and persons who provide legal services in Ontario.
+Principles to be applied by the Society
+4.2 In carrying out its functions, duties and powers under this Act, the Society shall have regard to the following principles:
+1. The Society has a duty to maintain and advance the cause of justice and the rule of law.
+2. The Society has a duty to act so as to facilitate access to justice for the people of Ontario.
+3. The Society has a duty to protect the public interest.
+4. The Society has a duty to act in a timely, open and efficient manner.
+5. Standards of learning, professional competence and professional conduct for licensees and restrictions on who may provide particular legal services should be proportionate to the significance of the regulatory objectives sought to be realized.
+[13] Mr. Schabas testified that section 4.1 of the Law Society Act sets out the functions of the Law Society and section 4.2 of the Law Society Act tells the Law Society the various principles that it must have regard to when carrying out its functions. [6] He noted that the Law Society does not have the authority to carry out activities and functions that are not provided for under the Law Society Act or its regulations. [7]
+[14] In cross-examination, Mr. Schabas agreed that the functions set out in section 4.1 of the Law Society Act are the mandated functions of the Law Society. Further, he noted that the Law Society stays within its mandate when providing functions or services. [8]
+[15] Mr. Schabas noted that the Law Society believes it has two core functions. The first function, which is overseen by the Law Society’s Professional Regulation Committee, is to regulate the Lawyer Licensees and the Paralegal Licensees (jointly referred to as the “Licensees”). [9] The second function, which is overseen by the Professional Development and Competence Committee, is the provision of professional development and ensuring the competence of the Law Society’s members. [10]
+[16] Mr. Varro testified that the Law Society devotes “pretty much a hundred percent” of its expenses and staff to the regulation of Licensees. [11] He testified that the Law Society regulates the Licensees in the following four areas (which include professional development and ensuring competence):
+- Licensing those who are to provide legal services or practise law, i.e., Licensees.
+- Setting standards of learning, professional conduct and competence.
+- Instituting compliance measures through the Law Society Act, the by-laws and the rules under the Law Society Act.
+- Applying an enforcement mechanism to address breaches of the Law Society’s professional standards. [12]
+[17] Mr. Varro described how the Law Society regulates the Licensees in each of these four areas. [13] With respect to licensing, he noted that before a person is licensed as a lawyer, the Law Society requires that the person have completed studies at an accredited law school, that the person meet good character requirements, that the person become a candidate in the licensing process and that the person complete a self-study course and then write two exams.
+[18] Mr. Schabas noted that the licensing process also involves articling at a law firm or completing the Law Practice Program at either Ryerson University or the University of Ottawa.
+[19] A person who wishes to be a Paralegal Licensee must complete accredited courses at a community college, write an exam and meet good character requirements.
+[20] Section 26.1 of the Law Society Act provides that only Licensees shall practise law in Ontario or provide legal services in Ontario. Mr. Varro testified that if the Law Society discovers a non-licensee practising law or providing legal services in Ontario then it will ask that individual to stop his/her activities. If the individual continues then the Law Society may make an application to prohibit the offending conduct by the non-licensee. [14] The individual may also be prosecuted under section 26.2 of the Law Society Act.
+[21] Section 26.3 of the Law Society Act provides that the application referred to by Mr. Varro is to be brought before the Ontario Superior Court of Justice.
+[22] A prosecution under section 26.2 is brought before the Ontario Court of Justice. Section 26.2 levies a fine of no more than $25,000 for a first offence and no more than $50,000 for each subsequent offence.
+[23] Mr. Varro provided conflicting evidence on who actually prosecutes an individual under section 26.2. During his examination in chief, he stated that it was the Law Society, not the Crown, that brought the proceedings under section 26.2. [15] On cross-examination, counsel for the Respondent reminded Mr. Varro that during his examination for discovery he stated that the Crown prosecuted under section 26.2. Mr. Varro then changed his testimony and stated that both the Law Society and the Crown can prosecute under section 26.2. [16] His testimony in this area damaged his credibility. His testimony in numerous areas left me with the impression that he was trying to provide the “right” answer for the Appellant’s case as opposed to merely stating the facts.
+[24] With respect to professional conduct and competence, Mr. Schabas noted that once a Licensee is admitted to the bar, she/he must meet continuing standards of competence and conduct. Mr. Varro testified that the Law Society imposes standards through the Law Society’s by-laws and rules of conduct. Mr. Schabas testified that each Licensee has to meet annual professional development requirements.
+[25] With respect to compliance measures, Mr. Varro testified that the Law Society conducts investigations under the Law Society Act to determine whether Licensees are meeting the standards of professional conduct.
+[26] This is done through what the Law Society refers to as its quality assurance programs, including its spot audit program and its practice review program. The Law Society’s spot audit program “measure[s] the integrity of law firm financial accounting practices, and assess[es] ongoing compliance with financial record-keeping requirements and the Rules of Professional Conduct.” Under the practice review program the Law Society reviews such things as a Licensee’s management of deadlines and limitation periods, the state of the Licensee’s files, the Licensee’s billing practices, the quality of the Licensee’s services to clients, technology security issues, the timeliness of communication with clients, and personal issues the Licensee may have. [17]
+[27] Mr. Varro noted that each Licensee is required to file an annual report that reports on the Licensee’s professional business in a variety of ways.
+[28] Mr. Varro discussed the fourth regulatory area, i.e., the enforcement mechanism. He stated that the Law Society receives complaints of misconduct from a number of sources, including client complaints, complaints from the judiciary and complaints from other Licensees, or it might become aware of information reported in the media. He noted that the Law Society might receive 6,000 complaints in a year.
+[29] Mr. Varro noted that once a complaint is received the Law Society conducts an investigation of the complaint. The investigation concludes with a meeting between the Licensee and a panel of benchers to discuss the misconduct issue. The results of the meeting are published in the Ontario Reports.
+[30] If the Law Society decides to take enforcement action against the Licensee, a file is prepared for review by a committee of benchers called the Proceedings Authorization Committee. This committee decides whether the Law Society’s discipline tribunal, which is called the Law Society Tribunal, should hold a conduct hearing.
+[31] The Law Society Tribunal is comprised of two divisions the Hearing Division and the Appeal Division. The Law Society Act sets out the composition of the Law Society Tribunal. Its membership is composed of benchers, Licensees and lay people appointed by the Attorney General of Ontario.
+[32] The existence of the Proceedings Authorization Committee and the Law Society Tribunal is required under sections 49.20 and 49.20.1 of the Law Society Act.
+[33] Decisions of the Appeal Division with respect to professional conduct and incapacity may be appealed to the Ontario Divisional Court.
+[34] Mr. Schabas discussed in detail the principles contained in section 4.2 of the Law Society Act, which the Law Society must follow when carrying out its functions. He noted that the starting point for the Law Society is its section 4.2 duty to protect the public interest. The Law Society sees this duty as being reflected in its standards of learning, competence and conduct. All of these standards are meant to ensure that well-educated and competent professionals are serving the public.
+[35] Mr. Varro discussed three funds that exist for the protection of the public. One of these is a compensation fund that the Law Society maintains and which is used to address financial losses as a result of dishonest actions of a Licensee. Lawyer Licensees and Paralegal Licensees fund it.
+[36] The Law Society maintains an errors and omissions fund which consists of the levies collected from Lawyer Licensees to fund professional liability insurance. The Law Society pays these levies to the Appellant as insurance premiums.
+[37] The third fund is the unclaimed trust fund into which unclaimed funds from Lawyer Licensees’ trust accounts are paid.
+[38] With respect to the duty to act to facilitate access to justice for the people of Ontario, the Law Society tries to ensure that it does not create barriers to access to justice, while at the same time maintaining appropriate standards of competence and learning. The Law Society also engages in numerous activities to promote access to justice through a committee called the Action Group on Access to Justice. For example, this committee looks for ways the Law Society can work with legal clinics and experts in the area of access to justice in order to facilitate access to justice in Ontario.
+[39] The Law Society will get involved as an intervener in cases going through our justice system. It does so with a view to maintaining and advancing the cause of justice in Ontario and the rule of law. For example, it will get involved if it sees threats to the independence of the legal profession or threats to solicitor‑client privilege, which the Law Society sees as a fundamental value of the rule of law. Another example is the Law Society’s human rights monitoring group.
+[40] Mr. Schabas explained that the Law Society fulfils its duty to act in a timely, open and efficient manner by trying to ensure that it addresses risks to the public as quickly as possible when misconduct is alleged. It also strives to act in a transparent manner: Convocation (the meeting of the benchers) is open to the public, Law Society reports are posted on its public websites, and disciplinary hearings are public and their results are published.
+[41] The Law Society addresses the last section 4.2 principle i.e., ensuring that the standards of learning, professional competence and professional conduct for Licensees is proportionate to the significance of the regulatory objective sought to be attained through the previously discussed rules of professional conduct, the Law Society’s mandatory professional development requirement and its disciplinary process.
+[42] Mr. Varro provided examples of services the Law Society renders to the public. The main service is the Law Society Referral Service. This service is used by someone who is seeking information with respect to his or her legal rights and who requires assistance from either a Lawyer Licensee or a Paralegal Licensee. The service allows for a free 30-minute consultation with a lawyer or paralegal.
+[43] Mr. Varro also noted that the Law Society supports and promotes pro bono law services.
+II. The Law
+[44] Subsection 149(1) of the Act exempts from tax the taxable income of numerous persons specified in the subsection, including municipalities, Crown corporations (corporations owned by either the Government of Canada or a province), subsidiaries of Crown corporations, certain municipality-owned corporations, registered charities, labour organizations, certain non-profit organizations and other specified entities.
+[45] The Appellant filed a tax return for each of the relevant taxation years on the basis that it qualified for the tax exemption provided in paragraph 149(1)(d.5). This paragraph reads as follows:
+149(1) No tax is payable under this Part on the taxable income of a person for a period when that person was
+. . .
+(d.5) subject to subsections (1.2) and (1.3), a corporation, commission or association not less than 90% of the capital of which was owned by one or more entities each of which is a municipality in Canada, or a municipal or public body performing a function of government in Canada, if the income for the period of the corporation, commission or association from activities carried on outside the geographical boundaries of the entities does not exceed 10% of its income for the period.
+[46] The parties acknowledge in the PASF that the Law Society owns at least 90% of the shares of the capital of the Appellant and that the Appellant’s income for the relevant taxation years from its activities carried on outside of Ontario did not exceed 10% of its income. [18] This means that the parties have agreed that the conditions in paragraph 149(1)(d.5) with respect to ownership of the shares of the Appellant and the geographical source of its income are satisfied.
+[47] Further, the parties informed the Court that they have agreed that the only issue before the Court is whether the Law Society is a public body performing a function of government in Canada.
+[48] However, the parties presented different arguments with respect to how the Court should interpret the phrase “public body performing a function of government in Canada”.
+[49] The Appellant argues that the phrase contains two separate components. First, the entity must be a public body and, second, it must perform a function of government in Canada. The Appellant argues that both the phrase “public body performing a function of government” and the two components of that phrase should be interpreted textually, contextually and purposively.
+[50] The Respondent takes a different approach. The Respondent argues that it is not a two-part disjunctive test under which one must satisfy two distinct and independent conditions taken out of their textual context. The provision requires that the taxpayer seeking the tax exemption be owned by “a municipality in Canada, or a municipal or public body performing a function of government in Canada”. This expression must be interpreted and applied in a manner that is consistent with the words of the entire provision and with its context and purpose.
+[51] The Respondent argues that the provision is not broad enough to include any public body performing a function of government in Canada. She argues that a “public body performing a function of government” referred to in paragraph 149(1)(d.5) is limited to a body that is similar to, or in the same class as, municipalities and municipal bodies that perform functions similar to those performed by municipalities.
+[52] The Respondent argues that I should also consider, for contextual purposes, paragraph 149(1)(c) when deciding how to interpret paragraph 149(1)(d.5). Paragraph 149(1)(c) exempts from tax a person who is “a municipality in Canada, or a municipal or public body performing a function of government in Canada”.
+[53] I was informed by the parties that the Law Society has, in the past, claimed exemption from income tax as a qualifying non-profit organization. I assume the Law Society claimed this exemption under paragraph 149(1)(l).
+[54] The Income Tax Act is interpreted using the textual, contextual and purposive principle adopted by the Supreme Court of Canada in Canada Trustco Mortgage Co. v. Canada [19] (“Canada Trustco”). The Supreme Court of Canada sets out the principle as follows:
+It has been long established as a matter of statutory interpretation that “the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament”: see 65302 British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804, at para. 50. The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words play [sic] a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole.
+. . . There is no doubt today that all statutes, including the Income Tax Act, must be interpreted in a textual, contextual and purposive way. However, the particularity and detail of many tax provisions have often led to an emphasis on textual interpretation. Where Parliament has specified precisely what conditions must be satisfied to achieve a particular result, it is reasonable to assume that Parliament intended that taxpayers would rely on such provisions to achieve the result they prescribe. [20]
+[55] I accept the Appellant’s argument that paragraph 149(1)(d.5) requires a two-part test. The provision refers to “one or more entities each of which is a municipality in Canada, or a municipal or public body performing a function of government in Canada”. In my view, there is no ambiguity in these words. The word “body” in paragraph 149(1)(d.5) is qualified by both “municipal” and “public”. Further, the use of the word “or” after “Canada” and after “municipal” means that the entity must be either a municipality in Canada or a municipal body or public body. Finally, the words “performing a function of government in Canada” refer to both a municipal body and a public body.
+[56] In summary, one or more of the following entities must own the shares:
+- A municipality;
+- A municipal body performing a function of government in Canada; or
+- A public body performing a function of government in Canada.
+[57] My conclusion in this regard is consistent with the legislative history of the provision. Prior to being amended for taxation years beginning after May 8, 2000, paragraph 149(1)(d.5) only referred to shares owned by one or more municipalities. The paragraph contained no reference to a municipal or public body performing a function of government in Canada.
+[58] The Department of Finance Technical Notes that were issued for this amendment state that the amendment to include the reference to “a municipal or public body performing a function of government in Canada” was made as a result of a decision by the Court of Quebec, affirmed by the Quebec Court of Appeal under the Taxation Act (Quebec). [21] The Department noted that in that case the Quebec courts held that an entity could not attain the status of a municipality by exercising municipal functions but rather could only do so by statute, letters patent or order. The Department of Finance Technical Notes indicate that this Court had previously reached a different conclusion in Otineka Development Corporation Limited v. The Queen [22] (“Otineka Development”). It was the Department of Finance’s view that the Tax Court’s decision in Otineka Development meant that an entity could be considered a municipality for the purposes of paragraph 149(1)(d.5) on the basis of the functions it exercises.
+[59] The Department of Finance Technical Notes then state the following:
+. . . This amendment resolves the uncertainty resulting from the two conflicting cases. The exemption in paragraph 149(1)(d.5) is therefore extended to include any corporation, commission or association at least 90% of the capital of which was owned by one or more entities each of which is a municipal or public body performing a function of government in Canada, which is consistent with the bodies described in paragraph 149(1)(c). [23]
+[60] In my view, the wording used by Parliament in amending paragraph 149(1)(d.5) met this objective of expanding the scope of the paragraph by including a municipal body performing a function of government in Canada and a public body performing a function of government in Canada.
+[61] Both parties are correct in arguing that I must use a textual, contextual and purposive analysis when determining the meaning of the words “public body performing a function of government in Canada”.
+III. Disposition of Appeal
+[62] I will first address whether the Law Society is a “public body” as those words are used in paragraph 149(1)(d.5).
+[63] I do not accept the Respondent’s argument that the words “public body” as used in paragraph 149(1)(d.5) are limited to a body that is similar to, or in the same class as, municipalities or municipal bodies. I agree with the Appellant, that the fact that “body” in paragraph 149(1)(d.5) is qualified by both “municipal” and “public” means that the phrase was meant to apply to entities other than municipal bodies, otherwise the word “public” would be redundant.
+[64] The Income Tax Act does not define the words “public body”. In Registrar of Trade Marks v. Canadian Olympic Association [24] (Canadian Olympic Association), the Federal Court of Appeal referred (at page 700) to the following description of public bodies and public authorities from Halsbury’s Laws of England, 4th edition, Volume 1:
+Public bodies and public authorities. A public authority may be described as a person or administrative body entrusted with functions to perform for the benefit of the public and not for private profit. Not every such person or body is expressly defined as a public authority or body, and the meaning of a public authority or body may vary according to the statutory context.
+[65] In Canadian Olympic Association, the Federal Court of Appeal dealt with the issue of whether the Canadian Olympic Association (the “COA”) was a public authority within the meaning of paragraph 9(1)(n) of the Trade Marks Act, R.S.C. 1970, c. T-10. The Court first referred to the following three-part test, which had been adopted in English cases, for determining whether a body is a public authority:
+1. There must be a public duty;
+2. There must be a significant degree of government control; and
+3. Any profit earned must be for the benefit of the public and not for private benefit.
+[66] The Federal Court of Appeal then noted that the meaning of the term public authority may vary according to the statutory context. It stated that to ascertain if the COA was a public authority in the context of the Trade Marks Act it was necessary to have regard to the term in the context of that Act as well as to the nature of the functions the COA performed.
+[67] In the context of paragraph 9(1)(n) of the Trade Marks Act, the Court concluded that the proper test was not the existence of a duty to the public but rather the extent to which the COA benefited the public.
+[68] After reviewing the facts before it with respect to the extent to which the COA benefited the public and the degree of government control over the COA, the Court found that the COA was a public authority.
+[69] The Federal Court of Appeal considered the same issue in its more recent decision in Ontario Assn. of Architects v. Assn. of Architectural Technologists of Ontario. [25] After referring to the court’s previous decision in Canadian Olympic Association, the Court accepted that the two-part test of public benefit and government control should be used to determine if an entity is a public authority under paragraph 9(1)(n) of the Trade Marks Act. However, it stated that, when determining whether a body’s functions are sufficiently for the public benefit, a court may consider that body’s objects, duties and powers, including the distribution of its assets.
+[70] The Federal Court of Appeal then found that the Association of Architectural Technologists of Ontario failed the second part of the two-part test, i.e., government control. Counsel for the Association of Architectural Technologists of Ontario conceded that the only form of government control over the association was exercisable through the Legislature’s exclusive power to change the association’s statutory objects, powers and duties.
+[71] The Court found that this did not meet the second part of the test, stating (at paragraph 62):
+. . . This is insufficient to satisfy the governmental control test because it is not a power that enables the government, directly or through its nominees, to exercise a degree of ongoing influence in the body's governance and decision-making similar to that often found in legislation dealing with statutory bodies that regulate the practice of a profession in which only those whom they license may engage, such as architecture and the law.
+[72] In my view, the terms “public body” and “public authority” are synonymous. The factors of public duty/benefit, government control and the use of the entity’s profit are relevant criteria when ascertaining if an entity is a “public body” in the context of paragraph 149(1)(d.5) of the Income Tax Act.
+[73] Section 125 of the Constitution Act, 1867, provides that provincial and federal governments are prohibited from taxing each other. Various paragraphs in subsection 149(1) of the Act exempt from tax certain Crown corporations and other public entities that are not covered by section 125 of the Constitution Act, 1867.
+[74] For example, paragraphs 149(1)(d), (d.1) and (d.2) exempt from tax corporations, commissions and associations owned by either the federal government or a provincial government. Eligibility for the tax exemption is dependent solely on the share or capital ownership of the corporation, commission or association.
+[75] Subsection 149(1)(c) extends the exemption from federal tax to municipalities. The paragraph also exempts any municipal body that performs a function of government in Canada.
+[76] The federal government, provincial governments and municipalities clearly owe a duty to the public. They in fact exist to serve and govern the public. One would expect that this duty would extend to corporations, commissions and associations owned and operated by the various levels of government.
+[77] The term “public body” in paragraphs 149(1)(c) and 149(1)(d.5) is used in association with two other types of entities that owe a duty to the public. In this context, it appears to me that a public body must be defined as being a body that owes a duty to the public.
+[78] In addition, since the exemption from tax in paragraph 149(1)(d.5) is included with the exemptions in paragraph 149(1) for a number of government-controlled entities, I believe that the second branch of the English law test is also relevant: the entity must be subject to a significant degree of government control.
+[79] Finally, Parliament has chosen the words “public body”, which implies that any profit realized by the entity will not be used for the personal benefit of any members of the body.
+[80] In summary, it is my view that the three-part English test discussed by the Federal Court of Appeal in Canadian Olympic Association should be used to ascertain if an entity is a “public body” for the purposes of paragraphs 149(1)(c) and 149(1)(d.5) of the Income Tax Act. Specifically, the entity must have a duty to the public, it must be subject to a significant degree of government control and it must not use any of its profit for the personal benefit of its members.
+[81] Section 4.2 of the Law Society Act provides, in part, that the Law Society in carrying out its functions, duties and powers has a duty to protect the public interest.
+[82] The majority of the Supreme Court of Canada in their decision in Trinity Western University v. Law Society of Upper Canada [26] (Trinity Western) found that sections 4.1 and 4.2 of the Law Society Act impose a duty to the public on the Law Society. The majority stated the following at paragraph 16 of their reasons, after setting out the wording of sections 4.1 and 4.2 of the Law Society Act:
+The LSUC [the Law Society] is therefore tasked with, among other things, regulating the legal profession in Ontario, ensuring standards of professionalism and competence among lawyers, and fulfilling its various functions in accordance with its duty to protect the public interest.
+[Emphasis added.]
+[83] At paragraph 18 the majority reiterated this duty to the public when they stated: “By the clear terms of s. 4.2 of the LSA, the LSUC must have regard to the principles set out in that section — including its duty to protect the public interest — in carrying out all of its ‘functions, duties and powers’ under the LSA.”
+[84] Thus, the Supreme Court of Canada found that the Law Society owes a duty to the public when carrying out its functions.
+[85] The evidence before me is that the Law Society also satisfies the second part of the test: it is subject to significant control by the Government of Ontario. The following evidences this control:
+- Section 13 of the Law Society Act provides, in part, that the Attorney General for Ontario shall serve as the guardian of the public interest in all matters within the scope of that Act or having to do in any way with the practice of law in Ontario or the provision of legal services in Ontario.
+- The Attorney General of Ontario appoints eight of the benchers who govern the Law Society.
+- The government approves the appointment of lay members of the Law Society Tribunal.
+[86] This constitutes a sufficient degree of ongoing influence in the Law Society’s governance and decision making to satisfy the significant control test.
+[87] The evidence before me is that any profit realized by the Law Society is used by the Law Society to fund its operations and none of it is returned to the Licensees. Therefore the third part of the test is satisfied.
+[88] For the foregoing reasons, the Law Society is a “public body” for the purposes of paragraph 149(1)(d.5) of the Income Tax Act.
+IV. Performing a Function of Government
+[89] The Appellant argues that the Law Society performs a “function of government” because the obligation to perform a regulatory function has been delegated to it by legislation i.e., the regulation of the legal profession in the public interest. It also argues that the Law Society performs legislative or regulatory functions, executive or administrative functions, judicial functions and ministerial functions and that each such function constitutes a function of government.
+[90] In Canada, the various levels of government govern the public in specific geographical areas. The federal government governs the public in all regions of Canada in the fields that are within its jurisdiction under our Constitution. A province governs the public within the geographical area of the specific province in the fields that are within its jurisdiction under our Constitution. A municipality governs the public in the geographical area assigned to it by the province in which it is located in the fields designated by the province.
+[91] In my view, a public body only performs a function of government in its specific geographical area if it performs the function as part of the governance of the public located in that specific geographical area.
+[92] It is a question of fact whether the Law Society performs a function of government in Ontario. The Court must determine what functions the Law Society performs in respect of the public in Ontario, and whether such functions constitute a function of governing in Ontario.
+[93] The majority of the Supreme Court of Canada in Trinity Western noted that the legal profession in Ontario is a self-regulating profession. The Law Society is the regulator of the legal profession in Ontario.
+[94] I do not accept the Appellant’s argument that the performance of this regulatory function constitutes the performance of a function of government in the geographical area of the Law Society’s responsibility, namely, Ontario.
+[95] While the Law Society is required to have the public interest in mind when it carries out its regulating functions, this does not mean that it is performing a function of government. The Law Society performs its functions in respect of the legal profession, not the public. It formulates and applies policies for the purpose of regulating the legal profession. As Mr. Varro stated during his testimony, the Law Society devotes all of its resources to the regulation of the legal profession. The Law Society performs its various functions in the course of regulating the legal profession, not in the course of governing people located in Ontario.
+[96] There is no evidence before me that the Law Society performs a function that is part of the governing of the public in Ontario. The Law Society’s regulation of the legal profession certainly benefits the public, but this does not constitute performing a function that is part of the governing of the public in Ontario.
+[97] The Government of Ontario performs a function of government when it decides what body is to regulate a specific profession, what are the duties and responsibilities of the body, and how that body is to operate. The actual performance of these statutory duties by the body is not the performance of a function of governing the people of Ontario.
+[98] The Government of Ontario invested the Law Society with the authority to regulate the legal profession in Ontario when it passed the Law Society Act. In passing the Law Society Act (and its amendments) the Government of Ontario performed a function of government by legislating with regard to which members of the public can provide legal services in Ontario. The Government has set out, in sections 4.1 and 4.2 of the Law Society Act, how the Law Society is to regulate the legal profession. In effect, the Law Society Act defines the Law Society’s role and responsibilities.
+[99] None of the functions of the Law Society constitute a legislative function. The Law Society, like other regulators of professions, may make by-laws relating to its role as the regulator of the legal profession and relating to its members. However, the Government of Ontario, in section 62 of the Law Society Act, specifies the areas in which the Law Society may make by-laws. The Government of Ontario performed a function of government when it decided what by-laws the Law Society is entitled to make. The Law Society does not perform a function of governing the people of Ontario when it passes by-laws specified in section 62, such as by-laws prescribing the classes of licences it may issue under the Law Society Act, by-laws governing the licensing of persons to practise law in Ontario as barristers and solicitors or by-laws governing the handling of money and other property by Licensees. These by-laws relate to regulating the legal profession in Ontario, not governing the people of Ontario.
+[100] Similarly, section 63 of the Law Society Act provides that the Law Society may make regulations under the Law Society Act in specified areas. Again, the Government of Ontario is performing the function of government by specifying the areas in respect of which the Law Society may make regulations. Further, the Lieutenant Governor in Council, that is, the Government of Ontario, must approve the regulations.
+[101] Another function of government is the judicial function. Black’s Law Dictionary (Tenth Edition) defines judicial as “of, relating to, or by the court or a judge”. In my view, a judicial function is only performed by a judge of one of Canada’s courts. The Ontario Divisional Court and the Ontario Superior Court of Justice perform the judicial functions with respect to the regulation of the legal profession in Ontario.
+[102] The Government of Ontario, through the Law Society Act, requires the Law Society to ensure that anyone who provides legal services in Ontario meets the required standards of professional competence and conduct. The Law Society Act provides specific rules for licensing and allows the Law Society to take action if a person who is not a Licensee attempts to provide legal services in Ontario. Such action is taken in the Ontario Superior Court of Justice.
+[103] While the Law Society may take action to prevent an unauthorized person from providing legal services, the action is taken in the Ontario courts. It is the Ontario courts, not the Law Society, that perform the judicial function.
+[104] The Law Society Act also allows the Law Society to take action if a Licensee engages in professional misconduct or conduct unbecoming a Licensee. The Act requires the Law Society to establish a Proceedings Authorization Committee and the Law Society Tribunal. The Law Society forms the committee and the tribunal to discipline its members. In my view, when establishing and carrying out the functions of the committee and the tribunal, the Law Society is not performing a judicial function. Many entities that regulate professions have similar tribunals. Those tribunals are not performing judicial functions. In Canada, judicial functions are performed by our courts, not by tribunals that are put in place to help regulate a profession.
+[105] Decisions of the Law Society Tribunal are appealed to the Ontario Divisional Court. It is the Ontario Divisional Court that provides the judicial function in respect of actions brought against a Licensee for professional misconduct or conduct unbecoming of a Licensee.
+[106] Since the Law Society does not perform a function of government in Canada, the Appellant is not entitled to the exemption from tax provided for in paragraph 149(1)(d.5).
+[107] For the foregoing reasons, the appeal is allowed, but only in respect of the concession made by the Minister that the Appellant’s taxable income for 2013 of $24,638,856 is to be reduced by $44,475 and its assessed income for 2014 of $26,560,645 is to be reduced by $18,520. Costs are awarded to the Respondent.
+Signed at Toronto, Ontario, this 26th day of September, 2018.
+“S. D’Arcy”
+D'Arcy J.
+APPENDIX A
+2016-1437(IT)G
+TAX COURT OF CANADA
+BETWEEN:
+LAWYER’S [SIC] PROFESSIONAL INDEMNITY COMPANY
+Appellant
+- and –
+HER MAJESTY THE QUEEN
+Respondent
+STATEMENT OF AGREED FACTS – PARTIAL
+The parties to this proceeding admit, for the purposes of this proceeding only, the truth of the following facts, and the relevance and authenticity of the documents, referred to in this Statement of Agreed Facts – Partial (“Agreed Statement”).
+The parties each reserve the right to:
+adduce additional evidence which is relevant and probative of any issue before the Court, and which is not inconsistent with or does not contradict the facts admitted; and
+challenge the accuracy of any of the statements contained in the documents, and the legal consequences flowing from those documents or these facts.
+The facts in this Agreed Statement are organized under the following headings:
+A. The Society………………………………………………………………………..2
+B. Governance of the Society………………………………………………………2
+C. LawPRO…………………………………………………………………………..4
+D. Paragraph 149(1)(d.5) of the Income Tax Act………………………………5
+E. Reassessments and Confirmation……………………………………………..6
+A. The Society
+1. The Law Society of Upper Canada (the “Society”) was founded in 1797 by an Act of the Legislative Assembly of Upper Canada.
+2. The Society was incorporated in 1822 and was continued under the Law Society Act of Ontario (the “LSA”)1 in 1990 as a corporation without share capital.
+3. The Society is a corporation established by statute. Its functions, powers and duties are set out in the LSA and regulations, and by-laws made thereunder (the “By-Laws”).
+4. Among other things, the LSA grants the Society the authority to ensure that all persons who practise law in Ontario or provide legal services in Ontario meet standards of learning, professional competence and professional conduct that are appropriate for the legal services provided.
+5. The members of the Society at any point in time are:
+(i) the person who is the Treasurer at that time;
+(ii) the persons who are benchers at that time;
+(iii) the persons who are, at that time, licensed to practise law in Ontario as barristers and solicitors; and
+(iv) the persons who are, at that time, licensed to provide legal services in Ontario.
+B. Governance of the Society
+6. The affairs of the Society are governed by the benchers.
+7. The benchers govern the Society’s affairs primarily through regular and special meetings referred to as Convocation.
+8. The chair of Convocation and the head of the Society is the Treasurer.
+_______________________________________
+1. RSO 1990, c.L.8, s 2.
+9. Forty persons who are licensed to practise law in Ontario as barristers and solicitors, and five persons who are licensed to provide legal services in Ontario, are elected as benchers.10. Eight persons who are not licensees are appointed as lay benchers by the Lieutenant Governor in Council.
+11. Every licensee who held the office of Treasurer at any time before January 1, 2010 is a bencher by virtue of his or her office.
+12. Every person,
+(i) who is an honorary bencher on the 1st day of October, 1970; or
+(ii) who after that day is made an honorary bencher,
+is an honorary bencher, but as such has only the rights and privileges prescribed by the By-laws.
+13. The following, if and while they are licensees, are benchers by virtue of their office:
+(i) the Minister of Justice and Attorney General of Canada;
+(ii) the Solicitor General for Canada; and
+(iii) every person who, by June 1, 2015, held the office of elected bencher for at least 16 years.
+14. The following are also benchers by virtue of their office:
+(i) the Attorney General for Ontario; and
+(ii) every person who held the office of Attorney General for Ontario at any time before January 1, 2010.
+15. The Minister of Justice, Attorney General for Canada and the Solicitor General for Canada have the rights and privileges prescribed by the By-laws, but may not vote in Convocation or in committees.
+16. Like all other voting benchers, the Attorney General for Ontario may vote in Convocation and in committees.
+C. LawPRO
+17. The Society incorporated Lawyers’ Professional Indemnity Company (“LawPRO”) under the Corporations Act (Ontario) on March 14, 1990.2
+18. LawPRO is a Canadian-controlled private corporation for purposes of Income Tax Act (Canada) (the “Act”),3 and is licensed as an insurer in Ontario (as well as other jurisdictions in Canada).
+19. The Society requires that all lawyer licensees who engage in the practice of law must pay levies for professional liability insurance provided by the Society through LawPRO.
+20. LawPRO was incorporated to provide, and during the taxation years ending December 31, 2013 and December 31, 2014 (together, the “Taxation Years”) did provide, professional liability insurance for lawyer licensees who engage in the practice of law.
+21. LawPRO also insures law firms in Ontario, and provides comprehensive title insurance to real property owners and lenders in Ontario as well as in all other jurisdictions in Canada.
+22. For each of the Taxation Years:
+(a) LawPRO was an insurance corporation governed by the Insurance Act (Ontario);4
+(b) LawPRO was an insurance corporation within the meaning of subsection 248(1) of the Act;
+(c) at least 90% of the capital of LawPRO was owned by the Society; and
+(d) LawPRO’s income for the Taxation Years from its activities carried on by it outside Ontario did not exceed 10% of its income.
+________________________
+2. RSO 1990, c. C.38.
+3. R.S.C., 1985, c.1.
+4. RSO 1990, c. I.8.
+D. Paragraph 149(1)(d.5) of the Income Tax Act
+23. On June 26, 2013, the Technical Tax Amendments Act, 2012 (the “TTAA”)5 received royal assent and made several amendments (the “Amendments”) to the Act.
+24. More particularly, subsection 307(1) of the TTAA amended paragraph 149(1)(d.5) of the Act, applicable to taxation years beginning after May 8, 2000.
+25. As amended, paragraph 149(1)(d.5) provided as follows:
+149(1) No tax is payable under this Part on the taxable income of a person for a period when that person was
+. . .
+(d.5) subject to subsections (1.2) and (1.3), a corporation, commission or association not less than 90% of the capital of which was owned by one or more entities each of which is a municipality in Canada, or a municipal or public body performing a function of government in Canada, if the income for the period of the corporation, commission or association from activities carried on outside the geographical boundaries of the entities does not exceed 10% of its income for the period;
+26. LawPRO filed a tax return for each of the Taxation Years on the basis that it qualified for the tax exemption under paragraph 149(1)(d.5) of the Act, as amended. LawPRO was initially assessed as filed for each of the Taxation Years.
+E. Reassessments and Confirmation
+27. By way of reassessments dated October 13, 2015 that were issued to LawPRO (collectively, the “Reassessments”) for the Taxation Years, the Minister of National Revenue (the “Minister”) reassessed LawPRO to deny it the tax exemption under paragraph 149(1)(d.5) of the Act, as amended, for each of the Taxation Years.
+___________________
+5. S.C. 2013, c. 34.
+28. By way of a confirmation, notice of which was dated January 19, 2016 (the “Confirmation”), the Minister confirmed the Reassessments.
+29. The Minister issued the Confirmation on the basis that LawPRO did not qualify for the tax exemption under paragraph 149(1)(d.5) of the Act, as amended, for the Taxation Years.
+DATED at the City of Toronto, in the Province of Ontario, this 6th day of March, 2018.
+Osler, Hoskin & Harcourt LLP
+_________“Pooja Mihailovich”______
+Per: Mahmud Jamal
+Pooja Mihailovich
+Hemant Tilak
+Osler, Hoskin & Harcourt LLP
+P.O. Box 50
+1 First Canadian Place
+Toronto, ON M5X 1B8
+Tel: (416) 862-6764
+Fax: (416) 862-6666
+Counsel for the Appellant
+Dated at the City of Ottawa, in the Province of Ontario, this 6th day of March, 2018.
+Deputy Attorney General of Canada
+___________“J. Malone”____________
+Per: Justine Malone
+Kaylee Silver
+Department of Justice Canada
+Tax Law Services Section
+99 Bank Street, 11th Floor
+Ottawa, ON K1A 0H8
+Tel: (613) 670-6410
+Fax: (613) 941-2293
+Counsel for the Respondent
+CITATION:
+2018 TCC 194
+COURT FILE NO.:
+2016-1437(IT)G
+STYLE OF CAUSE:
+LAWYERS’ PROFESSIONAL INDEMNITY COMPANY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 12 and 13, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT:
+September 26, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Mahmud Jamal
+Pooja Mihailovich
+Hemant Tilak
+Counsel for the Respondent:
+Justine Malone
+Kaylee Silver
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Mahmud Jamal
+Pooja Mihailovich
+Hemant Tilak
+Firm:
+Osler, Hoskin & Harcourt LLP
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Law Society currently carries on business as the Law Society of Ontario.
+[2] Exhibit A-R-1, Tab 6, page 214.
+[3] See also Exhibit A-R-1, Tab 6, page 208.
+[4] R.S.O. 1990, Chapter L.8.
+[5] PASF, point 3.
+[6] Transcript, page 34.
+[7] Transcript, page 42.
+[8] Transcript, page 60. See also transcript, page 42.
+[9] Transcript pages 31-32.
+[10] Transcript, pages 34-35.
+[11] Transcript, page 79.
+[12] Transcript, page 73.
+[13] Transcript, pages 73-88.
+[14] The application is provided for under section 26.3 of the Law Society Act.
+[15] Transcript, page 75.
+[16] Transcript, pages 133-134.
+[17] Exhibit A-R-1, Tab 1, page 15. See also transcript pages 78-79.
+[18] See PASF, paragraphs 22(c) and (d).
+[19] 2005 SCC 544, [2005] 2. S.C.R. 601, 2005 DTC 5523.
+[20] Canada Trustco, paragraphs 10 and 11.
+[21] Tawich Development Corporation v. Deputy Minister of Revenue of Quebec, [1997] 2 C.N.L.R. 187, aff’d. 2001 DTC 5144.
+[22] 94 DTC 1234.
+[23] Department of Finance Technical Notes, 149(1)(d.5), Oct. 24, 2012.
+[24] [1983] 1 F.C. 692.
+[25] 2002 FCA 218, [2003] 1 F.C. 331.
+[26] 2018 SCC 33. The parties, at the request of the Court, filed submissions on July 10, 2018 with respect to the application of the Supreme Court of Canada’s decision in Trinity Western to the appeal before the Court.

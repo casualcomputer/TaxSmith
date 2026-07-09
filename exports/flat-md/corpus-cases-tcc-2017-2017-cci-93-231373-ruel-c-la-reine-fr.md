@@ -1,0 +1,176 @@
+---
+title: "Ruel c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/231373/index.do"
+last_modified: "2017-05-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 93"
+citation2: ""
+neutral_citation: "2017 CCI 93"
+decision_date: "2017-05-25"
+language: "fr"
+item_id: "231373"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2130
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:30:18.401000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ba50aa3a09ff1e4372bf16980136bab8ff1485d25e8680287c4a970c8dfb751e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ruel c. La Reine
+
+- Citation: 2017 CCI 93
+- Decision date: 2017-05-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2130, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ruel c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-05-25
+Référence neutre
+2017 CCI 93
+Numéro de dossier
+2016-5449(IT)I
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-5449(IT)I
+ENTRE :
+AIME RUEL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 12 avril 2017 à Saskatoon (Saskatchewan)
+Devant : L’honorable juge Steven K. D'Arcy
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Bryn Frape
+JUGEMENT
+Conformément aux motifs du jugement ci-joints :
+L’appel relatif à une nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2014 est accueilli en partie, sans frais, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, étant entendu que l’appelant peut déduire la somme de 2 284 $ pour des frais juridiques qu’il a engagés en 2014.
+Signé à Antigonish (Nouvelle-Écosse), ce 25e jour de mai 2017.
+« S. D’Arcy »
+Juge D'Arcy
+Référence : 2017 CCI 93
+Date : 20170525
+Dossier : 2016-5449(IT)I
+ENTRE :
+AIME RUEL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D'Arcy
+[1] L’appelant a interjeté appel d’une nouvelle cotisation concernant son année d’imposition 2014. Dans sa déclaration relative à cette année‑là, il a demandé, à l’égard de son fils P., des crédits d’impôt non remboursables, au titre de l’alinéa 118(1)b), pour une personne entièrement à charge et, au titre de l’alinéa 118(1)b.1), pour un enfant.
+[2] L’appelant a aussi demandé la somme de 6 915 $, relativement à des frais juridiques qui, soutient-il, ont été engagés en vue de recouvrer, auprès de son ex‑épouse, des paiements de pension alimentaire.
+[3] Dans la nouvelle cotisation qu’il a établie à l’égard de l’appelant, le ministre a refusé les crédits non remboursables ainsi que les frais juridiques de 6 915 $ qu’il avait demandés.
+[4] L’appelant a interjeté appel de la nouvelle cotisation devant la Cour. Celle-ci a entendu l’appel dans le cadre de sa procédure informelle.
+[5] Mme Sherry Turanich, la fiancée de l’appelant, a témoigné pour le compte de ce dernier.
+I. Le sommaire des faits [6] L’appelant et son ex-épouse, Mme Bobbi Dawn Ruel (que j’appellerai l’« ex‑épouse »), ont deux enfants : P. et R. Les deux ont vécu avec l’ex-épouse jusqu’à la fin du mois de mai 2014, après quoi P. a commencé à vivre avec l’appelant.
+[7] P. a vécu avec l’appelant jusqu’au milieu du mois de décembre 2014. Il a ensuite réemménagé chez sa mère.
+[8] La Cour du Banc de la Reine de la Saskatchewan a reconnu le changement de conditions de vie de P. dans une ordonnance qu’elle a rendue le 15 août 2014 (l’« ordonnance judiciaire du 15 août »). Selon cette ordonnance :
+- P. habitera avec l’appelant;
+- R. habitera avec l’ex-épouse;
+- Pour P., l’ex-épouse paiera à l’appelant une pension alimentaire pour enfants d’un montant de 246 $ par mois;
+- Pour R., l’appelant paiera à l’ex-épouse une pension alimentaire pour enfants d’un montant de 1 251 $ par mois;
+- P. et R. ont habité avec l’ex-épouse entre les mois de septembre 2013 et juin 2014. Pour cette période, l’appelant est tenu de payer à l’ex-épouse, pour P. et R., une pension alimentaire pour enfants d’un montant de 19 989,60 $.
+[9] Aux termes de l’ordonnance judiciaire du 15 août, l’appelant est tenu de payer le montant de la pension alimentaire pour enfants de 19 989,60 $ qu’il doit pour la période de septembre 2013 à juin 2014 en effectuant un paiement forfaitaire de 9 405,45 $ ainsi qu’en déduisant le solde de son obligation des montants que l’ex‑épouse est tenue de payer à l’appelant, à compter de juin 2014, relativement à la pension alimentaire pour enfants concernant P.
+[10] Mme Turanich a déclaré que l’appelant avait effectué le paiement forfaitaire de 9 405,45 $ et que les paiements de pension alimentaire de l’ex-épouse pour la période postérieure au mois de juin 2014 ont été déduits du solde des paiements de pension alimentaire que l’appelant avait à payer pour la période antérieure à juin 2014.
+[11] L’intimée a fourni à la Cour un certain nombre de factures d’honoraires juridiques envoyés à l’appelant par le cabinet d’avocats Miller Thomson, en lien avec une affaire appelée [traduction] « Bobbi Johnstone (affaire familiale) ». D’après ce que j’ai compris, ces factures ont trait à diverses discussions entre l’appelant et son avocat au sujet des paiements de pension alimentaire prévus par l’ordonnance judiciaire du 15 août.
+II. Les dispositions législatives applicables [12] L’intimée soutient principalement que, par suite de l’application du paragraphe 118(5), l’appelant n’a pas droit aux crédits que prévoient les alinéas 118(1)b) et b.1).
+[13] Son argument subsidiaire est le suivant : si, par suite de l’application du paragraphe 118(5.1), le paragraphe 118(5) ne s’applique pas, il s’ensuit que l’appelant n’a toujours pas droit aux crédits en raison de l’application des alinéas 118(4)b) et b.1).
+[14] Le paragraphe 118(5) dispose, en partie, qu’un particulier ne peut déduire un montant au titre des alinéas 118(1)b) et b.1) à l’égard d’une personne, s’il est tenu de payer pour cette personne une pension alimentaire à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait.
+[15] Le paragraphe 56.1(4) définit ce qu’est une pension alimentaire; il s’agit, en partie, d’un montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins des enfants du bénéficiaire, si ce dernier peut utiliser le montant à sa discrétion et s’il est l’ex-époux ou l’ancien conjoint de fait du payeur. De plus, le payeur et le bénéficiaire doivent vivre séparément pour cause d’échec de leur mariage, et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit.
+[16] L’effet du paragraphe 118(5) est le suivant : un particulier qui effectue des paiements de pension alimentaire, aux termes d’une ordonnance d’un tribunal compétent ou d’un accord écrit, à son ex-époux ou ancien conjoint de fait pour un enfant ne peut demander les crédits que prévoient les alinéas 118(1)b) et b.1) à l’égard de cet enfant.
+[17] Cependant, le paragraphe 118(5.1) prévoit que le paragraphe 118(5) ne s’applique pas si ni le contribuable ni son ex-époux n’ont droit à la déduction prévue aux alinéas 118(1)b) et b.1). Autrement dit, le paragraphe 118(5) ne s’applique pas si chaque partie est tenue, aux termes d’une ordonnance d’un tribunal ou d’un accord écrit, de payer à l’autre partie un montant de pension alimentaire.
+[18] Les dernières dispositions à examiner sont les alinéas 118(4)b) et b.1). Ceux-ci prévoient qu’un seul particulier a le droit de demander les crédits prévus par les alinéas 118(1)b) et b.1) pour un enfant donné. Si deux particuliers ou plus ont droit aux crédits, les parties doivent dans ce cas s’entendre sur celle d’entre elles qui les déduira. S’ils ne parviennent pas à s’entendre, aucun d’eux n’a le droit d’en faire la demande.
+III. L’application des dispositions législatives aux faits [19] Les parties conviennent que, conformément à l’ordonnance judiciaire du 15 août, l’appelant était tenu de payer un montant de pension alimentaire à l’ex‑épouse pour P. et R., et ce, pour la période de janvier à juin 2014.
+[20] L’appelant soutient que, conformément à l’ordonnance judiciaire du 15 août, l’ex-épouse était tenue de lui payer un montant entre les mois de juin 2014 et décembre 2014 à titre d’allocation périodique pour subvenir aux besoins de P.
+[21] Je suis d’accord avec l’appelant. Le paragraphe 1 et l’alinéa 3a) de l’ordonnance judiciaire du 15 août indiquent ceci :
+[traduction]
+1. L’enfant du mariage, soit [P.], né le 23 mai 1997, habitera chez l’intimé, Aime Ruel.
+[…]
+3. […]
+a) Le revenu que la requérante [Bobbi Ruel] a gagné en 2013 était de 32 242,75 $, ce qui donne un montant de pension alimentaire pour enfants à payer à l’intimé pour [P.] de 246 $ par mois.
+[22] Dans le même ordre d’idées, le paragraphe 2 et l’alinéa 3b) de l’ordonnance judiciaire du 15 août prévoient que l’ex-épouse aura la garde de R. et que le montant de la pension alimentaire pour enfants que l’appelant devra payer à l’ex‑épouse pour R. sera de 1 251 $ par mois, en prenant pour base le revenu de 150 722 $ que l’appelant a gagné en 2013.
+[23] L’ordonnance indique clairement que l’appelant aura la garde de P. et que, de ce fait, l’ex-épouse paiera une pension alimentaire à l’appelant pour cet enfant. Elle indique aussi que l’ex-épouse aura la garde de R. et que, de ce fait, l’appelant paiera une pension alimentaire à l’ex-épouse pour cet enfant.
+[24] L’intimée soutient que l’ex-épouse n’a pas payé de montants de pension alimentaire à l’appelant. Elle se fonde sur l’alinéa 3e) de l’ordonnance judiciaire du 15 août, laquelle dispose que les parties déduiront les montants de pension alimentaire pour enfants que l’ex-épouse est tenue de payer à l’appelant aux termes de l’alinéa 3a) des arriérés de pension alimentaire pour enfants que l’appelant doit à l’ex-épouse à l’égard de P. et R. pour la période antérieure à juin 2014.
+[25] L’avocate de l’intimé, invoquant l’arrêt de la Cour d’appel fédérale Verones c. Canada (Verones)[1], soutient qu’en raison de cette déduction (ou compensation), l’ex-épouse n’était pas tenue de payer un montant de pension alimentaire à l’appelant. Je ne suis pas d’accord avec la manière dont l’intimée applique l’arrêt Verones de la Cour d’appel fédérale.
+[26] Dans Verones, il était question d’une situation dans laquelle l’appelant et son ex-épouse, qui vivaient séparément, étaient les parents de deux enfants. Ces derniers vivaient la moitié du temps avec chaque parent, aux termes d’un accord de garde partagée.
+[27] La Cour d’appel fédérale a conclu qu’un seul paiement de pension alimentaire devait être effectué aux termes de l’ordonnance de la Cour du Banc de la Reine de l’Alberta : de l’appelant à son ex-épouse. La Cour d’appel fédérale a fait remarquer, au paragraphe 3 :
+[…] Ce montant représente la différence entre la contribution totale de l’appelant au titre des besoins de ses enfants (2 202 $) et la somme que son ex‑épouse doit verser à ce titre (439 $) selon les Lignes directrices fédérales sur les pensions alimentaires pour enfants, DORS/97‑175 (les Lignes directrices fédérales).
+[28] Pour arriver à cette conclusion, la Cour d’appel fédérale a fait remarquer (au paragraphe 6) que l’accent mis par l’appelant sur le fait que la Cour du Banc de la Reine de l’Alberta avait fixé le montant du paiement unique de la pension alimentaire pour enfants en compensant le montant de l’obligation de chacun des parents selon les Lignes directrices fédérales ne faisait que détourner l’attention. La véritable question en litige consistait à savoir « si l’appelant est ou non le seul parent payant une “pension alimentaire pour enfants” conformément à une “ordonnance d’un tribunal compétent” ou à un “accord écrit” au sens de la Loi ».
+[29] Dans le présent appel, l’ordonnance judiciaire du 15 août prévoit clairement qu’à compter du mois de juin 2014, l’appelant et l’ex-épouse étaient tous deux tenus d’effectuer des paiements de pension alimentaire. L’ex-épouse avait à verser à l’appelant des paiements de pension alimentaire pour P., et l’appelant avait à verser à l’ex-épouse des paiements de pension alimentaire pour R.
+[30] La compensation prévue à l’alinéa 3e) de l’ordonnance judiciaire du 15 août représente, pour l’ex-épouse, un moyen de payer une part de la pension alimentaire pour enfants qu’elle est tenue de verser pour P aux termes de l’ordonnance judiciaire du 15 août. Ce paiement est effectué par la compensation. Il s’agit là d’une situation différente de celle dont il est question dans Verones, où la Cour d’appel fédérale s’est servie des Lignes directrices fédérales pour calculer un paiement de pension alimentaire unique pour deux enfants.
+[31] En résumé, au cours de l’année 2014, l’appelant et l’ex-épouse étaient tous deux tenus d’effectuer des paiements de pension alimentaire pour P. Par conséquent, en raison de l’application du paragraphe 118(5.1), le paragraphe 118(5) ne s’applique pas de manière à empêcher l’appelant de demander les crédits prévus par les alinéas 118(1)b) et b.1).
+[32] Selon la preuve dont je dispose, l’appelant et l’ex-épouse ne se sont pas entendus sur la personne qui demanderait les crédits prévus par les alinéas 118(1)b) et b.1) pour 2014, à l’égard de P. Les crédits sont donc refusés en application des alinéas 118(4)b) et b.1). C’est là le résultat auquel on arrive, puisque l’appelant et l’ex‑épouse ont tous deux le droit de demander les crédits prévus aux alinéas 118(1)b) et b.1) pour P et qu’ils ne peuvent s’entendre sur lequel des deux devrait en faire la demande.
+[33] Examinons maintenant la question des frais juridiques. Dans l’arrêt Nadeau c. M.R.N.[2], la Cour d’appel fédérale a conclu que les paiements de pension alimentaire qu’une personne reçoit constituent un revenu tiré d’un bien et que, de ce fait, les dépenses engagées pour gagner ce revenu, comme des frais juridiques, sont déductibles. Cependant, la Cour d’appel fédérale a également conclu que « […] les dépenses encourues par le payeur d'une pension alimentaire (soit pour empêcher qu'elle soit établie ou augmentée, ou soit pour la diminuer ou y mettre fin), ne peuvent être considérées comme ayant été engagées pour gagner un revenu et [que] les tribunaux n'ont jamais reconnu de droit à la déduction de ces dépenses[3] ».
+[34] Après avoir passé en revue les factures d’honoraires juridiques ainsi que les diverses lettres que l’appelant et son avocat se sont échangées, j’ai conclu que l’appelant a payé ces frais juridiques pour trois objets distincts : le paiement par lui d’une pension alimentaire pour enfants à l'ex-épouse pour P. et R. au cours de la période prenant fin en juin 2014, le paiement par lui d’une pension alimentaire pour enfants à l’ex-épouse pour R. au cours de la période commençant en juin 2014 et le paiement par l’ex-épouse d’une pension alimentaire pour enfants à l’appelant pour P. au cours de la période commençant en juin 2014.
+[35] Je suis d’avis qu’il est raisonnable de répartir les frais juridiques de manière égale entre ces trois objets. C’est donc dire que seul le tiers des frais juridiques engagés en 2014 se rapportait au paiement d’une pension alimentaire pour enfants par l’ex-épouse à l’appelant. Les factures concernant la totalité des services fournis s’élèvent en tout à 6 853 $. L’appelant a le droit de déduire le tiers de ce montant, soit 2 284 $.
+[36] Pour les motifs qui précèdent, l’appel est accueilli en partie, sans frais. La nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, étant entendu que l’appelant peut déduire la somme de 2 284 $ pour des frais juridiques qu’il a engagés en 2014.
+Signé à Antigonish (Nouvelle-Écosse), ce 25e jour de mai 2017.
+« S. D’Arcy »
+Juge D'Arcy
+RÉFÉRENCE :
+2017 CCI 93
+No DU DOSSIER DE LA COUR :
+2016-5449(IT)I
+INTITULÉ :
+AIME RUEL c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 12 avril 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Steven K. D'Arcy
+DATE DU JUGEMENT :
+Le 25 mai 2017
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Bryn Frape
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] 2013 CAF 69, DTC 5061.
+[2] 2003 CAF 400, [2004] 1 R.C.F. 587.
+[3] Ibid., au paragraphe 18.

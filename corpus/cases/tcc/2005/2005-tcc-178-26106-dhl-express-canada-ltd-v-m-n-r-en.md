@@ -1,0 +1,207 @@
+---
+title: "DHL Express (Canada) Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26106/index.do"
+last_modified: "2005-03-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 178"
+citation2: ""
+neutral_citation: "2005 TCC 178"
+decision_date: "2005-03-04"
+language: "en"
+item_id: "26106"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4167
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:57:08.443000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cabfd510629ae84c58cefe579694b621cac0d42bdce8ee53e4c092e6a5e6c4bf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# DHL Express (Canada) Ltd. v. M.N.R.
+
+- Citation: 2005 TCC 178
+- Decision date: 2005-03-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4167, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DHL Express (Canada) Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-03-04
+Neutral citation
+2005 TCC 178
+File numbers
+2004-4055(EI)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Old Age Security Act
+Decision Content
+Docket: 2004-4055(EI)
+2004-4057(CPP)
+BETWEEN:
+DHL EXPRESS (CANADA) LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 9, 2005, at Calgary, Alberta,
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Gerald A. Grenon
+Counsel for the Respondent:
+R. Scott McDougall
+____________________________________________________________________
+JUDGMENT
+The appeals pursuant to subsection 103(1) of the Employment Insurance Act and section 28 of the Canada Pension Plan are allowed and the decision of the Minister of National Revenue on the appeal made to him under section 92 of the Act and the determination of the Minister on the application made to him under section 27.1 of the Plan are vacated on the basis that the Ken Hiles was not engaged in insurable employment or pensionable employment with the Appellant for the period January 1, 2002 to July 8, 2004 within the meaning of paragraphs 5(1)(a) of the Act and 6(1)(a) of the Plan.
+Signed at Ottawa, Canada, this 4th day March, 2005.
+"CampbellJ. Miller"
+Miller J.
+Citation: 2005TCC178
+Date: 20050304
+Docket: 2004-4055(EI)
+2004-4057(CPP)
+BETWEEN:
+DHL EXPRESS (CANADA) LTD.,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] DHL Express (Canada) Ltd. appeals the decision of the Minister of National Revenue that Mr. Ken Hiles was engaged in insurable employment pursuant to the Employment Insurance Act and pensionable employment pursuant to the Canada Pension Plan for the period commencing January 1, 2002 to July 8, 2004. DHL contends Mr. Hiles was an independent contractor under contract for services with DHL. I agree with DHL's position.
+[2] Mr. Hiles did not intervene, nor did he testify. The evidence was presented by two employees of DHL; Mr. Munro, a general manger in charge of the Nanaimo region, and Ms. Parisienne, a general manager involved with the negotiation of the collective agreement with the Union.
+[3] Mr. Hiles was a delivery driver. He first entered an agreement with DHL's predecessor, Loomis, in 1994. For the period commencing January 2002, Mr. Hiles was bound by the terms of a collective agreement between Canadian Automobile Worker's Union and DHL, and also pursuant to his own contract with DHL. Before reviewing the actual working relationship between DHL and Mr. Hiles, it is helpful to review some of the terms of these agreements.
+[4] The collective agreement distinguishes between employees and independent contractors, as there is a section in the agreement called "Owner Operators" and also one called "Hourly Section". Schedule "A" of the agreement sets a remuneration schedule in terms of minimum rates for drivers. There are four main areas of remuneration with the following minimum rates for 2002:
+(i) an amount for a first waybill stop - minimum $1.55;
+(ii) an amount for multiple waybills stops at the same location - minimum $.59;
+(iii) an amount based on weight - minimum $.01 per pound;
+(iv) an amount to recognize the extent of driving necessary (no minimum); and
+(v) an amount for sorting.
+[5] Mr. Hiles negotiated his own remuneration package which is set out in Schedule "A" to his own agreement. He negotiated rates above the minimums by receiving $1.79 for a first waybill stop, $.79 for multiple waybill stops at the same location, $.01 per pound based on weight, $100 a day to recognize the extent of driving time and $5.75 in connection with sorting at the warehouse.
+[6] It is important to appreciate that DHL establishes what they call "routes", or designated areas for a driver. Mr. Hiles had Route 105, the Shawnigan Mill Bay Route on Vancouver Island. The route would be considered a rural route. Some routes, for example, urban routes, may be more profitable than others. The collective agreement provides a minimum bi-weekly guaranteed amount, which varied depending on the route. The evidence was that Mr. Hiles always exceeded this minimum.
+[7] The specifications for services to be provided by Mr. Hiles are covered in Schedule "B" to his own agreement, which is also Schedule "B" to the collective agreement. The following highlights some of the requirements: to pick up and deliver assigned packages, to report daily, to maintain his vehicle, drive safely, to scan packages using a company scanner, to provide replacement drivers for vehicle, when necessary, to wear clean uniforms, etc.
+[8] The following provisions are found in the body of the collective agreement:
+1.02
+(b) Owner Operator: Is an employee of the Company as defined by the Labour Code of Canada, Part 1, Chapter L-2, Section 3.1, and includes the "contractor" Owner Operators covered by Appendix C of this Collective Agreement.
+2.01
+The Union recognizes, except to the extent Management Rights have been abridged or modified by specific term and conditions in this Agreement, that it is the exclusive function of the Company to: Hire, classify, promote, demote, lay-off, suspend, discharge or otherwise discipline Owner Operators for just cause.
+6.07
+(a) It is appreciated from time to time that a substitute driver may be used to perform the scheduled route as per this agreement. However, this replacement will only be used for holiday relief, sickness or an emergency situation. Additionally, the relief driver may be used in the case where the Owner Operator is under a license suspension not exceeding twelve (12) months, provided the Owner Operator rides with the relief driver in a vehicle as a "Swamper" for the entire period.
+(b) The Owner Operator assumes all liability for insurance and Workers' Compensation for any person operating their vehicle in relation to this clause.
+(c) The Owner Operator must secure approval from the company of his replacement prior to assuming the contractual duties.
+8.01
+The Company will pay for new uniforms when such new uniforms are necessary and will maintain and clean such uniforms (jackets and trousers). The Owner Operators will be expected to keep same in good appearance at all times. All such uniforms will be returned to the Company at the time of, or upon termination of the business agreement.
+10.01
+When Owner Operators are required to attend training programs or mandatory meetings, the Owner Operator be paid the equivalent of the hourly driver rate if held during their normal work day or 1.5 times the hourly rate training hours or mandatory meetings in excess of the normal working day. If a relief driver is used, the Company will pay for the relief driver.
+[9] In fact, what did Mr. Hiles provide in his relationship with DHL? Firstly, he provided his own one-ton truck, a truck of his choice, and he ensured that it was painted the company colours, though DHL paid to have the company decal put on the truck. Mr. Hiles attended to all costs of repair and maintenance for the truck, as well as buying appropriate insurance. DHL required a certain size of vehicle for Route 105, given the nature of the deliveries in that area. DHL also required a minimum liability coverage. Mr. Hiles provide his own cell phone and all necessary office-like supplies. DHL provided all invoice forms, pagers, scanner, uniforms and $110.00 per year towards steel-toed boots.
+[10] Mr. Hiles also was responsible for providing a relief or replacement driver if he could not, or did not, care to drive. There was considerable testimony respecting the replacement driver. Notwithstanding the provision in the collective agreement allowing up to 30 days per year for a replacement drive, Mr. Munro's evidence was that no records were kept or monitoring done as to how often a replacement driver was used. It was up to Mr. Hiles who he hired. Again, notwithstanding the requirement in the contract that the driver must provide a driver's abstract and R.C.M.P. clearance to DHL for any replacement drivers, Mr. Hiles relied upon at least two replacement drivers, his wife and Carolyn Dares, who did not submit those documents to DHL for some considerable period of time after they had been driving for Mr. Hiles. Also, notwithstanding provisions in the collective agreement as to minimums to be paid to replacement drivers, Mr. Munro indicated that he did not feel it was DHL's concern. It was between Mr. Hiles and his drivers, and if they weren't satisfied, then Mr. Munro suggested they contact the Union. It was also up to Mr. Hiles to train these drivers, although DHL provided dangerous goods training. Mr. Hiles used his replacement drivers on many occasions during the period in question.
+[11] Mr. Hiles would start his day in time to make the pre-9:00 a.m. deliveries. He would go to the warehouse where two labourers would load up his van. He would organize that load to accommodate the priority of his deliveries. He would then spend the morning making the deliveries, by whatever route he deemed most expedient. He could take whatever breaks he wanted. Deliveries would be conducted in the morning and Mr. Hiles would go home for lunch. He, or a replacement driver, would then conduct the pickups in the afternoon, return to the warehouse to unload and sort by 5:30 or 6:00 p.m. to ensure that the freight made the necessary connections. Mr. Munro suggested that Mr. Hiles would normally be finished by 4:15 or 4:30 p.m.
+[12] With respect to the area covered by Mr. Hiles, Route 105, it would be up to him how he handled it. For example, he determined not to service a remote part of the area other than by dropping off at a local gas station, and having customers pick up or drop off from there. He would then only receive one payment of $1.79 plus $.79 for each of the other deliveries as opposed to $1.79 for each delivery if he delivered directly to the customer.
+[13] As Mr. Hiles drove his route, he completed a Route Sheet, giving details of time of delivery, pickup, addresses, weight, etc. At the end of the day, he would rely on this information to complete the invoice to DHL. It was evident that many of the invoices were started by Mr. Hiles, but completed by a replacement driver, suggesting that Mr. Hiles did the morning run and someone else did the afternoon run. It was also necessary for Mr. Hiles to rely on the DHL scanner to scan every delivery, or he would not be paid, unless he manually obtained signoff.
+[14] With respect to marketing, Mr. Munro emphasized that the delivery business is extremely competitive, and that marketing was best carried out by the driver providing exemplary service. So, for example, as Mr. Hiles derived considerable work from Shawnigan Drugs, he would make their deliveries and pick up priorities. Drivers might also provide small gifts to their customers.
+[15] With respect to payment, many customers would deal directly with DHL, though some drivers would have to handle cash or cheques. If a customer did not pay, it would was not up to Mr. Hiles to seek collection.
+Analysis
+[16] Several courier company cases have gone through the Courts over the years. Three deal specifically with the status of couriers who have specific geographical areas such as Mr. Hiles (Tiger Courier Inc. v. M.N.R., [2001] T.C.J. No. 123 (Q.L.), Livreur Plus Inc. v. M.N.R., [2004] F.C.J. No.267 (Q.L.), and Greyhound Canada Transportation Corp. v. Lefler and Kummer, [1999] C.L.A.D. No. 155 (Q.L.), although the Greyhound matter was a decision of a Referee in a labour arbitration.). The starting point for analysis of this issue is the oft-quoted comment from Justice Major in the decision of 671122 Ontario Limited v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, where he stated:
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[17] This moves Courts towards a more flexible approach in balancing all significant factors in grappling with the question whether Mr. Hiles was in business on his own account. And it is a fine balancing act - what may weigh heavily in one case may barely tip the scales in another. The facts must be weighed in the context of the view of the overall working arrangement. This is not a science no matter how mechanically at times the analysis must appear to the participants.
+[18] What are the factors then that in this case will assist in determining if Mr. Hiles was in business on his own account: - control - ownership of equipment - use of replacement drivers - financial risk - responsibility for investment and management - opportunity for profit - behaviour as a business person - impact of collective bargaining agreement.
+[19] Control Certainly, DHL had some requirements of its drivers: packages had to be delivered by 9:00 a.m., vehicles had to be a certain size, insurance had to be beyond certain minimums ... yet, are these factors of control that go to the very status of the working relationship? Could a contractor, but not an employee for example, ignore the schedule requirements? No. The Federal Court of Appeal addressed this concern in Livreur Plus Inc. as follows:
+"A contractor who hires the services of subcontractors to perform all or part of the duties it has undertaken to perform for its customers in accordance with a schedule will identify and define what they have to do and ensure that they are available to do it ... .
+The Court should not confuse control over the result or quality of the work with control over its performance by the worker responsible for doing it. ... It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. ...
+The subcontract often assumes a rigid stance dictated by the general contractor's obligation: a person has to take it or leave it. However, its nature is not thereby altered ... .
+A subcontractor is not a person who is free from all of the strain, working as he likes, doing as he pleases, without the slightest concern for his fellow contractors and third parties. He is not a dilettante with a cavalier, or even disrespectful, whimsical or irresponsible attitude. He works within a defined framework but does so independently and outside of the business of the general contractor."
+[20] Control, for purposes of determining whether Mr. Hiles was in business, goes to Mr. Hiles' freedom to organize how he actually performs the work. In that regard, there was little, if any, supervision. Mr. Hiles rarely saw a manager. He picked up at the warehouse in the morning in time to meet his 9:00 a.m. deliveries. He organized the packing of his van to accommodate his preferred itinerary, an itinerary he would choose based on his priorities. For example, he would ensure Shawnigan Drugs was always serviced on a timely basis, as he derived considerable work from that source. He could take breaks when he pleased, go home for lunch and get someone else to do the pickups in the afternoon. Yes, he had to scan each package, but that is not so much a controlling feature of management over employees, but a controlling feature warranted by the nature of the work, not the status of the contract. I conclude Mr. Hiles had a great deal of control over how he performed his obligations; a level certainly more consistent with being in business on his own account.
+[21] Ownership of Equipment I place considerable weight on this factor. Someone in the business of making deliveries requires one vital piece of equipment - a delivery vehicle. Mr. Hiles purchased, serviced and insured that major capital asset. But, argued the Respondent, DHL supplied the company decals to put on the vehicle, supplied the scanner and supplied a uniform. The supply of a uniform does smack more of an employment arrangement, but the scanner does not, as it was unique to DHL. It would serve no useful purpose to Mr. Hiles other than in his working arrangement with DHL; not owning it is not a significant factor.
+[22] While DHL told Mr. Hiles what size vehicle would be required for this particular route, it did not identify a brand, or whether the vehicle need be new or second-hand. The fact remains that Mr. Hiles, not DHL, bought the van. Mr. Hiles also supplied his own cell phone, pens, clipboard and such miscellany. I find Mr. Hiles' ownership of equipment heavily favours an individual carrying on his own business.
+[23] Use of replacement drivers The Appellant's counsel went to some length to establish the regularity with which Mr. Hiles relied upon replacement drivers. It is unnecessary for me to find precisely the number of times that Mr. Hiles used replacement drivers. It is enough that I find he used such drivers often. He did so without first consulting DHL management. He also did so at a rate of pay negotiated between himself and the drivers. The Respondent pointed out that the collective bargaining agreement established a minimum amount to be paid replacement drivers. However, when asked, Mr. Munro, speaking for DHL management, acknowledged that as far as he was concerned, replacement drivers' pay was a matter between Mr. Hiles and his drivers.
+[24] Similarly, the collective bargaining agreement placed a maximum on the number of days a replacement driver could be used (although this restriction was recently removed from the collective bargaining agreement), and also established requirements to be met prior to an owner-operator hiring drivers. Again, DHL management confirmed that these restrictions were not rigorously followed. The fact was replacement drivers were used in excess of any alleged maximum and also without acceding to the company's requirements. While these latter issues might suggest some element of control, they do not override the reality that Mr. Hiles hired, paid and did some training of his own drivers. This is a strong indicator that Mr. Hiles was in business on his own account. A similar finding was made in the Greyhound case, although that was in the context of an arbitration pursuant to the Canada Labour Code, where drivers were likewise restricted under the terms of the collective agreement to a limited number of days.
+[25] Financial Risk Mr. Hiles, like other owner-operators, enjoyed the benefit of a floor on the potential remuneration from DHL. However, he never had to rely on that guaranteed minimum - he always earned above the base. This does not eliminate financial risk altogether. Risk is not an all or nothing concept. This does give the owner-operator a guaranty of how little can be earned. It is for the owner-operator to decide whether the activity is even worthwhile given such a minimum guarantee. There is more to financial risk than just providing the worker a guaranteed minimum. There is the ever-present risk of an accident, a significant risk, given the amount of time spent by Mr. Hiles behind the wheel of his van. That risk was assumed entirely by Mr. Hiles. He also bore the responsibility of all maintenance and repair costs. If any costs resulted from any infraction of laws by Mr. Hiles, again such costs were likewise his responsibility. On balance, Mr. Hiles was exposed to financial risk normally connected with that of a person in business.
+[26] Responsibility for investment and management Investment in acquiring and maintaining a $30.000 to $40,000 van is a major outlay. Managing employees and managing the servicing of customers to retain that competitive edge likewise represents a degree of management of a person in business.
+[27] Opportunity for profit While there is a guaranteed minimum mentioned earlier, the maximum an owner-operator could earn had more to do with the owner-operator's own initiatives, his management of priority of customers, his management of his itinerary and determining whether certain pickups and deliveries were worthwhile, his use of drivers, his negotiation of his rates, his efficient scheduling of maintenance and his overall control of his costs. Mr. Hiles' profitability depended to the greatest extent on his own management, marketing and financial skills - skills of an entrepreneur.
+[28] Behaviour as a businessperson Mr. Hiles' own actions in carrying out the contract with DHL confirms that this is a contract for services. He paid WCB for himself and assumed responsibility to pay WCB for his drivers. He carried his own insurance. He hired employees. He marketed. And, perhaps most telling, was the example given of how Mr. Hiles dealt primarily with a customer problem. He acted like a businessperson.
+[29] Collective Bargaining Agreement The Respondent argues that the collective bargaining agreement reflects an employment relationship between the owner-operators and DHL. In support the Respondent points to the very existence of the Union, and all that entails (union committees, restriction on union activities, mandatory union membership). The Respondent also relies on the following examples of employment-like provisions:
+- exclusive function of management to hire, classify, demote, promote, suspend ...;
+- grievance procedures;
+- seniority provisions;
+- leaves of absence (bereavement, maternity, paternity and medical);
+- requirement to wear protective footwear;
+- provision of uniforms;
+- requirement to attend training or mandatory meetings;
+- requirement to use scanners;
+- Schedule "B" specification for services which covers such items as:
+- prepare and submit accurate reports;
+- load and unload;
+- be clean;
+- drive safely;
+- no drugs or alcohol;
+- keep vehicle secure;
+- take no unauthorized passengers.
+[30] These provisions, which do have an employment flavour to them, must be viewed in the context of how the collective bargaining agreement came to be. The Canada Labour Code defines an employee to include a dependent contractor, and defines a dependent contractor as:
+"(a) the owner, purchaser or lessee of a vehicle used for hauling, other than on rails or tracks, livestock, liquids, goods, merchandise or other materials, who is a party to a contract, oral or in writing, under the terms of which they are
+(i) required to provide the vehicle by means of which they perform the contract and to operate the vehicle in accordance with the contract; and
+(ii) entitled to retain for their own use from time to time any sum of money that remains after the cost of their performance of the contract is deducted from the amount they are paid, in accordance with the contract, for that performance,
+. . .
+(c) any other person who, whether or not employed under a contract of employment, performs work or services for another person on such terms and conditions that they are, in relation to that other person, in a position of economic dependence on, and under an obligation to perform duties for, that other person."
+[31] So, for purposes of Part I of the Canada Labour Code, an employee includes a dependent contractor. Dependent contractors therefore bargain collectively and belong to a Union and will consequently be subject to the type of collective bargaining agreement now before me. Does that however make the dependent contractor an employee for EI purposes?
+[32] The very concept of a dependent contractor denotes an economic dependence, yet it does not necessarily denote submission to the control of the "employer". The term is a hybrid which recognizes space along the continuum of employee to independent contractor somewhere in the middle. For EI purposes, should the emphasis be on dependent or contractor? With respect to Mr. Hiles, I believe the weight is heavier on contractor than dependent.
+[33] Once it is recognized that this hybrid category of dependent contractor falls under the ambit of the Canada Labour Code and therefore can be subject to a collective bargaining agreement, it is not surprising to see the very sort of provisions in such an agreement that the Respondent contends are the indicia of employment. The agreement is spawned by labour legislation. And, yes, there are provisions which go to DHL's control, though many of them are no more indicative of employment than independent contractor; for example, the requirement to use the company's scanner, the requirement to submit reports, to drive safely, to secure the vehicle. Regardless of the nature of the relationship, DHL would, and should, establish such guidelines. There do though remain indicia in the collective bargaining agreement that one would not expect in a true independent contractor relationship; for example, seniority provisions, leaves of absence, restriction to take no unauthorized passengers. This makes this situation a close call. The written agreements evidencing the relationship confirm a relationship of a dependent contractor, someone who for the purposes of the Canada Labour Code is an employee. I find, however, balancing these documents against the reality of what Mr. Hiles did for DHL, and considering the control and economic factors discussed earlier, that in this case "dependent contractor", for employment insurance purposes, is closer to an independent contractor than an employee. Mr. Hiles performed the services pursuant to a contract for services in business on his own account. The appeal is allowed.
+Signed at Ottawa, Canada, this 4th day of March, 2005.
+"Campbell J. Miller"
+Miller J.
+CITATION:
+2005TCC178
+COURT FILE NO.:
+2004-4055(EI) and 2004-4057(CPP)
+STYLE OF CAUSE:
+DHL Express (Canada) Ltd. v. M.N.R.
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+February 9, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+March 4, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Gerald A. Grenon
+Counsel for the Respondent:
+R. Scott McDougall
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Gerald A. Grenon
+Firm:
+Osler, Hoskin & Harcourt LLP
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

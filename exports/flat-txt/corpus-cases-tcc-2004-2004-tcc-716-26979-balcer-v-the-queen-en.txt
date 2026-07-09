@@ -1,0 +1,143 @@
+Title: Balcer v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26979/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-716-26979-balcer-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-10-27
+
+# Balcer v. The Queen
+
+- Citation: 2004 TCC 716
+- Decision date: 2004-10-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 524, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Balcer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-27
+Neutral citation
+2004 TCC 716
+File numbers
+2003-4420(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4420(IT)I
+BETWEEN:
+MARC BALCER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on September 13, 2004 at Montreal, Québec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Antonia Paraherakis
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999, 2000 and 2001 taxation years are dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 27th day of October, 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+Citation: 2004TCC716
+Date: 20041027
+Docket: 2003-4420(IT)I
+BETWEEN:
+MARC BALCER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre Proulx, J.
+[1] These are appeals from assessments for the 1999 to 2001 taxation years. The question at issue is whether the Appellant is entitled to claim the equivalent to spousal tax credit claimed by the Appellant in respect of his son David, under paragraph 118(1)(b) of the Income Tax Act (the "Act").
+[2] In assessing the Appellant, the Minister of National Revenue (the "Minister") made the assumptions of fact described at paragraph 5 of the Reply to the Notice of Appeal (the "Reply") as follows:
+a) the appellant is divorced and has been living separate and apart from his former spouse, Deborah Bourke, during the taxation years in dispute;
+b) three children born issued of the marriage, namely:
+i) Matthew Ryan born on June 2, 1978,
+ii) Daniel Jonathan born on May 22, 1981,
+iii) David born on October 28, 1987;
+c) a Consent Agreement dated November 5, 1996 was signed by the appellant and Deborah Bourke and they both agreed that the present agreement was to be incorporated in the Divorce Proceedings, namely these specific clauses:
+i) the parties declare and agree that Deborah Bourke shall have the legal custody of the three children,
+ii) from January 1st to June 30th of each year, the appellant shall pay to Deborah Bourke, an alimentary pension for Deborah Bourke and the three children, in the amount of $1,190 per month,
+iii) from July 1st to December 31st of each year, the appellant shall pay to Deborah Bourke, an alimentary pension for Deborah Bourke and the three children, in the amount of $1,240 per month;
+d) on January 30, 1997, the Court rendered a judgment of divorce between the appellant and Deborah Bourke, and ratified the Consent signed by the parties, on November 5, 1996;
+e) the appellant, in conformity with the Court order dated January 30, 1997, was required to make alimony payments to Deborah Bourke during the years in dispute.
+[3] Paragraphs 7 and 8 of the Reply read as follows:
+7. He relies on subsection 118(5) of the Income Tax Act, R.S.C. 1985. c. 1 (5th Supp.) as amended (the Act).
+8. He submits that the appellant is not entitled to claim an equivalent-to-spouse amount in respect of his son David, in the calculation of non-refundable tax credits, for the 1999, 2000 and 2001 taxation years, because the said appellant was living separately and apart from his former spouse because of the breakdown of their marriage and was required to make alimony payments for Deborah Bourke and his son David during the said years, in accordance with subsection 118(5) of the Act.
+[4] The Appellant admitted all the facts described at paragraph 5 above.
+[5] However, the Appellant explained that the Consent Judgment referred to at paragraph 5 c) of the Reply, above, took into account the fiscal law as explained by the 1996 Tax Guide. This was the basis of his appeal. For that purpose, he referred the Court to the explanation given at Line 305, entitled "Equivalent to Spouse Amount" for the year 1996:
+You may be able to claim all or part of the $5,380 equivalent-to-spouse amount if, at any time in the year, you were single, divorced, separated, or widowed and, at that time, you supported a dependant who was:
+· under 18, your parent or grandparent, or mentally or physically infirm;
+· related to you by blood, marriage, or adoption;
+· living with you in a home that you maintained; and
+· living in Canada. If the dependant is your child, the child does not have to live in Canada, but must still live with you. ...
+...
+You cannot claim an equivalent-to-spouse amount:
+...
+· For a child for whom you are able to deduct support payments. ...
+[6] The Appellant stated that, by the provisions of the Consent Agreement, he was not entitled to deduct the support payments made for his child. He referred to paragraphs 12 to 15 of this consent agreement:
+12. From January 1st to June 30th of each year, Plaintiff, Marc Chenevert Balcer, shall pay to Plaintiff, Deborah Elizabeth Bourke, an alimentary pension for Plaintiff, Deborah Elizabeth Bourke, and the three children, in the amount of $1,190.00 per month, payable each and every month, by means of two (2) payments each in the sum of $595.00, on the 15th and on the 30th day of each month, at Plaintiff, Deborah Elizabeth Bourke's residence;
+13. From July 1st to December 31st of each year, Plaintiff, Marc Chenevert Balcer, shall pay to Plaintiff, Deborah Elizabeth Bourke, an alimentary pension for Plaintiff, Deborah Elizabeth Bourke, and the three children, in the amount of $1,240.00 per month, payable each and every month, by means of two (2) payments each in the sum of $620.00, on the 15th and on the 30th day of each month, at Plaintiff, Deborah Elizabeth Bourke's residence;
+14. The alimentary pension payable to Plaintiff, Deborah Elizabeth Bourke, shall be indexed each year according to law;
+15. All alimentary pension paid by Plaintiff, Marc Chenevert Balcer, to Plaintiff, Deborah Elizabeth Bourke, shall be tax free, so that Plaintiff, Marc Chenevert Balcer, shall not deduct any alimentary pension payments for income tax purposes, or otherwise, and Plaintiff, Deborah Elizabeth Bourke, shall not be required to declare any alimentary pension payments for income tax purposes, or otherwise;
+Analysis and conclusion
+[7] Subsection 118(5) of the Act, in 1996, read as follows:
+118(5) Alimony and maintenance. Where an individual in computing the individual's income for a taxation year is entitled to a deduction under paragraph 60(b), (c) or (c.1) in respect of a payment for the maintenance of a spouse or child, the spouse or child shall, for the purposes of this section (other than the definition "qualified pension income" in subsection (7)) be deemed not to be the spouse or child of the individual.
+[8] In 1996, the provisions of the Act were such that alimony payments paid to the spouse for her, and or, for her children, if the spouses lived separate, were deductible by the payer and taxable to the recipient. Private agreements cannot change the provisions of the Act and it was these provisions that were described by the interpretation bulletin to which the Appellant referred. The Appellant was therefore entitled to a deduction in respect of a payment for the maintenance of his spouse and child and for the purposes of section 118, the child was deemed not to be the child of the individual. This answers the point raised by the Appellant.
+[9] If I consider the Act as it applied for the years 1999 to 2001, subsection 118(5) now reads as follows:
+118(5) Support- No amount may be deducted under subsection (1) in computing an individual's tax payable under this Part for a taxation year in respect of a person where the individual is required to pay a support amount (within the meaning assigned by subsection 56.1(4)) to the individual's spouse or common-law partner or former spouse or common-law partner in respect of the person and the individual
+(a) lives separate and apart from the spouse or common-law partner or former spouse or common-law partner throughout the year because of the breakdown of their marriage or common-law partnership; or
+(b) claims a deduction for the year because of section 60 in respect of a support amount paid to the spouse or common-law partner or former spouse or common-law partner.
+[10] A "support amount" is defined as follows in subsection 56.1(4) of the Act:
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[11] The Appellant in fact did not dispute that he was required to pay a support amount within the meaning of subsection 56.1(4) of the Act. Counsel for the Respondent referred the Court to the following decisions of this Court: Mymryk v. R., 2003 DTC 1434 and Young v. R., 2003 DTC 169.
+[12] Counsel quoted paragraph 13 of Mymryk (supra):
+[13] In brief general terms, this subsection provides that a taxpayer may not claim any credit for a taxation year under subsection 118(1) of the Act, including the credit with which the Court is presently concerned, in respect of a wholly dependent child, if the taxpayer is required to pay a support amount in respect of that particular child.
+[13] The above decisions confirmed that a taxpayer may not claim a credit under subsection 118(1) of the Act for a person if the taxpayer is required to pay a support amount within the meaning of subsection 56.1(4) of the Act in respect of that person.
+[14] The technical notes regarding the concerned provisions explain that whether or not the payer is entitled to a deduction for child support, it is the recipient spouse who may claim the equivalent to spousal tax credit.
+[15] To conclude, subsection 118(5) of the Act and the definition of support amount in paragraph 56.1(4) of the Act make it clear that where an individual pays a support amount in respect of a person, he is not entitled for that person to the equivalent to married tax credit provided by paragraph 118(1)(b) of the Act.
+[16] The appeals have to be dismissed.
+Signed at Ottawa, Canada, this 27th day of October, 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+CITATION:
+2004TCC716
+COURT FILE NO.:
+2003-4420(IT)I
+STYLE OF CAUSE:
+Marc Balcer and The Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+September 13, 2004
+REASONS FOR JUDGMENT BY:
+The Hon. Louise Lamarre Proulx
+DATE OF JUDGMENT:
+October 27, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Antonia Paraherakis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

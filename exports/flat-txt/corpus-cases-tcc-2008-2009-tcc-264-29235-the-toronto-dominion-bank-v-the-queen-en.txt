@@ -1,0 +1,333 @@
+Title: The Toronto-Dominion Bank v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29235/index.do
+Corpus path: corpus/cases/tcc/2008/2009-tcc-264-29235-the-toronto-dominion-bank-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-09-18
+
+# The Toronto-Dominion Bank v. The Queen
+
+- Citation: 2009 TCC 264
+- Decision date: 2008-09-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7036, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+The Toronto-Dominion Bank v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-18
+Neutral citation
+2009 TCC 264
+File numbers
+2006-1702(GST)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-1702(GST)G
+BETWEEN:
+THE TORONTO-DOMINION BANK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 18, 2008, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Martha K. MacDonald
+D’Arcy Schieman
+Counsel for the Respondent:
+Marilyn Vardy
+Laurent Bartleman
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated January 30, 2004 and bears number 05EP0201284, is dismissed with costs.
+Signed at Ottawa, Canada, this 22nd day of May 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2009TCC264
+Date: 20090522
+Docket: 2006-1702(GST)G
+BETWEEN:
+THE TORONTO-DOMINION BANK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] This appeal is from an assessment made under the Excise Tax Act (the Act) for the period November 1, 1998 to October 31, 1999. The Appellant was assessed on the basis that it had claimed ITCs for the 1996 reporting period (“the 1996 ITCs”) in its 1999 Goods and Services Tax (GST) return (“the 1999 Return”) and these ITCs were statute-barred. It was also assessed a penalty under section 280 of the Act.
+[2] The parties submitted a partial agreed statement of facts which reads:
+AGREED STATEMENT OF FACTS (PARTIAL)
+The parties to this proceeding admit, for the purposes of this proceeding only, the truth of the following facts:
+1. The Appellant’s fiscal period for purposes of the goods and services tax (the “GST”) is November 1 to October 31.
+2. The amount of GST paid or payable by the Appellant to third-party suppliers was:
+a. approximately $56 million for the period from November 1, 1995 to
+October 31, 1996 (the “1996 period”);
+b. approximately $62 million for the period from November 1, 1996 to
+October 31, 1997 (the “1997 period”);
+c. approximately $73 million for the period from November 1, 1997 to
+October 31, 1998 (the “1998 period”); and
+d. approximately $76 million for the period from November 1, 1998 to
+October 31, 1999 (the “1999 period”).
+3. For the 1998 period, the Appellant filed its GST return on January 29, 1999 (the “1998 Return”), a copy of which is included at Tab 19 of the Joint Book of Documents. In its 1998 Return the Appellant claimed input tax credits (“ITCs”) of $13,149,666 as a deduction in computing net tax.
+4. At the time of filing its 1998 Return, the Appellant had obtained invoices showing the amounts of GST paid or payable for supplies purchased in the course of its commercial activities in 1996, 1997 and 1998 periods.
+5. The Appellant retained KPMG to review the amounts of GST paid on payable by the Appellant for certain supplies in its 1996, 1997 and 1998 periods and prepare calculations of the amounts of ITCs to which the Appellant was entitled in respect of those supplies. Before filing its 1998 Return, the Appellant had available and relied upon summaries in the preliminary KPMG schedules dated January 25, 1999 attached at Tab 23 of the Joint Book of Documents (the “Preliminary KPMG Schedules”).
+6. The Appellant claimed a total of $2,313,867 on its 1998 Return in respect of the supplies reviewed by KPMG. According to the Preliminary KPMG Schedules, of the total of $2,313,867, $624,666 was in respect of supplies purchased in its 1996 period, $916,943 was in respect of supplies purchased in its 1997 period and $772,253 was in respect to supplies purchased in its 1998 period.
+7. For the 1999 reporting period, the Appellant filed its GST return on January 31, 2000 (the “1999 Return”), a copy of which is attached at Tab 1 of the Joint Book of Documents. In its 1999 Return, the Appellant claimed ITCs of $18,722,166 as a deduction in computing net tax.
+8. At the time of filing its 1999 Return, the Appellant had obtained invoices showing the amounts of GST paid or payable for supplies purchased in the course of its commercial activities in the 1996, 1997, 1998 and 1999 periods.
+9. Before filing its 1999 Return, the Appellant had available and relied upon summaries in the final KPMG schedules dated in August of 1999 and attached at Tabs 4 to 12 of the Joint Book of Documents (the “Final KPMG Schedules”).
+10. The Minister assessed the Appellant’s 1999 Return in a Notice of (Re)Assessment dated January 30, 2004 (the “1999 Assessment”), a copy of which is attached at Tab 13 of the Joint Book of Documents.
+11. The Minister confirmed the 1999 Assessment in a Notice of Decision dated March 13, 2006, a copy of which is attached at Tab 18 of the Joint Book of Documents.
+The Appellant and Respondent agree that this Agreed Statement of Facts (Partial) does not preclude either party from calling evidence to supplement the facts agreed to herein, provided that such evidence does not contradict the agreed facts.
+[3] The only witness at the hearing was Teresa Ma who is a senior manager of commodity tax with the Appellant.
+[4] The Appellant is a large diversified financial institution carrying on business in Canada. It is a “listed financial institution” as that term is defined in subsection 123(1) of the Act. It has an annual GST reporting period which begins on November 1 of each calendar year. The Appellant’s deadline for filing its GST return for each year is January 31 of the following year.
+[5] It was not disputed by the parties that the Appellant is a “specified person” as that term is defined in subsection 225(4.1) of the Act or that the Appellant had a two year limitation period to claim its ITCs in accordance with subparagraph 225(4)(a)(iii).
+[6] The Appellant engaged KPMG to determine whether the Appellant had miscalculated or failed to claim any additional ITC amounts for the 1996, 1997 and 1998 reporting periods. KPMG began its analysis in November 1998. This review was called the KPMG SALT Recovery Review (“KPMG Recovery Review”).
+[7] KPMG submitted a status report to the Appellant on January 25, 1999. I note that the following items were listed under Preliminary Results on the report:
+· GST Recovery to be included in the 1998 GST Return (please refer to the enclosed preliminary summary)
+· The impact of the preliminary findings on the GST Assessment (discuss)
+· GST Accrual for 1996 ITCs.
+[8] The “Preliminary Summary Schedule” which was enclosed with the status report was as follows:
+Preliminary Summary Schedule
+Toronto Dominion Bank
+Preliminary Results as at January 29, 1999
+KPMG SALT Recovery Review
+Reference
+Description
+QST
+GST/HST
+Amount
+Schedule I
+Wealth Management
+144,332.74
+144,332.74
+Schedule II
+Wealth Management – Dow Jones
+3,691.48
+3,691.48
+Schedule III
+VISA Equipment
+1,223,018.73
+1,223,018.73
+Schedule IV
+Special Loans Unit (Toronto)
+678,252.04
+678,252.04
+Schedule V
+Centralized Accounts Payable Processing
+224,405.78
+224,405.78
+Schedule VI
+Capitalized Software
+52,141.25
+52,141.25
+Schedule VII
+Loan Realization – CGT
+678.50
+59,926.09
+60,604.59
+Schedule VIII
+Stationary Rate Adjustment
+76,122.77
+76,122.77
+Total Refund Claim
+148,702.72
+2,313,866.67
+2,462.569.39
+GST Recovery summarized by year:
+1996 604,820.67
+1997/98 1,709,046.00
+Total 2,313.866.67
+[9] The ITCs claimed by the Appellant in its 1998 return included the total ITCs that had been identified by KPMG up to January 29, 1999.
+[10] In order to calculate the amounts for its 1998 return, the Appellant prepared various exhibits. Exhibit II[1] was a document prepared by the Appellant at the time the 1998 return was filed and was a reference to the ITCs claimed on that return. It was filed with the 1998 return[2]. I will refer to this document as the “1998 Exhibit II”. Among the ITCs detailed under the heading “ITCs Other” on the 1998 Exhibit II were the following which referred to the “KPMG Review”:
+Visa POS Terminals $1,223,019
+Special Loans Unit (Toronto) 678,252
+Centralized A/P Processing 224,406
+Capitalized Software 52,141
+CGT Loan Realizations 59,926
+TDAM Inc. Stationary Rate Adjustment 76,123
+Total $2,313,867
+[11] KPMG finished its Recovery Review in August 1999 and the final total ITCs recovered were $6,913,750.31. As the Appellant had already claimed $2,313,866.66 of these ITCs in its 1998 return, it claimed the difference ($4,599,883) in its 1999 return which it filed on January 31, 2000. The Appellant again prepared and filed various exhibits which gave a breakdown of the amounts reported in its 1999 return. Exhibit II[3] for the 1999 return (“the 1999 Exhibit II”) gave a breakdown of the ITCs claimed in that return. In that exhibit, ITCs in the amount of $4,599,883 were referred to as “KPMG GST 1997 and 1998 ITC recovery”.
+[12] A breakdown of the ITCs recovered by KPMG and claimed in the 1999 return was included in the final KPMG materials as follows:
+1996
+1997
+1998
+Total
+TD Bank
+$1,275,751
+$2,081,446
+$3,556,553
+$6,913,750
+Less Accrued
+in 1998 return
+(1,275,751)
+(1,038,116)
+(2,313,867)
+Net TD Bank
+Recovery to Post in 1999
+GST return
+$1,043,330
+$3,556,553
+$4,599,883
+Total GST
+Recovery to Post in 1999
+GST return
+Due by Jan 31
+2000
+$4,599,883
+[13] The Canada Revenue Agency (CRA) audited the Appellant for its 1998 and 1999 reporting periods. The audits were neither performed at the same time nor by the same auditors.
+[14] An audit plan for the 1998 reporting period was prepared by William Carroll and sent to the Appellant with a letter dated January 21, 2002. However, the audit or at least the last part of the audit was performed by Robert Young who met with Teresa Ma on December 3, 2002. In the initial audit plan, the auditor requested to see the working papers that supported the claim for ITCs per the KPMG review as noted in the 1998 Exhibit II. At the meeting with Teresa Ma, Robert Young was told that the KPMG worksheets were maintained in 10 binders.
+[15] It was Teresa Ma’s evidence that she told Robert Young where he could find the binders and that the binders contained the entire KPMG Recovery Review worksheets. In cross-examination, Teresa Ma estimated that each of the 10 binders containing the KPMG worksheets was 4 or 5 inches thick. I gather from the auditor’s “Summary of ITCs & Adjustments”, where he listed the numbers as set out in the 1998 Exhibit II, that he referred only to the KPMG preliminary results. That is, it appears that he referred only to those results which had been prepared at the time that the 1998 return was filed.
+[16] It would have been helpful to hear from Robert Young and to learn exactly how he conducted the audit of the 1998 return. Robert Young completed his audit at the end of January 2003. He made audit adjustments unrelated to the issue in this appeal. He did not make any audit adjustments with respect to the ITCs in the amount of $2,313,866.66 which had been identified by the KPMG Recovery Review and which had been claimed by the Appellant in its 1998 return.
+[17] The 1998 return became statute barred on January 31, 2003.
+[18] Patricia Chong, Large File Case Auditor, audited the Appellant’s 1999 return. She disallowed the Appellant’s claim for ITCs in the amount of $624,666 on the basis that this amount was statute-barred as it related to the 1996 period. According to the Reply to Notice of Appeal, the amount that should have been disallowed was $651,085.
+[19] Excerpts from Patricia Chong’s discovery testimony were read into evidence at the hearing. She was asked why the KPMG Recovery Review schedules, which were available at the time the 1998 return was prepared, were relevant in auditing the 1999 return. She answered as follows:
+“In order to understand the input tax credits that were claimed in 1999, the way it was presented by the bank, in the schedules supporting their working papers, they showed that the input tax credits that they were claiming in 1999, they arose in – there was a schedule that showed the years that they were related to, so they showed 1996, 1997, and 1998. Then they also showed that of these amounts, a total of $2.3-million was claimed in the 1998 year. Therefore, I had to see exactly whether or not that was true, so it was necessary to look at what was exactly claimed in the 1998 year.”
+Appellant’s Position
+[20] It is the Appellant’s position that its claim for ITCs in the 1999 return related only to GST paid or payable in the 1997 period, 1998 period and 1999 period. At the time the 1999 return was filed, the Appellant had obtained invoices from third party suppliers relating to the amounts of GST paid or payable by it for these periods.
+[21] With respect to the 1998 return, counsel for the Appellant stated that the ITCs claimed related to GST paid or payable during the 1996 period, 1997 period and 1998 period. At the time of filing the 1998 return, the Appellant had obtained invoices from third party suppliers relating to the amounts of GST paid or payable by it in these periods.
+[22] When a registrant files a GST return, it is required only to indicate the amount of ITCs claimed, not the specific documentary source of the ITCs or the period to which any particular ITC relates. As the Appellant had obtained all documentary evidence to support the ITCs claimed in its 1998 return and 1999 return prior to the returns being filed, it met the requirements of subsection 169(4) of the Act and the Input Tax Credit Information GST/HST Regulations.
+[23] Counsel for the Appellant argued that “the wording of paragraph 169(4)(a) of the ETA explicitly contemplated a determination of input tax credits to occur subsequent to the claiming of an input tax credit”. She stated that because the future tense is used in paragraph 169(4)(a), a registrant need only obtain the requisite evidence at the time that the ITCs are claimed; “subsection 169(4) does not require the ‘amount of the input tax credit to [have] been determined at that time’”.
+[24] Finally, it is the Appellant’s position that Parliament’s choice of words suggests that it was most concerned about a registrant being able to support a claim on audit and not with the precision of the registrant’s claims within a relevant limitation period. Neither the Act nor the Input Tax Credit Information GST/HST Regulations required a person to identify on its GST return, the period to which any particular ITC being claimed related.
+[25] In the alternative, counsel argued, if it is found that ITCs in the amount of $651,085 related to the 1996 reporting period and were statute-barred as they were claimed in the 1999 return, then subsection 296(2) applied. This subsection provides that the Minister of National Revenue (the “Minister”) must allow the 1996 ITCs in assessing net tax in the 1998 return.
+Respondent’s Position
+[26] At the time that the Appellant filed its 1998 return, the KPMG Recovery Review had uncovered ITCs in the amount of $624,666 which related to the 1996 reporting year. It was only this amount of ITCs that related to the 1996 reporting period that was claimed in the 1998 return.
+[27] The KPMG Recovery Review identified the remaining ITCs ($651,085) that related to the 1996 reporting period after the 1998 return was filed. This amount was claimed in the 1999 return and was statute-barred.
+[28] With respect to the Appellant’s alternative argument, counsel for the Respondent stated that the subsection 296(2) should have been raised for the 1998 reporting period and not the 1999 reporting period.
+[29] In the Reply, the Minister assumed facts which related to the disallowed 1996 ITCs and also assumed that the ITC recovery rate for the Toronto Special Loans Unit should have been 50% rather than the 92% which was used by the Appellant in its calculation of ITCs for the 1996, 1997 and 1998 reporting periods. It was the Respondent’s position that, if the ITCs claimed in the 1999 return for the Toronto Special Loans Unit pertained only to the 1997 and 1998 reporting periods, then the amount of $260,870 should be disallowed.
+Analysis and Decision
+[30] The relevant statutory provisions are as follows:
+169. (1) General rule for [input tax] credits -- Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+…
+(4) Required documentation -- A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+(b) where the credit is in respect of property or a service supplied to the registrant in circumstances in which the registrant is required to report the tax payable in respect of the supply in a return filed with the Minister under this Part, the registrant has so reported the tax in a return filed under this Part.
+296. (2) Allowance of unclaimed credit -- Where, in assessing the net tax of a person for a particular reporting period of the person, the Minister determines that
+(a) an amount (in this subsection referred to as the "allowable credit") would have been allowed as an input tax credit for the particular reporting period or as a deduction in determining the net tax for the particular reporting period if it had been claimed in a return under Division V for the particular reporting period filed on the day that is the day on or before which the return for the particular reporting period was required to be filed and the requirements, if any, of subsection 169(4) or 234(1) respecting documentation that apply in respect of the allowable credit had been met,
+(b) the allowable credit was not claimed by the person in a return filed before the day notice of the assessment is sent to the person or was so claimed but was disallowed by the Minister, and
+(c) the allowable credit would be allowed, as an input tax credit or deduction in determining the net tax for a reporting period of the person, if it were claimed in a return under Division V filed on the day notice of the assessment is sent to the person or would be disallowed if it were claimed in that return only because the period for claiming the allowable credit expired before that day,
+the Minister shall take the allowable credit into account in assessing the net tax for the particular reporting period as if the person had claimed the allowable credit in a return filed for the period.
+[31] In performing its work, KPMG analyzed the availability of ITCs in various business segments which it identified by Schedules. By January 29, 1999, KPMG had completed its analysis of six business segments for GST purposes. By the time KPMG had finished its review in August 1999, it had performed a GST analysis of seventeen business segments and had identified ITCs that could be recovered from these business segments.
+[32] The evidence in this appeal showed that when the Appellant filed its 1998 return, it claimed the ITCs that KPMG had identified in the amount of $2,313,865. A review of the preliminary schedules that had been prepared by KPMG as of January 25, 1999 and the “KPMG Worksheets for 1999” show that ITCs in the amount of $2,313,865 were applicable to the following years:
+1996
+1997
+1998
+TOTAL
+Visa
+Equipment
+(Schedule 3)
+$387,515.58
+$529,122.61
+$306,380.00
+$1,223,018.73
+Special Loans
+Unit – Toronto
+(Schedule 4)
+172,796.69
+257,641.22
+247,814.13
+678,252.04
+Central
+Accounts
+Payable
+(Schedule 5)
+37,671.49
+186,734.29
+224,405.78
+Capitalized
+Software
+(Schedule 6)
+24,533.03
+10,296.47
+17,311.76
+52,141.25
+Loan
+Realizations
+(CGT type)
+(Schedule 7)
+255.50
+45,655.77
+14,014.82
+59,926.09
+Stationary
+Rate
+Adjustment
+(Schedule 8)
+39,565.00
+36,557.77
+76,122.77
+TOTAL
+$624,665.80
+$916,945.33
+$772,255.00
+$2,313,866.66
+[33] The documentary evidence disclosed that the Appellant could not have claimed 1996 ITCs in the amount of $1,275,751 in the 1998 return. When it filed its 1998 return on January 29, 1999, the Appellant did not know that the additional $651,085 of ITCs for the 1996 reporting period existed. KPMG had only identified $624,665.80 with respect to the 1996 ITCs by January 29, 1999,
+[34] It was also the Appellant’s position that it had claimed $1,038,116 of 1997 ITCs in its 1998 return. However, the documentary evidence disclosed that the 1997 ITCs claimed by the Appellant in its 1998 return was $916,945.33. The amount of $1,038,116 is merely the difference between the total ITCs identified ($2,313,866.66) by January 29, 1999 and the total 1996 ITCs ($1,275,751) identified by the end of the Recovery Review. In cross-examination, Ms. Ma admitted that no specific ITCs identified by the KPMG Recovery Review for the 1997 reporting period could be added to give the sum of $1,038,116.
+[35] Counsel for the Appellant has argued that the Appellant had the documentary evidence to establish the amount of the ITCs at the time the 1998 return was audited and that subsection 169(4) does not require a registrant to determine or calculate the amount of the ITCs until the time of the audit. I do not agree with counsel’s interpretation. Subsection 169(4) cannot be viewed in isolation from the rest of section 169 or for that matter from the Act itself.
+[36] Subsection 169(1) of the Act provides the general rules for determining the amount of an ITC. In the present appeal many of the ITCs had to be determined by using an allocation formula pursuant to subsection 141.01(5) of the Act. Subsection 169(4) sets out the documentation requirements for the ITCs. It requires a registrant to have “obtained sufficient evidence in such form containing such information” prior to filing the return in which the credit is claimed[4]. On a textual, contextual and purposive reading of sections 141.01 and 169 of the Act, a registrant must determine the amounts of its ITC entitlement before it can claim them. In the situation where a registrant determines its ITCs using an allocation formula, subsection 169(4) of the Act requires the registrant to have, prior to filing its return, the information to support the method that it used for allocating its ITCs between taxable and exempt supplies and the evidence and information to substantiate the amount of the ITCs that it claimed.
+[37] It is true that neither the Act nor the Input Tax Credit Information GST/HST Regulations requires a person to identify, on its GST return, the period to which any particular ITC being claimed relates. However, it is inherent in the formula for the calculation of an ITC that the ITC is in respect of a particular reporting period. The “A” in the formula given in subsection 169(1) is the tax in respect of the supply, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable. Likewise the calculation of net tax in section 225 is for a particular period and subsection 225(4) limits the time within which an ITC can be claimed.
+[38] Chief Justice Garon, as he then was, discussed the calculation of net tax in section 225 and in particular, the situation where the ITC being claimed is from a preceding period. In Paquin v. R.[5] he stated:
+15 Therefore, it is necessary to analyze the scope of paragraph a) of point B of the formula in question that deals specifically with input tax credit. The paragraph reads as follows:
+225(1) Subject to this Subdivision, the net tax for a particular reporting period of a person is the positive or negative amount determined by the formula
+A - B
+where
+…
+B is the total of
+(a) all amounts each of which is an input tax credit for the particular reporting period or a preceding reporting period of the person claimed by the person in the return under this Division filed by the person for the particular reporting period, and …
+[16] Paragraph a) of point B specifically sets out the case where an amount that represents an input tax credit and is related to a preceding period may be claimed within a particular period that is later. The juxtaposition of the mention of the particular period and the preceding period in paragraph a) of point B of the above-mentioned formula does not seem to leave any doubt that the legislative intent was to allow a taxpayer to claim input tax credit in a return subsequent to the period during which these credits could have first been claimed. This was the conclusion of Archambault J. of this Court in Metro Exteriors Ltd. v. Canada, (T.C.C.) [1995] G.S.T.C. 62. This provision from paragraph a) of point B is completed by subsection 225(4), which establishes deadlines of four years or two years, depending on the circumstances, to claim input tax credit.
+[17] The above indicates that this right to input tax credit does not exist until it is claimed.
+[39] The Appellant cannot say that the 1996 ITCs were accrued in the 1998 return. Its right to the 1996 ITCs did not exist until they were claimed in a return.
+[40] Based on my finding that the Appellant claimed only $624,666 of its 1996 ITCs in its 1998 return, the remaining 1996 ITCs of $651,085 must have been claimed in the 1999 return. In accordance with subparagraph 225(4)(a)(iii) of the Act, the Appellant had a two year limitation period to claim its ITCs and it was statute-barred from claiming the 1996 ITCs in its 1999 return.
+[41] I do not have to decide whether, in accordance with subsection 296(2), the CRA should have taken the 1996 ITCs in the amount of $651,085 into account in calculating net tax for the 1998 reporting period. That period is not before me.
+[42] The Appellant stated that it relied on in-house expertise and retained outside professionals in an effort to comply with its requirements under the Act. It was the Appellant’s argument that this amounted to due diligence and the penalty under section 280 should be deleted.
+[43] The Federal Court of Appeal in Corporation de L’Ecole Polytechnique v. Canada[6] summarized the principles to be considered when reviewing whether a taxpayer exercised due diligence. The defence of due diligence is not the same as the defence of good faith which allows a person to be forgiven if he made an error of fact in good faith, even if the error was unreasonable. The defence of due diligence is a higher standard as it requires that the error be one which a reasonable person would have made in the same circumstances.
+[44] When the Appellant filed its 1998 return, it knew that the KPMG Recovery Review had not identified all of the possible 1996 ITCs. The Appellant had to know this because KPMG had only completed its review of six business segments. The 1998 Exhibit II filed with the 1998 return gave specific amounts of ITCs that were being claimed in that return. The amount of ITCs claimed in the 1998 return could be directly traced to the business segments analyzed by KPMG and to the specific years reviewed. The Appellant knew that the 1996 ITCs identified after January 29, 1999 were statue-barred. Why else would the Appellant attempt, after the fact, to attribute the total ITCs claimed in the 1998 return in a manner that did not agree with the schedules produced by KPMG.
+[45] In the circumstances of this appeal, I am not satisfied that the Appellant exercised the requisite due diligence.
+[46] The appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 22nd day of May 2009.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2009TCC264
+COURT FILE NO.: 2006-1702(GST)G
+STYLE OF CAUSE: THE TORONTO-DOMINION BANK AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 18, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: May 22, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Martha K. MacDonald
+D’Arcy Schieman
+Counsel for the Respondent:
+Marilyn Vardy
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Martha K. MacDonald
+D’Arcy Schieman
+Firm: Osler, Hoskins & Harcourt LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit AR-1 at tab 21.
+[2] Evidence of Teresa Ma.- Transcript page 41.
+[3] Exhibit AR-1 at tab 3.
+[4] Key Property Management Corporation v. The Queen, 2004 TCC 210 at paragraph 14
+[5] 2004 TCC 597 at paragraphs 16 and 17.
+[6] 2004 FCA 127 at paragraphs 27, 28 and 29.

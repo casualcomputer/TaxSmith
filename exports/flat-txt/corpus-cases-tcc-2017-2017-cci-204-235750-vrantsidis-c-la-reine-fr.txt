@@ -1,0 +1,232 @@
+Title: Vrantsidis c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/235750/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-204-235750-vrantsidis-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-10-05
+
+# Vrantsidis c. La Reine
+
+- Citation: 2017 CCI 204
+- Decision date: 2017-10-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2185, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vrantsidis c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-10-05
+Référence neutre
+2017 CCI 204
+Numéro de dossier
+2016-5094(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-5094(IT)I
+ENTRE :
+TYLA-LEE VRANTSIDIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 19 juin 2017, à Belleville (Ontario).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Représentant de l’appelante :
+William McDiarmid (étudiant en droit)
+Avocat de l’intimée :
+Me Cédric Renaud Lafrance
+JUGEMENT
+L’appel de la détermination datée du 26 octobre 2015, établie par la ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu et concernant le droit de l’appelante au crédit d’impôt pour personnes handicapées pour Jon-Douglas Vrantsidis pour l’année d’imposition 2015, est rejeté, conformément aux motifs du jugement qui suivent.
+Signé à Ottawa, Canada, ce 5e jour d’octobre 2017.
+« Réal Favreau »
+Juge Favreau
+Référence : 2017 CCI 204
+Date : 20171005
+Dossier : 2016-5094(IT)I
+ENTRE :
+TYLA-LEE VRANTSIDIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel d’une détermination datée du 26 octobre 2015, établie en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), modifiée, (la « Loi ») par le ministre du Revenu national (le « ministre ») au sujet de l’admissibilité de l’appelante au crédit d’impôt pour personnes handicapées (le « CIPH ») pour Jon‑Douglas Vrantsidis (« Jon‑Douglas ») pour l’année d’imposition 2015.
+[2] En établissant l’avis de détermination daté du 26 octobre 2015, le ministre a déterminé que le fils de l’appelante n’était pas admissible au CIPH, parce qu’il ne répond pas aux critères indiqués au paragraphe 118.4(1) de la Loi.
+[3] En déterminant l’admissibilité au CIPH en vertu du paragraphe 152(1.01) de la Loi, le ministre a tenu pour acquis les faits suivants, établis au paragraphe 7 de la réponse à l’avis d’appel :
+a) Jon‑Douglas est le fils et la personne à charge de l’appelante;
+b) Jon‑Douglas ne présente aucune déficience mentale ou physique grave pour laquelle on peut raisonnablement s’attendre à ce qu’elle se poursuive sans interruption pendant au moins 12 mois;
+c) Jon‑Douglas ne présente aucune déficience mentale ou physique grave dont les répercussions sont telles qu’elles limitent manifestement sa capacité à mener une activité courante de la vie quotidienne;
+d) Jon‑Douglas ne présentait aucune déficience mentale ou physique grave dont les répercussions cumulatives sont telles qu’elles limitaient manifestement sa capacité à mener plus d’une activité courante de la vie quotidienne dans la même mesure qu’une activité de la vie quotidienne;
+e) Jon‑Douglas n’a pas attesté [sic] dans un formulaire prescrit qu’au moins une de ses déficiences mentales ou physiques était grave et qu’elle entraînait les répercussions décrites aux alinéas 7 c) ou 7 d) susmentionnés.
+[4] L’appelante a témoigné. Elle est conductrice d’autobus scolaire et superviseure à temps partiel, les samedis et dimanches, au Dairy Queen près de chez elle. Elle a expliqué qu’on a diagnostiqué chez son fils une hyperactivité avec déficit de l’attention et qu’il éprouve des troubles d’apprentissage depuis qu’il a six ans.
+[5] Son fils est maintenant âgé de 19 ans. Au cours de l’été 2016, il a terminé sa 12e année dans le délai habituel, avec l’aide et sous la supervision de ses enseignants. Il suit des cours de conduite, mais ne possède pas encore son permis de conduire. En novembre 2016, il a commencé à travailler au Dairy Queen situé près du domicile de sa mère. Il y travaille trois jours par semaine, pour un total de cinq à six heures par semaine. Il aide dans la cuisine, s’occupe des déchets et nettoie les tables, mais il n’interagit pas avec les clients.
+[6] Il ne pratique aucun sport, mais aime jouer à des jeux vidéo. Il aime particulièrement jouer en ligne avec sa console Xbox avec ses trois amis.
+[7] Le fils de l’appelante s’est inscrit à un programme universitaire en musique et en médias numériques au Collège St‑Laurent pour la session de l’automne 2017. Le formulaire de confirmation d’invalidité, que l’appelante a rempli le 19 mai 2017, contient les renseignements qui suivent :
+a) à la section 2 – Type d’invalidité ou diagnostic : le diagnostic est un trouble déficitaire de l’attention/hyperactivité (TDAH) (invalidité liée à l’attention ou à la concentration);
+b) à la section 3a – Limitations fonctionnelles : Effets sur le fonctionnement physique : aucun effet;
+c) à la section 3b – Limitations fonctionnelles : Effets sur le fonctionnement cognitif ou comportemental : les cases suivantes ont été cochées :
+- attention et concentration;
+- gestion du stress;
+- traitement de l’information (orale ou écrite);
+- communication;
+- mémoire (court terme);
+- interactions sociales;
+- organisation et gestion du temps;
+- régulation émotionnelle;
+voici la description faite des effets :
+- difficulté à maintenir son attention et sa concentration;
+- difficulté à apprendre, à lire et à écrire;
+- peut se fâcher rapidement et bouge beaucoup;
+- facilement distrait en groupe;
+d) à la section 4 – Effets des médicaments sur le fonctionnement : la case « oui » est cochée pour la question : le patient prend‑il actuellement des médicaments d’ordonnance susceptibles de se faire sentir sur sa participation dans un environnement scolaire et l’effet décrit est : « le fonctionnement s’est grandement amélioré avec la prise de médicaments »;
+e) à la section 5 – Soutiens recommandés : les réponses sont les suivantes :
+- le patient pourrait avoir une charge de cours réduite;
+- le patient a besoin d’un équipement ou de services spécialisés pour suivre des études postsecondaires;
+f) à la section 6 – État de l’invalidité : Le praticien de la santé, (infirmière) Melissa Maurus‑Liben, a confirmé que l’étudiant est un patient du centre communautaire de la région de Napanee depuis plus de deux ans et que son invalidité est permanente.
+[8] Le certificat pour le crédit d’impôt pour personnes handicapées (formulaire T2201) rempli par l’appelante avec l’Agence du revenu du Canada (« ARC ») le 15 juillet 2015, contient les renseignements médicaux suivants sur Jon‑Douglas Vrantsidis, fournis par R. van Wylick, médecin :
+a) aucune invalidité pour voir, parler, entendre, marcher, évacuer (fonctions intestinales ou vésicales), manger et s’habiller;
+b) À la section intitulée « Fonctions mentales nécessaires aux activités de la vie courante », on a répondu « oui » aux questions suivantes :
+(i) Votre patient est-il limité de façon marquée dans sa capacité d’effectuer les fonctions mentales nécessaires aux activités de la vie courante, tel qu’il est décrit ci-dessus?
+(ii) La limitation marquée dans sa capacité d’effectuer les fonctions mentales nécessaires aux activités de la vie courante est‑elle toujours ou presque toujours (au moins 90 % du temps) présente?
+et la réponse à la question « en quelle année votre patient est-il devenu limité de façon marquée dans sa capacité d’effectuer les fonctions mentales nécessaires aux activités de la vie courante? » était « année 2006 » ;
+c) pour les sections intitulées « Soins thérapeutiques essentiels » et « Effet cumulatif des limitations considérables », on a indiqué « sans objet »;
+d) à la section « Effets de la déficience », on a répondu ainsi : [traduction] « prend plus de temps pour prendre des décisions indépendantes et a besoin de temps supplémentaire et d’aide pour accomplir ses tâches scolaires. L’attention est beaucoup plus courte que celle prévue pour l’âge » et le diagnostic était le suivant : [traduction] « TDAH et troubles d’apprentissage »;
+e) à la section « Durée », on a répondu « non » à la question « La déficience de votre patient a-t-elle duré ou est-il raisonnable de s’attendre à ce qu’elle dure au moins 12 mois consécutifs? »
+[9] Étant donné que le Dr R. Van Wylick n’a pas fourni suffisamment de renseignements à la section « Effets de la déficience » du Certificat pour le crédit d’impôt pour personnes handicapées, l’ARC lui a envoyé une lettre datée du 21 août 2015, ainsi qu’un questionnaire. Dans cette lettre, elle lui demandait de fournir des renseignements supplémentaires qui pourraient contribuer à préciser les effets de la déficience de son patient sur sa capacité à accomplir chacune des activités courantes de la vie quotidienne qui sont ou qui étaient limitées de façon marquée; en l’espèce, les fonctions mentales nécessaires aux activités de la vie courante. Voici l’échange entre les deux :
+[traduction]
+Q.1 Votre patient est‑il en mesure d’exercer ses habiletés de la vie quotidienne au niveau attendu chez un adolescent du même âge (p. ex., hygiène personnelle, sortir dans la communauté et faire un achat simple)?
+R. Oui.
+Q.2 Votre patient peut‑il exprimer ses besoins de base et répondre de manière appropriée aux interactions sociales par rapport à un adolescent du même âge?
+R. Oui.
+Q.3 Votre patient peut‑il prendre des décisions et exercer un jugement approprié dans des situations courantes à un niveau attendu chez un adolescent du même âge?
+R. Non.
+Exemples propres à votre patient :
+R. Il peut être très impulsif, ce qui peut mettre en péril ses relations.
+Q.4 Votre patient a‑t‑il besoin d’un soutien individuel pour fonctionner à la maison et à l’école?
+R. Non.
+Q.5 Votre patient présente‑t‑il un déficit grave de la mémoire (p. ex., incapable de se souvenir de renseignements personnels de base, comme son adresse ou son numéro de téléphone, ou sa conception du temps est-elle affaiblie)?
+R. Non.
+Q.6 Votre patient peut‑il s’adapter à des changements mineurs à son environnement ou à sa routine quotidienne?
+R. Oui.
+Q.7 Veuillez indiquer l’année où les limitations indiquées dans les réponses aux questions précédentes ont commencé.
+R. 2003
+Q.8 Est‑il probable que la capacité de votre patient à effectuer les fonctions mentales nécessaires aux activités de la vie courante s’améliore (p. ex., avec des médicaments ou une thérapie)?
+R. Incertain
+Q.9 La déficience de votre patient a-t-elle duré ou devrait-elle durer au moins 12 mois consécutifs?
+R. Oui.
+Dispositions législatives
+[10] Le crédit d’impôt pour déficience mentale ou physique est prévu à l’article 118.3 de la Loi, tandis que la nature de la déficience requise aux fins du crédit est décrite à l’article 118.4 de la Loi. Les parties pertinentes des articles 118.3 et 118.4 sont reproduites à la fin du présent document en tant qu’annexe.
+Analyse
+[11] Afin d’être admissible au CIPH, les conditions suivantes doivent être réunies :
+a) la personne doit avoir une déficience grave et prolongée des fonctions physiques ou mentales;
+b) cette déficience doit donner lieu à une limitation « marquée » ou « importante » d’au moins une des « activités de la vie courante »;
+c) un médecin doit fournir un certificat de la déficience dans le formulaire prescrit.
+[12] Le CIPH est destiné aux personnes gravement handicapées, qui éprouvent de la difficulté à mener des activités de la vie courante, comme se nourrir ou s’habiller, évacuer (fonctions intestinales ou vésicales), marcher ou avoir une conversation simple. Cette invalidité peut toucher les fonctions mentales nécessaires aux activités de la vie courante, y compris la mémoire, la résolution de problèmes, l’établissement de buts et le jugement (ensemble) et l’apprentissage fonctionnel à l’indépendance, dans la mesure où elles sont suffisamment graves pour nuire à l’accomplissement d’activités de base en ce qui a trait aux soins personnels. Les dispositions législatives prévoient aussi que la personne, pour être limitée de façon marquée dans ses fonctions mentales nécessaires aux activités de la vie courante, doit être toujours ou presque toujours incapable d’effectuer toutes ces fonctions mentales ou a besoin d’un temps excessif pour les effectuer.
+[13] Vu la preuve qui m’est présentée, je ne suis pas en mesure de conclure que Jon‑Douglas présente une ou plusieurs déficiences mentales ou physiques graves dont les répercussions sont telles qu’elles limitent de façon marquée sa capacité d’effectuer toujours ou presque toujours les fonctions mentales nécessaires aux activités de la vie courante.
+[14] Jon‑Douglas a terminé sa 12e année à temps. Il occupe un emploi à temps partiel, joue de la guitare et joue à des jeux vidéo, est inscrit à un programme de musique et de médias numériques et suit des cours de conduite. Il ne présente aucune invalidité pour voir, parler, entendre, marcher, évacuer (fonctions intestinales ou vésicales), manger et s’habiller. Son fonctionnement s’est grandement amélioré grâce aux médicaments d’ordonnance.
+[15] Jon‑Douglas et sa mère ont élaboré des stratégies pour atténuer cette difficulté à se souvenir de certaines choses ou à traiter de l’information, en consacrant plus de temps à ses études et en affichant des notes ou des listes de choses à faire.
+[16] Dans ces circonstances, les effets du TDAH de Jon‑Douglas ne sont pas suffisamment graves pour répondre au sens du terme « limité de façon marquée » requis pour être admissible au CIPH.
+[17] Étant donné que Jon‑Douglas n’est pas admissible au CIPH en vertu du paragraphe 118.3(1) de la Loi dans le calcul de son impôt à payer pour une année d’imposition donnée, l’appelante ne peut demander aucun montant au titre du CIPH dans le calcul de son impôt à payer pour une année d’imposition donnée, conformément au paragraphe 118.3(2) de la Loi.
+[18] Par conséquent, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 5e jour d’octobre 2017.
+« Réal Favreau »
+Le juge Favreau
+RÉFÉRENCE :
+2017 CCI 204
+NO DU DOSSIER DE LA COUR :
+2016-5094(IT)I
+INTITULÉ :
+Tyla-Lee Vrantsidis c. La Reine
+LIEU DE L’AUDIENCE :
+Belleville (Ontario)
+DATE DE L’AUDIENCE :
+Le 19 juin 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 5 octobre 2017
+COMPARUTIONS :
+Représentant de l’appelante :
+William McDiarmid
+Avocat de l’intimée :
+Me Cédric Renaud Lafrance
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[BLANK/EN BLANC]
+Cabinet :
+[BLANK/EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+ANNEXE
+118.3(1) Crédit d’impôt pour déficience mentale ou physique. Si les conditions suivantes sont réunies :
+a) le particulier a une ou plusieurs déficiences graves et prolongées des fonctions physiques ou mentales;
+a.1) les effets de la ou des déficiences sont tels que la capacité du particulier d’accomplir plus d’une activité courante de la vie quotidienne est limitée de façon importante si les effets cumulatifs de ces limitations sont équivalents au fait d’être limité de façon marquée dans la capacité d’accomplir une activité courante de la vie quotidienne, ou sont tels que la capacité du particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence de soins thérapeutiques qui, à la fois :
+(i) sont essentiels au maintien d’une fonction vitale du particulier,
+(ii) doivent être administrés au moins trois fois par semaine pendant une durée totale moyenne d’au moins 14 heures par semaine,
+(iii) selon ce à quoi il est raisonnable de s’attendre, n’ont pas d’effet bénéfique sur des personnes n’ayant pas une telle déficience;
+a.2) s’il s’agit d’une déficience des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir une seule activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence des soins thérapeutiques mentionnés à l’alinéa a.1), un médecin en titre, un infirmier praticien ou, dans chacun des cas ci-après, la personne mentionnée en regard du cas atteste, sur le formulaire prescrit, qu’il s’agit d’une déficience grave et prolongée des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence de ces soins :
+(i) s’il s’agit d’une déficience visuelle, un optométriste,
+(ii) s’il s’agit d’un trouble de la parole, un orthophoniste,
+(iii) s’il s’agit d’une déficience auditive, un audiologiste,
+(iv) s’il s’agit d’une déficience quant à la capacité de s’alimenter ou de s’habiller, un ergothérapeute,
+(v) s’il s’agit d’une déficience quant à la capacité de marcher, un ergothérapeute ou, après le 22 février 2005, un physiothérapeute,
+(vi) s’il s’agit d’une déficience des fonctions mentales nécessaires aux activités de la vie courante, un psychologue;
+a.3) s’il s’agit d’une ou de plusieurs déficiences des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir plus d’une activité courante de la vie quotidienne est limitée de façon importante, l’une des personnes ci-après atteste, sur le formulaire prescrit, que la ou les déficiences sont des déficiences graves et prolongées des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir plus d’une activité courante de la vie quotidienne est limitée de façon importante et que les effets cumulatifs de ces limitations sont équivalents au fait d’être limité de façon marquée dans la capacité d’accomplir une seule activité courante de la vie quotidienne :
+(i) s’il s’agit d’une déficience quant à la capacité de marcher, de s’alimenter ou de s’habiller, un médecin en titre, un infirmier praticien ou un ergothérapeute,
+(ii) s’il s’agit d’une autre déficience, un médecin en titre ou un infirmier praticien;
+b) le particulier présente au ministre l’attestation visée aux alinéas a.2) ou a.3) pour une année d’imposition;
+c) aucun montant représentant soit une rémunération versée à un préposé aux soins du particulier, soit des frais de séjour du particulier dans une maison de santé ou de repos, n’est inclus par le particulier ou par une autre personne dans le calcul d’une déduction en application de l’article 118.2 pour l’année (autrement que par application de l’alinéa 118.2(2)b.1)).
+Le montant déductible est déterminé selon la formule suivante :
+A x (B + C)
+où :
+A représente le taux de base pour l’année;
+B 6 000 $
+C :
+a) si le particulier n’a pas atteint l’âge de 18 ans avant la fin de l’année, l’excédent éventuel de 3 500 $ sur l’excédent éventuel, sur 2 050 $, du total des montants représentant chacun un montant payé au cours de l’année pour le soin ou la surveillance du particulier et inclus dans le calcul de la déduction prévue aux articles 63, 64 ou 118.2 pour une année d’imposition,
+b) dans les autres cas, zéro.
+118.3(2) Personne déficiente à charge Dans le cas où :
+a) d’une part, le particulier demande pour l’année, pour cette personne, une déduction prévue au paragraphe 118(1), soit par application de l’alinéa 118(1)b), soit, si la personne est le père, la mère, le grand-père, la grand-mère, un enfant, un petit-enfant, le frère, la sœur, la tante, l’oncle, le neveu ou la nièce du particulier ou de son époux ou conjoint de fait, par application de l’alinéa 118(1)d), ou aurait pu demander une telle déduction pour l’année si cette personne n’avait eu aucun revenu pour l’année et avait atteint l’âge de 18 ans avant la fin de l’année et, dans le cas de la déduction prévue à l’alinéa 118(1)b), si le particulier n’avait pas été marié ou n’avait pas vécu en union de fait;
+b) d’autre part, le particulier ou une autre personne n’inclut dans le calcul d’une déduction en application de l’article 118.2 pour l’année aucun montant représentant une rémunération versée à un préposé ou des frais de séjour dans une maison de santé ou de repos, en raison de la déficience mentale ou physique de cette personne (autrement que par application de l’alinéa 118.2(2)b.1)).
+. . .
+118.3(4) Renseignements supplémentaires. Lorsqu’une déduction est demandée en vertu du présent article ou de l’article 118.8 relativement à la déficience d’un particulier, les règles suivantes s’appliquent :
+a) toute personne visée aux paragraphes (1) ou (2) ou à l’article 118.8 relativement à la demande doit fournir par écrit les renseignements que le ministre lui a demandés par écrit concernant la déficience du particulier, ses effets sur lui et, le cas échéant, les soins thérapeutiques mentionnés à l’alinéa (1)a.1) qui doivent être administrés;
+b) les renseignements ainsi fournis par une personne visée aux alinéas (1)a.2) ou a.3) sont réputés figurer dans une attestation établie en la forme prescrite.
+118.4(1) Déficience grave et prolongée. Pour l’application du paragraphe 6(16), des articles 118.2 et 118.3 et du présent paragraphe :
+a) une déficience est prolongée si elle dure au moins 12 mois d’affilée ou s’il est raisonnable de s’attendre à ce qu’elle dure au moins 12 mois d’affilée;
+b) la capacité d’un particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, même avec des soins thérapeutiques et l’aide des appareils et des médicaments indiqués, il est toujours ou presque toujours aveugle ou incapable d’accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif;
+b.1) un particulier n’est considéré comme ayant une limitation équivalant au fait d’être limité de façon marquée dans la capacité d’accomplir une activité courante de la vie quotidienne que si sa capacité d’accomplir plus d’une activité courante de la vie quotidienne (y compris, à cette fin, la capacité de voir) est toujours ou presque toujours limitée de façon importante malgré le fait qu’il reçoit des soins thérapeutiques et fait usage des instruments et médicaments indiqués, et que si les effets cumulatifs de ces limitations sont équivalents au fait d’être limité de façon marquée dans la capacité d’accomplir une activité courante de la vie quotidienne;
+c) sont des activités courantes de la vie quotidienne pour un particulier :
+i) les fonctions mentales nécessaires aux activités de la vie courante,
+(ii) le fait de s’alimenter ou de s’habiller,
+(iii) le fait de parler de façon à se faire comprendre, dans un endroit calme, par une personne de sa connaissance,
+(iv) le fait d’entendre de façon à comprendre, dans un endroit calme, une personne de sa connaissance,
+(v) les fonctions d’évacuation intestinale ou vésicale,
+(vi) le fait de marcher;
+c.1) sont compris parmi les fonctions mentales nécessaires aux activités de la vie courante :
+(i) la mémoire,
+(ii) la résolution de problèmes, l’atteinte d’objectifs et le jugement (considérés dans leur ensemble),
+(iii) l’apprentissage fonctionnel à l’indépendance;
+d) il est entendu qu’aucune autre activité, y compris le travail, les travaux ménagers et les activités sociales ou récréatives, n’est considérée comme une activité courante de la vie quotidienne;
+e) le fait de s’alimenter ne comprend pas :
+(i) les activités qui consistent à identifier, à rechercher, à acheter ou à se procurer autrement des aliments,
+(ii) l’activité qui consiste à préparer des aliments, dans la mesure où le temps associé à cette activité n’y aurait pas été consacré en l’absence d’une restriction ou d’un régime alimentaire;
+f) le fait de s’habiller ne comprend pas les activités qui consistent à identifier, à rechercher, à acheter ou à se procurer autrement des vêtements.
+118,4(2) professionnels de la santé titulaires d’un permis d’exercice Tout audiologiste, dentiste, ergothérapeute, infirmier, infirmier praticien, médecin, médecin en titre, optométriste, orthophoniste, pharmacien, physiothérapeute ou psychologue visé aux articles 63, 64, 118.2, 118.3 et 118.6 doit être autorisé à exercer sa profession :
+a) par la législation applicable là où il rend ses services, s’il est question de services;
+b) s’il doit délivrer une attestation concernant un particulier, soit par la législation applicable là où le particulier réside, soit par la législation provinciale applicable;
+c) s’il doit délivrer une ordonnance pour des biens à fournir à un particulier ou destinés à être utilisés par un particulier, soit par la législation applicable là où le particulier réside, soit par la législation provinciale applicable, soit enfin par la législation applicable là où les biens sont fournis.

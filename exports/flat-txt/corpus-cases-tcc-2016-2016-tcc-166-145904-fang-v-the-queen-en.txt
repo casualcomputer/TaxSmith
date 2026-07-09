@@ -1,0 +1,125 @@
+Title: Fang v.  The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/145904/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-166-145904-fang-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-07-05
+
+# Fang v.  The Queen
+
+- Citation: 2016 TCC 166
+- Decision date: 2016-07-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2918, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fang v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-07-05
+Neutral citation
+2016 TCC 166
+File numbers
+2016-398(OAS)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Old Age Security Act
+Decision Content
+Docket: 2016-398(OAS)
+BETWEEN:
+HONGLIE FANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on June 22, 2016, at Calgary, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mary Softley
+REFERENCE OF THE APPELLANT’S
+APPEAL PURSUANT TO THE OLD AGE SECURITY ACT
+This matter is referred back to the Social Security Tribunal of Canada on the following basis:
+(i) The Appellant’s spouse’s social assistance payment from Italy is determined to be € $6,711 or $8,623, and therefore the total combined income for the 2012 taxation year for purposes of determining the Appellant’s GIS eligibility is reduced to $15,950.29l; and
+(ii) There is no change to income for the 2010 and 2011 taxation years.
+Signed at Ottawa, Canada, this 5th day of July 2016.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2016 TCC 166
+Date: 20160705
+Docket: 2016-398(OAS)
+BETWEEN:
+HONGLIE FANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR REFERENCE OF THE APPELLANT’S
+APPEAL PURSUANT TO THE OLD AGE SECURITY ACT
+C. Miller J.
+[1] This is a reference from the Social Security Tribunal of Canada of Mr. Fang’s Appeal, seeking the Tax Court of Canada’s ruling on the amount of income Mr. Fang must include in the determination of his eligibility to the Guaranteed Income Supplement (“GIS”) for the period April 2012 to June 2014.
+[2] Mr. Fang has two concerns with respect to the Government’s determination of his income. First, that the Government was incorrect in its assessment of Mr. Fang’s Italian’s pension income for 2010, 2011 and 2012. Second, the Government was incorrect in including Mr. Fang’s wife social assistance payments from Italy for 2010, 2011 and 2012 in calculating Mr. Fang’s GIS eligibility.
+[3] With respect to the first issue, Mr. Fang presented documents from Italy indicating his pension income was slightly less than the amount relied upon by the Minister of National Revenue (the “Minister”). The Minister likewise took information from an Italian report. Both reports were from Istituto Nazionale Previdenza Sociale (“INPS”). The differences between the two reports submitted by the Respondent and the Appellant were minor, 5 or 10 Euros. For example, for 2010, the INPS report relied upon by the Minister reported € $5,469 while the report relied upon by Mr. Fang reported € $5,464. This amount would, I suggest, make little, if any, difference to Mr. Fang’s entitlement to GIS. I see no need to change the Minister’s determination on this point, especially as the report from INPS that the Minister relied upon certified as follows:
+For the purpose of the application in Your favour of the Agreement between Italy and Canada pertaining to double taxation, we hereby inform You that pension n. 13302520 type VO paid to You by this Institution for year 2010 amounts to € 5,469.62.
+[4] The more significant issue is whether or not Mr. Fang’s wife, Ms. Fu, must include her social assistance payments from Italy in income for the determination of Mr. Fang’s GIS entitlement.
+[5] Ms. Fu explained that the amounts she received as social assistance from Italy were different from Mr. Fang’s pension, as her amount was based on an income or needs determination, whereas Mr. Fang’s was a normal pension based on contributions while living and working in Italy.
+[6] Mr. Fang and Ms. Fu emigrated to Canada from Italy in 2002 and Mr. Fang started receiving Old Age Security (“OAS”) payments in 2005. Ms. Fu did not dispute the accuracy of the amounts relied upon by the Government as representing her social assistance received from Italy.
+[7] Mr. Fang testified that when he applied for the GIS entitlement, he understood the form to indicate social assistance payments were not to be included in the calculation. He gave me a copy of that application. Part of the form explained as follows:
+Foreign pension income must be reported whether it is paid in Canada or abroad. You must report total benefits if they are income for Canadian income tax purposes, even if the income is exempt from taxation under an income tax treaty. These payments would include all employment pensions, social security benefits and war service pensions.
+[8] The application also included a table called “Comparison between Guaranteed Income Supplement Renewal Application and Canada Revenue Agency Income Tax and Benefit Return”. Ms. Fu suggested that because this comparison did not refer to line 145 of the income tax return, the line on which she reported her Italian social assistance payments, and because the explanatory notes appeared to exclude Canadian social assistance like-payments, she presumed that similar foreign payments would likewise be excluded. This is an understandable result and certainly one which I conclude was made honestly. Ms. Fu and Mr. Fang were forthright, open, honest witnesses, who have had to deal with complex legislation and some considerable delays from the Government, as well as incorrect information from the Government. For example, the Government in one correspondence suggested Mr. Fang could receive no help from a tax treaty as there was no tax treaty between Canada and Italy. There is in fact such a tax treaty. I can certainly appreciate Mr. Fang and Ms. Fu’s frustration, yet they remained respectful and courteous in their dealings with the Government, and certainly were with this Court. They are to be commended for their behaviour in light of the runaround from the Government.
+[9] However, the behaviour of Government officials is not something that is before this Court. The only issue is whether a spouse’s foreign social assistance payment is properly included in income for purposes of determining an applicant’s GIS eligibility.
+[10] It is clear from a review of the Old Age Security Act, specifically sections 10 to 18, that Mr. Fang’s entitlement to GIS is determined based on his income combined with his spouse’s income. Further, income for this purpose is income calculated in accordance with the Income Tax Act (the “ITA”) with certain exceptions, one of which is the following, taken from section (c)(iii) of the definition of income in the Old Age Security Act:
+(iii) the amount of any social assistance payment made on the basis of a means, a needs or an income test by a registered charity as defined in subsection 248(1) of the Income Tax Act or under a program provided for by an Act of Parliament or a provincial legislature that is neither a program prescribed under the Income Tax Act nor a program under which the amounts referred to in subparagraph (i) are paid,
+This exception does not include foreign social assistance.
+[11] Turning then to the concept of income under the ITA, the starting point is section 3 which includes all amounts each of which is a taxpayer’s income from the year from a source inside or outside Canada. Section 56(1) of the ITA goes on to indicate:
+Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+(a) Any amount received by the taxpayer in the year as, on account or in lieu of payment of, or in satisfaction of,
+(i) a superannuation or pension benefit including, without limiting the generality of the foregoing,
+...
+(C.1) the amount of any payment out of or under a foreign retirement arrangement established under the laws of a country, except to the extent that the amount would not, if the taxpayer were resident in the country, be subject to income taxation in the country,
+…
+(u) a social assistance payment made on the basis of a means, needs or income text and received in the year by
+…
+[12] The issue is therefore whether the social assistance payments received by Ms. Fu from Italy is a foreign retirement arrangement not subject to tax in Italy as contemplated by clause 56(1)(a)(i)(C.1) of the ITA, in which case it would not be included in income for purposes of determining the eligibility to GIS, or a social assistance payment made on the basis of means, needs or income test, in which case it is to be included in income for purposes of determining the GIS eligibility.
+[13] Ms. Fu effectively answered this question when she described the difference between Mr. Fang’s “normal pension” as she put it, which Mr. Fang had contributed to, compared to her means or income based social assistance payment, which Ms. Fu did not contribute to. I accept her evidence that her payment would not have been taxable in Italy, but I find on balance the payment is more aptly described in subsection 56(u) of the ITA as a social assistance payment made on the basis of a means, needs or income test. That is precisely how Ms. Fu described her payment, not as a retirement arrangement. It is income therefore to be included in determining Mr. Fang’s GIS entitlement.
+[14] While I understand some confusion arising from the comparison table accompanying the GIS application, I find the explanation in the notes are clear, and do not specifically exclude foreign social assistance from income.
+[15] The Respondent did indicate that the Minister had incorrectly determined Ms. Fu’s income in 2012 to be $8,053, when in fact it was only € $6,711. The Minister’s income determinations for 2010 and 2011 are correct. The 2012 income is altered to reflect the decrease to € $6,711 leaving a combined income of $15,950.29 for 2012, and that amount is referred back to the Social Security Tribunal for purposes of determining Mr. Fang’s GIS eligibility.
+[16] Mr. Fang’s Appeal is allowed only to the extent that for 2012, Ms. Fu’s social assistance payment from Italy is determined to be € $6,711 or $8,623, and therefore the total combined income for 2012 for purposes of determining Mr. Fang’s GIS eligibility is reduced to $15,950.29.
+Signed at Ottawa, Canada, this 5th day of July 2016.
+“Campbell J. Miller”
+C. Miller J.
+CITATION:
+2016 TCC 166
+COURT FILE NO.:
+2016-398(OAS)
+STYLE OF CAUSE:
+HONGLIE FANG AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+June 22, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+July 5, 2016
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mary Softley
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

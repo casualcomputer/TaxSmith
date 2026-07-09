@@ -1,0 +1,354 @@
+Title: Municipalité régionale de comté des Îles-de-la-Madeleine v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22831/index.do
+Corpus path: corpus/cases/tcc/2005/2006-tcc-235-22831-municipalit-r-gionale-de-comt-des-les-de-la-madeleine-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-04-12
+
+# Municipalité régionale de comté des Îles-de-la-Madeleine v. The Queen
+
+- Citation: 2006 TCC 235
+- Decision date: 2005-04-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2337, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Municipalité régionale de comté des Îles-de-la-Madeleine v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-12
+Neutral citation
+2006 TCC 235
+File numbers
+2003-1693(GST)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-1693(GST)G
+BETWEEN:
+MUNICIPALITÉ RÉGIONALE DE COMTÉ
+DES ÎLES-DE-LA-MADELEINE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________________
+Appeal heard on November 30, 2004,
+and on March 1 and March 2, 2005, at Montreal, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Diane Bouchard
+Counsel for the Respondent:
+Gérald Danis
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of goods and services tax under Part IX of the Excise Tax Act, the notice of which is dated March 26, 2002, and bears the number 0254357, for the period from January 1, 1997, to March 31, 1999, is allowed, with costs to the appellant, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 12th day of April 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 31st day of January 2008.
+Erich Klein, Revisor
+Citation: 2006TCC235
+Date: 20060412
+Docket: 2003-1693(GST)G
+BETWEEN:
+MUNICIPALITÉ RÉGIONALE DE COMTÉ
+DES ÎLES-DE-LA-MADELEINE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+FACTS
+[1] This appeal pertains to the period from January 1, 1997, to March 31, 1999. The issue is whether the assessment dated March 26, 2002, was made in accordance with the applicable provisions of the Excise Tax Act (the "Act"); in other words, has the appellant established that it was entitled to the input tax credits (ITCs) that it claimed on the basis that the ITCs were related to a taxable supply?
+[2] To answer this question, the Court must first determine whether composting constitutes a commercial activity that gives entitlement to the ITCs claimed. If it does, was the allocation method chosen by the appellant fair and reasonable?
+[3] The Magdalen Islands (the "Islands") form a 202-square-kilometre archipelago. Their fragile water table, isolation from the mainland and lack of available landfill space were causes of concern with respect to the management of some 7,000 tonnes of waste produced annually on the Islands.
+[4] In the early 1980s, the problem became so serious that solutions needed to be implemented urgently. Waste management was at that time a fundamental concern; the available solutions were often excessively costly, and were, moreover, in some respects uncertain.
+[5] In 1984, it was decided that a solution to the problem of waste management needed to be found. The appellant accordingly did everything it could to find the ideal solution, although it did not expect perfection.
+[6] In 1988, after preparing a list of possible solutions and visiting various sites, including sites in France, the Municipalité régionale de comté des Îles-de-la-Madeleine (the "MRC") concluded that composting, combined with incineration, would be the ideal solution for the Islands.
+[7] Composting would make it possible to recover the waste, and the incinerator would eliminate the undesirable elements, thereby reducing the volume of landfill considerably.
+[8] After obtaining the necessary funding and all the certificates of compliance to carry out the project chosen, the MRC had a waste treatment and elimination plant built which housed both the composting and the incineration operations. Construction began in 1993 and ended in 1994. The plant began composting and incineration in 1994.
+[9] The quality of the compost was initially disappointing. Due to the presence of foreign objects such as glass and other undesirable substances, the compost could not be used and was thus of no interest or value.
+[10] Because of the many unknowns, this was a rather special undertaking. That reality no doubt accounts for the private sector's lack of interest in this field, and this limited the possibilities in terms of consultation and references.
+[11] By 1996, the appellant had held various consultations, attended various conferences and hired various experts to analyze the composting process and make recommendations for improving the quality of the product. Even though the changes suggested to improve the quality of the compost were costly, the MRC chose to follow the recommendations.
+[12] In 1997, the authorities added the recovery of recyclable materials to its waste collection program, and composting operations were moved outside the building.
+[13] Due to the inevitable learning curve, and to circumstances over which it had no control, the appellant had to deal with delays that were much longer than it had hoped. Were the lengthy delays and the poor initial quality of the compost a sufficient basis on which to conclude that there was no desire to make better compost and subsequently sell it, or that this desire was abandoned?
+[14] In 2001, after considerable effort and unquestionable determination, the quality of the compost reached a level that met the requirements of the Bureau de normalisation du Québec ("BNQ"). From that point onward, the compost was marketed; it sold for $25 per tonne.
+[15] Section 259 of the Excise Tax Act gives entitlement to a rebate of the tax payable, based on a percentage prescribed by regulation. For the period in issue, the appellant recovered in the form of a 57.14% rebate part of the tax paid; in addition, the MRC filed two GST/QST returns with credit balances in which it claimed the remaining 42.86% as an ITC. The claim concerned the tax payable on the current expenditures for 1994, 1995, 1996 and 1997, and the tax payable on the construction of the waste treatment plant.
+[16] Following an audit by the tax authorities, the respondent refused, for the following reasons, to remit the ITCs claimed by the appellant:
+(a) the composting cannot be considered to have been, during the period in issue, a commercial activity carried on for the purpose of making taxable supplies and, consequently, the ITCs claimed for operating expenditures and capital expenditures cannot be allowed; and
+(b) even if the composting could be considered to have been a commercial activity carried on for the purpose of making taxable supplies, the allocation method used by the MRC for mixed supplies (exempt and taxable) is not fair and reasonable.
+[17] The appellant argues that, on the contrary, composting is indeed a commercial activity under the Act, and the allocation method selected is fair and reasonable. Thus, the appellant is claiming the ITCs.
+[18] In order to be entitled to ITCs, a registrant must have acquired or imported property or a service for consumption, use or supply in the course of the registrant's commercial activities. This entitlement to ITCs is set out in subsection 169(1) of the ETA:
+169. (1) Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A x B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+[Emphasis added.]
+[19] In order to constitute a taxable supply and thereby give entitlement to the input tax credit, the supply must be made in the course of a commercial activity. Subsection 123(1) defines the term "taxable supply" as follows:
+"taxable supply" means a supply that is made in the course of a commercial activity.
+[20] This definition thus refers us to the term "commercial activity", which is defined as follows in subsection 123(1):
+"commercial activity" of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person.
+[21] Lastly, the term "exempt supply" is also defined in subsection 123(1) of the ETA, and the definition refers us to the supplies included in Schedule V. The exempt supply that is concerned in this appeal can be found in Part VI of Schedule V:
+21. [Municipal services] – A supply of a municipal service, if
+(a) the supply is
+(i) made by a government or municipality to a recipient that is an owner or occupant of real property situated in a particular geographic area, or
+(ii) made on behalf of a government or municipality to a recipient that is an owner or occupant of real property situated in a particular geographic area and that is not the government or municipality;
+(b) the service is
+(i) one which the owner or occupant has no option but to receive, or
+(ii) supplied because of a failure by the owner or occupant to comply with an obligation imposed under a law; and
+(c) the service is not one of testing or inspecting any property for the purpose of verifying or certifying that the property meets particular standards of quality or is suitable for consumption, use or supply in a particular manner.
+[Emphasis added.]
+[22] Since the MRC is a municipality, any supply that it makes to occupants of real property on its territory and which they have no option but to receive is an exempt supply. However, despite this principle, it is possible for a municipality to make mixed supplies.
+[23] In the case at bar, the parties agree that the incineration system is used only to make exempt supplies, and thus this dispute is essentially about the composting activities.
+[24] Is composting a commercial activity? If not, the MRC makes exempt supplies only and is therefore not entitled to any ITCs (except, of course, the 57.14% allowed by Parliament). However, if composting is a commercial activity, it must be determined whether the commercial activity began before or after the period in issue.
+1) Composting as a commercial activity
+[25] The analysis undertaken to answer the question as to whether composting is a commercial activity must take several factors into account.
+[26] First of all, one must ask whether composting can constitute a commercial activity. The Petit Robert defines compost as a fertilizer consisting of a fermented mixture of organic waste and mineral matter. Thus, the aim of composting, like that of recycling, is waste recovery.
+[27] Two technical interpretations by the Canada Customs and Revenue Agency expressly recognize that recycling and composting are commercial activities:
+Sales of Scrap and Compost by Municipality, No. 96 GTI 216, March 13, 1996
+. . .
+Municipalities providing recycling services are considered to be making a combination of exempt and taxable supplies. The service of collecting the compostable material and transporting it to a recycling centre would qualify as an exempt supply of a basic garbage collection service. The processing and marketing of the compost for subsequent sale to prospective buyers is considered a commercial activity which results in a taxable supply. That is, the sale of the compost by the municipality would be GST-taxable at a current rate of seven per cent.
+[Emphasis added.]
+Interpretation letter 95-0108753 — Supply of services by an intermunicipal waste treatment authority, May 17, 1996:
+[TRANSLATION]
+. . .
+Moreover, the amended version of paragraph 20(h) of Part VI of Schedule V to the ETA specifies that, effective January 1, 1991, waste collection includes recycling collection services such as a blue-box program and a compostable materials collection service. This exemption applies to the collection of recyclable materials within the framework of a neighbourhood collection program, and to the delivery of such materials to a recycling facility. However, the processing of recyclable materials in such a facility is considered a commercial activity and, thus, the sale of recyclable materials by a registrant is taxable.
+[Emphasis added.]
+[28] Although it can be concluded that composting can constitute a commercial activity, the respondent submits — and rightly so — that it is wrong to assert that any composting and recycling activity necessarily constitutes a commercial activity within the meaning of the ETA. Thus, the facts are very important, and must be assessed in their context having regard to all the relevant circumstances.
+[29] Let us consider, then, the facts of the case at bar in this light.
+[30] The appellant essentially submitted that the composting in the case at bar was indeed a commercial activity, because its purpose was always to achieve superior‑quality compost that could be sold. Apart from the significant environmental concern, the fundamental intent was always to make compost of saleable quality. This objective moreover made sense, because any non-saleable compost would have been a real embarrassment in the long term, especially since it would have been something of an aberration to produce compost without a purpose.
+[31] It turned out that several years of trials were needed before compost of a quality acceptable for sale was obtained. The first sales were made in 2001, 2002 and 2003. The delays are evidence of the determination and genuine desire to attain a reasonable degree of quality.
+[32] The respondent, for her part, submits that the appellant's initial intent was essentially to find a solution to the waste management problem, because waste could not continue to be sent to the landfill indefinitely. In the respondent's submission, incineration and composting were chosen somewhat willy-nilly as a waste management solution for the MRC. The respondent argues as follows in support of her position:
+(1) While the selling price of $25 per tonne of compost was described as reasonable considering its quality, it does not even cover the cost of producing the compost. The respondent adds that no private business would have considered selling compost under such circumstances.
+(2) There was no actual commercial activity related to composting during the period in issue for the following reasons:
+(a) the sales in 2001, 2002 and 2003 should not be considered as conclusive in determining whether there was a commercial activity from January 1997 to March 1999; and
+(b) the remarks made by Mr. Gagnon at the Quebec forum on composting in 1995 contradict the appellant's position that there was from the outset an intent to sell the compost.
+[33] The respondent's approach is essentially based on traditional criteria such as viability, profitability, or profit in the strictly accounting sense. What is more, the respondent seems to believe that the production of compost can only be held to be a commercial activity if there is a reasonable expectation of profit. However, for GST purposes, reasonable expectation of profit is not a requirement.
+[34] Moreover, where a new product is involved, it is not unusual to experience a number of setbacks before an acceptable formula is found.
+[35] I believe that two other very important factors should have been taken into account here. Indeed, but for the composting activity, all the materials used for composting would have had to have been incinerated. Thus, in the calculation of the profit derived from composting the incineration costs saved should be taken into account. In addition to this accurately quantifiable item, there is also the environmental benefit, which constitutes a real component of the quest for an acceptable product. In other words, where the environment is involved, it is essential that the analysis take account of factors foreign to the traditional economic‑cost‑versus‑monetary‑benefit approach. The time has come when environmental costs and benefits are inescapable components of the assessment of any project.
+[36] In addition to this approach, I must take account of the fact that the term "business" is found in subsection 123(1) of the ETA:
+"business" includes a profession, calling, trade, manufacture or undertaking of any kind whatever, whether the activity or undertaking is engaged in for profit, and any activity engaged in on a regular or continuous basis that involves the supply of property by way of lease, licence or similar arrangement, but does not include an office or employment.
+[Emphasis added.]
+[37] This very definition of the term "business" indicates that profit is not an essential element in determining whether a taxpayer was engaged in a "commercial activity" within the meaning of paragraph (a) of the definition of that term. Indeed, the definition of "business" also includes undertakings of any kind whatever, whether engaged in for profit or not. Moreover, this was confirmed in Corporation de l'École Polytechnique v. Canada, 2004 FCA 127, 2004 G.T.C. 1148, [2004] G.S.T.C. 102, at paragraph 24.
+[38] In addition, GST/HST Policy Statement P-167R, Meaning of the First Part of the Definition of Business, sets out the guidelines used by the tax authorities to determine whether a person is carrying on a business. The statement addresses expectation of profit as follows:
+Expectation of Profit
+Generally, an activity carried on for profit will constitute a business for GST/HST purposes. However, unlike the Income Tax Act, the definition of "business" in subsection 123(1) of the Act includes the phrase "... whether the activity or undertaking is engaged in for profit ...". A person is not required to be engaged in an activity or undertaking with an expectation of profit to be considered to be in business for GST/HST purposes. The definition of "business" (and by extension, commercial activity) was structured to include not only those activities that are considered to be a business for income tax purposes, but also those activities undertaken without a profit motive that would stand in direct competition with activities of profit motivated enterprises. The exclusion of the profit test provides for a level playing field between profit and non-profit organizations that are essentially making the same type of supplies.
+In addition, there is no statutory distinction in the definition of "business" between public sector bodies (PSBs), such as governments, non-profit organizations and charities, and other persons who are not PSBs. As such, this policy statement applies to all persons who are engaged in activities that may constitute a business, regardless of whether they are motivated by profit or some other goal. . . .
+[Emphasis added.]
+[39] Consequently, the MRC was under no obligation to demonstrate profitability, or a reasonable expectation of profit, in order for composting to be considered a commercial activity. In the broad sense, a commercial activity is an activity that has a potentially uncertain outcome and is motivated by the hope of achieving an acceptable goal or objective, provided that it is carried on in a serious and reasonable manner.
+[40] The fact that there were no sales of compost until 2001 is not decisive in ascertaining whether composting is a commercial activity or not. Coming back to Policy Statement P-167R, it can be seen that criteria other than the making of supplies are important in determining whether there was truly a business:
+The Meaning of Business
+. . .
+The CCRA has generally taken a broad view of the meaning of "business" in a number of instances dealing with the making of supplies and whether certain supplies were taxable. However, the making of supplies cannot be considered as the sole measure of whether a business is being carried on given the absence of the profit test from the definition of "business". As such, the issue is not so much determining if an activity that comprises or directly involves the making of supplies is a business, but rather to what extent an activity that does not directly involve the making of supplies is a business.
+In some cases, a person may undertake activities that are themselves commercial in nature and business oriented (within the ordinary meaning of those terms), but which constitute neither a trade nor a manufacture (i.e., activities which involve the making of, or the intent to make, supplies), nor could they aptly be described as a profession or calling. Nevertheless, the inclusion of the phrase "... undertaking of any kind whatever ..." in the definition of "business" allows activities that are not strictly speaking a "... profession, calling, trade, manufacture ...", within the ordinary meaning of those words, to be included within the meaning of "business". . . .
+. . .
+In establishing that an activity is sufficiently "business-like" to qualify as an "undertaking", a number of factors should be considered, including:
+1. whether the activity is serious and earnestly pursued;
+2. whether the activity is actively pursued with reasonable and recognizable continuity;
+3. whether the activity is conducted in a sound manner using recognized business principles and records are maintained to that effect;
+4. whether the supplies, if any, are of a kind which, subject to differences of detail, are commonly made by those who seek to profit from them;
+5. whether the activity facilitates or promotes the making of supplies (whether by the person itself or by other persons); and
+6. whether the activity supports other activities which are directed towards earning revenue.
+While no one factor is itself more definitive than another, the circumstances surrounding a particular activity may suggest the need to provide more weight to a specific factor or factors. In addition, given that a particular factor may be weighted more heavily than another, it is not sufficient simply to total the number of factors that favour the existence of a business against the total number of factors that favour the opposite conclusion. For example, it may be possible, in the appropriate circumstances, to conclude that a business exists even if only two of the six factors are met.
+[Emphasis added.]
+[41] The evidence shows that the materials or waste sent to the incinerator generated major costs; indeed, the cost of operating the incinerator was very high, both financially and environmentally. Thus, it was in the MRC's interest to reduce the volume of incinerated waste as much as possible, and that is why it was also in its interest to pursue the composting option very actively.
+[42] Everything that was collected for composting did not need to be incinerated. This resulted in substantial savings, and is a very important factor to consider in calculating the benefits of composting.
+[43] Initiatives of this kind are generally undertaken by municipal or government authorities. They are of very little or no interest to the private sector because profit in an accounting sense is generally not part of the picture and, if it is, is too marginal to generate any excitement.
+[44] Before too long environmental benefits will have to be regarded as true profits that are just as important as profit in the classic sense. Until then, the environmental aspect, while difficult to measure, must be taken into account in assessing the viability of a project.
+[45] With respect to the moment at which a business has started up, Judge Bowman, in a decision dealing with the notion of business under the ITA, has provided some highly pertinent clarifications:
+. . . In determining when a business has commenced, it is not realistic to fix the time either at the moment when money starts being earned from the trading or manufacturing operation or the provision of services or, at the other extreme, when the intention to start the business is first formed. Each case turns on its own facts, but where a taxpayer has taken significant and essential steps that are necessary to the carrying on of the business it is fair to conclude that the business has started. (Gartry v. The Queen, No. 92-2492(IT)G, April 14, 1994, 94 DTC 1947, at page 1949 (TCC)).
+[46] In addition, in Two Carlton Financing Ltd. v. The Queen, No. 96‑523(GST)G, June 2, 1998, 98 G.T.C. 2141 (TCC), the following statement is made in footnote 9 at paragraph 36:
+I do not think it is necessary that in a "start up" of a business, for example, any supplies need be made in order to be eligible for ITCs. The expenditures giving rise to the ITCs should be made with the intent of carrying on a commercial activity or in the course of a commercial activity. There are also circumstances in which no GST is paid or payable and yet entitlement to ITCs remains (for example, where taxable supplies are deemed zero-rated pursuant to a section 156 election).
+[47] Compost sales during the period in issue were by no means essential to a finding that the MRC carried on commercial activities; the appellant needed only to demonstrate that it took genuine and concrete measures in furtherance of the goal of making sales. The duration of the measures, and the efforts to implement them, are not absolutely decisive factors. Depending on the constraints and on various problems, the time can vary considerably from one case to another. In my view, the assessment must consider good faith, genuine intent and continuity of effort toward the achievement of the desired product.
+[48] Where the product is known or the evolution of the project can be predicted, it is possible to estimate the probable duration of that project from the outset, before the final version is achieved.
+[49] However, when the marketing of a product is subject to several factors that cannot always be controlled, there can be ups and downs in the development process, and progress toward creating an acceptable product may require very lengthy delays, without, however, casting doubt on the coherence and seriousness of the process and the resolve to attain an objective.
+[50] Here it was not a matter of marketing a simple fertilizer with components that were already known and available for purchase. What was involved, rather, was developing compost in a special context characterized by numerous constraints. Those concerned demonstrated a tenacity and determination that does them credit in achieving a product of acceptable quality.
+[51] Under the circumstances, the fact that no sales were made until 2001 does not prevent the MRC from having carried on a commercial activity during the start-up period, that is, the period in issue.
+[52] The respondent gives undue weight to the following comments made by Mr. Gagnon at the Quebec forum on composting in 1995:
+[TRANSLATION]
+Since for us it was more a matter of addressing a waste management problem, our project was not designed with a view to the marketing of the compost eventually produced; besides, the anticipated volume of compost and the market for the product would have made it difficult to justify the scope of the fixed assets that were necessary. However, from the outset — and our trip to France was very revealing in this regard — we considered it an obligation to produce high-quality compost. This aspect was of all the greater concern to us as we felt it was important, since we had one of Quebec's first plants in 1986, to prove we could produce good compost from household waste. In this regard, we support efforts to standardize compost. Standardization will establish objectives for everyone, including us, and will provide us with common benchmarking tools.
+. . .
+Also, in terms of uses for the compost produced, some local outlets have been identified. First of all, the product will enable us to reclaim some of the waste disposal sites that we have operated over the years. Later, we anticipate using the compost for landscaping projects in parks or public spaces and for the reclamation of some of our all-too-many quarries or sandpits; this will serve as a demonstration project and will give the public the opportunity to see the results of the collective effort that has gone into the sorting of waste at the source. And while local contractors have already shown interest, only later, once the credibility of the compost has been solidly established and its price firmly set, will we be able to contemplate, or talk about, marketing, but that will not be for at least two or three years.
+[Emphasis added.]
+[53] The respondent relies on these remarks as directly contradicting the assertion that there was from the very outset an intention to market the compost. In the respondent's submission, the intention to market it arose after the period in issue, and so, even if composting is a commercial activity, that activity began only after the period in issue.
+[54] This interpretation of Mr. Gagnon's comments is inappropriate and cannot be a basis for concluding that there was no intention to market the compost. Rather, upon reading the entire speech, one can see that the general intention in 1995 was to produce compost of sufficient quality to be marketable within a realistic amount of time. Just because the compost did not yet meet the quality standards required for marketing it cannot be said that there was no intention to market the compost.
+[55] Mr. Gagnon, in speaking of an initial intention, is referring to 1986, when the project was first studied, on the exploratory mission to France. In my opinion, it is clear that, once the project got underway and concrete measures were being taken to produce compost by means of an entire organizational structure, the operations were part of the MRC's commercial activities.
+[56] Mr. Gagnon's speech clearly shows that, at least in 1995, the MRC indeed intended to market the compost as soon as an acceptable quality was obtained.
+[57] Contrary to the respondent's interpretation, Mr. Gagnon's comments at the Quebec forum on composting confirm, rather than contradict, the fact that the MRC intended to market the compost.
+[58] Even if the initial intention in 1986 was to find a waste management solution, and even if this main intention subsisted throughout the period during which a better quality of compost was being worked on, this did not prevent the existence of a secondary intention to market the compost in the future; both intentions could coexist without contradicting each other.
+[59] It was possible for the MRC to have two simultaneous intentions: waste management, which included composting; and the marketing of the compost thereby produced. In fact, this is what the MRC's mixed supplies are based on.
+[60] For all these reasons, I find that during the period in issue, the MRC made supplies that were both taxable and exempt: the activities related to composting were taxable supplies, but those related to incineration were exempt supplies.
+2) The allocation method
+(a) Direct costs
+[61] The relevant provision of the ETA concerning the allocation method provides as follows:
+141.01 (5) Method of determining extent of use, etc. -- The methods used by a person in a fiscal year to determine
+(a) the extent to which properties or services are acquired, imported or brought into a participating province by the person for the purpose of making taxable supplies for consideration or for other purposes, and
+(b) the extent to which the consumption or use of properties or services is for the purpose of making taxable supplies for consideration or for other purposes
+shall be fair and reasonable and shall be used consistently by the person throughout the year.
+[62] Where the activities are mixed, that is, there are both taxable and exempt supplies, an allocation must take place. This is superfluous when dealing with a well-defined or clearly identifiable exempt activity, in which case no ITC can be claimed.
+[63] In 398722 Alberta Ltd. v. Canada, F.C.A., No. A-706-98, May 11, 2000, Sharlow J.A. held, at paragraph 22, that any business may consist of several components. For GST purposes, activities that lead to the making of exempt supplies must be treated in a special way:
+22 Any business may consist of a number of components, each of which is integral to the business as a whole. The definition of "commercial activity" recognizes that possibility but requires, for GST purposes, that any part of the business that consists of making exempt supplies be notionally severed. . . .
+[64] In Montréal (City) v. Canada, [2003] T.C.J. No. 432 (QL), T.C.C., No. 2001‑3234(GST)G, July 30, 2003, the Court had to decide whether the collection of waste for hauling to the sorting and recycling plant was part of the city's commercial activities. In holding that waste collection was an exempt supply, in respect of which no ITC could be claimed, Lamarre Proulx J. referred to 398722 Alberta Ltd., supra. She stated at paragraph 40 et seq.:
+40 The Federal Court of Appeal decided as follows in 398722 Alberta Inc. (supra): that any part of the business that consists of making exempt supplies be notionally severed. Collecting garbage, including recyclable material, is an exempt activity and must be notionally severed.
+41 This is clearly what is said in subsection 169(1) of the Act. A registrant's input tax credit that relates to an acquired good or service is calculated according to the extent to which this good or service has been used within the course of the registrant's commercial activities.
+42 Inputs paid with respect to the direct costs of the exempt activity cannot be claimed under subsection 169(1) of the Act, nor can they be distributed under subsection 141.01(5) of the Act.
+[Emphasis added.]
+[65] In the case at bar, which component of the business consists of making exempt supplies? The incineration aspect is indeed an exempt activity and must be notionally severed from the appellant's commercial activities.
+[66] The inputs related to the direct costs of incineration (which is exempt) do not give entitlement to the credits under subsection 169(1) of the ETA.
+[67] As the Federal Court of Appeal held in 398722 Alberta Ltd., supra, any component of the business that consists in making exempt supplies must be notionally severed. Since the incineration is an exempt activity, it must be notionally severed.
+[68] Consequently, direct costs related to the incinerator cannot give entitlement to ITCs. Thus, with regard to call for tenders no. 4096-0002, the contract of $2,877,282, including taxes, awarded to Les Industries Pyrox Inc. for the supply, installation and start-up of a waste incineration and gas purification system cannot give entitlement to the ITCs claimed, because those inputs can be directly tied to the exempt supply of the incinerator.
+[69] The consideration under the Pyrox contract was $2,877,282, including taxes, which means $180,993.66 in GST and $103,424.95 in QST. Of the GST, 57.14% has already been received as a rebate, leaving a balance of 42.86% x $180,993.66 = $77,573.88 on account of GST. This amount cannot be claimed as an ITC. By virtue of the allocation rules, it must be excluded from the calculations.
+[70] As for the other expenses incurred in the project to construct the complex, they are inputs that may be claimed because they are related to mixed activities. It thus becomes necessary to verify whether the appellant's allocation method may be considered fair and reasonable.
+(b) Fairness and reasonableness
+[71] The decision in Magog (City of) v. The Queen, No. A-829-99, June 21, 2001, 2001 FCA 210, is of considerable assistance with respect to the allocation method used to calculate the input tax credit. The Federal Court of Appeal reminds us that the ETA does not specify the methods that must be used to allocate the goods or services acquired for use in commercial and other activities. Noël J.A. wrote as follows in this regard:
+15 The only issue before the judge was whether the method elected by the appellant was fair and reasonable, as required by subsection 141.01(5). She did not have to determine which of the two methods in question was the best. Moreover, Memorandum 700-5-1 acknowledges in its 23rd paragraph that more than one method may be fair and reasonable within the meaning of the Act (see also Navaho Inn v. The Queen, 3 GTC 2067, at page 2071 (T.C.C.)).
+. . .
+17 It is important in this regard to note that the Act does not require the appellant to establish the type of accounting systems that would enable it to separate out each property or service that is consumed or used in the context of its mixed activities. Parliament was aware that such a requirement could result in compliance expenses that would exceed the tax yielded. So it left it to the taxpayer to select an appropriate method, while requiring that the method chosen be "fair and reasonable".
+[Emphasis added.]
+[72] Thus, I do not have to ask which of the two methods presented is best. Rather, I must analyze whether the method selected is fair and reasonable having regard to the circumstances.
+[73] This principle is very well explained in the recent decision in Bay Ferries Ltd. v. The Queen, 2004 TCC 663, 2004 G.T.C. 489, [2004] G.S.T.C. 135, where the Court stated the following:
+37 I do not have to decide whether the best or most appropriate method is the method chosen by the Minister or the Appellant.
+38 The first, and as far as I can determine, only case where the Federal Court of Appeal has dealt with the allocation method, under this subsection is the case of the Magog (ville) v. Canada, [1999] T.C.J. No. 806. This decision clearly and definitively supports non-interference with a taxpayer's chosen method provided it is fair, reasonable and consistent.
+39 The Minister cannot substitute its own allocation method, simply because it appears to be more representative of the situation or the better method. This reasoning establishes a degree of deference to be given a taxpayer in choosing a method that is fair and reasonable.
+40 Of course I believe that a taxpayer must always be able to satisfactorily substantiate that the chosen method is, in fact, fair and reasonable and consistent. But if he is able to do so, subsection 141.01(5) allows a registrant a broad latitude of flexibility in choosing a method, provided it can be shown to be fair and reasonable. This implies that the chosen method will reasonably reflect the actual use of the property and services and the manner in which it conducts its business generally.
+41 There are no methods specified in the Act which are to be used as guidelines. Again, it comes down to a review of the facts in each case. It is generally accepted that the preferred method is direct allocation, where the property or service can be directly allocated to the activities. The direct method will produce the most accurate results. In some circumstances this method cannot be applied. It was not practical for the Appellant in this case to utilize the direct application method because of shared overhead.
+42 According to GST Memorandum 700-5-1, the next preferred method is the input method, which was the Appellant's choice. The third preferred method, if neither of the first two can be applied, will be the output method, which was the Minister's choice as the appropriate application in this case.
+[Emphasis added.]
+[74] In Bay Ferries, supra, the appellant operated a ferry. The appellant had two sources of revenue: tolls, which were exempt supplies; and the rental of space on board the vessel for vending machines, the cafeteria, gift shops, the bar, the lounge and the newsstand.
+[75] In order to determine the ITC to which it was entitled for the rentals, which were taxable, the appellant compared the surface area in square feet rented to tenants with the remaining surface area.
+[76] The Minister had reassessed the appellant using the output method, which consisted in comparing gross rental revenue with toll revenue. The Court held that the appellant's method, which was based on area, was fair, reasonable and practical under the circumstances:
+43 The Appellant's choice of the input method, which relied on square footage measurements, was based on the fact that it was more consistent from year to year. If Bay Ferries had adopted the output method, as the Minister did, different percentages would have to be allocated to these various commercial activities of food and beverage services depending upon revenue generated. This would mean that the degree of consistency falls far short of the consistency that can be established from year to year using the input method.
+[77] The Act is clear: the taxpayer must use a fair and reasonable allocation method. There is no obligation to show that the method is perfect or better than any other.
+[78] The method must essentially be reasonable, substantiated and used consistently. The method chosen by the appellant cannot be rejected solely on the ground that it was not the ideal method in the respondent's view. The reasonableness and fairness of a method have in a way a subjective dimension to them, as it would otherwise be difficult in practice to compare more than one method.
+[79] The Minister prefers the cost-based method, which, in his view, yields more reliable and consistent results year after year. The Minister's method could certainly meet the reasonableness requirement; however, the method based on the surface area used for commercial activities throughout the fiscal year is also a fair and reasonable method.
+[80] This method has been recognized as acceptable not only in Bay Ferries, but also in Gamache v. The Queen, 2003 FCA 254, 2003 G.T.C. 1542, [2003] G.S.T.C. 9.
+[81] The case law clearly gives taxpayers some leeway in choosing the allocation method; in the instant case, the surface‑area method was fair and reasonable. The appropriate finding is that the method chosen by the MRC was fair and reasonable, and therefore acceptable. When both methods are fair and reasonable, one must not substitute the Minister's method for the method chosen by the MRC.
+[82] Based on the allocation method chosen by the appellant, namely, the surface‑area method, 64% of the activities are attributable to composting (and thus to the commercial activity) and 36% are attributable to the incineration system (and thus to the exempt activity).
+[83] The balance of the expenses after excluding from the calculation direct costs attributable to the incineration system (namely, those incurred for the Pyrox contract worth $2,877,282) can be broken down as follows:
+(a) Current expenses (see Tab 16 of Exhibit A-1 – list of documents)
+Year
+ITC claimed
+ITR claimed
+1994
+$2,683.58
+$2,597.46
+1995
+$2,367.11
+$3,021.27
+1996
+$3,225.53
+$4,262.10
+1997
+$2,623.73
+$6,082.15
+(b) Allocable expenses related to the building
+Contractor
+Contract number
+Expenses (including taxes)
+SNC Lavalin inc.
+4096-0000
+$1,063,943.51
+Les Industries Pyrox
+4096-0003
+$118,997.00
+Construction Beauce-Iles inc.
+4096-0004
+$1,780,942.46
+Koné-Landel Canada inc.
+4096-003
+$109,348.00
+Industries Machinex inc.
+4096-0003
+$236,255.00
+Industries Machinex inc.
+4096
+$35,438.49
+A.M.I. Mécanique
+4096-0005
+$951,688.99
+Total:
+$4,296,613.45
+[84] The following provisions apply to these expenses:
+Section 123 of the ETA
+“public service body” means a non-profit organization, a charity, a municipality, a school authority, a hospital authority, a public college or a university;
+Section 209 of the ETA
+209. (1) Real property of certain public service bodies -- If a registrant (other than a financial institution or a government) is a public service body, section 141.2 and subsections 199(2) to (4) and 200(2) and (3) apply, with any modifications that the circumstances require, to real property acquired by the registrant for use as capital property of the registrant or, in the case of subsection 199(4), to improvements to real property that is capital property of the registrant, as if the real property were personal property.
+. . .
+Section 199 of the ETA
+. . .
+(2) Acquisition of capital personal property -- Where a registrant acquires or imports personal property or brings it into a participating province for use as capital property,
+(a) the tax payable by the registrant in respect of the acquisition, importation or bringing in of the property shall not be included in determining an input tax credit of the registrant for any reporting period unless the property was acquired, imported or brought in, as the case may be, for use primarily in commercial activities of the registrant; and
+(b) where the registrant acquires, imports or brings in the property for use primarily in commercial activities of the registrant, the registrant is deemed, for the purposes of this Part, to have acquired, imported or brought in the property, as the case may be, for use exclusively in commercial activities of the registrant.
+(3) Beginning use of personal property -- For the purposes of this Part, where a registrant last acquired or imported personal property for use as capital property of the registrant but not for use primarily in commercial activities of the registrant and the registrant begins, at a particular time, to use the property as capital property primarily in commercial activities of the registrant, except where the registrant becomes a registrant at the particular time, the registrant shall be deemed
+(a) to have received, at the particular time, a supply of the property by way of sale; and
+(b) except where the supply is an exempt supply, to have paid, at the particular time, tax in respect of the supply equal to the basic tax content of the property at the particular time.
+(4) Improvement to capital personal property -- Where a registrant acquires, imports or brings into a participating province an improvement to personal property that is capital property of the registrant, tax payable by the registrant in respect of the acquisition, importation or bringing in shall not be included in determining an input tax credit of the registrant unless, at the time that tax becomes payable or is paid without having become payable, the capital property is used primarily in commercial activities of the registrant.
+. . .
+[Emphasis added.]
+[85] Given the definitions in sections 123 and 199 of the Act, any municipality may claim ITCs in respect of real property that it acquired or imported for use as capital property primarily in its commercial activities, for, in such a case, the property is deemed to have been acquired or imported by the registrant for use exclusively in its commercial activities.
+[86] Consequently, since more than 50% (according to the method chosen by the appellant) of the real property is used for commercial purposes, the MRC is entitled to all the ITCs claimed for the building, except, of course, the ITCs related to the Pyrox contract, which are not included in the calculation of the ITCs.
+[87] Since composting was a commercial activity for the MRC during the period in issue, the MRC made both taxable and exempt supplies: the activities related to composting were taxable supplies and the activities related to the incineration system were exempt supplies.
+[88] Direct costs related to the incinerator do not give entitlement to ITCs. In particular, with regard to call for tenders no. 4096-0002, the contract of $2,877,282, including taxes, awarded to Les Industries Pyrox Inc. for the supply, installation and start-up of a waste incineration and gas purification system cannot give entitlement to the ITCs claimed, because those inputs can be directly tied to the exempt supply of the incinerator. This amount must be excluded from the calculation when the allocation method is applied.
+[89] As for the remaining costs related to the construction of the plant, they are inputs used for mixed activities. Since I have found that the appellant's chosen allocation method, which is based on surface area, is fair and reasonable under the circumstances, the ITCs can be claimed.
+[90] For all these reasons, the appeal is allowed in part, with costs to the appellant. The appellant is entitled to all the ITCs claimed, except those related to the Pyrox incinerator construction contract.
+Signed at Ottawa, Canada, this 12th day of April 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 31st day of January 2008.
+Erich Klein, Revisor
+CITATION:
+2006TCC235
+COURT FILE NO.:
+2003-1693(GST)G
+STYLE OF CAUSE:
+Municipalité régionale de comté des
+Îles-de-la-Madeleine v. Her Majesty the Queen
+PLACE OF HEARING:
+Montreal, Quebec
+DATES OF HEARING:
+Appellant's submissions:
+Respondent's submissions:
+November 30 and December 1, 2004,
+and March 1 and March 2, 2005
+April 25, 2005
+May 17, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+April 12, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Diane Bouchard
+Counsel for the Respondent:
+Gérald Danis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Diane Bouchard
+Firm:
+Desjardins Ducharme Stein Monast
+City:
+Montreal, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Minister of Justice
+and Deputy Attorney General of Canada
+Ottawa, Canada

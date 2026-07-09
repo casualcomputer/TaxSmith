@@ -1,0 +1,404 @@
+---
+title: "Hedges v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/73295/index.do"
+last_modified: "2014-09-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 270"
+citation2: ""
+neutral_citation: "2014 TCC 270"
+decision_date: "2014-09-09"
+language: "en"
+item_id: "73295"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5156
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:34:53.376000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7e90ec70973bb9d475eb5b0feed2c63e3bcd4ec992b93b210a71ed8f26c9afc6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hedges v. The Queen
+
+- Citation: 2014 TCC 270
+- Decision date: 2014-09-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5156, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hedges v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-09-09
+Neutral citation
+2014 TCC 270
+File numbers
+2011-2703(GST)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-2703(GST)G
+BETWEEN:
+GERRY HEDGES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on June 23, 24, 25, 27 and 30, 2014, at Vancouver, British Columbia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Alistair G. Campbell,
+David M. Sherman
+Counsel for the Respondent:
+Lynn M. Burch, Christa Akey
+JUDGMENT
+The Appeal from the assessment made under the Excise Tax Act, for the periods of October 1, 2007 to December 31, 2007, October 1, 2008 to December 31, 2008, and October 1, 2009 to December 31, 2009, is dismissed.
+The Parties shall provide the Court written submission on costs on or before October 31, 2014.
+Signed at Ottawa, Canada, this 9th day of September 2014.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2014 TCC 270
+Date: 20140909
+Docket: 2011-2703(GST)G
+BETWEEN:
+GERRY HEDGES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] Mr. Hedges grew marihuana and sold it to the British Columbia Compassion Club Society (“BCCCS”) who in turn supplied it to its members. Mr. Hedges did not collect or remit Goods and Services Tax (“GST”) on his sales of the marihuana, agreed to be $110,732 in 2007, $114,016 in 2008, and $86,698 in 2009. Mr. Hedges was reassessed $14,968.43 (including interest and penalties) for not doing so. The issue in this Appeal is whether the marihuana sold by Mr. Hedges to the BCCCS was a zero-rated supply pursuant to Schedule VI‑I‑2(d) of the Excise Tax Act (the “Act”). It reads:
+Schedule VI – Zero-Rated Supplies
+2. A supply of any of the following drugs or substances:
+d) a drug that contains a substance included in the schedule to the Narcotic Control Regulations, other than a drug or mixture of drugs that may be sold to a consumer without a prescription pursuant to the Controlled Drugs Substances Act or regulations made under that Act.
+For supplies made after February 26, 2008 this provision was amended slightly to read:
+d) a drug that contains a substances included in the schedule to the Narcotic Control Regulations other than a drug or mixture of drugs that may, pursuant to the Controlled Drugs and Substances Act or regulations made under that Act, be sold to a consumer with neither a prescription nor an exemption by the Minister of Health in respect of the sale.
+[2] There is no dispute with respect to the amounts of the GST assessments.
+[3] Evidence in the trial focused on the issue of whether Mr. Hedges’ marihuana, which he labelled Po-Chi (after his dog) was a drug. This requires some clarification, as no doubt the person on the street would be perplexed to hear that marihuana is not a drug. The Respondent acknowledges that under the federal Food and Drugs Act (“FDA”) definition of marihuana, it may well be considered a drug. Yet, argues the Respondent, it is not a drug for purposes of the Act, given the interplay between the regulatory regime governing drugs and medical marihuana. It is important to look at that regime before turning to a review of the facts of Mr. Hedges’ sale of Po-Chi, and ultimately a determination as to whether Po-Chi is a drug, zero-rated under Schedule VI‑I-2 of the Act. The following are the pertinent provisions of that legislative regime including excerpts from the Excise Tax Act, Narcotic Control Regulations, Controlled Drugs and Substances Act, Food and Drugs Act, Marihuana Medical Access Regulations and Marihuana Exemption (Food and Drugs Act) Regulations.
+REGULATORY REGIME Excise Tax Act SCHEDULE VI
+(Subsection 123(1))
+ZERO-RATED SUPPLIES
+PART 1
+PRESCRIPTION DRUGS AND BIOLOGICALS
+1. In this Part,
+…
+“prescription” means a written or verbal order, given to a pharmacist by a medical practitioner or authorized individual, directing that a stated amount of any drug or mixture of drugs specified in the order be dispensed for the individual named in the order.
+2. A supply of any of the following drugs or substances:
+(a) a drug included in Schedule C or D to the Food and Drugs Act,
+(b) a drug that is set out on the list established under subsection 29.1(1) of the Food and Drugs Act or that belongs to a class of drugs set out on that list, other than a drug or mixture of drugs that may, under that Act or the Food and Drug Regulations, be sold to a consumer without a prescription,
+(c) a drug or other substance included in the schedule to Part G of the Food and Drug Regulations,
+(d) a drug that contains a substance included in the schedule to the Narcotic Control Regulations, other than a drug or mixture of drugs that may, pursuant to the Controlled Drugs and Substances Act or regulations made under that Act, be sold to a consumer with neither a prescription nor an exemption by the Minister of Health in respect of the sale,
+(d.1) a drug included in Schedule 1 to the Benzodiazepines and Other Targeted Substances Regulations,
+(e) any of the following drugs, namely,
+(i) Digoxin,
+(ii) Digitoxin,
+(iii) Prenylamine,
+(iv) Deslanoside,
+(v) Erythrityl tetranitrate,
+(vi) Isosorbide dinitrate,
+(vi.1) Isosorbide-5-mononitrate,
+(vii) Nitroglycerine,
+(viii) Quinidine and its salts,
+(ix) Medical oxygen, and
+(x) Epinephrine and its salts,
+(f) a drug the supply of which is authorized under the Food and Drug Regulations for use in an emergency treatment, and
+(g) plasma expander,
+but not including a supply of a drug or substance when it is labelled or supplied for agricultural or veterinary use only.
+3. A supply of a drug when the drug is for human use and is dispensed
+(a) by a medical practitioner to an individual for the personal consumption or use of the individual or an individual related thereto; or
+(b) on the prescription of a medical practitioner or authorized individual for the personal consumption or use of the individual named in the prescription.
+Narcotic Control Regulations 2.1 In these Regulations “dried marihuana” means harvested marihuana that has been subjected to any drying process; “narcotic” means …, (a) any substance set out in the schedule…; 36.(1) Subject to subsection (2), a pharmacist may, without a prescription, sell or provide a preparation containing not more than 8 mg or its equivalent of codeine phosphate per tablet or per unit in other solid form or not more than 20 mg or its equivalent of codeine phosphate per 30 mL in a liquid preparation if (a) the preparation contains (i) two additional medicinal ingredients other than a narcotic in a quantity of not less than the regular minimum single dose for one such ingredient or one-half the regular minimum single dose for each such ingredient, or (ii) three additional medicinal ingredients other than a narcotic in a quantity of not less than the regular minimum single dose for one such ingredient or one-third the regular minimum single dose for each such ingredient; and (b) there is legibly and conspicuously printed on the inner label and the outer label, as those terms are defined in section A.01.010 of the Food and Drug Regulations, a caution to the following effect: “This preparation contains codeine and should not be administered to children except on the advice of a physician, dentist or nurse practitioner.” (2) No pharmacist shall sell or provide a preparation referred to in subsection (1) if the pharmacist has reasonable grounds to believe that the preparation is to be used for purposes other than recognized medical or dental purposes. SCHEDULE (Section 2) … 17. Cannabis, its preparations, derivatives and similar synthetic preparations, including: (1) Cannabis resin (2) Cannabis (marihuana) (3) Cannabidiol (2-[3-methyl-6-(1-methylethenyl- 2-cyclohexen-1-yl]-5-pentyl-1,3-benzenediol) (4) Cannabinol (3-n-amyl-6,6,9-trimethyl-6-dibenzo-pyran-1-ol) (5) Nabilone((±)-trans-3-(1,1-dimethylheptyl)-6,6a,7,8,- 10,10a-hexahydro-1-hydroxy-6,6-dimethyl-9H-dibenzo[b,d]pyran-9-one) (6) Pyrahexyl (3-n-hexyl-6,6,9-trimethyl-7,8,9,10- tetrahydro-6-dibenzopyran-1-ol) (7) Tetrahydrocannabinol(tetrahydro-6,6,9-trimethyl-3- pentyl-6H-dibenzo[b,d]pyran-1-ol) (7.1) 3-(1,2-dimethylheptyl)-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol (DMHP) but not including (8) Non-viable Cannabis seed, with the exception of its derivatives (9) Mature Cannabis stalks that do not include leaves, flowers, seeds or branches; and fiber derived from such stalks. Controlled Drugs and Substances Act INTERPRETATION
+“controlled substance” means a substance included in Schedule I, II, III, IV or V;
+…
+PART I
+OFFENCES AND PUNISHMENT
+Particular Offences
+4.(1) Except as authorized under the regulations, no personal shall possess a substance included in Schedule I, II or III.
+…
+7.(1) Except as authorized under the regulations, no personal shall produce a substance included in Schedule I, II, III or IV.
+…
+56. The Minister may, on such terms and conditions as the Minister deems necessary, exempt any person or class of persons or any controlled substance or precursor or any class thereof from the application of all or any of the provisions of this Act or the regulations if, in the opinion of the Minister, the exemption is necessary for a medical or scientific purpose or is otherwise in the public interest.
+[4] Schedule I covers opium, codeine, morphine and another seven or eight pages of such drugs. Schedule II is the same schedule as section 2(17) of the Narcotic Control Regulations produced earlier (cannabis etc.).
+Marihuana Medical Access Regulations (under Controlled Drugs and Substances Act) Interpretation
+“category 1 symptom” means any symptom treated within the context of compassionate end-of-life care or a symptom set out in column 1 of the schedule that is associated with a medical condition set out in column 2 or with the medical treatment of that condition.
+“category 2 symptom” means a debilitating symptom that is associated with a medical condition or with the medical treatment of that condition and that is not a category 1 symptom.
+…
+“dried marihuana” means harvested marihuana that has been subjected to any drying process.
+…
+“marihuana” means the substance referred to as “Cannabis (marihuana)” in subitem 1(2) of Schedule II to the Act.
+…
+“medical purpose” means the purpose of mitigating a person’s category 1 or 2 symptoms identified in an application for an authorization to possess.
+[5] The Marihuana Medical Access Regulations (“MMARs”) go on to provide a process for applying for an Authorization to Possess (“ATP”). This requires both an application from the individual, along with a “medical declaration” from a medical practitioner.
+5(1) The declaration of the applicant under paragraph 4(2)(a) must indicate
+…
+(h) that the applicant
+(i) is aware that the benefits and risks associated with the use of marihuana are not fully understood and that the use of marihuana may involve risks that have not yet been identified, and
+(ii) accepts the risks associated with using marihuana;
+6(1) The medical declaration under paragraph 4(2)(b) must indicate
+(a) the medical practitioner’s name, business address and telephone number, facsimile transmission number and e-mail address if applicable, the province in which the practitioner is authorized to practise medicine and the number assigned by the province to that authorization;
+(b) the name of the applicant, the applicant’s medical condition, the symptom that is associated with that condition or its treatment and that is the basis for the application and whether the symptom is a category 1 or 2 symptom;
+(c) for the purpose of determining, under subsection 11(3), the maximum quantity of dried marihuana to be authorized, the daily amount of dried marihuana, in grams, and the form and route of administration that the applicant intends to use;
+(d) the anticipated period of usage, if less than 12 months;
+(e) that conventional treatments for the symptom have been tried or considered and have been found to be ineffective or medically inappropriate for the treatment of the applicant; and
+(f) that the medical practitioner is aware that no notice of compliance has been issued under the Food and Drug Regulations concerning the safety and effectiveness of marihuana as a drug.
+(2) In the case of a category 2 symptom, the medical declaration must also indicate
+(a) if the medical practitioner making the medical declaration is a specialist, the practitioner’s area of specialization and that the area of specialization is relevant to the treatment of the applicant’s medical condition; and …
+...
+11(1) Subject to section 12, if the requirements of sections 4 to 10 are met, the Minister shall issue to the applicant an authorization to possess for the medical purpose mentioned in the application, and shall provide notice of the authorization to the medical practitioner who made the medical declaration under paragraph 4(2)(b).
+(2) The authorization shall indicate
+(a) the name, date of birth and gender of the holder of the authorization;
+(b) the full address of the place where the holder ordinarily resides;
+(c) the authorization number;
+(d) the name of the medical practitioner who made the medical declaration under paragraph 4(2)(b);
+(e) the maximum quantity of dried marihuana, in grams, that the holder may possess at any time;
+(f) the date of issue; and
+(g) the date of expiry.
+(3) The maximum quantity of dried marihuana referred to in paragraph (2)(e) or resulting from an amendment under subsection 20(1) is the amount determined according to the following formula:
+A × 30
+where A
+is the daily amount of dried marihuana, in grams, stated under paragraph 6(1)(c) or subparagraph 19(2)(d)(i), whichever applies.
+[6] There is also provision in the MMARs to apply for a licence to produce marihuana.
+70.2 A licensed dealer producing dried marihuana under contract with Her Majesty in right of Canada may provide or send that marihuana to the holder of an authorization to possess.
+70.3 A pharmacist, as defined in section 2 of the Narcotic Control Regulations, may provide dried marihuana produced by a licensed dealer under contract with Her Majesty in right of Canada to the holder of an authorization to possess.
+70.4 A medical practitioner who has obtained dried marihuana from a licensed dealer under subsection 24(2) of the Narcotic Control Regulations may provide the marihuana to the holder of an authorization to possess under the practitioner’s care.
+70.5 The Minister may sell or provide dried marihuana produced in accordance with section 70.2 to the holder of an authorization to possess.
+[7] On an applicant’s form for an ATP the Applicant must declare:
+I am aware that a notice of compliance has not been issued under the Food and Drug Regulations concerning the safety and effectiveness of marihuana as a drug. I understand the significance of this fact. I am aware that the benefits and risks associated with the use of marihuana are not fully understood and that the use of marihuana may involve risks that have not been identified; and I accept those risks.
+[8] On the medical practitioner’s certificate it is stated:
+Health Canada’s examination of the current available information suggests most individuals use an average daily amount of one gram to three grams of dried marihuana for medical purposes, whether it is taken orally, or inhaled or a combination of both.
+(a) the proposed daily amount of dried marihuana is less than or equal to _____ grams; and
+(b) the following method and form of administration (please check appropriate box):
+___ inhalation ___ oral
+The medical practitioner must also declare:
+I am aware that a notice of compliance has not been issued under the Food and Drug Regulations concerning the safety and effectiveness of marihuana as a drug.
+Food and Drugs Act “drug” includes any substance or mixture of substances manufactured, sold or represented for use in
+(a) the diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state, or its symptoms, in human beings or animals,
+(b) restoring, correcting or modifying organic functions in human beings or animals, or
+(c) disinfection in premises in which food is manufactured, prepared or kept;
+…
+PART 1
+FOODS, DRUGS, COSMETICS AND DEVICES
+General
+3.(1) No person shall advertise any food, drug, cosmetic or device to the general public as a treatment, preventative or cure for any of the diseases, disorders or abnormal physical states referred to in Schedule A.
+(2) No person shall sell any food, drug, cosmetic or device
+(a) that is represented by label, or
+(b) that the person advertises to the general public
+as a treatment, preventative or cure for any of the diseases, disorders or abnormal physical states referred to in Schedule A.
+…
+8. No person shall sell any drug that
+(a) was manufactured, prepared, preserved, packaged or stored under unsanitary conditions; or
+(b) is adulterated.
+…
+12. No person shall sell any drug described in Schedule C or D unless the Minister has, in prescribed form and manner, indicated that the premises in which the drug was manufactured and the process and conditions of manufacture therein are suitable to ensure that the drug will not be unsafe for use.
+13. No person shall sell any drug described in Schedule E unless the Minister has, in prescribed form and manner, indicated that the batch from which the drug was taken is not unsafe for use.
+…
+29.1(1) Subject to the regulations, the Minister may establish a list that sets out prescription drugs, classes of prescription drugs or both.
+…
+SCHEDULE C
+(Section 12)
+Drugs, other than radionuclides, sold or represented for use in the preparation of radiopharmaceuticals
+Radiopharmaceuticals
+SCHEDULE D
+(Section 12)
+Allergenic substances used for the treatment or diagnosis of allergic or immunological diseases
+Anterior pituitary extracts
+Aprotinin
+Blood and blood derivatives, except cord blood and peripheral blood that are a source of lymphohematopoietic cells for transplantation
+Cholecystokinin
+Drugs obtained by recombinant DNA procedures
+Drugs, other than antibiotics, prepared from micro-organisms
+Glucagon
+Gonadotrophins
+Human plasma collected by plasmapheresis
+Immunizing agents
+Insulin
+Interferon
+Monoclonal antibodies, their conjugates and derivatives
+Secretin
+Snake Venom
+Urokinase
+Marihuana Exemption (Food and Drugs Act) Regulations (since repealed) Exemptions
+2. Marihuana is exempt from the application of the Food and Drugs Act and the regulations made under it, other than these Regulations, if it is produced:
+(a) under contract with Her Majesty in right of Canada; or
+(b) under a designated-person production licence, as defined in subsection 1(1) of the Marihuana Medical Access Regulations.
+FOOD AND DRUG REGULATIONS “prescription drug” means a drug that is set out in the Prescription Drug List, as amended from time to time, or a drug that is part of a class of drugs that is set out in it;
+“Prescription Drug List” means the list established by the Minister under section 29.1 of the Act;
+[9] The FDA and the Food and Drug Regulations (“Regulations”) provide the regulatory review and monitoring process for drugs. Drugs that are approved will receive a drug identification number (“DIN”) and after 1963, a Notice of Compliance (“NOC”). There are requirements for approval and requirements for labelling and access. If approved there are also ongoing reporting requirements.
+[10] The Respondent called Mr. Ormsby, an official with the Therapeutic Products Directorate of Health Canada’s Health Products and Food Division. Mr. Ormsby described the process for approval of a drug pursuant to the FDA and Regulations to ensure the safety and efficacy of the drug. Clinical trials would be run to make that determination. The Directorate also evaluated the quality of the drug, how it is made and quality of the manufacturing practices. If the application for approval of a new drug is successful, the drug will receive a NOC and DIN. Dried marihuana has never been submitted for such an approval, though an extract for cancer treatment has been approved.
+[11] With the introduction of the MMARs it was necessary for Health Canada to amend the FDA and Regulations to allow dried marihuana to be sold in a legal manner, as Mr. Ormsby put it. But he testified only dried marihuana from a contract with Her Majesty or through a licensed producer would be exempt under the FDA, but such exemption did not extend to other forms.
+FACTS REGARDING MR. HEDGES’ MARIHUANA [12] With that regulatory background, I now turn to the facts of Mr. Hedges’ sale of Po-Chi to the BCCCS.
+[13] Mr. Hedges has been growing marihuana on Gabriola Island since 1988‑89. Initially it was solely for his own use to control pain arising as a result of having been born with a deformed hip. While there is no medical evidence of Mr. Hedges’ condition, I believe him that he suffered pain and that the marihuana assisted him in relieving the pain.
+[14] In 1998, Mr. Hedges heard an interview on CBC with Ms. Black, the Founder of the BCCCS. He believed he could help her organization by supplying his marihuana, which at that time was cannabis sativa. However, he acquired some seeds in 2000 for a different marihuana plant, cannabis indica, and found it produced a less lethargic, more uplifting effect. Since that time, he has grown cannabis indica and that is the marihuana he provided to the BCCCS in the years in issue. He named his product Po-Chi. He did not hold any authority under the MMARs.
+[15] Mr. Hedges described in some detail the growing process. It consisted of three stages: the clone stage, the leaf stage and the final or bud stage. During the years in issue he had approximately 60 to 80 plants in the bud stage, 40 to 50 in leaf stage and 30 or so plants in the clone stage. This enabled him to make monthly supplies to the BCCCS yielding sales of just over $300,000 for the periods in issues. He sold exclusively to the BCCCS.
+[16] Mr. Hedges’ operation on Gabriola Island took place in his workshop. The marihuana plants were kept in three sealed rooms, one for each stage. There were different conditions in the three rooms; for example, fluorescent lighting in the leaf room versus high pressure sodium lighting in the bud room, encouraging flower production. In the bud room the plants matured to the point of readiness for harvesting. The buds, the flower portion, were placed in trays with warm air passing over them to dry them out, making the product appropriate for smoking. Fans were used in all three rooms, some vented to the outside, some not.
+[17] The plants would be tended twice daily, providing proper nutrients and watering, as well as inspecting for mold. Mr. Hedges had a partner, Mr. Hobson, who was more hands on in this regard than Mr. Hedges, who described himself as being more in charge of quality control.
+[18] Mr. Hedges was cross-examined on the cleanliness of the operation as there were dozens of photographs, some found in Mr. Hobson’s computer, many taken by the police at a January 2010 raid on the premises (more on that later). The overall impression left by the photos was of a somewhat ramshackle workshop, far from spotlessly clean. It appeared messy, with tarps covering some portions of some of the outbuildings. There appears to have been a main cabin with other buildings in this wooded area of Gabriola Island: one of the buildings was a workshop where the marihuana was cultivated.
+[19] Mr. Hedges claimed to have used filtered rain water, cleaning the filter a few times per year, though acknowledged the water was never tested. Plants would be fertilized and also treated with fungicides as well as being sprayed with hydrogen peroxide and water. He acknowledged that he did not sterilize his clothing or use covers for his footwear, though would occasionally use plastic gloves to keep resin off his fingers.
+[20] Mr. Hedges never got an ATP certificate from the Government of Canada and also never became a licensed producer.
+[21] In January 2010 there was a police raid at Mr. Hedges’ property. Prior to that he and Mr. Hobson had shut down the operation, leaving only two marihuana plants. Several root balls of plants were put onto a compost heap. Mr. Hedges testified he restarted cultivating Po-Chi from these root balls.
+[22] In 2014, Mr. Hedges and Ms. Black mailed two samples of cannabis to Experchem Laboratories Inc. for testing. One sample was Mr. Hedges’ Po-Chi and the other was a Health Canada approved cannabis obtained from a BCCCS member with an ATP.
+BCCCS [23] I turn now to a review of the BCCCS founded by Hilary Black in 1997, incorporated as a society in 1998. Ms. Black indicated the BCCCS was established to create a legal environment for those who needed medicinal marihuana and to ensure access to an uncontaminated safe product.
+[24] To become a member of the BCCCS an individual had to provide a practitioner’s certificate (practitioners included physicians, dentist, naturopaths and practitioners of Chinese medicine). This form is a confirmation of a diagnosis by the doctor and a description of the symptoms. The BCCCS developed a list of afflictions for which Ms. Black said evidence showed cannabis was efficacious. If the practitioner identified such an affliction the individual would become a member, unless the practitioner indicated cannabis was not recommended for medical reasons. If the practitioner simply indicated cannabis was not recommended for legal reasons, the individual would still become a member.
+[25] Once BCCCS received the practitioner’s certificate it would contact the practitioner to confirm he or she signed the form and understood his or her patient was becoming a member to access cannabis. The BCCCS would also confirm the doctor was in good standing.
+[26] Once a member, the individual would receive a one-on-one orientation to the program. This was explained by Ms. Nestegard, a registered professional counsellor, who worked for BCCCS. At the orientation the staff member would go over the diagnosis and symptoms with the new member, discuss the history of cannabis use, determine if there are any allergies and find out what prescription drugs were being taken. The member would complete a registration and receive a package including a document of Rights and Responsibilities of members and a membership card. The document stipulated limits may be imposed on the use of cannabis and that the cannabis was for personal use only. The BCCCS would keep track of quantities sold through a software program. It limited members to five grams per day, acknowledging that would be the high end of use. Members also received a tracking log.
+[27] It was possible for a member to arrange for a caregiver to attend the BCCCS dispensary on his or her behalf or acquire the product through a mail out, although my impression was the vast majority of members attended personally to acquire the cannabis. The dispensary would have a menu indicating different brands such as Po-Chi, as well as different forms: edible form for example. Members would experiment with different brands ultimately determining what was most effective for their particular needs. Staff members dispensing are, according to a BCCCS website: “well informed of the strains and products being distributed in order to support members with the most efficacious selection.” In the periods in question, there were approximately 6000 members, 3500 of whom were considered active.
+[28] An administrator and purchaser for BCCCS, Mr. Vandebeek, testified with respect to the acquisition of cannabis from the cultivators. To become a cultivator, such as Mr. Hedges, a sample would be provided to BCCCS and staff members and regular members would sample it to get a consensus as to strength, effect, cleanliness and burn. Staff members would sample first to ensure it was not dangerous for someone with a medical condition. If this proved satisfactory, a larger sample would be requested to undergo lab testing (for bacteria, e-coli, fecal content, yeast, mold etc.). Tests would occur every six months, or once the brand had a proven record, tests would be done annually.
+[29] If the cannabis passed muster at the test, the cultivator would be interviewed. A letter outlining the terms of the arrangement is provided to the cultivator, who would start with a three month probation period. While the BCCCS could make spot inspections of the cultivator’s operation, it seldom did: it did not inspect Mr. Hedges’ operation.
+[30] Once a cultivator is accepted as a supplier, when the cultivator brings cannabis to the BCCCS, as Mr. Hedges did monthly, it will be examined, weighed and a purchase order would be completed. No invoice was received from the cultivator.
+[31] Five BCCCS members tested as to their affliction, their use of Po-Chi and its therapeutic effect. It is unnecessary to go into the detail of each member’s testimony. There were common themes. The ailments included debilitating neuropathy, HIV, chronic gastro-intestinal issues causing nausea, fibromyalgia, rheumatoid arthritis, depression, severe migraines and degenerative disc diseases. All members had sought mainstream medical help, including taking prescribed drugs. One member listed five or more prescription drugs she previously had taken, along with a greater number to deal with side effects. All members failed to obtain significant relief from such treatments.
+[32] For all of the members testifying a doctor had completed the practitioner’s form to allow them to become members of the BCCCS.
+[33] All of them acquired Po-Chi and ingested it in different forms, and all of them were positive in describing the relief it provided, either from pain or nausea. As one member put it, it allowed her to get past the pain and live a normal life.
+[34] Two members also had ATPs. For one, her doctor recommended 2.5 grams per day, though she continued to prefer acquiring Po-Chi through the BCCCS.
+Expert Report [35] I accepted the expert report of Dr. J. Page, an adjunct professor with the Botany Department at University of British Columbia, though I had parts of his report redacted after having heard his qualifications. Specifically, I was not prepared to receive his opinion on whether Po-Chi was a drug, a legal issue for me to decide.
+[36] However, Dr. Page’s testimony was necessary to give me an understanding of the botany of cannabis and to interpret the lab results of the two samples provided to Experchem Laboratories Inc. in 2014. Dr. Page indicated at the outset of his report cannabis has been used as a medicine for millennia.
+[37] There are biological categories for cannabis and functional categories. The latter are more commonly known. They are hemp and marihuana; the former grown for its industrial use and the latter with a high Tetrahydrocannabinol (“THC”) to Cannabidiol (“CBD”) proportion, grown for medical or social use.
+[38] Biologically the genus cannabis has two major species: sativa and indica. Dr. Page referred to a third category though this seemed insignificant for purposes of these Reasons. The sativa and indica cannabis plants differ in their look with sativa being taller and thinner and indica being shorter, squat with a darker green colour. They also differ in their effect: one with more uplifting properties and the other more sedative. There could also be hybrids.
+[39] Plants may have required names or cultivars. However, given the history of marihuana this has not occurred and instead growers have developed strains, and simply provided their own brand name like Po-Chi. Dr. Page suggested there could be thousands of strains.
+[40] The female flowers of the marihuana plant contain chemicals: cannabinoids (110 of them, though THC and CBD make up 95% to 98% of the cannabinoids) and terpenes, a group of chemicals found in many plants, unlike cannabinoids which are only found in cannabis. Different strains will have different combinations of terpenes, which affect odour, as well as having different proportions of THC and CBD. THC is the principle psychoactive cannabinoid. It reacts with specific cannabinoid receptors in humans causing pharmalogical effects. Depending on the degree of content of THC and CBD, the cannabis plant is classified as Chemotype 1 (high THC to CBD), Chemotype 2 (equal in proportions) and Chemotype 3 (low THC to high CBD). Marihuana is most often Chemotype 1.
+[41] In 2007 to 2009, a strain known as MS-17/338 was available from Health Canada through the MMARs. This strain evolved from seeds formerly seized by authorities. Health Canada attempted to find a middle of the road strain: MS‑17/338 had a THC to CBD rating of 12.5% plus or minus 2% THC to less than .5% CBD. Health Canada has since approved 58 strains and Dr. Page surmised there could eventually be several hundred strains.
+[42] With respect to the comparison of the two samples submitted in 2014 to Experchem Laboratories Inc. for testing, Dr. Page described them as both Chemotype 1. He described the Po-Chi as similar to the Health Canada approved 58 strains. He did acknowledge a profile can change over time depending on the nature and nurture of the plant, and the post-harvest treatment. He opined that, while difficult to know for certain without detailed knowledge of all surrounding conditions, it is possible marihuana could be cultivated by vegetative propagation from a root ball of cannabis plant.
+[43] Health Canada charged consumers GST on marihuana supplied pursuant to the MMARs.
+Issue [44] There are four questions to answer to determine whether Po-Chi is zero‑rated pursuant to the Act:
+1) What is Po-Chi? I conclude Po-Chi is dried marihuana.
+2) Is dried marihuana a drug as that term is used in Schedule VI-I-2(d) of the Act? I conclude dried marihuana sold for use in therapeutic treatment is such a drug.
+3) Does it contain cannabis or THC? I conclude it does.
+4) Is it a drug that can be obtained pursuant to the MMARs without a prescription or exemption? I conclude it is and therefore is specifically carved out of the category of drugs that are zero-rated.
+1) What is Po-Chi?
+[45] Mr. Hedges described his marihuana cultivation process in some detail. I find his plants were cannabis and that part of the process was a drying stage to end up with dried marihuana. I am satisfied that what he produced was dried marihuana as that term is defined in the MMARs.
+2) Is dried marihuana a drug as that term is used in Schedule VI-I-2(d) of the Act?
+[46] The Respondent argues that for a drug to qualify as a drug, zero-rated, under Schedule VI-I-2(d) of the Act it must be a substance approved by Health Canada as a therapeutic product accessible to Canadians by prescription.
+[47] The Appellant took me through several alternative definitions of drug, from the man on the street definition to dictionary definitions, recognizing however that, given the recreational use of marihuana, I should explore the definition more studiously.
+[48] I was referred to the Robitaille v. Quebec[1] case, a Quebec sales tax assessment case where the court ruled:
+Thus, the legislative intent of these provisions is not the zero-rating of drugs such as cocaine, but the zero-rating of medications, that is to say, drugs within the meaning of the Food and Drugs Act, which contain narcotics and are prescribed by a physician.
+The Appellant suggests that even if the Robitaille case adds the element of being sold for use as medication to the definition of drug, that definition is still met in this case. What the Appellant objects to is the addition of the need for a “prescription” to qualify as a drug for purposes of Schedule VI-I-2(d) of the Act. Ultimately, the Appellant’s position is that the definition in the FDA is appropriate, though perhaps with the injection of an element of bona fides in the representation of the use for therapeutic purposes (precluding marihuana for recreational use, masked as being used for medical purposes).
+[49] I take from the Parties’ submissions that both might accept the FDA definition of drug as a starting point, but with the Respondent suggesting an additional requirement that it must be approved under the FDA and accessible by prescription, and the Appellant suggesting an element of bona fides as described earlier.
+[50] Textually, the word drug in Schedule VI-I-2(d) of the Act can be afforded any of the definitions suggested by the Appellant. I agree though with the Parties that an appropriate starting point is the FDA. Several provisions in Schedule VI‑I-2(d) of the Act refer to the FDA. It is that Act that governs the review and approval of drugs generally to assure the public of their safety and effectiveness. It is that Act which identifies drugs as the type of substance that should undergo a review process, not one that has successfully undergone the review process, culminating with a NOC.
+[51] This is made quite clear in the applications by those seeking an ATP and those practitioner’s completing their medical declaration, both pursuant to the MMARs. They are required to declare or acknowledge that they are “aware no notice of compliance has been issued under the Food and Drugs Regulations concerning the safety and effectiveness of marihuana as a drug.”
+[52] While the MMARs are regulations enacted under the auspices of the Controlled Drugs and Substances Act, clearly these regulations recognize the role of the FDA and Regulations in addressing safety and effectiveness. I conclude it is appropriate to import the FDA definition of drug into these regulations.
+[53] So, for purposes of not only the FDA and Regulations but also the MMARs, I would accept the FDA definition of drug as governing. I would also accept that definition as the most appropriate textual definition in Schedule VI‑I‑2(d) of the Act.
+[54] Does a contextual and purposive analysis stretch that definition to impose requirements of approval by Health Canada and accessible by prescription? Look at some of Schedule VI-I-2(d)’s neighbours, starting with Schedule VI‑I-2(f) of the Act: “A drug included in Schedule C or D to the Food and Drug Act”. I turn to Schedules C and D and there is a list of drugs from aprotinin to urokinase: the list means nothing to me. The only reference in the FDA to Schedule C and D is section 12 which reads:
+12. No person shall sell any drug described in Schedule C or D unless the Minister has, in prescribed form and manner, indicated that the premises in which the drug was manufactured and the process and conditions of manufacture therein are suitable to ensure that the drug will not be unsafe for use.
+[55] The list in Schedule D does not state these drugs have received an indication from the Minister of Health required by section 12, just that they cannot be sold without such indication. Mr. Ormsby suggesting to me all such drugs on the list are approved by Health Canada, does not somehow change the Schedule D list to something it is not: an approved list as opposed to a list requiring some form of approval. It is more accurate to say this is a list of drugs required to be approved before they can be sold. Division D of the Regulations set out requirements regarding Schedule D drugs with respect to their fabrication, packaging, testing, labelling, etc.
+[56] Similar comments can be made with respect to Schedule VI-I-2(c) of the Act, drugs on the Schedule to Part G of the Regulations. Again, the schedule lists such drugs as amphetamines, barbiturates, and steroids. Likewise there are Regulations imposing requirements on the drugs on the list, but I do not interpret that as turning the schedule into a list of approved drugs, as Mr. Ormsby might suggest. This becomes somewhat circuitous in that if on the list, but not approved, they cannot be sold legally. If they cannot be sold legally do they fall outside the FDA definition of drug. I do not believe so.
+[57] Schedule VI-I-2(b) of the Act refers to drugs on a subsection 29.1(1) FDA list. This list is a list of prescription drugs.
+[58] Schedule VI-I-2(e) and (f) of the Act are drugs used in emergency situations, for which, according to Mr. Ormsby, there would be no time to obtain a prescription, or for which special access to a foreign drug is required.
+[59] The Respondent argues all other categories are approved drugs and thus “drug” under Schedule VI-I-2(d) of the Act must be interpreted similarly. Firstly, I do not accept the Respondent’s basis that all drugs in this schedule referred to are approved. Some are simply schedules with names of drugs and one then goes to the Regulations to determine what approval process applies to them. I see no basis for concluding “drug” in Schedule VI-I-2(d) of the Act implicitly means approved drug on a contextual reading.
+[60] Indeed, in Schedule VI-I-2(f) of the Act the legislator specifically used the word “authorize” to further define drug. He did not do so in Schedule VI-I-2(d) of the Act.
+[61] The Respondent would have me import the whole regulatory process under the FDA into the definition of drug for purposes of Schedule VI-I-2 of the Act. If that was intended it would have been a simple matter for the legislators to do that, rather than leaving it to conjecture and implication. If the common thread of the other Schedule VI-I-2 of the Act categories is not approved drugs but drugs requiring approval before sale, I do not see how such a common identifying factor would preclude dried marihuana.
+[62] Schedule VI-I of the Act is headed “Prescription Drugs and Biologicals”. This does cause me some pause, though there is at least one category, emergency drugs if you will, that may not be prescription drugs. I am not swayed by the heading that “prescription” is an added defining element to “drug” in Schedule VI-I-2(d) of the Act.
+[63] From a purposive perspective, the Respondent argues that Parliament did not intend to bestow zero-rated status on drugs not approved as therapeutic products by the Minister of Health, and points primarily to context for support, though also refers to a comment from a House of Commons Legislative Committee that there “will be no tax on drugs prescribed by physicians”. The latter comment only goes so far – yes, there is no tax on drugs prescribed by physicians but it does not follow that all Schedule VI-I Act are therefore prescribed drugs. I put little weight on this one-liner.
+[64] I was provided with nothing concrete outlining the Government’s intention vis-à-vis zero-rating drugs in Schedule VI-I of the Act that might assist in defining the word “drug”. It cannot just be for drugs needed for one’s health, as many over-the-counter products would not be caught by Schedule VI-I of the Act. The Appellant suggests that in looking at zero-rated supplies generally, they appear to be for “necessaries of life” as opposed to discretionary purposes. So, for example, basic groceries are zero-rated while candy and restaurant meals are not. The Appellant suggests the purpose of Schedule VI-I of the Act is therefore to zero-rate drugs for serious ailments. I do not find this particularly helpful in defining drug: it opens up a Pandora’s box of what is or is not a serious ailment: headaches versus migraines for example. What is a serious ailment for one may not be a serious ailment for another. No, I am not prepared to add an element of the seriousness of the ailment to the definition of drug in Schedule VI-I-2 of the Act.
+[65] So, what am I left with for a definition of drug for purposes of Schedule VI-I-2 of the Act? The definition of drug should be consistent throughout Schedule VI-I-2 of the Act: “drug” in paragraph 2(a) for example should not mean anything different than “drug” in paragraph 2(d) notwithstanding paragraph 2(a) references the FDA and paragraph 2(d) references the Controlled Drugs and Substances Act. If the drafters of the Act had intended some varying meaning they would have indicated “a drug, as defined in the FDA, included in…” or “a drug, as defined in the Controlled Drugs and Substances Act, …”
+[66] A more generic definition is, I find, appropriate, and given the FDA is the primary regulatory regime for the approval and the identification of drugs, and given a textual, contextual and purposive review of the word has lead to no more apt definition, I rely on the FDA definition as being the operative definition of the word “drug” in Schedule VI-I-2 of the Act.
+[67] Does dried marihuana meet that definition?
+It is worth repeating the FDA definition:
+“drug” includes any substance or mixture of substances manufactured, sold or represented for use in
+(a) the diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state, or its symptoms, in human beings or animals,
+(b) restoring, correcting or modifying organic functions in human beings or animals, or
+(c) disinfection in premises in which food is manufactured, prepared or kept;
+…
+The Respondent says “drug” should not be defined by its purpose, yet the FDA definition itself does just that by the words “for use in”. Dried marihuana sold for use recreationally is not a drug as defined under the FDA, while dried marihuana sold for use therapeutically is. So it is not appropriate to say dried marihuana is a drug is a drug. It does indeed depend on use.
+[68] The Respondent argues that the Appellant called no expert evidence to allow me to conclude, as a matter of fact, that dried marihuana falls within this definition. The Respondent cautions me to not rely upon anecdotal evidence of five people who purchased Po-Chi from the BCCCS.
+[69] Yet, let us be clear on the definition. It does not say a drug proven to be effective in diagnosis, treatment etc. or correcting organic functions. It says a substance sold or represented for use in the diagnosis, treatment etc. I find as a fact that Po-Chi was represented for use in treatment of a disease, disorder and for use in correcting organic functions. The Respondent seems to suggest I must reach a conclusion on the efficacy of the dried marihuana, that it must be proven to have a therapeutic effect. That is simply not how the definition reads. However, I combine Dr. Page’s description of the marihuana with a review of the literature he attached to his expert report, with the strong heartfelt testimony of the Po-Chi users and I have no difficulty in concluding, as a fact, that dried marihuana can have a therapeutic effect on humans. The Respondent may suggest that I have only heard half the story and have not been made aware of harmful effects. But how does that differ from the testimony I heard from one Po-Chi user suggesting she had been on a cocktail of prescription drugs, many of which she took to counter the harmful effects of other prescription drugs. It takes little evidence to conclude there is a risk with drugs of any description. Medication requires a risk-benefit analysis, but that does not preclude a substance such as dried marihuana from being defined as a drug. It is a drug for purposes of Schedule VI-I-2 of the Act.
+3) Does dried marihuana contain cannabis or THC?
+[70] Dried marihuana is cannabis; it certainly contains THC. This condition is met .
+4) Is dried marihuana a drug that can be obtained pursuant to the MMARs without prescription or exemption? If so, it is carved out of being zero‑rated.
+[71] I have found that dried marihuana represented for use therapeutically is a drug for the purposes of the Act. Further, there is no additional categorization of dried marihuana as a drug depending on whether it is sold legally or illegally; in other words, sold pursuant to MMARs to someone with an ATP or sold by Mr. Hedges to the BCCCS. In either case it is still a drug for purposes of the Act, and if dried marihuana is carved out via the exclusion in Schedule VI-I-2(d) of the Act, then all dried marihuana as a drug is carved out. It would lead to an absurdity to find dried marihuana sold pursuant to the MMARs is excluded and therefore not zero‑rated, while dried marihuana sold by Mr. Hedges to the BCCCS is not excluded and is zero-rated. This goes to the unconditional nature of Schedule VI-I-2(d) of the Act, as currently drafted. Dried marihuana as a drug is zero-rated or it is not. If I find dried marihuana as a drug is excluded, then all dried marihuana as a drug is so excluded: conversely, if I find dried marihuana as a drug is zero-rated, all dried marihuana as a drug is zero-rated. This latter conclusion might be of concern to the legislators. Fortunately, I do not have to address it because, for the reasons that follow, I find dried marihuana is caught by the exclusion and therefore not zero-rated. I raise this for consideration of the legislators as laws surrounding marihuana use remain in a state of flux. If the legislators envision a day when some strains of dried marihuana may indeed be prescribed, then they need to determine whether or not they want to distinguish between such prescribed strains and strains of dried marihuana possibly still available without prescription (such as through BCCCS). I respectfully suggest the legislation as currently worded would require some tinkering depending on Parliament’s intention.
+[72] Before addressing what the real issue is on this fourth condition, being whether the MMARs take dried marihuana out of being zero-rated, I will address the Appellant’s argument that this fourth condition really excludes drugs that “can be sold over-the-counter”, or put another way, all it takes to buy the drug is money. Even if I were to accept that there is a colloquial way of interpreting this technical provision, I suggest that the Appellant does not go far enough. What I find is implicit in the carve out in Schedule VI-I-2(d) of the Act is an exclusion of drugs that can simply be bought with money and with no Government control, regulation, intervention, call it what you will. And, frankly, that is exactly how anyone can buy Po-Chi. For example, everyone suffering from severe migraines can become a BCCCS member, approach their doctors and have the doctors complete a BCCCS form and presto they can choose whatever dried marihuana they want from the BCCCS menu.
+[73] If the Appellant means that, as not everyone can acquire dried marihuana lawfully without a Government authorized ATP, dried marihuana cannot be called an “over-the-counter” drug, then the Appellant is creating the very categorization of the drug dried marihuana (legal versus illegal) that the Appellant urges me not to make. I do not distinguish the drug dried marihuana on this basis.
+[74] In any event, I am not prepared to read “over-the-counter” into Schedule VI-I-2(d) of the Act, but even if I was so prepared, I find it does not help Mr. Hedges. I intend to interpret the words of Schedule VI-I-2(d) of the Act as written, and I interpret them as saying, in connection with dried marihuana: dried marihuana is zero-rated unless dried marihuana may, under the MMARs, be sold to a consumer without a prescription or exemption. That is how the provision reads.
+[75] The Appellant raises three arguments why dried marihuana, even under this phrasing of the issue, is not carved out of being zero-rated.
+[76] First, the Appellant argues that “may be sold to a consumer” without a prescription can only mean sold to any consumer and not be read as applying only to those very limited consumers who purchased dried marihuana through an ATP. The section says what it says - “sold to a consumer”. Whether only someone with an ATP can buy is immaterial. That person is still a consumer. I see no rationale on a grammatical basis that “a” should be interpreted as “any”.
+[77] The Appellant goes on to argue that there can be no conceivable policy for an interpretation that if dried marihuana could be sold to just one consumer without a prescription then all dried marihuana is excluded. This somewhat begs the question: what is the policy vis-à-vis the drug dried marihuana and drugs that are clearly zero-rated? With respect, there is no clearly defined policy of which I have been made aware. Further, while embracing principles of logic to distinguish “a” and “any” may produce a grammatical argument, it loses sight of life’s realities. The reality is anyone with a certain disease can apply for an ATP – the fact few have is irrelevant. We are not talking about one consumer. What if “sold to a consumer” was replaced with “sold to consumers”, would that require the possibility that two people could apply for an ATP and then meet the requirement. The Appellant referred me to subsection 36(1) of the Narcotic Control Regulations which specifically permit a pharmacist to supply a certain amount of codeine phosphate without a prescription. The Appellant suggested this is the sort of drug that was meant to be captured by the exclusionary wording in Schedule VI-I-2(d) of the Act; in effect an over-the-counter drug. I agree, yet it does not follow that only such language as set out in subsection 36(1) of the Narcotic Control Regulations is what was intended by the legislators. It is still necessary, I maintain, to determine if the scheme in the MMARs is a scheme that allows sales to consumers without a prescription or exemption.
+[78] The Appellant goes on to argue that interpreting “a” to mean “one” would result in the following absurdity. Police, pursuant to regulations under the Controlled Drugs and Substances Act (Police Enforcement) Regulations,[2] may legally sell drugs listed in the Controlled Drugs and Substances Act schedules to anyone without a prescription: therefore, argues the Appellant, it follows that every single drug listed in the Controlled Drugs and Substances Act schedules could never be zero-rated. This ability of the police is pursuant to an exemption. The exemption is set out in the regulations: if this can be considered an exemption by the Minister of Health, then the Appellant’s argument is without merit. Surely one must inject an element of common sense into interpretations; to borrow the Appellant’s phrase, it is inconceivable all drugs in the Controlled Drugs and Substances Act schedules would never be zero-rated because there can be a sale by police pursuant to an exemption. This has not convinced me I should interpret the expression in Schedule VI-I-2(d) of the Act to mean “may be sold over-the-counter”.
+[79] Finally, the Appellant points to the French version of Schedule VI-I-2(d) of the Act which reads in part “peuvent être vendus au consommateur” as meaning any and every consumer. I disagree. I believe “au consommateur” catches the same meaning as “a consumer”: there is no inconsistency between the French and English wording.
+[80] The Appellant’s second argument on this issue was that the sale of marihuana under the MMARs is a sale under prescription and, consequently, as dried marihuana can only be sold pursuant to the MMARs by prescription, dried marihuana is not carved out of being zero-rated.
+[81] So, is the medical declaration required under the MMARs for an Applicant to obtain an ATP a prescription? What is a prescription?
+[82] As noted in the regulatory review, prescription is a defined term in Schedule VI-I-1 of the Act meaning “a written or verbal order, given to a pharmacist by a medical practitioner or authorized individual, directing that a stated amount or any drug or mixture of drugs specified in the order be dispensed for the individual named in the order”. The Appellant argues, however, that given how Schedule VI-I-2(d) of the Act is worded (“drugs that may, pursuant to the Controlled Drugs and Substances Act or regulations made under that Act, be sold to a consumer with neither a prescription…”), the word “prescription” should be defined by regulations made under the Controlled Drugs and Substances Act, in this case the Narcotic Control Regulations. It defines “prescription” as meaning, “in respect of a narcotic, an authorization given by a practitioner that a stated amount of the narcotic be dispensed for the person named in the prescription.” I disagree that this definition supplants the definition in Schedule VI-I-1 of the Act.
+[83] Had the legislators wanted to define “prescription” in Schedule VI-I-2(d) of the Act differently than how the word is specifically defined in Schedule VI‑I‑1 of the Act, they would have had to have been clearer, using words such as “a prescription within the meaning of Narcotic Control Regulations.” Short of that, I find the term “pursuant to the Controlled Drugs and Substances Act or regulations made under that Act”, fitting between the words “may” and “be sold”, simply reflects the authority to sell under the MMARs, but neither explicitly or implicitly requires prescription to fall under the Narcotic Control Regulations definition. I recognize this reflects the wording in Schedule VI-I-2(d) of the Act that was changed slightly when “exemption” was introduced, but I am of the same view regarding the former wording. Under both the old and new versions, I find “prescription” is as defined in Schedule VI‑I of the Act itself.
+[84] Prescription requires an order given to a pharmacist. The medical declaration required to be completed by a practitioner pursuant to the MMARs is not an order nor is it given to a pharmacist. It is clearly not a prescription within this definition, but simply a declaration of support by a medical practitioner for an individual’s application for an ATP. That is all.
+[85] The Appellant referred me to the R. v. Mernagh[3] decision in which the Ontario Superior Court of Justice held the following:
+Though the declaration does not contain the express language of prescription, authorization or endorsement, it would be naïve to suggest that it is anything less than those things. The physician, by signing the declaration, is enabling the patient to use marihuana as medicine.
+That case, however, was not dealing with an explicit definition of the term prescription. It is of no assistance.
+[86] Even if I were to accept the Appellant’s contention that the Narcotic Control Regulations definition is the operative definition, I would still find that the medical declaration is not a prescription. The Narcotic Control Regulations stipulates an authorization that a stated amount be dispensed. A medical declaration is not an authorization: it is a declaration to accompany an individual’s application for an ATP.
+[87] Further, the medical declaration is not communicated directly to a dispenser. It goes back to the Government for determination of the success or failure of the applicant’s application.
+[88] The Narcotic Control Regulations definition of prescription requires a practitioner to authorize a stated amount to be dispensed. The requirement under section 6(c) of the MMARs, in connection with the completion of the medical declaration, is simply that the practitioner indicate “for the purposes of determining under subsection 11(3), the maximum quantity of dried marihuana to be authorized, the daily amount of dried marihuana, in grams, and the form and route of administration that the applicant intends to use.” Subsection 11(3) of the MMARs goes to the question of the amount of dried marihuana that can be possessed by the individual, not the dosage to be taken. Any amounts possessed in excess of the amount stated would subject the holder of an ATP to possible prosecution. This is not a stated amount for purposes of a prescription.
+[89] The Appellant referred me to two cases dealing with the term “prescription”, one in a criminal context (R v Falconi[4] and my decision in Pagnotta v R[5]). Both cases arrived at a similar conclusion. Falcone even cited the Narcotic Control Regulations definition. The conclusion was a prescription requires a communication by a doctor to someone to prepare or dispense a substance in stated amounts. I find even this definition is not met by the medical declaration.
+[90] The medical declaration is no guarantee that an ATP will ultimately be issued, as the individual must still meet the MMARs requirements. Again, this is unlike the normal prescribing of a drug by a practitioner: there are no preliminary conditions to filling a prescription.
+[91] No, the scheme set out in the MMARs does not expressly require a prescription nor can it be implied that the medical declaration constitutes a prescription on any definition of the word. I conclude dried marihuana may, pursuant to the MMARs, be sold to a consumer without a prescription.
+[92] Can dried marihuana be sold to a consumer without an exemption? Put another way, is the granting of an ATP by the Minister of Health an “exemption by the Minister of Health?” If so, then dried marihuana is not caught by the exclusion in Schedule VI-I-2(d) of the Act and would be zero-rated.
+[93] The Appellant points to the Department of Finance’s technical notes in April 2008 when the reference to “exemption” was introduced to Schedule VI‑I‑2(d) of the Act. It indicated:
+Paragraph 2(d) is amended to clarify that the only drugs listed in the Narcotic Control Regulations that are excluded from zero-rating under this paragraph are those drugs that can be sold to a consumer when neither a prescription nor an exemption from the Minister of Health authorizes the sale.
+[94] The Appellant suggests that by stating the Minister of Health authorizes a sale by prescription or exemption equates authorization to exemption, as being the same thing. I find that is a stretch. An ATP is not an exemption. There is no reference to “exemption” in the MMARs.
+[95] Sections 70.2 to 70.5 of the MMARs set out the sources from which an individual with an ATP can acquire dried marihuana. This is not written in terms of an exemption, as described in section 56 of the Controlled Drugs and Substances Act cited above. Had the legislators intended to create an exemption for dried marihuana, on the authority of sections 55 or 56 of the Controlled Drugs and Substances Act, then something similar to the Marihuana Exemption Regulations under the FDA would have been in order. This was not done.
+[96] I find an ATP is not an exemption by the Minister of Health.
+Conclusion [97] As is often the case, where statutes or regulations that arise subsequent to other pertinent legislation are to be interpreted in the context of that earlier legislation, there can be an awkwardness to the interpretation. That is what I am faced with. While I have found the term “drug” in the opening part of Schedule VI‑I‑2(d) of the Act can only be interpreted to include dried marihuana, this conclusion, given the ongoing evolution of marihuana-related legislation, renders the exclusionary clause (ie. beginning with “other than” in Schedule VI‑I‑2(d) of the Act) somewhat oblique in its application to dried marihuana.
+[98] Appellant’s counsel have raised strong and thought provoking arguments for an interpretation resulting in dried marihuana being zero-rated but, with respect, they have lost sight of the forest for the trees. This was most apparent to me in their argument that the exclusion in Schedule VI‑I‑2(d) of the Act was an exclusion of over-the-counter drugs. Po-Chi, I find, is more akin to an over‑the‑counter drug than a drug acquired by prescription: one has little or no Government control versus significant Government control.
+[99] The legislation has twisted itself out of shape by requiring the sale to a consumer pursuant to the Controlled Drugs and Substances Act regulations, being the MMARs, without prescription or exemption. It contemplates only lawfully managed drugs. And if a lawfully managed drug can be acquired without prescription (which I have determined dried marihuana can be by ATP) then it is not zero‑rated. And if it is not zero-rated, then dried marihuana that is not subject to the Controlled Drugs and Substances Act regulations cannot be zero-rated. It would be a nonsensical result otherwise. As I have intimated earlier in these Reasons, this area of legislation needs work. If the Government intends that all sales of dried marihuana are to be zero-rated, say so clearly. If the Government intends that all sales of dried marihuana are to be subject to GST, say so clearly. If the Government intends to have dried marihuana as a prescribed drug and only dried marihuana obtained by a prescription is to be zero-rated, say so clearly.
+[100] There is understandable confusion in the industry on this point. My conclusion is clear – dried marihuana sold by Mr. Hedges is not zero-rated. I cannot say, however, with a great deal of enthusiasm, that I have clarified the legislation itself: there remain gaps and inconsistencies. Regrettably, that is the nature of this legislative beast.
+[101] The Appeal is dismissed. I ask that counsel provide to the Court written submissions on costs on or before October 31, 2014.
+Signed at Ottawa, Canada, this 9th day of September 2014.
+“Campbell J. Miller”
+C. Miller J.
+CITATION:
+2014 TCC 270
+COURT FILE NO.:
+2011-2703(GST)G
+STYLE OF CAUSE:
+GERRY HEDGES AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+June 23, 24, 25, 27 and 30, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+September 9, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Alistair G. Campbell,
+David M. Sherman
+Counsel for the Respondent:
+Lynn M. Burch, Christa Akey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Alistair G. Campbell, David M. Sherman
+Firm:
+Legacy Tax & Trust Lawyers
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2010 QCCQ 9283.
+[2] Section 5.1
+A member of a police force who engages or attempts to engage in conduct referred to in section 5 of the Act by representing or holding out a substance to be a substance included in Schedule I, II, III or IV of the Act is exempt from the application of that section if the member
+(a) is an active member of the police force; and
+(b) is acting in the course of the member's responsibilities for the purposes of a particular investigation.
+[3] 2011 ONSC 2121 (Ont. SCJ).
+[4] 1976 31 C.C.C. (2d) (144) Ontario County Court.
+[5] (2001) 4 C.T.C. 2613.

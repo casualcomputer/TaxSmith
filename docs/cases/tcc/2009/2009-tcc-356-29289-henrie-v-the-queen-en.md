@@ -1,0 +1,144 @@
+---
+title: "Henrie v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29289/index.do"
+last_modified: "2009-07-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 356"
+citation2: ""
+neutral_citation: "2009 TCC 356"
+decision_date: "2009-07-02"
+language: "en"
+item_id: "29289"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7090
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:09:53.386000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "78579c48aef59852a1afd168021d22708b1b098a5ffe98fceb9f73c6e3f2c8fe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Henrie v. The Queen
+
+- Citation: 2009 TCC 356
+- Decision date: 2009-07-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7090, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Henrie v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-07-02
+Neutral citation
+2009 TCC 356
+File numbers
+2008-3240(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3240(IT)I
+BETWEEN:
+MAURICE HENRIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on June 22, 2009, at Ottawa, Canada
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the Respondent:
+Geneviève Léveillée
+____________________________________________________________________
+JUDGMENT
+The appeals from new assessments dated April 27, 2007, in which the Minister of National Revenue (the Minister) disallowed certain travel expenses during the 2004 and 2005 taxation years are dismissed with costs, in accordance with the attached reasons.
+Signed at Ottawa, Canada, this 2nd day of July 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 24th day of July 2009.
+Elizabeth Tan, Translator
+Citation: 2009 TCC 356
+Date: 20090702
+Docket: 2008-3240(IT)I
+BETWEEN:
+MAURICE HENRIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] Maurice Henrie is appealing from new assessments dated April 27, 2007, in which the Minister of National Revenue (the Minister) disallowed certain expenses that had been allowed in the initial assessments for the 2004 and 2005 taxation years.
+[2] The expenses at issue in this case involve travel expenses the appellant incurred during the 2004 and 2005 taxation years. The travel expenses total $15,466.32 for the 2004 taxation year and $13,371.11 for the 2005 taxation year. In his income tax report for the 2004 taxation year, the appellant only claimed 25% of the travel expenses incurred, for $3,866.58, to avoid any challenge by the Canada Revenue Agency (the CRA). This amount was allowed in the initial assessment and also in the notice of reassessment, but the appellant is now claiming 100% of his travel expenses. In his 2005 income tax report, the appellant claimed 100% of his travel expenses but the Minister only allowed 25%, or $3,342.78.
+[3] In his income tax returns for the 2004 and 2005 taxation years, the appellant claimed net professional losses of $11,564 and $10,403 respectively, and an income from professional fees of $3,274 for 2004, and $13,411 for 2005. The appellant is a Franco-Ontarian writer who has written many French literary works.
+[4] In 2004, the appellant travelled to: Cuba (twice), Germany, Russia, Mont‑Tremblant and Sudbury. In 2005, he visited Egypt, Peru, Dominican Republic, Tunisia and Mont-Laurier (snowmobile). The trips abroad were often for cultural tours organized by specialized agencies.
+[5] At the hearing, he admitted that during the trips taken in 2004 and 2005, he participated in only one literary event, but the goal was to enrich his experiences and expand his mind. During the years in question, the appellant wrote novels, news stories and memoirs, but none required historical research. According to the appellant, the experiences he had during his trips are not directly or specifically found in a particular book, but are reflected throughout his work. In support of his claim, the appellant provided over a dozen excerpts from his books as examples of direct influences from these trips.
+[6] During these trips, the appellant was accompanied by his spouse, but she covered her own expenses.
+[7] According to the appellant, all writers must travel as much as possible to add to their knowledge and feed their imagination. This is a recognized principle in Canada and the various provincial arts councils have special subsidy programs to encourage authors to travel abroad.
+[8] The applicable provisions from the legislation relevant to this case are: sections 18(1)(a), 18(1)(h) and 67 of the Income Tax Act, R.S.C. (1985) C. 1 (5th suppl.), as amended (the Act). These state:
+Section 18: General limitations
+(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of:
+(a) General limitation—an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+…
+(h) Personal and living expenses—personal or living expenses of the taxpayer, other than travel expenses incurred by the taxpayer while away from home in the course of carrying on the taxpayer's business;
+Section 67: General limitation re expenses
+In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+[9] The travel expenses in this case are not expenses incurred to produce income from a business or property, but rather personal or living expenses. The appellant did not show a direct link between the expense incurred and the activity of earning an income. It is in fact impossible to calculate how much each dollar of the travel expenses in a given taxation year generates in terms of additional income for the appellant's business in the year in question or in future years. In this case, there is no cause and effect between the expense and the income.
+[10] The travel expenses incurred by the appellant seem to be directed towards the ability to generate income by providing inspiration for new books, rather than generating additional income. In this sense, the travel expenses are considered a capital outlay, which is disallowed under paragraph 18(1)(b) of the Act. Paragraph 18(1)(b) states:
+(b) Capital outlay or loss—an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;
+[11] The CRA arbitrarily granted a deduction of 25% of the travel expenses incurred by the appellant in 2004 and 2005. This percentage was used because it corresponded to the amount the appellant used in his 2004 income tax return. In my opinion, 25% is reasonable and even generous under the circumstances, because the deduction of expenses could have been completely disallowed.
+[12] The travel expenses claimed in 2004 represented 472% of the gross business income whereas those in 2005 represented 100% of the gross business income. Whatever the reasons for which the business income was so low (limited market for French-language books in Ontario), there fact remains that the travel expenses claimed are excessive and disproportionate to the income earned. As a result, the deduction claimed as travel expenses in the appellant's calculation of income for 2004 and 2005 is prohibited under section 67 of the Act.
+[13] For these reasons, the appeals from the new assessments dated April 27, 2007, are dismissed without cost.
+Signed at Ottawa, Canada, this 2nd day of July 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 24th day of July 2009.
+Elizabeth Tan, Translator
+CITATION: 2009 TCC 356
+COURT FILE NO.: 2008-3240(IT)I
+STYLE OF CAUSE: MAURICE HENRIE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: June 22, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: July 2, 2009
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Geneviève Léveillée
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

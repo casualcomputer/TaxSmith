@@ -1,0 +1,175 @@
+---
+title: "Dawn's Place Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27051/index.do"
+last_modified: "2005-11-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 721"
+citation2: ""
+neutral_citation: "2005 CCI 721"
+decision_date: "2005-11-10"
+language: "fr"
+item_id: "27051"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 596
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:18:47.273000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d61cd0851d8e4c374a83452b6e2859e39d631be38c61abffc8e52c067b402cd4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dawn's Place Ltd. c. La Reine
+
+- Citation: 2005 CCI 721
+- Decision date: 2005-11-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 596, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dawn's Place Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-11-10
+Référence neutre
+2005 CCI 721
+Numéro de dossier
+2004-3381(GST)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-3381(GST)I
+ENTRE :
+DAWN'S PLACE LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+___________________________________________________________________
+Appel entendu le 14 juin 2005 à Edmonton (Alberta)
+Devant : l'honorable juge L. M. Little
+Comparutions :
+Avocat de l'appelante :
+Me Gordon D. Beck
+Avocates de l'intimée :
+Me Julie Rogers-Glabush
+Me Belinda Schmid
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise pour la période du 1er janvier 2001 au 31 décembre 2001, dont l'avis est daté du 29 janvier 2003, est accueilli, sans dépens, pour les motifs exposés dans les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2005.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 5e jour de février 2007.
+Mario Lagacé, jurilinguiste
+Référence : 2005CCI721
+Date : 20051110
+Dossier : 2004-3381(GST)I
+ENTRE :
+DAWN'S PLACE LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS :
+[1] L'appelante est une société constituée en vertu des lois de la province de l'Alberta.
+[2] Pendant la période de nouvelle cotisation (la « période de nouvelle cotisation » ), du 1er janvier 2001 au 31 décembre 2001, l'appelante a exploité un site Web « pour adultes » .
+[3] L'appelante a produit des images numériques, des graphiques et du texte qu'elle a assemblés en plusieurs pages Web. Ces pages Web seront ci-après collectivement désignées par l'expression « site Web » .
+[4] L'appelante soutient qu'elle a consacré un niveau suffisant de talent et de travail pour produire les images, les graphiques et les textes originaux, ce qui lui donne le droit de réclamer un droit d'auteur relativement au site Web.
+[5] L'appelante a perçu, pendant la période de nouvelle cotisation, des droits d'adhésion de 344 963,34 $ découlant de l'exploitation de son site Web en obligeant les personnes qui voulaient y accéder à en devenir membres.
+[6] L'appelante a établi des modalités et conditions relatives à l'adhésion des membres (les « modalités et conditions » ). Les modalités et conditions prévoyaient que les membres obtiendraient une licence restreinte pour accéder au site Web.
+[7] L'avocat de l'appelante a produit un document contenant les modalités et conditions qui régissaient l'utilisation du site Web (pièce A-3). Les modalités et conditions contenaient les dispositions suivantes :
+[traduction]
+2.b) tout le contenu affiché sur le présent site Web est assujetti aux droits d'auteur et autres droits de propriété intellectuelle de Dawn's Place ou de l'un des ses concédants, tous droits réservés;
+c) relativementà tout le contenu disponible, y compris le contenu de la partie du site Web dont l'accès est gratuit, vous avez le droit de conserver une copie de toutes les images ou fichiers vidéo pour votre propre divertissement et usage personnel sur un ordinateur; pour ce qui est du contenu en temps réel, vous aurez le droit d'y accéder pour votre propre divertissement et usage personnel;
+[...]
+12. Concession de licence restreinte : Dawn's Place vous concède une licence non exclusive, restreinte et révocable pour télécharger et visionner le contenu du présent site Web sur votre ordinateur pour votre propre usage personnel et non commercial. Le contenu comprend les images, le texte, les logos, les graphiques, l'information, les logiciels, le code machine, les applications, les animations, les vidéos et tout autre type de contenu multimédia. Vous n'êtes pas propriétaire du contenu.
+13. Détention de droits : tous les droits, titres et intérêts sur ce site Web, y compris, notamment, les droits d'auteur et les droits de propriété industrielle et commerciale, et tout le contenu accessible ou présenté dans ce site Web demeurent la propriété exclusive de Dawn's Place. Vous convenez de respecter la loi sur le droit d'auteur et toutes les autres lois applicables au Canada, aux États-Unis et dans les autres pays signataires des traités et conventions internationales protégeant le contenu et les logiciels.
+[8] L'appelante a retenu les services de divers fournisseurs de service Internet pour établir la procédure de vente d'abonnements en ligne.
+[9] L'avocat de l'appelante a déposé la pièce A-4 qui indique que l'appelante a vendu 12 479 abonnements par l'intermédiaire d'un fournisseur de services entre le 1er janvier et le 31 décembre 2001. Seulement 1 321 des 12 479 abonnements, soit 10,86 %, avaient été souscrits par des résidents canadiens.
+[10] L'avocat de l'appelante a déposé la pièce A-6 qui indique que l'appelante avait obtenu 4 286 abonnements par l'intermédiaire d'un autre fournisseur de services entre le 1er janvier et le 31 décembre 2001. Seulement 402 des 4 286 abonnements, soit 9,6 %, avaient été souscrits par des résidents canadiens.
+[11] L'avocat de l'appelante a également déposé la pièce A-5 qui indique que l'appelante avait obtenu 4 709 abonnements entre le 1er janvier et le 12 mai 2002. Seulement 437 des 4 709 abonnements, soit 9,2 %, avaient été souscrits par des résidents canadiens.
+[12] L'avocat de l'appelante a soutenu que, d'après les renseignements tirés des pièces A-4 et A-6 pour l'année 2001, environ 90 % des personnes ayant adhéré au site Web de l'appelante étaient des non-résidents du Canada.
+[13] Par un avis de nouvelle cotisation daté du 29 janvier 2003, le ministre du Revenu national a établi une nouvelle cotisation à l'égard de l'appelante pour l'année 2001. Cette nouvelle cotisation tenait compte du fait que le revenu de 344 963,34 $ tiré par l'appelante de la vente d'abonnements constituait une contrepartie pour la fourniture d'un bien meuble incorporel au Canada qui était taxable en vertu de l'article 165 de la Loi sur la taxe d'accise (la « Loi » ).
+B. QUESTION À TRANCHER :
+[14] La question à trancher est de savoir si l'appelante est tenue de payer la taxe d'accise de 7 % sur les droits d'adhésion de 344 963,34 $ qui lui ont été versés afin de pouvoir accéder à son site Web.
+C. ANALYSE :
+[15] L'article 123 de la Loi définit une fourniture détaxée comme étant la fourniture figurant à l'annexe VI.
+[16] L'article 10 de la partie V de l'annexe VI de la Loi est ainsi libellé :
+10. La fourniture d'une invention, d'un brevet, d'un secret industriel, d'une marque de commerce, d'une raison sociale, d'un droit d'auteur, d'une conception industrielle ou de toute autre propriété intellectuelle, ou des droits, licences ou privilèges afférents à leur utilisation, au profit d'un acquéreur non résidant qui n'est pas inscrit aux termes de la sous-section d de la section V de la partie IX de la loi au moment de la fourniture.
+[17] L'avocat de l'appelante soutient que le contenu du site Web de l'appelante constitue une propriété intellectuelle régie par l'article 10.
+[18] L'avocat de l'appelante affirme que trois conditions doivent être remplies pour qu'une fourniture puisse être couverte par la définition de l'article 10 :
+[traduction]
+Première condition - la fourniture doit être celle « d'une invention, d'un brevet, d'un secret industriel, d'une marque de commerce, d'une raison sociale, d'un droit d'auteur, d'une conception industrielle ou de toute autre propriété intellectuelle, ou des droits, licences ou privilèges afférents à leur utilisation » ;
+Deuxième condition - la fourniture doit être effectuée au profit d'un acquéreur non résidant; et
+Troisième condition - cet acquéreur ne doit pas être un inscrit aux fins de la TPS au moment de la fourniture.
+[19] Pour déterminer si l'article 10 s'applique dans la présente situation, je crois que nous devons nous concentrer sur le terme copyright ( « droit d'auteur » ).
+[20] Le terme copyright est ainsi défini dans le Black's Law Dictionary, huitième édition :
+[traduction]
+droit d'auteur - droit de reproduction, en particulier un droit de propriété sur l'oeuvre originale d'un auteur (y compris les oeuvres littéraires, musicales, dramatiques, chorégraphiques, picturales, graphiques, sculpturales et architecturales; les oeuvres cinématographiques et audiovisuelles; les enregistrements sonores) fixée sur un support d'expression tangible, donnant à son détenteur le droit exclusif de reproduire, adapter, distribuer, exécuter et afficher l'oeuvre en question.
+L'expression intellectual property ( « propriété intellectuelle » ) est ainsi définie dans le Black's Law Dictionary, huitième édition :
+[traduction]
+propriété intellectuelle - catégorie de droits intangibles protégeant des biens produits par l'intelligence humaine ayant une valeur commerciale. Cette catégorie comprend principalement les marques de commerce, les droits d'auteur et les droits de brevet, mais également le secret commercial, les droits publicitaires, les droits moraux et le droit de s'opposer à la concurrence déloyale. [Jurisprudence : Droits d'auteur et propriété intellectuelle - 1. C.J.S. Droits d'auteur et propriété intellectuelle, art. 2, 4-5.] Produit de l'intelligence humaine ayant une valeur commerciale, sous forme concrète ou abstraite, tel une oeuvre pouvant faire l'objet d'un droit d'auteur, une marque de commerce protégeable, une invention brevetable ou un secret commercial.
+[21] Dans l'arrêt Compo Company Ltée. c. Blue Crest Music Inc., [1980] 1 R.C.S., 357, la Cour suprême du Canada a confirmé que la loi sur le droit d'auteur, à l'instar de la loi de l'impôt, constitue un texte législatif. À la page 372, la Cour a déclaré :
+[...] [L]e droit d'auteur n'est pas régi par les principes de la responsabilité délictuelle ni par le droit de propriété mais par un texte législatif. Il ne va pas à l'encontre des droits existants en matière de propriété et de conduite et il ne relève pas des droits et obligations existant autrefois en common law. La loi concernant le droit d'auteur crée simplement des droits et obligations selon certaines conditions et circonstances établies dans le texte législatif.
+[22] Le paragraphe 3(1) de la Loi sur le droit d'auteur définit la portée du « droit d'auteur » de la façon suivante :
+Le droit d'auteur sur l'oeuvre comporte le droit exclusif de produire ou reproduire la totalité ou une partie importante de l'oeuvre, sous une forme matérielle quelconque, d'en exécuter ou d'en représenter la totalité ou une partie importante en public et, si l'oeuvre n'est pas publiée, d'en publier la totalité ou une partie importante; [...] Est inclus dans la présente définition le droit exclusif d'autoriser ces actes.
+[23] L'article 2 est l'article d'interprétation de la Loi sur le droit d'auteur qui définit un certain nombre de termes pertinents, notamment :
+S'entend de toute production originale du domaine littéraire, scientifique ou artistique quels qu'en soient le mode ou la forme d'expression, tels les compilations, livres, brochures et autres écrits, les conférences, les oeuvres dramatiques ou dramatico-musicales, les oeuvres musicales, les traductions, les illustrations, les croquis et les ouvrages plastiques relatifs à la géographie, à la topographie, à l'architecture ou aux sciences.
+[24] L'expression « oeuvre artistique » comprend « les peintures, dessins, sculptures, oeuvres architecturales, gravures ou photographies, les oeuvres artistiques dues à des artisans ainsi que les graphiques, cartes, plans et compilations d'oeuvres artistiques » . Et le terme « photographie » englobe « les photolithographies et toute oeuvre exprimée par un procédé analogue à la photographie » .
+[25] Par conséquent, toutes les photographies, tous les dessins et tous les logos originaux ou remaniés au moyen de la technologie numérique, qui composent une grande partie du site Web, doivent être considérés comme des oeuvres artistiques.
+[26] La définition de « compilation » est également instructive puisqu'elle élargit le sens du terme « oeuvre artistique » en y incluant :
+Les oeuvres résultant du choix ou de l'arrangement de tout ou partie d'oeuvres littéraires, dramatiques, musicales ou artistiques ou de données.
+[27] Alors que la définition d'oeuvre artistique et d'autres définitions susmentionnées prévoient qu'un large éventail d'oeuvres peuvent faire l'objet d'un droit d'auteur, la condition énoncée à l'article 5 relative à l'originalité de l'oeuvre a pour effet d'en limiter la portée.
+[28] Jusqu'à récemment, il y a eu beaucoup de discussions concernant le critère de l'originalité. Les Américains ont fait primer la créativité de l'oeuvre alors que l'approche britannique a plutôt insisté sur le caractère suffisant du travail consacré à sa réalisation[1]. Toutefois, dans la décision récente de la Cour suprême du Canada CCH Canadienne Ltée c. Barreau du Haut-Canada, [2004] 1 R.C.S. 339, le juge en chef McLachlin, s'exprimant au nom d'une cour unanime, a tranché le débat et a déterminé que l'analyse devait se fonder sur le talent et l'effort nécessaires à la réalisation de l'oeuvre.
+[29] Au paragraphe 16 de l'arrêt CCH Canadienne Ltée., le juge en chef McLachlin a déclaré :
+Pour être « originale » au sens de la Loi sur le droit d'auteur, une oeuvre doit être davantage qu'une copie d'une autre oeuvre. Point n'est besoin toutefois qu'elle soit créative, c'est-à-dire novatrice ou unique. L'élément essentiel à la protection de l'expression d'une idée par le droit d'auteur est l'exercice du talent et du jugement. J'entends par talent le recours aux connaissances personnelles, à une aptitude acquise ou à une compétence issue de l'expérience pour produire l'oeuvre. J'entends par jugement la faculté de discernement ou la capacité de se faire une opinion ou de procéder à une évaluation en comparant différentes options possibles pour produire l'oeuvre. Cet exercice du talent et du jugement implique nécessairement un effort intellectuel. [...]
+[30] Au paragraphe 25, la Cour a conclu :
+[...] j'arrive à la conclusion qu'une oeuvre « originale » au sens de la Loi sur le droit d'auteur est une oeuvre qui émane d'un auteur et qui n'est pas une copie d'une autre oeuvre. Toutefois, cela ne suffit pas à rendre une oeuvre originale. Elle doit en outre être le produit de l'exercice du talent et du jugement d'un auteur. Cet exercice ne doit pas être négligeable au point qu'on puisse le qualifier d'entreprise purement mécanique. Bien qu'une oeuvre créative soit par définition « originale » et protégée par le droit d'auteur, la créativité n'est pas essentielle à l'originalité.
+[31] À la page 53 de la transcription, l'avocate de l'intimée a affirmé, faisant référence à ce que l'appelante fournissait aux abonnés :
+[traduction]
+[...] la fourniture n'est pas celle d'un droit d'auteur. Il s'agit de la fourniture d'un élément faisant l'objet d'un droit d'auteur (voir les lignes 15, 16 et 17).
+[32] Je considère que l'avocate de l'intimée a admis par ce commentaire que l'appelante détenait un droit d'auteur sur le contenu du site Web. Cependant, l'avocate de l'intimée semble faire fi de la disposition suivante de l'article 10 :
+[...] ou des droits, licences ou privilèges afférents à leur utilisation.
+[33] Je tiens également à souligner le commentaire suivant formulé par l'intimée au paragraphe 6 de la réponse à l'avis d'appel :
+[traduction]
+6. [...]
+(a) il admet que l'appelante avait le droit de réclamer un droit d'auteur sur les images numériques et les graphiques originaux faisant partie du site Web;
+[34] D'après mon analyse de la preuve, je conclus que l'information présentée sur le site Web de l'appelante est une propriété intellectuelle et fait l'objet d'un droit d'auteur détenu par l'appelante. Pour ce motif, j'estime que l'appelante a satisfait à la première condition de l'article 10.
+[35] Nous devons maintenant déterminer si la fourniture des « droits, licences ou privilèges » afférents à l'utilisation du droit d'auteur a été au profit de non-résidents.
+[36] Comme il a été noté précédemment, l'avocat de l'appelante a produit en preuve les pièces A-4, A-5 et A-6 qui indiquaient que plus de 90 % des abonnés du site Web étaient des non-résidents du Canada. Néanmoins, plutôt que de se fonder sur une proportion quelconque de 90 %, 91% ou autre, j'ai conclu que les fonctionnaires de l'Agence du revenu du Canada (l' « ARC » ) doivent examiner les dossiers de l'appelante afin de déterminer le nombre d'abonnés qui résidaient au Canada et le nombre d'abonnés qui n'y résidaient pas. Les fonctionnaires de l'ARC devront en outre examiner les dossiers de l'appelante pour déterminer si les abonnés étaient des inscrits aux fins de la TPS.
+[37] J'ai conclu que ceux qui versaient des droits d'adhésion à l'appelante obtenaient en échange une licence restreinte leur permettant d'utiliser le droit d'auteur de l'appelante. Il s'ensuit que la situation de l'appelante entre dans le cadre de l'article 10 et que la fourniture des droits de propriété intellectuelle de l'appelante à des non-résidents du Canada constitue une fourniture détaxée.
+[38] L'appel est accueilli, sans dépens, au motif que l'appelante doit être exonérée de payer la TPS relativement aux droits versés par les abonnés non-résidents du Canada, tel que déterminé par l'ARC, et par les abonnés qui n'étaient pas des inscrits aux fins de la TPS, tel que déterminé par l'ARC.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2005.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 5e jour de février 2007.
+Mario Lagacé, jurilinguiste
+[1] Brown, D. Jeffery, chapitre 3 ,"Copyright" dans Intellectual Property Law of Canada

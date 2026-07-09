@@ -1,0 +1,128 @@
+Title: Drolet c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26483/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-538-26483-drolet-c-la-reine-en.md
+Document type: case_law
+Last modified: 2004-08-17
+
+# Drolet c. La Reine
+
+- Citation: 2004 TCC 538
+- Decision date: 2004-08-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3232, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Drolet c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-08-17
+Neutral citation
+2004 TCC 538
+File numbers
+2004-186(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2004-186(IT)I
+BETWEEN:
+CATHERINE DROLET,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 28, 2004, at Montréal, Quebec
+Before: The Honourable Judge Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant herself
+Agent for the Respondent:
+Soleil Tremblay (student-at-law)
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of August 2004.
+"Paul Bédard"
+Bédard J.
+Certified true translation
+Colette Dupuis-Beaulne
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2004TCC538
+Date: 20040817
+Docket: 2004-186(IT)I
+BETWEEN:
+CATHERINE DROLET,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] In making a redetermination of the Canada Child Tax Benefit on February 20, 2003, the Minister of National Revenue (the "Minister") revised the Appellant's child tax benefits downward in respect of the 2000 base year. The Minister in fact established an overpayment of $2,839.15.
+[2] In making and confirming the redetermination dated February 20, 2003, in respect of the 2000 base year, the Minister assumed the same facts:
+[TRANSLATION]
+(a) by letter dated October 31, 2002, the Minister sent the Appellant a questionnaire to be completed in order to determine her marital status during the period from January 1 to December 31, 2000;
+(b) that check was made necessary since the Minister's files showed that the Appellant was a single person at December 31, 2000, whereas the address of Steve Morin corresponded to that of the Appellant;
+(c) on November 13, 2002, the Appellant, in response to the questionnaire dated October 31, 2002, provided the Minister with the following information:
+(i) the Appellant stated that she was a de facto spouse from January to June 2000;
+(ii) the Appellant considered herself single during the period from July to November 2000;
+(iii) the Appellant said she was a de facto spouse in December 2000, adding that Steve Morin had come to live with her at the start of that month;
+(iv) during the period from July to November 2000, the Appellant told us that Steve Morin lived at 2805 Boul. Henri-Bourassa Est, Apartment 405;
+(v) according to the lease submitted, the Appellant and Steve Morin lived in an apartment located at 4310 45th Street in the City of Saint-Léonard prior to July 2000;
+(vi) according to that same lease, the Appellant alone rented the apartment at 4161 43rd Street, Apartment 3, in the Town of Saint-Michel, starting in July 2000 since Steve Morin, with the landlord's consent, ceased to assume any responsibility with respect to that apartment;
+(d) no document was provided showing that the Appellant and Steve Morin were living in separate dwellings at December 31, 2000;
+(e) on January 8, 2003, the Minister informed the Appellant in writing that her marital status would be amended to that of de facto spouse as of December 31, 2000;
+(f) the Minister considered the family income for the base year in issue in recalculating the Appellant's child tax benefits.
+[3] The only issue in the instant case is whether the Appellant and Steve Morin were living in a de facto union on December 31, 2000.
+Preliminary Comments
+[4] The Appellant was the only person who testified. Although he had been called by the respondent as a witness, Mr. Morin did not come and testify. It is appropriate to recall that, in response to question 8 on the questionnaire dated October 31, 2002 (Exhibit I-1), the Appellant told the Minister that she was the de facto spouse of Mr. Morin and that she was living with him. She made the same statement in her letter of November 13, 2002 (Exhibit I-2).
+Analysis
+[5] It appears from the Appellant's testimony that:
+(i) Mr. Morin was living with the Appellant only a few days a week in December 2000 and at the homes of various friends the rest of the time since he had no fixed residence;
+(ii) at all times in December 2000, Mr. Morin's personal property was at the Appellant's residence and he received his mail at that location;
+(iii) starting on January 1, 2001, the Appellant and Mr. Morin lived in a de facto union;
+(iv) in explaining her answer to question 8 on the questionnaire dated October 31, 2002 (Exhibit I-1) and her statement in the letter of November 13, 2002, (Exhibit I-2) that Mr. Morin was her de facto spouse in December 2001 and that they had lived together during that month, she said that, in her mind, the expression "de facto spouse" meant having a boyfriend and that, in any case, she had not really understood the meaning of that expression.
+[6] In the instant case, the Appellant stated in writing on two occasions that, in December 2000, Mr. Morin was her de facto spouse and that they were living together. On this point, the Appellant provided explanations that were far from convincing. It is hard to understand how the Appellant, who appears to be an intelligent person, could have made such statements without further considering their consequences. This is not a complex tax question, and it is surprising that the Appellant could have agreed so readily to present herself as Mr. Morin's de facto spouse if she was convinced that was not the case.
+[7] In view of Mr. Morin's absence from the hearing, it is appropriate in the circumstances to recall that the Court may draw a negative inference from that absence. The failure of a party or witness to give evidence which it was in the power of the party or witness to give and by which the facts might have been elucidated justifies the Court in drawing the inference that the party or witness would have been unfavourable to the party to whom the failure was attributed. The Court would also have liked to hear Mr. Morin's friends who housed him in December 2000.
+[8] In the circumstances of the instant case, the onus was on the Appellant to show on a balance of probabilities that she was not living with Mr. Morin in a conjugal relationship in December 2000. I find I cannot conclude that that was the case on the evidence brought by the Appellant. On the contrary, I find that the whole of the evidence described above leads me to conclude that such a relationship existed between the Appellant and Mr. Morin in December 2000. I would add that the facts adduced in evidence by the Appellant are insufficient for me to conclude otherwise.
+[9] As a consequence of the above, the appeal is dismissed.
+Signed at Ottawa, Canada, this 17th day of August 2004.
+"Paul Bédard"
+Bédard J.
+Certified true translation
+Colette Dupuis-Beaulne
+CITATION:
+2004TCC538
+COURT FILE NUMBER:
+2004-186(IT)I
+STYLE OF CAUSE:
+Catherine Drolet and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+July 28, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Judge Paul Bédard
+DATE OF JUDGMENT:
+August 17, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+For the Respondent:
+Soleil Tremblay (Student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

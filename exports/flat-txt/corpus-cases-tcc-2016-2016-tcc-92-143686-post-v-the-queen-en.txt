@@ -1,0 +1,130 @@
+Title: Post v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/143686/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-92-143686-post-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-04-14
+
+# Post v. The Queen
+
+- Citation: 2016 TCC 92
+- Decision date: 2016-04-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3123, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Post v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-04-14
+Neutral citation
+2016 TCC 92
+File numbers
+2014-2452(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2016TCC92
+Date: 20160414
+Docket: 2014-2452(IT)I
+BETWEEN:
+LEENDERT POST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on February 17, 2015, in Toronto, Ontario.)
+V.A. Miller J.
+[1] The issues in this appeal are whether the Appellant had (a) unreported income of $23,926 and $32,211 in his 2010 and 2011 taxation years; (b) received a shareholder benefit of $13,473 in 2011; and (c) received a management fee of $2,000 from a holding company.
+[2] The witnesses at the hearing were the Appellant, Ed Girardi, a chartered accountant, and Indra Kukabalan, the auditor with the Canada Revenue Agency who worked on this file.
+Unreported Income [3] In his 2010 and 2011 income tax returns, the Appellant reported total income as follows:
+2010
+2011
+Employment Income
+$26,000
+$26,000
+Dividends
+1,923
+5,113
+Interest
+362
+211
+Capital Gains
+239
+-
+Total Income
+$28,524
+$31,324
+[4] The Appellant has been a general contractor since 1976. He is the sole shareholder, director and officer of L.J. Post Construction Ltd. (the “Corporation”). In 2010 and 2011, the Corporation was engaged in the business of renovating and installing kitchens, kitchen cabinets and general contracting. The Appellant was employed by the Corporation and he performed all of the Corporation’s contracts. His only source of employment income was from the Corporation. The Corporation’s fiscal year end was June 30.
+[5] In the course of conducting an audit on the Corporation, Ms. Kukabalan noticed that there was a discrepancy between the amount of income reported for the Corporation on its income tax returns and its GST returns. The Corporation reported that its income in 2010 was $104,224. Whereas, according to the GST returns which it filed for 2010, its income was $107,197. Based on this discrepancy, she performed a sales invoice analysis in which she reviewed all of the Corporation’s sales invoices for each year. She noticed that these invoices were not numbered and she wasn’t sure if the Appellant had given her all of the sales invoices.
+[6] In her initial and only interview of the Appellant, Ms. Kukabalan stated that he told her that he charged a mark-up of 10 to 15% on materials and his labour rate was $100 to $125 hourly. Ms. Kukabalan reviewed the sales invoices and then adjusted the material cost by 10% in accordance with the Appellant’s information. She found that there was a significant difference between the material expense she obtained using her analysis and the material expense claimed on the Corporation’s income tax returns. In particular, the Corporation reported that it incurred an expense for materials of $26,364 and $65,849 in 2010 and 2011 respectively. Whereas, Ms. Kukabalan calculated that its material expense was $20,370.43 and $42,311.25 in 2010 and 2011 respectively.
+[7] Ms. Kukabalan then used the invoices to calculate the labour/material ratio for each year. She found that it was 3.69 in 2010 and 2.12 in 2011. Using these ratios, she projected the Appellant’s income for the years at issue by multiplying the ratio by the material expense reported in the Financial Statements reduced by 10%. However, according to Mr. Girardi’s testimony, the amount for materials expense reported in the Financial Statements for 2010 was not correct and for 2011, the amount included the cost of items which were not materials. In other words, the amounts labelled materials in the Financial Statements were incorrect.
+[8] Mr. Girardi prepared the Financial Statements for the Corporation’s 2010 and 2011 taxation years on the basis of the accounting records prepared by the Appellant for the Corporation. As he wrote in the “Notice to Reader” in the Financial Statements, he did not perform an audit of the Corporation’s records. He did not see any of the source documents which the Appellant used to prepare his accounting records.
+[9] I have concluded from Mr. Girardi’s evidence that the amount of $26,364.14 given for materials in the 2010 Financial Statement was incorrect. He stated that when he was preparing the 2010 Financial Statements in order to reconcile the balance on the bank statement for June 30, 2009 with that of June 30, 2010, he had to make an adjusting journal entry of $2,410.09. He wasn’t sure what the amount pertained to; he did not prepare the Financial Statements for the Corporation’s 2009 fiscal year and he did not have access to the entries used by the former accountant to reconcile the Corporation’s bank statement with the Appellant’s accounting records. However, he charged the amount of $2,410.09 to materials for the Corporation’s 2010 year not knowing what this amount actually represented.
+[10] Mr. Girardi asked the Appellant to give him the amounts for purchases which he paid in 2011 for jobs he performed in the 2010 fiscal year. The Appellant gave Mr. Girardi three amounts which totaled $2,117.16 and Mr. Girardi recorded them as accruals. At some time prior to this hearing, Mr. Girardi discovered that these three amounts were already included in the materials purchases which had been given to him. Accordingly, the accruals for this period are still missing and purchases of $2,117.16 are double counted.
+[11] In its Financial Statements for its 2011 fiscal year, the Corporation reported that it had expenses for materials in the amount of $65,849.06. According to Mr. Girardi, this amount is also incorrect. It included the amount of $2,655 which was an amount paid to a subcontractor and not an amount for materials. In addition, he reversed the accruals from the previous year and he accrued the amount of $1,581.20 which pertained to the June 30, 2011 fiscal year but was paid in the following year. The materials amount for the 2011 year also erroneously included the cost of a kitchen which was a personal expense. These materials cost $13,470.
+[12] In performing her analysis, Ms. Kukabalan made various errors. She reduced the cost of materials on the invoices by 10%; and, she deducted PST from the cost of materials shown on the invoices. According to Mr. Girardi, the materials expense on the Financial Statement included the PST. Ms. Kukabalan acknowledged that in her calculations she should have deducted the PST from the materials expense. In addition, there were invoices which did not have a breakdown for materials and labour. Using those invoices which had a breakdown for materials and labour, Ms. Kukabalan calculated that the ratio of materials to labour was 1 to 3 and she applied this ratio to those contracts which were lump sum contract. I find that her method was not arbitrary. However, counsel for the Appellant was able to show that Ms. Kukabalan’s calculations for some of the invoices were incorrect.
+[13] Where does that leave us? There were errors in reporting the Corporation’s expenses. I cannot calculate its income because I was given insufficient evidence. I note that in her audit report, Ms. Kukabalan wrote that she believed that the Appellant and his spouse were reporting insufficient income to support their life style. However, I heard absolutely no evidence with respect to the Appellant’s life style.
+[14] There still remains that the Appellant’s Corporation reported less income for income tax purposes than it did for GST purposes. The difference was $2,973 in 2010.
+[15] The Appellant attempted to explain this difference by stating that he received $3,468.02 from his son as reimbursement for materials purchased on his behalf. According to him and his records, the materials cost $3,368.02.
+[16] This does not explain the discrepancy and the net amount for this purchase was included in the materials reported by the Corporation in 2010 and it appears to me that this alleged reimbursement was included in the amount for sales for 2010. The confusion in this appeal was caused by the accounting records and Mr. Girardi’s refusal to discuss Ms. Kukabalan’s proposal letter with her. If the discrepancy could have been explained away so easily, why didn’t this occur prior to assessment or confirmation or even prior to trial?
+[17] The only documents given to support the Appellant’s evidence were his accounting records which were prepared by him. It is self-serving evidence. As the former Chief Justice Bowman stated in VanNieuwkerk v R 2003 TCC 670:
+6….It has been said on many occasions in this Court that accounting entries do not create reality. They simply reflect reality. There must be an underlying reality that exists independently of the accounting entries.
+I do not accept the Appellant’s explanation.
+[18] I agree with the submission made by counsel for the Respondent that “the Appellant had a catch me if you can attitude – if you find a problem I will give you an explanation and not before”. The Appellant had heard me quote from the McKinlay decision while he was waiting for his case to be heard. I will quote it again. In R v McKinlay Transport, [1990] 1 SCR 667, Madame Justice Wilson wrote:
+The Act requires taxpayers to file annual returns and estimate their tax payable as a result of calculations made in these returns. … In essence, the system is a self-reporting and self-assessing one which depends upon the honesty and integrity of the taxpayers for its success:
+[19] Unfortunately, I know only that the Corporation underreported its income in 2010. There was no evidence with respect to the income reported by the Corporation in 2011 for GST purposes.
+[20] In 2010, the Corporation underreported its income by $2,973 for income tax purposes. The Appellant is the only shareholder in the Corporation; he controls the Corporation. I have concluded that he appropriated this amount and it is included in his income pursuant to subsection 15(1) of the Income Tax Act (the “ITA”).
+[21] With respect to the issue concerning unreported income, the appeal is allowed and the reassessment is referred back to the Minster on the basis that the Appellant underreported his income in 2010 by only $2,973. Counsel for the Appellant was able to demonstrate that there were errors in the auditor’s calculations and I allow the appeal of this issue for the 2011 taxation year.
+Shareholder Benefit [22] The Minister included the amount of $13,473 in the Appellant’s income for 2011 on the basis that the Corporation paid for a custom kitchen which was installed in the Appellant’s residence. Ms. Kukabalan testified that she saw the invoice for the kitchen and that the materials were delivered to the Appellant’s residence.
+[23] At the hearing, the Appellant stated that in 2011 he installed a kitchen in his son’s home and the materials cost $13,473. He reported this cost as an expense for the Corporation. He agreed that it was incorrectly claimed as a corporate expense but stated that he had equity in the Corporation and thought he could claim this expense against the credit in his shareholder loan account.
+[24] Counsel for the Appellant argued that a bookkeeper error occurred because the amount was not debited to the Appellant’s shareholder account which had a positive balance of $225,703 in 2011. Counsel relied on the decisions in Chopp v R, [1995] 2 CTC 2946 (TCC); affirmed 98 DTC 6014(FCA) and Franklin v R, [2000] 4 CTC 2332 (TCC); affirmed 2002 FCA 38.
+[25] The facts in the present appeal are distinguishable from those in Chopp. In Chopp, Mogan J. found that there was truly an accounting error which was not discovered until Revenue Canada audited the company. In distinguishing his decision in Chopp from the facts in Cirillo v R, [2001] 1 CTC 2018, Justice Mogan stated at paragraph 17 of Cirillo:
+17 Was there an accounting error in the journal entries and, if so, is the Appellant responsible for the accounting error? Whether a shareholder of a corporation is responsible for bookkeeping error depends upon the circumstances of the error. In a decision that I rendered in Chopp v. R. (1995), 95 D.T.C. 527 (T.C.C.), I found that a bookkeeping error had been made without the knowledge or intention of the dominant shareholder. I was able to make that decision because I heard extensive evidence from four significant witnesses: the dominant shareholder; his daughter who was an amateur bookkeeper; the outside chartered accountant who did an actual audit of the corporation because of its size and the corporations it did business with; and the internal chartered accountant who was hired by the corporation after the bookkeeping error was discovered and the dominant shareholder realized that he had to have more competent bookkeeping. It was proven to me in Chopp that the error was made innocently without knowledge and was corrected as soon as it was discovered.
+[26] In the present appeal, it was not established that there was an accounting error. There was no evidence that the Appellant told Mr. Girardi that materials in the amount of $13,473 was for a kitchen which he installed in his son’s home and the amount should not be included in the Corporation’s expenses. The Appellant made the bookkeeping records which Mr. Girardi used to prepare the Financial Statements. The Appellant himself included the amount as a purchase made by the Corporation. It had not been demonstrated that there was a mistake or if there was a mistake that it was made innocently. The entry has not been corrected even up to today and in my view, this confirms that this was not simply an error.
+[27] In Franklin, Beaubier J. found that there were a series of bookkeeping errors but the taxpayer did not receive a personal benefit from those errors. He stated:
+13 … As a result, what has occurred is a series of bookkeeping errors in HVSL’s statements which were caused by Mr. Franklin either on purpose or inadvertently. But none of them gave him any benefit that is in evidence. He did not withdraw any money from HVSL in excess of his correct loan balance during the years in question. Nor is there any evidence that he used the incorrect financial statements to obtain a benefit elsewhere for himself. There was no receipt of a benefit by Mr. Franklin.
+[28] The facts in Franklin do not exist in the present appeal. Here the Appellant wants to charge the amount of $13,473 to his shareholder loan account. I note that the positive balance in the Appellant’s shareholder loan account increased from $217,078 in 2010 to $225,703 in 2011. No explanation was given for the increase.
+[29] At no time prior to this hearing did the Appellant tell the CRA that the kitchen was installed in his son’s home. The Appellant has not given any documents to support his testimony and although his present version of the facts would not change my decision, it is my view that the Appellant has not established that the kitchen was installed in his son’s home.
+[30] One of the purposes of section 15 of the ITA is to prevent corporations from using an indirect means of conferring an untaxed economic benefit on its shareholders: Babich v R, 2010 TCC 352 at paragraph 26. I have concluded that the Appellant received a benefit of $13,473 in 2011.
+Management Fees [31] The Appellant also owns a holding company called Can-Holl Investments. Mr. Girardi testified that in 2011 Can-Holl Investments reported that it had paid a management fee of $2,000 to the Corporation. At the hearing he stated that this fee was never paid to or received by the Corporation of the Appellant. However, in his conversation with Ms. Kukabalan and in the notice of objection, Mr. Girardi agreed that the management fee should be included in the Appellant’s income.
+[32] There were no documents submitted to demonstrate that Can-Holl Investments did not pay the management fee in 2011. It is my view that the amount of $2,000 was properly included in the Appellants income.
+[33] In conclusion, the appeal is allowed and the reassessments are referred back to the Minister for reconsideration and reassessment on the basis that the shareholder benefits included in the Appellant’s income are to be reduced to the amount of $2,973 in 2010 and $15,473 in 2011.
+Signed at Ottawa, Canada, this 14th day of April 2016.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2016TCC92
+COURT FILE NO.:
+2014-2452(IT)I
+STYLE OF CAUSE:
+LEENDERT POST AND THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 17, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+February 27, 2015
+APPEARANCES:
+Counsel for the Appellant:
+John Kutkevicius
+Counsel for the Respondent:
+Tony Cheung
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John Kutkevicius
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

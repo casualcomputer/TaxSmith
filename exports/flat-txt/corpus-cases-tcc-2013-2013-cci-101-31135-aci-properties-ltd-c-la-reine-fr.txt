@@ -1,0 +1,139 @@
+Title: ACI Properties Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31135/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-101-31135-aci-properties-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-04-09
+
+# ACI Properties Ltd. c. La Reine
+
+- Citation: 2013 CCI 101
+- Decision date: 2013-04-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4783, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+ACI Properties Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-04-09
+Référence neutre
+2013 CCI 101
+Numéro de dossier
+2011-3781(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3781(IT)G
+ENTRE :
+ACI PROPERTIES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 8 mars 2013, à Winnipeg (Manitoba).
+Devant : L’honorable juge Randall Bocock
+Comparutions :
+Avocat de l’appelante :
+Me Jeff Pniowsky
+Avocat de l’intimée :
+Me Julien Bédard
+____________________________________________________________________
+ORDONNANCE
+La demande que le ministre a présentée à la Cour afin que celle-ci se prononce sur une question en vertu du paragraphe 174(1) de la Loi de l’impôt sur le revenu (la « Loi ») est rejetée.
+Les dépens relatifs à la demande sont adjugés à l’appelante.
+Signé à Ottawa, Canada, ce 9e jour d’avril 2013.
+R. S. Bocock
+Juge Bocock
+Traduction certifiée conforme
+ce 8e jour d’octobre 2013.
+Mario Lagacé, jurilinguiste
+Référence : 2013 CCI 101
+Date : 20130409
+Dossier : 2011-3781(IT)G
+ENTRE :
+ACI PROPERTIES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Bocock
+I. Introduction
+[1] Par la présente demande fondée sur l’article 174 de la Loi de l’impôt sur le revenu (la « Loi »), le ministre demande à la Cour de se prononcer sur une question touchant plus d’un contribuable. L’appelante conteste la demande, alors que le tiers, AFT Properties Inc. (« AFT »), qui serait autrement joint à l’instance, y consent.
+II. Les faits et la nature de la question dont la Cour est saisie
+i) La question projetée
+[2] En 2003, AFT a versé à l’appelante la somme de 1,95 million de dollars. Ce paiement a été effectué au titre d’une entente alors en vigueur, qui a pris fin en 2003 (l’« entente »). AFT a déduit ce paiement de son revenu à titre de dépense. L’appelante a enregistré le paiement comme étant un gain en capital. En 2006-2007, AFT a fait l’objet d’une vérification complète menée par l’Agence du revenu du Canada (l’« ARC ») et l’appelante a fait l’objet d’une vérification partielle (les « vérifications »). Par suite de ces vérifications, le ministre a conclu que le paiement correspondait à des frais de gestion ou à une autre forme de rémunération pour des services. En décembre 2008, il a établi une nouvelle cotisation à l’égard de l’appelante pour l’année d’imposition 2004, conformément à la manière dont AFT avait qualifié le paiement dans sa déclaration. Cette qualification constitue le fondement de la demande présentée par l’intimée à la Cour pour que celle‑ci se prononce sur une question touchant plus d’un contribuable.
+[3] La question qui a été proposée à la Cour est la suivante :
+[traduction]
+Quelle est la qualification correcte du paiement de 1,95 million de dollars fait par AFT à ACI en avril 2003? Ce paiement a‑t‑il été effectué au titre de frais de gestion ou d’une autre forme de rémunération pour les services qu’ACI a fournis à AFT, ou s’agissait‑il d’un paiement relatif à la participation d’ACI dans une coentreprise constituée avec AFT, qui correspondait à une immobilisation qu’ACI a cédée à AFT? Il s’agit de la seule question à trancher dans l’appel d’ACI.
+ii) Le contexte des nouvelles cotisations pour 2008
+[4] La Cour a été saisie d’éléments de preuve concernant le moment et l’ordre des vérifications et les diverses conclusions rendues par suite de celles‑ci. Pour résumer, le vérificateur principal de l’ARC qui avait été chargé du dossier pour les vérifications menées en 2006-2007 (la « période de vérification »), a conclu de manière assez définitive dans sa feuille de synthèse du mois d’août 2007 (la « synthèse ») que l’entente ou les ententes ainsi que la relation d’affaires correspondaient à une coentreprise, que les parties s’entendaient sur la valeur de la participation dans la coentreprise et que, nonobstant le recours au terme « coentreprise », l’opération effectuée en 2003 correspondait à l’achat par AFT des parts ou de la participation de l’appelante dans la coentreprise à un prix déterminé. Pendant la période de vérification, mais avant qu’il ne rende sa décision finale, le ministre a obtenu des renonciations écrites à la fois d’AFT et de l’appelante afin d’empêcher que les nouvelles cotisations qu’il se proposait alors d’établir ne deviennent prescrites. Nonobstant la synthèse qui lui avait été communiquée, la Direction des décisions de l’ARC a manifestement préféré qualifier le paiement de revenu. Par conséquent, le ministre a établi une nouvelle cotisation à l’égard de l’appelante, par laquelle il a refusé que le gain soit imputé au capital et requalifié le paiement comme un revenu, et, de ce fait, confirmé la qualification qu’AFT avait faite du paiement, selon laquelle il s’agissait de frais de gestion.
+[5] Lors du contre-interrogatoire relatif à l’affidavit que l’intimée a déposé à l’appui de sa demande, le vérificateur principal de l’ARC a renvoyé à une discussion qui avait eu lieu pendant la période de vérification au sujet de la possibilité de déposer ce qui avait été plus ou moins décrit comme une demande en vertu de l’article 174, même s’il s’agissait de discussions internes et qu’il n’y avait donc pas eu de référence précise à cet article. Une telle demande n’avait pas été présentée avant aujourd’hui. La Cour ne disposait d’aucune preuve au sujet de cotisations ultérieures, de cotisations projetées ou de propositions des contribuables, à part la nouvelle cotisation établie à l’égard de l’appelante pour 2008 et la ratification de fait de la déclaration d’AFT telle qu’elle avait été produite par suite de l’examen effectué pendant la période de vérification. En outre, l’avocat de l’intimée a convenu avec la Cour que la première cotisation d’AFT (ou du moins sa ratification) constituait pour sa cliente une preuve de l’existence d’une « cotisation », et que la nouvelle cotisation établie à l’égard de l’appelante en 2008 constituait l’autre nouvelle cotisation pertinente permettant par ailleurs de remplir la condition relative à une « opération […] qui se rapporte à des cotisations, réelles ou projetées, relatives à plusieurs contribuables », au sens du paragraphe 174(1). Voici les extraits pertinents des paragraphes 174(1) et 174(3) de la Loi :
+174(1) Lorsque le ministre est d’avis qu’une même opération […] a donné naissance à une question de droit, de fait ou de droit et de fait qui se rapporte à des cotisations, réelles ou projetées, relatives à plusieurs contribuables, il peut demander à la Cour canadienne de l’impôt de se prononcer sur la question.
+[…]
+(3) Lorsque la Cour canadienne de l’impôt est convaincue que la décision rendue concernant la question exposée dans une demande présentée en vertu du présent article influera sur des cotisations ou des cotisations éventuelles intéressant plusieurs contribuables à qui une copie de la demande a été signifiée et qui sont nommés dans une ordonnance de la Cour canadienne de l’impôt conformément au présent paragraphe, elle peut :
+[…]
+b) si un ou plusieurs des contribuables ainsi nommés se sont pourvus en appel, rendre une ordonnance groupant dans cet ou ces appels les parties appelantes comme elle le juge à propos et entreprendre de statuer sur la question.
+III. Les observations de l’intimée
+[6] L’intimée a déclaré que la présente affaire constituait le cas de figure précis dans lequel l’article 174 devrait être invoqué, sur la base des arguments suivants : la nouvelle cotisation établie à l’égard de l’appelante et la cotisation établie à l’égard d’AFT pour 2008 constituaient des communications reçues de l’autorité taxatrice; des informations ont été obtenues de la part des deux contribuables ayant fait l’objet de cotisations avant que les cotisations en tant que telles soient établies; des renonciations ont été signées dans le contexte de la vérification; la présente demande de l’intimée précise avec exactitude la manière dont elle se propose d’établir une cotisation à l’égard d’AFT.
+[7] L’avocat de l’intimée a soutenu que la décision Daruwala c. La Reine, 2012 CCI 116, [2012] A.C.I. no 227, dans laquelle la décision Brenneur c. La Reine, 2010 CCI 610, [2010] A.C.I. no 489 était citée avec approbation, avait cerné les trois questions que la Cour devait poser pour établir si les conditions étaient réunies pour qu’elle se prononce sur une question en vertu de l’article 174 de la Loi. Ces questions, extraites du paragraphe 11 de la décision Daruwala, sont les suivantes :
+1. La requérante a‑t‑elle fourni à la Cour des éléments de preuve selon lesquels l’autorité taxatrice a communiqué de façon indépendante avec le contribuable à l’égard duquel celle‑ci se proposait d’établir une cotisation, ou toute autre indication raisonnable du fait qu’il serait possible qu’elle établisse une nouvelle cotisation à l’égard de ce contribuable?;
+2. Quelle est la preuve qui a été produite au sujet d’une enquête, d’un examen ou d’un survol, réel ou projeté, relatif aux affaires, aux antécédents ou aux dossiers du contribuable à l’égard duquel on se propose d’établir une cotisation dans le contexte d’une nouvelle cotisation projetée ou de l’établissement de celle‑ci?;
+3. Quelles observations ont été formulées au sujet des gains en matière d’efficience qu’il serait possible de réaliser en réunissant des cotisations projetées et réelles en une seule question sur laquelle la Cour se prononcerait avant l’audition de l’unique appel par ailleurs en suspens?
+[8] Comme il a été précisé ci‑dessus, l’intimée a fait valoir (et le ministre se range à cet avis) que les trois questions ont reçu une réponse satisfaisante, et que, par conséquent, la question sur laquelle il est demandé à la Cour de se prononcer devait être présentée à la Cour et tranchée par elle. Ni les difficultés d’ordre procédural perçues ni l’absence d’une [traduction] « lettre de proposition » ou d’une proposition récente de nouvelle cotisation ne devraient empêcher la Cour de se prononcer sur la question, compte tenu du libellé et de l’intention clairs de la disposition.
+IV. Les observations de l’appelante
+[9] Dans son argumentation, l’appelante a affirmé que la demande présentée en vertu du paragraphe 174(1) devrait être rejetée pour trois motifs.
+i) L’absence de proposition d’établir une nouvelle cotisation à l’égard d’AFT
+[10] L’appelante a soutenu que les vérifications, les renonciations et la ratification de la cotisation établie à l’égard d’AFT n’avaient pas mené à l’établissement d’une nouvelle cotisation ou d’un projet de nouvelle cotisation vu que le ministre avait clairement manifesté sa préférence pour la position adoptée par AFT dès le départ. Les gestes que le ministre a posés en établissant une cotisation à l’égard d’AFT en se fondant sur la déclaration de revenus de celle‑ci, tel qu’elle avait été produite, en ne tenant pas compte des conclusions déterminantes du vérificateur principal de l’ARC, et en obtenant des renonciations avant d’avoir mené la vérification à son terme, ne constituent pas un fondement factuel suffisant pour l’établissement d’une nouvelle cotisation, au sens du paragraphe 174(1). Par conséquent, la [traduction] « condition préalable prévue par la loi » pour l’établissement d’une cotisation ou d’une cotisation projetée à l’égard de plus d’un contribuable relativement à la question qui se pose de manière implicite au paragraphe 174(1) n’a pas été remplie.
+ii) L’acceptation constante de la position adoptée par AFT au plan des faits et du droit
+[11] Lorsqu’il a attiré l’attention de la Cour sur la décision Daruwala, l’avocat de l’appelante a souligné que le fait que le ministre avait accepté unilatéralement dès le départ la façon dont AFT avait qualifié le paiement, à savoir qu’il s’agissait d’un revenu (ce qui a été confirmé après les vérifications, l’obtention des renonciations et la naissance du projet consistant à déposer une demande en vertu de l’article 174), constituait une acceptation unilatérale encore plus évidente de la position adoptée par un contribuable au plan des faits et du droit que l’acceptation des situations de fait dans les affaires Daruwala et Brenneur, relativement auxquelles la Cour a à deux reprises soulevé des objections.
+iii) L’abus de procédure de la part du ministre
+[12] L’appelant a également soutenu que, en invoquant l’article 174 de la Loi, le ministre avait commis un abus de procédure, étant donné qu’il s’était ainsi soustrait à l’obligation qui lui incombait dans l’appel en instance de réagir aux éléments de preuve produits par l’appelante qui sont susceptibles de démolir ou de rendre non pertinentes les hypothèses formulées dans la réponse du ministre. En l’espèce, compte tenu de la synthèse qui a été produite par voie d’affidavit et de transcription lors du contre‑interrogatoire, le ministre a tenté de se décharger stratégiquement de son obligation de défendre ses hypothèses et de présenter sous un nouveau jour ce qui avait été jusqu’alors une acceptation unilatérale de la position adoptée de longue date par AFT quant aux faits, et dont il avait été tenu compte dans la cotisation établie à l’égard de cette dernière, pour en faire un conflit opposant deux contribuables au sujet de la manière de qualifier un paiement unique. Le fait de retirer les hypothèses de l’équation transforme le présent appel, âprement contesté, en une instance dans laquelle l’équité et l’obligation du ministre de défendre ses hypothèses ont été tardivement balayées sous couvert d’efficience. Pour résumer, il serait inéquitable d’autoriser le ministre à revenir sur les hypothèses qu’il a formulées dans les actes de procédure. Cela reviendrait à se servir du système de manière inéquitable dans un appel en matière d’impôt, dans le contexte duquel les hypothèses constituent une composante essentielle à l’équité du système.
+V. La décision de la Cour
+[13] Les avocats des deux parties ont renvoyé aux décisions Daruwala et Brenneur. De même, les deux avocats ont fait valoir que la décision Daruwala appuyait leurs positions respectives, bien que celles‑ci soient contraires, eu égard aux faits tels qu’ils ont été présentés. Une analyse plus poussée des questions abordées dans la décision Daruwala est par conséquent nécessaire. Eu égard aux trois questions qui ont été posées dans la décision Daruwala, il ne fait aucun doute que la Cour a posé ces questions afin d’établir, dans le contexte d’une question sur laquelle elle doit se prononcer, si les objectifs des processus de cotisation et d’exécution du processus judiciaire sont respectés et si les processus sont appliqués et administrés d’une manière équitable, efficace et équilibrée, tant pour les contribuables que pour la Couronne.
+[14] En ce qui a trait à la première question, à savoir la communication indépendante faite par l’autorité taxatrice à la personne visée par la cotisation projetée, la Cour doit tenir compte de l’ensemble des actions du ministre envers les contribuables (visés par des cotisations projetées) et des obligations inhérentes à la fonction de ministre envers les objectifs du système vu comme un tout, comme la Cour l’a fait dans les décisions Daruwala et Brenneur, susmentionnées. Dans ces décisions, la Cour cherchait à établir si l’avis du ministre contenait quelque élément de bonne foi en ce qui concerne l’ambivalence ou l’incertitude quant aux faits ou au droit à examiner relativement à la question dont la Cour serait saisie. Cela permet ainsi au ministre de clarifier sa position et de produire les cotisations finales de manière cohérente, équitable et efficace, objectif défini dans le paragraphe précédent.
+[15] En ce qui a trait à la seconde question, eu égard au fait que le ministre, après avoir mené le même examen que dans les affaires Daruwala et Brenneur, conclut que la position adoptée par un contribuable pour certaines raisons est clairement préférable à celle d’un autre contribuable, sans qu’il y ait de signe d’ambivalence ou d’incertitude sur le plan des faits ou du droit, la Cour est naturellement peu encline à autoriser le ministre à se prévaloir de l’article 174 pour étayer tardivement une conclusion par ailleurs ancienne, définitive ou facilement formulée sur le plan des faits ou du droit et relativement à la cotisation connexe.
+[16] De façon constante, dans les décisions Daruwala et Brenneur, il a été affirmé que l’obligation du ministre consistant à d’abord mener une enquête, un examen ou une vérification (ci‑après l’« examen »), et, à partir de cet examen, établir s’il est alors prêt à rendre une décision (ou s’il le sera dans un avenir relativement rapproché) quant à la question de savoir s’il convient de demander à la Cour de se prononcer sur une question en vertu de l’article 174. Une telle décision doit avoir un lien causal et temporel, si ténu soit‑il, avec une certaine incertitude ou ambivalence cultivée par le ministre. Il s’agit du tissu conjonctif ou du lien auquel la Cour fait référence dans les deux décisions susmentionnées quand elle déclare : « quelle est la preuve qui a été produite au sujet d’une enquête […], réel[le] ou projeté[e], […] dans le contexte d’une nouvelle cotisation projetée ou de l’établissement de celle‑ci ».
+[17] En l’espèce, après avoir obtenu les renonciations écrites, prévenu les deux parties au processus et mené son examen, le ministre, pendant ou peu de temps après la période de déclaration (il y a de cela six ans maintenant) :
+1) a unilatéralement donné sa préférence aux déclarations d’AFT et aux faits qui appuyaient la ratification de la cotisation d’AFT et de la nouvelle cotisation de l’appelante;
+2) a envisagé, d’une manière ou d’une autre, de présenter une demande en vertu de l’article 174 et y a renoncé;
+3) a produit quelques années plus tard une réponse contenant des hypothèses de fait allant dans le même sens que la position qu’il avait adoptée dès le départ à l’appui de la cotisation, lesquelles confirmaient (sans ambivalence, indécision ou incertitude eu égard aux faits ou au droit), qu’il préférait la déclaration de revenus d’AFT telle qu’elle avait été produite à la manière dont l’appelante avait qualifié le paiement.
+[18] Compte tenu du processus suivi, le ministre, six ans après avoir établi une cotisation décisive sans preuve de l’existence d’un doute, d’une indécision ou d’une ambivalence susceptible de donner lieu au renversement de la position de la Couronne à l’égard de la cotisation, évoque maintenant la possibilité de présenter une demande en vertu de l’article 174. Encore une fois, la poursuite des objectifs d’une demande présentée en vertu de l’article 174, comme l’a souligné le juge Boyle au dernier paragraphe de la décision Brenneur, stimule la confiance des Canadiens dans l’intégrité du système d’administration et de recouvrement des impôts ainsi que leur confiance envers la Cour.
+[19] En l’espèce, la conduite jusqu’à tout récemment sans équivoque du ministre, qui a préféré des positions établies depuis longtemps eu égard aux faits, au droit et à l’établissement de la cotisation en cause, ne va pas dans le sens de l’opinion que le ministre défend à présent, selon laquelle les cotisations d’un ou de plusieurs contribuables étaient (ou sont) touchées par les résultats de son examen et des conclusions qui en découlent. Pour résumer, ce qui est maintenant un examen dépassé n’a rien à voir avec « le contexte d’une nouvelle cotisation projetée ou […] l’établissement de celle‑ci », tel qu’il a été décrit dans les décisions Daruwala et Brenneur.
+[20] Pour les motifs qui ont été énoncés, la demande est rejetée. Les dépens sont adjugés à l’appelante.
+Signé à Ottawa, Canada, ce 9e jour d’avril 2013.
+R. S. Bocock
+Juge Bocock
+Traduction certifiée conforme
+ce 8e jour d’octobre 2013.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2013 CCI 101
+NO DU DOSSIER DE LA COUR : 2011-3781(IT)G
+INTITULÉ : ACI Properties Ltd. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 8 mars 2013
+MOTIFS DE L’ORDONNANCE : L’honorable juge Randall Bocock
+DATE DE L’ORDONNANCE : Le 9 avril 2013
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Jeff Pniowsky
+Avocat de l’intimée :
+Me Julien Bédard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Jeff Pniowsky
+Cabinet : Thompson Dorfman Sweatman LLP
+Winnipeg (Manitoba)
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

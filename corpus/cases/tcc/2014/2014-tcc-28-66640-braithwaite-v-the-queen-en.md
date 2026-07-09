@@ -1,0 +1,307 @@
+---
+title: "Braithwaite v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/66640/index.do"
+last_modified: "2014-01-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 28"
+citation2: ""
+neutral_citation: "2014 TCC 28"
+decision_date: "2014-01-28"
+language: "en"
+item_id: "66640"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6002
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:58:47.925000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5693c50f2468696ebbf3aed1b0fc3a01b7253dee5a06266cc75ee80b3abe7da5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Braithwaite v. The Queen
+
+- Citation: 2014 TCC 28
+- Decision date: 2014-01-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6002, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Braithwaite v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-01-28
+Neutral citation
+2014 TCC 28
+File numbers
+2012-911(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-911(IT)I
+BETWEEN:
+LYLE BRAITHWAITE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the Appellant’s appeal (2012‑912(GST)I on March 19, 2013, at Nanaimo, British Columbia.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rob Whittaker
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment dated November 8, 2010 made by the Minister of National Revenue pursuant to the Income Tax Act for the appellant's 2006 taxation year is allowed and the matter is referred back to the Minister for reconsideration and reassessment on the basis that the $1,070.38 payment made in 2006 to Black Press in respect of a 2004 advertising expense be allowed as a deductible expense in computing the appellant’s business income.
+Signed at Ottawa, Canada, this 28th day of January 2014.
+"Réal Favreau"
+Favreau J.
+Citation: 2014 TCC 28
+Date: 20140128
+Docket: 2012-911(IT)I
+BETWEEN:
+LYLE BRAITHWAITE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This income tax appeal was heard on common evidence with the appellant’s goods and services tax appeal (2012-912(GST)I).
+[2] The issue to be decided in this appeal is whether the appellant is entitled to claim advertising expenses, interest expenses, vehicle expenses, travel expenses, other expenses and capital cost allowance for the 2006 taxation year (collectively the “2006 Expenses”) in excess of the amounts allowed by the Minister of National Revenue (the “Minister”) by way of the reassessment dated November 8, 2010 made pursuant to the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) as amended (the “Act”).
+[3] By way of the November 8, 2010 reassessment, the Minister disallowed the following business expenses totalling $20,463:
+- advertising
+- interest
+$ 1,020
+$ 3,487
+- motor vehicle
+$ 5,151
+- travel
+$ 6,026
+- others (office, telephone and others)
+$ 4,779
+[4] In computing his income for the 2006 taxation year, the appellant reported commissions received in the amount of $41,137 and claimed business expenses of $54,753.55 for a net business loss of $13,616.55.
+[5] In determining the appellant’s tax liability for the 2006 taxation year, the Minister made the following assumptions of fact, set out in paragraph 9 of the Reply to the Notice of Appeal:
+a) the Appellant was carrying on business as a real estate agent and consultant (the “Business Activity”); (admitted)
+b) in the course of his Business Activity, the Appellant was a commercial real estate agent operating out of the office of Sutton Group Resource Realty in Duncan, BC; (admitted)
+c) in the course of his Business Activity, the appellant also operated Braithwaite & Co. Real Estate Consulting out of his home; (admitted)
+d) the Appellant relied on the cash method for claiming expenses in respect of his Business Activity; (admitted)
+Advertising Expenses
+e) in the 2006 taxation year, the Appellant claimed advertising expenses of $3,538.59 as shown on Schedule “A”; (admitted)
+f) the Appellant paid $1020.00 to Black Press in 2006 in respect of a 2004 advertising invoice which had previously been claimed as a business expense for the 2004 taxation year; (denied)
+g) the Appellant did not incur advertising expenses in excess of the amounts allowed by the Minister for the purpose of gaining or producing income from his Business Activity, as shown on Schedule “A”; (denied)
+Interest Expenses
+h) in the 2006 taxation year, the Appellant claimed interest expenses in the amount of $4,720.96 as shown on Schedule “A”; (admitted)
+i) in the 2006 taxation year, the Appellant claimed interest expenses in respect of the following accounts:
+i) Coast Capital Savings bank account
+ii) Island Savings Credit Union line of credit
+iii) Bank of Montreal Master card
+iv) Sutton Realty
+v) Royal Bank; and
+vi) Evans Street loan (admitted but MBNA credit card is missing from
+the list)
+j) the Appellant claimed interest expenses related to his personal and living expenses; (denied)
+k) the Appellant did not incur interest expenses in excess of the amounts allowed by the Minister for the purpose of gaining or producing income from his Business Activity, as shown on Schedule “A”; (denied)
+Motor Vehicle Expenses
+l) in the 2006 taxation year, the Appellant claimed motor vehicles expenses in the amount of $8,871.52 as shown on Schedule “A” (the “Vehicle Expenses”); (admitted)
+m) the Appellant operated a Buick Rendezvous during the 2006 taxation year (the “Vehicle”); (admitted)
+n) the Appellant included expenses in the Vehicles Expenses that were not related to his Business Activity, including interest charges, monthly fees to the Union Club in Victoria, and the Appellant’s personal use of the Vehicle; (denied)
+o) the Appellant did not maintain a mileage or vehicle log in respect of the usage of the Vehicle; (admitted)
+p) the Appellant did not incur Vehicle Expenses in excess of the amounts allowed by the Minister for the purpose of gaining or producing income from his Business Activity, as shown on Schedule “A”; (denied)
+Travel Expenses
+q) in the 2006 taxation year, the Appellant claimed travel expenses of $6,778.45 as shown on Schedule “A”; (admitted but more expenses were claimed during the audit)
+r) the Appellant claimed travel expenses that were not related to his Business Activity, including:
+i) airplane tickets for his children; (denied)
+ii) expenses for the Appellant’s personal travel to Ontario and Quebec; (denied)
+iii) expenses for boarding the Appellant’s dog in a kennel; (admitted)
+iv) clothing purchases in Toronto; and (denied)
+v) fees at a golf course; (denied)
+s) the Appellant did not incur travel expenses in excess of the amounts allowed by the Minister for the purpose of gaining or producing income from his Business Activity, as shown on Schedule “A”; (denied)
+Office, Telephone and Other Expenses
+t) in the 2006 taxation year, the Appellant claimed a total of $7,295.02 in respect of office expenses, telephone expenses and other expenses as shown on Schedule “A” (the “Other Expenses”) (admitted)
+u) the Appellant included personal expenses in the Other Expenses category, including: (denied)
+i) medications;
+ii) home telephone and internet bills; and
+ii) personal cellular phone bills;
+v) the Appellant did not incur Other Expenses in excess of the amounts allowed by the Minister for the purpose of gaining or producing income from his Business Activity, as shown on Schedule “A”; (denied)
+Capital Cost Allowance (“CCA”)
+w) at the end of his 2001 taxation year, the Appellant’s undepreciated capital cost (“UCC”) for Class 10 was $12,904.00; (admitted)
+x) at the end of his 2006 taxation year, the Appellant reported UCC of $19,455.00 for Class 10, as shown on Schedule “B”; (admitted)
+y) at the end of his 2006 taxation year, the Appellant reported UCC of $4,892.00 for Class 45, as shown on Schedule “B”; (admitted)
+z) during the 2002 to 2005 taxation years, the Appellant listed on his CCA schedules filed with his tax returns the acquisition of the following capital property (the “Capital Property”): (admitted)
+Year 2002
+Class 10
+$3,917.22
+computer
+Year 2003
+Class 10
+$3,650.74
+computer
+Year 2003
+Class 10
+$3,764.33
+computer
+Year 2005
+Class 45
+$2,049.76
+Mac Laptop
+Total
+$16,938.07
+aa) the Appellant did not acquire the Capital Property for the purpose of gaining or producing income from his Business Activity; (denied)
+bb) the Appellant reported a discrepancy of $3,556.02 between his closing balance in Class 10 in 2003 and his opening balance in Class 10 in 2004, as shown on Schedule “B”; (admitted)
+cc) the Appellant did not claim CCA in his 2006 taxation year; (admitted)
+dd) at the end of his 2006 taxation year, the Appellant’s UCC for Class 10 was $4,566.00, as shown on Schedule “C”; and (denied)
+ee) at the end of his 2006 taxation year, the Appellant’s UCC for Class 45 was $2,842.00, as shown on Schedule “C”. (denied)
+Advertising Expenses
+[6] The amount in dispute is $1,070.38 paid by the appellant to Black Press in 2006 in respect of a 2004 advertising invoice. The closing balance of the amount due to Black Press as of December 31, 2004 was $1,070.38. For 2005, the appellant was billed $2,837.31 inclusive of goods and services tax. As no payment was made to Black Press in 2005, the closing balance of the amounts due to Black Press as of December 31, 2005 was $3,907.69. During the audit, only one payment of $3,659.36 to Black Press was corroborated by documentation. It was made in July 2006 by cheque #66 drawn on the appellant’s Coast Capital account.
+[7] The payment of $3,659.36 made in 2006 was considered by the Canada Revenue Agency (“CRA”) to have paid off the outstanding balance of $1,070.38 for 2004 and the remaining $2,588.98 ($2,420 net of goods and services tax) to have paid off the outstanding balance of $3,907.69 due to Black Press for 2005.
+[8] According to the CRA, the payment of $1,070.38 made in 2006 for 2004 has already been claimed in 2004 as the appellant’s claim of $2,890 for 2004 included all of the invoiced amounts up to December 31, 2004.
+[9] The appellant denied that the $1,070.38 had previously been claimed as a business expense for the 2004 taxation year and he asserted that the $1,070.38 paid in 2006 was in addition to the $3,659.36 payment but no corroborating documentary evidence was provided during the audit.
+Interest Expenses and Bank Fees
+[10] During the audit, the appellant provided spreadsheets to the CRA (filed as Exhibits A-3 and A-4) showing all charges on his credit cards for the 2005 and 2006 years and the appellant presented that $39,855.83 out of the $45,924.71 was incurred for business purposes. This means that his total personal expenses for the two-year period was only $6,068.88. According to the CRA auditor, this allocation was not reasonable and was significantly different from the findings of the one-month sampling of the appellant’s 2005 credit card statements. The appellant also stated that his MBNA’s credit card was missing from the list.
+[11] The appellant also claimed that the interest charges on his Pacific Coast Savings Credit Union line of credit with a balance of $215,000 should be deductible as business expenses as that account has always been used exclusively for his business. The CRA auditor considered that this line of credit had been used as a chequing account, which means that the interest incurred on the withdrawals is considered to be for new borrowings and not for earning income from sales of real property. Due to the lack of documentation corroborating that these borrowings were made for business purposes, the CRA auditor did not accept to switch the interest associated with this account from the category of business-use-of-home expenses to the category of business interest expenses.
+[12] The Royal Bank of Canada charges claimed by the appellant were denied by the CRA because they were not related to the appellant’s business. They were for lawyer's fees incurred in connection with a legal action brought by the appellant against the bank for charging unfair billings on a business credit card. The documentation provided by the appellant did not explicitly demonstrate that the Royal Bank charges were business-related.
+Motor Vehicle Expenses
+[13] The appellant claimed $3,267.73 as interest expenses incurred to finance the purchase of the Buick Rendezvous used for business purposes. The appellant made representations to the effect that the purchase of the 2002 Buick Rendezvous was financed by his spouse and that he reimbursed her from his Coast Capital line of credit account. The payments that were made to General Motors came from the Island Savings joint account in which the appellant’s spouse's employment income was deposited. As the appellant did not provide the auditor with corroborating documentation showing that he reimbursed his spouse from his Coast Capital line of credit account, the appellant’s request to adjust the interest expense for the motor vehicle was denied.
+[14] Regarding the parking expenses, the appellant explained that he has access to an office in Victoria where he used to work and he now drives to Victoria two (2) times per week. He became a member of the Union Club to have access to its nearby parking lot and pays $45 a month for his membership. The CRA auditor denied the appellant’s request to adjust this expense because the invoices from the Union Club indicate that the fees paid are for membership dues and not for parking.
+[15] With respect to the use of the business vehicle for personal purposes, the appellant did not provide mileage or a vehicle log to determine the kilometres driven for earning income from the total costs incurred for the vehicle. The appellant’s business vehicle was not used 100 percent for business purposes despite the fact that the appellant and his spouse had two other vehicles besides the business vehicle. The appellant did not provide documentation, such as the operating costs of each vehicle, to show that his spouse and him used their personal vehicles for personal matters only.
+Travel Expenses
+[16] The appellant explained that the amounts claimed for airfare are related to the plane tickets which he purchased for his children to fly to Nanaimo and then back to where they lived. The appellant’s children were living in Montreal, Toronto and Ottawa at the time. The appellant stated that they helped him out with his business during the summer and instead of paying them, he would pay their airfare and claim it as a business expense. At the hearing, the appellant gave the example of his daughter, who worked for a law firm in Montreal that specialized in immigration law and brought a German client to Vancouver. The appellant paid her airfare from Montreal and a one-way train ticket to return to Montreal. The client apparently assumed his own expenses. The CRA determined that the amounts claimed as airfare were personal expenditures incurred for the appellant's children to come at Christmas and during the summer holidays.
+[17] The amounts claimed in relation to a one week trip to Toronto and Montreal were disallowed because they were personal expenditures. The appellant explained that the expenses were incurred to attend a training course and to meet with potential clients. No log of meetings with potential clients and no course program were produced as evidence at the hearing.
+Office, Telephone and Other Expenses
+[18] The expenses claimed in respect of the appellant’s home phone were disallowed because there was a lack of documentation showing that the home phone was used for business purposes and also because the expenses claimed in respect of the appellant's business cell phone provided by Sutton Realty were allowed at 100%.
+[19] Concerning the expenses claimed with respect to the Rogers wireless expenses, three (3) of the four (4) phone lines were disallowed due to a lack of documentation corroborating that the three (3) cell phone numbers were listed in the appellant’s advertisement as a contact number.
+[20] The expenses claimed by the appellant in respect of the Shaw cable services were disallowed because the television services provided (basic cable with 3-tier upgrading, digital features, Movie Central and Pay-per-view services) were not related to the appellant’s business activities. The appellant explained that the Shaw cable services included a bundle of services (high speed internet and television services) and that he had no options but to take all the services together.
+[21] The expenses claimed for medication, regardless of the purpose for taking it, were disallowed because they are considered personal rather than business expense. The appellant explained that the experimental drug was taken on each workday to help him with his concentration.
+Capital Cost Allowance (“CCA”) and the Undepreciated Capital Cost (“UCC”)
+[22] The expenses incurred by the appellant from 2002 to 2005 for computer equipment were disallowed in calculating the 2006 ending UCC balance for Class 10 and Class 45 because the appellant has not provided documentation to corroborate the purchases and the deductibility of the assets reported during that period. The CRA considered that the purchase of five (5) computers in four (4) years was unreasonable as the appellant was a real estate agent. The appellant explained that the Mac Laptop added to the Class 45 in 2005 was purchased from the University of Toronto by his son on the appellant's behalf through a program available only to students of the university. The appellant did not produce any evidence showing that he purchased it from his son.
+Analysis
+[23] The provisions of the Act that are applicable in this appeal are the following:
+9.(1) Income —Subject to this Part, a taxpayer’s income from business or property is the taxpayer’s profit from that business or property for the year.
+(2) Loss—Subject to section 31, a taxpayer’s loss for a taxation year from a business or property is the amount of the taxpayer’s loss, if any, for the taxation year from that source computed by applying the provisions of this Act respecting computation of income from that source with such modifications as the circumstances require.
+18(1) General Limitations —In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) General limitation — an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+(b) Capital outlay or loss —an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;
+. . .
+(h) Personal and living expenses — personal or living expenses of the taxpayer, other than travel expenses incurred by the taxpayer while away from home in the course of carrying on the taxpayer’s business;
+. . .
+20(1) Deductions permitted in computing income from business or property —Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer’s income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+(a) Capital cost property [CCA] — such part of the capital cost to the taxpayer of property, or such amount in respect of the capital cost to the taxpayer of property, if any, as is allowed by regulation;
+. . .
+67 General limitation re expenses — In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+67.1(1) Expenses for food, etc. — Subject to subsection (1.1), for the purposes of this Act, other than sections 62, 63, 118.01 and 118.2, an amount paid or payable in respect of the human consumption of food or beverages or the enjoyment of entertainment is deemed to be 50 per cent of the lesser of
+(a) the amount actually paid or payable in respect thereof, and
+(b) an amount in respect thereof that would be reasonable in the circumstances.
+230(1) Records and books — Every person carrying on business and every person who is required, by or pursuant to this Act, to pay or collect taxes or other amounts shall keep records and books of account (including an annual inventory kept in prescribed manner) at the person’s place of business or residence in Canada or at such other place as may be designated by the Minister, in such form and containing such information as will enable the taxes payable under this Act or the taxes or other amounts that should have been deducted, withheld or collected to be determined.
+248(1) Definitions — In this Act,
+“personal or living expenses” includes
+(a) the expenses of properties maintained by any person for the use or benefit of the taxpayer or any person connected with the taxpayer by blood relationship, marriage or common-law partnership or adoption, and not maintained in connection with a business carried on for profit or with a reasonable expectation of profit,
+(b) the expenses, premiums or other costs of a policy of insurance, annuity contract or other like contract if the proceeds of the policy or contract are payable to or for the benefit of the taxpayer or a person connected with the taxpayer by blood relationship, marriage or common-law partnership or adoption, and
+(c) expenses of properties maintained by an estate or trust for the benefit of the taxpayer as one of the beneficiaries.
+[24] An expense is deductible in computing the income of a taxpayer only if it is incurred for the purpose of earning income. Pursuant to the general limitation in paragraph 18(1)(a) of the Act, the taxpayer must make the outlay or incur the expense for the purpose of gaining or producing income from the business in which the taxpayer is engaged.
+[25] Pursuant to paragraph 18(1)(h) of the Act, “ personal or living expenses” cannot be deducted by a taxpayer in computing his income from business. The prohibition of paragraph 18(1)(h) does not, however, cover travel expenses incurred by the taxpayer while away from home in the course of carrying on the taxpayer’s business.
+[26] The purpose of an expense is determined by looking at the predominant reason for which the taxpayer incurs the expense. An important distinction exists between expenses incurred primarily for personal purposes and expenses that are incurred predominantly for the purpose of earning income but which have only incidental and ancillary personal elements.
+[27] What is at issue in this appeal is not the existence of a source of income but the relationship between the expenses incurred and the source to which they are purported to relate.
+[28] Most of the expenses claimed by the appellant in the present case could be described as borderline because they have a significant personal component and an economic benefit was received by the appellant or members of his family.
+Advertising Expenses
+[29] The documentary evidence filed in Court by the appellant concerns a 36‑month renewal advertising agreement in the Real Estate Today editorial published by Black Press. A one-time cost of $1,000 (plus tax) was charged to the appellant and was included in the carryover of 2004. The amount of $1,070.38 was paid in July 2006, in addition to the $3,659.36 payment made in 2006. Contrarily to the CRA’s determination, the payment of $1,070.38 was not included in the appellant’s claim of $2,890 for 2004 because the appellant was using the cash method for claiming expenses during those years,. These expenses should be deductible in computing the appellant’s business income.
+Interest Expenses and Bank Fees
+[30] In 2006, the appellant claimed $4,720.96 as interest expenses and the CRA made the following adjustment totalling $3,487.00:
+Island Savings Credit Union line of credit = $546 (70% of the amount
+claimed)
+BMO Master card =$1,149 (88% of the amount claimed)
+Royal Bank = $200
+Evans loan 2 = $1,592
+[31] The appellant’s Island Savings Credit Union line of credit and Bank of Montreal Mastercard included a mix of personal and business expenses. The CRA auditor took a three month sample of the statements from the above two accounts and identified each expense transaction as being either personal, business or mixed use. He then added together the amounts that were identified as being personal and half of the mixed used amounts and divided that total by the total expenses on the statements. He then took the average of the three months and used this percentage to determine the percentage that should be allocated for personal use for the year. From those calculations, 70% of the transactions on the Island Savings Credit Union line of credit and 88% of the transactions on the BMO Master card were considered to be personal and therefore disallowed.
+[32] The $200 payment to the Royal Bank made in year 2006 was disallowed because the invoice that refers to the Bill of Costs does not give any details about the nature of the amount that the appellant had to pay to the Royal Bank. The interest portion of the payment was not known.
+[33] All payments made under the Evans loan 2 were disallowed because the appellant has not provided the CRA with any documentation to corroborate that this loan was business related and to show the interest portion thereof.
+[34] In my view, the interest expenses referred to above are not deductible in computing the appellant’s business income.
+Motor Vehicle Expenses
+[35] In 2006, the appellant claimed $8,871.52 as motor vehicle expenses. The CRA disallowed the following expenses:
+Interest
+$ 3,267.73
+Repairs and maintenance
+$ 311.66
+Parking fees
+$ 419.28
+Personal portion (25%)
+$ 1,227.94
+Expenses disallowed
+$ 5,226.61
+[36] In my view, the motor vehicle expenses claimed by the appellant are not deductible in computing his business income for the reasons given at paragraphs 13, 14 and 15.
+Travel Expenses
+[37] In 2006, the appellant claimed $6,778.48 and the CRA disallowed $6,026.00. As explained at paragraphs 16 and 17, the disallowed expenses were incurred for personal reasons and therefore are not deductible as business expenses.
+Office, Telephone and Other Expenses
+[38] In 2006, the appellant claimed a total of $7,295.02, as follows:
+Office expenses
+$ 847.63
+Telephone
+$ 2,245.76
+Other expenses
+$ 4,201.63
+[39] The CRA disallowed $4,779.00 representing:
+Office expenses (equipment and supplies, marketing and promotion
+$ 2,159.51
+Data communication (Shaw)
+$ 766.02
+Telephone (Telus)
+$ 554.09
+Telephone (Rogers)
+$ 816.43
+Medication
+$ 482.93
+[40] The office expenses were disallowed because the appellant did not provide enough information to substantiate that the 27 items included in this category were business related. No further evidence was provided during the hearing of this appeal.
+[41] Concerning the Rogers cell phones, the appellant admitted that his children were using them.
+[42] Concerning the Telus invoices, the audit revealed that the amounts claimed included both the home telephone and the office telephone combined. The CRA considered that the home telephone was personal. Based on the invoice dated May 14, 2006, the percentage to apply for the personal use has been established at 39%. That percentage has been applied on all Telus invoices for the year.
+[43] As the amounts claimed in respect of the Shaw invoices, included a mix of cable and internet charges, the CRA allowed all amounts related to internet services and disallowed the amounts related to cable and digital services as personal expenses. As the total charges are bundled and discounted, the percentage of the invoices that relate to personal use had to be determined. Based on the invoices for 2005, the CRA used the same percentage (55%) which was calculated regarding the amount of personal use in 2005.
+[44] For the reasons enunciated in paragraphs 18 to 21 and 39 to 42, the expenses included in this category are not deductible in computing the appellant’s business income.
+Capital Cost Allowance (“CCA”) and the Undepreciated Capital Cost (“UCC”)
+[45] As no further supporting documentation has been filed in Court justifying the purchases of five (5) computers in four (4) years and their use in the appellant’s business activities, the amounts to be included in calculating the 2006 ending UCC balance for Class 10 ($11,332.29 + $3,556.02 in respect of an unknown discrepancy) and for Class 45 ($2,049.76) are disallowed.
+Conclusion
+[46] For these reasons, the appeal is allowed and the reassessment is referred back to the Minister for further consideration and reassessment on the basis that the $1,070.38 payment made in 2006 to Black Press in respect of a 2004 advertising expense be allowed as a deductible expense in computing the appellant’s business income.
+Signed at Ottawa, Canada, this 28th day of January 2014.
+"Réal Favreau"
+Favreau J.
+CITATION: 2014 TCC 29
+COURT FILE NO.: 2012-911(IT)I
+STYLE OF CAUSE: Lyle Braithwaite and Her Majesty the Queen
+PLACE OF HEARING: Nanaimo, British Columbia
+DATE OF HEARING: March 19, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: January 28, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rob Whittaker
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

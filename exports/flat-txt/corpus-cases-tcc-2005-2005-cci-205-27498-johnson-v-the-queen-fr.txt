@@ -1,0 +1,257 @@
+Title: Johnson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27498/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-205-27498-johnson-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-04-11
+
+# Johnson v. The Queen
+
+- Citation: 2005 CCI 205
+- Decision date: 2005-04-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 28, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnson v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-11
+Référence neutre
+2005 CCI 205
+Numéro de dossier
+2004-2943(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2943(IT)I
+ENTRE :
+DAVID JOHNSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu à Ottawa (Ontario), le 3 février 2004
+Devant : L'honorable juge Diane Campbell
+Comparutions :
+Représentant de l'appelant :
+M. Gordon J. Smith
+Avocate de l'intimée :
+Me Marie-Ève Aubry
+JUGEMENT
+L'appel de la cotisation établie en application de la Loi de l'impôt sur le revenu pour l'année d'imposition 1999 est admis sans frais et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que l'appelant sera autorisé à déduire une perte déductible au titre d'un placement d'entreprise d'un montant de 13 350 $ selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour d'avril 2005.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+Ce 12e jour de mars 2006
+Christian Laroche, LL.B.
+Référence : 2005CCI205
+Date : 20050411
+Dossier : 2004-2943(IT)I
+ENTRE :
+DAVID JOHNSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+Introduction
+[1] Cet appel se rapporte à l'année d'imposition 1999 de l'appelant. Dans sa déclaration de revenu pour cette année-là, l'appelant a déduit des frais d'intérêt de 2 603 $ et une perte déductible au titre d'un placement d'entreprise (la « PDTPE » ) de 13 350 $. Le 31 mars 2003, le ministre a établi une nouvelle cotisation à l'égard de l'appelant, en refusant la PDTPE de 13 350 $ et la déduction des frais d'intérêt d'un montant de 2 560 $.
+[2] Le ministre a ratifié la nouvelle cotisation de l'appelant pour l'année d'imposition 1999 en se fondant sur les hypothèses de fait suivantes, énoncées au paragraphe 19 de la réponse à l'avis d'appel :
+[traduction]
+19. En ratifiant la nouvelle cotisation de l'appelant pour son année d'imposition 1999, le ministre a émis les hypothèses de fait suivantes :
+a) la société (la « société » , telle qu'elle est définie au paragraphe 4 de la présente réponse) a été constituée en vertu de la Loi sur les sociétés par action (Ontario) le 11 mars 1988;
+b) l'appelant n'a pas établi qu'il avait investi le montant de 17 800 $ dans la société;
+c) les états financiers de la société pour l'exercice ayant pris fin le 28 février 1999 indiquent une encaisse de 28 472 $, des actifs s'élevant en tout à 1 187 155 $, des liquidités s'élevant à 28 472 $, des recettes de 181 739 $ et un bénéfice net de 2 834 $;
+d) les chèques nos 4 et 5 en date du 4 mai 1988 et du 9 juin 1988 respectivement, d'un montant de 4 590 $ et de 4 080 $, établis par l'appelant au profit de la société ont été imputés au compte de prêt à l'actionnaire de l'appelant;
+e) l'appelant n'a pas établi qu'il avait engagé des frais d'intérêt en sus d'un montant de 43 $ pour l'année d'imposition 1999.
+Les hypothèses de fait énoncées à l'alinéa c) ont initialement été émises par le ministre lorsqu'il a ratifié la nouvelle cotisation. [Non souligné dans l'original.]
+La section B de la réponse, sous le titre [traduction] « Autres faits importants » , énonçait en outre ce qui suit aux paragraphes 20, 21 et 22 :
+[traduction]
+20. L'appelant n'a pas prouvé que la société était une société exploitant une petite entreprise pendant les années d'imposition 1998 et 1999.
+21. L'appelant n'a pas démontré que la société n'avait pas déclaré faillite ou n'était pas insolvable pendant l'année d'imposition 1999.
+22. L'appelant n'a pas démontré que la société avait cessé d'exercer ses activités d'une façon permanente pendant l'année d'imposition 1999.
+[3] Les questions à trancher, telles qu'elles sont énumérées au paragraphe 23 de la réponse à l'avis d'appel, sont les suivantes :
+[traduction]
+23. Les questions à trancher sont les suivantes :
+a) La société était-elle une société exploitant une petite entreprise?
+b) L'appelant a-t-il droit à une perte au titre d'un placement d'entreprise d'un montant de 17 300 $ pour son année d'imposition 1999?
+c) L'appelant a-t-il droit à une déduction d'un montant de 2 560 $ au titre des frais d'intérêt?
+[4] À titre préliminaire, l'intimée m'a informée que les parties avaient convenu que le paragraphe 20, figurant sous le titre [traduction] « Autres faits importants » , n'était plus en litige et que l'alinéa 23a) n'était donc plus lui non plus en litige. Il me reste donc à trancher les deux autres questions, telle qu'elles sont exposées aux alinéas 23b) et c).
+La preuve de l'appelant
+[5] Edward Securities Inc. a été constituée le 11 mars 1988 en vue d'exploiter une entreprise de développement de sociétés en commandite, en particulier à l'égard de chevaux arabes égyptiens. Ces sociétés en commandite offraient aux investisseurs des déductions découlant de pertes agricoles. David Edwards était propriétaire de cette société et il était également propriétaire de six à huit autres sociétés. L'une de ces sociétés était appelée Edwards Arabians; elle possédait une propriété agricole où l'on gardait les chevaux. En plus de participer à des sociétés en commandite, Edward Securities Inc. s'était également inscrite auprès de la Commission des valeurs mobilières de l'Ontario en 1988 afin d'exploiter une maison de courtage de plein exercice. En présentant sa preuve, l'appelant a affirmé que M. Edwards lui avait demandé de devenir propriétaire partiaire d'Edward Securities Inc. L'appelant a souscrit à 153 actions privilégiées de la catégorie A et a versé un montant de 15 300 $ à cet égard; il a également souscrit à 25 actions de la catégorie A, pour lesquelles il a versé un montant de 2 500 $, ainsi qu'à 51 actions ordinaires, au prix de un dollar l'action. Il a utilisé des lignes de crédit personnelles pour acheter les actions. L'appelant a déclaré que cet argent avait été versé dans un compte de prêt à l'actionnaire et devait être imputé à l'achat de ces actions parce qu'au moment où il a investi l'argent dans la société, l'organisation du capital social devait d'abord être approuvée par la Commission des valeurs mobilières de l'Ontario dans le cadre de l'accréditation de la société à titre de courtier en valeurs mobilières. La législation en matière de valeurs mobilières exigeait qu'Edward Securities Inc. maintienne en tout temps une réserve de 25 000 $ en tant que capital libre net et un montant de 10 000 $ pour une garantie de prévoyance. La société a fourni ce montant de 35 000 $ au moyen de l'achat par l'appelant des 178 actions privilégiées de la catégorie A, au montant de 17 800 $, et des 51 actions ordinaires d'un montant de 51 $. Le solde du 35 000 $ a été payé au moyen de la souscription à des actions de la part de David Edwards.
+[6] En fin de compte, en 1996 et en 1997, l'ARC a contesté avec succès les déductions relatives aux pertes agricoles qui étaient offertes aux investisseurs par l'entremise des sociétés en commandite et cette source de revenu a donc cessé d'exister. En 1999, David Edwards a organisé une vente aux enchères à la ferme d'élevage, à Addison (Ontario), où des chevaux d'une valeur de 30 000 à 60 000 $ ont été vendus pour aussi peu que 300 $. La Banque de développement a repris possession de la propriété agricole, qui était composée d'une maison de ferme et de deux grosses écuries.
+[7] L'appelant a déclaré que la vente aux enchères de chevaux tenue par M. Edwards avait donné lieu à énormément de [traduction] « mauvaise publicité dans les journaux » , où l'on qualifiait M. Edwards de voleur de chevaux et d'escroc et où on l'accusait d'évasion fiscale. Ce type de publicité a paru au mois de juillet 1999. L'appelant a affirmé qu'Edwards Securities n'avait pas de source de revenu à l'égard de ces sociétés en commandite et que son unique autre source de revenu, la vente de fonds communs de placement, a également cessé d'exister. L'appelant a déclaré que la couverture médiatique avait tellement nui à la crédibilité de David Edwards qu'il n'y avait tout simplement plus de clients et qu'en l'absence de clients, la société n'avait pas de source de revenu. David Edwards a informé l'appelant que la société n'existait plus. On a finalement interdit à M. Edwards de détenir un permis en matière de placement en Ontario, et ce, à perpétuité. Le permis de l'appelant a été suspendu pour une période de deux ans. L'appelant a témoigné que la société avait fondamentalement cessé d'exister au mois de décembre 1999. Il s'attendait à ce que la société soit finalement liquidée. Toutefois, l'appelant a déclaré que David Edwards avait tout simplement détruit tous les registres et livres de la société, sans procéder à une dissolution formelle, et qu'il était parti. M. Edwards a fait une faillite personnelle vers l'année 2001 et il a énuméré toutes ses sociétés.
+[8] À la fin de l'année 1999, Edward Securities ne comptait aucun employé. Un aide-comptable employé à temps partiel qui essayait d'aider les quelques clients qui restaient à trouver d'autres sociétés de placement a travaillé jusqu'au mois d'août 1999. La plupart des investisseurs d'Edward Securities devaient de l'argent à l'égard de ces sociétés en commandite, mais étant donné que l'ARC avait contesté les déductions, ils ne payaient pas leurs comptes. À cause de toute la mauvaise publicité entourant les sociétés en commandite, les clients qui investissaient dans des fonds communs de placement abandonnaient la société pour s'adresser à d'autres courtiers. L'appelant a expliqué que les comptes débiteurs figurant dans le bilan de la société au 31 décembre 1999 ne valaient rien, parce qu'ils se rapportaient aux autres sociétés appartenant à David Edwards et qu'ils n'avaient donc pas de juste valeur marchande. L'appelant a déclaré que les sociétés dans lesquelles M. Edwards était impliqué ne possédaient pas d'actifs et n'avaient aucun revenu. Selon l'appelant, le seul élément d'actif possédé par Edward Securities était [traduction] « [...] les comptes débiteurs des investisseurs et les investisseurs n'allaient en aucune façon payer pour des placements qui ne valaient fondamentalement plus rien » . (Transcription, page 18.)
+[9] Pendant le contre-interrogatoire, l'appelant a déclaré que, selon la Commission des valeurs mobilières de l'Ontario, la réserve de 35 000 $ dans Edward Securities devait être maintenue; elle ne devait pas être utilisée. Toutefois, David Edwards avait utilisé une partie de cet argent, en violation des règlements de la Commission des valeurs mobilières. Après que l'aide-comptable eut été renvoyé au mois d'août 1999, fort peu d'écritures ont été effectuées dans le bilan de la société pour la période ayant pris fin le 31 décembre 1999 et les livres n'étaient donc pas à jour. Les écritures relatives aux [traduction] « Montants dus par les actionnaires » étaient exactes, selon le témoin, mais il a ajouté que ces montants étaient dus par des sociétés liées de David Edwards qui étaient insolvables. L'appelant a également déclaré que tout l'argent obtenu par Edward Securities était versé afin d'aider à financer ces autres sociétés liées. Ces montants étaient tous payables sur demande et portaient intérêt, mais ils étaient tous dus par les sociétés liées appartenant à David Edwards. Le témoin a également confirmé qu'il avait demandé le paiement des prêts à l'égard des sociétés en commandite, mais que les investisseurs en cause avaient abandonné la partie après que l'ARC eut contesté les déductions et qu'il n'y avait aucun espoir de recouvrer les sommes en question. Pendant le contre-interrogatoire, l'appelant a désigné des montants qui étaient remis à la société sous la rubrique [traduction] « Montants dus par les sociétés affiliées » et qui étaient réacheminés afin d'aider les autres sociétés liées. L'appelant a admis que la société avait généré des recettes, mais qu'en 1999, ces recettes avaient servi au paiement des honoraires et frais d'avocat.
+La position de l'intimée
+[10] Selon la position prise par l'intimée, l'appelant n'a pas droit à une PDTPE de 13 350 $, étant donné qu'il n'a pas satisfait aux conditions énoncées au sous-alinéa 50(1)b)(iii) de la Loi de l'impôt sur le revenu (la « Loi » ). De plus, l'appelant n'a pas le droit de déduire les frais d'intérêt de 2 560 $.
+[11] Quant à la demande relative à la PDTPE, l'intimée a surtout mis l'accent sur la première condition énoncée au sous-alinéa 50(1)b)(iii). Un certain nombre d'arguments ont été invoqués à l'appui de la prétention selon laquelle, pendant la période pertinente, Edward Securities n'était pas insolvable; je les examinerai à fond dans mon analyse.
+[12] Quant aux trois dernières conditions énoncées au sous-alinéa 50(1)b)(iii), l'intimée a soutenu que l'appelant n'avait pas présenté suffisamment d'éléments de preuve pour satisfaire à ces trois conditions.
+[13] En ce qui concerne la seconde question, la déductibilité des frais d'intérêt, l'intimée a encore une fois invoqué l'absence de pièces justificatives.
+Analyse
+La première question
+[14] L'appelant a-t-il droit à une PDTPE pour l'année d'imposition 1999? En ce qui concerne la PDTPE, la seule autre question est celle de savoir si l'appelant peut satisfaire aux quatre critères énumérés au sous-alinéa 50(1)b)(iii) de la Loi, qui prévoit ce qui suit :
+50. (1) Pour l'application de la présente sous-section, lorsque, selon le cas :
+[...]
+b) [...]
+(iii) soit les conditions suivantes sont réunies à la fin de l'année :
+(A) la société est insolvable,
+(B) ni la société ni une société qu'elle contrôle n'exploite d'entreprise,
+(C) la juste valeur marchande de l'action est nulle,
+(D) il est raisonnable de s'attendre à ce que la société soit dissoute ou liquidée et ne commence pas à exploiter une entreprise,
+le contribuable est réputé avoir disposé de la créance ou de l'action à la fin de l'année pour un produit nul et l'avoir acquise de nouveau immédiatement après la fin de l'année à un coût nul, à condition qu'il fasse un choix, dans sa déclaration de revenu pour l'année, pour que le présent paragraphe s'applique à la créance ou à l'action.
+[15] La réponse à l'avis d'appel ne contient pas d'hypothèses de fait se rapportant aux trois dernières conditions figurant au sous-alinéa 50(1)b)(iii) et, à l'exception des allégations de la Couronne, aucune hypothèse de fait n'aurait été émise à l'égard de la première condition. Pendant que le dossier était entre les mains du ministre, la seule hypothèse de fait concernant la PDTPE était que le placement de 17 800 $ n'était pas corroboré. (Voir les hypothèses de fait et les autres faits importants reproduits aux pages 2 et 3 des présents motifs.)
+[16] Il s'ensuit donc que la charge de la preuve, en ce qui concerne ces quatre conditions figurant au sous-alinéa 50(1)b)(iii), doit incomber à l'intimée plutôt qu'à l'appelant, comme c'est habituellement le cas dans les appels de ce genre. À l'appui, je me reporte à l'arrêt Canada c. Loewen, [2004 C.A.F. 146], dans lequel la juge Sharlow résume la règle comme suit aux paragraphes 10 et 11 :
+[10] Il n'est pas non plus loisible à Sa Majesté de plaider que le ministre a retenu une certaine hypothèse lorsqu'il a établi la cotisation, alors qu'en fait cette hypothèse n'a été formulée que par la suite lorsque, par exemple, le ministre a confirmé la cotisation à la suite d'un avis d'opposition. Sa Majesté peut toutefois plaider que le ministre a, lorsqu'il a établi la nouvelle cotisation, retenu une hypothèse qui n'avait pas été formulée lorsque la première cotisation a été établie (Anchor Pointe Energy Ltd. c. Canada, 2003 DTC 5512 (C.A.F.)).
+[11] Les contraintes imposées au ministre lorsqu'il invoque des hypothèses n'empêchent cependant pas Sa Majesté de soulever, ailleurs dans la réponse, des allégations de fait et des moyens de droit qui sont étrangers au fondement de la cotisation. Si Sa Majesté allègue un fait qui ne fait pas partie des faits présumés par le ministre, la charge de la preuve repose sur elle. Ce principe est bien expliqué dans la décision Schultz c. Canada, [1996] 1 C.F. 423 (C.A.), autorisation d'appel à la C.S.C. refusée, [1996] A.C.S.C. no 4.
+[17] Dans la décision Jacques St-Onge Inc. v. The Queen, 2003 DTC 153, au paragraphe 40, le juge Archambault a fait les remarques suivantes :
+[40] Toutefois, cette question n'a jamais été soulevée ni dans les actes de procédure de l'intimée ni lors de l'audience. Parmi les faits énoncés dans la Réponse à l'avis d'appel, sur lesquels le ministre s'est fondé pour établir sa cotisation, il n'est fait aucune mention de l'état de solvabilité de Récupération. Aucune demande de modification de la Réponse à l'avis d'appel n'a été faite. Le débat n'a porté que sur la question de savoir s'il était raisonnable de s'attendre à ce que Récupération soit dissoute ou liquidée au 30 avril 1994. Dans la jurisprudence portant sur la question du fardeau de la preuve, on affirme que la tâche d'un contribuable est de démolir les faits sur lesquels le ministre s'est fondé pour établir sa cotisation. Si le ministre n'a pas énoncé un fait pertinent dans sa Réponse à l'avis d'appel, il est difficile de reprocher au contribuable de ne pas avoir démoli ce fait. Il serait donc tout à fait inapproprié de rejeter l'appel de Gestion sur la base de sa solvabilité.
+Ce raisonnement s'applique aux conclusions que j'ai tirées au sujet des trois dernières conditions prévues au sous-alinéa 50(1)b)(iii) et je pourrais me prononcer sur ces trois conditions en fonction de cela uniquement. Même si je ne m'appuie pas sur la décision qui a été rendue dans l'affaire Jacques St-Onge Inc., les arguments que l'intimée a invoqués au sujet de ces trois dernières conditions ne me convainquent toujours pas.
+[18] Les arguments que l'intimée a soumis dans ses conclusions finales au sujet de ces trois dernières conditions sont les suivants :
+[traduction]
+Quant à la deuxième condition figurant au sous-alinéa 50(1)b)(iii), à savoir que ni la société ni une société qu'elle contrôle n'exploite d'entreprise :
+La question de savoir si une entreprise a cessé d'être exploitée est une question de fait.
+La preuve révélait qu'au mois de décembre 1999, Edward Securities, ainsi que l'appelant et M. Edwards, l'autre actionnaire, étaient encore inscrits auprès de la Commission des valeurs mobilières.
+L'état financier du mois de février 1999, pièce R-1, indiquait un revenu net de 2 839 $. De plus, selon le bilan du mois de décembre 1999, pièce R-2, les comptes créditeurs avaient augmenté d'un montant de 1 923 $ depuis le mois de février, ce qui indiquait une certaine activité. Il est donc soutenu que l'appelant n'a pas démontré qu'Edward Securities avait cessé d'exploiter son entreprise.
+Quant à la troisième condition, à savoir que la valeur de l'action est nulle, l'appelant n'a pas présenté de preuve directe sur ce point. Toutefois, l'état financier, pièce R-1, et le bilan, pièce R-2, montrent de fait que les capitaux propres avaient augmenté du mois de février au mois de décembre 1999; ces deux documents établissent donc, à première vue, qu'au mois de décembre 1999, la valeur de l'action n'était pas nulle.
+Quant à la dernière condition qui est énoncée au sous-alinéa 50(1)b)(iii), il est raisonnable de s'attendre à ce que la société soit dissoute ou liquidée et ne commence pas à exploiter une entreprise.
+Ici encore, l'appelant a témoigné qu'il croyait que la société serait dissoute ou liquidée à un moment donné. Il n'a pas présenté d'autre élément de preuve.
+(Transcription, pages 90 et 91.)
+[19] Il est possible de répondre brièvement aux arguments invoqués par l'intimée au sujet de ces trois dernières conditions énoncées au sous-alinéa 50(1)b)(iii) en disant qu'à la fin de l'année d'imposition 1999, Edward Securities Inc. ne valait tout simplement rien et qu'on ne s'attendait pas à ce qu'elle commence des activités commerciales dans l'avenir. La preuve de l'appelant indique quelle était la situation d'Edward Securities en 1999. Étant donné que l'ARC a contesté les déductions, on ne pouvait plus offrir de déductions relatives à des pertes agricoles dans le cadre de sociétés en commandite et il a donc fallu vendre les chevaux aux enchères à des prix sacrifices; les terres agricoles et les écuries ont fait l'objet d'une reprise de possession; le permis en matière de placement accordé à M. Edwards lui a été retiré d'une façon permanente et le permis de l'appelant a été suspendu pour une période de deux ans. À cause de la mauvaise publicité et de la couverture médiatique entourant la vente aux enchères de chevaux, M. Edwards était considéré comme un voleur et un escroc. En l'absence de toute crédibilité, [traduction] « une foule » de personnes, pour reprendre l'expression de l'appelant, qui avaient placé de l'argent dans les fonds communs de placement de la société sont parties. Étant donné l'absence de clients existants ou éventuels, comment cette société ou ses actions pouvaient-elles avoir une valeur et comment pouvait-on s'attendre à ce qu'elle poursuive son entreprise ou recommence à exploiter son entreprise?
+[20] Il ressort clairement de ces éléments de preuve et de la preuve dans son ensemble qu'à la fin de l'année d'imposition 1999 :
+a) la société n'exploitait pas d'entreprise et l'intimée ne s'est pas demandée si « une société qu'elle contrôl[ait] exploit[ait une] entreprise » aux termes de la division 50(1)b)(iii)(B);
+b) la juste valeur marchande des actions de la société était nulle;
+c) il était « raisonnable de s'attendre » , en ce qui concerne le critère subjectif et le critère objectif du caractère raisonnable (tel qu'il a été examiné par le juge Archambault aux paragraphes 25 à 36 de la décision Jacques St-Onge Inc.) à ce que la société soit dissoute ou liquidée et ne commence pas à exploiter une entreprise De fait, la preuve montre ici que la société n'a pas exploité d'entreprise depuis 1999.
+[21] Quant à ces trois dernières conditions prévues au sous-alinéa 50(1)b)(iii), je conclus que l'intimée ne s'est pas acquittée de l'obligation qui lui incombait à l'égard de la PDTPE. Même si la charge de la preuve n'avait pas été renversée et qu'elle continuait à incomber à l'appelant, je serais arrivée à la même conclusion, parce que l'appelant était, selon moi, un témoin crédible et franc. Je suis donc prête à retenir la version des faits qu'il a donnée en réponse aux arguments de l'intimée.
+[22] J'examinerai maintenant la première condition figurant au sous-alinéa 50(1)b)(iii), à savoir si la société était insolvable à la fin de l'année d'imposition 1999, soit la condition à laquelle l'intimée a accordé le plus d'importance et le plus de poids.
+[23] L'intimée a initialement examiné la définition du mot « insolvable » . Ce mot n'est pas défini dans la Loi, mais l'intimée a affirmé ce qui suit : [traduction] « [...] il est raisonnable de s'attendre à ce que le sens habituel du mot 'insolvabilité', à savoir l'incapacité de rembourser les dettes au fur et à mesure de leur échéance, soit le sens qu'il faut attribuer à ce mot. » (Transcription, page 86.) La première question qui se pose, selon la définition proposée par l'intimée, est de savoir si ce sens du mot « insolvabilité » est celui qu'il faut utiliser pour l'application du sous-alinéa 50(1)b)(iii). Selon plusieurs passages contenus dans l'arrêt Will-Kare Paving & Contracting Ltd. c. Canada, [2000] 1 R.C.S. 915, il convient de se demander d'abord si le mot « insolvabilité » a un « un sens juridique bien établi et reconnu » (paragraphe 33 de l'arrêt Will-Kare). Selon l'arrêt rendu par la Cour suprême dans l'affaire Robinson c. Countrywide Factors Ltd., [1978] 1 R.C.S. 753, il faudrait attribuer au mot « insolvabilité » un sens technique et un sens général. Le juge en chef Laskin, qui a rendu sa décision en dissidence, a résumé les deux sens comme suit à la page 760 :
+Le point de vue du Conseil privé et de cette Cour quant au sens de « insolvabilité » , avant comme après l'abolition des appels au Conseil privé, est uniforme. Dans le renvoi relatif à la Farmers' Creditors Arrangement Act, (précité), à la p. 402, lord Thankerton, au nom du Conseil privé, l'a exprimé comme suit :
+[TRADUCTION]
+Au sens général, insolvabilité signifie incapacité de faire face à ses dettes ou obligations; au sens technique, cela signifie l'état ou le niveau d'incapacité de faire face à ses dettes ou à ses obligations qui, lorsqu'il est atteint, permet au créancier, aux termes de la Loi, d'intervenir, avec l'aide d'un tribunal, pour arrêter l'action individuelle des créanciers et assurer l'administration des actifs du débiteur dans l'intérêt général des créanciers; la Loi permet aussi généralement au débiteur de demander la même administration.
+[24] Le sous-alinéa 50(1)b)(ii), qui figure dans cette disposition juste avant le passage pertinent dont il est ici question, est ainsi libellé :
+(ii) soit elle est une personne morale visée à l'article 6 de la Loi sur les liquidations, insolvable au sens de cette loi et au sujet de laquelle une ordonnance de mise en liquidation en vertu de cette loi a été rendue au cours de l'année, [...]
+Selon l'article 3 de la Loi sur les liquidations et les restructurations, L.R.C. 1985, ch. W-11, telle qu'elle a été modifiée par L.C. 1992, ch. 26, art. 19, une société est réputée insolvable dans six cas différents, notamment si « elle est incapable de payer ses dettes à échéance » (alinéa 3a)). Cette loi semble étendre la portée générale du mot « insolvabilité » en présumant par exemple que la société reconnaît son insolvabilité (alinéa 3d)). Cela devrait-il également s'appliquer de façon similaire au sous-alinéa 50(1)b)(iii)? Je crois qu'étant donné qu'il a expressément mentionné cette loi au sous-alinéa 50(1)b)(ii), mais non au sous-alinéa 50(1)b)(iii), le législateur voulait clairement que la définition générale du mot « insolvabilité » s'applique au sous-alinéa 50(1)b)(iii). Étant donné que la définition proposée par l'intimée est semblable à la définition générale qui a été donnée dans l'arrêt Robinson, je me propose d'utiliser la définition générale préconisée par l'intimée dans mon analyse de la première condition prévue au sous-alinéa 50(1)b)(iii), à savoir si la société est insolvable à la fin de l'année. Je me fonde également sur le fait que je serais arrivée à la même conclusion, et ce, peu importe que je me serve de la définition générale ou de la définition technique.
+[25] L'intimée a avancé un certain nombre d'arguments au sujet de la raison pour laquelle la société était insolvable à la fin de l'année d'imposition 1999. Premièrement, l'intimée a soutenu que les documents soumis par l'appelant, l'état financier et le bilan, n'établissaient pas clairement que la société était insolvable. (Transcription, pages 85 et 86.) Ce résumé par l'intimée de la position prise par l'appelant au sujet de ces documents n'est pas tout à fait exact. Lorsqu'il a témoigné, l'appelant a donné les précisions suivantes au sujet du bilan de la société pour la période qui a pris fin le 31 décembre 1999 :
+[traduction]
+Cela provenait des documents comptables internes du « programme comptable New Views » d'Edward Securities et même s'il est fait mention du « 31 décembre 1999 » , le rapprochement n'a été effectué que jusqu'au 31 août. Par conséquent, il y avait en fait fort peu d'écritures pour la période allant du 31 août à la fin du mois de décembre. (Transcription, page 38.)
+De plus, selon le témoignage de l'appelant, l'autre principal actionnaire de la société, David Edwards, a détruit tous les livres et registres de la société avant de [traduction] « partir » . On peut donc s'interroger sur la fiabilité du bilan de la société dans son ensemble. Toutefois, je retiens la preuve que l'appelant a soumise au sujet de ces écritures du bilan, lorsqu'il a pu les justifier. L'aide-comptable qui travaillait à temps partiel pour la société n'a été employé que jusqu'au mois d'août 1999 et l'appelant a affirmé que fort peu d'écritures avaient été effectuées par la suite. L'appelant devait ici s'appuyer sur les quelques documents qu'il avait réussi à rassembler et sur ce qu'il se rappelait au sujet de la situation financière de la société pendant cette période. Étant donné que je considère la preuve de l'appelant comme crédible, je rejette les arguments que l'intimée a invoqués au sujet de ces documents.
+[26] Deuxièmement, l'intimée a avancé l'argument suivant :
+[traduction]
+L'appelant a témoigné que, sur ce montant, un montant de 25 000 $ ne pouvait pas être utilisé, étant donné qu'il s'agissait d'une réserve selon les exigences de la Commission des valeurs mobilières. Dans le bilan, pièce R-2, en date du 31 décembre 1999, le montant indiqué dans ce document était de 10 922 $. L'appelant a expliqué qu'il croyait que M. Edwards était probablement celui qui avait retiré l'argent du compte. (Transcription, pages 86 et 87.)
+[27] Il n'existait aucune preuve directe sur ce point, mais cela donnait implicitement à entendre que cette réserve devait être constante si la société voulait conserver son permis et être en règle auprès de la Commission des valeurs mobilières de l'Ontario. Le bilan indique une réduction des fonds qui étaient dans la réserve au mois de décembre 1999, je conclus que la réduction est attribuable au fait que M. Edwards a utilisé cet argent, comme l'appelant l'a allégué, même s'il lui était interdit de le faire. Je ne crois donc pas que ces montants aient été disponibles aux fins du remboursement des dettes au fur et à mesure de leur échéance. De plus, l'appelant a témoigné que M. Edwards aurait retiré les fonds en question à des fins autres que celles qui étaient liées aux activités de l'entreprise. Le témoignage que l'appelant a présenté pendant le contre-interrogatoire décrit mieux les circonstances concernant l'emploi de ces fonds :
+[traduction]
+Q. [...] À l'heure actuelle, l'encaisse s'élève à 10 922,12 $; vous conviendrez donc qu'il y a moins de 25 000 $?
+R. Absolument. Il s'est emparé d'une partie des fonds. Il s'agit encore une fois d'une violation des règles de la Commission.
+Ce chiffre est donc en effet exact.
+Q. Par conséquent, le 31 décembre 1999, Edward Securities était encore inscrite auprès de la Commission des valeurs mobilières?
+R. Elle était encore inscrite, mais elle n'avait pas - le dépôt devait être effectué au plus tard le 28 février. Le dépôt normal aurait été fait le 28 février 2000. Il croyait pouvoir remettre l'argent - je suppose qu'il croyait pouvoir remettre l'argent avant qu'une violation soit commise. Cependant [...] (Transcription, page 40.)
+[28] Compte tenu de la preuve présentée par l'appelant, que je considère comme crédible, il n'y avait donc pas d'argent aux fins du remboursement des dettes de la société au fur et à mesure de leur échéance et, de toute façon, les fonds auraient été tout à fait insuffisants.
+[29] Troisièmement, les arguments avancés par l'intimée au sujet des actifs de la société étaient les suivants :
+[traduction]
+Quant aux comptes débiteurs, au mois de février 1999, le montant était de 16 971 $. L'appelant a expliqué que ce montant représentait des commissions qui étaient dues à Edward Securities. Il a reconnu qu'au mois de décembre 1999, comme le montre la pièce R-2, Edward Securities a reçu ce paiement. Toutefois, il ne pouvait pas expliquer ce que l'on avait fait de l'argent.
+Un autre élément d'actif figurant dans l'état financier se rapportait aux prêts, d'un montant de 15 000 $.
+L'appelant a témoigné que ces prêts avaient été consentis à des investisseurs. Il a reconnu qu'ils étaient payables sur demande. Il a également affirmé avoir essayé de recouvrer les sommes dues, mais il n'a pas pu produire de lettres et il n'a pas pris de mesure contre ces investisseurs.
+Quant aux « Montants dus par les sociétés affiliées » , au mois de février 1999, comme le montre la pièce R-1, le montant de 4 479 $ était dû à Edward Securities. L'appelant a reconnu avoir reçu le montant en question, mais encore une fois, il ne pouvait pas dire ce qu'on avait fait de l'argent.
+[...]
+Enfin, quant aux « Montants dus par les actionnaires » , soit le principal élément d'actif mentionné dans l'état financier d'Edward Securities, au mois de février 1999, le montant s'élevait à 1 094 283 $. L'appelant a témoigné que ce montant était dû par une société, 622291 Ontario Ltd. Il n'a pas demandé à 622291 Ontario Ltd. de rembourser ce montant, ne serait-ce qu'en partie. Il a reconnu que ce montant était payable sur demande, comme le montre la note 2 de l'état financier, pièce R-1.
+En outre, le bilan, pièce R-2, montre qu'un montant de près de 90 000 $ a été prêté à 622291 Ontario Ltd. entre le mois de février et le mois de décembre 1999.
+L'appelant a témoigné que depuis 1998, Edward Securities faisait face à des difficultés financières.
+Ce fait n'est clairement pas corroboré par le bilan ni par l'état financier, selon lesquels Edward Securities, au cours de cette période, a réussi à trouver un montant de 90 000 $ à prêter.
+(Transcription, pages 87 à 89.)
+[30] L'appelant a déclaré que la totalité ou presque des montants à recevoir ont servi au paiement des frais d'avocat se rapportant à l'enquête que la Commission des valeurs mobilières avait menée sur la société ou à venir en aide à d'autres sociétés liées contrôlées par M. Edwards. Quant aux montants qui ont été désignés à titre de [traduction] « comptes débiteurs » ou de [traduction] « Montants dus par les actionnaires » , il s'agissait en général, selon la preuve de l'appelant, de montants dus par les autres sociétés contrôlées par M. Edwards, lesquelles étaient insolvables. De fait, en réponse à la question suivante qui lui a été posée lors du contre-interrogatoire : [traduction] « N'est-il pas vrai que ces 'Montants dus par les actionnaires', [...] s'élevant à plus d'un million de dollars, étaient payables sur demande? » l'appelant a répondu :
+[traduction]
+Ces montants étaient dus sur demande et portaient intérêt, comme il en est clairement fait mention dans les notes. Mais il s'agissait dans tous les cas de sociétés appartenant à David Edwards.
+Il pouvait donc se réclamer de l'argent à lui-même. La belle affaire!
+Cela figure dans les notes, mais ça ne veut réellement rien dire.
+(Transcription, page 47.)
+Selon la preuve présentée par l'appelant, certains comptes débiteurs avaient été vendus à terme à des investisseurs et les montants y afférents étaient donc dus par les investisseurs, en ce qui concerne les projets de la société en commandite, mais on ne s'attendait pas à ce qu'ils paient [traduction] « [...] pour des placements qui ne valaient fondamentalement plus rien » . (Transcription, page 18.) L'appelant a témoigné qu'il avait demandé le remboursement de ces prêts, mais qu'on lui avait répondu :
+[traduction]
+En éclatant de rire [...] David Edwards s'occupait pratiquement de tout cela. Mais les investisseurs n'allaient pas payer pour quelque chose alors qu'ils avaient perdu tous les fonds qu'ils avaient placés et toutes leurs déductions.
+(Transcription, page 50.)
+[31] Quatrièmement, en ce qui concerne les capitaux propres de la société, l'intimée a soutenu ce qui suit :
+[traduction]
+L'appelant a également reconnu qu'entre le mois de février et le mois de décembre 1999, le montant des bénéfices distribués avait augmenté de 44 239 $. Par conséquent, entre le mois de février et le mois de décembre 1999, les capitaux propres étaient également passés de 495 644 $ à 540 883 $. (Transcription, page 88.)
+[32] Premièrement, même si les capitaux propres pouvaient être imputés au remboursement des dettes au fur et à mesure de leur échéance, il y aurait néanmoins une différence de plus de 100 000 $ entre les dettes, qui s'élevaient à 682 000 $, et les capitaux propres, qui s'élevaient à 540 883 $. Deuxièmement, avant que les capitaux propres puissent être imputés aux dettes, il faudrait obtenir le consentement des actionnaires. Troisièmement, le fait de transformer une source de financement (par capitaux propres) en une autre source de financement (par endettement) n'améliore pas, en théorie, la situation financière de la société. Je ne crois donc pas que le quatrième argument que l'intimée a soulevé au sujet de la première condition prévue au sous-alinéa 50(1)b)(iii) soit bien utile, eu égard aux faits de l'espèce.
+[33] Le dernier argument que l'intimée a avancé au sujet de la division 50(1)b)(iii)(A), en ce qui concerne les dettes de la société, était le suivant :
+[traduction]
+Enfin, en ce qui concerne les dettes d'Edward Securities, la pièce R-1, à savoir les états financiers, ainsi que la pièce R-2, à savoir le bilan, indiquent toutes deux qu'un billet était payable et l'appelant a mentionné un effet subordonné d'un montant de 682 000 $.
+L'appelant a témoigné que ce billet était dû à une société affiliée. L'appelant a également témoigné qu'aucune action n'était en instance aux fins du recouvrement de ce montant.
+(Transcription, page 89.)
+De plus, l'intimée a mentionné qu'entre le mois de février et le mois de décembre 1999, les actifs de la société avaient augmenté de 55 079 $ selon ces documents, alors que les dettes avaient uniquement augmenté d'environ 10 000 $.
+[34] En 1999, la plus grande partie de l'argent reçu par la société n'a pas été conservé, mais il a été remis aux sociétés liées de David Edwards. Il est logique de supposer ici que, si la société avait eu des fonds additionnels à sa disposition, les recours juridiques appropriés auraient été exercés contre la société aux fins du recouvrement des 682 000 $. Par conséquent, à la fin de l'année 1999, cette dette grevait encore lourdement les finances de la société. S'il n'en avait pas été ainsi, on aurait peut-être pu attribuer une valeur nulle aux dettes de la société. Dans ce cas, j'aurais peut-être été portée à suivre le raisonnement que l'ARC a tenu dans l'interprétation technique 9802347 (15 juin 1998) :
+[traduction]
+[...] le mot « insolvable » doit se voir attribuer son sens ordinaire, étant donné qu'il n'est pas défini dans la Loi. Le dictionnaire définit le mot « insolvable » comme suit : « incapable d'acquitter ses dettes » . Par conséquent, à notre avis, la société qui ne possède pas d'actifs et qui n'a pas de dettes à la fin de l'année d'imposition ne peut pas, en règle générale, être considérée comme insolvable pour l'application du sous-alinéa 50(1)b)(iii) de la Loi.
+[35] Je serais encore une fois arrivée à la même conclusion au sujet de la division 50(1)(iii)b)(A), et ce, même si la charge de la preuve n'était pas passée à l'intimée, puisque le témoignage de l'appelant était, selon moi, crédible.
+[36] Bref, l'intimée ne s'est pas acquittée de l'obligation qui lui incombait en ce qui concerne les quatre conditions prévues par la Loi au sous-alinéa 50(1)b)(iii) et l'appelant a donc droit à la PDTPE pour l'année d'imposition 1999.
+La deuxième question
+[37] En ce qui concerne la déductibilité des frais d'intérêt, l'intimée a invoqué l'absence de pièces justificatives.
+[38] Selon la preuve qu'il a présentée au sujet de ces frais d'intérêt, l'appelant avait utilisé des lignes de crédit pour fournir de l'argent à la société en 1988, en vue d'en devenir propriétaire partiaire. L'argent a été imputé à un compte de prêt à l'actionnaire et a finalement servi à l'achat d'actions. Les placements, dont certains avaient été effectués par la femme de l'appelant, s'élevaient à environ 80 000 $. Après avoir utilisé des lignes de crédit pour financer ce montant, l'appelant l'a transféré à une hypothèque sur sa résidence. L'appelant a témoigné qu'il ne pouvait pas obtenir à l'appui des renseignements de la banque pour la ligne de crédit au Canada Trust; en effet, la Banque Toronto Dominion avait acquis cette société de fiducie et tous les documents concernant la période pertinente avaient été détruits. Il ne pouvait pas non plus fournir de renseignements au sujet de la ligne de crédit qu'il avait à la Scotia, parce qu'on l'avait informé qu'il n'y avait pas de documents, même pas une microfiche, datant d'avant 1990.
+[39] Étant donné que certains placements effectués dans la société avaient été faits par sa femme, lorsqu'on lui a demandé comment il calculait la déduction afférente aux frais d'intérêt pour l'ARC, l'appelant a déclaré ce qui suit :
+[traduction]
+J'ai oublié quelle était la répartition [...] Mais la portion afférente aux intérêts est le pourcentage qui me revient sur ces 80 000 $.
+(Transcription, page 24.)
+[40] L'appelant était un témoin crédible, mais cela ne suffit pas, en l'absence de pièces justificatives, et l'appelant ne peut tout simplement pas donner des chiffres satisfaisants à l'appui de sa demande, en vue d'avoir gain de cause. L'appelant devait prouver ce qui suit :
+(1) il a emprunté l'argent en vue de « tirer un revenu de l'entreprise ou du bien » ;
+(2) il devait payer des intérêts sur le prêt;
+(3) il a payé ces intérêts.
+[41] La position du ministre est résumée dans le témoignage de Robert Dupont, vérificateur à l'ARC, qui a déclaré ce qui suit à ce sujet :
+[traduction]
+L'avocate de l'intimée :
+Q. Pouvez-vous expliquer à la Cour pourquoi vous avez refusé les frais d'intérêt?
+M. Dupont :
+R. Les frais d'intérêt que M. Johnson a déduits - Il ne m'a remis aucune documentation indiquant que la dépense avait été engagée ou qu'elle avait été engagée à des fins de placement.
+(Transcription, page 72.)
+[...]
+R. Il a également affirmé avoir transféré ce montant à son hypothèque et avoir acheté une maison en 1987.
+[...]
+Nous aurions aimé voir les documents hypothécaires déposés au bureau d'enregistrement pour savoir quel était le montant de l'hypothèque à ce moment-là et ensuite de combien il aurait augmenté sa ligne de crédit; ou ce qu'il avait payé pour les actions. Mais je n'ai obtenu aucun de ces renseignements.
+La juge :
+Q. Les avez-vous demandés ou a-t-il tout simplement omis de les fournir?
+R. Il ne les a pas fournis.
+(Transcription, page 75.)
+[42] Après avoir entendu le témoignage de l'appelant et celui de M. Dupont, je n'ai toujours rien de concret qui me permette d'essayer de procéder à une répartition du capital et des frais d'intérêt. L'appelant n'a pas fourni au vérificateur les documents nécessaires et il ne m'a pas expliqué pourquoi il était impossible d'obtenir une copie de l'acte hypothécaire du bureau d'enregistrement. Il devait savoir que ces documents pourraient être pertinents puisque le vérificateur les avait demandés. L'appelant n'a pas essayé de fournir ces renseignements fondamentaux et il n'a pas tenté de procéder à une répartition fiable du montant de 80 000 $ entre lui-même et sa femme. Il s'est contenté d'affirmer qu'il ne savait plus comment le montant se répartissait. La charge de la preuve incombe ici à l'appelant et il n'a tout simplement fourni aucune preuve documentaire ni aucune corroboration de la part d'autres témoins. Selon moi, l'appelant qui ne peut pas personnellement donner sa propre formulation d'une répartition sur laquelle il s'est censément fondé à l'appui de sa demande nuit extrêmement à sa cause. De plus, il aurait été très facile pour l'appelant d'obtenir un double enregistré de l'acte hypothécaire. Je rejette donc la demande que l'appelant a faite en vue de déduire des frais d'intérêt.
+[43] L'appel est donc admis sans frais, dans la mesure où l'appelant sera autorisé à déduire une PDTPE d'un montant de 13 350 $.
+Signé à Ottawa, Canada, ce 11ejour d'avril 2005.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+Ce 12e jour de mars 2006
+Christian Laroche, LL.B.
+RÉFÉRENCE :
+2005CCI205
+No DU DOSSIER DE LA COUR :
+2004-2943(IT)I
+INTITULÉ :
+David Johnson c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Ottawa (Ontario)
+DATE DE L'AUDIENCE :
+Le 3 février 2005
+MOTIFS DU JUGEMENT :
+L'honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 11 avril 2005
+COMPARUTIONS :
+Représentant de l'appelant :
+M. Gordon J. Smith
+Avocate de l'intimée :
+Me Marie-Ève Aubry
+AVOCATS INSCRITS AU DOSSIER :
+Avocat de l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

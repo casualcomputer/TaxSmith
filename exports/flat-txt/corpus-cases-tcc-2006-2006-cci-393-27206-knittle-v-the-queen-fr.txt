@@ -1,0 +1,192 @@
+Title: Knittle v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27206/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-393-27206-knittle-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-06-07
+
+# Knittle v. The Queen
+
+- Citation: 2006 CCI 393
+- Decision date: 2006-06-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 911, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Knittle v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-07
+Référence neutre
+2006 CCI 393
+Numéro de dossier
+2004-2254(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004‑2254(IT)I
+ENTRE :
+ANTHONY KNITTLE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 3 juin 2005 et le 15 mai 2006 à Vancouver
+(Colombie‑Britannique) avec les appels de Kim H. Knittle, 2004‑2255(IT)I, et de Kim Knittle faisant affaire sous le nom de Data Secured, 2004‑2740(GST)I.
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Représentante de l’appelant :
+Kim H. Knittle
+Avocate de l’intimée :
+Me Pavanjit Mahil
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre de nouvelles cotisations d’impôt établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1999 et 2000 sont rejetés.
+Signé à Ottawa, Canada, ce 6e jour de juillet 2006.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 12e jour de septembre 2007.
+Jean David Robert, traducteur
+Dossier : 2004‑2255(IT)I
+ENTRE :
+KIM H. KNITTLE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 3 juin 2005 et le 15 mai 2006 à Vancouver
+(Colombie‑Britannique) avec les appels de Anthony Knittle, 2004‑2254(IT)I, et de Kim Knittle faisant affaire sous le nom de Data Secured, 2004‑2740(GST)I.
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Pavanjit Mahil
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation d’impôt établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est rejeté.
+Signé à Ottawa, Canada, ce 6e jour de juillet 2006.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 12e jour de septembre 2007.
+Jean David Robert, traducteur
+Dossier : 2004‑2545(IT)I
+ENTRE :
+EVERETT A. CUMMINGS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+L’honorable juge C.H. McArthur
+Signataires :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Pavanjit Mahil
+____________________________________________________________________
+JUGEMENT
+Vu le contenu de l’acquiescement à jugement déposé;
+L’appel interjeté à l’encontre de la nouvelle cotisation d’impôt établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est accueilli, et la nouvelle cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant pour acquis que l’appelant a le droit de déduire une perte d’entreprise additionnelle de 13 401,50 $ et, par conséquent, une perte d’entreprise nette modifiée d’un total de 20 389,50 $.
+Signé à Ottawa, Canada, ce 6e jour de juillet 2006.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 12e jour de septembre 2007.
+Jean David Robert, traducteur
+Dossier : 2004‑2740(GST)I
+ENTRE :
+KIM KNITTLE,
+faisant affaire sous le nom de DATA SECURED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 3 juin 2005 et le 15 mai 2006 à Vancouver (Colombie‑Britannique) avec les appels de Anthony Knittle, 2004‑2254(IT)I et de Kim H. Knittle, 2004‑2255(IT)I.
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Représentante de l’appelante :
+Kim H. Knittle
+Avocate de l’intimée :
+Me Pavanjit Mahil
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation, dont l’avis est daté du 9 mars 2004 et porte le numéro 11GU‑GL032751237271, qui a été établie en vertu de la Loi sur la taxe d’accise pour la période du 1er janvier 1999 au 31 décembre 2000 est rejeté.
+Signé à Ottawa, Canada, ce 6e jour de juillet 2006.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 12e jour de septembre 2007.
+Jean David Robert, traducteur
+Référence : 2006CCI393
+Date : 20060607
+Dossiers : 2004‑2254(IT)I, 2004‑2255(IT)I
+2004‑2545(IT)I, 2004‑2740(GST)I
+ENTRE :
+ANTHONY KNITTLE, KIM H. KNITTLE,
+EVERETT A. CUMMINGS et
+KIM KNITTLE faisant affaire sous le nom de DATA SECURED,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Les appels interjetés par Anthony Knittle, Kim Knittle et Data Secured ont été instruits ensemble, tandis qu’une transaction est intervenue pendant l’audience et un acquiescement à jugement a été déposé dans l’appel interjeté par Everett Cummings. Les deux appels en matière d’impôt sur le revenu soulèvent les questions de savoir si les appelants ont omis de déclarer un revenu d’entreprise et s’ils ont le droit de déduire la partie des dépenses dont la déduction n’a pas été admise par le ministre du Revenu national (le « ministre »). L’appel en matière de taxe sur les produits et services (la « TPS ») introduit par Data Secured vise des cotisations établies pour la période du 1er janvier 1999 au 31 décembre 2000 concernant des montants non déclarés de TPS perçue et des crédits de taxe sur les intrants (les « CTI ») demandés, et le résultat de cet appel dépend en grande partie des décisions rendues sur les appels en matière d’impôt sur le revenu. L’appel d’Anthony Knittle vise les années d’imposition 1999 et 2000, tandis que l’appel de Kim Knittle vise seulement l’année d’imposition 2000. L’appel de Mme Knittle en matière d’impôt sur le revenu relatif à l’année 1999 a été annulé antérieurement puisqu’elle avait contesté une cotisation néant, et que, selon un principe de droit bien établi, il ne peut être appelé d’une telle cotisation sauf dans des circonstances particulières qui n’existent pas en l’espèce. Après plusieurs tentatives de régler les litiges faites avant l’ouverture du procès, le ministre a fait des concessions, dont ont pris acte les appelants, admettant notamment que le montant d’une dépense relative à un véhicule à moteur avait été ramené à 3 514 $ étant donné que cette dépense avait été admise deux fois par erreur.
+[2] La principale question en litige concernait la déductibilité de dépenses (payées dans une proportion de 75 % par Anthony Knittle et de 25 % par Kim Knittle pour l’année 2000 seulement) de 58 621 $ et de 71 922 $ engagées respectivement en 1999 et en 2000, le ministre ayant admis la déduction de 30 864 $ et de 34 108 $ dans les nouvelles cotisations. L’instruction des présents appels a débuté le 3 juin 2005. Une heure et demie après l’ouverture de l’audience, il était manifeste que Kim Knittle était mal préparée pour se représenter elle‑même et représenter les autres appelants devant la Cour. Les documents dont elle disposait relativement aux trois appels ne comprenaient aucun livre ni registre, mais consistaient en des reçus, des chèques payés et des relevés bancaires désordonnés et déroutants qui n’avaient pas été classés, triés, ni séparés par des onglets. Un comptable, Fareed Raza, qui était apparemment le représentant des appelants, n’a pas été en mesure de l’aider à mettre un peu d’ordre dans le désordre. Le procès a été ajourné au 15 mai 2006, date à laquelle les parties ont informé la Cour qu’elles s’étaient rencontrées à au moins deux occasions pendant la période d’ajournement et que seules des concessions minimes avaient pu être faites. L’audience a repris le 15 mai 2006, peu de progrès ayant été réalisé dans la résolution du litige au cours des 11 mois précédents.
+[3] Anthony et Kim Knittle sont mariés. Ils ont exploité plusieurs entreprises à titres d’associés, y compris l’entreprise Desert Country Music, qui se consacrait principalement à la promotion d’une seule chanteuse de musique country, soit la fille de Mme Knittle, Desiree, ou Desi Kay. Everett Cummings était l’époux de Desiree. M. et Mme Knittle ont aussi exploité une franchise de Data Secured, qui fournissait des services informatiques de sauvegarde. De plus, M. Knittle a tiré un revenu de la prestation de services de consultation dans le domaine des rénovations de cuisines commerciales. M. Knittle détenait 75 % des parts dans les sociétés de personnes et l’entreprise susmentionnées, et Mme Knittle en détenait 25 %. Seule Kim Knittle a témoigné pour le compte des appelants. Ni Anthony Knittle ni Desiree n’ont comparu comme témoins.
+[4] Le témoignage de Mme Knittle était décousu et peu clair, ce qui a forcé la Cour à tenter de se former une opinion en l’absence de détails et de documents à l’égard des dépenses déduites. Les appelants n’ont pas tenu de livres comptables, et la manière dont les relevés bancaires, les chèques payés et les factures ont été présentés auprès de la Cour a fait qu’il était difficile d’arriver à la conclusion recherchée. Apparemment, quatre comptes bancaires étaient utilisés pour les entreprises, sans qu’une distinction soit faite entre les différentes entités. Desiree et Everett Cummings avaient eux aussi un ou plusieurs comptes pour la même société de personnes, soit Desert Country Music. Ils payaient certaines factures, et les appelants en payaient d’autres. Les registres ne faisaient pas l’objet d’un classement méthodique et aucune tenue de dossiers n’était effectuée. De plus, la preuve indique que ni Anthony Knittle ni Kim Knittle n’étaient payés pour leurs services de promotion de la carrière de Desiree. Ce qu’ils faisaient ressemblait davantage à un travail désintéressé qu’à une entreprise. Quand Mme Knittle s’est fait demander, lors de l’interrogatoire, comment elle arrivait à savoir quelle était la différence entre ses dépenses d’entreprise et ses dépenses personnelles, elle a répondu : [traduction] « Je le sais, tout simplement. »
+[5] Les présents appels découlent d’une vérification effectuée par le ministre en 2002. La vérificatrice de l’Agence du revenu du Canada (l’« ARC »), Linda Browning, a témoigné pour le compte de l’intimée. Je souscris entièrement au commentaire suivant qu’elle a formulé au sujet des livres comptables des appelants :
+[traduction]
+La cliente n’a pas de récapitulation des dépenses engagées ni des revenus gagnés. Les seuls documents fournis représentent des dossiers de reçus. Les montants des reçus figurant dans ces dossiers ne sont généralement pas totalisés et les reçus ne se rapportent pas toujours aux catégories de l’État des résultats des activités de l’entreprise. Il était impossible d’effectuer un rapprochement entre les reçus et les dépenses déduites.
+Après l’établissement de son premier rapport à l’égard des appelants, Linda Browning a écrit ce qui suit à la Division des appels de l’ARC le 22 janvier 2004 :
+[traduction]
+J’ai examiné les documents qui m’ont été transmis concernant le contribuable mentionné ci‑dessus. Il était difficile de déterminer quels documents étaient nouveaux. Les dossiers et les documents à l’appui n’étaient pas ordonnés de la même manière que lors de la vérification initiale. L’examen a ainsi pris beaucoup de temps. Nombre de dépenses ont été déclarées à deux endroits : une fois au moyen des bordereaux de carte de débit ou de carte de crédit et une autre fois avec le reçu original. Elles ont également été déclarées dans les catégories suivantes : repas et frais de représentation, dépenses relatives aux véhicules à moteur, frais de voyage et autres dépenses.
+Je n’ai pas la moindre hésitation à croire ce rapport et je comprends les difficultés qu’a éprouvées la vérificatrice. Cependant, elle a examiné attentivement chacun des reçus et des relevés fournis par Kim Knittle (à la suite de demandes répétées de l’ARC à cet effet) et elle a admis la déduction des montants de la plupart des factures conservées, bien qu’elle ait refusé la déduction des montants d’un petit nombre de reçus pour des vêtements et de la moitié des reçus pour des repas et des boissons alcoolisées parce que ces sommes n’avaient pas été dépensées en vue de gagner un revenu. Il semble que le ministre ait admis environ 50 % des dépenses déduites. De plus, j’ai été informé que, en ce qui concerne l’appel d’Anthony Knittle visant l’année d’imposition 1999, le montant du revenu n’est plus en litige, et que le montant des dépenses relatives aux véhicules à moteur dont la déduction a été admise est passé à 6 428 $.
+[6] En ce qui concerne l’appel en matière de TPS interjeté par Data Secured, l’avis d’appel déposé et le témoignage de Kim Knittle ont été peu utiles. Pour pouvoir acheter la franchise en 1995 et financer le fonds de roulement, M. et Mme Knittle ont emprunté 123 000 $, qui étaient garantis par une hypothèque sur leur résidence. Ils ont déduit en tant que dépenses d’entreprise les intérêts payés sur cet emprunt jusqu’en 1998, année où ils ont fait passer le montant de l’emprunt hypothécaire à 145 000 $, très probablement pour obtenir des fonds additionnels afin de pouvoir les investir dans l’entreprise de production musicale Desert Country Music, qui, comme je l’ai dit, se consacrait uniquement à la promotion de la carrière de leur fille. Cette dette a été acquittée en août 1999, date où la résidence a été vendue pour 280 000 $ et où M. et Mme Knittle ont acheté un logement bifamilial conjointement avec leur fille et leur beau‑fils. Au moment de l’achat, ils ont contracté un nouvel emprunt hypothécaire d’un montant de 285 300 $ qui portait intérêts à un taux de 6½ %. Les pièces A‑1, A‑3, A‑4 et A‑17 contiennent des renseignements sur les emprunts hypothécaires. Les appelants demandent une déduction de leur part des intérêts payés sur le nouvel emprunt hypothécaire, qui a en réalité été transféré de leur maison située à Vancouver au logement bifamilial situé à Coquitlam. Là encore, les documents qu’ils ont déposés à l’appui de cette demande sont insuffisants.
+[7] En plus d’exploiter Data Secured et Desert Country Music, à un moment donné entre le milieu et la fin des années 90, Anthony Knittle a effectué du travail de consultation dans le domaine des rénovations de cuisines commerciales. Le ministre allègue que Data Secured n’a pas fourni de documents adéquats à l’appui de sa demande de CTI et qu’elle n’a pas déclaré un montant de TPS nette perçue de 1 926,29 $. Les seules conclusions recherchées par l’intimée dans l’appel interjeté par Data Secured sont la validation de la cotisation qu’elle a établie à l’égard de l’appelante concernant un montant de taxe nette non déclaré, plus des intérêts et des pénalités.
+[8] Encore une fois, l’appelante n’a pas déposé de livres comptables devant la Cour. Par contre, elle a produit en preuve des dossiers et des documents tels que des relevés bancaires, des chèques payés, des factures, des registres comptables écrits à la main et des états de comptes de prêts hypothécaires. Dans son témoignage, Mme Browning a dit qu’un bon nombre de déductions demandées avaient été refusées parce qu’il n’y avait pas suffisamment de documents à l’appui de celles‑ci. Je me suis sérieusement appliqué à chercher d’autres dépenses déductibles, mais en vain. La pièce A‑1 traiterait d’un emprunt hypothécaire contracté en vue de gagner un revenu, cependant, il y a des documents datés de 2004 et de 2005 qui sont entremêlés avec des documents établis au cours des années d’imposition 1999 et 2000. Les appelants n’ont pas rendu mon examen facile. En effet, il est très difficile de discerner l’objet des dépenses. Compte tenu des dossiers et des trois ou quatre documents disparates qui ont été produits, il est évident que la comptabilité effectuée n’était nullement fiable. Dans un cas, en examinant les prétendues factures, j’ai constaté que le montant déduit comme une dépense était le montant du compte, plus le dépôt qui avait été fait, et non le montant de la facture initiale. De plus, il semble que certaines dépenses aient été déduites deux fois au moyen de photocopies. Les appelants ont peut‑être dépensé plus d’argent en vue de gagner un revenu, mais ce n’est pas ce qu’indiquent leurs registres et leur preuve. Kim et Anthony Knittle se consacraient à la promotion de la carrière de leur fille, et la preuve telle qu’elle a été présentée était déroutante. En outre, il semble vraisemblable que l’époux de Desiree, Everett Cummings, ait déduit certains des mêmes montants que M. et Mme Knittle.
+[9] J’ai examiné les hypothèses que le ministre a formulées dans les réponses aux avis d’appel, et comme aucune preuve permettant de les réfuter n’a été présentée, je dois souscrire à ces hypothèses. De plus, il est malheureux que ni M. Knittle, ni Desiree, ni M. Cummings n’aient témoigné pour appuyer et corroborer le témoignage de Mme Knittle, qui était pour le moins imprécis. La vérificatrice a appliqué les méthodes comptables habituelles, et ses conclusions sont compréhensibles vu l’insuffisance de registres adéquats.
+[10] Nous ne connaîtrons jamais les montants exacts des dépenses pertinentes. Les appels qui ont été instruits sont rejetés.
+Signé à Ottawa, Canada, ce 6e jour de juillet 2006.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 12e jour de septembre 2007.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI393
+Nos DES DOSSIERS DE LA COUR : 2004‑2254(IT)I, 2004‑2255(IT)I,
+2004‑2545(IT)I, 2004‑2740(IT)I
+INTITULÉ : Anthony Knittle, Kim H. Knittle, Everett A. Cummings, Kim Knittle faisant affaire sous le nom de Data Secured et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 15 mai 2006
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 6 juillet 2006
+COMPARUTIONS :
+Représentante des appelants :
+Kim H. Knittle
+Avocate de l’intimée :
+Me Pavanjit Mahil
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

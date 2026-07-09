@@ -1,0 +1,295 @@
+Title: Park Haven Designs Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27421/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-685-27421-park-haven-designs-inc-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-12-14
+
+# Park Haven Designs Inc. v. The Queen
+
+- Citation: 2006 CCI 685
+- Decision date: 2006-12-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 243, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Park Haven Designs Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-14
+Référence neutre
+2006 CCI 685
+Numéro de dossier
+2005-869(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-869(IT)G
+ENTRE :
+SHIRLEY-ANNE JAQUES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de David Jaques (2005-870(IT)G) et Park Haven Designs Inc. (2005-871(IT)G),
+(2005-442(GST)I) à Calgary (Alberta), le 4 décembre 2006.
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me James W. Dunphy
+Avocate de l’intimée :
+Me Margaret McCabe
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation fiscale établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1998 est rejeté.
+L’appel de la nouvelle cotisation fiscale établie en vertu de la Loi pour l’année d’imposition 1999 est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que, en 1999, l’appelante a reçu un avantage, en sa qualité d’actionnaire, de 438 $ à l’égard de l’équipement audio.
+Signé à Ottawa, Canada, ce 14e jour de décembre 2006.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 17e jour de décembre 2007
+Mario Lagacé, jurilinguiste
+Dossier : 2005-870(IT)G
+ENTRE :
+DAVID JAQUES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Shirley-Anne Jaques (2005-869(IT)G), et
+Park Haven Designs Inc. (2005-871(IT)G), (2005-442(GST)I)
+à Calgary (Alberta), le 4 décembre 2006.
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelant :
+Me James W. Dunphy
+Avocate de l’intimée :
+Me Margaret McCabe
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations fiscales établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1998 et 1999 sont accueillis et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que l’appelant a reçu des avantages, en sa qualité d’actionnaire, de 25 929 $ en 1998, à l’égard de l’acquisition de la résidence Slopes, et de 438 $ en 1999 à l’égard de l’équipement audio.
+Signé à Ottawa, Canada, ce 14e jour de décembre 2006.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 17e jour de décembre 2007
+Mario Lagacé, jurilinguiste
+Dossier : 2005-871(IT)G
+ENTRE :
+PARK HAVEN DESIGNS INC ,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Shirley-Anne Jaques (2005-869(IT)G), David Jaques (2005-870(IT)G)
+et Park Haven Designs Inc. (2005-442(GST)I)
+à Calgary (Alberta), le 4 décembre 2006.
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me James W. Dunphy
+Avocate de l’intimée :
+Me Margaret McCabe
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations fiscales établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1997 et 1999 sont accueillis et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que l’appelante avait un revenu non déclaré de 16 664 $ en 1997 et qu’elle n’avait pas un revenu non déclaré en 1999; de plus, l’appelante a droit à la déduction pour amortissement demandée pour l’ameublement, sauf en ce qui concerne, dans une proportion de 50 p. 100, l’équipement audio.
+Signé à Ottawa, Canada, ce 14e jour de décembre 2006.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 17e jour de décembre 2007
+Mario Lagacé, jurilinguiste
+Dossier : 2005-442(GST)I
+ENTRE :
+PARK HAVEN DESIGNS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Shirley-Anne Jaques (2005-869(IT)G), David Jaques (2005-869(IT)G) et Park Haven Designs Inc. (2005-871(IT)G)
+à Calgary (Alberta), le 4 décembre 2006.
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me James W. Dunphy
+Avocate de l’intimée :
+Me Margaret McCabe
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 5 novembre 2004 et porte le numéro 10CT042891234467, est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que la juste valeur marchande de la résidence Slopes, au mois d’octobre 1998, était de 424 000 $ et qu’il y avait une fourniture réputée de 876 $ à l’égard de l’équipement audio en faveur de Shirley‑Anne Jacques et de David Jaques.
+Signé à Ottawa, Canada, ce 14e jour de décembre 2006.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 17e jour de décembre 2007
+Mario Lagacé, jurilinguiste
+Référence : 2006CCI685
+Date : 20061214
+Dossiers : 2005-869(IT)G, 2005-870(IT)G,
+2005-871(IT)G, 2005-442(GST)I
+ENTRE :
+SHIRLEY-ANNE JAQUES, DAVID JAQUES
+et PARK HAVEN DESIGNS INC.,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Les quatre présents appels ont été entendus sur preuve commune. Ils se rapportent à la relation existant entre une société exerçant ses activités dans l’industrie de la construction d’habitations et ses actionnaires. David et Shirley‑Anne Jaques sont propriétaires de Park Haven Designs Inc. (« Park Haven »). Park Haven gérait la construction sur demande d’habitations pour des clients. La construction d’une habitation, au 46, Patrick View, à Calgary (la « résidence Patrick ») était gérée, en 1996, par Park Haven à titre d’habitation construite sans commande. Étant donné que Park Haven n’avait pas réussi à vendre cette habitation, les Jaques, qui en avaient financé la construction par l’entremise de leur compte de prêt d’actionnaire, s’y sont installés. Une seconde habitation, au 37, chemin Slopes, à Calgary (la « résidence Slopes ») a été construite en 1998 pour les Jaques, qui l’ont habitée et qui l’ont également utilisée comme maison‑témoin. Park Haven a acquis un ameublement haut de gamme pour cette résidence, notamment un piano à queue, une table de billard, des canapés (l’« ameublement ») au coût d’environ 46 500 $. Le ministre du Revenu national (le « ministre ») a établi une cotisation à l’égard de Park Haven en vertu de la Loi sur la taxe d’accise en se fondant sur ce qui suit :
+(i) la résidence Slopes avait une valeur de 601 000 $ au mois d’octobre 1998 et, par conséquent, les Jaques n’auraient pas dû avoir droit au remboursement pour habitations neuves;
+(ii) l’ameublement était destiné à l’usage personnel des Jaques et, par conséquent, il était fourni aux Jaques par Park Haven, de sorte que Park Haven était tenue de payer la taxe sur les produits et services (la « TPS »).
+[2] Le ministre a établi une cotisation à l’égard de Park Haven en vertu de la Loi de l’impôt sur le revenu en se fondant sur ce qui suit :
+(i) en 1997, Park Haven avait un revenu de 55 356 $ tiré de la disposition de la résidence Patrick en faveur des Jaques, soit la différence entre la juste valeur marchande (la « JVM ») déterminée par l’intimée, de 298 000 $, et le coût de la résidence, de 242 644 $;
+(ii) en 1999, Park Haven avait un revenu de 210 282 $ tiré de la disposition de la résidence Slopes en faveur des Jaques, soit la différence entre la JVM déterminée par l’intimée, de 601 000 $, et le coût de la résidence, de 390 718 $;
+(iii) Park Haven n’avait pas droit à une déduction pour amortissement (la « DPA ») pour l’ameublement.
+[3] Le ministre a établi une cotisation à l’égard de M. Jaques en vertu de la Loi de l’impôt sur le revenu en se fondant sur ce qui suit :
+(i) en 1998, M. Jaques avait reçu un avantage, en sa qualité d’actionnaire, de 210 282 $ à l’égard de la résidence Slopes;
+(ii) en 1999, M. Jaques avait reçu un avantage, en sa qualité d’actionnaire, de 23 247 $ à l’égard de l’ameublement.
+[4] Le ministre a établi une cotisation à l’égard de Mme Jaques en vertu de la Loi de l’impôt sur le revenu en se fondant sur ce qui suit :
+(i) en 1999, Mme Jaques avait reçu un avantage, en sa qualité d'actionnaire, de 23 247 $ à l’égard de l’ameublement.
+[5] Le ministre a également établi une cotisation à l’égard de Park Haven en vertu de la Loi sur la taxe d’accise et à l’égard des Jaques en vertu de la Loi de l’impôt sur le revenu pour la TPS et pour des avantages relatifs à l’utilisation d’une automobile respectivement, mais les appelants n’ont pas poursuivi ces questions à l’instruction.
+Les faits
+[6] Pendant la période pertinente, David Jaques et Shirley‑Anne Jaques détenaient la société Park Haven dans une proportion de 50 p. 100 chacun. Park Haven s’occupait de la gestion, pour le compte des clients, de la construction sur demande de nouvelles habitations à Calgary. Selon le contrat de construction[1] conclu entre Park Haven et le client, le client s’engageait à verser à Park Haven 10 p. 100 des frais de construction à titre de frais de gestion. Le contrat renfermait également un échéancier selon lequel certains paiements devaient être effectués à divers stades de la construction. Le contrat stipulait en outre ce qui suit[2] :
+[traduction] Tous les montants associés aux frais de construction payés à l’entrepreneur par les propriétaires seront détenus en fiducie par l’entrepreneur au profit des propriétaires tant que l’entrepreneur ne versera pas lesdits montants aux sous‑entrepreneurs en paiement de toute obligation que les propriétaires ou l’entrepreneur auront raisonnablement contractée à l’égard de la construction de l’habitation.
+Park Haven tient un registre distinct des comptes en fiducie pour les fonds qui sont reçus des propriétaires.
+[7] Le contrat prévoit également que le bien‑fonds sur lequel l’habitation doit être construite appartient au propriétaire. Le propriétaire convient que Park Haven peut déposer une opposition à l’encontre du bien‑fonds en vue de protéger ses droits. Park Haven trouve parfois un bien‑fonds pour le client et, comme M. Jaques l’a dit, elle acquiert le bien‑fonds pour le compte du client en se servant des sommes détenues en fiducie pour celui‑ci. Le promoteur ne transfère pas le titre avant que le client prenne possession, et alors le titre est transféré directement au client. En Alberta, il existe une disposition couvrant une situation qu’on appelle un « Skip Transfer » qui permet un transfert direct du promoteur au propriétaire (sans transfert à un intermédiaire), de sorte que les coûts de tout transfert de titre à un intermédiaire sont évités. Selon la position prise par M. Jaques, Park Haven n'a jamais été propriétaire du bien‑fonds; elle agissait uniquement à titre de représentante du propriétaire en acquérant le bien et il n’y a pas eu application de la disposition visant l’absence de transfert à un intermédiaire.
+Résidence Patrick
+[8] M. Jaques a témoigné que Park Haven avait l’intention de construire sans commande la résidence Patrick. Les Jaques ont prêté des fonds à Park Haven, de façon que celle‑ci puisse construire l’habitation. Contrairement aux paiements au prorata des travaux normalement effectués dans le cadre d’un projet de construction, les Jaques ont simplement effectué deux paiements à Park Haven : un versement de 198 000 $ au mois d’août 1996 et un versement de 44 800 $ au mois d’octobre 1996.
+[9] En 1995, Park Haven a soumis une offre en vue d’acquérir le bien‑fonds pour la résidence Patrick. Le transfert du bien‑fonds par le promoteur, Patterson Hills Development Corp. a été enregistré au mois d’avril 1996; la contrepartie mentionnée s’élevait à 76 000 $. L’acte de transfert prévoyait notamment ce qui suit[3] :
+[traduction] [...] en contrepartie de la somme de 76 000 $ que Park Haven Designs Inc. lui a versée, dont le paiement est par les présentes reconnu, un transfert est consenti en faveur de David Jaques, C.P. 74067, comptoir postal Strathcona, Calgary (Alberta), T3H 3B6, à la demande de Park Haven Designs Inc.
+Le permis de construction, qui a été demandé au mois d’octobre 1995, désignait Park Haven comme propriétaire.
+[10] Park Haven a versé un montant de 166 644 $ au titre des frais de construction, le coût de l’habitation s’élevant en tout à 242 644 $. Park Haven a mis la résidence en vente au prix de 289 000 $, mais elle n’a pas réussi à la vendre. Les Jaques ont également mis en vente la résidence dans laquelle ils vivaient (la résidence Strathcona). Étant donné que cette résidence a été vendue d’abord, les Jaques ont utilisé l’argent reçu pour financer la résidence Patrick au moyen d’avances versées dans leur compte de prêt d’actionnaire. Au mois d’août 1996, les Jaques ont pris possession de la résidence Patrick à titre de résidence principale. Ils ont investi un montant additionnel de 30 000 à 40 000 $ pour achever les travaux d’aménagement paysager. La résidence était située sur un terrain très pentu, qui exigeait énormément de travaux d’aménagement paysager.
+[11] Les Jaques ont vendu la résidence Patrick au mois de septembre 1998 pour la somme de 359 000 $.
+[12] L’Agence du revenu du Canada (l’ARC) a attribué une valeur de 298 000 $ à la résidence Patrick et a conclu que Park Haven avait disposé de la résidence Patrick en faveur des Jaques pour ce montant au mois d’août 1996, de sorte qu’il y avait un revenu non déclaré de 55 356 $.
+Résidence Slopes
+[13] Le secteur Slopes était un nouveau lotissement à Calgary, à la fin des années 1990. Les Jaques voulaient construire une résidence luxueuse dans ce secteur, pour assurer la rotation des stocks comme M. Jaques l’a dit. Cette stratégie a en fin de compte porté fruit puisqu’ils ont construit sur demande 28 habitations dans le secteur. Les Jaques croyaient que Park Haven n’avait pas les moyens de construire une habitation haut de gamme sans commande, de sorte qu’ils ont décidé de faire construire l’habitation à titre de résidence principale, tout en l’utilisant comme maison‑témoin.
+[14] Au mois de juin 1998, les Jaques ont acquis le lot au prix de 140 825 $. L’argent a été versé à Park Haven selon un contrat de fiducie identique à celui que conclurait un client régulier. Park Haven a de son côté transféré les fonds au promoteur, Amden Investments Ltd. L’acte de transfert, daté du mois de juin 1998, indiquait un transfert direct d’Amden à M. Jaques. Toutefois, le permis de construction désignait Park Haven comme propriétaire.
+[15] Une fois le bien‑fonds acquis, les Jaques ont effectué des paiements au prorata des travaux, aux termes du contrat de fiducie, sept versements étant effectués entre le 30 juin 1998 et le 11 avril 2000, ce qui représentait en tout un montant de 249 893 $. Park Haven assurait la résidence pendant les travaux de construction, mais en se servant encore une fois des fonds détenus en fiducie pour les Jaques. Les Jaques se sont installés à cet endroit au mois d’octobre 1998. M. Jaques a affirmé avoir tardé à effectuer le paiement final, au mois d’avril 2000, parce que ce n’est qu’au moment où il a mis la maison en vente qu’il s’est rendu compte qu’il y avait un solde impayé. Les Jaques ont vendu la résidence Slopes au mois de février 2000 pour la somme de 680 000 $.
+[16] Le ministre a évalué la résidence Slopes, au mois d’octobre 1998, à 601 000 $, en maintenant que M. Jaques avait reçu un avantage de Park Haven et que Park Haven avait un revenu non déclaré de 601 000 $, moins le coût de 390 718 $, ce qui donnait 210 282 $. Le ministre n’a pas produit de rapport d’évaluation en preuve.
+[17] M. Jaques a donné des renseignements sur le coût de six habitations que Park Haven avait construites sur demande dans le secteur Slopes entre le mois de septembre 1998 et le mois de juin 2002, indiquant un coût de construction moyen d’environ 250 000 $ à l’exclusion du coût du bien‑fonds. Le prix des lots variait de 136 000 à 160 000 $, le prix moyen étant de 144 000 $. Les frais de gestion s’élevaient en moyenne à 30 000 $. M. Jaques n’a pas produit de renseignements au sujet des 28 autres habitations construites dans le secteur Slopes.
+Ameublement
+[18] Park Haven a acquis l’ameublement suivant :
+Équipement audio
+1 752 $
+Piano à queue Kawaii
+25 046 $
+Table de billard
+3 798 $
+Ameublement pour la salle de séjour
+7 401 $
+Accessoires
+749 $
+Aquarium et ameublement de bureau
+5 825 $
+Chaise
+330 $
+Couvre-caisses pour camions
+1 800 $
+Total
+46 701 $
+(i) Équipement audio : Cela comprenait un grand écran de télévision et des lecteurs de disques lasers. M. Jaques a témoigné que ces équipements étaient utilisés pour la promotion.
+(ii) Piano à queue : M. et Mme Jaques ont tous deux témoigné que, pour une maison haut de gamme visitée par d’éventuels acheteurs, il fallait ce genre d’ameublement afin d’attirer les clients. Park Haven a embauché un pianiste qui jouait du piano pendant les heures de visite en fin de semaine (de midi à 17 h, le samedi et le dimanche). Le piano était exposé dans plusieurs des habitations construites dans le secteur Slopes; il était mis en entrepôt lorsqu’il n’était pas utilisé. Les Jaques ont témoigné qu’ils possédaient leur propre piano, mais que leurs enfants se servaient parfois du piano à queue.
+(iii) Table de billard : La table de billard était exposée au sous‑sol des habitations construites sous la supervision de Park Haven dans le secteur Slopes. Vingt clients ont demandé des salles de billard dans leurs maisons. Park Haven a vendu la table en l’an 2000 en vendant une maison. Lorsqu’elle n’était pas exposée, la table était entreposée.
+(iv) Ameublement de salle de jour : Il s’agissait principalement de canapés pour la grande pièce. Ils ont été vendus en même temps que la maison.
+(v) Aquarium et ameublement de bureau : Les Jaques avaient fait aménager un bureau dans la résidence Slopes. Un ou deux employés y travaillaient. Selon M. Jaques, l’aquarium servait à créer de l’ambiance dans le bureau.
+(vi) Couvre-caisses pour camions : Ils étaient utilisés sur les camions que l’homme à tout faire et le superviseur de Park Haven conduisaient.
+[19] Park Haven payait une partie des frais des services d’utilité publique et d’entretien de la résidence Slopes. Elle se chargeait également de la sécurité étant donné que le contenu de la résidence coûtait cher. M. Jaques a indiqué que Park Haven ne pouvait pas s’assurer sans prendre des précautions pour la sécurité.
+Question : Quelle était la valeur de la résidence Slopes au mois d’octobre 1998?
+[20] Ni l’une ni l’autre partie n’a soumis une évaluation en vue d’aider à déterminer la JVM en 1998. Je n’ai que les faits suivants à prendre en considération :
+(i) la construction de la résidence Slopes, en 1998, y compris le bien‑fonds, mais déduction faite des frais de gestion, a coûté 391 000 $;
+(ii) en l’an 2000, le prix de vente était de 680 000 $;
+(iii) le coût de six autres habitations construites sur demande à peu près au même moment dans le secteur Slopes s’élevait en moyenne à 424 000 $ (y compris le bien‑fonds et les frais de gestion). Aucun élément de preuve n’a été soumis en vue de comparer des habitations dont le style et la dimension étaient les mêmes que la résidence Slopes, mais M. Jaques m’a donné l’impression que le secteur Slopes était exclusivement composé de maisons haut de gamme construites sur demande;
+(iv) l’ARC a fixé la valeur à 601 000 $ au mois d’octobre 1998.
+[21] Il me semble qu’il arrive souvent que les plaideurs présument que les juges ont une capacité innée d’exprimer une opinion d’expert sur toutes sortes de sujets en se fondant sur des renseignements minimes : il semble en particulier que la détermination de la JVM soit une question qui revient toujours. Je me demande simplement si les appelants ont détruit l’hypothèse du ministre, à savoir que la valeur était de 601 000 $. Je crois qu’ils ont réussi.
+[22] L’argument du ministre était essentiellement qu’une habitation qui a été vendue pour 680 000 $ à Calgary en l’an 2000 devait valoir plus de 391 000 $ en 1998. S’il n’y a rien de plus, cela n’est tout simplement pas justifié. De fait, l’intimée disposait d’une évaluation (sinon, comment aurait‑elle pu arriver au chiffre de 601 000 $ par opposition à 600 000 $?) qu’elle a décidé de ne pas produire en preuve. Je ne dispose donc d’aucun renseignement de la part de l’intimée au sujet de ventes comparables à ce moment‑là. De fait, je ne dispose de rien d’autre que du prix de vente final à l’appui de la position de la Couronne. Cela n’est tout simplement pas suffisant.
+[23] Ce que m’offrent les appelants est un peu plus utile, même s’ils n’ont pas fourni eux non plus d’évaluation. Je crois comprendre, compte tenu du témoignage de M. Jaques et en particulier de la preuve des coûts de construction de plusieurs autres habitations dans le même secteur, que la personne qui aurait voulu acheter une habitation construite sur demande dans le secteur Slopes en 1998 aurait pu en faire construire une pour environ 424 000 $. Cela ne répond pas à la question plus précise de la JVM de la résidence Slopes elle‑même (qui a été mise en vente en tant qu’habitation prête à occuper), mais c’est la meilleure preuve dont je dispose au sujet de ce qu’un acheteur sérieux aurait été prêt à payer pour acquérir une habitation construite sur demande dans le secteur Slopes à ce moment‑là. Si l’on m’avait soumis une preuve quelconque montrant que les constructeurs de telles habitations les vendaient immédiatement pour la somme de 600 000 $, mon avis aurait de toute évidence été passablement différent. Les Jaques ont habité la résidence Slopes pendant environ 16 mois. Est‑il possible qu’une habitation dont le coût de construction était en moyenne de 425 000 $ puisse valoir 680 000 $ seize mois plus tard? Aucun élément de preuve indiquant si cela était possible ne m’a été présenté au sujet du marché de l’habitation à Calgary pendant cette période.
+[24] J’ai vaguement l’impression que les Jaques auraient pu vendre la résidence Slopes en 1998 à un prix supérieur à ce qu’elle leur avait coûté, mais je ne dispose d’aucun élément de preuve indiquant quel serait ce montant. On n’a certes pas réussi à me convaincre que c’était 601 000 $. Je crois que la preuve soumise par les Jaques détruit cette hypothèse. Je me fonde donc sur ce qu’il en coûterait en moyenne à l’acheteur pour construire une nouvelle habitation dans le secteur Slopes, soit 424 000 $.
+Question : Park Haven avait‑elle un revenu non déclaré à l’égard de la résidence Slopes en 1999 et, dans l’affirmative, à quel montant ce revenu s’élevait‑il?
+[25] L’intimée se fonde sur le paragraphe 69(4) en affirmant qu’il y a eu attribution de la résidence Slopes de Park Haven à M. Jaques à la juste valeur marchande en 1998, ce qui donne un revenu égal à la juste valeur marchande, moins les coûts. Le paragraphe 69(4) de la Loi de l’impôt sur le revenu est rédigé comme suit :
+Lorsque le bien d’une société est attribué de quelque manière que ce soit à un actionnaire de la société, ou à son profit, à titre gratuit ou pour une contrepartie inférieure à sa juste valeur marchande, et que la vente du bien à sa juste valeur marchande aurait augmenté le revenu de la société, ou réduit sa perte, la société est réputée avoir disposé du bien au moment de son attribution et en avoir reçu un produit de disposition égal à sa juste valeur marchande à ce moment.
+L’intimée a adopté deux approches en invoquant le paragraphe 69(4). Premièrement, le bien de Park Haven qui a été attribué était l’habitation elle‑même; deuxièmement, le bien attribué était l’achalandage de Park Haven ou sa capacité de produire une habitation.
+[26] Quant au premier argument, il faut conclure que Park Haven était propriétaire du bien‑fonds et du bâtiment. Il ne peut y avoir aucune disposition, réputée ou autre, conformément au paragraphe 69(4) de la Loi à moins que Park Haven n’ait eu le bien pour en disposer. Contrairement à la résidence Patrick, la résidence Slopes a été construite pour les Jaques comme elle l’aurait été pour tout client de Park Haven, sauf que les frais de gestion n’étaient pas exigés des Jaques. Les Jaques effectuaient néanmoins les paiements au prorata des travaux et ces paiements étaient traités conformément au contrat de fiducie. Le titre n’a jamais été transféré du promoteur à Park Haven; il a directement été transféré à David Jaques. Il s’agit de savoir qui était propriétaire pendant que les travaux de construction étaient en cours.
+[27] M. Jaques croit certes que ce n’est pas Park Haven, mais que ce sont plutôt les propriétaires ultimes. Le contrat habituel de construction sur lequel se fonde Park Haven prévoit que ce sont les propriétaires qui possèdent le droit de propriété et non Park Haven. Je conclus que le contrat que les Jaques ont passé avec Park Haven à l’égard de la résidence Slopes était semblable au contrat habituel de construction, sauf bien sûr que les Jaques n’étaient pas tenus de payer de frais de gestion. Dans le cadre de pareils arrangements, Park Haven ne s’occupe pas de vendre des habitations, mais elle s’occupe de fournir le service qui consiste à superviser les travaux de construction d’habitations sur demande. Park Haven peut demander le permis de construction, et elle peut, comme elle l’a fait pour la résidence Slopes, accepter des « propriétaires » les fonds en fiducie en vue de payer le promoteur pour le bien‑fonds, mais cela ne veut pas nécessairement dire que Park Haven était propriétaire. Park Haven a effectivement signé l’offre d’achat au mois de juin 1998; pourtant, le transfert du bien‑fonds indique la contrepartie de 140 825 $ versée par M. Jaques, désigné comme destinataire du transfert. Ce transfert a été enregistré au mois d’octobre 1998, le titre étant transféré d’Amden à M. Jaques. Rien n’indique qu’il s’agissait d’un transfert effectué en vue d’éviter un transfert intermédiaire. Dans ces conditions, je conclus que Park Haven n’a jamais été propriétaire. Par conséquent, il ne pouvait pas y avoir, de la part de Park Haven, une disposition du bien déclenchant l’application du paragraphe 69(4) de la Loi.
+[28] Quant au second argument de la Couronne, à savoir que le bien visé par la disposition était l’achalandage de Park Haven, qui utilisait ses contacts et ses capacités pour faire construire l’habitation, je ne trouve pas cet argument convaincant. Park Haven a en fait fourni aux Jaques ce qu’elle fournissait à tous ses clients – un ensemble de services de gestion. Les services par eux-mêmes ne sont pas un bien et ils ne sont donc pas visés par le paragraphe 69(4). Je conclus que Park Haven n’avait pas de revenu non déclaré en 1999.
+Question : M. Jaques a-t-il reçu un avantage en 1999 à l’égard de la construction de la résidence Slopes? Dans l’affirmative, quelle était la valeur de l’avantage? En outre, s’agissait‑il d’un avantage conféré à un actionnaire conformément au paragraphe 15(1) de la Loi ou d’un avantage conféré à un employé conformément à l’alinéa 6(1)a) de la Loi?
+[29] Il ne m’est pas difficile de décider que M. Jaques a reçu un avantage de Park Haven. Comment pouvait‑il en être autrement? M. Jaques a reçu une habitation construite sur demande sans avoir à payer les frais de gestion de 10 p. 100 que tout autre client aurait eu à payer. L’avantage est facilement déterminé. Il s’agit des frais de gestion de 10 p. 100, représentant 10 p. 100 des frais de construction, qui s’élevaient à 259 293 $, soit un montant de 25 929 $. Cela constitue clairement un avantage qui n’est pas offert aux clients réguliers et dont seul M. Jaques peut se prévaloir en sa qualité d’actionnaire.
+[30] Me Dunphy a soutenu qu’étant donné que la possibilité d’obtenir les services de Park Haven gratuitement était offerte à tous les actionnaires, soit à M. et à Mme Jaques, cela ne constituait plus un avantage. Me Dunphy s’est fondé sur le bulletin d’interprétation 470R, qui traite de la non‑imposabilité des avantages conférés aux employés sous la forme de remises ou de commissions sur les ventes. La situation n’est pas la même. Premièrement, je conclus que l’avantage a été conféré à M. Jaques en sa qualité d’actionnaire et en tant que copropriétaire de la société. Rien ne montrait que cela avait quelque chose à voir avec sa qualité d’employé. De plus, il s’agissait d’une situation unique, s’appliquant expressément à M. Jaques. Cela n’était pas assimilable à une remise générale sur la marchandise accordée à tous les employés d’une société. M. Jaques a bénéficié de l’avantage en sa qualité de propriétaire et cet avantage est clairement identifiable et quantifiable.
+Question : Park Haven avait-elle un revenu non déclaré en 1997 à l’égard de la résidence Patrick et, dans l’affirmative, à combien ce revenu s’élevait‑il?
+[31] L’intimée a maintenu que le paragraphe 69(4) de la Loi s’applique en vue de présumer que Park Haven a disposé de la résidence Patrick en faveur des Jaques à la juste valeur marchande de 298 000 $. Les circonstances entourant la résidence Patrick sont différentes de celles qui s’appliquent à la résidence Slopes. La résidence Patrick a été construite en tant qu’habitation sans commande. Elle n’a pas été construite sur demande pour les Jaques, même s’ils l’ont en fin de compte habitée. Les Jaques n’ont pas transféré de fonds en fiducie à Park Haven au prorata des travaux pour faire construire la résidence Patrick; ils ont plutôt prêté de l’argent à deux reprises, de façon que Park Haven puisse avoir les moyens de construire cette habitation. La preuve étaye la position selon laquelle Park Haven avait l’intention de construire une habitation sans commande, qu’elle vendrait en fin de compte à un client. Le revenu de Park Haven ne devait pas être tiré de frais de gestion, mais de la disposition finale du bien. Dans ces conditions, je conclus que les sommes que Park Haven a utilisées en vue d’acheter le bien‑fonds n’étaient pas des sommes détenues en fiducie que les Jaques avaient versées – il s’agissait de sommes qui avaient été empruntées. Il était prévu que Park Haven acquerrait le bien. Contrairement au transfert du bien‑fonds de la résidence Slopes, qui indiquait qu’une contrepartie avait été reçue de M. Jaques, dans l’acte de transfert du bien‑fonds relatif à la résidence Patrick, du promoteur, Patterson Hills Development Corp. à M. Jaques, il était déclaré ce qui suit :
+[traduction] En contrepartie de la somme de 76 000 $ que Park Haven Designs lui a versée, dont le paiement est par les présentes reconnu, un transfert est consenti en faveur de David Jaques.
+Cela indique que le transfert a été effectué en tenant compte de la disposition permettant d’éviter le transfert à un intermédiaire et cela étaye la conclusion selon laquelle Park Haven avait le bien pour en disposer. Cela étant, le paragraphe 69(4) entre en ligne de compte.
+[32] Quelle est donc la valeur aux fins de la détermination du revenu que Park Haven aurait tiré de la disposition à la juste valeur marchande? L’intimée a établi la cotisation en se fondant sur une valeur de 298 000 $. Ici encore, aucune évaluation n’a été soumise à l’appui. Les faits sur lesquels l’intimée se fonde sont les suivants :
+(i) les coûts s’élevaient à 246 244 $ en 1996;
+(ii) la résidence a été mise en vente au prix de 289 900 $ en 1995 et en 1996;
+(iii) la résidence a été vendue au prix de 359 000 $ en 1998.
+[33] Les faits sur lesquels l’appelante s’est fondée à l’appui d’une valeur inférieure sont les suivants :
+(i) lors de la disposition, il fallait engager un montant additionnel de 30 000 à 40 000 $ pour les travaux d’aménagement paysager;
+(ii) en 1995 et en 1996, le bien ne s’est pas vendu au prix demandé de 289 900 $.
+[34] Je conclus que la valeur, lors de la disposition, devrait être inférieure au prix demandé de 289 900 $ que l’on n’a pas réussi à obtenir et qu’il faudrait également tenir compte du fait qu’il fallait exécuter des travaux d’aménagement paysager. Cela ramènerait la valeur à environ 259 000 $. Il est également possible d’obtenir cette valeur en ajoutant un montant représentant 10 p. 100 des frais de construction, soit un montant de 16 664 $, au coût de 242 144 $, ce qui donne un montant de 259 308 $ en tout. Les frais de gestion représentent ce qu’un tiers acheteur aurait eu à payer. Par conséquent, en me fondant sur ces deux approches différentes, j’arrive à une valeur d’environ 259 000 $. Je conclus que, par application du paragraphe 69(4), Park Haven est réputée avoir disposé de la résidence Patrick pour la somme de 259 308 $, de sorte que le revenu s’élève à 16 664 $.
+Question : Park Haven a-t-elle droit à la déduction pour amortissement à l’égard de l’ameublement? En 1999, les Jaques ont‑ils reçu des avantages à titre d’actionnaires à l’égard de l’ameublement?
+[35] Premièrement, bien que l’intimée ait plaidé, dans ses hypothèses, que l’ameublement à l’égard duquel Park Haven demandait la déduction pour amortissement comprenait les travaux de nettoyage et d’entretien de la résidence Slopes, la preuve n’étaye pas cette hypothèse. J’accepte la liste de meubles produite en preuve sous la cote A‑15 dont il est question ci‑dessus au paragraphe 18. Il est clair que cette liste ne comprend pas les travaux de nettoyage et d’entretien.
+[36] Le coût d’un piano à queue et d’une table à billard peut sembler extravagant, mais les Jaques ont réussi à me convaincre que c’est le type même de meuble haut de gamme qui facilite la vente d’habitations en tant que véritables habitations construites sur demande. Les Jaques n’avaient pas personnellement besoin d’un second piano. De plus, ils ne jouaient pas au billard. Ces articles n’étaient pas des biens personnels utilisés accessoirement dans une maison‑témoin, mais il s’agissait au contraire de biens d’entreprise qui étaient peu utilisés ou qui n’étaient pas utilisés à des fins personnelles, comme le montrent le fait que la table de billard a été vendue en même temps que l’une des habitations construites sur demande et le fait que le piano était exposé dans un certain nombre d’habitations et qu’il était mis en entrepôt lorsqu’il n’était pas ainsi exposé. De même, l’ameublement de la salle de séjour de la résidence Slopes a été vendu avec la maison. De fait, le seul article mentionné dans la pièce A‑15 à l’égard duquel je ne suis pas convaincu qu’il servait en bonne partie à des fins commerciales est l’équipement audio. Aucune explication détaillée n’a été donnée au sujet de l’utilisation de cet équipement, si ce n’est qu’il servait parfois à la promotion. J’accepte la demande que Park Haven a faite à l’égard de la déduction pour amortissement relative à l’ameublement, sauf, dans une proportion de 50 p. 100, pour l’équipement audio.
+[37] D’un autre côté, je me demande maintenant si les Jaques ont reçu un avantage du fait que l’ameublement était mis à leur disposition. Il faut d’abord décider s’il existe un avantage, avant d’aborder la question de la valeur de cet avantage. Pour répondre à la première question, je me reporte aux remarques souvent citées que le juge Cattanach a faites dans la décision M.N.R. v. Pillsbury Holdings Ltd. [4] :
+[Traduction] [...] la question de savoir si la société avait l’intention de conférer un avantage à ses actionnaires ou si elle voulait inciter ses actionnaires à faire affaire avec elle en tant que clients, est une question de fait.
+[38] Je n’hésite pas à conclure que le seul but de Park Haven, lorsqu’elle a acquis la plupart des meubles, était de meubler une maison‑témoin, de façon à faciliter la vente d’habitations construites sur demande dans le secteur, plutôt que de conférer un avantage aux actionnaires. Puisque le but n’était pas d’accorder ou de conférer un avantage, y avait‑il un avantage accessoire du simple fait que l’ameublement était mis à la disposition des Jaques pour qu’ils puissent s’en servir ou en jouir? Non, je crois que ce serait une interprétation erronée du paragraphe 15(1) de la Loi. Toutefois, si la preuve montrait clairement qu’en acquérant les biens, Park Haven avait plusieurs objectifs en vue, et notamment de conférer un avantage aux actionnaires, un avantage serait établi et la disponibilité accessoire des biens en faveur des actionnaires nous amènerait à nous demander comment évaluer cet avantage. Le seul bien qui, selon moi, a été acquis à des fins doubles était l’équipement audio. La preuve soumise par M. Jaques, à savoir que cet équipement devait servir aux fins de la promotion, ne donnait pas à entendre qu’il s’agissait d’un usage exclusif. Je conclus que la valeur de l’avantage que comporte cet équipement audio, compte tenu du fait qu’il servait également à des fins d’entreprise, correspond à 50 p. 100 de sa valeur de 1 752 $, soit 876 $, de sorte que M. et Mme Jaques ont chacun obtenu un avantage d’une valeur de 438 $.
+Conclusion
+[39] L’avocate de l’intimée a indiqué que la préoccupation manifestée par le gouvernement à l’égard de Park Haven et des Jaques découlait du fait que l’on soupçonnait qu’il y avait un arrangement continu par lequel les Jaques faisaient passer un revenu imposable de Park Haven entre leurs mains en tant que sommes reçues non imposables. L’intimée, si elle était d’avis que les Jaques effectuaient de fait le commerce d’habitations, aurait pu adopter une stratégie plus directe. Or, elle a décidé de ne pas le faire.
+[40] En résumé, j’accueille les appels et je renvoie l’affaire au ministre pour nouvel examen et nouvelle cotisation compte tenu de ce qui suit :
+(i) pour l’application de la Loi sur la taxe d’accise, la résidence Slopes avait une JVM de 424 000 $;
+(ii) pour l’application de la Loi sur la taxe d’accise, il y avait fourniture réputée de 876 $ de l’équipement audio en faveur des Jaques;
+(iii) pour l’application de la Loi de l’impôt sur le revenu, Park Haven avait un revenu non déclaré de 16 664 $ en 1997;
+(iv) pour l’application de la Loi de l’impôt sur le revenu, Park Haven n’avait pas de revenu non déclaré en 1999;
+(v) pour l’application de la Loi de l’impôt sur le revenu, Park Haven a droit à la DPA demandée à l’égard de l’ameublement, sauf, dans une proportion de 50 p. 100, pour le coût de l’équipement audio;
+(vi) pour l’application de la Loi de l’impôt sur le revenu, M. Jaques a reçu, en sa qualité d’actionnaire, un avantage de 25 929 $ en 1998 et un avantage de 438 $ en 1999 à l’égard de l’équipement audio;
+(vii) pour l’application de la Loi de l’impôt sur le revenu, Mme Jaques a reçu, en sa qualité d’actionnaire, un avantage de 438 $ en 1999 à l’égard de l’équipement audio.
+[41] Les parties ont demandé que leur soit accordée la possibilité de plaider la question des dépens. Elles soumettront des observations écrites à la Cour dans un délai d’un mois suivant la date du présent jugement. Si je ne reçois pas d’observations d’ici là, un seul mémoire de frais sera adjugé aux appelants.
+Signé à Ottawa, Canada, ce 14e jour de décembre 2006.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 17e jour de décembre 2007.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2006CCI685
+No DU DOSSIER DE LA COUR : 2005-869(IT)G
+INTITULÉ : Shirley-Anne Jaques, David Jaques,
+Park Haven Designs Inc. et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 4 décembre 2006
+MOTIFS DU JUGEMENT : L’honorable Campbell J. Miller
+DATE DU JUGEMENT : Le 14 décembre 2006
+COMPARUTIONS :
+Avocat des appelants :
+Me James W. Dunphy
+Avocate de l’intimée :
+Me Margaret McCabe
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : James W. Dunphy
+Cabinet : Warren Tettensor Amantea LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1.
+[2] Pièce A‑1, page 2, paragraphe 6.
+[3] Pièce A-2.
+[4] 64 DTC 5184, page 5187.

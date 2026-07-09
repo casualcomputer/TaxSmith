@@ -1,0 +1,167 @@
+---
+title: "4528957 Manitoba Ltd. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29308/index.do"
+last_modified: "2009-06-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 298"
+citation2: ""
+neutral_citation: "2009 CCI 298"
+decision_date: "2009-06-02"
+language: "fr"
+item_id: "29308"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7060
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:51:05.634000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c2b3753aa764a32db784225b8fbaf10180d6e076b430d817b86f2a630cbb839d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 4528957 Manitoba Ltd. c. M.R.N.
+
+- Citation: 2009 CCI 298
+- Decision date: 2009-06-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7060, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+4528957 Manitoba Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-06-02
+Référence neutre
+2009 CCI 298
+Numéro de dossier
+2006-1524(CPP)
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2006-1524(CPP)
+ENTRE :
+4528957 MANITOBA LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 21 janvier 2009, à Winnipeg (Manitoba).
+Devant : L'honorable juge C.H. McArthur
+Comparutions :
+Représentant de l'appelante :
+Carlos Guevara
+Avocat de l’intimé :
+Me Julien Bédard
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation du 11 février 2005 est accueilli, avec dépens, et la cotisation est annulée, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 2e jour de juin 2009.
+« C.H. McArthur »
+Juge McArthur
+Référence : 2009 CCI 298
+Date : 20090602
+Dossier : 2006-1524(CPP)
+ENTRE :
+4528957 MANITOBA LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Cette situation regrettable persiste depuis beaucoup trop longtemps.
+[2] Les faits suivants font partie des éléments les plus fondamentaux. Monsieur Guevara est le propriétaire et l’administrateur de la société 4528957 Manitoba Ltd. (l’appelante). Cette dernière a reçu un avis de nouvelle cotisation au montant de 6 131,72 $. Malgré plusieurs tentatives afin de savoir ce que représente cette cotisation, l’appelante ne sait toujours pas pourquoi elle a reçu ladite cotisation. Elle croit qu’il s’agit d’une question d’assurance-emploi, que le montant a déjà été payé, et que la nouvelle cotisation serait un double.
+[3] Le ministre du Revenu national (le ministre) a déposé une requête en radiation de l’appel, car l’appel est interjeté en vertu de la mauvaise procédure. La cotisation a été établie en vertu de la Loi de l’impôt sur le revenu (la Loi), alors que l’appelante présente son appel sous le Régime de pensions du Canada (le Régime).
+[4] L’ordonnance que j’ai rendue le 24 juillet 2007 rejetait cette requête. Par la suite, le ministre a répété sa position procédurale, tout en continuant à ne pas répondre aux demandes d’explication quant à ce que le montant de la cotisation représentait.
+[5] L’appelante a bien essayé de se conformer à la position du ministre et de procéder en vertu des procédures en matière d’impôt, mais ses trois tentatives furent contrecarrées par l’administration de la Cour canadienne de l’impôt
+(la Cour). À juste titre, elle est perplexe et recherche non seulement une explication, mais aussi à être entendue par un bureau de la Cour autre que celui de Winnipeg.
+[6] Les efforts de l’appelante afin de se conformer à la demande du ministre qu’elle produise son appel en vertu de la Loi au lieu du Régime ont été refusés. Il n’est pas surprenant que l’appelante soit complètement désorientée.
+[7] Je considère que l’appelante a pleinement droit à une explication qui ne semble pas venir bientôt du ministre. Les demandes pour les raisons de la cotisation et la conviction de l’appelante que le montant en question a déjà été payé démontrent une cause prima facie et renvoient le fardeau de la preuve au ministre. Le ministre n’a pas satisfait à son fardeau et n’en a même pas tenu compte. L’appel est accueilli. Des faits plus précis et les motifs du raisonnement suivent.
+Les faits
+[8] Le 11 février 2005, le ministre a mis à la poste un avis de cotisation d’impôt à payer par l’appelante en vertu du paragraphe 153(1) de la Loi pour la période d’imposition commençant le 31 décembre 2003 et se terminant le 30 septembre 2004. Le solde dû indiqué était de 6 131,72 $. La majorité de ce solde se retrouvait sous la rubrique « Total des retenues et obligation du client ».
+[9] Le 22 mars 2005, l’appelante a déposé un avis d’opposition à cette cotisation, indiquant qu’elle avait déjà effectué des paiements qui n’avaient pas été pris en compte.
+[10] Le 16 janvier 2006, le ministre a délivré un avis de ratification indiquant que l’appelante n’a pas effectué les retenues exigées par le paragraphe 153(1) de la Loi.
+[11] Le 30 avril 2006, l’appelante a déposé un avis d’appel ainsi que le droit de dépôt requis de 100 $ auprès de la Cour sous le régime de la procédure informelle. L’appelante a fait le choix « Régime de pensions du Canada » sur le formulaire d’appel électronique.
+[12] L’agent du greffe a accepté l’avis d’appel déposé le 30 avril 2006 parce qu’il a été reçu en bonne et due forme. Cependant, l’appel a été classé comme appel sous le Régime et le droit de dépôt de 100 $ de l’appelante lui a été remboursé.
+[13] Le 27 juillet 2006, l’intimé a écrit à la Cour pour lui indiquer que l’appelante avait choisi la procédure informelle pour les questions concernant le Régime, mais qu’il n’y avait pas de question en litige se rapportant à cette loi. Aucune raison ne fut fournie pour appuyer cette déclaration. De plus, l’intimé a indiqué que l’appelante n’a pas déposé son appel dans les délais prescrits et qu’elle devrait donc faire une demande de prorogation de délai afin d’assurer la conformité avec les procédures de la Cour. L’intimé a donc demandé, avec le consentement de l’appelante, une prorogation du délai pour répondre à l’avis d’appel afin de permettre à l’appelante de prendre les mesures nécessaires pour que son appel soit entendu sous le régime de la procédure appropriée, soit la procédure informelle, pour les questions d’impôt.
+[14] Le 4 août 2006, la Cour a informé l’appelante des choix disponibles pour obtenir une prorogation du délai pour déposer l’avis d’appel, puisque l’appelante a fait appel de sa cotisation plus de 90 jours après la date de la mise à la poste de l’avis de ratification. De plus, la Cour a demandé à l’appelante de lui renvoyer le droit de dépôt de 100 $ afin de permettre à l’appel de procéder.
+[15] Le 8 août 2006, l’appelante a écrit à la Cour et a indiqué qu’elle n’était pas d’accord avec l’avocat de l’intimé et que le litige portait plutôt sur une décision rendue en vertu du Régime. L’appelante a indiqué que la nature du montant visé par l’appel était inconnue et que les documents de l’Agence du revenu du Canada (l’ARC) étaient trop généraux et non détaillés pour lui permettre de déterminer sous quelle procédure particulière elle devait faire appel.
+[16] Le 9 août 2006, la Cour a indiqué aux parties qu’aucun changement ne serait apporté à l’appel de l’appelante.
+[17] Le 19 octobre 2006, l’intimé a envoyé une lettre à l’appelante répétant que l’appel déposé par l’appelante avait des lacunes qu’elle devait corriger, sans quoi l’intimé demanderait à la Cour de rejeter l’appel.
+[18] Le 27 octobre 2006, l’intimé a déposé un avis de requête en radiation de l’appel, affirmant que cette Cour n’avait pas compétence pour entendre l’appel puisque la cotisation ne portait pas sur les articles 27.1 et 27.2 du Régime et qu’aucune décision n’avait été rendue en vertu des dispositions du Régime. Selon l’intimé, la cotisation établie en 2005 portait sur le paragraphe 153(1) de la Loi seulement.
+[19] Dans une lettre reçue par le greffe de la Cour le 13 novembre 2006 faisant référence à la lettre de la Cour du 4 août 2006, l’appelante a demandé à la Cour une prorogation du délai conformément au paragraphe 18.1(1) des Règles de la Cour canadienne de l’impôt (procédure informelle) (les Règles). À sa lettre était jointe, conformément aux Règles, l’annexe 18.1. L’appelante a indiqué qu’elle avait toujours eu l’intention de porter la décision du ministre en appel. Le droit de dépôt de 100 $ fut reçu le 20 novembre 2006.
+[20] La requête fut entendue le 30 janvier 2007 et, le 24 juillet 2007, j’ai rejeté la requête et j’ai demandé la production d’une réponse à l’avis d’appel, puisque l’appelante avait satisfait aux conditions pour la prorogation du délai d’appel.
+[21] Le 21 septembre 2007, l’intimé a présenté sa réponse à l’avis d’appel.
+[22] Le 21 août 2008, la Cour a remboursé le droit de dépôt de 100 $ que l’appelante avait déposé avec sa demande de prorogation de délai, indiquant que l’appel relevait toujours du Régime.
+Analyse
+[23] Il s’agit en l’espèce de déterminer si l’appelante, qui n’est pas représentée par un avocat et qui a dû affronter une série de circonstances procédurales déplorables au cours de cette affaire, a satisfait à son devoir de réfuter, selon la prépondérance des probabilités, le fondement de la décision du ministre.
+[24] À première vue, il ne semble pas y avoir de question en litige portant sur le Régime. Cependant, dans le relevé de compte du vérificateur du 1er novembre 2004, le vérificateur indique un montant de 6 131,72 $ sous la rubrique « Total des retenues et obligation du client ». Il n’y a aucune façon de savoir à quoi se rattache ce montant.
+[25] Dans sa ratification, le ministre cite l’article 153 de la Loi pour expliquer la nature du montant et ne fournit aucun autre détail au sujet du montant de la cotisation.
+[26] L’appelante, dans sa lettre du 8 août 2006, dit elle-même que la nature du montant en question est inconnue et que les documents de l’ARC sont généraux et non détaillés.
+[27] L’intimé a tenté d’aider l’appelante à choisir une autre procédure pour l’appel, mais malgré ce geste de bonne foi, l’intimé a omis de fournir même une bribe d’information additionnelle portant sur le fond du litige. De tels renseignements auraient pu aider l’appelante à comprendre pourquoi l’intimé voulait un changement de procédure.
+[28] Aux fins de ce litige, la procédure choisie pour interjeter l’appel importe peu. Un appel peut en effet être interjeté en vertu du paragraphe 28(1) du Régime malgré le fait que le ministre n’a pas rendu de décision en vertu de l’article 27.1 du Régime.
+[29] En effet, comme le juge Bowman le dit dans l’affaire Holmes c. La Reine, [2000] 3 C.T.C. 2235, il serait déraisonnable de nier au contribuable le droit d'informer le ministre qu'il s'oppose aux cotisations et aux décisions et qu'il en appelle de la décision au moyen d'un seul avis d'opposition ou d'appel :
+6 Il n'existe aucune formule prescrite pour une demande au ministre de reconsidérer l'évaluation en vertu du paragraphe 61(2) de la Loi sur l'assurance‑chômage et je crois qu'un avis d'opposition à une cotisation, dans laquelle sont prétendument fixés les impôts établis en vertu de trois lois fédérales, suffirait à répondre aux exigences de ces trois lois, plus particulièrement lorsque l'avis d'opposition fait référence à la date et au numéro de la cotisation ou de l'évaluation, comme c'est le cas dans la présente affaire. On peut dire la même chose d'un avis d'appel à la présente cour. Je constate que le juge Joyal, dans un procès de novo d'un jugement du juge Rip, soutient qu'une feuille de papier délivrée par le ministère du Revenu national et sur laquelle figurent le titre de quatre lois ainsi qu'une somme globale constitue un avis de cotisation valide (La Reine c. Leung, [1994] 1 C.F. 482 (93 D.T.C. 5467)).
+7 Si le ministre peut s'acquitter de ses obligations légales en vertu de quatre lois en avisant un contribuable de ses cotisations et évaluations au moyen d'un seul document, il serait déraisonnable de nier au contribuable le droit d'aviser le ministre qu'il s'oppose aux cotisations et évaluations et qu'il en appelle de la décision au moyen d'un seul avis d'opposition ou d'appel. Même s'il existe des formules prescrites pour en appeler d'une évaluation à l'assurance-emploi ou d'une évaluation au Régime de pensions du Canada en vertu des règles de la présente cour, il suffit de les respecter quant au fond selon l'article 32 de la Loi d'interprétation. Sinon, les processus d'opposition et d'appel associés à ces cotisations générales pourraient s'avérer problématiques si on n'y porte pas une attention particulière.
+[30] Même si les Règles prescrivent une formule pour en appeler d'une décision en vertu du Régime, il suffit de la respecter quant au fond selon l'article 32 de la Loi d'interprétation. En d’autres mots, l’appelante a le droit d’interjeter appel de la décision du ministre en vertu de la procédure qu’elle a choisie.
+[31] En l’espèce, il s’agit d’une appelante qui agit pour son propre compte et qui, depuis plus de trois ans, a dû répondre à des questions de procédure de cette Cour sans toutefois avoir la chance d’examiner le fond de la décision du ministre.
+[32] Nonobstant les questions procédurales qui ne cessent d’être soulevées par l’intimé, j’ai déjà conclu que l’appelante a satisfait aux exigences des Règles pour déposer son avis d’appel lors de la requête antérieurement présentée. À toutes fins utiles, les délais ont été respectés et le fond de l’appel doit être apprécié.
+[33] Malheureusement, il est difficile d’apprécier le fond de l’appel quand l’intimé ne présente aucune hypothèse de fait sur laquelle le ministre se fonde pour établir la cotisation de l’appelante. La réponse à l’avis d’appel de l’intimé ne clarifie aucunement la nature du montant total indiqué dans la cotisation.
+[34] L’intimé n’a pas présenté de conclusions ou d’hypothèses de fait sur lesquelles le ministre s’est fondé pour établir la cotisation telle que l’exige l’alinéa 6(1)d) des Règles.
+[35] Subsidiairement, l’intimé n’a pas exposé de faits allégués sur lesquels le ministre avait l’intention de s’appuyer tel que l’exige l’alinéa 12(3)b) des Règles de procédure de la Cour canadienne de l’impôt à l’égard du Régime de pensions du Canada.
+[36] Pourtant, l’intimé était au courant que le fond de ce litige devait être examiné. Il me semble que l’intimé aurait pu dresser la liste des faits sur lesquels le ministre s’est fondé pour établir la cotisation, peu importe la procédure choisie, à l’appui de son hypothèse que l’appelante était tenue de payer la somme de 6 131,72 $ selon le paragraphe 153(1) de la Loi.
+[37] Le juge Bowman dans l’affaire Spensieri c. La Reine, 2001 D.T.C. 787, indique que les Règles ne doivent pas servir de piège pour empêcher l’appelante de se faire entendre :
+10 Je ne veux pas faire preuve de mépris ou d'irrespect à l'égard de l'argumentation de la Couronne, mais je ne peux m'empêcher de penser que l'intimée est plutôt formaliste dans sa vaste campagne visant à empêcher l'appelante de faire entendre son appel devant la Cour par suite d'une bévue plutôt mineure. Si une personne doit composer avec deux lois (la Loi de l'impôt sur le revenu et la Loi sur la Cour canadienne de l'impôt) et avec deux séries de règles, soit les règles relatives à la procédure informelle et celles relatives à la procédure générale, il n'est pas étonnant qu'elle puisse commettre une erreur. Les règles ne sont pas destinées à tendre un piège aux personnes imprudentes ou à créer des obstacles pour les parties à un litige. Elles sont plutôt censées faciliter le règlement de différends sur des questions de fond.
+[38] Dans l’arrêt La Reine c. Anchor Pointe Energy Ltd., 2007 CAF 188, le juge Létourneau a dit ce qui suit :
+27 Dans notre système fiscal fondé sur l’autodéclaration, le ministre émet des hypothèses de fait pour déterminer l’obligation fiscale du contribuable. Comme l’a dit le juge Rothstein, alors juge à la Cour d’appel fédérale, dans l’arrêt Canada c. Anchor Pointe Energy Ltd., précité, « [l]a Couronne a pour pratique de divulguer dans ses actes de procédure les hypothèses de fait sur lesquelles le ministre s’est fondé pour établir le montant de la dette fiscale »; voir le paragraphe 2. Pour reprendre les termes du juge en chef adjoint Bowman, maintenant juge en chef de la Cour canadienne de l’impôt, « ces hypothèses sont censées représenter une communication complète et honnête des faits sur lesquels le ministre du Revenu national s’est fondé en établissant la cotisation » : Holm et al. c. La Reine, 2003 DTC 755, paragraphe 9.
+28 Lorsque les hypothèses sont plaidées, les contribuables ont le fardeau initial de réfuter, selon la prépondérance des probabilités, les hypothèses de fait du ministre : voir Canada c. Anchor Pointe Energy Ltd., précité, paragraphe 2, Hickman Motors Ltd c. Canada [1997] 2 R.C.S. 336, paragraphe 92. Les hypothèses non plaidées n’ont pas d’effet sur le fardeau de la preuve, ni dans un sens, ni dans l’autre : voir La Reine c. Bowens, 96 DTC 6128, page 6129, Pollock c. La Reine, 94 DTC 6050, page 6053.
+29 L’équité exige que les faits allégués comme hypothèses soient complets, précis, exacts et énoncés de façon honnête et franche afin que le contribuable sache bien clairement ce qu’il devra prouver : Canada c. Anchor Pointe Energy Ltd., précité, paragraphe 23, Holm et al. c. La Reine, précité, Canada c. Loewen, [2004] 4 R.C.F. 3, paragraphe 9. (C.A.F.), Grant c. La Reine et al., 2003 DTC 5160, page 5163, First Fund Genesis Corporation c. Sa Majesté la Reine, 90 DTC 6337, page 6340, Shaughnessy c. Sa Majesté la Reine, 2002 DTC 1272, paragraphe 13, Stephen c. Canada, [2001] A.C.I. no250, paragraphe 6.
+[39] En l’espèce, l’hypothèse plaidée est simplement que l’appelante a un montant à payer en vertu du paragraphe 153(1) de la Loi. Aucune explication n’a été fournie au sujet des faits sur lesquels s’est fondé le ministre afin d’arriver à la cotisation de l’appelante, ni dans la réponse, ni lors de l’audience.
+[40] Les contribuables qui comparaissent en personne jouent un rôle important à la Cour. Monsieur Guevara a le droit de comparaître en personne ou de représenter une société, comme c’est le cas en l’espèce, devant la Cour sous le régime de la procédure informelle. L’appelante doit être traitée avec courtoisie et respect, et les questions doivent lui être présentées de façon claire et avec suffisamment de détails pour qu’elle puisse les comprendre.
+[41] Dans notre cas, l’appelante a été traitée de façon insolente et irrespectueuse. Pendant plus de trois ans, l’appelante a patiemment satisfait à toutes les exigences de cette Cour. Elle a payé le droit de dépôt de 100 $ lorsqu’elle a déposé son avis d’appel en avril 2006, s’est fait rembourser les 100 $ avec la confirmation que la procédure qu’elle avait choisie ne requérait pas de droit de dépôt, s’est fait redemander le droit de dépôt en août 2006 et ce droit lui fut encore remboursé en août 2008 pour la même raison. À plusieurs reprises, l’appelante a dû expliquer que les documents du ministre étaient trop vagues pour qu’elle puisse choisir une procédure autre que celle qu’elle avait déjà choisie. La réponse de l’intimé n’a pas servi à clarifier les raisons pour lesquelles l’appelante faisait l’objet d’une cotisation. Bref, même à ce jour, ni l’appelante ni cette Cour ne peuvent réussir à percevoir les hypothèses de fait sur lesquelles le ministre s’est fondé dans cette affaire. Les raisons appuyant la cotisation demeurent à ce jour un secret gardé de l’appelante et de cette Cour.
+[42] Tel qu’il est indiqué ci-dessus, la Couronne a un devoir de divulguer dans ses actes de procédure les hypothèses de fait sur lesquelles le ministre s'est fondé pour établir le montant de la dette fiscale. Lorsque les hypothèses sont plaidées, le fardeau de la preuve est inversé et il incombe alors au contribuable de réfuter les hypothèses. Étant donné que l’intimé n’a pas plaidé d’autres hypothèses de fait, elle n’a pas réussi à inverser le fardeau de la preuve. L’appelante n’avait aucun renseignement lui expliquant sur quelle base elle a fait l’objet d’une cotisation et par conséquent n’avait rien à réfuter.
+[43] L’appel de la cotisation du 11 février 2005 est accueilli, avec dépens, et la cotisation est annulée.
+Signé à Ottawa, Canada, ce 2e jour de juin 2009.
+« C.H. McArthur »
+Juge McArthur
+RÉFÉRENCE : 2009 CCI 298
+Nº DU DOSSIER DE LA COUR : 2006-1524(CPP)
+INTITULÉ DE LA CAUSE : 4528957 MANITOBA LTD. ET LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : le 21 janvier 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge C.H. McArthur
+DATE DU JUGEMENT : le 2 juin 2009
+COMPARUTIONS :
+Représentant de l'appelante :
+Carlos Guevara
+Avocat de l’intimé :
+Me Julien Bédard
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

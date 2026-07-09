@@ -1,0 +1,259 @@
+---
+title: "Ruff v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30766/index.do"
+last_modified: "2012-04-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 105"
+citation2: ""
+neutral_citation: "2012 TCC 105"
+decision_date: "2012-04-03"
+language: "en"
+item_id: "30766"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7593
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:29:57.245000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0c55c873fcfdb26eeeb736edc6eb34c258bc0f91656e58c06ebefd8ef2b3314f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ruff v. The Queen
+
+- Citation: 2012 TCC 105
+- Decision date: 2012-04-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7593, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ruff v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-04-03
+Neutral citation
+2012 TCC 105
+File numbers
+2009-3176(IT)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3176(IT)G
+BETWEEN:
+CHARLES RUFF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 27, 28 and 29, 2012,
+at Calgary, Alberta
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Donna Tomljanovic
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 3rd day of April 2012.
+“Wyman W. Webb”
+Webb J.
+Citation: 2012TCC105
+Date: 20120403
+Docket: 2009-3176(IT)G
+BETWEEN:
+CHARLES RUFF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The Appellant was the victim of fraud. The issue in this appeal is whether the Appellant should be entitled to deduct, in computing his income from his law practice, the amounts that he is out of pocket as a result of this fraud.
+[2] The fictitious story that was portrayed to the Appellant was essentially that the remaining members of the Adams family needed the financial assistance of the Appellant to obtain the release of a container[1] in which there was $8.5 million U.S. This container was being held by a security company in Abidjan, Côte d'Ivoire.
+[3] There were a number of individuals involved in this fraud. Since the only contact with some of the individuals was by e-mail, it is not clear whether one person may have been playing different roles. The members of the cast, in the order of appearance, in this story were as follows:
+Purity Adams - age 23. She was the daughter of Christopher Adams who was a wealthy cocoa and gold merchant in South Africa. Christopher Adams was assassinated in South Africa after a business trip to Abidjan, Côte d'Ivoire. During this business trip he left $8.5 million U.S. in a container with a security company in Abidjan, Côte d'Ivoire.
+David Adams - age 20. Brother of Purity Adams.
+Koffi Raymond - contact person at Optimum Security Service which was the company that was holding the container with $8.5 million U.S. in it.
+David Bell - the “diplomat” with Optimum Security Service who was to accompany the container from Abidjan, Côte d'Ivoire to Canada.
+Lt. Gen. Dan Musa - one of the security officials at the airport in Abidjan, Cote d’Ivoire who, for a certain payment, would be able to obtain the release of the container so that it could be sent to Canada.
+Lt. Gen. Arnaud Kuame - a second official who also required payment in order to obtain the release of the container.
+Dave - an individual with Aeroground Diplomatic Courier Services in London, England who confirmed that the container had arrived in London.
+Dr. James Jones - the person in charge at Aeroground Diplomatic Courier Services who would be handling the matter.
+Dr. Christopher Martin - the person with Aeroground Diplomatic Courier Services who replaced Dr. James Jones.
+Unnamed individuals who met the Appellant at the airport or at his hotel in London.
+[4] The story begins with an e-mail that the Appellant received on Saturday, April 16, 2005. The e-mail was from Purity Adams and this e-mail, as written[2], stated as follows:
+Dear Charles Ruff,
+After much consideration and prayer i have decided to tell you all about myself because i believe you can be of assistance to me and my faith and belive in God led me to you i am the only daughter of my father, late MR CHRISTOPHER ADAMS from ZULU,IN Republic of South Africa (SA) I am 23 years of age.
+To tell you more about myself,My father was a wealthy Cocoa and Goldmerchant in South Africa before his untimely death. After his business trip to Abidjan Côte d'Ivoire, to negotiate on a Cocoa business. A week after he came back from Abidjan, he was assassinated with my mother by unknown assassins. Wich my mother died, instantly but my father died after five days in the hospitals, on that faithful afternoon.
+I didn't know that my father was going to leave me after I had lost my mother. But before he gave up the ghost, it was as if he knew he was going to die. He my father, (MAY HIS SOUL REST IN PERFECT PEACE) he disclosed to me that he deposited the sum of $8,500,000 US Dollars (eigth million five hundred thousand Dollars) in a security company in Abidjan,Côte d'Ivoire. That the money was meant for his cocoa business he wanted to invest in Abidjan, Côte d'Ivoire through, according to my late father he deposited the money in a trunk box but declared it as Ivory, and family belongings. He simple handed me the key of the consignment box and the document covering it which is the certificate of deposit and the agreement bond made with the security company, and instructed me to seek for a life time investment abroad.
+Right now I am in Abidjan COTE D'IVOIRE to locate where the security company is and I have succeded in locating the security company here in Abidjan, Côte d'Ivoire and also confirmed the consignment box with most honest and confidential. I want you to assist me in clearing this fund and transfer it to your country as a beneficiary of the fund, and also use it for an investment purpose. I am honourably seeking for your assistance in the following ways.
+(1) To assist me to clear this fund from the security company and transfer it to your country.
+(2) To serve as the guardian of this fund since I am a young girl of (23)yrs. Now I am siliciting for your assistance to help in lifting this money in your country because this is my only hope in life.
+Now permit me to ask these few questions:-
+1. Can you honestly help me as your best Friend?
+2. Can I completely trust you?
+Awaiting anxiously to hear from you so that we can discuss the modalities of this transaction.
+Miss Purity Adams.
+[5] The Appellant responded to the e-mail, although a copy of the response sent by the Appellant was not introduced at the hearing. The first e-mail was received at 9:03 a.m. on Saturday, April 16, 2005. The Appellant must have responded very shortly thereafter as there is another e-mail from Purity Adams at 10:27 a.m. on the same day referring to the Appellant’s response. In the first e-mail Purity Adams indicates that the contents of the container were declared to be ivory and family belongings. In the second e-mail which was sent less than ninety minutes later Purity Adams stated that:
+And bear in mind that this transaction is 100% risk free as you can see to it. And the most important thing is that the security company here in Abidjan does not even know the real content of the (BOX AS MONEY). It was deposited by my late father as artcraft or family treasures such as gold and some others estate documents of my late father…
+[6] There was no indication that the Appellant had noticed this discrepancy in the description of the contents of the container that had been provided to the security company. In the second e-mail, the compensation arrangement was also discussed:
+Also after this fund has entered into your care I and my younger brother has mapped out 5% for any expenses made during the time of transaction and 10% is for you and your willingness of the transaction also we have decided to leave you with the whole money after the transaction successful to your care. I will want you to assure me that you will help and invest this fund wisely and you will also be share holder in company for 10years if there will be any change as I am 23years of age.
+[7] As a result of further exchanges of e-mails and telephone conferences between the Appellant and the members of the Adams family, David and Purity Adams were able to convince the Appellant that there was $8.5 million U.S. in a container with a security company in Abidjan, Côte d'Ivoire. The Appellant indicated that he also completed searches on the Internet to confirm that there was an ongoing conflict in Côte d'Ivoire.
+[8] The Appellant also located the homepage for the security company (Optimum Security Service). In the joint book of documents there is a photocopy (in black and white) of the Internet homepage for Optimum Security Service. During the hearing the Appellant also introduced a copy of this page that was printed in colour. One obvious observation in looking at the page in colour is that of the five pictures at the top of the page, two of the pictures are clearly taken in an area where there is snow. One picture is of a house with snow in the driveway and snow on the roof and another is of a dog standing on a roadway which is snow covered. The security company was supposedly located in Abidjan, Côte d'Ivoire which is very close to the equator. Given the proximity of Abidjan, Côte d'Ivoire to the equator one would have expected that the climate would be a tropical climate and not one where one would find snow covered houses or roads. The Appellant stated that he had not noticed this until it was brought to his attention during argument following the hearing.
+[9] The first request for money came in shortly after the initial contact had been made. After the Appellant had made contact with Koffi Raymond at Optimum Security Service he arranged to send funds to him for the release of the container. The initial amount requested was $6,000 U.S. and the Appellant sent $7,000 U.S. to ensure that there would be sufficient funds for Optimum Security Service. Around the same time the members of the Adams family were also requesting funds from the Appellant and he was also arranging to send funds to them.
+[10] Koffi Raymond indicated to the Appellant that the shipment would be leaving Abidjan, Côte d'Ivoire but that since a person would be travelling with the container additional funds would be required to pay for that person's airline ticket. This required a further $6,309 U.S. ($8,050 Canadian). Although the shipment was to be delivered to the Appellant in Calgary, the itinerary that was sent to the Appellant only showed travel to Montréal. According to the itinerary the flight from Paris, France to Montréal was only two and a half hours. There also was no indication of how the shipment was going to be transported from Montréal to Calgary or even if the other individuals had any idea of the distance between Montréal and Calgary.
+[11] After the date that the shipment was supposed to be sent the Appellant received notification that the container had not left Abidjan, Côte d'Ivoire. The container had been seized at the airport and the officials at the airport were demanding that the container be opened. David and Purity Adams were adamant that the container must not be opened. The Appellant contacted Koffi Raymond to see what could be arranged and he was told that a significant amount would have to be paid to obtain the release of the container without it being opened. The Appellant sent $200,000 Canadian to Koffi Raymond to obtain the release of the container.
+[12] After these funds were sent the Appellant was notified that the funds were not sufficient as other officers were now involved and therefore an additional $100,000 U.S. would be required. The Appellant prepared an agreement among Koffi Raymond, Lt. Gen. Dan Musa and Lt. Gen. Arnaud Kuame in relation to the additional payment. He received a copy of the signed agreement and then released the additional funds.
+[13] The Appellant was then notified by Dr. James Jones of Aeroground Diplomatic Courier Services that the container had arrived in London but that additional funds were now required because the freight had not been paid to have the container shipped from Abidjan, Côte d'Ivoire to London. Apparently in his haste to have the container leave Abidjan, Côte d'Ivoire, Koffi Raymond had arranged for transport without paying in advance. Dr. James Jones, in his e-mail, as written, stated that:
+During the random checks, we discovered the delivery charge has not been paid from the origin (Cote D 'voire). Please see the reverse side of your Airwaybill shipment document. It was stated that on no account we should not deliver any diplomatic consignment to any customer on credit. This is part of our company policy.
+[emphasis added by using italics]
+[14] Notwithstanding the double negative, Aeroground Diplomatic Courier Services were indicating that they would not deliver the shipment without further payment. The Appellant was informed that an additional sum of $132,825 U.S. would have to be paid for this freight charge. At this point the Appellant was very concerned that something was wrong. He then contacted the RCMP. He also made arrangements to travel to London to view the container. When he arrived in London he was met by police officers of New Scotland Yard as soon as he deplaned. They advised him not to meet with the individuals as they were concerned for his safety. They were concerned that he might be kidnapped and taken to Côte d'Ivoire to be held for ransom.
+[15] After meeting with the police officers from New Scotland Yard the Appellant proceeded through the airport and was met by two individuals who were there on behalf of Aeroground Courier Services, the company that now apparently held the container. They took him to his hotel. Later Dr. Christopher Martin and another individual arrived to meet with the Appellant. When the Appellant was walking through the lobby with Dr. Christopher Martin and the other individual he called for the police to have them arrested. The other individual disappeared but Dr. Christopher Martin was arrested. The Appellant later found out that Dr. Christopher Martin was not the correct name for this individual. It appears that this individual was later released without a hearing.
+[16] The Appellant prepared a schedule outlining the amounts that he was out of pocket[3]. The following is a summary of the amounts as stated in the Appellant’s schedule that the Appellant either advanced to David and/or Purity Adams or forwarded to the security company to obtain the release of the container:
+Date
+Amounts Advanced to David and / or Purity Adams
+Amounts for the Release / Shipment of the Container
+April 19
+$500
+April 20
+$9,150
+April 21
+$4,250
+April 25
+$7,286
+April 25
+$8,390
+May 6
+$3,125
+May 17
+$200,000
+May 18
+$3,100
+May 24
+$8,500
+June 3
+$5,195
+June 6
+$125,180
+June 6
+$6,291
+June 11
+$9,360
+June 15
+$3,930
+June 28
+$520
+June
+$1,654
+July 10
+$1,648
+Total:
+$28,960
+$369,119
+[17] The total amount that the Appellant is out of pocket, based on these amounts, is $398,079. The Appellant indicated in his schedule that the total of these amounts was $398,734 and at the beginning of the hearing the parties stated that they agreed that the amount that the Appellant was out of pocket was $398,995. Since the parties have agreed that the actual amount that the Appellant was out of pocket was $398,995, I will accept that this amount ($398,995) is the correct amount.
+[18] The first contact with the Appellant was by the e-mail dated April 16. The first advance or payment of funds to the Adams family or the security company was four days later on April 20. The payment of $500 on April 19 was made by the Appellant to a business located in his building to allow him to use their facilities to wire money. Within three months following the initial contact by Purity Adams the cast had convinced the Appellant to either advance or pay almost $400,000. The Appellant claimed a deduction for these amounts in determining his income from his law practice. The Respondent has denied this deduction.
+[19] The first issue is whether the Appellant had a source of business or property income. In Stewart v. The Queen, 2002 SCC 46, Justice Iacobucci and Justice Bastarache, writing on behalf of the Supreme Court of Canada, stated that:
+50 It is clear that in order to apply s. 9, the taxpayer must first determine whether he or she has a source of either business or property income. As has been pointed out, a commercial activity which falls short of being a business, may nevertheless be a source of property income. As well, it is clear that some taxpayer endeavours are neither businesses, nor sources of property income, but are mere personal activities. As such, the following two-stage approach with respect to the source question can be employed:
+(i) Is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour?
+(ii) If it is not a personal endeavour, is the source of the income a business or property?
+The first stage of the test assesses the general question of whether or not a source of income exists; the second stage categorizes the source as either business or property.
+…
+52 The purpose of this first stage of the test is simply to distinguish between commercial and personal activities, …
+…
+53 We emphasize that this "pursuit of profit" source test will only require analysis in situations where there is some personal or hobby element to the activity in question. With respect, in our view, courts have erred in the past in applying the REOP test to activities such as law practices and restaurants where there exists no such personal element: see, for example, Landry, supra; Sirois, supra; Engler v. The Queen, 94 D.T.C. 6280 (F.C.T.D.). Where the nature of an activity is clearly commercial, there is no need to analyze the taxpayer's business decisions. Such endeavours necessarily involve the pursuit of profit. As such, a source of income by definition exists, and there is no need to take the inquiry any further.
+…
+57 It is clear from these provisions that the deductibility of expenses presupposes the existence of a source of income, and thus should not be confused with the preliminary source inquiry. If the deductibility of a particular expense is in question, then it is not the existence of a source of income which ought to be questioned, but the relationship between that expense and the source to which it is purported to relate. The fact that an expense is found to be a personal or living expense does not affect the characterization of the source of income to which the taxpayer attempts to allocate the expense, it simply means that the expense cannot be attributed to the source of income in question. As well, if, in the circumstances, the expense is unreasonable in relation to the source of income, then s. 67 of the Act provides a mechanism to reduce or eliminate the amount of the expense. Again, however, excessive or unreasonable expenses have no bearing on the characterization of a particular activity as a source of income.
+[20] The Respondent argued that since this was a fraud, there was no source of income against which these amounts could be deducted. The Respondent referred to the decision of the Federal Court of Appeal in Hammill v. The Queen, 2005 FCA 252, in which Justice Noël, writing on behalf of the Federal Court of Appeal, stated that:
+27 This finding by the Tax Court Judge that the appellant was the victim of a fraud from beginning to end, if supported by the evidence, is incompatible with the existence of a business under the Act. This is not a case where the Court must have regard to the taxpayer's state of mind, or the extent of a personal element in order to determine whether a certain activity gives rise to a source of income under the Act (Stewart, supra, Tonn v. R. (1995), 96 D.T.C. 6001 (Fed. C.A.) etc.). Nor is this a defalcation case of the type described in Parkland Operations, supra; Cassidy's Limited, supra; Agnew, supra; and IT-185R, where a business is defrauded by an employee or a third party, and the issue becomes whether the resulting loss is reasonably incidental to the income-earning activities.
+28 A fraudulent scheme from beginning to end or a sting operation, if that be the case, cannot give rise to a source of income from the victim's point of view and hence cannot be considered as a business under any definition. …
+32 In this case, the relevant evidence was tendered by the appellant himself, and the Tax Court Judge concluded from this evidence that he had been the subject of a fraud from beginning to end, a conclusion which precludes the existence of a business. …
+[21] It seems to me that as a result of the decision of the Federal Court of Appeal in Hammill, an activity that is a fraud cannot, in and of itself, constitute a source of income for the purposes of the Income Tax Act (the “Act”). In Hammill, the only activity that the Appellant was personally carrying on was the activity related to the gems, which was a fraud. However, in this case, the business that the Appellant was carrying on (and in determining the income from which the Appellant was deducting these amounts) was his law practice business. The Appellant therefore had a source of income and did not need this activity related to the Adams family to constitute a source of income.
+[22] It seems clear that the Appellant was undertaking this activity as part of his law business. In the e-mail that the Appellant sent to Purity Adams on April 20, 2005 (which was only four days after the first e-mail was received from Purity Adams and the day on which the first payment was made to the security company), the Appellant stated at the end of his e-mail:
+Best wishes, and respectfully,
+A. Charles Ruff, your Barrister and Solicitor and trustee, and trusted friend.
+[23] In an e-mail sent by the Appellant on June 21 (at which time the container was supposedly in London and a further payment was required), the Appellant stated:
+… I have a solicitor’s lien against this consignment to the extent of the monies I have invested in this matter which is about $400,000 canadian dollars, perhaps more based on an accounting that I will do. I require that you hold onto this consignment at this point, subject to my lien. …
+[24] The Appellant also testified that his law practice included acting as a trustee for estates[4]. He also indicated that he told David Adams that he was a lawyer and that he did “trustee type work”. As part of the story he was to act as a trustee for Purity Adams and possibly David Adams.
+[25] Therefore, it seems to me that the Appellant did have a source of income – his law practice business - and that he undertook this activity as part of his law practice business. However, having a source of income does not necessarily mean that the amounts claimed are deductible. If the amounts claimed are unreasonable, then the amounts claimed could be reduced or denied in their entirety. As noted by the Supreme Court of Canada in Stewart, supra:
+… As well, if, in the circumstances, the expense is unreasonable in relation to the source of income, then s. 67 of the Act provides a mechanism to reduce or eliminate the amount of the expense.
+[26] In Hammill, the Federal Court of Appeal made the following comments on section 67 of the Act:
+48 Although it is not necessary to deal with the alternative ground on which the Tax Court Judge rejected the appeal, I believe it useful to say a few words about the scope of section 67 and its application in this case.
+49 The appellant points out that this provision contemplates an outlay or expense that has been incurred for the purpose of earning income within the meaning of paragraph 18(1)(a), and allows the Minister to disallow that part of the expenditure which can be shown to be unreasonable. In other words, the provision does not allow for a qualitative review of the expenditure since the expenditure must have been made to earn income to begin with. What is contemplated is a quantitative review of the expenditure.
+50 Indeed, the judicial pronouncements on section 67 to date have treated the issue arising under that provision as one of magnitude or quantum (see Mohamad, supra; Gabco Ltd. v. Minister of National Revenue (1968), 68 D.T.C. 5210 (Can. Ex. Ct.)). The appellant submits that the following passage from Vern Krishna, The Fundamentals of Canadian Income Tax, 3[rd] edition, properly illustrates the scope and purpose of section 67 (page 312):
+The word “reasonable” [in section 67] would appear to relate primarily to the size or the amount of the deductions claimed or quantified and not to the type of the expense. “The purpose of the rule is to prevent taxpayers from artificially reducing income by deducting inordinately high expenses”,...
+51 I agree that this statement accurately reflects how section 67 has been applied by the courts to date. However, the Supreme Court in Stewart, supra, commented on the application of section 67 and signalled that it could have a broader application. It will be recalled that in Stewart, the Supreme Court dealt away with the “reasonable expectation of profit” test as a means of ascertaining the existence of a source of income. The Court recognized that this test had been devised to counter abuses, but held that it had no statutory foundation and created more problems than it resolved.
+52 In devising the “recommended approach”, the Supreme Court identified section 67 as the statutory means of controlling excessive or unwarranted expenditures once a source of income is found to exist. It said at paragraph 57:
+... If the deductibility of a particular expense is in question, then it is not the existence of a source of income which ought to be questioned, but the relationship between that expense and the source to which it is purported to relate. The fact that an expense is found to be a personal or living expense does not affect the characterization of the source of income to which the taxpayer attempts to allocate the expense, it simply means that the expense cannot be attributed to the source of income in question. As well, if, in the circumstances, the expense is unreasonable in relation to the source of income, then s.67 of the Act provides a mechanism to reduce or eliminate the amount of the expense. Again, however, excessive or unreasonable expenses have no bearing on the characterization of a particular activity as a source of income. [emphasis added]
+53 The choice of words (reduce or eliminate) is not accidental. The Supreme Court was setting-up section 67 as the proper means of testing the reasonableness of an expense once a business has been found to exist. It was doing so after having explained that at the first level of inquiry (i.e. the existence of a source of income and the relationship between an expense and that source) courts ought not to second guess the business judgment of the taxpayer (Stewart, supra, paragraphs 55, 56 and 57). Section 67 was identified as the statutory authority pursuant to which an inquiry could be made as to the reasonableness of an expense. In my view, the Supreme Court in Stewart acknowledged that there is no inherent limit to the application of section 67, and that in the appropriate circumstances, it can be used to deny the whole of an expense, if it is shown to be unreasonable.
+[27] Therefore the entire amount claimed as an expense can be denied as a deduction if it is unreasonable. In this case it is clear that the Appellant was convinced that there was a container with $8.5 million U.S. in it with the security company in Abidjan, Côte d'Ivoire. However, since there was no such container and the entire story was fiction, it does not seem to me that the analysis of whether the amounts incurred were reasonable should be done on the basis that the container did exist. It also seems to me that the analysis should not be done solely on the basis that the container did not exist. If the Appellant would have known that there was no such container and that the story was a fraud, he would not have incurred the expenditures. It seems to me that the approach that should be taken is to first determine whether it was reasonable for the Appellant to have believed that there was a container with $8.5 million U.S. in it in Abidjan, Côte d'Ivoire. If it was reasonable for the Appellant to have this belief, the next question will be whether the amounts incurred were reasonable. If it was not reasonable for the Appellant to have believed that there was a container with $8.5 million U.S. in it, then it seems to me that no amount expended by the Appellant in relation to this matter would be reasonable.
+[28] It seems to me that there are simply too many inconsistencies and too many questions about the story for the Appellant to have a reasonable belief that the container existed.
+• In the first two e-mails (which were sent within 90 minutes of each other), Purity Adams first stated that her father had told the security company that the contents of the container were “Ivory and family belongings” and then in the second e-mail she stated that her father deposited the “box” as “artcraft or family treasures such as gold and some others estate documents of my late father”.
+• In the first e-mail Purity Adams stated that
+To tell you more about myself,My father was a wealthy Cocoa and Goldmerchant in South Africa before his untimely death. After his business trip to Abidjan Côte d'Ivoire, to negotiate on a Cocoa business. A week after he came back from Abidjan, he was assassinated with my mother by unknown assassins.
+…
+…the money was meant for his cocoa business he wanted to invest in Abidjan, Côted'Ivoire …
+Based on this story, the money was only in Abidjan, Côte d'Ivoire because Christopher Adams was negotiating a business deal (which apparently required payment in cash) and he left the money in Abidjan, Côte d'Ivoire when he returned to South Africa.
+The Appellant stated that during one of the early phone calls with David Adams, he was told that:
+He explained to me that his father had made quite a bit of money in South Africa, and they had decided to leave, and they were -- he was planning on going to the Ivory Coast, and he had money -- his money at that point in time was with this security company, Optimum Security, and --
+This explanation for the cash being in Abidjan, Côte d'Ivoire differs from the one provided by Purity Adams. David Adams was stating that their father was planning to leave South Africa for Côte d'Ivoire. However, this would mean that Christopher Adams moved his money before he moved his family.
+Purity and David Adams had both impressed upon the Appellant the urgency that the container had to be moved from Abidjan, Côte d'Ivoire because of the ongoing conflict in that country. The Appellant confirmed, as a result of a search that he conducted on the Internet, that there was an ongoing conflict in Côte d'Ivoire. Why would the Adams family be moving from South Africa to a country that was involved in a civil war?
+• As part of the story there are two possibilities – either the entire estate of Christopher Adams (the wealthy cocoa and gold merchant) was in this container or only part of his estate was in this container. If his entire estate was in this container, why would Christopher Adams send his entire estate to a country involved in a civil war? If the container did not contain his entire fortune, it would seem that Purity and David Adams could have used the portion of his estate that was not in this container to obtain the release of the container. Why would Purity and David Adams need money from the Appellant either as advances or to obtain the release of the container if their wealthy father had other assets?
+• Why did the home page for Optimum Security Service (which was a security company located in Abidjan, Côte d'Ivoire) include pictures taken in an area where there was snow? There were also errors in the text on this homepage. The text was written in English, except that instead of the English word “address”, the French word “adresse” was used. As well the following line also appears on this page:
+DIFFERENTS DEPARTMENTS
+• There was nothing in the e-mails that suggested that either Purity Adams or David Adams had any knowledge of where Calgary was located or why they had chosen Calgary or even Canada. Nor was there any indication that either one or both of them would be travelling to Canada to be in Calgary when the container would be arriving. If this container did exist and did contain their father’s entire fortune, it would seem reasonable that either one or both of them would want to be in Calgary when it arrived.
+• The Appellant stated his belief in the existence of the container was based largely on the offer made by David Adams for the Appellant to travel to Abidjan, Côte d'Ivoire to see the container for himself. However, it seems to me that this does not justify the belief in the existence of the container. There was little risk that the Appellant would actually travel to Abidjan, Côte d'Ivoire after David and Purity Adams had explained the dire situation in that country and even if he did make the trip, the individuals could simply not meet with the Appellant, or hold him for ransom.
+• David Adams indicated that he was able to access the container and view its contents (and hence he could confirm the existence of the large sum of money). If David Adams could access the container to confirm its contents, why could he not remove sufficient funds to pay for the release of the container and to provide funds to Purity Adams and himself?
+[29] While there are also inconsistencies and questions arising in relation to other parts of the story, all of the above inconsistencies and questions arise in relation to the parts of the story told to the Appellant before he released any funds. As a result of these inconsistencies and questions, it does not seem to me that it was reasonable for the Appellant to have believed that there was a container with $8.5 million U.S. in it that was being held by a security company in Abidjan, Côte d'Ivoire. As a result, it seems to me that none of the amounts expended by the Appellant are reasonable in relation to his law practice business and therefore no portion of these amounts is deductible in computing his income from his law practice business.
+[30] The Appellant’s appeal is therefore dismissed, with costs.
+Signed at Ottawa, Canada, this 3rd day of April 2012.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2012TCC105
+COURT FILE NO.: 2009-3176(IT)G
+STYLE OF CAUSE: CHARLES RUFF AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: February 27, 28 and 29, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: April 3, 2012
+APPEARANCES:
+Counsel for the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Donna Tomljanovic
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Charles Ruff
+Firm: A. Charles Ruff
+Calgary, Alberta
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In the e-mail from Purity Adams she indicates that the money was in a consignment box or trunk box. The Appellant during his testimony used the term container. In these reasons (other than in excerpts quoted from the e-mails) it will be referred to as a container.
+[2] As there are numerous grammatical errors in the e-mail, each error is not highlighted.
+[3] The amounts in the schedule do not correspond exactly to the amounts as stated in the story above. However, since I have concluded that the expenditures were not reasonable in any event, any discrepancy between the amount in the schedule and the amount as stated above is not relevant.
+[4] The Appellant in describing his law practice stated as follows:
+You know, what other areas? Wills and estates, drafting wills, administering estates, being a trustee for estates.

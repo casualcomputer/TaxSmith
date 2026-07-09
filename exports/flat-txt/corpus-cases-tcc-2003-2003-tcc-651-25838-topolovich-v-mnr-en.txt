@@ -1,0 +1,210 @@
+Title: Topolovich v. MNR
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25838/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-651-25838-topolovich-v-mnr-en.md
+Document type: case_law
+Last modified: 2003-09-29
+
+# Topolovich v. MNR
+
+- Citation: 2003 TCC 651
+- Decision date: 2003-09-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3909, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Topolovich v. MNR
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-29
+Neutral citation
+2003 TCC 651
+File numbers
+2002-4688(EI)
+Judges and Taxing Officers
+Michael H. Porter
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-4688(EI)
+BETWEEN:
+MICHAEL WALTER TOPOLOVICH,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Michael Walter Topolovich (2002-4689(CPP)) on June 5, 2003 at Calgary, Alberta
+Before: The Honourable Michael H. Porter, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Galina M. Bining
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Calgary, Alberta, this 29th day of September 2003.
+"Michael H. Porter"
+Porter, D.J.
+Citation: 2003TCC651
+Date: 20030929
+Docket: 2002-4688(EI)
+2002-4689(CPP)
+BETWEEN:
+MICHAEL WALTER TOPOLOVICH,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Porter, D.J.
+[1] These appeals were heard on common evidence by consent of the parties, at Calgary, Alberta on the 6th of May, 2003.
+[2] The Appellant has appealed from the decision of the Minister of National Revenue (hereinafter called the "Minister") dated September 5, 2002, confirming an assessment issued to Accurate Leasing Ltd. (the "Payor"), on November 28, 2001 for employment insurance premiums and Canada Pension Plan contributions in respect of the employment with it of the Appellant during the period January 15, 2000 to September 30, 2000. The reason given for the decision to confirm the assessment was:
+"... you were employed under a contract of service with Accurate Leasing Ltd., and therefore, you were their employee in pensionable and insurable employment."
+The decision was said to be issued under subsection 27.2(3) of the Canada Pension Plan (the "Plan") and subsection 93(3) of the Employment Insurance Act (the "EI Act") and was based on paragraph 6(1)(a) of the Plan and paragraph 5(1)(a) of the EI Act.
+[3] It is apparent that the Payor itself has not appealed that decision to this Court.
+[4] The material facts reveal that during the period in question the Appellant was engaged by Accurate Leasing Ltd. (the "Payor"), which carried on business out of Winnipeg, operating a local office in Calgary, Alberta. The business of the Payor was the negotiation and brokerage of contracts for equipment lease financing. The Appellant was engaged as an account manager/broker in Calgary. The Minister has decided that engagement was as an employee working under a contract of service. The Appellant claims he was an independent contractor operating under a contract for services. That is the issue before the Court.
+The Law
+Contracts Of/For Service
+[5] The manner in which the Court should go about deciding whether any particular working arrangement is a contract of service and thus an employer/employee relationship or a contract for services and thus an independent contractor relationship, has long been guided by the words of MacGuigan J. of the Federal Court of Appeal in the case of Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025. The reasoning in that case was amplified and explained further in cases emanating from that Court, namely in the cases of Moose Jaw Kinsmen Flying Fins Inc. v. M.N.R., 88 DTC 6099, Charbonneau v. Canada (M.N.R.) [1996] F.C.J. No. 1337, and Vulcain Alarme Inc. v. The Minister of National Revenue, (1999) 249 N.R. 1, all of which provided useful guidance to a trial Court in deciding these matters.
+[6] The Supreme Court of Canada has now revisited this issue in the case of 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.J. No. 61, 2001 SCC 59, 274 N.R. 366. The issue in that case arose in the context of a vicarious liability situation. However, the Court recognized that the same criteria applied in many other situations, including employment legislation. Mr. Justice Major speaking for the Court, approved the approach taken by MacGuigan J. in the Wiebe Door case (above), where he had analyzed Canadian, English and American authorities, and, in particular, referred to the four tests, for making such a determination enunciated by Lord Wright in City of Montreal v. Montreal Locomotive Works Ltd., [1974] 1 D.L.R. 161 at 169-70. MacGuigan J. concluded at page 5028 that:
+Taken thus in context, Lord Wright's fourfold test [control, ownership of tools, chance of profit, risk of loss] is a general, indeed an overarching test, which involves "examining the whole of the various elements which constitute the relationship between the parties". In his own use of the test to determine the character of the relationship in the Montreal Locomotive Works case itself, Lord Wright combines and integrates the four tests in order to seek out the meaning of the whole transaction.
+At page 5029 he said:
+... I interpret Lord Wright's test not as the fourfold one it is often described as being but rather as a four-in-one test, with emphasis always retained on what Lord Wright, supra, calls "the combined force of the whole scheme of operations," even while the usefulness of the four subordinate criteria is acknowledged. (emphasis mine)
+At page 5030 he had this to say:
+What must always remain of the essence is the search for the total relationship of the parties...
+He also observed:
+There is no escape for the Trial Judge, when confronted with such a problem, from carefully weighing all of the relevant factors...
+[7] Mr. Justice MacGuigan also said this:
+Perhaps the best synthesis found in the authorities is that of Cooke J. in Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732, 738-9:
+The observations of Lord Wright, of Denning L.J., and of the judges of the Supreme Court in the U.S.A. suggest that the fundamental test to be applied is this: "Is the person who has engaged himself to perform these services performing them as a person in business on his own account?" If the answer to that question is "yes", then the contract is a contract for services. If the answer is "no" then the contract is a contract of service. No exhaustive list has been compiled and perhaps no exhaustive list can be compiled of considerations which are relevant in determining that question, nor can strict rules be laid down as to the relative weight which the various considerations should carry in particular cases. The most that can be said is that control will no doubt always have to be considered, although it can no longer be regarded as the sole determining factor; and that factors, which may be of importance, are such matters as whether the man performing the services provides his own equipment, whether he hires his own helpers, what degree of financial risk be taken, what degree of responsibility for investment and management he has, and whether and how far he has an opportunity of profiting from sound management in the performance of his task. The application of the general test may be easier in a case where the person who engages himself to perform the services does so in the course of an already established business of his own; but this factor is not decisive, and a person who engages himself to perform services for another may well be an independent contractor even though he has not entered into the contract in the course of an existing business carried on by him.
+[8] In the case of Kinsmen Flying Fins Inc., above, the Federal Court of Appeal said this:
+... like MacGuigan J. we view the tests as being useful subordinates in weighing all of the facts relating to the operations of the Applicant. That is now the preferable and proper approach for the very good reason that in a given case, and this may well be one of them, one or more of the tests can have little or no applicability. To formulate a decision then, the overall evidence must be considered taking into account those of the tests which may be applicable and giving to all the evidence the weight which the circumstances may dictate.
+[9] The nature of the tests referred to by the Federal Court of Appeal can be summarized as follows:
+a) The degree or absence of control exercised by the alleged employer;
+b) Ownership of tools;
+c) Chance of profit;
+d) Risk of loss.
+In addition, the Court must consider the question of the integration, if any, of the alleged employee's work into the alleged employer's business.
+[10] In the Sagaz decision (above) Major J. said this:
+...control is not the only factor to consider in determining if a worker is an employee or an independent contractor...
+[11] He dealt with the inadequacy of the 'control test' by again approving the words of MacGuigan J. in the Wiebe Door case (above) as follows:
+A principal inadequacy [with the control test] is its apparent dependence on the exact terms in which the task in question is contracted for: where the contract contains detailed specifications and conditions, which would be the normal expectation in a contract with an independent contractor, the control may even be greater than where it is to be exercised by direction on the job, as would be the normal expectation in a contract with a servant, but a literal application of the test might find the actual control to be less. In addition, the test has broken down completely in relation to highly skilled and professional workers, who possess skills far beyond the ability of their employers to direct.
+[12] He went on to say this:
+In my opinion, there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. Lord Denning stated in Stevenson Jordan, ... ([1952] 1 The Times L.R. 101) that it may be impossible to give a precise definition of the distinction (p. 111) and, similarly, Fleming observed that "no single test seems to yield an invariably clear and acceptable answer to the many variables of ever changing employment relations..." (p. 416). Further, I agree with MacGuigan J.A. in Wiebe Door, at p. 563, citing Atiyah, ... (Vicarious Liability in the Law of Torts. London: Butterworths, 1967), at p. 38, that what must always occur is a search for the total relationship of the parties:
+[I]t is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a contract of service any longer serves a useful purpose.... The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[13] I also find guidance in the words of Décary J.A. in the Charbonneau case (above) when, speaking for the Federal Court of Appeal, he said this:
+The tests laid down by this Court ... are not the ingredients of a magic formula. They are guidelines which it will generally be useful to consider, but not to the point of jeopardizing the ultimate objective of the exercise, which is to determine the overall relationship between the parties. The issue is always, once it has been determined that there is a genuine contract, whether there is a relationship of subordination between the parties such that there is a contract of employment ... or, whether there is ... such a degree of autonomy that there is a contract of enterprise or for services. ... In other words, we must not pay so much attention to the trees that we lose sight of the forest. ... The parts must give way to the whole. (emphasis mine)
+[14] I also refer to the words of Létourneau J.A. in the Vulcain Alarme case (above), where he said this:
+... These tests derived from case law are important, but it should be remembered that they cannot be allowed to compromise the ultimate purpose of the exercise, to establish in general the relationship between the parties. This exercise involves determining whether a relationship of subordination exists between the parties such that the Court must conclude that there was a contract of employment within the meaning of art. 2085 of the Civil Code of Quebec, or whether instead there was between them the degree of independence which characterises a contract of enterprise or for services....
+[15] I am further mindful that as a result of the recent decisions of the Federal Court of Appeal in Wolf v. Canada, [2002] F.C.J. No. 375, and Precision Gutters Ltd. v. Canada (Minister of National Revenue-M.N.R.), [2002] F.C.J. No. 771, a considerable degree of latitude seems now to have been allowed to creep into the jurisprudence enabling consultants to be engaged in a manner in which they are not deemed to be employees as they might formerly been. I am particularly mindful of the words of Mr. Justice Décary in the Wolf decision (above) where he said:
+In our day and age, when a worker decides to keep his freedom to come in and out of a contract almost at will, when the hiring person wants to have no liability towards a worker other than the price of work and when the terms of the contract and its performance reflect those intentions, the contract should generally be characterised as a contract for services. If specific factors have to be identified, I would name lack of job security, disregard for employee-type benefits, freedom of choice and mobility concerns. (my emphasis)
+[16] Thus, it seems to this Court that the pendulum has started to swing, so as to enable parties to govern their affairs more easily in relation to consulting work and so that they may more readily be able to categorize themselves, without interference by the Courts or the Minister, as independent contractors rather than employees working under contracts of service.
+[17] In conclusion, there is no set formula. All these factors bear consideration and as Major J. said in the Sagaz case (above), the weight of each will depend upon the particular facts and circumstances of the case. Many of the tests can be quite neutral and can apply equally to both types of situation. In such case, serious consideration has to be given to the intent of the parties. Thus is the task of the trial Judge.
+The Facts
+[18] In the Reply to the Notice of Appeal signed on his behalf, the Minister was said to admit the following facts which were alleged in the Notice of Appeal filed by the Appellant:
+(a) The Appellant was hired as an account manager.
+(d) Accurate Leasing Ltd. (hereinafter the "Payor") did not issue a T4 with respect to the Appellant, for the period under review.
+(e) Revenue Canada (the Canada Customs and Revenue Agency) drafted a T4 with respect to the Appellant.
+(n) The Payor entered into contracts with financial institutions.
+(o) The Payor was paid by the financing institutions.
+(p) The Appellant received 50% of the fees charged by the Payor.
+(q) The Appellant submitted credit recommendations.
+(r) The Payor's fee varied depending on the size of the contract and the financing institution.
+[19] In the Reply to the Notice of Appeal signed on his behalf, the Minister was also said to have relied upon the following assumptions of fact (I have set out the agreement or disagreement of the Appellant in parenthesis):
+(a) the Payor was in the business of negotiating and brokering contracts for equipment lease financing; (Agreed)
+(b) the Payor entered into contracts with financing institutions, (Disagreed)
+(c) the financing institutions paid fees to the Payor for services provided; (Agreed)
+(d) the Payor was based in Winnipeg and maintained a branch office in Calgary; (Agreed)
+(e) the Appellant was hired as an account manager and his duties included obtaining lease agreements, completing paper work, attending meetings, training junior staff, answering phones, and developing marketing strategies; (Disagreed)
+(f) the Appellant performed his services at the Payor's premises in Calgary and in the field; (Disagreed)
+(g) the Appellant earned a net base wage of $500.00 per month; (Disagreed)
+(h) the Appellant also received a commission of 50% of the fees paid to the Payor; (Disagreed)
+(i) the Payor set the Appellant's pay rates; (Disagreed)
+(j) the Appellant was paid on a semi-monthly basis; (Agreed)
+(k) the Appellant normally worked during regular office hours, Monday to Friday; (Disagreed)
+(l) the Appellant was in the Payor's office at 8:30 a.m. every morning and worked there for 1 to 2 hours; (Disagreed)
+(m) the Appellant normally worked 40 hours per week; (Disagreed)
+(n) the Payor had first call for the Appellant's time; (Disagreed)
+(o) the Payor had the right to control the Appellant; (Disagreed)
+(p) the Appellant was instructed by the Payor; (Disagreed)
+(q) the Payor set goals and expectations for the Appellant; (Disagreed)
+(r) the Appellant attended regular weekly meetings; (Disagreed)
+(s) the Appellant represented the Payor while in the field; (Agreed)
+(t) the Appellant used the Payor's business cards; (Agreed)
+(u) the Appellant did not work for others while working for the Payor; (Agreed)
+(v) the Appellant provided his own vehicle and cell phone; (Agreed)
+(w) the Payor provided a furnished work location; (Disagreed)
+(x) the Payor supplied all of the materials required; (Disagreed)
+(y) the Appellant incur vehicle expenses in the performance of his duties; (Agreed)
+(z) the Payor paid the operating expenses including office expenses, supplies, administration, utilities, advertising, and insurance; (Disagreed)
+(aa) the Appellant was employed under a contract of service by the Payor, and (Disagreed)
+(bb) wages paid by the Payor to the Appellant, for the period January 15, 2000 to September 30, 2000, were $15,312.00. (Disagreed)
+[20] Evidence was given by the Appellant himself and by Rick Muscato, a friend and colleague of his.
+[21] The Appellant said that he was a broker/manager working in Prince George, British Columbia, when he saw a position advertised in Calgary. The advertiser, who turned out to be the Payor, was looking for a broker/manager.
+[22] The Appellant contacted the Payor and was interviewed on January 8, 2000. He was engaged and informed of the working conditions verbally. There was no written contract. He was told that he would be in business for himself, with which he was comfortable, as that is how he had worked previously in British Columbia.
+[23] He explained the nature of his work and the business of the Payor. His task was to look for and find people and businesses who were about to purchase large equipment and were looking for appropriate financing to fund the purchase. He obviously liaised with a number of dealers to assist him in this. He would then submit a proposal to the Payor who would find the appropriate financier and conclude the deal from that end. Thus, the Appellant found the borrower and the Payor found the lender. The finance company would pay the Payor for the service which, in turn, would split that fee 50/50 with the Appellant. In a sense, it was a joint brokering venture, one party finding the borrower and the other a lender, and fitting them together. There was no continuing contract between the Payor and the financing institutions (assumption (b)); just a fee paid for setting up the business which the Payor then split with the Appellant.
+[24] The Payor had set up a small office in Calgary. When the Appellant was established as an account manager/broker, he used this office to do his paperwork. However, he paid a fee of $200.00 per month for this to the Payor.
+[25] The arrangement was that the Payor would pay the Appellant a base monthly fee of $700.00. From this would be deducted the sum of $200.00 for the rent of the office. Thus, the Appellant would receive $500.00 net. The Appellant would, twice a month, submit his invoices to the Payor for various brokerage fees that he had earned. In fact, these invoices were generated from information provided by him to the controller in Winnipeg. From the amounts of the invoice would be deducted the base fee of $700.00 (which included the rent of $200.00) and the balance remitted to him. Thus, he did not consider his base fee to be a wage (assumption (g)). It was paid on account of his fees and he was paid by invoice. He did not charge G.S.T.; apparently he did not make enough to warrant obtaining a number.
+[26] The Appellant took issue with assumption (e) as it omits reference to his being a "broker" and account manager. He said he was not required to attend meetings nor train junior staff. He would assist junior people simply out of a desire to create good relations with other brokers.
+[27] The Appellant disagreed with assumption (h) stating that there was a difference between a brokerage fee and a commission. He was paid a brokerage fee which he set himself (assumption (i)), although obviously it had to be by prior agreement with the Payor.
+[28] With respect assumptions (k), (l) and (m), the Appellant said he did not work and was not required to work any regular hours. He set his own hours and came and went to the office and elsewhere at all kinds of different hours as he saw fit.
+[29] With respect to assumption (n), the Appellant considered that he was free to work for any other brokerage house that he chose. Obviously, if he was working closely with the Payor, he was not likely to work with others, but he was free to do so if he saw fit. The Payor had no first call on his time, nor did it have any control over when, how or where he went about his work.
+[30] With respect assumption (p), the requirements of the finance companies as to how proposals should be put together, were passed on to him by the Payor. This was not control in the sense of the words used in these situations as it was the very work that he was doing. He had to submit the applications for financing in a form acceptable to the finance companies.
+[31] The Appellant said he set all his own goals and nothing was set by the Payor and there is no evidence otherwise (assumption (q)).
+[32] The Appellant said that a Mike Hollaway, who was the person who originally interviewed him, would try to set up weekly meetings, but nobody was required to attend (assumption (r)). The Appellant said he was free to attend the meeting or not as he saw fit.
+[33] With respect to assumptions (x) and (z), the Appellant said he had access to the office and a computer for which he paid his $200.00 per month. Apart from that, he did all his own typing, provided his own paper, had his own business cards, although he used some supplied by the Payor as well, his own cell phone and his own motor vehicle for which he was not reimbursed.
+[34] With respect to assumption (bb), the amounts paid to him are not in question.
+[35] The evidence of Rick Muscato was short, he very much confirmed the evidence of the Appellant.
+[36] I have no difficulty with the credibility of the two witnesses. I found them basically honest trying to explain the situation as it was to the best of their ability. I accept their evidence where it differs from the assumptions made by the Minister.
+[37] Those are the salient facts as I find them.
+Application of Law to the Facts
+[38] Title: It must be clearly understood that even where the parties choose to put a title on their relationship, if the true nature and substance of the arrangement does not accord with that title, it is the substance to which the Court must have regard. That legal principle has not changed (see Shell Canada Ltd. v. Canada (1999) S.C.J. No. 30). Having said that, it is also fair to say that where the parties genuinely choose a particular method of setting up their working arrangement, it is not for the Minister or this Court to disregard that choice. Due deference must be given to the method chosen by the parties and if on the evidence as a whole there is no substantial reason to derogate from the title chosen by the parties, then it should be left untouched. The Wolf and Precision Gutters cases (above) very much substantiate that proposition.
+[39] Control: As this aspect of the test has been traditionally applied, it has been consistently pointed out that it is not the actual control so much as the right to control that is important for the Court to consider. The more professional and competent a person is or the more experience they have in their field, the less likely there is to be any actual control, which creates difficulty in applying this test. Indeed as Major J. pointed out in the Sagaz case (above), there may be less control exercised in the case of a competent professional employee than in the case of an independent contractor. Nonetheless, it is another factor to be weighed in the balance.
+[40] In this instance, there seems to be little control or no control exercised by the Payor. The applications for financing had to be put together on standard forms in a way which met the requirements of the finance companies. That, however, was the very work itself and cannot be classified as control. How the Appellant went about his work, where and when was very much up to him. His work involved putting together one-half of the deals. I see no evidence of control whatsoever in that situation. This factor very much indicates an independent contractor working under a contract for services, if even that; in a sense, it was more a partnership situation.
+[41] Tools and Equipment: Although the Payor provided an office where the Appellant could work, collect messages and access the computer, he paid for those services, which is hardly the hallmark of an employee. In addition, he provided his own cell phone and motor vehicle.
+[42] This factor also points clearly in the direction of an independent contractor.
+[43] Chance of Profit and Risk of Loss: Obviously, the more the Appellant worked and the better he did at his work, the more applications he would put together, and thus the greater would be his broker's fees. On the other side of the coin, he had to pay his rent, cell phone and car expenses and if he did not put together any applications for financing, he would have no income. I took from the evidence that this base fee would be debited to the next month's income if he did not make sufficient in any month and so on. Thus, he stood to suffer a loss.
+[44] The whole arrangement had an entrepreneurial ring to it. Employees do not pay their employers to use their office space. This factor also, in my mind, points to an independent contractor situation.
+[45] Integration: This is the aspect of the test which has been most often criticized. The question to be asked is "whose business is it?". That must be asked from the point of view of the worker, not the employer as from the latter's point of view it will always look like its business. In other words, were there two businesses here or one.
+[46] As I say, this whole arrangement had an entrepreneurial ring to it. In the sense, they were in a kind of partnership. Certainly when I ask the question of whether the Appellant was in business for himself, the answer is clearly in the affirmative. His business was finding, preparing and submitting applications for financing. He tended to use the Payor, but could have used any other brokerage house that he chose. The Payor's business was putting together the financing with the financing companies. It was almost like a joint venture and one could not work without the other.
+Conclusion
+[47] When I look not just at the individual trees but also at the forest as a whole, I am overwhelmingly of the view that the Appellant was in business for himself and not in insurable or pensionable employment. The arrangement was set up in this manner and carried out in this manner.
+[48] The appeals are accordingly allowed and the decisions of the Minister are vacated.
+Signed at Calgary, Alberta, this 29th day of September 2003.
+"Michael H. Porter"
+Porter, D.J.
+CITATION:
+2003TCC651
+COURT FILE NO.:
+2002-4688(EI) and 2003-4689(CPP)
+STYLE OF CAUSE:
+Michael Walter Topolovich and M.N.R.
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+June 5, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Michael H. Porter, Deputy Judge
+DATE OF JUDGMENT:
+September 29, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Galina M. Bining
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,374 @@
+Title: Nantel v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29542/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-599-29542-nantel-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-11-23
+
+# Nantel v. The Queen
+
+- Citation: 2009 TCC 599
+- Decision date: 2009-11-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6360, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nantel v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-11-23
+Neutral citation
+2009 TCC 599
+File numbers
+2006-3539(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3539(IT)G
+BETWEEN:
+MARTINE NANTEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Denis Larocque (2006-3540(IT)G),
+on January 28 and 29 and March 19, 2009,
+at Montréal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the appellant:
+Mario Proulx
+Counsel for the respondent:
+Anne-Marie Boutin
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1999 and 2000 taxation years is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Bromont, Quebec, this 23rd day of November 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 31st day of March 2010.
+François Brunet, Revisor
+Docket: 2006-3540(IT)G
+BETWEEN:
+DENIS LAROCQUE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Martine Nantel (2006-3539(IT)G),
+on January 28 and 29 and March 19, 2009,
+at Montréal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the appellant:
+Mario Proulx
+Counsel for the respondent:
+Anne-Marie Boutin
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1999 and 2000 taxation years is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Bromont, Quebec, this 23rd day of November 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 31st day of March 2010.
+François Brunet, Revisor
+Citation: 2009 TCC 599
+Date: 20091123
+Dockets: 2006-3539(IT)G,
+2006-3540(IT)G
+BETWEEN:
+MARTINE NANTEL,
+DENIS LAROCQUE,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] These two appeals were heard jointly under the General Procedure. Martine Nantel and Denis Larocque (the appellants) are appealing from the reassessments made September 25, 2003, by the Minister of National Revenue (the Minister) for their 1999 and 2000 taxation years. In issue in this case is the fair market value (FMV) of works of art by the artists George Delfosse (Delfosse) and Henri Hébert (Hébert) that the appellants donated to the Laurier Museum (museum) in 1999 and 2000.
+Background
+[2] On December 30, 1999, Ms. Nantel gave the museum 90 works by Delfosse. That same day, Mr. Larocque gave the museum 24 works by Delfosse and 50 by Hébert. On February 7, 2000, Ms. Nantel and Mr. Larocque gave the museum 73 works by Hébert and Mr. Larocque gave the museum 55 by Delfosse. The works the appellants gave the museum are part of a set of works (242 by Delfosse and 50 by Hébert) that Mr. Larocque had acquired in 1981 and 1982, from Madeleine Delfosse, Delfosse's daughter, for around $3,000.
+[3] To determine the value of these donations, Richard Pedneault, the manager/curator of the museum since 1988, hired Bernard Desroches, an art gallery owner in Montreal since 1970. Mr. Desroches assessed the value of the works Ms. Nantel donated to the museum at $33,910 in 1999 and $35,095 in 2000. Moreover, Mr. Desroches assessed the value of the works Mr. Larocque donated to the museum at $30,292 in 1999 and $37,057 in 2000.
+[4] In her tax report for the 1999 taxation year, Ms. Nantel indicated she had donated works of art valued at a total of $33,910 to the museum and, as a result, applied for an in-kind charitable donation tax credit. Moreover, in her tax return for the 2000 taxation year, she indicated she had donated works of art valued at a total of $33,095 to the museum and, as a result, applied for an in-kind charitable donation tax credit. Relying on the appraisal report of these works donated by Ms. Nantel, that had been prepared by Kathryn C. Minard (an independent art appraiser) on January 30, 2003, offered in evidence as Exhibit I-7, the Minister determined the FMV of the works of art so donated at $1,933 in 1999 and $1,567 in 2000, and therefore, in the reassessments made September 25, 2003, reduced the non-refundable charitable donation tax credits Ms. Nantel applied for in 1999 and 2000.
+[5] In his tax return for the 1999 taxation year, Mr. Larocque indicated he had donated works of art valued at a total of $30,292 to the museum and as a result, applied for an in-kind charitable donation tax credit. Moreover, in his tax return for the 2000 taxation year, he indicated that he had donated works of art valued at a total of $37,057 to the museum and as a result, applied for an in-kind charitable donation tax credit. Relying on the appraisal of these works donated by Mr. Larocque that had been prepared by Ms. Minard on January 30, 2003 (Exhibit I-7), the Minister determined the FMV of the works of art so donated at $1,939 in 1999 and $1,236 in 2000, and therefore, in the reassessments made September 25, 2003, reduced the non-refundable charitable donation tax credits Mr. Larocque had applied for in 1999 and 2000.
+[6] Following these reassessments the Minister made on September 25, 2003, against the appellants, Mr. Pedneault retained a second art appraiser, Gianguido Fucito, for the purpose of convincing the Minister that his assessment of the works of art the appellants gave the museum was erroneous. I note that Mr. Fucito's appraisal report of May 12, 2003, and led in evidence as Exhibit A-9, determined the FMV of the Delfosse works donated by Ms. Nantel at $66,260, the FMV of the Delfosse works donated by Mr. Larocque at $50,240 and the FMV of the Hébert works donated by Mr. Larocque at $19,705.
+[7] Lastly, the Minister retained Ms. Minard for a technical review of the appraisal report of the Delfosse and Hébert works prepared by Mr. Fucito on May 12, 2003. On July 15, 2008, Ms. Minard gave her report to the Minister as required, a report that was offered in evidence as Exhibit I-6. It must also be noted that the Minister retained on Ms. Minard for a technical review of the Delfosse and Hébert works prepared by Mr. Desroches on December 15, 1999, and January 27, 2000. On October 7, 2008, Ms. Minard sent the report to counsel for the respondent, Anne-Marie Boutin, as required; this expert report was also offered in evidence as Exhibit I-6.
+[8] Messrs. Larocque, Desroches, Pedneault and Fucito testified in support of the appellants' position. Only Kathryn C. Minard testified in support of the respondent's position.
+Biography of the artists and general description of the works donated
+[9] The biographies of Delfosse and Hébert and a general description of the works donated by the appellants are found in the appraisal report (Exhibit I-7) prepared by Ms. Minard and are worth citing in their entirety because they seem complete and the result of thorough research. Ms. Minard summarized the history of Delfosse's life as follows:
+[translation]
+Artist—Georges Marie Joseph Delfosse (1869-1939)
+Born in Saint-Henri-de-Mascouche, Quebec, Delfosse studied in Montreal under William Brymner and Edmond Dyonnet, and in Paris under Alexis Harlamoff and Léon Bonnat (1908) where he was influenced by Impressionism. He painted portraits of Sir Wilfrid Laurier and other notables and did over 200 large canvases for churches in Canada and the US. He also painted landscapes, flowers, historic subjects and buildings in old Montreal working in oil, watercolour, pastel, pencil and ink. He travelled to Quebec, eastern Ontario, New York and Chicago. His work is in the NGC. He exhibited with the RCA from 1899-1929 and the AAM from 1892-1936.[1]
+In 1908 and 1909, Delfosse completed a commission for seven historical paintings of heroic tableaux for St. James Cathedral in Montréal. The subjects include a celebration of mass in the early days of French Canada (1615), the Martyrdom of Father Nicolas Viel and his Disciple Ahuntsic (1634), The Martyrdom of Jesuit Fathers Bréboeuf and Lallemant (1649), The Venerable Marguerite Bourgeoys teaching the young Indians near the ancient towers of Fort des Messieurs (1694) and Jeanne Mance and the Sisters of Hôtel Dieu with the sick (1642). In 1915 he was commissioned to make paintings for the high nave and the choir of the Shrine of the Blessed Sacrament in Montréal, including full portraits of saints, the Birth of Christ, Last Supper, Jesus Preaching and the Wedding at Canaan. Other commissions included 18 ecclesiastical paintings for St. Peter's Roman Catholic Church on Pelée Island, Ontario (1920), paintings for the Cathedral of Marie-Reine-du-Monde in Montréal and churches in East-Angus, Joliette, Sault-aux-Rècollets and de Terrebonne.
+Delfosse's body of work also included many paintings that document Old Québec's architecture and he was noted for his highly detailed imagery and use of contrasting light and shadow (e.g. Un coin de la maison mère, a painting of the 17th century farm house, Maison Saint-Gabriel in Montréal and The House of Cavelier de La Salle (1919) in the NGC, Côte de la place d'Armes après 1818, Le Vieux Séminaire de Montréal and La maison de Gédéon de Catalogue. He was known in his time as "Le peintre du Vieux-Montréal" (the painter of Old Montréal).
+His portrait work included Emiliano Renand, Composer (in the Musée de Québec Collection), Judge A. Ouimet, Marie C. Mount and Henriette Mount, Senator L.O. David, Sir Wilfrid (1897) and Lady Laurier and Sir William Hingston.
+Delfosse's work is in the collections of Château de Ramezay, Montréal, Collection of Paul Gouin, La Bibliothèque Municipal de Montréal, Musée de Québec, Québec City (portrait of composer Emiliano Renand, a larger version of Normal School for Girls, Le manoir de Varennes), Musée des beaux-arts, Montréal, Musée du Séminaire de Québec, Musée Laurier, National Gallery of Canada, Ottawa (2 paintings: Normal School for Girls, Notre-Dame-de-Pitié (1908), The House of Cavalier de La Salle (1919) and a drawing, A Walk in Lafontaine Park (1910) and Power Corporation du Canada, Montréal.
+Moreover, she provides the following general description of the Delfosse works donated by the appellants:
+[translation]
+General description of the donated works
+The 241 donated works by Delfosse are unframed sketches, studies and drawings of various subjects and mediums including lead pencil, coloured pencil, charcoal, chalk, ink, pastel and watercolour. A sketch is defined as "a preliminary drawing, often rough and sometimes rapidly executed, that presents the characteristic lines and feeling of the thing drawn, while it necessarily neglects some of the details. In this respect it differs from a "study", which tends to be detailed and in no way spontaneous."[2] A study is "a preliminary rendition of a projected work or, more often, a detail of that work, such as a head, figure or flower. The artist makes a study to explore an idea for future development, if not for immediate use, and to become familiar with the problems involved in its depiction… Because a study is the artist's vehicle for working out themes and techniques, it is a more carefully detailed representation than a sketch."[3] A drawing is a more detailed work and " It may be further elaborated with applications of colour, highlights, and shading with hatching or washes to produce the effect of light and shadow… Some drawings are independent and finished works of art. Others, although distinct from the final product, also have intrinsic artistic value."[4]
+The subject matter of the sketches and drawings can be categorized as follows:
+landscape, landscape with buildings, unidentified houses and church buildings, houses and church buildings in known locations, portraits and figures, religious figures and scenes, architectural details, animals, and historic figures and events. A photograph of each item is included in the addenda of this report.
+[10] Ms. Minard also summarized the biography of Hébert and provided the following general description of the Hébert works donated by the appellants:
+[translation]
+The Artist - Henri Hébert, RCA FRCA (1884-1950)
+Born in Montréal, Québec, Hébert studied at the Monument National, Montréal under Edmond Dyonnet (1896-98); he followed evening classes at l'École de la Ville, Paris (1898); interior and exterior decoration at l'École des Arts Décoratifs, Paris under Corbel, De Corchement, Labrie and Debrie (1900-1902); painting at the Art Association of Montréal with William Brymner (1902-1904); and sculpture at l'École des Beaux-Arts in Paris with Jules Thomas and Antoine Injalbert (1904-1906). Working in plaster, bronze and marble, he is best known for his portrait heads, nudes and public monuments such as the Evangeline Monument in Grand Pré (1920), the Outremont War Memorial, Montréal (1925, with John Roxborough Smith) and the Sir Louis-Hippolyte Lafontaine Monument, Montréal (1930). He decorated public buildings with bas-reliefs. Working in watercolour, pastel and charcoal, he also painted portraits, symbolic figures and signs of the zodiac. Some of his work was influenced by Art Deco. Hébert taught clay modeling at the Monument National (1923-1925) and in the architecture department at McGill University, Montréal (1909-c.1920), and received an honorary doctorate from the University of Montréal in 1940. He was the son of (sculptor) Louis‑Philippe Hébert and the brother of (painter) Adrien Hébert. He exhibited with the Royal Canadian Academy between 1910-1949 and extensively with the Art Association of Montréal between 1910-1947. His work is in the collections of the Art Gallery of Ontario, the Musée de Beaux Arts, Montréal, the Musée de Québec and the National Gallery of Canada.10
+During his career Hébert was commissioned to create more than 40 works including commemorative plaques, funerary monuments and public statuary, with the best-known public work being his Evangeline monument. His other works included bas-reliefs for Moyse Hall at McGill University in Montréal and numerous sculptures such as Father Lefebvre, Memramcoo, N.S. (1914), Abraham Martin, Québec (1922), Yarmouth Boy, Yarmouth, N.S. (1923), Sir Rodolphe Forget, Saint Irénée (1923), Senator L. O. David, Montréal Cemetery (1929), Jacques De Lesseps, Gaspé (Aviator, 1932) and Louis Francoeur, Montréal (1940). Subjects for his sculpted busts include Viscount R. B. Bennett, Sir Andrew MacPhail, Alphonse Jongers (Artist, 1926), Sir A. Lacosto, Sir Rodolphe Forget and John Murray Gibbon.
+From October 4, 2000 through February 11, 2001 the Musée du Québec showed Hébert's sculptures, sketches and illustrations of his public monuments in an exhibition called "Henri Hébert: Un Sculpteur Moderne 1884-1950" [Henri Hébert: A Modern Sculptor 1884-1950].
+Hébert's Works on Paper
+Hébert was a prolific draftsman and produced a large number of sketches and drawings in charcoal, pencil, watercolour and pastels as well as a few etchings. Very few of Hébert's drawings relate to his monumental sculpture. Rather, he used drawing to record rapid gestures and attitudes rather than as preparation for a sculpture. Many of his studies are of female figures, nude and clothed, including his sister Pauline, and Clorinthe and Cécile Perron, who often served as Hébert's models. In addition to his frequent studies of the Perron sisters, Hébert also sketched his brother Adrien and other unidentified men as well as prostitutes from the red light district near his Labelle St. studio. (11) His work in pastel is considered weak and while Hébert exhibited this work it was not well received. Hébert had greater success with watercolour, which he used to submit designs for sculpture competitions. His watercolours are characterized by strong execution and colour that is reminiscent of the Fauve painters. In describing Hébert's work in watercolour, Janet Brooke said:
+[translation]
+The way in which reserves are integrated in the composition and the majestic use of the brush also show a true mastery of the medium.12
+General description of the donated works
+The 50 donated works are unframed sketches of female nudes, many with multiple figures per page, and a few works that may be categorized as studies. The studies appear to be for a funerary monument, a bas-relief and an architecturally integrated fireplace design. Forty-five works are executed in pencil, one incorporating some watercolour and several with red pencil. Five are rendered in ink or incorporate ink. A sketch is defined as "a preliminary drawing, often rough and sometimes rapidly executed, that presents the characteristic lines and feeling of the thing drawn, while it necessarily neglects some of the details. In this respect it differs from a "study", which tends to be detailed and in no way spontaneous.13 A study is "a preliminary rendition of a projected work or, more often, a detail of that work, such as a head, figure or flower. The artist makes a study to explore an idea for future development, if not for immediate use, and to become familiar with the problems involved in its depiction… Because a study is the artist's vehicle for working out themes and techniques, it is a more carefully detailed representation than a sketch."14 The donated figurative works reflect Hébert's habit of using sketches to record rapid gestures and movements. None of the donated works can be described as drawings because the detail is very limited, most of the figures depicted have no facial features, there is little or no hatching or shading and no attempt has been made to replicate the effects of light and shadow. A photograph of each item is included in the addenda of this report.
+[11] I accept, on the basis of the testimony of Mr. Larocque, whose credibility is not questioned, that he purchased these Delfosse and Hébert works not to speculate or sell but to eventually contribute to the development of his province's heritage. He explained that after keeping the works for more than 20 years, at high conservation fees, he and his spouse decided that it was time to donate them to a museum, in bulk so that the works would not be separated, since he considered they made up a "corpus."
+Testimony of Mr. Pedneault
+[12] Mr. Pedneault first stated that the museum is located in Arthabaska in a building that was once the residence of Sir Wilfrid Laurier and that the museum was created in 1929 to honour his memory. Then, Mr. Pedneault provided a long summary of how the works acquired corresponded to the nature of the museum. To this end, he explained that the museum specialized in works of art of historic nature, and particularly, works by artists who lived in the Arthabaska region and who had crossed paths with Sir Wilfrid Laurier. He reminded the Court that the museum had many works by Suzar Côté, Alfred Laliberté and Louis Philippe Hébert (Henri Hébert's father), many artists who had given their works to commemorate the life of Sir Wilfrid Laurier, the great protector of the arts and literature who wanted to sponsor them. Lastly, Mr. Pedneault gave a lengthy explanation of the bond between Delfosse, the great portrait artist and religious painter of 1869 and Sir Wilfrid Laurier. On this, he noted that Delfosse began his career with the portrait of Sir Wilfrid Laurier with whom he was friends. Mr. Pedneault added that the museum had Delfosse works before acquiring those donated by the appellants.
+[13] Then, Mr. Pedneault testified on the museum's capacity to purchase works of art. He explained that since he took up his post, in 1988, the museum never missed out on purchasing a work of art for financial reasons. The museum's financial records and a summary of the museum's art purchases in 1999 and 2008 were offered in evidence as Exhibit A‑12. This documentary evidence shows that, to acquire works of art, the museum spent $329,000 in 2003, $173,000 in 2005, $185,496 in 2006, and $226,000 in 2007.
+[14] The appellants, who had the burden to show that the FMV of the works of art they donated to the museum was greater than that determined by the Minister, relied mainly on the appraisals of Messrs. Desroches and Fucito. Before reviewing the opinions and findings of Messrs. Fucito and Desroches on the value of these works, I would like to immediately note that, when the Court is to determine the FMV of an object and it is presented with many different figures, it does not fulfill that duty by selecting the highest value. It is not bound by any of the assessments and is not required to choose one of figures it was presented. It must do all that it can to determine the actual value of the object, even if this is difficult. For this purpose, it may dismiss all the assessments or use certain elements from some or all of them and reach a different conclusion. It is not a mechanical process. It is one that requires the Court to weigh all the elements at its disposal and to use its judgment to reach the correct conclusion.
+[15] In his appraisal reports (Exhibits A‑5 and A‑6), Mr. Desroches describes each work donated by the appellants very succinctly, determines the value, then provides an overall justification for that value. Since the justification is very short, it should be cited in its entirety:
+[translation]
+Property of Denis Laroque - December 15, 1999
+Donation of Henri Hébert works
+JUSTIFICATION
+Born in Paris in 1884, Henri Hébert, son of the renowned Québécois sculptor Louis-Philippe Hébert and brother of artist Adrien Hébert, devoted himself to sculpture from a young age.
+He was one of the most noted sculptors of the early 20th century and he is credited for many sculptures including a masterpiece located in the city of Westmount.
+The exceptional corpus that is being appraised consists of preparatory studies for sculptures.
+Considering the scarcity of Henri Hébert's graphic works, considering the quality of these works, considering the exceptional character of this corpus, we do not hesitate to appraise these works for the amount indicated regarding each piece.
+Our determination of the value of these works is based on two sales of sketches by a contemporary of Henri Hébert, Georges Delfosse. One was at the Hôtel des encans in December 1999, a 23cm X 12.5cm drawing for $375; the other was at the Musée Laurier in November 1999, a 22.4cm X 16.6cm drawing for $500.
+These two sales are used only as guides to determine the value because the scope and importance of this corpus increases the overall value of these works compared to the value of each appraised individually.
+Property of Denis Larocque – January 27, 2000
+Donation of works by Georges Delfosse
+JUSTIFICATION
+Born in St-Henri de Mascouche in 1869, Delfosse studied under Abbé Joseph Chabert at the Institut national des beaux-arts de Montreal, William Brymer at the art association of Montreal, and Edmond Dyonnet. Then, Delfosse went to Paris to further his training under L. Bonnat and Alexei Harlamoff.
+Delfosse was a conscientious and skilled drawer and drew non-stop, the sketch pad in his hand, incessantly drawing historical subjects that fascinated him. This inclination earned him the nickname "the archivist" and the "painter of Old Montreal".
+This corpus of drawings is therefore a collection of various subjects that are particularly well done: landscapes, street scenes, ancestral homes, portraits, religious images, historical monuments, etc. Although these drawings are sketches, they are detailed works and of interest.
+These drawings represent a rare, important and exceptional archival collection. They have not only an artistic value but also an uncontested historical and documentary value.
+Delfosse was able to contribute to the great cultural movement of the late 19th and early 20th century, and this contribution continues to have poetic undertones today.
+Considering the importance and rarity of this corpus of George Delfosse works, considering its artistic quality, considering its archival and heritage characteristics, and considering the condition of the works, we do not hesitate to appraise these works for the amount indicated regarding each piece.
+Our justification of the value of these works is based on a sale at the Hôtel des encans in December 1999 of a 23cm X 12.5cm drawing for $375, and on a sale at the Musée Laurier in November 1999 of a 22.4cm X 16.6cm drawing for $500.
+These two sales are used only as guides to determine the value because the scope and importance of this corpus increases the overall value of these works compared to the value of each appraised individually.
+[16] I immediately note that, Mr. Desroches' findings on the FMV of these works do not seem credible to me because of the following:
+(i) First, in his reports, Mr. Desroches cites the sale of two Delfosse works to support his findings on the FMV of the Delfosse works the appellants donated, and neglected to cite the many works donated and sold at auctions around the same time as the donations. In my opinion, these omissions reduce the credibility of the findings on the value of the works because the number of sales cited is simply not sufficient to support Mr. Desroches's findings on the FMV of the Delfosse works the appellants donated. The somewhat absurd explanations Mr. Desroches provided to justify these omissions, which, I must point out, only confirmed my doubts as to the credibility and reliability of his analysis and findings, are worth repeating:
+[translation]
+[671] Q. Ok. And you said that was all you had?
+A. That was available to me.
+[672] Q. Right. But this is in 1999, 2000, around there; didn't you have access to the databases about the various…the auctions in particular, for example, artnet, artprice and others?
+A. Yes, I have some of those volumes.
+[673] Q. Yes, you had them in 1999 and 2000?
+A. Yes. Yes, I had them.
+[674] Q. Yes. And you did not consult them?
+A. No, I did not consult them because you get a drawing, you do not see it, it is difficult to base a judgment on that. Then, the results of these auctions, they could be overestimated or underestimated too. So it is a criterion but not a basis.
+(ii) Although Hébert works, both drawings and sculptures, had been sold at public auctions, Mr. Desroches did not quote any of these sales in his reports. Instead, he compared the Hébert works to the Delfosse works. In my view, the FMV is more accurately determined by comparing the work being appraised with another work by the same artist. On this, I completely agree with Ms. Minard that the comparison of Hébert to Delfosse is fundamentally wrong because the works are not similar enough since Hébert is known as a sculptor and Delfosse as a painter. I would add that the two Delfosse sales Mr. Desroches quoted as comparable, a drawing of a church and an oil portrait, do not seem to me to be reasonable comparisons for the nude sketches by Hébert;
+(iii) Mr. Desroches neglected to include information on the condition of certain works in his reports (such as stains, tears and loss of paper) that, in my opinion, generally have an unfavourable impact on the FMV of a work of art;
+(iv) In his reports, Mr. Desroches describes the Delfosse works as [translation] "detailed productions". In fact, many works are not fully completed drawings and to describe them as "detailed productions" seems inaccurate to me. In fact, many of these works are sketches, studies or drafts at best. The donated works do not seem to be described properly in the appraisal reports. Mr. Desroches should have provided specific identification of each piece being appraised. He should have indicated whether the donated item was a drawing, a study or a sketch. Mr. Desroches does not seem to differentiate between these forms of art, although there are qualitative differences between them that, in my opinion, must be considered when appraising the aesthetic value of a work of art;
+(v) In his reports, Mr. Desroches indicates that several Delfosse sketches were used to create the illustrated works in the volume, "Le Vieux Montréal vu par George Delfosse" published in 1983 by the City of Montreal. However, when asked to identify these works, Mr. Desroches could only identify a single work in support of his claims in this regard. In fact, Mr. Desroches was constantly making statements and claims that were unfounded and unjustified. Another example must be noted: during his testimony, Mr. Desroches claimed that he gave a higher value to the Delfosse works that were used later for his oil paintings (although his reports do not reflect this). Again, when asked to identify the Delfosse works that were used for these purposes, Mr. Desroches could not provide a single example;
+(vi) Mr. Desroches stated that the value of the works donated as a collection is higher than the value of each work appraised individually. Again, this statement was not supported by examples from market sales;
+(vii) Lastly, I note that no definition of the FMV appears in these reports.
+[17] In all, the evidence shows that Mr. Desroches relied on his art salesman's flair to determine the FMV of the donated works instead of using the recognized appraisal standards.
+Mr. Fucito's appraisal
+[18] The appellant's other expert, Mr. Fucito, has 25 years of experience in the art field. He is the expert advisor and resource person for 17th century art to today. He has also carried out many appraisals for museums and institutions. He was the founding member and vice-president of the Association des galeries d’art contemporain de Montréal since 1986. He is the director of the Bernard art gallery. He was mandated by the appellants to provide a second opinion following the Minister's reassessments.
+[19] Since Mr. Fucito's justification for the values he attributed to the donated works is relatively short, I will reproduce it in its entirety:
+[translation]
+Donation: Martine Nantel and Denis Larocque.
+APPRAISAL JUSTIFICATION
+Artists: Georges Delfosse and Henri Hébert (respective lists in the appendix)
+Introduction
+People today are hungry for an identity. Man has a strong desire for history, a definite history that can sustain an intellectual tradition likely to ensure development, growth and confidence in one's destiny and abilities.
+The 20th century artist who explored the various fields of art outside those of Europe and the Orient opened our eyes and sharpened our awareness, allowing us to appreciate the quality and dimension of cultural and artistic values.
+Moreover, in the current world of reproduction, recycling and direct manipulations of images through the use of electronic gadgets and virtual reality, etc., planimetric and plastic works of art become increasingly important for furthering originality and authenticity in creativity and research. Elements must be rediscovered through the spring of our artistic endeavours, which becomes an important asset for both preparatory education and heritage reasons.
+Art is an ideal guardrail that prevents us from falling under the spell of an invasive technology that threatens to restrict free thought and, as a result, human freedoms.
+There is a market of museums, conservatories, experts, galleries, antique dealers, framers, lawyers, dentists, doctors, second-hand goods dealers, auctioneers, brokers, restorers, amateurs, collectors, artists, editors, critics, journalists, press agents; and there are also counterfeiters, mythomaniacs, speculators, con artists, mafia, thieves, receivers of stolen goods, the independently wealthy, and many other related people or services. The art market is different from other markets because purchases are generally bound up with desire and pleasure. There is the desire to show others up and the pleasure of owning something unique, rare and beautiful. In short, there is a definite visceral person-object connection involved in a purchase.
+Thanks to government donations, artwork has regained its notion of longevity, with museum collections making a statement that art is irreplaceable. Without support from governments and benefactors to museums, and considering the lack of fair funding to public institutions for artwork acquisitions, it would be impossible to preserve the authenticity of art and artistic creation.
+Art must not lose its ability to stand the test of time and creativity must not become fully dependent on consumer behaviour. Based on current trends, it seems the only sanction that applies to a cultural product is its success or failure on the market. Museums do not have acquisition budgets and the State imposes more and more cutbacks, hoping that the private sector will take over. Museums also owe their existence to taxpayers and are required to rely on donations to expand their collections, rather than on informed choices by their experts and curators, among the artists and galleries.
+The current arts support system shows that essentially everything is directly or indirectly supported by the State. The State helps with all types of creations through various support systems. The State supports the implementation of the works (movies, dance, visual arts, etc) by helping art galleries, parallel galleries, self-directed centres, artists associations. And again, it is the State, through federal-provincial sharing, that becomes the buyer through a system than encourages individual and corporate tax credits.
+Today, philanthropy is practised by the State, whose generosity and support make artistic creativity possible and contribute to the preservation of the cultural heritage. This is not irony but simply a statement. Even if today's utopia is leading us to austerity, the new moral principle is one of long-term responsibility.
+Justification
+The market value of artwork is not its only value. A comparison with other artists who have more support in terms of sales is called for. Delfosse and Hébert did not have the same dissemination as other artists such as Gérard Tremblay, Robert Taylor. Stanley Cosgrove, Jean Dallaire, Charles Daudelin, Rolland Giguère, Alfred Pellan and many others, or even Riopelle, who has one piece in the same technique and dimension as Delfosse and Hébert valued at $7,000, while those of Delfosse and Hébert are not valued any higher than $1,500 even if an analysis of their works shows us they are very important artists.
+In the present case, we are essentially talking about a corpus of 242 drawings by Delfosse and 50 by Hébert as if we were talking about documents of a parliamentarian or minister, or Commodore's baton (that was part of a donation made a few years ago for a very significant amount) and not objects on the consumer or speculative market. In fact, for all the artists in the same situation, consideration must be given to their documentary importance, which is indispensable for enhancing our collections. We must put an end to the idea that an artist's success can be measured solely in market terms by adding up the amounts of his bills. There is also an aesthetic movement in art that does not have a price and that is directly proportional to the importance it might have for a museum, as well as for the province or the artist's country of origin.
+In the case of Delfosse and Hébert, this corpus of works is sufficiently important that it can be considered a presence and an aesthetic, historical and preparatory education experience that honours both the Museum's collection and every one of us. Experience teaches us that it is important to safeguard artistic heritage by giving it an adequate market value corresponding to a moral responsibility to history.
+On this point, I believe the importance of Delfosse's and Hébert's artistic contribution should prevail, since it is a major donation. The works being appraised will have to be considered a testament to a period or era rather than a simple value linked to market fluctuations.
+While respecting the Commission's rules and provisions, I appraise the works of Delfosse and based on sale prices set by the Simon Blais Gallery and the Maison des Encans de Montréal (Iegor de St-Hyppolite); those of Hébert sold at auction and at the Laurier Museum and to comparable works by other artists that are part of our artistic and cultural heritage. I also think that the works generously offered to the Laurier Museum reflect a great aesthetic quality and quality of execution equal to that of other famous artists of that and subsequent periods (see Ozias Leduc, M.A. Fortin, F. Taylor, A. Dumouchet, to name but a few). I believe the range of values of the works being appraised is probably even larger: a price that would bring the recognition of Delfosse and Hébert closer to the artists mentioned above, who also contributed a great deal to our heritage on the search for aesthetics and art.
+Knowledge of the artistic, aesthetic and historical environment of the works is of utmost importance when appraising a corpus such as the one being considered in this document. These works might be comparable to artists from the same region, process and culture. In general, it is clear that citizens from other provinces do not have an interest in artists who are not from their region or province because the cultural and/or heritage value for Quebec is not the same as that for other Canadian provinces.
+The relevance of the artist is measured within the parameters of his cultural space and also based on the distribution and/or conservation of the works created during his life.
+Georges Delfosse and Henri Hébert are artists essentially relevant to the province of Quebec and both their popular and academic histories belong to us. Any other consideration leads us to potential errors of interpretation, prejudice or unclear connotations.
+The only way to look at the corpus being appraised is to consider the importance these works within the institutional collection of the Laurier Museum, which preserves the regional and provincial history and creativity of this country for the public. Otherwise, there may be further cultural and historical damage.
+As a specialist and appraiser of 17th century to modern art, I find the entire donation is fair and reflects the values obtained on a difficult, but current, market.
+It is thanks to the generous patrons that the works were saved from probable destruction or dispersal. This is the true historic and heritage significance of the works, beyond personal opinions or prejudices. The history of these two artists does not need to be made. Often, the artists to whom some people try to grant lesser importance have emerged as those who have opened the field to new methods and influences that deserve our highest consideration.
+It is important to remember that the most important construction site in Quebec, before Manic and James Bay, was the construction of churches. The most intense period is from 1866 to early 1914. A look at our history will show us the importance of religion in Quebec, which is actually considered the cradle of Catholic faith in America. Parish churches, for example, were and still are the centre of community life, witnesses to all events. It is natural that artists such as Georges Delfosse, Henri Hébert and many others looked at religion in our daily life with interest and passion and expressed their artistic feelings in drawings, sculptures and paintings.
+The art market
+The art market evolves differently than other markets because it is sensitive to trends, personal opinions, modern critics, and the public's ability to understand and be available to the arts.
+A work of art is not merchandise or a consumer product, and is even less so an industrial product or utilitarian object; it is a symbolic and psychological symbol of an era and represents a cultural and social moment in time of a people, a country or a region. The artist (I am talking here of the authentic artist, such as Delfosse and Hébert) expresses himself and creates works by vocation and not in response to any market.
+The works on paper by the two artists (Delfosse and Hébert) being appraised are not aesthetic stereotypes of a common language, but represent the originality and perseverance of the authors and their convictions. The sketches are also the necessary material (the work table) without which they would not have been able to create more important works. The impact of a sketch is proportional to what the artist wishes to impart on the collective memory and leave as a permanent sign of his presence and existence. The works of art are books whose pages are never turned.
+Often, artists are asked how much time they spent to create a specific work of art because we are used to allocating a price based on hours of work…and authentic artists reply 25 years or more…the number of years it took them to become artists; this answer is very significant and thought-provoking.
+To further justify the fair market value of the works submitted for my analysis and appraisal, we could refer to the works on paper (serigraph and other techniques) according to the Group of Seven or the works of Joe Fafard, etc, on the Canadian market or even in signed reproductions or those certified by foundations, museums or other organizations, that often surpass the original prices of the works being appraised, which are unique and original works.
+Inspection and analysis of works at the Laurier Museum
+After an inspection and visit of the Laurier Museum's storage area on the morning of Saturday, April 26, 2003, I was able to see the works that are the subject of this appraisal (Delfosse and Hébert) and handled them with white gloves for many hours. I can state that the works, without exception, are in excellent condition. They were duly deacidified and mounted on a two-ply cloth to further ensure handling was possible and help preserve their physical condition. This treatment ensures their durability, resistance and a better classification, exposition and/or storage in the Museum's storage area or in possible portable expositions or loans in the future.
+The significant collection of Delfosse works, for example, at the National Museum of Quebec, is additional confirmation of the importance of these two artists and their artistic actions at the time. Original works on paper that contributed to determining their personal journeys, it is no surprise that today they represent a gain, financially but also in terms of culture and heritage.
+I hope the people in charge will be able to appreciate the contribution of the artists in question and in this case, allocate, as in other cases, a lump sum amount worthy of their contribution, especially since they are no longer here to defend themselves.
+The value of the works analyzed is determined on the basis of the following characteristics: size (dimensions), medium, style, subject, state (condition), alterations and restoration, where relevant.
+Sales of works by Georges Delfosse
+Portait de femme (drawing) sold for $650 on July 3, 2002; 22 X 17 cm = 374 cm2 ($1.73 per cm2) – Simon Blais Gallery.
+Les trois soeurs (drawing) sold for $1,380 on October 22, 2002; 22.0 X 15.2 cm = 334.40 cm2 ($4.12 per cm2) – Iegor (Hôtel des encan).
+Reference value / cm2 of some sales used as examples
+1980 lead pencil drawing sold by Ritchie, 8.2 X 12 cm (98.4 cm2), $1.00 per cm2 1981 drawing (Maison rustique) sold by Empire, 11.4 X 15.5 cm (108 cm2) $0.90 per cm2
+1983 drawing – Lachine (1910), sold by Pinney's, 9 X 12 cm (108 cm2) $1.01 per cm2 1988 drawing – Rivière Richelieu, sold by H. des Encans, 14 X 23 cm (322 cm2) $1.00 per cm2 1989 drawing – vieil homme, sold by H. des Encans, 15.3 X 10.0 cm (153 cm2 ) $1.18 per cm2 1989 drawing – Repentigny, sold by H. des Encans, 12.5 X 22.5 cm (281 cm2) $1.16 per cm2
+…
+1998 drawing – À la campagne, sold by H. des Encans, 7.0 X 4.0 cm (28 cm2) $1.79 per cm2 1999 drawing – Eglise Repentigny (1916), sold by H. des Encans, 12 X 21 cm (252 cm2) $1.30 per cm2 1999 drawing – Eglise St Jean Baptiste/village, sold by H. des encans, 15.2 X 10.2 cm (15 cm2) $.096 per cm2 2002 drawing – Portait de femme, sold by S. Blais Gallery, 22 X 17 cm (374 cm2) $1.73 per cm2 2002 drawing – Les trois soeurs, sold by Iegor-Mtl, 22.0 X 25.2 cm (334.4 cm2) $4.12 per cm2
+This shows an upward trend to today; if the donation had been made in 2002, the amounts of the appraisal would certainly have been higher.
+Sales of Georges Delfosse drawings
+1- 23 X 12cm = 287.50 cm2 – $1.35 per cm2 (sale at auction) 2- 22.4 X 16.6 cm = 371.84 cm2 - $1.35 per cm2 (sale at Laurier Museum)
+1988-1989 = $1.25 cm2 1998-1999 = $1.54 cm2 1999 and 2000 = $1.35 per cm2 ($1.79 + $1.30 + $0.96 = $4.05 : 3 = $1.35)
+2002 = $2.92 per cm2
+The same applies to the works on paper (50) by Henri Hébert
+Other supporting documents for Henri Hébert's drawings
+René Jean Richard (1895-1982) 1- "Jeune trappeur", 1945—drawing, pencil on paper, 30 X 24 cm – sold on November 14 1995, at Hodgins (lot 288) in Calgary for $425. 2- "Campement", drawing, pastel, pencil, 33 X 42 cm – sold May 16, 1995, at the Hôtel des Encans de Montréal (lot 173) for $627. 3- "Grand Nord", drawing, pencil, 20 X 30 cm – sold on November 21, 1995, at the Hôtel des Encans de Montréal for $518. 4- "Trappeur", drawing, pencil, 34 X 30 cm – sold on November 21, 1995, at the Hôtel des Encans de Montréal (lot 40) for $720. 5- "The campfire/The dogs team", drawings, pencil, 24 X 28 cm (2) – (lot 275) sold on November 15, 1995, at Sotheby's Toronto for $1,800.
+Or: a. John G. Lyman (1886-1967) "Corinne", drawing, pencil, 25 X 20 cm and b. Frederick Horsman Varley (1881-1969) "Portait de femme", drawing, charcoal, 33 X 27 cm Both drawings sold at Sotehby's Toronto for $1,900.
+From the sales of two works by Georges Delfosse and an extrapolation of a parameter based on references of similar artists and works, I obtain a multiplying factor of $0.56 per cm2 of surface area, applicable to each work of Henri Hébert's being appraised.
+Reference document
+Here are a few comparisons with other artists who are part of our public collections; these are graphic works (original prints and serigraphs) in edition and not drawings.
+Albert Dumouchel – "Arte Nova", 1954, serigraph, 25.5 X 25.5 cm, sold for $1,000 in 1996.
+Albert Dumouchel – "L'étoile allait devant eux", 1960, embossing, 13 ed., 50 X 32 cm, sold for $2,000 in 1995.
+Albert Dumouchel – " Les amours du graveur Azechi", 1968, wood engraving, 3 ed., 29 X 48 cm, sold for $2,500 in 1993.
+Albert Dumouchel – "La victoire de Samotrace", 1961, etching, 13 ed., 50 X 32.5 cm, sold for $3,000 in 1995.
+Albert Dumouchel – "Vient, rentrons Honorine", 1969, wood engraving in black and white, 12 ed., 62 X 98 cm, sold for $2,550 in 1992.
+Albert Dumouchel – "Le couple danois", 1969, wood engraving in black and white, 14 ed., 58 X 54, sold for $1,750 in the spring of 1997 at the Hôtel des Encans de Montréal.
+Léon Bellefleur – "Les écureuils", 1968, lithograph, 18 ed. 49 X 38 cm, sold for $2,200 in 1994.
+Gérald Tremblay – "Les familles", 1956, serigraph, 50 ed., 55 X 65 cm, sold for $2,000 in 1994.
+Marcel Ferron – "La Ponche", 1957, serigraph, 50 ed., 55 X 65 cm, sold for $2,500 in 1995 (actual value $3,500).
+Paterson Ewen – "Blast", 1957, serigraph, 50 ed., 55 X 65 cm, sold for $2,800 in 1997.
+Yves Gaucher – "Asagao", 1961, embossing, 50 ed., 31 X 46 cm, sold for $3,000 in 1997.
+Yves Gaucher – "Paysage", 1958, etching, 10 ed., 20 X 25 cm, sold for $2,600 in 1997.
+Yves Gaucher – "1", 1959, wood engraving, 20 ed., 20 X 25 cm., sold for $2,000 in 1997.
+Conclusion
+Having completed my analysis, I have found the following values for the Georges Delfosse works donated by Martine Nantel:
+taking into consideration a value of $1.35 per cm2:
+163 works (total of 49,082 cm2): $66,260.00
+In my opinion, the fair market value of the works donated by Ms. Nantel is $66,260.00.
+As for the Delfosse works donated by Denis Larocque, I find the following values:
+taking into consideration a value of $1.35 per cm2:
+79 works (total of 37.215 cm2): $50,240.00
+In my opinion, the fair market value of the works donated by Mr. Larocque is $50,240.00.
+Lastly, for the Henri Hébert works, also donated by Denis Larocque, I have found the following values:
+taking into consideration a value of $0.56 per cm2:
+50 works: $19,705.00
+In my opinion, the fair market value of the works donated by Mr. Larocque is $19,705.00.
+Attached hereto, you will find a complete list of each of the donated works and their individual appraisals.
+Main criteria used to assess the fair market value: - Current condition of the works - significance of the artists in the modern art context - significance of the works and the relationship with the Laurier Museum's collection - connection with the art heritage movement in Quebec and Canada
+For the purposes of this appraisal, I quote the definition of fair market value as used by the Cultural Property Review Board in Ottawa:
+Fair market value: the highest price a property would bring between a willing buyer and a willing seller who are knowledgeable, informed and prudent and who are acting independently of each other.
+N.B. When taking photographs of these works, it is preferable to use black and white film rather than colour film to avoid the colour film altering the nuances of the image. The drawings, which are monochromatic, could be weakened and the intensity diminished because of the inherent difficulty in controlling the balance of whites and as a result tinting the paper, by reverberation, in ivory tones, darker than in reality, giving the impression the paper is dirty or stained rather than further defining the beautiful patina of time. These papers cannot be photographed with a flash or light above 4000 lumens, for conservation reasons; otherwise, the stability of the graphite and the molecular stability of the paper could be at risk, thus imperilling the conservation of the works.
+Appraiser's certification
+I, the undersigned, Gianguido Fucito, certify that I have no interest in the works being appraised, I have analyzed the property in person, the services and fees are in no way dependent upon the value of the appraisal, I have not previously sold the works by Georges Delfosse and Henri Hébert being appraised.
+Appraiser's qualifications
+More than 25 years of experience in transactions and analyses of artwork on the national and international markets: known here, in Europe and in the US as an expert advisor and resource person for 17th century art to today, including Inuit art. Appraiser and analyst for museums, institutions, many US university collections and private collections.
+In the past, I have owned and been the director of art galleries and been a partner in US and European galleries. I am a founding and signing member (1986) of the Association des galeries d'art contemporain de Montréal. Since December 1997, I have been the director and partner of the Galerie Bernard; member and Vice-President of the Association des galeries d'art contemporain (AGAC); my work includes the writing of articles and the creation of exhibition catalogues.
+The study of art in general and of modern and contemporary art in particular, teaching, and expertise in private collections, estates, public collections led me to build archives and references nationally and internationally, and there have been contacts and verbal, electronic (Internet) and written consultations with the network, my colleagues in Canada and abroad.
+I also have an excellent reference library and documentation on Canadian, Quebecois, Amerindian and European art. I also use the museums' libraries and the Internet quite often to carry out my appraisals.
+[20] Here, I note that the Mr. Fucito's analysis and findings on the FMV of the works donated by the appellants are not credible for the following reasons:
+(i) I note that in this report, Mr. Fucito named the four main criteria that he used to attribute a value to the donated works:
+- The current condition of the works;
+- The importance of the artists in the context of modern art;
+- The importance of the works and the link with the Laurier Museum's collection;
+- The connection with art heritage movement in Quebec and Canada;
+However, upon analysis of his report, it can be seen that his appraisal method can be summarized simply as a calculation of the average price per square centimetre of comparable sales, then multiplied by the surface area of each work appraised. Mr. Fucito was unable to explain that nonsense when questioned on the subject.
+(ii) I note that Mr. Fucito's reports state that the works, without exception, are in excellent condition whereas the evidence showed that many pieces were stained or torn;
+(iii) During his testimony on his report, Mr. Fucito noted that the value of works donated as a collection is higher than the value of each piece appraised individually. He explained that the value he attributed to each of the works was increased to this factor into account. First, I note that the report does not mention this. Moreover, it seems impossible that he attributed an additional value to the works to take into consideration the fact they were part of a collection, given the method used in his report to determine the FMV of the works, the basis of which was first to determine an average price per square centimetre from the sales of comparable works that were definitely not part of a collection. I add that this claim made by Mr. Fucito was not supported by any example whatsoever in the market.
+[21] Lastly, I note that I agree completely with Ms. Minard's findings against Mr. Fucito's report (Exhibit A-6), which also deserve to be reproduced in whole:
+[translation]
+Conclusion
+On the basis of my review of Mr. Fucito's appraisal report, it is my professional opinion that the value conclusions are not credible for the following reasons:
+The appraiser demonstrates bias throughout his report and advocates a valuation approach that is not consistent with recognized appraisal methods and techniques.
+In reporting the results of his appraisal, Mr. Fucito expresses his findings in a manner that is difficult to understand and could be misleading.
+While market data is the fundamental indicator of fair market value, the appraiser argues against its significance.
+While it is an appraiser's responsibility to assess monetary value on the basis of evidence derived from the marketplace, Mr. Fucito emphasizes non-monetary value and argues that it should be assigned monetary worth.
+The appraiser has not given consideration to supply and demand which is a fundamental principle of value.
+The appraiser attributes a "plus value" to original works on paper without any market data as substantiation.
+The appraiser's description of the art market on pages 2 through 5 is confused and does not provide the reader with relevant information about the specific markets for the works of George Delfosse and Henri Hébert.
+The citations and descriptions of sales of George Delfosse's work selected for comparison with the appraised properties are incomplete.
+The appraiser made irrelevant and inappropriate comparisons between other artists and George Delfosse and Henri Hébert.
+All recorded sales of drawings and watercolours by Henri Hebert are omitted.
+A great number of sales of works by Georges Delfosse are omitted from the appraiser's analysis.
+The definition of fair market value cited by the appraiser as being used by the Canadian Cultural Property Export Review Board omits the reference to an "open and unrestricted market" and, as such, is incomplete.
+Moreover, the following elements of a correctly prepared appraisal report are absent or incorrect, as follows:
+The effective date of the appraisal is not given.
+The intended users of the report are not specifically identified.
+The names of the parties present at the time of inspection are not included.
+A statement limiting the use of the appraisal to the assigned use is missing.
+A statement that the report is either a restricted-use, summary, or self-contained appraisal report is missing.
+A statement regarding readily apparent identity and/or authentications performed is missing.
+A statement regarding any liens, fractional interests, or other encumbrances understood to exist is missing.
+A statement that the appraisal is not an indication of ownership is missing.
+A statement that facts contained in the report are true and correct (USPAP) is missing.
+A statement of any limiting conditions encountered or critical assumptions made (USPAP) is missing.
+A statement that the appraiser has no bias towards the parties or property involved (required by the USPAP statement) is missing.
+A statement that initial engagement of the appraiser is not contingent (required by the USPAP statement) is missing.
+A statement regarding use of other appraisers or experts who provided significant professional assistance (USPAP) is missing.
+A statement as to which standard(s) the appraisal was written to, e.g. the ISA Appraisal Report Writing Standard, USPAP (the latter required by USPAP), etc. is missing.
+A statement(s) limiting the misuse and/or alteration of the appraisal report is missing.
+A statement of confidentiality is missing.
+The USPAP certification statement prefaced with "I certify that to the best of my knowledge and belief" or other certification or attestation consistent with the Uniform Standards of Professional Appraisal Practice is missing.
+Ms. Minard's appraisal
+[22] Immediately, I must point out that the appraisal report of Ms. Minard, whose expertise, competence and experience are quite impressive, constitutes an analysis based on a strict and structured method that is based on the recognized appraisal principles.
+[23] Ms. Minard first testified on the extent of the work she undertook to write her report. She explained that the work required, in particular, a review of the biographical data and documentation of both artists; images of all their works in public galleries, auction catalogues and museum Internet sites. In the case of Delfosse she reviewed paintings, sketches, studies and drawings for sale at auctions and in Toronto art galleries. Moreover, she met with Montreal art merchants to discuss representative samples of works by these artists and the markets for these works. She added that she had contacted the auction houses Les Encans Penney and the Hôtel des Encans de Montréal. Ms. Minard also explained that she personally examined each of the works appraised.
+[24] Ms. Minard then explained that, to determine the FMV of the works, she also compared sales to conduct the appraisal; this means comparing the property appraised with similar property that had been sold on the market where they would normally be offered for sale to the public. Ms. Minard added that her research showed her that property that was comparable to the donated works was most frequently sold to the public during auctions, mainly through regional auction houses and, as a result, the market was appropriate for determining the FMV of the donated works. It is of note that Ms Minard stated that the comparison of the donated works with the works sold at auctions is limited because there are no illustrations of the works sold since articles of lesser value are not usually illustrated in the catalogues at auctions. She had to rely on the information she obtained from the artwork merchants and auctioneer commissioners in Montreal, and on their opinions about the quality of the works sold during the auctions compared to the donated works. Lastly, she explained that she considered the prices paid at the auctions only reflected the value of the design or sketch, and not the value associated with framing the works.
+[25] Ms. Minard determined that the total FMV of the donated works was $26,599. She explained that this figure represents the amount that would have been obtained if the works of art had been sold separately or in small blocks, and would have been paid through many auction houses across Canada, so that the unfavourable effect of a simultaneous sale of a large number of similar works would be reduced. However, she explained that if the works had been sold in a block, namely two blocks of 163 and 79 Delfosse works and one block of 50 Hébert works, the most likely buyer would have been an artwork merchant, an archives centre or a museum. She explained that if the property in question had been sold in one block, the highest price that could have been obtained would have been around 25% of the price that could have been obtained from individual sales since, generally, the price a purchaser pays in a block is lower than that paid if each piece is sold individually.
+Analysis and conclusion
+[26] For donations, the Act does not define the FMV. The classical definition is found in the case law. The one provided by Cattanach J. of the Federal Court of Canada, Trial Division, in Henderson Estate and Bank of New-York v. M.N.R., 73 D.T.C. 5471 (F.C.), Cattanach J.; confirmed in 75 D.T.C. 5332 (F.C.A.), is the commonly cited:
+I do not think it necessary to attempt an exact definition of the expression as used in, the statute other than to say that the words must be construed in accordance with the common understanding of them. That common understanding I take to mean the highest price an asset might reasonably be expected to bring if sold by the owner in the normal method applicable to the asset in question in the ordinary course of business in a market not exposed to any undue stresses and composed of willing buyers and sellers dealing at arm's length and under no compulsion to buy or sell. I would add that the foregoing understanding as I have expressed it in a general way includes what I conceive to be the essential element which is an open and unrestricted market in which the price is hammered out between willing and informed buyers and sellers on the anvil of supply and demand. These definitions are equally applicable to 'fair market value and 'market value' and it is doubtful if the use of the word 'fair' adds anything to the words 'market value'.
+[27] In general, the FMV is a question of fact. To determine the FMV of property, first the most relevant market on which the property could be found at the time of the donation must be determined. Since the existence of such a market is also a question of fact, the specific market for the type of property in question must be determined, since supply and demand are crucial factors.
+[28] In this case, since at the time of the donations, there was no particular market for works similar to those donated to the museum in ordinary business dealings, I share Ms. Minard's opinion that the market, mainly that involving the sale of individual works at public auctions and, alternatively, retail sales of individual works, should be used as an indirect indicator for determining the FMV of the works donated to the museum. Since it is a block disposition, I agree with Ms. Minard's opinion that a discount (in this case, 75%) should apply to increase the offer and take into consideration the lowering effect on retail sales caused by a large number of works by the same artist being on the market at the same time. In short, I agree that the FMV of the donated works Ms. Minard determined is correct since she based her appraisal on a strict, structured process guided by the recognized appraisal principles, which I agree with completely.
+[29] The appellants' general claims are that the Minister, in his assessment, neglected to consider that the museum is a special purchaser with a specific and different interest for this collection of works, that after acquisition it wanted to use it for different purposes than other potential buyers and therefore, this special purchaser was ready to pay a higher price than other buyers would have been willing to pay. In other words, the appellants claim that the most relevant market for this collection of works was the museum because this collection of works corresponded exactly to the museum's vocation, leading to its particular interest in acquiring it, and at much higher price than other potential buyers would have been willing to pay. The appellant cited some cases that recognized the concept of the special purchaser with a particular interest in a property and a desire to use that property after acquiring it for purposes other than those of other potential buyers, and that the FMV could be the highest price the property may have for this "special purchaser" compared to the price others would be willing to pay. On this, counsel for the appellants claimed that his clients had shown that this collection fit in with the museum's vocation and the museum had the financial resources to acquire it.
+[30] In my opinion, the theory of the special purchaser does not easily apply in the context of donations. It cannot be retained if the application is hypothetical and is not based on facts. The existence of a special purchaser must be shown by in the evidence: it must be shown that a person would have paid a higher amount of money than other buyers to acquire property. In the case of donations to a museum, it must be shown that without the donations, the works would only have been acquired by paying a higher price than what others would have paid. In this case, the appellants, who have the burden of proof, must show that other persons were seeking to acquire these lots of works and that the museum was ready to pay a higher price to acquire them. They have not done so. The appellants could have indirectly shown that the museum was a special purchaser by showing that there were sales of comparable works to museums and that the price these museums paid is generally higher than the price paid in the ordinary course of business. Once again, the appellant's did not offer any evidence on this subject.
+[31] The appellants claim that the works donated to the museum were collections, that these collections fit in with the museum’s nature and that the principle of a discount in cases of increased offers do not apply in this case. In other words, the appellants claim that the presence of a collection had a positive effect on the FMV.
+[32] It is true that the appellant has shown that the works donated to the museum were collections and that, at the time of the donations, the collections were in keeping with the museum's nature. But again, to counteract the discount principle, the appellants had to show that the museum, without the donations, would have been ready to pay to acquire these collections and moreover, that the museum could not have acquired these collections unless they paid more than the price other buyers were ready to pay. In my opinion, without many other potential buyers with such a particular interest, it is difficult if not impossible to quantify the positive effect the existence of the collection in itself has on the FMV. In other words, in such a case, it becomes nearly impossible to show that the museum would have paid a higher price. The appellants could have proven this indirectly by showing that museums, when there is no other particular interest in acquiring a collection of artwork, are always willing to pay a higher price than other purchasers that do not have this particular interest.
+[33] Since the appellants have not shown that the FMV of the works of art they donated to the museum was higher than the FMV the Minister determined, the appeals are dismissed with costs.
+Signed at Bromont, Quebec, this 23rd day of November 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 31st day of March 2010.
+François Brunet, Revisor
+CITATION: 2009 TCC 599
+COURT FILE NO.: 2006-3539(IT)G, 2006-3540(IT)G
+STYLE OF CAUSE: MARTINE NANTEL, DENIS LAROCQUE and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: October 15, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: November 23, 2009
+APPEARANCES:
+Counsel for the appellant:
+Mario Proulx
+Counsel for the respondent:
+Anne-Marie Boutin
+COUNSEL OF RECORD:
+For the appellant:
+Name: Mario Proulx
+Bélanger, Sauvé, S.E.N.C.R.L.
+Firm: Montréal (Québec)
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Anthony Westbridge, The Collector's Dictionary of Canadian Artists at Auction, Volume One: A-F, Westbridge Publications Limited, 1999, p. 88.
+[2] Ralph Mayer, The Harper Collins Dictionary of Art Terms & Techniques, 2nd Edition, 1991, p. 386.
+[3] Ibid., p. 406-307.
+[4] [No footnote information provided].
+10 Anthony Westbridge, The Collector's Dictionary of Canadian Artists at Auction, Volume Two: G-L, Westbridge Publications Limited, 2000, p. 44.
+12 Janet M. Brooke, Henri Hébert: Un sculpteur moderne 1884-1950, Musée du Québec, October 4, 2000.
+13 Ralph Mayer, The Harper Collins Dictionary of Art Terms & Techniques, 2nd Edition, 1991, p. 386.
+14 Ibid. pp. 406-407.

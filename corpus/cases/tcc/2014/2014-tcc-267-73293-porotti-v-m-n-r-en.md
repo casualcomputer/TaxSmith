@@ -1,0 +1,156 @@
+---
+title: "Porotti v. M.N.R"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/73293/index.do"
+last_modified: "2014-09-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 267"
+citation2: ""
+neutral_citation: "2014 TCC 267"
+decision_date: "2014-09-05"
+language: "en"
+item_id: "73293"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5183
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:35:08.846000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "636dfa76efa9c4d2ceb88cb236a3f5ceda1b05c3c1525e66cafae5a971b18afe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Porotti v. M.N.R
+
+- Citation: 2014 TCC 267
+- Decision date: 2014-09-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5183, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Porotti v. M.N.R
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-09-05
+Neutral citation
+2014 TCC 267
+File numbers
+2013-2800(CPP), 2013-2801(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2013-2800(CPP)
+2013-2801(EI)
+BETWEEN:
+MICHELLE POROTTI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on March 20 and June 19, 2014 at Vancouver, British Columbia
+By: The Honourable Justice Judith M. Woods
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Holly Popenia
+JUDGMENT
+Upon appeal with respect to a decision of the respondent under the Employment Insurance Act and the Canada Pension Plan that the appellant was not engaged in insurable or pensionable employment with Royal Ascot Care Centre Ltd. for the period from January 1, 2012 to August 8, 2012, the appeal is dismissed and the decision of the respondent is confirmed.
+Signed at Toronto, Ontario this 5th day of September 2014.
+“J. M. Woods”
+Woods J.
+Citation: 2014 TCC 267
+Date: 20140905
+Dockets: 2013-2800(CPP)
+2013-2801(EI)
+BETWEEN:
+MICHELLE POROTTI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Michelle Porotti appeals a decision of the Minister of National Revenue that she was engaged as an independent contractor with Royal Ascot Care Centre Ltd. (“Royal Ascot”) and accordingly was not engaged in insurable employment under the Employment Insurance Act or pensionable employment under the Canada Pension Plan. The period at issue is from January 1, 2012 to August 8, 2012.
+Background [2] Royal Ascot is a privately-owned long term care facility. Ms. Porotti became engaged by the corporation in 2007 to implement a computerized resident assessment system that had been recently mandated by the B.C. government. Ms. Porotti’s position, called clinical lead, was funded by the government and was expected to last about two years.
+[3] The project lasted a year longer than expected, but Ms. Porotti stayed on further to implement additional computer projects for Royal Ascot.
+[4] In 2012, the relationship abruptly ended after Ms. Porotti and Royal Ascot had a falling out concerning the collection of goods and services tax.
+Applicable legal test [5] The test that is to be applied in determining whether a worker is engaged in employment is summarized in 1392644 Ontario Inc. (cob Connor Homes) v M.N.R., 2013 FCA 85, at paragraphs 38 to 41.
+[38] Consequently, Wolf and Royal Winnipeg Ballet set out a two step process of inquiry that is used to assist in addressing the central question, as established in Sagaz and Wiebe Door, which is to determine whether the individual is performing or not the services as his own business on his own account.
+[39] Under the first step, the subjective intent of each party to the relationship must be ascertained. This can be determined either by the written contractual relationship the parties have entered into or by the actual behaviour of each party, such as invoices for services rendered, registration for GST purposes and income tax filings as an independent contractor.
+[40] The second step is to ascertain whether an objective reality sustains the subjective intent of the parties. As noted by Sharlow J.A. in TBT Personnel Services Inc. v. Canada, 2011 FCA 256, 422 N.R. 366 at para. 9, “it is also necessary to consider the Wiebe Door factors to determine whether the facts are consistent with the parties’ expressed intention.” In other words, the subjective intent of the parties cannot trump the reality of the relationship as ascertained through objective facts. In this second step, the parties intent as well as the terms of the contract may also be taken into account since they colors the relationship. As noted in Royal Winnipeg Ballet at para. 64, the relevant factors must be considered “in the light of” the parties’ intent. However, that being stated, the second step is an analysis of the pertinent facts for the purpose of determining whether the test set out in Wiebe Door and Sagaz has been in fact met, i.e whether the legal effect of the relationship the parties have established is one of independent contractor or of employer-employee.
+[41] The central question at issue remains whether the person who has been engaged to perform the services is, in actual fact, performing them as a person in business on his own account. As stated in both Wiebe Door and Sagaz, in making this determination no particular factor is dominant and there is no set formula. The factors to consider will thus vary with the circumstances. Nevertheless, the specific factors discussed in Wiebe Door and Sagaz will usually be relevant, such as the level of control over the worker’s activities, whether the worker provides his own equipment, hires his helpers, manages and assumes financial risks, and has an opportunity of profit in the performance of his tasks.
+Application to facts (a) Assessment of testimony [6] Five individuals who had worked at Royal Ascot testified at the hearing: Ms. Porotti, Abigail Hakim, Kelly Rose, Cheryl Scarlett and Jacqueline Orina.
+[7] I generally found the witnesses to be credible, with the exception of Ms. Porotti. Some of the circumstances which have led me to doubt the reliability of Ms. Porotti’s evidence are set out below.
+- In her resume, Ms. Porotti stated that she was self-employed as “M. Porotti Office Services” since 1993. At the hearing, Ms. Porotti denied that she had been self-employed and said that the resume had been padded. Whether this is true or not, Ms. Porotti’s credibility is called into question.
+- In an email to Joanna Martin dated February 22, 2012, Ms. Porotti stated that she was not employed by Royal Ascot and that she was self-employed. At the hearing, Ms. Porotti stated that she did not want to tell Ms. Martin the truth. Again, these circumstances suggest a problem with the reliability of Ms. Porotti’s testimony.
+- At the hearing, Ms. Porotti sought to explain why she under-reported her Royal Ascot income on her tax returns. She stated that Royal Ascot’s administrator, Ms. Scarlett, advised her to report as self-employed so that she could get a tax deferral. Ms. Scarlett vehemently denied saying this, and I find Ms. Porotti’s explanation to be implausible.
+[8] Accordingly, to the extent that Ms. Porotti’s testimony conflicted with the testimony of the other witnesses, I generally prefer their testimony.
+(b) Intention [9] The first question is the intent of the parties. Despite the testimony of Ms. Porotti to the contrary, I find that the parties clearly intended an independent contractor relationship.
+[10] The evidence reveals that the parties continuously treated the relationship as an independent contractor relationship, which was also consistent with Royal Ascot’s policy when hiring non-nursing staff. No tax was withheld, Ms. Porotti provided invoices, her resume described herself as being self-employed, and Ms. Porotti attempted to collect GST.
+[11] Since I have found Ms. Porotti’s testimony to be unreliable, it is clear that the mutual intent of the parties was an independent contractor relationship. I now turn to the Wiebe Door analysis to determine whether the intent is consistent with the objective reality.
+(c) Control [12] The ability of the payor to control the manner in which the work is done is often an important criterion in determining the nature of the relationship.
+[13] On this issue, the testimony of Ms. Porotti and Ms. Scarlett were in stark contrast.
+[14] Ms. Porotti testified at length as to situations in which she performed services unrelated to her main role relating to new computer systems. She stated that much of this was at the direction of Ms. Scarlett.
+[15] It is clear that Royal Ascot provided some ancillary work for Ms. Porotti but I do not think that this was at the direction of Royal Ascot. Ms. Scarlett testified that Ms. Porotti was very good at marketing her administrative skills and that she had much to offer in that regard. In my view, Ms. Porotti was entrepreneurial in her approach to the job, and she sought out and agreed to many ancillary tasks that were given to her. However, in my view these ancillary tasks were not mandatory and were incidental to Ms. Porotti’s main role.
+[16] In reaching this conclusion, I am mindful of the witnesses who stated that Ms. Scarlett generally got her way. That may be the case, but I find that Ms. Porotti sought out these additional duties.
+[17] Overall, I find that Royal Ascot treated Ms. Porotti as an independent contractor who was hired for a specific task and she mainly managed that task without direction except for reasonable reporting to Royal Ascot.
+[18] I find that the control factor strongly favours an independent contractor relationship.
+(d) Provision of equipment [19] I find that Royal Ascot generally provided the necessary equipment for the job (i.e., an equipped office), with a noted exception of times in which Ms. Porotti used her own vehicle to perform errands on behalf of the organization.
+[20] The provision of office equipment is not uncommon in an independent contractor relationship, but I find that this factor slightly favours an employment relationship.
+(e) Ability to hire helpers [21] It is likely that the hiring of helpers by Ms. Porotti would have been inconsistent with the arrangement between the parties. This is not uncommon in an independent contractor relationship and I find that this factor is not significant.
+(f) Manages and assumes financial risk [22] I have not given this factor any weight since the parties did not focus on it. Since it was intended that Ms. Porotti be an independent contractor, it is likely that she bore some risk in the event that she failed to adequately perform the services that she agreed to do.
+(g) Opportunity for profit [23] Ms. Porotti was paid on an hourly basis, on the understanding that she would work approximately 37.5 hours per week. This factor generally favours an independent contractor relationship because of the entrepreneurial approach that Ms. Porotti took to the relationship which led to an expansion of the work that she did for Royal Ascot.
+(h) Conclusion [24] In this case, the objective reality supports the parties’ intention that Ms. Porotti was engaged as an independent contractor. The appeal will be dismissed.
+Signed at Toronto, Ontario this 5th day of September, 2014.
+“J. M. Woods”__________
+Woods J.
+CITATION:
+2014 TCC 267
+COURT FILE NO.:
+2013-2800(CPP)
+2013-2801(EI)
+STYLE OF CAUSE:
+MICHELLE POROTTI and THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+March 20 and June 19, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith M. Woods
+DATE OF JUDGMENT:
+September 5, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Holly Popenia
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

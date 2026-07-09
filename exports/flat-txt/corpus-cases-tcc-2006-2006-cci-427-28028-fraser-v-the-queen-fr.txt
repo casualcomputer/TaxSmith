@@ -1,0 +1,191 @@
+Title: Fraser v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28028/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-427-28028-fraser-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-07-27
+
+# Fraser v. The Queen
+
+- Citation: 2006 CCI 427
+- Decision date: 2006-07-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1614, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fraser v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-27
+Référence neutre
+2006 CCI 427
+Numéro de dossier
+2005-3990(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+No de dossier : 2005-3990(IT)I
+ENTRE :
+EARL FRASER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu avec l’appel connexe de Darla Fraser (2005‑3972(IT)I)
+à Kelowna (Colombie-Britannique), le 9 juin 2006.
+Devant : M. le juge T. O’Connor
+Comparutions :
+Représentant de l’appelant :
+G.A. Maile
+Avocate de l’intimée :
+Me Sara Fairbridge
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2001, 2002 et 2003 sont admis compte tenu de ce qui suit :
+1. La déduction demandée par l’appelant pour l’année d’imposition 2001 au titre des frais sur marge de 2 012,00 $ relatifs à un investissement est refusée;
+2. Les montants de la déduction pour amortissement (« DPA ») devant être refusés au titre de l’ordinateur (catégorie 10) se chiffrent à 599,06 $ en 2002 et à 419,34 $ en 2003;
+3. Les montants de la DPA devant être accordés au titre d’une ou de plusieurs remorques se chiffrent à 906,28 $ en 2002 et à 1 790,03 $ en 2003;
+4. Le montant de la DPA demandée par l’appelant en 2002 au titre de la camionnette 2002 doit faire l’objet d’un nouveau calcul de la façon suivante : le montant de base de la DPA doit être augmenté de 1 435,37 $ et accordé comme le demande l’appelant, en particulier sur le fondement que la camionnette 2002 est un bien appartenant à la catégorie 10;
+5. Pour l’année 2002, la somme de 3 902,99 $ ne doit faire l’objet d’aucune récupération de la DPA;
+6. Les frais de repas et de représentation devant être refusés se chiffrent à 200,50 $ en 2002 et à 291,50 $ en 2003;
+7. Les frais de véhicule à moteur de 1 435,32 $, demandés en 2002, constituent des dépenses en capital et sont refusés comme dépenses engagées;
+8. Les sommes définitives refusées au titre des frais de véhicule à moteur se chiffrent à 1 999,00 $ en 2002 et à 451,17 $ en 2003;
+9. La somme de 2 580,00 $ demandée à titre de frais de déplacement en 2002 est refusée;
+10. Les frais « juridiques et comptables » devant être refusés en 2003 se chiffrent à 287,88 $.
+Les nouvelles cotisations sont renvoyées au ministre du Revenu national pour qu’il les examine à nouveau et établisse de nouvelles cotisations conformément aux motifs du jugement ci‑joints. Les dépens, le cas échéant, sont adjugés en faveur de l’appelant.
+Signé à Ottawa, Canada, ce 27e jour de juillet 2006.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 30e jour de mai 2007.
+Maurice Audet, réviseur
+Référence : 2006CCI427
+Date : 20060727
+No de dossier : 2005-3990(IT)I
+ENTRE :
+EARL FRASER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O’Connor
+[1] Le présent appel soulève plusieurs questions touchant les années d’imposition 2001, 2002 et 2003 de l’appelant.
+2001
+[2] La seule question visant l’année d’imposition 2001 concerne le refus, par le ministre, de la déduction demandée par l’appelant au titre des frais sur marge de 2 012,00 $ relatifs à un investissement. À l’audience, l’avocate de l’intimée et le représentant de l’appelant ont convenu que le refus était fondé et qu’il devait être maintenu. Par conséquent, la déduction demandée par l’appelant pour l’année d’imposition 2001 au titre des frais sur marge de 2 012,00 $ relatifs à un investissement est refusée.
+2002 et 2003
+[3] Au cours des années 2002 et 2003, l’appelant exploitait une entreprise individuelle de cloisons sèches. Son domicile et son établissement principal étaient situés à Westbank (Colombie‑Britannique). En 2002 et 2003, les chantiers de construction où il travaillait se trouvaient dans la région de Westbank et dans diverses autres collectivités situées dans l’Ouest et dans le Nord du Canada, y compris à Aldergrove, à Big White, à Vancouver et à Yellowknife.
+[4] Avant de traiter des diverses dépenses refusées par le ministre, il faut signaler que la réponse mentionne notamment, à l’article 10, que le ministre a inclus, pour l’année d’imposition 2003, un revenu d’intérêt gagné mais non déclaré de 924,41 $ et, à l’alinéa 13(g), que l’appelant n’a pas fait les achats refusés de 1 950,00 $ en 2003. Ces assertions n’ont pas été contestées, mais aucun élément de preuve n’a été présenté par l’appelant ou par l’intimée. En conséquence, je ne formule aucune conclusion sur ces points.
+[5] La question des dépenses en 2002 et en 2003 touche au refus concernant diverses dépenses d’entreprise déduites par l’appelant. Les paragraphes suivants de la réponse du ministre présentent un résumé de l’ensemble du revenu et des dépenses déclarés de l’entreprise ainsi que des dépenses refusées.
+[TRADUCTION]
+5. Lorsqu’il a calculé le revenu pour l’année d’imposition 2002, l’appelant a déclaré un revenu d’entreprise brut de 52 359,00 $ et un revenu d’entreprise net de 26 872,10 $, comme il est précisé dans l’annexe « A » ci‑jointe.
+6. Lorsqu’il a calculé le revenu pour l’année d’imposition 2003, l’appelant a déclaré un revenu d’entreprise brut de 56 423,18 $ et un revenu d’entreprise net de 29 078,05 $, comme il est précisé dans l’annexe « B » ci‑jointe.
+[...]
+9. Par un avis daté du 29 décembre 2004, le ministre a établi une nouvelle cotisation pour l’année d’imposition 2002 de l’appelant afin de refuser des dépenses d’entreprise et une DPA de 17 633,44 $, ce qui a eu pour effet d’augmenter le revenu d’entreprise net à 44 505,54 $, comme il est précisé dans l’annexe « A » ci‑jointe.
+10. Par un avis daté du 29 décembre 2004, le ministre a établi une nouvelle cotisation pour l’année d’imposition 2003 de l’appelant afin de refuser des dépenses d’entreprise et une DPA de 13 890,63 $, ce qui a eu pour effet d’augmenter le revenu d’entreprise net à 42 968,68 $, comme il est précisé dans l’annexe « B » ci‑jointe. [...]
+[6] La principale question en litige intéresse le refus de la déduction pour amortissement (« DPA ») et elle sera examinée en premier. Les autres dépenses refusées ont relativement peu d’importance en regard de la question liée à la DPA et elles seront donc abordées plus loin.
+[7] Certaines DPA demandées en 2002 et en 2003 ont été refusées. Les calculs portent sur cinq biens : (1) un ordinateur (« ordinateur »), (2) une camionnette à quatre roues motrices de marque Chevrolet K2500 de l’année 2002 (« camionnette 2002 ») acquise le 19 août 2002 au coût de 49 600,00 $, quoique la somme inscrite aux livres de l’appelant à l’égard de ce bien soit de 53 464,00 $, apparemment pour tenir compte des taxes et de certains autres éléments d’importance secondaire, (3) une remorque Gulfstream 2001 acquise le 14 août 2003 (« remorque Gulfstream »), (4) une remorque Dutchman Trailer 1991 (« remorque Dutchman ») et (5) une camionnette 1996 (« camionnette 1996 »).
+[8] Les annexes « C » et « D » de la réponse fournissent des précisions sur les DPA demandées et les DPA refusées.
+[9] Les annexes « C » et « D » montrent que l’ordinateur a été inscrit comme un bien appartenant à la catégorie 10, dont la fraction non amortie du coût en capital (« FNACC ») s’élève à 2 218,75 $ en 2002 et à 1 553,12 $ en 2003. Cette déduction a apparemment été demandée en fonction d’une FNACC de 100 pour 100 au taux de 30 pour 100, ce qui a donné lieu à une DPA de 665,63 $ en 2002 et de 465,94 $ en 2003. Le ministre a refusé l’intégralité de cette DPA au motif qu’il s’agissait d’un bien servant à 100 pour 100 à des fins personnelles. Il ressort de la preuve que l’ordinateur était utilisé à des fins commerciales uniquement dans une proportion de 10 pour 100 et qu’il servait à des fins personnelles dans une proportion de 90 pour 100. Le montant de DPA qui doit être refusé en ce qui concerne l’ordinateur équivaut donc à 90 pour 100 des sommes demandées, à savoir 90 pour 100 de 665,63 $, soit 599,06 $, pour 2002, et 90 pour 100 de 465,94 $, soit 419,34 $, pour 2003.
+[10] En 2002, l’appelant a demandé une DPA de 1 812,57 $ relativement à la remorque Dutchman inscrite comme bien appartenant à la catégorie 8 et dont la FNACC se chiffrait à 9 062,85 $. Le ministre a refusé cette déduction parce que, selon lui, la remorque Dutchman était utilisée à 100 pour 100 à des fins personnelles.
+[11] Suivant l’annexe « D », pour 2003, la seule modification apportée par la nouvelle cotisation en ce qui a trait aux deux remorques (catégorie 8) consiste à considérer que l’utilisation à des fins personnelles s’élève à 83,33 pour 100 et à défalquer d’autant la DPA demandée (et accordée) de 3 580,06 $. La DPA demandée relativement aux deux remorques a donc été réduite de 2 983,38 $.
+[12] À mon avis, à la lumière de l’ensemble de la preuve, et en particulier du fait que les deux remorques étaient utilisées pour réduire les frais de motel aux chantiers de construction éloignés, la diminution au titre de l’utilisation à des fins personnelles ne doit être que de 50 pour 100 en 2002 et en 2003 pour les deux remorques. Par conséquent, les montants de la DPA devant être accordés sont les suivants :
+a) Pour la remorque Dutchman en 2002 – 50 pour 100 de 1 812,57 $, soit 906,28 $;
+b) Pour les deux remorques en 2003 – 50 pour 100 de 3 580,06 $, soit 1 790,03 $.
+[13] À l’annexe « C », pour 2002, le chiffre de 8 697,01 $ inscrit relativement au premier bien de catégorie 10 vise la camionnette 1996 que l’appelant a donnée en échange, pour une valeur de 12 600,00 $, lorsqu’il a acheté la camionnette 2002. La dépense en capital déduite s’élève à 53 464,00 $, soit le coût total de la camionnette 2002 inscrite comme bien de la catégorie 10. Après des rajustements apparemment liés à une répartition fondée sur l’année d’acquisition de la camionnette 2002 et de la disposition de la camionnette 1996, le montant de base au titre de la DPA demandée devient 29 129,01 $, ce qui donne, pour 2002, une DPA totale de 8 738,70 $ au taux de 30 pour 100.
+[14] Selon la nouvelle cotisation pour 2002 figurant à l’annexe « C », la camionnette 2002 appartient à la catégorie 10.1 et fait donc l’objet d’une limite de coût de 30 000 $ plus la TVP et la TPS, ce qui correspond au coût montré pour ce bien, soit 32 250,00 $, lequel, après application de la règle de la demi‑année, devient 16 125,00 $ et qui, au taux de 30 pour 100, donne une DPA de 4 838,00 $. Comme elle attribue en outre à la camionnette 2002 une utilisation à des fins personnelles de 25 pour 100, la nouvelle cotisation a pour effet de réduire cette somme de 4 838,00 $ à 3 628,30 $. Dans la nouvelle cotisation, la camionnette 2002 est considérée comme un bien appartenant à la catégorie 10.1 et elle est donc retirée de la catégorie 10. Par conséquent, la disposition de la camionnette 1996 donne lieu à la somme négative de 3 902,99 $ et à la récupération de cette somme dans le revenu.
+[15] À l’annexe « D », pour 2003, l’appelant continue de considérer la camionnette 2002 comme un bien appartenant à la catégorie 10 et il demande une DPA de 12 246,69 $. De même, la nouvelle cotisation traite encore cette camionnette comme un bien de la catégorie 10.1, ce qui réduit la DPA à 8 224,00 $.
+[16] Le ministre fait valoir que la camionnette 2002 constitue un bien appartenant à la catégorie 10.1 et que le coût à établir pour l’application de la DPA se limite à la somme de 30 000,00 $ plus les taxes applicables, même si le coût total de ce bien, taxes comprises, était de 53 464,00 $, ce qui correspond au montant du coût en capital sur lequel l’appelant s’est appuyé pour demander la DPA. Il découle également de cette situation que, si la camionnette 2002 est un bien appartenant à la catégorie 10.1, il faut ajouter au revenu de l’appelant pour 2002 la somme de 3 902,99 $ en raison de la récupération de la DPA sur la disposition faite par voie d’échange de la camionnette 1996, comme il est mentionné plus haut. La camionnette 1996 constituait un bien appartenant à la catégorie 10. Si la camionnette 2002 est également un bien appartenant à cette catégorie, aucune récupération n’a lieu. Toutefois, si la camionnette 2002 constitue un bien de catégorie 10.1, il y a alors récupération. En outre, si la camionnette 2002 est un bien de catégorie 10 plutôt que de catégorie 10.1, la limite de coût de 30 000,00 $ plus taxes ne s’applique pas et le coût du marchepied et de la boule d’attelage, engagé en 2002 (1 435,32 $), doit être ajouté au coût en capital de la camionnette 2002 aux fins de la DPA. Comme il a déjà été mentionné, cette somme avait un caractère de capital et c’est donc à tort qu’elle a été déduite à titre de dépense. Par ailleurs, si la limite de 30 000,00 $ plus taxes ne s’applique pas, la somme de 1 435,32 $ doit être ajoutée au coût en capital de la camionnette 2002.
+[17] Il s’agit donc de savoir si la camionnette 2002 est un bien appartenant à la catégorie 10 ou à la catégorie 10.1. Pour trancher cette question, il est nécessaire d’analyser les dispositions applicables de la Loi de l’impôt sur le revenu (la « Loi »).
+Analyse
+[18] La camionnette 2002 était‑elle une automobile et une voiture de tourisme, au sens des définitions données à l’article 248 de la Loi, et donc un bien appartenant à la catégorie 10.1 de l’annexe II du Règlement de l’impôt sur le revenu, ou s’agissait‑il de « matériel automobile » au sens de la catégorie 10? Si ce bien appartient à la catégorie 10.1, le taux de déduction est de 30 pour 100, mais le coût maximal pouvant être demandé se limite à 30 000,00 $ plus la TPS et la TVP. S’il appartient à la catégorie 10, le taux de déduction est également de 30 pour 100, mais il n’est assujetti à aucune limite.
+[19] La catégorie 10.1 vise « [l]es biens – voitures de tourisme dont le coût individuel, pour le contribuable, dépasse [30 000,00 $ (somme prescrite par le règlement d’application) plus la TPS et la TVP] – qui autrement seraient compris dans la catégorie 10 ».
+[20] Il faut donc se demander si la camionnette 2002 constitue une voiture de tourisme. Les termes « automobile » et « voiture de tourisme » sont définis à l’article 248 de la Loi [l’alinéa d) correspond à l’alinéa e), dans la version anglaise] :
+« automobile » Véhicule à moteur principalement conçu ou aménagé pour transporter des particuliers sur les routes et dans les rues et comptant au maximum neuf places assises, y compris celle du conducteur, à l’exclusion des véhicules suivants :
+[...]
+d) les véhicules à moteur suivants :
+(i) les véhicules de type fourgonnette ou camionnette, ou d’un type analogue, comptant au maximum trois places assises, y compris celle du conducteur, et qui, au cours de l’année d’imposition où ils sont acquis ou loués, sont utilisés principalement pour le transport de marchandises ou de matériel en vue de gagner un revenu,
+(ii) les véhicules de type fourgonnette ou camionnette, ou d’un type analogue, dont la totalité ou la presque totalité de l’utilisation au cours de l’année d’imposition où ils sont acquis ou loués est pour le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu,
+« voiture de tourisme » Automobile acquise après le 17 juin 1987 [...]
+Le nombre de places assises de la camionnette 2002 excède celui prévu au sous‑alinéa d)(i), même si le siège arrière est fermé. Par conséquent, le critère apparemment moins rigoureux lié à l’expression « utilisés principalement » (on considère habituellement que cela signifie plus de 50 pour 100) ne s’applique pas. Il doit donc s’agir d’un véhicule qui satisfait au critère selon lequel « la totalité ou la presque totalité de l’utilisation […] est pour le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu ».
+[21] Dans la décision Pronovost v. The Queen, [1998] DTC 720, le juge en chef adjoint Bowman s’exprime en ces termes :
+[16] Le camion de l’appelant a une cabine allongée, c’est-à-dire qu’il y a une deuxième banquette qui permettrait à cinq ou six personnes de prendre place dans le camion. Par conséquent, s’il est exclu de la définition d’automobile, il doit être visé par l’exception au sous-alinéa d)(ii). Il s’agit certainement d’un camion pick‑up ou d’un véhicule d’un type analogue. Il ne respecte pas le critère du sous‑alinéa (i) car il compte plus de trois places assises, soit celles du conducteur et de deux passagers.
+[17] Par conséquent, si le camion est visé par le sous-alinéa (ii), ce sera parce que la « totalité, ou presque, de l’utilisation au cours de l’année d’imposition où [il est] acquis [sera] le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu » en 1999.
+[18] L’appelant a certainement utilisé son camion dans le cadre de ses fonctions pour transporter des biens, du matériel ou des passagers en vue de gagner un revenu. La question est plutôt de savoir s’il s’agissait de la « totalité, ou presque, » de son utilisation.
+[19] Dans les décisions Ruhl (W.) c. Canada, C.C.I. no 96-3597(GST)I, le 25 novembre 1997 ([1998] G.S.T.C. 4), et Lim c. Canada, C.C.I. no 1999‑3180(GST)I, le 4 janvier 2000 ([2000] G.S.T.C. 1), la Cour s’est penchée sur la signification des termes « la totalité, ou presque » et « en grande partie ». Dans l’arrêt Ruhl, la Cour a fait remarquer que ces termes étaient élastiques et « qu’ils ne rendaient pas très bien l’idée d’une proportion du total susceptible d’être déterminée. Il n’est pas nécessaire de leur accoler un pourcentage ou un chiffre absolus. »
+[20] La règle des 90 p. 100 utilisée par l’ADRC n’a aucun fondement législatif, bien qu’il se peut qu’un certain critère rigide doive être appliqué par l’administration. Cela ne signifie pas que la Cour doive la respecter. La règle des 90 p. 100, même si elle était prévue par une loi, est en elle-même défectueuse, car elle n’indique pas de quoi il s’agit : 90 p. 100 du temps, du kilométrage, du nombre ou du poids des passagers, ou des biens transportés?
+[21] En l’espèce, je conclus sans difficulté que le camion était utilisé en « totalité, ou presque, […] pour le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu ». Le matériel était conservé dans le camion en tout temps, même lorsque l’appelant se rendait au travail et en revenait. La preuve démontre clairement que, au cours de la période du printemps 1999 au mois d’août 2000, le camion était utilisé en quasi-totalité pour le travail de l’appelant. L’utilisation personnelle était minimale. L’appelant et son épouse utilisaient la fourgonnette pour leurs fins personnelles.
+[22] Je fais miens le raisonnement et les conclusions énoncés dans la décision Pronovost. Cependant, la preuve présentée en l’espèce relativement au pourcentage d’utilisation personnelle (c.‑à‑d. non en vue de gagner un revenu) n’est pas claire. À un certain moment, l’appelant fait état d’une utilisation personnelle de seulement 5 pour 100, tandis que, pendant le contre-interrogatoire, il a laissé entendre que ce pourcentage pourrait atteindre 20 à 25 pour 100. J’ai examiné la preuve touchant les divers voyages d’affaires effectués, l’utilisation à des fins personnelles faite par l’appelant et son épouse de la voiture personnelle de cette dernière, la crédibilité de l’appelant et la nature de son travail, le fait que l’appelant avait besoin de la camionnette 2002 pour accomplir son travail d’installation de cloisons sèches, non seulement près de chez lui, mais aussi souvent dans des endroits éloignés, la nécessité de la camionnette 2002 pour la sécurité des outils, pour transporter les lourdes cloisons sèches et d’autre matériel, le fait que l’appelant avait réellement besoin de la camionnette 2002 pour faire son travail et gagner sa vie. J’ai également tenu compte du fait que la camionnette 2002 pouvait difficilement être qualifiée de « voiture de luxe », fléau visé par les limites de coût. De plus, les autorités avaient en fait obligé l’appelant à acquérir un véhicule doté d’une plus grande capacité de charge que celle offerte par la camionnette 1996. Il n’avait pas le choix. J’ai en outre estimé que les nombreux voyages d’affaires effectués à Aldergrove, à Big White, à Vancouver et à Yellowknife ainsi que l’utilisation de la camionnette 2002 à Westport et dans les environs pendant un nombre de jours appréciable montrent certainement que ce véhicule servait en grande partie à des fins commerciales. De plus, la camionnette 2002 était utilisée pour tirer la remorque jusqu’à divers chantiers éloignés.
+[23] De façon générale, sans vouloir attribuer de manière définitive un kilométrage ou une durée à l’utilisation dans le cadre de l’analyse pour tenter d’en arriver à un pourcentage, je suis convaincu, à la lumière de l’ensemble de la preuve, que « la totalité ou la presque totalité de l’utilisation [de la camionnette 2002 en 2002 et en 2003] […] est pour le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu ». J’estime que la proportion de cette utilisation s’élève à 90 pour 100. Par conséquent, l’observation formulée par le ministre sur cette question est mal fondée et la DPA demandée par l’appelant relativement à la camionnette 2002 pour les années d’imposition 2002 et 2003 est accordée. En outre, comme la camionnette 2002 constituait un bien appartenant à la catégorie 10, il n’y a pas lieu d’ajouter à l’année d’imposition 2002 la récupération de 3 902,99 $ liée à la disposition de la camionnette 1996. De surcroît, il faut calculer à nouveau le montant de la DPA devant être accordé pour les années d’imposition 2002 et 2003 en ce qui a trait à la camionnette 2002, compte tenu du fait que le coût en capital doit inclure la somme de 1 435,32 $ engagée pour le marchepied et la boule d’attelage achetés par l’appelant en 2002.
+[24] Les paragraphes suivants portent sur les diverses autres dépenses refusées par le ministre.
+[25] La première catégorie de dépenses refusées concerne les frais de repas et de représentation de 401,00 $ et de 583,20 $, engagés en 2002 et 2003 respectivement. Ces dépenses sont liées à des frais subis sur des chantiers situés loin du domicile de l'appelant et ont été refusées principalement parce qu’il n’y avait pas de livres et de documents appropriés, ni de reçus pour les étayer, parce que certaines dépenses de peu d’importance figurant sur les reçus présentés ne visaient pas de la nourriture et parce que certaines dépenses concernaient des repas pris en compagnie de l’épouse de l’appelant et étaient donc d’ordre personnel. L’appelant a présenté quelques reçus liés à ces dépenses mais, de toute évidence, ils ne sont pas suffisants pour justifier les sommes réclamées et n’ont été produits qu’à titre d’exemples. L’appelant a également reconnu volontiers qu’il avait partagé certains repas avec son épouse. Il ne fait aucun doute que, sur les chantiers éloignés de son domicile et pendant le trajet pour s’y rendre et en revenir, certains frais de repas et de représentation ont été engagés. Je constate, à la lumière de la preuve, que le ministre a apparemment accordé les frais de repas dans la proportion habituelle de 50 pour 100. Selon la prépondérance des probabilités, une autre somme raisonnable doit être accordée et, à mon avis, les sommes qu’il y a lieu de refuser s’élèvent à 200,50 $ en 2002 et à 291,50 $ en 2003.
+[26] La deuxième catégorie de dépenses refusées vise les frais de véhicule à moteur de 3 161,04 $ en 2002 et de 1 128,04 $ en 2003. La somme totale réclamée en 2002 se chiffrait à 7 072,00 $ et le ministre a accordé 3 910,96 $, ce qui correspond à la somme refusée de 3 161,04 $. En 2003, la somme totale déduite s’élevait à 4 512,17 $ et le ministre a accordé 3 384,13 $, ce qui correspond à la somme refusée de 1 128,04 $. L’avocate de l’intimée a précisé que le ministre a d’abord défalqué de la somme totale demandée en 2002 (7 072,00 $) une somme de 1 435,32 $, soit le coût du marchepied et de la boule d’attelage, parce qu’il s’agissait d’éléments à inscrire à l’actif. À mon sens, le ministre avait raison. Cette somme a un caractère de capital et elle est donc refusée comme dépense. La DPA relative à cette somme a été examinée plus haut. En conséquence, des frais déduits au titre du véhicule à moteur en 2002, il faut d’abord défalquer les dépenses en capital de 1 435,32 $. Pour arriver aux sommes qu’il a accordées, le ministre a conclu que le ou les véhicules visés ne servaient à des fins commerciales que dans une proportion de 75 pour 100. Pour les raisons énoncées plus haut, je suis arrivé à la conclusion que le pourcentage approprié est de 90 pour 100. Les montants des frais de véhicule à moteur devant être accordés sont donc les suivants : 5 073,00 $ pour 2002 (7 072,00 $ - 1 435,32 $ x 90 pour 100) et 4 061,00 $ pour 2003 (4 512,17 $ x 90 pour 100). Par conséquent, les sommes refusées doivent se chiffrer à 1 999,00 $ en 2002 (7 072,00 $ -5 073,00 $) et à 451,17 $ en 2003 (4 512,17 $ ‑ 4 061,00 $).
+[27] La troisième catégorie de dépenses refusées en 2002 touche les frais de déplacement s’élevant à 2 580,00 $. À cet égard, il est utile de reproduire certains extraits de la transcription dans lesquels l’avocate de l’intimée interroge l’appelant :
+[TRADUCTION]
+[…]
+Q Passons aux frais de déplacement. Vous déduisez 2 580,00 $ au titre des frais de déplacement en 2002?
+R Ouais.
+Q Pouvez-vous me dire à quoi cet argent a servi?
+R Il s’agit d’Aldergrove, le voyage de Westbank à Aldergrove, et aussi mon déplacement de Westbank à Yellowknife.
+Q Et avez‑vous des documents permettant d’étayer cette déduction?
+R Oui. Eh bien! j’ai mes reçus de facturation de Yellowknife, je crois. Tout ce que j’ai ici, c’est mon retour à la maison, mon retour de – mon retour de Yellowknife.
+[Mention est faite de certains déplacements.]
+[…]
+Q Se peut-il que certains de ceux‑là, certains de ces frais de déplacement qui sont déduits en 2002, aient visé des voyages ou des séjours personnels effectués par vous et votre épouse?
+[Mention est faite d’autres déplacements comportant un élément d’ordre personnel.]
+Q Et avez-vous – des reçus pour l’essence, je suppose, seraient ce que vous avez concernant votre voyage de Westbank à Aldergrove et d’Aldergrove à Yellowknife?
+R Oui, nous avons tous ces reçus, oui.
+Q Et avez-vous ces reçus?
+R Non, pas – Eh bien! ils sont classés, je ne les ai pas avec moi, non.
+[...]
+L’avocate a en outre fait valoir ce qui suit :
+[TRADUCTION]
+En 2002, l’appelant a déduit des frais de déplacement de 2 580,00 $. La totalité de cette somme a été refusée. Lorsque j’examine certains des reçus et factures des onglets A‑8 à A‑14, je vois des frais pour le Fantasyland Hotel, un séjour de deux nuits pour Earl et Darla Fraser, une autre nuit au Radisson Hotel à Calgary, et rien ne prouve que M. Fraser travaillait à ces endroits.
+La preuve semble montrer que son épouse s’est rendue en voiture à Yellowknife et qu’ils sont ensuite revenus ensemble dans la voiture, et l’intimée avance que ce déplacement s’apparente à un voyage personnel, en particulier lorsqu’ils passent deux nuits en ville et au Fantasyland Hotel. Cela ne ressemble pas à une courte escale dans un motel.
+En ce qui concerne les frais de déplacement qui sont légitimes, l’intimée soutient que l’appelant ne s’est pas acquitté du fardeau qui lui incombait puisqu’il n’a pas produit de reçus liés à des frais de déplacements légitimes pour l’année 2002.
+[...]
+[28] À mon avis, les observations formulées par l’avocate de l’intimée sont fondées. La charge de la preuve incombe à l’appelant et, sur ce point, il ne s’en est pas acquitté. Je signale que, pendant l’année 2002, une somme importante (accrue par le présent jugement) a été accordée à titre de « frais de véhicule à moteur », lesquels pourraient bien avoir englobé certains éléments demandés au titre de déplacements. Je signale en outre qu’aucuns frais liés à des « déplacements » n’ont été déduits en 2003. J’arrive à la conclusion que la somme de 2 580,00 $ déduite en 2002 au titre des frais de déplacement doit être refusée.
+[29] La quatrième catégorie de dépenses refusées en 2003 concerne les frais juridiques et comptables de 701,38 $. La somme déduite s’élevait à 1 115,99 $; comme le ministre a accordé 414,61 $, la somme refusée se chiffrait à 701,38 $. Il convient d’ajouter qu’en 2002, la somme de 250,00 $ demandée au titre des frais juridiques et comptables a été accordée dans son intégralité.
+[30] Les pièces, le témoignage de vive voix et les observations présentés en l’espèce ne permettent pas de savoir à quoi correspond la somme visée par la quatrième catégorie. Il est toutefois devenu évident que cette somme n’avait aucun lien avec des frais juridiques et comptables. Le représentant de l’appelant admet que le ministre était justifié de refuser la somme de 160,50 $ et que le solde aurait dû figurer sous la rubrique des autres dépenses et être accordé. L’avocate de l’intimée soutient ce qui suit :
+[TRADUCTION]
+[...]
+En 2003, l’appelant a déduit 701,00 $ à titre de frais juridiques et comptables. Ces frais visaient le logiciel antivirus Symantec et, dans son témoignage, M. Fraser a déclaré que l’ordinateur servait en partie à des fins personnelles. Il a estimé qu’environ 10 à 15 pour 100 de l’utilisation de l’ordinateur était liée à l’entreprise. Selon l’intimée, le logiciel Symantec constitue donc une dépense relative à l’ordinateur qui ne devrait être accordée que dans la mesure où l’ordinateur était utilisé – dans la même proportion que l’ordinateur était utilisé à des fins commerciales, et qu’il s’agisse de 10 pour 100 ou de 15 pour 100, il ressort du témoignage de M. Fraser que l’ordinateur servait principalement à des fins personnelles.
+Les autres sommes consistaient dans le reçu de OnStar et celui de BCAA. Encore une fois, ces dépenses, il est difficile de savoir de quoi il s’agit. Visent‑elles la camionnette ou la remorque et, quoi qu’il en soit, ces dépenses ne devraient être accordées que dans la mesure où le bien auquel elles se rapportent était utilisé à des fins commerciales.
+[...]
+[31] La somme relative au logiciel Symantec (pièce A‑17) s’élève à 28,57 $US ou 35,00 $CAN. L’ordinateur servait à des fins commerciales seulement dans une proportion de 10 pour 100. Par conséquent, la somme de 3,50 $ doit être accordée. La somme relative à On Star (pièce A‑18) est de 331,00 $ et celle relative à BCAA, de 124,00 $. Ces sommes totalisent 455,00 $ et ont trait à une certaine assurance visant la camionnette 2002 et/ou les remorques. Je crois que 90 pour 100 de cette somme (c.‑à‑d. 410,00 $) devrait être accordé. La somme totale déductible s’élève donc à 413,50 $, soit 3,50 $ plus 410,00 $, et la somme qui doit être refusée s’élève à 287,88 $, soit 701,38 $ moins 413,50 $.
+[32] Par conséquent, pour les raisons mentionnées plus haut, l’appel est accueilli sur le fondement qui précède et l’affaire est renvoyée au ministre pour qu’il l’examine à nouveau et établisse une nouvelle cotisation sur ce fondement. Les dépens, le cas échéant, sont adjugés à l’appelant.
+Signé à Ottawa, Canada, ce 27e jour de juillet 2006.
+« T. O'Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 30e jour de mai 2007.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2006CCI427
+NOS DE DOSSIERS DE LA COUR : 2005-3972(IT)I et 2005-3990(IT)I
+INTITULÉ DE LA CAUSE : Darla Fraser c. Sa Majesté la Reine et
+Earl Fraser c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Kelowna (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 9 juin 2006
+MOTIFS DU JUGEMENT PAR : M. le juge T. O’Connor
+DATE DU JUGEMENT : Le 27 juillet 2006
+COMPARUTIONS :
+Représentant des appelants :
+M. G.A. Maile
+Avocate de l’intimée :
+Me Sara Fairbridge
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

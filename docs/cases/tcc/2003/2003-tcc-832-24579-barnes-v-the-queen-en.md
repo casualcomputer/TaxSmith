@@ -1,0 +1,221 @@
+---
+title: "Barnes v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/24579/index.do"
+last_modified: "2003-11-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 832"
+citation2: ""
+neutral_citation: "2003 TCC 832"
+decision_date: "2003-11-07"
+language: "en"
+item_id: "24579"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2178
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:32:57.351000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8502d4467e7361818612fa36c5706d1a261383f465fe079a5b5c4c51ec716ae2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Barnes v. The Queen
+
+- Citation: 2003 TCC 832
+- Decision date: 2003-11-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2178, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barnes v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-07
+Neutral citation
+2003 TCC 832
+File numbers
+2003-574(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC832
+Date: 20031107
+Docket: 2003-574(IT)I
+BETWEEN:
+ERIC DAVID BARNES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre, J.
+[1] This is an appeal under the informal procedure from an assessment made by the Minister of National Revenue ("Minister") pursuant to the Income Tax Act ("Act") for the appellant's 2001 taxation year. The appellant fell ill and has been disabled and unable to work since January 1999. He was in receipt of long-term disability benefits from his employer until September 2000. He then applied for Canada Pension Plan ("CPP") disability benefits and employment insurance ("EI") sickness benefits. Both were approved in 2001 and, that same year, the appellant received a CPP disability benefit lump-sum payment ("CPP payment") of $19,077 and an EI qualifying retroactive lump-sum payment ("EI payment") of $6,195. Part of these benefits was attributable to the year 2000. Indeed, the total CPP payment amount of $19,077 included an amount of $8,061 considered to be applicable to the 2000 taxation year, and the entire EI payment amount of $6,195 was applicable to the period of August to December 2000.
+[2] The Minister applied the provisions of sections 120.3 and 120.31 of the Act in determining tax payable with respect to the CPP payment portion ($8,061) and the EI payment amount ($6,195) applicable to the 2000 taxation year. The Minister's computation of income and of tax payable is summarized in paragraphs 7 e) through m) of the Reply to the Notice of Appeal, which are reproduced hereunder:
+e) the Minister applied the provisions of subsection 56(8) of the Income Tax Act (the "Act") in determining taxable income and section 120.3 of the Act in determining tax payable with respect to the CPP LSP portion of $8,061.00 applicable to the 2000 taxation year;
+f) pursuant to subsection 56(8) of the Act, the amount of $8,061.00 was not included in the computation of the Appellant's income for the 2001 taxation year but was considered to be included in the 2000 taxation year;
+g) the tax so calculated in accordance with section 120.3 of the Act on the amount of $8,061.00 as referred to in subparagraph 7(f) herein was determined to be $929.25 and included in the tax payable for the 2001 taxation year as shown on the attached Schedule A;
+h) the Minister applied the provisions of sections 110.2 and 120.31 of the Act in determining tax payable with respect to the EI QRLSP;
+i) the amount of $6,195.00 is a "qualifying amount" and "specified portion" within the meaning of said terms as defined in subsection 110.2(1) of the Act;
+j) the amount of $6,195.00 is included in the determination of the Appellant's net income in accordance with subparagraph 56(1)(a)(iv) of the Act but is deducted from net income in computing taxable income pursuant to subsection 110.2(2) of the Act;
+k) the tax so calculated in accordance with subsection 120.31(2) of the Act on the amount of $6,195.00 as referred to herein before [sic] was determined to be $612.03 and included in the tax payable for the 2001 taxation year as shown on the attached Schedule A;
+l) the special tax treatment afforded to the amounts of $8,061.00 and $6,195.00 was more beneficial to the Appellant than otherwise including said amounts in the Appellant's income for the 2001 taxation year and determining tax payable under section 117 of the Act; and
+m) the net income of $34,978.00 must be included as 'net family income' in determining the Child Tax Benefit and Goods and Services Tax Credit for the 2001 taxation year and 'base taxation year'.
+SCHEDULE A
+2001 TAXATION YEAR
+ERIC BARNES
+COMPUTATION OF TAXABLE INCOME
+Income
+Employment earnings
+Canada Pension Plan Disability payments
+Employment Insurance Benefits
+Registered Retirement Savings Plan benefits
+Retiring Allowance
+Total Income
+Note
+1
+Amount
+$ 6,381.00
+11,016.00
+6,195.00
+16,666.00
+48,114.00
+88,372.00
+Deductions from Total Income
+Registered Retirement Savings Plan contributions
+Other deductions
+Net Income
+Deduction per subsection 110.2(2) of the I.T.A.
+Taxable Income
+52,874.00
+520.00
+-53,394.00
+34,978.00
+- 6,195.00
+$28,783.00
+Note 1
+Total Canada Pension Plan Benefits received
+Less: benefits applicable to 2000 (ss 56(8) of the I.T.A.)
+Portion of Canada Pension Plan benefits included in 2001
+19,077.00
+- 8,061.00
+11,016.00
+CALCULATION OF TAX PAYABLE
+Taxable income per above
+At rate of 16%
+Add: tax adjustments (below)
+Sub total [sic]
+Less: non-refundable credits
+Net federal tax
+28,783.00
+4,605.32
+1,541.28
+6,146.60
+- 3,749.00
+$ 2,397.60
+Tax payable on Employment Insurance Benefits per ss 120.31(2) of the I.T.A.
+Tax payable on C.P.P. benefits of $8061.00 per section 120.3 of the I.T.A.
+Total tax adjustment
+612.03
+929.25
+$ 1,541.28
+[3] Although the appellant accepts the tax treatment of the CPP payment, he does not understand why the EI payment is not treated the same way. In other words, he does not understand why the EI payment applicable to the 2000 taxation year is included in income for 2001 while such is not the case with the CPP payment. He claims that this method of calculating his income is prejudicial since it increases his income for 2001 by an amount of $6,195 (the EI payment) that should have been received in 2000 (in which year his income was much lower), thus depriving him of $6,000 in social benefits for his family for the year 2001.
+[4] That may be so but I find that the Minister correctly applied the provisions of the Act. If it were not for the existence of sections 120.3 and 120.31 of the Act, the appellant would have had to include in his income, and to pay tax on, the whole amount of the CPP and EI payments received in 2001, in accordance with clause 56(1)(a)(i)(B) and subparagraph 56(1)(a)(iv), which read as follows:
+SECTION 56: Amounts to be included in income for year.
+(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+456(1)(a)3
+(a) Pension benefits, unemployment insurance benefits, etc. - any amount received by the taxpayer in the year as, on account or in lieu of payment of, or in satisfaction of,
+(i) a superannuation or pension benefit including, without limiting the generality of the foregoing,
+. . .
+(B) the amount of any benefit under the Canada Pension Plan or a provincial pension plan as defined in section 3 of that Act,
+. . .
+(iv) a benefit under the Unemployment Insurance Act, other than a payment relating to a course or program designed to facilitate the re-entry into the labour force of a claimant under that Act, or a benefit under Part I, VIII or VIII.1 of the Employment Insurance Act.
+[5] Sections 120.3 and 120.31 enable an individual who has received such a retroactive lump-sum payment to request that a special calculation be used for computing the tax on that payment. For one reason or another, CPP disability benefits receive different treatment than EI benefits under the Act. The relevant provisions of the Act are reproduced below:
+456(8)3
+(8) CPP/QPP benefits for previous years. Notwithstanding subsection (1), where
+(a) one or more amounts are received by an individual (other than a trust) in a taxation year as, on account of, in lieu of payment of or in satisfaction of, any benefit under the Canada Pension Plan or a provincial pension plan as defined in section 3 of that Act, and
+(b) a portion, not less than $300, of the total of those amounts relates to one or more preceding taxation years,
+that portion shall, at the option of the individual, not be included in the individual's income.
+Lump-sum Payments
+SECTION 110.2: Definitions.
+(1) The definitions in this subsection apply in this section and section 120.31.
+"eligible taxation year" - "eligible taxation year" in respect of a qualifying amount received by an individual, means a taxation year
+(a) that ended after 1977 and before the year in which the individual received the qualifying amount;
+. . .
+"qualifying amount" - "qualifying amount" received by an individual in a taxation year means an amount . . . that is included in computing the individual's income for the year and is
+. . .
+(b) a superannuation or pension benefit (other than a benefit referred to in clause 56(1)(a)(i)(B)) . . .
+(c) an amount described in paragraph 6(1)(f), subparagraph 56(1)(a)(iv) . . .
+"specified portion" - "specified portion", in relation to an eligible taxation year, of a qualifying amount received by an individual means the portion of the qualifying amount that relates to the year, to the extent that the individual's eligibility to receive the portion existed in the year.
+4110.2(2)3
+(2) Deduction for lump-sum payments. There may be deducted in computing the taxable income of an individual (other than a trust) for a particular taxation year the total of all amounts each of which is a specified portion of a qualifying amount received by the individual in the particular year, if that total is $3,000 or more.
+SECTION 120.3: CPP/QPP disability benefits for previous years.
+There shall be added in computing an individual's tax payable under this Part for a particular taxation year the total of all amounts each of which is the amount, if any, by which
+(a) the amount that would have been the tax payable under this Part by the individual for a preceding taxation year if that portion of any amount not included in computing the individual's income for the particular year because of subsection 56(8) and that relates to the preceding year had been included in computing the individual's income for the preceding year
+exceeds
+(b) the tax payable under this Part by the individual for the preceding year.
+SECTION 120.31: Definitions.
+(1) The definitions in subsection 110.2(1) apply in this section.
+(2) Addition to tax payable. There shall be added in computing an individual's tax payable under this Part for a particular taxation year the total of all amounts each of which is the amount, if any, by which
+(a) the individual's notional tax payable for an eligible taxation year to which a specified portion of a qualifying amount received by the individual relates and in respect of which an amount is deducted under section 110.2 in computing the individual's taxable income for the particular year
+exceeds
+(b) the individual's tax payable under this Part for the eligible taxation year.
+. . .
+Technical Note: New section 120.31 of the Act provides for the calculation of an individual's tax payable for a taxation year on that portion of a lump-sum payment that has been deducted under subsection 110.2(2) in computing the individual's taxable income for that year. This tax is the total of the additional taxes that would be triggered for each relevant preceding year if the portion of the lump-sum payment that relates to that preceding year were added to the individual's taxable income for that year. . . .
+New section 120.31 applies to the 1995 and subsequent taxation years.
+[6] It is clear from the provisions of the Act that the portion of the CPP payment that relates to the 2000 taxation year and that was received in 2001 does not have to be included in income for 2001 (by virtue of subsection 56(8)), but the same does not apply to the EI payment. The lump-sum payment received in respect of EI benefits that relates to 2000 must be included in income for 2001 and may only be deducted in the computation of taxable income for that same year (subsection 110.2(2)). Therefore, the EI payment received in 2001 must be taken into account in the appellant's income for 2001 and cannot be excluded from income for the purposes of determining the Child Tax Benefit and the goods and services tax ("GST") credit for the 2001 taxation year and the base taxation year (as per the definition of "adjusted income" in sections 122.5 and 122.6 of the Act).
+[7] The appellant suggests that this is unfair. He claims that the same $6,195 (EI payment) amount has been included in his income for both 2000 and 2001. However, this is not the case. The amount of $6,195 was added to his income for 2000 for the sole purpose of calculating the notional tax that was payable on that amount for 2000 and that was ultimately added to his tax payable for 2001. It was not included in his income for 2000 for the determination of the Child Tax Credit and GST credit for 2000. It was only included in his income for 2001 for the purpose of determining those credits for 2001.
+[8] That the appellant had a much lower income in 2000 than in 2001 is not a factor that can prevail over the wording of the Act. The Act is clear and the Minister correctly calculated the income of the appellant for his 2001 taxation year in accordance with the provisions of the Act.
+[9] The appeal is dismissed.
+Signed at Ottawa, Canada, this 7th day of November 2003.
+"Lucie Lamarre"
+Lamarre, J.
+CITATION:
+2003TCC832
+COURT FILE NO.:
+2003-574(IT)I
+STYLE OF CAUSE:
+Eric David Barnes v. The Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+September 9, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT:
+September 10, 2003
+DATE OF WRITTEN REASONS:
+November 7, 2003
+APPEARANCES:
+Agent for the Appellant:
+Celeste Barnes
+Counsel for the Respondent:
+Nicolas Simard
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,113 @@
+---
+title: "Ross v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/24478/index.do"
+last_modified: "2007-04-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 208"
+citation2: ""
+neutral_citation: "2007 CCI 208"
+decision_date: "2007-04-04"
+language: "fr"
+item_id: "24478"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2174
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:47:45.926000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e2f31e2bd543225e3b4e03450636a17544c95ee11653acac4c2650a72d1a4bc3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ross v. The Queen
+
+- Citation: 2007 CCI 208
+- Decision date: 2007-04-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2174, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ross v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-04
+Référence neutre
+2007 CCI 208
+Numéro de dossier
+2002-3914(IT)G
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-3914(IT)G
+ENTRE :
+DONALD M. ROSS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+CERTIFICAT DE TAXATION DES DÉPENS
+JE CERTIFIE que j’ai taxé les dépens entre parties de l’appelant dans la présente instance en vertu du paragraphe 153(1) des Règles de la Cour canadienne de l’impôt (procédure générale) et J’ACCORDE LA SOMME DE 5 080,01 $.
+Signé à Ottawa, Canada, ce 4e jour d’avril 2007.
+« Alan Ritchie »
+Officier taxateur
+Traduction certifiée conforme
+ce 13e jour d’août 2007
+D. Laberge, LL.L.
+Référence : 2007CCI208
+Date : 20070404
+Dossier : 2002-3914(IT)G
+ENTRE :
+DONALD M. ROSS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE LA TAXATION
+Alan Ritchie, officier taxateur C.C.I.
+[1] La présente affaire a été entendue au moyen d’une conférence téléphonique, le vendredi 30 mars 2007. Elle découle d’un jugement rendu par le juge Sarchuk, de la Cour, le 22 avril 2005, par lequel l’appel a été accueilli, les dépens étant accordés à l’appelant. L’appelant était représenté par Me Wilfrid Lefebvre, c.r., et l’intimée était représentée par Me Donna Dorosh.
+[2] Deux articles du mémoire de frais de l’appelant étaient contestés.
+Indemnité de présence de 50 $
+[3] L’avocate de l’intimée a soutenu qu’il n’était pas établi que le montant de 50 $ avait été versé au témoin (l’avocat de l’appelant a confirmé qu’il ne l’avait pas été – voir le paragraphe suivant) et que l’appelant ne devrait donc pas avoir le droit de recouvrer un montant ou une dépense qui n’avait pas réellement été engagé et qui ne pouvait pas être corroboré par une preuve de paiement.
+[4] L’avocat de l’appelant a adopté la position selon laquelle ce montant devrait être accordé à la partie qui a fait le nécessaire pour que le témoin comparaisse à l’audience; il a fait remarquer qu’il avait l’intention de remettre l’indemnité de présence après coup. Cette position me pose des problèmes, et j’y reviendrai ci‑dessous.
+[5] Il ressort clairement du procès‑verbal versé au dossier de la Cour que le témoin a de fait comparu à l’audience. Le tarif A des Règles de la Cour canadienne de l’impôt (procédure générale) (ci‑après les « Règles ») prévoit ce qui suit au paragraphe 4(1) :
+4. (1) Un témoin, sauf s’il comparaît pour déposer en qualité d’expert, a le droit de recevoir de la partie qui a fait le nécessaire pour sa comparution 50 $ par jour, plus les frais de déplacement et de subsistance raisonnables et appropriés.
+[6] Je souscris à l’assertion de l’avocat de l’appelant, à savoir que l’indemnité de présence de 50 $ constitue essentiellement une indemnité fixe à laquelle a droit le témoin qui comparaît. Selon moi, il ne s’agit pas d’un débours visé au paragraphe 1(2) du tarif B. De tels débours doivent être justifiés au moyen de reçus ou d’autres preuves de paiement, conformément au paragraphe 157(3) des Règles :
+(3) Les débours, à l’exception des droits versés au greffe, ne sont ni taxés ni accordés à moins qu’il ne soit établi qu’ils ont été faits ou que la partie est tenue de les payer.
+[7] Si l’appelant demandait les frais de déplacement pour ce témoin, ces dépenses devraient être corroborées au moyen de reçus.
+[8] Cela dit, le témoin a clairement le droit de recevoir l’indemnité « de la partie qui a fait le nécessaire pour sa comparution ». Le paiement de l’indemnité de présence ne devrait pas être assorti de la condition selon laquelle la partie qui a fait le nécessaire pour la comparution du témoin doit avoir gain de cause à l’instruction et ne devrait pas dépendre de son octroi dans le mémoire de frais. On ne savait pas trop si l’indemnité serait remise au témoin même si la demande était rejetée au moment de la taxation – il s’agit d’une question que l’appelant et le témoin doivent régler entre eux.
+[9] J’accorderai l’indemnité de présence de 50 $; je crois bien que, dans ce cas‑ci, ce montant sera en fait remis au témoin qui a comparu. En général, la partie qui a fait le nécessaire pour la comparution du témoin doit remettre l’indemnité au témoin au moment où ce dernier comparaît. Si cela avait été fait dans ce cas‑ci, le bien‑fondé de la demande qui est faite dans le mémoire de frais ne serait pas contesté.
+Frais de déplacement
+[10] L’avocat de l’appelant est établi à Montréal; il lui a fallu se rendre à Toronto pour l’interrogatoire préalable ainsi que pour l’audience qui a eu lieu devant le juge Sarchuk. L’avocat a fait remarquer que l’appelant avait le droit de choisir son représentant, et en outre qu’il n’y avait pas, à son bureau de Toronto, d’experts en matière de taxation. Les frais de déplacement étaient clairement accompagnés de reçus et d’autres documents. L’avocat a également confirmé que ces montants avaient directement été imputés au client et qu’ils ne faisaient pas partie des « frais généraux » du cabinet.
+[11] L’avocate de l’intimée a cité la décision Jurchison v. R., [2000] 1 C.T.C. 2762, 2000 DTC 1660 (C.C.I.), et [2001] 3 C.T.C. 33, 2001 DTC 5301 (C.A.F.) dans laquelle les frais de déplacement que l’avocat de l’intimée avait engagés pour se rendre d’Ottawa à Toronto avaient été refusés étant donné que le ministère de la Justice avait un important bureau à Toronto et qu’il aurait pu assigner le dossier à l’un des avocats de ce bureau. L’avocate a fait remarquer qu’il était probablement avantageux pour l’appelant de retenir les services de Me Lefebvre compte tenu de l’expertise de ce dernier, mais que l’intimée ne devrait pas être tenue de rembourser les frais de déplacement que l’avocat avait engagés pour se rendre d’une ville à l’autre.
+[12] La jurisprudence concernant les frais de déplacement des avocats et d’autres représentants n’est pas du tout claire, et dans certains cas, elle est incohérente. Je conclus que les frais de déplacement engagés afin de permettre à l’avocat de l’appelant de se rendre à Toronto étaient raisonnables – ils ne sont pas exorbitants et ils sont corroborés par des reçus. L’affaire dont le juge Sarchuk a été saisi se rapportait à l’une d’un grand nombre de questions litigieuses opposant l’appelant et l’Agence du revenu du Canada, et d’importantes sommes d’argent étaient en jeu. L’appelant pouvait à bon droit choisir un représentant fort qualifié, et il ne semble pas déraisonnable d’avoir choisi un avocat de Montréal.
+Conclusion
+[13] J’ai taxé le mémoire de frais de l’appelant et j’accorde la somme de 5 080,01 $ qui a été soumise.
+Signé à Ottawa, Canada, ce 4e jour d’avril 2007.
+« Alan Ritchie »
+Officier taxateur
+Traduction certifiée conforme
+ce 13e jour d’août 2007
+D. Laberge, LL.L.

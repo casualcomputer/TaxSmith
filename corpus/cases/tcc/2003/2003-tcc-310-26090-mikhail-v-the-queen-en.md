@@ -1,0 +1,229 @@
+---
+title: "Mikhail v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26090/index.do"
+last_modified: "2003-05-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 310"
+citation2: ""
+neutral_citation: "2003 TCC 310"
+decision_date: "2003-05-07"
+language: "en"
+item_id: "26090"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4151
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:11:47.295000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "61ea2ce83d6240f377481ec15009b4ca2c79ca56279183df519a14c44cc042aa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mikhail v. The Queen
+
+- Citation: 2003 TCC 310
+- Decision date: 2003-05-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4151, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mikhail v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-07
+Neutral citation
+2003 TCC 310
+File numbers
+2002-2370(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2370(IT)I
+BETWEEN:
+ANITA MIKHAIL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 10, 2003 at Ottawa, Ontario.
+Before : The Honourable Judge Lucie Lamarre
+Appearances:
+Agent for the Appellant:
+Saad Mikhail
+Counsel for the Respondent:
+Justine Malone
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act ("Act")for the 1996 and 1997 taxation years are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to a non-refundable tax credit for the spousal amount pursuant to paragraph 118(1)(a) of the Act. The appellant is also entitled to additional employment expenses in the amount of $4,952 for 1996.
+The appellant is entitled to no further relief.
+Signed at Ottawa, Canada, this 7th day of May 2003.
+"Lucie Lamarre"
+J.T.C.C.
+Citation:2003TCC310
+Date: 20030507
+Docket:2002-2370(IT)I
+BETWEEN:
+ANITA MIKHAIL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre, J.T.C.C.
+[1] These are appeals against assessments made by the Minister of National Revenue ("Minister") whereby employment expenses claimed by the appellant for her 1996 and 1997 taxation years were disallowed.
+[2] In computing her income, the appellant claimed total employment expense amounts of $11,295.17 for 1996 and $10,641.46 for 1997. The Minister only accepted deductible employment expenses of $3,675 for 1996 and $5,571 for 1997. A summary of the employment expenses claimed and of those accepted by the Minister appears in amended Exhibit A attached to the Reply to the Notice of Appeal ("Reply") and is reproduced hereunder:
+1996 Employment Expenses
+Notice of
+Assessment
+10-Apr-97
+Notice of
+Reassessment
+25-Apr-01
+Allowable motor vehicle
+$ 6,602.86
+$ 1,358.00
+Parking
+26.90
+-
+Supplies
+504.41
+-
+Cellular telephone
+3,648.00
+2,317.00
+Seminar
+513.00
+_______-_______
+Total employment expenses -1996
+$ 11,295.17
+$ 3,675.00
+1997 Employment Expenses
+Notice of
+Assessment
+21-Sep-98
+Notice of
+Reassessment
+25-Apr-01
+Allowable motor vehicle
+$ 4,989.33
+$ 4,322.00
+Food, beverage, entertainment (50%)
+25.66
+-
+Parking
+80.00
+-
+Supplies
+36.47
+-
+Cellular telephone
+_____5,510.00
+_______1,249.00
+Total employment expenses - 1997
+$ 10,641.46
+$ 5,571.00
+[3] The facts upon which the Minister relied in reassessing the appellant are set out below:
+(b) during 1996 and 1997 the Appellant was employed by Work Wear Corporation of Canada Ltd., a subsidiary of G & K Services Inc., (the 'Employer') as a Sales Representative and as a Sales Manager;
+(c) the Appellant submitted three versions of form T2200, Declaration of Conditions of Employment, for each of 1996 and 1997;
+(d) the final amended versions for 1996 and 1997, dated January 24, 2000, were signed by Susan Sutherland, the Accounting Manager, and were based on a review of company policies and conditions of employment by the audit firm of Arthur Andersen & Co.;
+(e) in 1996 the Appellant was involved in textile leasing and direct sales of work clothing, for which she earned commission income of $2,819.15, as indicated on her 1996 T4 Supplementary slip;
+(f) in 1997 the Appellant did not earn commission income;
+Cellular telephone
+(g) in 1996 and 1997 the Appellant received a monthly allowance of $100.00 to compensate her for cellular telephone use related to her employment;
+(h) the Appellant did incur cellular telephone expenses related to her employment in excess of the monthly allowance of $100.00. [The excess amount accepted by the Minister is $2,317 in 1996 and $1,249 in 1997, as amended by the respondent at the hearing.]
+(i) the allowances referred to [in] subparagraph 15(g) herein were not included in the Appellant's income and were not shown on her T4 slips for 1996 and 1997;
+Motor vehicle
+(j) for the purposes of her employment the Appellant drove a leased Audi A4 motor vehicle;
+(k) in 1996 and 1997 the Appellant was reimbursed $1,201.75 and $2,288.42 for motor vehicle expenses related to her employment, at the rate of $0.31 per kilometre for the first 400 kilometres driven in the month and $0.18 per kilometre for each additional kilometre driven in the month;
+(l) the reimbursement, referred to in subparagraph 15(k) herein, related to 4,283 of a total of 16,074 kilometres driven in 1996 and 9,709 of a total of 13,470 kilometres driven in 1997;
+(m) in the course of her duties the Appellant was not required to drive more than 4,283 kilometres and 9,709 kilometres in the 1996 and 1997 taxation years;
+Other expenses - supplies, parking and seminars
+(n) in 1996 and 1997 the Appellant was not required to pay for other expenses, including supplies, parking and seminars, for which she did not receive an allowance or reimbursement; and
+(o) in 1996 and 1997 the Appellant, under her contract of employment, was not required to pay for supplies used directly in her work.
+[4] With respect to the motor vehicle expenses, the Minister accepted a deduction of $1,358 for 1996 and $4,322 for 1997 on the basis of the number of kilometres driven submitted by the appellant to her employer for reimbursement. The amount reimbursed by the employer was based on a rate of 31 ¢ /km for the first 400 km and 18 ¢ /km for each kilometre over 400 km. The appellant presented claims to her employer for 4,283 km for 1996 and 9,709 km for 1997 at the above rates. She was therefore reimbursed an amount of $1,201.75 in 1996 and $2,288.42 in 1997 (Exhibit R-2). The Minister agreed that the allowance given by the appellant's employer only covered 50 per cent, at the most, of her actual expenses. He accordingly allowed an extra amount as deductible automobile expenses for the number of kilometres that was submitted to and accepted by the employer.
+[5] To calculate that extra deductible amount, the Minister accepted that the total motor vehicle expenses for the year amounted to $9,755 in 1996 and $10,369 in 1997. The Minister established the business use of the vehicle at 26 per cent in 1996 and 64 per cent in 1997, based on the number of kilometres submitted by the appellant to her employer as having been driven for the purpose of earning income. The appellant challenges this point. The Minister accepted the fact that roughly 26 per cent of the total expenses of $9,755, or $2,559, was incurred to earn income in 1996, and that approximately 64 per cent of the total expenses of $10,369, or $6,610, was incurred to earn income in 1997. The appellant received a reimbursement of $1,201 in 1996 and $2,288 in 1997 from her employer. The Minister therefore agreed to allow the difference as deductible employment expenses, that is, $1,358 for 1996 and $4,322 for 1997.
+[6] The appellant is only challenging the percentage of business use. According to her, the car was used 80 per cent of the time in 1996 and 70 per cent of the time in 1997 for her work. She filed a logbook and a Daytimer for the year 1996 only (Exhibit A-2). She has calculated that she drove 12,460 km in 1996 and 10,690 km in 1997 in the performance of her work (Exhibits A-2 and A-1, Tab 1, page 3, paragraph 5). She claims that the "allowable business-use portion should be based on the recorded business kilometers" and not on the number of kilometres submitted to her employer for the purpose of computing a partial reimbursement.
+[7] The two Declarations of Conditions of Employment filed in evidence specify that the employee's contract required her to pay her own expenses. They also indicate that the employee was not required to pay other expenses for which she did not receive any allowance (Exhibit R-2, question 9, and Exhibit A-1, Tab 3, question 6). The appellant received an allowance for the car expenses. Furthermore, the Declaration filed as Exhibit R-2 specifies that the allowance received by the appellant from her employer was not included in her income.
+[8] The appellant covered Eastern Ontario and Western Quebec in performing the duties of her work. In Exhibit A-3, she explains that, as a sales manager, she managed three sales representatives. In that capacity, she was responsible for keeping expenses within the departmental budget set by the employer. Mileage expenses submitted by the representatives were applied against the budget first. If any monies were left in the budget, she would claim that amount only. In other words, the appellant asserts that her reimbursement was limited to the number of kilometres that the budget allowed of and was not calculated according to the kilometres actually driven, as recorded in the car log.
+[9] The deduction of motor vehicle expenses by an employee is permitted if the conditions found in paragraph 8(1)(h.1) of the Income Tax Act ("Act") are met. That paragraph reads as follows:
+SECTION 8: Deductions allowed.
+(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+48(1)(h.1)3
+(h.1) Motor vehicle travel expenses - where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for motor vehicle expenses that was, because of paragraph 6(1)(b), not included in computing the taxpayer's income for the year, or
+(iv) claims a deduction for the year under paragraph (f).
+[10] An allowance for motor vehicle expenses will not be included in income in the circumstances set out in subparagraphs 6(1)(b)(v) and 6(1)(b)(vii.1), which read as follows:
+SECTION 6: Amounts to be included as income from office or employment.
+(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+46(1)(b)3
+(b) Personal or living expenses - all amounts received by the taxpayer in the year as an allowance for personal or living expenses or as an allowance for any other purpose, except
+. . .
+(v) reasonable allowances for travel expenses received by an employee from the employee's employer in respect of a period when the employee was employed in connection with the selling of property or negotiating of contracts for the employee's employer,
+. . .
+(vii.1) reasonable allowances for the use of a motor vehicle received by an employee (other than an employee employed in connection with the selling of property or the negotiating of contracts for the employer) from the employer for travelling in the performance of the duties of the office or employment.
+[11] Here, the Minister accepted the fact that the per-kilometre allowance given to the appellant for the number of kilometres driven by her - as submitted to her employer - in the performance of her duties was woefully inadequate. The Minister accordingly accepted the deduction of the balance of the actual expenses incurred by the appellant in driving that number of kilometres. (See Report on Objection, Exhibit R-1, second page, and The Queen v. Mina et al., 88 DTC 6245 (F.C.T.D.).) However, the respondent is of the view that the appellant was not required by her contract of employment to drive more than 4,283 km in 1996 and 9,709 km in 1997, which correspond to the number of kilometres submitted to her employer as having been driven in the performance of her duties.
+[12] The appellant claims that to adequately perform her work she had to use her car to drive more than the number of kilometres submitted to her employer. She explained that she did not submit a claim for the totality of the kilometres driven to earn income because her employer's budget did not allow of more. The appellant presented a logbook and a Daytimer for 1996 showing that she had driven more for her employment than was indicated in the claim she submitted to her employer. In my view, there is no reason to disbelieve the appellant in that regard.
+[13] Furthermore, there is a letter (not dated) from the employer stating that the appellant may have incurred during her employment period expenses exceeding the amount of the company's allowances or reimbursements (Exhibit A-1, Tab 8). The Declarations of Conditions of Employment state that the appellant was normally required to pay her own expenses. It is accepted by the Minister that the appellant did not receive a reasonable allowance for the car expenses she incurred to earn her employment income. In this context, it seems to me that the allowance received by the appellant in accordance with the employer's budget was not reasonable either in respect of the rate of reimbursement (as conceded by the Minister) or in respect of the number of kilometres for which the appellant received the allowance.
+[14] Adopting the words used in subparagraph 8(1)(h.1)(ii) and subparagraphs 6(1)(b)(v) and 6(1)(b)(vii.1) of the Act, I therefore conclude that the appellant was required under her contract of employment to pay motor vehicle expenses incurred in the performance of the duties of her employment and for which she did not receive a reasonable allowance. In those circumstances, she is entitled to deduct the expenses incurred in that regard but must deduct from the amount of those expenses the allowance received. The appellant established that she drove a total of 16,074 km in the year 1996, of which 12,460 were for her work (Exhibit A-2). This means that the car was used for work 77 per cent of the time in 1996. The appellant said that in 1997, 70 per cent of the driving she did was for her work but she did not file any logbook or any other evidence for that year. I will therefore accept the Minister's attribution of 64 per cent for the business use of the vehicle in 1997. The Minister accepted that the total motor vehicle expenses for the year amounted to $9,755 in 1996 and $10,369 in 1997. Therefore, I am satisfied that 77 per cent of the total expenses of $9,755, or $7,511, was incurred to earn income in 1996, and that 64 per cent of the total expenses of $10,369, or $6,610, was incurred to earn income in 1997. The appellant received from her employer a reimbursement of $1,201 in 1996 and $2,288 in 1997. The difference, that is, $6,310 for 1996 and $4,322 for 1997, is therefore deductible as employment expenses.
+[15] With respect to the cellular telephone expenses, the only issue is the reduction of the eligible expenses by the amount of the allowance received by the appellant ($100 per month or $1,200 per year). The appellant submits that this allowance was included in her income and therefore it should not be applied so as to reduce the eligible expenses. The appellant relies on the undated letter signed by Janet Tipick for the employer, which states that "a flat allowance of $100 per month for cellular use was part of Ms. Mikhail's income" (Exhibit A-1, Tab 8). Ms. Tipick was not called as a witness to explain the content of her letter.
+[16] It is recognized by the appellant that Ms. Tipick is an office manager for the employer who does not work in the accounting department. The T4 slips that were issued in the appellant's name by the accounting department for 1996 and 1997 indicate amounts of $200.59 and $134.34 respectively as other taxable allowances and benefits. This clearly cannot include the $1,200 allowance for the cellular telephone. Furthermore, there is no indication that this amount was included in employment income in the T4 slips and it is most probable that it was not because it is not employment income but an allowance for an expense incurred in order to earn employment income.
+[17] In view of the apparent contradiction between Ms. Tipick's letter and the T4 slips, I find that the evidence given by the appellant is not sufficient to refute the allegation of fact in the Reply that this allowance was not included in income. It is the appellant who has the burden of showing that the allegations of fact in the Reply are incorrect. Here the appellant has not convinced me that the Minister was in error. I therefore conclude that the annual $1,200 allowance was not included in the appellant's income for 1996 and 1997 and that it was rightly applied by the Minister to reduce the eligible cellular telephone expenses incurred.
+[18] With respect to the other expenses (supplies, parking and seminars) claimed by her, the appellant has not convinced me that she was required to pay any such expenses for which she did not receive an allowance or reimbursement. Indeed, the two Declarations of Conditions of Employment filed in evidence clearly indicate that the employee was not required to pay expenses for which she did not receive any allowance or reimbursement (Exhibit A-1, Tab 3, question 6, and Exhibit R-2, questions 9-10). Therefore, the Minister correctly disallowed the deduction of those expenses in the computation of the appellant's income for 1996 and 1997.
+[19] The last issue, which was raised on the day of the trial, is the claim for a non-refundable tax credit for the spousal amount pursuant to paragraph 118(1)(a) of the Act as amended. During the audit, this credit was claimed and the Minister never gave the appellant an answer regarding that claim. The appellant asserts that her husband did not have any income in the years at issue (Exhibit A-1, Tab 10). I asked counsel for the respondent to find out why the credit was not granted to the appellant.
+[20] By letter dated April 25, 2003, counsel for the respondent advised the Court that the Canada Customs and Revenue Agency agreed to allow the requested T1 adjustment for the 1996 and 1997 taxation years with respect to the spousal amount.
+[21] Consequently, the appeals will be allowed and the assessments referred back to the Minister for reconsideration and reassessment on the basis that the appellant is entitled to a non-refundable tax credit for the spousal amount pursuant to paragraph 118(1)(a) of the Act for the 1996 and 1997 taxation years. The appellant is also entitled to additional employment expenses (car expenses) in the amount of $4,952 for 1996. The appellant is entitled to no further relief.
+Signed at Ottawa, Canada, this 7th day of May 2003.
+"Lucie Lamarre"
+J.T.C.C.
+CITATION:
+2003TCC310
+COURT FILE NO.:
+2002-2370(IT)I
+STYLE OF CAUSE:
+Anita Mikhail v. The Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+March 10, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge Lucie Lamarre
+DATE OF JUDGMENT:
+May 7, 2003
+APPEARANCES:
+Agent for the Appellant:
+Saad Mikhail
+Counsel for the Respondent:
+Justine Malone
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

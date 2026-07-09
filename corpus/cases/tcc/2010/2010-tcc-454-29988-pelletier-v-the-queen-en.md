@@ -1,0 +1,152 @@
+---
+title: "Pelletier v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29988/index.do"
+last_modified: "2010-09-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 454"
+citation2: ""
+neutral_citation: "2010 TCC 454"
+decision_date: "2010-09-21"
+language: "en"
+item_id: "29988"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8003
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:00:33.470000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5bccc90aa40e9bc63df4cc0d27ed802a23f0205d039411e78effe50d3ddf1043"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pelletier v. The Queen
+
+- Citation: 2010 TCC 454
+- Decision date: 2010-09-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8003, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pelletier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-09-21
+Neutral citation
+2010 TCC 454
+File numbers
+2010-678(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-678(IT)I
+BETWEEN:
+TOBIE PELLETIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 16, 2010, at Québec, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Benoit Mandeville
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2008 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of September 2010.
+"François Angers"
+Angers J.
+Translation certified true
+on this 10th day of November 2010.
+Daniela Possamai, Translator
+Citation: 2010 TCC 454
+Date: 20100921
+Docket: 2010-678(IT)I
+BETWEEN:
+TOBIE PELLETIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal from an assessment respecting the appellant’s 2008 taxation year made by the Minister of National Revenue (the Minister), who determined that the appellant is to reimburse the amount of $8,387 he received as old age security benefits over the course of that year.
+[2] The appellant indeed received, over the course of his 2008 taxation year, $136,758 in compensation from the Commission de la santé et de la sécurité du travail du Québec (CSST), as indicated in and confirmed by the Statement of Benefits (T5007) produced by the CSST. The appellant’s net income for the 2008 taxation year was $129,031.
+[3] As a result of an injury on duty that occurred in 1998, the appellant received CSST benefits until March 15, 1999. The appellant then took a number of steps, including an action filed with the Commission des lésions professionnelles on June 15, 2000, and a motion to reopen the hearing on July 4, 2008. On October 20, 2008, the appellant accepted, as per an agreement between he and the CSST, a motion to discontinue the motion to reopen the hearing in return for a promise by the CSST to resume income replacement indemnity payments as of March 16, 1999. This is how the appellant ended up receiving the amount of $136,758, plus interest, for a total of $152,988.28.
+[4] In his 2008 income tax return, the appellant did not report as income the amount paid to him by the CSST. He rather chose not to report the amount of benefits received that were attributable to the 2008 taxation year.
+[5] The appellant also argues that he did not receive the full amount agreed upon with the CSST as it should have reimbursed the social assistance he received from the Ministère de l'Emploi et de la Solidarité sociale and the Régie des rentes du Québec, as well as an amount he had already received from the CSST in July 2000 under another settlement agreement. Those three reimbursements, which amounted to $116,193.75, were subtracted from the amount of $152,988. From the point of view of the tax treatment of his income, the result of such reimbursements is different under Quebec law. For instance, since social assistance is taxable in Quebec, the appellant is entitled to a deduction if the amount is reimbursed. At the federal level, social assistance is not taxable. The appellant cannot therefore deduct the reimbursements and thus reduce his income.
+[6] The appellant also submits that, in order to determine his 2008 income, the amount paid by the CSST should be divided up based on the number of years represented by the amount and that it should be included in computing the income for those years. However, this argument has been the subject of numerous decisions by this Court. Lamarre Proulx J., in Poulin c. Canada, [1998] T.C.J. No. 36 (QL), said the following on the issue at paragraph 15:
+The concept of the receipt of an amount and the relevant taxation year has already been considered by the courts; I am referring, inter alia, to Vegso v. M.N.R., 56 DTC 173, M.N.R. v. Claude Rousseau, 60 DTC 1236, and the decision cited by the agent for the respondent, Archambault v. M.N.R., 88 DTC 1722. The courts have been consistent on this point. When the legislation provides that an amount received must be included in computing income for the year, the amount must be included in the year it is received, not the years for which it was paid.
+[7] Any lump sum, including retroactive benefits by the CSST, must be included in computing the taxpayer’s income for the purposes of Part I.2 of the Income Tax Act (the Act). See Fenner v. The Queen, TCC, 2005-117(IT)I, June 12, 2006, 2006 DTC 3222, Miner, Estate of v. Canada, [2003] T.C.J. No. 563 (QL); Alibhai v. Canada, [2005] T.C.J. No. 394 (QL) and Bongiovanni v. Canada, [2000] T.C.J. No. 725 (QL).
+[8] It is appropriate here to reproduce subsection 180.2(2) of Part I.2 of the Act and paragraph 56(1)(v) of the Act.
+180.2(2) Tax payable. Every individual shall pay a tax under this Part for each taxation year equal to the amount determined by the formula
+A(1-B)
+where
+A is the lesser of
+(a) the amount, if any, by which
+(i) the total of all amounts each of which is the amount of any pension, supplement or spouse’s or common-law partner’s allowance under the Old Age Security Act included in computing the individual’s income under Part I for the year
+exceeds
+(ii) the amount of any deduction allowed under subparagraph 60(n)(i) in computing the individual’s income under Part I for the year, and
+(b) 15% of the amount, if any, by which the individual’s adjusted income for the year exceeds $50,000; and
+B is the rate of tax payable by the individual under Part XIII on amounts described in paragraph (a) of the description of A.
+Amounts to be included in income for year
+56(1)(v) Workers’ compensation — compensation received under an employees’ or workers’ compensation law of Canada or a province in respect of an injury, a disability or death.
+[9] It is true that any amount received as worker’s compensation is deductible under subsection 110(1)(f) of Part I of the Act and that the lump sum payment received from the CSST is not taxable under Part I of the Act. That amount must however be included in the appellant’s income for the purposes of Part I.2 of the Act, which provides for tax on Old Age Security benefits received by a taxpayer. The amount of tax is 15% of the amount, if any, by which the individual’s adjusted income for the year exceeds $50,000, that is, in the appellant’s case, $64,718 for the year 2008. Adjusted income is defined as follows in subsection 180.2(1):
+“adjusted income” of an individual for a taxation year means the amount that would be the individual’s income under Part I for the year if no amount were included under paragraph 56(1)(q.1) or subsection 56(6) or in respect of a gain from a disposition of property to which section 79 applies in computing that income and if no amount were deductible under paragraph 60(w), (y) or (z) in computing that income.
+[10] Paris J., in Fenner, supra, already dealt with the issue of whether a lump sum should be excluded from a taxpayer’s income under Part I.2 of the Act. Here is the pertinent excerpt from his decision:
+The Supreme Court of Canada, in Canada Trustco Mortgage Company v. The Queen, 2000 S.C.C. 54, has indicated that in interpreting legislation, a court must conduct a textual, contextual and purposive analysis of the provision in question. The Court also said that, given the complexity and detail of the Income Tax Act, in normal circumstances greater weight will be placed on a textual analysis of the provision under consideration.
+In this case I believe the definition of adjusted income is clear and unambiguous and leaves no room to exclude lumpsum payments of Workmen's Compensation benefits from the calculation.
+Furthermore, I am not convinced that the context and purpose of the provision provide any support for the Appellant's position. Firstly, I note that the definition of adjusted income was added to the Act in 1996. Formerly, subsection 180.2(1) based the tax payable on an individual's income under Part I of the Income Tax Act. Subsequent to the amendment, two items that would have otherwise formed part of the individual's income under Part I were excluded from the Part I.2 tax base. To my mind, this is an indication that Parliament has turned its mind to the question of what should be excluded from the Part I.2 tax base and has chosen not to exclude the kind of lump sum payment in issue in this case.
+Furthermore, Parliament's purpose in enacting Part I.2 was to recover a portion of Old Age Security benefits paid to taxpayers who are less in need of those payments than others. It is consistent with that policy that lump sum payments be taken into account in determining a taxpayer's needs during a particular taxation year.
+[11] For all these reasons, I am of the view that the Minister incorrectly computed the appellant’s income for the purposes of Part I.2 of the Act and that he was liable to pay tax equal to the benefits received in 2008 under the Old Age Security Act. The appeal is therefore dismissed.
+Signed at Ottawa, Canada, this 21st day of September 2010.
+"François Angers"
+Angers J.
+Translation certified true
+on this 10th day of November 2010.
+Daniela Possamai, Translator
+CITATION: 2010 TCC 454
+COURT FILE NO.: 2010-678(IT)I
+STYLE OF CAUSE: Tobie Pelletier v. Her Majesty The Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: August 16, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: September 21, 2010
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Benoit Mandeville
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

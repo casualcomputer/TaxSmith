@@ -1,0 +1,178 @@
+---
+title: "Quinta Essentia Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520949/index.do"
+last_modified: "2022-07-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 80"
+citation2: ""
+neutral_citation: "2022 TCC 80"
+decision_date: "2022-07-12"
+language: "en"
+item_id: "520949"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4538
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:32:33.882000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e8253778e4bccf3ce1964a91914920557fe90644d142390cff353a0f6257832b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Quinta Essentia Inc. v. M.N.R.
+
+- Citation: 2022 TCC 80
+- Decision date: 2022-07-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4538, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Quinta Essentia Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-07-12
+Neutral citation
+2022 TCC 80
+File numbers
+2017-2576(CPP), 2017-2595(EI)
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2017-2576(CPP)
+2017-2595(EI)
+BETWEEN:
+QUINTA ESSENTIA INC.,
+Appellant,
+and
+MINISTRY OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on May 24, 2022, at Sudbury, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Agent for the Appellant:
+Guylaine Jalbert
+Counsel for the Respondent:
+Ian Moffat
+JUDGMENT
+The appeals are allowed and the Minister’s decisions are varied in accordance with the Reasons herein.
+Signed at Ottawa, Canada, this 12th day of July 2022.
+“Patrick Boyle”
+Boyle J.
+Citation: 2022 TCC 80
+Date:20220712
+Docket: 2017-2576(CPP)
+2017-2595(EI)
+BETWEEN:
+QUINTA ESSENTIA INC.,
+Appellant,
+and
+MINISTRY OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] The Appellant (“Quinta”) operated the Quinta Essentia Wellness Studio and Tea Bistro in Sudbury from 2012 to 2018. Quinta is appealing the Minister’s decisions that three of its workers in 2015–2016 were employees in insurable employment for EI purposes and pensionable employment for CPP purposes.
+I. The witnesses
+[2] The Appellant’s founder, owner, manager and sole shareholder, Guylaine Jalbert was the Appellant’s sole witness. The Respondent’s witnesses were two of the three former yoga instructors, Ms. Bentley and Ms. Fraser, who have been so recharacterised. All of the witnesses were generally credible. Respondent’s counsel acknowledged Ms. Jalbert’s credibility and did not challenge her credibility in any of the answers she gave in her testimony.
+[3] Ms. Bentley was a relatively short-term worker who taught yoga classes at Quinta one evening a week when she could. Ms. Fraser worked for Quinta for a longer period, taught more often, worked in other activities than yoga at Quinta and, according to all three witnesses, managed the scheduling for availability and planning discussions of the yoga teachers who worked there. Ms. Fraser was able to speak to the activities of other yoga instructors, Ms. Jalbert, and Quinta with considerable personal knowledge.
+[4] Both of the Respondent’s witnesses largely corroborated the evidence of Ms. Jalbert. Ms. Fraser’s testimony very much corroborated her testimony on the significant aspects of intention, control and subordination, and of financial risk and opportunity.
+II. Quinta Essentia Wellness Studio and Tea Bistro
+[5] In the period that it operated the Quinta Essentia Wellness Studio and Tea Bistro, it was from premises that had a single multi-purpose room used for massage, workshops, yoga classes, retail wellness product sales, and an organic tea bar.
+[6] The Holistic Healing Treatments included Reiki, facials, hot oil scalp massage, foot and hand baths, and salt and mud back packs.
+[7] The massage services offered included prenatal, sports, head, deep tissue, relaxation, TMJ, Lymphatic drainage, hot stone, Thai, and Therapeutic Yoga Massages.
+[8] The workshops were regular and varied, including such topics as healthy eating habits and holistic nutrition, chiropractics, medications, and the benefits of yoga.
+[9] Yoga classes (distinct from both yoga massage and yoga workshops) were offered at Beginner, Gentle Flow, Yoga Flow, Classical Hatha Foundation, Hatha Yoga Flow, and Energy Freeing levels. There was also an All-Level class.
+[10] The Tea Bistro area offered teas, smoothies, lattes, etc.
+[11] The retail wellness product area offered numerous lines of items, including bracelets made by Ms. Fraser.
+[12] With the exception of the yoga class teachers, Quinta’s workers were employees. Some massages were provided by masseuses who “rented” the multi-purpose room and paid a percentage of their fee to Quinta. Massage equipment was provided entirely by the worker.
+III. Insurable and pensionable employment-employee or independent contractor
+[13] The issue to be decided in this case is whether or not a worker is performing the services as her own business on her own account. This requires a two-step structured analytical process of inquiry. The first step is to determine the subjective intent of the worker and the payer as to whether the worker was to be an employee or an independent contractor.
+[14] The second step is to test the subjective intent of the parties against the objective realities of the relationship to see if it is sustained.
+[15] In making this determination, the factors to be considered are the degree of control over the worker’s activities or subordination of the worker, what tools or supplies does the worker bring or are they supplied with, and the worker’s financial risk and opportunity, her upside and downside as a business person.
+[16] These factors must be considered in the light of the parties’ intent. No particular factor is dominant and there is no set formula. The factors to consider and how much weight to place upon them will vary with the particular facts and circumstances of different cases.
+[17] It should be noted that CRA is only seeking to characterise the workers’ yoga instruction activities as employment, and accepts that their massage therapy activities at Quinta and wellness workshops and bracelets, etc. are independent contractor activities. That includes the yoga massage and the yoga workshops as distinct from the yoga instruction classes.
+[18] It can also be noted that the Court is unaware whether CRA has challenged these three workers’ income tax filings, or is pursuing Quinta for unremitted tax withholdings from employees.
+IV. Facts and Findings
+[19] Ms. Jalbert explained that in 2012, she set out to employ one or more yoga instructors for Quinta. She wanted them to be employees, as were Quinta’s other workers, as that would give her more control, predictability and stability in her owner-managed business.
+[20] She discovered unexpectedly that none of the local yoga instructors were interested in becoming employees; they all operated by choice as independent contractors and liked to work for multiple yoga studios. The yoga instructors wanted their independence and control, their ability to work, as most did, at other yoga studios contemporaneously and, solely as a result of this, Ms. Jalbert resigned herself to having to hire yoga instructors as independent contractors for Quinta’s business.
+[21] It is incontrovertible that Quinta’s intention when it hired these yoga instructors was that they would be independent contractors. It is equally clear from the evidence of Ms. Fraser that she had absolutely intended to be an independent contractor and always considered herself to be a contract worker in business under the name Inside/Out Yoga Therapy or Inside/Out, and worked at different yoga studios including the two main ones in Sudbury, and also worked as a massage therapist and handcrafted wellness jewellery. Ms. Bentley was much less clear or certain. She first said that she assumed she was an employee—even though moments before she described providing her own insurance for her teaching sessions. When asked why she assumed she was an employee and when, her answer was that she now recognized that she probably was an independent contractor. She did not address her intention at the time in her evidence. I find on this evidence that each of the parties intended from the outset, that the yoga instructors would be independent contractors and not employees.
+[22] Turning to the next step in the analyses, is the mutual intention to be an independent contractor sustained by the objective realities, I will begin with the factors of the extent of control of Quinta over their activities and of any subordination of the yoga instructors.
+[23] As is often the case, this is a significant factor in this case. In this case, I find it to be the most significant factor. It is also the determining factor given that, in considering the other factors below, there is nothing in evidence that would be inconsistent with an independent contractor relationship, and they are either neutral or lean slightly towards independent contractor status. The consideration of subordination and control leans strongly towards independent contractor status in this case for the following reasons:
+- Yoga instructors were able to, and did, work at other yoga studios and venues at the same time. Both Ms. Fraser and Ms. Bentley did this as did other yoga instructors at Quinta.
+- Yoga instructors would not agree to be employees.
+- Quinta’s Ms. Jalbert let yoga instructors know of the monthly availability of its multi-purpose room, and yoga instructors chose what days and times they would offer classes. They did this based on their own availability, schedule and preferences.
+- Yoga instructors determined what type of yoga class would be taught at the times and days of their choosing.
+- Yoga instructors normally arranged from within their own network of yoga instructors for their own replacements for their scheduled classes if needed and available. Some would just message Ms. Jalbert to find a replacement or cancel the class, which she did. Otherwise, Quinta would cancel the class. At times, yoga instructors would send replacements without letting Quinta know beforehand. Quinta normally paid the replacement worker’s invoice when received directly.
+- Yoga instructors sent business invoices to Quinta for their work. Ms. Fraser’s were in her business name of Inside/Out Yoga Therapy and included charges for bracelets sold by Quinta. Ms. Bentley’s invoices thank Quinta for its “business”. Nothing in evidence could be mistaken for a pay slip or timecard, etc. Quinta compared the detailed invoices to its own records before paying them.
+- Ms. Fraser, one of the yoga instructors, largely dealt with the scheduling, availabilities and planning for the yoga classes in consultation with the other yoga instructors.
+- Yoga classes were promoted by both Quinta on its website and by yoga instructors on their social media. The MindBody Software app was used. This app allows clients to find studios and classes, as well as to follow individual yoga instructors. Ms. Fraser said that her yoga classes were mostly promoted by her with the help of Quinta. Quinta’s website was updated monthly for class offerings after yoga instructors chose their desired available time slots and the level or type of class they would be offering.
+- Quinta’s other workers were employees and were subject to different management and control of the performance of their activities than were the yoga instructors. The massage services only involved the masseuse renting a room from Quinta for a percentage of the fee. They brought their own equipment and were not workers paid by Quinta for their work either as employee or independent contractor.
+[24] The facts relevant in this case to considering and weighing the tools and supply factor are as follows:
+- The worker was responsible for their training and certification.
+- At least one worker provided her own liability insurance for the classes she taught on a very part-time bases for a relatively short period compared to the other yoga instructors before the Court.
+- Instructors typically chose and brought their own music for each class. Quinta did have some of its own that yoga instructors or others renting the room could use as well as a CD player in its storage room. One worker testified that she would bring her own Bluetooth speakers for her classes nonetheless.
+- Quinta had a supply cupboard/room that users of the multi-purpose room had access to, which included chairs, blankets, some yoga blocks, etc. These were also used in other activities than yoga classes. Yoga massages and yoga workshops are not challenged as being independent contractor work and are accepted as such.
+- Some yoga instructors used Quinta’s equipment and some did not. One testified she could have adapted any of her classes if the supplies had not been available for any reason. Instructors brought their own mats and blocks. Those in the supply cupboard were largely used by those clients who did not bring their own.
+[25] I consider the factor of tools and equipment to be a largely neutral consideration in this case. Nothing about it is inconsistent with the parties’ intended independent contractor status. Workers arranging for and paying for their own insurance is at least very unusual in employment settings.
+[26] The facts relevant in this case to considering and weighing workers’ financial risks and opportunities are as follows:
+- The flat rate of pay per 1-hour class was agreed to by Quinta and the yoga instructors at the outset, as were the changes. It was essentially the going rate charged by yoga instructors in Sudbury at the time. The fee was not fixed by Quinta, anymore than by the instructors, and most probably somewhat less. The rate Quinta charged its clients for the yoga classes was set by Quinta, cognisant of what other studios were charging and what yoga instructors were to be paid.
+- Yoga instructors were normally instrumental in marketing their own classes offered at Quinta and other venues on their personal social media accounts.
+- Yoga instructors could and did take on work at other local yoga venues. Both of those who testified also worked at Quinta’s major Sudbury competitor at the time.
+- Yoga instructors were free to offer classes or not each month based solely on their personal schedules, desire and availabilities.
+- Yoga instructors could and did swap between themselves within the local network of instructors to do more or less work at Quinta (and presumably other venues), and to adjust their mix of yoga instruction and other services (such as massage, workshops and wellness jewellery) as they chose based upon their own personal financial decision-making.
+[27] I find that, considered in the context of all of the evidence, the financial risk and opportunities factor also leans towards independent contractor status and not employment.
+[28] For these reasons, these appeals are allowed.
+Signed at Ottawa, Canada, this 12th day of July 2022.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2022 TCC 80
+COURT FILE NO.:
+2017-2576(CPP)
+2017-2595(EI)
+STYLE OF CAUSE:
+QUINTA ESSENTIA INC.
+AND MINISTRY OF NATIONAL REVENUE
+PLACE OF HEARING:
+Sudbury, Ontario
+DATE OF HEARING:
+May 24, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+July 12, 2022
+APPEARANCES:
+Agent for the Appellant:
+Guylaine Jalbert, Agent
+Counsel for the Respondent:
+Ian Moffat
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Guylaine Jalbert
+Firm:
+BLANK
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

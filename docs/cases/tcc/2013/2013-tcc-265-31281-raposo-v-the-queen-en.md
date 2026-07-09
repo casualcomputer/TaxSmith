@@ -1,0 +1,161 @@
+---
+title: "Raposo v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31281/index.do"
+last_modified: "2013-08-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 265"
+citation2: ""
+neutral_citation: "2013 TCC 265"
+decision_date: "2013-08-26"
+language: "en"
+item_id: "31281"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5092
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:55:34.828000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3981be3fb91e606de4325938205c4c8343bfbb5835d3e0e3f0ee17dbb312b3b3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Raposo v. The Queen
+
+- Citation: 2013 TCC 265
+- Decision date: 2013-08-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5092, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Raposo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-08-26
+Neutral citation
+2013 TCC 265
+File numbers
+2010-682(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-682(IT)G
+BETWEEN:
+CARMELA RAPOSO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on November 23, 2012, at Toronto, Ontario
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+John Grant
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeals are allowed in part and the matter is referred back to Minister of National Revenue for reassessment in accordance with the attached Amended Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of September 2013.
+“B.Paris”
+Paris J.
+Citation: 2013TCC265
+Date: 20130917
+Docket: 2010-682(IT)G
+BETWEEN:
+CARMELA RAPOSO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Paris J.
+[1] Ms. Raposo is appealing reassessments of her 2004 and 2005 taxation years. The Minister of National Revenue included an additional $59,867 and $40,291 in her income for her 2004 and 2005 taxation years, respectively, as proceeds of a fraud she carried out against her former employer, Buzz Seating Ltd., (“Buzz”) and imposed penalties under subsection 163(2) of the Income Tax Act, R. S. C., 1985 c. 1 (5th Supp.) (ITA).
+[2] Ms. Raposo denies having defrauded Buzz of any funds or property. However, she admits that, on April 21, 2008 she pled guilty to the charge that between February 1, 2005 and May 30, 2005 she defrauded Buzz by misappropriating funds, contrary to paragraph 380(1)(a) of the Criminal Code of Canada, R.S.C., 1985, c. C-46 (Exhibit R-1, tab 14). As part of the sentence that was imposed on her, she was ordered to pay restitution of $40,000 to Buzz. She also admits that in June 2008 she settled a civil suit brought against her by Buzz to recover misappropriated company funds by agreeing to pay $20,000 to Buzz.
+[3] Paragraph 380(1)(a) of the Criminal Code applies to cases of fraud involving over $5,000 or frauds involving testamentary instruments. It reads:
+380. (1) Every one who, by deceit, falsehood or other fraudulent means, whether or not it is a false pretence within the meaning of this Act, defrauds the public or any person, whether ascertained or not, of any property, money or valuable security or any service,
+(a) is guilty of an indictable offence and liable to a term of imprisonment not exceeding fourteen years, where the subject-matter of the offence is a testamentary instrument or the value of the subject-matter of the offence exceeds five thousand dollars;
+[4] A the hearing before me, Ms. Raposo said that she pled guilty to the charge against her and agreed to settle with Buzz because it would have cost her substantially more to proceed to trial and she could not afford it, and because she wished to move on with her life. She denied having taken anything from Buzz that she was not entitled to, and said that everything she received from Buzz consisted of salary or reimbursement of expenses she paid on behalf of the company.
+[5] Prior to working at Buzz, Ms. Raposo was a manager at two companies (related to each other) that manufactured office furniture. While working at those companies, she became acquainted with Daniel O’Hara (O’Hara) who worked at one of the companies as a saleman. In 2003, O’Hara left to start Buzz. He persuaded Ms. Raposo to come to work for Buzz in late 2003 as its general manager.
+[6] Ms. Raposo said that O’Hara was an American citizen, and that he resided in the U.S. During the time that the business was starting up, O’Hara would come to Canada and stay with Ms. Raposo and her family at her home. Buzz’s office was also at her home. Ms. Raposo said she paid all of the company’s initial expenses with her credit card, and employees were paid in cash. When the company set up a bank account at some point in 2003 she was made the sole signatory on it. It appears that funds provided by investors were deposited in the account to fund the activities of Buzz. By late 2004, the company set up a manufacturing plant in Cambridge, Ontario. Ms. Raposo said that some of the equipment and supplies for the plant were paid for with cash to get a better price, and that she withdrew cash from the company bank account to make these purchases. She provided a copy of a letter from one equipment supplier stating that she had been paid in cash by O’Hara for the equipment. (Exhibit A-1). Ms. Raposo also said she paid other company expenses herself and reimbursed herself from company funds for those payments. She testified that she was not always reimbursed. She produced copies of receipts for some stamps and office supplies that showed these items were paid for in cash or with a debit card. (Exhibit A-5 and A-6) She also produced a copy of an invoice dated December 7, 2004 for chair parts and a cheque on her personal account used to pay the invoice. (Exhibit A-2) Finally she produced copies of her personal cell phone bills and her original home phone bills to show that they were used extensively for calls relating to Buzz’s business. (Exhibits A-7 and A-8). Ms. Raposo said that these were the only records she had of expenses she paid on behalf of Buzz.
+[7] According to Ms. Raposo, in May 2005, O’Hara told her that he needed all of the company records that she kept at home for a meeting with an auditor from the Canada Revenue Agency (CRA). Ms. Raposo was aware that the company was having financial problems, that it was behind on its remittances of employee source deductions and that the CRA was conducting an audit. However, three days after O’Hara took the records, she was dismissed on the grounds that she had misappropriated company funds. She said she attempted to meet with O’Hara to demonstrate that everything she received from the company was either salary or a reimbursement of expenses, but he refused. She also said she has not had access to the records of the company since then and that those records included a log of all expenses paid by her personally.
+[8] Criminal charges were laid against her and she retained counsel. However, she said that it would have been too expensive for her to go to trial, which she was told would cost $100,000. Instead, under an agreement reached with the Crown, she pleaded guilty and received a sentence of two years less one day to be served in the community, and was ordered to pay $40,000 restitution. A civil suit brought against her by Buzz to recover the stolen funds was settled at around the same time for $20,000. Ms. Raposo said that she took these steps because she wanted to put an end to the whole matter so that she and her family could move on.
+[9] Ms. Raposo testified that she ran and managed the company single-handedly throughout the time she worked there except during the times O’Hara came up from the U.S. She said she was “pulled in all directions” and that she asked O’Hara many times to hire someone to do the accounting for the company but that he refused because there was not enough money available. She insisted though that sufficient records existed to show that she did not use any company funds for personal purposes.
+[10] According to the schedule attached to the Reply to the Notice of Appeal, the amounts taken by Ms. Raposo from the company consisted of “duplicate” payments of salary she paid herself from the company bank account, other cheques she wrote to herself from the company or that she wrote to “cash” and endorsed to herself and cashed, cash withdrawals from the company’s account, use of the company’s debit card for personal expenses and payment of personal phone utility bills by company cheque. The amounts and dates of these misappropriations are set out in the schedules, which are based on a list of misappropriated amounts prepared by Buzz. (Exhibit R-1, tab 7)
+[11] In cross-examination, Ms. Raposo admitted that she received all of the amounts listed in the schedules to the Reply but did not agree with the characterization of the amounts. She explained that the purported “duplicate” salary cheques were in fact payments of salary, and that the total salary she received, including those amounts, did not exceed the salary to which she was entitled, which she said was $80,000 per year. The other cheques and withdrawals were either to obtain cash to make payments to workers or suppliers or to reimburse herself for amounts she paid from her personal funds for the company, and all of the debit card purchases were on behalf of the company. One expenditure was for patio furniture for her home. She explained that O’Hara told her to purchase it and to charge it to the company as a gift from him. She said that she left it up to the accountants to decide how to treat these amounts in the company’s books. She also said that the patio furniture was used partly for office functions at her home, but gave no details of who attended them or when they were held.
+Position of the Appellant
+[12] Ms. Raposo maintained that the evidence she adduced was sufficient to show that all of the amounts set in Schedule A and B to the Reply to Notice of Appeal were either employment income which she reported on her tax returns for 2004 and 2005 or were reimbursements of expenses she had paid personally on the company’s behalf and were non-taxable receipts. She took the position that her conviction for fraud is not determinative of any facts in this case because she entered a guilty plea for financial reasons only. She also submitted that it was implausible that she misappropriated funds from the company, since she chose to leave a good job that she had worked at for ten years in order to work at Buzz. She said it didn’t make sense that within two months of starting at Buzz that she would begin taking money she was not entitled to. Ms. Raposo also argued that there was no evidence that her lifestyle or assets reflected any illegal unreported income. She also submitted that information provided by O’Hara was unreliable. She said he had an interest in under-reporting her salary on the T-4 slips issued to her by Buzz, in order to reduce the amount of employee source deductions that the company was required to remit to the CRA and that he underreported income earned by the company and used furniture designs and copyrights of the company’s competitors without permission or authorization. Ms. Raposo also argued that it had not been shown what the calculation of the misappropriated amounts was based on, since none of the company’s records had been produced.
+Analysis
+[13] While the appellant maintained that I should disregard her criminal conviction for fraud against Buzz, this position runs contrary to statute and the existing jurisprudence concerning the use of prior criminal convictions in civil actions. Proof of prior convictions are admissible in Ontario pursuant to section 22.1 of the Ontario Evidence Act, R.S.O. 1990, c. E.23 which reads as follows:
+22.1 (1) Proof that a person has been convicted or discharged anywhere in Canada of a crime is proof, in the absence of evidence to the contrary, that the crime was committed by the person, if,
+(a) no appeal of the conviction or discharge was taken and the time for an appeal has expired; or
+(b) an appeal of the conviction or discharge was taken but was dismissed or abandoned and no further appeal is available. 1995, c. 6, s. 6 (3).
+[14] A criminal conviction is admissible as prima facie evidence of the material facts underlying the conviction: Re Del Core and Ontario College of Pharmacists (1985), 51 O.R. (2d) 1 (Ont. C.A.). Even greater weight may be accorded to a prior criminal conviction where there has been a full trial leading to the conviction: Ali et 124558 Canada inc v Cie d’assurance Guardian du Canada et Cie d’assurance Royale du Canada, 1999 CanLII 13177 (QCCA).
+[15] In this case, given that the conviction was recorded as a result of the appellant’s guilty pleas, rather than after a trial, it is more appropriate to treat the conviction as prima facie proof of the fraud by the appellant against Buzz.
+[16] In any event, the assumptions relied upon by the Minister in reassessing the appellant, set out in paragraph 7 of the Reply to Notice of Appeal, include that she obtained $59,867 in 2004 and $40,291 from Buzz by fraudulent means. The details of the amounts are set out in Schedules A and B to the Reply. Those schedules consist of a list of the amounts misappropriated by the appellant from Buzz and show how the payments were recorded in Buzz’s books and records.
+[17] Therefore, both as a result of the proof of the appellant’s criminal conviction for fraud and as a result of the assumptions upon which the Minister based the reassessments in issue, the appellant bears the onus to show that she did not defraud Buzz of the amounts in her income for her 2004 and 2005 taxation years. However, the respondent bears the onus of proof with respect to the establishment of the gross negligence penalties.
+[18] For the reasons that follow, I find that the appellant has not shown that she did not defraud Buzz of the amounts that have been included in her income except in one minor respect. I also find that the respondent has shown that the penalties were properly imposed in accordance with subsection 163(2) of the Act on $37,347.41 of unreported income in her 2005 taxation year.
+[19] I find the appellant’s evidence to be generally unconvincing, especially concerning the amounts referred to as “duplicate payroll cheques” which she issued to herself.
+[20] The cheques referred to as the “duplicate payroll cheques” were made out by the appellant to herself on Buzz’s bank account in amounts that were identical (or on one instance very close) to the amount of her payroll cheques between June 2004 and April 2005. The “duplicate” cheques amounted to $15,304.68 in 2004 and $9,741.29 in 2005.
+[21] The appellant maintains that all of these cheques were in fact payroll cheques to which she was entitled.
+[22] The evidence concerning the amount of the appellant’s salary is confusing. O’Hara stated in a letter written in April 2004 that her annual salary at Buzz was $80,000 and that she was also appointed as a director and given 10% of the shares of the company. However, in other correspondence from O’Hara to Buzz’s lawyer, the appellant’s salary is shown as $60,000 per annum, which was reduced by $15,000 to $45,000 to offset the purchase of 5% interest in the company by the appellant (Exhibit R-1, tab 10).
+[23] While the appellant said that her annual salary at Buzz was $80,000, she only reported employment income of $47,841.00 from Buzz on her 2004 T-1 income tax return. She said that the first T-4 slip she had received from Buzz for her 2004 tax year before she was dismissed showed total employment income of $80,938.04. After she was dismissed she said that she received two revised T-4 slips, one prepared by the CRA showing employment income of $60,000 and a final one from Buzz showing employment income of $47,841.00. She said that she believed she had no choice but to accept the final figure because it would have been impossible for her to get a further amended T-4 slip from the company showing her true earnings. However, in cross-examination, the appellant said she could not in fact say how much salary she received in 2004 from Buzz and that “it was difficult to reconcile” what her income was that year.
+[24] The accounting treatment in Buzz’s books for the alleged duplicate payroll cheques leads me to question the appellant’s assertion that all of the cheques were legitimate salary payments to her. From February to June 2004, the appellant wrote out payroll cheques to herself roughly every two weeks, in amounts ranging from $1,242.99 to $1,286.93. Those amounts were charged to Buzz’s payroll account. Beginning in June 2004, the appellant began writing cheques to herself in the same amount as ones charged to Buzz’s payroll account for her salary. These cheques were charged to various other accounts, including general expenses, supplier expenses and telephone expenses, or were simply not recorded in Buzz’s books at all. During the same period the bi-weekly payroll cheques the appellant made out to herself were recorded in Buzz’s payroll account. In other words, the additional cheques in the same amount as the cheques recorded as the appellant’s salary were not recorded as salary. They appear to have been disguised as payments of other kinds of expenses or to have not been recorded in Buzz’s accounts at all. The appellant admitted that she made most of the bookkeeping entries in Buzz’s records, except for some that may have been made by a part-time worker. I infer that the appellant would have directed the worker to make the entries, given her position at Buzz during that time. The accounting treatment of the “duplicate payroll cheques” leads me to disbelieve the appellant’s claim that all of these amounts were salary to her. If they had been salary, why did the appellant not account for them in that manner? Furthermore many were dated only a few days before or after ones that were recorded as payroll. There was no explanation why salary cheques would have been written for identical or very similar amounts within days of each other on an ongoing basis after June 2004.
+[25] Overall I find the evidence concerning the appellant’s actual salary received from Buzz supports the repondent’s position that the amounts described as “duplicate payroll cheques” were misappropriations by the appellant. While the unexplained revisions of the T-4 slips and the inconsistent representations by O’Hara as to the appellant’s salary are confusing, the way in which the appellant accounted in Buzz’s books for many of those payments as other kinds of expenses and did not account at all for other of those payments leads me to conclude that she was not entitled to those payments as salary. I also find the appellant’s explanation for the discrepancy between what she said her salary was and what she reported on her tax return to be unconvincing. Since her salary was paid by cheque, it seems to me that it would have been easy for her to determine from her own bank records what amount she received in 2004 in order to correctly report it on her return.
+[26] The next series of amounts included in the appellant’s income by the Minister relate to cheques written by the appellant to herself or to “cash” on Buzz’s bank account or cash withdrawals from that account together. These items totaled $36,895.88 in 2004 and $26,138.50 in 2005. The appellant maintained that she used the cash from these cheques and withdrawals for purchases of equipment and supplies for Buzz’s business, or to reimburse herself for puchases she made for the business out of her bank account or with her credit or debit card. In support of her position the appellant produced a copy of a cheque written by her on her personal bank account to a Buzz supplier. The amount of the cheque corresponded to a cheque she made out to cash on Buzz’s account. However, this was not one of the cheques that was included in the fraud charge or that the Minister treated as unreported income. The appellant also testified that she used some of the cash from other cheques to purchase equipment for Buzz. She provided a letter from one supplier indicating that certain equipment had been purchased in cash by O’Hara. Once again, however, a cheque to cash for $3,500 that was recorded in Buzz’s books on account of that supplier was not included in the fraud charge or in the unreported income.
+[27] The appellant did not call any witnesses from any other suppliers to collaborate her testimony that she paid them cash for any other items sold to Buzz. Nor did she provide any details of what equipment she purchased with the cash.
+[28] The appellant did testify that some of the cash was used for office supplies and postage for company mail, and some was used to reimburse herself for supplies and purchases for the company that she paid for with her personal debit card. The appellant produced a series of receipts from a variety of stores such as Staples, Shoppers, Best Buy and Home Depot for miscellaneous supplies. Some receipts identify the item purchased and some simply show the price charged. Some identify the method of payment while others do not. The receipts for supplies for the period from December 27, 2003 to April 2, 2005 total $1,559.70. The receipts for postage for roughly the same period total $376.64. The appellant also estimated an additional amount for postage she said she would have paid for the company.
+[29] Unfortunately, there is no way of knowing whether the cash taken by the appellant from the company’s bank account was used to pay any of these amounts or whether the appellant was already reimbursed for them in some other manner. The appellant maintained that she kept a log of the expenses (including receipts) that she incurred on behalf of the company to which she was denied access after she was dismissed. I find it implausible, though, that she would have regularly paid cash or used her personal debit card to pay company expenses when she was given a debit card on the company account and also had authority to write cheques on behalf of the company. It makes no sense to me why she would have preferred to pay company expenses out of her own funds when it would have been as easy to use the company’s debit card or cheques and would have made accounting for the purchases far simpler.
+[30] The cash withdrawals included in the appellant’s income also included a $400 U.S. withdrawal but the appellant did not address this amount in her testimony.
+[31] The remainder of the items in issue relate to payments made by cheque by the appellant out of Buzz’s bank account. In 2004 and 2005 she wrote cheques to Bell Mobility to pay her personal cell phone bill, to Bell World to pay her home phone bill, to Rona, Home Depot, Best Buy, Zellers and Dominion for unspecified items, to the Province of Ontario for traffic fines, to Canadian Tire and Citi Financial to pay her credit card bills and to Dot Patio to pay for patio furniture.
+[32] The appellant produced her cell phone and home phone bills for the relevant period which showed a significant amount of long distance calls to the U.S. and Southern Ontario which the appellant identified as relating to the company’s business. The appellant said that she used company funds to make payments on these accounts because of this business use. In light of the detailed telephone receipts presented by the appellant which support her testimony, I am prepared to accept that the payments to Bell Mobility and Bell World should be removed from the unreported income assessed to her. This totals $3,476.07 in 2004 and $2,943.59 in 2005.
+[33] The appellant also claimed that the payment to Dot Patio was to pay for patio furniture for her home which O’Hara gave her as a gift from the company. She said it was to thank her for allowing him to stay with her at her home while he was in Canada on company business. This would clearly be a taxable benefit to the appellant and was correctly included in her income.
+[34] With respect to the remainder of the payments made by cheque to third parties on behalf of the appellant, no evidence was presented to corroborate her testimony that these were for company expenses. For this reason, and because of the lack of detail in the appellant’s testimony concerning these payments, I am not satisfied that she has shown that they were not payments of personal expenses.
+[35] The appellant argued that it made no sense that she would leave a good job to begin to work for Buzz and then begin to take money from the company, but without more detailed and convincing evidence that she did not defraud the company, I must accept the Minister’s assumption that she did, whether or not a motive has been made out. In addition I have some difficulty accepting her assertion that she pled guilty because she could not afford the expense of a trial, since her plea bargain required her to pay $40,000 restitution and she also agreed to settle Buzz’s civil suit against her for $20,000. According to the evidence, the appellant paid both amounts at the time of her conviction or shortly thereafter.
+[36] I turn now to the question of the gross negligence penalties. The onus of course is on the respondent to prove that the appellant made misrepresentations in reporting her income for 2004 and 2005 and that the misrepresentations were willful or due to gross negligence. The respondent called no witnesses, and relied on the proof of the appellant’s criminal conviction.
+[37] As I stated earlier, the criminal conviction is prima facie proof of the facts underlying the conviction. Here the indictment against the appellant only refers to the 2005 year and does not set out the actual amount she misappropriated from Buzz. However, the record shows that $40,000 restitution was ordered. In my view the record can be relied on to support the position that there was a misappropriation of $40,000 by the appellant in 2005. This amount would have included those cheques totaling $2,943.59 written on Buzz’s account in 2005 to pay the appellant’s phone bills, which I found not to have been misappropriated by the appellant. For the purpose of applying the gross negligence penalties, the respondent has shown that the appellant misappropriated $37,056.41 from Buzz. The appellant admitted that she did not report any of the amounts included by the Minister in her income. I find, therefore, that the appellant deliberately underreported her income $37,056.41 in her 2005 taxation year. I would adopt the position taken by Bowman C.J. in Biros v Canada, 2007 TCC 248, that where the respondent has proved that a taxpayer has received funds from a fraudulent scheme, the failure to report the income from the fraud is more likely part of the overall fraud than due to inadvertence by the taxpayer.
+[38] For these reasons, the appeals are allowed in part and the matter is referred back to the Minister for reassessment on the basis that the unreported income be reduced by $3,476.07 in 2004 and $2,943.59 in 2005. The gross negligence penalty be deleted for the 2004 taxation year and be recalculated for the 2005 taxation year on the basis of an intentional failure to report income of $37,347.41.
+[39] Given that the appellant has had some success in these appeals, I decline to make any award of costs.
+Signed at Ottawa, Canada, this 25th day of September 2013.
+“B.Paris”
+Paris J.
+CITATION: 2013TCC265
+COURT FILE NO.: 2010-682(IT)G
+STYLE OF CAUSE: CARMELA RAPOSO AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 23, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF AMENDED JUDGMENT: September 25, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+John Grant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

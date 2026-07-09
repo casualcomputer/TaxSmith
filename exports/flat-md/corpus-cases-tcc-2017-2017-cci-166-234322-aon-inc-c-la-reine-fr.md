@@ -1,0 +1,355 @@
+---
+title: "Aon Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/234322/index.do"
+last_modified: "2017-08-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 166"
+citation2: ""
+neutral_citation: "2017 CCI 166"
+decision_date: "2017-08-31"
+language: "fr"
+item_id: "234322"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2190
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:23:30.755000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "86137abcbd0c0d528600da7a28ebfd5c44208f1b415b9163a12f4f83ccb7d0db"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Aon Inc. c. La Reine
+
+- Citation: 2017 CCI 166
+- Decision date: 2017-08-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2190, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aon Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-08-31
+Référence neutre
+2017 CCI 166
+Numéro de dossier
+2015-1043(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015‑1043(IT)G
+ENTRE :
+AON INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 18 et 19 janvier 2017, à Toronto (Ontario).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Avocats de l’appelante :
+Me Justin Kutyan
+Me Adam Gotfried
+Avocat de l’intimée :
+Me Craig Maw
+JUGEMENT
+Pour les motifs du jugement ci‑joints, l’appel interjeté à l’encontre des cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2010 et 2011 est accueilli, avec dépens, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que les dépenses en cause de 2 621 261 $ pour l’année d’imposition 2010 et de 1 536 124 $ pour l’année d’imposition 2011 sont des dépenses courantes.
+Si les parties ne peuvent pas s’entendre sur les dépens, elles peuvent déposer des observations écrites d’au plus dix pages dans les 60 jours suivant la date du présent jugement.
+Signé à Ottawa, Canada, ce 31e jour d’août 2017.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 4e jour de septembre 2018.
+Elisabeth Ross, jurilinguiste
+Référence : 2017 CCI 166
+Date : 20170831
+Dossier : 2015‑1043(IT)G
+ENTRE :
+AON INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction
+[1] Les conditions hivernales rendent souvent la conduite et la marche difficiles et parfois dangereuses. La glace représente un risque important, et le sel est fréquemment utilisé comme moyen de réduire ce risque. Toutefois, les effets de l’eau salée peuvent être très dommageables pour le béton armé. Dans une très large mesure, ce sont ces effets qui ont causé les dommages ayant mené l’appelante à faire les dépenses dont il est question en l’espèce.
+[2] La question à trancher en l’espèce est de savoir si des dépenses de plus de 4 000 000 $ faites en 2010 et en 2011 pour le remplacement d’une grande partie du toit d’un garage sont des dépenses courantes ou des dépenses en capital dont la déduction doit être demandée comme déduction pour amortissement sur un certain nombre d’années.
+[3] Il est utile de décrire dès le départ la place Citi Centre (« Citi Centre ») où le garage est situé. Citi Centre se trouve à Peterborough, en Ontario, et occupe tout un pâté de maisons [1] .
+[4] Le garage occupe en sous-sol tout le pâté de maisons, et trois immeubles d’habitation se trouvent au‑dessus. Les immeubles d’habitation comportent également des espaces commerciaux importants au rez‑de‑chaussée.
+[5] Les trois immeubles ne couvrent pas tout le pâté de maisons et, vus d’en haut, ils forment un « U ».
+[6] Les immeubles érigés au‑dessus du garage constituent, en fait, le toit du garage. La structure des immeubles et celle du garage sont liées.
+[7] Au milieu de la forme en U se trouve une surface qui constitue aussi le toit de cette partie du garage. Cette surface est appelée terrasse. Elle est accessible aux véhicules automobiles ainsi qu’aux piétons et comporte un aménagement paysager.
+[8] Dans la zone située à l’intérieur de la forme en U, tout le toit a été remplacé; il y a également eu des travaux connexes dans la même zone. Il s’agit des travaux qui ont entraîné les dépenses en cause.
+[9] Il existe également une zone le long de la partie inférieure de la forme en U où la surface constitue également le toit du garage. Cette zone est également appelée terrasse et est accessible aux véhicules automobiles et aux piétons. Au cours d’une année antérieure, en 2004, des réparations ont été effectuées sur le toit dans cette zone [2] . Ces réparations de 2004 ne sont pas visées par le présent appel; elles ont été effectuées de manière très différente des travaux en cause.
+[10] En l’espèce, c’est le remplacement complet du toit formé par la terrasse au milieu de la forme en U qui nous intéresse.
+[11] Les personnes suivantes ont témoigné :
+a) Bradley Smith, président et directeur général de l’appelante;
+b) Joseph Pendlebury, qui a été cité à comparaître par l’appelante et qui a été reconnu comme témoin expert en économie de la construction (estimation des coûts de construction);
+c) Philip Sarvinis, un ingénieur dont la société a effectué des travaux pour l’appelante;
+d) Paul Pasqualini, qui a été cité à comparaître par l’intimée et reconnu comme expert en ce qui a trait à l’utilisation et à l’efficacité des matériaux et des techniques servant à la construction d’enveloppes de bâtiment.
+[12] La Cour n’est pas appelée à se prononcer sur le montant des dépenses, sur la crédibilité des témoins ni sur des questions de fait importantes. L’affaire repose sur la qualification appropriée des faits dans le contexte du droit applicable.
+Les faits
+[13] Dans sa déclaration de revenus pour les années d’imposition 2010 et 2011, AON Inc. (« AON »), l’appelante, a déduit 4 364 697 $ en tant que dépense courante faite pour les travaux effectués sur son bien Citi Centre.
+[14] Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard d’AON et a refusé la déduction demandée à titre de dépense courante, à l’exception des coûts d’aménagement paysager de 207 312 $, qui étaient compris dans le montant de 4 364 697 $. Selon le ministre, les dépenses dont la déduction a été refusée sont des dépenses amortissables devant donner lieu à une déduction pour amortissement.
+[15] Les activités d’AON consistent principalement à aménager des terrains et gérer des immeubles. Elles comprennent la conception, la construction et la gestion de condominiums, d’immeubles à logements multiples, d’immeubles commerciaux, de résidences pour personnes âgées et d’établissements de soins de longue durée.
+[16] Environ 90 % des revenus d’AON sont constitués de revenus de location, alors que le reste provient de frais de gestion et de la vente de terrains. Les activités d’AON comprennent la location d’environ 1 000 appartements à Peterborough.
+[17] En 2010 et en 2011, AON a tiré de toutes ses sources des revenus de location annuels d’environ 29 000 000 $. Les coûts liés à l’exploitation, à l’entretien et aux réparations pour tous les biens d’AON étaient en moyenne de 11 500 000 $ en 2010 et en 2011.
+[18] Les réparations en cause en l’espèce ont été confiées à AON Builders Inc., une filiale d’AON qui effectue des travaux de construction pour la société.
+La place Citi Centre
+[19] AON a construit la place Citi Centre à Peterborough en 1973 et en 1974.
+[20] Le complexe Citi Centre consiste en trois tours et comporte au total 310 appartements et des locaux commerciaux d’une superficie d’environ 21 000 pieds carrés. Le complexe Citi Centre dispose d’un garage souterrain d’un étage dont la superficie est d’environ 92 000 pieds carrés.
+[21] Le revenu annuel d’AON provenant de Citi Centre se situe entre 3 500 000 $ et 4 000 000 $.
+Le garage
+[22] Les véhicules peuvent accéder au garage à partir du côté est du complexe par une rampe d’accès dont l’entrée est sur la rue Aylmer. Au sud‑ouest du complexe, il y a une aire de chargement sur la terrasse pour les livraisons, le ramassage des ordures ménagères et l’emménagement des locataires.
+[23] Le garage compte 235 places de stationnement; le nombre de places de stationnement est resté le même depuis la construction initiale du garage. Ce dernier est principalement utilisé par les locataires résidentiels et commerciaux de Citi Centre.
+[24] Les locataires résidentiels peuvent louer une place de stationnement pour 10 $ par mois, tandis que les locataires commerciaux peuvent la louer pour 30 $ par mois. Le revenu annuel total tiré du garage s’élève à 30 000 $ ou 35 000 $, soit moins de 1 % du revenu annuel total de Citi Centre.
+[25] À l’exception des endroits où se trouvent les immeubles d’habitation, le toit du garage souterrain est constitué d’une terrasse qui permet la circulation des piétons et des véhicules. Le toit du garage a commencé à se détériorer au fil du temps, surtout la partie qui n’est pas située sous les immeubles d’habitation, mais sous la terrasse. Cette partie du garage a été endommagée en raison de l’exposition au sel, à la neige, à la pluie et à la circulation.
+[26] Sur les quelque 92 000 pieds carrés qu’occupe le garage, environ 63 000 pieds carrés se trouvent sous la terrasse; le reste se trouve sous les immeubles. Sur les quelque 63 000 pieds carrés qui se trouvent sous la terrasse, environ un quart, soit près de 16 000 pieds carrés, se trouve sous la partie inférieure de la forme en U qui a été réparée en 2004 et qui n’est pas en cause. Le remplacement du toit dont il est question en l’espèce concerne l’espace du garage d’environ 47 000 pieds carrés qui se trouve sous la terrasse au milieu de la forme en U; cette superficie représente environ 50 % de la superficie totale de 92 000 pieds carrés qu’occupe le garage [3] .
+Les réparations antérieures
+[27] Dans les années 1990, AON a commencé à constater d’importantes fissures dans la terrasse et des infiltrations d’eau dans le garage [4] . À ce moment‑là, les locataires ont commencé à se plaindre que de la matière provenant du toit s’égouttait sur leurs voitures.
+[28] Avant 2003, des réparations partielles ont été effectuées dans le garage. Ces réparations comprenaient le ragréage des zones effritées dans le béton et l’installation de caniveaux sous la dalle de la terrasse afin de rediriger l’eau qui s’infiltrait. De plus, le personnel d’entretien d’AON inspectait régulièrement le garage et enlevait les morceaux de béton qui semblaient se détacher en raison de l’effritement.
+[29] En 1999, pour réparer une partie du garage, on a construit un mur en béton pour soutenir une partie de la dalle du toit et les poutres de charpente en béton qui avaient été endommagées par l’infiltration d’eau.
+[30] En 2003, Read Jones Christoffersen (« RJC »), une firme d’ingénierie, a procédé à une auscultation du garage. RJC est arrivée aux conclusions suivantes :
+a) Les éléments de structure du stationnement (colonnes, murs, dalles suspendues) sont modérément ou gravement détériorés par la corrosion.
+b) Le système d’étanchéité qui se trouve à la surface de la dalle suspendue est jugé totalement inefficace pour prévenir la pénétration de l’humidité et des chlorures.
+c) Les joints de dilatation sont inefficaces pour filtrer les chlorures et empêcher la pénétration d’humidité.
+d) Les caniveaux et la dalle percés ainsi que le système de drainage du sol ont besoin d’être réparés, remplacés et améliorés.
+e) La dalle suspendue de la terrasse (le toit) comporte une grande concentration en ions chlorure qui dépasse le seuil généralement considéré comme étant suffisant pour provoquer la corrosion de l’armature du béton, ce qui laisse supposer que la corrosion se poursuivra à un rythme accéléré si rien n’est fait pour empêcher d’autres infiltrations [5] .
+[31] L’auscultation visait principalement la partie du garage qui n’était pas située sous l’un ou l’autre des immeubles.
+[32] À la suite de l’auscultation du garage réalisée en 2003, RJC a proposé à AON deux solutions pour la réparation : une stratégie de réparations localisées ou le remplacement complet de la terrasse.
+[33] La première solution, la stratégie de réparations localisées, consistait à ne réparer que les zones de délamination décelées. Le processus consistait à enlever la chape de béton et le système d’étanchéité original, à réparer les zones délaminées de la dalle de structure se trouvant en dessous et ensuite à installer une nouvelle membrane d’étanchéité ainsi qu’une nouvelle chape.
+[34] La première solution présentait plusieurs inconvénients, notamment le fait que la dalle de structure demeurerait saturée d’ions chlorure, ce qui entraînerait d’autres réparations localisées dans cinq ou six ans. Un cycle continu de réparations localisées récurrentes représenterait à long terme des coûts d’entretien plus élevés qu’un remplacement complet de la dalle de la terrasse [6] .
+[35] La deuxième solution consistait à remplacer complètement la chape, le système d’étanchéité et la dalle de structure. Cette stratégie entraînait des travaux plus longs et des coûts initiaux plus élevés. Dans l’auscultation du garage de 2003, RJC a déclaré que, si cette stratégie était suivie, [traduction] « la dalle du stationnement ne causera aucun souci pour les 20 à 25 prochaines années » [7] .
+[36] AON a choisi la première possibilité et a commencé les réparations en 2004.
+Les réparations effectuées de 2004 à 2009
+[37] Les premiers travaux de réparation entrepris en 2004 ont porté sur la partie ouest de la dalle de la terrasse, qui présentait des signes de détérioration plus prononcés, étant donné qu’il s’agissait de la zone d’accès des camions à ordures et d’autres véhicules. Initialement, ces réparations devaient constituer la première étape des réparations localisées devant être effectuées en plusieurs phases.
+[38] Lors des réparations de 2004, environ 25 % de la chape a été enlevée, et le système d’étanchéité a été remplacé par un système à deux couches de bitume caoutchouté appliqué à chaud. Cette partie de la dalle de la terrasse a également été restaurée, mais elle n’a pas été remplacée. Ces réparations ont coûté plus d’un million de dollars.
+[39] AON et RJC ont constaté pendant les réparations de 2004 que la terrasse était en moins bon état qu’elles ne l’avaient cru au départ. Par conséquent, d’autres réparations des caniveaux et de la dalle étaient nécessaires, ce qui a entraîné une utilisation accrue du marteau perforateur et une intensification du bruit lié à la construction. Ce bruit dérangeait considérablement les locataires de Citi Centre. En raison de problèmes imprévus découlant des réparations localisées, AON a décidé de ne pas poursuivre cette stratégie et de reporter l’entretien jusqu’au remplacement complet de la dalle.
+[40] En 2006, RJC a réalisé une autre auscultation du garage et a constaté que la détérioration liée à la corrosion s’intensifiait. RJC a proposé trois solutions, les deux premières étant les mêmes que celles formulées à la suite de l’auscultation du garage de 2003. La troisième solution consistait à installer des appuis supplémentaires pour ainsi reporter les réparations structurales de la dalle du toit du garage de quelques années [8] .
+[41] AON a décidé de reporter les réparations du garage le plus longtemps possible. En 2007, sur recommandation de RJC, AON a installé un système temporaire d’étayage de la dalle pour accroître le soutien à la dalle de la terrasse.
+[42] RJC a réalisé une autre auscultation du garage en 2009 et a constaté qu’en raison de la corrosion de l’armature d’acier dans la dalle de la terrasse et dans d’autres structures de béton causée par l’infiltration d’eau et de sels, le béton devenait ionisé, délaminé, effrité et fissuré, et qu’il y avait un risque que du béton tombe sur les utilisateurs.
+[43] Après l’auscultation du garage de 2009, AON a décidé qu’elle ne pouvait plus reporter les réparations du garage et a prévu de remplacer la partie de la terrasse qui n’avait pas déjà été remplacée en 2004.
+[44] L’intégrité structurale de la terrasse avait été altérée, et sa force portante avait été réduite. Par conséquent, en 2009, RJC a fait savoir à AON qu’elle pouvait continuer à étayer la structure tout en fermant des parties du garage.
+[45] En outre, en 2009, RJC a proposé à AON deux solutions de réparation. La première consistait à remplacer entièrement la dalle supérieure, tandis que la seconde consistait à remplacer entièrement la dalle de la terrasse [9] .
+Les travaux en cause (2010 et 2011)
+[46] AON a opté pour la deuxième solution, soit le remplacement entier de la dalle de la terrasse au milieu de la zone en forme de U créée par les immeubles. Cela ne comprend pas la zone située sous la partie inférieure de la forme en U réparée en 2004.
+[47] Les travaux ont été effectués en trois phases, en 2010 et 2011.
+[48] AON n’aurait pas pu simplement remplir le garage, étant donné qu’elle devait le conserver pour être conforme aux règlements de zonage de Peterborough.
+[49] Les travaux de 2010‑2011 comprenaient ce qui suit :
+a) L’enlèvement et l’élimination complets de la chape de béton, de l’aménagement paysager et du papier‑feutre asphalté imperméabilisant la surface de la dalle du toit du garage.
+b) L’enlèvement et l’élimination entiers de la dalle du toit du garage, de façon à ce que seuls les chapiteaux de colonnes restent en place. Le système d’éclairage, le système électrique, les gicleurs et les composants d’alarme‑incendie en place à l’intérieur de la dalle ou fixés sous celle‑ci devaient également être enlevés et jetés.
+c) La réparation des corbeaux des joints de dilatation dans les zones où la dalle en place n’avait pas à être enlevée.
+d) La réparation localisée du béton du soffite sur la section de la dalle de toit réparée en 2004 dont la condition s’était détériorée en raison de la corrosion continue de l’armature d’acier.
+e) La reconstruction de la dalle du toit du garage avec du béton à la fine pointe de la technologie, ayant une grande résistance et une faible perméabilité.
+f) L’installation d’un nouveau système de drainage afin d’incliner adéquatement la toiture‑terrasse.
+g) L’installation d’un nouveau système d’étanchéité à deux couches de bitume caoutchouté appliqué à chaud et de joints d’étanchéité et de dilatation.
+h) L’installation d’un nouveau système d’éclairage monté en surface, d’une alarme‑incendie, de gicleurs et d’un système de drainage dans la zone du garage touchée par les travaux [10] .
+Les améliorations découlant des dépenses en cause
+[50] Les travaux n’ont pas augmenté le nombre de places de stationnement, le prix du stationnement, le revenu tiré du garage, ni le prix des logements pour les locataires de Citi Centre.
+[51] Le garage conservait également la même force portante après les réparations. Pour l’utilisateur final, le garage était sensiblement le même [11] .
+[52] Cependant, les travaux ont permis d’apporter les améliorations suivantes :
+a) La réparation a été faite à l’aide de béton C1, lequel, au moment de la réparation, était exigé par le code du bâtiment applicable, tandis qu’il ne l’était pas au moment de la construction initiale. Ce béton contient des fumées de silice qui aident à prévenir l’infiltration d’eau. Les métaux utilisés dans les travaux de réparation ont également été recouverts d’un apprêt époxyde, ce qui aide à prévenir la détérioration des barres d’armature.
+b) Le système d’étanchéité a été amélioré par l’ajout de deux couches de bitume caoutchouté appliqué à chaud. Une seule couche avait été utilisée pour le garage d’origine, même si, au moment de la construction initiale, l’utilisation de plus d’une couche était une méthode de construction courante.
+c) Pendant les réparations, la chape de béton a été renforcée avec un treillis métallique, ce qui n’avait pas été fait lors de la construction initiale. En outre, des feuilles de renforcement en polyester et en élastomère ainsi que des panneaux de drainage et de protection ont été ajoutés. Ces ajouts aident à évacuer l’eau de la membrane. Le nouveau système de protection contre les infiltrations d’eau a été conçu pour assurer une plus grande étanchéité à l’arête de la dalle.
+d) Le nouveau toit du garage dispose de plus de drains que la dalle de la terrasse initiale. Une augmentation du nombre de drains était nécessaire en raison de modifications apportées au code du bâtiment. Lors de cette réparation, les grilles de drainage de quatre pouces ont été remplacées par des grilles de drainage de douze pouces utilisant une nouvelle technologie.
+e) Le système de gicleurs a également été remplacé lors des réparations; il comprend désormais quatre lignes plutôt que deux.
+f) Enfin, les systèmes électriques et d’éclairage ont été remplacés.
+[53] Des améliorations importantes ont été apportées au système d’étanchéité, mais elles découlaient en grande partie de modifications apportées au code du bâtiment et à une meilleure compréhension des effets destructifs des sels de déglaçage.
+[54] Si l’on se reporte au moment de la construction initiale, il n’était pas généralement connu que les sels de déglaçage détérioraient les structures de stationnement. Par conséquent, on mettait moins l’accent sur l’étanchéité, puisque les répercussions de l’eau contaminée par le chlorure n’étaient pas bien comprises.
+[55] Avec le nouveau système d’étanchéité, l’on s’attendait à ce que la terrasse (le toit) remplacée ne cause [traduction] « aucun souci » pendant 20 ou 30 ans [12] .
+[56] Le coût global des réparations de 2010 à 2011 était d’environ 4 157 000 $, compte non tenu des coûts liés à l’aménagement paysager.
+[57] À la suite de ces réparations, les comptables d’AON ont inscrit le coût des réparations comme dépenses courantes dans les états financiers d’AON.
+[58] Selon les témoignages d’experts, le coût de reconstitution du bien de Citi Centre était estimé à 59 400 000 $ en 2011. Le coût de reconstitution représente le prix qu’il faudrait payer pour reconstruire une structure à l’époque actuelle. L’exercice serait de tenter d’estimer le coût de reconstruction de Citi Centre en 2011, tel qu’il avait été conçu et construit initialement dans les années 1970.
+[59] Le coût de reconstitution du garage souterrain a été estimé à environ 5 000 000 $, mais, en ce qui concerne la partie située sous les immeubles, cela comprend le plancher du garage et le mur extérieur, mais ne comprend pas les colonnes ni la dalle de la terrasse (le toit du garage).
+Le droit
+[60] Deux des règles fondamentales du calcul du revenu tiré d’une entreprise sont énoncées aux alinéas 18(1)a) et b) de la Loi de l’impôt sur le revenu (la « Loi ») :
+18 (1) [...] les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+b) une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[61] Il ne fait aucun doute que les dépenses relatives au remplacement du toit qui sont en cause en l’espèce ont été faites en vue de tirer un revenu d’une entreprise.
+[62] La question à trancher est de savoir s’il s’agit d’une dépense courante qui doit être déduite dans l’année où la dépense a été faite ou s’il s’agit d’une dépense en capital qui doit être déduite sur un certain nombre d’années, conformément aux règles en matière de déduction pour amortissement.
+[63] Le mot capital est utilisé de nombreuses façons différentes dans le domaine fiscal, et il pourrait être utile d’envisager la question sous l’angle suivant : la dépense en cause est‑elle une dépense courante ou une dépense amortissable?
+[64] Souvent, la distinction entre une dépense courante et une dépense amortissable est claire. Dans d’autres situations, la ligne de démarcation est difficile à tracer; la présente affaire est l’une de ces situations.
+[65] Je tiens à souligner que la jurisprudence applicable sur ce qu’est une dépense en capital porte à la fois sur des dépenses en capital qui sont amortissables et sur des dépenses en capital qui ne le sont pas.
+[66] Le régime relatif à la déduction pour amortissement et, en comptabilité, à l’amortissement reposent sur le fait que certaines dépenses créeront un avantage à l’entreprise non seulement quand les dépenses sont engagées, mais aussi ultérieurement. La déduction pour amortissement en fiscalité et l’amortissement en comptabilité sont censés tenir compte de ce fait afin de donner une idée plus exacte des revenus que ne le ferait la déduction complète dans la seule année où la dépense a été faite [13] .
+[67] Cependant, lorsqu’il faut établir une distinction entre les dépenses courantes et les dépenses amortissables, il ne suffit pas de répondre à la question de savoir si la dépense créera un avantage pour l’entreprise dans les périodes qui suivront celle où la dépense a été effectuée. Toutefois, la question de savoir si une dépense est amortissable ne peut être posée que si l’entreprise tire un avantage de cette dépense dans les périodes ultérieures. Il ne suffit pas non plus d’établir l’existence du critère de l’« avantage durable ». Je tiens à faire observer que, même si le terme « durable » évoque le même principe général, à savoir que la dépense doit être avantageuse dans l’avenir, il évoque également une certaine importance quant à la durée, ce qui exclut les dépenses minimes et les dépenses dont les répercussions futures sont de courte durée.
+[68] Néanmoins, l’« avantage durable » constitue le point de départ pour déterminer si une dépense est une dépense courante ou une dépense amortissable. Dansl’arrêt British Insulated and Helsby Cables Ltd. v. Atherton [14] , le Conseil privé a énoncé le critère de l’avantage durable de la façon suivante :
+[traduction]
+[…] Mais lorsqu’une dépense est faite non seulement une fois pour toutes, mais dans le but de créer un bien ou un avantage qui profite à une entreprise de façon durable, je crois que c’est un motif très valable (en l’absence de circonstances spéciales menant à une conclusion dans le sens opposé) pour considérer une telle dépense comme véritablement imputable non pas au revenu, mais au capital. […]
+[69] Là encore, compte tenu des mots entre parenthèses, le critère n’était pas absolu et, bien que le critère de l’« avantage durable » n’ait plus le poids qu’il avait auparavant, il demeure un facteur très important.
+[70] L’« avantage durable » n’est plus le principal critère; c’est ce qui ressort clairement de l’arrêt Minister of National Revenue v. Algoma Central Railway [15] , rendu par la Cour suprême du Canada, dans lequel les observations suivantes ont été formulées :
+[traduction]
+[...] Nous ne pensons pas qu’un critère unique permette d’élaborer cette définition et souscrivons à l’opinion exprimée par lord Pearce dans un arrêt récent du Conseil privé, B.P. Australia Ltd. v. Commissioner of Taxation of the Commonwealth of Australia. Sur la question de savoir si une dépense était une dépense en capital ou une dépense courante, il a formulé les observations suivantes, à la page 264 :
+On ne peut pas trouver la solution du problème en appliquant un critère ou une description rigide. Elle doit découler de plusieurs aspects de l’ensemble des circonstances, dont certaines peuvent aller dans un sens et d’autres dans un autre. Une considération peut se détacher si nettement qu’elle domine d’autres et de plus vagues indications dans le sens contraire. C’est une appréciation saine de toutes les caractéristiques directrices qui doit apporter la réponse finale.
+[71] Ce changement se voit dans des affaires ultérieures, notamment dans l’arrêt Johns‑Manville Canada c. La Reine [16] , rendu par la Cour suprême du Canada.
+[72] La vaste jurisprudence qui existe sur cette question n’est pas toujours facile à appliquer. À cet égard, le juge Mogan, de la Cour, s’est exprimé ainsi dans la décision Rainbow Pipe Line Co. c. Canada [17] :
+4 La question de savoir si un paiement particulier doit être déduit pour l’année d’imposition comme dépense courante ou s’il doit être capitalisé et amorti sur un certain nombre d’années a été examinée à de nombreuses occasions dans le contexte d’appels en matière d’impôt sur le revenu. Déjà dans l’affaire M.N.R. v. Vancouver Tug Boat Company Limited, 57 DTC 1126 (Cour de l’Échiquier), le juge Thurlow disait, à la page 1128 :
+[traduction]
+La ligne de démarcation entre ce que sont en général des dépenses en capital et ce que sont des frais d’exploitation est difficile à définir, et il n’est pas moins difficile d’établir une règle stricte ou rapide pour déterminer quand des dépenses semblables aux dépenses en cause concernant des immobilisations seront considérées comme des dépenses en capital et quand elles ne le seront pas. [...]
+Ces propos sont encore vrais 42 ans plus tard, après de nombreuses autres causes relatives à la même question [...]
+[73] La décision Rainbow Pipe Line portait, entre autres, sur la question de savoir si le remplacement d’une section d’environ 44 kilomètres d’un pipeline était une dépense courante ou une dépense amortissable. Dans cette affaire, le juge Mogan s’est ensuite penché sur l’arrêt Canderel Ltée c. Canada [18] , rendu par la Cour suprême du Canada, dans lequel le juge Iacobucci a formulé les observations suivantes :
+53 Il va de soi que le cadre d’analyse exposé n’est utile que dans la mesure où il est appliqué à des cas concrets. L’examen des faits du présent cas illustrera comment cette méthode raisonnée de calcul du revenu est censée fonctionner. Tout d’abord, cependant, il pourrait être utile et approprié de résumer les principes que j’ai énoncés précédemment :
+(1) La détermination du bénéfice est une question de droit.
+(2) Le bénéfice tiré d’une entreprise pour une année d’imposition est déterminé en déduisant des revenus tirés de l’entreprise pour l’année en question les dépenses engagées pour gagner ces revenus : M.N.R. c. Irwin, précité, Associated Investors, précité.
+(3) Dans la détermination du bénéfice, l’objectif est d’obtenir une image fidèle du bénéfice du contribuable pour l’année visée.
+(4) Dans la détermination du bénéfice, le contribuable est libre d’adopter toute méthode qui n’est pas incompatible avec :
+a) les dispositions de la Loi de l’impôt sur le revenu;
+b) les principes dégagés de la jurisprudence ou les « règles de droit » établis;
+c) les principes commerciaux reconnus.
+(5) Les principes commerciaux reconnus, notamment ceux codifiés formellement dans les PCGR, ne sont pas des règles de droit mais des outils d’interprétation. Dans la mesure où ils peuvent influencer le calcul du revenu, ils ne le feront qu’au cas par cas, selon les faits relatifs à la situation financière du contribuable.
+(6) En cas de nouvelle cotisation, une fois que le contribuable a prouvé qu’il a donné une image fidèle de son revenu pour l’année, image qui est compatible avec la Loi, la jurisprudence et les principes commerciaux reconnus, il incombe alors au ministre de prouver que le chiffre fourni ne donne pas une image fidèle ou qu’une autre méthode de calcul fournirait une image plus fidèle.
+[74] Même si la Loi prévoit des règles détaillées en ce qui concerne la déduction pour amortissement, elle ne fournit pas d’indications sur ce qui constitue une dépense amortissable; cela relève de la jurisprudence. De plus, étant donné la jurisprudence abondance sur le sujet, il est naturel de mettre l’accent sur la jurisprudence afin d’appliquer les « principes dégagés de la jurisprudence » visés à l’alinéa 53(4)b) de l’arrêt Algoma.
+[75] Dans de nombreux cas, il est encore difficile de distinguer une dépense amortissable (capital) d’une dépense courante, notamment en ce qui concerne les travaux effectués sur des bâtiments. Cette difficulté est très bien expliquée dans l’excellent article publié en 1997 par le professeur John W. Durnford [19] intitulé « The Deductibility of Building Repair and Renovation Costs [20] », dans lequel il déclare ce qui suit après avoir examiné la jurisprudence existante à l’époque, y compris l’arrêt Johns‑Manville :
+[traduction]
+Quelle conclusion peut‑on alors tirer de cette analyse de l’application générale de la distinction entre les dépenses d’exploitation et les dépenses en capital? C’est qu’il n’y a pas de règle absolue et qu’il faut faire preuve de bon sens dans l’appréciation de tous les faits pertinents.
+[76] Toutefois, je voudrais encore une fois souligner que, dans de nombreuses circonstances, le résultat est clair, bien que, malheureusement, ce ne soit pas le cas en l’espèce ou dans d’autres affaires qui se trouvent aux confins des dépenses courantes et des dépenses amortissables.
+[77] Le professeur Durnford poursuit ainsi :
+[traduction]
+Nous allons maintenant étudier la distinction entre les dépenses en capital et les dépenses courantes dans le contexte particulier de la réparation et de la rénovation de bâtiments. Il sera rassurant d’apprendre que, malgré l’existence, comme nous l’avons constaté, d’un certain flou quant à l’application dans l’absolu de la distinction, toute une série de lignes directrices ont été élaborées par les tribunaux au fil des ans, lesquelles régissent à tout le moins certaines des situations qui se présentent. Ces lignes directrices ne fournissent pas toujours une solution simple, ni même claire, mais elles constituent le cadre qu’utilisent les tribunaux pour traiter les problèmes qui se posent dans ce domaine [...]
+[...]
+CONCLUSION
+Sous le régime de la Loi de l’impôt sur le revenu, lorsqu’une personne possède un immeuble en vue d’en tirer un revenu, les coûts des réparations et des rénovations de l’immeuble peuvent être déductibles à titre de dépenses courantes, ou ils peuvent être considérés comme des dépenses en capital, auquel cas les déductions sont limitées à celles prévues par les dispositions relatives aux déductions pour amortissement. Nos tribunaux se sont vaillamment attaqués à cette distinction difficile à cerner. Ce faisant, ils ont appliqué certains facteurs, mais pas toujours de façon uniforme, notamment ceux qui suivent :
+• il faut distinguer la réparation d’un immeuble (normalement une dépense déductible) de l’acquisition d’éléments d’actif indépendants destinés à être utilisés dans un bâtiment (généralement une dépense en capital);
+• l’utilisation d’une nouvelle technologie ne suffit pas en soi à faire d’une dépense une dépense en capital, contrairement à des améliorations ou à des embellissements;
+• l’ampleur des travaux effectués a tendance à se voir accorder moins d’importance que par le passé, mais elle peut être un facteur lorsque le tribunal est d’avis que le résultat réel des travaux est un nouveau bâtiment;
+• l’exécution, en une seule fois, de multiples réparations qui sont devenues nécessaires au fil des ans ne suffit pas en soi à faire d’une dépense une dépense en capital, mais, lorsqu’un bâtiment en mauvais état a été acquis à un coût peu élevé et que sa valeur augmente considérablement à la suite de réparations importantes, une partie du coût au moins peut être considérée comme une dépense en capital.
+Un examen de l’application par les tribunaux des critères susmentionnés donne l’impression qu’avec le temps, les tribunaux ont eu tendance à se montrer plus ouverts à considérer des travaux de rénovation comme des réparations dont les dépenses peuvent être déduites en tant que dépenses courantes, ce qui a eu pour effet de réduire la place occupée par les dépenses en capital.
+[78] Bien que l’article ait été publié il y a 20 ans, il demeure très utile [21] .
+[79] Lorsqu’on examine les dépenses faites pour des travaux effectués sur un bâtiment afin de décider si elles sont des dépenses courantes ou des dépenses amortissables, on se retrouve donc dans une situation où il faut tenir compte d’un éventail de facteurs ou d’indices. Il n’y a pas de liste établie de ce qui devrait être pris en considération, et il n’existe pas de pondération fixe.
+[80] Je vais énumérer certains facteurs qu’il faut prendre en compte et je les analyserai dans le contexte de l’espèce.
+[81] Bien entendu, le premier facteur qu’il faut examiner est la question de savoir si les travaux en cause créent quelque chose qui durera pendant un certain temps (la question de l’avantage durable) [22] .
+[82] Les autres facteurs qu’il faut prendre en compte sont notamment les suivants :
+1. Les travaux visent‑ils la réparation d’un actif ou l’acquisition d’un actif indépendant qui peut exister par lui‑même? Il est tout à fait clair que, si une chose peut exister par elle‑même, cela milite fortement en faveur de la dépense en capital. Par exemple, un nouveau moteur installé sur un navire est vraisemblablement une dépense en capital, alors que le remplacement d’une très grande partie de la coque d’un navire est vraisemblablement une dépense courante [23] .
+2. Les réparations, dont le but est de rendre le bien de nouveau propre à son usage normal [24] , sont très probablement des dépenses courantes, alors que les travaux qui améliorent le bien sont plus susceptibles d’être des dépenses en capital. Le degré d’amélioration semble important.
+3. Toutefois, l’utilisation de technologies plus modernes, en soi, ne constituera pas nécessairement une amélioration faisant en sorte que les travaux seront considérés comme des dépenses en capital [25] .
+4. L’ampleur de la réparation. Dans une certaine mesure, une dépense importante peut indiquer une dépense en capital, et vice versa.
+5. La valeur de la réparation par rapport à l’ensemble. Plus la dépense est importante par rapport à l’ensemble, plus elle peut indiquer une dépense en capital et vice versa. On peut soutenir que c’est peut‑être une autre façon de se demander s’il s’agit vraiment de la création de quelque chose de nouveau.
+6. Le but et la nature des travaux [26] .
+7. Bien qu’elle ne soit pas applicable en l’espèce, la question de savoir si un bien a été acquis récemment et est réparé peut être importante. Dans un tel cas, la valeur actuelle pourrait être plus élevée que la valeur à l’acquisition; ainsi, la dépense serait plus susceptible d’être une dépense en capital.
+8. De la même façon, bien que, une fois de plus, cela ne soit pas applicable en l’espèce, si un bien est préparé pour la vente, la dépense ne sera probablement pas une dépense courante.
+9. La question de savoir si les travaux augmentent la valeur du bien par rapport à ce qu’elle serait, si on suppose qu’il a été bien entretenu. On peut soutenir que c’est une autre façon de se demander si les travaux ont donné lieu à une amélioration [27] .
+10. La question de savoir si la législation, par exemple le code du bâtiment ou les exigences en matière de sécurité, impose certaines obligations en matière de réparations ou de remplacements qui ne modifieront pas la nature du bien. Plus précisément, des travaux qui seraient autrement une dépense en capital ne deviennent pas une dépense courante simplement en raison de l’obligation prévue par la loi [28] . L’inverse peut ne pas être tout à fait vrai; cependant, on pourrait s’attendre à ce que les travaux qui sont une dépense courante ne deviennent pas une dépense en capital simplement parce que le code du bâtiment exige quelque chose qui, dans un certain sens, hausse la qualité, à moins que l’obligation légale en soi donne lieu à une amélioration importante.
+11. De façon générale, l’accumulation de réparations à effectuer au fil du temps ne fait pas d’une dépense importante réalisée sur une courte période d’un an une dépense en capital.
+[83] En l’espèce, nous avons des travaux importants qui seront durables, c’est‑à‑dire que la section du toit remplacée ne causera vraisemblablement aucun souci pendant une période de 20 à 30 ans et durera même au-delà de cette période. Il s’agit d’un avantage durable qui milite clairement en faveur d’une dépense amortissable.
+[84] Si la nouvelle section du toit pouvait exister d’elle‑même, comme un moteur, l’on conclurait qu’il s’agit indubitablement d’une dépense en capital qui est amortissable.
+[85] Toutefois, la nouvelle section du toit, qui représente la moitié du toit, est inséparable du plancher du garage qui se trouve en dessous ainsi que du garage dans son ensemble. Il n’y a pas de séparation de structure entre le garage et les immeubles qui se trouvent sur le toit du garage; en outre, la loi exige que les immeubles disposent de places de stationnement.
+[86] Par conséquent, aux fins d’analyse, les travaux en cause sont considérés comme visant une partie de l’ensemble du complexe Citi Centre. La section du toit qui a été remplacée doit être considérée comme faisant partie de l’ensemble du complexe. Même s’il s’agit d’une partie importante du complexe, il ne s’agit pas d’une grande partie du complexe. D’un point de vue financier, le coût de 4 000 000 $, par rapport au coût de remplacement de l’ensemble du complexe qui est estimé à 59 000 000 $, est également important (environ 7 %), mais il n’est pas élevé par rapport à ce qu’il en coûterait pour remplacer l’ensemble du complexe [29] .
+[87] Les travaux visaient simplement à permettre que le garage soit utilisé de la même façon qu’il l’était auparavant.
+[88] La question de ce qui constitue une simple réparation par rapport à une amélioration est l’un des facteurs les plus difficiles à évaluer en l’espèce, parce que, d’une part, le garage est utilisé aux mêmes fins après les travaux qu’avant ceux‑ci. Il compte le même nombre de places qu’à l’origine. Il n’est pas amélioré d’une manière qui permettrait à l’appelante de demander plus cher ou d’en tirer plus d’argent, bien que, en examinant certaines des photos déposées en preuve qui font état de la détérioration visible, il ne fait aucun doute que le garage est plus agréable à l’œil à la suite des travaux qu’avant que ceux‑ci, mais pas plus qu’au moment de sa construction. D’autre part, le nouveau toit a été construit à l’aide de technologies plus récentes qui tiennent compte beaucoup plus des problèmes causés par le sel que celles qui existaient environ 35 ans plus tôt, lorsque la place Citi Centre a été construite.
+[89] Il n’y a aucun doute dans mon esprit que certaines des nouvelles techniques utilisées pour combattre les effets du sel, qu’elles soient exigées par le code du bâtiment ou non, ont amélioré le toit par rapport aux techniques de construction utilisées à l’origine.
+[90] Toutefois, étant donné qu’il est tout à fait évident qu’il n’y a pas d’amélioration dans la façon d’utiliser le garage ou dans sa rentabilité et qu’il n’y a aucune raison de conclure que les travaux ont eu un effet significatif sur la valeur de Citi Centre par rapport à sa valeur si le garage avait été maintenu en bon état au fil du temps, il ne s’agit pas d’une situation où les travaux ont créé quelque chose de nouveau. Même s’il y a une certaine amélioration [30] , il s’agit essentiellement d’une réparation [31] . Avant les travaux, il y avait un toit en béton armé; après les travaux, il y avait un toit en béton mieux construit.
+[91] Par conséquent, même si la durée prévue des travaux, l’importance des travaux et le fait que de meilleures techniques de construction aient été utilisées pour le toit font de la présente affaire un cas limite, l’ampleur des travaux par rapport au complexe, la durée de vie prévue de la nouvelle partie du toit et les améliorations techniques – améliorations techniques qui n’augmentent pas la fonctionnalité du garage – ne sont pas suffisamment importantes pour faire pencher la balance et faire de cette dépense une dépense amortissable plutôt qu’une dépense courante.
+Conclusion
+[92] Pour les motifs qui précèdent, l’appel est accueilli avec dépens, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que les dépenses en cause sont des dépenses courantes [32] .
+Signé à Ottawa, Canada, ce 31e jour d’août 2017.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 4e jour de septembre 2018.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2017 CCI 166
+No DU DOSSIER DE LA COUR :
+2015‑1043(IT)G
+INTITULÉ :
+AON INC. c. LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Les 18 et 19 janvier 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Gaston Jorré
+DATE DU JUGEMENT :
+Le 31 août 2017
+COMPARUTIONS :
+[EN BLANC]
+Avocats de l’appelante :
+Me Justin Kutyan
+Me Adam Gotfried
+Avocat de l’intimée :
+Me Craig Maw
+AVOCATS INSCRITS AU DOSSIER :
+[EN BLANC]
+Pour l’appelante :
+Justin Kutyan
+Adam Gotfried
+Cabinet :
+KPMG Law
+Toronto (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada
+[1] Le pâté de maisons est rectangulaire, et le côté le plus long s’étend du nord au sud.
+[2] Cette zone au bas de la forme en U se trouve le long du côté ouest du pâté de maisons (rue Bethune). La partie ouverte de la forme en U se trouve du côté est du pâté de maisons (rue Aylmer).
+[3] Il y a certaines différences dans la preuve quant aux mesures exactes des zones. Des chiffres différents ont été donnés pour la superficie totale du garage qui serait de 89 000 à 92 000 pieds carrés; il semble qu’il s’agit de la différence entre les dimensions intérieures et extérieures. De même, la superficie de la partie du garage qui n’est pas située sous les immeubles mesure de 59 000 à 63 000 pieds carrés, selon ce qui a été déclaré. Il a été dit que l’aire couverte par les immeubles était d’environ 30 000 pieds carrés. À un moment donné, on a affirmé que les travaux de toiture faits en 2004 sur la partie inférieure de l’espace en U portaient sur environ 16 000 pieds carrés ou le quart de la superficie de la terrasse.
+Si l’on soustrait les 16 000 pieds carrés où les travaux de 2004 ont été effectués des 63 000 pieds carrés qui ne sont pas sous les immeubles, on obtient la superficie visée par les travaux en cause, soit 47 000 pieds carrés. Cette zone de 47 000 pieds carrés, sur la superficie totale du garage de 92 000 pieds carrés, représente environ 51 % ou la moitié de la superficie totale du garage. Même si les dimensions sont quelque peu différentes, cela représenterait tout de même environ la moitié de la superficie totale du toit.
+[4] Il semble qu’il y ait eu certains signes précurseurs dans les années 1980.
+[5] Pièce A‑1, onglet 3, auscultation du garage de 2003, résumé.
+[6] Pièce A‑1, onglet 3, auscultation du garage de 2003, à la page 25.
+[7] Pièce A‑1, onglet 3, auscultation du garage de 2003, à la page 25.
+[8] Pièce A‑1, onglet 5, auscultation du garage de 2006, aux pages 7 à 10.
+[9] En 2009, RJC a dit que la nouvelle terrasse pourrait durer de 25 à 30 ans (initialement, elle avait indiqué une durée de vie de 20 à 25 ans lors de l’auscultation du garage de 2003).
+[10] Pièce A‑1, onglet 7, proposition de 2009 de RJC. Les travaux comprenaient également des coûts pour l’aménagement paysager, lesquels ne sont pas visés en l’espèce.
+[11] Toutefois, même s’il semblait être le même sur le plan fonctionnel, son apparence était indubitablement améliorée à l’intérieur de la zone forme en U puisqu’il n’y avait plus de détérioration visible une fois les travaux terminés. Les photos figurant aux onglets 3 et 5 de la pièce A‑1 montrent des exemples de ce à quoi ressemblaient certaines des détériorations. En outre, les utilisateurs n’auraient plus vu de zones mises hors service.
+[12] Dans l’auscultation du toit réalisée par RJC en 2003 et dans les mises à jour de 2006 et de 2009, la période où il n’y aurait [traduction] « aucun souci » est évaluée respectivement à 20 ou 25 ans, à 20 ou 25 ans et à 25 ou 30 ans. Voir la pièce A‑1 : onglet 3, à la page 25; onglet 5, à la page 9; et onglet 6, à la page 11. En outre, selon Paul Pasqualini, [traduction] « la durée de vie prévue du système d’étanchéité » est [traduction] « de l’ordre de 20 à 25 ans ».
+[13] De façon plus générale, la notion de rattachement est également importante pour déterminer le moment où une dépense doit être déduite; là encore, le but est d’essayer de donner une idée plus exacte du revenu. La comptabilisation des stocks est une des méthodes de rattachement.
+[14] [1926] A.C. 205, à la page 212.
+[15] [1968] R.C.S. 447, aux pages 449 et 450. Dans l’arrêt Algoma, les dépenses concernaient un inventaire géologique.
+[16] [1985] 2 R.C.S. 46. L’arrêt Johns‑Manville est un cas très particulier où la question des dépenses courantes par rapport aux dépenses en capital a été soulevée relativement à une mine à ciel ouvert. L’appelant devait acquérir de plus en plus de terrains adjacents pour pouvoir continuer d’exploiter la mine en expansion. Si le coût d’acquisition des terrains ne pouvait pas être déduit en tant que dépense courante, il devenait impossible de le déduire en tant que déduction pour amortissement. Il est possible de considérer que, dans l’arrêt Johns‑Manville, la Cour suprême du Canada a conclu que les terrains avaient été consommés pour un usage pratique.
+[17] [1999] A.C.I. no 604 (QL). Rappelons que, dans cette affaire, une section du vieux pipeline avait été abandonnée, et un pipeline de remplacement avait été construit parallèlement à l’ancien, sur environ 44 kilomètres.
+[18] [1998] 1 R.C.S. 147.
+[19] Professeur émérite en droit à l’Université McGill, auparavant doyen de la faculté de droit.
+[20] (1997), vol. 45, no 3, Revue fiscale canadienne, à la page 395, aux pages 400 et 401 et à la page 416.
+[21] L’un des nombreux examens utiles de la jurisprudence est celui effectué par la juge Lamarre, tel était alors son titre, dans la décision Brunet c. La Reine, 2002 CanLII 47034 (C.C.I.), aux paragraphes 13 à 16. Le bulletin d’interprétation IT‑128R, auquel on renvoie dans la décision Brunet, présente un bon travail de synthèse de la jurisprudence.
+[22] Voir, par exemple, Société canadienne de métaux Reynolds c. Canada, [1996] A.C.F. no 596 (QL) (C.A.F.), du quatrième au sixième paragraphe, où le critère de l’avantage durable a joué un rôle prépondérant dans la conclusion selon laquelle le coût du remplacement de la cathode de carbone qui constitue le revêtement des cuves d’acier utilisées dans la production d’aluminium de première fusion était une dépense en immobilisations. Le revêtement a duré plusieurs années. Le fait que les revêtements aient été considérés comme un actif distinct semble également important. Étonnamment, c’est le ministre qui a soutenu que le coût de remplacement des revêtements était une dépense courante, et c’est l’entreprise qui voulait que le coût soit classé comme une dépense en capital.
+[23] Voir la décision Canada Steamship Lines Ltd. v. M.N.R., 66 D.T.C. 5205. Les deux paragraphes suivants de cette décision indiquent que des réparations courantes peuvent porter sur le remplacement d’une grande superficie et durer longtemps :
+[traduction]
+En ce qui concerne la première catégorie de dépenses, je n’ai pour ma part aucun mal à conclure que ces dépenses sont déductibles. En effet, le navire dispose d’un double‑fond — une couche extérieure et une couche intérieure séparées par des éléments de structure appropriés. Si une ou plusieurs tôles qui constituent une partie de la couche extérieure doivent être remplacées parce qu’elles ont été enfoncées ou autrement endommagées, tant que les avaries ne sont pas importantes au point où le navire doive être considéré comme ayant été quasiment détruit et qu’il ait effectivement cessé, du point de vue d’un homme d’affaires, d’exister en tant que navire, le remplacement de ces tôles est, à ce que je crois, une réparation navale des plus ordinaires. Lorsqu’une couche intérieure du fond du navire, qui sert également de plancher pour les cales, doit être remplacée, en totalité ou en partie, en raison de l’usure et des dommages causés par la cargaison transportée, il me semble évident que la dépense entre dans la même catégorie que les dépenses liées au remplacement de parties du revêtement extérieur. Tant que le navire subsiste en tant que tel et que les tôles endommagées sont remplacées par des tôles en bon état, je n’ai aucun doute que le navire est réparé et qu’il s’agit d’une dépense courante déductible. (Bien entendu, j’exclus un remplacement possible par quelque chose de nature si différente que cela constitue une modification de la nature — ainsi qu’une amélioration — de la chose pour laquelle l’argent est dépensé, plutôt que d’une simple réparation.)
+Ce que j’ai dit au sujet du remplacement de la totalité ou d’une partie des planchers des cales, qui servent de couche intérieure au fond du navire, s’applique en principe aux parois des cales qui sont aux flancs du navire ce que les planchers des cales sont au fond du navire.
+[24] Voir Canada Steampship Lines Ltd., 66 D.T.C. 5205.
+[25] Voir le paragraphe 10 de l’arrêt Shabro Investment Ltd. c. R., [1979] A.C.F. no 119 (QL) (C.A.F.), rendu par le juge en chef Jackett, où il a fait les observations suivantes :
+[...] Pareillement, il ne faut pas refuser la qualification de « réparation » pour une réparation du seul fait que celle‑ci a été faite en application d’une technique inconnue au moment de la construction de la structure initiale, ou prend en compte des circonstances (telles que l’humidité) négligées au moment de la construction de la structure initiale.*
+* Dans un sens restreint, des réparations semblables peuvent être considérées comme des améliorations, mais, du point de vue d’un homme d’affaires (qui est celui adopté en l’espèce), dans une mesure raisonnable, il en va autrement.
+Voir également les paragraphes 22 et 23 de la décision rendue par le juge Urie. Dans la décision Shabro, une partie d’un plancher qui s’était affaissé avait été remplacée, et on avait installé un bien meilleur support, des pieux d’acier. Cela s’explique par le fait que, lors de la construction initiale, le sous‑sol avait été construit en fonction d’une structure reposant sur du remblai ordinaire, alors qu’une partie du remblai était constituée d’ordures, ce qui modifiait les caractéristiques de la surface visée. Dans cette affaire, la Cour a conclu que le nouveau plancher construit sur pilotis était un nouvel actif, et donc, une dépense en capital. Il s’agissait d’un nouvel actif parce que le plancher original ne convenait pas à son usage puisqu’il reposait sur un remblayage en grande partie composé d’ordures.
+[26] Voir, par exemple, la décision Hare c. La Reine, 2011 CCI 294.
+[27] Voir l’arrêt Québec (Sous‑ministre du Revenu) c. Goyer, 1987 CanLII 538 (C.A. QC), qui est cité par la Cour dans un certain nombre d’affaires, y compris la décision Brunet c. La Reine, 2002 CanLII 47034 (C.C.I.), précitée. Dans ce passage se trouvent les observations suivantes formulées par la juge Vallerand, de la Cour d’appel du Québec :
+Aussi longtemps qu’on ne crée pas un bien capital nouveau, qu’on n’accroît pas la valeur capitale normale du bien et qu’on ne remplace pas un bien disparu par un autre, il s’agit de réparation et d’entretien tendant à ramener le capital à sa valeur précisément normale.
+[28] Healey v. Minister of National Revenue, [1984] C.T.C. 2004, au paragraphe 31.
+[29] L’intimée a soutenu qu’il faudrait plutôt comparer le coût des réparations au coût de remplacement du garage figurant dans l’estimation du coût de remplacement présenté par l’expert de l’appelante. Il s’agit d’un point important, parce que l’affaire se trouve si près de la ligne de démarcation que, si c’était le point de vue qui devait être adopté, cela pourrait faire pencher la balance. J’ai longuement réfléchi à cette question, mais en définitive, le garage se trouve sous les trois immeubles et la terrasse, et ces éléments forment un tout. La situation serait différente s’il y avait des propriétaires distincts.
+[30] Dans cette appréciation, il convient de rappeler que le complexe a été initialement construit en 1973‑1974, et que les problèmes de fissuration et d’égouttement de liquides sur les voitures ont commencé à apparaître un petit peu dans les années 1980, mais se sont intensifiés dans les années 1990. Nous ne savons pas à quel moment, dans les années 1990, le problème a commencé à être important, mais puisque ce n’est qu’en 2004 que des travaux importants ont été effectués, il est possible d’affirmer qu’il y a eu une période d’environ 20 ans pendant laquelle le toit d’origine du garage n’a pas causé de problèmes importants.
+[31] L’une des plus anciennes affaires portant sur la distinction entre « amélioration » et « réparation » est Highland Railway v. Balderson, 2 TC 485, une décision de la Cour de l’Échiquier de l’Écosse rendue en 1889. Elle est citée au Canada et au Royaume‑Uni. Dans cette affaire, une compagnie de chemin de fer avait renouvelé une voie en remplaçant le rail en fer par un rail en acier plus lourd. Le fait que le rail était plus lourd est énoncé au paragraphe II de l’exposé de cause, aux pages 485 et 486. La Cour a conclu que l’installation de rails en acier pour remplacer les rails existants était une dépense en capital et était fondamentalement différente de la simple installation de rails en fer. L’affaire semble donner fortement à penser que l’utilisation de nouvelles technologies suffit en soit à transformer des dépenses de réparation courantes en dépenses en capital.
+Je ne suis pas convaincu que ce soit la bonne conclusion à tirer de l’affaire Highland Railway. En lisant l’ensemble des motifs, y compris l’exposé de cause qui se trouve au début, il semble qu’un autre facteur soit entré en jeu. À la page 488, au dernier paragraphe qui se poursuit à la page 499, le lord président de la Cour a formulé notamment les observations suivantes en ce qui concerne le passage à des rails d’acier :
+[traduction]
+[…] Il s’agit d’une modification importante et d’une très grande amélioration en ce qui concerne l’ensemble des biens de l’entreprise […]
+[La Cour fait ensuite une analogie avant de poursuivre.]
+Certes, si vous bâtissez une nouvelle maison sur votre terrain, il s’agit d’un ajout au bien, d’une amélioration apportée au bien, et la dépense ne sera jamais une dépense courante. C’est un peu comme si vous construisiez un nouveau chemin de fer sur la ligne que vous possédez, et qu’il constitue un chemin de fer différent et de bien plus grande valeur que celui que vous enlevez; de la même façon, cela ne peut être une dépense courante […]
+[Non souligné dans l’original.]
+Cela porte à croire que les rails en acier, en plus de représenter une avancée technologique, accroissaient la rentabilité, et donc la valeur de la ligne — peut‑être en permettant que des trains plus lourds y circulent?
+En outre, il semble que l’amélioration faisait partie de travaux effectués sur une ligne que Highland Railway avait acquise récemment d’une autre compagnie, auquel cas des facteurs différents s’appliquent par rapport à l’appel dont je suis saisi; toutefois, la décision ne révèle pas tout à fait clairement si tel était le cas.
+[32] Ce n’est pas une décision facile à rendre, et il serait souhaitable que les lignes soient un peu plus claires, ce qui permettrait de réduire l’incertitude dans des affaires comme celle‑ci, afin que chacun sache ce qu’il en est. Peut‑être que le ministère des Finances, le gouvernement et le législateur devraient se demander s’il existe des moyens de légiférer et de réduire l’incertitude. J’ai le sentiment qu’une grande partie du problème pourrait tenir au fait que, dans une situation comme celle‑ci, le régime à deux catégories (dépenses courantes ou amortissables) prévu dans la loi actuelle s’applique mal à la situation et qu’une certaine catégorie intermédiaire conviendrait mieux. Bien entendu, il faudrait se demander si toute modification proposée entraînerait ses propres problèmes.

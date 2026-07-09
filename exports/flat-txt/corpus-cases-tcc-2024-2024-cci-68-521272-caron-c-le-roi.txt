@@ -1,0 +1,126 @@
+Title: Caron c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521272/index.do
+Corpus path: corpus/cases/tcc/2024/2024-cci-68-521272-caron-c-le-roi.md
+Document type: case_law
+Last modified: 2024-05-14
+
+# Caron c. Le Roi
+
+- Citation: 2024 CCI 68
+- Decision date: 2024-05-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5734, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Caron c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-05-14
+Référence neutre
+2024 CCI 68
+Numéro de dossier
+2017-3312(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-3312(IT)G
+ENTRE :
+JOHANNE CARON,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu les 23 et 24 avril 2024, à Montréal (Québec)
+Devant : l’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimé :
+Me Anne Elizabeth Morin
+JUGEMENT
+L’appel visant les nouvelles cotisations établies sous le régime de la Loi de l’impôt sur le revenu pour les années d’imposition 2012 et 2013 est rejeté, avec dépens fixés selon le tarif.
+Signé à Toronto, Ontario, ce 14e jour de mai 2024.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2024CCI68
+Date : 20240514
+Dossier : 2017-3312(IT)G
+ENTRE :
+JOHANNE CARON,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] L’appelante, Johanne Caron, interjette appel des nouvelles cotisations établies pour ses années 2012 et 2013 à l’égard des revenus tirés de plusieurs immeubles locatifs et des gains en capital tirés de la vente de deux de ces immeubles. Le présent appel a fait l’objet d’une audience d’une durée de deux jours, à Montréal. Mme Caron a agi pour son propre compte.
+[2] Le présent appel porte sur cinq questions :
+Le refus par l’ARC d’une déduction pour intérêts d’environ 154 000 $ réclamée en 2013 à l’égard d’un emprunt auprès d’un certain M. Trudeau.
+Le refus par l’ARC d’une perte autre qu’en capital tenant à la déduction pour frais d’intérêts déclarée en 2013 et du report rétrospectif à 2012 de cette perte autre qu’en capital déclarée en 2013, dans les deux cas au motif que l’ARC avait refusé la déduction pour intérêts;
+L’augmentation d’environ 39 000 $ par l’ARC du montant des gains en capital imposables tirés par l’appelante de la vente de deux de ses immeubles locatifs à Longueuil en 2013;
+La déduction par Mme Caron de 25 000 $ à 30 000 $ de dépenses engagées en 2005 et 2006 dans le calcul de ses revenus locatifs en 2013. À titre subsidiaire, Mme Caron demande l’ajout de ces sommes au PBR des immeubles.
+L’imposition par l’ARC d’une pénalité pour production tardive de la déclaration pour 2013 de près de 2 000 $.
+I. Les témoins [3] En plus de témoigner elle-même, Mme Caron a fait brièvement comparaître son frère concernant certains aspects du financement qu’elle a obtenu de M. Trudeau. La vérificatrice de l’ARC a témoigné pour le compte de l’intimé.
+[4] Je n’ai aucune préoccupation quant à la crédibilité ou l’honnêteté de chacun de ces témoins.
+[5] Je n’ai aucune préoccupation quant à la fiabilité du frère de Mme Caron. Il a volontiers décrit le rôle limité qu’il a joué dans des événements remontant à plus de dix ans et l’observation limitée qu’il en a faite, et expliqué qu’il pouvait uniquement relater ce dont il se souvenait. Ce qu’il a déclaré à notre Cour correspond à ce qui figure dans la copie non signée de son affidavit rédigé en 2013 par l’avocat de sa sœur concernant une requête d’urgence en injonction contre M. Trudeau et ses relations financières avec l’appelante.
+[6] Je n’ai aucune préoccupation quant à la fiabilité du témoignage de la vérificatrice de l’ARC. Son rapport écrit, ainsi que les documents justificatifs disponibles, ont été déposés en preuve.
+[7] Je retiens que Mme Caron est un témoin honnête et qu’aucun élément de preuve direct ne permet de penser qu’elle a intentionnellement tenté de déduire des sommes qu’elle n’était pas en droit de déduire ou avait déjà déduites. Toutefois, j’ai des doutes sur la fiabilité de son témoignage compte tenu des affirmations générales faites concernant ce qu’elle savait, croyait, comprenait ou se rappelait, dans leur ensemble, et du fait que certains éléments clefs étaient incompatibles avec des documents signés – et dans certains cas écrits – par elle à l’époque.
+[8] L’intimé m’a demandé de tirer une inférence défavorable du fait que l’appelante n’a pas cité M. Trudeau à comparaître comme témoin pour confirmer sa version des faits. Je m’y refuse. L’ARC aurait pu communiquer avec M. Trudeau dans le cadre de la vérification. Comme l’appelante, l’intimé aurait pu assigner M. Trudeau à comparaître s’il souhaitait le faire entendre. Aucune raison n’a été donnée pour expliquer pourquoi cela n’a pas été fait. Vu les allégations que Mme Caron a formulées contre M. Trudeau dans son instance civile en Cour du Québec et dans le présent appel fiscal, nous pouvons aisément tenir pour acquis que la version de Mme Caron et celle de M. Trudeau s’opposeraient. Il serait fort surprenant qu’il en soit autrement. Ce n’est pas un motif valable en l’espèce pour tirer une inférence défavorable sur la véracité du témoignage de Mme Caron.
+II. Analyse
+Le refus de la déduction pour paiement d’intérêts
+[9] Après avoir examiné et apprécié la preuve présentée à la Cour, je ne suis pas en mesure de conclure, selon la prépondérance des probabilités, qu’une somme de 154 000 $ correspondant aux intérêts en question est une déduction permise.
+[10] Je ne suis pas en mesure de conclure que ces sommes ont été versées à titre d’intérêts ou à un autre coût du financement fourni par M. Trudeau. On ne retrouve pas, dans les documents établis concernant chaque avance, les sommes dont M. Trudeau a exigé le paiement par Mme Caron, selon cette dernière, au moment où elle a reçu chaque avance. On ne les retrouve pas dans le document de règlement et de quittance que Mme Caron a signé, après que son avocat l’a révisé. Selon ce document, aucune portion des 340 000 $ versés lors de l’entente n’a été perçue à titre d’intérêts. Cette somme était inférieure au montant du capital emprunté par Mme Caron. Le seul élément que le frère de Mme Caron a été en mesure de confirmer est qu’il avait vu sa sœur se rendre à la banque avec M. Trudeau et remettre à ce dernier une somme en espèces, que M. Trudeau a comptée. Il ne connaissait ni les raisons, ni les montants, ni aucun autre détail de ces transactions.
+[11] Pour les mêmes motifs, je ne suis pas en mesure de conclure que ces sommes ont été payées en exécution d’une obligation juridique de payer des intérêts, car elles sont clairement supérieures au taux d’intérêt figurant dans les documents de financement.
+[12] Je ne peux pas non plus conclure que Mme Caron a utilisé la somme de près de 400 000 $ empruntée à des fins ouvrant droit à une déduction pour intérêts. La somme empruntée n’a servi ni à l’achat des immeubles locatifs, ni à des améliorations en capital apportées aux immobilisations, ni à des ajouts aux immobilisations. Ni les travaux d’entretien et de réparation documentés, ni ceux décrits par Mme Caron dans son témoignage oral, n’ont eu un coût total approchant la somme empruntée. Il n’est pas certain que toutes les unités des immeubles locatifs généraient un loyer selon le marché. L’appelante a déclaré que sa mère occupait l’une des unités, moyennant un loyer modeste, et il n’est pas clairement établi que l’appelante et son frère n’occupaient pas également une unité de ces immeubles.
+[13] Mme Caron a été avare de détails et s’est contentée de faire des déclarations générales sur la nécessité de réparer et de rénover sans cesse ses différents immeubles locatifs. Il n’existe aucun document comptable ou bancaire étayant la description des sommes avancées par M. Trudeau et versées à ce dernier, ni même aucun document compatible avec cette description.
+[14] Je retiens que Mme Caron allègue que M. Trudeau a profité d’elle, d’une manière que l’on pourrait décrire d’arnaque ou d’escroquerie financière. Toutefois, les pertes financières subies aux mains de fraudeurs et d’escrocs ne sont pas une perte déductible aux fins du calcul de l’impôt. Je ne suis pas en mesure d’établir un lien suffisant entre le financement qu’elle a obtenu de M. Trudeau et ses activités locatives, donc ses pertes et les coûts liés au financement obtenu de M. Trudeau ne sont pas déductibles.
+Le report rétrospectif des pertes
+[15] Le report rétrospectif des pertes locatives de 2013 à 2012 tenait à la déduction demandée par Mme Caron des coûts liés au financement obtenu de M. Trudeau en 2013, que j’ai analysée ci-dessus. Étant donné que j’ai conclu que l’ARC avait refusé la déduction pour 2013 à bon droit, il n’existe aucune perte en 2013 susceptible d’être rétrospectivement reportée à 2012. L’appel sur ce point est rejeté.
+Les gains en capital imposables sur les immeubles St-Alexandre et Montcalm
+[16] La Cour ne dispose d’aucun élément de preuve fiable établissant que les montants additionnels qui ont été déterminés sont erronés. Les coûts initiaux et les prix de vente des deux immeubles ne sont pas contestés et figurent dans les documents d’achat et de vente. Le prix de base rajusté (le « PBR ») figurant dans le rapport de vérification a été établi sur la base des documents et des déclarations de la contribuable elle-même.
+[17] Mme Caron reproche à l’ARC d’indiquer dans les nouvelles cotisations des gains en capital nettement supérieurs aux sommes nettes qu’elle a reçues de la vente des immeubles concernés. Elle semble ne pas avoir tenu compte du fait qu’elle a également versé à M. Trudeau les 340 000 $ convenus à même le produit de ces ventes, puisqu’il était titulaire d’une hypothèque sur les immeubles de l’appelante en garantie de son prêt, en sus des hypothèques préexistantes de la banque sur ces immeubles.
+[18] L’appel sur ce point est également rejeté.
+Le refus des factures pour l’entretien et les réparations
+[19] Ces factures datent toutes de 2005 et de 2006, et non des années 2012 ou 2013 en question. Il n’existe aucun élément de preuve fiable établissant que ces dépenses n’ont pas déjà été déduites au titre de frais d’entretien et de réparation lorsqu’elles ont été engagées, ce qui était la pratique standard stricte de Mme Caron selon les explications claires et répétées de cette dernière. Ces factures et dépenses n’ont manifestement pas été égarées, négligées ou oubliées au cours des années précédentes. Les dépenses d’entretien et de réparation sont correctement déduites au cours de l’année où elles ont été engagées, et non au cours d’une année bien ultérieure. Pour les mêmes motifs, ces sommes ne peuvent être considérées comme du capital et ajoutées au PBR des immeubles locatifs. L’appel sur ce point est rejeté.
+La pénalité pour production tardive
+[20] Mme Caron ne nie pas avoir produit sa déclaration pour 2013 tardivement. La pénalité pour production tardive prévue à l’article 150 est stricte et le législateur n’a pas prévu de moyen de défense fondé sur la diligence raisonnable à cet égard. Comme l’a déclaré la juge Wood, maintenant juge à la Cour d’appel fédérale, dans la décision Douglas c. La Reine, 2012 CCI 73, au par. 14, cela n’empêche pas un contribuable d’invoquer la diligence raisonnable s’il a pris toutes les mesures raisonnables pour se conformer à la loi (Voir également la décision Home Depot of Canada Inc. c. La Reine, 2009 CCI 281, rendue par le juge Miller, citée par la juge Woods. Voir également la décision Moore c. La Reine, 2019 CCI 141, aux par. 18 à 21).
+[21] La situation et les explications de Mme Caron ne me permettent pas de conclure, selon la prépondérance des probabilités, que celle-ci a pris toutes les mesures raisonnables pour produire sa déclaration pour 2013 dans les délais impartis. L’appel sur la pénalité pour production tardive est rejeté.
+III. Conclusion [22] Pour les motifs qui précèdent, l’appel est rejeté à l’égard de chacun des moyens invoqués par Mme Caron.
+[23] L’intimé a demandé les dépens selon le tarif figurant dans les Règles de notre Cour.
+[24] L’appel est rejeté avec dépens fixés selon le tarif.
+Signé à Toronto, Ontario, ce 14e jour de mai 2024.
+« Patrick Boyle »
+Juge Boyle
+RÉFÉRENCE :
+2024CCI68
+NO DU DOSSIER DE LA COUR :
+2017-3312(IT)G
+INTITULÉ :
+JOHANNE CARON c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Les 23 et 24 avril 2024
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 14 mai 2024
+COMPARUTIONS :
+Pour l’appelante :
+Johanne Caron
+Avocate de l’intimé :
+Me Anne Elizabeth Morin
+AVOCATE INSCRITE AU DOSSIER :
+Pour l’appelante :
+Nom :
+Johanne Caron
+Cabinet :
+Pour l’intimé :
+Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada

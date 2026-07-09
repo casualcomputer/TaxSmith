@@ -1,0 +1,162 @@
+Title: McAllister v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28315/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-708-28315-mcallister-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-07-16
+
+# McAllister v. The Queen
+
+- Citation: 2007 TCC 708
+- Decision date: 2007-07-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1834, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McAllister v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-07-16
+Neutral citation
+2007 TCC 708
+File numbers
+2006-2334(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2334(IT)I
+BETWEEN:
+JEAN MCALLISTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on July 16, 2007 at Timmins, Ontario
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+April Tate
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeals of the 2001, 2002, 2003 and 2004 taxation years are allowed. The reassessment of the Minister of National Revenue of the 2001 taxation year is vacated. The reassessments of the 2002, 2003 and 2004 taxation years are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the arrears portion of the amounts of $9,625, $9,100 and $9,100 paid by the Appellant's former spouse in each of those years was not a "support amount" as defined in the Income Tax Act and accordingly, only the current amounts of $5,725, $4,800 and $3,000 are properly included in the Appellant’s income for 2002, 2003 and 2004, respectively.
+Signed at Calgary, Alberta, this 7th day of December, 2007.
+“G.A. Sheridan”
+Sheridan, J.
+Citation: 2007TCC708
+Date: 20071207
+Docket: 2006-2334(IT)I
+BETWEEN:
+JEAN MCALLISTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Jean McAllister, is appealing the reassessments of the Minister of National Revenue of her 2001[1], 2002, 2003 and 2004 taxation years which included in her income arrears of child support paid by her former spouse to the Family Responsibility Office ("FRO") and which were then paid by the FRO to the Ministry of Community and Social Services ("MCSS").
+[2] The Minister's reassessment was based on the following assumptions:
+(a) the Appellant and her former spouse, namely Thomas Harold McAllister (the "Former Spouse") married on April 19, 1980 and divorced on April 16, 1992;
+(b) at all relevant times, the Appellant and the Former Spouse were living separate and apart;
+(c) at all relevant times, the Appellant and the Former Spouse had two children, namely Darryl James McAllister born August 19, 1981 and Jason Thomas McAllister born September 29, 1982 (the "Children");
+(d) pursuant to an Order of the Ontario Court (General Division) dated March 16, 1992 (the "Order"), the Former Spouse was required to pay $200.00 per child per month for the support of the Children on the 28th day of each month;
+(e) the amounts referred to in subparagraph 11(d) herein was (sic) required to be paid to the Director of the Family Responsibility Office ("FRO"), Province of Ontario, who would enforce the Order and pay them to the Appellant [Emphasis added];
+(f) the Former Spouse fell in arrears and no amounts were paid under the terms of the Order between March 19, 1993 and November 7, 2000;
+(g) as of December 31, 2000, the amount of arrears stood at $37,657.24;
+(h) on November 7, 2000, payments made pursuant to the Order recommenced and between the said date and the end of 2004, the Former Spouse paid $175.00 per week and said payments included both his current obligation and paying off the arrears amount previously referred to;
+(i) in March 2004, the requirement to pay support for the second child ceased;
+(j) there was no subsequent Order that altered or amended the amount of child support to be paid; and
+(k) during the 2000, 2001, 2002, 2003 and 2004 taxation years, the Appellant was paid the amounts of $1,350.00, $9,100.00, $9,625.00, $9,100.00 and $9,100.00 respectively pursuant to the terms of the Order and in accordance with the payment of arrears as stipulated by the FRO.[2] [Emphasis added.]
+[3] Except for subparagraphs (e) and (k), the facts are essentially as set out above. The assumption in paragraph 11(e) is inaccurate in that the Order[3] does not state that amounts payable under it shall be paid to “the Appellant"; rather, it reads that the Order "… shall be enforced by the Director [of the FRO] and amounts owing under the support Order shall be paid to the Director, who shall pay them to the person to whom they are owed". As for paragraph 11(k), it is not a proper assumption; whether the Appellant "was paid" the amounts listed "pursuant to the terms of the Order and in accordance with the payment of arrears as stipulated by the FRO" is the very issue to be decided.
+[4] The Appellant and her accountant, Roxana Johnston, testified at the hearing. Both were entirely credible. Their evidence revealed additional facts not included in the Minister's assumptions: that as a result of her former spouse's failure to pay support under the Order, the Appellant was forced to apply for financial assistance under the Family Benefits Act[4] and was required to assign her right to receive certain payments under the Order to MCSS[5]. The assignment was made by an agreement in writing dated March 5, 1992.
+[5] The Appellant's former spouse made no payments under the Order from 1993 to 2000. In 2002, 2003 and 2004, however, he resumed his obligations, paying $9,625, $9,100 and $9,100, respectively to the FRO. These amounts included both current support payments and arrears amounts that had accumulated between 1993 and 2000. As the Order required the FRO to pay amounts paid to it "to the person to whom they are owed", the FRO allocated the amounts received between the Appellant and the MCSS as follows: the current amounts (then payable under the Order on the 28th of each month of 2002, 2003 and 2004) to the Appellant and the arrears amounts (which had become payable between 1993 and 2000 when the Appellant was receiving Family Benefits Act benefits) to the MCSS under the Family Benefits Act assignment agreement.
+[6] The Appellant does not dispute that the current amounts[6] paid to her through FRO were properly taxable as income in each of 2002, 2003 and 2004. She argues, however, that the arrears paid to MCSS in each of those years ought not to be included in her income as she did not receive them.
+[7] The Respondent's submission is that the arrears amounts are properly included in income as "child support" under paragraph 56(1)(b) of the Income Tax Act:
+56.(1) Amounts to be included in income for year -- Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+…
+(b) [spousal or child] support -- the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount received after 1996 and before the end of the year by the taxpayer from a particular person where the taxpayer and the particular person were living separate and apart at the time the amount was received,
+B is the total of all amounts each of which is a child support amount that became receivable by the taxpayer from the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount received after 1996 by the taxpayer from the particular person and included in the taxpayer's income for a preceding taxation year;
+[8] Relying on the decisions of this Court in Pepper v. Canada[7] and Mymryk v. Canada[8], counsel for the Respondent argued that regardless of who actually received the payments made by the Appellant's former spouse, the Family Benefits Act assignment agreement did not deprive them of their "support amount" status under the Income Tax Act. Accordingly, both the current and arrears amounts ought to be included in the Appellant’s income for the taxation years in question.
+Analysis
+[9] Paragraph 56(1)(b) of the Income Tax Act requires the inclusion in income of a "support amount" defined in subsection 56.1(4) as an amount "payable … as an allowance on a periodic basis for the maintenance of the … children of the recipient, if the recipient has discretion as to the use of the amount". [Emphasis added.]
+[10] The evidence in the present matter does not support the conclusion that the Appellant had "discretion as to the use of" the arrears when they became payable on the 28th day of the months between 1993 and 2000. By that time, the Appellant's right to them had long since been assigned to the MCSS under the Family Benefits Act.
+[11] The Family Benefits Act provides a scheme for the payment of benefits to certain Ontario residents who qualify under the statutory criteria as persons "in need"[9]. As a mother with dependent children resident in Ontario who was divorced from their father and had not remarried[10], the Appellant satisfied two of these three criteria. To determine whether she was "in need", the next step was to compute her "income" as defined under the Regulations.
+[12] Paragraph 13(1)(c) of the Regulations[11] provides that income "… shall include all payments of any nature or kind whatsoever, received by or on behalf of, … any dependant of the applicant or recipient…". Paragraph 13(2)(7) specifically requires the inclusion in income of "… any payments for support … received under an order made by a court of competent jurisdiction …". As the Appellant was not receiving any payments under the Order (precisely the reason she found herself "in need"), she did not have to include such amounts in her income for the purpose of establishing whether she was "in need" or for computing the quantum of the benefits to which she was entitled under the legislation. However, as will be seen, that she was owed such "income" during her benefit entitlement period triggered other obligations under the Family Benefits Act.
+[13] Under section 10(1) of the Regulations, "[w]here money is due and owing or may become due and owing to an applicant" for benefits which, "if received, would be included in income for the purposes of subsection 13(1)", the Director has a discretion to require "as a condition of eligibility for a benefit that the applicant … agree in writing to reimburse Ontario for all or any part of the benefit paid or to be paid when the money becomes payable"[12]. Pursuant to paragraph 10(4)(b) of the Regulations, a "written agreement" may include "an assignment to Ontario by the applicant … of the right to be paid the money by the person or agency by whom the money is payable". Within certain limits[13], the MCSS may recover from the applicant’s debtor amounts which, had they been paid, would have been included in her income and which would have reduced the quantum of her benefits accordingly. In other words, the debtor becomes liable to Ontario for the overpayment of benefits resulting from his default in paying "income" amounts to the applicant.
+[14] In the present case, the Director required the Appellant to make an agreement in writing assigning to MCSS some of her rights under the Order; namely, her right to be paid support amounts that became payable by her former spouse under the Order during the time she was receiving benefits. Accordingly, when her former spouse finally started complying with the Order, the current amounts were properly payable and paid to the Appellant. The right to the arrears amounts (as it had done since March 5, 1992) lay exclusively with the MCSS pursuant to the Family Benefits Act assignment agreement.
+[15] The existence of the assignment agreement and the terms of the Order directing the FRO to pay the amounts received from her former spouse to “the person to whom they [were] owed” precluded the Appellant from interfering in any way with the payment of the arrears to the MCSS. She could not, for example, have required the FRO to withhold and remit a portion of the arrears to the Minister of National Revenue. Furthermore, there was no direct correlation between the Family Benefits Act benefits and the support payments. While the failure of the Appellant's former spouse to pay support under the Order triggered her need for such benefits and affected the computation of the quantum of benefits for which she was eligible under the Family Benefits Act, the benefits were not, in any legal sense, in lieu of the support payments. Her right to Family Benefits Act benefits arose from having satisfied the legislative criteria for benefit eligibility. The arrears owed to her by her former spouse provided a global fund from which the MCSS was entitled to recover overpayment of benefits caused by his failure to pay amounts that would otherwise have been included in the Appellant's income. In these circumstances, it cannot be said that the Appellant had "discretion as to the use of" the arrears amounts payable or paid under the Order and accordingly, the arrears amounts are not caught by the definition of "support amount" under subsection 56.1(4) of the Income Tax Act.
+[16] A similar conclusion was reached in another Ontario case, Bishop v. Minister of National Revenue[14]. The facts of Bishop are essentially the same as those of the case at bar. Like the Appellant, Mrs. Bishop had been forced to seek social assistance as a result of her former spouse's default under a support order for their children. She, too, had been required to make an assignment of her right to such payments under the same provisions of the Ontario Family Benefits Act and Regulations. On these facts, Kempo, J. held that the effect of the assignment was to convey to the Ontario government Mrs. Bishop's "… legal and equitable interests respecting the income stream derived from the 1975 support order which, effectively, vested in the [MCSS]'s favour all her existing and potential rights of action and recovery as between herself and [her former spouse]; …" and that it "… effectively divested her of any discretion with respect to any amounts paid or to be paid thereunder to the [MCSS]"[15]. In reaching this conclusion, the Court noted that "[i]t is of particular significance that the source of Mrs. Bishop's right to receipt of social assistance benefits and amounts did not arise from the assignment. Rather, their source arose from the Ontario social assistance legislation itself. Her assignment was merely one of the preconditions attached to her enjoyment of these rights."[16]
+[17] Whether the Appellant was actually receiving or owed support payments was relevant under the Family Benefits Act to the determination of her degree of "need", the computation of the quantum of benefits for which she was eligible and the identification and accessing of a source of third-party funds from which MCSS could recover any overpayment of benefits. Whether the amounts ultimately recovered by MCSS from her former spouse ought to be included in her income under the Income Tax Act depends on their being a “support amount” as defined in subsection 56.1(4)[17]. Given the Appellant's lack of discretion over the use of the arrears as a result of the Family Benefits Act provisions, I am satisfied that they were not. The conclusion of Kempo, J. in Bishop applies equally to the case at hand:
+[49] As noted, Mrs. Bishop neither actually received, nor indirectly benefitted from, Mr. Bishop's payment. Further mere physical possession of these funds would not have rendered them her own property, legally or beneficially. There would have been no benefit to her by virtue of its mere possession, nor would it have been her income. As a matter of law, she was without any standing with respect to the creditor/debtor relationship that existed between the Ministry and Mr. Bishop at the time of the payment.
+[18] As mentioned above, the Respondent relied on Pepper and Mymryk, decisions in which former Chief Justice Garon rejected the approach taken in Bishop:
+[From Pepper v. Canada]:
+[10] Although I believe I could dispense with any further comments, I wish to stress the point that the support payments were made to the Minister of Community and Social Services as a result of the assignment made by Mrs. Pepper on November 1, 1991. The payments are therefore made to the Minister of Community and Social Services pursuant to a decision made by Mrs. Pepper who was required to make an assignment of the moneys pursuant to the Support Order in question, because she wanted to benefit by and receive social assistance payments. Such payments are caught by the "constructive receipt" provisions of subsection 56(2) of the Act. In effect, it is clear that the payments in question were "made pursuant to the direction of, or with the concurrence of a taxpayer (Mrs. Pepper) to some other person (the Minister of Community and Social Services) for the benefit of the taxpayer" (Mrs. Pepper). In such a case, the income is imputed to the taxpayer to the extent that it would be income for the taxpayer if the payments had been made to the taxpayer. It is common ground that paragraphs 56(1)(b) and 60(b) of the Act would be applicable here if such payments had been received directly by Mrs. Pepper.
+[11] Furthermore, I am fortified in the validity of the conclusion that the Appellant is entitled to the deduction of the payments made to the Minister of Community and Social Services in considering the scheme of the Income Tax Act. In effect, it would seem preposterous that the person entitled to receive support payments contemplated by paragraphs 56(1)(b), 56(1)(c), 60(b) and 60(c) of the Income Tax Act could by his own act deprive the payor of support payments of the benefit of the deductions to which he would otherwise be entitled under the provisions of paragraphs 60(b) and 60(c) of the Income Tax Act by simply making an assignment to a third party of the right to receive such payments, or otherwise by making a direction that the support payments should be paid to somebody else.
+[From Mymryk v. Canada]:
+[27] I did not follow the Bishop decision in the case Pepper v. R., [1997] 1 C.T.C. 2716 (T.C.C.). In the Pepper decision, I stated that I could not see how a person entitled to receive maintenance payments could by her own act deprive the payor of such payments of the benefit of the deduction to which he would otherwise be entitled under the relevant paragraphs of section 60 of the Act, by simply making an assignment to a third party. Likewise, in the present case, it would not be logical and fair that his former spouse can prevent the Appellant from treating as support amount any amount paid or payable to the Executive Director of Social Services under the two assignments mentioned earlier. In this respect, it is noteworthy that the Appellant in computing his income for the 2000 taxation year deducted, and the Minister of National Revenue allowed as a deduction, the amount of $750, which represented support arrears paid by the Appellant in the year 2000.
+[28] I have not been referred to any restrictions in the two Court Orders mentioned in the Assignments of support arrears pursuant to which the Appellant was required to pay a support amount. In view of the conclusion at which I have arrived on this question, I have not found it necessary to consider the impact on the Assignments mentioned earlier, if any, of the Consent Default Order dated May 10, 1999.
+[29] I therefore conclude that the Appellant's second argument according to which the Appellant's ex-spouse had no discretion as to the use of the support amount cannot be accepted.
+[19] I am not persuaded that these decisions are applicable to the present facts. As Informal Procedure decisions, Pepper and Mymryk are without precedential value. Further, the issue before the Court in both cases was the payor spouse’s right to deduct a support amount that had been paid to an assignee of the recipient spouse. Accordingly, comments as to whether such amounts might have had to be included in the recipient spouse's income are obiter dicta. While certainly the Income Tax Act contemplates the reciprocal operation of the inclusion-deduction provisions, the deductibility of such payments does not depend upon its being included in income by the recipient. Such reciprocity is achieved through the use of the definition of "support amount" in the respective formulas for the calculation of included income[18] and deductible amounts[19]. Whether a payment is a “support amount” will depend on the facts of a particular taxpayer's circumstances. In the present case, the Appellant has shown that the arrears paid by her former spouse to MCSS were not a “support amount” and accordingly, need not be included in income under paragraph 56(1)(b) of the Income Tax Act.
+[20] In Pepper and Mymryk, the Court was troubled by the possibility of the recipient spouse "by his own act"[20] unilaterally depriving the payor spouse of his deduction "by simply making an assignment to a third party"[21]. While a legitimate concern, this is not what occurred in either Bishop or in the present case. The Appellant did not take it upon herself to assign her rights to the MCSS to thwart her former spouse’s entitlement to a deduction. Rather, it was her former spouse who "by his own act" chose, for a seven-year period, not to comply with his Court-ordered support obligations. It was he who put the Appellant in the position of having to assign her rights to the payments he was supposed to have been making in order to be eligible for Family Benefits Act benefits to support their two children. It was the default of the Appellant's former spouse that deprived her of the discretion she might otherwise have had with regard to the use of the arrears payments; absent such discretion, the arrears amounts are not "support amounts" as defined in the Income Tax Act.
+[21] The Court also considered in Pepper and Mymryk the constructive receipt provisions of subsection 56(2) of the Income Tax Act. That broadly drafted provision includes in a taxpayer’s income "[a] payment … made pursuant to the direction of, or with the concurrence of a taxpayer to some other person for the benefit of the taxpayer” or “as a benefit that the taxpayer desired to have conferred on the other person...". [Emphasis added.] In Pepper, the Court described Mrs. Pepper's assignment of her rights to the MCSS as "a decision made by Mrs. Pepper who was required to make an assignment of the moneys [under] the Support Order … because she wanted to benefit by and receive social assistance payments."[22] [Emphasis added]. With the exception of the reference to being "required" to make an assignment, the evidence in the present case does not justify a similar finding. The use of the word "desired" in subsection 56(2) suggests a degree of intention simply not present in the Appellant’s circumstances: her “decision” to forgo her right to arrears that accumulated during the period she was receiving benefits to the MCSS was in truth, an obligation imposed on her by provincial statute as a "condition of eligibility"[23] for benefits made necessary by her former spouse's default.
+[22] The other cases relied upon by the Respondent are distinguishable from the present appeal. In Giles v. Canada[24], the assignment by the recipient spouse was to the Manitoba equivalent of the Ontario FRO. In these circumstances, the Court concluded that there was "if not actual receipt, constructive receipt"[25] of arrears. The analogous aspect in the present case is the payment of current amounts to the Appellant by the FRO, amounts which the Appellant does not dispute were properly included in her income in 2002, 2003 and 2004. As for Gervais v. Canada[26] and Boucher v. Canada[27] these cases turned on the particular wording of the Quebec legislation which by operation of law, subrogated to the provincial social assistance agency the recipient spouse's right to support arrears. And as with Pepper and Mymryk, the issue before the Court in those cases was not whether the amounts paid ought to be included in the taxpayer's income.
+[23] For these reasons, the appeals of the 2001, 2002, 2003 and 2004 taxation years are allowed. The reassessment of the Minister of National Revenue of the 2001 taxation year is vacated. The reassessments of the 2002, 2003 and 2004 taxation years are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the arrears portion of the amounts of $9,625, $9,100 and $9,100 paid by the Appellant's former spouse in each of those years was not a "support amount" as defined in the Income Tax Act and accordingly, only the current amounts of $5,725, $4,800 and $3,000 are properly included in the Appellant’s income for 2002, 2003 and 2004, respectively.
+Signed at Calgary, Alberta, this 7th day of December, 2007.
+“G.A. Sheridan”
+Sheridan, J.
+CITATION: 2007TCC708
+COURT FILE NO.: 2006-2334(IT)I
+STYLE OF CAUSE: JEAN MCALLISTER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Timmins, Ontario
+DATE OF HEARING: July 16, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: December 7, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+April Tate
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Counsel for the Respondent advised at the hearing that the Respondent was conceding that the 2001 reassessment had been made beyond the normal reassessment period; accordingly, the appeal of the 2001 assessment is allowed.
+[2] Paragraph 11 of the Reply to the Notice of Appeal.
+[3] Exhibit R-1.
+[4] R.S.O. 1990, c. F.2.
+[5] The assignment agreement was not in evidence but the fact of the assignment is not challenged by the Respondent. Though not relevant to these appeals, for the sake of clarity, the assignment to MCSS was later cancelled and re-assigned to another government agency, the Cochrane District Social Services Administration Board, which had taken over responsibility for certain aspects of the program under new legislation. Exhibit A-2.
+[6] Exhibit A-6: $5,725 in 2002; $4,800 in 2003 and $3,000 in 2004.
+[7] [1997] 1 C.T.C. 2716 (T.C.C.).
+[8] [2004] 1 C.T.C. 2832 (T.C.C.).
+[9] Section 7 of the Family Benefits Act, R.S.O. 1990, c. F.2.
+[10] Subparagraph 7(1)(d)(vi) of the Family Benefits Act.
+[11] Section 13 of the Regulations to the Family Benefits Act, R.R.O. 1990, Reg. 366 (Amended to O. Reg 382/05).
+[12] Paragraph 13(2)7 includes in income "any regular or periodic payments for support or maintenance received under an order made by a court of competent jurisdiction".
+[13] Under subsection 10(5) of the Regulations, "The amount of benefit for which Ontario is entitled to be reimbursed under the agreement shall not exceed the total amount of the benefit paid to the recipient during the period in respect of which the money is payable".
+[14] [1993] 1 C.T.C 2333.
+[15] Bishop, supra at paragraph 44.
+[16] Bishop, supra at paragraph 45.
+[17] The Income Tax Act provides for the inclusion in income of benefits like the Family Benefits Act benefits received by the Appellant’s income under paragraph 56(1)(u) and the subsequent deduction of such benefits under paragraph 110(1)(f).
+[18] Paragraph 56(1)(b).
+[19] Subsection 60(b).
+[20] Pepper, supra at paragraph 11.
+[21] Mymryk, supra at paragraph 27.
+[22] Pepper, supra at paragraph 10.
+[23] Subsection 10(1) of the Regulations to the Family Benefits Act, supra.
+[24] [2001] 1 C.T.C. 2619 (T.C.C.).
+[25] Supra, at paragraph 7.
+[26] [1997] T.C.J. No. 816.
+[27] [1998] 3 C.T.C. 3014 (T.C.C.).

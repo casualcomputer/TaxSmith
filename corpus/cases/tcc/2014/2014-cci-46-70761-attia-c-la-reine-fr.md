@@ -1,0 +1,180 @@
+---
+title: "Attia c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/70761/index.do"
+last_modified: "2014-03-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 46"
+citation2: ""
+neutral_citation: "2014 CCI 46"
+decision_date: "2014-03-28"
+language: "fr"
+item_id: "70761"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5330
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:02:48.808000+00:00"
+cases_cited_count: 9
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c7d36b7a9d605dbcb2069d2e55dce87796a7bddc4d5a5159abffb51dea067ef0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Attia c. La Reine
+
+- Citation: 2014 CCI 46
+- Decision date: 2014-03-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5330, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Attia c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-03-28
+Référence neutre
+2014 CCI 46
+Numéro de dossier
+2011-3344(GST)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-3344(GST)G
+ENTRE :
+ABDERRAHMANE ATTIA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 22 octobre 2013, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Philippe H. Bélanger
+Me Olivier Coche
+Avocat de l'intimée :
+Me Philippe Morin
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre d’une cotisation établie à l’égard de l’appelant en vertu du paragraphe 323(1) de la Loi sur la taxe d’accise est accueilli avec dépens.
+Signé à Ottawa, Canada, ce 28e jour de mars 2014.
+« Paul Bédard »
+Juge Bédard
+Référence : 2014 CCI 46
+Date : 20140328
+Dossier : 2011-3344(GST)G
+ENTRE :
+ABDERRAHMANE ATTIA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s’agit d'un appel à l’encontre d’une cotisation (dont l’avis est daté du 29 septembre 2010 et porte le numéro F‑027420) établie à l’égard de l’appelant en vertu du paragraphe 323(1) de la Loi sur la taxe d’accise (la « LTA »). Il s’agit de déterminer si, en tant qu’administrateur de la société Shan Cha Investissements Inc. (la « société »), l’appelant doit être tenu responsable, solidairement avec cette société, de payer 13 617,66 $, soit le montant de taxe nette que cette société a omis de remettre, plus les intérêts, pour les périodes du 1er janvier 2007 au 31 janvier 2007, du 1er avril 2007 au 31 octobre 2007, du 1er décembre 2007 au 31 janvier 2008, du 1er avril 2008 au 30 avril 2008 et du 1er juin 2008 au 31 août 2008 (les « périodes visées »).
+[2] Il convient de souligner immédiatement qu’en l’espèce la seule question en litige est de savoir si l’appelant est en droit d’être exonéré de la responsabilité incombant aux administrateurs en vertu de l’article 323 de la LTA. En effet, selon les dispositions du paragraphe 323(3) de la LTA, un administrateur peut se soustraire à sa responsabilité solidaire s’il démontre qu’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement que ne l’aurait fait une personne raisonnablement prudente placée dans les mêmes circonstances. En d’autres mots, il s’agit en l’espèce de déterminer si l’appelant a fait preuve de soin, de diligence et de compétence raisonnable dans les circonstances pour prévenir les manquements reprochés à la société.
+Position des parties
+[3] L’appelant est d’avis que la défense de soin, de diligence et de compétence prévue au paragraphe 323(3) de la LTA s’applique à lui puisque, en raison de son état de santé, ses capacités cognitives étaient altérées. Malgré tout, il s’est comporté en administrateur de bonne foi et en administrateur prudent en déléguant ses fonctions à un gestionnaire compétent. L’intimée ne croit pas que l’appelant a pris des mesures concrètes et positives pour prévenir les manquements de la société.
+Résumé de la preuve
+[4] L’appelant a témoigné. La Dre Caroline Morin et la Dre Hélène Poupart ont par ailleurs témoigné à l’appui de la position de l’appelant. Madame Sonia Bergeron et monsieur Abdoulrahman Syradin ont témoigné à l’appui de la position de l’intimée.
+[5] Il ressort essentiellement du témoignage très crédible de la Dre Morin, médecin généraliste, les faits suivants :
+i) l’appelant est son patient depuis le 26 juillet 2004;
+ii) le 7 septembre 2005, elle avait constaté que l’appelant souffrait de dépression majeure et lui avait alors prescrit des antidépresseurs. Elle l’avait aussi envoyé plus tard à un autre médecin pour un suivi en psychologie, ayant constaté que, dans les circonstances, la prise de médicaments ne suffisait pas à guérir l’appelant;
+iii) elle avait traité l’appelant pour sa dépression majeure jusqu’au 4 décembre 2009;
+iv) bien qu’elle ait prescrit à l’appelant dès le départ des antidépresseurs, ce dernier n’avait commencé à les prendre qu’à partir du 6 juillet 2007. L’appelant avait cessé de prendre les médicaments le 4 décembre 2009;
+v) la maladie dont souffrait l’appelant avait certainement eu un impact sur la vie professionnelle de ce dernier (voir aussi la pièce A‑1, onglet 4A, pages 1 et 3).
+[6] Il ressort essentiellement du témoignage de la Dre Hélène Poupart (médecin omnipraticien agissant uniquement à titre de psychothérapeute), dont la crédibilité ne fait aucun doute, les faits suivants :
+i) l’appelant lui avait été envoyé par la Dre Morin;
+ii) elle avait traité l’appelant pendant la période allant du 12 octobre 2007 jusqu’au mois de janvier 2011;
+iii) lors de sa première rencontre avec l’appelant, soit le 12 octobre 2007, il lui avait révélé qu’il souffrait d’insomnie depuis l’an 2003, manquait d’appétit, perdait la mémoire, n’arrivait plus à se concentrer, était écrasé par la fatigue, éprouvait de l’anxiété et de l’irritabilité, était tourmenté par les obligations liées à son commerce et, finalement, ne voulait plus se lever le matin. La Dre Poupart a alors confirmé le diagnostic établi par sa collègue la Dre Morin, soit celui de dépression majeure, que la Dre Poupart a qualifiée de légère à modérée;
+iv) pendant la période allant du 12 octobre 2007 jusqu’au mois de janvier 2011, elle avait régulièrement traité l’appelant;
+v) la maladie dont souffrait l’appelant avait certainement eu un impact sur « son fonctionnement au travail ».
+[7] Pour sa part, l’appelant, dont la crédibilité ne fait aucun doute, a donné le témoignage suivant :
+i) il avait fondé la société en 1994 et il en était le seul administrateur et actionnaire;
+ii) la société exploitait un café « sous la bannière Second Cup »;
+iii) avant les périodes visées, la société avait toujours respecté ses obligations fiscales, mais parfois avec certains retards quant à la remise des taxes (certains chèques étaient sans provision);
+iv) en 2003, il avait perdu son père;
+v) en 2004, la société mère de Second Cup l’avait avisé qu’elle allait lui retirer sa franchise dans cinq ans;
+vi) ces deux événements avaient causé son état dépressif;
+vii) n’étant plus en état de s’occuper de son entreprise, qui était sa seule source de revenus, il avait engagé madame Sonia Bergeron aux environs du 16 avril 2007 afin qu’elle s’occupe de la gestion de son entreprise à sa place;
+viii) madame Sonia Bergeron avait des procurations pour signer les chèques de la société à partir du 1er août 2007 et pour représenter celle‑ci auprès de l’Agence du revenu du Québec à partir du 12 novembre 2007;
+ix) La société n’était plus un franchisé de Second Cup aux environs du mois d’août 2008, ce qui avait mis fin du même coup au mandat de madame Bergeron.
+[8] Du côté de l’intimée, madame Sonia Bergeron a rendu le témoignage suivant :
+i) elle était conseillère en restauration depuis 2004;
+ii) elle avait été engagée par l’appelant du 12 avril 2007 au mois d’août 2008 afin de redresser le fonctionnement de la société;
+iii) contrairement à son habitude, elle s’était également occupée de la gestion financière de la société en raison de l’état de santé de l’appelant;
+iv) durant son mandat, elle avait négocié avec monsieur Abdoulrahman Syradin, qui était agent de recouvrement à l’Agence du revenu du Québec, pour tenter de diminuer la dette fiscale de la société et elle tenait l’appelant au courant de ces pourparlers.
+[9] Monsieur Syradin a corroboré cette version des faits.
+Analyse et conclusion
+[10] Le cadre juridique applicable à la défense de soin, de diligence et de compétence prévue au paragraphe 323(3) de la LTA a été récemment expliqué en bref comme suit par la Cour d’appel fédérale dans les arrêts Canada c. Buckingham[1] et Balthazard c. Canada :
+a. La norme de soin, de diligence et de compétence exigée au paragraphe 323(3) de la LTA est une norme objective comme l’a énoncé la Cour suprême du Canada dans l’arrêt Magasins à rayons Peoples inc. (Syndic de) c. Wise, 2004 CSC 68, [2004] 3 R.C.S. 461. Cette norme objective écarte le principe de common law selon lequel la gestion d’une société par un administrateur doit être jugée suivant les compétences, les connaissances et les aptitudes personnelles de celui-ci. Une norme objective ne signifie toutefois pas que les circonstances propres à un administrateur ne doivent pas être prises en compte. Ces circonstances doivent être prises en compte, mais elles doivent être considérées au regard de la norme objective d’une « personne raisonnablement prudente ».
+b. L’examen de la conduite de l’administrateur aux fins de cette norme objective commence lorsqu’il devient évident pour l’administrateur, agissant raisonnablement et avec le soin, la diligence et la compétence qui sont requises, que la société entame une période de difficultés financières.
+c. Une société qui fait face à des difficultés financières pourrait se hasarder à réaffecter les versements dus à la Couronne afin de payer d’autres créanciers et ainsi assurer la poursuite de ses activités. C’est précisément une telle conjoncture que l’article 323 de la LTA vise à éviter. Le moyen de défense prévu au paragraphe 323(3) de la LTA ne doit pas servir à encourager de tels défauts de versement en permettant aux administrateurs d’invoquer une défense de soin, de diligence et de compétence lorsqu’ils financent les activités de leur société à l’aide de remises dues à la Couronne, en espérant ou non remédier plus tard à ces défauts.
+d. Puisque la responsabilité des administrateurs à ces égards n’est pas absolue, il est possible qu’une société puisse ne pas effectuer des remises à la Couronne sans que la responsabilité solidaire des administrateurs soit engagée.
+e. Ce qui est requis des administrateurs, c’est qu’ils démontrent qu’ils se sont effectivement préoccupés des versements fiscaux et qu’ils se sont acquittés de leur obligation de soin, de diligence et de compétence afin de prévenir le défaut de la société de verser les montants en cause [et non qu’ils démontrent avoir remédié après coup à ces défauts][2].
+[11] En adoptant un tel critère de conduite prudente et diligente, la Cour d’appel fédérale espérait obliger les sociétés à améliorer la qualité des décisions des conseils d’administration et, surtout, décourager l’utilisation de prête-noms pour la charge d’administrateur. Comme le souligne le juge Mainville :
+[…] Des normes plus strictes empêchent aussi la nomination d’administrateurs inactifs choisis pour l’apparence ou qui ne remplissent pas leurs obligations d’administrateurs en laissant aux administrateurs actifs le soin de prendre les décisions. Par conséquent, une personne nommée administrateur doit activement s’acquitter des devoirs qui s’attachent à sa fonction, et il ne lui sera pas permis de se défendre contre une allégation de malfaisance dans l’exécution de ses obligations en invoquant son inaction […][3].
+[12] Je ne suis pas, en l’espèce, devant un cas que visait à décourager la Cour d’appel fédérale en édictant le nouveau critère de conduite prudente et diligente, puisque l’appelant n’est nullement un administrateur prête-nom ni un administrateur qui n’avait pas conscience des responsabilités inhérentes à sa fonction.
+[13] En effet, l’appelant était le seul administrateur de la société et, jusqu’à ce qu’il tombe malade, la société avait toujours respecté ses obligations fiscales, bien qu’il y ait eu parfois certains retards. Également, le fait qu’il ait nommé un gestionnaire compétent pour le remplacer, le temps qu’il se remette sur pied, démontre sa conscience de ses responsabilités.
+[14] La preuve présentée m’a convaincu que l’appelant souffrait de dépression majeure pendant les périodes visées, et il est notoire que la dépression est un trouble invalidant qui a des effets sur la vie de famille, le travail, les habitudes alimentaires, le sommeil et le bien-être général de ceux qui en souffrent. Sans constituer un moyen de défense en soi, ce facteur, je crois, en est un dont il faut tenir compte quand vient le temps d’analyser la conduite qu’a eue l’appelant.
+[15] Comme l’a fait remarquer le juge Bowman (plus tard juge en chef), dans la décision Cloutier c. M.R.N.[4], pour déterminer si la défense de diligence raisonnable s’applique, il faut avant tout se demander ce qu’une personne raisonnablement prudente placée dans les mêmes circonstances aurait pu faire de plus pour tenter de prévenir les défauts de versement de TPS de la société. En l’espèce, je crois que l’appelant s’est montré suffisamment diligent en déléguant ses fonctions à un gestionnaire compétent de qui il n’avait aucune raison de douter de la compétence et de l’honnêteté, et je crois qu’une personne raisonnable placée dans les mêmes circonstances n’aurait rien fait de plus.
+[16] L’appelant a pris une mesure concrète et positive pour tenter de prévenir les omissions par la société de verser la TPS. Il n’a pas tout simplement laissé sa société décliner, comme cela a été le cas de l’appelant dans la décision Wiseman c. La Reine[5]. Dans cette affaire, l’appelant était le seul administrateur d’une société. Pourtant, c’était sa femme qui s’occupait des volets administratif et comptable de la société. Lorsque sa femme a souffert d’un cancer du cerveau, il est devenu anxieux et dépressif et il ne s’est plus occupé de sa société. Le juge Little, concluant qu’il n’avait rien fait pour prévenir les omissions par la société de verser la TPS, l’a tenu solidairement responsable de ces omissions, mais a, par contre, recommandé l’allègement des intérêts et des pénalités.
+[17] Il est vrai que la jurisprudence habituelle reconnaît qu’un administrateur a le droit de déléguer ses fonctions à un tiers compétent seulement si la délégation de responsabilités est accompagnée d’une surveillance appropriée[6].
+[18] En l’espèce, l’intimée plaide que l’appelant n’a pas surveillé madame Bergeron dans l’exécution de ses fonctions et fait alors une analogie avec la décision Constantin c. La Reine[7] pour tenir l’appelant solidairement responsable des omissions par la société de verser la TPS. Or, cette décision n’est pas pertinente à nos fins, car les faits de cette affaire diffèrent totalement des nôtres. Il était question là de l’abdication de tous pouvoirs décisionnels en faveur de la conjointe et non de la délégation de pouvoirs. Ensuite, la conjointe avait accepté le poste d’administrateur de la société sans savoir ce que cela impliquait et elle n’avait jamais assumé aucune responsabilité, ce qui n’est pas le cas de notre appelant.
+[19] Je ne crois pas qu’il faille interpréter trop restrictivement le devoir de surveillance. Comme l’a reconnu le juge Angers, dans la décision Verret c. La Reine[8], qui présentait des faits analogues aux nôtres, il faut considérer le fait que les problèmes de santé de l’appelant l’incitaient à se fier davantage à l’honnêteté et à la compétence de madame Bergeron. Également, la Cour d’appel fédérale, dans les arrêts Buckingham et Balthazard, a elle-même reconnu que la responsabilité des administrateurs en vertu du paragraphe 323(1) de la LTA n’était pas absolue.
+[20] Je ne crois pas que le législateur avait l’intention, en édictant le paragraphe 323(1) de la LTA, de pénaliser une personne malade seulement parce qu’elle n’aurait pas surveillé adéquatement la personne qu’elle a nommée pour la remplacer pour l’exercice de ses fonctions d’administrateur de la société. Je crois que l’intention du législateur était plutôt de pénaliser les administrateurs qui étaient insouciants ou qui négligeaient leur rôle de mandataire de la Couronne, et je ne crois pas que l’appelant a eu, en l’espèce, un tel comportement.
+[21] Pour ces motifs, l’appel est donc accueilli avec dépens.
+Signé à Ottawa, Canada, ce 28e jour de mars 2014.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2014 CCI 46
+Nº DU DOSSIER DE LA COUR : 2011-3344(GST)G
+INTITULÉ DE LA CAUSE : ABDERRAHMANE ATTIA c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 22 octobre 2013
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 28 mars 2014
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Philippe H. Bélanger
+Me Olivier Coche
+Avocat de l'intimée :
+Me Philippe Morin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Philippe H. Bélanger
+Me Olivier Coche
+Cabinet : McCarthy Tétrault S.E.N.C.R.L., S.R.L.
+Montréal (Québec)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2011 CAF 142, [2013] 1 R.C.F. 86 (« Buckingham »).
+[2] 2011 CAF 331, [2011] G.S.T.C. 150, paragraphe 32 (« Balthazard »).
+[3] Buckingham, paragraphe 38, où le juge Mainville renvoie à un passage du livre de Kevin Patrick McGuinness, Canadian Business Corporations Law, 2e édition, Markham, ON, LexisNexis, 2007, page 11.9.
+[4] [1993] A.C.I. nº 103 (QL), paragraphe 7; 93 DTC 544, pages 545-546.
+[5] 2011 CCI 215.
+[6] Kaur c. La Reine, 2013 CCI 227; Chell c. La Reine, 2013 CCI 29; Stafford c. La Reine, 2009 CCI 247.
+[7] 2012 CCI 425.
+[8] 2008 CCI 240.

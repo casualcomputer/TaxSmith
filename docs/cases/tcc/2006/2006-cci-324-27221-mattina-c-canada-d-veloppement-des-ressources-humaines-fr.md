@@ -1,0 +1,153 @@
+---
+title: "Mattina c. Canada (Développement des ressources humaines)"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27221/index.do"
+last_modified: "2006-07-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 324"
+citation2: ""
+neutral_citation: "2006 CCI 324"
+decision_date: "2006-07-20"
+language: "fr"
+item_id: "27221"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 827
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:54:39.851000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3f8f942c6bb84b16a9778e2828dafe4c50ba1671582b4ef15f3ce7955186b296"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mattina c. Canada (Développement des ressources humaines)
+
+- Citation: 2006 CCI 324
+- Decision date: 2006-07-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 827, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mattina c. Canada (Développement des ressources humaines)
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-20
+Référence neutre
+2006 CCI 324
+Numéro de dossier
+2005-3391(OAS)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2005‑3391(OAS)
+ENTRE :
+LENA MATTINA,
+appelante,
+et
+LE MINISTRE DU DÉVELOPPEMENT DES RESSOURCES HUMAINES DU CANADA,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 17 février 2006 à Hamilton (Ontario).
+Devant : L’honorable juge François Angers
+Comparutions :
+Représentante de l’appelante :
+Anna Consalvo
+Avocate de l’intimé :
+Me Marie‑Claude Landry
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la décision du ministre du Développement des ressources humaines datée du 4 octobre 2002 de réduire le supplément de revenu garanti payable à l’appelante en application de la Loi sur la Sécurité de la vieillesse est accueilli.
+Signé à Edmundston (Nouveau‑Brunswick), ce 18e jour de juillet 2006.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 17e jour d’octobre 2006.
+Jean David Robert, traducteur
+Référence : 2006CCI324
+Date : 20060720
+Dossier : 2005‑3391(OAS)
+ENTRE :
+LENA MATTINA,
+appelante,
+et
+LE MINISTRE DU DÉVELOPPEMENT DES RESSOURCES HUMAINES DU CANADA,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] La présente question a été soumise à l’examen de la Cour par avis de renvoi déposé par le Bureau du Commissaire des tribunaux de révision (Régime de pensions du Canada/Sécurité de la vieillesse) en application du paragraphe 28(2) de la Loi sur la sécurité de la vieillesse (la « Loi »). L’appelante interjette appel d’une décision du ministre du Développement des ressources humaines (le « ministre ») datée du 14 juin 2005, par laquelle il a refusé la demande de l’appelante visant à faire en sorte que son revenu, aux fins du calcul du montant du supplément de revenu garanti (le « SRG ») auquel elle a droit pour la période de juillet 2005 à juin 2006 (la « période en cause »), soit fondé sur une estimation de son revenu pour l’année civile 2005 plutôt que sur son revenu réel pour l’année d’imposition 2004.
+[2] L’appelante invoque les paragraphes 14(4) et (6) de la Loi à l’appui de sa demande visant à faire en sorte que le calcul du montant du SRG auquel elle a droit soit fondé sur une estimation de son revenu pour l’année 2005. Les faits à l’origine de l’appel ne sont pas contestés puisque les hypothèses de fait sur lesquelles s’est fondé le ministre sont admises par l’appelante.
+Les faits
+[3] Le 1er avril 2005, l’appelante a présenté une demande de renouvellement du SRG pour la période en cause. L’appelante avait trois sources de revenu en 2004 : des prestations du Régime de pensions du Canada totalisant 5 069,52 $, un revenu provenant d'un autre régime de pension, le Régime de retraite des employés municipaux de l'Ontario (l’« OMERS »), s’élevant à 5 404,40 $, et des intérêts créditeurs de 77 $. Le revenu perçu au titre du régime de pension OMERS incluait un paiement forfaitaire de 3 175,88 $, le reste étant constitué de prestations mensuelles continues.
+[4] Le versement de la somme forfaitaire par l’OMERS à l’appelante découlait d’une erreur de calcul commise par l’OMERS qui a fait en sorte que l’appelante n’avait pas reçu, en tant que la conjointe survivante, les augmentations annuelles représentant la protection contre l'inflation auxquelles elle avait droit pendant la période allant du décès de son époux en 1991 à avril 2004. Les augmentations auraient dû être calculées en fonction de la date d’exonération des primes de son époux pour cause d’invalidité plutôt que de la date de début du service de la rente. Par conséquent, le droit de l’appelante aux augmentations représentant la protection contre l’inflation ne s’est pas complètement répercuté sur sa pension, et elle a reçu une somme forfaitaire unique et rétroactive de 3 175,88 $ provenant du régime de pension OMERS.
+[5] Le ministre a reçu le formulaire de la déclaration de revenu estimatif de l’appelante le 5 avril 2005. L’appelante a envoyé le formulaire pour que son SRG pour la période en cause soit calculé en fonction d’une estimation de son revenu pour l’année civile 2005 plutôt que de son revenu réel pour l’année d’imposition 2004. Le ministre a refusé de prendre en considération le formulaire de la déclaration de revenu estimatif soumis par l’appelante parce que l’appelante n’avait pas pris sa retraite, qu’il n’y avait pas eu de réduction ni de cessation de son revenu, et que le paiement forfaitaire qu’elle avait reçu n’avait pas été effectué pour remplacer un paiement hebdomadaire, bimensuel ou mensuel. L’appelante, de l’avis du ministre, ne peut donc pas se prévaloir des dispositions de la Loi qui lui donnent la possibilité d’agir comme elle l’a fait.
+[6] Les dispositions pertinentes de la Loi sont les paragraphes 14(4) et (6). Ils sont ainsi rédigés :
+14(4) Le demandeur — ou son époux ou conjoint de fait, dans le cas où celui-ci produit la déclaration visée à l’alinéa 15(2)a) — peut aussi produire une seconde déclaration lorsqu’il subit une perte de revenu par suite de la suppression ou de la réduction du revenu perçu au titre de son régime de pension, au plus tard à la fin de la période de paiement suivant la période de paiement en cours. La seconde déclaration porte alors sur son revenu estimatif de l’année civile au cours de laquelle il a subi cette perte, compte non tenu du revenu perçu au titre du régime de pension pour les mois précédant celui où il a subi la perte. Son revenu pour l’année de référence correspond alors au total des éléments suivants :
+a) son revenu pour cette année civile, compte non tenu du revenu perçu au cours de celle-ci au titre du régime de pension;
+b) le produit du revenu perçu au titre du régime de pension au cours de la partie de l’année civile qui suit le mois précédant le mois au cours duquel il a subi cette perte et de la fraction dont le numérateur est douze et le dénominateur le nombre de mois compris dans cette partie d’année.
+[...]
+14(6) Si la cessation d’activité a eu lieu dans les cas visés aux alinéas a) ou b), le demandeur — ou son époux ou conjoint de fait, dans le cas où celui-ci produit la déclaration visée à l’alinéa 15(2)a) — peut, lorsqu’il subit une perte de revenu par suite de la suppression ou de la réduction du revenu perçu au titre de son régime de pension, produire, au plus tard à la fin de la période de paiement en cours, une seconde déclaration où figure :
+a) si la perte est subie au cours de l’année civile précédant la période de paiement, son revenu estimatif pour l’année civile se terminant pendant la période de paiement en cours, son revenu de cette année civile étant alors réputé constituer son revenu pour l’année de référence;
+b) si la perte est subie au cours d’un mois antérieur à la période de paiement et postérieur à l’année civile précédant cette année, son revenu estimatif pour l’année civile se terminant pendant la période de paiement en cours, avec indication du revenu réellement perçu au cours de la partie de l’année civile qui précède le mois au cours duquel il a subi cette perte au titre du régime de pension, son revenu pour l’année de référence correspondant alors au total des éléments suivants :
+(i) son revenu pour cette année civile, compte non tenu du revenu perçu au cours de celle-ci au titre du régime de pension,
+(ii) le produit du revenu perçu au titre du régime de pension au cours de la partie de l’année civile qui suit le mois précédant le mois au cours duquel il a subi cette perte et de la fraction dont le numérateur est douze et le dénominateur le nombre de mois compris dans cette partie d’année.
+[7] L’article 14 du Règlement sur la sécurité de la vieillesse (le « Règlement ») pris en vertu de la Loi définit le « revenu provenant d'un régime de pension » ainsi :
+14. Pour l'application de l'article 14 de la Loi, le revenu provenant d'un régime de pension est le total des montants perçus au titre :
+a) de rentes;
+b) de prestations alimentaires et de soutien;
+c) de prestations d'assurance-emploi;
+d) de prestations d'invalidité provenant d'un régime d'assurance privé;
+e) de prestations, autres que des prestations de décès, versées aux termes du Régime de pensions du Canada ou d'un régime provincial de pensions, tel que défini dans le Régime de pensions du Canada;
+f) de pensions ou de pensions de retraite, autres que les prestations reçues aux termes de la Loi et tout versement semblable reçu en vertu d'une loi provinciale;
+g) d'une indemnité versée aux termes d'une loi fédérale ou provinciale sur l'indemnisation des victimes d'accidents du travail, en raison d'une blessure, d'une invalidité ou d'un décès;
+h) d'allocations de complément de ressources versées aux termes d'un accord visé au paragraphe 33(1) de la Loi sur le ministère du Développement des ressources humaines, en raison d'une réduction définitive du personnel visée à ce paragraphe;
+i) d'allocations de complément de ressources versées au titre du Programme d'adaptation des travailleurs d'usine, du Programme de retraite anticipée des pêches ou du Programme d'adaptation et de redressement de la pêche de la morue du Nord, en raison d'une réduction définitive du personnel.
+[8] La question en litige est de savoir si le ministre a eu raison de refuser à l’appelante le droit de se prévaloir des paragraphes 14(4) et (6) de la Loi pour la période en cause.
+[9] Ce droit est conféré à une personne qui, entre autres, subit une réduction du revenu perçu au titre d’un régime de pension pendant la période de paiement en cours. Il n’y a aucun doute que ce serait le cas en l’espèce si la somme forfaitaire qu’a reçue l’appelante constituait un revenu provenant d’un régime de pension. À mon avis, la somme payée par l’OMERS à l’appelante représente un revenu provenant d’un régime de pension au sens du Règlement. Ainsi, l’appelante devrait pouvoir exercer le droit de se prévaloir des dispositions en cause, comme elle a tenté de le faire.
+[10] L’appelante a reçu la somme forfaitaire par suite d’une erreur commise par l’OMERS dans le calcul des augmentations annuelles représentant la protection contre l’inflation auxquelles elle avait droit. Si ces augmentations avaient été calculées correctement, le changement se serait répercuté sur le revenu perçu par l’appelante au titre de ce régime de pension, et le montant de l’augmentation aurait été tenu pour un revenu provenant d’un régime de pension. À mon avis, la somme forfaitaire qu’a reçue l’appelante en l’espèce constitue un revenu provenant d’un régime de pension au sens de l’alinéa 14f) du Règlement. L’appelante subirait une réduction de ce revenu provenant d’un régime de pension au cours de l’année suivante, ce qui lui permettrait de produire une déclaration de son revenu estimatif pour l’année civile au cours de laquelle la pension serait réduite. Le fait que l’appelante ait reçu, au cours de l’année précédente, un paiement rétroactif en tant que revenu provenant d’un régime de pension donnera évidemment lieu à une réduction de son revenu provenant d’un régime de pension pour l’année en cours. Un paiement rétroactif qui constitue un revenu provenant d’un régime de pension demeure un revenu provenant d’un régime de pension même s’il est versé sous forme d’une somme forfaitaire. Le ministre ne peut donc pas refuser à l’appelante le droit de se prévaloir des dispositions qu’elle a invoquées. L’appel est accueilli.
+Signé à Edmundston (Nouveau‑Brunswick), ce 20e jour de juillet 2006.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 18e jour de septembre 2006.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI324
+Nº DU DOSSIER DE LA COUR : 2005‑3391(OAS)
+INTITULÉ : Lena Mattina et le ministre du Développement des ressources humaines du Canada
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 17 février 2006
+MOTIFS DU JUGEMENT : L’honorable juge François Angers
+DATE DU JUGEMENT : Le 20 juillet 2006
+COMPARUTIONS :
+Représentante de l’appelante :
+Anna Consalvo
+Avocate de l’intimé :
+Me Marie‑Claude Landry
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

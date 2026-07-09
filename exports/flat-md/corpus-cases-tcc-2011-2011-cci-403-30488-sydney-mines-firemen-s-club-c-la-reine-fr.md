@@ -1,0 +1,212 @@
+---
+title: "Sydney Mines Firemen's Club c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30488/index.do"
+last_modified: "2011-08-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 403"
+citation2: ""
+neutral_citation: "2011 CCI 403"
+decision_date: "2011-08-26"
+language: "fr"
+item_id: "30488"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7260
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:40:38.397000+00:00"
+cases_cited_count: 6
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a02d2fb8ed3f1e1c4ba2f45d1ba9d114a93007383d312e4178bc6422ab84c8e1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sydney Mines Firemen's Club c. La Reine
+
+- Citation: 2011 CCI 403
+- Decision date: 2011-08-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7260, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sydney Mines Firemen's Club c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-08-26
+Référence neutre
+2011 CCI 403
+Numéro de dossier
+2010-611(GST)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2010-611(GST)G
+ENTRE :
+SYDNEY MINES FIREMEN’S CLUB,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 juillet 2011, à Sydney (Nouvelle-Écosse).
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Avocat de l’appelante :
+Me William P. Burchell
+Avocate de l’intimée :
+Me Jill L. Chisholm
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie au titre de la partie IX de la Loi sur la taxe d’accise à l’égard de l’avis de cotisation portant le numéro 0832300261612340112, en date du 8 décembre 2009, pour la période allant du 1er au 31 octobre 2008 est rejeté, sans frais, conformément aux motifs du jugement ci‑joints.
+Signé à Summerside (Île-du-Prince-Édouard), ce 26e jour d’août 2011.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 26e jour d’octobre 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2011 CCI 403
+Date : 08262011
+Dossier : 2010-611(GST)G
+ENTRE :
+SYDNEY MINES FIREMEN’S CLUB,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] L’appelante demande un crédit de taxe sur les intrants (le « CTI ») de 15 759,90 $ à l’égard de l’achat d’un bateau Rosborough utilisable sur un plan d’eau agité (le « bateau »), le 30 septembre 2008. L’intimée croit que l’appelante a acheté le bateau en vue d’effectuer des fournitures exonérées et elle a rejeté la demande.
+[2] L’appelante est une société sans but lucratif constituée en personne morale en Nouvelle-Écosse, conformément à la Societies Act, R.S.N.S., c. 435, modifiée par 1993, c. 42. Elle est également un inscrit aux fins de la taxe sur les produits et services (la « TPS »).
+[3] L’appelante est composée de pompiers volontaires qui sont actifs ou à la retraite. Les pompiers actifs sont membres d’une autre entité liée, mais distincte, appelée The Sydney Mines Volunteer Fire Department (le « Service d’incendie »). Comme l’appelante, cette entité a toujours été un service composé de pompiers volontaires non rémunérés.
+[4] La situation du Service d’incendie est unique en son genre parmi les services d’incendie de la municipalité régionale du Cap-Breton (la « Municipalité »), parce que son poste d’incendie et son matériel appartiennent à l’appelante. Les postes d’incendie et le matériel utilisés par tous les autres services d’incendie du Cap-Breton industriel appartiennent à la Municipalité.
+[5] Selon une pratique depuis longtemps établie entre l’appelante et le Service d’incendie, l’appelante achète tout le matériel et en détient le titre, tout en mettant ce matériel à la disposition du Service d’incendie. Celui‑ci assure la lutte contre l’incendie ainsi que des services de sauvetage et de secours dans la collectivité de Sydney Mines. L’appelante peut assurer un contrôle sur ces actifs en conservant le titre en common law y afférent. L’appelante ne fournit elle-même aucun service de secours. Pour aider ainsi le Service d’incendie, l’appelante tire principalement son revenu de l’exploitation d’un bar et d’une salle communautaire.
+[6] Lorsque le bateau a été acheté, en 2008, l’appelante en a conservé le titre. Étant donné que l’appelante ne fournit pas de services de sauvetage et de secours, le bateau est mis à la disposition du Service d’incendie pour lui permettre de fournir les services d’urgence, notamment les services de sauvetage et de secours nautiques.
+[7] Pour décider si l’appelante peut demander le CTI de 15 759,90 $ à l’égard de l’achat du bateau, il faut examiner les deux questions suivantes :
+a) À titre préliminaire, quel est l’effet de la nouvelle documentation et des nouveaux renseignements que le témoin de l’appelante, Wayne Young, a produits à l’audience, sans préavis ou sans communication préalable à l’intimée?
+b) Les activités de l’appelante et, en particulier, la fourniture du bateau, peuvent-elles être considérées comme des activités commerciales au sens du paragraphe 123(1) de la Loi sur la taxe d’accise (la « Loi »)?
+[8] L’appelante souscrit à toutes les hypothèses de fait émises par l’intimée dans la réponse modifiée à l’avis d’appel, à l’exception des cinq hypothèses suivantes :
+[traduction]
+9. e) l’unique objet des activités de l’appelante était de se procurer des fonds afin de financer le Sidney Mines Volunteer Fire Department;
+[…]
+r) au cours de l’année d’imposition, le bateau n’a pas été utilisé dans le cadre des activités commerciales ou de l’entreprise de l’appelante;
+s) le bateau n’a pas été acheté par l’appelante pour consommation, utilisation ou fourniture dans le cadre des activités commerciales de collecte de fonds;
+[…]
+u) l’appelante conserve le titre afférent au bateau afin d’assurer l’utilisation unilatérale du bateau par le Sidney Mines Volunteer Fire Department et d’empêcher la municipalité régionale du Cap-Breton d’avoir la garde et le contrôle du bateau;
+[…]
+9A. b) pendant la période pertinente, l’appelante mettait, à titre gratuit, le bateau à la disposition du Sidney Mines Volunteer Fire Department pour que celui‑ci puisse l’utiliser.
+[9] L’appelante affirme que la relation qu’elle entretient avec le Service d’incendie ne consiste pas simplement à recueillir des fonds pour celui‑ci, mais que cette relation donne plutôt lieu à [traduction] « [...] des fonctions de gestion ou de direction » (observations de l’appelante, paragraphe 15). Plus précisément, au paragraphe 19 de ses observations, l’appelante soutient que la fourniture du bateau a été effectuée dans le cadre de ses activités commerciales, et ce, pour les raisons suivantes :
+[traduction]
+[...] en plus de ses autres activités commerciales, elle offre un service d’acquisition et de gestion de matériel au profit du Service, moyennant une contrepartie sous la forme de subventions, qu’elle reçoit, dans ce cas‑ci, de la Province et de la Municipalité.
+Les autres efforts que l’appelante fait en vue de générer un revenu comprennent des services de traiteur et de divertissement ainsi que la vente d’aliments et d’alcool. De plus, l’appelante a fait valoir que la fourniture du bateau n’était pas une fourniture exonérée, parce que la Province, en fournissant en partie le financement pour l’achat du bateau au moyen du Fonds des fournisseurs de service de secours (le « FFSS ») est devenue acquéresse de la fourniture à la place du Service d’incendie. L’appelante déclare que le financement du FFSS doit être considéré comme constituant la contrepartie de la fourniture du bateau au Service d’incendie.
+[10] L’intimée se fonde sur la preuve initiale que Wayne Young a présentée au cours des interrogatoires préalables. M. Young a admis tous les faits contestés dans le présent appel (interrogatoire préalable de Wayne Young, pages 45 à 49), et il a notamment admis que la fourniture du bateau n’avait pas été effectuée dans le cadre des activités commerciales de l’appelante et que l’appelante, qui est un organisme du secteur public, a effectué la fourniture à titre gratuit. L’intimée soutient que la fourniture est donc une fourniture exonérée.
+[11] Le paragraphe 169(1) de la Loi permet aux inscrits de demander un CTI pour la TPS versée sur des biens et services qui sont utilisés, consommés ou fournis dans le cadre de leurs activités commerciales. L’expression « activité commerciale » est définie comme suit au paragraphe 123(1) de la Loi :
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l’exploitation d’une entreprise (à l’exception d’une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où l’entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (à l’exception de quelque projet ou affaire qu’entreprend, sans attente raisonnable de profit, un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où le projet ou l’affaire comporte la réalisation par la personne de fournitures exonérées;
+c) la réalisation de fournitures (sauf des fournitures exonérées) d’immeubles appartenant à la personne, y compris les actes qu’elle accomplit dans le cadre ou à l’occasion des fournitures.
+[12] Avant de décider si la fourniture du bateau a été effectuée dans le cadre des activités commerciales de l’appelante, il faut examiner la question de la production de la nouvelle documentation et des nouveaux renseignements au cours de l’audience. Le nouveau document était composé d’une page de notes manuscrites non signées et non datées, consignées par Robert Bonnar, ancien membre de l’appelante et ancien instructeur de plongée sous-marine du Service d’incendie. Ce document a initialement été produit par l’entremise de M. Young, qui n’en était pas l’auteur et qui n’avait aucune connaissance directe de son contenu. Toutefois, j’ai donné à l’appelante la possibilité de trouver M. Bonnar et de le citer comme témoin. Ce document énumère les diverses sources de financement utilisées aux fins de l’achat du bateau, notamment le FFSS; il était joint aux états financiers de l’appelante se rapportant à la période allant du 1er janvier au 31 décembre 2008.
+[13] Les nouveaux renseignements étaient composés du témoignage de M. Young, lequel contredisait les réponses que celui-ci avait données à l’interrogatoire préalable.
+[14] L’intimée a soutenu qu’étant donné que l’avis concernant le nouveau document et le témoignage contradictoire n’avait été donné qu’après le début de l’audience, il ne faut accorder aucune importance au document si la Cour l’admet en preuve. L’intimée a également soutenu que les réponses que M. Young avait données au cours de son interrogatoire préalable sont plus exactes et qu’il faut donc les préférer aux déclarations contradictoires que celui‑ci a faites à l’audience.
+[15] Deux dispositions des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») s’appliquent :
+Utilisation des documents à l’audience
+89. (1) Sauf directive contraire de la Cour, ou sauf si les autres parties ont renoncé au droit d’obtenir communication de documents ou ont consenti par écrit à ce que des documents soient utilisés en preuve, aucun document ne doit être utilisé en preuve par une partie à moins, selon le cas :
+a) qu’il ne soit mentionné dans les actes de procédure, ou dans une liste ou une déclaration sous serment déposée et signifiée par une partie à l’instance;
+b) qu’il n’ait été produit par l’une des parties, ou par quelques personnes interrogées pour le compte de l’une des parties, au cours d’un interrogatoire préalable;
+c) qu’il n’ait été produit par un témoin qui n’est pas, de l’avis de la Cour, sous le contrôle de la partie.
+[…]
+Renseignements obtenus ultérieurement
+98. (1) La partie interrogée au préalable, ou la personne qui l’est au nom, à la place ou en plus de cette partie, qui découvre ultérieurement qu’une réponse à une question de l’interrogatoire :
+a) était inexacte ou incomplète;
+b) n’est plus exacte et complète,
+doit fournir immédiatement ce renseignement par écrit à toutes les autres parties.
+[…]
+(3) Si une partie ne se conforme pas au paragraphe (1) ou à l’alinéa (2)a) et que le renseignement obtenu ultérieurement est :
+a) favorable à sa cause, elle ne peut le présenter en preuve à l’instance qu’avec l’autorisation du juge;
+b) défavorable à sa cause, la Cour peut rendre des directives appropriées.
+[16] Bien qu’aucun préavis de production du nouveau document n’ait été donné et bien que les interrogatoires aient eu lieu plusieurs mois avant l’audience, j’ai autorisé la production en preuve du document, sous réserve de l’importance qu’il convenait éventuellement de lui accorder. L’avocat de l’appelante a informé la Cour que ce document avait été porté à sa connaissance ainsi qu’à celle de sa cliente quelques jours seulement avant l’audience. De plus, M. Bonnar, l’auteur du document, pouvait comparaître et identifier le document, qui n’était composé que d’une seule page fort brève et qui avait été préparé à un moment donné en 2008, lors de l’achat du bateau.
+[17] Les règles pertinentes confèrent à la Cour le pouvoir discrétionnaire de permettre la production en preuve de pareils nouveaux renseignements, et ce, même si les mesures procédurales appropriées n’ont pas été prises. En décidant si les nouveaux documents et les nouveaux renseignements doivent être admis, il faut soupeser les intérêts contradictoires des deux parties, de façon qu’il n’en résulte aucun déni de justice.
+[18] Dans la décision Doiron c. Haché, 2005 NBCA 75, [2005] N.B.J. no 347, le juge Richard, qui examinait une règle fort semblable à l’article 98 des Règles, a dit ce qui suit au paragraphe 57 :
+[…] Le degré de latitude accordé à un tribunal en matière de procédure en vertu d’un « pouvoir discrétionnaire » est considérable, mais non illimité. Le pouvoir discrétionnaire doit être exercé de façon judiciaire, c’est-à-dire [TRADUCTION] « suivant les règles de la raison et de la justice et non selon une opinion personnelle », [TRADUCTION] « selon les règles du droit », et ne doit pas être exercé d’une manière qui soit [TRADUCTION] « arbitraire, vague et fantaisiste, mais de façon régulière et conforme au droit », comme l’a affirmé lord Halsbury dans l’arrêt Sharp c. Wakefield, [1891] A.C. 173, à la page 179, cité par le juge Kellock dans l’arrêt Wrights Canadian Ropes Ltd. c. Canada (Minister of National Revenue), [1946] R.C.S. 139, à la page 166, arrêt modifié à [1947] A.C. 109 (C.P.). L’exercice d’un pouvoir discrétionnaire consiste en un choix entre deux ou plusieurs options raisonnables. Il faut faire ce choix en s’appuyant sur le droit et les principes directeurs applicables et sur une interprétation judicieuse des faits. Si les faits ont été mal compris et si l’erreur est un facteur dominant dans l’exercice du pouvoir discrétionnaire, à tel point que l’option choisie est dénuée de fondement, une injustice a alors été commise. […]
+[19] Il n’existe pas une abondante jurisprudence portant sur l’acceptation, à l’instruction, de nouveaux documents et de nouveaux renseignements, sans qu’un préavis ait été donné. Toutefois, il semble que pareils nouveaux renseignements aient, dans certains cas, été admis (voir Lacroix c. La Reine, 2006 CCI 558, 2008 D.T.C. 3761), alors que, dans d’autres cas, ils ont été rejetés (voir Walsh c. La Reine, 2009 CCI 557, 2009 D.T.C. 1372).
+[20] Ni l’un ni l’autre des témoins de l’appelante n’avait un intérêt personnel dans le résultat de l’appel. De fait, M. Bonnar, qui a rédigé le nouveau document, est un pompier à la retraite qui ne participe plus aux activités de l’appelante ou du Service d’incendie.
+[21] Dans l’intérêt de la justice et compte tenu du fait qu’il est de la plus haute importance que la Cour ait à sa disposition tous les renseignements voulus afin de pouvoir arriver à une décision appropriée et juste, j’ai permis la production en preuve du nouveau document et des nouveaux renseignements soumis par M. Young. En fin de compte, bien que j’aie à ma disposition tous les renseignements et tous les éléments de preuve, je possède le pouvoir discrétionnaire d’attribuer à la preuve l’importance appropriée, le cas échéant.
+[22] Si les nouveaux éléments de preuve sont fondés et s’ils ne visent pas à prolonger l’instance, la politique indiquée au paragraphe 4(1) des Règles me permet également d’admettre les nouveaux renseignements, eu égard aux circonstances de la présente affaire, de façon à pouvoir arriver à une décision juste. Le paragraphe 4(1) des Règles prévoit que les règles doivent recevoir une interprétation large afin d’assurer la résolution équitable sur le fond de chaque instance de la façon la plus expéditive et la moins onéreuse.
+[23] Pour demander avec succès un CTI conformément au paragraphe 169(1) de la Loi, l’appelante doit avoir acquis le bateau dans le cadre de ses activités commerciales. En décidant si l’appelante exerçait des activités commerciales, il faut examiner deux questions accessoires :
+a) L’appelante exploitait-elle une « entreprise » conformément à la définition figurant au paragraphe 123(1) de la Loi?
+b) Dans l’affirmative, l’appelante effectuait-elle, à titre d’organisme du secteur public, une fourniture exonérée en faveur du Service d’incendie, à titre gratuit?
+[24] Le mot « entreprise » est défini au paragraphe 123(1) de la Loi comme comprenant :
+[...] les commerces, les industries, les professions et toutes affaires quelconques avec ou sans but lucratif, ainsi que les activités exercées de façon régulière ou continue qui comportent la fourniture de biens par bail, licence ou accord semblable, En sont exclus les charges et les emplois.
+Il existe un lien étroit entre l’exploitation d’une entreprise et l’intention sous-jacente de faire un bénéfice, dans le cadre de l’activité de l’entreprise. Toutefois, la jurisprudence a établi que, bien que l’intention de réaliser un profit puisse influer sur la décision, ce facteur n’est pas déterminant lorsqu’il s’agit de savoir si certaines activités sont exercées en tant qu’entreprise. Étant donné que l’appelante est constituée en personne morale à titre de société sans but lucratif, il s’agit de savoir si la fourniture du bateau par 1’appelante au Service d’incendie est une entreprise visée par la définition du mot « entreprise ».
+[25] Au paragraphe 22 de la décision Glengarry Bingo Association c. Sa Majesté la Reine, [1995] A.C.I. no 690, la Cour a conclu qu’« […] une entreprise comprend toute affaire avec ou sans but lucratif. Cette affaire est définie comme étant une "activité commerciale" ». Cette décision a été portée en appel devant la Cour d’appel fédérale, mais cette partie de la décision vaut encore.
+[26] Le libellé du paragraphe 123(1) attribue à la définition de l’entreprise une portée étendue qui inclut « toutes affaires quelconques ». Étant donné que cette définition a une portée étendue et que l’appelante exerce ses activités d’entreprise à titre de société sans but lucratif, il est raisonnable d’appliquer une interprétation libérale à ses activités. L’appelante achète souvent du matériel qu’elle fournit au Service d’incendie pour soutenir les services de sauvetage et de secours que celui‑ci assure au sein de la collectivité de Sydney Mines. Lors du contre-interrogatoire, M. Young a témoigné ainsi :
+[traduction]
+« [...] [l’appelante faisait] beaucoup d’autres choses dans la collectivité, en plus de recueillir des fonds pour le Service d’incendie. Je dirais que notre objet principal est de recueillir des fonds pour le Service d’incendie, mais ce n’était pas l’unique raison pour laquelle nous le faisions. Nous faisons certaines choses afin d’aider d’autres organisations. Nous avons organisé un certain nombre d’événements afin d’aider les personnes atteintes d’une déficience mentale de la région. Nous avons offert notre salle pour des funérailles [...]
+(Transcription, page 55, lignes 11 à 18)
+M. Young a également mentionné que l’on recueillait des fonds au moyen de la vente de billets, de séances de bingo et de services de traiteur.
+[27] Si les activités de l’appelante sont examinées dans leur ensemble, je crois qu’elles peuvent être considérées comme une entreprise. Les membres de l’appelante agissent à titre volontaire, mais la preuve et le sens commun commercial ordinaire permettent de conclure qu’ils se livrent à leurs activités d’une façon ordonnée et professionnelle.
+[28] La définition de l’« activité commerciale » reconnaît que toute activité d’entreprise comportant la réalisation d’une fourniture exonérée doit être considérée à part aux fins de la TPS (398722 Alberta Ltd. c. Sa Majesté la Reine, [2000] A.C.F. no 644 (C.A.F.)). Une entreprise peut se livrer à des activités à des fins mixtes, c’est‑à‑dire que certaines activités peuvent être exercées dans le cadre des activités commerciales de l’entreprise, alors que d’autres activités peuvent donner lieu à des fournitures exonérées. On ne peut pas demander un CTI à l’égard de la partie d’une entreprise dans le cadre de laquelle une fourniture exonérée est effectuée en vertu du paragraphe 169(1) de la Loi.
+[29] Sur ce point, l’intimée soutient que la fourniture du bateau au Service d’incendie par l’appelante est une fourniture exonérée visée à l’article 10, partie VI, annexe V, et qu’il ne s’agit donc pas d’une activité commerciale de l’appelante. Il faut donc refuser le CTI.
+[30] Au paragraphe 123(1), la fourniture exonérée est définie comme étant une « [f]ourniture figurant à l’annexe V ». L’entreprise qui effectue une fourniture exonérée ne peut pas être engagée dans une activité commerciale.
+[31] L’article 10 prévoit ce qui suit :
+10. La fourniture par un organisme du secteur public de biens ou services, sauf la fourniture de sang ou de dérivés du sang, si la totalité, ou presque, des fournitures des biens ou services sont effectuées par l’organisme à titre gratuit.
+[32] L’appelante a admis être un organisme du secteur public selon la définition figurant au paragraphe 123(1) de la Loi, mais elle nie qu’elle s’occupe d’effectuer des fournitures exonérées. Il s’agit donc de savoir si l’appelante a effectué la fourniture à titre gratuit.
+[33] L’appelante fait valoir qu’un montant d’environ 80 000 $ sur le prix d’achat du bateau avait été fourni par la Province au moyen du FFSS. De plus, cette subvention a expressément été consentie aux fins de l’acquisition du bateau pour qu’il soit utilisé par le Service d’incendie. L’appelante affirme que ces fonds constituaient donc une contrepartie de la fourniture. (Observations de l’appelante, paragraphe 28).
+[34] Selon l’intimée, la preuve que l’appelante a soumise au sujet du financement était insuffisante pour permettre à la Cour de conclure qu’une contrepartie a été versée. De plus, étant donné que la preuve de l’appelante a changé entre l’interrogatoire préalable et l’audience et puisque le nouveau document qui a été produit à l’audience l’a été sans préavis, il ne faut accorder aucune importance à la preuve soumise à l’appui de l’argument que l’appelante a invoqué au sujet de la contrepartie.
+[35] Dans la décision Regina (Ville) c. Sa Majesté la Reine, [2001] A.C.I. no 315, le juge Rip (tel était alors son titre) a examiné le « critère du lien direct » adopté dans le bulletin d’information technique B‑067, dont les paragraphes 28 et 29 sont les suivants :
+[28] L’auteur de la partie I du bulletin I. T. B-067 explique que, « lorsque sont directement liés un paiement de transfert accordé à une personne et une fourniture effectuée par cette personne, soit au donateur du paiement de transfert ou à un tiers, le paiement de transfert sera considéré comme la contrepartie de la fourniture » . On y souligne qu’ « [i]l se peut qu’un lien direct ne soit pas immédiatement apparent et qu’il soit nécessaire d’étudier les circonstances entourant chaque cas » . Peuvent faire partie de ces circonstances l’accord entre les parties, la conduite des parties, les objectifs ou les énoncés de politique du donateur, les dispositions législatives, les arrêtés et les règlements applicables.
+[29] La partie II du Bulletin I. T. B-067 expose les lignes directrices permettant d’établir si un lien direct existe entre un paiement de transfert et une fourniture et si, par conséquent, le paiement de transfert constitue une contrepartie. Si l’on se reporte à ces lignes directrices, lorsqu’une fourniture est effectuée relativement à un paiement de transfert, il y a un lien direct entre la fourniture et le paiement de transfert si la fourniture effectuée au profit du donateur a un « but d’achat » , lequel « avantage le donateur ou un tiers désigné et [...] peut être de nature commerciale » et non un « but public » , lequel « avantage le grand public ou un segment précis du grand public ».
+[36] Dans un arrêt antérieur, Commission scolaire Des Chênes c. La Reine, [2001] A.C.F. no 1559, 2001 CAF 264, la Cour d’appel fédérale a conclu qu’une subvention accordée à des fins de transport était une contrepartie, même si elle ne couvrait pas pleinement le coût des biens et services pour lesquels la subvention avait été accordée. Le juge Noël a conclu à l’existence d’un lien suffisant entre la subvention versée par le Québec et les services que la commission scolaire fournissait aux élèves. Une décision ultérieure de la Cour d’appel fédérale, Calgary (Ville) c. La Reine, 2010 CAF 127, semble restreindre l’arrêt Des Chênes aux dispositions des ententes écrites conclues entre la Province et un organisme du secteur public. Toutefois, l’article 10 n’a été examiné dans ni l’un ni l’autre de ces deux arrêts.
+[37] Le principal argument de l’appelante est fondé sur la prétention selon laquelle la subvention qu’elle a reçue du FFSS est une contrepartie de la fourniture du bateau. Cet argument est fondé, compte tenu de la décision que la Cour d’appel fédérale a rendue dans l’affaire Des Chênes. Toutefois, l’appelante n’a pas soumis suffisamment d’éléments de preuve en vue d’établir ce « lien direct » entre les sommes provenant du FFSS et l’achat du bateau. Pour avoir gain de cause, l’appelante doit fournir cette preuve. Afin de prouver que la subvention du FFSS constituait le paiement de la fourniture du bateau, l’appelante a soumis une page de notes manuscrites non signées et non datées (pièce A‑11). Aucun autre document n’a été produit en preuve. M. Bonnar a expliqué que ce document renfermait une répartition de l’origine des comptes, d’où venait l’argent pour l’achat du bateau. Toutefois, lors du contre‑interrogatoire, il n’a pas pu donner de renseignements sur l’une de ces sources de fonds, la subvention Centennial. De plus, on n’a soumis aucun élément de preuve tendant à confirmer la réception réelle de ces fonds. Je suppose qu’il existe d’autres documents en plus de cette page de notes manuscrites, peut-être sous la forme d’ententes, de demandes ou de lettres échangées entre les parties. Un représentant de la Province aurait pu être cité en vue d’aider à établir un lien direct entre la fourniture et le paiement de transfert. La preuve concernant la législation applicable aurait également pu être produite.
+[38] Il incombait à l’appelante de fournir un tel élément de preuve en vue d’établir qu’il existe un lien direct entre les fonds provenant de la subvention et la fourniture au Service d’incendie. L’appelante n’a pas produit un nombre suffisant d’éléments de preuve en vue de permettre de déterminer si la subvention avait été accordée aux fins du financement d’une fourniture particulière. En d’autres termes et malheureusement, le lien direct n’a pas été établi. Le bateau n’est pas l’unique actif appartenant à l’appelante, de sorte que les fonds de la subvention que la Province a fournis à celle‑ci auraient pu être affectés à un certain nombre d’usages. Cela étant, il est essentiel pour l’appelante de présenter une preuve en vue d’établir un lien direct entre la fourniture du bateau et les fonds provenant de la subvention. Si ce lien avait été établi, l’argument concernant la contrepartie aurait été retenu.
+[39] À la fin de son argumentation, l’avocat de l’appelante a soumis un argument subsidiaire. Quoique cela ne soit pas clair, l’argument, si je comprends bien, est le suivant : moins de « la totalité, ou presque » de ses fournitures sont effectuées à titre gratuit. L’appelante, qui interprète l’expression « la totalité, ou presque » figurant à l’article 10 comme s’entendant d’au moins 90 p. 100 des fournitures, soutient que la dette de 15 759 $ qu’elle a au titre de la TPS, en ce qui concerne le bateau, représente moins de 90 p. 100 de sa dette globale relative à la TPS, laquelle s’élevait à 35 268 $ en 2008. Pour qu’une fourniture constitue une fourniture exonérée en vertu de l’article 10, au moins 90 p. 100 de l’ensemble des activités de l’appelante doivent être exercées à titre gratuit. Si je comprends bien, cet argument n’est pas valable parce que la jurisprudence le contredit directement.
+[40] Dans la décision School District No. 44 (North Vancouver) c. La Reine, [2008] A.C.I. no 354, 2008 CCI 475, la juge Woods a examiné le libellé de l’article 10; au paragraphe 31, elle a conclu qu’il faut donner aux exonérations une portée restreinte, compte tenu du libellé de la disposition :
+[31] À mon avis, lorsque vient le temps d’interpréter l’article 10, il est important de tenir compte des termes utilisés dans cette disposition. Les termes choisis donnent à entendre que l’exonération doit recevoir une interprétation étroite. C’est le choix des mots « des » et « biens » de l’expression « des biens ou services » qui laisse entendre cela. Ces termes donnent à penser que les biens ou les services admissibles à l’exonération doivent être identiques aux biens ou services qui sont fournis à titre gratuit.
+[41] Je souscris à la conclusion que la juge Woods a tirée au sujet du libellé de l’article 10. Si l’interprétation stricte que la juge Woods a appliquée est suivie, seule la fourniture du bateau doit être prise en compte, alors que les autres fournitures taxables de l’appelante ne doivent pas l’être. Par conséquent, l’argument subsidiaire de l’appelante doit être rejeté.
+[42] L’appelante et le Service d’incendie fournissent un précieux service à leur collectivité. Ils risquent constamment leurs vies en vue de fournir des services de sauvetage et de secours, et ce, uniquement à titre de volontaires. Malheureusement, l’appelante n’a pas présenté la preuve nécessaire en ce qui concerne le financement accordé au moyen du FFSS, laquelle était nécessaire afin de prouver l’argument relatif à la contrepartie qui était fondé sur le lien direct.
+[43] Pour ces motifs, l’appel est rejeté. L’avocat de l’appelante et l’avocate de l’intimée n’ont pas traité de la question des dépens dans les observations qu’ils ont soumises oralement et par écrit. De plus, les dépens ne sont pas demandés dans la réponse à l’avis d’appel. Cela étant, je n’adjugerai pas de dépens.
+Signé à Summerside (Île-du-Prince-Édouard), ce 26e jour d’août 2011.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 26e jour d’octobre 2011.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2011 CCI 403
+No DU DOSSIER DE LA COUR : 2010-611(GST)G
+INTITULÉ : SYDNEY MINES FIREMEN’S CLUB c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Sydney (Nouvelle-Écosse)
+DATE DE L’AUDIENCE : Le 20 juillet 2011
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 26 août 2011
+COMPARUTIONS :
+Avocat de l’appelant :
+Me William P. Burchell
+Avocate de l’intimée :
+Me Jill L. Chisholm
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : William P. Burchell
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,168 @@
+Title: Genex Communications inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29532/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-583-29532-genex-communications-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-11-16
+
+# Genex Communications inc. c. La Reine
+
+- Citation: 2009 CCI 583
+- Decision date: 2009-11-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6350, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Genex Communications inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-11-16
+Référence neutre
+2009 CCI 583
+Numéro de dossier
+2007-3870(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3870(IT)G
+ENTRE :
+GENEX COMMUNICATIONS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 11 juin 2009, à Québec (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelante :
+Me René Dion
+Avocate de l'intimée :
+Me Nathalie Labbé
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de la cotisation établie en date du 19 octobre 2006 en vertu de la Loi de l’impôt sur le revenu relativement à l’année d’imposition se terminant le 31 août 2003 de l’appelante est rejeté avec dépens, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2009.
+« Réal Favreau »
+Juge Favreau
+Référence : 2009 CCI 583
+Date : 20091116
+Dossier : 2007-3870(IT)G
+ENTRE :
+GENEX COMMUNICATIONS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] L’appelante, une société exploitant des licences de radiodiffusion sur la bande FM, interjette appel à l’encontre d’une cotisation établie en date du 19 octobre 2006 en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), telle que modifiée (la « Loi ») en vertu de laquelle le ministre du Revenu national (le « ministre ») a refusé la déduction d’un montant de 329,543 $ à titre de report de pertes autres que des pertes en capital réclamée par l’appelante à l’égard de son année d’imposition se terminant le 31 août 2003.
+[2] Le litige porte essentiellement sur la notion de « créance commerciale », telle que définie au paragraphe 80(1) de la Loi, et sur les effets d’une renonciation par des actionnaires à réclamer le remboursement d’avances consenties à une société afin de déterminer s’il s’agit d’une remise ou d’un règlement d’une dette commerciale.
+[3] Les pertes autres que des pertes en capital réclamées par l’appelante provenaient du solde du compte des pertes autres que des pertes en capital de Corporation Showbizznet (« Showbizznet »), une société privée sous contrôle canadien, qui exploitait un site internet consacré à une revue d’art et de spectacles.
+[4] Par une convention intervenue le 23 août 2002, l’appelante a acquis la totalité des actions de Showbizznet pour une contrepartie de 1 $ et la prise en charge de toutes les dettes de cette dernière. En vertu de cette même convention, les actionnaires de Showbizznet ont renoncé au remboursement des avances qu’ils ont faites à ladite société et qui n’ont pas été repayées. Au 23 août 2002, ces avances totalisaient 329 543 $ et le solde des pertes autres que des pertes en capital de Showbizznet s’élevait à 1 130 985 $.
+[5] Suite à l’acquisition de la totalité des actions de Showbizznet par l’appelante, Showbizznet a été liquidée. À l’audience, l’avocate de l’intimée a admis que l’appelante avait continué d’exploiter activement l’entreprise de Showbizznet et que les conditions d’application du paragraphe 88(1.1) et de l’alinéa 111(1)a) de la Loi étaient satisfaites. Par conséquent, l’appelante disposait en date du 31 août 2002, soit en date de la fin de son exercice financier au cours duquel la liquidation de Showbizznet a eu lieu, du solde des pertes autres que des pertes en capital de Showbizznet au 23 août 2002.
+[6] Les opérations de Showbizznet étant déficitaires et Showbizznet étant sous‑capitalisée, les actionnaires lui consentaient sur une base régulière des avances afin de lui permettre de poursuivre sur activités. Ces avances étaient généralement converties en actions de catégorie « A » du capital‑actions de Showbizznet. C’est ce qui fut notamment fait le 1er avril 2002, date à laquelle le solde des avances était de 487 929 $. Ces avances ont été converties en actions de catégorie « A » du capital‑actions de Showbizznet.
+[7] Les avances visées par la renonciation des actionnaires au montant de 329 543 $ ont été consenties par ces derniers entre le 1er avril 2002 et le 23 août 2002, date à laquelle l’appelante a acquis la totalité des actions de Showbizznet.
+[8] L’avocate de l’intimée a admis à l’ouverture de l’audience que les avances visées par la renonciation ne comportaient aucune obligation légale de paiement d’intérêts et que, de fait, aucun paiement d’intérêts n’avait été effectué sur ces avances quoique certains documents d’ordre corporatif et financier indiquaient que des intérêts étaient payables sur ces avances. De plus, il a été admis qu’il n’y avait aucune entente concernant les modalités de remboursement du principal des avances.
+Dispositions législatives applicables
+[9] La première définition à considérer est naturellement celle de « dette commerciale » que l’on retrouve au paragraphe 80(1) de la Loi :
+« dette commerciale »
+a) créance commerciale émise par un débiteur;
+b) action privilégiée de renflouement émise par un débiteur.
+Il est entendu que la dette commerciale constitue une obligation pour l'application de la définition de « principal » au paragraphe 248(1).
+[10] La notion de « créance commerciale » à laquelle réfère la définition de « dette commerciale » est également définie au paragraphe 80(1) de la Loi :
+« créance commerciale » Créance émise par un débiteur et sur laquelle un montant au titre d'intérêts est déductible dans le calcul du revenu, du revenu imposable ou du revenu imposable gagné au Canada du débiteur compte non tenu des paragraphes 15.1(2) et 15.2(2), de l'alinéa 18(1)g), des paragraphes 18(2), (3.1) et (4) et de l'article 21, si ces intérêts :
+a) soit ont été payés ou étaient payables par le débiteur en exécution d'une obligation légale;
+b) soit avaient été payés ou payables par le débiteur en exécution d'une telle obligation.
+Il est entendu que la créance commerciale constitue une obligation pour l'application de la définition de « principal » au paragraphe 248(1).
+[11] Aux fins de l’application de l’article 80 de la Loi, le « montant remis » sur une dette commerciale est déterminé selon une formule A – B, où A représente le moins élevé du montant pour lequel la dette a été émise ou du principal de la dette, soit 329 543 $, et où B représente le total des montants énumérés aux alinéas a) à l) de la définition de « montant remis » du paragraphe 80(1) de la Loi. Comme les montants énumérés sous l’élément B ne sont pas applicables au présent cas, le montant remis des avances correspond au principal des avances.
+[12] Le paragraphe 80(2) de la Loi fournit des précisions sur la façon d’appliquer les règles sur les remises de dettes. L’alinéa a) de ce paragraphe est particulièrement pertinent :
+a) [moment où une dette est réglée] -- une dette émise par un débiteur est réglée au moment où elle est réglée ou éteinte autrement que par legs ou héritage ou autrement qu'en contrepartie de l'émission d'une action visée à l'alinéa b) de la définition de « valeur mobilière exclue » au paragraphe (1);
+[13] Les conséquences du règlement d’une dette commerciale au niveau des pertes autres que des pertes en capital sont précisées au paragraphe 80(3) de la Loi :
+(3) Réduction des pertes autres qu'en capital -- En cas de règlement d'une dette commerciale émise par un débiteur, le montant remis sur la dette au moment du règlement est appliqué en réduction, à ce moment, des pertes suivantes selon l'ordre établi ci-après :
+a) la perte autre qu'une perte en capital du débiteur pour chaque année d'imposition qui s'est terminée avant ce moment, dans la mesure où le montant ainsi appliqué :
+(i) d'une part, ne dépasse pas le montant (appelé « perte autre qu'en capital ordinaire » au paragraphe (4)) qui constituerait le solde de pertes applicable, à ce moment, quant à la dette et à la perte autre qu'une perte en capital du débiteur pour l'année s'il n'était pas tenu compte du passage « sa perte déductible au titre d'un placement d'entreprise » à l'élément E de la formule figurant à la définition de « perte autre qu'une perte en capital » au paragraphe 111(8),
+(ii) d'autre part, ne réduit pas, par l'effet du présent paragraphe, la perte autre qu'une perte en capital du débiteur pour une année d'imposition antérieure;
+[14] La déduction des intérêts sur de l’argent emprunté est prévue au sous‑alinéa 20(1)c)(i) de la Loi :
+20 (1) Déductions admises dans le calcul du revenu tiré d'une entreprise ou d'un bien -- Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d'une entreprise ou d'un bien pour une année d'imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu'il est raisonnable de considérer comme s'y rapportant :
+[…]
+c) Intérêts -- la moins élevée d'une somme payée au cours de l'année ou payable pour l'année (suivant la méthode habituellement utilisée par le contribuable dans le calcul de son revenu) et d'une somme raisonnable à cet égard, en exécution d'une obligation légale de verser des intérêts sur :
+(i) de l'argent emprunté et utilisé en vue de tirer un revenu d'une entreprise ou d'un bien (autre que l'argent emprunté et utilisé pour acquérir un bien dont le revenu serait exonéré ou pour contracter une police d'assurance-vie),
+Analyse
+[15] L’avocat de l’appelante soutient que les avances consenties par les actionnaires à Showbizznet ne constituent pas une créance commerciale du fait que les actionnaires n’avaient aucune obligation légale de verser des intérêts sur ces avances et qu’aucun intérêt n’a effectivement été payé sur ces avances et finalement que l’intention de Showbizznet et de ses actionnaires était de convertir ces avances en actions de catégorie « A » du capital‑actions de Showbizznet. Par conséquent, l’article 80 de la Loi ne peut s’appliquer à l’égard du montant remis sur ces avances.
+[16] L’avocate de l’intimée pour sa part prétend que même si les avances ne portaient pas d’intérêts, ces avances constituent néanmoins une créance commerciale au sens de la définition du paragraphe 80(1) de la Loi parce que Showbizznet aurait pu réclamer une déduction pour les intérêts en vertu de l’alinéa 20(1)c) de la Loi si des intérêts avaient été payés ou payables par Showbizznet en vertu d’une obligation légale. L’avocate de l’intimée réfère de plus à la version anglaise de la définition de « créance commerciale » pour interpréter l’alinéa b) de ladite définition qui, selon elle, vise les créances qui ne portent pas d’intérêts donc les créances pour lesquelles il n’y a aucune obligation légale de payer des intérêts.
+[17] La principale question à résoudre consiste à déterminer si la définition de « créance commerciale » comprend les avances ne comportant aucune obligation légale de payer des intérêts.
+[18] Comme aucune jurisprudence n’a pu être retracée concernant les prêts sans intérêt aux fins de la définition de « créance commerciale » au paragraphe 80(1) de la Loi, il faut donc s’en remettre à une interprétation littéraire du texte de loi et à l’enseignement de la doctrine.
+[19] Le texte de l’alinéa b) de la définition de « créance commerciale » porte à confusion quant à savoir si l’obligation légale de payer des intérêts fait partie de l’hypothèse posée par le législateur ou est plutôt une exigence qui doit être rencontrée même si des intérêts n’ont pas été payés ou payables par le débiteur. Pour faciliter la compréhension de l’argumentation de l’appelante, le texte de l’alinéa b) est reproduit :
+b) soit avaient été payés ou payables par le débiteur en exécution d'une telle obligation.
+[20] La référence à une telle obligation fait évidemment référence à une obligation légale de payer des intérêts visée à l’alinéa a) de la définition de « créance commerciale ».
+[21] Il y a lieu de souligner ici que, dans la version française de la définition de « créance commerciale », l’hypothèse concernant les intérêts se retrouve à la fin du paragraphe introductif de la définition, ce qui signifie que l’hypothèse posée par le législateur s’applique à la fois à l’alinéa a) et à l’alinéa b) de la définition. Par conséquent, la référence à l’alinéa b) à une telle obligation visée à l’alinéa a) est tout de même sujette à l’hypothèse générale posée par le législateur concernant les intérêts et aucune conclusion particulière ne peut être tirée de la référence à une telle obligation légale de payer des intérêts visée à l’alinéa a) de la définition de « créance commerciale ».
+[22] La version anglaise de la définition de « créance commerciale » diffère quelque peu de la version française et est somme toute plus précise et plus claire. L’expression « commercial debt obligation » est définie de la façon suivante :
+“commercial debt obligation” issued by a debtor means a debt obligation issued by the debtor
+(a) where interest was paid or payable by the debtor in respect of it pursuant to a legal obligation, or
+(b) if interest had been paid or payable by the debtor in respect of it pursuant to a legal obligation,
+an amount in respect of the interest was or would have been deductible in computing the debtor's income, taxable income or taxable income earned in Canada, as the case may be, if this Act were read without reference to subsections 15.1(2) and 15.2(2), paragraph 18(1)(g), subsections 18(2), (3.1) and (4) and section 21;
+[23] Ce texte est plus clair et précis parce que l’hypothèse formulée concernant les intérêts ne s’applique qu’à l’égard de l’alinéa b) qui est complet en soi. L’alinéa a) traite de la situation où des intérêts ont été payés ou payables en vertu d’une obligation légale alors que l’alinéa b) traite de l’hypothèse où des intérêts auraient été payés ou payables en vertu d’une obligation légale.
+[24] Compte tenu de l’ambiguïté du texte de loi dans la version française, il est tout à fait approprié de considérer la version anglaise du même texte pour chercher l’intention du législateur. Il y a certes lieu de rappeler que la Loi est un texte bilingue et que la version française et la version anglaise de la Loi ont également force de loi : voir la Loi de 1982 sur le Canada, 1982, ch. 11 (R.-U.) dans L.R.C. (1985), App. II, no 44, telle que modifiée ; et la Loi concernant le statut et l’usage des langues officielles au Canada, L.R.C. (1985), ch. 31, 4e Suppl. Ce principe a pour effet d’établir qu’une version de la Loi n’est pas une traduction de l’autre et que pour interpréter la Loi, il faut regarder les deux versions de la Loi. Chaque version est considérée comme un original et est censée transmettre le même sens que l’autre. Pour conclure sur ce point, il y a lieu de référer aux principes d’interprétation des lois bilingues énoncés par la Cour suprême du Canada dans l’arrêt Medowarski c. Canada (M.C.I.) (2005), 2 R.C.S. 539, aux pages 550 et 551 :
+Pour interpréter les lois bilingues, il faut en premier lieu rechercher le sens qui est commun aux deux versions : P.-A. Côté, Interprétation des lois (3e éd. 2000), p. 413. Dans l'arrêt Daoust, le juge Bastarache a statué au nom de la Cour que l'interprétation des lois bilingues comporte deux étapes.
+Premièrement, il faut appliquer les règles d'interprétation législative pour déterminer s'il y a apparence d'antinomie et, dans l'affirmative, s'il y a un sens commun aux versions française et anglaise. "[L]orsqu'une des deux versions possède un sens plus large que l'autre, le sens commun aux deux favorise le sens le plus restreint ou limité" : [. . .] En raison de la divergence entre les deux dispositions, la Cour a adopté la version française qui était plus claire et restrictive. Le sens commun aux deux versions est celui du texte qui est clair et non ambigu. Si aucune des deux versions n'est ambiguë, ou si elles le sont toutes les deux, le sens commun est normalement celui du texte ayant le sens le plus restreint : Daoust, par. 28-29.
+Deuxièmement, il faut déterminer si le sens commun est compatible avec l'intention du législateur : Daoust, par. 30.
+[25] Pour dissiper l’ambiguïté de l’alinéa b), le législateur aurait dû utiliser le verbe « auraient » plutôt que le verbe « avaient » pour indiquer que cet alinéa posait une hypothèse. De plus, le législateur aurait pu ajouter les mots suivants au premier paragraphe de la définition de « créance commerciale » après le mot « déductible » : « ou auraient été déductibles, le cas échéant, » pour bien tenir compte de la situation couverte par l’alinéa b), soit le cas où les intérêts n’avaient pas été payés ou payables en vertu d’une obligation légale.
+[26] Les alinéas a) et b) de la définition de « créance commerciale » sont rédigés pratiquement de la même façon. Étant donné que le législateur ne s’exprime pas pour rien, il y a tout lieu de croire que le législateur a voulu couvrir à l’alinéa b) une situation différente de celle de l’alinéa a). Il est donc vraisemblable de penser que l’alinéa a) vise les prêts portant intérêts alors que l’alinéa b) vise les prêts sans intérêts. Le législateur semble avoir voulu inclure dans la définition de créance commerciale les avances pour lesquelles aucun intérêt n’est payé ou payable en vertu d’une obligation légale.
+[27] Selon les auteurs[1] qui se sont prononcés sur la question, la définition de créance commerciale comprend le prêt sans intérêt car, selon eux, ce qui importe est de déterminer si, dans le cas où des intérêts auraient été payables, si ces derniers auraient été déductibles dans le calcul du revenu des débiteurs.
+[28] Contrairement aux prétentions de l’appelante, je ne crois pas qu’il faille obligatoirement qu’il y ait une obligation légale de payer des intérêts pour qu’une créance se qualifie comme une créance commerciale. Le fait que les avances consenties à Showbizznet ne soient assujetties à aucune entente de remboursement ne change donc rien à la situation, et ce, contrairement aux prétentions de l’appelante.
+[29] Il en est de même pour ce qui est de l’intention des actionnaires de convertir leurs avances en actions du capital‑actions de Showbizznet. Peu importe l’intention des parties, les conséquences fiscales doivent s’appliquer aux faits qui sont réellement survenus. Ce principe découle de nombreuses décisions rendues par nos cours de justice. Voir à ce sujet l’extrait suivant de la décision rendue par le juge Linden dans l’arrêt Friedberg c. Canada (C.A.F.), [1991] A.C.F. no 1225, pages 2 et 3 :
+[TRADUCTION]
+En droit fiscal, la forme a de l'importance. Une simple intention subjective, en l'espèce comme dans d'autres instances en matière fiscale, ne suffit pas en soi à modifier la caractérisation d'une opération aux fins de l'impôt. Lorsqu'un contribuable prend certaines dispositions formelles à l'égard de ses affaires, il peut s'ensuivre d'importants avantages fiscaux, quand bien même ces dispositions seraient prises principalement dans le but d'éviter des impôts (voir La Reine c. Irving Oil 91 D.T.C. 5106, le juge Mahoney, J.C.A.). Toutefois, si un contribuable omet de prendre les mesures formelles appropriées, peut-être que des impôts devront être payés. S'il n'en était pas ainsi, Revenu Canada et les tribunaux se livreraient à des exercices interminables pour établir les intentions véritables derrière certaines opérations. Les contribuables et la Couronne chercheraient à restructurer des opérations après coup afin de profiter de la législation fiscale ou d'amener les contribuables à payer des impôts qu'ils pourraient autrement ne pas avoir à payer. Bien que la preuve de l'intention puisse parfois aider les tribunaux à clarifier des marchés, elle est rarement déterminante. En résumé, la preuve d'une intention subjective ne peut servir à "rectifier" des documents qui s'orientent clairement vers une direction précise.
+[30] Les extraits suivants des décisions rendues par la Cour suprême du Canada dans Bronfman Trust c. La Reine, [1987] 1 R.C.S. 32, aux pages 54 et 55, et dans Shell Canada Limitée c. Canada, [1999] 3 R.C.S. 622, aux paragraphes 39 et 40, sont également très pertinents :
+Bronfman Trust, Juge en chef Dickson :
+Avant de terminer, je veux aborder un dernier argument invoqué par l'avocat de la fiducie. On a soutenu -- et Sa Majesté en a généreusement convenu -- que la fiducie aurait obtenu une déduction au titre d'intérêts si elle avait vendu des biens en vue de payer les prélèvements sur le capital et avait ensuite emprunté pour remplacer ces biens. Par conséquent, selon ce point de vue, on ne devrait pas refuser à la fiducie une déduction au titre d'intérêts simplement parce qu'elle a obtenu le même résultat sans les formalités d'une vente et d'un rachat de biens. Il suffit pour répondre à cet argument d'invoquer le principe selon lequel les tribunaux doivent tenir compte de ce que le contribuable a réellement fait et non pas de ce qu'il aurait pu faire: Matheson c. La Reine, 74 D.T.C. 6176 (C.F.D.P.I.), le juge Mahoney, à la p. 6179.
+Shell Canada Limitée, Juge McLachlin
+[39] Notre Cour a statué à maintes reprises que les tribunaux doivent tenir compte de la réalité économique qui sous-tend l'opération et ne pas se sentir liés par la forme juridique apparente de celle-ci: Bronfman Trust, précité, aux pp. 52 et 53, le juge en chef Dickson; Tennant, précité, au par. 26, le juge Iacobucci. Cependant, deux précisions à tout le moins doivent être apportées. Premièrement, notre Cour n'a jamais statué que la réalité économique d'une situation pouvait justifier une nouvelle qualification des rapports juridiques véritables établis par le contribuable. Au contraire, nous avons décidé qu'en l'absence d'une disposition expresse contraire de la Loi ou d'une conclusion selon laquelle l'opération en cause est un trompe-l'oeil, les rapports juridiques établis par le contribuable doivent être respectés en matière fiscale. Une nouvelle qualification n'est possible que lorsque la désignation de l'opération par le contribuable ne reflète pas convenablement ses effets juridiques véritables: Continental Bank Leasing Corp. c. Canada, [1998] 2 R.C.S. 298, au par. 21, le juge Bastarache.
+[40] Deuxièmement, la jurisprudence fiscale de notre Cour est bien établie: l'examen de la "réalité économique" d'une opération donnée ou de l'objet général et de l'esprit de la disposition en cause ne peut jamais soustraire le tribunal à l'obligation d'appliquer une disposition non équivoque de la Loi à une opération du contribuable. [. . .]
+[31] Sur la base des principes ci-dessus énoncés, je suis d’avis que la réalité juridique doit être respectée peu importe si l’intention de Showbizznet et de ses actionnaires était de convertir les avances en actions de Showbizznet comme ils l’ont fait antérieurement à quelques reprises.
+[32] Pour déterminer si les intérêts qui auraient été payés ou payables sur les avances en vertu d’une obligation légale auraient été déductibles dans le calcul du revenu de Showbizznet en vertu de l’alinéa 20(1)c) de la Loi, il faut regarder la situation de la débitrice et considérer si les intérêts auraient été versés sur de l’argent emprunté en vue de tirer un revenu d’entreprise ou de bien.
+[33] Au paragraphe 1.1 de la section C de l’avis d’appel, il est clairement indiqué que les actionnaires de Showbizznet lui consentaient sur une base régulière des avances afin qu’elle puisse poursuivre ses activités. Comme les avances ont permis à Showbizznet de poursuivre l’exploitation de son entreprise, ces avances ont été utilisées en vue de tirer un revenu d’entreprise, satisfaisant ainsi l’exigence concernant la déductibilité des intérêts que l’on retrouve à la définition de « créance commerciale ».
+[34] Sur la base de ce qui précède, les conditions d’application de l’article 80 de la Loi sont rencontrées. Par conséquent, il y a lieu de considérer si la dette représentée par les avances a été réglée ou éteinte. Le paragraphe 80(3) de la Loi stipule, qu’en cas de règlement (settlement en anglais) d’une dette commerciale émise par un débiteur, le montant remis sur la dette au moment du règlement est appliqué, à ce moment, en réduction des pertes fiscales. L’alinéa 80(2)a) de la Loi stipule qu’une dette émise par un débiteur est réglée au moment où elle est réglée ou éteinte.
+[35] En vertu de la convention de vente des actions de Showbizznet signée en date du 23 août 2002, les actionnaires de Showbizznet ont renoncé purement et simplement au remboursement des avances qu’ils ont fait à ladite société. Showbizznet n’était pas en partie à cette convention et les actionnaires n’ont posé aucun geste pour donner effet à cette renonciation. Aucune quittance n’a été remise à Showbizznet et aucune résolution du conseil d’administration ou des actionnaires de Showbizznet n’a été adoptée pour rendre effective cette remise de dette. Par contre, le bilan et les états financiers de Showbizznet au 23 août 2002, qui étaient annexés à ladite convention de vente en tant qu’Annexe C, montrent que les avances des actionnaires ont été radiées.
+[36] Comme les avances aux actionnaires ont été radiées des livres de Showbizznet, il est raisonnable de conclure que la dette a été éteinte par une remise de dette au sens de l’article 1687 du Code civil du Québec. Cette disposition se lit comme suit :
+1687. Il y a remise lorsque le créancier libère son débiteur de son obligation.
+La remise est totale, à moins qu'elle ne soit stipulée partielle.
+[37] Il n’y a pas de doute que la renonciation unilatérale des actionnaires au remboursement des avances était pour le bénéfice exclusif de Showbizznet. Le consentement ou l’acceptation de cette renonciation au remboursement des avances par Showbizznet a été implicitement donné par ses administrateurs en tant que mandataires de la société selon l’article 321 du Code civil du Québec. Au moment de la vente des actions de Showbizznet, les administrateurs de Showbizznet étaient tous des membres de la famille de monsieur Réal Parent. Les actionnaires vendeurs étaient, tout au plus à une exception près, des membres de la famille de monsieur Réal Parent et des sociétés liées à ces derniers.
+[38] Pour ces raisons, l’appel à l’encontre de la cotisation établie en date du 19 octobre 2006 en vertu de la Loi relativement à l’année d’imposition se terminant le 31 août 2003 est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2009.
+« Juge Favreau »
+Juge Favreau
+RÉFÉRENCE : 2009 CCI xxx
+Nº DU DOSSIER DE LA COUR : 2007-3870(IT)G
+INTITULÉ DE LA CAUSE : Genex Communications Inc. et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 11 juin 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 16 novembre 2009
+COMPARUTIONS :
+Avocat de l'appelante :
+Me René Dion
+Avocate de l'intimée :
+Me Nathalie Labbé
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me René Dion
+Québec, Québec
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] PARENT, Robert, Application de l’article 80 L.I.R., Règlement de dettes, Revue de Planification Fiscale et Successorale, Vol. 23, No 3, page 464 :
+De plus, une dette d’un contribuable ne portant pas intérêt serait assujettie aux dispositions de l’article 80 L.I.R.; dans le cas où il y aurait eu des intérêts payés ou payables, ils auraient été déductibles.
+ROYAL, Normand, Utilisation des pertes fiscales et opérations de restructuration de dettes, Congrès de l’APFF 2008, 9 octobre 2008 :
+Une créance commerciale se définit comme une dette émise par le débiteur à l’égard de laquelle l’intérêt est déductible, mais seulement pour certaines dispositions de la loi ou qui aurait été déductible si l’intérêt avait été payé ou était payable sur la dette en vertu d’une obligation juridique. Ainsi, dans les circonstances appropriés, une obligation de dette commerciale comprendrait un prêt sans intérêt. [Je souligne.]
+PICKFORD, Barry, The Tax Testaments of Forgiveness of Debt and Foreclosures : The proposed New Rules, Report of Proceedings of Forth‑Sixth Tax Conference (Toronto: Canadian Tax Foundation, 1995), 3:1-62:
+Interest-free debts will be commercial debt obligations if interest would have been deductible if it had been payable. [Emphasis added].
+BERNSTEIN, Jack, Update on Debt Forgiveness and Mortgage Foreclosure Proposals in Real Estate Transactions: Tax Planning for the Second Half of the 1990s, 1995 Corporate Management Tax Conference (Toronto: Canadian Tax Foundation, 1996), 21:1-43:
+A preliminary step in determining whether the provisions of section 80 will apply is to ascertain whether the debt is a commercial debt obligation and whether it has been settled. A commercial debt obligation is one on which the interest is deductible or would have been deductible if it had been charged. An interest-free debt will not be a commercial debt obligation if, assuming that interest had been paid or payable, the interest would not be deductible. A debt will not be a commercial debt obligation if the interest paid or that would be paid (if it is charged) is non‑deductible. [Emphasis added].

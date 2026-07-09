@@ -1,0 +1,197 @@
+---
+title: "Constructions Marabella Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31020/index.do"
+last_modified: "2012-11-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 397"
+citation2: ""
+neutral_citation: "2012 CCI 397"
+decision_date: "2012-11-09"
+language: "fr"
+item_id: "31020"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4902
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:17:05.069000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3adc63c689ce1968256392d1e9aeb777faccb2e42154ef2c334e4116a8f97f11"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Constructions Marabella Inc. c. La Reine
+
+- Citation: 2012 CCI 397
+- Decision date: 2012-11-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4902, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Constructions Marabella Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-11-09
+Référence neutre
+2012 CCI 397
+Numéro de dossier
+2011-2684(GST)I
+Juges et Officiers taxateurs
+Jean-Louis Batiot
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-2684(GST)I
+ENTRE :
+LES CONSTRUCTIONS MARABELLA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 1er et 4 octobre 2012, à Montréal (Québec).
+Devant : L'honorable juge suppléant Jean-Louis Batiot
+Comparutions :
+Représentante de l'appelante :
+Jiuseppina Gracioppo
+Avocate de l'intimée :
+Me Marie-Pierre Létourneau
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l’avis est daté du 2 octobre 2009, ne portant aucun numéro distinctif, pour les périodes d’imposition du 1er novembre 2005 au 31 janvier 2006, du 1er mai 2006 au 31 juillet 2006, du 1er août 2006 au 31 octobre 2006 du 1er novembre 2006 au 31 janvier 2007 et du 1er août 2007 au 31 octobre 2007 est rejeté.
+Signé à Montréal, Québec, ce 9e jour de novembre 2012.
+« Jean-Louis Batiot »
+Juge suppléant Batiot
+Référence : 2012 CCI 397
+Date : 20121109
+Dossier : 2011-2684(GST)I
+ENTRE :
+LES CONSTRUCTIONS MARABELLA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Batiot
+[1] M. Marabella, président et seul actionnaire, et Mme J. Gracioppo, son épouse, comptable de l’appelante, représentent celle-ci. Tous les deux ont témoigné.
+[2] L’avis d’appel et la réponse de l’intimée étaient en anglais. L’appelante a demandé que l’audience soit en français et a accepté que ces documents ne soient pas traduits.
+[3] Le ministre du Revenu du Québec, agent du ministre du Revenu National, a émis un nouvel avis de cotisation le 2 octobre 2009 contre l’appelante comme suit :
+CONSTRUCTION MARABELLA
+ENDING JANUARY 2006
+Adjustments: $1,456.10
+Interest: 360.59
+Late remitting penalty: 1.74
+TOTAL (JANUARY 2006) $1,818.43
+ENDING JULY 2006
+Adjustments: $348.07
+Interest: 77.21
+TOTAL (JULY 2006) $425.28
+ENDING OCTOBER 2006
+Adjustments: $599.44
+Interest: 125.45
+TOTAL (OCTOBER 2006) $724.89
+ENDING JANUARY 2007
+Adjustments: $632.89
+Interest: 129.24
+TOTAL (JANUARY 2007) $762.13
+ENDING OCTOBER 2007
+Adjustments: $961.55
+Interest on reimbursement: 0.55
+Interest: 101.34
+TOTAL (OCTOBER 2007) $1,071.44
+(article 3 de la réponse à l’avis d’appel)
+[4] Le total pour les cinq périodes en jeu, y inclut intérêts, est de 4 796,66 $. La taxe sur les produits et services (TPS) est de 3 998,05 $.
+[5] L’intimée, dans l’article 8 de sa réponse à l’avis d’appel, énonce ses hypothèses et conclusions basées sur des factures de trois fournisseurs de l’appelante, Construction Lubac Inc., Construction Lido Inc. et Construction Beck Inc., qui, bien qu’inscrites à la TPS, n’exerçaient aucune activité commerciale dans la spécialité pour laquelle l’appelante les aurait engagées et ne faisaient affaire avec aucun sous-traitant. Elle ne pouvait donc pas fournir le travail exécuté aux différentes résidences que l’appelante construisait ou a construites durant ces périodes. De plus, l’individu avec lequel l’appelante faisait affaire, Alain Archambault, n’avait aucun lien avec ces trois compagnies. L’appelante paraissait donc se prêter à un stratagème de factures de complaisance et n’a fourni aucun détail quant aux employés qui faisaient le travail ou des renseignements officiels de la Commission de la santé et de la sécurité du travail ou confirmation de la Commission de la construction du Québec au sujet des employés.
+[6] Donc, l’appelante est responsable et doit payer cette somme de 3 998,00 $ plus intérêts et pénalité.
+[7] L’appelante fait objection à cette cotisation, car elle a reçu les services demandés et a payé de bonne foi son fournisseur, Alain Archambault, au complet, d’après ses directives.
+FACTURES DE COMPLAISANCE
+[8] L’intimée, par sa preuve, a établi, sans contradiction de la part de l’appelante, que ces trois compagnies étaient des fournisseurs de factures de complaisance, sur une échelle considérable (plusieurs millions de dollars chacune) : elles n’avaient ni l’équipement ni les employés ni même l’administration nécessaire pour fournir les travaux effectués pour l’appelante. Elles produisaient – ou étaient produites pour elles – des factures en bonne et due forme, mais décrivant le travail fourni d’une façon très brève; le chèque en contrepartie était encaissé dans un centre d’encaissement le même jour contre une commission de 3%, et l’argent disparaissait. Aucune TPS n’était remise au ministère du Revenu du Québec.
+[9] L’intimée a établi que ces compagnies se prêtaient à ce stratagème de factures de complaisance et qu’aucune n’a, de fait, fourni des fournitures à l’appelante.
+[10] La preuve présentée pendant l’audience démontre que le travail requis par l’appelante était effectué, à sa demande, par un certain Alain Archambault.
+[11] La question à résoudre donc : l’appelante a-t-elle commis une erreur de fait raisonnable, ou a-t-elle pris des précautions raisonnables pour se conformer à la loi?
+LE CONTEXTE LÉGAL
+[12] Lorsqu’une personne inscrite réclame les intrants contre toute somme à payer sur la TPS, elle doit observer les termes de la loi. La Cour d’appel fédérale, dans l’arrêt Systematix Technology Consultants c. Sa Majesté la Reine, 2007 CAF 226, au paragraphe 4, a statué très clairement:
+Nous sommes d’avis que la Loi exige que les personnes ayant versé des sommes au titre de la TPS à des fournisseurs veillent à fournir des numéros d’inscription des fournisseurs valides lorsqu’elles demandent un crédit de taxe sur les intrants.
+[13] Le paragraphe 169(4) de la Loi sur la taxe d’accise (LTA) énonce:
+L’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement; […]
+Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH) (DORS/91-45), article 3c.3.
+Les renseignements [pertinents] visés à l’alinéa 169(4)a) de la Loi, sont les suivants :
+a) […]
+(i) […]
+(ii) si une facture a été remise pour la ou les fournitures, la date de cette facture,
+[…]
+(iv) le montant total payé ou payable pour la ou les fournitures;
+b) […]
+(i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire et le numéro d’inscription attribué, conformément au paragraphe 241(1) de la Loi, au fournisseur ou à l’intermédiaire, selon le cas,
+[…]
+c) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 150 $ ou plus :
+(i) les renseignements visés aux alinéas a) et b),
+(ii) soit le nom de l’acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+(iii) les modalités de paiement,
+(iv) une description suffisante pour identifier chaque fourniture.
+[14] En l’espèce, je retiens donc de ces loi et règlements, que, avant d’en faire la demande mais pour la soutenir, l’appelante doit avoir et présenter le vrai nom de son fournisseur et son numéro d’inscription, son propre nom, le montant payé ou à payer, les modalités de paiement et une description suffisante pour identifier chaque fourniture.
+LES FAITS
+[15] M. Marabella est un petit entrepreneur faisant affaires sous le nom Les Constructions Marabella Inc., inscrite au régime de TPS-TVQ. Sa compagnie n’a aucun autre employé, sauf peut-être son épouse, Mme J. Gracioppo, qui en fait la comptabilité et représente l’appelante dans cet appel. Cette compagnie construit, pour les vendre, jusqu’à trois demeures par an, dépendant des conditions économiques et de la disponibilité de terrains de construction.
+[16] M. Marabella s’occupe personnellement de ses projets qu’il effectue par l’entremise de sous-traitants. Chacun travaille dans sa spécialité, de la préparation du terrain à l’établissement des fondations, construction des murs et toits, l’installation de la plomberie, de l’électricité et de tout autre système nécessaire à une demeure résidentielle. Évidemment, cela comprend l’installation des murs intérieurs de la maison et garage, donc l’introduction d’Alain Archambault, installateur de plaques/feuilles de gypse et tireur de joints.
+[17] Il est important pour M. Marabella d’obtenir les différents services aux temps voulus; il existe une priorité dans l’ordre d’exécution de chaque ouvrage. Il doit engager les services de l’un ou l’autre sous-traitant d’après son propre horaire, qui fera un travail bon et rapide dans les délais prévus.
+[18] M. Marabella était satisfait du travail d’Alain Archambault et de son équipe. Il lui avait été recommandé. Il savait aussi que M. Archambault avait certaines difficultés avec les autorités et qu’il manquait d’argent; donc il le payait rapidement, soit dans les 4-5 jours (ce délai très court a attiré l’attention des services de Revenu Québec, donc la vérification). Il savait aussi que ces factures étaient très sobres de détails, et venaient de différentes compagnies avec lesquelles il n’avait pas traité. Mais il les payait sans autre question, parce qu’il était satisfait du travail d’Alain Archambault, qui lui présentait celles-ci comme les siennes.
+[19] Il n’y a ni preuve ni suggestion devant moi que M. Marabella était au courant des pratiques douteuses identifiées et prouvées par l’intimée.
+[20] L’appelante prétend ne pas devoir payer une deuxième fois la TPS qu’elle a déjà remise à M. Archambault d’après les factures présentées et payées immédiatement. De fait, M. Marabella demande, d’une façon émotionnelle, où est sa culpabilité. Sa frustration - et celle de Mme Gracioppo - vis-à-vis de la demande de l’intimée est évidente.
+[21] Je suis satisfait d’après la preuve apportée par l’appelante que le travail a été effectué à sa satisfaction par M. Archambault qui, avec son équipe, installait les feuilles ou plaques de gypse livrées, à la demande de M. Marabella, au site spécifique, et que les factures présentées à l’appelante représentaient les travaux effectués.
+[22] Nous savons depuis que ces chèques étaient encaissés par ces trois compagnies sans délai dans des centres d’encaissement et que cet argent disparaissait. Il n’y a aucune preuve devant moi que l’appelante ait eu connaissance de ces faits découverts subséquemment à l’émission des chèques.
+[23] J’accepte la preuve de l’appelante qu’elle n’était pas complice dans cette tricherie.
+[24] Mais l’appelante, par l’entremise de M. Marabella, savait aussi que M. Archambault avait des difficultés avec les autorités y compris celle de la TPS et a accepté les représentations de M. Archambault que ces factures présentées par ces trois compagnies étaient de fait les siennes. D’après sa preuve emphatique, M. Marabella ne faisait affaire qu’avec M. Archambault et ne connaissait aucune de ces trois compagnies; malgré cela il leur a versé des sommes importantes, rapidement, sans autre vérification.
+[25] Ce genre d’activité frauduleuse a été considérée dans plusieurs jugements. Je mentionne ici le jugement de cette Cour, Comtronic Computer Inc. et Sa Majesté la Reine, 2010 CCI 55, où le juge Patrick Boyle souligne l’obligation de la part d’un mandataire sous le régime de la TPS de s’être muni, d’après les Règlements susmentionnés, du numéro d’inscription valide de tout fournisseur à qui il a versé un montant de TPS, s’il veut la réclamer comme CTI.
+[26] Le juge Boyle appliquait l’arrêt Systematix Technology Consultants Inc., supra.
+[27] En l’espèce, ce n’est pas le numéro d’inscription qui est en question, mais l’identité du fournisseur même. Évidemment, si ce n’est pas le vrai fournisseur, son numéro d’inscription est invalide vis-à-vis de l’acquéreur qui réclame le CTI. Le nom du fournisseur doit correspondre au numéro d’inscription, et il doit être, de fait, le fournisseur.
+[28] L’appelante a accepté les représentations d’Alain Archambault, son fournisseur actuel, par erreur. Elle l’a fait sans vérifier leur exactitude. Sans une telle vérification, cette erreur de fait n’est pas raisonnable, surtout étant donné les circonstances qui les ont provoquées, les ennuis financiers du fournisseur actuel.
+[29] Le juge Boyle, dans Comtronic, supra, au paragraphe 29, reconnaît que d’imposer un tel devoir à un mandataire offre des difficultés:
+[…] cette approche stricte est une source potentielle d’injustice pour l’acheteur qui paye la TPS de bonne foi. Elle a pour conséquence que les entreprises canadiennes doivent supporter le risque lié à la fraude, au vol d’identité et aux actes illicites, et les obligent dans les faits à mettre en place des mesures de gestion du risque dans leurs relations tant avec leurs nouveaux fournisseurs qu’avec leurs fournisseurs existants de manière à déterminer quels renseignements fournis par les fournisseurs peuvent nécessiter qu’elles fassent des recherches approfondies. Un tel résultat peut s’avérer sévère et injuste, mais il est loisible au législateur fédéral d’instaurer un tel régime et je suis tenu d’appliquer les dispositions législatives telles qu’elles ont déjà été interprétées par la Cour d’appel fédérale.
+(se référant à Systematix, supra).
+[30] Je note la bonne foi de M. Marabella qui commettait cette erreur. Elle n’est malheureusement pas un moyen de défense dans ces questions administratives où seulement la diligence raisonnable excuse soit l’erreur de fait raisonnable, soit la prise de précautions raisonnables pour se conformer à la loi (Corporation de l’École Polytechnique c. Canada, 2004 CAF 127, paragraphe 28).
+[31] À l’article 29 de ce même arrêt, la Cour d’appel fédérale explique la distinction :
+[…] La défense de bonne foi permet l’exonération d’une personne qui a commis une erreur de fait de bonne foi, même si celle-ci est déraisonnable, alors que la défense de diligence raisonnable exige que cette erreur soit raisonnable, c'est-à-dire une erreur qu’une personne raisonnable aurait aussi commise dans les mêmes circonstances. La défense de diligence raisonnable qui requiert une croyance raisonnable, mais erronée, en une situation de fait est donc plus exigeante que celle de bonne foi qui se contente d’une croyance honnête, mais tout aussi erronée.
+[32] Il n’était pas raisonnable (ou prudent) de la part de l’appelante de payer les factures présentées par M. Archambault, son fournisseur, sur la direction de ce dernier, à d’autres fournisseurs présumés, sans obtenir le numéro d’inscription de ce premier, et sans avoir fait affaire avec ces dernières. Sachant qu’Alain Archambault, son fournisseur, avait des ennuis avec le régime de la TPS et avait besoin d’argent rapidement, l’appelante, pour se protéger, devait vérifier ces représentations, avant de payer un étranger. En l’absence d’une telle vérification, ces erreurs de fait n’étaient pas raisonnables.
+[33] Je remarque que M. Marabella faisait affaire avec des fournisseurs habituels, en toute confiance. Il prêtait la même confiance à M. Archambault, un nouveau fournisseur, qui l’a trahie. Toute entreprise peut se protéger en s’assurant que les modalités énoncées par la loi soient présentes sur leurs factures, et surtout celles qu’elles doivent payer.
+[34] L’appel est rejeté.
+Signé à Montréal, Québec, ce 9e jour de novembre 2012.
+« Jean-Louis Batiot »
+Juge suppléant Batiot
+RÉFÉRENCE : 2012 CCI 397
+Nº DU DOSSIER DE LA COUR : 2011-2684(GST)I
+INTITULÉ DE LA CAUSE : LES CONSTRUCTIONS MARABELLA INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Les 1er et 4 octobre 2012
+MOTIFS DU JUGEMENT PAR : L'hon. juge suppléant Jean-Louis Batiot
+DATE DU JUGEMENT : Le 9 novembre 2012
+COMPARUTIONS :
+Représentant de l'appelante :
+Jiuseppina Gracioppo
+Avocate de l'intimée :
+Me Marie-Pierre Létourneau
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

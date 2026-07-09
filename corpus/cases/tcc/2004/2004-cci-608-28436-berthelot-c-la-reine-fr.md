@@ -1,0 +1,135 @@
+---
+title: "Berthelot c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28436/index.do"
+last_modified: "2004-09-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 608"
+citation2: ""
+neutral_citation: "2004 CCI 608"
+decision_date: "2004-09-13"
+language: "fr"
+item_id: "28436"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1234
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:03:02.220000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1fafc3bcc75008d5d4ec9435239bbbbaad04b034d6ea4ff1b5bf3a155527939b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Berthelot c. La Reine
+
+- Citation: 2004 CCI 608
+- Decision date: 2004-09-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1234, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Berthelot c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-13
+Référence neutre
+2004 CCI 608
+Numéro de dossier
+2004-2389(IT)APP
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2389(IT)APP
+ENTRE :
+MONIQUE BERTHELOT
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande entendue le 1er septembre 2004, à Matane (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour la requérante :
+La requérante elle-même
+Avocate de l'intimée :
+Me Marie-Claude Landry
+____________________________________________________________________
+ORDONNANCE
+Vu la demande faite en vue d'obtenir une ordonnance prolongeant le délai dans lequel un avis d'opposition à la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 peut être signifié;
+Et vu les allégations des parties;
+La demande est rejetée pour les motifs ci-joints.
+Signée à Ottawa, Canada, ce 13e jour de septembre 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI608
+Date : 20040913
+Dossier : 2004-2389(IT)APP
+ENTRE :
+MONIQUE BERTHELOT,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Tardif
+[1] Il s'agit d'une demande faite en vue d'obtenir une ordonnance prolongeant le délai dans lequel un avis d'opposition à la cotisation établie en vertu de la Loi de l'impôt sur le revenu (la « Loi ») pour l'année d'imposition 2000 peut être signifié.
+[2] La requérante a expliqué avoir été incapable, pour cause de maladie, de déposer son avis d'opposition à l'avis de cotisation dans le délai de 90 jours prévu par le paragraphe 165(1) de la Loi.
+[3] Elle a également indiqué que le motif de son opposition était qu'elle n'avait pas d'impôt à payer sur une bourse d'études puisque son employeur lui avait garanti qu'une telle bourse n'était pas imposable.
+[4] Quant aux explications relatives aux empêchements au dépôt de l'opposition, elles n'ont guère été convaincantes, d'autant plus que la procédure à suivre et les exigences à respecter pour produire une opposition sont d'une simplicité et d'une facilité déconcertantes.
+[5] Durant cette période, madame Berthelot a fait différentes demandes et démarches auprès de son employeur; elle a discuté de la situation avec ses collègues de travail et les divers représentants de son groupe de travail.
+[6] L'avis de cotisation a été envoyé le 9 juillet 2002. Le délai de 90 jours prévu par la Loi pour faire opposition prenait fin le 7 octobre 2002.
+[7] Le 22 septembre 2003, la requérante soumettait une demande de prorogation de délai, soit plus de 11 mois après l'expiration du délai de 90 jours.
+[8] Le 27 janvier 2004, la demande de prorogation était refusée. La requérante bénéficiait encore là d'un délai de 90 jours pour faire appel à la Cour canadienne de l'impôt, mais elle a adressé sa demande à la Cour le 31 mai 2004, soit plus de 120 jours après la décision.
+[9] Les raisons et explications présentées par la requérante ne sont pas valables en ce qu'elles sont totalement injustifiables, voire même invraisemblables.
+[10] Faire droit à la demande de la requérante équivaudrait à récompenser une négligence et une insouciance tout à fait évidentes.
+[11] Le législateur a adopté des dispositions d'une grande simplicité et prescrit des délais plus que raisonnables pour permettre à toute personne de faire valoir ses droits. Il y va du bon fonctionnement du système qu'il existe certaines règles et qu'une discipline minimale soit respectée.
+[12] La demande de la requérante est rejetée.
+Signée à Ottawa, Canada, ce 13e jour de septembre 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI608
+No DU DOSSIER DE LA COUR :
+2004-2389(IT)APP
+INTITULÉ DE LA CAUSE :
+Monique Berthelot et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Matane (Québec)
+DATE DE L'AUDIENCE :
+le 1er septembre 2004
+MOTIFS DE L'ORDONNANCE PAR :
+l'honorable Juge Alain tardif
+DATE DE L'ORDONNANCE :
+le 13 septembre 2004
+COMPARUTIONS :
+Pour la requérante :
+L'appelante elle-même
+Pour l'intimée :
+Me Marie-Claude Landry
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour la requérante :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,341 @@
+Title: Khan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30568/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-498-30568-khan-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-10-26
+
+# Khan v. The Queen
+
+- Citation: 2011 TCC 498
+- Decision date: 2011-10-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7308, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Khan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-10-26
+Neutral citation
+2011 TCC 498
+File numbers
+2008-2680(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2680(IT)I
+BETWEEN:
+AHMAD A. KHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeal of
+Ahmad A. Khan 2010-598(GST)I
+on November 1, 2010, at Toronto, Ontario
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Samantha Hurst
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act in respect of the taxation years 2001 and 2002 are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessments on the basis that the Appellant is entitled to deduct additional business expenses in the amounts of $2,865 and $3,328 in respect of parts for auto repairs in the 2001 and 2002 taxation years, respectively, and the penalties shall be adjusted accordingly.
+The appeal from the reassessment made under the Income Tax Act in respect of the 2003 taxation year is dismissed.
+Signed at Ottawa, Canada, this 26th day of October 2011.
+"Réal Favreau"
+Favreau J.
+Citation: 2011 TCC 498
+Date: 20111026
+Docket: 2008-2680(IT)I
+BETWEEN:
+AHMAD A. KHAN ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The Appellant appeals by way of the informal procedure the reassessments made under the Income Tax Act, R.S.C. 1985 c.1 (5th Supp.), as amended (the “Act”), dated March 16, 2006 in respect of the 2001, 2002 and 2003 taxation years. The federal tax at issue in each year is as follows:
+2001: $4,028.56
+2002: $5,956.83
+2003: NIL
+[2] In determining the Appellant’s tax liability for the 2001, 2002 and 2003 taxation years, the Minister of National Revenue (the “Minister”) assumed the following facts set out in paragraph 9 of the Amended Reply to the Notice of Appeal:
+a) in the 2001 and 2002 years, the appellant operated an auto repair business (the “auto repair business”) as a sole proprietorship; (admitted)
+b) in the 2003 year, the Appellant did not operate the auto repair business; (admitted)
+c) in the 2003 year, the Appellant’s son began to operate an auto repair business as a sole proprietorship at the same location where the Appellant had operated his auto repair business; (admitted)
+d) in the 2001, 2002 and 2003 years, the Appellant operated a business providing professional paralegal services (the “paralegal services business”); (admitted)
+e) the Appellant’s books and records were incomplete and inadequate to support the amount of reported revenues and all of the claimed and disallowed expenses of the auto repair business and the paralegal services business; (denied)
+BUSINESS INCOME
+Auto repair business – Unreported revenue
+h) the Appellant reported business income in the amounts of $108,000 and $48,191 for the 2001 and 2002 taxation years, respectively; (admitted)
+i) the Appellant’s total receipts from the auto repair business totaled (sic) $113,954.73 ($106,850 from safety testing and $7,104.73 from other repair work) and $84,252.49 ($76,000 from safety testing and $8,252.49 from other repair work) in the 2001 and 2002 years, respectively; (denied)
+j) the total receipts from the auto repair business included GST Collected/Collectible; (admitted)
+k) the Appellant’s gross revenue was determined as follows:
+2001 2002
+Receipts $113,955 $84,252
+Less: GST Collected/Collectible (7%) 7,455 5,512
+Gross revenue $106,500 $78,741
+(admitted) (denied)
+l) the Appellant incorrectly reported his gross revenue from the auto repair business as follows: (denied)
+2001 2002
+Gross revenue $106,500 $78,741
+Less: Reported revenue 108,000 48,191
+Unreported revenue (over-reported) (1,500) $30,549
+Auto Repairs Business – Disallowed Expenses
+m) any legitimate business expenses incurred in the 2003 year were not expenses of any auto repair business operated by the Appellant but could be considered in determining the Appellant’s income from the paralegal business; (denied as all receipts for both businesses were provided)
+Advertising
+n) the Appellant claimed advertising expenses in the amount of $1,000 for the 2001 taxation year; (admitted)
+o) the Appellant did not pay or incur advertising expenses in the 2001 taxation year; (denied)
+Subcontracts
+p) the Appellant claimed subcontract expenses in the amounts of $68,512 and $32,280 for the 2001 and 2002 years, respectively; (admitted)
+q) the Appellant prepared and submitted to Canada Revenue Agency that T4A slips showing he had a total amount of $21,795 for the 2001 taxation year as employment income to others; (admitted)
+r) the Appellant did not submit any T4A slips to Canada Revenue Agency indicating any amounts paid for the 2002 taxation year; (admitted)
+s) the Appellant incurred subcontracting expenses in amounts no more than $21,795 and $NIL for the 2001 and 2002 taxation years, respectively; (denied because they were incurred and paid)
+Business taxes, fees etc
+t) the Appellant claimed business taxes and other fees as expenses in the amounts of $19,061 and $150 for the 2001 and 2002 years, respectively; (admitted)
+u) the Appellant incurred business taxes and other fees as expenses in amounts no more than $13,184 and $3,550 for the 2001 and 2002 taxation years, respectively; (denied)
+v) the expenses incurred as business taxes and other fees were amounts paid to, or in respect of, the Ministry of Transportation Ontario; (admitted)
+Insurance
+w) the Appellant claimed insurance expenses in the amounts of $4,172 and $2,520 for the 2001 and 2002 years, respectively; (admitted)
+x) the Appellant paid and incurred insurance expenses in amounts no more than $3,742 and $2,169 for the 2001 and 2002 taxation years, respectively; (denied)
+Interest and bank charges
+y) the Appellant claimed interest and bank charges as expenses in the amounts of $17,031 and $24,841 for the 2001 and 2002 years, respectively; (admitted)
+z) the Appellant incurred bank charges as expenses in amounts no more than $423 and $298 for the 2001 and 2002 taxation years respectively; (admitted as interest expenses only)
+aa) the Appellant did not incur any interest expenses in the 2001 and 2002 years for the purpose of gaining or producing business income; (denied)
+Maintenance & Repairs
+bb) the Appellant claimed and incurred maintenance and repairs expenses in the amounts of $4,638 in the 2001 taxation year; (admitted)
+cc) the maintenance and repairs expenses incurred in the 2001 year were with respect of monthly amounts paid to Newcourt Financial Limited ($386.47*12); (admitted)
+dd) the Appellant claimed maintenance and repairs expenses in the amounts of $1,989 in the 2002 taxation year; (admitted)
+ee) the Appellant did not incur maintenance and repairs expenses in the 2002 taxation year; (denied)
+ff) in addition to any amounts claimed as maintenance and repair expenses for the years under appeal, the Appellant also claimed and/or incurred various expenses under the categories of office expenses, supplies and parts for auto repairs in those years; (admitted)
+Rent
+gg) the Appellant claimed rent expenses in the amounts of $22,623 and $9,426 for the 2001 and 2002 taxation years, respectively; (denied with respect to the amount for 2002)
+hh) the Appellant incurred rent expenses in the amounts of $21,144 and $23,343 for the 2001 and 2002 taxation years, respectively; (admitted)
+ii) in addition to the rent expenses specified in paragraph 9hh) above, the Appellant also paid GST on the rent; (admitted)
+Fuel Costs and Motor Vehicle Expenses
+jj) the Appellant claimed fuel costs, and motor vehicle expenses as follows: (admitted)
+2001 2002
+Fuel costs $1,655 $2,000
+Motor vehicle expenses - 2,938
+$1,655 $4,938
+kk) for the 2001 and 2002 taxation years, the appellant did not use his vehicle 50% of the time for business purposes; (denied)
+ll) the Appellant incurred motor vehicle expenses, including fuel costs, for the purposes of gaining or producing business income as follows: (denied)
+2001 2002
+Fuel costs $1,000 $1,000
+Other motor vehicle expenses 6,134 5,159
+Total motor vehicle expenses 7,134 6,159
+Personal usage (50%) 50% 50%
+Business usage (50%) $3,567 $3,080
+Other Expenses
+mm) in addition to the expense categories detailed above, the Appellant claimed and incurred the following expenses for the 2001 and 2002 taxation years: (admitted)
+2001
+2002
+claimed
+incurred
+claimed
+incurred
+Meals and entertainment (50%)
+$ 250
+-
+$ 500
+-
+Management and administration
+-
+-
+175
+-
+Office expenses
+5,270
+1,121
+1,000
+4,370
+Supplies
+4,194
+1,261
+4,809
+-
+Telephone and utilities
+2,929
+4,121
+2,300
+5,427
+Other expenses
+-
+-
+640
+-
+Parts for auto repairs
+_____-
+2,865
+____-
+3,328
+$12,643
+$9,368
+$9,424
+$13,125
+nn) the claimed auto repair business expenses which were disallowed: (denied)
+i) were not paid or incurred, or if paid or incurred, were not paid or incurred for the purpose of gaining or producing income from employment or income from a business or property;
+ii) were personal or living expenses of the Appellant; and/or
+iii) were not reasonable under the circumstances.
+oo) the auto repair business expenses, as claimed by the Appellant, as revised by the Appellant, and as allowed by the Minister, for each of the 2001 and 2002 taxation years, are as set out in Schedule “A”, attached hereto; (denied)
+Paralegal Services Business – Unreported revenue
+pp) the Appellant reported professional income in the amounts of $4,100, $4,000 and $7,000 for the 2001, 2002 and 2003 years, respectively; (admitted)
+qq) the Appellant invoiced and collected a total of $8,190 and $9,975 for paralegal services in the 2002 and 2003 taxation years, respectively; (admitted)
+rr) the total receipts from the paralegal services business collected included GST Collected/Collectible; (denied as no GST was collected)
+ss) the Appellant’s 2001 gross revenue from paralegal services approximated his gross revenue from that source in the 2002 and 2003 years; (ignored)
+tt) the Appellant’s gross revenue was determined as follows: (denied)
+2001 2002 2003
+Receipts $ 8,001 $ 8,190 $ 9,975
+Less: GST Collected/Collectible (7%) 524 536 653
+Gross revenue $ 7,477 $ 7,654 $ 9,322
+uu) the Appellant underreported his gross revenue from the paralegal services business as follows: (denied)
+2001 2002 2003
+Gross revenue $ 7,477 $ 7,654 $ 9,322
+Less: Reported revenue 4,100 4,000 7,000
+Unreported revenue $ 3,377 $ 3,654 $ 2,322
+Paralegal Services Business – Disallowed Expenses
+Subcontracts
+vv) the Appellant claimed subcontract expenses in the amounts of $7,200 and $7,000 for the 2001 and 2002 years, respectively; (admitted)
+ww) the Appellant did not incur any subcontract expenses for the purpose of gaining or producing income in the 2001 and 2002 taxation years; (denied)
+Rent
+xx) the Appellant claimed rent expense in the amount of $2,400 for the 2003 year; (denied because the amount is not correct)
+yy) rent was paid in the amount of $24,443 in respect of the property from which the Appellant operated his auto repair business in 2001 and 2002 and operated his paralegal services business in 2001, 2002 and 2003; (admitted)
+Motor Vehicle Expenses
+zz) the Appellant claimed motor vehicle expenses in the amount of $5,847 for the 2003 year; (admitted)
+aaa) for the 2001 and 2002 taxation years, the appellant did not use his vehicle more than 50% of the time for business purposes; (denied because the % of use for business exceeded 50%)
+bbb) the Appellant incurred motor vehicle expenses, including fuel costs, for the purposes of gaining or producing business income as follows: (denied as more expenses were claimed)
+2003
+Fuel costs $1,000
+Other motor vehicle expenses 5,831
+Total motor vehicle expenses $6,831
+Personal usage (50%) 50%
+Business usage (50%) $3,415
+Other expenses
+ccc) in addition to the expense categories detailed above, the Appellant claimed and incurred the following expense (sic) for the 2003 taxation year: (admitted)
+2003
+claimed
+incurred
+Meals and entertainment (50%)
+$ 250
+-
+Office expenses
+410
+838
+Salaries and wages
+10,000
+Telephone and utilities
+5,000
+Other expenses
+3,000
+Bank fees
+_____-
+246
+$18,660
+$1,084
+ddd) the claimed paralegal services business expenses which were disallowed: (denied)
+i) were not made or incurred, or if made or incurred, were not made or incurred for the purpose of gaining or producing income from employment or income from a business or property;
+ii) were personal or living expenses of the Appellant; and/or
+iii) were not reasonable under the circumstances.
+[3] In imposing penalties for the 2001, 2002 and 2003 taxation years, the Minister relied on the following additional facts set out in paragraph 10 of the Amended Reply to the Notice of Appeal:
+(a) in preparing his returns of income filed for each of the years under appeal, the Appellant failed to include in income all of the gross revenues he received in those years; (denied)
+(b) in preparing his returns of income filed for each of the years under appeal, the Appellant intentionally and knowingly claimed business deductions for personal expenses and overstated business expenses actually incurred in those years; (denied)
+(c) by failing to include in income all of the revenues received and by overstating legitimate business expenses, the Appellant underreported his net business income in the years under appeal by material amounts; (denied)
+(d) the amounts of net business income that the Appellant failed to include in his income for the years under appeal were material both in amount and in relation to reported income; (denied)
+(e) the Appellant was aware, or should have been aware, that all of the income he received in the 2001, 2002 and 2003 taxation years was not reported; (denied)
+(f) the Appellant was aware, or should have been aware, that all of the expenses he claimed as deductions from business income were not incurred for the purpose of gaining or producing income from a business; and (denied)
+(g) the Appellant owed an amount of tax when he filed his 2002 return on October 20, 2003. (denied)
+[4] The Minister also referred to other material facts set out in paragraphs 11 and 12 of the Amended Reply to the Notice of Appeal:
+11. The Minister had intended to allow the Appellant to deduct additional business expenses in the amounts of $2,865 and $3,328 in respect of parts for auto repairs in the 2001 and 2002 taxation years, respectively. Due to a calculation error, those amounts were not included in total expenses allowed. (admitted only in part)
+12. The Appellant was allowed excessive rent expenses for the 2003 taxation year as a deduction against his paralegal services business income. The amount of $24,443 was rent paid in respect of the property from which, in the 2003 taxation year, the Appellant provided his professional services and his son operated an auto repair business. The full amount of the expense was not incurred by the Appellant for the purposes of gaining or producing income from the paralegal services business. (denied)
+[5] The Appellant testified at the hearing and filed the following documents:
+(a) a summary of payments made by Khan Auto Repairs in 2001 showing the T4A slips issued to:
+i) Nazil Ally: $10,155
+ii) Surdev Virk 8,640
+iii) Sharimala Singh 3,000
+Sub-total: $21,795
+and the payments made by cheques to:
+iv) Harnan Kular $13,376
+v) Terry Singh 8,950
+vi) Nazil Ally 3,500
+vii) Zakir Musafir 3,200
+Sub-total: $29,026
+Total: $50,821.
+(b) his income tax return for 2001
+(c) his income tax return for 2002
+(d) his income tax return for 2003
+(e) a letter from the Canada Revenue Agency dated March 31, 2005 showing the proposed adjustments to his income tax returns for the 2001, 2002 and 2003 taxation years
+(f) a notice of objection dated June 14, 2005 filed with the registry of Finance of the Province of Ontario
+(g) a copy of the T4A slips issued by Khan Auto Repairs in respect of the 2001 taxation year
+(h) a copy of the cheques made by Khan Auto Repairs in 2001 to subcontractors
+(i) a statement of expenses made by Khan Auto Repairs in 2001
+(j) a summary of the payments made in 2001 by Khan Auto Repairs for labour costs showing the payments made by cash and by cheques.
+[6] The Appellant explained that his income tax returns for the 2001, 2002 and 2003 taxation years were signed by him but were prepared by a professional tax preparer, Mr. Barrat, based upon the information that he provided, such as the statement of expenses made by Khan Auto Repairs in 2001 referred to in paragraph 5(i).
+[7] The Appellant pointed out the fact that all relevant documents including the bank statements and the cheques to the subcontractors, have been submitted to the Canada Revenue Agency (the “CRA”) in the course of the audit conducted in 2005 and that they have been returned to him. He also explained that he had to retain the services of subcontractors to work in his auto repairs business because he was not able to work as a result of a motor vehicle accident in January 2000 and hip surgery in June 2001.
+[8] The CRA’s tax auditor, Asiya Azim, testified at the hearing. She explained that the books and records of the Appellant were inadequate and incomplete. She received the Appellant’s invoices and receipts listed in Forms T2213 filed as Exhibits R-2 and R-3:
+2001
+- income invoices;
+- Kahn Auto Repairs receipts from February 2001 to December 2001;
+- bank statements
+- income tax statements
+2002
+- invoices and bills
+2003
+- bank statements and cancelled cheques
+- work orders.
+All documents were returned to the Appellant on April 21, 2005 after the completion of the audit.
+[9] With the information contained in the documents referred to in the preceding paragraph, she prepared a schedule for each type of expenses claimed by the Appellant in respect of each business. She requested more information from the Appellant without any success. After several calls and two or three unsuccessful attempts to schedule a meeting with the Appellant, she prepared and sent the March 31, 2005 letter proposing the adjustments to the Appellant’s income tax returns. No representations were made by the Appellant as a result of the proposed adjustments.
+[10] In the course of her testimony, she made the following observations:
+(a) she has conducted both the income tax audit and the goods and services tax audit;
+(b) she allowed the deduction of the amounts for which there were T4As and had rejected the cheques to the subcontractors because there was no evidence they were effectively cashed or deposited and that they were not made for personal expenses. She had not made a reconciliation of the cheques with the bank statements. No T4As and no cheques to subcontractors for 2002 were submitted;
+(c) she has not seen the statement of expenses made by Khan Auto Repairs in 2001, nor a similar statement of expenses in 2002;
+(d) she has not seen the summary of the payments made in 2001 by Khan Auto Repairs for labour costs nor a similar summary for 2002.
+Analysis
+[11] The evidence reveals that the Appellant ceased to operate the auto repairs business in 2002 and that the Appellant’s son began to operate an auto repair business in the same location where the Appellant had operated his auto repair business. The Appellant’s son worked in the auto repairs business of his father during the 2001 and 2002 taxation years but he was not paid for his services as he was then an apprentice. The Appellant’s son nevertheless signed the cheques in 2001 to the subcontractors. No T4As and no cheques to subcontractors were submitted for 2002 and no witnesses testified at the hearing to confirm that they worked for Khan Auto Repairs during the 2001 and 2002 taxation years and that they were effectively paid for their services. Finally, there were some discrepancies between the amounts on the T4As and the total of amounts shown in the summary for labour costs paid in 2001. For example, in the case of Nazil Ally, his T4A for 2001 shows self-employed commissions of $10,155 while the summary shows that he has received a total remuneration of $11,900 in cash and by cheques. In the case of Sharimala Singh, the T4A for 2001 shows self-employed commissions of $3,000 while the summary shows that she has received commissions of $7,665 in cash and $7,950 by cheques respectively.
+[12] In light of the foregoing, the summary of payments made in 2001 by Kahn Auto Repairs for labour costs is not reliable nor corroborated by other evidence. No reasonable or plausible explanations were given by the Appellant as to why certain subcontractors were paid in cash only or by cheques only or by a combination of cash and cheques and why T4As were issued only to three subcontractors and not to all of them.
+[13] Concerning the calculation of the unreported revenue for the auto repairs business and the paralegal services business for the 2001, 2002 and 2003 taxation years, no viva voce or documentary evidence has been submitted by the Appellant to destroy the assumption of facts relied on by the Minister. Clearly, the Appellant has not met his burden of proof. The Appellant has been assessed in accordance with the information that he provided in the course of the audit.
+[14] The Appellant understated his gross business and professional income for the 2001, 2002 and 2003 taxation years by the amounts of $1,877 ($1,500 reduction from the auto repairs business and $3,377 increase from the paralegal services business), $34,204 ($30,550 from the auto repairs business and $3,654 from the paralegal services business) and $2,322 (from the paralegal services business) respectively.
+[15] The Minister applied a late filing penalty pursuant to subsection 162(1) of the Act for the 2002 taxation year and penalties pursuant to section 163(2) of the Act for underreporting business and professional income for the 2001, 2002 and 2003 taxation years.
+[16] Subsection 162(1) of the Act imposes a penalty where a taxpayer fails to file a return as and when required by subsection 150(1) of the Act where tax is payable in respect of the relevant taxation year. Subsection 162(1) reads as follows:
+Failure to file return of income
+162. (1) Every person who fails to file a return of income for a taxation year as and when required by subsection 150(1) is liable to a penalty equal to the total of
+(a) an amount equal to 5% of the person’s tax payable under this Part for the year that was unpaid when the return was required to be filed, and
+(b) the product obtained when 1% of the person’s tax payable under this Part for the year that was unpaid when the return was required to be filed is multiplied by the number of complete months, not exceeding 12, from the date on which the return was required to be filed to the date on which the return was filed.
+[17] In this instance, the Appellant filed his income tax return for 2002 on October 20, 2003 and it was received by the Sudbury taxation office on November 6, 2003. As a result of the audit, the Appellant is liable to pay an amount of federal tax in respect of the 2002 taxation year. The subsection 162(1) penalty has been properly applied for 2002.
+[18] Subsection 163(2) of the Act imposes a penalty where a taxpayer knowingly, or in circumstances amounting to gross negligence, participates in or makes a false statement for the purposes of the Act. The relevant part of subsection 163(2) reads as follows:
+False statements or omissions
+(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+…
+[19] In this instance, it has been established that the Appellant made or participated in, assented to or acquiesced in the making of false statements or omissions in filing his income tax returns for the 2001, 2002 and 2003 taxation years, as a result of which the tax that would have been payable, if assessed by the information provided in the Appellant’s income tax returns filed for those years, was less than the tax in fact payable. In so doing, the Appellant acted, knowingly or under circumstances amounting to gross negligence, in carrying out a duty or obligation imposed under the Act. In the circumstances, the penalties pursuant to subsection 163(2) of the Act were properly applied for those years.
+[20] For those reasons, the appeals from the reassessments made under the Income Tax Act in respect of the 2001 and 2002 taxation years are allowed and the reassessments are referred back to the Minister for reconsideration and reassessments on the basis that the Appellant is entitled to additional business expenses in the amounts of $2,865 and $3,328 in respect of parts for auto repairs in the 2001 and 2002 taxation years, respectively and the penalties shall be adjusted accordingly. The appeal from the reassessment made under the Income Tax Act in respect of the 2003 taxation year is dismissed.
+Signed at Ottawa, Canada, this 26th day of October 2011.
+"Réal Favreau"
+Favreau J.
+CITATION: 2011 TCC 498
+COURT FILE NO.: 2008-2680(IT)I
+STYLE OF CAUSE: Ahmad A. Khan v. Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 1, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: October 26, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Samantha Hurst
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

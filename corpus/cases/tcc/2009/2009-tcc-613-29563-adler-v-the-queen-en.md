@@ -1,0 +1,193 @@
+---
+title: "Adler v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29563/index.do"
+last_modified: "2009-12-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 613"
+citation2: ""
+neutral_citation: "2009 TCC 613"
+decision_date: "2009-12-07"
+language: "en"
+item_id: "29563"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6320
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:42:33.841000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "389f651d4e5a1c0148a6683c4214ada8c5ea9b437ab3549a0e3541188e259842"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Adler v. The Queen
+
+- Citation: 2009 TCC 613
+- Decision date: 2009-12-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6320, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Adler v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-12-07
+Neutral citation
+2009 TCC 613
+File numbers
+2009-1713(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1713(IT)I
+BETWEEN:
+MORTON ADLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on November 19, 2009 at Winnipeg, Manitoba
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brendan Friesen
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act (the “Act”) for the Appellant’s 2005 and 2006 taxation years are dismissed, without costs.
+Signed at Ottawa, Canada, this 7th day of December, 2009.
+“Wyman W. Webb”
+Webb J.
+Citation: 2009TCC613
+Date: 20091207
+Docket: 2009-1713(IT)I
+BETWEEN:
+MORTON ADLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in these appeals is whether the Appellant is entitled to deduct an amount for motor vehicle expenses and an amount for work space in the home expenses in computing his income from employment for 2005 and 2006.
+[2] It is clear from the Reply in this matter that the basis on which the Appellant was reassessed to deny his claim for motor vehicle expenses and work space in the home expenses, is that the Respondent was taking the position that the Appellant was not required to pay for these expenses. The Respondent also raised the issue of whether the Appellant was required to perform his duties of employment away from his employer's place of business or in different places.
+[3] During closing arguments, counsel for the Respondent raised an additional basis for the denial of the expenses. Counsel for the Respondent raised the issue that the expenses should be denied as a result of the application of the provisions of subsection 8(10) of the Income Tax Act (the “Act”). This subsection provides that:
+(10) An amount otherwise deductible for a taxation year under paragraph (1)(c), (f), (h) or (h.1) or subparagraph (1)(i)(ii) or (iii) by a taxpayer shall not be deducted unless a prescribed form, signed by the taxpayer's employer certifying that the conditions set out in the applicable provision were met in the year in respect of the taxpayer, is filed with the taxpayer's return of income for the year.
+The prescribed form is the form T2200 (a copy of which is attached as Schedule “A” to these Reasons).
+[4] However, this basis of reassessment was not addressed anywhere in the Reply. Counsel for the Respondent tried to argue that since the Reply referred to section 8 of the Act that he should be allowed to argue this subsection of section 8. However it is clear from the Reply that this was not the basis for the reassessment. The material fact that would be required for subsection 8(10) of the Act to apply is that the prescribed form was not filed with the income tax return for the year. There is no reference to this fact anywhere in the Reply.
+[5] It is not appropriate for counsel for the Respondent, during closing arguments, to raise a particular provision of the Act as a basis for reassessment when there is no indication in the Reply that the particular provision formed the basis for the reassessment or was an alternative basis for the reassessment.
+[6] Paragraph 6 of the Tax Court of Canada Rules (Informal Procedure) provides that:
+6. (1) Every reply to a notice of appeal shall contain a statement of
+(a) the facts that are admitted,
+(b) the facts that are denied,
+(c) the facts of which the respondent has no knowledge and puts in issue,
+(d) the findings or assumptions of fact made by the Minister when making the assessment,
+(e) any other material facts,
+(f) the issues to be decided,
+(g) the statutory provisions relied on,
+(h) the reasons the respondent intends to rely on, and
+(i) the relief sought.
+[7] Since the potential application of subsection 8(10) of the Act was not identified in the Reply as a reason that the Respondent intended to rely on, the proper procedure would have been for Counsel for the Respondent to bring a Motion to amend the Reply prior to the commencement of the hearing. Notifying the Appellant that the Respondent will make this additional argument is not a substitute for a Motion to amend the Reply.
+[8] The Respondent also cannot rely on subsection 152(9) of the Act, which provides as follows:
+(9) The Minister may advance an alternative argument in support of an assessment at any time after the normal reassessment period unless, on an appeal under this Act
+(a) there is relevant evidence that the taxpayer is no longer able to adduce without the leave of the court; and
+(b) it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+[9] In Walsh v. The Queen, 2007 FCA 222, [2007] 4 C.T.C. 73, 2007 DTC 5441, Chief Justice Richard (as he then was) of the Federal Court of Appeal made the following comments in relation to subsection 152(9) of the Act:
+18 The following conditions apply when the Minister seeks to rely on subsection 152(9) of the Act:
+1) the Minister cannot include transactions which did not form the basis of the taxpayer's reassessment;
+2) the right of the Minister to present an alternative argument in support of an assessment is subject to paragraphs 152(9)(a) and (b), which speak to the prejudice to the taxpayer; and
+3) the Minister cannot use subsection 152(9) to reassess outside the time limitations in subsection 152(4) of the Act, or to collect tax exceeding the amount in the assessment under appeal.
+[10] It seems to me that in addition to the conditions as set out above, the Minister should not be able to circumvent procedural fairness by raising a basis for reassessment during closing arguments that was not disclosed in the Reply. Procedural fairness would dictate that the proper procedure for the Respondent to have followed, if the Respondent had wanted to advance a new basis for the reassessment, would have been for the Respondent to have brought a Motion, prior to the commencement of the hearing, to amend the Reply to include the new basis. It does not seem to me that the provisions of subsection 152(9) of the Act should be interpreted as dispensing with the procedural requirement of amending pleadings to include a new argument. Subsection 152(9) of the Act provides that the Minister may advance an alternative argument at any time but it seems to me that such argument must be advanced in compliance with the rules of this Court and the rules of procedural fairness.
+[11] In Ritonja v. The Queen, 2006 TCC 346, 2006 DTC 3140, Chief Justice Bowman (as he then was) stated that:
+10 To permit the respondent to rely for the first time at trial on a brand new basis of disallowance would violate a fundamental rule of procedural fairness. See Poulton v. Canada, 2002 2 C.T.C. 2405, approved by Federal Court of Appeal in Burton v. The Queen, 2006 D.T.C. 6133. In Poulton, at pages 2408-2410, I set out my view on points raised by the Crown at the last minute against taxpayers who are not represented by counsel.
+[11] On the eve of trial the respondent brought motions to amend the replies to add to sections C and D a reference to paragraph 6(1)(b). The motion was fully argued at the commencement of trial. I denied the respondent's motions and gave fairly extensive oral reasons. I shall summarize them briefly.
+[12] This court and the Federal Court of Appeal have traditionally been fairly liberal in granting amendments….
+…
+[16] Why then did I not allow the amendment here as was done in the above cases? Well, there is a world of difference between large public corporations, and multinationals with batteries of senior counsel to protect them and millions of dollars at stake and small taxpayers, unrepresented by lawyers, with relatively small amounts of money in issue.
+[17] Procedural fairness requires that in cases governed by the informal procedure the Crown not be permitted at the 11th hour to spring a brand new argument on a taxpayer. Had the appellants known from the outset or at least a reasonable time before trial that the Crown was going to rely on paragraph 6(1)(b) their approach might have been entirely different and they could have called evidence to rebut the assertion that the amounts were "allowances" within the meaning of paragraph 6(1)(b) or that they were exempted from the operation of that paragraph by subsection 6(6). Had I granted the Crown's motions and allowed the amendment the appellants would have been entirely justified in requesting an adjournment and this would have resulted in an undue delay of these relatively small informal appeals. I cannot emphasize too strongly that it is of consummate importance that the court in the informal procedure be vigilant to ensure that the unrepresented taxpayer not be deprived of procedural fairness.
+[18] I quite agree that by denying the Crown's motion to amend to refer to paragraph 6(1)(b) I may have deprived it of what might be a very potent argument. However the Crown's loss of these appeals because it slipped up and failed to refer to a provision that might have helped it is not, in the scheme of things, a jurisprudential or fiscal catastrophe. What is far more important is that unrepresented taxpayers in the informal procedure be given every benefit of procedural fairness. To force them to confront the complexities of paragraph 6(1)(b) and subsection 6(6) on the eve of trial would do the administration of justice irreparable damage.
+11 Here, the Crown did not ask for an amendment and, for the reasons given in Poulton, I would probably not have granted it. However, I do not think the Crown can be in a better position by raising an unpleaded issue at trial than it would be if it had asked for and been denied an adjournment.
+[12] In the Federal Court of Appeal in Burton v. The Queen, 2006 FCA 67, [2006] 2 C.T.C. 286, 2006 DTC 6133, Justice Rothstein (as he then was) stated that:
+14 The question of whether to allow an amendment to pleadings and if so whether a recess or adjournment is appropriate is, of course, a matter of discretion. I do not read Bowman A.C.J.T.C. to purport to lay down fixed rules for dealing with such occurrences. However I do think he was providing some guidance as to the practical considerations to be taken into account by a Tax Court judge in exercising discretion in these cases.
+…
+17 The relevant considerations are, first, that the taxable benefits at issue are $6,348.00 for the year 2000 and $4,801.00 for the year 2001. The amounts of tax involved are of course, only a percentage of these figures -- according to the appellant about forty percent. The amounts involved therefore are relatively small.
+18 Second, the matter involved taxation years that were some four and five years old at the time of trial.
+19 Third, the appellant is self-represented. He was justified in expecting that the Minister's original Reply was the basis for the assessment and restricting his preparation to the statutory provisions relied upon by the Minister in that Reply. Section 6 of the Income Tax Act is drafted in a manner that contains exceptions and exceptions to exceptions and is therefore not straightforward. This is not a case in which the Minister's error in not referring to paragraph 6(1)(l) in the original Reply was self-evident and in respect of which, the appellant should have anticipated an amendment.
+20 Having regard to these considerations, I would exercise my discretion to refuse to allow the amendment to add paragraph 6(1)(l) of the Income Tax Act to the Minister's Reply in the Tax Court. As the assessment of the appellant in respect of automobile expenses cannot be supported by any other provision of section 6 of the Act, the assessment cannot be sustained.
+[13] In this case the Respondent did not request that the Reply be amended and should not be in a better position than if such a request would have been made. It is far from clear whether the Respondent would have been permitted to amend the Reply at the hearing, if such a request would have been made. In this case the material fact that is relevant to the application of subsection 8(10) of the Act is whether the Appellant filed the prescribed form with his tax return. This is not a fact that only the Appellant would know and presumably the Respondent would at least be in an equal position to state what the Appellant did or did not file with his tax return. It is possible in this case that the auditor and the appeals officer for the Canada Revenue Agency may have decided that it would have been unfair to reassess the Appellant on the basis that the T2200 form had not been filed with his income tax return. The T2200 form (which was prepared by the Canada Revenue Agency) clearly stated at the top of the form that “[t]he employee does not have to file this form with his or her return, but must keep it in case we ask to see it”. Although the form cannot amend the Act and cannot change the statutory requirement to file the prescribed form with the tax return, given the clear language printed on the form, it does seem unfair to the Appellant to reassess him on the basis that the form was not filed with his tax return. The unanswered questions in relation to this issue (which would have to be answered if the issue had been properly pleaded), are whether the Minister can waive compliance with the requirements of subsection 8(10) of the Act and, if so, whether the Minister has waived compliance with the requirements of this subsection by printing forms that clearly state that the employee does not have to file the prescribed form with his or her tax return.
+[14] In this case the Appellant deducted the motor vehicle expenses and the work space in the home expenses in determining his income from employment. The Appellant was employed by Island Ink-Jet Manitoba Ltd. The Appellant was also the sole shareholder, officer and director of Island Ink-Jet Manitoba Ltd. Island Ink-Jet Manitoba Ltd. carried on its business of refilling printer cartridges from a kiosk in a mall in Winnipeg.
+[15] Subsection 8(2) of the Act provides that:
+(2) Except as permitted by this section, no deductions shall be made in computing a taxpayer's income for a taxation year from an office or employment.
+[16] Therefore it is necessary to determine whether the Appellant satisfies the conditions as provided in section 8 for the deductions as claimed. The Appellant did not in his Notice of Appeal or during the hearing indicate which paragraphs of subsection 8(1) of the Act he was relying upon to support his claim for the deduction for motor vehicle expenses and work space in the home expenses. Counsel for the Respondent dealt with paragraphs 8(1)(h.1) and 8(1)(i) of the Act[1].
+[17] Paragraphs 8(1)(h.1), and (i) (in part) of the Act provide as follows:
+8. (1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+…
+(h.1) where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for motor vehicle expenses that was, because of paragraph 6(1)(b), not included in computing the taxpayer's income for the year, or
+(iv) claims a deduction for the year under paragraph (f);
+…
+(i) amounts paid by the taxpayer in the year as
+…
+(ii) office rent, or salary to an assistant or substitute, the payment of which by the officer or employee was required by the contract of employment,
+(iii) the cost of supplies that were consumed directly in the performance of the duties of the office or employment and that the officer or employee was required by the contract of employment to supply and pay for,
+(emphasis added)
+[18] One common thread running through these provisions is that the employee must be required under his contract of employment to pay the expenses in question in order to be entitled to claim the deduction. Paragraph 8(1)(h.1) of the Act also provides that the employee must be required to carry on the duties of employment away from the employer's place of business or in different places. Subparagraph 8(1)(i)(iii) of the Act also provides that the employee must be required to provide the supplies, the cost of which the employee is seeking to deduct.
+[19] The issue in this case is whether the Appellant was required under his contract of employment to pay for the expenditures that he incurred.
+[20] The Federal Court of Appeal in The Queen v. Cival, [1983] 2 F.C. 830 stated as follows:
+I am prepared to assume for purposes of this appeal that Mr. Cival could enter into an individual contract with his employer, covering an aspect of his employment, despite his being covered by the collective agreement, so long at least as the contract was not inconsistent with the terms of the agreement. [See Re Nova Scotia Civil Service Commission and Nova Scotia Government Employees Association (1980), 24 L.A.C. (2d) 319.] In my view, the arrangement between Mr. Cival and his employer, if a contract at all, was at most what is sometimes called a unilateral contract. [See S.M. Waddams, The Law of Contracts, c. 4, "Unilateral Contracts"] It was an arrangement under which his employer undertook to reimburse him on a mileage basis for expenses he incurred in using his car in the performance of his duties. I do not interpret the arrangement as involving a promise by Mr. Cival to use his car in performing his duties and to pay the expenses out of his own pocket in return for an undertaking by his employer to reimburse him. To put it another way: as I see the arrangement, Mr. Cival was not contractually bound to use his car in doing his job and to pay the expenses involved: if at any time during 1977 he had refused to use his car for this purpose, he would not have been suable by his employer for breach of contract. It follows that, to adopt the words used in subparagraph 8(1)(h)(ii), he was not required under his contract of employment to pay the expenses incurred by him in using his car in the performance of the duties of his employment. This is enough to dispose of the appeal.
+(emphasis added)
+[21] In the subsequent case of Hoedel v. Her Majesty The Queen, 86 DTC 6535 the Federal Court of Appeal stated that:
+With every deference to the trial judge, I do not think this conclusion was open to him on this record. The uncontradicted evidence of the appellant and of Sergeant Forbes, his superior officer, makes it perfectly clear, in my view, that it was mandatory for the appellant to take the dog along with him when he was off-duty. The rationale for this provision, according to Sergeant Forbes, was '. . .to better socialize the dog.' He explained that the socialization of the dog began during a twelve week training course. It was necessary to continue the socialization program following completion of the course. The witness characterized this program as a continuing process, the object being to teach the dog to respond to his trainer better by eliminating a 'pack instinct' or a 'pack environment'. At page 84 of the Case, Sergeant Forbes stated unequivocally, that transportation of the dog during off-duty hours was a condition of the appellant being a member of the C.D. I am unable to agree with the view of the trial judge that since non-compliance with this condition would not result in disciplinary action, it was, in reality, only a minor matter and therefore not a condition of employment. The evidence is all to the contrary. Sergeant Forbes said that non-compliance with the provision would likely result in a bad work performance evaluation which could affect a member's future in the police force for years to come. This is surely a very serious matter with highly undesirable consequences for the employee concerned. When this evidence is coupled with the evidence summarized supra relating to the importance of the dog accompanying the member at all times, I fail to see how it is possible to conclude that the condition in issue is not a 'requirement' of the appellant's duties of employment. I also think the evidence establishes that the condition is one which is ordinarily and regularly 'required'. I would add, moreover, that even if, as the trial judge held, the requirement to transport the dog was something which, if he failed in its performance 'would not be questioned by way of disciplinary action but rather in the yearly evaluation of his work performance in the C.D.' (Case p. 48), it by no means follows that such transport was not a duty of his employment. On the contrary, if an employee's failure to carry out a task can result in an unfavourable assessment by his employer, it would seem to me that such a circumstance is compelling evidence that the task in issue is a duty of employment.
+(emphasis added)
+[22] Therefore, it seems to me that in order for the Appellant to satisfy the requirement that he was required to pay for the expenditures that were incurred the Appellant would have to establish that there would be some consequences that would be detrimental to the Appellant if he failed to fulfill the obligation. In this particular case, what consequences would arise if the Appellant refused to incur the expenditures? Since the Appellant was the sole officer, director and shareholder of his employer it seems obvious that if the Appellant were to refuse to incur the expenditures that there would be no adverse consequences for him. One cannot imagine the Appellant, as President of Island Ink-Jet Manitoba Ltd., seeking to have the company sue the Appellant for breach of contract, taking any disciplinary action, or writing a poor performance review of the Appellant. Therefore, it seems to me that he chose to pay these amounts personally rather than have the company pay for these expenditures (either directly or by reimbursing the Appellant) and that the Appellant was not required to do so as an employee. There would be no consequences detrimental to the Appellant, if he did not personally pay the expenses or carry out the duties.
+[23] As a result, the Appellant is not entitled to deduct the amounts claimed as motor vehicle expenses and work space in the home expenses in computing his income from employment for 2005 and 2006.
+[24] The appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 7th day of December, 2009.
+“Wyman W. Webb”
+Webb J.
+Schedule“A”
+CITATION: 2009TCC613
+COURT FILE NOS.: 2009-1713(IT)I
+STYLE OF CAUSE: MORTON ADLER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: November 19, 2009
+REASONS FOR JUDGEMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: December 7, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brendan Friesen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1]Since the Appellant’s income did not include commissions, paragraph 8(1)(f) of the Act would not be applicable.

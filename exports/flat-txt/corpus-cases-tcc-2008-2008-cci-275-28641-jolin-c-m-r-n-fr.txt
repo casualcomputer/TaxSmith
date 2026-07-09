@@ -1,0 +1,126 @@
+Title: Jolin c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28641/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-275-28641-jolin-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-05-02
+
+# Jolin c. M.R.N.
+
+- Citation: 2008 CCI 275
+- Decision date: 2008-05-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1138, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jolin c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-02
+Référence neutre
+2008 CCI 275
+Numéro de dossier
+2005-4340(EI)
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Référence : 2008CCI275
+Date : 20080502
+Dossiers : 2005-4340(EI)
+2005-4341(CPP)
+ENTRE :
+MARC JOLIN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Pour l’appelant : L’appelant lui-même
+Avocat de l’intimé : Me Fréderic Morand
+MOTIFS DU JUGEMENT
+(Prononcés oralement à l’audience,
+le 12 juin 2007, à Hamilton (Ontario)).
+Le juge McArthur
+[1] Les présents appels sont interjetés à l’encontre de décisions rendues par le ministre du Revenu national suivant la Loi sur l’assurance-emploi et le Régime de pensions du Canada. Il s’agit de savoir si Guylain Ledoux-Gravel (« Guylain ») était un employé ou un entrepreneur indépendant de l’appelant (« Marc ») pour la période du 1er janvier 2003 au 3 mai 2004. L’audience s’est déroulée en français à Hamilton, en Ontario.
+[2] D’abord, il y avait trois points quelque peu troublants pour lesquels je vais faire des commentaires. Premièrement, la langue maternelle de Marc est le français, bien qu’il travaille en anglais et qu’il soit plus à l’aise d’utiliser l’anglais, comme il le fait depuis l’âge de 15 ans dans le sud de l’Ontario. Il a maintenant 47 ans. Son épouse est une anglophone unilingue; il avait déposé son avis d’appel et toute la correspondance en anglais et il avait demandé que l’audience ait lieu en anglais. Toutefois, l’intimé a demandé que l’audience soit tenue en français parce que son témoin, Guylain, est beaucoup plus à l’aise en français et qu’il aurait eu besoin d’un interprète. Marc, qui est accommodant, et dont la langue maternelle est le français, a accepté que l’audience soit tenue en français, et je pense qu’il expliquait les débats à son épouse durant les suspensions d’audience périodiques. Je pense que l’intimé aurait dû demander un interprète pour Guylain plutôt que de demander que toute l’audience soit tenue en français. Il s’agit d’un appel interjeté par Marc et non par l’intimé, mais je dois ajouter que je me considère comme privilégié d’avoir entendu l’affaire dans les deux langues officielles.
+[3] Le deuxième point qui me préoccupe est que l’avocat de l’intimé a demandé un ajournement de la présente audience parce que des appels semblables, portant sur des faits semblables se rapportant aux mêmes périodes, avaient récemment été déposés et qu’il voulait que tous les appels soient entendus en même temps. La demande a été refusée, à juste titre. À cet égard, Marc s’est opposé en déclarant ce qui suit :
+[traduction]
+Après avoir passé trois ans de ma vie à subir des ajournements et des reports de dates d’audience, sans mentionner le stress et le harcèlement que m’a fait subir Revenu Canada, je suis tout à fait opposé à ce qu’un ajournement ait lieu à ce moment et je tiens vivement à me faire entendre le 11 juin 2007.
+Il est évident que chaque appel devrait être entendu selon les faits qui lui sont propres. Les travailleurs comme Guylain sont tous différents et n’ont pas tous le même profil, et chaque situation doit faire l’objet d’une audience distincte et être examinée individuellement. Cela dit, il serait probablement plus pratique que le même juge entende chaque appel à la suite les uns des autres.
+[4] Un troisième point préoccupant est que Guylain a témoigné que, au cours de la période en cause, il y avait une période de quatre mois pendant laquelle il n’avait pas travaillé pour l’appelant et qu’il avait toujours soutenu ce fait au ministre; ce dernier n’en a toutefois pas tenu compte.
+[5] Tous les témoins m’ont laissé une bonne impression. Je dois de plus mentionner qu’un témoin au début de l’audience, un des frères de Marc qui travaille de la même manière que Marc, a exposé un certain contexte à l’égard du travail d’un entrepreneur dans la région de Hamilton. Marc est un ouvrier de la construction qui travaille fort et qui n’a pas fait de longues études, mais qui a appris à la rude école. Il comprend peu l’alinéa 5(1)a) de la Loi et, évidemment, il n’a jamais entendu parler des arrêts Wiebe Door Services Ltd. v. M.N.R.[1] et 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[2], auxquels on renvoie fréquemment.
+[6] De la même façon, Guylain est un travailleur aimable et simple et, sur l’invitation de Marc, il est venu à Hamilton, en autobus en provenance de Rouyn-Noranda à l’âge de 19 ans, pour travailler et gagner de l’argent. Il avait travaillé pendant trois ans dans le nord-ouest du Québec dans des restaurants, et dans la rénovation domiciliaire, sans jamais gagner plus de 7 $ l’heure. Il a commencé à travailler avec Marc à un salaire de 10 $ l’heure, ce qui était selon ce qu’il a déclaré une énorme augmentation.
+[7] Dans les présents appels, Guylain avait l’appui de l’intimé, et Marc se sentait quelque peu isolé dans le sens qu’il n’avait pas un appui semblable. Je pense que Guylain connaissait les différences fondamentales ou légales entre un entrepreneur et un employé. J’estime que les deux témoins sont fondamentalement honnêtes. Ils ont de façon évidente tous deux enjolivé leur témoignage pour répondre aux besoins de l’heure. Lorsqu’on lui a demandé quelle était la différence entre un employé et un entrepreneur, Marc a dit qu’il s’agissait principalement de savoir s’il y avait sur le chèque de paie du travailleur les habituelles retenues de l’employé, notamment l’impôt, les cotisations d’assurance-emploi, les contributions au Régime de pension du Canada, les cotisations d’indemnisation des accidentés du travail, etc. Il a en outre déclaré que toute l’industrie de la construction dans le sud de l’Ontario est basée sur le fait que tous les travailleurs sont des entrepreneurs – j’utilise ce terme dans le sens d’entrepreneur indépendant – dans des situations comme celle des présents appels et que le fait de tirer une conclusion contraire perturberait l’industrie dans son ensemble.
+[8] Des hypothèses de fait extraites de la réponse à l’avis d’appel, auxquelles j’ajoute mes commentaires, incluent ce qui suit. Les alinéas a) à g) sont exacts.
+[traduction]
+a) L’appelant, agissant sous le nom de M & M Carpentry, était un sous-traitant qui exploitait une entreprise consistant à monter des charpentes de maisons dans l’industrie de la construction.
+b) Marc, en tant que sous-traitant, participait à la construction par Penco, l’entrepreneur, d’une résidence de 300 unités pour des personnes âgées.
+c) Le travailleur a été engagé par l’appelant en août 2002.
+d) Le travailleur travaillait pour l’appelant à titre de menuisier-monteur de charpentes de même qu’à titre d’ouvrier de la construction pour d’autres tâches variées.
+e) Les fonctions du travailleur incluaient du travail se rapportant à la charpente, à la toiture, au plancher, à la pose de cloisons sèches, et il apportait des matériaux, de l’équipement et des fournitures à d’autres travailleurs.
+f) Le travailleur travaillait sur les chantiers de construction sur lesquels l’appelant était un sous-traitant d’un entrepreneur général.
+g) Le travailleur n’avait pas d’expérience lorsqu’il a été engagé et l’appelant l’aidait à accomplir ses tâches au moyen de la formation pratique au travail.
+L’alinéa g) est essentiellement exact, même si Guylain avait travaillé dans le passé dans la rénovation domiciliaire et possédait certains petits outils.
+[traduction]
+h) L’appelant établissait et contrôlait les horaires du travailleur. Il conservait un registre précis des heures du travailleur.
+Marc conservait de façon certaine un registre précis et je vais traiter du contrôle plus loin dans les présents motifs.
+[traduction]
+i) Le travailleur travaillait pour l’appelant à plein temps, habituellement de 35 à 40 heures par semaine et parfois plus de 40 heures par semaine.
+Cette hypothèse est exacte pour la période en cause, sauf pour les quatre mois pendant lesquels Guylain, selon ce qu’il a déclaré dans son témoignage, ne travaillait pas pour Marc, ce que Marc a reconnu.
+[traduction]
+j) Le travailleur travaillait sous la direction et la supervision de l’appelant ou de son assistant.
+Dans l’ensemble, cette hypothèse est exacte.
+[traduction]
+k) Le travaillait fournissait certains outils à main et l’appelant fournissait tous les principaux outils, tout l’équipement et tout le matériel.
+Une fois de plus, cette hypothèse est en partie exacte. J’ai été incapable d’établir selon la preuve si l’appelant fournissait les principaux outils. Il possédait un chariot élévateur à fourches, mais aucun élément de preuve n’établissait qui le conduisait. Guylain ne fournissait aucun matériel même s’il avait la plus grande partie de l’équipement nécessaire pour ses petits outils. Les deux alinéas suivants sont exacts :
+[traduction]
+l) Le travailleur recevait une rémunération basée sur un salaire horaire qui était établi par l’appelant.
+m) Au départ, le travailleur était payé 10 $ l’heure, pendant deux mois, puis a eu une augmentation à 12 $ l’heure jusqu’en juin 2003, puis a reçu 13 $ l’heure à compter d’environ la mi-avril 2004, alors qu’il a eu une augmentation à 14 $ l’heure pour ses deux dernières semaines de travail.
+n) Le travailleur était payé chaque semaine par chèque.
+En fait, Guylain était payé toutes les deux semaines. Je vais traiter plus loin des deux alinéas suivants :
+[traduction]
+o) L’appelant avait le droit de contrôler le travailleur et l’exécution de ses tâches et responsabilités.
+p) Le travail du travailleur était totalement intégré dans les activités de l’appelant.
+[9] Marc a invité Guylain, par l’intermédiaire d’amis communs, à venir de Rouyn-Noranda pour travailler dans le domaine de la construction dans le sud de l’Ontario; Guylain s’attendait à gagner plus de 7 $ l’heure. Il a pris un autobus à Rouyn-Noranda pour se rendre à Toronto en août 2002, a passé la nuit chez un parent à Toronto, a pris un autobus tôt le matin en direction d’Oakville où Marc est allé le chercher et l’a conduit au chantier de travail. Il a commencé à travailler le même matin à la charpente d’une résidence de 300 unités pour personnes âgées. Il avait quelques petits outils et peu d’expérience.
+[10] D’autres personnes qui travaillaient avec Marc, et en particulier Paul, le frère de Marc, ont pris Guylain sous leur aile et lui ont montré les rudiments du métier. Il a été bien accueilli et il a appris rapidement ce qu’il devait faire. Il a vécu chez Marc le premier mois, puis il a trouvé un endroit où habiter quand il en a eu les moyens. Pendant plus d’un an, il s’est rendu au chantier de travail avec un autre travailleur, Charles, quittant chaque jour sa résidence à 7 heures et y revenant après 17 heures. Au fil des mois en 2002 et 2003, il a acquis de l’expérience, a acheté ses propres outils et est devenu plus autonome. Il a décrit cela comme être « débrouillard ». Marc était satisfait de ses aptitudes, comme l’étaient ses collègues de travail.
+[11] Marc a accepté des contrats de l’entrepreneur principal, Penco, une société internationale de construction, à compter d’au moins le mois d’août 2002 jusqu’en mai 2003. Il a expliqué qu’il pouvait accepter de faire des charpentes et d’autres travaux pour un montant estimé, par exemple environ 20 000 $, selon l’importance de l’ouvrage, dans une certaine période. Lui et ses frères invitaient alors d’autres travailleurs à participer à ce contrat ou en engageaient, bien que de façon claire, dans le cas de Guylain, Marc et ses frères étaient les patrons. Ils lui disaient où travailler, quoi faire, comment le faire et ils lui payaient toutes les deux semaines une rémunération à un salaire horaire établi.
+[12] Ayant à l’esprit le critère établi dans l’arrêt Wiebe Door, de même que l’arrêt Sagaz de la Cour suprême du Canada, je fais les commentaires ci-après exposés. Marc exerçait un contrôle sur Guylain, bien que ce contrôle ait été réduit à mesure que les mois passaient vers août ou septembre 2003. Marc a obtenu du travail de Penco pour les neuf premiers mois, puis d’entrepreneurs en construction résidentielle. Il disait à Guylain où il devait aller travailler. Son frère Paul consignait le nombre d’heures de travail de Guylain, le payait toutes les deux semaines et lui disait ce qu’il devait faire. À mesure que Guylain prenait de l’expérience, il pouvait travailler par lui-même avec ses propres petits outils, comme un marteau, une scie circulaire, une barre à clous, un ruban à mesurer, etc. Le critère du contrôle favorise l’intimé. En outre, le critère des profits ou pertes favorise également l’intimé. Guylain recevait une rémunération établie pour chaque heure qu’il travaillait. Il n’était pas payé selon son rendement ou pour des heures qu’il ne travaillait pas. Le critère des instruments favorise probablement la position de Marc. À l’égard de l’intégration, Guylain faisait partie d’une équipe et il ne travaillait pas en tant qu’entrepreneur indépendant individuel, notamment au cours de la première année, du mois d’août 2002 au mois de septembre ou octobre 2003, en association avec Marc.
+[13] Comme l’arrêt Sagaz l’indique, une question importante à poser dans des affaires comme celle en l’espèce est celle de savoir « à qui appartenait l’entreprise? » Il ne s’agissait certainement pas de l’entreprise de Guylain. Sa connaissance de l’anglais et ses ressources financières étaient limitées. Il se fiait à Marc et à son frère ou à ses frères. De plus, « où sont les deux hommes maintenant? » Marc continue à travailler fort dans le domaine de la construction dans la région d’Hamilton. En raison de ses incertitudes à l’égard du statut d’employé par rapport à celui d’entrepreneur indépendant, il n’engage plus de travailleurs comme il l’a fait dans le passé et il travaille seul. Cette situation est plutôt regrettable. Guylain est retourné dans le nord-ouest du Québec pour des raisons personnelles et il a suivi une formation en comptabilité. Je pense qu’il travaille dans l’industrie minière à Baie-Comeau, au Québec, et qu’il a sa propre petite entreprise. À leur honneur, il semble qu’il y ait peu ou pas d’animosité entre Marc et Guylain.
+[14] À la fin des observations de l’intimé, j’ai déclaré que j’accueillerais l’appel, mais seulement dans la mesure où Guylain était un employé de l’appelant du 1er janvier 2003 au 31 octobre 2003. Il n’était pas un employé entre le 1er novembre 2003 et le 3 mai 2004 pour les motifs ci-après exposés.
+[15] Il n’a pas travaillé pour l’appelant à compter d’au moins décembre 2003 jusqu’au 28 février 2004. Je pense que les deux parties ont présenté de la preuve établissant qu’il n’a pas travaillé pour Marc pendant quatre mois. Pour ce motif, et prenant en outre en compte le fait que Guylain est devenu plus autonome, j’inclus le mois de novembre.
+[16] Je conclus en outre que lorsque Guylain est revenu auprès de l’appelant en mars 2004, il était plutôt un entrepreneur indépendant. Malheureusement, il avait déclaré faillite et il se rendait au chantier de travail en autobus et à pied, se présentant parfois au travail à onze heures ou parfois ne s’y présentant pas du tout. Cela ne semblait pas préoccuper Marc qui estimait que Guylain pouvait aller et venir à son gré. En outre, durant cette période, Guylain avait ses propres outils et il travaillait sans qu’on lui donne des instructions, mais il avait de la difficulté à lire des plans d’architecte et il avait besoin de certaines directives. Il était payé pour les heures qu’il travaillait, sans retenues. Rien de plus, rien de moins.
+[17] En conclusion, les appels sont accueillis de manière à refléter que le travailleur occupait auprès de l’appelant un emploi assurable ouvrant droit à pension au sens de la Loi et du Régime, mais seulement pour la période du 1er janvier 2003 au 31 octobre 2003, et n’occupait pas un emploi assurable ou ouvrant droit à pension pour la période du 1er novembre 2003 au 3 mai 2004.
+Signé à Ottawa, Canada, ce 2e jour de mai 2008.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 29e jour de mai 2008.
+Danièle Laberge, LL.L.
+RÉFÉRENCE : 2008CCI275
+Nos DES DOSSIERS DE LA COUR : 2005-4340(EI) et 2005-4341(CPP)
+INTITULÉ : MARC JOLIN et MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 12 juin 2007
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 15 juin 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Fréderic Morand
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : N/A
+Cabinet : N/A
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 87 DTC 5025.
+[2] [2001] 2 R.C.S. 983.

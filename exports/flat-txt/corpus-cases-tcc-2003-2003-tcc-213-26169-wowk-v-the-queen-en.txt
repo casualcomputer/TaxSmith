@@ -1,0 +1,151 @@
+Title: Wowk v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26169/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-213-26169-wowk-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-04-04
+
+# Wowk v. The Queen
+
+- Citation: 2003 TCC 213
+- Decision date: 2003-04-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3967, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wowk v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-04
+Neutral citation
+2003 TCC 213
+File numbers
+2002-98(IT)I
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-98(IT)I
+BETWEEN:
+GEORGE ANDREW WOWK,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 28, 2002, at Calgary, Alberta,
+Before: The Honourable Judge M.A. Mogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gwen Mah
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1999 taxation year is dismissed.
+Signed at Ottawa, Canada, this 4th day of April, 2003.
+"M.A. Mogan"
+J.T.C.C.
+Citation: 2003TCC213
+Date: 20030404
+Docket: 2002-98(IT)I
+BETWEEN:
+GEORGE ANDREW WOWK,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan J.
+[1] This appeal is from an assessment of interest and penalty with respect to the Appellant's 1999 taxation year. The principal fact underlying the assessment of the penalty is a number of income tax returns for years preceding 1999 which were filed late. Certain relevant facts were stated by the Appellant during his brief testimony. Other relevant facts were assumed by the Minister of National Revenue as set out in the Reply to the Notice of Appeal, and not challenged by the Appellant. Copies of the Appellant's income tax returns for 1998 and 1999 are part of the Appellant's Exhibit A-1. A copy of a letter dated September 11, 2001 (a date now famous in North American history!) from Canada Customs and Revenue Agency ("CCRA") to the Appellant, with attached schedules, is Exhibit A-2. Relying on these documents and the Appellant's oral testimony, I will attempt to summarize the relevant facts in a chronological order.
+[2] Concerning the 1994 taxation year, the Minister issued a request on February 27, 1996 to file a return. On April 12, 1996, the Minister issued a demand to file a return. The Appellant filed his 1994 return on May 6, 1996, about one year late.
+[3] Concerning the 1995 taxation year, the Minister issued a request on January 23, 1997 to file a return. On March 20, 1997, the Minister issued a demand to file a return. The Appellant filed his 1995 return on October 9, 1997, about seventeen months late.
+[4] Concerning the 1996 taxation year, the Appellant was in business and therefore not required to file his return until June 15, 1997. The Appellant filed his 1996 return on February 26, 1998, about eight months late. When assessing the Appellant with respect to his 1996 taxation year, the Minister assessed a late-filing penalty in the amount of $84.79.
+[5] Concerning the 1999 taxation year (the year under appeal), the Appellant was in business and therefore not required to file his return until June 15, 2000. On September 7, 2000, the Minister issued to the Appellant a demand to file a return for the 1999 taxation year. The Appellant filed his 1999 return on January 15, 2001, more than six complete calendar months after the due date. When assessing the Appellant with respect to his 1999 taxation year, the Minister assessed a late-filing penalty in the amount of $1,499.70.
+[6] The Appellant's tax payable for the 1999 taxation year was not fully paid when the return was required to be filed on June 15, 2000. The amount unpaid at June 15, 2000 was $6,816.83 computed as follows:
+Provincial Tax
+$5,977.05
+Federal Tax
+12,684.86
+Total Tax
+18,661.91
+Less: Tax Deductions at Source
+11,845.08
+1999 Tax Payable
+$6,816.83
+[7] The Minister assessed a late-filing penalty for 1999 in the amount of $1,499.70 computed as follows:
+Tax Payable x 10% = $6,816.83 x 10%
+$681.68
+Plus:
+Tax Payable x (2% x number of complete months, not exceeding 20, from the date on which the return was required to be filed to the date the return was filed) = $6,816.83 x 12%
+818.02
+Late Filing Penalty
+$1,499.70
+[8] The Appellant has appealed against the late-filing penalty for 1999 and certain interest for late-paid taxes. In particular, he objects to the double penalty of 10% plus 2% for each complete month after due date. The late-filing penalty is imposed under subsection 162(2) of the Income Tax Act which provides:
+162(2) Every person
+(a) who fails to file a return of income for a taxation year as and when required by subsection 150(1),
+(b) on whom a demand for a return for the year has been served under subsection 150(2), and
+(c) by whom, before the time of failure, a penalty was payable under this subsection or subsection (1) in respect of a return of income for any of the 3 preceding taxation years
+is liable to a penalty equal to the total of
+(d) an amount equal to 10% of the person's tax payable under this Part for the year that was unpaid when the return was required to be filed, and
+(e) the product obtained when 2% of the person's tax payable under this Part for the year that was unpaid when the return was required to be filed is multiplied by the number of complete months, not exceeding 20, from the date on which the return was required to be filed to the date on which the return was filed.
+[9] Subsection 162(2) is one of the relatively few provisions of the Income Tax Act which is clear as to its meaning and application. The Appellant has satisfied the first three conditions because (a) he failed to file his 1999 return as and when required; (b) the Minister issued a demand to the Appellant on September 7, 2000 to file a return for 1999; and (c) before the time of failure (June 15, 2000), the Appellant was liable to pay a penalty under subsection 162(1) for the 1996 taxation year (one of the three preceding years). The late-filing penalty described in paragraph 7 above is an exact application of paragraphs (d) and (e) of subsection 162(2) because the 10% is prescribed; and 2% for each complete month of "lateness" works out to 12% for six complete months. The Appellant's appeal is dismissed with respect to the late-filing penalty.
+[10] The interest which may be assessed for late-paid taxes is set out in section 161 of the Act which provides in subsection (1):
+161(1) Where at any time after a taxpayer's balance-due day for a taxation year
+(a) the total of the taxpayer's taxes payable under this Part and Parts I.3, VI and VI.1 for the year
+exceeds
+(b) the total of all amounts each of which is an amount paid at or before that time on account of the taxpayer's tax payable and applied as at that time by the Minister against the taxpayer's liability for an amount payable under this Part or Part I.3, VI or VI.1 for the year,
+the taxpayer shall pay to the Receiver General interest at the prescribed rate on the excess, computed for the period during which that excess is outstanding.
+The "balance-due day" is defined as follows in subsection 248(1):
+248(1) In this Act
+"balance-due day" of a taxpayer for a taxation year means,
+(a) ...
+(b) where the taxpayer is an individual who died after October in the year and before May in the following taxation year, the day that is 6 months after the day of death,
+(c) in any other case where the taxpayer is an individual, April 30 in the following taxation year, and
+(d) ...
+[11] Because the Appellant is a living individual, his balance-due day for 1999 is April 30, 2000 without regard to whether his 1999 income tax return was required to be filed by April 30 or June 15, 2000. Part of Exhibit A-1 is a copy of the Appellant's 1998 income tax return which was required to be filed either by April 30 or June 15, 1999. The Appellant in fact filed his 1998 income tax return on or about October 3, 2000, more than 15 months late. In his 1998 return, he claimed a refund of $3,510.50 and made the following hand-written notation on page 4 of his return: "I may owe for 1999 so please do not refund me the $3,510.50".
+[12] The Notice of Assessment for 1998 (also part of Exhibit A-1) shows that the Minister determined that the Appellant was entitled to a refund of $3,586.78 for 1998. The Appellant argued that, in assessing the interest payable by him for 1999, he should have been given credit for his 1998 refund of $3,586.78 from April 30, 2000 (his "balance-due day" for 1999). According to the computations set out on Schedule "B" to the Respondent's Reply, the Minister gave the Appellant credit for the 1998 refund of $3,586.78 only from October 30, 2000.
+[13] Respondent's counsel argued that the Minister was not authorized to apply the 1998 refund of $3,586.78 to the Appellant's 1999 taxation year until the Minister received the Appellant's 1998 return in early October 2000 (late-filed) with the handwritten notation described in paragraph 11 above. In other words, the Minister was not instructed to apply the 1998 refund to 1999 taxes until October 2000; and the Minister gave the Appellant credit for the 1998 refund effective October 30, 2000. I accept the argument of Respondent's counsel.
+[14] Schedule "B" to the Respondent's Reply contains a careful, detailed explanation of the way in which the Minister determined that the Appellant owes interest in the amount of $536.41 with respect to his 1999 taxation year to the date of the Notice of Assessment (March 1, 2001). In particular, there is a footnote which describes why the interest was reduced by $121.73 from the amount of interest ($658.14) actually assessed on March 1, 2001. The footnote states:
+The arrears interest assessed in the amount of $658.14 as calculated in Schedule A was assessed pursuant to the Notice of Assessment dated March 1, 2001.
+Subsequent to the Notice of Assessment, the Appellant was credited with a payment in the amount of $3,586.78, with an effective interest date of October 30, 2000.
+As a result, the arrears interest assessed from April 30, 2000 to the date of the Notice of Assessment of March 1, 2001 was reduced by $121.73 from $658.14 to $536.41, as calculated above.
+[15] I am satisfied that the Appellant has been given the best possible credit for his 1998 refund as being applied to his 1999 tax owing. The Appellant offered no other evidence or argument which would persuade me to adjust the interest owing from April 30, 2000 to March 1, 2001 from the amount ($536.41) shown in Schedule "B" to the Reply. The appeal for the 1999 taxation year is dismissed.
+Signed at Ottawa, Canada, this 4th day of April, 2003.
+"M.A. Mogan"
+J.T.C.C.
+CITATION:
+2003TCC213
+COURT FILE NO.:
+2002-98(IT)I
+STYLE OF CAUSE:
+George Andrew Wowk and
+Her Majesty the Queen
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+May 28, 2002
+REASONS FOR JUDGMENT BY:
+The Honourable Judge M.A. Mogan
+DATE OF JUDGMENT:
+April 4, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gwen Mah
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

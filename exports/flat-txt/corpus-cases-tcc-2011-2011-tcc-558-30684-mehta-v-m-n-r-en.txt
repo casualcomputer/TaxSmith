@@ -1,0 +1,109 @@
+Title: Mehta v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30684/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-558-30684-mehta-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2011-10-27
+
+# Mehta v. M.N.R.
+
+- Citation: 2011 TCC 558
+- Decision date: 2011-10-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7181, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mehta v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-10-27
+Neutral citation
+2011 TCC 558
+File numbers
+2011-1863(EI)
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2011 TCC 558
+Date: 20111206
+Dockets: 2011-1863(EI)
+2011-1864(CPP)
+BETWEEN:
+VIJAY MEHTA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+(Edited from the transcript of Reasons for Judgment delivered orally from the Bench on October 27, 2011 in Toronto, Ontario)
+Campbell J.
+[1] Let the record show that I am now delivering oral reasons in the matters of Vijay Mehta, which I heard earlier today.
+[2] The Appellant has appealed a determination by the Minister of National Revenue that Mr. Mehta was engaged in insurable and pensionable employment by Dixie X-Ray Associates Limited, (which I will refer to throughout as “Dixie” or the “Payor”), during the period January 1st, 2007 to August 17th, 2010, pursuant to paragraph 5(1)(a) of the Employment Insurance Act and paragraph 6(1)(a) of the Canada Pension Plan. Both appeals were heard together on common evidence.
+[3] The issue is whether the Payor employed Mr. Mehta as an employee or as an independent contractor during this period.
+[4] The Appellant is trained as a medical diagnostic imaging technician with specialty knowledge in administering muscular/skeletal ultrasounds. Over the course of his career, he has established a close liaison with several medical experts in this field and a number of sports clinics and sports associations that deal with professional athletes. The Appellant has worked for the Payor for approximately five years, although he sees patients occasionally at other clinics.
+[5] Dixie, the Payor, operates a number of health care clinics that provide various diagnostic imaging services to the public. Its hours of operation were Monday to Saturday, 8 a.m. to 8 p.m. The Appellant performed his duties at the Mississauga, North York and Woodbridge locations of Dixie. Dixie employed a number of technicians at its locations.
+[6] The Appellant can perform a range of imaging services to the general public who come through the doors at Dixie, but he is generally performing the specialized imaging, and a large number of those are performed on, what he termed, his and I quote, “own patients”, who are referred to him by specialty sports doctors and clinics.
+[7] The Appellant testified that professional athletes are referred to him to receive muscular/skeletal imaging services. His Tuesday and Thursday days at Dixie are devoted to seeing sports patients that are referred to him by these outside sources. On Wednesday, he spends half a day with a specialist doctor at a Dixie location offering injections to patients. He stated that he has the freedom to bring these doctors to the Dixie premises to do the injections for the public.
+[8] The Appellant's hours of work could vary but were confined to the hours the Dixie locations stayed open to the public. His schedule varied according to the Dixie location and the number of appointments that were booked. His evidence was that he generally worked from eight to three for Dixie, but due to demand by patients he could be providing services beyond the 3 p.m. timeframe.
+[9] The Appellant received $36 hourly and was paid on a bi-weekly basis by cheque. He could hire helpers to assist with patients and scheduling but only Dixie could hire actual substitutes or replacements for Mr. Mehta if it was required at the clinics.
+[10] At the end of the year, Dixie paid 10 per cent of Mr. Mehta's total gross wages for what he described as a “bonus” for bringing patients to the clinics, and not as vacation pay of 10 per cent as the Respondent characterized it.
+[11] The Appellant provided timesheets to Dixie but not invoices for payment. He also submitted the imaging results by way of reports to Dixie and Dixie was then responsible for distributing the reports to the appropriate sources.
+[12] Dixie provided the premises rent-free to Mr. Mehta as well as all of the diagnostic tools and equipment and supplies, worth approximately $300,000, at no cost to him. In addition, Dixie was responsible for all repairs and maintenance of the equipment and the premises. Mr. Mehta testified that he used his own computer to do reports, but the evidence was not clear that this was a requirement of his duties.
+[13] The parties did have a short work agreement, dated November 5, 2007, which established very little in respect of what the actual terms and conditions of employment were, and even the hourly wage and commencement date of the contract were left blank. About the only relevant item in this one-page document was the reference to the Appellant's status as a contractor and his personal responsibility for source deductions.
+[14] Certainly, the stated intention of the Appellant and probably Dixie, although no one appeared on its behalf, was that the relationship was one of independent contractor and not one of employee–employer.
+[15] The question to be asked is whether the facts brought forth in the evidence today are consistent with and supportive of the parties' intentions. I am referring here to the Royal Winnipeg Ballet decision (Royal Winnipeg Ballet v. Minister of National Revenue, [2006] F.C.J. No. 339).
+[16] To determine this, the facts must be analyzed and reviewed within the fourfold test of the Wiebe Door decision (Wiebe Door Services v. Minister of National Revenue (1986), 87 D.T.C. 5025 (F.C.A.)), that is, control, ownership of tools, chance of profit and risk of loss.
+[17] The Supreme Court of Canada in Sagaz Industries (more accurately known as 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59) confirmed these factors and, at paragraphs 47 and 48, stated the following:
+[47] Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+[48] It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[18] In concurring reasons in the decision in Wolf v The Queen, 2002 D.T.C. 6853 (F.C.A.), Justice Décary of the Federal Court of Appeal stated the following at paragraph 117:
+[117] The test, therefore, is whether, looking at the total relationship of the parties, there is control on the one hand and subordination on the other. I say, with great respect, that the courts, in their propensity to create artificial legal categories, have sometimes overlooked the very factor which is the essence of a contractual relationship, i.e. the intention of the parties. …
+[19] The label, which parties attach to their work relationship, and the manner in which they describe it are relevant, but may not necessarily be determinative. However, where the facts are close and could support a conclusion either of independent contractor or employee, the intent and mutual understanding of their relationship will be of paramount importance.
+[20] The Wiebe Door factors may have varying degrees of importance depending upon the individual facts in evidence in each case. Contrary to the Respondent's suggestion, the control factor often, although not always, plays a more dominant role, and in Combined Insurance Co. of America v. Minister of National Revenue, [2007] FCA 60, 2007 F.C.J. No. 124, Justice Nadon of the Federal Court of Appeal stated, at paragraph 35:
+[35] … 2. There is no predetermined way of applying the relevant factors and their importance will depend on the circumstances and the particular facts of the case.
+Although as a general rule the control test is of special importance, the test developed in Wiebe Door and Sagaz will nevertheless be useful in determining the real nature of the contract. [Emphasis added]
+[21] I turn next to those various factors in Wiebe Door. The first I'm going to deal with is control. Here it is important to remember that it is the “right” to control or direct the Appellant in the performance of his services and not the “actual” control that may have been exercised. Respondent Counsel characterized this factor as being neutral because the Appellant is a highly skilled professional possessing specialized knowledge who required very little supervision. This would be true whether Mr. Mehta was an employee or an independent contractor and causes difficulty in applying the traditional tests of Wiebe Door.
+[22] In these circumstances, where Dixie would not have the necessary skills or knowledge to supervise and oversee such a skilled individual, the control factor which has such relevance in other circumstances has simply very little relevance here. The Appellant did exert a fair amount of control over the type of patients to whom he provided his services and could set his own hours, but within the operating hours of Dixie clinics. He also was able to have medical specialists of his own choosing to attend the clinic to offer injections. These facts point, on a balance of probabilities, to the Appellant exercising more control over the type of services he provided at the clinic.
+[23] The next is ownership of tools. This factor clearly supports the conclusion that the Appellant is an employee because essentially all of the tools and equipment are owned and maintained by the Payor, Dixie. These assets are worth a substantial amount. We are not talking about a negligible assortment of supplies. In addition, the Appellant is free to use the Payor's premises and facilities at no cost.
+[24] The next factor is profit. The only way normally the Appellant could pocket more money was by working greater hours at his set rate of hourly wage. According to the evidence, he did this on a consistent basis because of the supply of patients from outside sources such as the sports clinics. However, the number of additional hours he could work was confined to the operational hours of the Dixie clinics. In this respect, it is not unlike any other employee who works additional hours for an employer at a set hourly rate.
+[25] In the larger picture, it was clearly Dixie that was profiting from the increased traffic flow to its clinics and the billings that would eventually result. The Appellant's skills and expertise may have brought the patients through the doors of the clinic, but all he could request as a result of that was a higher hourly rate. That was his only bargaining power. It was Dixie who either made a profit or loss at the end of the day through the operation and management of its various clinics.
+[26] The next factor is loss. In conjunction with this, the Appellant had essentially no potential for loss in performing these services. He did not pay rent or pay a portion of overhead costs at the clinic; he did not provide tools or supplies; maintain or repair any equipment, or employ staff, except for an occasional helper; and the evidence was unclear whether he had ever actually hired help to assist him at the Dixie clinics during this period.
+[27] Mr. Mehta had no investment in this business and assumed none of the risk associated with the clinic's operation. Again, profit and loss factors point to an employee status for Mr. Mehta.
+[28] Hiring of substitutes: the Appellant's employment with Dixie was for himself personally to perform these services and he did not have the right to hire a replacement for the clinic if he could not attend. He testified that he could hire helpers, but again, the evidence is vague in this regard to support whether he ever, in fact, did so during this period.
+[29] In respect to the vacation pay issue which the Appellant in his oral testimony characterized as a 10 per cent bonus, the documentary evidence is fully supportive of a contrary conclusion. Exhibit R-4, a handwritten note of the Appellant, clearly referred to the 10 per cent payment of his total salary in 2009 as vacation pay.
+[30] In addition, one of the cheques from Dixie to the Appellant, at Exhibit R-5, references the amount as a vacation payment. Again, this is another factor that supports my conclusion in these appeals.
+[31] In summary, all of the factors, with the exception of control, clearly point to the Appellant being engaged by Dixie as an employee contrary to the Appellant's stated intention that he was an independent contractor. The factor of control does not point definitively to the Appellant as an independent contractor, but there are some elements which support that the Appellant had a fair degree of latitude in how and to whom he provided his specialized services.
+[32] However, the evidence did not address the key issue of whether Dixie had the “right” to direct Mr. Mehta in the performance of the services at their clinics if Dixie had so chosen.
+[33] Where such skilled workers are engaged, they generally require little to no direction but the work relationship may still be such that Dixie may have had the ultimate right to provide directions in respect to those services and the patients if it chose to do so.
+[34] In looking at the totality of the circumstances and facts before me in these appeals, in light of the Wiebe Door factors, I must conclude that the Appellant is an employee of Dixie despite the written agreement stating that he is a contractor.
+[35] In addition, when I ask the question: Is the Appellant, Mr. Mehta, performing his diagnostic imaging services as a person in business on his own account? I must answer that question that Mr. Mehta is not engaged in
+his own business. For these reasons the appeals are dismissed in both matters without costs.
+Signed at Ottawa, Canada, this 6th day of December 2011.
+“Diane Campbell”
+Campbell J.
+CITATION: 2011 TCC 558
+COURT FILE NO.’S: 2011-1863(EI)
+2011-1864(CPP)
+STYLE OF CAUSE: Vijay Mehta v The Minister of National Revenue
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 27, 2011
+REASONS FOR JUDGMENT BY: The Honourable Judge Campbell
+DATE OF ORAL JUDGMENT: October 27, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Cenobar Parker
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

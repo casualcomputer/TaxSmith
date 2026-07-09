@@ -1,0 +1,170 @@
+---
+title: "Mehravaran c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/111532/index.do"
+last_modified: "2015-08-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 209"
+citation2: ""
+neutral_citation: "2015 CCI 209"
+decision_date: "2015-08-24"
+language: "fr"
+item_id: "111532"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2634
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:23:47.176000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0f477116ab940710008ecf80761b13df7845432b15de3075c08118d603978e1d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mehravaran c. La Reine
+
+- Citation: 2015 CCI 209
+- Decision date: 2015-08-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2634, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mehravaran c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-08-24
+Référence neutre
+2015 CCI 209
+Numéro de dossier
+2012-4572(GST)I, 2012-4573(GST)I, 2012-4615(IT)G
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2012-4615(IT)G
+2012-4572(GST)I
+2012-4573(GST)I
+ENTRE :
+MASOUMEH MEHRAVARAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 3 et 4 février 2015, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge en chef Eugene P. Rossiter
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Karen Truscott
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2004, 2005 et 2006 est rejeté conformément aux motifs du jugement ci‑joints.
+Les appels interjetés à l’encontre des nouvelles cotisations établies au titre de la Loi sur la taxe d’accise pour les périodes de déclaration allant du 1er janvier 2004 au 31 décembre 2006 et d’une nouvelle cotisation relative à la taxe sur les produits et services semblable établie à l’égard de l’appelante en sa qualité d’associée d’une société de personnes pour la même période sont rejetés conformément aux motifs du jugement ci‑joints.
+Signé à Edmonton (Alberta), ce 24e jour d’août 2015.
+« E.P. Rossiter »
+Juge en chef Rossiter
+Traduction certifiée conforme
+ce 17e jour de novembre 2015.
+Mario Lagacé, jurilinguiste
+Référence : 2015 CCI 209
+Date : 20150824
+Dossiers : 2012-4615(IT)G
+2012-4572(GST)I
+2012-4573(GST)I
+ENTRE :
+MASOUMEH MEHRAVARAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Rossiter
+A. Aperçu [1] Le présent appel a été interjeté à la Cour au moyen d’avis d’appel déposés par l’appelante à l’égard de nouvelles cotisations relatives à l’impôt sur le revenu pour les années d’imposition 2004, 2005 et 2006 ainsi qu’à l’égard de nouvelles cotisations relatives à la taxe sur les produits et services (la « TPS ») pour les périodes de déclaration allant du 1er janvier 2004 au 31 décembre 2006 et d’une nouvelle cotisation relative à la TPS semblable établie à l’égard de l’appelante en sa qualité d’associée d’une société de personnes pour la même période.
+[2] L’appelante était mariée et avait trois enfants pendant les périodes en question. Les affaires financières de l’appelante étaient inextricablement liées à celles de son époux et de son fils aîné en ce qui a trait aux activités d’importation de marchandises, de tapis, de bicyclettes, de bateaux, de véhicules tout‑terrain et de motos. Cet enchevêtrement portait sur l’acquisition d’éléments d’actif et sur le passif, l’utilisation de cartes de crédit, et l’obtention et le remboursement de prêts. Essentiellement, les affaires financières de l’appelante étaient totalement enchevêtrées avec celles de son époux et de leur fils ainsi qu’avec leurs entreprises commerciales.
+[3] L’intimée a effectué une vérification de la valeur nette de l’appelante, de son époux et de son fils, et a partagé de façon égale la responsabilité entre les trois. Le ministre a établi une cotisation au titre de la TPS et a imposé des pénalités et des intérêts à l’époux et au fils, ainsi qu’à l’égard de diverses sociétés de personnes qui pourraient avoir participé à leurs activités commerciales. Des oppositions ont été déposées, des ratifications ont été établies et les appels ont été interjetés.
+B. Contexte factuel [4] L’appelante était mariée à un certain Saadolha Mehrabi. De leur mariage sont issus trois enfants, dont leur fils Amin Mehrabi (« Amin »). L’appelante s’est installée au Canada en 1997, s’est séparée de son époux en 2009 et a divorcé en 2012. Après son installation au Canada, l’appelante a eu connaissance des relations extra‑conjugales de son époux. Elle est demeurée dans la même maison que son époux jusqu’à la séparation dans l’intérêt des enfants, parce qu’elle ne voulait pas leur nuire. Elle s’est occupée du foyer conjugal au cours de la période en question et communiquait très peu avec l’époux, ne jouissait pas des joies normales d’une relation matrimoniale, notamment des communications normales, des relations sociales et d’une relation conjugale. Pendant la période pertinente (2004 à 2006), l’appelante travaillait à l’extérieur du foyer et utilisait son revenu pour la nourriture et l’habillement de base des enfants. En outre, pendant cette période, l’époux de l’appelante était un travailleur indépendant qui exploitait une entreprise de camionnage, exerçait des activités commerciales ayant trait à la vente de motos et de bateaux, et à l’importation de bicyclettes, et exploitait une entreprise d’importation et d’exportation de tapis. Pendant la même période, Amin était l’unique administrateur et actionnaire d’une société appelée Atlas Energy Limited qui exploitait une entreprise d’achat et de vente de véhicules tout‑terrain, de motos hors route et de motocyclettes. L’appelante ne prenait pas part à ces activités. L’époux de l’appelante et Amin n’ont pas tenu de registres ni de livres de comptes appropriés pour leurs activités commerciales.
+[5] Les renseignements reçus par l’intimée au moyen du système Fintrax ont soulevé des doutes au sujet des activités de l’appelante, de son époux et d’Amin, ce qui a mené à une vérification de juin 2008 à novembre 2010. Au cours de la vérification, une évaluation de la valeur nette a été effectuée sur une base factuelle au moyen de renseignements entièrement communiqués et obtenus par voie d’autorisations normales de la part de l’appelante, de l’époux et d’Amin ainsi que de demandes de production de tiers. Il manquait beaucoup de documents, de livres de comptes et de registres, mais l’Agence du revenu du Canada (l’« ARC ») a pu mener une vérification fondée sur les faits et effectuer une évaluation de la valeur nette pour les affaires de l’appelante, de l’époux et d’Amin. Ces derniers avaient de nombreux comptes bancaires ouverts dans diverses banques (RBC, Banque TD ainsi que des sociétés de fiducie), toute une gamme de cartes de crédit, d’emprunts et de prêts hypothécaires ainsi que des paiements. Ils possédaient des biens immobiliers à Port Moodie et à Coquitlam, en C.‑B., ainsi qu’à Toronto, en Ontario. Diverses sociétés étaient inextricablement liées aux affaires commerciales et financières de la famille.
+[6] L’appelante affirme que, pendant la période pertinente, elle était l’épouse de l’époux dans un mariage de convenance contrairement à un mariage traditionnel. Elle était une musulmane pratiquante et, à ce titre, elle était totalement soumise à son époux. Elle n’est pas intervenue pour retenir les services d’un avocat ou de comptables qui auraient participé à leurs affaires financières ni n’a obtenu d’avis de leur part, pas plus qu’elle ne l’a fait dans le cadre du présent appel. Elle n’a fait que se présenter au bureau de l’avocat une seule fois lorsqu’il était question d’un avis d’appel qu’il fallait déposer. Elle ne pouvait pas se payer les services de l’avocat et n’a donc pas cherché ni obtenu d’autre avis. L’appelante a affirmé que, vers 2000, son époux lui avait demandé de lui donner une procuration. Elle lui avait donné une procuration générale qui était restée en vigueur jusqu’après la séparation en 2009. Elle n’avait pas de copie de la procuration étant donné que celle‑ci était retenue par son époux. Elle ne connaissait pas les finances de la famille ni les affaires commerciales et financières de l’époux ou d’Amin et n’y participait pas non plus. Elle signait, à la demande de son époux, tout document dont il avait besoin pour ses activités commerciales et, essentiellement, elle ne faisait qu’exécuter ce qui était exigé d’elle et ne jouait aucun rôle dans les affaires commerciales, les opérations ou les activités de son époux ou de son fils, Amin.
+[7] Les opérations financières de l’appelante, de l’époux et d’Amin, ainsi que les sociétés, étaient tellement imbriquées qu’il était impossible de déterminer qui était responsable de quoi dans les affaires financières de la famille dans son ensemble, qui possédait quel actif ou qui devait quelle somme ou gagnait quel revenu. Le vérificateur a effectué une évaluation détaillée et complète de la valeur nette fondée sur les faits. Au bout du compte, en ce qui concerne la TPS, l’intimée n’a pu imputer la responsabilité que sur une base égale, tellement les registres et les comptes de l’appelante, de l’époux et d’Amin étaient insuffisants.
+C. Questions en litige [8] 1. Le ministre a‑t‑il à juste titre établi de nouvelles cotisations à l’égard de l’appelante pour le revenu non déclaré et, dans l’affirmative, le ministre a‑t‑il à bon droit imposé des pénalités et établi une cotisation au titre de la TPS non payée relativement aux montants non déclarés?
+[9] 2. L’existence et l’exercice des pouvoirs énumérés dans la procuration donnée par l’appelante à son époux influent‑ils sur la responsabilité de l’appelante en ce qui concerne les impôts, les taxes et les pénalités établis?
+Droit et analyse [10] Selon le paragraphe 152(7) de la Loi de l’impôt sur le revenu (la « Loi »), le ministre peut établir une cotisation de la valeur nette. Dans l’arrêt Hsu c R, 2001 CAF 240, la Cour d’appel fédérale a formulé les observations suivantes :
+23 Le paragraphe 152(8) énonce une présomption de bien‑fondé de ces cotisations et impose initialement au contribuable la charge de réfuter les faits présumés par le ministre (Dezura v. M.N.R. (1947), 3 D.T.C. 1101, à la page 1102 (C. de l’É.)). Même si pareille cotisation est « arbitraire », le ministre est tenu de divulguer le fondement précis sur lequel cette cotisation repose (Johnston v. M.N.R. (1948), 3 D.T.C. 1182, à la page 1183 (C.S.C.)). Autrement, le contribuable ne serait pas en mesure de s’acquitter de l’obligation initiale qui lui incombe de démolir les « présomptions exactes qu’a utilisées le ministre, mais rien de plus » (Hickman Motors Ltd. c. La Reine (1997), 97 D.T.C. 5363, à la page 5376 (C.S.C.)).
+[…]
+31 Par sa nature, une évaluation de la valeur nette est une estimation arbitraire et imprécise du revenu du contribuable. Toute iniquité perçue se rapportant à ce genre d’évaluation est réglée en reconnaissant que le contribuable est celui qui est le mieux placé pour connaître son revenu imposable. Lorsque le fondement factuel de l’estimation du ministre est inexact, il devrait être simple pour le contribuable de corriger à la satisfaction de la Cour l’erreur que le ministre a commise.
+[11] Le juge Bowman, tel était alors son titre, a énoncé de la manière suivante certains principes généraux concernant les cotisations de la valeur nette dans la décision Ramey v R, [1993] 2 CTC 2119 :
+[6] […] Une cotisation d’actif net repose sur une comparaison de l’actif net du contribuable, à savoir la valeur de l’actif moins le passif au début d’une année, avec son actif net à la fin de l’année. À la différence ainsi obtenue, on ajoute les dépenses qu’il a engagées pendant l’année. Le montant obtenu est réputé être le revenu du contribuable, sauf preuve contraire. Ces cotisations peuvent être inexactes dans une mesure indéterminée, mais elles sont valables jusqu’à preuve de leur inexactitude. Il est quasi impossible de les contester à la pièce. La seule façon vraiment efficace de les contester est de procéder à une reconstitution complète du revenu du contribuable pour l’année. Un contribuable dont les registres comptables et le mode de déclaration de revenus sont dans un tel fouillis que la cotisation d’actif net s’impose est souvent l’artisan de son propre malheur.
+[12] En ce qui concerne les pénalités pour faute lourde, l’arrêt Lacroix c R, 2008 CAF 241, rendu par la Cour d’appel fédérale, fournit des éléments d’orientation sur l’imposition de telles pénalités dans le contexte d’une cotisation de la valeur nette. Voici les observations formulées par la Cour d’appel fédérale à cet égard[1] :
+30 Les faits en preuve, dans un tel cas, sont que la déclaration de revenu du contribuable fait une présentation erronée des faits et que la seule explication offerte par le contribuable est jugée non crédible. Évidemment, il doit y avoir une autre explication pour ce revenu. Il faut donc conclure que le contribuable a une source de revenu qu’il n’a pas déclarée, qu’il est au courant de cette source et qu’il refuse de la divulguer puisque les explications qu’il a offertes n’ont pas été jugées crédibles. En de telles circonstances, la conclusion que la fausse déclaration de revenu a été produite sciemment ou dans des circonstances équivalant à faute lourde me semble inéluctable. Cela justifie non seulement l’imposition d’une pénalité mais aussi l’établissement de la nouvelle cotisation hors de la période statutaire.
+[…]
+32 Qu’en est-il alors du fardeau du ministre? Comment s’en acquitte‑t‑il? Il se peut que dans certaines circonstances, le ministre soit en mesure de faire une preuve directe de l’état d’esprit du contribuable lorsque ce dernier a produit sa déclaration de revenu. Mais dans la grande majorité des cas, le ministre ne pourra que miner la crédibilité du contribuable, soit par des éléments de preuve qu’il apporte, soit en contre-interrogatoire du contribuable. Dans la mesure où la Cour canadienne de l’impôt est persuadée que le contribuable touche un revenu qu’il n’a pas déclaré et que l’explication offerte par le contribuable pour l’écart constaté entre son revenu déclaré et l’accroissement de son actif est non crédible, le ministre s’est acquitté du fardeau de preuve qui lui incombe aux termes du sous‑alinéa 152(4)a)(i) et du paragraphe 162(3).
+[13] Je suis convaincu, selon les éléments de preuve dont je suis saisi, que l’intimée a effectué une analyse complète et détaillée lorsqu’elle a procédé à l’évaluation de la valeur nette fondée sur les faits. Je suis convaincu que l’évaluation de la valeur nette effectuée portait sur une comparaison détaillée et complète de la valeur nette et du coût de l’actif de l’appelante, de l’époux et du fils, Amin, moins le passif au début des périodes pertinentes, avec leur valeur nette à la fin des périodes pertinentes. Il n’y a aucun doute dans mon esprit que certaines cotisations sont quelque peu erronées dans une mesure indéterminée, mais il n’a pas été démontré qu’elles étaient inexactes dans leur état actuel. Seule l’appelante s’est présentée à la Cour en l’espèce. L’appelante n’a pas produit de document véritablement convaincant et n’a pas réellement contesté la méthode utilisée pour établir le revenu non déclaré. La principale question de l’affaire de l’appelante concerne la procuration qu’elle a donnée à son époux, ses effets, son utilisation par l’époux et les répercussions de cette utilisation sur l’appelante ainsi que la responsabilité fiscale de cette dernière découlant de l’utilisation de la procuration.
+[14] L’appelante est apparue comme une dame qui s’exprime bien et qui aime sincèrement ses enfants auxquels elle a donné priorité dans sa vie. Elle s’est présentée comme une personne honnête qui voulait soumettre à la Cour son vécu et les circonstances qui l’ont amenée à se présenter devant elle. Elle a directement répondu à toutes les questions et a présenté sa version des faits, quoiqu’elle ait été émotive lorsqu’il fallait parler de situations difficiles, telles que le fait de s’occuper de ses enfants ou l’infidélité de son époux. Elle a décrit en détail les difficultés de la relation. Elle a affirmé sa résolution à respecter sa religion et le fait que cela l’avait essentiellement menée à la soumission envers son époux en toutes choses. Elle n’a esquivé aucune question difficile et a soutenu mon regard; elle ne s’est pas dérobée devant l’une ou l’autre difficulté, elle voulait simplement essayer de présenter sa version des faits, et elle l’a fait d’une manière raisonnable, calme et directe. Lors du contre‑interrogatoire, quelque peu bref, elle a encore une fois répondu d’une manière juste et directe à toutes les questions qui lui ont été posées.
+[15] Toutefois, je suis d’avis que le droit n’appuie pas la proposition selon laquelle une procuration peut permettre d’exonérer une personne comme l’appelante de sa responsabilité fiscale dans les circonstances de l’espèce.
+[16] Dans la décision Caron v. R., [2002] 3 C.T.C. 2369, le juge Dussault a fait observer que les pouvoirs énumérés dans la procuration devaient être exercés pour et au nom de l’appelante. Voici en partie les observations qu’il a formulées :
+À mon avis, les dépôts par monsieur André Caron de chèques libellés à son nom ou de sommes lui appartenant dans le compte bancaire de l’appelante constituent des transferts de biens au sens de l’article 160 de la Loi puisqu’il s’est légalement départi de la propriété de ces sommes au profit de l’appelante, seule titulaire du compte. La procuration obtenue de l’appelante en date du 7 mai 1992 (pièce A‑2) ne lui transférait pas à nouveau la propriété de ces sommes, mais simplement un mandat de les administrer pour et au nom de l’appelante comme fondé de pouvoir de celle‑ci. Une telle procuration n’implique aucunement un abandon par l’appelante de son droit de propriété sur les sommes déposées à son compte puisque selon les termes mêmes de la procuration, tous les pouvoirs qui y sont énumérés doivent être exercés pour et à son nom.
+[17] En l’espèce, les détails de la procuration n’ont pas été fournis, et une copie de celle‑ci n’a pas non plus été produite.
+[18] Dans la décision Drapeau c. R., 2010 CCI 314, confirmée par l’arrêt 2011 CAF 133, la juge Lamarre, tel était alors son titre, a formulé les observations suivantes dans le contexte d’une procuration. Voici la teneur des observations de la Cour dans une remarque incidente :
+[…] [que, si carte blanche a été donnée, l’appelant doit en assumer les conséquences]. Si la thèse de l’appelant est réelle, il n’a certainement pas pris les moyens pour la justifier. Il a pris un risque s’il a réellement donné carte blanche à M. Dagenais, et faute de meilleure preuve, il doit maintenant en assumer les conséquences.
+[19] Dans cette affaire, le témoignage portait sur la démission d’un administrateur et la question de l’existence de la procuration, et il n’était pas crédible.
+[20] En outre, dans la décision Greenwood v. R., 2000 Carswell Nat. 209, dans laquelle les conséquences ont été attribuées au véritable propriétaire des fonds, c’est‑à‑dire la personne au nom de laquelle les pouvoirs énoncés dans la procuration ont été exercés, le juge en chef adjoint Alban Garon, tel était alors son titre, a formulé en partie les observations suivantes :
+[59] Le compte au Royaume‑Uni a produit 15 121,53 £ en intérêt durant six ans. L’appelant n’a pas inclus ces intérêts dans le calcul de son revenu parce que, selon lui, il n’en était pas le propriétaire. Selon l’appelant, sa mère était la propriétaire des sommes déposées dans le compte, et il les détenait simplement aux termes d’une procuration générale. À la suite du décès de sa mère en janvier 1995, il avait viré les sommes dans un compte conjoint détenu par son épouse et lui.
+[…]
+[64] J’ai conclu avec une certaine hésitation que la mère de l’appelant était probablement propriétaire des sommes déposées dans le compte à la Leeds & Holbeck Building Society durant les années en litige. J’ai tenu compte, entre autres, de la procuration générale datée du 22 août 1985, du dépôt effectué par l’appelant en 1994 en remboursement partiel du retrait effectué précédemment et du virement des sommes dans un compte détenu conjointement par l’appelant et son épouse à la suite du décès de sa mère.
+[21] Comme je l’ai souligné, je ne suis pas convaincu que la procuration en l’espèce peut permettre d’exonérer l’appelante de sa responsabilité relativement à un litige fiscal. L’appelante doit assumer et accepter les conséquences découlant de la procuration qu’elle a donnée à son époux et de l’utilisation qu’il en a faite. Nous n’avons pas de détails concernant la procuration et une copie n’a pas été fournie à la Cour au cours du témoignage. Ainsi, nous n’avons même pas pu examiner la portée de la procuration. Tout simplement, l’appelante n’a pas réussi à établir l’existence de la procuration, sa portée et comment ou pourquoi elle devrait être exonérée des conséquences découlant de cette procuration dans le présent litige fiscal. De plus, j’ai conclu que la cotisation de la valeur nette a été effectuée comme il se devait. L’appel est rejeté.
+Signé à Edmonton (Alberta), ce 24e jour d’août 2015.
+« E. P. Rossiter »
+Juge en chef Rossiter
+Traduction certifiée conforme
+ce 17e jour de novembre 2015.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2015 CCI 209
+Nos DES DOSSIERS DE LA COUR :
+2012-4615(IT)G
+2012-4572(GST)I
+2012-4573(GST)I
+INTITULÉ :
+MASOUMEH MEHRAVARAN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATES DE L’AUDIENCE :
+Les 3 et 4 février 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge en chef E. P. Rossiter,
+DATE DU JUGEMENT :
+Le 24 août 2015
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Karen Truscott
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir aussi la décision Mensah c R, 2008 CCI 378, pour l’analyse faite par le juge en chef Bowman au sujet des pénalités imposées en vertu du paragraphe 163(2) de la Loi et de la méthode de cotisation fondée sur la valeur nette. Dans cette affaire, l’appel a été accueilli sur le fondement de la preuve et de la crédibilité de la contribuable.

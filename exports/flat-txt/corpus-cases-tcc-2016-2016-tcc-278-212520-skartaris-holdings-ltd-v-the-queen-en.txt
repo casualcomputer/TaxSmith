@@ -1,0 +1,133 @@
+Title: Skartaris Holdings Ltd v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/212520/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-278-212520-skartaris-holdings-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-11-09
+
+# Skartaris Holdings Ltd v. The Queen
+
+- Citation: 2016 TCC 278
+- Decision date: 2016-11-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2940, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Skartaris Holdings Ltd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-11-09
+Neutral citation
+2016 TCC 278
+File numbers
+2016-2477(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-2477(IT)I
+BETWEEN:
+SKARTARIS HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 9, 2016, at Saskatoon, Saskatchewan
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Brett Maki
+Counsel for the Respondent:
+Bryn Frape
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the Appellant’s 2010 and 2011 taxation years is dismissed.
+Signed at Ottawa, Canada, this 22nd day of November 2016.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2016TCC278
+Date: 20161122
+Docket: 2016-2477(IT)I
+BETWEEN:
+SKARTARIS HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issue in this appeal is whether, in its 2010 and 2011 taxation years, the Appellant was entitled to claim a small business deduction of $1,532 and $2,277 respectively (the “Deductions”), pursuant to section 125 of the Income Tax Act (the “Act”).
+[2] The Minister of National Revenue (the “Minister”) denied the Deductions on the basis that the “principal purpose” of the Appellant’s business was to derive income from property and that its business was a “specified investment business” as defined in subsection 125(7) of the Act.
+[3] The only witness at the hearing was Brett Maki who was agent for the Appellant. He had the Appellant incorporated in 2006.
+[4] It was Mr. Maki’s evidence that the Appellant was incorporated with the intent that it would purchase houses which could be developed and resold for a profit. Throughout the period 2006 to 2016, the Appellant has owned 11 houses which it used as rental properties. Mr. Maki described these properties and gave a history of their ownership as follows:
+a) 109 Guelph Crescent in Saskatoon was purchased by Mr. Maki in 2001. He used this property as his principal residence until he remarried. He then moved out of the property and offered it for rent. It was transferred to the Appellant in 2006 and renovated in 2009. It was listed for sale in June 2016 and sold in October 2016.
+b) 318 Avenue H South in Saskatoon was purchased in 2006 and it was completely renovated in 2008. According to Mr. Maki, it is presently listed for sale.
+c) The houses at 409 Avenue C South and 429 Avenue C South were purchased in 2006. The house at 411 Avenue C South was purchased in 2008. These houses are located in an “up and coming” area in Saskatoon. At present there are four condominium buildings being constructed across the street from the Appellant’s properties. A developer has offered to purchase these properties for as much as $250,000 but the Appellant refused because the properties have “more potential”. At present, these houses are rental properties.
+d) In 2008, the Appellant purchased 6 houses in Prince Albert, Saskatchewan which were used as rental properties. In 2012, the Appellant’s house at 436 13th Street West in Prince Albert was demolished and a conjoined duplex was built on the land. In 2013, the Appellant listed all 6 of its properties in Prince Albert for sale. Two of these properties have sold. The property at 718 13th Street West sold in 2015 and the property at 1799 12th Street sold in 2016.
+[5] Mr. Maki stated that the properties were only rented out to help cover their costs. He stated that he is a property developer but he cannot buy and sell immediately because he didn’t have the funds to develop all of the houses when they were initially purchased. It was Mr. Maki’s goal to own 12 houses, to renovate the houses and to sell them at a profit.
+Law
+[6] The relevant provisions in the Act read:
+Small business deduction
+125 (1) There may be deducted from the tax otherwise payable under this Part for a taxation year by a corporation that was, throughout the taxation year, a Canadian-controlled private corporation, an amount equal to the corporation’s small business deduction rate for the taxation year multiplied by the least of
+(a) the amount, if any, by which the total of
+(i) the total of all amounts each of which is the income of the corporation for the year from an active business carried on in Canada (other than the income of the corporation for the year from a business carried on by it as a member of a partnership), and (emphasis added)
+125(7) In this section,
+active business carried on by a corporation means any business carried on by the corporation other than a specified investment business or a personal services business and includes an adventure or concern in the nature of trade;
+Canadian-controlled private corporation means a private corporation that is a Canadian corporation other than
+(a) a corporation controlled, directly or indirectly in any manner whatever, by one or more non-resident persons, by one or more public corporations (other than a prescribed venture capital corporation), by one or more corporations described in paragraph (c), or by any combination of them,
+specified investment business, carried on by a corporation in a taxation year, means a business (other than a business carried on by a credit union or a business of leasing property other than real or immovable property) the principal purpose of which is to derive income (including interest, dividends, rents and royalties) from property but, except where the corporation was a prescribed labour-sponsored venture capital corporation at any time in the year, does not include a business carried on by the corporation in the year where
+(a) the corporation employs in the business throughout the year more than 5 full-time employees, or
+(b) any other corporation associated with the corporation provides, in the course of carrying on an active business, managerial, administrative, financial, maintenance or other similar services to the corporation in the year and the corporation could reasonably be expected to require more than 5 full-time employees if those services had not been provided;
+Analysis
+[7] In 2010 and 2011, the Appellant was eligible to claim the small business deduction if it was a Canadian-controlled private corporation which carried on an “active business”. For the purposes of section 125, an “active business” is any business carried on by a corporation other than a “specified investment business” or a personal services business.
+[8] A “specified investment business” includes any business with less than six full-time employees throughout the year and has the “principal purpose” of earning income from property or the leasing of property.
+[9] The phrase “principal purpose” in the context of a “specified investment business” is not defined in the Act but the phrase was considered by Bowman J. (as he then was) in Prosperous Investments Ltd v Minister of National Revenue, [1992] 1 CTC 2218 (TCC) at paragraph 13 where he stated:
+In determining the “principal purpose” of a business carried on by a corporation the stated object of the person who carries it on is not necessarily the only, or even the most important, criterion. Of critical importance is what the corporation in fact does and what its sources of income are: Ben Barbary Company Ltd. v. Minister of National Revenue, [1989] 1 C.T.C. 2364, 89 D.T.C. 242 at 2366
+(D.T.C. 244)
+[10] It is the “principal purpose” of the Appellant’s business which must be considered and not the “principal purpose” stated by Mr. Maki: Gill v Minister of National Revenue, [1999] 1 CTC 2034 (TCC) at paragraph 33.
+[11] Mr. Maki testified that the Appellant’s “principal purpose” in 2010 and 2011 was to earn income from the purchase and sale of real property. The documentary evidence does not support his testimony.
+[12] In its 2010 and 2011 income tax returns, the Appellant described its operations as the “rental of residential properties”. It declared that 100% of its revenue was earned from the rental of residential properties.
+[13] The Appellant claimed capital cost allowance on its properties in each of the 2008 to 2011 taxation years.
+[14] At the hearing, in response to a question from me, Mr. Maki stated that when the Appellant sold the various properties, it reported a capital gain. However, after the hearing, he wrote to the Court that he had been mistaken and that the Appellant had reported the gain as income.
+[15] Mr. Maki’s out of court statement is not evidence before me.
+[16] It is my view that the Appellant’s “principal purpose” in 2010 and 2011 was to earn income from the rental of residential properties.
+[17] During his testimony, Mr. Maki agreed with the assumptions made by the Minister that:
+a) The Appellant was not associated with a corporation that provided managerial, administrative, financial, maintenance or other similar service to it; and,
+b) At all material times, the Appellant did not have more than five full-time employees.
+[18] More specifically, Mr. Maki stated that the Appellant has never had any employees.
+[19] As a result, it is also my view that the Appellant is a “specified investment business”. It did not earn income from an “active business” in 2010 and 2011 and it is not entitled to the small business deduction.
+[20] The appeal is dismissed.
+Signed at Ottawa, Canada, this 22nd day of November 2016.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2016TCC278
+COURT FILE NO.:
+2016-2477(IT)I
+STYLE OF CAUSE:
+SKARTARIS HOLDINGS LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Saskatoon, Saskatchewan
+DATE OF HEARING:
+November 9, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+November 22, 2016
+APPEARANCES:
+Agent for the Appellant:
+Brett Maki
+Counsel for the Respondent:
+Bryn Frape
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

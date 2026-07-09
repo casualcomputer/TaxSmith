@@ -1,0 +1,189 @@
+---
+title: "Paris Ladouceur & Associés Inc c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27842/index.do"
+last_modified: "2005-02-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 107"
+citation2: ""
+neutral_citation: "2005 CCI 107"
+decision_date: "2005-02-08"
+language: "fr"
+item_id: "27842"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 382
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:17:04.612000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ede9884e8e3b3f2ec8e79766ab8ba2b2799d316da93421279568fffe9c9a3847"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Paris Ladouceur & Associés Inc c. M.R.N.
+
+- Citation: 2005 CCI 107
+- Decision date: 2005-02-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 382, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paris Ladouceur & Associés Inc c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-08
+Référence neutre
+2005 CCI 107
+Numéro de dossier
+2004-2328(EI)
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-2328(EI)
+ENTRE :
+PARIS LADOUCEUR & ASSOCIÉS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 24 janvier 2005 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Représentant de l'appelante :
+André Brunet
+Avocate de l'intimée :
+Me Agathe Cavanagh
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur l'assurance‑emploi dont l'avis est daté du 31 octobre 2003 est accordé et la cotisation est annulée, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 8e jour de février 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2005CCI107
+Date : 20050208
+Dossier : 2004-2328(EI)
+ENTRE :
+PARIS LADOUCEUR & ASSOCIÉS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s’agit d’un appel d’une cotisation établie en vertu la Loi sur l'assurance‑emploi (la « Loi »), au motif que messieurs Vincent Ladouceur et Réjean Paris occupaient des emplois assurables auprès de l'appelante.
+[2] La question principale en litige est de savoir si chacun des travailleurs contrôlait plus de 40 p. 100 des actions avec droit de vote de l’appelante au sens de l’alinéa 5(2)b) de la Loi. Une question subsidiaire est de savoir si les travailleurs exerçaient un emploi assurable au sens des alinéas 5(1)a) et 5(2)i) de la Loi.
+[3] Pour rendre sa décision concernant la question principale, le ministre du Revenu national (le « Ministre ») s’est appuyé sur les faits décrits au paragraphe 6 de la Réponse à l’avis d’appel (la « Réponse ») comme suit :
+(a) durant l’année en litige, Vincent Ladouceur et Réjean Paris étaient au service de l’appelante;
+(b) Gestion Paris Ladouceur inc. était l’unique actionnaire de l’appelante;
+(c) les actionnaires de Gestion Paris Ladouceur inc. étaient :
+Gestion Réjean Paris inc. avec 50% des actions,
+Gestion Vincent Ladouceur inc. avec 50% des actions;
+(d) Réjean Paris était l’unique actionnaire de Gestion Réjean Paris inc.;
+(e) Vincent Ladouceur était l’unique actionnaire de Gestion Vincent Ladouceur inc.;
+(f) Réjean Paris avait le contrôle de la société Gestion Réjean Paris inc.;
+(g) Vincent Ladouceur avait le contrôle de la société Gestion Vincent Ladouceur inc.
+(h) ni Vincent Ladouceur ni Réjean Paris n’avait le contrôle de la société Gestion Paris Ladouceur inc.
+(i) ni Vincent Ladouceur ni Réjean Paris ne contrôlaient le droit de vote des actions détenues par Gestion Paris Ladouceur inc.;
+(j) ni Vincent Ladouceur ni Réjean Paris ne contrôlaient d’actions avec droit de vote de l’appelante.
+[4] Pour rendre sa décision concernant la détermination que les travailleurs exerçaient un emploi aux termes d’un contrat de louage de services pour les fins de l’alinéa 5(1)a) de la Loi, le Ministre s’est appuyé sur les faits décrits aux paragraphe 7 de la Réponse :
+(a) l’appelante exploitait une entreprise spécialisée en évaluation de biens immeubles;
+(b) l’entreprise était exploitée à l’année longue;
+(c) en 2002, le chiffre d’affaires de l’appelante était d’environ 850 000 $;
+(d) les heures d’affaires de l’entreprise étaient de 9 h à 17 h du lundi au vendredi;
+(e) Réjean Paris et Vincent Ladouceur sont tous les deux évaluateurs agréés;
+(f) les deux travailleurs rendaient des services à l’appelante;
+(g) les principales tâches de Réjean Paris étaient de :
+— s’occuper des dossiers des institutions financières,
+— superviser les opérations courantes;
+— vérifier et approuver les dossiers des évaluateurs, aider occasionnellement Vincent Ladouceur et témoigner à la cour;
+(h) les principales tâches de Vincent Ladouceur étaient de :
+— s’occuper des dossiers des villes et municipalités,
+— superviser les opérations courantes;
+— vérifier et approuver les dossiers des évaluateurs, aider occasionnellement Réjean Paris et témoigner à la cour;
+(i) ils travaillaient dans les locaux de l’appelante;
+(j) ils faisaient plus de 40 heures de travail par semaine; leurs heures n’étaient pas comptabilisées par l’appelante;
+(k) chacun des travailleurs recevait une rémunération hebdomadaire de 1 000 $ plus deux bonis dont un pour l’achat de REER;
+(l) la rémunération des travailleurs avait été établie en tenant compte du nombre d’heures travaillées par chacun ainsi que des résultats financiers de l’entreprise.
+[5] Monsieur Vincent Ladouceur a admis les alinéas 6 (a) à 6 (g) de la Réponse et a nié les alinéas 6(h) à 6(j) de la Réponse. Il a admis les alinéas 7(a) à 7(j) de la Réponse et a nié les alinéas 7(k) et 7 (l) de la Réponse.
+[6] La cotisation concerne l’année 2002. Messieurs Ladouceur et Paris sont des évaluateurs agréés.
+[7] Monsieur Ladouceur relate qu'il a commencé à travailler pour monsieur Paris en 1977. En 1987, il est devenu associé à monsieur Paris. Il détient alors 42 p. 100 des actions et monsieur Paris 58 p. 100. À partir de 2002, chacun détenait 50 p. 100 des actions. En 2003, monsieur Ladouceur est devenu détenteur des actions à 100 p. 100 et monsieur Paris est devenu un employé de la société appelante.
+[8] En ce qui concerne l’alinéa 7(d) de la Réponse, monsieur Ladouceur a dit qu’en effet les heures d’affaires de l’entreprise étaient celles mentionnées à l’alinéa (d) mais que lui et monsieur Paris débordaient ces heures soit les soirs et les fins de semaine. Il a mentionné que l’entreprise avait 18 employés et que ces employés habituellement travaillaient selon les heures d’affaires de l’entreprise bien qu’il pouvait arriver à quelques‑uns de déborder les heures.
+[9] En ce qui concerne l’alinéa 7(k), il a expliqué que sa rémunération hebdomadaire ainsi que celle de son associé était de 1 000 $. Les bonis étaient versés sous forme de dividendes et étaient en fonction des résultats financiers de l'entreprise. Il pouvait également arriver à chacun des deux actionnaires de ne pas réclamer une paie dépendant des liquidités de la société. Il a nié que leur rémunération était établie en tenant compte du nombre d'heures travaillées.
+[10] En ce qui concerne la description des tâches de monsieur Paris et de monsieur Ladouceur aux alinéas (g) et (h), il a dit qu’en effet que chacun avait son créneau mais qu’il leur arrivait souvent de déborder de ce créneau. On pouvait dire qu'à 80 p. 100 de leurs tâches, chacun exerçait dans les créneaux mentionnés aux alinéas (g) et (h).
+[11] Le témoin ajoute que lui et monsieur Paris étaient deux associés qui s’entendaient bien. Ils n’ont eu aucun problème décisionnel. Il explique aussi que les locaux où l’appelante exerçait ses activités appartenaient à 50/50 aux sociétés de gestion des deux actionnaires. C’était ensemble qu’ils procédaient à l’embauche des employés. La signature des chèques se faisait par l’un ou par l’autre ou l’un et l’autre. L’endossement de la marge de crédit se faisait par les deux actionnaires personnellement. Personne ne dirigeait le travail de l’un ou de l’autre. Le montant du salaire était décidé d’un commun accord.
+Analyse et conclusion
+[12] Les alinéas 5(2)b), 5(2)i) et 5(1)a) de la Loi se lisent comme suit :
+5(2) N'est pas un emploi assurable :
+...
+b) l'emploi d'une personne au service d'une personne morale si cette personne contrôle plus de quarante pour cent des actions avec droit de vote de cette personne morale;
+...
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[13] Le représentant des appelants s’est appuyé sur la décision de la Cour d’appel fédérale dans Canada c. Dupuis, [1988] A.C.F. no 556 (Q.L.). Cette décision a été rendue en vertu de l’alinéa 14a) du Règlement sur l’assurance‑chômage qui se lisait comme suit :
+Sont exclus des emplois assurables les emplois suivants :
+a) l’emploi aux services d’une corporation si l’employé, son conjoint ou les deux contrôlent plus de 40 p. 100 des actions donnant droit de vote.
+[14] La Cour d’appel fédérale a ainsi statué :
+Comme cette Cour l’a signalé dans l’arrêt Cloutier, (1987) 74 N.R. 396, ce texte législatif ne parle pas de contrôle de corporation mais de contrôle d’actions; l’on pourrait ajouter aujourd’hui qu’il ne parle pas non plus de propriété mais bien de contrôle. Il est de l’évidence que celui qui contrôle cent pour cent des actions d’une corporation qui, à son tour, contrôle plus de quarante pour cent des actions d’une seconde corporation contrôle plus de quarante pour cent des actions de cette dernière.
+[15] La Cour d’appel fédérale fait noter qu’il ne s’agit pas du contrôle de jure ou de facto d'une société mais du contrôle de plus de 40 p. 100 des actions donnant droit de vote.
+[16] L’avocate de l’intimé s’est appuyée sur deux décisions de cette Cour, soit Boughen c. Canada, [1996] AC.I. no 757 (Q.L.) et Highland Roofing Ltd. c. Canada, [1998] A.C.I. no 922 (Q.L.).
+[17] Elle a cité le paragraphe 7 de la décision Boughen :
+Ni Ron ni Chris ne contrôlaient plus de 40 p. 100 des actions d'Opco. Étant donné que Holdco possédait la totalité des actions d'Opco, elle contrôlait cette compagnie. Ron et Chris avaient chacun besoin l'un de l'autre ou de leur père pour exercer le droit de vote relatif aux actions de Holdco, de la même façon qu'ils avaient besoin l'un de l'autre ou de leur père pour contrôler Opco. Comme je l'ai expliqué à l'audience, Opco était simplement un actif de Holdco. Par les décisions qu'elle prenait, Holdco dirigeait Opco. Pour qu'un actionnaire de cette compagnie puisse contrôler Opco et, par conséquent, plus de 40 p. 100 des actions d'Opco, il devait être capable de voter à l'égard de plus de 50 p. 100 des actions de Holdco, que ce soit à titre de titulaire des actions ou par suite de quelque entente concernant le droit de vote. Il n'a pas été établi que ce fût le cas.
+[18] De la décision de Highland Roofing Ltd., elle a cité le paragraphe 12 :
+Toutefois, la Cour hésite à retenir cet argument. M. Wentland ne possédait que 50 p. 100 des actions de Lorna. Il n'était donc pas actionnaire majoritaire et il ne pouvait donc pas à lui seul déterminer comment cette société exercerait le droit de vote que comportaient les actions de l'appelante qu'elle détenait. En d'autres termes, M. Wentland n'avait pas le contrôle de jure. Par conséquent, il serait erroné de conclure que M. Wentland contrôlait indirectement 25 p. 100 des actions de l'appelante du fait des actions de Lorna qu'il détenait. Cela étant, la Cour doit conclure que l'appelante contrôlait seulement 20 p. 100 des actions de l'appelante et que son cas ne relève donc pas de l'alinéa 5(2)b) de la Loi sur l'A-E.
+[19] Les motifs de ces deux décisions ne sont pas à leur face même faciles à déchiffer. Mais il me faut comprendre qu'il n'y a pas eu de confusion entre le contrôle d’une société et le contrôle de plus de 40 p. 100 des actions donnant droit de vote. L'emploi qui est exclu est celui du travailleur au service d'une société dont il détient plus de 40 p. 100 des actions donnant droit de vote et non pas au service d'une société dont il exerce le contrôle de jure ou de facto. La Loi n'exige pas un contrôle de cette nature pour exclure l'emploi. Il est bien connu que le contrôle de jure s'exerce avec plus de 50 p. 100 des actions donnant droit de vote. La détention de plus de 40 p. 100 des actions donnant droit de vote n'équivaut pas au contrôle de jure de la société.
+[20] Dans le présent appel, chacun des travailleurs contrôlait 100 p. 100 des actions d’une société qui contrôlait 50 p. 100 des actions d’une autre société qui elle contrôlait 100 p. 100 des actions de l’appelante. Il me semble évident qu'à l'instar du raisonnement de la Cour d'appel fédérale dans Dupuis, ci-dessus, chacun des travailleurs en cause contrôle plus de 40 p. 100 des actions de l'appelante donnant droit de vote. Qu’il y ait un échelon de plus que dans la décision de la Cour d’appel fédérale dans Dupuis ne peut pas modifier le raisonnement.
+[21] De plus, en ce qui concerne l’emploi assurable en vertu de l’alinéa 5(1)a), il est difficile de concevoir le lien de subordination nécessaire à l’emploi assurable entre les deux travailleurs et l’appelante. Les deux travailleurs déterminaient le montant de leur propre salaire, leur tâche de travail, leurs heures de travail ainsi que les dividendes qu’ils s’octroyaient pour augmenter leur rémunération. Ils étaient les propriétaires de l'appelante
+[22] De plus, il y a évidemment entre les deux travailleurs et l’appelante un lien de dépendance au sens du droit fiscal. Leur emploi est donc nécessairement exclu en vertu de l’alinéa 5(2)i) de la Loi. Pour qu’il ne s’agisse pas d’un emploi exclu, il faut alors une détermination du Ministre. Cette détermination n’a pas été faite.
+[23] L'appel est accordé.
+Signé à Ottawa, Canada, ce 8e jour de février 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2005CCI107
+No DU DOSSIER DE LA COUR :
+2004-2328(EI)
+INTITULÉ DE LA CAUSE :
+Paris Ladouceur & Associés Inc. et le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 24 janvier 2005
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 8 février 2005
+COMPARUTIONS :
+Représentant de l'appelante :
+André Brunet
+Avocate de l'intimé :
+Me Agathe Cavanagh
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

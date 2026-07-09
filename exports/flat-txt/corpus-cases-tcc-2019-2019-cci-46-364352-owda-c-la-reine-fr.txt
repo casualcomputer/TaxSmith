@@ -1,0 +1,142 @@
+Title: Owda c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/364352/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-46-364352-owda-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-02-28
+
+# Owda c. La Reine
+
+- Citation: 2019 CCI 46
+- Decision date: 2019-02-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4329, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Owda c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-02-28
+Référence neutre
+2019 TCC 46
+Numéro de dossier
+2016-1144(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-1144(IT)I
+ENTRE :
+AHMED OWDA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 24 octobre 2018, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Avocats de l’appelant :
+Me Ted Sawa
+Me Doug Schipilow
+Avocats de l’intimée :
+Me Meaghan Mahadeo
+Me Ian Wilenius
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies le 27 novembre 2014 sous le régime de la Loi de l’impôt sur le revenu fédérale pour les années d’imposition 2011, 2012 et 2013 de l’appelant est accueilli, et les nouvelles cotisations visées par l’appel sont déférées au ministre pour nouvel examen et nouvelles cotisations, selon les fondements indiqués dans la phrase suivante, le tout sans dépens, compte tenu du résultat partagé pour les deux parties.
+Les fondements du nouvel examen et des nouvelles cotisations sont que les nouvelles cotisations visées par l’appel doivent être rajustées de façon à tenir compte de ce qui suit :
+a) les soldes de la carte de crédit [traduction] « Visa RBC conjointe » de l’appelant pour le début et la fin de chacune des trois années d’imposition visées par l’appel, qui ont été inclus dans la proposition de consommateur de l’appelant, doivent être exclus du calcul de l’avoir net sur lequel se fonde chacune des nouvelles cotisations en cause;
+b) le gendre Zain Hussina a fait don à l’appelant et à son ménage de paiements en espèces de 2 745 $, de 11 734 $ et de 1 568 $ pour les années d’imposition 2011, 2012 et 2013, respectivement;
+c) le gendre Mohammed Sabra a fait don à l’appelant et à son ménage de paiements en espèces totalisant 5 400 $ pour l’année d’imposition 2013 seulement;
+d) la fille Noor a fait don à l’appelant et à son ménage de paiements en espèces totalisant 834 $, 5 061 $ et 4 133 $ pour les années d’imposition 2011, 2012 et 2013, respectivement;
+e) la fille Haneen a fait don à l’appelant et à son ménage de paiements en espèces totalisant 83 $, 3 188 $ et 677 $ pour les années d’imposition 2011, 2012 et 2013, respectivement;
+f) M. Karsoua a fait don à l’appelant et à son ménage de paiements en espèces totalisant 700 $ pour chacune des années d’imposition 2011, 2012 et 2013;
+g) chacune des trois pénalités pour faute lourde imposées en vertu du paragraphe 163(2) de la Loi pour les trois années d’imposition visées doit être supprimée.
+Signé à Saskatoon (Saskatchewan), ce 28e jour de février 2019.
+« B. Russell »
+Juge Russell
+Référence : 2019 CCI 46
+Date : 20190228
+Dossier : 2016-1144(IT)I
+ENTRE :
+AHMED OWDA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+Introduction
+[1] Dans le cadre de cet appel informel, l’appelant, Ahmed Owda, conteste les nouvelles cotisations fondées sur l’avoir net établies le 27 novembre 2014 par le ministre du Revenu national (le ministre) en vertu de la Loi de l’impôt sur le revenu (la Loi) à l’égard de ses années d’imposition 2011, 2012 et 2013. L’appelant travaillait comme chauffeur de taxi pendant ces années. Il a déclaré un revenu d’entreprise net de 8 985 $ (2011), de 12 243 $ (2012) et de 5 333 $ (2013). Il a fait l’objet de cotisations établissant qu’il avait reçu un revenu non déclaré de 42 470 $ (2011), de 29 203 $ (2012) et de 5 333 $ (2013), et il s’est fait imposer une pénalité pour faute lourde pour chacune de ces années d’imposition, à hauteur des montants suivants (arrondis) : 2 696 $ (2011), 1 411 $ (2012) et 2 492 $ (2013).
+[2] Certaines hypothèses du ministre présentées dans la réplique de l’intimée étaient particulièrement pertinentes pour le litige, y compris les hypothèses suivantes : l’appelant n’a pas conservé de livres et de registres appropriés; une vérification de l’avoir net a été menée pour les trois années visées, y compris un examen de l’actif et du passif du ménage de l’appelant comparativement au coût de la vie et au revenu du ménage pendant la même période, et les résultats sont détaillés dans les annexes jointes à la réplique; une ancienne vérification de la taxe de vente harmonisée a permis de découvrir des revenus non déclarés au cours des années d’imposition 2009 et 2010 de l’appelant; après cette vérification, l’appelant a été informé de la nécessité de conserver des livres et registres appropriés, et il a négligé de le faire; et l’appelant aurait dû savoir que les revenus déclarés ne pouvaient pas soutenir les dépenses et les obligations personnelles du ménage.
+Résumé de la preuve
+[3] L’appelant, un homme d’âge mûr, a déclaré qu’au cours de la période visée, il conduisait un taxi pendant quatre ou cinq heures, cinq nuits par semaine. Il louait son taxi. Il louait un phare de taxi à un autre chauffeur de taxi. Aucun registre des revenus provenant de sa conduite de taxi n’a été déposé en preuve. Il a dit qu’il donnait parfois un [traduction] « morceau de papier » à son épouse Sara au sujet de son revenu hebdomadaire et que, autrement, il lui rapportait cette information oralement. Sara a préparé ses déclarations de revenus annuelles. L’anglais était une langue seconde pour le mari et la femme (l’arabe étant leur langue maternelle). L’appelant n’a pas contesté le fait que le ministre a choisi d’effectuer une vérification de l’avoir net en raison de l’insuffisance de ses livres et registres. Il n’avait pas de compte bancaire distinct pour les affaires, mais utilisait plutôt un compte conjoint avec sa femme. La plupart des clients de taxi utilisaient le débit; peu d’entre eux payaient en espèces. Il savait que sa famille se trouvait dans une situation financière difficile au cours de la période visée et que les deux aînées de ses trois filles avaient donné de l’argent à sa femme, leur mère, pour aider avec la situation financière de la famille. Cependant, il n’était pas au courant des détails.
+[4] Baha Karsoua a témoigné. Il est un ami de l’appelant et de son épouse Sara, ayant déjà exploité son entreprise de ramassage de déchets, etc., parfois en conjonction avec l’entreprise de nettoyage de Sara. Il a déclaré qu’au cours de la période visée et depuis lors, Sara préparait parfois des repas à la maison pour lui et pour un, deux ou trois de ses compagnons de travail ou colocataires, pour lesquels ils lui payaient environ 20 $ par personne. Parfois, un montant supplémentaire lui était versé parce qu’elle lui disait qu’elle était à court d’argent. Aucun document n’a été déposé pour corroborer ces paiements effectués au cours de la période visée. Il a estimé qu’en tant que groupe, ses collègues et lui payaient de 500 $ à 1 000 $ par mois à Sara pour ces repas. Cet argent devait servir à rembourser les coûts de la nourriture.
+[5] Mohammed Sabra a témoigné. Il a épousé la deuxième fille aînée, Haneen Owda, vers 2015. Il a estimé qu’il donnait à la famille de 600 $ à 1 000 $ par mois pendant la période visée. Ce n’était pas toujours en espèces; il lui arrivait de payer des articles scolaires pour la fille benjamine. Il vivait avec la famille à peu près depuis le moment de leur mariage. Il a déclaré qu’il était évident, simplement en regardant dans le réfrigérateur et en écoutant les membres de la famille parler de factures, qu’ils éprouvaient des difficultés financières. Il a dit que dans sa culture musulmane arabe, lorsqu’on épouse une fille, on épouse aussi sa famille. Il a travaillé comme déménageur au sein de l’équipe de M. Karsoua et a également vendu des hot-dogs dans un établissement universitaire où il travaillait pour le « Dawgfather », connu localement, et il avait deux autres emplois à temps partiel, pas tous en même temps. Il a estimé que son revenu mensuel au cours de la période visée était de 2 000 $.
+[6] L’épouse de l’appelant, Sara Dayem, a témoigné. Ils se sont rencontrés et se sont mariés en 1984 au Koweït, et ils ont déménagé au Canada en 1996. Elle avait une carte MasterCard Canadian Tire pour son entreprise de nettoyage qu’elle a démarrée en 2011. Un relevé de cette carte de crédit indiquait, pour la période mensuelle se terminant le 24 janvier 2012, un solde de 6 116 $, et elle a témoigné sans corroboration documentaire que le solde au 31 décembre 2013 était de 10 150 $. Elle utilisait parfois la carte de crédit de son cousin avec sa permission, quand sa propre carte n’était pas acceptée à l’épicerie. Elle a déclaré avoir reçu des paiements périodiques, par la poste ou par livraison, d’un membre de la famille résidant au Canada, totalisant 12 000 $ par année, d’un cousin (ou d’un autre membre de la famille) au Koweït pour chacune des trois années visées. Cela faisait partie du soutien familial venant de l’étranger, compte tenu de sa situation financière difficile. Il y avait peu de corroboration documentaire, à part un reçu postal qui semblait montrer l’année 2011. Elle a dit que les paiements de M. Karsoua pour la cuisine visaient simplement à rembourser le coût réel de la nourriture. Elle cuisinait pour eux parce qu’elle aimait aider; c’était sa tradition culturelle. À l’occasion, M. Karsoua faisait un cadeau à sa fille benjamine pendant les vacances de l’Aïd. Elle a déclaré qu’une fois, lorsqu’elle avait vraiment besoin d’argent, il lui a donné 1 000 $ en espèces, une autre fois, un montant de plus de 1 000 $ par virement bancaire électronique et d’autres fois 200 $ ou 300 $. C’était surtout en 2012 et en 2013. Son mari travaillait habituellement, mais pas toujours, cinq nuits par semaine en conduisant un taxi. Sa fille aînée, Noor, a payé 3 400 $ sur sa carte Visa pour le voyage de Sara en Jordanie afin qu’elle rende visite à sa mère malade.
+[7] Pour son entreprise de nettoyage, elle a commencé à utiliser un compte bancaire d’entreprise en 2014, donc pas pendant la période visée. Elle a dit que l’argent comptant qu’elle recevait était en grande partie déposé à la banque. Les repas payés par M. Karsoua étaient simplement des remboursements de l’argent dépensé pour la nourriture préparée. Elle n’utilisait pas beaucoup d’argent comptant pour des transactions personnelles autres que chez Tim Hortons. L’argent qui se trouvait dans le compte bancaire servait d’abord au paiement de l’hypothèque sur leur maison, le montant annuel étant d’environ 16 000 $. Il arrivait parfois qu’un paiement soit manqué. Elle payait ses sous-traitants nettoyeurs en argent comptant.
+[8] Haneen Owda (deuxième fille) a témoigné. Pendant les années visées, elle vivait dans la maison familiale avec son père, l’appelant et sa mère. Elle avait des documents sur les retraits en espèces qui, en général, appuyaient son témoignage selon lequel elle faisait occasionnellement des dons en espèces à sa mère pour améliorer la situation financière difficile de la famille. Elle a déclaré avoir donné jusqu’à 4 000 $ (elle ne se souvenait pas du montant exact) à une occasion; autrement, ses dons individuels étaient de l’ordre de 200 $. Ses sources de financement étaient son travail chez Tim Hortons (seulement pour 2011) et, autrement, un prêt étudiant. Elle avait 19 ans en 2011. Elle a épousé M. Sabra en 2014. Elle recevait parfois de petits cadeaux en argent de ses parents, au besoin.
+[9] Zain Hussina a témoigné. Il travaille comme gestionnaire du développement des affaires pour web.com. L’appelant est son beau-père, et sa fille aînée, Noor Owda, est son épouse. Pendant les années visées, M. Hussina était employé par Bell Aliant comme vendeur itinérant. Il avait un bon revenu et vivait avec la famille de son épouse tout au long de la période pertinente. Il n’était pas tenu de payer un loyer ou de contribuer d’une autre façon, mais il pouvait voir que la famille était à bout de ressources et il voulait l’aider financièrement. Il a fait des dons en espèces, et il s’agit là d’une préférence culturelle. Ses dossiers bancaires ont été déposés en preuve et montraient des retraits en espèces de 400 $, 380 $, 500 $, 40 $, 500 $, 100 $, 500 $, 500 $, etc. Il a observé Sara cuisiner pour M. Karsoua et son groupe, assez souvent. Il a déclaré que l’appelant ne travaillait pas beaucoup d’heures et que, parfois, M. Hussina a remarqué que l’appelant dormait dans son taxi la nuit alors qu’il était censé travailler.
+[10] La fille aînée, Noor Owda, a témoigné. Elle vivait chez ses parents pendant toute la période visée, sauf pendant cinq mois où elle était en Alberta en 2012. En 2011, elle a travaillé pendant deux mois et était sans emploi le reste de l’année. En 2012, à Calgary, elle a travaillé pour Shaw Communications et la Caleo Spine Health Clinic. En 2013, elle a travaillé à Centric Health (puis à Lifemark). Son revenu pour les trois années était d’environ 12 000 $ (2011), 27 000 $ (2012) et 13 000 $ (2013). Ses relevés bancaires montrent des retraits d’argent comptant qui, selon son témoignage, ont été donnés à ses parents pour l’épicerie et tout ce qui était nécessaire. Son père ne gagnait pas beaucoup d’argent, avait des problèmes de santé et [traduction] « se faisait agresser souvent ». La famille essayait de l’amener à cesser de travailler; ils pouvaient gérer la situation financière. Elle a dit que son père travaillait environ cinq fois par semaine, et de quatre à cinq heures chaque fois, parfois moins. Il travaillait tard le soir et prenait habituellement congé le dimanche et le lundi.
+[11] Elle connaissait M. Karsoua, qui travaillait avec sa mère dans l’entreprise de nettoyage, mais avait peu d’interactions avec lui. Elle a dit l’avoir vu donner des centaines de dollars à sa petite sœur. Les dons qu’elle a faits à sa mère étaient surtout faits en espèces, et peut-être 10 % du temps par transfert électronique. Lorsqu’elle était en Alberta, elle retirait de l’argent et le donnait à des amis pour qu’ils le donnent à sa mère à leur retour à la maison. Elle préférait donner de l’argent comptant plutôt que d’effectuer des transferts électroniques d’argent, car cela correspondait davantage à la préférence culturelle pour les cadeaux en argent. Lorsqu’elle était à la maison, elle allait faire l’épicerie ou acheter des vêtements avec ses parents et elle faisait généralement les achats avec sa carte de crédit Visa.
+[12] Lorsqu’elle a acheté des billets d’avion pour que sa mère et sa sœur puissent aller en Jordanie en décembre 2012, elle l’a fait à l’aide de sa carte Visa. Par la suite, sa mère lui a fait un remboursement partiel à l’aide d’argent venant de son frère. En 2012, lorsqu’elle était en Alberta, son mari, M. Hussina, vivait avec la famille de son épouse. Parfois, sa mère utilisait le numéro de la carte Visa de Noor, avec la permission permanente de Noor. Sa mère lui a aussi fait des transferts, surtout lorsque sa mère et ses amis ont utilisé sa carte Visa pour faire des achats en ligne. Noor obtenait des points, et sa mère et ses amis lui donnaient généralement le montant de l’achat en espèces avant de procéder à l’achat en ligne à l’aide de sa carte Visa. Elle se souvient avoir à l’occasion payé la facture d’électricité et d’eau de ses parents avec sa carte de crédit. Elle ne se rappelle pas exactement quand.
+[13] Les avocats de l’appelant ont de nouveau appelé Sara Dayem à la barre. Elle a identifié les relevés de compte d’entreprise pour ses services de nettoyage de décembre 2012 à janvier 2013 et de décembre 2013 à décembre 2014 (pièce A‑11a). Elle a mentionné plusieurs transactions en espèces relativement mineures qui étaient liées aux affaires.
+[14] Les avocats de l’intimée ont appelé un témoin, Mme A. Williams de l’Agence du revenu du Canada (ARC). Elle a effectué la vérification de l’avoir net en question. Elle a témoigné au sujet des différents aspects de sa vérification de l’avoir net et a été contre-interrogée en conséquence.
+Question en litige
+[15] Les questions à trancher, bien sûr, sont de savoir si et dans quelle mesure les cotisations fondées sur l’avoir net en question, de même que les pénalités pour faute lourde imposées en vertu du paragraphe 163(2), sont valides pour les années d’imposition 2011, 2012 et 2013 de l’appelant.
+Analyse et conclusion
+[16] Le paragraphe 152(7) de la Loi permet des cotisations « arbitraires » par le ministre lorsqu’il n’accepte pas les renseignements contenus dans une déclaration ou autrement fournis par un contribuable comme étant des renseignements valides. Les nouvelles cotisations fondées sur l’« avoir net » qui sont visées par l’appel ont été établies conformément à cette disposition.
+[17] La jurisprudence a établi que les cotisations fondées sur l’avoir net sont des approximations imprécises du revenu d’un contribuable. Le ministre n’est pas tenu d’indiquer les sources de l’approximation de la richesse du contribuable que le ministre détermine arbitrairement. Le défaut d’un contribuable de tenir des livres et des registres adéquats pour déterminer son revenu imposable suffit à justifier l’utilisation de la méthode de l’avoir net. (Voir Malone c. R., 2006 CCI 133, par. 3 et Hsu c. R., 2001 CAF 240, par. 30.)
+[18] Dans la présente procédure informelle, j’accepte la concession de l’intimée, au par. 53 des observations écrites de cette partie, selon laquelle les soldes de la carte de crédit [traduction] « Visa RBC conjointe » de l’appelant au début et à la fin de chacune des trois années d’imposition visées qui ont été inclus dans la proposition de consommateur de l’appelant devraient être exclus du calcul de l’avoir net sur lequel se fonde chacune de nouvelles cotisations visées par l’appel.
+[19] Après avoir entendu et examiné le témoignage des différents témoins dans cette affaire, je suis convaincu que l’appelant a reçu des cadeaux en espèces en plus de ceux reconnus par la vérificatrice de l’ARC. En particulier, je crois que les deux gendres ont chacun versé de telles cotisations au profit du père et de la mère de leur épouse respective. En raison du manque de preuves documentaires pouvant servir de corroboration, je conclus que le gendre Zain Hussina a contribué au moins 75 % des montants qu’il croit avoir contribués; ainsi, j’accepte qu’il a donné, au profit de l’appelant, de sommes de 2 745 $ (3 660 $ x 75 %), de 11 734 $ (15 654 $ x 75 %) et de 1 568 $ (2 090 $ x 75 %) pour les années d’imposition 2011, 2012 et 2013, respectivement. Je remarque que le revenu de M. Hussina en 2012 était nettement supérieur à celui des deux autres années.
+[20] Je reconnais que cette approximation est quelque peu arbitraire, mais elle l’est dans le contexte des cotisations arbitraires établies en vertu du paragraphe 152(7) de la Loi susmentionné. Elle reflète également ma meilleure estimation du scénario factuel réel, fondée sur la preuve que j’ai entendue dans toutes les circonstances de l’appel. Le même commentaire s’applique aux diverses autres conclusions de fait que je formule ci-dessous.
+[21] Quant au gendre Mohammed Sabra, qui étudiait à temps partiel et qui avait un revenu mensuel estimé de 4 000 $ seulement, je crois que, dans l’ensemble, il a probablement contribué un montant inférieur à son estimation de 600 $ à 1 000 $ par mois. Je ne suis pas certain que cela se soit produit pendant toute la période visée (de 2011 à 2013) plutôt que plus récemment. Je conclurais, encore une fois en l’absence d’une corroboration documentaire claire, que sa contribution mensuelle moyenne était plus susceptible d’être de l’ordre de 450 $ (soit 75 % de la tranche inférieure de 600 $ de l’estimation), et ce, seulement pour la dernière année visée, soit l’année d’imposition 2013.
+[22] Pour ces deux jeunes hommes, je reconnais qu’ils étaient en grande partie motivés à donner de l’argent à leurs beaux-parents (actuels et potentiels) compte tenu de leurs traditions culturelles (mentionnées à plusieurs reprises par les témoins) et aussi par simple bonté, parce qu’ils reconnaissaient les difficultés financières de la famille. Les transactions financières familiales ne sont généralement pas documentées dans la mesure où l’on peut s’y attendre dans le cadre de relations sans lien de dépendance.
+[23] À cet égard, je prends également note des contributions en espèces des deux filles aînées, Noor et Haneen. Encore une fois, la documentation n’est pas une caractéristique des transactions avec lien de dépendance. Je suis certain que les deux filles souhaitaient aider leurs parents quand elles le pouvaient. La vérificatrice de l’ARC a reconnu les opérations électroniques documentées. Je constaterais également un montant modeste de dons en espèces non documentés correspondant à 75 % des montants déclarés pour chacune des années d’imposition; ainsi, dans le cas de Noor, il s’agit de sommes de 834 $ (1 112 $ x 75 %), de 5 061 $ (6 748 $ x 75 %) et de 4 133 $ (5 510 $ x 75 %) pour les années d’imposition 2011, 2012 et 2013, respectivement; et dans le cas de Haneen, il s’agit de sommes de 83 $ (110 $ x 75 %), de 3 188 $ (4 250 $ x 75 %) et de 677 $ (902 $ x 75 %) pour les années d’imposition 2011, 2012 et 2013, respectivement.
+[24] Pour ce qui est de M. Karsoua, j’estime que la preuve est relativement claire, à savoir que ses paiements pour les repas cuisinés à la maison de Sara pour lui et son groupe visaient uniquement à couvrir les coûts des aliments. Je suis d’accord avec l’intimée pour dire que le montant utilisé par la vérificatrice pour les coûts des aliments de la famille était si modeste qu’il n’aurait pas pu inclure les coûts des aliments associés à cette entreprise de repas faits à la maison. C’était donc essentiellement de l’argent dépensé qui était remboursé. Je reconnais qu’il a peut‑être fait des dons en espèces à l’occasion, mais je n’ai pas grand-chose à dire sur le montant de ces paiements. Je suis prêt à accepter que le montant de ces paiements au cours de chacune des trois années en question ait été de l’ordre de 700 $.
+[25] Nous n’avons entendu aucun témoignage du frère ou de l’oncle de Sara au sujet des sommes qu’ils auraient données pour couvrir les coûts du ménage de l’appelant. Par conséquent, je ne changerais pas la position de la vérificatrice de l’intimée quant aux contributions de ces deux personnes.
+[26] En ce qui concerne la carte de crédit MasterCard Canadian Tire, je suis d’accord avec les avocats de l’intimée pour dire qu’en l’absence de soldes de début et de fin d’année, rien ne peut ou ne devrait être fait pour inclure la prise en compte de cette carte de crédit dans le calcul de l’avoir net.
+[27] Je suis également d’accord avec les avocats de l’intimée pour dire que, si les avocats de l’appelant souhaitaient contre-interroger la vérificatrice de l’ARC sur des aspects de la vérification, ils auraient dû prendre des mesures avant l’audience pour obtenir eux-mêmes les notes et les documents de travail de la vérificatrice pour ce faire. Il ne serait pas efficace de soutenir que la vérificatrice aurait dû avoir ses documents avec elle en cour, en l’absence de toute demande préalable à l’audience de la part des avocats de l’appelant.
+[28] Dernièrement, en ce qui a trait à la pénalité pour faute lourde établie pour chacune des trois années, je suis d’accord avec l’appelant et ses avocats pour dire que, compte tenu du nombre d’heures durant lesquelles l’appelant conduisait un taxi chaque semaine, et la nuit quand il y avait moins de clients, il n’est pas possible de déterminer facilement s’il avait pu conduire un nombre suffisant d’heures pour gagner les montants de revenus non déclarés découverts par la vérificatrice. Bien entendu, ces montants seront également compensés dans une large mesure par les conclusions factuelles énoncées ci-dessus. Dans ces circonstances, j’estime qu’il convient de refuser l’imposition d’une pénalité en vertu du paragraphe 163(2). Les circonstances ne sont pas suffisamment extrêmes pour justifier ces lourdes pénalités.
+[29] En conclusion, je maintiens les nouvelles cotisations visées par l’appel, sauf dans la mesure des changements que j’ai mentionnés ci-dessus. Comme le résultat de l’appel est partagé, des dépens ne sont pas adjugés.
+Signé à Saskatoon (Saskatchewan), ce 28e jour de février 2019.
+« B. Russell »
+Juge Russell
+RÉFÉRENCE :
+2019 CCI 46
+NO DU DOSSIER DE LA COUR :
+2016-1144(IT)I
+INTITULÉ :
+Ahmed Owda et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE :
+Le 24 octobre 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 28 février 2019
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Ted Sawa
+Me Doug Schipilow
+Avocats de l’intimée :
+Me Meaghan Mahadeo
+Me Ian Wilenius
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Ted Sawa
+Me Doug Schipilow
+Cabinet :
+Boyne Clarke
+Pour l’intimée :
+Me Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

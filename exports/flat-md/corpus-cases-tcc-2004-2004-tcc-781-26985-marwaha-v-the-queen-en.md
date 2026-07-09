@@ -1,0 +1,135 @@
+---
+title: "Marwaha v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26985/index.do"
+last_modified: "2004-12-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 781"
+citation2: ""
+neutral_citation: "2004 TCC 781"
+decision_date: "2004-12-09"
+language: "en"
+item_id: "26985"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 530
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:45:26.481000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f0aa230d2d99ef0e85dcb1e218a4b8080bd105f4266c7e18a817c8c0c8195709"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Marwaha v. The Queen
+
+- Citation: 2004 TCC 781
+- Decision date: 2004-12-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 530, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marwaha v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-09
+Neutral citation
+2004 TCC 781
+File numbers
+2003-3613(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3613(IT)I
+BETWEEN:
+PREMWATI MARWAHA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on August 6, 2004 at Toronto, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Agent for the Appellant:
+Yash Marwaha
+Counsel for the Respondent:
+John Grant
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1998, 1999 and 2000 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of December, 2004.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2004TCC781
+Date: 20041209
+Docket: 2003-3613(IT)I
+BETWEEN:
+PREMWATI MARWAHA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] The issue in this appeal relates to the Appellant's claims for refunds of Ontario Tax Credits relating to rents paid by the Appellant to her son Yash Marwaha in the 1998, 1999 and 2000 taxation years. Based upon the rents allegedly paid the refunds claimed were $660.00 in respect of 1998; $660.00 in respect of 1999; and $628.00 in respect of 2000.
+[2] The Appellant's Notice of Appeal reads as follows:
+Reason for Waiver
+I am 88 years old, paralysed with stroke for the last 5 years, having severe constraint of funds.
+Reason for the Appeal
+I paid rent for the years 1998, 1999 and 2000.
+It should be allowed as I have always paid my way to safeguard my personal independence.
+[3] The Respondent's preliminary objection raised in the Reply to the Notice of Appeal reads in part as follows:
+He ("the Respondent") respectfully submits that this Honourable Court is unable to grant the relief sought with respect to the Appellant's entitlement to Ontario Tax Credits for the 1998, 1999 and 2000 taxation years, within the meaning of section 169 of the Income Tax Act, (the "Act") R.S.C. 1985, c.1 (5th Supp.) as amended, since the Ontario Property Tax Credit is a credit provided under the provisions of the Ontario Income Tax Act ...
+[4] The Respondent also at first submitted that since the assessments for the three years in question were nil assessments, the appeals should be dismissed, but the Respondent later abandoned this submission.
+Decision
+[5] In my opinion there is absolutely no doubt in the matter. It is clear that this Court has no jurisdiction to adjudicate with respect to Ontario Tax Credits and that any appeal in this regard must be made to the Ontario Superior Court of Justice.
+[6] The foregoing conclusion is not affected by the fact that, apparently as stated in the Reply to the Notice of Appeal, the Appellant was issued cheques for the refund amounts claimed.
+[7] Therefore for the above reasons this Court has no alternative but to dismiss the appeal.
+Signed at Ottawa, Canada, this 9th day of December, 2004.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2004TCC781
+COURT FILE NO.:
+2003-3613(IT)I
+STYLE OF CAUSE:
+Premwati Marwaha and H.M.Q.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 6, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice T. O'Connor
+DATE OF JUDGMENT:
+December 9, 2004
+APPEARANCES:
+Agent for the Appellant:
+Yash Marwaha
+Counsel for the Respondent:
+John Grant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

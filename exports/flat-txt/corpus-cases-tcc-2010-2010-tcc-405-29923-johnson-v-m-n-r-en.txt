@@ -1,0 +1,136 @@
+Title: Johnson v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29923/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-405-29923-johnson-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2010-07-28
+
+# Johnson v. M.N.R.
+
+- Citation: 2010 TCC 405
+- Decision date: 2010-07-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6471, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnson v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-07-28
+Neutral citation
+2010 TCC 405
+File numbers
+2009-192(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2009-192(EI)
+2009-193(CPP)
+BETWEEN:
+ROBERT JOHNSON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 22, 2010 at Edmonton, Alberta
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Wayne Throndson
+Counsel for the Respondent:
+Amy Martin-LeBlanc
+Marla Teeling
+____________________________________________________________________
+JUDGMENT
+In reference to appeals instituted by Robert Johnson under the Employment Insurance Act and the Canada Pension Plan concerning the engagement of James Dunn, it is ordered that:
+1. the appeal with respect to a confirmation of a ruling made by the Minister of National Revenue is allowed, and the ruling is varied on the basis that Mr. Dunn was not engaged in insurable employment with the appellant in 2005 and 2006, and was not engaged in pensionable employment with the appellant in 2004, 2005 and 2006; and
+2. the appeal with respect to a confirmation of assessments relating to insurable employment for 2005 and 2006 and pensionable employment for 2004, 2005 and 2006 is allowed, and the assessments are vacated.
+Each party shall bear their own costs.
+Signed at Toronto, Ontario this 28th day of July 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 405
+Date: 20100728
+Dockets: 2009-192(EI)
+2009-193(CPP)
+BETWEEN:
+ROBERT JOHNSON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] For several years, James Dunn worked on a farm belonging to the appellant, Robert Johnson. The question in this appeal is whether Mr. Dunn was engaged by the appellant as an employee or independent contractor for purposes of the Employment Insurance Act and the Canada Pension Plan. The appellant submits that Mr. Dunn was an independent contractor.
+[2] The periods at issue are: (1) 2005 and 2006 for the appeal under the Employment Insurance Act, and (2) 2004, 2005 and 2006 for the appeal under the Canada Pension Plan.
+[3] The procedural history is somewhat unusual in that the appeal relates to both a ruling and assessments. In all of the determinations, the Minister of National Revenue concluded that Mr. Dunn was an employee.
+[4] Mr. Johnson and Mr. Dunn each provided extensive testimony as to the nature of the engagement. Although both appeared to be credible witnesses, Mr. Johnson’s testimony was not as detailed as I would have liked in some areas. As an example, the circumstances that led to the creation of the written agreement that retroactively governed their relationship was not fully explained.
+[5] My findings of fact are set out below.
+[6] Mr. Dunn was hired by Mr. Johnson in 1997 to work mainly in his cattle transportation business. Mr. Dunn also assisted in setting up a hog raising business that was in its formative stages around that time.
+[7] As things turned out, the cattle transportation business was not sustainable and after a relatively short period of time Mr. Dunn ended up working in the hog raising operation. This required a variety of skills, all of which Mr. Dunn handled very competently. Mr. Johnson worked in the other farming operations.
+[8] The period at issue begins in 2004. At this time, Mr. Dunn was managing the hog raising side of the farming operation, and he occasionally helped out in other areas when he had time.
+[9] A written agreement, called “Service Contract,” was entered into evidence by counsel for Mr. Johnson. It was prepared by Mr. Dunn at Mr. Johnson’s request. There is no execution date on the agreement and I accept Mr. Dunn’s testimony that it was prepared around the time that it was forwarded to the Canada Revenue Agency in November 2001.
+[10] Mr. Johnson believed that this agreement satisfied the CRA that Mr. Dunn was engaged as an independent contractor. That may be so because it appears that the Minister did not determine otherwise until 2004.
+[11] The written agreement accurately reflects the relationship both during and after its stated term. The agreement is effective from January 1, 1997 to December 31, 2001. It continued to govern the relationship, subject to increases in the hourly fee.
+[12] In general, the agreement provides:
+- Mr. Dunn is to manage the hog breeding operation;
+- Mr. Dunn is to be paid on an hourly basis and has no set hours;
+- two days off are provided every two weeks; two weeks paid holidays are also provided; and
+- a performance bonus is to be paid if the number of hogs sold exceeds a specified amount.
+[13] The usual type of employee benefits were not provided, and Mr. Dunn arranged his own disability insurance.
+[14] Occasionally, when additional help was required Mr. Dunn arranged for his children and Mr. Johnson’s son to help out. These occurrences were approved by Mr. Johnson, and he paid for the children’s services.
+[15] No source deductions were made in respect of the hourly fees paid to Mr. Dunn.
+[16] Mr. Johnson suggested that he was not able to be involved in the farm business during significant portions of time in the relevant period because he was suffering from the effects of cancer treatment. I accept this testimony, but I tend to agree with Mr. Dunn’s testimony that there was not a significant impact on the hog business in the sense that Mr. Johnson would usually have been available for consultation. In any event, I find that the fundamental nature of the relationship did not change as a result of Mr. Johnson’s illness.
+Analysis
+[17] The legal principles to be applied in a case such as this are well known. At their core, it is necessary to determine whether Mr. Dunn was in business for himself. The Wiebe Door factors of control, chance of profit, risk of loss, and ownership of tools should be among the factors considered. Further, if the parties have a mutual intention that their relationship be one of independent contractor or employment, this will govern provided that the relationship is consistent with this intent.
+[18] The conclusion that I have reached based on the evidence as a whole is that Mr. Dunn was engaged as an independent contractor during the periods at issue.
+[19] The factor of control is often a very important factor, and this case is no exception.
+[20] In terms of the day to day hog operations, I have concluded that Mr. Johnson likely was involved only from a strategic and high level point of view. He would not have been involved in ordinary operations, but Mr. Dunn likely kept him well informed as to how the operation was doing.
+[21] It is likely that there were very few discussions, if any, between Mr. Johnson and Mr. Dunn as to the amount of control that Mr. Johnson could exercise. It is not surprising that Mr. Dunn would assume that Mr. Johnson could call the shots, because he owned the farm. Mr. Johnson, on the other hand, believed that his control was limited in accordance with the written agreement.
+[22] The written agreement appears to contemplate that Mr. Johnson’s control is limited. For example, it states that Mr. Dunn will manage the hog breeding operation, with the exception of renovation expenditures which require Mr. Johnson’s approval.
+[23] I have concluded on balance that Mr. Johnson was not to have control over how Mr. Dunn managed the hog operation, except to the extent necessary to protect Mr. Johnson’s investment. This is consistent with an independent contractor relationship.
+[24] Among the other factors that point to an independent contractor relationship are that Mr. Dunn’s required services are restricted to the hog operation. He occasionally helped out in other areas, but he was not required to do so. In addition, Mr. Dunn could set his own hours, and he had purchasing authority, except for capital expenditures.
+[25] As for the other Wiebe Door factors, I find that they are not as important in this case, but that they point in the direction of an independent contractor relationship. In particular, Mr. Dunn was entitled to a performance bonus, he used his vehicle in the course of his work without reimbursement, and he had to supply personal items such as boots, gloves, masks and clothing.
+[26] Counsel for the respondent emphasized that the farm equipment was supplied by Mr. Johnson. With respect, this puts the focus on the wrong tools.
+[27] When giving consideration to tools, it is important to identify the business that the contractor operates. In this case, Mr. Dunn did not own a hog raising business. That business was owned by Mr. Johnson. Mr. Dunn’s business consisted only of providing management and operations services. The tools that are relevant for this business are the tools used specifically to provide these services. The farm property itself is not a “tool” needed for this purpose.
+[28] As for the intention of the parties, this is reflected in the written agreement. Essentially, this document was a layman’s attempt to draft a contract evidencing an independent contractor relationship. That clearly was Mr. Johnson’s intention. Mr. Dunn’s intention is less evident but, by signing the Service Contract, he implicitly agreed that the relationship was not employment.
+[29] Based on the above factors, I have concluded that Mr. Dunn was an independent contractor during the periods at issue. The appeal will be allowed on that basis.
+[30] As for costs, each party will have to bear their own in light of the jurisprudence on this point: Mid-Canada Rail Contractors Ltd. v. MNR, [1998] FCJ No. 344.
+[31] Before concluding, I would comment briefly concerning a question that Mr. Dunn asked me during the hearing. The question is: Who has the obligation to determine whether a relationship is employment or not?
+[32] For purposes of the Employment Insurance Act and the Canada Pension Plan, the responsibility is on the worker and the payor to determine whether the relationship constitutes employment or not. The system is a self-assessment system similar to the Income Tax Act.
+[33] That is not the end of the matter, however, as the Canada Revenue Agency may disagree with this determination. For this reason, it is important that the determination made by the parties be legally supportable.
+[34] If it is not feasible for the parties to obtain professional advice, assistance may be obtained from the CRA website, and a ruling could be sought from the CRA in cases of doubt.
+[35] In this case, there was considerable uncertainty as to the nature of the relationship. If the written agreement had explicitly stated that Mr. Dunn was to be an independent contractor, this litigation likely could have been avoided.
+Signed at Toronto, Ontario this 28th day of July 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 405
+COURT FILE NOS.: 2009-192(EI)
+2009-193(CPP)
+STYLE OF CAUSE: ROBERT JOHNSON and THE
+MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: June 22, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: July 28, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Wayne Throndson
+Counsel for the Respondent:
+Amy Martin-LeBlanc
+Marla Teeling
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Wayne Throndson
+Firm: Fielding & Company LLP
+Edmonton, Alberta
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

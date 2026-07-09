@@ -1,0 +1,146 @@
+Title: Manhas v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26722/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-327-26722-manhas-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-05-13
+
+# Manhas v. The Queen
+
+- Citation: 2005 CCI 327
+- Decision date: 2005-05-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3403, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Manhas v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-13
+Référence neutre
+2005 CCI 327
+Numéro de dossier
+2000-4538(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-4538(IT)G
+ENTRE :
+PAUL MANHAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue le 17 janvier 2005 à Nanaimo (Colombie-Britannique).
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Karen Truscott
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ORDONNANCE
+L'intimée ayant présenté une requête en vue d'obtenir le rejet des appels au motif que l'appelant a contrevenu à une ordonnance de la Cour datée du 17 septembre 2004 en omettant d'acquitter les dépens adjugés à l'intimée par suite de la demande de l'appelant de reporter une date d'audience antérieure, et au motif que l'appelant a contrevenu à une ordonnance de la Cour datée du 26 mars 2004 en omettant de produire des renseignements et des documents conformément à un engagement formulé lors de l'interrogatoire préalable;
+L'affidavit de Thomas Torrie ayant été lu;
+Les allégations des parties ayant été entendues;
+La requête est rejetée.
+Signé à Vancouver (Colombie-Britannique), ce 13e jour de mai 2005.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 28e jour de décembre 2005.
+Mario Lagacé, réviseur
+Dossier : 2000-4538(IT)G
+ENTRE :
+PAUL MANHAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 17 janvier 2005 à Nanaimo (Colombie-Britannique).
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Karen Truscott
+[TRADUCTION FRANÇAISE OFFICIELLE]
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1993, 1994 et 1995 sont accueillis sans dépens, selon les motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 13e jour de mai 2005.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 28e jour de décembre 2005.
+Mario Lagacé, réviseur
+Référence : 2005CCI327
+Date : 20050513
+Dossier : 2000-4538(IT)G
+ENTRE :
+PAUL MANHAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS :
+[1] L'appelant vit à Nanaimo, en Colombie-Britannique.
+[2] Pendant les années d'imposition 1993, 1994 et 1995, l'appelant dirigeait la Via Contracting Ltd. (Via) et la Gurdev Holdings Ltd. (Gurdev) (ci-après appelées les entreprises).
+[3] Via était une entreprise de démolition et d'excavation, et elle louait du matériel et des locaux à bureaux de Gurdev.
+[4] L'appelant était président des entreprises, en plus d'en être un administrateur. Dans son témoignage, l'appelant a indiqué que son père, Gurdev Manhas, était l'unique actionnaire des entreprises.
+[5] Pour les années d'imposition susmentionnées, l'appelant a déclaré son revenu comme suit :
+Revenu
+1993 - 10 673 $
+1994 - 28 144 $
+1995 - 11 876 $
+[6] Les fonctionnaires de l'Agence du revenu du Canada (ARC) ont déterminé que les sommes déclarées comme revenu pour les années d'imposition 1993, 1994 et 1995 ne suffisaient pas pour couvrir les frais de subsistance de l'appelant.
+[7] Les fonctionnaires de l'ARC ont effectué une vérification et ils ont calculé l'avoir net de l'appelant. D'après le calcul de l'avoir net, le ministre du Revenu national (le ministre) a déterminé que l'appelant avait déclaré en moins son revenu comme suit :
+Somme déclarée Revenu déclaré
+comme en moins imposé
+revenu au départ
+1993 10 673 $ 73 218 $
+1994 28 144 $ 56 950 $
+1995 11 876 $ 1 493 $
+[8] Après avoir constaté le revenu déclaré en moins, le ministre a imposé les pénalités suivantes en vertu du paragraphe 163(2) de la Loi de l'impôt sur le revenu (la Loi) :
+Revenu
+1993 - 3 633,52 $
+1994 - 4 232,21 $
+1995 - 1 197,31 $
+[9] L'appelant a produit des avis d'opposition aux nouvelles cotisations, et les fonctionnaires de la Section des appels de l'ARC ont accepté de réduire le revenu non déclaré de l'appelant comme suit :
+Revenu non déclaré révisé
+1993
+32 936 $
+1994
+36 293 $
+1995
+13 675 $
+B. QUESTIONS :
+[10] Il s'agit de déterminer :
+a) si le revenu de l'appelant pour les années d'imposition 1993, 1994 et 1995 a été déclaré en moins;
+b) si le ministre a eu raison d'imposer des pénalités.
+C. ANALYSE :
+[11] L'avocate de l'intimée a fait remarquer que la charge de prouver que le calcul de l'avoir net est inexact incombe à l'appelant et que ce dernier doit s'acquitter de cette charge.
+[12] J'ai examiné attentivement les éléments de preuve présentés par l'appelant et ceux qu'a présentés l'avocate de l'intimée. D'après ces éléments de preuve, j'ai déterminé qu'il faut déduire du revenu de l'appelant certaines sommes, comme il est expliqué ci-dessous.
+[13] L'appelant a témoigné qu'en 1993, une voiture de marque DeLorean a été achetée au prix de 12 000 $. L'appelant maintient que c'est son père, Gurdev, qui a acheté la voiture avec de l'argent que lui devait Via. L'appelant a dit que la voiture est entreposée dans un garage depuis le jour où elle a été achetée. D'après une analyse approfondie de la preuve, j'ai conclu que cette opération n'a rien à voir avec l'appelant et, donc, que la somme de 12 000 $ doit être retranchée du calcul de l'avoir net de l'appelant.
+[14] Selon les nouvelles cotisations, le ministre a établi que les dépenses personnelles de l'appelant étaient de 400 $ par mois ou 4 800 $ par année.
+[15] L'appelant trouve que ce montant est trop élevé et qu'il devrait plutôt être de 300 $ par mois ou 3 600 $ par année. Je suis d'accord avec l'appelant et j'estime qu'il faut retrancher 1 200 $ du calcul de l'avoir net pour chacune des années d'imposition en cause, soit 1993, 1994 et 1995.
+[16] L'appelant a témoigné que, pour les années d'imposition 1993, 1994 et 1995, il avait un compte bancaire à la succursale de la Banque Canadienne Impériale de Commerce située dans le centre commercial Harbour Park. L'appelant a dit que, plus tard, il a transféré son compte à la succursale de la Banque Canadienne Impériale de Commerce située dans le centre commercial Country Club. L'avocate de l'intimée a dit que les fonctionnaires de l'ARC avaient demandé une copie des dossiers bancaires, mais que l'appelant ne leur a rien fourni.
+[17] Comme il est indiqué ci-dessus, il incombait à l'appelant de prouver que le calcul de l'avoir net effectué par le ministre était inexact. L'appelant soutient que le calcul était inexact. Cependant, l'appelant n'a pas produit d'éléments de preuve valables pour établir que les calculs du ministre étaient inexacts. Par conséquent, j'accepte la majorité des calculs du ministre.
+[18] Les appels sont accueillis de manière à supprimer du calcul de l'avoir net la somme de 12 000 $ utilisée en 1993 pour acheter la voiture de marque DeLorean et à réduire le montant des dépenses personnelles de 4 800 $ par année à 3 600 $ par année. Il n'y a aucun autre redressement à effectuer dans les nouvelles cotisations. J'ai décidé de ne pas adjuger les dépens liés à l'appel. Cependant, l'appelant a contrevenu à l'ordonnance de la Cour datée du 17 septembre 2004 en omettant de payer les 405,39 $ adjugés à l'intimée. Il doit donc payer sans délai cette somme à l'intimée.
+[19] Enfin, j'ai conclu que les pénalités doivent être maintenues, mais qu'il faut les redresser pour qu'elles tiennent compte des montants retranchés du revenu.
+Signé à Vancouver (Colombie-Britannique), ce 13e jour de mai 2005.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 28e jour de décembre 2005.
+Mario Lagacé, réviseur

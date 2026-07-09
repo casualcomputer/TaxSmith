@@ -1,0 +1,151 @@
+---
+title: "White v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25150/index.do"
+last_modified: "2003-09-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 668"
+citation2: ""
+neutral_citation: "2003 CCI 668"
+decision_date: "2003-09-17"
+language: "fr"
+item_id: "25150"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2596
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:45:11.201000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6550fbf91a02f5912f268de26e63dd97d4dfd6290c988bfb25da615faa95014e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# White v. The Queen
+
+- Citation: 2003 CCI 668
+- Decision date: 2003-09-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2596, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+White v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-17
+Référence neutre
+2003 CCI 668
+Numéro de dossier
+2003-323(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-323(IT)I
+ENTRE :
+ANTHONY J. E. WHITE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus conjointement avec l'appel de Shelagh White (2003-324(IT)I)
+le 10 septembre 2003, à Toronto (Ontario)
+Par : L'honorable juge E. A. Bowie
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocats de l'intimée :
+Me Jason J. Wakely et Me Carol Calabrese
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre de cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997 et 1998 sont rejetés.
+Signé à Ottawa, Canada, ce 17e jour de septembre 2003.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme ce
+17e jour de juin 2005.
+Sophie Debbané, réviseure
+Dossier : 2003-324(IT)I
+ENTRE :
+SHELAGH WHITE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu conjointement avec l'appel d' Anthony J. E. White (2003-323(IT)I)
+le 10 septembre 2003, à Toronto (Ontario)
+Par : L'honorable juge E. A. Bowie
+Comparutions:
+Représentant de l'appelante :
+Anthony J. E. White
+Avocats de l'intimée :
+Me Jason J. Wakely et Me Carol Calabrese
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre d'une cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1997 est rejeté.
+Signé à Ottawa, Canada, ce 17e jour de septembre 2003.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme ce
+17e jour de juin 2005.
+Sophie Debbané, réviseure
+Référence : 2003CCI668
+Date : 20030917
+Dossier : 2003-323(IT)I
+ENTRE :
+ANTHONY J. E. WHITE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2003-324(IT)I
+ET ENTRE :
+SHELAGH WHITE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Il s'agit d'appels par M. White de nouvelles cotisations de l'impôt sur le revenu établies pour les années 1997 et 1998, ainsi que d'un appel de Mme White de sa nouvelle cotisation établie pour l'année 1998. Ils ont été entendus conjointement sous le régime de la procédure informelle de la Cour. L'appel de Shelagh White concerne l'annulation de son crédit d'impôt pour conjoint à l'égard de son époux Anthony White pour l'année d'imposition 1998. La nouvelle cotisation établie pour M. White a fait passé son revenu net pour l'année d'imposition 1998 au-dessus du montant de base de 5 918$ pour le crédit d'impôt pour conjoint. Toutes les parties conviennent que le sort de l'appel de Mme White sera le même que celui des appels de son conjoint. Les appels de M. White concernent le droit qu'il prétend avoir de se prévaloir des avantages de certains crédits pour impôt étranger en vertu du paragraphe 126(1) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[2] M. White est un résident canadien qui a hérité, il y a quelques années, d'un certain nombre d'actions de sociétés australiennes. Chaque année ces sociétés déclarent et versent des dividendes à leurs actionnaires, dont M. White. Ces dividendes sont de trois sortes. Il y a en premier lieu les dividendes dits totalement exonérés d'impôt. Ceux-ci sont versés à même les bénéfices libérés d'impôt des sociétés. Les actionnaires, en plus de recevoir le montant de ces dividendes en argent, reçoivent également une [TRADUCTION] imputation au crédit d'impôt (imputation tax credit) ( « ICI » ). Les résidents australiens qui paient de l'impôt dans ce pays peuvent appliquer cette ICI sur leur impôt payable. En revanche, selon le régime fiscal australien, ils doivent inclure dans leur revenu non seulement la valeur en argent des dividendes, mais aussi la valeur de l'ICI. En second lieu, il y a les dividendes partiellement exonérés d'impôt. Ceux-ci sont versés en partie sur les revenus libérés d'impôt et l'ICI qui leur est liée est de ce fait moindre que celle liée à des dividendes totalement exonérés d'impôt. Il y a finalement les dividendes qui sont totalement imposables. Ceux-ci ne donnent droit à aucune ICI et sont sujet à une retenue d'impôt à la source lors du paiement à un actionnaire qui n'est pas résident australien. Il n'est pas contesté que cette retenue d'impôt à la source est un impôt imposé à l'actionnaire et payé au gouvernement australien par le bénéficiaire des dividendes.
+[3] De la preuve soumise par M. White, je comprends qu'il a reçu des dividendes de 700 $ en 1997 et de 2 288 $ en 1998. Une partie de ces dividendes lui a été versée sous la forme de dividendes exonérés de tout impôt, une partie était des dividendes partiellement exonérés d'impôt, et une partie était totalement imposable. Sur la partie des dividendes totalement imposables, il a payé une retenue d'impôt à la source imposée par l'Australie, mais il a été incapable de dire combien il a payé, ni sur quelle portion de ses dividendes totaux il a payé cet impôt. C'est la raison pour laquelle M. White a abandonné lors de l'audition sa demande visant l'obtention d'un crédit d'impôt à l'égard d'une retenue d'impôt à la source[1].
+[4] Le seul point en litige qu'il me reste à trancher est de décider si M. White a droit à un crédit pour impôt étranger en vertu de l'article 126 de la Loi à l'égard de l'ICI rattachée aux dividendes exonérés de tout impôt et à ceux partiellement exonérés d'impôt. Selon lui, il y est admissible à cause de l'impôt payé au gouvernement australien par les sociétés qui lui ont versé des dividendes. L'intimée, par contre, soutient que M. White n'a payé aucun impôt au gouvernement australien et ne peut donc être admissible à un crédit d'impôt en vertu du paragraphe 126(1).
+[5] Les passages pertinents des articles 90 et 126(1) se lisent comme suit:
+90(1) Dans le calcul du revenu, pour une année d'imposition, d'un contribuable résidant au Canada, il doit être inclus toute somme reçue par le contribuable au cours de l'année au titre ou en paiement intégral ou partiel des dividendes afférents à une action qui lui appartient dans le capital-actions d'une société ne résidant pas au Canada.
+126(1) Le contribuable qui résidait au Canada à un moment donné d'une année d'imposition peut déduire de l'impôt payable par ailleurs par lui pour l'année en vertu de la présente partie une somme égale à :
+a) la partie de tout impôt sur le revenu ne provenant pas d'entreprises qu'il a payé pour l'année au gouvernement d'un pays étranger (sauf, lorsque le contribuable est une société, tout impôt, ou toute partie d'impôt, de ce genre qu'il est raisonnable de considérer comme ayant été payé par le contribuable relativement au revenu qu'il a tiré d'une action du capital-actions d'une société étrangère affiliée lui appartenant) dont il peut demander la déduction;
+[...]
+[6] Deux obstacles s'opposent aux appels de M. White. Le premier est que M. White avoue franchement ne pas savoir et ne pas être en mesure de prouver le montant de l'impôt payé par les sociétés australiennes au gouvernement australien qui lui ont donné droit à l'imputation du crédit d'impôt (ICI) en question. Il dit avoir tenté sans succès d'obtenir ce montant des fonctionnaires du fisc australien. Force nous est de constater que, même si son interprétation de son droit à un crédit d'impôt s'avérait correcte, il ne pourrait y avoir droit puisqu'il ne peut établir le montant du crédit auquel il aurait droit.
+[7] Il existe un obstacle encore plus fondamental à la demande de M. White. Le paragraphe 126(1) permet seulement au contribuable canadien de déclarer un crédit pour impôt étranger à l'égard de l'impôt payé par ce résident canadien à un gouvernement étranger pour la même année. L'impôt pour lequel M. White demande un crédit n'a pas été payé par lui, mais par les compagnies australiennes qui lui ont versé des dividendes. En contre-interrogatoire, M. White avoue candidement qu'il n'a pas payé d'impôt au gouvernement australien pour les années en question. Il est exact que M. White ne peut utiliser l'ICI à laquelle il aurait droit s'il était un résident australien assujetti à l'impôt en Australie. Cela rend ses dividendes d'une valeur moindre qu'ils ne le seraient pour un actionnaire résident australien, mais la définition claire du paragraphe 126(1) de la Loi canadienne ne s'étend pas à lui pour autant. Même s'il pouvait faire la preuve des montants dont il veut se prévaloir, sa demande échouerait.
+[8] Les appels de M. White doivent être rejetés. Il doit en aller de même pour l'appel de Mme White.
+Signé à Ottawa, Canada, ce 17e jour de septembre 2003.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme ce
+17e jour de juin 2005.
+Sophie Debbané, réviseure
+[1] En abandonnant sa demande pour un crédit pour impôt étranger à l'égard d'une retenue d'impôt à la source sur les dividendes totalement imposables, M. White a souligné que cela ne devait pas être interprété comme l'abandon de ce droit pour les années qui ne sont pas couvertes par les présents appels.

@@ -1,0 +1,221 @@
+Title: McCartie c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/344907/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-185-344907-mccartie-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-09-19
+
+# McCartie c. La Reine
+
+- Citation: 2018 CCI 185
+- Decision date: 2018-09-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4937, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McCartie c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-09-19
+Référence neutre
+2018 CCI 185
+Numéro de dossier
+2016-2716(IT)G, 2016-2717(GST)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2016-2716(IT)G
+2016-2717(GST)G
+ENTRE :
+COLIN MCCARTIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 27 juin 2018, à Nanaimo (Colombie-Britannique)
+Devant : L'honorable juge Randall S. Bocock
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocats de l'intimée :
+Me Max Matas
+Me Jamie Hansen
+ORDONNANCE
+Conformément aux motifs de l'ordonnance ci‑joints, la requête de l'appelant pour que certaines questions soient tranchées en application de l'article 58 des Règles de la Cour canadienne de l'impôt (procédure générale) est rejetée avec dépens à l'intimée selon le tarif applicable.
+Signé à Toronto (Ontario), ce 19e jour de septembre 2018.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2018 CCI 185
+Date : 20180919
+Dossiers : 2016-2716(IT)G
+2016-2717(GST)G
+ENTRE :
+COLIN MCCARTIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Bocock
+I. Introduction
+[1] L'appelant, Colin McCartie, présente une requête aux termes de l'article 58 des Règles de la Cour canadienne de l'impôt (procédure générale) pour que certaines questions soient tranchées (les questions à trancher) par un juge des requêtes avant l'audience. M. McCartie prétend que les questions qu'il propose concernent l'admissibilité de certains éléments de preuve que le ministre du Revenu national (le ministre) entend présenter pour étayer les nouvelles cotisations d'impôt sur le revenu et de taxe sur les produits et services (TPS) en cause dans les appels dont M. McCartie a saisi la Cour.
+A. Les nouvelles cotisations
+[2] En avril 2011, M. McCartie a fait l'objet de nouvelles cotisations d'impôt sur le revenu et de TPS portant sur un revenu non déclaré pour les années d'imposition et les années de déclaration pertinentes au cours de la période allant de 2005 à 2009 inclusivement. En 2012, M. McCartie a été accusé d'évasion fiscale pour les mêmes années que celles visées par les appels. Les appels dont il a saisi la Cour ont été suspendus en attendant l'issue de la poursuite pénale concernant les accusations d'évasion fiscale.
+B. Le procès antérieur pour évasion fiscale lié à l'impôt sur le revenu
+[3] Lors de la poursuite pénale, un grand nombre d'éléments de preuve saisis lors de perquisitions pratiquées à la résidence et au bureau de M. McCartie ont été jugés inadmissibles aux fins de cette poursuite. Le juge Gouge, de la Cour provinciale de la Colombie‑Britannique, est arrivé à un grand nombre de conclusions concernant l'inadmissibilité des éléments de preuve [1] . M. McCartie soutient que certaines de ces conclusions sont pertinentes lors de la présente requête présentée en application de l'article 58 des Règles : la date à laquelle l'objectif prédominant de l'enquête menée par l'Agence du revenu du Canada (l'ARC) a changé n'a pu être établie; M. McCartie s'est vu refuser le droit d'examiner le mandat de perquisition au moment de la perquisition; en raison de l'absence de certains documents perdus, un procès pénal juste et équitable ne pouvait avoir lieu à l'égard de certains chefs d'accusation. Bien que la question ait été bien plus vaste, le juge n'a pas ordonné qu'il soit sursis aux accusations pénales. Le procès a plutôt eu lieu sans tenir compte des éléments de preuve entachés et exclus. Bien que les éléments de preuve obtenus au moyen d'un mandat de perquisition lors d'une deuxième étape de la vérification aient été exclus, d'autres éléments de preuve ont été admis. Finalement, M. McCartie et sa femme, qui était sa coaccusée, ont été acquittés de tous les chefs d'accusation.
+[4] Comme on peut le constater ci‑dessous, l'origine des questions à trancher qui suivent est directement liée à l'allégation de M. McCartie selon laquelle l'exclusion de certains éléments de preuve à l'occasion des poursuites pénales en raison de la violation des droits reconnus aux articles 7 et 11 de la Charte canadienne des droits et libertés, partie I de la Loi constitutionnelle de 1982, soit l'annexe B de la Loi de 1982 sur le Canada (R.‑U.), 1982, ch. 11 (la Charte), devrait convaincre la Cour de trancher ces questions. M. McCartie croit que tous ces éléments de preuve (les éléments de preuve contestés) seront ainsi exclus. En l'espèce, cette allégation se fonde sur le paragraphe 24(2) de la Charte. En outre, on constate, à la lecture de la quatrième question proposée, que M. McCartie souhaite que la Cour tranche la question de « l'annulation » des cotisations d'impôt sur le revenu et de TPS, en application du paragraphe 24(1) de la Charte.
+C. Les questions à trancher
+[5] Dès l'audience sur l'état de l'instance entendue par voie de conférence téléphonique en mars et en mai 2017 avant les interrogatoires préalables, M. McCartie a soulevé une question concernant l'admissibilité des éléments de preuve contestés. Dans l'ordonnance que j'ai rendue le 2 mai 2017, j'ai notamment affirmé ce qui suit :
+ATTENDU qu'une audience sur l'état de l'instance a eu lieu par voie de conférence téléphonique le 7 mars 2017;
+ET ATTENDU que les parties se sont entendues sur les dates d'achèvement des étapes restantes préalables au procès;
+[...]
+ET ATTENDU que lors de l'audience sur l'état de l'instance, l'appelant a exprimé sa volonté de déposer une requête en application de l'article 58 des Règles (la question à trancher);
+ET ATTENDU que les parties n'ont pas encore signifié leurs listes de documents et n'ont pas encore mené leurs interrogatoires préalables;
+ET ATTENDU que la Cour a informé l'appelant qu'il devait y avoir une question précise de fait, de droit ou de droit et de fait soulevée dans un acte de procédure, ou une question précise sur l'admissibilité d'un élément de preuve, avant que la Cour puisse examiner une requête présentée en vertu de l'article 58 des Règles;
+ET ATTENDU que la Cour a informé l'appelant qu'en l'absence d'une question précise, il serait prématuré de présenter une requête en vertu de l'article 58 des Règles;
+ET ATTENDU que le 18 avril 2017, l'appelant a déposé une requête afin que soient notamment tranchées, en vertu de l'article 58 des Règles, les questions de savoir si les droits de l'appelant prévus au paragraphe 24(1) de la Charte canadienne des droits et libertés, partie I de la Loi constitutionnelle de 1982, soit l'annexe B de la Loi de 1982 sur le Canada (R.‑U.), 1982, ch. 11 (la Charte), avaient été violés, si les éléments de preuve que l'on aurait obtenus en violation de la Charte devaient être exclus, si la « présomption d'exactitude habituelle » dont bénéficie le ministre devait être écartée et si l'interrogatoire préalable de l'appelant devait être annulé ou limité;
+ET ATTENDU que la réparation demandée au moyen de la requête présentée en vertu de l'article 58 des Règles est prématurée, qu'elle trancherait l'appel, qu'elle nécessite la présentation de preuve ou qu'elle porte sur des questions qu'il appartient au juge du procès de trancher;
+LA COUR ORDONNE :
+1. L'échéancier fixé dans l'ordonnance rendue le 16 mars 2017 continue à s'appliquer et les parties devront s'y conformer.
+2. La requête de l'appelant afin que soit tranchée une question en application de l'article 58 des Règles est prématurée et la Cour ne l'examinera pas avant qu'aient eu lieu les étapes aux paragraphes 1, 2 et 3 de l'ordonnance du 16 mars 2017.
+[6] La Cour, c'est‑à‑dire par hasard moi‑même, examinera maintenant la requête présentée par M. McCartie en vertu de l'article 58 des Règles afin de voir s'il convient de l'accueillir.
+D. Les questions visées par la requête présentée par l'appelant
+[7] Les questions visées par la requête présentée par l'appelant en vertu de l'article 58 des Règles sont les suivantes :
+[TRADUCTION]
+a. Sur quels éléments de preuve les cotisations portées en appel sont‑elles fondées?
+b. Les « éléments de preuve » sur lesquels les cotisations sont fondées ont‑ils été obtenus en violation des droits de l'appelant reconnus par la Charte?
+c. Si c'est le cas, ces éléments de preuve devraient-ils être exclus lors de la présente instance aux termes du paragraphe 24(2) de la Charte canadienne des droits et libertés?
+d. Si les éléments de preuve sont exclus, est-il convenable et juste, eu égard aux circonstances, d'annuler les cotisations d'impôt en application du paragraphe 24(1) de la Charte canadienne des droits et libertés?
+II. Le droit et la jurisprudence
+[8] La Cour commence en formulant certaines observations préliminaires et, sans doute, évidentes. Premièrement, il est fort possible que certaines des questions à trancher, mais non toutes, soient des questions appropriées. Deuxièmement, la Cour peut exercer son pouvoir discrétionnaire pour modifier ou reformuler les questions à trancher. Finalement, dans une ordonnance en application de l'article 58 des Règles, la Cour peut établir la question à trancher, la manière de la trancher, notamment la preuve orale ou non orale à consigner, les documents qui doivent être signifiés et le moment de le faire, la date, l'heure et le lieu de l'audience, et elle peut donner toute autre directive que la Cour estime appropriée : voir le paragraphe 58(3) des Règles.
+A. Que prescrit l'article 58 des Règles?
+[9] L'article 58 des Règles prescrit ce qui suit [2] :
+58(1) Sur requête d'une partie, la Cour peut rendre une ordonnance afin que soit tranchée avant l'audience une question de fait, une question de droit ou une question de droit et de fait soulevée dans un acte de procédure, ou une question sur l'admissibilité de tout élément de preuve.
+(2) Lorsqu'une telle requête est présentée, la Cour peut rendre une ordonnance s'il appert que de trancher la question avant l'audience pourrait régler l'instance en totalité ou en partie, abréger substantiellement celle-ci ou résulter en une économie substantielle de frais.
+(3) L'ordonnance rendue en application du paragraphe (1) contient les renseignements suivants :
+a) la question à trancher avant l'audience;
+b) des directives relatives à la manière de trancher la question, y compris des directives sur la preuve à consigner, soit oralement ou par tout autre moyen, et sur la méthode de signification ou de dépôt des documents;
+c) le délai pour la signification et le dépôt d'un mémoire comprenant un exposé concis des faits et du droit;
+d) la date, l'heure et le lieu pour l'audience se rapportant à la question à trancher;
+e) toute autre directive que la Cour estime appropriée.
+Dans la décision Paletta c. La Reine, le juge Owen présente un résumé utile des motifs pour lesquels l'article 58 des Règles a été modifié et de la manière dont il a été modifié [3] .
+B. La jurisprudence
+[10] Une requête présentée aux termes de l'article 58 des Règles mène à un processus en deux étapes. Premièrement, la Cour doit décider si la question peut avantageusement être tranchée aux termes de l'article 58 des Règles et, si c'est le cas, elle décide du dossier et des éléments de preuve qui seront utilisés. Il s'agit de l'étape dont la Cour est actuellement saisie. Deuxièmement, si la Cour décide que l'article 58 des Règles doit s'appliquer, elle entendra les observations et tranchera la question ou les questions.
+[11] À la première étape, il faut satisfaire aux trois conditions suivantes :
+(i) la question proposée doit être une question de fait, une question de droit, une question de droit et de fait ou une question sur l'admissibilité de tout élément de preuve;
+(ii) la question doit être soulevée dans un acte de procédure;
+(iii) il appert que de trancher la question avant l'audience pourrait régler l'instance en totalité ou en partie, abréger substantiellement celle‑ci ou résulter en une économie substantielle de frais.
+[12] Il incombe au requérant qui présente la requête de démontrer que ces conditions sont remplies. La décision de la Cour de rendre une ordonnance aux termes de l'article 58 des Règles peut tenir compte d'autres considérations. La Cour a le pouvoir discrétionnaire d'examiner des facteurs autres que ceux prescrits aux paragraphes 58(1) et (2) ainsi que l'ensemble des circonstances de l'affaire. De même, la décision de rendre une ordonnance en application de l'article 58 des Règles est hautement discrétionnaire, et le fait qu'une question puisse remplir les conditions énoncées aux paragraphes 58(1) et (2) n'oblige en aucun cas la Cour à rendre une telle ordonnance.
+[13] Le but principal consiste à décider si les deuxième et troisième conditions sont remplies, puisque la première condition englobe toutes les questions possibles.
+[14] Concernant la deuxième condition, la question proposée doit être soulevée comme question en litige dans un acte de procédure. Il ne suffit pas que la question soit simplement mentionnée dans un acte de procédure.
+[15] Concernant la troisième condition, cette condition n'est pas remplie si seulement l'une des deux réponses possibles à la question mène aux résultats escomptés, ou si la question mène aux résultats escomptés uniquement s'il y était répondu d'une manière précise.
+[16] Dans la décision Paletta, le juge Owen a affirmé que les modifications apportées au texte et à l'économie de l'article 58 en 2014, lorsqu'on le compare à la version précédente, justifient un nouvel examen de l'article sous sa forme actuelle [4] . Compte tenu du libellé discrétionnaire plus général, il a conclu qu'une requête présentée en application de l'article 58 des Règles n'échoue pas nécessairement à la troisième condition si l'une des réponses possibles à la question ne mène pas aux résultats escomptés [5] . La Cour devrait plutôt tenir compte de la possibilité d'une telle réponse lorsqu'elle examine si elle devrait exercer son pouvoir discrétionnaire en vertu de l'article 58 des Règles [6] . Cette décision a été confirmée en appel [7] . Dans la décision 2078970 Ontario Inc. [8] , le juge Visser a souscrit à la décision Paletta et a affirmé que la jurisprudence antérieure portant sur les anciennes versions de l'article 58 des Règles pouvait encore être utile, mais qu'elle devait être examinée avec prudence et écartée si les modifications l'exigent.
+[17] La jurisprudence continue de suggérer la prudence. La possibilité que la question qu'on propose de trancher soit accueillie est encore un facteur pertinent pour la troisième condition. Lorsque la question proposée n'a aucune chance raisonnable d'être accueillie, elle ne peut pas régler l'instance ou l'abréger ou résulter en une économie de frais.
+[18] La décision Paletta a entériné le principe énoncé dans la décision Suncor Energy Inc. [9] , soit celui voulant que, bien qu'une requête fondée sur l'article 58 des Règles ressemble beaucoup à une audience, un « véritable procès » procure « les avantages associés à une audience juste et aux protections en matière de preuve ». De l'avis de la Cour, l'article 58 des Règles ne devrait pas être utilisé pour remplacer une audience simplement parce que des questions relatives à la preuve peuvent maintenant être examinées à l'occasion de la requête. Par conséquent, si les éléments de preuve à produire pour trancher la question sont essentiellement les mêmes que ceux requis à l'occasion du procès subséquent, la troisième condition n'est alors pas remplie. En outre, lorsque les faits d'une affaire sont complexes et hautement litigieux, l'intérêt de la justice exige qu'une audition soit tenue, plutôt qu'une requête fondée sur l'article 58 des Règles.
+[19] En ce qui concerne précisément l'exclusion d'éléments de preuve obtenus en contravention des droits garantis par la Charte, trois décisions, bien qu'elles soient relativement récentes, traitent de l'article 58 des Règles avant sa modification en 2014.
+[20] Dans l'arrêt Jurchison [10] , la Cour d'appel fédérale a réaffirmé que l'article 58 des Règles n'est pas destiné à servir de solution de rechange à laquelle on peut recourir à la place d'un procès afin de régler des points litigieux complexes se rapportant aux droits et aux obligations des parties. La Cour a conclu qu'il se peut que des éléments de preuve soient inadmissibles pour les fins d'une poursuite criminelle, mais qu'ils soient admissibles lors d'un procès à la Cour canadienne de l'impôt. Une telle détermination exigerait l'examen des éléments de preuve, de la méthode par laquelle ils ont été obtenus et de la gravité de toute violation de la Charte. Par conséquent, la question ne convient pas à une requête fondée sur l'article 58 des Règles, puisqu'il faut un fondement factuel. En outre, la Cour d'appel fédérale a souligné que les questions n'avaient pas été soulevées dans les actes de procédure et que la Cour canadienne de l'impôt n'avait donc pas le pouvoir de les trancher en application de l'article 58 des Règles.
+[21] Dans l'arrêt Warawa [11] , la Cour d'appel fédérale, lors d'une affaire où une cour provinciale avait conclu qu'une partie importante de la preuve de la Couronne n'était pas admissible dans la procédure pénale, a affirmé que cela n'établissait pas que toute la preuve présentée par la Couronne dans l'appel interjeté devant la Cour de l'impôt serait déclarée inadmissible. Dans cette affaire, le contribuable avait présenté une requête fondée sur l'article 58 des Règles à la Cour de l'impôt en vue d'obtenir une ordonnance accueillant l'appel en matière d'impôt au motif que la cour provinciale avait conclu à des violations des droits garantis par la Charte concernant la preuve de la Couronne. La Cour de l'impôt a rejeté la requête, et la Cour d'appel fédérale a rejeté l'appel.
+[22] Dans la décision McIntyre [12] , la juge Campbell a conclu qu'il ne convient pas d'invoquer la règle de la préclusion à l'égard d'une partie de l'appel lors d'une requête interlocutoire fondée sur l'article 58 des Règles, puisqu'il est préférable de laisser au juge qui entendra le procès le soin d'en décider.
+III. Analyse et décision
+[23] À titre de rappel, à la première étape, il convient de décider si les questions peuvent avantageusement être tranchées aux termes de l'article 58 des Règles (paragraphes 58(1) et (2)) et, le cas échéant, de quelle façon. Pour rendre cette décision, la Cour examinera les conditions énoncées à l'article 58 des Règles dans l'ordre où elles se présentent.
+a) Une question de fait, une question de droit ou une question de droit et de fait, ou une question sur l'admissibilité de tout élément de preuve.
+[24] Les questions correspondent aux trois catégories indiquées au paragraphe 58(1).
+1. Question 1 — Sur quels éléments de preuve les cotisations sont‑elles fondées?
+[25] Il s'agit d'une question de droit et de fait. Il s'agit d'établir les faits invoqués par le ministre pour établir la nouvelle cotisation de M. McCartie ainsi que sa nouvelle dette fiscale.
+2. Question 2 — Les éléments de preuve ont‑ils été obtenus en violation des droits reconnus par la Charte?
+[26] Il s'agit également d'une question de droit et de fait. Les faits entourant la collecte des éléments de preuve indiquent‑ils qu'on a violé les droits de M. McCartie garantis par la Charte?
+3. Les éléments de preuve devraient‑ils être exclus aux termes du paragraphe 24(2) de la Charte?
+[27] Il s'agit aussi d'une question de droit et de fait, mais elle touche le fondement de l'admissibilité des éléments de preuve. Il s'agit d'une des nouvelles catégories de questions ajoutées à l'article 58 des Règles en 2014.
+4. Si les éléments de preuve sont exclus, est‑il convenable et juste d'annuler les cotisations en application du paragraphe 24(1)?
+[28] Il s'agit de l'exemple parfait d'une question de droit et de fait. Elle nécessite de trancher les trois questions susmentionnées et peut‑être d'examiner tous les autres éléments de preuve non exclus. Comme la Cour l'a affirmé lors de l'audition de la présente requête, la quatrième question, en soi, vise l'issue de la totalité de l'appel. La Cour exerce son pouvoir discrétionnaire pour affirmer qu'indépendamment de ce qui suit, la quatrième question ne peut avantageusement être tranchée aux termes de l'article 58 des Règles. À titre de justification générale, même à l'occasion de la poursuite pénale, l'exclusion de divers éléments de preuve présentés à la Cour n'a pas entraîné la suspension de l'instance en application du paragraphe 24(1) de la Charte, mais uniquement la tenue d'un procès sans certains documents dont la présentation avait été exclue au motif qu'ils avaient été obtenus en violation des droits de M. McCartie garantis à l'alinéa 11d) de la Charte [13] . D'autres documents sont demeurés admissibles. En outre, les éléments de preuve inadmissibles ne justifiaient pas, selon l'avis du juge Gouge, l'exercice d'un pouvoir discrétionnaire de suspendre la procédure. Il est parvenu à cette conclusion en raison de la nature de la violation établie et de l'existence d'une réparation moins draconienne, c'est‑à‑dire l'exclusion des éléments de preuve entachés [14] . En fin de compte, un juge de notre Cour devra, de la même manière, trancher la validité au civil des cotisations d'impôt sur le revenu et de TPS, avec ou sans les éléments de preuve contestés. La quatrième question ne peut avantageusement être tranchée aux termes de l'article 58 des Règles.
+[29] En résumé, de manière préliminaire, la quatrième question ne fera pas l'objet d'un examen plus approfondi. Les première, deuxième et troisième questions, qui appartiennent à la catégorie des questions de droit et de fait, ou à celle portant sur l'admissibilité de la preuve, seront examinées de manière plus approfondie.
+b) Des questions soulevées dans un acte de procédure
+[30] On ne conteste pas que les première, deuxième et troisième questions ont été soulevées, de manière générale, dans les actes de procédure. Dans l'avis d'appel, M. McCartie a expliqué que les documents contestés ont été obtenus lors de deux vérifications distinctes : la « première vérification » et la « deuxième vérification ». Il expose les violations précédentes des droits garantis par la Charte, l'exclusion lors de la poursuite pénale de divers documents étant donné qu'ils étaient inadmissibles et, dans la section de l'avis d'appel portant sur les questions en litige, il mentionne les éléments de preuve contestés, le fondement de la nouvelle cotisation et les violations des droits garantis par la Charte.
+[31] La réponse n'est pas différente, sauf qu'elle nie. L'intimée soutient que les éléments de preuve contestés ont été obtenus au moyen des procédures de vérification civiles habituelles, et elle rejette les allégations de violation des droits garantis par la Charte ainsi que les réparations demandées aux termes des paragraphes 24(1) et (2). Pour ces motifs, ce deuxième élément des conditions est satisfait.
+c) Régler l'instance en totalité ou en partie, abréger substantiellement celle‑ci ou résulter en une économie substantielle de frais
+(i) Régler l'instance en totalité ou en partie
+[32] Les observations portant sur le règlement de parties essentielles de l'appel sont quelque peu circulaires. Si les questions soulevées en vertu de l'article 58 des Règles sont suffisamment nombreuses et fondamentales, leur règlement doit forcément régler l'instance en totalité ou en partie. En l'espèce, il semble que, si l'appelant obtenait gain de cause, une partie de l'instance serait réglée, soit la partie concernant l'admissibilité des éléments de preuve contestés. Il reste la question de savoir s'il n'existe « aucune chance raisonnable de succès » [15] . Une fois de plus, la circularité demeure. Si les motifs étayant l'exclusion étaient si lacunaires, il serait facile et rapide de trancher la requête présentée en vertu de l'article 58. En outre, les arguments juridiques de l'appelant concernant l'exclusion des éléments de preuve, bien qu'ils ne soient pas des plus clairs et des plus solides, ne sont pas fondamentalement lacunaires et voués à l'échec. Pour être plus précis, ils ne semblent pas lacunaires et voués à l'échec lors de l'examen préliminaire des mémoires déposés [16] aux fins de la décision portant sur la première étape.
+[33] Pour ces motifs, la question qu'il convient de trancher en l'espèce est celle de savoir si la requête présentée au titre de l'article 58 des Règles peut abréger substantiellement l'instance ou résulter en une économie substantielle de frais.
+(ii) Abréger substantiellement l'instance ou résulter en une économie de frais
+[34] Cette condition est intimement liée aux économies substantielles de ressources et de frais pour la Cour et pour les parties. Les parties ont donné des estimations différentes de la durée de l'audience sans une décision préalable sur les questions à trancher. L'intimée prévoit 5 jours de procès. L'appelant compte de 10 à 14 jours. La Cour mentionne ces prévisions non pas pour leur rigoureuse exactitude, mais plutôt pour illustrer leur disparité. Les parties conviennent qu'il y aura cinq témoins en tout.
+[35] Il y aurait des économies substantielles si la détermination des questions à trancher permettait d'abréger substantiellement l'instance. Lors de l'examen de l'abrégement substantiel de l'instance ou de l'économie substantielle de frais qui pourrait avoir lieu, la Cour note d'abord ce qui suit concernant les questions proposées.
+[36] La première question, le fondement factuel des cotisations, est l'examen des faits fondamental que doit faire un juge de la Cour de l'impôt lorsqu'il est saisi d'un appel. Ce fondement factuel découle des hypothèses du ministre, des allégations contradictoires de l'appelant et de la détermination des questions en litige selon les actes de procédure, qu'il faut faire après l'examen des éléments de preuve. Il en découlera une décision sur le bien‑fondé de la cotisation établie par le ministre. Bien que les faits invoqués par le ministre soient un élément, il reste que l'appelant doit s'acquitter du fardeau de démolir les hypothèses du ministre.
+[37] Dans les présents appels, il existe un véritable litige non seulement en ce qui a trait aux dossiers et aux documents sur lesquels s'appuie le ministre, mais aussi à propos du moment et de la manière dont ils ont été obtenus : soit par une demande de renseignements à un tiers, soit au moyen des pouvoirs de vérification du ministre, soit au moyen de mandats de perquisition exécutés par le ministre lors d'une enquête criminelle. Les conséquences de cette qualification sont pertinentes pour la contestation fondée sur la Charte. Finalement, et de façon tout aussi importante, la source et la nature des dossiers et des renseignements obtenus de chacune de ces façons font également partie du fondement factuel des cotisations établies par le ministre portées en appel.
+[38] Selon la preuve par affidavit présentée à la Cour, les parties ne sont pas d'accord sur les questions suivantes :
+(i) Quelle était la source de la preuve documentaire : des demandes de renseignements ou des mandats?
+(ii) Quels documents et renseignements provenant de quelles sources ont constitué le fondement des nouvelles cotisations et pour quelles années d'imposition?
+(iii) Quels documents et quels renseignements apparaissaient dans les documents donnés en réponse aux demandes de renseignements et dans les documents saisis en application des mandats de perquisition?
+La source est un élément pertinent, puisque les renseignements obtenus d'institutions financières en réponse aux demandes de renseignements ne peuvent faire l'objet d'une contestation fondée sur la Charte.
+[39] Outre ces questions factuelles fondamentales en litige, qui devraient être tranchées après l'audition de témoignages assez longs afin de statuer sur chacune des questions à trancher, les questions juridiques suivantes demeurent en litige :
+(i) L'exclusion des éléments de preuve contestés lors de la poursuite pénale soutient‑elle juridiquement l'exclusion des éléments de preuve présentés à la Cour de l'impôt, et dans quelle mesure, le cas échéant?
+(ii) Indépendamment des décisions lors de la poursuite pénale, les droits de M. McCartie garantis par la Charte sont‑ils enfreints lors de la présente instance civile?
+(iii) La détermination portant sur la violation des droits de M. McCartie garantis par la Charte quant aux éléments de preuve contestés doit‑elle faire l'objet d'un examen de novo ou être effectuée en tenant compte de la poursuite pénale?
+(iv) Est‑il plus approprié d'analyser les éléments relatifs au paragraphe 24(2) à l'occasion d'une requête présentée en application de l'article 58 des Règles ou d'un procès?
+[40] Une partie importante des questions relève du rôle du juge du procès. Si la première question est tranchée en faveur de M. McCartie, mais que la deuxième ou la troisième question ne l'est pas, il n'appert pas qu'il y aura d'abrégement de l'instance ou d'économie de frais. La première question, quant à elle, nécessiterait qu'un juge des requêtes examine tous les éléments de preuve en litige; traiter de leur contexte et de leur pertinence revient fondamentalement au juge du procès [17] .
+[41] Il est difficile de s'imaginer comment cela pourrait avoir lieu plus rapidement ou à moindre coût qu'au procès. Les principaux témoins, c'est‑à‑dire les vérificateurs de l'ARC et M. McCartie, devraient fort probablement témoigner lors de la requête fondée sur l'article 58 des Règles. En outre, après avoir entendu ces témoignages, le juge des requêtes devra juger, soupeser et catégoriser ces éléments de preuve en ce qui concerne les nouvelles cotisations. Il s'agit du rôle du juge du procès.
+[42] Après avoir jugé, soupesé et catégorisé ces éléments de preuve, il faudra passer à l'analyse du paragraphe 24(2) de la Charte en ce qui concerne les deuxième et troisième questions. Bien que cette analyse soit effectuée sur le fondement d'observations, il faudra des éléments de preuve concernant les violations alléguées. Encore là, il s'agira d'appels de cotisations fiscales et non d'une procédure pour évasion fiscale.
+[43] Tout bien pesé, la Cour est d'avis que la détermination concernant l'exclusion de certains éléments de preuve n'abrégerait pas substantiellement l'instance ni ne résulterait en une économie de frais. Les éléments de preuve non exclus — il y en aura certainement — seraient le sujet des témoignages de vive voix répétés devant le juge du procès. Même l'exclusion des éléments de preuve obtenus au moyen de mandats de perquisition n'éliminerait pas le besoin d'entendre le témoignage des mêmes témoins lors du procès en ce qui concerne les demandes de renseignements et les autres éléments de preuve admissibles.
+IV. Conclusion
+[44] Pour les motifs énoncés, la Cour ne conclut pas qu'il appert que la détermination des questions à trancher avant le procès abrégerait substantiellement l'instance ou résulterait en une économie de frais.
+[45] En outre, même si c'était le cas, la Cour refuserait d'exercer son pouvoir discrétionnaire d'ordonner la détermination des questions à trancher, compte tenu des circonstances de l'espèce. La détermination des trois premières questions à trancher exigerait que le juge des requêtes entende des témoignages qui devraient fort probablement être répétés devant le juge du procès, quelles que soient les réponses aux questions. La possibilité que deux juges, après avoir entendu un témoignage considérable, se prononcent sur la crédibilité des mêmes témoins et sur le poids à accorder à leurs témoignages à l'occasion des mêmes appels, n'est ni équitable ni conforme aux intérêts des parties et de la justice. Compte tenu de la portée des éléments de preuve contestés, le juge du procès devrait les entendre, les examiner et, si cela est justifié, les exclure. Cela permettra une appréciation complète du cadre factuel par la personne à qui il incombera, au bout du compte, de se prononcer sur le bien‑fondé des cotisations.
+[46] Un voir‑dire préliminaire correctement mené par le juge du procès concernant l'admissibilité de ces éléments de preuve factuels est une méthode plus efficace de statuer sur l'exclusion des éléments de preuve contestés. Cette décision convient mieux aux parties, au juge du procès et à l'issue définitive du litige.
+[47] L'exclusion ou l'admission des éléments de preuve contestés reproduit aussi le procès pénal initial. Lors de ce procès, le juge Gouge, comme le juge de notre Cour qui entendra le procès, a entendu les contestations, a tranché la question de l'admissibilité, a entendu le procès et a rendu un jugement. Je suis d'avis que les présents appels devraient être instruits de cette manière.
+[48] Pour ces motifs, la requête est rejetée avec dépens à l'intimée selon le tarif applicable.
+Signé à Toronto (Ontario), ce 19e jour de septembre 2018.
+« R.S. Bocock »
+Le juge Bocock
+RÉFÉRENCE :
+2018 CCI 185
+NOS DES DOSSIERS DE LA COUR :
+2016-2716(IT)G, 2016-2717(GST)G
+INTITULÉ :
+COLIN MCCARTIE c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Nanaimo (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 27 juin 2018
+MOTIFS DU JUGEMENT :
+L'honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 19 septembre 2018
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocats de l'intimée :
+Me Max Matas
+Me Jamie Hansen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l'intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] R. v. McCartie, 2015 BCPC 69, 2015 BCPC 233, 2015 BCPC 254.
+[2] L'article 58 des Règles a été modifié le 7 avril 2014 : DORS/2014-26, art. 6.
+[3] 2016 CCI 171, aux paragraphes 10, 11 et 12.
+[4] Paletta, précité, au paragraphe 12.
+[5] Ibid., au paragraphe 25.
+[6] Ibid.
+[7] Paletta c. La Reine, 2017 CAF 33.
+[8] 2078970 Ontario Inc. c. La Reine, 2017 CCI 173, au paragraphe 7.
+[9] Suncor Energy Inc. c. La Reine, 2015 CCI 210, au paragraphe 26.
+[10] R. c. Jurchison, 2001 CAF 126, aux paragraphes 8, 9 et 11.
+[11] Warawa c. Procureur général, 2005 CAF 34, au paragraphe 6.
+[12] McIntyre c. La Reine, 2014 CCI 111, au paragraphe 36.
+[13] R. v. McCartie, 2015 BCPC 69, au paragraphe 67.
+[14] R. c. Bjelland, [2009] 2 R.C.S. 651, au paragraphe 19.
+[15] Sentinel Hill Productions IV Corporation c. La Reine, 2014 CAF 161, au paragraphe 4.
+[16] Observations de l'appelant du 27 juin 2008, aux paragraphes 57, 60, 62, 67 et 82.
+[17] Ye c. Ministre de la Citoyenneté et de l'Immigration, 2000 CanLII 16187 (C.F. 1re inst.), au paragraphe 4.

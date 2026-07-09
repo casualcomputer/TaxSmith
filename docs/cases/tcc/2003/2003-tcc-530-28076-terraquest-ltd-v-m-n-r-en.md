@@ -1,0 +1,161 @@
+---
+title: "Terraquest Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28076/index.do"
+last_modified: "2003-08-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 530"
+citation2: ""
+neutral_citation: "2003 TCC 530"
+decision_date: "2003-08-19"
+language: "en"
+item_id: "28076"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1630
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:50:21.609000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7dbfccf02fcc65f1b526d27fa140e1e1d738cc4975fff671d448147c25e940b9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Terraquest Ltd. v. M.N.R.
+
+- Citation: 2003 TCC 530
+- Decision date: 2003-08-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1630, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Terraquest Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-08-19
+Neutral citation
+2003 TCC 530
+File numbers
+2002-3407(EI), 2002-4132(EI)
+Judges and Taxing Officers
+William E. MacLatchy
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2002-3407(EI)
+2002-4132(EI)
+BETWEEN:
+TERRAQUEST LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Terraquest Ltd. (2002‑3408(CPP) and 2002-4133(CPP)) on July 14, 2003 at Toronto, Ontario
+Before: The Honourable W.E. MacLatchy, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Charles Quentin Barrie
+Counsel for the Respondent:
+Joel Oliphant
+Paolo Torchetti
+____________________________________________________________________
+JUDGMENT
+The appeals are dismissed and the decisions and assessments of the Minister are confirmed in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 19th day of August 2003.
+"W.E. MacLatchy"
+MacLatchy, D.J.
+Citation: 2003TCC530
+Date: 20030819
+Dockets: 2002-3407(EI)
+2002-4132(EI)
+2002-3408(CPP)
+2002-4133(CPP)
+BETWEEN:
+TERRAQUEST LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+MacLatchy, D.J.
+[1] These four appeals were heard on common evidence, on consent, on July 14, 2003 at Toronto, Ontario.
+[2] The Appellant appealed a ruling to the Minister of National Revenue (the "Minister") for the determination of the question of whether or not David H. Shaver, the Worker, was employed in insurable and pensionnable employment while engaged by it during the period of January 5 to March 23, 2001 within the meaning of the Employment Insurance Act (the "Act") and the Canada Pension Plan (the "Plan") respectively.
+[3] By letter dated May 30, 2002, the Minister informed the Worker and the Appellant that it had been determined that the Worker was employed in insurable employment during the period in question, pursuant to paragraph 5(1)(a) of the Act and paragraph 6(1)(a) of the Plan.
+[4] Further, by Notices of Assessment dated May 1, 2002, the Appellant was assessed for failure to remit employment insurance premiums and Canada Penison Plan contributions in respect of the workers whose names appear on a list attached to the Replies to the Notices of Appeal as follows:
+Pilots
+1) Tony Deangelis
+2) Brian Harvey
+3) Marshall Makarowski
+4) Charles Matteau
+5) Ronald Melnychuk
+6) Williard Plageman
+7) I Serge Malle
+8) David Shaver
+Operators
+1) Mikel Abbot
+2) Paul Beaubien
+3) Dave Brown
+4) Mark Ackerman
+5) James Bursey
+6) Kevin Chapelle
+7) Frank Glass
+8) Kevin Jackman
+9) Husam Samnah
+-employment insurance premiums: $4,421.93 and $8,335.01 and for related penalties and interest for the years 2000 and 2001.
+-Canada Pension Plan contributions: $5,652.56 and $4,820.20 and for related penalties and interest for the years 2000 and 2001.
+[5] The Appellant appealed to the Minister for reconsideration of the assessments and the latter varied the assessments by letter dated September 10, 2002.
+[6] The evidence presented to this Court was given by Charles Barrie on behalf of he and his brother, the sole owners of the Appellant. His presentation exhibited his clear understanding of the reasons behind the decisions made by the Respondent. He was candid and cooperative throughout his testimony and he accepted the assumptions made by the Minister upon which he based his decisions. Those assumptions were clearly set forth in paragraphs 4(a) through (gg) of the Reply to the Notice of Appeal in file 2002-4132(EI).
+[7] Mr. Barrie, on behalf of the company, immediately changed the status of the subject workers from what it assumed was a position of independent contractors to that of employees when notified of the decisions of the Minister. The Appellant had accepted advice to the contrary from its accountants prior to the notices of assessment and did not knowingly attempt to avoid any consequences of its earlier decisions. This display of candour and cooperativeness was refreshing to this Court.
+[8] The Appellant was of the opinion that such things as the penalties and interest included in the assessments were unfair and inequitable in these circumstances. It was pointed out to the Appellant that this Court does not have equitable jurisdiction and could not arbitrarily set these items aside. A strong recommendation is made to the Minister that he might consider a further reassessment in this regard to avoid any punitive connotation.
+[9] The classical tests of control, ownership of tools, chance of profit and risk of loss with the further consideration of integration all supported the clear evidence that the workers were operating pursuant to contracts of service and were in a relationship of employee/employer with the Appellant. This was accepted by the Appellant through the admissions of Charles Barrie. The workers' employment was both insurable and pensionable.
+[10] The appeals are hereby dismissed, the decisions of the Minister and the assessments are confirmed.
+Signed at Toronto, Ontario, this 19th day of August 2003.
+"W.E. MacLatchy"
+MacLatchy, D.J.
+CITATION:
+2003TCC530
+COURT FILE NO.:
+2002-3407(EI), 2002-4132(EI), 2002‑3408(CPP) and 2002-4133(CPP)
+STYLE OF CAUSE:
+Terraquest Ltd. and M.N.R.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 14, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable W.E. MacLatchy,
+Deputy Judge
+DATE OF JUDGMENT:
+August 19, 2003
+APPEARANCES:
+Agent for the Appellant:
+Charles Quentin Barrie
+Counsel for the Respondent:
+Joel Oliphant
+Paolo Torchetti
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

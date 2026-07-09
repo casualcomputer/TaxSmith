@@ -1,0 +1,206 @@
+---
+title: "Carpentier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27101/index.do"
+last_modified: "2005-10-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 666"
+citation2: ""
+neutral_citation: "2005 TCC 666"
+decision_date: "2005-10-26"
+language: "en"
+item_id: "27101"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 971
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:11:05.893000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "82cc781e8cf15296be47136794379d4c039a050886340819ca354e968cfce202"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Carpentier c. La Reine
+
+- Citation: 2005 TCC 666
+- Decision date: 2005-10-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 971, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carpentier c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-26
+Neutral citation
+2005 TCC 666
+File numbers
+98-3791(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 98-3791(IT)I
+BETWEEN:
+LUCETTE CARPENTIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on September 19, 20, 21, 23 and 28, 2005,
+in Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Pierre Cossette and
+Philippe Dupuis
+____________________________________________________________________
+JUDGMENT
+The appeal from an assessment established under the Income Tax Actfor the 1988 taxation year is dismissed.
+Signed at Ottawa, Canada, on this 26th day of October 2005.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 5th day of May 2006.
+Monica F. Chamberlain, Revisor
+Citation: 2005TCC666
+Date: 20051026
+Docket: 98-3791(IT)I
+BETWEEN:
+LUCETTE CARPENTIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+Preliminary Remarks
+[1] This appeal was heard at the same time as the appeals in Paul Boudreault v. The Queen (dockets 98-3616(IT)I and 98-3721(IT)I). At the request of the two appellants, their appeals were not heard on common evidence. However, part of the Respondent's evidence put forward in the appeals from Paul Boudreault was entered in the Appellant's case with the consent of the parties. Exhibit I-1, which was filed in the appeals from Mr. Boudreault, will also be Exhibit I-1 in this appeal, but only with regard to Tab B of Exhibit I-1. Exhibits I-2 to I-10 inclusive filed in the appeals from Mr. Boudreault will also have to be filed in the Appellant's case. Exhibit I-13, also filed in Mr. Boudreault's appeals, will also be Exhibit I-13 in this appeal, but only with regard to Tab C of Exhibit I-13.
+[2] The Appellant is appealing from an assessment established for the 1988 taxation year by the Minister of National Revenue ("the Minister"). The Minister denied an investment tax credit of $2,000 for a $10,000 investment the Appellant made in 1988 in the partnership A.L.T.A. Research Systems Reg. ("ALTA"), created in accordance with the laws of the province of Ontario. The investment tax credit was denied under section 37 of the Income Tax Act ("the Act") and section 2900 of the Income Tax Regulations ("the Regulations"). The Appellant was reassessed on July 15, 1992, that is, within the period prescribed by subsection 152(4) of the Act. It should be noted that the Minister allowed the deduction of a business loss of $9,998 that the Appellant claimed that same taxation year.
+[3] Following a preliminary assessment dated August 1, 1991 (see Tab 3 of Exhibit A-1), the Appellant retained accountant Yves Renaud to represent her in negotiating with Revenue Canada (which has since become the Canada Customs and Revenue Agency (CCRA)) a settlement regarding the preliminary assessment and ALTA's research and development expenses in 1988 (Exhibit I-11).
+[4] On August 12, 1992, Mr. Renaud filed a notice of objection against the July 15, 1992, assessment for the 1988 taxation year (Exhibit I-11), which denied the Appellant a $2,000 investment tax credit. The notice of assessment included $975.29 in interest on arrears and $95.74 in interest paid on the refund of the credit.
+[5] Because the Minister did not confirm the assessment, the Appellant filed a notice of appeal with this Court through her counsel, Bonhomme, Castonguay et associés; the notice of appeal was received at the Court on October 30, 1998. The appeal was suspended pending the outcome of a similar case being heard by this Court, namely McKeown v. Canada, [2001] T.C.J. no 236 (Q.L.), which involved investments similar to those made by the Appellant and involved all of the research contracts allegedly awarded to Zuniq Corp. ("Zuniq") (we are talking more than 500 taxpayers involved here).
+[6] On October 22, 2002, following a decision by this Court in McKeown, supra, unfavourable to the investors, counsel for the Appellant stopped representing her, and the Appellant, wanting to pursue her appeal, ultimately went ahead with a hearing in September 2005. Because she did not pay the amount indicated on the assessment being appealed, the Appellant would have to pay a considerable amount of interest if her appeal were to be dismissed. (The interest had already grown to $4,910.74 in August 2001 according to the last statement of account filed by the Appellant under Tab 4 of Exhibit A-1.) The Appellant received a letter from CCRA dated February 7, 2003, urging her to send the Shawinigan-sud Tax Centre a request for cancellation or waiver of interest under the fairness provisions as soon as the decision on her appeal of her assessment became final and binding (see Exhibit I-12). On December 9, 2004, following the changes to the fairness provisions announced in the 2004 federal budget, CCRA wrote to the Appellant again to inform her that CCRA would not be able to cancel or waive interest under the fairness provisions for taxation years 1985 to 1994 if the Appellant submitted the request after 2004. The letter stated that no request for interest relief because of financial difficulties or for other reasons would be considered under the fairness provisions for those years if the request was not made by the Appellant before January 1, 2005 (see also Exhibit I-12). The Appellant said she had not submitted such a request to CCRA. It is now too late to do so, and it is not within the jurisdiction of this Court to cancel the interest in this case. If the appeal is dismissed, the Appellant will have to cover the full assessed amount, including interest.
+Facts
+[7] In the 1988 taxation year, the Appellant invested the sum of $10,000 in ALTA on the recommendation of a financial adviser, Henri Racine, who said he was selling a planning software project. She acquired 10,000 shares in ALTA for the sum of $10,000 on October 17, 1988 (Exhibit I-1, Tab 22). At the time of the investment, she was told that she would be asked to test the software, which she did two or three times in November and December 1998 at the company's office in Ottawa. Her role was limited to completing a form and commenting on the software, which she described as a forerunner to QuickTax, but less sophisticated. In 1989, she was told that the software had been sold and that her shares were being redeemed for the sum of $5,390 (see Exhibit I-2, Tab 88). That struck her as reasonable at the time given that she, not being an expert in the field, thought it was the government that was driving investment in research and development.
+[8] The project description and the list of employees involved in the project which were given to her and which she filed under Tab 1 of Exhibit A-1, seemed to her to be very serious, especially since the preliminary plan had been evaluated and approved by an associate professor at McGill University with a doctorate in computer science. The Appellant herself did not participate in the project; she was unaware of the details, the measures to be taken to meet the objectives of the project or the uncertainties associated with the project.
+[9] The Appellant was very surprised to learn that the project had been refused by tax authorities. On February 3, 1992, she received a letter from Zuniq, a letter which Zuniq sent to all ALTA partners, informing of the position Zuniq planned to take in regard to Revenue Canada's position (see Tab 2 of Exhibit A-1). Hien VoHoang (president of Zuniq) explained in detail that he felt the project qualified under the Act. She said that when she received the letter, it was the first time she had ever heard of Zuniq. It was also shown that ALTA had subcontracted research work to Zuniq (see Exhibit I-2, Tab 79).
+[10] In the face of these representations, the Appellant thought that Zuniq had bought back the software in question and was going to bat for her and the other partners and that there was therefore nothing else she had to do. On October 14, 1992, she sent a form letter written for all partners of the companies affiliated with the Zuniq group to the Honourable Otto Jelinek, the Minister of Revenue, explaining the investment project and asking him to intervene and amend Revenue Canada's decision (that letter is included under Tab 2 of Exhibit A-1).
+[11] On January 22, 1993, Revenue Canada, Audit Division, acknowledged the complaint about the handling of the research and development claim sent to the Honourable Otto Jelinek and informed Mr. Renaud, the accountant, that the letter to Mr. Jelinek was deemed to be a notice of objection; Mr. Renaud was asked to notify his clients (the Appellant among them) accordingly (Exhibit I-9). It should be noted that the Appellant had earlier filed a notice of objection through Mr. Renaud on August 12, 1992. The Appellant did say, however, in her testimony that she did not remember Mr. Renaud.
+[12] The Appellant subsequently telephoned Revenue Canadaseveral times over the year and was told each time that an effort was being made to reach a settlement for all the investors. All that time, she received notices of assessment and statements of account for the years after the year at issue referring to the amount still in dispute for 1988.
+[13] She said she did not recall receiving a notice of assessment in 1992 and that if she did get it, she acknowledges that she did not give it the attention she ought to have at the time. She said that her conversations with Revenue Canadaofficials led her to believe that she did not have to worry about the situation any more because an effort was being made to reach a settlement. She also did not know at that time that there were so many taxpayers involved. She thinks the amount of interest to be paid today is far too high.
+[14] She acknowledges today that she invested in the project a bit blindly in 1988. In 1989, she declined to invest in another project being sold by the same Mr. Racine because she realized that that type of project was risky and could be expensive.
+[15] She also acknowledges that the ALTA project was presented to her as advantageous from a tax standpoint. She even said that it was very fashionable at that time to invest in research and development projects because of the publicity surrounding the tax benefits. As far as this project with ALTA is concerned, she was not given a profitability study or a marketing agreement. All she had in her possession was the proposal for a research project approved from a technical perspective by the McGillUniversity professor and the résumés of the people who were going to be doing the research. For her, as an investor, that was enough; it won her trust. She did not think to ask for proof that ALTA existed or for a list of the other members of the partnership. She had no idea how many partners had bought shares in ALTA. She did know, however, that the partnership had to raise at least $250,000 to get the project off the ground. At $10,000 a share, 25 partners were enough. She did not know that the partnership had raised $547,000. She never attended a partners' meeting.
+[16] She acknowledged that at the time of her investment, she already knew that her shares would be redeemed and that she would recoup half of her investment. She also said that the tax advantages had to offset the risk of loss. This is confirmed in the prospectus written for the partners, the tax section of which indicates how much a $10,000 investment in the ALTA project would bring in tax savings. The prospectus states that the cash investment is limited to 45% of the total amount of $10,000 claimed as an investment (see Exhibit I-2, Tab 78, page 46). For comparable income in 1988 and 1989, the Appellant acknowledged that she saved approximately $7,000 in taxes simply by investing in ALTA (see Exhibit I-1, Tab 21 as Tab 26).
+[17] She reported a capital gain on the redemption of her shares in 1989, for which she claimed a capital gain exemption.
+[18] Richard Bernier, Manager of Large Files at CCRA, explained that he surveyed all of the partnerships that submitted scientific research projects and subcontracted with Zuniq or corporations affiliated with Zuniq to carry out those projects. It was in June 1989, when there was a proliferation of partnerships claiming investment tax credits related to scientific research and experimental development, that the tax avoidance section of Revenue Canadastarted to take a closer look at these research projects. Mr. Bernier identified 12 partnerships that were incorporated between 1986 and 1988 that had subcontracted research contracts to Zuniq (including ALTA) (see Exhibit I-3). He then referred the file to the scientific research department of Revenue Canada.
+[19] On March 19, 1990, Revenue Canadaassigned computer expert Claude Papion to evaluate claims involving the scientific research and experimental development activities of ALTA in 1988. On its T661 claim form, ALTA claimed scientific research and experimental development expenses of $551,063 for that year. Mr. Papion was to complete his report before March 31, 1991.
+[20] Mr. Papion looked at the eligibility of work that was purportedly done by ALTA in light of the criteria laid out in section 2900 of the Regulations as applicable. He used three key criteria identified by Revenue Canada in Information Circular 86-4R2: 1. scientific or technological advancement; 2. scientific or technological uncertainty; and 3. scientific or technological content.
+[21] According to the documentation he was given, ALTA was formed in 1988 to conduct scientific research and experimental development work in the field of computer-assisted training applied to personal financial planning. The initial project was called PERFIPS. The project subsequently underwent a series of name changes. According to Mr. Papion, the amount of expenses claimed by ALTA suggested a human resources complement of about a dozen person-years.
+[22] At the same time, another partnership, AHD Enr., separately filed claims for $1,493,000 in scientific research and experimental development expenses for 1988 that pertained to the exact same project as the one submitted by ALTA. Yet another partnership by the name of ALH Enr. submitted $3,170,000 in research and development expenses for the same project for 1988. All of these partnerships - AHD Enr., ALH Enr. and ALTA - apparently assigned research and development work to Zuniq, the three partnerships presenting the same project under different names. In 1988 alone, the total amount of expenses claimed was approximately $5,000,000 for research and development work attributed to one project at Zuniq, which in 1988 employed only six people with experience in science or technology. Mr. Papion was compelled to conclude that the expenses claimed were grossly exaggerated.
+[23] Mr. Papion also concluded from the documentation he was given that the project in question did not offer any technological advancement, that there were no development activities and that the project did not present any technological uncertainty. In fact, ALTA intended to use training software that was already available to train students. According to Mr. Papion, ALTA simply made research proposals; it never followed through on them. Mr. Papion also asked to meet with the project managers. He found it odd that when the time came to write his report in 1990, he was told that no one could see him to show him the status of work, which in theory should have been completed in late 1988. The only assumption he could make was that there was no development or advancement in the work that ALTA should have done not only in 1988, but also over a period stretching beyond 1990. He therefore concluded that the project did not qualify as a research and development project entitled to an investment tax credit under the Act and the Regulations.
+[24] Sonia Borin, a human resources adviser at CCRA, acted as an objection officer and from 1992 to 1995 coordinated all notices of objection filed by the sponsoring partners of nine partnerships in the Zuniq group, including ALTA. She realized that Ann Nguyen, the wife of the president of Zuniq, Mr. VoHoang, was the secretary of ALTA. The research project was signed on June 15, 1988, by Zuniq. ALTA subcontracted with Zuniq and other corporations affiliated with Zuniq. The forms used to redeem the shares in ALTA called for redemption in 1989. ALTA filed financial statements for 1988 only: a 10-month fiscal year ending December 31, 1988 (Exhibit I-2, Tab 81). The loss claimed in that fiscal year alone was $546,063 and corresponds more or less to the paid-up capital of $547,000.
+[25] Ms. Borin also realized that the 32 investors who invested amounts ranging from $10,000 to $35,000 in ALTA (for a total of $547,000) all had their shares redeemed in 1989 for an amount equal to roughly 55% of their initial investment. Further, each investor had been instructed by ALTA to claim on their 1988 income tax return a loss of $999.87 per $1,000 invested (before the 1989 refund) and to claim an investment tax credit of $200 per $1,000 invested (before the fund) (see Exhibit A-2, Tab 82).
+[26] During her audit, Ms. Borin also realized that the 12 partnerships in the Zuniq group (Exhibit I-3) were managed by the same group of people with Mr. VoHoang at the helm. Each partnership had only one fiscal year, ranging from 52 days (the shortest) to 11 months (the longest) in the very short period the partnerships existed. In all cases, the end of the fiscal year corresponded to the deadline given to Zuniq or another partnership affiliated with Zuniq to complete the research work. In all case, the investors were involved in these partnerships for very little time before the fiscal year ended. Each investor's shares were redeemed by a partnership affiliated with Zuniq for an amount ranging between 50% and 60% of their initial investment. The period during which each investor held the shares was very short, ranging from a few weeks to three or four months. Each partnership claims a loss that in all cases equalled the amount of the total subscription and the research contract assigned to Zuniq or an affiliated partnership.
+[27] She concluded from this that none of these investors planned to work together on a scientific research project and therefore questioned whether these partnerships really existed. She also concluded that the partnerships did not actually operate any businesses, but rather had been created as smokescreens so that Zuniq could appropriate 40% to 50% of the funds invested by the investors without causing the investor to lose anything and even giving them tax benefits related to their investment. She therefore determined that the investment tax credit that had previously been denied on the grounds that there was no scientific research eligible under section 2900 of the Regulations was not more so because of the fact that the partnership did not actually exist in law and did not operate any business. Since the losses have been allowed by the Minister, she did not address the issue of whether the losses were justified.
+Issue
+[28] The Minister initially denied the investment tax credit on the grounds that the project submitted by ALTA was not eligible under section 2900 of the Regulations. The Respondent is now putting forward additional arguments for not allowing the credit. The Respondent first cites the absence of a true partnership and second the absence of a real business. The Respondent makes these new arguments despite the fact that the Minister agreed to consider that the Appellant's disposal of shares in ALTA had produced a taxable capital gain for which the Appellant requested a tax exemption under section 110.6 of the Act. In accepting the existence of a capital gain resulting from the disposal of shares in the partnership, the Minister therefore initially recognized the real existence of the partnership. The Minister also recognized a business loss for the full amount of the investment. By recognizing such loss, the Minister admitted the existence of a business. The Minister now argues the opposite to support the theory that the Appellant cannot really claim the investment tax credit.
+[29] According to counsel for the Respondent, this is not a new basis for assessment, but simply an alternate argument. In making these new arguments, the Respondent is not trying to increase the amount of the assessment. The Respondent is not questioning the decision to allow the business loss or a capital gains exemption following the disposal of the shares in the partnership.
+[30] What the Respondent is now arguing is that at the time of the assessment, the Minister did not question whether the partnership truly existed. It was not until the objections phase that the Minister realized the proliferation of partnerships affiliated with the Zuniq group and came to understand that these were dummy partnerships. The Minister therefore challenged their existence and the Respondent is now making this new argument to challenge the decision to grant an investment tax credit.
+[31] The Appellant, meanwhile, argues that she invested in good faith and that she should not be penalized for something that may have been concocted by the directors of the partnership in which she invested. She believed that the research project in which she was investing was real, and looking at her investment from a strictly personal point of view, without taking Zuniq to task, it can be concluded that she did in fact invest in the project. She argues that she should not be penalized for things over which she had no control.
+Analysis
+[32] I believe it is clear since subsection 152(9) was added to the Act, which applies to appeals disposed of after June 17, 1999, that the Minister is entitled to raise a new argument, even after the expiration of the normal reassessment period, subject only to paragraphs 152(9)(a) and (b) (see Canada v. Loewen (F.C.A.), [2004] F.C.J. No. 638 (Q.L.) and Gould v. Canada, [2005] T.C.J. No. 403 (Q.L.)). It therefore appears that subsection 152(9) allows the Minister, subject to the restrictions set out in that subsection, to put forward any new argument to defend the amount assessed, provided no attempt is made to increase the amount.
+[33] Subsection 152(9) reads:
+(9) Alternative basis for assessment. The Minister may advance an alternative argument in support of an assessment at any time after the normal reassessment period unless, on an appeal under this Act:
+(a) there is relevant evidence that the taxpayer is no longer able to adduce without the leave of the court;
+(b) it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+[34] Paragraphs 152(9)(a) and (b) speak to the prejudice to the taxpayer that may arise if the Crown is permitted to make new factual allegations many years after the event.
+[35] In the case at bar, the facts alleged by the Respondent ought to have been known to the Appellant for a long time, as she instructed Zuniq's accountant (Mr. Renaud) to represent her to Revenue Canada in 1991 with a view to reaching a settlement regarding the investment in the ALTA project. If the Appellant failed to inform herself through her agent of the discussions that took place with Revenue Canadaover the years, she cannot say several years later that she was unaware of the situation that existed at the time.
+[36] The Respondent is not trying to take into account transactions other than the ones used to support the reassessments established during the reassessment period (which was not sanctioned by the Federal Court of Appeal in Pedwell v. The Queen, 2000 DTC 6405). Nor is the Respondent trying to increase the amount of tax payable. The Respondent now believes that the Minister erred in recognizing the existence of a partnership, and it cannot be bound by an error on a point of law (see Ludmer v. Canada, [1995] 2 F.C. 3, [1994] F.C.J. No. 2007 (Q.L.) paragraph 12). Moreover, this Court cannot be bound by an admission on facts that are not supported by the evidence (see Hammill v. Canada, [2005] F.C.J. No. 1197 (F.C.A.) (Q.L.)).
+[37] In the same circumstances as those of the case at bar, Chief Justice Garon of this Court (as he was at the time), in Blanchette v. Canada, [2001] T.C.J. No. 900 (Q.L.), allowed the Minister to advance the argument that the partnerships in question were non existent, even though the existence of the partnerships had not been questioned at the time the assessments being appealed were established.
+[38] I therefore believe that the Respondent is justified in raising this new argument in support of the assessment being appealed. In that regard, I am of the opinion that the Respondent showed to a more than satisfactory degree that the partnership in question did not exist and no business was operated in this matter.
+[39] In both civil law and common law, the essential element needed to create a partnership is intent by each partner to form a partnership, which means the intent of the partners to carry on a business in common with a view to profit (see Bourboin v. Savard, [1926] 40 B.R. 68, in Quebec civil law; and see Continental Bank Leasing Corp. v. Canada, [1998] 2 S.C.R. 298, paragraph 22, for partnerships under the jurisdiction of the province of Ontario).
+[40] In Backman v. Canada, [2001] 1 S.C.R. 367, the Supreme Court of Canada wrote that "[...] to ascertain the existence of a partnership the courts must inquire into whether the objective, documentary evidence and the surrounding facts, including what the parties actually did, are consistent with a subjective intention to carry on business in common with a view to profit" (page 382, paragraph 25).
+[41] Documentary evidence is not the only criterion for determining the existence of a partnership. It must be determined whether the tangible actions of the parties are compatible with such subjective intent to carry on business in common with a view to profit (see Witkin v. Canada, [2002] F.C.J. No. 703 (Q.L.), paragraph 12, which reiterates Backman, supra).
+[42] Further, where it is established that the sole reason for the creation of a partnership was to give a partner the benefit of a tax loss, when there was no contemplation in the parties' minds that a profit would be derived from carrying on the relevant business, the partnership could not in any real sense be said to have been formed "with a view ofprofit (see Continental Bank, supra, paragraph 43).
+[43] In this instance, while the documentation submitted may appear at first blush to show that the partnership in question actually existed in the year at issue, I believe that the evidence does not support a finding that the Appellant's actions were compatible with a real subjective intention to carry on business in common with the other partners with a view to profit. The Appellant did not know most of the other partners in the partnership in which she invested, did not attend any meetings and was not aware of any marketing or profitability plan supposedly put forward by the partnership. The fact that the Appellant completed a form and made a few comments about the software in question is not in itself enough to show that she truly intended to carry on business in common with the other partners. The partnership in question lasted only as long as a very short fiscal year (less than 12 months).
+[44] Further, I believe that the documentary evidence tends instead to show that the partnership had no intention of operating a real business with the money invested by the so-called partners. When she invested in ALTA, the Appellant new from the offering memorandum that she could claim a tax loss in the first year (Exhibit I-2, Tab 78, pages 44-46). The Appellant know from the outset that she was not losing any money because she would get back 50% of her investment very soon after making her investment. Moreover, she was told that there was absolutely no risk for her because the investment would give her tax benefits that would offset her actual outlay. Reducing taxes cannot in itself be considered a business for the purposes of the Act (see Moloney v. Canada, [1992] F.C.J. No. 905 (Q.L.)). Further, even though the Appellant claims she always acted in good faith, taking no part in the scheme orchestrated by the Zuniq group, this could not create a real source of income from the victim's perspective, and it therefore cannot be concluded that the Appellant was carrying on a real business through the partnership in which she had invested. The simple fact that the evidence shows the existence of a scheme orchestrated by the Zuniq group and in which the Appellant participated in spite of herself is sufficient to conclude that there was no business of any kind (see Hammill v. Canada, [2005] F.C.J. No. 1197(F.C.A.) (Q.L.)).
+[45] This is sufficient in my view to show that the Appellant had no intention of becoming a partner in ALTA and that she never carried on a business through that partnership. I find instead that if she decided to invest in the partnership, it was primarily to invest in a tax shelter that had been recommended to her by Mr. Racine.
+[46] The Respondent also produced evidence showing that all of the partnerships related to the Zuniq group were managed by the same group of people and that the purpose of creating those partnerships was to raise fund by showing investors a return on taxes so favourable that they would get their investment back in a short while by taking advantage of tax benefits that would reduce their personal income and also give them a tax credit. These investors profited from the tax benefits they sought to obtain by investing in these so-called partnerships.
+[47] In my opinion, the Respondent proved on a balance of probabilities that the partnerships affiliated with the Zuniq group were not genuine partnerships. More specifically, the Respondent convinced me that ALTA did not really exist and carried on no business.
+[48] That said, in order to qualify for an investment tax credit under subsection 127(8) of the Act, the Appellant had to be a taxpayer associated with a partnership that submitted eligible expenses under section 37 of the Act. Scientific research and experimental development expenses are eligible if the partnership was carrying on business during the year. Given my finding that there was no real partnership carrying on business, the Appellant cannot be entitled to the investment tax credit.
+[49] That conclusion is sufficient to dismiss the appeal. However, even if I consider only the initial argument raised by the Minister to deny the investment tax credit based on the ineligibility of the research project per se under section 37 of the Act and section 2900 of the Regulations as applicable, the Appellant failed to satisfy me that the Minister erred in deeming the project to be ineligible. The courts appear to have accepted the approach recommended in Information Circular 86-4R3 to establish the criteria to be used in determining whether a scientific research project is eligible. Five criteria were set out in Northwest Hydraulic Consultants Ltd. v. Canada, [1998] T.C.J. No. 340 (Q.L.), paragraphs 14, 15 and 16, and reiterated with approval by the Federal Court of Appeal in C.W. Agencies Inc. v. Canada, [2001] F.C.J. No. 1886 (Q.L.), paragraph 17.
+[50] The criteria are:
+1. Was there a technological risk or uncertainty which could not be removed by routine engineering or standard procedures?
+2. Did the person claiming to be doing SRED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty?
+3. Did the procedure adopted accord with the total discipline of the scientific method including the formulation, testing and modification of hypotheses?
+4. Did the process result in a technological advancement?
+5. Was a detailed record of the hypotheses tested and results kept as the work progressed?
+[51] Mr. Papion, the expert witness for the Respondent, identified the criteria on which he based his analysis of the eligibility of the projects in question, namely:
+(a) scientific or technological advancement;
+(b) scientific or technological uncertainty;
+(c) scientific or technical content, which consists in studying: 1. how the resources are being used; 2. whether those resources are reasonable; and 3. whether there is adequate documentation showing how the work is done.
+[52] According to counsel for the Respondent, Mr. Papion's analysis consisted in determining:
+(a) the objectives of the project;
+(b) the status of the existing technology;
+(c) whether there were any weaknesses in the existing technology that would stand in the way of meeting the objectives?
+[53] Mr. Papion concluded that there was no evidence, based on all the documentation submitted, that any scientific research and experimental development was done. Mr. Papion said that he tried in vain to meet the scientific experts concerned and consequently he was not able to see first hand whether there were any projects or observe their status. Moreover, these scientific experts never gave him proof in writing of the status of the work or a real, tangible description of what was being done. They simply sent him proposals without showing that any measures had been taken to implement those proposals.
+[54] He was not able to observe in any of the projects problems that would indicate that there was technological uncertainty to be resolved or the serious prospect of technological advancement. In his opinion, the documentation did not support in any way the existence of a systematic investigation program.
+[55] Further, the expenses submitted in support of the scientific research and experimental development struck him as grossly exaggerated considering the staff available, who, based on what Mr. Papion was able to see, had to work on several projects in different areas at the same time.
+[56] Mr. Papion therefore concluded that there was no plausible evidence to show that any eligible work had actually been done.
+[57] I agree with counsel for the Respondent that the Appellant was unable to provide positive evidence identifying the uncertainties or advancement of the project supported by ALTA. All of the evidence brought forward concerning the scheme concocted by the directors of the Zuniq group shows that those partnerships, if they really did exist, could operate with only 40% to 50% of the total amount invested. That seriously taints the process and casts considerable doubt over the actual amount spent on these projects.
+[58] In my opinion, the Appellant failed to show that scientific research and experimental development actually took place under the project in which she invested. Because that is an essential requirement for entitlement to an investment tax credit, the Appellant is not entitled.
+[59] These conclusions preclude the need for me to analyse the Respondent's alternative argument related to the at-risk amount of a limited partner within the meaning of subsections 127(8.1), (8.2) and (8.5) of the Act or a specified member within the meaning of subsection 248(1) of the Act insofar as calculation of the investment tax credit is concerned.
+[60] The fact that the Appellant was not reassessed until 1992 for 1988 is irrelevant in this matter. The Appellant was reassessed within the normal period for a new assessment. Moreover, the fact that the Minister did not confirm the assessment before the Appellant finally filed a notice of appeal in 1998 (six years after the notice of objection) is also not something I have to consider in determining the validity of the assessment being appealed. The Appellant was free to file a notice of appeal with this Court as soon as the 90-day period following service of the notice of objection expired without the Minister notifying her of his decision, pursuant to paragraph 169(1)(b) of the Act. The Appellant could thus have filed an appeal in 1992 instead of waiting until 1998. The decision to await the outcome of McKeown, supra, before hearing the Appellant's appeal was accepted by her counsel at the time, which suggests that the Appellant had also given her consent.
+[61] The Appellant must therefore take responsibility now for the long time that has passed. To prevent interest from accumulating, she could have paid the assessed amount up front pending the outcome of her appeal. Finally, this Court lacks jurisdiction to cancel an assessment based solely on the Minister's actions (see Main Rehabilitation Co. v. Canada, [2004] F.C.J. No. 2030, 2004 F.C.A. 403 (Q.L.); Hardtke v. Canada, [2005] T.C.J. No. 188, 2005TCC263 (Q.L.)).
+[62] For all these reasons, the appeal is dismissed.
+Signed in Ottawa, Canada, on this 26th day of October 2005.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 5th day of May 2006.
+Monica F. Chamberlain, Revisor
+CITATION: 2005TCC666
+COURT DOCKET NO.: 98-3791(IT)I
+STYLE OF CAUSE: Lucette Carpentier and Her Majesty the Queen
+PLACE OF HEARING: Ottawa, Ontario
+DATES OF HEARING: September 19, 20, 21, 23 and 28, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: October 26, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+For the Respondent:
+Pierre Cossette and
+Philippe Dupuis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

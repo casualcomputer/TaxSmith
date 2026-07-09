@@ -1,0 +1,163 @@
+Title: Ko c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28345/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-753-28345-ko-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-03-19
+
+# Ko c. La Reine
+
+- Citation: 2007 CCI 753
+- Decision date: 2007-03-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1930, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ko c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-19
+Référence neutre
+2007 CCI 753
+Numéro de dossier
+2005-1497(IT)G
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1497(IT)G
+ENTRE :
+ELIZABETH KO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 19 mars 2007 à Toronto (Ontario)
+Devant : L’honorable juge M.A. Mogan
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Jenny P. Mboutsiadis
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 1997, 1998 et 1999 sont rejetés sans dépens.
+Signé à Ottawa, Canada, ce 14e jour de décembre 2007.
+« M.A. Mogan »
+Juge suppléant Mogan
+Traduction certifiée conforme
+ce 15e jour de janvier 2008.
+Hélène Tremblay, traductrice
+Référence : 2007CCI753
+Date : 20071214
+Dossier : 2005-1497(IT)G
+ENTRE :
+ELIZABETH KO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Mogan
+[1] L’appelante appelle des nouvelles cotisations d’impôt sur le revenu qui ont été établies à l’égard de ses années d’imposition 1997, 1998 et 1999. Pendant ces années, l’appelante était une employée auprès de la Compagnie Montréal Trust. Elle a déclaré les revenus d’emploi suivants :
+1997
+44 836 $
+1998
+39 812 $
+1999
+32 252 $
+Ses revenus pour 1999 étaient moins élevés parce que la Compagnie Montréal Trust a mis fin à son emploi en octobre de cette même année.
+[2] Dans des avis de nouvelle cotisation datés du 25 août 2004, le ministre du Revenu national (le « ministre ») a ajouté les montants suivants aux revenus déclarés par l’appelante pour les années en cause :
+1997
+29 065 $
+1998
+44 950 $
+1999
+168 944 $
+Le ministre soutient que les montants ajoutés proviennent d’une certaine activité criminelle à laquelle l’appelante aurait pris part avec deux autres personnes. L’appelante admet avoir pris part aux activités criminelles, mais, dans son avis d’appel, elle prétend ne pas avoir tiré d’avantage financier de ces activités. La principale question en l’espèce est de savoir si l’appelante a tiré un avantage financier de l’activité criminelle pendant chacune des années en cause. Et, si c’est le cas, combien d’argent aurait‑elle tiré?
+[3] L’appelante est née aux Philippines en juillet 1960. Elle est venue au Canada et a obtenu un baccalauréat d’une université canadienne. En 1981, elle a commencé à travailler auprès de la Compagnie Montréal Trust en tant qu’opératrice à la saisie de données. Elle a ensuite accédé au poste de superviseure de la saisie de données. En 1994, elle était rendue superviseure de la recherche, et en 1996, elle a obtenu un poste d’analyste de la recherche. À cette époque‑là, la Compagnie Montréal Trust était un agent de transfert de titres de nombreuses sociétés cotées. En 1996‑1997, le travail de l’appelante était, en partie, de déceler et de corriger les erreurs commises dans les certificats d’actions émis par la Compagnie Montréal Trust.
+[4] Une erreur pouvait se glisser dans un certificat d’actions si deux personnes différentes portant le même nom avaient deux adresses différentes, ou si une même personne avait deux adresses différentes. Si un certificat d’actions était émis par erreur à la mauvaise personne, c’était à l’appelante de récupérer le certificat, d’envoyer une note à la section de la Compagnie Montréal Trust chargée de la mise à jour des profils d’actionnaires, et d’envoyer une autre note à la section chargée de l’émission des certificats. C’est le pouvoir de l’appelante en matière d’émission de certificats d’actions qui est à l’origine de ses démêlés avec la justice.
+[5] En 1996, Katie Wright était agente immobilière à Mississauga (Ontario). C’est elle qui a effectué la transaction lorsque le frère de l’appelante a acheté une maison à Mississauga en 1996. C’est à ce moment‑là que l’appelante et Katie Wright se sont rencontrées. À l’hiver 1996‑1997, l’appelante, ses sœurs et un de ses frères ont décidé de partir de Scarborough (une banlieue à l’est de Toronto) pour aller s’installer à Mississauga, à l’ouest. Ils ont vendu leur maison de Scarborough et en ont acheté une à Mississauga par l’entremise de Katie Wright, agente immobilière. Ils sont déménagés à Mississauga en mars 1997.
+[6] Lors de son témoignage, l’appelante a affirmé qu’après le déménagement, elle s’est rapidement liée d’amitié avec Katie Wright. Elles allaient ensemble au cinéma et Mme Wright lui disait où trouver les meilleures boutiques. En tant qu’amie, l’appelante a expliqué à Mme Wright où elle travaillait et ce qu’elle faisait. Selon l’appelante, Mme Wright avait fait faillite et était insolvable. De plus, Mme Wright partageait un logement avec Marilyn Smith, une esthéticienne. Au début de leur amitié, Mme Wright a dit à l’appelante qu’elle avait besoin d’argent. Après quelques discussions, l’appelante a proposé à Mme Wright et à Mme Smith d’ouvrir un compte de titres auprès de la Canada Trust.
+[7] L’idée était que l’appelante prêterait de l’argent à Mme Wright et à Mme Smith. Celles‑ci déposeraient l’argent emprunté dans le compte de titres de la Canada Trust. Puis, elles achèteraient et vendraient des titres par l’entremise de ce compte dans le but de réaliser des gains en capital. L’appelante affirme s’être fait rembourser des obligations d’épargne du Canada (environ 5 000 $), avoir utilisé ses épargnes personnelles (environ 3 000 $) ainsi que sa carte de crédit Visa ou sa marge de crédit (environ 4 000 $) pour prêter 12 000 $ à Katie Wright et à Marilyn Smith. L’argent prêté par l’appelante a été déposé dans le compte de titres de ces dernières et a été utilisé pour acheter des actions de Bell Canada.
+[8] Pendant cette même période (de mai à juin 1997), Mme Wright a emprunté environ 2 000 $ à l’appelante pour payer ses factures personnelles. Selon l’appelante, Mme Wright est venue lui rendre visite tard, un soir de juin 1997. Mme Wright lui a dit que son fils, Micheal, avait besoin de 20 000 $ ou de 30 000 $ pour acheter des chevaux pur-sang afin de les entraîner pour la course. Mme Wright a demandé l’aide de l’appelante. Cette rencontre entre l’appelante et Mme Wright, un certain soir de juin 1997, s’est avérée le moment charnière de la carrière de plus de 16 ans de l’appelante auprès de la Compagnie Montréal Trust. Comme elle l’a elle‑même dit, c’est à ce moment‑là qu’elle s’est mise à [traduction] « faire quelque chose de mal ».
+[9] L’appelante a commencé à établir de faux certificats d’actions aux noms de Katie Wright et de Marilyn Smith et elle les émettait à Katie Wright. Ces certificats d’actions étaient déposés dans le compte de titres de Katie Wright et de Marilyn Smith à la Canada Trust avant d’être vendus dans le marché libre. Une fois engagée dans cette voie, il semble que l’appelante ne pouvait plus faire marche arrière. Pendant la période de septembre 1997 à juin 1999, il y a eu onze transactions dans lesquelles de faux certificats d’actions ont été émis à Katie Wright et vendus pour un montant global de 803 380 $.
+[10] La pièce R-1 est une liste des actions représentées par de faux certificats d’actions établis par l’appelante et émis à Katie Wright. Cette liste est reproduite ci‑dessous :
+[traduction]
+- 2 000 actions d’Euro-Nevada, vendues le 25 septembre 1997 au montant de 46 162 $
+- 1 000 actions d’Euro-Nevada, vendues le 3 octobre 1997 au montant de 23 605 $
+- 1 000 actions d’Agnico Eagle, vendues le 27 octobre 1997 au montant de 12 723,20 $
+- 612 actions de Nortel, vendues le 10 novembre 1997 au montant de 82 607,45 $
+- 2 000 actions d’Euro-Nevada, vendues le 9 décembre 1997 au montant de 28 913 $
+- 2 300 actions de Franco-Nevada, vendues le 15 janvier 1998 au montant de 59 361,04 $
+- 2 148 actions de Franco-Nevada, vendues le 16 janvier 1998 au montant de 57 772,82 $
+- 1 000 actions de Franco-Nevada, vendues le 18 février 1998 au montant de 30 907 $
+- 2 364 actions de Franco-Nevada, vendues le 9 avril 1998 au montant de 85 541,80 $
+- 1 000 actions de Nortel, vendues le 16 juin 1999 au montant de 122 815 $
+- 2 000 actions de Nortel, vendues le 24 juin 1999 au montant de 252 972 $
+[11] Dans son témoignage, l’appelante a affirmé catégoriquement ne pas avoir reçu d’argent du produit de la vente des actions (803 380 $) représentées par les faux certificats. Un grand nombre d’éléments de preuve indiquent cependant des flux monétaires fréquents entre l’appelante et Katie Wright ainsi que des paiements faits à l’appelante à partir du compte de titres à la Canada Trust. L’appelante a décrit le fait que Mme Wright avait souvent besoin d’argent. À un moment donné, Mme Wright a demandé à l’appelante de lui prêter sa carte de crédit Visa avec une limite de 15 000 $. L’appelante lui a prêté sa carte et a accordé par écrit à elle et à son fils, Micheal, le pouvoir de l’utiliser. Ils l’ont bel et bien utilisée.
+[12] L’appelante a affirmé avoir reçu des chèques que Mme Wright lui avait fait en vue de rembourser une partie de son utilisation (et celle de son fils) de la carte Visa, mais elle n’a jamais tout remboursé. À l’automne 1997, le fils de Mme Wright, Micheal, a acheté une maison au 2972, Oslo Crescent, à Mississauga. La cote de solvabilité du fils de Mme Wright ne lui permettait pas d’obtenir un prêt hypothécaire. La maison a donc été mise au nom de l’appelante parce qu’elle pouvait obtenir un prêt hypothécaire pour le fils, et c’est ce qu’elle a fait. La pièce A‑6 est le dossier de l’opération hypothécaire.
+[13] En décembre 1997, le fils de Mme Wright était en Floride et avait besoin d’argent pour acheter d’autres chevaux. Plus tard, c’est Katie Wright qui avait besoin d’argent (environ 100 000 $) pour acheter un appartement en copropriété en Floride. De son côté, l’appelante s’est acheté une nouvelle voiture et a fait un voyage dans son pays d’origine, les Philippines. À l’été 1999, après la vente des actions de Nortel au montant de 252 972 $ (la dernière entrée dans la pièce R‑1), l’appelante n’était plus en mesure de couvrir ses activités auprès de la Compagnie Montréal Trust. L’appelante a commencé à demander à Katie Wright de lui rembourser les prêts qu’elle lui avait accordés, mais cette dernière ne lui répondait pas et ne répondait pas à ses appels.
+[14] Les deux dernières transactions inscrites dans la pièce R‑1 (voir le paragraphe 10) étaient beaucoup plus importantes que les neuf autres les précédant. Elles ont dû mettre la puce à l’oreille de la Compagnie Montréal Trust, parce qu’une enquête a été lancée dans la section où travaillait l’appelante. Elle et d'autres employés ont été interrogés. Au départ, elle a nié être au courant de quelque méfait que ce soit, ou de la production de faux certificats d’actions. Plus tard, le 30 octobre 1999, ou environ à cette date, l’appelante est allée rencontrer son directeur et a tout avoué de ses activités frauduleuses et de sa production de faux certificats d’actions.
+[15] Le directeur à la Compagnie Montréal Trust a appelé la police pour qu’elle vienne interroger l’appelante, et cette dernière a perdu son emploi sur‑le‑champ. Elle a été arrêtée et accusée de fraude de plus de 5 000 $. Le 5 juillet 2000, l’appelante a plaidé coupable devant la Cour provinciale à Toronto. Elle a été reconnue coupable et mise en probation pour une période de 24 mois. Lorsque les présents appels ont été entendus, en 2007, elle avait un emploi normal. À la pièce R‑4 (le cartable), l’onglet 11 contient son dossier d’arrestation, l’onglet 12 contient le synopsis de son infraction, l’onglet 14 contient une copie de son ordonnance de probation, et l’onglet 13 contient une copie de l’ordonnance d’indemnisation enjoignant à l’appelante de verser 1 293 461 $ à la Compagnie Montréal Trust.
+[16] Katie Wright et Marilyn Smith ont été appelées à témoigner pour l’intimée. Katie Wright a reconnu avoir emprunté de l’argent à l’appelante, avoir utilisé sa carte de crédit, et lui avoir demandé d’obtenir un prêt hypothécaire pour la maison de son fils (Micheal). Mme Wright a aussi admis avoir ouvert un compte de titres avec Marilyn Smith à la Canada Trust en vue d’acheter et de vendre des actions. Elle se rappelait que l’appelante lui avait émis des certificats d’actions originaux, mais prétendait ne pas avoir été mise au courant dès le départ que ces certificats étaient des faux.
+[17] Le témoignage de Marilyn Smith était semblable à celui de Katie Wright, à l’exception du fait que Katie Wright avait participé de plus près avec l’appelante aux transactions. Au départ, l’appelante prétendait ne rien avoir reçu des 803 380 $ tirés de la vente des actions énumérées à la pièce R‑1. Cependant, lors de son contre‑interrogatoire, l’appelante a admis avoir reçu 29 065 $ de la part de Katie Wright en 1997 et 44 950 $ en 1998. Autrement dit, elle admet avoir reçu les montants que le ministre a ajoutés à ses revenus dans les nouvelles cotisations établies pour ces deux années. L’appelante a dit ne pas se souvenir du montant qu’elle avait reçu de Katie Wright en 1999.
+[18] La pièce R‑4 (le cartable) contient des copies de plusieurs documents, comme des chèques et des traites de banque, indiquant des transferts d’argent entre l’appelante et Katie Wright. Certains de ces documents sont résumés ci‑dessous :
+Onglet 16 le 7 août 1997, dépôt de 18 210,54 $ dans le compte de titres de la Canada Trust (dont 13 000 $ en espèces);
+Onglet 17 le 6 octobre 1997, l’appelante reçoit 9 000 $ tirés du compte de la Canada Trust;
+Onglet 19 le 21 novembre 1997, chèque de 2 395 $ de Katie Wright à l’intention de l’appelante;
+Onglet 20 le 18 décembre 1997, traite de banque d’un montant de 10 770 $ de la Canada Trust à l’intention de l’appelante;
+Onglet 21 le 21 février 1998, chèque de 1 950 $ de Katie Wright à l’intention de l’appelante;
+Onglet 22 le 13 mars 1998, traite de banque d’un montant de 30 000 $ de la Canada Trust à l’intention du fils de Katie Wright (Micheal);
+Onglet 23 le 6 octobre 1998, traite de banque (013502) d’un montant de 5 000 $ de la Canada Trust à l’intention de l’appelante;
+Onglet 24 le 6 octobre 1998, traite de banque (013503) d’un montant de 5 000 $ de la Canada Trust à l’intention de l’appelante;
+Onglet 26 le 18 janvier 1999, traite de banque d’un montant de 8 294 $ de la Canada Trust à l’intention de l’appelante;
+Onglet 27 le 25 janvier 1999, traite de banque d’un montant de 41 910 $ de la Canada Trust à l’intention de l’appelante;
+Onglet 28 le 16 mars 1999, traite de banque d’un montant de 18 000 $ de la Canada Trust à l’intention de l’appelante;
+Onglet 30 le 3 mai 1999, chèque de 2 450 $ de Katie Wright à l’intention de l’appelante;
+Onglet 31 le 18 juin 1999, traite de banque d’un montant de 30 000 $ de la Canada Trust à l’intention de l’appelante.
+[19] Les documents susmentionnés prouvent qu’il y a eu d’importantes transactions entre l’appelante et Katie Wright pendant un période de trois ans au cours de laquelle le salaire annuel de l’appelante à la Compagnie Montréal Trust était d’environ 40 000 $. On peut se demander ce qui aurait motivé l’appelante à prêter ses propres économies à une personne qu’elle vient tout juste de rencontrer, avec laquelle elle s’est rapidement liée d’amitié et qui, selon ce qu’en savait l’appelante, avait fait faillite. On peut aussi se demander pourquoi l’appelante aurait commencé à faire des activités malhonnêtes pour aider cette personne à obtenir de l’argent. En dépit des faux certificats d’actions, qualifier l’appelante de personne naïve, c’est bien peu dire. Après l’avoir bien observée à la barre des témoins, je conclus qu’elle ne comprenait pas vraiment tout l’aspect commercial de la vente et de l’achat d’actions, mais qu’elle était tout de même très consciente de ce qu’elle faisait. De plus, d’un point de vue social, elle n’a pas fait preuve de débrouillardise quand est venu le temps d’évaluer la différence entre une véritable amie et une personne opportuniste. Il me semble que l’appelante essayait d’acheter l’amitié et a pris des mesures malhonnêtes pour le faire.
+[20] Dans des avis de nouvelles cotisations datés du 18 avril 2002, le ministre a ajouté la totalité du montant de 803 380 $ aux revenus de l’appelante pour les années 1997, 1998 et 1999. L’appelante s’est opposée à ces nouvelles cotisations. Le ministre a alors procédé à un nouvel examen et établi des nouvelles cotisations le 25 août 2004 visant à réduire ainsi les montants qu’il avait ajoutés :
+1997
+29 065 $
+1998
+44 950 $
+1999
+168 944 $
+Lors du contre‑interrogatoire, l’appelante a accepté les montants pour les années 1997 et 1998.
+[21] En ce qui concerne l’année 1999, l’appelante n’a présenté aucun document de ses transactions avec Katie Wright. Les documents énumérés au paragraphe 18 ci‑dessus indiquent que l’appelante a reçu au moins 100 000 $ en 1999, et tout n’est pas compris dans ces documents. Deux ans et quatre mois se sont écoulés entre l’établissement des nouvelles cotisations initiales (avril 2002) et l’établissement des deuxièmes nouvelles cotisations (août 2004) dans lesquelles le ministre a exclu plus des deux tiers du montant de 803 380 $. L’appelante ne s’est pas acquittée du fardeau de prouver que le montant de 168 944 $ pour l’année 1999 était erroné.
+[22] L’appelante s’est servie de son emploi auprès de la Compagnie Montréal Trust pour effectuer une série de transactions dont elle et d’autres personnes ont tiré profit. Les montants gagnés par l’appelante dans le cadre de cette activité étaient comme des revenus. Ils étaient élevés si on les compare au salaire annuel que gagnait l’appelante dans le cadre de son emploi. Ces montants n’ont toutefois pas été indiqués dans les déclarations de revenus de cette dernière. L’appelante verra donc ses appels rejetés en ce qui a trait aux montants ajoutés aux revenus qu’elle avait déclarés et à l’application de pénalités suivant le paragraphe 163(2) de la Loi de l’impôt sur le revenu. Les appels sont rejetés sans dépens.
+Signé à Ottawa, Canada, ce 14e jour de décembre 2007.
+« M.A. Mogan »
+Juge suppléant Mogan
+Traduction certifiée conforme
+ce 15e jour de janvier 2008.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2007CCI753
+N° DE DOSSIER : 2005-1497(IT)G
+INTITULÉ : ELIZABETH KO et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 19 mars 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge M.A. Mogan
+DATE DU JUGEMENT : Le 14 décembre 2007
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Jenny P. Mboutsiadis
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

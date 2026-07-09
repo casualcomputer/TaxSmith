@@ -1,0 +1,203 @@
+---
+title: "McKinney c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28667/index.do"
+last_modified: "2008-05-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 287"
+citation2: ""
+neutral_citation: "2008 CCI 287"
+decision_date: "2008-05-13"
+language: "fr"
+item_id: "28667"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1130
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:47:00.275000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e5bc62c4cf27ab8bb831a68f9e2ee1e2078018e60eb1a9cb5a21f8516259b143"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McKinney c. La Reine
+
+- Citation: 2008 CCI 287
+- Decision date: 2008-05-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1130, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKinney c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-13
+Référence neutre
+2008 CCI 287
+Numéro de dossier
+2005-236(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-236(IT)G
+ENTRE :
+KEVIN MCKINNEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu les 28, 29 et 30 avril et le 1er mai 2008
+à Kelowna (Colombie‑Britannique)
+Devant : L'honorable juge suppléant D. W. Beaubier
+Comparutions :
+Avocat de l'appelant :
+Me Timothy W. Clarke
+Avocate de l'intimée :
+Me Johanna Russell
+________________________________________________________________
+JUGEMENT
+La cotisation est présentée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait qu'une somme additionnelle de 43 503,77 $ devrait être portée au crédit de l'appelant.
+L'intimée a droit à ses dépens partie‑partie.
+Signé à Ottawa, Canada, ce 22e jour de mai 2008.
+« D. W. Beaubier »
+Le juge suppléant Beaubier
+Traduction certifiée conforme
+ce 24e jour de décembre 2008.
+Yves Bellefeuille, réviseur
+Référence : 2008CCI287
+Date : 20080513
+Dossier : 2005-236(IT)G
+ENTRE :
+KEVIN MCKINNEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Beaubier
+[1] Le présent appel, interjeté sous le régime de la procédure générale, a été entendu à Kelowna (Colombie‑Britannique) les 28, 29 et 30 avril et le 1er mai 2008. L'appelant a témoigné et a appelé à témoigner son avocat précédent, Me Rodney Chorneyko. L'intimée a appelé Mme Patricia Clements, agent de perception pour l'Agence du revenu du Canada (ci‑après l'« ARC »).
+[2] À l'ouverture de l'audience, l'avocat de l'appelant a présenté des requêtes en modification de l'avis d'appel et en ajournement de l'audience. Les requêtes ont été rejetées.
+[3] L'appelant, en sa qualité d'administrateur de MKM Manufacturing Ltd. (ci‑après « MKM »), a fait l'objet d'une cotisation se rapportant à des retenues à la source effectuées à l'égard des employés de MKM au titre de l'impôt sur le revenu mais non versées, pour la période du 21 septembre 1994 au 23 avril 1998, ainsi qu'aux intérêts pendant cette période et par la suite.
+[4] Les paragraphes 4, 5, 6, 9, 10, 11 et 12 de la réponse à l'avis d'appel sont ainsi rédigés :
+[TRADUCTION]
+4. Relativement au paragraphe 3 de l'avis d'appel, il admet qu'en mai 1996, l'appelant a commencé des procédures pour demander la protection sous le régime de la Loi sur la faillite et l'insolvabilité à propos de MKM, mais il déclare que l'appelant n'a pas agi avec le degré de soin, de diligence et d'habileté pour prévenir le manquement, de la part de MKM, de remettre l'impôt fédéral sur le revenu pendant la période visée qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+5. Relativement au paragraphe 6 de l'avis d'appel, il admet que MKM et l'ARC ont conclu une convention hypothécaire portant la date du 21 mai 1997, mais il déclare qu'en dépit des modalités de cette convention, le ministre du Revenu national (ci‑après le « ministre ») a établi à juste titre à l'égard de l'appelant une cotisation pour les intérêts en application du paragraphe 227(9.2) de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), telle qu'elle est modifiée (ci‑après la « Loi »), à l'égard du montant de l'impôt fédéral sur le revenu que MKM n'avait pas versé de la façon appropriée pendant la période visée.
+6. Relativement au paragraphe 7 de l'avis d'appel, il déclare que, dans la cotisation qu'il a établie à l'égard de l'appelant, le ministre a bien calculé le montant total d'impôt fédéral sur le revenu, soit 113 185,19 $, que MKM avait omis de verser pour la période visée.
+[...]
+9. Par avis de cotisation du 9 mars 2004 portant le numéro 28015 (ci‑après la « cotisation »), le ministre a établi une cotisation à l'égard de l'appelant relativement au montant de 113 185,19 $ d'impôt fédéral sur le revenu que MKM avait retenu à la source en 1994, 1995, 1996, 1997 et 1998, mais n'avait pas versé, et aux intérêts et aux pénalités s'y rapportant.
+10. Le 3 juin 2004, l'appelant a signifié au ministre un avis d'opposition à l'égard de la cotisation.
+11. Le 21 octobre 2004, le ministre a ratifié la décision quant à la cotisation.
+12. La cotisation et la ratification établies par le ministre ont été fondées sur les hypothèses suivantes :
+a) la société MKM a été constituée en Colombie‑Britannique le 30 janvier 1992;
+b) pendant toutes les périodes pertinentes, MKM exploitait une entreprise de resciage du bois;
+c) de 1994 à 1998, MKM a exploité une scierie de cèdres à Salmon Arm (C.‑B.);
+d) du 4 novembre 1993 au 23 janvier 2004, l'appelant a été l'unique administrateur et dirigeant de MKM;
+e) pendant toutes les périodes pertinentes, l'appelant n'a pas démissionné de ses fonctions d'administrateur de MKM;
+f) l'appelant a participé aux activités quotidiennes de l'entreprise de MKM;
+g) MKM a omis de verser au receveur général la somme de 113 185,19 $ au titre de l'impôt fédéral sur le revenu qu'elle avait retenue sur les salaires versés à ses employés de 1994 à 1998, ainsi que le détaille l'annexe A de la réponse;
+h) MKM a omis de verser les pénalités et les intérêts se rapportant à l'impôt fédéral non remis, ainsi que le détaille l'annexe A de la réponse;
+i) MKM a fait cession de ses biens en vertu de la Loi sur la faillite et l'insolvabilité en date du 1er octobre 2003;
+j) le 9 janvier 2004, l'ARC a remis une preuve de réclamation au syndic de faillite de MKM relativement aux obligations de MKM quant à l'impôt fédéral sur le revenu et les pénalités;
+k) pendant toutes les périodes pertinentes, l'appelant était un homme d'affaires averti;
+l) pendant toutes les périodes pertinentes, l'appelant a été administrateur d'autres sociétés que MKM;
+m) en 1994, l'appelant savait que MKM avait commencé à avoir des difficultés financières et avait fait l'objet d'une cotisation relativement à l'arriéré de versement des retenues à la source et, à l'époque, il a omis de prendre des mesures correctives et préventives suffisantes pour empêcher un arriéré additionnel;
+n) l'appelant n'a pas agi avec le degré de soin, de diligence et d'habileté pour prévenir le manquement, de la part de MKM, de remettre l'impôt fédéral sur le revenu pendant la période visée qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+[5] La preuve a confirmé les hypothèses 12a) à l) inclusivement ou ne les a pas réfutées. Il s'agit donc de décider si l'appelant, en tant qu'unique administrateur et directeur de l'exploitation de MKM, a agi avec le degré de soin, de diligence et d'habileté qu'il fallait pour prévenir le défaut de versement de la part de MKM.
+[6] Selon son témoignage, vers 1973, M. McKinney a obtenu à l'Université Simon Fraser des qualifications en vue d'un diplôme universitaire avec des majeures en histoire et en économie ainsi qu'une mineure en commerce. Il a été ensuite représentant pour Finning Tractor et pour Georgia Pacific. De 1979 à 1989, il a travaillé avec deux associés dans l'industrie du bardeau. En 1989, il a acheté avec un associé une entreprise appelée « Teal‑Jones » à un séquestre. En 1992, il a créé MKM en tant qu'unique actionnaire. Pendant toutes les périodes pertinentes pour l'appel, il a été un homme d'affaires averti. Il a en outre été le directeur de l'exploitation de MKM pendant toutes les périodes pertinentes.
+[7] Selon son témoignage, les dossiers financiers et commerciaux et les livres de paie de MKM ont été tenus jusqu'en 1994 par le personnel de Teal‑Jones, dont il était actionnaire. À la fin du printemps ou au début de l'été 1994, M. McKinney a quitté Teal‑Jones et a commencé à exploiter MKM complètement seul; il s'est chargé de ses activités financières et de la paie dans les locaux de MKM. C'est à ce moment‑là que ses versements pour les retenues à la source ont pris du retard.
+[8] En 1994, afin d'avoir un fonds de roulement suffisant pour MKM, M. McKinney a fait vendre un quota de coupe de bois par sa société CITC Timber Corporation (ci‑après « CITC »). Celle‑ci avait droit, à la suite de cette vente, à un produit net de 400 000 $ en espèces. Cette somme devait être payée avec un paiement initial de 75 000 $ le 15 août 1994, que CITC a reçu, puis 75 000 $ par mois en septembre, octobre et novembre 1994. Le solde de 100 000 $ devait être versé quand le permis de coupe serait émis à l'acheteur, ce qui, pensait‑on, devait être six à huit mois plus tard. L'acheteur a versé le solde des mensualités à son avocat, qui les a conservées en fiducie jusqu'à l'émission du permis. Deux permis ont finalement été émis : l'un en mars 1996 et le second vers août 1996. En fin de compte, CITC a dépensé ces sommes de la façon suivante :
+1.
+70 000 $
+en 1994, pour acheter deux séchoirs qui ont été livrés dans les locaux de MKM. L'un d'eux a été utilisé par MKM en 1994, dans un séchoir à bois, pour sécher ses produits afin d'en augmenter la valeur.
+2.
+127 000 $
+en 1996, dont :
+40 000 $
+à l'ancienne épouse de M. McKinney;
+87 000 $
+à 522748 B.C. Limited (ci‑après « Jessie Cedar ») pour fournir des produits du bois à MKM.
+3.
+123 000 $
+à Teal‑Jones à titre de règlement d'un procès avec M. McKinney ou l'une de ses sociétés.
+4.
+75 000 $
+pour régler divers comptes de CITC.
+Pendant ce temps, M. McKinney pensait que le solde des sommes serait versé à CITC d'un jour à l'autre. Il faut noter toutefois que ce produit appartenait à CITC, et non à MKM. Néanmoins, M. McKinney est d'avis que si les 400 000 $ avaient été reçus à temps, cela aurait permis à MKM de remettre ses retenues à la source dans les délais.
+[9] À partir du 21 septembre 1994, MKM était toujours en retard à l'égard des versements faisant l'objet de la cotisation. En septembre 1994, M. McKinney le savait.
+[10] En 1996, trois événements ont sérieusement nui aux activités de MKM :
+1. La crise du bois d'oeuvre résineux avec les États‑Unis a été résolue par un ensemble de quotas fondés sur les exportations des quinze mois antérieurs. MKM n'avait jamais exporté. Ses ventes se faisaient en grande majorité à des clients, et en particulier à un client qui ensuite exportait vers les États‑Unis. MKM a donc continué de vendre à des clients qui ensuite exportaient les produits vers les États‑Unis. Monsieur McKinney a témoigné qu'à partir de 1996, MKM perdait, à son avis, sa marge de profit du fait de la situation des quotas. La Cour pense qu'en réalité, aucun élément ne prouve que le changement du système des quotas proprement dit ait nui à la marge de profit de MKM, car celle‑ci n'exportait pas avant que ne soit mis en place le système des quotas et elle a continué de vendre à ses clients antérieurs.
+2. La première hypothèque sur le terrain et les édifices de MKM (ci‑après l'« hypothèque des Rosmer ») a fait l'objet d'une action en forclusion.
+3. À l'été ou à l'automne 1996, M. McKinney a souffert de dépression, pour laquelle il a été traité et dont il souffre toujours aujourd'hui. Il prend encore des médicaments pour cette dépression. En novembre 1996, il a donné une procuration à son ancienne épouse. Aucun élément n'indique combien de temps a duré la procuration, mais M. McKinney a témoigné qu'il avait peut‑être continué de signer des chèques de MKM pendant que la procuration était en vigueur.
+[11] Monsieur McKinney a pris un certain nombre de mesures pour assurer directement l'ARC du remboursement par MKM :
+1. Il a déposé une proposition, présentée aux pièces R‑20 et R‑23, selon laquelle BDO Dunwoody serait le syndic pour régler les créanciers, au rythme mensuel de 7 500 $, ensuite de 8 500 $ et enfin de 9 500 $, et MKM paierait ses soldes courants dans les délais. Des négociations à cette fin ont commencé au début de l'automne 1996 et ont abouti à une approbation du tribunal le 20 janvier 1997 (pièce A‑21). Le 2 mai 1997, l'ARC a saisi le compte bancaire de MKM à la Banque de Montréal pour défaut de paiement des remises courantes, et la proposition a échoué, parce que MKM n'était plus en mesure de verser les mensualités susmentionnées.
+2. Le 30 avril 1997, MKM a conclu, en vertu de la proposition, un contrat de garantie générale, grevant les biens meubles de MKM en faveur de la Reine, du ministre du Revenu national et de la Commission des accidents du travail de la Colombie‑Britannique (ci‑après la « Commission ») (pièce A‑26).
+3. Le 21 mai 1997, MKM a consenti, en vertu de la proposition, une hypothèque de deuxième rang après l'hypothèque des Rosmer sur ses biens immobiliers (terrain et usine) près de Salmon Arm, en Colombie‑Britannique, M. McKinney étant le signataire, en faveur du ministre du Revenu national et de la Commission; cette hypothèque a été enregistrée au bureau d'enregistrement des droits immobiliers le 29 juillet 1997 (pièce A‑24). Cette hypothèque précisait que la somme due au ministre était de 156 385,76 $ et que celle due à la Commission était de 87 429,55 $, sans accorder de préséance à l'un ou l'autre; essentiellement, ils étaient présentés comme égaux.
+4. Monsieur McKinney a témoigné qu'en 1997, MKM (« nous ») avait emprunté un montant variable auprès de « B & L Forest Products », lequel a pu être utilisé pour remettre de temps à autre certains montants des retenues. En réalité, il s'agissait d'un compte courant avec le principal client de MKM, compte qui était parfois excédentaire, parfois débiteur.
+[12] Après la saisie par l'ARC du compte de MKM à la Banque de Montréal le 2 mai 1997, puis une deuxième saisie en mai 1997, la Banque de Montréal a fermé le compte de MKM. Monsieur McKinney a tenté de respecter les obligations de MKM à l'égard de la paie par l'intermédiaire de comptes d'autres sociétés, mais au printemps 1998, MKM ne pouvait plus exploiter son entreprise et a fermé. Ainsi que M. McKinney l'a déclaré : [TRADUCTION] « Je n'y arrivais plus. »
+[13] Pendant l'action en forclusion de la première hypothèque intentée par les Rosmer, le ministre a acheté cette hypothèque. La Cour suprême de la Colombie‑Britannique a rejeté cette action en forclusion.
+[14] Les droits découlant de la deuxième hypothèque immobilière ont été forclos par le ministre et par la Commission, lesquels ont obtenu une ordonnance de la Cour suprême de la Colombie‑Britannique afin de vendre les biens de l'usine. Monsieur McKinney estime qu'à titre d'administrateur de MKM, il avait un certain degré de pouvoir relativement à cette ordonnance de vendre. Il a proposé à l'ARC ou au syndic d'aider à percevoir et à améliorer les biens, proposition qui a été repoussée. Pendant ces instances, le ministre et la Commission ont convenu que le ministre ou l'ARC agirait pour eux deux à titre de mandataire de façon proportionnelle, et engagerait des dépenses pour percevoir leurs réclamations et administrer leurs créances hypothécaires : voir la pièce A‑24.
+[15] Début 2000, un certain M. Upper a présenté une offre d'achat pour un prix de 201 000 $. Monsieur McKinney s'est opposé à la vente à un tel prix, mais a ensuite retiré son opposition, et la Cour suprême de la Colombie‑Britannique a approuvé la vente. L'offre d'achat portait toutefois sur les biens immobiliers et l'équipement. M. McKinney a témoigné que quelques pièces d'équipement, notamment un séchoir, appartenaient à CITC, et non à MKM.
+[16] L'ARC a sollicité, par requête à la Cour suprême de la Colombie‑Britannique, la modification de l'ordonnance de vendre de façon à attribuer la valeur de 150 000 $ au terrain et aux édifices et de 51 000 $ à l'équipement. En novembre 2000, une ordonnance de vendre le terrain et les édifices pour 150 000 $ a été suspendue après demande de M. McKinney. Pendant que se déroulait cette instance, M. Upper a retiré son offre initiale d'achat pour 201 000 $.
+[17] À la requête de l'ARC, MKM a été mise en faillite, avec effet au 1er octobre 2003 (pièce R‑6).
+[18] Le 27 septembre 2004, le syndic de faillite a transféré le terrain et l'équipement aux McQuaig pour environ 100 000 $.
+[19] Monsieur McKinney a témoigné lors de son contre‑interrogatoire que, depuis 1979, il avait constitué ou acquis un certain nombre de sociétés pour diverses entreprises liées à la production de bois d'oeuvre et de bardeau en Colombie‑Britannique. Dans quelques‑unes, il y avait des associés ou des proches et dans d'autres, il était seul. Quatre d'entre elles, dont MKM, ont été mises sous séquestre. MKM n'a jamais déposé de déclaration de TPS ou payé de versement au titre de la TPS. Qui plus est, toutes les déclarations de revenus de MKM ont été déposées en retard. Ses deux déclarations de revenus pour 1993 ont été signées le 24 juin 1998 par M. McKinney, à titre d'administrateur, puis déposées (pièces R‑30 et R‑31). Les déclarations ultérieures (de 1994 à 1999 inclusivement, pièces R‑32 à R‑37) ont été signées par lui, à titre de président, le 16 août 2004, puis déposées. En qualité d'administrateur de MKM, il a également signé un accusé de réception du huissier daté du 26 mai 2000 (pièce R‑(cahier de l'appelant)‑35). Il n'a jamais démissionné de ses fonctions d'administrateur de MKM et, en réalité, il gérait personnellement cette entreprise au quotidien et a continué de le faire même quand il a souffert de dépression. Selon son témoignage, les teneurs de comptes de MKM ne préparaient pas d'état des résultats de l'entreprise. Il faisait plutôt lui‑même un bilan approximatif des activités financières de MKM; aucun n'a été présenté en preuve. Par contre, les teneurs de comptes de MKM ont rempli les formules de remise des retenues. M. McKinney a témoigné qu'il regardait la déclaration des salaires dus et qu'il décidait s'il fallait verser les remises.
+[20] L'appel de M. McKinney est fondé en partie sur l'hypothèse que, si la vente au prix de 201 000 $ avait été faite à M. Upper, la quasi‑totalité de la réclamation de l'ARC à cette époque aurait été satisfaite. Il a toutefois témoigné que quelques pièces d'équipement assujetties à l'offre d'achat appartenaient à CITC, et non à MKM. La vente a été retardée du fait des demandes présentées à la Cour par M. McKinney. Tout ceci s'est passé après que MKM a cessé ses activités au printemps 1998, et plus particulièrement longtemps après qu'il est devenu impossible d'empêcher l'omission de retenir les sommes et de faire les remises.
+[21] Monsieur McKinney n'a apporté aucun élément qui prouve qu'il ait tenté de prévenir le défaut par MKM de verser les retenues pour les années 1994 à 1998, à l'exception des documents de garantie décrits et déposés en preuve, mais ceux‑ci ont été faits après l'omission par MKM d'effectuer les retenues, et ses omissions à l'égard des remises qui étaient alors courantes ont continué pendant le déroulement même de la proposition.
+[22] Monsieur McKinney a allégué également qu'après la date de l'hypothèque (pièce A‑24), aucun intérêt n'était dû et exigible au ministre. La seule signature d'une partie à cette transaction est celle de M. McKinney, sur le document d'hypothèque lui‑même, lequel précise que la somme de 156 385,76 $ est due au ministre et celle de 87 429,55 $, à la Commission. Les clauses relatives à l'intérêt et au taux d'intérêt au paragraphe 1.1 de l'hypothèque ont été rayées et paraphées. Cette clause a été également rayée et paraphée par quelqu'un dans le document d'enregistrement. Madame Patricia Clements a toutefois témoigné que l'interruption de l'intérêt vaut seulement pour la période pendant laquelle la proposition commence et demeure en vigueur. Lorsque MKM n'a pas respecté les modalités de la proposition et qu'il y a eu des procédures subséquentes, l'intérêt a recommencé à courir depuis la date initiale. Ce manquement a eu lieu quand l'ARC a saisi le compte de MKM à la Banque de Montréal, après que la société a omis de remettre les retenues qui étaient alors courantes et exigibles. La Cour conclut qu'en vertu des dispositions de la Loi de l'impôt sur le revenu, après l'échec de la proposition, ces dispositions sont demeurées en vigueur et l'affirmation de Mme Clements est correcte, l'intérêt étant en conséquence dû et exigible conformément à la cotisation. Telle est ma conclusion, en partie parce que, de toute façon, la préclusion à l'égard de cette entente n'est pas recevable contre la Couronne.
+[23] Selon les éléments de preuve, pendant toutes les périodes pertinentes, M. McKinney a été directeur de l'exploitation et administrateur de MKM. Pendant ces périodes, il n'a jamais fait quoi que ce soit pour prévenir l'omission, de la part de MKM, de remettre les retenues à la source non versées. Il n'a pas agi avec soin, diligence ou habileté pour prévenir ce manquement. En réalité, il s'est servi de ces retenues pour régler d'autres dépenses d'exploitation de MKM, sachant pertinemment que ces retenues auraient dû être versées au ministre. Cette situation a perduré même pendant sa dépression, alors qu'il a continué d'exploiter MKM et de signer divers documents, dont quelques‑uns ont été déposés en preuve. Je tranche donc cet aspect de l'appel contre M. McKinney et en faveur de l'intimée.
+[24] Subsidiairement, l'avocat de M. McKinney a soutenu que les obligations envers le ministre ont été satisfaites en tout ou en partie du fait du projet de vente de 201 000 $, qui ne s'est jamais réalisé. La Cour tranche en faveur de l'intimée à propos de ce motif, car cette offre d'achat a été retirée avant que l'ordonnance de vendre n'ait été exécutée ou que la vente n'ait été conclue. Qui plus est, le retard relatif à cette offre a été causé en partie par les manoeuvres juridiques de M. McKinney lui‑même afin d'empêcher l'acceptation de l'offre. Enfin, la somme de 201 000 $ a été proposée en partie pour l'équipement chez MKM, qui, selon M. McKinney, appartenait à CITC, ce qui fait que, s'il y avait eu vente, cette portion des 201 000 $ aurait en réalité été versée à CITC.
+[25] Un autre argument subsidiaire avancé par l'avocat de M. McKinney a trait à la répartition finale du produit de la vente du terrain et des édifices de MKM par le syndic de faillite. Ce produit, d'un montant de 72 015,25 $, a été reçu par l'ARC qui, après les frais de procédure, l'a réparti de la façon suivante : 64,14 p. 100 au ministre, et 35,86 p. 100 à la Commission. L'agent de perception, Mme Clements, a calculé cette répartition, d'après les montants et les proportions dont avaient convenu la Commission et l'ARC lors de la proposition de MKM, de l'hypothèque (pièce A‑24) et du contrat de garantie générale (pièce A‑26) accepté et accordé par MKM au ministre et à la Commission pendant la durée de la proposition. Ceux‑ci sont demeurés en tant que charges contre les biens de MKM même après l'échec de la proposition. Ils sont demeurés en place jusqu'à la vente finale. La répartition, y compris le paiement des frais, s'est entièrement faite à partir des terrains garantis par l'hypothèque et a été faite conformément aux modalités de celle‑ci. Le droit de forclusion à l'égard de l'hypothèque a surgi du fait de l'échec de la proposition.
+[26] Monsieur McKinney s'est plaint de la détérioration du terrain et des édifices pendant la période entre la cessation d'exploitation de MKM en 1998, la nomination du syndic de faillite le 1er octobre 2003 et la vente du terrain ainsi que des édifices par le syndic aux McQuaig pour réaliser 100 000 $ en 2004. Vers novembre 2004, le syndic a versé le produit net de la vente, soit 72 015,25 $, à l'ARC selon une « fiducie réputée » (voir la pièce R‑38). Monsieur McKinney n'a toutefois aucun motif de se plaindre. La Cour conclut que les retards ont été causés par ses manoeuvres juridiques et ses discussions perpétuelles avec l'ARC afin de renégocier le montant en cause, de mettre en cause une vente ou de la retarder et de promettre des paiements futurs qui ne se sont pas réalisés, ce dont ont témoigné M. McKinney, Me Chorneyko et Mme Clements.
+[27] L'avocat de M. McKinney a soutenu qu'à tout le moins, le produit de 72 015,25 $ que l'ARC a reçu du syndic devrait être entièrement crédité au règlement de la réclamation du ministre. Il a fondé cet argument sur les paragraphes 227(4) et (4.1) de la Loi de l'impôt sur le revenu qui, selon lui, accordent au ministre une [TRADUCTION] « priorité absolue » sur les autres créanciers, notamment la Commission. La Cour conclut toutefois que le produit de la vente du terrain et des édifices était assujetti à l'hypothèque signée par MKM le 21 mai 1997 et a été versé ainsi que MKM l'y avait désigné. Le ministre, la Commission et MKM en avaient convenu lors de la proposition de MKM. Les contreparties étaient que MKM obtenait du temps pour se remettre et payer et que le ministre et la Commission obtenaient une garantie empêchant, à compter de cette date, MKM d'exécuter subrepticement un transfert à l'égard de ce bien qui est situé dans une zone rurale de la Colombie‑Britannique. MKM est liée par cette entente dans la mesure de la réalisation de cette garantie, et dans cette mesure, MKM est précluse. Pour ce motif, cet argument est rejeté.
+[28] L'avocate de l'intimée a déclaré à l'ouverture et à la fin de l'audience qu'il y aurait lieu d'accueillir l'appel afin de porter au crédit de l'appelant la somme de 43 503,77 $ au titre de la cotisation et que celle‑ci devrait être présentée au ministre pour nouvel examen et nouvelle cotisation en conséquence. Il en est ainsi décidé.
+[29] L'intimée a droit à ses dépens partie‑partie.
+Signé à Ottawa, Canada, ce 22e jour de mai 2008.
+« D. W. Beaubier »
+Le juge suppléant Beaubier
+Traduction certifiée conforme
+ce 24e jour de décembre 2008.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2008CCI287
+DOSSIER DE LA COUR : 2005-236(IT)G
+INTITULÉ : Kevin McKinney c. La Reine
+LIEU DE L'AUDIENCE : Kelowna (Colombie‑Britannique)
+DATE DE L'AUDIENCE : Les 28, 29 et 30 avril et le 1er mai 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge suppléant D. W. Beaubier
+DATE DU JUGEMENT : Le 22 mai 2008
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Timothy W. Clarke
+Avocate de l'intimée :
+Me Johanna Russell
+AVOCATS AU DOSSIER :
+Pour l'appelant :
+Nom : Timothy W. Clarke
+Cabinet : Bull, Housser & Tupper LLP
+Vancouver (Colombie-Britannique)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

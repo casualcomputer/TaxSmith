@@ -1,0 +1,465 @@
+---
+title: "Matte v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521395/index.do"
+last_modified: "2025-02-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 16"
+citation2: ""
+neutral_citation: "2025 TCC 16"
+decision_date: "2025-02-03"
+language: "en"
+item_id: "521395"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6023
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:44:28.732000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c48e550cf1052106efede790147b2fbf0ef59edd67d6f4a881832e6a292cbd07"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Matte v. The King
+
+- Citation: 2025 TCC 16
+- Decision date: 2025-02-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6023, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Matte v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-02-03
+Neutral citation
+2025 TCC 16
+File numbers
+2020-1071(IT)G
+Judges and Taxing Officers
+Sylvain Ouimet
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2020-1071(IT)G
+BETWEEN:
+DENNY C. MATTE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on November 29 and 30, 2023 at Montréal, Québec
+Before: The Honourable Justice Sylvain Ouimet
+Appearances:
+For the Appellant:
+Aaron Rodgers
+For the Respondent:
+Albert Brunelle
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act in respect of the Appellant’s 2017 taxation year is dismissed, with costs in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada this 3rd day of February 2025.
+“Sylvain Ouimet”
+Ouimet J.
+Citation: 2025 TCC 16
+Date: 20250203
+Docket: 2020-1071(IT)G
+BETWEEN:
+DENNY C. MATTE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Ouimet J.
+I. INTRODUCTION [1] This is an appeal by Mr. Denny C. Matte (“Mr. Matte”) from a reassessment made by the Minister of National Revenue (the “Minister”) in respect of his 2017 taxation year.
+[2] On February 6, 2019, the Minister reassessed Mr. Matte pursuant to subsection 5(1), paragraph 6(1)(a), and subsections 6(15) and 6(15.1) of the Income Tax Act.[1] In the reassessment, the Minister included in Mr. Matte’s taxable income for the 2017 taxation year an additional amount of $245,812.39.[2] This amount is equal to the value of the benefit that the Minister concluded Mr. Matte received by virtue of his employment at Dundee Securities Ltd. (“Dundee Securities”) in the 2017 taxation year. The Minister has concluded that the benefit is equal to the difference between the principal outstanding on loans ($670,812.39) owed to Dundee Securities by Mr. Matte and the amount for which this debt was settled ($425,000).
+II. ISSUE [3] The issue in this appeal is as follows:
+Did Mr. Matte receive a benefit of $245,812.39 by virtue of his employment in the 2017 taxation year?
+[4] In determining this issue, the Court will answer the following questions:
+1-Were the payments received by virtue of Mr. Matte’s employment?
+2-Were the payments made to Mr. Matte pursuant to his employment contract and related promissory notes advances on his salary, bonuses or loans?
+3-If the payments were loans, when were Mr. Matte’s obligations under the Macquarie Notes settled?
+4-In which taxation year should the benefit be included in his taxable income?[3]
+III. THE RELEVANT LEGISLATIVE PROVISIONS [5] The applicable provisions of the ITA are:
+Income Tax
+PART I
+DIVISION B
+Computation of Income
+Basic Rules
+Inclusions
+Amounts to be included as income from office or employment
+6 (1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable
+Value of benefits
+(a) the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer, or by a person who does not deal at arm’s length with the taxpayer, in the year in respect of, in the course of, or by virtue of the taxpayer’s office or employment, except any benefit
+(i) derived from the contributions of the taxpayer’s employer to or under a deferred profit sharing plan, an employee life and health trust, a group sickness or accident insurance plan, a group term life insurance policy, a pooled registered pension plan, a private health services plan, a registered pension plan or a supplementary unemployment benefit plan,
+(ii) under a retirement compensation arrangement, an employee benefit plan or an employee trust,
+…
+Forgiveness of employee debt
+(15) For the purpose of paragraph 6(1)(a),
+(a) a benefit shall be deemed to have been enjoyed by a taxpayer at any time an obligation issued by any debtor (including the taxpayer) is settled or extinguished; and
+(b) the value of that benefit shall be deemed to be the forgiven amount at that time in respect of the obligation.
+Forgiven amount
+(15.1) For the purpose of subsection 6(15), the forgiven amount at any time in respect of an obligation issued by a debtor has the meaning that would be assigned by subsection 80(1) if
+(a) the obligation were a commercial obligation (within the meaning assigned by subsection 80(1)) issued by the debtor;
+(b) no amount included in computing income because of the obligation being settled or extinguished at that time were taken into account;
+(c) the definition forgiven amount in subsection 80(1) were read without reference to paragraphs (f) and (h) of the description of B in that definition; and
+(d) section 80 were read without reference to paragraphs (2)(b) and (q) of that section.
+…
+SUBDIVISION F
+Rules Relating to Computation of Income (continued)
+Definitions
+80 (1) In this section,
+commercial debt obligation issued by a debtor means a debt obligation issued by the debtor
+(a) where interest was paid or payable by the debtor in respect of it pursuant to a legal obligation, or
+(b) if interest had been paid or payable by the debtor in respect of it pursuant to a legal obligation,
+an amount in respect of the interest was or would have been deductible in computing the debtor’s income, taxable income or taxable income earned in Canada, as the case may be, if this Act were read without reference to subsections 15.1(2) and 15.2(2), paragraph 18(1)(g), subsections 18(2), 18(3.1) and 18(4) and 18.2(2) and section 21; (créance commerciale)
+commercial obligation issued by a debtor means
+(a) a commercial debt obligation issued by the debtor, or
+(b) a distress preferred share issued by the debtor; (dette commerciale)
+…
+forgiven amount at any time in respect of a commercial obligation issued by a debtor is the amount determined by the formula
+A - B
+where
+A
+is the lesser of the amount for which the obligation was issued and the principal amount of the obligation, and
+B
+is the total of
+(a) the amount, if any, paid at that time in satisfaction of the principal amount of the obligation,
+…
+Application of debt forgiveness rules
+(2) For the purposes of this section,
+(a) an obligation issued by a debtor is settled at any time where the obligation is settled or extinguished at that time (otherwise than by way of a bequest or inheritance or as consideration for the issue of a share described in paragraph (b) of the definition excluded security in subsection 80(1));
+(b) an amount of interest payable by a debtor in respect of an obligation issued by the debtor shall be deemed to be an obligation issued by the debtor that
+(i) has a principal amount, and
+(ii) was issued by the debtor for an amount,
+equal to the portion of the amount of such interest that was deductible or would, but for subsection 18(2) or 18(3.1) or section 21, have been deductible in computing the debtor’s income for a taxation year;
+…
+(q) where a commercial debt obligation issued by an individual would, but for this paragraph, be settled at any time in the period ending 6 months after the death of an individual (or within such longer period as is acceptable to the Minister and the estate of the individual) and the estate of the individual was liable immediately before that time for the obligation
+(i) the obligation shall be deemed to have been settled at the beginning of the day on which the individual died and not at that time,
+(ii) any amount paid at that time by the estate in satisfaction of the principal amount of the obligation shall be deemed to have been paid at the beginning of the day on which the individual died,
+(iii) any amount given by the estate at or before that time to another person as consideration for assumption by the other person of the obligation shall be deemed to have been given at the beginning of the day on which the individual died, and
+(iv) paragraph 80(2)(b) shall not apply in respect of the settlement to interest that accrues within that period,
+except that this paragraph does not apply in circumstances in which any amount is because of the settlement included under paragraph 6(1)(a) or subsection 15(1) in computing the income of any person or in which section 79 applies in respect of the obligation.
+…
+PART XVII
+Interpretation
+248(1) …
+Debt obligations
+(26) For greater certainty, where at any time a person or partnership (in this subsection referred to as the “debtor”) becomes liable to repay money borrowed by the debtor or becomes liable to pay an amount (other than interest)
+(a) as consideration for any property acquired by the debtor or services rendered to the debtor, or
+(b) that is deductible in computing the debtor’s income,
+for the purposes of applying the provisions of this Act relating to the treatment of the debtor in respect of the liability, the liability shall be considered to be an obligation, issued at that time by the debtor, that has a principal amount at that time equal to the amount of the liability at that time.
+Parts of debt obligations
+(27) For greater certainty,
+(a) unless the context requires otherwise, an obligation issued by a debtor includes any part of a larger obligation that was issued by the debtor;
+(b) the principal amount of that part shall be considered to be the portion of the principal amount of that larger obligation that relates to that part; and
+(c) the amount for which that part was issued shall be considered to be the portion of the amount for which that larger obligation was issued that relates to that part.
+IV. THE FACTS A. Context
+1. The employment of Mr. Matte at Macquarie Canada Services Ltd.
+[6] On January 13, 2011, Macquarie Canada Services Ltd. (“Macquarie Canada”) hired Mr. Matte as an investment advisor. On that day, Mr. Matte signed an employment contract.[4] According to Mr. Matte, as an incentive to attract and retain him as an employee, the employment contract provided that once he reached certain objectives, Macquarie Canada would grant him interest-free loans. During his testimony, on numerous occasions, Mr. Matte qualified these loans as “bonuses”.[5] In his view, forgivable loans were a way for Macquarie Canada to retain its employees for the long term.[6] This is because the principal would be forgiven by one tenth (1/10) on every anniversary date of the loans.[7] The employment contract sets out the following terms and conditions:
+Loans
+Upon employment, transfer of registration and on confirmation that the combined total of your trailing 12-month gross production is approximately CAD785,000 and assets under administration are CAD85,000,000, you will be eligible to receive a non-interest bearing loan in the amount of CAD660,000 (“Principal Sum”), from the Employer which will have a ten year term. In addition, you acknowledge that you are not a shareholder (and do not deal at non-arm’s length with any shareholder) of any entity in the Macquarie Group.
+At any time, you may choose to repay Macquarie the Principal Sum that remains outstanding. Provided that: (i) no Event of Default has occurred; (ii) you continue to be an active employee of Macquarie on the anniversary date of the loan and have received satisfactory performance reviews; and (iii) your employment is not reasonably expected to terminate, (as determined by Macquarie at its sole discretion) then Macquarie will waive its right to repayment of one-tenth (1/10th) of the Principal Sum on each of the applicable anniversary dates of the loan.
+In the event Macquarie waives its right to repayment of all or a portion of the loan, Macquarie will withhold sufficient amounts from your other sources of employment cash compensation required to satisfy any withholding obligations.
+In the event of your resignation or termination with Macquarie for cause, the portion of the Principal Sum that remains outstanding will become due and payable immediately. Pending repayment in full of the Principal Sum outstanding and any other amounts owed by you to Macquarie, you agree that you will not directly or indirectly solicit any client of Macquarie whether that client has previously been advised by you or not, nor shall you attempt to transfer any client from Macquarie or interfere with the relationship between Macquarie and any client.
+If your employment is terminated by Macquarie for any reason other than cause prior to repayment of the Principal Sum by you, the balance of the Principal Sum outstanding as at the Termination Date shall be forgiven on the anniversary dates (as described above) upon which it would otherwise have been forgiven if you had remained in employment with Macquarie and Macquarie will waive its right to repayment of one-tenth (1/10th) of the Principal Sum remaining on each of the applicable anniversary dates of the loan, provided that you continue to comply with any obligations set out in this Agreement that continue to apply following the termination of your Employment.
+If by August 31, 2012 your trailing 12-month revenue is at least CAD665,000, you will be eligible to receive a loan in the amount of CAD140,000 all of which will be in cash, for a term of ten years and handled in the same manner and under the same conditions as described above.
+In addition, if by August 31, 2012 your trailing 12-month revenue is at least CAD785,000 you will be eligible to receive a loan in the amount of CAD140,000, all of which will be in cash, for a term of ten years and handled in the same manner and under the same conditions as described above.
+If by February 28, 2013 your trailing 12-month revenue is at least CAD1,000,000, you will be eligible to receive a loan in the amount of CAD100,000, all of which will be in cash, for a term of ten years and handled in the same manner and under the same conditions as described above.
+Other than in an event of default, the above noted loans will not bear interest. However, an interest benefit will accrue in respect of the Principal Sum outstanding at the prescribed rate, applicable to employment benefits, as determined by the Canada Revenue Agency on a quarterly basis. This interest benefit will be included in your taxable income and reported on your annual T4 tax slip and Macquarie may make withholdings from your other sources of employment cash compensation necessary to satisfy any withholding obligations owing whether or not arising from this loan arrangement.
+In the event that tax authorities require a different tax treatment of this loan arrangement, you agree that any taxes owing are to your account.[8]
+[7] On February 25, 2011, Mr. Matte started his employment as an investment advisor for Macquarie Canada.[9] According to Mr. Matte, while employed by Macquarie Canada, he reached every objective set out in his employment contract. Although the employment contract provided for the right to receive interest-free loans, Mr. Matte entered into four promissory notes with Macquarie Canada in 2011 and 2012 for an amount totalling $1,040,000 (the “Macquarie Notes”). The amount breaks down as follows:[10]
+DATE
+AMOUNTS
+February 17, 2011
+$660,000
+January 27, 2012
+$140,000
+March 27, 2012
+$140,000
+November 29, 2012
+$100,000
+TOTAL
+$1,040,000
+[8] The terms of each of the Macquarie Notes were almost identical, except for the amount of the loans. Each of them provided that as long as Mr. Matte remained in the service of Macquarie Canada and received satisfactory performance reviews, one tenth (1/10) of the principal was to be forgiven at each anniversary date of the loan.[11] The relevant excerpt of the notes reads as follows:
+Anniversary Dates
+At each Anniversary Date of the loan, provided that:
+no Event of Default has occurred;
+the Borrower’s employment with Macquarie has not been terminated:
+a)by the Borrower for any reason;
+b)by the Employer for cause; or
+c)by way of death of the Borrower;
+where the Borrower remains an employee of Macquarie, the Borrower has received satisfactory performance reviews;
+where the Borrower’s employment with Macquarie has ended as a result of termination without cause, the Borrower continues to comply with any obligations set out in the Borrower’s employment agreement that apply following the termination of his or her employment;
+the Borrower agrees to furnish Macquarie with a cheque within 10 days of the Anniversary Date equivalent to the amount required to satisfy any tax withholding obligation, if the cheque is not provided within the required time period, the Borrower expressly authorizes Macquarie to apply any after tax salary, commission and profit share owed to the Borrower by Macquarie to reduce the tax withholding obligation to zero and by signing below, you expressly authorize Macquarie to apply the funds in this manner in respect of any principal amount for which repayment may be waived;[12]
+Macquarie may, in its discretion, agree to waive a portion of the Principal Sum of the loan remaining outstanding; however, such waived amount not to exceed 1/10th of the original Principal Sum on each Anniversary Date.[13]
+[9] Each of the Macquarie Notes contains an “Assignment” clause which provides that the notes could be assigned by Macquarie Canada either with Mr. Matte’s consent or without his consent if they were assigned to an affiliate of Macquarie Canada or to a purchaser of all or part of its business.[14] The clause reads as follows:
+Assignment
+This Note is binding on and enures to the benefit of the Borrower and Macquarie and their respective successors, heirs, executors, administrators, legal personal representatives and permitted assigns.
+Macquarie shall not have the right to assign this Note or any of its rights, benefits and entitlements hereunder without the prior consent of the Borrower, which shall not be unreasonably withheld, provided that Macquarie and its successors and permitted assigns may assign and transfer this Note and any of its rights, benefits and entitlements hereunder at any time to any of its Affiliates (as hereinafter defined) or to any purchaser of all or part of its business without the prior consent of the Borrower. “Affiliate” has the meaning specified in the Business Corporations Act (Ontario) on the date of this Note.
+The Borrower shall not have the right to assign its rights or obligations under this Note or any of its rights, benefits or entitlements hereunder without the prior consent of Macquarie, which consent may be arbitrarily withheld.
+[10] Mr. Matte told the Court that he paid income tax on the portions of the loans in the taxation years in which they were forgiven.[15]
+2. Employment at Richardson GMP
+[11] In 2013, Macquarie Canada sold its wealth management business to Richardson GMP. The sale was completed through the following transactions:
+On September 9, 2013, Macquarie BFS Holdings Ltd. and Richardson GMP entered into a share purchase agreement. Pursuant to the agreement, Macquarie BFS Holdings Ltd. sold all of the issued and outstanding shares of Macquarie Private Wealth Inc. (“Macquarie Wealth”) to Richardson GMP.[16]
+On October 31, 2013, prior to the closing of the share purchase agreement, Macquarie Canada transferred its rights under the employment contracts and the Macquarie Notes[17]to its affiliate, Macquarie Wealth, pursuant to an Assignment and Assumption Agreement.[18]Consequently, Mr. Matte’s employment contract and the Macquarie Notes were assigned to Macquarie Wealth.[19]
+On November 1, 2013, Richardson GMP was amalgamated with Macquarie Wealth, which had become its wholly owned subsidiary with the purchase.[20]
+[12] As a result, according to Mr. Matte’s testimony, Macquarie Canada effectively sold Mr. Matte’s “book of business” to Richardson GMP.[21]
+[13] Mr. Matte testified that before joining Macquarie Canada, he was deeply concerned with a potential sale of his future employer’s business.[22] In the past, he had had negative experiences with mergers of his employers and did not want to go through that process again.[23] Mr. Matte told the Court that when Macquarie Canada sold its wealth management business to Richardson GMP, the quality of the research and support services decreased.[24] Mr. Matte also testified that his clients’ accounts were “bigger than the working capital” of Richardson GMP. This led to a loss of clientele for Mr. Matte.[25]
+3. Employment at Dundee Securities
+[14] On January 13, 2014, Richardson GMP sold part of its business, including Mr. Matte’s book of business, to Dundee Securities, pursuant to an asset purchase agreement.[26] With the agreement, Richardson GMP transferred Mr. Matte’s employment contract and the Macquarie Notes to 2403027 Ontario Limited, its wholly owned subsidiary. Dundee Securities was later amalgamated with 2403027 Ontario Limited.[27]
+[15] According to Mr. Matte, he lost more clients when Richardson GMP sold its business to Dundee Securities. Mr. Matte described this event as a “complete freefall”.[28] Between January 2014 and March 2014, his assets under administration had fallen by $5,000,000.[29] Mr. Matte testified that his clients were warning him that they would leave him if he remained employed with Dundee Securities.[30] Consequently, Mr. Matte felt he had no other choice but to resign from Dundee Securities.[31]
+[16] On April 17, 2015, Mr. Matte resigned from Dundee Securities and the resignation triggered a default event found in the Macquarie Notes that rendered the remaining outstanding principal owed on all loans payable immediately.[32] The relevant clause of the loans reads as follows:
+Termination of Employment
+In the event that the employment of the Borrower by Macquarie is terminated (i) by the Borrower for any reason (ii) by Macquarie for cause; or (iii) by way of death of the Borrower, the balance of the Principal Sum remaining outstanding shall become payable immediately following the Termination Date (as hereinafter defined). The effective date of the termination of the Borrower’s employment for the purposes of this Note will be the last day of the Borrower’s active employment with Macquarie regardless of any contractual, statutory or common law period of notice of termination of employment which was given or ought to have been given (the “Termination Date”).
+As used in this Note “cause” has the meaning given to such term in the employment agreement between the Borrower and Macquarie that is in effect as at the date of this Note.[33]
+[17] At that time, the remaining principal of the Macquarie Notes and of other loans contracted in 2013 by Mr. Matte from Richardson and/or Dundee Securities totalled $1,057,714.28.[34] After Mr. Matte repaid the other loans and after an adjustment was made for unpaid commissions, the outstanding principal owed by Mr. Matte on the Macquarie Notes was $670,812.39.[35]
+4. Lawsuit in the Superior Court of Quebec
+[18] Upon Mr. Matte’s resignation, Dundee Securities requested repayment of the principal outstanding on the Macquarie Notes ($670,812.39) through a notice of default.[36] On May 6, 2015, Dundee Securities filed a lawsuit in the Superior Court of Quebec against Mr. Matte to recover the amount.[37]
+[19] On September 30, 2015, Mr. Matte filed a defence and a counterclaim in which he denied liability and claimed $190,000 from Dundee Securities for damages for the loss of clientele and harm to his professional reputation as well as for legal fees.[38]
+[20] On November 20, 2017, the parties agreed to settle their respective claims by entering into a “Transaction, Mutual Release & Discharge” (the “Settlement Agreement”).[39] Pursuant to the agreement, Dundee Securities agreed to settle its claim for $425,000. However, Mr. Matte paid only $350,000 ($425,000 - $75,000) to Dundee Securities because it recognized owing Mr. Matte $75,000 arising from his claim. More precisely, it recognized owing $51,499.18 for legal fees incurred by Mr. Matte and $23,500.82 in relation to the alleged harm to his reputation. The relevant paragraphs of the Settlement Agreement read as follows:
+WHEREAS the Parties, in consideration of the recitals and promises contained herein, and for other good and valuable consideration hereby detailed, wish to enter into this Transaction, Mutual Release & Discharge in order to fully and finally settle the Claim and the Cross-Demand without any admission of liability whatsoever and solely to avoid the costs of litigation;
+NOW THEREFORE, THE PARTIES AGREE AS FOLLOWS:
+1. The foregoing preamble forms an integral part of this agreement
+2. Matte recognizes and affirms as owing to Dundee the amount of FOUR HUNDRED AND TWENTY FIVE THOUSAND CANADIAN DOLLARS ($425,000) arising from the Claim;
+3. Dundee recognizes and affirms as owing to Matte the amount of SEVENTY FIVE THOUSAND CANADIAN DOLLARS ($75,000.00) arising from the Cross-Demand, composed of:
+a. The sum of FIFTY ONE THOUSAND FOUR HUNDRED NINETY-NINE CANADIAN DOLLARS ($51,499.18) incurred by Matte as legal fees; and
+b. The sum of TWENTY THREE THOUSAND FIVE HUNDRED CANADIAN DOLLARS ($23,500.82) in relation to the alleged damage to his reputation;
+4. As a result of the operation of compensation between the amounts set out at paragraphs 2 and 3, Matte shall pay to Dundee the amount of THREE HUNDRED AND FIFTY THOUSAND CANADIAN DOLLARS ($350,000) by way of: …[40]
+[21] Mr. Matte testified that the amount of $425,000 he acknowledged owing to Dundee Securities pursuant to the Settlement Agreement was the result of a negotiation between the parties where numbers were “thrown around” and that it was not based on any calculations. Mr. Matte signed the agreement but was not part of the negotiations and could not tell the Court more about the calculations that led to the $425,000 other than what is found in the agreement itself.[41]
+[22] Following the Settlement Agreement, Dundee Securities issued Mr. Matte a T4 for $245,812 ($670,812.39 - $425,000) for the 2017 taxation year, which is the year in which the agreement was entered into.[42]
+V. THE PARTIES’ POSITIONS A. Mr. Matte’s position
+[23] Counsel for Mr. Matte submits that the Macquarie Notes were advances on his salary and therefore, the $245,812.39 at issue should have been included in his taxable income for the 2011 and 2012 taxation years, when he received the payments.[43] In his view, the Minister reassessed the wrong taxation years. Counsel submits that the 2011 and 2012 taxation years are statute-barred.
+[24] Counsel for Mr. Matte submits that taxation should have arisen when Mr. Matte received the funds, and relies on this Court’s decision in Merchant v. R.[44], which he claims presents similar facts.[45] Based on that decision, counsel submits that the Macquarie Notes were paid to him “in relation to services that have been rendered”,[46] as they were “kind of a bonus” for having met certain targets.[47] There was no intention for Mr. Matte to repay the amounts received, provided he met his targets. The Macquarie Notes were used as an incentive for Mr. Matte to remain in the employment of Macquarie Canada for at least ten years.[48] Therefore, the true nature of the Macquarie Notes was an advance on salary, not an obligation under subsection 6(15) of the ITA.
+[25] Counsel further submits that in the event this Court finds that the Macquarie Notes were in fact “obligations” pursuant to subsection 6(15) of the ITA, the additional income to be included in Mr. Matte’s taxable income for the 2017 taxation year should be only $55,812.39[49] and not $245,812.39. Relying on this Court’s decisions in Richer v. R.[50] and Rae v. R.,[51] counsel submits that when parties agree to settle a lawsuit that contains both a claim and a counterclaim, as in this case, the forgiven amount of the obligation cannot simply be the difference between the amount claimed and the amount settled for.[52] If the counterclaim contains a claim for damages, it has to be taken into account to reduce the “forgiven amount”. Consequently, Mr. Matte’s taxable income assessed for the 2017 taxation year should be reduced to take into account the damages he claimed. Counsel submits that some of the damages Mr. Matte claimed were not taken into account in the Settlement Agreement. Finally, counsel submits that the allocation between the “forgiven amount” and the damages is relevant, because damages are not taxable.[53]
+B. HMTK’s position
+[26] Counsel for HMTK submits that the amount of $245,812.39 is a benefit that Mr. Matte received by virtue of his employment at Dundee Securities.[54] The amount is equal to the difference between $670,812.39, which is the amount that Dundee Securities claimed it was owed in relation to the Macquarie Notes and found in the Settlement Agreement, and $425,000, which is the amount that Mr. Matte acknowledged owing in the agreement.
+[27] Counsel submits that the benefit was received by Mr. Matte when the amount of $245,812.39 was forgiven in the Settlement Agreement. Counsel submits that, pursuant to subsection 5(1), paragraph 6(1)(a), and subsections 6(15) and 6(15.1) of the ITA, since Mr. Matte entered into the agreement on November 20, 2017, the amount has to be included in Mr. Matte’s taxable income as a benefit of employment in that taxation year.
+[28] Counsel submits that the obligation for Mr. Matte to repay the amount did not exist prior to Mr. Matte’s resignation on April 17, 2015. The benefit under subsection 6(15) of the ITA arose only when part of that obligation to repay the amount was effectively forgiven. Counsel submits that this happened through the Settlement Agreement.[55] Therefore, it could only be considered taxable income from employment for the 2017 taxation year.
+[29] In the Reply to the Notice of Appeal, pursuant to subparagraph 56(1)(a)(ii) of the ITA, HMTK submits that, in the alternative, the $245,812.39 had to be included in Mr. Matte’s income for the 2017 taxation year on account of a retiring allowance to compensate him for the loss of employment with Dundee Securities. However, counsel did not make submissions at trial with respect to his alternative argument.[56]
+[30] Counsel submits that his position is the most consistent with the way Mr. Matte was taxed in relation to the Macquarie Notes starting from 2011, since Mr. Matte included in his income for every taxation year the forgiven amount for that year (one tenth of the principal) as well as an interest benefit.[57]
+[31] Counsel submits that the Macquarie Notes cannot be an advance on salary because Mr. Matte did not have an unconditional right to those amounts. Therefore, they are a “transfer of money with a suspensive obligation” and qualify as an “obligation” pursuant to subsections 6(15) and 248(26) of the ITA.[58] Furthermore, Counsel for HMTK submits that to qualify the Macquarie Notes as an advance on salary would lead to the absurd result that, following his resignation, Mr. Matte would have had to repay amounts on which he was already taxed as income.[59]
+[32] In response to Mr. Matte’s argument that the “forgiven amount” of $245,812.39 has to be reduced to take into consideration the damages alleged in the counterclaim, counsel submits that the Settlement Agreement already considered such damages. Counsel submits that, according to the agreement, Mr. Matte acknowledged owing $425,000 but had to pay only $350,000, because an amount of $75,000 was taken into consideration for the damages claimed in the countersuit. Consequently, counsel submits that the amount of $245,812.39 reassessed is already net of any damages claimed by Mr. Matte.[60]
+VI. ANALYSIS A. The law
+[33] As a basic rule under the ITA, pursuant to subsection 5(1), a taxpayer’s income for a taxation year from employment is the salary, wages, and other remuneration received by the taxpayer in the year. Also, pursuant to paragraph 6(1)(a) of the ITA, in computing the income of a taxpayer for a taxation year, the value of benefits of any kind received or enjoyed by the taxpayer in a taxation year in respect of, in the course of, or by virtue of the taxpayer’s employment has to be included in its taxable income for the said taxation year, subject to certain exceptions. The expression “in respect of” has been broadly interpreted by the Supreme Court of Canada. In Nowegijick v. The Queen, the Court said:
+The words "in respect of” are, in my opinion, words of the widest possible scope. They import such meanings as "in relation to", "with reference to" or "in connection with". The phrase "in respect of" is probably the widest of any expression intended to convey some connection between two related subject matters.[61]
+[34] Pursuant to subsection 6(15) of the ITA, it is only when an employee debt is forgiven by an employer that, for the purpose of paragraph 6(1)(a), a benefit shall be deemed to have been enjoyed by the employee at any time an obligation issued by any debtor is settled or extinguished. The value of the benefit is deemed to be the “forgiven amount” of the obligation. Subsection 6(15.1) of the ITA deals with the notion of “forgiven amounts” and makes reference to subsection 80(2) of the ITA, which in turn deals with the application of the “debt forgiveness rules”. The application of these two provisions is not at issue in this appeal. Consequently, what is relevant for the purpose of this appeal is that, pursuant to section 5, paragraph 6(1)(a) and subsection 6(15) of the ITA, when an obligation issued by any debtor is settled or extinguished, the value of the benefit received by a taxpayer by virtue of employment is equal to the “forgiven amount” of the obligation at the time it is settled or extinguished.
+[35] Subsection 248(26) of the ITA states that any time a person either becomes liable to repay money they borrowed or becomes liable to pay an amount (other than interest) as consideration for any property they acquired, for the purposes of applying the provisions of the ITA relating to the treatment of said person in respect of the liability, the liability shall be considered to be an obligation, issued at that time by the person, that has a principal amount at that time equal to the amount of the liability at that time. Consequently, for a taxpayer who either becomes liable to repay money they borrowed or becomes liable to pay an amount (other than interest) as consideration for any property they acquired, the liability shall be considered to be an “obligation” for the purposes of applying the relevant provisions of the ITA.
+B. Application of the law to the facts of this case
+1. Did Mr. Matte receive a benefit of $245,812.39 by virtue of his employment in the 2017 taxation year? [36] In order to determine whether Mr. Matte received a benefit of $245,812.39 by virtue of his employment in the 2017 taxation year, the Court must first determine whether the payments made to him pursuant to his employment contract and related promissory notes were received by virtue of his employment.
+a) Were the payments received by virtue of Mr. Matte’s employment?
+[37] The evidence is that the payments that led the Minister to conclude that Mr. Matte received a benefit of $245,812.39 were made pursuant to the Macquarie Notes. The notes were entered into by Mr. Matte because he reached the objectives set out in his employment contract and because his contract provided for the right to receive interest-free loans. Consequently, the Court concludes that the payments received by Mr. Matte were received in respect of, in the course of, or by virtue of his employment at Macquarie Canada.
+b) Where the payments made to Mr. Matte pursuant to his employment contract and related promissory notes advances on his salary, bonuses or loans?
+[38] Mr. Matte’s employment contract provided that once he reached certain objectives, Macquarie Canada would grant him interest-free loans.
+[39] According to counsel for HMTK, the loan agreements entered into by Mr. Matte pursuant to the employment contract are the Macquarie Notes. Since the loans were interest free, the value of the interest that Mr. Matte did not pay might be a taxable benefit. The evidence is that Mr. Matte received a T4 for them and was taxed accordingly. In any event, this was not an issue before the Court.
+[40] As for the principal in itself, the principal Mr. Matte owed on the loans under the Macquarie Notes at the time of his resignation—that is, his obligation according to counsel for HTMK—will not be a taxable benefit unless it was settled for less than its outstanding amount. If it was settled for less, the difference between the amount of the principal and the amount for which it was settled will become a benefit for Mr. Matte and will be the “forgiven amount” for tax purposes.
+[41] Counsel for Mr. Matte submits that, despite the fact that the Macquarie Notes mentioned specifically that they pertained to loans, they were not loans but rather advances on Mr. Matte’s salary. According to counsel, the $245,812.39 at issue should have been included in his taxable income for the 2011 and 2012 taxation years because they were advances on his salary and because Mr. Matte received the payments in those taxation years, which are statute barred.
+[42] Based on the submissions of counsel for Mr. Matte, the Court concludes that what counsel is submitting to this Court is that Mr. Matte did not have an obligation to repay the principal on the Macquarie Notes because the payments he received pursuant to the notes were advances on his salary. If there were no loans, Mr. Matte did not have an obligation to repay the amount of $245,812.39 at issue to Dundee Securities, and therefore paragraph 6(1)(a) and subsection 6(15) of the ITA do not apply to this case.
+[43] The position taken by Mr. Matte means that the Court must characterize a transaction, in this case the Macquarie Notes, for tax purposes.
+[44] It is established in case law that the characterization of a transaction for tax purposes is not governed by the name the parties have given it, but by its true legal nature and real character. Accordingly, if the legal form mischaracterizes the legal substance, the latter will prevail.
+[45] The Supreme Court of Canada stated the following in this regard in Shell Canada Ltd. v. Canada:
+39 This Court has repeatedly held that courts must be sensitive to the economic realities of a particular transaction, rather than being bound to what first appears to be its legal form: Bronfman Trust, supra, at pp. 52-53, per Dickson C.J.; Tennant, supra, at para. 26, per Iacobucci J. But there are at least two caveats to this rule. First, this Court has never held that the economic realities of a situation can be used to recharacterize a taxpayer’s bona fide legal relationships. To the contrary, we have held that, absent a specific provision of the Act to the contrary or a finding that they are a sham, the taxpayer’s legal relationships must be respected in tax cases. Recharacterization is only permissible if the label attached by the taxpayer to the particular transaction does not properly reflect its actual legal effect: Continental Bank Leasing Corp. v. Canada, 1998 CanLII 794 (SCC), [1998] 2 S.C.R. 298, at para. 21, per Bastarache J.
+40 Second, it is well established in this Court’s tax jurisprudence that a searching inquiry for either the “economic realities” of a particular transaction or the general object and spirit of the provision at issue can never supplant a court’s duty to apply an unambiguous provision of the Act to a taxpayer’s transaction. Where the provision at issue is clear and unambiguous, its terms must simply be applied: Continental Bank, supra, at para. 51, per Bastarache J.; Tennant, supra, at para. 16, per Iacobucci J.; Canada v. Antosko, 1994 CanLII 88 (SCC), [1994] 2 S.C.R. 312, at pp. 326-27 and 330, per Iacobucci J.; Friesen v. Canada, 1995 CanLII 62 (SCC), [1995] 3 S.C.R. 103, at para. 11, per Major J.; Alberta (Treasury Branches) v. M.N.R., 1996 CanLII 244 (SCC), [1996] 1 S.C.R. 963, at para. 15, per Cory J.[62]
+[46] The framework that is to guide the Court in its analysis of the true nature of a transaction was explained by the Supreme Court of Canada in Continental Bank Leasing Corporation v. Canada as follows:
+21 After it has been found that the sham doctrine does not apply, it is necessary to examine the documents outlining the transaction to determine whether the parties have satisfied the requirements of creating the legal entity that it sought to create. The proper approach is that outlined in Orion Finance Ltd. v. Crown Financial Management Ltd., [1996] 2 B.C.L.C. 78 (C.A.), at p. 84:
+The first task is to determine whether the documents are a sham intended to mask the true agreement between the parties. If so, the court must disregard the deceptive language by which the parties have attempted to conceal the true nature of the transaction into which they have entered and must attempt by extrinsic evidence to discover what the real transaction was. There is no suggestion in the present case that any of the documents was a sham. Nor is it suggested that the parties departed from what they had agreed in the documents, so that they should be treated as having by their conduct replaced it by some other agreement.
+Once the documents are accepted as genuinely representing the transaction into which the parties have entered, its proper legal categorization is a matter of construction of the documents. This does not mean that the terms which the parties have adopted are necessarily determinative. The substance of the parties’ agreement must be found in the language they have used; but the categorization of a document is determined by the legal effect which it is intended to have, and if when properly construed the effect of the document as a whole is inconsistent with the terminology which the parties have used, then their ill-chosen language must yield to the substance.[63]
+[47] Counsel for Mr. Matte relies on this Court’s decision in Merchant for his argument that the true nature of the Macquarie Notes should lead them to be characterized as advances on his salary. In that decision, this Court agreed with the following comments regarding the concept of “substance over form”:
+[21] In Continental Bank of Canada and Continental Bank Leasing Corporation v. The Queen, 94 DTC 1858, Justice Bowman (as he then was) stated that:
+So far as the broader question of substance versus form is concerned, we should at least be clear on what we are talking about when we use the elusive expression 'substance over form'. Cartwright, J. (as he then was) said in Dominion Taxicab Assn. v. M.N.R., 1954 CanLII 215 (SCC), 54 DTC 1020 at p. 1021:
+It is well settled that in considering whether a particular transaction brings a party within the terms of the Income Tax Acts [ sic ] its substance rather than its form is to be regarded.
+His Lordship did not elaborate but in light of other authorities I do not think that his words can be taken to mean that the legal effect of a transaction is irrelevant or that one is entitled to treat substance as synonymous with economic effect. The true meaning of the expression is, I believe, found in the judgment of Christie, A.C.J.T.C.C. in Purdy v. M.N.R., 85 DTC 254 at p. 256, where he said:
+It must be borne in mind that in deciding questions pertaining to liability for income tax the manner in which parties to transactions choose to label them does not necessarily govern. What must be done is to determine what on the evidence is the substance or true character of the transaction and render judgment accordingly.
+Viscount Simon in delivering the judgment of the House of Lords in Commissioners of Inland Revenue v. Wesleyan and General Assurance Society (1948), 30 T.C. 11, said at page 25:
+It may be well to repeat two propositions which are well established in the application of the law relating to Income Tax. First, the name given to a transaction by the parties concerned does not necessarily decide the nature of the transaction. To call a payment a loan if it is really an annuity does not assist the taxpayer, any more than to call an item a capital payment would prevent it from being regarded as an income payment if that is its true nature. The question always is what is the real character of the payment, not what the parties call it.[64]
+[Emphasis in original.]
+[48] Based on the foregoing case law, for tax purposes, the transactions will be characterized and treated according to their true nature, as determined by their legal effect. Consequently, Mr. Matte’s legal relationship must be respected unless the legal effect of the transactions, in this case the Macquarie Notes, is inconsistent with the terminology used by the parties in the notes. A promissory note can be described as follows:
+Also known as a note. A document evidencing a loan made by one party (the payee) to another (the maker). The promissory note contains an unconditional promise by the maker to repay a sum certain in money borrowed under the note to the payee (or to its order, or to bearer) on specified terms. Promissory notes can either be stand-alone documents, containing all the terms of the loan transaction, or short-form documents that refer to an underlying loan agreement as containing the terms of the relationship between the parties. The loan can be payable on demand by the payee (in which case the note is called a demand promissory note) or on a specified date. A promissory note can also be used for vendor take-back financing in an acquisition transaction.[65]
+[49] Based on this description, a promissory note is a document describing a loan. Both the employment contract and the Macquarie Notes use the word “loan”. The contract also describes Mr. Matte as the “borrower”, and the promissory notes provide that “Macquarie has agreed to loan”[66] money to Mr. Matte. When a party signs a promissory note to borrow money, the promissory note “appears merely to evidence the indebtedness, leaving the rights of the parties controlled by their loan agreement”.[67] In this case, the Macquarie Notes are “stand-alone documents” which contain all the terms of the loan agreements.
+[50] Loan agreements are governed by provincial law. The employment contract is governed by the laws of the province of Quebec,[68] as Mr. Matte’s usual place of work was in Montréal. However, the Macquarie Notes expressly provide that they are governed by the laws of the province of Ontario.[69]
+[51] Given that the employment contract provides the conditions to meet to “be eligible to receive” the loans, while the Macquarie Notes actually set out the liability under the loans, all of their conditions and the disbursement of the funds, the relevant transactions to analyze for the purpose of this appeal are the Macquarie Notes.
+[52] Thus, the Court has to determine whether the legal effect of the notes is inconsistent with the terminology used by the parties, such that the Court should recharacterize the transactions.
+[53] In a decision from 2014, the Ontario Superior Court of Justice reviewed the applicable case law and defined a “loan” as follows:
+[31] The written document is, however, evidence of the loan between the parties. In Bradley v. R, [1996] 1 C.T.C. 2237D (reversed on other grounds, 1998 CanLII 8053 (FCA), [1998] 3 C.T.C. 393 (Fed. C.A.)), at para. 12, the Tax Court of Canada stated:
+In law, a loan has been defined as follows:
+A "loan" is a contract by which one delivers a sum of money to another and the latter agrees to return at a future time a sum equivalent to that which he borrows.
+A "loan" within the law of usury is the delivery of a sum of money to another under a contract to return at some future time an equivalent amount with or without an additional sum agreed upon for its use.
+To constitute a "loan", there must be an express or implied agreement whereby one person advances money to another, who agrees to repay it on such terms as to time and rate of interest, or without interest, as parties may agree.
+…
+[33] I find that there is a valid loan agreement between the parties. The essential elements of a loan are all present in this case. The plaintiff gave the defendants $150,000.00, the defendants received the money knowing that they had an obligation to return the same amount with interest at a rate of 5%.[70]
+[Emphasis added.]
+[54] Therefore, the common law definition of a loan applicable in Ontario requires:
+a)A sum of money is advanced to a person by another person; and
+b)The person that received the sum of money agrees to repay it.
+[55] The Macquarie Notes meet that definition. Macquarie Canada lent Mr. Matte a total amount of $1,040,000 through the Macquarie Notes, which expressly provided that Mr. Matte was liable to repay this amount at the end of the ten-year term or on the occurrence of an Event of Default. Throughout the term of the loans, Macquarie Canada could, at its entire discretion, waive one tenth (1/10) of the principal amount of each loan on its anniversary date.
+[56] Whether the loans were actually repaid by Mr. Matte or whether the principal amount was forgiven at a rate of one tenth (1/10) every year does not change the Court’s finding that the transactions were effectively loans. Other decisions have implicitly acknowledged that a loan may be forgiven by the lender.[71]
+[57] If the Court had to apply the provisions of the Civil Code of Québec to determine whether the payments were loans, the Court is of the opinion that it would reach the same conclusion. The legal conditions to form a loan are quite similar in Quebec.
+[58] Under the Civil Code of Québec,[72] a loan is formed when the following conditions are met:
+1. A lender hands over a certain quantity of money to the borrower; and
+2. The borrower binds themselves to return the same quantity of money to the lender after a certain time.[73]
+[59] In Quebec, a loan of money is presumed to be made with interest, but parties to a loan agreement may stipulate otherwise, given that it is a rebuttable presumption.[74]
+[60] In summary, the transactions set out in the Macquarie Notes were effectively loans, by which Mr. Matte had to repay his employer in the event of his resignation. Mr. Matte was eligible to receive said loans because he met the objectives mentioned in his employment contract. If he remained in service and received satisfactory performance reviews, one tenth (1/10) of the loans could be forgiven every year by his employer, at the employer’s entire discretion. That has no impact on the legal effect of the documents. Under provincial law, the lender is free to confer such a benefit on the borrower if they so choose. Further, it does not matter what considerations led to the loans. The Macquarie Notes remain loans, even if they were received by Mr. Matte after meeting certain objectives, because their legal effect remains consistent with loan agreements.
+[61] Nothing in the evidence demonstrates that the parties did not behave in accordance with the Court’s finding that the Macquarie Notes set out the terms and conditions of loan agreements.
+[62] The Court cannot agree with counsel for Mr. Matte’s characterization of the payments made to Mr. Matte pursuant to the Macquarie Notes. Contrary to the facts before this Court in Merchant, the money received by Mr. Matte was not in relation to services that had been rendered. An employee having to meet certain objectives to be granted loans by the employer in addition to the base salary, as in Mr. Matte’s case, is different from a situation where the employee’s only compensation for an entire year’s work takes the form of cheques entered into the accounting records as loans, as in Merchant.[75]
+[63] Further, the employee in Merchant did not have to repay the amount from any source available to him.[76] That is not the case in this appeal. The employment contract and the Macquarie Notes provide that Mr. Matte had to repay the outstanding amounts due at the time of his resignation. Such repayment had to be made “from whatever sources available to him”[77], and was not limited only to future salary or bonuses.
+[64] Therefore, the legal effects of the agreements entered into in Merchant are different from the ones concerned in this appeal. The Merchant decision is thus distinguishable, and the Court in this case cannot conclude the way it did in Merchant.
+[65] The Court finds that the true nature of the payments made to Mr. Matte pursuant to the promissory notes is characterized by one of a lender‑borrower (creditor‑debtor) relationship, in accordance with the terminology used by the parties. Mr. Matte had an “obligation” to repay the outstanding amount on the loans at the time of his resignation. Consequently, the Court concludes that the payments were not advances on his salary or bonuses.
+C. When were Mr. Matte’s obligations under the Macquarie Notes settled?
+[66] In this case, the Court has already concluded that the payments at issue received by Mr. Matte pursuant to the Macquarie Notes were loans, received in respect of, in the course of, or by virtue of his employment at Macquarie Canada.
+[67] Given this conclusion and the fact that the evidence is that, upon his resignation, Mr. Matte was liable to repay the loans to Dundee Securities following their assignment to that company, the money owed to Dundee Securities pursuant to the Macquarie Notes is an obligation for Mr. Matte under paragraph 6(1)(a) and subsection 6(15) of the ITA.
+[68] The question now involves determining when an “obligation” is settled or extinguished pursuant to subsection 6(15) of the ITA. In Richer, in a case involving the application of subsection 80(2) of the ITA, the meaning of the word “settle” was described by this Court as follows:
+[50] Paragraph 80(2)(a) provides that for the purposes of section 80:
+an obligation issued by a debtor is settled at any time where the obligation is settled or extinguished at that time …
+[51] In the context of section 80, the word “settle” connotes a final and legally binding resolution that terminates or reduces the debtor’s obligations: [Citations omitted]. Similarly, in Arcade Construction Ltd. v. M.N.R., 81 DTC 655 (TRB), M.J. Bonner (as he then was) held, at 656, that a debt or obligation was settled when the “…creditor and debtor deliberately agree to fix or vary their existing rights and obligations …”.
+[52] In my view, the combined effect of the Settlement Agreement and the Release, both signed on December 19, 1996 had the effect of terminating the Appellant’s liability under the promissory notes and all other amounts associated with his participation in the four partnerships. …
+[53] Following the signing of the Settlement Agreement and the Release, Claridge Properties retained only the limited right to pursue the Appellant with regards to the US$1 million payment he had agreed to make, the original obligation having been extinguished. Therefore, the date of settlement for the purpose of applying the provisions of section 80 is December 19, 1996.[78]
+[Emphasis added.]
+[69] Given the fact that section 80 of the ITA is referenced in subsection 6(15.1) of the ITA, it is the view of the Court that the meaning to be given to the word “settle” in subsection 6(15) of the ITA should be the same as the one described by this Court in Richer. Therefore, for the purpose of the application of subsection 6(15), it is the Court’s view that an obligation arising from a settlement agreement will be settled when a release has been signed. It is also the Court’s view that, in the absence of a release, if the evidence supports the conclusion that the obligations arising from the Settlement Agreement were satisfied, this is sufficient for the Court to conclude that the obligations have been settled.
+[70] In this case, the Settlement Agreement also contained a mutual release and discharge:
+5. ln consideration of the consideration set out herein, and subject to receipt of the Settlement Payment, Dundee, on its own behalf and on behalf of its assigns. successors, agents, and their predecessors, successors, assigns and affiliates hereby releases, remises and forever discharges Matte of and from any and all actions, cause of actions, claims. debts, demands, damages, costs, interest or expenses of any nature or kind whatsoever whether at law, in equity or under statute arising from the Relationship and/ or the Claim and grants a full and final discharge with respect to and waives all claims (including without limiting the generality of the foregoing, claims for compensation, indemnities, loss of projected profits or damages), demands, actions, cause of actions, obligations which may have arisen or may arise from the Relationship and/or the Claim, save and except as is set out herein.
+6. ln consideration of the terms set out herein, Matte hereby releases, remises and forever discharges Dundee, its officers, directors, employees. servants and agents, and their predecessors, successors, assigns and affiliates of and from any and all action, cause of action, claim, debt, demand, damage, cost, interest or expense of any nature or kind whatsoever whether at law, in equity or under statute arising from the Relationship and/or the Cross-Demand and grants a full and final discharge with respect to and waives all claims (including without limiting the generality of the foregoing, claims for compensation, indemnities. loss of projected profits or damages), demands, actions, cause of actions, obligations which may have arisen or may arise from the Relationship and/or the Cross-Demand.
+…
+14. This Transaction, Mutual Release & Discharge is a transaction pursuant to articles 2631 to 2637 of the Civil Code of Quebec.[79]
+[71] Furthermore, Mr. Matte’s evidence is that he has paid the amount of $350,000 arising from the Settlement Agreement. In my view, as previously mentioned, this alone is sufficient to allow the Court to conclude that the obligation arising from the Macquarie Notes was settled by the Settlement Agreement, which was entered into on November 20, 2017.[80] Therefore, the obligation was settled during the 2017 taxation year.
+D. What is the value of the benefit received by Mr. Matte?
+[72] Pursuant to subsection 6(15) of the ITA, the value of the benefit enjoyed by a taxpayer at any time an obligation issued by any debtor is settled or extinguished is deemed to be the forgiven amount at the time said obligation is settled or extinguished.
+[73] In this case, the evidence is that the amount of $245,812.39 assessed by the Minister constitutes the difference between the outstanding amount owed pursuant to the Macquarie Notes at the time of Mr. Matte’s resignation and the amount for which it was settled under the Settlement Agreement entered into by Mr. Matte and Dundee Securities. That amount constitutes the forgiven amount at the time Mr. Matte’s obligation was settled, in the 2017 taxation year.
+[74] Counsel for Mr. Matte submits that the Settlement Agreement does not “deal with all of the heads of damages claimed in the Defence”, such as punitive damages and damages for loss of clientele.[81] Consequently, he submits there are additional amounts of damages to take into account to reduce the “forgiven amount” of the obligation. Respectfully, there is no evidence supporting such a claim.
+[75] The evidence is that, pursuant to the Settlement Agreement, Dundee Securities agreed to settle its claim for $425,000. However, Mr. Matte paid only $350,000 ($425,000 - $75,000) to Dundee Securities because in the agreement, Dundee Securities recognized owing Mr. Matte $75,000, that is, $51,499.18 for his legal fees and $23,500.82 for the alleged harm to his reputation. The agreement expressly assigns a value of $75,000 to Mr. Matte’s release in respect of the damages and legal fees he claimed.[82]
+[76] Counsel for Mr. Matte also submits that the Court should follow the decision in Rae and allocate amounts for the heads of damages that were not taken into account in the Settlement Agreement. Again, respectfully, there is no evidence that would allow the Court to do so. The terms of the Settlement Agreement are clear. Both Dundee Securities and Mr. Matte mutually released and discharged each other from any liabilities or claims other than those recognized in the Settlement Agreement.
+[77] The Court concludes that the only damages payable to Mr. Matte pursuant to the Settlement Agreement were the $75,000 specifically mentioned in the Settlement Agreement. Consequently, the Court concludes that the benefit Mr. Matte received in respect of, in the course of, or by virtue of his employment at Macquarie Canada in the 2017 taxation year has a value of $245,812.39.
+E. Conclusion
+[78] The evidence in this case has led the Court to conclude that the Macquarie Notes were loans and that the amount outstanding on the loans ($670,812.39) was settled for $425,000 with the Settlement Agreement on November 20, 2017. Consequently, pursuant to paragraph 6(1)(a) and subsections 6(15) of the ITA, the amount of $245,812.39 had to be included in Mr. Matte’s taxable income for the 2017 taxation year.
+VII. CONCLUSION [79] The Court concludes, on a balance of probabilities, that the Minister correctly determined that the amount of $245,812.39 had to be included in Mr. Matte’s taxable income for the 2017 taxation year.
+[80] For all these reasons, the appeal is dismissed, with costs.
+Signed at Ottawa, Canada this 3rd day of February 2025.
+“Sylvain Ouimet”
+Ouimet J.
+CITATION:
+2025 TCC 16
+COURT FILE NO.:
+2020-1071(IT)G
+STYLE OF CAUSE:
+DENNY C. MATTE v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Montréal, Québec
+DATE OF HEARING:
+November 29 and 30, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Sylvain Ouimet
+DATE OF JUDGMENT:
+February 3, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Aaron Rodgers
+Counsel for the Respondent:
+Albert Brunelle
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Aaron Rodgers
+Firm:
+Spiegel Sohmer Inc.
+Montréal, Québec
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) [ITA].
+[2] Reply to the Notice of Appeal, para. 14.
+[3] Transcript (November 30, 2023) at 134, lines 25–28, and 135, lines 1–5.
+[4] Joint Book of Documents, Tab 9.
+[5] Transcript (November 29, 2023) at 54, lines 6-16, and 55, lines 17-18.
+[6] Transcript (November 29, 2023) at 57, lines 12-18.
+[7] Transcript (November 29, 2023) at 6, lines 11-15; Joint Book of Documents, Tab 9 at 309–310 (Subheading “Loans”).
+[8] Joint Book of Documents, Tab 9 at 309–310.
+[9] Joint Book of Documents, Tab 8(S) at 284–285, and Tab 9 at 309.
+[10] Joint Book of Documents, Tabs 8(A), (B), (C), (D).
+[11] Transcript (November 30, 2023) at 59, lines 19-25.
+[12] Paragraph (v) is slightly different in the first promissory note (Joint Book of Documents, Tab 8(A)), but it does not have an impact on the resolution of the issues at appeal here.
+[13] Joint Book of Documents, Tabs 8(A), (B), (C), (D).
+[14] Transcript (November 29, 2023) at 11, lines 3-8.
+[15] Transcript (November 29, 2023) at 56, lines 16-28, and 57, lines 1-10.
+[16] Joint Book of Documents, Tab 11.
+[17] Which were described in the Share Purchase Agreement as “Forgivable Loans”. See Joint Book of Documents, Tab 11.
+[18] Joint Book of Documents, Tab 10.
+[19] Transcript (November 29, 2023) at 77, lines 5-8.
+[20] Joint Book of Documents, Tab 8(K).
+[21] The transfer of Macquarie Canada’s rights under Mr. Matte’s employment contract and of the Macquarie Notes to Macquarie Wealth is not at issue in this appeal.
+[22] Transcript (November 29, 2023) at 60, lines 17-23.
+[23] Transcript (November 29, 2023) at 60, lines 23-28, and 61, line 1.
+[24] Transcript (November 29, 2023) at 61, lines 9-19, and 62, lines 16-17.
+[25] Transcript (November 29, 2023) at 65, lines 15-23.
+[26] Joint Book of Documents, Tab 8(L) at 232. It is an “Asset and Share Purchase Agreement”, but the “Purchased Shares” are defined to mean the issued and outstanding shares of Holdco (2403027 Ontario Limited), and are included in the “Purchased Assets” sold by Richardson GMP to Dundee Securities (see at 201).
+[27] Joint Book of Documents, Tab 8(N).
+[28] Transcript (November 29, 2023) at 65, lines 23-28.
+[29] Transcript (November 29, 2023) at 103, lines 12-14. See also “Asset and Share Purchase Agreement” in the Joint Book of Documents, Tab 8(L), and “First Amending Agreement” in the Joint Book of Documents, Tab 8(M).
+[30] Transcript (November 29, 2023) at 104, lines 1-9.
+[31] Transcript (November 29, 2023) at 103, lines 12-19.
+[32] Joint Book of Documents, Tab 8(T).
+[33] Joint Book of Documents, Tabs 8(A), (B), (C), (D). Mr. Matte’s employment contract provides a similar clause, see Joint Book of Documents, Tab 9, subheading “Loans” quoted in paragraph 6, above.
+[34] Joint Book of Documents, Tab 8(H).
+[35] Joint Book of Documents, Tab 4.
+[36] Joint Book of Documents, Tab 8(I).
+[37] File number 500-17-088247-153 (see Joint Book of Documents, Tab 4. An amended lawsuit was filed after Mr. Matte’s partial payment to adjust the amount claimed).
+[38] Joint Book of Documents, Tab 5.
+[39] Joint Book of Documents, Tab 12.
+[40] Joint Book of Documents, Tab 12.
+[41] Transcript (November 29, 2023) at 114, lines 9–21, and 118, lines 2–8.
+[42] Joint Book of Documents, Tab 1.
+[43] Transcript (November 30, 2023) at 74, lines 23-28, and 75, lines 1-2.
+[44] Merchant v. R., 2009 TCC 31 [Merchant].
+[45] Transcript (November 30, 2023) at 77, lines 16-18.
+[46] Transcript (November 30, 2023) at 79, lines 14-28, and 80, lines 1-3.
+[47] Transcript (November 30, 2023) at 79, lines 8-13.
+[48] Transcript (November 30, 2023) at 80, lines 4-19, and 81, lines 8-28, and 82, lines 1-7.
+[49] $245,812.39 (reassessment) - $190,000 (damages claimed) = $55,812.39. See Transcript (November 30, 2023) at 104, lines 18-28.
+[50] Richer v. R., 2009 TCC 394 [Richer].
+[51] Rae v. R., 2010 TCC 130 [Rae].
+[52] Transcript (November 30, 2023) at 102, lines 18-28, and 103, lines 1-27.
+[53] Transcript (November 30, 2023) at 110, lines 27-28, and 111, lines 1-4.
+[54] Transcript (November 30, 2023) at 25, lines 24-28.
+[55] Transcript (November 30, 2023) at 30, lines 22-28, and 31, lines 1-13.
+[56] Transcript (November 30, 2023) at 127, lines 26-28, and 128, lines 1-2 and 15-23.
+[57] Transcript (November 30, 2023) at 35, lines 23-28, and 36, lines 1-7 and 17-23.
+[58] Transcript (November 30, 2023) at 75, lines 18-26.
+[59] Transcript (November 30, 2023) at 36, lines 11-16, and 41, lines 14-28.
+[60] Transcript (November 30, 2023) at 120, lines 1-25.
+[61] Nowegijick v. The Queen, [1983] 1 S.C.R. 29 at 39.
+[62] Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622 at paras. 39–40.
+[63] Continental Bank Leasing Corp. v. Canada, [1998] 2 SCR 298 [Continental Bank] at para. 21. This paragraph is found in the dissent, but the majority is in agreement with that aspect: see para. 103.
+[64] Merchant, supra note 44 at para 21.
+[65] Thomson Reuters, Practical Law: Glossary, https://ca.practicallaw.thomsonreuters.com/Glossary/CAPracticalLaw, sub verbo “promissory note”.
+[66] Joint Book of Documents, Tabs 8(A), (B), (C), (D).
+[67] Bradley Crawford, Payment, Clearing and Settlement in Canada, vol. 2: Bills, Cheques and Notes (Aurora: Canada law Book Inc., 2002) at 795.
+[68] Transcript (November 29, 2023) at 32, lines 2-4.
+[69] Transcript (November 29, 2023) at 31, lines 10-12 and 27-28; Joint Book of Documents, Tabs 8(A), (B), (C), (D).
+[70] Connors v. Gaffney, 2014 ONSC 689 at paras. 31 and 33.
+[71] For example, see Canaccord Genuity Corp. v. D’Ambrosi, 2015 ONSC 1344 at paras. 20–21.
+[72] Civil Code of Québec, CQLR, c. CCQ-1991 [CcQ].
+[73] Section 2314 CcQ.
+[74] Sections 2315 and 2847(2) CcQ.
+[75] Merchant, supra note 44 at paras. 7 and 14.
+[76]Ibid. at para. 17.
+[77] Ibid. at para 13.
+[78] Richer, supra note 50 at paras. 50–53.
+[79] Joint Book of Documents, Tab 12.
+[80] $425,000 that Mr. Matte recognized owing to Dundee Securities - $75,000 that Dundee Securities recognized owing to Mr. Matte.
+[81] Transcript (November 30, 2023) at 121, lines 15-21.
+[82] Joint Book of Documents, Tab 12 at 434 para. 3.

@@ -1,0 +1,255 @@
+Title: Bull c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521152/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-133-521152-bull-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2023-09-05
+
+# Bull c. M.R.N.
+
+- Citation: 2023 CCI 133
+- Decision date: 2023-09-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5681, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bull c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-09-05
+Référence neutre
+2023 CCI 133
+Numéro de dossier
+2018-4076(EI), 2018-4077(EI)
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2018-4076(EI)
+ENTRE :
+BRENDA BULL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+Ross Bull (2018-4077(EI)) le 24 août 2023,
+à Gander (Terre-Neuve-et-Labrador).
+Devant : l’honorable juge David E. Spiro
+Comparutions :
+Avocat de l’appelante :
+Me Philip C. Whalen
+Avocat de l’intimé :
+Me David Lasaga
+JUGEMENT
+L’appel interjeté par l’appelante à l’égard de la décision du ministre du Revenu national du 6 juillet 2018 est rejeté, sans dépens, et la décision est confirmée.
+Signé à Toronto (Ontario), ce 5e jour de septembre 2023.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 15e jour de septembre 2023.
+Liette Girard
+Dossier : 2018-4077(EI)
+ENTRE :
+ROSS BULL,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+Brenda Bull (2018-4076(EI)) le 24 août 2023,
+à Gander (Terre-Neuve-et-Labrador).
+Devant : l’honorable juge David E. Spiro
+Comparutions :
+Avocat de l’appelant :
+Me Philip C. Whalen
+Avocat de l’intimé :
+Me David Lasaga
+JUGEMENT
+L’appel interjeté par l’appelant à l’égard de la décision du ministre du Revenu national du 6 juillet 2018 est rejeté, sans dépens, et la décision est confirmée.
+Signé à Toronto (Ontario), ce 5e jour de septembre 2023.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 15e jour de septembre 2023.
+Liette Girard
+Référence : 2023 CCI 133
+Date : 20230905
+Dossier : 2018-4076(EI)
+ENTRE :
+BRENDA BULL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Dossier : 2018-4077(EI)
+ET ENTRE :
+ROSS BULL,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Spiro
+[1] M. Ross Bull et Mme Brenda Bull sont mariés depuis plus de cinquante ans. Ils détenaient des actions d’une personne morale qui possédait une entreprise familiale à Eastport (Terre-Neuve-et-Labrador). L’entreprise a démarré en 1975 comme station d’essence et atelier de réparation de véhicules automobiles, et a plus tard compris des activités d’enlèvement de la neige, de location de chalets saisonniers et de vente de véhicules d’occasion. M. Bull exploitait le garage, faisait le déneigement et gérait les ventes de véhicules d’occasion. Mme Bull était responsable de la location de chalets et de tous les travaux de bureau et de l’administration.
+[2] Chaque appelant a demandé des prestations en vertu de la Loi sur l’assurance-emploi pour des périodes commençant en 2011 ou 2012 et se terminant en 2016 au motif qu’ils étaient employés par la personne morale qui détenait l’entreprise, Midway Automotive Center Limited (« Midway »). Il n’est pas contesté que les appelants étaient des employés de Midway. Toutefois, le ministre du Revenu national (le « ministre ») a décidé que leur emploi n’était pas un emploi assurable en vertu de la Loi sur l’assurance-emploi pour deux raisons :
+a) chacun contrôlait plus de 40 % des actions avec droit de vote de Midway;
+b) chacun avait un lien de dépendance avec Midway.
+[3] Chaque appelant a interjeté appel de la décision du ministre. Les appels ont été entendus sur preuve commune. Mme Bull a été le seul témoin.
+[4] Selon la preuve, la Couronne a réussi à prouver, selon la prépondérance des probabilités, les faits nécessaires pour soutenir les décisions du ministre selon lesquelles :
+a) chaque appelant contrôlait plus de 40 % des actions avec droit de vote de Midway;
+b) chaque appelant avait un lien de dépendance avec Midway.
+La loi
+[5] Le paragraphe 5(2) de la Loi sur l’assurance-emploi énumère les exclusions de l’emploi assurable. Les exclusions relatives aux présents appels sont énoncées aux alinéas 5(2)b) et 5(2)i) de cette loi :
+Restriction
+5(2) N’est pas un emploi assurable : […]
+[…]
+b) l’emploi d’une personne au service d’une personne morale si cette personne contrôle plus de quarante pour cent des actions avec droit de vote de cette personne morale;
+[…]
+(i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+[6] L’alinéa 5(2)i) exige également l’examen du paragraphe 5(3) de la Loi sur l’assurance-emploi qui prévoit que, si l’employeur et l’employé sont liés au sens de la Loi de l’impôt sur le revenu, ils sont réputés ne pas avoir de lien de dépendance si le ministre est convaincu qu’il est raisonnable de conclure qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance :
+Personnes liées
+5(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[7] Les dispositions pertinentes de la Loi de l’impôt sur le revenu sont énoncées à l’article 251 :
+Lien de dépendance
+251(1) Pour l’application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[…]
+Définition de personnes liées
+251(2) Pour l’application de la présente loi, sont des personnes liées ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage, de l’union de fait ou de l’adoption;
+b) une société et :
+[…]
+(ii) une personne qui est membre d’un groupe lié qui contrôle la société,
+[…]
+(4) Définitions relatives au groupe
+251(4) Les définitions qui suivent s’appliquent à la présente loi.
+groupe lié Groupe de personnes dont chaque membre est lié à chaque autre membre du groupe.
+Les décisions faisant l’objet d’un appel
+[8] Le ministre a décidé que Mme Bull n’occupait pas un emploi assurable auprès de Midway au cours de l’une des périodes suivantes :
+du 25 juin 2012 au 12 septembre 2012;
+du 1er juillet 2013 au 4 octobre 2013;
+du 4 janvier 2014 au 16 mai 2014;
+du 26 janvier 2015 au 12 juin 2015;
+du 11 janvier 2016 au 21 octobre 2016.
+[9] Le ministre a décidé que M. Bull n’occupait pas un emploi assurable auprès de Midway au cours de l’une des périodes suivantes :
+du 29 août 2011 au 18 mai 2012;
+du 11 février 2013 au 28 juin 2013;
+du 1er janvier 2014 au 22 avril 2014;
+du 19 janvier 2015 au 19 juin 2015;
+du 11 janvier 2016 au 27 mai 2016.
+[10] Le ministre a fourni les motifs suivants pour les deux décisions :
+(a)chaque appelant contrôlait plus de 40 % des actions avec droit de vote de Midway (citant l’alinéa 5(2)b) de la Loi sur l’assurance-emploi);
+(b)Midway et chacune des appelantes avaient entre eux un lien de dépendance (citant l’alinéa 5(2)i) de la Loi sur l’assurance-emploi).
+La position des appelants
+[11] L’avocat des appelants, M. Whalen, a soutenu que :
+[traduction]
+[…] il n’est pas contesté […] que, pendant la période applicable dans le présent appel, Mme Bull détenait une action, M. Ross Bull détenait deux actions et leur fille, Melissa, détenait les sept autres actions. Vous savez, à cause de ce seul fait, Mme Bull et M. Bull ne possédaient pas 40 % des actions majoritaires de la société. Toutefois, le ministre poursuit son examen et examine essentiellement l’activité, la conduite, les faits qu’il peut examiner afin de déterminer si les appelants détiennent ou non le contrôle de fait de la société. Et à ce sujet, monsieur le juge, Mme Bull a fourni la preuve et les faits qu’elle croit utiles à votre décision et vous savez, les faits parlent d’eux-mêmes, monsieur le juge.
+Notre argument serait que […] la nature du travail et les activités qu’ils accomplissaient dans leur société n’ont pas été pleinement évaluées dans les décisions antérieures et c’est pourquoi ils ont interjeté appel devant la Cour pour que vous-même, monsieur le juge, réévaluiez cette question rendez une décision pour savoir si c’est correct[1].
+[12] L’avocat a également soutenu ce qui suit :
+[traduction]
+[…] la Cour doit examiner les décisions antérieures et déterminer s’il y a eu ou non une décision raisonnable fondée sur les faits dont elle était saisie et sur les nouveaux faits dont elle est saisie,[2]
+La position de la Couronne
+[13] L’avocat de la Couronne, M. Lasaga, a soutenu que les appelants n’occupaient pas, à juste titre, un emploi assurable puisque chaque appelant avait le contrôle de facto ou effectif de plus de 40 % des actions avec droit de vote de Midway au sens de l’alinéa 5(2)b) de la Loi sur l’assurance-emploi.
+[14] Subsidiairement, l’avocat a soutenu que :
+a)chaque appelant et Midway étaient liés l’un à l’autre et, en tant que parties liées, chaque appelant et Midway avaient entre eux un lien de dépendance en vertu de l’article 251 de la Loi de l’impôt sur le revenu;
+b)le ministre a raisonnablement conclu que, compte tenu de toutes les circonstances de l’emploi, les appelants et Midway n’auraient pas conclu de contrats d’emploi à peu près semblables s’ils n’avaient pas eu de lien de dépendance; par conséquent, les appelants et Midway étaient réputés avoir entre eux un lien de dépendance au sens de l’alinéa 5(3)b) de la Loi sur l’assurance-emploi.
+Constatations de fait relatives à l’alinéa 5(2)b) de la Loi sur l’assurance-emploi
+[15] Après avoir travaillé dans l’entreprise de garage et de réparation pour un autre employeur, M. Bull a constitué Midway en 1975 en tant que garage et atelier de réparation de carrosserie. Les premiers actionnaires de Midway étaient M. Bull, Mme Bull et le mécanicien qui travaillait au garage.
+[16] À un moment donné, le mécanicien a cessé d’être actionnaire et l’oncle de M. Bull est devenu actionnaire. L’oncle détenait sept actions, M. Ross Bull détenait deux actions et Mme Bull détenait une action.
+[17] Les appelants ont deux filles – Kelly qui a maintenant 45 ans et Melissa qui a maintenant 39 ans. Mme Bull décrit comment Melissa est devenue actionnaire :
+[traduction]
+R. Eh bien, comme je l’ai dit, l’oncle de Ross en avait quelques-unes – les filles étaient plus jeunes, et il avait des actions en fiducie, mais –
+Q. Quelles actions, les sept actions que Melissa a fini par avoir?
+R. Je pense qu’à un moment, il aurait pu y en avoir quatre et trois pour Kelly et Melissa.
+Q. Je comprends.
+R. Et puis Kelly a déménagé aussi. Son oncle est décédé. Donc, les actions devaient être mises au nom de quelqu’un. Elles ont donc été mises au nom de Melissa. Et pour être honnête, je pense qu’à l’époque, Kelly fréquentait un type qui avait des agissements douteux. Donc, nous n’avons pas mis les actions au nom de Kelly à l’époque parce que nous ne savions pas où elles finiraient. Elles ont donc été mises au nom de Melissa. Voilà la vérité[3].
+[18] Après que Melissa est devenue actionnaire, elle possédait sept actions de Midway, M. Bull en possédait deux et Mme Bull en possédait une. Il s’agissait là des participations entre 2011 et 2016.
+[19] Même si Melissa a été tenue au courant et que ses parents lui ont demandé de temps à autre son opinion, elle n’a joué aucun rôle significatif dans les décisions prises à l’égard de Midway. Cela n’est pas surprenant, puisqu’elle vivait et travaillait à Yellowknife, loin d’Eastport, T.-N.-L.
+[20] L’approche de Melissa était empreinte de retenue – elle se contentait de laisser ses parents prendre toutes les décisions relatives à Midway. Ils ont pris des décisions quotidiennes, ainsi que des décisions importantes concernant Midway. Cette situation a été confirmée à l’occasion du contre-interrogatoire lorsque Mme Bull a convenu que Melissa n’avait aucune participation dans Midway et ne connaissait pas ses activités quotidiennes[4]. En effet, le témoignage de Mme Bull a confirmé l’hypothèse centrale établie par le ministre, comme l’indique l’alinéa 7t) de la réponse :
+[traduction]
+(t) Melissa n’avait aucune connaissance des activités quotidiennes de [Midway] et n’exerçait aucune des responsabilités associées à un actionnaire majoritaire;
+Constatations de fait relatives à l’alinéa 5(2)i) de la Loi sur l’assurance-emploi
+[21] Midway ne pouvait pas se permettre de payer à M. Bull le même salaire qu’il aurait gagné de son ancien employeur dans l’entreprise de garage et de réparation de carrosserie, loin de là[5].
+[22] Souvent, Mme Bull ne déposait pas ses chèques de paye. Lorsque Midway avait des comptes à payer, y compris les paiements hypothécaires et les primes d’assurance, elle ne déposait pas ses chèques de paye. Son compte de prêt aux actionnaires (le montant que Midway lui devait) augmentait plutôt. Selon ses propres mots, [traduction] « […] il était plus important de payer les factures en souffrance que de me payer[6] ».
+[23] Les deux appelants ont consacré [traduction] « de nombreuses heures » de travail à Midway sans rémunération[7]. Par exemple, pendant la saison estivale, Mme Bull travaillait jour et nuit, sept jours par semaine, dans l’entreprise de location de chalets selon l’affluence[8], Elle n’a pas été rémunérée pour tout ce travail.
+Application de l’alinéa 5(2)b) de la Loi sur l’assurance-emploi aux faits
+[24] L’alinéa 5(2)b) de la Loi sur l’assurance-emploi prévoit ce qui suit :
+5(2) N’est pas un emploi assurable : […]
+[…]
+b) l’emploi d’une personne au service d’une personne morale si cette personne contrôle plus de quarante pour cent des actions avec droit de vote de cette personne morale;
+[25] Dans la décision Équipements Boifor Inc. c MRN, 2018 CCI 53, confirmée par l’arrêt 2019 CAF 69, le juge Lafleur a examiné un certain nombre de décisions antérieures concernant la signification du mot « contrôle » dans le contexte de l’alinéa 5(2)b) de la Loi sur l’assurance-emploi. Il est clair que le mot « contrôle » comprend à la fois le contrôle de jure et le « contrôle effectif » de plus de 40 % des actions avec droit de vote de la société employeur. Le juge Lafleur a déclaré ce qui suit :
+[23] Pour qu’un emploi soit exclu aux termes de l’alinéa 5(2)b), l’employé doit avoir le contrôle de plus de 40 % des actions avec droit de vote de l’employeur.
+[24] La jurisprudence enseigne que cet alinéa ne vise pas le contrôle d’une société par actions, mais le contrôle d’actions (Canada (Procureur général) c Cloutier, [1987] 2 CF 222 au para 4, [1986] ACF no 778 (QL) [Cloutier]). Le mot « contrôle » vise non seulement le contrôle de jure mais aussi le contrôle effectif (Quincaillerie Le Faubourg (1990) inc c MNR, 2009 CCI 411 au para 34, [2009] ACI no 336 (QL) [Quincaillerie Le Faubourg]).
+[25] Le contrôle effectif est le contrôle dont l’exercice est libre et non entravé par des circonstances indépendantes de son titulaire (Cloutier, précitée). […]
+[26] Les appelants n’occupaient pas d’emploi assurable chez Midway parce que chaque appelant avait un contrôle effectif de 50 % des actions avec droit de vote de la personne morale. Cela ressort clairement du fait que les deux appelants ont exercé le pouvoir de décider au nom de qui sept des dix actions de Midway seraient enregistrées après le décès de l’oncle de M. Bull. Ce faisant, les appelants ont démontré qu’ils avaient le contrôle effectif de 100 % des actions avec droit de vote de Midway.
+[27] La propriété nominale de ces actions par Melissa ne donnait pas un contrôle effectif. En d’autres termes, Melissa était la propriétaire légale de sept actions de Midway, mais les appelants étaient les propriétaires bénéficiaires de toutes les actions de Midway. Si l’entreprise avait été exploitée en tant que société de personnes, les seuls associés auraient été les appelants.
+[28] On peut se demander pourquoi le législateur a décidé d’exclure de l’emploi assurable les employés qui contrôlent plus de 40 % des actions avec droit de vote de leur employeur. Dans un passage de la décision Équipements Boifor expressément approuvé par la Cour d’appel fédérale, le juge Lafleur a expliqué la justification du législateur :
+[33] […] Permettre à messieurs Lepage et Marion de bénéficier des avantages offerts par la Loi, alors que ce sont deux entrepreneurs qui contrôlent toute la structure de leur entreprise et prennent toutes les décisions concernant la gestion et les opérations de l’entreprise serait contraire à l’objet de la Loi.
+Application de l’alinéa 5(2)i) de la Loi sur l’assurance-emploi aux faits
+[29] Bien que la conclusion selon laquelle l’alinéa 5(2)b) s’applique soit suffisante pour trancher les appels des appelants, je traiterai de l’argument subsidiaire de la Couronne concernant l’alinéa 5(2)i) de la Loi sur l’assurance‑emploi. Les dispositions pertinentes sont énoncées aux paragraphes 5 à 7 ci-dessus.
+[30] Comme nous le savons, chacun des appelants avait un contrôle effectif de 50 % des actions avec droit de vote de Midway. Par conséquent, chacun des appelants était lié à Midway[9].
+[31] À la lumière de cette relation, les appelants et Midway étaient réputés ne pas avoir de lien de dépendance seulement si le ministre est convaincu qu’il était raisonnable de conclure que les appelants auraient conclu avec Midway un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance avec Midway[10].
+[32] Mais quel employé sans lien de dépendance travaillerait pour un salaire inférieur à celui du marché? Quel employé sans lien de dépendance accorderait un prêt à son employeur au lieu de déposer des chèques de paye? Et quel employé sans lien de dépendance consacrerait autant d’heures sans rémunération?
+[33] Le ministre avait pleinement raison de ne pas avoir été convaincu qu’il était raisonnable de conclure que les appelants auraient conclu avec Midway un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance avec Midway.
+[34] Si l’alinéa 5(2)b) de la Loi sur l’assurance-emploi n’avait pas été appliqué pour exclure les appelants de l’emploi assurable pour les périodes en cause, l’alinéa 5(2)i) aurait exclu les appelants de l’emploi assurable pour ces périodes.
+Conclusion
+[35] Pour tous ces motifs, les appels des appelants seront rejetés et les décisions du ministre confirmées.
+[36] Étant donné que la Couronne n’en a pas demandé, aucuns dépens ne seront accordés.
+Signé à Toronto (Ontario), ce 5e jour de septembre 2023.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 15e jour de septembre 2023.
+Liette Girard
+RÉFÉRENCE :
+2023 CCI 133
+NO DU DOSSIER DE LA COUR :
+2018-4076(EI) et 2018-4077(EI)
+INTITULÉ :
+BRENDA BULL ET M.R.N.
+ROSS BULL ET M.R.N.
+LIEU DE L’AUDIENCE :
+Gander (Terre-Neuve-et-Labrador)
+DATE DE L’AUDIENCE:
+Le 24 août 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Spiro
+DATE DU JUGEMENT :
+Le 5 septembre 2023
+COMPARUTIONS :
+Avocat des appelants :
+Me Philip C. Whalen
+Avocat de l’intimé :
+Me David Lasaga
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+(nom) :
+Me Philip C. Whalen
+Cabinet :
+Whalen Law
+Clarenville (Terre-Neuve-et-Labrador)
+Pour l’intimé :
+Me Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Transcription, de la page 33, ligne 17, à la page 34, ligne 9.
+[2] Transcription, de la page 32, ligne 26, à la page 33, ligne 1.
+[3] Transcription, page 30, lignes 6 à 20.
+[4] Transcription, de la page 27, ligne 23, à la page 28, ligne 5.
+[5] [traduction] « Loin de là » sont les mots utilisés par Mme Bull (transcription, page 22, lignes 12 à 14).
+[6] Transcription, page 19, lignes 12 à 14.
+[7] Transcription, de la page 20, ligne 25, à la page 21, ligne 1.
+[8] Cette activité s’est considérablement réduite en 2014 lorsque tous les chalets, sauf un, ont été vendus.
+[9] Le sous-alinéa 251(2)b)(ii) de la Loi de l’impôt sur le revenu prévoit que les « personnes liées » comprennent une société et une personne qui est membre d’un groupe lié qui contrôle la société. En vertu de l’alinéa 251(2)a) et du paragraphe 251(4) de la Loi de l’impôt sur le revenu, les appelants étaient membres d’un groupe lié puisqu’ils étaient mariés.
+[10] Pour une décision récente portant sur l’interprétation et l’application de l’alinéa 5(2)i) de la Loi sur l’assurance-emploi, voir Bingley v MRN, 2023 TCC 110.

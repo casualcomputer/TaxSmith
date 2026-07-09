@@ -1,0 +1,119 @@
+Title: Richter v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29907/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-385-29907-richter-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2010-07-19
+
+# Richter v. M.N.R.
+
+- Citation: 2010 TCC 385
+- Decision date: 2010-07-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6397, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Richter v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-07-19
+Neutral citation
+2010 TCC 385
+File numbers
+2009-533(EI)
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2009-533(EI)
+BETWEEN:
+BEATA RICHTER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 17, 2010 by conference call at Ottawa, Canada
+Before: The Honourable Justice Wyman W. Webb
+Participants:
+Agent for the Appellant:
+Thomas Richter
+Counsel for the Respondent:
+Marie-France Camiré
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal from the decision of the Minister that she was not engaged in insurable employment for the purposes of the Employment Insurance Act during the periods from September 9, 2001 to September 28, 2001 and from July 2, 2002 to October 4, 2002 while she was employed by the Government of Canada and during the period from November 21, 2001 to June 22, 2002 while she was employed by David Weiner is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 19th day of July, 2010.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2010TCC385
+Date: 20100719
+Docket: 2009-533(EI)
+BETWEEN:
+BEATA RICHTER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The issue in this appeal is whether the Appellant was engaged in insurable employment for the purposes of the Employment Insurance Act (the “EI Act”) during the periods from September 9, 2001 to September 28, 2001 and from July 2, 2002 to October 4, 2002 while she was employed by the Government of Canada and during the period from November 21, 2001 to June 22, 2002 while she was employed by David Weiner.
+[2] The Appellant emigrated from Poland to Canada in January 1993. She became a Canadian citizen in April 1996. She married her boyfriend who had previously immigrated to Canada from Poland. The Appellant worked in Alberta. In 1996 she and her husband separated (they were divorced in 1997) and she was laid off from her job. Since she could only find part time employment she decided to return to Poland. She severed her ties to Canada.
+[3] When the Appellant returned to Poland she started to work at the Canadian embassy in Warsaw. In 1999 she married Thomas Richter who is a foreign service officer with the Canadian Government. Thomas Richter was working at the Canadian embassy in Warsaw until the summer of 2000 when he was requested to transfer to the embassy in Tehran, Iran. In 2001, Thomas Richter was reassigned to the Canadian embassy in Berlin, Germany. The periods of employment in question occurred while the Appellant was living with Thomas Richter in Germany. They were living in an apartment in Berlin.
+[4] Insurable employment is defined in section 5 of the EI Act. This section provides, in part, that:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+…
+(d) employment included by regulations made under subsection (4) or (5);
+[5] Subsection 5(4) of the EI Act provides that:
+(4) The Commission may, with the approval of the Governor in Council, make regulations for including in insurable employment
+(a) employment outside Canada or partly outside Canada that would be insurable employment if it were in Canada;
+[6] Section 5 of the Employment Insurance Regulations provides, in part, that:
+5. Employment outside Canada…is included in insurable employment if
+(a) the person so employed ordinarily resides in Canada…
+[7] The issue in this case is whether the Appellant ordinarily resided in Canada when she was employed for the periods in question since her employment was outside Canada[1]. This was the basis of the argument for both parties. There is no definition of “ordinarily resides” in the EI Act. Therefore it is necessary to review how this expression has been interpreted by the Courts.
+[8] Justice Rand of the Supreme Court of Canada in Thomson v. M.N.R., [1946] C.T.C. 51, made the following comments on “residing” and “ordinarily resident”:
+47 The gradation of degrees of time, object, intention, continuity and other relevant circumstances, shows, I think, that in common parlance "residing" is not a term of invariable elements, all of which must be satisfied in each instance. It is quite impossible to give it a precise and inclusive definition. It is highly flexible, and its many shades of meaning vary not only in the contexts of different matters, but also in different aspects of the same matter. In one case it is satisfied by certain elements, in another by others, some common, some new.
+48 The expression "ordinarily resident" carries a restricted signification, and although the first impression seems to be that of preponderance in time, the decisions on the English Act reject that view. It is held to mean residence in the course of the customary mode of life of the person concerned, and it is contrasted with special or occasional or casual residence. The general mode of life is, therefore, relevant to a question of its application.
+[9] In Lapierre v. The Queen, 2005 TCC 720, 2008 DTC 4248, Justice Dussault stated that:
+13 Although residence is the fundamental concept applied to determine if a person is subject to income tax under the Act, that term is nonetheless not defined therein and it is the courts that have attempted to establish its scope. Essentially a question of fact, a person's residence in a given place is determined by a certain number of criteria of time, object, intention and continuity that do not necessarily always carry the same weight and which can vary according to the circumstances of each case. (see Thomson v. M.N.R., [1946] S.C.R. 209). All things considered, residence implies a certain constancy, a certain regularity or else a certain permanence according to a person's usual lifestyle in relation to a given place and is to be distinguished from what might be called visits or stays for specific purposes or of a sporadic nature. When the Act sets as a condition to reside with another person, I do not consider it appropriate to attribute to the verb "to reside" a meaning which deviates from the concept of residence as it has been developed by the courts. To reside with someone is to live or stay with someone in a given place with a certain constancy, a certain regularity or else in an habitual manner.
+[10] There is very little in this case to suggest that the Appellant resided in Canada in 2001 and 2002. She had severed what ties she had to Canada when she returned to Poland in 1996. After the Appellant and Thomas Richter were married in Poland, they travelled to Toronto to have a civil ceremony there on November 6, 1999. They stayed with Thomas Richter’s parents for about one week at that time. They opened two bank accounts – a US dollar account and a chequing account. The chequing account was closed in December 2000 and the US dollar account was closed early in 2002.
+[11] The Appellant had an Ontario driver’s licence. The address used for the licence was a post office box provided by the Federal Department of Foreign Affairs for use by foreign service personnel.
+[12] In the summer of 2000 the Appellant and Thomas Richter travelled to Canada. They were going to try to find a house but the time was too short. They did not have a residence in Canada at any time during the periods in question.
+[13] There are simply not enough ties to Canada to find that the Appellant ordinarily resided in Canada during the periods under appeal. In particular, the Appellant could not be considered to be ordinarily residing in Canada in 2001 and 2002 since she did not have a place in which she could have resided in Canada during those years. While she could have stayed with Thomas Richter’s parents in Canada, there was nothing to suggest that this would be anything other than a place to visit. There was no indication that this would be a place to reside.
+[14] The Appellant’s main argument was that since her husband is a diplomat and therefore is deemed to be a resident of Canada, that she should also be deemed to be a resident of Canada. While it appears that there is a provision in the Income Tax Act that deems Thomas Richter to be a resident of Canada (paragraph 250(1)(c)), this paragraph only applies for the purposes of the Income Tax Act (not for the purposes of the EI Act) and it does not apply to spouses. Paragraph 250(1)(e) of the Income Tax Act did apply to spouses but it was repealed and replaced with a provision that may still apply to the Appellant. This provision provides as follows:
+250. (1) For the purposes of this Act, a person shall, subject to subsection (2), be deemed to have been resident in Canada throughout a taxation year if the person
+…
+(g) was at any time in the year, under an agreement or a convention with one or more other countries that has the force of law in Canada, entitled to an exemption from an income tax otherwise payable in any of those countries in respect of income from any source (unless all or substantially all of the person's income from all sources was not so exempt), because at that time the person was related to or a member of the family of an individual (other than a trust) who was resident in Canada.
+[15] However if this provision is applicable to the Appellant, it would only apply for the purposes of the Income Tax Act. There is no similar provision in the EI Act or the Employment Insurance Regulations.
+[16] The Appellant was not able to provide any legislative or case law authority to support her position that she ordinarily resided in Canada or should be deemed to ordinarily reside in Canada for the purposes of the EI Act simply because her husband is a diplomat who was working at the Canadian embassy in Berlin. Policy statements related to foreign service officers and their families cannot amend the EI Act or the common law.
+[17] As a result the Appellant’s appeal is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 19th day of July, 2010.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2010TCC385
+COURT FILE NO.: 2009-533(EI)
+STYLE OF CAUSE: BEATA RICHTER AND
+THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: June 17, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: July 19, 2010
+PARTICIPANTS:
+Agent for the Appellant:
+Thomas Richter
+Counsel for the Respondent:
+Marie-France Camiré
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Even though the Appellant was employed at the Canadian embassy in Berlin, this would not be considered to be part of Canada. (Reference Re: Powers of Ottawa (City) and Rockcliff Park, [1943] S.C.R. 208; R. v. Maunder, [1966] 1 C.C.C. 328, 47 C.R. 101 (Ontario Magistrate's Court) – on appeal to the Ontario Court of Appeal only the sentences imposed were varied [1965] O.J. No. 349).

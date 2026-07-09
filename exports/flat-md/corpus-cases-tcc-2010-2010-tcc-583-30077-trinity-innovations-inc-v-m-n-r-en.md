@@ -1,0 +1,211 @@
+---
+title: "Trinity Innovations Inc v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30077/index.do"
+last_modified: "2010-11-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 583"
+citation2: ""
+neutral_citation: "2010 TCC 583"
+decision_date: "2010-11-16"
+language: "en"
+item_id: "30077"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7610
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:50:53.920000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aa23feb41dd781835ea82295ff00d8cad9dac2a2dd18a8a65d2794f626a76e55"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Trinity Innovations Inc v. M.N.R.
+
+- Citation: 2010 TCC 583
+- Decision date: 2010-11-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7610, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Trinity Innovations Inc v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-11-16
+Neutral citation
+2010 TCC 583
+File numbers
+2009-2758(EI)
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2009-2758(EI)
+BETWEEN:
+TRINITY INNOVATIONS INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Trinity Innovations Inc. (2009-2759(CPP))
+on September 29, 2010 at Edmonton, Alberta
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Pat Schacher
+Counsel for the Respondent:
+Gergely Hegedus and Rob Neilson
+____________________________________________________________________
+JUDGMENT
+The appeal under the Employment Insurance Act with respect to the decision of the Minister of National Revenue, dated May 5, 2009, is allowed, without costs, and the decision of the Minister is varied to provide that
+(a) Matt Miske, Noel Schacher, Carla Schacher, and Sandra Bonnett were not engaged by the Appellant in insurable employment as determined for the purposes of the Employment Insurance Act at any time during the period from January 1, 2006 to April 8, 2008;
+(b) Carman Penner and Norman Ronsberg were not engaged by the Appellant in insurable employment as determined for the purposes of the Employment Insurance Act at any time during the period from January 1, 2006 to June 30, 2007; and
+(c) Dan Bonnett was not engaged by the Appellant in insurable employment as determined for the purposes of the Employment Insurance Act at any time during the period from January 1, 2007 to April 8, 2008.
+Signed at Halifax, Nova Scotia, this 16th day of November, 2010.
+“Wyman W. Webb”
+Webb, J.
+Docket: 2009-2759(CPP)
+BETWEEN:
+TRINITY INNOVATIONS INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Trinity Innovations Inc. (2009-2758(EI))
+on September 29, 2010 at Edmonton, Alberta
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Pat Schacher
+Counsel for the Respondent:
+Gergely Hegedus and Rob Neilson
+____________________________________________________________________
+JUDGMENT
+The appeal under the Canada Pension Plan with respect to the decision of the Minister of National Revenue, dated May 5, 2009, is allowed, without costs, and the decision of the Minister is varied to provide that:
+(a) Matt Miske, Noel Schacher, Carla Schacher, and Sandra Bonnett were not engaged by the Appellant in pensionable employment as determined for the purposes of the Canada Pension Plan at any time during the period from January 1, 2006 to April 8, 2008;
+(b) Carman Penner and Norman Ronsberg were not engaged by the Appellant in pensionable employment as determined for the purposes of the Canada Pension Plan at any time during the period from January 1, 2006 to June 30, 2007; and
+(c) Dan Bonnett was not engaged by the Appellant in pensionable employment as determined for the purposes of the Canada Pension Plan at any time during the period from January 1, 2007 to April 8, 2008.
+Signed at Halifax, Nova Scotia, this 16th day of November, 2010.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2010TCC583
+Date: 20101116
+Dockets: 2009-2758(EI)
+2009-2759(CPP)
+BETWEEN:
+TRINITY INNOVATIONS INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The issue in these appeals is whether the following individuals, for the periods as indicated, were engaged by the Appellant in contracts of service (and therefore were employees) or contracts for services (and therefore were independent contractors) for the purposes of the Employment Insurance Act (the “EI Act”) and the Canada Pension Plan (the “CPP”):
+Individuals
+Time Period Under Appeal
+Matt Miske, Noel Schacher,
+Carla Schacher, and Sandra Bonnett
+January 1, 2006 to April 8, 2008
+Carman Penner and
+Norman Ronsberg
+January 1, 2006 to June 30, 2007
+Dan Bonnett
+January 1, 2007 to April 8, 2008
+[2] The Respondent had determined that these individuals were employees of the Appellant and therefore were engaged by the Appellant in insurable employment for the purposes of the EI Act and pensionable employment for the purposes of the CPP during the above periods.
+[3] Patricia Schacher, one of the shareholders of the Appellant, testified during the hearing. She described the business of the Appellant as follows:
+THE WITNESS: Trinity Innovations is a small operations and manufacturing facility. We work mainly with natural gas and a little bit of oil. So it's typical of the oil and gas industry ‑‑ it's very cyclical. You're either really, really busy or extremely slow. And I do believe this is what led us many, many years ago to go towards using local venders or subcontractors ‑‑ whatever you want to [sic] all them.
+Trinity basically has no need to have a lot of people around all the time. If we get a purchase order sent in to build five units, we build the five units, and everybody goes home. They bring their own vehicles.
+Q JUSTICE WEBB: Sorry. When you say the five units, what are the units that you're building?
+A We build units that help deliver methanol, down [sic] hole to keep things from hydrating. That's about the simplest explanation I can give you. Most of [sic] the them ‑‑ the one [sic] unit's called a flow divider. The other [sic] one's called an EFC which stands for electronic flow controller. And then we also have a solar pump unit which has a 10cc lift pump attached to it, which basically ‑‑ all of them deliver methanol, chemical soap, something to be injected to aid in bringing the fluid to the surface as easily as possible with no emissions, that type of thing.
+Q Thank you.
+A So normally if I would get an order for five units, I would make a few phone calls or whatever and I would see if people were available. And if they were, then we would form a verbal contract. They could come when they wanted. If they had other jobs, they would come and do the work that they were asked to do. There was usually ‑‑ they would give me a pay rate that they wanted for that work, and away they would go once the job was complete.
+[4] If the Appellant was building a control panel for an EFC unit, it would take approximately four hours and if the Appellant was building an entire EFC unit it would take a couple of days. The units were large. A full unit weighs around 3,200 pounds. It seems clear that the individuals who worked on building the units were retained for a specific task – build a unit or part thereof. It appears that once the orders for units were filled, the engagement of these workers ceased. It also appears that in 2006 the Appellant was very busy but since then the recession has had a negative impact on the business of the Appellant.
+[5] The question of whether an individual is an employee or an independent contractor has been the subject of several cases. In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.J. 61, 2001 S.C.C. 59 (“Sagaz”), Justice Major of the Supreme Court of Canada stated as follows:
+46 In my opinion, there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. Lord Denning stated in Stevenson Jordan, supra, that it may be impossible to give a precise definition of the distinction (p. 111) and, similarly, Fleming observed that "no single test seems to yield an invariably clear and acceptable answer to the many variables of ever changing employment relations ..." (p. 416). Further, I agree with MacGuigan J.A. in Wiebe Door, at p. 563, citing Atiyah, supra, at p. 38, that what must always occur is a search for the total relationship of the parties:
+[I]t is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a contract of service any longer serves a useful purpose.... The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[6] In Royal Winnipeg Ballet v. Minister of National Revenue, 2006 FCA 87, 2006 DTC 6323, the dancers and the ballet company had a common intention that the dancers would be hired as independent contractors. The Federal Court of Appeal reviewed the relevant facts of that case as determined by the factors outlined in Wiebe Door Services Ltd. v. Minister of National Revenue, [1986] 2 C.T.C. 200, 87 DTC 5025 (“Wiebe Door”). The Federal Court of Appeal concluded that the relevant facts in that case did not change the intended relationship between the dancers and the Royal Winnipeg Ballet and that the dancers were independent contractors. Justice Sharlow of the Federal Court of Appeal made the following comments in the Royal Winnipeg Ballet case:
+65. The judge chose the following factors as relevant to the Wiebe Door analysis (it is not suggested that he chose the wrong factors or that there are any relevant factors that he failed to consider):
+· The indispensable element of individual artistic expression necessarily rests with the dancers. The RWB chooses what works will be performed, chooses the time and location of the performances, determines where and when rehearsals will be held, assigns the roles, provides the choreography, and directs each performance.
+· The dancers have no management or investment responsibilities with respect to their work with the RWB.
+· The dancers bear little financial risk for the work they do for the RWB for the particular season for which they are engaged. However, their engagements with the RWB are for a single season and they have no assurance of being engaged in the next season.
+· The dancers have some chance of profit, even within their engagement with the RWB, in that they may negotiate for remuneration in addition to what is provided by the Canadian Ballet Agreement. However, for the most part remuneration from the RWB is based on seniority and there is little movement from that scale.
+· The career of a dancer is susceptible to being managed, particularly as the dancer gains experience. Dancers engaged by the RWB have considerable freedom to accept outside engagements, although there are significant contractual restrictions (the need for the consent of the RWB, and the obligation to hold themselves out as being engaged by the RWB).
+· Although the dancers bear many costs related to their engagement with the RWB and their dancing careers generally, the RWB is obliged to provide dance shoes, costumes, tights, wigs and certain other necessary items.
+· The dancers are responsible for keeping themselves physically fit for the roles they are assigned. However, the RWB is obliged by contract to provide certain health related benefits and warm-up classes.
+66. The control factor in this case, as in most cases, requires particular attention. It seems to me that while the degree of control exercised by the RWB over the work of the dancers is extensive, it is no more than is needed to stage a series of ballets over a well planned season of performances. If the RWB were to stage a ballet using guest artists in all principal roles, the RWB's control over the guest artists would be the same as if each role were performed by a dancer engaged for the season. If it is accepted (as it must be), that a guest artist may accept a role with the RWB without becoming its employee, then the element of control must be consistent with the guest artist being an independent contractor. Therefore, the elements of control in this case cannot reasonably be considered to be inconsistent with the parties' understanding that the dancers were independent contractors.
+67. The same can be said of all of the factors, considered in their entirety, in the context of the nature of the activities of the RWB and the work of the dancers engaged by the RWB. In my view, this is a case where the common understanding of the parties as to the nature of their legal relationship is borne out by the contractual terms and the other relevant facts.
+[7] In D.W. Thomas Holdings Inc. v. Minister of National Revenue, 2009 FCA 371, Justice Layden-Stevenson, stated, on behalf of the Federal Court of Appeal, that:
+5 Contrary to the appellant's assertion, Miller J. did consider the issue of intention. In keeping with the approach set out in Royal Winnipeg Ballet v. Canada (Minister of National Revenue), [2007] 1 F.C.R. 35 (FCA), she examined the evidence to ascertain whether it supported that intention and concluded that it did not.
+[8] In this case it is clear that it was the Appellant’s intention that all of the individuals referred to above would be independent contractors and not employees. Two of the individuals testified during the hearing and it was clear that it was also their intention that they would be independent contractors and not employees. All of the individuals kept records of the hours that they worked and submitted invoices to the Appellant for their services. If the individual was registered for GST purposes, the individual also charged GST.
+[9] In Royal Winnipeg Ballet, the facts related to the dancers and the circumstances of their work were not sufficient to alter the arrangement from that which was intended by the parties. Therefore it seems to me that “in keeping with the approach set out in Royal Winnipeg Ballet”, the relevant facts in this case, as determined by the factors as set out in Wiebe Door and Sagaz, would have to more strongly indicate an employer-employee relationship than did the facts in the case of the Royal Winnipeg Ballet in order for these individuals to be considered to be employees. In both the Royal Winnipeg Ballet case and in this case, there was an intention to create an independent contractor relationship and not an employer-employee relationship.
+[10] With respect to the control factor, the evidence in this particular case was that the amount of control that the Appellant had over these individuals would have been less than the amount of control that the Royal Winnipeg Ballet had over the ballet dancers. In the Royal Winnipeg Ballet case, Justice Sharlow described the degree of control that the Royal Winnipeg Ballet had over the dancers as “extensive”. The dancers in the Royal Winnipeg Ballet case would not have been allowed to set their own hours and were only allowed to work for others with the consent of the Royal Winnipeg Ballet. As noted in the above decision:
+The RWB chooses what works will be performed, chooses the time and location of the performances, determines where and when rehearsals will be held, assigns the roles, provides the choreography, and directs each performance.
+[11] The individuals in this case were able to set their own hours of work, although within certain limits, as they were retained to build units that would have to be ready for delivery when the customer wanted the unit. Each individual had a key to the Appellant’s premises and therefore could come and go as they chose. Patricia Schacher described the hours of work as follows:
+A … Where Matt is concerned here ‑‑ when I first talked to Matt about doing some small work for Trinity, Matt was an up and coming hockey player, and he needed to be able to go to morning practice.
+And sometimes he would not get there until ‑‑ he would, you know, say, I think I can be there by 10. Can I work from 10 to 2, and then I have to go back to practice, and I have a game. And that worked just fine for me. If he came and went as he pleased.
+Q What about the other individuals? How were their hours determined?
+A They would set their own hours. If they could get the work done I wanted ‑‑ and that's how they did it. If they had another job to go to in the morning, they did that. If they could be at my shop by afternoon and they knew they could get their work done, that was fine. It was their job to keep track of their own hours; I didn't do that.
+[12] The individuals in this case were able to work for other clients and did not need the consent of the Appellant to do so.
+[13] Some of the work was done at the Appellant’s facility and some work (welding, painting, and powder coating) was done at a facility that was controlled by Patricia Schacher’s ex-husband. It appears that all of the individuals (except Norman Ronsberg and Sandra Bonnett) were involved in building the units. Norman Ronsberg would deliver supplies from Camrose and ride along on deliveries of the units. It was a requirement that there be two people in the vehicle that was delivering the unit to the oil field. Sandra Bonnett would clean the premises of the Appellant when she was called to do so and would also help with some office work.
+[14] In the case of Direct Care In-Home Health Services Inc. v. Minister of National Revenue, 2005 TCC 173, Justice Hershfield made the following comments in relation to control:
+11 Analysis of this factor involves a determination of who controls the work and how, when and where it is to be performed. If control over work once assigned is found to reside with the worker, then this factor points in the direction of a finding of independent contractor; if control over performance of the worker is found to reside with the employer, then it points towards a finding of an employer-employee relationship.* However, in times of increased specialization this test may be seen as less reliable, so more emphasis seems to be placed on whether the service engaged is simply “results” oriented; i.e. “here is a specific task -- you are engaged to do it”. In such case there is no relationship of subordination which is a fundamental requirement of an employee-employer relationship.* Further, monitoring the results, which every engagement of services may require, should not be confused with control or subordination of a worker.*
+12 In the case at bar, the Worker was free to decline an engagement for any reason, or indeed, for no reason at all. …
+(emphasis added)
+(* denotes a footnote reference that was in the original text but which has not been included.)
+[15] The arrangement with the individuals appears to be very similar to the arrangement described by Justice Hershfield as the individuals who were building the units were assigned specific tasks in relation to the assembly of the units. They were retained to build units for the Appellant and when the orders were filled, their tasks were completed. It is also clear that the individuals were free to decline an engagement to build a unit or a number of units.
+[16] While there would be some supervision of the workers in this case, the supervision of these workers would be less than the supervision of the dancers by the Royal Winnipeg Ballet.
+[17] With respect to the ownership of equipment, the Appellant provided some of the tools that the individuals used and the individuals also provided some of their own tools. The Appellant had a truck and a trailer that was used to deliver the finished units to the customers. The individuals would use their own trucks to pick up supplies and charge an hourly rate for the use of their vehicles. Sandra Bonnett purchased her own cleaning supplies. The Appellant provided a machine for cleaning cement floors. In Royal Winnipeg Ballet the dancers bore many costs but the Royal Winnipeg Ballet was obliged to provide dance shoes, costumes, tights, wigs and certain other necessary items.
+[18] It does not appear that the individuals would have been able to hire other workers to perform the tasks that were assigned to them. If an individual would have been unable to perform a certain task, it appears that the Appellant would simply have retained someone else to do that task. In the Royal Winnipeg Ballet case, there was no discussion with respect to whether or not the dancers could hire any helpers but it would seem illogical to suggest that the dancers could hire any person to replace them in the production.
+[19] With respect to the degree of financial risk/opportunity for profit, the individuals had little financial risk. In the Royal Winnipeg Ballet case, the dancers, as acknowledged by the Federal Court of Appeal, had little financial risk.
+[20] With respect to the opportunity for profit, the dancers with the Royal Winnipeg Ballet could negotiate for additional remuneration, although most were paid in accordance with a predetermined scale. In this case the hourly rate that would be paid to the individuals was determined before the individuals commenced work. The individuals would state what rate that they were seeking and if that rate was acceptable, they would be retained. If not, either the worker would not be retained or the Appellant would try to negotiate a different rate. In Royal Winnipeg Ballet the dancers were allowed to accept outside engagements provided that they had the consent of the Royal Winnipeg Ballet and provided that they held themselves out as being engaged by the Royal Winnipeg Ballet. In this case, there were no such restrictions imposed on the individuals in accepting outside engagements.
+[21] In the Royal Winnipeg Ballet case, the dancers did not have any management or investment responsibilities with respect to their work with the Royal Winnipeg Ballet. In this case the individuals did not have any management or investment responsibilities with respect to their work with the Appellant.
+[22] It should also be noted that in this case Sandra Bonnett carried on her business under the name “Cleaning with Care” and she had her own liability insurance coverage.
+[23] As a result, I find that the relevant facts related to the engagement of the individuals by the Appellant as determined by the factors as set out in Wiebe Door and Sagaz do not suggest more strongly an employer/employee relationship than did the facts in Royal Winnipeg Ballet and since there was clearly a mutual intention to create an independent contractor relationship, the individuals were independent contractors and not employees of the Appellant during the period under appeal.
+Signed at Halifax, Nova Scotia, this 16th day of November, 2010.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2010TCC583
+COURT FILE NOS.: 2009-2758(EI); 2009-2759(CPP)
+STYLE OF CAUSE: TRINITY INNOVATIONS INC. AND
+THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: September 29, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: November 16, 2010
+APPEARANCES:
+Agent for the Appellant:
+Pat Schacher
+Counsel for the Respondent:
+Gergely Hegedus and Rob Neilson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,98 @@
+Title: Allard c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25026/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-192-25026-allard-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-04-03
+
+# Allard c. La Reine
+
+- Citation: 2003 CCI 192
+- Decision date: 2003-04-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2528, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Allard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-03
+Référence neutre
+2003 CCI 192
+Numéro de dossier
+2002-1725(IT)I
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-1725(IT)I
+ENTRE :
+MANON LUCIE ALLARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Je demande que les motifs de la décision prononcés à l'audience à la Cour canadienne de l'impôt, 500 Place d'Armes, Montréal (Québec), le 12 février 2003 et révisés le 3 avril 2003 soient déposés.
+Signé à Ottawa, Canada, ce 3e jour d'avril 2003.
+« P. R. Dussault »
+J.C.C.I.
+Référence : 2003CCI192
+Date : 20030403
+Dossier : 2002-1725(IT)I
+ENTRE :
+MANON LUCIE ALLARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(prononcés oralement à l'audience
+le 12 février 2003 à Montréal (Québec)
+et révisés le 3 avril 2003)
+P.R. Dussault, J.C.C.I.
+[1] Je vais accueillir l'appel pour le mois de mars 2001. Il y a des indications que monsieur Marc Allard avait toujours la même adresse même en mai, soit deux mois plus tard. La preuve est effectivement contradictoire, il y a quelqu'un qui ment, à n'en pas douter. Je ne prendrai pas deux semaines pour me demander lequel ou laquelle ment. Je pense que madame a témoigné, son témoignage est appuyé par celui de son fils, qui a reconnu, cependant, avoir fait une déclaration antérieure à l'effet contraire. Cette déclaration, il dit l'avoir faite, non parce qu'on l'a forcé à la faire, mais parce qu'il se serait senti forcé de la faire. Il est revenu sur cette déclaration et affirme maintenant qu'il vivait, à compter du 23 décembre 2000, principalement chez madame et qu'il prenait ses repas aussi principalement chez madame. Pour cette raison, et étant donné qu'il n'y a que le mois de mars 2001 en cause, j'accepte le témoignage de madame et celui de son fils.
+[2] Quant à monsieur Desrochers, il a la mémoire courte pour certaines choses et longue pour d'autres. Il me semble qu'on devrait se souvenir si on a été poursuivi comme père et pour payer une pension alimentaire. De plus, lorsqu'on affirme catégoriquement avoir acheté à plusieurs reprises des vêtements pour un enfant, on devrait, au minimum, se souvenir d'un élément ou d'un item qu'on a pu acheter, même si on ne se souvient pas du prix.
+[3] L'appel est accueilli.
+Signé à Ottawa, Canada, ce 3e jour d'avril 2003.
+« P. R. Dussault »
+J.C.C.I.
+NO. DE RÉFÉRENCE :
+2003CCI192
+No DU DOSSIER DE LA COUR :
+2002-1725(IT)I
+INTITULÉ DE LA CAUSE :
+Manon Lucie Allaire et La Reine
+LIEU DE L'AUDIENCE :
+Montréal
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge P.R. Dussault
+DATE DE L'AUDIENCE :
+le 12 février 2003
+DÉCISION RENDUE ORALEMENT :
+le 12 février 2003
+DATE DU JUGEMENT :
+le 18 février 2003
+MOTIFS RÉVISÉS DU JUGEMENT :
+le 3 avril 2003
+COMPARUTIONS :
+Pour l'appelante :
+Me Jacques Riopel
+Pour l'intimée :
+Emmanuelle Faulkner
+(Stagiaire en droit)
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Jacques Riopel
+Étude :
+Me Jacques Riopel, Avocat
+Montréal (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

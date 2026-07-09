@@ -1,0 +1,154 @@
+Title: Mosly c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/110059/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-136-110059-mosly-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-06-04
+
+# Mosly c. La Reine
+
+- Citation: 2015 CCI 136
+- Decision date: 2015-06-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2832, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mosly c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-06-04
+Référence neutre
+2015 CCI 136
+Numéro de dossier
+2012-3775(IT)G, 2012-3776(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-3775(IT)G
+ENTRE :
+ADEL MOSLY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l'appel d'Adel Mosly (2012‑3776(IT)G), les 1er et 2 juin 2015, à Penticton (Colombie‑Britannique).
+Devant : L'honorable juge David E. Graham
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même
+Avocate de l'intimée :
+Me Karen Truscott
+JUGEMENT
+L'appel interjeté à l'égard de l'année d'imposition 1999 de l'appelant est accueilli, sans dépens, et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l'appelant avait un revenu d'entreprise net de 460 000 $ pour son année d'imposition 1999 et qu'aucune pénalité pour faute lourde ne doit être imposée relativement à ce montant.
+Signé à Vancouver (Colombie‑Britannique), ce 4e jour de juin 2015.
+« David E. Graham »
+Le juge Graham
+Dossier : 2012‑3776(IT)G
+ENTRE :
+ADEL MOSLY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l'appel d'Adel Mosly (2012‑3775(IT)G), les 1er et 2 juin 2015, à Penticton (Colombie‑Britannique).
+Devant : L'honorable juge David E. Graham
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même
+Avocate de l'intimée :
+Me Karen Truscott
+JUGEMENT
+L'appel interjeté à l'égard des années d'imposition 2003 et 2004 de l'appelant est accueilli, sans dépens, et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que l'appelant n'avait pas de revenu d'entreprise de 63 750 $ et de 99 827 $ pour ses années d'imposition 2003 et 2004, respectivement.
+Signé à Vancouver (Colombie‑Britannique), ce 4e jour de juin 2015.
+« David E. Graham »
+Le juge Graham
+Référence : 2015 CCI 136
+Date : 20150604
+Dossiers : 2012-3775(IT)G
+2012-3776(IT)G
+ENTRE :
+ADEL MOSLY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l'égard de l'année d'imposition 1999 d'Adel Mosly afin d'ajouter au revenu un montant qui, selon le ministre, aurait été obtenu par M. Mosly de manière frauduleuse. Le ministre a également établi de nouvelles cotisations pour les années d'imposition 2003 et 2004 de M. Mosly afin de tenir compte de montants de revenus qui, selon le ministre, auraient été gagnés par M. Mosly à titre d'entrepreneur ou de sous‑entrepreneur durant ces années. Le ministre a imposé des pénalités pour faute lourde relativement à une partie des prétendus revenus non déclarés pour l'année d'imposition 1999 et à l'ensemble des prétendus revenus non déclarés pour les années d'imposition 2003 et 2004. M. Mosly a interjeté appel à l'encontre de ces nouvelles cotisations dans deux appels distincts. Les appels ont été entendus sur preuve commune.
+[2] Dans les deux appels, la question essentielle est de savoir si M. Mosly a réussi à démolir les hypothèses de fait formulées par le ministre.
+[3] Les montants inclus dans le revenu pour l'année d'imposition 1999 ne sont pas liés à ceux inclus dans le revenu pour les années d'imposition 2003 et 2004. Les montants inclus dans le revenu pour les années d'imposition 2003 et 2004 sont liés entre eux. Je me pencherai d'abord sur l'année d'imposition 1999, et je traiterai ensuite les années d'imposition 2003 et 2004 ensemble.
+Année d'imposition 1999 [4] Monsieur Mosly était actionnaire d'une société de la Colombie‑Britannique appelée Saudi Arabian‑Canadian Business Corporation (la société « SACBC »)[1]. La SACBC avait été embauchée en vue de la prestation de divers services à une société dénommée Gang Ranch Limited (la société « Gang Ranch »), qui exploitait un ranch en Colombie‑Britannique. C'est la société mère de Gang Ranch, à savoir BSA Investors Ltd. (la société « BSA »), qui avait fait appel aux services de la SACBC. La société BSA, quant à elle, appartenait à un homme de l'Arabie Saoudite, le cheik Ibrahim Afandi.
+[5] Les parties conviennent des principaux faits suivants. En 1999, BSA a emprunté 550 000 $ auprès d'une banque et a utilisé les biens de Gang Ranch comme sûreté. Le produit du prêt a été déposé dans un compte bancaire de la société BSA. De ce produit, 460 000 $ ont immédiatement été transférés dans le compte bancaire de la SACBC. Ensuite, la SACBC a immédiatement transféré les mêmes fonds dans un compte de courtage en son nom. Les fonds ont été utilisés pour acquérir des actions d'Apple Inc. La BSA a manqué à son obligation de rembourser le prêt initial, et la SACBC ne disposait pas de suffisamment d'actifs pour assurer le remboursement. La BSA a poursuivi en justice M. Mosly, la SACBC et les avocats de BSA relativement aux fonds perdus. La Cour suprême de la Colombie‑Britannique a conclu que M. Mosly avait obtenu les fonds de manière frauduleuse et que les avocats avaient fait preuve de négligence en ne s'assurant pas que l'autorisation appropriée avait été obtenue pour le prêt.
+[6] Les parties ne sont pas d'accord au sujet de certaines opérations supplémentaires qui ont été effectuées. À un certain moment, avant, après, ou avant et après que la BSA a manqué à son obligation de rembourser son prêt, une série de montants moins élevés ont été retirés du compte de courtage à titre de prêts, et les actions d'Apple ont servi de sûreté. L'intimée a supposé que les montants avaient été empruntés par M. Mosly. Ce dernier a déclaré dans son témoignage que les montants avaient été empruntés par la SACBC. Compte tenu des conclusions que je tire plus loin, cette question n'est pas pertinente.
+[7] Le ministre a inclus dans le revenu de M. Mosly un produit net de prêt de 491 475 $ en tant que revenu découlant d'une fraude. Au début de l'audience, l'avocate de l'intimée a admis que seul le produit du prêt de 460 000 $ qui avait été retiré du compte de la BSA aurait dû être inclus dans le revenu de M. Mosly.
+[8] Monsieur Mosly soutient qu'il n'a pas volé le montant de 460 000 $ à la BSA. Il affirme que sa relation chez BSA lui avait demandé de prendre les dispositions nécessaires pour que la BSA emprunte l'argent, de transférer le montant de 460 000 $ à la SACBC, d'investir ce montant dans les actions d'Apple et, finalement, d'emprunter des fonds en utilisant les actions comme sûreté. M. Mosly ajoute que les avocats de la BSA étaient au courant des opérations et qu'en fait, ils avaient préparé tous les documents juridiques pour le prêt. Il explique que l'argent emprunté par la SACBC en utilisant les actions d'Apple comme sûreté a servi à rembourser la SACBC des dépenses que celle‑ci avait supportées pour le compte de Gang Ranch.
+[9] Je n'accepte pas le témoignage de M. Mosly sur ces points. Le récit des faits qu'il présente n'est tout simplement pas logique. Il n'a nullement expliqué pourquoi, si la BSA voulait acheter des actions d'Apple au moyen d'un prêt, elle n'a simplement pas acheté les actions en son propre nom ou au nom de Gang Ranch plutôt que d'emprunter l'argent, de le donner à la SACBC et de faire en sorte que celle‑ci achète les actions. M. Mosly a déclaré dans son témoignage que la BSA disposait de vérificateurs et de comptables qui auraient remarqué si quelque chose n'allait pas, mais il n'a pas présenté d'éléments de preuve indiquant que ces vérificateurs et ces comptables étaient au courant de l'investissement fait par la BSA dans les actions d'Apple et ont tenu compte de cet investissement ou des emprunts correspondants, et il n'a pas non plus fourni d'états financiers de la SACBC démontrant la manière dont elle avait traité les actions.
+[10] Monsieur Mosly avait l'idée fixe selon laquelle il n'aurait pas pu être dans le tort puisque les avocats de la BSA avaient préparé tous les documents de prêt. Il a essentiellement fait valoir que s'il y avait quoi que ce soit d'inapproprié, c'était de leur faute. Cet argument est illogique. Cela ressemble à la situation où un voleur de banque jette le blâme sur le caissier qui lui a donné l'argent parce que ce dernier n'a pas activé l'alarme assez rapidement pour qu'il soit attrapé. Manifestement, les avocats ont reçu des instructions de la part de M. Mosly. Comme il a donné ces instructions, M. Mosly ne peut pas se raviser et blâmer les avocats pour avoir suivi ses instructions. Même si, comme l'a conclu la Cour suprême de la Colombie‑Britannique, les avocats n'ont pas pris les mesures nécessaires pour s'assurer que le prêt était dûment autorisé par la BSA, cela ne change pas le fait que c'était M. Mosly qui leur donnait des instructions et que c'est lui qui avait pris l'argent.
+[11] Monsieur Mosly semble également faire valoir qu'une cotisation ne devrait pas être établie à son égard, car l'argent s'est retrouvé à la SACBC et non entre ses mains. Je conviens que l'argent a abouti à la SACBC, mais c'est parce que M. Mosly, après avoir pris l'argent personnellement de la BSA, a ordonné qu'il soit versé à la SACBC. Ce n'est pas la SACBC qui a signé les documents de prêt, mais bien M. Mosly. Ce n'est pas la SACBC qui était administratrice de la BSA, mais bien M. Mosly. C'est en sa qualité personnelle d'administrateur de la BSA que M. Mosly a pris les dispositions nécessaires concernant le prêt et qu'il a demandé que le produit soit versé à la SACBC.
+[12] Compte tenu de ce qui précède, je conclus que M. Mosly n'a pas réussi à démolir les hypothèses de fait formulées par le ministre, que ces hypothèses montrent clairement que M. Mosly a volé 460 000 $ à la BSA en 1999 et qu'il aurait donc dû inclure ce montant dans son revenu à titre de revenu découlant d'un vol.
+[13] Je tiens à préciser clairement que, pour tirer la conclusion susmentionnée, je n'ai été nullement influencé par la décision rendue par la Cour suprême de la Colombie‑Britannique contre M. Mosly. La Couronne n'ayant pas été partie à cette instance, la préclusion découlant d'une question déjà tranchée ne s'applique pas en l'espèce. M. Mosly a assisté à l'audience dans cette instance et a contre-interrogé certains témoins, mais il a décidé de ne pas témoigner lui‑même. Comme on pouvait s'y attendre, la Cour a tiré une inférence défavorable de ce fait. M. Mosly a présenté différentes explications pour justifier sa décision de ne pas témoigner. Je pense qu'il n'est pas pertinent de savoir si j'accepte ou non ces explications. Le fait est simplement que je ne suis pas prêt à me fonder sur les conclusions de fait tirées par une autre cour dans une affaire mettant en cause des parties différentes de celles qui sont devant moi, dans laquelle la principale partie devant moi a décidé, pour quelque raison que ce soit, de ne pas témoigner, et où je n'ai pas entendu le témoignage des parties adverses. Il n'y avait rien de mal à ce que le ministre se fonde sur le jugement pour formuler des hypothèses de fait, mais je ne pense pas qu'il conviendrait que je me fonde sur ce jugement pour décider si ces hypothèses ont été démolies. La conclusion que j'ai tirée, selon laquelle M. Mosly n'avait pas démoli les hypothèses formulées par le ministre, reposait sur le caractère peu vraisemblable de sa version des faits, non sur le jugement de la Cour suprême de la Colombie‑Britannique.
+[14] La Couronne avait initialement établi une cotisation à l'égard de M. Mosly pour un montant supplémentaire de 37 000 $ de prétendus revenus non déclarés et elle avait imposé à cet égard des pénalités pour faute lourde en 1999. Au début de l'audience, l'avocate de l'intimée a admis que M. Mosly devrait faire l'objet d'une nouvelle cotisation visant à annuler ces montants.
+[15] Compte tenu de ce qui précède, je conclus qu'une nouvelle cotisation doit être établie relativement à l'année d'imposition 1999 de M. Mosly pour donner effet aux deux concessions faites par l'intimée à l'audience.
+Années d'imposition 2003 et 2004 [16] Monsieur Mosly était actionnaire à 50 % de deux sociétés : Morgan Crest Estates Ltd. (la société « Morgan Crest ») et 660092 BC Ltd. (la « société 660092 »). L'autre actionnaire à 50 % était l'un de ses amis nommé Jose Hilario. Les activités de ces sociétés consistaient à acheter des terrains vagues, à construire des maisons et à les vendre.
+[17] Messieurs Mosly et Hilario se sont querellés. En fait, il semble y avoir eu une querelle avec un grand nombre de personnes liées aux sociétés et aux maisons. M. Hilario a intenté une poursuite contre M. Mosly. M. Hilario prétendait que M. Mosly avait détourné d'importantes sommes d'argent de Morgan Crest et de la société 660092 en 2003 et en 2004. Selon ce que j'ai compris, à un certain moment, la poursuite intentée par M. Hilario contre M. Mosly a été abandonnée. Ce dernier n'a pas produit de documents énonçant les modalités de l'abandon, mais il a expliqué qu'il avait signé un document qui m'a semblé être une libération mutuelle. Manifestement, l'affaire n'a pas été poursuivie devant la cour. M. Mosly n'a pas précisé que des paiements avaient été faits lors de l'abandon de la poursuite.
+[18] Morgan Crest et la société 660092 ont délivré des feuillets T5018 à M. Mosly, qui faisaient état des revenus suivants :
+2003
+2004
+Morgan Crest
+38 638 $
+91 342 $
+La société 660092
+25 112 $
+8 485 $
+Total
+63 750 $
+99 827 $
+[19] Le ministre a conclu que M. Mosly n'avait pas déclaré ces revenus dans ses déclarations de revenus pour les années d'imposition 2003 et 2004 et, en conséquence, il a établi de nouvelles cotisations pour tenir compte de ces revenus et pour imposer des pénalités pour faute lourde.
+[20] Lorsqu'il a ainsi établi les nouvelles cotisations, le ministre a supposé que M. Mosly avait omis de déclarer des revenus d'entreprise qu'il avait gagnés à titre d'entrepreneur ou de sous‑entrepreneur de Morgan Crest et de la société 660092[2]. Je conclus que M. Mosly a démoli cette hypothèse. Si M. Mosly avait des revenus non déclarés, il s'agissait de fonds de Morgan Crest et de la société 660092 qu'il s'était appropriés, et non d'une rémunération pour des services rendus à titre d'entrepreneur ou de sous‑entrepreneur de ces sociétés. J'ai tiré cette conclusion en me fondant principalement sur le fait que je crois que les feuillets T5018 n'ont pas été délivrés de bonne foi. Ils ont été préparés par les comptables de Morgan Crest et de la société 660092, vraisemblablement selon les instructions de M. Hilario. Comme je l'ai déjà mentionné, M. Hilario et M. Mosly se livraient une âpre bataille judiciaire. Je pense qu'il est raisonnable de croire que M. Hilario avait ses propres intérêts à l'esprit lorsque les feuillets T5018 ont été délivrés. Il me semble, selon la preuve, que ces feuillets n'ont été délivrés qu'en 2010, bien après les années dont il est question. À mon avis, le fait que les feuillets n'aient pas été délivrés à l'époque pertinente les rend moins fiables. Plus important encore, les montants semblent avoir été calculés selon une analyse réalisée par les comptables d'un cabinet d'expertise judiciaire auquel M. Hilario avait fait appel dans le but d'établir le montant que M. Mosly avait [TRADUCTION] « détourné » de Morgan Crest et de la société 660092. Lorsqu'une personne détenant 50 % des actions d'une société retire des fonds de la société de façon irrégulière, elle se voit imposer en vertu du paragraphe 15(1) de la Loi à l'égard des fonds appropriés. La société ayant perdu l'argent n'obtient pas de déduction relativement à ces fonds. Des feuillets T5018 sont délivrés à des personnes ayant exécuté des travaux aux termes d'un contrat. Les paiements versés à de telles personnes sont déductibles par le payeur. Il me semble que M. Hilario avait établi que M. Mosly avait détourné des fonds des sociétés en question, mais M. Hilario souhaitait pouvoir demander une déduction pour les montants retirés. Il a donc décidé de les traiter comme des paiements contractuels et a fait en sorte que des feuillets T5018 soient délivrés à M. Mosly. L'adresse de M. Mosly ne figurait pas sur les feuillets, ce qui, opportunément, permettait de veiller à ce que M. Mosly ne soit pas au courant du fait qu'ils avaient été délivrés et ne puisse pas les contester immédiatement. Compte tenu de ces circonstances, je ne puis me fier à l'exactitude des feuillets T5018. Étant donné que les hypothèses de fait formulées par le ministre étaient fondées sur ces feuillets, je conclus que M. Mosly a réussi à les démolir.
+[21] Ainsi, il incombe à l'intimée de prouver que M. Mosly avait des revenus non déclarés. L'avocate de l'intimée a reconnu, à juste titre, que l'intimée ne pouvait se fonder sur le rapport rédigé par les comptables, puisque ces comptables n'ont pas été appelés à témoigner. L'intimée ne disposait d'aucun élément de preuve supplémentaire sur lequel elle pouvait se fonder.
+[22] Compte tenu de ce qui précède, les nouvelles cotisations établies à l'égard des années d'imposition 2003 et 2004 de M. Mosly doivent être annulées.
+Conclusion [23] L'appel interjeté à l'égard de l'année d'imposition 1999 de M. Mosly est accueilli, et l'affaire est déférée au ministre pour nouvel examen et nouvelle cotisation compte tenu du fait que M. Mosly avait un revenu d'entreprise net de 460 000 $ en 1999 et que, conformément aux concessions de l'intimée, aucune pénalité pour faute lourde ne devrait être imposée relativement à ce montant. L'appel interjeté à l'égard des années d'imposition 2003 et 2004 de M. Mosly est accueilli.
+[24] Étant donné que les parties ont eu partiellement gain de cause, aucuns dépens ne seront adjugés.
+Signé à Vancouver (Colombie‑Britannique), ce 4e jour de juin 2015.
+« David E. Graham »
+Le juge Graham
+RÉFÉRENCE :
+2015 CCI 136
+NOS DES DOSSIERS DE LA COUR :
+2012-3775(IT)G et 2012-3776(IT)G
+INTITULÉ :
+ADEL MOSLY c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Penticton (Colombie‑Britannique)
+DATES DE L'AUDIENCE :
+Les 1er et 2 juin 2015
+MOTIFS DU JUGEMENT :
+L'honorable juge David E. Graham
+DATE DU JUGEMENT :
+Le 4 juin 2015
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui‑même
+Avocate de l'intimée :
+Me Karen Truscott
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l'intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Des discussions ont eu lieu quant à la question de savoir si M. Mosly était l'unique actionnaire de la SACBC ou seulement l'un de ses actionnaires. À mon avis, ce point n'a aucune incidence particulière. Toutefois, si j'avais eu à trancher, j'aurais conclu que les descriptions vagues des autres actionnaires faites par M. Mosly ne suffisaient pas pour réfuter l'hypothèse de fait formulée par le ministre selon laquelle M. Mosly était l'unique actionnaire.
+[2] Les hypothèses de fait énoncées dans la réponse précisent en fait que les fonds avaient été détournés des sociétés. Toutefois, il ressortait clairement du témoignage du vérificateur de l'Agence du revenu du Canada, de sa correspondance, de ses notes et documents de travail, de son recours aux feuillets T5018 et du fait que la cotisation d'impôt sur le revenu avait été établie en vertu de l'article 9 de la Loi de l'impôt sur le revenu que l'hypothèse qui avait été formulée aurait pu être décrite de façon plus juste comme étant le fait que M. Mosly avait des revenus d'entreprise non déclarés à titre d'entrepreneur ou de sous‑entrepreneur des sociétés.

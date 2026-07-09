@@ -1,0 +1,388 @@
+Title: Ceco Operations Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22798/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-256-22798-ceco-operations-ltd-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-06-12
+
+# Ceco Operations Ltd. v. The Queen
+
+- Citation: 2006 CCI 256
+- Decision date: 2006-06-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2245, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ceco Operations Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-12
+Référence neutre
+2006 CCI 256
+Numéro de dossier
+2004-2878(IT)G
+Juges et Officiers taxateurs
+Michael J. Bonner
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004‑2878(IT)G
+ENTRE :
+CECO OPERATIONS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 26 octobre 2005 à Vancouver (Colombie‑Britannique).
+Devant : L'honorable juge Michael J. Bonner
+Comparutions :
+Avocats de l'appelante :
+Me Joel A. Nitikman
+Me Lynn Jenkins
+Avocats de l'intimée :
+Me Robert Carvalho, Me Susan Wong et Me Bruce Senkpiel
+JUGEMENT
+L'appel est accueilli avec dépens en faveur de l'intimée et la nouvelle cotisation est déférée à cette dernière pour nouvelle cotisation en tenant compte de la valeur convenue de la soulte.
+Signé à Toronto (Ontario), ce 12e jour de juin 2006.
+« Michael J. Bonner »
+Le juge Bonner
+Traduction certifiée conforme
+ce 31e jour d'août 2007.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI256
+Date : 20060612
+Dossier : 2004‑2878(IT)G
+ENTRE :
+CECO OPERATIONS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bonner
+Introduction
+[1] Il s'agit d'un appel en matière d'impôt sur le revenu intéressant ce qui est communément appelé un roulement en vertu du paragraphe 97(2).
+[2] Le 1er mars 1998, l'appelante a vendu ses actifs, à savoir son matériel, sa survaleur et ses stocks, à une société de personnes, Madill Equipment Canada (la « société de personnes »), pour la somme de 35 461 674 $.
+[3] En ce qui concerne la vente des actifs, l'appelante et la société de personnes ont conjointement produit, pour l'application d'un roulement en vertu du paragraphe 97(2) de la Loi de l'impôt sur le revenu (la « Loi »), le formulaire de choix prescrit, à savoir le formulaire T2059, de la façon et dans le délai prévus, choisissant ainsi la somme de 17 123 002 $ en application du paragraphe 97(2).
+[4] Une opération qui a eu lieu le lendemain de la clôture de la vente est au coeur du présent appel. Cette opération subséquente consistait en une souscription et en le paiement, par la société de personnes, d'actions privilégiées d'une société soeur de l'appelante. Le prix, qui a été payé en espèces, excédait sensiblement la valeur des actions.
+[5] Le contrat de société de personnes comportait une clause pouvant être qualifiée de mécanisme antirefoulement. Cette clause empêchait la société de personnes de conserver quoi que ce soit de valeur, qu'il s'agisse de capital ou de revenu, au titre de son placement dans les actions privilégiées.
+[6] L'intimée fait état des relations existant entre les diverses parties et de certains événements antérieurs et postérieurs à l'opération de souscription, et elle avance que le paiement versé en contrepartie des actions constitue en réalité une [TRADUCTION] « contrepartie additionnelle » pour le bien vendu à la société de personnes. Des précisions sont données plus loin.
+[7] Les dispositions applicables de la Loi sont l'article 97, les alinéas 85(1)a) à f), le paragraphe 56(2) et l'article 245. Elles sont reproduites à l'annexe A des présents motifs.
+[8] À première vue du moins, le contrat de vente des actifs est en tous points conforme aux dispositions des articles 97 et 85. Immédiatement après le roulement en vertu du paragraphe 97(2), la juste valeur marchande globale des actifs se chiffrait à 35 461 674 $.
+[9] Immédiatement après le roulement en vertu du paragraphe 97(2), le coût total des actifs pour la société de personnes était de 17 123 002 $.
+[10] À titre de contrepartie pour la vente des actifs, l'appelante a reçu de la société de personnes une soulte[1] d'une juste valeur marchande globale de 16 848 600 $ ainsi qu'une participation dans la société de personnes désignée comme une part de catégorie « F » d'une juste valeur marchande de 18 613 074 $, pour une somme totale de 35 461 674 $.
+[11] Par un avis de nouvelle cotisation daté du 6 novembre 2002 (la « nouvelle cotisation »), le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l'égard de l'impôt relativement à l'année d'imposition 1999 de l'appelante. Le ministre a ajouté au revenu de l'appelante la somme supplémentaire qui aurait été incluse si la société de personnes avait payé la somme de 18 726 561 $ en espèces à l'appelante le 1er mars 1998 à titre de soulte pour le roulement en vertu du paragraphe 97(2) plutôt que d'émettre une part de catégorie « F ». Plus précisément, il a ajouté les sommes suivantes au revenu déclaré :
+a) la récupération de l'amortissement s'élevant à 150 490 $, en application du paragraphe 13(1) de la Loi;
+b) la somme de 13 726 028 $ constituant la partie imposable de la vente de la survaleur, en application du paragraphe 14(1) de la Loi.
+[12] Le ministre a soutenu que la soulte reçue par l'appelante au moment de la vente de ses actifs à la société de personnes incluait le paiement de 18 726 561 $ fait par cette dernière le 2 mars 1998. Ce paiement a été fait non pas à l'appelante, la venderesse des actifs, mais plutôt à la société soeur de celle‑ci, Ceco Holdings Ltd. (« Holdings »). Le paiement a en apparence été versé en contrepartie de l'émission, par Holdings, d'actions privilégiées en faveur de la société de personnes.
+[13] Lorsqu'il a établi la nouvelle cotisation, le ministre s'est appuyé sur les hypothèses suivantes :
+a) le paiement de 18 726 561 $ tombait sous le coup du paragraphe 56(2) de la Loi et devait donc être traité comme s'il avait été « reçu » par l'appelante à titre de soulte pour l'application du paragraphe 97(2);
+b) à titre subsidiaire, selon le paragraphe 245(2) de la Loi, il serait raisonnable de considérer que l'appelante a reçu la somme de 18 726 561 $ à titre de soulte pour l'application du paragraphe 97(2).
+La question fondamentale en litige dans le présent appel consiste à savoir si le ministre avait raison.
+[14] Il est nécessaire de présenter les circonstances dans lesquelles la vente à la société de personnes a eu lieu. Ces circonstances ont été invoquées par l'avocat de l'intimée à l'appui de son assertion voulant que l'objectif visé par le groupe de personnes qui était à l'origine des opérations en question (les « employés ») ait consisté à obtenir un prix de 29 400 000 dollars américains[2] à titre de « valeur antérieure[3] » de l'entreprise que l'appelante a vendue à la société de personnes.
+[15] Au tout début, en 1996[4], S. Madill Ltd. était une société canadienne dont les activités touchaient à la fabrication et à la vente de matériel d'exploitation forestière au Canada et aux États‑Unis. S. Madill Ltd. a plus tard changé sa raison sociale pour s'appeler Ceco Properties Ltd. Je la désignerai sous le nom de « Properties ».
+[16] Properties appartenait à cent pour cent à Cypress Equipment Ltd. (« Cypress »), laquelle agissait comme société de portefeuille.
+[17] Les actions de Cypress appartenaient à six sociétés de portefeuille (les « sociétés de portefeuille »). Ces dernières appartenaient à leur tour, directement ou indirectement, à six employés‑clés de Properties (les « employés »), comme il est précisé ci‑dessous :
+i) Seata Investments Ltd. (« Seata »), propriété à cent pour cent de Gilbert Schmunk;
+ii) Klee‑Wyck Investments Ltd. (« Klee‑Wyck »), propriété à cent pour cent de Keith Ollis;
+iii) Kamyn Investments Ltd. (« Kamyn »), propriété à cent pour cent de Daniel A. Willard;
+iv) Dorjola Holdings Ltd. (« Dorjola »), propriété à cent pour cent de Barry Kenna;
+v) Cove Holdings Ltd. (« Cove »), propriété à cent pour cent de Dexter Olund;
+vi) Keltar Investments Ltd. (« Keltar »), propriété à cent pour cent de Henry Volp.
+[18] En juin 1996, les employés se sont réunis pour examiner leur situation d'alors et leurs perspectives en qualité d'actionnaires et d'employés ainsi que la situation et les perspectives de l'entreprise exploitée par Properties. Plusieurs possibilités ont été envisagées, y compris la vente de la société. Selon le témoin Gilbert Schmunk, lequel a joué un rôle de premier plan au sein des employés, la vente immédiate de la société a été rejetée parce que la valeur de celle‑ci à ce moment ne reflétait pas tous les bénéfices auxquels, estimait‑on, les initiatives d'affaires déjà en cours donneraient vraisemblablement lieu pendant les prochaines années. Cependant, au moins un des employés souhaitait se retirer sous peu et réaliser sa participation dans la société.
+[19] Peu de temps après la réunion, M. Schmunk a retenu les services d'Exvere Inc. (« Exvere ») pour que celle‑ci établisse la valeur de Properties en vue de son éventuelle vente à une société concurrente, Ross Corporation. On croyait que Ross Corporation envisageait d'acheter Properties. Il était en outre intéressant d'obtenir une mise à jour de la valeur de Properties pour des raisons tenant à la convention des actionnaires. Exvere est arrivée à la conclusion que la valeur de Properties s'élevait à au moins 35 600 000 $ (y compris les biens immeubles).
+[20] À la fin d'avril 1997, Properties a de nouveau retenu les services d'Exvere, notamment pour qu'elle procède à une analyse de la valeur de Properties et à [TRADUCTION] « une recherche de candidats en vue d'un regroupement d'entreprises, d'un achat ou d'une vente ». Outre les honoraires au titre de l'évaluation, Properties a consenti à verser la [TRADUCTION] « rémunération au résultat » suivante :
+2,5 pour 100 du produit brut de l'opération jusqu'à concurrence de 30 000 000 dollars américains plus 5 pour 100 du produit brut de l'opération excédant 30 000 000 dollars américains.
+L'entente conclue avec Exvere précisait que la valeur de l'opération visant les actions émises et les obligations non remboursées de Cypress ne pouvait être inférieure à 30 000 000 dollars américains.
+[21] Au cours de l'été 1997, par suite des efforts déployés par Exvere, les employés ont rencontré les membres du groupe de sociétés Key Group (le « groupe Key »). Après discussion, le groupe Key, lequel était constitué de banquiers d'affaires, a présenté une lettre d'intention datée du 30 septembre 1997.
+[22] Dans cette lettre d'intention, le groupe Key proposait que les employés et le groupe Key constituent une nouvelle société, laquelle achèterait l'ensemble des actions de Cypress pour la somme de 31 000 000 dollars américains, dont 28 000 000 $ seraient payables en espèces et 3 000 000 $ au moyen d'un billet à ordre. Au moins cinq des six employés devaient être embauchés par la nouvelle société et obtenir une participation de 25 pour 100 dans celle‑ci. En outre, les cinq employés auraient l'occasion de gagner une participation supplémentaire de 10 pour 100 grâce à un apport de compétences pendant une période de cinq ans.
+[23] Cette lettre n'a pas été acceptée. Des discussions ont eu lieu par la suite entre le groupe Key et les employés, lesquels, si j'ai bien compris, étaient représentés par M. Schmunk. Ces discussions ont donné lieu à une deuxième lettre d'intention, datée du 4 novembre 1997.
+[24] La lettre d'intention du 4 novembre 1997 a été envoyée par le groupe Key à M. Schmunk, en qualité de président de Cypress. Elle prévoyait la constitution d'une nouvelle société par le groupe Key. L'équipe de gestion[5] devait être autorisée à acquérir jusqu'à concurrence de 25 pour 100 de la nouvelle société et à gagner une participation supplémentaire de 10 pour 100. La nouvelle société devait acquérir Properties de Cypress pour la somme de 29 400 000 dollars américains, dont 3 000 000 $ étaient payables au moyen d'un effet subordonné et dont le solde était payable en espèces au moment de la clôture. Le prix ne devait pas inclure les biens immeubles appartenant à Cypress. Le prix devait faire l'objet d'un rajustement en cas de changements dans le fonds de roulement.
+[25] La lettre du 4 novembre faisait mention de ce qui suit :
+[TRADUCTION]
+[...] Il est entendu que la présente lettre d'intention vise simplement à constater notre intention mutuelle touchant l'acquisition et la vente des actions de Madill, qu'elle ne règle pas toutes les questions devant faire l'objet d'une entente pour qu'il y ait exécution complète de l'acquisition et de la vente proposées, qu'elle ne constitue pas un engagement obligatoire en ce qui concerne l'acquisition et la vente proposées, et qu'elle n'a pas pour effet de créer [...]
+[26] Dans les actes de procédure, l'appelante a déclaré et l'intimée a reconnu que les sociétés de portefeuille n'avaient pas accepté la deuxième lettre d'intention. Je signale que, dans les faits, le double produit sous l'onglet 4, sous‑onglet 221, de la pièce R‑1 paraît faire état de l'acceptation des sociétés de portefeuille. Les parties doivent retenir que, devant la Cour, les affaires régies par la procédure générale sont instruites à la lumière des questions en litige telles qu'elles sont définies dans les actes de procédure. Les faits qui sont admis ne sont pas en litige. Pour les besoins de la présente instance, je dois donc considérer que les faits admis sont véridiques.
+[27] En ce qui concerne la forme de l'opération envisagée, la lettre mentionne :
+[TRADUCTION]
+Il est également entendu que, pour des raisons d'efficacité fiscale, la forme de l'opération pourrait changer après que nous aurons l'occasion d'examiner la présente proposition avec nos fiscalistes et nos experts‑comptables; [...]
+[28] Par suite d'un examen effectué par les conseillers fiscaux en décembre 1997 et en janvier 1998, la forme de l'opération envisagée est passée d'une vente d'actions à une vente d'actifs. L'entité devant être constituée pour acquérir l'entreprise de Properties devait être non plus une société par actions, mais plutôt une société de personnes.
+[29] Dans une note datée du 12 janvier 1998 adressée aux cinq autres membres du groupe des employés, M. Schmunk affirme que [TRADUCTION] « [...] tous les six actionnaires actuels se partageront proportionnellement les produits » (de l'opération avec le groupe Key).
+[30] En vue de la mise en oeuvre de l'entente envisagée dans la lettre d'intention du 4 novembre (dans sa nouvelle forme), deux sociétés par actions ont été constituées :
+a) L'appelante a été constituée en société le 26 février 1998 sous le régime des lois de la Colombie‑Britannique. Elle est devenue une filiale à 100 pour 100 de Properties.
+b) Ceco Holdings Ltd. (« Holdings ») a été constituée en société vers le 26 février 1998. Elle est également devenue une filiale à 100 pour 100 de Properties.
+[31] Immédiatement avant le 1er mars 1998, la juste valeur marchande globale des actifs de Properties, autres que les biens immeubles, les créances, l'encaisse et les charges payées d'avance, s'élevait à 35 461 674 $. Ces actifs consistaient en le matériel, la survaleur et les stocks. Le coût indiqué de ces actifs était de 15 831 350 $.
+[32] Le 1er mars 1998, Properties a vendu ses actifs à l'appelante pour la somme de 35 461 674 $ en ayant recours à l'article 85 de la Loi. Properties et l'appelante ont conjointement choisi la somme de 17 123 002 $ en application du paragraphe 85(1). En contrepartie de la vente des actifs, Properties a obtenu de l'appelante des billets à ordre (les « billets »), la prise en charge d'une dette et de l'argent comptant, totalisant une juste valeur marchande globale de 15 972 568 $, ainsi que des actions privilégiées de l'appelante dont la juste valeur marchande globale se chiffrait à 19 489 106 $, pour une somme totale de 35 461 674 $. Immédiatement après le roulement en vertu de l'article 85, la juste valeur marchande globale des actifs était de 35 461 674 $, et le coût de ces actifs pour l'appelante était de 17 123 002 $.
+[33] Le 1er mars 1998, Properties a vendu à l'appelante toutes ses créances, d'une valeur nominale de 3 571 720 $, pour la somme de 3 469 260 $, payable au moyen d'un billet à ordre. Elle a fait un choix en application de l'article 22 relativement aux créances.
+[34] Immédiatement avant le 1er mars 1998 et pendant toute l'année d'imposition 1999 de l'appelante, SML Holdings Corp. (« SMLH ») était une société du Delaware (É.‑U.) et une filiale directe ou indirecte du groupe Key. SML Operations (Canada) Ltd. (« SMLO ») a été constituée en société le 24 février 1998 sous le régime des lois de l'Ontario. Immédiatement avant le 1er mars 1998 et pendant toute l'année d'imposition 1999 de l'appelante, les actions de SMLO appartenaient à SMLH.
+[35] L'appelante et SMLO ont convenu d'exploiter, à partir du 1er mars 1998, à titre de société de personnes dénommée Madill Equipment Canada (la « société de personnes ») une entreprise de fabrication et de vente de matériel d'exploitation forestière.
+[36] En date du 1er mars 1998, l'appelante a remis la somme de 500 000 dollars américains et SMLO a remis la somme de 1 500 000 dollars américains à la société de personnes. En contrepartie, l'appelante a reçu 53 125 parts ordinaires et 398 parts privilégiées de la société de personnes. SMLO a reçu 150 000 parts ordinaires et 1 125 parts privilégiées.
+[37] Ensuite, le 1er mars 1998, l'appelante a vendu ses actifs à la société de personnes pour la somme de 35 461 674 $ en se prévalant du paragraphe 97(2) de la Loi. Comme il a déjà été signalé, les parties ont choisi la somme de 17 123 002 $ et l'appelante a obtenu de la société de personnes de l'argent comptant, des billets à ordre et la prise en charge d'une dette pour un total de 16 848 600 $. Elle a en outre reçu une part privilégiée de catégorie « F » de la société de personnes évaluée à 18 613 074 $. L'appelante a déclaré cette opération en conséquence.
+[38] L'intimée a admis dans la réponse à l'avis d'appel que la juste valeur marchande de la part de catégorie « F » s'élevait à 18 613 074 $.
+[39] À ce stade‑ci, il est utile de signaler que l'alinéa 3.1g) du contrat de société de personnes visant Madill Equipment Canada — clause que j'ai qualifiée de mécanisme antirefoulement — prévoit ce qui suit :
+[TRADUCTION]
+g) Malgré toute indication contraire dans les présentes, si la société de personnes reçoit un paiement, quel qu'il soit, relativement à un quelconque titre privilégié détenu par la société de personnes (autre que les titres d'une filiale de la société de personnes ou les autres titres dans lesquels la société a investi un excédent de disponibilités), la société devra procéder à des distributions, en faveur des détenteurs de parts de catégorie « F »[6] (au prorata du nombre total de parts de catégorie « F » détenues par chacun de ces détenteurs), d'un montant total équivalant aux paiements reçus relativement aux titres privilégiés.
+[40] Le 1er mars 1998, la société de personnes disposait d'au moins 18 726 561 $ en espèces, soit le prix de souscription payé par SML Operations pour les parts de catégorie « E » de la société de personnes et les apports en capital faits par les associés.
+[41] Le 2 mars 1998, la société a souscrit à 18 726 561 actions privilégiées de catégorie « A » de Holdings (les « actions privilégiées de Holdings »), donnant droit à un dividende de 6 pour 100, sans droit de vote, non rachetables au gré du porteur, à dividende non cumulatif, pour la somme en espèces de 18 726 561 $ versée à Holdings. Holdings, on s'en souviendra, était la société soeur nouvellement constituée de l'appelante.
+[42] Je signale en passant qu'il est plutôt difficile d'imaginer pourquoi une personne intelligente ou une société de personnes consentirait à débourser de l'argent pour acheter des actions privilégiées d'une société nouvellement constituée alors même que cette personne a déjà renoncé au droit de conserver les paiements qu'elle pourrait recevoir au titre de ces actions. En outre, rien ne permettait de penser que Holdings avait exploité une quelconque entreprise durant sa brève existence. De même, rien ne permettait de penser qu'on projetait d'entreprendre des activités commerciales. Il semble qu'il était peu vraisemblable que des dividendes soient un jour versés.
+[43] Voici certaines des hypothèses de fait sur lesquelles le ministre s'est appuyé lorsqu'il a établi la cotisation visée par le présent appel :
+[TRADUCTION]
+1) Les conditions afférentes aux actions privilégiées de Holdings sont telles que leur juste valeur marchande est bien moindre que le prix payé pour elles.
+2) La juste valeur marchande des actions privilégiées de Holdings n'excède pas 1 872 656 $.
+3) Le 6 mars 1998, Holdings a souscrit aux actions privilégiées suivantes de catégorie « A » des sociétés de portefeuille (les « actions privilégiées des sociétés de portefeuille »), donnant droit à un dividende de 6 pour 100, sans droit de vote, non rachetables au gré du porteur, à dividende non cumulatif, pour la somme en espèces de 18 726 561 $ payée aux sociétés de portefeuille :
+Raison sociale
+% du montant
+Nombre d'actions
+Montant
+Klee‑Wyck
+8,57
+1 337 675
+1 337 675 $
+Kamyn
+7,14
+1 605 203
+1 605 203 $
+Dorjola
+17,71
+3 317 224
+3 317 224 $
+Cove
+21,14
+3 959 319
+3 959 319 $
+Seata
+24,28
+4 547 821
+4 547 821 $
+Keltar
+21,14
+3 959 319
+3 959 319 $
+Total
+100 %
+18 726 561
+18 726 561 $
+4) Les conditions afférentes aux actions privilégiées des sociétés de portefeuille sont telles que leur juste valeur marchande est bien moindre que le prix payé pour elles.
+5) La juste valeur marchande des actions privilégiées des sociétés de portefeuille n'excède pas 1 872 656 $.
+6) Entre 1998 et 2001, la société de personnes n'a reçu aucun dividende au titre des actions privilégiées de Holdings.
+Ces hypothèses n'ont pas été contestées.
+[44] Il est admis que les sociétés de portefeuille n'ont jamais versé de dividende à Holdings au titre de leurs actions privilégiées ni jamais racheté celles‑ci. En réalité, Holdings servait d'intermédiaire pour faciliter le transfert de la somme de 18 726 561 $ de la société de personnes aux sociétés de portefeuille. Holdings permettait en outre à l'appelante d'affirmer qu'elle n'avait reçu aucune part de la contrepartie payée par la société de personnes pour acquérir les actifs (dans l'éventualité où le prix de souscription payé pour les actions privilégiées de Holdings serait considéré comme une soulte déguisée).
+[45] L'appelante a évidemment contesté d'autres hypothèses formulées par le ministre, notamment :
+[TRADUCTION]
+La somme de 18 726 561 $ que la société de personnes a versée à Holdings le 2 mars 1998 pour la souscription des actions privilégiées constitue, au regard de l'appelante, une contrepartie en espèces additionnelle lors du roulement en vertu du paragraphe 97(2).
+Avec l'accord de l'appelante, la société de personnes a payé à Holdings la somme de 18 726 561 $ à titre d'avantage que l'appelante désirait voir accorder à Holdings.
+Si le paiement avait été fait directement à l'appelante, la somme aurait été imposable entre les mains de cette dernière à titre de produit additionnel reçu lors du roulement en vertu du paragraphe 97(2) en faveur de la société de personnes.
+[46] Après la clôture de la vente à la société de personnes, vente qui fait l'objet de la cotisation visée par le présent appel, la rémunération au résultat mentionnée au paragraphe 20 des présents motifs a été payée. Dans une lettre adressée à M. Schmunk au sujet de cette rémunération, Exvere précise ce qui suit :
+[TRADUCTION]
+Nous espérons que, pour apprécier notre travail, vous tiendrez compte du fait que vos actionnaires ont reçu une somme nette de 27 000 000 dollars américains pour 75 pour 100 de S. Madill, Ltd. Nous sommes très fiers de ce résultat et nous croyons que notre assistance au chapitre de la mise en marché et de la négociation a grandement contribué à votre succès.
+[47] Gilbert Schmunk a témoigné lors de l'audition de l'appel. Il occupait plusieurs charges, notamment celles de président de la société de personnes, de l'appelante, de Properties, de Cypress Equipment Ltd. et de Seata.
+[48] Monsieur Schmunk a admis que les changements apportés à la structure de l'opération — lesquels sont mentionnés dans la lettre d'intention datée du 4 novembre — pour transformer la vente d'actions en une vente d'actifs visaient à augmenter au maximum le produit après impôt des actionnaires (les employés).
+[49] De plus, M. Schmunk a reconnu que les opérations suivantes faisaient partie d'une série et devaient, par suite de consultations avec des conseillers fiscaux, avoir lieu dans l'ordre suivant :
+a) Ayant reçu une entreprise de 35 000 000 $ le 1er mars 1998 de Properties, l'appelante a vendu cette entreprise à la société de personnes.
+b) L'appelante a reçu la somme de 17 000 000 $ sous forme d'espèces, de billets à ordre et de la prise en charge d'une dette ainsi que d'une part de catégorie « F » évaluée à 18 700 000 $.
+c) Le lendemain, la société de personnes a acheté des actions privilégiées de Holdings pour la somme de 18 726 561 $.
+[50] Monsieur Schmunk a également reconnu que la « stratégie » adoptée reposait notamment sur le fait que la valeur devant être assignée à la part de catégorie « F » au moment du choix devait être payée par la société de personnes à Holdings. Il a convenu que Holdings était une façon d'obtenir le produit de la vente visé par le report d'impôt et de le distribuer aux sociétés de portefeuille. Il a en outre admis que l'un des objectifs sous‑jacents à la série d'opérations poursuivis par les employés était de retirer la valeur de l'entreprise de sorte qu'elle ne relève plus du contrôle de la société de personnes.
+[51] L'appelante a avancé diverses raisons pour expliquer le transfert de la somme de 18 726 561 $ de la société de personnes aux sociétés de portefeuille. L'avis d'appel laisse entendre qu'il s'agissait de protéger [TRADUCTION] « une somme en espèces équivalant à la juste valeur marchande de la part de catégorie « F », laquelle correspondait au produit de la vente visé par le report d'impôt », des créanciers de la société de personnes. Cela n'explique pas pourquoi on a utilisé Holdings de manière à ce que le flux monétaire contourne l'appelante et parvienne aux sociétés de portefeuille. Monsieur Schmunk n'a pas réussi à expliquer le rôle de Holdings et des actions privilégiées que cette dernière a émises en faveur de la société de personnes, sauf pour convenir du fait que ces mesures avaient été prises sur l'avis de ses conseillers fiscaux.
+[52] Monsieur Schmunk a ensuite signalé que l'argent acheminé jusqu'aux sociétés de portefeuille pouvait être détenu par ces dernières puis investi à nouveau dans la société de personnes après le rachat des actions privilégiées. Il a reconnu que ce processus devait être avalisé par les sociétés de portefeuille. Il n'existait aucun contrat écrit obligeant ces dernières à agir ainsi. Il y aurait seulement eu, selon ses dires, une « entente ». Dans les faits, il n'en demeure pas moins qu'aucun réinvestissement de ce genre n'a encore eu lieu. Cette partie du témoignage de M. Schmunk était, selon moi, fallacieuse et ne constituait qu'un simple raisonnement ex post facto.
+[53] La Cour doit se prononcer sur trois points :
+a) Le paiement de 18 726 561 $ versé à Holdings par la société de personnes le 2 mars 1998 constituait‑il une contrepartie additionnelle (autre qu'une participation dans la société de personnes) « reçue » par l'appelante et visée par le paragraphe 97(2) et l'alinéa 85(1)b) de la Loi?
+b) Le paiement versé à Holdings par la société de personnes devait‑il être inclus dans le revenu de l'appelante suivant le paragraphe 56(2) de la Loi?
+c) L'article 245 de la Loi s'applique‑t‑il?
+[54] En ce qui concerne la première question, l'intimée invoque la thèse suivante : le fait que la société de personnes a en apparence versé le paiement de 18 700 000 $ à Holdings à titre de contrepartie pour les actions privilégiées de Holdings et non comme contrepartie additionnelle à l'appelante pour les actifs n'est pas concluant. Selon l'avocat de l'intimée, la « véritable nature » du paiement de 18 700 000 $ est celle d'une contrepartie additionnelle lors du roulement en vertu du paragraphe 97(2). À l'appui de cette assertion, il renvoie à certaines décisions[7] intéressant des roulements en vertu du paragraphe 97(2) dans lesquelles les tribunaux ont conclu que des paiements ultérieurs constituaient une contrepartie additionnelle pour les biens transférés.
+[55] À mon avis, il existe au moins deux raisons justifiant le rejet de cette assertion. Premièrement, l'intimée a admis que les actifs ont été vendus à la société de personnes pour la somme de 35 461 674 $ et qu'en contrepartie, l'appelante a reçu une soulte d'une juste valeur marchande globale de 16 848 600 $ et une part de catégorie « F » d'une juste valeur marchande de 18 613 074 $. Un simple calcul mathématique permet de constater qu'il est impossible d'ajouter une contrepartie additionnelle, aussi peu élevée soit‑elle, lorsque la forme juridique des opérations est retenue. Il est vrai qu'un paiement additionnel a été effectué par la société de personnes, mais l'admission faite par l'intimée m'empêche de conclure que ce paiement constituait une contrepartie pour la vente des actifs. Deuxièmement, dans les décisions invoquées, on semble préférer le fond supposé des opérations plutôt que leur forme. Or, cette approche choisie par les tribunaux ne peut plus être suivie selon l'arrêt Shell Canada Limitée c. Canada[8] de la Cour suprême du Canada, dans lequel on affirme :
+[...] Sauf disposition contraire de la Loi, le contribuable a le droit d'être imposé en fonction de ce qu'il a fait, et non de ce qu'il aurait pu faire et encore moins de ce qu'un contribuable moins habile aurait fait.
+[...] en l'absence de dispositions législatives expresses contraires, le contribuable peut diriger ses affaires de façon à réduire son obligation fiscale : [...] Le tribunal qui adopte sans réserve une démarche fondée sur « l'effet économique » fait indirectement ce que, selon la jurisprudence constante de notre Cour, le législateur n'a pas voulu que la Loi fasse directement.
+[56] Ensuite, l'intimée a fait valoir que le paiement de 18 726 561 $ versé par la société de personnes à Holdings devait être inclus dans le revenu de l'appelante en application du paragraphe 56(2) de la Loi. On a soutenu que le paiement a été fait suivant les instructions ou avec l'accord de l'appelante au profit de l'appelante ou à titre d'avantage que l'appelante désirait voir accorder à Holdings.
+[57] Le paragraphe 56(2) peut s'appliquer lorsque quatre conditions sont réunies :
+(1) le paiement doit être fait à une autre personne que le contribuable à l'égard duquel une nouvelle cotisation est établie;
+(2) la répartition doit être faite suivant les instructions ou avec l'accord du contribuable à l'égard duquel une nouvelle cotisation est établie;
+(3) le paiement doit être fait au profit du contribuable à l'égard duquel une nouvelle cotisation est établie ou à une autre personne à titre d'avantage que ce contribuable souhaitait voir accorder à cette autre personne;
+(4) le paiement aurait été inclus dans le revenu du contribuable à l'égard duquel une nouvelle cotisation est établie si ce dernier l'avait reçu lui‑même[9].
+[58] L'avocat de l'intimée a avancé que, suivant les instructions de l'appelante, la société de personnes a payé la somme de 18 726 561 $ à Holdings, non à l'appelante, et que cette somme est égale au produit additionnel qui aurait autrement été versé à l'appelante en contrepartie des actifs. Cet argument repose sur la prémisse voulant qu'il ait fait partie du projet conçu par les employés ou pour leur compte qu'une contrepartie additionnelle soit remise à Holdings plutôt qu'à l'appelante afin d'éviter l'impôt auquel cette dernière aurait autrement été assujettie.
+[59] Le paragraphe 56(2) peut bien s'appliquer dans le cas où une personne ayant vendu un bien fait en sorte que la contrepartie qu'elle aurait autrement reçue à titre de venderesse soit payée à un bénéficiaire désigné et où la quatrième condition est remplie. Or, en l'espèce, comme il est mentionné plus haut, on a admis dans les actes de procédure que la valeur totale de la soulte et de la part de catégorie « F » reçues par l'appelante le 1er mars correspondait au prix de vente des actifs vendus à la société de personnes. Je le répète, il était impossible d'y ajouter la contrepartie additionnelle que l'appelante, selon l'intimée, aurait acheminée à Holdings.
+[60] Il ne fait aucun doute que l'appelante souhaitait éviter l'impôt auquel elle aurait été assujettie si elle avait choisi de recevoir, en contrepartie de la vente des actifs, la soulte de 18 700 000 $ en sus de la part de catégorie « F ». Cependant, elle n'a pas fait ce choix. Le paragraphe 56(2) n'est d'aucune utilité à l'intimée. Cette disposition porte sur le détournement de paiements d'argent, mais elle n'a pas pour effet de changer la nature ou la qualité des paiements. On ne peut se servir du fond supposé de l'opération pour écarter la souscription des actions privilégiées de Holdings.
+[61] Enfin, je me penche sur l'article 245 de la Loi. Afin de placer cette disposition dans son contexte, je renvoie au paragraphe 1 des motifs du jugement prononcés par la Cour suprême du Canada dans l'arrêt Hypothèques Trustco Canada c. Canada, [2005] 2 R.C.S. 601, 2005 CSC 54, où la Cour déclare :
+[...] l'interaction entre la règle générale anti‑évitement (« RGAÉ ») et l'application de dispositions plus précises de la Loi de l'impôt sur le revenu [...]. La Loi permet toujours la réduction maximale légitime de l'impôt, ce qui oblige habituellement à déterminer si le contribuable s'est conformé au libellé des dispositions invoquées pour obtenir l'avantage fiscal. À cette formule, la RGAÉ a superposé une interdiction d'évitement fiscal abusif, de sorte que l'application littérale de certaines dispositions de la Loi peut être perçue comme étant abusive à la lumière de leur contexte et de leur objet.
+[62] L'intimée a présenté son argument en fonction des trois étapes que comporte l'application de la règle générale anti‑évitement (la « RGAÉ ») :
+[...] La première étape consiste à déterminer s'il existe un « avantage fiscal » découlant d'une « opération » au sens des par. 245(1) et (2). La deuxième étape consiste à déterminer si l'opération constitue une opération d'évitement visée par le par. 245(3), en ce sens qu'elle n'a pas été « principalement effectuée pour des objets véritables — l'obtention de l'avantage fiscal n'étant pas considérée comme un objet véritable ». La troisième étape consiste à déterminer si l'opération d'évitement est abusive au sens du par. 245(4). Les trois conditions doivent être remplies pour que la RGAÉ permette de supprimer un avantage fiscal[10].
+[63] Selon l'intimée, l'avantage fiscal retiré par l'appelante consistait en le report de l'impôt afférent à la contrepartie additionnelle en espèces reçue par suite de l'émission des actions privilégiées de Holdings, c.‑à‑d. en la réduction de l'impôt sur le revenu payable par l'appelante au titre de la vente de son entreprise.
+[64] L'appelante a reconnu que, comme l'essence même du roulement en vertu du paragraphe 97(2) est la réduction de l'impôt qu'un vendeur devrait autrement payer relativement à la vente de ses biens, elle a reçu un avantage fiscal au titre du roulement en vertu du paragraphe 97(2).
+[65] L'intimée a fait valoir que les opérations suivantes constituaient des opérations d'évitement faisant partie d'une série d'opérations qui ont, directement ou indirectement, donné lieu à un avantage fiscal pour l'appelante, et que ces opérations n'avaient pas principalement été effectuées pour atteindre un objet véritable autre que l'obtention d'un avantage fiscal, en vertu des paragraphes 245(1) et 245(3) :
+a) le roulement des actifs de l'appelante à la société de personnes et le choix effectué en application du paragraphe 97(2);
+b) l'acquisition et l'émission des actions privilégiées de Holdings;
+c) l'acquisition et l'émission des actions privilégiées des sociétés de portefeuille.
+[66] À la lumière de la preuve, il ne fait tout simplement aucun doute que les opérations faisaient partie d'une série d'opérations. Elles ont été élaborées et ordonnées pour extraire la valeur de la contrepartie attribuée à la part de catégorie « F » de la société de personnes et faire en sorte que cette somme contourne l'appelante et parvienne aux sociétés de portefeuille.
+[67] L'avocat a affirmé que l'appelante souhaitait utiliser le roulement en vertu du paragraphe 97(2) pour reporter son impôt immédiat sur 18 600 000 $ des 18 700 000 $ de sorte que les sociétés de portefeuille aient plus d'argent à investir dans la société de personnes. Selon lui, il s'agissait donc d'un objet véritable de nature non fiscale et il n'y a pas eu d'opération d'évitement. L'avocat a laissé entendre que cette situation était analogue à celle exposée dans l'exemple relatif au REÉR qui est donné au paragraphe 33 des motifs du jugement prononcés par la Cour suprême du Canada dans l'arrêt Hypothèques Trustco Canada, précité.
+[68] À mon avis, il ressort sans équivoque de la preuve que la série d'opérations mentionnée au paragraphe 65 faisait partie d'une série de mesures entreprises exclusivement en vue de reporter l'impôt sur la partie du prix de vente correspondant à la part de catégorie « F ».
+[69] L'appelante a avancé que la direction du groupe Key et celle de Ceco croyaient toutes deux que la société de personnes offrait des perspectives de croissance future appréciables qui nécessiteraient des investissements en espèces, et que l'objectif principal était de permettre l'apport de nouveaux investissements dans la société de personnes d'une manière efficace sur le plan fiscal.
+[70] Monsieur Schmunk est la seule personne qui a été appelée à témoigner sur ce point. Je n'estime pas que son témoignage concernant d'éventuels réinvestissements était digne de foi. La décision de structurer l'opération de la façon qui a finalement été choisie a été prise après consultation avec des conseillers fiscaux. Aucun témoin du groupe Key n'a été appelé à témoigner du fait qu'on ait à un quelconque moment envisagé sérieusement que les sociétés de portefeuille investissent à nouveau dans la société de personnes. Même si j'accepte l'assertion de l'avocat voulant que l'un des principaux décideurs du groupe Key soit décédé, il serait étonnant qu'aucun autre dirigeant informé du groupe Key n'ait pu témoigner. Aucun des autres membres du groupe des employés n'a été appelé à témoigner et nul n'a laissé entendre que l'un ou plusieurs d'entre eux n'étaient pas disponibles. Enfin, je signale que l'objectif allégué par M. Schmunk n'a jamais été étayé par une preuve convaincante de l'intention supposée. Aucune mesure manifeste n'a été prise pour mettre cet objectif en oeuvre. À mon sens, l'alinéa 245(3)b) de la Loi ne peut venir en aide à l'appelante.
+[71] La dernière étape de l'analyse fondée sur la RGAÉ consiste à trancher la question de savoir si l'opération d'évitement entraîne un abus selon le paragraphe 245(4), c'est‑à‑dire si l'avantage fiscal recherché est compatible avec l'objet et l'esprit des dispositions légales applicables. Il faut donc examiner l'économie de la Loi, les dispositions légales pertinentes ainsi que les aides extrinsèques admissibles.
+[72] L'analyse textuelle du paragraphe 97(2) ne soulève aucune difficulté. Il s'agit d'une disposition qui prévoit un roulement facultatif permettant le transfert d'un bien à une société de personnes avec report d'impôt à la condition que l'auteur du transfert n'en tire pas une contrepartie, autre que des actions (une soulte) plus élevée que le coût du bien transféré. Le contexte immédiat est le paragraphe 97(1), lequel devrait autrement s'appliquer de sorte que l'acquisition soit réputée avoir été effectuée à la juste valeur marchande, ce qui pourrait entraîner la reconnaissance d'un gain à des fins fiscales.
+[73] La permission accordée au paragraphe 97(2) de reporter l'impôt sur un gain a son prix. L'auteur bien connu Vern Krishna explique cette situation de la façon suivante[11] :
+[TRADUCTION]
+b) — La somme faisant l'objet du choix ne peut être inférieure à la soulte
+Deuxièmement, la somme choisie ne peut être moindre que la valeur de la contrepartie, autre que des actions (la « soulte »), reçue de la société acquéresse. Cette règle définit la limite inférieure à laquelle le choix est assujetti. Lorsque la somme choisie est moindre que la valeur de la soulte reçue, la Loi prévoit que la somme choisie est réputée être la valeur de la soulte. Cette limite a pour objet d'empêcher le contribuable de réellement réaliser et retirer la valeur économique d'un gain sans parallèlement reconnaître le gain à des fins fiscales.
+[74] Dans la décision Banque Continentale du Canada c. La Reine[12], le juge Bowman (tel était alors son titre) explique l'objet du paragraphe 97(2) (sinon l'esprit) en ces termes :
+La réponse à la question de savoir quel est l'impôt dû, dans des circonstances données, dépend naturellement des termes employés dans la Loi qui l'édicte. Lorsqu'il est difficile de s'assurer du sens exact de ces termes, il peut être utile d'examiner laquelle, des deux interprétations que l'on soutient, est la plus susceptible de produire des effets compatibles avec le but évident recherché par le législateur.
+Quel sont donc « l'objet et l'esprit » du paragraphe 97(2)? Je ne sais pas avec certitude quel est son esprit, si tant est qu'il existe — la notion d'« esprit » est assez floue — mais son objet semble assez clair. Il vise à permettre au contribuable de transférer des éléments d'actif à une société en contrepartie d'une participation dans la société sans déclencher le résultat fiscal immédiat qu'un tel transfert entraînerait normalement. L'impôt n'est pas évité, mais différé, et l'impôt éventuel est conservé au sein de la société jusqu'à la disposition des éléments d'actif, sauf si, évidemment, un second transfert libre d'impôt est par la suite effectué en faveur d'une corporation en vertu de l'article 85. Ce report n'est pas obtenu sans un certain coût caché. Les éléments d'actif détenus au sein de la société et la participation dans la société ont, pour l'application de la Loi de l'impôt sur le revenu, un coût de base inférieur à celui qu'ils auraient eu si aucun formulaire de choix n'avait été produit en vertu du paragraphe 97(2). Il peut s'ensuivre éventuellement une double imposition, mais les contribuables en sont normalement informés par leurs conseillers et sont prêts à l'accepter. La prémisse sur laquelle les dispositions relatives aux transferts libres d'impôt de l'article 85 et du paragraphe 97(2) semblent reposer est que lorsqu'un contribuable transfère des éléments d'actif à une corporation ou à une société et qu'il reçoit en contrepartie des actions ou une participation dans une société, selon le cas, pour la partie de la valeur des éléments d'actif qui excède le « coût indiqué », la véritable situation économique du contribuable ne s'est pas améliorée. L'intérêt dans les éléments d'actif est simplement détenu par quelqu'un d'autre.
+[75] Pour trancher la question de savoir si l'opération entraîne un abus en l'espèce, il faut se demander si, à la clôture de la série d'opérations, on peut affirmer que la somme choisie, soit 17 123 002 $, est supérieure à la soulte, qui correspond à 16 848 600 $ selon les allégations de l'appelante, ou à 16 848 600 $ plus la somme de 18 613 074 $ attribuée à la part de catégorie « F », selon les allégations de l'intimée.
+[76] Si l'intimée a raison, l'appelante aura réalisé et retiré la valeur économique du gain contrairement à l'objet des paragraphes 85(1) et 97(2).
+[77] L'appelante a fait valoir ce qui suit :
+[TRADUCTION]
+L'intimée a admis que, lorsque Operations a fourni des actifs d'une valeur de 35 400 000 $, elle a reçu en retour une soulte d'une valeur de 16 800 000 $ ainsi qu'une part de catégorie « F » d'une valeur de 18 600 000 $. L'intimée souhaite maintenant traiter Operations comme si elle avait reçu une somme additionnelle d'une valeur de 18 700 000 $ à titre de contrepartie pour les actifs; Operations aurait donc obtenu une contrepartie d'une valeur de 54 100 000 $ pour des biens valant seulement 35 400 000 $. Il va de soi que cela est impossible. La thèse avancée par l'intimée comporte des failles importantes. L'appel devrait être accueilli.
+[78] Cet argument repose sur l'hypothèse voulant que la part de catégorie « F » dans la société de personnes soit une participation dans la société de personnes en vertu du paragraphe 97(2). À strictement parler, c'était le cas. Dans la réalité, toutefois, elle n'était que symbolique. En pratique, elle ne constituait rien de plus qu'un engagement à payer la somme de 18 700 000 $ pour les actions privilégiées de Holdings, lesquelles n'avaient aucune valeur pratique pour la société de personnes en raison du contrat de société de personnes.
+[79] Je déduis qu'il existait un tel engagement à la lumière des événements qui ont eu lieu. Le fait que le prix de souscription payé par la société de personnes pour les actions privilégiées de Holdings et la valeur de la part de catégorie « F » étaient presque identiques ne peut guère être considéré comme une coïncidence. Comme il est mentionné plus haut, l'alinéa 3.1g) du contrat de société de personnes empêche la société de retenir un [TRADUCTION] « paiement, quel qu'il soit, relativement à ces titres ». Dans ce rôle symbolique, la part de catégorie « F » valait manifestement 18 700 000 $ pendant la brève période antérieure à l'achat des actions privilégiées de Holdings et au paiement de la contrepartie qui a remplacé la part de catégorie « F ». Selon moi, le recours aux opérations d'évitement pour aboutir à un roulement et faire en sorte que le « produit visé par le report d'impôt » soit acheminé aux sociétés de portefeuille constitue sans équivoque un emploi abusif du paragraphe 97(2).
+[80] L'appel serait donc rejeté si ce n'était du fait qu'un redressement doit être apporté afin de restreindre la soulte à la somme de 18 613 074 $, soit la valeur convenue de la part de catégorie « F ». L'appel sera donc accueilli avec dépens en faveur de l'intimée, et la nouvelle cotisation sera déférée à l'intimée pour qu'elle procède à un redressement en fonction de la valeur convenue de la soulte. L'appelante n'a droit à aucune autre réparation.
+Signé à Toronto (Ontario), ce 12e jour de juin 2006.
+« Michael J. Bonner »
+Le juge Bonner
+Traduction certifiée conforme
+ce 31e jour d'août 2007.
+Yves Bellefeuille, réviseur
+ANNEXE A
+97(1) Apport de biens dans une société de personnes — Lorsque, après 1971, une société de personnes a acquis des biens auprès d'un contribuable qui, immédiatement après le moment de l'acquisition, faisait partie de la société de personnes, cette dernière est réputée les avoir acquis à un prix égal à leur juste valeur marchande à ce moment et le contribuable est réputé en avoir disposé et en avoir tiré un produit égal à cette juste valeur marchande.
+(2) Choix par des associés – Malgré les autres dispositions de la présente loi, sauf le paragraphe 85(5.1), lorsque, à un moment donné après le 12 novembre 1981, un contribuable a disposé d'une de ses immobilisations, d'un avoir minier canadien, d'un avoir minier étranger, d'une immobilisation admissible ou d'un bien à porter à l'inventaire, en faveur d'une société de personnes qui, immédiatement après ce moment, était une société de personnes canadienne dont le contribuable était un associé, et que le contribuable et tous les autres associés de la société de personnes ont fait conjointement un choix à cet égard selon le formulaire prescrit et dans le délai mentionné au paragraphe 96(4), les règles suivantes s'appliquent :
+a) les alinéas 85(1)a) à f) s'appliquent à la disposition comme si la mention :
+(i) « pour la société » était remplacée par la mention « pour la société de personnes »,
+(ii) « autre que toutes actions du capital‑actions de la société ou un droit d'en recevoir » était remplacée par la mention « autre qu'une participation dans la société de personnes »,
+(iii) « actionnaire de la société » était remplacée par la mention « associé de la société de personnes »,
+(iv) « la société » était remplacée par la mention « tous les autres associés de la société de personnes »,
+(v) « à la société » était remplacée par la mention « à la société de personnes »;
+b) dans le calcul, à un moment donné après la disposition, du prix de base rajusté, pour le contribuable, de sa participation dans la société de personnes, immédiatement après la disposition :
+(i) il doit être ajouté l'excédent éventuel du produit que le contribuable a tiré de la disposition des biens sur la juste valeur marchande, au moment de la disposition, de la contrepartie (autre qu'une participation dans la société de personnes) reçue par le contribuable pour les biens,
+(ii) il doit être déduit l'excédent éventuel de la juste valeur marchande, au moment de la disposition, de la contrepartie (autre qu'une participation dans la société de personnes) reçue par le contribuable pour les biens dont il a ainsi disposé sur leur juste valeur marchande au moment de la disposition;
+c) lorsque les biens dont le contribuable a ainsi disposé en faveur de la société de personnes sont des biens canadiens imposables du contribuable, la participation dans la société de personnes qu'il a reçue en contrepartie est réputée être un bien canadien imposable du contribuable.
+(3) Associé détenant une participation majoritaire – Lorsque, après le 12 novembre 1981, un contribuable a disposé d'une immobilisation en faveur d'une société de personnes et que, immédiatement après la disposition, le contribuable était un associé détenant une participation majoritaire dans la société de personnes, et qu'il en aurait résulté, sans le présent paragraphe, une perte en capital pour le contribuable, les règles suivantes s'appliquent :
+a) malgré les autres dispositions de la présente loi, la perte en capital qui en résulte pour le contribuable est réputée être nulle;
+b) sauf dans le cas où le bien dont il est ainsi disposé constitue, immédiatement après la disposition, une dette qui est payable à la société de personnes par une société liée au contribuable ou par une société ou une société de personnes qui serait liée au contribuable si l'alinéa 80(2)j) s'appliquait dans le cadre du présent alinéa, est ajouté, dans le calcul, après la disposition, du prix de base rajusté pour le contribuable de sa participation dans la société de personnes immédiatement après la disposition, l'excédent éventuel du montant visé au sous‑alinéa (i) sur le montant visé au sous‑alinéa (ii) :
+(i) le coût indiqué, pour lui, immédiatement avant la disposition de l'immobilisation,
+(ii) le produit de disposition de l'immobilisation.
+(3.1) Présomption relative à la qualité d'associé détenant une participation majoritaire – Pour l'application du paragraphe (3), un contribuable est réputé être un associé détenant une participation majoritaire dans une société de personnes à un moment donné si l'une ou l'autre des conditions suivantes est remplie :
+a) le total de sa part, de la part de son conjoint et de la part d'une personne ou d'un groupe de personnes qui, directement ou indirectement, de quelque manière que ce soit, contrôlait le contribuable ou était contrôlé par celui‑ci, dans le revenu de la société de personnes tiré d'une source quelconque pour l'exercice de la société de personnes qui comprend ce moment, dépasse la moitié du revenu que la société de personnes a tiré, pour l'exercice, de cette source;
+b) le total de sa part, de la part de son conjoint et de la part d'une personne ou d'un groupe de personnes qui, directement ou indirectement, de quelque manière que ce soit, contrôlait le contribuable ou était contrôlé par celui‑ci, dans le montant total qui serait payé à tous les associés de la société de personnes (autrement qu'à titre de part d'un revenu quelconque de la société de personnes) si elle était liquidée à ce moment, dépasse la moitié de ce montant.
+(4) Cas où le coût en capital supporté par l'associé est supérieur au produit de disposition – Lorsque le paragraphe (2) s'appliquait à l'égard de biens amortissables acquis par une société de personnes auprès d'un contribuable qui, immédiatement après avoir disposé de ces biens, était un associé de la société de personnes et que le coût en capital supporté par le contribuable pour les biens dépasse le produit qu'il a tiré de leur disposition, pour l'application des articles 13 et 20 ainsi que des dispositions réglementaires prises en vertu de l'alinéa 20(1)a) :
+a) le coût en capital supporté par la société de personnes pour les biens est réputé être celui qui a été supporté par le contribuable pour ces mêmes biens;
+b) l'excédent est réputé avoir été admis en déduction en faveur de la société de personnes au titre des biens, en vertu des dispositions réglementaires prises en application de l'alinéa 20(1)a), dans le calcul de son revenu pour des années d'imposition antérieures à l'acquisition de ces biens par la société de personnes.
+85(1) Transfert d'un bien par un actionnaire à une société – Lorsqu'un contribuable a disposé, au cours d'une année d'imposition, d'un bien admissible en faveur d'une société canadienne imposable et pour une contrepartie comprenant des actions du capital‑actions de la société, et que le contribuable et la société en ont fait le choix sur le formulaire prescrit et conformément au paragraphe (6), les règles suivantes s'appliquent :
+a) la somme convenue entre le contribuable et la société dans le choix qu'ils ont fait relativement au bien est réputée être, pour le contribuable, le produit de disposition du bien et, pour la société, le coût du bien;
+b) sous réserve de l'alinéa c), lorsque la somme convenue entre le contribuable et la société dans le choix qu'ils ont fait relativement au bien est inférieure à la juste valeur marchande, au moment de la disposition, de la contrepartie de la disposition (autre que toutes actions du capital‑actions de la société ou un droit d'en recevoir), reçue par le contribuable la somme ainsi convenue est, quel qu'en soit le montant effectivement convenu entre eux, réputée être une somme égale à cette juste valeur marchande;
+c) lorsque la somme convenue entre le contribuable et la société dans le choix qu'ils ont fait relativement au bien est supérieure à la juste valeur marchande, au moment de la disposition, du bien dont il a été ainsi disposé, la somme ainsi convenue est, quel qu'en soit le montant effectivement convenu entre eux, réputée être une somme égale à cette juste valeur marchande;
+c.1) lorsque le bien était un bien à porter à l'inventaire, une immobilisation (sauf un bien amortissable d'une catégorie prescrite), un second fonds du compte de stabilisation du revenu net ou un bien qui est un bien admissible par l'effet des alinéas (1.1)g) ou g.1) et que la somme convenue entre le contribuable et la société dans le choix qu'ils ont fait relativement au bien est inférieure au moins élevé des montants suivants :
+(i) la juste valeur marchande du bien au moment de la disposition,
+(ii) le coût indiqué du bien, supporté par le contribuable, au moment de la disposition,
+la somme ainsi convenue entre eux est, quel qu'en soit le montant effectivement convenu, réputée être égale au moins élevé des montants visés aux sous‑alinéas (i) et (ii);
+c.2) sous réserve des alinéas b) et c) et malgré l'alinéa c.1), lorsque le contribuable exploite une entreprise agricole dont le revenu est calculé selon la méthode de comptabilité de caisse et que le bien consistait en biens à porter à l'inventaire dont la propriété était détenue dans le cadre de cette entreprise immédiatement avant la disposition du bien en faveur de la société :
+(i) la somme convenue entre le contribuable et la société dans leur choix concernant les biens à porter à l'inventaire achetés par le contribuable est réputée égale au résultat du calcul suivant :
+(A × B/C) + D
+où :
+A représente le montant qui serait inclus en application de l'alinéa 28(1)c) dans le calcul du revenu du contribuable pour sa dernière année d'imposition commençant avant la disposition si cette année se terminait immédiatement avant la disposition,
+B la valeur, déterminée en conformité avec le paragraphe 28(1.2), pour le contribuable, immédiatement avant la disposition, des biens à porter à l'inventaire achetés et visés par le choix,
+C la valeur, déterminée en conformité avec le paragraphe 28(1.2), de l'ensemble des biens à porter à l'inventaire du contribuable, qu'il a achetés et dont il était propriétaire dans le cadre de cette entreprise immédiatement avant la disposition,
+D tout montant supplémentaire désigné par le contribuable et la société relativement au bien,
+(ii) pour l'application du sous‑alinéa 28(1)a)(i), la disposition du bien et la réception du produit de disposition y afférent sont réputées s'être produites au moment de la disposition dans le cadre de l'exploitation de l'entreprise,
+(iii) pour l'application de l'article 28, lorsque la société est propriétaire du bien dans le cadre d'une entreprise agricole et que le revenu tiré de cette entreprise est calculé selon la méthode de comptabilité de caisse, les présomptions suivantes s'appliquent :
+(A) un montant égal au coût du bien pour la société est réputé avoir été payé par la société au moment de la disposition et dans le cadre de l'exploitation de cette entreprise,
+(B) la société est réputée avoir acheté le bien pour un montant égal à ce coût au moment de la disposition et dans le cadre de l'exploitation de cette entreprise;
+d) lorsque le bien était une immobilisation admissible relativement à une entreprise du contribuable et que la somme qui, sans le présent alinéa, serait le produit de disposition de ce bien est inférieure au moins élevé des montants suivants :
+(i) 4/3 du montant cumulatif des immobilisations admissibles du contribuable au titre de l'entreprise immédiatement avant la disposition,
+(ii) le coût du bien supporté par le contribuable,
+(iii) la juste valeur marchande du bien au moment de la disposition,
+la somme convenue entre le contribuable et la société dans le choix qu'ils ont fait relativement au bien est, quel qu'en soit le montant effectivement convenu entre eux, réputée être égale au moins élevé des montants visés aux sous‑alinéas (i) à (iii);
+d.1) pour calculer, après la disposition, le montant à inclure, en application de l'alinéa 14(1)b), dans le calcul du revenu de la société, le résultat du calcul suivant est ajouté au montant représentant par ailleurs l'élément Q de la formule applicable figurant à la définition de « montant cumulatif des immobilisations admissibles » au paragraphe 14(5) :
+(A x B/C) – 2(D - E)
+où :
+A représente cet élément, déterminé relativement à l'entreprise du contribuable immédiatement avant la disposition,
+B la juste valeur marchande, immédiatement avant la disposition, de l'immobilisation admissible dont le contribuable a disposé en faveur de la société,
+C la juste valeur marchande, immédiatement avant la disposition, de l'ensemble des immobilisations admissibles du contribuable relativement à l'entreprise,
+D le montant qui serait inclus, en application du paragraphe 14(1), dans le calcul du revenu du contribuable par suite de la disposition si, à la fois :
+(i) les montants représentés par les éléments C et D de la formule figurant au sous‑alinéa 14(1)a)(v) étaient nuls,
+(ii) l'alinéa 14(1)b) était remplacé par ce qui suit :
+« b) dans les autres cas, l'excédent est inclus dans le calcul du revenu du contribuable tiré de cette entreprise pour l'année, »
+E le montant qui serait inclus, en application du paragraphe 14(1), dans le calcul du revenu du contribuable par suite de la disposition si le montant représenté par l'élément D de la formule figurant à l'alinéa 14(1)a)(v) était nul;
+e) lorsque le bien était un bien amortissable d'une catégorie prescrite appartenant au contribuable et que la somme qui constituerait, sans le présent alinéa, le produit de disposition de ce bien est inférieure au moins élevé des montants suivants :
+(i) la fraction non amortie du coût en capital que le contribuable a supporté de tous les biens de cette catégorie immédiatement avant la disposition,
+(ii) le coût du bien supporté par le contribuable,
+(iii) la juste valeur marchande du bien au moment de la disposition,
+la somme convenue entre le contribuable et la société dans le choix qu'ils ont fait relativement au bien est, quel qu'en soit le montant effectivement convenu ainsi entre eux, réputée être égale au moins élevé des montants visés aux sous‑alinéas (i) à (iii);
+e.1) lorsqu'il est disposé en même temps de plusieurs biens qui sont tous des biens visés à l'alinéa d) ou tous des biens visés à l'alinéa e), l'alinéa d) ou e), selon le cas, s'applique comme s'il avait été disposé de chacun d'eux séparément, dans l'ordre désigné par le contribuable avant le moment fixé au paragraphe (6) pour la présentation d'un choix à l'égard de ces biens ou, si le contribuable n'a pas ainsi désigné cet ordre, dans l'ordre désigné par le ministre;
+e.2) en cas d'excédent de la juste valeur marchande du bien immédiatement avant la disposition sur le plus élevé des montants suivants :
+(i) la juste valeur marchande, immédiatement après la disposition, de la contrepartie reçue par le contribuable pour le bien dont il a disposé,
+(ii) la somme convenue entre le contribuable et la société dans le choix qu'ils ont fait relativement au bien, déterminée compte non tenu du présent alinéa,
+s'il est raisonnable de considérer une partie de cet excédent comme un avantage que le contribuable a voulu conférer à une personne qui lui est liée, à l'exclusion d'une société qui est une filiale à cent pour cent du contribuable immédiatement après la disposition, la somme convenue entre le contribuable et la société dans le choix qu'ils ont fait relativement au bien est, quelle que soit la somme effectivement convenue, réputée, sauf pour l'application des alinéas g) et h), être le total de la somme effectivement convenue et de cette partie de l'excédent;
+e.3) lorsque, en vertu de l'un des alinéas c.1), d) et e), la somme convenue entre le contribuable et la société dans le choix qu'ils ont fait relativement au bien (appelée « la somme choisie » au présent alinéa) serait réputée être supérieure ou inférieure à celle qui serait réputée, sous réserve de l'alinéa c), être la somme choisie en vertu de l'alinéa b), la somme choisie est réputée être égale au plus élevé des montants suivants :
+(i) la somme réputée, par l'alinéa c.1), d) ou e), selon le cas, être la somme choisie,
+(ii) la somme réputée, par l'alinéa b), être la somme choisie;
+e.4) si le bien est un bien amortissable d'une catégorie prescrite du contribuable et une voiture de tourisme dont le coût, pour le contribuable, est supérieur à 20 000 $ ou au montant qui peut être fixé par règlement et si le contribuable et la société ont un lien de dépendance, la somme convenue entre le contribuable et la société dans le choix qu'ils ont fait relativement au bien est réputée être un montant égal à la fraction non amortie du coût en capital de la catégorie, pour le contribuable, juste avant la disposition; toutefois, pour l'application du paragraphe 6(2), le coût de la voiture pour la société est réputé égal à sa juste valeur marchande juste avant la disposition;
+f) le coût, supporté par le contribuable, d'un bien particulier (autre que des actions du capital‑actions de la société ou le droit d'en recevoir) qu'il a reçu en contrepartie de la disposition, est réputé être égal au moins élevé des montants suivants :
+(i) la juste valeur marchande du bien particulier au moment de la disposition,
+(ii) la fraction de la juste valeur marchande, au moment de la disposition, du bien dont le contribuable a disposé en faveur de la société, représentée par le rapport entre :
+(A) d'une part, le montant déterminé en vertu du sous‑alinéa (i),
+(B) d'autre part, la juste valeur marchande, au moment de la disposition, des biens (autres que des actions du capital‑actions de la société ou le droit d'en recevoir) que le contribuable a reçus en contrepartie de la disposition;
+[...]
+56(2) Paiements indirects – Tout paiement ou transfert de biens fait, suivant les instructions ou avec l'accord d'un contribuable, à toute autre personne au profit du contribuable ou à titre d'avantage que le contribuable désirait voir accorder à l'autre personne — sauf la cession d'une partie d'une pension de retraite conformément à l'article 65.1 du Régime de pensions du Canada ou à une disposition comparable d'un régime provincial de pensions au sens de l'article 3 de cette loi ou d'un régime provincial de pensions visé par règlement — doit être inclus dans le calcul du revenu du contribuable dans la mesure où il le serait si ce paiement ou transfert avait été fait au contribuable.
+245(1) Définitions – Les définitions qui suivent s'appliquent au présent article.
+« attribut fiscal » S'agissant des attributs fiscaux d'une personne, revenu, revenu imposable ou revenu imposable gagné au Canada de cette personne, impôt ou autre montant payable par cette personne, ou montant qui lui est remboursable, en application de la présente loi, ainsi que tout montant à prendre en compte pour calculer, en application de la présente loi, le revenu, le revenu imposable, le revenu imposable gagné au Canada de cette personne ou l'impôt ou l'autre montant payable par cette personne ou le montant qui lui est remboursable.
+« avantage fiscal » Réduction, évitement ou report d'impôt ou d'un autre montant payable en application de la présente loi ou augmentation d'un remboursement d'impôt ou d'un autre montant visé par la présente loi.
+« opération » Sont assimilés à une opération une convention, un mécanisme ou un événement.
+(2) Disposition générale anti‑évitement – En cas d'opération d'évitement, les attributs fiscaux d'une personne doivent être déterminés de façon raisonnable dans les circonstances de façon à supprimer un avantage fiscal qui, sans le présent article, découlerait, directement ou indirectement, de cette opération ou d'une série d'opérations dont cette opération fait partie.
+(3) Opération d'évitement – L'opération d'évitement s'entend :
+a) soit de l'opération dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s'il est raisonnable de considérer que l'opération est principalement effectuée pour des objets véritables — l'obtention de l'avantage fiscal n'étant pas considérée comme un objet véritable;
+b) soit de l'opération qui fait partie d'une série d'opérations dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s'il est raisonnable de considérer que l'opération est principalement effectuée pour des objets véritables – l'obtention de l'avantage fiscal n'étant pas considérée comme un objet véritable.
+(4) Non‑application du par. (2) – Il est entendu que l'opération dont il est raisonnable de considérer qu'elle n'entraîne pas, directement ou indirectement, d'abus dans l'application des dispositions de la présente loi lue dans son ensemble – compte non tenu du présent article – n'est pas visée par le paragraphe (2).
+(5) Attributs fiscaux à déterminer – Sans préjudice de la portée générale du paragraphe (2), dans le cadre de la détermination des attributs fiscaux d'une personne de façon raisonnable dans les circonstances de façon à supprimer l'avantage fiscal qui, sans le présent article, découlerait, directement ou indirectement, d'une opération d'évitement :
+a) toute déduction dans le calcul de tout ou partie du revenu, du revenu imposable, du revenu imposable gagné au Canada ou de l'impôt payable peut être en totalité ou en partie admise ou refusée;
+b) tout ou partie de cette déduction ainsi que tout ou partie d'un revenu, d'une perte ou d'un autre montant peuvent être attribués à une personne;
+c) la nature d'un paiement ou d'un autre montant peut être qualifiée autrement;
+d) les effets fiscaux qui découleraient par ailleurs de l'application des autres dispositions de la présente loi peuvent ne pas être pris en compte.
+(6) Demande en vue de déterminer les attributs fiscaux – Dans les 180 jours suivant la mise à la poste d'un avis de cotisation, de nouvelle cotisation ou de cotisation supplémentaire, envoyé à une personne, qui tient compte du paragraphe (2) en ce qui concerne une opération, ou d'un avis concernant un montant déterminé en application du paragraphe 152(1.11) envoyé à une personne en ce qui concerne une opération, toute autre personne qu'une personne à laquelle un de ces avis a été envoyé a le droit de demander par écrit au ministre d'établir à son égard une cotisation, une nouvelle cotisation ou une cotisation supplémentaire en application du paragraphe (2) ou de déterminer un montant en application du paragraphe 152(1.11) en ce qui concerne l'opération.
+(7) Exception – Malgré les autres dispositions de la présente loi, les attributs fiscaux d'une personne, par suite de l'application du présent article, ne peuvent être déterminés que par avis de cotisation, de nouvelle cotisation ou de cotisation supplémentaire ou que par avis d'un montant déterminé en application du paragraphe 152(1.11), compte tenu du présent article.
+(8) Obligations du ministre – Sur réception d'une demande présentée par une personne conformément au paragraphe (6), le ministre doit, dès que possible, après avoir examiné la demande et malgré le paragraphe 152(4), établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire ou déterminer un montant en application du paragraphe 152(1.11), en se fondant sur la demande. Toutefois, une cotisation, une nouvelle cotisation ou une cotisation supplémentaire ne peut être établie, ni un montant déterminé, en application du présent paragraphe que s'il est raisonnable de considérer qu'ils concernent l'opération visée au paragraphe (6).
+RÉFÉRENCE :
+2006CCI256
+NO DU DOSSIER DE LA COUR :
+2004‑2878(IT)G
+INTITULÉ DE LA CAUSE :
+CECO OPERATIONS LTD. et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L'AUDIENCE :
+Le 26 octobre 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable Michael J. Bonner
+DATE DU JUGEMENT :
+Le 12 juin 2006
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Joel A. Nitikman
+Me Lynn Jenkins
+Avocats de l'intimée :
+Me Robert Carvalho, Me Susan Wong et Me Bruce Senkpiel
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me Joel A. Nitikman
+Me Lynn Jenkins
+Cabinet :
+Fraser Milner Casgrain
+Vancouver (Colombie‑Britannique)
+Pour l'intimée :
+Me John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] L'expression « soulte » est employée à la place des termes qui figurent dans la Loi, c'est‑à‑dire « autre qu'une participation dans la société de personnes » à l'article 97 et « autre que toutes actions du capital‑actions de la société ou un droit d'en recevoir » à l'article 85.
+[2] Il est difficile de réconcilier cette somme en dollars américains avec d'autres sommes en dollars canadiens mentionnées. L'avocat a tenté de le faire, mais sans succès.
+[3] Les employés ont utilisé l'expression [TRADUCTION] « valeur antérieure » pour désigner la valeur au moment pertinent visé par le présent examen.
+[4] Il est inutile d'examiner les faits antérieurs à 1996.
+[5] Tous les employés sauf M. Ollis, lequel souhaitait prendre sa retraite.
+[6] Malgré les mentions occasionnelles de 100 parts de catégorie « F », il n'est pas contesté qu'il n'existait qu'une seule part de cette catégorie.
+[7] Haro Pacific Enterprises Ltd. c. La Reine, C.F. 1re inst., no T‑2059‑86, 24 septembre 1990, 90 D.T.C. 6583, MDS Health Group Limited c. La Reine, C.C.I., no 93‑1250(IT)G, 17 juillet 1995, 96 D.T.C. 1324, conf. par C.A.F., no A‑478‑95, 7 novembre 1996, 97 D.T.C. 5009.
+[8] [1999] 3 R.C.S. 622.
+[9] Neuman c. Ministre du Revenu national, [1998] 1 R.C.S. 770, au paragraphe 32.
+[10] Hypothèques Trustco Canada, précité, au paragraphe 17.
+[11] Krishna, The Fundamentals of Canadian Income Tax, 8e édition.
+[12] C.C.I., no 91‑684(IT), 4 août 1994, 94 D.T.C. 1858.

@@ -1,0 +1,151 @@
+---
+title: "Couture v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30067/index.do"
+last_modified: "2010-05-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 233"
+citation2: ""
+neutral_citation: "2010 TCC 233"
+decision_date: "2010-05-03"
+language: "en"
+item_id: "30067"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7620
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:24:25.028000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5302b63ff0358a1f4cbc91c105af89a539ed38e5eb3df23c2da2a26bb435042e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Couture v. The Queen
+
+- Citation: 2010 TCC 233
+- Decision date: 2010-05-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7620, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Couture v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-03
+Neutral citation
+2010 TCC 233
+File numbers
+2009-3308(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3308(IT)I
+BETWEEN:
+PATRICIA COUTURE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Sylvie Grenier (2009-2986(IT)I), on March 10, 2010, at Sherbrooke, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the appellant:
+Francine Morin
+Counsel for the respondent:
+Marjolaine Breton
+____________________________________________________________________
+JUDGMENT
+The appeal from the redeterminations made under the Income Tax Act for the 2006 and 2007 base taxation years is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 3rd day of May 2010.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 17th day of June 2010
+Margarita Gorbounova, Translator
+Citation: 2010 TCC 233
+Date: 20100503
+Docket: 2009-3308(IT)I
+BETWEEN:
+PATRICIA COUTURE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+INTRODUCTION
+[1] The appellant is appealing from the redeterminations issued by the Minister of National Revenue (the Minister), according to which, for the period from June to November 2008, she was not the "eligible individual" within the meaning of section 122.6 of the Income Tax Act (ITA), and as a result, was not entitled to the Canada Child Tax Benefit (CCTB) in respect of the child P. because she was not P.’s mother. The Minister also determined that P.’s mother, Sylvie Grenier, was also not entitled to the CCTB for her son because she did not live with him during the period at issue. Ms. Grenier, P.'s mother, appealed the Minister's decision, and the two appeals were heard on common evidence.
+[2] The evidence shows that the Minister received a CCTB application in respect of P. from the appellant for the period starting on May 29, 2008. The CCTB Customer Service granted the benefit starting in June 2008. Then, Ms. Grenier received a notice of determination indicating that she was no longer entitled to the CCTB for her son because the benefit was given to the appellant. Ms. Grenier objected to the Minister's decision, according to which P. lived with the appellant in July 2008, while the appellant worked part time in the evening. Ms. Grenier claims that the appellant offered lodging to her son during the 2008–09 school year in order to allow P. to complete his fourth year of secondary school at the École secondaire de l’Escale in Asbestos. According to Ms. Grenier, her son P. had educational difficulties at his old school in Sherbrooke. According to her, P. wanted a fresh start at a school in the area where his father lived.
+[3] Ms. Grenier testified that she had continued to provide for her son’s needs while he lived at the appellant's home. She testified that she bought clothes and school supplies for P. at the beginning of the school year. She enrolled P. at the new school in Asbestos and was considered the contact person according to the school's records. Mr. Turcotte, P.'s father, corroborated the testimony of his former spouse, Ms. Grenier. In addition, he added that his son and he often had lunch together at a local snack bar near the appellant's house. He testified that he gave P. some spending money for small expenses. He confirmed that Ms. Grenier and he bought groceries for their son at least twice while he lived with the appellant. Mr. Turcotte claimed that he gave $80 to the appellant and performed small services for her in exchange for lodging his son. He stated that he had installed a fan for the appellant's stove and repaired her washing machine. He also testified that he had made arrangements to replace P.'s mother if she could not meet with the school staff when they asked her to. The documents from the École secondaire de l’Escale filed as Exhibit A-1-G indicate that P.'s mother had parental authority in respect of P. P.’s 2008–09 report card also indicated that the person responsible for him was his mother.
+[4] P. corroborated his parents' testimony in regard to the help and support they provided him during the period at issue.
+[5] The appellant testified that she had moved to Asbestos in May 2008. She had found a part-time job at a social club. She took steps to find a babysitter for her 12‑year‑old son. She met P.'s father in May 2008, and he indicated that his son P. might want to babysit the appellant's son. According to her, at first P. babysat her son at her house on weekends at the start of June. During these visits, he told the appellant that he did not want to return to live with his mother during the school year. The appellant lost her job at the end of June. P. continued living at the appellant's house during the summer. About mid-August 2008, the appellant confirmed to P. that he could stay at her house during the 2008–09 school year. P. moved his personal effects to the appellant's house around mid-August 2008 and stayed there until November 29, 2008, when he returned to his mother's house.
+[6] According to the appellant, it was Marie-Renée Ruel, a social worker at the Centre de jeunesse de Plessisville, who suggested that she apply for the CCTB for P. The appellant states that she does not understand why she is entitled to support from the provincial government, but not the federal government in regard to providing lodging to P. According to her, she provided for P.'s needs alone. He lived at her house during the period in question. P. had a schedule, curfew and bedtime. The appellant provided lunch to P. According to the appellant, P. very rarely visited his parents during the period at issue.
+ANALYSIS
+[7] The only issue in the instant case is whether the appellant owes the $1,583.25 that the Minister is claiming from her relative to the 2006 and 2007 base taxation years.
+[8] The relevant statutory provisions are sections 122.5, 122.6 and 122.61, as well as subsections 252(1) and (2) of the ITA.
+[9] In order to be an "eligible individual" to receive the CCTB, a taxpayer must meet the following three conditions:
+(a) reside with the qualified dependant,
+(b) be the parent of the qualified dependant, and
+(c) primarily fulfill the responsibility for the care and upbringing of the qualified dependant.
+Section 6302 of the Income Tax Regulations sets out the criteria for determining what constitutes care and upbringing of a dependant.
+[10] The ITA broadens the meaning of the word "child" and the word "parent".
+[11] Paragraph 252(1) of the ITA states that a person who is wholly dependent on the taxpayer for support and of whom the taxpayer has, in law or in fact, the custody and control is deemed to be that taxpayer's child. That taxpayer is deemed to be that child's parent in those circumstances.
+[12] It was admitted that the appellant is not P.'s mother. Accordingly, for the appellant to be considered a parent, P. must be wholly dependent on her for support and she must have had the custody and control of P. in fact. The Nouveau Petit Robert[1] defines the French word "entièrement" [entirely] as follows:
+[Translation]
+adv. — end of 12th c.; from entire ♦ in its entirety. Þ 1. completely, wholly, all (cf. totally*, altogether*). Object made entirely by hand. Entirely destroyed (cf. from top to bottom*). Entirely paid capital Þ in full. She is entirely responsible. They agree entirely Þ perfectly (cf. one hundred* percent). “The real is not entirely rational, nor is the rational entirely real” (Camus). à ANTONYM Imperfectly, incompletely, partially.
+[13] The English version of subsection 252(1) uses the word "wholly", which is defined as follows in the Canadian Oxford Dictionary:[2] "adv. 1 entirely, completely; without limitation. 2 solely, exclusively. . . ."
+[14] The appellant's counsel claims that the word "wholly" should be interpreted more liberally than its literal meaning. She claims that the word must mean "considerably". She also claims that the context requires a more liberal interpretation, since otherwise, in the circumstances of the instant case, no one would be entitled to the CCTB. According to the appellant, P.'s mother would not be entitled to the CCTB because P. did not live with his mother during the period at issue.
+[15] I do not agree with the interpretation offered by the appellant's counsel. Parliament uses the word "primarily" when the proportion necessary is over 50%. In this context, the word "wholly" means fully or completely. The evidence shows that P.'s parents continued to provide support for their son by buying him clothes, school supplies and food. That support was less significant than that provided by the appellant. However, the appellant did not demonstrate that P. was wholly dependent on her.
+CONCLUSION
+[16] For these reasons, I would dismiss the appeal.
+Signed at Ottawa, Canada, this 3rd day of May 2010.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 17th day of June 2010
+Margarita Gorbounova, Translator
+CITATION: 2010 TCC 233
+COURT FILE NO.: 2009-3308(IT)I
+STYLE OF CAUSE: PATRICIA COUTURE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: March 10, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: May 3, 2010
+APPEARANCES:
+Counsel for the appellant:
+Francine Morin
+Counsel for the respondent:
+Marjolaine Breton
+COUNSEL OF RECORD:
+For the appellant:
+Name: Francine Morin
+Firm: Dontigny & Morin
+Cowansville, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Dictionnaire alphabétique et analogique de la langue française, Dictionnaires Le Robert, Paris, 2008.
+[2] Oxford University Press Canada, edited by Katherine Barber, second edition, 2004.

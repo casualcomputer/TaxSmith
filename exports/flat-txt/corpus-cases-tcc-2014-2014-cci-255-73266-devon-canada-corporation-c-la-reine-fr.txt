@@ -1,0 +1,220 @@
+Title: Devon Canada Corporation  c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/73266/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-255-73266-devon-canada-corporation-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-08-29
+
+# Devon Canada Corporation  c. La Reine
+
+- Citation: 2014 CCI 255
+- Decision date: 2014-08-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5207, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Devon Canada Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-08-29
+Référence neutre
+2014 CCI 255
+Numéro de dossier
+2013-1066(IT)G, 2013-1327(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-1066(IT)G
+ENTRE :
+DEVON CANADA CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue sur preuve commune avec la requête de
+Devon Canada Corporation, dans le dossier 2013-1327(IT)G, le 14 juillet 2014, à Toronto (Ontario).
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Avocats de l’appelante :
+Me Al Meghji
+Me Pooja Samtani
+Avocats de l’intimée :
+Me Luther P. Chambers
+Me Ernesto Caceres
+ORDONNANCE
+Les parties suivantes de l’avis d’appel sont, par les présentes, radiées :
+a) les mots [traduction] « comme dépenses en capital admissibles (DCA) en vertu du paragraphe 14(5) et de l’alinéa 20(1)b) ou » au paragraphe 8;
+b) les mots [traduction] « comme DCA en vertu du paragraphe 14(5) et de l’alinéa 20(1)b) ou » aux paragraphes 16 et 19;
+c) les renvois à l’article 14, à l’alinéa 20(1)b) et au paragraphe 111(5.2) figurant au paragraphe 17;
+d) les mots « comme DCA au moment de l’acquisition du contrôle conformément au paragraphe 111(5.2) et à l’alinéa 20(1)b), ou » au paragraphe 20(a).
+Les dépens relatifs à la présente requête suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 29e jour d’août 2014.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 3e jour de mars 2016.
+S. Tasset
+Dossier : 2013-1327(IT)G
+ENTRE :
+DEVON CANADA CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue sur preuve commune avec la requête de
+Devon Canada Corporation, dans le dossier 2013-1066(IT)G, le 14 juillet 2014, à Toronto (Ontario).
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Avocats de l’appelante :
+Me Al Meghji
+Me Pooja Samtani
+Avocats de l’intimée :
+Me Luther P. Chambers
+Me Ernesto Caceres
+ORDONNANCE
+Les parties suivantes de l’avis d’appel sont, par les présentes, radiées :
+a) les mots [traduction] « comme dépenses en capital admissibles (DCA) en vertu du paragraphe 14(5) et de l’alinéa 20(1)b) ou » au paragraphe 8;
+b) les mots [traduction] « comme DCA en vertu du paragraphe 14(5) et de l’alinéa 20(1)b) ou » aux paragraphes 15 et 18;
+c) les renvois à l’article 14, à l’alinéa 20(1)b) et au paragraphe 111(5.2) figurant au paragraphe 16;
+d) les mots « comme DCA au moment de l’acquisition du contrôle conformément au paragraphe 111(5.2) et à l’alinéa 20(1)b), ou » au paragraphe 19(a).
+Puisque des dépens ont déjà été adjugés pour une requête presque identique présentée dans le dossier d’appel 2013-1066(IT)G, aucuns dépens ne sont adjugés pour la présente requête, mis à part les débours.
+Signé à Ottawa, Canada, ce 29e jour d’août 2014.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 3e jour de mars 2016.
+S. Tasset
+Référence : 2014 CCI 255
+Date : 20140829
+Dossiers : 2013-1066(IT)G
+2013-1327(IT)G
+ENTRE :
+DEVON CANADA CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Graham
+[1] L’intimée présente une requête en vue de faire radier certaines parties des deux avis d’appel déposés par Devon Canada Corporation (« Devon »), au motif que ces parties ne respectent pas les règles énoncées au paragraphe 169(2.1) de la Loi de l’impôt sur le revenu (la « Loi »), qui visent les grandes sociétés.
+[2] Devon a été constituée par suite d’un certain nombre de fusions. En 2001, deux des sociétés qui ont été absorbées par Devon ont fait des paiements importants à leurs employés en échange de la restitution de diverses options d’achat d’options (les « paiements de rachat »). Ces deux sociétés ont déduit les paiements de rachat au titre des dépenses courantes à l’égard de leurs exercices respectifs. Le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations à l’endroit de Devon et refusé les déductions. Devon s’est opposée à ces nouvelles cotisations[1]. Le ministre a établi des avis de ratification, et Devon a interjeté appel.
+[3] Dans ses avis d’appel, Devon soulève les arguments suivants :
+a) Le principal argument de Devon est que les paiements de rachat sont déductibles comme des dépenses courantes en vertu du paragraphe 9(1) de la Loi de l’impôt sur le revenu.
+b) Subsidiairement, Devon soutient que les paiements de rachat sont des dépenses en capital admissibles qui, une fois ajoutées au montant cumulatif des immobilisations admissibles, donneraient lieu à des déductions au titre de l’alinéa 20(1)b). Elle soutient de plus qu’en raison du fait qu’il y a eu des acquisitions de contrôle des deux sociétés remplacées pendant les périodes d’imposition au cours desquelles les paiements de rachat ont été effectués, le paragraphe 111(5.2) s’applique pour donner lieu à des déductions supplémentaires importantes du montant cumulatif des immobilisations admissibles.
+c) Subsidiairement encore, Devon soutient que les paiements de rachat sont des frais de financement déductibles en vertu de l’alinéa 20(1)e).
+[4] Devon était une grande société au cours des années en question. Par conséquent, elle est assujettie aux dispositions du paragraphe 169(2.1) qui limitent son droit d’appel aux questions, et aux mesures de redressement correspondantes, relativement auxquelles elle s’est conformée au paragraphe 165(1.11) dans ses avis d’opposition. L’intimée exige la radiation des parties des avis d’appel qui concernent les deux arguments subsidiaires, au motif que Devon ne s’est pas conformée aux dispositions du paragraphe 165(1.11) relativement à ces arguments.
+Questions à trancher dans la présente requête [5] La présente requête soulève les trois questions suivantes :
+a) La première question que je dois trancher est celle de savoir si Devon a fourni une description suffisante de la question ou des questions à trancher dans ses avis d’opposition.
+b) Si je conclus que Devon a fourni une description suffisante de la question ou des questions à trancher, la deuxième question que je dois alors trancher est celle de savoir si Devon a adéquatement précisé le redressement demandé à l’égard de cette question ou de ces questions dans ses avis d’opposition.
+c) Si je conclus que Devon n’a pas fourni une description suffisante de la question ou des questions à trancher ou qu’elle n’a pas adéquatement précisé le redressement demandé, je dois alors examiner un argument subsidiaire que Devon a invoqué. Devon soutient que, si le ministre ratifie une nouvelle cotisation sur un fondement différent de celui sur lequel s’est appuyé le contribuable dans son opposition, ce dernier peut alors interjeter appel à l’égard de ce fondement, nonobstant les restrictions prévues au paragraphe 169(2.1).
+Devon a‑t‑elle fourni une description suffisante de la question ou des questions à trancher? Résumé de la position de Devon [6] Devon soutient qu’il existe deux fondements pour lesquels il est possible de dire qu’elle a fourni une description suffisante de la question ou des questions à trancher dans ses avis d’opposition.
+[7] Le principal argument de Devon est que la question à trancher visée par l’opposition ou par l’appel est et a toujours été la question de savoir si les paiements de rachat sont déductibles. Devon fait valoir qu’il y a trois motifs différents pour lesquels les paiements de rachat peuvent être déductibles (c.-à-d. ils font partie des dépenses courantes suivant l’article 9; ils font partie du montant cumulatif des immobilisations admissibles suivant l’alinéa 20(1)b) et le paragraphe 111(5.2); ils sont des frais de financement suivant l’alinéa 20(1)e)). Elle soutient de plus que la présence de ces motifs individuels ne modifie pas la question générale de la déductibilité.
+[8] Selon l’argument subsidiaire de Devon, si ses avis d’opposition ne donnaient pas une description suffisante de la question ou des questions à trancher, alors le fait que le ministre a accepté une note supplémentaire détaillée (la « note supplémentaire ») de la part de Devon pendant le processus d’opposition et qu’il a examiné et confirmé les avis d’opposition en fonction des arguments que contenait la note supplémentaire a eu pour effet de modifier les avis d’opposition de Devon par l’ajout, en tant que questions à trancher, des arguments énoncés dans la note supplémentaire.
+Résumé de la position de l’intimée [9] Le principal argument de l’intimée est que les trois « motifs » décrits par Devon sont dans les faits trois questions distinctes et que, par conséquent, Devon était tenue de se conformer au paragraphe 165(1.11) à l’égard de chacune de ces questions.
+[10] L’intimée fait de plus valoir que l’argument subsidiaire de Devon doit échouer. Premièrement, la note supplémentaire ne peut pas avoir modifié les avis d’opposition parce que la Loi de l’impôt sur le revenu ne prévoit aucun mécanisme pour apporter une telle modification. Deuxièmement, les actions du ministre, à savoir l’acceptation et la prise en compte de la note supplémentaire, ne peuvent l’emporter sur les restrictions prévues au paragraphe 165(1.11).
+Analyse des règles de droit applicables [11] Les tribunaux n’ont pas encore eu la possibilité d’examiner entièrement les paramètres des paragraphes 165(1.11) et 169(2.1), mais les thèmes suivants ressortent des décisions antérieures :
+a) Un contribuable n’est pas tenu de décrire chacune des questions à trancher de façon précise, mais il doit en donner une description suffisante (Canada c. Potash Corporation of Saskatchewan Inc.[2]).
+b) Le degré de précision nécessaire pour décider si la description d’une question est suffisante est déterminé en fonction de chaque cas (Potash).
+c) Un contribuable peut ajouter des nouveaux faits ou motifs en appel, mais pas de nouvelles questions à trancher (British Columbia Transit c. La Reine[3]).
+d) Si l’argument additionnel proposé fait en sorte que le redressement déjà demandé par la grande société devient plus important, les tribunaux sont plus enclins à assimiler l’argument à une nouvelle question au lieu d’un motif (Potash; Canada c. Telus Communications (Edmonton) Inc.[4]).
+e) Si l’argument additionnel proposé fait en sorte que le redressement déjà demandé par la grande société demeure le même, les tribunaux sont plus enclins à assimiler l’argument à la même question à trancher (British Columbia Transit; Banque canadienne impériale de Commerce c. La Reine[5]).
+f) Si l’argument additionnel proposé fait en sorte que le redressement déjà demandé par la grande société devient complètement différent, les tribunaux sont plus enclins à assimiler l’argument à une nouvelle question à trancher plutôt qu’à un motif (Bakorp Management Ltd. c. La Reine[6]).
+Application des règles de droit [12] Pour décider si les arguments subsidiaires de Devon constituent des nouvelles questions à trancher ou des nouveaux motifs, je dois d’abord déterminer quelle est la question énoncée dans les avis d’opposition et ensuite déterminer si les arguments subsidiaires constituent des motifs subsidiaires étayant cette question ou s’ils constituent des questions subsidiaires.
+[13] Les avis d’opposition de Devon ne renvoient ni aux alinéas 20(1)b) et e) ni au paragraphe 111(5.2). La question à trancher et les dispositions législatives sont décrites ainsi dans l’un des avis d’opposition [7]:
+[traduction]
+QUESTION À TRANCHER
+La question à trancher est celle de savoir si le paiement de 20 884 041 $ au titre des options d’achat d’actions constitue une dépense d’entreprise déductible au titre de l’article 9 et n’est pas refusé par l’article 18 de la Loi pour l’année d’imposition [de la société remplacée] ayant pris fin le 11 février 2001, ce qui a pour effet de réduire le revenu imposable d’un montant de 15 663 031 $ (20 884 041 $ moins un rajustement connexe au titre d’une déduction relative à des ressources de 5 221 010 $).
+DISPOSITIONS LÉGISLATIVES INVOQUÉES
+[La société remplacée] invoque entre autres les articles 3 et 9 et l’alinéa 20(1)v.1) de la Loi.
+[14] L’autre avis d’opposition contient une description semblable de la question à trancher et invoque les mêmes dispositions législatives[8].
+[15] À mon avis, la seule question énoncée dans les avis d’opposition est celle de savoir si Devon peut déduire les paiements de rachat. Les avis d’opposition offrent un motif pour lequel la déduction devrait être autorisée, mais cela n’interdit pas à Devon d’invoquer d’autres motifs dans ses avis d’appel
+[16] En tirant cette conclusion, je suis parfaitement conscient du fait que, avant la décision de la Cour suprême du Canada de refuser l’autorisation de pourvoi dans l’affaire Imperial Tobacco Canada Limitée c. Canada[9], Devon n’avait aucun autre argument que son argument principal et que ce n’est qu’après le refus de l’autorisation de pourvoi que Devon a cherché à présenter les arguments subsidiaires. Je suis également conscient du fait que les avocats de Devon ont également plaidé dans l’affaire Imperial Tobacco et que l’opposition de Devon avait effectivement été laissée en suspens dans l’attente de l’issue de l’affaire Imperial Tobacco. Ces faits ne changent rien à mon opinion selon laquelle la question à trancher dans le présent appel n’a pas changé. Les inconvénients subis par Devon à la suite de l’arrêt Imperial Tobacco l’ont simplement amenée à considérer les motifs subsidiaires qu’elle pourrait invoquer à l’appui de sa demande de déduction. Dans l’arrêt Potash, la Cour d’appel fédérale a cité un extrait d’un article rédigé par R.M. Beith, intitulé « Draft Legislation on Income Tax Objections and Appeals », qui a été présenté lors de la conférence annuelle de 1994 de l’Association canadienne d’études fiscales[10]. Dans cet article, M. Beith exprimait des réserves sur le fait que les grandes sociétés [traduction] « puissent soulever de nouvelles questions en s’inspirant des interprétations émergentes et des résultats des décisions judiciaires contestées par d’autres contribuables ». Si je comprends bien, M. Beith s’inquiétait du fait que les contribuables qui contestaient une question (disons la déduction de frais juridiques) puissent ajouter en appel une question complètement différente (disons le calcul d’une déduction relative à des ressources) par suite d’une décision judiciaire favorable rendue à l’endroit d’un autre contribuable. À mon avis, ce n’est pas le cas en l’espèce. Devon a toujours contesté la déduction des paiements de rachat. Elle conteste encore cette déduction. La seule chose qui a changé par suite de l’arrêt Imperial Tobacco, c’est que Devon allègue maintenant que les paiements de rachat sont déductibles pour différentes raisons.
+[17] Après avoir conclu que la seule question à trancher a toujours été la déductibilité des paiements de rachat, je dois maintenant examiner la question de savoir si les arguments subsidiaires invoqués par Devon font partie de cette seule question.
+[18] J’examinerai en premier lieu l’argument de Devon portant sur l’alinéa 20(1)e). Le ministre a refusé la déduction des paiements de rachat au motif qu’ils constituaient des dépenses en immobilisations et que, par conséquent, l’alinéa 18(1)b) interdisait leur déduction. Devon avance comme principal argument que l’alinéa 18(1)b) ne s’applique pas parce que les paiements de rachat étaient imputables au revenu. L’alinéa 20(1)e) est une exception à l’alinéa 18(1)b). Il autorise simplement la déduction de certains types de frais de financement malgré le fait qu’ils seraient autrement imputables aux immobilisations. Essentiellement, le principal argument de Devon est que les paiements de rachat étaient imputables au revenu en raison de leur nature, et son argument subsidiaire est qu’ils étaient imputables au revenu parce que c’est ce que prévoit l’alinéa 20(1)e). L’argument de Devon concernant l’alinéa 20(1)e) n’est par conséquent rien d’autre qu’un motif subsidiaire pour lequel le ministre devrait autoriser la déduction des paiements de rachat. Rien dans les courants de la jurisprudence ne me ferait mettre en doute cette conclusion. En effet, la preuve de Devon correspond directement au raisonnement énoncé dans les décisions Banque canadienne impériale de commerce et British Columbia Transit.
+[19] J’examinerai maintenant l’argument de Devon visant l’alinéa 20(1)b) et le paragraphe 111(5.2). Si Devon demandait simplement une déduction à l’égard des paiements de rachat en vertu de l’alinéa 20(1)b), je reconnaîtrais qu’aucune nouvelle question à trancher n’est soulevée pour les mêmes motifs pour lesquels j’ai tiré cette conclusion à l’égard de l’argument concernant l’alinéa 20(1)e), étant donné que l’alinéa 20(1)b) est tout simplement une autre exception à l’alinéa 18(1)b). Toutefois, ce n’est pas ce que fait Devon. Devon demande aussi une déduction en vertu du paragraphe 111(5.2). Cette déduction n’est pas facultative. Elle doit être demandée si certaines conditions préalables sont remplies. Dans le cas de Devon, ces conditions préalables ont été remplies. Ainsi, si Devon convainquait un juge de procès que les paiements de rachat devraient être ajoutés à son montant cumulatif d’immobilisations admissibles, le paragraphe 111(5.2) donnerait à Devon droit à une déduction à l’égard d’autres montants dans son montant cumulatif d’immobilisations admissibles qui n’ont aucun rapport avec les paiements de rachat. Dans l’arrêt Potash, la Cour d’appel fédérale a clairement affirmé qu’il existe une nouvelle question à trancher si un contribuable tente de déduire des montants supplémentaires, même si ces montants appartiennent à la même catégorie de déductions. Compte tenu de ce qui précède, je conclus que l’argument subsidiaire de Devon portant sur l’alinéa 20(1)b) et le paragraphe 111(5.2) constitue une nouvelle question à trancher qui ne peut être soulevée en appel.
+[20] Pour en arriver à cette conclusion à l’égard de l’argument concernant l’alinéa 20(1)b) et le paragraphe 111(5.2), j’ai pris en compte l’observation de Devon selon laquelle la note supplémentaire avait eu pour effet de modifier ses avis d’opposition par l’ajout de l’argument. Je ne souscris pas à la position de Devon. La Loi ne contient aucun mécanisme qui autoriserait une grande société à modifier son avis d’opposition. Retenir une interprétation qui inclurait un tel mécanisme irait tout à fait à l’encontre de l’objet des règles relatives aux grandes sociétés.
+Devon a‑t‑elle précisé de façon adéquate le redressement demandé? [21] Comme j’ai conclu que Devon avait donné une description suffisante de la seule question à trancher dans ses avis d’opposition et que ses arguments concernant l’article 9 et l’alinéa 20(1)e) étaient simplement des motifs, je dois maintenant examiner la question de savoir si Devon a précisé de façon adéquate le redressement demandé. Suivant l’alinéa 165(1.11)b), une grande société est tenue de préciser le redressement demandé à l’égard de chaque question, et non à l’égard de chaque motif. Toutefois, selon l’intimée, étant donné que le redressement demandé serait différent pour chaque motif, Devon aurait dû néanmoins préciser que la question elle-même pouvait donner lieu à différents redressements possibles.
+[22] Devon n’a pas décrit le redressement demandé en ce qui a trait à l’argument relatif à l’alinéa 20(1)e). Les avis d’opposition de Devon n’ont pas précisé d’autre redressement que celui d’autoriser la déduction dans sa totalité. L’intimée soutient que le redressement total demandé en vertu de l’alinéa 20(1)e) est supérieur au redressement demandé au titre de l’article 9 et que Devon ne devrait pas être autorisée à augmenter le montant de redressement demandé. Devon reconnaît que le redressement demandé au titre de l’alinéa 20(1)e) serait supérieur sur une période de cinq ans, mais fait valoir que le redressement demandé pour les années en cause est bien moindre que le redressement demandé à l’égard de l’argument relatif à l’article 9. Devon soutient que le redressement demandé au titre du paragraphe 165(1.11) est le redressement pour l’année en cause, et non le redressement pour une période. Je souscris à la position de Devon sur ce point. Je conclus que le redressement demandé suivant l’argument relatif à l’alinéa 20(1)e) est inférieur au redressement demandé suivant l’argument relatif à l’article 9.
+[23] Dans l’arrêt Potash, la Cour d’appel fédérale a implicitement reconnu que, si un certain montant de redressement est précisé dans un avis d’opposition, un montant de redressement inférieur est automatiquement inclus[11] :
+[…] Je préfère remettre à plus tard la question de savoir si l’obligation de « préciser, pour chaque question, le redressement demandé, sous la forme du montant qui représente la modification d’un solde, au sens du paragraphe 152(4.4), ou d’un solde de dépenses ou autres montants non déduits applicables à la société » lie nécessairement une grande société pour ce qui est du montant mentionné, ou pour un montant inférieur. Il est possible de soutenir que, dans certains cas, la modification d’un avis d’appel serait permise si la modification portait uniquement sur le montant sans qu’une nouvelle question soit soulevée.
+[Non souligné dans l’original.]
+[24] Cette approche est logique. Si l’appel d’une grande société vise plusieurs dépenses mineures, dont certaines peuvent être finalement admises et d’autres non, il serait déraisonnable de s’attendre à ce que la grande société exprime le redressement demandé dans son avis d’opposition à l’égard de chacune des dépenses. Il apparaît suffisant que la grande société énonce simplement la totalité du redressement demandé, étant entendu que le redressement diminue chaque fois que la déduction d’une dépense n’est pas autorisée. De même, un résultat illogique s’ensuivrait si on s’attendait à ce qu’une grande société exprime un redressement subsidiaire dans une affaire d’évaluation. Je ne peux imaginer que le législateur ait voulu qu’une grande société soit tenue d’énoncer qu’elle souhaite obtenir un redressement de X $ si un certain élément d’actif était évalué à 4 000 000 $ (soit l’évaluation privilégiée par la grande société), un redressement d’Y $ si l’élément d’actif était évalué à 3 999 999 $, un redressement de Z $ si l’élément d’actif était évalué à 3 999 998 $, et ainsi de suite jusqu’à la valeur que le ministre estime que vaut l’élément d’actif.
+[25] Je ne vois pas de différence importante entre les exemples précédents et la situation de Devon. Elle demande la déduction des paiements de rachat. La déduction prévue à l’alinéa 20(1)e) entraînerait un redressement moindre pour les années en question, mais je ne crois pas qu’il était nécessaire pour Devon de décrire ce redressement en détail.
+[26] Compte tenu de ce qui précède, je suis d’avis que l’argument de Devon concernant l’alinéa 20(1)e) satisfait à l’exigence selon laquelle le redressement demandé doit être précisé.
+Argument subsidiaire de Devon [27] Comme il est mentionné plus haut, Devon soutient que, si le ministre ratifie une nouvelle cotisation sur un fondement différent du fondement auquel une grande société s’est opposée, la grande société peut alors interjeter appel devant la cour à l’égard de ce nouveau fondement, malgré les restrictions prévues au paragraphe 169(2.1). Comme j’ai conclu que Devon satisfaisait aux exigences en ce qui a trait à son argument concernant l’alinéa 20(1)e), j’examinerai uniquement cet argument subsidiaire relativement à l’argument concernant l’alinéa 20(1)b) et le paragraphe 111(5.2).
+[28] Le législateur envisageait une situation où le ministre établit une cotisation à l’égard d’une grande société relativement à certaines questions, la grande société s’oppose à ces questions et le ministre établit ensuite une nouvelle cotisation pour la même année, mais ajoute de nouvelles questions. Le paragraphe 165(1.14) et l’alinéa 169(2.1)b) autorisent tous deux la grande société à interjeter appel devant les tribunaux à l’égard des nouvelles questions malgré le fait que ces questions n’étaient pas décrites dans l’avis d’opposition initial.
+[29] La Loi semble cependant comporter une lacune pour la situation plutôt improbable où le ministre établit une cotisation à l’égard d’une grande société relativement à certaines questions, la grande société s’oppose à ces questions et le ministre ratifie ensuite la cotisation, mais sur un fondement entièrement différent du fondement sur lequel la cotisation initiale a été établie[12]. Je ne connais aucune disposition de la Loi qui autorise précisément la grande société à interjeter appel sur le fondement de nouvelles questions dans ce cas.
+[30] Devon soutient qu’elle est visée par le scénario qui précède. Selon Devon, lorsque le ministre a ratifié les nouvelles cotisations, il s’est fondé sur l’alinéa 20(1)b) et sur le paragraphe 111(5.2) comme fondement subsidiaire pour la ratification. Devon me demande donc de combler la lacune perçue de la Loi en donnant une interprétation libérale à l’alinéa 169(2.1)b) faisant en sorte que Devon est en mesure d’interjeter appel à l’égard de toute question subsidiaire sur laquelle s’est fondé le ministre pour ratifier les nouvelles cotisations.
+[31] Même s’il y aurait peut-être lieu de faire valoir ce type de redressement dans une affaire différente, il ne convient pas de le faire en l’espèce. Il ne s’agit pas d’un cas où le ministre a abandonné le fondement initial de la cotisation et l’a remplacé par un nouveau fondement. Le ministre continue de soutenir que le fondement initial de la cotisation est juste. Il a simplement ajouté une explication supplémentaire concernant l’alinéa 20(1)b) et le paragraphe 111(5.2) pour répondre aux points soulevés par Devon dans la note supplémentaire. En effet, les avis de ratification ne mentionnent ces dispositions que lorsqu’ils décrivent les arguments invoqués par Devon. Le motif déclaré pour ratifier les nouvelles cotisations est l’alinéa 18(1)b). Même s’il ressort clairement des rapports sur l’opposition que le ministre a pris en compte l’argument de Devon, ils ne mentionnent aucunement l’abandon de l’argument initial invoqué par le ministre.
+[32] Compte tenu des motifs exposés précédemment, je ne suis pas disposé à autoriser l’appel de Devon relativement à la question de l’alinéa 20(1)b) et du paragraphe 111(5.2) sur le fondement des présentes observations subsidiaires.
+Conclusion [33] Compte tenu des motifs qui précèdent, la requête de l’intimée est accueillie sur le fondement énoncé ci-dessous.
+[34] Les parties suivantes de l’avis d’appel dans le dossier 20131066(IT)G sont, par les présentes, radiées :
+a) les mots [traduction] « comme dépenses en capital admissibles (DCA) en vertu du paragraphe 14(5) et de l’alinéa 20(1)b) ou » au paragraphe 8;
+b) les mots [traduction] « comme DCA en vertu du paragraphe 14(5) et de l’alinéa 20(1)b) ou » aux paragraphes 16 et 19;
+c) les renvois à l’article 14, à l’alinéa 20(1)b) et au paragraphe 111(5.2) figurant au paragraphe 17;
+d) les mots « comme DCA au moment de l’acquisition du contrôle conformément au paragraphe 111(5.2) et à l’alinéa 20(1)b), ou » au paragraphe 20(a).
+[35] Les parties suivantes de l’avis d’appel dans le dossier 20131327(IT)G sont, par les présentes, radiées :
+a) les mots [traduction] « comme dépenses en capital admissibles (DCA) en vertu du paragraphe 14(5) et de l’alinéa 20(1)b) ou » au paragraphe 8;
+b) les mots [traduction] « comme DCA en vertu du paragraphe 14(5) et de l’alinéa 20(1)b) ou » aux paragraphes 15 et 18;
+c) les renvois à l’article 14, à l’alinéa 20(1)b) et au paragraphe 111(5.2) figurant au paragraphe 16;
+d) les mots « comme DCA au moment de l’acquisition du contrôle conformément au paragraphe 111(5.2) et à l’alinéa 20(1)b), ou » au paragraphe 19(a).
+Dépens [36] Comme les parties ont toutes les deux partiellement obtenu gain de cause, les dépens de la requête dans l’appel 2013-1066(IT)G suivront l’issue de la cause. Comme les deux requêtes sont presque identiques, aucuns dépens ne sont adjugés pour la requête dans l’appel 2013-1327(IT)G, mis à part les débours.
+Signé à Ottawa, Canada, ce 29e jour d’août 2014.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 3e jour de mars 2016.
+S.Tasset
+RÉFÉRENCE :
+2014 CCI 255
+NOS DES DOSSIERS DE LA COUR :
+2013-1066(IT)G; 2013-1327(IT)G
+INTITULÉ :
+DEVON CANADA CORPORATION ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 14 juillet 2014
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge David E. Graham
+DATE DE L’ORDONNANCE :
+Le 29 août 2014
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Al Meghji
+Me Pooja Samtani
+Avocats de l’intimée :
+Me Luther P. Chambers
+Me Ernesto Caceres
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Al Meghji
+Me Pooja Samtani
+Cabinet :
+Osler, Hoskin & Harcourt s.r.l.
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’une des nouvelles cotisations établissait en fait qu’aucun impôt n’était payable, si bien que Devon a demandé une détermination de la perte et s’est opposée ensuite au résultat de la détermination. Comme cela ne soulève aucune question, par souci de simplicité, je vais parler des oppositions comme étant des oppositions aux nouvelles cotisations.
+[2] 2003 CAF 471.
+[3] 2006 CCI 437.
+[4] 2005 CAF 159.
+[5] 2013 CCI 170.
+[6] 2014 CAF 104.
+[7] Affidavit de Michael Henry Juhasz, appel numéro 2013-1327(IT)G, pièce E.
+[8] La seule différence notable dans les descriptions de la question et des dispositions législatives est liée au fait que l’autre opposition fait état de la détermination de la perte. Cependant, cela est sans conséquence.
+[9] [2012] CSCR 11, demande d’autorisation de pourvoi contre l’arrêt 2011 CAF 308.
+[10] Report of Proceedings of the Forty-Sixth Tax Conference, 1994 Conference Report (Toronto : Association canadienne d’études fiscales, 1995), 34:2; voir également l’arrêt Potash, au paragraphe 4.
+[11] Arrêt Potash, au paragraphe 27.
+[12] Comme exemple possible de pareille situation, supposons que le ministre a établi la cotisation d’une grande société sur le fondement qu’elle avait un revenu non déclaré de 500 000 $. La grande société s’opposerait ensuite à cette question et fournirait des éléments de preuve démontrant qu’elle n’avait pas, dans les faits, de revenu non déclaré. Toutefois, au cours de l’opposition, le ministre a appris que la grande société avait demandé à tort une déduction de 500 000 $ au titre des dépenses. Comme l’impôt résultant du montant de 500 000 $ en revenus supplémentaires serait le même que celui résultant du montant de 500 000 $ indûment déclaré au titre des dépenses, il est probable que le ministre ne ferait qu’établir un avis de ratification au lieu d’une nouvelle cotisation. La grande société, après s’être opposée à la question du revenu, mais non à celle des dépenses, ne pourrait sans doute pas interjeter appel devant la cour sur la question des dépenses.

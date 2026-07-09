@@ -1,0 +1,99 @@
+Title: Gillespie v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25923/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-538-25923-gillespie-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-07-31
+
+# Gillespie v. The Queen
+
+- Citation: 2003 CCI 538
+- Decision date: 2003-07-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3670, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gillespie v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-31
+Référence neutre
+2003 CCI 538
+Numéro de dossier
+2003-1226(IT)I
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2003-1226(IT)I
+ENTRE :
+GORDON D. GILLESPIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Requête entendue le 10 juin 2003, à Winnipeg (Manitoba).
+Devant : L'honorable juge J. E. Hershfield
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Perry Derksen
+________________________________________________________________
+ORDONNANCE
+Vu la requête de l'intimée afin d'obtenir une ordonnance annulant l'avis d'appel déposé par l'appelant le 2 avril 2003;
+Et vu les allégations de l'appelant et de l'avocat de l'intimée;
+La requête en annulation des présents appels est accueillie, sans dépens, conformément aux motifs de l'ordonnance ci-joints.
+Signé à Toronto (Ontario), ce 31e jour de juillet 2003.
+« J. E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 18e jour d'avril 2005.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2003CCI538
+Date : 20030731
+Dossier : 2003-1226(IT)I
+ENTRE :
+GORDON D. GILLESPIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Hershfield, C.C.I.
+[1] L'intimée a présenté une requête afin d'obtenir une ordonnance annulant l'avis d'appel de l'appelant.
+[2] L'avis d'appel de l'appelant concernait ses années d'imposition 1998 et 1999.
+[3] L'avis d'appel décrit une série d'événements relatifs à une prétendue utilisation abusive de renseignements fiscaux personnels qui aurait été commise par les fonctionnaires de Revenu Canada à compter du mois de juin 1986, plus ou moins, jusque vers le mois de février 1987. Dans l'avis d'appel, on allègue une dissimulation des conclusions du Commissaire à la protection de la vie privée du Canada concernant des infractions à la Loi sur la protection des renseignements personnels.
+[4] L'avis d'appel contient diverses allégations concernant la prétendue corruption du système judiciaire manitobain, qui aurait donné lieu à des accusations inventées de toutes pièces, des incarcérations illicites et un camouflage de la part de l'appareil judiciaire. L'appelant fait apparemment l'objet d'une ordonnance qui lui interdit tout contact avec qui que ce soit au sein du système judiciaire manitobain.
+[5] L'avis d'appel contient d'autres allégations concernant notamment l'inconduite criminelle de juges nommés par l'autorité provinciale, les refus réitérés du juge en chef du Canada, du premier ministre du Canada et du ministre de la Justice de répondre à des plaintes concernant des juges nommés par le fédéral et le gaspillage de milliards de dollars sur des programmes établis de manière abusive. On y trouve également des allégations de politiques racistes et génocidaires.
+[6] D'après l'avis d'appel, la Loi de l'impôt sur le revenu serait inconstitutionnelle et illégale.
+[7] Étant donné les allégations contenues dans l'avis d'appel, l'appelant affirme qu'il a le devoir et la responsabilité de ne pas verser d'impôts qui seront utilisés pour soutenir les actions corrompues, irresponsables et incontrôlables des autorités exécutives et judiciaires du système de justice canadien.
+[8] En ce qui concerne les années en cause, l'avis d'appel reconnaît que les déclarations de revenu pour celles-ci ont été produites après que l'appelant ait reçu une demande de production. Les déclarations ont été produites « sans fournir d'information confidentielle » . Après une série de nouvelles cotisations, on a refusé à l'appelant le Crédit d'impôts fonciers du Manitoba puisqu'il a refusé de fournir des reçus de loyer s'élevant à 3 000 $ pour chacune des deux années en cause. Sauf pour ce qui est des observations ci-dessous concernant les pénalités, cela semble être la seule question de fond qui soit directement liée aux nouvelles cotisations établies pour les années en cause. L'appelant a présenté un avis d'opposition dans les délais impartis.
+[9] Après avoir déposé l'avis d'appel, l'appelant a déposé une copie de son avis d'opposition pour les années visées, déclarant qu'il avait eu l'intention d'en faire une partie intégrante de son appel. L'avis d'opposition ne contient aucune question de fond qui soit directement soulevée par les nouvelles cotisations pour les années en cause, sauf dans la rubrique [TRADUCTION] « L'impôt, les pénalités et les intérêts visés par les cotisations sont invalides et illégaux » . Voici ce qu'on lit sous cette rubrique :
+[TRADUCTION]
+Puisqu'il n'y a eu aucune pénalité pour les fonctionnaires de Revenu Canada qui, selon le Commissaire à la protection de la vie privée du Canada, avaient désobéi à la loi à plusieurs reprises, il ne devrait y avoir aucune pénalité contre moi.
+[10] Dans une autre rubrique, intitulée [TRADUCTION] « Intention d'enfreindre la loi » , l'appelant affirme que tout ce qu'il faisait (en ne déposant pas de déclarations, semble-t-il) était protéger sa vie privée, [TRADUCTION] « puisque Revenu Canada ne le fait pas » .
+[11] À l'audience de la requête de l'intimée concernant l'annulation de l'avis d'appel, l'appelant a demandé que je me récuse. Il invoquait les motifs suivants : j'avais été nommé par un ministre de la Justice qui, selon l'avis d'appel, s'était rendu coupable d'écarts de conduite et j'étais donc compromis; avant d'être nommé juge de cette cour, je siégeais au comité consultatif du bureau de Winnipeg de Revenu Canada et j'étais donc compromis; avant d'être nommé juge de cette cour, j'étais un associé d'un cabinet d'avocats qui représentait Revenu Canada ou des fonctionnaires de Revenu Canada que l'appelant avait poursuivis en justice pour de prétendus écarts de conduite et j'étais donc compromis. J'ai reconnu à l'audience que j'avais été nommé par le ministre de la Justice nommé dans l'avis d'appel, que j'avais siégé au comité consultatif qui recevait des observations des contribuables et en faisait part aux hauts fonctionnaires de Revenu Canada au bureau de Winnipeg, et que jusqu'à il y a trois années environ, j'étais un associé d'un cabinet d'avocats qui avait représenté certains fonctionnaires de Revenu Canada poursuivis en justice, mais que je ne me souvenais pas qu'il ait été demandeur dans ces affaires et qu'en tout état de cause, je ne m'étais jamais occupé de questions relatives au différend entre l'appelant et Revenu Canada, lequel, semble-t-il, a été réglé par les tribunaux il y a plus de dix ans.
+[12] À mon avis, il n'est pas raisonnable de penser qu'il puisse y avoir une crainte de partialité de ma part dans le traitement de la présente requête en annulation de l'appel en cause. Aucune preuve n'a été présentée. Les questions doivent être tranchées strictement en fonction des plaidoiries et des observations. Il s'agit principalement d'une question de droit. Il n'est pas nécessaire de traiter de crédibilité et, de toute façon, je n'ai aucune connaissance de l'appelant ou de ses problèmes antérieurs, sauf dans la mesure où ils sont exposés dans les documents déposés dans le cadre des présents appels et selon ce qui a été dit à l'audience. L'affaire concernant mon ancien cabinet date de dix ans ou plus, et je n'ai rien eu à voir avec elle.
+[13] La requête de l'intimée pour une ordonnance annulant l'avis d'appel est fondée sur le motif que la Cour n'est pas compétente pour trancher la seule question de fond liée aux nouvelles cotisations, soit le Crédit d'impôts fonciers du Manitoba. L'appelant affirme vouloir également traiter de la question des pénalités. J'ai pris en délibéré ma décision relativement à la requête en attendant des observations quant à la nature des pénalités imposées, le cas échéant, pour les années en cause.
+[14] Le 30 juin 2003, l'avocat de l'intimée a remis à la Cour des observations où il est admis que l'appelant avait fait l'objet d'une nouvelle cotisation imposant des pénalités pour production tardive de 203,96 $ et de 396,36 $ pour les années d'imposition 1998 et 1999 respectivement, et où il est déclaré que les motifs des appels en cause ne révèlent pas, même en termes généraux, une intention de porter les pénalités en appel, et que puisque le délai pour instituer un appel est expiré, il est trop tard pour interjeter appel en invoquant de nouveaux motifs.
+[15] Je n'accepte pas la position de l'intimée selon laquelle l'appelant n'avait pas l'intention de s'opposer à la pénalité visée par les cotisations. Bien que ce soit sous forme de post-scriptum à l'avis d'appel, celui-ci contient bien la déclaration suivante :
+[TRADUCTION]
+La lettre et l'avis d'opposition montrent clairement que Revenu Canada avait enfreint à la loi à plusieurs reprises et que le gouvernement est coupable de dissimulation.
+À mon avis, cette référence suffit pour établir une intention d'inclure l'avis d'opposition comme partie intégrante de l'appel. Un appel interjeté, comme celui-ci, sous le régime de la procédure informelle doit être interprété de façon large afin d'inclure les éventuelles questions de fond. Les pénalités pour les années en cause seraient présentées de bon droit devant cette cour, sous réserve d'une autre affirmation de l'intimée. Cette affirmation est celle que les appels en cause constituent pour l'appelant une tribune lui permettant d'exprimer ses allégations d'écarts de conduite, et qu'ils constituent un recours abusif à la Cour.
+[16] Je suis d'accord avec les observations de l'intimée sur cette question. Les pénalités sont contestées sous prétexte que « s'ils ne paient pas de pénalités, pourquoi devrais-je le faire » . Même si la requête, telle que présentée, ne permet pas d'examiner le bien-fondé des appels en cause, l'absence totale de bien-fondé dans le contexte des appels souligne le fait que les appels ne sont rien d'autre qu'une tribune permettant à l'appelant d'exprimer ses griefs et ses points de vue personnels qui n'ont rien à voir avec une quelconque question de fond soulevée directement par les nouvelles cotisations visées à l'égard de laquelle la Cour est compétente. Si l'on permettait à l'appel d'aller de l'avant dans ces circonstances, cela constituerait un recours abusif à cette cour.
+[17] En ce qui concerne le Crédit d'impôts fonciers du Manitoba, cette cour n'est pas compétente pour entendre ces appels. Voir les affaires Bowater Mersey Paper Co. c. La Reine, C.A.F., no A-320-86, 8 mai 1987, [1987] 2 C.T.C. 159, Hennick c. La Reine, C.C.I., no 97-1154(IT)I, 25 juin 1998, [1998] 4 C.T.C. 2855, et Gardner c. La Reine, C.C.I., no 1999-4042(IT)I, 25 mars 2000, conf. par C.A.F., no A-663-00, 31 décembre 2001, [2000] 4 C.T.C. 2531, [2002] 1 C.T.C. 302 (autorisation d'appel refusée, 2002 CarswellNat 2541 (C.S.C.)).
+[18] Par conséquent, la requête en annulation des présents appels est accueillie, sans dépens.
+Signé à Toronto (Ontario), ce 31ejour de juillet 2003.
+« J. E. Hershfield »
+J.C.C.I.
+Traduction certifiée conforme
+ce 18e jour d'avril 2005.
+Yves Bellefeuille, réviseur

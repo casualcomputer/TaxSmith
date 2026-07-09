@@ -1,0 +1,373 @@
+---
+title: "Keybrand Foods Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/419671/index.do"
+last_modified: "2019-08-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 161"
+citation2: ""
+neutral_citation: "2019 CCI 161"
+decision_date: "2019-08-02"
+language: "fr"
+item_id: "419671"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4217
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:12:29.759000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f877fc5603c30df81498844c22c191c29d4107d48efe3929b5434da950c088e7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Keybrand Foods Inc. c. La Reine
+
+- Citation: 2019 CCI 161
+- Decision date: 2019-08-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4217, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Keybrand Foods Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-08-02
+Référence neutre
+2019 CCI 161
+Numéro de dossier
+2016-2904(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-2904(IT)G
+ENTRE :
+KEYBRAND FOODS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Audiences tenues les 19, 20 et 21 novembre 2018, à Hamilton (Ontario).
+Observations supplémentaires reçues le 11 et 12 mars 2019.
+Devant : L’honorable juge suppléant Gaston Jorré
+Comparutions :
+Avocats de l’appelante :
+Me Keith M. Trusser
+Me Sean C. Flaherty
+Avocat de l’intimée :
+Me Tokunbo Omisade
+JUGEMENT
+En conformité avec les motifs du jugement énoncés ci-après, l’appel interjeté à l’encontre des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2011 et 2012 est accueilli, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et établissement de nouvelles cotisations, pour le motif que l’appelante a droit à la déduction de la perte en capital demandée pour l’année d’imposition 2011 relativement à l’emprunt de 500 000 $ et à tout rajustement corrélatif en résultant pour l’année d’imposition 2012. Aucune modification n’est apportée au sujet des autres questions en litige.
+Les dépens sont adjugés à l’intimée. Si les parties n’arrivent pas à s’entendre sur les dépens, elles doivent en informer le greffe au plus tard le 21 septembre 2019, et des dispositions seront prises afin que les parties puissent présenter, par écrit ou par téléconférence, leurs observations sur la question des dépens.
+Signé à Ottawa, Canada, ce 2e jour d’août 2019.
+« Gaston Jorré »
+Le juge suppléant Jorré
+Traduction certifiée conforme
+ce 29e jour d’octobre 2019.
+Mario Lagacé, jurilinguiste
+Référence : 2019 CCI 161
+Date : 20190802
+Dossier : 2016-2904(IT)G
+ENTRE :
+KEYBRAND FOODS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Jorré
+Introduction
+[1] Le présent appel porte sur trois déductions demandées par l’appelante relativement à ses années d’imposition 2011 et 2012 [1] .
+[2] Premièrement, l’appelante a demandé la déduction d’une perte déductible au titre d’un placement d’entreprise (PDTPE) de près de 10 millions de dollars fait relativement à des actions dans l’entreprise Vidabode Group Inc. (Vidabode). Le ministre du Revenu national (le ministre) a refusé cette déduction au motif que la juste valeur marchande de ces actions était nulle au moment de leur acquisition et que les deux sociétés avaient un lien de dépendance. Le ministre fait donc valoir qu’il ne peut y avoir déduction pour pertes, car l’alinéa 69(1)a) de la Loi de l’impôt sur le revenu (la Loi) s’applique.
+[3] Dans sa déclaration liminaire, l’appelante a indiqué qu’elle ne contestait pas la juste valeur marchande établie par le ministre, mais plutôt la conclusion selon laquelle les deux sociétés avaient un lien de dépendance [2] .
+[4] La principale question à trancher relativement à la perte déductible au titre d’un placement d’entreprise est de savoir si, dans les faits, l’appelante avait un lien de dépendance avec Vidabode, une entreprise de la Nouvelle-Écosse, lorsqu’elle a fait l’acquisition d’actions de Vidabode en décembre 2010.
+[5] Deuxièmement, l’appelante a souscrit un emprunt pour acquérir ces actions en décembre 2010. Dans ses déclarations de revenus pour les années d’imposition 2010 et 2011, l’appelante a demandé une déduction à l’égard des intérêts payés relativement à la somme empruntée, déduction que le ministre a refusée au motif que ces fonds n’avaient pas été utilisés dans le but d’en tirer un revenu.
+[6] Troisièmement, en octobre 2010, l’appelante a consenti un prêt de 500 000 $ à Vidabode et, en 2011, elle a demandé une déduction pour pertes en capital relativement à ce prêt. Le ministre a là encore refusé la déduction, au motif que la transaction n’avait pas été faite dans le but d’en tirer un revenu [3] .
+[7] Les principales sections des dispositions pertinentes de la Loi de l’impôt sur le revenu sont rédigées comme suit :
+En ce qui concerne la perte déductible au titre d’un placement d’entreprise (PDTPE) [4] :
+69(1) Contreparties insuffisantes — Sauf disposition contraire expresse de la présente loi :
+a) le contribuable qui a acquis un bien auprès d’une personne avec laquelle il avait un lien de dépendance pour une somme supérieure à la juste valeur marchande de ce bien au moment de son acquisition est réputé l’avoir acquis pour une somme égale à cette juste valeur marchande;
+[...]
+Lien de dépendance 251(1) Pour l’application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+c) dans les autres cas, la question de savoir si des personnes non liées entre elles n’ont aucun lien de dépendance à un moment donné est une question de fait.
+En ce qui a trait aux frais d’intérêts :
+20(1) Déductions admises dans le calcul du revenu tiré d’une entreprise ou d’un bien — Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+[...]
+Intérêts c) la moins élevée d’une somme payée au cours de l’année ou payable pour l’année [...] et d’une somme raisonnable à cet égard, en exécution d’une obligation légale de verser des intérêts sur :
+(i) de l’argent emprunté et utilisé en vue de tirer un revenu d’une entreprise ou d’un bien [...]
+(ii) une somme payable pour un bien acquis en vue d’en tirer un revenu ou de tirer un revenu d’une entreprise [...]
+[...]
+En ce qui concerne les déductions pour pertes en capital :
+40(2) Restrictions — Malgré le paragraphe (1) :
+[...]
+g) [diverses pertes jugées nulles] — est nulle la perte subie par un contribuable et résultant de la disposition d’un bien [...], dans la mesure où elle est :
+[...]
+(ii) une perte résultant de la disposition d’une créance ou d’un autre droit de recevoir une somme, sauf si la créance ou le droit a été acquis par le contribuable en vue de tirer un revenu [...] d’une entreprise ou d’un bien, [...]
+[...]
+Les faits [5]
+[8] B.W. Strassburger Ltd. (BWS) est le propriétaire unique de l’appelante. Les actionnaires et administrateurs de BWS sont M. Bernhardt Strassburger et ses trois frères.
+[9] BWS, une entreprise du secteur de la restauration et des services alimentaires, a été créée par le père de M. Strassburger [6] .
+[10] L’appelante, Keybrand Foods Inc., a été créée à l’origine pour fournir certains plats préparés aux restaurants de BWS; elle est devenue par la suite le fournisseur d’une grande variété d’autres clients.
+[11] L’appelante est la propriété exclusive de BWS.
+[12] M. Strassburger était président, secrétaire-trésorier et administrateur unique de BWS et il était également président et administrateur unique de l’appelante.
+[13] L’un des frères de M. Strassburger est celui qui, le premier, a attiré l’attention de M. Strassburger sur une société constituée de la Nouvelle-Écosse qui menait ses activités dans la province sous le nom de Vidabode Group Inc. [7] . Vidabode était titulaire des brevets liés à un nouveau produit fait de béton du nom de Vidacrete et à son système de production.
+[14] Vidacrete présentait un certain nombre de caractéristiques très intéressantes et semblait offrir de grandes possibilités [8] . Le modèle d’entreprise proposé par Vidabode se résumait essentiellement comme suit. Vidabode proposait de construire une usine de production en Nouvelle-Écosse pour y réaliser une partie de la production. L’usine et le produit pourraient ensuite être présentés aux clients. L’usine a été construite. Vidabode a également construit une maison de 1 800 pi² (550 m2) à côté de l’usine terminée, en utilisant le produit Vidacrete pour montrer ce qui pouvait être fait avec ce produit.
+[15] Vidabode avait l’intention de vendre des licences maîtresses pour l’utilisation de la technologie de l’usine de production au montant de 7,5 millions de dollars, et de percevoir des redevances qui seraient calculées en fonction de chaque mètre cube de ciment produit. Le titulaire de licence aurait à débourser environ 12 millions de dollars pour l’acquisition et l’installation du matériel de production. Il devrait également faire l’acquisition du terrain et des bâtiments pour l’usine proprement dite [9] . Vidabode voulait aussi vendre l’usine de la Nouvelle-Écosse, mais avait l’intention de maintenir le siège social de Vidabode dans la province.
+[16] Faisant fi de la recommandation de M. Strassburger qui déconseillait d’investir dans cette entreprise, les autres membres de la famille ont voté en faveur du projet et la famille a investi dans Vidabode de diverses façons.
+[17] Malheureusement, les choses ont mal tourné et le projet s’est soldé par des pertes financières et le litige devant notre Cour.
+[18] La participation de la famille dans Vidabode a débuté en 2006 lorsque Twincorp Inc., une entreprise qui était la propriété exclusive de M. Strassburger, a consenti deux prêts totalisant 500 000 $; Vidabode a émis des billets à ordre à Twincorp pour un montant de 500 000 $. En 2007, BWS a consenti un prêt de 4 millions de dollars à Vidabode [10] . En 2007, BWS a aussi acheté des actions privilégiées non émises de catégorie C et sans droit de vote de Vidabode, pour un montant de 1 025 000 $. Toujours en 2007, Dorothy Strassburger, la mère de M. Strassburger, a acheté, de Vidabode, des actions privilégiées non émises de catégorie B et sans droit de vote, pour un montant de 300 000 $ [11] .
+[19] Puis, au début de juin 2008, BWS a acheté 2,5 millions d’actions non émises de Vidabode. Ainsi que nous le verrons ci-après, en 2008, l’appelante et d’autres entreprises familiales liées se sont portées garantes de certains prêts consentis par GE Capital à Vidabode. Ce n’est qu’à la fin de 2010 que l’appelante est devenue actionnaire de Vidabode, en faisant l’acquisition des actions à l’égard desquelles elle a demandé la perte déductible au titre d’un placement d’entreprise qui est l’objet du litige dans le présent appel.
+[20] En date de juin 2008, BWS possédait environ 25 % des actions avec droit de vote de Vidabode et environ 25 % des voix [12] .
+[21] Au début de 2008, Vidabode a obtenu un financement totalisant 23 450 000 $ de GE Capital, au titre de trois accords différents [13] . Vidabode et les autres investisseurs n’ayant pas réussi à réunir les fonds nécessaires pour l’achat du matériel nécessaire pour l’usine de la Nouvelle-Écosse, ils ont fait appel à M. Strassburger. Ce dernier avait déjà fait affaire avec GE Capital pour obtenir du financement et, en six mois, il a obtenu le montage financier nécessaire.
+[22] La société 2090810 Ontario Ltd. est une filiale en propriété exclusive de BWS, dont le président était M. Strassburger.
+[23] L’appelante a commencé à participer au financement de Vidabode lorsque les accords de prêt ont été conclus avec GE Capital. L’appelante s’est portée garante de l’accord de financement hypothécaire de 2,2 millions de dollars. Le prêt hypothécaire était garanti par le bien immobilier où était située l’usine de ciment en Nouvelle-Écosse. Aux termes des deux autres accords, Vidabode, BWS et 2090810 Ontario étaient les garants des deux prêts. Ces deux prêts étaient garantis par des biens immobiliers situés à quatre endroits en Ontario, dont un était la propriété de l’appelante, deux appartenaient à BWS et un était la propriété de 2090810 Ontario [14] .
+[24] L’appelante n’a perçu aucun droit pour se porter garante [15] . BWS n’a pas tardé à consentir d’autres prêts à Vidabode.
+[25] Les prêts consentis par GE Capital ont servi au remboursement d’une hypothèque grevant le bien immeuble de la Nouvelle-Écosse, à l’achat d’équipement, au remboursement du prêt de 4 millions de dollars consenti par BWS et au remboursement de quelques prêts consentis par Twincorp, ainsi que comme fonds d’exploitation. Les états financiers de 2008 et 2009 font état de soldes dus par Vidabode au titre de billets à ordre détenus par BWS, qui s’élevaient à 2 150 000 $ le 31 décembre 2008 et à 6 441 394 $ le 31 décembre 2009 [16] .
+[26] En septembre 2009, BWS a fait l’acquisition de 1,6 million d’actions qui lui ont été transférées par un autre actionnaire, Atlantic Aboriginal Capital Inc. (AACI); en contrepartie, BWS s’est portée garante d’un prêt consenti à Vidabode par Banc Developments Limited (Banc) [17] .
+[27] À la suite de l’acquisition de ces 1,6 million d’actions supplémentaires, BWS détenait environ 41 % des actions ordinaires et environ 41 % des voix et devenait ainsi le principal actionnaire de Vidabode. Le deuxième actionnaire en importance était AACI, qui détenait environ 34 % des voix.
+[28] En septembre 2009, une modification a été apportée à la convention conclue entre l’ensemble des actionnaires de Vidabode. Les articles 2 et 3 de la convention d’actionnaires modifiée prévoyaient i) que BWS pourrait nommer deux des quatre administrateurs de Vidabode, ii) que BWS aurait le droit de nommer un de ces deux administrateurs au poste de président du conseil d’administration et iii) que le président nommé par BWS aurait une voix prépondérante [18] . Selon cette convention, AACI pouvait nommer les deux autres administrateurs.
+[29] Tout au long de son existence, Vidabode n’a pu générer que de modestes revenus. L’entreprise a essuyé des pertes considérables, notamment durant les exercices se terminant les 31 décembre 2008 et 2009. Ces années-là, l’entreprise a affiché des pertes s’élevant à environ 7 et 8,6 millions de dollars, respectivement [19] .
+[30] À la fin de 2009, Vidabode prévoyait réaliser des bénéfices de 51 millions de dollars sur cinq ans. M. Strassburger avait toutefois certaines craintes à ce sujet et il a envoyé son propre directeur financier, M. Bunty, en Nouvelle-Écosse pendant dix jours, pour examiner l’entreprise et faire sa propre évaluation. Au terme de sa visite, M. Bunty a conclu que Vidabode pouvait envisager des bénéfices d’exploitation d’environ 40 millions de dollars sur cinq ans. Cette estimation était basée sur la vente de quatre usines, vente qui semblait alors avoir de bonnes chances de se réaliser [20] .
+[31] En raison de certains problèmes avec l’ancien président de Vidabode, M. Strassburger est devenu président et secrétaire-trésorier de Vidabode à la fin d’août 2010.
+[32] Les administrateurs de Vidabode étaient Mme Wanda Arnold, M. Robin Googoo, M. Strassburger et M. David MacDonald. Mme Arnold et M. Googoo étaient les administrateurs nommés par AACI. Le conseil d’administration se réunissait tous les mois, sauf durant l’été [21] .
+[33] M. MacDonald a d’abord parlé de Vidabode au frère de M. Strassburger. Cela incita M. Strassburger et sa famille à investir dans Vidabode. Pour avoir amené la famille Strassburger à investir, M. MacDonald a obtenu un million d’actions, soit environ 10 % des actions avec droit de vote, au même moment que BWS [22] . M. MacDonald et M. Strassburger sont également devenus associés dans une entité non constituée du nom de Davenport Industries, l’un des agents de vente pour Vidabode [23] .
+[34] En 2010, la situation financière de Vidabode était devenue clairement inquiétante. Avant l’exercice financier 2008, les recettes annuelles de l’entreprise n’avaient jamais dépassé 5 060 $. L’entreprise a enregistré des recettes de 848 845 $ en 2008 et de 108 932 $ en 2009. À la fin de 2009, toutefois, le déficit accumulé indiqué sur le bilan atteignait quelque 17 700 000 $ [24] .
+[35] Comme l’un des prêts consentis prévoyait un versement forfaitaire et final d’environ 3 millions de dollars exigible à la fin de septembre 2010 et comme un autre prêt arrivait à échéance au milieu de 2011, M. Strassburger a entrepris des discussions avec GE Capital à la fin du printemps de 2010. GE Capital a alors informé M. Strassburger qu’elle demanderait le remboursement de tous les autres prêts au milieu de 2011.
+[36] M. Strassburger était très préoccupé par cette annonce. Les membres de sa famille l’ont alors informé que ni BWS ni l’appelante ne paieraient le versement forfaitaire de 3 millions de dollars [25] . M. Strassburger a tenté de voir si les autres actionnaires financeraient le paiement. Lors de la réunion du conseil d’administration tenue en août, les représentants d’AACI ont déclaré qu’ils étudieraient la question, mais AACI n’a finalement offert aucun financement.
+[37] GE Capital a refusé de reporter l’échéance du paiement et Vidabode s’est retrouvée en défaut de paiement du versement forfaitaire. GE Capital a donc demandé le remboursement de tous les prêts.
+[38] M. Strassburger a entrepris des démarches auprès de la Banque TD en vue d’obtenir des fonds pour rembourser GE Capital. Il a obtenu une prorogation de l’échéance jusqu’à la fin de novembre, à condition que GE Capital reçoive un paiement de 500 000 $ à la fin d’octobre. L’appelante a effectué le paiement de 500 000 $ au nom de Vidabode, qui lui a remis un billet à ordre de 500 000 $, dont le non-respect constitue la troisième question en litige dans le présent appel [26] . Ce billet a été émis le 29 octobre 2010 et portait intérêts à 10 % par année, calculés mensuellement [27] .
+[39] À peu près à la même période, Vidabode a décidé de mettre à pied la plupart de ses employés et de cesser les activités de l’usine afin de freiner l’érosion de ses capitaux. L’usine resterait toutefois accessible pour les clients potentiels qui voudraient la visiter et des employés pourraient être rappelés au besoin pour rouvrir l’usine [28] .
+[40] M. Strassburger a poursuivi ses démarches auprès de la Banque TD et, finalement, en décembre 2010, l’appelante a obtenu le financement nécessaire pour rembourser GE Capital.
+[41] Une fois l’accord de financement conclu avec la TD, M. Strassburger a cherché à déterminer la meilleure façon de rembourser GE Capital. M. Strassburger a consulté des avocats, des experts-comptables et des fiscalistes qui lui ont recommandé que l’appelante fasse l’acquisition d’actions [29] . Vers le 22 décembre 2002 [sic], l’appelante a donc souscrit 19 343 493 actions ordinaires de Vidabode d’une valeur nominale d’un dollar l’action. Vers le 29 décembre 2010, l’appelante a emprunté 14 452 515 $ qui ont servi à acheter 14 452 515 actions [30] .
+[42] À la suite de cette acquisition, l’appelante et BWS possédaient environ 80 % des actions [31] .
+[43] Comme le ministre a présumé que la juste valeur marchande de ces 19 343 493 actions ordinaires était nulle et que l’appelante a décidé de ne pas contester cette conclusion, je dois poursuivre en tenant pour acquis que la juste valeur marchande de ces actions était nulle [32] .
+[44] Le ministre a également présumé, et l’appelante l’a admis au début de l’audience, qu’au moment où l’appelante a souscrit les actions de Vidabode, Vidabode était incapable de s’acquitter de ses obligations financières et son passif dépassait largement son actif.
+[45] À la fin de 2010, Vidabode n’avait encore réalisé aucune vente. Le versement à Vidabode de quelques dépôts non remboursables en 2008 est ce qui se rapproche le plus d’une vente [33] .
+[46] Bien que l’appelante ait injecté un montant supplémentaire de 14 millions de dollars en espèces dans Vidabode, par l’acquisition d’actions non émises, et que cela ait résolu le problème du remboursement des dettes envers GE Capital, cela n’a pas résolu le problème des sommes en souffrance dues à d’autres créanciers, qui se chiffraient à entre un et 2 millions de dollars à la fin de décembre 2010. D’après la liste des dettes au moment où Vidabode a été mise sous séquestre, le montant se situait sans doute plus près de 2 millions de dollars [34] .
+[47] Lors de la réunion du conseil d’administration du 22 décembre 2010, M. Strassburger a clairement indiqué que ni BWS ni l’appelante ni la Banque TD ne verseraient des fonds supplémentaires pour couvrir des comptes créditeurs ou quelques autres coûts futurs. Il fallait que les autres propriétaires investissent ou que des usines de ciment soient vendues [35] .
+[48] Selon les estimations de M. Strassburger, Vidabode avait besoin d’environ 20 000 $ par mois pour poursuivre ses activités [36] .
+[49] Il ne fait aucun doute que l’injection, par l’appelante, d’un montant supplémentaire d’environ 14 millions de dollars en espèces était motivée par la nécessité de rembourser GE Capital. Même si tous savaient que le versement forfaitaire était exigible en septembre, les autres prêts auraient normalement duré plus longtemps. Cependant, ainsi qu’il a été indiqué précédemment, comme le versement forfaitaire n’a pas été effectué, GE Capital a demandé le remboursement de tous les prêts, ce qui a précipité une crise.
+[50] L’appelante, BWS et 2090810 Ontario étaient toutes garantes des prêts et n’avaient d’autre choix que de réunir l’argent nécessaire pour honorer les garanties, puisque personne d’autre ne proposait de verser l’argent dont avait besoin Vidabode pour rembourser les prêts.
+[51] Même lorsque le problème se résumait au versement forfaitaire de 3 millions de dollars exigible en septembre 2010, personne n’a offert de fournir cette somme. Ainsi qu’il a été indiqué précédemment, avant la réunion du conseil d’administration tenue à la fin d’août 2010, la famille de M. Strassburger avait informé ce dernier que ni BWS ni l’appelante ne rembourseraient les 3 millions de dollars. Lors de la réunion du conseil d’administration du mois d’août, les représentants d’AACI ont indiqué qu’ils verraient ce qu’ils pourraient faire, mais n’ont finalement donné aucune suite.
+[52] Il est clair que les conseillers de Keybrand avaient déjà envisagé, avant la réunion du conseil d’administration du 22 décembre 2010, la possibilité que Vidabode soit insolvable, et ils se préparaient à cette éventualité. Une lettre de BWS à BDO Canada Limited (BDO), désignant BDO à titre de syndic, a été signée par M. Strassburger le mercredi 5 janvier 2011, soit une semaine exactement après le versement par l’appelante de 14 millions de dollars à Vidabode. Comme la date indiquée sur la première page de cette lettre était le 15 décembre 2010, il est raisonnable de conclure que cette lettre a été rédigée à peu près à cette date [37] . Un courriel daté du 5 janvier 2011 demandait la préparation d’un chèque de 25 000 $ à titre de provision sur honoraires pour BDO.
+[53] Il semble toutefois s’être écoulé quelque temps avant que BDO accepte cette nomination, car BDO n’est devenu le syndic de Vidabode que le ou vers le 14 avril 2011. Vidabode a demandé la protection de la loi sur la faillite le ou vers le 6 mai 2011.
+Discussion
+[54] Il est utile de rappeler à nouveau le paragraphe 251(1) de la Loi :
+Pour l’application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+c) dans les autres cas, la question de savoir si des personnes non liées entre elles n’ont aucun lien de dépendance à un moment donné est une question de fait.
+[55] L’appelante et 2090810 Ontario sont toutes deux la propriété exclusive de BWS. M. Strassburger est le président de ces trois sociétés et le seul administrateur de BWS et de l’appelante [38] . BWS peut élire tous les administrateurs de l’appelante et de 2090810 Ontario; ces deux entreprises sont donc contrôlées par BWS.
+[56] Sans passer en revue la définition de « personnes liées » au sens du paragraphe 251(2) de la Loi, je mentionnerais simplement que cette définition inclut les personnes unies par les liens du sang, du mariage ou de l’adoption, ainsi que les sociétés où une société contrôle l’autre [39] .
+[57] L’appelante, BWS et 2090810 Ontario sont liées au sens du paragraphe 251(2) et ont donc, par conséquent, des liens de dépendance les unes envers les autres [40] .
+[58] Comme nous l’avons vu précédemment, l’alinéa 251(1)c) prévoit ce qui suit :
+c) dans les autres cas, la question de savoir si des personnes non liées entre elles n’ont aucun lien de dépendance à un moment donné est une question de fait.
+[59] Dans la version canadienne du dictionnaire Oxford [41] , la signification pertinente de l’expression at arm’s length ([TRADUCTION] sans lien de dépendance ) est la suivante :
+[TRADUCTION]
+2 suffisamment éloigné pour éviter une familiarité ou une influence indue
+[60] Les définitions pertinentes, dans le dictionnaire anglais Oxford [42] , sont ainsi rédigées :
+d.
+(a) at arm’s-length. [traduction] (sans lien de dépendance)
+(i) [...] [...]
+[...] [...] [...]
+(ii) Droit. S’entend de deux parties, sans obligation légale l’une envers l’autre, notamment d’obligations fiduciaires; (également, dans un sens plus général) dans une position indépendante ou impartiale; activité menée par des parties indépendantes ou impartiales.
+[...] [...] [...]
+b) [. . .]
+arm’s-length adj. [traduction] (sans lien de dépendance) Mené ou convenu par des parties indépendantes, qui ne peuvent exercer de contrôle l’une sur l’autre, ni faire pression l’une sur l’autre; caractérisé par la distance, l’indépendance ou l’impartialité.
+[61] Dans l’arrêt Canada c. McLarty, [43] , la Cour suprême du Canada déclare ce qui suit :
+[62] Le bulletin d’interprétation IT‑419R2 de l’Agence du revenu du Canada intitulé « Sens de l’expression “sans lien de dépendance” » (8 juin 2004) énonce une méthode pour déterminer s’il existe ou non un lien de dépendance entre les parties à une opération. La réponse dépendra des faits de chaque affaire. Les tribunaux ont toutefois élaboré et accepté des critères utiles : voir par exemple Peter Cundill & Associates Ltd. c. Canada, [1991] A.C.F. no 21 (QL) (1re inst.), conf. par [1991] A.C.F. no 1008 (QL) (C.A.). Le bulletin indique ce qui suit :
+22. ... En proposant des critères généraux pour déterminer si, pour une opération donnée, des personnes non liées ont entre elles un lien de dépendance ou non, il faut tenir compte du fait qu’il est impossible d’élaborer des lignes directrices prévoyant toutes les situations. Chaque transaction ou série de transactions donnée doit être examinée individuellement. Vous trouverez ci‑après les lignes directrices générales de l’ARC ainsi que des commentaires particuliers à propos de certaines relations.
+23. Les tribunaux ont, de manière générale, appliqué les critères suivants pour déterminer si une transaction avait été réalisée entre des personnes « sans lien de dépendance » :
+× un seul cerveau dirige les négociations pour les deux parties à une transaction;
+× les parties à une transaction agissent de concert sans intérêts distincts;
+× il y a exercice effectif (de fait) du contrôle.
+[62] Ces trois derniers critères, à savoir un seul cerveau, agir de concert et avoir un exercice effectif du contrôle de fait, ont été largement cités dans la jurisprudence. Cependant, il ne fait aucun doute, à la lecture du début du paragraphe 62 de la décision de la Cour suprême, lorsque celle-ci déclare, « La réponse dépendra des faits de chaque affaire. Les tribunaux ont toutefois élaboré et accepté des critères utiles : [...] », que ces trois critères ne sont pas exclusifs et que tout autre facteur pertinent peut être pris en compte.
+[63] Dans cette décision, la Cour suprême définit également, dans le passage suivant, le but des dispositions relatives à l’absence de lien de dépendance :
+[43] Il est établi depuis longtemps que lorsque des personnes entre lesquelles il existe un lien de dépendance effectuent une opération, rien n’assure que celle‑ci « sera le reflet d’opérations commerciales ordinaires entre des parties agissant dans le sens de leurs intérêts distincts » [...] Les dispositions de la Loi de l’impôt sur le revenu relatives aux opérations entre des personnes ayant un lien de dépendance visent à empêcher que des opérations artificielles procurent des avantages fiscaux à ces personnes ou à l’une d’elles. Lorsqu’il existe un lien de dépendance entre les parties, le contribuable qui a fait l’acquisition est réputé l’avoir faite à la juste valeur marchande, même s’il a versé une somme supérieure à celle‑ci. [...]
+[64] Dans l’arrêt McGillivray Restaurant Ltd. c. Canada [44] , la Cour d’appel fédérale examine les règles de droit régissant le contrôle en regard premièrement de la décision rendue par la Cour suprême du Canada dans l’arrêt Duha Printers (Western) Ltd. c. Canada [45] .
+[65] Il est utile à cet égard de rappeler ce que la Cour suprême du Canada a déclaré au paragraphe 70 de l’arrêt Duha :
+Comme je l’ai affirmé, le but essentiel du critère de Buckerfield’s est de déterminer où est situé le contrôle véritable de la société [...]
+[66] Dans l’arrêt McGillivray, la Cour d’appel fédérale mentionne ce qui suit au paragraphe 35 :
+Dans l’arrêt Silicon Graphics, le juge Sexton a formulé le critère en ces termes :
+[67] Par conséquent, je suis d’avis que pour que l’on puisse conclure à un contrôle de fait, une personne ou un groupe de personnes doivent avoir le droit et la capacité manifestes de procéder à une modification importante du conseil d’administration ou des pouvoirs du conseil ou d’influencer d’une façon très directe les actionnaires qui auraient autrement la capacité de choisir le conseil d’administration.
+[Non souligné dans l’original]
+[67] L’arrêt McGillivray réaffirme le critère énoncé dans l’arrêt Silicon Graphics, puis ajoute que ce critère étroit n’a pas été infirmé dans des décisions ultérieures de la Cour d’appel fédérale. Plus précisément, la Cour d’appel fédérale a rejeté « [...] toute affirmation selon laquelle le critère du contrôle est, en réalité, fondé sur le “contrôle de l’exploitation” ». [46]
+[68] En l’espèce, BWS a le pouvoir d’élire deux administrateurs, dont un occupera les fonctions de président du conseil et aura une voix prépondérante. Ce pouvoir découle de la convention des actionnaires.
+[69] BWS est donc en mesure de contrôler les décisions du conseil d’administration, au sens utilisé pour déterminer si une personne a le contrôle de la société. Dans la pratique, l’exercice d’une voix prépondérante peut se comparer à la possibilité, pour BWS, de nommer trois des cinq administrateurs. [47]
+[70] Eu égard à ce fait, il semble que je ne puis que conclure que le critère énoncé dans l’arrêt Silicon Graphics est satisfait. BWS exerçait un contrôle de fait sur Vidabode [48] . Il s’ensuit que BWS et Vidabode ne sont pas sans lien de dépendance et, comme BWS et l’appelante ont un lien de dépendance, l’appelante et Vidabode ont elles aussi un lien de dépendance.
+[71] Cela suffit pour trancher la première question [49] .
+[72] Par conséquent, l’appelante n’a pas droit à la déduction pour perte déductible au titre d’un placement d’entreprise [50] .
+[73] J’examinerai maintenant la deuxième question, à savoir la déductibilité des intérêts sur l’emprunt d’un montant d’environ 14 millions de dollars. La principale question en l’espèce est de savoir si l’appelante a emprunté l’argent en vue de tirer un revenu, comme l’exige l’alinéa 20(1)c) de la Loi de l’impôt sur le revenu.
+[74] Je conclus que l’appelante n’aurait pas emprunté 14 millions de dollars, n’eût été son obligation, et de celle de BWS et de 2090810 Ontario, d’honorer la garantie. Ce paiement était fondamentalement motivé par le fait que, quoi qu’il en soit, l’appelante ou les deux entreprises liées auraient eu à honorer les garanties envers GE Capital.
+[75] La décision d’acheter des actions, plutôt que d’avoir recours à d’autres solutions pour honorer les garanties et la dette envers GE Capital, était fondée sur les conseils que BWS et l’appelante avaient reçus de professionnels quant à la meilleure façon d’agir [51] .
+[76] Il est possible toutefois que cette transaction ait été motivée par plus d’un facteur et, aux fins du critère énoncé à l’alinéa 20(1)c) de la Loi de l’impôt sur le revenu, il suffit de conclure qu’il existe un objectif accessoire de tirer un revenu.
+[77] Je conclus que l’appelante souhaitait tirer un revenu des actions.
+[78] Cependant, le critère applicable est le suivant : « […] Compte tenu de toutes les circonstances, le contribuable avait-il, au moment de l’investissement, une expectative raisonnable de tirer un revenu? » [52] .
+[79] Pour le motif énoncé ci-après, malheureusement, je ne vois pas comment je pourrais conclure que l’appelante pouvait avoir une expectative raisonnable de tirer un revenu en décembre 2010.
+[80] Même s’il est vrai que la vente d’une seule licence d’exploitation d’une usine de ciment aurait pu marquer le début d’une reprise pour Vidabode, le cumul des difficultés importantes observées en décembre 2010 rendait ce redressement très improbable. Examinons quelles étaient ces difficultés.
+[81] À la fin de décembre 2010, les comptes créditeurs de Vidabode étaient considérables, et l’entreprise avait peu de liquidités. Elle avait rapidement besoin de capitaux, en plus des 14 millions de dollars, sans quoi l’effondrement de l’entreprise serait tout aussi rapide [53] .
+[82] Vidabode aurait eu besoin d’au moins deux dépôts d’un million de dollars provenant de deux ventes, pour couvrir ses comptes créditeurs et ses modestes frais courants et pour poursuivre ses activités durant une courte période.
+[83] Cependant, Vidabode n’avait encore réalisé aucune vente en décembre 2010, même si elle s’y efforçait depuis déjà un certain temps, et il n’y avait aucun client potentiel à l’horizon qui avait versé un dépôt. De plus, comme l’a indiqué M. Strassburger au début de la réunion du conseil d’administration du 22 décembre, il était à l’époque difficile pour les entreprises d’obtenir du crédit [54] .
+[84] Rien ne laissait donc croire qu’une vente ou un dépôt puisse se produire assez rapidement, compte tenu de l’urgence réelle des besoins en capitaux.
+[85] En août 2010, lors de la réunion du conseil d’administration, les représentants d’AACI avaient déclaré qu’ils verraient ce qu’ils pourraient faire pour effectuer le versement forfaitaire exigé; ils étaient revenus les mains vides, et ce, même si M. Strassburger avait informé AACI que sa famille refusait de payer les 3 millions exigés au titre du versement forfaitaire.
+[86] En septembre, Vidabode s’est donc retrouvée en défaut de paiement du versement forfaitaire exigé, et GE Capital a alors demandé le remboursement de tous les prêts, provoquant ainsi une crise financière au sein de l’entreprise.
+[87] Nonobstant ce qui précède, lorsque le représentant d’AACI et M. MacDonald se sont présentés à la réunion du conseil d’administration du 22 décembre 2010, ils n’avaient aucune solution de financement à proposer.
+[88] La seule question soulevée par le représentant d’AACI au conseil d’administration était la crainte que la proposition ne dilue la participation relative d’AACI dans Vidabode. AACI a demandé, et obtenu, un délai pour examiner la possibilité de réunir des fonds pour maintenir sa participation relative au sein de Vidabode. AACI a ainsi obtenu un délai de 20 jours pour tenter de réunir les fonds nécessaires, auquel cas Keybrand vendrait à AACI le nombre approprié d’actions. Cela représenterait 34 % des 19 millions d’actions qui, selon la proposition de M. Strassburger, devaient être acquises par l’appelante [55] . Cependant, pour acquérir ces actions, AACI aurait eu à débourser plus de 6 millions de dollars. Or, d’après les éléments de preuve qui m’ont été présentés, cela n’allait tout simplement pas se réaliser [56] . De plus, même s’il avait été très bénéfique pour l’appelante qu’AACI obtienne 34 % des actions que l’appelante proposait d’acquérir, cela n’aurait pas procuré de fonds supplémentaires pour financer les opérations de Vidabode. Rien n’indique non plus qu’AACI envisageait de prêter de l’argent à Vidabode pour qu’elle rembourse ses dettes et qu’elle poursuive ses activités. Lors de la réunion du conseil d’administration de décembre, M. Strassburger n’a pas proposé que Keybrand ou BWS injecte des fonds devant servir au paiement des comptes créditeurs et au maintien des activités, si AACI investissait une somme considérable en achetant des actions.
+[89] Même si, en acquérant ces actions, l’appelante et BWS détenaient désormais environ 80 % des actions ordinaires, l’appelante et BWS refusaient d’investir davantage que la somme requise pour payer les garanties [57] .
+[90] Comme l’appelante, BWS et la famille de M. Strassburger n’avaient nullement l’intention d’investir davantage pour couvrir les comptes créditeurs ou d’autres coûts pour permettre à Vidabode de continuer de fonctionner, et qu’il n’y avait aucune raison de penser que les autres actionnaires de Vidabode investiraient les sommes nécessaires ou de s’attendre à ce qu’une usine soit vendue rapidement, l’expectative raisonnable à la fin de décembre 2010 était qu’il y aurait effondrement rapide de l’entreprise. Cela ne cadre pas avec une expectative raisonnable de revenu [58] .
+[91] Il s’ensuit que l’appelante n’a pas droit à la déduction des intérêts sur la somme empruntée pour acheter les actions.
+[92] La dernière question en litige concerne la perte en capital sur le prêt de 500 000 $. La question de fond qui se pose ici est la même que pour la question en litige précédente : y avait-il une expectative raisonnable de tirer un revenu?
+[93] Le billet à ordre pour le prêt, daté du 29 octobre 2010, indique clairement que le prêt a été consenti à un taux de 10 % par année, calculé mensuellement [59] .
+[94] De prime abord, le prêt est consenti dans le but d’en tirer un revenu. Le prêt a été consenti deux mois avant la réunion du conseil d’administration de décembre, auquel moment la survie de Vidabode était toujours une possibilité. La situation n’était pas encore celle observée à la fin décembre.
+Conclusion
+[95] Par conséquent, l’appel portant sur l’année d’imposition 2011 sera accueilli, mais seulement dans la mesure nécessaire pour admettre la perte en capital résultant du prêt de 500 000 $ et pour effectuer tout rajustement corrélatif à l’année d’imposition 2012.
+[96] Les dépens sont adjugés à l’intimée. Si les parties ne peuvent s’entendre sur les dépens d’ici le 16 septembre 2019, elles en informeront le greffe et des dispositions seront prises pour la présentation d’observations, verbalement ou par écrit, relativement aux dépens. Si cela peut être utile aux parties, j’aimerais préciser que, d’après ce qui a été présenté au procès, je ne vois aucune raison de s’écarter des règles et du tarif établis en matière de dépens; il pourrait toutefois exister d’autres facteurs que j’ignore.
+Signé à Ottawa, Canada, ce 2e jour d’août 2019.
+« Gaston Jorré »
+Le juge suppléant Jorré
+Traduction certifiée conforme
+ce 29e jour d’octobre 2019.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2019 CCI 161
+No DU DOSSIER DE LA COUR :
+2016-2904(IT)G
+INTITULÉ :
+KEYBRAND FOODS INC.,
+c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Les 19, 20 et 21 novembre 2019
+OBSERVATIONS SUPPLÉMENTAIRES
+REÇUES DES PARTIES
+Les 11 et 12 mars 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Gaston Jorré
+DATE DU JUGEMENT :
+Le 2 août 2019
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Keith M. Trusser
+Me Sean C. Flaherty
+Avocat de l’intimée :
+Me Tokunbo Omisade
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Keith M. Trusser
+Me Sean C. Flaherty
+Cabinet :
+McKenzie Lake Lawyers LLP
+London (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Ces années d’imposition ont pris fin le 24 avril 2011 et le 29 avril 2012, respectivement. Trois questions se posent en l’espèce. Elles concernent toutes l’année d’imposition 2011. Quant à l’année d’imposition 2012, la nouvelle cotisation résulte tout simplement de l’imputation à l’année 2012 de la nouvelle cotisation établie pour l’année 2011.
+[2] Voir la page 8 de la transcription de la première journée d’audience. Je suis quelque peu étonné par cette déclaration, étant donné que l’avis d’appel déposé par un autre cabinet d’avocats soulevait la question de la juste valeur marchande mais semblait passer sous silence celle du lien de dépendance. Si l’on suppose, sans toutefois en décider, que la question du lien de dépendance n’a pas été soulevée, puisque l’intimée n’a pas soulevé d’objection et n’a pas semblé étonnée, je présume que l’intimée a été informée de ce changement suffisamment tôt durant les procédures préalables à l’instruction que cela n’a eu aucune incidence sur le déroulement de l’instruction pour l’intimée. Même si un avis d’appel devrait exposer clairement la ou les questions en litige, puisque les procédures préalables à l’instruction ont justement pour but de permettre la communication des faits, d’assurer un procès équitable et, de façon plus générale, de servir l’intérêt de la justice et, puisqu’il ne semble y avoir eu aucune injustice en l’espèce, dans les circonstances, je peux, comme l’ont fait les parties, faire abstraction sans crainte de la question visant à savoir si le lien de dépendance a ou non été soulevé dans l’avis d’appel.
+[3] Au début de l’audience, l’appelante a retiré certaines questions secondaires.
+[4] Le paragraphe 251(2) est également pertinent.
+[5] Deux témoins ont été appelés, M. Bernhardt Strassburger et Mme Emma Plant, la vérificatrice chargée du dossier.
+[6] Lorsque M. Strassburger était enfant, son père avait un restaurant en bord de route et il a fait la rencontre du colonel Sanders lors d’une conférence sur les services alimentaires. Peu après, le colonel Sanders s’est rendu au domicile familial où il a séjourné pendant deux jours; le colonel Sanders et le père de M. Strassburger ont alors cuisiné du poulet, et le père de M. Strassburger est devenu le premier franchisé de la chaîne Poulet Frit Kentucky au Canada. M. Strassburger se rappelle que le colonel portait alors un habit foncé, et non un habit blanc.
+[7] Voir la note 13 des états financiers pour l’exercice se terminant le 31 décembre 2009 (onglet 5, pièce A-1). Je tiens à souligner que les cahiers de preuve documentaire des parties, soit les pièces A-1, A-2 et R-1, ont d’abord été cotés provisoirement et que les documents correspondant aux différents onglets ont été déposés en preuve un à un durant l’audience. Seulement quelques onglets ont été déposés en preuve. Un résumé des onglets déposés en preuve est présenté à partir de la page 293 de la transcription du troisième jour d’audience. La preuve contient également les pièces R-2 et R-3.
+[8] Voir la page 49 de la transcription de la première journée d’audience.
+[9] Voir les pages 37 et 38 de la transcription de la première journée d’audience, ainsi que l’ébauche de l’accord de licence maîtresse présentée à l’onglet 34 de la pièce A-1, et plus particulièrement l’alinéa 4.2d).
+[10] Voir les notes 8 et 9 des états financiers de l’exercice 2007 (onglet 3, pièce A-1).
+[11] Voir les pages 165 à 167 de la transcription de la première journée d’audience et l’onglet 3 de la pièce R-2, aux pages 380 et 381, ainsi que la note 17 des états financiers de 2007 (onglet 3, pièce A-1).
+[12] Voir le registre des actionnaires détenteurs d’actions ordinaires (onglet 9, pièce A-1). Il y avait également un petit nombre d’actions privilégiées sans droit de vote. Voir les notes des états financiers (onglets 1 à 5 de la pièce A-1), et, plus particulièrement, la note 12 des états financiers (onglet 5) où il est indiqué que ces actions privilégiées sont sans droit de vote. Les 2,5 millions d’actions ont été vendues au coût de 0,0004 $ par action, pour un coût total de 1 000 $.
+[13] Ces accords sont présentés aux onglets 16, 17 et 18 de la pièce A-1. Selon la note 9 des états financiers de Vidabode pour l’exercice 2009, il semble que les soldes de ces trois prêts à la fin de 2008 et de 2009 se chiffraient à un peu moins de 18 millions de dollars et à un peu moins de 15,7 millions de dollars, respectivement.
+[14] L’un de ces prêts était garanti par trois de ces quatre biens immobiliers, et l’autre par deux de ces biens immobiliers. Voir les pages 112 et 113 de la transcription de la première journée d’audience. Bien que je mentionne trois prêts et que la preuve ne fait état que de trois accords de prêt, je remarque que les états financiers semblent indiquer un quatrième accord de prêt conclu avec GE Capital – voir la note 9 des états financiers de 2009 (onglet 5, pièce A-1). Durant son témoignage, M. Strassburger a également mentionné quatre accords. Le nombre d’accords de prêt, qu’il y en ait eu trois ou quatre, n’a toutefois aucune incidence sur les questions en litige dans le présent appel.
+[15] Voir les pages 110 à 114 de la transcription de la première journée d’audience.
+[16] Voir les pages 43 et 44 de la transcription de la première journée d’audience, ainsi que les onglets 15, 16 et 17 de la pièce A-1 et la note 8 des états financiers de 2009 (onglet 5, pièce A-1).
+[17] Voir l’onglet 13, pièce A-1.
+[18] Voir l’onglet 11, pièce A-1. Bien que l’entente soit simplement désignée «convention d’actionnaires», il y est clairement indiqué, au bas de la première page, que les signataires possèdent la totalité des actions de l’entreprise. Il semble que la société Banc Developments Limited soit ultérieurement devenue un actionnaire, mais rien n’indique qu’une nouvelle convention d’actionnaires a été ratifiée; par conséquent, tous les signataires de la convention d’actionnaires, qui ensemble détenaient environ 85 % des actions, continuaient d’être liés par cette convention. Comme Banc ne détenait qu’environ 15 % des actions ordinaires, elle ne pouvait exercer quelque influence sur l’élection des administrateurs ni changer le fait que BWS pouvait nommer deux administrateurs en plus d’avoir une voix prépondérante. Banc est devenue actionnaire après avoir consenti un prêt à Vidabode; selon le contrat de prêt, Banc avait droit à 1,5 million d’actions ordinaires, en plus du remboursement du prêt, en cas de défaut de paiement à la date d’échéance de la part de Vidabode. Or, Vidabode n’a pas payé à l’échéance.
+Il serait indiqué à ce stade de mentionner une question de fait qui a été soulevée durant le procès. Alors que le ministre présumait que BWS détenait 40 % des actions de Vidabode, on a laissé entendre à M. Strassburger, lors de l’audience, que BWS détenait environ 56 % des actions ordinaires en date de décembre 2010. Le cas échéant, BWS et Vidabode auraient eu, pour ce seul motif, un lien de dépendance.
+Un certain nombre d’éléments de preuve appuient cette prétention. Plus précisément, le contrat de prêt conclu entre Banc et Vidabode prévoyait que, si Vidabode était en défaut de paiement, Banc pouvait conserver les 1,5 million d’actions ordinaires données en garantie par AACI; le contrat prévoyait en outre que, si BWS remédiait au défaut de paiement dans les dix jours ouvrables suivant la réception de l’avis de défaut de paiement, Banc céderait alors les 1,5 million d’actions ordinaires à BWS – voir onglet 13, pièce A-1. Nous savons que Banc ne figure pas comme créancier dans les documents concernant la mise sous séquestre; quelqu’un a donc dû rembourser la dette envers Banc.
+De plus, certains éléments du procès-verbal de la réunion du conseil d’administration du 22 décembre 2010 laissent entendre que BWS possédait plus de 50 % des actions – notamment une déclaration de Wanda Arnold à la page 8 et une déclaration de M. Strassburger à la page 30, où il est indiqué [traduction] « […] cela ne pose pas problème, puisque nos sociétés regroupées possèdent déjà plus de 50 % des actions [...] ». Enfin, dans une note d’honoraires envoyée à BWS à l’attention de M. Strassburger, un cabinet d’avocats décrit en ces termes des travaux réalisés à la mi-octobre [traduction] « […] rédaction d’une lettre concernant la transaction avec Banc et de modifications au cahier de preuve […] ».
+Cependant, lors du contre-interrogatoire, M. Strassburger a clairement indiqué que BWS n’a pas obtenu ces actions et que le registre des actionnaires (onglet 9 de la pièce A-1) montre que Banc en est le propriétaire – bien que l’on doive reconnaître que le registre des actionnaires présente certaines incohérences du fait que, contrairement à toutes les autres entrées, l’acquisition par Banc y est mentionnée uniquement par l’année, et non par le mois et l’année.
+Il est également important de souligner que certains éléments des discussions qui ont eu lieu durant la réunion du conseil d’administration du 22 décembre 2010 portent à confusion et que l’expression « entreprises regroupées » utilisée par M. Strassburger ne semble pas faire référence à BWS et à d’autres entreprises familiales liées, car nous savons que seule BWS, et aucune des entreprises qui y étaient associées, était actionnaire avant l’acquisition par l’appelante des actions en litige.
+Compte tenu des éléments de preuve présentés par M. Strassburger et du registre des actionnaires, je conclus que BWS n’était pas actionnaire majoritaire avant l’acquisition des actions en litige en l’espèce.
+Fait intéressant à souligner, les textes réglementaires sur la non-conformité, à l’annexe A de la Companies Act de la Nouvelle-Écosse, accordent également une voix prépondérante au président. Selon l’article 21 de cette loi, la disposition législative s’applique si les statuts de l’entreprise ne sont pas enregistrés ou, s’ils sont enregistrés, lorsque lesdits statuts [traduction] « [...] n’excluent ni ne modifient les dispositions prévues au tableau A de la première annexe de cette loi [...] ». Le tableau A de la première annexe prévoit que [traduction] « [l]es questions débattues à une réunion du conseil d’administration sont décidées à la majorité des voix et, en cas d’égalité, le président a un deuxième vote ou une voix prépondérante ». Voir le chapitre 81 des lois révisées de la Nouvelle-Écosse, 1989, article 21 et article 129 du tableau A de la première annexe de la Companies Act (en anglais seulement). L’article 129 du tableau A est devenu par la suite l’article 132 de ce même tableau.
+[19] Voir les états financiers (onglets 1 à 6, pièce A-1).
+[20] Voir les pages 46, 47 et 51 à 53 de la transcription de la première journée d’audience et l’onglet 74 de la pièce A-1. Plus tôt, en 2009, Vidabode avait été sur le point de conclure une vente, mais le client n’avait finalement pas pu obtenir de financement.
+[21] Voir la page 45 de la transcription de la première journée d’audience. Ces quatre personnes ont formé le conseil d’administration à partir de juin 2008 et tout au long de la période visée par le présent appel. Voir la pièce R-2, onglet 3, aux pages 227 à 229, ainsi que la première page des onglets 36 et 37, pièce A-1.
+[22] Voir l’onglet 9, pièce A-1. M. MacDonald a payé 0,0004 $ l’action, pour un total de 400 $.
+[23] Voir les pages 41 et 105 de la transcription de la première journée d’audience. M. Strassburger avait une participation de 50 % et M. MacDonald et son épouse détenaient chacun 25 %.
+[24] Il convient de rappeler que Vidabode tentait de lancer une nouvelle entreprise durant la période touchée par la crise financière de 2007-2008, qui est devenue par la suite connue sous le nom de « Grande Récession ».
+[25] Voir les pages 62, 63 et 66 de la transcription de la première journée d’audience.
+[26] Voir les pages 70 à 74 de la transcription de la première journée d’audience.
+[27] Voir l’onglet 25, pièce A-1.
+[28] Voir les pages 72 et 73 de la transcription de la première journée d’audience.
+[29] Voir les pages 74 et 75 de la transcription de la première journée d’audience.
+[30] Le nombre total d’actions acquises et le montant de l’emprunt sont indiqués aux sous-alinéas 11q) et dd) de la réponse à l’avis d’appel, sous-alinéas qui ont tous deux été admis en preuve.
+[31] Selon les calculs mathématiques, à la suite de cette dernière acquisition d’actions, BWS et l’appelante possédaient environ 80 % des actions (onglet 9 de la pièce A-1). La transcription de la réunion du conseil d’administration du 22 décembre 2010 semble plutôt indiquer un pourcentage d’environ 75 %. L’issue serait toutefois la même, quel que soit le pourcentage véritable.
+[32] Alinéa 11bb) de la réponse à l’avis d’appel. Si une preuve contraire avait été produite, je n’aurais pas été lié par cette hypothèse relative à la juste valeur marchande nulle et au défaut de contester cette hypothèse. Cependant, aucun élément de preuve ne me permet d’en venir à une conclusion différente – voir le paragraphe 9 de l’arrêt Fiducie Alex Trust c. Canada, 2014 CAF 123.
+[33] Les états financiers de 2008 font état de recettes d’environ 850 000 $; selon la note 15 de ces états financiers, il s’agit de dépôts non remboursables pour l’achat de licences pour des usines de ciment.
+[34] Voir les pages 23 à 26, onglet 36, pièce A-1. D’après le formulaire 78 daté du 29 avril 2011, Vidabode devait environ 1,8 million de dollars à ses créanciers non garantis, si l’on exclut ses dettes envers BWS. Voir les pages 12 à 21, onglet 20, pièce R-1.
+[35] Voir la page 24, onglet 36, pièce A-1.
+[36] Voir la page 91 de la transcription de la première journée d’audience.
+[37] Voir les pages 3 et 4 de la pièce R-3, ainsi que les pages 11 à 15 de l’onglet 13 de la pièce R-1 où la date indiquée sur la première page est le 15 décembre 2010, même si la lettre n’a été signée par M. Strassburger que le cinquième jour de janvier 2011. Lorsqu’on a laissé entendre à M. Strassburger qu’il craignait que Vidabode ne soit insolvable avant même la réunion du conseil d’administration du 22 décembre 2010, M. Strassburger a répondu que son entreprise n’aurait pas investi des millions de dollars dans Vidabode si son intention avait été de mettre Vidabode en faillite. Il a aussi déclaré que le fait que l’entreprise perdait de l’argent l’avait toujours préoccupé.
+[38] Aucun élément de preuve ne porte sur les administrateurs de 2090810 Ontario.
+[39] Dans le cas d’une société, voir la définition indiquée au sous-alinéa 251(2)b)(i).
+[40] Bien que cette question n’ait pas expressément été soulevée par l’une ou l’autre partie, il y aurait lieu d’examiner si Vidabode est liée à BWS parce qu’elle est contrôlée par BWS.
+Il est bien reconnu que le terme « contrôlé » s’entend en soi du contrôle de droit, bien qu’un certain nombre de dispositions de la Loi aient été étendues pour inclure également le contrôle de fait.
+Le critère général pour déterminer s’il y a contrôle de droit consiste à déterminer si les actionnaires majoritaires détiennent un « contrôle effectif » sur les « affaires et les destinées » de la société, c’est-à-dire un contrôle qui ressort de « la propriété d’un nombre d’actions conférant la majorité des voix pour l’élection du conseil d’administration ». Ce critère est toutefois assujetti à un certain nombre d’autres facteurs, notamment l’existence de quelque disposition d’une convention unanime des actionnaires ayant pour effet de modifier ce qui autrement serait le contrôle effectif d’une personne : Duha Printers (Western) Ltd. c. Canada, [1998] 1 RCS 795 (arrêt Duha).
+Les paragraphes 36 et 37 de l’arrêt Duha, précité, sont ainsi libellés :
+36. Ainsi, le contrôle de jure est devenu la norme canadienne, et le critère généralement admis à cet égard consiste à se demander si la partie qui détient le contrôle a, en vertu des actions qu’elle possède, la capacité d’élire la majorité des membres du conseil d’administration. Toutefois, il faut reconnaître, au départ, que ce critère est vraiment une tentative de vérifier qui exerce un contrôle effectif sur les affaires et les destinées de la société. Autrement dit, bien que les administrateurs aient généralement, en vertu de la loi qui régit la société, le droit explicite de gérer la société, l’actionnaire majoritaire exerce indirectement ce contrôle en raison de sa capacité d’élire le conseil d’administration. Ainsi, c’est en réalité l’actionnaire majoritaire, et non pas les administrateurs eux‑mêmes, qui exerce un contrôle effectif sur la société. [...]
+37. Vue sous cet angle, il devient évident que l’application formaliste d’un critère comme celui énoncé dans Buckerfield’s, qui ne tient pas compte suffisamment de la raison d’être de ce critère, peut mener à un résultat malheureusement artificiel. Il revient donc à notre Cour de déterminer si, juste avant la fusion, Marr’s exerçait un contrôle effectif sur les affaires et les destinées de Duha no 2 en raison de sa participation majoritaire dans la société.
+La Cour suprême, dans l’arrêt Duha, précité, précise ensuite que les actes constitutifs d’une société, y compris une convention unanime des actionnaires (CUA), peuvent être pris en compte pour déterminer qui exerce le contrôle effectif.
+Cela soulève la question suivante : BWS exerce-t-elle un contrôle de droit sur Vidabode du fait qu’elle détient 40 % de ses actions et que la convention unanime des actionnaires lui donne le droit i) de désigner deux administrateurs, ii) de nommer un de ces administrateurs au poste de président et iii) d’accorder au président un deuxième vote ou une voix prépondérante en cas d’égalité des voix. Le raisonnement logique énoncé dans Duha laisse croire à une réponse affirmative.
+Cet argument n’a toutefois pas été soulevé ni débattu, et je ne l’examinerai pas puisque j’ai conclu, en définitive, qu’il n’aurait pas d’incidence sur l’issue; par conséquent, j’ai décidé de ne pas solliciter d’arguments sur cette question.
+Cependant, compte tenu de l’arrêt Duha, précité, et de la déclaration suivante de la Cour suprême du Canada dans l’arrêt Minister of National Revenue v. Dworkin Furs (Pembroke) Ltd. et al., [1967] SCR 223, 1967 CanLII 112 (SCC) :
+[...] [traduction] Le juge Thurlow a conclu que le droit d’exprimer une deuxième voix ou d’exercer une voix prépondérante ne conférait pas le contrôle à Aaron. Il a dit ce qui suit :
+la voix prépondérante, contrairement aux votes qui sont conférés par la détention d’actions et qui peuvent être exercés sans responsabilité envers la compagnie ou les autres actionnaires, n’est pas, à mon avis, la propriété de son détenteur, mais est plutôt une prérogative associée à une fonction.
+Et je souscris à cette interprétation.
+Si la question se posait, il faudrait également faire concorder les deux décisions sur la question visant à savoir si la voix prépondérante peut être prise en compte aux fins d’établir le contrôle de droit.
+[41] Deuxième édition, 2004.
+[42] Édition en ligne, sous les éléments de phrase
+[43] [2008] 2 RCS 79.
+[44] [2017] 1 RCF 209, 2016 CAF 99.
+[45] 1998 CanLII 827 (CSC), [1998] 1 RCS 795.
+[46] Voir les paragraphes 45 à 48 de l’arrêt.
+[47] Même s’il est vrai, comme l’a souligné l’intimée, qu’Atlantic Aboriginal Capital Inc. a nommé les deux autres administrateurs et que M. MacDonald détenait également des actions dans Vidabode et qu’il était donc également dans son intérêt que l’entreprise soit florissante, M. MacDonald n’aurait pas pu être administrateur si BWS s’y était opposé.
+[48] Elle exerçait un contrôle de fait distinct de toute question liée au contrôle opérationnel.
+[49] Outre la possibilité de contrôler les décisions du conseil d’administration dont nous venons de discuter, d’autres facteurs montrent également que l’appelante et Vidabode ont un lien de dépendance : M. Strassburger était président du conseil d’administration et président de la société de l’appelante, de BWS et de Vidabode; M. MacDonald et M. Strassburger étaient partenaires dans une entité non constituée du nom de Davenport Industries, qui était un agent des ventes pour Vidabode; l’appelante prévoyait faire l’acquisition d’actions qui n’avaient aucune valeur; non seulement BWS était-elle le principal actionnaire, mais, à la fin de 2010, elle détenait la majorité de la dette de Vidabode, si l’on exclut la dette due à GE Capital – voir les états financiers, onglets 5 et 6, pièce A-1; sur le plan économique, mais non juridique, on peut donc considérer que Vidabode, en décembre 2010, était devenue une coentreprise entre d’une part, BWS et ses entreprises familiales liées et, d’autre part, les autres investisseurs – une coentreprise au sein de laquelle BWS et ses entreprises familiales liées sont graduellement devenues le partenaire principal.
+Comme les actions en litige n’avaient aucune valeur, je ne veux pas laisser entendre qu’il s’agit-là d’un facteur déterminant; je suis toutefois convaincu que, lorsqu’une partie emprunte plus de 14 millions de dollars et qu’elle convertit près de 5 millions de dollars d’une dette antérieure pour acquérir des actions dont la juste valeur marchande est nulle, cela constitue certainement une indication que la transaction n’est pas libre de tout lien de dépendance. Je ne suis pas insensible au fait que, comme l’a souligné l’appelante, lors de la réunion du conseil d’administration de décembre 2010, Mme Arnold s’est dite préoccupée par la dilution de la part d’actions détenues par Atlantic Aboriginal Capital Inc., après qu’il a été proposé d’émettre de nouvelles actions à l’appelante, et qu’AACI a donc demandé qu’il lui soit encore permis, pour un certain temps, d’investir davantage par l’acquisition d’actions. Cela semble toutefois un facteur d’une importance relativement mineure. Lorsqu’on lit le procès-verbal de la réunion, on remarque que M. Strassburger n’était nullement opposé à cette proposition et il ressort clairement de l’ensemble de la preuve que M. Strassburger et, partant, BWS et l’appelante, auraient été ravis qu’AACI fournisse une partie des capitaux nécessaires et achète de nouvelles actions. M. Strassburger a rapidement accepté qu’AACI puisse bénéficier d’un certain délai pour acquérir des actions non émises pour maintenir sa participation au sein de l’entreprise. Durant la réunion, M. MacDonald n’a pas semblé s’opposer à la proposition qui avait été présentée.
+Cette question de la dilution du portefeuille d’actions d’AACI ne ressort pas d’une divergence d’opinions entre l’appelante ou BWS et Vidabode. Elle tient compte plutôt des discussions au sein de Vidabode, dont l’issue a déterminé les capitaux que chaque propriétaire voulait, ou pouvait, investir.
+J’aimerais également faire valoir un autre aspect de la question. L’appelante finance Vidabode par l’achat d’actions; ce faisant, comme l’achat d’actions permettrait de rembourser les prêts consentis par GE Capital, cela profite non seulement à Vidabode, mais également à l’appelante, à BWS et à 1090810 Ontario, puisque ces trois dernières sociétés s’étaient toutes trois portées garantes des prêts.
+[50] J’examinerai brièvement la question suivante. L’appelante a formulé certains arguments au sujet des hypothèses formulées, du fondement des cotisations établies, du fardeau de la preuve en résultant et des conséquences qui devraient en découler. Sur le plan pratique, le fardeau de la preuve importe uniquement lorsque, à la fin de l’audition de la preuve qui lui a été présentée, la Cour est incapable d’en venir à une conclusion relativement à un ou plusieurs faits importants. Ce n’est que lorsqu’une telle situation se produit, et uniquement en pareilles circonstances, que la Cour doit se demander à qui incombait le fardeau de la preuve relatif au fait ou aux faits en cause, puis tirer la conclusion qui s’impose. En l’espèce, je suis en mesure de tirer les conclusions de fait nécessaires sur la base des éléments de preuve présentés.
+[51] Voir, par exemple, les pages 3 et 4 de la transcription de la réunion du conseil d’administration du 22 décembre 2010, onglet 36, pièce A-1.
+[52] Voir l’arrêt Entreprises Ludco Ltée c. Canada, [2001] 2 RCS 1082, 2001 CSC 62, paragraphes 54 à 56.
+[53] Les états financiers non audités en date du 31 décembre 2010 font état d’un passif à court terme environ dix fois plus élevé que l’actif à court terme d’environ 255 000 $. L’inventaire représente un peu plus de la moitié de l’actif à court terme. Voir l’onglet 6, pièce A‑1.
+[54] Voir au bas de la page 2 du procès-verbal de la réunion du conseil d’administration de décembre 2010 (onglet 36, pièce A-1). La conjoncture économique générale demeurait difficile.
+[55] Transcription de la réunion du conseil d’administration de décembre, onglet 36, pièce A-1 et page 83 de la transcription de la première journée d’audience.
+[56] Non seulement AACI n’a-t-elle fourni aucun montant lorsque le versement forfaitaire de 3 millions de dollars est venu à échéance, mais le total des investissements faits par AACI dans Vidabode, que ce soit par voie de prêts ou d’achat d’actions, n’a jamais atteint un million de dollars. Selon ce que je peux voir, le montant maximal investi par AACI est un montant d’un peu plus de 800 000 $ mentionné dans les états financiers de 2009 – et ce, seulement si je présume que les deux sociétés à numéro mentionnées en plus d’AACI dans la note 10 des états financiers sont elles aussi liées à AACI ou lui appartiennent; en effet, le montant dû à AACI qui est indiqué est de 560 000 $. AACI a payé 10 $ l’action pour ses 6,5 millions d’actions ordinaires initiales. Il est encore moins probable qu’AACI aurait fait l’acquisition de suffisamment d’actions, outre les 19 millions devant être acquises par l’appelante, pour maintenir sa quote-part des actions et qu’elle aurait injecté plus d’argent dans Vidabode – cela aurait coûté entre 9 et 10 millions de dollars – cette solution n’était toutefois pas celle qui était soulevée.
+[57] Comme l’appelante et BWS récolteraient la majeure partie des bénéfices résultant d’un redressement, leur refus d’investir davantage que la somme requise pour honorer les garanties est conforme à l’hypothèse voulant qu’aucun revenu ne serait tiré de quelque investissement supplémentaire. Je reconnais toutefois que cette réticence a pu être motivée également par d’autres facteurs.
+[58] Je ne fais pas abstraction du témoignage de M. Strassburger dans lequel il dit y avoir eu quelques surprises après la réunion du conseil d’administration du 22 décembre 2010. Durant son témoignage, M. Strassburger a déclaré qu’il avait été convenu à la réunion qu’une rencontre aurait lieu entre Noël et le Jour de l’An pour discuter de ventes possibles. Cette rencontre devait être organisée par Wanda Arnold. Cette dernière n’a toutefois jamais envoyé d’ordre du jour ni organisé de rencontre. Le 29 décembre, M. Strassburger a pris un vol pour la Nouvelle-Écosse avec en main un chèque de l’appelante à l’intention de Vidabode et il a veillé à ce que le chèque soit déposé. Il a alors rencontré Mme Arnold ainsi que le directeur financier de Vidabode qui a fait les chèques à GE Capital. Voir les pages 95 à 97 de la transcription de la première journée d’audience. Après le Nouvel An, M. Strassburger a tenté de joindre Mme Arnold, mais son téléphone avait été débranché; il a alors téléphoné à David MacDonald qui lui a dit ignorer où se trouvait Mme Arnold. Une semaine plus tard, M. Strassburger a rappelé M. MacDonald, mais son téléphone avait à son tour été débranché. M. Strassburger n’a pas parlé à Wanda Arnold ni à David MacDonald depuis. Le directeur financier de Vidabode a également démissionné.
+De plus, le 2 janvier 2011, le directeur général de l’appelante, qui avait commencé à travailler pour l’entreprise le même jour que M. Strassburger, a annoncé qu’il s’attendait à être en arrêt de travail pour cause de maladie pendant sept mois; M. Strassburger devait donc s’attendre à devoir consacrer plus de temps à l’appelante au cours des prochains mois. Voir les pages 97 et 98 de la transcription de la première journée d’audience. Il ne fait aucun doute à mon esprit que les événements que je viens de décrire dans les trois derniers paragraphes ont réduit encore plus toute chance pour Vidabode de surmonter ses problèmes. Cependant, cela ne change en rien le fait que, pour les motifs que j’ai déjà exposés, déjà en décembre 2010 il n’existait aucune expectative raisonnable de tirer des revenus.
+En raison des dates auxquelles ils sont survenus, je n’admets pas que la disparition de Mme Arnold et de M. MacDonald, de même que la démission du directeur financier et la maladie du directeur général de l’appelante, aient été les événements déclencheurs de la décision de mettre Vidabode sous séquestre, le 5 janvier 2011. Comme je l’ai mentionné précédemment, c’est le 5 janvier 2011 que M. Strassburger a écrit à BDO Canada pour le nommer à titre de syndic. C’était un mercredi, une semaine exactement après que M. Strassburger s’est rendu en Nouvelle-Écosse avec le chèque. D’après le témoignage de M. Strassburger, M. MacDonald n’avait pas encore disparu et il aurait été prématuré à cette date de présumer que Mme Arnold serait introuvable.
+[59] Certaines questions ont été soulevées durant l’audience quant à savoir si le prêt avait été converti en actions. Le ministre a établi la cotisation en présumant qu’il s’agissait d’un prêt. La question de la conversion a été soulevée, car le registre des actionnaires fait état, à la même date, de l’émission de 500 000 actions à l’appelante. Il me paraît insensé que des actions auraient été émises en même temps que le billet à ordre, qui aurait donc probablement été annulé à sa date d’émission. J’accepte que le billet à ordre, présenté à l’onglet 25, pièce A-1, ressort de cette transaction.

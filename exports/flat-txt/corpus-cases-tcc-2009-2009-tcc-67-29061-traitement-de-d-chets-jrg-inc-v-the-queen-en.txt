@@ -1,0 +1,420 @@
+Title: Traitement de déchets JRG Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29061/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-67-29061-traitement-de-d-chets-jrg-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-02-02
+
+# Traitement de déchets JRG Inc. v. The Queen
+
+- Citation: 2009 TCC 67
+- Decision date: 2009-02-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6808, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Traitement de déchets JRG Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-02
+Neutral citation
+2009 TCC 67
+File numbers
+2005-1757(GST)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-1757(GST)G
+BETWEEN:
+TRAITEMENT DE DÉCHETS JRG INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Fertigel Inc. (2005‑1758(GST)I) on February 28 and February 29, 2008,
+and on September 22 and September 23, at Montréal, Quebec
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+Counsel for the Appellant:
+Jean-Pierre Gagné
+Counsel for the Respondent:
+Frank Archambault
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which bears the number 6895161 and is dated September 23, 2004, for the period from January 1, 1996, to April 30, 2004, is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant was entitled to the ITCs claimed.
+The Appellants are entitled to only one set of costs.
+Signed at Ottawa, Canada, this 2nd day of February 2009.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+On this 28th day of June 2009
+François Brunet, Reviser
+Docket: 2005-1758(GST)I
+BETWEEN:
+FERTIGEL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of
+Traitement de déchets JRG Inc. (2005‑1757(GST)G)
+on February 28 and February 29, 2008,
+and on September 22 and September 23, 2008, at Montréal, Quebec
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+Counsel for the Appellant:
+Jean-Pierre Gagné
+Counsel for the Respondent:
+Frank Archambault
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which bears the number 4780901 and is dated August 5, 2004, for the period from December 20, 2002, to October 31, 2003, is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant was entitled to the ITCs claimed.
+The Appellants are entitled to only one set of costs.
+Signed at Ottawa, Canada, this 2nd day of February 2009.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+On this 28th day of June 2009
+François Brunet, Reviser
+Citation: 2009 TCC 67
+Date: 20090202
+Dockets: 2005-1757(GST)G
+2005-1758(GST)I
+BETWEEN:
+TRAITEMENT DE DÉCHETS JRG INC.,
+FERTIGEL INC.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH translation]
+REASONS FOR JUDGMENT
+Archambault J.
+[1] Traitement de Déchets JRG Inc. (TD) and Fertigel Inc. are appealing from assessments made by the Ministère du Revenu du Québec (MRQ) on behalf of the Minister of National Revenue (the Minister) in connection with the Goods and Services Tax (GST). The relevant period for TD's appeal is January 1, 1996, to April 30, 2004, and the relevant period for Fertigel's appeal is from December 20, 2002, to April 30, 2004.[1] The assessment of Fertigel is dated August 5, 2004, and the assessment of TD is dated September 23, 2004.
+[2] Although the Minister initially audited Fertigel, and began auditing TD after his audit of Fertigel was finished, I will reproduce paragraph 15 of the Respondent's Reply to TD's Notice of Appeal, which sets out the assumptions of fact on which the Minister relied in making his assessment:
+[translation]
+(a) The Appellant was a GST registrant from January 1, 1996, to April 30, 2004.
+(b) The Appellant supposedly operated a business that processed and transformed liquid pig manure into an environmentally friendly fertilizer.
+(c) During the period in issue, the Appellant claimed input tax credits (hereinafter ITCs) to which it was not entitled.
+(d) In the course of the fiscal years ended October 31, 1999, 2000, 2001, 2002 and 2003, the Appellant sold no goods or services whatsoever.
+(e) To this day, the Appellant has obtained no government authorization for the production and marketing of its environmentally friendly fertilizer.
+(f) The Appellant has no factory, production centre or laboratory for the development and production of its product.
+(g) The Appellant has no marketing agreement for the sale of its product.
+(h) The Appellant does not have adequate financial resources and does not have any serious potential investors to carry out its business project.
+(i) The Appellant has no sales agreements with potential customers for the purchase of its product or services.
+(j) The Respondent's representatives tried, without success, to obtain documents from Roland Gingras, the Appellant's representative, such as proofs of research expenditures, proofs of equipment purchase expenditures, a business plan, market studies, a budget, etc., which would show that a business was being carried on.
+(k) In the light of the foregoing, the Respondent's representatives concluded that the Appellant was not entitled to the ITCs because the Appellant was not engaged in any commercial activities for any of the period in issue.
+(l) Indeed, the ITCs claimed by the Appellant relate essentially to gasoline, telephone, restaurant, and electrical expenses.
+(m) Accordingly, the Respondent's representatives determined that the Appellant had claimed a total of $37,069.01 in ITCs to which it was not entitled for the period in issue.
+(n) The net tax amount of $37,069.01 generated interest in the amount of $12,945.88 and penalties in the amount of $30,441.26.
+(o) In addition, on September 15, 2004, the Respondent's representative confirmed to the Appellant that its GST number was cancelled.
+[3] The only facts to which counsel for TD admitted are the facts set out in subparagraph 15(b), except for the word "supposedly", which he denies; subparagraph 15(c), except for the phrase "to which it was not entitled", which he denies; and subparagraph 15(o). The facts on which the Minister relied in the Fertigel file are essentially the same as the facts in the TD file. However, the amount in issue is much larger in the TD file; indeed, the ITCs disallowed by the Minister in respect of TD total $37,069.01, while the total disallowed in respect of Fertigel is only $1,573.60.
+[4] Before the hearing began, counsel for the Respondent tendered a document in which he specified the issues, which are essentially the same in both matters. Here is what he wrote in respect of TD's appeal:
+[translation]
+A. TRAITEMENT DE DÉCHETS JGR [sic] INC.
+(1) Did the Appellant engage in activities of a commercial nature, entitling it to input tax credits for the entire period in issue, that is to say, from January 1, 1996, to April 30, 2004?
+2.) If so, did the Appellant claim input tax credits to which it was not entitled, for the entire period in issue, that is to say, from January 1, 1996, to April 30, 2004?
+[Emphasis added.]
+[5] The issue of the basis on which the ITCs were disallowed was raised at the hearing. It is clear from the Minister's assumptions of fact that the question whether there was a commercial activity was at the heart of the decision to disallow them. Actually, the auditor's worksheets, contained in his books of documents,[2] clearly state that TD and Fertigel's ITCs were disallowed because there was [translation] "no commercial activity".[3] Indeed, none of the Minister's factual assumptions, set out in his replies to the Notice of Appeal, contain any statement to the effect that expenses for which ITCs were claimed were personal expenses. Consequently, I notified counsel for the Respondent that the onus was on her to prove that the expenses for which the ITCs were disallowed were personal in nature, whether in whole or in part.
+Statement of facts
+• General remarks
+[6] Before going over the facts disclosed by the evidence, certain preliminary remarks should be made. The key witness for the two Appellant companies was Roland Gingras, their directing mind. Mr. Gingras was the manager, director and majority shareholder of both companies. Unfortunately, his testimony was far from satisfactory. A great deal of his testimony consisted in a very general and rather vague discussion of the activities carried on by the two companies. Some of his answers, including those explaining why his project to convert liquid manure into fertilizer never got off the ground, were surprising to say the least, and raise doubt as to their plausibility. I will come back to them later. In addition, Mr. Gingras was often unable to provide the clarifications needed to get a clear idea of the situation. He was often unable to answer questions as important as those concerning the share capital of the two companies, and those concerning the disappearance, from TD's profit and loss statement for the 2000 fiscal year, of a long‑term debt totalling $245,866.[4] Lastly, it is difficult to determine whether the project in which the two Appellants were engaged was a viable business project, a far-off dream, or a deception. On the other hand, several documents were adduced, which, when combined with Mr. Gingras's testimony, paint the following broad portrait of the events that unfolded from 1995 to 2008.
+• Mr. Gingras' documentary and testimonial evidence
+[7] Mr. Gingras was born in May 1938 and has no college diploma or university degree. He finished Grade 11. Given his year of birth, Mr. Gingras was 57 years old in January 1996, which was the beginning of TD's relevant period. He is now 70. Mr. Gingras says that he was a broker for 30 years, specifically, from 1960 to 1990, in the paper and containerboard field. However, this assertion is erroneous. It leaves out a period in which Mr. Gingras seems to have reoriented his activities to other sectors, notably home, industrial and agricultural heating as well as the environment and novel waste reclamation technologies. This information can be found in his résumé, contained in a business plan prepared by Samson Bélair/Deloitte & Touche (the Samson Bélair report). According to that résumé, he worked in the paper industry from 1957 to 1983. The description of the new activities referred to above covers the period from 1983 to 1995. The résumé also refers to management experience acquired as President and CEO of a company known as P.M.V.F. Inc.
+[8] In a decision dated August 31, 1992, the Commission des valeurs mobilières du Québec (the Commission) prohibited Roland Gingras, Valorisation P.M.V.F. Inc.[5] and 14 numbered companies from engaging in any activity aimed at distributing the shares of those companies, because Mr. Gingras had distributed shares without a prospectus to 618 shareholders, in violation of section 11 of the Securities Act, which enabled him to raise approximately $2 million.[6] Mr. Gingras also pleaded guilty to 25 charges in relation to those activities (see Exhibit I‑13). Lastly, on November 26, 1998, he pleaded guilty to a charge of having, by deceit, falsehood or other fraudulent means, whether or not it is a false pretence, defrauded the public or any person of any property, money or valuable security or any service, in violation of subsection 380(1) of the Criminal Code. He was sentenced on April 29, 1999 (see Exhibit I‑4).
+[9] The source of the funds that financed TD's activities is unclear. Some funds were advanced by the bank under circumstances described further below. Mr. Gingras said that he had roughly $300,000 in savings. During the relevant periods, his income seems to have been limited to a QPP pension and Old Age Security.[7] Some shares of Fertigel were sold, but the amount of the consideration received by Mr. Gingras has not been determined.[8]
+[10] In 1984, Mr. Gingras reportedly met one Edoardo Marchese, an Italian engineer living in France. Mr. Marchese would currently be about 76 years old. Together with another French resident named Dominique Pugliese, he reportedly owns a company called Kheper Biotechnologies (Kheper), headquartered in Vigneux‑sur‑Seine in France. In a patent licence contract between Kheper and Fertigel, signed on March 18, 2003,[9] Mr. Pugliese is described as Kheper's manager. According to this document, Kheper is the holder and owner of French invention patents, one dated March 10, 1994, and the other dated February 6, 1996,[10] [translation] "for the purpose of producing fertilizer using animal waste and other substances as raw materials" (Exhibit A‑6, page 2). The process uses [translation] "polymer gel crystals with a high capacity for retaining water or other biological substances. Although technically similar to other existing polymer gels, these gels have the major advantage of being non-toxic and biodegradable."[11] Mr. Gingras stated that he discovered the use of polymer gel for converting liquid manure to fertilizer and that he entered into a partnership with Mr. Marchese and Mr. Pugliese, who undertook scientific research and technological development (R&D) in France and assumed the cost of registering the patents not only in Europe, but also in the United States and elsewhere. Mr. Gingras claims that, under an agreement between him and the Kheper group, the ownership rights in the patent would be transferred to him upon payment of $1.2 million. However, there is no written document to support this statement.
+[11] In the mid-1990s, Mr. Gingras reportedly tried to interest hog producers in his animal waste conversion process, which purportedly helped protect the environment upstream and convert this waste into fertilizer products downstream. The oldest document adduced in evidence which attests to this effort is a letter of intent dated January 24, 1995, from F. Ménard Inc. of L'Ange‑Gardien, Quebec (Exhibit A‑10). That company notified Mr. Gingras that it was interested in the project, and raised the possibility of renting its site to Mr. Gingras and providing quantities ranging from 5 000 000 to 25 000 000 gallons (presumably of liquid manure, because the letter does not specify what is involved). The letter states that if the results were conclusive, F. Ménard Inc. would be open to discussing future commitments.
+— TD
+[12] On April 20, 1995, Mr. Gingras signed an application for $50,000 in funding from the business start-up investment program of the Société de développement industriel du Québec (SDI); the application was submitted on behalf of Traitement de déchets I.G.M. Inc. (Exhibit A‑14). The business of that company is described as [translation] "processing of liquid pig manure and hog slurry". The application states that the company's management includes Mr. Gingras as president; "Groupe Ménard" as director; Mr. Marchese, an engineer, as vice-president; and Yves Marchand, an agronomist, as director. Allegedly, Mr. Gingras held 55% of the corporation, Groupe Ménard held 25% and Mr. Marchand held 20%. However, the company did not exist at the time that the application was submitted, because TD was only incorporated on November 15, 1995, under the business name 9028‑0074 Québec Inc.[12] The name of that company was changed to TD on February 6, 1996 (Exhibit I‑1, tab 4, and Exhibit A‑5). An account statement from Mr. Drapeau discloses that he provided professional services in relation to a business start-up project (TD) from April 27, 1995, to January 9, 1996, and that, during this period, he had telephone conversations not only with Mr. Gingras, but also with François Ménard (Exhibit I‑1, tab 16, pages 33-35). The fees totalled $5,950 plus tax.
+[13] The Samson Bélair Report is not dated, but contains a notice to the reader dated October 13, 1995, concerning the compilation of financial forecasts. The report describes a project for liquid manure and slurry processing facilities, and includes financial forecasts. Among other things, the report projects product sales totalling $740,000 for the fiscal year commencing on October 1995 and ending on September 30, 1996, as well as $50,000 in revenue in from products to be processed, for a total of $790,000. One of the assumptions utilized by Samson Bélair is that production would begin in October 1995, end in December 1995, and restart in April 1996. The report also states that the forecasting was prepared by the people responsible for project. It anticipates $75,000 in technical and technological support expenses, including $25,000 in R&D expenses. Lastly, the report states that TD is seeking a $50,000 loan as part of the SDI business start-up investment program. The loan was to be used to support the operating funds and to acquire capital assets. It also refers to wage subsidies of roughly $25,000 for 35 weeks of work and to a $20,000 non-repayable loan from the Société québécoise de développement de la main‑d'oeuvre (SQDM). On September 29, 1995, a representative of the Travail‑Québec regional office for the Laurentians/Lanaudière region wrote Mr. Gingras to inform him that the self‑employment support initiative's project approval committee had conditionally approved his start-up project, the conditions being that the financing would be obtained for the project and that the committee received a technical opinion from a specialist certifying that the liquid manure treatment process was not harmful to the environment. According to Mr. Gingras, this favourable expert opinion was given by Pierre Desmarais. However, according to the Samson Bélair report, the expert was a dietician! (Exhibit A‑42, document 4, note 6.)
+[14] There is also a letter from the Ministère de l'Environnement et de la Faune dated December 6, 1995, in which a division head notifies Mr. Gingras of the relevant environmental rules concerning his project to use gel crystals to process slurry and manure. The letter also states that it may be necessary to apply for an authorization certificate if there is a chance that water contaminated by manure will be discharged into the environment (Exhibit A‑20).
+[15] On January 7, 1996, Mr. Gingras signed, on behalf of TD, an application for a guarantee under the SDI's Programme d'aide au financement des entreprises (refundable tax credit financing component) (Exhibit A‑15). The document states that the company was incorporated on November 15, 1995, and that its activities began on January 11, 1996. The amount that SDI is requested to guarantee is $115,000. The application states that the money is to be used to finance an R&D project that will cost $505,042,[13] and is expected to commence on January 11, 1996, and end on October 31, 1996. This application for $505,042 to finance R&D expenses is quite surprising, because it was made barely a few months after the Samson Bélair Report, which anticipated, on the basis of forecasts made by the project proponent, namely, Mr. Gingras himself, that there would be a commercial operation that would generate annual revenues of $790,000 commencing in October 1995.
+[16] The R&D activities were to be carried out in L'Ange‑Gardien, at the F. Ménard Inc. farm. The application for the guarantee states that Mr. Gingras was the president, CEO and R&D director, that he held 50% of the common shares of TD, and that his wife, Ms. Dagenais, held the rest. The total refundable tax credits for this R&D project were estimated at $133,846.
+[17] The Appellants adduced no banking documentation showing that the loans were obtained. However, in TD's financial statements for the fiscal year ended October 31, 1997, prepared by Réjean Paillé, CSA, note 2 contains the details of long-term debts on TD's balance sheet.[14] Note 2 refers to a $50,000 loan guaranteed by SDI, and describes the loan as "Paillé Plan loan, repayable by means of monthly interest payments . . . the principal is repayable after three years of a five-year period have elapsed." The note also refers to a $126,000 equipment loan (EL), 90% of which is guaranteed by the federal government. In addition to these government‑guaranteed loans, there is a $50,000 loan from an individual, bringing the total, as at October 31, 1997, to $245,866. The individual in question was apparently a friend of Mr. Gingras', and according to Mr. Gingras' testimony, that friend was not a TD shareholder. Apparently, this loan was never repaid.
+[18] A bill from Mr. Drapeau for legal fees, dated January 18, 1996, describes the services rendered for $2,500, plus tax, with a view to obtaining financing from a banker.[15]
+[19] Although Mr. Gingras states that the demonstration of the conversion of liquid pig manure into fertilizer took place at the F. Ménard Inc. farm in the fall of 1995, it is more likely that this demonstration took place in late winter 1996. Indeed, there is an $800 invoice from the engineer Mr. Marchese in relation to February 1996; this invoice can be found at Exhibit I‑1, tab 16, page 4. The invoice is dated March 4, 1996, and consists of various professional fees and accommodation expenses for the period from February 15 to February 25, 1996, all of which, as I have said, total $800. Mr. Marchese's plane tickets, which also cost $800, were added to these charges. The invoices adduced as Exhibit I‑1, tab 16, also include an invoice for the rental of a Tempo shelter on March 8, 1996. Photographs of a demonstration under such a shelter, including a series numbered 3A through 3J, can be found among the photographs produced at Exhibit A‑12. According to Mr. Gingras, this demonstration lasted three months and the R&D program was successful. However, it is alleged that TD refused to begin processing the liquid manure commercially because F. Ménard Inc. demanded exclusive rights! No representative of that company testified to corroborate this account of the facts. It is alleged that the equipment in the photographs was taken out of service following the demonstration.
+[20] During his testimony, Mr. Paillé recognized the Tempo shelter and the equipment used at the F. Ménard Inc. farm in L'Ange‑Gardien. He said that part of the equipment used for the demonstration had been manufactured by Atelier la Corne d'or, which belonged to an engineer named Mr. Couture. That company had been unable to finish the work due to financial problems. Only two invoices were submitted as evidence to justify the $330,773 cost of "prototype equipment" indicated on the balance sheet of October 31, 1996 (Exhibit A‑47, page 2): an invoice from L'Atelier la Corne d'or inc., dated June 11, 1996, for oxygenation and mixing tanks, a drying unit and a bagging system, for a total amount of $82,500 (Exhibit A‑40); and an invoice from B.N. Métal Inc., a company based in Saint‑Mathieu‑de‑Beloeil, dated May 15, 1997, in the amount of $41,850. This second invoice was for an automated drying system and a drying oven.[16] Mr. Paillé stated that the invoice for $82,500 was paid by bank draft, as shown by the handwritten note on Exhibit A‑40.
+[21] The documents tendered in evidence also include an invoice for $7,888.49, issued by B.N. Métal Inc., and dated July 26, 1996. However, that invoice is for equipment sold to Atelier la Corne d'or Inc. of Sainte‑Agathe-des-Monts (see Exhibit I‑1, tab 16, at page 104).
+[22] It should be noted that, on May 13, 1997, the Canada Revenue Agency (CRA) appraisal department prepared an eligibility report regarding the taxation year ended October 31, 1996 (Exhibit A‑9). It refers to R&D expenses totalling $387,000.[17] The project described in it relates to a process to make fertilizer with liquid pig manure. The issue was whether the work done fulfilled the requirements of the definition of R&D in the Income Tax Act (ITA). The report describes the project as follows:
+[translation]
+. . . The process is based on a plastic resin capable of absorbing 400 to 1,000 times its own weight in liquid manure. This resin is made from petroleum under a patented process. In addition to transporting nutrients contained in the liquid manure, it regulates soil moisture levels by quickly absorbing rainwater and releasing it directly to the roots of the plants based on their needs, over a period of up to 90 days in the soil. It is completely degraded after about five years.
+[See Exhibit A‑9, page 3.]
+[23] According to the appraiser, this process is a technological advance. At page 4 of the report, the author writes:
+[translation]
+During the visit, which took place in the hangar where the equipment and materials were stored, Mr. Gingras did not have the work-related documentation,[18] which had mostly been prepared by BIOAGVET, a subcontractor. Consequently, I was unable to consult it. However, the explanations given by Mr. Gingras, and the evidence, in the form of photographs, samples, equipment and materials, convinced me that the work had involved systematic investigation by competent personnel.
+[Emphasis added.]
+[24] According to Mr. Paillé's testimony, some CRA auditors suggested that he modify his financial statements to reflect the fact that $330,773 of TD's $505,042 R&D expenses had to be capitalized because they were not eligible R&D expenses because the prototype could be used as part of a commercial operation. Consequently, Mr. Paillé prepared new financial statements in which an amount of $330,773 appears as a capital asset under "Equipment-Prototype" and the remaining expenses, namely $174,269 in R&D expenses, were entered on the balance sheet as "Other Assets".
+[25] The financial statements for the fiscal years 1997 through 2003 were adduced as Exhibit I‑1, at tabs 5 through 11, and as Exhibit A‑7.[19] In addition, among the invoices tendered in evidence by TD, there is an invoice dated June 13, 1996 (Exhibit A‑24) from Natasha Cournoyer for the creation of the Fertigel logo in the design and writing of a brochure, for a total of $724. There is also an account statement from SubitoPresto, dated February 7, 1997, concerning, among other things, the design of the [translation] "Fertigel bag", which had been the subject of an invoice dated August 21, 1996, and to the design and production of a Fertigel colour document, which was the subject of an invoice for $2,566.45 dated September 9, 1996. That document is also signed by Ms. Cournoyer. There are also cheques for the $600 amounts paid regularly for the services of Marc Leblond during the summer and fall 1996; in all probability, Mr. Leblond's remuneration was financed by the SQDM program, which was under the authority of the Ministère de la Sécurité du revenu.
+[26] During the fall of 1996, Réjean Paillé wrote a letter to the policy advisor to the Deputy Premier of Quebec and Minister of State for the Economy and Finance concerning the TD file. In the letter, he refers to investments of $86,262 as at August 31, 1996, which were increased to $103,562 as at October 31, 1996. The amount of $86,262 consists of $10,000 in share capital and a $76,262 shareholder loan. Mr. Paillé's letter states that the $33,000 equipment loan (EL) balance as at August 31, 1996, was used in September and October 1996 to pay for the equipment from B.N. Métal. It also states that a new application for a $100,000 EL was submitted to the National Bank for the financing of the $124,850 bid with respect to the drying oven.
+[27] The 1997 financial statements provide the details of the $134,638 in R&D expenses. It refers to general expenses, such as rent, professional fees, general costs, entertainment expenses and automotive expenses (general expenses); the only expense that could be tied directly to R&D is $821 for [translation] "rental of equipment to assemble prototype" (see Exhibit I‑1, tab 5, page 7). There are also bookkeeping fees invoiced by Samson Bélair for the months of January, November and December 1997 (Exhibit I‑1, tab 16, at pages 24‑25). Mr. Paillé also billed TD $1,200 in fees for the work done in August 1997 (ibid., at page 27). He also adduced excerpts from accounting records made with the Fortune 1000 software for the months of November 1996 to January 1997 (Exhibit A‑43).
+[28] The only documentation concerning the year 1997 that I was able to find in the Appellant's documentary evidence is a bill from Mr. Drapeau for legal services rendered in September 1997 in connection with the review of settlement documents and the preparation of a licence contract; the fees in question total $1,260. Another bill, dated August 22, 1997, discusses $1,000 in fees related to the preparation and drafting of contracts. In that bill, Mr. Drapeau refers to a telephone conversation with the Mazda representatives. (See Exhibit I‑1, tab 16, at pages 39 and 41.)
+[29] The R&D expenses for 1998 total $81,896. There are only general expenses in this regard. There are no expenses for the rental of equipment for the assembly of a prototype. The only invoice that I have found which could be directly related to R&D is an invoice for $17, dated April 2, 1998, and issued to Mr. Gingras in relation to an analysis of manure and compost (see Exhibit I‑1, tab 15). There is also $2,690 in accounting fees to Mr. Paillé for 12 months of accounting in 1998 (Exhibit I-1, tab 16, at page 29). And there are invoices for the rental, by TD, of a Mazda vehicle (Exhibit I‑1, tab 16, at pages 88 and 90).
+[30] The financial statements for 1999 list R&D expenses, all of which are general, totalling $17,162, including $6,745 in entertainment expenses and $5,220 for automotive expenses. The expenses for which there are invoices in the Respondent's book of exhibits include an account statement from an agronomist named Sylvie Moreau, dated September 13, 1999, an addressed to JRG Inc., for an amount of $3,660 for 30.5 hours of services consisting in a preliminary feasibility study regarding the making of fertilizer gel crystals using liquid pig manure (Exhibit I‑1, tab 16, at page 2). The invoice states that the services were rendered in August 1999. According to the Minister's auditor, who spoke with Ms. Moreau, this $3,660 expense is not listed in the 1999 financial statements because TD did not pay it.
+[31] There is also an invoice dated October 18, 1999, addressed to Mr. Gingras and JRG Inc., in relation to the rental of a semi-trailer for $15,000 from Demix Béton (Exhibit I-1, tab 16, at page 91).
+[32] For the fiscal years ended October 31 2000, 2001 and 2002, the financial statements refer to R&D expenses totalling $63,822 for 2000, including $41,254 on account of prototype depreciation; $55,801 for 2001, including $33,004 on account of prototype depreciation; and $65,879 for 2002, including $26,403 on account of prototype depreciation. Expenses other than depreciation total roughly $22,000 in 2000 and 2001, and nearly $40,000 in 2002; all of these are (seemingly) general expenses, and the largest of them, in 2000 and 2001, were approximately $7,000 for automotive expenses and $6,000 for entertainment expenses. The largest expenses for 2002 are $13,096 for sundry purchases and supplies, $13,051 in entertainment expenses, and $7,884 in automotive expenses. There are no rental expenses for the period from 2000 to 2002.
+[33] The only indication of any activity by TD in 2000 is a partnership proposal submitted by the Vice-President of the Chamber of Agriculture of the province of Taounate, in Morocco. The document refers to Fertigel, but makes no reference to TD or Mr. Gingras. There is, however, a reference to Fertinova, a corporation registered in July 2000, of which Mr. Gingras is not a shareholder, but of which Mr. Marchese is a director! (See Exhibits A‑23, I‑4, I‑5 and I‑6). The interrelationship between TD and Fertinova was not explained clearly. Apparently, the latter is a competitor of the former!
+[34] According to Mr. Paillé, the amounts owed to the National Bank and guaranteed by SDI were written off by TD in 2000 without having been paid. Mr. Paillé did not know whether the materials and equipment that belonged to TD had been seized. The amount of $50,000 that was advanced by a third party was also written off. According to Mr. Paillé, the third party in question was content to deduct a business investment loss on its tax return.
+[35] There is also an account statement dated May 31, 2001, issued by Agri Ventes Brome Ltée., and addressed to TD, for a total of $26,841.08 (Exhibit I‑1, tab 16, at page 102). The statement does not specify the nature of the property or service provided, and no explanation was given at the hearing.
+[36] There is an invoice in the amount of $106, addressed to TD, and dated April 10, 2002, for testing done by Biolab (Exhibit I‑1, tab 16, at page 17). Another invoice, dated November 15, 2002, in the amount of $100, is for the rental of a pump for six days (Exhibit I‑1, tab 16, at page 13).
+[37] The analysis of TD's financial statements as at October 31, 2003, shows that the "equipment prototype" item, which pertains to equipment and materials the undepreciated value of which was $105,612 in 2002, disappeared from the company's balance sheet for 2003. However, the same equipment and materials, with the same undepreciated value, can be found in Fertigel's books (see note 2 of Fertigel's financial statements as at October 31, 2003, Exhibit A‑11, page 4).
+Fertigel
+[38] According to Mr. Paillé, TD transferred this asset to Fertigel, along with most of its R&D expenses. Consequently, the transfer was allegedly made after October 30, 2002, possibly in November 2002, but certainly not later than October 31, 2003. According to a worksheet made by Mr. Paillé, as well as Fertigel's financial statements as at October 31, 2003 (Exhibits A‑49 and A‑11), Fertigel issued one million Class A common shares for $330,000 in paid‑up capital. These shares[20] were issued in consideration of the transfer of the prototype equipment, valued at $105,612; of the $197,700 that "JRG" had paid on account of R&D; and of the $30,093 in expenses incurred on behalf of Fertigel from November 1, 2002, to October 31, 2003. The bizzare thing is that, according to Fertigel's minute book (Exhibit A‑36), Roland Gingras subscribed for 750,000 Class C shares on May 24, 2002, at a price of $0.20 per share, and his cousin René Gingras subscribed for 250,000 Class C shares at the same price, which would translate to $200,000 in paid‑up capital.[21] Furthermore, these Class C shares were supposedly subscribed for at a time that they did not exist. Indeed, the Class C shares were only created, by certificate of modification, on June 13, 2002 (Exhibit A‑36). The date of May 24, 2002, is also inconsistent with the rollover that supposedly took place subsequent to October 31, 2002. Consequently, the financial statements, prepared by Mr. Paillé, are wholly inconsistent with the Fertigel minute book, prepared by its legal counsel, Mr. Drapeau.
+[39] Fertigel's initial declaration, dated January 23, 2002, states that its activities consist in the manufacture of environmentally‑friendly fertilizer and the processing of liquid manure (Exhibit I‑2, tab 8). However, its financial statements (Exhibit A‑11) describe its activities as R&D. Roland Gingras is listed on the initial declaration as the sole director and shareholder of the company, which was incorporated on January 18, 2002.
+[40] One of the documents that reveal some activity carried on by Fertigel is a one‑page document which breaks down the elements involved in the construction of a pilot plant and sets out their costs. The document appears to have been faxed by the engineer Mr. Marchese on January 9, 2002, a few days before Fertigel was incorporated (Exhibit A‑28). The anticipated total cost is $351,000.
+[41] In 2002, Fertigel solicited Quebec government departments in order to acquaint them with its liquid pig manure processing technology and obtain financial aid for its pilot plant. Exhibit A‑35 contains some correspondence in this regard, including a letter dated March 19, 2002, from the Director of Environment and Sustainable Development, at the Ministère de l’Agriculture, des Pêcheries et de l’Alimentation (MAPAQ), addressed to Mr. Gingras, "President" of Fertigel Québec Inc., inviting Fertigel to submit its technology for analysis by a Technology Transfer Group set up by the Fédération des producteurs de porcs du Québec. The letter states that if the group's assessment is positive, MAPAQ might be able to guide Fertigel and support it in its efforts to obtain financing from various bodies such as the Société générale de financement, SDI, the Ministère de l’Industrie et du Commerce, or the Ministère de la Recherche, de la Science et de la Technologie.
+[42] There was also a preliminary analysis certificate from Biolab dated April 18, 2002, addressed to Fertigel (actually written as Sertigel Inc.). This is an analysis of solids, nitrogen, phosphorus and potassium (Exhibit A‑24).
+[43] In addition, on October 8, 2002, MAPAQ's Director, Environment and Sustainable Development, sent a letter to Fertigel Inc. in response to a request dated September 18, 2002, concerning a pilot project for the Fertigel plant. The Director pointed out to Mr. Gingras that he had not received the results of his submissions to the Technology Transfer Group, and reminded Mr. Gingras that it was important to submit the project to the group so that it could assess his technology's potential. The director also told him that the information that he had provided [translation] "does not allow us to assess whether MAPAQ can support the start-up of a pilot plant on the basis of [his] technology" (Exhibit A‑35, letter dated October 8, 2002).
+[44] There is also an invoice for $160 issued on October 25, 2002, to Vertigel, for a 48‑inch by 72‑inch sign (Exhibit I‑1, tab 16, page 65). In addition, Fertigel purchased five business plan notebooks for a total of $60 on October 29, 2002, and 50 colour photocopies for $175 (Exhibit I‑1, tab 16, at page 68).
+[45] On November 13, 2002, MAPAQ's Assistant Deputy Minister, Training, Agro‑Environment and Technology, wrote to Mr. Gingras in connection with his letter to the Minister dated October 1, 2002, concerning his pilot liquid pig manure processing plant, and invited him to pursue discussions with the Director, Environment and Sustainable Development (Exhibit A‑35).
+[46] On November 20, 2002, Maison Le Sieur billed Fertigel $180 for catering services for 30 people (Exhibit I‑1, tab 16, page 97). (See the Journal de Montréal article discussed below.)
+[47] On November 27, 2002, the Coopérative de gestion des engrais organiques de Lanaudière (Cogenor) informed Fertigel that it had learned about the proposed establishment and assessment of a pig slurry processing centre in Berthierville, in the Lanaudière region. It wrote: [translation] "As a regional cooperative organization (made up of more than 350 member farms) whose mission is the agri‑environmental management of organic and mineral fertilizers, COGENOR Lanaudière supports this project." The letter stated that Cogenor was interested in participating directly in the project as a partner, particularly in relation to the [translation] "agricultural application of the manure gels and the field evaluation of their agronomic effectiveness" (Exhibit A‑13). When asked to comment on this letter, the director of Cogenor informed the Minister's auditor, in a letter dated July 19, 2004, that it was [translation] "simply moral support to a project proponent seeking solutions to liquid pig manure surpluses." He also stated that the letter did not constitute an agreement on the commercial sale of Fertigel products or the supply of liquid manure by Cogenor member producers (Exhibit I‑3).
+[48] There is an article from the December 2, 2002, issue of the Journal de Montréal newspaper which reports on an interview with Mr. Gingras. It states that Fertigel will construct its first plant (which will be a small one) and hire roughly a dozen employees to market its fertilizer. The article says that by the end of 2003, Fertigel will process at least 25 000 tonnes of liquid manure under an agreement that it has signed with an association of roughly 350 farmers from the Lanaudière region. The article describes Fertigel as a [translation] "little miracle" that could expand to a thousand times its original size. It describes Fertigel as a Berthierville‑based SME and notes that the gel crystals were developed by Mr. Gingras after 24 years of toil! (Exhibit A‑18.)
+[49] On March 4, 2003, Fertigel submitted an application for a "pre‑feasibility study" to the advisory committee of a Lanaudière regional economic diversification organization called Société de diversification économique des regions (SDÉR‑Lanaudière). The application pertained to the opening of a pilot plant that would use the Fertigel liquid manure processing technology (Exhibit A‑16). It is a seven‑page document signed by Normand Gariépy, the executive director of the D'Autray regional municipality local development centre. The document appears to have been prepared by ConquêteTech. It expresses the wish to obtain a $50,000 subsidy. It was to cost $25,000 to prepare the application for financial aid, and $5,000 of this amount was paid on January 3, 2003, by Mr. Gingras personally! (See Exhibit A‑24, the cheque.) The balance was to be paid if the subsidy was obtained.
+[50] On March 18, 2003, ConquêteTech Inc. contacted Mr. Gariépy to give him the answers to the questions that the "CRD" had asked about the proponents' expertise and experience (see Exhibit A‑24, a note by Michel Laplante dated March 18, 2003). The note states that Mr. Gingras had more than 30 years of experience in pulp and paper product sales. Mr. Gingras' strength is described as [translation] "his ability to put a solid team in place" (page 2 of the note). The note says that Mr. Marchese has a university degree in chemical engineering from the University of Genoa and that he was employed by Kheper as its director of technological development.
+[51] The note also discusses cost-sharing, and states that [translation] "it will be easy to show a payment to the service provider (ConquêteTech). Fertigel's disbursement is from the business (to which friends and family have contributed)" (page 3 of the note). Furthermore, it states that René Gingras, a relative, was willing to invest in the business by paying for the "pre-feasibility" study.
+[52] The note also explains why discussions with Kheper with a view to signing a licence agreement were so protracted: it was because of the financial problems involved in obtaining a licence for Canada, the United States and Mexico, which was going to cost $50,000. The other reason was that the project needed to have an organizational framework. The note says that ConquêteTech's role was to [translation] "organize the work, contact the specialists, the government and potential investors, and ensure that the work is done in compliance with government requirements. . . . A $25,000 mandate has been signed and $10,000 has already been committed to the process." (page 4 of the note).
+[53] As stated earlier, the licence contract between Fertigel and Kheper was allegedly signed on March 18, 2003 (Exhibit A‑6). The evidence discloses that René Gingras advanced $10,000 to Fertigel to cover $10,000 of the $50,000 cost of acquiring the patent licence. This amount was wired by Caisse centrale Desjardins on March 25, 2003 (see Exhibits I‑7, I‑8 and I‑9). TD's R&D expenses for 2003 amounted to $6,301, of which the largest amounts were $3,246 for entertainment expenses and $1,415 for sundry purchases and supplies. Mr. Paillé acknowledged that the sum of $10,000 advanced by René Gingras was not on Fertigel's 2003 balance sheet. This may be due to the fact that it was deposited into Fertigel's bank account and then withdrawn (Exhibit I‑7). Mr. Paillé was not informed that the amount withdrawn was wired to the French company Kheper Biotechnologies. According to Roland Gingras, the sum of $10,000 had been advanced to him, not to Fertigel, despite what is stated in the documentation tendered in Court (Exhibits I‑8 and I‑9).
+[54] In his testimony, Mr. Gingras said that his financial aid application was rejected by the SDÉR‑Lanaudière program advisory committee and that he was not given any reasons for this rejection.[22]
+[55] In addition to the proposal submitted in March 2003 with respect to the SDÉR program, it would appear that ConquêteTech prepared a March 2003 document entitled [translation] "Fertigel: A Business Opportunity — Operational Summary", which describes Fertigel's mandate, the concept, the current situation for processing liquid pig manure in Quebec, the markets, the investment required, Fertigel's share capital structure, and its use of the funds. The proponents are also discussed. The document (Exhibit A‑25) is 15 pages in length.
+[56] The next item of documentary evidence adduced before the Court is a memorandum dated November 23, 2003, from Robert Church to Mr. Gingras. In the memorandum, Mr. Church states that the waste processing project might be interesting, provided certain conditions are met (Exhibit A‑19). Mr. Church states that the proponents will have to satisfy him that they have acquired the licence from the European proponents, and tell him in which countries they will be able to market the product.
+[57] The Assistant Deputy Minister, Agro-Environment, wrote to Mr. Gingras again on December 12, 2003, in connection with a November 6 letter in which Mr. Gingras had asked for a $10,000 subsidy for the hiring of a well-known professional firm to produce the financial statements and confirm the accuracy of its financial projections so that he could make an adequate presentation to the stakeholders (Exhibit A‑35). In his letter, Mr. Gingras notified MAPAQ that Fertigel had almost run out of financial resources, and that assistance would be essential in order for it to obtain the financing necessary to open a pilot plant. In his reply, the Assistant Deputy Minister wrote that Mr. Gingras letter [translation] "does not specify the type of processing and testing" that Mr. Gingras had "carried out in order to assess effectiveness". He noted that the MAPAQ representatives [translation] "have already notified [him] several times that, in order for a system to receive financial assistance, the proponent must be able to show that it is agronomically, economically and environmentally effective." He also notes that the Technology Transfer Group brings together government and industry experts and that its objective is to determine the potential of various technologies, and he once again invites Mr. Gingras to present his project to the group.
+[58] On March 5, 2004, the Deputy Minister's office notified Mr. Gingras that there was no program to support the proponents' financial and economic validation of their process. However, he encouraged Mr. Gingras to contact MAPAQ's regional coordinator for economic and regional development in Joliette so that together they could assess whether support could be provided for the preparation of a start-up business plan (Exhibit A‑35).
+[59] It must be recalled that in November 2004, a summary of the project entitled [translation] "Agronomic value and environmental impact of the environmentally‑friendly fertilizer obtained through Fertigel technology" was submitted to Michel Audet, Quebec's Minister of Regional and Economic Development and Research. This was an "unsolicited research proposal" submitted by Fertigel in partnership with the Université du Québec à Montréal and SNC‑Lavalin Environnement Inc. (Exhibit A‑22). The document describes Fertigel as a start-up company established for the purpose of developing a for-profit business that manufactures and sells environmentally‑friendly fertilizers. It states, at page 10, that the work was to be carried out according to the following timetable: [translation] "Literature review component • April-May 2005 Description of technology and production method component: • April-June 2005 On‑farm adaptability component • Experimental design setup: May-July 2005 • Trials: July‑September 2005 Field trials component • May 2005 to October 2006 Laboratory testing component • May 2005 to early 2006 Greenhouse trials component • October 2005 to June 2006." The project budget totalled $180,000 (see Exhibit A‑22, at page 11).
+[60] For obscure reasons, the project with SNC‑Lavalin never came to fruition. The Quebec government probably did not deem it appropriate to provide the subsidy requested. However, Mr. Gingras spoke of a disagreement with SNC‑Lavalin.
+[61] Financial statements for Fertigel's fiscal years ended October 31, 2003 and October 31, 2004 (Exhibit A‑11) were adduced in evidence. They resemble TD's. Indeed, they do not make reference to any sales, because the company was in its R&D phase. The statements report $40,904 in R&D expenses for 2003, including $10,561 transferred from TD to Fertigel on account of prototype depreciation. The remaining expenses are of the same type that can be found in TD's financial statements from 2000 onward, that is to say, general expenses, the largest of which, in Fertigel's 2003 year, are $13,240 in entertainment expenses, $9,119 in sundry purchases and supplies, and $4,199 automotive expenses. Note 1 in the 2003 financial statements describes Fertigel as a company that carries on an R&D business. Note 3 states that the share capital consists of 585,000 Class A common shares for $193,050 and 415,000 Class A common shares for $136,950, for a total of $330,000.[23]
+[62] Mr. Gingras says that he did not invest this $330,000. He was unable to explain how his accountant justified this amount in Fertigel's financial statements. It must be recalled that the equipment prototype that was transferred to Fertigel by TD was set aside after TD's demonstration in 1995 or 1996.
+[63] Mr. Gingras adduced Fertigel's minute book, which contains the register of Class C share transfers. An analysis of that register discloses a large number of Class C share transfers effected by Mr. Gingras from August 16, 2002, to July 10, 2006:
+Transferee's name
+Number of Class C shares
+Date
+Yves Marcil Inc.
+37,500
+August 16, 2002
+Placements Normont Ltée
+56,250
+August 30, 2002
+Paul-Aimé Sauriol
+56,250
+October 2, 2002
+Les Placements
+Pierre A. Moisan Inc.
+15,000
+December 31, 2002
+Jacques St-Pierre
+2,500
+December 1, 2003
+Jacques St-Pierre
+5,000
+February 9, 2004
+Jacques St-Pierre
+7,000
+April 1, 2004
+Danielle Gilbert
+3,000
+February 1, 2005
+Yvon Labonté
+300
+February 1, 2005
+Laurent Corbin
+2,000
+February 1, 2005
+Dorothée Gilbert
+6,000
+February 1, 2005
+Bruno Guertin
+10,000
+February 1, 2005
+Bernard Robert
+15,000
+February 1, 2005
+Gilles Boudreault
+4,000
+February 1, 2005
+Jacques St-Pierre
+2,500
+February 1, 2005
+Jacques Perreault
+10
+February 9, 2005
+René Gingras
+85,000
+February 15, 2005
+Joanne Dupont
+3,000
+March 31, 2005
+Laurent Corbin
+2,000
+March 31, 2005
+Dorothée Gilbert
+2,000
+March 31, 2005
+Alain G. Rochefort
+6,000
+March 31, 2005
+Bernard Robert
+5,000
+March 31, 2005
+Gilles Boudreault
+5,000
+March 31, 2005
+Pierre Olive
+3,000
+March 31, 2005
+Danielle Gilbert
+2,000
+May 31, 2005
+Pierre Olive
+2,000
+May 31, 2005
+Gilles Boudreault
+5,000
+May 31, 2005
+Alain G. Rochefort
+14,000
+May 31, 2005
+Dorothée Gilbert
+11,000
+May 31, 2005
+Joanne Dupont
+2,000
+May 31, 2005
+Bernard Robert
+10,000
+December 15, 2005
+Placements Normont Ltée
+10,000
+January 31, 2006
+Bernard Robert
+4,000
+January 31, 2006
+Louis-Luc Lessard
+5,000
+January 31, 2006
+Gaétan Leduc
+5,000
+January 31, 2006
+René Gingras
+68,000
+July 10, 2006
+TOTAL
+471,310
+[64] The evidence does not show the price paid by the transferees. Assuming that the shares were transferred by Mr. Gingras in consideration for cash, those share transfers might be the only transactions that generated a profit! The transfers are bizarre, given the fact that the company made no product sales at any time subsequent to its incorporation, and that, as of the last day of the hearing, it had not obtained an approval to commence its operations. This situation is even more troubling in the light of the fact that Mr. Gingras has been convicted of fraud and of distributing securities without a prospectus.
+[65] The financial situation shown by Fertigel's 2004 financial statements is substantially the same as it was in the previous year, except that the deficit increased from $40,904 to $84,311. The $43,407 in R&D expenses for 2004 include a $19,000 prototype-related depreciation expense. The other expenses are general in nature: $8,224 in sundry purchases and supplies, $6,922 in entertainment expenses, and $4,985 in automotive expenses.
+[66] Mr. Gingras also adduced an organic amendment analysis report dated August 23, 2005, in relation to a blood meal sample. The report (Exhibit A‑8) was prepared by GEO Laboratoire of Mont‑Saint‑Hilaire.
+[67] Mr. Gingras adduced a business plan prepared by his accountant, Mr. Paillé, as Exhibit A‑17. The business plan is dated August 14, 2007. It has ten tabs. The text at the first tab presents the business and its products. The text at the second tab is a development plan, and the text at the third tab contains budget forecasts. The materials at the other tabs includes a pro forma balance sheet, a statement of cash assets, an income statement, a table of capital assets, an equipment drawing, and a corporate information statement issued by the Registraire des entreprises. The tenth tab, entitled [translation] "Subsidy Information", essentially contains a description of the CRA's R&D program. Mr. Gingras says that he paid $500 for the business plan. (Exhibit A‑33).
+[68] The first paragraph of the document bearing the first tab, a document entitled [translation] "Fertigel Inc. – Business Plan", states that [translation] "Quebec's pork industry is currently in crisis due to a Quebec government moratorium on increases in the number of pig farms and livestock." The writer adds that [translation] "[i]t appears that this moratorium will extend beyond 2004, because the government has not yet found any solutions . . ." It seems quite obvious that this document was prepared well prior to August 14, 2007. Thus, it is a recycling of documents that had already been written. There is another indication of this recycling in the business plan, three pages further on, where it states that [translation] "when Fertigel is incorporated, it will hold an exclusive licence to use the polymer gel crystals and the patented process. . . ." Fertigel was incorporated on January 18, 2002, so that there is every reason to believe that the "Business Plan" document, or at least some of it, was written prior to that date.
+[69] Mr. Gingras also adduced conditional letters of intent from potential investors (Exhibit A‑34). The first one is a letter dated October 16, 2007, signed by Marcel Asselin, who confirms his [translation] "interest in having a stake in the project to establish a liquid pig manure processing plant in Louiseville" and states that he has $100,000 available for this purpose.[24] There is another letter, dated December 19, 2007, and signed by Claude Lavigne,[25] who offers to acquire [translation] "33% of the value of Fertigel Inc." subject to certain conditions. On January 22, 2008, Pierre Couture confirms that [translation] "steps are being taken to ensure that Fertigel Inc. commences production activities within two weeks, and we currently have a budget of more than $800,000." His financier required that two conditions be fulfilled beforehand: (1) that [translation] "the polymer granules contain no toxic or chemical substances that could affect the environment"; and (2) that [translation] "the processing of animal waste . . . results in an environmentally‑friendly — that is to say, biodegradable and non-toxic — solution."
+[70] In his February 2008 testimony, Mr. Gingras stated that he was giving himself 90 days to obtain the financing necessary to begin construction of his pilot plant and that he hoped to start making sales in May 2008.
+[71] As of the hearings on September 22 and September 23, 2008, Fertigel had still not begun to build its pilot plant. However, Mr. Gingras adduced a liquid manure transfer agreement between Fertigel and Profid'Or, a farming cooperative having its head office in Joliette. In the agreement, Profid'Or agrees to provide all liquid manure on two properties, described as the Profid'Or farms; one such farm is located in Saint‑Justin,[26] and the other is in Sainte‑Ursule. Under this agreement, the cooperative would provide a minimum of 12 000 cubic metres of liquid manure annually, to be used by Fertigel in its gelation process by which the manure is converted into environmentally‑friendly fertilizer. The agreement is apparently in force until June 30, 2013. It states that Fertigel warrants to Profid'Or that it has obtained all the authorizations, certificates and permits necessary to carry out its activities, including those required from the Ministère du Développement durable, and that those activities will be carried out, in every respect, in accordance with the applicable laws, regulations, standards and requirements (Exhibit A‑50). Mr. Gingras has not offered any evidence that he has the authorizations in question. Instead, he stated that he was awaiting an authorization from the Commission de protection du territoire agricole before commencing construction.
+[72] With a view to substantiating the fact that the two Appellants were engaged in commercial activity, Mr. Paillé prepared a table summarizing the amounts that they had spent from 1996 to 2007.[27] According to Mr. Paillé's calculations, the two Appellant companies spent $925,761, of which 36% ($330,773) was in relation to the prototype, 20% was on account of automotive expenses, electrical power and telephone expenses, and 50% was on account of entertainment expenses (Exhibit A‑48). The other items of greatest size are salaries (8%, or $75,950), professional fees (8%, or $77,243), supplies (7%, or $61,047) and rent (4%, or $34,000).
+• MRQ's audit
+[73] In the course of his audit, the auditor wrote a letter to TD, dated July 21, 2004, requesting that TD provide him with evidence that showed, on a balance of probabilities, that there was commercial activity. Among the documents that he suggested in this regard were letters of agreement or contracts with suppliers or government departments; a permit, licence or authorization from such departments; letters of agreement or contracts with hog producers; a business plan; a budget; and a start-up cost study, market study, etc. The auditor testified that he received only four documents, including two newspaper or magazine articles; a copy of a licence contract (Exhibit A‑6); and the letter of encouragement from Cogenor, dated November 27, 2002, regarding the project to start up and test a liquid pig manure processing centre in Berthierville (Exhibit A‑13). Although he was shown the invoices intended to document the ITCs at the March 4, 2004, meeting in Berthierville, he was not given the accounting books that would have enabled him to reconcile these invoices with the amounts claimed. Unfortunately, Mr. Paillé, TD's accountant, was in Florida, and it appears that even after he returned, there was no contact between the auditor and him.
+[74] At the hearing of TD and Fertigel's appeals in February 2008, both Appellants brought three boxes of documents, which they adduced as Exhibit A‑29, and which essentially contained invoices. Counsel for the Respondent asked the Court to adjourn the hearing of the appeals to a subsequent date in order to enable him to review the documents, and the adjournment was granted. It must be added that many of the documents offered at the hearing had never been disclosed to the auditor or to counsel for the Respondent prior to that time. The auditor then prepared a worksheet, which took him three weeks, and on which he garnered the information contained in the three boxes in question. The worksheet provides the name of the recipient and supplier, their addresses, and a description of the goods or services involved (Exhibit I‑1, tabs 15 and 16).
+[75] The auditor was content to capture the information contained in the documents constituting Exhibit A‑29. He bore no judgment on the eligibility of the expenses. He stated that his examination of the documents, roughly 7 500 invoices in all, did not change his opinion about the absence of commercial activity. He said that he found only two analysis invoices substantiating R&D activity. Exhibit A‑29 contained no contract for the purchase of materials or equipment by Fertigel or TD. He did find an invoice for $7,888 from BN Metal, but that invoice was addressed to Atelier la Corne d'Or (see Exhibit I‑1, tab 16).
+[76] During his cross-examination by counsel for the Appellants, the auditor was asked whether he had taken account of the bookkeeping, notably by Samson Bélair for TD, as evidence of activity by the Appellant companies. The auditor replied that he was never given that firm's books.
+Analysis
+[77] The Minister disallowed $37,069 in ITCs claimed by TD and $1,573 claimed by Fertigel during the periods in issue. The relevant provisions, which set out the conditions that the taxpayer must meet in order to be entitled to ITCs, are contained in subsection 169(1) of the Excise Tax Act (the Act).
+169. (1) General rule for [input tax] credits − Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) . . .
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+169. (1) Règle générale − Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d'une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu'elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l'importation ou au transfert devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable :
+A × B
+où
+A représente la taxe relative à la fourniture, à l'importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable;
+B :
+a) […]
+b) dans le cas où le bien ou le service est acquis, importé ou transféré dans la province, selon le cas, par la personne pour utilisation dans le cadre d'améliorations apportées à une de ses immobilisations, le pourcentage qui représente la mesure dans laquelle la personne utilisait l'immobilisation dans le cadre de ses activités commerciales immédiatement après sa dernière acquisition ou importation de tout ou partie de l'immobilisation;
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service, ou l'a transféré dans la province, selon le cas, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+[Emphasis added.]
+[78] The phrase "commercial activity" is defined in subsection 123(1) of the Act:
+…]123(1) Definitions − In section 121, this Part and Schedules V to X,
+"commercial activity" of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) . . .
+123(1) Définitions − Les définitions qui suivent s'appliquent à l'article 121, à la présente partie et aux annexes V à X.
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l'exploitation d'une entreprise (à l'exception d'une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l'ensemble des associés sont des particuliers), sauf dans la mesure où l'entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (à l'exception de quelque projet ou affaire qu'entreprend, sans attente raisonnable de profit, un particulier, une fiducie personnelle ou une société de personnes dont l'ensemble des associés sont des particuliers), sauf dans la mesure où le projet ou l'affaire comporte la réalisation par la personne de fournitures exonérées;
+(c) […]
+[79] Lastly, the word "business" is also defined in subsection 123(1):
+"business" includes a profession, calling, trade, manufacture or undertaking of any kind whatever, whether the activity or undertaking is engaged in for profit, and any activity engaged in on a regular or continuous basis that involves the supply of property by way of lease, licence or similar arrangement, but does not include an office or employment; « entreprise »
+« entreprise » Sont compris parmi les entreprises les commerces, les industries, les professions et toutes affaires quelconques avec ou sans but lucratif, ainsi que les activités exercées de façon régulière ou continue qui comportent la fourniture de biens par bail, licence ou accord semblable. En sont exclus les charges et les emplois.
+[Emphasis added.]
+[80] According to the submissions of counsel for the Respondent, the first issue that this Court must decide is whether the two Appellants carried on commercial activities during the relevant periods. As we have seen, the Minister's auditor considered this issue, and determined that the Appellants did not carry on a commercial business, and were therefore not entitled to any of the ITCs. The Minister's auditor never determined whether the invoices on the basis of which the ITCs were claimed met all the other conditions provided for by the relevant Act and Regulations, or whether the expenses in question could be considered personal in nature. As I have said, the only ground for disallowing the ITCs was that there had been no commercial activity. In this regard, I notified counsel for the Respondent that the onus was on him to prove the facts justifying any other ground for disallowing the ITCs. In his oral argument, counsel acknowledged that his evidence had not established, inter alia, whether certain expenses incurred by the Appellants were personal in nature. Consequently, the outcome of the appeal turns entirely on whether the Minister's ground for disallowing the ITCs, namely the absence of commercial activity, is well‑founded.
+[81] If the Appellants had been individuals, I would have tended to believe, in the light of the evidence as a whole before me, that their activities were carried on without a reasonable expectation of profit. Indeed, from 1995 to 2008, a period roughly 14 years in length, neither of the Appellants made a single sale of a product manufactured using the supposedly revolutionary process for transforming liquid manure into fertilizer. Not only were there no product sales during the relevant periods, I also have serious doubts as to whether a viable process for transforming liquid pig manure into fertilizer really exists. The only possible lucrative activity would be that of Mr. Gingras, assuming that by selling the Fertigel shares, he obtained funds exceeding his own costs. But the instant matter is not about him.
+[82] The issue is framed in completely different terms where corporations like the two Appellants are involved. This is because a commercial activity is defined as the operation of a business, and because, based on the exclusions in paragraphs (a) and (b) of this definition, a reasonable expectation of profit is not necessarily required in order for a corporation to be engaged in a commercial activity. Consequently, one is limited to the definition of "business" in subsection 123(1), which includes any "undertaking of any kind whatever, whether the activity or undertaking is engaged in for profit" ("toutes affaires quelconques avec ou sans but lucratif"). These phrases have a very broad meaning — broad enough, in fact, to include the work of an employee or director, since there is an express exclusion for employees and directors. However, an "undertaking of any kind whatever" does not appear to include the leasing of property, because the word "business" includes not only "any undertaking of any kind whatever" but also activity engaged in "on a regular and continuous basis" that involves the supply of property by way of lease, licence or similar arrangement.
+[83] In my opinion, the activities carried on by TD, as described in the lengthy statement of facts above, are amply sufficient to constitute an "undertaking of any kind whatever" or "affaires quelconques". The desire to start up a business that converts liquid manure into fertilizer; the carrying out of an R&D program and the obtaining of a licence under a patent; the acquisition of the equipment and materials necessary to undertake such a program; the hiring of agronomists and graphic designers; and the retaining of professionals to obtain financing for the R&D program, construct a pilot plant and prepare financial statements, clearly constitute "undertakings of any kind whatever" within the meaning of the Act.
+[84] Consequently, I find that the Minister erred in law in determining that these activities could not constitute commercial activity for the purposes of section 169 of the Act. I doubt whether he considered whether the activities engaged in by the two Appellants could constitute commercial activity even in the absence of a reasonable expectation of profit. It is quite possible that, in computing the Appellants' taxable income under the Income Tax Act, the Minister was justified in disallowing the expenses incurred by them on the basis that there was no business. However, for the purposes of the Act, this question is not relevant where a registrant claiming ITCs is a corporation.
+[85] Since the Appellants have succeeded in showing that they were engaged in a commercial activity during the periods in issue, they have succeeded in demolishing the Minister's assessments, and, as stated above, the Minister was unable to justify the disallowance of the ITCs on other grounds.
+[86] For all these reasons, TD and Fertigel's appeals are allowed and the assessments are referred back to the Minister for reconsideration and reassessment on the basis that they were entitled to the ITCs claimed. The Appellants are entitled to only one set of costs.
+Signed at Ottawa, Canada, this 2nd day of February 2009.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+On this 28th day of June 2009
+François Brunet, Reviser
+CITATION: 2009 TCC 67
+COURT FILE NO.: 2005-1757(GST)G and 2005‑1758(GST)I
+STYLES OF CAUSE: TRAITEMENT DE DÉCHETS JRG INC. v. HER MAJESTY THE QUEEN and
+FERTIGEL INC.
+v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATES OF HEARING: February 28 and 29, 2008, and
+September 22 and 23, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: February 2, 2009
+APPEARANCES:
+Counsel for the Appellants:
+Jean-Pierre Gagné
+Counsel for the Respondent:
+Frank Archambault
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Jean-Pierre Gagné
+Firm: Jean-Pierre Gagné, Avocat
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] According to the Reply to the Notice of Appeal. However, the notice of assessment tendered as Exhibit I‑2, tab 1, only covers the period from December 20, 2002, to October 31, 2003. Counsel for the Respondent appears to have relied on the remittance slip, not the notice of assessment.
+[2] Exhibit I‑1, tab 12, second sheet; and Exhibit I‑2, tab 4.
+[3] During his testimony, the auditor confirmed that his audit stopped at that stage. He never verified whether the expenses had been incurred and paid, whether the supporting documentation was sufficient, or whether part of the expenses might have been attributable to non-commercial activities. Thus, he did not verify whether some of the expenses were personal.
+[4] His explanation of the disappearance of this debt was that it had been transferred to Fertigel. However, that company did not exist on October 31, 2000, because it was only incorporated on January 18, 2002.
+[5] The Commission's decision describes the company's activity as a [translation] "waste reclamation project". See Exhibit I‑12.
+[6] The date of these events is not specified, but Mr. Gingras was summoned before the Commission in 1991. See Exhibit I‑12.
+[7] In addition to this income, there is his wife's income, which is from the same two sources.
+[8] See paragraph 64 below.
+[9] Exhibit A‑6. This was the only licence contract adduced at the hearing. Under the contract, Fertigel was to pay $50,000 upon signing, a 10% royalty on any sale of a project and/or factory or production equipment and on any grant of a sublicence of any nature whatsoever, and a 5% royalty on any sale of fertilizer or other product made using the process covered by the licence (see Exhibit A‑6, section 5, [translation] "Consideration"). Previous licence agreements had been signed in 1995 and/or 1998 between Mr. Marchese and "Groupe Gingras" (1995) and 3095‑2261 Québec Inc. (1998) (see Exhibit A‑6, page 7, section 11.1). Furthermore, in an account statement from TD's legal advisor, the notary Bernard Drapeau (Exhibit I‑1, tab 16, at page 39), made an entry for September 11, 1997, which makes reference to services rendered to TD in connection with the [translation] "Preparation of a licence contract."
+[10] The process in question is also registered with the European Patent Office. Patents are also registered in Canada and the United States (see Exhibit A‑25, page 3, and Exhibit A‑6).
+[11] According to a description appearing in a business plan dated August 14, 2007, Exhibit A‑17, Tab 1, 4th sheet.
+[12] The planned name "Traitement de déchets I.G.M." was unavailable. Another name had to be found.
+[13] Surprisingly, the amount of expenses anticipated in the project cost summary matches the amount in the financial statements as at October 31, 1996 (Exhibit A‑47, page 7)!
+[14] Exhibit I‑1, tab 5. It should be mentioned that the financial statements were prepared on Réjean Paillé's letterhead and that CSA stands for "Certificat en Sciences Administratives". A person who does not pay attention to this abbreviation might think that it reads "CGA", because the "S" looks similar to a "G". It should be added that Mr. Paillé has been a chartered accountant, but that his professional body revoked his membership for life. In its decision dated March 26, 1998 (Exhibit I-10), the disciplinary committee of the Ordre des comptables agréés du Québec determined that Mr. Paillé had breached his fiduciary duty by withdrawing amounts from his trust account. The misconduct complained of occurred in 1997. In the statement of facts contained in the decision, the committee wrote that Mr. Paillé [translation] "teamed up with one Moktar Zouaoui . . . to swindle large sums of money from honest merchants." At page 4, it is stated that Mr. Paillé "was therefore one of the actors in several instances of fraud." Indeed, Mr. Paillé pleaded guilty to offences under paragraph 465(1)(c) of the Criminal Code and was convicted on February 11, 1999. According to that provision, "every one who conspires with any one to commit an indictable offence . . . is guilty of an indictable offence . . ."
+[15] Exhibit I-1, tab 16, page 36. In addition, at tab 16, page 32, there is a bill for $1,000 in fees for professional services, issued by Mr. Drapeau and dated June 17, 1996, for the preparation of a shareholder agreement. The bill is addressed to TD.
+[16] Exhibit A‑41. In those photographs, Mr. Gingras pointed out equipment that was allegedly made at a cost of approximately $100,000 by B.N. Métal Inc. This includes the equipment in photos 3E and 3F of Exhibit A‑12.
+[17] It is interesting to note that the amount of $387,000 is practically identical to the amount contemplated in the guarantee application submitted to SDI in January 1996. The amount of eligible current R&D expenses stated therein was $386,938.
+[18] In addition, see the T661 information slips which describe the R&D project and illustrate it by means of photographs (Exhibit A‑38).
+[19] A document addressed to Environair SIPA (Exhibit A‑9) contains a summary of the investment expenses. The summary states that the expenditures were $174,269 in the financial statements as at October 31, 1996, $134,638 in the statements as at October 31, 1997, and $81,896 in the statements as at October 31, 1998, for a total of $390,803. The amount for the prototype equipment is $206,373.
+[20] Plus a $3,405.99 debt to Mr. Gingras.
+[21] According to Fertigel's minute book, Mr. Gingras subscribed for 100,000 additional Class C shares on February 9, 2005, in consideration for $1,000. Mr. Gingras says that this amount has still not been paid, and he relies on his legal counsel to remind him of his debt.
+[22] Mr. Gingras also referred to a study conducted by the BAPE [Quebec's bureau of public hearings on the environment], and when the BAPE requested a technical data sheet in order to obtain more information about the use of so-called "Fertigel" gel crystals, Mr. Gingras withdrew from the BAPE study concerning the effectiveness of his product.
+[23] Did the accountant make a typographical error with respect to the class of shares? It is unusual to have two sets of shares of the same class. Perhaps the 415,000 shares are Class C shares, but nothing has been established with certainty. Indeed, in preparing Fertigel's financial statements, the accountant probably did not consult Fertigel's transfer book and resolutions. It should be noted that the minute book contains no shareholders' resolutions, except the original resolution passed when Fertigel was incorporated. Consequently, there was no election of a board of directors for any of the years subsequent to 2002.
+[24] Mr. Asselin apparently signed another letter on June 2, 2008, stating that he would be willing to invest $100,000. This letter of intent was valid for only 30 days. Another investor named Jacques Goudreau appears to have signed a similar letter on June 2, 2008, stating that he was prepared to invest $200,000 subject to the same terms and conditions.
+[25] According to counsel for the Appellants, this man has been charged with numerous offences under Quebec's Securities Act.
+[26] Saint‑Justin is roughly 10 km north of Louiseville.
+[27] These numbers are from the financial statements for the two companies for the period covered by the table.

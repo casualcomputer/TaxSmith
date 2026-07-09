@@ -1,0 +1,177 @@
+---
+title: "Cadieux c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26371/index.do"
+last_modified: "2004-01-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 92"
+citation2: ""
+neutral_citation: "2004 CCI 92"
+decision_date: "2004-01-27"
+language: "fr"
+item_id: "26371"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3384
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:04:27.259000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "adb36d440999ed91c60e97ec63c6900815593236f515e0256293d4a8ebfb57b6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cadieux c. M.R.N.
+
+- Citation: 2004 CCI 92
+- Decision date: 2004-01-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3384, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cadieux c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-27
+Référence neutre
+2004 CCI 92
+Numéro de dossier
+2003-1071(EI)
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-1071(EI)
+ENTRE :
+CHRISTIANE CADIEUX,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 8 janvier 2004 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Représentant de l'intimé :
+Richard Goulet (Stagiaire en droit)
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi concernant la décision du ministre du Revenu national en date du 16 décembre 2002 est rejeté et la décision du Ministre est confirmée, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 27e jour de janvier 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2004CCI92
+Date : 20040127
+Dossier : 2003-1071(EI)
+ENTRE :
+CHRISTIANE CADIEUX,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'un appel d'une décision du ministre du Revenu national (le « Ministre ») voulant que l'appelante n'ait pas exercé un emploi assurable du 2 au 28 juin 2002, auprès de Chaussures Confort Inc. La décision du Ministre est en date du 16 décembre 2002.
+[2] Pour rendre sa décision, le Ministre s'est fondé sur les présomptions de fait décrites au paragraphe 5 de la Réponse à l'avis d'appel (la « Réponse ») comme suit :
+En rendant sa décision, l'intimé, le Ministre du Revenu National, s'est fondé sur les présomptions des faits suivantes :
+a) Le payeur exploite une entreprise de vente de chaussures spécialisées (orthèses) située dans un centre d'achat à St-Jean sur le Richelieu.
+b) M. André Cadieux, frère de l'appelante, était le seul actionnaire de l'entreprise.
+c) Le payeur embauchait habituellement 4 personnes dont M. Cadieux et ses 2 filles.
+d) L'appelante possède une expérience comme psychosociologue et travaillait généralement dans des écoles comme éducatrice spécialisée.
+e) L'appelante s'est retrouvée sans travail et son frère lui a confié un mandat comme consultante car il voulait réorganiser l'entreprise du payeur.
+f) Initialement, le payeur avisait l'appelante que ses services ne seraient retenus que pour un maximum de 4 semaines car il disposait d'un budget restreint.
+g) Le payeur confia le mandat suivant à l'appelante : elle devait faire de l'observation afin d'effectuer des recommandations pour développer le commerce et en augmenter l'achalandage et pour améliorer les communications entre les employés et les relations avec les clients.
+h) L'appelante devait se rendre au magasin, généralement entre 9h. et 14h., pour faire de l'observation et complétait son travail en effectuant des recherches en bibliothèque sur la psychologie du client.
+i) L'appelante pouvait compléter son travail chez elle et faisait ses recommandations verbalement au payeur.
+j) L'appelante n'avait aucun horaire précis de travail à respecter et le payeur ne comptabilisait pas ses heures de travail.
+k) Selon l'entente initiale, l'appelante devait recevoir une rémunération horaire de 10 $ pour environ 30 heures de travail par semaine.
+l) Les heures de travail de l'appelante ont été portées à 40 heures par semaine et sa rémunération à 20 $ de l'heure durant les 2 dernières semaines de la période en litige.
+m) À la fin de son mandat, l'appelante n'a complété aucun rapport écrit faisant état de ses recommandations au payeur.
+n) Durant la période en litige, l'appelante a accumulé 140 heures de travail, dont 100 heures d'observation, auprès du payeur.
+o) Les services rendus par l'appelante étaient hors de sa spécialisation habituelle et non reliés aux activités normales du payeur.
+p) Durant la courte période de son mandat (4 semaines), la rémunération de l'appelante est passée de 10 $ à 20 $ de l'heure sans aucune justification et sans aucun contrôle du payeur sur ses heures réellement travaillées.
+[3] L'appelante, lors de son témoignage, a admis les alinéas 5 a) à 5 e) de la Réponse. En ce qui concerne l'alinéa 5 c), elle a mentionné qu'une autre personne travaillait habituellement pour le payeur, soit un monsieur Bertrand. En ce qui concerne l'alinéa 5 d), l'appelante a mentionné qu'il était difficile d'obtenir du travail dans son domaine de formation, ce qui explique pourquoi elle travaillait comme éducatrice spécialisée.
+[4] En ce qui concerne l'alinéa 5 f), l'appelante a mentionné que ses services avaient été retenus semaine après semaine.
+[5] Elle a admis les alinéas 5 g) à 5 i). En ce qui concerne l'énoncé de l'alinéa 5 h), elle mentionne que pour les deux premières semaines, elle faisait de l'observation entre 9 h et 13 h. Pour les deux dernières semaines, son travail d’observation a été augmenté d’une heure par jour.
+[6] Elle a nié l'alinéa 5 j). Elle a mentionné qu'elle devait venir faire de l'observation aux heures déterminées par son frère, qui ne la voulait pas sur les lieux lorsqu'il y avait trop d'achalandage.
+[7] Elle a admis les alinéas 5 k) à 5 m) de la Réponse. En ce qui concerne l'augmentation de son tarif horaire, de 10 $ à 20 $, elle explique que c'était la rémunération qu'elle avait demandée au départ et que son frère n'avait pas accepté ce tarif, mais qu'il l'avait accepté pour les deux dernières semaines de la période.
+[8] En ce qui concerne l'énoncé de l'alinéa 5 n), elle dit qu'elle a fait environ 90 heures d'observation et 50 heures de recherche chez elle ou à la bibliothèque.
+[9] En ce qui concerne l'alinéa 5 o), l'appelante mentionne que les services qu'elle a rendus font appel à sa formation de psychosociologue.
+[10] En ce qui concerne l'alinéa 5 p), elle répète ce qu'elle a déjà dit, qu'au départ, elle avait demandé 20 $ de l'heure et que son frère avait finalement consenti à le lui accorder. Son frère la voyait faire son observation et elle lui faisait rapport une fois par semaine, le vendredi, donc son frère savait ce qu'elle faisait. Elle suivait ses ordres et directives en ne venant pas dans le magasin aux heures où il ne voulait pas qu'elle y soit. Il n'y avait pas d'objectif spécifique à rencontrer. Il n'y a pas eu de description écrite des tâches.
+[11] Madame Julie Lambert, agent des appels a témoigné. Elle a eu une conférence téléphonique avec l'appelante et l'avocate de cette dernière le 11 décembre 2002. Il est ressorti de cette entrevue qu’il n'y avait pas de contrat de travail écrit, que l'entente procédait de semaine en semaine, que l'horaire était fixé pour des heures d'observation pendant lesquelles elle ne dérangeait pas la clientèle, et que ce n'était pas son frère qui avait planifié le travail ni qui la supervisait. L'entreprise ne lui fournissait aucun outil. Monsieur Cadieux, le payeur, n'a pas voulu répondre au questionnaire de l’agent des appels. Il s'en est remis au témoignage qu'il avait rendu auprès de l'agent d'assurabilité.
+[12] L'appelante a fait valoir qu'il s'agissait d'un travail assurable car son frère pouvait la congédier quand il voulait. De plus, elle était sous son contrôle car c’était lui qui déterminait les heures d’observation et elle devait lui rendre compte : chaque vendredi, elle lui faisait le bilan de ses observations pour la semaine. En ce qui concerne l’augmentation de 10 $ à 20 $, c’était bien peu, car un consultant peut obtenir beaucoup plus.
+[13] Le représentant de l’intimé a fait valoir en ce qui concerne la rémunération qu’elle a été augmentée de 10 $ à 20 $ de l’heure sans aucune justification de la part de l’employeur. En ce qui concerne les modalités d'emploi, l’observation sur les lieux doit se faire à des heures où il y a peu de clientèle et la recherche se fait à la maison ou à la bibliothèque. Le travail n'est donc pas un travail typique à l'entreprise. Il n'y a non plus aucune instruction de la part de l'employeur sur la manière de rendre le service. Il n’y a aucun contrat écrit et aucun rapport final.
+[14] Le représentant de l’intimé s'est référé à deux décisions de la Cour d'appel fédérale soit Massignani c. Canada (Ministre du Revenu national), [2003] A.C.F. no 542 (Q.L.) et Miller c. Canada (Ministre du Revenu national), [2002] A.C.F. no 1498 (Q.L.).
+[15] De la décision Massignani, il cite le paragraphe 2 :
+2 Premièrement, le juge suppléant a omis de considérer et de remplir le rôle qui lui était confié par la Loi sur l'assurance-chômage, S.C. 1970-71-72, ch. 48 (la « Loi »), paragraphe 3(2)c), rôle que notre Cour a précisé dans les arrêts Légaré v. Canada (1999), 246 N.R. 176 et Pérusse v. Canada (2000), 261 N.R. 150, qui ont été suivis dans Valente v. Minister of National Revenue, [2003] A.C.F. no 418, 2003 FCA 132. Ce rôle ne permet pas au juge de substituer sa discrétion à celle du ministre, mais il emporte l'obligation de « vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus et, après cette vérification, ... décider si la conclusion dont le ministre était « convaincu » paraît raisonnable » : voir Légaré, précité, à la page 179, Pérusse, précité, à la page 162.
+[16] De la décision Miller, il cite les paragraphes 3 et 4 :
+3 À la première étape, le juge de la Cour de l'impôt doit évaluer la légalité de la décision du ministre. Ce faisant, il doit faire preuve de retenue judiciaire à l'égard de la décision du ministre sauf s'il conclut que le ministre a exercé son pouvoir discrétionnaire d'une manière qui est contraire à la loi. Pour évaluer si le ministre a exercé son pouvoir discrétionnaire de manière correcte, le juge de la Cour de l'impôt n'est pas tenu de faire preuve de retenue judiciaire à l'égard des conclusions de fait tirées par le ministre, mais doit tenir compte des faits qui ont été portés à son attention au cours de l'audition de l'appel.
+4 Le juge de la Cour de l'impôt ne peut passer à la deuxième étape de l'analyse et examiner le bien-fondé de la décision du ministre que si l'un des motifs d'intervention suivants est établi : le ministre : (i) a agi de mauvaise foi ou dans un but ou un mobile illicites; (ii) n'a pas tenu compte de toutes les circonstances pertinentes, comme l'exige expressément le sous-alinéa 3(2)c)(ii); (iii) a tenu compte d'un facteur non pertinent. Par conséquent, « ce n'est que lorsque la décision du ministre n'est pas raisonnablement fondée sur la preuve que l'intervention de la Cour de l'impôt est justifiée ».
+Analyse
+[17] Le sous-alinéa 5(2)i) de la Loi sur l'assurance‑emploi (la « Loi ») et le paragraphe 5(3) se lisent comme suit :
+5(2) N'est pas un emploi assurable :
+...
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+5(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[18] Le sous-alinéa 5(2)i) stipule que l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance n’est pas un emploi assurable.
+[19] Le paragraphe 5(3) de la Loi stipule que si le Ministre peut raisonnablement conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, que le frère de l’appelante et cette dernière auraient conclu entre eux un contrat de travail à peu près semblable, s’ils n’avaient eu entre eux un lien de dépendance, alors l’emploi n’est plus exclu des emplois assurables.
+[20] Dans la présente affaire, le Ministre n’a pas été convaincu qu’il était raisonnable d’ainsi conclure. A-t-il eu tort ou raison?
+[21] Il me serait difficile de décider qu’il a eu tort.
+[22] Les faits pris en compte par le Ministre se sont révélés exacts. Il n’y a pas de litige quant aux faits de cette affaire. La première impression qui découle de ces faits est qu’il ne s’agit pas d’un contrat de travail mais d’un contrat d’entreprise. Il est donc difficile de comprendre pourquoi un employeur offrirait un contrat d’emploi à un consultant. Normalement, si ce consultant est une personne non liée, l’employeur voudra savoir au départ comment le contrat de consultation lui coûtera. Il voudra également obtenir un rapport. Il aura un besoin réel de ce consultant et il y aura réfléchi longtemps avant de retenir ses services.
+[23] Le tarif horaire semble avoir été déterminé par l’appelante. Il est doublé au bout de deux semaines sans que l’objet du travail soit modifié. Les heures deviennent également plus longues mais la tâche de travail n’est pas augmentée. Il y a eu 90 heures d’observation et 50 heures de recherche à la maison et à la bibliothèque. Les rapports du vendredi sont verbaux. Il n’y a pas eu de rapport écrit à la fin.
+[24] Dans un contrat d’emploi, il y a un contrôle qui se traduit par un lien de subordination. Ce n’est pas d'établir un contrôle que de dire au travailleur de ne pas venir faire ses observations à certaines heures. Il n’y a pas d’instruction quant à la manière d’accomplir les tâches. C’est l’appelante qui décide de la manière dont ses observations doivent être faites.
+[25] L'employeur n'est pas venu témoigner. Il n'a pas voulu répondre au questionnaire de l'agent des appels. Il ne s’agit pas non plus d’un travail qui est relié aux activités normales de l’employeur.
+[26] Je crois qu'il était raisonnable pour le Ministre de conclure que, n'eut été le fait que l'appelante soit la soeur du seul actionnaire du payeur, il n’y aurait pas eu un contrat de travail semblable.
+[27] L'appel est en conséquence rejeté.
+Signé à Ottawa, Canada, ce 27e jour de janvier 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2004CCI92
+No DU DOSSIER DE LA COUR :
+2003-1071(EI)
+INTITULÉ DE LA CAUSE :
+Christiane Cadieux et M.R.N.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 8 janvier 2004
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 27 janvier 2004
+COMPARUTIONS :
+Pour l'appelante :
+l'appelante elle-même
+Représentant de l'intimé :
+Richard Goulet (Stagiaire en droit)
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

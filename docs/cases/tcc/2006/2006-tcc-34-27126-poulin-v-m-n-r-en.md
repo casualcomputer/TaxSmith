@@ -1,0 +1,180 @@
+---
+title: "Poulin v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27126/index.do"
+last_modified: "2006-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 34"
+citation2: ""
+neutral_citation: "2006 TCC 34"
+decision_date: "2006-01-30"
+language: "en"
+item_id: "27126"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 930
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:23:13.517000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3e691ffe532f8e801fad076f7d7fc533c83867e9c01b01a74d104cc294cfa60f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Poulin v. M.N.R.
+
+- Citation: 2006 TCC 34
+- Decision date: 2006-01-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 930, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poulin v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-30
+Neutral citation
+2006 TCC 34
+File numbers
+2004-4362(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004‑4362(EI)
+BETWEEN:
+MARIO POULIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on November 22, 2005, at Québec, Quebec
+Before: The Honourable Deputy Justice S.J. Savoie
+Appearances:
+Counsel for the Appellant:
+Marc Delisle
+Counsel for the Respondent:
+Stéphanie Côté
+JUDGMENT
+The appeal is dismissed, and the decision by the Minister is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Grand‑Barachois, New Brunswick, this 30th day of January 2006.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 24th day of July 2006.
+Monica F. Chamberlain, Reviser
+Citation: 2006TCC34
+Date: 20060130
+Docket: 2004‑4362(EI)
+BETWEEN:
+MARIO POULIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie D.J.
+[1] This appeal was heard at Québec, Quebec, on November 22, 2005.
+[2] It is an appeal concerning the insurability of the Appellant's employment with Jean‑Yves Bernard, the Payer, during the periods from June 21 to July 19, 2003, and from July 27 to August 1, 2003.
+[3] On October 20, 2004, the Minister of National Revenue (the "Minister") informed the Appellant of his decision that the Appellant had not held insurable employment during those periods.
+[4] The Minister determined that the Appellant had received no remuneration from the Payer during the period from June 21 to July 19, 2003, and that he had rendered no service to the Payer during the week from July 27 to August 1, 2003.
+[5] In rendering his decision, the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+(a) the Payer owned a cottage on Lac St‑Joseph;
+(b) the Appellant was a friend of the Payer;
+(c) the Appellant had lost his job and needed 12 weeks to qualify for unemployment benefits;
+(d) the Appellant renovated his cottage with friends, who helped him on a volunteer basis;
+(e) the Appellant worked on the renovation of the Payer's cottage;
+(f) the Appellant asked the Payer for remuneration to assist him financially;
+(g) the Appellant received remuneration of $15 an hour for six weeks between May 9 and June 20, 2003;
+(h) on April 7, 2004, in a signed declaration to HRDC, the Appellant stated that "the employer paid me, in advance on June 14, 2003, $1,000 for the work in the weeks of July 20 and 27, 2003; I worked one week and one remained for me to work;"
+(i) the Appellant received no remuneration from the Payer during the weeks from June 21 to July 19, 2003;
+(j) the Appellant rendered no services to the Payer during the week from July 27 to August 1, 2003.
+[6] The Appellant knew nothing of the Minister's assumption of fact stated in subparagraph (a); he denied those stated in subparagraphs (b) to (d) and (i); he admitted those stated in subparagraphs (e), (g) and (h) and wanted to clarify those stated in subparagraphs (f) and (j).
+[7] The evidence showed that the Appellant and the Payer met in March 2003. It was at that time that the Appellant asked the Payer for work since he had lost his job and needed 12 weeks to qualify for unemployment benefits. At that time, the Payer had decided to renovate his cottage, located at 2 Pointe des Bleuets, Lac St‑Joseph, in order to make it habitable year-round. For that purpose, he had asked friends to give him a hand. The friends came and helped the Payer with the renovation of his cottage and worked on a volunteer basis as friends because, during the summer, they took advantage of access to Lac St‑ Joseph from the Payer's cottage. However, as regards the Appellant, who needed money, the Payer decided to assist him financially. The Payer told the investigators that he had decided to provide financial assistance to the Appellant strictly in order to help him, as he had done on other occasions. The Payer revealed to the investigators that he had paid the Appellant $15 an hour, as the latter had asked him.
+[8] The Payer gave the Appellant a personal cheque for $1,000, but specified that that amount of money was in no way related to the work the Appellant was doing at his cottage. He added that although he had noted "work" on the cheque, that was strictly as a reminder. According to the Payer, the $1,000 represented a loan that he had granted the Appellant.
+[9] It was established that the Appellant told the investigators that the $1,000 amount instead represented an advance that the Payer had made to him for future work, which the Appellant purportedly did during the two-week construction industry holiday. However, at the hearing, the Appellant stated that he had not worked for the Payer during the construction industry holiday. The Payer moreover stated that he would never have allowed anyone to work at his cottage in his absence and that no one had done work at his cottage during the construction industry holiday, that is to say the last two weeks of July 2003. The Appellant told the investigators that he had decided on his own work schedule and that he had worked eight hours a day from Monday to Friday for a 40- to 42‑hour work week. However, the Payer told the investigators that the Appellant had had no work schedule to meet; he showed up when he wanted, either during the week or on the weekend, and he helped during the day or in the evening. The Payer also denied the Appellant's statements that he had never been on the site. The Payer declared, among other things: "As far as I'm concerned, it's totally false that I didn't work; on the contrary, I was the one who told him what to do. I paid Mario Poulin simply to help him out. I had helped him financially on other occasions. A number of people helped me on a volunteer basis, and only Mario was paid because of his financial difficulties. The cheque stubs were prepared at Mario's request, but I didn't make any remittances or issue a record of employment because I considered that I was helping him. He was the only one paid. No payroll was kept, since the Appellant was not considered an employee. Mario Poulin merely lent me a hand, like all his other friends. He raked the earth, repaired the porch, etc. He had no work schedule to meet; Mario Poulin showed up when he wanted."
+[10] It should be noted that the Payer, Jean‑Yves Bernard, proved to be a very recalcitrant witness. First, he did not appear at the hearing on July 26, 2005, and it was with considerable reluctance, considering his unconvincing reasons, that the Court granted the postponement requested by his counsel. Furthermore, he did not appear at the hearing of November 22, 2005, and this Court had to issue an arrest warrant to bring him before it.
+[11] Jean‑Yves Bernard began his testimony by saying that his memory was failing him. He stated in his testimony that the Appellant had come to help him on a volunteer basis, then he changed his mind and said that he had indeed paid the Appellant for his work. In his testimony, he said that he and the Appellant were good friends, but that they had broken off relations as a result of this matter now before the Court, but that he had signed the letter of December 8, 2004, (Exhibit A‑1) at the Appellant's request. In that letter, Mr. Bernard stated that the Appellant had been employed by him from June 21 to July 19 and from July 27 to August 1, 2003.
+[12] As to the wages he had purportedly paid the Appellant, the hourly rate and the pay period, he was unable to determine them. He then said that he had paid the Appellant using his company's cheques.
+[13] However, the investigators' report casts doubt on a number of the Payer's statements, as well as those of the Appellant.
+[14] Furthermore, in their statements, the Payer and the Appellant often contradicted their own statutory declarations and the information provided to the investigators.
+[15] At the hearing, the Appellant identified the Payer as an acquaintance. That statement runs counter to the information gathered by the investigators that the Appellant and the Payer were friends. That is what the Payer, Mario Naud, the Payer's accountant, and Dominique Picard, a friend of the Payer, stated. The Appellant never explained why, if he was merely an "acquaintance" of the Payer, the latter would have chosen to remunerate him to the exclusion of the others. It should also be noted that the Appellant denied that he had been the only person remunerated, which runs counter to the evidence as a whole.
+[16] In his testimony, the Appellant contradicted his statutory declaration that he had worked for the Payer during the construction industry holiday period. He also admitted that, having repaid the Payer half of the $1,000 loan that the latter had granted him with one week's work, he still had not worked the other week to repay him the rest of the loan.
+[17] The Appellant obtained the letter of December 8, 2004, (Exhibit A‑1) from the Payer in circumstances that, on the evidence, suggest that this was the result of a reconciliation between two friends. The evidence as a whole, both oral and documentary, is not consistent with the information that this exhibit reveals. The only other documents filed in support of the Appellant's claim are a photocopy of a cheque dated July 14, 2003, issued to the Appellant by the Payer (Exhibit I‑2); a record of wages dated July 15, 2003 (Exhibit I‑4); and a photocopy of a bank statement (Exhibit I‑5).
+[18] The Appellant's record of wages (Exhibit I‑4) for May and June 2003, that is to June 20, 2003, was not signed by the Payer. Furthermore, that record is irrelevant to the instant case since it purports to confirm the Appellant's wages during a period outside the periods in issue.
+[19] The bank statement (Exhibit I‑5) was filed in support of the Appellant's statement that he had worked and had been remunerated by the Payer during the period of June to July 2003. According to the Appellant, that exhibit shows the deposits to his account that can only be attributable for his work for the Payer since the latter was his only employer at the time.
+[20] The Minister disputes that statement by the Appellant and the content of his exhibit on the following grounds:
+(1) the exhibit is virtually illegible;
+(2) the account holder is not identified;
+(3) there is no account number;
+(4) no banking institution is identified;
+(5) the last entry is dated July 4;
+(6) the year is not identified;
+(7) certain entries have been erased;
+(8) it looks like a number of clippings that have been superimposed on one another. Where are the documents that these entries, cheques, deposit slips and so on come from? None of that was filed.
+[21] It was established that the Appellant and other friends of the Payer went to lend the Payer a hand during renovation work on his cottage. Unlike the other workers, the Appellant received some compensation for his work. The Appellant had requested assistance from the Payer because he had lost his job and still needed 12 weeks to qualify for employment insurance benefits. The Payer decided to help him. He provided him with work and paid him, even though he was considered a volunteer. The Payer also lent him $1,000. According to the evidence, the Appellant undertook to repay the loan through work. He still has not done so. However, the Employment Insurance Act (the "Act") provides that a week of work is insurable only if it is worked and paid.
+[22] Upon his investigation, the Minister concluded that there had been no contract of employment between the Payer and the Appellant and that there had instead been an exchange of services between two friends. The Minister further determined that there instead had been an arrangement between the parties to enable the Appellant to qualify for employment insurance benefits.
+[23] The issue is whether the Appellant held insurable employment for the purposes of the Act. The relevant provision is paragraph 5(1)(a) of the Act, which reads as follows:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise; (My emphasis)
+[24] The section cited above contains the definition of an insurable contract. Insurable employment is held under a contract of employment. However, the Act does not define what constitutes such a contract.
+[25] A contract of employment is a civil law concept found in the Civil Code of Quebec ("Civil Code"). The nature of such a contract should therefore be determined in accordance with the relevant provisions of that Code.
+[26] It is appropriate to cite the relevant provisions of the Civil Code that will be used to determine the existence of a contract of employment in Quebec in order to distinguish it from a contract of enterprise or for services:
+Contract of employment
+2085. A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+2086. A contract of employment is for a fixed term or an indeterminate term.
+Contract of enterprise or for services
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+2099. The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance. (My emphasis)
+[27] The Civil Code provisions cited above establish three essential conditions for a contract of employment: (1) the performance of work by the employee; (2) remuneration for that work by the employer; and (3) a relationship of subordination. What significantly distinguishes a contract for services from a contract of employment is the existence of a relationship of subordination, that is to say the fact that the employer has a power of direction or control over the worker.
+[28] The onus was on the Appellant to prove that the Minister's assumptions were false. He failed to do so.
+[29] The facts adduced by the Appellant do not have the necessary characteristics to meet the definition of paragraph 5(1)(a) of the Act or the notion of a contract of employment as defined in the Civil Code.
+[30] This Court sees no basis for interfering in the decision rendered by the Minister.
+[31] The appeal is dismissed and the decision by the Minister is confirmed.
+Signed at Grand‑Barachois, New Brunswick, this 30th day of January 2006.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 24th day of July 2006.
+Monica F. Chamberlain, Reviser
+CITATION: 2006TCC34
+COURT FILE NO.: 2004‑4362(EI)
+STYLE OF CAUSE: MARIO POULIN AND M.N.R.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: November 22, 2005
+REASONS FOR JUDGMENT BY: The Honourable Deputy Justice S.J. Savoie
+DATE OF JUDGMENT: January 30, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Marc Delisle
+Counsel for the Respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Marc Delisle
+Firm: Marc Delisle
+Vanier, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

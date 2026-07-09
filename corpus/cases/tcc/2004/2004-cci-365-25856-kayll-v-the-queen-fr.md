@@ -1,0 +1,149 @@
+---
+title: "Kayll v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25856/index.do"
+last_modified: "2004-05-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 365"
+citation2: ""
+neutral_citation: "2004 CCI 365"
+decision_date: "2004-05-12"
+language: "fr"
+item_id: "25856"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3883
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:28:13.130000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ee16645143ada0c00b3b0efe1d787f76af47a5d105b423a5c00472939e168c77"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kayll v. The Queen
+
+- Citation: 2004 CCI 365
+- Decision date: 2004-05-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3883, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kayll v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-12
+Référence neutre
+2004 CCI 365
+Numéro de dossier
+2003-3010(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3010(IT)I
+ENTRE :
+LANCE KAYLL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 6 mai 2004 à Prince George (Colombie-Britannique)
+Par : L'honorable juge D. W. Beaubier
+Comparutions :
+Représentant de l'appelant :
+Richard Martin
+Avocate de l'intimée :
+Me Susan Wong
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Saskatoon (Saskatchewan) ce 12e jour de mai 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 20e jour de juillet 2004.
+Nancy Bouchard, traductrice
+Référence : 2004CCI365
+Date : 20040512
+Dossier : 2003-3010(IT)I
+ENTRE :
+LANCE KAYLL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Cet appel, interjeté sous le régime de la procédure informelle, a été entendu à Prince George, en Colombie-Britannique, le 6 mai 2004. Aucune preuve n'a été produite et l'appel a été entendu sur les principes de droit énoncés au paragraphe 6(6) de la Loi de l'impôt sur le revenu.
+[2] Dans ces circonstances, les hypothèses énoncées au paragraphe 10 de la Réponse à l'avis d'appel sont les faits avérés en l'espèce. Les paragraphes 5 à 12 de la Réponse sont ainsi rédigés :
+[traduction]
+5. Le ministre du Revenu national a établi une première cotisation à l'égard de l'appelant pour l'année d'imposition 2001, le 8 avril 2002.
+6. Dans le calcul de son revenu pour l'année d'imposition 2001, l'appelant a déduit la somme de 2 907 $ à titre de dépenses d'emploi comprenant les frais suivants :
+a) Frais de déplacement 2 364,88 $
+b) Frais de repas 115,50 $
+(soit 50 p. 100 de 231 $)
+c) Frais d'hébergement
+427,52 $
+Total 2 907,90 $
+(ci-après, collectivement appelés les « dépenses » ).
+7. En établissant une nouvelle cotisation à l'égard de l'appelant pour l'année d'imposition 2001, le ministre a refusé la déduction des dépenses.
+8. L'appelant a déposé un avis d'opposition daté du 31 octobre 2002, que le ministre a reçu le 8 novembre 2002.
+9. Le 30 mai 2003, le ministre a ratifié la nouvelle cotisation.
+10. En établissant et en ratifiant la nouvelle cotisation, le ministre s'est appuyé sur les hypothèses suivantes :
+a) pendant toute la période pertinente, l'appelant occupait un emploi auprès de la Kemess Mines Ltd. (l' « employeur » );
+b) l'appelant n'a pas été, au cours de l'année, employé pour remplir des fonctions liées à la vente de biens ou à la négociation de contrats pour son employeur;
+c) en vertu du contrat de travail, l'appelant devait payer ses propres frais, le cas échéant;
+d) en vertu du contrat de travail, l'appelant ne recevait aucune allocation de son employeur;
+e) pour être en mesure d'exercer ses fonctions, l'appelant devait parcourir à ses frais une certaine distance entre sa résidence personnelle et un point de départ établi au préalable;
+f) depuis ce point de départ établi au préalable, l'appelant était transporté aux frais de l'employeur jusqu'à un site minier éloigné;
+g) lorsqu'il était au site minier éloigné, l'appelant recevait logement et repas de l'employeur aux frais de ce dernier;
+h) le lieu d'affaires de l'employeur était le site minier éloigné;
+i) en règle générale, l'appelant n'était pas tenu d'exercer ses fonctions en dehors du lieu d'affaires de l'employeur;
+j) en règle générale, l'appelant n'était pas tenu d'exercer ses fonctions à différents endroits.
+B. QUESTION EN LITIGE
+11. Il s'agit de décider si l'appelant a le droit de déduire les dépenses à l'égard de l'année d'imposition 2001.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES
+12. Il se fonde sur les articles 3, 5, 6, 8, 67, 67.I, 248 et, en particulier, sur les paragraphes 6(6), 8(2), 8(4), 8(10) ainsi que sur les alinéas 8(1)h) et 8(1)h.1) de la Loi de l'impôt sur le revenu.
+[3] Le paragraphe 6(6) de la Loi de l'impôt sur le revenu est ainsi formulé :
+(6) Malgré le paragraphe (1), un contribuable n'inclut, dans le calcul de son revenu tiré, pour une année d'imposition, d'une charge ou d'un emploi, aucun montant qu'il a reçu, ou dont il a joui, au titre, dans l'occupation ou en vertu de sa charge ou de son emploi et qui représente la valeur des frais - ou une allocation (n'excédant pas un montant raisonnable) se rapportant aux frais - qu'il a supportés pour :
+a) sa pension et son logement, pendant une période donnée :
+(i) soit sur un chantier particulier qui est un endroit où le travail accompli par lui était un travail de nature temporaire, alors qu'il tenait ailleurs et comme lieu principal de résidence, un établissement domestique autonome :
+(A) d'une part, qui est resté à sa disposition pendant toute la période et qu'il n'a pas loué à une autre personne,
+(B) d'autre part, où on ne pouvait raisonnablement s'attendre à ce qu'il retourne quotidiennement étant donné la distance entre l'établissement et le chantier,
+(ii) soit à un endroit où on ne pouvait raisonnablement s'attendre à ce qu'il établisse et tienne un établissement domestique autonome, étant donné l'éloignement de cet endroit de toute agglomération,
+si la période au cours de laquelle son travail l'a obligé à s'absenter de son lieu principal de résidence ou à être sur ce chantier ou à cet endroit était d'au moins 36 heures;
+(b) le transport, au titre d'une période visée à l'alinéa a) pendant laquelle il a reçu de son employeur la pension et le logement ou une allocation raisonnable au titre de la pension et du logement, entre :
+(i) soit son lieu principal de résidence et le chantier particulier visés au sous-alinéa a)(i),
+(ii) soit l'endroit mentionné au sous-alinéa a)(ii) et un endroit au Canada ou un endroit dans un pays où le contribuable est employé.
+[4] Selon la preuve, l'appelant parcourt une distance en voiture entre son lieu principal de résidence et un point de départ établi (sous-paragraphe 13e). De là, l'employeur assure son transport jusqu'à un site minier éloigné (sous-paragraphe 13f). Ce site minier éloigné est le lieu d'affaires de l'employeur (sous-paragraphe 13h). C'est là que l'employé exerçait ses fonctions (sous-paragraphe 13i).
+[5] Compte tenu de ces faits, le point de départ n'était pas un « endroit éloigné » parce que l'appelant n'y était pas employé, contrairement à ce que stipule le sous-alinéa 6(6)b)(ii). Plutôt, son employeur assurait son transport entre le point de départ et le site minier où il exerçait ses fonctions.
+[6] Pour ces motifs, l'appelant n'est pas visé par le libellé non ambigu du paragraphe 6(6).
+[7] En conséquence, l'appel est rejeté.
+Signé à Saskatoon (Saskatchewan), ce 12e jour de mai 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 20e jour de juillet 2004.
+Nancy Bouchard, traductrice

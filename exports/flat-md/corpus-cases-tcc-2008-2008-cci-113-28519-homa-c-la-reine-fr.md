@@ -1,0 +1,343 @@
+---
+title: "Homa c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28519/index.do"
+last_modified: "2008-02-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 113"
+citation2: ""
+neutral_citation: "2008 CCI 113"
+decision_date: "2008-02-27"
+language: "fr"
+item_id: "28519"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1248
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:06:19.819000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2689a543e9f81527c0e400c33421528323c5f0810631f7b4ee8ff924d0da785a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Homa c. La Reine
+
+- Citation: 2008 CCI 113
+- Decision date: 2008-02-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1248, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Homa c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-27
+Référence neutre
+2008 CCI 113
+Numéro de dossier
+2006-1065(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006‑1065(IT)G
+ENTRE :
+DAVID HOMA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 30 mai 2007, à Ottawa (Ontario),
+et observations écrites présentées subséquemment.
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Frédérick Morand
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l’appelant afin d’obtenir une ordonnance de la Cour enjoignant à l’intimée de répondre, par voie d’affidavit, à une question posée dans le cadre de l’interrogatoire préalable par écrit;
+La requête est accueillie, mais uniquement dans la mesure proposée au paragraphe 28 des observations écrites de l’intimée, lequel est ainsi rédigé :
+[TRADUCTION]
+Par conséquent, l’intimée s’engage à répondre de son mieux aux questions de l’appelant, dans la mesure où elles sont pertinentes, à savoir exposer la position de l’ARC sur le sens du terme « médecin » en ce qui concerne les professions suivantes :
+a) naturopathes exerçant dans la province d’Ontario (voir les sous‑alinéas 17 a) ii) et v) de la réponse à l’avis d’appel);
+b) physiothérapeutes exerçant dans la province d’Ontario (voir le sous‑alinéa 17 a) vi) de la réponse à l’avis d’appel);
+c) ostéopathes exerçant dans la province d’Ontario (voir le sous‑alinéa 17 a) iii) de la réponse à l’avis d’appel);
+d) naturopathes exerçant dans la province de Québec (voir le sous‑alinéa 17 a) ii) de la réponse à l’avis d’appel).
+Les dépens suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 27e jour de février 2008.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 10e jour d’avril 2008.
+Aleksandra Koziorowska, LL.B.
+Référence : 2008CCI113
+Date : 20080227
+Dossier : 2006‑1065(IT)G
+ENTRE :
+DAVID HOMA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Lamarre
+[1] L’appelant a présenté une requête par laquelle il demande à la Cour d’enjoindre à l’intimée de répondre, par voie d’un affidavit conforme à la formule 114 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), à une question posée dans le cadre de l’interrogatoire préalable par écrit.
+[2] La question consiste à savoir qui, pour l’application du crédit d’impôt pour frais médicaux prévu à l’article 118.2 de la Loi de l’impôt sur le revenu, modifiée (la « LIR »), est considéré par l’Agence du revenu du Canada (l’« ARC ») comme un médecin au sens de la définition donnée au paragraphe 118.4(2) de la LIR. En particulier, l’appelant renvoie aux « médecins » énumérés au paragraphe 3 du Bulletin d’interprétation en matière d’impôt sur le revenu IT‑519R2 (lequel vise notamment les frais médicaux) sous la rubrique générale intitulée « Références aux professionnels de la santé ». Le paragraphe 3 de ce bulletin est ainsi rédigé :
+Références aux professionnels de la santé
+[…]
+3. Aux fins des crédits d’impôt pour frais médicaux et pour personnes handicapées en vertu des articles 118.2 et 118.3, le paragraphe 118.4(2) prévoit que tout médecin en titre, médecin, dentiste, pharmacien, infirmier ou optométriste doit être autorisé à exercer sa profession par une des législations suivantes :
+a) la législation applicable là où il rend ses services, s’il fournit des services à un particulier;
+b) la législation applicable là où le particulier réside ou la législation provinciale applicable, s’il doit délivrer une attestation concernant un particulier;
+c) la législation applicable là où le particulier réside, la législation provinciale applicable ou la législation applicable là où l’ordonnance est remplie, s’il doit délivrer une ordonnance à un particulier.
+Les médecins autorisés à exercer leur profession conformément aux législations mentionnées ci‑dessus peuvent comprendre (selon la province ou la juridiction applicable, selon le cas) les suivants :
+(i) les ostéopathes,
+(ii) les chiropraticiens,
+(iii) les naturopathes,
+(iv) les thérapeutes,
+(v) les physiothérapeutes,
+(vi) les pédicures (ou les podiatres),
+(vii) les praticiens de la Science chrétienne,
+(viii) les psychanalystes qui sont membres de l’Institut canadien de psychanalyse ou de l’Association des psychanalystes jungiens du Québec,
+(ix) les psychologues,
+(x) les orthophonistes et les audiologistes qualifiés, tels que les personnes qui sont certifiées par l’Association canadienne des orthophonistes et des audiologistes (ACOA) ou une société provinciale affiliée à cet organisme,
+(xi) les ergothérapeutes qui sont membres de l’Institut canadien des ergothérapeutes,
+(xii) les acupuncteurs,
+(xiii) les diététiciens,
+(xiv) les hygiénistes dentaires.
+Par ailleurs, un « infirmier » comprend un infirmier ou une infirmière auxiliaire dont la profession à plein temps consiste à prodiguer des soins, et un infirmier ou une infirmière de la Science chrétienne qui est autorisé à exercer sa profession en vertu des législations pertinentes dont il est question au paragraphe 118.4(2).
+[3] Plus précisément, l’appelant a posé les questions suivantes :
+[TRADUCTION]
+1. En ce qui concerne un ostéopathe exerçant en Ontario :
+a) l’ARC considère‑t‑elle qu’il s’agit d’un médecin autorisé à exercer sa profession?
+b) l’ARC accepte‑t‑elle les frais médicaux en cause?
+c) si la réponse à la question posée au point a) est négative et la réponse à la question posée au point b) est affirmative, pourquoi sont‑ils acceptés?
+2. Même question qu’au paragraphe (1), mais pour chacune des provinces et chacun des territoires, à savoir :
+− Alberta
+− Colombie‑Britannique
+− Manitoba
+− Nouveau‑Brunswick
+− Nouvelle‑Écosse
+− Ontario
+− Île‑du‑Prince‑Édouard
+− Québec
+− Saskatchewan
+− Terre‑Neuve-et-Labrador
+− T.N.‑O.
+− Nunavut
+− Yukon
+3. Même question qu’aux paragraphes (1) et (2), mais pour tous les médecins énumérés dans le bulletin IT‑519R2 :
+− Ostéopathes;
+− Chiropraticiens;
+− Naturopathes;
+− Thérapeutes;
+− Physiothérapeutes;
+− Pédicures;
+− Podiatres;
+− Praticiens de la Science chrétienne;
+− Psychanalystes qui sont membres de l’Institut canadien de psychanalyse ou de l’Association des psychanalystes jungiens du Québec;
+− Psychologues;
+− Orthophonistes et audiologistes qualifiés, tels que les personnes qui sont certifiées par l’Association canadienne des orthophonistes et des audiologistes (ACOA) ou une société provinciale affiliée à cet organisme;
+− Ergothérapeutes qui sont membres de l’Institut canadien des ergothérapeutes;
+− Acupuncteurs;
+− Diététiciens;
+− Hygiénistes dentaires;
+− Infirmiers auxiliaires.
+[4] Au paragraphe 37 de son avis d’appel modifié, l’appelant fait état des incohérences qui existent entre le bulletin IT‑519R2 et la LIR :
+[TRADUCTION]
+37. L’appelant affirme que le bulletin IT‑519R2, qui est une interprétation administrative des crédits d’impôt pour frais médicaux et pour personnes handicapées publiée par le ministre, comporte des erreurs et des incohérences qui donnent lieu à des absurdités :
+a) Exemple d’erreur : le bulletin IT‑519R2 prévoit qu’un « infirmier » comprend un infirmier ou une infirmière auxiliaire tandis que, selon la Loi, il peut uniquement s’agir d’un infirmier autorisé. C’est ce qu’a confirmé l’honorable James Ilsley, ministre des Finances, pendant les débats parlementaires du 21 juillet 1942, lorsqu’il a déclaré : [traduction] « Nous ne pouvons inclure les infirmiers auxiliaires puisque n’importe qui serait admissible. »
+b) Exemple d’incohérence : bien qu’il confère le titre de médecin à certains professionnels de la santé qui ne sont pas des médecins en titre, le bulletin IT‑519R2 omet de faire le parallèle entre ce qu’il permet et ce que la Loi permet. À titre d’exemple, la Loi permet la déduction à la fois des frais payés à un médecin et de ceux payés pour des médicaments délivrés sur ordonnance tandis que le bulletin IT‑519R2, même s’il permet la déduction des frais payés au médecin, ne donne pas droit à ceux payés pour des médicaments délivrés sur ordonnance.
+[5] L’appelant estime que la question posée dans la présente requête est importante en raison de l’allégation susmentionnée voulant que le bulletin IT‑519R2 comporte des erreurs et des incohérences donnant lieu à des absurdités, et il s’attend à ce que la réponse à cette question reflète l’exactitude de son assertion.
+[6] L’intimée refuse de répondre à la question visant chacune des 17 professions pour l’ensemble des treize provinces et territoires. Elle avance la thèse suivante dans ses observations écrites :
+[traduction]
+16. À l’appui de son refus de répondre aux questions visant chacune des dix‑huit [sic] professions pour l’ensemble des treize provinces et territoires, l’intimée renvoie au passage suivant des motifs prononcés par M. le juge en chef Bowman dans la décision Baxter v. Her Majesty the Queen, 2004 D.T.C. 3947 [c’est moi qui souligne] :
+[14] J’examinerai maintenant les questions précises qui se posent en l’espèce. Les chiffres correspondent à ceux qui figurent sur la liste. À vrai dire, je ne crois pas, personnellement que si l’on ne répondait pas aux questions, cela influerait sur l’issue de la cause. De même, s’il était répondu aux questions, la réponse n’influerait pas sur le résultat. Néanmoins, je tenterai de tracer une ligne de démarcation entre les questions qui ne sont clairement pas pertinentes et celles que l’avocat pourrait demander au juge du procès de considérer comme susceptibles d’être pertinentes dans le contexte de la preuve dans son ensemble. J’ai demandé à l’avocat de l’appelant pourquoi, si les questions sont aussi peu pertinentes qu’il l’affirme, il ne laisse tout simplement pas le témoin y répondre. L’objection donne à la question une importance apparente alors qu’elle n’est peut‑être pas réellement importante.
+17. Comme il est mentionné plus haut par Mme la juge Campbell dans la décision General Motors du Canada Limitée [c. Sa Majesté la Reine, 2006 CCI 184, [2006] G.S.T.C. 40], « l’interrogatoire préalable ne devrait jamais se transformer en un interrogatoire à l’aveuglette général ».
+18. L’intimée soutient donc que l’assertion de l’appelant selon laquelle les questions sont [TRADUCTION] « importantes pour lui en raison des allégations qu’il formule dans l’annexe jointe à l’avis d’appel, au paragraphe 37, voulant que le bulletin IT‑519R2 comporte des erreurs et des incohérences donnant lieu à des absurdités, et il s’attend à ce que la réponse à la question reflète l’exactitude de son assertion », ne peut suffire en soi à justifier sa présente demande.
+19. À titre d’exemple, l’intimée reconnaît l’existence d’incohérences entre chacune des provinces et chacun des territoires en ce qui touche le point de savoir quel professionnel de la santé peut être reconnu comme « médecin ».
+20. Cela étant dit, l’intimée avance que cette situation découle du fait que la décision visant chacune des professions relève en réalité du corps législatif respectif de chaque province et territoire.
+21. Lorsqu’elle décide si un contribuable peut déduire un crédit d’impôt pour frais médicaux en application de l’article 118.2 de la Loi de l’impôt sur le revenu, l’ARC doit donc se fonder sur les lois du ressort où le service est rendu.
+22. Cette affirmation est confirmée à l’alinéa 118.4(2)a) de la Loi de l’impôt sur le revenu, selon lequel [c’est moi qui souligne] :
+(2) Tout audiologiste, dentiste, ergothérapeute, infirmier, infirmière, médecin, médecin en titre, optométriste, orthophoniste, pharmacien ou psychologue visé aux articles 63, 118.2, 118.3 et 118.6 doit être autorisé à exercer sa profession :
+a) par la législation applicable là où il rend ses services, s’il est question de services;
+23. En conséquence, l’intimée fait valoir que les opinions générales exprimées par l’ARC au paragraphe 3 du Bulletin d’interprétation IT‑519R2 (Consolidé), Crédit d’impôt pour frais médicaux et pour personnes handicapées et déduction pour frais de préposé aux soins ne sont que le reflet du cadre législatif établi à l’alinéa 118.4(2)a) de la Loi de l’impôt sur le revenu.
+24. Il importe de signaler que le bulletin IT‑519R2 (Consolidé) n’est pas un texte législatif et qu’il ne définit pas le terme « médecin ». Il renvoie plutôt à la source appropriée pour cette décision.
+[7] En guise de conclusion à ses observations écrites, l’intimée affirme ce qui suit :
+[TRADUCTION]
+CONCLUSION
+25. À la lumière de la jurisprudence susmentionnée, l’intimée s’engage à communiquer à l’appelant la position adoptée par l’ARC quant à la portée du terme « médecin » uniquement en ce qui concerne les naturopathes, les physiothérapeutes et les ostéopathes exerçant dans la province d’Ontario, ainsi que les naturopathes exerçant dans la province de Québec.
+26. Bien que, selon l’intimée, cette information puisse être obtenue par la consultation des textes législatifs et réglementaires applicables des provinces d’Ontario et de Québec, elle s’engage néanmoins à la communiquer sur le fondement suivant :
+Il est dans l’intérêt de la justice que chaque partie soit le mieux informée au sujet des positions des autres parties afin de ne pas être défavorisée en étant surprise à l’instruction2.
+27. L’intimée fait valoir qu’il est inutile de répondre aux questions posées par l’appelant en ce qui a trait aux autres professionnels de la santé qui rendent des services dans les autres provinces ou territoires parce qu’elles sont dénuées de pertinence au regard de la portée de l’appel de l’appelant.
+28. Par conséquent, l’intimée s’engage à répondre de son mieux aux questions de l’appelant, dans la mesure où elles sont pertinentes, à savoir exposer la position de l’ARC sur le sens du terme « médecin » en ce qui concerne les professions suivantes :
+a) naturopathes exerçant dans la province d’Ontario (voir les sous‑alinéas 17 a) ii) et v) de la réponse à l’avis d’appel);
+b) physiothérapeutes exerçant dans la province d’Ontario (voir le sous‑alinéa 17 a) vi) de la réponse à l’avis d’appel);
+c) ostéopathes exerçant dans la province d’Ontario (voir le sous‑alinéa 17 a) iii) de la réponse à l’avis d’appel);
+d) naturopathes exerçant dans la province de Québec (voir le sous‑alinéa 17 a) ii) de la réponse à l’avis d’appel).
+2 Ce principe a été confirmé par Mme la juge Woods dans la décision [Mil (Investments) S.A. c. Sa Majesté la Reine, 2006 CCI 208, au paragraphe 12.]
+[8] L’appelant a fait l’objet d’une nouvelle cotisation relativement à ses années d’imposition 2003, 2004 et 2005, et ses déductions au titre du crédit d’impôt pour frais médicaux ont été refusées. Les frais médicaux qui n’ont pas été admis pour l’application du crédit d’impôt sont explicités au paragraphe 17 de la réponse au deuxième avis d’appel modifié (la « réponse ») :
+[traduction]
+a) Les frais non admis consistent en les sommes payées par l’appelant :
+i) pour des articles destinés à son usage et à celui de son épouse, Anne Tompkins (« Mme Tompkins »), comme de la nourriture, des vitamines, des herbes, des minéraux, des produits facilitant la digestion, des suppléments dérivés de plantes, une bouillotte et des orthèses (collectivement, les « produits »),
+ii) pour des services rendus à l’appelant et à Mme Tompkins soit dans la province d’Ontario, soit dans la province de Québec, par Judith Spence, naturopathe à la NAET Clinic of Ottawa,
+iii) pour des services rendus à l’appelant et à Mme Tompkins dans la province d’Ontario par Sylvain Dagenais, ostéopathe,
+iv) pour des services rendus à l’appelant et à Mme Tompkins dans la province de Québec par un naturopathe membre de l’Ordre des Naturothérapeutes du Québec,
+v) pour des services rendus à l’appelant et à Mme Tompkins dans la province d’Ontario par Ramila Padiachy, naturopathe chez Ramila’s Natural Alternatives et/ou Ramila’s Healing Arts Clinic,
+vi) pour des services rendus à l’appelant dans la province d’Ontario par un physiothérapeute de la Ottawa & District Physiotherapy Clinic (les points (ii) à (vi) sont collectivement désignés comme les « services »),
+vii) à la Ville d’Ottawa pour des cours de conditionnement physique suivis par l’appelant,
+viii) pour des services dentaires rendus à l’appelant et à Mme Tompkins et pour lesquels l’appelant a été remboursé par son assureur, Sun Life du Canada, Compagnie d’Assurance‑Vie.
+[9] Lorsqu’il a refusé le crédit d’impôt pour frais médicaux, le ministre du Revenu national (le « ministre ») s’est appuyé sur les hypothèses suivantes, lesquelles sont énoncées aux alinéas 17b) et suivants de la réponse :
+[TRADUCTION]
+Produits
+b) Les produits n’ont pas été délivrés sur ordonnance d’un médecin aux termes du paragraphe 118.4(2) de la Loi de l’impôt sur le revenu (la « LIR »);
+c) Les produits n’étaient pas enregistrés par un pharmacien;
+Services
+d) La province d’Ontario ne délivre pas de permis d’exercice aux ostéopathes ni ne les autorise à exercer leur profession à titre de médecins;
+e) Judith Spence n’est pas autorisée à exercer la profession de naturopathe dans la province d’Ontario;
+f) Ramila Padiachy n’est pas autorisée à exercer la profession de médecin dans la province d’Ontario;
+g) La province d’Ontario ne délivre pas de permis d’exercice aux physiothérapeutes ni ne les autorise à exercer leur profession à titre de médecins;
+h) La province de Québec ne délivre pas de permis d’exercice aux naturopathes ni ne les autorise à exercer leur profession à titre de médecins;
+Cours de conditionnement physique
+i) Les sommes payées par l’appelant pour suivre des cours de conditionnement physique ne constituent pas des frais médicaux au sens du paragraphe 118.2(2) de la LIR;
+Sommes remboursées par l’assureur
+j) Au cours de 2003, de 2004 et de 2005, l’appelant bénéficiait d’une assurance des soins dentaires sous le numéro de police 25555 de la Sun Life du Canada, Compagnie d’Assurance‑Vie;
+k) En 2003, en 2004 et en 2005, l’appelant a payé à un dentiste des sommes que la Sun Life du Canada, Compagnie d’Assurance‑Vie, lui a partiellement remboursées.
+[10] Les dispositions législatives invoquées par l’intimée sont les alinéas 118.2(2)a) et n) ainsi que le paragraphe 118.4(2) de la LIR, dont voici le texte :
+118.2(2) Frais médicaux – Pour l'application du paragraphe (1), les frais médicaux d'un particulier sont les frais payés :
+118.2(2) Medical expenses – For the purposes of subsection (1), a medical expense of an individual is an amount paid
+a) à un médecin, à un dentiste, à une infirmière ou un infirmier, à un hôpital public ou à un hôpital privé agréé, pour les services médicaux ou dentaires fournis au particulier, à son époux ou conjoint de fait ou à une personne à la charge du particulier (au sens du paragraphe 118(6)) au cours de l'année d'imposition où les frais ont été engagés;
+(a) to a medical practitioner, dentist or nurse or a public or licensed private hospital in respect of medical or dental services provided to a person (in this subsection referred to as the "patient") who is the individual, the individual's spouse or common‑law partner or a dependant of the individual (within the meaning assigned by subsection 118(6)) in the taxation year in which the expense was incurred;
+[…]
+. . .
+n) pour les médicaments, les produits pharmaceutiques et les autres préparations ou substances − sauf s'ils sont déjà visés à l'alinéa k) − qui sont, d'une part, fabriqués, vendus ou offerts pour servir au diagnostic, au traitement ou à la prévention d'une maladie, d'une affection, d'un état physique anormal ou de leurs symptômes ou en vue de rétablir, de corriger ou de modifier une fonction organique et, d'autre part, achetés afin d'être utilisés par le particulier, par son époux ou conjoint de fait ou par une personne à charge visée à l'alinéa a), sur ordonnance d'un médecin ou d'un dentiste, et enregistrés par un pharmacien;
+(n) for drugs, medicaments or other preparations or substances (other than those described in paragraph (k)) manufactured, sold or represented for use in the diagnosis, treatment or prevention of a disease, disorder, abnormal physical state, or the symptoms thereof or in restoring, correcting or modifying an organic function, purchased for use by the patient as prescribed by a medical practitioner or dentist and as recorded by a pharmacist;
+[…]
+. . .
+118.4(2) Professionnels de la santé titulaires d'un permis d'exercice – Tout audiologiste, dentiste, ergothérapeute, infirmier, infirmière, médecin, médecin en titre, optométriste, orthophoniste, pharmacien ou psychologue visé aux articles 63, 118.2, 118.3 et 118.6 doit être autorisé à exercer sa profession :
+118.4(2) Reference to medical practitioners, etc. – For the purposes of sections 63, 118.2, 118.3 and 118.6, a reference to an audiologist, dentist, medical doctor, medical practitioner, nurse, occupational therapist, optometrist, pharmacist, psychologist or speech‑language pathologist is a reference to a person authorized to practise as such,
+a) par la législation applicable là où il rend ses services, s'il est question de services;
+(a) where the reference is used in respect of a service rendered to a taxpayer, pursuant to the laws of the jurisdiction in which the service is rendered;
+b) s'il doit délivrer une attestation concernant un particulier, soit par la législation applicable là où le particulier réside, soit par la législation provinciale applicable;
+(b) where the reference is used in respect of a certificate issued by the person in respect of a taxpayer, pursuant to the laws of the jurisdiction in which the taxpayer resides or of a province; and
+c) s'il doit délivrer une ordonnance pour des biens à fournir à un particulier ou destinés à être utilisés par un particulier, soit par la législation applicable là où le particulier réside, soit par la législation provinciale applicable, soit enfin par la législation applicable là où les biens sont fournis.
+(c) where the reference is used in respect of a prescription issued by the person for property to be provided to or for the use of a taxpayer, pursuant to the laws of the jurisdiction in which the taxpayer resides, of a province or of the jurisdiction in which the property is provided.
+[11] Dans le cadre de ses appels, l’appelant soulève le point de savoir si les alinéas 118.2(2)a) et n) de la LIR, parce qu’ils exigent que les sommes payées pour les services médicaux soient versées à un médecin, ou parce qu’ils exigent que les médicaments, les produits pharmaceutiques et les autres préparations ou substances soient délivrés sur ordonnance d’un médecin et enregistrés par un pharmacien, portent atteinte au droit que lui garantit l’article 15 de la Charte canadienne des droits et libertés (la « Charte ») à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination fondée sur les déficiences physiques.
+[12] L’appelant invoque en outre l’article 7 de la Charte. Il soutient que les conditions énoncées aux alinéas 118.2(2)a) et n) de la LIR portent également atteinte à son droit à la vie, à la liberté et à la sécurité de sa personne. S’il a effectivement été porté atteinte aux droits de l’appelant garantis par la Charte, la Cour doit, en définitive, se demander si l’atteinte restreint ces droits dans des limites qui sont raisonnables et dont la justification peut se démontrer dans le cadre d’une société libre et démocratique, conformément à l’article premier de la Charte.
+[13] En réponse aux observations écrites formulées par l’intimée dans le cadre de la présente requête et reproduites plus haut, l’appelant allègue ce qui suit :
+[TRADUCTION]
+2. Le bulletin d’interprétation IT‑519R2 porte sur les dispositions de la Loi de l’impôt sur le revenu (la « Loi ») relatives aux frais médicaux, au sens où l’entend l’Agence du revenu du Canada (l’« ARC »). Même s’il précise qu’il n’a pas force de loi, le bulletin expose néanmoins la façon dont l’ARC applique la Loi.
+3. La réponse à la question posée dans le cadre de l’interrogatoire préalable est importante pour l’appelant parce qu’il souhaite l’invoquer, à l’audition de son appel, comme élément de preuve à l’appui des deux arguments énoncés aux paragraphes 4 et 5, à la page suivante. Il sait déjà en partie quelle sera la réponse à cette question parce qu’il a en sa possession un document interne de l’ARC, lequel est reproduit à la page 4 des présentes. L’appelant ne pourra toutefois pas mettre ce document en preuve à l’audition de son appel pour les raisons énumérées au paragraphe 6.
+4. Le premier argument que l’appelant souhaite présenter est le suivant : le bulletin IT‑519R2 est une source d’erreurs et d’incohérences qui donne lieu à des absurdités. L’intimée sait que l’appelant veut avancer cet argument puisqu’il en donne un aperçu au paragraphe 37 de son avis d’appel.
+5. L’autre argument relatif au bulletin IT‑519R2 touche au fait que ce document porte atteinte aux droits de l’appelant garantis par l’article 15 de la Charte en ce qu’il permet à certains contribuables de déduire à titre de crédit d’impôt remboursable les frais liés aux traitements et aux médicaments qui leur sont bénéfiques tandis que l’appelant – contribuable ne pouvant déduire ces mêmes frais de traitements et de médicaments, mais pouvant déduire d’autres frais de traitements et de médicaments essentiels – se voit privé de cet avantage en raison de sa déficience physique.
+6. Voici les raisons pour lesquelles l’appelant ne pourra, au moment de l’audition de son appel, utiliser à titre d’élément de preuve dont il a besoin le document interne de l’ARC, à la page 4, qu’il a déjà en sa possession :
+- rien ne permet de savoir qu’il s’agit d’un document de l’ARC;
+- le document n’est pas daté;
+- les thérapeutes ne figurent pas sur la liste;
+- les physiothérapeutes devraient figurer séparément sur la liste et non faire partie des thérapeutes physiologiques;
+- les praticiens de la Science chrétienne ne figurent pas sur la liste;
+- les psychanalystes ne figurent pas sur la liste;
+- les orthophonistes ne figurent pas sur la liste;
+- les thérapeutes devraient figurer séparément sur la liste.
+6. [sic] L’appelant veut s’assurer qu’il n’y a aucun malentendu au sujet de l’un ou l’autre des trois volets de la question posée dans le cadre de l’interrogatoire préalable.
+Partie a) demande si l’ARC estime que les médecins sont autorisés à exercer leur profession, ce qui est différent de la question visant à savoir si les médecins sont autorisés à exercer leur profession. L’intimée paraît ne pas avoir tenu compte de cette distinction au dernier paragraphe de la page 1 de la lettre qu’elle a adressée à l’appelant le 3 avril 2007.
+Partie b) vise à découvrir des médecins, quels qu’ils soient, qui ne sont pas autorisés à exercer leur profession et pour lesquels les frais médicaux sont acceptés et, le cas échéant,
+Partie c) demande à l’ARC de donner la raison pour laquelle ces frais médicaux sont acceptés.
+7. L’appelant demande à l’intimée de répondre à la question posée dans le cadre de l’interrogatoire préalable d’une manière qui soit exacte au regard des faits et non « de son mieux » comme il est mentionné au paragraphe 28, à la page 9, des observations écrites de l’intimée. L’appelant souhaite s’assurer qu’au moment de l’audition de son appel, la Cour pourra sans difficulté reconnaître à titre de faits d’intérêt privé les faits révélés par la réponse de l’intimée.
+8. À la page 9 de ses observations écrites du 15 juin 2007, l’intimée fait valoir qu’elle n’est pas tenue de répondre à la question posée dans le cadre de l’interrogatoire préalable dans la mesure où cette question vise une combinaison médecin – province (également désignée comme une intersection) où aucun service n’a été rendu à l’appelant, puisque la réponse serait « dénuée de pertinence au regard de la portée de l’appel de l’appelant ».
+9. L’appelant fait valoir que toutes les intersections sont pertinentes parce qu’elles fournissent les éléments de preuve factuels dont l’appelant a besoin pour étayer les arguments qu’il souhaite présenter à la Cour au moment de l’audition de son appel.
+[14] Si j’ai bien compris, l’appelant souhaite donc poser sa question pour tenter d’établir que le bulletin d’interprétation IT‑519R2 porte atteinte à ses droits garantis par la Charte. Il affirme sans équivoque qu’il cherche à savoir si l’ARC estime que les médecins sont autorisés à exercer leur profession, ce qui n’est pas la même chose, selon lui, que de demander si les médecins sont autorisés à exercer leur profession.
+[15] En d’autres termes, par sa question posée dans le cadre de l’interrogatoire préalable par écrit, l’appelant tente d’établir en quoi consiste la politique administrative de l’ARC plutôt que les exigences de la LIR.
+[16] À mon avis, on peut faire un parallèle entre la situation en l’espèce et celle dont la Cour d’appel fédérale était saisie dans l’arrêt R. c. Sinclair, 2003 CAF 348, lequel intéresse l’application de l’article 87 de la LIR. Le tribunal tient les propos suivants aux paragraphes 7 et 8 :
+[7] À notre avis, il n’est pas loisible à la Cour de l’impôt d’annuler une nouvelle cotisation fiscale au motif que le contribuable aurait dû avoir droit au même traitement de faveur que d’autres qui sont dans la même situation. La question dont la Cour de l’impôt est saisie est de savoir si Mme Sinclair a droit à une exonération fiscale en vertu de l’article 87. La Cour de l’impôt doit rendre sa décision en fonction de l’interprétation de cet article et de son application à la situation de l’appelante. Le fait que d’autres personnes aient bénéficié d’une exemption n’a aucune incidence sur l’appel de Mme Sinclair. Voir Hokhold c. Canada, [1993] 2 C.T.C. 99 (C.F. 1re inst.); Ludmer c. Canada, [1995] 2 C.F. 3 (C.A.); Hawkes c. La Reine, [1997] 2 C.T.C. 5060 (C.A.F.). À part l’allégation voulant que des contribuables dans une situation semblable à la sienne aient eu droit à un traitement plus favorable, Mme Sinclair ne donne pas à entendre que l’article 87 est inconstitutionnel dans la façon dont il a été interprété ou appliqué à sa cause.
+[8] Si Mme Sinclair souhaite contester la validité des lignes directrices publiées par le ministre pour ce qui est de l’interprétation et de l’application de l’article 87, au motif qu’elles sont contraires à l’article 15 en raison de leur caractère trop limitatif, elle peut demander une déclaration d’invalidité devant la Cour fédérale.
+[17] À la lumière de ce raisonnement, on doit conclure que la politique de l’ARC en ce qui a trait à l’application de la LIR n’a pas de pertinence devant la Cour. La Cour a compétence pour décider si une cotisation est valide sous le régime de la LIR. Les questions posées à l’étape de l’interrogatoire préalable qui débordent cette compétence sont donc dénuées de pertinence au regard de la question en litige visée par l’appel. Dans la décision General Motors du Canada Limitée c. La Reine, 2006 CCI 184, [2006] G.S.T.C. 40, Mme la juge Campbell a déclaré ce qui suit au paragraphe 8 :
+[8] La portée de ces objectifs a fait en sorte que les tribunaux ont tendance à [traduction] « ne pas circonscrire les avenues de l’interrogatoire préalable, mais plutôt à les élargir » (Henderson v. Mercantile Trust Co. (1922), 52 O.L.R. 198, dans la décision Violette v. Wandlyn Inns Ltd.). Cependant, il ne fait aucun doute aussi que l’interrogatoire préalable ne devrait jamais se transformer en un interrogatoire à l’aveuglette général. Par conséquent, il est primordial d’examiner la question de la pertinence au regard de la question en litige soulevée dans les actes de procédure pour décider quelles questions l’avocat peut poser pendant l’interrogatoire préalable. Le juge en chef adjoint Christie a fait un examen approfondi de cette question de la pertinence dans la décision Shell Canada v. The Queen, 97 DTC 247. Dans la décision Baxter v. The Queen, 2004 DTC 3497, au paragraphe 13, le juge en chef Bowman énonce les principes qui doivent s’appliquer en matière de pertinence dans le cadre de l’interrogatoire préalable :
+a) la question de la pertinence, dans le cadre de l’interrogatoire préalable, doit être interprétée d’une façon large et libérale et il faut accorder une grande latitude;
+b) le juge des requêtes ne doit pas remettre en question le pouvoir discrétionnaire en examinant minutieusement chaque question ou en demandant à l’avocat de la partie interrogée de justifier chaque question ou d’expliquer sa pertinence;
+c) le juge des requêtes ne devrait pas chercher à imposer son opinion au sujet de la pertinence au juge qui entend l’affaire en excluant des questions qu’il estime non pertinentes, mais que ce dernier, dans le contexte de la preuve dans son ensemble, pourrait considérer comme pertinentes;
+d) les questions manifestement non pertinentes ou abusives ou les questions destinées à embarrasser ou à harceler le témoin ou à retarder le procès ne doivent pas être autorisées.
+[18] Par son avis d’appel modifié, l’appelant tente d’établir que les conditions énoncées aux alinéas 118.2(2)a) et n) de la LIR portent atteinte à ses droits garantis par la Charte. Il fait notamment valoir que ces dispositions n’offrent pas un allégement efficace destiné aux personnes dans sa situation et qu’elles sont parallèlement une source de partialité puisqu’elles accordent un allégement à une grande variété de personnes ayant d’autres déficiences (voir le paragraphe 19 de l’avis d’appel modifié).
+[19] Comme il s’agit de l’une des questions en litige, il incombe à l’appelant de prouver qu’il existe une différence de traitement et qu’il a été porté atteinte à ses droits garantis par les articles 7 et 15 de la Charte. L’intimée convient qu’il existe des incohérences entre les provinces et les territoires quant aux praticiens qui sont reconnus comme des « médecins ». Elle affirme toutefois que cette situation découle du fait que la décision visant chacune des professions de la santé relève en réalité du corps législatif respectif de chaque province et territoire (voir les paragraphes 19 et 20 des observations écrites de l’intimée).
+[20] Compte tenu de l’admission de l’intimée, je ne vois pas en quoi le fait de demander quels praticiens sont reconnus comme des médecins dans chacune des provinces et chacun des territoires pour l’application de la LIR pourrait donner plus de poids à l’argument de l’appelant. La différence de traitement – qui est tributaire de la province dans laquelle les services sont rendus ou dans laquelle le particulier réside ou dans laquelle l’ordonnance relative aux médicaments a été délivrée – est reconnue par l’intimée.
+[21] Il est donc inutile de poser la question à laquelle l’appelant demande qu’on réponde. Cela ne pourrait qu’occasionner de longues démarches stériles au regard du débat dont la Cour est véritablement saisie.
+[22] Quant à la politique de l’ARC relative à l’application des dispositions en cause et, en particulier, aux frais médicaux que l’ARC estime admissibles sous le régime de la LIR, ce point n’a pas de pertinence devant la Cour en l’espèce. Je renvoie à nouveau à l’arrêt Sinclair, précité, de même qu’à l’arrêt Main Rehabilitation Co. c. Canada, 2004 CAF 403 (autorisation de pourvoi à la Cour suprême du Canada refusée (2005), 343 N.R. 196), où la Cour d’appel fédérale s’est exprimée en ces termes aux paragraphes 7 et 8[1] :
+[7] […] il est de jurisprudence constante qu’on ne peut tenir compte des actions de l’ADRC dans le cadre d’appels interjetés à l’encontre d’un avis de cotisation.
+[8] Il en est ainsi parce que l’appel interjeté sur le fondement de l’article 169 met en cause la validité de la cotisation et non du processus ayant conduit à l’établir (voir à titre d’exemple Canada c. The Consumers' Gas Company Ltd., 87 D.T.C. 5008 (C.A.F.), à la page 5012). Autrement dit, il ne s’agit pas de déterminer si les fonctionnaires de l’ADRC ont correctement exercé leurs pouvoirs, mais plutôt de déterminer si les montants pouvaient valablement être cotisés sous le régime de la Loi (Ludco Enterprises Ltd. c. R., [1996] 3 C.T.C. 74 (C.A.F.), à la page 84).
+[23] Il importe d’ajouter que le paragraphe 3 du bulletin IT‑519R2 ne fait que préciser qui, de l’avis de l’ARC, est un médecin. Les bulletins d’interprétation ne servent pas à établir les règles de droit applicables. Ils peuvent constituer un facteur à prendre en compte, mais ils n’ont pas pour effet de modifier les règles de droit ou la politique en matière de cotisation dans son application, en l’espèce, à la question de savoir qui est un médecin ou quels frais médicaux sont admissibles pour les besoins du crédit d’impôt prévu dans la LIR (voir, dans un autre contexte, l’arrêt Nowegijick c. La Reine, [1983] 1 R.C.S. 29).
+[24] Dans la présente affaire, le libellé du paragraphe 3 du bulletin IT‑519R2 n’a aucune incidence sur l’admissibilité de l’appelant à un crédit pour frais médicaux. Comme il est mentionné plus haut, ce paragraphe fait seulement état de l’interprétation, par l’ARC, de ce qu’est un médecin. Il ne permet nullement d’établir les règles de droit applicables. Une quelconque erreur d’interprétation faite par l’ARC dans ce bulletin ne pourrait en aucun cas influer sur le jugement de la Cour en ce qui concerne l’admissibilité de l’appelant au crédit d’impôt pour frais médicaux.
+[25] Cependant, l’intimée s’est engagée à communiquer à l’appelant la position de l’ARC sur la question relative au « médecin » uniquement dans la mesure où elle vise les naturopathes, les physiothérapeutes et les ostéopathes exerçant leur profession dans la province d’Ontario, ainsi que les naturopathes exerçant leur profession dans la province de Québec (soit les professionnels de la santé qui sont au cœur du débat dans les présents appels), même si cette information se trouve dans les dispositions législatives et réglementaires applicables des provinces d’Ontario et de Québec.
+[26] Les paragraphes 95(1) et (2) des Règles sont ainsi rédigés :
+Portée de l'interrogatoire
+95(1) La personne interrogée au préalable répond, soit au mieux de sa connaissance directe, soit des renseignements qu'elle tient pour véridiques, aux questions légitimes qui se rapportent à une question en litige ou aux questions qui peuvent, aux termes du paragraphe (3), faire l'objet de l'interrogatoire préalable. Elle ne peut refuser de répondre pour les motifs suivants :
+Scope of Examination
+95(1) A person examined for discovery shall answer, to the best of that person's knowledge, information and belief, any proper question relating to any matter in issue in the proceeding or to any matter made discoverable by subsection (3) and no question may be objected to on the ground that,
+a) le renseignement demandé est un élément de preuve ou du ouï‑dire;
+(a) the information sought is evidence or hearsay,
+b) la question constitue un contre‑interrogatoire, à moins qu'elle ne vise uniquement la crédibilité du témoin;
+(b) the question constitutes cross‑examination, unless the question is directed solely to the credibility of the witness, or
+c) la question constitue un contre‑interrogatoire sur la déclaration sous serment de documents déposée par la partie interrogée.
+(c) the question constitutes cross‑examination on the affidavit of documents of the party being examined.
+(2) Avant l'interrogatoire préalable, la personne interrogée doit faire toutes les recherches raisonnables portant sur les points en litige auprès de tous les dirigeants, préposés, agents et employés, passés ou présents, au Canada ou à l'étranger; si cela est nécessaire, la personne interrogée au préalable peut être tenue de se renseigner davantage et, à cette fin, l'interrogatoire préalable peut être ajourné
+(2) Prior to the examination for discovery, the person to be examined shall make all reasonable inquiries regarding the matters in issue from all of the party's officers, servants, agents and employees, past or present, either within or outside Canada and, if necessary, the person being examined for discovery may be required to become better informed and for that purpose the examination may be adjourned.
+[Non souligné dans l’original.]
+[27] La requête est donc accueillie, mais uniquement dans la mesure proposée au paragraphe 28 des observations écrites de l’intimée, lequel je reproduis à nouveau :
+[traduction]
+28. Par conséquent, l’intimée s’engage à répondre de son mieux aux questions de l’appelant, dans la mesure où elles sont pertinentes, à savoir exposer la position de l’ARC sur le sens du terme « médecin » en ce qui concerne les professions suivantes :
+a) naturopathes exerçant dans la province d’Ontario (voir les sous‑alinéas 17 a) ii) et v) de la réponse à l’avis d’appel);
+b) physiothérapeutes exerçant dans la province d’Ontario (voir le sous‑alinéa 17 a) vi) de la réponse à l’avis d’appel);
+c) ostéopathes exerçant dans la province d’Ontario (voir le sous‑alinéa 17 a) iii) de la réponse à l’avis d’appel);
+d) naturopathes exerçant dans la province de Québec (voir le sous‑alinéa 17 a) ii) de la réponse à l’avis d’appel).
+[28] Les dépens suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 27e jour de février 2008.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 10e jour d’avril 2008.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2008CCI113
+NO DU DOSSIER DE LA COUR : 2006‑1065(IT)G
+INTITULÉ : David Homa c. La Reine
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 30 mai 2007
+OBSERVATIONS DE L’INTIMÉE : Le 15 juin 2007
+RÉPONSE DE L’APPELANT : Le 29 juin 2007
+DÉLAI POUR LA RÉFUTATION : Le 6 juillet 2007
+MOTIFS DE L’ORDONNANCE PAR : L’honorable juge Lucie Lamarre
+DATE DE L’ORDONNANCE : Le 27 février 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Frédérick Morand
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Dans le récent arrêt Luciano c. La Reine, 2008 CAF 26, la Cour d’appel fédérale s’est également appuyée sur l’arrêt Main Rehabilitation, précité, pour affirmer que la Cour canadienne de l’impôt n’a pas compétence pour statuer qu’un avis de cotisation est nul « parce qu’il constitue un abus de procédure reconnu en common law ou en violation de l’article 7 de la Charte » (paragraphe 6 des motifs prononcés par la Cour d’appel fédérale dans l’arrêt Main Rehabilitation).

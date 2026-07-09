@@ -1,0 +1,395 @@
+Title: MacDonald v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/307527/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-55-307527-macdonald-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-03-16
+
+# MacDonald v. The Queen
+
+- Citation: 2018 TCC 55
+- Decision date: 2018-03-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7489, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacDonald v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-03-16
+Neutral citation
+2018 TCC 55
+File numbers
+2013-4032(IT)G
+Judges and Taxing Officers
+Dominique Lafleur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-4032(IT)G
+BETWEEN:
+JAMES S.A. MACDONALD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion for costs by written submissions
+Before: The Honourable Justice Dominique Lafleur
+Appearances:
+Counsel for the Appellant:
+James Bunting
+Elie Roth
+Stephen S. Ruby
+Counsel for the Respondent:
+Suzanie Chua
+ORDER
+UPON reading the notice of motion for costs dated October 16, 2017, filed on behalf of the Appellant (the “Motion”), in accordance with the Tax Court of Canada Rules (General Procedure) (the “Rules”), for an order:
+extending, if necessary, the time to make the Motion in accordance with sections 7 and 9 and subsection 12(1) of the Rules;
+awarding the Appellant costs on a partial indemnity basis calculated at 60% of his actual costs from September 19, 2013, the date he commenced preparing the notice of appeal in this matter to June 18, 2015, the day before the date he served on the Respondent his first offer to settle, and substantial indemnity costs from June 19, 2015, to the date of this Motion, plus disbursements; and
+granting such further and other relief as to this Honourable Court may seem just.
+AND UPON reading the written submissions of the parties on the subject of costs in this matter;
+IT IS ORDERED THAT the Motion is granted and costs are awarded to the Appellant, in accordance with the attached Reasons for Order, as follows:
+Post-Settlement Period: substantial indemnity costs of $300,712;
+Pre-Settlement Period: costs in a lump sum equal to $50,000;
+Disbursements: an amount of $37,550 for the expert report and the filing of the notice of appeal, an amount of $1,711.35 for Neesons (court reporting), and an amount of $222.35 representing 13% HST on this amount;
+HST: an amount of $45,592.56 representing 13% HST on the professional fees totaling $350,712;
+Period following the Post-Settlement Period, including the Motion: each party shall bear their own costs.
+Signed at Ottawa, Canada, this 16th day of March 2018.
+“Dominique Lafleur”
+Lafleur J.
+Citation: 2018 TCC 55
+Date: 20180316
+Docket: 2013-4032(IT)G
+BETWEEN:
+JAMES S.A. MACDONALD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Lafleur J.
+I. OVERVIEW
+[1] These reasons are in respect of a costs award regarding the decision of MacDonald v The Queen, 2017 TCC 157, [2017] TCJ No 121 (QL), which I have decided wholly in favour of the Appellant, with costs, by judgment dated August 8, 2017, (the “Judgment”). The Respondent has appealed from that decision to the Federal Court of Appeal. As of today, that appeal is still pending.
+[2] The appeal before this Court entailed a four-day trial held in Toronto from February 13 to 16, 2017; three witnesses testified: the Appellant, one expert witness called by the Appellant, and one expert witness called by the Respondent. The sole issue at trial was whether cash settlement payments in the amount of $9,956,837 made by the Appellant during the 2004, 2005 and 2006 taxation years in partial and final settlement of a forward contract were on account of income and resulted in business losses or whether those payments were on account of capital and resulted in capital losses. The parties consented to judgment on two issues prior to the hearing. Furthermore, by the time the appeal reached trial, the parties had come to an agreement on many of the relevant facts and filed a Partial Statement of Agreed Facts. The parties also filed a joint book of documents. At the end of the hearing, none of the parties indicated that submissions on costs would be made in the event of an award of costs.
+II. MOTION FOR COSTS
+[3] On September 13, 2017, counsel for the Appellant wrote to the Court seeking “direction on the appropriate procedure to be followed” for making submissions on the issue of costs. By letter dated September 18, 2017, counsel for the Respondent took the position that the Appellant’s request was late due to the expiration of the 30-day time limit provided for in subsection 147(7) of the Tax Court of Canada Rules (General Procedure) (the “Rules”). The Respondent also added that, during the hearing, counsel for the Appellant did not indicate that costs above the Tariff rate (Schedule II, Tariff B of the Rules, the “Tariff”) would be sought should the appeal be allowed. On September 19, 2017, counsel for the Appellant wrote back to the Court to, in part, challenge the applicability of subsection 147(7) of the Rules. On September 20, 2017, the Court invited in writing the Appellant to bring a motion for an order extending the time prescribed by subsection 147(7) of the Rules to make submissions on costs and asking the Court to reconsider the issue of costs. Counsel for the Respondent did not consent to that extension of time.
+[4] On October 16, 2017, the Appellant filed a notice of motion for costs (the “Motion”) for an order:
+extending, if necessary, the time to make the Motion in accordance with sections 7 and 9 and subsection 12(1) of the Rules;
+awarding the Appellant costs on a partial indemnity basis calculated at 60% of his actual costs from September 19, 2013, the date he commenced preparing the notice of appeal in this matter to June 18, 2015, the day before the date he served on the Respondent his first offer to settle (the “First Settlement Offer”), and substantial indemnity costs from June 19, 2015, to the date of this Motion, plus disbursements; and
+granting such further and other relief as to this Honourable Court may seem just.
+[5] More particularly, the Appellant is seeking costs above the Tariff. The Appellant takes the position that the costs as per the Tariff rate are clearly inadequate given the particular circumstances of this Appeal, and that he should be awarded costs on a partial indemnity basis and on a substantial indemnity basis as indicated above.
+[6] The Appellant is seeking costs and disbursements totaling $529,020.51, detailed as follows: costs for the period from September 19, 2013, to June 19, 2015—$85,391.90; Costs for the period following the First Settlement Offer—$347,826.40 (including costs of $23,180 for the period from the receipt of the Judgment on August 11, 2017, to October 12, 2017); together with tax exempt disbursements of $37,550, non-tax exempt disbursements of $1,711.35, HST on fees equal to $56,318.38 and HST on non-tax exempt disbursements equal to $222.48.
+[7] The Respondent is of the view that I should not exercise my discretion to grant the Appellant an extension of time to make submissions on costs. In the alternative, the Appellant should only be entitled to receive costs in accordance with the Tariff for 2 counsels. In the further alternative, should the Court come to the conclusion to award enhanced costs, they should be limited to $70,000, which is derived from the Tariff rates for 1 counsel, multiplied by 6 times, plus disbursements.
+III. CONFERENCE CALL OF DECEMBER 18, 2017
+[8] On December 18, 2017, a conference call was held and I informed the parties that I had decided to grant the Appellant an extension of time to make additional submissions on costs and that I will provide them with written reasons later. The parties were also invited to present additional submissions as I am of the view that, for the purposes of subsection 147(3.1) of the Rules, the settlement offer dated January 20, 2016, (the “Second Settlement Offer”) is the only valid settlement offer. The First Settlement Offer (which is dated June 19, 2015) is not a valid settlement offer for that purposes, for the reasons detailed below.
+[9] The Appellant filed additional submissions and is now seeking costs and disbursements totaling $521,993.15, detailed as follows: costs for the period from September 19, 2013, to January 19, 2016, calculated at 60% of the actual costs—$103,107; costs for the period from January 20, 2016, to October 12, 2017, including costs for the Motion, on a substantial indemnity basis, that is calculated at 80% of the actual costs—$323,892.40 (including costs of $23,180 for the period from the receipt of the Judgment on August 11, 2017, to October 12, 2017); together with tax exempt disbursements of $37,550, non‑tax exempt disbursements of $1,711.35, HST on fees equal to $55,509.92 and HST on non-tax exempt disbursements equal to $222.48.
+[10] The Respondent filed additional submissions raising some concerns about the Bill of Costs’ lack of details and the senior counsel rates presented in the Bill of Costs showing rate at over $1000 per hour.
+IV. ISSUES
+[11] The Motion raised the following issues, which I will discuss below:
+Whether the 30-day time limit provided for in subsection 147(7) of the Rules applies in the circumstances of this case;
+Should I conclude that the 30-day time limit provided for in subsection 147(7) of the Rules applies, whether I should grant the Appellant an extension of time to file the Motion with the Court; and
+Finally, if the 30-day time limit provided for in subsection 147(7) of the Rules does not apply or should I decide to exercise my discretion to grant an extension of time to file the Motion, whether the Appellant should be awarded enhanced costs and what should be the amount of the costs so awarded.
+V. DISCUSSION
+1. Time frame to make submissions on costs
+[12] Subsections 147(3.1) and 147(7) of the Rules read as follows:
+147(3.1) Unless otherwise ordered by the Court, if an appellant makes an offer of settlement and obtains a judgment as favourable as or more favourable than the terms of the offer of settlement, the appellant is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+. . .
+147(7) Any party may,
+(a) within thirty days after the party has knowledge of the judgment, or
+(b) after the Court has reached a conclusion as to the judgment to be pronounced, at the time of the return of the motion for judgment,
+whether or not the judgment included any direction concerning costs, apply to the Court to request that directions be given to the taxing officer respecting any matter referred to in this section or in sections 148 to 152 or that the Court reconsider its award of costs.
+147(3.1) Sauf directive contraire de la Cour, lorsque l’appelant fait une offre de règlement et qu’il obtient un jugement qui est au moins aussi favorable que l’offre de règlement, l’appelant a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+[…]
+147(7) Une partie peut :
+a) dans les trente jours suivant la date à laquelle elle a pris connaissance du jugement;
+b) après que la Cour a décidé du jugement à prononcer, au moment de la présentation de la requête pour jugement,
+que le jugement règle ou non la question des dépens, demander à la Cour que des directives soient données à l’officier taxateur à l’égard des questions visées au présent article ou aux articles 148 à 152 ou qu’elle reconsidère son adjudication des dépens.
+[Emphasis added.]
+1.1 Appellant’s position
+[13] The Appellant is of the view that subsection 147(7) of the Rules does not apply and that, consequently, he is not time-barred to seek enhanced costs under subsection 147(3.1) of the Rules, since this provision does not prescribe any time limit to make costs submissions and since this Court did not order that the Appellant was not entitled to costs on a substantial indemnity basis under subsection 147(3.1) of the Rules.
+[14] According to the Appellant, subsection 147(7) of the Rules will apply only if a party seeks direction to be given to a taxing officer in circumstances where party and party costs are to be taxed under section 154 of the Rules or if a party seeks to have the Court reconsider its award of costs. Neither of these two situations arose in this case. As the Appellant was entitled under subsection 147(3.1) of the Rules to substantial indemnity costs as of the date of service of the First Settlement Offer, only this Court can make a determination of the costs; a taxing officer could not address that issue.
+[15] Furthermore, in the circumstances of this appeal, according to the Appellant, he had no reason to ask this Court, under subsection 147(7) of the Rules, to “reconsider its award of costs” since he had obtained a judgment as favourable as, or more favourable than, the terms of the First Settlement Offer and, in accordance with subsection 147(3.1) of the Rules, he would then have a “presumptive right to substantial indemnity costs after the date of service of an offer to settle in circumstances where an appellant obtains a judgment as favourable [as] or more favourable than the terms of that offer of settlement.”
+[16] In the absence of a specific time limit for seeking enhanced costs, the Appellant is of the view that the relevant provision is subsection 156(1) of the Rules, which requires a party to whom costs are owed to file a bill of costs within a reasonable time. As counsel for the Appellant communicated with this Court on September 13, 2017, specifically 36 days following the date of the Judgment, and taking into account that the period was “the height of the summer period, punctuated by a long Labour Day weekend, there was no unreasonable delay.”
+1.2 Respondent’s position
+[17] According to the Respondent, a request for costs in excess of the Tariff, including costs on a substantial indemnity basis under subsection 147(3.1) of the Rules, can only be made under subsection 147(7) of the Rules. The Respondent cites McKenzie v The Queen, 2012 TCC 329, 2012 DTC 1291 [McKenzie], and Sport Collection Paris Inc v The Queen, 2007 TCC 216, [2008] GSTC 96.
+[18] Furthermore, the Respondent is of the view that the law is well settled: subsection 147(3.1) of the Rules is a default rule; its application is neither automatic nor mandatory and it does not limit a judge’s overall discretion in determining costs. According to the Respondent, there is no merit on the Appellant’s position that subsection 147(3.1) of the Rules applies presumptively.
+1.3 Discussion
+[19] As stated by the Respondent, a request for increased costs has to be presented to this Court within the time frame prescribed by subsection 147(7) of the Rules, that is, within 30 days after the party has knowledge of the judgment (Surrey City Centre Mall Ltd v The Queen, 2013 TCC 148 at para 4, [2013] GSTC 64 [Surrey City Centre]; Bibby v The Queen, 2010 TCC 111 at para 7, 2010 DTC 1108 [Bibby]). I am of the view that the same rule applies where a party seeks substantial indemnity costs under subsection 147(3.1) of the Rules (McKenzie, supra at paras 8 and 9). Accordingly, I conclude that the 30‑day limit provided for in subsection 147(7) of the Rules applies in the circumstances of this case.
+[20] Subsection 147(3.1) of the Rules does not provide that it is applicable notwithstanding subsection 147(7).
+[21] When I allowed the appeal, with costs, I awarded costs to the Appellant, in accordance with the Tariff—accordingly, I reached a decision on costs. If a party wants the Court to reconsider an award of costs, the procedure prescribed by subsection 147(7) of the Rules has to be followed. Further, in this appeal, it has to be noted that counsel for the Appellant did not ask permission to make submissions on costs at the close of the hearing on February 16, 2017.
+[22] However, I do agree with the Appellant that a party having made a valid settlement offer and having obtained a judgment as favourable as or more favourable than the settlement offer has a presumptive right to substantial indemnity costs.
+[23] The Federal Court of appeal in Venngo Inc v Concierge Connection Inc (Perkopolis), 2017 FCA 96, 146 CPR (4th) 182 [Venngo], reviewing Rule 420 of the Federal Courts Rule, the language of which is similar to the language of subsection 147(7) of the Rules, stated:
+88 I agree with Venngo that the Federal Court committed a legal error in its assessment of CCI’s written offer to settle dated October 23, 2015. Although the Federal Court was correct to note that an offer that meets the requirements of Rule 420 of the Rules presumptively entitles a successful defendant to double costs from the date of its offer where that offer is refused by the plaintiff and the plaintiff does less well after trial than it would have done under the offer, the Federal Court was incorrect to conclude that the rule applied in the circumstances of this case as CCI’s offer did not meet the criteria set out in the jurisprudence and the Rules.
+[Emphasis added.]
+[24] As the issue of costs had been decided at the time of issuance of the Judgment, the Appellant had to follow the procedure of subsection 147(7) of the Rules if he wishes the Court to reconsider its award of costs, even given my conclusion that subsection 147(3.1) of the Rules gives the Appellant a presumptive right to substantial indemnity costs. This factor will be one of the factors considered in the granting of an extension of time to make submissions on costs, as more fully discussed in the next section of these reasons.
+[25] The Judgment was dated August 8, 2017. Judgment was sent by e-mail and by registered mail to the parties on August 8, 2017. One can assume that the parties had knowledge of the Judgment on August 8, 2017. It is clear that the 30‑day time limit prescribed by subsection 147(7) of the Rules had expired when counsel for the Appellant wrote to the Court on September 13, 2017, to request “direction on the appropriate procedure to be followed” for making submissions on the issue of costs; the 30-day time limit had expired on September 7, 2017.
+[26] Therefore, if the Appellant wants to invite this Court to reconsider its award of costs, a motion had to be filed with this Court requesting an extension of time (see Bibby, supra at para 10). As indicated above, the Appellant filed the Motion on October 16, 2017.
+2. Request to extend time
+2.1 Appellant’s position
+[27] The Appellant submits that I should exercise my discretion to grant an extension of time in accordance with sections 7, 9 and 12 of the Rules in order to allow the Appellant to make further submissions on costs. Many reasons militate in favour of that extension, including the following: the Respondent could not have suffered any prejudice as a result of a five-day, or six-day, delay; the Court should not let procedural technicalities stand in the way of allowing cases to be decided on its merits (The Queen v Carew, 92 DTC 6608, [1992] FCJ No 1020 (QL)); the interests of justice allows the Court to consider the Appellant interests’ (Sport Maska Inc v Bauer Hockey Corp, 2016 FCA 44 at para 43, 140 CPR (4th) 11) and the Rules makes it clear that the interest of justice and securing a just determination of the issue before the Court should prevail over a failure to comply strictly with the Rules (Sections 7 and 9 of the Rules).
+2.2 Respondent’s position
+[28] The Respondent submits that I should deny the request for an extension of time to make submissions on the issue of costs in that matter since there is no reasonable explanation for the Appellant’s delay, there is no evidence of the Appellant’s intention to act within the 30‑day delay prescribed by subsection 147(7) of the Rules, the interest of justice does not call for any extension and allowing the request would be in breach of the principle of finality.
+2.3 Discussion
+[29] The case law holds that the factors usually considered with respect to a motion to extend time are: i) the continuing intention to take proceedings within the prescribed time limits, ii) the existence of an arguable case, iii) the cause and actual length of the delay (or a reasonable explanation given for the delay) and iv) whether there was prejudice caused by the delay (Rosen v The Queen, [2000] 2 CTC 422 at para 5, [2000] FCJ No 415 (QL); Tomas v The Queen, 2007 FCA 86 at para 11, 2007 DTC 5178; Canada (Attorney General) v Hennelly, 244 NR 399, [1999] FCJ No 846 (QL); Marshall v The Queen, 2002 FCA 172, 289 NR 187; Surrey City Centre, supra at para 5).
+[30] The weight to be given to each of these factors will vary depending on the circumstances of each case (Canada Trustco Mortgage Company v The Queen, 2008 FCA 382 at para 14, 2009 DTC 5018).
+[31] Furthermore, as stated by the Federal Court of Appeal in Canada (Minister of Human Resources Development) v Hogervorst, 2007 FCA 41, 359 NR 156 [Hogervorst], “an extension of time can still be granted even if one of the criteria is not satisfied:”
+33 This test is not in contradiction with the statement of this Court made more than twenty (20) years ago in Grewal v. Canada (Min. of Employment and Immigration), [1985] 2 F.C. 263 that the underlying consideration in an application to extend time is to ensure that justice is done between the parties. The above stated four-pronged test is a means of ensuring the fulfillment of the underlying consideration. It ensues that an extension of time can still be granted even if one of the criteria is not satisfied: see Grewal v. Canada, supra, at pages 278-279.
+[Emphasis added.]
+[32] In Maytag Corp v Whirlpool Corp, 2001 FCA 250, 274 NR 187, the Federal Court of Appeal had to decide a motion for enhanced costs which was filed more than 2 years after the expiration of the deadline provided for in the applicable rules. Justice Sharlow explained the purpose of the 30-day time limit provided for in the rules:
+10 The purpose of the [30-day] time limit and the basis on which it might be extended is explained by Jackett C.J. in Smerchanski v. M.N.R., [1979] 1 F.C. 801 (C.A.), at page 805:
+I might add that, as it seems clear to me from a reading of Rule 344(7) with Rule 337(5), it is contemplated that any such application for a direction increasing costs should be made while the matter is sufficiently fresh in the mind of the Court that the Court is in a position to appreciate whether there were present in the particular case circumstances justifying a departure from the normal tariff amounts; and it would, it my view, require very special reasons to warrant a lengthy extension of the time contemplated by Rule 344(7) such as would be required here.
+[Emphasis added.]
+[33] I am of the view that that purpose, as explained by Justice Sharlow, is equally applicable to the Rules of this Court.
+[34] Weighing the four factors indicated above, taking into consideration the purpose of the 30-day time limit and considering sections 9 and 12 of the Rules, I have decided to exercise my discretion, and I will grant an extension of time to the Appellant to provide submissions on enhanced costs in the specific circumstances of this appeal.
+[35] Counsel for the Appellant wrote to the Court on September 13, 2017, namely 6 days following the expiration of the 30-day time limit prescribed by subsection 147(7) of the Rules. It is reasonable to infer from that short delay that the Appellant had a continuing intention to seek enhanced costs. In addition, I am unable to see how a six-day delay has prejudiced the Respondent, who knew that settlement offers had been discussed between the parties and that the Appellant would likely seek enhanced costs.
+[36] Further, I note that, by letter dated September 19, 2017, counsel for the Appellant asked this Court for an extension of time to seek enhanced costs, said letter being 12 days late. The Motion was filed with this Court on October 16, 2017, that is, it was 39 days late. I fail to see how these delays have prejudiced the Respondent.
+[37] These delays being quite short, I conclude that the interest of justice prevails over the principle of finality invoked by the Respondent.
+[38] The absence of a reasonable explanation for the delay is not fatal to the Appellant as the Federal Court of Appeal has ruled in Hogervorst, supra, that an extension of time can still be granted even if one of the criteria is not met.
+[39] Furthermore, I am of the view that an important factor justifying the granting of an extension of time to the Appellant is that the Appellant has showed that he had an arguable case. In this part of my reasons, I am not considering the merit of the request for enhanced costs, but whether the Appellant had an arguable case before the Court. In my opinion, the Appellant was successful in showing the Court he had an arguable case since, as indicated above, a successful party has a presumptive right to substantial indemnity costs, provided all the requirements of subsection 147(3.1) of the Rules are met (Venngo, supra).
+[40] Furthermore, I am of the view that consideration should be given to the purpose of subsection 147(3.1) of the Rules which is to encourage parties to settle wherever possible (Sun Life Assurance Company of Canada v The Queen, 2015 TCC 171 at para 8, 2015 DTC 1159 [Sun Life]).
+[41] For these reasons, and in order to ensure that justice is done between the parties, which is the underlying consideration in an application to extend time, I will grant the motion for an extension of time for the Appellant to make submissions for enhanced costs.
+3. Costs award
+3.1 Generality
+[42] Section 147 of the Rules gives the Court a very broad discretion in awarding costs (See Schedule “A” for reading section 147 of the Rules). However, the discretion of the Court must be exercised on a principled basis and should not be exercised in an arbitrary manner (The Queen v Lau, 2004 FCA 10 at para 5, [2004] GSTC 5, and The Queen v Landry, 2010 FCA 135 at paras 22 and 54, 2010 DTC 5106).
+[43] None of the factors listed in subsection 147(3) are determinative and the Court should consider all relevant factors in exercising its discretion (Velcro Canada Inc v The Queen, 2012 TCC 273 at paras 12-13, [2012] 6 CTC 2049 [Velcro]).
+[44] An award of costs is generally not intended to fully compensate the actual costs incurred by a party (Velcro, supra at para 29). The objectives of an award of costs are compensation and contribution, and not punishment (Mariano et al v The Queen, 2016 TCC 161 at paras 23 and 27, 2016 DTC 1146).
+[45] As explained by Justice Boyle in Martin v The Queen, 2014 TCC 50, 2014 DTC 1072 (para 14):
+14 . . . The proper question is: What should be the losing party’s appropriate contribution to the successful party’s costs of pursuing the appeal in which his or her position prevailed?
+. . .
+[Emphasis added.]
+[46] The comments of Justice Campbell in Invesco Canada Ltd v The Queen, 2015 TCC 92, [2015] GSTC 52 (para 5) are also enlightening:
+5 . . . The decision of Justice Boyle in Spruce Credit Union v The Queen, 2014 TCC 42, 2014 DTC 1063, provides a comprehensive review of the law to date in relation to awards of costs. The main principles that were highlighted in those reasons include the following:
+(a) a lump sum may be awarded after consideration of the amounts at issue together with the complexity and the importance of those issues, the work generated and a party’s success (Scavuzzo v The Queen, 2006 TCC 90, 2006 DTC 2311, Dickie v The Queen, 2012 TCC 327, 2012 DTC 1276, and Blackburn Radio Inc. v The Queen, 2013 TCC 98, 2013 DTC 1098);
+(b) the court must consider the Rule 147(3) factors although the amounts and complexity of the issues alone may not be a reason for departing from the costs set out in the Tariff (Jolly Farmer Products Inc. v The Queen, 2008 TCC 693, 2009 DTC 1040);
+(c) there must be egregious circumstances for a court to consider an award of solicitor-client costs (Sommerer v The Queen, 2012 TCC 212, Transcript of Oral Reasons delivered by conference call on July 14, 2011);
+(d) increased costs generally vary between 50 to 75 percent of solicitor‑client costs (Zeller Estate v The Queen, 2009 TCC 135, 2009 DTC 1106);
+(e) increased costs are not meant to be punitive (General Electric Capital Canada Inc. v The Queen, 2010 TCC 490, 2010 DTC 1353) but an award is not limited to instances of misconduct (Teelucksingh v The Queen, 2011 TCC 253, [2011] TCJ No. 476); and
+(f) exceptional circumstances need not exist for an award of costs to move beyond the Tariff (Velcro Canada Inc. v The Queen, 2012 TCC 273, [2012] TCJ No. 219).
+[47] Subsections 147(3.1) to (3.8) of the Rules, which provide for substantial indemnity costs under certain circumstances and when settlement offers were exchanged between the parties, were added to the Rules, effective as of February 7, 2014, (and these changes reflect Practice Note No 18 issued on January 31, 2011). As indicated above, subsection 147(3.1) of the Rules “is a default rule that applies where a qualifying settlement offer has been made but rejected and the Applicant has obtained a judgment that is related to the terms of the offer and that is at least as favourable as the offer.” (Sun Life, supra at para 8).
+[48] However, the Court still retains a broad discretion in determining costs, even under subsection 147(3.1) of the Rules (Ike Enterprises Inc v The Queen, 2017 TCC 160 at para 19, [2017] GSTC 67). Furthermore, as is the case with the discretion for an award of costs generally, the discretion exercised by the judge to override the default rule provided for in subsection 147(3.1) should be exercised only on a principled basis (Sun Life, supra at paras 9, 10 and 11).
+3.2 Settlement Offers
+[49] Before determining the appropriate costs award, I have to determine whether the First Settlement Offer met the requirements of subsection 147(3.1) of the Rules. For the following reasons, I am of the view that the First Settlement Offer does not meet these requirements since that offer “was not clear and unequivocal”.
+[50] In Syntex Pharmaceuticals International Ltd v Apotex Inc, 2001 FCA 137, 273 NR 217, the Federal Court of Appeal concluded that an offer to settle must be clear and unequivocal to meet the requirements Rule 420(1) of the Federal Courts Rules:
+10 If the generous costs advantage afforded by Rule 420(1) is to be available to a plaintiff, the offer to settle must be clear and unequivocal in the sense it leaves the opposite party to decide only whether to accept it or reject it. The letter of July 3, 1998 was nothing of the sort, but was merely an indication on the part of the respondent's solicitors that they were “prepared to recommend” a settlement to their client on the lines of the letter. Thus even a positive reaction by the appellants to the letter of July 3, 1998 would not necessarily have resulted in a settlement as it would have remained open to the respondent to either accept or reject their solicitors’ recommendation. If the letter of July 3, 1998 had stated that the solicitors were “authorized by our client to make the following offer” and otherwise constituted a clear and unequivocal offer, it would have qualified as an “offer to settle” within the meaning of Rule 420(1).
+[Emphasis added.]
+[51] As indicated above, the language of Rule 420 of the Federal Courts Rules is similar to the language of subsection 147(3.1) of the Rules. I am of the view that the same principles should apply in this case.
+[52] Thus, it is clear that the First Settlement Offer does not meet the requirements of subsection 147(3.1) of the Rules as it was not a clear and unequivocal offer. The last paragraph of the First Settlement Offer provides that “. . . we would be prepared to recommend this settlement to MacDonald.” Accordingly, even if the Respondent had accepted the offer, it would not have resulted in a settlement as it would have been open to Mr. MacDonald to either accept or reject his counsels’ recommendation.
+[53] However, the settlement offer dated January 20, 2016, namely the Second Settlement Offer, does meet the requirements of subsection 147(3.1) of the Rules: it was clear and unequivocal.
+[54] Furthermore, the Second Settlement Offer meet all the requirements of subsection 147(3.3) of the Rules: it was in writing, it was served no earlier than 30 days after the close of pleadings and at least 90 days before the commencement of the hearing, it was not withdrawn and it did not expire earlier than 30 days before the commencement of the hearing. The Respondent does not challenge those facts.
+[55] Also, it is clear that the Second Settlement Offer could have been accepted by the Respondent, as it could be supported on the facts and on the law (CIBC World Markets Inc v The Queen, 2012 FCA 3 at paras 15 and 22, 426 NR 182). The Respondent does not challenge that conclusion.
+[56] However, the Respondent cites the principle that a settlement offer must address the issues underlying the appeal in order to be considered for costs purposes and cites a case decided by this Court, IPAX Canada Limited et al v The Queen, 2011 TCC 50, 2011 DTC 1077 (para 11) [IPAX]. According to the Respondent, the basis for the Second Settlement Offer did not constitute a part of the issue raised in the appeal since the basis for the settlement offer was not advanced as alternative positions at trial. At trial, the Appellant advanced an ““all or nothing” position”.
+[57] I do not agree with that submission. I accepted that the Appellant did not advance an alternative position at trial. However, the Second Settlement Offer could have been accepted by the Minister of National Revenue; furthermore, this Court could have concluded that only part of the BNS shares (as defined in the Judgment) were hedged and that part of the amount paid on the partial settlement of the Forward Contract (as defined in the Judgment) were on account of capital, the balance being on account of income. The Second Settlement Offer clearly addressed the issues underlying the appeal. In IPAX, supra, the facts were different: the two offers made by the appellant did not address the issues underlying the appeal.
+[58] I am therefore of the view that the requirements of subsections 147(3.3) and (3.4) of the Rules are met with respect to the Second Settlement Offer.
+3.3 Award of Costs for the period from January 21, 2016, to February 16, 2017 (the “Post-Settlement Period”)
+[59] I will first address the costs for the Post-Settlement Period, excluding the costs for the period following the Post-Settlement Period, including the Motion, and I will address the latter below under a separate heading.
+[60] As indicated above, the Appellant is seeking substantial indemnity costs in an amount of $300,712 for the Post-Settlement Period (excluding costs for the Motion), representing 394.6 hours of work by different lawyers and representing 80% of the actual solicitor and client costs totaling $375,890.50 as provided for by subsection 147(3.5) of the Rules. Counsel for the Appellant had confirmed that the Bill of Costs “has been calculated based on costs that have been paid by Mr. MacDonald.”
+[61] The Respondent, however, raised some concerns about the Bill of Costs’ lack of details and the senior counsel rates presented in the Bill of Costs showing rate at over $1000 per hour on the basis of recent cases where this Court have accepted senior counsel rate ranging from $330 to $800 per hour (Standard Life Assurance Company of Canada v The Queen, 2015 TCC 138 at para 16(j), 2015 DTC 1150, and Sun Life, supra at paras 30 to 32).
+[62] The starting point for calculating substantial indemnity cost under subsection 147(3.1) of the Rules is constituted by all costs reasonably incurred:
+21 With respect to the determination of solicitor and client costs on which substantial indemnity costs are based, the basic rule is that such costs are intended to provide a full indemnity for all costs reasonably incurred. This principle was stated by Cattanach J. in Scott Paper Co. v. Minnesota Mining and Manufacturing Co., [1982] F.C.J. No. 917(QL) as follows:
+The underlying purpose of an award of costs on the basis of those between solicitor and client is to provide complete indemnification for all costs, including fees and disbursements, reasonably incurred in the course of defending or prosecuting the action but excluding the costs for extra services not reasonably necessary.
+22 The costs awarded under subsection 147(3.1) of the Rules are 80% of solicitor and client costs. Given the automatic 20% discount built into the rule, it is appropriate to adopt as the starting point all costs reasonably incurred.
+[Sun Life, supra; Emphasis added.]
+[63] As stated by this Court in Sun Life, supra (para 23), “[i]t is not the role of the court to use hindsight to second-guess the judgment of counsel regarding the amount of time spent on an appeal”, and I decline to do so now: I will not review the number of hours spent on the Appellant’s file.
+[64] Hence, I have to decide whether the hourly rate charged by counsels and indicated on the Bill of Costs should be reduced. In Sun Life, supra, this Court examined the annual survey of lawyers’ hourly rates conducted by Canadian Lawyer magazine as a factor to establish reasonable hourly rates for the various professionals involved in the case, since it was established that a contingency fee arrangement was entered into with the appellant and his counsel.
+[65] Here, the facts are different. Counsel for the Appellant had confirmed that the Bill of Costs was prepared based on costs that have been paid by his client, the Appellant. Consequently, I conclude that the hourly rates charged by counsel were reasonable and reflected the reasonable costs of services provided to the Appellant, in the city of Toronto, where the services were rendered.
+[66] Furthermore, the Respondent stated that there was only a 14% difference between the most recent offers to settle exchanged between the parties, representing approximately $150,220 difference in taxes. As such, according to the Respondent, the request by the Appellant for substantial indemnity costs is wholly disproportionate in the light of the monetary difference between the respective parties’ offers to settle and consequently, the Court should exercise its discretion not to award costs under subsection 147(3.1) of the Rules.
+[67] I do not agree with the Respondent. I am of the view that the monetary difference between the parties’ respective offers to settle are irrelevant for the purposes of evaluating the quantum of substantial indemnity costs to which the Appellant is entitled under subsection 147(3.1) of the Rules. Here, I will not comment on the calculation made by the Respondent but it seems to me that the taxes in dispute being approximately $2.3M, a 14% difference will approximately amount to $325,000 and not $150,000. Further, that calculation does not take into account the different character of a loss on income account and on capital account.
+[68] Therefore, I award to the Appellant substantial indemnity costs for the Post-Settlement Period in the amount of $300,712 under subsection 147(3.1) of the Rules.
+3.4 Award of Costs for the period from September 19, 2013, to January 20, 2016 (the “Pre-Settlement Period”)
+[69] As indicated above, for the Pre-Settlement Period, the Appellant is seeking partial indemnity costs totaling $103,107, representing 60% of the actual costs incurred, stating that that amount is within the range of 50% to 75% applied in Zeller Estate v The Queen, 2009 TCC 135, 2009 DTC 1106 (para 9), and in Spruce Credit, supra (para 29).
+[70] In view of all the factors set out in subsection 147(3) of the Rules, I conclude that I should exercise my discretion to award costs to the Appellant above the Tariff for the Pre-Settlement Period. An award equivalent to approximately 30% of the actual costs incurred seems reasonable, appropriate and fair in the circumstances. For these reasons, the Appellant is awarded costs in a lump sum of $50,000 for the Pre-Settlement Period.
+(a) The result of the proceeding.
+[71] The Appellant was entirely successful in this appeal.
+(b) The amounts in issue.
+[72] The amount in issue in this appeal totaled $9,956,837 with respect to 3 taxation years. The taxes in dispute amounted approximately to $2.3M. I am of the view that this represents a significant amount, as the Appellant is an individual taxpayer.
+[73] By way of comparison, in Guibord et al v The Queen, 2011 TCC 53 at para 16, 2011 DTC 1076 (confirmed by the FCA in Guibord v The Queen, 2011 FCA 346, 2012 DTC 5030), Justice V.A. Miller stated that the amounts in issue, including taxes and penalties, of $499,960.02 under the Income Tax Act (RSC, 1985, c 1 (5th supp.), as amended) and of $114,034.83 under the Excise Tax Act were “significant”.
+[74] Furthermore, in Scavuzzo v The Queen, 2006 TCC 90 at para 9, [2006] 2 CTC 2457, Chief Justice Bowman (as he then was), determined that “[t]he amount of money involved was substantial - over $2,000,000”.
+(c) The importance of the issue.
+[75] The Appellant argues that, given the magnitude of the amount of money in dispute, the issue was of a significant importance to the Appellant and fully justified the expenses he incurred in the appeal. I do not agree with the Appellant.
+[76] This factor refers to issues of statutory interpretation, constitutional issues or serious matters of public interest. Importance is not viewed from the perspective of the Appellant but from a legal point of view.
+[77] Even though an issue can be of fundamental importance to a party, that does not mean that his case has precedential value as aptly explained by Justice Hogan in Klemen v The Queen, 2014 TCC 369, [2015] 3 CTC 2114 at para 18:
+18 The Appellant argues that, because the issues in the appeals were of significant financial importance to him, this factor supports an increased costs award in his favour. However, the jurisprudence suggests that the question is not how important the issues are to the individual taxpayer (one might expect that any taxpayer bringing an appeal to the Tax Court of Canada would consider his case to be of significant personal importance), but rather whether the decision on the issues will have significant precedential and jurisprudential value. For example, see Henco (2014 TCC 278 at paras. 7-11) and General Electric Capital Canada Inc. v. The Queen (2010 TCC 490, 2010 DTC 1353 at paras. 32-33).
+[Emphasis added.]
+[78] Justice Campbell in ACSIS EHR (Electronic Health Record) Inc v The Queen, 2016 TCC 50, 2016 DTC 1047 at para 13, stated as follows: “. . . My conclusion was based primarily on findings of fact and therefore this factor alone either does not support an increased award or is of neutral significance”.
+[79] Thus, as my conclusion on the nature of the settlement payments made by the Appellant on the Forward Contract was essentially a finding of fact, that factor does not support an increased award of costs in favour of the Appellant.
+(d) Any offer of settlement made in writing.
+[80] This factor does not support an increased costs award because its effect will be taken into account under subsection 147(3.1) of the Rules for the Post‑Settlement Period (Repsol Canada Ltd v The Queen, 2015 TCC 154 at para 13, 2015 DTC 1151 [Repsol]; affirmed in The Queen v Repsol Canada Ltd, 2017 FCA 193, [2017] FCJ No 883 (QL)).
+(e) The volume of work and complexity of the issues.
+[81] This factor is generally given more importance in the award of costs. As explained by Justice Woods in Blackburn Radio Inc v The Queen, 2013 TCC 98, 2013 DTC 1098 at para 14:
+14 The work involved in tax litigation has increasingly become a factor in awarding costs. It has also been considered in intellectual property litigation: Consorzio Del Prosciutto Di Parma v Maple Leaf Meats Inc., 2002 FCA 417 (Maple Leaf Meats).
+[82] In this appeal, the hearing lasted 4 days and involved three witnesses, including the Appellant and two expert witnesses, one called by the Appellant (Mr. Kurgan) and one called by the Respondent (Mr. Klein). Expert reports and rebuttal expert reports were filed. These reports were voluminous and very technical in nature. Mr. Kurgan testified for nearly a full day and Mr. Klein testified for a little more than a full day.
+[83] Approximately 585 hours were billed by the Appellant’s counsel excluding the Motion for which 45 hours were billed. I am of the view that the total of these hours represents a high volume of work.
+[84] The Appellant argued that the volume of work was significant and complex, given the recent evolution of the relevant law, referring to a case of this Court, George Weston Limited v The Queen, 2015 TCC 42, 2015 DTC 1079 [George Weston]. According to the Appellant, prior to George Weston, supra, the Canada Revenue Agency’s (the “CRA”) position was that “for tax purposes, a taxpayer could only “hedge” the risks of a transaction, such as the sale of a property or the repayment of a debt denominated in a foreign currency.” In George Weston, supra, this Court concluded that the CRA narrow view of a hedge did not find support in the law and concluded that a cross-currency swap employed by the taxpayer to protect its balance sheet debt to equity ratio was, in the circumstances of that case, a hedge for tax purposes. According to the Appellant, George Weston, supra, extended the scope of a hedge for tax purposes to include the hedging of instruments in addition to the hedging of transactions. As a consequence, the Appellant had to convince the Court of his intention in using the Forward Contract which was to generate a profit from an anticipated short‑term decrease in the value of the BNS shares and was not to hedge that anticipated decrease in said value. As a result, the Appellant had to gather, analyse and lead, at trial, extensive evidence, including expert evidence, on his trading activity to show his stated intention.
+[85] The Respondent argued that the tax issue in dispute, income versus capital, is not novel or new. She stated that “[t]he law on derivative and financial instruments used as hedging instruments, and the legal test for whether an adventure in the nature of trade existed, are well-established.”
+[86] I do not agree with the Respondent. I am of the view that this case was fairly complex and raised complicated issues. I agree with the Appellant that the volume of work was very significant and complex.
+[87] I am of the view that this factor supports an increased award of costs in favour of the Appellant.
+(f) The conduct of the parties.
+[88] The Appellant did not provide the Court with any submission in respect of this factor.
+[89] However, the following steps were taken by the Respondent to expedite the case:
+i) “Filing a partial consent judgment;
+ii) Preparing the parties’ joint book of documents; and
+iii) Preparing the schedules to the parties’ partial statement of agreed facts which contain the chronology of event which included comparisons for various transactions in terms of timing and amounts”.
+[90] Furthermore, I am of the view that the hearing was conducted in a very efficient and professional manner by both the Respondent and the Appellant.
+[91] I am of the view that this factor does not, by itself, support an increased award of costs in favour of the Appellant.
+(g) The justification of expert testimony.
+[92] The Appellant did not provide the Court with any submission in respect of this factor.
+[93] The usefulness of such expert evidence does not appear to have been in dispute between the parties. The Respondent, however, argued that the evidence presented by the Appellant’s expert witness “was neither intricate nor complex and his testimony lasted about one half day.”
+[94] I am of the view that the assistance of the experts’ testimony and expert reports in this appeal was necessary and extremely useful due to the complex nature of a forward contract and the large amount in issue in this appeal. As indicated above, experts’ testimonies lasted for two days; Mr. Kurgan testified for nearly a full day. The Respondent’s position is not sound.
+[95] I am of the view that this factor supports an increased award of costs in favour of the Appellant.
+3.5 Award of Costs for the period following the Post-Settlement Period including the Motion
+[96] The Appellant is also seeking substantial indemnity costs for the Motion, in the amount of $23,180.
+[97] The Respondent stated that the Appellant should not be awarded costs on the Motion since paragraph 151(1)(b) of the Rules provides that the costs of an application to extend time should be borne by the party making the application.
+[98] Paragraph 151(1)(b) reads as follows:
+151(1) Special Provisions . . .
+(b) the costs of or occasioned by an application to extend the time fixed by these rules or by a direction for doing an act, shall be borne by the party making the application,
+. . .
+151(1) Dispositions spéciales […]
+b) les frais entraînés directement ou indirectement par une demande de prolongation du délai fixé par les présentes règles ou par des directives pour l’accomplissement de tout autre acte doivent être supportés par la partie qui fait la demande;
+[…]
+[99] In Repsol, supra, this Court concluded that, given the wording of subsection 147(3.1) of the Rules, which provides for substantial indemnity costs after the date of the settlement offer and not only to the date of the judgment, substantial indemnity costs covers the cost for a motion for costs brought by the appellants.
+[100] However, here, the Appellant had to bring an application for an extension of time to make the Motion. Accordingly, in accordance with paragraph 151(1)(b) of the Rules, I will not award costs to the Appellant for the period following the Post-Settlement Period, including the Motion.
+[101] Each party shall bear their own costs for the period following February 16, 2017.
+3.6 Disbursements
+[102] The Respondent did not challenge the disbursements claimed by the Appellant.
+[103] Subsection 147(3.1) of the Rules allows reasonable disbursements and applicable taxes. I will therefore allow the disbursements claimed by the Appellant, which are as follows: an amount of $37,550 for the expert report and the filing of the notice of appeal and an amount of $1,711.35 for Neesons (court reporting) with applicable HST on this amount. The Appellant will also be allowed costs equal to an amount of $45,592.56 representing the applicable 13% HST on the professional fees totaling $350,712.
+VI. CONCLUSION
+[104] In conclusion, the Motion is granted and costs are awarded to the Appellant as follows:
+Post-Settlement Period: substantial indemnity costs of $300,712;
+Pre-Settlement Period: costs in a lump sum equal to $50,000;
+Disbursements: an amount of $37,550 for the expert report and the filing of the notice of appeal, an amount of $1,711.35 for Neesons (court reporting), and an amount of $222.35 representing 13% HST on this amount;
+HST: an amount of $45,592.56 representing 13% HST on the professional fees totaling $350,712;
+Period following the Post-Settlement Period, including the Motion: each party shall bear their own costs.
+Signed at Ottawa, Canada, this 16th day of March 2018.
+“Dominique Lafleur”
+Lafleur J.
+SCHEDULE “A”
+147(1) General Principles — The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+(2) Costs may be awarded to or against the Crown.
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(i.1) whether the expense required to have an expert witness give evidence was justified given
+(i) the nature of the proceeding, its public significance and any need to clarify the law,
+(ii) the number, complexity or technical nature of the issues in dispute, or
+(iii) the amount in dispute; and
+(j) any other matter relevant to the question of costs.
+(3.1) Unless otherwise ordered by the Court, if an appellant makes an offer of settlement and obtains a judgment as favourable as or more favourable than the terms of the offer of settlement, the appellant is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+(3.2) Unless otherwise ordered by the Court, if a respondent makes an offer of settlement and the appellant obtains a judgment as favourable as or less favourable than the terms of the offer of settlement or fails to obtain judgment, the respondent is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+(3.3) Subsections (3.1) and (3.2) do not apply unless the offer of settlement
+(a) is in writing;
+(b) is served no earlier than 30 days after the close of pleadings and at least 90 days before the commencement of the hearing;
+(c) is not withdrawn; and
+(d) does not expire earlier than 30 days before the commencement of the hearing.
+(3.4) A party who is relying on subsection (3.1) or (3.2) has the burden of proving that
+(a) there is a relationship between the terms of the offer of settlement and the judgment; and
+(b) the judgment is as favourable as or more favourable than the terms of the offer of settlement, or as favourable or less favourable, as the case may be.
+(3.5) For the purposes of this section, substantial indemnity costs means 80% of solicitor and client costs.
+(3.6) In ascertaining whether the judgment granted is as favourable as or more favourable than the offer of settlement for the purposes of applying subsection (3.1) or as favourable as or less favourable than the offer of settlement for the purposes of applying subsection (3.2), the Court shall not have regard to costs awarded in the judgment or that would otherwise be awarded, if an offer of settlement does not provide for the settlement of the issue of costs.
+(3.7) For greater certainty, if an offer of settlement that does not provide for the settlement of the issue of costs is accepted, a party to the offer may apply to the Court for an order determining the amount of costs.
+(3.8) No communication respecting an offer of settlement shall be made to the Court, other than to a judge in a litigation process conference who is not the judge at the hearing, until all of the issues, other than costs, have been determined.
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+(5) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+(c) to award all or part of the costs on a solicitor and client basis.
+(6) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) respecting increases over the amounts specified for the items in Schedule II, Tariff B,
+(b) respecting services rendered or disbursements incurred that are not included in Schedule II, Tariff B, and
+(c) to permit the taxing officer to consider factors other than those specified in section 154 when the costs are taxed.
+(7) Any party may,
+(a) within thirty days after the party has knowledge of the judgment, or
+(b) after the Court has reached a conclusion as to the judgment to be pronounced, at the time of the return of the motion for judgment,
+whether or not the judgment included any direction concerning costs, apply to the Court to request that directions be given to the taxing officer respecting any matter referred to in this section or in sections 148 to 152 or that the Court reconsider its award of costs.
+147(1) Règles générales — La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+(2) Des dépens peuvent être adjugés à la Couronne ou contre elle.
+(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+i.1) de la question de savoir si les dépenses engagées pour la déposition d’un témoin expert étaient justifiées compte tenu de l’un ou l’autre des facteurs suivants :
+(i) la nature du litige, son importance pour le public et la nécessité de clarifier le droit,
+(ii) le nombre, la complexité ou la nature des questions en litige,
+(iii) la somme en litige;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+(3.1) Sauf directive contraire de la Cour, lorsque l’appelant fait une offre de règlement et qu’il obtient un jugement qui est au moins aussi favorable que l’offre de règlement, l’appelant a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+(3.2) Sauf directive contraire de la Cour, lorsque l’intimée fait une offre de règlement et que l’appelant obtient un jugement qui n’est pas plus favorable que l’offre de règlement, ou que l’appel est rejeté, l’intimée a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+(3.3) Les paragraphes (3.1) et (3.2) ne s’appliquent que si l’offre de règlement :
+a) est faite par écrit;
+b) est signifiée au moins trente jours après la clôture de la procédure écrite et au moins quatre-vingt-dix jours avant le début de l’audience;
+c) n’est pas retirée;
+d) n’expire pas moins de trente jours avant le début de l’audience.
+(3.4) Il incombe à la partie qui invoque le paragraphe (3.1) ou (3.2) de prouver :
+a) qu’il existe un rapport entre la teneur de l’offre de règlement et le jugement;
+b) que le jugement est au moins aussi favorable que l’offre de règlement ou qu’il n’est pas plus favorable que l’offre de règlement, selon le cas.
+(3.5) Pour l’application du présent article, les dépens indemnitaires substantiels correspondent à 80% des dépens établis sur une base procureur-client.
+(3.6) Lorsqu’elle détermine que le jugement accordé est au moins aussi favorable que l’offre de règlement visée au paragraphe (3.1) ou qu’il n’est pas plus favorable que l’offre de règlement visée au paragraphe (3.2), la Cour ne tient pas compte des dépens qui sont accordés dans le jugement ou qui seraient par ailleurs accordés, si l’offre de règlement ne prévoit pas le règlement de la question des dépens.
+(3.7) Il est entendu que si une offre de règlement qui ne prévoit pas le règlement des dépens est acceptée, une partie au règlement peut demander à la Cour une ordonnance quant aux dépens.
+(3.8) Tant qu’une décision n’aura pas été rendue sur toutes les questions en litige, à l’exception de celle relative aux dépens, aucune communication concernant une offre de règlement n’est faite à la Cour, sauf à un juge qui préside une conférence dans le cadre d’une instance et qui n’est pas celui qui présidera l’audition de cet appel.
+(4) La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+(5) Nonobstant toute autre disposition des présentes règles, la Cour peut, à sa discrétion :
+a) adjuger ou refuser d’adjuger les dépens à l’égard d’une question ou d’une partie de l’instance particulière;
+b) adjuger l’ensemble ou un pourcentage des dépens taxés jusqu’à et y compris une certaine étape de l’instance;
+c) adjuger la totalité ou partie des dépens sur une base procureur-client.
+(6) La Cour peut, dans toute instance, donner des directives à l’officier taxateur, notamment en vue :
+a) d’accorder des sommes supplémentaires à celles prévues pour les postes mentionnés au tarif B de l’annexe II;
+b) de tenir compte des services rendus ou des débours effectués qui ne sont pas inclus dans le tarif B de l’annexe II;
+c) de permettre à l’officier taxateur de prendre en considération, pour la taxation des dépens, des facteurs autres que ceux précisés à l’article 154.
+(7) Une partie peut :
+a) dans les trente jours suivant la date à laquelle elle a pris connaissance du jugement;
+b) après que la Cour a décidé du jugement à prononcer, au moment de la présentation de la requête pour jugement,
+que le jugement règle ou non la question des dépens, demander à la Cour que des directives soient données à l’officier taxateur à l’égard des questions visées au présent article ou aux articles 148 à 152 ou qu’elle reconsidère son adjudication des dépens.
+CITATION:
+2018 TCC 55
+COURT FILE NO.:
+2013-4032(IT)G
+STYLE OF CAUSE:
+JAMES S.A. MACDONALD
+AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+February 13, 14, 15 and 16, 2017
+REASONS FOR ORDER BY:
+The Honourable Justice Dominique Lafleur
+DATE OF ORDER:
+March 16, 2018
+APPEARANCES:
+Counsel for the Appellant:
+James Bunting
+Elie Roth
+Stephen S. Ruby
+Counsel for the Respondent:
+Suzanie Chua
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+James Bunting
+Elie Roth
+Stephen S. Ruby
+Firm:
+Davies Ward Phillips & Vineberg LLP Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

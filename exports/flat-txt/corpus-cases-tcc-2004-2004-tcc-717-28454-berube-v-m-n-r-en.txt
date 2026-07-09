@@ -1,0 +1,267 @@
+Title: Berube v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28454/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-717-28454-berube-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-11-10
+
+# Berube v. M.N.R.
+
+- Citation: 2004 TCC 717
+- Decision date: 2004-11-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1188, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Berube v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-10
+Neutral citation
+2004 TCC 717
+File numbers
+2003-852(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-852(EI)
+BETWEEN:
+ALAIN BÉRUBÉ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Louise Robichaud (2003-855(EI)) and Donald Charrette (2003-853(EI))
+on October 4, 2004, at Matane, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Édouard Côté
+Counsel for the Respondent:
+Agathe Cavanagh
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister of National Revenue is
+reversed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of November 2004.
+“François Angers”
+Angers J.
+Translation certified true
+on this 29th day of March 2005.
+Elizabeth Tan, Translator
+Docket: 2003-855(EI)
+BETWEEN:
+LOUISE ROBICHAUD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Alain Bérubé (2003-852(EI)) and Donald Charrette (2003-853(EI))
+on October 4, 2004, at Matane, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Édouard Côté
+Counsel for the Respondent:
+Agathe Cavanagh
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister of National Revenue is
+reversed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of November 2004.
+“François Angers”
+Angers J.
+Translation certified true
+on this 29th day of March 2005.
+Elizabeth Tan, Translator
+Docket: 2003-853(EI)
+BETWEEN:
+DONALD CHARETTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Alain Bérubé (2003-852(EI)) and Louise Robichaud (2003-855(EI))
+on October 4, 2004, at Matane, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Édouard Côté
+Counsel for the Respondent:
+Agathe Cavanagh
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister of National Revenue is
+reversed in accordance with the attached Reasons for Decision.
+Signed at Ottawa, Canada, this 10th day of November 2004.
+“François Angers”
+Angers J.
+Translation certified true
+on this 29th day of March 2005.
+Elizabeth Tan, Translator
+Citation: 2004TCC717
+Date: 20041110
+Dockets: 2003-852(EI)
+2003-855(EI)
+2003-853(EI)
+BETWEEN:
+ALAIN BÉRUBÉ,
+LOUISE ROBICHAUD,
+DONALD CHARETTE,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] These are appeals of an assessment by the Minister of National Revenue (the “Minister”), dated December 11, 2002, stating that the Appellants’ employment with the company 9033-2024 Quebec Inc., operating as Charette Cycle (hereinafter Charette Cycle), was not insurable within the meaning of the Employment Insurance Act (EIA). These appeals were heard on common evidence.
+[2] In Alain Bérubé’s case, the period in question is from February 25 to June 8, 2001. The Minister claimed that the employment did not meet the requirements of a contract of service and that there was no employer-employee relationship between the Appellant and Charette Cycle because they made an arrangement that would allow the Appellant to be eligible for employment insurance benefits.
+[3] The periods in question in the Appellant Louise Robichaud’s case are from March 9 to September 18, 1998, April 4 to September 13, 1999, and from November 1, 1999, to March 4, 2000. For these periods, the Respondent claims that the Appellant’s employment with Charette Cycle was not insurable because it did not fill the requirements for a genuine contract of service and there was no employer-employee relationship between her and Charette Cycle because they made an arrangement that would make the Appellant eligible for employment insurance benefits. The Minister determined, in the same decision, that the Appellant’s employment from March 5 to August 4, 2000, and from April 2 to August 31, 2001, was insurable employment.
+[4] As for the Appellant Donald Charette’s case, the periods in question are from February 2 to March 13, 1998, May 11, 1998, to February 12, 1999, April 5 to December 10, 1999, and from July 17 to September 29, 2000. The Respondent claims that his employment is not insurable because he does not meet the requirements for a contract of service and there is no employer-employee relationship between him and Charette Cycle. In the alternative, the Respondent claims, after having examined the terms and conditions of employment, that a similar employment contract would not have been drawn up if Charette Cycle and the Appellant had been dealing at arm’s length.
+[5] Charette Cycle was incorporated on March 28, 1996. During the periods in question, Luc Charette was the sole shareholder. The Appellant Donald Charette is Luc Charette’s brother. Charette Cycle runs a business in St-Gabriel, Quebec, that sells parts for and repairs motorcycles. At the business site, he runs a Sears catalogue counter. According to the owner, the proportion of his sales figure that comes from the Sears counter is around 20%, whereas the figures provided show a lower percentage. This business operates throughout the year, but the busiest time is during the spring and summer. It is open from Monday to Friday, 9:00 a.m. to 5:00 p.m., except Thursdays and Fridays, when it closes at 9:00 p.m.
+[6] Except for the facts stated above, the Appellant’s representative denied the presumptions of fact on which the Minister’s decisions were based. Below are statements from each of the Appellants’ files:
+Alain Bérubé:
+[translation]
+The Respondent, the Minister of National Revenue, based his decision on the following presumptions of fact:
+. . .
+(e) the Payor’s financial statements showed the following:
+2001
+gross income 105806
+profit (loss) ($4,281)
+(f) repairs and the sale of design parts made up 95% of the Payor’s sales figures for the year in question;
+(g) the company operated all year, but the busiest time of year for the Payor was the spring and summer;
+(h) business hours were from 9:00 a.m. to 5:00 p.m. Monday to Wednesday, and 9:00 a.m. to 9:00 p.m. Thursday and Friday;
+(i) on an undetermined date, the Payor hired the Appellant as a mechanic;
+(j) during the period in question, the Appellant was on the Payor’s payroll for 15 consecutive weeks of work at 40 hours per week;
+(k) during the period in question, the Appellant’s wages were allegedly $12.00 per hour, and the Appellant’s alleged paycheques were signed by him and deposited into the Payor’s bank account;
+(l) the Payor and the Appellant claimed that the Appellant’s salary was paid in cash, whereas the Payor’s entire billing for 2001 only came to a total of 207.5 hours of billed work;
+(m) during the period in question, there were only 87.25 hours of repairs billed by the Payor, whereas the Appellant appears on the payroll for 600 hours;
+(n) before the period in question, the Appellant provided some services to the Payor without appearing on the payroll;
+(o) the Payor’s payroll does not reflect reality regarding the hours the Appellant actually worked;
+(p) there was no mechanic on the Payor’s payroll to work on motors and transmissions following the Appellant’s alleged dismissal, whereas the Payor’s income from the sale of parts and repairs was the same for the months following the periods in question;
+(q) the Appellant’s alleged periods of work do not correspond to the Payor’s busiest periods;
+(r) on June 15, 2001, the Payor issued a record of employment to the Appellant, which indicated the first day of work as February 26, 2001, and the last day of work June 8, 2001, 600 insurable hours, and total insurable earnings of $7,488.00;
+(s) the Appellant needed 600 hours in order to qualify for employment insurance benefits;
+(t) the Payor and the Appellant had an arrangement so that the Appellant could qualify for employment insurance benefits.
+Louise Robichaud:
+[translation]
+The Respondent, the Minister of National Revenue, based his decision on the following presumptions of fact:
+. . .
+(d) The Sears counter was open all year, whereas the motorcycle-related activities took place mainly from March to September.
+(e) The Payor hired the Appellant as sales clerk for the Sears counter.
+(f) The Appellant and Mr. Charette are the only people who work at the Sears counter.
+(g) The Appellant was to work at the Sears counter mainly during the high season for motorcycles since Mr. Charette would spend much more time on motorcycle repairs.
+(h) The Appellant’s main duties were to take care of the Sears counter, order parts, prepare invoices, make deposits, take care of maintenance, and open and close the store.
+(i) The Appellant did not have set work hours; she came in according to the Payor’s needs, and the Payor did not keep track of her hours.
+(j) When she appeared on the payroll, the Appellant was sometimes shown as working 40 or 44 hours per week, sometimes for the same number of hours over two weeks, and sometimes for only seven hours per week.
+(k) During and between the periods in question, the Appellant provided services to the Payor without appearing on the payroll.
+(l) On October 8, 1998, the Payor issued a record of employment for the Appellant, number A65227751, that indicated she had started working on March 9, 1998, and finished on September 18, 1998.
+(m) In her statutory declaration, signed and dated February 26, 2002, the Appellant admitted that her record of employment was false in terms of the first day of work, since she started working part time in August 1997.
+(n) On August 20, 1999, the Payor issued a record of employment for the Appellant, number A66090363, that indicated she had started working on December 21, 1998, and finished on August 13, 1999. On September 1, 1999, the Payor amended the date the Appellant started work and stated that she started on April 4, 1999.
+(o) In her statutory declaration, signed and dated February 26, 2002, the Appellant admitted that her record of employment was false in terms of the first day of work, since she had gone back to work for the Payor on or around September 24, 1998.
+(p) On August 22, 2000, the Payor issued a record of employment for the Appellant, number A70065619, indicating that she had started working on November 1, 1999, and finished on August 4, 2000.
+(q) In her statutory declaration, signed and dated February 26, 2002, the Appellant admitted that her record of employment was false in terms of the first day of work, since she had gone back to work for the Payor on or around August 25, 1999.
+(r) The Appellant’s alleged periods of employment, between March 9, 1998, and March 4, 2000, do not correspond to the Payor’s periods of high activity or with the periods the Appellant actually worked.
+(s) There was an arrangement between the parties that would allow the Appellant to qualify for employment insurance benefits.
+Donald Charette:
+[translation]
+The Respondent, the Minister of National Revenue, based his decision on the following presumptions of fact:
+. . .
+(f) the Payor’s financial statements indicated the following:
+1997
+1998
+1999
+2000
+gross income
+$80,331
+$109,242
+$107,492
+$105,806
+profit (loss)
+($1,849)
+$4,650
+($2,867)
+$5,115
+(g) motorcycle repairs and the sale of parts made up 95% of the Payor’s sales figures for the years in question;
+(h) the company operated all year, but the Payor’s busiest time of year was the spring and summer;
+(i) business hours were from 9:00 a.m. to 5:00 p.m. Monday to Wednesday and 9:00 a.m. to 9:00 p.m. Thursday and Friday;
+(j) the Appellant was hired as a mechanic and motorcycle assembler;
+(k) during the periods in question, the Appellant was on the Payor’s payroll for work weeks varying from 7 to 50 hours per week;
+(l) the Appellant’s alleged paycheques were signed by the Appellant and deposited to the Payor’s bank account, whereas the Appellant, when paid, was paid in cash;
+(m) the Appellant’s work periods did not correspond to the Payor’s busiest periods;
+(n) the Payor’s payroll did not reflect reality in terms of the hours and weeks the Appellant actually worked;
+(o) on March 19, 1998, the Payor issued a record of employment to the Appellant, indicating the first day of work was February 2, 1998, the last day of work, March 13, 1998, 300 insurable hours, and total insurable earnings of $3,000.00;
+(p) on February 26, 1999, the Payor issued a record of employment to the Appellant, indicating the first day of work was May 11, 1998, the last day of work, February 12, 1999, 592 insurable hours, and insurable earnings for 11 weeks at a weekly salary of $447.20, and 5 weeks at a weekly salary of $50.96;
+(q) on December 17, 1999, the Payor issued a record of employment to the Appellant, indicating the first day of work was April 5, 1999, the last day of work, December 10, 1999, 516 insurable hours, and total insurable earnings of $4,711.20;
+(r) on October 2, 2000, the Payor issued a record of employment to the Appellant, indicating the first day of work was July 17, 2000, and the last day, September 29, 2000, 462 insurable hours, and total insurable earnings of $4,638.40;
+(s) the Appellant worked for the Payor while receiving employment insurance benefits;
+(t) the Payor and the Appellant had an arrangement that allowed the Appellant to receive employment insurance benefits while working for the Payor.
+[7] According to the owner, Luc Charette, his company mainly repaired, built and assembled various brands of motorcycles, including Harley Davidson. It was located in a three-storey building in St-Gabriel, a small village of 2000 people. He had been running his company since May 1996. He did not have any professional training in mechanics, but learned as he went. In the beginning, he had an associate, but he bought this associate’s shares before the periods in question. His brother, Donald Charette, then became his mechanic but after he was hurt in an accident, he hired the Appellant Alain Bérubé as a mechanic from February 26 to June 8, 2001.
+[8] He explained to the Court that during the winter months, the company mostly assembled motorcycles according to the clients’ requirements and tastes. He considered this work long-term contracts since they were spread out over more than six weeks, especially when it involved dismantling parts to have them chrome-plated, painting the structure, and assembling everything once the parts came back. This type of contract is done at a set price and he does not need to keep track of his mechanic’s time. In fact, the mechanic’s time is only calculated when he works for clients by the hour.
+[9] He keeps what he calls a draft of the hours devoted to a client, but these hours do not appear on the set-price invoices where the mechanic’s time was already indicated. He added that he provided his mechanics with the required tools and that he was the one who gave them their work duties.
+[10] The Appellant Alain Bérubé was hired to work 40 hours per week for a net salary of $300 per week, which was converted to gross by Charette Cycle’s accountant. According to Luc Charette, the Appellant did everything that was related to mechanics, and also did welding, painting and made parts. The Appellant was paid by cheque every week. The Appellant signed his cheques, which were cashed at the local Caisse Populaire by Luc Charette or Louise Robichaud. Luc Charrette claimed that he never deposited his employees’ paycheques into Charette Cycle’s account. In the spring, he re-hired the Appellant Louise Robichaud to work at the reception and at the Sears counter, and he went back to what he called minor mechanics and the summer routine. He claimed he did not need a mechanic during the active season and that he took care of the mechanical work himself, when required.
+[11] The Appellant Alain Bérubé was already working at a garage as a mechanic when Luc Charette contacted him. Since he could not work enough weeks for his employer to be eligible for employment insurance benefits every year, he agreed to work for Charette Cycle. He was offered 40 hours per week at $12 an hour, $1 more than with his former employer. He admitted that he was paid by the week. His hours varied between 35 and 43 hours. He was dismissed on June 8, 2001, because, in his opinion, most of the work was done and Luc Charette took care of the little jobs. He claims that he signed his paycheques and Luc would go cash them at the Caisse Populaire then give him the amount in cash. He received his pay late only once. His net pay was $370.67 and the cheques submitted as evidence were all first signed by the Appellant Alain Bérubé and then by Luc Charette or by the Appellant Louise Robichaud after May 18, 2001.
+[12] The Appellant Louise Robichaud had been working for Charette Cycle since 1996. She was hired as a receptionist for Charette Cycle and the Sears counter. She also opened and closed the business when she worked there. She was hired at $300 net per week for 40-hour weeks, during the company’s business hours. She was unemployed during what Luc Charette considered the off-season. According to Luc Charette, Ms. Robichaud sometimes worked every second week when he had to be away, sometimes only 7 hours a week and she also went to the place of business every day during his sick leave in 2000. Ms. Robichaud lives a seven-minute walk away from the place of business.
+[13] In her testimony, Ms. Robichaud explained that she started working at Charette Cycle in March 1998. She worked there until September 18, 1998. She worked there again from April 4, 1999, until September 13, 2000. These are the periods in question. She pointed out that from March 5 to August 4, 2000, and from April 2 to August 31, 2001, her job was insurable. She explained that her work was always the same. She worked at the Charette Cycle and the Sears counters, and she followed her employer’s instructions. Her net salary varied between $250 and $300 per week.
+[14] From August to November 2000, Ms. Robichaud received unemployment benefits during her sick leave. On the advice of her doctor, she went for walks. Since St-Gabriel is a small village, she stopped in at Charette Cycle and occasionally, at Luc Charette’s request, she would make the company’s bank deposit. She said she did this a few times. She does not remember working every other week, but claimed that she worked 7 hours a week occasionally.
+[15] Ms. Robichaud provided two declarations to the Respondent’s representatives, one on October 4, 2001, and another on February 26, 2002. The main difference between the two, according to her testimony, is the dates on her records of employment. In the second declaration, she admits stating that the first day of work was false, but she did so when pressured by two representatives, Mr. Trudel and Mr. D’Amours. She did not fill it in and does not agree with its content regarding the dates. According to her testimony, the dates on the records of employment are true and despite the fact that she declared the date on the last record to be false, the Minister considered her employment insurable. She admits that she made a few bank deposits during her period of unemployment, to be accommodating.
+[16] The Appellant Donald Charette was hired in 1998. He was a motorcycle mechanic in Québec City before he was hired. He worked 40 hours a week, during business hours, and received a weekly net pay of $300. From February to March 1998, he received $10 an hour, from May 10 to September 26 of the same year, he received $7.28 an hour. Luc Charette explained that he asked his brother to work a seven-hour day to help out, and his brother declared it on his unemployment cards. He called it "paying for the teacher." The hourly rate varied because he paid the Appellant based on a net salary and let the accountant calculate the gross salary. Luc Charette denied having deposited his brother's paycheques in the Charrette Cycle account or his own. He admits he signed the cheques, but claimed that he gave his brother cash. The Appellant Donald Charette did not testify.
+[17] The Respondent had Denis Trudel testify. He has been an investigator since 1992. Following an anonymous tip about the jobs of the Appellants Donald Charette and Louise Robichaud, he met with the Appellant Louise Robichaud and went to Charette Cycle afterwards. Luc Charette cooperated fully and gave Mr. Trudel the relevant documentation. From this documentation, he established a table of Charette Cycle's typical operations from 1996 to 2001. For each year, the table shows the periods worked by the employees and the periods they were receiving employment insurance benefits, the hours billed for the mechanics' work, the amount of sales from parts and service, the sale of clothes, the sales from the Sears counter, the dates of bank deposits made by the Appellant Louise Robichaud and the number of parts bought by Charette Cycle. Each year is calculated by week and by month, depending on the case. The billed hours do not identify the mechanic and the number of hours always appears to be minimal. Mechanics’ hours were billed while the Appellants Donald Charette or Alain Bérubé were unemployed, but it is true that Luc Charette was always there and he also did mechanic work.
+[18] As for the bank deposits made by Louise Robichaud, the table shows that she made some deposits during her period of unemployment and during periods of work, but not necessarily every day. Mr. Trudel added that in 1998, the purchase of parts in May, for $12,285, was high during a time when the Appellant Donald Charette only worked 7 hours a week and was on unemployment. In January 1999, while the Appellant Donald Charette was working full time, parts were purchased for $946, whereas in May, a month in which he only worked a few hours, parts were purchased for $7,822. In 2001, Mr. Trudel noticed that when the Appellant Alain Bérubé worked full time, there were almost no hours billed for the mechanic, but during the period he was unemployed, there were many more. Also, the company registered high sales figures for June, July, and August, when the Appellant Alain Bérubé was unemployed. There is no declaration in Donald Charette's file.
+[19] As for the Appellant Louise Robichaud, Mr. Trudel stated that the first day of work stated on the record of employment was false, since she allegedly made deposits in the weeks preceding this date. Based on this information, he maintained his position that the records of employment do not reflect reality.
+[20] Therefore, the Appellants had to show, on a balance of probabilities, that the Minister's position in this case is erroneous and that the assumptions of fact on which the decision was based were false. The evidence produced by the Appellants shows us a company that did not have what we would call sound management. The testimony given by its owner, Luc Charette, supports this opinion. I need only point out his way of setting prices for repairs and personalizing motorcycles or charging one price to have parts chrome-plated and having all these prices include his work or that of his mechanic. This explains why there is so little time that accounts for his mechanics' work on the invoices. The evidence also showed that a major part of this work of repairing and personalizing motorcycles can be done late in the fall or during the winter months and not during the motorcycle season when the clients want to use their bikes. The billing was often done when the repairs were finished, and this could take many weeks. Luc Charette does not have a structured billing method that allows for his company's business to be assessed on a monthly basis.
+[21] Luc Charette's testimony was far from accurate. He claimed to have hired the Appellant Alain Bérubé at a net weekly salary of $300 whereas the cheques filed as evidence and the testimony of the Appellant himself show that he received $370 net. Luc Charette claimed to have hired the Appellant Louise Robichaud in 1996 whereas she testified that it was in 1998 that she was hired. Mr. Trudel's tables support Ms. Robichaud. Despite this lack of accuracy, I cannot reject Mr. Charette's testimony in its entirety. Although he seems disorganized in his work, the explanations he gave on his company’s productivity seem credible.
+[22] In the case of the Appellant Alain Bérubé, the Minister's decision was based on the fact that the Appellant apparently only worked the required number of hours necessary to be eligible for employment insurance benefits, even though Charette Cycle's sales figures were increasing. Luc Charette explained this state of affairs in his testimony by stating that most of the mechanic's work is done during the winter months and that, during the summer, he can do this work himself. The sales of parts and services were combined in the table Mr. Trudel prepared so that it was impossible to identify the income from services rendered compared to the sale of parts. The billed hours did not identify the name of the employee who worked, so there is no basis for the presumption of fact in sub-paragraphs (l) and (m) of the Reply to the Notice of Appeal.
+[23] As for the presumption of fact in sub-paragraph (n) of the Reply to the Notice of Appeal, the evidence showed that Mr. Bérubé left his job with JLP to go to Charette Cycle. He therefore did not render any services before the period in question. The fact that the owner took care of the mechanic's work after Mr. Bérubé's departure suggests that the company had as much income from the sale of parts as from repairs. Finally, the Appellant's paycheques were not deposited to Charette Cycle's bank account as the Minister claims.
+[24] The Appellant Alain Bérubé has therefore his the burden of proof in this case, and his appeal is allowed in that he held insurable employment during the period in question.
+[25] In the case of the Appellant Louise Robichaud, the question to ask is whether she rendered services to Charette Cycle while receiving employment insurance benefits. The Respondent’s evidence relies on the fact that the Appellant's work schedule, while she was on the payroll, was not consistent in that she sometimes worked 40 to 44 hours per week, sometimes every second week, and sometimes only 7 hours per week. Moreover, the records of employment were false regarding the first day of work, and finally, the Appellant's periods of employment do not correspond to the high-activity periods at Charette Cycle.
+[26] In this case, Luc Charette provided explanations about the Appellant's work schedule, saying she was first hired on a weekly basis that corresponded to the company's business hours. He also explained why she could work every second week, or even 7 hours a week. This is because he had to be away and during his absence, he needed the Appellant to be at the place of business. When the Appellant was away, Luc Charette took care of all the company's activities except the bank deposits, which would have required him to go to the bank.
+[27] As for the controversy surrounding the first day of work, the investigator Trudel based his findings on the fact that the Appellant allegedly made a bank deposit for Charette Cycle's account a day or a few days before her job started. In his testimony, Mr. Trudel confirmed that he had no other evidence to establish that the Appellant did in fact start working before the date indicated. In this case, I do not feel that a mere bank deposit is enough to establish that the Appellant started and produced a day of work within the usual meaning. As for the Appellant's periods of employment, in relation to the busy periods at Charette Cycle, for the periods in question it is hard for me to establish a link because, in 1998, she worked for her employer from March 8 to September 18, 1998, and from April 4 to August 15, 1999, and from October 1999 to February 27, 2000, part time or every second week, during the busy periods.
+[28] Mr. Trudel's table clearly shows that the Appellant made deposits to Charette Cycle's account when she was receiving employment insurance benefits, and she admits this. Some of these deposits were made during the periods she worked for the employer. These deposits were not made on a regular basis and I accept the Appellant's explanations when she says she was helping out voluntarily during her walks in the village and visits to Charette Cycle. Nothing in the evidence presented seems to show that Ms. Robichaud provided more services than the ones that were described. For these reasons, the appeal is allowed and, during the periods in question, the Appellant Louise Robichaud's job was insurable employment.
+[29] In the case of the Appellant Donald Charette, the Minister claimed that he allegedly worked for Charette Cycle while receiving employment insurance benefits, and that he had an agreement with Charette Cycle so that he would be eligible for benefits during the periods in question. In the alternative, it was proposed that his job was not insurable because they were not dealing at arm's length, and his work conditions would not have been the same if they had been dealing at arm's length.
+[30] As for the first claim, the Minister stated that the busiest period for Charette Cycle is in the spring and summer, and although this claim was supported by the sales figures, the evidence presented by the Appellants shows that this was not the case for a mechanic's work. In fact, the evidence showed that a mechanic's presence is required in the fall, during the winter and the beginning of spring when long-term repairs and renovations are done on motorcycles so that the clients can use their motorcycles during the spring‑summer period. It is therefore hard to make a connection between the company's needs in terms of a mechanic's services and the company's sales figures. Moreover, according to Luc Charette, he did the minor mechanic's work himself during the busy periods. This also explains why the Appellant's hours were reduced during the summer months when his services were not as in demand and when he just seemed to be giving Luc Charette a hand.
+[31] As in the case of the Appellant Alain Bérubé, the Minister's claim that the Appellant's paycheques were deposited to Charette Cycle's accounts was erroneous. The evidence presented by the Appellant persuaded me that this was not the case. I therefore find that the Appellant's job during the periods in question was insurable employment since he meets the requirements of a genuine contract of service in that there was no arrangement between Charette Cycle and the Appellant.
+[32] As for the Minister's alternative submission, I must point out that neither the appeals officer nor the Appellant Donald Charette testified at this case. In my opinion, the evidence presented by the parties on the terms of employment, the length, type and importance of the work done is identical, for all intents and purposes, whether or not there is an arm's-length relationship, except for the Appellant's greater experience, which would justify a higher salary.
+[33] In my opinion, the facts retained by the Minister were not correctly assessed. Given these reasons, his finding does not seem reasonable to me in this case. The appeal of Donald Charette is therefore allowed.
+Signed at Ottawa, Canada, this 10th day of November 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 18th day of March 2005.
+Elizabeth Tan, Translator
+REFERENCE: 2004TCC717
+COURT FILE NUMBERS: 2003-852(EI), 2003-855(EI), 2003-853(EI)
+STYLES OF CAUSE: ALAIN BÉRUBÉ, LOUISE ROBICHAUD, DONALD CHARETTE AND M.N.R.
+PLACE OF HEARING: Matane, Quebec
+DATE OF HEARING: October 4, 2004
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: November 10, 2004
+APPEARANCES:
+Counsel for the Appellants:
+Edouard Côté
+Counsel for the Respondent:
+Agathe Cavanagh
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Edouard Côté
+Firm: Guay Côté Desaulniers Ouellet (S.E.N.C.)
+Avocats
+For the Respondent: Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Ontario

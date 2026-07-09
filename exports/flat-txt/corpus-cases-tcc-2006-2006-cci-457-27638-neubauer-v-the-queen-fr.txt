@@ -1,0 +1,135 @@
+Title: Neubauer v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27638/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-457-27638-neubauer-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-08-11
+
+# Neubauer v. The Queen
+
+- Citation: 2006 CCI 457
+- Decision date: 2006-08-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 394, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Neubauer v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-08-11
+Référence neutre
+2006 CCI 457
+Numéro de dossier
+2005-4398(IT)I
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4398(IT)I
+ENTRE :
+PETER J. NEUBAUER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 24 juillet 2006 à Hamilton (Ontario)
+Devant : L'honorable juge M.A. Mogan
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Craig Maw
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre de cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000, 2001 et 2002 sont rejetés.
+Signé à Ottawa, Canada, ce 11e jour d'août 2006.
+« M.A. Mogan »
+Juge suppléant Mogan
+Traduction certifiée conforme
+ce 2e jour d'avril 2007.
+Jean David Robert, traducteur
+Référence : 2006CCI457
+Date : 20060811
+Dossier : 2005-4398(IT)I
+ENTRE :
+PETER J. NEUBAUER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Mogan
+[1] L'appelant se livre à la vente de franchises et il travaille à son propre compte ou exploite une entreprise individuelle depuis 1993. Il s'est mis à cotiser à un régime enregistré d'épargne-retraite (ci-après « REER » ) en 1993. Au cours de la période de 1997 à 2002 inclusivement, l'appelant a versé des cotisations significatives à son REER. En mai 2005, le ministre du Revenu national (le « ministre » ) a fixé l'impôt à payer sur l' « excédent cumulatif [de l'appelant] au titre de régimes enregistrés d'épargne-retraite » aux montants suivants en vertu du paragraphe 204.1(2.1) de la Loi de l'impôt sur le revenu (la « Loi » ) :
+2000
+4 363,96 $
+2001
+3 451,56
+2002
+2 858,72
+[2] L'appelant s'est opposé aux cotisations mentionnées ci-dessus et en a appelé en faisant valoir qu'il n'était pas tenu de payer l'impôt qui avait été fixé aux montants indiqués ci-dessus en vertu du paragraphe 204.1(2.1) de la Loi.
+[3] Les pièces R-2 à R-7 et le témoignage oral de l'appelant prouvent qu'il a versé les cotisations suivantes à son REER pour les années d'imposition suivantes :
+1997
+30 000 $
+1998
+40 000
+1999 et 2000
+20 000
+2001
+500
+2001 et 2002
+20 000
+2002
+2 500
+Bien que les cotisations aient été versées chaque année comme il est indiqué dans la table ci-dessus, l'appelant n'a pas produit de déclarations de revenus pour chacune des années visées comme l'exige la Loi. Compte tenu de la pièce R-1, j'arrive à la conclusion que ses déclarations de revenus pour la période de 1995 à 2000 ont été produites en 2001. L'appelant a témoigné que les années 1996 et 1997 avaient été très stressantes pour lui parce que son frère et sa belle-soeur étaient décédés pendant cette période.
+[4] Étant donné que l'appelant ne produisait pas ses déclarations de revenus en temps opportun, il ne déduisait pas tous les ans les cotisations qu'il versait chaque année à son REER. Lorsque ses déclarations de revenus pour la période de 1995 à 2000 ont été produites en 2001, il a déduit dans le calcul de son revenu les cotisations qu'il a versées à son REER pour les années concernées. Il semble que la production de cinq ou six déclarations de revenus en 2001 pour la période de 1995 à 2000 a porté l'Agence du revenu du Canada à examiner de plus près les cotisations versées au REER de l'appelant. Celui-ci a affirmé avoir rencontré plus d'une fois des fonctionnaires de l'Agence du revenu du Canada pour discuter de son excédent possible de cotisations, et, sur leur conseil, il a retiré 40 000 $ de son compte de REER en 2002.
+[5] De l'avis de l'appelant, les 40 000 $ versés en cotisations à son REER en 1998 sont la source de son problème avec l'Agence du revenu du Canada. C'est peut-être le cas, mais je pense qu'en plus il ne s'est pas rendu compte de l'effet cumulatif des cotisations importantes versées subséquemment. La partie X.1 de la Loi prévoit un impôt spécial et, puisqu'il est si différent des autres types d'impôt sur le revenu, je reproduirai ci-dessous des extraits choisis et abrégés de la Loi :
+204.1(2.1) Le particulier qui, à la fin d'un mois donné postérieur au mois de décembre 1990, a un excédent cumulatif au titre de régimes enregistrés d'épargne-retraite doit, pour ce mois, payer un impôt selon la présente partie égal à 1 % de cet excédent.
+204.2(1.1) L'excédent cumulatif d'un particulier au titre des régimes enregistrés d'épargne-retraite à un moment donné d'une année d'imposition correspond à l'excédent éventuel du montant visé à l'alinéa a) sur le montant visé à l'alinéa b) :
+a) les primes non déduites, à ce moment, qu'il a versées à des régimes enregistrés d'épargne-retraite;
+b) le résultat du calcul suivant :
+A + B + R + C + D + E
+où
+A [...]
+204.2(1.2) Pour l'application du paragraphe (1.1) et de l'élément K de la formule figurant au paragraphe (1.3), les primes non déduites, à un moment donné d'une année d'imposition, qu'un particulier a versées à des régimes enregistrés d'épargne-retraite sont calculées selon la formule suivante :
+H + I - J
+où
+H [...]
+[6] L'impôt prévu à la partie X.1 de la Loi est unique en son genre parce qu'il s'agit d'un impôt de seulement 1 % qui n'est payable par un particulier que pour les mois postérieurs à 1990 où il a un « excédent cumulatif au titre de régimes enregistrés d'épargne-retraite » à la fin du mois. Lorsqu'il s'agit de statuer sur l'assujettissement d'un particulier à l'impôt prévu à la partie X.1, il est nécessaire de se demander si celui-ci a un « excédent cumulatif au titre de régimes enregistrés d'épargne-retraite » à la fin d'un mois donné. Comme le prévoit le paragraphe 204.2(1.1) de la Loi reproduit ci-dessus, cet excédent cumulatif correspond à l'excédent des primes non déduites que le particulier a versées à des REER à un moment donné sur le total de six éléments positifs (A + B + R + C + D + E).
+[7] L'expression « primes non déduites versées à des régimes enregistrés d'épargne-retraite » est décrite au paragraphe 204.2(1.2) comme le total de deux éléments positifs (H + I) moins un élément négatif (J). Puisque la formule peut être appliquée « à un moment donné d'une année d'imposition » , l'élément positif « H » correspond au montant des primes versées à des REER qui n'ont pas été déduites pour les années d'imposition se terminant avant 1992, et l'élément positif « I » est une prime versée au cours de l'année, mais avant le moment donné. Le mot « prime » est défini au paragraphe 146(1) comme étant une somme payée en vertu d'un régime d'épargne-retraite soit « à titre d'apport, de contribution ou de dépôt » .
+[8] À la lumière de ce qui précède, j'arrive à la conclusion que l'élément principal dans l' « excédent cumulatif [d'un particulier] au titre de régimes enregistrés d'épargne-retraite » (au sens du paragraphe 204.1(2.1) de la Loi) est la somme des primes que le particulier a versées à titre d'apport, de contribution ou de dépôt en vertu de son régime. À l'audition du présent appel, l'appelant n'a produit aucune preuve qui m'aurait permis de comparer (i) la somme des cotisations réellement versées à son REER au cours de la période de 1997 à 2002 indiquée au paragraphe 3 ci-dessus avec (ii) les montants annuels de primes qu'il avait le droit de déduire dans le calcul de son revenu pour chacune des années 1997 à 2002. Par conséquent, la preuve ne permet pas de déterminer si l'appelant avait un « excédent cumulatif au titre de régimes enregistrés d'épargne-retraite » pour un mois donné au cours des années 2000, 2001 et 2002.
+[9] Si l'appelant fait valoir que les cotisations significatives qu'il a versées à son REER ne doivent pas être cumulatives, il se heurte à la Loi parce que la définition de l'expression « primes non déduites versées à des régimes enregistrés d'épargne-retraite » donnée aux paragraphes 204.2(1.1) et (1.2) énonce clairement que toutes les cotisations versées à un REER après 1991 doivent être prises en considération.
+[10] Le paragraphe 204.1(4) confère au ministre le pouvoir discrétionnaire de renoncer à l'impôt prévu au paragraphe 204.1(2.1) si le l'excédent ou l'excédent cumulatif fait suite à une erreur acceptable et que les mesures indiquées pour éliminer l'excédent ont été prises. Si l'appelant cherche à être déchargé de l'obligation de payer l'impôt en invoquant une erreur acceptable, la Cour ne peut exercer le pouvoir discrétionnaire du ministre et n'a pas la compétence pour contrôler la façon dont le ministre exerce son pouvoir discrétionnaire. L'appelant doit présenter une demande à la Cour fédérale.
+[11] Les appels visant les années d'imposition 2001, 2002 et 2003 sont rejetés.
+Signé à Ottawa , Canada, ce 11e jour d'août 2006.
+« M.A. Mogan »
+Juge suppléant Mogan
+Traduction certifiée conforme
+ce 2e jour d'avril 2007.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI457
+N º DU DOSSIER DE LA COUR : 2005-4398(IT)I
+INTITULÉ : Peter J. Neubauer et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Hamilton (Ontario)
+DATE DE L'AUDIENCE : Le 24 juillet 2006
+MOTIFS DU JUGEMENT : L'honorable juge M.A. Mogan
+DATE DU JUGEMENT : Le 11 août 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Craig Maw
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : s.o.
+Cabinet : s.o.
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,202 @@
+---
+title: "Goodfellow v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29003/index.do"
+last_modified: "2006-09-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 467"
+citation2: ""
+neutral_citation: "2006 TCC 467"
+decision_date: "2006-09-07"
+language: "en"
+item_id: "29003"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6752
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:46:43.326000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c2eda54ee284819eecec8e53c89cd903dfba8cdf3e35dca8e83d3205ce99974f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Goodfellow v. The Queen
+
+- Citation: 2006 TCC 467
+- Decision date: 2006-09-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6752, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Goodfellow v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-07
+Neutral citation
+2006 TCC 467
+File numbers
+2006-890(IT)I
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-890(IT)I
+BETWEEN:
+DAVID GOODFELLOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 29, 2006 at Miramichi, New Brunswick
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jean Lavigne
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation years are dismissed, in accordance with the attached reasons for judgment.
+Signed at Grand-Barachois, New Brunswick, this 7th day of September 2006.
+"S.J. Savoie"
+Savoie, D.J.
+Citation: 2006TCC467
+Date:20060907
+Docket: 2006-890(IT)I
+BETWEEN:
+DAVID GOODFELLOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Savoie, D.J.
+[1] This appeal was heard in Miramichi, New Brunswick on June 29, 2006.
+[2] This appeal concerns the 2000, 2001 and 2002 taxation years of the appellant. The issue before the Court is whether the reassessments made by the Minister of National Revenue (the "Minister") of additional taxable benefits amounting to $5,424.00 for the 2000, $5,544.00 for the 2001 and $5,544.00 for the year 2002, that were included in the appellant's income for those years, were correctly calculated.
+Facts
+[3] During the relevant period, the appellant was a shareholder and employee of Goodfellow's Trucking Ltd., hereinafter called the "company".
+[4] The company owned a 1995 GMC Sierra K 1500E extended cab truck bearing a licence plate number GTL, hereinafter called the "vehicle", which was purchased by the company in 1998 for $15,100,00.
+[5] All the operating expenses for the vehicle were paid by the company. The appellant had the vehicle at his disposal and utilized it for both his personal and business use, driving it from his residence to various job sites and form there to his residence. He did not keep a record detailing the number of kilometres driven for personal use and the number of kilometres driven for the business nor did he keep a record of the total kilometres driven during the years in question.
+[6] During a previous audit in 1995, the appellant had been instructed by Canada Customs and Revenue Agency (CRA) to keep a record of kilometres driven for his personal use and business use. He did not report any portion of the benefits on his tax returns related to the provision of the vehicle to him by the company during the three taxation years in question. On that basis the Minister concluded that the appellant used the vehicle for personal use during each of the 2000, 2001 and 2002 taxation years for a total of at least 1,000 kilometres per month or 12,000 kilometres per year.
+[7] The appellant, in his testimony, described himself as owner-operator of the company which is a water and sewer contractor and carries out the business of road building and maintenance. During the winter months, the company becomes a snow removal contractor. Prior to 1998, the business of the company was conducted from the residence of the appellant. Since then, the operations of the company are conducted in the Miramichi Industrial Park. The distance from the appellant's home to the company's place of business is approximately 5 kilometres.
+[8] The vehicle, owned by the company, is available to the appellant year round, i.e. 365 days a year. The appellant explains that he needs to be mobile, at all times. In the summer he needs to respond to emergencies, 24 hours per day, for broken water or sewer lines and to attend to the construction sites around Miramichi and sometimes as far away as Fredericton. During the winter months, according to the appellant, he is also on call 24 hours a day to respond to calls for snow removal as specified in the various snow removal contracts.
+[9] "This is not a pleasure vehicle", says the appellant. He stated that this was not a vehicle that one took out for a drive, not a recreational vehicle. He described it as a work truck. It has a fuel barrel in the back for the needs of the various machinery utilized by the company. The hitch installed to the vehicle is used to pull an air compressor to the job sites. The snow plough installed on this vehicle is used for light snow removal. The heavy snow removal equipment remains at the various contractual sites, such as the hospital.
+[10] The appellant has an office at home. However, his claim for deduction of that office expense was disallowed by CRA. The appellant explained in his testimony that he did not challenge that ruling because he did not have time. The appellant was unable to evaluate the percentage of his personal use of the vehicle. He testified that he saw no need to keep a log book. He did, however, admit that he uses the vehicle to travel back and forth from the company site in the industrial park to his residence which represents approximately 10 kilometres per day. Still, the appellant claims that the vehicle use is 100% for business.
+[11] The issue before the Court is whether the use of the vehicle during the taxation years in question is a taxable benefit. The Minister has maintained that it is and reassessed the appellant accordingly. The appellant takes the position that the vehicle is used strictly for business, admitting that he uses it to travel back and forth from his residence to the site of the company's operations; however, he argues that he maintains an office at home where he conducts some work and meets with clients.
+[12] The evidence has shown that the appellant has used the vehicle regularly to visit job sites around Miramichi and sometimes as far away as Fredericton. The frequency of these trips and the total kilometres driven has not been disclosed and no record has been kept relative to same. It was established that the appellant did not report shareholder benefits with respect to the personal use of the vehicle.
+Analysis
+[13] The position taken by the appellant is quite simple. He maintains that he has made no personal use of the vehicle made available to him by the company every day of the year throughout the whole period, namely for the taxation years 2000, 2001 and 2002. He admits that he uses the vehicle back and forth to the business premises from his residence as well as to the various construction sites in and around Miramichi, on occasion as far as Fredericton. He argues that even that utilization is not personal use since he also has an office in his residence and some contracts of the company require him to be on call 24 hours a day, 7 days a week. Throughout the relevant period, he has failed to keep a log book recording both his personal and business use of the vehicle, arguing that it is not necessary since he does not operate the vehicle at all for personal use.
+[14] It must be noted, however, that such an interpretation of the Income Tax Act (the "Act") is overly simplistic.
+[15] What needs to be established, first of all, is whether the appellant received a benefit from the company. This was established by the evidence. The vehicle was available to the appellant 24 hours a day, 7 days a week, 12 months of the year.
+[16] Paragraph 6(1)(a) of the Act reads as follows:
+6. Amouts to be included as income from office of employment.
+(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+(a) Value of benefits – the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer in the year in respect of, in the course of, or by virtue of an office or employment, except any benefit
+(i) derived from the contribution of the taxpayer's employer to or under a registered pension plan, group sickness or accident insurance plan, private health services plan, supplementary unemployment benefit plan, deferred profit sharing plan or group term life insurance policy,
+(ii) under a retirement compensation arrangement, an employee benefit plan or an employee trust,
+(iii) that was a benefit in respect of the use of an automobile,
+(iv) derived from counselling services in respect of
+(A) the mental or physical health of the taxpayer or an individual related to the taxpayer, other than a benefit attributable to an outlay or expense to which paragraph 18(1)(l) applies, or
+(B) the re-employment or retirement of the taxpayer, or
+(v) under a salary deferral arrangement, except to the extent that the benefit is included under this paragraph because of subsection (11).
+[17] The meaning and scope of the word "benefit" in this section is important. It will be useful to read the analysis conducted by Justice Pierre Archambault of this Court in the case of Luc Dionne v. The Queen, [1996] T.C.J. No. 1691 where he wrote the following:
+[12] For the Minister to be able to include the transportation allowance of $3,181.34 in Mr. Dionne's income under paragraph 6(1)(a) of the Act, it had to represent the "value" of a "benefit" that Mr. Dionne "received" or "enjoyed" in 1993 "by virtue of a contract of employment". . . .
+…
+[17] First let us analyse the common meaning of the word "avantages" [the equivalent of "benefits" in the French text of the provision . . .]. This seems to me to be the most important word in this paragraph. The Nouveau Petit Robert defines it as follows:
+[TRANSLATION]
+II - 1 - (1196) What is useful, profitable (as opposed to disadvantage). - 2. asset; profit, interest, advantage. This solution offers, holds out major, invaluable benefits ["avantages" – Tr.]. To withdraw an appreciable benefit ["avantages" – Tr.] from someone. These projects are equally appealing; each has its benefits. To confer, offer, obtain, guarantee appreciable benefits on or for someone. Cash benefit. - gain, remuneration, compensation. Benefits in kind.* To forego a real benefit for an illusory gain (cf. To drop the substance for the shadow*). - interest. The new man "apparently asked for exorbitant benefits, a share in profits" (Duhamel). [. . .] ANT. Disadvantage, detriment, damage, handicap, disbenefit, prejudice.
+The word "profitable" ["profitable" in the French text – Tr.] comes from "profit" which, according to the same dictionary, means "the increase in assets that one owns or the improvement of a situation resulting from an activity. - benefit, profit. Material, intellectual, moral gain. - enrichment." As the purpose of paragraph 6(1)(a) is to expand the notion of employment income that appears in subsection 5(1) of the Act, paragraph 6(1)(a) clearly does not concern moral or intellectual benefits, but solely material benefits, that is to say those "consisting of tangible assets (esp. money), or attaching to the possession thereof" (Nouveau Petit Robert). (See also Savage and Blanchard, supra.) "Situation" ["situation" Tr.] means in particular "2‑ (XVIIth). (Abstract) Set of circumstances in which one finds oneself - circumstance, condition, state; place, position."
+[18] The word "benefits" may therefore have two meanings: one that recognizes a benefit where there is an increase in assets (and thus of one's net worth) and the other where there is an improvement of a person's economic situation without there necessarily being an increase in assets. Such an "improvement" may occur not only where an employer provides an employee with the mere enjoyment of an asset, but also where he makes a payment to a third party in respect of an expense incurred for a good or a service for the employee's benefit.
+[19] Let us consider whether these two meanings are consistent with the wording of paragraph 6(1)(a). In reading it, one notes that there are a number of reasons to conclude that these two meanings are recognized therein. First, there is the use of the expression "of any kind whatever" following the word "benefits", which clearly suggests that this paragraph concerns all benefits, whatever form they may take and whether or not they increase the employee's net worth.
+[20] Even if there could be the slightest doubt as to the scope of the term, it vanishes when it is seen that the paragraph expressly includes in benefits the board and lodging provided to the employee. These two benefits do not increase the employee's net worth. They merely spare him an expense which, if it had been incurred by the employee, would have reduced his net worth. No one will dispute that an employee receives a net economic benefit when an employer houses him free of charge.
+[21] In addition, the use of the verbs "receive" and "enjoy" distinguish the case of an employee who has "received" benefits that increase his net worth, such as ownership of an automobile for his personal use, from that of an employee who has merely "enjoyed" benefits which, without increasing his net worth, "improve his situation", such as that arising from the use of an automobile for personal purposes to the extent that the benefit relates to its operating expenses. The latter benefit was expressly embraced by subparagraph 6(1)(a)(iii) of the Act prior to 1993.
+[18] The substance of the above quote elicits that the question is not whether the recipient of a benefit really profited from it and to what degree. It is sufficient that he had the possibility of making use of the benefit or the right to make use of it. His mere possibility of using, for his own purposes, the vehicle of his employer is in itself a benefit. In the case at bar, there was nothing in the evidence that indicated any restriction whatsoever on the use of the vehicle for his personal use, whether the appellant took advantage or not of such a possibility.
+[19] The value of the appellant's benefit is established in part by the "standby charge" provision in the Act. Paragraph 6(1)(e) of the Act provides the following:
+(e) Standby charge for automobile -- where the taxpayer's employer or a person related to the employer made an automobile available to the taxpayer, or to a person related to the taxpayer, in the year, the amount, if any, by which
+(i) an amount that is a reasonable standby charge for the automobile for the total number of days in the year during which it was made so available
+exceeds
+(ii) the total of all amounts, each of which is an amount (other than an expense related to the operation of the automobile) paid in the year to the employer or the person related to the employer by the taxpayer or the person related to the taxpayer for the use of the automobile;
+[20] Subsection 6(2) of the Act spells out what constitutes reasonable standby charges for an automobile which read as follows:
+(2) Reasonable standby charge. For the purposes of paragraph (1)(e), a reasonable standby charge for an automobile for the total number of days (in this subsection referred to as the "total available days") in a taxation year during which the automobile is made available to a taxpayer or to a person related to the taxpayer by the employer of the taxpayer or by a person related to the employer (both of whom are in this subsection referred to as the "employer") shall be deemed to be the amount determined by the formula
+A× [2 % × (C × D) + 2 × (E - F)]
+B
+3
+where
+A is
+(a) the lesser of the total kilometres that the automobile is driven (otherwise than in connection with or in the course of the taxpayer's office or employment) during the total available days, and the value determined for B for the year in respect of the standby charge for the automobile during the total available days, if
+(i) the taxpayer is required by the employer to use the automobile in connection with or in the course of the office or employment, and
+(ii) the distance traveled by the automobile in the total available days is primarily in connection with or in the course of the office or employment, and
+(b) the value determined for the description of B for the year in respect of the standby charge for the automobile during the total available days, in any other case;
+B is the product obtained when 1,667 is multiplied by the quotient obtained by dividing the total available days by 30 and, if the quotient so obtained is not a whole number and exceeds one, by rounding it to the nearest whole number or, where that quotient is equidistant from two consecutive whole numbers, by rounding it to the lower of those two numbers;
+C is the cost of the automobile to the employer where the employer owns the vehicle at any time in the year;
+D is the number obtained by dividing such of the total available days as are days when the employer owns the automobile by 30 and, if the quotient so obtained is not a whole number and exceeds one, by rounding it to the nearest whole number or, where that quotient is equidistant from two consecutive whole numbers, by rounding it to the lower of those two numbers;
+E is the total of all amounts that may reasonably be regarded as having been payable by the employer to a lessor for the purpose of leasing the automobile during such of the total available days as are days when the automobile is leased to the employer; and
+F is the part of the amount determined for E that may reasonably be regarded as having been payable to the lessor in respect of all or part of the cost to the lessor of insuring against
+(a) loss of, or damage to, the automobile, or
+(b) liability resulting from the use or operation of the automobile.
+[21] One can readily appreciate that the formula provided in subsection 6(2) of the Act is very specific and precise. It indicates the exact amounts which must be included in the income of the recipient of the benefit.
+[22] Here, there is no room for discretion or subjective assessment. It is a mathematical formula which includes two basic assumptions that cannot be ignored.
+[23] Paragraph 6(1)(e) and subsection 6(2) of the Act render irrelevant whether or not the recipient of the benefit used the vehicle.
+[24] Robertson J.A. of the Federal Court of Appeal, in Adams v. R. (1998), 98 DTC. 6266 (Fed. C.A.), provided a very good explanation of the parameters of these provisions. It is appropriate to reproduce a few excerpts from that judgment:
+[6] I agree with the Minister that the term "made available" cannot bear the restricted or narrow interpretation adopted by the learned Tax Court Judge. In the reasons that follow I offer four reasons in support of that conclusion. …
+[8] … Within this context, it is clear to me that the broad and unqualified language found in both linguistic versions of paragraph 6(1)(e) reinforces the Minister's argument that unrestricted use of an automobile is not a condition precedent to the application of that provision. Further support for this understanding is found in the legislative history of that provision.
+[10] … The amendment removed all references to an automobile being made available for personal use. I take it for granted that the purpose of the amendment was to repeal the understanding established in Harman that minimal personal use of an automobile was sufficient to oust the application of paragraph 6(1)(e). …
+[11] … As part of the contextual analysis, I turn now to subsection 6(2) which dictates the bases on which standby charges are to be calculated. It is my opinion that that provision also supports the Minister's position.
+[12] … The first assumption is that the employee made personal use of the automobile during the year. The second assumption is that personal usage amounts to 1,000 km for every month the automobile is made available to the employee (12,000 km per year)….
+[13] … A/B x [1½% x (C x D)]….
+[14] Against this background, it is apparent that both paragraph 6(1)(e) and subsection 6(2) are unconcerned with whether in fact an employee made use of an employer's automobile. Paragraph 6(1)(e) makes no reference to the purposes for which the automobile is made available and, in particular, no longer makes reference to personal use by an employee. ...
+[15] … It is actual usage which is of significance not whether an employee had unrestricted or exclusive use of an employer's automobile. It is also important to note that actual usage only becomes relevant within the context of the minimal personal use exception articulated in subsection 6(2).
+[17] In summary, the broad wording used in both linguistic versions of paragraph 6(1)(e), coupled with its legislative history, support the Minister's position. In my respectful view, unrestricted or exclusive use of an employer's automobile is not a condition precedent to the imposition of a standby charge. Nor is actual usage required, whether it be for personal or business purposes. What is required is that an employer have made an automobile available to, or at the disposition of, an employee and, correlatively, that he or she have had a right to use it. This is only logical since subsection 6(2) deems an employee to have made personal use of an employer's automobile, irrespective of whether this is so. In my view, the standby provisions were carefully crafted with the object of promoting certainty at the expense of flexibility. That being said the harsh consequences which flow from a deeming provision are tempered by the "minimal personal use" exception grafted on to subsection 6(2) in response to this Court's decision in Harman . This is the point in time where actual usage and the purposes for which the automobile was made available become relevant considerations.
+[25] To summarize, as soon as an automobile is made available, there is a presumption that 12,000 kilometres per year or 1,000 kilometres per month are driven for personal purposes. This presumption may be rebutted by clear and explicit evidence of actual use in terms of kilometres driven. This explains why a log is practically essential.
+[26] This view was expressed by Justice Dussault of this Court in Lavigueur v. M.N.R., 91 DTC 448: In that case, the appellant was a shareholder of a company that made available to him a leased automobile for his work. That work consisted in making daily visits to the Lavigueur jewellery stores located on the South Shore, in Montreal and on the North Shore, and to various suppliers. As he lived in Ste-Julie, he returned home with the vehicle since it would have been unwise and even dangerous to leave it in the parking lot next to the head office in Pointe-aux-Trembles. With respect to the kilometres driven for personal purposes, the appellant, who kept no log, maintained that he had used the vehicle very minimally, indeed only exceptionally, for such purposes since he had the use of another vehicle for his personal needs. The analysis of Judge Dussault was as follows:
+Thus the appellant admitted having had the automobile available to him in the evening and on weekends, but stated that he used it for personal purposes only exceptionally. He further stated that he had another automobile for that purpose, which, while it was much older and more modest, fully sufficed for the limited needs of going out in the evening or on weekends. The appellant, however, was not very specific in terms of the total kilometres travelled for business purposes; he stated that the total might be 40,000 to 60,000 kilometres per year, but that he had kept no record of this.
+...
+In order to control the benefit arising from the use for personal purposes of an automobile owned or leased by an employer, Parliament believed it advisable to establish a presumption that personal use amounts to 1,000 kilometres per month or 12,000 kilometres per year, as soon as an employer makes an automobile available to an employee. This presumption may be rebutted by the employee, and the Act imposes an obligation on him do so in a specific manner, "in the prescribed form", when there is less use for personal purposes. In that case, the application of the arithmetic formula in subsection 6(2) operates to reduce the amount to be included in the employee's income proportionately. If an employee does not comply with the obligation thus imposed by the Act, how can he later argue that the Department of National Revenue was wrong to include in his income the amount set out in subsection 6(2) of the Act, which results from the application of the presumption established therein?
+[27] In this case the appellant appears to be totally fixated in his denial of any personal use of the vehicle. However, the evidence has shown that the appellant has used the vehicle to travel back and forth from his residence to his place of business as well as from his residence to various job sites, some of which are as distant as Fredericton. Never has the appellant endeavoured to establish an approximate account of his travel record in terms of total kilometres driven as well as the total kilometres driven for personal use.
+[28] The appellant bears the burden of proof. His submission that he never drove the vehicle for personal use is inadequate. Thus, he has failed to discharge the onus of proof which lay upon him. He made no attempt to establish that his personal use of the vehicle in terms of kilometres driven represented less than 10 percent of the total kilometres driven.
+[29] In other words, the Minister, in light of the circumstances had no other option but to apply the formula provided by the Act to assess his benefit.
+[30] Certainly, the taxpayer, namely the appellant, was under no obligation to keep a log. Unfortunately, a person who fails to keep one will encounter serious difficulties when attempting to prove the exact use to which the vehicle was put. Circumstantial evidence and a simple denial of established facts will be of no assistance to the appellant in his effort to rebut the presumption that arises against him once it is proven, as here, that he has benefited from a vehicle made available to him by the company of which he is a shareholder and employee.
+[31] The lack of evidence presented in support of the appellant's position results in his failure to fulfil his obligations under the Act with respect to the 2000, 2001 and 2002 taxation years in order to avoid the assessment resulting from the computation set out in the Act or to be assessed and taxed on a lesser amount.
+[32] For all of the above, the appeal is dismissed.
+Signed at Grand-Barachois, New Brunswick, this 7th day of September 2006.
+"S.J. Savoie"
+Savoie, D.J.
+CITATION: 2006TCC467
+COURT FILE NO.: 2006-890(IT)I
+STYLE OF CAUSE: David Goodfellow and. H.M.Q.
+PLACE OF HEARING: Miramichi, New Brunswick
+DATE OF HEARING: June 29, 2006
+REASONS FOR JUDGEMENT BY: The Honourable Deputy Judge S.J. Savoie
+DATE OF JUDGMENT: September 7, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jean Lavigne
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

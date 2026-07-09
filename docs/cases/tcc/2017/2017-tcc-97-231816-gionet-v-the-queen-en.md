@@ -1,0 +1,156 @@
+---
+title: "Gionet v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/231816/index.do"
+last_modified: "2017-03-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 97"
+citation2: ""
+neutral_citation: "2017 TCC 97"
+decision_date: "2017-03-29"
+language: "en"
+item_id: "231816"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2145
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:26:12.102000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f6796163758cce4c4e12fe24eb2b097a1c263f34be84636201d7eb4a79d4eba8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gionet v. The Queen
+
+- Citation: 2017 TCC 97
+- Decision date: 2017-03-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2145, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gionet v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-03-29
+Neutral citation
+2017 TCC 97
+File numbers
+2016-1868(IT)APP
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2017 TCC 97
+Date: 20170601
+Docket: 2016-1868(IT)APP
+BETWEEN:
+GERRY GIONET,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Edited from the transcript of Reasons for Judgment delivered orally from the Bench on March 29, 2017 at Calgary, Alberta)
+Campbell J.
+[1] Let the record show that I am giving oral reasons in the matter of the application for extension of time to file Notice of Appeal in respect to Gerald Gionet.
+[2] This is an application for an extension of time in which a Notice of Appeal may be filed in respect to the 2007 through to the 2012 taxation years.
+[3] There is a rather lengthy history in terms of how this application came before me and those underlying facts are relevant to the application. The taxation years, 2007 to 2011, were reassessed on February 28, 2013. Mr. Gionet filed a Notice of Objection to these reassessments on April 2, 2013. The Minister of National Revenue (the “Minister”) issued a Notice of Confirmation on February 4, 2015 in respect to the taxation years 2007, 2008, 2009 and 2010, but not in reference to the taxation years 2011 and 2012.
+[4] In respect to the objection filed for the 2011 taxation year, Mr. Gionet was further reassessed by Notice of Reassessment, dated January 28, 2015. There was no Notice of Objection filed in respect to this reassessment of the 2011 taxation year.
+[5] In respect to the 2012 taxation year, the Minister issued a Notice of Reassessment on November 28, 2013. Mr. Gionet did not file a Notice of Objection to this 2012 reassessment.
+[6] According to the affidavit of Chelene Riendeau, in 2012 Mr. Gionet filed a tax appeal in respect of his 2006 and 2007 taxation years. In 2013, this appeal, for the 2006 and 2007 taxation years, was held in abeyance pending the outcome of several other cases. The parties requested a further abeyance on November 14, 2014 because the Minister had reassessed the 2007 taxation year and the Applicant had filed an objection to that reassessment. Time was required to process this objection by the Minister and to determine how Mr. Gionet intended to deal with the outcome of the objection.
+[7] This further abeyance was granted on December 8, 2014 and on March 11, 2015, the parties advised the Court that Mr. Gionet now had 90 days from February 4, 2015, being the date in which the Minister processed that objection, to advise how he intended to proceed. The Court granted the further abeyance and on June 11, 2015, the Crown advised the Court that the Applicant had not responded to the Minister’s response to the objection and that the 90-day period had elapsed for filing an appeal. The Crown asked the Court for a status hearing to determine how best to proceed in that the 2007 taxation year had been one of the two taxation years appealed (the other being 2006) by the Notice of Appeal filed for 2006 and 2007 in 2012.
+[8] On August 17, 2015, the status hearing was held, although counsel, from Gowlings law office, who had been representing the Applicant was no longer retained in that capacity and was not present at the status hearing.
+[9] So the 2006 taxation year was still properly before the Court as part of the Notice of Appeal that had been filed for 2006 and 2007 taxation years but, because 2007 had been further reassessed and Mr. Gionet had not filed an objection within the 90-day period, as of the date of the status hearing, 2007 was now not properly before the Court.
+[10] I have reviewed the transcript of the status hearing and Chief Justice Rossiter is very clear in his direction to Mr. Gionet that he should obtain new legal counsel by October 31, 2015 and in addition, ensure that a motion be brought for an extension of time to appeal the reassessment of the 2007 taxation year by the same deadline of October 31, 2015. To further ensure the Applicant understood the Court’s direction, a letter was forwarded to him on August 21, 2015, reiterating the Court’s direction.
+[11] By October 30, 2015, Mr. Gionet had filed a Notice of Appointment of Solicitor with Mr. Raj Gill as his new legal counsel.
+[12] On February 3, 2016, Mr. Gill attempted to file an “Amended Notice of Appeal”, which was received by the Court on December 22, 2015. This “Amended Notice of Appeal” purported to appeal all taxation years, 2007 to 2012, but did not follow the Court’s direction to file an application for an extension of time.
+[13] A further letter was sent to Mr. Gill on March 17, 2016 advising him that he had to file a Notice of Motion for leave to file an Amended Notice of Appeal.
+[14] On April 14, 2016, Respondent counsel wrote to Mr. Gill and Mr. Gionet separately setting out in detail the Crown’s understanding of the various aspects of the appeal before the Court including its view of the status hearing that had been held, as well as the purported Amended Notice of Appeal.
+[15] Finally, on May 4, 2016, a telephone conference was held with Justice Graham of this Court. Mr. Gionet attended without counsel, but a Mr. Surinder Makkar of the Avocis Tax Group LLP, who was on the call as a tax consultant, advised the Court that Mr. Gionet would again be looking for new counsel. During this telephone conference, the Court pointed out to Mr. Gionet that he must file an application for an extension of time along with a Notice of Appeal, sorry, a proposed Notice of Appeal for each of the taxation years and that he had one day left to do so. The application was filed on May 4, 2016.
+[16] This brings me to the present application for an extension of time in which a Notice of Appeal may be filed for these taxation years. The Applicant, Mr. Gionet, was represented by legal counsel, Faisel Syed, at the hearing of this application. Counsel for the Applicant argued that Mr. Gionet had been placed in an untenable position due to the negligence and failure of a number of previous legal counsel that had been retained to follow his instructions. Counsel stated that Mr. Gionet has always had a bona fide intention to pursue this matter in the Tax Court and has spent a great deal of money attempting to do so. In these circumstances, the Applicant’s counsel argued that it would be just and equitable that the Court grant this application.
+[17] I intend to deal with these taxation years in their reverse order, much the same way as the approach Respondent’s counsel adopted in her submissions.
+[18] The 2012 taxation year was reassessed on November 28, 2013, but no Notice of Objection has been filed in respect to 2012. Subsection 169(1) of the Income Tax Act (the “Act”) respecting appeals to this Court references such appeals being made after a taxpayer has filed an objection to an assessment by the Minister. Where there has been no Notice of Objection filed by a taxpayer, this Court has no jurisdiction to entertain an application for an extension of time to file a Notice of Appeal. Filing a Notice of Objection is a condition precedent to bringing an appeal before this Court. Unfortunately for the Applicant, his time limit for filing an objection in respect to 2012 has also expired. The reassessment occurred on November 28, 2013 and therefore the 90 days plus one-year timeline according to the legislation expired on February 21, 2014.
+[19] Next, in respect to the 2011 taxation year, this year was part of the initial reassessment for the 2007 to 2011 taxation years on February 28, 2013 to which the Applicant filed an objection on April 2, 2013.
+[20] While the 2007 to 2010 taxation years received confirmation on February 4, 2015, the Minister further reassessed the taxation year 2011 separately on January 26, 2015.
+[21] While there was confusion and incorrect information surrounding this Court’s understanding of the confirmation of 2011 during the telephone conference held in May 2016, which was later corrected by Respondent counsel in correspondence to Justice Graham, that does not change the actual dates applicable to the 2011 taxation year. Again, the Applicant did not file an objection to the 2011 taxation year after the reassessment. The 90-day plus one‑year timeline applicable to this taxation year expired on April 26, 2016 and this Court simply has no jurisdiction to exercise its discretion to extend that timeline according to the legislation.
+[22] That brings me to the application respecting the 2007 to 2010 taxation years. This application for an extension of time to appeal was made within the timelines established in the legislation. Therefore, the Applicant has complied with paragraph 167(5)(a). However, paragraph 167(5)(b) contains the factors that this Court must address before an order is made in respect to such an application:
+167(5) No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time limited by section 169 for appealing; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted, and
+(iv) there are reasonable grounds for the appeal.
+[23] Subparagraph 167(5)(b)(i) contains two conditions. First, the Applicant must convince this Court that he was unable to act or to instruct another to act on his behalf. Second, that he has bona fide intention to appeal the matter.
+[24] Although, I heard submissions by Applicant’s counsel respecting alleged failures, omissions and negligence on the part of various prior counsel that the Applicant had engaged, present counsel chose not to call the Applicant to provide testimony in this regard. I have nothing concrete in the way of specifics before me in the documentary evidence and I have no oral testimony from the Applicant in respect to what is alleged concerning these prior counsel.
+[25] In fact, in the transcript of the telephone conference with Justice Graham, Mr. Makkar, who had acted as Mr. Gionet’s consultant, submitted that Mr. Gill had been retained, and I quote, in a “…consulting capacity to file administrative documents…that may be necessary and also to act as an office to receive any mail from the Court…”. Because it was felt that the issues were primarily administrative (at this point) Mr. Gill’s office was retained apparently just for that purpose, and I refer to page 4 of the transcript.
+[26] In respect to the retention of Gowlings law firm, Mr. Makkar states only that Mr. Gionet was, and again I quote “…unsatisfied with the services and that Mr. Gionet discussed these issues with Gowlings, found that they couldn't get to a resolution…”. (Page 3 of the Transcript)
+[27] Apart from these references, I have no oral testimony from any of these respective parties or the Applicant, no affidavit evidence submitted or other documentary evidence, which would be texts or emails respecting communications on the instructions or the actions to be taken or not taken, or the documents to be filed. In Sapi v The Queen, 2016 TCC 239, 2016 DTC 1197 decision, this Court drew an adverse inference from the failure of an applicant to call or subpoena certain witnesses to provide such independent evidence.
+[28] In addition, Mr. Gionet was advised, as well as his counsel at the time, Mr. Gill, by correspondence from the then Respondent counsel in April 2015 as to the history and the steps remaining in this regard.
+[29] Based on the documents in front of me and the submissions by the Applicant’s counsel, these are insufficient for me to conclude that the Applicant has satisfied the first condition in subparagraph 167(5)(b)(i).
+[30] The result of the failure of Mr. Gionet to testify and of any other prior solicitors to provide oral or affidavit evidence, means that I have nothing that supports counsel’s submissions that the Applicant was unable to personally act or instruct someone to act on his behalf. I have no independent evidence before me even in the way of emails or correspondence between Mr. Gionet and these law firms that would support his present counsel’s submissions in this regard. As a result, I draw an adverse inference from the failure to do so.
+[31] Subsection (B) of subparagraph 167(5)(b)(i) references the bona fide intent on the part of the Applicant to appeal. It is separated from (A) by the word “or”, so these two conditions are disjunctive.
+[32] I do conclude that Mr. Gionet had a bona fide intent to appeal, which I believe he has demonstrated through the documents. However, he is still unable to meet the remaining three factors set out in subparagraph 167(5)(b)(i), (ii), (iii) and (iv). These three factors are connected by the word “and” and consequently the onus is on the Applicant to convince this Court that it would be just and equitable to grant the application and permit the appeal to proceed, that he made the application as soon as circumstances permitted and that there are reasonable grounds for the appeal. A failure to meet any one of these conditions will be fatal to the taxpayer’s application. (Dewey v The Queen, 2004 FCA 82, 2004 DTC 6159)
+[33] The Applicant’s position is that it would be just and equitable to grant this application because of the alleged negligence, omissions or failure on the part of prior counsel. However, I go back to my initial remarks respecting the lack of evidence I have concerning their alleged conduct and whether it was negligent or not.
+[34] In Di Modica v The Queen, [2001] T.C.J. No. 620, 2002 D.T.C. 1290, Justice Lamarre Proulx in dealing with an application to extend the time to file a Notice of Objection, where the applicant alleged negligence on the part of counsel, she stated the following at paragraph 16:
+It is my view that an error by counsel can be a just and equitable reason for granting an extension of time if counsel otherwise exercised the reasonable diligence required of a lawyer. I do not think that the state of the law is such that counsel's negligence or carelessness can constitute a just and equitable reason for granting the requested extension within the meaning of subparagraph 166.2(5)(b)(ii) of the Act.
+[35] In the application before me, there is insufficient evidence for me to conclude that any of the prior counsel were or were not negligent or careless or failed or omitted to follow instructions communicated to them.
+[36] In fact, it appears from the remarks of Mr. Makkar, during the telephone conference with Justice Graham, that one of the former counsel, Raj Gill, was simply engaged to act as an administrative clearing house for receipt of documents from Canada Revenue Agency and this Court. Based on the evidence before me or lack thereof, I cannot conclude that it would be just and equitable to permit this application.
+[37] In addition, the evidence is inconclusive to permit me to conclude that Mr. Gionet acted as soon as circumstances permitted. During the status hearing held in August 2015, Chief Justice Rossiter advised the Applicant several times throughout that call of the necessity of bringing a motion for an extension of time to file an appeal as it related to the 2007 taxation year because due to the sequence of events, it was no longer properly before the Court. Yet by the time of the telephone conference with Justice Graham in May 2016, no such motion had been brought and I have no evidence before me as to why it was not brought except for various assertions concerning counsel.
+[38] In addition to his counsel’s submissions, Mr. Gionet requested that he provide his comments on his application. I permitted him to do so, although he had not been sworn or affirmed. However, his remarks focused on the social issues he has encountered as a member of a First Nations group located in Manitoba. He concluded by stating that he put his trust in lawyers and accountants and simply wanted his day in Court. Unfortunately, he did not address the very issues that are at the heart of his application. I gathered from his comments that he relied on this Court doing what would be fair and equitable in the circumstances. However, this application must be decided within the confines of the provisions contained in the legislation.
+[39] It is not open to me to come to a conclusion based on fairness. I have no discretion to do that. My conclusion to dismiss the application for these taxation years is based solely on the application of the wording in the legislative provisions to the facts that were before me at the hearing.
+[40] That concludes my reasons in respect of the Gionet application and that concludes the work of the Tax Court today. Thank you.
+Signed at Ottawa, Canada, this 1st day of June 2017.
+“Diane Campbell”
+Campbell J.
+CITATION:
+2017 TCC 97
+COURT FILE NO.:
+2016-1868(IT)APP
+STYLE OF CAUSE:
+GERRY GIONET AND THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+March 27, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+March 29, 2017
+APPEARANCES:
+Counsel for the Applicant:
+Faisel Syed
+Counsel for the Respondent:
+Mary Softley
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Faisel Syed
+Firm:
+Verstraten Kugelmass Syed
+Calgary, Alberta
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

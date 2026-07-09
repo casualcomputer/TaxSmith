@@ -1,0 +1,213 @@
+Title: Agence de sécurité Mauricienne (1983) Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26127/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-284-26127-agence-de-s-curit-mauricienne-1983-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-05-16
+
+# Agence de sécurité Mauricienne (1983) Inc. c. La Reine
+
+- Citation: 2003 CCI 284
+- Decision date: 2003-05-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4122, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Agence de sécurité Mauricienne (1983) Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-16
+Référence neutre
+2003 CCI 284
+Numéro de dossier
+2001-3075(GST)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2001-3075(GST)G
+ENTRE :
+AGENCE DE SÉCURITÉ MAURICIENNE (1983) INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appel entendu le 31 janvier 2003 à Trois-Rivières (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me François Daigle
+Avocate de l'intimée :
+Me Ghislaine Thériault
+_______________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis portant le numéro 02305300 et daté du 25 mai 2000 pour la période du 1er février 1996 au 31 octobre 1999 est accueilli, en ce que l'avis de cotisation et les pénalités inhérentes sont annulés, le tout avec les frais en faveur de l'appelante, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada ce 16e jour de mai 2003.
+« Alain Tardif »
+J.C.C.I.
+Référence : 2003CCI284
+Date : 20030516
+Dossier : 2001-3075(GST)G
+ENTRE :
+AGENCE DE SÉCURITÉ MAURICIENNE (1983) INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif, C.C.I.
+[1] Il s'agit d'un appel d'un avis de cotisation portant le numéro 02305300 et daté du 25 mai 2000, pour la période du 1er février 1996 au 31 octobre 1999, au montant de 28 312,44 $, incluant les intérêts et pénalités.
+[2] Pour établir l'avis de cotisation, le sous-ministre du Revenu du Québec (le « Sous-ministre » ) a pris pour acquis les hypothèses de fait suivantes :
+a) l'appelante est un inscrit aux fins de l'application de la T.P.S.;
+b) elle a été constituée en corporation en vertu de la partie 1A de la Loi sur les compagnies, tel qu'il appert de la pièce I-4;
+c) l'appelante exploite un service d'escouade canine et c'est par contrat de services avec les différentes municipalités qu'elle transige ses services ainsi que les tarifs, tel qu'il appert de la pièce I-5;
+d) au cours de la période pour laquelle elle a été cotisée, l'Agence de Sécurité Mauricienne (1983) Inc. offrait notamment les services suivants :
+1) vente et délivrance de licences pour chiens;
+2) permis de chenil;
+3) cueillette des animaux;
+4) émission de contraventions;
+5) euthanasie;
+le tout tel qu'apparaissant à la pièce I-5;
+e) en contrepartie des services offerts, l'Agence de Sécurité Mauricienne (1983) Inc. perçoit des citoyens et à l'occasion de la municipalité avec laquelle elle a un contrat de services, les tarifs prévus audit contrat, tel qu'il appert de la pièce I-5, qu'elle gère à sa guise et sans rendre compte au cocontractant;
+f) au cours de la période s'étendant du 1er février 1996 au 31 octobre 1999, cette corporation a fait l'objet d'une vérification relativement à la taxe non perçue sur la fourniture de services fournis par l'appelante;
+g) l'appelante a omis de percevoir la T.P.S. exigible sur les commission de vente de licences de chiens;
+h) l'appelante a omis ainsi de remettre au Sous-ministre la somme de 22 836,11 $ excluant les intérêts et pénalités.
+[3] Les faits ci-avant énumérés ont été consignés à la Réponse à l'avis d'appel des suites de l'avis d'appel, qui se lit comme suit :
+...
+1. L'appelante s'est fait cotiser pour la période d'imposition de 1996-02-01 au 1999-10-31 sur la base de l'absence de perception et de remise sur les revenus provenant des services de préposé aux animaux, tel qu'il appert de l'avis de cotisation datée du 25 mai 2000;
+2. En date du 25 mai 2000, l'appelante a fait parvenir un; avis d'opposition suite à l'émission d'un avis de cotisation du ministère;
+3. Le Sous-Ministre a ratifié l'avis d'opposition le 30 mai 2001, s'appuyant sur un mémoire de Bernard Blanchet, agent d'opposition;
+4. L'appelante désire se faire entendre par ce Tribunal pour les raisons suivantes;
+5. L'appelante exploite une entreprise dans le domaine du service d'escouade canine, notamment :
+a) La vente de licences pour chiens;
+b) La réception des plaintes des citoyens pour les chiens errants, aboyants;
+c) L'émission des contraventions;
+d) Les patrouilles.
+6. L'activité économique de l'appelante est réglementée par la Loi sur les cités et villes;
+7. L'appelante signe des contrats écrits avec les villes qu'elle représente, tel que les contrats avec les villes suivantes en font foi :
+a) St-Jean-des-Piles;
+b) Grandes Piles;
+c) Lac-à-la-Tortue;
+d) Shawinigan-Sud;
+e) Grand-Mère;
+8. Compte tenu de ce que mentionné précédemment, l'appelante est donc exemptée de toute perception fiscale en vertu de la TPS et la TVQ;
+9. En effet, en vertu de la Loi sur les cités et villes, il appert que les municipalités sont autorisées à gérer certaines activités sur leur territoire;
+10. En conséquence de cette gestion pour les municipalités, le Gouvernement a accordé l'autorisation de lever et percevoir des droits, redevances, taxes, permis, licences pour lesdites activités;
+11. À cet égard, les municipalités optent pour une méthode de gestion pour contrer le problème des animaux et la perception des droits et l'émission des licences sur leur territoire, notamment :
+a) par une offre d'emploi publique;
+b) par contrat.
+12. Ainsi, il est clair et manifeste qu'une municipalité ayant choisi d'obtenir les services d'une personne à salaire, afin d'effectuer le même travail que l'appelante n'a pas à percevoir la TPS, ni la TVQ sur les licences émises par l'intermédiaire de son représentant;
+13. Ce principe s'applique également aux municipalités qui préfèrent confier cette activité par contrat;
+14. À cet effet, le co-contractant, en l'occurrence l'appelante devient un mandataire qui représente la ville pour ces activités, étant réputé en vertu de l'article 412 de la Loi sur les cités et villes, être un fonctionnaire;
+15. En résumé, l'ensemble des activités n'est pas différente selon que l'on considère une ou l'autre méthode de gestion;
+16. Conformément à la Loi sur la taxe d'accises est notamment exonérée la fourniture effectuée par une municipalité d'une licence, d'un permis ou d'un droit semblable;
+17. Il serait contraire à l'économie de la Loi sur la taxe d'accises de cotiser l'appelante sur la taxe non perçue à l'égard des fournitures de services effectuées à des municipalités, étant exonérée;
+18. D'ailleurs, la municipalité de St-Georges-de-Champlain que de St-Mathieu-du-Parc, Grand-Mère et Lac-à-la-Tortue ont refusé de payer les sommes de taxes prétendument non perçues en leur nom, tel qu'il appert des résolutions de ces municipalités;
+19. L'appelante étant réputée par la Loi être un fonctionnaire de la ville qu'il représente, il s'est justement autocotisé en ne percevant aucune taxe et n'en versant pas;
+20. Ces cotisations ont causé d'énormes inconvénients au contribuable, qui a perdu plusieurs contrats suite à ces cotisations manifestement erronées;
+21. Le présent avis d'appel est bien fondé en faits et en droit;
+...
+[4] Les faits sont très simples à résumer. L'appelante a obtenu plusieurs contrats de municipalités (pièces A-3, A-4, A-5, A-6, A-7 et A-8). L'appelante, l'Agence de Sécurité Mauricienne (1983) Inc. était une compagnie inscrite aux fins de l'application de la taxe sur les produits et services ( « TPS » ). Elle exploitait une entreprise dans le domaine des services de sécurité et de gardes de sécurité. Elle avait obtenu de plusieurs municipalités un contrat lui permettant d'offrir des services aux citoyens desservis par les municipalités signataires. Il s'agissait notamment de :
+1) vente et émission de licences pour chiens;
+2) réception des plaintes des citoyens pour les chiens errants;
+3) euthanasie des chiens non réclamés;
+4) émission des contraventions; et
+5) patrouille.
+[5] Les divers contrats étaient intervenus en conformité avec la Loi sur les cités et villes et le Code municipal du Québec, plus spécifiquement en vertu de l'article 412 section XI.1, paragraphe 19.1 relatif aux animaux, rédigé, comme suit :
+19.1 a) Pour réglementer ou prohiber la garde d'animaux ou de catégories d'animaux et limiter le nombre d'animaux qu'une personne peut garder dans ou sur un immeuble;
+b) Pour exiger que pour avoir le droit de garder un animal, le propriétaire ou le gardien soit titulaire d'une licence;
+c) Pour interdire au propriétaire ou au gardien de laisser errer des animaux sur le territoire de la municipalité et en autoriser l'élimination d'une manière sommaire ou la mise à l'enclos public et la vente au profit de la municipalité;
+d) Pour obliger tout propriétaire ou tout gardien d'un animal à en enlever les excréments tant sur la propriété publique que privée, déterminer la façon d'en disposer et obliger ce propriétaire ou gardien à avoir les instruments nécessaires à cette fin;
+e) Pour permettre à la municipalité de conclure des ententes avec toute personne ou tout organisme pour l'autoriser à percevoir le coût des licences d'animaux et à appliquer un règlement de la municipalité concernant ces animaux.
+La personne ou l'organisme avec lequel la municipalité conclut une entente ainsi que ses employés sont réputés être des fonctionnaires ou employés de la municipalité aux fins de la perception du coût des licences et de l'application du règlement de la municipalité.
+Un règlement adopté en vertu du présent paragraphe peut ne s'appliquer que dans un secteur du territoire de la municipalité déterminé par le conseil. Les prescriptions du règlement peuvent différer selon les secteurs du territoire de la municipalité et les catégories d'animaux déterminés par le conseil.
+...
+Ainsi que des articles 553 et 554 du Code municipal du Québec,qui se lisent comme suit :
+Art. 553. Toute municipalité locale peut faire, modifier ou abroger des règlements pour faire tenir les chiens muselés ou attachés; pour empêcher de les laisser errer libres ou sans leurs maîtres ou autres personnes qui en prennent soin; pour imposer une taxe sur les propriétaires de tout chien gardé sur le territoire de la municipalité; pour autoriser tout officier nommé à cette fin à abattre tout chien errant non muselé et considéré dangereux pour cet officier.
+Art. 554. Toute municipalité locale peut faire, modifier ou abroger des règlements pour :
+1. réglementer ou prohiber la garde d'animaux ou de catégories d'animaux et limiter le nombre d'animaux qu'une personne peut garder dans ou sur un immeuble;
+2. exiger que pour avoir le droit de garder un animal, le propriétaire ou le gardien soit titulaire d'une licence;
+3. interdire au propriétaire ou au gardien de laisser errer des animaux sur le territoire de la municipalité et en autoriser l'élimination d'une manière sommaire ou la mise à l'enclos public et la vente au profit de la municipalité;
+4. obliger tout propriétaire ou gardien d'un animal à en enlever les excréments tant sur la propriété publique que privée, déterminer la façon d'en disposer et obliger ce propriétaire ou gardien à avoir les instruments nécessaires à cette fin;
+5. permettre à la municipalité de conclure des ententes avec toute personne ou tout organisme pour l'autoriser à percevoir le coût des licences d'animaux et à appliquer un règlement de la municipalité concernant ces animaux.
+La personne ou l'organisme avec lequel la municipalité conclut une entente ainsi que ses employés sont réputés être des fonctionnaires ou employés de la municipalité aux fins de la perception du coût des licences et de l'application du règlement de la municipalité.
+Un règlement adopté en vertu du premier alinéa peut ne s'appliquer que dans un secteur du territoire de la municipalité déterminé par celle-ci. Les prescriptions du règlement peuvent différer selon les secteurs et les catégories d'animaux déterminés par la municipalité.
+Un règlement adopté en vertu du premier alinéa prime une disposition inconciliable du présent code ou de la Loi sur les abus préjudiciables à l'agriculture (L.R.Q., c. A-2).
+[6] Dès le début de l'audition, l'intimée a admis que les licences vendues par l'appelante étaient des fournitures exonérées, en conformité avec l'article 20 de la partie VI, annexe V de la Loi sur la taxe d'accise (la « Loi » ), qui se lit comme suit :
+(20) Les fournitures suivantes effectuées par un gouvernement ou une municipalité, ou par une commission ou autre organisme établi par ceux-ci :
+a) l'enregistrement d'un bien et la production d'un document conformément à un régime d'enregistrement de biens;
+...
+e) les services de renseignements ou les certificats ou autres documents concernant :
+(i) le titre de propriété d'un bien ou les droits sur un bien,
+[7] Lors d'une analyse effectuée par monsieur Jacques Bourassa, technicien en vérifications fiscales, ce dernier a constaté que l'appelante n'avait pas perçu les taxes sur certains montants obtenus des contribuables visés par les contrats obtenus des municipalités.
+[8] Lors de son interrogatoire, monsieur Bourassa s'exprimait comme suit :
+Interrogatoire avec Me Ghislaine Thériault
+R. Avant de tout cotiser ça, j'ai fait une analyse sur les factures, des factures. Je me suis rendu compte que tous les 20 $, il n'y avait pas de taxes dessus.
+Q. Tous les 20 $?
+R. Tous les 20 $, il n'y avait pas de taxes dessus.
+Q. C'était quoi ça, les 20 $, c'étaient les permis, les taxes, ou c'étaient les permis, les licences?
+R. Sur la facture, c'était marqué, si je me rappelle bien, je ne me souviens pas, c'est loin, là, probablement qu'on a une facture au dossier, là, si je me rappelle bien, ça va être marqué * licence +.
+Q. Puis vous souvenez-vous de d'autres composantes qui devaient, dans votre évaluation, faire l'objet de taxes et qui ne l'ont pas été? Vous avez dit * tous les 20 $ +. Est-ce qu'il y avait d'autres choses?
+R. Non, le restant, c'était taxé.
+Q. Le restant, c'était taxé?
+R. Si je me rappelle bien, le restant, c'était taxé.
+[9] Pour justifier la cotisation, l'intimée soumet que le produit de la vente des licences constitue des honoraires, une commission entre les mains de l'appelante en contrepartie des services rendus pour les municipalités concernées par la vente des licences. De tels services, toujours selon l'intimée, seraient une fourniture taxable d'où les avis de cotisation et les pénalités.
+[10] L'intimée voudrait taxer indirectement ce qui n'est pas taxable directement. Une fourniture est taxable ou exemptée. En l'espèce, l'intimée reconnaît d'une part, que les licences vendues sont des fournitures exemptées par la Loi, mais d'autre part, soutient que le produit de la vente de ces mêmes licences devient une fourniture taxée, puisque le produit de la vente constitue, selon son interprétation, une rémunération.
+[11] L'intimée crée de toute pièce une transaction qui demeure fictive en vertu de laquelle le produit de la vente de licences est transformé en rémunération pour services rendus.
+[12] Ne pouvant taxer directement l'opération, elle conclut que le produit de la vente de licence (exemptée de la taxe) devient taxable en soutenant que les argents recueillis deviennent une rémunération, une commission, une contrepartie pour services rendus. Le vérificateur, Jacques Bourassa, a bien exprimé cette prétention :
+Contre-interrogatoire avec Me François Daigle
+R. Ce que je veux amener par là, c'est que les 20 $, là, ce n'est pas taxé. O.K. Mais au bout de la ligne, le montant, là, ne s'appelle plus * licences de chiens +, c'est la rémunération pour services rendus que ça devient; c'est converti, ça, là. Le 20 $ là...
+R. Ça devient un revenu de commissions. Parce que notre mandataire, nous autres, là, il agit à son propre compte. Il agit pour la municipalité parce qu'il est lié avec des contrats, mais il agit à son propre compte. C'est son propre employeur. T'sais, là, monsieur Marineau, là, son employeur, c'est Agence de sécurité mauricienne, ce n'est pas la municipalité. Puis il est payé, lui, comment? Par les revenus qu'il tire des licences. Le 20 $, là, c'est son revenu, sa rémunération pour services rendus. Il garde tout. Puis il faut qu'il administre son bureau; il faut qu'il paie ses dépenses d'opération. C'est ça qui sert le 20 $, là.
+(Je souligne)
+[13] Pour justifier la cotisation, l'intimée soutient également avoir une fourniture taxable qu'il a définie comme une commission, une rémunération, un service rendu ou des honoraires. Dans les faits, il n'en est rien, puisqu'il a essentiellement taxé ce qui à la face même ne l'était pas, à savoir les licences.
+[14] En vertu des dispositions prévues tant par la Loi sur les cités et villes que par le Code municipal du Québec, il n'y a aucun doute que le législateur a fait de toute personne ou organisme, lors de l'exécution de certains actes prévus ou décrits à la Loi, d'une manière expresse, des fonctionnaires ou employés.
+[15] En d'autres termes, toute personne ou organisme détenant un contrat avec une municipalité pour les fins de certaines dispositions de la Loi devient, bel et bien, un fonctionnaire ou employé de cette municipalité.
+[16] Je ne crois pas qu'il soit nécessaire d'avoir recours à un quelconque traité d'interprétation des lois pour comprendre et apprécier la portée de ces dispositions qui m'apparaissent très claires, d'autant plus que le législateur a lui-même prévu des dispositions particulières et expresses quant au statut du percepteur des licences.
+[17] Partant de là, je ne vois pas en quoi et comment l'intimée peut justifier l'avis de cotisation. Souscrire à la logique avancée par l'intimée aurait pour effet que tout employé de municipalité qui générerait des revenus par l'exercice de son travail serait susceptible de réclamer à son employeur la TPS et TVQ, puisque sa rétribution pourrait émaner de revenus ou résultant de son travail.
+[18] L'intimée prétend que ni l'appelante ni ses employés n'étaient de véritables fonctionnaires ou employés des municipalités en soutenant que l'employeur ne faisait aucune retenue sur leur rémunération, qu'ils ne payaient pas la Régie des rentes du Québec et la Commission des accidents de travail ainsi que tous les bénéfices marginaux habituellement assumés par l'employeur. Le législateur aurait prévu des dispositions futiles et vides de toute signification ?
+[19] L'intimée voudrait percevoir indirectement des taxes qu'il ne peut percevoir directement, les fournitures à l'origine de ses calculs étant expressément exonérées par la Loi.
+[20] Pour justifier la cotisation, l'intimée en change l'assiette; à l'origine une licence exemptée des fournitures taxables deviendrait soudainement un service, une commission, une attribution non exonérée et taxable; bien plus, elle occulte complètement le statut conféré par la Loi au percepteur de la licence en le comparant à un professionnel à qui la municipalité confierait un mandat.
+[22] Bien plus, il faudrait prendre pour acquis que le montant déboursé pour l'obtention d'une licence (fourniture exemptée) l'a été pour la contrepartie d'un service rendu (fourniture taxable).
+[23] Les fondements légaux relatifs à l'appel sont principalement les articles qui faisaient de l'appelante une employée ou fonctionnaire des municipalités signataires des contrats. D'autre part, les dispositions relatives à l'exemption sont tout aussi claires. D'ailleurs, l'intimée a reconnu que les licences dont le produit de vente avait constitué l'essentiel de la cotisation, constituaient des fournitures exclues en vertu de la Loi.
+[24] Pour justifier le bien-fondé de sa cotisation, l'intimée a recours à toutes sortes d'hypothèses dont le fait que les municipalités ne payaient aucun bénéfice à l'appelante et ou ses employés, comparable à ceux qu'elle devait assumer pour ses propres employés, changeant ainsi complètement le statut de l'appelante pour l'exécution des tâches décrites aux divers contrats.
+[25] Je ne retiens pas l'interprétation de l'intimée et je m'en remets simplement à la lettre de la Loi qui définit l'appelante comme employée de la municipalité au nom de qui ont été vendues les licences.
+[26] L'appel est donc accueilli en ce que l'avis de cotisation et les pénalités inhérentes sont annulés, le tout avec les frais en faveur de l'appelante.
+Signé à Ottawa, Canada ce 16e jour de mai 2003.
+« Alain Tardif »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI284
+No DU DOSSIER DE LA COUR :
+2001-3075(GST)G
+INTITULÉ DE LA CAUSE :
+Agence de sécurité Mauricienne (1983) Inc.
+et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Trois-Rivières (Québec)
+DATE DE L'AUDIENCE
+le 31 janvier 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 16 mai 2003
+COMPARUTIONS :
+Pour l'appelante :
+Me François Daigle
+Pour l'intimée :
+Me Ghislaine Thériault
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me François Daigle
+Étude :
+Beaumier, Roberge, Vigeant, Laprise, Daigle
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

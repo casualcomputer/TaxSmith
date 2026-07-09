@@ -1,0 +1,155 @@
+Title: Matthew MacIsaac Consulting Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/482059/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-44-482059-matthew-macisaac-consulting-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-07-06
+
+# Matthew MacIsaac Consulting Inc. v. The Queen
+
+- Citation: 2020 TCC 44
+- Decision date: 2020-07-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4580, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Matthew MacIsaac Consulting Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-07-06
+Neutral citation
+2020 TCC 44
+File numbers
+2018-1746(IT)G
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-1746(IT)G
+BETWEEN:
+MATTHEW MACISAAC CONSULTING INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on July 18, 2019 at Toronto, Ontario
+Before: The Honourable Justice Susan Wong
+Appearances:
+Counsel for the Appellant:
+Elie S. Roth
+Bobby J. Sood
+Counsel for the Respondent:
+Brent Cuddy
+ORDER
+UPON the Appellant bringing a motion for determination, before hearing, of the following questions pursuant to section 58 of the Tax Court of Canada Rules (General Procedure):
+(a) Whether a misrepresentation (i.e. “présentation erronée des faits”) within the meaning of subparagraph 152(4)(a)(i) of the Income Tax Act means a misrepresentation of fact, and not mixed law and fact;
+(b) Whether the characterization of gains as being on capital versus income account is a question of mixed law and fact and therefore outside the meaning of subparagraph 152(4)(a)(i) of the Income Tax Act; and
+(c) Whether the statute-barred reassessments are invalid.
+AND UPON having heard the submissions of counsel and having read the materials filed;
+AND in accordance with the attached Reasons for Order;
+NOW THEREFORE the Court orders that:
+The motion is dismissed with costs to the Respondent in any event of the cause; and
+The parties shall communicate with the Hearings Co-ordinator, by September 10, 2020, and submit a proposed timetable for the completion of all remaining litigation steps.
+Signed at Ottawa, Canada, this 6th day of July 2020.
+“S. Wong”
+Wong J.
+Citation: 2020 TCC 44
+Date: 20200706
+Docket: 2018-1746(IT)G
+BETWEEN:
+MATTHEW MACISAAC CONSULTING INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Wong J.
+I. Introduction
+[1] The Appellant applies under section 58 of the Tax Court of Canada Rules (General Procedure) for the determination of three questions prior to the eventual hearing of this appeal.
+[2] The application before me is stage one of the two-stage process under rule 58, being the determination as to whether this Court should order that there be a future hearing to determine the questions themselves.
+[3] Subsection 58(2) says that this Court may grant such an order if it appears that the determination of the question before the hearing may dispose of all or part of the proceeding or result in a substantially shorter hearing or a substantial saving of costs. The discretion still remains with this Court even if one or more of these factors seems likely.
+[4] The parties have not exchanged lists of documents or conducted examinations for discovery yet. In addition, this Court has not yet issued a timetable order with respect to the completion of litigation steps.
+II. Proposed Questions
+[5] The questions put forth by the Appellant and set out in the notice of motion are as follows:
+(a) Whether a misrepresentation (i.e. “présentation erronée des faits”) within the meaning of subparagraph 152(4)(a)(i) of the Income Tax Act means a misrepresentation of fact, and not mixed law and fact;
+(b) Whether the characterization of gains as being on capital versus income account is a question of mixed law and fact and therefore outside the meaning of the subparagraph 152(4)(a)(i) of the Income Tax Act; and
+(c) Whether the statute-barred reassessments are invalid.
+III. Review of the Pleadings
+[6] The taxation years under appeal are 2005, 2006, and 2008 to 2014 (i.e. nine years in total).
+[7] The Minister of National Revenue reassessed the 2005, 2006, 2008, 2009, 2010, and 2011 taxation years beyond the normal reassessment period under subparagraph 152(4)(a)(i), on the basis that the Appellant made misrepresentations attributable to neglect, carelessness or wilful default.
+[8] The Minister’s reassessments of the 2012, 2013, and 2014 taxation years were within the normal reassessment period and therefore, not statute-barred.
+[9] The 2006 taxation year was only reassessed under Part I of the Act while the remaining eight taxation years were reassessed under both Parts I and III.
+[10] With respect to the Part III reassessments, subsection 185(3) of the Act provides that among other things, subsection 152(4), sections 163 to 167, and Division J of Part I apply with such modifications as the circumstances require. The practical effect of adopting these provisions for the purposes of Part III is that statute-barred assessments as well as the objection and appeal processes under Part I also apply to Part III.
+[11] The Appellant appeals the Part I reassessments pursuant to paragraph 169(1)(a) of the Act, i.e. following the Minister’s confirmation. With respect to the Part III reassessments, the Appellant appeals pursuant paragraph 169(1)(b) of the Act, i.e. 90 days elapsed following service of the notice of objection and the Minister had not notified the Appellant of a decision.
+[12] Based on my review of the pleadings, the issues under appeal are as follows:
+a) the statute-barred issue already discussed with respect to 2005, 2006, and 2008 to 2011 (i.e. six years in total);
+b) whether proceeds from the disposition of shares in an offshore fund were on account of income or capital; and
+c) whether dividends payable in 2005 and 2008 to 2014 (i.e. eight years in total) exceeded the appellant’s capital dividend account balance under Part III of the Act.
+[13] The reply to the notice of appeal suggests that there are three other non-arm’s length entities which form part of the factual background to this appeal, in addition to the offshore fund and the Appellant.
+IV. Positions of the Parties
+[14] The Appellant submits that the proposed questions require this Court to determine whether a difference of opinion between the Appellant and the Minister on the characterization of gains as income versus capital is a misrepresentation captured by subparagraph 152(4)(a)(i).
+[15] The Appellant also referred this Court to the distinction between the French version of subparagraph 152(4)(a)(i) which reads “une présentation erronée des faits” while the English version reads “any misrepresentation”. In this context, the Appellant submits that the income-versus-capital issue is one of mixed law and fact and as a result, cannot constitute a misrepresentation for the purposes of subparagraph 152(4)(a)(i).
+[16] The Respondent submits that the Appellant’s motion seeks to bifurcate the proceedings and that in the present case, there is a factual component which cannot be separated from the question of whether there has been a misrepresentation.
+[17] The Respondent also submitted that it is not clear yet as to whether credibility will be an issue or whether the determination of these questions would shorten the hearing.
+V. Analysis
+[18] The three proposed questions are essentially three parts of a single question, i.e. the answer to the first question determines the answer to the second and third question. Therefore, it is appropriate for me to focus on the first proposed question, which is:
+(a) Whether a misrepresentation (i.e. “présentation erronée des faits”) within the meaning of subparagraph 152(4)(a)(i) of the Income Tax Act means a misrepresentation of fact, and not mixed law and fact.
+[19] This question requires a decision as to whether the English or French version of the provision is to be preferred and submits that this Court should prefer the French version.
+[20] The determination of this question would likely dispose of part of the proceeding and/or result in a substantially shorter hearing by possibly invalidating the reassessments with respect to six of the nine years under appeal.
+[21] However, I do not believe that this question is suitable for determination under rule 58. Specifically, I do not believe that where the assessment issue includes an allegation of neglect, carelessness or wilful default, it can be properly determined by a trier of fact without the factual context.
+[22] The meaning of the phrase “une présentation erronée des faits” appears to be prima facie different from the meaning of the phrase “any misrepresentation”.
+[23] The English and French versions are of equal force and effect, and there is no basis to prefer one version over the other without further context.
+[24] I cannot agree with the Appellant’s proposition [at paragraph 9 of the notice of motion] that a question of income versus capital necessarily amounts to a difference in opinion. In my view, the factual circumstances of the appeal will determine whether the issue of income versus capital is purely a difference of opinion or not. Related to that determination will be a determination as to whether there was a misrepresentation under subparagraph 152(4)(a)(i).
+[25] The question of whether a misrepresentation under subparagraph 152(4)(a)(i) contemplates fact only or mixed-law-and-fact, should properly remain with the trier of fact to determine in conjunction with the related substantive issues.
+[26] In Pasquale Paletta v. Her Majesty the Queen, 2016 TCC 171, affirmed by the Federal Court of Appeal in 2017 FCA 33, this Court was asked to consider a proposed rule 58 question which also dealt with subparagraph 152(4)(a)(i). In that instance, seven taxation years were involved, the Appellant proposed to concede the fact of the misrepresentation, and he sought to have the Court determine only the question of whether the misrepresentation was attributable to neglect, carelessness or wilful default.
+[27] I agree with this Court’s statement at paragraph 32, which reads as follows:
+[T]he issue of whether the conceded misrepresentation is attributable to neglect, carelessness or wilfil default cannot be resolved without an appreciation of all of the circumstances surrounding the filing positions taken by the Appellant in his returns for the Taxation Years. Those circumstances have not been agreed upon by the parties and, in fact, are at the heart of the highly contested reassessment issue.
+[28] In that appeal, examinations for discovery had not yet been held: see Paletta, 2016 TCC 171 at paragraph 2. In the present case, documents have not yet been exchanged nor have discoveries been conducted. Without these steps having been taken or at least in progress, I cannot agree with the Appellant’s submission that the facts are largely not in dispute. While the mechanics of the transactions may not be in dispute, the factual circumstances have yet to be determined for the purposes of confirming or rebutting the Minister’s assumptions.
+[29] Similar to the conclusion reached in Paletta at paragraph 43, I am of the view that the proposed approach would not provide a fair and just adjudication of the statute-barred issue.
+[30] I believe that the present situation also differs from the one in Rio Tinto Alcan Inc. v. The Queen, 2016 TCC 31. The questions approved by the Court in that case were distinct from the substantive issues under appeal.
+[31] In Rio Tinto, the questions approved at paragraph 94 were essentially: (a) whether the Minister could reassess without first reviewing the relevant facts, and (b) whether the Minister could reassess outside the normal reassessment period where the reassessed items were not listed in subsections 152(4) or 152(4.01) of the Act. Those questions can be determined without considering the underlying facts, while the present proposed question cannot or should not be decided without examining the factual circumstances.
+[32] Since my conclusion is negative with respect to the first proposed question and the remaining two questions flow from that question, it is not necessary for me to examine the second and third questions.
+VI. Conclusion
+[33] For the above reasons, I order as follows:
+a) the motion is dismissed with costs to the Respondent in any event of the cause; and
+b) the parties shall submit a proposed timetable for completion of the remaining litigation steps by September 10, 2020.
+Signed at Ottawa, Canada, this 6th day of July 2020.
+“S. Wong”
+Wong J.
+CITATION:
+2020 TCC 44
+COURT FILE NO.:
+2018-1746(IT)G
+STYLE OF CAUSE:
+MATTHEW MACISAAC CONSULTING INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 18, 2019
+REASONS FOR ORDER BY:
+The Honourable Justice Susan Wong
+DATE OF ORDER:
+July 6, 2020
+APPEARANCES:
+Counsel for the Appellant:
+Elie S. Roth
+Bobby J. Sood
+Counsel for the Respondent:
+Brent Cuddy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Elie S.Roth
+Bobby J. Sood
+Firm:
+Davies Ward Phillips & Vineberg LLP
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

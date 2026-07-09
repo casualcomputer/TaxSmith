@@ -1,0 +1,350 @@
+---
+title: "Otis Croteau c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22794/index.do"
+last_modified: "2005-02-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 54"
+citation2: ""
+neutral_citation: "2005 TCC 54"
+decision_date: "2005-02-11"
+language: "en"
+item_id: "22794"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2241
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:02:36.482000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ec5dc14126cc3591f111a359d6da9d870f418a9f4e8309b980d0d83effa8d259"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Otis Croteau c. M.R.N.
+
+- Citation: 2005 TCC 54
+- Decision date: 2005-02-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2241, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Otis Croteau c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-11
+Neutral citation
+2005 TCC 54
+File numbers
+2003-3108(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-3108(EI)
+BETWEEN:
+FRANCINE OTIS CROTEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+NOUBACO INC.,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on September 2, 2004, at Matane, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Agent for the Appellant:
+Yannick Croteau, articling student
+Counsel for the Respondent:
+Marie-Claude Landry
+Agent for the Intervenor:
+Serge Croteau
+____________________________________________________________________
+JUDGMENT
+The appeal made under subsection 103(1) of the Employment Insurance Act is dismissed on the ground that the work performed by the Appellant during the period at issue is excluded from insurable employment, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of February 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 30th day of June 2005.
+Aveta Graham, Translator
+Citation: 2005TCC54
+Date: 20050211
+Docket: 2003-3108(EI)
+BETWEEN:
+FRANCINE OTIS CROTEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+NOUBACO INC.,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal of the decision dated June 17, 2003.
+[2] According to the decision contested by this appeal, the work performed by the Appellant on behalf of and for the benefit of "Noubaco Inc.," a company directed and controlled by her husband, was not insurable under paragraph 5(2)(i) of the Employment Insurance Act (the "Act").
+[3] The periods covered by that decision are the following:
+from September 11, 1995, to January 13, 1996,
+from February 11, 1996, to January 4, 1997,
+from February 9, 1997, to January 2, 1998,
+from February 2, to December 31, 1998,
+from February 21, to December 30, 1999,
+from February 28, to December 30, 2000,
+from March 5, 2001, to January 4, 2002.
+[4] Noubaco Inc., directed and controlled by the Appellant's husband, showed its interest in the file through a notice of intervention.
+[5] Paragraph 5(2)(i) of the Act provides that employment is excluded from insurable employment when the work is performed by a person who is not dealing at arm's length with the employer.
+[6] However, subsection 5(3) provides that the exclusion does not apply if the facts, circumstances and terms and conditions surrounding the performance of the work are comparable or similar to those which could exist in a similar situation if the parties to the work contract had been dealing with each other at arm's length.
+[7] Paragraph 5(2)(i) and subsection 5(3) of the Act read as follows:
+(2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[8] To explain and support his decision, the Minister of National Revenue (the "Minister") presented the following long list of assumptions of fact:
+(a) the Payor was incorporated on August 18, 1987; (admitted)
+(b) the Payor conducted business under the company name "Boutique Franse Monde Enr."; (admitted)
+(c) during the periods at issue, the sole shareholder of the Payor was Serge Croteau; (admitted)
+(d) the Appellant is Serge Croteau's husband; (admitted)
+(e) the Payor operated a women's clothing business and a Sears catalogue outlet in the town of Price, near Mont-Joli; (admitted)
+(f) the business hours were from Monday to Wednesday from 9:30 a.m. to 5:30 p.m., Thursday from 9:30 a.m. to 6:00 p.m., Friday from 9:30 a.m. to 9:00 p.m. and Saturday from 9:30 a.m. to 5:00 p.m., that is, 51 hours and 30 minutes per week; (admitted)
+(g) the Payor's annual sales varied from $150,000 to $162,000 in addition to the sales commissions paid by Sears which varied from $11,000 to $14,000 per year; (admitted)
+(h) the Appellant was hired as a sales clerk; (admitted)
+(i) the Appellant's duties consisted in making sales on the floor, handling catalogue orders, making commissions for the business, making the bank deposits, balancing the Sears accounts, redoing the business's display window every two weeks, making purchases for the business in Quebec city and Rimouski; (admitted)
+(j) each year, the Appellant was entered on the Payor's payroll for 36 hours per week for the months from September to December; (admitted)
+(k) each year, the Appellant appeared on the Payor's payroll for the remaining months with weeks of three hours, five hours or ten hours except for a few weeks were she was not on the payroll; (admitted)
+(l) the Payor's sales were as high during the months from April to June as they were during the months from September to December; (admitted)
+(m) the Appellant's periods of full-time employment did not correspond with the Payor's busiest months; (denied)
+(n) it is unreasonable to believe that the Appellant's volume of work was different in the spring than in the fall; (denied)
+(o) the purchases in Rimouski were made on Sundays, a task that the Appellant performed voluntarily; (denied)
+(p) the Appellant made the bank deposits in Mont-Joli every second day without receiving compensation for that task; (denied)
+(q) the Appellant worked hours with no declared earnings; (denied)
+(r) the Payor's payroll did not reflect the hours actually worked by the Appellant; (denied)
+(s) the Appellant was on the payroll at the minimum wage rate; (admitted)
+(t) the Appellant was paid biweekly by cheque; (denied)
+(u) the Appellant deposited her earnings in the Payor's bank account; (denied)
+(v) On December 10, 2002, in her second signed declaration to Human Resources Development Canada, the Appellant stated: [translation] "I signed my paycheques and they were re-deposited in the account because my husband paid me in cash when he could";
+(w) the Appellant took advances of $100 from the cash register when the Payor had enough cash flow;
+(x) on June 11, 2002, in her first signed declaration to Human Resources Development Canada, the Appellant stated: [translation] "sometimes there was a delay in my pay because the purchases for the business were paid before me because there were periods where there was a lack of cash flow";
+(y) on June 11, 2002, in her first signed declaration to Human Resources Development Canada, the Appellant stated: [translation] "If I was not receiving unemployment, the business would not have had the means to pay me";
+(z) on June 11, 2002, in her first signed declaration to Human Resources Development Canada, the Appellant stated: [translation] "I would not do that for another employer but I did it because it is our business";
+(aa) the services performed by the Appellant were necessary and important for the Payor throughout the year; (denied)
+(bb) on January 15, 1996, the Payor gave the Appellant a record of employment that listed the first day of work as September 11, 1996, and the last day of work as January 13, 1996, and indicated 18 insurable weeks and total earnings of $4,212; (admitted)
+(cc) on January 9, 1997, the Payor gave the Appellant a record of employment that listed the first day of work as February 11, 1995, and the last day of work as January 4, 1997, and indicated 36 insurable hours and total earnings of $3,507; (admitted)
+(dd) on January 6, 1998, the Payor gave the Appellant a record of employment that listed the first day of work as February 9, 1997, and the last day of work as January 2, 1998, and indicated 808 insurable hours and total earnings of $5,038; (admitted)
+(ee) on January 6, 1999, the Payor gave the Appellant a record of employment that listed the first day of work as February 2, 1998, and the last day of work as December 31, 1998, and indicated 590 insurable hours and total earnings of $3,572; (admitted)
+(ff) on an unspecified date, the Payor gave the Appellant a record of employment that listed the first day of work as February 21, 1999, and the last day of work as December 30, 1999, and indicated 713 insurable hours and total earnings of $4,452; (admitted)
+(gg) on January 5, 2001, the Payor gave the Appellant a record of employment that listed the first day of work as February 28, 2000, and the last day of work as December 30, 2000, and indicated 778 insurable hours and total earnings of $5,446; (admitted)
+(hh) on January 8, 2002, the Payor gave the Appellant a record of employment that listed the first day of work as March (unspecified), 2001, and the last day of work as January 4, 2002, and indicated 778 insurable hours and total earnings of $4,886; (admitted)
+(ii) the Appellant's records of employment are not consistent with the reality with respect to the hours and the remuneration paid to the Appellant. (denied)
+[9] Subparagraphs (a), (b), (c), (d), (e), (f), (g), (h), (i), (j), (k), (l), (s), (bb), (cc) (corrected), (dd), (ee), (ff), (gg) and (hh) of paragraph 5 of the Reply to Notice of Appeal were admitted. Subparagraphs (m), (n), (o), (p), (q), (r), (t), (u), (aa) and (ii) were denied. Subparagraphs (v), (w), (x), (y) and (z) were neither admitted nor denied since the agents for the Appellant and the Intervenor indicated that they took note of them.
+[10] To meet the burden of proof placed on the Appellant, the Appellant's agent called as witnesses the Appellant, the Intervenor's agent as well as the accountant responsible for the personal accounting of the Appellant and her husband and the accounting for the company.
+[11] First, Francine Otis Croteau, the Appellant, explained the origins of the business; she described the circumstances surrounding her acquisition in the early 1980s. She really emphasized the fact that she was not paid during the various trips required to make the purchases.
+[12] To justify not charging for her services, she stated that this was how it was with the former owners and that, in any case, it was a very interesting experience and that her expenses were paid. In summary, she felt that it was not work at all; in any event, she stated, that was not part of her job description.
+[13] Then, she indicated that her workload had increased considerably throughout the years and then decreased because of the significant changes made by Sears, with which the Intervenor was associated for the operation of a catalogue outlet.
+[14] For a reduced commission during the periods at issue, the business took orders, received the purchases and contacted the clients so that they could come and take possession of the merchandise delivered by Sears to the Intervenor's offices.
+[15] If the client was not satisfied, all the merchandise could be returned. For all transactions, the Intervenor only received a commission on final sales, meaning that the Intervenor was not entitled to anything if the merchandise was returned.
+[16] The Appellant also explained her relationship with the Intervenor, namely that at the beginning she did not receive a salary. She began to receive a salary when the legislator set out that a person could work for a person with whom the person was not dealing at arm's length and be entitled to employment insurance benefits if that person lost their job and met certain regulatory conditions.
+[17] On the advice of the accountant and after verifying with the authorities, the Intervenor then paid the required assessments, given that it was a true contract of service according to the professionals consulted.
+[18] During their testimony, the Appellant and her husband very often mentioned that it was a small business whose operating rules were not at all comparable to what was going on in large urban centres.
+[19] Those clarifications were necessary given the very unique nature of the file, namely that during all the periods at issue, the work performed by the Appellant essentially took place during the period from September to December. Outside that period, she worked very little to the point that she claimed and received employment insurance benefits after being laid off for lack of work.
+[20] It was also very much a question of the salary payment terms and conditions; the Respondent questioned the reality of the payment of the remuneration. The Intervenor and the Appellant submitted various versions; despite the numerous explanations, that question is still unclear.
+[21] The Appellant and her husband submitted explanations regarding the different versions of the facts given during the investigation. One fact was established: the Appellant was not paid, on a regular and continuous basis, the earnings indicated on the record of employment.
+[22] Maintaining from the outset that the versions understood during the review of the file were not consistent with what they had said, the Appellant, in particular, provided a number of explanations from failure to understand the questions to a misinterpretation of her responses, to discomfort, harassment and intimidation. Surprisingly, I noted changes in her own explanations even during her testimony before the Court.
+[23] After having solemnly stated that she regularly received her pay in cash and not by cheque, which was essentially an accounting practice, she later indicated that she took money from the cash register to pay the family expenses for which she was responsible.
+[24] On the issue of earnings, the testimony of her husband, as Intervenor, not only failed to clarify anything, but rather contributed to making the issue even more unclear.
+[25] The lack of consistency with regard to the paycheques led the Appellant's husband to say, and I quote: [translation] "Is a cash payment illegal?" The answer is clearly no; however, there is cause to ask questions when the initial claims were that the cheques proved payment and receipt of salary.
+[26] Generally, the Appellant and her husband, as agent of the Intervenor, provided all sorts of explanations that were ambiguous, confusing and inconsistent and, at the time, completely contradictory to support their fundamental claims that the Appellant had been paid and that she had not worked at all, or very little, from January to September during the years at issue.
+[27] The only element that they emphasized as being clearly an error in the gathering of the data considered during the processing of their file was the question of the location where the business's deposits were made.
+[28] The Respondent submits that they were made outside the small community where the business was located, whereas the uncontradicted evidence showed that they were made at the counter or at the Caisse Populaire in the municipality of Price. That is a fact of little importance. The evidence also established that it was an element that had no effect on the Minister's decision because the difference between the two versions was in the time required to travel to either of the institutions.
+[29] The company's accountant, Francis Deschênes, also testified. After the Court intervened to steer his testimony to relevant issues, he stated that over the years, the business's sales had not varied very much; it was constant and more or less always the same.
+[30] As to the breakdown of sales by month and the different seasons, he indicated that he had done so and noted that the period from September to December represented 44% of the annual volume of business, the period from April to June represented 25%, and the other period, that is, January, February, March, July and August, represented 31%.
+[31] In support of Minister's decision, the Respondent called as witnesses Jean-Luc Gauthier, investigator, and Louise Dessurealt, appeals officer. It was then a question of the Appellant's two statutory declarations (Exhibits A-5 and A-6) and especially the following excerpts:
+[translation]
+Statutory declaration to the Commission - June 11, 2002 (Exhibit A-5)
+. . .
+Francine Otis Croteau
+. . . I am paid biweekly at the minimum wage rate by cheque. Unless it happens that there is a delay in my pay because the purchases for the business are paid before me because there are periods where there is a lack of cash flow. Serge may give me a series of post-dated biweekly cheques because he has to enter them on the payroll otherwise he tells me when the cash, that is, when there are funds to pay me. That is why sometimes I do not cash my paycheques immediately after receiving them. Because otherwise, the company would have difficulties because there were periods when I could not be paid due to a lack of funds. That helps to keep our business going. Sometimes it takes two months to be able to get paid. Certainly, if I worked for another employer I could not accept these conditions.
+. . .
+Before being entitled to unemployment, I worked at the business as needed and based on my availability without being paid because the business did not have the means to pay me. I was like an associate in the family business. If I did not receive unemployment, the business would not have had the means to pay me, that would be like before I was entitled to unemployment. I would not do that for another employer but I did it because it is our business and otherwise we would not succeed.
+. . .
+Statutory declaration to the Commission - December 16, 2002 (Exhibit A-6)
+. . . I know that I signed my paycheques and that they were re-deposited in the account because my husband paid me in cash when he could. We wanted to avoid using the line of credit because there are fees. My husband gave me money when I needed it to pay expenses such as groceries and gas for the car and that could be $100 or $200 at a time . . .
+[32] They noted the atmosphere, context and circumstances of their meetings and telephone conversations. They provided numerous details to the effect that the Appellant and her husband had fully cooperated during their investigation. They answered all the questions, provided the documents and, without any problem, signed the two statutory declarations in the case of the Appellant.
+[33] All the information obtained and the accounting documents consulted allowed the Respondent to make abundantly clear findings. Furthermore, the facts were reproduced in a table leaving no ambiguity as to the improbability of the arguments of the Appellant and her husband during the hearing both with regard to the pay and the periods of employment.
+[34] I am referring, in particular, to certain undeniable and revealing facts indicated in the report prepared by Louise Dessureault (Exhibit I-2):
+[translation]
+. . .
+40. Period of employment for 1995: Francine Croteau was entered on the Payor's payroll for 36 hours of work per week, from September 11, 1995, to January 13, 1996, totalling 18 weeks at full time. During that period, the monthly sales fluctuated from $12,943 (November 95) to $20,331 (September 95) and $7,137 in January 1996. (Tables, Tab i).
+41. From March 12, 1995, to September 9, 1995, the Appellant was entered on the payroll from five to six hours per week. The Payor's sales totalled $13,887 in April 95, $17,980 in May 95 and $14,933 in June 1995.
+42. Period of employment for 1996: Francine Croteau was entered on the Payor's payroll for 36 hours of work per week, from September 8, 1996, to January 11, 1997, totalling 18 weeks at full time. During that period, the monthly sales fluctuated from $11,945 (November 96) to $22,212 (September 96) and $9,842 in January 1997. (Tables, Tab i).
+43. From February 11, 1996, to September 7, 1996, the Appellant was entered on the payroll from five to ten hours per week. The Payor's sales totalled $14,877 in April 96, $16,925 in May 96 and $15,203 in June 1996.
+44. Period of employment for 1997: Francine Croteau was entered on the Payor's payroll for 36 hours of work per week, from September 7, 1997, to January 2, 1998, totalling 17 weeks at full time. During that period, the monthly sales fluctuated from $12,145 (November 97) to $19,248 (September 97) and $17,040 in December 1997. (Tables, Tab i).
+45. From February 9, 1997, to September 6, 1997, the Appellant was entered on the payroll from three to ten hours per week. The Payor's sales totalled $17,561 in April 97, $15,402 in May 97 and $15,232 in June 1997.
+46. The Appellant was paid monthly. Her pay for February and March 1997 was re-deposited into the Payor's bank account on April 14, 1997, her pay for June, July and September 1997 was re-deposited into the Payor's bank account on November 7, 1997.
+47. The period from September 7, 1997, to September 27, 1997, totalled three weeks of 36 hours for a total of 108 hours, while the payroll reported 144 hours, the amount entered on the record of employment.
+48. Period of employment for 1998: Francine Croteau was entered on the Payor's payroll for 36 hours of work per week, from October 4, 1998, to December 31, 1998, totalling 13 weeks at full time. During that period, the monthly sales fluctuated from $14,078 (October 98) to $13,449 (November 98) and $17,025 in December 1998. During that period, the commissions on the Sears sales fluctuated from $849 (December 1998) to $1,397 (November 1998) (Tables, Tab i).
+49. From February 2, 1998, to October 3, 1998, the Appellant was entered on the Payor's payroll for three to five hours per week. The Payor's sales totalled $15,2445 [sic] in April 98, $19,792 in May 98, $15,941 in September 1997.
+50. The Appellant was paid monthly. Her pay for April 1998 was re-deposited into the Payor's bank account on May 6, 1998, her pay for May 1998 was re-deposited into the Payor's bank account on June 4, 1998, her pay for July 1998 was re-deposited into the Payor's bank account on August 7, 1998, her pay for November 1998 was re-deposited into the Payor's bank account on December 9, 1998, and the pay for . . . December 1998 was re-deposited into the Payor's bank account on April 9, 1999.
+51. Period of employment for 1999: Francine Croteau was entered on the Payor's payroll for 36 hours of work per week, from September 12, 1999, to December 30, 1999, totalling 16 weeks at full time. During that period, the monthly sales fluctuated from $16,250 (September 99) to $13,614 (November 99) and $20,198 in December 1999. The commissions on the Sears sales fluctuated from $972 (September 1999) to $1,034 (November 1999) (Tables, Tab i).
+52. From February 21, 1999, to September 11, 1999, the Appellant was entered on the payroll from three to five hours per week. The Payor's sales totalled $15,815 in April 1999, $24,911 in May 1999, $14,537 in July 1999. The commissions on the Sears sales fluctuated from $1,123 (April 1999) to $997 (May 1999) and $3,981 in June 1999.
+53. The Appellant was paid biweekly. Her pay for February and March 1999 was re-deposited into the Payor's bank account on April 14, 1999, her pay for mid-August and mid-September 1999 was received in March and April 2000 and the pay for the end of September 1999 to December 4, 1999, was re-deposited into the Payor's bank account on February 4, 2000. The pay for the periods from December 5 to 31, 1999, was received on February 9, 2000, and March 27, 2000.
+54. Period of employment for 2000: Francine Croteau was entered on the Payor's payroll for 36 hours of work per week, from August 27, 2000, to December 30, 2000, totalling 18 weeks at full time. During that period, the monthly sales fluctuated from $17,802 (September 2000) to $11,206 (November 2000) and $13,492 in December 2000. The commissions on the Sears sales fluctuated from $769 (November 2000) to $1,526 (December 2000) (Tables, Tab i).
+55. From February 27, 2000, to August 26, 2000, the Appellant was entered on the payroll for five hours per week. The Payor's sales totalled $18,013 in May 2000, $15,642 in June 2000, $13,342 in July 2000. The commissions on the Sears sales fluctuated from $1,206 (May 2000) to $1,485 (July 2000).
+56. The Appellant was paid biweekly. Her pay for March 27, 2000, to September 9, 2000, was re-deposited into the Payor's bank account on September 27, 2000, her pay for December 2000 was re-deposited in the Payor's bank account on March 30, 2001.
+57. Period of employment for 2001: Francine Croteau was entered on the Payor's payroll for 36 hours of work per week, from August 26, 2001, to January 4, 2002, totalling 18 weeks at full time. During that period, the monthly sales fluctuated from $16,048 (September 2001) to $15,931 (November 2001) and $15,279 in December 2001. The commissions on the Sears sales fluctuated from $1,477 (October 2001) to $1,609 (December 2000) and $2,320 in January 2002. (Tables, Tab i).
+58. From March 4, 2001, to August 25, 2001, the Appellant was entered on the payroll for five hours per week. The Payor's sales totalled $17,285 in April 2001, $17,389 in May 2001, $13,279 in June 2001. The commissions on the Sears sales fluctuated from $1,304 (April 2001) to $403 (May 2001) and $2,320 in January 2002.
+59. The Appellant was paid biweekly. Her pay for March, April and May 2001 was re-deposited into the Payor's bank account on April 6 and July 3, 2001, the same is true for that of the first biweekly period in June and the pay for July and August 2001 was re-deposited in the Payor's bank account on October 5, 2001.
+60. From 1999 to 2001, the store's sales and the Sears commissions were distributed as follows:
+Year
+Store Sales
+Sears Commissions
+Annual Total
+1999
+2000
+2001
+$162,154
+$150,934
+$162,042
+$14,010
+$12,487
+$11,394
+$176,164
+$163,421
+$173,436
+61. According to the letter from Sears dated March 26, 2003, the annual sales made by Serge Croteau, catalogue agent for Sears Canada Inc., fluctuated from $130,465 in 2001 to $189,130 in 1998. Most of the catalogue sales were made from October to the end of December, the peak month being December (Tab J).
+From those facts, Ms. Dessureault drew the following conclusions (Exhibit I-2):
+[translation]
+. . .
+The analysis of the monthly sales and the Appellant's periods of employment (facts 40 to 58) shows that from 1995 to 2001, the sales made in April, May and June, when the Appellant was entered on the Payor's payroll for three to ten hours of work per week from 1995 to 1997, from three to five hours per week in 1999 and five hours per week in 2000 and 2001, are comparable to and sometimes higher than the sales made from September to December, when the Appellant was entered on the Payor's payroll for 36 hours of work per week . . .
+In 1997: The Appellant was paid monthly. Her pay for February and March 1997 was re-deposited into the Payor's bank account on April 14, 1997, her pay for June, July and September 1997 was re-deposited into the Payor's bank account on November 7, 1997.
+In 1998: The Appellant was paid monthly. Her pay for April 1998 was re-deposited into the Payor's bank account on May 6, 1998, her pay for May 1998 was re-deposited into the Payor's bank account on June 4, 1998, her pay for July 1998 was re-deposited into the Payor's bank account on August 7, 1998, her pay for November 1998 was re-deposited into the Payor's bank account on December 9, 1998, and her pay for December 1998 was re-deposited into the Payor's bank account on April 9, 1999.
+In 1999: The Appellant was paid biweekly. Her pay for February and March 1999 was re-deposited into the Payor's bank account on April 14, 1999, her pay for mid-August and mid-September 1999 was received in March and April 2000 and her pay for the end of September 1999 to December 4, 1999, was re-deposited into the Payor's bank account on February 4, 2000. She received her pay for the periods from December 5 to 31, 1999, on February 9, 2000, and March 27, 2000.
+In 2000: The Appellant was paid biweekly. Her pay for March 27, 2000, to September 9, 2000, was re-deposited into the Payor's bank account on September 27, 2000, her pay for December 2000 was re-deposited in the Payor's bank account on March 30, 2001.
+In 2001: The Appellant was paid biweekly. Her pay for March, April and May 2001 was re-deposited into the Payor's bank account on April 6 and July 3, 2001, the same is true for that of the first biweekly period in June, which was re-deposited in the Payor's bank account on July 3, 2001, and the pay for July and August 2001 was re-deposited in the Payor's bank account on October 5, 2001.
+. . .
+In reality, from 1995 to January 2000, the only regular payments received by the Appellant were her employment insurance benefits, which were paid to her during the periods from January to the beginning of September each year.
+. . .
+[35] Furthermore, the facts derived from the various tables are eloquently supported by another aspect of the file. First, Mr. Gauthier analyzed the facts according to the different employment insurance claims submitted by the Appellant. He thereby indicated the number of weeks of employment insurance that the Appellant could have obtained and the number received. The results are the following:
+Year
+Number of weeks possible
+Number of weeks received
+1997
+1998
+1999
+2000
+2001
+2002
+34
+37
+34
+30
+37
+33
+33
+37
+34
+30
+32
+investigation began when the Appellant received 26 of 33 possible weeks
+[36] That significant data, which makes it possible to understand and better interpret the evidence, is further confirmed by the Appellant's statutory declarations. Actually, the Appellant's lay-offs and returns to work had nothing to do with the economic conditions and level of business. That assessment stems in particular from the accountant's testimony. The lay-offs were planned and orchestrated for the sole purpose taking maximum advantage of the employment insurance program.
+[37] First, the Appellant and her husband worked together in an irreproachable manner where it was a question of the insurable nature of the work; since there was already a favourable decision with regard to the work, they thus undoubtedly thought that they were protected from any problem.
+[38] As the results of the investigation proved disastrous, they then clearly decided to argue using all sorts of far-fetched explanations, which the Appellant offered in a manner that was hesitant, confused, vague and riddled with inconsistencies and contradictions.
+[39] There is no doubt that the Respondent conducted a proper analysis and considered all the relevant facts. The process added nothing new, except it eloquently demonstrated the eagerness of the Appellant and her husband to avoid having to repay the amounts claimed as a result of the Minister's decision.
+[40] When the person who performs the work and the person for whom the work is performed are not dealing with each other at arm's length, the work in question is excluded from insurable employment under paragraph 5(2)(i) of the Act, which reads as follows:
+5 (2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+[41] However, the legislator provided that the work could be deemed insurable if an analysis of all the facts based on the criteria established by the legislator revealed that the work had been performed in a context and in circumstances comparable to those that could have existed between third parties.
+[42] The insurable nature of the work when the parties to the contract are not dealing with each other at arm's length stems from a subjective assessment.
+[43] When the decision resulting from such analysis is appealed, the judge seized of the file cannot simply substitute his or her own assessment of the same facts.
+[44] The Federal Court of Appeal, in Pérussev. Canada, No. A-722-97, March 10, 2000, [2000] F.C.J. No. 310, and in Légaré v. MNR, Morin v. MNR, Nos. A-392-98 and A-393-98, May 28, 1999, [1999] F.C.J. No. 878, set out certain principles. Accordingly, the following can be read in Légaré andMorin, supra, at paragraph 4:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[45] In Pérusse, supra, Marceau J. cites the preceding passage and continues, at paragraph 15:
+15 The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[46] How can a person truly believe in the legitimacy and lawfulness of their situation when they work and perform substantially the same work, but receive employment insurance benefits instead of the remuneration or salary that they should normally receive for their work.
+[47] In her Notice of Appeal, the Appellant stated that she
+[translation]
+. . .
+· never made false or deceptive statements to the Government of Canada in her claims for employment insurance and unemployment insurance benefits;
+· never made false or deceptive statements to the Government of Canada in her declarations of actual income;
+· never hid the fact that she is related to the employer from the Government of Canada or the Customs and Revenue Agency;
+· never made false or deceptive statements to the Government of Canada for the purpose of drawing employment insurance and unemployment insurance benefits;
+· told the complete truth and suitably and honestly answered the investigators' questions in this case;
+· acted in good faith in this case and has done so throughout the years when the Appellant drew employment insurance and unemployment insurance benefits;
+· acted in that manner because there was colour of right in the fact that the Appellant was entitled to employment insurance and unemployment insurance benefits during the years in which the Appellant drew employment insurance and unemployment insurance benefits.
+[48] In this case, the terminations were issued for the purpose of obtaining employment insurance benefits, I find it difficult to accept the interpretation that the interested parties acted in complete good faith.
+[49] In fact, how can anyone claim to have acted in a totally irreproachable manner while formally stating that they lost there job whereas that was not the case at all?
+[50] On a number of occasions, I have confirmed that the purpose of the employment insurance program is to assist those who actually lose their employment. It is in no way a business support or subsidy program.
+[51] If the legislator had wanted the government to be responsible for part of the payroll of certain businesses in certain circumstances, it would have expressly provided for that, which it did not do.
+[52] Mutual assistance, collaboration, family solidarity are generally more prevalent and present in employment contracts between members of one family than in contracts where the parties are dealing with each other at arm's length. That is normal, legitimate and desirable.
+[53] I recognize that such qualities are generally more prevalent in small communities than in large urban centres. That is often a special feature that must be encouraged and supported.
+[54] However, when such noble qualities are exaggerated or abused, that becomes unacceptable. Wilful blindness cannot explain or justify the working conditions that are diametrically different from those that a third party would have had.
+[55] In this case, the very strong balance of evidence is that the Appellant had an employment contract that was markedly shaped by the non-arm's-length relationship. The work periods and the terms and conditions of employment were defined based on the entitlement to benefits.
+[56] There is no doubt that the investigation conducted and the ensuing analysis of facts took all the relevant facts into consideration. The facts in question were properly assessed; the conclusions drawn were appropriate and very reasonable.
+[57] I do not have the power or the authority to accept in part or in whole the requests of the Appellant's agent to set aside or reduce the amount of the claims resulting from the benefits obtained but not justified.
+[58] All the facts relied on by the Minister were genuine; they were relevant. The analysis of those facts was conducted properly and the conclusion drawn was reasonable. The hearing of the case essentially confirmed the reasonableness of the determination.
+[59] Consequently, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 11th day of February 2005.
+Alain Tardif
+Tardif J.
+Translation certified true
+on this 30th day of June 2005.
+Aveta Graham, Translator
+CITATION:
+2005TCC54
+COURT FILE NO.:
+2003-3108(EI)
+STYLE OF CAUSE:
+Francine Otis Croteau and
+The Minister of National Revenue
+and Noubaco Inc.
+PLACE OF HEARING:
+Matane, Quebec
+DATES
+Hearing:
+Appellant's written submissions
+Respondent's reply:
+September 2, 2004
+October 15, 2004
+October 26, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+February 11, 2005
+APPEARANCES:
+Agent for the Appellant:
+Yannick Croteau, articling student
+Counsel for the Respondent:
+Marie-Claude Landry
+Agent for the Intervenor:
+Serge Croteau
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent:
+John H. Sims, QC
+Deputy Minister of Justice and
+Deputy Attorney General of Canada
+Ottawa, Canada

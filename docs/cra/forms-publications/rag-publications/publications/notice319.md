@@ -1,0 +1,20 @@
+---
+title: "NOTICE319 ARCHIVED - The Huu-ay-aht First Nations Implement the First Nations Goods and Services Tax"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice319.html
+last_modified: 2020-05-04
+---
+# NOTICE319 ARCHIVED - The Huu-ay-aht First Nations Implement the First Nations Goods and Services Tax
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [notice319-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice319/huu-ay-aht-first-nations-implement-first-nations-goods-services-tax.html)

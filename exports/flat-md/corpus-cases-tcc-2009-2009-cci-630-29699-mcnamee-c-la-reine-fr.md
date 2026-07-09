@@ -1,0 +1,121 @@
+---
+title: "McNamee c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29699/index.do"
+last_modified: "2009-09-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 630"
+citation2: ""
+neutral_citation: "2009 CCI 630"
+decision_date: "2009-09-24"
+language: "fr"
+item_id: "29699"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6204
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:32:27.335000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7032d06cc878236c37219e9af65a78f946e43bf6688bfd6279100c9fab13ceb3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McNamee c. La Reine
+
+- Citation: 2009 CCI 630
+- Decision date: 2009-09-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6204, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McNamee c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-24
+Référence neutre
+2009 CCI 630
+Numéro de dossier
+2008-2699(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2009 CCI 630
+Date : 20100105
+Dossier : 2008-2699(IT)I
+ENTRE :
+JOHN C. McNAMEE,
+appelant,
+et
+SA MAJESTÉ LA REINE ,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________Pour l’appelant : L’appelant lui-même
+Avocate de l’intimée : Me Sara Chaudhary
+____________________________________________________________________
+MOTIFS DU JUGEMENT MODIFIÉ
+(Rendus oralement à l'audience le 24 septembre 2009, à Kingston (Ontario))
+Le juge McArthur
+[1] L’appelant, John McNamee, s’est plongé dans les formules et les calculs des dispositions législatives complexes relatives aux REER de la Loi de l’impôt sur le revenu (la « Loi ») . Le litige découle d’une cotisation excédentaire qu’il a faite à son REER en 1997, lorsqu’il a perdu son emploi à la Ville de Napanee à la suite d’une réduction des effectifs. La question en litige dans son appel se ramène à savoir si les pénalités et les intérêts d’un montant total de 2 719 $ ont été correctement imposés par le ministre du Revenu national (le « ministre »). La compréhension des calculs auxquels je ferai référence est hors de portée non seulement de la plupart des Canadiens mais aussi de nombreux agents de l’Agence du revenu du Canada (l’« ARC ») .
+[2] Voici les faits. Pour l’année 1997, l’appelant a fait une cotisation à un REER de 44 000 $, a demandé une déduction de 18 200 $ au titre des REER et a reporté la cotisation excédentaire de 25 800 $. Il a fait cela, je crois, dans l’espoir de trouver un nouvel emploi, ce qui ne s’est pas produit.
+[3] Pour l’année d’imposition 1998, il a déduit 2 881 $ de cotisation excédentaire au titre des REER.
+[4] Au mois de février 2004, l’appelant a produit un T3012A, Renonciation à l’impôt retenu sur le remboursement de vos cotisation inutilisées versées à un REER. Le ministre a rejeté cette demande au mois de mars 2004. Au mois de juin 2007, quelques trois ans plus tard, le ministre a porté à la connaissance de l’appelant que la cotisation excédentaire serait soumise à un impôt de 1 %, étant donné qu’elle avait été retirée tardivement.
+[5] Il lui a été avisé de produire une T1-OVP, Déclaration des particuliers – Cotisations excédentaires versées à un REER, pour les années 2003 et 2004. Il l’a fait sur le champ. Pour l’année d’imposition 2004, il a inclus dans son revenu le montant de 24 000 $ retiré de son REER et a demandé un montant de 7 200 $ à titre de crédit pour l’impôt retenu à la source dudit retrait.
+[6] Voici l’établissement de sa cotisation pour le mois de septembre 2007 : pour l’année d’imposition 2003, 2 510 $ d’impôt de la partie X.1 et 426,73 $ de pénalité pour production tardive de la T1‑OVP ainsi que les intérêts applicables; et pour l’année d’imposition 2004, 209,18 $ d’impôt de la partie X.1 et 35,56 $ de pénalité pour production tardive de la T1-OVP ainsi que les intérêts applicables.
+[7] L’appelant soutient dans son avis d’appel que les pénalités et les intérêts ne devraient pas être appliqués et qu’il ne devrait subsister que l’impôt retenu de 7 200 $ qui a déjà été payé.
+[8] Toutefois, le ministre a refusé à juste titre le formulaire T3012A que l’appelant avait produit pour demander un retrait non imposable de la cotisation excédentaire. L’alinéa 146(8.2)c) prévoit que, pour que l’appelant puisse recouvrer sa cotisation excédentaire, le montant doit avoir été retiré dans l’année où il a été versé et dans l’année au cours de laquelle une cotisation a été établie pour l’appelant ou l’année suivant celle de l’établissement de la cotisation. Étant donné que la cotisation excédentaire a été faite en 1997, l’appelant aurait dû produire son T3012A au plus tard en 1999, l’année suivant celle de l’établissement de sa cotisation. L’appelant soutient qu’il a été seulement mis au courant des dates limites quelques trois ans plus tard.
+[9] La disposition législative qui impose un impôt de 1 % sur les cotisations excédentaires à un REER est le paragraphe 204.1(2.1), qui prévoit en partie ce qui suit :
+204.1(2.1) Le particulier qui, à la fin d’un mois donné […] a un excédent cumulatif au titre de régimes enregistrés d’épargne-retraite doit […] payer un impôt selon la présente partie égal à 1 % de cet excédent.
+Le terme « excédent cumulatif » au titre de REER est défini au paragraphe 204 2(1.1). Pour les besoins de la présente audience, il s’agit du montant des primes non déduites versées à un REER qui excèdent la cotisation excédentaire autorisée de 2 000 $, lequel montant est utilisé dans une formule qui permet d’obtenir un montant de 20 919 $. Je suis convaincu que le calcul a été fait correctement.
+[10] De plus, la Loi prévoit une pénalité supplémentaire pour production tardive de la T1‑ OVP, qui a été imposée. La disposition prévoit un impôt à payer de 5 % plus 1 % par mois à concurrence de 12 mois. Cela ressort du paragraphe 162(1) et le calcul du ministre est correct.
+[11] Encore une fois, l’appelant ne conteste pas l’impôt de 7 200 $ qu’il a payé. Je pense qu’il a fait tout ce qu’il a pu pour se conformer aux dispositions de la Loi. Je trouve que c’est un témoin sincère et digne de foi. Il a demandé de l’aide à l’ARC mais n’a reçu que peu de conseils utiles. Une lettre émanant de l’ARC, datée du mois de février 2004, fournissait des renseignements inexacts.
+[12] Dès réception d’une autre lettre datée du 23 mai 2004, l’appelant a rencontré Mme Guffy qui, d’après lui, s’est montrée la plus utile, et il a suivi immédiatement ses conseils.
+[13] Je recommande fortement que le ministre envisage, si cela n’a pas été fait, de renoncer aux intérêts et aux pénalités. Je trouve que M. McNamee est un contribuable méritant. Il a fait une cotisation excédentaire en 1997 et n’était pas au courant des conséquences jusqu’à ce que l’ARC communique avec lui en 2003. Il a fait une cotisation excédentaire de bonne foi et il a immédiatement réagi dès qu’il en a été avisé. Cette législation complexe ne devrait pas être utilisée pour pénaliser des personnes de bonne foi et mal informées, dont font partie M. McNamee et 99 % des contribuables.
+[14] Je recommande fortement à l’appelant de présenter au ministre une demande en vertu du paragraphe 220(3.1) pour obtenir une renonciation aux intérêts et à la pénalité. Il a payé les 7 200 $ dès le retrait de la cotisation excédentaire. Si un contribuable n’a pas gain de cause auprès du ministre, il peut présenter une demande de révision à la Cour fédérale.
+[15] L’appel est rejeté conformément à la loi.
+Signé à Ottawa, Canada, ce 5e jour de janvier 2010.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 15e jour de mars 2010
+Espérance Mabushi, M.A.Trad.Jur.
+RÉFÉRENCE : 2009 CCI 630
+No DU DOSSIER DE LA COUR : 2008-2699(IT)I
+INTITULÉ : JOHN C. McNAMEE
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Kingston (Ontario)
+DATE DE L’AUDIENCE : Le 23 septembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT MODIFIÉ : Le 5 janvier 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Sara Chaudhary
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s/o
+Cabinet : s/o
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

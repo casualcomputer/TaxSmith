@@ -1,0 +1,290 @@
+---
+title: "Patel v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521584/index.do"
+last_modified: "2026-02-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 TCC 33"
+citation2: ""
+neutral_citation: "2026 TCC 33"
+decision_date: "2026-02-17"
+language: "en"
+item_id: "521584"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5616
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-02-20T09:03:15.104000+00:00"
+cases_cited_count: 9
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b0e3029a720f7dbafbec09f0c1a9fa333e09398d9bfd8e8f6f4c64116e2e7bba"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Patel v. The King
+
+- Citation: 2026 TCC 33
+- Decision date: 2026-02-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5616, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Patel v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-02-17
+Neutral citation
+2026 TCC 33
+File numbers
+2016-4571(IT)G, 2016-4750(IT)G
+Judges and Taxing Officers
+Joanna Hill
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-4750(IT)G
+BETWEEN:
+PIYUSH PATEL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard together with the motion of Paul Benninger,
+2016-4571(IT)G, on August 22, 2025, at Toronto, Ontario
+Before: The Honourable Justice Joanna Hill
+Appearances:
+Counsel for the Appellant:
+Kristen Duerhammer
+Shara Sullivan
+Counsel for the Respondent:
+Emmanuel Jilwan
+Albert Brunelle
+Nathalie Labbé
+ORDER
+Further to the attached Reasons, the Respondent’s motion is determined as follows:
+The Respondent’s request for leave to file a Further Amended Reply to the Notice of Appeal and withdraw the admission with respect to paragraph 9(h) of the Notice of Appeal is granted.
+On or before April 10, 2026, the Respondent shall file and serve a Further Amended Reply, in accordance with the attached Reasons.
+On or before May 29, 2026, the parties shall file a timetable setting deadlines with respect to additional pre-trial steps related to the Further Amended Reply, including (a) the Appellant filing and serving an Answer, if any, to the Further Amended Reply, (b) additional examinations for discovery, if any, with respect to the amended pleadings, and (c) reporting to the Court.
+The Appellant is entitled to costs on the motion, and costs in any event of the cause for any resulting additional pre-trial steps, including amendments to the Appellant’s expert report related to the withdrawal of the admission. If the parties cannot agree on costs, the Appellant shall file submissions not exceeding 10 pages on or before March 23, 2026, and the Respondent shall file submissions not exceeding 5 pages, on or before April 8, 2026.
+Signed this 17th day of February 2026.
+“Joanna Hill”
+Hill J.
+Docket: 2016-4571(IT)G
+BETWEEN:
+PAUL BENNINGER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard together with the motion of Piyush Patel,
+2016-4750(IT)G, on August 22, 2025, at Toronto, Ontario
+Before: The Honourable Justice Joanna Hill
+Appearances:
+Counsel for the Appellant:
+Kristen Duerhammer
+Shara Sullivan
+Counsel for the Respondent:
+Emmanuel Jilwan
+Albert Brunelle
+Nathalie Labbé
+ORDER
+Further to the attached Reasons, the Respondent’s motion is determined as follows:
+The Respondent’s request for leave to file a Further Amended Reply to the Notice of Appeal and withdraw the admission with respect to paragraph 10(g) of the Notice of Appeal is granted.
+On or before April 10, 2026, the Respondent shall file and serve a Further Amended Reply, in accordance with the attached Reasons.
+On or before May 29, 2026, the parties shall file a timetable setting deadlines with respect to additional pre-trial steps related to the Further Amended Reply, including (a) the Appellant filing and serving an Answer, if any, to the Further Amended Reply, (b) additional examinations for discovery, if any, with respect to the amended pleadings, and (c) reporting to the Court.
+The Appellant is entitled to costs on the motion, and costs in any event of the cause for any resulting additional pre-trial steps, including amendments to the Appellant’s expert report related to the withdrawal of the admission. If the parties cannot agree on costs, the Appellant shall file submissions not exceeding 10 pages on or before March 23, 2026, and the Respondent shall file submissions not exceeding 5 pages, on or before April 8, 2026.
+Signed this 17th day of February 2026.
+“Joanna Hill”
+Hill J.
+Citation: 2026 TCC 33
+Date: 20260217
+Docket: 2016-4750(IT)G
+BETWEEN:
+PIYUSH PATEL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2016-4571(IT)G
+AND BETWEEN:
+PAUL BENNINGER
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Hill J
+A. Introduction [1] The present motions are the result of too many delays that provided the Respondent with too much time to reconsider its position and reconsider it again. The appeals were filed in 2016, delayed by a bifurcation application in 2018, then held in abeyance in 2021 pending a Federal Court of Appeal decision in similar matters.
+[2] In 2020, the Respondent amended its replies on consent to refine its position with respect to the application of subsection 160(1) of the Income Tax Act and the general anti-avoidance rule (GAAR) to a structured series of transactions whereby the Appellants sold their companies through various entities.
+[3] Despite the significant changes made in those amended replies, the Respondent now seeks to make further amendments and withdraw admissions regarding the fair market values of certain shares. The Respondent argues that these changes are in response to the Federal Court of Appeal’s application of subsection 160(1) to similar transactions in the Microbjo Properties decision.
+[4] The Appellants consent to the Respondent’s amended arguments but contend that the withdrawal of admissions is a bridge too far. While I agree that the Respondent did not conduct a timely analysis of its position in these appeals, the transactions are complex and the courts have only recently considered the related legal issues. The test for withdrawing the admissions has been met because the interests of justice will be served by a proper consideration of those complex facts and issues.
+[5] The Appellants have been aware of the inconsistency between the admissions and the Respondent’s arguments since 2021. They have undermined their objection to this motion by consenting to the alternative argument without regard to this inconsistency. The resulting prejudice to the Appellants can be compensated through costs.
+B. Background [6] The Appellants are challenging subsubsection 160(1) assessments issued by the Minister of National Revenue with respect to transactions the Minister alleges all took effect on March 14, 2007.[1] Through their numbered companies and other entities, the Appellants sold their research companies, Allied Canada and Allied Miami, to a third-party purchaser for over $76 million.[2] The Minister alleges that the Appellants received over $69 million[3] while the numbered companies were liable for capital gains resulting from the sale. That tax liability remains unpaid, and the Minister invoked subsubsection 160(1) to recover over $24 million from the Appellants.[4]
+[7] The Appellants filed their appeals in October 2016, before the Minister issued decisions in response to their objections. The Respondent filed Replies to the Notices of Appeal in March 2017, relying on subsection 160(1) and the GAAR in the alternative. The Appellants filed Answers in May 2017. Pre-trial steps were completed, and trial dates were set for April 2019.
+[8] The first major delay began in November 2018 when the parties made a bifurcation request to separate the question of the validity of the underlying tax debts.[5] After a successful interlocutory appeal to the Federal Court of Appeal, the Court subsequently granted the bifurcation request in October 2020.
+[9] In December 2020, the Respondent filed amended replies on consent to (a) make minor corrections throughout, (b) revise two assumptions of fact and add three new assumptions, (c) add 15 new paragraphs with additional subsection 160(1) arguments, (d) delete and modify paragraphs to narrow its GAAR argument, and (e) add additional facts in support the revised subsection 160(1) and GAAR arguments.
+[10] The Appellants filed Amended Answers in January 2021. The parties completed a second set of discoveries in March 2021, and the appeals were once again ready to be set down for trial.
+[11] The second major delay began in May 2021, when the parties asked that the hearing of the appeals be delayed until the Federal Court of Appeal rendered a decision in the Crown’s appeal in Damis Properties.[6] The Federal Court of Appeal issued that decision, Microbjo Properties, on July 5, 2023.[7]
+[12] On March 27, 2024, the Respondent asked the Appellants to consent to the filing of further amended replies that (a) remove arguments regarding consideration, (b) add alternative arguments regarding arm’s length factors and two successive transfers under subsection 160(1), and (c) correct two assumptions of fact regarding shares received.
+[13] The Respondent sent the Appellants a second request on August 8, 2024, for further amended replies containing the same amendments as well the withdrawal of admissions with respect to assertions of the fair market values of shares in the following paragraphs of the Notices of Appeal:
+Patel Notice of Appeal
+Benninger Notice of Appeal
+9(e)
+The fair market value of Dr. Patel’s 200 common shares of 124 Ontario immediately before he transfers them to the Polar Companies is $29,317,478.
+10(d)
+The fair market value of Mr. Benninger’s 200 common shares of 212 Ontario immediately before he transfers them to the Polar Companies is $2,697,244.
+9(h)
+The fair market value of Dr. Patel’s 34,229,198 Class B preferred shares of 124 Ontario immediately before he transfers them to the Polar Companies is $34,229,198.
+10(g)
+The fair market value of Mr. Benninger’s 3,136,307 Class B preferred shares of 212 Ontario immediately before he transfers them to the Polar Companies is $3,136,307.
+[14] The Appellants did not respond to the Respondent’s request to file the further amended replies on consent.
+(1) The Respondent’s motions [15] On November 25, 2024, the Respondent filed a motion in writing seeking leave to further amend the replies and to withdraw the admissions. Based on their understanding that the Appellants’ objection only concerned the withdrawal of the admissions, the Respondent’s motion addressed this sole issue.
+[16] The Respondent did not file affidavit evidence to support its request to withdraw the admissions. Instead, the Respondent argued that the admissions were based on an assessing position that pre-dates the legal issues raised in the Microbjo Properties decision. The Respondent argued that the Appellants’ assertions of the fair market values of the shares do not take into account the tax liabilities of the numbered companies prior to the successive transfers now at issue because of the Federal Court of Appeal’s decision.
+[17] In their responding motion records, the Appellants consented to the amendments, subject to being permitted to conduct additional written examinations for discovery related to the successive transfers argument. The Appellants opposed the withdrawal of the admissions on various grounds, including that the tax liabilities did not exist when the common shares referred to in paragraphs 9(e) and 10(d) were transferred.
+[18] The Respondent filed reply submissions defending its position but accepted the Appellants’ position regarding the timing of the tax liabilities at issue. As a result, the Respondent revised its request to only withdraw its admissions regarding the fair market values of the preferred shares of the numbered companies stated in paragraph 9(h) of the Patel Notice of Appeal and 10(g) of the Benninger Notice of Appeal.[8]
+[19] The Court scheduled a hearing of the motions to hear from the parties and obtain clarifications regarding their positions. In response to questions raised at the hearing, the Respondent filed a letter on October 8, 2025, confirming its request to withdraw the admissions for paragraphs 9(h) of the Patel Notice of Appeal and 10(g) of the Benninger Notice of Appeal, and outlining its position regarding the fair market values of the preferred shares as follows:
+As for the confirmation of the Respondent’s position on the fair market value (FMV) of the preferred shares at Step 8, the Respondent’s position is the following:
+Considering the Respondent’s assumptions of fact that the purported loans to the Polars and to Acquireco had no FMV, the conclusions of the [Respondent’s] Expert Report are that the FMV of 1245816 Ontario Limited (Patelco) preferred shares is $19,601,737 at Step 8 and nil at Step 10. In the case of 2129369 Ontario Limited (Benningerco), the FMV of the preferred shares is $2,456,477 at Step 8 and nil at Step 10.
+Based on the conclusions of the Expert Report, the Respondent confirms its position that the admission with respect to subparagraph 9(h) of Dr. Patel’s Notice of Appeal, and subparagraph 10(g) of Mr. Benninger’s Notice of Appeal should be withdrawn.
+[20] The Respondent was unable to provide this information at the hearing because it had not received its expert report at that time.
+[21] As a result, the issue in these motions is whether the Court should grant the Respondent leave to withdraw the admissions with respect to the assertions of the fair market values of the preferred shares contained in both Notices of Appeal.
+C. Analysis [22] Section 132 of the Tax Court of Canada Rules (General Procedure) allows a party to withdraw an admission on consent or with leave of the Court. The parties agree that the test to withdraw admissions is outlined in the Continental Bank decision.[9]
+[23] The application of this test must be considered in the context of the complex series of transactions at issue in these appeals. Although the Respondent described the transactions in 10 steps, the transactions and related admissions at issue in these motions can be summarized as follows.[10]
+Steps 2 and 3: [24] The Appellants transfer their common shares in Allied Canada (and Allied Miami in Mr. Benninger’s case) to their numbered companies in exchange for common shares and preferred shares in their numbered companies.
+Step 5: [25] The Appellants sell the common shares of their numbered companies to three Polars companies in exchange for Polars preferred shares. Paragraph 9(e) of the Patel Notice of Appeal states that the fair market value of Dr. Patel’s 200 common shares in his numbered company was $29,317,478. Paragraph 10(d) of the Benninger Notice of Appeal states that the fair market value of Mr. Benninger’s 200 common shares in his numbered company was $2,697,244.
+[26] As outlined above, the Respondent no longer seeks to withdraw the admissions regarding the fair market values of these common shares.
+Step 6: [27] The numbered companies sell their Allied Canada and Allied Miami shares to a third-party purchaser and realize capital gains on the disposition.[11] This is the source of the underlying tax liabilities for the subsection 160(1) assessments.
+Step 8: [28] The Appellants sell the preferred shares of their numbered companies to the Polars companies in exchange for cash, promissory notes, and Polars preferred shares. Dr. Patel received total consideration of $34,229,198 for his 34,229,198 Class B preferred shares, and Mr. Benninger received total consideration of $3,136,307 for his 3,136,307 preferred shares.[12]
+[29] Paragraph 9(h) of the Patel Notice of Appeal states that the fair market value of Dr. Patel’s 34,229,198 preferred shares in his numbered company was $34,229,198. Paragraph 10(g) of the Benninger Notice of Appeal states that the fair market value of Mr. Benninger’s 3,136,307 preferred shares in his numbered company was $3,136,307.
+[30] The Respondent maintains its request to withdraw the admissions related to the fair market values of those preferred shares.
+[31] As outlined in their post-hearing letter, the Respondent’s position is (a) the fair market value of Dr. Patel’s 34,229,198 preferred shares in his numbered company was $19,601,737, and (b) the fair market value of Mr. Benninger’s 3,136,307 preferred shares in his numbered company was $2,456,477.
+Step 10: [32] The Appellants sell their Polars preferred shares to ARII Acquisition Holding Ltd. From the outset, the parties have disagreed on the fair market value of the Polars preferred shares.
+[33] The proposed amendments to the replies shift the Respondent’s position from the application of subsection 160(1) to indirect transfers from the Appellants’ numbered companies to the application of subsection 160(1) to successive transfers through the numbered companies and other entities. The Respondent relies on the Federal Court of Appeal’s determination in Microbjo Properties that subsection 160(1) applied to two distinct successive transfers in a similar series of transactions to those in the present appeals.[13]
+[34] As outlined above, the Appellants consent to the Respondent’s additional successive transfers argument, but object to the withdrawal of the admissions.
+(1) The test to withdraw admissions [35] In Continental Bank, this Court broadly stated that the test is whether the interests of justice are served more if the withdrawal is permitted.[14] A number of factors may be considered, including (a) the timeliness of the motion to withdraw, (b) whether the proposed amendment would delay the expeditious trial, (c) whether the original position led the other party to follow a course of action that would be difficult or impossible to alter, and (d) whether the amendments will facilitate a consideration of the true substance of the dispute on its merits.[15]
+[36] The Court also referred to and applied “helpful” factors from other courts such as whether an admission was inadvertent, there is a triable issue raised, and the other party would suffer prejudice not compensable in costs.[16] The parties in this case referred to some of these additional factors, even though they overlap with the primary factors listed in the above paragraph.
+[37] No single factor is necessarily determinative. The relevant factors must be assigned their proper weight in the context of the particular case.[17]
+[38] As outlined below, I have considered the relevant factors in this case and concluded that the admissions may be withdrawn. Not all factors favour the Respondent’s request, but the interests of justice would be served by the withdrawals.
+(a) The motion is not timely [39] This factor does not favour the Respondent. I agree with the Appellants that the withdrawals are the result of the Respondent failing to properly analyze their position in a timely way.
+[40] The Respondent argued that the Federal Court of Appeal decision Microbjo Properties justifies the delay in seeking to withdraw the admissions. However, that decision was issued a year before the Respondent informed the Appellants that they wanted to withdraw the admissions regarding the fair market values of the common and preferred shares.
+[41] More significantly, the Microbjo Properties decision did not change established principles regarding the fair market value of shares. The Federal Court of Appeal referred to “the case law which unequivocally holds that an arm’s length purchaser of shares would discount any existing tax liability of the underlying corporation in determining their value”.[18] The Respondent relied on some of those same authorities in the present motion.[19]
+[42] The Respondent’s prior pleadings also incorporate this principle. The original Replies the Respondent filed in 2017 contain assumptions of fact that this type of discount applies, albeit with respect to other transactions at issue:[20]
+Even if the purported loans had a FMV, which is denied, the FMV of the consideration received by Patelco should take into account the tax liability associated with the income received from the sale of Allied Canada and Allied Miami.
+[43] The Amended Replies filed in December 2020 contain new arguments regarding this discount with respect to the same preferred shares at issue in the admissions. The Respondent argues that the preferred shares acquired by the Polars “had no fair market value at the time of the transfer”.[21] The Respondent then argues in the alternative that the fair market value must take into take into account the latent tax liability of the numbered company.[22]
+[44] Notably, the Appellants’ Amended Answers filed in January 2021 highlight the inconsistency between the Respondent’s admissions regarding the fair market value of the preferred shares and their new argument that the fair market value was nil. The final paragraph of the Patel Amended Answer clearly states:[23]
+With respect to amended paragraph 22 of the amended reply, Dr. Patel notes that the respondent admits paragraph 9(h) of the notice of appeal which states that “[t]he fair market value of Dr. Patel’s 34,229,198 Class B preferred shares of 124 Ontario immediately before he transfers them to the Pola Companies is $34,229,198”. There is no intervening event between the time immediately before Dr. Patel sells his shares to the Polar Companies and the time of that sale that would decrease the fair market value of the shares.
+[45] It appears that the Respondent did not turn their mind to whether the Appellants’ assertions of the fair market values of the preferred shares of the numbered companies were accurate because it was not relevant to the Respondent’s position at that time. As I stated at the hearing, the proper pleading in response should not have been to admit facts that the Respondent (or the Minister) did not verify. The options would have been to either deny those facts or state that they have no knowledge of them.
+[46] The Respondent’s failure to properly analyze their position continued through this motion. The Respondent initially sought to withdraw two admissions, then adjusted its position after receiving the Appellants’ response to their motion. When asked at the hearing why they no longer sought to withdraw the admissions regarding the fair market value of the common shares, counsel for the Respondent stated paragraph 9(e) of the Patel Notice of Appeal was not contested because it relates to the fair market value of the underlying businesses, which were bought by an unrelated third party in an open market transaction.[24] This rationale is not new, so it begs the question why the Respondent sought to withdraw that admission in the first place.
+(b) The withdrawal will not delay an expeditious trial [47] This factor favours the Respondent because the appeals have not been set down for trial. Both parties are responsible for the previous delays outlined earlier in these Reasons.
+[48] The Appellants’ argument that there must be an end to the litigation holds little weight because they have already consented to the other amendments in the proposed further amended replies on the condition that further discoveries be conducted.
+(c) The Appellants can alter their course of action [49] This factor favours the Respondent. Both parties have undertaken a significant amount of work to date, but the withdrawal of the admissions does not constitute a radical departure that renders this work meaningless.
+[50] Further to the parties’ joint abeyance request, the Appellants knew that the Respondent might adjust their legal position based on the Microbjo Properties decision. The withdrawn admissions relate to the Respondent’s new argument in this regard.
+[51] As outlined above, the Appellants also have been aware of the problem with the admissions since the Respondent filed their Amended Replies in December 2020.
+[52] The Appellants have not argued that there is insufficient time or that they will be unable to obtain their own expert evidence regarding the fair market values of the preferred shares. Instead, they seek costs thrown away for the expert report they already received because their instructions included the assumption that the parties were in agreement on this particular issue.
+[53] I agree with the Respondent that there is no prejudice that cannot be compensated by costs.
+(d) The withdrawals speak to the true substance of the dispute [54] This factor also favours the Respondent. I agree with the Respondent’s position that the amendments and related withdrawal of admissions address core elements of the questions at issue and will ensure that all the triable issues between the parties are before the Court.
+[55] The Respondent is withdrawing the admissions to take into account the Federal Court of Appeal’s application of subsection 160(1) to a similar series of transactions in Microbjo Properties. Those appeals, as well as this Court’s more recent decision in Harvard Properties, demonstrate that these matters require the application of multiple legal tests to complex facts and transactions.[25]
+[56] Fair market value is an essential component of the application of subsection 160(1) and the value of shares transferred between entities is particularly important in these appeals.
+[57] In El Ad Ontario, this Court allowed the Crown to amend their reply to withdraw admissions and take a significantly different position to support the assessment on the basis that it would assist the Court in determining the real question and controversy between the parties.[26] The Federal Court of Appeal upheld this decision, including the Court’s application of the established principle that admissions are not binding on trial judges of this Court.[27]
+[58] If the Court is not bound by an admission at trial,[28] it follows that a party may not be bound by an admission in its pleadings if the Continental Bank test is met.
+(e) The interests of justice favour the withdrawals [59] While there are weaknesses in the Respondent’s position on the motion, the interests of justice weigh in favour of a proper determination of the questions at issue.
+[60] The Appellants’ objection to the withdrawals does not serve the interests of justice. The Appellants consent to the Respondent’s amended successive transfers argument but oppose the withdrawal of admissions to support that argument. Notably, counsel for the Appellants acknowledged that the Respondent’s alternative argument is weakened by the admissions.[29]
+[61] The Appellants’ reliance on this Court’s decision in Chad[30] is misplaced because the withdrawal of the admissions would not result in a radical change in the nature of the questions in controversy. The Respondent seeks to refine its position regarding the application of subsection 160(1), its primary assessing position since the outset.
+[62] The Appellants raised valid concerns regarding deficiencies in the proposed further amended replies. However, those deficiencies can be addressed since the Respondent has to revise the further amended replies to account for their most recent changes in position.
+[63] The Appellants pointed out that only one of the admissions at issue relates to the Respondent’s new successive transfers argument. The Respondent agreed and now has to revise its pleadings to restore the admissions with respect to the fair market values of the common shares.
+[64] The Appellants also argued that the proposed further amended replies do not specify the Respondent’s position on the fair market values of the preferred shares or the discounts that should be applied for the tax liabilities. The Respondent has since provided those amounts after receiving its expert report.[31] For Dr. Patel’s numbered company, the reduction from $34,229,198 to $19,601,737 is almost identical to the tax liability of $14,813,732.[32] The reduction for Mr. Benninger’s numbered company, $3,136,307 to $2,456,477, is similarly almost identical to that company’s tax liability of $679,885.[33] The Respondent should amend its pleadings to clearly state this position and remove or clarify any inconsistent facts and arguments. For example, the proposed further amended replies contain arguments that the preferred shares had no fair market value at all.[34]
+[65] Any remaining questions may be addressed in the additional examination for discovery requested by the Appellants.
+D. Costs [66] Although the Respondent is the successful party in this motion, its conduct significantly delayed the hearing of the motion. The Respondent sought to amend their pleadings without proper consideration of the full implications of withdrawing the admissions or the existing related inconsistencies in the amended replies. As outlined above, the motion raised more questions and concerns. The Respondent had to retract its request to withdraw the admissions regarding the fair market values of the common shares and its position that the preferred shares had no value at all.
+[67] The Respondent’s conduct also has significantly delayed the conduct of the appeal and required additional pre-trial steps, including a third round of discoveries and a revised expert report for the Appellants.
+[68] While I appreciate that Respondent’s counsel (and the applicable case law) have changed since the original and amended replies were filed, the Respondent has a responsibility to properly and accurately plead its case. This latest request to amend has had the opposite effect and has required more work for the parties and this Court.
+[69] As a result, the Respondent should pay the Appellants’ costs on the motion, the Appellants’ costs to amend their expert report, and the Appellants’ costs for additional pre-trial steps required because of the amendments and withdrawn admissions.
+E. Conclusion [70] The Respondent’s motion to amend its further amended replies and withdraw admissions is granted, with costs payable to the Appellants in any event of the cause. If the parties cannot agree on costs, they shall file submissions in this regard. The Respondent shall file further amended replies in accordance with these Reasons and the parties must file a timetable with deadlines for the remaining steps in the appeals.
+Signed this 17th day of February 2026.
+“Joanna Hill”
+Hill J
+CITATION:
+2026 TCC 33
+COURT FILE NOS.:
+2016-4750(IT)G
+2016-4571(IT)G
+STYLES OF CAUSE:
+PIYUSH PATEL v. HIS MAJESTY THE KING
+PAUL BENNINGER v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 22, 2025
+REASONS FOR ORDER BY:
+The Honourable Justice Joanna Hill
+DATE OF ORDER:
+February 17, 2026
+APPEARANCES:
+Counsel for the Appellants:
+Kristen Duerhammer
+Shara Sullivan
+Counsel for the Respondent:
+Emmanuel Jilwan
+Albert Brunelle
+Nathalie Labbé
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Kristen Duerhammer
+Firm:
+KPMG Law LLP
+Toronto, Ontario
+For the Respondent:
+Marie-Josée Hogue
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Paragraph 10.18 of the Patel Amended Reply.
+[2] Paragraph 10.32 of the Patel Amended Reply.
+[3] Paragraph 11.1 of the Patel Amended Reply alleges Dr. Patel received $63,546,674 and paragraph 10.1 of the Benninger Amended Reply alleges Mr. Benninger received $5,833,552.
+[4] Dr. Patel’s s. 160(1) assessment was for $23,062,019.34 and Mr. Benninger’s s. 160(1) assessment was for $1,133,706.96 (Patel Notice of Appeal, paragraph 1, and Benninger Notice of Appeal, paragraph 1). Both amounts include penalty and interest (Patel Amended Reply, paragraph 10.63, and Benninger Amended Reply, paragraph 9.63).
+[5] This issue is the subject of separate Tax Court appeals filed by the tax debtors.
+[6] Damis Properties v HMTQ, 2021 TCC 24, issued in March 2021 (Damis Properties).
+[7] HMTK v Microbjo Properties Inc., 2023 FCA 157 (Microbjo Properties).
+[8] Respondent’s Answer to the Appellants’ Written Submissions, filed January 9, 2025, paragraph 11.
+[9] Continental Bank Leasing Corp. v Canada, [1993] TCJ No 18, para 25 (Continental Bank).
+[10] I agree with the Appellants that it is not necessary to refer to the 10 steps outlined by the Respondent in their pleadings. Some of the steps are repetitive because similar transactions are listed as separate steps for Dr. Patel and Mr. Benninger.
+[11] Appellants’ Written Submissions, Appellants’ Responding Motion Record, filed December 16, 2024, paragraph 48.
+[12] Patel Amended Reply, para 10.45.
+[13] Mircobjo Properties, paras 55-56 and 59.
+[14] Continental Bank, para 25.
+[15] Ibid.
+[16] Ibid.
+[17] Ibid.
+[18] Microbjo Properties, para 91.
+[19] Respondent’s Written Submissions, Respondent’s Motion Record, filed November 25, 2024, paragraphs 13-15.
+[20] Patel Reply, paragraph 10.111. See also paragraph 9.111 of the Benninger Reply.
+[21] Patel Amended Reply, paragraph 22. Benninger Amended Reply, paragraph 21.
+[22] Patel Amended Reply, paragraph 23. Benninger Amended Reply, paragraph 22.
+[23] Patel Amended Answer, paragraph 40. A similar statement was made at paragraph 40 of the Benninger Amended Answer.
+[24] Hearing Transcript, pages 47-8.
+[25] See the extensive analyses conducted by this Court in both matters: Damis Properties and Harvard Properties Inc. v HMTK, 2024 TCC 139.
+[26] El Ad Ontario Trust v HMTQ, 2018-4828(IT)G, unreported oral decision delivered August 2, 2022.
+[27] El Ad Ontario Trust v HMTK, 2023 FCA 231, paras 2-7.
+[28] See Hammill v HMTQ, 2005 FCA 252 (leave to appeal to the SCC dismissed), paras 30-32 and 39; HMTQ v Rattai, 2022 FCA 106, para 20; Canadian Imperial Bank of Commerce v HMTQ, 2021 FCA 96, para 65; 9178-3472 Québec Inc. v HMTQ, 2020 FCA 15, para 9.
+[29] Hearing Transcript, pages 88 & 90.
+[30] Chad v HMTQ, 2022 TCC 18, para 12.
+[31] Respondent’s Letter dated October 8, 2025.
+[32] Patel Amended Reply, paragraph 10.63 (total federal and provincial tax, excluding penalty and interest).
+[33] Benninger Amended Reply, paragraph 9.63 (total federal tax, excluding penalty and interest).
+[34] Patel proposed Further Amended Reply, paragraphs 22 and 26.10(e). Benninger proposed Further Amended Reply, paragraphs 21 and 25.10(e).

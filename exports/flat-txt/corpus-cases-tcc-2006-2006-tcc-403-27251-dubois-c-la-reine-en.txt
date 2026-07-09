@@ -1,0 +1,119 @@
+Title: Dubois c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27251/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-403-27251-dubois-c-la-reine-en.md
+Document type: case_law
+Last modified: 2006-07-28
+
+# Dubois c. La Reine
+
+- Citation: 2006 TCC 403
+- Decision date: 2006-07-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 792, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dubois c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-07-28
+Neutral citation
+2006 TCC 403
+File numbers
+2005-2963(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2963(IT)I
+BETWEEN:
+MARIE-THÉRÈSE DUBOIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 3, 2006, at Trois-Rivières, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Agent for the Appellant:
+Jean-Louis Dubois
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of July 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 4th day of July 2007.
+Brian McCordick, Translator
+Citation: 2006TCC403
+Date: 20060728
+Docket: 2005-2963(IT)I
+BETWEEN:
+MARIE-THÉRÈSE DUBOIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from the assessment made under the Income Tax Act ("the Act") by the Minister of National Revenue ("the Minister") with respect to the 2003 taxation year.
+[2] The issue to be determined is whether the Minister, in computing the Appellant's income, correctly deducted the amount of $2,667.98 on account of a partial repayment of Old Age Security (OAS) benefits that had already been included in her income for the 2003 taxation year, and correctly added, in calculating the total tax payable, an equal amount as a social benefits repayment.
+[3] In making and confirming the assessment, the Respondent relied on the following factual assumptions:
+[TRANSLATION]
+(a) During the taxation year in issue, the Appellant received a total of $5,497.62 in OAS benefits.
+(b) The Minister calculated a net income of $75,662, before adjustments, for the 2003 taxation year.
+(c) Since the net income before adjustments was higher than the $57,879 threshold, the Appellant must repay some or all of the OAS benefits that were paid to her during the 2003 taxation year.
+(d) On May 6, 2004, the Minister issued a notice of assessment in respect of the 2003 taxation year, wherein he allowed, in computing the Appellant's income, a deduction of $2,667.98 on account of an OAS benefits repayment, but added, in computing the total tax payable, an equal amount as a social benefits repayment.
+[4] The Appellant was represented by her spouse, who was clearly well prepared. His submissions were essentially based on equity.
+[5] Unfortunately, this Court must take all relevant facts into consideration in order to verify whether the assessment was correctly made in accordance with the provisions of the Act, in which case the assessment must be confirmed; the Tax Court of Canada does not have the legal authority to set aside or vary an assessment for reasons based essentially on equity. In other words, the role of a judge is to decide whether or not the assessment is well founded, not to make or change law.
+[6] In this regard, I believe that an overview of the case law would be helpful. In Smith v. M.N.R., Docket 88‑465(IT), May 1, 1989, 89 DTC 299, Judge Rip stated:
+. . . This Court, a creation of a federal statute, is not a court of equity and cannot take it upon itself to interpret the Agreement on the basis paragraph 7 has been severed from the Agreement. This Court's jurisdiction is found in its enabling statute: see Union Oil of Canada Ltd. v. The Queen (1975), 72 D.L.R. (3d) 81. The Agreement must be interpreted as executed, without modification. . . .
+[7] In 1990, Associate Chief Judge Christie, in Lamash Estate v. Minister of National Revenue, Docket 88‑902(IT), October 19, 1990, 91 DTC 9, stated as follows:
+. . . The Tax Court of Canada is a purely statutory creation and its jurisdiction is confined to what is expressly conferred on it by Parliament and what is necessarily implied from what is expressly conferred. . . .
+[8] Both these judgments were subsequently cited by Judge Sobier in two judgments that he rendered in 1993. First of all, in Sunil Lighting Products v. M.N.R., Docket 91‑125(UI), October 5, 1993, [1993] T.C.J. No. 666 (QL), he stated, at page 5:
+The jurisprudence clearly affirms that the Tax Court of Canada is not a court of equity and its jurisdiction is based within its enabling statute In addition, the Court cannot grant declaratory relief given that such relief is beyond the jurisdiction of the Court. In an income tax appeal, the Court's powers are spelled out in subsection 171(1) of the Income Tax Act. Consequently, these powers essentially entail the determination of whether the assessment was made in accordance with the provisions of the Income Tax Act
+[Footnotes omitted.]
+[9] In the second judgment, also rendered in 1993, namely Tignish Auto Parts Inc. v. M.N.R., Docket 92-601(UI), August 11, 1993, [1993] T.C.J. No. 446 (QL), he stated, at page 10:
+Tax Court of Canada is an inferior court of record with certain powers of a superior court of record. The case law clearly affirms that this Court is not a court of equity and its jurisdiction is based within its enabling statute In a recent decision by Christie, A.C.J.T.C.C., the Tax Court of Canada, faced with a jurisdictional issue, held:
+...The Tax Court of Canada is a purely statutory creation and its jurisdiction is confined to what is expressly conferred on it by Parliament and what is necessarily implied from what is expressly conferred [...]
+[Footnotes omitted.]
+[10] The last judgment that is frequently cited is Impact Shipping Inc. v. Canada, Docket 94‑2239(GST)I, May 9, 1995, [1995] T.C.J. No. 409 (QL), at page 5:
+The submission on behalf of the appellant is essentially that it would be unjust or unfair in the circumstances to allow the refusal of the rebate to stand and that calls for rectification by this Court. This presupposes that the Tax Court of Canada is vested with some kind of general equitable jurisdiction to remedy what it might consider to be an inequitable result regardless of the fact that the legislation creating the alleged inequity is perfectly clear. In my opinion the supposition is incorrect. . . .
+[11] Finally, there is the judgment of the Federal Court of Appeal in Lassonde v. Canada, 2005 FCA 323, at paragraph 3:
+[3] This appeal must certainly be dismissed, if only on the basis of a lack of jurisdiction. A few weeks before the decision by Lamarre Proulx J. and in the months that followed, our Court pointed out on a number of occasions that the jurisdiction of the Tax Court of Canada, in the context of the appeal of an assessment, is limited to deciding whether the assessment complies with the law, based on the facts and the applicable legislation (see Milliron v. Canada, 2003 FCA 283; Sinclair v. Canada, 2003 FCA 348; Webster v. Canada, 2003 FCA 388 and Main Rehabilitation Co. v. Canada, 2004 FCA 403.)
+[12] Our Court does not have the power to do what the Appellant is asking of it. It merely has the power to consider whether an assessment complies with the provisions of the Act, and this assessment does.
+[13] Consequently, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 28th day of July 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 4th day of July 2007.
+Brian McCordick, Translator
+CITATION: 2006TCC403
+COURT FILE NO.: 2005-2963(IT)I
+STYLE OF CAUSE: Marie-Thérèse Dubois v. Her Majesty the Queen
+PLACE OF HEARING: Trois-Rivières, Quebec
+DATE OF HEARING: February 3, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: July 28, 2006
+APPEARANCES:
+Agent for the Appellant:
+Jean-Louis Dubois
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

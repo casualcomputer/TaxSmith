@@ -1,0 +1,191 @@
+Title: Aimurie v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/146054/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-164-146054-aimurie-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-07-11
+
+# Aimurie v. The Queen
+
+- Citation: 2016 TCC 164
+- Decision date: 2016-07-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2924, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aimurie v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-07-11
+Neutral citation
+2016 TCC 164
+File numbers
+2014-1103(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-1103(IT)G
+BETWEEN:
+LAWRENCE AIMURIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of Josleyn Charles, 2014-1107(IT)I on June 21, 2016, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tony Cheung
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the Appellant’s 2003, 2004, 2005, 2006, 2007, 2008, 2009, and 2010 taxation years is dismissed.
+Signed at Halifax, Nova Scotia, this 11th day of July 2016.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2014-1107(IT)I
+BETWEEN:
+JOSLEYN CHARLES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of Lawrence Aimurie, 2014-1103(IT)G on June 21, 2016, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Tony Cheung
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the Appellant’s 2008 and 2009 taxation years is dismissed.
+Signed at Halifax, Nova Scotia, this 11th day of July 2016.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2016TCC164
+Date: 20160711
+Docket: 2014-1103(IT)G
+BETWEEN:
+LAWRENCE AIMURIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2014-1107(IT)I
+AND BETWEEN:
+JOSLEYN CHARLES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] Lawrence Aimurie and Josleyn Charles are spouses of one another and their appeals were heard on common evidence.
+[2] The issue in Ms. Charles appeal was whether she was entitled to claim a non-refundable tax credit in respect of her spouse in 2008 and 2009 (the “spousal amounts”). The Minister of National Revenue (the “Minister”) determined that she was not entitled to claim these amounts because her spouse, Mr. Aimurie, earned income over the income thresholds for the years in question. The Minister assumed that Mr. Aimurie received net business income in the amounts of $107,635 and $161,979 in 2008 and 2009.
+[3] My decision in Ms. Charles’ appeal is totally dependent on my conclusions concerning Mr. Aimurie’s net business income for 2008 and 2009. Therefore, I will now consider the issues and evidence presented in Mr. Aimurie’s appeal.
+Lawrence Aimurie [4] The Minister of National Revenue (the “Minister”) performed a bank deposit analysis and reassessed Mr. Aimurie for his 2003, 2004, 2005, 2006, 2007, 2008 and 2009 taxation years to include unreported amounts in his income. Mr. Aimurie was arbitrarily assessed for his 2010 taxation year. The reassessments for the 2003 to 2007 years were made beyond the normal reassessment period pursuant to subsection 152(4) of the Income Tax Act (the “Act”). Penalties were assessed for the 2003 to 2009 years pursuant to subsection 163(2) of the Act.
+[5] The net business income/loss reported by Mr. Aimurie and the unreported amounts included in his income were as follows:
+Year
+Unidentified Deposits
+Net Business Income/Loss Reported
+Unreported Income
+2003
+$20,568
+$(1,298)
+$21,866
+2004
+50,482
+1,068
+49,414
+2005
+45,646
+114
+45,532
+2006
+39,612
+4,501
+35,111
+2007
+58,894
+176
+56,718
+2008
+107,635
+3,381
+104,254
+2009
+161,721
+782
+160,939
+2010
+184,096
+n/a
+184,096
+Total Unreported Income
+$657,930
+[6] The witnesses at the hearing were Mr. Aimurie and Macille Poon who is the auditor with the Canada Revenue Agency (“CRA”) who worked on Mr. Aimurie’s file.
+[7] During the relevant years, Mr. Aimurie operated a tax preparation, accounting and cheque cashing business (the “Business”). The Business was operated under various names including, Lawsco Accounting and Income Tax Services (“Lawsco”), “CashPal” and “Cashpal Financial Management Services Incorporated”.
+[8] The Minister assumed that each of these businesses was operated as a sole proprietorship whereas Mr. Aimurie claimed that “Cashpal Financial Management Services Incorporated” was a corporation and the money earned by it should not be included in his income. I do not believe Mr. Aimurie. It would have been very easy for him to support his statement with a document but he brought no documents in spite of the fact that he knew, prior to the hearing, that this would be an issue. In addition, there was evidence that the alleged corporation used the same bank account as “Cashpal”. I have concluded that Mr. Aimurie operated the entire Business as a sole proprietorship and I will refer to “Cashpal Financial Management Services Incorporated” as “Cashpal”.
+[9] In 2011, Mr. Aimurie was investigated by the Enforcement Division of the CRA with respect to his involvement in making false charitable donation claims on behalf of his clients in their income tax returns for the 2003 to 2010 years inclusive. Mr. Aimurie’s home and office were searched pursuant to two search warrants. Mr. Aimurie held 18 bank accounts and Production Orders were issued on four of his bank accounts - two Business accounts and two personal accounts.
+[10] Mr. Aimurie was charged with one count of fraud of an amount greater than $5,000 by preparing and filing false T1 income tax returns and false charitable donation receipts between February 12, 2004 and September 30, 2010. On June 14, 2013, he entered a guilty plea and signed an Agreed Statement of Facts wherein he agreed that, for the 2006-2009 taxation years, he e-filed returns in which he claimed false charitable donations that totalled in excess of $641,000.
+[11] According to the audit report prepared by Macille Poon, Mr. Aimurie made fictitious charitable donation claims in the amount of $1,300,000 for the period 2003 to 2010 and his commission was approximately 10% of the gross donation amount.
+[12] Ms. Poon explained that she used the bank statements which the Enforcement Division had obtained from the Royal Bank and the Toronto Dominion Bank (“TD Bank”) to calculate the amounts included in Mr. Aimurie’s income.
+[13] In particular, Ms. Poon relied on the information from the Lawsco account with the TD Bank and the Cashpal account with the Royal Bank. She analysed each account and each year separately. For each account, she calculated the total annual credits and debits by category. She then subtracted those debits which she believed were business expenses from the total credits. The difference was labelled as Unreported Income. Ms. Poon stated that when she was unable to identify an amount as a business expense, she included that amount in the Unreported Income.
+[14] Ms. Poon found that some of the amounts debited from the Business accounts were transferred to Mr. Aimurie’s personal bank account and his investment account. She also found that the Business accounts were used to pay household expenses and personal credit cards. She included these debit amounts and “unknown transfers” and “unknown cheques” in the amount assessed as Unreported Income.
+[15] At the end of her audit, Ms. Poon sent a proposal letter to Mr. Aimurie for his comments. He was given 30 days to respond. He did not reply. She then sent him a second letter confirming that the CRA would proceed with their proposal. In response to this second letter, Mr. Aimurie requested an extension of time. His request was refused.
+[16] Mr. Aimurie stated that he did not underreport his income. He stated that Ms. Poon and the CRA did not understand his business. To demonstrate his point, he tendered his notice of objection which included a chart with respect to his tax preparation business. He explained that he discounted tax refunds to his clients. As a discounter, his fees were only 15% on the first $300 refund and 5% on the amount of refund over $300. Using Ms. Poon’s working papers, Mr. Aimurie calculated that in 2004 his fees from discounting were only $1,337.81. According to his calculations, he paid his clients $17,777.65 as refunds. He stated that Ms. Poon had only deducted $10,529.46 as refunds to his clients.
+[17] The problem that I have with Mr. Aimurie’s argument is that it does not account for the amounts he received from his clients for e-filing fraudulent income tax returns on their behalf.
+[18] At his sentencing in the criminal prosecution, Mr. Aimurie admitted that he had charged his clients 10% of the face value of the false charitable donations which he claimed on their behalf. He also agreed that the charity did not receive any portion of the 10% fee paid to him. Mr. Aimurie cannot now deny that he received fees from his clients for e-filing their tax returns with a claim for false charitable donations.
+[19] Mr. Aimurie has not brought any evidence to demonstrate that the amounts included in his income were incorrect or too high. He made various assertions which were not supported by any documents. He stated that during this period his spouse worked and her salary was between $55,000 and $60,000 annually. Her pay cheque was deposited into his personal account from which they paid household expenses. Mr. Aimurie also stated that he had another Royal Bank account into which he had deposited $100,000 in 2007 from the sale of his home. No bank statements from either of these accounts were presented to the Court.
+[20] In addition, the documentary evidence filed at the hearing did not support Mr. Aimurie’s testimony. According to exhibit R-5, numerous household expenses were paid using the funds from the business accounts for Lawsco and Cashpal. If Mr. Aimurie received $100,000 in 2007, there was no evidence that any of this amount was considered in the bank deposit analysis.
+[21] In raising the reassessments, the Minister assumed that Mr. Aimurie had total unreported income of $657,930 for the period 2003 to 2010 inclusive. It is my view that Mr. Aimurie has not shown that this assumption was incorrect.
+Statute Barred Years and Gross Negligence Penalties [22] The reassessments for the 2003 to 2007 taxation years were made beyond the normal reassessment period and the onus was on the Minister to show that Mr. Aimurie made a misrepresentation that was attributable to neglect, carelessness, wilful default or fraud in filing his returns.
+[23] When he filed his income tax returns, Mr. Aimurie reported that he earned total net income of $4,561 in 2003 to 2007. However, his total net income for this period was $213,202.
+[24] It is my view that the Minister was justified in opening the five statute-barred years. I have found that Mr. Aimurie did not report all of the fees which he made from the Business. He was the only person who handled the fees earned by the Business. I have concluded that many of his answers were implausible and it is my view that he was not credible. He has not provided any convincing explanation for the discrepancies between the income he reported on his income tax returns and the income as shown by the bank account analysis and that discrepancy was substantial. It is my view that the misrepresentations made by Mr. Aimurie in filing his income tax returns were attributable to wilful default.
+[25] The Minister assessed gross negligence penalties against Mr. Aimurie for the 2003 to 2009 taxation years. Gross negligence was defined in Venne v The Queen, 84 DTC 6247 (FCTD) at paragraph 37 as:
+“Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[26] In deciding whether the Minister has established that gross negligence penalties should be applied, I have considered a number of factors. They include: the magnitude of the omission in relation to the income declared; the opportunity the taxpayer had to detect the error; the taxpayer’s education and apparent intelligence: DeCosta v The Queen, 2005 TCC 545 at paragraph 11.
+[27] I have concluded that Mr. Aimurie earned income which he did not report on his income tax returns. The unreported income for the 2003 to 2009 years was huge when compared to the income he reported. Only he controlled the cash earned by the Business and he filed his own returns. Mr. Aimurie was educated. He had an accounting diploma and he studied liberal arts at York University. I am not sure if he obtained his degree. His sole proprietorship, Lawsco, was authorized by CRA to be an EFILE agent and he prepared and e-filed tax returns for his clients. There was evidence that during the period under appeal, Mr. Aimurie actively bought and sold securities. I am satisfied that Mr. Aimurie knew that he was not reporting all of the income he earned and the Minister was correct to impose gross negligence penalties.
+[28] Mr. Aimurie’s appeal for the 2003, 2004, 2005, 2006, 2007, 2008, 2009 and 2010 taxation years is dismissed.
+Josleyn Charles [29] In calculating the amount of tax she had to pay in 2008 and 2009, Ms. Charles claimed non-refundable tax credits for spousal amounts of $8,018 and $5,876 respectively.
+[30] In order to be eligible to claim the spousal amount in 2008 and 2009, Ms. Charles had to be married to Mr. Aimurie and she had to support him.
+[31] However, I have found that Mr. Aimurie had net business income of $107,635 and $161,721 in 2008 and 2009. It is clear that Mr. Aimurie was not dependent on Ms. Charles for support in 2008 and 2009.
+[32] Ms. Charles’ appeal for the 2008 and 2009 taxation years is dismissed.
+Signed at Halifax, Nova Scotia, this 11th day of July 2016.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2016TCC164
+COURT FILE NO.:
+2014-1103(IT)G
+2014-1107(IT)I
+STYLE OF CAUSE:
+LAWRENCE AIMURIE AND HER MAJESTY THE QUEEN
+JOSLEYN CHARLES AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 21, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+July 11, 2016
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Tony Cheung
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

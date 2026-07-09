@@ -1,0 +1,124 @@
+Title: Wiley c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31260/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-237-31260-wiley-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-07-29
+
+# Wiley c. La Reine
+
+- Citation: 2013 CCI 237
+- Decision date: 2013-07-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5102, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wiley c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-07-29
+Référence neutre
+2013 CCI 237
+Numéro de dossier
+2012-4098(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-4098(IT)I
+ENTRE :
+ANNETTE WILEY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 16 juillet 2013 à Toronto (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentante de l’appelante :
+Mme Victoria‑Lyn Wallace
+Avocate de l’intimée :
+Me Iris Kingston
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2011 est rejeté.
+Signé à Halifax (Nouvelle‑Écosse), ce 29e jour de juillet 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 12e jour de septembre 2013.
+S. Tasset
+Référence : 2013CCI237
+Date : 20130729
+Dossier : 2012-4098(IT)I
+ENTRE :
+ANNETTE WILEY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] L’appelante souffre de fibromyalgie depuis 2004. Son état s’est aggravé en janvier 2011, lorsqu’elle a subi d’importantes lésions aux nerfs par suite d’une opération aux seins. Le présent appel vise à déterminer si les effets de la déficience physique de l’appelante sont tels que sa capacité d’accomplir une activité courante, à savoir celle de s’habiller, est limitée de façon marquée de telle sorte qu’elle a droit au crédit d’impôt pour personnes handicapées pour l’année d’imposition 2011.
+[2] À l’audience, l’appelante était représentée par sa fille Victoria-Lyn Wallace. Elle et sa fille ont toutes deux témoigné.
+[3] L’appelante a quatre enfants. Sa fille Victoria-Lyn est étudiante à l’Université de Toronto, à Mississauga, en Ontario. Pendant l’année universitaire, elle vit à Mississauga, mais elle rentre à la maison pour aider l’appelante pendant les congés et les fins de semaine. L’appelante a aussi deux fils et une autre fille, âgée de 10 ans.
+[4] L’appelante a indiqué qu’elle était actuellement femme au foyer. Toutefois, avant octobre 2012, elle travaillait comme gérante dans un restaurant Kentucky Fried Chicken. Elle a été forcée de quitter son emploi en raison des complications dont elle a souffert par suite de l’opération subie en 2011.
+[5] D’après les lettres rédigées par son médecin traitant, la Dre Marion F. Arthur, l’appelante souffre de douleurs neuropathiques qui l’ont forcée à se présenter régulièrement dans une clinique antidouleur et à prendre des médicaments de manière prolongée. Les effets indésirables produits par certains des médicaments pris par l’appelante pour calmer ses douleurs et la dépression situationnelle chronique dont elle souffre sont si graves qu’elle n’a plus été en mesure de travailler. Dans une lettre portant la date du 19 juin 2013, la Dre Arthur a écrit que d’après son évaluation, on ne pouvait pas s'attendre à ce que l’appelante se rétablisse suffisamment pour retourner sur le marché du travail.
+[6] L’appelante a expliqué que depuis qu’elle a subi une réduction mammaire, la vie est pour elle un combat quotidien. Elle peine à sortir de la baignoire en raison de la pression ressentie au niveau de la poitrine. Dans la douche, elle doit veiller à ce que l’eau ne tombe pas sur les nombreuses parties sensibles de sa poitrine, car la douleur ressentie est intense. Dans son bain, le changement de température de l’eau provoque une douleur. Pour se laver les cheveux et le dos, elle a besoin de l’aide d’une de ses filles. Elle ne peut pas porter de soutien‑gorge parce que la pression exercée par le tissu lui fait mal. Lorsqu’elle s’habille, elle doit essayer divers chemisiers et les revêtir lentement pour alléger au mieux ses souffrances. Elle ne peut pas lever les bras au-dessus de sa tête sans que cela lui occasionne des douleurs et ne peut pas se brosser seule les cheveux.
+[7] L’appelante a déclaré que sa fille et son fils l’aidaient chaque jour à se vêtir. Elle peut bouger les doigts, mais elle ressent de la douleur et un picotement dans les doigts. Elle peut manier des boutons et des fermetures à glissière. Elle peut se pencher vers l’avant à partir de la taille et, assise sur une chaise ou un lit, elle parvient à enfiler elle-même un pantalon. Chaque matin, il lui faut environ 20 à 25 minutes pour s'habiller et mettre du déodorant.
+[8] Eu égard aux circonstances particulières du présent appel, l’appelante aura droit au crédit d’impôt pour personnes handicapées si elle répond aux trois critères prévus à l’article 118.3 de la Loi de l’impôt sur le revenu (la « Loi ») : (1) elle a une déficience physique grave et prolongée; (2) cette déficience physique limite de façon marquée sa capacité de s’habiller; (3) un médecin a attesté, sur le formulaire prescrit, que la déficience est grave et prolongée.
+[9] L’article 118.4 de la Loi définit le sens des termes « prolongée » et « limitée de façon marquée ». Il énonce ce qui suit : a) une déficience est prolongée si elle dure au moins 12 mois d’affilée; b) la capacité d’un particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement s’il est toujours ou presque toujours incapable d’accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif.
+[10] Le 16 septembre 2011, la Dre Arthur a rempli une attestation pour le crédit d’impôt pour personnes handicapées (l’« attestation ») pour le compte de l’appelante. Dans le formulaire, elle a déclaré que la capacité de l’appelante de s’habiller était limitée de façon marquée depuis janvier 2011 par suite d’une opération de réduction mammaire. Concernant les effets de la déficience, elle a précisé que les vêtements de l’appelante la faisaient souffrir. Elle ajoutait qu’elle s’attendait à ce que la déficience de l’appelante dure au moins 12 mois d’affilée, mais elle ne pouvait pas affirmer avec certitude que l’état de cette dernière s’était amélioré ou qu’il était probable qu’il s’améliore.
+[11] Dans une lettre datée du 23 décembre 2011, le ministre du Revenu national a demandé à la Dre Arthur de lui fournir des renseignements supplémentaires pour les besoins de la demande de crédit d’impôt pour personnes handicapées présentée par l’appelante. Pour chacune des deux questions qui lui étaient adressées, la Dre Arthur était priée de cocher l’énoncé qui décrivait au mieux la capacité de sa patiente de se vêtir. Voici le libellé de ces questions, et les réponses sélectionnées par le médecin :
+[traduction]
+Avec des soins thérapeutiques et l’aide des appareils et des médicaments indiqués, votre patiente :
+a) ____ est capable de s’habiller;
+b) __x_ est parfois incapable de s’habiller (p. ex. poussées actives de la maladie)
+c) _____est toujours ou presque toujours incapable de s’habiller.
+L’expression « un temps excessif » signifie que le temps nécessaire à l’accomplissement de l’activité est beaucoup plus long qu’il ne l’est pour la moyenne des personnes du même âge n’ayant pas la déficience.
+Lorsque votre patiente est capable de s’habiller avec des soins thérapeutiques et l’aide des appareils et des médicaments indiqués, elle :
+a) ____ met le même temps à s’habiller, mais n’y consacre pas un temps excessif.
+b) ____ met plus de temps à s’habiller, mais n’y consacre pas un temps excessif.
+c)__x__ consacre parfois un temps excessif à s’habiller, mais entre ces épisodes, elle peut le faire sans être limitée de façon marquée (p. ex., la patiente consacre parfois un temps excessif à s’habiller à cause de la douleur ressentie).
+d) ____ consacre toujours ou presque toujours un temps excessif à s’habiller (p. ex. en raison de douleurs constantes et aiguës, votre patiente consacre toujours ou presque toujours un temps excessif à s’habiller, malgré les médicaments).
+[12] La Dre Arthur n’a pas témoigné à l’audience, mais elle a souscrit un affidavit qui a été produit en cour. Sa réponse à la demande de renseignements supplémentaires y est jointe comme pièce. Dans cet affidavit, la Dre Arthur précise que [traduction] « Annette Wiley consacre parfois un temps excessif à s’habiller, mais entre ces épisodes, elle peut le faire sans être limitée de façon marquée. Autrement dit, Mme Wiley consacre parfois un temps excessif à s’habiller à cause de la douleur ressentie. »
+[13] Suivant l’alinéa 118.3(4)b) de la Loi, les renseignements supplémentaires donnés par la Dre Arthur sont réputés figurer dans l’attestation établie en la forme prescrite.
+[14] Compte tenu de ces renseignements supplémentaires, j’ai conclu que l’attestation remise par la Dre Arthur est défavorable. En effet, elle y déclare que la déficience de l’appelante ne limite pas de façon marquée sa capacité d’accomplir l’activité courante consistant à s’habiller.
+[15] Je remarque que l’attestation comporte une liste d’activités non comprises dans l’expression « s’habiller ». Toutefois, il n’y est pas dit que la notion de s’habiller comprend la capacité d’accomplir des activités élémentaires d’hygiène personnelle telles que faire sa toilette et prendre un bain : Johnston c R, [1998] 2 CTC 262 (CAF), au paragraphe 37. Si cette définition avait été incluse dans l’attestation, je doute que la réponse de la Dre Arthur eût été la même. Les témoignages de l’appelante et de sa fille ont révélé que l’appelante prenait beaucoup de temps pour arriver à se doucher et à prendre un bain et que, pour cette dernière activité, elle avait besoin d’être aidée. Cela dit, aucun des témoins n’a donné de précisions au sujet du temps consacré au bain.
+[16] La délivrance d’une attestation médicale favorable constitue une exigence impérative pour qu'une personne ait droit au crédit d’impôt pour personnes handicapées, et il ne m’est pas permis de ne pas en tenir compte ou de substituer mon avis à celui du médecin : Buchanan c R, 2002 CAF 23, au paragraphe 19.
+[17] Cela dit, afin d’éviter que le médecin qui signe l’attestation omette certaines des activités que comporte le fait de s’habiller, je recommande de modifier l’attestation afin d’inclure la définition du terme « s’habiller » donnée dans l’arrêt Johnston.
+[18] Malheureusement, je suis contrainte de rejeter l’appel.
+Signé à Halifax (Nouvelle‑Écosse), ce 29e jour de juillet 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 12e jour de septembre 2013.
+S. Tasset
+RÉFÉRENCE : 2013CCI237
+No DU DOSSIER DE LA COUR : 2012-4098(IT)I
+INTITULÉ : ANNETTE WILEY ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 16 juillet 2013
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 29 juillet 2013
+COMPARUTIONS :
+Représentante de l’appelante :
+Mme Victoria-Lyn Wallace
+Avocate de l’intimée :
+Me Iris Kingston
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

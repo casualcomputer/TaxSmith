@@ -1,0 +1,166 @@
+Title: Deschamps c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27617/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-194-27617-deschamps-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-04-02
+
+# Deschamps c. La Reine
+
+- Citation: 2007 CCI 194
+- Decision date: 2007-04-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 438, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Deschamps c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-02
+Référence neutre
+2007 CCI 194
+Numéro de dossier
+2006-1941(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1941(IT)I
+ENTRE :
+EDWARD PATRICK DESCHAMPS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 27 mars 2007, à Sudbury (Ontario).
+Devant : L’honorable juge B. Paris
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Carole Benoit
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1999 est rejeté selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 2e jour d’avril 2007.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 27e jour de février 2008.
+D. Laberge, LL.L.
+Référence : 2007CCI194
+Date : 20070402
+Dossier : 2006-1941(IT)I
+ENTRE :
+EDWARD PATRICK DESCHAMPS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Il s’agit d’un appel d’une nouvelle cotisation concernant l’année d’imposition 1999 de l’appelant par laquelle le ministre du Revenu national (le « ministre ») a ajouté un montant de 53 300 $ au revenu de l’appelant conformément au paragraphe 146(10) de la Loi de l’impôt sur le revenu.
+[2] Le ministre a conclu que ce montant représentait la juste valeur marchande des placements non admissibles acquis par l’appelant en 1999 à l’aide de fonds provenant de son compte de REER autogéré.
+[3] L’appelant affirme n’avoir autorisé personne à utiliser les fonds de son REER pour acquérir des placements non admissibles et avoir simplement voulu emprunter de l’argent en donnant son REER à titre de garantie. Il a affirmé avoir été victime d’un stratagème par lequel on avait soutiré les fonds se trouvant dans son REER, et qu’il ne devrait pas être obligé d’inclure quelque montant que ce soit dans son revenu en vertu du paragraphe 146(10) ou de payer quelque impôt que ce soit sur l’argent qui lui avait été volé.
+[4] Les faits sur lesquels le ministre s’est fondé en établissant la nouvelle cotisation de l’appelant sont énoncés au paragraphe 9 de la réponse à l’avis d’appel. Les hypothèses à cet égard sont rédigées comme suit :
+[traduction]
+a) au début de l’année 1999, l’appelant était le rentier en vertu d’un régime enregistré d’épargne‑retraite autogéré (le « REER ») et la valeur du REER était d’environ 53 300 $;
+b) en vertu de la loi de l’Ontario, les fonds du REER étaient « bloqués », en ce sens que l’appelant ne pouvait pas les retirer;
+c) l’appelant a viré les fonds de son REER de la Banque Laurentienne à B2B Trust, une filiale de la Banque Laurentienne (numéro de REER autogéré B124933);
+d) le 20 janvier 1999 ou vers cette date, à la demande de l’appelant, B2B Trust a acheté 1 160 actions de la catégorie B de 3563545 Canada Inc. (« 3563545 »), au prix de 25 $ l’action, et 972 actions de la catégorie B de 9073‑5309 Québec Inc. (« 9073‑5309 »), au prix de 25 $ l’action, à l’aide des fonds investis dans le REER autogéré de l’appelant;
+e) pendant toute la période pertinente, la juste valeur marchande des 1 160 actions de 3563545 et des 972 actions de 9073‑5309 achetées par B2B Trust était de 53 300 $;
+f) tout au long de l’année d’imposition 1999, 3563545 et 9073‑5309 n’avaient pas de revenu et n’exploitaient pas d’entreprise;
+g) la seule activité de 3563545 et de 9073‑5309 consistait à recevoir des fonds en vue d’acheter des actions de La Financière Telco Inc.;
+h) la seule activité de La Financière Telco Inc. consistait à prêter de l’argent;
+i) le stratagème décrit ci‑dessus a été conçu en vue de permettre à l’appelant d’avoir accès aux fonds bloqués se trouvant dans son REER sans avoir à payer d’impôt.
+[5] La preuve montrait qu’au début de l’année 1999, l’appelant était sans emploi et qu’il faisait face à des difficultés financières. L’appelant a affirmé avoir eu besoin d’argent pour une opération à la jambe; quelqu’un qui offrait de lui prêter de l’argent à valoir sur les fonds bloqués qu’il détenait dans son REER a communiqué avec lui. L’appelant ne se rappelait pas le nom de cette personne ni celui des gens avec qui il avait traité, mais la preuve recueillie par l’Agence du revenu du Canada (l’« ARC ») montre que le stratagème avait été ourdi par un certain M. Jean Tremblay et par un certain nombre d’associés. Afin d’obtenir le prêt, l’appelant a été obligé de virer le produit de son compte de REER à un compte de REER autogéré, à la Banque Laurentienne. Il a également été obligé de signer certains documents, dont quatre lettres types adressées à la Banque Laurentienne.
+[6] Ces lettres autorisaient la banque à utiliser l’argent provenant du REER autogéré de l’appelant en vue d’acheter des actions de 3563545 Canada Inc. et de 9073‑5309 Québec Inc. Les noms des sociétés, le nombre d’actions et le prix à payer pour les actions ont été inscrits dans des espaces laissés en blanc dans les lettres. L’appelant a affirmé que les espaces en blanc, dans les lettres concernant 3563545, avaient été remplis lorsqu’il avait signé les lettres, mais qu’il croyait que les renseignements se rapportant aux actions de 9073‑5309 avaient été inscrits après qu’il eut signé les lettres. Quoi qu’il en soit, il a affirmé ne pas avoir vraiment porté attention à ces documents parce qu’il croyait comprendre que les actions qui étaient achetées à l’aide de son REER seraient rachetées par le prêteur une fois qu’il rembourserait le prêt.
+[7] Un représentant de 3563545 et de 9073‑5309 a ensuite écrit à la Banque Laurentienne au sujet des achats d’actions et a demandé à la banque de verser l’argent aux bureaux de ces sociétés, à Laval (Québec). Le prix des actions de 3563545 était de 29 000 $ et le prix des actions de 9073‑5309 était de 24 300 $. Chaque société avait également fourni un rapport préparé par un comptable agréé attestant que les actions étaient des placements admissibles en vertu de la Loi de l’impôt sur le revenu et de son règlement d’application.
+[8] L’appelant a affirmé n’avoir jamais vu les certificats d’actions qui avaient été délivrés par 3563545 et par 9073‑5309, dont l’ARC a obtenu copie au cours de la vérification ultérieure. Ces certificats montraient que, le 20 janvier 1999, 3563545 avait émis 1 160 actions de la catégorie B en faveur de la Banque Laurentienne et que, le 20 mai 1999, 9073‑5309 avait émis 972 actions de la catégorie B en fiducie au nom de l’appelant. Des copies des registres d’actionnaires des deux sociétés montraient également que l’appelant détenait des actions dans chacune de ces sociétés.
+[9] Le témoin de l’intimée, M. Jefferey Zucker, chef de groupe au sein de la Section de l’évitement fiscal, à l’Agence du revenu du Canada, supervisait le travail de vérification effectué par l’ARC à l’égard d’un grand nombre de stratagèmes concernant des REER, dont M. Tremblay faisait la promotion. Le témoin a déclaré que les stratagèmes ciblaient des gens qui étaient dans le besoin et donnaient à ceux‑ci la possibilité d’avoir accès aux fonds qui se trouvaient dans leurs REER sans avoir à payer d’impôt sur le revenu. On offrait à des particuliers des prêts correspondant à 60 ou 70 p. 100 du solde de leur REER s’ils plaçaient ces fonds dans certaines sociétés admissibles contrôlées par M. Tremblay, comme 3563545 et 9073‑5309. M. Zucker a déclaré que ces sociétés n’exerçaient pas d’activités commerciales et qu’elles servaient toutes de moyen permettant d’acheminer l’argent, au moyen d’achats d’actions, vers une autre société liée appelée La Financière Telco. De son côté, Telco utilisait cet argent pour payer les dépenses engagées par une autre société contrôlée par M. Tremblay, Les Immeubles Tremesco Inc. La société Tremesco exploitait une maison de retraite à Rigaud (Québec).
+[10] Les états financiers et les déclarations de revenus de 3563545 et de 9073‑5309 pour les périodes pertinentes montrent que ni l’une ni l’autre de ces sociétés n’exploitait activement une entreprise.
+[11] M. Zucker a examiné les documents comptables obtenus de Telco en vue de démontrer que Telco n’exploitait pas activement d’entreprise. Dans les états financiers de Telco, les sommes à recevoir de Tremesco étaient indiquées d’une façon inexacte à titre de produits afin de donner l’impression que Telco exploitait activement une entreprise, mais une fois que les fausses inscriptions étaient supprimées, il ne restait à Telco qu’un montant minime au titre du revenu en intérêts, se rapportant apparemment à des prêts consentis à des « investisseurs » comme l’appelant.
+[12] En l’espèce, l’appelant a déclaré avoir obtenu un prêt de 18 000 $ en donnant son REER à titre de garantie et avoir effectué certains versements mensuels à l’égard du prêt. Il a déclaré que certains versements lui avaient par la suite été retournés, mais il n’a pas fourni de détails additionnels sur ce point.
+Analyse
+[13] L’intimée se fonde sur les dispositions suivantes de la loi :
+Loi de l’impôt sur le revenu
+146(1) « placement non admissible » Dans le cas d’une fiducie régie par un régime enregistré d’épargne‑retraite, s’entend des biens acquis par la fiducie après 1971 et qui ne constituent pas un placement admissible pour cette fiducie.
+[...]
+146(10) Lorsque, à un moment donné d’une année d’imposition, une fiducie régie par un régime enregistré d’épargne‑retraite :
+a) acquiert un placement non admissible;
+b) utilise à titre de garantie d’un prêt un bien quelconque de la fiducie ou en permet l’utilisation,
+la juste valeur marchande :
+c) du placement non admissible au moment de son acquisition par la fiducie;
+d) du bien utilisé à titre de garantie, au moment où il a commencé à être ainsi utilisé,
+selon le cas, doit être incluse dans le calcul du revenu, pour l’année, du contribuable qui est le rentier en vertu du régime à ce moment.
+Règlement de l’impôt sur le revenu
+4900(6) Pour l’application de l’alinéa d) de la définition de « placement admissible » au paragraphe 146(1) de la Loi, de l’alinéa e) de la définition de « placement admissible » au paragraphe 146.1(1) de la Loi et de l’alinéa c) de la définition de « placement admissible » au paragraphe 146.3(1) de la Loi, un bien constitue, sous réserve des paragraphes (8) et (9), un placement admissible pour une fiducie régie par un régime enregistré d’épargne‑retraite, un régime enregistré d’épargne‑études ou un fonds enregistré de revenu de retraite à un moment donné s’il est, à ce moment :
+a) une action du capital‑actions d’une société admissible, au sens du paragraphe 5100(1), sauf si une personne qui est un rentier, un bénéficiaire ou un souscripteur en vertu du régime ou du fonds est un actionnaire désigné de la société;
+b) un intérêt d’un commanditaire dans une société de personnes en commandite de placement dans des petites entreprises;
+c) une participation dans une fiducie de placement dans des petites entreprises.
+[...]
+(12) Pour l’application de l’alinéa d) de la définition de « placement admissible » au paragraphe 146(1) de la Loi, de l’alinéa e) de la définition de « placement admissible » au paragraphe 146.1(1) de la Loi et de l’alinéa c) de la définition de « placement admissible » au paragraphe 146.3(1) de la Loi, un bien est un placement admissible pour une fiducie régie par un régime enregistré d’épargne‑retraite, un régime enregistré d’épargne‑études ou un fonds enregistré de revenu de retraite s’il constitue l’un des biens suivants au moment où la fiducie l’acquiert et si chaque personne qui est un rentier, un bénéficiaire ou un souscripteur en vertu du régime ou du fonds immédiatement après ce moment n’est pas alors un actionnaire rattaché de la société applicable visée aux alinéas a) à c) :
+a) une action du capital-actions d’une société, sauf une société coopérative, qui, au moment où la fiducie l’acquiert ou à la fin de la dernière année d’imposition de la société terminée avant ce moment, serait une société exploitant une petite entreprise si le passage de la définition de « société exploitant une petite entreprise » au paragraphe 248(1) de la Loi précédant l’alinéa a) était remplacé par le passage « S’entend à une date donnée, sous réserve du paragraphe 110.6(15), d’une société canadienne (sauf une société alors contrôlée, directement ou indirectement de quelque manière que ce soit, par au moins une personne non‑résidente) dont la totalité, ou presque, de la juste valeur marchande des éléments d’actif est alors attribuable à des éléments qui sont :
+b) une action du capital‑actions d’une société qui est visée à l’un des articles 6700, 6700.1 ou 6700.2;
+c) une part admissible quant à une coopérative déterminée et au fonds ou régime.
+5100(1) [...]
+« entreprise admissible exploitée activement » Entreprise exploitée principalement au Canada par une société à une date quelconque, à l’exclusion :
+a) d’une entreprise (sauf une entreprise de louage de biens qui ne sont pas des biens immeubles) dont l’objet principal est de tirer un revenu de biens (y compris les intérêts, dividendes, loyers et redevances);
+[...]
+« société admissible » Est une société admissible à un moment donné :
+a) une société canadienne imposable dont la totalité ou la presque totalité des biens sont, à ce moment :
+(i) soit des biens utilisés dans le cadre d’une entreprise admissible exploitée activement par elle ou par une société qu’elle contrôle,
+(ii) soit des actions du capital‑actions d’une ou de plusieurs sociétés admissibles qui lui sont liées ou des titres de créance émis par de telles sociétés,
+(iii) soit des biens et des actions visés aux sous-alinéas (i) et (ii);
+[...]
+[14] L’appelant affirme ne pas avoir autorisé la Banque Laurentienne à acquérir des placements non admissibles à l’aide des fonds de son REER, mais la preuve indique clairement le contraire. L’appelant a admis avoir signé les lettres d’autorisation et les instructions données à la Banque Laurentienne aux fins de l’achat des actions de 3563545 et de 9073‑5309, auxquelles la banque avait donné suite.
+[15] L’appelant n’a peut-être pas fait preuve de diligence en signant ces documents, mais cela ne l’exempte pas des conséquences. Je suis convaincu que l’appelant comprenait qu’il fallait acheter les actions afin d’obtenir un prêt du groupe Tremblay. Toutefois, il est difficile de ne pas avoir de la compassion quant à la situation de l’appelant. En effet, il ne s’y connaît pas dans le domaine des affaires et il a été la proie d’individus sans scrupules à un moment où il faisait face à des difficultés financières. Toutefois, cela ne peut pas influer sur les conséquences fiscales découlant des opérations en question. Les faits de la présente affaire sont presque identiques à ceux dont la Cour d’appel fédérale était saisie dans l’affaire Nunn c. La Reine, 2006 CAF 403, où le contribuable avait également utilisé les fonds de son REER en vue d’acheter des actions de sociétés contrôlées par M. Tremblay. Dans cet arrêt, la Cour d’appel fédérale a dit ce qui suit :
+L’achat des actions dans le cadre d’un placement non admissible a eu pour effet d’enclencher automatiquement l’application du paragraphe 146(1). Ce résultat est sans aucun doute dur, mais il serait inéquitable d’exonérer un contribuable de son obligation fiscale en se fondant sur une erreur ou sur une fraude : Vankerk c. Canada, 2006 CAF 371, paragraphe 3. Autrement dit, d’autres contribuables canadiens ne devraient pas avoir à supporter le fardeau financier créé par des circonstances aussi malheureuses que celles qui existent en l’espèce.
+[16] La preuve montre que 3563545 et 9073‑5309 n’étaient pas des sociétés admissibles au sens du paragraphe 5100(1) du Règlement de l’impôt sur le revenu (le « Règlement »). Il ressort des états financiers déposés par chaque société que ni l’une ni l’autre n’exploitait une entreprise et que les deux sociétés avaient uniquement été créées en vue de détenir des actions de Telco. Par conséquent, la presque totalité de leurs biens n’étaient pas utilisés dans le cadre d’une entreprise admissible exploitée par elles et n’étaient pas non plus composés d’actions du capital‑actions d’une société admissible. Telco n’était pas une « société admissible » parce qu’elle cherchait principalement à tirer un revenu en intérêts à l’aide de prêts, lesquels étaient probablement consentis à des personnes participant au stratagème.
+[17] En outre, je conclus que ni 3563545 ni 9073‑5309 n’étaient une « société exploitant une petite entreprise » au sens des paragraphes 248(1) de la Loi et 4900(12) du Règlement et que ni l’une ni l’autre n’était une « entreprise exploitée activement » selon la définition figurant au paragraphe 125(7) de la Loi.
+[18] Pour ces motifs, je suis convaincu que les actions de 3563545 et de 9073‑5309 n’étaient pas des placements admissibles en vertu des paragraphes 4900(6) et 4900(12) du Règlement et qu’il s’agissait de placements non admissibles au sens attribué à cette expression au paragraphe 146(1) de la Loi.
+[19] Étant donné que les actions qui ont été acquises pour le compte de l’appelant à l’aide des fonds se trouvant dans le REER de celui‑ci n’étaient pas des placements admissibles, l’appelant est tenu, en vertu du paragraphe 146(10) de la Loi, d’inclure dans son revenu la juste valeur marchande de ces actions lors de l’acquisition.
+[20] Selon la réponse à l’avis d’appel, le ministre a supposé que la juste valeur marchande des actions de 3563545 et de 9073‑5309 était de 53 300 $ au moment pertinent. Il me semble évident que les actions en question n’avaient pas de valeur lorsqu’elles ont été acquises. Elles faisaient partie d’un stratagème visant à soutirer à l’appelant les fonds qu’il détenait dans son REER et aucune personne informée n’aurait acheté ces actions.
+[21] Toutefois, cela ne met pas pour autant fin à l’affaire. En vertu de l’alinéa 146(9)b), l’appelant est tenu d’inclure dans son revenu la différence entre la contrepartie payée pour les actions et la juste valeur marchande des actions à ce moment‑là. L’alinéa 146(9)b) est rédigé comme suit :
+(9) Lorsque, au cours d’une année d’imposition, une fiducie régie par un régime enregistré d’épargne‑retraite :
+[...]
+b) soit acquiert des biens en échange d’une contrepartie d’une valeur supérieure à la juste valeur marchande que ces biens avaient au moment de l’acquisition,
+toute différence entre cette juste valeur marchande et la contrepartie doit être incluse dans le calcul du revenu, pour l’année d’imposition, du rentier qui bénéficie de ce régime.
+[22] Puisque j’ai conclu que la juste valeur marchande des actions était nulle au moment pertinent, la contrepartie donnée pour les actions excédait leur juste valeur marchande d’un montant de 53 300 $ et l’appelant est tenu d’inclure ce montant dans son revenu conformément à l’alinéa 146(9)b).
+[23] Étant donné la conclusion que j’ai tirée, il n’est pas nécessaire d’examiner l’argument subsidiaire invoqué par l’intimée, à savoir que les alinéas 146(10)b) et d) exigeaient également l’inclusion du revenu, pour le motif que l’appelant avait utilisé son REER à titre de garantie d’un prêt.
+[24] Pour les motifs énoncés, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 2e jour d’avril 2007.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 27e jour de février 2008.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2007CCI194
+No DU DOSSIER DE LA COUR : 2006-1941(IT)I
+INTITULÉ : EDWARD PATRICK DESCHAMPS
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Sudbury (Ontario)
+DATE DE L’AUDIENCE : Le 27 mars 2007
+MOTIFS DU JUGEMENT : L’honorable juge B. Paris
+DATE DU JUGEMENT : Le 2 avril 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Carole Benoit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

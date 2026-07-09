@@ -1,0 +1,263 @@
+Title: North Shore Health Region v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27333/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-585-27333-north-shore-health-region-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-10-24
+
+# North Shore Health Region v. The Queen
+
+- Citation: 2006 TCC 585
+- Decision date: 2006-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 873, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+North Shore Health Region v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-24
+Neutral citation
+2006 TCC 585
+File numbers
+2002-897(GST)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2002-897(GST)G
+BETWEEN:
+NORTH SHORE HEALTH REGION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 18 and 19, 2005,
+at Vancouver, British Columbia,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Kimberley L.D. Cook
+Counsel for the Respondent:
+Ron D.F. Wilhelm
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which is dated July 9, 2001, and bears number 11BU-117482935 is dismissed, with costs to the Respondent, if demanded.
+Signed at Ottawa, Canada, this 24th of October, 2006.
+"E.A. Bowie"
+Bowie J.
+Citation: 2006TCC585
+Date: 20061024
+Docket: 2002-897(GST)G
+BETWEEN:
+NORTH SHORE HEALTH REGION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+BowieJ.
+[1] The appellant is a public health authority in the province of British Columbia, operating a number of health care facilities in North Vancouver. This appeal is concerned with the incidence of goods and services tax (gst) under Part IX of the Excise Tax Act[1] (the Act) on a facility known as the Kiwanis Care Centre (Centre). The two principal issues before me are whether the facility comes within the definition of a "multi-unit residential complex" found in subsection 123(1) of the Act, in which case the appellant is liable to pay tax on the self-supply of it, and if it is, whether the appropriate rate of rebate to which the appellant is entitled is 83%, as a public hospital, or 50% as a charity.
+[2] The construction of the Centre was begun by the Kiwanis Care Homes Society in 1996. The Society and the appellant were amalgamated on May 1, 1998, shortly before construction was completed. Both were non-profit corporations. The appellant was designated as a regional health board under the Health Authorities Act[2] of British Columbia. It is not disputed that upon the amalgamation the appellant acquired the right to all claims to which the Society was entitled and all benefits that accrued to the Society, and that it also became liable for all of its responsibilities and liabilities. Construction of the Centre was completed later in May 1998, and the first resident[3] moved in that month.
+[3] The people admitted to the Centre upon its completion were all seniors, mostly of quite advanced age, and were all suffering some degree of disability that made it impossible for them to live independently in the community without assistance. The first residents came from two other similar facilities operated by the appellant that provided assisted living. The patients were divided into three categories for administrative purposes. Those in the first intermediate care group were mobile, but required some assistance with the activities of daily living, such as feeding and bathing. They were medically stable. The second intermediate group comprised individuals with more limited mobility, or an ongoing medical condition that required supervision by a physician. Some of this group suffered from a psychiatric or psychological condition that required frequent monitoring. The third group, known as the extended care group, consisted of individuals with a medical history that required them to be monitored on a 24 hour per day basis. These include cardiac or pulmonary conditions and various other chronic conditions requiring both care and supervision. Many in this group had very restricted mobility, and some had multiple diagnoses of medical conditions. Typically, the residents did not require the facilities of an acute care hospital, but they required care, assistance and supervision in varying degrees.
+[4] Admission to the Centre was not available on demand, but required that the person be favourably evaluated by a physician as to their medical needs, and also by a community caseworker. Admission was only available to those who had a personal physician willing to continue their care while in the Centre. The decision to admit was made by an "access team", or a consultant to the appellant. Upon admission, a monthly charge was fixed for each patient, based upon their ability to pay. These charges ranged from $750 to $1,500 per month, and were payable by direct debit from the individual's bank account.
+[5] The residents of the Centre have their meals prepared for them, and they receive the appropriate degree of care and living assistance that their physical and mental condition requires. There is a full-time nursing staff that looks after medical requirements, including the administration of medication for the patients that has been prescribed by the patients' physicians, first-aid and any other medical need that arises. The nurses maintain charts for each patient. A geriatrician conducts rounds at the Centre twice each month and a dentist is available to the patients as needed, at fees negotiated by the Centre for them. There is no physician on staff, but the patients' physicians see them there as required.
+[6] The Centre has 180 single rooms and 6 double rooms, all equipped with hospital-style beds. The rooms are arranged around nursing stations, very much in the manner of a hospital, and it is at these stations that the nurses do their work and maintain the patients' charts. Although the rooms contain the basic furniture required, the residents may bring with them small items of furniture such as a chair, if it is suitable, and such personal items as pictures, ornaments and blankets or comforters if they wish. The bathrooms are equipped with the necessary handholds and other equipment for the safety of the elderly and infirm. Oxygen is available in the rooms, either directly from a central supply or in tanks that are readily available throughout the facility. In addition to the bedrooms, the residents have the use of a library with a fireplace, a function room that is available for family gatherings and the like, and a tuck shop that is operated by two of the residents, with some help from the staff. There is also a rehabilitation facility. There is no pharmacy in the Centre; prescriptions are filled for the patients at a local pharmacy and delivered to the Centre, where the nursing staff check the deliveries and administer the medications according to the instructions of the residents' attending physicians.
+[7] The Centre was operated as a long term care facility. By 2004, about 25% of the Centre's original residents were still living there; the remainder had passed away. Ms. Trevor-Smith, the appellant's Director for Seniors, put it this way in the course of her evidence:[4]
+Q. A lot of what the Centre was doing for these residents was trying to make it as home-like as possible.
+A. Yes, we do that.
+...
+Yes, because these are elderly, they're frail, they're medically compromised, and this would be the last place that they live. I mean, I've literally had residents say to me, "I guess this is my last room," which it is. And so you do everything you can to provide a real quality of life, and respect them, and have life be as happy and normal as you can make it in an institutional setting.
+[8] During the period of construction Revenue Canada officials advised the Society that they considered the construction of the Centre to be a commercial activity, and that it would be required to make a self-assessment of a self-supply of the building under subsection 191(3) of the Act. The first person was admitted to the facility in May 1998, but the appellant did not make a self-assessment at that time. It did, however, file returns in which it claimed input tax credits (itc) for all the gst paid during the construction period, and it was paid those itc. In the summer of 1999, the appellant made a voluntary disclosure to the Minister of National Revenue that it had not self-assessed in respect of the Centre, and it filed an amended return for the period May 29 to June 25, 1998 reporting gst payable on the basis of 7% of the fair market value of the building. On June 5, 2000 it filed a rebate application with the Minister, claiming, under section 259 of the Act, a rebate of 83% of the gst in respect of the building and all its furniture, fixtures and supplies. The Minister's response to this took the form of an assessment that disallowed the claimed 83% rebate, but allowed a rebate of 50%, reasoning that the Centre was a charity, but not a public hospital. The appellant delivered a Notice of Objection in response to the assessment, taking the position, first, that it was not obliged to self-assess at all, because the Centre was not a multi-unit residential complex, and second, that it was entitled to have its rebate paid, as claimed, at 83%. The assessment was confirmed by the Minister, giving rise to this appeal.
+was the appellant required to self-assess for a deemed self-supply of the building?
+[9] The requirement that the builder/owner of a multiple unit residential complex self-assess for gst on the self-supply of the complex is found in subsection 191(3) of the Act.
+191(3) For the purposes of this Part, where
+(a) the construction or substantial renovation of a multiple unit residential complex is substantially completed,
+(b) the builder of the complex
+(i) gives, to a particular person who is not a purchaser under an agreement of purchase and sale of the complex, possession of any residential unit in the complex under a lease, license or similar arrangement entered into for the purpose of the occupancy of the unit by an individual as a place of residence,
+(i.1) gives possession of any residential unit in the complex to a particular person under an agreement for
+(A) the supply by way of sale of the building or part thereof forming part of the complex, and
+(B) the supply by way of lease of the land forming part of the complex or the supply of such a lease by way of assignment, or
+(ii) where the builder is an individual, occupies any residential unit in the complex as a place of residence, and
+(c) the builder, the particular person or an individual who is a tenant or licensee of the particular person is the first individual to occupy a residential unit in the complex as a place of residence after substantial completion of the construction or renovation,
+the builder shall be deemed
+(d) to have made and received, at the later of the time the construction or substantial renovation is substantially completed and the time possession of the unit is so given to the particular person or the unit is so occupied by the builder, a taxable supply by way of sale of the complex, and
+(e) to have paid as a recipient and to have collected as a supplier, at the later of those times, tax in respect of the supply calculated on the fair market value of the complex at the later of those times.
+(emphasis added)
+Removing the unnecessary verbiage, and relating what is left to the facts of this case, leads to the conclusion that if, when the building of the Centre was substantially completed, the appellant gave a person possession of a residential unit in the building under a lease, license or similar arrangement for the purpose of occupying it as a place of residence, then the deeming provision is operative, and there is a self-supply that attracts tax.
+[10] Three definitions found in section 123 of the Act must therefore be considered.
+"multiple unit residential complex" means a residential complex that contains more than one residential unit, but does not include a condominium complex;
+"residential complex" means
+(a) that part of a building in which one or more residential units are located, together with
+(i) that part of any common areas and other appurtenances to the building and the land immediately contiguous to the building that is reasonably necessary for the use and enjoyment of the building as a place of residence for individuals, and
+(ii) that proportion of the land subjacent to the building that that part of the building is of the whole building,
+"residential unit" means
+(a) a detached house, semi-detached house, rowhouse unit, condominium unit, mobile home, floating home or apartment,
+(b) a suite or room in a hotel, a motel, an inn, a boarding house or a lodging house or in a residence for students, seniors, individuals with a disability or other individuals, or
+(c) any other similar premises,
+or that part thereof that
+(d) is occupied by an individual as a place of residence or lodging,
+(e) is supplied by way of lease, license or similar arrangement for the occupancy thereof as a place of residence or lodging for individuals,
+(f) is vacant, but was last occupied or supplied as a place of residence or lodging for individuals, or
+(g) has never been used or occupied for any purpose, but is intended to be used as a place of residence or lodging for individuals;
+(emphasis added)
+[11] The appellant's counsel based her argument that subsection 191(3) does not apply in this case on a technical interpretation from the Canada Revenue Agency that was supplied to the Society in August 1997 pursuant to a request that the Society had made in May of that year, a published ruling issued by the Excise and GST/HST Rulings Directorate of the Canada Revenue Agency concerning the construction of a nursing home, and on the decisions of this Court in O.A. Brown Ltd. v. The Queen[5] and Blanche's Home Care Inc. v. The Queen,[6] and of the Federal Court of Appeal in Hidden Valley Golf Resort Association v. The Queen.[7] In essence, the argument is this. From its inception, the appellant provided to each patient of the Centre a compound supply of services, the dominant part of which was medical care. In counsel's words,
+... the predominant element of the supply was therefore the health care services, with the provision of the accommodation forming a small portion of the cost of the compound supply, and the appellant therefore made a single supply of medical care services.
+[12] The fallacy in the appellant's position is that it addresses the supply made by the appellant to the patients in the facility. The assessment from which the appeal is brought is for tax on a supply deemed by subsection 191(3) to have been made by the builder to itself upon the first patient taking up residence following substantial completion in May 1998. The correctness of that assessment depends entirely on whether the requirements of that subsection are met; it is quite unrelated to the question whether tax is exigible on the supplies made on an ongoing basis thereafter to the patients in the Centre - a question that is not raised at all in this appeal. It is that latter issue, however, that is dealt with in the authorities to which the appellant's counsel referred.
+[13] The real question to be answered on this aspect of the appeal, therefore, is whether the Society gave to the patients possession of a room under a lease, license or similar arrangement for the purpose of occupancy as a place of residence. There is no lease in the present case. Whether the patients have a license to occupy their rooms, or something less than that is not a question that needs to be answered. It is clear that in using the phrase "... lease, license or similar arrangement for the occupancy thereof as a place of residence or lodging ...", Parliament intended to cover any lawful basis under which a person might, with permission, take up residence in premises. Whether in the English or the French[8] version of the Act, it is difficult to think of any broader form of words that could have been used to describe a situation where an individual is, by agreement with the owner, permitted to take up residence. If the arrangement in this case is not a license, it is certainly a "similar arrangement".
+[14] Nor is it possible to conclude that the rooms in the Centre that are occupied by the patients are not their place of residence. They live, eat and sleep at the Centre on a full-time basis; they have some common amenities beyond the confines of their rooms; they receive their mail and, if they wish, newspapers there; they have social events with their families there. Finally, there is no evidence that they have any expectation of going in the future to live elsewhere. To conclude that the Centre is not a place of residence for the patients would be to conclude that they are homeless, which patently would be wrong. The parts of the building that are occupied by the patients are in my view "residential units" as defined, and the Centre is a "multi-unit residential complex" as defined. It follows that upon the happening of the second of two events, substantial completion and the first patient taking up residence, there was a deemed supply by the appellant to the appellant of the complex, and the appellant was deemed to have paid, and to have collected, tax at the rate of 7% on the fair market value of the complex. The appellant took no issue with the value underlying the Minister's assessment, and the appeal therefore fails with respect to the self-supply issue.
+[15] In view of my conclusion as to first issue it is not necessary for me to deal with the Respondent's argument that the appellant is estopped from denying that there was a self-supply of the complex that comes within subsection 191(3) of the Act.
+the rate of rebate to which the appellant is entitled
+[16] The parties are in agreement as to this: the appellant is entitled to receive a rebate of part of the tax that it paid upon the acquisition of furniture, equipment and supplies for the Centre and of part of the tax that I have found to be payable under subsection 191(3) on the self-supply of the Centre.[9] The rate of rebate to be paid is determined under section 259 of the Act, the length and complexity of which are remarkable. Fortunately, the dispute between the parties is a narrow one and can be isolated from the bulk of the verbiage.
+[17] Subsection 259(3) provides for the computation of the rebate in the case of both a charity and a "selected public service body", a term defined in subsection (1):
+259(1) In this section,
+"selected public service body" means
+(a) a hospital authority,
+...
+The expression "hospital authority" too is defined, although this time in subsection 123(1):
+123(1) In section 121, this Part and Schedules V to X,
+"hospital authority" means an organization that operates a public hospital and that is designated by the Minister as a hospital authority for the purposes of this Part;
+The expression "public hospital" is not defined in the Act.
+[18] The Appellant's only claim to a rebate of 83% is as a "selected public service body", and its only claim to be a "selected public service body" is as a "hospital authority". In order to succeed on this branch of its appeal, therefore, it must both operate a public hospital and be designated by the Minister as a hospital authority for the purposes of Part IX of the Act. If it does not satisfy both of those requirements then its only claim to a rebate of part of the gst that it paid is as a charity, at the rate of 50%, which is the basis of the assessment under appeal.
+[19] Issue is joined as to both of these requirements in the pleadings. Paragraph 16 of the 2nd Amended Notice of Appeal reads in part as follows:
+16. On June 14, 2000, the Appellant's Kiwanis Hospital Division filed a Public Service Body Rebate Application ... claiming an 83% rebate ... The claim for the 83% rebate was made on the grounds that the Appellant had been designated by the Minister as a "hospital authority" and the Kiwanis Hospital [the Centre] was a "public hospital" under the Act.
+In the Reply to the 2nd Amended Notice of Appeal paragraph 12 reads:
+12. With further respect to paragraph 16 of the [2nd] Amended Notice of Appeal, he:
+a) admits that the Division claimed an 83% rebate on the grounds that the Appellant had been designated by the Minister as a "hospital authority" and the Centre was a "public hospital" under the Act;
+b) denies that the Minister designated either the Appellant or the Division as a "hospital authority' under the Act; [and]
+c) denies that the Centre was a "public hospital" under the Act;
+...
+The denial that the Centre was a "public hospital" and that the Division (which is to say the Centre) was designated as a "hospital authority" by the Minister are repeated as assumptions of fact underlying the assessment at subparagraphs 23(z) and (aa) of the Reply.
+[20] After the completion of the hearing I requested counsel to provide me with additional submissions in writing with specific reference to the question whether the Appellant is designated as a hospital authority. I now have those submissions.
+is the Centre a public hospital?
+[21] The appellant asserts that the Centre is a public hospital, relying principally on an order of the Minister of Health of British Columbia made under section 42.1 of the Hospital Act[10] on August 1, 1996, an Order in Council made under the Hospital Insurance Act[11] designating it to be a hospital, Webster's Dictionary's definitions of the words "public" and "hospital", and the submission that the Centre provided a high degree of complex medical care.
+[22] The Act does not define the term "public hospital". The appellant referred me to the definitions found in Webster's Dictionary:
+public: of or relating to the government, ... or being in the service of the community;
+hospital: a charitable institution for the needy, aged, infirm ... an institution where the sick or injured are given medical or surgical care.
+The Canadian Oxford Dictionary gives somewhat different definitions:
+public: 1 of or concerning the people as a whole ... 2 open to or shared by all the people ... 4 (of a service, funds, etc.) provided or heavily subsidized by, or concerning a government ...
+hospital: 1 a an institution providing medical and surgical treatment and nursing care for ill or injured people. b an establishment for the treatment of sick or injured animals. ... 3 Brit. Law. A charitable institution ...
+Collins Canadian English Dictionary and Thesaurus gives these definitions:
+public: 1 of or concerning the people as a whole. 2 open to all ... 5 maintained at the expense of, serving, or for the use of a community.
+hospital: 1 an institution for the medical or psychiatric care and treatment of patients. ... 4 Arch. A charitable home, hospice or school.
+In my view, the Canadian Oxford Dictionary and the Collins Canadian Dictionary definitions of hospital, placing more significance upon treatment than Webster does, is more in keeping with contemporary Canadian usage.
+[23] Nor do I agree with the submission that the evidence establishes that the Centre provided its patients with a high degree of complex medical care. My appreciation of the evidence is that the Centre provided assisted living in varying degrees, with the availability of trained nurses to dispense medication and render relatively routine medical assistance as it might be required. There were no physicians on the staff of the Centre, and the visits of the geriatrician were infrequent. The emphasis, in my view, was not on treatment, or even complex care, but on providing assistance in the routine of daily living. Certainly, some patients required a considerable amount of assistance and care, but I do not accept the proposition that either treatment or complex care is the primary purpose of the Centre.
+[24] In my view, dictionary meanings are of little help in this case. Subject to a few exceptions that are not relevant here, the jurisdiction to regulate hospitals is provincial, and in British Columbia, as elsewhere, there are a number of enactments for that purpose. Principal among them is the Hospital Act.[12] It contains the following definition of a hospital in section 1:
+1. In this Act:
+"hospital", except in Parts 2 and 2.1, means a nonprofit institution that has been designated as a hospital by the minister and is operated primarily for the reception and treatment of persons
+(a) suffering from the acute phase of illness or disability,
+(b) convalescing from or being rehabilitated after acute illness or injury, or
+(c) requiring extended care at a higher level than that generally provided in a private hospital licensed under Part 2;
+Part 2 deals only with private hospitals, and Part 2.1 is not relevant to the present case. The Hospital Act does not anywhere define a "public hospital", but in Part 2 it deals with private hospitals, and it contains this definition:
+5(1) In this Part:
+"private hospital" or "hospital" means a house in which 2 or more patients, other than the spouse, parent or child of the owner or operator, are living at the same time, and includes a nursing home or convalescent home, but does not include a hospital as defined in section 1.
+[25] Part of Exhibit A-1, Tab 1 is a copy of a document dated August 1, 1996 and styled order of the minister of health. The operative words of it are:
+I, Joy K. MacPhail, Minister of Health and Minister Responsible for Seniors, order that the [Centre], operated by The North Vancouver Kiwanis Care Homes Society, North Vancouver, be designated as a hospital for the purposes only of Section 41 of the Hospital Act.
+This Order is made under section 42.1 of the Hospital Act, which was enacted in 1980,[13] and reads:
+42.1(1) The minister may designate as a hospital for the purposes of section 41 any community care facility, as defined in the Community Care Facility Act, which
+(a) is licensed under that Act,
+(b) is owned or operated by a corporation incorporated or registered under the Society Act, and
+(c) receives financial assistance from the Province including financial assistance for the retirement of debt arising out of the planning, constructing, reconstructing, equipping or acquiring land or buildings for the purposes of the facility.
+42.1(2) Where the minister designates a community care facility as a hospital under subsection (1),
+(a) the provisions of section 41 shall apply to that facility, and
+(b) a notice that is required to be or may be filed in the land title office, indicating that the hospital land of a hospital as defined in section 1, 5 or 25 is subject to section 41(1)(c) and (d), may be filed in respect of community care facility land, notwithstanding that the regulation providing for filing does not refer to community care facilities or community care facility land.
+Section 41 of the Hospital Act as it then read made specific provision for the provincial government to contribute to the costs of capital construction and additions to hospitals. The Community Care Facility Act[14] defines the term community care facility:
+1 In this Act:
+"community care facility" means any facility that
+(a) provides care, supervision, social or educational training or physical or mental rehabilitation therapy, with or without charge, to 3 or more persons not related by blood or marriage to an operator of the facility,
+(b) provides food and lodging
+(i) with or without charge to 3 or more pregnant women during any portion of their pregnancy, or during the 3 months immediately following delivery, or
+(ii) to 15 or more persons to or for each of whom income assistance is provided under the BC Benefits (Income Assistance) Act, a youth allowance is provided under the BC Benefits (Youth Works) Act or a disability allowance is provided under the Disability Benefits Program Act, or
+(c) is designated by the Lieutenant Governor in Council as a community care facility,
+but does not include any of the following:
+(c) a school under the School Act;
+(d.1) a francophone school as defined in the School Act;
+(e) any portion of a facility licensed under the Hospital Act;
+(f) a home approved as a foster home under the Child, Family and Community Service Act;
+(g) a home designated as a youth custody centre under the Corrections Act;
+(h) a school primarily providing, in the opinion of the director, educational training for children 6 years of age or more;
+(i) an approved home under the Mental Health Act;
+(j) a facility designated by order, or a class of facility designated by regulation, of the Lieutenant Governor in Council not to be a community care facility;
+(k) a home providing day care for a sibling group only;
+The services provided by the Centre to its residents, as they were described to me in the evidence, would certainly fall within paragraph (a) of this definition. The fact that the Minister made such an order indicates that the Centre was, in the view of the Minister of Health, a community care facility, as she could not otherwise have made such an order at all. The effect of the order was not, however, to transform the Centre into a hospital. The power of the Minister to make a section 42.1 designation is specifically limited, as is the order by its own terms, to be "... for the purposes only of section 41 ..." (emphasis added).
+[26] Further support for the view that the Centre is a continuing care facility rather than a hospital is found in Exhibit A-2, which is the first three pages of a six-page form titled "application and assessment form", and is apparently printed and made available for use by the British Columbia Ministry of Health Services. This is the form that must be completed by an applicant for admission to the Centre, and upon which their evaluation is based. Section E of this form reads:
+[I] hereby apply for benefits for which I/Client may be eligible under the Continuing Care program and certify that the information I have provided is correct to the best of my knowledge and may be released to the Continuing Care provider.
+Below this is a space for the signature of the applicant for admission. On the reverse side of page 1, under the heading Freedom of Information and Protection of Privacy is a paragraph that begins with the following sentence:
+Personal information is collected under the Continuing Care Act, and will be used to determine the applicant's functional and self care capabilities. ...
+The Continuing Care Act[15] was enacted in 1989, and in 1994 the definition in it of continuing care was amended to read:
+1. "continuing care" means the provision of health care services prescribed under section 1.2
+Section 1.2 was added at the same time, and reads:
+1.2 The Lieutenant Governor in Council may prescribe to be continuing care one or more health services to persons with a frailty or with an acute or chronic illness or disability that do not require admission to a hospital as defined in section 1 of the Hospital Act.
+[27] These provisions make it clear that under the law of British Columbia at the relevant time continuing care was provided in a community care facility, or perhaps in some other facility, but not in a hospital, and Exhibit A-2 makes it clear that persons admitted to the Centre were admitted to receive continuing care. It follows that under the applicable provincial law the Centre could not have been a hospital.
+[28] The other part of Exhibit A-1, Tab 1 is a copy of an Order in Council apparently made under the authority of paragraph 1(a) of the Hospital Insurance Act[16] of British Columbia. It reads:
+On the recommendation of the undersigned, the Lieutenant Governor, by and with the advice and consent of the Executive Council, orders that the [Centre] operated by the North Vancouver Kiwanis Care Homes Society, North Vancouver, be designated as a hospital.
+Paragraph (a) of the definition of "hospital" in section 1 reads:
+1 In this Act
+...
+"hospital means, except in sections 24 and 29(2)(a),
+(a) a hospital as defined by section 1 of the Hospital Act that has been designated under this Act by the Lieutenant Governor in Council as a hospital required to provide the general hospital services provided under this Act,
+Sections 24 and paragraph 29(2)(a) deal with out of province services and so are not relevant. The general hospital services that are referred to are specified in subsection 5(1):
+5(1) Except as provided in subsection (2), the general hospital services provided under this Act are the following:
+(a) for qualified personal requiring treatment for acute illness or injury, the public ward accommodation, necessary operating and case room facilities, diagnostic or therapeutic X-ray and laboratory procedures, anesthetics, prescription, drugs, dressings, cast materials and other services prescribed by regulation;
+(b) for qualified persons requiring active treatment for chronic illness or disability, the public ward accommodation, physiotherapy and occupational therapy, minor operating room and diagnostic X-ray and laboratory services, prescriptions, drugs, dressings, cast materials and other services prescribed by regulation;
+(c) for qualified persons requiring treatment or diagnostic services as out patients, the out patient treatment or diagnostic services prescribed by regulation;
+While neither the authority for the Order in Council nor its meaning is obvious, it appears that the only purpose of an Order in Council under that Act is to make provision for the payment to hospitals from the hospital insurance fund for providing these general services. Certainly, the general services described in paragraph 5(1)(a) are not provided by the Centre; most of those described in 5(1)(b) are. Whether it is properly authorized by the Act or not, I do not consider it to have the effect of changing the status of the Centre under the general provincial law from an institution providing continuing care to a public hospital. Its operation is limited to authorizing funding under section 9 from the insurance fund for such services as it provides that fall within section 5.
+[29] My conclusion on this branch of the case, then, is that the Centre is not a hospital under the general law of British Columbia. This conclusion is consistent, in my view, with the ordinary meaning of the word hospital in common contemporary Canadian usage. I cannot leave this aspect of the case without remarking that the Centre must surely operate under a licence issued under one of several provincial statutes, and that the question whether it is a hospital might have been more readily determined if that licence had been entered into evidence. I infer that the appellant's case would not have been assisted by producing the licence.
+was the appellant designated as a hospital authority at the relevant time?
+[30] On August 25, 1997 the Minister of National Revenue designated the North Shore Health Region as a hospital authority, effective December 13, 1995.[17] The consequences for gst purposes of its amalgamation with the Kiwanis Care Homes Society on May 1, 1998 are governed by section 271 of the Act and the Amalgamations and Windings-Up Continuation (GST/HST) Regulations.[18]The effect of those provisions is that for certain purposes specified in either section 271 or the Regulations, two corporations that merge are deemed to be the same corporation as, and a continuation of, each of the predecessors, but for all other purposes related to the operation of the Act the new corporation is deemed to be a separate person from both of its predecessors. Designation as a hospital authority is not one of the purposes specified, with the result that when a corporation designated as a hospital authority amalgamates with another corporation (even one that is itself so designated), the new corporation is not designated automatically, but must apply for a new designation under subsection 123(1). No application was made by the appellant after May 1, 1998 to be designated, nor has the Minister made any such designation since that date.
+[31] Counsel for the appellant has advanced several reasons why this apparent absence of a post-May 1998 designation ought not to be considered fatal to its 83% rebate claim. First, she submits that as there is no formal process by which designation must take place, a designation may be found implicitly in conduct of the Minister. In this respect she relies on the letter of August 25, 1997. That letter, as I have already said, purported to make a designation effective December 13, 1995. The appellant argues that this somehow constitutes recognition by the Minister that in fact the appellant has remained designated since that date, despite a number of intervening amalgamations that had taken place. This, however, is not what the letter says at all. The words used by the Minister's delegate in the letter that have the effect of designating the appellant to be a hospital authority, following a recital of the earlier amalgamations, are:
+... I am pleased to hereby designate the Board to be a hospital authority pursuant to subsection 123(1) of the Act. This designation is effective December 13, 1995, the date of the Regulation creating the Board.
+These words are not capable of the meaning that counsel seeks to put on them. Clearly, they speak in the present tense as creating a designation that purports to be retroactive; they are not a recognition of a previous and subsisting designation. One might question whether the Minister has the power to make a retroactive designation, but that is not a question to be decided in this case.
+[32] Nothing in that letter suggests that it is intended to confer a designation that would somehow subsist through a future amalgamation. Counsel submits that the letter expresses for the Minister the view that "... as a matter of policy, an amalgamation does not necessarily result in the discontinuance of a designation even where the designated entity ceases to meet the published criteria for designation". I do not read the letter in that way, but in any event the Minister cannot by any expression of policy abrogate the clear words of the Act and the Regulation. Erroneous advice given by the Minister cannot relieve the recipient of it of the full effect of the statute: see M.N.R. v. Inland Industries.[19]
+[33] Counsel also argues that the Minister, after the May 1998 amalgamation, continued to treat the appellant Region as a designated hospital authority, permitting the Society to operate and file returns as a division of the Region, paying rebates to the Region at the rate of 83% in respect of its operation of the Lions Gate Hospital, and in a letter from the Minister's Technical Information Service. Sections 239 and 261 of the Act make provision for the Minister to permit a registrant to file separate returns and separate rebate applications for separate divisions of its organization. These sections operate quite independent of any designation as a hospital authority. Nor does the fact that the Minister errs in processing a rebate application on one or several occasions bind him to commit the same error in perpetuity. It is true, of course, that designation, or the absence of it, is a question of fact, but this does not mean that such a fact comes into existence because the Minister in error processes a rebate application as though that fact existed when it does not. These submissions are without merit.
+[34] Counsel for the appellant also argues that, in effect, the respondent is estopped from denying that the appellant has been designated under subsection 123(1) because if the Minister had not treated it as being designated, and had not led it to believe that it was designated, then it would have applied for the designation upon amalgamation in May 1998. She argues too that the appellant did not take the position at trial that the appellant was not designated. These submissions cannot succeed for a number of reasons. Estoppel is a doctrine that must be pleaded, and there is no such plea here, although the absence of designation is clearly pleaded by the respondent in its Reply. Nor is there evidence before me to establish that any reliance by the appellant on any of the supposed representations made to it caused it to refrain from applying for designation in May 1998. The evidence is quite neutral as to why the appellant failed to apply for designation. It certainly should have understood the need to do so from the contents of the designation letter of August 25, 1997.
+[35] For these reasons, I conclude that the appellant was, at the relevant time, not a "hospital authority" as defined, and so was not entitled to a rebate at the 83% rate, and so the appeal must be dismissed. In conclusion, though, I note that counsel for the respondent in his memorandum dealing with the designation issue states that the Minister, typically, is amenable to doing what she can to alleviate any negative impact in cases such as this. He goes on to say in paragraph 16:
+Obviously, the Respondent does not want this issue to be an impediment to a hospital authority's 83% rebate entitlement if at all possible. However, the law trumps what the Respondent may wish.
+If this statement truly represents the view of Her Majesty in right of Canada, there is a power of remission in the Financial Administration Act that she can invoke to overcome the appellant's misfortune. The Respondent is entitled to costs, if demanded.
+Signed at Ottawa, Canada, this 24th day of October, 2006.
+"E.A. Bowie"
+Bowie J.
+CITATION: 2006TCC585
+COURT FILE NO.: 2002-897(GST)G
+STYLE OF CAUSE: NORTH SHORE HEALTH REGION AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: August 18 and 19, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: October 24, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Kimberley L.D. Cook
+Counsel for the Respondent:
+Ron D.F. Wilhelm
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Kimberley L.D. Cook
+Firm: Thorsteinssons
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. 1985 c.E-15, as amended.
+[2] R.S.B.C. 1996 ch. 180.
+[3] I shall refer to the occupants of the Centre either as "residents", or as "patients", but the use of these terms should not be taken as an indication of any concluded view as to the questions in issue in this appeal.
+[4] Transcript of Evidence, p. 109, l. 16 to l. 19; p.110, l. 12 to l. 19.
+[5] [1995] G.S.T.C. 40.
+[6] 2004TCC192.
+[7] [2000] G.S.T.C. 42.
+[8] "... aux termes d'un bail, d'une licence ou d'un accord semblable conclu en vue de l'occupation de l'habitation à titre résidentiel ..."
+[9] 2nd Amended Notice of Appeal, paras. 16 and 17; Reply to the 2nd Amended Notice of Appeal, paras. 12 and 13.
+[10] F.B.C. 1980, c. 36, s. 23.
+[11] R.S.B.C. 1996, c.204.
+[12] R.S.B.C. 1979, c.180.
+[13] S.B.C. 1980, c.36 s. 23.
+[14] R.S.B.C. 1979, c.57.
+[15] Enacted as S.B.C. 1989 c.2; now R.S.B.C. 1996 c. 70
+[16] R.S.B.C. 1979 c. 180; now R.S.B.C. 1996 c. 204.
+[17] Exhibit A-1, Tab 3.
+[18] P.C. 1980-2742 as amended.
+[19] 72 DTC 6013 (S.C.C.).

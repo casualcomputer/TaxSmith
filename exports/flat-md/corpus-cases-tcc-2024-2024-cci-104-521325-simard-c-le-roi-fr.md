@@ -1,0 +1,213 @@
+---
+title: "Simard c. Le Roi"
+source: "https://norma.lexum.com/tcc-cci/decisions/fr/item/521325/index.do"
+last_modified: "2024-07-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 104"
+citation2: ""
+neutral_citation: "2024 CCI 104"
+decision_date: "2024-07-30"
+language: "fr"
+item_id: "521325"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5497
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:04:52.848000+00:00"
+cases_cited_count: 10
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6e034dd043be7894a68d438dedd8332e371132c00258baacd33c713d31b84994"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Simard c. Le Roi
+
+- Citation: 2024 CCI 104
+- Decision date: 2024-07-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5497, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Simard c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-07-30
+Référence neutre
+2024 CCI 104
+Numéro de dossier
+2021-1010(IT)G
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2021-1010(IT)G
+ENTRE :
+SYLVAIN SIMARD,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Requête tranchée par voie d’observations écrites à Ottawa (Canada)
+Devant : L’honorable juge Dominique Lafleur
+Comparutions :
+Avocats de l’appelant :
+Me Jean Dauphinais
+Me Cédric Fortin-Néron
+Avocat de l’intimé :
+Me Emmanuel Jilwan
+ORDONNANCE
+VU l’avis de requête de l’intimé (la « requête ») du 26 février 2024 afin d’obtenir une ordonnance :
+1-radiant les paragraphes 3 à 22 de l’avis d’appel modifié déposé le 23 janvier 2024 (l’« avis d’appel ») conformément à l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») et enjoignant l’appelant à modifier à nouveau l’avis d’appel pour se conformer à l’article 48 des Règles et à la formule 21(1)a) des Règles en énumérant avec précision les faits pertinents qui servent de fondement à l’appel, en précisant les points en litige, en mentionnant les dispositions législatives sur lesquelles l’appel est fondé, et en énonçant les moyens sur lesquels l’appelant entend se fonder;
+2-accordant à l’appelant un délai de 60 jours à compter de la date de la présente ordonnance pour produire et signifier un avis d’appel modifié conforme aux Règles;
+3-accordant à l’intimé un délai de 60 jours à compter de la date de signification de l’avis d’appel modifié pour produire et signifier la réponse à l’avis d’appel modifié;
+4-ou alternativement, prorogeant de 60 jours à compter de la date de la présente ordonnance le délai pour produire et signifier la réponse à l’avis d’appel.
+VU les documents déposés au dossier et la demande que la requête soit tranchée sur dossier sans comparution des parties;
+ET VU les observations écrites des parties;
+LA COUR ORDONNE CE QUI SUIT :
+Conformément aux motifs de l’ordonnance ci-joints, la requête est accueillie en partie, avec dépens à l’intimé, et les paragraphes 3 à 14 et les paragraphes 17 à 22 de l’avis d’appel sont radiés;
+L’appelant doit modifier à nouveau l’avis d’appel pour qu’il soit conforme aux motifs de la présente ordonnance, soit en radiant les paragraphes 3 à 14 et les paragraphes 17 à 22 de l’avis d’appel, en énumérant les faits pertinents qui servent de fondement à l’appel, en précisant les points en litige, en mentionnant les dispositions législatives sur lesquelles l’appel est fondé, et en énonçant les moyens sur lesquels l’appelant entend se fonder;
+Au plus tard 60 jours à compter de la date de la présente ordonnance, l’appelant doit produire et signifier un avis d’appel modifié conforme aux motifs de la présente ordonnance;
+Au plus tard 60 jours à compter de la date de signification de l’avis d’appel modifié conformément aux motifs de la présente ordonnance, l’intimé doit produire et signifier la réponse à l’avis d’appel modifié.
+Signé à Montréal (Québec), ce 30e jour de juillet 2024.
+« Dominique Lafleur »
+Juge Lafleur
+Référence : 2024 CCI 104
+Date : 20240730
+Dossier : 2021-1010(IT)G
+ENTRE :
+SYLVAIN SIMARD,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DE L’ORDONNANCE
+La juge Lafleur
+I. La requête [1] L’intimé a déposé un avis de requête (la « requête ») daté du 26 février 2024 afin d’obtenir une ordonnance radiant les paragraphes 3 à 22 de l’avis d’appel modifié déposé le 23 janvier 2024 (l’« avis d’appel ») conformément à l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») et octroyant une autorisation à l’appelant de modifier à nouveau l’avis d’appel, pour que l’avis d’appel soit conforme aux Règles, soit à l’article 48 et à la formule 21(1)a), en énumérant les faits pertinents qui servent de fondement à l’appel, en précisant les points en litige, en mentionnant les dispositions législatives sur lesquelles l’appel est fondé, et en énonçant les moyens sur lesquels l’appelant entend se fonder.
+II. Conclusion [2] La requête est accueillie en partie, avec dépens à l’intimé, et les paragraphes 3 à 14 et les paragraphes 17 à 22 de l’avis d’appel sont radiés.
+[3] L’appelant doit modifier à nouveau l’avis d’appel pour qu’il soit conforme aux présents motifs, soit en radiant les paragraphes 3 à 14 et les paragraphes 17 à 22 de l’avis d’appel, en énumérant les faits pertinents qui servent de fondement à l’appel, en précisant les points en litige, en mentionnant les dispositions législatives sur lesquelles l’appel est fondé, et en énonçant les moyens sur lesquels l’appelant entend se fonder.
+III. Les faits [4] L’appelant en appelle des nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») par lesquelles sont ajoutés au revenu de l’appelant selon la Loi de l’impôt sur le revenu (L.R.C. (1985), ch. 1 (5e suppl.)) (la « Loi ») des revenus totalisant 482 474 $ à titre d’appropriation de fonds pour les années d’imposition 2007 à 2011.
+[5] Selon l’avis d’appel, les nouvelles cotisations sont injustifiées puisque, vu que les nouvelles cotisations en litige ont été établies uniquement sur la base de la vérification effectuée par l’Agence du revenu du Québec (l’ « ARQ ») et que l’ARQ aurait modifié ses propres cotisations en réduisant d’un montant de 269 033 $ l’ajout aux revenus de l’appelant à la suite d’une entente intervenue entre l’ARQ et l’appelant, le ministre devait établir les nouvelles cotisations conformément à l’entente intervenue entre l’ARQ et l’appelant, ce qui n’a pas été fait.
+[6] Selon l’intimé, l’avis d’appel n’est pas conforme aux Règles puisqu’à sa face même, il ne contient aucun fait pertinent pouvant servir de fondement à l’appel, aucune question en litige de la compétence de la Cour, aucune disposition législative sur laquelle l’appel est fondé et aucun moyen clair et concis sur lequel l’appelant entend se fonder. Les lacunes à l’avis d’appel empêchent donc l’intimé de préparer une réponse à l’avis d’appel. Également, les paragraphes 3 à 22 de l’avis d’appel font mention d’allégués de fait qui ne sont pas de la compétence de la Cour et conséquemment, ils ne révèlent aucun moyen raisonnable d’appel, se fondant sur les agissements des fonctionnaires de l’Agence du revenu du Canada (l’« ARC ») au stade des oppositions.
+[7] Quant à l’appelant, il prétend que l’avis d’appel est conforme aux Règles. Plus particulièrement, selon l’appelant, l’avis d’appel ne porte pas sur le processus ayant conduit à l’établissement des nouvelles cotisations, mais plutôt sur le fait que les nouvelles cotisations ne sont pas valides puisqu’elles ne sont pas conformes aux cotisations établies par l’ARQ, ayant réduit l’ajout aux revenus de l’appelant d’un montant de 269 033 $. Selon l’appelant, puisque l’ARC n’a pas effectué une vérification des affaires de l’appelant, le ministre se devait de cotiser l’appelant en fonction des cotisations établies par l’ARQ. S’il n’en était pas ainsi, « …il serait disproportionné d’exiger d’un contribuable de se soumettre une seconde fois à des contestations identiques qu’il a déjà fait valoir devant l’une des agences du revenu et dont il a eu gain de cause ». Également, selon l’appelant, l’intimé est en mesure d’identifier clairement les arguments auxquels il doit répondre.
+IV. Les principes généraux applicables A. Format des avis d’appel
+[8] Conformément à l’article 17.2 de la Loi sur la Cour canadienne de l’impôt, L.R.C. (1985), ch. T-2 (la « Loi sur la CCI »), toute personne voulant interjeter appel devant la Cour selon la procédure générale doit déposer un acte introductif d’instance établi selon les Règles et le modèle prévu par ces Règles, en plus de payer les droits applicables.
+[9] Les dispositions pertinentes des Règles sont les suivantes :
+21 (1) Dépôt — Toute instance régie par la procédure générale prévue dans la Loi s’introduit par dépôt au greffe d’un acte introductif d’instance établi selon l’une des formules suivantes :
+a) formule 21(1)a) en cas d’appel formé contre une cotisation établie en application de la Loi de l’impôt sur le revenu […]
+[…]
+48 Règles applicables à l’avis d’appel — L’avis d’appel doit se conformer aux formules 21(1)a), d), e) ou f).
+21 (1) Filing — Every proceeding to which the general procedure in the Act applies shall be instituted by filing an originating document in the Registry
+(a) in Form 21(1)(a) in the case of an appeal from an assessment under the Income Tax Act […]
+[…]
+48 Rules of Pleadings — Applicable to Notice of Appeal — Every notice of appeal shall be in Form 21(1)(a), (d), (e) or (f).
+[10] La formule 21(1)a) s’applique aux fins d’un appel en vertu de la Loi et est reproduite ci-dessous :
+[11] Comme la Cour l’a déclaré dans la décision Kondur c. La Reine, 2015 CCI 318 :
+Selon la procédure générale, l’avis d’appel, ou toute version modifiée de celui-ci, doit obligatoirement contenir tous les renseignements prescrits à la formule 21(1)a). [...] Il ne s’agit pas que d’une simple formalité. Ces exigences visent à s’assurer que les points en litige sont définis de façon appropriée pour la communication préalable et l’instruction, de façon à ce que l’intimée sache à quels arguments elle doit répondre : Bibby c. La Reine, 2009 CCI 588.
+B. Radiation des actes de procédure [12] Le pouvoir de radier en tout ou en partie un acte de procédure est prévu à l’article 53 des Règles, qui dispose :
+53 (1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+(2) Aucune preuve n’est admissible à l’égard d’une demande présentée en vertu de l’alinéa (1)d).
+(3) À la demande de l’intimé, la Cour peut casser un appel si :
+a) elle n’a pas compétence sur l’objet de l’appel;
+b) une condition préalable pour interjeter appel n’a pas été satisfaite;
+c) l’appelant n’a pas la capacité juridique d’introduire ou de continuer l’instance.
+53 (1) The Court may, on its own initiative or on application by a party, strike out or expunge all or part of a pleading or other document with or without leave to amend, on the ground that the pleading or other document
+(a) may prejudice or delay the fair hearing of the appeal;
+(b) is scandalous, frivolous or vexatious;
+(c) is an abuse of the process of the Court; or
+(d) discloses no reasonable grounds for appeal or opposing the appeal.
+(2) No evidence is admissible on an application under paragraph (1)(d).
+(3) On application by the respondent, the Court may quash an appeal if
+(a) the Court has no jurisdiction over the subject matter of the appeal;
+(b) a condition precedent to instituting an appeal has not been met; or
+(c) the appellant is without legal capacity to commence or continue the proceeding.
+[13] Dans l’arrêt R. c. Imperial Tobacco Canada Ltée, 2011 CSC 42, la Cour suprême du Canada a établi les principes en matière de radiation d’une demande en justice. La requête en radiation ne doit pas être accueillie à la légère et représente « une importante mesure de gouverne judiciaire essentielle à l’efficacité et à l’équité des procès » et « permet d’élaguer les litiges en écartant les demandes vaines et en assurant l’instruction des demandes susceptibles d’être accueillies » (par. 19). Ainsi, le critère développé par la Cour suprême est le suivant :
+[...] Le tribunal doit plutôt se demander si, dans l’hypothèse où les faits allégués seraient avérés, il est raisonnablement possible que l’action soit accueillie. L’approche doit être généreuse et permettre, dans la mesure du possible, l’instruction de toute demande inédite, mais soutenable. (par. 21)
+[14] À mon avis, ces principes s’appliquent également dans les circonstances qui nous occupent, bien qu’on ne cherche à faire radier que certains passages de l’avis d’appel.
+[15] Le critère pour accueillir une requête en radiation est donc rigoureux. La Cour ne doit radier tout ou partie d’un acte de procédure que s’il est évident et manifeste, notamment, qu’il ne révèle aucun moyen raisonnable d’appel et que l’appel n’a aucune chance d’être accueilli (Main Rehabilitation Co. Ltd. c. La Reine, 2004 CAF 403, au par. 3).
+[16] Afin de déterminer si tout ou partie d’un acte de procédure doit être radié, les faits exposés dans l’acte sont tenus pour avérés. La Cour n’entend aucun témoignage. Comme l’a précisé notre Cour dans 881751 Ontario Limited c. La Reine, Roy c. La Reine, 2021 CCI 9 (au par. 15) [881751 Ontario] :
+[...] L’approche de la Cour doit être généreuse et permettre, dans la mesure du possible, l’instruction de toute demande inédite, mais défendable. Ce n’est pas la mission du juge des requêtes de décider si un argument mérite d’être examiné, ou d’en arriver à une conclusion concernant une question litigieuse sur l’interprétation de la loi. Par conséquent, pour qu’une requête en radiation puisse être accueillie, l’irrégularité ou la non-pertinence doit être évidente et manifeste au premier coup d’œil.
+C. Compétence de la Cour
+[17] La compétence de la Cour est définie par la loi. Le paragraphe 12(1) de la Loi sur la CCI se lit comme suit :
+12(1) Compétence — La Cour a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions découlant de l’application du Régime de pensions du Canada, de la Loi sur l’exportation et l’importation de biens culturels, de la partie IX de la Loi sur la taxe d’accise, de la Loi sur la sécurité de la vieillesse, de la Loi de l’impôt sur les revenus pétroliers, de la partie V.1 de la Loi sur les douanes, de la Loi de l’impôt sur le revenu, de la Loi sur l’assurance-emploi, de la Loi sur le droit pour la sécurité des passagers du transport aérien, de la Loi de 2001 sur l’accise, de la Loi de 2006 sur les droits d’exportation de produits de bois d’œuvre, de la Loi sur les restrictions applicables aux promoteurs du crédit d’impôt pour personnes handicapées, de la partie 1 de la Loi sur la tarification de la pollution causée par les gaz à effet de serre, de la Loi sur la taxe sur les logements sous-utilisés et de la Loi sur la taxe sur certains biens de luxe, dans la mesure où ces lois prévoient un droit de renvoi ou d’appel devant elle.
+12(1) Jurisdiction — The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the Canada Pension Plan, the Cultural Property Export and Import Act, Part IX of the Excise Tax Act, the Old Age Security Act, the Petroleum and Gas Revenue Tax Act, Part V.1 of the Customs Act, the Income Tax Act, the Employment Insurance Act, the Air Travellers Security Charge Act, the Excise Act, 2001, the Softwood Lumber Products Export Charge Act, 2006, the Disability Tax Credit Promoters Restrictions Act, Part 1 of the Greenhouse Gas Pollution Pricing Act, the Underused Housing Tax Act and the Select Luxury Items Tax Act when references or appeals to the Court are provided for in those Acts.
+[18] Dans l’arrêt Canada (Revenu national) c. JP Morgan Asset Management (Canada) Inc., 2013 CAF 250, la Cour d’appel fédérale a conclu que :
+[83] En appel, la Cour canadienne de l’impôt n’a pas compétence pour annuler une cotisation établie sur la base d’une conduite fautive du ministre, tel un abus de pouvoir ou un manquement à l’équité, ayant donné lieu à la cotisation [...]. Si une cotisation est bien-fondée au regard des faits et du droit, le contribuable doit payer l’impôt. [...]
+[19] De même, dans l’arrêt Ereiser c. Canada, 2013 CAF 20 [Ereiser], la juge Sharlow a déclaré ce qui suit :
+[31] [L]a mission de la Cour canadienne de l’impôt lors d’un appel dirigé contre une cotisation d’impôt sur le revenu consistait à déterminer la validité et le bien‑fondé de la cotisation en fonction des dispositions applicables de la Loi de l’impôt sur le revenu et des faits donnant lieu à l’obligation du contribuable prévue par la loi. En toute logique, la conduite du fonctionnaire du fisc qui autorise l’établissement d’une cotisation n’est pas pertinente pour déterminer cette obligation prévue par la loi. [...]
+[Non souligné dans l’original.]
+[20] Ces principes établis de longue date ont été récemment confirmés par la Cour suprême du Canada dans l’arrêt Iris Technologies Inc. c. Canada (Procureur général), 2024 CSC 24.
+[21] En outre, l’article 171 de la Loi prévoit que la Cour peut trancher un appel soit en le rejetant, soit en l’accueillant et en annulant la cotisation, en la modifiant ou en la renvoyant au ministre pour nouvel examen et nouvelle cotisation.
+V. ANALYSE [22] En l’espèce, l’avis d’appel (dont une copie est jointe aux présents motifs à l’annexe A) ne répond manifestement pas aux exigences de la Loi sur la CCI et des Règles et ce, pour plusieurs motifs décrits ci-dessous.
+[23] Tout d’abord, l’avis d’appel ne contient aucune référence aux dispositions législatives sur lesquelles l’appel est fondé, contrairement à ce qui est requis à l’alinéa e) de la formule 21(1)a) des Règles.
+[24] Également, aucun fait pertinent servant de fondement à l’appel ne se retrouve dans l’avis d’appel, contrairement à ce qui est requis à l’alinéa c) de la formule 21(1)a) des Règles. L’intimé n’est pas en position de déposer une réponse, car les faits décrits dans l’avis d’appel ne permettent pas à l’intimé de déterminer la cause d’action en l’espèce.
+[25] Plus particulièrement, les paragraphes 3 à 14 et les paragraphes 17 à 19 décrivent le processus ayant mené à l’établissement des cotisations et des nouvelles cotisations en litige. Ces paragraphes réfèrent au fait que les cotisations ont été établies par suite de la vérification effectuée par l’ARQ et l’échange d’informations entre les autorités fiscales provinciale et fédérale, au fait que le processus d’opposition au niveau fédéral a été mis en suspens en attendant le résultat de l’opposition au provincial, au fait que l’ARQ a alors réduit les montants cotisés à titre d’appropriation de fonds d’un montant de 269 033 $ pour établir les cotisations au montant total de 213 441 $ (et en détaillant les montants cotisés à ce titre pour chaque année), au fait que l’appelant en a appelé auprès de la Cour du Québec et à l’entente intervenue entre les parties au niveau des cotisations de l’impôt provincial.
+[26] Les faits retrouvés aux paragraphes 3 à 14 et aux paragraphes 17 à 19 ne sont pas des faits pertinents sur lesquels l’appel peut être fondé et ne sont pas de la compétence de la Cour, puisque ces faits décrivent le processus ayant mené à l’établissent des nouvelles cotisations en litige et réfèrent aux agissements des fonctionnaires de l’ARC. Tel qu’indiqué ci-dessus, la compétence de la Cour se limite à déterminer la validité et le bien-fondé des cotisations en litige en fonction des dispositions applicables de la Loi et des faits donnant lieu à l’obligation du contribuable prévu par la loi, et non pas à évaluer le comportement du fonctionnaire de l’ARC ayant autorisé l’établissement de la cotisation (voir Ereiser, supra, au par. 31) ou le processus ayant mené à l’établissement des cotisations.
+[27] Également, le paragraphe 20 de l’avis d’appel qui décrit la question en litige comme étant « L’intimé devait-il fonder ses Cotisations sur les Cotisations ARQ révisées? » n’est pas une question qui est de la compétence de la Cour. Tel qu’indiqué ci-dessous, la compétence de la Cour est de déterminer la validité et le bien-fondé des cotisations sur la base des faits pertinents et de l’application de la Loi à ces faits. Puisque le paragraphe 20 de l’avis d’appel est le seul paragraphe traitant de la question en litige, l’avis d’appel ne précise donc pas les points en litige, contrairement à ce qui est requis à l’alinéa d) de la formule 21(1)a) des Règles.
+[28] Finalement, l’avis d’appel n’énonce pas les moyens sur lesquels l’appelant entend se fonder. En effet, seuls les paragraphes 21 et 22 de l’avis d’appel contiennent l’argumentaire de l’appelant. Selon ces paragraphes, l’appelant prétend que les cotisations sont injustifiées et que « …l’Intimé devait fonder ses cotisations à l’encontre de l’Appelant sur les Cotisations ARQ révisées… ». Ces moyens ne sont pas de moyens sur lesquels l’appelant peut se fonder pour contester une cotisation puisqu’il n’y a pas de référence aux faits et à l’application de la Loi aux faits pertinents pour déterminer l’obligation fiscale de l’appelant. Ainsi, l’avis d’appel ne précise donc pas les moyens sur lesquels l’appelant entend se fonder, contrairement à ce qui est requis à l’alinéa f) de la formule 21(1)a) des Règles.
+[29] C’est à bon droit que l’intimé demande la radiation des paragraphes 3 à 14 et des paragraphes 17 à 22. Tout d’abord, comme l’indique la jurisprudence, pour radier un acte de procédure, « …l’irrégularité ou la non-pertinence doit être évidente et manifeste au premier coup d’œil » (881751 Ontario, supra). Comme mentionné ci-dessus, l’avis d’appel ne répond manifestement pas aux exigences de la Loi sur la CCI et des Règles. Également, les conclusions recherchées par l’appelant ne sont manifestement pas de la compétence de la Cour. Ainsi, conformément à l’article 53 des Règles, la Cour peut ordonner de radier ces paragraphes.
+[30] Compte tenu des lacunes de l’avis d’appel, il est évident que l’avis d’appel doit être modifié. Toutefois, des actes de procédures irréguliers constituent simplement une irrégularité au sens de l’article 7 des Règles (voir les décisions Okoroze c. La Reine, 2012 CCI 360 et Kossow c. La Reine, 2008 CCI 422), qui se lit comme suit :
+7 Effet de l’inobservation — L’inobservation des présentes règles constitue une irrégularité et n’est pas cause de nullité de l’instance ni d’une mesure prise, d’un document donné ou d’une directive rendue dans le cadre de celle-ci. La Cour peut :
+a) soit autoriser les modifications ou accorder les conclusions recherchées, à des conditions appropriées, afin d’assurer une résolution équitable des véritables questions en litige;
+b) soit annuler l’instance ou une mesure prise, un document donné ou une directive rendue dans le cadre de celle-ci, en tout ou en partie, seulement si cela est nécessaire dans l’intérêt de la justice.
+7 Effect of Non-compliance — A failure to comply with these rules is an irregularity and does not render a proceeding or a step, document or direction in a proceeding a nullity, and the Court,
+(a) may grant all necessary amendments or other relief, on such terms as are just, to secure the just determination of the real matters in dispute, or
+(b) only where and as necessary in the interests of justice, may set aside the proceeding or a step, document or direction in the proceeding in whole or in part.
+[31] Les lacunes dans l’avis d’appel sont très importantes. Selon moi, la bonne solution consiste à radier les paragraphes 3 à 14 et les paragraphes 17 à 22 de l’avis d’appel et à permettre à l’appelant de déposer un avis d’appel modifié à nouveau, conforme aux exigences de la Loi sur la CCI et des Règles, et plus précisément, un avis d’appel conforme à la formule 21(1)a) des Règles.
+[32] Dans son avis d’appel modifié à nouveau, l’appelant doit énumérer les faits pertinents qui servent de fondement à l’appel, préciser les points en litige, mentionner les dispositions législatives sur lesquelles l’appel est fondé et énoncer les moyens sur lesquels l’appelant entend se fonder. Également, l’appelant ne doit pas chercher à obtenir une conclusion ne relevant pas de la compétence de la Cour.
+Signé à Montréal (Québec), ce 30e jour de juillet 2024.
+« Dominique Lafleur »
+Juge Lafleur
+ANNEXE A
+RÉFÉRENCE :
+2024 CCI 104
+Nº DU DOSSIER DE LA COUR :
+2021-1010(IT)G
+INTITULÉ DE LA CAUSE :
+SYLVAIN SIMARD c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Ottawa (Canada)
+DATES DE LA REQUÊTE ET SOUMISSIONS ÉCRITES :
+Le 26 février 2024 et le 31 mai 2024
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge Dominique Lafleur
+DATE DE L’ORDONNANCE :
+Le 30 juillet 2024
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Jean Dauphinais
+Me Cédric Fortin-Néron
+Avocat de l’intimé :
+Me Emmanuel Jilwan
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant:
+Nom :
+Me Jean Dauphinais Me Cédric Fortin-Néron
+Cabinet :
+Cain Lamarre, s.e.n.c.r.l.
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada

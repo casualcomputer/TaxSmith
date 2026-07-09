@@ -1,0 +1,177 @@
+---
+title: "4145356 Canada Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30065/index.do"
+last_modified: "2010-11-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 565"
+citation2: ""
+neutral_citation: "2010 CCI 565"
+decision_date: "2010-11-08"
+language: "fr"
+item_id: "30065"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7622
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:27:23.046000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c8cf5d6c46ab5fa65d490d0115488c80bf1574f1056d9f44e5f094a76b76f17f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 4145356 Canada Limited c. La Reine
+
+- Citation: 2010 CCI 565
+- Decision date: 2010-11-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7622, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+4145356 Canada Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-11-08
+Référence neutre
+2010 CCI 565
+Numéro de dossier
+2008-2315(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2315(IT)G
+ENTRE :
+4145356 CANADA LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête de l'intimée, afin de déposer en preuve le rapport de réfutation de John P. Steines, entendue le 29 octobre 2010, et décision rendue de vive voix à l'audience le 1er novembre 2010, à Toronto (Ontario)
+Devant : L'honorable juge Wyman W. Webb
+Comparutions :
+Avocats de l'appelante :
+Me Al Meghji
+Me Martha MacDonald
+Avocats de l'intimée :
+Me Daniel Bourgeois
+Me Andrew Miller
+ORDONNANCE
+VU les observations des parties le 29 octobre 2010;
+ET VU la décision et les motifs du 1er novembre 2010;
+ET VU l'accord conclu par les deux parties après la décision;
+LA COUR ORDONNE :
+(a) le rapport principal et le rapport de réfutation de John P. Steines seront déposés en preuve à condition que M. Steines soit disponible pour contre‑interrogatoire à la reprise de l'audience;
+(b) le rapport de H. David Rosenbloom sera déposé en preuve à titre de rapport de réfutation au rapport de John P. Steines à condition que M. Rosenbloom soit disponible pour contre‑interrogatoire lorsque l'appelante commencera sa réplique;
+(d) l'audience est ajournée.
+Signé à Halifax (Nouvelle‑Écosse), ce 8e jour de novembre 2010.
+« Wyman W. Webb »
+Le juge Webb
+Référence : 2010 CCI 565
+Date : 20101108
+Dossier : 2008-2315(IT)G
+ENTRE :
+4145356 CANADA LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE ET DÉCISION PRONONCÉS ORALEMENT
+Le juge Webb
+[1] Lundi matin, le 1er novembre 2010, j'ai prononcé les motifs suivants à l'égard de la question que les parties avaient soulevée le vendredi 29 octobre 2010 :
+(a) Lorsque l'intimée a commencé la présentation de sa preuve vendredi, les parties ont soulevé une question liée au rapport de réfutation de John P. Steines, l'expert engagé par l'intimée. Ce rapport a été rédigé pour réfuter le rapport de H. David Rosenbloom, l'expert de l'appelante. L'intimée cherche à déposer, du moins en partie, le rapport de réfutation de John P. Steines même si l'appelante n'a pas demandé à H. David Rosenbloom de témoigner.
+(b) Les paragraphes 145(2) et (3) des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles ») disposent ce qui suit :
+(2) Sauf directive contraire de la Cour, aucune preuve sur l'interrogatoire principal d'un expert ne doit être reçue à l'audience au sujet d'une question à moins :
+a) que cette question n'ait été définie dans les actes de procédure ou par accord écrit des parties définissant les points en litige;
+b) qu'un exposé complet de la preuve en interrogatoire principal que l'expert entend établir n'ait été fait dans une déclaration sous serment dont l'original a été déposé et dont une copie a été signifiée à chacune des autres parties, au moins trente jours avant le début de l'audience;
+c) que l'expert ne soit disponible à l'audience pour contre‑interrogatoire.
+(3) Sauf directive contraire de la Cour, aucune preuve d'un expert ne sera présentée pour réfuter toute preuve présentée par écrit en vertu de l'alinéa (2)b) à moins que la contre‑preuve n'ait été consignée par écrit conformément au présent article et que l'original et une copie aient été signifiés à toutes les autres parties au moins quinze jours avant le début de l'audience.
+(c) En l'espèce, la Cour a effectivement rendu une directive contraire, c'est‑à‑dire que les rapports d'expert et les rapports de réfutation soient déposés avant les délais prévus dans ces paragraphes. Le 14 mai 2010, le juge en chef adjoint Rossiter a ordonné que les rapports d'expert soient déposés au plus tard le 15 août 2010 et que les rapports de réfutation soient déposés au plus tard le 10 septembre 2010. L'avocat de l'appelante a déclaré que les opérations en cause étaient complexes et que les parties avaient conjointement demandé une prorogation du délai pour déposer les rapports d'expert et les rapports de réfutation. Le juge Jorré a rendu une ordonnance faisant droit à la demande le 29 septembre 2010. Les nouveaux délais étaient le 31 août 2010 pour le dépôt des rapports d'expert et le 24 septembre 2010 pour le dépôt des rapports de réfutation.
+(d) Le 31 août 2010, l'intimée a déposé le rapport de John P. Steines et l'appelante a déposé le rapport de H. David Rosenbloom. Le 24 septembre 2010, l'intimée a déposé le rapport de John P. Steines en réfutation du rapport de H. David Rosenbloom. Le 27 septembre 2010, les parties ont conjointement écrit à la Cour pour l'informer que l'appelante n'avait pas encore décidé s'il fallait faire témoigner H. David Rosenbloom et pour demander que je ne prenne connaissance ni du rapport de H. David Rosenbloom, ni du rapport de réfutation de John P. Steines.
+(e) Étant donné que le rapport principal de John P. Steines aborde des questions relatives aux lois fiscales américaines, il semble raisonnable de conclure que le rapport de H. David Rosenbloom et le rapport de réfutation de John P. Steines traitent également des lois fiscales américaines. Les questions relatives au droit étranger sont des questions de fait. Le juge Rothstein, dans l'arrêt Backman c. Canada, [2000] 1 C.F. 555 (C.A.F.), a déclaré ceci :
+[38] Lorsque c'est la loi étrangère qui s'applique dans une affaire, il s'agit d'une question de fait qui doit être expressément plaidée et établie à la satisfaction de la Cour. [...]
+(f) L'appelante n'a pas fait témoigner H. David Rosenbloom au cours de l'audience et l'intimée veut toujours déposer le rapport de réfutation de John P. Steines. Étant donné que je n'ai pas lu le rapport de H. David Rosenbloom, ni le rapport de réfutation de John P. Steines, je ne suis pas en mesure de commenter les opinions exprimées dans l'un ou l'autre de ces rapports. Cependant, il est clair que l'intimée estime que le rapport de réfutation de John P. Steines contient des opinions qui sont pertinentes. Il semble aussi que le rapport de réfutation de John P. Steines comprend des avis sur des questions qui n'avaient pas été envisagées lorsqu'on avait demandé à John P. Steines de préparer son rapport principal.
+(g) Il me semble qu'un rapport déposé en vertu du paragraphe 145(3) des Règles doit se limiter à réfuter la preuve de l'expert qui figure dans le rapport visé au paragraphe 145(2) des Règles. Le paragraphe 145(3) des Règles énonce explicitement :
+[...] aucune preuve d'un expert ne sera présentée pour réfuter toute preuve présentée par écrit en vertu de l'alinéa (2)b) à moins que la contre‑preuve n'ait été consignée par écrit [...] [et déposée et signifiée au plus tard le 24 septembre 2010 en l'espèce]
+(h) Il me semble par conséquent inapproprié de déposer dans un rapport de réfutation une nouvelle preuve d'expert qui ne fait pas que réfuter la preuve d'un autre expert. La partie adverse (l'appelante en l'espèce) n'a pas eu l'occasion de présenter un autre rapport pour réfuter l'une ou l'autre des opinions exprimées dans le rapport de réfutation.
+(i) L'avocat de l'intimée a déclaré que l'intimée subissait maintenant un préjudice puisque l'appelante n'avait pas fait témoigner H. David Rosenbloom au cours de l'audience. Je ne suis pas de cet avis. Chaque partie a le droit de décider s'il faut faire témoigner une personne donnée ou non et a le droit de ne pas faire témoigner un témoin expert même si le rapport de l'expert en question a été dûment déposé avant le début de l'audience. Chaque partie a la responsabilité de s'assurer qu'elle sera en mesure de déposer la preuve pertinente qu'elle souhaite présenter à l'audience. En l'espèce, une fois que l'intimée s'est rendu compte qu'elle aurait dû demander des opinions supplémentaires à John P. Steines et les inclure dans son rapport principal, elle aurait dû présenter une requête en vue de modifier le rapport principal, ce qui aurait également mené à la modification des délais pour déposer les rapports d'expert et les rapports de réfutation.
+(j) L'alinéa 145(2)b) des Règles prévoit qu'« aucune preuve sur l'interrogatoire principal d'un expert ne doit être reçue à l'audience au sujet d'une question à moins [...] qu'un exposé complet de la preuve en interrogatoire principal que l'expert entend établir n'ait été fait dans une déclaration sous serment » déposée au plus tard le 31 août 2010 en l'espèce. Il est clair qu'une partie de la preuve principale de John P. Steines que l'intimée souhaite déposer n'apparaît pas dans le rapport d'expert joint à la déclaration sous serment déposée le 31 août 2010. Par conséquent, l'intimée n'a pas respecté les délais pour le dépôt des rapports d'expert que la Cour a fixés.
+(k) L'appelante soutient que le rapport de réfutation de John P. Steines ne devrait pas être déposé en preuve parce que l'intimée n'a pas respecté l'ordonnance de la Cour. Il me semble toutefois que ce n'est pas là le seul redressement pour ce manquement à l'ordonnance de la Cour. J'accepte que le défaut d'inclure les opinions supplémentaires demandées à John P. Steines n'était pas délibéré, mais découlait simplement du fait que l'avocat de l'intimée n'a eu connaissance de ces questions qu'après le dépôt du rapport de John P. Steines le 31 août 2010.
+(l) Comme l'a souligné l'avocat de l'appelante, les opérations en l'espèce sont complexes. Les opérations mettent en cause une société en commandite constituée en vertu des lois du Delaware à laquelle s'applique le droit du Delaware. La société en commandite a mené ses activités aux États‑Unis et, par conséquent, l'affaire soulève des questions liées au droit étranger (lesquelles sont, comme nous l'avons indiqué ci‑dessus, des questions de fait). Le montant du crédit pour impôt étranger en cause est considérable (près de 3,2 millions de dollars) et le règlement de la question peut avoir une incidence sur les années à venir. Même si rien n'indiquait si l'appelante a fait l'objet de nouvelles cotisations pour d'autres années, l'année qui fait l'objet de l'appel, soit 2003, est la première année pendant laquelle l'appelante a participé à ces opérations et étant donné qu'elle a continué à participer par la suite, il semble vraisemblable qu'elle ait continué à demander un crédit pour impôt étranger. En supposant que le rapport de réfutation contient des opinions pertinentes qui se rapportent à la question que je dois trancher et qui a été délimitée par les actes de procédure, il me semble que ces opinions devraient être admises en preuve, pourvu que l'appelante ait l'occasion de répondre à ce rapport et qu'elle ne subisse pas de préjudice injuste. Il est important d'assurer qu'il y ait conformité avec les principes d'équité procédurale.
+(m) Puisque les opinions de John P. Steines que l'intimée veut déposer ont été exprimées dans un rapport de réfutation à l'égard duquel l'appelante ne pouvait déposer un autre rapport de réfutation, l'appelante subirait un préjudice si l'audience devait se poursuivre maintenant et que le rapport de réfutation devait être déposé en preuve.
+(n) Cependant, il ne me semble pas que l'appelante subirait un préjudice auquel on ne pourrait remédier par l'adjudication de dépens si j'ajournais l'audience et que je permettais à l'appelante de faire préparer un rapport de réfutation par l'expert de son choix et de le déposer. Si, dans certains cas, on peut s'inquiéter des effets d'un retard sur la capacité du témoin à se souvenir d'événements qui se sont produits il y a plusieurs années, il n'y a pas de telle préoccupation en l'espèce puisque le témoin de l'appelante au sujet des événements qui ont réellement eu lieu a déjà témoigné.
+[2] Après avoir prononcé les motifs qui précèdent, j'ai ordonné par conséquent :
+(i) que l'audience soit ajournée;
+(ii) que lors de la reprise de l'audience, l'appelante puisse rouvrir sa preuve. L'intimée n'en subirait aucun préjudice, puisqu'elle n'a pas encore convoqué de témoins;
+(iii) que l'intimée, au plus tard le [date à déterminer], dépose et signifie une version révisée du rapport de John P. Steines qui inclut toutes les questions à l'égard desquelles John P. Steines fournira une preuve lors de l'interrogatoire principal;
+(iv) que l'appelante puisse déposer et signifier un rapport de réfutation au rapport de John P. Steines au plus tard le [date à déterminer];
+(v) que l'audience reprenne le [date à déterminer];
+(vi) que l'intimée verse à l'appelante, quelle que soit l'issue de la cause, les dépens que la Cour fixera. Aucune des parties n'a abordé la question des dépens. L'appelante et l'intimée pourront tenter d'en arriver à un accord sur le montant des dépens que l'intimée versera à l'appelante. Si elles ne peuvent s'entendre, l'une ou l'autre des parties peut demander que cette question soit tranchée lors d'une audience qui pourrait se tenir à la fin des plaidoiries lors de la reprise de l'audience ou à un autre moment.
+[3] Une discussion a alors eu lieu à propos des dates auxquelles l'intimée déposera le rapport complet de son expert et l'appelante déposera son rapport de réfutation. Les dates convenues étaient le 15 novembre 2010 pour le dépôt du rapport complet de John P. Steines et le 31 décembre 2010 pour le dépôt et la signification du rapport de réfutation de l'appelante. Lorsque la discussion s'est engagée sur la date de reprise de l'audience, l'avocat de l'appelante a demandé une courte pause.
+[4] Après la pause, l'avocat de l'appelante a déclaré que les avocats des deux parties étaient parvenus à l'accord suivant :
+(a) les deux rapports de John P. Steines seront déposés en preuve sans changement;
+(b) l'appelante renonce à rouvrir sa preuve et à obtenir un autre rapport de réfutation au rapport de John P. Steines;
+(c) le rapport de H. David Rosenbloom sera déposé en preuve à titre de rapport de réfutation au rapport de John P. Steines et l'appelante fera témoigner H. David Rosenbloom lors de sa réplique;
+(d) l'audience ne sera pas ajournée avant que John Small témoigne pour l'intimée (témoignage qui a eu lieu le 1er novembre 2010);
+(e) l'audience sera ajournée après le témoignage de John Small.
+[5] En raison de l'accord intervenu entre les parties à la suite de ma décision et étant donné que John Small a maintenant témoigné :
+(a) le rapport principal et le rapport de réfutation de John P. Steines seront déposés en preuve à condition que M. Steines soit disponible pour contre‑interrogatoire à la reprise de l'audience;
+(b) le rapport de H. David Rosenbloom sera déposé en preuve à titre de rapport de réfutation au rapport de John P. Steines à condition que M. Rosenbloom soit disponible pour contre‑interrogatoire lorsque l'appelante commencera sa réplique;
+(c) l'audience est ajournée.
+Signé à Halifax (Nouvelle‑Écosse), ce 8e jour de novembre 2010.
+« Wyman W. Webb »
+Le juge Webb
+RÉFÉRENCE :
+2010 CCI 565
+NO DU DOSSIER DE LA COUR :
+2008-2315(IT)G
+INTITULÉ :
+4145356 CANADA LIMITED c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 29 octobre 2010
+MOTIFS DE L'ORDONNANCE :
+L'honorable juge Wyman W. Webb
+DATE DE L'ORDONNANCE :
+Le 8 novembre 2010
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Al Meghji
+Me Martha MacDonald
+Avocats de l'intimée :
+Me Daniel Bourgeois
+Me Andrew Miller
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me Al Meghji
+Me Martha MacDonald
+Cabinet :
+Osler, Hoskin & Harcourt S.E.N.C.R.L., s.r.l.
+Toronto (Ontario)
+Pour l'intimée :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

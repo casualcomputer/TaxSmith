@@ -1,0 +1,186 @@
+---
+title: "Arthur v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/108149/index.do"
+last_modified: "2015-02-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 43"
+citation2: ""
+neutral_citation: "2015 TCC 43"
+decision_date: "2015-02-19"
+language: "en"
+item_id: "108149"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2756
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:29:41.409000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6b80c7dec11afb4c247b1515627299b35cff2cd5afca507b57d25b524583035a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Arthur v. The Queen
+
+- Citation: 2015 TCC 43
+- Decision date: 2015-02-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2756, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arthur v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-02-19
+Neutral citation
+2015 TCC 43
+File numbers
+2014-1579(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-1579(IT)I
+BETWEEN:
+Juliet Arthur,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on January 9, 2015, at Toronto, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Aaron Tallon
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2006, 2007 and 2008 taxation years are dismissed.
+Signed at Ottawa, Canada, this 19th day of February 2015.
+“Lucie Lamarre”
+Lamarre A.C.J.
+Citation: 2015 TCC 43
+Date: 20150219
+Docket: 2014-1579(IT)I
+BETWEEN:
+Juliet Arthur,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre A.C.J.
+[1] These are appeals against reassessments made by the Minister of National Revenue (Minister) in which the appellant’s charitable donation claims were disallowed for the years 2006, 2007 and 2008, pursuant to section 118.1 of the Income Tax Act (ITA) and sections 3500 and 3501 of the Income Tax Regulations (Regulations).
+2006 Charitable donation in the amount of $3,529 to Emelia Memorial International Water Development Inc. (Emelia)
+[2] The appellant filed a receipt dated December 31, 2006, issued to her by Emelia, showing an in-kind donation of $1,000 and a cash donation of $2,529 (Exhibit A-1).
+[3] She said in court that she gave the cash amount to her accountant when he prepared her tax return for 2006. The accountant was no longer in business in 2010.
+[4] In cross-examination, she said that the in-kind donation was the gift of two old desktop computers and some clothes and shoes. She did not remember the brand of the computers, and no appraisal was made.
+[5] As for the cash, she testified that she withdrew it from her bank account, although not all at once, that she did not remember how much she withdrew each time, and that she kept it at home. She did not provide any bank statements that would substantiate her withdrawals.
+[6] She reported net income of $22,346 for 2006. The amount of her donation for that year constituted 16% of her reported net income.
+[7] Mr. Gary Huenemoeder, a charity audit team leader for the Canada Revenue Agency (CRA) testified that Emelia’s registration as a charity was revoked for cause by the Minister effective March 29, 2008, as shown by a notice in the Canada Gazette, Part I (Exhibit R-1). He testified that Emelia did not have adequate books and records and that there were no bank statements. In short, there was nothing to support charitable status for Emilia.
+[8] He also explained that the tax receipt provided by the appellant was deficient and not in compliance with section 3501 of the Regulations. Indeed, there was no description of the in-kind donation, no appraisal, no indication of the actual date on which it was received and no appraiser’s name.
+2007 Charitable donation to Revival Time Ministries Int. (Revival)
+[9] The appellant claimed charitable donations of $2,589 made in cash to Revival in 2007. She did not have a receipt.
+[10] She reported net income of $27,987 for 2007, and the alleged donation constituted 9% of that income.
+[11] Mr. Huenemoeder testified that Revival was registered as a charitable organization on July 1, 2006. In that same year, Revival issued charitable donation receipts for a total amount of $830,529, which he said was abnormally high for a new registered charity. In 2007, Revival issued donation receipts for an amount of $1,680,567 and in 2008 it did so for an amount of $981,223.
+[12] The CRA audited Revival, but no books and no records were available. The CRA then asked for recreated records and was provided with bank statements. These statements showed $1.8 million in deposits and the same amount in expenses. The CRA later found out that those bank statements were fabricated and that the organization did not deposit more than $3,000 in its bank account.
+[13] On January 8, 2011, Revival had its registration as a charity revoked by the Minister (notice from the Minister in the Canada Gazette, Part I, Exhibit R‑2).
+[14] Apparently, there were 920 taxpayers involved in that scheme. They were all reassessed as no one was able to prove any payment to Revival. Revival’s representative left the country and is facing tax evasion charges in Canada.
+2008 Charitable donations to the Church of Pentecost Canada (Pentecost) and to Revival
+[15] The appellant said that she was attending the Pentecost church and was tithing, that is, she made cash donations to that church corresponding to approximately 10% of what she earned.
+[16] For 2008, she claims to have made charitable donations in cash totalling $3,000 to Revival and Pentecost.
+[17] The appellant did not provide any receipts for 2008. She explained that she lost the one provided by Pentecost and that, when she asked for another one, she was told by the accounting department of Pentecost that no donation was recorded in her name. She said that she did not make any donations thereafter as she stopped attending the Pentecost church. However, she went back to that church in 2010, but did not make any large donations even though her income had increased.
+[18] Mr. Huenemoeder testified that Pentecost was not a charity registered with the CRA.
+Parties’ Arguments [19] The respondent argued that the appellant did not prove on a balance of probabilities that she made the donations at issue.
+[20] The respondent also argued that the appellant failed to provide receipts for the Revival and Pentecost donations and that the receipt provided for the Emelia donation did not meet the statutory requirements. Accordingly, the appellant is precluded from claiming charitable donations pursuant to subsection 118.1(2) of the ITA and subsection 3501(1) of the Regulations.
+[21] The appellant only said that she did make the donations.
+Statutory Provisions Income Tax Act
+118.1 (2) Proof of gift — An eligible amount of a gift shall not be included in the total charitable gifts, total Crown gifts, total cultural gifts or total ecological gifts of an individual unless the making of the gift is evidenced by filing with the Minister
+(a) a receipt for the gift that contains prescribed information;
+(b) in the case of a gift described in the definition “total cultural gifts” in subsection (1), the certificate issued under subsection 33(1) of the Cultural Property Export and Import Act; and
+(c) in the case of a gift described in the definition “total ecological gifts” in subsection (1), both certificates referred to in that definition.
+[Emphasis added.]
+--------------------------------------
+Income Tax Regulations
+3501. Contents of Receipts — (1) Every official receipt issued by a registered organization shall contain a statement that it is an official receipt for income tax purposes and shall show clearly in such a manner that it cannot readily be altered,
+(a) the name and address in Canada of the organization as recorded with the Minister;
+(b) the registration number assigned by the Minister to the organization;
+(c) the serial number of the receipt;
+(d) the place or locality where the receipt was issued;
+(e) where the gift is a cash gift, the date on which or the year during which the gift was received;
+(e.1) where the gift is of property other than cash
+(i) the date on which the gift was received,
+(ii) a brief description of the property, and
+(iii) the name and address of the appraiser of the property if an appraisal is done;
+(f) the date on which the receipt was issued;
+(g) the name and address of the donor including, in the case of an individual, the individual’s first name and initial;
+(h) the amount that is
+(i) the amount of a cash gift, or
+(ii) if the gift is of property other than cash, the amount that is the fair market value of the property at the time that the gift is made;
+(h.1) a description of the advantage, if any, in respect of the gift and the amount of that advantage;
+(h.2) the eligible amount of the gift;
+(i) the signature, as provided in subsection (2) or (3), of a responsible individual who has been authorized by the organization to acknowledge gifts; and
+(j) the name and Internet website of the Canada Revenue Agency.
+Analysis [22] I will start my analysis with the cash donations for which the appellant did not provide any receipts, that is, those for the years 2007 and 2008.
+[23] It is a requirement under subsection 118.1(2) of the ITA that a receipt with the prescribed information be provided. This is a mandatory condition (see Sowah v. The Queen, 2013 TCC 297, 2013 DTC 1234, par. 16). A cash donation is permitted as long as it is recognized in an official receipt for income tax purposes.
+[24] Without such a receipt, the appellant is precluded from claiming a charitable donation.
+[25] With respect to the donation to Emelia in 2006, the appellant did provide a receipt. The receipt divides the total amount into two parts: an in-kind donation of $1,000 and a cash donation of $2,529.
+[26] With respect to the in-kind donation, the receipt does not contain the prescribed information required by paragraphs 3501(1)(e.1) and (h) of the Regulations (the date on which the gift was received, a brief description of the property, and the fair market value of the property at the time the gift was made).
+[27] As for the cash donation in the amount of $2,529, the Minister was justified in questioning the genuineness of that donation.
+[28] As Sheridan J., stated in Patel v. The Queen, 2011 TCC 555, 2012 DTC 1043 at par. 16, when a taxpayer chooses to deal only in cash, she imposes on herself the burden of having some means of verifying the otherwise untraceable transactions.
+[29] The appellant has the onus of proving on a balance of probabilities that she made the alleged cash donation to Emelia. To meet that standard of proof, she must convince the Court that it is more likely than not that the alleged donation occurred (see F.H. v. McDougall, 2008 SCC 53, [2008] 3 S.C.R. 41 at par. 44 to 49, referred to by Webb J., as he then was, in Tu Van Le v. The Queen, 2011 TCC 292, 2011 DTC 1223, at par. 7).
+[30] Here, the appellant did not make the cash donation directly to Emelia. She acknowledged that she made the mistake of giving the money to her accountant, without verifying whether it would be passed on to the registered charity. She did not provide in substantiation of her cash donation any bank statements or any documentation that made the donation traceable.
+[31] The respondent cast a doubt on the amount of the donation as in total (in‑kind donation and cash) it represented 16% of her reported net income, which is a rather large donation. One would expect a donor giving such a substantial amount to follow up and to keep adequate records supporting of that donation.
+[32] Furthermore, the appellant did not rebut the Minister’s other allegation that Emelia did not receive any cash donations from the appellant (par. 7 e) of the Reply).
+[33] As a matter of fact, Mr. Huenemoeder testified that Emelia did not have books and records sufficient to support the information filed on its T3010 charity information returns, with the result that its registration as a charitable organization was revoked.
+[34] Considering the evidence as a whole, I conclude that the appellant has not shown on a balance of probabilities that she made a charitable donation in the total amount of $3,529 to Emilia in 2006, even though a receipt was provided which purported to show that she had done so.
+[35] The appeals are dismissed.
+Signed at Ottawa, Canada, this 19th day of February 2015.
+“Lucie Lamarre”
+Lamarre A.C.J.
+CITATION:
+2015 TCC 43
+COURT FILE NO.:
+2014-1579(IT)I
+STYLE OF CAUSE:
+Juliet Arthur v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 9, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Associate Chief Justice Lucie Lamarre
+DATE OF JUDGMENT:
+February 19, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Aaron Tallon
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,118 @@
+Title: Lewis v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25935/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-237-25935-lewis-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-03-22
+
+# Lewis v. The Queen
+
+- Citation: 2004 TCC 237
+- Decision date: 2004-03-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3668, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lewis v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-22
+Neutral citation
+2004 TCC 237
+File numbers
+2003-2033(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2033(IT)I
+BETWEEN:
+BRYNA LEWIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 17, 2004 at Ottawa, Ontario
+Before: The Honourable Justice Brent Paris
+Participants:
+Agent for the Appellant:
+Hilary Balmer
+Counsel for the Respondent:
+Carole Benoit
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of the reassessment made under the Income Tax Act for the 2001 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, on this 22nd day of March 2004.
+"Brent Paris"
+Paris, J.
+Citation: 2004TCC237
+Date: 20040322
+Docket: 2003-2033(IT)I
+BETWEEN:
+BRYNA LEWIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] The Appellant is appealing the Minister's reduction of her medical expense tax credit by $1,286.00 for her 2001 taxation year. The credit was reduced on the basis that amounts she spent on certain hypoallergenic vitamins and supplements were not medical expenses as defined in the Income Tax Act.
+[2] The Appellanttestified that she suffers from multiple chemical sensitivities, fibromyalgia and chronic fatigue syndrome. When she is exposed to certain common chemicals she becomes extremely ill and may be confined to her bed for long periods. This has had a profound impact on her life and she has gone to great lengths to eliminate chemical contamination in her environment. Her physician, who specializes in the treatment of environmental illnesses, prescribed her the hypoallergenic vitamins and mineral supplements in order to bolster her immune system and build up her strength to enable her to cope with her condition. These special vitamins and mineral supplements were purchased by the Appellant at the clinic operated by her physician (the Ottawa Environmental Health Clinic Inc.).
+[3] In order to qualify for the medical expense tax credit, the amounts in issue would have to meet the conditions set out in paragraph 118.2(2)(n) of the Act which reads:
+(2) For the purposes of subsection (1), a medical expense of an individual is an amount paid
+...
+(n) for drugs, medicaments or other preparations or substances (other than those described in paragraph (k) manufactured, sold or represented for use in the diagnosis, treatment or prevention of a disease, disorder, abnormal physical state, or the symptoms thereof or in restoring, correcting or modifying an organic function, purchased for use by the patient as prescribed by a medical practitioner or dentist and as recorded by a pharmacist ...
+[4] The Appellant admitted that the vitamins and supplements were not recorded by a pharmacist, that the Ottawa Environmental Health Clinic was not a pharmacy and that the physician who prescribed the products was not a licensed pharmacist.
+[5] However, the Appellant's representative asks that I interpret the term "medical expenses", particularly as it relates to drugs and medicaments, in a liberal fashion. She asserted that it was never the intention of Parliament that the medical expense definition be interpreted narrowly, and that other decisions of this Court (most notably Ray v. The Queen [2002] 4 C.T.C. 2590) support a reading of paragraph 118.2(2)(n) that would favour the Appellant. She was aware that the Ray case had recently been overturned by the Federal Court of Appeal, but she believed that the original decision of this Court should prevail.
+[6] The Appellant's representative also referred to a recent Supreme Court of Canada case, Nova Scotia (Workers' Compensation Board) v. Martin 2003 SCC 54 in which certain workers' compensation legislation was found to have violated section 15 of the Canadian Charter of Rights and Freedoms. Although she said that she was not alleging that paragraph 118.2(2)(n) infringed the Appellant's Charter rights, her statement that the provision "would be of no force or effect if it did not fit within the Charter" indicates otherwise.
+[7] Counsel for the Respondent objected to the Appellant raising a Charter argument. She noted that the Notice of Appeal does not raise the issue, nor has the Appellant served notice on the provincial Attorneys General, as required by section 57 of the Federal Court Act R.S. 1985 c. F-7, as amended.
+[8] It is common in cases heard in the informal procedure in this Court to have Charter arguments raised without notice having been given under section 57. In these cases the Court will ordinarily hear the argument and if, upon initial consideration, it finds merit in it, will adjourn the case to permit the Appellant to give the section 57 notice (see: Cavalier v. The Queen [2002] 1 C.T.C.2001).
+[9] I am not satisfied that the Appellant has made out the case that her right to equality under section 15 of the Charter has been infringed by paragraph 118.2(2)(n)in the Income Tax Act.
+[10] Subsection 15(1) of the Charter reads:
+Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+[11] In Law v. Canada (Minister of Employment & Immigration) (1999), 1 S.C.R. 497 (S.C.C.), the Supreme Court of Canada set out the following guidelines for determining whether subsection 15(1) of the Charter has been infringed:
+1. Does the law in question, impose differential treatment on the Appellant on the basis of the Appellant's personal characteristics or fail to take into account the Appellant's disadvantaged position in society, resulting in differential treatment on the basis of personal characteristics?
+2. Is the Appellant subject to the differential treatment based on the prohibitive grounds enumerated in the Charter (race, national or ethnic origin, colour, religion, sex, age or mental or physical disability), or grounds which are analogous to those?
+3. Does the differential treatment discriminate by imposing a burden or withholding a benefit which promotes (through stereotypes or otherwise) the view that the Appellant is an individual less capable or worthy of recognition or value as a human being ... equally deserving of concern, respect and consideration?
+[12] Although it was not clearly stated, the Appellant's position appeared to be that the basis of the perceived discrimination in this case was her medical condition. However, the section of the Act in issue does not draw any distinction between the Appellant and others on that basis, but only on the basis of what type of medication is purchased. Medication that is, inter alia, recorded by a pharmacist qualifies as a medical expense, while medication not so recorded is not. The qualification is not based on a personal characteristic of the Appellant; every taxpayer must meet the same requirements in order for their expenses to qualify as medical expenses. The Appellant therefore does not meet the threshhold test for showing that paragraph 118.2(2)(n) of the Act breaches her right to equality right under the Charter.
+[13] Furthermore, it is clear from the decision of the Federal Court of Appeal in The Queen v. Ray [2004] FCA 1 that effect must be given to the words "recorded by a pharmacist" in applying the definition of medical expenses found in paragraph 118.2(2)(n). The Court there said:
+In my view, it is reasonable to infer that the recording requirement in paragraph 118.2(2)(n) is intended to ensure that tax relief is not available for the cost of medications purchased off the shelf. There are laws throughout Canada that govern the practice of pharmacy. Although the laws are not identical for each province and territory, they have common features. Generally, they prohibit a pharmacist from dispensing certain medications without a medical prescription, and they describe the records that a pharmacist is required to keep for medications dispensed by prescription, including information that identifies the prescribing person and the patient. There is no evidence that pharmacists anywhere in Canada are required to keep such records for the substances in issue in this case.
+...
+Nor do I think it relevant to the interpretation of paragraph 118.2(2)(n) that a physician may dispense prescription medicines, and even sell them, without breaching any legislation applicable to pharmacists. It appears that a patient who purchases prescription medications from a physician may not be entitled to a medical expense tax credit because there would be no recording by a pharmacist: see Dunn (cited above). Some may consider that to be an unfair or inappropriate result. Perhaps it is, but that cannot justify an interpretation of paragraph 118.2(2)(n) that ignores the words "as recorded by a pharmacist".
+[14] Unfortunately, the evidence in this case shows that the vitamins and supplements that were prescribed to the Appellant by her physician were not recorded by a pharmacist. Therefore the amounts she spent on these items do not qualify as medical expenses under the Income Tax Act and this appeal must be dismissed.
+Signed at Ottawa, Canada, on this 22nd day of March 2004
+"Brent Paris"
+Paris, J.
+CITATION:
+2004TCC237
+COURT FILE NO.:
+2003-2033(IT)I
+STYLE OF CAUSE:
+Bryna Lewis v. The Queen
+PLACE OF HEARING
+Ottawa, Ontario
+DATE OF HEARING
+February 17, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT
+March 22, 2004
+PARTICIPANTS:
+Agent for the Appellant:
+Hilary Balmer
+Counsel for the Respondent:
+Carole Benoit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,231 @@
+---
+title: "L'Industrielle Alliance, Assurances Et Services Financiers Inc c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28374/index.do"
+last_modified: "2007-12-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 15"
+citation2: ""
+neutral_citation: "2008 CCI 15"
+decision_date: "2007-12-07"
+language: "fr"
+item_id: "28374"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1893
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:02:07.347000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "622d7c9649d573bc6398874762a87127af087539b2d76b22f781e8cf91d40036"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# L'Industrielle Alliance, Assurances Et Services Financiers Inc c. La Reine
+
+- Citation: 2008 CCI 15
+- Decision date: 2007-12-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1893, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+L'Industrielle Alliance, Assurances Et Services Financiers Inc c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-12-07
+Référence neutre
+2008 CCI 15
+Numéro de dossier
+2006-1176(IT)G
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1176(IT)G
+ENTRE :
+L'INDUSTRIELLE ALLIANCE,
+ASSURANCES ET SERVICES FINANCIERS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus les 6 et 7 décembre 2007, à Montréal (Québec).
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocats de l'appelante :
+Me Philip Nolan
+Me Luc Pariseau
+Avocat de l’intimée
+Me Daniel Marecki
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1997 et 1998 sont accordés, avec dépens, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 10e jour de janvier 2008.
+Juge Lamarre Proulx
+Référence : 2008CCI15
+Date : 20080110
+Dossier : 2006-1176(IT)G
+ENTRE :
+L'INDUSTRIELLE ALLIANCE,
+ASSURANCES ET SERVICES FINANCIERS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Dans cette affaire, il s’agit de savoir si le ministre du Revenu national (le « Ministre »), peut déclarer sans effets juridiques une entente de souscription d’actions où il y a eu acquisition d’actions au prix du marché et un contrat de courtage où il y a enregistrement du nouveau propriétaire des actions et choix d’un courtier, au motif qu’il n’y a pas eu de transfert de la propriété des actions, ou s’il y a eu transfert de la propriété des actions, il n’y a pas eu transfert du droit aux dividendes, alors que le Ministre ne conteste pas la validité ou la véracité de ces ententes. Ces ententes sont intervenues dans le cadre d’un emprunt obligataire important fait par l’appelante dans le but d’accroître son capital.
+[2] Les années en litige sont les années d’imposition 1997 et 1998. La disposition législative dont l’appelante demande l’application est celle du paragraphe 138(6) de la Loi de l’impôt sur le revenu (la « Loi »), disposition qui prévoit la déduction pour dividendes reçus d’une société canadienne imposable par un assureur sur la vie s’il les a inclus dans le calcul de son revenu. Le Ministre prétend que l’appelante n’a pas droit à cette déduction parce que les revenus de dividendes ne lui appartiennent pas et n’ont pas été inclus dans son revenu.
+[3] Monsieur Yvon Côté, vice-président et directeur général, finances et placement a témoigné pour l’appelante. Il a expliqué que cette dernière, en 1992, s’est trouvée dans une situation financière difficile même précaire causée par l’acquisition de la société Trustco Général. L’appelante a dû se départir de cette société et a subi des pertes de plus de 100 millions de dollars. Le passif de l’appelante étant devenu très élevé, le ratio capital disponible sur le capital requis était devenu dangereusement faible.
+[4] Selon le témoin, l’appelante se devait de trouver une façon d’augmenter son capital disponible. Elle s’est tournée vers la Caisse de dépôt et placement du Québec (la « Caisse »). Vu la faiblesse du capital disponible et vu la réglementation concernant les mutuelles d’assurance-vie, il aurait été trop onéreux de se tourner vers le privé. À la suite de discussions ardues qui se sont échelonnées sur une période de 18 mois, l’appelante et la Caisse sont convenues d’un plan financier, plan que l’Inspecteur général des Institutions financières, Direction générale des assurances (« l’IGIF »), qui surveillait la situation, a trouvé satisfaisant.
+[5] Selon ce plan, l’appelante, le 24 janvier 1994, a émis à la Caisse une débenture subordonnée au montant de 60 millions de dollars. Le même jour, l’appelante a fait l’acquisition, auprès de la Caisse, d’obligations de Domtar et d’actions de la Financière Power Corporation, à leur valeur au marché pour 60 millions de dollars. Il y a eu à ce jour signature des documents de clôture décrits à l’onglet 27 de la pièce I‑1. Les principaux documents aux fins du litige sont l’émission de la débenture, l’Annexe A, la Convention de souscription des actions et celle relative au courtage.
+[6] Par une première lettre en date du 26 octobre 1993 (onglet 54, pièce A‑1), l’IGIF acceptait le projet d’investissement de 60 millions de dollars de la Caisse au capital de l’appelante. Le 14 janvier 1994, il y acceptation de la dernière version du projet d’investissement, en ces termes suivants (onglet 35 de la pièce I-1) :
+[...]
+J'ai pris connaissance des documents que vous m'avez fait parvenir, le 23 décembre dernier, concernant l'objet en titre et je comprends que ceux‑ci constituent la version finale de votre projet d'entente avec la C.D.P.Q.
+Au cours des derniers mois, mes services ont procédé à des analyses des versions de votre projet et divers échanges ont eu lieu avec vos représentants et ceux de la C.D.P.Q. Ces rencontres ont permis de préciser et de reformuler certaines sections des textes soumis.
+À cet égard, je vous souligne que je suis satisfait du résultat des discussions concernant les cas de défaut, leur impact sur le remboursement des débentures et les références à l'autorité de réglementation. De même, tel que je vous en ai déjà fait part, le rachat de ces débentures avant échéance ne pourra se faire sans mon consentement préalable.
+En conséquence, je vous confirme que la valeur de la débenture sera considérée dans la base du capital et que l'amortissement linéaire auquel sera soumis la débenture aux fins des tests d'excédents statutaires débutera cinq (5) ans avant l'échéance.
+La présente acceptation remplace celle de ma lettre du 26 octobre 1993, laquelle était basée sur des documents antérieurs qui ont par la suite été modifiés.
+[...]
+[7] Cette lettre confirme donc que pour l’IGIF, la valeur de la débenture sera considérée dans la base du capital de l’appelante.
+[8] Les clauses 2 et 3 de la Convention de souscription (onglet 36 de la pièce I-1) décrivent l’achat de la débenture par la Caisse et l’utilisation par l’appelante de la somme investie par la Caisse.
+[9] Je cite ces clauses 2 et 3 :
+2. ACHAT DE LA DÉBENTURE
+Sous réserve des modalités et conditions énoncées aux présentes et se fondant sur les représentations et garanties de la Compagnie énoncées aux présentes, la Compagnie convient d'émettre et de vendre ce jour la Débenture à la Caisse, qui convient de la souscrire et de l'acheter de la Compagnie, à un prix de souscription de 60 000 000 $.
+3. UTILISATION DU PRODUIT DU PLACEMENT
+Le produit entier du placement de la Débenture sera utilisé par la Compagnie aux fins de constituer initialement le Portefeuille. À cet égard, la Compagnie convient d'acheter ce jour de la Caisse, qui convient de les vendre à la Compagnie, les titres suivants (les « Titres initiaux ») aux prix mentionnés ci‑après, lesquels prix correspondent à la valeur marchande des Titres Initiaux en date du 21 janvier 1994 :
+Description
+des titres
+Prix de
+vente total
+• Débentures convertibles 8% de Domtar Inc. d'une valeur nominale globale de 20 000 000 $
+29 650 000 $
+• 895 941 actions ordinaires de Corporation Financière Power
+30 350 000 $
+60 000 000 $
+[10] Comme l’intimée s’appuie particulièrement sur certains articles de cette convention pour tenter de démontrer que l’appelante n’était pas propriétaire des titres ou que si elle l’était, elle n’était pas propriétaire des revenus en découlant, je cite les clauses 6.2, 6.3, partie de 6.4, 6.5, 6.12, 6.14 à 6.16 et 7.2 :
+6.2 le Portefeuille est constitué initialement des Titres initiaux. La Compagnie accorde à la Caisse le droit exclusif quant au choix des modifications possibles à la composition du Portefeuille et s’engage à ne pas le modifier de son propre chef sauf (i) conformément à une Demande (telle que définie au paragraphe 6.4 ci-après) ou (ii) avec l’accord préalable écrit de la Caisse. Toutefois, la Compagnie peut modifier la composition du Portefeuille dans la mesure nécessaire si la Caisse fait défaut d’émettre une Demande dans le cadre du paragraphe 6.11 ci‑après;
+6.3 la Compagnie est propriétaire des Titres en Portefeuille et du Numéraire en Portefeuille et elle s’engage à ne pas les assujettir à une hypothèque, charge ou sûreté quelconque;
+6.4 suite au droit accordé par la Compagnie à la Caisse en vertu du paragraphe 6.2, la Caisse peut à l’occasion demander que la composition du Portefeuille soit modifiée ou que les droits dont il est question aux paragraphes 6.12 et 6.13 soient exercés d’une certaine façon. Pour ce faire, elle émet une demande écrite (« Demande ») indiquant la transaction envisagée ou le mode d’exercice des droits, et précisant, à son choix :
+[...]
+6.5 à moins que la Caisse ne décide de les prendre à sa charge, le prix d’acquisition de Titres pour inclusion dans le Portefeuille est à la charge et prélevé à même le Numéraire du Portefeuille ou, dans les cas d’échange, est effectué par la remise de Titres en Portefeuille. À moins que la Caisse ne décide de les prendre à sa charge, tous les frais du Courtier, tous les frais de gardiennage des Titres en Portefeuille et tous les frais de transaction payables à des intermédiaires de marché à l’égard des transactions sur le Portefeuille suite à des Demandes sont également à la charge et prélevés à même le Numéraire en Portefeuille (si nécessaire en vendant certains Titres en Portefeuille choisis par la Caisse); la Caisse fournira les fonds requis en cas d’insuffisance pour régler les Titres acquis ou payer les frais de courtage et de gardiennage et tous les frais de transactions payables à des intermédiaires de marché;
+[...]
+6.11 si en raison de toute législation ou réglementation applicables à la Compagnie, cette dernière est tenue de réduire sa détention de Titres d'un émetteur, alors elle se départira d'abord des Titres de cet émetteur qu'elle détient mais qui ne font pas partie du Portefeuille et, en cas d'insuffisance, la Caisse doit, dans les deux (2) Jours ouvrés après que la Compagnie l'ait avisé par écrit de cette insuffisance, émettre une Demande pour la vente de Titres en Portefeuille de manière à ce que la Compagnie respecte les nouvelles normes de détention;
+6.12 tous les droits se rattachant aux Titres en Portefeuille (y compris les droits de vote et le droit d’accepter une offre publique d’achat ou d’échange) seront exercés par la Compagnie (directement ou par l’entremise du Courtier) conformément aux Demandes. À défaut du Demandes à cet égard, la Compagnie et le Courtier s’abstiendront d’exercer ces droits. La Compagnie (ou le Courtier, sur directives de la Compagnie) peut s’abstenir d’exercer les droits de vote afférents à un Titre en Portefeuille (mais non exercer le droit de vote dans le sens contraire des Demandes) si le sujet sur lequel la Compagnie est appelée à voter en tant qu’actionnaire fait notoirement l’objet d’une opposition importante de la part des actionnaires ou de certains administrateurs de l’émetteur concerné;
+[...]
+6.14 la Compagnie n’a droit à aucun frais de gestion, de transaction ou autres en rapport avec le Portefeuille;
+6.15 la Caisse ne sera en aucun cas tenue responsable envers qui que ce soit pour la façon dont il exerce ses droits en vertu du présent article 6 et, notamment, il n’encourra aucune responsabilité envers qui que ce soit pour toute baisse de la valeur du Portefeuille pour une raison quelconque; les dispositions du présent paragraphe 6.15 n’affecte en rien les obligations du Porteur prévues à la Débenture;
+[...]
+[11] Ce que ces articles disent explicitement c’est qu’un droit exclusif de gestion du portefeuille est conféré à la Caisse. L’appelante, en tant que propriétaire du portefeuille, conserve le pouvoir de modifier la composition de portefeuille mais c’est un pouvoir lié au droit de gestion de la Caisse. La seule possibilité de modification de son propre chef est dans les cas prévus à l’article 6.11 de la Convention, si la Caisse fait défaut d’émettre une Demande relative à une certaine transaction exigée par toute législation ou réglementation applicables à l’appelante.
+[12] La clause 7.2 de la Convention est celle qui a le plus influencé l’agent du Ministre. Elle se trouve à l’article 7 de la Convention, intitulé « Revenu et Appréciation du Portefeuille ». Le voici :
+7.2 sous réserve de ce qui est prévu au sous‑paragraphe 8.5.1 de la Débenture, tant que la Débenture est en cours, la Compagnie devra, dès qu’elle recevra du Revenu, payer à la Caisse un montant égal au montant de Revenu reçu. Tel paiement sera effectué par la Compagnie (ou par le Courtier agissant pour le compte de la Compagnie) au plus tard le Jour ouvré suivant celui au cours duquel la Compagnie aura reçu (par l’entremise du Courtier) le montant de Revenu en question. Sauf directives contraires de la Caisse, le paiement à la Caisse sera effectué en numéraire et, lorsqu’applicable, par la remise des biens ou valeurs reçus à titre de Revenu;
+[13] Cette clause prévoit que l’appelante devra payer à la Caisse un montant égal au montant du revenu reçu.
+[14] Il est cependant à noter que l’article 8 de la Convention de souscription prévoit que tant que la débenture est en cours, la Caisse aura en tout temps le droit de désigner un administrateur au conseil d’administration de l’appelante. Cet administrateur pourra aussi siéger au comité de direction et au comité de vérification de l’appelante.
+[15] L’article 5 de la Convention de courtage (onglet 42 de la pièce I‑1), prévoit que tous les titres en portefeuille seront inscrits au nom du courtier pour le compte de la compagnie, (soit l’appelante) ou dans certains cas immatriculés au nom de la compagnie.
+[16] L’article 6 de cette convention stipule à nouveau que la compagnie est propriétaire des titres. La même stipulation avait été faite à l’article 6.3 de la Convention de souscription.
+[17] Cet article 6 se lit comme suit :
+6. Propriété du Portefeuille
+La Compagnie est propriétaire des Titres en Portefeuille et du Numéraire en Portefeuille et en conséquence, le Courtier s’engage à ne pas les utiliser d’une manière quelconque ni à les assujettir à une hypothèque, charge ou sûreté que ce soit ou opérer compensation d’une manière quelconque sans l’accord préalable de la Compagnie et de la Caisse. D’autre part, le Courtier ne pourra transférer ou remettre les Titres en Portefeuille ou le Numéraire en Portefeuille à la Compagnie ou à toute autre personne sans l'accord préalable de la Caisse, sauf (i) à la Caisse conformément à ce qui est prévu aux présentes ou (ii) si le Courtier y est tenu en vertu d'une disposition d'une loi ou d'un règlement applicable ou en vertu d'un jugement non susceptible d'appel émanant d'une Cour compétente.
+D'autre part, la Compagnie convient de ne pas assujettir les Titres en Portefeuille ou le Numéraire en Portefeuille à une hypothèque, charge ou sûreté quelconque. Dès qu'il a connaissance de la prise ou d'une tentative de prise d'une hypothèque, charge ou sûreté par la Compagnie ou un tiers, le Courtier devra en aviser immédiatement la Caisse et, le cas échéant, la Compagnie.
+[18] L’Annexe A est un document qui fait partie intégrante de tout certificat représentant la débenture subordonnée. Elle est intitulée « Annexe A à la Débenture subordonnée de l’Industrielle-Alliance Compagnie d’Assurance sur la vie ». Elle fait référence dans ses définitions de l’article 1 « Dispositions interprétatives » aux conventions de souscription et de courtage. Elle est un document qui a son importance propre. On la retrouve annexée à la Convention de souscription (onglet 36) et à celle de courtage (onglet 42). En tant qu’annexe à la débenture, on la trouve à l’onglet 40 de la pièce I‑1.
+[19] L’article 3 de l’Annexe A décrit les « Modalités relatives à l’intérêt ». Il y a un intérêt de base, un intérêt participatif et un intérêt additionnel. L’article 4 prévoit le « Mode de remboursement à échéance ». Le mode de remboursement prévu est que la Caisse garantit la valeur de 60 millions du portefeuille.
+[20] L’article 6 de l’Annexe A prévoit le « Caractère subordonné des Débentures ». Le paiement du capital et de tout montant d’intérêt sur la débenture est subordonné aux paiements préalables des créances prioritaires. L’article 6.2 décrit l’ordre de paiement lors de la dissolution, liquidation, réorganisation ou mesure relative à la Compagnie en raison de sa faillite, de son insolvabilité ou de sa réorganisation pour cause d’insolvabilité.
+[21] Je dois dire immédiatement qu’à la lecture de cette clause, je ne vois rien qui pourrait me permettre ou permettre à une cour jugeant en matière de faillite, d’affirmer que les actifs de l’appelante ne contiennent pas en pleine propriété les titres du portefeuille en question dans cette affaire et que ces titres dans leur totalité ne peuvent pas servir au paiement des créances prioritaires de l’appelante.
+[22] Il est également à noter que la Caisse et l’appelante ont présenté leurs avoirs respectifs en conformité avec les ententes passées en vertu du plan d’investissement et de redressement. Dans les actifs de la Caisse, figure la débenture et ne figurent plus les actions transférées à l’appelante. Aux actifs de l’appelante, figurent les actions acquises de la Caisse.
+[23] Le 27 avril 2001 (onglet 17, pièce I‑1), le vérificateur a envoyé au gestionnaire de l’évitement fiscal le cas de l’appelante. Je cite les principaux paragraphes de ce renvoi :
+[...]
+Sommairement la corporation réclame une déduction pour des dividendes reçus de sociétés imposables selon le paragraphe 138(6) de la l.i.r. (1 538 417 $ en 1997 et de 985 805 $ en 1998). Nous sommes d'avis que la série d'opération est abusive au sens de la loi de l'impôt sur le revenu.
+Nous nous interrogeons sur les écritures comptables inscrites à ses livres, de l'existence d'un prêt véritable, de la déductibilité d'une partie des intérêts. Nous pensons que des concepts de l'évitement fiscal pourraient s'appliquer (mandataire, et/ou < substance Over form >
+Nous vous référons à la présentation des faits et à l'analyse de la transaction contenue dans la lettre de monsieur Michel Lévesque, ci‑annexée. Nous vous confirmons que dans le passé l'Agence des douanes et du Revenu du Canada n'a pas contesté la déductibilité de ces dividendes de la Caisse de Dépôt du Québec.
+[24] Le 9 janvier 2002 (onglet 19, pièce I‑1), la section de l’Évitement fiscal répond qu’il n’est pas envisageable d’utiliser les dispositions anti-évitement de la Loi car la difficulté serait de prétendre raisonnablement que l’opération n’a pas été principalement effectuée pour des objets véritables. (J’ai ajouté le caractère gras).
+[25] Le 25 janvier 2002, le vérificateur envoie le projet de cotisation pour les années d’imposition 1997 et 1998, (onglet 60 de la pièce A‑1). Le premier paragraphe se lit comme suit :
+[...]
+1. Le renvoi à la section de l'évitement fiscal concernant la déduction pour dividendes a pris fin le 9 janvier 2002 et vous avez été avisé de cette situation par monsieur Jacques Renaud. Nous sommes toujours d'avis que Industrielle-Alliance ne détenait pas le droit aux revenus et ne pouvait conséquemment réclamer la déduction pour dividendes selon l'article 138(6) de la l.i.r.
+[...]
+[26] Selon le rapport sur une opposition du 27 janvier 2006 à l’onglet 10 de la pièce I‑1, le montant refusé en 1997 est de 1 538 417 $ et en 1998 de 985 505 $.
+[27] Il est intéressant de lire dans le même rapport le point de vue de l’agent des appels quant au droit au revenu (page 152) :
+5) Droit au Revenu : Cause Minet
+À la lecture de la conclusion du juge Stone dans la cause Minet (98 DTC 6364), il devient important, lorsqu'on détermine si un montant est à considérer comme revenu selon 9(1) LIR, que ce montant soit complètement gagné par le propriétaire c'est‑à‑dire qu'il soit en droit d'en disposer à sa guise ou d'avoir un « droit absolu » sur ce revenu. Dans le cas présent, selon les documents visionnés, I.A. doit remettre le lendemain, un montant égal au revenu gagné/reçu relativement aux placements acquis avec le produit de l'émission des débentures. Nous croyons que I.A. est tellement limité que l'on peut considérer qu'elle n'a pas un droit absolu sur le revenu des placements et donc n'en est pas le bénéficiaire.
+Dans la cause Minet, le contribuable avait une certaine liberté dans la gestion des primes et des commissions avant la remise des primes aux assureurs américains et des commissions aux courtiers américains; malgré ce fait, le droit ultime ou absolu au revenu a constitué le critère important; Minet devait obligatoirement selon la loi remettre les montants de revenus de commission à des courtiers américains de sorte qu'à terme, Minet n'avait pas de droit absolu au revenu, d'où la décision finale à l'effet que le revenu de commission n'appartenait pas à Minet.
+Ainsi, dans le cas de I.A., il n'y a même pas jouissance sur une courte période, des revenus réalisés par les titres, puisqu'un « montant égal » au revenu est payable le premier jour ouvrable suivant, à plus forte raison, nous croyons que I.A. n'a aucun droit sur les revenus réalisés sur les titres « acquis » suite à l'émission de la débenture.
+[28] L’avis de ratification en date du 2 février 2006 se trouve à l’onglet 9 de la pièce I‑1. Il se lit comme suit :
+AVIS DE RATIFICATION PAR LE MINISTRE
+…
+Industrielle-Alliance, Compagnie d'Assurance sur la Vie n'a pas droit aux revenus, dont les revenus sur les dividendes, provenant des titres apparentés à la Débenture au montant de 60$M émise en faveur de la Caisse de Dépôt et Placement du Québec en 1994. Par conséquent, vous ne pouvez déduire les montants de dividendes imposables selon le paragraphe 138(6) de la Loi de l'impôt sur le Revenu.
+[29] Le même jour, l’agent des appels envoie une lettre explicative à l’appelante (onglet 11 de la pièce I‑1). Je cite les paragraphes intitulés « Cause Minet » et « Un montant égal » :
+[...]
+Cause Minet
+Notre position à l'effet que le revenu n'appartient pas à la corporation est basée sur la cause Minet (98 DTC 6364). Dans cette cause, l'imposition des commissions du courtier Minet avait été annulée par la Cour Fédérale d'Appel, parce que les commissions légalement devaient être payées à un courtier américain; les assureurs du risque étaient américains. Entre le moment de la perception des primes et le paiement requis subséquemment aux courtiers et aux assureurs, Minet avait tout le loisir de faire fructifier les sommes, de les gérer et de conserver les revenus réalisés. Malgré ce fait, la Cour a établi que le revenu des commissions n'appartenait pas à Minet parce qu'il n'avait pas un droit absolu sur ces commissions. Dans le cas d'Industrielle Alliance, il n'y a aucune possibilité de gérer ou utiliser de quelque façon les revenus des titres, mais un passif immédiat du même montant envers la CDPQ est établi et payable le premier jour ouvrable suivant.
+Un montant égal
+Vous avez mentionné que le revenu comme tel n'était pas payé à la CDPQ, mais que suivant l'article 7.2 de la Convention de souscription, un montant égal était payable de sorte que le revenu demeurait dans la corporation. Étant donné qu'un passif égal et immédiat est établi dès la réception du revenu il est difficile pour nous de ne pas considérer que ce sont finalement les revenus qui sont retournés à la CDPQ. De plus, nous avons à l'article 12 de la Convention de Courtage relevé le traitement par le courtier des revenus et l'inscription de ces revenus et transferts à la CDPQ; il n'y est pas question de montant égal.
+[30] Monsieur André Gauthier, vérificateur principal dans cette affaire a expliqué la position du Ministre. L’appelante s’était engagée dans la Convention de souscription à remettre à la Caisse un montant égal aux dividendes reçus. Ce qui fait que le résultat économique, relativement aux actions acquises, est de zéro. C’est à cause de ce résultat qu’il a considéré que le contrat d’acquisition des actions n’en était pas un et qu’il n’y avait pas eu de transfert de propriété. Il est vrai que l’appelante était la propriétaire enregistrée mais elle n’était pas la véritable propriétaire. Peut-être avait-elle la nue‑propriété mais elle n’avait sûrement pas le droit au revenu. Elle recevait les dividendes pour les remettre à la Caisse, qui elle avait conservé la propriété des actions ou à tout le moins, le droit aux dividendes. Le vérificateur était quand même d’avis, que dans cette affaire, il n’y avait pas d’éléments de simulacre ou de trompe‑l’œil.
+[31] Avant de terminer l’exposition de la preuve, je veux mentionner les communiqués de presse émis par la Caisse et l’appelante en date du 22 février 1994 (onglet 50 de la pièce I‑1). On y relate succinctement les différentes caractéristiques juridiques de l’investissement de 60 millions de dollars de la Caisse et l’accroissement de capital corrélatif de l’appelante.
+[32] J'en cite quelques paragraphes :
+Cette émission de capital a pris la forme d'une débenture subordonnée, participante et à intérêt variable, venant à échéance en janvier 2004, et comportant une option de rachat par anticipation au gré de l'émetteur après cinq ans.
+Le rendement escompté par le détenteur revêt trois composantes : un rendement annuel de base, un rendement variable dépendant de la performance du portefeuille et une participation aux profits comportant une limite maximale et fonction du bénéfice net de l'émetteur.
+« Les négociations entre les deux institutions ont ainsi permis à la Caisse de mettre au point un instrument financier innovateur pouvant être utilisé avantageusement par des institutions financières, qu'elles soient des sociétés à capital social, des mutuelles ou des coopératives », a expliqué M. Savard. Il a poursuivi en précisant que « l'innovation réside dans la création d'un type de débenture indexée à la valeur d'un portefeuille de titres des marchés boursier, obligataire ou monétaire. Le rendement de la débenture dépend non pas uniquement de l'instrument comme tel, mais également du comportement des titres sous‑jacents. Cet instrument innovateur devrait être un gage de valeur ajoutée pour la Caisse ».
+M. Garneau a indiqué pour sa part que « ce capital additionnel, ajouté au bénéfice de 27,2 millions $ pour l'année 1993, procurera à l'Industrielle‑Alliance une marge de manoeuvre additionnelle pour poursuivre sa croissance avec encore plus de vigueur, tout en permettant à l'entreprise de satisfaire avec un écart encore plus considérable qu'autrefois aux normes de capital de la Société canadienne d'indemnisation pour les assurances de personnes, la SIAP, ainsi qu'à celles nouvellement annoncées par l'Inspecteur général des institutions financières, normes qui entreront en vigueur officiellement à partir de 1995 et qui seront pleinement effectives après une période de transition ».
+Analyse et conclusion
+[33] Le paragraphe 138(6) de la Loi se lit comme suit :
+138(6) Déduction pour dividendes reçus de sociétés imposables -- Dans le calcul du revenu imposable d'un assureur sur la vie pour une année d'imposition, aucune déduction ne peut être faite en application de l'article 112 sur le revenu de l'assureur pour l'année mais, sauf disposition contraire de cet article, le total des dividendes imposables -- autres que des dividendes sur des actions privilégiées à terme acquises par l'assureur dans le cours normal des activités de son entreprise -- inclus dans le calcul du revenu de l'assureur pour l'année et reçus par celui-ci de sociétés canadiennes imposables au cours de l'année est déductible de ce revenu.
+[34] L’avocat de l’intimée a affirmé dès le début de sa plaidoirie que l’intimée ne faisait pas valoir que les ententes étaient des simulacres ou des trompe‑l’œil. Ce que l’intimée faisait valoir c’est que la propriété des Titres du Portefeuille n’avait pas été transférée par les ententes et que s’il y avait eu un certain transfert, il ne s’agissait que du transfert de la nue‑propriété et non pas du transfert du droit au revenu.
+[35] L’avocat de l’appelante s’est référé à la décision de la Cour suprême du Canada dans Continental Bank of Canada c. R. (sub nom. Continental Bank Leasing Corp. c. Canada), [1998] 2 S.C.R. 298, [1998] S.C.J. No 63 (QL), décision écrite par le juge Bastarache, pour faire valoir que si la théorie du trompe-l’œil ne s’applique pas, on doit donner aux ententes les effets juridiques voulus par les parties.
+[36] Je cite le paragraphe 21 de cette décision :
+21 Une fois qu'il est jugé que la théorie du trompe-l'oeil ne s'applique pas, il est nécessaire d'examiner les documents qui constatent l'opération pour déterminer si les parties ont satisfait aux conditions de création de l'entité juridique qu'elles entendaient créer. La démarche appropriée est énoncée dans l'arrêt Orion Finance Ltd. c. Crown Financial Management Ltd., [1996] 2 B.C.L.C. 78 (C.A.), à la p. 84 :
+[TRADUCTION] La première étape consiste à déterminer si les documents constituent un trompe-l'oeil destiné à masquer l'accord véritablement intervenu entre les parties. Si oui, le tribunal doit faire abstraction du langage trompeur employé par les parties pour tenter de dissimuler la véritable nature de l'opération qu'elles ont conclue et il doit tenter, à l'aide de preuves extrinsèques, de découvrir quelle était la véritable opération. On ne prétend pas, en l'espèce, que l'un ou l'autre des documents constituait un trompe-l'oeil. On ne soutient pas non plus que les parties se sont écartées de ce qu'elles avaient convenu dans les documents, de telle sorte qu'elles devraient être considérées comme ayant, de par leur comportement, convenu de quelque nouvel accord.
+Une fois qu'il est accepté que les documents reflètent véritablement l'opération intervenue entre les parties, on dégage la qualification juridique appropriée de celle‑ci en interprétant les documents. Il ne s'ensuit pas que les termes retenus par les parties sont nécessairement déterminants. La substance de l'accord dont ont convenu les parties doit être dégagée du libellé employé, mais la qualification d'un document est déterminée par l'effet juridique qu'il est censé avoir; lorsque, suivant une interprétation appropriée, l'effet du document dans son ensemble est incompatible avec la terminologie employée par les parties, le libellé inapproprié doit céder le pas à la substance.
+[37] Quels sont les effets juridiques voulus par la Caisse et l’appelante? La Caisse investit 60 millions de dollars dans une débenture émise par l’appelante. Le même jour, cette dernière, doit utiliser la totalité du montant pour acquérir à leur valeur marchande des actions et obligations détenues par la Caisse.
+[38] À mon avis, prétendre que l’entente relative à la vente et à l’acquisition des actions n’en était pas une, revient à dire que tout le plan financier était en fait un stratagème : il n’y a pas eu 60 millions qui ont été prêtés à l’appelante et cette dernière n’a pas utilisé ces fonds pour acquérir des actions. En effet, des actions dont on n’acquiert pas la pleine propriété ne seront pas payées à la valeur marchande de la pleine propriété. Si l’on n’acquiert que la nue‑propriété quelle en est la valeur marchande? Pourquoi les parties ont-elles procédé à une entente de courtage si l’usufruitier demeurait la Caisse?
+[39] Il est vrai que l’appelante a concédé un pouvoir de gestion presque exclusif à l’égard des Titres en Portefeuille. Il est vrai aussi qu’un montant égal au revenu généré par les actions était payé à la Caisse. Il s’agissait là de conditions négociées dans le cadre d’un emprunt substantiel. Peuvent-elles amener à conclure qu’il n’y a pas eu transmission de la pleine propriété des actions alors que tout le plan en était un d’injection de capital?
+[40] L’authenticité du plan d’investissement et de redressement n’a pas été remise en question. Il faut donc prendre pour acquis que l’appelante a reçu 60 millions de la Caisse et que ces 60 millions ont été utilisés, aux termes de ce plan, pour acheter, à leur valeur marchande de pleine propriété, les actions et obligations en cause. Des actions et obligations dont elle avait la pleine propriété et qu’elle pouvait légalement inclure dans ses actifs. C’était le but de ces 18 mois de négociation : l’augmentation de la base de capital.
+[41] Il faut aussi se rappeler que la Caisse et l’appelante ont présenté leurs avoirs respectifs en conformité avec les ententes passées. De plus, dans le but de protéger son investissement, la Caisse a requis le droit d’avoir un administrateur au conseil d’administration de l’appelante.
+[42] Comme la décision de la Cour d’appel fédérale dans l’affaire Minet c. Canada, 1998 A.C.F. no 697 (QL) a été un élément déterminant dans la décision des vérificateurs je l’aborde brièvement. Cette décision reposait essentiellement sur le fait que l’appelant n’avait pas le droit légal aux commissions. Je me réfère au paragraphe 36 de cette décision :
+36 Si mon analyse est exacte, je ne vois pas comment le juge de la Cour de l'impôt a pu conclure que l'appelante a « reçu » les commissions ou accepté qu'elles soient payées à MIPI ou à Bowes, de façon à les garder « dans la famille », ou que l'appelante a exercé un « certain contrôle ou pouvoir » sur elles. Les trois compagnies formaient des entités juridiques complètement distinctes. Les lois étatiques américaines interdisaient purement et simplement aux assureurs américains de payer des commissions à un courtier non agréé comme l'appelante. Je suis donc d'avis que l'appelante ne pouvait pas posséder les commissions ou détenir quelque droit sur elles, ce qu'elle n'a pas fait. En conséquence, les commissions ne constituaient pas des revenus tirés de son entreprise. Les lois étrangères pertinentes empêchaient que cela ne se produise. Comme nous l'avons vu, la jurisprudence, tant au Canada qu'aux États‑Unis, tend fortement à ne pas considérer comme revenu d'un contribuable un montant que celui-ci ne possède ni ne maîtrise de façon absolue. J'estime que c'est le cas en l'espèce.
+[43] Les lois américaines interdisaient aux assureurs américains de payer des commissions à un courtier non agréé comme l’était dans cette affaire l’appelante. La Cour d’appel fédérale fut donc d’avis que cette appelante ne pouvait pas posséder les commissions ou détenir quelque droit sur ces dernières et, qu’en conséquence, les commissions ne constituaient pas du revenu tiré de son entreprise.
+[44] Dans l’affaire qui nous occupe, nous sommes dans une situation où l’appelante a droit aux dividendes si nous respectons l’intention des parties à l’égard des ententes qu’elles ont passées entre elles. Selon l’enseignement de la Cour suprême dans Continental Bank, ci-dessus, les effets juridiques voulus par les parties dans leurs ententes doivent être respectés à moins que ces ententes ne soient dans le cadre d’un simulacre ou d’un trompe-l’œil vis‑à‑vis le Ministre. Or, il est admis par l’intimée que nous ne sommes pas en matière d’un simulacre. Donc, les ententes doivent être respectées. La réception du dividende et le paiement d’un montant égal sont deux opérations distinctes ayant des sources juridiques distinctes et chacune doit recevoir son traitement fiscal propre.
+[45] En conclusion, l’appelante détenait la propriété des Titres en Portefeuille et, en tant que propriétaire des actions, a reçu les dividendes déclarés sur ces actions et les a inclus dans son revenu. Relativement à ces dividendes, elle a droit à la déduction prévue au paragraphe 138(6) de la Loi.
+[46] Les appels sont en conséquence accordés avec frais.
+Signé à Ottawa, Canada, ce 10e jour de janvier 2008.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2008CCI15
+Nº DU DOSSIER DE LA COUR : 2006-1176(IT)G
+INTITULÉ DE LA CAUSE : L'INDUSTRIELLE ALLIANCE, ASSURANCES ET
+SERVICES FINANCIERS INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 6 décembre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 10 janvier 2008
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Philip Nolan
+Me Luc Pariseau
+Avocat de l'intimée :
+Me Daniel Marecki
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Philip Nolan
+Cabinet : Lavery, De Billy
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

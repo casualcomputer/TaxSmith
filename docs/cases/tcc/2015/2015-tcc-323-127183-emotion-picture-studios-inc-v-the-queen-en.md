@@ -1,0 +1,174 @@
+---
+title: "Emotion Picture Studios Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/127183/index.do"
+last_modified: "2015-12-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 323"
+citation2: ""
+neutral_citation: "2015 TCC 323"
+decision_date: "2015-12-11"
+language: "en"
+item_id: "127183"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3037
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:03:08.455000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "96e4473e2d8a99b1ce2afbe2c4c0dcd118a6251b5d4dead10ceffc4f06011a04"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Emotion Picture Studios Inc. v. The Queen
+
+- Citation: 2015 TCC 323
+- Decision date: 2015-12-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3037, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Emotion Picture Studios Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-12-11
+Neutral citation
+2015 TCC 323
+File numbers
+2015-198(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-198(IT)I
+BETWEEN:
+EMOTION PICTURE STUDIOS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on December 4, 2015, at Hamilton, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+David Sabina
+Counsel for the Respondent:
+David Besler
+JUDGMENT
+The Appeal from the assessment made under the Income Tax Act with respect to the 2012 taxation year is dismissed.
+Signed at Ottawa, Canada, this 11th day of December 2015.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2015 TCC 323
+Date: 20151211
+Docket: 2015-198(IT)I
+BETWEEN:
+EMOTION PICTURE STUDIOS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] Emotion Picture Studios Inc. (“Emotion”) appeals by way of the Informal Procedure the Minister of National Revenue’s (the “Minister”) assessment of its 2012 taxation year, in which the Minister denied Investment Tax Credits of $51,196 based on $146,279 of what Emotion claimed were Scientific Research and Experimental Development expenditures (“SRED”). The Minister maintains that the work conducted by Emotion does not constitute SRED as defined in section 248 of the Income Tax Act (the “Act”), which reads:
+“scientific research and experimental development” means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and, in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work with respect to
+(e) market research or sales promotion,
+(f) quality control or routine testing of materials, devices, products or processes,
+(g) research in the social sciences or the humanities,
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+(j) style changes, or
+(k) routine data collection;
+[2] In the leading case of Northwest Hydraulic Consultants Ltd. v The Queen,[1] Chief Justice Bowman provided guidance as to how to interpret this definition:
+Although I do not presume to have the technological expertise of the persons who assisted in the preparation of the circular, or the witnesses who appeared before me, including the highly qualified experts who appeared on behalf of the appellant and the respondent, I should like to set out briefly my own understanding of the approach to be taken:
+1. Is there a technical risk or uncertainty?
+(a) Implicit in the term "technical risk or uncertainty" in this context is the requirement that it be a type of uncertainty that cannot be removed by routine engineering or standard procedures. I am not talking about the fact that whenever a problem is identified there may be some doubt concerning the way in which it will be solved. If the resolution of the problem is reasonably predictable using standard procedure or routine engineering there is no technological uncertainty as used in this context.
+(b) What is "routine engineering"? It is this question, (as well as that relating to technological advancement) that appears to have divided the experts more than any other. Briefly it describes techniques, procedures and data that are generally accessible to competent professionals in the field.
+2. Did the person claiming to be doing SRED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty? This involves a five stage process:
+(a) the observation of the subject matter of the problem;
+(b) the formulation of a clear objective;
+(c) the identification and articulation of the technological uncertainty;
+(d) the formulation of an hypothesis or hypotheses designed to reduce or eliminate the uncertainty;
+(e) the methodical and systematic testing of the hypotheses.
+It is important to recognize that although a technological uncertainty must be identified at the outset an integral part of SRED is the identification of new technological uncertainties as the research progresses and the use of the scientific method, including intuition, creativity and sometimes genius in uncovering, recognizing and resolving the new uncertainties.
+3. Did the procedures adopted accord with established and objective principles of scientific method, characterized by trained and systematic observation, measurement and experiment, and the formulation, testing and modification of hypotheses?
+(a) It is important to recognize that although the above methodology describes the essential aspects of SRED, intuitive creativity and even genius may play a crucial role in the process for the purposes of the definition of SRED. These elements must however operate within the total discipline of the scientific method.
+(b) What may appear routine and obvious after the event may not have been before the work was undertaken. What distinguishes routine activity from the methods required by the definition of SRED in section 2900 of the Regulations is not solely the adherence to systematic routines, but the adoption of the entire scientific method described above, with a view to removing a technological uncertainty through the formulation and testing of innovative and untested hypotheses.
+4. Did the process result in a technological advance, that is to say an advancement in the general understanding?
+(a) By general I mean something that is known to, or, at all events, available to persons knowledgeable in the field. I am not referring to a piece of knowledge that may be known to someone somewhere. The scientific community is large, and publishes in many languages. A technological advance in Canada does not cease to be one merely because there is a theoretical possibility that a researcher in, say, China, may have made the same advance but his or her work is not generally known.
+(b) The rejection after testing of an hypothesis is nonetheless an advance in that it eliminates one hitherto untested hypothesis. Much scientific research involves doing just that. The fact that the initial objective is not achieved invalidates neither the hypothesis formed nor the methods used. On the contrary it is possible that the very failure reinforces the measure of the technological uncertainty.
+5. Although the Income Tax Act and the Regulations do not say so explicitly, it seems self-evident that a detailed record of the hypotheses, tests and results be kept, and that it be kept as the work progresses.
+[3] The Minister argues that there was no uncertainty nor technological advancement in the work performed by Emotion, thus the expenditures do not qualify as SRED.
+[4] So what did Emotion do in 2012 to claim $146,274 worth of qualifying SRED? I note at the outset that Emotion, by proceeding in the Informal Procedure, has limited the claim to $25,000, not the full $51,196. Also, there was no dispute that the expenses were actually incurred.
+[5] Emotion produced two witnesses at trial, the chief executive officer, Mr. Scott Wilson and a data scientist, Mr. Moodley. Mr. Wilson emphasized at the outset that in the world of big data, the internet world, there is considerable uncertainty. In the area that Emotion is interested in, optimizing the efficiencies of search engines, the very fact that only one trillion of thirty trillion pages of information is ever accessed glaringly points out the uncertainty with respect to search engines generally. In the Appeal Emotion summarized the technological uncertainties as follows:
+The technological uncertainty proposed in this work, is to identify and evaluate the contributing variables greater than 200 used in Google algorithms to structure the data better for indexing the pages in accordance with the key word that has been searched.
+[6] Emotion’s objective was to create algorithms that would organize or structure data to significantly increase the likelihood of data being retrieved while at the same time decreasing required links to make that happen. This was not limited to simply the words on a page, but also off-page influences such as the location of the searcher for example, as well as the interrelationship between thousands of variables that affect a search. As Mr. Wilson explained, some variables work together synergistically while others do not. Again, in the Notice of Appeal the objectives were described as follows:
+i. To create a data structure to keep page rank on the first page for potential key words; data is the information which is relevant to potential customers.
+ii. To increase page ranking by 50% in one month versus right now it takes six months.
+iii. To reduce labour cost and time required for increasing the page ranks on internet and accurate indexing of the pages.
+iv. To implement a method for indexing and optimizing the data to rank high in key word search through various search engines.
+[7] Emotion acquired a Google Search Appliance so it could test how Google classifies data and breaks it down into data collections. The Appellant did not limit its work just to Google but covered other search engines as well. It created tests using similar language in different formats (in one experiment 25 websites were created) to figure out how data could be more efficiently organized for optimal retrieval. Mr. Wilson objected to the Respondent’s portrayal of these activities as reverse engineering of the Google search engine, as he believed it was much broader research and certainly not limited to Google. Emotion described in its Appeal that the technological advancement was to propose the most effective structure of data for indexing pages which can be used by search engine companies to optimize their algorithms to more effectively use the 200 factors in the algorithm; in effect, extending the knowledge about search engine algorithms for indexing pages. Mr. Moodley testified that industry protocols have been developed through a consortium of experts on these issues since 2012, but that Emotion was developing ways of structuring data before these protocols were developed. The Canada Revenue Agency put forward its views on the uncertainty and technological advances in a proposal letter suggesting:
+Uncertainty described in determining the effects of a web page’s keyword density on its ranking, or the effects of footer links, are general uncertainties with the outcome of a process. For example, it is uncertain what the results of having a web page Facebook-like over a million times will have on its ranking on Google. However, this type of uncertainty is not technological because there is no uncertainty with the fact that technologies associated with the process work. Associated technologies for the given example include: background HTTP requests, asynchronous web technologies, etc.
+Technological uncertainty or obstacle within the context of the scientific method is uncertainty that an experienced professional would have regarding whether or not a goal can be achieved using her/his current knowledge of technology. One has to know the underlying technologies used by search engines in order to perform work that addresses these uncertainties. In this case, it is known that major search engine operators constantly change their ranking algorithms and the claimant has acknowledged that they do not know the methods used by major search engines in ranking websites. The fact that the intellectual property in search engines algorithms is not shared is not a technological uncertainty/obstacle.
+…
+The attempt to identify the undisclosed intellectual property of search algorithms used for ranking websites and the tests claimant ran for this purpose is not a technological advancement. The trial and error process in this project is the standard approach to reverse engineering the search algorithms and the results often cannot be consistently repeated and verified as major search engine operators are constantly changing their ranking algorithms.
+[8] Emotion maintains there were uncertainties addressed by their research, with clear objectives in mind. They identified hypothesis for ranking variables and reached conclusions on optimal methods to structure data. The Respondent argues it was not Emotion, but the major search engine companies such as Google or Yahoo for example, that created the technology, and all Emotion did was rely on that existing technology to conduct its own market research. It was just sorting the data. The Respondent also suggested the nature of the work falls more appropriately into the exceptions in section 248 of the Act of either market research or routine data collection.
+[9] I have particular concern with respect to two areas of the usual SRED analysis: first, the issue of uncertainties, and second, the identification of a technological advancement. While Mr. Wilson claims in sweeping terms there are unlimited uncertainties when dealing with the internet generally, I do not find this as an adequate response to clearly establishing the particular uncertainties addressed by Emotion’s research. I glean from Mr. Wilson’s testimony that the particular uncertainty was how on-page and off-page variables interrelate to determine ranking and how to structure data to improve ranking. Certainly, I would consider this in the nature of applied research, but is this type of uncertainty one that, citing Northwest Hydraulics, “cannot be removed by routine engineering or standard procedures”. With the greatest respect to Mr. Wilson whose enthusiasm for and considerable knowledge in the research carried on by Emotion was evident, I have not been convinced that the work was other than routine engineering or standard procedures. The experiments of submitting several different versions of websites to determine the significance of variables relies on existing technology in a routine manner. As explained in Northwest Hydraulics, “routine” describes techniques, procedures and data generally available to competent professionals in the field. And that is how I interpret what Emotion did.
+[10] The second area of concern is the question of identifying the technological advancement. Here, the advancement would be the determination of algorithms that relate variables for purposes of ranking sites. I entertain no doubt this is complicated given the hundreds or thousands of variables, but I fail to see how it is a scientific advancement to figure this out. It strikes me more of solving an equation someone has already solved, rather than coming up with a new proof. Or using the well-worn mousetrap analogy, it is not creating a better mousetrap, just figuring out why mice get caught in existing traps (location, nature of enticement etc.). I simply do not see the technological advancement. I see thorough, extensive but routine research leading to a practical application for example, for those who rely on the internet to market their product. I see neither the evolution of computer hardware or software that I could label as a technological advancement that would justify qualifying Emotion’s expenditures as SRED.
+[11] The Appeal is dismissed.
+Signed at Ottawa, Canada, this 11th day of December 2015.
+“Campbell J. Miller”
+C. Miller J.
+CITATION:
+2015 TCC 323
+COURT FILE NO.:
+2015-198(IT)I
+STYLE OF CAUSE:
+EMOTION PICTURE STUDIOS INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+December 4, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+December 11, 2015
+APPEARANCES:
+Agent for the Appellant:
+David Sabina
+Counsel for the Respondent:
+David Besler
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 98 DTC 1839 (TCC).

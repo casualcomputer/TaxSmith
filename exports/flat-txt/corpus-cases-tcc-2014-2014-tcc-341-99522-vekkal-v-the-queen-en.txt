@@ -1,0 +1,237 @@
+Title: Vekkal v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/99522/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-341-99522-vekkal-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-11-18
+
+# Vekkal v. The Queen
+
+- Citation: 2014 TCC 341
+- Decision date: 2014-11-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5244, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vekkal v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-11-18
+Neutral citation
+2014 TCC 341
+File numbers
+2013-882(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-882(IT)I
+BETWEEN:
+JOSE VEKKAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the appeals of Remmy Vekkal (2013-883(IT)I) on September 15, 2014, at Vancouver, British Columbia.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Terry Gill
+Counsel for the Respondent:
+Selena Sit
+Christa Akey
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2005, 2006, 2007, 2008 and 2009 taxation years are dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 18th day of November 2014.
+“Robert J. Hogan”
+Hogan J.
+Docket: 2013-883(IT)I
+BETWEEN:
+REMMY VEKKAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the appeals of Jose Vekkal (2013-882(IT)I) on September 15, 2014, at Vancouver, British Columbia.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Terry Gill
+Counsel for the Respondent:
+Selena Sit
+Christa Akey
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2006, 2007 and 2008 taxation years are dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 18th day of November 2014.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2014 TCC 341
+Date: 20141118
+Dockets: 2013-882(IT)I
+2013-883(IT)I
+BETWEEN:
+JOSE VEKKAL,
+REMMY VEKKAL,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Overview [1] The Appellants, Jose Vekkal and Remmy Vekkal, husband and wife, are appealing reassessments by which the Minister of National Revenue (the “Minister”) disallowed claims for charitable donations as follows:
+Jose Vekkal
+Taxation Year
+Donations Claimed
+Donations Disallowed
+2005
+$4,073
+$4,000
+2006
+$9,990
+$9,990
+2007
+$15,000
+$15,000
+2008
+$22,800
+$22,800
+2009
+$22,000
+$22,000
+Remmy Vekkal
+Taxation Year
+Donations Claimed
+Donations Disallowed
+2006
+$3,990
+$3,990
+2007
+$5,000
+$5,000
+2008
+$9,200
+$9,200
+[2] The appeals were heard on common evidence.
+[3] The Minister alleges that the Appellants purchased false charitable donation receipts from their accountants, Fareed Raza and Saheem Raza (the “Raza Brothers”). The Raza Brothers provided accounting and tax services under the trade names Fareed Raza & Co. Inc. and F & A Accounting Corporation (“FA”). The Raza Brothers were charged with fraud for making false statements on income tax returns prepared by them for their clients.
+[4] During oral argument, counsel for the Appellants conceded that the evidentiary record did not support the Appellants’ appeals in respect of the 2005, 2008 and 2009 taxation years. Consequently, the Appellants have chosen not to pursue their appeals in respect of those years. The remaining reassessments were issued beyond the normal reassessment period. Therefore, the Respondent has the burden of establishing that the Appellants made a misrepresentation in the circumstances set out for in subparagraph 152(4)(a)(i) of the Income Tax Act (the “Act”).
+II. Factual Background [5] The Appellants immigrated to Canada from India in 2000.
+[6] The Appellants are both well educated. Mr. Vekkal earned an engineering degree in India and worked as a marine engineer for approximately 17 years prior to moving to Canada. Ms. Vekkal studied chemistry in India and graduated with a university degree.
+[7] Mr. Vekkal had to complete further academic training in Canada in order to be accredited as a power engineer. Consequently, he accepted employment outside his field of training. Among the various jobs he has held since his arrival in Canada, he worked as a stationary engineer for the Marriott Hotel (the “Marriott”). While he was working at the Marriott, a co-worker, identified by his first name only, advised Mr. Vekkal that he should have his tax returns prepared by the Raza Brothers. In earlier years, the Appellants had used H & R Block to prepare their tax returns.
+[8] Mr. Vekkal testified that Fareed Raza (“Mr. Raza”) introduced him to the Mehfuz Children Welfare Trust (the “Mehfuz Trust”) and encouraged him to make cash donations to that charity. All the gifts were made in cash through Mr. Raza.
+[9] Mr. Vekkal claims he conducted Internet-based research on the Mehfuz Trust and learned that the trust was active in providing health care and education to poor children in Bangladesh. He alleges that he also verified that the Mehfuz Trust was a registered charity.
+[10] Mr. Vekkal claims that starting in 2007 he began making cash gifts on a monthly basis to the Mehfuz Trust. This practice continued until 2010. With respect to the 2005 taxation year, Mr. Vekkal testified that he made a one-time cash payment of $4,000. He gifted these funds to the charity through Mr. Raza, who received them in the spring of 2006 when Mr. Vekkal signed his return for the 2005 taxation year.
+[11] Mr. Vekkal alleges that he used cash rental payments received from his two rental proprieties to make monthly payments to Mr. Raza on the understanding that they would be turned over to the Mehfuz Trust. He would deliver his monthly gifts to Mr. Raza in a paper envelope. Mr. Vekkal acknowledged that he did not demand receipts from Mr. Raza for the alleged monthly gifts. He claims that he tracked the monthly gifts on an Excel spreadsheet prepared each year. He deleted the spreadsheets after he had filed his tax returns, which included a receipt from the Mehfuz Trust obtained by Mr. Raza.
+[12] Mr. Vekkal testified that, to optimize tax savings, it was Mr. Raza who decided how Mr. Vekkal’s alleged monthly cash donations would be divided between his wife and himself for the 2006 to 2008 taxation years.
+[13] Ms. Vekkal also testified. She claimed that her husband told her that he made cash donations on her behalf. However, she admitted she had limited knowledge of the circumstances surrounding the gifts because her husband handled all of their financial affairs. She met with Mr. Raza only briefly once each year when she signed her returns. She acknowledged that she did not read the returns before she signed them.
+[14] Ms. Jane Yang, an investigator with the enforcement division at the Vancouver Tax Services Office of the Canada Revenue Agency (the “CRA”), testified on behalf of the Respondent. In October of 2008, while attending an internal training session in Toronto, Ms. Yang learned that one of her colleagues in Toronto was having success in uncovering schemes used by tax preparers to sell forged charitable donation receipts to their clients.
+[15] On her return to Vancouver, Ms. Yang discovered that a number of clients of FA appeared to have made large donations to the Mehfuz Trust. The donation pattern appeared to be abnormal. The taxpayers were donating a significant portion of their net income to the Mehfuz Trust.
+[16] A criminal investigation was launched and a seizure was conducted at FA’s offices on July 14, 2010. The seized documents included receipts from the Mehfuz Trust, which Ms. Yang believed were forged, and Mr. Raza’s desk calendar. The calendar contained annotations that suggested that Mr. Raza was recording amounts that he was receiving in return for caregiver and donation receipts. Ms. Yang was able to establish that, in many cases, the amount indicated on the calendar alongside a client’s name represented from 8% to 11% of the amount claimed on the client’s return as a gift to the Mehfuz Trust. Ms. Yang also observed that the receipts for the Mehfuz Trust seized at the FA offices were different from the official receipts issued by the Mehfuz Trust.
+[17] As a result of her investigation, Ms. Yang concluded that the Raza Brothers forged donation receipts totalling approximately $12,000,000. Ms. Yang estimated that this scheme resulted in a loss of tax revenue of approximately $4,700,000.
+[18] Mr. Mashud Miah, the chairman and founder of the Mehfuz Trust, also testified on behalf of the Respondent. Mr. Miah was born in Bangladesh and immigrated to Canada in 1985. In addition to his duties at the Mehfuz Trust from 2001 to 2009, Mr. Miah worked as a cleaner.
+[19] Mr. Miah explained that the Mehfuz Trust was named after his son, Mehfuz, who was born prematurely at a hospital in Vancouver. He believes that had his son been born prematurely in Bangladesh he likely would not have survived. In 1997, Mr. Miah was involved in two serious car accidents, and the treatment he received while in hospital again made him recognizant of the quality of health care services provided at Canadian hospitals. These events inspired him to establish the Mehfuz Trust in 2000-2001, with the assistance of Fareed Raza, as a vehicle to raise funds in Canada for the purpose of building and operating a medical clinic in Bangladesh. According to Mr. Miah, the clinic was built, and it offered health care to poor and handicapped children from 2003 to 2009. The clinic’s operations were abandoned in 2009 after the Mehfuz Trust became tainted by the controversy surrounding the actions of the Raza Brothers.
+[20] Mr. Miah alleges that in 2008 he discovered Saheem Raza forging charitable donation receipts of the Mehfuz Trust on entering Saheem’s office, which he was to clean as part of his cleaning services arrangement with FA. He testified that he saw Saheem signing his (Mr. Miah’s) name to a receipt. He subsequently saw forged receipts lying around the office. In the spring of 2008, after consulting with a lawyer, he reported to the CRA that he suspected that the Raza Brothers were forging charitable donation receipts in the name of the Mehfuz Trust. Mr. Miah testified that he stopped using FA’s accounting services in 2007 as a result of his suspicions regarding the Raza Brothers’ improprieties.
+III. Analysis [21] The Respondent presented common evidence in these appeals and the appeals of Martin Izkendar (2013-220(IT)I), Azim Bani (2012-3541(IT)I), Ruben Nocon (2013-635(IT)I), Iraj Rasuli (2013-886(IT)I), Khorshid Rasuli (2013-887(IT)I), Ladan Abootaleby-Pour (2013‑1779(IT)I) and Oleg Komarynsky (2013‑3354(IT)I). At the conclusion of the hearing of these appeals, the Appellants argued that the evidence presented by the other seven appellants or obtained through their cross-examination should not form part of the record in the Appellants’ appeals.
+[22] I agree with the Appellants’ submission that, while the order of the case management judge allowed the Respondent to present common evidence, it did not deal with the specific question of whether the other appellants’ evidence would form part of the common record. I note that the Appellants were not served with the pleadings in the other appeals and did not participate in the examination or cross-examination of the other appellants. Therefore, I will disregard the evidence of the other appellants for the purpose of disposing of these appeals. In any event, I did not find that evidence particularly relevant for the purpose of deciding this matter.
+[23] The Appellants’ 2006 and 2007 taxation years were reassessed beyond the normal reassessment period. Therefore, the Respondent bears the onus of establishing that the Appellants made with respect to the gifts they claim to have made a misrepresentation attributable to neglect, carelessness or wilful default. The Appellants argue that the Respondent has failed to discharge her onus in this regard because Mr. Miah was not a credible witness and Ms. Yang’s evidence was based on conjecture.
+[24] I agree with the Appellants’ submissions that Mr. Miah’s testimony was inconsistent and unreliable. Mr. Miah claimed that he was not responsible for false information in the charity’s annual returns that he signed each year as chairman. However, when I pointed out that the return filed for the charity’s 2006 taxation year indicated donations of $313,000, an amount considerably greater than the funds he acknowledged that the charity had raised in that year, he was quick to point out that that figure was incorrect. He claims that he had relied on Mr. Raza to complete the return. His answer to my question indicates that Mr. Miah was perfectly capable of identifying this mistake when he signed the return.
+[25] The evidence shows that Mr. Miah has a grade 7 education and has declared bankruptcy twice in Canada. He clearly did not have the financial acumen to run a charity. He worked as a janitor on an on-call basis and the family income was about $30,000. Notwithstanding his limited means, he claims he was willing to donate $7,000 to start the charity. He testified that the annual donations to the Mehfuz Trust were $30,000, yet in each year the charity reported that it received a higher amount of donations.
+[26] With respect to Ms. Yang’s testimony, I disagree with the Appellants’ assessment. Ms. Yang’s theory that the Appellants purchased grossed-up charitable donation receipts was not based on conjecture, as suggested by the Appellants. Rather, I believe Ms. Yang’s conclusion was based on a reasonable inference drawn from facts discovered during her investigation. She noted that the Appellants’ alleged donations were inconsistent with their prior donation history. She verified the books, records and information returns of the Mehfuz Trust and noted that the total amount of donations claimed by FA’s clients exceeded the amounts reported by the Mehfuz Trust. Ms. Yang noted as well that other clients of FA also made large cash donations that were inconsistent with their financial abilities.
+[27] She observed that many clients of FA did not provide donation receipts for the donations claimed on their returns. The receipts that were provided did not contain the information prescribed under the Act. Finally, she noted that the signature of Mr. Miah varied from receipt to receipt. She concluded that the Raza Brothers had forged Mr. Miah’s signature because the receipts were found on their premises.
+[28] After considering all of the evidence, I find the Appellants’ explanations of the circumstances surrounding their alleged charitable gifts to be implausible.
+[29] First, I do not believe that the Appellants were in a financial position to make the alleged donations. With respect to the relevant taxation years, Mr. Vekkal reported net income and claimed donations to the Mehfuz Trust in the following amounts:
+Taxation Year
+Reported Net Income
+Alleged Donations
+% of Net Income
+2005
+$38,053
+$4,000
+10.5%
+2006
+$37,252
+$9,990
+26.8%
+2007
+$47,619
+$15,000
+31.5%
+2008
+$74,467
+$22,800
+30.6%
+2009
+$74,908
+$22,000
+29.4%
+[30] For her part, Ms. Vekkal reported net income and claimed donations to the Mehfuz Trust as follows:
+Taxation Year
+Reported Net Income
+Alleged Donations
+% of Net Income
+2006
+$20,627
+$3,990
+19.3%
+2007
+$31,315
+$5,000
+16%
+2008
+$31,056
+$9,200
+29.6%
+[31] As seen from the above, the Appellants’ alleged donations represent a significant portion of their net income for each of the relevant years. The total amount of donations claimed for the 2005 to 2009 taxation years was almost $92,000, yet the Appellants acknowledge that they never met with officials of the Mehfuz Trust to learn first-hand about its activities.
+[32] The Appellants acknowledged that they had two children living at home who attended public school in the years under review. They owed a mortgage on their personal residence. They owned two cars. The Appellants earned employment income in the years under review. Mr. Vekkal claimed that he used the gross rental receipts from their rental properties to make the donations. I observe that the rental properties generated losses of $3,260, $2,311, $125 and $2,054 for 2005, 2006, 2008 and 2009, respectively. A small net profit of $798 and $509 was reported for the 2007 and 2008 taxation years respectfully. I surmise that the revenue from these properties was needed to cover rental expenses. Furthermore, the Appellants offered no corroboration of their claim that their tenants paid them in cash. If this was the case, I imagine that the Appellants’ tenants would have demanded receipts which could have been tendered by the Appellants as evidence. I also have difficulty accepting that Ms. Vekkal would not have been consulted on the amount of the couple’s large annual cash donations to the Mehfuz Trust.
+[33] Mr. Vekkal’s testimony appeared to be scripted and rehearsed. For example, counsel for the Respondent questioned Mr. Vekkal on how the couple could afford to make large cash donations to the charity. I surmise that Mr. Vekkal would have had to budget carefully for the alleged large monthly donations. I would like to have known how much of the family’s net income remained to cover their personal living expenses, mortgage expenses, savings and the carrying costs of their two rental properties. Mr. Vekkal appeared unwilling to situate the alleged donations in the context of his family’s other living expenses. In answer to counsel’s question, Mr. Vekkal responded curtly and without further elaboration to the effect that his family had sufficient monthly cash flow to fund the donations. In short, I was left with the impression that Mr. Vekkal wished to avoid the question altogether.
+[34] The alleged large gifts are also inconsistent with the Appellants’ previous donation history. Moreover, I find it difficult to believe that Mr. Vekkal would have given thousands of dollars to Mr. Raza on a monthly basis without requesting some record of receipt from him. I find it equally implausible that the Appellants would commit to gifting a substantial amount of their monthly net income without meeting with officials of the Mehfuz Trust to learn first-hand about the organization’s activities in Bangladesh.
+[35] Considering the evidence as a whole, I am satisfied that the Appellants purchased from their accountants false donation receipts that were used to claim tax credits to which they were not entitled.
+[36] While the Raza Brothers were the instigators of the false donation receipt scheme, the Appellants should not be spared. Parliament has made it clear that taxpayer conduct of this sort is not acceptable. Fiscal disobedience is a societal concern. As Cory J. of the Supreme Court of Canada notes, there exists a high correlation between the veracity of tax returns and the proper functioning of government:[1]
+[. . .] The Income Tax Act is a major source of funds for the federal government. Its provisions are applicable to most adult Canadians. [. . .] Those who [. . .] evade the payment of income tax not only cheat the State of what is owing to it, but inevitably increase the burden placed upon the honest taxpayers. It is ironic that those who evade payment of taxes think nothing of availing themselves of the innumerable services which the State provides by means of taxes collected from others.
+The entire system of levying and collecting income tax is dependent upon the integrity of the taxpayer in reporting and assessing income. If the system is to work, the returns must be honestly completed. [. . .]
+[37] Mr. Vekkal participated in the donation scheme for a period of five years. This cannot be dismissed as a momentary lapse of judgment. With respect to Ms. Vekkal, even if I were to accept that she blindly placed a misguided trust in others she cannot be absolved of her responsibility. Indeed, the case law has held that, even where an income tax return is prepared by a third party, the taxpayer has an obligation to review its contents and ensure its accuracy.[2] It has also been held that signing a return claiming substantial business losses without first verifying it constitutes neglect, carelessness, or wilful default.[3] In my view, a similar position could be taken in respect of claims for substantial donations.
+[38] In light of the foregoing, I find that the Appellants knowingly made false representations in respect of the donations disallowed by the Minister for the 2006 and 2007 taxation years. Therefore, the Minister was justified in reassessing the Appellants for those years beyond the normal reassessment period.
+[39] Finally, I accept the Appellants’ concession that the evidentiary record does not support the Appellants’ appeals for the other taxation years at issue.
+[40] Therefore, the reassessments are upheld and the appeals are dismissed.
+Signed at Ottawa, Canada, this 18th day of November 2014.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2014 TCC 341
+COURT FILE NOS.:
+2013-882(IT)I
+2013-883(IT)I
+STYLE OF CAUSE:
+JOSE VEKKAL and REMMY VEKKAL v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 15, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+November 18, 2014
+APPEARANCES:
+Counsel for the Appellants:
+Terry Gill
+Counsel for the Respondent:
+Selena Sit
+Christa Akey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Terry Gill
+Firm:
+Gill Tax Law
+Vancouver, British Columbia
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Knox Contracting Ltd. v. Canada, [1990] 2 S.C.R. 338 at 349-50 (QL paras. 17-18).
+[2] Spence v. Canada Revenue Agency, 2011 FC 426, 2011 DTC 5070; affirmed 2012 FCA 58, 2012 DTC 5061.
+[3] Yazdani v. The Queen, 2012 TCC 371, 2012 DTC 1303.

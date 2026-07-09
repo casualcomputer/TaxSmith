@@ -1,0 +1,331 @@
+---
+title: "Taber Solids Control (1998) Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29478/index.do"
+last_modified: "2009-10-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 527"
+citation2: ""
+neutral_citation: "2009 CCI 527"
+decision_date: "2009-10-19"
+language: "fr"
+item_id: "29478"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6296
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:27:51.808000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "759bbeba30d3a58b5dd03be76ec935daf042b90c1c5273aeaaf60855be90c2e8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Taber Solids Control (1998) Ltd. c. La Reine
+
+- Citation: 2009 CCI 527
+- Decision date: 2009-10-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6296, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Taber Solids Control (1998) Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-10-19
+Référence neutre
+2009 CCI 527
+Numéro de dossier
+2006-1205(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1205(IT)G
+ENTRE :
+TABER SOLIDS CONTROL (1998) LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Taber Solids Control Ltd. 2006-1206(IT)G
+le 27 août 2009, à Edmonton (Alberta)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me Donald Cherniawsky
+Avocate de l’intimée :
+Me Margaret M. McCabe
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000 et 2001 est rejeté; un seul mémoire de frais est accordé.
+Signé à Ottawa, Canada, ce 19e jour d’octobre 2009.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 16e jour de mars 2010.
+François Brunet, réviseur
+Dossier : 2006-1206(IT)G
+ENTRE :
+TABER SOLIDS CONTROL LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Taber Solids Control (1998) Ltd. 2006-1205(IT)G
+le 27 août 2009, à Edmonton (Alberta)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me Donald Cherniawsky
+Avocate de l’intimée :
+Me Margaret M. McCabe
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000 et 2001 est rejeté; un seul mémoire de frais est accordé.
+Signé à Ottawa, Canada, ce 19e jour d’octobre 2009.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 16e jour de mars 2010.
+François Brunet, réviseur
+Référence : 2009 CCI 527
+Date : 20091019
+Dossiers : 2006-1205(IT)G
+2006-1206(IT)G
+ENTRE :
+TABER SOLIDS CONTROL (1998) LTD. et
+TABER SOLIDS CONTROL LTD.
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Taber Solids Control Ltd. (la société « Old Taber ») et Taber Solids Control (1998) Ltd. (la société « Taber 1998 ») interjettent appel des nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») à l’égard de leurs années d’imposition 2000 et 2001, compte tenu du fait que, contrairement à ce que le ministre affirme, elles n’étaient pas des sociétés associées. Avant le 1er décembre 1998, Old Taber appartenait à parts égales à Ken et à Beth Taber (« M. Taber » et « Mme Taber »). Old Taber avait pour activité la location de matériel, et principalement de centrifugeuses pour l’industrie des champs de pétrole. Par suite d’une réorganisation, au mois de novembre 1998, l’entreprise a été scindée entre Old Taber, qui a conservé le matériel, et Taber 1998, qui louait le matériel d’Old Taber et qui, de son côté, exploitait l’entreprise de location de matériel. Après la réorganisation, Mme Taber détenait toutes les actions d’Old Taber, et M. Taber détenait la majorité des actions de Taber 1998, une fiducie familiale détenant le reste.
+[2] En plus de recevoir un exposé conjoint des faits, j’ai entendu les témoignages de M. Taber, de Mme Taber, de leur comptable externe, M. Wickenberg, et de leur aide‑comptable interne, Lee Stelte (« Mme Stelte »). Les parties s’entendent sur les faits suivants, qui doivent donc être tenus pour exacts :
+[traduction]
+1. Taber Solids Control Ltd. (la société « TSC ») a été constituée en personne morale le 11 septembre 1990.
+2. Pendant la période pertinente, TSC était une « société privée sous contrôle canadien » au sens de la Loi.
+3. Depuis le 30 novembre 1998, toutes les actions émises de TSC appartiennent à Beth Taber, qui résidait au Canada pendant toute la période où les opérations en cause ont été effectuées.
+4. Avant le 30 novembre 1998, 50 p. 100 des actions de TSC appartenaient à Beth Taber et 50 p. 100 des actions de TSC appartenaient au mari de Beth Taber, Ken Taber, qui résidait au Canada pendant toute la période où les opérations en cause ont été effectuées.
+5. Avant le 30 novembre 1998, TSC avait pour activité la location, la réparation et la remise à neuf de matériel spécialisé (et surtout de centrifugeuses et de séparateurs) utilisé dans l’industrie pétrolière et gazière dans l’Ouest du Canada. Ken Taber comptait de nombreuses années d’expérience dans l’industrie pétrolière et gazière, et avait notamment une connaissance spécialisée du matériel appartenant à TSC et fourni par TSC.
+6. Taber 1998 a initialement été constituée en personne morale sous le nom de Nicody Corp. le 16 février 1994; elle a changé de nom pour adopter celui de Taber Solids Control (1998) Ltd. le 27 novembre 1998 ou vers cette date.
+7. Avant le 30 novembre 1998, 50 p. 100 des actions de Taber 1998 appartenaient à Beth Taber et 50 p. 100 des actions de Taber 1998 appartenaient au mari de Beth Taber, Ken Taber.
+8. Pendant la période pertinente, Taber 1998 était une « société privée sous contrôle canadien » au sens de la Loi. Depuis le 30 novembre 1998, toutes les actions émises de Taber 1998 appartiennent à Ken Taber et à la fiducie familiale Taber (la « fiducie »).
+9. Le 30 novembre 1998 et le 1er décembre 1998, TSC et Taber 1998 ont entrepris une restructuration des actions et des actifs (la « restructuration organisationnelle »).
+10. Dans le cadre de cette restructuration, Ken Taber a transféré 50 actions ordinaires de catégorie A de TSC à Taber 1998 le 30 novembre 1998, en vertu de l’article 85 de la Loi, en échange de 5 000 actions privilégiées de catégorie K (avec droit de vote) et de 5 000 actions privilégiées de catégorie L (avec droit de vote), dont le prix de rachat global était de 1 250 000 $, soit 500 000 $ pour les actions privilégiées de catégorie K et 750 000 $ pour les actions privilégiées de catégorie L. Cette valeur globale de 1 250 000 $ représentait la valeur des actions de Ken Taber dans TSC au 30 novembre 1998.
+11. De plus, le 30 novembre 1998, TSC a racheté les 50 actions de catégorie A appartenant à Taber 1998 pour la somme de 1 250 000 $ et Taber 1998 a utilisé le produit de la vente des actions pour payer les actifs transférés de TSC à Taber 1998 dans le cadre de la restructuration organisationnelle et pour créer une dette intersociétés payable par TSC à Taber 1998. Le résultat net des opérations du 30 novembre 1998 était que l’entreprise de location et d’entretien antérieurement exploitée par TSC a été séparée pour simplement devenir une entreprise de location de matériel, pour laquelle TSC avait un seul client, alors que Taber 1998 a pris en charge tous les travaux de réparation et d’entretien et s’est chargée de traiter avec de multiples clients de l’industrie pétrolière et gazière.
+12. Le 1er décembre 1998 ou vers cette date, TSC et Taber 1998 ont signé une entente (l’« entente de location de matériel »), qui stipulait ce qui suit :
+a. TSC devait louer son matériel à Taber 1998 au taux de 40 p. 100 du prix de location mensuel que New Taber tirait de la location de matériel;
+b. TSC devait verser à Taber 1998 un montant mensuel de 500 $ pour les services de comptabilité;
+c. TSC devait verser à Taber 1998 un montant mensuel de 50,95 $ pour les avantages accordés à Beth Taber au titre des soins de santé.
+13. Depuis le 1er décembre 1998, Taber 1998 exploite l’entreprise de location, de réparation et d’entretien, et fournit notamment des séparateurs et des centrifugeuses ainsi que du matériel pétrolier et gazier spécialisé à des sociétés pétrolières et gazières sans lien de dépendance, prend en charge l’entretien du matériel qu’elle loue, ainsi que de la réparation des séparateurs et de matériel appartenant à des tiers, assure le service à la clientèle et cherche à accroître sa clientèle.
+14. Le ministre a initialement établi une cotisation à l’égard de TSC pour les années d’imposition 2000 et 2001 par des avis datés du 19 juin 2001 et du 22 mars 2002, respectivement.
+15. Le ministre a initialement établi une cotisation à l’égard de Taber 1998 pour les années d’imposition 2000 et 2001 par des avis datés du 4 mai 2001 et du 27 mars 2003, respectivement.
+16. Par un avis daté du 6 avril 2004, le ministre a établi une nouvelle cotisation à l’égard de TSC en vue, entre autres choses, de répartir le plafond des affaires pour l’année entre TSC et Taber 1998 compte tenu du fait que l’appelante et Taber 1998 étaient des sociétés associées au sens des alinéas 256(1)a) et 256(1)b), ou subsidiairement, qu’elles étaient réputées être associées l’une à l’autre selon le paragraphe 256(2.1).
+17. TSC a fait opposition au moyen d’un avis daté du 18 juin 2004.
+18. Par un avis daté du 29 mars 2004, le ministre a établi une nouvelle cotisation à l’égard de Taber 1998 en vue, entre autres choses, de répartir le plafond des affaires pour l’année entre Taber 1998 et TSC compte tenu du fait que Taber 1998 et TSC étaient des sociétés associées au sens des alinéas 256(1)a) et 256(1)b), ou subsidiairement, qu’elles étaient réputées être associées l’une à l’autre selon le paragraphe 256(2.1).
+19. Taber 1998 a fait opposition au moyen d’un avis daté du 18 juin 2004.
+20. Par un avis daté du 9 janvier 2006, le ministre a confirmé que TSC et Taber 1998 étaient des sociétés associées au sens des alinéas 256(1)a) et 256(1)b) ou, subsidiairement, qu’elles étaient réputées être associées l’une à l’autre selon le paragraphe 256(2.1).
+21. Toutes les autres questions en cause dans l’avis de nouvelle cotisation daté du 29 mars 2004 envoyé à Taber 1998 et dans l’avis de nouvelle cotisation daté du 6 avril 2004 envoyé à TSC ont été réglées et ne sont pas en litige dans la présente instance.
+22. Le ministre s’est fondé sur les hypothèses de fait suivantes pour établir les nouvelles cotisations à l’égard de TSC et de Taber 1998 pour les années d’imposition 2000 et 2001, lesquelles TSC et Taber 1998 admettent comme étant exactes :
+a. TSC a été constituée en personne morale le 11 septembre 1990;
+b. TSC et Taber 1998 sont situées au 6138, 80e rue, Edmonton (les « locaux de l’entreprise »);
+c. Ken et Beth Taber sont mari et femme;
+d. Par suite de la restructuration organisationnelle, Beth Taber est devenue l’unique actionnaire et administratrice de TSC;
+e. Par suite de la restructuration organisationnelle, Ken Taber est devenu l’actionnaire majoritaire et administrateur de Taber 1998;
+f. L’exercice de TSC et de Taber 1998 prend fin le 30 novembre;
+g. TSC et Taber 1998 partagent la même adresse et le même numéro de téléphone d’affaires;
+h. TSC ne possède pas son propre site Web et n’est pas mentionnée sur le site Web de Taber 1998;
+i. TSC et Taber 1998 ont recours aux services de la même aide‑comptable, Lee Stelte (« Mme Stelte »), à l’égard des deux ensembles de registres comptables;
+j. Mme Stelte travaille dans les locaux de l’entreprise;
+k. Taber 1998 est l’unique cliente de TSC;
+l. Ken Taber est présent chaque jour dans les locaux de l’entreprise;
+m. Ken Taber est la personne‑ressource de TSC et pour Taber 1998 auprès des clients;
+n. Ken Taber négociait les achats pour TSC, et notamment l’achat d’immobilisations;
+o. Ken Taber possède des connaissances et de l’expérience en matière d’utilisation de centrifugeuses dans l’industrie pétrolière et gazière;
+p. Ken Taber n’est pas employé par TSC;
+q. Par une facture datée du 8 août 2001, TSC a conclu un contrat de vente avec Pebermat en vue de l’achat d’une centrifugeuse par Pebermat, au montant de 103 000 $;
+r. Pebermat n’a pas exécuté le contrat de vente;
+s. Dans une lettre datée du 1er novembre 2001, on demandait à Pebermat d’émettre un chèque en faveur de Taber 1998 ou du cabinet d’avocats qui représentait Taber 1998;
+t. Par suite de la restructuration organisationnelle, TSC a racheté les actions de Taber 1998 au prix de 1 250 000 $ et les a payées au moyen d’un billet daté du 30 novembre 1998 (le « billet »);
+u. Le billet est payable sur demande et porte intérêt au taux annuel de 5 p. 100;
+v. Au cours des années en litige, TSC n’a pas payé de montant ou n’a pas inscrit de montant à payer à l’égard des intérêts afférents au billet;
+w. Au cours des années en litige, Taber 1998 n’a pas reçu de montant ou n’a pas inscrit de montant à recevoir à l’égard des intérêts afférents au billet;
+x. Au cours des années qui ont mené à la restructuration organisationnelle, TSC a constamment déclaré des primes de gestion suffisantes pour réduire le revenu d’entreprise active à un peu moins que le plafond des affaires annuel de 200 000 $;
+y. Par suite de la restructuration organisationnelle, TSC et Taber 1998 ont conjointement réalisé des économies d’impôt de 31 870 $ et de 22 943 $ à l’égard de leurs années d’imposition 2000 et 2001.
+23. Dans le cadre de la restructuration organisationnelle, les éléments d’actif et de passif suivants ont été transférés de TSC à Taber 1998 :
+Actif vendu
+___________________
+Montant
+____________________
+Comptes clients
+124 604,19 $
+Stocks
+65 450,00 $
+Montants payés d’avance
+7 648,35 $
+Matériel pour voitures
+97 992,00 $
+Matériel de bureau
+1 462,00 $
+Matériel informatique
+1 887,00 $
+Fond commercial
+100,00 $
+Comptes fournisseurs
+(54 515,89 $)
+_____________
+Total
+224 627,65 $
+_____________
+24. Presque toutes les recettes de TSC pour les années d’imposition 2000 et 2001 proviennent de sa part de 40 p. 100 du revenu de location gagné par Taber 1998;
+25. L’enseigne, dans les locaux de l’entreprise, porte le nom de « Taber Solids Control »;
+26. Mme Stelte détermine les recettes de TSC à l’aide des factures de Taber 1998;
+27. Toutes les décisions suivantes ont étés prises par Beth Taber pour TSC en sa qualité de dirigeante, d’administratrice et d’unique actionnaire de TSC :
+a. La nomination et la destitution des administrateurs, et tout au long des années 2000 et 2001, Beth Taber était l’unique actionnaire de TSC;
+b. La nomination et la destitution des dirigeants, et tout au long des années 2000 et 2001, Beth Taber était l’unique dirigeante de TSC;
+c. Toutes les opérations bancaires, et Beth Taber était la seule personne autorisée à signer à l’égard des comptes bancaires de TSC pour les années 2000 et 2001;
+d. La préparation et l’approbation des états financiers et des déclarations de revenus de la société.
+[3] Les témoins ont donné des précisions au sujet des faits exposés ci-dessus. Premièrement, M. Wickenberg, le comptable externe de M. Taber et de Mme Taber, a témoigné avoir eu un rôle lorsqu’il s’était agi de conseiller M. et Mme Taber au sujet de la planification fiscale. Ainsi, en 1997, l’année la plus rentable pour M. et Mme Taber, M. Wickenberg leur avait conseillé d’accorder des primes jusqu’au montant du plafond des affaires. Cette année‑là ayant été fort rentable, M. et Mme Taber ont discuté avec M. Wickenberg de la meilleure façon de se protéger contre des poursuites possibles. Mme Taber avait mentionné une augmentation de l’assurance ainsi que le désir des sociétés pétrolières d’être désignées dans les polices d’assurance comme raisons de s’inquiéter de la responsabilité, ainsi que le problème constant des possibles accidents de travail sur le terrain. M. Wickenberg leur a conseillé de faire sortir les actifs de valeur de l’entreprise en exploitation en scindant la société en deux sociétés distinctes. Il a également informé M. et Mme Taber d’une possibilité de planification fiscale qui était sur le point d’être supprimée par le gouvernement, soit la création d’une fiducie pour les enfants mineurs visant à transmettre le revenu à ceux‑ci. M. et Mme Taber ne voulaient pas que les enfants partagent la valeur des actifs, de sorte que selon le plan qui a été élaboré, les actifs devaient être détenus dans une société appartenant à Mme Taber, la fiducie des enfants et M. Taber devant être propriétaires de la société en exploitation. M. Wickenberg a également mentionné à M. et Mme Taber les économies d’impôt qu’une telle réorganisation permettrait de réaliser du fait que la déduction pour petites entreprises serait doublée.
+[4] M. Wickenberg a témoigné que la réorganisation aurait été effectuée sans les économies d’impôt associées à la déduction accordée aux petites entreprises, étant donné qu’elle permettait d’atteindre l’objectif visé, à savoir la protection des actifs et la planification de la succession. M. Taber a confirmé la chose dans son témoignage :
+[traduction]
+[...]
+[...] ce n’était certes pas la première chose à laquelle il avait songé et qu’il avait dite, parce que lorsqu’il a eu l’idée de réorganiser la société en deux sociétés, j’ai dit d’accord et je lui ai demandé combien d’argent cela allait‑il coûter. Il a répondu qu’il y avait un avantage fiscal. Je lui ai demandé ce que c’était, et il a dit que nous aurons droit à deux déductions pour petites entreprises. J’ai demandé qu’est‑ce que cela voulait dire, et il a alors essayé de l’expliquer, puis j’ai dit que si nous allons obtenir l’assurance‑responsabilité voulue pour les actifs – et je crois que cela avait quelque chose à voir avec la fiducie cette année‑là ou à peu près à ce moment‑là, où il y avait une possibilité, et il y avait aussi une petite déduction additionnelle pour petites entreprises – je suppose qu’il serait sensé de le faire, n’est‑ce pas? Et nous nous sommes donc tous entendus pour le faire.
+[...]
+[5] M. Wickenberg a également soutenu que les nouvelles dispositions qui avaient été prises au sujet de la propriété correspondaient à l’intérêt et à la participation de M. Taber dans les activités de l’entreprise et de Mme Taber quant aux actifs et au côté financier de l’entreprise. M. Wickenberg a reconnu qu’il aurait été possible pour M. et Mme Taber de se mettre à l’abri des créanciers en détenant des actions dans chaque société.
+[6] M. Wickenberg rencontrait M. et Mme Taber ensemble à la fin de chaque exercice, lorsque des décisions étaient prises au sujet de la répartition de la rémunération entre les honoraires et les dividendes accordés à M. et Mme Taber. Ils discutaient également de l’acquisition et de la disposition de nouvelles centrifugeuses. M. Wickenberg a mentionné que la différence entre ces réunions, avant et après la réorganisation, était que Mme Taber ne semblait pas avoir une forte voix avant la réorganisation. Mme Taber a confirmé qu’elle estimait qu’elle avait une plus grande voix au chapitre, après la réorganisation, quant à l’acquisition du matériel.
+[7] L’entente conclue entre Old Taber et Taber 1998 était consignée dans un document d’une page daté du 1er décembre 1998. En voici le texte [1]:
+[traduction]
+Conformément à l’entente conclue entre Taber Solids Control Ltd. et Taber Solids Control (1998) Ltd., les conditions ci‑après énoncées s’appliqueront sur une base mensuelle :
+1. Taber Solids Control Ltd. facturera la location du matériel à Taber Solids Control (1998) Ltd. Nous vous facturerons 40 p. 100 de vos recettes sur toute location de matériel pour le mois.
+2. Taber Solids Control (1998) Ltd. facturera le service de tenue de livres à Taber Solids Control Ltd., au montant de 500 $.
+3. Taber Solids Control (1998) Ltd. facturera la partie de l’assurance‑santé collective couvrant Beth Taber à Taber Solids Control Ltd., au montant de 50,95 $.
+Cette entente a été signée par M. Taber pour le compte de Taber 1998 et par Mme Taber pour le compte d’Old Taber. Mme Stelte a soutenu que cette entente était fondée sur les conseils que M. Wickenberg avait donnés à M. et Mme Taber. Selon M. Taber, le pourcentage a été établi au moyen d’une comparaison entre cette entente et le marché antérieurement conclu avec ses beaux‑parents (les « Ploof »). Ils avaient aidé M. et Mme Taber, lorsque ceux‑ci commençaient tout juste à constituer leurs stocks de centrifugeuses en finançant trois machines et en partageant les recettes, 10 p. 100 de ces recettes devant servir au remboursement de la dette, 40 p. 100 devant revenir aux Ploof et 50 p. 100 à Taber 1998. On avait confié à Mme Stelte la tâche d’établir les factures intersociétés à l’aide des registres qu’elle tenait au sujet de l’utilisation des centrifugeuses.
+[8] M. et Mme Taber avaient tous deux de l’expérience dans le domaine de la location de centrifugeuses étant donné qu’à la fin des années 1970 et pendant toutes les années 1980, ils avaient tous deux travaillé pour Wagner Oifield. Mme Taber travaillait dans le bureau, alors que M. Taber s’occupait de l’exploitation. Lorsque Wagner a été vendue à Wadeco, en 1989, M. Taber s’est vu offrir le poste de directeur de l’exploitation, compte tenu de la grande expertise qu’il avait acquise au fil des ans. L’orientation prise par Wadeco ne plaisait pas à M. Taber, de sorte qu’en 1990, Old Taber a été créée, avec une injection de 250 000 $ de Wagner, aux fins de l’acquisition des trois premières centrifugeuses.
+[9] De 1990 à 1998, M. et Mme Taber ont accru les stocks de centrifugeuses. Les Ploof les avaient aidés, au début, en finançant trois machines. M. Taber s’occupait des activités quotidiennes. Il avait tous les contacts nécessaires dans l’industrie en vue d’acquérir les machines, de les louer, et d’en disposer. Mme Taber travaillait un jour par semaine dans le bureau. Pendant ce temps, Mme Taber a déclaré que M. Taber était beaucoup plus empressé qu’elle à assurer l’expansion de l’entreprise, étant donné qu’elle avait tendance à tenir beaucoup plus serrés les cordons de la bourse. M. Taber a reconnu que c’était une bonne chose.
+[10] C’était M. Taber qui concluait tous les marchés concernant l’acquisition de centrifugeuses. Il avait l’habitude d’acquérir le matériel et de construire les centrifugeuses, ce qui pouvait prendre de trois à six mois. Cela était entièrement accompli par l’entremise de Taber 1998, quoique les coûts aient en fin de compte été passés au compte d’Old Taber. M. Taber pouvait remettre à neuf des machines à un coût bien inférieur à ce qu’il en coûtait pour acquérir une nouvelle machine ou une machine d’occasion. Avant la réorganisation, il discutait avec Mme Taber de ses projets d’expansion de l’entreprise par l’ajout de centrifugeuses. Il a signalé qu’après la réorganisation, il en parlait toujours en premier lieu avec Mme Taber et qu’ils arrivaient à une entente.
+[11] En ce qui concerne la location de centrifugeuses à l’industrie, cet aspect des activités relevait entièrement de M. Taber, tant avant la réorganisation que par la suite. Old Taber n’avait qu’un seul client, soit Taber 1998 – il y avait fort peu de décisions à prendre, sinon aucune. Quant à la vente de centrifugeuses, c’était encore une fois M. Taber qui s’en occupait, avant et après la réorganisation. M. Taber décidait s’il pouvait vendre une centrifugeuse d’occasion à un prix acceptable, et s’il était sensé sur le plan financier de vendre et de construire une centrifugeuse plus neuve qui était meilleure. Comme il l’a dit, il en discutait avec Mme Taber juste assez pour qu’elle se range à son avis. Il était clair que M. Taber savait quand, où et comment acheter et vendre les centrifugeuses. Comme il l’a dit en parlant de la vente du matériel :
+[traduction]
+[...]
+Je lui dis habituellement ce qu’elle croit qu’elle devrait être en mesure d’obtenir. Je lui suggère ce qu’elle devrait rechercher.
+[...]
+Mme Taber a dit ce qui suit :
+[traduction]
+[...]
+J’avais encore mon mot à dire. Dans Old Taber, j’avais encore mon mot à dire au sujet de la question de savoir si j’acceptais qu’il construise de nouvelles machines. Ken écoutait toujours, mais il n’était pas toujours d’accord, et il arrivait parfois qu’il ait gain de cause. Mais il sait maintenant que je dois me sentir à l’aise pour accepter et pour consentir à ce qu’il construise d’autres machines.
+[...]
+[12] M. Taber a cité l’exemple de la vente d’une centrifugeuse à un organisme appelé Pebermart. Il a témoigné avoir négocié le marché pour Mme Taber. Le marché n’a pas été conclu et c’était lui qui avait traité avec les avocats en vue de se faire payer. Selon M. Taber, les avocats supposaient qu’ils traitaient avec Taber 1998 quoique, en fin de compte, le paiement a été effectué en faveur d’Old Taber.
+[13] Il était clair, du point de vue du client, que la situation était la même avant et après la réorganisation. Les clients traitaient encore avec M. Taber sur le plan de l’exploitation et avec Mme Stelte, dans le bureau. L’entreprise n’a pas changé de local.
+[14] Après la réorganisation, Taber 1998 a remis un accord de garantie générale à la Banque Toronto‑Dominion et Old Taber a garanti la dette de Taber 1998 jusqu’à concurrence d’un montant de 300 000 $. Mme Taber a dit qu’il s’agissait d’appuyer une ligne de crédit qu’Old Taber n’avait jamais utilisée, mais les documents semblent simplement indiquer une garantie restreinte de la dette de Taber 1998 par Old Taber.
+La question en litige
+[15] Old Taber et Taber 1998 étaient‑elles associées en 2000 et en 2001? L’intimée se fonde sur l’une ou l’autre de deux dispositions à l’appui des nouvelles cotisations selon lesquelles les deux sociétés étaient associées :
+a) Le paragraphe 256(2.1), selon lequel deux sociétés sont réputées être associées s’il est raisonnable de considérer qu’un des principaux motifs de l’existence distincte de ces sociétés consistait à réduire les impôts qui seraient payables par ailleurs;
+b) Les alinéas 256(1)a) et b), lus du concert avec le paragraphe 256(5.1), lequel dispose qu’une personne est considérée comme contrôlant une société à un moment donné si, à ce moment, cette personne a une influence directe ou indirecte dont l’exercice entraînerait le contrôle de fait de la société.
+Analyse
+Présomption d’association : paragraphe 256(2.1)
+[16] Voici le texte du paragraphe 256(2.1):
+(2.1) Pour l’application de la présente loi, s’il est raisonnable de considérer qu’un des principaux motifs de l’existence distincte de plusieurs sociétés au cours d’une année d’imposition consiste à réduire les impôts qui seraient payables par ailleurs en vertu de la présente loi ou à augmenter le crédit d’impôt à l’investissement remboursable prévu à l’article 127.1, ces sociétés sont réputées être associées les unes aux autres au cours de l’année.
+[17] L’intimée soutient qu’un des principaux motifs de l’existence distincte des deux sociétés consistait à permettre de doubler la déduction accordée aux petites entreprises et, par conséquent, à réduire les impôts payables par ailleurs en vertu de la Loi. Or, les faits ne vont pas en ce sens. M. Wickenberg a décrit ainsi le conseil qu’il avait donné aux Taber au sujet de la réorganisation : les actifs de valeur seraient protégés contre des poursuites possibles découlant des activités et, en outre, les enfants ne pourraient pas tirer parti de l’augmentation de cette valeur, mais ils pourraient se prévaloir d’un partage du revenu tiré de l’exploitation, avant que cette possibilité soit éliminée par des modifications législatives. Les Taber ont confirmé cet avis. La structure des actions des sociétés a donc été concue pourqu’ils puissent tirer parti de la déduction accordée aux petites entreprises. Mais je conclus que cela découlait de la décision qui avait déjà été prise d’avoir des sociétés distinctes pour des raisons commerciales légitimes. Dans ces conditions, je ne puis conclure que la déduction accordée aux petites entreprises était même un motif de l’existence distincte des sociétés, et encore moins le motif principal. Toutefois, la déduction accordée aux petites entreprises était sans aucun doute le principal motif pour lequel les actions ont été réparties entre les deux sociétés comme elles l’ont été. Il s’agit cependant d’une question différente de celle qui se rapporte au motif de l’existence distincte des sociétés. Cela semble être une approche semblable à celle que le juge Cameron McArthur a suivie dans l’affaire Hughes Homes Inc. v. H.M.Q.[2] :
+[...], bien que la réduction de la participation de Mme Hughes en 1990 ait entraîné une réduction d’impôt pour les années d’imposition 1991 et 1992 pour Hughes Homes et pour Lopa, je ne crois pas pouvoir raisonnablement considérer que la réduction d’impôt est devenue l’un des motifs principaux de l’existence distincte de Lopa au cours de ces années. Cette réduction de la participation, qui pouvait mener à une protection des biens si elle était effectuée complètement, a entraîné la séparation des corporations, lesquelles étaient auparavant associées en vertu de l’alinéa 256(1)c) de la Loi. Il est raisonnable d’inférer que l’un des motifs de cette réduction de la participation consistait à permettre à Lopa de faire des économies d’impôt. Je ne peux cependant inférer que les économies d’impôt découlant de la réduction de la participation peuvent raisonnablement être considérées comme l’un des motifs principaux de l’existence distincte de Lopa en 1991 et en 1992. J’estime que la réduction de la participation, bien qu’elle ait entraîné des économies d’impôt, était accessoire aux motifs pour lesquels Lopa a maintenu une existence distincte de Hughes Homes.
+[18] Le fait que les Taber ont peut‑être bien, sur les conseils de leur comptable, obtenu une structure d’entreprise avantageuse sur le plan fiscal ne suffit pas en soi pour qu’il puisse être conclu que ce doit avoir été l’un des principaux motifs de l’existence distincte des sociétés. Les circonstances de la restructuration doivent être prises en considération et, en l’espèce, les circonstances m’amènent à conclure que la possibilité d’obtenir deux déductions accordées aux petites entreprises n’a pas été à l’origine de l’existence distincte des sociétés. Je suis conforté par les réponses cohérentes de tous les témoins, à savoir que la restructuration aurait eu lieu indépendamment de la possibilité de doubler la déduction accordée aux petites entreprises.
+Le contrôle de fait : les alinéas 256(1)a) et b) et le paragraphe 256(5.1)
+[19] Voici le texte des dispositions pertinentes:
+256.(1) Pour l’application de la présente loi, deux sociétés sont associées l’une à l’autre au cours d’une année d’imposition si, à un moment donné de l’année :
+a) l’une contrôle l’autre, directement ou indirectement, de quelque manière que ce soit;
+b) la même personne ou le même groupe de personnes contrôle les deux sociétés, directement ou indirectement, de quelque manière que ce soit;
+[…]
+(5.1) Pour l’application de la présente loi, lorsque l’expression « contrôlée, directement ou indirectement, de quelque manière que ce soit, » est utilisée, une société est considérée comme ainsi contrôlée par une autre société, une personne ou un groupe de personnes – appelé « entité dominante » au présent paragraphe – à un moment donné si, à ce moment, l’entité dominante a une influence directe ou indirecte dont l’exercice entraînerait le contrôle de fait de la société. Toutefois, si cette influence découle d’un contrat de concession, d’une licence, d’un bail, d’un contrat de commercialisation, d’approvisionnement ou de gestion ou d’une convention semblable – la société et l’entité dominante n’ayant entre elles aucun lien de dépendance – dont l’objet principal consiste à déterminer les liens qui unissent la société et l’entité dominante en ce qui concerne la façon de mener une entreprise exploitée par la société, celle‑ci n’est pas considérée comme contrôlée, directement ou indirectement, de quelque manière que ce soit, par l’entité dominante du seul fait qu’une telle convention existe.
+[20] La cour est essentiellement appelée à rechercher si M. Taber ou Taber 1998 avaient une influence directe ou indirecte dont l’exercice entraînerait le contrôle de fait d’Old Taber. La question de savoir ce qu’est le contrôle de fait d’une société a donné lieu à maintes controverses. La Cour d’appel fédérale a formulé la question ainsi dans l’arrêt Silicon Graphics Ltd. c. R.[3] :
+[67] Par conséquent, je suis d’avis que pour que l’on puisse conclure à un contrôle de fait, une personne ou un groupe de personnes doit avoir le droit et la capacité manifestes de procéder à une modification importante du conseil d’administration ou des pouvoirs du conseil ou d’influencer d’une façon très directe les actionnaires qui auraient autrement la capacité de choisir le conseil d’administration.
+[Non souligné dans l’original.]
+[21] Je note que l’accent était peut‑être mis sur le contrôle de la composition du conseil d’administration, mais la cour a également dit sur le contrôle pouvait prendre la forme de la capacité de procéder à une modification des pouvoirs du conseil d’administration. Dans un arrêt subséquent, Transport M.L. Couture Inc. c. La Reine[4], la Cour d’appel fédérale a énoncé d’autres facteurs dont il peut être tenu compte :
+[24] Il n’est pas possible d’énumérer tous les facteurs qui peuvent être utiles afin de déterminer si une société est ou non assujettie à un contrôle de fait (Duha Printers, [1998] 1 RCS 795, paragraphe [38]). Cependant, quels que soient les facteurs retenus, ils doivent démontrer qu’une personne ou un groupe de personnes possède la capacité manifeste de modifier le Conseil d’administration de la société visée ou d’influencer de façon très directe les actionnaires qui auraient autrement la capacité de choisir le Conseil d’administration (Silicon Graphics, [2002] C.A.F. 260, paragraphe [67]). En d’autres mots, la preuve doit démontrer que le pouvoir décisionnel de la société visée réside dans les faits ailleurs qu’entre les mains de ceux qui possèdent le contrôle de jure.
+[25] Le premier juge s’est fondé principalement sur le contrôle opérationnel exercé par Transport Couture, la dépendance économique de ML1 et ML2 à son égard et les relations familiales entre les actionnaires pour conclure que Transport Couture contrôlait, dans les faits, ML1 et ML2. L’appelante ne met pas en question la pertinence des facteurs retenus par le premier juge. Elle prétend cependant que la preuve ne permettait pas au premier juge de conclure que le contrôle opérationnel de ML1 et ML2 était entre les mains de Transport Couture ou que ML1 et ML2 étaient à l’égard de Transport Couture en état de dépendance économique.
+[26] Selon moi, la preuve supporte amplement la décision du premier juge. Comme il l’indique au paragraphe 36 de ses motifs, si Transport Couture avait décidé de ne pas renouveler son contrat de gestion et de ne plus retenir les services de ML1 et ML2, ni Marie‑Louis Couture dans le cas de ML1, ni son épouse dans le cas de ML2 n’aurait été en mesure de poursuivre les activités de ces sociétés.
+[Non souligné dans l’original.]
+[22] Selon ma lecture de ces remarques, on précise le critère applicable; la question n’est plus de savoir simplement qui contrôle la composition du conseil d’administration, mais qui a la possibilité de prendre des décisions pour le conseil. La distinction est peut‑être subtile, mais pour quelle autre raison des facteurs tels que la dépendance économique, les relations familiales et le contrôle opérationnel auraient‑ils un rôle? Ces facteurs se rapportent autant à l’influence d’une personne sur les décisions du conseil d’administration qu’à l’influence d’une personne sur la composition du conseil. Il s’agit peut‑être bien d’une distinction vide de sens, puisque contrôler la composition du conseil d’administration, c’est sans aucun doute contrôler son pouvoir décisionnel. Le contrôle de la société découle de la possibilité de contrôler d’une façon ou d’une autre les décisions du conseil. Il s’agit alors de savoir quelles décisions il reste au conseil d’administration à prendre, et quelles décisions relèvent simplement de la direction (le contrôle opérationnel). La jurisprudence enseigne que le contrôle opérationnel à lui seul ne suffit pas pour constituer un contrôle de fait tel que celui qui est prévu au paragraphe 256(5.1), mais qu’il s’agit néanmoins d’un facteur à prendre en considération.
+[23] Dans une décision récente, Brownco Inc. c. R.[5], le juge Brent Paris a clairement dit que ce n’est pas simplement l’influence sur la détermination de la composition du conseil d’administration, mais aussi l’influence sur la prise de décisions du conseil qui entre en ligne de compte. Dans l’affaire Brownco, cette influence prenait directement sous la forme d’une voix prépondérante aux réunions du conseil d’administration. Voici ce que le juge Paris a dit :
+À mon avis, lorsqu’il s’agit de décider qui exerce le contrôle de fait d’une société, il importe peu qu’un actionnaire contrôle les prises de décisions du conseil d’administration du fait qu’il peut élire la majorité des administrateurs ou du fait que l’administrateur qu’il a désigné a la majorité des voix à une réunion du conseil d’administration. Le point auquel le contrôle prend naissance est peut‑être différent, mais en pratique, dans un cas comme dans l’autre, le même degré de contrôle de fait existe.
+[24] L’appelante soutient que l’approche plus restrictive consacrée par l’arrêt Silicon est celle qui convient. Il semble que les commentateurs fiscaux (voir par exemple l’article de Mark Brender, intitulé Developments in the Concept of Corporation Control)[6] aient également cerné deux autres critères. Si j’examine les observations que la Cour d’appel fédérale a faites dans l’arrêt Silicon, je conclus que la mention, à l’avant‑dernier paragraphe, non seulement du droit de modifier la composition du conseil d’administration, mais aussi les pouvoirs du conseil, laisse la porte grande ouverte à l’examen des pouvoirs décisionnels du conseil, soit une approche plus large et plus sensée.
+[25] Par conséquent, si, en l’espèce, je suis le critère du contrôle de fait, je dois rechercher si M. Taber ou Taber 1998 avait une influence directe ou indirecte sur la prise de décisions du conseil d’administration d’Old Taber. Je reviens donc à mon point de départ, à savoir ce qui distingue les décisions d’un conseil d’administration des décisions de la direction ou des décisions opérationnelles. Il est particulièrement difficile de tracer une ligne de démarcation claire lorsque, comme en l’espèce, la société compte un seul actionnaire, un seul administrateur et un seul employé, et que ses activités commerciales sont limitées et exigent peu de décisions de la part du conseil d’administration ou peu de décisions opérationnelles. La seule décision opérationnelle que la société était tenue de prendre se rapportait à la question de savoir à qui elle louait son matériel et à quelles conditions. Toutefois, cette décision a effectivement eu à être prise une seule fois. Il n’y avait qu’un seul client et qu’une seule entente. Cette décision opérationnelle n’était pas, comme je l’ai conclu, une décision de Mme Taber sur laquelle aucune influence n’avait été exercée. En effet, M. Taber et la situation même de l’entreprise influençaient Mme Taber. Celle‑ci n’avait pas les contacts ou le sens des affaires approprié pour trouver des clients possibles à qui elle pourrait louer le matériel. Et il n’était pas nécessaire qu’elle le fasse. Mme Taber avait un client sûr qui était prêt à coopérer, Taber 1998. De fait, Mme Taber et par conséquent Old Taber, étaient entièrement sous la dépendance économique de Taber 1998. M. Taber aurait pu exploiter l’entreprise de location de matériel sans avoir à s’adresser à Old Taber comme source à l’égard des centrifugeuses. Or, il n’en était pas de même pour Old Taber.
+[26] J’examinerai maintenant ce qui se rapporte davantage, selon moi, à la nature des décisions du conseil d’administration, par opposition aux décisions opérationnelles ou aux décisions de la direction. Il incombe au conseil d’administration de décider de la vision et de l’orientation de l’entreprise : prendra‑t‑elle de l’essor, en combien de temps et ainsi de suite? Étant donné que les centrifugeuses étaient le seul matériel dont Old Taber s’occupait, c’était le moment où les centrifugeuses étaient achetées et vendues qui déterminait la rapidité avec laquelle l’entreprise prenait de l’expansion. Mme Taber prenait‑elle ces décisions, encore une fois, sans aucune influence de la part de M. Taber ou de Taber 1998? Je conclus que non. Je reconnais que le critère à appliquer n’est pas de savoir si une influence était réellement exercée, mais s’il y avait influence dont l’exercice entraînerait le contrôle. Je conclus qu’en l’espèce il y avait non seulement une possibilité d’exercer de l’influence entraînant le contrôle, mais aussi, pour ce qui est de la disposition des centrifugeuses, l’exercice réel d’une telle influence. C’était M. Taber qui avait une connaissance approfondie de l’industrie et qui savait où acquérir et où aliéner les centrifugeuses et à quel moment. L’appelante affirme qu’après la réorganisation, les décisions de M. Taber d’acquérir des centrifugeuses étaient assujetties à la décision finale de Mme Taber. Cependant, il n’en va pas de même pour la disposition des centrifugeuses : je conclus que la décision relevait entièrement de M. Taber.
+[27] Quant à l’acquisition de nouveau matériel, je conviens que Mme Taber avait voix au chapitre, mais elle agissait de concert avec M. Taber. La preuve concernant l’étendue du pouvoir de Mme Taber sur ce point est faible. L’avocat de l’appelante soutient que c’était Mme Taber qui prenait la décision finale. À coup sûr, M. Wickenberg avait l’impression que Mme Taber avait davantage voix au chapitre après la restructuration, bien qu’il ait reconnu que les réunions avaient toujours lieu en présence de M. et Mme Taber. Mme Taber elle‑même reconnaissait l’influence de la relation avec Taber 1998, comme elle l’a déclaré dans son témoignage :
+[traduction]
+Q. Si nous parlons de la situation au 1er décembre 1998 et par la suite, lorsque vous étiez l’unique actionnaire d’Old Taber, comment preniez‑vous les décisions relatives à l’acquisition du matériel après le mois de novembre, après le 1er décembre 1998?
+R. Bon. Étant donné ma position, je prenais en quelque sorte ma décision en fonction des fonds disponibles, en fonction des différentes sociétés pétrolières qui étaient nos clients, en fonction de leurs prévisions, comme je l’ai déjà dit, pour le prochain trimestre ou pour les six mois à venir. Et Ken pouvait me donner ces renseignements. Je prenais fondamentalement ma décision en fonction des mouvements de trésorerie et de la mesure dans laquelle les activités allaient bon train.
+Mme Taber a également admis que le seul changement, après la restructuration, était qu’elle avait davantage voix au chapitre quant aux acquisitions.
+[28] M. Taber a décrit en ces termes la décision de prendre de l’expansion en acquérant du matériel avant la restructuration :
+[traduction]
+R. C’était toujours, toujours, une décision conjointe. J’étais toujours peut‑être bien un peu plus audacieux lorsqu’il s’agissait d’accroître le parc. Beth était, et fort heureusement si la chose est considérée après coup, plus prudente. Nous n’étions pas toujours d’accord, mais je finissais habituellement par être d’accord plutôt que de discuter. Et au fil des ans, au cours des 20 dernières années, il est certes parfois arrivé que sa capacité de faire preuve de prudence – c’était peut‑être son sixième sens – porte fruit parce que le marché est fort irrégulier d’une année à l’autre. Et je peux imaginer de quelle façon j’aurais peut‑être pu m’embourber. Et encore plus maintenant.
+[29] M. Taber a décrit ainsi la prise de décisions après la restructuration :
+[traduction]
+R. Lorsque nous convenions tous deux que nous étions en mesure d’ajouter peut‑être une machine ou deux, je lançais un ballon d’essai.
+[30] L’influence réelle de M. Taber, quant aux décisions d’acquérir du matériel, est peut‑être en soi insuffisante pour établir un contrôle, mais on doit tenir compte de l’influence possible de Taber 1998 en sa qualité d’unique cliente et également d’unique fournisseur de centrifugeuses à Old Taber. Old Taber était entièrement sous la dépendance économique de Taber 1998. Les deux sociétés étaient inextricablement liées par la famille et par contrat. Old Taber n’avait pas d’entreprise sans Taber 1998 et sans l’expertise de M. Taber.
+[31] Mme Taber prenait bel et bien des décisions au sujet des dirigeants (une nomination : elle‑même) et elle approuvait bel et bien les états financiers et les déclarations de revenus de la société – des décisions relevant normalement du conseil d’administration. Toutefois, le critère énoncé aux paragraphes 256(1) et (5.1) se rapporte à un contrôle « à un moment donné de l’année ». Il n’est pas nécessaire de conclure que, pendant toute l’année, toutes les décisions du conseil d’administration doivent être assujetties à une influence possible quant au contrôle. Il suffit qu’à un moment donné de l’année, une décision du conseil soit assujettie à l’influence de l’entité dominante. J’ai conclu qu’un tel contrôle existe, et ce, pour les motifs suivants :
+a) M. Taber avait une influence réelle sur la principale décision opérationnelle, à savoir que Taber 1998 serait l’unique cliente d’Old Taber;
+b) M. Taber avait une influence réelle sur les décisions du conseil d’administration d’Old Taber quant à la disposition des centrifugeuses;
+c) Taber 1998 avait une influence possible, étant donné qu’Old Taber était entièrement sous sa dépendance économique, lorsqu’il s’agissait de contrôler les décisions relatives à l’acquisition de centrifugeuses, et ce, bien qu’en réalité, c’étaient M. et Mme Taber qui prenaient conjointement de telles décisions.
+[32] Si j’examine l’effet cumulatif de ces conclusions, je conclus que les deux sociétés sont clairement visées au paragraphe 256(5.1) et qu’elles sont des sociétés associées au sens du paragraphe 256(1) de la Loi.
+[33] Les appels sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 19e jour d’octobre 2009.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 16e jour de mars 2010.
+François Brunet, réviseur
+RÉFÉRENCE : 2009 CCI 527
+Nos DES DOSSIERS DE LA COUR : 2006-1205(IT)G
+2006-1206(IT)G
+INTITULÉ : Taber Solids Control (1998) Ltd.
+et Taber Solids Control Ltd.
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 27 août 2009
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 19 octobre 2009
+COMPARUTIONS :
+Avocat des appelantes :
+Me Donald Cherniawsky
+Avocate de l’intimée :
+Me Margaret M. McCabe
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom : Donald Cherniawsky
+Cabinet : Felesky Flynn LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-2, onglet B8.
+[2] [1998] 1 C.T.C. 2376
+[3] 2002 CAF 260.
+[4] 2004 CAF 23.
+[5] 2008 CCI 58.
+[6] Report Proceedings of Fifty-Ninth Tax Conference, 2007 Tax Conference (Toronto : Association canadienne d'études fiscales, 2008), 31:1, 35-49.

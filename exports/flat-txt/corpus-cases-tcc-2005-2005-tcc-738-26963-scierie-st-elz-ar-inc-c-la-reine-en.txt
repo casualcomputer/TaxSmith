@@ -1,0 +1,128 @@
+Title: Scierie St-Elzéar Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26963/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-738-26963-scierie-st-elz-ar-inc-c-la-reine-en.md
+Document type: case_law
+Last modified: 2005-12-02
+
+# Scierie St-Elzéar Inc. c. La Reine
+
+- Citation: 2005 TCC 738
+- Decision date: 2005-12-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 573, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scierie St-Elzéar Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-02
+Neutral citation
+2005 TCC 738
+File numbers
+2004-4331(GST)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-4331(GST)I
+BETWEEN:
+SCIERIE ST‑ELZÉAR INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 25, 2005, at New Carlisle, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Agent for the Appellant:
+Michel Bernier
+Counsel for the Respondent:
+Louis Cliche
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, which assessment is dated March 24, 2004, bears the number 0254968, and pertains to the period from February 1, 2000, to July 31, 2003, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of December 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 30th day of April 2008.
+Brian McCordick, Translator
+Citation: 2005TCC738
+Date: 20051202
+Docket: 2004‑4331(GST)I
+BETWEEN:
+SCIERIE ST‑ELZÉAR INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal from an assessment, notice of which bears the number 0254968. The assessment was made under the Excise Tax Act ("the Act") on March 24, 2004, and demands the payment of $19,466.43 in tax plus $131.92 in interest and $263.73 in penalties. The assessment pertains to the period from February 1, 2000, to July 31, 2003. In a decision on objection, dated August 24, 2004, the Minister of National Revenue ("the Minister") confirmed the assessment that he had made. However, the Appellant is only appealing from the refusal to grant an input tax credit (ITC) of $1,120 in respect of fees related to the preparation of financial statements for corporations affiliated with the Appellant. The ground for that refusal was that the fees were not paid as part of the Appellant's commercial activities within the meaning of subsection 169(1) of the Act. It must be understood that the Appellant pays the fees for the preparation of the financial statements and tax returns of the management corporations, including, of course, the Goods and Services Tax (GST) returns.
+[2] The Appellant, for its part, submits that the payment of fees for the maintenance of its business structure is part of its commercial activities, because it results in a significant reduction of financial costs, and, incidentally, the structure ensures a bright future for the Appellant's shareholders, who can benefit from the liquid assets that accrue within the group of corporations.
+[3] The structure in question was set up in 1996, the year that the Appellant was incorporated. All of the Appellant's class A shares are held by Association coopérative forestière de St‑Elzéar Inc. ("the Cooperative"), which has been in existence since 1944. According to the testimony of the Appellant's comptroller, a business corporation structure became necessary in order to circumvent the problem stemming from the fact that the profits and liquid assets that are realized by a cooperative cannot be retained because they are either distributed to members or are deposited into what is called a general reserve. In the latter situation, the profits are frozen.
+[4] Without actually reproducing the diagram of the business's structure, suffice it to say that five management companies, the shares of which are held by the Cooperative's members, were incorporated. These five management companies hold a certain number of the Appellant's preferred shares. The Appellant, for its part, holds shares of two other companies, whose role was not explained. This structure has enabled the Cooperative to avoid the financial trouble that similar forestry cooperatives are experiencing in Quebec; according to the witness, 75 to 80% of those cooperatives are experiencing such trouble. Consequently, the Appellant enjoys access to sufficient liquid assets for its operations, thereby significantly reducing the financial costs associated with those operations. The Appellant can finance its operations from within the group, without the need to resort to the services of banks. The Respondent is not questioning the legality of this approach.
+[5] The financial statements of the management companies, whose shares are held by the Cooperative's members, support what has been stated about financing, and one can see a reference to the undistributed profits in the financials. This approach is considered an incentive for members to keep the money available for the Appellant's operations, because they can start drawing on the money at age 60. According to the Cooperative's financial statements as at January 31, 2002, the preferred shareholders' equity represents 41% of the net value, which totals approximately $6 million.
+[6] The Appellant's day-to-day operations consist in operating a sawmill and doing forest management. It also has timber rights. The Appellant looks after sylviculture work and manages its personnel. It pays the fees for the preparation of the financial statements, and the accounting fees related to its operations. It also pays the same fees, and the GST associated therewith, for the five management corporations. The Appellant recovered input tax credits equal to the GST on the preparation of the five management companies' financial statements, and the issue is whether it is entitled to this credit. In order to determine whether it is entitled to those ITCs, one must ascertain whether the payment of the fees for the services acquired for the purpose of keeping the business's structure in place can be considered to be related to an input acquired for consumption, use or supply in the course of the commercial activities of the Appellant.
+[7] The relevant statutory provisions are contained in subsection 169(1) of the Act, which articulates the general rule that a registrant may be entitled to an input tax credit. The definition of "commercial activity" in section 123 is also relevant.
+169.(1) General rule for credits — Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+123. (1) Definitions
+"commercial activity" of a person means
+(a) a business carried on by the person . . . except to the extent to which the business involves the making of exempt supplies by the person . . .
+[8] The Appellant and the Respondent both cited BJ Services Co. v. Canada, [2002] T.C.J. No. 599 (QL), [2002] GSTC 124, in support of their positions. There, Nowsco Well Services Ltd. (Nowsco), a very profitable company, had to pay fees to financial and legal advisors following a hostile takeover bid. Nowsco had claimed ITCs in respect of those fees, on which it had paid GST. The claim was made on the basis that the fees were related to inputs that had been used in the course of Nowsco's commercial activities. The professional services had been retained by Nowsco for the purpose of maximizing the value of its shares, which was the duty of the corporation's directors. The respondent in BJ Services submitted that these expenses were incurred solely to increase the value of the shares for the benefit of the shareholders, and were not incurred in the course of commercial activities. However, the Court held that the professional services in question were used in the course of Nowsco's commercial activities because the services were acquired not only for the benefit of the shareholders, but also to establish and maintain the confidence of the capital markets, which was something that benefitted Nowsco.
+[9] In the case at bar, the Respondent is essentially relying on the same argument that it made in BJ Services, namely that the input must be directly related to the supply of taxable services in order for the registrant to be eligible for ITCs. The Respondent submits that since the Appellant is in the forest management business and operates a sawmill, it is impossible to make a connection between the input and the Appellant's commercial activities. The Respondent is in effect asking whether it can be claimed that the management companies' financial statements and tax returns can be used in the course of the Appellant's commercial activities.
+[10] It is not disputed that all the Appellant's supplies in the course of its operations are taxable supplies. The only issue here is whether the inputs were used in the course of the commercial activities of the business; it is not a question of ascertaining whether a direct relationship exists between the input and the taxable supplies. It is only when the registrant makes taxable and exempt supplies that the question whether there is a direct relationship between the input and the taxable supplies arises, because, in those instances, such a relationship must exist in order for the registrant to be entitled to the ITCs.
+[11] According to the decision in BJ Services, where the registrant makes no exempt supplies, the fees are considered expenses incurred in the course of commercial activities unless they have a non-business or personal element.
+[12] BJ Services also stands for the proposition that four factors must be considered in determining whether an input is commercial in nature: the purpose of the input; who benefits from the input; the context; and the case law.
+[13] In my opinion, there is a clear distinction between BJ Services and the case at bar. In BJ Services, the professional services were retained by the directors and were necessary to fulfil the directors' duty to maximize the value of the shares and maintain the confidence of capital markets, whereas in the case at bar, the professional services do not fulfil the Appellant's obligations, but, rather, the five management companies' obligations to file tax returns and financial statements. The five management companies are the ones that need professional services like those rendered in the instant case, and, in my opinion, they are the ones that should pay for them. The fact that the Appellant has agreed to foot the bill for these services attests to its economic interest in maintaining the management companies in existence, as opposed to pointing to a need or legal duty on its part to ensure that its business operates soundly, which need or duty would compel a finding that the payment is an integral part of the Appellant's commercial activities. The purpose and context of the input are not related to the Appellant's commercial activities, any more than the fact that the Cooperative and its members are the ones that benefit from the input by reason of the profit that will be distributed to the members at age 60.
+[14] I do not believe that the definition of commercial activity is broad enough to encompass the payment of fees for services necessary for the maintenance of distinct legal entities and to permit an ITC claim in respect of such fees. The economic interest in maintaining the structure of the Appellant's business can justify the payment of the fees in question, but, in my opinion, it would be an exaggeration to say that such an expense is incurred in the course of its commercial activities.
+[15] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 2nd day of December 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 30th day of April 2008.
+Brian McCordick, Translator
+CITATION:
+2005TCC738
+COURT FILE NO.:
+2004-4331(GST)I
+STYLE OF CAUSE:
+Scierie St‑Elzéar Inc. v. The Queen
+PLACE OF HEARING:
+New Carlisle, Quebec
+DATE OF HEARING:
+August 25, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice François Angers
+DATE OF JUDGMENT:
+December 2, 2005
+APPEARANCES:
+Agent for the Appellant:
+Michel Bernier
+Counsel for the Respondent:
+Louis Cliche
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

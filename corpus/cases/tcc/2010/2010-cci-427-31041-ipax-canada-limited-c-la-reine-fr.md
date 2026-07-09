@@ -1,0 +1,439 @@
+---
+title: "IPAX Canada Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31041/index.do"
+last_modified: "2010-09-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 427"
+citation2: ""
+neutral_citation: "2010 CCI 427"
+decision_date: "2010-09-08"
+language: "fr"
+item_id: "31041"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4877
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:36:20.683000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ef9960739acf35976ee929434ad8ef282130e358ba38e69b93bb115fe2ec79cc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# IPAX Canada Limited c. La Reine
+
+- Citation: 2010 CCI 427
+- Decision date: 2010-09-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4877, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+IPAX Canada Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-09-08
+Référence neutre
+2010 CCI 427
+Numéro de dossier
+2004-3464(GST)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-3464(GST)G
+ENTRE :
+IPAX CANADA LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de Doreen Crawford (2004-4526(IT)G) et de Garfield Crawford (2004-4527(IT)G)
+les 15 et 16 avril et les 6 et 7 juillet 2010 à Toronto (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelante :
+Me T. James Treloar
+Avocats de l’intimée :
+Me Lesley L’Heureux
+Me Ernesto Cáceres
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi sur la taxe d’accise pour la période allant du 1er mai 1994 au 30 avril 2001 est accueilli, et la question est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Si les parties ne parviennent pas à s’entendre au sujet des dépens au plus tard le 12 octobre 2010, elles auront jusqu’au 29 octobre 2010 pour présenter des observations écrites.
+Signé à Ottawa, Canada, ce 8e jour de septembre 2010.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 10e jour de janvier 2011.
+Mario Lagacé, jurilinguiste
+Dossier : 2004-4526(IT)G
+ENTRE :
+DOREEN CRAWFORD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels d’IPAX Canada Limited (2004-3464(GST)G) et de Garfield Crawford (2004-4527(IT)G)
+les 15 et 16 avril et les 6 et 7 juillet 2010 à Toronto (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelante :
+Me T. James Treloar
+Avocats de l’intimée :
+Me Lesley L’Heureux
+Me Ernesto Cáceres
+JUGEMENT
+L’appel relatif aux années d’imposition 1995, 1996, 1997, 1998, 1999 et 2000 de l’appelante est accueilli, et la question est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Si les parties ne parviennent pas à s’entendre au sujet des dépens au plus tard le 12 octobre 2010, elles auront jusqu’au 29 octobre 2010 pour présenter des observations écrites.
+Signé à Ottawa, Canada, ce 8e jour de septembre 2010.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 10e jour de janvier 2011.
+Mario Lagacé, jurilinguiste
+Dossier : 2004-4527(IT)G
+ENTRE :
+GARFIELD CRAWFORD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels d’IPAX Canada Limited (2004-3464(GST)G) et de Doreen Crawford (2004-4526(IT)G)
+les 15 et 16 avril et les 6 et 7 juillet 2010 à Toronto (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelant :
+Me T. James Treloar
+Avocats de l’intimée :
+Me Lesley L’Heureux
+Me Ernesto Cáceres
+JUGEMENT
+L’appel relatif aux années d’imposition 1995, 1996, 1997, 1998, 1999 et 2000 de l’appelant est accueilli, et la question est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Si les parties ne parviennent pas à s’entendre au sujet des dépens au plus tard le 12 octobre 2010, elles auront jusqu’au 29 octobre 2010 pour présenter des observations écrites.
+Signé à Ottawa, Canada, ce 8e jour de septembre 2010.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 10e jour de janvier 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 427
+Date : 20100908
+Dossier : 2004-3464(GST)G
+ENTRE :
+IPAX Canada LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2004-4526(IT)G
+ENTRE :
+DOREEN CRAWFORD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2004-4527(IT)G
+ENTRE :
+GARFIELD CRAWFORD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V. A. Miller
+[1] La dette fiscale de Doreen Crawford et de Garfield Crawford pour les années d’imposition 1995, 1996, 1997, 1998, 1999 et 2000 a fait l’objet de nouvelles cotisations fondées sur la valeur nette de manière à inclure les montants suivants au revenu :
+Année
+Garfield Crawford
+Doreen Crawford
+1995
+30 328 $
+21 229 $
+1996
+16 119 $
+11 283 $
+1997
+29 734 $
+20 814 $
+1998
+32 345 $
+22 641 $
+1999
+29 355 $
+20 549 $
+2000
+40 495 $
+28 347 $
+Le ministre du Revenu national (le « ministre ») s’est fondé sur le paragraphe 152(4) de la Loi de l’impôt sur le revenu (la « LIR ») pour établir des nouvelles cotisations à l’égard de l’année d’imposition 1995 de Doreen Crawford et de Garfield Crawford après l’expiration du délai de prescription prévu par la loi. Il s’est fondé sur le paragraphe 152(7) pour fixer l’impôt à payer par chacun des appelants pour l’année d’imposition 2000. Des pénalités ont été imposées à chacun des appelants en vertu de l’article 162 et du paragraphe 163(2) de la LIR.
+[2] Une nouvelle cotisation a été établie à l’égard de l’appelante IPAX Canada Limited (« IPAX ») pour la période allant du 1er mai 1994 au 30 avril 2001, de manière à faire passer la taxe sur les biens et services (la « TPS ») à percevoir de 244 948,78 $, qui correspondait au montant qu’IPAX avait déclaré, à 347 117,03 $. Le ministre s’est fondé sur le paragraphe 298(4) de la Loi sur la taxe d’accise (la « LTA ») pour établir des cotisations relativement aux périodes de déclaration trimestrielles du 1er mai 1994 au 31 juillet 1998 après l’expiration du délai de prescription prévu par la loi. Le ministre a aussi imposé des pénalités en vertu du paragraphe 280(1) de la LTA.
+[3] IPAX a été constituée en société en 1979 et, au moment de la constitution d’IPAX, Garfield Crawford en est devenu l’unique actionnaire et administrateur ainsi que le président. IPAX était exploitée à Brampton, en Ontario, où elle faisait affaires dans le domaine de la vente et de l’entretien de systèmes d’aspirateur central, de systèmes de sécurité, de puits de lumière et de portes de garage de marque Beam. La société 1087847 Ontario Ltd. (« Beam of Barrie ») a été constituée en 1995 et, au moment de la constitution de Beam of Barrie, Doreen et Garfield Crawford en sont devenus actionnaires à parts égales. La société exploitait le même genre d’entreprise qu’IPAX, et elle faisait affaires sous le nom de Beam of Barrie.
+[4] Le ministre a établi les cotisations visant IPAX après avoir découvert qu’il y avait un écart entre les ventes qu’IPAX avait déclarées dans ses déclarations d’impôt sur le revenu et celles qu’elle avait déclarées dans ses déclarations de TPS. Les éléments de preuve ont démontré que l’Agence du revenu du Canada (l’« ARC ») avait communiqué à plusieurs occasions avec M. Crawford par téléphone et par courrier pour fixer un rendez-vous avec lui ou avec son représentant afin que les documents comptables d’IPAX puissent être examinés. M. Crawford n’a pas été obligeant du tout. Il n’a communiqué aucun renseignement à Kirnal Matharu, le premier vérificateur qui a travaillé aux dossiers dont il est ici question, ni à Shawn Marshall, le vérificateur qui a produit les états de la valeur nette relatifs aux particuliers appelants.
+[5] Shawn Marshall a affirmé que le premier vérificateur qui avait travaillé aux dossiers dont il est ici question avait obtenu un rapport de crédit d’Equifax relativement à Doreen Crawford qui indiquait que celle-ci possédait diverses cartes de crédit. Il a envoyé des demandes de renseignements à American Express, à la Banque Toronto Dominion et à la Banque Royale du Canada à Brampton. Sur le fondement des renseignements qu’il a reçus, M. Marshall a écrit à M. et Mme Crawford le 13 mars 2002 pour leur dire qu’ils avaient déclaré des revenus en moins pour les années 1990 à 1995 et qu’ils avaient omis de déclarer des revenus de 1996 à 2000 parce que leurs déclarations de revenu n’avaient pas été produites. Le 18 mars 2002, Garfield Crawford a téléphoné à M. Marshall pour lui dire que ses déclarations de revenu ainsi que celles de son épouse pour les années 1996 à 1999 avaient été produites. Cependant, les éléments de preuve ont démontré que les déclarations de revenu de Garfield Crawford et de Doreen Crawford pour les années 1996, 1997, 1998 et 1999 avaient seulement été produites après que l’ARC leur a demandé de les produire. Ces déclarations ont été produites auprès de l’ARC le 3 avril 2002.
+[6] Les appelants ont déclaré les revenus suivants :
+Année
+Garfield Crawford
+Doreen Crawford
+1995
+1 $
+1 $
+1996
+10 000 $
+7 000 $
+1997
+10 000 $
+7 000 $
+1998
+10 000 $
+7 000 $
+1999
+11 000 $
+7 500 $
+[7] Garfield Crawford a affirmé qu’IPAX surveillait des systèmes d’alarme et que c’était l’argent qu’IPAX avait reçu en contrepartie de ce service qui lui avait servi de revenu. Il a dit qu’il avait partagé l’argent avec son épouse, Doreen Crawford. En contre‑interrogatoire, il a affirmé que Mme Crawford et lui avaient touché les revenus suivants :
+Année
+Doreen et Garfield Crawford
+1995
+19 975 $
+1996
+17 922 $
+1997
+25 050 $
+1998
+25 350 $
+1999
+35 675 $
+Cependant, M. et Mme Crawford n’ont pas déclaré l’intégralité de ces montants dans leurs déclarations de revenu parce qu’ils estimaient qu’ils avaient prêté tellement d’argent à IPAX à titre d’actionnaires[i] qu’ils ne devaient aucun impôt. Ils ont déclaré les revenus qui figurent dans leurs déclarations parce que l’ARC leur a demandé de produire des déclarations de revenu.
+Garfield et Doreen Crawford
+[8] Shawn Marshall a établi l’état de la valeur nette du ménage Crawford en calculant les dépenses personnelles du ménage d’après les données de Statistique Canada relatives à une famille de deux adultes. Il a rajusté ces données lorsqu’il a reçu des renseignements additionnels tirés de chèques oblitérés ou de relevés de cartes de crédit qui indiquaient un montant différent du montant de Statistique Canada relativement à un élément précis. Lors du calcul de la valeur nette, M. Marshall a inclus les paiements qui réduisaient les hypothèques grevant les biens immeubles que détenaient les Crawford et il a inclus les augmentations et les réductions des soldes des comptes d’IPAX et de Beam of Barrie relatifs aux dettes envers les actionnaires. La différence dans le revenu total a été répartie entre M. et Mme Crawford au prorata de leurs revenus déclarés respectifs.
+[9] M. et Mme Crawford ont choisi de contester l’état de la valeur nette en contestant les montants inclus à titre de dépenses personnelles, en affirmant que leurs dépenses personnelles avaient été financées au moyen d’argent comptant non imposable qu’ils avaient reçu, et en contestant le montant de l’intérêt hypothécaire afférent à leur résidence principale et à un chalet.
+[10] Les appelants ont présenté des annexes financières (pièce A-9) pour les années visées par les présents appels. Ces annexes ont été établies par Terry Elder, un comptable agréé. M. Elder n’a pas comparu comme témoin à l’audience des présents appels, mais l’avis au lecteur qui figure au début de ces annexes est ainsi rédigé :
+[traduction]
+AVIS AU LECTEUR
+D’après les renseignements figurant dans les documents énumérés à l’annexe 6 et d’autres renseignements communiqués par M. et Mme Crawford, j’ai établi les annexes financières ci-jointes relatives à M. Garfield Crawford et Mme Doreen Crawford pour les années civiles se terminant en 1996, 1997, 1998, 1999 et 2000.
+Je n’ai pas mené de vérification ou d’examen à l’égard de ces annexes financières et, par conséquent, je n’exprime aucune assurance à leur sujet.
+Les annexes financières ci-jointes ont été établies aux fins précises d’une conférence préparatoire à l’audience à la Cour canadienne de l’impôt devant avoir lieu en février 2009, et elles ne doivent être utilisées à aucune autre fin, […]
+Dépenses personnelles
+[11] Une des annexes incluses à la pièce A-9 était une annexe relative aux dépenses personnelles présentant une comparaison des montants utilisés par l’ARC lors du calcul de la valeur nette et des montants que les Crawford invoquent maintenant. Les Crawford ont produit des éléments de preuve documentaire au soutien d’un seul des montants qu’ils ont utilisés dans l’annexe relative aux dépenses personnelles. Je souligne que, dans la pièce A-9, Garfield Crawford se dit en désaccord avec les montants qui ont été inclus dans l’annexe concernant la valeur nette et qui se rapportent aux frais de téléphone, aux frais médicaux et aux dépenses relatives aux soins oculaires et au divertissement au foyer. Cependant, lors de l’interrogatoire préalable, il avait convenu des montants utilisés relativement à ces dépenses dans les états de la valeur nette.
+[12] Au cours de la période visée par les présents appels, les Crawford étaient propriétaires d’une résidence principale située au 74, rue Main, à Brampton, en Ontario, et Garfield Crawford détenait un intérêt dans un chalet. Chaque bien immeuble était grevé d’une hypothèque. Les Crawford ont contesté le montant de l’intérêt hypothécaire inclus dans le calcul des dépenses personnelles relativement à ces biens immeubles. Le vérificateur qui a produit les états de la valeur nette a inclus le montant total de l’intérêt hypothécaire payé relativement à la résidence principale et 75 % de l’intérêt hypothécaire payé sur le chalet dans son calcul des dépenses personnelles.
+[13] Les Crawford ont soutenu qu’ils avaient contracté le prêt hypothécaire pour leur résidence principale afin d’injecter de l’argent dans IPAX. Ils ont affirmé qu’avant 1992, IPAX avait obtenu tous ses prêts en son propre nom et que les prêts avaient été garantis au moyen d’une hypothèque grevant leur résidence principale. Cependant, leur banquier leur a dit qu’ils pouvaient obtenir un meilleur taux d’intérêt s’ils contractaient les prêts en leurs noms personnels, et ils ont décidé de suivre ce conseil. Ils ont hypothéqué leur résidence principale, et ils ont prêté les fonds ainsi obtenus à IPAX.
+[14] Les appelants ont produit des éléments de preuve documentaire suffisants pour étayer leur position[ii] en ce qui a trait à l’intérêt hypothécaire dans leur résidence principale. La catégorie « intérêt hypothécaire » des dépenses personnelles doit être réduite des montants de 6 734 $ pour 1995, de 6 972 $ pour 1996, de 5 999 $ pour 1997, de 5 224 $ pour 1998, de 4 993 $ pour 1999 et de 5 089 $ pour 2000.
+[15] Garfield Crawford a aussi soutenu qu’il était propriétaire du chalet seulement à hauteur de 25 % et que l’intérêt hypothécaire inclus dans les dépenses personnelles devrait être modifié en conséquence. Cependant, les éléments de preuve documentaire n’étayent pas la position de M. Crawford. D’après le document relatif à l’hypothèque, Garfield Crawford était propriétaire du chalet à hauteur de 50 %[iii]. Le montant de la dépense au titre de l’intérêt inclus dans les dépenses personnelles relativement au chalet doit être réduit de manière à tenir compte du fait que Garfield Crawford était propriétaire à hauteur de 50 %.
+[16] Les Crawford n’étaient pas d’accord avec la majorité des montants inclus à l’annexe relative aux dépenses personnelles. Ils avaient le fardeau de convaincre la Cour que les montants que le vérificateur avait utilisés pour calculer les dépenses personnelles étaient inexacts. Ils ont réussi à établir cette preuve uniquement en ce qui a trait aux montants utilisés pour calculer les dépenses relatives à l’intérêt hypothécaire.
+Réception de fonds
+[17] L’intimée a concédé que Garfield Crawford avait reçu le montant de 30 000 $ en janvier 1996 à la suite du règlement hors cour d’une action en justice. Elle a aussi concédé qu’il avait reçu les produits d’une assurance aux montants de 8 267,18 $ et de 1 953,15 $ en septembre 1996.
+[18] Garfield Crawford a présenté des éléments de preuve qui indiquaient qu’il avait touché une pension de la Commission de la sécurité professionnelle et de l’assurance contre les accidents du travail (la « CSPAAT ») en 1999 et en 2000. De plus, il a produit un feuillet T5007 de la CSPAAT qui confirmait qu’il avait reçu 1 455,36 $ en 2001. Selon son témoignage, l’indemnité que lui aurait versée la CSPAAT se serait élevée à environ 100 $ par mois au cours des années 1995 à 2000 inclusivement. Les documents que M. Crawford a produits étayent sa position[iv]. Cependant, contrairement à ce que M. Crawford croit, ces montants d’indemnité font partie de son revenu et doivent être inclus dans son revenu.
+[19] Garfield Crawford a aussi affirmé qu’il avait accès aux pensions que touchaient son beau-père et son frère. Cependant, il n’a produit aucun élément de preuve à l’appui de sa prétention selon laquelle ces montants étaient des montants d’argent comptant qui lui avaient été donnés. Le fait que son beau-père et lui aient détenu un compte bancaire conjoint ne signifie pas que les montants qui y étaient déposés appartenaient à Garfield Crawford. Son beau-père a reçu uniquement un revenu de pension au cours des années en cause, et ces revenus ont été utilisés pour prendre soin de lui, afin qu’il puisse vivre dans sa propre résidence jusqu’en 2001.
+[20] Selon le témoignage de Garfield Crawford, son frère est schizophrène, et depuis 1995, M. Crawford détient une procuration l’habilitant à s’occuper des affaires de son frère. Son frère a touché une pension d’invalidité du Régime de pensions du Canada (le « RPC ») qui a été déposée dans un compte détenu auprès de la Banque de Montréal. Les éléments de preuve ont démontré que, le 16 novembre 1998, M. Crawford avait tiré un chèque[v] sur le compte bancaire de son frère au montant de 5 000 $. Le chèque était fait à l’ordre d’IPAX. Selon le livret relatif à ce compte, aucun autre retrait n’a été effectué de ce compte. Les fonds détenus dans ce compte n’appartenaient pas à Garfield Crawford, et il ne s’agissait pas de montants non imposables reçus par lui.
+[21] Les appelants ont prétendu qu’ils avaient reçu d’autres montants d’argent non imposables au cours de la période en cause, à savoir :
+1995
+1996
+1997
+1998
+1999
+2000
+Vente
+d’œuvres
+d’art, etc.
+3 000 $
+4 200 $
+1 500 $
+Ventes de
+garage
+4 000 $
+8 000 $
+8 000 $
+8 000 $
+8 000 $
+8 000 $
+Vente de
+voitures
+8 500 $
+10 500 $
+3 150 $
+11 800 $
+1 500 $
+4 050 $
+Gains au
+casino
+5 000 $
+3 200 $
+[22] Tous les montants inclus dans le tableau figurant au paragraphe 21 sont des estimations communiquées par les appelants. Il n’y avait aucune documentation confirmant qu’ils auraient eu accès à ces montants. Je trouve parfaitement invraisemblable que les appelants aient réalisé des ventes annuelles de 8 000 $ lors de ventes de garage ou qu’ils aient tiré les montants qu’ils avancent de la vente de voitures. De même, le 4 février 2004, lorsque M. Liu, un agent des appels, s’est entretenu avec Garfield Crawford, il lui a demandé s’il s’adonnait souvent à des jeux d’argent. À l’époque, M. Crawford n’avait pu citer aucun montant de gains qu’il aurait réalisés parce que, selon ses dires, ces montants étaient négligeables. Cependant, en 2009, lorsqu’il a établi la pièce A-9, non seulement a-t-il été capable de préciser les montants qu’il aurait censément gagnés, mais il a aussi été capable de préciser à quelles époques il aurait gagné ces montants. Les éléments de preuve des Crawford en ce qui a trait à ces montants d’argent non imposables reçus sont totalement intéressés.
+[23] Compte tenu des éléments de preuve dont je dispose, je n’ai aucune hésitation à conclure que le ministre a, à juste titre, établi des cotisations à l’égard de Garfield Crawford et de Doreen Crawford après l’expiration du délai de prescription prévu par la loi. M. et Mme Crawford ont fait, au sujet de leurs revenus, des fausses déclarations qui s’apparentent à des omissions volontaires.
+[24] J’ai aussi conclu que le ministre s’était acquitté du fardeau relatif à l’imposition de pénalités aux appelants. Ceux-ci n’ont pas produit leurs déclarations de revenu pour 1996, 1997, 1998 et 1999 avant qu’ils soient sommés de le faire. Ils n’ont pas produit de déclaration de revenu pour 2000. Lorsqu’ils ont produit leurs déclarations pour 1996 à 1999, ils ont déclaré moins de revenus que ce qu’ils savaient avoir pris d’IPAX. Les montants inclus à leurs revenus à la suite de la cotisation fondée sur la valeur nette sont importants en comparaison des montants de revenus que les appelants ont déclarés.
+IPAX
+[25] Le ministre a établi le montant de la dette d’IPAX au titre de la TPS conformément à ce qui est indiqué à l’annexe A jointe aux présents motifs.
+[26] Clara Massara, une agente des appels de l’ARC, a affirmé, lors de son témoignage, qu’elle avait rencontré M. Garfield et son comptable, Bruce Berry, le 9 décembre 2003. M. Berry lui a dit qu’il avait établi les déclarations de revenu (les « T2 ») pour IPAX mais que les déclarations de TPS avaient été établies par un employé d’IPAX[vi]. Il a expliqué à Mme Massara que l’écart entre les ventes déclarées dans les T2 et celles déclarées dans les déclarations de TPS s’expliquait par des ventes intersociétés effectuées par IPAX à Beam of Barrie. IPAX achetait tous les produits utilisés par les deux sociétés, et des produits étaient transférés à Beam of Barrie selon les besoins. À la fin de l’année, M. Berry faisait un rajustement pour tenir compte de ces transactions intersociétés. Aucune TPS n’a été facturée à Beam of Barrie sur ces ventes intersociétés. Si de la TPS avait été facturée à Beam of Barrie, la société aurait eu droit à un crédit de taxe sur les intrants (un « CTI ») au titre des achats intersociétés. Mme Massara a affirmé qu’elle avait laissé entendre que les transactions semblaient être des [traduction] « opérations sans effet fiscal »; la cotisation serait maintenue, mais les intérêts et la pénalité pourraient peut-être être réduits. Elle a affirmé qu’à la fin de la rencontre, elle avait demandé divers documents et que M. Berry allait vérifier si Beam of Barrie pouvait demander les CTI compensatoires.
+[27] Mme Massara a affirmé qu’après avoir examiné les états financiers produits avec les T2 de Beam of Barrie et la taxe nette que cette société avait déclarée aux fins de la TPS, elle a conclu que Beam of Barrie avait demandé des CTI sur tous les achats intersociétés[vii]. Mme Massara n’a pas réduit le montant de la pénalité imposée à IPAX parce que toutes les déclarations de TPS d’IPAX avaient été produites tardivement.
+[28] À l’audition des présents appels, les appelants ont soutenu que le flux monétaire de Beam of Barrie à IPAX n’était qu’un transfert de fonds. Il n’y aurait eu aucun transfert de produits entre les deux sociétés puisque Beam of Barrie avait acheté son propre inventaire. Les appelants ont également soutenu que certaines des sommes que leur ancien comptable, M. Berry, avait inclues dans les ventes[viii] étaient des prêts consentis par Garfield Crawford à titre d’actionnaire.
+[29] M. Wayne Matheson, un comptable agréé, a témoigné pour le compte des appelants. Il a produit des extraits du grand livre général d’IPAX, des chèques que Beam of Barrie avait faits à IPAX et certains relevés de dépôts effectués dans le compte bancaire d’IPAX. Selon son témoignage, ces documents étayaient la position des appelants, et M. Berry avait commis une erreur lors de l’établissement des déclarations T2 pour IPAX.
+[30] Je n’ai accordé aucun poids au témoignage de M. Matheson. Celui-ci s’est appuyé sur des extraits du grand livre général d’IPAX, mais ce grand livre général n’a jamais été présenté en entier à la Cour. L’intégralité du témoignage de M. Matheson était un témoignage d’opinion, puisque M. Matheson n’avait aucune connaissance personnelle des documents.
+[31] Les documents fournis à l’ARC à l’étape de l’opposition dans les présents appels n’étayent pas la position des appelants. À l’étape de l’opposition dans les dossiers dont il est ici question, M. Crawford a fourni à l’ARC les chèques que Beam of Barrie avait faits à l’ordre d’IPAX. La plupart de ces chèques de Beam of Barrie à IPAX portaient la mention [TRADUCTION] « Objet : produits ». Pour conclure sur ce point, l’avis d’appel déposé dans le cadre de l’appel d’IPAX n’étaye pas la position que les appelants ont adoptée lors de l’audition des présents appels. Les paragraphes 10 à 12 de l’avis d’appel comportent les admissions suivantes :
+[traduction]
+10. Les deux sociétés mènent leurs activités quotidiennes de manière intégrée. Par souci de simplicité et de pragmatisme, IPAX achète tout l’inventaire, presque exclusivement auprès du franchiseur Beam of Canada Ltd. Lorsque l’une ou l’autre société en avait besoin, l’inventaire était transporté jusqu’au chantier pour être intégré aux contrats en cours.
+[…]
+12. IPAX achète tout l’inventaire en son nom, puis elle demande des crédits de taxe sur les intrants, ou « CTI », au titre de la TPS payée aux fournisseurs.
+[32] J’ai aussi conclu que Garfield Crawford n’avait consenti aucun prêt à IPAX, mis à part ceux qui étaient mentionnés dans les états financiers d’IPAX. Je n’ai accordé aucun poids aux relevés de dépôts produits à titre de preuve de prêts par un actionnaire. Il était très clair que la mention [TRADUCTION] « prêt d’un actionnaire » avait été inscrite sur certains des relevés de dépôts après la date du relevé. Étant donné que les relevés de dépôts ont été photocopiés de nombreuses fois, je n’ai pas pu déterminer avec la moindre certitude si l’un des originaux des relevés de dépôts portait la mention [TRADUCTION] « prêt d’un actionnaire ».
+[33] Compte tenu des éléments de preuve dont je dispose, je conclus que le ministre a, à juste titre, établi des cotisations à l’égard d’IPAX après l’expiration du délai de prescription prévu par la loi. Il y avait un écart important entre les ventes déclarées dans les T2 et celles déclarées dans les déclarations de TPS. Le fait qu’un rajustement devait être inscrit chaque année pour qu’on puisse calculer correctement les ventes afin d’établir les états financiers aurait dû alerter le comptable ou M. Crawford au fait que cette entrée dans les livres aurait des répercussions au plan de la TPS.
+[34] Les appels de Garfield Crawford et de Doreen Crawford sont accueillis conformément aux présents motifs. L’appel d’IPAX est accueilli de manière à rajuster le montant inclus au revenu en fonction des calculs de la valeur nette relatifs aux appelants.
+[35] Si les parties ne parviennent pas à s’entendre au sujet des dépens au plus tard le 12 octobre 2010, elles auront jusqu’au 29 octobre 2010 pour présenter des observations écrites.
+Signé à Ottawa, Canada, ce 8e jour de septembre 2010.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 10e jour de janvier 2010.
+Mario Lagacé, jurilinguiste
+Annexe A
+IPAX CANADA LIMITED
+Fin de l’exercice : le 30 avril
+Objet : Calculer une nouvelle cotisation en corrigeant les ventes dérivées, y compris les rajustements selon la valeur apportés à la T2 et la taxe comprise par opposition à la taxe non comprise
+EXERCICE SE TERMINANT LE
+01-05-94 au
+30-04-95
+01-05-95 au
+30-04-96
+01-05-96 au
+30-04-97
+01-05-97 au
+30-04-98
+01-05-98 au
+30-04-99
+01-05-99 au
+30-04-00
+01-05-00 au
+04-30-01
+Revenu brut – déclaration T2 :
+702 406,00
+551 404,00
+476 838,00
+740 952,00
+835 775,00
+760 088,00
+736 175,00
+Revenu brut après vérification de la T2 :
+17 186,00
+43 505,00
+35 118,00
+52 027,00
+53 292,00
+56 217,00
+et confirmé par la Direction générale des appels
+719 592,00
+594 909,00
+511 956,00
+792 979,00
+889 067,00
+816 305,00
+736 175,00
+** Revenu dérivé de la TPS :
+590 835,57
+497 590,14
+392 972,43
+358 017,29
+571 895,43
+549 852,29
+538 105,14
+Revenu de TPS non déclaré :
+128 756,43
+97 318,86
+118 983,57
+434 961,71
+317 171,57
+266 452,71
+198 069,86
+*
+x 7/107 =
+x 7/107 =
+x 7/107 =
+x 7/107 =
+x 7/107 =
+x 7/107 =
+x 7/107 =
+TPS due :
+8 423,32
+6 366.65
+7 783,97
+28 455,44
+20 749,54
+17 431,49
+12 957,84
+/ 4 trimestres
+/ 4 trimestres
+/ 4 trimestres
+/ 4 trimestres
+/ 4 trimestres
+/ 4 trimestres
+/ 4 trimestres
+TPS additionnelle par trimestre :
+2 105,83
+1 591,66
+1 945,99
+7 113,86
+5 187,39
+4 357,87
+3 239,46
+RÉSUMÉ :
+Total de la TPS additionnelle par trimestre :
+25 542,06 $
+Total de la TPS additionnelle:
+102 168,25 $
+Cotisation totale de TPS :
+105 556,76 $
+Montant calculé en trop :
+- 3 388,51 $
+** Note : Le revenu aux fins de la TPS a été déterminé en prenant le montant inscrit au compte de TPS d’IPAX comme la « TPS perçue » et en divisant ce nombre par 7 % pour obtenir les « ventes dérivées » de la société.
+* Le vérificateur a imposé une taxe non comprise de 7 %, et la Direction générale des appels a établi de nouvelles cotisations sur la base de la taxe comprise (7/107).
+RÉFÉRENCE : 2010 CCI 427
+Nos DES DOSSIERS DE LA COUR : 2004-3464(GST)G
+2004-4526(IT)G
+2004-4527(IT)G
+INTITULÉS : IPAX CANADA LIMITED c.
+SA MAJESTÉ LA REINE
+DOREEN CRAWFORD c.
+SA MAJESTÉ LA REINE
+GARFIELD CRAWFORD c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Les 15 et 16 avril et les 6 et 7 juillet 2010
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 8 septembre 2010
+COMPARUTIONS :
+Avocat des appelants :
+Me T. James Treloar
+Avocats de l’intimée :
+Me Lesley L’Heureux
+Me Ernesto Cáceres
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : T. James Treloar
+Cabinet : T. James Treloar Professional Corporation
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[i] Transcription, page 249, lignes 19 à 25.
+[ii] Voir la pièce A-6, sous l’onglet 9, et la pièce A-4, sous les onglets 2 et 3.
+[iii] Voir la pièce R-2, sous l’onglet 23, à la page 2.
+[iv] Voir la pièce A-8, sous l’onglet 7.
+[v] Voir la pièce A-7, sous l’onglet 5, à la page 4.
+[vi] Doreen Crawford a affirmé lors de son témoignage qu’elle avait établi les déclarations trimestrielles pour IPAX.
+[vii] Une lettre de M. Barry datée du 7 avril 2004 a confirmé que Beam of Barrie avait demandé des CTI sur tous les transferts de produits intersociétés. Voir la pièce R-1, sous l’onglet 16.
+[viii] M. Berry est décédé avant l’audition des présents appels.

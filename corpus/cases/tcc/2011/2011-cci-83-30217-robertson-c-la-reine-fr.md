@@ -1,0 +1,317 @@
+---
+title: "Robertson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30217/index.do"
+last_modified: "2011-02-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 83"
+citation2: ""
+neutral_citation: "2011 CCI 83"
+decision_date: "2011-02-17"
+language: "fr"
+item_id: "30217"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7765
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:06:16.626000+00:00"
+cases_cited_count: 6
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a549730b5908083640fa03362c3313f5a789af45adcfa6eaea68d43b2da30f64"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Robertson c. La Reine
+
+- Citation: 2011 CCI 83
+- Decision date: 2011-02-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7765, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robertson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-17
+Référence neutre
+2011 CCI 83
+Numéro de dossier
+2004-2266(GST)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-2266(GST)G
+ENTRE :
+ÉDOUARD ROBERTSON,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue les 7 et 8 septembre 2010 à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat du requérant :
+Me François Bouchard
+Avocats de l'intimée :
+Me Patrick Vézina et Me Anick Pelletier
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l’appelant afin d’obtenir une ordonnance lui permettant d’obtenir une provision pour frais au montant de 100 000 $.
+Et vu la preuve soumise par les parties.
+La Cour rejette la requête avec dépens en faveur de l’intimée, selon les motifs de l’ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 17e jour de février 2011.
+« Alain Tardif »
+Juge Tardif
+Référence : 2011 CCI 83
+Date : 2011 02 17
+Dossier : 2004-2266(GST)G
+ENTRE :
+ÉDOUARD ROBERTSON,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge Tardif
+[1] Il s’agit d’une requête en provision pour frais au montant de 100 000 $. Le requérant, Édouard Robertson est un indien au sens de la Loi sur les Indiens. Il est membre de la Bande Montagnaise de Mashteuiatsh à Pointe Bleue dans la région du Lac Saint-Jean.
+[2] Monsieur Robertson exploite une entreprise de fabrication et vente de fourrures, mais aussi d’autres vêtements, dont la matière première n’est pas nécessairement la fourrure qui, d’ailleurs, ne constitue pas la principale composante au niveau de l’ensemble de son chiffre d’affaires.
+[3] Les clients de l’entreprise sont principalement des non‑Indiens. La famille Robertson est associée et impliquée dans le commerce des fourrures de père en fils et ce, depuis six générations.
+[4] Le requérant a acquis à la fin des années 1990 une partie du commerce alors propriété de son père. Il a ainsi tout acheté à l’exception du volet achat et ventes des fourrures à l’état de peau ou fourrures brutes.
+[5] Dans le cadre de l’exploitation de son commerce, le requérant n’a jamais fait la demande pour obtenir le statut d’inscrit l’obligeant à percevoir et remettre la T.P.S. et T.V.Q. Il n’aurait d’ailleurs jamais fait l’objet d’une demande à cet effet de la part de Revenu Québec. En vertu de la Loi sur la taxe d’accise, le requérant exploitait une entreprise dont les activités étaient assujetties aux dispositions de cette même loi.
+[6] Monsieur Robertson n’a donc jamais perçu, à titre de mandataire de la Couronne, les taxes à la consommation (T.P.S. et T.V.Q.).
+[7] Revenu Québec à titre de mandataire du Ministre du revenu national a, à la suite de vérifications, émis des avis de cotisation pour des montants substantiels à l’endroit du requérant.
+[8] D’entrée de jeu, le requérant a contesté le droit de lui imputer l’obligation de percevoir et remettre les taxes établies et en vigueur. Monsieur Robertson a, dès lors, soutenu qu’en vertu de son statut d’Indien, il n’avait aucune obligation à cet effet d’une part et d’autre part, il prétendait que si obligation il y avait, c’était non pas à l’endroit du Québec et Ottawa, mais à l’endroit de sa bande qui, selon lui, était seule compétente et autorisée à percevoir de telles taxes auprès des Indiens.
+[9] Le requérant a notamment soumis que la Loi sur les Indiens et la Loi sur la taxe d’accise étaient deux lois incompatibles.
+[10] Lors des vérifications et du processus qui a conduit à l’émission des avis de cotisation, les dirigeants de la bande du requérant négociaient avec le Gouvernement du Québec dans le but d’en arriver à une entente relative aux droits et à la compétence fiscale de la bande. Dans un tel contexte, le requérant aurait voulu que sa bande s’implique dans son dossier. À cet effet, il informait les dirigeants de sa bande et les pressait d’intervenir pour régler le dossier ou tout au moins qu’il fasse le nécessaire pour suspendre les initiatives de Revenu Québec.
+[11] Malgré les démarches du requérant auprès de sa bande, le processus a toujours progressé au point qu’il a finalement dû négocier avec l’intimée une entente en vertu de laquelle, il percevrait les taxes conformément aux lois et procéderait aux remises jusqu’à ce qu’une décision intervienne quant à la valeur de ses arguments juridiques à savoir, notamment son assujettissement à la Loi sur la taxe d’accise dans le cadre de l’exploitation de son commerce.
+[12] Le montant des cotisations établies étant toujours en souffrance, le requérant a fait l’objet de diverses tentatives de recouvrement de la part de l’intimée; conséquemment, il a vu la situation financière de son entreprise se détériorer considérablement.
+[13] Il a initié plusieurs démarches pour obtenir un support financier tant au niveau de sa communauté qu’au niveau de plusieurs organismes habituellement sollicités dans ce genre de situation; il a également dû faire des démarches pour maintenir son entreprise en opération. Il a donc dû faire des démarches de deux ordres, soit l’une pour obtenir les fonds requis pour poursuivre sa contestation devant cette Cour et, d’autres, pour poursuivre ses activités commerciales.
+[14] Il n’a pas pu obtenir les appuis financiers requis et nécessaires, notamment de sa bande, si ce n’est qu’elle a accepté d’assumer les coûts requis pour la préparation d’une expertise portant sur l’existence ou non d’un droit ancestral, élément fort important du fondement de sa contestation le tout représentant un déboursé de l’ordre de 30 000 dollars. Toutes les autres démarches ont échoué ou reçu des avis de non recevoir; il a ainsi conclu ne pas avoir la capacité financière de poursuivre le débat judiciaire qu’il a initié dans le cadre de sa contestation des cotisations d’autant plus qu’il a déjà déboursé des montants substantiels dans son dossier.
+[15] Au soutien de sa requête, le requérant a fait valoir qu’il possédait de bons droits, mais qu’il n’avait pas ou plus la capacité financière de poursuivre le débat faute de ressource. Le requérant soutient également que la solution du litige a et aura des conséquences extrêmement importantes sur un très grand nombre de personnes, mais aussi l’avenir de sa bande.
+[16] En substance, le requérant soutient rencontrer tous les critères et conditions édictés au fil des années par les tribunaux, dont notamment et principalement dans les affaires Okanagan[1] et Little Sisters[2], décisions de la Cour Suprême du Canada.
+[17] Malgré l’importance et l’intérêt public qu’il attribue à son dossier, le requérant soumet qu’il n’a pas réussi à amasser les fonds nécessaires étant ainsi obligé de livrer seul la bataille juridique; le conseil de bande de la première Nation Mashtewiatsh n’a présenté aucune demande pour intervenir dans l’instance et son implication dans le dossier s’est limitée à payer les coûts de l’expertise au montant de 30 000 $ que le requérant compte utiliser pour démontrer le bien‑fondé de ses prétentions.
+[18] Les parties reconnaissent la compétence de la Cour canadienne de l’impôt pour décider du bien‑fondé de la requête de provision pour frais à partir des divers critères et/ou conditions établies par les tribunaux, mais tout particulièrement ceux de la Cour Suprême du Canada.
+[19] À cet effet, je ne suis pas convaincu que la Cour canadienne de l’impôt à l’autorité requise pour entendre une telle requête; compte tenu de la position des parties sur cet aspect, je me limite à cette observation.
+[20] Le requérant a fait valoir qu’il respecte toutes les conditions requises pour avoir gain de cause sur sa requête. À cet effet, le requérant soumet notamment ce qui suit :
+· Il affirme être d’une part incapable d’assumer les coûts requis pour la poursuite de son dossier devant le tribunal et ce, après avoir fait de multiples tentatives et pris plusieurs initiatives à cet effet auprès de plusieurs intervenants.
+· Il appuie ses prétentions sur des points de droit sérieux en soulevant notamment que la Loi sur la taxe d’accise est incompatible avec la Loi sur les Indiens.
+· Il prétend également que la communauté à laquelle il appartient, c’est‑à‑dire les Montagnais du Lac Saint-Jean, possède un droit ancestral en matière de traite de fourrure, et, ce qui est connexe; selon le requérant, un tel droit fait en sorte qu’il n’a pas à percevoir la T.V.Q. et la T.P.S. dans le cadre d’activités commerciales qui découlent de l’exercice de ce droit ancestral.
+· Il soumet en outre que ce même droit ancestral confère à sa communauté le droit exclusif de percevoir des taxes sous quelque forme que ce soit, cette dernière bénéficiant de l’autonomie gouvernementale.
+· Il fait aussi valoir que l’article 89 de la Loi sur les Indiens est inconstitutionnel dans le contexte de la Loi sur la taxe d’accise soutenant que les Indiens sont traités d’une manière discriminatoire, notamment quant à la gestion de leurs biens.
+· Il affirme que les questions de droit que soulève son dossier ont un intérêt considérable tout en ayant des conséquences appréciables conférant ainsi à son dossier une dimension dite d’intérêt public, notamment parce qu’elles n’ont pas encore été tranchées par les tribunaux.
+· Il soumet que les fondements de sa contestation sont sérieux et non frivoles respectant ainsi la condition voulant que les droits en cause soient prima facie, au point que les chances de succès sont réelles.
+· Finalement, il soumet que le litige a un très grand intérêt débordant largement ses intérêts personnels.
+[21] De son côté, l’intimée soumet à partir de plusieurs décisions que le requérant ne rencontre aucun des critères ou conditions édictés par la jurisprudence. Détail fort intéressant, les parties appuient leur position respective sur sensiblement les mêmes importantes décisions.
+[22] Le droit d’un appelant de se voir octroyer une provision pour frais dans une cause dite « d’intérêt public » est consacré, mais aussi encadré par l’arrêt Okanagan où la Cour Suprême du Canada édicte ce qui suit :
+Le pouvoir d’ordonner le paiement de frais provisoires est inhérent à la nature de la compétence en équité de statuer sur les dépens, et le tribunal peut, lorsqu’il l’exerce, décider à son gré à quel moment et par qui les dépens seront payés. Ce large pouvoir discrétionnaire peut être expressément mentionné dans une loi, […]
+Toutefois, même en l’absence d’habilitation législative explicite, le pouvoir d’attribution de frais provisoires découle implicitement de la compétence des tribunaux de statuer sur les dépens comme c’est le cas dans les Rules of Court de la Cour suprême de la Colombie-Britannique, qui prévoient que la cour peut rendre des ordonnances qui dérogent à la règle habituelle voulant que les dépens suivent le sort de l’affaire[3].
+(Nos soulignés)
+[23] L’article 147(1) des Règles de la Cour canadienne de l’impôt prévoit une telle règle en matière de dépens :
+La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+[24] La Cour suprême, sous la plume du juge Lebel, résume ainsi les conditions qui doivent être réunies pour l’octroi d’une provision pour frais :
+1) La partie qui demande une provision pour frais n’a véritablement pas les moyens de payer les frais occasionnés par le litige et ne dispose réalistement d’aucune autre source de financement lui permettant de soumettre les questions en cause au tribunal — bref, elle serait incapable d’agir en justice sans l’ordonnance.
+2) La demande vaut prima facie d’être instruite, c’est-à-dire qu’elle paraît au moins suffisamment valable et, de ce fait, il serait contraire aux intérêts de la justice que le plaideur renonce à agir en justice parce qu’il n’en a pas les moyens financiers.
+3) Les questions soulevées dépassent le cadre des intérêts du plaideur, revêtent une importance pour le public et n’ont pas encore été tranchées[4].
+[25] En 2007, dans l’arrêt Little Sisters, la Cour suprême, toujours sous la plume du juge Lebel, a analysé de nouveau une demande de provision pour frais en précisant d’une manière encore plus restrictive les critères définis dans Okanagan.
+[26] Dans un premier temps, les critères sont réitérés, mais la Cour ajoute en quelque sorte un nouveau critère ou resserre tout au moins les critères en édictant qu’il doit y avoir des circonstances particulières, voire rares et exceptionnelles[5].
+[27] En effet, le juge Lebel vient rappeler que seule une affaire « rare et exceptionnelle » et suffisamment particulière peut justifier l’attribution d’une provision pour frais[6]. Les critères d’Okanagan sont donc toujours valides, mais encore faut-il que l’affaire dans sa globalité présente ce caractère rare et exceptionnel.
+[28] Il s’agit en soi d’un véritable critère fort important qui transcende tous les autres critères. Chose certaine ce seul critère a pour effet que chaque critère doit être appliqué avec une attention particulière.
+[29] Ainsi, il ne suffit pas de remplir les trois conditions requises pour se qualifier et obtenir une provision pour frais. Il faut également tenir compte de ce que la Cour a dit lors d’un autre extrait qui se lit comme suit :
+La règle de l’arrêt Okanagan découlait d’un ensemble de faits très particuliers et déterminants qui engendraient une situation qui ne devrait guère se reproduire.
+(Nos soulignés)
+[30] Selon la Cour suprême, il faut examiner individuellement chacune des questions soulevées par le demandeur pour savoir si elles vaillent la peine d’être instruites[7]. La Cour suprême a également statué que les second et troisième critères d’Okanagan sont les plus importants et souvent indissociables lors d’une analyse.
+[31] La Cour suprême a suggéré certains conseils permettant au juge de déterminer si une affaire présente un caractère rare et exceptionnel. Nous allons aussi analyser les faits afin de déterminer si le dossier présente un caractère particulier et rare, voire exceptionnel. Le premier critère est le suivant :
+1) La partie qui demande une provision pour frais n’a véritablement pas les moyens de payer les frais occasionnés par le litige et ne dispose réalistement d’aucune autre source de financement lui permettant de soumettre les questions en cause au tribunal — bref, elle serait incapable d’agir en justice sans l’ordonnance.
+[32] Une partie très importante de la preuve visait ou concernait la présence ou non de ce critère d’ordre économique. D’entrée de jeu, il est évident que la contestation initiée par le requérant nécessitera des déboursés très substantiels. D’ailleurs, à ce jour, il a déjà fait des déboursés importants.
+[33] Concernant le premier critère d’Okanagan, la Cour Suprême affirme dans Little Sisters :
+Le demandeur doit étudier toutes les autres possibilités de financement, ce qui inclut, sans y être limité, les sources de financement public telles que l’aide juridique et les autres programmes destinés à aider divers groupes à ester en justice. […] Le demandeur doit également pouvoir démontrer qu’il a tenté, mais en vain, d’obtenir du financement privé au moyen d’une levée de fonds, d’une demande de prêt, d’une convention d’honoraires conditionnels et de toute autre source disponible. Le demandeur qui n’a pas les moyens de payer tous les frais du litige, mais qui n’est pas dépourvu de ressources, doit s’engager à fournir une contribution[8];
+La question du manque de ressources ne se pose même pas lorsque l’affaire n’est pas par ailleurs suffisamment particulière pour justifier cette mesure exceptionnelle[9].
+[34] Le requérant a décrit les démarches et a expliqué les difficultés de trouver du financement tant auprès des organismes publics que des institutions privées. Il a perdu son crédit auprès de la Banque de Montréal après que Revenu Québec ait entamé des procédures de recouvrement contre lui.
+[35] Dès le départ, le requérant a tenté d’associer et d’impliquer les dirigeants de sa communauté, voulant et espérant qu’elle prenne fait et acte dans son dossier. Malgré les efforts répétés auprès de son Conseil de bande, il n’a rien pu obtenir de concret, si ce n’est que le Conseil a accepté de payer l’expertise de l’expert Claude Gélinas au montant de 30 000 $.
+[36] Le requérant a également fait des demandes d’aide de financement auprès de différents organismes tels que le Programme de contestation judiciaire du Canada, Industries Canada, Développement économique Canada pour les régions du Québec, le Programme de financement des causes types auprès du Ministère des affaires indiennes et du Grand Nord ainsi que Entreprise Autochtone Canada.
+[37] Outre les explications et les états financiers produits au soutien de ses prétentions, le requérant a également soumis une déclaration sous serment de son ancien comptable, à l’effet qu’il lui est impossible d’obtenir du financement à la suite des avis de cotisation et la piètre situation financière de son entreprise[10].
+[38] M. André Benoit, consultant en gestion et en développement d’entreprise qui œuvre auprès de la Corporation de Développement Économique Montagnaise depuis 22 ans, a notamment indiqué dans sa déclaration sous serment ce qui suit :
+7 - Selon moi, l’analyse de ses états financiers, en tenant compte de l’impact de la réclamation des ministères, démontre que l’entreprise pourrait être considérée comme techniquement en faillite par une institution prêteuse;
+8 - L’entreprise et monsieur Édouard Robertson ne disposent pas des fonds pour acquitter cette réclamation, ni de garantie pour accéder à du financement en vue de son paiement d’ailleurs, une demande de financement pour acquitter ce type de créance ne reçoit généralement pas de réponse favorable;
+12 - Les sommes dépensées à la défense de ses droits ont épuisé ses réserves financières accumulées au fil des années, et la possibilité, dans le contexte actuel, d’accéder à un nouveau financement est, à toutes fins utiles, nulle[11];
+[39] Au moment de la requête, le requérant avait déjà déboursé des montants importants; de plus, il avait un montant d’honoraires impayés s’élevant à plus de 50 000 $ selon la dernière facture de son avocat; depuis, d’autres honoraires se sont ajoutés. Devant une telle réalité et le fait que la préparation et présentation de son dossier lors du procès éventuel nécessitera encore des montants substantiels, il croit se qualifier pour obtenir un soutien financier de la partie adverse.
+[40] La preuve a aussi établi que le requérant travaille pour la Société de Développement Économique Ilnu et touche un salaire de 75 000 $ l’an non imposable, ce qui doit être pris en compte dans l’analyse des moyens financiers de ce dernier.
+[41] Aux termes de ces faits et des commentaires de la Cour suprême dans l’affaire Little Sisters, il me semble que le requérant a démontré une certaine incapacité financière, mais il n’est pas dépourvu de ressources pour autant car son entreprise et la traite des fourrures ne sont pas ses seuls moyens de subsistance.
+[42] Il est manifeste que la contestation des cotisations a et aura pour effet d’entraîner des coûts toutefois substantiels; à cet égard, la preuve est claire et déterminante. Il est tout aussi évident que les parties à la contestation ont des moyens considérablement disproportionnés ce qui, selon le requérant, constitue en soi un élément important, voire déterminant au soutien de sa requête. À ce titre, une telle interprétation pourrait signifier que tout recours judiciaire contre l’État pourrait se qualifier et donner droit à une provision pour frais.
+[43] Je ne crois pas que la jurisprudence soutienne une telle interprétation ou donne une importance aussi déterminante à cet élément. Certes, il s’agit d’un élément et d’une composante mais pas suffisante en soi. La dimension financière doit s’apprécier dans un contexte plus global.
+[44] Étant donné que la condition financière doit s’apprécier dans l’optique dite situation particulière, rare et exceptionnelle, je crois pertinent de soulever l’absence totale de tout intervenant ou même témoin venu expliquer en quoi et comment le dossier pouvait être qualifié d’intérêt public, tout en justifiant le pourquoi de leur désintéressement en terme de participation financière.
+[45] Qui doit assumer les coûts d’un tel débat? Le requérant soumet qu’il a épuisé toutes ses ressources et avoir effectué sans succès toutes les démarches pour obtenir les appuis nécessaires se qualifiant ainsi pour une demande de provision pour frais en soumettant avec insistance la disproportion démesurée de la capacité de payer des parties en cause.
+[46] C’est là une évidence indiscutable; cependant doit-on conclure au droit à une provision pour frais dès qu’il existe un déséquilibre dans la capacité de payer de l’une ou l’autre des parties à un litige? Encore une fois, une telle approche aurait pour effet de qualifier pour une provision pour frais tout recours initié contre l’État.
+[47] Or, je ne crois pas que l’inégalité des capacités financières soit un critère en soi déterminant d’une part; d’autre part, il m’apparaît pertinent de rappeler que si la qualité du recours, les intérêts en jeu et ses éventuelles retombées sont des éléments présents, évidents et percutants, il est très surprenant en l’espèce de constater l’indifférence totale de tous les intervenants potentiels. N’y a-t-il pas là une indication assez évidente que les seuls intérêts en jeu sont ceux du requérant?
+[48] Le second critère d’Okanagan se lit comme suit :
+Est-ce que la demande vaut prima facie d’être instruite, c’est-à-dire qu’elle paraît au moins suffisamment valable et, de ce fait, il serait contraire aux intérêts de la justice que le plaideur renonce à agir en justice parce qu’il n’en a pas les moyens financiers.
+[49] Sur cet aspect, la Cour suprême a indiqué qu’un demandeur doit prouver qu’il ne serait pas conforme aux intérêts de la justice qu’un manque de ressources l’oblige à mettre fin à l’affaire. En d’autres termes, le fait que la demande de l’appelant ne serait pas rejetée sommairement ne suffit pas pour établir qu’il y a lieu d’accorder une provision pour frais pour en permettre l’instruction[12]; le juge Hugessen de la Cour fédérale ajoute dans Joseph c. Canada :
+Il suffit selon moi de conclure – ce que je fais – que les demandeurs ont une chance raisonnable d’obtenir au moins une partie de ce qu’ils demandent[13].
+[50] À la lumière de ces enseignements, l’incapacité financière n’est pas suffisante pour obtenir une provision pour frais, mais requiert aussi que la question en litige soit susceptible d’être tranchée du moins en partie en faveur du requérant. Ainsi, il devient nécessaire de s’interroger sur la pertinence des questions soulevées par le requérant en ce qu’il faut analyser à partir d’une preuve incomplète à ce niveau des procédures si le requérant soulève des questions de droit susceptibles de lui donner raison, tout au moins en partie, notamment en ce qui attrait à la constitutionalité de l’article 89 de la Loi sur les Indiens et de la compatibilité de la Loi sur les Indiens avec la Loi sur la taxe d’accise.
+[51] Récemment, dans l’affaire Gilles Caron[14], La Cour Suprême du Canada affirmait aux paragraphes 21, 22 et 23 ce qui suit :
+[21] La Cour provinciale se heurtait à un éventuel déni de justice une fois les ressources financières de M. Caron épuisées en raison de la durée inattendue du procès. À ce stade, le procès avait déjà absorbé beaucoup de temps et de dépenses, notamment la somme d’argent considérable provenant du Programme de contestation judiciaire. Au milieu du procès, la Cour provinciale, pour ainsi dire, n’était plus maître de la situation. Le ministère public tenait à ce que la poursuite suive son cours devant la Cour provinciale, et M. Caron tenait à faire valoir sa défense fondée sur ses droits linguistiques. Ni l’une ni l’autre des parties ne souhaitait une suspension d’instance.
+[22] Les tribunaux de l’Alberta craignaient de toute évidence que le ministère public obtienne, en persistant à continuer la poursuite devant la Cour provinciale, un avantage indu (ce que le juge Ritter a appelé « une inégalité marquée ») par rapport à l’accusé en ce qui concerne la constitution d’un dossier factuel crucial en vue de trancher une importante question constitutionnelle. Un procès marqué par l’inégalité n’aurait pas permis de trancher la question linguistique de façon définitive. Les tribunaux d’instance inférieure ont jugé valable la contestation de M. Caron et, selon eux, il était dans l’intérêt de tous les Albertains qu’elle fasse l’objet d’un examen adéquat.
+[23] Je tiens à préciser que la présente affaire n’ouvre généralement pas la voie à des demandes de fonds pour financer la défense des accusés dans des affaires pénales ordinaires soulevant de façon incidente des questions constitutionnelles (y compris des questions liées à la Charte). Dans de tels cas, l’élément essentiel est réellement l’infraction. En l’espèce, la poursuite relative à une infraction au code de la route ne constitue que la toile de fond de la bataille constitutionnelle. Comme nous le verrons, le paradigme proposé dans Okanagan et Little Sisters (no 2) en ce qui concerne le financement pour des raisons d’intérêt public dans une affaire civile constitue une meilleure analogie.
+[52] Le requérant argumente que la Loi sur les Indiens est discriminatoire au sens de l’article 15 de la Charte. Plus particulièrement, l’article 89 de la Loi sur les Indiens qui, dans les faits, empêche un Indien de donner ses biens en garantie serait discriminatoire dans le cadre de l’application de la Loi sur la taxe d’accise.
+[53] En effet, l’article 89 prive l’Indien de faire du commerce en son nom personnel et l’oblige à s’incorporer pour faire des affaires et donner des biens en garantie, ce qui a pour conséquence de le priver de son exemption de taxe prévue à l’article 87 de la Loi sur les Indiens.
+[54] L’article 89 prévoit que les biens d’un Indien situés sur une réserve ne peuvent pas faire l’objet d’un privilège, d’un nantissement, d’une hypothèque, d’une opposition, d’une réquisition, d’une saisie ou d’une exécution en faveur ou à la demande d’une personne autre qu’un Indien ou une bande. Il s’agit là d’une disposition dont l’objectif est essentiellement la sauvegarde du patrimoine des personnes détenant le statut ou la qualité d’Indien.
+[55] De son côté, l’article 15 de la Charte prévoit que :
+(1) La loi ne fait acception de personne et s'applique également à tous, et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment des discriminations fondées sur la race, l'origine nationale ou ethnique, la couleur, la religion, le sexe, l'âge ou les déficiences mentales ou physiques.
+(2) Le paragraphe (1) n'a pas pour effet d'interdire les lois, programmes ou activités destinés à améliorer la situation d'individus ou de groupes défavorisés, notamment du fait de leur race, de leur origine nationale ou ethnique, de leur couleur, de leur religion, de leur sexe, de leur âge ou de leurs déficiences mentales ou physiques.
+[56] Dans une décision récente, l’arrêt Ermineskin, la Cour suprême s’est penchée sur la constitutionnalité, en vertu de l’article 15 de la Charte, des articles 61 à 68 de la Loi sur les Indiens.
+[57] Les faits étaient les suivants. La Couronne détenait en fiducie pour les bandes des sommes composées principalement des redevances tirées de l’exploitation des ressources pétrolières et gazières découvertes dans le sous-sol de réserves situées en Alberta. La Couronne a payé à l’égard de ces montants un intérêt dont le taux a été fixé par des décrets pris en application de la Loi sur les Indiens. Selon les conseils de bande, les obligations fiduciaires de la Couronne exigeaient que les redevances soient investies de façon prudente, soit dans un portefeuille diversifié. Toujours selon eux :
+Si ces dispositions [les articles 61 à 68 de la Loi sur les Indiens] empêchent la Couronne d’investir les redevances comme le ferait un fiduciaire de common law, leur effet est discriminatoire. Parce qu’elles sont des Indiens au sens de la Loi sur les Indiens, celle-ci les a privées des droits reconnus aux non-Indiens lorsque la Couronne détient leurs biens en fiducie[15].
+[58] L’appel des conseils de bande fut rejeté. Sur la question de l’évaluation du critère discriminatoire d’une disposition de la Loi sur les Indiens, la Cour suprême affirme ce qui suit :
+La jurisprudence de notre Cour sur le droit à l’égalité établit clairement que toute distinction n’est pas discriminatoire. Le fait que des groupes soient traités différemment ne constitue pas en soi une atteinte aux droits garantis au par. 15(1). Comme notre Cour l’a dit dans l’arrêt Andrews c. Law Society of British Columbia, [1989] 1 R.C.S. 143, p. 182 (et réaffirmé dans l’arrêt R. c. Kapp, 2008 CSC 41, [2008] 2 R.C.S. 483, par. 28), le plaignant doit démontrer « non seulement qu’il ne bénéficie pas d’un traitement égal devant la loi et dans la loi, ou encore que la loi a un effet particulier sur lui en ce qui concerne la protection ou le bénéfice qu’elle offre, mais encore que la loi a un effet discriminatoire sur le plan législatif » (je souligne). La méthode d’analyse établie dans l’arrêt Andrews comporte deux volets : premièrement, la loi établit-elle une distinction fondée sur un motif énuméré ou analogue et, deuxièmement, la distinction crée-t-elle un désavantage par la perpétuation d’un préjugé ou l’application de stéréotypes?[16]
+(Nos soulignés)
+[59] L’article 89 n’a pas comme conséquence de désavantager l’Indien. Bien au contraire, il s’agit d’une disposition qui a pour but de protéger ses biens. Il est vrai que l’article 89 peut occasionner des difficultés pour l’entrepreneur autochtone, mais si ce dernier n’a pas besoin de la protection de l’article 89, il peut toujours sortir du cadre d’application de la Loi sur les Indiens en s’incorporant afin de poursuivre ses affaires avec les non-autochtones. Je ne vois pas en quoi le fait de faire des affaires par le biais d’une entité juridique distincte lui ferait perdre son identité autochtone.
+[60] Chose certaine, je ne vois pas, sinon très difficilement pourquoi et en quoi l’article 89 de la Loi sur les Indiens crée un quelconque préjudice au requérant. Il s’agit tout au plus d’un très petit irritant qui d’ailleurs, affecte tous ceux qui exploitent une entreprise commerciale visée, ou assujettie par la Loi sur la taxe d’accise. L’irritant ne découle pas du statut de l’individu, mais de sa décision d’exploiter une entreprise assujettie.
+[61] Le requérant soumet également qu’on ne peut obliger les Indiens à percevoir à titre de mandataires et fiduciaires de la Couronne la T.P.S. et la T.V.Q., car ce serait contraire et irréconciliable avec les obligations de fiduciaire et de mandataire qu’elle a elle-même envers les Indiens en raison de leur statut particulier établi par la Loi sur les Indiens.
+[62] En effet, la Loi sur les Indiens crée un statut particulier pour l’Indien qui déroge au droit commun. L’Indien est considéré comme un mineur ou un pupille de l’État[17]. À titre d’exemple, mentionnons que l’Indien ne peut donner ses biens en garantie en vertu de l’article 89, tel que vu précédemment et que ceux-ci sont exempts de taxation en vertu de l’article 87 de la Loi sur les Indiens.
+[63] Il s’ensuit, selon le requérant, que l’article 221 LTA qui impute aux commerçants des obligations de perception et de remise des taxes à sa Majesté est incompatible avec la capacité juridique de l’Indien établie dans La Loi sur les Indiens.
+[64] Selon le requérant, il serait incohérent d’un côté d’empêcher l’Indien de donner ses biens en garantie et de l’autre de lui imposer le fardeau de retenir et remettre les taxes à la consommation.
+[65] Je ne comprends pas en quoi et pourquoi il y a là une quelconque incompatibilité; la capacité juridique requise pour effectuer d’élémentaires opérations administratives dans le cadre de l’exploitation d’un commerce n’est aucunement en cause.
+[66] Percevoir et remettre des taxes perçues n’exigent aucunement la capacité d’aliéner ou même le pouvoir de disposer. Il s’agit là essentiellement d’opérations d’administration et gestion.
+[67] Un tel système législatif peut sembler prima facie illogique ou injuste aux yeux du requérant, mais il n’est certainement pas prima facie illégal ou inconstitutionnel. Le forum approprié dans de telles circonstances est la Chambre des communes et non la Cour.
+[68] Toujours selon le requérant, l’article 221 LTA étant incompatible avec le statut juridique de l’Indien, il doit être déclaré inopérable puisque l’article 88 de la Loi sur les Indiens énonce :
+Sous réserve des dispositions de quelque traité et de quelque autre loi fédérale, toutes les lois d’application générale et en vigueur dans une province sont applicables aux Indiens qui s’y trouvent et à leur égard, sauf dans la mesure où ces lois sont incompatibles avec la présente loi […]
+[69] Les prétentions du requérant sont également confrontées à une autre réalité tout aussi insurmontable. L’article 88 de la Loi sur les Indiens vise les lois provinciales et non les lois fédérales telles que la Loi sur la taxe d’accise. Le recours à cet article, pour rendre inapplicable une loi fédérale à un Indien, est donc douteux sinon très discutable. Même en prenant pour acquis que l’article 88 s’applique, encore là, cela n’aurait aucun effet quant aux prétentions du requérant, puisque la Cour suprême a interprété cet article de la façon suivante :
+Je crois qu'il faut différencier deux catégories de lois provinciales. Il y a d'une part les lois provinciales qui peuvent être appliquées aux Indiens sans qu'il soit porté atteinte à leur quiddité indienne, telles les lois régissant la circulation routière. Il y a d'autre part les lois provinciales qui ne peuvent pas s'appliquer aux Indiens sans les toucher en tant qu'Indiens.
+Selon moi, les lois qui tombent dans la première catégorie continuent à s'appliquer aux Indiens ex proprio vigore [d'elles-mêmes], comme cela avait toujours été le cas avant l'adoption de l'art. 88[18] […]
+[70] L’obligation de percevoir la TPS et de la remettre aux autorités gouvernementales appropriées en est une d’application générale qui, prima facie, n’affecte pas la quiddité indienne. Il s’agit d’une obligation qui s’applique uniquement lors d’échanges commerciaux avec des non-autochtones.
+[71] Il est vrai que l’Indien bénéficie d’un statut particulier en vertu de la Loi sur les Indiens. Ce statut particulier vise à protéger l’Indien, mais il ne fait pas de lui un majeur inapte avec des capacités inférieures.
+[72] Sa capacité juridique à agir seul comme appelant dans le dossier a-t-elle été mise en cause ou questionnée? Ainsi, ce n’est pas parce que ce dernier est privé de certains droits sur le plan personnel, dont le but exclusif est la protection de son patrimoine qu’il n’a pas les capacités intellectuelles de prélever les taxes à la consommation au moment d’une vente à un non-Indiens.
+[73] D’ailleurs, l’Indien commerçant qui se sent pénalisé par la Loi sur les Indiens peut toujours s’incorporer pour mener à bien ses affaires et cela, sans autorisation de qui que ce soit.
+[74] Aussi, aucun article de la Loi sur les Indiens ni jurisprudence, à notre connaissance, ne précise que l’Indien n’a pas à prélever les taxes à la consommation à l’endroit des non‑Indiens lorsqu’il exploite une entreprise où les clients sont en partie des Indiens et en partie des non‑Indiens.
+[75] Cette absence de décision sur ce que le requérant décrit ou qualifie de très fondamental, est vécu quotidiennement sans doute par des centaines, voire des milliers de personnes ayant le statut d’Indien.
+[76] Où sont‑ils? Comment expliquer leur indifférence ou manque manifeste d’intérêt? Je risque deux réponses, le requérant n’a pas fait ses devoirs dans la recherche d’un soutien financier ou les prétentions du requérant n’ont pas la valeur ou qualité juridique qu’il y attribue. Peu importe la réponse ou l’hypothèse retenue, le résultat est le même. La requête du requérant ne rencontre pas le critère de l’intérêt public puisqu’il s’agit principalement de l’intérêt du requérant.
+[77] Il est également possible que les négociations dans le cours de l’entente cadre donnent d’éventuelles réponses. Encore là, il n’appartient pas à ce tribunal d’anticiper le résultat éventuel de telles négociations ou même de prendre pour acquis les espoirs ou attentes du requérant à cet égard. L’appréciation et l’analyse doit se faire à partir des éléments disponibles et non à partir d’hypothèses ou de spéculations qui n’ont en plus aucune assise ou fondement raisonnable.
+[78] D’ici là; la Couronne doit à la fois balancer les intérêts des communautés autochtones et non-autochtones du Canada. Comme la Cour suprême l’a énoncé dans l’arrêt Ermineskin :
+La Couronne a des obligations envers l’ensemble des Canadiens et une pondération des divers intérêts en jeu s’impose inévitablement[19].
+[79] En conclusion, sur ce volet les arguments prennent leurs assises plus sur la fantaisie que sur les droits découlant de la Loi sur les Indiens. La présentation du requérant n’a pas établi prima facie que les questions soulevées en ce qui attrait à l’incompatibilité entre la Loi sur les Indiens et la Loi sur la taxe d’accise vaillent la peine d’être instruites.
+[80] Les conclusions tirées aujourd’hui ne préjugent pas d’une décision éventuelle sur le fond, mais les faits m’apparaissent suffisamment clairs et nombreux pour conclure que les chances de succès sur cet aspect sont minces, sinon très marginales du moins à partir de la preuve soumise.
+Les droits ancestraux
+[81] D’entrée de jeu, la question des droits ancestraux est une question fort importante puisqu’elle peut générer des droits très conséquents; il s’agit d’une question qui a fait l’objet de plusieurs importantes décisions. Malgré l’abondante jurisprudence, il n’existe toujours pas de recette facile pour en déterminer l’existence. Bien plus, les décisions sont unanimes, à l’effet que chaque dossier est un cas d’espèce.
+[82] En l’espèce, la question des droits ancestraux vise deux volets différents. L’un consiste à prétendre que la communauté à laquelle appartient le requérant bénéficie de l’autonomie gouvernementale des autochtones; l’autre est à l’effet que sa communauté pratiquait le commerce des fourrures, selon les us et coutumes qui prévalaient à l’arrivée des Européens. À cet égard, le requérant soumet que les activités économiques à l’origine de la cotisation, dont il est fait appel, est une activité directement reliée au droit ancestral en cette matière.
+[83] Bien qu’il ne s’agisse pas de droits ancestraux, généraux et universels, le requérant soumet que le droit réclamé repose et découle des pratiques répandues des coutumes et/ou traditions faisant partie intégrante de la culture particulière de la communauté du requérant avant l’arrivée des Européens et après, avec ces derniers.
+[84] Bien que la question du droit ancestral constitue un volet important comme fondement aux prétentions du requérant tant au niveau de l’attente de ses droits et obligations, quant à la Loi sur la taxe d’accise que sur la question de l’autonomie gouvernementale et particulièrement en matière de fiscalité, je préfère l’occulter de mon analyse étant donné qu’il serait périlleux de tirer quelques conclusions que ce soit à cet effet à partir du seul rapport d’expert[20]* déposé au dossier et de quelques explications assez superficielles dont il a été question.
+[85] Par contre, dans l’hypothèse qu’un tel droit existe, avec respect pour l’opinion contraire, je ne crois pas que cela soutienne ou valide l’interprétation retenue par l’appelant à savoir qu’il n’est pas assujetti à la Loi sur la taxe d’accise, même quant à la partie des activités commerciales avec les non‑Indiens.
+[86] De plus, dans l’hypothèse de la reconnaissance d’un droit ancestral non équivoque, est-ce qu’une telle reconnaissance aurait pour effet de faire droit à la contestation du requérant?
+[87] Je rappelle que les fondements du droit ancestral réclamé porte sur la fourrure. Bien que les tribunaux aient clairement indiqué que les analyses visant à déterminer de la présence ou non d’un droit ancestral devaient tenir compte des changements à travers les temps, de l’évolution et de tout ce qui a pu intervenir au fil des temps. En d’autres termes, certains changements dans l’exercice du droit n’ont pas pour effet de mettre un terme au droit réclamé. Je rappelle toutefois que le droit réclamé est relatif au commerce de la fourrure qui générait d’importants bénéfices à la communauté ancestrale du requérant.
+[88] Or, dans notre dossier, la preuve a clairement établi que le volet fourrure avait une importance plutôt marginale d’une part, et d’autre part, la clientèle en était une principalement constituée de non‑Indiens. Finalement, seule la famille immédiate du requérant bénéficiait de l’exploitation de son commerce.
+[89] Ce sont là quelques éléments qui rendent le résultat éventuel plus spéculatif que raisonnable quant à l’effet d’un possible droit ancestral de faire le commerce de la fourrure à moins que fourrure veule dire aujourd’hui tout vêtement nécessaire à se vêtir en dehors de la saison estivale ce qui serait assez surprenant.
+[90] Les questions des droits ancestraux touchent la nation Mashteuiastsh dans son ensemble. Or, cette communauté semble vouloir prioriser la négociation. Il existe en effet une entente de principe d’ordre général, datée du 31 mars 2004, entre les deux paliers de gouvernement et la nation de Mashteuiatsh à laquelle appartient le requérant. Cette entente de principe vise notamment à régler les questions relatives aux droits ancestraux.
+[91] Les extraits suivants du préambule de l’entente[21] et du projet de préambule du traité[22] sont révélateurs des intentions des parties et expliquent sûrement pourquoi le conseil de bande n’a présenté aucune demande afin d’intervenir dans l’instance[23] :
+Attendu que les plus hautes instances judiciaires ont plusieurs fois affirmé que la conciliation des intérêts constitutionnels légitimes des peuples autochtones et de la Couronne relève davantage du domaine politique que du domaine judiciaire et ne peut devenir réalité que si les parties sont consentantes à se faire des concessions mutuelles au cours d’un processus de négociation dont la nature est essentiellement politique;
+Attendu que dans l’état actuel du droit on ne peut dire avec certitude quelle collectivité innue est titulaire de droits ancestraux, y compris le titre aborigène, et que les parties s’entendent pour déterminer, pour l’avenir, quelle communauté innue exercera les droits reconnus, confirmés et protégés par le Traité;
+Attendu que les parties sont conscientes que la conciliation des intérêts constitutionnels légitimes des peuples autochtones et de la Couronne relève davantage du domaine politique que du domaine judiciaire et que les parties se sont fait des concessions en vue de rendre cette conciliation réelle;
+Attendu que les parties entendent assurer par la voie d’un traité plutôt que par la voie judiciaire la reconnaissance, la confirmation et la continuation des droits ancestraux des Premières Nations de Mamuitun et de la Première Nation de Nutashkuan, y compris le titre aborigène, et non leur extinction;
+(Nos soulignés)
+[92] Il est possible que l’entente de principe débouche éventuellement sur un compromis acceptable pour toutes les parties. Par contre, il est peu probable qu’un tel compromis favorise les Indiens au détriment des non‑Indiens au point de leur permettre de transiger avec les non‑Indiens, d’une manière à créer un grave préjudice à l’endroit des non‑Indiens qui ont choisi d’œuvrer dans le même genre d’activité économique.
+[93] Lorsque la Cour Suprême du Canada a indiqué que la Couronne avait des obligations envers l’ensemble des canadiens et qu’une pondération des divers intérêts en jeu s’imposait inévitablement, il est évident que notre scénario s’inscrit dans cette réalité et logique.
+[94] En l’espèce, le requérant voudrait bénéficier exclusivement de ce qui l’avantage et répudier ce avec quoi il n’est pas personnellement en accord ou qui s’avère un irritant mineur.
+[95] Généralement, un Indien qui exploite une entreprise doit percevoir et remettre les taxes sur les ventes effectuées à des non‑Indiens, tout comme le commerçant non‑Indien devra prévoir une comptabilité de la proportion de ses ventes réalisées avec les Indiens généralement exemptés de taxe.
+[96] En l’espèce, les arguments du requérant démontrent qu’il veut bénéficier exclusivement des dispositions qui l’avantage et répudier tout ce qui l’irrite.
+[97] Le troisième critère d’Okanagan se lit comme suit :
+Est-ce que les questions soulevées dépassent le cadre des intérêts du plaideur, revêtent une importance pour le public et n’ont pas encore été tranchées?
+[98] Bien que je crois avoir déjà répondu à cette question, je voudrais toutefois compléter par un extrait de la Cour Suprême dans Little Sisters :
+Aucune injustice ne sera créée s’il est possible de régler l’affaire en cause ou de tenir compte de l’intérêt public sans accorder une provision pour frais[24].
+Est-ce que l’appel du requérant constitue une affaire rare et exceptionnelle?
+[99] Même si la Cour était d’avis que les trois conditions d’Okanagan sont satisfaites encore faudrait-il que l’affaire présente un caractère particulier, voire rare et exceptionnel?
+[100] Le requérant a cité plusieurs décisions dont Québec (Procureure générale) c. Corneau. Dans cette affaire, des métis prétendaient qu’ils détenaient des droits ancestraux dont celui de maintenir des camps sur le territoire public qu’ils occupaient. Ces derniers ont demandé une provision pour frais afin de poursuivre l’instance. Le juge a donné droit à la requête. Voici les faits qui, selon le juge, démontre que la cause est d’intérêt public :
+Pour cette raison, les intimés ne seront pas les seuls à bénéficier d'un jugement favorable, le cas échéant. Si les droits ancestraux qu'ils revendiquent étaient reconnus, l'effet du précédent bénéficierait aussi aux membres de la Communauté intervenante, laquelle compte plus de 3 000 membres.
+Le dossier, tel que constitué, montre aussi que d'autres litiges de même nature se pointent et pourraient bénéficier du sort, favorable ou non, de celui sous étude. Les dossiers latents identifiés se trouvent dans le Bas-Saint-Laurent (Métis-4), la Basse-Côte-Nord (Métis-5), en Outaouais (Métis-6) et en Beauce (Métis-7).
+Enfin, il n'est pas déplacé de souligner que les démarches de la Communauté intervenante, en vue de la reconnaissance de l'existence d'une communauté métisse sur le territoire du Saguenay-Lac-Saint-Jean, a reçu l'appui de 22 corps politiques municipaux, dont la Ville de Saguenay, depuis 2005 (pièce R-19).
+L'affaire dont on traite présente donc des caractéristiques d'intérêt public, manifestes et importantes[25].
+[101] Manifestement, le présent dossier ne soulève pas les mêmes passions pour les communautés autochtones et non autochtones à travers le pays, la province ou même la région du Lac-St-Jean, puisque le Conseil de bande dont le requérant fait partie a refusé de s’impliquer, si ce n’est par le biais des coûts inhérents à la préparation de l’expertise dont il veut bénéficier dans le cadre de ses propres préoccupations pour valider ses prétentions dans ses négociations.
+[102] Dans l’arrêt Okanagan, quatre bandes indiennes faisaient l’exploitation forestière sur des terres publiques sans l’autorisation du gouvernement de la Colombie-Britannique. Les coupes avaient pour but la construction de nouvelles habitations. Les bandes soutenaient qu’elles détenaient un droit ancestral leur permettant de s’exécuter. Ces collectivités indiennes étaient à la prise avec de nombreuses difficultés telles qu’un taux de chômage élevé, une pénurie de logement, des infrastructures inadéquates et elles devaient emprunter pour financer leurs activités courantes. Étant donné leurs moyens financiers très limités, les bandes ont demandé à la Cour Suprême de la Colombie-Britannique de leur accorder une provision pour frais. Voici la conclusion à laquelle le juge Lebel est parvenu :
+Les questions que l’on cherche à soulever au procès sont d’une importance cruciale pour la population de la Colombie-Britannique, tant autochtone que non autochtone, et une décision à leur égard constituerait un pas majeur vers le règlement des nombreux problèmes en suspens entre la Couronne et les Autochtones dans cette province. Bref, les circonstances de l’espèce sont effectivement particulières, voire exceptionnelles[26].
+[103] Les faits dans Okanagan illustre que la décision de la Cour aurait un impact majeur sur les destinées de l’ensemble de la collectivité. Ils avaient besoin du bois pour construire leur habitation, c’était une nécessité pour la survie de la communauté. Qui plus est, il paraissait important que le tribunal fixe une bonne méthode de règlement de revendication territoriale.
+[104] La Cour suprême précise également dans Little Sisters :
+Le plaideur dont l’affaire, aussi impérieuse qu’elle puisse être, n’intéresse que lui se verra refuser la provision pour frais. Toutefois, cela ne signifie pas que toute affaire d’intérêt public satisfera à ce critère[27].
+[105] Plus récemment, la Cour Suprême du Canada dans l’affaire R. c. Caron, aux paragraphes 44 et 45, affirmait ce qui suit :
+[44] Suivant le critère établi dans Okanagan, la condition relative à l’importance que le litige revêt pour le public comporte trois aspects : « [l]es questions soulevées dépassent le cadre des intérêts du plaideur, revêtent une importance pour le public et n’ont pas encore été tranchées » (par. 40). Les litiges constitutionnels ne répondent pas tous à cette condition, étant donné qu’on ne peut dire dans tous les cas que « l’affaire est si particulière qu’il serait contraire aux intérêts de la justice de rejeter la demande de provision pour frais » (Little Sisters (no 2), par. 37). Ce qui est « si particuli[er] » en l’espèce, c’est que l’affaire vaut prima facie d’être instruite (suivant la terminologie utilisée dans Okanagan) en tant que contestation visant tout le corpus des textes juridiques unilingues de l’Alberta. Les répercussions d’une issue favorable à M. Caron sur la législation de l’Alberta pourraient être extrêmement graves et les difficultés qui en résulteraient devraient, si cela devenait nécessaire, être résolues sans tarder. Une contestation marquée par l’inégalité, où l’auteur de la contestation, faute de moyens financiers, aurait eu à abandonner sa défense en cours de procès laisserait irrésolue la question. L’abandon par M. Caron à la dernière étape du procès ferait simplement en sorte que les frais engagés et les ressources judiciaires mises à contribution jusqu’à présent par le public ainsi que par M. Caron pour régler cette question soient gaspillés.
+[45] Le préjudice découlant de l’incertitude persistante concernant les droits linguistiques de la minorité francophone en Alberta transcende la situation particulière de M. Caron et risque de porter atteinte à l’intérêt public général des Albertains. Selon les tribunaux de l’Alberta, la question du statut et de l’effet de la Proclamation de 1869 n’a pas été entièrement réglée dans le cadre du litige précédent. Il est dans l’intérêt public que cette question soit examinée dès maintenant. À mon avis, c’est ce qui rend l’affaire « suffisamment particulière » au sens des arrêts Okanagan et Little Sisters (no 2).
+[106] Le requérant est le seul membre de sa communauté à pratiquer activement le commerce des fourrures. Cette activité n’est pas un commerce essentiel à la survie de la communauté Mashteuiastsh comme pouvait l’être la coupe de bois pour la communauté Indienne d’Okanagan. L’issue du procès a donc un intérêt pour lui, mais aucune preuve n’a été produite à l’effet que la décision de la Cour aura des répercussions majeures pour sa communauté ou pour d’autres personnes ou groupes, du moins, ils ne sont pas venus en attester.
+[107] Les lois d’une société ne sont pas un large menu où une personne peut choisir ce qui l’avantage ou non, et ce sous prétexte que ce n’est pas conciliable. Sur la même patinoire, les mêmes règles doivent s’appliquer à tous ceux qui décident d’y jouer.
+[108] Une autre décision citée par le requérant est Joseph c. Canada[28], qui présente des circonstances rares et exceptionnelles qu’on ne retrouve pas dans l’appel du requérant. Dans cette affaire, la bande autochtone avait institué son recours dès 1985 et assumait, sans aucune aide, les frais liés au litige depuis le début. Il s’agissait d’une petite communauté qui dépendait du gouvernement pour sa subsistance. Qui plus est, le gouvernement n’avait cessé de promettre qu’il serait remédié à la situation conflictuelle, et ce, pendant plus de 25 ans.
+[109] En l’espèce, les circonstances ne sont pas comparables aux faits des décisions mentionnées ci-haut. De sorte que, il ne me semble pas approprié de qualifier de particulière, voire rare et exceptionnelle la situation du requérant.
+[110] Après avoir entendu les représentations du requérant et après avoir relu à deux ou plusieurs reprises certains passages de la transcription, il m’apparaît assez évident qu’il tire dans toutes les directions sans jamais atteindre la cible. Cette sévère conclusion est encore plus évidente lorsque l’on replace le dossier dans son contexte global.
+[111] Le requérant soutient rencontrer les conditions requises quant à l’intérêt public tout en n’ayant pas les ressources financières requises pour faire valoir ses droits. Or, le dossier de l’appelant soulève théoriquement une question pouvant avoir des conséquences considérables, mais également sur un très grand nombre de canadiens.
+[112] Est-ce que tous les Indiens qui exploitent une activité économique assujettie à la Loi sur la taxe d’accise, pourraient éventuellement se soustraire à son application? Si oui, pourquoi n’ont-ils pas exprimé leur intérêt? Pourquoi n’ont-ils pas été sollicités? Les réponses à ces deux questions découlent sans doute de la qualité discutable de l’argument.
+[113] En effet, les obligations que commandent la Loi sur la taxe d’accise ne sont pas aussi monstrueuses que le prétend le requérant. Elles sont plutôt simples et, en l’espèce, ne concernaient que la partie des affaires effectuées avec les non‑Indiens.
+[114] Dès le départ, le requérant s’est entêté à vouloir se faire justice lui‑même et le problème s’est amplifié en fonction de sa bravade, au point qu’il a dû se rendre à l’évidence que la poursuite de son entreprise avec les non‑Indiens requérait qu’il respecte certaines règles du jeu.
+[115] À ce moment là, la situation s’était considérablement détériorée au point qu’il est maintenant dans une situation où il n’a pas les moyens de son ambition et voudrait associer la Couronne à son aventure téméraire, dont les chances de succès sont à toutes fins pratiques très minces. De plus, il n’y a pas de preuve déterminante à l’effet que la ou les questions en litige débordent les seuls intérêts du requérant.
+[116] Le requérant a démontré une certaine incapacité financière, mais il n’est pas dépourvu de ressources pour autant; son entreprise et la traite des fourrures ne sont pas ses seuls moyens de subsistance.
+[117] La cause du requérant, dans son ensemble, ne présente pas ce caractère particulier, voire rare et exceptionnel nécessaire à l’octroi d’une provision pour frais. D’ailleurs, pour ce seul motif, la requête devrait être rejetée.
+[118] Pour ces motifs, la requête en provision pour frais est rejetée, avec dépens en faveur de l’intimée. Les critères établis par la Cour suprême ne sont pas rencontrés. Les questions relatives à l’incompatibilité de la Loi sur les Indiens avec la Loi sur la taxe d’accise n’ont pas de chances raisonnables de succès, tandis qu’il n’est pas l’intérêt de la justice et du public que la question des droits ancestraux soit tranchée par le tribunal à ce stade.
+Signé à Ottawa, Canada, ce 17e jour de février 2011.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2011 CCI 83
+Nº DU DOSSIER DE LA COUR : 2004-2266(GST)G
+INTITULÉ DE LA CAUSE : Édouard Robertson et La Reine
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : les 7 et 8 septembre 2010
+MOTIFS DE L’ORDONNANCE PAR : L'honorable juge Alain Tardif
+DATE DE L’ORDONNANCE : le 17 février 2011
+COMPARUTIONS :
+Avocat du requérant :
+Me François Bouchard
+Avocats de l'intimée :
+Me Patrick Vézina et Me Anick Pelletier
+AVOCAT INSCRIT AU DOSSIER :
+Pour le requérant:
+Nom : Me François Bouchard
+Cabinet : Cain Lamarre Casgrain Wells
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Colombie-Britannique (Ministre des Forêts) c. Bande indienne Okanagan, [2003] 3 R.C.S. 371, 2003 CSC 71.
+[2] Little Sisters Book and Art Emporium c. Canada (Commissaire des Douanes et du Revenu), 2007 CSC 2, [2007] 1 R.C.S. 38.
+[3] Okanagan, par. 35.
+[4] Okanagan, par. 40.
+[5] Little Sisters, par. 38 et 61.
+[6] Little Sisters, par. 38 et 61.
+[7] Little Sisters, par. 74.
+[8] Little Sisters, par. 40.
+[9] Little Sisters, par. 46.
+[10] R-4, volume 2 de 2, onglet H.
+[11] R-4, volume 2 de 2, onglet G.
+[12] Little Sisters, par. 51.
+[13] Joseph c. Canada, 2008 CF 574, par. 16.
+[14] R c. Caron, 2011 A.C.S. 5, par. 21, 22 et 23.
+[15] Bande et nation indiennes d'Ermineskin c. Canada, 2009 CSC 9, [2009] 1 R.C.S. 222, par. 185.
+[16] Bande et nation indiennes d'Ermineskin c. Canada, par.186.
+[17] Voir onglet 8, Volume 2, Cahier d’autorités de l’Appelant : DUPUIS Renée, Le statut juridique des peuples autochtones en droit canadien, 1999, Thompson Canada Limitée, p. 33.
+[18] R. c. Dick, [1985] 2 R.C.S. 309, par. 38 et 39.
+[19] Bande et nation indiennes d'Ermineskin c. Canada, 2009 CSC 9, par. 129.
+[20] *préparé par l’antropologue historien Claude Gélinas.
+[21] p. 1 de ce texte.
+[22] p. 5 et 6 de ce texte.
+[23] Quiconque a un intérêt dans une instance peut demander le statut d’intervenant en vertu de l’article 28 des Règles de la Cour canadienne de l’impôt.
+[24] Little Sisters, par. 41.
+[25] Québec (Procureure générale) c. Corneau, 2010 QCCS 463, par. 56 à 59.
+[26] Okanagan, par. 46.
+[27] Little Sisters, par. 39
+[28] Joseph c. Canada, 2008 CF 574.

@@ -1,0 +1,171 @@
+Title: Hovington
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28186/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-871-28186-hovington-en.md
+Document type: case_law
+Last modified: 2003-12-09
+
+# Hovington
+
+- Citation: 2003 TCC 871
+- Decision date: 2003-12-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1967, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hovington
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-09
+Neutral citation
+2003 TCC 871
+File numbers
+2003-986(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2003-986(EI)
+BETWEEN:
+JACQUES HOVINGTON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Yannick Hovington (2003‑1252(EI)) on August 18, 2003, at Chicoutimi, Quebec
+Before: The Honourable Deputy Judge S.J. Savoie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Julie David
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is affirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 9th day of December, 2003.
+"S.J. Savoie"
+D.J.T.C.C.
+Certified true translation
+Colette Beaulne
+[OFFICIAL ENGLISH TRANSLATION
+Citation: 2003TCCI871
+Date: 20031209
+Docket: 2003-986(EI)
+BETWEEN:
+JACQUES HOVINGTON,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+Docket: 2003-1252(EI)
+YANNICK HOVINGTON,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+And
+JACQUES HOVINGTON,
+Intervener.
+REASONS FOR JUDGMENT
+Deputy Judge Savoie
+[1] These appeals were heard on common evidence at Chicoutimi, Quebec on August 18, 2003.
+[2] These are appeals regarding the insurability of the employment held by the Appellant, Jacques Hovington, with Yannick Hovington, the "Payer", during the period from April 15 to November 10, 2002, the "period at issue".
+[3] On February 24, 2003, the Minister of National Revenue (the "Minister") notified the Appellant of his decision that, after having examined the terms and conditions of employment, this employment was not insurable for the period at issue, because a substantially similar contract of employment would not have been entered into if he and the Payer had been dealing at arm’s length.
+[4] The Minister based his decision on the following presumptions of fact:
+a) the Appellant was operating a security guard business; (admitted)
+b) on August 22, 1996, the Appellant signed a contract of service with Boisaco Inc. (hereinafter called Boisaco) for the surveillance of his Sacré-Cœur plant; (admitted)
+c) the contract established the following surveillance schedule: from 3 pm Friday to 7 pm Sunday, and on weekdays from 5 pm to 7 am if required; (admitted)
+d) the contract established that the Appellant or one of his employees would make a security round hourly on the Boisaco property; (admitted)
+e) under the terms of this agreement, the Appellant received remuneration of $14.47 an hour for security guard services and $9.00 for transportation for each round made; (admitted with clarifications)
+f) under the terms of the agreement, the Appellant was to provide a vehicle to make the security rounds; (admitted)
+g) under the terms of the agreement, the Appellant was to have $500,000 worth of liability insurance; (admitted)
+h) the contract of service was renewed by tacit agreement from year to year; (admitted)
+i) for 4 years, the Appellant hired the Payer at an hourly rate of $8.00 an hour as a security guard; (admitted)
+j) the Payer is the son of the Appellant; (admitted)
+k) in April 2002, the Appellant transferred the Boisaco security guard contract to the Payer, receiving nothing in return; (admitted)
+l) following this transfer, no new contract was signed between Boisaco and the Payer; (admitted)
+m) on April 15, 2002, the Payer hired the Appellant as a security guard; (admitted)
+n) the Appellant looked after security of the premises, training and personnel selection for the Payer; (admitted)
+o) during the period at issue, the Payer hired, in addition to the Appellant, Franco Dufour, Pierre‑Luc Savard, Jonathan Morin and Carl Lévesque as security guards in succession and Marie‑Anna Deschênes to keep the accounting books; (admitted)
+p) during the period at issue, the Payer remunerated the Appellant at an hourly rate of $14.00 for 45 hours per week; (admitted)
+q) during the period at issue, the Payer remunerated the other security guards at an hourly rate of $8.00; (admitted)
+r) during the period at issue, the Appellant supplied the Payer with a motor vehicle; (admitted)
+s) during the period at issue, the Appellant personally guaranteed the Payer's credit line; (admitted)
+t) on November 14, 2002, the Payer issued a Record of Employment to the Appellant, showing April 15, 2002, as the first day of work and November 10, 2002, as the last day of work, 1,350 hours as the number of insurable hours and $19,656.00 as total insurable earnings for the last 27 weeks of the period; (admitted)
+u) the Appellant claims that he was laid off on November 10, 2002, as the Payer was no longer able to make ends meet financially, whereas following his layoff, the Appellant continued to provide services to the Payer, without reporting any remuneration; (admitted)
+v) on February 18, 2003, the Payer stated to a representative of the Respondent that the worker was continuing to work on a voluntary basis for the Payer and was doing him a great service; (admitted with clarifications)
+w) the Appellant's record of employment is not consistent with the hours and the period actually worked by the Appellant; (denied)
+x) the period claimed to have been worked by the Appellant does not correspond to the period actually worked. (denied)
+[5] Subsection 5(1) of the Employment Insurance Act (the "Act") reads in part as follows:
+Subject to subsection (2), insurable employment is
+a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[...]
+[6] Subsections 5(2) and (3) of the Act are worded in part as follows:
+(2) Insurable employment does not include
+[...]
+i) employment if the employer and employee are not dealing with each other at arm's length.
+[...]
+(3) For the purposes of paragraph (2)(i),
+a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act, and
+b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[7] Section 251 of the Income Tax Act reads in part as follows:
+251. Arm's length.
+(1) For the purposes of this Act,
+a) related persons shall be deemed not to deal with each other at arm's length;
+[...]
+(2) Definition of "related persons". For the purposes of this Act, "related persons", or persons related to each other, are
+a) individuals connected by blood relationship, marriage or common-law partnership or adoption;
+[...]
+[8] In order to help out his son Yannick, the Payer, the Appellant Jacques Hovington, the worker in question, transferred to him the contract of service that he had with Boisaco Inc., for which he received nothing in return. His son is young and he had just bought a vehicle on behalf of his father; he was having financial problems. In order to give him a chance, the Payer transferred the contract to him in writing effective April 11, 2002.
+[9] The week following the transfer of the contract, the Payer obtained full-time employment in the autobody field in Quebec City. This is why the Appellant was hired by the Payer beginning on April 15, 2002. Pursuant to paragraph 251(2)(a) of the Income Tax Act, the Appellant Jacques Hovington is related to the Payer Yannick Hovington. According to the Act, they do not deal with each other at arm's length.
+[10] We shall thus analyze this arm's-length relationship in light of the established criteria.
+[11] According to the Appellant, Boisaco Inc. paid the Payer $15.81 an hour for the hours of guard duty from 3:30 pm on Friday until 7 pm on Sunday. The Payer stated that he thought it was $17.60. In addition to the remuneration paid to the Appellant and to the other employee, the Payer was supposed to pay for the cost of gasoline and oil, which amounted to between $325 and $628 a month. However, the Payer paid the Appellant $14 an hour for 45 hours a week, and paid the other employee $8 an hour for 16 hours. According to the Appellant, his hourly rate was justified by the fact that it had been set on the basis that he looked after everything and that he had heavy responsibilities.
+[12] According to the Appellant, the Payer laid him off in November as he was unable to make ends meet financially. He hired employees at $8 an hour. Since the Payer continued to work in Quebec City and was not available, the Appellant continued to work from 3:30 pm on Friday until 7 pm albeit without receiving remuneration from the Payer. He did it to help him out and is still doing it.
+[13] In his determination, the Minister took into account the fact that, when Jacques Hovington was fulfilling the contract himself, he had hired his son, the Payer, for more than four years at a rate of $8 an hour.
+[14] In light of the foregoing, the Minister concluded that a stranger would not have been paid at that rate and would not have continued to work without remuneration.
+[15] The Appellant was familiar with the work that he was called upon to do, since he himself had performed these duties under the contract with Boisaco Inc. from 1996 until the contract was transferred to the Payer.
+[16] The Appellant estimates that he was working 8.5 hours on Fridays, 14 hours on Saturdays, 13 hours on Sundays, and between 3 to 10 hours cleaning one day a week.
+[17] During the period at issue, the Payer was working in Quebec City as an autobody man for $9.75 an hour.
+[18] It is true that, if the Appellant had not been employed by the Payer, the latter would have been obliged to hire someone else, but the individual hired would not have done the same job. In fact, after he was laid off, the Appellant continued to perform certain duties that could not be done by the Payer's young employees. This work was done on a voluntary basis.
+[19] The evidence revealed that the Appellant was hired from April 15 to November 10, 2002. He thus, to some extent, continued the work that he was doing before while the contract was in his own name.
+[20] The Appellant stated that the Payer had worked on contract during the two-week holiday season at the end of December.
+[21] It has been established that the Appellant also provided the Payer with services, albeit on an unpaid basis, after the holiday season, namely 3.5 hours every Friday evening. The Payer was, moreover, not able to be present from 3:30 to 7 pm on Fridays. In addition, the Appellant answered calls from the Payer's employees when the latter did not return from Quebec City on weekends.
+[22] The Minister's analysis of these circumstances persuaded him that a stranger would have received remuneration for all the time he worked.
+[23] During the period at issue, the Appellant's vehicle remained on the site of Boisaco Inc. to do the security guard rounds. It was used by the Appellant and by the Payer's other employee. However, the Appellant received no compensation for the use of this vehicle.
+[24] It is important to emphasize that the Appellant personally stood surety for the Payer's $3,000 line of credit.
+[25] It goes without saying that such conditions would not have existed, if the parties had been dealing with each other at arm's length.
+[26] It must be noted that the Appellant has admitted virtually all the Minister's presumptions. The few clarifications he added do not in any way change the general scope of the Minister's presumptions.
+[27] The Appellant is asking this Court to set aside the Minister's decision in this case.
+[28] It is appropriate to mention that the authority of this Court, its scope and its limitations, was reviewed by the Federal Court of Appeal of Canada in Canada (Attorney General) v. Jencan Ltd., [1998] 1 F.C. 187 (C.A.). It is appropriate to reproduce these relevant excerpts by Isaac C.J., who put it in the following terms:
+The decision of this Court in Tignish, supra, requires that the Tax Court undertake a two-stage inquiry when hearing an appeal from a determination by the Minister under subparagraph 3(2)c)(ii). At the first stage, the Tax Court must confine the analysis to a determination of the legality of the Minister's decision. If, and only if, the Tax Court finds that one of the grounds for interference are established can it then consider the merits of the Minister's decision. As will be more fully developed below, it is by restricting the threshold enquiry that the Minister is granted judicial deference by the Tax Court when his discretionary determinations under subparagraph 3(2)c)(ii) are reviewed on appeal. [...]
+[...]
+[...] Because it is a decision made pursuant to a discretionary power, as opposed to a quasi-judicial decision, it follows that the Tax Court must show judicial deference to the Minister's determination when he exercises that power. Thus, when Décary J.A. stated in Ferme Émile, supra [..] that such an appeal to the Tax Court "more closely resembles an application for judicial review", he merely intended, in my respectful view, to emphasize that judicial deference must be accorded to a determination by the Minister under this provision unless and until the Tax Court finds that the Minister has exercised his discretion in a manner contrary to law.
+[...]
+Thus, by limiting the first stage of the Tax Court's enquiry to a review of the legality of Ministerial determinations under subparagraph 3(2)c)(ii), this Court has merely applied accepted judicial principles in order to strike the proper balance between the claimant's statutory right to have a determination by the Minister reviewed and the need for judicial deference in recognition of the fact that Parliament has entrusted a discretionary authority under this provision to the Minister.
+On the basis of the foregoing, the Deputy Tax Court Judge was justified in interfering with the Minister's determination under subparagraph 3(2)c)(ii) only if it was established that the Minister exercised his discretion in a manner that was contrary to law. And, as I already said, there are specific grounds for interference implied by the requirement to exercise a discretion judicially. The Tax Court is justified in interfering with the Minister's determination under subparagraph 3(2)c)(ii) "by proceeding to review the merits of the Minister's determination" where it is established that the Minister: (i) acted in bad faith or for an improper purpose or motive; (ii) failed to take into account all of the relevant circumstances, as expressly required by paragraph 3(2)c)(ii); (iii) took into account an irrelevant factor.
+[29] The Federal Court of Appeal considered a similar situation in Rockwood v. Canada (Minister of National Revenue – M.N.R.), [2001] F.C.J. No. 948, where Sexton J.A. wrote as follows:
+The Tax Court Judge held that the onus was on the Applicant to establish that the Minister acted capriciously or arbitrarily and that the Applicant had failed to discharge this onus. He relied on decisions of the Court being Tignish Auto Parts Inc. v. Minister of National Revenue (1994), 185 N.R. 73 (F.C.A.) and Ferme Émile Richard et Fils v. Minister of National Revenue (1994), 178 N.R. 361 (F.C.A.).
+[...]
+In the absence of the record before the Tax Court, we are unable to disagree with the conclusion of the Tax Court Judge. He could only substitute his decision for that of the Minister where it is established that the Minister acted in bad faith or for an improper purpose or failed to take into account all of the relevant circumstances: Canada (Attorney General) v. Jencan, [1998] 1 F.C. 187 (C.A.). None of these were established in this case.
+[30] The relevance of the legislation and the case law in respect of employment contracts between related persons was commented on by Hugessen J. in Bérard v. Canada (Minister of National Revenue – M.N.R.), [1997] F.C.J. No. 88, who wrote, inter alia:
+[...] The clear purpose of the legislation is to except contracts of employment between related persons that are not similar in nature to a normal contract between persons dealing with each other at arm's length. It is in our view clear that this abnormality can just as well take the form of conditions unfavourable to the employee as of favourable conditions. In either case, the employer-employee relationship is abnormal and can be suspected of having been influenced by factors other than economic forces in the labour market.
+[31] In summary, therefore, it must be said that this Court is justified in interfering with the Minister’s determination, by proceeding to review the merits of the Minister’s determination, where it is established that the Minister acted in bad faith or for an improper purpose or failed to take into account all of the relevant circumstances or took into account an irrelevant factor.
+[32] The onus was on the Appellant to prove that the Minister's presumptions were incorrect and that he had not acted in accordance with the principles established in Jencan, supra. This he did not do.
+[33] Since the Appellant has admitted virtually all the Minister’s presumptions, we must bear in mind the Federal Court of Appeal decision in Elia v. Canada (Minister of National Revenue – M.N.R.), [1998] F.C.J. No. 316, where the Court held that the Minister’s presumptions must be taken to be admitted unless they have been specifically disproved by the Appellant.
+[34] The Appellant failed to discharge that duty.
+[35] In consequence, the employment held by the Appellant, during the period at issue, was not insurable since he and the Payer were not dealing at arm's length in accordance with the provisions of 5(2)(i) the Employment Insurance Act and sections 251 and 252 of the Income Tax Act.
+[36] Furthermore, the conditions of employment would not have been similar if the Appellant and the Payer had been dealing with each other at arm's length.
+[37] In light of the foregoing, the appeals are dismissed and the Minister's decision is affirmed.
+Signed at Grand-Barachois, New Brunswick, this 9th day of December, 2003.
+"S.J. Savoie"
+D.J.T.C.C.
+Certified true translation
+Colette Beaulne

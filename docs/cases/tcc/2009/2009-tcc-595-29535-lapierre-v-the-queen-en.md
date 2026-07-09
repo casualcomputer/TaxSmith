@@ -1,0 +1,172 @@
+---
+title: "LaPierre v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29535/index.do"
+last_modified: "2009-10-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 595"
+citation2: ""
+neutral_citation: "2009 TCC 595"
+decision_date: "2009-10-27"
+language: "en"
+item_id: "29535"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6353
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:48:22.318000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "02a6c4ec5cee4f0a4d89e135c2aa332705f205c4dda9ead9eefa6139bb6b439b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# LaPierre v. The Queen
+
+- Citation: 2009 TCC 595
+- Decision date: 2009-10-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6353, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+LaPierre v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-27
+Neutral citation
+2009 TCC 595
+File numbers
+2009-1593(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1593(IT)I
+BETWEEN:
+RALPH LAPIERRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 27, 2009, at Moncton, New Brunswick.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jill Chisholm
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment dated October 14, 2008 made under the Income Tax Act (ITA) for the 2007 taxation year is dismissed, and the appellant is not entitled to claim any moving expenses for that year pursuant to section 62 of the ITA.
+Signed at Ottawa, Canada, this 19th day of November 2009.
+« Lucie Lamarre »
+Lamarre J.
+Citation: 2009 TCC 595
+Date: 20091119
+Docket: 2009-1593(IT)I
+BETWEEN:
+RALPH LAPIERRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] This is an appeal under the informal procedure against a reassessment, made by the Minister of National Revenue (Minister) on October 14, 2008, whereby the appellant was denied the deduction of an amount of $900 as moving expenses in computing his income for the 2007 taxation year, pursuant to section 62 and the definition of "eligible relocation" in subsection 248(1) of the Income Tax Act (ITA). At trial, the appellant stated that the amount of the claim should be $1,113 rather than $900.
+[2] The relevant provisions of the ITA read as follows:
+62(1) Moving expenses ‑ There may be deducted in computing a taxpayer's income for a taxation year amounts paid by the taxpayer as or on account of moving expenses incurred in respect of an eligible relocation, to the extent that
+(a) they were not paid on the taxpayer's behalf in respect of, in the course of or because of, the taxpayer's office or employment;
+(b) they were not deductible because of this section in computing the taxpayer's income for the preceding taxation year;
+(c) the total of those amounts does not exceed
+(i) in any case described in subparagraph (a)(i) of the definition "eligible relocation" in subsection 248(1), the taxpayer's income for the year from the taxpayer's employment at a new work location or from carrying on the business at the new work location, as the case may be, and
+(ii) in any case described in subparagraph (a)(ii) of the definition "eligible relocation" in subsection 248(1), the total of amounts included in computing the taxpayer's income for the year because of paragraphs 56(1)(n) and (o); and
+(d) all reimbursements and allowances received by the taxpayer in respect of those expenses are included in computing the taxpayer's income.
+. . .
+(3) Definition of "moving expenses" ‑ In subsection (1), "moving expenses" includes any expense incurred as or on account of
+(a) travel costs (including a reasonable amount expended for meals and lodging), in the course of moving the taxpayer and members of the taxpayer's household from the old residence to the new residence,
+(b) the cost to the taxpayer of transporting or storing household effects in the course of moving from the old residence to the new residence,
+(c) the cost to the taxpayer of meals and lodging near the old residence or the new residence for the taxpayer and members of the taxpayer's household for a period not exceeding 15 days,
+(d) the cost to the taxpayer of cancelling the lease by virtue of which the taxpayer was the lessee of the old residence,
+(e) the taxpayer's selling costs in respect of the sale of the old residence,
+(f) where the old residence is sold by the taxpayer or the taxpayer's spouse or common-law partner as a result of the move, the cost to the taxpayer of legal services in respect of the purchase of the new residence and of any tax, fee or duty (other than any goods and services tax or value-added tax) imposed on the transfer or registration of title to the new residence,
+(g) interest, property taxes, insurance premiums and the cost of heating and utilities in respect of the old residence, to the extent of the lesser of $5,000 and the total of such expenses of the taxpayer for the period
+(i) throughout which the old residence is neither ordinarily occupied by the taxpayer or by any other person who ordinarily resided with the taxpayer at the old residence immediately before the move nor rented by the taxpayer to any other person, and
+(ii) in which reasonable efforts are made to sell the old residence, and
+(h) the cost of revising legal documents to reflect the address of the taxpayer's new residence, of replacing drivers' licenses and non-commercial vehicle permits (excluding any cost for vehicle insurance) and of connecting or disconnecting utilities,
+but, for greater certainty, does not include costs (other than costs referred to in paragraph (f)) incurred by the taxpayer in respect of the acquisition of the new residence.
+248(1) Definitions ‑ In this Act,
+. . .
+"eligible relocation" means a relocation of a taxpayer where
+(a) the relocation occurs to enable the taxpayer
+(i) to carry on a business or to be employed at a location in Canada (in section 62 and this subsection referred to as "the new work location"), or
+(ii) to be a student in full-time attendance enrolled in a program at a post-secondary level at a location of a university, college or other educational institution (in section 62 and in this subsection referred to as "the new work location"),
+(b) both the residence at which the taxpayer ordinarily resided before the relocation (in section 62 and this subsection referred to as "the old residence") and the residence at which the taxpayer ordinarily resided after the relocation (in section 62 and this subsection referred to as "the new residence") are in Canada, and
+(c) the distance between the old residence and the new work location is not less than 40 kilometres greater than the distance between the new residence and the new work location
+except that, in applying subsections 6(19) to (23) and section 62 in respect of a relocation of a taxpayer who is absent from but resident in Canada, this definition shall be read without reference to the words "in Canada" in subparagraph (a)(i), and without reference to paragraph (b);
+. . .
+[3] The facts are not disputed. The appellant resides in Moncton, New Brunswick, with his wife and daughter. On January 16, 2007, he flew from Moncton to Edmonton, Alberta, to begin a 10‑week period of employment with a company by the name of SecureCheck, in Yellowknife, Northwest Territories. The appellant spent an amount of $1,113 for his airfare from Moncton to Edmonton and back, and his meals and one night’s accommodation in Edmonton. That is the amount at issue. His expenses were covered by his employer, SecureCheck, from the date of his departure from Edmonton for Yellowknife to his return to Edmonton on or about April 7, 2007, which was also the date of his return to Moncton.
+[4] During the 10-week period, he stayed at a camp provided by the employer, where he was boarded and lodged. He only took with him his winter clothes, survival gear, reading material, a radio and CDs.
+[5] He kept his house in Moncton, left all his belongings there, and kept his New Brunswick driver’s licence and his physician in New Brunswick. His wife and daughter stayed in Moncton and he did not go back to visit during his period of employment.
+[6] The issue is whether the appellant is entitled to claim the amount of $1,113 as moving expenses pursuant to subsections 62(1) and 62(3) of the ITA.
+[7] In that regard, the appellant must establish that those expenses were incurred in respect of an eligible relocation. This is a term defined in subsection 248(1) of the ITA and means a relocation of a taxpayer where it occurs to enable him to be employed at a location in Canada (the new work location), where both the residence at which the taxpayer ordinarily resided before the relocation (the old residence) and the residence at which the taxpayer ordinarily resided after the relocation (the new residence) are in Canada, and where the distance between the old residence and the new work location is not less than 40 kilometres greater than the distance between the new residence and the new work location.
+[8] The appellant argues that, despite the fact that he kept his residence in Moncton and left his family behind during his 10‑week stay for his new employment in Yellowknife, he ordinarily resided in Yellowknife from the beginning of his employment in January 2007 to the end of his employment in April 2007.
+[9] The appellant relies on two decisions of this Court rendered under the informal procedure: Cavalier v. R., 2001 CarswellNat 2374, [2002] 1 C.T.C. 2001, and Persaud v. R., 2007 CarswellNat 2542, 2007 DTC 1432.
+[10] In Cavalier, Judge Bowie concluded, at paragraph 22, that, in order to be "ordinarily resident", a taxpayer need not have formed the intention to remain permanently, or for any particular length of time, at the new place of residence. Judge Bowie added: "[n]or need he move all his household effects, or be accompanied by the members of his immediate family". In that case, the taxpayer, who resided in Delta, British Columbia, had accepted a teaching position for one term (from January to the end of April) at a college in Fort McMurray, Alberta. While there, he lived in furnished premises in a residence at the college. His wife stayed in Delta. The taxpayer was able to deduct as moving expenses pursuant to subsection 62(3) of the ITA one-way airfare from his residence in Delta to Fort McMurray, automobile expenses for the return trip from Fort McMurray to Delta, meals and five nights’ accommodation, less the amount reimbursed by his employer. The amount finally allowed was approximately $250.
+[11] In Persaud, the taxpayer claimed as moving expenses the cost of travelling from New Brunswick to Alberta to work for a four-month period. His wife remained in their home in New Brunswick during that period. Relying on the Cavalier case, Webb J. concluded, at paragraph 13 of his decision, that the fact that the taxpayer’s spouse remained in New Brunswick with all the taxpayer’s furniture and other belongings was not determinative of the issue. Webb J. also mentioned that the length of stay at a particular location is a factor that should be taken into account in determining whether a person is ordinarily resident in that location. He stated at paragraph 16:
+16 However, in cases where the individual has not severed his or her residential ties with a particular location, then the time spent in the new location is a factor that should be taken into account in determining whether or not that individual is ordinarily resident in the new location as the longer the person is in the new location the more likely it is that his or her settled, ordinary routine of life is in the new location. In MacDonald v. R., 2007 TCC 250 (T.C.C. [Informal Procedure]), the individual travelled to Alberta twice. On the first trip he was unable to find any work and on the second trip he only worked for six weeks. In this particular case the Appellant stayed significantly longer in Fort McMurray than did Mr. MacDonald. As well in this particular case the Appellant also opened a bank account at the Credit Union in Fort McMurray and Mr. MacDonald did not open a bank account in Fort McMurray.
+As a result, the taxpayer in Persaud was allowed to deduct as moving expenses a total amount of $2,198, being the cost of travelling from his residence in New Brunswick to his new work location in Fort McMurray, Alberta, and back.
+[12] The MacDonald case, referred to in the above quotation (MacDonald v. R., 2007 CarswellNat 1031, 2007 TCC 250), was also decided by Webb J., but there the taxpayer was less successful. In MacDonald, Webb J. considered the fact that the taxpayer kept his Nova Scotia driver’s licence, that he continued to be covered by the Nova Scotia provincial health insurance plan, that his common-law spouse remained in Nova Scotia, that he kept his houses in Nova Scotia, that he did not take all his belongings with him to Alberta, that he did not purchase any property in that province and that he did not relocate his bank accounts to Alberta where he had travelled to find work. Webb J. concluded that the travel expenses claimed by the taxpayer in MacDonald did not constitute moving expenses under section 62 of the ITA.
+[13] On the other end of the spectrum, and in line with the MacDonald case, there are two recent decisions of this Court upon which the respondent relies. In those decisions the court does not follow the same reasoning as that in the Cavalier and Persaud cases in determining whether a taxpayer is entitled to claim moving expenses for relocations in order to take on the work.
+[14] Thus, in Sampson v. R., 2009 CarswellNat 990, 2009 TCC 204, Campbell J. states at paragraph 15 that, in her view what Parliament had in mind when enacting section 62 were relocations that have an element of permanency attached to them. In so stating, she relies on the following passage, quoted in paragraph 9 of her decision, from the reasons of Estey J. of the Supreme Court of Canada in Thomson v. M.N.R., [1946] S.C.R. 209, at pages 231-232:
+A reference to the dictionary and judicial comments upon the meaning of these terms indicates that one is "ordinarily resident" in the place where in the settled routine of his life he regularly, normally or customarily lives. One "sojourns" at a place where he unusually, casually or intermittently visits or stays. In the former the element of permanence; in the latter that of the temporary predominates. The difference cannot be stated in precise and definite terms, but each case must be determined after all of the relevant factors are taken into consideration, but the foregoing indicates in a general way the essential difference.
+[15] Campbell J. also refers, in paragraph 11 of her decision, to the case of Rennie v. M.N.R., 90 DTC 1050, a decision by Associate Chief Judge Christie (as he then was) of this Court, and quotes the following from the DTC headnote to that case:
+. . . Subsections 62(1) and (3) of the Act, which permit the deduction of "moving expenses", cannot be interpreted so as to envisage a taxpayer having more than one residence at any given time, since they are intended to apply to the commencement of employment at a place in Canada that precipitates a move by the taxpayer from the place in Canada where he ordinarily resided before the move to a place in Canada where he ordinarily resided after the move. The words "ordinarily resided", moreover, should be given the connotation ascribed to them by the Supreme Court of Canada in Thomson. . . .
+[16] In Sampson, Campbell J. does not follow the reasoning in Cavalier and Persaud, but states the following at paragraphs 15, 16 and 17, while implicitly referring to subsection 62(3) of the ITA:
+15 . . . There seems to be more emphasis placed on duration of stay in these cases than I believe is justified. Certainly it is one factor, but only one of many that must be considered in the context of the entire evidence which presents itself in each individual case. If three months qualify, does it mean, for instance, that three months less one week, or less two days will not? The latter period may or may not qualify depending on all of the evidence adduced in a particular appeal. I believe Parliament enacted provision 62 with a view to a relocation that has an element of permanency attached to it, and as referenced in the Supreme Court of Canada decision in Thomson.
+16 This is apparent, when one looks at the types of expenses contemplated by this very provision including the transportation of household items, cost to cancel a lease or to sell a residence, legal expenses to purchase a new residence at the new location and cost to change resident addresses.
+17 In addition, it talks of meal costs up to a 15-day transitory period. If Parliament had intended that a taxpayer get the expenses upon moving from A to B with little else, I believe this provision would contain an entirely different wording and there would be no need for it to contain the words "ordinarily resident".
+[17] Campbell J. concludes at paragraph 20 of her decision that the costs incurred by the taxpayer in travelling to various locations in Canada were simply the expenses incidental to travelling to a new worksite, and did not relate to a change in residence from the place where he had been living and to which he always intended to return.
+[18] The other case relied upon by the respondent is Sears v. R., 2009 CarswellNat 2379, 2009 TCC 344. In that case Angers J. of this Court came to the conclusion, at paragraph 24, that the Court cannot find that a taxpayer has a settled, ordinary routine of life in a new location where the taxpayer does not sever social and economic ties with the old location. In the Sears case, the taxpayer resided in New Brunswick and travelled to Alberta to work in a new job for seven months. He kept his house in New Brunswick and his family remained there. While in Alberta, he stayed at his employer’s camp and did not pay any rent. He used his address in New Brunswick on his tax returns and that was also the address shown on the T4 slips issued by his employer. He kept his New Brunswick driver’s licence, his New Brunswick medical insurance coverage and his bank accounts in New Brunswick. Angers J. further stated, in paragraph 24 of his decision, that "the [taxpayer]’s mode of life in the new location constituted occasional or casual residence inconsistent with what is intended and required in order to qualify for a moving expenses deduction under section 62 of the [ITA]".
+[19] I share the view expressed by Campbell J. in Sampson and Angers J. in Sears. In the present case, the appellant left Moncton for a 10-week period in 2007. He did not have to pay for his meals and accommodation while in Yellowknife. He kept his house in Moncton, his New Brunswick driver’s licence, his New Brunswick medicare coverage and his bank account in New Brunswick; he left his belongings in Moncton and his immediate family stayed behind in Moncton. His T4 slips were sent to his address in Moncton. He also testified that he had to pay a non-resident tax in the Northwest Territories (Exhibit A-2, second page). I therefore conclude herein, as Campbell J. concluded in the Sampson case, that the costs incurred by the appellant were simply the expenses incidental to travelling to a new worksite, and did not relate to a change in residence from Moncton, the place to which he always intended to return. His travel in 2007 was solely for the purpose of taking temporary employment. The expenses in the amount of $1,113 claimed by the appellant thus were not moving expenses within the meaning of section 62 of the ITA.
+[20] The appeal is therefore dismissed.
+Signed at Ottawa, Canada, this 19th day of November 2009.
+« Lucie Lamarre »
+Lamarre J.
+CITATION: 2009 TCC 595
+COURT FILE NO.: 2009-1593(IT)I
+STYLE OF CAUSE: RALPH LAPIERRE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Moncton, New Brunswick
+DATE OF HEARING: October 27, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: November 19, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jill Chisholm
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

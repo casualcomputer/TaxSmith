@@ -1,0 +1,184 @@
+Title: Globtek Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26621/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-727-26621-globtek-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-11-08
+
+# Globtek Inc. c. La Reine
+
+- Citation: 2005 CCI 727
+- Decision date: 2005-11-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3629, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Globtek Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-11-08
+Référence neutre
+2005 CCI 727
+Numéro de dossier
+2005-1474(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2005-1474(IT)G
+ENTRE :
+GLOBTEK INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Requête entendue le 13 septembre 2005, à Toronto (Ontario)
+Par : L'honorable juge E. A. Bowie
+Comparutions
+Avocat de l'appelante :
+Me Richard G. Fitzsimmons
+Avocat de l'intimée :
+Me André L. LeBlanc
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l'appelante afin d'obtenir une ordonnance radiant de la réponse de l'intimée à l'avis d'appel les alinéas suivants et les parties suivantes de paragraphe et d'alinéa :
+(i) la partie du paragraphe 5 qui commence par « il admet » et se termine par « approbation de FICS »,
+(ii) les alinéas 10a), b), c), d), e), f), j), k) et l), dans leur intégralité,
+(iii) la partie de l'alinéa 10m) qui se lit « devait être produite au plus tard le 31 janvier 2000 »,
+(iv) les alinéas 11a), b), c) et d),
+avec les dépens de la requête selon un barème d'indemnisation substantielle;
+Et vu les actes de procédure relatifs à l'appel;
+Et vu les allégations des avocats des parties;
+Il est ordonné que la requête de l'appelante soit accueillie, comme suit :
+1. les alinéas 10a), b), c), d), e) et f) et 11a) et d) de la réponse à l'avis d'appel sont radiés;
+2. l'intimée a 15 jours à compter de la date de la présente ordonnance pour remettre une deuxième réponse modifiée, conformément aux présents motifs;
+3. l'appelante a 45 jours à compter de la date de la présente ordonnance pour remettre une réplique;
+4. l'appelante a droit aux dépens de la requête immédiatement, quelle que soit l'issue de la cause.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2005.
+« E. A. Bowie »
+Le juge Bowie
+Traduction certifiée conforme
+ce 23e jour de janvier 2006
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2005CCI727
+Date : 20051108
+Dossier : 2005-1474(IT)G
+ENTRE :
+GLOBTEK INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Bowie
+[1] L'appelante demande, par voie de requête, que de grandes parties de la réponse à l'avis d'appel soient radiées. Depuis que l'avis de requête a été signifié, l'avocat de l'intimée a remis une réponse modifiée à l'avis d'appel, ce qu'il pouvait faire de plein droit, puisque le délai de remise d'une réplique de l'appelante n'était pas encore expiré. Cet acte de procédure modifié répond à certaines objections de l'appelante à la réponse initiale, mais pas à toutes. Bien que l'avis de requête n'ait pas alors été modifié, la requête a été débattue devant moi en se fondant sur le fait que l'attaque de l'appelante portait sur la réponse modifiée, et je vais traiter de la requête en me fondant sur ce fait.
+[2] L'attaque de l'appelante relative à l'acte de procédure porte principalement sur le paragraphe 10, lequel énonce les hypothèses qui, est‑il dit, sous‑tendent les nouvelles cotisations d'impôt sur le revenu qui ont été établies à l'égard de l'appelante pour les années d'imposition 1998 et 1999 et contre lesquelles il est interjeté appel. Dans un souci de commodité, je reproduis ci‑après l'ensemble dudit paragraphe, en mettant en italique les parties que l'appelante voudrait voir radiées[1].
+[TRADUCTION]
+10. En établissant ces nouvelles cotisations à l'égard de l'appelante pour les années d'imposition 1998 et 1999 de cette dernière et en ratifiant les nouvelles cotisations, le ministre s'est fondé sur les hypothèses suivantes :
+a) en septembre 2002, une demande expresse de renseignements a été faite par les autorités belges au gouvernement du Canada en vertu du programme d'échange de renseignements régi par la Convention fiscale Canada‑Belgique, relativement à une série de factures faites par l'appelante à FICS Group, une société belge (« FICS »);
+b) la demande expresse de renseignements soulevait les trois questions suivantes qui préoccupaient les autorités belges :
+(i) GLOBTECK INC. était-elle légalement constituée au Canada?
+(ii) Les revenus provenant de FICS Group pour 1997, 1998 et 1999 ont-ils été déclarés au Canada?
+(iii) Les comptes bancaires belges [compte 310‑09149226‑11, Banque Bruxelles-Lambert, et compte 239‑0037256‑28, Générale de Banque] étaient-ils mentionnés dans la comptabilité de GLOBTEC INC.?
+c) les autorités canadiennes ont répondu comme suit aux questions précitées :
+(i) Oui, GLOBTEC INC. était légalement constituée en Ontario (Canada).
+(ii) Non, les revenus provenant de FICS Group pour 1997, 1998 et 1999 n'ont pas été déclarés au Canada.
+(iii) Non, les deux comptes bancaires belges n'étaient pas mentionnés dans la comptabilité de GLOTEC INC., car ces deux comptes ne figuraient pas dans la liste de grand livre général fournie par M. Kotarba.
+d) par suite de cette demande expresse, l'Agence du revenu du Canada (« ARC ») a effectué une vérification à l'égard de l'appelante pour les années d'imposition 1998 et 1999 de cette dernière;
+e) durant une réunion avec l'ARC tenue le 29 août 2002, M. Lawrence W. Kotarba, président et seul actionnaire de l'appelante, a affirmé que l'appelante avait eu seulement un contrat en 1997, avec CMC, société américaine faisant affaires en Allemagne, et qu'elle n'avait pas eu de contrat en 1998, année au cours de laquelle elle avait été inactive et n'avait eu aucun revenu;
+f) lors de cette réunion, M. Kotarba a affirmé que l'appelante avait seulement deux comptes à la Banque de Montréal, soit les comptes 1253-971 et 4638-913, pour les opérations en dollars canadiens et en dollars américains respectivement;
+g) l'appelante a déclaré 53 918 $ comme revenu gagné en vertu d'un contrat américain/allemand pour son année d'imposition 1998 et n'a déclaré aucun revenu pour son année d'imposition 1999;
+h) en 1997 et en 1998, l'appelante a conclu avec FICS des contrats de sous‑traitance (les « contrats ») en vertu desquels elle devait fournir des services informatiques à FICS;
+i) l'appelante a, pour ses années d'imposition 1998 et 1999, établi à l'égard de FICS des factures de 85 301 $ et de 221 106 $ respectivement;
+j) l'appelante n'a pas déclaré les revenus de 85 301 $ et de 221 106 $ gagnés en vertu des contrats durant ses années d'imposition 1998 et 1999 respectivement.
+k) SUPPRIMÉ
+l) SUPPRIMÉ
+m) la déclaration de revenu de l'appelante pour l'année d'imposition 1999 devait être produite au plus tard le 31 janvier 2000, mais ne l'a été que le 17 juin 2002.
+11. En ratifiant les nouvelles cotisations pour les années d'imposition 1998 et 1999 de l'appelante, le ministre s'est fondé sur les hypothèses supplémentaires suivantes :
+a) M. Kotarba n'était pas un employé de FICS;
+b) M. Kotarba n'a déclaré aucun revenu gagné en vertu d'un contrat quelconque avec FICS dans un pays quelconque pour les années d'imposition 1998 et 1999;
+c) l'appelante n'a pas fait compte de salaires versés à M. Kotarba en vertu d'un contrat quelconque avec FICS pour les années d'imposition 1998 et 1999, de sorte que des dépenses n'ont pas été faites ou engagées par l'appelante à cet égard;
+d) si l'un quelconque des revenus de l'appelante a été attribué à M. Kotarba, ce revenu représente un avantage qui a été conféré à un actionnaire.
+[3] Les règles applicables à la réponse à l'avis d'appel dans un appel en matière d'impôt sur le revenu sont énoncées au paragraphe 49(1) des Règles :
+49(1) Sous réserve du paragraphe (1.1), la réponse indique :
+a) les faits admis;
+b) les faits niés;
+c) les faits que l'intimée ne connaît pas et qu'elle n'admet pas;
+d) les conclusions ou les hypothèses de fait sur lesquelles le ministre s'est fondé en établissant sa cotisation;
+e) tout autre fait pertinent;
+f) les points en litige;
+g) les dispositions législatives invoquées;
+h) les moyens sur lesquels l'intimée entend se fonder;
+i) les conclusions recherchées.
+[4] Comme je l'ai dit dans Zelinski c. La Reine[2] :
+[4] L'acte de procédure a pour but de définir les questions faisant l'objet du litige entre les parties aux fins de production et de communication préalable ainsi qu'en prévision du procès. Il incombe aux parties de présenter un exposé concis des faits pertinents sur lesquels elles se fondent. Les faits pertinents sont ceux qui, dans l'éventualité où ils sont établis au cours du procès, concourront à démontrer que la partie ayant déposé l'acte de procédure a droit au redressement demandé. [...]
+[5] Le principe applicable est formulé ainsi par Holmsted et Watson[3] :
+[TRADUCTION]
+Il s'agit de la grande règle en matière d'actes de procédure; toutes les autres règles sont essentiellement des règles accessoires ou des réserves à cette règle de base selon laquelle le plaideur doit exposer les faits pertinents sur lesquels il fonde sa demande ou sa défense. La règle comporte quatre composantes distinctes : (1) chaque acte de procédure doit exposer des faits et non pas simplement des conclusions de droit; (2) il doit exposer les faits pertinents et ne pas contenir de faits dénués de pertinence; (3) il doit exposer des faits, non les éléments de preuve qui serviront à étayer ces faits; (4) il doit exposer les faits avec concision.
+C'est à la lumière de cette règle fondamentale que doit être lu l'article 49 des Règles. L'alinéa 49d) exige que l'intimée indique « les conclusions ou les hypothèses de fait sur lesquelles le ministre s'est fondé en établissant sa cotisation », mais il n'autorise pas ainsi l'intimée à indiquer toutes les pensées du répartiteur du ministre, qu'elles soient ou non pertinentes quant au bien‑fondé des cotisations. Dans un appel relatif à une cotisation d'impôt sur le revenu[4], le rôle de notre cour est de mener un procès et de déterminer, sur la foi de la preuve et du droit, si la cotisation portée en appel est fondée. Il ne s'agit pas d'une procédure ayant le caractère d'un contrôle judiciaire d'une décision administrative. Ce n'est pas un avantage pour le contribuable de montrer que le répartiteur a agi en se basant sur des informations non pertinentes. Ce sont seulement des faits pertinents qui doivent être indiqués en vertu des alinéas 49d) et e).
+[5] Le lord juge Scott a expliqué le sens du mot « material » (pertinent), relativement à des actes de procédure, dans Bruce v. Odhams Press Ltd.[5] :
+[TRADUCTION]
+La disposition fondamentale de l'article 4 des règles est que la déclaration doit indiquer les faits pertinents. Le terme « material » (pertinent) désigne ce qui est nécessaire pour formuler une cause d'action complète;
+Cette affirmation fait encore autorité aujourd'hui. Dans le contexte d'une réponse à un avis d'appel présenté à notre cour, un fait est pertinent si, une fois établi, il tend à montrer que la cotisation portée en appel est fondée.
+[6] La manière dont la situation du contribuable est venue à l'attention du ministre, les questions particulières posées par les autorités belges, les réponses particulières données par les autorités canadiennes et tout autre fait ayant conduit à la décision de faire une vérification à l'égard du contribuable ne sont pas pertinents quant au bien‑fondé de la cotisation à laquelle cette vérification a donné lieu.
+[7] Je sais que, dans le contexte d'une cotisation établie à l'égard d'un contribuable de façon à ne pas admettre certains crédits pour dons de bienfaisance au motif que ce contribuable avait participé à un plan comportant un vaste abus, le juge en chef a récemment adopté une approche très libérale de la portée appropriée de la réponse à l'avis d'appel[6]. Mon interprétation de cette décision est que le texte que le juge en chef a refusé de radier de la réponse à l'avis d'appel comprenait des détails quant au stratagème auquel le ministre alléguait que l'appelant avait participé. La présente espèce n'est toutefois nullement semblable. La seule question en l'espèce est simplement de savoir si certains paiements relatifs à des travaux effectués étaient des revenus de l'appelante ou de son principal actionnaire. C'est une question étroite, et il n'y a pas de raison qu'elle ne le reste pas.
+[8] J'ai récemment déploré la prolifération de requêtes dans des causes entendues par notre cour sous le régime de la procédure informelle[7]. Je ne favorise pas non plus d'inutiles requêtes dans des causes entendues sous le régime de la procédure générale. Néanmoins, la portée de l'interrogatoire préalable, y compris la communication de documents, ainsi que de la preuve présentée au procès, est déterminée par rapport aux actes de procédure tels qu'ils sont en fait rédigés et non tels qu'ils devraient l'être. Inclure dans des actes de procédure des allégations non pertinentes pour l'issue du litige, y compris des questions connues du ministre à l'époque de la cotisation et ne pouvant influer sur le bien‑fondé de sa décision d'établir la cotisation qu'il a établie, complique des questions qui sont simples et ajoute à la complexité de questions qui ne sont pas simples. Ce facteur prolonge l'interrogatoire préalable et le procès, ainsi que la préparation de ces deux étapes. Il est notoire que le fardeau financier d'un litige pour les particuliers et les petites entreprises est devenu écrasant ces dernières années; tout ce qui permet de mettre l'accent sur les véritables questions et d'exclure ce qui n'est pas pertinent est, je crois, salutaire.
+[9] En appliquant ces principes à la réponse à l'avis d'appel, les alinéas 10a), b), c) et d) seront radiés, car ils ne sont pas pertinents quant à la validité des cotisations portées en appel.
+[10] Les alinéas 10e) et f) indiquent qu'en juillet 2004, lorsqu'il a établi de nouvelles cotisations à l'égard de l'appelante, le ministre s'est fondé sur le fait que M. Kotarba avait énoncé certains faits lors d'une réunion. Ce n'est évidemment pas fondé. Ce sur quoi le ministre s'est basé n'était pas que M. Kotarba avait énoncé certains faits, soit un élément de preuve, mais plutôt les faits eux‑mêmes énoncés par M. Kotarba. La pertinence de ces faits ne me semble pas évidente, mais il ne me paraît pas évident non plus qu'ils ne sont pas pertinents. Bien que ce puisse sembler un point mineur qu'il ne vaut guère la peine de corriger, notre cour a fait, beaucoup trop souvent pour en dresser la liste ici, des remarques sur le manque de soin et l'inexactitude d'actes de procédure du sous‑procureur général indiquant des hypothèses sur lesquelles ce dernier disait que le ministre s'était basé en établissant une cotisation. La Cour d'appel fédérale s'est aussi exprimée avec force récemment à ce sujet : voir l'arrêt Anchor Pointe Energy Ltd. c. La Reine[8], le juge Rothstein, aux paragraphes 20‑28. Ces alinéas seront radiés, mais l'intimée pourra, dans les quinze jours, modifier davantage la réponse à l'avis d'appel de manière à indiquer les faits sur lesquels le ministre s'est effectivement basé et auxquels se rapportent ces alinéas et de manière à supprimer les éléments de preuve.
+[11] Les autres parties du paragraphe 10 attaquées par l'avis de requête ont été corrigées dans la réponse modifiée de l'intimée à l'avis d'appel.
+[12] Maître Fitzsimmons conteste l'alinéa 11a), au motif que cet alinéa contient une conclusion mixte de fait et de droit. Dans l'arrêt Anchor Pointe, le juge d'appel Rothstein a dit ceci, au paragraphe 26 :
+[…] Le ministre peut présumer les éléments de fait d'une conclusion mixte de fait et de droit. S'il souhaite le faire, toutefois, il devra extraire les éléments de fait présumés, de façon à ce que le contribuable sache exactement quelles hypothèses de fait il doit réfuter pour avoir gain de cause. Il ne convient pas que les faits présumés soient enfouis dans une conclusion mixte de fait et de droit.
+Si l'intimée souhaite indiquer des faits qui ont été supposés à l'époque de la ratification de la cotisation, en plus de ceux qui avaient été supposés à l'époque de l'établissement de la cotisation, c'est vraisemblablement en vue d'arguer que ces faits aussi sont réputés exacts. À cette fin, l'intimée doit « extraire les éléments de fait ». L'alinéa 11a) sera radié. Bien qu'elle comporte un élément de droit, l'allégation ne serait normalement pas jugée contestable, si ce n'était du poids supplémentaire que l'intimée peut arguer qu'elle a comme hypothèse faite à l'étape de la ratification. L'intimée sera autorisée à modifier la réponse pour indiquer cela comme « fait » supplémentaire, mais non comme hypothèse de fait.
+[13] L'alinéa 11d) indique simplement une conclusion de droit et sera donc également radié.
+[14] La requête de l'appelante est accueillie. Les alinéas 10a), b), c), d), e) et f) et 11a) et d) de la réponse à l'avis d'appel sont radiés. L'intimée a 15 jours à compter de la date de la présente ordonnance pour remettre une deuxième réponse modifiée, conformément aux présents motifs. L'appelante a 45 jours à compter de la date de la présente ordonnance pour remettre une réplique.
+[15] L'appelante a droit aux dépens de la requête immédiatement, quelle que soit l'issue de la cause.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2005.
+« E. A. Bowie »
+Le juge Bowie
+Traduction certifiée conforme
+ce 23e jour de janvier 2006
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2005CCI727
+No DU DOSSIER DE LA COUR :
+2005-1474(IT)G
+INTITULÉ DE LA CAUSE :
+Globtek Inc. et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 13 septembre 2005
+MOTIFS DE L'ORDONNANCE PAR :
+L'honorable juge E. A. Bowie
+DATE DE L'ORDONNANCE :
+Le 8 novembre 2005
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Richard G. Fitzsimmons
+Avocat de l'intimée :
+Me André LeBlanc
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom :
+Richard G. Fitzsimmons
+Étude :
+Fitzsimmons & Company
+Pour l'intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] L'appelante avait initialement formulé des objections à l'égard des alinéas 10m) et 11b) et c), mais a retiré ces objections lors de l'audience.
+[2] no 1999-1746(IT)G, 20 novembre 2001, 2002 D.T.C. 1204.
+[3] Holmsted et Watson, Ontario Civil Procedure, vol. 3, pages 25‑20 et 25‑21.
+[4] Il peut être argué que d'autres considérations pourraient s'appliquer lorsque l'appel est interjeté relativement à l'imposition d'une pénalité.
+[5] [1936] 1 K.B. 697, à la p. 712 (C.A.).
+[6] Gould c. Canada, no 2004-4449(IT)G, 2 septembre 2005, 2005 CCI 556.
+[7] Batt c. Canada, no 2005-1387(IT)I, 24 août 2005, 2005 CCI 565, au par. 7.
+[8] no A-559-02, 2 juillet 2003, 2003 D.T.C. 5512.

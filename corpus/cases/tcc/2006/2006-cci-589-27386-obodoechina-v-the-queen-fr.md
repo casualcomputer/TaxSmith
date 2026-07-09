@@ -1,0 +1,208 @@
+---
+title: "Obodoechina v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27386/index.do"
+last_modified: "2006-12-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 589"
+citation2: ""
+neutral_citation: "2006 CCI 589"
+decision_date: "2006-12-01"
+language: "fr"
+item_id: "27386"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 157
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:31:01.977000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b900d54ed2ca8e8dbf4b4232a0609538e7357770e677f4c4b91febd71b640b8d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Obodoechina v. The Queen
+
+- Citation: 2006 CCI 589
+- Decision date: 2006-12-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 157, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Obodoechina v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-01
+Référence neutre
+2006 CCI 589
+Numéro de dossier
+2004-859(IT)G
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004‑859(IT)G
+ENTRE :
+FRANCIS OBODOECHINA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 18 octobre 2006, à Toronto (Ontario).
+Devant : L'honorable juge T. E. Margeson
+Comparutions :
+Avocat de l'appelant :
+Me M. Joseal Igbinosun
+Avocat de l'intimée :
+Me John Grant
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté avec dépens et la nouvelle cotisation établie par le ministre du Revenu national est confirmée.
+Signé à Toronto (Ontario), ce 1er jour de décembre 2006.
+« T. E. Margeson »
+Le juge Margeson
+Traduction certifiée conforme
+ce 23e jour de juillet 2007.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI589
+Date : 20061201
+Dossier : 2004‑859(IT)G
+ENTRE :
+FRANCIS OBODOECHINA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Margeson
+[1] Il s'agit d'un appel interjeté à l'égard de la nouvelle cotisation établie par le ministre du Revenu national (le « ministre ») pour l'année d'imposition 2001, dont l'avis est daté du 3 mars 2003. Cette nouvelle cotisation établie par le ministre porte sur un revenu non déclaré de 129 045,02 $. On allègue que ce revenu a été déposé au compte d'affaires de l'appelant au cours de cette même année. En outre, le ministre a refusé les dépenses d'entreprise de 25 147,85 $ déduites pour cette année d'imposition et il a imposé une pénalité pour la même année en application du paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi »).
+Éléments de preuve
+[2] Pendant son témoignage, l'appelant a affirmé qu'il était né au Nigeria en 1960 et qu'il était venu au Canada vers 1989. Il est marié et père de quatre enfants. Il a fait son école primaire au Nigeria, ce qui équivaut, selon lui, à l'enseignement dispensé dans les écoles primaires au Canada. Il n'a pas d'autre formation, à l'exception d'un cours de brève durée sur les « opérations de bourse par Internet ».
+[3] En 2000, il a enregistré deux entreprises, soit Credit Swiss Investment, ci‑après « Credit Swiss », et Iykmuch Investments Ent., ci‑après « Iykmuch ». Il a fait valoir qu'il était prévu que Credit Swiss soit une entreprise de vente et de services, et Iykmuch, une entreprise faisant des opérations de bourse. Ces objets sont exposés dans les pièces A‑1 et A‑2, et on précise qu'il s'agit d'entreprises individuelles.
+[4] À ce moment, il n'avait ni teneur de comptes ni expert‑comptable. Le compte bancaire de Credit Swiss se trouvait à la Banque Canadienne Impériale de Commerce. Ce compte faisait l'objet de dépôts et de retraits. Puis, il a affirmé qu'aucun retrait n'était effectué sur ce compte.
+[5] L'appelant ne faisait aucun rapprochement pour vérifier d'où provenaient les dépôts. L'argent était remis aux personnes qui l'y plaçaient parce qu'aucune entente ne prévoyait la commission qui lui serait versée pour les services qu'il allait rendre aux déposants. La pièce A‑3 consiste en un bordereau de dépôt relatif à ce compte et montre des dépôts de 28 390 $ et de 25 990 $. Les deux sommes sont exprimées en fonds américains. Ce sont les seules activités relatives à ce compte.
+[6] Quant à Iykmuch, il n'y a eu aucune activité pendant l'année 2000, mais on a effectué quelques dépôts. L'appelant a confirmé les trois dépôts de 61 900 dollars américains, de 7 750,53 dollars américains et de 11 990 dollars américains effectués en 2001. Ces sommes sont mentionnées dans la réponse.
+[7] L'appelant a déclaré que certaines personnes lui avaient demandé de mettre de l'argent dans son compte parce qu'elles devaient attendre vingt et un jours avant d'avoir accès à leurs propres comptes une fois ceux‑ci ouverts. Il prenait une commission pour l'utilisation de ses comptes.
+[8] L'argent était transféré dans ses comptes par virement télégraphique. Il ne considérait pas qu'il s'agissait d'un revenu pour lui. Il n'a pas déclaré ces sommes comme revenu dans sa déclaration de revenus.
+[9] En ce qui a trait à la somme de 61 990 dollars américains, il a obtenu des renseignements des déposants au moyen de leur numéro de permis de conduire et des renseignements indiqués sur leur passeport. Il a renvoyé à la pièce A‑4, soit une formule de réception d'un virement télégraphique qu'il a lui‑même rédigée. Ce document renferme le nom des prétendus expéditeur et destinataire. Il avait pour instruction de leur remettre les sommes en espèces. Il a déclaré que la pièce A‑5 était une traite bancaire de 10 500 $ datée du 20 novembre 2001 et payable à Domestic Auto Inc. Cette traite bancaire avait été établie pour le compte de M. Idonie Edemakiote, comme le montre la pièce A‑4.
+[10] La pièce A‑6 consiste en une traite bancaire s'élevant à 25 000 $ tirée sur la Banque Toronto‑Dominion le 20 novembre 2001 et en une traite bancaire correspondante de Canada Trust en monnaie étrangère payable à Darlington Etim Akatso. L'appelant a affirmé qu'il avait acheté cette traite et l'avait remise au bénéficiaire.
+[11] La pièce A‑7 est un document présentant l'historique des dépôts et les antécédents financiers du compte à la Banque Toronto‑Dominion pour la période du 1er janvier 2000 au 30 juin 2002. Il s'agit d'un compte en dollars américains, et les crédits et les débits portés au compte sont énumérés dans ce document.
+[12] La pièce A‑8 consiste en un historique d'un compte de dépôts établi au nom de Iykmuch montrant les débits, les crédits et les soldes pour la période du 20 novembre 2001 au 19 décembre 2001. L'appelant a allégué qu'il utilisait ce compte pour le prélèvement de sa commission.
+[13] La pièce A‑9 est une formule de réception d'un virement télégraphique que l'appelant est censé avoir lui‑même rédigée. Ce document vise une somme de 7 715,53 dollars américains, porte le nom d'Akintolu Animsojo et aurait été envoyé par Patricia Wallace d'Indianapolis (États‑Unis). Cette formule renferme en outre les renseignements relatifs au permis de conduire que demandait l'appelant.
+[14] La pièce A‑10 consiste en un reçu d'opération de change à l'intention du client daté du 12 décembre 2001. Ce reçu fait état d'une somme de 6 732 dollars américains tirée sur le compte américain et payable à Clemont and Associates. Il montre que le client est Iykmuch Investments Ent. L'appelant a affirmé qu'il conservait le solde des fonds dans son propre compte.
+[15] La pièce A‑11 est une formule de réception d'un virement télégraphique sur laquelle figure le nom d'Akintolu Animsojo à l'adresse Wyndham Estate, à Londres. On y précise que l'expéditrice est Patricia Chum Wallace. Ce document vise une somme de 11 990 dollars américains. La partie inférieure du document renferme également les renseignements relatifs au permis de conduire. L'appelant a versé cette somme.
+[16] La pièce A‑12 consiste en une formule de reçu d'opération de change de Canada Trust à l'intention du client faisant état d'une somme de 8 700 dollars américains payable à Yanke Stationary Supplies. Selon ce document, le client est Iykmuch et la formule est datée du 29 janvier 2002. L'appelant a déclaré qu'il avait remis cette traite à Patricia Wallace.
+[17] L'appelant a par la suite été arrêté et accusé de fraude en raison de ses activités. Il a affirmé que les accusations avaient été rejetées après l'enquête préliminaire.
+[18] Il conservait tous les reçus dans sa mallette. Après qu'on a mis fin aux poursuites criminelles, la police lui a remis sa mallette, deux ans plus tard, mais il affirme que plus de la moitié des documents avaient disparu.
+[19] La déclaration de revenus qu'il a produite pour l'année 2001 a été remplie par un expert‑comptable. Il a déduit une somme de 25 147,85 $ à titre de dépenses d'entreprise. Il y avait des paiements comptants et des rentrées de fonds ainsi que des paiements au moyen de traites. Tous ces documents avaient disparu de sa mallette.
+[20] Dans sa déclaration de revenus pour l'année 2001, il a fait état d'activités commerciales de 11 569,50 $, ce qui, selon lui, correspondait à ses commissions. Il gagnait en outre un revenu comme travailleur non qualifié [TRADUCTION] « ici et là ». Dans l'état des résultats des activités d'une entreprise joint à sa déclaration de revenus, il a déduit des frais de déplacement de 6 200 $. Il a égaré ses reçus. Il demandait également des frais de loyer de 8 160 $. Il n'a pas été en mesure de trouver le locateur afin d'obtenir un reçu pour ces frais et aucune pièce justificative n'a été produite à cet égard. La plupart des frais de véhicule automobile qu'il a déduits avaient été payés en espèces. Ces frais s'élevaient à 6 145 $. À l'origine, il avait 60 pour 100 de ces reçus en sa possession, mais ceux‑ci étaient maintenant égarés. Il avait également perdu les reçus pour ses repas.
+[21] La pièce A‑13 a été produite sur consentement, mais uniquement en ce qui concerne l'onglet 1, à savoir la déclaration de revenus générale T1 pour 2001. L'appelant n'avait aucune autre entreprise en 2001. Il n'a jamais pensé qu'il contrevenait à la loi. Il n'a jamais pensé que les sommes en cause constituaient un revenu.
+[22] Pendant son contre‑interrogatoire, il a affirmé que les activités de Iykmuch portaient sur la vente de divers articles, comme des couches, des vêtements et des jouets, et sur des services liés à ceux‑ci. On lui a demandé où figuraient ces activités aux pièces A‑7 et A‑8 et il a déclaré qu'il n'avait aucun document relatif au compte canadien. Il n'a pas demandé à son avocat d'obtenir l'historique de ce compte. Il n'a effectué aucune vente ni aucun achat en 2000 et en 2001 par le truchement de cette entreprise. On l'a renvoyé au paragraphe 15 de son avis d'appel dans lequel on fait état de dépôts visant Iykmuch. Il a répondu que les pièces A‑7 et A‑8 ne portent que sur une partie des sommes qu'il a versées. Le loyer était payé en espèces. La police a saisi ses reçus, et il n'a jamais reçu une liste des documents qu'il lui avait remis. Il n'avait pas l'ensemble de l'historique du compte. L'insuffisance des fonds était peut‑être attribuable au fait que des fonds avaient été transférés à son compte canadien puis qu'un paiement prélevé sur ce compte avait été versé à une autre personne. Il n'avait aucun document relatif au compte canadien. Sa commission pour ces opérations et l'utilisation de son compte s'élevait à 2,55 pour 100. Il a déclaré ce montant dans sa déclaration de revenus.
+[23] Il a reconnu sa signature sur sa déclaration de revenus générale pour 2001 et il a ajouté qu'il ne savait pas pourquoi le spécialiste en déclarations ne l'avait pas signée. Il a informé le spécialiste en déclarations qu'il avait gagné 11 569,50 $ au titre des ventes et de ses commissions. Cette somme comprenait certains revenus reçus en tant que déménageur. Cela se produisait neuf ou dix fois par année. Il gagnait environ 90 $ par jour. Tous les documents pertinents se trouvaient dans sa mallette.
+[24] Quant au compte de Credit Swiss, les sommes ont toutes été retournées. Il ne savait pas d'où elles provenaient. Son taux de commission était de 1,1 pour 100 ou de 1,2 pour 100, mais [TRADUCTION] « ce n'est qu'un exemple ». Parfois, il remettait les sommes en espèces sans obtenir de reçu. Il arrivait aussi qu'il rencontre les gens deux ou trois fois au 2157, avenue Western. Il ne s'agissait que d'un commerce offrant des services de cases postales.
+[25] L'appelant a allégué qu'à l'adresse donnée pour Credit Swiss, soit le 103, rue Dundas Est, il partageait les locaux avec une agence de voyages. Il n'avait aucun document à ce sujet car la police les avait pris aussi. Selon lui, son état des résultats des activités d'une entreprise était exact. Cependant, tous les documents pertinents ont été saisis et ne lui ont pas été remis. On lui a posé des questions sur les frais de publicité et il a répondu que cette déduction visait des intérêts. Il n'a donné aucune autre précision.
+[26] À ce moment, les parties ont convenu que l'appelant renonçait à sa déduction relative aux dépenses refusées. La somme de 11 569,50 $ qu'il a déclarée comme revenu pour cette année‑là constituait la totalité de l'argent dont il disposait pour subvenir à ses besoins de même qu'à ceux de son épouse et de sa famille au Nigeria. Puis, il a allégué qu'il avait payé 13 320 $ au titre du loyer pour l'année en cause. Il a ensuite affirmé qu'il n'avait pas payé lui‑même cette somme. Il partageait les locaux avec d'autres.
+[27] Pendant le réinterrogatoire, il a déclaré que les deux entreprises étaient exploitées sous son nom. Les paiements versés ne provenaient pas tous du compte américain. La pièce A‑5 vise un compte canadien. C'était la première fois qu'il se rendait compte qu'il avait déduit la totalité du loyer.
+Questions en litige
+[28] Les questions qui demeurent en litige dans le présent appel ont été exposées de façon explicite par les deux avocats :
+1. Aurait‑il fallu ajouter au revenu déclaré par l'appelant pour l'année d'imposition 2001 les sommes énoncées dans la réponse?
+2. Le ministre a‑t‑il à juste titre imposé des pénalités en application du paragraphe 163(2) de la Loi pour l'année d'imposition en cause?
+Moyens avancés pour le compte de l'appelant
+[29] Dans ses observations, l'avocat de l'appelant a simplement déclaré que les sommes ajoutées par le ministre à titre de revenu constituaient des sommes que l'appelant a reçues en fiducie pour le compte d'autres personnes et que les fonds étaient utilisés suivant les instructions de ces dernières. Il a également fait valoir que le montant total des dépôts figurant dans les comptes était presque égal au montant total des débits. Il existait des traites bancaires et des bordereaux de dépôt étayant ces sommes.
+[30] L'appelant venait d'arriver au pays, il n'avait que six années de scolarité et il n'avait aucune connaissance en matière de tenue de comptes. Les comptes étaient ouverts en son propre nom et il n'a pas tenté de les cacher.
+[31] Pendant la période où il exploitait ses entreprises, une occasion s'est présentée et il s'est servi de son compte comme il est mentionné plus haut. Il s'est occupé de l'argent de façon cohérente et la Cour devrait accepter son témoignage selon lequel l'argent ne lui appartenait pas et qu'il était reçu et utilisé conformément aux instructions données.
+[32] L'appel devrait être accueilli avec dépens en ce qui touche le prétendu revenu non déclaré, et les pénalités devraient être annulées.
+Moyens avancés pour le compte de l'intimée
+[33] L'avocat a soutenu qu'une partie de la présente affaire intéresse les commissions qui ont été déclarées comme revenu. Il a posé la question suivante :
+[TRADUCTION]
+Pourquoi l'appelant ne sait‑il pas quelles étaient ses commissions? Ne souhaiteriez‑vous pas prendre des mesures pour montrer que vos activités ne faisaient pas partie d'un stratagème frauduleux? Il incombe à l'appelant d'établir, selon la prépondérance des probabilités, à quoi servait l'argent et qu'il ne s'agissait pas d'un revenu.
+[34] Quel élément de preuve permet d'affirmer qu'il ne s'agissait pas d'un revenu? La trace documentaire est insuffisante pour établir cela; aucun témoin n'a été appelé à la barre pour corroborer la thèse de l'appelant. Au cours de l'année en cause, l'appelant a vécu avec 11 569,50 $ et il a subvenu aux besoins de son épouse et de ses enfants. Comment est‑ce possible? En ce qui concerne le loyer, il ne l'a pas payé et il a néanmoins demandé une déduction à ce titre. Il pensait qu'il était acceptable de déduire le montant total du loyer même s'il a donné ce montant à son expert‑comptable. La Cour doit prendre en considération les articles 3 et 9 ainsi que le paragraphe 163(2) de la Loi.
+[35] L'avocat a demandé s'il existait une raison claire expliquant pourquoi l'appelant ne s'est pas protégé en gardant une preuve de la provenance des fonds. Son témoignage comportait‑il des contradictions quant au montant de la commission? À quoi l'argent servait‑il?
+[36] D'après l'avocat de l'intimée, l'appelant n'a pas réussi à s'acquitter du fardeau de prouver que l'argent ne constituait pas un revenu. Il n'a pas établi, selon la prépondérance des probabilités, que la somme ne constituait pas un revenu.
+[37] L'avocat a invoqué la décision Salvatore Nigro c. La Reine, C.C.I., no 2000‑746(IT)G, 25 avril 2003, 2003 D.T.C. 574, et il a affirmé que la situation de fait était plutôt semblable. Il lui importait en particulier que le juge ait conclu qu'il incombait à l'appelant d'établir, selon la prépondérance des probabilités, que le fondement factuel sur lequel reposait la cotisation fiscale était erroné.
+[38] Dans cette affaire, le contribuable ne s'est pas acquitté de cette obligation. En l'espèce, comme dans cette affaire, l'appelant n'a pas présenté d'éléments de preuve crédibles montrant que la totalité de l'argent ayant circulé dans son compte avait été payée ou appartenait à une autre personne. Il ne s'est pas acquitté du fardeau qui lui incombait.
+[39] Dans la décision Salvatore Nigro, précitée, le juge n'a pas accepté le témoignage de l'appelant ni celui du témoin appelé par le contribuable. Le témoignage de l'appelant a été affaibli par le fait qu'il n'avait appelé aucun des prétendus prêteurs à témoigner. La même observation s'applique en l'espèce.
+[40] Quant aux pénalités, le juge présidant l'instruction a conclu qu'elles s'appliquaient parce que l'appelant avait produit une déclaration de revenus ne montrant aucun revenu alors qu'en réalité, il avait gagné un revenu considérable. Le juge a estimé que l'omission de déclarer une somme aussi importante ne pouvait être attribuée à de la simple négligence. Il a conclu que l'appelant avait sciemment omis de déclarer ce revenu dans sa déclaration et que la pénalité était justifiée.
+[41] En réplique, l'avocat de l'appelant a soutenu que la décision Nigro, précitée, était complètement différente. Dans l'affaire dont je suis saisi, il existe des éléments de preuve relativement à la façon dont l'argent a été déboursé. La Cour doit tenir compte de l'état d'esprit de l'appelant à ce moment. Il touchait une commission pour l'utilisation de son compte, mais il ne s'agissait pas d'une entreprise pour lui. Il a déclaré devant la Cour qu'il demandait une commission équivalant à 2,55 pour 100 de la somme traitée.
+[42] Dans la présente affaire, l'appelant a mentionné le nom de diverses personnes avec lesquelles il a traité. Il ne savait pas ce qu'il aurait pu faire d'autre. L'appel devrait être accueilli avec dépens et les pénalités devraient être annulées.
+Analyse et décision
+[43] Lorsque le ministre conclut, comme en l'espèce, que de l'argent passe entre les mains d'un contribuable par le truchement de ses comptes bancaires sans être déclaré dans sa déclaration de revenus à titre de revenu pour l'année en cause – qu'il s'agisse d'un revenu d'entreprise ou autre –, qu'il établit une nouvelle cotisation à l'égard de l'appelant relativement à ces sommes non déclarées sur le fondement d'un examen de ces comptes, et qu'il présume que ces sommes constituent un revenu pour l'appelant, ce dernier a le fardeau de prouver, selon la prépondérance des probabilités, que la cotisation établie par le ministre est erronée. Je conviens avec l'avocat de l'intimée que ce principe est bien établi en droit. Pour s'acquitter de ce fardeau, l'appelant doit démolir les hypothèses énoncées dans la réponse. Il lui faut donc fournir des précisions satisfaisantes quant à la provenance des fonds et au fait que ceux‑ci ne constituaient pas un revenu pour lui.
+[44] En l'espèce, malheureusement pour l'appelant, la Cour doit conclure qu'il n'a pas réussi à s'acquitter de cette obligation. Je suis convaincu que l'appelant a omis de produire des documents suffisants qui auraient permis à la Cour de tirer des conclusions quant à la provenance de l'argent, aux raisons pour lesquelles il était reçu par l'appelant et pour lesquelles il ne lui appartenait pas, aux personnes auxquelles il était transféré et aux fins auxquelles il était destiné.
+[45] L'appelant ne pouvait répondre à ces questions en se contentant de se présenter devant la Cour et de formuler des assertions à cet égard. Il aurait été facile pour l'appelant de produire des éléments de preuve établissant tous ces faits. Il ne l'a pas fait. Ses explications se résument à avancer que tous ses documents ont été perdus ou égarés. Il fait également valoir que la police a pris un grand nombre de ses documents sans les lui remettre.
+[46] Sur ce point, l'appelant a omis de produire un quelconque élément de preuve émanant de la police ou d'une autre source sur ce qu'il est advenu de ses documents. Il serait bien difficile pour la Cour de conclure que la police a pris ses documents sans lui fournir une liste de ceux‑ci pour lui permettre, au moment où il demanderait à les récupérer, de comparer le contenu de cette liste aux documents que la police lui aurait effectivement remis. Aucune tentative n'a été faite pour appeler un policier ou une autre personne à témoigner devant la Cour pour corroborer son assertion voulant que la police ne lui ait pas remis tous ses documents.
+[47] Même dans l'éventualité où la police aurait égaré certains de ses documents, il est manifeste que ceux‑ci n'auraient pas permis à l'appelant de s'acquitter de l'obligation qui lui incombait en l'espèce. Dans son propre témoignage, il a mentionné que les seuls documents en sa possession concernant le dépôt et les dépenses étaient ceux mis en preuve. Toutefois, ces documents étaient insuffisants pour établir que les fonds qu'il avait reçus étaient destinés à des fins autres que son propre usage et que, lorsqu'ils ont été versés, ils l'ont été à des fins autres que les siennes.
+[48] Il ne suffit pas de produire un morceau de papier sur lequel figure un nom, un numéro de permis de conduire, la mention d'une somme d'argent et une date censée montrer le moment où les fonds ont été reçus. Ce document n'offrait aucun autre renseignement précisant l'objet du dépôt ou du déboursement. Il ne montrait pas que les dépenses visaient des fins qui n'étaient pas celles de l'appelant. Dans la présente affaire, les documents produits ont échoué lamentablement à cet égard.
+[49] Les documents produits font clairement état des sommes d'argent qui étaient déposées dans les comptes et de celles qui en étaient retirées de temps à autre. La formule de réception d'un virement télégraphique mise en preuve a été rédigée par l'appelant lui‑même et il a déclaré qu'elle servait à lui assurer une certaine forme de protection. La Cour éprouve de la difficulté à comprendre comment ces formules pouvaient offrir à l'appelant une quelconque forme de garantie.
+[50] Il n'y avait qu'une seule façon d'obtenir une telle garantie : établir des documents précisant de qui provenait l'argent, à qui l'argent était payé, pourquoi l'argent devait être payé et le pourcentage des fonds versés à l'appelant à titre de commission. Aucun des documents dont je suis saisi ne satisfait à ces exigences.
+[51] De plus, le témoignage de l'appelant comportait plusieurs contradictions qui soulèvent un doute quant à sa crédibilité.
+[52] Dans l'avis d'appel, l'appelant a affirmé que, lorsqu'il recevait les fonds comme il le faisait, il prenait une modeste commission allant de 2,55 pour 100 à 5 pour 100 de la somme reçue. Or, pendant son témoignage devant la Cour, et comme l'a avancé son avocat, l'appelant a déclaré qu'il exigeait un taux de 2,55 pour 100 en toute occasion. L'avocat de l'appelant n'attachait pas une grande importance à ce fait, mais l'avocat de l'intimée a insisté sur ce point, et la Cour conclut qu'il y a lieu de lui accorder une certaine importance à la lumière des autres éléments de preuve présentés.
+[53] Dans son témoignage, l'appelant a mentionné qu'il avait pris une commission de 2,55 pour 100 sur la somme de 129 045,02 $, mais qu'il n'avait touché aucune commission sur les sommes de 44 580,82 $ et de 40 879,67 $, lesquelles ont été déposées au compte de Credit Swiss, parce qu'il n'avait pu obtenir une entente quant au montant de la rétribution qui lui serait versée. Il a déclaré pendant son témoignage que son seul autre revenu était celui qu'il recevait en tant que déménageur. Selon son témoignage à cet égard, il recevait 90 $ par jour et il travaillait environ neuf ou dix jours. Il n'a donc pas gagné plus de 900 $.
+[54] Suivant les calculs de la Cour, l'appelant aurait gagné 3 290,64 $ au titre des commissions et 900 $ au titre des déménagements. Son revenu total pour l'année en cause aurait donc dû s'élever à environ 4 190,64 $. Or, dans sa déclaration de revenus, telle qu'elle a été produite, il a déclaré un revenu d'entreprise de 11 569,50 $ et des dépenses d'entreprise de 25 147,85 $. Comme il a précisé sans équivoque qu'il n'avait aucune autre source de revenu, il faut se demander d'où provenaient ces fonds supplémentaires.
+[55] En outre, comme il est mentionné plus haut, l'appelant, dans sa déclaration de revenus pour l'année en cause, a déduit des dépenses d'entreprise de 25 147,85 $. On ne peut faire autrement que de s'interroger sur la source des fonds utilisés pour régler ces dépenses.
+[56] Les dépenses d'entreprise comprennent des frais de publicité, de l'intérêt, des frais de gestion et d'administration, des frais de véhicule automobile, des frais juridiques et de comptabilité, d'autres honoraires professionnels, du loyer, des déplacements, le téléphone et les services publics. L'appelant n'a pu présenter de reçu relatif à ces sommes et, de son propre aveu, il a déduit 8 160 $ au titre du loyer alors qu'il vivait avec d'autres personnes et qu'il ne payait qu'une fraction de cette somme. Il a affirmé devant la Cour qu'il avait payé 13 320 $ au titre du loyer.
+[57] Ces assertions sont incompatibles avec sa propre déclaration de revenus.
+[58] L'avocat de l'appelant a soutenu dans ses observations que le montant total des dépôts au compte correspondait presque au total des débits. Cependant, cela ne permet à la Cour ni de connaître la source des fonds et les fins auxquelles ils étaient destinés, ni de savoir comment les fonds ont été distribués.
+[59] La Cour n'accepte pas l'argument selon lequel l'appelant venait d'arriver au pays, n'avait qu'un faible niveau d'instruction et aucune connaissance en matière de tenue de comptes pour justifier le fait qu'il ne tenait aucun registre relatif à son entreprise et à ses revenus. Il a été suffisamment avisé pour retenir les services d'un teneur de comptes ou d'un expert‑comptable, pour produire des déclarations de revenus et pour demander une perte d'entreprise considérable, laquelle aurait évidemment constitué pour lui un avantage appréciable. Il a été suffisamment avisé pour ouvrir deux comptes bancaires pour son entreprise et suffisamment compétent pour avoir l'intention de lancer une entreprise d'achat et de vente de biens, pour négocier, selon les allégations, des taux d'intérêt avec d'éventuels clients quant à l'utilisation de ses comptes bancaires et pour rédiger une formule de réception d'un virement télégraphique. Il a obtenu et transféré des sommes importantes à diverses fins. De plus, il a suivi un cours sur les « opérations de bourse par Internet » et il a établi le compte de Credit Swiss, lequel, selon ses dires, devait servir à des opérations de bourse. L'ensemble de ces activités ne donne nullement à penser qu'il s'agit d'une personne ne sachant pas ce qu'elle fait.
+[60] L'un des plus grands problèmes qu'éprouve l'appelant pour convaincre la Cour d'accepter son témoignage tient au fait qu'il a omis d'appeler l'une ou l'autre des principales parties intéressées par ces opérations à témoigner pendant l'audience. Ces personnes auraient pu établir que les fonds en cause n'appartenaient pas à l'appelant et n'avaient pas été placés dans le compte de ce dernier pour son propre usage. Elles auraient pu permettre de découvrir la source des fonds et les fins auxquelles ils étaient destinés de même que les raisons à l'origine de leur déboursement. Il est bien connu en droit que la Cour peut tirer une inférence défavorable au contribuable lorsqu'il omet d'appeler à témoigner les personnes réellement susceptibles de mettre en lumière sa version des faits et d'étayer sa thèse.
+[61] L'une ou l'autre des personnes qui ont déposé de l'argent dans les comptes ou qui ont traité avec l'appelant aurait peut‑être pu corroborer dans une certaine mesure le témoignage de l'appelant, mais aucune n'a été appelée à témoigner, aucune n'a fait l'objet d'un contre‑interrogatoire et aucune raison n'a été donnée pour expliquer cette situation. Compte tenu des circonstances, la Cour tirera une inférence défavorable relativement au témoignage de l'appelant.
+[62] Comme l'a signalé l'avocat de l'intimée, rien ne permet d'expliquer clairement pourquoi l'appelant ne s'est pas protégé en conservant des documents qui auraient permis de suivre la trace des fonds jusqu'aux tiers visés, comme il est mentionné plus haut. Et on ne peut savoir clairement à quoi a servi l'argent même lorsqu'il existe des documents précisant la destination d'une partie des fonds.
+[63] L'appelant ne s'est pas acquitté de l'obligation qui lui incombait, selon la Loi, d'établir que les fonds en cause ne constituaient pas un revenu entre ses mains.
+[64] L'avocat de l'appelant a laissé entendre que l'affaire Nigro c. La Reine, précitée, invoquée par l'intimée se distingue complètement des faits en l'espèce. Cependant, la Cour est convaincue que, même si cette affaire n'est pas en tous points identique à la situation dont elle est saisie, elle n'en demeure pas moins d'une grande utilité pour lui permettre de trancher les questions qui lui sont soumises. Le raisonnement et la décision du juge Bonner de la Cour canadienne de l'impôt (tel était alors son titre) sont acceptés par la Cour.
+[65] À cet égard, je renvoie au paragraphe 11 de la décision en question, où le savant juge mentionne :
+Les personnes qui ont prêté l'argent à Muto n'ont pas reçu de billets à ordre. Aucune des personnes qui sont censées avoir consenti des prêts n'a été appelée à témoigner. [...]
+[66] Dans cette affaire, l'appelant a offert deux explications, lesquelles n'ont de toute évidence pas été acceptées par le juge présidant l'instruction. En l'espèce, toutefois, aucune explication n'a été présentée.
+[67] À nouveau, en ce qui concerne l'omission d'appeler des témoins attendus, le juge tient les propos suivants au paragraphe 15 de la décision :
+Il incombe à l'appelant d'établir, selon la prépondérance des probabilités, que la base factuelle sur laquelle repose une cotisation fiscale est erronée. Il lui aurait été possible de s'acquitter du fardeau de la preuve en l'espèce si l'appelant avait présenté une preuve crédible que tout l'argent ayant transité par ces comptes était versé ou appartenait à un tiers. Il ne s'est pas acquitté du fardeau de la preuve. Je n'accepte ni le témoignage de l'appelant, ni celui de Muto. Leur récit n'était guère crédible, et aucun document écrit cohérent ne venait l'appuyer. J'ai eu l'impression que les deux hommes voulaient dissimuler l'essentiel des opérations nécessitant l'utilisation par Muto de comptes en banque détenus par l'appelant. Le récit de l'appelant est d'autant moins crédible qu'il n'a appelé aucun des soi‑disant prêteurs à témoigner.
+[68] Ces observations s'appliquent sans aucun doute à la présente affaire.
+[69] En ce qui a trait aux pénalités, le juge présidant l'instruction s'est penché sur cette question au paragraphe 17 de sa décision :
+En vertu du paragraphe 163(3) de la Loi, il incombe au ministre d'établir les faits qui justifient l'imposition d'une pénalité. En l'espèce, l'appelant a produit une déclaration de revenus qui indiquait un revenu égal à zéro alors qu'en fait il était de 150 349 $. L'omission de déclarer un montant aussi important ne peut censément être attribuée à la négligence ordinaire. À mon avis, l'appelant a sciemment omis ce revenu de sa déclaration. La pénalité a donc été imposée à bon escient.
+[70] En l'espèce, la somme en cause était également importante et rien ne permet d'expliquer pourquoi ce montant de revenu considérable n'a pas été déclaré. Là encore, on ne peut se contenter d'attribuer cette situation à de la simple négligence. La Cour estime que l'appelant a sciemment omis ce revenu dans sa déclaration. Les pénalités sont donc justifiées.
+[71] Par conséquent, la Cour rejettera l'appel avec dépens et elle confirmera la cotisation établie par le ministre, y compris les pénalités.
+Signé à Toronto (Ontario), ce 1er jour de décembre 2006.
+« T. E. Margeson »
+Le juge Margeson
+Traduction certifiée conforme
+ce 23e jour de juillet 2007.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI589
+NO DU DOSSIER DE LA COUR : 2004‑859(IT)G
+INTITULÉ DE LA CAUSE : FRANCIS OBODOECHINA c.
+SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 18 octobre 2006
+MOTIFS DU JUGEMENT PAR : L'honorable T.E. Margeson
+DATE DU JUGEMENT : Le 1er décembre 2006
+COMPARUTIONS :
+Avocat de l'appelant :
+Me M. Joseal Igbinosun
+Avocat de l'intimée :
+Me John Grant
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant :
+Nom : Me M. Joseal Igbinosun
+Avocat
+Cabinet :
+Pour l'intimée : Me John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

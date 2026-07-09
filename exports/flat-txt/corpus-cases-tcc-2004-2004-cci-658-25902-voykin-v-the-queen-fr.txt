@@ -1,0 +1,156 @@
+Title: Voykin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25902/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-658-25902-voykin-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-09-28
+
+# Voykin v. The Queen
+
+- Citation: 2004 CCI 658
+- Decision date: 2004-09-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3700, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Voykin v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-28
+Référence neutre
+2004 CCI 658
+Numéro de dossier
+2004-2119(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2119(IT)I
+ENTRE :
+BERNARD VOYKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Millie Voykin
+(2004-2120(IT)I), le 20 août 2004
+à Nelson, (Colombie-Britannique).
+Devant : L'honorable G. Sheridan
+Comparutions :
+Représentant des appelants :
+J.R. Burch
+Avocate de l'intimée :
+Me Lisa Riddle
+__________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1999 est accueilli avec dépens, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour qu'il l'examine à nouveau et établisse une nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 15e jour d'avril 2005.
+Jacques Deschênes, traducteur
+Dossier : 2004-2120(IT)I
+ENTRE :
+MILLIE VOYKIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Bernard Voykin
+(2004-2119(IT)I), le 20 août 2004
+à Nelson (Colombie-Britannique).
+Devant : L'honorable G. Sheridan
+Comparutions :
+Représentant des appelants :
+J.R. Burch
+Avocate de l'intimée :
+Me Lisa Riddle
+__________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1999 est accueilli avec dépens, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour qu'il l'examine à nouveau et établisse une nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 15e jour d'avril 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI658
+Date : 20040928
+Dossier : 2004-2119(IT)I
+ENTRE :
+BERNARD VOYKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+2004-2120(IT)I
+MILLIE VOYKIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sheridan
+[1] Les appelants, Bernard et Millie Voykin, interjettent appel des nouvelles cotisations établies à leur égard par le ministre du Revenu national pour l'année d'imposition 1999. Cette année-là, les Voykin ont vendu leur propriété de Christina Lake, laquelle a donné lieu à un gain en capital imposable selon le ministre. La question en litige dans ces appels est celle de savoir si l'opération visant la propriété de Christina Lake constituait une disposition de bien ou un projet comportant un risque de caractère commercial. S'il s'agit d'un projet comportant un risque de caractère commercial, la Cour devra également statuer sur le refus du ministre de faire droit à la demande de déductions au titre de dépenses d'entreprise dans la cotisation qu'il a établie. Seuls M. et Mme Voykin ont été appelés à témoigner et leurs appels ont été entendus ensemble sur preuve commune.
+[2] M. et Mme Voykin vivent et travaillent à Grand Forks (Colombie-Britannique). M. Voykin est électricien de son métier. À environ 30 minutes en voiture de leur résidence se trouve une station de montagne dénommée Christina Lake. En septembre 1993, après avoir entendu dire qu'il y avait beaucoup d'argent à tirer de l'achat de terrains et de leur revente à titre de propriété de vacances, les Voykin ont acheté 2,5 acres à Christina Lake pour environ 37 000,00 $. La totalité du prix d'achat a été payé à l'aide de fonds empruntés provenant en partie d'une hypothèque de 70 000,00 $ grevant leur résidence située à Grand Forks. Comme l'année était bien avancée lorsqu'ils ont pris possession de leur propriété, ils n'ont pu commencer les travaux sur le terrain qu'au printemps suivant, c'est-à-dire, dans les montagnes, avril ou mai 1994. C'est à ce moment que les principaux travaux ont débuté : il a fallu enlever des arbres, construire un chemin et transporter du gravier en vue de procéder à l'aménagement paysagé. Certains des gros travaux ont dû être confiés à des tiers, mais le reste a été effectué par les Voykin afin de minimiser leurs dépenses. M. Voykin a consacré beaucoup d'efforts à remettre en état une roulotte endommagée qu'il avait installée sur le terrain; Mme Voykin s'est chargée de l'aménagement paysagé, un passe-temps qu'elle connaissait plutôt bien. Comme les deux époux avaient un emploi régulier à Grand Forks, ils ne pouvaient s'occuper du terrain que pendant les fins de semaine et les jours fériés, et les progrès n'étaient pas aussi rapides qu'ils l'auraient souhaité. À l'époque où ils effectuaient ces travaux, ils ont fait savoir aux voisins et aux passants que la propriété était à vendre pour une somme de 110 000,00 $. Ce bouche à oreille n'a toutefois donné lieu à aucune offre. L'année suivante, les Voykin ont confié la vente de la propriété à un agent immobilier à un prix approximatif de 95 000,00 $. Même si la plupart des travaux d'aménagement étaient terminés, ils ont continué d'apporter des améliorations à la propriété dans l'espoir d'en faciliter la vente. La propriété est demeurée inscrite auprès de l'agent immobilier (bien qu'à un prix sans cesse décroissant) jusqu'à ce que les Voykin décident, en 1998, de tenter de vendre la propriété par eux-mêmes. La propriété a finalement été vendue en 1999 pour la somme de 74 000,00 $.
+[3] À l'appui de la thèse de l'intimée voulant qu'il s'agisse d'une disposition de bien, l'avocate a renvoyé la Cour à la décision Burnet v. Canada[1], dans laquelle le juge en chef adjoint Bowman a énoncé les critères habituels pour déterminer si une transaction donnée constitue un projet comportant un risque de caractère commercial : The Minister of National Revenue v. Taylor[2] et Happy Valley Farms Ltd. v. The Queen[3]. Selon ces décisions, l'examen de la Cour doit tenir compte des facteurs suivants :
+1. La nature du bien vendu. - Le bien vendu, soit le terrain situé à Christina Lake et les aménagements qui y ont été apportés, peut tout autant constituer un bien qu'avoir été l'objet d'un projet comportant un risque de caractère commercial.
+2. La durée de la possession à titre de propriétaire. - Les Voykin ont été propriétaires du terrain de 1993 à 1999, période qui, selon l'avocate de l'intimée, appuie la conclusion voulant que la propriété ait été acquise en vue d'un investissement à long terme. Cependant, à mon avis, la durée de la période pendant laquelle les Voykin ont été propriétaires du terrain tient davantage à leurs attentes irréalistes quant à la rapidité avec laquelle ils réussiraient à revendre la propriété en vue d'en tirer un profit qu'à un quelconque souhait de leur part de vouloir conserver le terrain pour accroître leur investissement.
+3. La fréquence ou le nombre d'opérations similaires effectuées par le contribuable. - L'opération visant la propriété de Christina Lake était la première de ce genre entreprise par les Voykin et, compte tenu des difficultés qu'elle leur a causées, ce sera peut-être leur dernière. À la lumière des conclusions tirées aux autres rubriques, je n'estime pas que la nature particulière de cette opération en fasse un bien de placement.
+4. Les améliorations apportées au bien réalisé ou se rapportant à pareil bien. - Les Voykin ont eux-mêmes beaucoup travaillé à l'aménagement du terrain. Il s'agit de savoir si ces travaux visaient à accroître la jouissance personnelle qu'ils tiraient du terrain ou la qualité marchande de celui-ci. À la lumière de la preuve présentée, je suis convaincue que leurs efforts ont été déployés en vue de la revente du terrain. Des photographies de la résidence des Voykin à Grand Forks ont été produites en preuve et commentées par ces derniers au cours de leur témoignage. Cette propriété a également été aménagée par les Voykin. La minutie dont ils ont fait preuve pour concevoir et décorer leur maison ainsi que l'aménagement en parc du terrain où elle se trouve montrent bien le genre de résultats qu'obtiennent les Voykin lorsqu'ils s'efforcent de satisfaire leurs goûts et leurs besoins personnels. La propriété de Christina Lake est nettement différente : il s'agit d'une clairière où une petite roulotte remise en état qui ne peut convenir à loger les Voykin et leurs trois adolescents a été installée, où les toilettes sont à l'extérieur et où il n'y a ni électricité ni alimentation en eau. Des efforts ont été déployés pour rendre la propriété attrayante aux yeux d'un acheteur, mais pas suffisamment pour convenir à l'usage des Voykin. En gros, ces derniers ont mentionné dans leur témoignage que ce projet n'était pas de tout repos : pendant toute cette période, ils disposaient non seulement de leur très agréable résidence à Grand Forks, mais aussi d'une tente-caravane qui leur permettait de voyager en des endroits plus accueillants que le terrain vacant, et ils pouvaient aussi se rendre au chalet que possédait le frère de M. Voykin au bord du lac Christina. Aucun de ces éléments ne mène à la conclusion voulant qu'ils aient acquis le terrain pour leur usage personnel. D'un autre côté, s'ils l'ont acheté avec l'intention non pas de l'utiliser eux-mêmes, mais de le conserver comme placement en attendant qu'il prenne de la valeur, pourquoi avoir pris la peine d'y apporter des améliorations? Je suis persuadée que leurs efforts pour construire un chemin et mettre en valeur les possibilités d'aménagement futur qu'offrait le terrain à un nouveau propriétaire visaient à favoriser une vente rapide.
+5. Les circonstances qui ont entraîné la vente du bien. - Au moment où les Voykin ont acheté le terrain, ils éprouvaient certaines difficultés financières. Incapable de trouver une solution pour sortir de la crise à l'aide de leurs seuls revenus d'emploi, ils ont commencé à chercher d'autres façons de [TRADUCTION] « faire rapidement de l'argent » , selon l'expression qu'ils ont souvent employée au cours de leur témoignage. C'est dans cet état d'esprit qu'ils ont décidé de tenter leur chance dans l'aménagement et la vente de terrain. Comme ils n'avaient aucune économie pour investir dans ce projet, ils ont dû emprunter la totalité du prix d'achat en hypothéquant leur résidence. Dans son témoignage, Mme Voykin a mentionné qu'ils n'avaient pas les moyens d'effectuer indéfiniment des versements hypothécaires relatifs à une seconde propriété - l'acquisition du terrain visait uniquement à résoudre leurs difficultés financières au moyen d'une revente rapide et rentable. Même si le projet s'est révélé beaucoup moins rapide et rentable que les Voykin, dépourvus d'expérience en la matière, l'avaient prévu, cela n'enlève rien à la crédibilité des raisons qu'ils ont données pour expliquer la vente du terrain.
+6. Le motif ou l'intention du contribuable au moment de l'acquisition du bien. -Outre la preuve directe offerte par le contribuable quant à ses intentions au moment de l'acquisition de la propriété, la Cour peut également tirer des inférences des circonstances de l'affaire[4], y compris, comme il est énoncé dans la décision Happy Valley, le « comportement du contribuable dans son ensemble lorsqu'il avait le bien en sa possession » [5]. Une grande partie de ce que je viens de mentionner ci-dessus s'applique aussi à la présente rubrique et il est inutile de le répéter. Selon la preuve directe présentée par les Voykin, ces derniers avaient toujours eu l'intention de vendre le terrain de Christina Lake : ils n'avaient aucune raison de le garder comme propriété de vacances pour leur propre usage et ils n'avaient pas les moyens financiers de le conserver comme investissement à long terme. Même s'il leur a fallu cinq ans pour vendre la propriété, je suis convaincue que, pendant toute cette période, tous leurs efforts visaient à améliorer le terrain et à chercher un acheteur. Par conséquent, j'arrive à la conclusion que l'opération relative au terrain de Christina Lake consistait en un « projet comportant un risque de caractère commercial » qui a donné lieu à un revenu tiré d'une entreprise en 1999.
+[4] La question suivante consiste à déterminer quelles dépenses, le cas échéant, sont déductibles du revenu d'entreprise. Selon la Loi de l'impôt sur le revenu, le contribuable a l'obligation de tenir des documents précis permettant d'étayer les renseignements fournis dans sa déclaration annuelle. À cet égard, les Voykin n'ont pas été aussi minutieux qu'ils auraient dû l'être et les sommes déduites au titre des frais liés à l'automobile et aux déplacements, au matériel, aux fournitures et au téléphone doivent être refusées. Outre les sommes admises par le ministre au titre des améliorations apportées à la roulotte (2 125,00 $), de l'engin à chenilles, de la pelle rétrocaveuse, du rouleur de billes (545,70 $), et du matériel lié aux toilettes extérieures (1 100,00 $), il y a lieu de permettre des déductions au titre des impôts fonciers (2 541,97 $), de l'assurance (420,00 $) et de l'intérêt hypothécaire calculé conformément au rapport entre le montant total du produit de l'hypothèque imputé au prix d'achat et le produit total de l'hypothèque.
+[5] Les appels sont accueillis avec dépens, et l'affaire est renvoyée au ministre pour qu'il l'examine à nouveau et établisse une nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 15e jour d'avril 2005.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI658
+NOS DES DOSSIERS DE LA COUR :
+2004-2119(IT)I
+2004-2120(IT)I
+INTITULÉ DE LA CAUSE :
+Bernard Voykin c. Sa Majesté la Reine
+Millie Voykin c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Nelson (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 30 août 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable G. Sheridan
+DATE DU JUGEMENT :
+Le 28 septembre 2004
+COMPARUTIONS :
+Représentant des appelants :
+J.R. Burch
+Avocate de l'intimée :
+Me Lisa Riddle
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1995] A.C.I. no 479 (C.C.I.).
+[2] [1956] D.T.C. 1125 (Cour de l'Échiquier).
+[3] Happy Valley Farms Ltd. v. The Queen, 86 D.T.C. 6421 (Cour fédérale - Section de première instance).
+[4] Racine et al. v. The Minister of National Revenue,[1965] C.T.C. 150, page 159, à laquelle renvoie la décision Happy Valley (précitée).
+[5] Happy Valley (précitée), page 6424.

@@ -1,0 +1,124 @@
+Title: Austin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29965/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-452-29965-austin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-08-30
+
+# Austin v. The Queen
+
+- Citation: 2010 TCC 452
+- Decision date: 2010-08-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6451, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Austin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-08-30
+Neutral citation
+2010 TCC 452
+File numbers
+2009-1199(IT)APP
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1199(IT)APP
+BETWEEN:
+DAVID AUSTIN,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on August 16, 2010 at
+Grande Prairie ,
+Alberta
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Robert Neilson
+____________________________________________________________________
+JUDGMENT
+The application for an order extending the time in which an appeal may be instituted under the Income Tax Act and the Excise Tax Act is dismissed. Each party shall bear their own costs.
+Signed at
+Ottawa ,
+Canada
+this 30th day of August 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 452
+Date: 20100830
+Docket: 2009-1199(IT)APP
+BETWEEN:
+DAVID AUSTIN,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] An application for an order granting an extension of time to institute an appeal under the Income Tax Act was filed in this Court on December 31, 2008. The issue appears to relate to the deduction of travel expenses, but this is not entirely clear from the documentation filed with the application.
+[2] Approximately one week before this hearing, the applicant, David Austin, was informed by counsel for the respondent that the deduction for travel expenses had been allowed, but that an application for a related GST rebate had been denied. It appears that both items were dealt with in a notice of assessment for the 2005 taxation year dated November 6, 2006.
+[3] At the hearing, Mr. Austin stated that he no longer wished to appeal the deduction of the travel expenses, but that he wanted to proceed in relation to the denial of the GST rebate. The amount at issue is $2,183.08.
+[4] By way of background, this application was filed further to a letter from the Canada Revenue Agency (CRA) dated September 18, 2008. In the letter, Mr. Austin was advised that if he wishes to appeal from assessments under the Income Tax Act and the Excise Tax Act, he must file an application to extend time by December 31, 2008. Mr. Austin responded with this application.
+[5] Based on the limited information before me, it appears that Mr. Austin has misinterpreted this correspondence. The CRA letter appears to relate to different assessments altogether. I understand that Mr. Austin has retained a law firm in connection with these assessments and that valid appeals have been instituted with respect to them.
+[6] This is not directly relevant to this application, but it does explain why this application is being made so long after the assessment was issued.
+[7] Counsel for the respondent, Mr. Neilson, stated that he had not anticipated that this hearing would relate to the GST rebate, and as a result he was not familiar with the relevant statutory provisions. Neither party sought an adjournment, however, and I agreed that this was appropriate in the circumstances.
+[8] For purposes of this decision, I have assumed that the denial of GST rebate was by way of an assessment under the Excise Tax Act.
+[9] The problem with granting an extension of time to appeal the denial of the GST rebate is that Mr. Austin has not filed a notice of objection and it is now too late to do so. It is also too late to apply for an extension of time to file a notice of objection (sections 301-306, Excise Tax Act).
+[10] Mr. Austin submits that an extension of time is appropriate because the notice of assessment was sent to the wrong address, since it was mailed shortly after he had moved from Delta B.C. to
+Fort
+St. John
+, B. C. Mr. Austin explained that, although he had not seen the notice of assessment in 2006, he had been informed by the CRA that the travel expenses were under review in a letter dated October 17, 2006.
+[11] If the notice of assessment was in fact mailed to the wrong address, Mr. Austin would still be able to file a notice of objection. The recent communication of the notice of assessment would be sufficient communication: Grunwald v. The Queen, 2005 FCA 421, 2006 DTC 6016; Universal Aide Society v. The Queen, 2009 FCA 107, 2009 DTC 5084.
+[12] I am unable to agree with Mr. Austin’s submission, however. In my view, the notice of assessment was mailed to the proper address. First, it is well established that a notice of assessment is validly sent if it has been mailed to the taxpayer. It is not necessary that the notice actually be received.
+[13] Second, a notice of assessment will be validly sent if it is mailed to the latest address which the CRA has been provided with. In this case, it appears that the notice of assessment was mailed on or around November 6, 2006 to the address in Delta B.C. that was given by the taxpayer in the income tax return dated June 15, 2006.
+[14] Mr. Austin testified that he began his move to
+Fort
+St. John
+around July 2006, and he acknowledged that no specific change of address notification was provided to the CRA. He submits, however, that the CRA knew about his change of residence because CRA officials dealing with another tax matter were aware of it. In response to my question as to whether he had support for this, Mr. Austin provided a letter from the CRA addressed to his wholly-owned corporation dated November 7, 2006. It was addressed to a post office box in Delta, and not the address that was in Mr. Austin’s income tax return.
+[15] I am not persuaded by this submission. It may have been that the CRA were advised that the address for the corporation had changed but the evidence is not sufficient to establish that the CRA were advised that Mr. Austin’s address had changed as well.
+[16] I would also note that there was correspondence from the CRA concerning this matter that was mailed on October 17, 2006 to the old address. Mr. Austin acknowledges that he received this letter, which asks for information, and he states that he did not reply to it. The notice of assessment which disallowed the GST rebate was issued about three weeks later. In the circumstances, the CRA was correct to send the notice of assessment to the mailing address in the income tax return.
+[17] Based on the limited evidence before me, I would conclude that the notice of assessment was sent to the correct address.
+[18] Finally, I would comment about an alternative submission that was made by Mr. Austin at the hearing. He suggested that the notice of assessment may not have been mailed at all and he submits that the respondent failed to prove that it was.
+[19] I might agree with this submission if this alternative issue had clearly been raised in the application. It was not, however, and it is too late for the applicant to expect the respondent to provide proof of mailing at the hearing. In the circumstances, the respondent cannot be expected to have provided further evidence on this point.
+[20] I conclude that a notice of assessment relating to the GST rebate was validly made on November 6, 2006. The application to extend time to institute appeals under the Income Tax Act and the Excise Tax Act will be dismissed.
+[21] Each party shall bear their own costs.
+Signed at
+Ottawa ,
+Canada
+this 30th day of August 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 452
+COURT FILE NO.: 2009-1199(IT)APP
+STYLE OF CAUSE: DAVID AUSTIN and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Grande Prairie ,
+Alberta
+DATE OF HEARING: August 16, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: August 30, 2010
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Robert Neilson
+COUNSEL OF RECORD:
+For the Applicant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of
+Canada
+Ottawa, Canada

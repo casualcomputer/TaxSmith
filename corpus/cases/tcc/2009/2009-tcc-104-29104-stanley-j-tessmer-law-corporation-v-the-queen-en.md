@@ -1,0 +1,183 @@
+---
+title: "Stanley J. Tessmer Law Corporation  v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29104/index.do"
+last_modified: "2009-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 104"
+citation2: ""
+neutral_citation: "2009 TCC 104"
+decision_date: "2009-02-16"
+language: "en"
+item_id: "29104"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6667
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:33:37.769000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5cf5d83cbce7405e41ab3f9fb2ff4c18ab07be23cd02dcaf20fd3b55bdf81423"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stanley J. Tessmer Law Corporation  v. The Queen
+
+- Citation: 2009 TCC 104
+- Decision date: 2009-02-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6667, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stanley J. Tessmer Law Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-16
+Neutral citation
+2009 TCC 104
+File numbers
+2007-3627(GST)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-3627(GST)G
+2007-3628(GST)G
+2007-3629(GST)G
+2007-3630(GST)G
+2007-3631(GST)G
+BETWEEN:
+STANLEY J. TESSMER LAW CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on January 29, 2009 at Vancouver, British Columbia
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Craig C. Sturrock
+Counsel for the Respondent:
+David Jacyk
+Elizabeth (Lisa) McDonald
+____________________________________________________________________
+ORDER
+Upon hearing the motion by the Appellant it is ordered that the Appellant does have standing to raise and rely on the alleged breaches of the Charter rights of its clients in challenging the validity of the Excise Tax Act as it applies to impose Goods and Services Tax (“GST”) on legal fees charged for criminal defence services supplied by the Appellant.
+The cost of this motion is left to the discretion of the trial judge.
+Signed at Ottawa, Canada, this 16th day of February 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2009TCC104
+Date: 20090216
+Docket: 2007-3627(GST)G
+2007-3628(GST)G
+2007-3629(GST)G
+2007-3630(GST)G
+2007-3631(GST)G
+BETWEEN:
+STANLEY J. TESSMER LAW CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+V.A. Miller, J.
+[1] The Respondent has brought this motion pursuant to rule 58 of the Tax Court of Canada Rules (General Procedure). The application for this motion was granted by Order of Justice Campbell on September 12, 2008. The question of law which has been referred for hearing is as follows:
+Does the Appellant have standing to raise and rely on the alleged breaches of the Charter rights of its clients in challenging the validity of the Excise Tax Act as it applies to impose Goods and Services Tax (“GST”) on legal fees charged for criminal defence services supplied by the Appellant?
+Facts:
+[2] The Appellant provides legal services and its principal, Stanley Tessmer specializes in criminal defence law.
+[3] The Appellant failed to collect and remit GST with respect to the legal services it supplied. It was assessed Goods and Services Tax (“GST”), interest and penalties, by way of five assessments for the reporting periods, July 1, 1999 to September 30, 2005 and for four additional reporting periods based on three month intervals between October 1, 2005 and December 31, 2006. The common issues in all five appeals are (a) whether the imposition of GST on lawyers’ fees for criminal defence services infringes the sections 7, 10(b) and 11(d) Charter rights of the Appellant’s clients; and (b) whether the Minister of National Revenue (“the Minister”) erred in assessing penalties. In the appeal for the period July 1, 1999 to September 30, 2005, the Appellant also asserted that the reassessment was statute barred.
+[4] The Appellant had a similar appeal before this court in 1998 wherein it argued that the GST violated its clients’ right under the Charter to retain and instruct their counsel of choice. In dismissing the appeal[1], McArthur J. stated that the Appellant did not introduce any evidence to prove that anyone was prevented from exercising the right to counsel and that there was no constitutional right to counsel of choice. In obiter, he relied on Irwin Toy v. Quebec (A.G.)[2] for the proposition that the Appellant could not challenge the law on the ground that it violated another person’s Charter rights.
+[5] In the present appeals, the Appellant plead few facts in its Notices of Appeal and the Respondent filed a Demand for Particulars. In response, the Appellant stated that it relied on the following factual basis for standing and in alleging that the GST violates the Charter rights of third parties:
+(a) the Appellant law corporation provides, almost exclusively, criminal defence lawyer services;
+(b) the legal services provided by the Appellant involved the legal defence of all charges under the Criminal Code, the Controlled Drugs and Substance Act and Provincial and other Federal enactments. These services were provided to persons who were arrested or detained, thereby engaging section 10(b) of the Charter, and to persons who required counsel in order to have a fair trial, thereby engaging section 7 and 11(d) of the Charter and similar constitutional rights pursuant to the rule of law;
+(c) counsel employed by the Appellant asked each of its criminal defence clients if they could afford to pay the GST arising with respect to the fee for services to be rendered for such services. If the client advised that the GST was not affordable the Appellant did not charge, collect or remit GST;
+(d) the imposition of the GST on criminal legal defence services acted as a hindrance to and impeded access to justice and the protection to the Appellant’s clients of the above-described Charter rights;
+(e) the GST hindered and impeded the criminal defendants’ rights to counsel of choice and limited their access to funds for their defence without lawful justification;
+(f) the five notices of assessment that are the subject matter of these appeals impose a substantial liability on the Appellant with respect to the GST, interest and related penalties;
+(g) the Appellant duly filed notices of objection to the said notices of assessment;
+(h) the Minister of National Revenue took collection action against the Appellant by issuing Requirements to pay on March 6, 2006 and on June 13 and 14, 2007. The said Requirements to Pay were issued to two banks and to another third party;
+(i) the Appellant has, by reason of the facts described above, been exceptionally prejudiced; and
+(j) the Appellant has a genuine interest in the issue concerning the validity of the GST in this case. The Appellant is directly affected and, therefore, in addition to being exceptionally prejudiced, has standing with respect to the constitutional issues raised in this appeal under the discretionary public interest standing rule. The Appellant relies, inter alia, in seeking an appropriate remedy on this appeal, upon Charter sections 24(1) and 52(1).
+Position of the Parties
+[6] It is the Respondent’s position that the mere fact that the Appellant has been assessed does not itself give it standing to rely on the infringement of third parties’ Charter rights as grounds for the appeal. The Respondent relied on the Federal Court of Appeal decision in Moresby Explorer Ltd. v. Canada[3] for the submission that generally, a party does not have standing to challenge the constitutionality of a statute when the alleged constitutional defect does not infringe its own Charter rights.
+[7] The Respondent further argued that the Appellant does not have standing under the Canadian Egg Marketing Agency v. Richardson[4] (“CEMA”) exception which granted standing to corporations in exceptional situations. It is the Respondent’s position that the Appellant has not been brought involuntarily before the court.
+[8] In particular, the Respondent stated that the Appellant had sought opportunities to raise the Charter issue in the past, notwithstanding that its own Charter rights were not engaged. Counsel for the Respondent discussed the prior decision from the Tax Court of Canada which I have referred to in paragraph 4 above. The Appellant has also more recently sought and been refused intervener status at the Supreme Court of Canada in the case of Christie v British Columbia (AG)[5], which dealt with a similar constitutional challenge relating to the application of a British Columbia provincial tax to legal bills.
+[9] It was also the Respondent’s position that the Appellant does not meet the test to get standing under the exceptional prejudice principle. The Respondent argued that in order to establish standing under the “exceptional prejudice” test, the Appellant would have to demonstrate through evidence that it has suffered disproportionately as a result of the application of GST to its legal services as compared to other persons required to collect or pay GST. He stated that the Appellant has not introduced any evidence in this section 58(1) motion.
+[10] The Respondent’s final argument was that the Appellant does not have standing based on the public interest standing rule. It was the Respondent’s position that the appeals do not raise a serious constitutional issue. The Appellant has framed the issue so that its clients’ financial circumstances are not taken into consideration.
+[11] Counsel for the Appellant stated that there is no evidence needed in order to raise the Charter argument as the court can analyse the issue through a hypothetical situation. It is his position that if the law is unconstitutional to some people, it is unconstitutional to all.
+[12] It is the Appellant’s position that it should have standing as of right under the principle in CEMA. He argued that no accused person has brought an application to raise this constitutional issue. As well, it defies logic to say that the Appellant has been assessed approximately $350,000, but it cannot argue the constitutionality of the law under which the assessment was made.
+Analysis
+[13] At the outset, I wish to state that I will address only the question that has been referred in the motion. I will not speak to the ultimate success of these appeals. The law with respect to standing in proceedings, in which the Charter is raised, was summarized by the Supreme Court of Canada in Canadian Egg Marketing Agency v. Richardson[6] (“CEMA”). In that case, the Canadian Egg Marketing Agency commenced an action against two corporations (“the egg producers”) seeking damages and an injunction to prevent them from selling their eggs interprovincially. In defence, the egg producers argued that the egg marketing scheme infringed their section 6 mobility rights and their section 2(d) freedom of association rights under the Charter. On appeal, one of the issues was whether the egg producers, as corporations, had standing to challenge the constitutionally of the egg marketing scheme under the Charter as a defence to a civil suit.
+[14] In speaking for the court on the issue of standing, Iacobucci and Bastarache JJ. stated at paragraph 35 of CEMA:
+35 Generally speaking, a party seeking to invoke the Charter may be granted standing under four broad heads: as of right, the Big M Drug Mart exception, public interest standing, and under residuary discretion. As already noted, these respondents could have been granted standing in this Court under the residuary discretion.
+[15] The court took cognizance of the fact that, although as a general rule, the Charter can only be invoked by those who enjoy its protection, the Big M Drug Mart exception permitted an accused corporation, to defend itself by arguing that the law under which it was charged was unconstitutional. The court observed that in the circumstances of the Big M Drug Mart exception, “an accused corporation or an individual was said to be ‘entitled to resist a charge under the Act’ notwithstanding that the accused’s own rights were not violated”[7].
+[16] In CEMA the court concluded that this exception should be expanded to civil proceedings in limited circumstances. At paragraphs 39, 40, 44 and 46, the court stated the following:
+39 What Big M Drug Mart created was an exception which granted standing as of right to an accused charged under legislation alleged to be unconstitutional. A person whose constitutional rights are violated has standing as of right to challenge the violative act of government in proceedings brought either by or against that person. Big M Drug Mart extended that right to an accused whose own rights are not in fact violated but who alleges that legislation under which the accused is being prosecuted is unconstitutional.
+40 In our opinion, the logic of Big M Drug Mart extends to give standing as of right to the respondents. While they might seek public interest standing, we do not believe they need do so. They do not come before the court voluntarily. They have been put in jeopardy by a state organ bringing them before the court by an application for an injunction calling in aid a regulatory regime. Success of that application could result in enforcement by contempt proceedings. If the foundation for these remedies is an unconstitutional law, it appears extraordinary that a defendant cannot be heard to raise its unconstitutionality solely because the constitutional provision which renders it invalid does not apply to a corporation.
+44 Our expanding the Big M Drug Mart exception to civil proceedings in these limited circumstances is not intended to provide corporations with a new weapon for litigation. The purpose of the expansion is to permit a corporation to attack what it regards as an unconstitutional law when it is involuntarily brought before the courts pursuant to a regulatory regime set up under an impugned law. Surely, just as no one should be convicted of an offence under an unconstitutional law, no one should be the subject of coercive proceedings and sanctions authorized by an unconstitutional law.
+46 Although the respondents were not prosecuted under the scheme, it was nevertheless the federal egg marketing scheme which provided the basis for CEMA’s civil claim. Were it not for this scheme, there would have been no harm to CEMA. Indeed, there would be no CEMA. A defendant in a civil proceeding brought pursuant to legislation is normally entitled to challenge the constitutionality of the legislation authorizing the proceeding. But it is argued that because the respondents were corporations and the proceedings against them were civil, they were barred from challenging the provisions of the scheme. In our opinion, ensuring the constitutionality of legislation under which the state initiates coercive proceedings is far more important to the rule of law and to the integrity of the justice system than whether the proceedings in question are penal or civil. If the penal proceedings requirement were allowed to stand, a corporation that was the subject of a civil injunction issued at the urging of a state agency would be barred from challenging the constitutionality of the law that authorized those proceedings. But if it violated the injunction, it could be cited for contempt. It would then face more severe penalties. Yet, at this latter stage, even though it faced possible penal sanctions, it would not be allowed to challenge the law under the Charter because the penal sanctions were authorized, not by that law, but by the contempt powers of the court.
+[17] The question to be answered in this motion is whether in these appeals the Appellant has been brought involuntarily before the court. It is my opinion that this question must be answered in the affirmative.
+[18] The Appellant became an agent of Her Majesty when it made a taxable supply. The Appellant had to collect the GST that was payable by the recipient of the supply[8]. According to the scheme of the ETA, the Minister was entitled to assess the Appellant as the person who made the taxable supply.[9] The assessment of tax fixed the Appellant’s liability to pay the tax[10] and the assessment is valid and binding, subject to being reassessed or vacated as a result of an objection or appeal[11].
+[19] I note that the Appellant has been assessed the uncollected tax and also penalties pursuant to both sections 280 (underreporting) and 285 (gross negligence) of the ETA. The Minister has also taken execution proceedings by issuing and serving Requirements to Pay to one of the Appellant’s bankers and to a company affiliated with the Appellant. Counsel for the Appellant stated that approximately $350,000 has been paid to satisfy the Appellant’s GST liability.
+[20] The fact that the Appellant had to commence these appeals is a nuance[12] of our self assessing system where the onus is placed on the taxpayer to show an error in the Minister’s assessment. It does not negate that the Appellant has been brought involuntarily before the court. In the circumstances of these appeals and based on the observations and conclusions reached in the caselaw which I have quoted, where the Appellant is of the opinion that the legislation is unconstitutional, I can see no other way in which this question can be brought before the court than by the Appellant itself.
+[21] I conclude that the Appellant does have standing to raise and rely on the alleged breaches of the Charter rights of its clients in challenging the validity of the Excise Tax Act as it applies to impose Goods and Services Tax (“GST”) on legal fees charged for criminal defence services supplied by the Appellant.
+[22] The cost of this motion is left to the discretion of the trial judge.
+Signed at Ottawa, Canada, this 16th day of February 2009.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2009TCC104
+COURT FILE NO.: 2007-3627(GST)G
+2007-3628(GST)G
+2007-3629(GST)G
+2007-3630(GST)G
+2007-3631(GST)G
+STYLE OF CAUSE: STANLEY J. TESSMER LAW CORPORATION AND THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: January 29, 2009
+REASONS FOR ORDER BY: The Honourable Justice Valerie Miller
+DATE OF ORDER: February 16, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Craig C. Sturrock
+Counsel for the Respondent:
+David Jacyk
+Elizabeth (Lisa) McDonald
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Craig C. Sturrock
+Firm: Thorsheinssons LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1999] G.S.T.C. 41
+[2] [1989] 1 S.C.R. 927
+[3] (2006), 350 N.R. 94 (FCA)
+[4] [1998] 3 S.C.R. 157
+[5] 2007 SCC 21
+[6] Supra, note 4
+[7] Supra, note 4 at paragraph 38
+[8] ETA, subsection 221(1)
+[9] ETA, section 296
+[10] Terra Nova Properties Ltd. v. Minister of National Revenue (1967), 67 D.T.C. 5064 (Can.Ex.Ct.) at 5066
+[11] ETA, subsections 299(3) and (4)
+[12] Douglas H. Mathew v. The Queen, 2002 TCC 1999464 at paragraph 500

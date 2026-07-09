@@ -1,0 +1,486 @@
+---
+title: "Krumm c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/459888/index.do"
+last_modified: "2020-01-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 7"
+citation2: ""
+neutral_citation: "2020 CCI 7"
+decision_date: "2020-01-17"
+language: "fr"
+item_id: "459888"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4245
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T07:08:25.188000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0bb76ed7b9716da9b353ed4208bace18f0e24b057cd3faa1f4765a17e5314043"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Krumm c. La Reine
+
+- Citation: 2020 CCI 7
+- Decision date: 2020-01-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4245, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Krumm c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-01-17
+Référence neutre
+2020 CCI 7
+Numéro de dossier
+2015-5487(IT)G
+Juges et Officiers taxateurs
+Henry A. Visser
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-5487(IT)G
+ENTRE :
+JAMES KRUMM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 26 et 27 septembre 2018, à Calgary (Alberta)
+Devant : L’honorable juge Henry A. Visser
+Comparutions :
+Avocat de l’appelant :
+Me Matthew Clark
+Avocate de l’intimée :
+Me Wendy Bridges
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 1997 et 1998 de l’appelant est rejeté.
+Les dépens sont adjugés à l’intimée. Les parties disposent d’un délai de 30 jours suivant la date du présent jugement pour parvenir à un accord sur les dépens, faute de quoi l’intimée disposera alors d’un délai de 30 jours pour déposer ses observations écrites sur les dépens, après quoi l’appelant disposera d’un délai supplémentaire de 30 jours pour déposer sa réponse par écrit. Ces observations ne doivent pas dépasser dix pages. Si les parties n’informent pas la Cour qu’elles sont parvenues à un accord, et en l’absence de dépôt d’observations, les dépens seront adjugés à l’intimée selon le tarif.
+Signé à Ottawa, Canada, ce 17e jour de janvier 2020.
+« Henry A. Visser »
+Le juge Visser
+Traduction certifiée conforme
+ce 24e jour de février 2020.
+François Brunet, réviseur
+Référence : 2020 CCI 7
+Date : Le 17 janvier 2020
+Dossier : 2015-5487(IT)G
+ENTRE :
+JAMES KRUMM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Visser
+[1] Le 1er août 1997, pendant ce qui est souvent appelé l’essor des « point com » ou la « bulle technologique », M. Krumm a signé une convention d’achat de biens aux termes de laquelle il a acheté une participation de 50 % dans le logiciel d’une application informatique (le logiciel) appartenant à Intersports Acceleration Corp. (IAC) pour un montant de 2,8 millions de dollars, dont 700 000 dollars étaient payables par chèque et 2,1 millions de dollars étaient payables au moyen d’un billet à ordre à long terme (le billet à ordre). M. Krumm et IAC ont également conclu un contrat de coentreprise, pour exploiter en commun le logiciel, par lequel IAC a convenu qu’elle verserait à M. Krumm un pourcentage des ventes nettes sur plusieurs années qui totaliserait au moins 200 % du principal et tous les intérêts exigibles conformément au billet à ordre (le montant d’argent annoncé). Le contrat de coentreprise prévoyait en outre que si M. Krumm ne recevait pas le montant d’argent annoncé sous la forme de recettes, il aurait alors droit de recevoir par IAC la différence entre le montant d’argent reçu et le montant d’argent annoncé, sous la forme de dommages-intérêts, ce qui, dans les faits, annulerait le billet à ordre.
+[2] Pour les années d’imposition 1997 et 1998 de M. Krumm, aucun revenu n’a été tiré du logiciel, et M. Krumm a déclaré une déduction pour amortissement (DPA) de 1,4 million de dollars à l’égard du logiciel de la catégorie 12, de sorte qu’il a déduit la totalité du prix d’achat du logiciel lors du calcul de son revenu imposable en 1997 et 1998. M. Krumm a aussi déclaré des frais d’intérêts de 10 849 $ et de 76 904 $ pour ses années d’imposition 1997 et 1998, respectivement.
+[3] Le 29 octobre 1999, M. Krumm a vendu sa participation dans le logiciel à SAMsports.com Inc. (SAM) en échange de 875 000 actions ordinaires du capital de SAM d’une valeur déclarée de 700 000 $. SAM était une société de capital de démarrage, ce qui signifiait, aux termes des règles applicables à l’époque, qu’elle pouvait s’introduire en bourse sans activité sous-jacente, si elle réalisait une opération commerciale importante dans un délai donné. Après l’obtention par SAM de la participation de M. Krumm dans le logiciel, le conseil d’administration de SAM comprenait M. Krumm, l’avocat de ce dernier (Me Dennis Nerland) et le frère de l’avocat de M. Krumm (M. Nairn Nerland). SAM a cessé ses activités et a été mise en liquidation au début de l’année 2001 et le 31 janvier 2001, elle a subi la disposition ordonnée de ses actifs. IAC a été dissoute involontairement le 3 avril 2003.
+[4] Dans des avis de nouvelles cotisations datés du 30 mars 2000, le ministre du Revenu national (le ministre) a établi une nouvelle cotisation à l’égard de M. Krumm, aux termes de la Loi de l’impôt sur le revenu [1] (la Loi) et a refusé la DPA et les intérêts réclamés par M. Krumm, pour les années d’imposition 1997 et 1998, au motif, notamment, que son investissement dans le logiciel était un abri fiscal non inscrit, aux termes de l’article 237.1 de la Loi et que, par conséquent, aucune déduction n’était autorisée à cet égard, selon le paragraphe 237.1(6) de la Loi [2] . Après le dépôt, par l’appelant, d’un avis d’opposition, le ministre a, dans un avis de nouvelle cotisation daté du 16 octobre 2001, établi une autre nouvelle cotisation à l’égard des années d’imposition 1997 et 1998 de M. Krumm pour appliquer des reports rétrospectifs de perte de l’année d’imposition 2000 de 2 870 $ et de 45 419 $, respectivement. M. Krumm a interjeté appel des nouvelles cotisations du ministre auprès de notre Cour pour ses années d’imposition 1997 et 1998.
+QUESTIONS EN LITIGE
+[5] Au procès, M. Krumm a reconnu qu’il n’avait pas payé des intérêts sur le billet à ordre et il a indiqué qu’il se désistait de son appel concernant la déductibilité des frais d’intérêts de 10 849 $ et de 76 904 $ relativement à ses années d’imposition 1997 et 1998, respectivement. Par conséquent, la seule question en litige qui reste à trancher est de savoir si M. Krumm avait le droit de déduire la DPA de 1,4 million de dollars pour chacune des années d’imposition 1997 et 1998, en ce qui concerne le logiciel qu’il avait acheté. À cet égard, la principale question en litige dans les présents appels consiste à déterminer si l’investissement de M. Krumm dans le logiciel constitue un « abri fiscal » conformément à sa définition figurant au paragraphe 237.1(1) de la Loi et, le cas échéant, s’il lui était interdit de déduire la DPA concernant le logiciel aux termes du paragraphe 237.1(6) de la Loi.
+[6] L’intimé a également soutenu que l’investissement de M. Krumm dans le logiciel était un abri fiscal déterminé et qu’il faisait donc l’objet de restrictions énoncées à l’article 143.2 de la Loi et aux paragraphes 1100(20.1) et 1100(20.2) du Règlement de l’impôt sur le revenu (le Règlement). Ces dispositions ne jouent que s’il y a un abri fiscal déterminé, au sens du paragraphe 143.2(1) de la Loi, et elles limitent le montant d’argent total que le contribuable peut déduire relativement à l’abri fiscal déterminé. Puisque M. Krumm n’avait pas investi dans le logiciel par l’intermédiaire d’une société de personnes (conformément au paragraphe (b) sur la définition de l’« abri fiscal déterminé »), son investissement dans le logiciel ne constitue un abri fiscal déterminé s’il s’agit d’un abri fiscal au sens du paragraphe 237.1(1) de la Loi (conformément au paragraphe (a) sur la définition de l’« abri fiscal déterminé »).
+[7] Pour les motifs qui suivent, je suis d’avis que l’investissement de M. Krumm dans le logiciel constitue un abri fiscal au sens de l’article 237.1 de la Loi. Comme il est évident que l’investissement de M. Krumm dans le logiciel n’a pas été inscrit à titre d’abri fiscal et qu’il n’a pas déposé le formulaire prescrit contenant les renseignements prescrits exigés par le paragraphe 237.1(6) de la Loi avec ses déclarations de revenus pour les années 1997 et 1998, je suis aussi d’avis que M. Krumm ne saurait, selon le paragraphe 237.1(6) de la Loi, déduire la DPA en cause dans les présents appels relativement à ses années d’imposition 1997 et 1998.
+[8] Puisque je suis d'avis que le paragraphe 237.1(6) de la Loi joue et que M. Krumm doit donc se voir refuser le montant total de la DPA, il n’est pas nécessaire, dans le cadre des présents appels, que j’examine l’application de l’article 143.2 de la Loi et celle des paragraphes 1100(20.1) et 1100(20.2) du Règlement.
+[9] L’intimée a également soutenu que la demande de DPA de M. Krumm n’était pas raisonnable et qu’elle devrait donc être rejetée complètement, en application de l’article 67 de la Loi. Cependant, l’intimée a présenté peu d’éléments de preuve à l'appui de cet argument lors du procès, et elle a reconnu que M. Krumm et IAC avaient un lien de dépendance lorsque M. Krumm a acheté le logiciel en 1997. Bien qu’il s’agisse d’un argument subsidiaire qui est théorique, à la lumière de ma conclusion sur les autres questions en litige dans les présents appels, à mon avis, l’intimée n’a pas établi que l’article 67 de la Loi vise le prix d’achat du logiciel ou la DPA réclamée par M. Krumm, dans les circonstances de l’espèce.
+EXPOSÉ DES FAITS
+[10] Les faits en l’espèce sont généralement constants. Les parties ont déposé un exposé conjoint (partiel) des faits (l’ECF), dont le texte est reproduit à l’annexe « A ». Les parties ont aussi présenté un recueil conjoint de pièces [3] qui inclut, notamment, des copies des contrats pertinents régissant les relations entre M. Krumm et IAC pendant les années en cause, ainsi que des copies d’un rapport d’évaluation qu’IAC a obtenu concernant le logiciel, ainsi que la correspondance et d’autres documents s’y rapportant.
+[11] L’appelante a appelé M. Krumm et M. Stephen Corbett à témoigner lors de l’audition de ces appels. M. Krumm et M. Corbett étaient, selon moi, des témoins crédibles. L’intimée n’a fait appel à aucun témoin.
+[12] Avant d’en venir aux témoignages de M. Krumm et de M. Corbett, je décrirai brièvement le logiciel et le rapport d’évaluation obtenu par IAC concernant le logiciel. À cet égard, je relève que l’ECF décrit le logiciel comme suit, au paragraphe 5 :
+Le logiciel comprenait trois produits :
+a) un logiciel interactif pour la recherche de talents, l’analyse et la gestion de tous les sports;
+b) un programme d’entraînement de soccer destiné aux jeunes et conforme à la norme d’excellence européenne;
+c) un programme d’entraînement de soccer du Bayern Munich destiné aux jeunes.
+[13] Avant l’acquisition par M. Krumm d’une participation de 50 % dans le logiciel en 1997, IAC détenait 100 % du logiciel et a demandé à EMC Partners de lui remettre un rapport d’évaluation (le rapport d’évaluation) concernant le logiciel afin d’en déterminer la valeur, en prévision de la vente d’une participation dans celui-ci à des investisseurs. Le rapport daté du 25 juin 1997 sera discuté plus longuement ci-dessous.
+[14] M. Krumm est un homme d’affaires résidant à Airdrie, en Alberta. Il exerce principalement la fonction d’agent foncier ou d’agent des terres pétrolières pour sa propre entreprise, Heritage Freehold Specialists & Co. Ltd. (Heritage). M. Krumm a témoigné qu’en 1997, il souhaitait investir dans le secteur des technologies et que M. Vladimir Morgun, qui exerçait la fonction de vendeur d’assurance pour Prudential Trust, lui a présenté IAC. L’avocat de M. Krumm, Dennis Nerland, l’a également aidé lors de son acquisition du logiciel d’IAC. Il a par ailleurs indiqué qu’il connaissait M. Nerland depuis de nombreuses années et que celui-ci l’avait aidé à établir une fiducie familiale en 1985.
+[15] M. Krumm a déclaré qu’il a eu [traduction] « beaucoup de réunions » avec IAC, car il a fait preuve de diligence raisonnable concernant l’acquisition d’une participation dans le logiciel et les négociations étaient [traduction] « difficiles » et se sont apparentées à des [traduction] « batailles acharnées ». Il a également témoigné qu’il n’avait pas vu le rapport d’évaluation lorsqu’ils ont entamé les négociations, mais qu’il en avait obtenu une copie avant l’achèvement de celles-ci. Il a souligné que pour lui et M. Nerland, la négociation d’un prix plus bas et la réduction des risques à l’avenir, en insistant notamment sur une stratégie de sortie grâce à la création d’une entreprise publique afin de développer le logiciel et de le faire évoluer, étaient au cœur des négociations. Il a témoigné que la stratégie de M. Nerland consistait à utiliser un billet à ordre, pour payer une partie du prix d’achat du logiciel et réduire les risques, et à conclure un contrat de coentreprise qui prévoyait une série de paiements afin de favoriser le rendement. M. Krumm a témoigné que, même s’il considérait que le billet à ordre était un engagement bona fide, il n’a pas versé les intérêts courus s’y rapportant. Il a témoigné avoir omis de les verser, car il n’avait pas reçu les paiements escomptés aux termes du contrat de coentreprise et que si elle souhaitait vraiment tenter d’obtenir les intérêts non versés, IAC pouvait le poursuivre. Finalement, le billet à ordre a été réglé par l’intermédiaire d’une convention d’achat-vente qui a donné lieu à une déduction des obligations à la charge d’IAC au profit de M. Krumm.
+[16] M. Krumm a témoigné que personne chez IAC ne lui a présenté des observations verbales concernant le fait que le logiciel était un bien de la catégorie 12 ou que, pour un achat en espèces de 700 000 $, un investisseur percevrait des déductions fiscales de 2,8 millions de dollars sur une période de deux ans, fondées sur le droit à réclamer un amortissement de 100 % du logiciel soumis à la règle de la demi-année.
+[17] M. Krumm a témoigné qu’il avait reçu la copie du rapport d’évaluation avant l’achat du logiciel, mais qu’il ignorait ce que l’avis fiscal au paragraphe 51 du rapport d’évaluation signifiait. Il a déclaré que le rapport d’évaluation ne jouait aucun rôle dans sa décision d’acquérir le logiciel ou dans ses négociations avec IAC. Je discuterai les diverses déclarations contenues dans le rapport d’évaluation ci-dessous.
+[18] M. Krumm a également témoigné qu’il n’y avait pas d’autres investisseurs dans le logiciel et qu’il ignorait ou n’a jamais été informé par quelque partie que ce soit que son investissement dans le logiciel pouvait constituer un abri fiscal.
+[19] M. Corbett est un homme d’affaires résidant à Calgary, en Alberta. M. Corbett a rejoint SAM en 1999 à titre d’administrateur, de président du conseil d’administration et de chef de la direction, afin de l’aider à commercialiser le logiciel axé sur l’entraînement sportif dans divers sports, notamment le tennis et le soccer. Il s’est acquitté de cette fonction après l’acquisition par SAM du logiciel de M. Krumm et d’IAC et il n’a été ni impliqué dans l’acquisition par M. Krumm du logiciel d’IAC ni dans celle par SAM du logiciel d’IAC et de M. Krumm. Il a témoigné que les autres administrateurs de SAM en 1999 étaient notamment M. Krumm, Dennis Nerland (l’avocat de M. Krumm), Nairn Nerland (le frère de Dennis Nerland), Jon Constable, Ben Dulley, Dale Christensen et William Warren. M. Corbett a signé, pour le compte de SAM, les formulaires de choix fiscal (T2057 et GST44) qui ont été déposés en même temps que la vente par M. Krumm de sa participation dans le logiciel à SAM le 29 octobre 1999. M. Corbett a également déclaré que, même si SAM était une entreprise viable qui a réussi à développer le logiciel et à nouer des liens avec des organisations commerciales et sportives, tant pour la création de contenu que pour la commercialisation du logiciel, elle a finalement échoué, car elle n’a pas été capable de mobiliser des capitaux supplémentaires en raison de l’éclatement de la bulle technologique qui est survenu vers l’an 2000.
+DROIT ET DISCUSSION
+[20] La loi et le règlement pertinents quant aux années d’imposition en cause dans les présents appels sont reproduits à l’annexe B ci-jointe. Le paragraphe 237.1(6) de la Loi, applicable à l’époque, disposait ce qui suit : [4]
+(6) Indication du numéro par l’acquéreur – Une personne ne peut demander ou déduire un montant au titre d’un abri fiscal que si elle présente au ministre un formulaire prescrit contenant les renseignements prescrits, incluant le numéro d’inscription attribué à l’abri fiscal.
+[21] Essentiellement, le paragraphe 237.1(6) dispose qu’une personne ne peut déduire un montant d’argent au titre de la Loi à l’égard d’un investissement dans un abri fiscal non inscrit. Il n'est pas controversé entre les parties que le ministre n’a pas délivré un numéro d’inscription d’abri fiscal relativement au logiciel; le paragraphe 237.1(6) [5] joue donc, de sorte que la totalité des DPA réclamées par M. Krumm, pour ses années d’imposition 1997 et 1998, sera refusée si son investissement dans le logiciel est jugé être un abri fiscal.
+[22] La définition de l’« abri fiscal » au paragraphe 237.1(1) a été modifiée par 1998, ch. 19, paragraphe 234(1), et le nouveau texte est entré en vigueur après novembre 1994. Ainsi, la définition de l’« abri fiscal » pertinente quant aux années d’imposition en cause est rédigée comme suit :
+« abri fiscal » Bien (y compris, pour plus de certitude, le droit à un revenu) pour lequel il est raisonnable de considérer, compte tenu de déclarations ou d’annonces faites ou envisagées relativement au bien, que, si une personne acquérait une part dans le bien, le montant visé à l’alinéa a) serait, à la fin d’une année d’imposition qui se termine dans les quatre ans suivant le jour où la part est acquise, égal ou supérieur au montant visé à l’alinéa b) :
+a) le total des montants représentant chacun :
+(i) un montant ou, dans le cas d’une participation dans une société de personnes, une perte qui est annoncée comme étant déductible dans le calcul du revenu au titre de la part (y compris, si le bien est un droit à un revenu, un montant ou une perte afférents à ce droit qui est annoncé comme étant déductible) et qui pourrait être engagé ou subie par la personne ou attribué à celle-ci pour l’année ou pour une année d’imposition antérieure,
+(ii) un autre montant qui est annoncé comme étant déductible dans le calcul du revenu ou du revenu imposable au titre de la part et qui pourrait être engagé par la personne ou attribué à celle-ci pour l’année ou pour une année d’imposition antérieure, à l’exclusion d’un montant inclus dans le calcul d’une perte visée au sous-alinéa (i);
+b) l’excédent éventuel du montant visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+(i) le coût de la part pour la personne à la fin de l’année, déterminé compte non tenu de l’article 143.2,
+(ii) la valeur totale des avantages visés par règlement que la personne ou toute personne avec laquelle elle a un lien de dépendance pourrait recevoir, directement ou indirectement, au titre de la part.
+Les actions accréditives et les biens visés par règlement ne sont pas considérés comme des abris fiscaux.
+[23] Il n'est pas controversé entre les parties que la portion mathématique de cette définition est satisfaite en l’espèce. La question en litige est plutôt de savoir si les déclarations et annonces figurant dans le rapport d’évaluation sont suffisantes pour faire jouer la définition d’abri fiscal dans les circonstances de l’espèce. L’intimée affirme qu’elles le sont. L’appelant soutient qu’elles ne le sont pas et déclare en outre que les règles encadrant les abris fiscaux ne sont pas censées viser les opérations privées effectuées entre deux parties, mais qu’elles doivent plutôt viser les placements commercialisés à un grand nombre d’investisseurs. À ce titre, l’appelant affirme que la définition de l’abri fiscal doit être interprétée dans cette perspective.
+[24] Les deux parties ont cité l’arrêt Canada c. Baxter, 2007 CAF 172 [6] . A l'occasion de cette affaire, le juge Ryer de la Cour d’appel fédérale a examiné l’application de l’article 237.1, dans le cadre d’un investissement par M. Baxter, un avocat, dans une licence pour utiliser le programme indiciel Trafalgar (Trafalgar Index Program), logiciel servant à négocier des contrats à terme. M. Baxter a payé 50 000 $ pour la licence, dont 17 500 $ ont été payés par chèque et 32 500 $ ont été payés au moyen d’un billet à ordre. M. Baxter a réclamé une DPA relativement à la licence, totalisant 50 000 $ pour ses années d’imposition 1998 et 1999. Ayant conclu que l’investissement de M. Baxter dans la licence de logiciel constituait un abri fiscal, le juge Ryer a produit l’analyse suivante de la loi sur ce point :
+Introduction
+5 Afin de faciliter la compréhension de mes motifs, je vais résumer mon interprétation de la définition d’abri fiscal qui s’applique aux années d’imposition en cause dans le présent appel. On trouvera au paragraphe 29 le texte intégral de l’alinéa 237.1(1)a).
+6 La définition d’abri fiscal soulève essentiellement une question relativement aux acquisitions hypothétiques ou présumées par un acquéreur hypothétique ou éventuel (acquéreur éventuel). Si on y répond affirmativement, le bien constituera un abri fiscal et un certain nombre de conséquences en découleront. Il faut répondre à cette question avant la vente même du bien.
+7 La question soulevée par la définition d’abri fiscal est relativement simple une fois qu’on l’a bien cernée. Mais la cerner n’est pas une mince affaire. Il faut d’abord trancher un certain nombre de questions préliminaires.
+8 La définition d’abri fiscal vise tout bien offert en vente à des acquéreurs éventuels. Cependant, tout bien qui est offert en vente ne constituera pas nécessairement un abri fiscal.
+9 La définition exige que des déclarations ou annonces soient faites à un moment donné relativement au bien offert en vente. En l’absence de ces déclarations ou annonces, le bien ne peut constituer un abri fiscal. Puisque le bien visé par la définition d’abri fiscal est un bien qui est présumé avoir été acquis par l’acquéreur éventuel et que des déclarations ou annonces doivent avoir été faites relativement à ce bien, les déclarations ou annonces doivent avoir été faites avant la conclusion de la vente. De plus, la définition ne précise pas qui doit faire les déclarations ou annonces ni à qui celles-ci doivent être faites, mais je suis d’avis qu’elles doivent être faites aux acquéreurs éventuels du bien par la personne qui propose de le vendre ou une personne agissant en son nom.
+10 L’objet des déclarations ou annonces est essentiellement d’indiquer le montant que l’acquéreur éventuel pourrait déduire dans le calcul du revenu au titre de ce bien par suite de son acquisition présumée, autrement dit si l’acquéreur éventuel acquiert effectivement le bien, que ce montant représente le coût d’acquisition du bien, les frais engagés en vue d’obtenir le bien (comme les coûts de forage engagés en vue d’obtenir une part dans un bien relatif au pétrole et au gaz dans une opération d’amodiation), ou un montant alloué au détenteur du bien (comme une perte attribuée à un associé détenant une participation dans une société de personnes).
+11 La définition d’abri fiscal ne précise pas la forme que doivent prendre les déclarations ou annonces, ni de quelle manière elles doivent être faites. Il est clair qu’il doit y avoir une communication aux acquéreurs éventuels, les informant que chacun d’eux pourrait avoir droit à une déduction par suite de l’acquisition du bien offert en vente. La définition n’indique nullement que cette communication doit être faite par écrit.
+12 La définition n’indique pas si la communication des déclarations et annonces doit avoir un but ou un effet en particulier. Il paraît évident qu’en faisant les déclarations ou annonces, directement ou par l’intermédiaire d’un représentant, le vendeur éventuel du bien chercherait à encourager ou à inciter les acquéreurs éventuels à devenir des acquéreurs réels. Cependant, puisqu’il faut répondre à la question soulevée par la définition avant la conclusion de la vente, il est impossible et sans pertinence de déterminer les effets des déclarations et annonces sur les acquéreurs éventuels.
+13 Enfin, la question soulevée par la définition d’abri fiscal exige qu’on détermine une période de temps qui se termine dans les quatre ans suivant la date à laquelle l’acquéreur éventuel est réputé avoir acquis le bien.
+14 Eu égard à ces éléments, la question soulevée par la définition d’abri fiscal est de savoir si, à la lumière des déclarations ou annonces communiquées à l’acquéreur éventuel, il est raisonnable de considérer, autrement dit de déterminer objectivement, qu’à la fin d’une année d’imposition quelconque de l’acquéreur éventuel se terminant dans la période de quatre ans, le montant qui a été annoncé ou communiqué à l’acquéreur éventuel comme étant déductible par suite de l’acquisition présumée est égal ou supérieur au coût de cette acquisition, déterminé à la fin de cette année d’imposition, moins le montant de tous les « avantages visés par règlement » que l’acquéreur éventuel pourrait recevoir, directement ou indirectement, au titre de ce bien. Ce calcul mathématique doit être fait au maximum quatre fois, à la fin de chaque année d’imposition de l’acquéreur éventuel dans cette période de quatre ans. Si, à un de ces moments, la réponse est affirmative, le bien constituera un abri fiscal. Si, par contre, elle est négative à chacun de ces quatre moments, le bien ne constituera pas un abri fiscal.
+[25] Le juge Ryer a ensuite recherché si les rapports remis à M. Baxter, lors de leurs négociations, contenaient les déclarations ou annonces requises pour appuyer la conclusion d’un abri fiscal :
+Les faits
+Commercialisation des licences PIT par le groupe Trafalgar
+[...]
+18 Afin de réaliser ses objectifs commerciaux, le groupe Trafalgar a demandé des avis à EMC Partners, American Appraisal Canada, Inc. et Fraser Milner. Ces avis ont porté sur plusieurs aspects des arrangements proposés pour la commercialisation des licences PIT. Plus précisément :
+a. dans une lettre datée du 8 octobre 1998 (« Évaluation »), EMC Partners a indiqué que la juste valeur marchande de la licence PIT de 10 000 $ était supérieure à 15 000 $ et que le programme indiciel Trafalgar constituait un bien de la catégorie 12 aux fins de la LIR et du Règlement de l’impôt sur le revenu (RIR), C.R.C., ch. 945;
+b. dans une lettre datée du 20 octobre 1998 (« Avis fiscal »), Fraser Milner a formulé l’avis que, sous réserve de certaines hypothèses qui ne sont pas en cause dans le présent appel, le contribuable canadien qui faisait l’acquisition d’une licence PIT pourrait déduire le coût total de cette licence en le répartissant sur deux années financières;
+c. dans une autre lettre datée du 20 octobre 1998, Fraser Milner a indiqué que la vente de licences PIT en vue d’utiliser le programme indiciel Trafalgar ne devrait pas nécessiter de prospectus en vertu de la législation ontarienne relative aux valeurs mobilières;
+d. dans une lettre datée du 20 novembre 1998 (« Évaluation »), American Appraisal Canada, Inc. a écrit qu’elle évaluait la juste valeur marchande d’une licence PIT de 10 000 $ à 11 700 $ et que chaque licence PIT était un logiciel aux fins de l’impôt au Canada, ce qui permettait au titulaire de licence de déduire son coût d’achat d’autres sources de revenus au cours d’une période de deux ans, conformément aux dispositions du RIR relatives à la catégorie 12.
+19 M. Allan Peters, représentant indépendant qui vendait des licences PIT pour le compte de TCL Trafalgar, a déclaré que le matériel de promotion préparé par TCL Trafalgar ou une personne agissant en son nom, ainsi que les évaluations et l’avis fiscal lui ont tous été remis par TCL Trafalgar ou une personne agissant en son nom pour qu’il s’en serve dans son travail de vente. M. Peters a aussi affirmé avoir remis ces documents à certains investisseurs éventuels qu’il a contactés, peut-être même à tous. Il a enfin témoigné avoir expliqué à ces investisseurs éventuels qu’ils pouvaient déduire le coût d’acquisition des licences PIT de leur revenu imposable.
+[...]
+L’achat de la licence par M. Baxter
+21 M. Baxter est un avocat dont la pratique consistait notamment à fournir des avis en matière d’impôt sur le revenu à des dirigeants de PME. Il a reçu une trousse de documentation concernant l’achat éventuel d’une licence PIT de M. Burton Langille, représentant commercial indépendant qui les vendait pour le compte de TCL Trafalgar. M. Baxter a examiné les détails de l’investissement de la licence avec M. Bradley Langille, qui était un vieil ami et le frère du représentant commercial. M. Baxter n’a pas examiné les évaluations, mais il a examiné l’avis fiscal.
+22 En évaluant la possibilité d’investissement, M. Baxter s’est fié au sens des affaires de son ami, M. Bradley Langille, qui avait apparemment passé en revue les aspects financiers de l’investissement. M. Baxter a témoigné qu’il ne comprenait pas le fonctionnement du logiciel, mais qu’il était impressionné par les projections financières favorables incluses dans le matériel de promotion. Il a déclaré qu’il savait que la licence PIT était un bien de la catégorie 12 et que son coût pouvait être déduit sur une période de deux ans. Le 31 décembre 1998, il a signé les trois documents (le contrat d’octroi de licence, le billet à ordre et le contrat de représentation, dont des copies ont été déposées devant la Cour) qui lui avaient été remis par le représentant commercial.
+[...]
+Analyse
+La question de l’abri fiscal
+[...]
+Quel est le « bien »?
+35 La CCI a conclu que, aux fins de la définition d’abri fiscal, le bien était la licence PIT réellement acquise par M. Baxter. L’intimé a appuyé cette conclusion, alors que le ministre a essentiellement fait valoir que le bien était l’ensemble des licences PIT offertes en vente par TCL Trafalgar. À mon avis, la position du ministre est correcte.
+36 Les mots « si une personne acquérait une part dans le bien » démontrent que la définition d’abri fiscal est prospective et que la personne en question est un acquéreur éventuel du bien. Cela signifie que la question de savoir si un bien constitue un abri fiscal doit être tranchée dans le contexte d’une vente présumée de ce bien à un acquéreur éventuel, et donc avant la conclusion de la vente. Cette conclusion est étayée par les paragraphes 237.1(2) et (4), qui rendent obligatoire l’acquisition d’un numéro d’inscription avant la vente d’un bien constituant un abri fiscal. Dans les circonstances de l’espèce, le terme « bien » vise les licences PIT que TCL Trafalgar proposait de vendre aux acquéreurs éventuels.
+Qu’est-ce qui constitue des « déclarations ou annonces »?
+37 Un bien ne peut pas constituer un abri fiscal si aucune déclaration ou annonce n’est faite concernant le montant qu’un acquéreur éventuel pourrait déduire du calcul de ses revenus par suite de l’acquisition présumée de ce bien. Par conséquent, l’existence de déclarations ou d’annonces relativement au bien est une condition nécessaire pour conclure qu’il constitue un abri fiscal.
+38 Les évaluations et l’avis fiscal ont été préparés avant les ventes projetées des licences PIT par TCL Trafalgar ou une personne agissant pour son compte et en prévision de ces ventes. Chacun de ces documents, et particulièrement l’avis fiscal, traitait des conséquences fiscales découlant de l’acquisition d’une licence PIT par un investisseur éventuel. De plus, l’avis fiscal indique expressément qu’il pouvait être montré aux acquéreurs éventuels des licences PIT. Je conclus sans difficulté que les déclarations contenues dans les évaluations et l’avis fiscal, selon lesquelles le coût d’acquisition des licences PIT était entièrement déductible pour les acquéreurs éventuels sur une période de deux ans, constituent des déclarations ou annonces du type requis par la définition d’abri fiscal. Par conséquent, j’estime que l’existence de déclarations ou d’annonces faites relativement aux licences PIT a été établie.
+39 Si TCL Trafalgar avait préparé et distribué un prospectus ou une notice d’offre qui contenait les explications de nature fiscale se trouvant dans les évaluations et dans l’avis fiscal, il est clair que l’exigence relative aux annonces de la définition d’abri fiscal aurait été satisfaite. Le fait que ces annonces se trouvaient dans des documents distincts, soit les évaluations et l’avis fiscal, qui accompagnaient la trousse de promotion remise aux acquéreurs éventuels des licences PIT, ne peut pas m’empêcher de conclure que l’exigence relative aux déclarations ou annonces dans la définition d’abri fiscal a été satisfaite.
+À qui et par qui les déclarations ou annonces doivent-elles être faites?
+40 La CCI a conclu que les déclarations ou annonces du type envisagé par la définition d’abri fiscal devaient avoir été faites à M. Baxter. L’intimé a appuyé cette conclusion, tandis que le ministre a essentiellement fait valoir que la définition d’abri fiscal n’exige pas que les déclarations ou annonces soient faites à une personne en particulier ou identifiable. À mon avis, ni l’une ni l’autre position n’est correcte.
+41 La première partie de la définition d’abri fiscal exige que les déclarations ou annonces soient faites relativement au bien. La définition ne précise toutefois ni l’identité de la personne qui doit faire les déclarations ou annonces ni celle de la personne à qui elles doivent être faites. On ne sait pas si cette apparente imprécision était délibérée. Ce qui est certain, c’est qu’un bien ne peut pas constituer un abri fiscal à moins que des déclarations ou annonces du type requis par la définition d’abri fiscal aient été faites à un moment quelconque relativement au bien.
+42 On pourrait avancer que l’interprétation de la définition d’abri fiscal soulève une autre incertitude parce que la partie initiale de la définition mentionne des déclarations ou annonces, mais l’alinéa a) de la définition fait référence qu’à un montant qui est annoncé comme étant déductible. Dans la décision Maya Inc. c. Canada., 2003 CCI 502, le juge Dussault a indiqué, au paragraphe 13, que le montant annoncé comme étant déductible aux fins de l’alinéa a) de la définition était le montant qui avait été « proposé » à l’acquéreur éventuel du bien. Je suis d’accord avec cette interprétation non technique du mot « annoncé » et je conclus que l’emploi de ce mot vise uniquement à transmettre l’idée qu’on a fait connaître aux acquéreurs du bien en cause le montant visé par les déclarations ou annonces mentionnées dans la partie initiale de la définition. Ainsi, on pourrait également employer les mots [traduction] « communiqué » ou « dévoilé » pour expliquer ce que signifie le mot « annoncé » (en anglais represented) utilisé à l’alinéa a) de la définition d’abri fiscal. En effet, le sens de l’un ou l’autre de ces deux mots paraît de façon générale être compatible avec celui du mot « annoncé » utilisé dans la version française de l’alinéa a) de la définition
+43 Il ressort clairement de la première partie de la définition d’« abri fiscal » que les déclarations ou annonces doivent être faites en lien avec l’acquisition présumée du bien par l’acquéreur éventuel. L’alinéa a) de la définition fait référence à un montant annoncé comme étant déductible relativement au bien et qui pourrait être engagé par l’acquéreur éventuel. Par conséquent, je conclus que les déclarations ou annonces doivent être faites à l’acquéreur éventuel du bien.
+44 Bien que ni les parties à l’appel ni la CCI dans sa décision ne se soient pas beaucoup attardées à la question de l’identité de la personne qui doit avoir fait les déclarations ou annonces, il serait raisonnable à mon avis de conclure que ce doit être chaque personne qui est un promoteur au sens du paragraphe 237.1(1) (promoteur).
+45 L’avis fiscal et les évaluations contenaient des explications de nature fiscale qui constituaient des déclarations ou annonces du type requis par la définition d’abri fiscal. Ces documents ont été fournis par TCL Trafalgar ou une personne agissant en son nom aux représentants commerciaux indépendants pour qu’ils s’en servent pour vendre les licences PIT à des acquéreurs éventuels, et ceux-ci s’en sont effectivement servis à cette fin. Tous les représentants commerciaux, de TCL Trafalgar ou indépendants, étaient des promoteurs. Il est donc clair que les déclarations ou annonces en cause ont été faites, c’est-à-dire qu’un promoteur ou une personne agissant pour son compte les a fait connaître ou les a communiquées ou dévoilées à des acquéreurs éventuels de licences PIT. Par conséquent, l’exigence relative à la communication des déclarations ou annonces de la définition d’abri fiscal a été satisfaite.
+[…]
+Pour qui doit-il être « raisonnable de considérer »?
+53 L’intimé a soutenu que la définition d’abri fiscal applicable aux années d’imposition en cause posait un autre problème en ce qu’elle ne fournissait aucune indication à la Cour sur la manière de traiter l’exigence relative au caractère raisonnable. Il a laissé entendre que cette exigence pourrait s’appliquer eu égard aux [traduction] « connaissances et de l’expertise en matière fiscale » de la personne à laquelle les déclarations ou annonces ont été faites.
+54 Comme j’ai conclu que la personne visée par la définition d’abri fiscal est un acquéreur éventuel du bien, il n’est pas possible de tenir compte des connaissances subjectives que cette personne pourrait avoir.
+55 L’intimé a aussi soulevé la question de savoir s’il pouvait être raisonnable de considérer que les déclarations ou annonces qui ont été faites permettaient d’inférer ou de conclure que l’exigence mathématique de la définition d’abri fiscal avait été satisfaite. À cet égard, l’intimé a posé la question de savoir s’il pouvait être raisonnable d’accepter les déclarations ou annonces verbales ou écrites de représentants commerciaux à cet effet. Il a plutôt fait valoir qu’il serait plus raisonnable de se fier à l’avis fiscal, qui, selon lui, aurait dû mener à la conclusion que les licences PIT ne constituaient pas des abris fiscaux parce que la dépense payée d’avance de la redevance d’utilisation (déductible sur une période de dix ans) faisait en sorte que l’exigence mathématique de la définition d’abri fiscal n’était pas satisfaite.
+56 Cet argument équivaut à toute fin pratique à une concession de la part de l’intimé que l’avis fiscal satisfait à l’exigence relative aux annonces contenue dans la définition d’abri fiscal. Pour les motifs donnés précédemment, j’ai conclu que l’argument des charges payées d’avance ne peut être accueilli pour montrer que l’exigence mathématique de la définition n’a pas été satisfaite. En fait, concernant à la question de savoir si les licences PIT offertes en vente aux investisseurs éventuels constituaient des abris fiscaux, l’avis fiscal n’énonce même pas cet argument. Le document conclut plutôt que c’est en raison de l’absence présumée d’annonces aux investisseurs éventuels que les licences PIT ne sont pas des abris fiscaux.
+57 Il est incongru de prétendre que même si l’avis fiscal informait les acquéreurs éventuels de licences PIT que le coût total d’acquisition de ces licences devrait être déductible sur deux années d’imposition, cet avis ne constituait pas une déclaration ou annonce faite aux acquéreurs éventuels satisfaisant à l’exigence mathématique de la définition d’abri fiscal. Il s’ensuit, à mon avis, qu’il est raisonnable de considérer que la déclaration contenue dans l’avis fiscal, selon laquelle le coût d’acquisition des licences PIT serait déductible sur une période de deux ans pour les investisseurs éventuels, a permis de conclure que l’exigence mathématique de la définition d’abri fiscal aurait été satisfaite pour ce qui est des achats éventuels de licences PIT par des acquéreurs éventuels.
+Conclusion
+58 Dans les circonstances de l’espèce, TCL Trafalgar, par l’intermédiaire de ses employés ou représentants, a entrepris une campagne bien orchestrée en vue de vendre des licences PIT au public. Un argument de vente important avait trait aux intéressantes déductions fiscales auxquelles pouvaient avoir droit les acheteurs des licences. L’avis fiscal et les évaluations ont été demandés et obtenus pour fournir une confirmation indépendante que le coût d’acquisition des licences PIT serait entièrement déductible pour les acquéreurs éventuels sur une période de deux ans. TCL Trafalgar ou des personnes agissant en son nom ont fourni ces documents aux représentants commerciaux indépendants pour qu’ils s’en servent comme outil de marketing dans leur travail de vente. Dans certains cas, l’avis fiscal et les évaluations ont été remis aux acquéreurs éventuels, leur communiquant ou leur annonçant ainsi que s’ils achetaient une licence PIT, le coût d’acquisition de cette licence serait entièrement déductible sur une période de deux ans. Par conséquent, je suis d’avis que toutes les exigences de la définition d’abri fiscal ont été satisfaites, que toutes les licences PIT vendues par TCL Trafalgar ou des personnes agissant pour son compte, y compris celle acquise par M. Baxter, étaient des abris fiscaux, et qu’un numéro d’inscription d’abri fiscal aurait dû être obtenu avant leur vente.
+[26] En l’espèce, le « bien » est le logiciel appartenant à IAC que cette dernière a proposé de vendre à des investisseurs et qu’elle a finalement vendu à M. Krumm.
+[27] Relativement aux déclarations ou annonces, je relève qu’IAC a demandé à EMC Partners de lui remettre un rapport d’évaluation concernant le logiciel afin d’en déterminer la valeur, en prévision de la vente d’une participation dans celui-ci à des investisseurs éventuels. Le rapport, daté du 25 juin 1997, indique ce qui suit :
+[traduction]
+1. Vous nous avez demandé de donner notre avis quant à la juste valeur marchande, au 25 juin 1997, d’une participation à 100 % dans un système informatique interactif de recherche de talents, d’analyse et gestion d’Intersports (le programme informatique), un programme logiciel d’application qui aide les entraîneurs sportifs dans la recherche de talents, l’analyse et la gestion d’équipes et d’athlètes.
+[…]
+4. Nous croyons comprendre que vous avez demandé ce rapport afin de déterminer la valeur du programme informatique, en prévision de la vente d’une participation dans celui-ci à des investisseurs. Cependant, lors de la détermination de la valeur du programme informatique, nous n’avons pas pris en considération les modalités et conditions de la vente proposée et le financement correspondant, sauf dans la mesure où ils pourraient s’appliquer à la définition du programme informatique et à celle des divers flux de rentrées de l’entreprise et pour donner une garantie que l’affectation des marges brutes entre l’investisseur et l’entreprise est raisonnable et durable.
+[…]
+6. D’après les renseignements fournis et les documents passés en revue, et sous réserve des restrictions et hypothèses mentionnées dans les présentes, nous sommes d’avis que la juste valeur marchande du programme informatique, au 25 juin 1997, est d’au moins 11,2 millions de dollars (montant arrondi).
+7. Nous sommes aussi d’avis que le programme informatique est un logiciel d’application et qu’il est prêt à être utilisé, au sens de la définition de la Loi de l’impôt sur le revenu.
+[…]
+24. Le programme informatique est exploitable commercialement et, conformément à l’accord d’acquisition du logiciel, il est désormais distribué aux utilisateurs finaux, sous la direction générale et le contrôle global d’Intersports Acceleration Corp.
+[…]
+34. Intersports Acceleration Corp. et l’investisseur signeront un accord d’acquisition qui porte sur les redevances, les cibles publicitaires et le rendement concernant les ventes, et les recettes qui devront être versées à l’investisseur, et qui régira les modalités et conditions liées à l’acquisition du programme informatique.
+35. Nous sommes d’avis qu’une partie de l’accord d’acquisition proposé représente l’acquisition d’un logiciel au sens habituellement donné à cet accord, dans l’industrie des services informatiques, et qu’elle contient les dispositions ordinaires figurant dans de tels contrats. En outre, compte tenu des modalités et conditions précitées, nous avons conclu que les obligations de versement figurant dans le contrat relatif au logiciel, et auxquelles Intersports Acceleration Corp. était soumise, à l’égard de l’investisseur, étaient raisonnables et prudentes.
+36. La valeur des programmes informatiques est fondée, en partie, sur les modalités du contrat relatif au logiciel, qui sont notamment les suivantes :
+a) la vente, à perpétuité, d’une partie de l’ensemble des droits, titres et intérêts relatifs au programme informatique, y compris le code source et toutes les améliorations, modifications, ainsi que tous les produits dérivés y afférents;
+b) l’obligation pour Intersports Acceleration Corp., en tant que concepteur, promoteur et distributeur du programme informatique et de ses services et produits de soutien, de fournir tout le matériel nécessaire, d’assurer le développement, le soutien et de fournir les documents requis pour commercialiser, vendre et entretenir efficacement et avec succès le programme informatique;
+c) l’obligation pour Intersports Acceleration Corp. de verser les recettes de ventes prévues (conformément aux modalités énoncées dans le contrat) à l’investisseur dans les programmes informatiques.
+[…]
+48. Selon les modalités du contrat relatif au logiciel, l’investisseur a droit à un pourcentage fixe de chaque marge brute découlant du créneau sur le marché de l’entreprise, à savoir les produits et services de soutien à l’entraînement, ainsi qu’à un pourcentage fixe des profits des ventes des programmes informatiques.
+[…]
+49. Pour conclure notre avis quant à la valeur, nous avons supposé, en plus des hypothèses mentionnées ailleurs dans les présentes, ce qui suit :
+[…]
+g) les lois fédérales et provinciales de l’impôt sur le revenu qui étaient en vigueur à la date d’évaluation continueront de l’être dans un avenir proche (y compris les modifications proposées à la Loi de l’impôt sur le revenu qui ont été annoncées par le ministre des Finances le 1er décembre 1994);
+[…]
+51. Nous sommes d’avis que chacun des modules de ce programme informatique est un logiciel d’application et que chacun d’entre eux est considéré comme un bien de la catégorie 12 en application de la Loi de l’impôt sur le revenu et de son règlement. Les investissements futurs dans le programme informatique en utilisant les dispositions de cet article de la Loi pourraient être quelque peu compromis par les modalités et conditions de cette vente/acquisition.
+52. Nous sommes d’avis que chacun des modules de ce programme informatique est accessible sur le marché pour une utilisation en application de la Loi de l’impôt sur le revenu et de son règlement.
+53. Nous sommes d’avis, d’après les restrictions et hypothèses mentionnées dans les présentes, que la juste valeur marchande des flux de rentrées et du programme informatique, au 25 juin 1997, est d’au moins 11,2 millions de dollars.
+[…]
+[28] À mon avis, il est évident que le rapport d’évaluation contient des déclarations ou annonces qui ont été faites ou proposées relativement à la vente proposée par IAC d’une participation dans le logiciel à des investisseurs. Il est également évident que M. Krumm a reçu la copie du rapport d’évaluation de la part d’IAC pendant les négociations qui ont précédé son achat d’une participation dans le logiciel. En l’espèce, M. Krumm a reconnu avoir reçu le rapport d’évaluation. Il est donc évident qu’il a reçu les déclarations ou annonces figurant dans le rapport d’évaluation.
+[29] Bien que M. Krumm ait témoigné qu’il ne comprenait pas les annonces de nature fiscale figurant dans le rapport d’évaluation ou qu’il ne s’y fiait pas, je remarque que le juge Ryer a conclu, dans l’arrêt Baxter, au paragraphe 54, que les connaissances subjectives de l’acheteur ne sont pas pertinentes, car le critère doit être appliqué à l’égard de l’acquéreur éventuel avant la conclusion de la vente.
+[30] En l’espèce, le rapport d’évaluation précisait que le logiciel était un bien de la catégorie 12 et qu’il était prêt à être utilisé. En revanche, il ne précisait pas explicitement que l’acheteur pouvait déduire le coût d’achat du logiciel aux fins de l’impôt. À cet égard, je relève que les conclusions tirées dans le rapport d’évaluation étaient comparables à celles exposées dans l’évaluation d’EMC Partners, à l’alinéa 18a) de l’arrêt Baxter. Je remarque aussi que le juge Ryer a conclu, au paragraphe 45 de l’arrêt Baxter, que les évaluations dans cette affaire, qui comprenaient l’évaluation d’EMC Partners comparable au rapport d’évaluation en l’espèce, « contenaient des explications de nature fiscale qui constituaient des déclarations ou annonces du type requis par la définition d’abri fiscal ». De même, je conclus que le rapport d’évaluation fournit des explications suffisantes. Je suis d’avis que les avis et annonces de nature fiscale figurant dans le rapport d’évaluation étaient destinés à informer l'acquéreur éventuel quant au traitement fiscal auquel il pouvait s’attendre s’il achetait un logiciel. Je suis aussi d’avis que les annonces étaient suffisamment détaillées pour raisonnablement considérer que l’acquéreur éventuel pouvait déduire la totalité du coût d’achat du logiciel sur une période de deux ans.
+[31] En fournissant des copies du rapport d’évaluation à M. Krumm, IAC et ses mandataires pouvaient chacun être considérés comme des « promoteurs » d’abris fiscaux, au sens du paragraphe 237.1(1) de la Loi. Par conséquent, l’exigence relative à la communication des déclarations ou annonces de la définition d’abri fiscal a été satisfaite.
+[32] M. Krumm a également soutenu que les règles encadrant les abris fiscaux ne sont censées viser que les abris fiscaux commercialisés publiquement, et non les opérations privées effectuées entre deux parties, comme il a allégué que cela était le cas en l’espèce. A l'appui de cette affirmation, il cite un communiqué de presse du ministère des Finances qui annonce les modifications antérieures apportées aux abris fiscaux [7] et l’interprétation technique 5-9372 de l’Agence du revenu du Canada (l’Agence). [8] Cependant, il est évident qu’aucun de ces documents n’est de nature légale et qu’ils ne lient pas notre Cour. En outre, je suis d’avis que l’affaire qui nous occupe correspond aux descriptions indiquées dans les présentes. Le rapport d’évaluation qu’IAC a obtenu et remis à M. Krumm contenait des déclarations qui visaient à recruter des investisseurs potentiels, dont M. Krumm, afin qu’ils achètent le logiciel en raison de ses caractéristiques fiscales.
+[33] Dans l’ensemble, je suis d’avis que toutes les exigences relatives à l'abri fiscal ont été satisfaites dans les circonstances de l’espèce. IAC a obtenu et remis le rapport d’évaluation à M. Krumm, et ce rapport contenait des déclarations et annonces précises concernant le statut fiscal du logiciel qui permettait à l'acquéreur éventuel de savoir qu’il pouvait déduire le coût total du logiciel, aux fins de DPA, sur une période de deux ans.
+CONCLUSION
+[34] Compte tenu de tout ce qui précède, les appels de M. Krumm sont rejetés.
+DÉPENS
+[35] Les dépens sont adjugés à l’intimée. Les parties disposent d’un délai de 30 jours suivant la date du présent jugement pour parvenir à un accord sur les dépens, faute de quoi l’intimée disposera alors d’un délai de 30 jours pour déposer ses observations écrites sur les dépens, après quoi l’appelant disposera d’un délai supplémentaire de 30 jours pour déposer sa réponse par écrit. Ces observations ne doivent pas dépasser dix pages. Si les parties n’informent pas la Cour qu’elles sont parvenues à un accord, et en l’absence de dépôt d’observations, les dépens seront adjugés à l’intimée selon ce que prévoit le tarif.
+Signé à Ottawa, Canada, ce 17e jour de janvier 2020.
+« Henry A. Visser »
+Le juge Visser
+Traduction certifiée conforme
+ce 24e jour de février 2020.
+François Brunet, réviseur
+ANNEXE A
+Exposé conjoint des faits (partiel)
+FAITS MATERIELS
+A. Contexte
+1. L’appelant, James Krumm (M. Krumm), est une personne résidant au Canada.
+2. En 1978 ou vers urs de cette période, M. Krumm a obtenu un baccalauréat ès sciences de l’Université du Manitoba.
+3. Pendant toute la période pertinente :
+a) M. Krumm résidait au Canada.
+b) M. Krumm exerçait les fonctions d’agent foncier.
+c) M. Krumm était au service de Heritage Freehold Specialists & Co. Ltd. (Heritage).
+d) Heritage appartenait à la société de portefeuille de M. Krumm, Lancaster Resources Ltd. (Lancaster).
+e) Vladimir Morgun (M. Morgun) exerçait les fonctions de vendeur d’assurance au service de Prudential Trust.
+f) Intersports Acceleration Corp, (IAC) a été constituée en société le 30 octobre 1996 et était une société privée sous contrôle canadien.
+g) EMC Partners était une société d’évaluation située à Toronto, en Ontario (EMC Partners).
+B. Logiciel
+Le logiciel
+4. IAC possédait un programme logiciel d’application (le logiciel).
+5. Le logiciel comprenait trois produits :
+a) un logiciel interactif pour la recherche de talents, l’analyse et la gestion de tous les sports;
+b) un programme d’entraînement de soccer destiné aux jeunes et conforme à la norme d’excellence européenne;
+c) un programme d’entraînement de soccer du Bayern Munich destiné aux jeunes.
+Acquisition du logiciel
+En 1997 ou aux alentours de cette période, M. Morgun a présenté IAC à M. Krumm.
+Le 1er août 1997, M. Krumm a fait l’acquisition d’une participation de 50 % dans le logiciel d’IAC.
+Dennis Nerland, du cabinet Shea Nerland Calnan LLP, a aidé M. Krumm à faire l’acquisition d’une participation de 50 % dans le logiciel.
+Avant l’acquisition par M. Krumm du logiciel, IAC détenait 100 % du logiciel.
+M. Krumm et IAC ont signé une convention pour l’achat et la vente d’une participation de 50 % dans le logiciel le 1er août 1997 ou aux alentours de cette période (la convention d’achat de biens).
+M. Krumm a convenu d’effectuer un premier versement en espèces de 700 000 $ et d’émettre un billet à ordre de 2,1 millions de dollars payables à IAC (le billet à ordre).
+Un taux d’intérêt annuel de 4 %, composé annuellement, s’appliquait au billet à ordre.
+M. Krumm et IAC ont également conclu un contrat pour le développement, le soutien, la commercialisation, la distribution et l’entretien du logiciel le 1er août 1997 ou aux alentours de cette période (le contrat de coentreprise).
+M. Krumm a désigné IAC et l’a autorisée à exercer la fonction de représentante ou de mandataire exclusive dans le monde.
+M. Krumm et IAC ont convenu que M. Krumm n’exercerait aucun droit quant au développement, au soutien, à la commercialisation, à la distribution ou à l’entretien du logiciel.
+M. Krumm et IAC ont convenu qu’IAC verserait à M. Krumm un pourcentage des ventes nettes dans les 30 jours suivant la fin de chaque mois (la distribution) comme suit :
+a) 35 % des ventes nettes entre le 1er août 1997 et le 31 juillet 1998;
+b) 25 % des ventes nettes entre le 1er août 1998 et le 31 juillet 1999;
+c) 15 % des ventes nettes entre le 1er août 1999 et le 31 juillet 2000;
+d) 3 % par la suite.
+Il a été annoncé à M. Krumm que la distribution totaliserait au moins 200 % du montant total du principal et que tous les intérêts exigibles seraient versés, conformément au billet à ordre (le montant d’argent annoncé).
+M. Krumm et IAC ont convenu que M. Krumm aurait droit à des dommages-intérêts de la part d’IAC si M. Krumm ne recevait pas le montant d’argent annoncé. Le montant des dommages-intérêts serait égal au montant d’argent annoncé.
+M. Krumm et IAC ont convenu que 30 % des distributions versées à M. Krumm seraient versés par M. Krumm à IAC comme paiement anticipé du principal payable sur le billet à ordre.
+M. Krumm et IAC ont convenu qu’à partir du montant de la distribution, M. Krumm verserait d’abord des intérêts à IAC, puis qu’il effectuerait un paiement au titre du principal du billet à ordre jusqu’à son échéance.
+La durée initiale du contrat de coentreprise était de 10 ans et était renouvelable pour des durées successives de cinq ans, après la diffusion d’un avis par IAC.
+Rapport d’évaluation
+IAC a fait appel à EMC Partners.
+EMC Partners a préparé un rapport d’évaluation (le rapport d’évaluation).
+Achat du logiciel et étapes subséquentes
+M. Krumm a remis un chèque de 700 000 $ daté du 31 juillet 1997 et à verser sur le compte en fiducie de Shea Norland Calnan.
+Le 4 avril 1998, M. Krumm a souscrit pour 550 000 actions ordinaires de catégorie A d’IAC d’une valeur de 200 000 $.
+Le 20 août 1998, IAC a transféré la participation de 50 % restante dans le logiciel à Intersports Limited Partnership (ILP).
+a) IAC était l’associée principale d’ILP.
+Le 20 août 1998, ILP a vendu sa participation dans le logiciel à Intersports Software Development Corporation (ISDC).
+Le 30 septembre 1998, ISDC a acquis SAMsports.com Inc. (SAM) dans le cadre d’une prise de contrôle inversée.
+Le 30 avril 1999, ISDC et SAM ont fusionné et poursuivi leurs activités sous le nom de Samsports.
+Le 29 octobre 1999, M. Krumm a vendu sa participation dans le logiciel à SAM.
+SAM a accepté de verser une redevance à M. Krumm sur les ventes nettes du logiciel, comme suit :
+a) 35 % jusqu’à ce que M. Krumm ait reçu 460 950 $;
+b) 25 % jusqu’à ce que M. Krumm ait reçu la somme supplémentaire de 2 403 625 $;
+c) 15 % jusqu’à ce que M. Krumm ait reçu la somme supplémentaire de 2 607 300 $;
+d) 3 % par la suite.
+Le 19 novembre 1999, SAM a conclu une convention d’option offrant à SAM la possibilité de mettre fin aux paiements de redevances prévus par l’accord de Samsports.
+Le 22 juillet 2000, M. Krumm a conclu une convention d’achat-vente avec IAC (la convention d’achat-vente).
+Aux termes de la convention d’achat-vente, M. Krumm a obtenu le droit d’exiger qu’IAC achète ses actions ou sa participation dans les paiements de redevances prévus par l’accord de Samsports Agreement, pour un montant de 2,7 millions de dollars, ou d’annuler le billet à ordre si le cours des actions de M. Krumm détenues dans SAM, le 1er décembre 2004, était inférieur à 2,7 millions de dollars.
+SAM a été mise en liquidation et a cessé ses activités au début de l’année 2001 et, le 31 janvier 2001, elle a subi la disposition ordonnée de ses actifs.
+Le 3 avril 2003, IAC a été dissoute involontairement.
+Le revenu tiré de la participation de M. Krumm dans le logiciel, sans les déductions à titre de déduction pour amortissement, était nul pour les années 1997 et 1998.
+Le ministre du Revenu national n’a pas délivré un numéro d’inscription d’abri fiscal relativement à une partie quelconque de la vente du logiciel ou à tous les droits qui ont été obtenus en ce qui a trait au logiciel, notamment ceux mentionnés dans la convention d’achat de biens, le contrat de coentreprise et le billet à ordre.
+C. Procédure d’appel en matière d’impôt
+Dans ses déclarations de revenus pour 1997 et 1998, M. Krumm a déduit les sommes suivantes relatives au logiciel :
+1997
+1998
+Déduction pour amortissement (DPA) relativement au logiciel de la catégorie 12
+1 400 000 $
+1 400 000 $
+Frais financiers et frais d’intérêts
+10 849 $
+76 904 $
+Le ministre a initialement établi la cotisation de M. Krumm pour les années d’imposition 1997 et 1998 par la voie d’avis datés du 28 mai 1998 et du 20 août 1999, respectivement.
+Dans des avis de nouvelles cotisations datés du 30 mars 2000, le ministre a établi une nouvelle cotisation concernant l’impôt de M. Krumm, pour les années d’imposition 1997 et 1998, en rejetant les pertes d’entreprise de 1997 et 1998 et les frais d’intérêts relatifs au logiciel.
+M. Krumm a déposé un avis d’opposition à ces nouvelles cotisations le 23 juin 2000.
+Le ministre a établi une nouvelle cotisation à l’égard de M. Krumm, pour les années d’imposition 1997 et 1998, dans un avis daté du 16 octobre 2001, pour appliquer des reports rétrospectifs de perte qui ne sont pas liés aux questions soulevées dans le présent appel.
+M. Krumm a déposé un avis d’opposition le 19 décembre 2001.
+Aux termes d’une entente entre les parties, l’opposition de M. Krumm a été suspendue en attendant l’issue d’un autre appel interjeté devant la Cour canadienne de l’impôt, l’affaire Brown c. La Reine, 2001 CanLII 788.
+Le ministre a confirmé la nouvelle cotisation dans un avis daté du 23 septembre 2015.
+M. Krumm a déposé un avis d’opposition le 17 décembre 2015.
+Annexe B
+Texte législatif
+Les renvois à des dispositions légales dans la présente annexe concernent les dispositions de la Loi de l’impôt sur le revenu ou du Règlement de l’impôt sur le revenu qui étaient en vigueur durant les années d’imposition 1997 et 1998.
+237.1 (1) Définitions – Les définitions qui suivent s’appliquent au présent article.
+« personne » Comprend une société de personnes.
+« promoteur » Personne qui, quant à un abri fiscal et dans le cours des activités d’une entreprise :
+a) émet ou vend l’abri fiscal ou fait la promotion de son émission, de sa vente ou de son acquisition;
+b) agit, à titre de mandataire ou de conseiller, en ce qui concerne l’émission ou la vente de l’abri fiscal ou la promotion de son émission, de sa vente ou de son acquisition;
+c) accepte, à titre de principal ou de mandataire, une contrepartie relativement à l’abri fiscal.
+Au même abri fiscal peuvent correspondre plus d’un promoteur d’abris fiscaux.
+« abri fiscal » Bien (y compris, pour plus de certitude, le droit à un revenu) pour lequel il est raisonnable de considérer, compte tenu de déclarations ou d’annonces faites ou envisagées relativement au bien que, si une personne acquérait une part dans le bien, le montant visé à l’alinéa a) serait, à la fin d’une année d’imposition qui se termine dans les quatre ans suivant le jour où la part est acquise, égal ou supérieur au montant visé à l’alinéa b) :
+a) le total des montants représentant chacun :
+(i) un montant ou, dans le cas d’une participation dans une société de personnes, une perte qui est annoncé comme étant déductible dans le calcul du revenu au titre de la part (y compris, si le bien est un droit à un revenu, un montant ou une perte afférent à ce droit qui est annoncé comme étant déductible) et qui pourrait être engagé ou subie par la personne ou attribué à celle-ci pour l’année ou pour une année d’imposition antérieure;
+(ii) un autre montant qui est annoncé comme étant déductible dans le calcul du revenu ou du revenu imposable au titre de la part et qui pourrait être engagé par la personne ou attribué à celle-ci pour l’année ou pour une année d’imposition antérieure, à l’exclusion d’un montant inclus dans le calcul d’une perte visée au sous-alinéa (i);
+b) l’excédent éventuel du montant visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+(i) le coût de la part pour la personne à la fin de l’année, déterminé compte non tenu de l’article 143.2,
+(ii) la valeur totale des avantages visés par règlement que la personne ou toute personne avec laquelle elle a un lien de dépendance pourrait recevoir, directement ou indirectement, au titre de la part.
+Les actions accréditives et les biens visés par règlement ne sont pas considérés comme des abris fiscaux.
+(2) Demande de numéro d’inscription – Tout promoteur doit, quant à un abri fiscal, demander au ministre, sur le formulaire prescrit contenant les renseignements prescrits, d’attribuer un numéro d’inscription à cet abri fiscal, sauf si demande en a déjà été faite.
+(3) Renseignements à fournir – Sur demande faite en application du paragraphe (2), à laquelle doit être joint un engagement, que le ministre juge acceptable, selon lequel les livres et registres concernant un abri fiscal seront gardés et tenus en un lieu, au Canada, que le ministre juge aussi acceptable, celui-ci doit attribuer un numéro d’inscription à l’abri fiscal.
+(4) Interdiction – Nul ne peut, que ce soit à titre de principal ou de mandataire, émettre ou vendre un abri fiscal, ou accepter une contrepartie relativement à un abri fiscal, avant que le ministre n’ait attribué à cet abri fiscal un numéro d’inscription.
+(5) Indication du numéro par le promoteur à l’acquéreur – Tout promoteur d’un abri fiscal doit :
+a) s’appliquer raisonnablement à ce que les personnes qui acquièrent l’abri fiscal ou y font autrement un placement soient informées de son numéro d’inscription attribué par le ministre;
+b) indiquer clairement le numéro d’inscription de l’abri fiscal dans le coin supérieur droit de tout état des revenus préparé par lui, ou pour son compte, relativement à l’abri fiscal;
+c) indiquer clairement le texte suivant dans toute déclaration écrite, établie après 1995, où il fait mention, directement ou indirectement, expressément ou non, de l’attribution par le ministère du Revenu national d’un numéro d’inscription à l’abri fiscal, ainsi que sur les copies de la partie de la déclaration de renseignements à remettre conformément au paragraphe (7.3) :
+(i) si tout ou partie de la déclaration écrite ou de la déclaration de renseignements est en anglais :
+"The identification number issued for this tax shelter shall be included in any income tax return filed by the investor. Issuance of the identification number is for administrative purposes only and does not in any way confirm the entitlement of an investor to claim any tax benefits associated with the tax shelter."
+(ii) si tout ou partie de la déclaration écrite ou de la déclaration de renseignements est établie en français :
+"Le numéro d'inscription attribué â cet abri fiscal doit figurer dans toute déclaration d'impôt sur le revenu produite par l'investisseur. L'attribution de ce numéro n'est qu'une formalité administrative et ne confirme aucunement le droit de l'investisseur aux avantages fiscaux découlant de cet abri fiscal."
+(iii) si la déclaration écrite n’est ni en français, ni en anglais :
+"The identification number issued for this tax shelter shall be included in any income tax return filed by the investor. Issuance of the identification number is for administrative purposes only and does not in any way confirm the entitlement of an investor to claim any tax benefits associated with the tax shelter."
+"Le numéro d'inscription attribué à cet abri fiscal doit figurer dans toute déclaration d'impôt sur le revenu produite par l'investisseur. L'attribution de ce numéro n'est qu'une formalité administrative et ne confirme aucunement le droit de l'investisseur aux avantages fiscaux découlant de cet abri fiscal."
+(6) Indication du numéro par l’acquéreur – Une personne ne peut demander ou déduire un montant au titre d’un abri fiscal que si elle présente au ministre un formulaire prescrit contenant les renseignements prescrits, incluant le numéro d’inscription attribué à l’abri fiscal.
+(6.1) Déduction refusée en cas de pénalité – Une personne ne peut demander ou déduire un montant pour une année d’imposition au titre de son abri fiscal si une personne est passible de la pénalité prévue aux paragraphes (7.4) ou 162(9) relativement à l’abri fiscal, ou est redevable d’intérêts sur cette pénalité, et si :
+a) la pénalité ou les intérêts n’ont pas été payés;
+b) la pénalité et les intérêts ont été payés mais un montant au titre de la pénalité ou des intérêts a été remboursé aux termes du paragraphe 164(1.1) ou imputé selon le paragraphe 164(2).
+(6.2) Cotisations – Malgré les paragraphes 152(4) à (5), le ministre peut établir les cotisations voulues et déterminer ou déterminer de nouveau les montants voulus pour l’application du paragraphe (6.1).
+(7) Déclaration de renseignements – Le promoteur d’un abri fiscal qui, au cours d’une année civile et relativement à l’abri fiscal, accepte une contrepartie ou agit à titre de principal ou de mandataire doit, sauf si une déclaration de renseignements a déjà été produite relativement à l’abri fiscal, produire, selon les modalités réglementaires, une déclaration de renseignements pour l’année sur le formulaire prescrit où figurent :
+a) les nom, adresse et numéro d’assurance sociale, numéro d’entreprise ou numéro de compte en fiducie des personnes qui acquièrent l’abri fiscal ou qui y font autrement un placement au cours de l’année;
+b) le montant payé par chacune des personnes visées au sous-alinéa (i) relativement à l’abri fiscal;
+c) tout autre renseignement requis dans le formulaire.
+(7.1) Délai de production – La déclaration de renseignements à produire en application du paragraphe (7) relativement à l’acquisition d’une part dans un abri fiscal au cours d’une année civile doit être présentée au ministre au plus tard le dernier jour de février de l’année civile suivante.
+(7.2) Délai de production – cas spéciaux – Malgré le paragraphe (7.1), la personne tenue de produire une déclaration de renseignements en application du paragraphe (7) relativement à une entreprise ou une activité et qui cesse d’exploiter l’entreprise ou d’exercer l’activité doit produire cette déclaration au plus tard au premier en date des jours suivants :
+a) le jour visé au paragraphe (7.1);
+b) le jour qui suit de 30 jours la cessation.
+(7.3) Copies à remettre – La personne tenue de produire une déclaration de renseignements en application du paragraphe (7) doit remettre à chaque personne visée par la déclaration deux copies de la partie de celle-ci qui la concerne au plus tard le jour où la déclaration doit être présentée au ministre.
+(7.4) Pénalité – Toute personne qui, relativement à un abri fiscal, fournit des renseignements faux ou trompeurs au ministre dans la demande visée au paragraphe (2) ou contrevient au paragraphe (4) est passible d’une pénalité égale au plus élevé des montants suivants :
+a) 500 $;
+b) 25 % du total des montants représentant chacun la contrepartie reçue ou à recevoir d’une personne relativement à l’abri fiscal avant que les renseignements corrigés aient été fournis au ministre ou avant qu’un numéro d’inscription ait été attribué à l’abri fiscal, selon le cas.
+(8) Application des art. 231 à 231.3 – Sans préjudice de la portée générale des articles 231 à 231.3, en cas de demande d’attribution d’un numéro d’inscription à un abri fiscal conformément au paragraphe (2), les articles 231 à 231.3 s’appliquent avec les adaptations nécessaires en vue de permettre au ministre de vérifier les renseignements fournis sur un abri fiscal – même si une déclaration de revenu n’a pas été produite conformément à l’article 150 par un contribuable pour l’année d’imposition de celui-ci au cours de laquelle un montant est demandé en déduction au titre de l’abri fiscal.
+143.2 (1) Définitions – Les définitions qui suivent s’appliquent au présent article.
+« dépense » Dépense engagée ou effectuée, ou coût ou coût en capital d’un bien.
+« commanditaire » S’entend au sens du paragraphe 96(2.4), compte non tenu du passage « si sa participation dans celle-ci n’est pas, à ce moment, une participation exonérée au sens du paragraphe (2.5) et ».
+« montant à recours limité » Principal impayé d’une dette à l’égard de laquelle le recours est limité dans l’immédiat ou pour l’avenir et conditionnellement ou non.
+« contribuable » Comprend une société de personnes.
+« abri fiscal déterminé »
+a) Bien qui est un abri fiscal pour l’application du paragraphe 237.1(1);
+b) participation d’un contribuable dans une société de personnes si, selon le cas :
+(i) les conditions suivantes sont réunies :
+(A) une participation dans le contribuable est un abri fiscal déterminé,
+(B) la participation du contribuable serait un abri fiscal déterminé si, à la fois :
+(I) il n’était pas tenu compte du présent alinéa ni du passage « compte tenu de déclarations ou d’annonces faites ou envisagées relativement au bien » dans la définition de « abri fiscal » au paragraphe 237.1(1),
+(II) les passages « qui est annoncé comme étant » dans cette définition étaient remplacés par « qui serait vraisemblablement »,
+(III)
+(ii) une autre participation dans la société de personnes constitue un abri fiscal déterminé,
+(iii) la participation du contribuable dans la société de personnes lui donne droit, directement ou indirectement, à une part du revenu ou de la perte d’une société de personnes donnée, dans le cas où :
+(A) un autre contribuable détenteur d’une participation dans une société de personnes a droit, directement ou indirectement, à une part du revenu ou de la perte de la société de personnes donnée,
+(B) la participation visée à la division (A) constitue un abri fiscal déterminé.
+(2) Montant de rajustement à risque – Pour l’application du présent article, le montant ou l’avantage qu’un contribuable, ou un autre contribuable avec qui il a un lien de dépendance, a le droit, immédiat ou futur et absolu ou conditionnel, de recevoir – sous forme de remboursement, de compensation, de garantie de recettes, de produit de disposition, de prêt ou d’autre forme de dette ou sous toute autre forme – et qui est accordé en vue de supprimer ou de réduire l’effet d’une perte que le contribuable peut subir relativement à la dépense ou, dans le cas où la dépense représente le coût ou le coût en capital d’un bien, d’une perte résultant du fait que le bien est détenu ou fait l’objet d’une disposition constitue un montant de rajustement à risque relatif à une dépense du contribuable. Le présent paragraphe ne s’applique pas au coût d’une participation dans une société de personnes à laquelle s’applique le paragraphe 96(2.2).
+(3) Montant exclu – Pour l’application du paragraphe (2) :
+a) un montant ou un avantage ne constitue pas un montant de rajustement à risque relatif à la dépense d’un contribuable dans la mesure où il est inclus dans le calcul de la valeur de l’élément J de la formule figurant à la définition de frais cumulatifs d’exploration au Canada au paragraphe 66.1(6), de l’élément M de la formule figurant à la définition de frais cumulatifs d’aménagement au Canada au paragraphe 66.2(5) ou de l’élément I de la formule figurant à la définition de frais cumulatifs à l’égard de biens canadiens relatifs au pétrole et au gaz au paragraphe 66.4(5) relativement au contribuable;
+b) un montant ou un avantage ne constitue pas un montant de rajustement à risque relatif à la dépense d’un contribuable si le droit au montant ou à l’avantage résulte, selon le cas :
+(i) d’un contrat d’assurance avec une compagnie d’assurance qui n’a de lien de dépendance ni avec le contribuable ni, dans le cas où la dépense représente le coût d’une participation dans une société de personnes, avec un associé de la société de personnes, et par lequel le contribuable est assuré contre toute réclamation pouvant découler d’une obligation contractée dans le cours normal des activités de l’entreprise du contribuable ou de la société de personnes,
+(ii) du décès du contribuable,
+(iii) d’un montant non compris dans la dépense, déterminé compte non tenu du sous-alinéa (6)b)(ii),
+(iv) d’une obligation exclue, au sens du paragraphe 6202.1(5) du Règlement de l’impôt sur le revenu, relativement à une action émise en faveur du contribuable ou, dans le cas où la dépense représente le coût d’une participation dans une société de personnes, en faveur de la société de personnes.
+(4) Montant ou avantage prévu par contrat – Pour l’application des paragraphes (2) et (3), il est entendu que le montant ou l’avantage auquel un contribuable a droit à un moment donné et qui est prévu par une convention ou un autre mécanisme par lesquels le contribuable a le droit immédiat ou futur, et absolu ou conditionnel – sauf par suite de son décès – d’acquérir un bien doit être considéré comme étant au moins égal à la juste valeur marchande du bien à ce moment.
+(5) Montant ou avantage prévu par garantie – Pour l’application des paragraphes (2) et (3), il est entendu que le montant ou l’avantage auquel un contribuable a droit à un moment donné sous forme de garantie, d’indemnité ou d’engagement semblable dans le cadre d’un prêt ou d’une autre obligation du contribuable doit être considéré comme étant au moins égal au total du montant impayé du prêt ou de l’obligation à ce moment et des autres montants non remboursés sur le prêt ou l’obligation à ce moment.
+(6) Montant de la dépense – Malgré les autres dispositions de la présente loi, le montant d’une dépense qui représente un abri fiscal déterminé d’un contribuable, ou le coût ou le coût en capital d’un tel abri fiscal, et le montant d’une dépense d’un contribuable dans lequel une participation est un abri fiscal déterminé sont ramenés au montant égal à l’excédent éventuel du montant visé à l’alinéa a) sur le total visé à l’alinéa b) :
+a) le montant de la dépense du contribuable, déterminé par ailleurs;
+b) le total des montants suivants :
+(i) les montants à recours limité du contribuable et des autres contribuables qui ont un lien de dépendance avec lui, qu’il est raisonnable de considérer comme se rapportant à la dépense,
+(A)
+(B)
+(ii) le montant de rajustement à risque du contribuable relatif à la dépense,
+(iii) chaque montant à recours limité et montant de rajustement à risque, déterminé selon le présent article dans son application à chaque autre contribuable sans lien de dépendance avec le contribuable et détenteur, de manière directe ou indirecte, d’une participation dans celui-ci, qu’il est raisonnable de considérer comme se rapportant à la dépense.
+(7) Remboursement de dette – Pour l’application du présent article, le principal impayé d’une dette est réputé être un montant à recours limité sauf si :
+a) des arrangements, constatés par écrit, ont été conclus de bonne foi, au moment où la dette est survenue, pour que le débiteur rembourse la dette et les intérêts y afférents dans une période raisonnable ne dépassant pas dix ans;
+b) les intérêts sont payables au moins annuellement, à un taux égal ou supérieur au moins élevé des taux suivants, et sont payés sur la dette par le débiteur au plus tard 60 jours suivant la fin de chacune de ses années d’imposition qui se termine dans la période visée à l’alinéa a) :
+(i) le taux d’intérêt prescrit en vigueur au moment où la dette est survenue,
+(ii) le taux d’intérêt prescrit applicable pendant la durée de la dette.
+(8) Société de personnes – Pour l’application du présent article, le principal impayé d’une dette est réputé être un montant à recours limité d’un contribuable lorsque celui-ci est une société de personnes et que le recours contre un de ses associés relativement à la dette est limité dans l’immédiat ou pour l’avenir et conditionnellement ou non.
+(9) Remboursement d’un prêt – Dans le cas où un contribuable a remboursé un montant au titre du principal d’une dette qui était auparavant le principal impayé d’un prêt ou d’une autre forme de dette auquel s’applique le paragraphe (2) (appelé « ancien montant ou avantage » au présent paragraphe) relativement à une dépense du contribuable, les présomptions suivantes s’appliquent :
+a) l’ancien montant ou avantage est réputé avoir été un montant ou un avantage visé au paragraphe (2) relativement au contribuable en tout temps avant le remboursement;
+b) la dépense est réputée, sous réserve du paragraphe (6), avoir été engagée ou effectuée au moment du remboursement jusqu’à concurrence du montant remboursé et par suite du paiement de ce montant.
+(10) Remboursement d’un montant à recours limité – Dans le cas où un contribuable a remboursé un montant au titre du principal d’une dette qui était auparavant un principal impayé qui était un montant à recours limité (appelé « ancienne dette à recours limité » au présent paragraphe) se rapportant à une dépense du contribuable, les présomptions suivantes s’appliquent :
+a) l’ancienne dette à recours limité est réputée avoir été un montant à recours limité en tout temps avant le remboursement;
+b) la dépense est réputée, sous réserve du paragraphe (6), avoir été engagée ou effectuée au moment du remboursement, jusqu’à concurrence du montant remboursé et par suite du paiement de ce montant.
+(11) Remboursement à court terme d’une dette – Lorsqu’un contribuable rembourse le principal d’une dette au plus tard le soixantième jour suivant le moment où la dette est survenue et que celle-ci serait par ailleurs considérée comme un montant à recours limité par le seul effet des paragraphes (7) ou (8), ces paragraphes ne s’appliquent pas à la dette, sauf si, selon le cas :
+a) une partie du remboursement est effectuée à l’aide d’un montant à recours limité;
+b) il est raisonnable de considérer que le remboursement fait partie d’une série de prêts ou d’autres dettes et remboursements qui prend fin plus de 60 jours après le moment où la dette est survenue.
+(12) Série de prêts ou de remboursements – Pour l’application de l’alinéa (7)a), les arrangements pris par un débiteur en vue du remboursement d’une dette sur une période d’au plus dix ans sont réputés ne pas avoir été pris s’il est raisonnable de considérer qu’ils font partie d’une série de prêts ou d’autres dettes et remboursements qui s’étendent sur plus de dix ans.
+(13) Renseignements à l’étranger concernant une dette – Pour l’application du présent article, lorsqu’il est raisonnable de considérer que des renseignements concernant une dette se rapportant à une dépense d’un contribuable se trouvent à l’étranger et que le ministre n’est pas convaincu que le principal impayé de la dette n’est pas un montant à recours limité, le principal impayé de la dette qui se rapporte à la dépense est réputé être un montant à recours limité se rapportant à la dépense, sauf si, selon le cas :
+a) les renseignements sont fournis au ministre;
+b) les renseignements se trouvent dans un pays avec lequel le gouvernement du Canada a conclu une convention ou un accord fiscal qui a force de loi au Canada et qui comprend une disposition en vertu de laquelle le ministre peut obtenir les renseignements.
+(14) Renseignements à l’étranger concernant le lien de dépendance – Pour l’application du présent article, lorsqu’il est raisonnable de considérer que des renseignements relatifs à la question de savoir si un contribuable a un lien de dépendance avec un autre contribuable se trouvent à l’étranger et que le ministre n’est pas convaincu de l’absence d’un tel lien, les contribuables sont réputés avoir entre eux un lien de dépendance, sauf si, selon le cas :
+les renseignements sont fournis au ministre;
+les renseignements se trouvent dans un pays avec lequel le gouvernement du Canada a conclu une convention ou un accord fiscal qui a force de loi au Canada et qui comprend une disposition en vertu de laquelle le ministre peut obtenir les renseignements.
+(15) Cotisations – Malgré les paragraphes 152(4) à (5), le ministre peut établir les cotisations voulues et déterminer ou déterminer de nouveau les montants voulus pour l’application du paragraphe du présent article.
+67 Restriction générale relative aux dépenses Dans le calcul du revenu, aucune déduction ne peut être faite relativement à une dépense à l’égard de laquelle une somme est déductible par ailleurs en vertu de la présente loi, sauf dans la mesure où cette dépense était raisonnable dans les circonstances.
+Règlement de l’impôt sur le revenu
+PARTIE XI
+Déductions pour amortissement
+Déductions permises
+1100 (1) Pour l’application des alinéas 8(1)j) et p) et de l’alinéa 20(1)a) de la Loi, un contribuable peut déduire dans le calcul de son revenu pour chaque année d’imposition des montants correspondant :
+a) Taux – sous réserve du paragraphe (2), au montant qu’il peut réclamer à l’égard de biens de chacune des catégories suivantes de l’annexe II, sans dépasser, à l’égard des biens
+[…]
+(xii) de la catégorie 12, 100 pour cent,
+[…]
+de la fraction non amortie du coût en capital, pour lui, des biens de la catégorie, à la fin de l’année d’imposition (avant toute déduction en vertu du présent paragraphe pour l’année d’imposition);
+[…]
+(20.1) Logiciels déterminés Le total des montants qu’un contribuable peut déduire en application du paragraphe (1) dans le calcul de son revenu pour une année d’imposition au titre de logiciels déterminés ne peut dépasser l’excédent éventuel du total visé à l’alinéa a) sur le total visé à l’alinéa b) :
+a) le total des montants représentant chacun :
+(i) soit le revenu du contribuable pour l’année tiré d’une entreprise dans le cadre de laquelle est utilisé un logiciel déterminé appartenant au contribuable, calculé compte non tenu des déductions opérées en application du paragraphe (1) relativement à ce logiciel,
+(ii) soit le revenu d’une société de personnes tiré d’une entreprise dans le cadre de laquelle est utilisé un logiciel déterminé appartenant à la société de personnes, jusqu’à concurrence de la part de ce revenu qui revient au contribuable et qui est incluse dans le calcul de son revenu pour l’année;
+b) le total des montants représentant chacun :
+(i) soit la perte du contribuable résultant d’une entreprise dans le cadre de laquelle un logiciel déterminé est utilisé, calculé compte non tenu des déductions opérées en application du paragraphe (1) relativement à ce logiciel,
+(ii) soit la perte d’une société de personnes résultant d’une entreprise dans le cadre de laquelle un logiciel déterminé est utilisé, jusqu’à concurrence de la part de cette perte qui revient au contribuable et qui est incluse dans le calcul de son revenu pour l’année.
+(20.2) Logiciels déterminés Pour l’application de la présente partie, est un logiciel déterminé le logiciel qui est un bien amortissable d’une catégorie prescrite d’une personne ou d’une société de personnes si, selon le cas :
+a) la part de la personne ou de la société de personnes dans le bien constitue un abri fiscal déterminé au sens du paragraphe 143.2(1) de la Loi, déterminé compte non tenu du paragraphe (20.1);
+b) une participation dans la personne ou la société de personnes constitue un abri fiscal déterminé au sens du paragraphe 143.2(1) de la Loi, déterminé compte non tenu du paragraphe (20.1).
+RÉFÉRENCE :
+2020 CCI 7
+No DU DOSSIER DE LA COUR :
+2015-5487(IT)G
+INTITULÉ :
+JAMES KRUMM c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Les 26 et 27 septembre 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Henry A. Visser
+DATE DU JUGEMENT :
+Le 17 janvier 2020
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Matthew Clark
+Avocate de l’intimée :
+Me Wendy Bridges
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Me Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch. 1 (5e suppl.), dans sa forme modifiée.
+[2] Comme je l’expliquerai plus en détail, les arguments subsidiaires soulevés par l’intimé dépendent de la question de l’abri fiscal et sont, en général, théoriques, compte tenu de ma conclusion concernant la question de l’abri fiscal.
+[3] Voir la pièce J-1, recueil conjoint de pièces.
+[4] Le paragraphe 237.1(6) a été modifié par 1998, ch. 19, paragraphe 234(4), qui a rendu le libellé révisé ci-dessus applicable après le 1er décembre 1994.
+[5] Voir l’exposé conjoint (partiel) des faits, au paragraphe 38.
+[6] Voir aussi l’arrêt Canada c. Baxter, 2007 CarswellNat 3625 (CSC), où l’autorisation d’interjeter appel devant la Cour suprême du Canada a été rejetée.
+[7] Canada, ministère des Finances, « Measures Limiting the Use of Tax Shelters Announced », communiqué de presse 94-112, le 1er décembre 1994.
+[8] Datée du 23 avril 1990.

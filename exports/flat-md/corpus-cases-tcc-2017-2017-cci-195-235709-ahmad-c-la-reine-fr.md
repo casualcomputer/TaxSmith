@@ -1,0 +1,200 @@
+---
+title: "Ahmad c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/235709/index.do"
+last_modified: "2017-09-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 195"
+citation2: ""
+neutral_citation: "2017 CCI 195"
+decision_date: "2017-09-29"
+language: "fr"
+item_id: "235709"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2215
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:21:00.161000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bc11bca3cefebd35fe35bd77920abfa44e835c7999cbc46ad1660925d21d0349"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ahmad c. La Reine
+
+- Citation: 2017 CCI 195
+- Decision date: 2017-09-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2215, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ahmad c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-09-29
+Référence neutre
+2017 CCI 195
+Numéro de dossier
+2016-2394(GST)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-2394(GST)I
+ENTRE :
+AZFAR AHMAD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 28 mars 2017, à Edmonton (Alberta)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Peter Basta
+JUGEMENT
+L’appel interjeté contre la cotisation établie le 20 février 2014 en vertu de la partie IX de la Loi sur la taxe d’accise est accueilli, sans dépens, afin de renvoyer au ministre la cotisation établie le 20 février 2014 visée par l’appel pour réexamen et nouvelle cotisation, pour que, en vertu de ce réexamen, le ministre « constate » conformément au paragraphe 296(2.1) de la Loi si le remboursement de la TPS/TVH pour immeubles d’habitation locatifs neufs de l’appelant constitue un « montant de remboursement déductible » et, par conséquent, s’il doit être payé à l’appelant conformément à cette disposition législative.
+Signé à Prince George (Colombie‑Britannique), ce 29e jour de septembre 2017.
+« B. Russell »
+Juge Russell
+Référence : 2017CCI195
+Date : 20170929
+Dossier : 2016‑2394(GST)I
+ENTRE :
+AZFAR AHMAD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+[1] Les paragraphes qui suivent exposent mes motifs de jugement dans l’appel interjeté par M. Azfar Ahmad à l’encontre de la cotisation établie à son égard le 20 février 2014 par le ministre du Revenu national (le « ministre ») en vertu de la Loi sur la taxe d’accise (la « Loi ») fédérale. Cette cotisation est attestée par un avis de (nouvelle) cotisation indiquant la date du 20 février 2014.
+[2] Une copie de cet avis de (nouvelle) cotisation est jointe à l’avis d’appel, tel qu’il a été déposé. La cotisation refusait la demande de remboursement de la taxe sur les produits et services/taxe de vente harmonisée (TPS/TVH) pour habitations neuves (le « RHN ») de 26 883 $ de l’appelant, indiquant que le montant à payer établi par cotisation s’élevait à 28 329 $. De plus, il semble qu’une cotisation en date du 27 avril 2016 établie par le ministre en vertu de la Loi, dans laquelle il refuse une demande en date du 8 mars 2016 présentée par l’appelant pour un Remboursement de la TPS/TVH pour immeubles d’habitation locatifs neufs (RIHLN), fait également l’objet de l’appel. L’avis de (nouvelle) cotisation, également joint à l’avis d’appel, comportant cette date, indique un solde à payer établi par cotisation (décrit comme le « solde antérieur ») qui s’élève à 28 221 $.
+[3] De plus, dans le premier paragraphe de l’avis d’appel, il est indiqué que, semble-t-il à titre de moyen subsidiaire d’appel, l’appel découle :
+[traduction]
+[...] ou de la suspension, en vertu du paragraphe 188.2(2) de la Loi de l’impôt sur le revenu, de son pouvoir de délivrer des reçus officiels visés par la partie XXXV du Règlement de l’impôt sur le revenu.
+[4] Au paragraphe 12 de l’avis d’appel, l’appelant évoque le paragraphe 296(2.1) de la Loi en tant qu’argument supplémentaire visant à étayer son appel.
+[5] M. Ahmad (l’« appelant ») s’est représenté lui‑même dans le cadre de cette affaire soumise à la procédure informelle.
+[6] En ce qui concerne la première question déclarée, soit l’appel du refus du RHN au moyen d’une cotisation établie le 20 février 2014, l’appelant a déposé, le 1er mai 2015, un avis d’opposition à cet égard qui a été accepté comme ayant été déposé dans les délais impartis. Le 17 mars 2016, le ministre a confirmé la cotisation visée par l’opposition. Ensuite, le 13 juin 2016, l’avis d’appel introductif d’instance du présent appel a été déposé.
+[7] Toutefois, l’appelant a également déposé le 8 mars 2016 un RIHNL relativement au même bien. Le ministre a refusé la demande conformément à la cotisation établie le 27 avril 2016. Aucun avis d’opposition n’a été déposé concernant cette cotisation. Il semble, selon l’avis d’appel, que l’appelant souhaite interjeter appel à l’encontre de cette cotisation aussi.
+[8] L’avis d’appel indique que l’appelant estime que le bien visé devrait avoir droit à l’un ou l’autre de ces deux remboursements. À cet égard, l’avis d’appel indique ce qui suit :
+[traduction]
+Cette affaire concerne l’attribution du dossier au remboursement de la TPS le plus approprié, conformément à la règle de droit. Le montant en souffrance doit être compensé en accordant le remboursement pour nouvelle habitation ou le remboursement pour immeubles d’habitation locatifs neufs.
+[9] Voici les faits de base sous‑jacents de l’affaire : En février 2011, l’appelant et son frère ont conclu une convention en vue d’acheter un bien résidentiel à Mississauga, soit un condominium à construire. Leur intention à ce moment‑là était qu’ils vivraient chacun dans ce bien. Environ deux ans plus tard, la construction du bien a été achevée et la transaction d’achat des frères relative au bien a été conclue le 21 février 2013. Mais à la toute fin de cette période intérimaire de deux ans suivant leur entente d’acheter le bien de février 2011, la vie des deux frères, deux jeunes hommes, a pris une direction différente. L’appelant déménageait maintenant à Saskatoon aux fins d’un emploi. Son frère déménageait maintenant au Pakistan pour suivre ses études. Ni l’un ni l’autre ne demeurerait à Toronto afin de résider dans le nouveau bien à Mississauga.
+[10] En raison de ce nouveau développement, vers 2013, les frères ont décidé d’essayer de vendre le bien. À l’origine, cet effort s’est avéré infructueux en raison, au moins en partie, d’une surabondance d’unités condominiales sur le marché. Les frères ont donc choisi d’essayer de louer le bien, tout en continuant de chercher à le vendre. Le bien a donc été loué rapidement dès l’achèvement de la construction, d’abord à un particulier non lié à l’un ou l’autre des frères. Enfin, plus de trois ans plus tard, le condominium a été vendu.
+[11] Le constructeur ou vendeur du bien a présenté au nom de l’appelant la demande de RHN, que le ministre a reçue le 28 mars 2013. La signature de l’appelant est apposée sur ce document. Tel que cela a été indiqué, la demande a été refusée au moyen d’une cotisation établie le 20 février 2014. Conformément à la réponse de l’intimée, la demande a été refusée au motif que ni l’appelant, ni son frère, ni aucun proche admissible n’était le premier à occuper le bien après que la construction avait été achevée en grande partie et il n’avait pas été vendu sans qu’un particulier n’y réside entre‑temps.
+[12] La cotisation du 20 février 2014 a été précédée sou peu par une lettre en date du 14 février 2014 à l’intention de l’appelant et venant du vérificateur, Stanley Wells, de l’Agence du revenu du Canada (ARC), visant à l’informer que l’avis de (nouvelle) cotisation du 20 février 2014 refusant la demande de RHN lui serait acheminé sous peu.
+[13] La lettre indiquait également ce qui suit :
+[traduction]
+Tel que cela a été discuté, vous pouvez consulter les renseignements sur le Remboursement de la TPS/TVH pour immeubles d’habitation locatifs neufs dans notre site Web. La publication applicable et les numéros de formulaires sont les RC4231 et GST524.
+[14] En outre, l’avis de (nouvelle) cotisation en soi, en date du 20 février 2014, indiquait en partie ce qui suit :
+[traduction]
+[...] – votre demande vise un bien locatif. Vous pouvez être admissible à un remboursement pour immeubles d’habitation locatifs neufs. Veuillez produire votre demande de ce type de remboursement à l’aide du formulaire GST524.
+[15] Le ministre a donc décidé que la demande de RHN ne respecte pas l’alinéa 254(2)g) de la Loi susmentionné qui exige que le particulier, soit le demandeur ou un proche, ait été le premier particulier à occuper le bien à titre résidentiel ou que le particulier ait effectué une fourniture exonérée du bien par vente et dont la propriété est transférée sans qu’un autre particulier n’ait résidé dans le bien entre‑temps.
+[16] L’appelant a déposé un avis d’opposition à la cotisation du 20 février 2014 plus d’un an plus tard, soit le 1er mai 2015. Toutefois, il n’a pas, à ce moment‑là, malgré la lettre du 14 février 2014 du vérificateur et de l’avis de (nouvelle) cotisation du 20 février 2014, présenté une demande de RIHLN.
+[17] La cotisation contestée, soit le RHN refusé, a été confirmée le 17 mars 2016.
+[18] Plusieurs jours avant cette confirmation, l’appelant avait présenté une demande de RIHLN concernant le bien situé à Mississauga. Un peu plus d’un mois plus tard, le ministre a refusé la demande; ce refus lui a été communiqué au moyen d’un avis de (nouvelle) cotisation en date du 27 avril 2016 qui comprenait un énoncé indiquant que le RIHLN avait été refusé pour les motifs suivants :
+[traduction]
+[...] nous n’avons pas reçu la demande dans les deux ans suivant à la date à laquelle la taxe est devenue payable sur l’achat [...] conformément à ce qui est établi dans la [Loi].
+[19] L’appelant n’a déposé en aucun temps un avis d’opposition à cette cotisation en date du 27 avril 2016 ni une demande de prorogation du délai pour déposer un avis d’opposition à cette cotisation. Au contraire, tel que cela été indiqué ci‑dessus, le 13 juin 2016, l’appelant a déposé auprès de la Cour un avis d’appel introductif d’instance du présent appel.
+[20] L’appelant déclare qu’il a été retardé à l’étape de préavis d’appel par ce qu’il considère comme des questions non pertinentes soulevées par M. Wells, le vérificateur de l’ARC.
+[21] Les thèses respectives des parties ont été exposées ci‑dessus. L’appelant déclare qu’il a droit à l’un ou l’autre des deux types de remboursement de la TPS/TVH précisés. L’intimé soutient que l’appelant n’a droit à ni l’un ni l’autre des remboursements – le RHN ne s’applique pas, conformément aux alinéas 254(2)b) et g) indiqués ci‑dessus et le RIHLN ne s’applique pas, puisque l’appelant a contrevenu à l’alinéa 256.2(7)a) de la Loi lorsqu’il n’a pas présenté une demande de ce remboursement dans les deux ans suivant la date à laquelle la taxe visée par la demande de remboursement est devenue payable pour la première fois.
+[22] La Cour doit décider si l’appelant est admissible à l’un ou l’autre de ces deux remboursements.
+[23] Compte tenu de la preuve dont je suis saisi, je retiens le témoignage de l’appelant selon lequel, lorsque lui et son frère ont signé la convention d’achat en février 2011 pour acheter l’immeuble situé à Mississauga, les deux avaient véritablement l’intention de résider dans ce condominium dès l’achèvement de la construction. En conséquence, je ne retiens pas l’argument de l’intimée selon lequel l’appelant ne répond pas à l’exigence, conformément à l’alinéa 254(2)b) de la Loi, qui, dans le contexte de l’espèce, exige que l’immeuble ait été acquis aux fins d’utilisation à titre de lieu de résidence habituelle de l’appelant et/ou de son frère.
+[24] Tel que cela a été indiqué, l’alinéa 254(2)g) exige que l’appelant ou un proche ait été le premier à occuper les nouveaux locaux à titre résidentiel dès l’achèvement de la construction. Il est clair que cela n’a pas eu lieu en l’espèce. Les frères avaient tous les deux modifié leurs plans de carrière pendant la période de presque deux ans avant l’achèvement de la construction du condominium situé à Mississauga qu’ils avaient convenu d’acheter. Ni l’un ni l’autre ne demeurerait en fin de compte dans la région de Toronto afin d’être en mesure de résider dans l’immeuble dès l’achèvement de la construction. La preuve est simple et sans équivoque à cet égard.
+[25] Pour ces motifs, je conclus que le ministre avait raison de refuser la demande de RHN de l’appelant qu’il a reçue le 28 mars 2013.
+[26] En ce qui concerne au moins le RHN, l’intimée a présenté un autre argument à l’audience selon lequel il n’existait aucune entente modificative pour radier le nom du père des frères de la convention d’achat et d’y inscrire le nom des frères. L’intimée a invoqué l’article 67 de la Loi sur la gestion des finances publiques (Canada) et l’article 13 du Règlement sur la cession des dettes de la Couronne (Canada) pour soutenir que le droit au RHN ne pouvait pas être transféré du père aux fils sans une entente modificative. L’appelant a affirmé qu’une entente modificative avait été conclue pour régler cette question.
+[27] Quoi qu’il en soit, cet argument juridique soulevée par l’intimée ne figure aucunement dans la réponse de l’intimée à cette procédure informelle ni dans les renvois aux deux dispositions législatives ci‑dessus figurant dans la réponse. Par conséquent, en toute justice à l’endroit de l’appelant, qui s’est représenté lui‑même, qui n’a eu aucun avis de cet argument dans l’acte de procédure de l’intimée, je refuse d’entendre cet argument.
+[28] En ce qui concerne le RIHLN, tel que cela est indiqué ci‑dessus, il a été refusé au moyen de la cotisation du ministre établie le 27 avril 2016 au motif que la demande avait été présentée au‑delà du délai de deux ans prévu par la loi. L’appelant a ensuite simplement intenté le présent appel devant la Cour sans avoir déposé tous les avis d’opposition ayant trait au refus du RIHLN.
+[29] Le résultat de cette omission est que le présent appel concernant la cotisation du 27 avril 2016 doit être rejeté. Il est fondamental qu’une personne ne puisse pas passer à l’appel d’une cotisation devant la Cour en l’absence du dépôt d’un avis d’opposition à cette cotisation – voir les paragraphes 301(1.1) et 303(1) de la Loi, tel que l’a soutenu l’intimée dans sa réponse.
+[30] L’appelant soutient qu’il devrait avoir droit à au moins un de ces deux remboursements. En passant pour le moment la question liée au paragraphe 296(2.1), discutée ci‑dessous, il existe des conditions prévues par la loi qui doivent être respectées pour chacun de ces deux remboursements avant qu’une demande de remboursement ne puisse être accordée par le ministre. Le ministre n’a aucun pouvoir discrétionnaire à cet égard. Si les conditions préalables prévues par la loi sont remplies, le remboursement doit être accordé. Si toutes les conditions préalables prévues par la loi ne sont pas remplies, le ministre doit refuser la demande. Il en est de même avec la Cour et il est fondamental à la responsabilité de la Cour d’interpréter et d’appliquer la loi, que ce soit dans le cadre d’un appel mène la Cour à souscrire à la décision prise par le ministre sur les questions en litige ou à annuler ladite décision.
+[31] De plus, l’appelant, tel qu’il est indiqué ci‑dessus, semble avoir soutenu subsidiairement qu’il interjette appel à l’encontre de ce qui suit :
+[traduction]
+[...] ou de la suspension, en vertu du paragraphe 188.2(2) de la Loi de l’impôt sur le revenu, de son pouvoir de délivrer des reçus officiels visés par la partie XXXV du Règlement de l’impôt sur le revenu.
+[32] En toute déférence, cette disposition vise les reçus pour don de bienfaisance et ne se rapporte aucunement à l’espèce et n’a aucune pertinence à cet égard.
+[33] Je passe maintenant au paragraphe 296(2.1) de la Loi, invoqué par l’appelant. Le paragraphe 296.2(1) dispose :
+(2.1) Le ministre, s’il constate les faits ci‑après relativement à un montant (appelé « montant de remboursement déductible » au présent paragraphe) lors de l’établissement d’une cotisation concernant la taxe nette d’une personne pour une période de déclaration de celle-ci ou concernant un montant (appelé « montant impayé » au présent paragraphe) qui est devenu payable par une personne en vertu de la présente partie, applique tout ou partie du montant de remboursement déductible en réduction de la taxe nette ou du montant impayé comme si la personne avait payé ou versé, à la date visée aux sous‑alinéas a)(i) ou (ii), le montant ainsi appliqué au titre de la taxe nette ou du montant impayé :
+a) le montant de remboursement déductible aurait été payable à la personne à titre de remboursement s’il avait fait l’objet d’une demande produite aux termes de la présente partie à la date suivante et si, dans le cas où le remboursement vise un montant qui fait l’objet d’une cotisation, la personne avait payé ou versé ce montant :
+(i) si la cotisation concerne la taxe nette pour la période de déclaration, la date limite de production de la déclaration aux termes de la section V pour la période,
+(ii) si la cotisation concerne un montant impayé, la date à laquelle ce montant est devenu payable par la personne;
+b) le montant de remboursement déductible n’a pas fait l’objet d’une demande produite par la personne avant le jour où l’avis de cotisation lui est envoyé;
+c) le montant de remboursement déductible serait payable à la personne s’il faisait l’objet d’une demande produite aux termes de la présente partie le jour où l’avis de cotisation lui est envoyé, ou serait refusé s’il faisait l’objet d’une telle demande du seul fait que le délai dans lequel il peut être demandé a expiré avant ce jour.
+[34] L’appelant soutient que cette disposition autorise que le RIHLN lui soit accordé en dépit du fait qu’il a subséquemment produit tardivement la demande de ce remboursement.
+[35] Le paragraphe 296(2.1) est intitulé « Application d’un montant de remboursement non demandé ». Mon collègue, le juge Paris, a décrit succinctement cette disposition au paragraphe 10 de ses motifs du jugement dans A OK Payday Loans Inc c Sa Majestée, 2010 CCI 469, comme suit :
+Le paragraphe 296(2.1) de la LTA exige du ministre, lors de l’établissement d’une cotisation concernant la taxe nette pour une période de déclaration ou concernant un montant dû en vertu de la partie IX de la LTA, qu’il tienne compte d’un remboursement auquel une personne a droit en vertu de la partie IX, mais lequel remboursement la personne n’a pas encore demandé, et qu’il l’applique en réduction de la taxe nette ou du montant dû. Le paragraphe 296(2.1)c) de la LTA exige que le ministre applique le montant de remboursement en réduction de la taxe nette ou du montant dû même si le délai dans lequel la demande de remboursement peut être produite a expiré.
+[36] Plus particulièrement, afin de s’appliquer à la situation de l’appelant, le paragraphe 296(2.1) exige ce qui suit :
+A.que le ministre ait établi par cotisation un montant, appelé « montant impayé » qui est devenu payable en vertu de la partie IX de la Loi;
+B. ce faisant, le ministre constate qu’un montant, appelé « montant de remboursement déductible », aurait été payable à la personne à titre de remboursement s’il avait fait l’objet d’une demande produite aux termes de la partie IX à la date à laquelle le montant est devenu payable par la personne;
+C. lorsque le remboursement concerne un montant visé par cotisation, si la personne avait payé ou versé ce montant, le montant de remboursement déductible n’a pas fait l’objet d’une demande produite par la personne avant le jour où l’avis de cotisation lui est envoyé;
+D.le montant de remboursement déductible aurait été payable à la personne si une demande aux termes de la partie IX avait été produite le jour où l’avis de cotisation lui a été envoyé ou serait refusé s’il faisait l’objet d’une telle demande du seul fait que le délai dans lequel il peut être demandé a expiré avant ce jour.
+[37] En ce qui concerne les critères prévus par la loi décrits ci‑dessus, je suis d’avis que le ministre a établi une cotisation à l’égard d’un montant impayé payable aux termes de la partie IX, soit un montant impayé de TPS/TVH qui devait être payée en février 2013 au moment de l’achèvement en grande partie de la construction des nouveaux lieux résidentiels. La cotisation est celle établie le 20 février 2014 dans laquelle le RHN est refusé et qui a également établi le montant de TPS/TVH impayé concernant les lieux résidentiels visés, soit le montant qui aurait été réduit si le RHN avait été établi, le cas échéant.
+[38] Je ne crois pas que, lorsqu’il a établi la cotisation le 20 février 2014, le ministre a constaté, conformément au paragraphe 296(2.1), si un remboursement déductible – plus particulièrement, le RIHLN qui n’avait pas à ce moment‑là fait l’objet d’une demande – a été payable à l’appelant à titre de remboursement aux termes de la partie IX s’il avait été demandé. Toutefois, on suggère particulièrement que le ministre avait tenu compte du fait que l’appelant pourrait être admissible (à ce moment‑là) au RIHLN non demandé. J’évoque les renvois cités ci‑dessus qui figurent à l’avis de (nouvelle) cotisation lui-même du 20 février 2014 et dans la lettre qui a été reçue un peu plus avant l’avis en date du 14 février 2014 du vérificateur de l’ARC dont les renvois suggèrent à l’appelant qu’il produise une demande de RIHLN. À ce moment‑là, la production d’une demande de RIHLN par l’appelant n’aurait pas été en dehors du délai de deux ans prévu par la loi, en comptant février 2013 dans le calcul lorsque le bien résidentiel avait été achevé en grande partie.
+[39] J’estime qu’il est possible, sinon probable, que le ministre, au moment de l’établissement de la cotisation du 20 février 2014 et pendant la vérification menant à l’établissement de la cotisation, estimait que l’appelant pouvait bien être admissible au RIHLN et a demandé des renseignements pertinents qui seraient inclus dans une demande de RIHLN pour confirmer s’il y était ainsi admissible.
+[40] Toutefois, malgré les suggestions du ministre indiquées dans la lettre du 14 février 2014 et dans l’avis de (nouvelle) cotisation lui-même du 20 février 2014 qu’une demande de RIHLN soit produite, l’appelant ne l’a pas fait à cette date.
+[41] Deux ans plus tard, l’appelant a produit une demande de RIHLN (un peu avant la confirmation par le ministre de la cotisation du 20 février 2014 visée par le présent appel), et cette demande a été refusée parce qu’elle a été produite au‑delà du délai de deux ans prévu par la loi pour le faire.
+[42] Je n’ai pas à décider si l’appelant aurait été admissible à un RIHLN puisque cette question n’a pas été débattue devant moi et, par conséquent, je ne peux exprimer aucune conclusion relative à ce point. Toutefois, j’estime que cette question conformément au paragraphe 296(2.1) est une question que le ministre doit « constater » dans le cadre de l’établissement de la cotisation du 20 février 2014, soit la cotisation visée par le présent appel. Le ministre aurait les renseignements nécessaires obtenus du vérificateur en février 2014 et de l’appelant au cours de leurs discussions avant cette date et maintenant, tels qu’ils sont indiqués dans la demande de RIHLN de 2016, aux fins d’examen dans le cadre de cette constatation. Certes, le ministre avait encouragé l’appelant en février 2014 de produire une demande de RIHLN lorsque sa demande de RHN avait été refusée; indiquant que le ministre estimait que l’appelant pourrait bien être admissible à ce remboursement.
+[43] Je suis d’avis que le fait d’exiger du ministre de faire maintenant une constatation en vertu du paragraphe 296(2.1) quant au « montant de remboursement déductible » est de la nature d’un redressement de la cotisation du 20 février 2014, soit la cotisation dont la Cour est saisie. Le préambule du paragraphe 296(2.1) renvoie au ministre qui « constate » « lors de l’établissement d’une cotisation [...] un montant [...] qui est devenu payable par une personne en vertu de la présente partie [...] ». Il convient de noter que la constatation que doit faire le ministre est exprimée dans la loi comme un élément de la cotisation en soi.
+[44] De plus, je suis d’avis que le fait d’exiger que le ministre fasse maintenant une constatation est conforme à plusieurs exigences énumérées au paragraphe 296(2.1), en indiquant que la véritable demande de RIHLN a été produite bien après la date à laquelle la taxe visée est devenue dû et impayée en février 2013 et bien après l’établissement de la cotisation pertinente, soit la cotisation du 20 février 2014.
+[45] Dans l’avis d’appel, le paragraphe 296(2.1) a été invoqué de manière importante et il a été reproduit au complet au paragraphe 12 et mentionné encore aux paragraphes A et 21 de celui‑ci.
+[46] Cependant, la réponse de l’intimée comprenait peu de réponses – un simple énoncé générique identique à chacun des alinéas 9h) et 9n) selon lequel les arguments de l’appelant qui évoquaient et énonçaient le paragraphe 296(2.1) :
+[traduction]
+[...] consistaient d’arguments et de questions de nature administrative et qu’il n’y a aucun autre fait à reconnaître, à nier ou à déclarer n’avoir aucune connaissance, mais dans la mesure où il existe de tels faits, ils sont niés.
+[47] En résumé, une réponse peu cohérente au sujet que cette disposition a été invoquée par l’intimée, laissant l’appelant sans avis quant à la thèse de l’intimée, le cas échéant.
+[48] L’intimée a invoqué la décision Napoli c Sa Majestée, 2013 CCI 307, qui avait une certaine ressemblance entre les faits et les faits de l’espèce. Toutefois, le paragraphe 296(2.1) n’a même pas été mentionné dans les motifs du jugement, encore moins discuté ou appliqué.
+[49] L’intimée a également invoqué la décision A OK Payday Loans Inc (précitée). Toutefois, dans cette affaire, l’appelant demandait le remboursement d’un montant de TPS qui avait été versé par erreur pour des services exonérés de la TPS. Sous la plume du juge Paris, la Cour a décidé que le paragraphe 296(2.1) ne pouvait pas s’appliquer puisque la cotisation pertinente dans cette affaire n’était pas, comme l’exige le paragraphe 296(2.1), établie à l’égard d’une taxe nette due pour une période de déclaration ou d’un montant payable en vertu de la Loi. Étant donné qu’aucune taxe n’était due en premier lieu, la cotisation n’indiquait aucun montant payable en vertu de la Loi. Au contraire, elle ne portait que sur le refus de la demande de remboursement au motif qu’elle était hors délai. Toutefois, en l’espèce, un montant de TPS/TVH payable, établi par cotisation le 20 février 2014 comme impayé.
+[50] En conclusion, j’accueillerai cet appel soumis à la procédure informelle afin de renvoyer au ministre la cotisation établie le 20 février 2014 visée par l’appel pour réexamen et nouvelle cotisation, en vertu de ce réexamen, le ministre « constate » conformément au paragraphe 296(2.1) de la Loi si le Remboursement de la TPS/TVH pour immeubles d’habitation locatifs neufs de l’appelant constitue un « montant de remboursement déductible » et, par conséquent, doit être payé à l’appelant conformément à cette disposition législative.
+Signé à Prince George (Colombie‑Britannique), ce 29e jour de septembre 2017.
+« B. Russell »
+Juge Russell
+RÉFÉRENCE :
+2017 CCI 195
+NO DU DOSSIER DE LA COUR :
+2016‑2394(GST)I
+INTITULÉ :
+AZFAR AHMAD ET SA MAJESTÉE LA REINE
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 28 mars 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 29 septembre 2017
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Peter Basta
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[BLANK/EN BLANC]
+Cabinet :
+[BLANK/EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada

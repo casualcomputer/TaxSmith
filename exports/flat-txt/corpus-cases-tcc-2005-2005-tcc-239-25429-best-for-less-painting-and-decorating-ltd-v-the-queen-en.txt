@@ -1,0 +1,141 @@
+Title: Best For Less Painting and Decorating Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25429/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-239-25429-best-for-less-painting-and-decorating-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-06-03
+
+# Best For Less Painting and Decorating Ltd. v. The Queen
+
+- Citation: 2005 TCC 239
+- Decision date: 2005-06-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2381, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Best For Less Painting and Decorating Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-03
+Neutral citation
+2005 TCC 239
+File numbers
+2004-3847(GST)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-3847(GST)I
+BETWEEN:
+BEST FOR LESS PAINTING AND DECORATING LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 25, 2005 at Calgary, Alberta
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Agent for the Appellant:
+Boris Isakovich
+Counsel for the Respondent:
+Lesley Akst
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act for the reporting period August 1, 2002 to July 31, 2003 is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Best For Less Painting and Decorating Ltd., was not a "builder" within the meaning of the Act in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 3rd day of June, 2005.
+G. Sheridan
+Sheridan, J.
+Citation: 2005TCC239
+Date: 20050603
+Docket: 2004-3847(GST)I
+BETWEEN:
+BEST FOR LESS PAINTING AND DECORATING LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Best For Less Painting and Decorating Ltd., is appealing the Notice of Decision of the Minister of National Revenue confirming the Minister's assessment pursuant to the Excise Tax Act for net tax of $30,092.35[1] for the reporting period August 1, 2002 to July 31, 2003. The issue is whether Best For Less is deemed liable under subsection 191(1) of the Act for tax collected/collectible in respect of a newly constructed house registered in the company's name.
+[2] Best For Less became a GST registrant in 1992, with an annual return filing date of July 31st. It is a company through which its principal, Boris Isakovich, carried on his house painting business. Mr. Isakovich and his family have lived in the same neighbourhood in Calgary for several years. Throughout this time, Mr. Isakovich had had his eye on a nearby lot upon which he hoped to build a new home for his family. It had been vacant for some 17 years when in 2001, he and his wife finally decided to put in an offer. With the idea of taking advantage of the corporate discounts typically given by tradesmen and suppliers, Mr. Isakovich purchased the lot in his company's name. Mr. and Mrs. Isakovich put their savings of approximately $265,000 into the corporate account[2] to pay the purchase price of the lot of $115,000 and the subsequent construction costs. Construction began in May 2001. Mr. Isakovich did as much of the work on the house as he could but lacking some of the necessary equipment and expertise, had to hire others for such things as the pouring of the foundation, framing, roofing, heating, plumbing and drywalling. With its principal spending all of his time working on the house, Best For Less was unable to carry on its painting business and accordingly, had no income during the construction period. When Best For Less filed its annual GST returns for 2002 and 2003, it claimed ITC's in respect of the construction invoices as follows:
+Year
+Tax Collectible
+Input Tax Credits
+Net Tax
+2002
+$ 0.00
+$ 15,810.86
+($ 15,810.86)
+2003
+$ 0.00
+$ 2,107.65
+($ 2,107.65)
+This attracted the Minister's interest. The Best For Less file was assigned to GST auditor Helen Mah whose investigations revealed Best For Less to be the registered owner of the house in which the Isakovich family was living. She also confirmed that ITC's pertaining to its construction costs had been claimed in the company's annual GST returns but that there had been "no GST self-assessment". She and Mr. Isakovich met to review the company's books and records, which she described as "mainly purchase invoices". Informing Mr. Isakovich that these were "inadequate" for her needs, she asked him to provide her with an appraisal of the fair market value of the house and a copy of the house insurance. He refused. She advised Mr. Isakovich that in her opinion, Best For Less was liable for the GST under section 191 and the company was assessed accordingly.
+[3] Best For Less appealed the assessment under the Informal Procedure. Mr. Isakovich represented Best For Less and gave evidence on its behalf. English is not his first language. He was further hampered by the effects of a car accident which seems to have left him easily fatigued, and I noticed a certain slowness in speech and thought as the hearing progressed. In spite of these difficulties and the complexity of the legislative provisions, Mr. Isakovich presented his evidence in a clear and credible manner. Mr. Darcy Walls, C.A., the company's accountant, also testified and was straight-forward in the presentation of his evidence.
+[4] Best For Less argued that it was Mr. Isakovich personally who built the house. Best For Less played only a nominal role, acting as a conduit for invoices between Mr. Isakovich and the trades to obtain a better price for the supplies and services used.
+[5] It was the Crown's submission that under subsection 191(1) of the Act, Best For Less was deemed to have collected GST in an amount equal to 7 per cent of the fair market value[3] of the house. The Crown's submission was premised on the erroneous conclusion that mere proof of the Appellant's having claimed ITC's is sufficient to establish liability under subsection 191(1). As can be seen from the auditor's immediate request for documents to establish the property's value and the emphasis in the Crown's case on its expert witness's appraisal, the Minister went directly to the calculation of the quantum of the company's liability, without first determining the substantive underpinning for such liability under subsection 191(1):
+191.(1) Self-supply of single unit residential complex or residential condominium unit [on occupancy or lease of builder] - For the purposes of this Part, where
+(a) the construction or substantial renovation of a residential complex that is a single unit residential complex or a residential condominium unit is substantially completed,
+(b) the builder of the complex
+(i) gives possession of the complex to a particular person under a lease, licence or similar arrangement (other than an arrangement, under or arising as a consequence of an agreement of purchase and sale of the complex, for the possession or occupancy of the complex until ownership of the complex is transferred to the purchaser under the agreement) entered into for the purpose of its occupancy by an individual as a place of residence,
+(ii) gives possession of the complex to a particular person under an agreement for
+(A) the supply by way of sale of the building or part thereof in which the residential unit forming part of the complex is located, and
+(B) the supply by way of lease of the land forming part of the complex or the supply of such a lease by way of assignment,
+other than an agreement for the supply of a mobile home and a site for the home in a residential trailer park, or
+(iii) where the builder is an individual, occupies the complex as a place of residence, and
+(c) the builder, the particular person or an individual who is a tenant or licensee of the particular person is the first individual to occupy the complex as a place of residence after substantial completion of the construction or renovation,
+the builder shall be deemed
+(d) to have made and received, at the later of the time the construction or substantial renovation is substantially completed and the time possession of the complex is so given to the particular person or the complex is so occupied by the builder, a taxable supply by way of sale of the complex, and
+(e) to have paid as a recipient and to have collected as a supplier, at the later of those times, tax in respect of the supply calculated on the fair market value of the complex at the later of those times.
+[6] Subsection 191(1) is restricted in its application to a "builder"; that term is defined in subsection 123(1):
+123(1) Definitions - In section 121, this Part and Schedules V to X,
+...
+"builder" of a residential complex or of an addition to a multiple unit residential complex means a person who
+(a) at a time when the person has an interest in the real property on which the complex is situated, carries on or engages another person to carry on for the person
+...
+(iii) in any other case, the construction or substantial renovation of the complex,
+...
+but does not include
+(f) an individual described by paragraph (a), (b) or (d) who
+(i) carries on the construction or substantial renovation,
+(ii) engages another person to carry on the construction or substantial renovation for the individual, or
+(iii) acquires the complex or interest in it,
+otherwise than in the course of a business or an adventure or concern in the nature of trade,
+...
+[7] Only those who fall within the definition of "builder" are deemed to have made and received a taxable supply of the property under the so-called "self-supply rule" in subsection 191(1). Was Best For Less a "builder"? Best For Less, as the registered owner, had "an interest" in the house which was a "residential complex". Did the company "carry on" or "engage another to carry on" its construction? In this case, where the company and its principal are, practically speaking, one and the same, the difficulty is ascertaining in what capacity Mr. Isakovich was acting when he set about the building of the house: did he perform the task as Boris Isakovich the individual, on his own behalf; as Boris Isakovich the alter ego of Best For Less, carrying on the construction as the company; or as Boris Isakovich an another person engaged by Best For Less, to carry on the construction for the company?
+[8] I accept Mr. Isakovich's testimony that it was always his intention to build the house himself for his family's personal use. There was no dispute that the only business carried on by the company was painting houses[4]. There was no evidence of Mr. Isakovich individually, or of the company, having a "hidden agenda" to sell the house, nor of any history of such practices. This is not surprising given that the company's principal, Mr. Isakovich, lacked the equipment and expertise for such an enterprise. The corporate financial statements[5] showed no income during the construction period because, with Mr. Isakovich completely tied up building the house, there was no one available to carry on the company's house painting business. The house and lot were not listed as part of the corporation's inventory. The company's accountant testified that although the property was shown in the financial statements as an "asset", its value corresponded to the amount shown as owing to its shareholders, Mr. and Mrs. Isakovich, following the deposit in the corporate account of their savings to finance the construction. Finally, the Minister's assumption that Best For Less "... deducted the construction costs when determining its income for income tax purposes;"[6] was successfully shown to be inaccurate. It defies common sense to conclude that a house painting company with no history in construction would, through its principal, undertake to build a house that it could not itself occupy and which it did not intend to resell, especially when doing so meant putting out of commission its only means of carrying on its own business. There was no evidence of any express or implied contract between Best For Less and Mr. Isakovich pursuant to which he would build the house for the company, or be remunerated for his work, both of which would reasonably be expected where one party has "engaged" another to undertake a construction project of this magnitude. It would have been helpful to the Court to know how the ITC's came to be claimed but Mr. Isakovich was not asked about this on either direct or cross examination. In any event, taken as a whole, the evidence leads to the conclusion that it was Mr. Isakovich in his capacity as an individual who "carried on" the construction of the house.
+[9] For all of these reasons, I am unable to conclude that Best For Less "carried on" or "engaged another to carry on" the construction of the house. On a balance of probabilities, I am not satisfied that Best For Less was a "builder" under the Act; accordingly, the appeal is allowed and the assessment is referred back to the Minister for reconsideration and reassessment.
+Signed at Ottawa, Canada, this 3rd day of June, 2005.
+G. Sheridan
+Sheridan, J.
+CITATION: 2005TCC239
+COURT FILE NO.: 2004-3847(GST)I
+STYLE OF CAUSE: Best For Less Painting and Decorating Ltd. v. H.M.Q.
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: February 25, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice G. Sheridan
+DATE OF JUDGMENT: June 3, 2005
+APPEARANCES:
+Agent for the Appellant:
+Boris Isakovich
+Counsel for the Respondent:
+Lesley Akst
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Reply to the Notice of Appeal, Paragraph 9. The Minister's assessment was for net tax of $30,092.35 being the balance due after subtracting ITC's of $2,107.65 from the total GST collected/collectible.
+[2] Best For Less Financial Statements, Exhibits A-7 and A-8.
+[3] The Crown called Mr. David Y.T. Shum, AACI, P.App, CRA Appraisal Services Section, as an expert witness to present evidence of the fair market value of the property of $460,000.
+[4] Reply to the Notice of Appeal, subparagraph 8(i): "at all material times the Appellant was engaged in the commercial activity of painting the interiors and exteriors of houses;"
+[5] Exhibits A-7 and A-8.
+[6] Reply to the Notice of Appeal, subparagraph 8(ff).

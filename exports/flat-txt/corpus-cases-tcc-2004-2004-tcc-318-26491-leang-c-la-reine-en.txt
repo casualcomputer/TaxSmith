@@ -1,0 +1,220 @@
+Title: Leang c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26491/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-318-26491-leang-c-la-reine-en.md
+Document type: case_law
+Last modified: 2004-04-30
+
+# Leang c. La Reine
+
+- Citation: 2004 TCC 318
+- Decision date: 2004-04-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3239, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leang c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-30
+Neutral citation
+2004 TCC 318
+File numbers
+2001-3094(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2001-3094(IT)G
+BETWEEN:
+BUOR LEANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________
+Appeals heard April 7, 2004, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsels for the Appellant:
+Jacques Côté and
+Bernard Gaudreau
+Counsel for the Respondent:
+Marie-Aimée Cantin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments under the Income Tax Act for the 1996, 1997 and 1998 taxation years are allowed and the assessments including penalties are cancelled, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 30th day of April 2004.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 17th day of November 2004.
+Sharen Winkler Moren, Translator
+Citation: 2004TCC318
+Date: 20040430
+Docket: 2001-3094(IT)G
+BETWEEN:
+BUOR LEANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal concerning the 1996, 1997 and 1998 taxation years. The assessments were subject to penalties in accordance with subsection 163(2) of the Income Tax Act ("Act"). The assessments under appeal were calculated using the net worth method.
+[2] The appeal raises two questions. The first is determining whether the Appellant declared his total income and the second pertains to the merit of the penalties assessed under subsection 163(2) of the Act.
+[3] The Appellant's Notice of Appeal reads:
+[TRANSLATION]
+1. During the years at issue, the Appellant operated a restaurant under the company name Les Délices d'Angkor Enr.;
+2. Through income tax assessments dated May 12, 2000, for the 1996, 1997 and 1998 taxation years, the income declared for by the Appellant for the 1996, 1997 and 1998 taxation years was increased by $41,288, $26,213 and $62,344 respectively for additional income. In addition, penalties under subsection 163(2) of the Income Tax Act were assessed;
+3. In making these assessments, the Canada Customs and Revenue Agency auditor used the net worth method;
+4. During the years at issue, Mr. Pho Leang and his wife as well as Mr. Kim Leang, brothers of the Appellant, lived in the Appellant's home;
+5. For each of the years at issue, Mr. Pho Leang gave the Appellant amounts totalling $3,600 to help with household expenses and to help support their mother who also lived in the Appellant's home;
+6. For each of the years at issue, Mr. Kim Leang gave the Appellant amounts totalling $5,000 to help with household expenses and to help support their mother who also lived in the Appellant's home;
+7. In establishing the additional income for each of the taxation years at issue, the Canada Customs and Revenue Agency did not take into account said amounts given to the Appellant by his brothers, Pho Leang and Kim Leang;
+8. In order to help his brother, Kim Leang underwrote capital stock shares of Délices de Thaïlande Inc., the Appellant loaned this brother $5,000;
+9. The $5,000 loan was repaid to the Appellant with a payment of $2,000 in July 1996 as well as a payment of $3,000 in January 1997;
+10. In establishing the additional income for the 1996 and 1997 taxation years, the Canada Customs and Revenue Agency did not take into account said loan nor its repayment;
+11. During 1996, 1997 and 1998, Mr. Tho Leang, brother of the Appellant, gave amounts totalling $5,000, $6,000 and $7,000 respectively to the Appellant to help with expenses to support their mother as well as Pathraporn Chalearmkiet, the Appellant's and Tho Leang's niece, who lived in the Appellant's home;
+12. In establishing the additional income for the years at issue, the Canada Customs and Revenue Agency did not take into account the said amounts given by Tho Leang to the Appellant;
+13. Prior to 1996, the Appellant loaned $10,000 to his brother Tho Leang for the construction of his home;
+14. Said $10,000 load was repaid to the Appellant with a payment of $5,000 in 1996 as well as a payment of $5,000 in 1998;
+15. In establishing additional income for the years 1996 and 1998, the Canada Customs and Revenue Agency did not take into account said loan nor its repayment;
+16. In 1997, during a trip to Thailand, Ms. Wandee Wesarachanon gave the Appellant as well as Ms. Pathraporn Chalearmkiet sums totalling $20,000 in order to pay for a portion of the living and educational expenses of Ms. Pathraporn Chalearmkiet, her niece, who had come to Canada to study;
+17. In establishing the additional income for the years 1997 and 1998, the Canada Customs and Revenue Agency did not take into account said sums from Ms. Wandee Wesarachanon;
+18. In 1997, during a trip to Thailand, the Appellant's parent gave him $5,000 as a gift, which was deposited in his account in the National Bank of Canada during 1998;
+19. In establishing the additional income for the years 1997 and 1998, the Canada Customs and Revenue Agency did not take into account said sum of $5,000;
+20. Through his net worth for 1996, 1997 and 1998, the Canada Customs and Revenue Agency established the Appellant's personal expenses at $39,866.08, $54,811.45 and $47,228.26;
+21. The Appellant's personal expenses for the 1996, 1997 and 1998 taxation years amounted to $30,021, $40,190 and $32,581 respectively;
+22. The Appellant duly objected to the assessments for the 1996, 1997 and 1998 taxation years and on June 20, 2001, the Canada Customs and Revenue Agency issued new assessments reducing the additional income to $31,489 for 1996, $16,937 for 1997 and $51,740 for 1998;
+23. The Appellant is relying, inter alia, on sections 3 and 163(2) of the Income Tax Act, as applicable for the taxation years at issue;
+24. The Appellant argued that over the course of the taxation years at issue, he had received no income other than that duly declared in his tax returns, with the result that Customs and Revenue Canada was not justified in including any sums as additional income;
+25. The Appellant argued that he did not, knowingly or in circumstances amounting to gross negligence, file a false statement or make an omission in his income tax returns for the 1996, 1997, and 1998 returns and that consequently, the assessment of penalties under subsection 162(2) of the Income Tax Act was unjustified;
+26. The Appellant argues that the assessments were improper in fact and in law;
+[4] In reply to the Notice of Appeal, the Respondent admitted paragraphs 1, 2, 3, 20 and 22; he denied paragraphs 4 to 19, 21, 24 to 26 and added the following paragraphs:
+[TRANSLATION]
+18. He takes note of the statutory provisions in paragraph 23 of the Notice of Appeal.
+. . .
+20. During the taxation years at issue, the Appellant declared the following total income:
+Taxation years
+Income
+1996
+$11,005
+1997
+$10,360
+1998
+$20,732
+21. By Notice of Reassessment dated May 12, 2000, the Minister of National Revenue set the tax to be paid by the Appellant for the taxation years at issue. In order to do this, he added the following undeclared business income and assessed a penalty under subsection 163(2) of the Income Tax Act for each of the years:
+Taxation years
+Undeclared income
+1996
+$41,288
+1997
+$26,213
+1998
+$62,344
+22. By Notice of Objection dated July 17, 2000, the Appellant objected to the reassessment for the 1996, 1997 and 1998 taxation years.
+23. By Notice of Reassessment dated June 20, 2001, the Minister of National Revenue reduced the Appellant's undeclared business income by $9,800 in 1996, $9,276 in 1997 and $10,604 in 1998 and with regard to the difference, confirmed the reassessments that had been issued on May 12, 2000.
+24. In making the reassessments for the 1996, 1997 and 1998 taxation years, the Minister of National Revenue assumed, inter alia, the following:
+(a) during the taxation years at issue, the Appellant operated a restaurant under the business name "Les Délices d'Angkor Enr.";
+(b) when he filed his income tax returns for the 1996, 1997 and 1998 taxation years, the Appellant declared the following business income:
+Taxation year
+Gross business income
+Net business income
+1996
+$183,936
+$8,505
+1997
+$186,286
+$7,859
+1998
+$237,493
+$11,582
+(c) when the Appellant filed his income tax returns for the 1996, 1997 and 1998 taxation years, he did not declare his entire income;
+(d) following a net worth audit and an analysis at the time of the objection, the Minister observed respective discrepancies of $31,489 (1996), $16,937 (1997) and $51,740 (1998) with regard to the Appellant's capital reconciliation (a copy of the balance sheet and capital reconciliations prepared during the audit and a summary of the adjustments prepared at the time of the objections by the Minister's employees is attached to this Reply to the Notice of Appeal as Exhibits I-1 and I-2 respectively and are an integral part thereof);
+(e) the sums $31,489 (1996), $16,937 (1997) and $51,740 (1998) are income that the Appellant failed to declare and must be taken into consideration for the purpose of computing his income taxes for these same taxation years;
+(f) the Appellant knowingly or in circumstances amounting to gross negligence, made a false statement or omission on his income tax returns filed for the years 1996, 1997 and 1998.
+[5] The Appellant explained that he lived with his family in a large house with a number of bedrooms. During the years in question, there were a number of individuals living there: the Appellant, his mother, his wife, their two children, his two brothers and the wife of one of them, and a niece.
+[6] His mother was seriously ill. He and his wife both worked in the restaurant he owned located very near the family home. Most of the time, he and his wife ate at the restaurant.
+[7] Being unable to read or write French, he explained that more often than not, he had to turn to the individual who did the accounting to write the cheques he signed. He and his wife are very involved in operating his restaurant and they devoted six and often seven days a week to it.
+[8] The Appellant was head of this family. He provided a home for his mother whose health had seriously deteriorated and who needed care and constant attention. He also provided a home for his brothers and one brother's wife. Later, a niece came to live in his home.
+[9] To contribute to the expenses made for their mother and for room and board, one of his brothers was paying him $350 cash per month, or $4,200 per year, during the three years at issue. His other brother was paying him approximately $400 per month.
+[10] Both brothers came to confirm the fact that they had indeed paid the Appellant the sums in question for their lodging and as a contribution to the significant expenses arising from their mother's state of health. Their mother had special needs, such as an electric bed.
+[11] In general, the testimony was consistent with the content of the Notice of Appeal.
+[12] In order to justify recourse to the net worth method, Auditor Richard Guillet explained that the business's internal controls were weak. When he was asked how he had arrived at this conclusion, he explained that the Appellant occupied a dominant role in his business and that he assumed strategic duties, inter alia, looking after the cash register.
+[13] He also noted that the billing system was very odd in that they were bills that bore only a number. Thus, the bills could be reused.
+[14] On that basis, he did not think it was necessary to audit inventory or purchases; he performed an analysis by sampling the cash register tapes, which balanced. After a quick overview, he stated that he noticed nothing that was irregular or abnormal.
+[15] Since he was of the opinion that the internal control was unreliable, he decided to proceed using the net worth method. In order to do this, he questioned the Appellant and gave him a form that he had to complete in order to establish his net worth.
+[16] The auditor acknowledged that he received answers to all his questions in a cooperative atmosphere. Generally speaking, he obtained everything he asked for. In support of his claims regarding the sums received from the members of his family and Pathraporn Chalearmkiet's grandmother, the Appellant obtained various confirmations in writing from the individuals involved.
+[17] Because these were significant sums paid or received, usually in cash, the auditor decided that there was nothing conclusive in the absence of written evidence, such as a deposit, official receipt, a cheque, etc. He basically indicated that he was not a judge and did not have the power to assess the truthfulness of the explanations or justifications that were given to him.
+[18] As this file developed, certain information was changed or corrected. These changes, according to the Respondent's representatives, were flagrant contradictions and demonstrated as well that they could be false representations.
+[19] The outcome of this appeal rests basically on the credibility of the evidence. Assessing the credibility of testimony is not an easy task; I am continuously looking for a reliable recipe for doing so.
+[20] There are components that often allow satisfactory conclusions to be drawn. I refer, inter alia, to witnesses who have a selective memory or who have no memory at all, who avoid answering questions, who act as if they do not understand anything, those who repeatedly contradict themselves or other testimony submitted to support a file, I refer to the absence of witnesses, to wild and smart-alecky explanations, etc. In short, it is easier in some situations than in others to reach a conclusion regarding the quality of evidence.
+[21] When presenting his argument, the Respondent referred Léo Ducharme's, "Pièces de la preuve" and specifically to paragraphs 508, 509, 510 and 511, which read:
+[TRANSLATION]
+508. Section 2845 of the C.C.Q. simply says that the probative force of testimony per se is left to the appraisal of the court. This article says nothing about the fact that appraising testimony is first and foremost up to the trial judge to whom the trial of the cause comes. Having the benefit of seeing and hearing the witnesses, he is thus in a better position to judge the value that should be accorded to their statements.
+509. When it is a matter of assessing the validity of testimony, the factors governing the witnesses' credibility are what is important, in particular, the following factors: the witness's means of knowledge, his observation skills, his reasons for remembering, his experience, how good his memory is and his independence with regard to the parties in dispute. It falls to the person summoning a witness to demonstrate the factors that favour his credibility, and to the opposing party to bring unfavourable factors to light. These unfavourable factors could pertain to such things as the witness's morality. Therefore, in a particular case, a court accepted a witness's propensity for getting out of his tax obligations as a factor unfavourable to the witness's credibility.664
+510. We stress, however, that testimony that the judge considers false on one point must not necessarily be entirely dismissed.665 However, if a witness contradicts himself and even admits to having given an incorrect answer, that is sufficient reason for the judge to discount his testimony in the absence of corroboration.666
+511. Finally, let us state that the witness's behaviour is a factor which the judge must bear in mind. In Guay v. Dubreuil,667 it was deemed that the witness's attitude and stance during questioning, his way of answering, the feelings he showed during the hearing with regard to the defendant and his attempt to influence the judge outside the court were reasons which justified the judge in attaching less credibility to his testimony.
+664. B.C. c. Damas S.S. et les héritiers de Dame S.S., (1988) 12 C.A.Q. 266.
+665. Dallaire c. Commission des liqueurs du Québec, (1923) 35 K.B. 379.
+666. Chevalier v. Wilson, (1896) 10 S.C. 59.
+667. (1931) 37 R.L.n.s. 6 (S.C.).
+[22] I subscribe entirely and without reservation to this text. Moreover, in it I see an additional element for concluding that the testimonial evidence submitted by the Appellant is acceptable, truthful and overwhelming.
+[23] In the case at bar, the Appellant testified and had three of his brothers and a niece called. Each testified in the absence of the others. I gathered from the testimonial evidence that the explanations provided by the Appellant during the audit were always substantially the same, even if they were corrected with regard to certain aspects.
+[24] In general, the testimony was precise enough, but most of all, it was consistent with regard to its basic objective. All the witnesses answered without hesitation and were straightforward and credible. I saw or heard nothing such as to be dismissed in any of this testimony or any part thereof.
+[25] Obviously, I was able to observe that some explanations were corrected or changed. Once again, the witnesses involved once again provided reasonable clarifications.
+[26] According to the Respondent, in order to set aside or obscure certain facts or explanations regarding the deciding aspects of the file, I should rely on my intuition or doubts arising from a description of facts that was not absolutely perfect. I ought to assume that a cash payment or inflow is probably something dubious, reprehensible and unacceptable.
+[27] According to the Respondent, I should not retain the Appellant's evidence because the testimony is not trustworthy. In order to support her assessment, she relies inter alia on the following factors:
+· A number of significant receipts and disbursements of funds were made in cash;
+· There were changes and modifications to testimony regarding certain sums;
+· Net business income does not permit such a high standard of living;
+· The income does not permit the use and enjoyment of a luxury motor vehicle;
+· The capacity of the restaurant is sufficient to generate a much higher sales figure;
+· The amounts that the Appellant's brothers paid for room and board were absorbed by the expenses inherent to their occupation of the premises;
+· The dubious billing at the restaurant;
+· The lack of reliable internal control;
+· The impossibility of confirming the explanations submitted by the Appellant regarding the receipts and disbursements of funds in cash.
+[28] Certainly, like the Respondent, I noticed a few small inconsistencies and also some confusion. I was also able to observe that the Appellant and the members of his family had food and clothing needs that were rather modest except with regard to a motor vehicle that generally speaking requires resources greater than those declared.
+[29] On the other hand, the Appellant's evidence also revealed some points favouring his thesis. I highlighted some of them, which I list as follows:
+· The witnesses spoke in the absence of one another;
+· The explanations provided were consistent;
+· The explanations were also believable;
+· No witness avoided answering questions or acted as if he did not understand;
+· The answers given were given without hesitation;
+· The answers and explanations were clear;
+· Body language and verbal language were consistent;
+· The explanations and testimony given at the hearing were substantially similar to that given during the audit and repeated at the objection stage;
+· The auditor noticed nothing abnormal and acknowledged that the Appellant had cooperated fully;
+· The auditor had no grievance;
+· The Appellant can neither read nor write French; this explanation can not be used to justify the way in which the bills were done but can explain it;
+· The passage of time must be taken into account to explain or justify certain inconsistencies and confusion.
+[30] The list of grievances raised by the Respondent is relatively long. Are they sufficient to discredit the Appellant's evidence? I answer in the negative for the following reasons:
+· These are grievances based on intuition or pure speculation [e.g.: the restaurant's potential sales figure];
+· The quantity of objections does not automatically create quality;
+· It seems that the Respondent chose an overview approach rather than an approach in which she would have been able and would have had to obtain all the possible details that were likely available on some elements rather than believing that observation of a number of small details would have the same impact;
+· The much-debated changes or corrections of the versions to which the Respondent has accorded great significance are real, but are they serious to the point of justifying the pure and simple dismissal of the testimony involved?
+[31] Having maintained that he had repaid $5,000, the Appellant's brother stated that after a more extensive audit demanded by the Appellant, he had failed to convince those in charge of his file who were working for the Respondent. However, it was confirmed that he had indeed repaid $5,000, in two payments, i.e. one of $2,000 and the other of $3,000.
+[32] I do not claim that the burden of proof that was on the Appellant deserves a mark of 80 percent and more; I must decide on the basis of a preponderance of evidence and not dismiss the appeal for the simple reasons that the Appellant's evidence raised some doubts.
+Penalties
+[33] The penalties assessed were based on subsection 163(2) of the Act which reads:
+(2) False statements or omissions Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+. . .
+[34] I feel it is important to recall that the burden of proof, with regard to penalties, is on the Respondent. I cannot assess the quality of this evidence as there was none.
+[35] The only elements that might have led to the development of a beginning of such evidence were intuition, perception and an opinion that was neither supported not justified by the auditor.
+[36] Not only did he not set out any fact likely to demonstrate negligence or carelessness on the part of the Appellant, but he rather demonstrated the Appellant's cooperation and the fact that he had not been able to confirm some information. However, the auditor, Mr. Guillet, took no steps to confirm anything; he seemed to assume that the Appellant's explanations were dubious, given that significant transactions had taken place in cash.
+[37] This point could give rise to suspicions but was certainly neither sufficient nor conclusive to justify the assessment of penalties, especially because those who took part in the transactions were known, had known addresses and had even provided their version of the facts confirming the Appellant's version.
+[38] For all these reasons, the appeal is allowed and the assessments, including the penalties, are cancelled, with costs.
+Signed at Ottawa, Canada, this 30th day of April 2004.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 17th day of November 2004.
+Sharen Winkler Moren, Translator

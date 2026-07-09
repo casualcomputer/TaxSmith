@@ -1,0 +1,195 @@
+Title: Aessie c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26423/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-421-26423-aessie-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-06-14
+
+# Aessie c. La Reine
+
+- Citation: 2004 CCI 421
+- Decision date: 2004-06-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3174, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aessie c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-14
+Référence neutre
+2004 CCI 421
+Numéro de dossier
+2003-4482(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-4482(IT)I
+ENTRE :
+ALBERT J. AESSIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 4 juin 2004 à Saskatoon (Saskatchewan)
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Anne Jinnouchi
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999 et 2000 sont admis et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux présents motifs du jugement.
+Une somme de 100 $ est adjugée à l'appelant au titre des débours qu'il a engagés dans le cadre de son appel.
+Signé à Calgary (Alberta), ce 14e jour de juin 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 26e jour de novembre 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2004CCI421
+Date : 20040614
+Dossier : 2003-4482(IT)I
+ENTRE :
+ALBERT J. AESSIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel interjeté par la voie de la procédure informelle a été entendu à Saskatoon, en Saskatchewan, le 4 juin 2004. L'appelant a été le seul témoin.
+[2] Les paragraphes 1 à 11 et l'introduction de la réponse à l'avis d'appel nous donnent un aperçu de la question en litige :
+[TRADUCTION]
+En réponse à l'avis d'appel pour les années d'imposition 1999 et 2000, le sous-procureur général du Canada déclare ce qui suit :
+A. EXPOSÉ DES FAITS
+1. À l'égard de l'avis d'appel, il admet :
+a) que l'appelant est un comptable agréé qui travaille à son compte en offrant au public des services de comptabilité;
+b) que l'appelant offre ses services à partir de sa résidence;
+c) que la conjointe de l'appelant participe à l'entreprise de comptabilité de ce dernier en s'acquittant de fonctions administratives;
+d) que l'appelant a déduit les honoraires de 34 500 $ et de 38 000 $ relatifs aux services fournis par sa conjointe pour les années d'imposition 1999 et 2000, respectivement;
+e) que l'appelant a déclaré des dépenses de 7 651,83 $ et de 8 224,36 $ pour l'usage professionnel de sa résidence pour les années d'imposition 1999 et 2000, respectivement;
+f) que l'Agence des douanes et du Revenu du Canada (l' « ADRC » ) a rejeté les dépenses suivantes relatives à l'usage professionnel de la résidence de l'appelant, soit 5 654 $ pour 1999 et 6 057 $ pour 2000, en application de l'alinéa 18(1)a) de la Loi de l'impôt sur le revenu (la « Loi » ).
+2. À l'égard de l'avis d'appel, il nie :
+a) que l'appelant fournit des services à temps plein, de manière régulière et continuelle;
+b) que l'ADRC a rejeté tous les frais de gestion dépassant 8 850 $ pour les années d'imposition 1999 et 2000.
+3. Le reste de l'avis d'appel contient les motifs et les arguments de l'appel et ne contient pas d'autres faits pertinents pouvant être admis ou rejetés. Dans l'éventualité où il contiendrait d'autres faits pertinents, ces derniers sont niés.
+4. Les déclarations de revenu pour les années 1999 et 2000 ont fait l'objet d'une première cotisation le 8 juin 2000 et le 25 juin 2001, respectivement.
+5. Dans le calcul de son revenu pour les années d'imposition 1999 et 2000, l'appelant a déclaré des dépenses d'entreprise de 54 629 $ et 58 047 $, respectivement, notamment :
+1999
+2000
+Frais de gestion et d'administration
+34 500 $
+38 000 $
+Frais de bureau à domicile
+7 651
+8 224
+6. Au moyen des avis de nouvelles datés du 9 août 2002, le ministre du Revenu national (le « ministre » ) a rejeté les dépenses d'entreprise de 35 706 $ et 38 567 $ pour les années d'imposition 1999 et 2000, respectivement. Parmi les dépenses qui ont été rejetées se trouvent les frais de gestion et d'administration et les frais de bureau à domicile, conformément à l'annexe A jointe à la réponse à l'avis d'appel et en faisant partie (ci-après « annexe A » ) :
+1999
+2000
+Frais de gestion et d'administration
+25 650 $
+29 150 $
+Frais de bureau à domicile
+5 654
+6 057
+Le ministre estimait que les frais de gestion et d'administration rejetés n'étaient pas raisonnables dans les circonstances, au sens de l'article 67 de la Loi de l'impôt sur le revenu (la « Loi » ) et que les frais de bureau à domicile n'ont pas été engagés ou effectués en vue de tirer un revenu d'une entreprise ou d'un bien aux termes de l'alinéa 18(1)a) de la Loi mais qu'il s'agit de frais personnels ou de subsistance aux termes de l'alinéa 18(1)h) de la Loi.
+7. L'appelant a déposé un avis d'opposition à l'égard des nouvelles cotisations qu'il a reçues le 1er octobre 2002.
+8. Le ministre a ratifié les cotisations au moyen de l'envoi d'un avis de ratification daté du 17 septembre 2003.
+9. En établissant les nouvelles cotisations à l'égard de l'appelant pour les années 1999 et 2000, le ministre à tenu pour acquis les faits suivants :
+a) l'appelant est un comptable agréé qui exploite un cabinet comptable (le « cabinet comptable » );
+b) le cabinet comptable était exploité comme une entreprise individuelle;
+c) le cabinet comptable se consacrait à la préparation de déclarations de revenu de fin d'exercices pour le compte de 20 à 30 clients qui étaient des entreprises; tous les autres clients étaient des particuliers;
+Bureau à domicile
+(d) l'appelant a déclaré les frais de bureau à domicile suivants pour le compte du cabinet comptable pour les années d'imposition 1999 et 2000 :
+1999
+2000
+Frais de bureau à domicile (annexe A)
+7 651 $
+8 224 $
+e) le cabinet comptable était exploité à partir de la résidence principale de l'appelant, située au 133 Columbia Drive à Saskatoon, en Saskatchewan;
+f) une société de personnes agricole et au moins une personne morale sont également exploitées à partir de la résidence de l'appelant;
+g) parfois, l'appelant utilisait sa salle de séjour pour recevoir ses clients;
+h) quelques-uns des clients de l'appelant sont aussi ses amis personnels;
+i) la plus grande partie des rencontres avec ses clients avaient lieu dans des restaurants;
+j) au plus 50 p. 100 des frais de téléphone résidentiel de l'appelant étaient engagés en vue de tirer un revenu du cabinet comptable, pour les années d'imposition 1999 et 2000;
+k) les frais de câblodistribution et ceux relatifs au chalet de l'appelant au lac McPhee constituent des frais personnels et de subsistance de l'appelant;
+l) des frais de bureau à domicile d'au plus 1 997 $ et 2 167 $ ont été engagés par l'appelant en vue de tirer un revenu du cabinet comptable pour les années d'imposition 1999 et 2000, respectivement, conformément à l'annexe A;
+m) au plus 17 p. 100 de la superficie utile en pieds carrés de la résidence de l'appelant est consacrée à l'exploitation du cabinet comptable, conformément à l'annexe B jointe à la réponse à l'avis d'appel et en faisant partie (ci-après l' « annexe B » );
+Frais de gestion et d'administration
+(n) l'appelant a déclaré le revenu brut suivant découlant du cabinet comptable :
+1999
+2000
+Revenu brut
+55 320 $
+57 825 $
+o) l'appelant a déclaré les frais de gestion et d'administration suivants du cabinet comptable pour les années d'imposition 1999 et 2000 :
+1999
+2000
+Frais de gestion et d'administration
+34 500
+38 000
+p) l'appelant a versé des frais de gestion et d'administration à Mayday Management Incorporated (ci-après « Mayday » );
+q) l'épouse de l'appelant, Wendy, et la soeur de cette dernière sont des actionnaires à parts égales de Mayday;
+r) Wendy fournissait les services administratifs pour le compte de Mayday;
+s) les frais de gestion et d'administration versés à Mayday par l'appelant étaient fondés sur les rentrées de fonds disponibles et la planification fiscale de l'appelant;
+t) les services administratifs fournis par Wendy au cabinet comptable étaient les suivants :
+Réception - répondre au téléphone, recevoir les clients;
+Dactylographie;
+Organisation, révision et envoi par courrier des déclarations de revenus;
+Photocopier, classer, télécopier, organiser les dossiers;
+Courrier - arrivées et envois;
+Rentrées de fonds, y compris les dépôts bancaires;
+Papeterie - achat et approvisionnement de fournitures de bureau;
+Relations publiques;
+Consultation;
+Autres services administratifs.
+u) le cabinet comptable n'avait pas besoin de ces services administratifs à temps plein;
+v) les dépôts bancaires pour le compte du cabinet bancaire n'étaient effectués que deux fois par semaine;
+w) les services de réponse téléphonique étaient fournis par l'appelant, Wendy ou au moyen d'un répondeur téléphonique;
+x) Wendy ne possède aucune formation officielle en comptabilité;
+y) Mayday n'offre pas de services comptables;
+z) les montants déclarés par l'appelant pour avoir fourni des services comptables dans son cabinet comptable sont les suivants :
+1999
+2000
+Bénéfice brut
+(1 522 $)
+677 $
+aa) 8 850 $ des frais de gestion et d'administration d'au plus pour les années d'imposition 1999 et 2000
+étaient raisonnables dans les circonstances.
+B. QUESTIONS EN LITIGE
+10. Les questions en litige sont les suivantes :
+(a) des frais de bureau à domicile dépassa le montant reconnu par le ministre ont-ils été engagés en vue de tirer un revenu d'une entreprise ou d'un bien?
+(b) les frais de gestion et d'administration dépassa le montant reconnu par le ministre sont-ils raisonnables dans les circonstances?
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES ET MESURES DE REDRESSEMENT SOLLICITÉES
+11. Il se fonde sur les articles 3, 9 et 67, les paragraphes 18(12) et 248(1) et les alinéas 18(1)a) et 18(1)h) de la Loi dans sa version modifiée pour les années d'imposition 1999 et 2000.
+[3] Les hypothèses de fait aux sous-paragraphes 9a), b), d), e), g), h), i), j), k), m), n), o), p), q), r), t), v), w), x), y) et z) n'ont pas été réfutées. Voici l'examen des autres hypothèses de fait :
+(c)
+L'appelant préparait des déclarations de revenu et fournissait des conseils en la matière pour le compte de 32 clients qui étaient des entreprises et de 284 et 285 particuliers en 1999 et en 2000, respectivement. Pendant les années en question, il gérait sa ferme ainsi que les biens et l'entreprise distincts d'une autre société appelée « Loumar » .
+f), l) et m) Deux sociétés distinctes, l'entreprise agricole de l'appelant (et de sa conjointe) et son cabinet comptable, ainsi que sa résidence se trouvaient au 133 Columbia Drive. L'appelant a décrit en détail l'utilisation comptable des lieux, mais il n'a pas donné de détails au sujet des autres utilisations des lieux. En moyenne, le cabinet comptable utilisait au plus un cinquième de la résidence. Sans autres éléments de preuve, corroborés portant sur l'utilisation de la résidence située au 133 Columbia Drive par les quatre autres entités, la preuve dont est saisie la Cour ne permet pas de réfuter les hypothèses l) et m). Pour cette raison, l'évaluation des frais de bureau à domicile est considérée valide et cette partie de l'appel est rejetée.
+s) L'appelant a témoigné qu'une partie de la gestion et de l'administration dépendait de la planification fiscale. Rien dans la preuve ne concerne le concept des « rentrées de fonds » .
+u) Le cabinet comptable ne fonctionnait pas à temps plein. Mayday n'utilisait pas d'ordinateur. Wendy, en sa qualité d'employée de Mayday, tapait les déclarations et les états financiers au moyen d'une machine à écrire électrique IBM.
+aa) Cette hypothèse est la question du litige qu'il faut trancher.
+[4] On ignore l'identité des administrateurs de Mayday, mais l'épouse de l'appelant et la soeur de cette dernière en sont les actionnaires. Par conséquent, l'appelant et Mayday sont des personnes liées entre elles aux termes de l'alinéa 251(2)b). Elles sont alors réputées avoir entre elles un lien de dépendance selon l'alinéa 251(1)a). Wendy est la seule personne qui travaille auprès du cabinet comptable de l'appelant pour le compte de Mayday.
+[5] En outre, le montant que l'appelant paye à Mayday pour chacun de ces services est approximativement 3 000 $ par mois, et ces services sont rendus pour le bénéfice des clients de l'appelant, que ce dernier soit présent ou non à son lieu de travail. L'appelant n'est tenu de payer aucune autre somme, notamment des cotisations au Régime des pensions du Canada, à l'assurance-emploi ou à la commission des accidents du travail. Il n'est pas tenu de payer non plus la rémunération prescrite par la loi pour les congés de maladie ou les jours fériés. Tous ces paiements constituent des fardeaux financiers importants pour un homme d'affaires et l'appelant a été en mesure de faire des économies grâce à son contrat conclu avec Mayday.
+[6] En outre, quelqu'un doit être disponible pour recevoir les clients lorsque l'appelant s'occupe de l'une de ses autres entreprises.
+[7] Enfin, il convient de noter que beaucoup de professionnels et d'hommes d'affaires gagnent moins d'argent en exploitant leurs entreprises que ne le font leurs secrétaires. Souvent, cela arrive parfois. Parfois, cela arrive souvent.
+[8] La relation d'affaires entre l'appelant et Mayday est une relation fréquente et raisonnable qui n'a rien d'extraordinaire ou d'inconvenant dans le cadre des affaires. Il n'est pas approprié que la Cour s'immisce dans ce contrat. Par conséquent, l'appel en la matière est advis.
+[9] L'affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux présents motifs. Une somme de 100 $ est adjugée à l'appelant au titre des débours qu'il a engagés dans le cadre de son appel.
+Signé à Calgary, Alberta, ce 14e jour de juin 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 26e jour de novembre 2004.
+Ingrid B. Miranda, traductrice

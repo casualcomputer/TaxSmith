@@ -1,0 +1,137 @@
+Title: Scott v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28266/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-610-28266-scott-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-06-26
+
+# Scott v. The Queen
+
+- Citation: 2007 TCC 610
+- Decision date: 2007-06-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2047, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scott v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-26
+Neutral citation
+2007 TCC 610
+File numbers
+2005-2462(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+2005-2462(IT)I
+Citation: 2007TCC610
+IN THE TAX COURT OF CANADA
+IN RE: THE INCOME TAX ACT
+BETWEEN:
+DEBBIE SCOTT
+APPLICANT
+- and –
+HER MAJESTY THE QUEEN
+RESPONDENT
+__________________________________________________________
+HEARD BEFORE: The Honourable Justice Diane Campbell
+PLACE HEARD: Charlottetown, Prince Edward Island
+DATE HEARD: Tuesday, June 26, 2007
+COUNSEL: Ms. Debbie Scott
+Self-represented
+Ms. Deanna M. Frappier
+Solicitor for the Respondent
+THE REGISTRAR: Ms. Patricia Cantle
+__________________________________________________________
+Recorded by:
+Drake Recording Services Limited
+1592 Oxford Street
+Halifax, NS B3H 3Z4
+Per: Patricia Cantle, CCR
+I N D E X O F P R O C E E D I N G S
+PAGE NO.
+CAMPBELL, J. (ORAL REASONS)............................. 3
+CAMPBELL, J. (Orally): Let the record show that I am delivering oral judgment in the matter of Debbie Scott which I heard yesterday morning.
+In respect to the 2002 taxation year, the Appellant claimed as a deductible medical expense the amount of $12,900.00, being the cost of tuition fees paid on behalf of her son, Matthew, to attend Rothesay Collegiate School, a private school in Saint John, New Brunswick.
+The Minister of National Revenue (the “Minister”) reassessed the Appellant on the basis that the amount claimed was not a deductible medical expense, pursuant to paragraph 118.2(2)(e) of the Income Tax Act (the Act”).
+According to the Appellant’s evidence her son was diagnosed with several learning disabilities and behavioural problems when he was in Grade 3. Mrs. Scott stated that he coped well from Grades 1 through 6, but remained socially an outcast with no friends. Homework, that should take 15 minutes for any other student, would take up to two to three hours to complete at home.
+In Grade 7 he was subjected to a different program involving different teachers and subjects, with books kept in his locker instead of readily available to him at his desk. This new setting presented
+organizational issues with attendant adjustment and behavioural problems. This had a domino effect because of his inability to organize himself and focus on essential school tasks which translated to suspensions of varying lengths from school. Medication was prescribed for the obsessive compulsive behaviours, but the side effects were severe.
+When the Appellant first heard about Rothesay Collegiate, now known as Rothesay Netherwood, she obtained feedback on this school from teachers, other parents and students, as well as Dr. Mitchell Zelman, Matthew’s pediatrician. She was informed that the school had some successes with other individuals with disabilities similar to Matthew’s. She investigated other schools in Prince Edward Island, but found only two private schools which had religious affiliations, that could not offer support programs for Matthew’s behavioural and social issues.
+The Appellant’s evidence was that Rothesay provided smaller class size and therefore smaller student/teacher ratios. In fact, when Matthew attended Grade 8 at Rothesay there were only seven other students in his classroom. This provided increased daily supervision. There were daily meetings with an advisor as well. Matthew was assisted both socially and academically at the school. He resided in a residence where teachers were available almost constantly. His homework was supervised nightly. According to the Appellant, this environment provided the essential structure and control over his behaviour within which Matthew could progress both socially and academically.
+Dr. Mitchell Zelman is Matthew’s pediatrician. He was qualified as an expert witness. He sees approximately 20 families weekly who have children with attention deficit disorders, plus behavioural problems. When he initially diagnosed Matthew with attention deficit disorder, he also suspected other disabilities and behavioural problems. He suggested that Matthew also see the school’s psychologist. In addition to the attention deficit disorder and auditory processing disorder, Matthew suffers from obsessive compulsive disorder, as well as associated behavioural issues.
+Dr. Zelman described attention deficit disorder as basically being able to hear the information, but the inability to then understand and process it, or to know what to do with it. He stated that this presents particular problems for such individuals in the regular classroom setting but that there are schools that deal with this type of learning disability and that one such school in 2002 was Rothesay. His evidence was that he discussed the possibility of Rothesay with the Appellant because he recognized that such individuals can benefit from this type of academic setting.
+Dr. Zelman was aware that Rothesay provided a unique setting prior to his discussions with the Appellant as he had knowledge of the school’s reputation from conferences he attended, discussions with other doctors and discussions with other parents who had enrolled their children there. According to his evidence it was not only the small classroom setting (which could also be offered at other private schools) but the constant tracking and monitoring of students by advisors, for example, in respect to medication trials, that was the advantage of such a school. This method facilitated continuing contact and monitoring between the outside doctor and the school advisor.
+The third and final witness was Paul Kitchen, the head of the school at Rothesay. He referred to Rothesay as an independent school with charitable status but not a private school. He testified that Rothesay can accommodate students with a variety of, as he put it, “learning styles”. He gave the example of a former student who was accommodated in writing exams where it took him up to eight hours to complete. This student is now an engineering graduate. It is not specifically a specialized school for the learning disabled but he stated that the programs offered at Rothesay do help those with such issues. Teachers were not required to have specialized training to deal with individuals with learning disabilities but they are exposed to training through speakers and they are given assistance to set up better programs for such students.
+In addition, house parents are located in each of the four residences. They are generally teachers who reside on campus. In 2002 Matthew’s house parent was also a registered nurse. They all have basic medical background in first aid and emergency training. Classroom size is kept small and each student also has an assigned supervisor who is generally an older Grade 12 student. They act as a “cheerleader” and mentor to the student and meet regularly with the teachers to discuss their student’s progress and to initiate and implement new plans and programs for that student.
+And finally there was a personal homework coach for each student in residence. He explained that faculty continually, as he called it, did loops around the residence floors and rooms in the evenings to ensure that students were working on homework assignments.
+Mr. Kitchen also testified that the school was asked by the Appellant to assist with professional testing of Matthew. Ultimately this testing required a doctor’s request to complete as the school would not act upon the parents’ request alone. The surveys and tests required teacher participation and were completed over a six to eight week period. If I understand his evidence correctly, the testing of Matthew occurred on two separate occasions and involved approximately seven to eight teachers.
+Now I turn to my analysis in this appeal. There is only one issue to be decided and that is whether the Appellant is entitled to claim as a deduction a medical expense, being the cost of the tuition paid to Rothesay in 2002, pursuant to paragraph 118.2(2)(e) of the Act. That paragraph states the following, and I quote:
+“For the purposes of subsection (1), a medical expense of an individual is an amount paid
+…
+(e) for the care, or the care and training, at a school, institution or other place of the patient, who has been certified by an appropriately qualified person to be a person who, by reason of a physical or mental handicap requires the equipment, facilities or personnel specially provided by that school, institution or other place for the care, or the care and training, of individuals suffering from the handicap suffered by the patient;”
+Respondent counsel referred me to the case of Collins v. The Queen, [1998] T.C.J. No. 396, where at paragraph 20 the Court set out the four criteria to be met under this provision. Respondent counsel advised me that only the third and fourth factors were at issue and I therefore conclude that the implication is that the Appellant satisfied the first two requirements. That is, she had paid an amount for the care or care and training at the school and that Matthew does, indeed, suffer from a mental handicap.
+The third criteria states and I quote from that case:
+“The school … must specially provide to the patient suffering from the handicap, equipment, facilities or personnel for the care or care and training of other persons suffering from the same handicap”.
+Respondent counsel argued that Mr. Kitchen’s evidence supported that Rothesay did not provide special training to its staff to deal with students with learning disabilities and that it did not provide facilities or programs specific to their needs other than the same programs it provided to every other student.
+I disagree with the Respondent’s interpretation of Mr. Kitchen’s evidence. Rothesay was a school that did not happen to enrol Matthew by accident. They were aware of his special needs and in fact, Rothesay was set up to accommodate such students, as Mr. Kitchen put it and I quote “with different learning styles”. His evidence was that Rothesay was not a school exclusively for the learning disabled but the school’s programs were able to adapt to and accommodate such individuals and in the end Rothesay had a track record of assisting them. As Dr. Zelman put it and I quote, “Rothesay had a history of dealing with them very nicely”. To the school’s credit their philosophy of students committing to do their best within their capabilities encouraged the more challenged students to integrate with the academically gifted students. This was clearly exhibited in the student mentor program where older students acted as cheerleaders. Although the programs were not specifically designed for students such as Matthew, they were progressive and forward enough thinking that they could accommodate those with attention deficit disorder and those struggling with other learning and organizational disabilities.
+According to Mr. Kitchen’s evidence and the examples of the past successes within the school, students evolve academically and socially within their own set of limitations. This was particularly true for Matthew, who according to his mother, was given the essential structure, discipline and guidance to progress to the point both socially and academically, where he has just recently as of yesterday, graduated from Grade 12.
+According to Mr. Kitchen’s evidence there was continuous monitoring of Matthew’s homework, his progress, new programs were created and implemented for him through consultation between his teachers and individual advisor and finally, testing, specifically tailored to Matthew, was completed by teachers under the guidance of Matthew’s outside physician. As Mr. Kitchen stated, this testing involved and I quote “an incredible number of hours” and Mr. Kitchen’s evidence indicated that Matthew was not the only student for whom they had completed testing for an outside physician.
+In addition, the staff did receive some training through speakers and seminars which Mr. Kitchen likened to professional development. He did not provide me with a great deal of specifics but I am satisfied that the staff did receive training in order to be in a position to deal with special needs students that Rothesay was in the habit of accepting into its programs.
+Certainly the school took charge of this young boy and provided care to him in a residence setting on a 24/7 basis over the academic school year. Teachers lived in the residences and the evidence supports that such students were given a great deal of individual attention and monitoring.
+Although the programs were not specifically designed for special needs students, they were certainly capable of successfully adapting to their needs. It was unclear from the evidence why or just how these programs are successful at accommodating all types of students but successful they are. It may be a combination of the daily structured aspect, the constant supervision and involvement of older students as well as staff with the students and the philosophy of the school of working under the guidance of outside physicians. The school had a reputation for taking on the challenge of these students where the regular school system had failed them.
+I am satisfied therefore that Rothesay provided Matthew with the facilities, programs and personnel for both his care and training requirements as well as the care and training of persons suffering from similar mental handicaps.
+The fourth requirement, which the Respondent counsel contends has not been satisfied, states as follows and I quote again from the Collins case:
+“An appropriately qualified person must certify the mental or physical handicap is the reason the patient requires that the school specially provide the equipment, facilities or personnel for the care or the care and training of individuals suffering from the same handicap.”
+The issue here is whether Dr. Zelman certified Matthew as requiring the special training offered at Rothesay. There is no requirement under paragraph 118.2(2)(e) that this certification be in writing or any other special format. In fact, I had the benefit of hearing Dr. Zelman’s evidence rather than reading a form he completed and submitted into evidence or a brief letter he composed in the run of a busy day. I had the unique benefit of having Dr. Zelman before me. In addition, the Appellant offered Dr. Zelman as an expert witness in the area of pediatrics and learning disabilities and with the consent of Respondent counsel he was accepted as such.
+Dr. Zelman had prior knowledge of Rothesay as a destination for individuals with learning and behavioural problems. His knowledge was gained at medical conferences and from discussions with other doctors and parents. It is clear from his evidence that he endorsed Rothesay as an appropriate learning centre with the capabilities to adequately address and assist with Matthew’s problems and mental handicaps.
+He confirmed his diagnosis of attention deficit disorder and associated behavioural issues and according to his expert testimony he considered that Matthew could benefit from this type of structured setting. He stated that Rothesay had a reputation in the medical community for assisting and dealing with individuals with learning disabilities and on this basis he recommended it to the Appellant.
+In this vein, I believe he was certifying or representing this school to the Appellant or vouching that this school could benefit Matthew based on the school’s track record in the medical community. Of course, I do not believe he could guarantee it as an absolute cure all to the Appellant any more than he could recommend another program at another school or medication that would guarantee a resolution to Matthew’s issues.
+I believe we have to be practical here. I do not believe the provision was meant to be interpreted as restrictively as Respondent counsel perhaps submits. If it were, there would be very few, if any, programs in any school that would fit the bill in cases such as this one so as to allow the deduction.
+Contrary to submissions that allowing the appeal may open the floodgates to others, I believe that each case must be decided on its merits as attention deficit disorders are not all alike in severity and not all of them may necessarily constitute and qualify as a medical handicap.
+In any event, I am simply concerned with this appeal and the facts in this appeal. I am satisfied that this fourth criteria has also been met. I accept the expert evidence of Dr. Zelman and conclude that his recommendation of Rothesay to the Appellant qualified as his certification of the school as a positive potential for assisting in, not curing, Matthew’s disabilities to enable him to develop the social and academic skills to be, as Mr. Kitchen stated, the best he can be within those limitations.
+Accordingly, the appeal is allowed to entitle Mrs. Scott, the Appellant, to claim the cost of the tuition fees paid to Rothesay in the 2002 taxation year pursuant to paragraph 118.2(2)(e) of the Act.
+(MATTER CONCLUDES)
+CERTIFICATE OF COURT TRANSCRIBER
+We, Philomena Drake and Sandy Adam, Court Transcriber, hereby certify that I have transcribed the foregoing and that it is a true and accurate transcript of the evidence in this matter, Debbie Scott, (Appellant) v. Her Majesty The Queen (Respondent), taken by way of electronic recording.
+________________________________
+Philomena Drake, 2006-18
+Sandy Adam, 2006-34
+Certified Court Reporters
+Halifax, Nova Scotia
+Friday, October 12, 2007
+CITATION:
+2007TCC610
+COURT FILE NO.:
+2005-2462(IT)I
+STYLE OF CAUSE:
+Debbie Scott and
+Her Majesty the Queen
+PLACE OF HEARING:
+Charlottetown, Prince Edward Island
+DATE OF HEARING:
+June 25, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF ORAL JUDGMENT:
+June 26, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Deanna M. Frappier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

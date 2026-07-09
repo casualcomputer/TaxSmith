@@ -1,0 +1,328 @@
+Title: 1089391 Ontario Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/488929/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-129-488929-1089391-ontario-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-11-19
+
+# 1089391 Ontario Inc. v. The Queen
+
+- Citation: 2020 TCC 129
+- Decision date: 2020-11-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4646, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1089391 Ontario Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-11-19
+Neutral citation
+2020 TCC 129
+File numbers
+2016-4905(GST)G
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-4905(GST)G
+BETWEEN:
+1089391 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 8, 2019, at Toronto, Ontario, and Written Submissions Received on October 10, 2019, November 15, 2019 and December 5, 2019
+By: The Honourable Justice Don R. Sommerfeldt
+Appearances:
+Counsel for the Appellant:
+Louise R. Summerhill,
+Monica Carinci (Student-at-law)
+Counsel for the Respondent:
+Kieran Lidhar, Michael Ezri
+JUDGMENT
+The Appeal is dismissed.
+If the parties are unable to reach an agreement in respect of costs within 30 days from the date of this Judgment, the Respondent may, within the ensuing 30 days thereafter, file a written submission on costs, and the Appellant shall thereafter have yet a further 30 days to file a written response. Any such submissions shall be limited to five pages in length.
+Signed at Edmonton, Alberta, this 19th day of November 2020.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+Citation: 2020 TCC 129
+Date: 20201119
+Docket: 2016-4905(GST)G
+BETWEEN:
+1089391 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sommerfeldt J.
+I. INTRODUCTION
+[1] These Reasons pertain to the Appeal of 1089391 Ontario Inc. in respect of an assessment (the “Rental Property Rebate Assessment”), as set out in a notice of assessment dated December 19, 2014 (the “Rental Property Rebate Notice of Assessment”), [1] issued by the Canada Revenue Agency (the “CRA”) on behalf of the Minister of National Revenue (the “Minister”). The CRA issued the Rental Property Rebate Notice of Assessment in response to a GST/HST New Residential Rental Property Rebate Application (Form GST524) (the “Rental Property Rebate Application”), [2] which was dated December 5, 2014.
+[2] The facts of this Appeal are not in dispute. In fact, the Respondent has not denied any of the 13 paragraphs under the heading “Statement of Facts” in the Appellant’s Notice of Appeal. Those paragraphs are:
+The Appellant is a corporation created under the laws of Ontario. Dominic and Zilla Parker were the initial shareholders and directors.
+On or about November 20, 2010 the Appellant entered into an agreement of purchase and sale with 2 Eastern Avenue Inc. (“Eastern”) to purchase a residential condominium unit.
+The purchase of the unit was closed on or about October 4, 2012. At the time of closing the Appellant filed with Eastern Form GST190, being the GST/HST New Housing Rebate Application for houses purchased from a builder. The Appellant was credited for the new housing rebate, which was assigned to Eastern.
+The Appellant purchased the property for rental purposes and did, in fact, rent the unit out on a long term basis. Accordingly, the Appellant was not entitled to the new housing rebate, but rather the new residential rental property rebate (the “Rental Rebate”). [3]
+The Appellant’s rental activities were managed by Dominic Parker.
+On or about February 28, 2013 the Canada Revenue Agency advised the Appellant that the new housing rebate was disallowed. At that time the Appellant, by its principal director, Dominic Parker, became aware that Form GST524 should have been filed in order to claim the Rental Rebate under section 256.2 of the ETA.
+Pursuant to ss. 256.2(7) of the ETA, the application for the Rental Rebate was due to be filed by October 31, 2014.
+Mr. Parker was well aware that the Rental Rebate was required to be filed by October 31, 2014 and fully intended to make the filing.
+On or about September 14, 2013 Mr. Parker was attacked in a random act of violence and died from his injuries on September 16, 2013.
+Ms. Parker became aware of the need to file the Rental Rebate application on or about November 25, 2014 when Eastern advised her that the new housing rebate had been disallowed by the CRA and sought to recover the amount that had been credited to the Appellant in October, 2012.
+The Appellant filed the Rental Rebate application on or about December 5, 2014. The Rental Rebate was denied by notice of assessment December 19, 2014.
+On or about July 27, 2015 the Appellant filed a notice of objection.
+On August 16, 2016 the CRA issued a notice of confirmation denying the Rental Rebate on the basis that the application was late filed.
+[3] In her Reply, the Respondent admitted paragraphs 2-4, 7, 9 and 11-13, as well as the first sentence of paragraph 1 and the first sentence of paragraph 6, of the Notice of Appeal. The Respondent also stated that she has no knowledge of paragraphs 5, 8 and 10, as well as the second sentence of paragraph 1 and the second sentence of paragraph 6, of the Notice of Appeal. At the hearing, counsel for the Respondent acknowledged that, were it not for the late filing of the Rental Property Rebate Application, the Appellant would be entitled to the new residential rental property rebate (the “Rental Property Rebate”).
+[4] In addition, at the hearing the Parties entered into evidence an agreed-upon Joint Book of Documents. [4]
+[5] At the hearing of this Appeal, I indicated that, in order to apply section 296 of the Excise Tax Act (the “ETA”) [5] properly, it would be helpful for me to review the GST/HST New Housing Rebate Application for Houses Purchased from a Builder (Form GST190) (the “New Housing Rebate Application”) filed by the Appellant, together with any resultant notice of (re)assessment (the “New Housing Rebate Notice of Assessment”). Consequently, by consent of the parties, both of those documents were submitted to the Court after the hearing. The New Housing Rebate Application was dated October 4, 2012. The New Housing Rebate Notice of Assessment, which was dated February 28, 2013, indicated that the New Housing Rebate Application for $27,041.74 had been disallowed, as the Appellant was “not the legal claimant.” The New Housing Rebate Notice of Assessment did not indicate, by reference to a specific provision of the ETA, whether it was issued under subsection 296(1) or subsection 297(1) of the ETA. However, based on the context, and given that the New Housing Rebate Notice of Assessment bore a subheading stating “Rebate Application” and indicated that the New Housing Rebate Application had been disallowed, it appears that the assessment was issued under subsection 297(1). In other words, there was an assessment of the amount (specifically, nil) of the New Housing Rebate under subsection 297(1), rather than an assessment of net tax under subsection 296(1).
+[6] Zilla Parker, who is currently the only shareholder of the Appellant, as well as its sole director, testified briefly concerning the circumstances of the purchase by the Appellant of a residential condominium unit (the “Property”) located at 90 Trinity Street, Toronto, [6] the management of the Appellant and its affairs before the untimely death of her husband, Dominic, and the challenging circumstances that arose as a result of his tragic death and the ensuing consequences. Ms. Parker stated that, while Mr. Parker was alive, he looked after the financial and business affairs of the Appellant, including the applicable paperwork. As well, after the purchase of the Property by the Appellant, Mr. Parker managed the Property on behalf of the Appellant. At that time, Ms. Parker had little involvement with the Appellant (other than being a shareholder and director), given her heavy involvement and commitment as the mother of two teenage daughters and her work as a travel agent.
+[7] By reason of the vicious attack upon Mr. Parker and his tragic death two days later, Ms. Parker’s world was turned upside down. She and her daughters were traumatized and experienced severe emotional upheaval. Ms. Parker was the executor of Mr. Parker’s estate, which necessitated her looking after a variety of issues, including organ donations, funeral arrangements, the transfer of utility billing contact information from him to her and the requisite paperwork that accompanied all of that. Being from England, Mr. Parker had no family members in Canada, apart from his wife and daughters, who were available to assist with any of the immediate arrangements that arose by reason of his death. Therefore, the responsibility of dealing with the fallout of his death fell upon Ms. Parker. As well, she was required to devote significant time to the emotional needs and care of her daughters, all while managing her own grief and personal loss.
+[8] To compound matters, the criminal-justice proceedings in respect of Mr. Parker’s attacker stretched over several years, ultimately concluding in December 2015. Ms. Parker, one of her daughters and her mother-in-law (who had travelled from England) attended those proceedings. From time to time, the accused attacker, in open court, yelled at, and threatened, Ms. Parker, her daughter and her mother-in-law. Understandably, during this unfortunate period of time, Ms. Parker’s thoughts were elsewhere than on the financial and tax affairs of the Appellant.
+[9] As noted in paragraph 6 of the Notice of Appeal, in late February or early March 2013 the CRA advised Mr. Parker that the Appellant did not qualify for the new housing rebate (the “New Housing Rebate”), for which it had applied at the time of purchasing the Property. While Mr. Parker thus became aware that the Appellant needed to apply for the Rental Property Rebate, he did not share that information with Ms. Parker. Ms. Parker only learned of the disallowance of the New Housing Rebate in late November 2014, when she received a letter, dated November 25, 2014, from the solicitors for 2 Eastern Avenue Inc. (the “Vendor”), [7] from which the Appellant had purchased the Property. The solicitors advised that the CRA had disallowed the Appellant’s claim for the New Housing Rebate, that the CRA had demanded that the Vendor pay the amount of $27,041.74 to it, and that the amount of $27,041.74 plus interest at the rate of prime plus 3% was now payable by the Appellant to the Vendor (although, as a courtesy, the Vendor offered to waive the interest if the amount of $27,041.74 was paid within seven days of the date of the letter).
+[10] The letter went on to state that the CRA had advised the Vendor that, if the Property was a rental property, the Appellant might still be entitled to claim the Rental Property Rebate, provided that Form GST524 was completed and submitted to the CRA, together with all necessary documents. [8] Ms. Parker stated that she was surprised by this letter, particularly since she and her husband had explicitly told both the representative of the Vendor with whom they dealt when the Appellant agreed to purchase the Property and the lawyer of the Vendor who was present when they signed the documents to close the purchase of the Property that the Appellant was purchasing the Property for the purpose of leasing it to a tenant. It would appear that the Vendor’s sales representative and the Vendor’s lawyer were not familiar with the applicable provisions of the ETA or they disregarded the information from Mr. and Ms. Parker that the Appellant intended to lease the Property to a tenant.
+[11] There is also a possibility that the details of the Agreement of Purchase and Sale (the “Agreement”), dated November 20, 2010, between the Appellant and the Vendor, [9] went unread by Mr. and Ms. Parker, the Vendor’s sales representative and the Vendor’s lawyer who handled the sale of the Property by the Vendor to the Appellant. I say that because subparagraph 6(g) of the Agreement reads as follows:
+It is acknowledged and agreed by the parties hereto that the Purchase Price already includes a component equivalent to both the federal portion and, if applicable, the provincial portion of the harmonized goods and services tax … exigible with respect to this purchase and sale transaction less the Rebate as defined below (hereinafter referred to as the “HST”), and that the Vendor shall remit the HST to CRA on behalf of the Purchaser forthwith following the completion of this transaction. The Purchaser hereby warrants and represents to the Vendor that with respect to this transaction, the Purchaser qualifies for the new housing rebate applicable pursuant to Section 254 of the Excise Tax Act (Canada), as may be amended, and the new housing rebate announced by the Ontario Ministry of Revenue (collectively, the “Rebate”), in its Information notice dated June 2009 – No.2 … and further warrants and represents that the Purchaser is a natural person who is acquiring the Property with the intention of being the sole beneficial owner thereof on the Title Transfer Date (and not as the agent or trustee for or on behalf of any other party or parties), and covenants that upon the Occupancy Date the Purchaser or one or more of the Purchaser’s relations (as such term is defined in the Excise Tax Act) shall personally occupy the Unit as his primary place of residence, for such period of time as shall be required by the Excise Tax Act, and any other applicable legislation, in order to entitle the Purchaser to the Rebate (and the ultimate assignment thereof to and in favour of the Vendor) in respect of the Purchaser’s acquisition of the Unit.... The Purchaser hereby irrevocably assigns to the Vendor all of the Purchaser’s rights, interests and entitlements to the Rebate …, and hereby irrevocably authorizes and directs CRA to pay or credit the Rebate … directly to the Vendor. In addition, the Purchaser shall execute and deliver to the Vendor, forthwith upon the Vendor’s or Vendor’s solicitors request for same (and in any event on or before the Title Transfer Date), all requisite documents and assurances that the Vendor or Vendor’s solicitors may reasonably require in order to confirm the Purchaser’s entitlement to the Rebate and/or to enable the Vendor to obtain the benefit of the Rebate …, including without limitation, the New Housing Application for Rebate of Goods and Services Tax Form as prescribed from time to time…. The Purchaser covenants and agrees to indemnify and save the Vendor harmless from and against any loss, cost, damage and/or liability (including an amount equivalent to the Rebate …, plus penalties and interest thereon) which the Vendor may suffer, incur or be charged with, as a result of the Purchaser’s failure to qualify for the Rebate…. It is further understood and agreed by the parties hereto that … if the Purchaser does not qualify for the Rebate, … then notwithstanding anything hereinbefore or hereinafter provided to the contrary, the Purchaser shall be obliged to pay to the Vendor … an amount equivalent to the Rebate …, in addition to the Purchase Price…. It is further understood and agreed that in the event that the Purchaser intends to rent out the Unit before or after the Title Transfer Date, the Purchaser shall not be entitled to the Rebate, but may nevertheless be entitled to pursue, on his own after the Title Transfer Date, the federal and provincial new rental housing rebates directly with CRA, pursuant to Section 256.2 of the Excise Tax Act, as may be amended, and other applicable legislation to be enacted relating to the provincial new rental housing rebate…. [10] [Emphasis added.]
+The last sentence quoted above actually pointed the Appellant and the Vendor in the proper direction; unfortunately, it appears that the sentence was overlooked.
+[12] It is clear from the above provision that the Appellant purported to assign to the Vendor all of the Appellant’s rights, interests and entitlements in and to the New Housing Rebate and authorized and directed the CRA to pay or credit the New Housing Rebate to the Vendor. The above-mentioned letter of November 25, 2014, from the Vendor’s solicitors to the Appellant, also referred to such assignment, and appeared to reference a document that may have been entitled “Assignment and Undertaking As To New Housing Rebate,” [11] but, if that was a separate document, it was not part of the evidence produced at the hearing of this Appeal.
+[13] As indicated above, I determined that it would be helpful and important for me to review the various assessing documents relating to both rebate applications. After discussing this with counsel near the end of the hearing, I subsequently issued an order, dated June 17, 2019, directing the parties to provide photocopies of such assessing documents and any related documents to the Court. In addition to the documents described in paragraph 5 above, [12] two additional documents were submitted, ultimately with the consent of both parties. Those documents were a notice of (re)assessment dated February 8, 2013, which was issued to the Appellant in respect of a GST/HST return or returns received on January 27, 2013 for the period October 1, 2012 to December 31, 2012, and an email dated July 30, 2019 from an officer of the CRA to counsel for the Respondent, with an embedded screenshot, which appears to show dated references to several GST returns (described as “Form GST34-3”) and various notices of (re)assessment. The screenshot is somewhat difficult to interpret, given that the accompanying email indicates that the GST/HST return for the period ending December 31, 2012 was processed on January 28, 2013, but the resultant notice of (re)assessment was actually dated February 8, 2013. That notice of (re)assessment indicated that, during the period October 1, 2012 to December 31, 2012, the Appellant had sales and other revenue in the amount $75,832.91, total GST/HST and adjustments in the amount of $9,858.34, total ITCs and adjustments in the amount of $2,847.30, net tax assessed in the amount of $7,011.04, and instalment(s) applied in the amount of $7,011.04, resulting in a net balance of nil. Thus, the notice of (re)assessment dated February 8, 2013 clearly indicated that the Minister had assessed the net tax of the Appellant for the quarterly reporting period ending December 31, 2012. In these Reasons, I will refer to the assessment represented by the notice of (re)assessment dated February 8, 2013 as the “Q4 2012 Assessment.”
+II. ISSUES
+[14] The issues in this Appeal are:
+a) Is the Minister entitled, pursuant to subsection 281(1) of the ETA, to extend the time for filing the Rental Property Rebate Application from October 31, 2014 to December 5, 2014 (and, if so, should the Minister have done so)? [13]
+b) Is the Minister required, pursuant to subsection 296(2.1) of the ETA, to allow the Rental Property Rebate as a credit against an overdue amount payable by the Appellant?
+c) Does subsection 296(3.1) of the ETA require the Minister to refund the Rental Property Rebate to the Appellant? [14]
+III. ANALYSIS
+A. Subsection 281(1) of the ETA
+[15] Subsection 281(1) of the ETA reads as follows:
+The Minister may at any time extend in writing the time for filing a return, or providing information, under this Part.
+[16] The companion provision in the Income Tax Act (the “ITA”) [15] is subsection 220(3), which reads as follows:
+The Minister may at any time extend the time for making a return under this Act.
+Thus, subsection 281(1) of the ETA, which applies to a return and to information, is broader than subsection 220(3) of the ITA, which applies only to a return.
+[17] There does not appear to be any jurisprudence that interprets the meaning of subsection 281(1) of the ETA. However, in Bonnybrook Park Industrial Development, the Federal Court of Appeal stated the following in respect of subsection 220(3) of the ITA:
+41. … This is not the end of the matter, however, as it is also necessary to consider the text, context and purpose of the taxpayer relief provision. Interpreted in this manner, subsection 220(3) gives the Minister a broad discretion to override strict filing requirements in other provisions.
+42. Subsection 220(3) of the Act [i.e., the ITA] provides the Minister with a broad discretion to extend the time to file a “return”….
+43. … the provision applies to any type of “return,” which would include information returns that are required to be filed in various circumstances….
+46. Based on the text alone, subsection 220(3) provides the Minister the discretion to grant the relief that Bonnybrook seeks.
+47. This interpretation also aligns with the context and purpose of taxpayer relief provisions such as subsection 220(3). From time to time, Parliament has enacted various measures to blunt the harsh effects of strict filing requirements in the Act. Some of these relieving provisions are specific to particular requirements and others are more general. There is no one size fits all for the type of relief that is granted. Sometimes the relief is granted automatically subject to payment of a penalty …, and in other cases the relief is subject to specific conditions….
+48. Subsections 220(2.1) and (3) are examples of relief measures which have broad application and give the Minister the authority to provide relief from filing requirements throughout the Act…. [16]
+Thus, subsection 220(3) of the ITA and, by analogy, subsection 281(1) of the ETA, provide the Minister with a broad discretion to extend the time to file a return and (in the context of the ETA) to provide information.
+[18] To reiterate, the discretion, under subsection 281(1) of the ETA, to extend the time for filing a return or providing information is granted to the Minister, and not to this Court. Judicial review or other consideration of the manner in which the Minister exercises her discretion is not within the jurisdiction of this Court. [17] Given that lack of jurisdiction, there is no point in considering in these Reasons whether an application for a rental property rebate is a return or information for the purposes of subsection 281(1) of the ETA.
+[19] While the tragic and untimely death of Mr. Parker and other circumstances mentioned herein cry out for relief to be granted to the Appellant, such relief, based on an exercise of the discretion granted by subsection 281(1) of the ETA, is within the purview of the Minister, not the Court. Therefore, this Appeal cannot be allowed on the basis of subsection 281(1) of the ETA.
+B. Subsection 296(2.1) of the ETA
+[20] The essence of subsection 296(2.1) of the ETA was explained by Justice D’Arcy in the Zdzieblowska case, as follows:
+Subsection 296(2.1) requires the Minister, in certain circumstances, to reduce assessments of the net tax of a person or of amounts that become payable by the person under Part IX of the Act by rebate amounts that are not otherwise payable because the person has not claimed the rebate within the mandated statutory period. [18]
+[21] In 2012, subsection 296(2.1) of the ETA read as follows:
+296(2.1) Where, in assessing the net tax of a person for a reporting period of the person or an amount (in this subsection referred to as the “overdue amount”) that became payable by a person under this Part, the Minister determines that
+(a) an amount (in this subsection referred to as the “allowable rebate”) would have been payable to the person as a rebate if it had been claimed in an application under this Part filed on the particular day that is
+(i) if the assessment is in respect of net tax for the reporting period, the day on or before which the return under Division V for the period was required to be filed, or
+(ii) if the assessment is in respect of an overdue amount, the day on which the overdue amount became payable by the person,
+and, where the rebate is in respect of an amount that is being assessed, if the person had paid or remitted that amount,
+(b) the allowable rebate was not claimed by the person in an application filed before the day notice of the assessment is sent to the person, and
+(c) the allowable rebate would be payable to the person if it were claimed in an application under this Part filed on the day notice of the assessment is sent to the person or would be disallowed if it were claimed in that application only because the period for claiming the allowable rebate expired before that day,
+the Minister shall apply all or part of the allowable rebate against that net tax or overdue amount as if the person had, on the particular day, paid or remitted the amount so applied on account of that net tax or overdue amount.
+[22] Thus, subsection 296(2.1) of the ETA applies where the Minister is assessing the net tax of a person for a reporting period of the person or is assessing an amount (defined as the “overdue amount”) that became payable by the person under Part IX of the ETA. [19]
+[23] Justice Paris said the following about subsection 296(2.1) of the ETA in A OK Payday Loans:
+Subsection 296(2.1) requires … the Minister, when assessing net tax for a reporting period or assessing for an amount due under Part IX of the Act, to take into account a rebate to which a person is entitled under Part IX but which has not yet been claimed by the person, and to apply the amount of the rebate against net tax or against the amount owing. Paragraph 296(2.1)(c) provides that the Minister shall apply the amount of the rebate against the net tax or amount owing even if the period for applying for the rebate has expired. [20]
+Note that Justice Paris indicated that, in specified situations, subsection 296(2.1) requires the Minister to take an available rebate into account.
+[24] In a different context (which dealt with a claim under subsection 261(1) of the ETA for a rebate of overpaid GST), in the UPS case, the Supreme Court of Canada stated:
+As I read s. 296(2.1), even if no application for a rebate was made within the applicable limitation period, the rebate shall be applied by the Minister against the net tax owed by the taxpayer in the reassessment process if the Minister determines that a rebate would have been payable had it been claimed. The section refers to “allowable rebate”. Allowable rebate must mean a rebate that would have been allowable had the applicable procedure been followed. In other words, where these procedures have not been followed, it is not fatal to the rebate claim. [21] [Emphasis added.]
+In the UPS case, the Court noted that the Minister had agreed that there had been an overpayment of tax by UPS. The Court then stated:
+By necessary implication, these concessions must mean that had the appropriate procedures been followed, the rebate would have been allowable. In these circumstances, the Minister was obliged to apply the rebate to the net tax assessed against UPS pursuant to s. 261(1) and s. 296(2.1). [22] [Emphasis added.]
+[25] The opening lines of subsection 296(2.1) of the ETA make it clear that the provision is intended for a situation where the Minister is assessing the net tax of a person for a reporting period of the person or is assessing an overdue amount that became payable by a person under Part IX of the ETA. Paragraphs 296(2.1)(a), (b) and (c) of the ETA go on to set out three things that must be determined by the Minister, otherwise the offset mechanism in the concluding portion of subsection 296(2.1) will not be available. Those three things are:
+a) A rebate would have been payable to the person if it had been claimed in an application filed on or before a stipulated deadline.
+b) The person must not have made a claim for the rebate “in an application filed before the day notice of the assessment is sent to the person.” [23] It appears that the reference to “notice of the assessment” refers to the assessment of the net tax or the overdue amount.
+c) The rebate would be payable to the person if it were claimed in an application filed on the day notice of the assessment is sent to the person or would be disallowed, if it were claimed in that application, only because the period for claiming the rebate had expired before that day. [24]
+[26] As explained by the Supreme Court in UPS, and as indicated in subparagraph 25c) above, a failure to submit a rebate application is not, in and of itself, fatal to the rebate claim. However, as indicated in subparagraph 25b) above, the making of a rebate application before the issuance of the notice of assessment contemplated by subsection 296(2.1) is fatal to the offset remedy under that provision. [25]
+[27] The Rental Property Rebate Assessment did not assess net tax or an overdue amount; rather, it disallowed the Rental Property Rebate. Similarly, the New Housing Rebate Assessment disallowed the New Housing Rebate, without assessing net tax or an overdue amount. In this regard, those two assessments were somewhat similar to those that were considered by the Court in Zdzieblowska. [26]
+[28] Two of the documents provided by the parties to the Court after the hearing of this Appeal indicated that, in 2012 and 2013, the Minister was, apparently on a quarterly basis, assessing net tax payable by the Appellant. The Appellant was a GST registrant and carried on a business, apparently under the trade name “Hollowpoint Productions,” [27] although no evidence was provided as to the nature of that business. One of the documents provided to the Court after the hearing was a notice of (re)assessment dated February 8, 2013, embodying the Q4 2012 Assessment, covering the quarterly reporting period from October 1, 2012 to December 31, 2012, and assessing net tax in the amount of $7,011.04. [28]
+[29] Another document provided to the Court after the hearing was an email, dated July 30, 2019, from a CRA employee, and containing a CRA screenshot or screen print. [29] The screenshot has a two-line heading, “Business Client Communications – Communication Item History.” While I do not understand all of the entries in the screenshot, with the assistance of some of the explanatory comments in the email in which the screenshot was embedded, I have some understanding of three of the columns in the screenshot, which are as follows:
+Produced
+Item
+Period
+2013-05-25
+GST34-3
+2013-06-30
+2013-05-03
+RtnNOA
+2013-03-31
+2013-02-25
+GST34-3
+2013-03-31
+2013-02-25
+BldSpNOA
+[Blank]
+2013-01-28
+Rtn NOA
+2012-12-31
+[Blank]
+[Blank]
+[Blank]
+2012-11-17
+GST34-3
+2012-12-31
+2012-11-01
+RtnNOA
+2012-09-30
+2012-08-25
+GST34-3
+2012-09-30
+2012-07-30
+RtnNOA
+2012-06-30
+[30] The email in which the screenshot was embedded explained that the entry showing the date 2013-01-28 in the left-hand column referred to the date on which the CRA processed the Appellant’s GST/HST return for the quarterly reporting period ending 2012-12-31. However, it seems that, while the return was processed on January 28, 2013, the actual notice of (re)assessment was not issued until February 8, 2013. As noted above, this was the notice of (re)assessment that embodied the Q4 2012 Assessment, which assessed net tax in the amount of $7,011.04.
+[31] The email in which the screenshot was embedded also indicated that the entry dated 2013-02-25 referred to the processing of the notice of assessment disallowing the New Housing Rebate. While the processing of the New Housing Rebate Application took place on February 25, 2013, the New Housing Rebate Notice of Assessment was issued on February 28, 2013.
+[32] Assuming that there is a similar pattern for the other entries in the screenshot, it appears that on July 30, 2012 the CRA processed the Appellant’s GST/HST return for the quarterly reporting period ending June 30, 2012, on November 1, 2012 the CRA processed the Appellant’s GST/HST return for the quarterly period ending September 30, 2012, and on May 3, 2013 the CRA processed the Appellant’s GST/HST return for the quarterly reporting period ending March 31, 2013.
+[33] There is nothing in the email in which the screenshot was embedded to explain the entries that show “GST34-3” in the middle column. It appears to me that those entries may refer to the dates on which the CRA sent blank GST/HST returns to the Appellant for the particular quarterly reporting period. If that is correct, it would appear that on May 25, 2013 the CRA sent to the Appellant the blank GST/HST return for the quarterly reporting period ending June 30, 2013.
+[34] In the upper right-hand corner of the screenshot there is an indication that the document represented page 5 of 5. However, there is a plus sign (i.e., +) to the right of the second 5, which might suggest that there could be additional pages in the Communication Item History. The opening line of the email in which the screenshot is embedded states, “Here is a screen print of Notices of Reassessments [sic] that were issued during the 2012 – 2013 tax year.” The screenshot refers to notices of (re)assessment for the last three quarterly reporting periods of 2012 and the first quarterly reporting period of 2013. The screenshot does not show the processing of the notice of assessment that disallowed the Rental Property Rebate and that resulted in the issuance of the Rental Property Rebate Notice of Assessment on December 19, 2014. This suggests to me that page 5 of the Communication Item History may not be the last page in the entire history.
+[35] However, it is clear from the documents sent to the Court after the hearing that the CRA issued a notice of (re)assessment that assessed net tax for the fourth quarter of 2012, [30] and that it issued a notice of (re)assessment for the first quarter of 2013, which presumably assessed net tax, assuming that the Appellant had taxable sales and or other revenue in that quarter. This raises the question of whether the CRA should have applied subsection 296(2.1) of the ETA when assessing net tax for either or both of those quarterly reporting periods. Furthermore, if the Appellant continued to carry on business after March 31, 2013, there may well have been other notices of (re)assessment for subsequent quarterly reporting periods in which the CRA assessed the net tax of the Appellant. Presumably there may have been an argument that subsection 296(2.1) of the ETA should have applied to those subsequent assessments of net tax. [31] However, none of the assessments for the quarterly reporting periods in 2012, 2013 and any subsequent years in which the Appellant was carrying on business are before the Court in this Appeal. The only assessment that is the subject of this Appeal is the Rental Property Rebate Assessment.
+[36] It is my understanding that the Rental Property Rebate Assessment was issued under subsection 297(1) of the ITA. In other words, it was an assessment of the amount of the applicable rebate. As the Rental Property Rebate Assessment was not issued under subsection 296(1) of the ETA, it was not an assessment of net tax or an assessment of an overdue amount (as defined in subsection 296(2.1) of the ETA). Consequently, subsection 296(2.1) of the ETA is not available to the Appellant in the context of this Appeal.
+[37] The following comment by Justice D’Arcy in Zdzieblowska is applicable here:
+… subsection 296(2.1) will not apply if the appellant is appealing a subsection 297(1) assessment that does not assess an amount but merely denies an application for the relevant rebate…. [32]
+That is the situation here, the Rental Property Rebate Assessment denied the Appellant’s Rental Property Rebate Application; it did not assess net tax or an overdue amount. Therefore, as there are no assessments of net tax or an overdue amount under appeal, subsection 296(2.1) of the ETA is not applicable.
+C. Subsection 296(3.1) of the ETA
+[38] In 2012, subsection 296(3.1) of the ETA read as follows:
+296(3.1) If, in assessing the net tax of a person for a particular reporting period of the person or an amount (in this subsection referred to as the “overdue amount”) that became payable by a person under this Part, all or part of an allowable rebate referred to in subsection (2.1) is not applied under that subsection against that net tax or overdue amount, except where the assessment is made in the circumstances described in paragraph 298(4)(a) or (b) after the time otherwise limited for the assessment by paragraph 298(1)(a), the Minister shall
+(a) apply
+(i) all or part of the allowable rebate that was not applied under subsection (2.1)
+against
+(ii) any other amount (in this paragraph referred to as the “outstanding amount”) that, on or before the particular day that is
+(A) if the assessment is in respect of net tax for the particular reporting period, the day on or before which the return under Division V for the particular period was required to be filed, or
+(B) if the assessment is in respect of an overdue amount, the day on which the overdue amount became payable by the person,
+the person defaulted in paying or remitting under this Part and that remains unpaid or unremitted on the day notice of the assessment is sent to the person,
+as if the person had, on the particular day, paid or remitted the amount so applied on account of the outstanding amount;
+(b) apply
+(i) all or part of the allowable rebate that was not applied under subsection (2.1) or paragraph (a) together with interest at the prescribed rate on all or that part of the allowable rebate, computed for the period beginning on the day that is 30 days after the later of
+(A) the particular day, and
+(B) where the assessment is in respect of net tax for the particular reporting period, the day on which the return for the particular reporting period was filed,
+and ending on the day on which the person defaulted in paying or remitting the outstanding amount referred to in subparagraph (ii)
+against
+(ii) any amount (in this paragraph referred to as the “outstanding amount”) that, on a day (in this paragraph referred to as the “later day”) after the particular day, the person defaulted in paying or remitting under this Part and that remains unpaid or unremitted on the day notice of the assessment is sent to the person,
+as if the person had, on the later day, paid the amount and interest so applied on account of the outstanding amount; and
+(c) refund to the person that part of the allowable rebate that was not applied under any of subsection (2.1) and paragraphs (a) and (b) together with interest at the prescribed rate on that part of the allowable rebate, computed for the period beginning on the day that is 30 days after the later of
+(i) the particular day, and
+(ii) where the assessment is in respect of net tax for the particular reporting period, the day on which the return for the particular period was filed,
+and ending on the day the refund is paid to the person.
+[39] Like subsection 296(2.1) of the ETA, subsection 296(3.1) applies where there is an assessment of net tax or an assessment of an overdue amount. Subsection 296(3.1) provides that, if, in the assessment of net tax or an overdue amount, all or part of an allowable rebate referred to in subsection 296(2.1) is not applied in accordance with that subsection against the net tax or overdue amount, the Minister shall apply all or part of the allowable rebate that was not applied under subsection 296(2.1) against any other amount (the “outstanding amount”) that the person defaulted in paying or remitting under Part IX of the ETA, subject to certain timing provisions. If there is no outstanding amount against which to apply all or part of the allowable rebate, paragraph 296(3.1)(c) indicates that the Minister is to refund to the person such part of the allowable rebate as was not applied under subsection 296(2.1), paragraph 296(3.1)(a) or paragraph 296(3.1)(b).
+[40] At the hearing, I inquired of counsel as to whether, if the Minister failed (for whatever reason, including lack of knowledge of the circumstances that would give rise to an allowable rebate) to apply, under subsection 296(2.1), an allowable rebate against the net tax of a person or an overdue amount payable by a person, but the Minister later learned of those circumstances and determined that there was an allowable rebate available, the Minister could, under subsection 296(3.1), apply the allowable rebate against an outstanding amount of the person or refund any unused part of the allowable rebate to the person. In written submissions filed after the hearing:
+a) counsel for the Appellant took the position that, in the context of this Appeal, it was sufficient that the Appellant had been assessed net tax in the notice of assessment dated February 8, 2013, [33] and “that the net tax assessment need not be before [the] Court for [the] Court to declare that the conditions of subsection 296(3.1) apply in the circumstances”; [34] and
+b) counsel for the Respondent took the position that the function of subsection 296(3.1) is not to correct an error by the Minister in applying subsection 296(2.1), but is a merely an ordering rule that instructs the Minister as to the order in which an allowable rebate is to be applied against an outstanding amount or refunded. [35]
+[41] As indicated in subparagraph 40a) above, the Appellant seems to be suggesting that this Court may “declare that the conditions of subsection 296(3.1) apply in the circumstances.” However, this Court does not have the jurisdiction to grant declaratory relief. [36]
+[42] As also indicated in subparagraph 40a) above, the Appellant has suggested that this Court may grant relief under subsection 296(3.1) of the ETA even if a net tax assessment is not before the Court. However, by reason of section 306 and subsection 309(1) of the ETA, it is my view that the only assessment that is within my jurisdiction is the assessment that is the subject of an appeal placed before me. The relevant portion of section 306 of the ETA states:
+A person who has filed a notice of objection to an assessment under this Subdivision may appeal to the Tax Court to have the assessment vacated or a reassessment made…. [Emphasis added.]
+Subsection 309(1) of the ETA states:
+The Tax Court may dispose of an appeal from an assessment by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment, or
+(ii) referring the assessment back to the Minister for reconsideration and reassessment. [Emphasis added.]
+[43] The above statutory provisions indicate that there is a relationship between an assessment and an appeal. In other words, each appeal has one or more assessments as its subject. As stated by the Federal Court of Appeal, “Appeals to the Tax Court of Canada are appeals in relation to a particular assessment or reassessment.” [37] Thus, where an appeal is successful, the available relief is limited by the context of the assessment that is the subject of the appeal.
+[44] This Court has jurisdiction to grant relief only in respect of an assessment that is properly before the Court. If a rebate claimant does not object to, and appeal from, a particular assessment of net tax or an overdue amount, that assessment will not be before the court. [38] As stated by the Federal Court of Appeal, “… the Tax Court’s jurisdiction is limited to appeals in that Court.” [39] By implication, it follows that this Court has no jurisdiction in respect of an assessment that is not the subject of an appeal in this Court.
+[45] The opening lines of subsection 296(3.1) of the ETA make it clear that the subsection applies only where the Minister is assessing net tax or an overdue amount. Subsection 296(3.1) does not contemplate an assessment that denied a rebate application. As the Q4 2012 Assessment (which assessed net tax) and the assessment of net tax for the first quarterly reporting period of 2013 (as well as any other subsequent quarterly reporting periods that are not shown on the above-mentioned screenshot) are not before me, I am not in a position to determine whether subsection 296(3.1) of the ETA may have been applicable.
+D. Other Provisions of the ETA
+[46] The reasons set out above are sufficient for the disposition of this Appeal. However, for the sake of completeness, a few additional statutory provisions are considered below.
+(1) Paragraph 221(2)(b) of the ETA
+[47] This situation began inauspiciously when the Vendor used a standard-form Agreement of Purchase and Sale and closing procedures that contemplated that the purchaser of a condominium unit would be an individual, [40] rather than a corporation. However, in the context of a sale of real property, the ETA distinguishes between individual and corporate purchasers. In particular, paragraph 221(2)(b) of the ETA, in essence, provides that a supplier who makes a taxable supply, by way of sale, of real property is not required to collect GST/HST payable by the recipient in respect of the supply where the recipient is registered under Subdivision d of Division V of Part IX of the ETA, even if the property is a residential complex, provided that the recipient is a corporation. Given that the Appellant was a corporation registered under Subdivision d of Division V of Part IX of the ETA, the Vendor was not required to collect HST from it. [41]
+(2) Paragraph 228(4)(b) and Subsection 228(6) of the ETA
+[48] Paragraph 228(4)(b) of the ETA provides that, where GST/HST is payable by a person in respect of a supply of real property and the supplier is not required to collect the tax (for instance, by reason of paragraph 221(2)(b) of the ETA), the person (i.e., the purchaser or recipient) is required to self-assess, remit the GST/HST and file a separate return with the Minister. There was no evidence of the Appellant having filed a return under paragraph 228(4)(b). If the Appellant had filed such a return, it could have, pursuant to subsection 228(6) of the ETA, claimed the Rental Property Rebate in the return.
+(3) Subsection 296(7) of the ETA
+[49] Subsection 296(7) of the ETA provides that an amount under section 296 of the ETA shall not be refunded to a person unless the person has filed all required returns under the ETA (as well as other stated Acts). By reason of subsection 296(7), the Appellant’s failure to file the return required by paragraph 228(4)(b) of the ETA would have precluded the Minister from paying a refund under paragraph 296(3.1)(c) of the ETA, if paragraph 296(3.1)(c) were to have been applicable.
+(4) Subsection 262(2) of the ETA
+[50] Subsection 262(2) of the ETA states, “Only one application may be made under this Division for a rebate with respect to any matter.” It is not clear whether this provision precludes a person from correcting an error where the person is a purchaser of residential real property who initially claims one of the various rebates by mistake and later discovers that another rebate should have been claimed instead. Based on the penultimate paragraph of the letter, dated November 25, 2014, from the solicitors for the Vendor, [42] it appears that the CRA advised those solicitors that the Appellant could claim the Rental Property Rebate by submitting a completed Form GST524. This would suggest that the CRA did not view subsection 262(2) as precluding the Appellant’s correction of its error. [43] Regrettably, the solicitors sent their letter to the Appellant 25 days after the deadline for submitting the correct rebate application form.
+IV. CONCLUSION
+[51] I regret that, for the reasons set out above, I am required to dismiss this Appeal.
+[52] The Respondent concluded her Reply by requesting that the Appeal be dismissed with costs. In the concluding paragraph of her written submissions, under the heading “Order Sought,” the Respondent simply requested that the Appeal be dismissed (i.e., there was no mention of costs). [44] I am uncertain as to whether the Respondent still intends to request costs. If the parties are unable to reach an agreement in respect of costs within 30 days from the date of the judgment in respect of this Appeal, the Respondent may, within the ensuing 30 days thereafter, file a written submission on costs, and the Appellant shall thereafter have yet a further 30 days to file a written response. Any such submissions shall be limited to five pages in length.
+[53] The circumstances underlying this Appeal are most unfortunate, not only because of the tragic and untimely death of Mr. Parker, but also because of the Vendor’s use of an agreement of purchase and sale that contemplated an individual purchaser, rather than a corporate purchaser, and the Vendor’s insistence on collecting HST from the Appellant, which was a corporation registered under the ETA. To compound the situation, the solicitors for the Vendor did not advise the Appellant that it had claimed the wrong rebate until 25 days after the deadline for filing an application to claim the correct rebate. In that letter, the solicitors for the Vendor demanded payment of HST, in the amount of $27,041.74, which, by reason of paragraph 221(2)(b) of the ETA, was not actually collectible by the Vendor from the Appellant. This was in addition to the HST that had been paid by the Appellant to the Vendor at the time of closing. [45]
+[54] In her oral submissions at the hearing, counsel for the Respondent acknowledged that, were it not for the late filing of the Rental Property Rebate Application, the Appellant would be entitled to the Rental Property Rebate. [46] In the written submissions filed after the hearing, counsel for the Respondent noted that two allowable rebates may have come within subsection 296(2.1) of the ETA when the Minister assessed net tax for the fourth quarterly reporting period of 2012, one rebate relating to the HST paid in error by the Appellant to the Vendor instead of to the Minister, and the other rebate being the Rental Property Rebate. The HST payable by the Appellant pursuant to paragraph 228(4)(b) of the ETA would have been set off against those rebates, leaving a refundable rebate of almost $27,041.74 (after allowing for interest on the unpaid HST). However, by reason of subsection 296(7) of the ETA, that rebate could not have been refunded due to the Appellant’s failure to file the separate return required by paragraph 228(4)(b) of the ETA.
+[55] While this situation calls for relief to be granted to the Appellant, this Court does not have the jurisdiction to provide such relief. The only assessment that has been placed before me is the Rental Property Rebate Assessment, which disallowed the Rental Property Rebate, for which the Appellant applied within 10 days of the date of the letter from the Vendor’s solicitors, and only 35 days after the deadline for making the application. Unfortunately, I have only a limited jurisdiction, which does not permit me to grant any relief to the Appellant. [47]
+[56] If the Minister is not in a position to grant administrative relief, [48] this would be a suitable situation for the granting of a remission order under section 23 of the Financial Administration Act. [49]
+Signed at Edmonton, Alberta, this 19th day of November 2020.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+CITATION:
+2020 TCC 129
+COURT FILE NO.:
+2016-4905(GST)G
+STYLE OF CAUSE:
+1089391 ONTARIO INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+DATE OF SUBMISSIONS:
+May 8, 2019
+October 10, 2019 (Appellant)
+November 15, 2019 (Respondent)
+December 5, 2019 (Appellant)
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF JUDGMENT:
+November 19, 2020
+APPEARANCES:
+Counsel for the Appellant:
+Louise R. Summerhill,
+Monica Carinci (Student-at-law)
+Counsel for the Respondent:
+Kieran Lidhar, Michael Ezri
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Louise R. Summerhill
+Firm:
+Aird & Berlis LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit AR-1, Tab 8.
+[2] Exhibit AR-1, Tab 7.
+[3] The defined term “Rental Rebate” in the Notice of Appeal corresponds to the defined term “Rental Property Rebate” in these Reasons.
+[4] Exhibit AR-1, containing documents behind nine tabs.
+[5] Excise Tax Act, RSC 1985, c. E-15, Part IX, as enacted by SC 1990, c. 45, and as subsequently amended.
+[6] Ms. Parker testified that the Property was located at the corner of Trinity Street and Eastern Avenue.
+[7] Exhibit AR-1, Tab 4.
+[8] Ibid.
+[9] Exhibit AR-1, Tab 1.
+[10] Exhibit AR-1, Tab 1, p. 3, ¶6(g). It is odd that subparagraph 6(g) of the Agreement contains a covenant that, upon taking possession of the condominium unit, the purchaser or a relation of the purchaser shall personally occupy the unit as his or her primary place of residence, but then concludes by acknowledging the possibility that the the purchaser might rent the unit to a tenant. Such internal inconsistency is perplexing.
+[11] Exhibit AR-1, Tab 4, p. 2.
+[12] As indicated in paragraph 5 above, those documents were the New Housing Rebate Application and the New Housing Rebate Notice of Assessment.
+[13] The question posed in parentheses in the above statement of this issue was not specifically raised in either the Notice of Appeal or in the Appellant’s Summary of the Law dated May 8, 2019, although it was implied.
+[14] This issue was not raised in the pleadings or by the Parties at the hearing, but rather, was raised by me after hearing the evidence.
+[15] Income Tax Act, RSC 1985, c. 1 (5th supplement), as amended.
+[16] Bonnybrook Park Industrial Development Co. Ltd. v. MNR, 2018 FCA 136, ¶41-43 & 46-48.
+[17] Ibid, ¶19; Connolly v. MNR, 2019 FCA 161, ¶73; and Kravetsky v. The Queen, [1999] 1 CTC 2809, 99 DTC 451 (TCC), ¶3.
+[18] Zdzieblowska v. The Queen, 2019 TCC 40, ¶20.
+[19] Ibid, ¶22.
+[20] A OK Payday Loans Inc. v. The Queen, 2010 TCC 469, ¶10.
+[21] United Parcel Service Canada Ltd. v. The Queen, 2009 SCC 20, [2009] 1 SCR 657, ¶30.
+[22] Ibid, ¶33.
+[23] Paragraph 296(2.1)(b) of the ETA.
+[24] United Parcel Service, supra note 21, ¶30.
+[25] See paragraph 296(2.1)(b) of the ETA; Poirier v. The Queen, 2019 TCC 8, ¶37 & 46; and A OK Payday Loans Inc. v. The Queen, 2013 TCC 217, ¶11.
+[26] Zdzieblowska, supra note 18, ¶34-35.
+[27] See Exhibit AR-1, Tab 1, p. 1.
+[28] See paragraph 13 above.
+[29] The email in which the document was imbedded used the term “screen print” to describe the document. However, elsewhere the email also referred to the document as a “screenshot.” I assume that the CRA uses the two terms synonymously.
+[30] This notice of (re)assessment embodied the Q4 2012 Assessment.
+[31] This argument may be countered by subsection 296(7) of the ETA. See paragraph 49 below.
+[32] Zdzieblowska, supra note 18, ¶5.
+[33] Appellant’s Submissions Regarding Subsection 296(3.1) of the Excise Tax Act, October 10, 2019, p. 6-7, ¶10(e), 11 & 13-14.
+[34] Appellant’s Rebuttal Submissions Regarding Subsection 296(3.1) of the Excise Tax Act, December 5, 2019, p. 1, ¶2.
+[35] Respondent’s Written Submissions, dated and filed November 15, 2019, p. 4-6, ¶11-13. Given the conclusion that I have reached in respect of the Appellant’s position, as set out in subparagraph 40a), I do not need to reach any conclusion in respect of the Respondent’s position, as set out in subparagraph 40b).
+[36] Morissette v. The Queen, 2019 TCC 103, ¶34; Persaud v. The Queen, 2013 TCC 405, ¶4; and Pintendre Autos Inc. v. The Queen, 2003 TCC 818, ¶43. The limited, assessment-based nature of the relief available in this Court is illustrated by this statement by Justice Bocock in Cheikhezzein v. The Queen, 2013 TCC 348, ¶9: “Before this Court the basis of appeal is entirely about the correctness and validity of the assessment and its quantum.”
+[37] Bakorp Management Ltd. v. The Queen, 2014 FCA 104, ¶22.
+[38] Zdzieblowska, supra note 18, ¶37.
+[39] Morrison v. The Queen, 2016 FCA 256, ¶16.
+[40] Subparagraph 6(g) of the Agreement, parts of which are quoted in paragraph 11 above, contained a warranty and representation that the particular purchaser was a natural person.
+[41] It is not clear whether the CRA official, when he or she contacted the Vendor to advise that the Appellant was not entitled to the New Housing Rebate, knew that the Appellant was a corporation registered under Subdivision d of Division V of Part IX of the ETA. However, it seems that the CRA official likely did not advise the Vendor that it was not required to collect HST from the Appellant.
+[42] Exhibit AR-1, Tab 4, p.2.
+[43] The Respondent is not relying on subsection 262(2) of the ETA. See Respondent’s Submissions, supra note 35, p. 10, fn. 21. It appears that the Respondent’s reference in that footnote to subsection 262(1) should have been a reference to subsection 262(2).
+[44] Respondent’s Submissions, supra note 35, p. 13, ¶29.
+[45] The Statement of Adjustments (Exhibit AR-1, Tab 2) showed total GST/HST being levied in the amount of $52,223.39, reduced by a GST/HST rebate in the amount of $27,041.74, resulting in a net GST/HST amount of $25,181.65.
+[46] As well, in her Reply, the Respondent admitted paragraph 4 of the Notice of Appeal, which pled that the Appellant was entitled to the Rental Property Rebate.
+[47] See section 309 of the ETA, which, in essence, limits me to determining the validity and correctness of the assessment that is put before me. In other words, I am precluded from determining the validity or correctness of any assessment that is not the subject of an appeal heard by me. Furthermore, judicial review in respect of any decision taken by the Minister is beyond my jurisdiction. See also Cheikhezzein, supra note 36, ¶14 & 16.
+[48] One possible way in which to provide administrative relief might flow from comments set out in the Respondent’s Submissions, supra note 35, p. 9-11, ¶25; and the Appellant’s Rebuttal Submissions, supra note 34, p. 1-2, ¶3-4; together with an extension of time, under section 281 of the ETA, for the filing of the self-assessing, separate return required by paragraph 228(4)(b) of the ETA.
+[49] Financial Administration Act, RSC 1985, c. F-11, as amended. See also Zubic v. The Queen, 2004 TCC 533, ¶8; and Slovack v. The Queen, 2006 TCC 687, ¶13.

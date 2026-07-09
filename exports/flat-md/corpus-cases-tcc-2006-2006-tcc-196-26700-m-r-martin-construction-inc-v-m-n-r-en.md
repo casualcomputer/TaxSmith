@@ -1,0 +1,194 @@
+---
+title: "M R Martin Construction Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26700/index.do"
+last_modified: "2006-03-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 196"
+citation2: ""
+neutral_citation: "2006 TCC 196"
+decision_date: "2006-03-27"
+language: "en"
+item_id: "26700"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3446
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:13:48.883000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1373cb5861835f91765148e003fa037db72bc6dd5a4af2e6d4022abdd175d498"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# M R Martin Construction Inc. v. M.N.R.
+
+- Citation: 2006 TCC 196
+- Decision date: 2006-03-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3446, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+M R Martin Construction Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-27
+Neutral citation
+2006 TCC 196
+File numbers
+2005-4099(EI)
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-4099(EI)
+BETWEEN:
+M R MARTIN CONSTRUCTION INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+_______________________________________________________________
+Appeal heard on March 7, 2006
+at Moncton, New Brunswick
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Agent for the Appellant:
+Edward McGrath
+Counsel for the Respondent:
+Martin Hickey
+_______________________________________________________________
+JUDGMENT
+The appeal is allowed, without costs, and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 27th day of March 2006.
+"Diane Campbell"
+Campbell J.
+Citation: 2006TCC196
+Date: 20060327
+Docket: 2005-4099(EI)
+BETWEEN:
+M R MARTIN CONSTRUCTION LTD.,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+CampbellJ.
+[1] The Appellant appealed to the Minister of National Revenue (the "Minister") from a ruling that the Worker, Heather Gillian Martin, was not employed in insurable employment when she was engaged by the Appellant for the period June 21, 2004 to October 8, 2004. The Minister determined that the Worker's engagement with the Appellant was not insurable employment but was excluded employment because the Appellant and the Worker were not dealing with each other at arm's length within the meaning of paragraph 5(2)(i) of the Employment Insurance Act (the "Act"). It is from this determination that the Appellant has appealed to this Court.
+[2] The Appellant called four witnesses: James Martin, the owner of the Appellant company, David Ross, the chief financial officer of the Appellant as well as several other related companies all owned by Mr. Martin, Heather Gillian Martin, the Worker and Cecilia Dennis, a retired school teacher who started to work at the company when the Worker left. The Respondent relied on the evidence of Arlene Flemming, the appeals officer.
+[3] The Minister's assumptions of fact are set out at paragraph 8 of the Reply to the Notice of Appeal as follows:
+(a) the Appellant is an incorporated company and James Martin is the sole shareholder;
+(b) James Martin is the Worker's father;
+(c) James Martin operated several businesses from an office located at 608 Pine Glen Road, Riverview (the "Office"), including the Appellant (formerly Roadway Electrical Services Ltd.), Cross Creek Mini Homes Park and Sales Limited, McAllister Park Subdivision Ltd. (formerly 51234 NB Ltd.), 031781 N.B. Ltd., and Rockport Developments Inc. (formerly Harim Construction Company, Ltd.);
+(d) the Worker worked from the Office;
+(e) the Worker worked 40 hours per week and was paid $11 per hour;
+(f) the Worker's duties related primarily to Cross Creek Mini Homes Park Sales Limited and included collecting rent for approximately 125 lots, community relations with the residents and mediating any problems that arose, and attending quarterly meetings with the residents;
+(g) of the approximately 125 rented lots, approximately 100 paid their rent by post dated cheque, approximately 10 - 15 paid by credit card and the Worker personally collected the rent owed from the remaining residents;
+(h) the Worker's duties did not require her services for 40 hours each week;
+(i) the Worker was hired to replace her sister, Jaymie Wilson, who was on maternity leave;
+(j) prior to her maternity leave, Jaymie Wilson worked 40 hours per week and she was paid $14 per hour;
+(k) Jaymie Wilson performed services for two of the businesses operated by James Martin;
+(l) the Worker and Jaymie Wilson worked together for 8 weeks prior to Jaymie Wilson's maternity leave;
+(m) the Worker had previously worked for the various businesses operated by James Martin and did not require 8 weeks of training to replace Jaymie Wilson;
+(n) the Worker worked an additional 8 weeks after Jaymie Wilson left and she received a Record of Employment from the Appellant which indicated her employment was terminated as there was a shortage of work;
+(o) Cecilia Dennis was hired to replace the Worker and she began working for the Appellant on the first business day following the Worker's termination;
+(p) Cecilia Dennis worked an average of 24 hours per week and she was paid $14 per hour; and
+(q) the Worker's hourly wage was less than the wages paid to Jaymie Wilson and Cecilia Dennis.
+The Evidence of James Martin:
+[4] Mr. Martin, the Worker's father, is the President and sole shareholder of the Appellant company, a general contracting company, engaged in road building and site construction since 1980. The Appellant's head office is located at Pine Glen Road, Riverview. Mr. Martin operated several other incorporated businesses from this office. Mr. Martin testified that his other companies were involved in real estate development and leasing. One of these businesses, Cross Creek Mini Homes Park, operated a mini home park in which it developed the land to include streets and services, sold mini homes and charged monthly lot rental fees. This mini park is situated on land adjacent to the property where the Appellant has its head office and repair depot. The park contains 100 to 140 homes. In 2000, there were approximately 400 employees working for these companies. With re-structuring, they now employ about 60.
+[5] At present the office staff consists of David Ross in finance and administration, George Martin in sales, Kim Martin in bookkeeping and information, and Cecilia Dennis, a part-time receptionist with liaison duties between the office and the mini park. Mr. Martin himself spends most of his time at work sites with about four hours weekly actually spent in the office.
+[6] Mr. Martin testified that the mini park required close supervision for such items as complaints, nuisance problems and mini home warranty problems. However it would not require a senior level employee to oversee this aspect of the business.
+[7] On cross-examination, Mr. Martin could not confirm the hours worked or pay received by the Worker and deferred to David Ross who oversaw the office administration. As he spent so few hours in the office he did not know the pay rate or hours worked for Cecilia Dennis or his daughter Jaymie Wilson, who went on maternity leave eight weeks after the Worker was hired. The Worker was hired to replace Jaymie. Mr. Martin testified that Jaymie worked for all of his business operations and not only the two businesses as stated in assumption (k) of the Reply. He did know that the Worker was paid less than Jaymie and Cecilia but stated that it would be due to the differences in university education.
+[8] With respect to assumptions (m) and (o), Mr. Martin testified that the Worker was hired eight weeks prior to Jaymie leaving because Jaymie's time had to be freed to focus on setting up a construction safety training aspect for the company. He disagreed with the Minister's assumption that the Worker spent the entire eight weeks in training, although he acknowledged that she did receive some training from Jaymie. He also disagreed with the Minister's assumption (o), that Cecilia Dennis was hired to replace the Worker. He stated that Cecilia was hired primarily for the mini park supervision, while the Worker had performed services primarily in the construction aspect of the operations. In discussing assumption (g), he stated that it was not part of the Worker's duties to collect the mini park rents but that she received the rent from the tenants if they came into the main office to pay.
+The Evidence of David Ross:
+[9] Mr. Ross is the chief financial officer of the group of corporate interests owned by Mr. Martin. Among his many duties, he is responsible for supervising personnel. He confirmed that the Worker was hired because Jaymie was going on maternity leave. In the construction industry, summer is the busiest time and they definitely required someone in the office to replace Jaymie. He recalled discussions he had with Mr. Martin about his concern and he became aware that Mr. Martin's daughter Jill would be available to replace her sister Jaymie. Mr. Ross was pleased that she could work at the office as they "desperately needed" someone and Jill had previously worked at their office on different occasions in the past.
+[10] Appellant counsel took Mr. Ross through each of the assumptions of fact. He confirmed that the Worker worked 40 hours weekly at an hourly rate of $11.00 (assumption (e)) and that she was kept busy during this period with the company. The level of activity in the construction industry peaks during the summer months and some of the Worker's time was spent dealing with increased switchboard activity, foot traffic through the office and dealing with tenders and quotes. He estimated that the Worker spent about half of her time on the mini park duties and the other half would therefore be construction related duties. He confirmed Mr. Martin's evidence that Jaymie performed work for all of the businesses, not two as stated in assumption (k). He also testified that, although the Worker performed some of the same duties as Jaymie, Jaymie was paid more than the Worker because she had a science degree, worked on the corporate safety program and she was responsible for payroll. In respect to the Worker's training period, he stated that the office wanted her fully trained and familiar with her office duties because the rest of the staff did not have time in the busiest period to oversee or assist her. In addition the mini park had grown in size and the office was working on having tax filings done accurately and on time which in the past had been a problem. In respect to assumption (n), the business operations were slowing down by late September and people are regularly laid off during this period due to shortage of work. In the Worker's case, there was a shortage of "full-time" work although "part-time" work was still available and offered to her. He also stated that Cecilia Dennis was paid more than the Worker because she had 30 years in the work force and university degrees.
+[11] On cross-examination, Mr. Ross stated that Mr. Martin had the discretion to hire and fire people but that both consulted with each other and agreed to hire the Worker. Mr. Ross again reiterated that it was critical that the company find someone to replace Jaymie when she left. In respect to question 7 of the Questionnaire (Tab 3 of Exhibit R-1), Mr. Ross stated that the job for which the Worker was hired was to last an indefinite period of time because his thinking was not long-term for this Worker as she had worked for the company for various shorter periods in the past. He stated that he was unsure how long she would stay with the company and so his response implied that there was no specific termination date. When the job was reduced to part-time hours because the busy construction season had ended, the Worker decided she did not want to continue working with the company. He did not recall exactly who terminated her but thought that he and Mr. Martin probably collaborated on the matter. Cecilia Dennis was probably hired several weeks before her commencement date and began work on the working day after the Worker left. She was hired primarily to work on mini park duties plus sales. He also stated that he was unaware that the Worker required 630 hours to collect EI, which was 10 hours less than the insurable hours reported in the record of employment (Tab 1 of Exhibit A-1).
+The Evidence of Heather Gillian Martin (the "Worker"):
+[12] The Worker stated that her duties for the period in question were more extensive than those enumerated in question 3 of the Questionnaire (Tab 3, Exhibit R-1) and also included overseeing the phones, mail, packaging sent out and to be delivered, filing, payables, office supplies, dealing with tenders and quotes, reception duties for the public, advertising, and mini park duties, which included trouble shooting and dealing with home warranties. Although there are seasonal peaks in the business, she worked nine to five, five days per week, because this was the busiest period. It was brought to her attention in the early fall of 2004 that her job would be reduced to part-time hours as business was expected to drop off. She was "not excited about having my job cut to half" so she looked around for another job and within a few weeks located part-time employment in an area where she hoped to direct her career. She was also thinking about returning to school which she did several months later in January 2005. In addition, if she took the part-time work being offered by the Appellant company, the job was expanding to include sales. She had no interest in working in sales, was not bilingual and had no background in sales. This was another reason she did not want to continue with part-time duties with the Appellant company.
+[13] On cross-examination the Worker was unsure who the Appellant in the appeal was and was unsure why she did not file as an intervenor. She testified that her training period was approximately three to four weeks long although she was hired eight weeks before Jaymie left. She had done this job previously but there had been a lot of change due to corporate growth and re-structuring and as a result she "had no idea what I was doing". She was not trained to do safety and environmental work as Jaymie did because she did not have a science degree. She testified that she was hired to replace her sister until Jaymie returned from her maternity leave. She was not told that her job would be downsized to part-time until the fall of 2004. She stated that she thought that her duties would continue full-time until the end of her sister's maternity leave, although Jaymie had not given a specific return date. Her evidence was that her duties related to both the construction side and the mini park activities. She thought that the mini park duties would require her full-time employment after the construction industry slowed down in the fall. However there were fewer duties in the fall respecting the mini park because no work could be completed respecting paving and installation of mini homes and lawns and playgrounds.
+[14] The Worker's termination date was resolved through discussions with her father, Mr. Martin, and Mr. Ross. On cross-examination she stated that she was not paid as much as Jaymie because she did not have a university degree, the amount of experience that her sister had nor could she complete some of the duties her sister was doing.
+The Evidence of Cecilia Dennis:
+[15] This witness was hired to replace the Worker and began her duties several days after the Worker left. She described her job as including receptionist and administrative assistant duties as it related to the mini park activities together with sales. She stated she could work more than the part-time 24 hours per week that she currently works. She had no particular training prior to starting this job but stated that she had a lot of skills that the Appellant required.
+The Evidence of Arlene Flemming:
+[16] Ms. Flemming, the appeals officer, stated that the difference in pay, between the Worker and Jaymie and Cecilia, indicates that if a non related person were hired to perform the same duties as both the individual she replaced and the individual that eventually replaced her, that worker would be expected to receive the same pay. She also stated that the hours worked were a factor to consider in the overall relationship. On cross-examination she agreed that the $11.00 per hour which the Worker was paid would not be unreasonable pay. In respect to assumption (k) she stated that the Worker told her that she worked for only one of the businesses while Jaymie worked for two of them and that the only thing the Worker did for the Appellant, apart from the mini home park duties, was to take cheques to the bank for the other business operations.
+Analysis:
+The two relevant provisions of the Act, paragraphs 5(2)(i) and 5(3)(b), state:
+5(2) Insurable employment does not include
+...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+...
+5(3) For the purposes of paragraph (2)(i),
+...
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[18] I believe that my observations and conclusions, set out in the case of Porter v. M.N.R., [2005] T.C.J. No. 266, adequately review the history and current state of the law in respect to appeals arising pursuant to paragraph 5(3)(b). The function of this Court in such appeals is stated at paragraph 13 of that decision where I concluded:
+[13] In summary, the function of this Court is to verify the existence and accuracy of the facts relied upon by the Minister, consider all of the facts in evidence before the Court, including any new facts, and to then assess whether the Minister's decision still seems "reasonable" in light of findings of fact by this Court. This assessment should accord a certain measure of deference to the Minister.
+[19] Appellant counsel referred me to the case of Academy Drywall Ltd. v. M.N.R., [2002] T.C.J. No. 15, a decision of Deputy Judge Porter for his review of the legislation. However in view of my comments in Porter and my direction to counsel during the hearing, I think it is fair to say that the Academy Drywall Ltd. case no longer represents the manner in which this Court deals with such appeals and Appellant counsel's approach using a two step analysis was simply incorrect.
+[20] It is not disputed that the Appellant and the Worker "are related". The Worker's father, James Martin, is the owner and sole shareholder of the Appellant company and pursuant to section 251 of the Income Tax Act they are deemed not to be dealing with each other at arm's length.
+[21] The issue is whether, having regard to all of the circumstances of the Worker's employment, it was reasonable for the Minister to conclude that the parties would not have entered into a similar contract of employment if they had been dealing with each other at arm's length. Expressed another way, was the Worker's engagement with the Appellant excepted employment within the meaning of paragraph 5(2)(i) of the Act as the Worker and Appellant were not dealing with each others at arm's length.
+[22] The basic assumptions which the Appellant's witnesses disagreed with, either completely or in part, were (f), (g), (h), (k) and (m). Assumptions (n), (o), (p) and (q) were clarified by the Appellant witnesses.
+Assumptions (f) and (g):
+[23] Both James Martin and Daniel Ross clarified that the Worker did not "collect" mini park rents but "received" those rents. This changed the reference in assumption (g) from "collection" of rents to "receiving" rents. They both stated that the duties listed in assumption (f) encompassed the mini park aspect of the Worker's job but Mr. Martin was clear that she was also dealing with the construction side of the business operations which increased during the May to October season. He went on to state that she was hired to deal primarily with the construction issues. Mr. Ross confirmed Mr. Martin's evidence, stating that the summer season in the construction industry was the busiest with increased office traffic in which the Worker dealt with bids, quotes, suppliers, and tenders. In addition the evidence of the Worker was that her work was split equally between the mini park and the construction aspects. The evidence of these witnesses supports my conclusion from the facts, that there were additional duties which the Worker performed throughout her period of employment which were not considered by the Minister. It is clear that the mini park duties constituted only a portion of her work related activities and that a significant part of her duties related to the construction side of the overall operations.
+Assumption (h):
+[24] Mr. Martin deferred commentary on a number of the assumptions including assumption (h) to David Ross because he spent only a few hours in the office each week and did not have personal knowledge concerning the rate of pay or hours worked for the Worker, Jaymie Wilson or Cecilia Dennis. Mr. Ross stated that this assumption was "absolutely wrong". He was in the office every day, knew what was needed for the smooth operation of the office and knew what the employees were doing. He stated that the Worker was kept busy for 40 hours weekly. On cross-examination he stated that she was doing tasks given by either himself or another office employee, Kim Armstrong. He was present in the office during the period in question and although Mr. Martin was not present and could not add anything to the evidence of Mr. Ross, the Worker herself confirmed that she was in the office actively working full days every week for this period. There is no evidence to indicate anything to the contrary. I was given no reason why I should not accept the evidence of the Worker and Mr. Ross that the Worker was present every day for those hours, that the Appellant required someone there every day and that the Worker performed real tasks beneficial to the Appellant during its peak period.
+Assumption (k):
+[25] Both Mr. Martin and Mr. Ross testified that Jaymie performed services for all of the group of corporate entities and not just two as stated in this assumption. Again I accept their testimony, as there was nothing in the evidence to the contrary. The appeals officer testified that this information came from the Worker. However the Worker would probably not have had sufficient knowledge to provide this information. After hearing from the witnesses, I would accept the evidence of Mr. Martin, confirmed by Mr. Ross, over the evidence of the Worker regarding this particular assumption as she would not be privy to the same information that the owner and Mr. Ross would be.
+Assumption (m):
+[26] Both Mr. Martin and Mr. Ross agreed with the first part of this assumption (that the Worker had previously worked for the various businesses operated by James Martin) but disagreed with the second part (that she did not require eight weeks of training to replace Jaymie Wilson). Mr. Martin's evidence was that Jaymie spent some time training the Worker during the eight-week period but that Jaymie was also concentrating on the safety construction program for which she was the company's safety officer. Mr. Ross stated that Jaymie was leaving at the busiest time in the office and that they relied on Jaymie to provide whatever training the Worker required to be familiar with the operations because once Jaymie left the rest of the office employees would not have the time to assist or oversee the Worker. The Worker herself told me that her training period was approximately three to four weeks and that for the balance of the period that Jaymie worked with her, they each worked independently. She stated that she had done the job previously but that over time the job had changed significantly due to the amount of growth in the company operations. I accept the Worker's evidence concerning the training period. It appears from the evidence that the Minister assumed that the entire eight-week period, that the Worker and Jaymie worked together in the office, was an eight-week long training period but the facts support a much shorter training period. The Worker was able to free Jaymie's time so that she could concentrate on the safety program and on the environmental issues and aspects of the business with the support of her science degree. Given this evidence it was simply wrong for the Minister to assume that the entire eight-week period was devoted to training.
+Assumption (n):
+[27] While Mr. Martin agreed with the assumption, Mr. Ross clarified it and stated that a shortage of work is usual each fall in the construction industry and that a number of employees are routinely laid off. He said that although the Worker's Record of Employment did list "shortage of work" it was actually a "shortage of full-time work" and not a "shortage of part-time work". It was a corporate decision to reduce the job to part-time hours because it was the beginning of a slower period for the construction industry. The response to question 7 of the Questionnaire (Tab 3 of Exhibit R-1) was that there was no pre-determined duration for the job. Mr. Ross explained that Jaymie's maternity leave was for an indefinite period of time and in hiring the Worker his thinking was not long range as she had assisted the company in the past for various periods of time. They were happy with her past work but unsure how long she would stay this time. In responding to question 7, by including the word "indefinite", Mr. Ross thought the response was adequate as he was unsure of the Worker's long-term plans or of Jaymie's return date. The Worker stated that she first became aware that her job would be reduced to part-time hours in the early fall when the business began to slow down. When asked about her reaction to this she stated she "...wasn't excited about having my job cut to half so I looked around...". She added that her long-term goal was not to be a secretary in the construction industry and she was considering returning to school. She refused the part-time hours, found part-time work in a field related to her future career and returned to school a few months later. In addition she had no background in sales, was not bilingual and simply did not want to do sales work which would now be part of the part-time job that the Appellant was offering. I accept the explanation of the Worker here, confirmed and clarified by Mr. Ross, respecting the shortage of work. I think a simple business decision was made when a slow-down commenced and although the Worker could have stayed with the company to do part-time work, she had her personal reasons for moving on. Her evidence was clear that she thought she would be working full-time until the end of an unspecified maternity leave and only in the fall did she become aware that the hours were being reduced.
+Assumptions (o), (p) and (q):
+[28] Mr. Martin's evidence was that Cecilia was not actually hired to replace the Worker, as Cecilia was hired to deal specifically with the mini home park activities while the Worker was hired primarily for the construction side of the business operations. As with the Worker, Mr. Martin could not comment on assumption (p), as he spent very few hours in the office and again referred to Mr. Ross. Mr. Ross stated that Cecilia was paid more than the Worker because Cecilia had been in the work force for over 30 years and brought a university education and experience to the job. Her pay rate was commensurate with her education and experience. This appears to be a reasonable business decision that was made to attract someone with this background, who wanted to work only part-time and who was willing to do sales. On cross-examination Cecilia stated that she had a lot of skills that the Appellant required for the work. The Worker's work history with the Appellant was that she worked several different times in the past but never stayed for any prolonged period. It is not unreasonable and is in line with good business acumen to pay a lower hourly rate of pay to this type of worker and to pay a higher rate to workers that have more education, more experience and more long-term plans to stay with the company. The evidence of the Worker was that she was paid less money than Jaymie because Jaymie had a university education and more experience. The facts support that Jaymie had a science degree and her job included safety program and environmental work, while Cecilia was university educated with 30 years in the work force and prepared to do sales. It would be highly unusual for a worker in these circumstances to expect or demand an hourly rate equal to the rate paid to these other two workers. Some of Jaymie's duties were similar to those of the Worker but some of her duties were completely removed from those of the Worker because the Worker did not have the science expertise to handle those aspects. Mr. Martin's evidence was that the Worker was hired primarily for the peak season of the construction industry although she also performed mini home park duties. Cecilia testified that her duties revolve around the administration of the mini park together with sales. This job again has some similarities to those of the Worker as the Worker performed some mini park activities as part of her job. However she never did sales as Cecilia does and in fact this was one of the reasons she did not accept part-time hours with the Appellant. This is not a situation where the three workers are performing identical work-related activities and the facts fully support my conclusion that the Appellant made a reasonable business decision to pay the Worker less than Jaymie and Cecilia both of whom had more experience, more education and long-term plans to stay with the Appellant.
+[29] In summary, the Appellant has adduced sufficient evidence to overcome the most relevant assumptions in this appeal. The facts do not support a conclusion that the Appellant should have entered into a contract with the Worker similar to the contract with the other two workers. Given the evidence before me, I believe the Appellant would have entered into a similar contract if the Appellant had been dealing at arm's length with the Worker.
+[30] The Respondent emphasized the fact that the Worker's Record of Employment recorded total insurable hours at 640 which was just 10 hours over and above the 630 hours required to be eligible for benefits. In light of the facts, particularly the evidence of the Worker and David Ross respecting the duration and termination of the employment, I conclude that the number of hours worked simply coincided with a slow down in the construction industry and the business decision to reduce the Worker's employment to part-time hours. This decision prompted the Worker's decision to seek work in a different field and to refuse to take on sales. And the evidence supports that she was never hired for a particular period but she was hired for an indeterminate time. There was no evidence to the contrary that the Appellant did not require someone in the office when the Worker was hired or that the Worker was not required throughout this period or that she actually did not perform the duties for which she was hired or that the rate of pay was unreasonable (in fact the appeals officer stated that it was a reasonable rate of return), or that she did not work 40 hours weekly or that she refused part-time work simply to be in a position to be eligible for collection of benefits.
+[31] The Respondent also argued that the Worker was replaced immediately and that that individual was able to complete the job in 24 hours weekly. However this argument is misleading because first of all the Worker's hours were to be reduced at this time, second the evidence has established that these two individuals were not performing identical duties, third both Mr. Ross and Cecilia testified that Cecilia does work at times four and five days per week and fourth the evidence is simply silent as to whether Jaymie has returned from maternity leave to resume her duties or whether another individual has been hired to concentrate on the construction activities.
+[32] The appeal is allowed, without costs, and the decision of the Minister is vacated.
+Signed at Ottawa, Canada, this 27th day of March 2006.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2006TCC196
+COURT FILE NO.:
+2005-4099(EI)
+STYLE OF CAUSE:
+M R Martin Construction Inc. and
+The Minister of National Revenue
+PLACE OF HEARING
+Moncton, New Brunswick
+DATE OF HEARING
+March 7, 2006
+REASONS FOR JUDGMENT BY:
+the Honourable Justice Diane Campbell
+DATE OF JUDGMENT
+March 27, 2006
+APPEARANCES:
+Agent for the Appellant:
+Edward McGrath
+Counsel for the Respondent:
+Martin Hickey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

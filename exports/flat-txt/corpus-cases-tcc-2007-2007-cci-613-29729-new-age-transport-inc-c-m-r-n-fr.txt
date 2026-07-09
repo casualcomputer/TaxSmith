@@ -1,0 +1,91 @@
+Title: New Age Transport Inc c. M.R.N
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29729/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-613-29729-new-age-transport-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2007-10-15
+
+# New Age Transport Inc c. M.R.N
+
+- Citation: 2007 CCI 613
+- Decision date: 2007-10-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6537, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+New Age Transport Inc c. M.R.N
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-15
+Référence neutre
+2007 CCI 613
+Numéro de dossier
+2007-2784(CPP)APP, 2007-2832(EI)APP
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Référence : 2007CCI613
+Date : 20071015
+Dossiers : 2007-2784(CPP)APP
+2007-2832(EI)APP
+ENTRE :
+NEW AGE TRANSPORT INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demandes entendues le 9 octobre 2007, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge suppléant D.W. Beaubier
+Comparutions :
+Représentants de l’appelante :
+MM. Allan Gustafson et Cecil Vail
+Avocate de l’intimé :
+Me Myra Yuzak
+____________________________________________________________________
+MOTIFS DE L’ORDONNANCE ET ORDONNANCE
+Le juge suppléant Beaubier
+[1] Les présentes demandes, visant la prorogation du délai dans lequel des avis d’appel peuvent être déposés, ont été entendues sur preuve commune à Saskatoon (Saskatchewan), le 9 octobre 2007. Alan Gustafson et Cecil Vail, d’Alvena (Saskatchewan), les deux dirigeants et les seuls présumés employés de la demanderesse, ont témoigné. Danny Servetnyk, le vérificateur à l’Agence du revenu du Canada (l’« ARC ») chargé du dossier concernant l’impôt sur le revenu de l’appelante, a témoigné pour le compte de l’intimé.
+[2] L’intimé a déposé les affidavits de Karen Walchuk, d’Edmonton (Alberta), qui disent que le 20 juillet 2006, le bureau d’Edmonton de l’ARC a envoyé par la poste à MM. Gustafson et Vail ainsi qu’à la demanderesse trois lettres les informant du rejet des appels visant les cotisations par lesquelles des cotisations au RPC et à l’A‑E avaient été établies, au motif que, du 1er janvier 2004 au 31 octobre 2005, les hommes en question exerçaient un emploi pour la demanderesse. Ils affirment tous ne pas avoir reçu de lettres. Les adresses et codes postaux inscrits dans les lettres étaient les bons, mais le nom de la ville qui était inscrit était « Alvenia » (Saskatchewan) au lieu d’« Alvena ».
+[3] M. Servetnyk a témoigné que le bureau de l’impôt sur le revenu, à Saskatoon, avait épelé le nom « Alvena » correctement dans tous ses documents et dans les lettres envoyées par la poste, et M. Vail a témoigné qu’il s’agit bien d’« Alvena ».
+[4] M. Gustafson et M. Vail sont des amis intimes; ils exercent ensemble leurs activités commerciales. M. Gustafson a été mis au courant de l’existence des lettres lorsque Kevin Warren, de l’ARC, a communiqué avec lui par téléphone pour demander des feuillets T‑4 à l’égard des présumés salaires versés au mois de février 2007. M. Gustafson a demandé les lettres et il a reçu l’une des lettres initiales le 26 mars 2007 (pièce A‑1), sans aucune lettre d’accompagnement. Dans l’intervalle, M. Gustafson s’était renseigné au sujet des modalités d’appel; il avait appris que le délai imparti était de 90 jours. Il a assuré le suivi par téléphone le 13 juin 2007, et il a interjeté appel et présenté la demande de prorogation de délai ici en cause le 14 juin 2007. La demande est fondée sur ce qu’il a reçu l’avis le 26 mars 2007 et que son document du 14 juin 2007 a donc été déposé dans les 90 jours impartis aux fins de l’introduction d’un appel.
+[5] La Cour croit toutes les personnes qui ont témoigné. MM. Gustafson et Vail conduisent des camions sur long parcours; ils ne vont pas régulièrement chercher leur courrier ou le courrier de l’entreprise dans leurs boîtes aux lettres, dans la petite ville d’Alvena. Cela explique également les intervalles irréguliers, en 2007, lorsque le problème a été porté à leur attention.
+[6] Le paragraphe 5(2) des Règles de procédure de la Cour canadienne de l’impôt à l’égard de la Loi sur l’assurance‑emploi prévoit que la « date de communication » d’un règlement d’une question ou d’une décision aux demandeurs « est la date à laquelle le règlement de la question ou la décision a été expédié par la poste [...] en l’absence de toute preuve du contraire ».
+[7] En l’espèce, la Cour croit MM. Gustafson et Vail lorsqu’ils déclarent qu’aucun des destinataires n’a reçu les lettres initiales, c’est‑à‑dire qu’on n’avait pas communiqué avec eux à ce moment‑là. En outre, la preuve montre qu’il existe une bonne raison : « Alvenia » est l’endroit où les lettres ont par erreur été adressées.
+[8] Il va sans dire que la communication du ministre doit être envoyée par la poste à la bonne adresse; c’est pourquoi la Cour conclut que les lettres de décision du 20 juillet 2006 n’ont pas été reçues par la demanderesse ni par MM. Gustafson et Vail. La lettre envoyée à la demanderesse (qui est la seule lettre dans l’enveloppe, et qui a été envoyée sans lettre d’accompagnement) a plutôt été reçue le 26 mars 2007, ce qui constitue donc la date de communication à l’entreprise demanderesse.
+[9] Par conséquent, les appels des décisions du ministre constituaient des appels valides interjetés en temps opportun par New Age Transport Inc. le 14 juin 2007 et reçus par la Cour le 18 juin 2007.
+Signé à Toronto (Ontario), ce 15e jour d’octobre 2007.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 29e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI613
+Nos DES DOSSIERS DE LA COUR : 2007-2832(EI)APP et 2007-2784(CPP)APP
+INTITULÉ : New Age Transport Inc.
+c.
+Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE : Le 9 octobre 2007
+MOTIFS DE L’ORDONNANCE : L’honorable juge suppléant D.W. Beaubier
+DATE DE L’ORDONNANCE : Le 15 octobre 2007
+COMPARUTIONS :
+Représentants de l’appelante :
+MM. Allan Gustafson et Cecil Vail
+Avocate de l’intimé :
+Me Myra Yuzak
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

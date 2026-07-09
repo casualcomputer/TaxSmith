@@ -1,0 +1,111 @@
+Title: 1277401 Ontario Limited c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27851/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-289-27851-1277401-ontario-limited-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-04-22
+
+# 1277401 Ontario Limited c. M.R.N.
+
+- Citation: 2005 CCI 289
+- Decision date: 2005-04-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 326, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1277401 Ontario Limited c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-22
+Référence neutre
+2005 CCI 289
+Numéro de dossier
+2004-743(EI), 2004-744(CPP)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2004-743(EI)
+2004-744(CPP)
+ENTRE :
+1277401 ONTARIO LIMITED S/N JSK EXPRESS,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 26 janvier 2005, à St. Catharines (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Représentant de l’appelante :
+M. Mark Thomas
+Avocat de l’intimée :
+Me Nicolas Simard
+____________________________________________________________________
+[TRADUCTION FRANÇAISE OFFICIELLE]
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi sur l’assurance-emploi et du Régime de pensions du Canada sont accueillis, sans dépens, et les cotisations sont renvoyées au ministre du Revenu national pour qu’il procède à un nouvel examen et qu’il établisse une nouvelle cotisation en tenant compte du fait que les pénalités relatives aux camionneurs sont annulées et que les cotisations sont par ailleurs ratifiées.
+Signé à Toronto (Ontario), ce 22e jour d’avril 2005.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 8 décembre 2005.
+Sara Tasset, traductrice
+Référence : 2005CCI289
+Date : 20050422
+Dossier : 2004-743(EI)
+2004-744(CPP)
+ENTRE :
+1277401 ONTARIO LIMITED S/N JSK EXPRESS,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] 1277401 Ontario Limited (« JSK Express ») conteste les cotisations établies à son égard en vertu de la Loi sur l’assurance-emploi et du Régime de pensions du Canada pour défaut de versement des cotisations relatives à environ 35 travailleurs (les « travailleurs ») au cours de la période allant du 1er janvier 2002 au 31 août 2003. La plupart des travailleurs conduisaient des camions pour JSK Express durant la période en question et la question à trancher consiste à déterminer si les travailleurs étaient engagés en qualité d’employés ou d’entrepreneurs indépendants. Les montants établis dans les cotisations s’élèvent à environ 46 000 $ et 84 400 $, en vertu de la Loi sur l’assurance-emploi et du Régime de pensions du Canada, respectivement, plus les pénalités et intérêts afférents.
+[2] L’appelante était représentée à l’audience par son président et propriétaire, Mark Thomas. En 1998, M. Thomas a fondé une entreprise, portant la dénomination sociale « JSK Express », qui s’occupait de livrer des marchandises dans la région située entre Buffalo et Toronto. L’entreprise détient et exploite actuellement à peu près 17 camions.
+[3] Lorsque M. Thomas s’est lancé en affaires, il a décidé d’embaucher des camionneurs à titre d’entrepreneurs indépendants. Cette décision se fondait sur ce qui était à son avis la pratique dans l’industrie, opinion tirée de sa propre expérience en tant que camionneur. M. Thomas a aussi déclaré qu’il en avait discuté avec ses experts-comptables et que ceux-ci étaient d’accord avec lui en ce qui concerne cette approche.
+[4] Quatre personnes ont témoigné à l’audience. M. Thomas a témoigné pour le compte de JSK Express, tandis qu’un répartiteur et deux anciens camionneurs ont témoigné pour le ministre. Le témoignage d’un des travailleurs, Scott Dutcher, n’était pas particulièrement utile parce que M. Dutcher avait travaillé pour JSK Express pendant seulement deux mois. Le témoignage des deux autres travailleurs s’est révélé plus utile et concordait généralement avec celui de M. Thomas. Ces témoins étaient Norman Cudmore, qui a été camionneur pendant un peu plus d’un an, et Allen Wiggens, qui a travaillé comme répartiteur environ trois ans et travaille toujours pour l’entreprise. En règle générale, j’ai trouvé que tous les témoins étaient crédibles.
+[5] Je résumerai d’abord la preuve relative aux travailleurs qui étaient des camionneurs. Il y avait approximativement 31 camionneurs qui, selon les conclusions de l’Agence du revenu du Canada, étaient des employés durant la période visée par les cotisations. M. Thomas a déclaré que, même s’ils avaient été embauchés strictement pour conduire des camions et qu’ils n’avaient aucune autre fonction, les camionneurs apportaient aussi fréquemment leur aide dans le chargement et le déchargement des camions. Les instructions de cueillette et de livraison étaient données aux camionneurs par les répartiteurs qui communiquaient avec eux dans la journée au moyen d’une radio et d’un téléphone cellulaire fournis par l’entreprise. M. Cudmore a décrit ses fonctions dans un questionnaire remis à l’Agence (pièce R-1) comme suit :
+[TRADUCTION]
+Conduire le camion, charger, décharger, s’occuper des lettres de transport, bien fixer la cargaison, s’assurer que le camion était en état de rouler (tour d’inspection), organiser le chargement pour faciliter le plus possible les livraisons, télécopier les documents aux courtiers américains pour passer les douanes américaines, vérifier le niveau des liquides du camion. Tout problème majeur avec le camion devait être signalé à Mark.
+[6] Les camionneurs fonctionnaient selon un horaire de travail régulier de cinq jours où les longues journées comptaient souvent de 12 à 14 heures. Certains avaient des heures plus stables que d’autres selon qu’ils avaient des itinéraires standard ou non. Les heures de travail avaient quand même tendance à varier parce qu’il était impossible de prévoir le temps nécessaire pour passer la douane à Buffalo.
+[7] Sur le plan de la rémunération, JSK Express payait la plupart de ses camionneurs selon un taux horaire, mais quelques-uns touchaient un salaire hebdomadaire. M. Thomas a indiqué qu’il avait envisagé d’instaurer un régime d’avantages sociaux suggéré par la Chambre de commerce, mais que ce régime n’avait pas été mis en œuvre parce que les camionneurs n’en voulaient pas.
+[8] Sur le plan du contrôle, M. Cudmore a déclaré que M. Thomas effectuait un suivi étroit de ses camionneurs pendant la journée. En ce qui concerne la formation, tout nouveau camionneur était formé en accompagnant un camionneur chevronné pendant sa première journée de travail. Selon M. Thomas, on procédait ainsi principalement pour pouvoir montrer au nouveau camionneur comment remplir les documents à la douane. Les camionneurs devaient se procurer de l’essence aux stations-service où JSK Express possédait un compte, ils devaient communiquer fréquemment avec les répartiteurs, étaient tenus de porter un uniforme et de donner un préavis s’ils voulaient prendre une journée de congé. M. Thomas a expliqué qu’il imposait ces exigences pour des raisons commerciales, car il avait eu des difficultés avec des camionneurs qui ne se présentaient pas au travail comme prévu et qui ne soignaient pas leur apparence, et il a fait part de la frustration qu’il éprouvait de constater que ses directives n’étaient pas toujours suivies. Dans le questionnaire qu’il a rempli, M. Cudmore a précisé que M. Thomas permettait aux camionneurs d’avoir des passagers à bord des camions dans la mesure où ils [TRADUCTION] « le faisaient intelligemment ».
+[9] Sur le plan des dépenses, il semble que JSK Express ait pris généralement à sa charge toutes les dépenses des camionneurs. En contre-interrogatoire, M. Thomas a affirmé que les camionneurs achetaient souvent des articles comme des gants et portaient l’achat au compte de l’entreprise. M. Cudmore a indiqué que, d’après lui, l’entreprise payait généralement les contraventions, mais il a semblé décrire dans son questionnaire un cas où JSK Express avait refusé de payer une de ses contraventions.
+[10] Sur les cinq travailleurs qui n’étaient pas des camionneurs, deux étaient des répartiteurs. M. Thomas a précisé qu’un d’entre eux avait été incapable de remplir ses fonctions adéquatement et n’avait pas gardé son poste après une courte période de formation. Il était raisonnable de considérer que son statut était le même que celui de l’autre répartiteur, Allen Wiggens, parce que leurs tâches étaient les mêmes.
+[11] Les tâches générales des répartiteurs consistaient à donner des instructions aux camionneurs relativement aux cueillettes et aux livraisons, puis à charger et à décharger les marchandises. M. Wiggens travaillait à temps plein, mais ses heures variaient parce qu’il ne pouvait quitter l’entrepôt tant que tous les camionneurs n’étaient pas repartis chez eux. Il touchait un salaire hebdomadaire.
+[12] Il y avait trois autres travailleurs. Leurs fonctions pourraient être décrites généralement comme du travail d’administration ou de gestion. Le premier, Doug Free, était le chef de bureau. Il s’occupait de l’administration et de la comptabilité en général et travaillait à temps plein selon un horaire régulier. Il recevait un salaire hebdomadaire. La deuxième, Ann Thomas, était la sœur de M. Thomas. Elle était l’adjointe de son frère et participait à tous les aspects de l’entreprise. La troisième était l’épouse de M. Thomas, qui se chargeait du travail de bureau.
+[13] MM. Wiggens et Free travaillaient généralement au bureau et à l’entrepôt de JSK Express mais il arrivait aussi qu’ils travaillent chez eux.
+Analyse
+[14] Je commencerai l’analyse par la question de l’intention. L’intention dans la présente affaire n’est pas contestée. JSK Express a informé clairement les travailleurs qu’elle avait l’intention de les embaucher en tant qu’entrepreneurs indépendants. M. Cudmore a fait savoir qu’il n’était pas satisfait de cet arrangement mais qu’il avait décidé de l’accepter.
+[15] Souvent, si les parties conviennent mutuellement d’établir une relation d’entrepreneur indépendant, on accorde à ce fait un poids important (Wolf v. The Queen, 2002 D.T.C. 6853 (C.A.F.)). Moyennant certaines limites, cependant. Si les parties nouent une relation qui présente toutes les caractéristiques d’un emploi, le fait qu’elles la décrivent comme une relation d’entrepreneur indépendant, ou de [traduction] « courtier », comme le faisait JSK Express, ne lui donnera pas cette qualité. Dans l’arrêt Wolf, le juge Noël s’était exprimé en ces termes :
+[122] […] Je reconnais que la façon dont les parties décident de décrire leur relation n'est pas habituellement déterminante, en particulier lorsque les critères juridiques applicables pointent dans l'autre direction […]
+[16] À mon avis, la description précitée est adéquate en l’espèce. La relation entre JSK Express et les travailleurs est conforme à un contrat de travail selon les critères juridiques décrits par le juge Major dans l’arrêt déterminant 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983 (C.S.C.) :
+[47] […] La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+[17] Les éléments d’une relation d’emploi qui sont présents en l’espèce sont les suivants : la sécurité d’un emploi stable, les heures de travail correspondant à un emploi à temps plein, la capacité de l’employeur d’exercer un contrôle sur la façon dont le travail est exécuté, l’absence d’une contribution financière de la part des travailleurs et un salaire régulier calculé à l’heure ou à la semaine.
+[18] La preuve a montré que certains camionneurs avaient tendance à ne pas se conformer aux politiques de la société, par exemple en ne portant pas leur uniforme ou en ne donnant pas de préavis de leurs absences. On peut en conclure que M. Thomas s’attendait à ce que les travailleurs se plient aux directives raisonnables de la société. L’omission, par certains travailleurs, de suivre ces directives n’est pas la preuve du genre d’arrangement souple qui est courant dans le cas d’un entrepreneur indépendant et témoigne plutôt d’une conduite inférieure aux normes de la part d’un employé.
+[19] Je soulignerai que le chef de bureau jouissait d’une plus grande latitude dans l’exercice de ses fonctions parce que M. Thomas s’en remettait à sa plus longue expérience en comptabilité et en informatique. Cette déférence est typique dans une relation d’emploi où une personne possède des compétences dans un domaine spécialisé, et le degré de contrôle réellement exercé est en général moindre dans ces circonstances. À mon avis, la relation qui existait avec le chef de bureau tient également d’un emploi et ne comporte pas la souplesse qu’on associerait à la situation d’une personne travaillant à son propre compte.
+[20] Je soulignerai également que la conclusion relative aux camionneurs est conforme à plusieurs décisions judiciaires. Je me reporte en particulier aux jugements suivants, où les camionneurs ont tous été considérés comme des employés : Dewdney Transport Group Ltd. c. M.R.N., 2004 CAF 183 (C.A.F.); Barclay Lutz c. M.R.N., 2004 CCI 319 (C.C.I.) et F.G. Lister Transportation Inc. c. M.R.N., [1998] A.C.I. no 558 (C.C.I.).
+[21] Les faits dans ces arrêts peuvent être distingués des jugements où les tribunaux ont conclu que les camionneurs étaient des entrepreneurs indépendants. Par exemple, dans l’affaire D & J Driveway Inc. c. M.R.N., 2003 CAF 453 (C.A.F.), le juge Létourneau s’est exprimé comme suit :
+[15] Nous croyons qu'il est légalement erroné de conclure à l'existence d'un lien de subordination et, en conséquence, à l'existence d'un contrat de travail, lorsque la relation entre les parties consiste en des appels sporadiques aux services de personnes qui ne sont aucunement tenues de les pourvoir et peuvent les refuser à leur guise. […]
+[22] De même, dans l’affaire Le Livreur Plus Inc. c. M.RN.., 2004 CAF 68, la Cour d’appel fédérale a jugé que les camionneurs qui fournissaient leur propre véhicule et étaient libres de se trouver des remplaçants répondaient aux critères relatifs aux chances de profits et aux risques de pertes et travaillaient donc à leur propre compte, c'est-à-dire qu’ils étaient des entrepreneurs indépendants.
+[23] Par contre, la relation entre JSK Express et les travailleurs présente les caractéristiques d’une relation d’emploi typique décrites par le juge Décary, soit la continuité, la sécurité, la subordination et l’intégration (Procureur général du Canada c. Les Productions Petit Bonhomme Inc., 2004 CAF 54 (C.A.F.)).
+[24] J’aborderai maintenant la question des pénalités. L’avocat du ministre a indiqué que les intérêts et pénalités ont été imposés automatiquement sans qu’on se demande si M. Thomas avait fait preuve de diligence raisonnable ou non. Les tribunaux ont généralement accepté qu’une partie pouvait faire valoir sa diligence raisonnable comme moyen de défense contre les pénalités infligées en vertu des lois en matière de fiscalité (Pillar Oilfield Projects Ltd. v. Canada, [1993] G.S.T.C. 49 (C.C.I.); Canada v. Consolidated Canadian Contractors Inc., (1998) 165 D.L.R. (4th) 433 (C.A.F.); Corp. de l’École Polytechnique c. Canada, 2004 CAF 127 (C.A.F.)). Je ne vois pas de raison de refuser d’appliquer cette même approche aux lois qui s’apparentent à des lois fiscales comme le Régime de pensions du Canada et la Loi sur l’assurance-emploi (voir Intria Corp. c. Canada, [2001] A.C.I. no 819 (C.C.I.)).
+[25] En ce qui concerne JSK Express, j’accepte le témoignage de M. Thomas suivant lequel il était convaincu de bonne foi, compte tenu de ses antécédents, que c’était une pratique courante dans l’industrie du camionnage d’embaucher des camionneurs à titre d’entrepreneurs indépendants. Dans ces circonstances, je crois qu’il serait approprié d’annuler les pénalités relatives aux travailleurs qui étaient camionneurs. Ce moyen de défense n’est pas possible dans le cas des autres travailleurs, cependant, et les cotisations sont ratifiées en ce qui concerne les pénalités à l’égard des travailleurs qui n’étaient pas camionneurs.
+[26] Par conséquent, les appels sont accueillis dans la mesure où les pénalités sont annulées en ce qui concerne les camionneurs. Les cotisations seront par ailleurs ratifiées.
+Signé à Toronto (Ontario), ce 22e jour d’avril 2005.
+« J. Woods
+Juge Woods
+Traduction certifiée conforme
+ce 8 décembre 2005.
+Sara Tasset, traductrice

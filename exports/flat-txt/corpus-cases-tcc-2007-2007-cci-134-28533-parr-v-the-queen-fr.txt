@@ -1,0 +1,130 @@
+Title: Parr v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28533/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-134-28533-parr-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-03-07
+
+# Parr v. The Queen
+
+- Citation: 2007 CCI 134
+- Decision date: 2007-03-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1262, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Parr v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-07
+Référence neutre
+2007 CCI 134
+Numéro de dossier
+2006-820(IT)I
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2006-820 (IT)I
+COUR CANADIENNE DE L’IMPÔT
+LOI DE L’IMPÔT SUR LE REVENU
+ENTRE :
+TIM PARR,
+appelant.
+et
+SA MAJESTÉ LA REINE,
+intimée.
+JUGEMENT RENDU À L’AUDIENCE
+PAR M. LE JUGE EUGENE ROSSITER
+dans la salle d’audience no 6B, Service administratif des tribunaux judiciaires,
+Centre judiciaire fédéral, 180, rue Queen Ouest, 6e étage,
+Toronto (Ontario),
+le jeudi 8 février 2007 à 16 h 15.
+COMPARUTIONS :
+Me Mark Greenstein pour l’appelant
+Me Sonia Akibo-Betts pour l’intimée
+Également présent :
+M. Colin F. Nethercut greffier audiencier
+A.S.A.P. Reporting Services Inc. 8 2007
+200, rue Elgin, bureau 1004 130, rue King Ouest, bureau 1800
+Ottawa (Ontario) K2P 1L5 Toronto (Ontario) M5X 1E3
+(613) 564-2727 (416) 861-8720
+Toronto (Ontario)
+--- L’audience a commencé le jeudi 8 février 2007, à 16 h 15.
+LE GREFFIER AUDIENCIER : L’audience reprend.
+JUGEMENT RENDU À L’AUDIENCE :
+LE JUGE ROSSITER : J’ai été saisi de la présente affaire par suite d’une nouvelle cotisation datée du 16 janvier 2006 dont l’appelant a fait l’objet. Les faits ne sont pas réellement contestés. L’appelant s’est marié le 16 août 1980. Une enfant, Tanya, née le 28 juillet 1983, est issue du mariage.
+L’appelant et son épouse ont divorcé le 3 septembre 1987, comme le montre la pièce A‑1. Le paragraphe 5 de cette pièce est rédigé comme suit :
+[traduction]La Cour ordonne au mari intimé, Timothy James Parr, de verser à la requérante, Valerie Ellen Parr, un montant mensuel de 250 $ le 1er jour de chaque mois pour subvenir aux besoins de l’enfant issue du mariage, Tanya Valerie Parr.
+L’appelant s’est acquitté de toutes ses obligations conformément à l’ordonnance jusqu’à ce que son ex‑épouse quitte le ressort avec l’enfant, sur préavis d’une semaine, selon ce qu’il a dit. Selon l’appelant, aucune adresse de réexpédition n’a été donnée.
+L’appelant a suspendu ses paiements; à un certain moment le bureau chargé des obligations visant les pensions alimentaires, quel que soit son nom, a communiqué avec lui, et le dossier a finalement été fermé ou a été mis en suspens.
+À un certain moment, l’ex‑épouse réapparaît et revendique son droit à l’entretien pour ce qui est de l’arriéré et sur une base continue. L’appelant répond immédiatement et prend des dispositions afin de continuer à effectuer les paiements et afin de payer l’arriéré. L’appelant présente également une demande en vue d’obtenir, comme je le suppose, la modification ou la radiation de l’arriéré impayé.
+Une transaction a été conclue avec l’aide de la cour, d’où la pièce A‑4. Lorsque l’ordonnance produite sous la cote A‑4 a été rendue le 19 juillet 2004, l’arriéré s’élevait censément, selon la pièce R‑1, à 49 288,02 $.
+La pièce A‑4, soit l’ordonnance du 19 juillet 2004, accomplit une ou deux choses. Premièrement, il n’y est aucunement fait mention de la pièce A‑1, c’est‑à‑dire de l’ordonnance de divorce du 3 septembre 1987.
+Deuxièmement, l’ordonnance fixait l’arriéré de la pension alimentaire pour enfants à 10 500 $ au 31 juillet 2004, ce montant devant être payé dans les 45 jours suivant la date de l’ordonnance.
+Troisièmement, l’ordonnance accorde une pension alimentaire continue pour l’enfant issue du mariage, Tanya, un montant de 300 $ devant être payé chaque mois à compter du 1er août 2004, la pension cessant d’être payée si certaines conditions se présentent.
+La présente affaire soulève deux ou trois points. Premièrement, il s’agit de savoir si le paiement de 10 500 $ satisfait aux exigences applicables à la pension alimentaire pour conjoint selon la définition contenue au paragraphe 56.1(4) de la Loi. Deuxièmement, il s’agit de savoir si la date d’exécution, pour le paiement de 10 500 $, est la date à laquelle le jugement de divorce a été rendu ou la date à laquelle l’ordonnance de 2004, produite sous la cote A‑4, a été rendue. Voilà les points litigieux. Si c’est une pension alimentaire pour conjoint, ce n’est pas également une pension alimentaire pour enfants et, si elle l’est, il s’agit en pareil cas de savoir quelle est la date d’exécution applicable.
+La position prise par l’appelant est fondée sur le sens commun. Le paiement était un paiement visant l’entretien aux termes de l’ordonnance initiale. Il importe peu que le paiement soit effectué à temps. La question de savoir si un paiement périodique a été ordonné et si ce paiement a été effectué au moyen d’un montant forfaitaire importe peu selon certaines décisions que je ne mentionnerai pas nécessairement, étant donné qu’il est inutile de le faire en l’espèce.
+Enfin, la conclusion d’un accord a été ordonnée et l’accord a été confirmé par une ordonnance judiciaire aux fins de la déduction du montant en cause dans la déclaration de revenus de l’appelant et de l’inclusion de ce montant au titre du revenu dans la déclaration de revenus de l’ex‑épouse.
+On pourrait croire que le sens commun doit l’emporter. On pourrait croire que l’équité doit l’emporter, étant donné en particulier qu’une ordonnance judiciaire a été rendue.
+L’intimée affirme que ce n’est pas le cas. Premièrement, c’est la Loi de l’impôt sur le revenu qui détermine le montant déductible; ce n’est pas le tribunal ou le juge qui a rendu une ordonnance particulière qui détermine ce montant. Deuxièmement, une nouvelle date d’exécution a été déclenchée et, par conséquent, le nouveau régime concernant la déductibilité s’applique en vertu de l’alinéa 60b) de la Loi de l’impôt sur le revenu. Le montant représente une pension alimentaire pour enfants. Selon le nouveau régime, la formule s’applique et il n’y a pas de déduction.
+Que dit donc la loi? Le paragraphe 56.1(4) définit ce que l’on entend par pension alimentaire pour conjoint. Pour y être admissible, il faut satisfaire à bon nombre de critères. Premièrement, il doit y avoir allocation. Deuxièmement, le montant doit être payable ou à recevoir sur une base périodique. Troisièmement, le montant doit être payé pour subvenir aux besoins du bénéficiaire, d’enfants de celui‑ci ou à la fois du bénéficiaire et de ces enfants. Quatrièmement, le bénéficiaire doit avoir discrétion quant à l’utilisation du montant. Cinquièmement, le payeur et le bénéficiaire doivent vivre séparés l’un de l’autre pour cause d’échec de leur mariage et, sixièmement, le montant doit être à recevoir aux termes d’une ordonnance judiciaire ou d’un accord écrit.
+J’ai examiné diverses décisions portant sur la question de savoir si un paiement périodique, un montant forfaitaire ou autre chose est en cause. Il y a trois décisions, notamment la décision Groleau v. R., rendue par le juge Rip (tel était alors son titre), de la Cour canadienne de l’impôt, maintenant juge en chef adjoint de la Cour canadienne de l’impôt, 2002 DTC 1725.
+Les deux avocats ont mentionné la décision Lebreton. Je crois que cette décision figure à l’onglet 3 du recueil de jurisprudence de l’intimée; il s’agit d’une décision rendue par la juge Lamarre, de la Cour canadienne de l’impôt, le 11 septembre 2002. Il y a également une autre décision, Benham, 2006 CCI 410.
+Dans toutes ces décisions, il a été conclu que le montant en question n’était pas en soi une pension alimentaire pour conjoint et qu’il n’était donc pas déductible.
+Toutefois, il existe une autre affaire qui se rapproche énormément de la présente espèce. Il s’agit de la décision Soldera c. Le ministre du Revenu national, [1991] ACI no 142, rendue par le juge Garon, de la Cour canadienne de l’impôt. Les faits de cette affaire peuvent être résumés comme suit : la Cour avait initialement ordonné au contribuable de verser un montant mensuel de 200 $ au titre de la pension alimentaire pour enfants. L’ordonnance a par la suite été modifiée après qu’un arriéré eut été accumulé, un montant mensuel de l00 $ devant être payé, plus un montant de 7 500 $ au titre de l’arriéré.
+Après que le contribuable eut payé l’arriéré, le ministre a refusé la déduction du montant de 7 500 $ en se fondant sur le fait qu’il ne s’agissait pas d’un paiement périodique pour l’application de l’alinéa 60b) de la Loi.
+Le juge Garon (avant qu’il devienne juge en chef) a ensuite conclu que le montant forfaitaire était déductible parce qu’il cristallisait simplement les montants dus périodiquement aux termes de la première ordonnance et qu’il représentait en fait une partie de l’arriéré des paiements à effectuer pour l’entretien, lesquels étaient une allocation admissible payable sur une base périodique en vertu de l’alinéa 60b).
+On a également fait remarquer que le contribuable n’avait pas été libéré de quelque obligation existante ou autre à l’égard de l’entretien des enfants.
+Cette affaire correspond presque sur tous les points à celle qui nous occupe.
+Des décisions ont été rendues dans les deux sens. Sur quelles décisions vais‑je me fonder? Cela importe peu parce que, malheureusement, et je dis malheureusement parce que c’est ce que je pense, malheureusement, l’affaire peut être réglée au moyen de la date d’exécution, mais elle ne peut pas être réglée d’une façon favorable à M. Parr.
+La date d’exécution peut susciter un problème très compliqué, ou la question peut être fort simple. J’essaierai de suivre l’approche la plus simple en citant les remarques que le juge en chef adjoint Bowman, maintenant juge en chef, a faites dans la décision Kovarick c. R., [2001] ACI no 181, procédure informelle, Cour canadienne de l’impôt. Sur demande, je pourrai remettre plus tard ces passages aux avocats.
+Voici ce que le juge dit aux paragraphes 8 et 9 :
+En vertu de ce que je pourrais décrire comme l’ancien régime (antérieur à mai 1997), les conjoints effectuant des paiements à leurs conjoints dont ils étaient séparés ou à leurs anciens conjoints à titre d’aliments pour les enfants pouvaient déduire ces paiements et les bénéficiaires devaient les inclure dans leur revenu. À la suite de la décision de la Cour suprême du Canada dans l’affaire Thibaudeau c. Canada, [1995] 2 R.C.S. 627, la loi a changé. Tant qu’un accord antérieur à mai 1997 demeurait inchangé, le système de déduction et d’inclusion en vertu de l’ancien régime prévalait.
+Si un nouvel accord était conclu ou si un ancien accord était modifié d’une manière particulière, le régime de déduction et d’inclusion cessait, et seuls les paiements effectués à la « date d’exécution », ainsi qu’elle est définie, étaient déductibles par le payeur et devaient être inclus par le bénéficiaire dans son revenu.
+En l’espèce, cela répond à la question. Malheureusement, nous pouvons uniquement conclure qu’il y a eu un nouvel accord. L’ancien accord a été modifié d’une façon particulière; le régime de déduction a donc changé.
+M. Parr a payé les 10 500 $ aux termes d’une nouvelle ordonnance qui était différente de l’ancienne ordonnance. Étant donné qu’une pension alimentaire pour enfants est en cause, le montant n’est pas déductible entre les mains de l’appelant conformément à l’alinéa 60b) de la Loi de l’impôt sur le revenu.
+Je dis malheureusement parce que je crains fort que si le ministre, dans ce cas‑ci, – et nous ne pouvons pas nous attarder sur ce point, car il s’agit en fait d’une remarque incidente – s’il autorisait l’ex‑épouse à inclure ce montant dans son revenu, s’il imposait l’ex‑épouse à l’égard de ce revenu et s’il n’autorisait pas l’appelant à effectuer une déduction équivalente, il me semble malheureusement que la chose serait plutôt inéquitable.
+Quoi qu’il en soit, la Loi de l’impôt sur le revenu est ce qu’elle est. Je suis certain qu’il existe bon nombre d’autres cas dans lesquels il peut être jugé que la Loi de l’impôt sur le revenu n’est pas nécessairement équitable.
+En outre, je tiens également à signaler qu’en l’espèce, une ordonnance judiciaire a été rendue. M. Parr ne faisait que se conformer à une ordonnance judiciaire, en faisant ce qu’on lui avait fondamentalement ordonné de faire. Peu importe ce qu’on lui a ordonné de faire, la Loi de l’impôt sur le revenu ne lui accorde pas de déduction.
+Le droit est clair sur ce point particulier. Dans la décision Wilkinson, citée par l’intimée, Mme la juge Lamarre a dit ce qui suit au paragraphe 11 :
+Malheureusement pour l’appelante, le paiement qu’elle a perçu en 1998 devait être inclus dans son revenu pour l’année, conformément à l’alinéa 56(1)b) et au paragraphe 56.1(4) de la Loi. Le fait que le jugement de divorce indiquait que les paiements de pension alimentaire pour enfants n’étaient pas imposables entre les mains du bénéficiaire ne peut changer les conditions explicites de la Loi. Ce n’est que dans des circonstances particulières dont il est fait mention aux articles 56.1 et 60.1 de la Loi [...] qu’un accord ou une ordonnance peut stipuler que de tels paiements seront déductibles à l’égard du payeur et imposables à l’égard du bénéficiaire en vertu de ces deux articles, en tenant pour acquis que ces paiements soient admissibles à une déduction du revenu et à l’inclusion dans le revenu. Sinon, il n’est pas loisible à un tribunal judiciaire de déterminer, en vertu d’une ordonnance, que les paiements de pension alimentaire ne sont pas imposables à l’égard du bénéficiaire ni déductibles à l’égard du payeur, si la Loi stipule expressément qu’ils le sont.
+Eu égard aux circonstances de la présente affaire, la décision Wilkinson s’applique.
+Il existe une autre décision rendue par le juge Murray Mogan, de la Cour, Betts c. la Reine, dans laquelle la même disposition s’appliquait. Indépendamment de ce que puisse dire un juge d’un autre tribunal, la déductibilité doit néanmoins être déterminée conformément aux exigences de la Loi de l’impôt sur le revenu.
+Dans ce cas‑ci, la déduction n’est malheureusement pas autorisée eu égard aux circonstances.
+J’espère uniquement que le ministre n’a pas imposé la bénéficiaire. Mais s’il l’a fait, je n’y puis rien.
+L’appel est rejeté. Y a‑t‑il autre chose?
+Me GREENSTEIN : Non. Merci beaucoup, Monsieur le juge, de bien avoir voulu entendre l’affaire.
+Me AKIBO-BETTS : Non, Monsieur le juge, merci.
+LE JUGE ROSSITER : Merci.
+LE GREFFIER AUDIENCIER : L’affaire est close. La Cour met fin à ses travaux et les reprendra demain matin à 9 h 30.
+--- Ce sur quoi l’audience a pris fin à 16 h 32.
+RÉFÉRENCE : 2007CCI134
+No DU DOSSIER DE LA COUR : 2006-820(IT)I
+INTITULÉ : TIM PARR
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 8 février 2007
+MOTIFS DU JUGEMENT : L’honorable juge E. Rossiter
+DATE DES MOTIFS
+DU JUGEMENT : Le 7 mars 2007
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Mark Greenstein
+Avocate de l’intimée :
+Me Sonia Akibo-Betts
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Mark Greenstein
+Cabinet : Krol & Krol
+Richmond Hill (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

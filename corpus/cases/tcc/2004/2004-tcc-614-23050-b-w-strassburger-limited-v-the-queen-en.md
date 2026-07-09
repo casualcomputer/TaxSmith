@@ -1,0 +1,176 @@
+---
+title: "B.W. Strassburger Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/23050/index.do"
+last_modified: "2004-09-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 614"
+citation2: ""
+neutral_citation: "2004 TCC 614"
+decision_date: "2004-09-10"
+language: "en"
+item_id: "23050"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2305
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:03:10.701000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "86345dc9abffa4e6340fe388ce8aad29fd8750aaa38ff0aedf30875b7fa1157d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# B.W. Strassburger Limited v. The Queen
+
+- Citation: 2004 TCC 614
+- Decision date: 2004-09-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2305, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+B.W. Strassburger Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-10
+Neutral citation
+2004 TCC 614
+File numbers
+1999-4087(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 1999-4087(IT)G
+BETWEEN:
+B. W. STRASSBURGER LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 20, 21 and 22, 2004 at Toronto, Ontario
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the appellant:
+Franklyn E. Cappell and
+Sunita Doobay
+Counsel for the Respondent:
+Suzanne Bruce
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1996 taxation year is allowed, with costs, and the matter is referred back to the Minister for reassessment and reconsideration on the basis that the appellant's disposition of the shares in 1996 were on account of capital.
+Signed at Ottawa, Canada, this 10th day of September 2004.
+"Gerald J. Rip"
+Rip J.
+Citation: 2004TCC614
+Date: 20040910
+Docket: 1999-4087(IT)G
+BETWEEN:
+B. W. STRASSBURGER LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip J.
+[1] B. W. Strassburger Limited ("appellant") appealed an income tax assessment for the 1996 taxation year in which the Minister of National Revenue ("Minister") considered that certain securities of publicly traded corporations were disposed of in the course of the appellant's business. The Minister reassessed the appellant for 1996 by treating the appellant's profits from 52 sales of securities in the year on account of income and treating its gains from another 32 dispositions of securities on account of capital. The difference in treatment is that the Minister considered securities held less than a year as trading assets and those held more than 365 days as capital assets. The Minister also considered securities to be trading assets if the appellant had originally purchased shares and held them for more than a year but subsequently purchased additional shares of the same corporation but held these latterly purchased shares for less than 365 days[1].
+[2] After argument by counsel, I stated that the appeal would be allowed and that my reasons would follow in due course.
+[3] Mr. Jack Segal, a chartered accountant, who was the appellant's auditor until 1996 but who worked on the appellant's 1996 financial statements, described the appellant's origins and the character and intentions of its founder, Barney Strassburger, Senior ("Senior").
+[4] Senior's is a rags to riches success storey. At all times the appellant was owned and controlled by members of the Strassburger family. Senior purchased a Kentucky Fried Chicken ("KFC") franchise in the 1950's and at the time of his death the appellant operated 33 KFC and related franchises and a corporation, Key Brand Foods Inc. ("Key Brand"), that prepared food for distribution and sale to KFC franchises.
+[5] Senior had four children. Only one of his children, Barney Strassburger, Junior ("Junior") was interested in the business. Junior was involved in the business since he was 14 years of age, recalled Mr. Segal. While one of Senior's daughters did work in the business for a while, neither she nor her other two siblings were interested in working. Senior wanted to protect the children not in the business and at the same time ensure the survival of the businesses.
+[6] Before 1988 all the Strassburger's family assets were owned by the appellant; the appellant did not own shares in publicly traded corporations. Among the assets owned by the appellant were Twins Drive-In Limited ("Twins"), which owned the KFC franchises, Key Brand and real estate.
+[7] In 1988 Senior was still active in the business, primarily with Key Brand, and Junior was responsible for the KFC operations. Senior was also spending about four months a year in Florida and Junior would replace him at Key Brand during his absence. The Strassburgers would keep in constant contact by telephone and fax while the elder Strassburger was in Florida. Mr. Segal recalled that the Strassburgers had a strong management team and had competent employees.
+[8] Senior wanted to protect his non-working children and, at the same time, recognize Junior's efforts and ability. As Mr. Segal put it, he wanted to cement things in place so the children would be looked after and let Junior expand and reap the rewards. Therefore in 1988 the appellant and Twins, and some other "minor" corporations proceeded to an (vertical) amalgamation. The amalgamated company continued for a week so as to claim depreciation for tax purposes. At the end of the week the appellant sold its KFC stores, franchises and equipment to a new corporation, Twin's Drive-In Inc. ("New Twins"); the common shareholders in New Twins were Junior and his sister June, each as to 50 per cent as well as Senior who appears to have owned preferred shares. The sale price was $9,500,000, the purported fair market value of the assets being sold. The purchase price was secured by a note in this amount payable over seven and a half years with interest at the rate of nine per cent per annum.
+[9] New Twins was very successful in paying off its loan to the appellant. At the same time Key Brand was extremely successful. Cash was flowing to the appellant. Senior was concerned with what to do with the cash. In the meantime the arrangement between Junior and his sister June was not working out and in 1990 the father and son decided to purchase June's shares in New Twins. New Twins and Key Brand continued to thrive. Senior did not want to be in a situation of "wealth creation", Mr. Segal stated, and in 1992 he decided to freeze New Twins' shares. New Twins was worth about $8,000,000 at the time. The freeze resulted in the father and son each owning $4,000,000 in preferred shares and Junior owning one common share in New Twins. Senior contemplated that on his death Junior would purchase each siblings interest for $1,000,000 or, since the preferred shares were retractable, New Twins could purchase the preferred shares from the children.
+[10] New Twins was extremely successful under Junior. It was repaying the note quicker than anticipated. The appellant had cash and Senior continued to be concerned about what to do with the money. He was not content with investing funds in guaranteed investment certificates because he feared inflation would cause an economic loss. He considered investing in land and publicly traded companies and opted for the latter.
+[11] The appellant's first investment was the purchase of $2,000,000 of shares in Pepsico in 1992. Pepsico was the franchiser of KFC at the time and Senior felt comfortable with this investment. As cash continued to be accumulated in the appellant additional investments were made in shares. On July 17, 1995 Senior suffered a stroke and ceased to be active in Key Brand and the appellant.
+[12] By April 28, 1996, the 1996 year-end of the appellant, the appellant's marketable securities were worth $5,865,394. The appellant also had mortgages and loans receivable (from arm's length and non arm's length transactions) in the amount of $3,145,697, the main loan receivable was from New Twins in the amount of $2,530,107. Mr. Segal estimated the appellant's value at its 1996 year-end at approximately $34,000,000.
+[13] Before his stroke Senior reviewed possible investments and he decided what stocks the appellant would purchase. He preferred companies whose businesses he knew and understood. He purchased "quality" stock on the Toronto and New York Stock Exchanges; he did not purchase junior mining or oil companies, for example. The securities were acquired through a stockbroker and by computer. From time to time he would ask Mr. Segal for his views but Mr. Segal said he did not follow the stock market. Mr. Segal insisted Senior wanted to create a pool of funds for his other three children to live on once he died. Senior died in 2002.
+[14] Sometime before 1995 Senior subscribed to a course on share trading. Mr. Segal believed the course related to "calls and puts". Apparently Senior lost interest in the course.
+[15] Produced at trial by the appellant was a summary of shares it sold during the period from May 1, 1995 to April 28, 1996. The document is divided into four horizontal sections, the first three sections describing shares sold in the year which were held for less than ninety days, less than 180 days and less than 365 days respectively; the bottom portion described shares sold that were held for more than a year. Vertical sections of the document describe the name of the investment, number of shares held at the beginning of the year, dates the shares were purchased from May 2, 1995 to year end, number of shares purchased, dates shares were sold during the fiscal year and the number of shares sold on various dates, number of days the sold shares were held, profit or loss from each sale transaction and dividends received in the year from each stock sold in the year.
+[16] Mr. Segal reckoned that in the first section, stocks held less than 90 days, only five of the 11 shares were dividend paying but were sold before any dividends were paid; included among the shares held less than 90 days were seven "calls". The shares sold within 90 days included shares of Compaq, Bowater, Sun Microsystems, Singer, Tembec, Lotus Development, Bethlehem Steel and Advanced Gravis. The "calls" included the Canadian dollar, Chemical Bank, Advanced Microsystems and Silicon Graphics. The appellant's net gain from shares held less than 90 days was $491,176.
+[17] The shares held for less than 180 days included Walgreen, Cobra Golf, Sybase, Gentra, Elpaso, Nova Scotia Power, Multi-Corp, Weldwood, Enserve Corp, Advanced Microsystems, General Motors and Dycom. The appellant's net gain from shares held between 90 and 179 days was $702,506.
+[18] Shares sold between 180 and 365 days included Maple Leaf Farms, Silicon Graphics, Mountain Province Diamonds, Cott's Beverages, Calloway Golf, Onex, Wal Mart, Boston Chicken, MHI Group, Nova Corp, Investor's Group and Laidlaw. Five of the companies paid dividends to the appellant in the year. The appellant's net gains from shares held more than 180 days but less than 365 days were $969,773. The appellant's net gain on shares held more than one year that were sold in 1996 was $479,606.
+[19] In the reply to the notice of appeal, the respondent declared that in assessing the appellant, the Minister assumed various facts, including the following:
+15. ...
+e) in late 1995, the Appellant hired Terry Rocke ("Rocke") as a full-time advisor in security trading;
+f) Barney Strassburger Sr. and Barney Strassburger Jr. authorized Rocke to purchase and sell securities based on his studies of the stock markets and on his investigations into potential stock acquisitions;
+g) Barney Strassburger Sr. and Barney Strassburger Jr. relied on Rocke's experience and knowledge in the securities market;
+h) at all material times, Rocke did not seek the long-term growth of the securities acquired by the Appellant and his strategy was to purchase securities and to sell such securities quickly;
+[20] The testimony of Messrs. Segal, Rocke and Junior are unanimous: Mr. Rocke ("Rocke") never even approached the description of an advisor in security trading. The Minister apparently assumed Rocke was an advisor as a result of his officials meeting with him. Rocke testified that his representations to the officials exaggerated his functions and responsibilities with the appellant. No official from Canada Customs and Revenue Agency ("CCRA") interviewed either of the Strassburgers. Rocke stated he had filed income tax returns reporting he carried on a business and feared tax authorities would disallow the expenses he claimed he incurred in the business. In order to convince the authorities that he carried on a business, Rocke represented to the authorities that the appellant, for example, bought, sold and held stocks "based upon my feel of the market and the individual stock". In other words, he represented himself to be a "wheeler dealer". Nothing could be further from the truth, as Rocke, himself, admitted. He said he lied to CCRA officials. After observing Rocke, I have concluded that he was not a person whose advice Senior would have acted on. The Minister's assumptions regarding Rocke are wrong.
+[21] Rocke met Junior socially in the early 1990's. Junior then hired him to do some market research on traffic patterns and flows near drive-in restaurants to help in determining where new KFC stores should be built. Before this, Rocke had sundry jobs with various employers. In 1994 Junior asked Rocke to help his father put the appellant's stock portfolio on computer. Junior was too busy working in the restaurant business to help out. Senior apparently knew what a computer could do. Rocke helped him purchase a computer, printer and fax as well as software. Rocke said he also wrote some programs on DOS for the appellant. The stock portfolio was computerized between December 1994 and June 1995. Rocke was paid $2,000 for his efforts. He was also allowed to use the appellant's office while looking for a job during this time.
+[22] Upon Senior's return from Florida in 1995, Rocke asked his help in acquiring a business. Instead, Senior offered him a job working 20 hours per week. Rocke's responsibility was to gather information requested by Senior. Rocke could do what he wished for the balance of the time. He also had use of an office telephone and fax machine while he looked for a permanent position.
+[23] Rocke simply supplied information that Senior requested. Rocke had no investment experience. Except for some Bell Canada shares his father purchased for him when he was a youth, he owned no shares before 1994. Rocke did not devise any financing strategies. He never took any courses on securities. He never had authority from the Strassburgers, father or son, to purchase or sell stock on his own. He acted on their instructions. The appellant did not purchase and sell securities based on Rocke's studies of the stock market and his investigations into potential stock acquisitions. The Strassburgers never relied on Rocke's experience and knowledge in the securities market; his experience and knowledge was zero.
+[24] Rocke testified that his job was to make sure Senior knew the value of the appellant's portfolio "quickly". Senior, he recalled, was very "hands on".
+[25] At the appellant's offices Rocke would watch financial programs on television with Senior. He also read newspapers such as the Globe & Mail, Financial Post, Investors News and the Kitchener-Waterloo Record; if he thought some article may be interesting to Senior, Rocke would show him the article. Rocke gathered information for Senior; he did not carry on any research; nor was he qualified to do so.
+[26] The appellant also subscribed to "Money Line", a Reuter's service, and for $10 Senior would be able to order a report and receive it on-line. Rocke would print the report and give it to Senior. Rocke would also look at the report so that if Senior wished to discuss it, he would be available as a sounding board. Rocke recalled that "you would wait for [Senior] to say something and you would react". Rocke did not volunteer information to Senior. Senior may have asked Rocke if he knew what a particular corporation did and Rocke would find out for him.
+[27] Rocke prepared daily and weekly portfolio reports for Senior: the shares, their number, cost, current value and number of shares traded during the period.
+[28] The appellant purchased Tenneco and Bowater, for example, on the recommendation of a broker, after reviewing the history of the companies, the historic prices and ratios, etc. When the broker's target price was reached within weeks instead of a year, the stocks in Tenneco and Bowater were sold, Rocke recalled. Rocke did not influence any purchases or sales.
+[29] After Senior's stroke in July 1995, his son asked Rocke to continue working, but on a full-time basis, doing the same type of work as he was doing for Senior. Junior wanted to maintain some continuity, Rocke recalled. Rocke had no increased or additional responsibilities. He still could not purchase or sell stock on his own.
+[30] Rocke acknowledged that in 1996 the appellant was more actively buying and selling stock.
+[31] Before his father's stroke Junior was aware of, but not interested, in the appellant's investments. He was interested in the business only. After the stroke he had to take care of the investments as well as Key Brand. On the advice of a broker he caused the appellant to purchase some "calls" in December 1995 and January 1996, but the appellant lost money on these "calls". Junior did not cause the appellant to purchase "calls" again.
+[32] As a full-time employee with the appellant after Senior's stroke, Rocke would inform Junior of any significant change in value of any shares in the portfolio. Junior's broker advised him to buy or sell. Rocke was the liaison between the broker and Junior. Rocke would also telephone the Toronto Dominion Bank Green Line and place orders for the appellant on Junior's instructions. Before his stroke, Senior would make the calls to Green Line himself.
+[33] Senior, Rocke recalled, used to complain that he could not get a straight answer out of Rocke. Junior had the same complaint in his testimony. Junior testified he is a "yes or no guy" and Rocke "can't say yes or no". Rocke also frequently hesitated to give a straight answer during his testimony.
+[34] Junior corroborated much of Messrs Segal's and Rocke's testimony. He is a successful businessman who, after his father's death, became responsible for all of the family's economic activities. He impressed me as a hard-working businessman.
+[35] Junior agreed that Rocke was hired by his father to put the stock portfolio on computer. "It was low on my priority list." Junior made no investment decisions before his father's stroke. After his father's stroke, Rocke continued to have no authority to buy or sell shares.
+[36] Junior described Rocke as a monitor and coordinator for his father. He, himself, was afraid of the stock portfolio. Junior was not sure how to run the stock portfolio. It was "new to me". That was one of the reasons he asked Rocke to stay on full-time. Junior asked his broker for advice, to evaluate the stock market and recommend purchases and sales. Rocke would be in touch with the brokers on Junior's behalf. "Everything that happened after July 17" was based on the broker's or Junior's advice.
+[37] Junior did not look at Rocke's daily reports on a daily basis. He was more concerned with running the business. If something important was happening, Rocke was expected to telephone him. Junior would regularly sit down with Rocke to discuss the portfolio. He would ask Rocke to obtain reports on a specific company or ask him if he read something interesting. This would include articles related to the appellant's restaurant business as well. As far as the portfolio was concerned, Junior's preference was to liquidate and eventually the family agreed to do so and receive regular cash dividends from the appellant in lieu of the appellant making investments. As at the date of trial, the appellant's portfolio was reduced to shares in only one publicly traded corporation.
+[38] Junior agreed Rocke did not prepare any strategies, he simply coordinated activity between him and the broker. Rocke never gave an opinion, although he did attend meetings with the broker and Junior.
+[39] Junior discussed the appellant's "exit strategy" with the broker soon after his father's stroke. The appellant's share portfolio was not doing well; the market in 1995 was poor; the appellant had $690,000 in unrealised losses and a $1,000,000 loss the next year. Junior decided to hold onto the portfolio hoping that the market would improve. At the same time, the appellant purchased shares so as to "average" down their costs and reduce losses, Junior testified. At all times dispositions, whether they resulted in gains or losses, were treated on capital account.
+[40] The evidence of the appellant was convincing: the appellant's activities on the purchase and sale of shares were not that of a trader in securities, as alleged by the Crown. I could find no fault in how the appellant treated the dispositions of the shares; the appellant has been consistent from day one: whether a loss or gain, dispositions were treated on capital account and there was no evidence before me that indicated that this treatment was wrong.
+[41] I question how or why the tax authority took the position they did. No doubt its officials relied on the self serving exaggerated representations of Rocke and did not have the courtesy of confirming his representations with a representative of the appellant. Also the arbitrary decision that shares held 365 days or less were held on revenue account and those held more then 365 days were on capital account was arbitrary and without any reasonable basis.
+[42] For these reasons I allow the appellant's appeal, with costs.
+Signed at Ottawa, Canada, this 10th day of September 2004.
+"Gerald J. Rip"
+Rip J.
+CITATION:
+2004TCC614
+COURT FILE NO.:
+1999-4087(IT)G
+STYLE OF CAUSE:
+B. W. Strassburger Limited v. Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 20, 21 and 22, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT:
+September 10, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Franklyn E. Cappell
+and Sunita Doobay
+Counsel for the Respondent:
+Suzanne Bruce
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Franklyn E. Campbell &
+Sunita Doobay
+Firm:
+Cappell Parker LLP
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The securities in issue apparently had a market value at the end of the appellant's 1996 taxation year at less than their cost. Since the Minister assumed the appellant was carrying on a business with respect to securities the Minister, in computing the appellant's income for 1996, deducted the sum of $1,528,847, applying subsection 10(1) of the Income Tax Act.

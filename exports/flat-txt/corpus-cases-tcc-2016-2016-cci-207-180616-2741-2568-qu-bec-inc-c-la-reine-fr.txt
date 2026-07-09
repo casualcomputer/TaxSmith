@@ -1,0 +1,302 @@
+Title: 2741-2568 Québec Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/180616/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-207-180616-2741-2568-qu-bec-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-09-22
+
+# 2741-2568 Québec Inc. c. La Reine
+
+- Citation: 2016 CCI 207
+- Decision date: 2016-09-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2893, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2741-2568 Québec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-09-22
+Référence neutre
+2016 CCI 207
+Numéro de dossier
+2011-3640(GST)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-3640(GST)G
+ENTRE :
+2741-2568 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu les 26 et 27 janvier 2015
+et continué le 3 décembre 2015, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelante :
+Me Benoît Aubertin
+Avocat de l'intimée :
+Me Christian Boutin
+JUGEMENT
+L’appel à l’encontre d’une nouvelle cotisation établie par le ministre du Revenu du Québec en tant que mandataire du ministre du Revenu national, en vertu de la Partie IX de la Loi sur la taxe d’accise, dont l’avis est daté du 18 octobre 2011 et ne porte aucun numéro distinctif, pour la période du 1er mars 2006 au 28 février 2009, est accueilli avec dépens et la nouvelle cotisation est annulée, le tout conformément aux motifs du jugement ci-joints.
+Les parties auront jusqu’au 24 octobre 2016 pour soumettre à la Cour leurs représentations concernant les dépens à moins qu’elles parviennent à résoudre le problème elles-mêmes d’ici là.
+Signé à Ottawa, Canada, ce 22e jour de septembre 2016.
+« Réal Favreau »
+Juge Favreau
+Référence : 2016 CCI 207
+Date : 20160922
+Dossier : 2011-3640(GST)G
+ENTRE :
+2741-2568 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit ici d’un appel logé à l’encontre d’une nouvelle cotisation établie par le ministre du Revenu du Québec en tant que mandataire du ministre du Revenu national (ci‑après le « ministre ») en vertu de la Partie IX de la Loi sur la taxe d’accise, L.R.C. (1985), c.E‑15, telle que modifiée (la «LTA »), dont l’avis est daté du 18 octobre 2011 et ne porte aucun numéro distinctif, pour la période du 1er mars 2006 au 28 février 2009 (la « période visée »).
+[2] Les montants cotisés en vertu de la nouvelle cotisation du 18 octobre 2011 sont les suivants :
+Rajustements apportés au calcul de la taxe nette déclarée
+16 882,82 $
+Pénalité pour versement tardif
+134,23 $
+Intérêts sur arriéré
+5 467,91 $
+Total du montant dû
+40 791,59 $
+[3] En établissant la cotisation en cause à l’égard de l’appelante, le ministre s’est fondé, entre autres, sur les conclusions et les hypothèses de faits suivantes, énoncées au paragraphe 27 de la Réponse à l’avis d’appel :
+a) les faits admis ci‑dessus;
+b) l’appelante est un inscrit aux fins de la Partie IX de la LTA;
+c) l’appelante exploite un restaurant de 60 places en salle à manger et de 66 places sur la terrasse, avec permis d’alcool, sous la raison sociale « RESTO‑PUB LA BAVIÈRE », à St‑Simon‑de‑Bagot au Québec;
+d) dans le cadre de l’exploitation de son entreprise, l’appelante effectue également la fourniture de déjeuner [sic] avec service aux tables;
+e) l’exercice financier de l’appelante débute le 1er mars d’une année donnée et se termine le 28 ou 29 février de l’année suivante;
+f) toutes les fournitures effectuées par l’appelante dans le cadre de l’exploitation du restaurant, soit une activité commerciale, pendant la période visée constituent des fournitures taxables pour lesquelles une taxe, soit la TPS, au taux de 7% [avant le 1er juillet 2006], de 6% [après le 30 juin 2006] ou de 5% [à compter du 1er janvier 2008] sur la valeur de la contrepartie de la fourniture, était payable par les acquéreurs à l’appelante, laquelle devait la percevoir;
+g) les registres et livres comptables de l’appelante remis au ministre lorsque requis de le faire, au moment de la vérification, étant incomplets et imprécis en ce que des nombreux écarts ont été décelés lorsque le ministre a reconstitué le montant total des fournitures effectuées par l’appelante par plusieurs méthodes indirectes de vérification pour la période visée;
+h) une analyse de divers éléments provenant de l’appelante ou de ses fournisseurs, tels que les dépôts bancaires, les achats confirmés et déclarés, les heures travaillées, les napperons utilisés, sont tous des éléments qui ont révélé un écart significatif par rapport aux ventes déclarées aux registres et livres comptables de l’appelante;
+i) le ministre a considéré les ventes de 3 228 notes de repas sur 50 jours ciblés au hasard sur une période de 166 jours;
+j) les ventes totales comptabilisées sur les 3 228 notes de repas atteignent 32 655,79 $;
+k) dix (10) items sur ces notes de repas ont été sélectionnés soit les saucisses à déjeuner, les bagels, la bière, le vin au verre ou en bouteille, les pains hamburger, les paninis, les boules à pizza, les bâtonnets de fromage et les ailes de poulets (les aliments ciblés);
+l) la vérification a permis de démontrer que 1 676 des aliments ciblés avaient été vendus sur les 3 228 notes de repas comptabilisées, générant un ratio de 19,48 [32 655,79 $ / 1 676];
+m) or, il existe une distorsion entre les quantités acquises par l’appelante des aliments ciblés et les quantités de ces mêmes aliments ciblés dont l’appelante a effectué la fourniture, à savoir :
+3 228 notes de repas
+quantités achetées
+d’aliments ciblés
+8 856,90
+quantités achetées disponibles pour
+revente
+aliments ciblés
+2007
+2008
+2009
+saucisses à déjeuner
+(divisé par 2)
+7 713,64
+6 706,43
+7 820,80
+bagels
+1 365,12
+1 054,08
+1 146,24
+bières
+3 849,12
+4 858,92
+3 884,76
+vin au verre en ml
+1 322,22
+1 907,78
+1 095,56
+vin en bouteille
+571,23
+445,50
+462,33
+pains hamburger
+1 178,52
+913,17
+843,63
+paninis
+1 176,00
+1 234,80
+1 352,40
+boules à pizza
+862,40
+2 175,60
+2 410,80
+bâtonnets de fromage
+(divisé par 6)
+143,73
+169,87
+130,67
+ailes de poulets
+(divisé par 8)
+79,20
+129,60
+100,80
+total d’unités
+[57 104,91]
+18 261,19
+19 595,74
+19 247,98
+n) le ministre a multiplié les quantités totales d’aliments ciblés acquises par l’appelante mentionnées au paragraphe précédent, dont elle a effectué la fourniture d’une manière ou d’une autre, par le ratio de 19,48 $ mentionné au paragraphe l) ci‑dessus pour chacun des trois (3) exercices financiers se terminant le 28 février 2007, 2008 et 2009 pour obtenir le montant de fournitures taxables effectuées reconstituées;
+o) le montant total des fournitures taxables effectuées par l’appelante ainsi reconstitué par le ministre pour la période visée est de 1 112 403,69 $, soit 355 727,89 $ pour l’exercice se terminant le 28 février 2007 [18 261,19 unités x 19,48 $], 381 725,10 $ pour l’exercice se terminant le 29 février 2008 [19 595,74 unités x 19,48 $] et de 374 950,69 $ pour l’exercice se terminant le 28 février 2009 [19 247,98 unités x 19,48 $];
+p) le ministre a réduit de 5,7 % le montant total des fournitures taxables effectuées par l’appelante et reconstituées par le ministre pour les exercices financiers se terminant le 28 et 29 février 2007 et 2008 et de 2,85 % pour l’exercice financier se terminant le 28 février 2009, considérant les changements de prix survenus en décembre 2008 ramenant ainsi les fournitures taxables reconstituées à un montant total de 1 059 682,77 $ de la manière suivante à savoir :
+Fin d’exercice
+Ventes reconstituées (avant variation des prix)
+Variation
+des prix
+Ventes reconstituées (après variation des prix)
+02-2007
+355 727,89 $
+94,30 %
+335 451,40 $
+02-2008
+381 725,10 $
+94,30 %
+359 966,77 $
+02-2009
+371 950,69 $
+97,15 %
+364 264,60 $
+Total
+1 112 403,69 $
+1 059 682,77 $
+q) l’appelante a, pour la période visée, indiqué dans ses états financiers ou comptabilisé dans ses livres et registres comptables des ventes au montant de 768 239,80 $, un écart de 291 442,97 $ soit 83 110,44 $ pour l’exercice financier se terminant le 28 février 2007 [335 451,40 $ — 252,341,00 $], 114 165,53 $ pour l’exercice financier se terminant le 29 février 2008 [359 966,77 $ — 245 801,20 $] et de 94 167,00 $ pour l’exercice financier se terminant le 28 février 2009 [364 264,60 $ — 270 097,60 $];
+r) l’appelante a produit au ministre ses déclarations de taxe nette et y a globalement déclaré pour la période visée un montant de TPS perçue ou percevable de 43 989,81 $ dans le calcul de sa taxe nette;
+s) l’appelante n’a, par conséquent, pas déclaré, dans le calcul de sa taxe nette, pendant la période visée, un montant de 16 882,82 $ à titre de TPS perçue ou percevable, ni n’a indiqué, dans ses états financiers ou comptabilisé dans ses livres et registres comptables, des ventes supplémentaires au montant de 291 442,97 $;
+t) l’appelante est donc redevable au ministre du montant des rajustements apportés à sa taxe nette déclarée pour la période visée, plus les intérêts et les pénalités.
+[4] Les questions en litige consistent à déterminer :
+a) si l’appelante a omis d’inclure dans le calcul de sa taxe nette qu’elle a déclarée au ministre pour la période visée, de la taxe sur les produits et services (la « TPS ») qu’elle a perçue ou était tenue de percevoir pour un montant de 16 882,82 $;
+b) si l’Agence du revenu du Québec (l’« ARQ ») était justifiée d’utiliser une méthode estimative dans le cadre de la vérification des affaires de l’appelante;
+c) si la méthode alternative utilisée par l’ARQ dans le cadre de la vérification des affaires de l’appelante est fiable et représentative;
+d) si l’ARQ a commis des erreurs en établissant que l’appelante n’avait pas déclaré toutes ses ventes au cours de la période visée.
+L’utilisation de la méthode alternative était‑elle justifiée? [5] Selon la vérificatrice de l’ARQ, la comptabilité de l’appelante était bien tenue mais l’analyse des indices utilisés dans le cadre de la vérification permettait de conclure qu’il y avait des écarts entre les ventes reconstituées et les ventes déclarées.
+[6] Ces indices consistaient notamment :
+— à comparer les achats comptabilisés aux livres avec les achats confirmés par les fournisseurs;
+— à calculer les ventes reconstituées selon les notes de repas; et
+— à calculer les ventes reconstituées selon les heures de travail des employés.
+[7] А l’origine, la vérificatrice avait constaté des écarts de l’ordre de 43 % entre les ventes déclarées et les achats effectués auprès des fournisseurs. Au niveau des oppositions, les achats confirmés chez les fournisseurs et ceux comptabilisés aux livres ont été renversés par les représentants de l’appelante au moyen des listes de factures confirmées par chacun des fournisseurs et par la production des factures manquantes comptabilisées aux livres. Le résultat de cet exercice est que toutes les factures d’achat ont été fournies et ont été acceptées par la vérificatrice de sorte que les achats comptabilisés aux livres sont égaux aux achats confirmés chez les fournisseurs.
+[8] Par contre, la vérification a révélé que les achats de légumes ne représentaient que 3.3 % des achats totaux et qu’ils avaient été payés en argent comptant alors que le taux de l’industrie pour les achats de légumes se situait normalement entre 8 % et 9 %. Les représentants de l’appelante ont prétendu qu’il ne manquait pas de factures de fruits et légumes et que tous les fruits et légumes avaient été achetés chez IGA Dessaules et certaines autres épiceries. Les représentants de l’appelante ont également indiqué que les achats chez IGA Dessaules étaient tous regroupés sans indication particulière pour les fruits et légumes.
+[9] La vérificatrice a procédé à l’analyse des notes de repas pour déterminer s’il y avait un écart entre le revenu déclaré et le revenu selon le ratio de ventes par note de repas. L’échantillonnage choisi par la vérificatrice était composé de 50 jours, compris entre le 14 septembre 2008 et le 28 février 2009, soit sur une période de 166 jours correspondant aux derniers jours de l’exercice financier 2009 de l’appelante. Cette période a été choisie parce qu’avant le 14 septembre 2008, les menus du jour n’avaient pas été conservés.
+[10] Dans le cadre de cet exercice, la vérificatrice a analysé 3 328 factures pour 4 325 clients qui ont totalisé 32 655 $ de ventes. Comme l’analyse a permis de démontrer que 1 676 items ciblés avaient été vendus sur les 3 328 notes de repas comptabilisées, un ratio de vente par item de 19,48 $ a été établi. La vérificatrice a également constaté que l’appelante avait acheté trop de carnets de factures compte tenu du nombre de factures émises.
+[11] L’indice basé sur les ventes reconstituées selon les heures de travail des employés a démontré un écart important entre les ventes déclarées et les ventes reconstituées. Le nombre d’heures travaillées a été déterminé à partir des informations fournies par madame Bernier, la seule actionnaire de l’appelante, en réponse aux deux questionnaires présentés par la vérificatrice en juin 2009. Selon les questionnaires, les ventes reconstituées par rapport aux heures travaillées par les employés et par l’actionnaire auraient été de 546 974 $ pour le mois de juin 2009 et de 446 863 $ pour le mois d’octobre 2009 sur des ventes déclarées de 270 090 $ en 2009. En se basant sur les heures travaillées selon les payes, les ventes reconstituées auraient excédé les ventes déclarées d’un montant de 90 687 $. Par contre, comme madame Bernier était la cuisinière du restaurant et comme elle ne prenait pas de salaire, l’écart de 90 687 $ aurait été réduit à seulement 3 757 $ si l’ARQ avait tenu compte de ce fait. L’ARQ a en effet considéré que madame Bernier avait été payée pour ses heures travaillées au restaurant.
+[12] Les représentants de l’appelante ont tenté de renverser les indices utilisés par la vérificatrice pour démontrer qu’il n’y avait pas de revenus non déclarés de la part de l’appelante. Ces derniers ont notamment suggéré d’utiliser la méthode des napperons pour confirmer les ventes déclarées. Les représentants de l’appelante ont soumis que l’appelante avait acheté quelque 110 000 napperons auprès de deux fournisseurs au cours des années 2007, 2008 et 2009. Le procureur de l’intimée a admis à l’ouverture de l’audience l’achat des 110 000 napperons par l’appelante. Selon les calculs des représentants de l’appelante, 102 600 napperons sur les 110 000 napperons achetés par l’appelante auraient été utilisés par les clients de l’appelante en présumant que chaque client utilisait un napperon. Les représentants de l’appelante ont prétendu que les ventes de l’appelante avaient toutes été déclarées qui fait que les napperons utilisés selon les ventes sont relativement égaux au nombre de napperons selon les achats de l’appelante en supposant un inventaire de 2 000 napperons et un pourcentage de perte de napperons de l’ordre de 5 %.
+[13] Même si à première vue la méthode des napperons est logique lorsqu’utilisée de façon conservative, la vérificatrice n’a pas accepté cette méthode pour confirmer les ventes déclarées parce que pas suffisamment fiable dans ce dossier. Le manque de fiabilité de cette méthode découle du fait que l’appelante n’utilisait pas de napperons sur la terrasse extérieure du restaurant pour laquelle l’appelante avait un permis pour 66 places. Selon madame Bernier, le restaurant n’utilisait que 35 places sur la terrasse en question et ce, du début du mois de mai jusqu’à la fin du mois de septembre. Par contre, madame Bernier a confirmé qu’elle utilisait des nappes en plastique sur les tables situées sur la terrasse plutôt que des napperons.
+[14] Même si l’écart entre les dépôts bancaires et les ventes réalisées ne justifiait pas l’émission de nouvelles cotisations contre l’appelante, la vérificatrice a tout de même décidé d’utiliser une méthode alternative pour reconstituer les ventes de l’appelante en se basant sur les écarts constatés à l’aide des indices ci‑dessus mentionnés.
+La méthode alternative utilisée [15] La méthode alternative utilisée par la vérificatrice est basée sur un échantillonnage statistique qui consiste à établir un ratio de ventes (en $) par unité sélectionnée qui est appliqué aux achats totaux (quantités) des items sélectionnés. Le ratio multiplié par les quantités disponibles des items sélectionnés pour la revente donne les ventes reconstituées.
+[16] Au lieu de faire un sondage sur trois ans, la vérificatrice a fait un sondage sur 166 jours, soit du dimanche 14 septembre 2008 au 28 février 2009, afin de pouvoir identifier les spéciaux du jour. Le programme informatique a sélectionné au hasard 50 jours pendant la période de 166 jours. Toutes les notes de repas pour ces 50 jours ont été analysées.
+[17] Les ventes totales sont constituées de déjeuners du lundi au vendredi (63 %), de spéciaux du jour le midi et de repas du menu général le soir.
+[18] Les 10 items sélectionnés pour le sondage étaient des : pains hamburger, paninis, ailes de poulet, saucisses à déjeuner, bagels, boules de pâte à pizza, bâtonnets de fromage, bières en bouteille et le vin. Les saucisses à déjeuner constituaient l’item le plus vendu alors que la bière et le vin représentaient de 15 à 17 % des achats.
+[19] Pour faire l’analyse, la vérificatrice a utilisé la liste des achats confirmés pour chacun des produits sélectionnés ainsi que les quantités achetées et elle a calculé les pertes déclarées par madame Bernier dans deux questionnaires, lesquelles englobaient les consommations de la propriétaire et de son conjoint et des employés en plus des pertes d’utilisation en grande partie attribuable à la préparation à l’avance des menus du jour.
+[20] Selon l’échantillonnage statistique sur 50 jours, 3 228 notes de repas ont été recensées, lesquelles ont généré des ventes de 32 655,79 $. Ces notes de repas comprenaient 1 458,583 unités des 10 items sélectionnés et chaque unité vendue a généré des ventes de 22,3887 $, soit les ventes divisées par les quantités vendues. Pour la période sondée, il y a eu des achats de 191 089 $ (8 856.9 unités x 22,3887 $),
+[21] Comme il y a eu des changements de prix pour les repas au début du mois de septembre 2008 et comme le sondage a été effectué avec les nouveaux prix, un pourcentage d’augmentation de prix a dû être appliqué pour chacune des années. La vérificatrice a donc appliqué un pourcentage d’augmentation de 5,7 % par année pour les années 2007 et 2008 et de 5,7 % pour les six mois de 2009.
+[22] Selon l’analyse de la vérificatrice, les écarts entre les ventes déclarées et les ventes reconstituées ont été pour chacune des années les suivants :
+2009 :
+165 506,46 $
+2008 :
+182 012,80 $
+2007 :
+141 112,41 $
+Total :
+488 631,67 $
+Au stade de l’opposition [23] Au stade de l’opposition, les représentants de l’appelante ont soutenu que la vérificatrice avait fait des erreurs dans le calcul des quantités des items sélectionnés, achetés et vendus. L’agente aux oppositions a accepté d’apporter des corrections aux calculs de la vérificatrice dans la mesure où les erreurs ont été démontrées par des éléments de preuve documentaire. Les pourcentages de pertes par item sélectionné n’ont pas été augmentés vu l’absence de preuve et l’absence de registre pour pertes.
+[24] Suite aux représentations de l’appelante au niveau de l’opposition, la quantité totale vendue des items sélectionnés pendant la période sondée est passée de 1 458.583 à 1 676, ce qui a eu pour effet d’abaisser le ratio de vente par item de 22,3887 à 19,48 $.
+[25] Selon les résultats corrigés, les écarts entre les ventes déclarées et les ventes reconstituées ont baissé de 40 % pour s’établir pour chacune des années aux montants suivants :
+2009 :
+94 167,00 $
+2008 :
+114 165,53 $
+2007 :
+83 110,44 $
+Total :
+291 442,97 $
+[26] De plus, les pénalités imposées pour grossière négligence ont été annulées pour les raisons suivantes :
+— les registres comptables de l’appelante étaient bien tenus et étaient fiables;
+— le travail de la vérificatrice comportait des erreurs;
+— la bonne collaboration de l’appelante et de ses représentants; et
+— les déclarations de taxe de l’appelante étaient produites dans les délais requis et sans manquement.
+Les opinions des experts [27] Monsieur David Haziza, un professeur agrégé du département de mathématiques et de statistiques de l’Université de Montréal, a produit un rapport d’expertise et a témoigné à l’audience pour le compte de l’appelante. Le professeur Haziza est un spécialiste en échantillonnage qui a agi une dizaine de fois comme expert dans des dossiers de taxes à la consommation de restaurants.
+[28] Le professeur Haziza a d’abord expliqué ce en quoi consistait la méthode dite du ratio qui a été utilisée par l’ARQ afin d’estimer les ventes totales de l’appelante. L’ARQ a tiré un échantillon de 50 jours sur une période de 166 jours et a sélectionné 10 items, le nombre d’items achetés étant connu.
+[29] Selon le professeur Haziza, l’estimateur par le ratio est approprié lorsque :
+a) la relation entre la variable d’intérêt (ici les ventes) et la variable auxiliaire (ici le nombre d’items) est linéaire;
+b) la relation précédente passe par l’origine (c’est-à-dire par le point 0,0); et
+c) la corrélation entre les deux variables est élevée.
+[30] Si les caractéristiques ci-dessus mentionnées ne sont pas satisfaites, l’estimateur par le ratio peut souffrir d’un biais et/ou d’une variance importante. Dans ce cas, les conclusions de l’analyse statistique risquent fort d’être erronées.
+[31] Le professeur Haziza a également rappelé que la corrélation entre deux variables est une mesure dont les valeurs se situent dans l’intervalle de zéro à un. Une corrélation égale à un, indique que la relation entre les deux variables est parfaite, alors qu’une corrélation proche de zéro est une indication qu’il n’y a pas de relation entre les deux variables.
+[32] Selon l’analyse du professeur Haziza, la procédure d’estimation utilisée par l’ARQ est susceptible d’engendrer des biais parce que les caractéristiques qui sous-tendent une procédure d’estimation par le ratio ne sont pas satisfaites dans ce cas pour les raisons suivantes :
+a) la relation entre les deux variables ne passe pas par l’origine (c’est-à-dire le point (0,0));
+b) il y a zéro item vendu dans une forte majorité des notes de repas recensées (3 228 notes de repas au total). De fait, 70,63% des notes de repas ne comprennent aucun item sélectionné;
+c) dans 91,85% des notes de repas recensées, le nombre d’items sélectionnés est égal à zéro ou à un.
+[33] Selon le professeur Haziza, des correctifs auraient dû être apportés à la méthode d’estimation utilisée par l’ARQ comme la stratification ou bien l’ARQ aurait dû utiliser une autre méthode alternative comme la régression.
+[34] Le professeur Haziza a également procédé à l’analyse de la méthode estimative proposée par les représentants de l’appelante, laquelle consistait à utiliser le nombre de napperons comme item sélectionné plutôt que les 10 items de l’ARQ.
+[35] Selon lui, le nombre de napperons est une variable plus approprié que le nombre d’items sélectionnés par l’ARQ dans le contexte d’une estimation par la méthode du ratio parce qu’elle ne dépend pas des jours de la semaine choisis. Dans ce cas, la relation entre les ventes et le nombre de napperons semble indiquer que la relation passe par l’origine et la corrélation entre les variables ventes et le nombre de napperons est d’environ 59,2% alors qu’elle n’était que de 50,5% entre les variables ventes et le nombre d’items utilisés par l’ARQ.
+[36] Selon l’échantillon de l’ARQ, le montant total des ventes s’élevait à 32 655 $ pour un nombre total de 4 325 napperons (entre février 2007 et février 2009, 110 000 napperons ont été achetés par l’appelante). Sur cette base, le ratio de vente aurait été de 7,55 $ par napperon. À partir de ce ratio, les ventes totales reconstituées seraient de l’ordre de 830 500 $ pour la période de février 2007 à février 2009 alors que les ventes déclarées pour cette période sont de 768 239,80 $. En appliquant une allocation pour perte de 8%, les ventes reconstituées seraient de l’ordre de 764 060 $, soit à peu près les ventes déclarées.
+[37] Monsieur Sylvain Lamy, statisticien auprès de l’ARQ, a produit un rapport de contre-expertise et a témoigné à l’audience pour le compte de l’intimée. Il a dit faire des analyses statistiques dans des dossiers impliquant des restaurants environ une fois par année.
+[38] Monsieur Lamy est d’accord avec l’analyse du professeur Haziza en ce sens que la relation entre les ventes et le nombre d’items, bien qu’elle semble à peu près linéaire, ne passe pas par l’origine et que la corrélation est relativement faible (50,6%). Pour remédier à ce problème, la méthode de la régression plutôt que celle du quotient aurait permis de tenir compte de cette particularité.
+[39] Bien que la méthode utilisée par l’ARQ ne soit pas parfaite, les ventes reconstituées de 198,295 $ utilisées pour la période de 166 jours comprises entre le 14 septembre 2008 et le 28 février 2009 représentent un ordre de grandeur acceptable des ventes reconstituées. Selon lui, les résultats des 50 jours sur la période de 166 jours sont très fiables pour cette période mais arbitraires lorsqu’appliqués aux périodes antérieures.
+[40] Monsieur Lamy a par ailleurs expliqué qu’il n’aurait pas fait l’évaluation de la manière retenue par l’ARQ. Plutôt que d’additionner les ventes des dix items sélectionnés, il aurait réalisé dix estimations séparées et aurait fait une moyenne pondérée selon les achats ou selon l’importance de l’item dans les ventes. Des calculs supplémentaires de marges d’erreur auraient été nécessaires pour justifier la fiabilité de l’estimation.
+[41] Monsieur Lamy a également commenté l’utilisation de la méthode alternative basée sur les napperons proposée par les représentants de l’appelante. Selon lui, il ne serait pas approprié de se baser sur les factures de l’échantillon pour estimer le montant des ventes réalisées par napperon vu que, dans ce cas particulier, les taux de déclaration estimés des ventes réelles varient entre 25% et 61,5% selon l’item, ce qui supporte l’hypothèse qu’il y a sous-déclaration.
+[42] Suite au témoignage de monsieur Lamy, le professeur Haziza est revenu à la barre pour apporter certaines précisions. À son avis, les taux de déclaration sont bas parce qu’il y a trop de lundis et de mardis dans l’échantillonnage, soit 19 au total plutôt que 14. Selon le professeur Haziza, la méthode alternative utilisée par l’ARQ est contestable et discutable du fait que l’échantillonnage soit problématique, ce qui augmente les risques d’instabilité du ratio. L’application du ratio aux périodes antérieures est légitime dans la mesure où le ratio est stable.
+Analyse
+[43] L’avocat de l’appelante a fait valoir qu’une méthode de vérification alternative ne pouvait être utilisée en l’espèce parce que l’appelante possédait une bonne comptabilité. L’agente des oppositions a qualifié la comptabilité de l’appelante, lors d’une discussion avec son chef d’équipe tenue le 6 janvier 2011, de la façon suivante :
+[…] les livres étaient en bonne et due forme, on pense à décotiser, […].
+[44] De plus, dans son rapport sur opposition, l’agente a notamment invoqué la considération suivante pour annuler les pénalités imposées pour négligence flagrante :
+Considérant les registres fiables confirmés par la vérification, […]
+[45] Dans ce contexte, il est particulièrement difficile de comprendre pourquoi la méthode de vérification alternative était justifiée.
+[46] Selon l’agente des oppositions, la méthode de vérification alternative était justifiée à cause des écarts dans les ventes reconstituées selon les indices basés sur les notes de repas et sur les heures de travail des employés. Pour ce qui est des écarts entres les achats confirmés et les achats comptabilisés, la vérification a conclu que les achats de fruits et de légumes ne représentaient que 3,3% des ventes pour l’année 2009 alors qu’un taux normal dans l’industrie serait de 8% à 9%.
+[47] Malgré le maintien de la méthode de vérification alternative, les montants cotisés ont été diminués de 40% démontrant ainsi que des erreurs flagrantes avaient été commisses lors de la vérification. Les pénalités pour négligence grossière ont aussi été annulées et aucune cotisation pour appropriation de fonds n’a été émise par l’ARQ contre madame Bernier. Par contre, les pourcentages de pertes de 6% pour les saucisses et de 4% pour les ailes de poulet n’ont pas été augmentés à 10% pour les saucisses et à 5% pour les ailes de poulet comme le réclamaient les représentants de l’appelante à cause du manque de preuve.
+[48] Même si l’utilisation de la méthode de vérification alternative est discutable dans ce cas, il y a quand même lieu d’en faire l’analyse.
+[49] Parmi les 50 jours sélectionnés, 19 jours sont des lundis et des mardis, soit 12 lundis et 7 mardis. De plus, seulement 4 jeudis ont été sélectionnés.
+[50] Les lundis et les mardis, seuls 2 repas sont servis puisque le restaurant est fermé pour le souper. Les lundis et les mardis, pratiquement aucun alcool n’est consommé, alors que les jeudis sont des jours au cours desquels beaucoup d’alcool est consommé. Or, 3 des 10 items sélectionnés par la vérificatrice sont des boissons alcoolisés. De plus, 63% des notes de repas analysées étaient relatives à des déjeuners servis alors que seulement 2 des 10 items sélectionnés sont consommés au déjeuner, soit les saucisses et les bagels.
+[51] Dans son rapport, l’expert Haziza est venu à la conclusion que la procédure d’estimation utilisée par l’ARQ est susceptible d’engendrer des biais et de l’instabilité puisque les hypothèses qui sous-tendent une procédure d’estimation par le ratio ne sont pas satisfaites (voir le paragraphe 32 ci-dessus).
+[52] Dans son rapport de contre-expertise, l’expert Lamy a reconnu que la méthode d’estimation utilisée par l’ARQ n’est visiblement pas parfaite et qu’il aurait été préférable de réaliser dix estimations séparées et d’en faire une moyenne pondérée; l’estimation aurait été alors plus représentative.
+[53] Les deux experts sont d’accord pour dire que la méthode d’estimation utilisée par l’ARQ est erronée, compte tenu de la surreprésentation des lundis et des mardis alors que seulement deux repas plutôt que trois repas sont servis ces jours-là.
+[54] Les deux experts ont affirmé qu’une post-stratification aurait été nécessaire pour obtenir des résultats plus fiables. Une telle post-stratification aurait permis de diminuer le nombre de lundis et de mardis sélectionnés et d’augmenter le nombre des autres jours sélectionnés de la semaine.
+[55] Les deux experts sont d’accord pour affirmer que l’échantillon de 50 jours est représentatif pour la période des 166 jours présélectionnés mais qu’il ne peut être représentatif des deux années et demie précédentes.
+[56] Les deux experts ont affirmé que la méthode de régression aurait été plus appropriée. Il y a lieu de préciser ici que l’estimation par la régression est appropriée lorsque :
+- la relation entre les ventes et le nombre d’items est linéaire; et que
+- la corrélation entre les deux variables est forte.
+[57] Selon les deux experts, les deux critères ci-dessus mentionnés auraient été satisfaits dans ce cas.
+[58] Une cotisation peut être établie sur la base d’échantillonnage, telle que celle utilisée en l’espèce, mais elle ne sera acceptée que si elle est fondée sur des données objectives et pertinentes et que si elle s’appuie sur un échantillonnage représentatif (voir l’arrêt Compagnie de tabac Dynasty Inc. c. L’Agence du revenu du Québec, 2013 QCCQ 12995 au paragraphe 45). Dans le présent dossier, les deux experts ont affirmé qu’ils n’auraient pas fait l’estimation selon la méthode utilisée par l’ARQ.
+[59] De plus, avant d’avoir recours à une méthode de vérification indirecte, le fisc devait d’abord avoir conclu, pour des motifs raisonnables, que les livres, les registres et les pièces justificatives de l’entreprise n’étaient pas fiables ou comportaient des inexactitudes ou des lacunes importantes (voir l’arrêt Compagnie de tabac Dynasty Inc., précité au paragraphe 46). Or, comme nous l’avons vu précédemment, la vérification a confirmé à l’agente des oppositions que les registres de l’appelante étaient fiables.
+[60] Compte tenu de ce qui précède, j’en viens à la conclusion que non seulement la méthode de vérification indirecte n’était pas justifiée dans les circonstances mais que la méthode d’estimation utilisée par l’ARQ était hautement discutable.
+[61] Pour toutes ces raisons, l’appel est accueilli avec dépens et la nouvelle cotisation est annulée.
+[62] Les parties auront jusqu’au 24 octobre 2016 pour soumettre à la Cour leurs représentations concernant les dépens à moins qu’elles parviennent à résoudre le problème elles-mêmes d’ici là.
+Signé à Ottawa, Canada, ce 22e jour de septembre 2016.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2016 CCI 207
+Nº DU DOSSIER DE LA COUR :
+2011-3640(GST)G
+INTITULÉ DE LA CAUSE :
+2741-2568 Québec Inc. et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATES DE L’AUDIENCE :
+les 26 et 27 janvier 2015 et continué le 3 décembre 2015
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 22 septembre 2016
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Benoît Aubertin
+Avocat de l'intimée :
+Me Christian Boutin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Me Benoît Aubertin
+Cabinet :
+De Chantal, D’Amour, Fortier, s.e.n.c.r.l.
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

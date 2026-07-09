@@ -1,0 +1,143 @@
+---
+title: "Comber v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29079/index.do"
+last_modified: "2009-02-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 72"
+citation2: ""
+neutral_citation: "2009 TCC 72"
+decision_date: "2009-02-05"
+language: "en"
+item_id: "29079"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6825
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:36:02.750000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8ee3244530ab0a654122307eea71de1c5697282e74c978919bb2e769c1d29549"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Comber v. The Queen
+
+- Citation: 2009 TCC 72
+- Decision date: 2009-02-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6825, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Comber v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-05
+Neutral citation
+2009 TCC 72
+File numbers
+2006-502(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-502(IT)G
+BETWEEN:
+EDWARD COMBER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Before: The Honourable Justice G. A. Sheridan
+Counsel for the Appellant:
+Paul E. Trenker
+Counsel for the Respondent:
+Gatien Fournier
+____________________________________________________________________
+ORDER
+Upon an application by the Respondent for an Order under section 160 of the Tax Court of Canada Rules (General Procedure), directing the Appellant to give security for costs;
+And upon having read the materials filed by the parties including the affidavit of Paule Chamberland, and the affidavit of Edward Comber;
+In accordance with the attached Reasons for Order, the Respondent’s application is dismissed, with costs to be determined by the trial judge.
+Signed at Ottawa, Canada, this 5th day of February, 2009.
+"G. A. Sheridan"
+Sheridan, J.
+Citation: 2009TCC72
+Date: 20090205
+Docket: 2006-502(IT)G
+BETWEEN:
+EDWARD COMBER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Sheridan, J.
+[1] The Respondent makes an application for an Order under section 160 of the Tax Court of Canada Rules (General Procedure), directing the Appellant to give security for costs in the amount of $27,499.98.
+[2] Section 160 of the Rules provides that:
+Where Available
+160. Where it appears that the appellant is resident outside of Canada, the Court on application by the respondent may give such direction regarding security for costs as is just.
+…
+[3] The Appellant is appealing the reassessments by the Minister of National Revenue of his 1997 to 2001 taxation years. As the 1997, 1998[1] and 1999 taxation years are beyond the normal reassessment period, they may only be reassessed if the Minister is able to satisfy the criteria in subsection 152(4) of the Income Tax Act. The reassessments are dated May 5, 2005. A year before that date, on May 4, 2004, the Respondent sought and was granted a “jeopardy order”[2] permitting, among other things, the seizure of the Appellant’s assets in Canada “in respect of the tax liability of the [Appellant]”[3]. On June 23, 2004, that Order was amended to limit the Minister’s collection action to the years not barred by statute, 2000 and 2001. Pursuant to those Orders, the Minister collected some $343,000 on account of the Appellant’s indebtedness for tax. It is against that background that the Minister now seeks an order for security for costs under section 160.
+[4] The Respondent submits at paragraph 15 of his Written Submissions that such an Order should be granted because:
+(a) the Appellant is residing outside of Canada, the jurisdiction within which a judgment of this Honourable Court could be executed;
+(b) the Respondent will not be able to collect costs.
+[5] The Appellant urges the Court to dismiss the Respondent’s application on the basis of the following factors:
+a. The Appellant has brought all his assets into Ontario and the Respondent has seized them. [i.e. On the face of it, the Rule only nominally is applicable to the Appellant. Notwithstanding his residence outside of Canada, his assets are in Ontario.]
+b. The Respondent has seized $343,000.00 by reason of alleged indebtedness for which there has been no Judicial determination. That Judicial determination will only take place within this Appeal.
+c. The sum seized already covers any years which are not, prima facie, statute barred.
+d. With respect to the years which are statute barred, the Appellant’s position might be seen closer akin to that of a Plaintiff, than of a Defendant [as the onus will be on the Respondent] and accordingly, the invocation of the Rule is seemingly inappropriate.
+e. The Appellant is impecunious by reason of this litigation with the Respondent.
+f. There exists a Tax Enforcement Treaty between Canada and the United States.[4]
+[6] The Appellant concedes that he currently resides outside of Canada; thus, the Respondent is relieved of its onus[5] of establishing the threshold criterion for the exercise of the Court’s discretion under section 160. It remains to determine only whether it would be “just” for the Court to make such an Order.
+[7] Having read the materials filed and in particular, the affidavits filed by the parties, I am not convinced an Order under section 160 is either necessary or just. All of the Appellant’s assets were seized in 2004. The Affidavit of Paule Chamberland[6] gives the impression that the Respondent only just learned of the Appellant’s current residency in California. The Appellant’s affidavit evidence is that the Respondent relied on allegations of his relocation to the United States to support its application for a jeopardy order in 2004; the Respondent’s supporting affidavits were not included with the jeopardy orders attached as exhibits to the Appellant’s affidavit but generally speaking, residency outside of the jurisdiction would be possible grounds for a jeopardy order. In any event, Exhibit “D” of the Affidavit of Edward Comber shows that at least as early as September 2006, the Canada Customs and Revenue Agency was notified of the Appellant’s California address and the possibility of his residency in the United States. It is not clear to me what the Respondent’s objective was in stressing when it became aware of the Appellant’s residency; in the result, it did little to bolster its argument as to the justness of an order under section 160.
+[8] The Appellant’s uncontradicted affidavit evidence is that the $343,000 seized under the jeopardy order is sufficient to satisfy his potential indebtedness in respect of the two taxation years the Minister is prima facie entitled to reassess.
+[9] Finally, a review of the Notice of Appeal shows that the Appellant has a prima facie reasonable cause of action. The Respondent’s seizure of all of his assets in Canada has gone some distance to protect the Minister’s position pending the resolution of the issues in dispute. As a result, however, the Appellant has been left in an impecunious situation, reliant on the assistance of a family member to fund his litigation[7]. Granting the order sought by the Respondent runs the risk of depriving the Appellant of the only avenue by which he may challenge the Minister’s reassessments and recover the amounts seized by the Minister in anticipation of his reassessments. This is of particular concern in the context of tax litigation where, because of the reverse onus, the appellant is effectively put in the position of defending against the Minister’s initial act of reassessment. I also agree with the Appellant’s submission that because the Respondent bears the onus of proving the Minister’s entitlement to reassess the statute-barred taxation years, the Respondent is for practical purposes in the position of an appellant. In such circumstances, the Respondent is not entitled to rely on its nominal status as “respondent” to apply for an order under section 160 in respect of the 1997, 1998 and 1999 taxation years.
+[10] On balance, I am not satisfied that it would be just within the meaning of section 160 of the Tax Court of Canada Rules (General Procedure) to make any direction regarding security for costs. The Respondent’s motion is dismissed, with costs to be determined by the trial judge.
+Signed at Ottawa, Canada, this 5th day of February, 2009.
+"G. A. Sheridan"
+Sheridan, J.
+CITATION: 2009TCC72
+COURT FILE NO.: 2006-502(IT)G
+STYLE OF CAUSE: EDWARD COMBER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+DATE OF HEARING:
+REASONS FOR ORDER BY: The Honourable Justice G. A. Sheridan
+DATE OF ORDER: February 5, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Paul E. Trenker
+Counsel for the Respondent:
+Gatien Fournier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Paul E. Trenker
+Firm: Wallace Klein Partners in Law LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Notices of Confirmation in respect of the 1997 and 1998 taxation years were subsequently issued on November 7, 2005.
+[2] Section 225.2 of the Income Tax Act.
+[3] Exhibit “B” of the Affidavit of Edward Comber.
+[4] Appellant’s Written Submissions at paragraph 17.
+[5] Warren Industrial Feldspar Co. Ltd. v. Union Carbide Canada Ltd., [1986] O.J. No. 2364, (Ont. H.C.J), at paragraph 23.
+[6] Respondent’s Motion Record, tab 2 at paragraph 3.
+[7] Affidavit of Edward Comber at paragraph 20.

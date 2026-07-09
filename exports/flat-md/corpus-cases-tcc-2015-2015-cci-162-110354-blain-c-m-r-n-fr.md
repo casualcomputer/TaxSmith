@@ -1,0 +1,243 @@
+---
+title: "Blain c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/110354/index.do"
+last_modified: "2015-06-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 162"
+citation2: ""
+neutral_citation: "2015 CCI 162"
+decision_date: "2015-06-24"
+language: "fr"
+item_id: "110354"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2656
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:28:55.157000+00:00"
+cases_cited_count: 7
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c157372d774de7bad9b79913c0877b750e7bc55c85560e46525a7d7d50717920"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Blain c. M.R.N.
+
+- Citation: 2015 CCI 162
+- Decision date: 2015-06-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2656, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blain c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-06-24
+Référence neutre
+2015 CCI 162
+Numéro de dossier
+2013-3010(EI)
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2013-3010(EI)
+ENTRE :
+ROBERT BLAIN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appel entendu le 20 mai 2015, à Montréal (Québec).
+Devant : L’honorable juge Dominique Lafleur
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Mounes Ayadi
+JUGEMENT
+L’appel interjeté en vertu de la Loi sur l’assurance‑emploi est accueilli au motif que l’appelant exerçait un emploi assurable auprès de monsieur Dubois ou de la compagnie MC DUBOIS au cours de la période du 12 avril 2010 au 20 août 2010, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 24e jour de juin 2015.
+« Dominique Lafleur »
+La juge Lafleur
+Référence : 2015 CCI 162
+Date : 20150624
+Dossier : 2013-3010(EI)
+ENTRE :
+ROBERT BLAIN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Lafleur
+[1] L’appelant interjette appel de la décision du ministre du Revenu national (le « ministre ») du 7 juin 2013 selon laquelle l’appelant n’exerçait pas un emploi assurable auprès de 9207-0077 Québec inc. (le « payeur ») (appelée parfois Rénovation MPF) au sens de la Loi sur l’assurance‑emploi, L.C. 1996, ch. 23 (la « Loi »), pendant la période du 12 avril 2010 au 20 août 2010 (la « période »). Le ministre a conclu que les conditions de l’existence d’un contrat de louage de services n’étaient pas remplies, et donc qu’il n’y avait pas de relation employeur‑employé entre le payeur et l’appelant.
+I. Les faits [2] À l’audience, seul l’appelant a témoigné pour son compte. Quant à l’intimé, il a fait témoigner Lyne Courcy, agente des appels de l’Agence du revenu du Canada (l’« ARC »), et Nathalie Chapdelaine, enquêtrice pour Service Canada.
+[3] Selon l’appelant, il a été engagé par la compagnie MC DUBOIS (remarque : on n’a fourni aucune preuve quant au statut juridique de cette entreprise à l’audience; dans le présent jugement, je l’appellerai « compagnie MC DUBOIS ») pour faire de l’excavation dans l’industrie de la construction. Il a confirmé à l’audience que c’est monsieur Normand Dubois qui l’avait engagé; ils ont conclu une entente verbale et se sont donnés une poignée de main. Aucun contrat écrit n’a été signé par les parties. L’appelant aidait notamment le fils de monsieur Normand Dubois, qui avait peu d’expérience en excavation. Ses tâches incluaient également l’entretien mécanique de la machinerie lourde. L’appelant a été engagé initialement pour travailler à un chantier de construction d’habitations à loyer modique géré par un entrepreneur général qui s’appelait Cordev. Il ne connaissait pas vraiment la famille Dubois, sauf de réputation.
+[4] Pour son travail auprès de la compagnie MC DUBOIS, l’appelant était payé par chèque chaque semaine et travaillait environ 60 heures par semaine. Au mois d’août 2010, il a beaucoup trop travaillé, soit 6 jours par semaine, environ 70 à 80 heures par semaine; il a donc décidé de quitter son emploi puisqu’il trouvait les conditions très difficiles. Ses longues heures s’expliquent par la nature de son travail : très tôt le matin, il devait s’occuper du transport de la machinerie du site à St‑Joseph‑du‑Lac vers les sites où on devait s’en servir, et la machinerie revenait au site de St‑Joseph‑du‑Lac tard en fin de journée. L’appelant a confirmé en contre‑interrogatoire qu’il n’était pas payé pour ses heures supplémentaires, ni payé « au noir ».
+[5] L’appelant a déposé en preuve à l’audience ce qui suit :
+1- Une copie du relevé d'emploi pour la période du 12 avril 2010 au 20 août 2010 établi par le payeur (pièce A‑1);
+2- Des copies de 15 talons de chèque de paie émis par le payeur (pièce A‑2), incluant également un talon de chèque indiquant un remboursement pour des bottes;
+3- Une copie du feuillet T‑4 pour l’année d’imposition 2010 établi par le payeur (pièce A‑3);
+4- Une copie de ses relevés bancaires où apparaissent les dépôts de certaines paies de l’appelant (pièce A‑4);
+5- Une copie d’une liste téléphonique contenant la liste des numéros téléphoniques de ses supérieurs ainsi que de certains membres de la famille Dubois — le document s’intitule « Liste téléphonique MC DUBOIS » (pièce A‑6). Parmi les noms apparaissant sur cette liste, il y a Alain Flamand, qui est contremaître, Daniel Morin, qui est conducteur d’excavatrice, un certain Pierre, qui est chauffeur de camion, et certains membres de la famille Dubois.
+[6] L’appelant convient qu’il travaillait pour la compagnie MC DUBOIS, mais que les chèques de paie étaient émis par le payeur, tout comme son relevé d’emploi. L’appelant ne trouvait pas cette situation anormale.
+[7] L’appelant a confirmé qu’il ne connaissait pas l’actionnaire du payeur, soit monsieur Michel Lapointe. Toutefois, l’appelant savait qu’il travaillait pour un homme très fortuné qui détenait un large éventail de matériel et de machinerie lourde. Il a travaillé à s’épuiser pour la famille Dubois.
+[8] L’appelant a mentionné qu’il n’avait aucun reproche à faire à l’encontre de son employeur. Il a appris plus tard par les médias que monsieur Dubois participait à un vaste réseau de blanchiment d’argent. L’intimé a produit à l’audience, sous la cote I‑4, une copie d’un article du journal La Presse du 10 février 2014 décrivant la déchéance de la famille Dubois, ainsi que la peine d’emprisonnement prononcée à l’encontre de monsieur Dubois pour diverses accusations criminelles.
+[9] L’appelant a ajouté qu’il devait également porter un uniforme; à l’audience, l’appelant a produit des photos en liasse (pièce A‑7) montrant la roulotte qu’il avait installée au domaine de St‑Joseph‑du‑Lac afin de ne pas avoir à se déplacer quotidiennement de sa résidence de St‑Hyacinthe à son lieu de travail à St‑Joseph‑du‑Lac de même que la machinerie dont il devait s’occuper, machinerie arborant le logo MC DUBOIS.
+[10] L’appelant a également produit une copie d’un rapport d’accident faisant état d’un accident qu’il aurait eu avec un véhicule appartenant à son employeur (pièce A‑5).
+[11] Madame Chapdelaine, enquêtrice des fraudes majeures chez Service Canada depuis 2008, a expliqué à la Cour qu’après un recoupement de données, elle avait rencontré des prestataires qui ont avoué avoir acheté des relevés d’emploi. La Sûreté du Québec a découvert un stratagème de fausse facturation en vertu duquel des prestataires étaient employés de sociétés n’ayant aucune activité. L’une des principales sociétés impliquées était le payeur.
+[12] Madame Chapdelaine a mentionné à la Cour que des accusations avaient été portées à l’encontre de l’unique actionnaire du payeur, monsieur Michel Lapointe, et qu’à ce jour, aucun jugement n’avait été rendu.
+[13] Madame Chapdelaine a rencontré l’appelant afin de remplir la déclaration statutaire à la commission, signée par l’appelant et madame Chapdelaine le 4 mai 2011, dont copie a été produite sous la cote I‑1 (la « déclaration statutaire »). La déclaration statutaire contient une description du travail effectué par l’appelant en 2007 alors qu’il était en Alberta de même que les méthodes de paiement de son salaire à l’époque. À l’audience, l’appelant a précisé que certaines parties de la déclaration statutaire sont fausses, puisqu’il a admis avoir été payé au comptant pour son travail en Alberta alors que la déclaration statutaire précise qu’il était payé par chèque.
+[14] De plus, l’appelant a précisé que dans la déclaration statutaire, il n’a jamais fait état de la famille Dubois ou du domaine de St‑Joseph‑du‑Lac pour la bonne raison qu’il avait peur de subir des représailles de la part de monsieur Dubois ou de ses acolytes. Il ajoute qu’il ne voulait pas dénoncer qui que ce soit.
+[15] Selon madame Chapdelaine, la recherche qu’elle a effectuée à l’époque au site du registraire des entreprises du Québec a démontré que la compagnie MC DUBOIS appartenait à la fille de monsieur Dubois, cette dernière étant également en attente de procès pour diverses accusations criminelles.
+[16] Madame Courcy, agente des appels à l’ARC depuis 1990, a témoigné à l’audience et a produit, sous la cote I‑5, le rapport sur un appel concernant l’appelant, le rapport CPT110. Madame Courcy a déclaré qu’au cours de l’entrevue téléphonique qu’elle a eue avec Michel Lapointe (l’unique actionnaire du payeur) le 17 janvier 2013, ce dernier lui a mentionné qu’il ne contrôlait plus le payeur depuis 2007 et qu’il n’a jamais signé de chèques de paie ni de relevés d’emploi — il ne s’occupait plus de l’entreprise du payeur, mais allait parfois faire des dépôts d’argent pour l’entreprise; il a admis également qu’une étampe portant sa signature avait été fabriquée et que cette étampe servait à apposer sa signature sur divers documents à son insu. Je reprends les paragraphes 19 à 22 du rapport préparé par madame Courcy :
+19- À compter de 2007, il a associé rénovation MPF, à ce moment il avait rencontré M. Desrochers et il a perdu le contrôle de l’entreprise. Il ne savait plus ce qui se passait dans l’entreprise et même s’il posait des questions, il n’avait pas de réponse. L’entreprise est devenue 9207-0077 Québec inc. C’était Normand Duval qui décidait et il se référait à Normand Dubois mais il ne sait pas où est le bureau de son entreprise.
+20- Il n’a pas signé de chèque de paie.
+21- Il ne s’occupait de rien dans l’entreprise dans l’attente d’obtenir des avantages dans le futur. Il n’a rien signé sauf une estampe à son nom qui servait à signer divers documents à son insu. Il s’est fait promettre plein de chose comme de l’argent. Au fil des ans, il a peut-être reçu 20 000 $ à raison de 5 000 $ ponctuellement.
+22- Il sait qu’il y avait du blanchiment d’argent, quelques fois il allait faire des dépôts pour l’entreprise. C’était Philippe Larocque qui s’occupait des dossiers. Il ne contrôlait plus rien et ne connait aucun employé dont Robert Blain. Il n’a pas signé de relevé d’emploi pour le travailleur Robert Blain.
+[17] Madame Courcy a précisé également que le payeur n’a jamais produit de déclaration de TPS ou de revenus, ni n’a fourni d’états financiers à l’ARC.
+II. Thèses des parties [18] L’appelant prétend qu’il était employé de la compagnie MC DUBOIS pendant la période et qu’il exerçait ainsi un emploi assurable au sens de la Loi.
+[19] L’intimé soutient que l’appelant n’était pas un employé du payeur pendant la période et, en conséquence, n’exerçait pas un emploi assurable au sens de la Loi.
+III. La Loi [20] Puisque les faits dans la présente affaire se sont déroulés au Québec, nous devons faire l’analyse de la situation au regard du droit privé applicable au Québec.
+[21] L’article 5 de la Loi prévoit expressément ce qu’est un emploi assurable :
+5. (1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+b) l’emploi du genre visé à l’alinéa a), exercé au Canada au service de Sa Majesté du chef du Canada;
+c) l’emploi à titre de membre des Forces canadiennes ou d’une force policière;
+d) un emploi prévu par règlement pris en vertu des paragraphes (4) et (5);
+e) l’emploi d’un particulier au Canada à titre de promoteur ou coordonnateur d’un projet dans le cadre d’une prestation d’emploi.
+(2) N’est pas un emploi assurable :
+a) l’emploi occasionnel à des fins autres que celles de l’activité professionnelle ou de l’entreprise de l’employeur;
+b) l’emploi d’une personne au service d’une personne morale si cette personne contrôle plus de quarante pour cent des actions avec droit de vote de cette personne morale;
+c) l’emploi exercé au Canada et relevant de Sa Majesté du chef d’une province;
+d) l’emploi exercé au Canada au service du gouvernement d’un pays étranger ou de celui d’une subdivision politique d’un tel pays;
+e) l’emploi exercé au Canada au service d’un organisme international;
+f) l’emploi exercé au Canada dans le cadre d’un programme d’échange mais non rétribué par un employeur résidant au Canada;
+g) l’emploi qui constitue un échange de travail ou de services;
+h) l’emploi exclu par règlement pris en vertu du présent article;
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+[22] Rien dans la Loi ne définit ce qui constitue un « contrat de louage de services ou d’apprentissage ».
+[23] Dans l’arrêt NCJ Educational Services Limited c. Canada (Revenu national), 2009 CAF 131, la juge Desjardins de la Cour d’appel fédérale mentionne :
+[49] Comme l’alinéa 5(1)a) de la Loi sur l’assurance-emploi ne contient aucune définition du contrat de louage de services, on doit se référer au principe de complémentarité consacré à l’article 8.1 de la Loi d’interprétation, L.R.C. 1985, ch. I‑2, qui indique qu’il faut appliquer les critères prévus par le Code civil du Québec pour décider si un ensemble de faits déterminé crée un contrat de travail. […]
+[24] L’article 8.1 de la Loi d’interprétation, L.R.C. 1985, ch. I-2, prévoit :
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s’il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d’assurer l’application d’un texte dans une province, il faut, sauf règle de droit s’y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l’application du texte.
+[25] Ainsi, nous devons nous référer aux dispositions du Code civil du Québec (« CcQ ») pour déterminer ce que signifie cette expression. En voici les dispositions pertinentes :
+1378. Le contrat est un accord de volonté, par lequel une ou plusieurs personnes s'obligent envers une ou plusieurs autres à exécuter une prestation.
+Il peut être d'adhésion ou de gré à gré, synallagmatique ou unilatéral, à titre onéreux ou gratuit, commutatif ou aléatoire et à exécution instantanée ou successive; il peut aussi être de consommation.
+[…]
+1425. Dans l'interprétation du contrat, on doit rechercher quelle a été la commune intention des parties plutôt que de s'arrêter au sens littéral des termes utilisés.
+1426. On tient compte, dans l'interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conclu, de l'interprétation que les parties lui ont déjà donnée ou qu'il peut avoir reçue, ainsi que des usages.
+[…]
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+2086. Le contrat de travail est à durée déterminée ou indéterminée.
+[26] Ainsi, pour qu’il y ait un contrat de louage de services au sens de la Loi, soit un contrat de travail au sens du CcQ, les trois éléments suivants doivent être réunis (voir 9041‑6868 Québec inc. c. Ministre du Revenu national, 2005 CAF 334, par. 11), soit :
+i. une prestation de travail;
+ii. une rémunération;
+iii. un lien de subordination.
+[27] Tel que la Cour d’appel fédérale nous l’a enseigné dans l’affaire 9041‑6868 Québec inc. c. Ministre du Revenu national, précitée, le critère du contrôle est l’élément déterminant d’une telle relation :
+[12] II est intéressant de noter qu'en droit civil québécois, la définition même du contrat de travail met l'accent sur « la direction ou le contrôle » (art. 2085 C.C.Q.), ce qui fait du contrôle l'objet même de l'exercice et donc beaucoup plus qu'un simple indice d'encadrement […].
+[28] Dans l’affaire Grimard c. Canada, 2009 CAF 47, [2009] 4 R.C.F. 592, la Cour d’appel fédérale a confirmé ce principe et a également invité les tribunaux à s’inspirer des critères établis par la common law dans l’analyse de la nature juridique de la relation de travail, indépendamment du fait qu’ils doivent statuer sous le régime du droit civil québécois :
+[37] On retrouve dans cet extrait la notion de contrôle sur l'exécution du travail aussi présente dans les critères de la common law, à cette différence que la notion de contrôle est, en vertu du droit civil québécois, plus qu'un simple critère comme en common law. Elle est une caractéristique essentielle du contrat de travail : voir D&J Driveway, au paragraphe 16 de cette décision; et 9041‑6868 Québec Inc. c. M.R.N., 2005 CAF 334.
+[…]
+[43] En somme, il n’y a pas, à mon avis, d’antinomie entre les principes du droit civil québécois et les soi-disant critères de common law utilisés pour qualifier la nature juridique de la relation de travail entre deux parties. Dans la recherche d’un lien de subordination juridique, c’est‑à‑dire de ce contrôle du travail, exigé par le droit civil du Québec pour l’existence d’un contrat de travail, aucune erreur ne résulte du fait que le tribunal prenne en compte, comme indices d’encadrement, les autres critères mis de l’avant par la common law, soit la propriété des outils, l’expectative de profits et les risques de pertes, ainsi que l’intégration dans l’entreprise.
+[29] Finalement, comme l’a décrit le juge Mainville dans l’affaire 1392644 Ontario Inc. (Connor Homes) c. Canada (Revenu national), 2013 CAF 85, un test en deux étapes doit être utilisé pour faire cette détermination :
+1- Établir l’intention subjective de chacune des parties à la relation : pour ce faire, il faut étudier le contrat, ou encore, le comportement réel des parties;
+2- Établir si la réalité objective confirme l’intention subjective des parties – les faits concordent-ils avec l’intention déclarée des parties? – en se référant aux critères développés par la jurisprudence, soit le contrôle, la propriété des instruments de travail, les possibilités de profit et les risques de perte, et l’intégration dans l’entreprise du payeur.
+IV. Analyse [30] Dans son argumentation, l’intimé prétend que la question de savoir si une personne exerce un emploi assurable au sens de la Loi doit s’analyser en fonction d’un employeur particulier. Ainsi, selon l’intimé, pour que l’appel de l’appelant soit accueilli, la Cour doit conclure à l’existence d’un contrat de travail entre l’appelant et le payeur. L’intimé ajoute qu’en l’espèce, il est possible que l’appelant ait rendu des services, mais que puisque les services n’ont pas été rendus au payeur, il faut conclure que l’appelant n’exerçait pas un emploi assurable au sens de la Loi.
+[31] Je suis d’avis que cette interprétation restrictive que fait l’intimé de l’expression « emploi assurable » n’est pas conforme à la Loi.
+[32] Tout d’abord, l’alinéa 5(1)a) de la Loi prévoit qu’est un emploi assurable « l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne […] ». [Je souligne.]
+[33] Ainsi, la définition même de l’expression « emploi assurable » prévoit la situation où une personne est liée par un contrat de travail avec une personne, même si une autre personne paie effectivement la rémunération.
+[34] De plus, le Règlement sur la rémunération assurable et la perception des cotisations (DORS/97‑33) pris en application de la Loi prévoit également des situations où la personne qui paie la rémunération d’un travailleur sera considérée l’« employeur réputé » et sera obligée de percevoir et remettre les cotisations d’assurance‑emploi. J’ai reproduit ci‑dessous les parties pertinentes de ce règlement.
+DÉFINITIONS ET INTERPRÉTATION
+1. (1) Les définitions qui suivent s’appliquent au présent règlement.
+[…]
+(2) Pour l’application de la partie IV de la Loi et pour l’application du présent règlement, « employeur » s’entend notamment d’une personne qui verse ou a versé la rémunération d’un assuré pour des services rendus dans l’exercice d’un emploi assurable.
+[…]
+PARTIE III
+EMPLOYEURS PRÉSUMÉS
+[…]
+Autres employeurs présumés
+10. (1) Lorsque, dans un cas non prévu par le présent règlement, un assuré travaille :
+a) soit sous la direction générale ou la surveillance directe d’une personne qui n’est pas son véritable employeur, ou est payé par une telle personne,
+b) soit avec l’assentiment d’une personne qui n’est pas son véritable employeur dans un lieu ou un local sur lequel cette personne a certains droits ou privilèges aux termes d’une licence, d’un permis ou d’une convention,
+cette personne est réputée, aux fins de la tenue des registres, du calcul de la rémunération assurable de l’assuré ainsi que du paiement, de la retenue et du versement des cotisations exigibles à cet égard aux termes de la Loi et du présent règlement, être l’employeur de l’assuré conjointement avec le véritable employeur.
+(2) Le montant de la cotisation patronale payée par la personne réputée être l’employeur en vertu du paragraphe (1) est recouvrable par celle‑ci auprès du véritable employeur.
+(3) Lorsque la personne qui est réputée être l’employeur d’un assuré en vertu du présent règlement ne paie pas, ne retient pas ou ne verse pas les cotisations qu’un employeur est tenu de payer, de retenir ou de verser aux termes de la Loi ou du présent règlement, les dispositions des parties IV et VI de la Loi s’appliquent à elle comme s’il s’agissait du véritable employeur.
+[Je souligne.]
+[35] La Cour d’appel fédérale, dans l’affaire R. c. Insurance Corp. of British Columbia, 2002 CAF 104, précise le but de ce règlement :
+[8] Le but du Règlement et de la loi qui l'autorise consiste, en partie, à faciliter la perception des cotisations d'assurance-emploi, une activité qui est essentielle au système tel qu'il existe actuellement. La Loi autorise clairement le genre de dispositions qui ont été adoptées par le gouverneur en conseil dans l'article 10 du Règlement. En examinant l'article 10, on voit qu'il est censé s'appliquer, entre autres choses, lorsqu'un employé qui est assuré est [TRADUCTION] « payé par une personne qui n'est pas son véritable employeur ». Dans un tel cas, cette « autre personne » doit conserver des relevés d'emploi et calculer, déduire et verser les cotisations appropriées. La proposition est assez simple et son but est clair : les cotisations doivent être retenues à la source lorsque le traitement ou le salaire est calculé et administré et lorsque les paies ou les chèques sont émis. Le terme « payé » doit être interprété dans son contexte et il n'est pas nécessaire d'examiner les sources techniques dans le but de lui attribuer un sens qui irait à l'encontre du but clairement recherché par l'article. Il serait également possible, si quelqu'un devait s'attarder sur des concepts juridiques abstraits, de décider qu'une personne ne pourra être un « véritable employeur » que si la personne paie l'« employé » avec ses propres ressources et non aux frais d'une autre. Mais, cela irait aussi à l'encontre du but recherché par l'article en empêchant son application à toute situation où, dans les faits, un tiers fournirait ou administrerait le traitement ou le salaire.
+[36] Cette décision de la Cour d’appel fédérale a été suivie par la juge en chef adjointe Lamarre de notre Cour dans l’affaire Union of Saskatchewan Gaming Employees Local 40005 c. Ministre du Revenu national, 2004 CCI 799, ainsi que plus récemment par le juge suppléant Porter dans l’affaire 6236251 Canada Inc. c. Ministre du Revenu national, 2007 CCI 101.
+[37] En l’espèce, il est clair que l’appelant a été payé par le payeur. L’appelant a produit à l’audience des copies de 15 talons de chèque de paie émis par le payeur (pièce A‑2). Ces chèques sont tous numérotés de façon consécutive et portent tous une date démontrant que la paie est versée chaque semaine. De plus, ces talons de chèque indiquent une retenue au titre de l’assurance‑emploi. Il manque toutefois une copie des talons de chèque pour 4 semaines, soit du 31 juillet 2010 au 20 août 2010. L’appelant n’a pas fourni de raisons pour cette absence de documents pour cette période. À mon avis, cela ne change pas le fait que le payeur a effectivement payé l’appelant pour la période.
+[38] Le payeur a également remis un relevé d’emploi à l’appelant pour la période. L’appelant a produit à l’audience une copie du relevé d’emploi pour la période du 12 avril 2010 au 20 août 2010 établi par le payeur (pièce A‑1).
+[39] De plus, le feuillet T‑4 pour l’année d’imposition 2010 qui a été remis à l’appelant par le payeur indique que l’appelant a contribué 310,08 $ à l’assurance‑emploi; une copie en a été produite à l’audience sous la cote A‑3.
+[40] Même si monsieur Lapointe, président et unique actionnaire du payeur, a confirmé à madame Courcy ne pas connaître l’appelant (ce que l’appelant a effectivement confirmé lors de son témoignage) et ne pas avoir établi de relevés ou fait de paies à son nom, le rapport produit par madame Courcy sous la cote I‑5 vient plutôt confirmer le fait que monsieur Lapointe n’avait aucun contrôle sur les activités du payeur et que son nom était parfois apposé sur des documents par une étampe qu’il avait lui-même consenti à faire préparer. Bien que cette partie du témoignage constitue du ouï‑dire, je reprends tout de même ici la partie pertinente de ce rapport :
+19- À compter de 2007, il a associé rénovation MPF, à ce moment il avait rencontré M. Desrochers et il a perdu le contrôle de l’entreprise. Il ne savait plus ce qui se passait dans l’entreprise et même s’il posait des questions, il n’avait pas de réponse. L’entreprise est devenue 9207‑0077 Québec inc. C’était Normand Duval qui décidait et il se référait à Normand Dubois mais il ne sait pas où est le bureau de son entreprise.
+20- Il n’a pas signé de chèque de paie.
+21- Il ne s’occupait de rien dans l’entreprise dans l’attente d’obtenir des avantages dans le futur. Il n’a rien signé sauf une estampe à son nom qui servait à signer divers documents à son insu. Il s’est fait promettre plein de chose comme de l’argent. Au fil des ans, il a peut-être reçu 20 000 $ à raison de 5 000 $ ponctuellement.
+22- Il sait qu’il y avait du blanchiment d’argent, quelques fois il allait faire des dépôts pour l’entreprise. C’était Philippe Larocque qui s’occupait des dossiers. Il ne contrôlait plus rien et ne connait aucun employé dont Robert Blain. Il n’a pas signé de relevé d’emploi pour le travailleur Robert Blain.
+[41] Ainsi, que monsieur Lapointe ne connaisse pas l’appelant ou que monsieur Lapointe prétende ne pas avoir signé de chèque ou de relevé d’emploi ne change rien à ce que l’appelant a été payé par le payeur, a encaissé les chèques de paie émis par le payeur et a reçu à l’égard de son travail un relevé d’emploi établi par le payeur.
+[42] En raison de ce qui précède, si je conclus que l’appelant et une autre personne sont liés par un contrat de travail, il faudra conclure que le payeur est l’employeur présumé de l’appelant aux fins de la Loi.
+[43] Examinons maintenant la question de savoir si l’appelant était lié par un contrat de travail avec une autre personne au sens du CcQ au cours de la période. Pour répondre à cette question, je dois examiner les trois critères constitutifs d’un tel contrat, soit la prestation de travail, la rémunération et le lien de subordination.
+[44] Je veux souligner que la preuve a démontré que l’entente entre l’appelant et monsieur Dubois était verbale; l’appelant n’a pu faire témoigner monsieur Dubois en raison des circonstances particulières concernant monsieur Dubois ainsi que sa famille et ses proches collaborateurs, tel que la pièce I‑4 le démontre.
+[45] Selon la preuve de l’appelant à l’audience, je suis d’avis que l’appelant a effectué une prestation de travail pour compagnie MC DUBOIS ou pour monsieur Dubois au cours de la période. Le témoignage de l’appelant était clair; l’appelant m’a semblé crédible, honnête et franc.
+[46] L’appelant devait s’occuper du transport de la machinerie lourde; il devait aider le fils de monsieur Dubois dans ses travaux d’excavation; il devait également s’assurer que la machinerie lourde était en bon état de marche. Il a montré à la Cour des photos de cette machinerie arborant le logo MC DUBOIS.
+[47] Au cours de l’audience, l’intimé a décrit les contradictions retrouvées dans la déclaration statutaire. Toutefois, l’appelant me semblait sincère lorsqu’il a prétendu ne pas avoir voulu impliquer monsieur Dubois ou ses compagnies par peur de représailles. De plus, bien que les actions de l’appelant en ce qui concerne son emploi en Alberta en 2007 aient pu être non conformes à la Loi, ceci ne me permet pas d’inférer que le témoignage de l’appelant au cours de l’audience est entaché de mauvaise foi. Ainsi, je ne retiendrai pas ce facteur en l’espèce.
+[48] Tel que je l’ai conclu ci‑dessus, la preuve fournie par l’appelant a démontré qu’il a reçu une rémunération du payeur pour son travail. L’intimé n’a pas contesté ce fait. Ce critère est donc rempli.
+[49] Tel que je l’ai précisé ci-dessus, les tribunaux ont mis de l’avant une liste d'indices d'encadrement pour déterminer si le donneur d'ouvrage exerce suffisamment de contrôle sur l'exécution du travail pour qu'il y ait une relation employeur‑employé. Le tribunal peut se fonder sur cette liste d’indices pour déterminer si ce troisième critère constitutif d’un contrat de travail au sens du CcQ est rempli. Ces indices sont la propriété des instruments de travail, les possibilités de profit et les risques de perte ainsi que l'intégration des travaux effectués par les prétendus employés dans l'entreprise de l'employeur présumé.
+[50] De plus, tel que la Cour l’a précisé dans 9041‑6868 Québec inc. c. Ministre du Revenu national, précité :
+[…] La diversification et la spécialisation des occupations et des techniques de travail ont, en effet, rendu souvent irréaliste que l’employeur soit en mesure de dicter ou même de surveiller de façon immédiate l’exécution du travail. On en est ainsi venu à assimiler la subordination à la faculté, laissée à celui qu’on reconnaîtra alors comme l’employeur, de déterminer le travail à exécuter, d’encadrer cette exécution et de la contrôler. En renversant la perspective, le salarié sera celui qui accepte de s’intégrer dans le cadre de fonctionnement d’une entreprise pour la faire bénéficier de son travail. En pratique, on recherchera la présence d’un certain nombre d’indices d’encadrement, d’ailleurs susceptibles de varier selon les contextes : présence obligatoire à un lieu de travail, assignation plus ou moins régulière du travail, imposition de règles de conduite ou de comportement, exigence de rapports d’activité, contrôle de la quantité ou de la qualité de la prestation, etc.
+[51] Selon le témoignage de l’appelant, il devait porter un uniforme; il s’occupait de la machinerie arborant le logo MC DUBOIS; il devait être au site de St‑Joseph‑du‑Lac le matin pour s’occuper du transport de la machinerie le matin de même que le soir lors du retour de celle‑ci; il a fourni une liste de numéros de téléphone où apparaît le nom d’un contremaître, monsieur Alain Flamand; il faisait de longues heures de travail. Cette preuve n’a pas été contestée par l’intimé.
+[52] De plus, l’appelant ne fournissait aucun outil de travail. L’appelant a également produit un chèque indiquant que le payeur a remboursé 203,16 $ pour ses bottes (pièce A‑2).
+[53] L’appelant n’avait également ni possibilité de profit ni risque de perte à l’égard des activités : il recevait ses chèques de paie de façon régulière et les déposait dans son compte bancaire.
+[54] Selon les éléments de preuve fournis par l’appelant, je suis d’avis que l’appelant était lié par un contrat de travail avec monsieur Dubois ou avec la compagnie MC DUBOIS.
+[55] Je veux également mentionner qu’il ressort clairement du témoignage de l’appelant qu’il ne connaissait pas personnellement les membres de la famille Dubois; il croyait sincèrement être au service de monsieur Dubois ou de la compagnie MC DUBOIS. Le fait que le payeur ou les membres de la famille Dubois soient impliqués dans un stratagème de fausse facturation et que le payeur soit une coquille vide n’ayant aucune activité ne devrait pas pénaliser l’appelant qui a exercé un emploi auprès de monsieur Dubois ou de la compagnie MC DUBOIS.
+[56] Pour toutes ces raisons, je conclus que l’appelant exerçait un emploi assurable aux fins de la Loi pendant la période; j’accueille donc l’appel de l’appelant et je modifie la décision du ministre afin de conclure que l’appelant exerçait un emploi assurable auprès de monsieur Dubois ou de la compagnie MC DUBOIS au cours de la période du 12 avril 2010 au 20 août 2010.
+Signé à Ottawa, Canada, ce 24e jour de juin 2015.
+« Dominique Lafleur »
+La juge Lafleur
+RÉFÉRENCE :
+2015 CCI 162
+Nº DU DOSSIER DE LA COUR :
+2013-3010(EI)
+INTITULÉ DE LA CAUSE :
+ROBERT BLAIN c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 20 mai 2015
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Dominique Lafleur
+DATE DU JUGEMENT :
+Le 24 juin 2015
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Mounes Ayadi
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

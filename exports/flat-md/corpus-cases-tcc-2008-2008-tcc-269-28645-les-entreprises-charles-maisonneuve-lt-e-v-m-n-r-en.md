@@ -1,0 +1,241 @@
+---
+title: "Les Entreprises Charles Maisonneuve Ltée v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28645/index.do"
+last_modified: "2008-06-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 269"
+citation2: ""
+neutral_citation: "2008 TCC 269"
+decision_date: "2008-06-04"
+language: "en"
+item_id: "28645"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1109
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:08:16.703000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5a6f9b72ba3b1578c35e916f934c9ba49b80f962a1a28b44416944a486c888d8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Les Entreprises Charles Maisonneuve Ltée v. M.N.R.
+
+- Citation: 2008 TCC 269
+- Decision date: 2008-06-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1109, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Entreprises Charles Maisonneuve Ltée v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-04
+Neutral citation
+2008 TCC 269
+File numbers
+2007-4910(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-4910(EI)
+BETWEEN:
+LES ENTREPRISES CHARLES MAISONNEUVE LTÉE,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on April 21, 2008, at Montréal, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances
+Agent for the Appellant:
+Alain Savoie
+Counsel for the Respondent:
+Dany Leduc
+____________________________________________________________________
+JUDGMENT
+The appeal filed under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of June 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 25th day of July 2008.
+Susan Deichert, Reviser
+Citation: 2008TCC269
+Date: 20080604
+Docket: 2007-4910(EI)
+BETWEEN:
+LES ENTREPRISES CHARLES MAISONNEUVE LTÉE,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal from a determination by the Respondent that the work performed for the Appellant by Hélène Maisonneuve from January 1, 2003, to December 31, 2006, Frédéric Maisonneuve from January 1, 2003, to February 16, 2007, and Pierre Maisonneuve from January 1, 2003, to December 31, 2006 (the "workers"), met the requirements for a contract of service despite the non-arm’s length relationship between the parties.
+[2] The Respondent's determination was based on the following facts, set out in paragraphs 5, 6 and 7 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+a) the Appellant was incorporated in 1997; (admitted)
+b) the Appellant specializes in excavation and in the grading of aqueducts and wastewater collection ditches, and also has snow removal operations; (denied as worded)
+c) the Appellant operates throughout the year, as it provides snow removal services in the winter; (admitted)
+d) the Appellant's hours of operation depend on its client contracts; there can be work on weekends; (admitted)
+e) the Appellant employs about 50 people a year; (denied as worded)
+f) the workers are shareholders in the Appellant and all sit on the Appellant's board of directors; (denied as worded)
+g) Charles Maisonneuve, majority shareholder in the Appellant, is the father of the workers and acts more as a director for the Appellant; he has gradually handed over his powers of direction to his children (the workers); (admitted)
+h) the workers hold the Appellant's managerial positions; (admitted)
+i) the workers make all decisions regarding both major and day-to-day management operations and see that the Appellant's business runs smoothly; (admitted)
+j) Hélène Maisonneuve acted as administrative comptroller; she dealt with accounting, government, legal and other matters; she was primarily responsible for
+- accounts receivable and payable
+- payroll
+- contract terminations
+- government remittances
+- complexities in some documents
+- bids
+- commissions
+- building maintenance
+- decorating the place of business
+(admitted)
+k) she worked only at the Appellant's place of business; (denied)
+l) she had no set hours of work, but generally worked days from Monday to Friday; she occasionally worked evenings and weekends when circumstances required; (denied)
+m) during the period at issue, she had a fixed annual salary of $66,417 and was eligible for an annual bonus based on the company's performance; (admitted)
+n) she normally took two weeks of vacation in the summer and a few days in the winter; (denied)
+o) Frédéric Maisonneuve was responsible for supervising the heavy equipment operators for commercial and civil engineering operations; (admitted)
+p) he also dealt with snow removal contracts with his brother Louis; his main duties amounted to
+- handling early morning calls, the equipment, transportation and problem cases
+- supervising the operators
+- scheduling work
+- carrying out snow removal contracts
+(admitted)
+q) he had no set hours of work, but worked between 40 and 70 hours a week, depending on contracts; (denied as worded)
+r) part of his duties required him to move from one worksite to another to check on the progress and quality of work under way; (admitted)
+s) during the period at issue, he had a fixed annual salary of $68,204 and was eligible for an annual bonus based on the company's performance; (denied)
+t) he normally took five to six weeks of vacation a year; (denied)
+u) Louis Maisonneuve was supervisor/foreman of the heavy equipment operators for residential operations; (admitted)
+v) he was responsible for managing the workers on worksites and mainly handling
+- emergencies
+- snow removal contracts
+- supervision of operators
+- work scheduling
+- problem cases
+(admitted)
+w) he had no set hours of work, but generally worked 45 hours a week from Monday to Friday, and occasionally worked evenings or weekends; (denied)
+x) part of his duties required him to move from one worksite to another to check on the progress and quality of work under way; (admitted)
+y) during the period at issue, he had a fixed annual salary of $71,534 and was eligible for an annual bonus based on the company's performance; (denied)
+z) he normally took two weeks of vacation during the construction industry break, one week during spring break and one other week at some other point during the year; (denied)
+aa) Pierre Maisonneuve held the position of general manager for the company; (admitted)
+bb) he dealt mainly with
+- the mechanics
+- production
+- management
+- bids
+(admitted)
+cc) he had an annual salary of $85,160 and was eligible for an annual bonus based on the company's performance; (denied)
+dd) he worked at the Appellant's place of business and sometimes at home; (admitted)
+ee) he had no set hours of work and worked anywhere from 20 to 90 hours a week depending on the time of year and the number of contracts the company had; (admitted)
+ff) he occasionally worked evenings or weekends; (admitted)
+gg) he took two weeks of vacation during the construction industry break and two more in the spring; (denied)
+hh) each of the workers had an office and workspace at the Appellant's place of business; (admitted)
+ii) each of the workers reported or was accountable to the Appellant's board of directors; (denied)
+jj) the workers' work was subject to verification and/or correction at all times; (denied)
+kk) Pierre and Hélène Maisonneuve were covered by the company's health care plan, in the same way as other employees not covered by the C.S.S.T., whereas Louis and Frédéric Maisonneuve were not covered by the said plan; (admitted)
+ll) the workers were required to advise the Appellant when they had to take time off work; (denied)
+mm) the workers did not incur any expenses in the performance of their duties; (denied)
+nn) all of the material, equipment, supplies, trucks and physical premises were the property of the Appellant. (denied)
+[3] The Court notes that the Appellant's agent admitted at the hearing that the workers were employed by the Appellant under a contract of service.
+[4] The Court also notes that the Respondent determined that the employment in question was insurable, as it was not subject to paragraph 5(2)(i) of the Employment Insurance Act (the "Act"). In fact, the workers and the Appellant were deemed under paragraph 5(3)(b) to be dealing with one another at arm's length for the purposes of the employment in question, the Respondent being satisfied that it was reasonable to conclude that, having regard to all the circumstances, the workers would have entered into a substantially similar contract of employment with the Appellant if they had been dealing with each other at arm's length.
+[5] The Court further notes that all of the workers testified in support of the Appellant's position and that no one testified in support of the Respondent's position. The Court considered the workers' testimony highly credible.
+[6] The Federal Court of Appeal has on several occasions defined the role conferred by the Act on judges of the Tax Court of Canada. That role does not allow a judge to simply substitute his or her discretionary decision for that of the Minister of National Revenue (the "Minister"). Rather, it requires that the Court "verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, . . . decide whether the conclusion with which the Minister was 'satisfied' still seems reasonable".[1]
+[7] Each the workers testified at the hearing primarily to describe the role he or she had played within the company during the periods at issue. The Court notes that the descriptions the workers gave of their roles basically matched that set out by the Minister in the Reply to the Notice of Appeal.
+[8] Each of the workers testified that, unlike the Appellant's other workers, he or she was not supervised because
+i) each of them set his or her own hours of work and could change them at will. In this regard, Pierre Maisonneuve indicated that he spent anywhere from 20 to 90 hours a week on his work, which meant his schedule varied; he stated that he worked an average of 50 hours a week. Louis Maisonneuve testified that he spent anywhere from 30 to 90 hours a week on his work, which meant his schedule varied; he stated that he worked an average of 55 to 60 hours a week. Hélène Maisonneuve indicated that she spent an average of 45 hours a week on her work and that those hours were generally spread over five days a week, during the business hours of the Appellant's head office. Finally, Frédéric Maisonneuve indicated that he spent anywhere from 30 to 90 hours a week on his work, which meant his schedule varied; he stated that he worked an average of 60 hours a week;
+ii) all of the workers could take time off work when they wished and plan their work around their family and personal lives, regardless of the Appellant's needs, as they could always turn their responsibilities over to a trusted employee within the company when they wanted to be away. Each of the workers provided examples in this regard: for instance, Pierre Maisonneuve had taken nine days off work when his spouse had been hospitalized; he had also taken a few days off to help his daughter (who had been admitted to university) to find an apartment; he also mentioned that he had taken English classes during business hours. Louis Maisonneuve indicated that he took time off work to drive his daughter to violin lessons; the evidence showed that he spent about 30 hours a year doing so; he also pointed out that he occasionally took long weekends. Hélène Maisonneuve indicated that she regularly took time off work for visits to the hairdresser, dentist and esthetician; she also pointed out that she occasionally took long weekends. Finally, Frédéric Maisonneuve indicated that he took time off work to indulge his love of horses, although he did not specify how often he was away from work for this purpose or how long he was gone;
+iii) the workers individually decided on the dates and length of their vacation time, which was paid; the evidence showed that each of the workers took an average of four weeks of annual leave when it suited him or her;
+iv) the workers were paid when they took sick leave, regardless of the number of days taken; however, the evidence did not show whether any of them took a large number of days off as sick leave;
+v) the workers individually set their own salaries; each of them maintained that he or she could increase his or her salary without the agreement of the other workers; each explained that he or she would inform the other workers of the raise wanted, not to obtain their consent, but out of respect or consideration; they added that at no time had the other workers stopped one worker from increasing his or her salary. The Court emphasizes that the workers did not succeed in satisfying it of this fact; it appears unlikely to the Court that a worker, even if he or she is a shareholder in the employer, could increase his or her salary without the consent of the other shareholders. The Court is of the view that, in this case, the worker concerned would informally advise the other workers of the raise wanted, not out of consideration, but to obtain their agreement, and would interpret silence on the part of the other workers as tacit agreement. The Court is also of the view that in this case the other shareholders never stopped a worker from increasing his or her salary simply because the raise struck them as unreasonable under the circumstances; the following example provided by the workers clearly illustrates the Appellant's approach with regard to raises sought by the workers: the workers explained that, in 2003, their brother Frédéric had needed $4,000 in additional income to cover the costs of his pastime (horses); they explained that Frédéric had told them about his needs and they had agreed to his request and decided (most likely to keep things fair) that the Appellant would pay each of them a bonus of $4,000 in 2003.
+[9] The evidence also showed that the workers had received the following earnings from the Appellant during the periods concerned:
+2003
+2004
+2005
+2006
+Pierre Maisonneuve
+$82,096
+$81,074
+$87,812
+$85,160
+Louis Maisonneuve
+$71,273
+$58,832
+$64,644
+$71,534
+Hélène Maisonneuve
+$59,691
+$56,878
+$70,276
+$66,417
+Frédéric Maisonneuve
+$70,770
+$67,362
+$67,904
+$68,404
+Analysis
+[10] Does the conclusion with which the Minister was satisfied still seem reasonable considering the evidence of the workers? It will be recalled that the Minister was required to determine whether it was reasonable to conclude that the workers would have entered into a substantially similar contract of employment with the Appellant if they had been dealing with each other at arm's length. There was no question of determining whether working conditions necessarily reflected market conditions although, generally, this can be a relevant matter worth considering. In the Court's view, with regard to paragraph 5(3)(b) of the Act, that is, the matter of whether or not the employer and employees would have entered into a substantially similar contract of employment, it is necessary to remember that the four workers in question were not only the Appellant's only officers, but were also its directors and owners. There is no indication in paragraph 5(3)(b) of the Act that the workers' financial interests in the company must be disregarded. Consequently, it is possible to construct an abstract case involving four unrelated workers each holding approximately one quarter of the capital stock in the Appellant (with which they are dealing at arm's length), in addition to being its sole directors and officers. The question to be decided by the Minister could then be reworded as follows: would the four workers have entered into a substantially similar contract had they each held more or less one quarter of the shares in the Appellant and had they been dealing with each other and the Appellant at arm's length?
+[11] It is a matter of judicial notice that workers who are both paid employees of an employer and (as shareholders) owners of that same employer act differently from mere paid employees. In fact, the salary of someone who is a paid employee and shareholder may take into account the fact that salaries not paid will be retained earnings that can be reported as dividends at a future date. Workers who are also shareholders must often keep the company's financial needs in mind, especially if the company is experiencing cash-flow problems. This likely explains why some of the workers' earnings were lower in 2004.
+[12] Does the Minister's conclusion still seem reasonable? Was it reasonable for the Minister to conclude that the workers-shareholders would have entered into a substantially similar contract of employment had they been dealing with the Appellant at arm's length? The Court finds that the Appellant did not succeed in demonstrating that the Minister's decision seems not to be reasonable. This is not a case where the Court should intervene to substitute its view for that of the Minister. It is true that some of the Minister's assumptions were disproved at the hearing. However, there remained sufficient evidence to justify the Minister's decision. The Court agrees that, had the four workers not had any financial interests in the Appellant, they would not have worked weekends and evenings as often to solve urgent problems. Had Hélène Maisonneuve not had a financial interest (as a shareholder) in the Appellant, she would probably not have cleaned the washrooms and the office, as she occasionally did. No one assigned her this duty. This too is the behaviour of workers who are also shareholders in the employer, regardless of whether or not they are dealing with it at arm's length. An employee who is a shareholder in the employer, whether or not the relationship is at arm's length, is generally more dedicated to the employer than a mere worker would be, as it is more in that person's interest to be. It bears repeating that there is nothing unusual about this.
+[13] Moreover, it is perfectly normal for a senior manager (and even more so where he or she is also a shareholder in the employer)
+i) to occasionally take time off work (as was the case for the workers here) for personal reasons without asking the employer's permission; the Court does not believe that senior managers ask permission of their employer to go to a close relative's bedside, visit the doctor, play golf with friends on a Friday afternoon, or even occasionally take a long weekend;
+ii) to have considerable autonomy in the performance of his or her duties; the Court notes in this regard that the workers in this case in no way satisfied it that they could do as they pleased within the company and make any decision they deemed appropriate; according to the evidence, although the workers enjoyed a great deal of autonomy in performing their duties, they had to consult informally with the other workers before making any major decisions affecting the Appellant, basically to obtain their consent;
+iii) to decide on the dates and length of his or her vacation time;
+iv) to be paid for time off when ill, regardless of the number of days taken;
+v) to be paid a salary based on needs rather than performance (e.g., the $4,000 bonus in 2005).
+[14] Had one of the workers worked only 10 hours a week year-round, but still received a salary equal to that of the other three workers, who might have averaged 50 hours, the Court would have arrived at a very different decision. It is quite normal for workers performing the types of duties involved here to be paid as these workers were, and to have a high level of autonomy in the performance of their duties. The Court finds that the four workers would have entered into a substantially similar contract of employment had they been dealing with each other and the Appellant at arm's length and had the same number of shares in the Appellant.
+[15] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 4th day of June 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 25th day of July 2008.
+Susan Deichert, Reviser
+CITATION: 2008TCC269
+COURT FILE NO.: 2007-4910(EI)
+STYLE OF CAUSE: LES ENTREPRISES CHARLES MAISONNEUVE LTÉE AND M.N.R.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: April 21, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: June 4, 2008
+APPEARANCES:
+Agent for the Appellant:
+Alain Savoie
+Counsel for the Respondent:
+Dany Leduc
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Légaré v. Canada (Minister of National Revenue – M.N.R.), [1999] F.C.J. No. 878 (QL), at paragraph 4.

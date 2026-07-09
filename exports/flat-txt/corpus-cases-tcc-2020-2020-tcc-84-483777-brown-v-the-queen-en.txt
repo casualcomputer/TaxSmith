@@ -1,0 +1,148 @@
+Title: Brown v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/483777/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-84-483777-brown-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-08-12
+
+# Brown v. The Queen
+
+- Citation: 2020 TCC 84
+- Decision date: 2020-08-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4548, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brown v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-08-12
+Neutral citation
+2020 TCC 84
+File numbers
+2018-4004(IT)I
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-4004(IT)I
+BETWEEN:
+WESLEY BROWN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 5, 2019, at Calgary, Alberta
+Before: The Honourable Justice Susan Wong
+Appearances:
+Agent for the Appellant:
+Lisa Rumsey
+Counsel for the Respondent:
+Adam Pasichnyk
+JUDGMENT
+The appeal from reassessments made under the Income Tax Act for the 2013, 2014, 2015, and 2016 taxation years is allowed, without costs, on the basis that:
+a) the Appellant is entitled to interest expense deductions in the amounts of $17,715, $18,416, and $17,192 for the 2013, 2014, and 2015 taxation years, respectively; and
+b) the appeal of the 2016 taxation year is quashed.
+Signed at Ottawa, Canada, this 12th day of August 2020.
+“Susan Wong”
+Wong J.
+Citation: 2020 TCC 84
+Date: 20200812
+Docket: 2018-4004(IT)I
+BETWEEN:
+WESLEY BROWN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+Overview
+[1] Wesley Brown owns and operates two commercial properties in Alberta. He bought them in 2003 and 2008 with specific plans in mind for each one. However, things did not unfold as expected. His plan to sell one of the properties fell through when the prospective buyer instead caused major damage to it. His close friend/business partner in the other property died unexpectedly soon after Mr. Brown purchased it and they had a tenant waiting to occupy a building that had not yet been constructed. As a result, Mr. Brown was forced to pivot quickly to minimize his losses and honour his obligations.
+[2] He used his personal savings, cashed in all of his stocks and RSPs, and borrowed money interest-free from family and friends. He put the money from the interest-free loans toward renovating and transforming the first property into a multi-unit space for light-industrial tenants. He then took out several personal lines of credit, some unsecured and some secured with his personal residence. He used these lines of credit to repay his family and friends, as well as cover the ongoing cost of the renovation and construction projects.
+[3] The main question here is whether Mr. Brown can deduct the interest expense arising from three lines of credit in 2013, 2014, and 2015. The answer to this question turns on whether he used the private loans and the lines of credit to earn income from a business or property in those years.
+Preliminary Matters
+[4] At the commencement of the hearing, this Court granted the Respondent’s motion to quash Mr. Brown’s appeal of the 2016 taxation year on the basis that no notice of objection was filed. Mr. Brown’s representative agreed that an objection was not filed and intends to pursue taxpayer relief under subsection 152(4.2) of the Income Tax Act instead.
+[5] The Reply to the Notice of Appeal also raised disallowed investment counsel fees of $1,050 as an issue with respect to 2013, although the Notice of Appeal did not. Mr. Brown’s representative did not lead any evidence on these fees and withdrew this issue during the hearing.
+Legislative framework
+[6] The Supreme Court of Canada has said that four requirements must be met in order to make an interest deduction under subparagraph 20(1)(c)(i) of the Act: (1) the amount must be paid in the year or be payable in the year in which it is sought to be deducted; (2) the amount must be paid pursuant to a legal obligation to pay interest on borrowed money; (3) the borrowed money must be used for the purpose of earning non-exempt income from a business or property; and (4) the amount must be reasonable, as assessed by reference to the first three requirements. [1] Only the third requirement is in issue in this appeal.
+[7] For the purposes of paragraph 20(1)(c), if a taxpayer uses borrowed money to repay money previously borrowed, the borrowed money is deemed to be used for the same purpose as the previously borrowed money: see subsection 20(3).
+[8] It also does not necessarily matter if the borrowed money is commingled with other money that is used for another purpose, as long as the borrowed money can be traced to a current eligible use. [2]
+Factual background
+[9] Mr. Brown is the sole shareholder of two corporations, 1049304 Alberta Inc. and 1364383 Alberta Inc. 1049304 is now a 15,000-square-foot light-industrial commercial property he purchased in 2003 and is located in Edmonton. It is condominiumized/subdivided into six bays of which four are occupied by tenants. In 2008, he purchased 1364383 which is now a 3,750-square-foot pre-engineered steel building on one acre of land in Barrhead. It is presently empty because its tenant went bankrupt.
+[10] Mr. Brown testified that he spent over $1.4 million renovating 1049304 after a planned sale of the property fell through in 2008 and the prospective purchaser caused extensive damage to the building. The problems with the prospective purchaser of 1049304 began in the fall of 2007 and Mr. Brown was able to remove them from the premises by spring 2008.
+[11] He stated that he received advice from realtors to salvage the building and improve its marketability by renovating and condominiumizing it. The improvements were completed in about spring 2009 and brought the property up to current building codes. The work included reconstructing sections of the building, updating the delivery of gas and power, and installing separate meters for each of the new bays created by the subdivision. The renovations increased the rental rate from about $8 to $15 per square foot. Mr. Brown estimates that it took about 6 to 9 months to remove the prospective purchaser and change the business plan for 1049304, all without revenue coming in from this property.
+[12] At the same time that his plans for 1049304 changed unexpectedly, Mr. Brown had just purchased 1364383 in the spring of 2008 and begun construction of the steel building. 1364383 was intended to be a partnership with his close friend; however, his friend passed away suddenly and Mr. Brown had to continue on his own. At the time of his death, Mr. Brown’s friend had not contributed any financing to 1364383. There was already a lease commitment from an oil and gas company for 1364383 so Mr. Brown had to complete the construction on time.
+[13] He stated that to help pay for the unexpected renovation of 1049304, he used his personal savings, cashed in all of his stocks and RSPs, and borrowed about $120,000 from family and friends. The loans from family and friends were interest-free and not recorded in writing. He then obtained personal lines of credit and used this money to repay his family and friends, as well as fund the ongoing renovation of 1049304 and construction of 1364383. He testified that he proceeded this way because it would not delay the renovation and construction projects; also, 1049304 was empty and not in rentable condition so it was not valuable enough to use as security against a bank loan anyway. He stated that after 1049304 was renovated and occupied, he was able to refinance his mortgage for about $1.6 million in 2010.
+[14] The unaudited balance sheets for 1049304 show that Mr. Brown as shareholder was owed $513,401, $503,106, and $495,565 by the company in 2013, 2014, and 2015, respectively. There are no written loan agreements between himself and the two corporations, and he stated that he has never received dividends from them.
+[15] During the same period when these events were taking place with 1049304 and 1364383, Mr. Brown owned two houses. One was in Calgary and purchased with the help of a family member as co-signer in 1996; Mr. Brown refinanced and assumed full title in 2003. The other is on an acreage in Spruce Grove which he purchased in about 2006 and where he still lives today. He sold the Calgary house at the beginning of 2010 and used the sale proceeds to pay off several of his six lines of credit.
+Lines of credit
+[16] Three personal lines of credit give rise to the interest in dispute:
+a) Scotiabank account ending in -144 with an unsecured credit limit of $68,800 obtained on May 28, 2004 [3] ;
+b) Scotiabank account ending in -609 with a credit limit of $262,500 obtained on August 8, 2006 and secured against the Spruce Grove acreage [4] ; and
+c) Scotiabank account number ending in -673 with a credit limit of $128,500 obtained on January 4, 2010, although monthly statements show that the credit limit was in the range of $67,000 in the years under appeal [5] . This line of credit is also secured against the Spruce Grove acreage [6] .
+[17] Monthly statements for these three accounts from 2013 to 2015 show: (1) the amount borrowed stayed at the maximum limit; (2) the only regular activity was a monthly life insurance premium charged to each line of credit; and (3) minimum monthly payments were made with equivalent cash advances withdrawn. [7] Mr. Brown explained that in those years, he would have to make a payment to one line of credit and then withdraw the money to pay other bills. He stated that he carried six lines of credit at one point and has since paid several of them off.
+[18] There is also $673 of interest claimed for 2013 from a fourth line of credit ending in -012. [8] Mr. Brown explained that it is a credit card connected to -144 and has a credit limit of $6,200. The account statements include charges for a fitness club membership, dining out, parking, and cell phone. [9] He testified that to the extent there were personal expenses charged to this credit card, he only claimed an interest deduction with respect to the business-related expenditures. However, the monthly account statement from January/February 2014 shows that the total interest for 2013 was $672.17. [10]
+Analysis
+The interest from -144, -609, and -673 is deductible for 2013, 2014, and 2015
+[19] I found Mr. Brown to be very credible and accept his explanation that the money borrowed from -144, -609, and -673 helped pay for the costs of renovating 1049304 and constructing 1364383. I also accept his explanation that he used these lines of credit to repay his family and friends for money he borrowed to urgently finance the renovation of 1049304. The fact that the funds in the lines of credit were commingled amongst the three purposes of repaying the private loans, the renovation project, and construction project is insignificant because all are eligible uses in the circumstances. Gaps in documentary evidence due to the fact that his records were incomplete or that certain bank records were no longer available were satisfied by his oral testimony. His narrative of the relevant details and events had the truthful resonance that comes with having been personally involved in a situation.
+[20] Although the record-keeping was imperfect, I was able to review copies of the original personal credit agreements for -144, -609, and -673 [11] and the monthly account statements for the three years under appeal. [12] Mr. Brown’s testimony is supported by the lack of account activity, the fact that the three accounts remained steadily at their maximum credit limits, and the fact that the balance sheets showed the amounts owed to him by 1049304 alone exceeded the total amounts borrowed under the three lines of credit from 2013 to 2015.
+[21] The balance sheets show a general downward trend in terms of the amount owed to him as shareholder, which is consistent with his testimony that he has been paying down the amounts borrowed to cover the renovation and construction costs. Although I did not have the opportunity to review complete sets of financial statements, the balance sheets support Mr. Brown’s testimony that he did not receive dividends from either corporation. On a balance of probabilities, I do not believe that either corporation would have met the statutory solvency test for payment of dividends. [13]
+[22] To the extent that the lines of credit were used to repay the loans from family and friends and given my finding with respect to the business purpose of those loans, subsection 20(3) applies to deem the lines of credit (i.e. borrowed money) to have been used for the same purpose as the original loans (i.e. the previously borrowed money).
+The interest from -012 is not deductible for 2013
+[23] With respect to the $673 of interest from -012 claimed for the 2013 taxation year, most of the transactions on that account seem to be personal in nature. Since $672.17 was the total amount of interest paid on that line of credit in 2013, there was no separation of business expenditures from personal ones. Therefore, this interest amount does not qualify for the deduction.
+Conclusion
+[24] The appeal is allowed, without costs, on the basis that:
+a) the Appellant is entitled to interest expense deductions in the amounts of $17,715, $18,416, and $17,192 for the 2013, 2014, and 2015 taxation years, respectively [14] ; and
+b) the appeal of the 2016 taxation year is quashed.
+Signed at Ottawa, Canada, this 12th day of August 2020.
+“Susan Wong”
+Wong J.
+CITATION:
+2020 TCC 84
+COURT FILE NO.:
+2018-4004(IT)I
+STYLE OF CAUSE:
+WESLEY BROWN and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+November 5, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+August 12, 2020
+APPEARANCES:
+Agent for the Appellant:
+Lisa Rumsey
+Counsel for the Respondent:
+Adam Pasichnyk
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622, 1999 CanLII 647 at paragraph 28.
+[2] Shell Canada Ltd. at paragraph 31.
+[3] Exhibit A-1, Tab marked “April”.
+[4] Exhibit A-1, Tab marked “April”.
+[5] Exhibit A-1, Tab marked “March”.
+[6] Exhibit A-1, Tab marked “April”.
+[7] Exhibit A-1, Tab marked “March”.
+[8] Reply to the Notice of Appeal, paragraphs 9(e) and (h); Exhibit R-5, second page.
+[9] Exhibit A-1, Tab marked “March”.
+[10] Exhibit A-1, Tab marked “March”.
+[11] Exhibit A-1, Tabs marked “March” and “April”.
+[12] Exhibit A-1, Tab marked “March”.
+[13] Alberta Business Corporations Act, R.S.A. 2000, c. B-9, s. 43.
+[14] Amounts based on Reply to the Notice of Appeal, paragraph 9(h).

@@ -1,0 +1,257 @@
+---
+title: "Sugnanam v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30758/index.do"
+last_modified: "2012-03-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 100"
+citation2: ""
+neutral_citation: "2012 TCC 100"
+decision_date: "2012-03-29"
+language: "en"
+item_id: "30758"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7496
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:30:32.745000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5a658f09c83352555b64c8e21f7cd62422170dc430b435c0d80ded41fd6fdd9c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sugnanam v. The Queen
+
+- Citation: 2012 TCC 100
+- Decision date: 2012-03-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7496, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sugnanam v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-03-29
+Neutral citation
+2012 TCC 100
+File numbers
+2008-3858(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3858(IT)G
+BETWEEN:
+NIRMALA NAIDU SUGNANAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2008-3815(IT)I
+AND BETWEEN:
+ESESSON CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion dealt with by written submissions
+By: The Honourable Justice J.M. Woods
+Participants:
+For the Appellants:
+Nirmala Naidu Sugnanam
+Sobhanadri Naidu Sugnanam
+Counsel for the Respondent:
+Cynthia Isenor
+____________________________________________________________________
+ORDER
+The motion by the appellants for an order compelling answers to undertakings is dismissed. The respondent is directed to provide to the appellants the information set out in the attached reasons no later than May 14, 2012.
+Each party shall bear their own costs in respect of the motion.
+Signed at Ottawa, Ontario this 29th day of March 2012.
+“J. M. Woods”
+Woods J.
+Citation: 2012 TCC 100
+Date: 20120329
+Docket: 2008-3858(IT)G
+BETWEEN:
+NIRMALA NAIDU SUGNANAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2008-3815(IT)I
+AND BETWEEN:
+ESESSON CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Woods J.
+[1] The appellants, Dr. Nirmala Naidu Sugnanam and Esesson Canada Inc., bring the following motion:
+Ordering the Canada Revenue Agency (CRA) to provide us a written Undertakings as requested for during the examination of discovery held on 21/22 March 2011.
+[2] The motion relates to appeals under the Income Tax Act. These appeals, along with an appeal by Sobhanadri Naidu Sugnanam, will be heard together beginning June 25, 2012.
+[3] The motion will be dealt with on the basis of written submissions. The appellants filed a notice of motion dated December 3, 2011 (filed January 11, 2012) and further submissions were made by letters dated February 24 and 26 and March 1, 2012. The respondent filed reply submissions by letters dated January 18 and February 28, 2012.
+[4] The respondent objects to the motion on two main grounds. With respect to Esesson Canada Inc., the respondent submits that no undertakings were given because the corporation was not part of the discovery process since its appeal is governed by the Court’s Informal Procedure. With respect to Dr. Sugnanam, the respondent submits that it has satisfied all undertakings given at the examination for discovery, and that the information requested in the motion was not the subject of undertakings which it agreed to provide during the examination.
+[5] As far as I can determine, the respondent is correct on both counts. Esesson Canada Inc. was not part of the discovery process. Further, the respondent provided a transcript of excerpts from the examination which suggests that the respondent did not provide any undertakings with respect to the information requested in this motion.
+[6] The appellants submit that the respondent did in fact undertake to provide this information. It is not possible to verify this statement without supporting evidence which was not provided. The submission is not accepted.
+[7] Notwithstanding that the respondent raised valid technical grounds to dismiss the motion, this is not a satisfactory resolution in respect of the issues raised by the appellants.
+[8] In large part, the information sought by the appellants is an attempt to better understand the position of the respondent. This has already been provided by the respondent in the Replies. The Replies appear to be well drafted and conform to the applicable Rules of this Court.
+[9] If the appellants were represented by counsel, there likely would be no difficulty in understanding the respondent’s position. However, the appellants are not represented by counsel and it appears that they are not able to fully understand the Replies. This would hardly be surprising given the complexity of the Income Tax Act. I suspect that many taxpayers who represent themselves in this Court are not able to fully understand the replies filed by the Crown.
+[10] If in this motion the appellants had specifically sought clarification of parts of the Replies instead of seeking answers to Undertakings, I would have granted it. In the circumstances, it would not be in the best interests of justice to deny all relief to the appellants simply because of how the motion was framed.
+[11] The general question that is raised by this motion is how much assistance should the respondent be expected to provide self-represented litigants in understanding the case that they have to meet. In answering the question in a particular case, the interests of both parties should be taken into account and a balance should be struck.
+[12] In general, taxpayers who choose to represent themselves in appeals in this Court should take positive action to try to understand the case that they have to meet. They should not be able to sit back and require the respondent to do all the work. At the same time, the respondent should also be expected to provide some assistance.
+[13] In this particular case, I am not satisfied that either party has done enough. For example, the appellants seek a copy of the income tax provisions that the respondent relies on. Such provisions are generally available through the internet and the Replies provide the necessary section references. The appellants should have been able to access this material, even though they are not currently in Canada.
+[14] The respondent, on the other hand, chose to object to the motion on formal grounds rather than providing some assistance to the appellants. Some assistance is warranted, in my view.
+[15] In the interests of moving this matter along, I will endeavour to provide some information in these reasons. The respondent will be directed to supplement this prior to the trial.
+[16] I would first make a general comment about the Replies for the benefit of the appellants. The Replies are important documents which are designed to inform taxpayers of the case that they have to meet. As prescribed by the Rules, the Replies set out the following:
+(a) the facts that are admitted,
+(b) the facts that are denied,
+(c) the facts of which the respondent has no knowledge and puts in issue,
+(d) the findings or assumptions of fact made by the Minister when making the assessment,
+(e) any other material fact,
+(f) the issues to be decided,
+(g) the statutory provisions relied on,
+(h) the reasons the respondent intends to rely on, and
+(i) the relief sought.
+[17] In order to understand the position of the respondent, it is particularly important to have regard to two of the above sections, the assumptions of fact made by the Minister, (d), and the reasons or grounds that are relied on, (h).
+[18] The assumptions of fact made by the Minister are important because, to the extent that a taxpayer disagrees with a fact assumed, the taxpayer generally has the burden to establish what the correct fact is, based on evidence properly presented in Court.
+[19] It is usually not relevant whether the Minister conducted the audit in a proper manner. Even if the Minister acted in an arbitrary manner during the audit, the facts assumed are generally considered to be true unless the taxpayer provides satisfactory evidence to the contrary in Court.
+[20] Replies also set out a list of statutory provisions that the Crown intends to rely upon. The Replies in this case do give a list of statutory provisions, but it appears that the appellants do not have a copy of them. The provisions have been reproduced in the appendix.
+[21] I now turn to the specific information that the appellants seek. There are seven requests, which the appellants have referred to as “Undertakings.” Each request is discussed below under the headings used by the appellants.
+[22] Undertaking No. 1
+Tax office has transferred Esesson Canada Inc income for the years 2002 & 2003 to Dr. Nirmala Naidu Sugnanam’s personal income:
+Undertaking is needed: Under what CRA’s income tax act, clause or sub clause this book transfer has been done CRA? Please provide a “copy” of related sub clause from CRA’s rules.
+[23] By way of background, the appeals relate to income from Dr. Sugnanam’s medical practice. The appellants submit that the income was earned by Esesson Canada Inc. The Minister had removed it from the income of Esesson Canada Inc. and included the medical income in Dr. Sugnanam’s income.
+[24] According to the assumptions of fact made by the Minister and as set out in the Replies, the medical income was earned by Dr. Sugnanam and did not relate to a business carried on by Esesson Canada Inc. At trial, the appellants will have the burden to disprove these factual assumptions.
+[25] If the Replies to do not fully set out the grounds that the respondent intends to rely on, the additional grounds should be communicated to the appellants prior to the trial. In addition, the judicial authorities that the respondent intends to rely on should also be provided to the appellants in advance of the trial. This applies not only to this request but to all issues.
+[26] Undertaking No. 2
+CRA has submitted TWO copies of unsigned Minutes of meeting were attached as part of documentation to the honourable court.
+We have challenged the authenticity of these minutes vide our letter dated [sic] to CRA. CRA representative confirmed that they are “personal notes of the auditor”
+Undertaking is needed: The name “Minutes of Meeting” is a misleading and we feel they are intended to send wrong messages to all who reads it. Please confirm these so called “Minutes” are in deed personal notes of the auditor and amend the document submitted to the court accordingly.
+[27] With respect to confirming the personal notes, it appears from the request that this has already been done. With respect to amending a document, the appellant is not entitled to this type of relief. These requests are denied.
+[28] Undertaking No. 3
+CRA assumed that Dr. Sugnanam’s son stayed at 64 Chatam drive, Calgary during 2002 & 2003, which is a rental property of Dr. Sugnanam. We have filed a proof of company registration and associated documentation to CRA as well as to the honourable court confirming that Esesson Canada Inc. has indeed occupied that property during that period 2002-2003 and operated their business. The pass port copy of Dr. Sugnanam’s son show’s he is out of the country in the latter part of 2003. Even then Dr. Sugnanam’s rental property’s expenses for year 2003 were not considered.
+Undertaking is needed: CRA will only consider their speculation/assumption and will not consider the proof submitted by the tax payer. On either case the reason for such denial.
+[29] The factual foundation for the Minister’s position is set out in the assumptions stated in paragraphs 32(h) to (t) of the Reply. At trial, the burden will be on Dr. Sugnanam to disprove these assumptions of fact on the basis of properly introduced evidence.
+[30] With respect to the grounds relied on by the respondent, the Reply sets out four separate grounds: no source of income, paragraph 18(1)(a) of the Income Tax Act, paragraph 18(1)(h) of the Income Tax Act, and expenses were not incurred.
+[31] Three of the four grounds are clear once the statutory provisions are referred to. The first ground, no source of income, requires some clarification.
+[32] In general, a deduction for an expense is allowed only if the expense is associated with a source of income. The meaning of “source of income” was discussed in the leading case of Stewart v The Queen, 2002 SCC 46, 2002 DTC 6969. A brief passage from that decision is reproduced below.
+[60] In summary, the issue of whether or not a taxpayer has a source of income is to be determined by looking at the commerciality of the activity in question. Where the activity contains no personal element and is clearly commercial, no further inquiry is necessary. Where the activity could be classified as a personal pursuit, then it must be determined whether or not the activity is being carried on in a sufficiently commercial manner to constitute a source of income. […]
+[33] Undertaking No. 4
+CRA during the examination of discovery confirmed that it is a common practice for CRA to depute their representative to obtain clarifications before finalising audit especially when the tax payer is not in a position to move due to health reasons. In spite of written request and medical documentation provided to CRA about the health condition of Mr. Sobhanadri Naidu Sugnanam such facility was not provided to one of the Canadian citizen.
+Undertaking is required: CRA to specify the reason for such discrimination by not deputing their representative and their intention to finalise the audit unilaterally?
+[34] The only issue properly before the Court is whether the tax has been correctly determined in accordance with the relevant legislative provisions. As mentioned earlier, the conduct of the CRA is generally not relevant to this inquiry. This request for information is denied.
+[35] Undertaking No. 5
+Though the copies of documentation was submitted to CRA/honourable court, the Transport/Vehicle log in original was asked to bring along with when Dr. Sugnanam was coming to Calgary for examination of Discovery. The original log was presented during the examination of discovery. The same was verified/witnessed again by CRA representative with no comments.
+Undertaking is required: CRA to specify the reason for such discrimination for not considering vehicle log, and vehicle maintenance expenses as zero and concluded the audit? Under what income tax act, clause or sub clause this rejection was done?
+Does CRA assumes that a Gynaecologist/Obstritian attend emergency calls by walking by foot in Newfoundland weather? between Hospital and home with out a car? Does all doctors in Canada were treated in the same way by CRA? If not can CRA specify the reason by means of this undertaking?
+[36] With respect to allegations as to CRA’s conduct, the request is denied for the reasons above.
+[37] The factual assumptions which the Minister has relied on are set out in paragraphs 32(u) to (aa) of the Reply. These paragraphs do not require elaboration.
+[38] The grounds relied on by the respondent are set out in paragraph 35(d) of the Reply. As these grounds are similar to the grounds relating to Undertaking No. 3, no further clarification is required.
+[39] Undertaking No. 6
+After three years of deliberations CRA now acknowledges Dr. Sugnanam worked as fee for service and also acknowledges MCP billing procedure and work involved to be performed by supporting staff, but rejected the expenses incurred for office modifications, office space, heating, lighting, communication, office stationary and equipment.
+Undertaking is required: CRA to specify the reason for such discrimination for not considering the office facilities. Under what income tax act, clause or sub clause this rejection was made?
+[40] The respondent’s position is the same as for Undertaking No. 5. Consequently, no further clarification is required.
+[41] Undertaking No. 7
+During audit CRA has rejected some of the travel expenditures, though we have provided required information in the CRA format ie, date of travel, travel ticket, purpose of journey, people contacted, place of visit; etc.
+Undertaking is required to write what is the criteria for rejection.
+[42] According to the Reply to the Notice of Appeal of Esesson Canada Inc., the Minister assumed that travel expenses in the amount of $30,315.03 were personal or living expenses of Mr. and Dr. Sugnanam.
+[43] The appellants bear the burden to establish that this factual assumption is not correct. No clarification is required.
+Disposition
+[44] The motion for an order compelling answers to undertakings is dismissed, but the respondent is directed to provide the information set out in these reasons. The information shall be provided to the appellants no later than May 14, 2012.
+[45] Each party shall bear their own costs in respect of the motion.
+Signed at Ottawa, Ontario this 29th day of March 2012.
+“J. M. Woods”
+Woods J.
+APPENDIX – LEGISLATIVE PROVISIONS
+Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as of 2012
+SECTION 9(1) Income
+(1) Subject to this Part, a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that business or property for the year.
+SECTION 15(1) Benefit conferred on shareholder
+(1) Where at any time in a taxation year a benefit is conferred on a shareholder, or on a person in contemplation of the person becoming a shareholder, by a corporation otherwise than by
+(a) the reduction of the paid-up capital, the redemption, cancellation or acquisition by the corporation of shares of its capital stock or on the winding-up, discontinuance or reorganization of its business, or otherwise by way of a transaction to which section 88 applies,
+(b) the payment of a dividend or a stock dividend,
+(c) conferring, on all owners of common shares of the capital stock of the corporation at that time, a right in respect of each common share, that is identical to every other right conferred at that time in respect of each other such share, to acquire additional shares of the capital stock of the corporation, and, for the purpose of this paragraph,
+(i) where
+(A) the voting rights attached to a particular class of common shares of the capital stock of a corporation differ from the voting rights attached to another class of common shares of the capital stock of the corporation, and
+(B) there are no other differences between the terms and conditions of the classes of shares that could cause the fair market value of a share of the particular class to differ materially from the fair market value of a share of the other class,
+the shares of the particular class shall be deemed to be property that is identical to the shares of the other class, and
+(ii) rights are not considered identical if the cost of acquiring the rights differs, or
+(d) an action described in paragraph 84(1)(c.1), 84(1)(c.2) or 84(1) (c. 3),
+the amount or value thereof shall, except to the extent that it is deemed by section 84 to be a dividend, be included in computing the income of the shareholder for the year.
+SECTION 18(1) General limitations
+(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) General limitation - an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+(h) Personal and living expenses - personal or living expenses of the taxpayer, other than travel expenses incurred by the taxpayer while away from home in the course of carrying on the taxpayer’s business;
+SECTION 56(2) Indirect payments
+(2) A payment or transfer of property made pursuant to the direction of, or with the concurrence of, a taxpayer to some other person for the benefit of the taxpayer or as a benefit that the taxpayer desired to have conferred on the other person (other than by an assignment of any portion of a retirement pension pursuant to section 65.1 of the Canada Pension Plan or a comparable provision of a provincial pension plan as defined in section 3 of that Act or of a prescribed provincial pension plan) shall be included in computing the taxpayer’s income to the extent that it would be if the payment or transfer had been made to the taxpayer.
+SECTOIN 56(4) Transfer of rights to income
+(4) Where a taxpayer has, at any time before the end of a taxation year, transferred or assigned to a person with whom the taxpayer was not dealing at arm’s length the right to an amount (other than any portion of a retirement pension assigned by the taxpayer under section 65.1 of the Canada Pension Plan or a comparable provision of a provincial pension plan as defined in section 3 of that Act) that would, if the right had not been so transferred or assigned, be included in computing the taxpayer’s income for the taxation year, the part of the amount that relates to the period in the year throughout which the taxpayer is resident in Canada shall be included in computing the taxpayer’s income for the year unless the income is from property and the taxpayer has also transferred or assigned the property.
+SECTION 67 General limitation re expenses
+67. In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+SECTION 171(1) Disposal of appeal
+(1) The Tax Court of Canada may dispose of an appeal by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+SECTION 248
+This provision contains definitions for the Act as a whole. It is not reproduced.
+Medical Act, R.S.N. 1990, c.M-4
+SECTION 30(1)
+30. (1) A person, other than a person who is licensed under the Act, shall not
+(a) engage in the practice of medicine;
+(b) hold himself or herself out or allege by advertisement, sign or statement of any kind to be entitled to engage in the practice of medicine; or
+(c) take or use a name, title or description implying or calculated to lead the public to believe that he or she is licensed under this Act.
+Medical Care Insurance Act, 1999, S.N.L. 1999, c. M‑5.1
+SECTION 1
+1. This Act may be cited as the Medical Care Insurance Act, 1999.
+SECTION 10 Payment for services
+10.(1) The minister shall, under this Act and the regulations, make payment for the providing of insured services to beneficiaries.
+(2) Where a participating physician as an individual or through a professional medical corporation provides insured services to a beneficiary, the minister shall make payment to the physician or professional medical corporation for the services, but where a participating physician performs professional services for a public authority or body that has received the prior approval of the minister, in addition to the provision of insured services to beneficiaries, the minister may, upon being satisfied that the participating physician is receiving remuneration for the provision by him or her of those professional services, enter into an arrangement with the public authority or body providing for the payment to it for the insured services so provided to beneficiaries, and the minister shall make the payment in accordance with the arrangements made.
+(3) Where an insured service is provided in the province to a beneficiary by other than a participating physician as an individual or through a professional medical corporation, the minister shall make payment to the beneficiary in respect of that insured service.
+(4) Where an insured service is provided in the province to a person who is an insured resident of another jurisdiction in Canada by other than a participating physician as an individual or through a professional medical corporation, the responsibility for payment will not rest with the medical care plan of this province.
+(5) The right of the beneficiary to receive payment from the minister in respect of insured services provided in the province by other than a participating physician, as an individual or through a professional medical corporation, is a contractual right and the beneficiary is entitled to receive payment from the minister in respect of those services in an amount equal to the amount payable, for similar services, to a participating physician by the minister under the regulations.
+CITATION: 2012 TCC 100
+COURT FILE NOS.: 2008-3858(IT)G and
+2008-3815(IT)I
+STYLE OF CAUSE: NIRMALA NAIDU SUGNANAM v.
+HER MAJESTY THE QUEEN and
+ESESSON CANADA INC. v.
+HER MAJESTY THE QUEEN
+REASONS FOR ORDER BY: The Honourable Justice J.M. Woods
+DATE OF ORDER: March 29, 2012
+PARTICIPANTS:
+For the Appellants:
+Nirmala Naidu Sugnanam
+Sobhanadri Naidu Sugnanam
+Counsel for the Respondent:
+Cynthia Isenor
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

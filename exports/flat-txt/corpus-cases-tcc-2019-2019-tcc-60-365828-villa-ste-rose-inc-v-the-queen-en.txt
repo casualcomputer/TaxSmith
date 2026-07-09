@@ -1,0 +1,264 @@
+Title: Villa Ste-Rose Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/365828/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-60-365828-villa-ste-rose-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-03-15
+
+# Villa Ste-Rose Inc. v. The Queen
+
+- Citation: 2019 TCC 60
+- Decision date: 2019-03-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4313, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Villa Ste-Rose Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-03-15
+Neutral citation
+2019 TCC 60
+File numbers
+2016-5445(GST)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-5445(GST)G
+BETWEEN:
+VILLA STE-ROSE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on October 18 and 19, 2018, at Montréal, Quebec and on December 3, 2018, by teleconference, at Ottawa, Ontario.
+Written representations submitted by the Appellant on January 18, 2019, and by the Respondent on February 7, 2019.
+Before: The Honourable Justice Johanne D'Auray
+Appearances:
+Counsel for the Appellant:
+Ms. Camille Janvier-Langis
+Ms. Ariane Hunter-Meunier
+Counsel for the Respondent:
+Mr. Christian Lemay
+Mr. Gabriel Déry
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, the notice of which is dated October 30, 2015, for the period of November 1, 2014 to November 30, 2014, is allowed with costs against the Respondent.
+Signed at Montréal, Quebec, this 15th day of March 2019.
+“Johanne D’Auray”
+D'Auray J.
+Translation certified true
+on this 7th day of February 2020.
+François Brunet, Revisor
+Citation: 2019 TCC 60
+Date: 20190315
+Docket: 2016-5445(GST)G
+BETWEEN:
+VILLA STE-ROSE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+D’Auray J.
+I. Overview
+[1] The Appellant is not registered for GST purposes (“non-registrant”). It operates a residence for semi-independent seniors and those losing their independence. Its supplies are exempt. A fire destroyed the residence. The Appellant had to have a new building constructed in order to continue operating.
+[2] When a building is constructed by a non-registrant, the Excise Tax Act, Part IX-GST (the “Act”), deems a taxable supply to the builder, in this case the Appellant. In other words, the Appellant had to self-assess and pay GST on the fair market value of the building it had built.
+[3] The construction of the new building was completed on November 1, 2014. Throughout the construction of the building, the Appellant paid the GST to its suppliers. As a non-registrant, the Appellant could not claim input tax credits (“ITC”). In order to remedy that situation, Parliament set up a rebate mechanism ensuring that the tax burden of a non-registrant is no greater than that of a registrant, with the latter being able to claim ITCs in the course of its commercial activities.
+[4] The Appellant filed its GST return late with respect to the GST amount payable on the building. To that return, the Appellant had also attached its rebate claims.
+[5] The Minister of National Revenue (the “Minister”) issued an assessment charging interest and imposing a late-filing penalty on the entire GST amount payable on the building by the Appellant without factoring in the amounts of the rebates claimed by the Appellant.
+[6] At the hearing, the Respondent pointed out that, as soon as a person files a late GST return, it must pay interest and a late-filing penalty on the amount of tax payable on the building, regardless of the rebates. According to the Respondent, when a GST return is filed late, the Minister does not have to effect a set-off between the GST amount payable and the rebate amounts claimed by the Appellant for the purpose of calculating the interest under subsection 280(1) and the penalty under section 280.1 of the Act. According to the Respondent, the set-off in subsection 228(6) applies only in situations where the person files their GST return on time.
+[7] However, in its written representations submitted after the hearing, the Respondent pointed out that, according to subsection 228(6) of the Act, the Minister had to effect a set-off on September 28, 2015, between the GST amount payable and the rebates. That being said, the Respondent maintains its position that the Appellant must pay the interest and penalty on the GST amount payable regardless of the rebates claimed.
+[8] The Appellant, however, contends that the interest and penalty can apply only on the difference between the GST amount payable on the building and the rebate amounts to which the Appellant is entitled. The Appellant bases its argument on Humber College [1] ; in that case, Justice Miller of this Court allowed the appeal in an almost identical case.
+II. Facts
+[9] At the hearing, the parties filed a partial agreement on the facts:
+THE PARTIES AGREE AS FOLLOWS:
+1. The Preamble is an integral part of this partially agreed statement of facts by the parties;
+Background
+2. The Appellant is Villa Ste-Rose Inc.;
+3. The Appellant was incorporated on December 6, 2007, under Part 1A of the Companies Act and is currently governed by the Business Corporations Act;
+4. The Appellant operates a residence for semi-independent seniors and those losing their independence in a building located at 319 Marc-Aurèle Fortin Boulevard in Laval (hereinafter the “Building”);
+5. The supplies rendered by the Appellant are GST exempt;
+6. Thus, throughout the period in question and currently, the Appellant was not a GST registrant;
+Rebuilding and the GST return
+7. On February 1, 2013, a fire destroyed the Appellant’s Building, and the Appellant hired a contractor to rebuild it;
+8. In the context of the Building being rebuilt, the Appellant paid GST to the contractor through invoices issued by the latter;
+9. The rebuilding was completely, or substantially, finished on November 1, 2014;
+10. The first rental is dated November 1, 2014;
+11. Under subsection 191(3) of the ETA, the Appellant is deemed to have made and received, by sale, the taxable supply of its rental property on November 1, 2014, the date on which the work was substantially completed and the first rental took place;
+12. By reason of subsection 238(2) of the ETA, as a non-registrant, the Appellant’s time limit for filing the return and paying the tax ended in the month following the period of November 1, 2014 to November 30, 2014, namely no later than December 31, 2014;
+13. The GST amount owing was $736,864.18;
+14. The Appellant did not file a GST return by December 31, 2014;
+15. On November 30, 2014, the Appellant was eligible to claim rebates for the following amounts:
+i. An amount of $265,271.10 as a GST rebate for funds and buildings leased for residential purposes, all by reason of subsection 256.2(3) of the ETA;
+ii. An amount of $595,376.20 as a GST rebate, all by reason of subsection 257(1) of the ETA;
+16. On September 28, 2015, the Minister received:
+i. A net tax return of $736,864.18 based on a fair market value of the work of $14,737,283.60;
+ii. A new residential rental property GST rebate claim (FP-524) for the amount of $265,271.10 (further to a correction made on October 13, 2015);
+iii. A general GST rebate claim (FP-189) for the amount of $595,376.20;
+Assessments and objection
+17. On October 30, 2015, the Minister issued a notice of assessment for the GST owing on the supply of $736,864.18 and assessed:
+i. A penalty of $22,105.92 for failing to file under section 280.1 of the ETA;
+ii. Interest expenses of $27,984.09 under subsection 280(1) of the ETA;
+18. In the same notice of assessment, the Minister granted the Appellant a credit in the amount of $860,665.48;
+19. The Minister calculated the interest on the $736,864.18 amount owing in GST, for the period of January 1, 2015 to October 26, 2015, and he authorized a credit for the FP-189 and FP-524 rebates as of the confirmation date of the rebate claims, namely October 26, 2015;
+20. The Appellant filed a notice of objection with the Respondent on or about January 28, 2016, against the assessment issued on October 30, 2015;
+21. On or about October 3, 2016, the Respondent informed the Appellant of its decision to maintain the entire assessment issued against the Appellant; hence the current appeal;
+III. Issues
+[10] Do the interest under subsection 280(1) and late-filing penalty under section 280.1 of the Act apply to the entire GST amount owing on the Building, namely an amount of $736,864.18, without that amount being off-set by the rebate amounts, namely an amount of $860,665.48?
+[11] Or, do the interest and late-filing penalty apply to the difference between the GST amount payable of $736,864.18 and the rebates to which the Appellant is entitled in the amount of $860,665.48?
+[12] Does the due diligence defence apply to the penalty imposed by the Minister under section 280.1 of the Act?
+IV. Analysis
+[13] The mechanism from the relevant provisions of the Act must be explained in this case.
+[14] According to the definition of “builder” in section 123 of the Act, the Appellant is a builder.
+[15] As a builder, the Appellant was required to self-assess on November 1, 2014, under subsection 191(3) of the Act. According to that provision, the Appellant is deemed to have made a sale of a taxable supply of the building to itself on the day when the work was substantially completed or, if it is after, on the day when ownership or use of the residential unit is transferred to the person where the residential unit is occupied by that person. In this case, on November 1, 2014.
+[16] Under that same provision, the builder is deemed to have made the sale and received the taxable supply in respect of the building and to have paid as a purchaser and received as a supplier, the tax on the supply, calculated on the fair market value of the building. Subsection 191(3) of the Act provided as follows:
+191(3) For the purposes of this Part, where
+(a) the construction or substantial renovation of a multiple unit residential complex is substantially completed,
+(b) the builder of the complex
+(i) gives, to a particular person who is not a purchaser under an agreement of purchase and sale of the complex, possession or use of any residential unit in the complex under a lease, licence or similar arrangement entered into for the purpose of the occupancy of the unit by an individual as a place of residence,
+(i.1) gives possession or use of any residential unit in the complex to a particular person under an agreement for
+(A) the supply by way of sale of the building or part thereof forming part of the complex, and
+(B) the supply by way of lease of the land forming part of the complex or the supply of such a lease by way of assignment, or
+(ii) where the builder is an individual, occupies any residential unit in the complex as a place of residence, and
+(c) the builder, the particular person, or an individual who has entered into a lease, licence or similar arrangement in respect of a residential unit in the complex with the particular person, is the first individual to occupy a residential unit in the complex as a place of residence after substantial completion of the construction or renovation,
+the builder shall be deemed:
+(d) to have made and received, at the later of the time the construction or substantial renovation is substantially completed and the time possession or use of the unit is so given to the particular person or the unit is so occupied by the builder, a taxable supply by way of sale of the complex, and
+(e) to have paid as a recipient and to have collected as a supplier, at the later of those times, tax in respect of the supply calculated on the fair market value of the complex at the later of those times.
+[Emphasis added.]
+[17] However, because the Appellant is not a registrant and its activities are exempt, the Appellant is unable to claim ITCs. Thus, if the Act provided no rebate mechanism, the Appellant would be at a tax disadvantage compared to other registered builders that, in the course of their commercial activities, are entitled to claim ITCs, namely the GST that they paid to their suppliers during the construction of a building.
+[18] In order to remedy this situation for a non-registrant builder, Parliament created a rebate mechanism. In this case, the Appellant is entitled to two rebates. The rebate referred to in subsection 257(1) of the Act enables the Appellant to claim a substantial amount of the GST that it paid to suppliers during construction of the building. The second rebate under subsection 256.2(3) is for land and buildings leased for residential purposes.
+Non-registrant sale of real property
+257 (1) If a person who is not a registrant makes a particular taxable supply of real property by way of sale, the Minister shall, subject to subsections (1.1) and (2), pay a rebate to the person equal to the lesser of
+(a) the basic tax content of the property at the particular time, and
+(b) the tax that is or would, in the absence of section 167 or 167.11, be payable in respect of the particular supply.
+257 (2) A rebate shall not be paid under subsection (1) to a person in respect of the supply by way of sale of real property by the person unless the person files an application for the rebate within two years after the day the consideration for the supply became due or was paid without having become due.
+Rebate in respect of land and building for residential rental accommodation
+256.2 (3) If
+(a) a particular person, other than a cooperative housing corporation,
+(i) […]
+(ii) is a builder of a residential complex, or of an addition to a multiple unit residential complex, that gives possession or use of a residential unit in the complex or addition to another person under a lease entered into for the purpose of its occupancy by an individual as a place of residence that results in the particular person being deemed under section 191 to have made and received a taxable supply by way of sale (in this subsection referred to as the “deemed purchase”) of the complex or addition,
+(b) at a particular time, tax first becomes payable in respect of the purchase from the supplier or tax in respect of the deemed purchase is deemed to have been paid by the person,
+(c) at the particular time, the complex or addition, as the case may be, is a qualifying residential unit of the person or includes one or more qualifying residential units of the person, and
+(d) the person is not entitled to include the tax in respect of the purchase from the supplier, or the tax in respect of the deemed purchase, in determining an input tax credit of the person [...]
+256.2 (7) A rebate shall not be paid to a person under this section unless
+(a) the person files an application for the rebate within two years after
+(i) in the case of a rebate under subsection (5), the end of the month in which the person makes the exempt supply referred to in subparagraph (5)(a)(ii),
+(ii) in the case of a rebate under subsection (6), the end of the month in which the tax referred to in that subsection is deemed to have been paid by the person, and
+(iii) in any other case of a rebate in respect of a residential unit, the end of the month in which tax first becomes payable by the person, or is deemed to have been paid by the person, in respect of the unit or interest in the unit or in respect of the residential complex or addition, or interest therein, in which the unit is situated;
+(b) if the rebate is in respect of a taxable supply received by the person from another person, the person has paid all of the tax payable in respect of that supply; and
+(c) if the rebate is in respect of a taxable supply in respect of which the person is deemed to have collected tax in a reporting period of the person, the person has reported the tax in the person’s return under Division V for the reporting period and has remitted all net tax remittable, if any, as reported in that return.
+[Emphasis added.]
+[19] As for subsections 238(2), 228(1), 228(4) and paragraph 228(2)(b) of the Act, they set out a non-registrant’s obligations regarding the filing of the return and the making the GST payments to the Receiver General.
+Filing required
+238(2) Every person who is not a registrant shall file a return with the Minister for each reporting period of the person for which net tax is remittable by the person within one month after the end of the reporting period.
+Calculation of net tax
+228 (1) Every person who is required to file a return under this Division shall, in the return, calculate the net tax of the person for the reporting period for which the return is required to be filed, except where subsection (2.1) or (2.3) applies in respect of the reporting period.
+Remittance
+(2) Where the net tax for a reporting period of a person is a positive amount, the person shall, except where subsection (2.1) or (2.3) applies in respect of the reporting period, remit that amount to the Receiver General,
+(a) [. . .]
+(b) in any other case, on or before the day on or before which the return for that period is required to be filed.
+Self-assessment when acquiring a property
+(4) If tax under Division II is payable by a person in respect of a supply of property that is real property or an emission allowance and the supplier is not required to collect the tax and is not deemed to have collected the tax,
+(a) where the person is a registrant and acquired the property for use or supply primarily in the course of commercial activities of the person, the person shall, on or before the day on or before which the person’s return for the reporting period in which the tax became payable is required to be filed, pay the tax to the Receiver General and report the tax in that return; and
+(b) in any other case, the person shall, on or before the last day of the month following the calendar month in which the tax became payable, pay the tax to the Receiver General and file with the Minister in prescribed manner a return in respect of the tax in prescribed form containing prescribed information.
+[Emphasis added.]
+[20] Section 228(4) required the Appellant to file and pay GST in the amount of $736,864.18 on December 31, 2014. The Appellant filed its GST return on September 28, 2015; it was therefore late in doing so. In its GST return, the Appellant had also included its rebate claims, which were filed within the time frames provided for in the Act.
+[21] However, subsection 228(6) of the Act allows the Minister to effect a set-off between the GST payable and the rebates. Thus, according to that provision, the Minister must set off the GST payable with the rebates as soon as the person files a GST return with an attached rebate claim.
+Set-off of refunds or rebates
+(6) Where at any time a person files a particular return under this Part in which the person reports an amount (in this subsection referred to as the “remittance amount”) that is required to be remitted under subsection (2) or (2.3) or paid under subsection (2.1) or (4) or Division IV or IV.1 by the person and the person claims a refund or rebate payable to the person at that time under this Part (other than Division III) in the particular return or in another return, or in an application, filed under this Part with the particular return, the person is deemed to have remitted at that time on account of the person’s remittance amount, and the Minister is deemed to have paid at that time on account of the refund or rebate, an amount equal to the lesser of the remittance amount and the amount of the refund or rebate.
+[Emphasis added.]
+[22] Under subsection 228(6) of the Act, as soon as a person files a GST return “at any time”, the Minister must effect a set-off between the GST payable and the rebates. In this case, the Appellant filed its GST return and its rebate claims on September 28, 2015. On that date, the Minister was supposed to effect a set-off between the GST payable on the building and the rebates.
+[23] Subsection 296(2.1) of the Act also effects a set-off between the GST payable and the rebate amounts in certain cases. Subsection 296(2.1) requires the Minister to effect a set-off between the GST payable and the rebates if the Minister finds that the person is entitled to a rebate even if the person did not claim it. That subsection ensures that the Minister can effect a set-off, even if the deadline for claiming such a rebate has expired. The Minister can therefore act retroactively. Subsection 296(2.1) reads as follows:
+Allowance of unclaimed rebate
+296 (2.1) - Where, in assessing the net tax of a person for a reporting period of the person or an amount (in this subsection referred to as the “overdue amount”) that became payable by a person under this Part, the Minister determines that
+(a) an amount (in this subsection referred to as the “allowable rebate”) would have been payable to the person as a rebate if it had been claimed in an application under this Part filed on the particular day that is
+(i) if the assessment is in respect of net tax for the reporting period, the day on or before which the return under Division V for the period was required to be filed, or
+(ii) if the assessment is in respect of an overdue amount, the day on which the overdue amount became payable by the person, [...]
+(b) the allowable rebate was not claimed by the person in an application filed before the day notice of the assessment is sent to the person, and
+(c) the allowable rebate would be payable to the person if it were claimed in an application under this Part filed on the day notice of the assessment is sent to the person or would be disallowed if it were claimed in that application only because the period for claiming the allowable rebate expired before that day [...]
+[Emphasis added.]
+[24] The Respondent submits that paragraph 296(2.1)(b) of the Act does not apply in this case. I agree with the Respondent that paragraph 296(2.1)(b) does not apply in this dispute because the rebate claims were filed by the Appellant before the notice of assessment had been sent to it.
+[25] In Humber College, supra, the latter had to self-assess on its buildings and rely on rebates to recover part of the GST paid during construction of the buildings. Just like in the present case, Humber College had also filed its GST returns late. The Minister made an assessment under section 280 of the Act by calculating the interest on the full amount of GST owing without factoring in the rebates claimed by Humber College.
+[26] However, in Humber College, the GST payable was greater than the rebates. Humber College argued that the interest would apply only on the difference between the amount of GST payable and the rebate amounts.
+[27] Justice Miller, in Humber College, noted that in situations where a person is required to self-assess on a property under subsection 191(3) of the Act and is late in filing his/her GST return, there are three possibilities:
+- First, Humber College could have done nothing and waited for the Minister to notice that it had to self-assess and was entitled to claim rebates, in which case subsection 296(2.1) would apply and interest would have been charged only on the net amount of GST payable.
+- Second, Humber College could have filed a late GST return reporting building purchases, not claimed the rebate, and waited for the assessment. Again, subsection 296(2.1) of the Act would apply; the GST payable would be set off by the rebates, and interest would apply only on the net amount payable.
+- Third, Humber College could do what it did, namely file a GST return and claim the rebate, which resulted in the Minister charging interest on the entire GST.
+[28] Just like in Humber College, the Appellant opted for the third scenario. The Appellant did not know that it had to self-assess on the building and that it was entitled to rebates. It was only after meeting with a GST expert that it learned that the Act required it to self-assess. As such, the Appellant promptly filed a GST return along with its rebate claims. If the Appellant had chosen the second scenario of filing its GST return on September 28, 2015, waiting for the Minister’s assessment, and claiming rebates, subsection 296(2.1)(b) of the Act would apply. The Appellant would not have to pay any interest or penalty because, under this subsection, the Minister would have to effect a set-off between the GST payable and the rebates. The first scenario set out by Justice Miller yields the same result: where a person does nothing and waits for the Minister to notice that a person is entitled to a rebate, that person will not pay any interest or penalty on the full amount of the GST payable. That amount will be set off by the rebates under subsection 296(2.1). Therefore, a person who files a return and rebate claims, as soon as he/she realizes that the law requires it, ends up in a disadvantageous tax situation compared to a person who does nothing and waits for the Minister to notice that he/she is entitled to rebates.
+[29] At the hearing, the Respondent’s position was that subsection 228(6) of the Act does not apply when a person files his/her GST return late. Therefore, the Minister cannot effect a set-off. Thus, according to the interpretation defended by the Respondent, the GST payable and the rebates were to be analyzed separately. Since the Appellant had filed its GST return late, it was required to pay interest and a penalty on the GST payable without the Minister setting off the GST amount payable with the rebates. Therefore, at the hearing, the Respondent argued that the Appellant was required to pay interest for the period of January 1 to October 26, 2015 [2] and a penalty on the full amount of GST payable of $736,864.18, regardless of the $860,665.48 in rebate claims. The Respondent also argued that the Humber College case was heard under the informal procedure; therefore that decision has no precedential value. In addition, according to the Respondent, Justice Miller did not address subsection 228(6) of the Act in his reasons; therefore, I must not follow that case here.
+[30] At the hearing, the Appellant argued that I should adopt Justice Miller’s reasoning in Humber College. The Appellant also submitted that subsection 228(6) of the Act was not relevant to the controversy.
+[31] After the hearing, during a teleconference, I requested written submissions from the parties regarding the application of subsection 228(6) of the Act. I was of the opinion that this subsection effected a set-off and was therefore relevant to the issue.
+[32] In its written submissions, the Respondent changed its position. According to the Respondent, the Minister was required to effect a set-off under subsection 228(6) of the Act on September 28, 2015, the date when the Appellant filed its GST return and rebate claims. However, the Respondent argues that the Minister correctly charged the interest and imposed the penalty on the entire GST payable, without factoring in the rebates.
+[33] In its written submissions, the Appellant also changed its argument. It argues that, under subsection 228(6) of the Act, the Minister had to effect a set-off on September 28, 2015. That being said, the Appellant is relying on the interpretation given by Justice Miller in Humber College. In this regard, it argues that the word “amount” in subsection 280(1) (interest) and section 280.1 of the Act (late-filing penalty) refers to a net amount, in other words the difference between the GST payable and the rebates.
+[34] I am of the opinion that section 228 of the Act, specifically subsection 228(6), is determinative in this case. Without adopting the same reasoning as Justice Miller, some of his comments reinforce my conclusion with respect to these provisions.
+[35] Subsection 228(1) of the Act refers to the calculation of net tax. Subsection 228(2) provides that a person must pay to the Receiver General the positive amount of his/her net tax. Subsection 228(4) applies in the case of a self-assessment and provides that the person must pay the tax within a specific time period.
+[36] Subsection 228(6) of the Act applies to subsections 228(2) and 228(4). Subsection 228(6) effects a set-off between the tax payable and the rebates. When a person files a GST return “at any time” and includes a rebate claim with that return, the person is deemed “at that time” (in this case, September 28, 2015) to have made his/her remittance, and the Minister is deemed to have paid “at that time” (September 28, 2015) a rebate amount.
+[37] If subsection 228(6) applies to subsection 228(4), the tax payable under subsection 228(4) must be a net tax; otherwise, what would be the role of subsection 228(6) with respect to subsection 228(4)? These paragraphs must be read in view of the context of the section 228 provisions, all of which refer to net taxes.
+[38] Under subsection 228(6), the GST is deemed remitted by the person and the rebates are deemed paid by the Minister at that time, i.e. September 28, 2015. Therefore, the interest under subsection 280(1) and the penalty under section 280.1 are applicable on the next tax amount payable. In this case, since the rebates are greater than the GST payable, the Minister cannot charge interest and impose a penalty. It goes without saying that, in order for subsection 228(6) to apply, the rebate claim included with the GST return must be filed within the time period required by the Act. In this regard, subsection 228(6) sets out “a refund or rebate payable to the person at that time under this Part ”. In this case, the issue does not arise because the rebate claims were filed within the two-year time period of the taxable supply.
+[39] This interpretation is consistent with the objective of the Act and the purpose of the rebate provisions. For example:
+- As part of a self-assessment, a person who files his/her GST return on time and includes his/her rebate claim, subsection 228(6) of the Act effects a set-off. In such a case, the person will have no interest or penalty to pay.
+- If a person files his/her GST return late and includes a rebate claim with that return, subsection 228(6) of the Act effects a set-off. Since subsection 228(6) applies to the remittance of tax under subsection 228(4), a person who files his/her GST return late will have to pay interest under subsection 280(1) and a penalty for late filing under section 280.1 on the set-off amount, i.e. the difference between the GST amount payable minus the rebates.
+- In a case where, during an audit, the Minister notices that a person is entitled to a rebate, even if that person did not claim it, the Minister can grant the rebate and effect a set-off under subsection 296(2.1) of the Act, if that person has a GST amount payable.
+[40] This interpretation of the applicable provisions of the Act also ensures that a non-registered builder of a building is not disadvantaged compared to a builder who is registered for GST purposes. A registered builder that, in the course of its commercial activities, pays GST and claims ITCs. If that registrant filed a GST return late, the interest and penalty would apply only on the net amount payable, not the gross GST amount payable, because it is always the net amount that is taxed, i.e. the GST payable minus the ITCs. So it only makes sense that the same treatment applies to non-registrant builders.
+[41] In addition, as stated by Justice Miller in Humber College, the rebate pertains specifically to the claim period during which the right to a rebate arises. This is consistent with the idea that the tax and the rebate are inextricably related to a transaction. The rebate is not for a later claim period, only the previous one; it goes hand in hand with the taxation. The amount provided for in subsection 280(1) of the Act that the Appellant failed to pay and that is subject to interest can only be the net amount set off by the rebates because that is the actual debt that the person owes to the tax authorities. In my opinion, this interpretation makes complete sense in light of subsections 228(1), 228(2), 228(4) and 228(6), which refer to net tax and a set-off between the GST payable and the rebates.
+[42] In addition, the review of the wording of the provisions pertaining to the rebates claimed by the Appellant at subsections 256.2(3) and 257(1) of the Act also supports an interpretation that is consistent with the above-stated objectives regarding the relevant provisions. According to the wording of those provisions, as soon as a person makes a taxable supply further to a self-assessment of a property and claims a rebate, that person is entitled to receive a rebate.
+[43] If I were to accept the Respondent’s argument, the result would be absurd. As I state in paragraph 27 of these reasons, according to the first two scenarios, a person who does nothing or a person who simply files a return without including a rebate claim ends up in a better tax situation than a person who makes an error and does a self-assessment. In those situations, section 296.1 of the Act would apply, and the person would not have to pay interest and a penalty on the full GST amount. That would encourage people to ignore self-assessments. That is definitely not what Parliament intended.
+[44] In Rizzo & Rizzo Shoes Ltd (Re), Justice Iacobucci, in a unanimous Supreme Court of Canada case, sets out the interpretation to be followed when the interpretation defended by one party yields an absurd result:
+21. Although much has been written about the interpretation of legislation (see, e.g., Ruth Sullivan, Statutory Interpretation (1997); Ruth Sullivan, Driedger on the Construction of Statutes (3rd ed. 1994) (hereafter “Construction of Statutes”); Pierre André Côté, The Interpretation of Legislation in Canada (2nd ed. (1991)), Elmer Driedger in Construction of Statutes (2nd ed. 1983) best encapsulates the approach upon which I prefer to rely. He recognizes that statutory interpretation cannot be founded on the wording of the legislation alone. At p. 87 he states:
+Today there is only one principle or approach, namely, the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament.
+22. I also rely upon s. 10 of the Interpretation Act, R.S.O. 1980, c. 219, which provides that every Act “shall be deemed to be remedial” and directs that every Act shall “receive such fair, large and liberal construction and interpretation as will best ensure the attainment of the object of the Act according to its true intent, meaning and spirit”.
+[. . .]
+27. In my opinion, the consequences or effects which result from the Court of Appeal's interpretation of ss. 40 and 40a of the ESA are incompatible with both the object of the Act and with the object of the termination and severance pay provisions themselves. It is a well established principle of statutory interpretation that the legislature does not intend to produce absurd consequences. According to Côté, supra, an interpretation can be considered absurd if it leads to ridiculous or frivolous consequences, if it is extremely unreasonable or inequitable, if it is illogical or incoherent, or if it is incompatible with other provisions or with the object of the legislative enactment (at pp. 378-80). Sullivan echoes these comments noting that a label of absurdity can be attached to interpretations which defeat the purpose of a statute or render some aspect of it pointless or futile (Sullivan, Construction of Statutes, supra, at p. 88).
+[45] Therefore, I am of the opinion that the interest under subsection 280(1) and the late-filing penalty under section 280.1 of the Act apply only on the net amount, i.e. on the amount of GST payable set off by the rebates. In this case, since the rebates are greater than the GST payable, the Minister was unjustified in charging interest and imposing a late-filing penalty.
+[46] Given my conclusion to the first question, I am not called to decide the issue of the late-filing penalty.
+V. Disposition
+[47] The appeal is allowed with costs against the Respondent.
+Signed at Montréal, Quebec, this 15th day of January 2019.
+“Johanne D’Auray”
+D'Auray J
+Translation certified true
+on this 7th day of February 2020.
+François Brunet, Revisor
+CITATION:
+2019 TCC 60
+COURT FILE NO.:
+2016-5445(GST)G
+STYLE OF CAUSE:
+VILLA STE-ROSE INC. v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+Ottawa, Ontario
+DATE OF HEARING:
+October 18 and19, 2018 and December 3, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D'Auray
+DATE OF JUDGMENT:
+March 15, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Ms. Camille Janvier-Langis
+Ms. Ariane Hunter-Meunier
+Counsel for the Respondent:
+Mr. Christian Lemay
+Mr. Gabriel Déry
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Ms. Camille Janvier-Langis
+Mr. Étienne Gadbois
+Firm:
+Dentons Canada LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Humber College Institute of Technology & Advanced Learning v. Her Majesty the Queen, 2013 TCC 146.
+[2] Date that the rebate claims were confirmed.

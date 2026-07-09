@@ -1,0 +1,106 @@
+Title: Boudali v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27612/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-270-27612-boudali-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-04-19
+
+# Boudali v. The Queen
+
+- Citation: 2007 CCI 270
+- Decision date: 2007-04-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 433, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boudali v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-19
+Référence neutre
+2007 CCI 270
+Numéro de dossier
+2006-1831(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006‑1831(IT)I
+ENTRE :
+MOHAMED BOUDALI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 19 avril 2007, à Windsor (Ontario)
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Steven Leckie
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l’avocat de l’intimée en vue d’obtenir une ordonnance annulant l’appel interjeté par l’appelant à l’égard d’une cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 ou, sinon, une ordonnance accordant à l’intimée une prolongation de délai de 30 jours pour qu’elle puisse déposer une réponse à l’avis d’appel;
+Vu l’affidavit de Stephanie Fong, déposé au dossier;
+Vu les observations de l’appelant et de l’avocat de l’intimée;
+J’ordonne que l’appel soit annulé.
+Signé à Ottawa, Canada, ce 4e jour de mai 2007.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 24e jour de septembre 2007.
+Marie‑Christine Gervais, traductrice
+Référence : 2007CCI270
+Date : 20070504
+Dossier : 2006‑1831(IT)I
+ENTRE :
+MOHAMED BOUDALI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge McArthur
+[1] La présente requête vise à obtenir une ordonnance annulant l’appel interjeté par l’appelant pour l’année d’imposition 2004, vu que la cotisation que l’appelant conteste et dont il fait appel est une cotisation néant. Or, il existe une règle bien établie selon laquelle on ne peut faire appel d’une cotisation néant[1]. La position de l’appelant ne figure pas dans l’exception à la règle générale précisée par le juge en chef Bowman dans Aallcann Wood Suppliers Inc. v. The Queen[2].
+[2] L’appelant, qui se représentait lui‑même, a indiqué qu’on lui réclamait le montant d’impôt, si bien qu’il ne pouvait pas s’agir d’une cotisation néant. Voici ce qu’indique l’avis de nouvelle cotisation en cause :
+[traduction]
+Montant de la cotisation précédente Montant révisé
+Impôt fédéral net 501,30 $ 0 $
+Impôt de l’Ontario net 1 084,90 $ 1 586,20 $
+[3] Je comprends que cela peut être très déconcertant pour l’appelant, mais le montant qu’il conteste est un montant d’impôt de l’Ontario, qui ne relève pas de la compétence de la Cour. Je crois que l’appelant pour s’adresser à la Cour supérieure de l’Ontario, si les délais prévus par la loi ne sont pas échus.
+[4] En conclusion, la requête est accueillie. L’avis d’appel pour l’année d’imposition 2004 est annulé, vu que l’avis de nouvelle cotisation indique qu’il n’y a aucun impôt fédéral à payer.
+Signé à Ottawa, Canada, ce 4e jour de mai 2007.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 24e jour de septembre 2007.
+Marie‑Christine Gervais, traductrice
+RÉFÉRENCE : 2007CCI270
+NO DU DOSSIER : 2006‑1831(IT)I
+INTITULÉ : Mohamed Boudali et La Reine
+LIEU DE L’AUDIENCE : Windsor (Ontario)
+DATE DE L’AUDIENCE : Le 19 avril 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 4 mai 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Steven Leckie
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa (Canada)
+[1] L’intimée s’est reportée aux décisions dans les affaires suivantes : The Queen v. The Consumers’ Gas Company Ltd., 87 DTC 5008, à la p. 5012 et The Queen v. Bowater Mersey Paper Company Limited, 87 DTC 5382, à la p. 5383.
+[2] 94 DTC 1475, aux pages 1475‑76.

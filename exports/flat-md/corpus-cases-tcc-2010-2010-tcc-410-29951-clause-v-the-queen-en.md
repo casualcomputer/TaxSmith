@@ -1,0 +1,157 @@
+---
+title: "Clause v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29951/index.do"
+last_modified: "2010-08-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 410"
+citation2: ""
+neutral_citation: "2010 TCC 410"
+decision_date: "2010-08-23"
+language: "en"
+item_id: "29951"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6465
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:04:24.676000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "99d3ed26270cca6d31de38ea257e3fb65fc3d0a20416f515f40fe0d6cd7ed75d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Clause v. The Queen
+
+- Citation: 2010 TCC 410
+- Decision date: 2010-08-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6465, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Clause v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-08-23
+Neutral citation
+2010 TCC 410
+File numbers
+2009-3689(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3689(IT)I
+BETWEEN:
+SUSAN CLAUSE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Susan Clause (2009-3690(GST)I) on May 18, 2010, at Ottawa, Canada.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Sara Chaudhary
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act, the notice of which is dated May 16, 2008 and bears number 678874, is dismissed in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 23rd day of August 2010.
+"Patrick Boyle"
+Boyle J.
+Docket: 2009-3690(GST)I
+BETWEEN:
+SUSAN CLAUSE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Susan Clause (2009-3689(IT)I) on May 18, 2010, at Ottawa, Canada.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Sara Chaudhary
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, the notice of which is dated May 16, 2008 and bears number 678873, is dismissed in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 23rd day of August 2010.
+"Patrick Boyle"
+Boyle J.
+Citation: 2010 TCC 410
+Date: 20100823
+Dockets: 2009-3689(IT)I
+2009-3690(GST)I
+BETWEEN:
+SUSAN CLAUSE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] Mrs. Clause has appealed from assessments issued by the Canada Revenue Agency (“CRA”) under the non‑arm’s length transferee preference provisions of section 160 of the Income Tax Act and section 325 of the Excise Tax Act in respect of her husband’s income tax and goods and services tax (“GST”) liabilities. The income tax and GST liabilities of her husband at the time that his joint interest in their home was transferred to and registered in Mrs. Clause’s name as sole owner is not in dispute. Each of her appeals is under the Court’s informal procedures. Her husband’s tax liabilities for which she was assessed as at the time of the transfer were approximately $17,000 of income tax and $8,000 of GST.
+[2] Mrs. Clause has advanced three grounds in support of her appeal. Firstly, she maintains that the house’s value in 2004 was less than the $240,000 assumed by the CRA, which assumed value formed the basis and beginning point of the CRA’s valuation of the husband’s interest in the home. The husband’s interest was assumed to be one‑half of the couple’s equity in the home being the difference between its assumed $240,000 value and the amount of the mortgage on the home. This significantly exceeded the approximately $25,000 total tax liability of the husband for which Mrs. Clause has been assessed. The stated assumptions set out in the reply include that the value of the home was $240,000 at the time of the transfer in 2004. While Mrs. Clause disputes that, she has produced no corroborating documentation nor provided any specific or detailed information in her testimony. In her notice of appeal she says she believes the 2006 municipal property tax assessment valued at $187,000. At the hearing she acknowledged she was unable to substantiate that recollection but did not go on to say she had sought to obtain a duplicate copy from the municipal property appraisal agency.
+[3] At the time of the transfer in January 2004, she put on a new mortgage in excess of $176,000, in part to refinance the existing mortgage as well as to secure an equity line of credit facility. The financial institution would have obtained an evaluation of the property before providing such a mortgage and she explained that she only recently asked for a copy and was not able to receive it before the hearing. Since this mortgage was not just to refinance the existing mortgage but included an increase in credit extended, and since there was no mention of the cost of the form of mortgage insurance required for low equity mortgages, the Court does not accept as adequate Mrs. Clause’s vague recollection that the bank’s appraisal was approximately $187,000 or thereabouts and loaned in excess of $176,000 on its security. Mrs. Clause did not so much as tell the Court what other townhouses in her neighbourhood and surrounding communities had sold for.
+[4] Mrs. Clause is a successful public servant at a managerial level or higher. It is clear she is sharp and articulate. She contested the Crown’s motion to introduce expert evidence on the value of her home after the time for doing so had expired. Mrs. Clause has not introduced evidence sufficient to even bring into question the correctness of the Minister’s assumed $240,000 value.
+[5] Mrs. Clause’s second ground in support of her appeal is that she did provide value to her husband for his interest in the home to the extent of approximately $15,000. This was comprised of two amounts. In 2008 she gave her husband approximately $10,000 of money she had borrowed on the equity line of credit secured on her home in order to permit him to pay off his accepted proposal under the Bankruptcy and Insolvency Act (the “BIA”). This was not provided for nor contemplated at the time of the January 2004 transfer of the home interest. As described below, the particular BIA proposal for which she gave him this money had not yet been proposed at the time of the transfer of the home. She gave Mr. Clause this money more than four years after the transfer. In such circumstances the Court is entirely unable to conclude that the money was paid to Mr. Clause for the transfer of his interest in the home.
+[6] The other $5,000 of value she put forward was that she provided that amount to Mr. Clause to buy five Corvette automobiles. No documentation whatsoever was provided to corroborate the existence of the advance of the money or the purchase of the cars. Both Mr. and Mrs. Clause appear to agree that she borrowed the $5,000 on the new secured equity line of credit she had in place on the transfer in January 2004. At that time, Mr. Clause was in default on what will be described below as his first BIA proposal and it had been annulled as a result. At that time, Mr. Clause had not yet made what will be described as his second BIA proposal. Mrs. Clause described this car purchase transaction as part of her husband’s car sales business. Mr. Clause went out of his way to clarify that this was simply a personal activity in which he bought and sold the cars. At least one of the Corvettes was kept by the Clauses and not resold. Given the absence of any evidence other than Mr. and Mrs. Clause’s testimony that would connect her giving him this $5,000 to acquire his interest in the home, and given the absence of corroborating written evidence that the transaction occurred or even that Mrs. Clause borrowed $5,000 at that time on her line of credit, there is simply insufficient evidence to satisfy the Court on a balance of probabilities that she paid him this $5,000 to acquire from him his interest in home.
+[7] Mrs. Clause’s third ground in support of her appeal is that the CRA should not be allowed to issue section 160 and section 325 assessments since the CRA had voted in favour of Mr. Clause’s BIA proposal. The CRA voted in favour the first proposal, being the proposal prior to the transfer in 2004 of Mr. Clause’s joint interest in the home. The proposal showed a net value in the home of approximately $25,000. That proposal did not allow any of the unsecured creditors, including the CRA, any claim against the house or its value or any claim in excess of its pro rata participation (approximately 25%) in the $300 monthly payments to be made for 60 months for a total of $18,000.
+[8] After the 2003 proposal was in default, it was annulled. The legal result of this under the BIA is that it is deemed to have never existed and Mr. Clause’s liabilities compromised by the first proposal were fully reinstated, including the CRA’s income tax and GST claims.
+[9] Mrs. Clause maintains that although the January 2004 transfer occurred after the first proposal was in default and had been annulled such that the liabilities had been fully reinstated, the second proposal made and accepted with the support of the CRA in 2006 simply reinstated the remaining $300 monthly payments until such time as $18,000 had in fact being paid for the benefit of the unsecured creditors. He had defaulted on three payments to the extent of $900 in total at the time the first proposal was annulled. Mrs. Clause’s position is that it is manifestly unfair that, as a result of $900 of default which was fully made up in the second proposal, the CRA should even be technically entitled to collect an additional $25,000 in respect of the tax debts of Mr. Clause since under the first proposal, which the CRA had accepted when it was aware of his interest in the home and which proposal was effectively reinstated in the 2006 proposal, the CRA was only to receive less than $5,000 as its pro rata share of the sixty $300 monthly payments and had no rights against his interest in the home.
+[10] Section 160 is a provision that has been drafted intentionally in the CRA’s favour to allow the CRA to collect amounts of unpaid taxes in circumstances where the transfer by the tax debtor to a non‑arm’s length person for less than fair value could otherwise impair the CRA’s ability to collect the amount of the tax debt. The Federal Court of Appeal has said that the results of the application of the broad language of this section can result in unjust, unfair and unwarranted applications of the provision. See Wannan v. The Queen, 2003 FCA 423, 2003 DTC 5715. However, the Federal Court of Appeal went on to say that Parliament had the power to enact such a broad provision and the fact that its application in particular circumstances may be unfair, unjust or unwarranted does not preclude the CRA from relying upon it nevertheless.
+[11] There have been several court decisions which have confirmed that the effect of a bankruptcy order in respect of a proposal or a discharge is only to preclude the CRA from collecting any further amount from the tax debtor and it does not preclude the CRA from relying upon a section 160 transferee liability assessment where the transfer was made prior to the bankruptcy or BIA proposal. See for example The Queen v. Heavyside, 97 DTC 5026 (FCA) and Bergeron et al. v. The Queen, 2003 TCC 286, 2003 DTC 1491.
+[12] However Mrs. Clause has raised an argument which does not appear to have been directly considered before. In this case, the CRA voted in favour of the 2003 proposal, aware of Mr. Clause’s interest in the house, and under that 2003 proposal the CRA would receive only its pro rata share of sixty $300 monthly payments or approximately $5,000 over five years. Mr. Clause went into default for three months ($900) under the 2003 proposal. As a result of this default, the 2003 proposal was annulled and deemed to be revoked in accordance with section 66.31(1) of the BIA. This is evidenced by a notice to creditors dated July 24, 2006 which confirmed that the BIA provides that as a result of such a revocation and annulment, the debts are fully reinstated and not in any way compromised. After Mr. Clause’s 2003 proposal was in default and deemed cancelled, the January 2004 transfer of his interest in the home occurred. Subsequently, Mr. Clause made the second proposal, the 2006 proposal, the sole effect of which was to reinstate the remaining scheduled monthly payments. The CRA had initially voted against the second proposal and in its ballot indicated it would vote in favour of the second proposal if it was amended to provide for some additional $300 monthly payments. However, the CRA’s proposed amended second proposal was not accepted by the remaining creditors. As a result, the CRA changed its vote and supported the 2006 proposal whereupon it was accepted by the creditors. Mr. Clause has since satisfied the requirements of the 2006 proposal.
+[13] The 2006 proposal materials filed by the BIA receiver with the Ontario Court making the proposal, twice described it as a reinstatement of the first proposal. However, the materials go on to specify the terms of the second proposal in detail such that it could be a separate stand‑alone proposal. The second proposal materials do not require that the intervening months’ missed payments be caught up in a lump sum but provide for monthly payments to begin afresh until such time as a total of sixty payments have been made under the first proposal and the second proposal. The BIA does have provisions for a debtor or his receiver reviving a defaulted proposal with his creditors, however those were not the provisions used in respect of the second proposal. It is clearly a second proposal and a court order was needed and obtained under section 66.32 of the BIA in order for a second proposal to even be made. It appears possible that a revival of the defaulted proposal could, as a matter of law, reinstate the defaulted proposal retroactively and if that were the case here, the January 2004 transfer of the interest in the home may be protected from section 160 and section 325 assessments. The Court does not have to decide that unless this is a revived proposal and not a distinct second proposal in 2006.
+[14] On these facts and based upon my reading of the relevant provisions of the BIA, this Court is unable to conclude that this second proposal in 2006 constituted a revival of the 2003 proposal.
+[15] Since the 2006 proposal was a stand‑alone proposal distinct from the 2003 proposal which was annulled as a result of the default prior to the January 2004 transfer of the interest in the home, the law as drafted and enacted by Parliament and interpreted by the Federal Court of Appeal requires the Court to conclude that the 2003 proposal does not preclude the section 160 and section 325 transferee assessments since that first proposal was annulled before the January 2004 transfer of the home. Nor does the second proposal preclude the assessments against Mrs. Clause since the second proposal was only proposed after the January 2004 transfer of the home and therefore only affected the CRA’s rights to proceed against Mr. Clause who did not own an interest in the home at the time the second proposal was made and thus the CRA could not be considered to have compromised its claim against the home to collect Mr. Clause’s tax debts.
+[16] The Court is very sympathetic to the fact that Mrs. Clause feels the result of these assessments against her interest in the home, in circumstances where the CRA could not have proceeded against it at all but for a temporary default by Mr. Clause in making the proposed payments, has a result that is unfair, unjust and unwarranted since it is harsh to see how the CRA’s rights to collect Mr. Clause’s tax debts have really been compromised by the transfer. The Court asked the CRA appeals officer if she was able to explain how Mrs. Clause should be expected to think the result of the assessments, if upheld, was fair; she could not. In argument, the Court asked the respondent’s counsel if she could suggest how the Court might be able to explain to Mrs. Clause that upholding these assessments as legally permitted could possibly be fair; she could not either. This Court remains at a loss to be able to explain how this particular result is fair given that, at the time of the transfer of Mr. Clause’s interest in the home, the CRA had already agreed not to look to Mr. Clause’s interest in the home for collection of the debt, and the CRA had already agreed to accept less than $5,000 in total in respect of his debt over five years and it has received all of that money under the two proposals albeit over a somewhat longer period. The fact that the Court could not explain that the result is fair does not preclude the Court affirming, as it must, that the provisions enacted by Parliament permit the CRA to issue the assessments against Mrs. Clause notwithstanding that the CRA may be seen to be acting unfairly or opportunistically, and notwithstanding that such assessments may not have been able to have been issued had Mr. Clause’s BIA receiver proceeded with a revival of the failed first proposal instead of proceeding with the second proposal each of which would have provided for the same total payments to the CRA and the other unsecured creditors. While the Court is not satisfied or comfortable that the result of these assessments is fair or just to either Mr. Clause or Mrs. Clause in these circumstances, the Court is satisfied that it is required as a matter of law to uphold them.
+[17] This Court has no power to revise the law as enacted by Parliament and interpreted by the Federal Court of Appeal. These appeals are dismissed.
+[18] The CRA’s behaviour is seen by the Clauses as opportunistic. It may well be that many Canadians, including Mr. and Mrs. Clause, may think that the CRA has confused what it had the right to do with what would have been the right thing to do.
+Signed at Ottawa, Canada, this 23rd day of August 2010.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2010 TCC 410
+COURT FILE NOS.: 2009-3689(IT)I, 2009-3690(GST)I
+STYLE OF CAUSE: SUSAN CLAUSE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: May 18, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: August 23, 2010
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Sara Chaudhary
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

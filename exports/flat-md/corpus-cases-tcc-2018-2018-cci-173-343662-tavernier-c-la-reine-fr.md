@@ -1,0 +1,169 @@
+---
+title: "Tavernier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/343662/index.do"
+last_modified: "2018-08-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 173"
+citation2: ""
+neutral_citation: "2018 CCI 173"
+decision_date: "2018-08-28"
+language: "fr"
+item_id: "343662"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4922
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:47:19.635000+00:00"
+cases_cited_count: 10
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6b31bbf028f84f6fb130060d14c17eb3dc1b6a42c30445c492be7b06a60389d2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tavernier c. La Reine
+
+- Citation: 2018 CCI 173
+- Decision date: 2018-08-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4922, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tavernier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-08-28
+Référence neutre
+2018 CCI 173
+Numéro de dossier
+2015-3695(IT)G
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-3695(IT)G
+ENTRE :
+SHERYL TAVERNIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 1er juin 2018, à Toronto (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Avocat de l’appelante :
+Me Charles Haworth
+Avocat de l’intimée :
+Me Aaron Tallon
+JUGEMENT
+L’appel interjeté à l’encontre des deux nouvelles cotisations établies le 28 février 2013 en vertu de la Loi de l’impôt sur le revenu (Canada) pour les années d’imposition 2008 et 2009 de l’appelante est rejeté, avec dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 28e jour d’août 2018.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 20e jour d’août 2019.
+Elisabeth Ross, jurilinguiste
+Référence : 2018 CCI 173
+Date : 20180828
+Dossier : 2015-3695(IT)G
+ENTRE :
+SHERYL TAVERNIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+Introduction
+[1] L’appelante, Mme Sheryl Tavernier, fait appel des nouvelles cotisations d’impôt établies le 28 février 2013 à l’égard des années d’imposition 2008 et 2009, en vertu de la Loi de l’impôt sur le revenu (Canada) (la « Loi »). Plus précisément, elle fait appel de la pénalité pour faute lourde imposée en vertu du paragraphe 163(2) de la Loi relativement à de fausses déclarations concernant des pertes d’entreprise nettes pour chacune de ces années d’imposition. L’appelante ne conteste pas le refus du ministre de reconnaître ces pertes d’entreprise nettes, de 25 038 $ (2008) et de 424 023 $ (2009), faussement déclarées.
+[2] L’appelante affirme qu’elle n’a pas intentionnellement demandé la déduction de ces pertes d’entreprise fictives, ni commis de faute lourde en demandant ces déductions. Elle affirme avoir fait confiance à tort au spécialiste en déclarations de revenus dont elle avait retenu les services, lequel a inclus, à son insu selon ses dires, ces déductions frauduleuses dans ses déclarations de revenus de 2008 et de 2009, qu’elle a ensuite signées sans les examiner, dans les deux cas.
+La preuve
+[3] Les éléments de preuve produits à l’audience ont établi qu’en 1979, Mme Tavernier a quitté Saint-Kitts-et-Nevis à l’âge de 19 ans pour s’installer au Canada. Elle a suivi une formation pour devenir infirmière, puis a obtenu son diplôme d’infirmière en 1989 ou aux alentours de 1989 et est devenue infirmière autorisée. En 2000, elle a obtenu un baccalauréat en sciences infirmières de l’Université Ryerson. Elle travaille comme infirmière à l’hôpital de Scarborough depuis 1990 et a travaillé à cet hôpital et à l’ancien hôpital général de Toronto Est dans les services des soins orthopédiques et des soins palliatifs, parfois comme infirmière responsable.
+[4] Avant 2005, il est arrivé que l’appelante fasse préparer ses déclarations de revenus annuelles par son conjoint; elle ne les a jamais préparées elle-même. En 2004, son conjoint et elle ont assisté à au moins un séminaire public sur la planification financière, qui avait fait l’objet de publicité et qui était présenté par DSC Lifestyle Services (DSC). DSC a convaincu l’appelante et son conjoint qu’elle pourrait les aider à restructurer leur dette et les a en effet aidés à obtenir un meilleur taux d’intérêt pour leur hypothèque. DSC leur a également présenté le programme de dons Global Learning Gift Initiative (le programme GLGI), qui a été depuis discrédité, en affirmant que, pour chaque don d’un dollar, ils pourraient demander une déduction de trois à cinq dollars. DSC leur a expliqué comment c’était possible. L’appelante a affirmé que son conjoint (qui n’a pas témoigné) pensait que c’était « OK » et qu’ils ont donc décidé d’aller de l’avant. DSC a commencé à préparer les déclarations de revenus de l’appelante à compter de l’année d’imposition 2005.
+[5] Pour chacune des années d’imposition 2005, 2006 et 2007, qui ne sont pas visées en l’espèce, l’appelante a donné de l’argent au programme GLGI, ce que DSC a déclaré dans la déclaration de revenus de l’appelante pour ces années, mais en gonflant les sommes, ce qui a donné lieu chaque année à des remboursements d’impôt irréguliers et excessifs.
+[6] De plus, dans sa déclaration de revenus pour 2005 préparée par DSC, l’appelante a déduit une perte d’entreprise fictive de 12 371 $, à son insu selon ce qu’elle affirme, sans nommer d’entreprise dans le formulaire État des résultats des activités d’une entreprise joint à sa déclaration. Elle a simplement signé la déclaration ainsi préparée sans l’examiner du tout.
+[7] En outre, dans sa déclaration de revenus de 2006, préparée par DSC, l’appelante a déduit une perte d’entreprise nette fictive de 37 499 $, déclarant que cette année-là elle avait offert des services de consultation en gestion, qu’elle avait touché un revenu d’un dollar, pour des dépenses alléguées de 37 500 $ dont 33 000 $ pour de la publicité, 1 500 $ pour des dépenses de bureau et 3 000 $ pour des honoraires professionnels. Une fois de plus, l’appelante affirme que cette perte a été déclarée à son insu et qu’elle n’a pas examiné la déclaration de revenus préparée par DSC, ni posé des questions à ce sujet, avant de la signer et de la remettre au personnel de DSC pour qu’il la produise.
+[8] En ce qui concerne les années d’imposition 2008 et 2009 visée en l’espèce, la déclaration de revenus de 2008 de l’appelante a été produite le 5 novembre 2009. Comme je l’ai indiqué, la déclaration a été préparée par DSC et il y était déclaré une perte d’entreprise fictive de 25 038 $. Peu après, le 14 décembre 2009, une cotisation a été établie à l’égard de l’appelante conformément à la déclaration de revenus. La déclaration de revenus de 2009 de l’appelante a été produite le 15 septembre 2010. Une fois de plus, comme il a été indiqué, DSC a préparé la déclaration et elle y a inscrit une perte d’entreprise fictive très élevée de 424 023 $. La cotisation a également été établie conformément à la déclaration de revenus produite. De nouvelles cotisations ont été établies le 28 février 2013, dans lesquelles les déductions demandées pour les pertes d’entreprise fictives ont été refusées et des pénalités connexes pour faute lourde, que l’appelante conteste devant notre Cour, ont été imposées.
+[9] Lors de son témoignage principal, l’appelante a déclaré qu’elle avait déposé des documents au bureau de DSC pour la préparation de sa déclaration de revenus de 2008, comme elle l’avait fait pour ses déclarations de revenus de 2005, de 2006 et de 2007, soit principalement des feuillets T4 et des relevés de REER et de droits pour son permis d’infirmière. Elle n’a examiné aucune des déclarations préparées. Elle n’a donc pas eu connaissance des pertes d’entreprise nettes fictives de 25 038 $ que DSC avait déduites dans sa déclaration de 2008.
+[10] En décembre 2008, DSC avait encouragé l’appelante et son conjoint à participer à l’entreprise alléguée de DSC appelée « T.I.G.E.R. » (« Total Implementation to Generate Excellent Business Revenue » ou, en français, [traduction] « Mise en œuvre totale pour générer d’excellents revenus d’entreprise », pièce A-1, onglet 2). Ils auraient à verser la somme de 25 000 $ à DSC, et l’entreprise consistait à distribuer des disques compacts. DSC a de plus expliqué à l’appelante et à son conjoint que cette participation à T.I.G.E.R. leur permettrait d’obtenir un remboursement d’impôt pour les années d’imposition antérieures. Ils ont accepté de participer et ont versé un acompte de 1 500 $, en plus de consentir à ce que des mensualités de 175 $ soient par la suite prélevées sur le compte du conjoint à partir de janvier 2009. DSC a affirmé qu’elle les informerait quand cette entreprise ou ce programme débuterait. En fait, DSC ne leur a plus jamais reparlé de cette entreprise et ne les a jamais informés de la date à laquelle l’entreprise ou le programme débuterait. DSC était injoignable lorsque l’appelante a par la suite cherché à communiquer avec des représentants de DSC pour discuter des fausses déductions d’entreprise demandées en son nom.
+[11] L’appelante a témoigné que, pour la préparation de sa déclaration de revenus de 2009, elle avait une fois de plus déposé ses documents fiscaux pertinents au bureau de DSC. Elle l’aurait fait à la fin d’août ou au début de septembre 2010, ou aux alentours de ces dates, étant donné que la déclaration de revenus a été produite le 15 septembre 2010 et contenait un formulaire de demande de report rétrospectif d’une perte daté du 23 août 2010 et signé par l’appelante. Comme auparavant, il n’y a eu aucune discussion concernant la manière dont la déclaration serait préparée. Elle affirme qu’elle faisait entièrement confiance à DSC. Elle recevait des remboursements correspondant à ce qui était demandé dans les déclarations produites.
+[12] Mais, à cette date, elle savait également, à la suite d’une lettre de l’Agence du revenu du Canada (l’« ARC ») datée du 10 juin 2010, qu’une nouvelle cotisation avait été établie pour l’année 2006, dans laquelle on refusait de reconnaître la totalité de la perte d’entreprise de 37 499 $ qu’elle avait déclarée pour cette année-là et on lui imposait une pénalité pour faute lourde en lien avec la déduction de cette perte d’entreprise désormais refusée.
+[13] De plus, elle savait aussi, à la suite d’une lettre de l’ARC datée du 3 novembre 2008, que de nouvelles cotisations avaient été établies pour les années d’imposition 2005 et 2006, dans lesquelles on refusait la totalité (2005) et une portion (2006) des déductions pour don de bienfaisance à GLGI demandées pour ces années. Elle savait également, à la suite d’une lettre de l’ARC datée du 7 décembre 2009, qu’une autre nouvelle cotisation avait été établie à l’égard de l’année d’imposition 2006, dans laquelle on refusait le reste de la déduction pour don de bienfaisance à GLGI, soit 15 049 $, réclamée pour cette année d’imposition.
+[14] Malgré cela, l’appelante a produit sa déclaration de revenus de 2009 préparée par DSC, sans l’examiner ni poser de questions avant de la signer. Comme je l’ai dit, on avait inclus dans cette déclaration un formulaire de demande de report rétrospectif d’une perte signé par l’appelante le 23 août 2010 et on y déclarait une perte d’entreprise remarquablement importante de 424 023 $. Pour l’année d’imposition 2009, le revenu inscrit sur le feuillet T-4 de l’appelante pour son emploi d’infirmière s’élevait à la somme comparativement dérisoire de 132 845 $.
+[15] L’appelante a parlé d’une lettre qui lui aurait été adressée et qui aurait été signée par deux politiciens de haut rang des arènes provinciale et fédérale, dans laquelle on l’aurait remerciée pour ses dons de bienfaisance, mais elle n’a pas été en mesure de produire en preuve cette lettre ou une copie. Elle a vu que sa déclaration de revenus de 2009 contenait une demande de remboursement de 32 900 $, mais n’a posé aucune question sur cette somme ni sur aucun autre sujet. Elle a affirmé qu’elle n’avait pas vu le formulaire de demande de report rétrospectif d’une perte qu’elle avait signé. Elle soutient qu’elle avait signé ce que le personnel de DSC lui avait demandé de signer : [traduction] « Signez ici, signez ici. »
+[16] En contre-interrogatoire, l’appelante a témoigné qu’en ce qui concerne le prétendu programme T.I.G.E.R., DSC n’a jamais communiqué avec elle ni avec son conjoint et qu’ils n’ont jamais eux-mêmes communiqué avec DSC ou avec l’ARC pour en discuter. Elle a reconnu qu’elle n’avait pas travaillé pour ce programme. Elle n’a jamais distribué de disques compacts et n’a jamais reçu d’argent pour cela. Elle a affirmé qu’elle était occupée et n’avait par conséquent pas assuré de suivi. Elle a affirmé qu’elle avait reçu beaucoup de lettres de l’ARC. Mais une fois de plus, elle soutient qu’elle faisait confiance au personnel de DSC. Le personnel de DSC lui avait dit qu’il allait produire des avis d’opposition, que des avocats s’occuperaient de ces litiges et que tous les problèmes seraient réglés. Elle a confirmé qu’elle était titulaire d’un baccalauréat en sciences infirmières, qu’elle n’avait posé aucune question à DSC même après avoir commencé à recevoir des lettres de l’ARC contestant ses déclarations de revenus et qu’elle n’avait pas examiné ses déclarations davantage que par le passé. Elle a affirmé qu’elle voyait maintenant le problème, mais qu’à l’époque l’ARC continuait de lui envoyer des remboursements même si celle-ci jugeait les déclarations erronées. L’appelante a également affirmé qu’elle ne savait pas que des pertes d’entreprise avaient été déduites dans ses déclarations de revenus de 2005 et de 2006, de même que dans ses déclarations de 2008 et de 2009.
+[17] Personne d’autre n’a été appelé à témoigner pour l’appelante. Pour l’intimée, Mme L. Dupont, une fonctionnaire de l’ARC travaillant à Sudbury, a été appelée à témoigner. Elle a travaillé sur le dossier de l’ARC concernant les déclarations de l’appelante pour les années d’imposition visées en l’espèce. L’appelante n’a pas répondu à la demande de renseignements de l’ARC concernant sa déclaration de revenus de 2008. Si la demande de report rétrospectif d’une perte de 2009 avait été accordée, l’appelante se serait fait rembourser tout l’impôt qu’elle avait versé depuis 2006. Mme Dupont a préparé les rapports recommandant l’imposition d’une pénalité pour 2008 et 2009. Le principal motif de cette recommandation était qu’en réalité il n’existait aucune entreprise.
+La question en litige
+[18] La question à trancher est de savoir si une pénalité pour faute lourde a été imposée à juste titre à l’appelante pour les années d’imposition 2008 et 2009 en vertu du paragraphe 163(2) de la Loi. Selon l’intimée, les montants respectifs des pénalités s’élèvent à 3 275 $ et à 55 495 $. L’appelante fait valoir qu’une somme totale de 194 491 $ est en jeu, lequel sans aucun doute prend en compte les intérêts sur les pénalités imposées en vertu de la Loi, lesquels intérêts courent à partir de chacune des années d’imposition en cause.
+Analyse juridique et conclusion
+[19] La partie pertinente en l’espèce du paragraphe 163(2) concernant la pénalité pour « faute lourde » est ainsi libellée :
+(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants [...]
+[20] Il est de droit constant que la faute lourde englobe la notion d’aveuglement volontaire; voir Canada (Procureur général) c. Villeneuve, 2004 CAF 20, 2004 D.T.C. 6077.
+[21] Le récent arrêt de la Cour d’appel fédérale (la « CAF ») Wynter c. Canada, 2017 CAF 195, porte sur des faits semblables à ceux du présent appel et est par conséquent largement déterminant en l’espèce puisque c’est la même question qui est en litige, soit l’applicabilité des pénalités prévues au paragraphe 163(2). Dans l’affaire Wynter, une contribuable contestait la pénalité qui lui avait été imposée au titre du paragraphe 163(2) pour avoir demandé la déduction d’une perte d’entreprise fictive de 447 148 $ dans sa déclaration de revenus de 2009. Si la déduction avait été accordée, l’appelante aurait eu droit à un important remboursement d’impôt pour l’année d’imposition courante et pour les années d’imposition antérieures. Cette contribuable avait, tout comme l’appelante en l’espèce, confié la préparation de ses déclarations de revenus à DSC. Elle avait reçu d’importants remboursements pour les années d’imposition 2006, 2007, 2008 et 2009. En 2006, elle s’était informée auprès de DSC de la raison pour laquelle elle avait droit à un remboursement élevé comparativement à ce qu’elle recevait précédemment avec son ancien comptable. DSC lui a répondu que c’était en raison du don de bienfaisance qu’elle avait fait. La contribuable n’avait par ailleurs posé aucune autre question concernant les raisons pour lesquelles elle avait droit à des remboursements si élevés. Elle n’exploitait pas et n’avait jamais exploité d’entreprise, mais elle avait néanmoins signé une demande de report rétrospectif d’une perte pour l’année d’imposition 2009. La Cour canadienne de l’impôt (2016 CCI 103, le juge suppléant Rowe) avait rejeté l’appel au motif que la contribuable avait fait preuve d’aveuglement volontaire quant au faux énoncé que contenait sa déclaration de revenus de 2009 relativement à l’importante perte d’entreprise.
+[22] En rejetant l’appel, la CAF a souligné que le paragraphe 163(2) portait sur la pénalité qui s’applique lorsque le contribuable agit, ou omet d’agir, « sciemment ou dans des circonstances équivalant à faute lourde ». L’aveuglement volontaire suggère l’idée d’« ignorance délibérée », comme il est établi dans l’arrêt R. c. Briscoe, 2010 CSC 13, aux paragraphes 23 et 24. Une connaissance est imputée au contribuable. La CAF a conclu qu’il n’était pas nécessaire d’établir l’intention de tromper pour que l’on puisse conclure à la connaissance et, notamment, à l’ignorance volontaire. Au paragraphe 16, la Cour d’appel fédérale, sous la plume du juge Rennie, a résumé la situation en ces mots :
+En somme, le droit imputera une connaissance au contribuable qui, dans des circonstances qui lui commandent de se renseigner sur sa situation fiscale, décide de ne pas le faire. L’élément de connaissance est établi par la décision du contribuable de ne pas se renseigner, et non par la conclusion d’une intention de tromper.
+[23] Aux paragraphes 18 et 19, la CAF a poursuivi en faisant observer que la faute lourde se distingue de l’aveuglement volontaire. La faute lourde se manifeste lorsque la conduite d’un contribuable se situe « considérablement en deçà de la conduite à laquelle on est en droit de s’attendre de la part d’un contribuable raisonnable ». Conformément au vénérable jugement Venne c. La Reine, [1984] A.C.F. no 314, 84 D.T.C. 6247 (C.F. 1re inst.), p. 6256, pour qu’il y ait faute lourde il faut qu’il y ait « un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi ». (En fait l’expression « indifférence au respect de la loi » tirée de cette décision Venne semble de manière conceptuelle englober l’aveuglement volontaire.)
+[24] En ce qui concerne l’appel en l’espèce, l’appelante est instruite, est titulaire d’un baccalauréat et a travaillé, en tant qu’infirmière, de nombreuses années dans une profession exigeante qui demande beaucoup d’attention et de précision. Apparemment, DSC a su se concilier les bonnes grâces de l’appelante en 2006 en l’aidant, ainsi que son conjoint, à obtenir un taux hypothécaire plus bas. Par la suite, l’appelante a confié à DSC la préparation de toutes ses déclarations de revenus jusqu’en 2010, et plus particulièrement les déclarations pour les années d’imposition 2008 et 2009 visées en l’espèce.
+[25] De plus, comme je l’ai souligné, au moment de produire sa déclaration de revenus de 2008 le 5 novembre 2009, l’appelante savait depuis un an (le 3 novembre 2008) que l’ARC avait établi de nouvelles cotisations pour les années d’imposition 2005 et 2006, dans lesquelles on refusait la totalité (2008) et une portion (2009) de la déduction demandée pour les dons de bienfaisance à GLGI. Elle savait également, à la suite d’une lettre de l’ARC datée du 20 février 2009, qu’une nouvelle cotisation avait été établie pour l’année d’imposition 2007, dans laquelle on apportait des ajustements considérables à trois montants déclarés pour des transferts entre conjoints. Cela aurait dû suffire à l’amener à se poser des questions sur les déclarations produites en son nom par DSC.
+[26] En outre, pour la déclaration de revenus de 2009 produite le 15 septembre 2010, elle savait, après avoir reçu une lettre de l’ARC datée du 7 décembre 2009, qu’une nouvelle cotisation avait une fois de plus été établie pour l’année d’imposition 2006, dans laquelle on refusait la totalité de la déduction demandée pour les supposés dons de bienfaisance à GLGI. Elle avait également appris par une lettre datée du 10 juin 2010 qu’on lui refusait la déduction des pertes d’entreprise de 37 499 $ demandée pour l’année 2006 et qu’on lui imposait une pénalité à cet égard en vertu du paragraphe 163(2).
+[27] En résumé, l’appelante, qui a un diplôme universitaire et qui est une professionnelle de la santé aguerrie, a produit sa déclaration de revenus de 2008 sans poser de questions et sans l’examiner, alors qu’elle savait que l’ARC avait rejeté certaines de ses déclarations antérieures préparées par DSC, et a déduit dans cette déclaration de 2008 une importante perte d’entreprise fictive. Plus encore, dans sa déclaration de revenus de 2009 préparée par DSC, elle a signé un formulaire de demande de report rétrospectif d’une perte le 23 août 2010, qui devait être joint à cette déclaration, dans laquelle elle déclarait une perte d’entreprise fictive de 424 023 $, une fois de plus sans poser de questions (que ce soit à DSC, à l’ARC ou à son ancien comptable) et sans l’examiner, alors qu’elle savait, puisqu’elle en avait été à nouveau avisée, que l’ARC avait rejeté ses déclarations de revenus précédentes préparées par DSC.
+[28] Je suis d’avis que ces actes et ces omissions de l’appelante équivalent à de l’aveuglement volontaire et manifestent un degré de négligence important amplement suffisant pour constituer une faute lourde. Il s’agit là de deux éléments constitutifs, dont il a été question précédemment, de la disposition sur la pénalité au paragraphe 163(2). Comme la CAF l’a fait observer au paragraphe 20 de l’arrêt Wynter,
+[...] la faute lourde et l’ignorance volontaire, malgré leur différence sur le plan conceptuel, peuvent se recouper dans une certaine mesure lorsqu’elles sont appliquées. Un contribuable qui ferme les yeux sur la véracité et l’exactitude des renseignements fournis dans sa déclaration de revenus est volontairement ignorant et commet également une faute lourde.
+[29] L’appelante souligne qu’en 2006, elle a communiqué avec l’ARC concernant sa déclaration de revenus de 2005 pour s’informer d’un apparent retard dans le remboursement d’impôt anticipé pour 2005, remboursement qui a en fin de compte été fait. Cet exemple a été donné pour montrer que l’appelante n’avait pas hésité à communiquer avec l’ARC au sujet de ses déclarations de revenus préparées par DSC, ce qui prouvait, a-t-on affirmé, qu’elle n’avait pas fait preuve d’aveuglement volontaire et ni commis de faute lourde. Je ne crois pas du tout que ce geste ait cette importance. Ce sont les années d’imposition 2008 et 2009 qui sont en cause, et non l’année d’imposition 2005. Comme je l’ai indiqué ci-dessus, lorsqu’elle a produit ses déclarations de revenus de 2008 et de 2009 préparées par DSC, sans les examiner, l’appelante avait déjà reçu de nombreuses lettres de l’ARC l’informant que l’ARC avait rejeté des éléments de ses déclarations de revenus de 2005 et de 2006. Parmi ces lettres se trouvait, en ce qui concerne sa déclaration de revenus de 2009 produite le 15 septembre 2010, la lettre de l’ARC datée du 10 juin 2010 reçue peu de temps auparavant, l’informant que la déduction pour la perte d’entreprise fictive demandée dans sa déclaration de revenus de 2006 avait été refusée. Le fait que DSC lui ait répondu de ne pas s’inquiéter des lettres de l’ARC et que DSC allait s’y opposer n’excuse ou n’atténue en rien le fait que l’appelante ait continué à signer et à produire des déclarations de revenus sans même les examiner (ce qui lui aurait permis, par exemple, de savoir que d’importantes pertes d’entreprise fictives étaient déduites dans sa déclaration de 2008 et surtout dans sa déclaration de 2009). Le régime d’autocotisation canadien exige des contribuables qu’ils assument la responsabilité des déclarations de revenus qu’ils produisent. En particulier, les contribuables instruits ne peuvent se soustraire à cette responsabilité au point d’ignorer ce que l’on déclare en leur nom, tout en n’accordant aucune importance aux nombreux signes donnés par l’ARC concernant le rejet de déclarations produites précédemment.
+[30] Pour tirer la conclusion, sur le fondement de ce qui précède, que les pénalités pour faute lourde en litige en l’espèce sont bien fondées, j’ai aussi tenu compte de l’abondante jurisprudence invoquée par l’appelante, qui, je le souligne, comprend l’arrêt Wynter, ainsi que les jugements Findlay c. Canada, 2000 CanLII 15344 (C.A.F.), Julian c. La Reine, 2004 CCI 330, Torres c. La Reine, 2013 CCI 380, Boateng v. R., [2017] CarswellNat 7260 (C.C.I.), Kajtor c. La Reine, 2018 CCI 6, Anderson c. La Reine, 2016 CCI 93, Morrison c. La Reine, 2016 CCI 99, Sam c. La Reine, 2016 CCI 99, et Bolduc c. La Reine, 2017 CCI 203. Comme je l’ai affirmé, à mon avis, cette affaire est largement régie par l’arrêt Wynter rendu récemment par la CAF.
+[31] L’appel est rejeté avec dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 28e jour d’août 2018.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 20e jour d’août 2019.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2018 CCI 173
+No DU DOSSIER DE LA COUR :
+2015-3695(IT)G
+INTITULÉ :
+SHERYL TAVERNIER c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 1er juin 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 28 août 2018
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Charles Haworth
+Avocat de l’intimée :
+Me Aaron Tallon
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Charles Haworth
+Cabinet :
+DioGuardi Tax Law LLP
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

@@ -1,0 +1,229 @@
+Title: Kichton Contracting Ltd. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521222/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-20-521222-kichton-contracting-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2024-02-15
+
+# Kichton Contracting Ltd. v. M.N.R.
+
+- Citation: 2024 TCC 20
+- Decision date: 2024-02-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5762, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kichton Contracting Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-02-15
+Neutral citation
+2024 TCC 20
+File numbers
+2021-883(EI)
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2021-883(EI)
+BETWEEN:
+KICHTON CONTRACTING LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+RUSSELL GISELBRECHT,
+Intervenor.
+Appeal heard on March 8 and 9, 2023, at Edmonton, Alberta, and by teleconference on May 24, 2023.
+Before: The Honourable Justice Gaston Jorré, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Gergely Hegedus
+Kurtis Letwin
+Counsel for the Respondent:
+Allison Murray Banerjee
+For the Intervenor:
+The Intervenor himself
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the Appeal is allowed, and the decision of the Minister of National Revenue is varied to reflect that:
+Russ Giselbrecht was not in insurable employment for the period January 7, 2019 to February 20, 2020.
+No costs are awarded.[1]
+Signed at Ottawa, Canada, this 15th day of February 2024.
+“G. Jorré”
+Jorré J.
+Citation: 2024 TCC 20
+Date: 20240215
+Docket: 2021-883(EI)
+BETWEEN:
+KICHTON CONTRACTING LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+RUSSELL GISELBRECHT,
+Intervenor.
+REASONS FOR JUDGMENT
+Jorré J.
+Introduction
+[1] Kichton Contracting, the Appellant, appeals from a determination by the Minister of National Revenue that Russ Giselbrecht, the Intervenor, was in insurable employment during the period January 7, 2019 to February 20, 2020.[2]
+[2] The Intervenor, worked for the Appellant, from 2002 until February 20, 2022.
+[3] There is no suggestion that the Intervenor was an independent contractor rather than an employee.
+[4] The issue here is whether the Intervenor was excluded from insurable employment for purposes of the Employment Insurance Act by reason of paragraph 5(2)(i) of that Act. It states:
+Insurable employment does not include
+…
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+[5] In applying Paragraph 5(2)(i) one must take account of subsection 5(3) of that Act:
+For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+(Emphasis added)
+[6] Subsection 251(1) of the Income Tax Act sets provides that:
+For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm's length;
+(b) … and[3]
+(c) in any other case, it is a question of fact whether persons not related to each other are, at a particular time, dealing with each other at arm's length.
+[7] There is no suggestion that the Appellant and Intervenor are related persons within the meaning of paragraph 251(1)(a). Accordingly, as directed by paragraph 251(1)(c) one must determine if the Appellant and the Intervenor are dealing at arm’s length during the period in issue.[4]
+[8] If they are at arm’s length, that is the end of the matter and the Intervenor is in insurable employment.
+[9] If they are not dealing at arm’s length, subsection 5(3)(b) of the Employment Insurance Act has no application given that the Appellant and the Intervenor are not related persons.
+[10] However, while the perspective is different, considerations contained in subsection 5(3)(b) of the Employment Insurance Act are relevant to the determination of whether the parties are factually at arm’s length.[5]
+The Facts
+[11] The Appellant was started in 1963 by Mike Kichton. Ownership evolved over time and in the first half of the 1990s Fred Kichton and Mike Kichton Junior took over the company. By 2002 Fred Kichton was the sole owner.[6]
+[12] The Appellant is in the business of providing commercial, industrial and residential earthmoving and related services.
+[13] The Intervenor started working for the appellant in 2002 during the summer months. He began operating equipment; his recollection is that even during his first summer he was an operating foreman. Around 2006 Fred asked the Intervenor to start working full time. He subsequently became a senior project manager, one of the most senior positions in the company.
+[14] In 2007 the Intervenor became a shareholder. At that time he acquired 10% of the shares of the Appellant.
+[15] Fred Kichton was the President of the company.[7]
+[16] The Intervenor never became a director.
+[17] The Intervenor and Fred got along very well. The Intervenor described Fred as being “like a father figure” with a good relationship that continued until late 2019. He was fired on February 20, 2020.[8]
+[18] Although it is not clear when, at some point before April 2013, Fred started planning and executing arrangements for his eventual retirement and for turning over the Appellant company to key individuals in the company including his son, Richard Kichton, and the Intervenor.
+[19] Richard and Fred Kichton were related persons within the meaning of the Income Tax Act.[9]
+[20] Part of Fred’s exiting the company involved a buy back of Fred’s shares by the Appellant. While the evidence does not disclose the details of the transaction, it resulted in $7.4 million becoming payable to his company, Fredco. This loan, the Fredco loan, is referred to in the Unanimous Shareholder Agreement.[10]
+[21] The loan was payable over 7 years resulting in an expected final payment in 2020.
+[22] As previously stated Fred was the President of the Appellant. In addition, until such time as the loan was paid off, the Unanimous Shareholder Agreement provided Fred with very significant powers over the company.
+[23] Under the Unanimous Shareholder Agreement Fredco could “… veto, repeal, otherwise reverse any resolution or decision of the Directors or any officer or employee of the corporation, previously, or about to be made …”[11]
+[24] Dividends could not be declared without Fred’s consent.[12]
+[25] By the time of the effective date of the Unanimous Shareholder Agreement, April 2, 2013, Fred no longer had any shares of the company; however, he and his company, Fredco, were signatories of the agreement.
+[26] The shareholders at that date were: 1) the Intervenor who, directly or through a company[13] owned jointly with his spouse, owned 20% of the shares of Appellant, 2) Richard Kichton who directly or through a company owned 25% of the shares of the Appellant, 3) Christopher Dirks who directly or through a company owned 25% of the shares of the appellant and 4) Laurie Conrad who directly or through a company owned 20% of the shares of the Appellant. In addition Matus Toth and Cody Williams each had 5%.[14]
+[27] The owners were also key employees.
+[28] The Notice of Appeal alleges that the Intervenor and the other shareholders had the ability to determine their own salaries and the amount of dividends they would receive. That was admitted by the respondent but not the Intervenor.[15]
+[29] While the respondent admitted those allegations, the corresponding assumptions made by the respondent were phrased somewhat differently. They said the Intervenor and the other shareholders of the appellant collectively determined the terms and conditions of employment the Intervenor.[16]
+[30] With respect to salary, while the evidence is not entirely consistent, I have reached the conclusion that there was some kind of largely collective decision-making involving the owners and Fred with respect to the salaries and dividends of the employee owners including the Intervenor. I have no doubt that given Fred’s rights under the Unanimous shareholders Agreement[17] as well as his role as President, his views would have carried great weight in such discussions.[18]
+[31] The Intervenor was content to go along with whatever decisions were made as to the optimal division at to what he and other owners would receive as salary, bonus or dividends.[19]
+[32] Indeed, the Intervenor agreed in cross-examination that he and the other employees would receive varying salary and/or dividends with the understanding that lower remuneration in the bad years would be offset by varying salary and/or dividends in the good years.[20]
+[33] The Intervenor was in a unique position. All the project managers reported to him, including Grant Campbell.[21]
+[34] Under the Unanimous Shareholders Agreement any shareholder who ceases to be a shareholder is deemed to have resigned from their employment without any right of compensation.[22] The Intervenor had been an employee of the company for quite a long time before he signed the USA and thereby agreed to this condition.
+[35] The Unanimous Shareholders Agreement provides that the corporation may require shareholders to loan money to the corporation[23] and may require shareholders to provide guarantees of the corporation to banks and lenders[24]
+[36] Sometime around 2010 the Appellant did earthworks for another company[25] that was developing a subdivision. The Appellant was paid with lots in the subdivision.
+[37] Some of these lots were transferred to the owners and Fred although the transfers were not all done in the same year. Eventually, the owners lived in that subdivision.
+[38] The transfer of the lots to employees was done by declaring bonuses equal to the value of the lot. In the Intervenor’s case this occurred in 2014.[26]
+Analysis
+[39] It is well accepted in the income tax context the question of whether persons who are not related are dealing with each other at arm’s length should be examined by considering the following questions[27]:
+was there a common mind which directs the bargaining for both parties to a transaction,
+were the parties to a transaction acting in concert without separate interests and
+was there “de facto” control?[28]
+[40] It is recognized by this court that it is difficult to apply this kind of analysis, which was developed in examining transactions for income tax purposes, in the context of examining whether people in employment relationships are at arm’s length from their employer.[29]
+[41] It is also accepted that one may examine all the circumstances of the employment relationship to determine whether the terms and conditions of the employment relationship are substantially similar to those which parties at arm’s length would agree upon.[30]
+[42] If the terms and conditions of employment are far removed from what one can expect between arm’s length parties that is a strong indication of not dealing at arm’s length.[31]
+[43] This exercise can be a difficult one. If a particular individual has a position which is one a number of very similar positons the exercise can be quite straightforward but the more unique the position the more difficult the exercise.
+[44] The parties pointed out particular examples of certain terms and conditions that were, or were not, in their submission, consistent with an arm’s length arrangement.
+[45] In examining whether or not the terms and conditions are substantially similar to those that would exist in an arm’s length relationship it is important to keep in mind two considerations.
+[46] First, one must compare substantially similar positions. One would expect the terms and conditions of an equipment operator to be different from those of a project manager, for example. If some types of skills are in short supply that may result in different levels of remuneration for such positions as compared to otherwise similar positions not requiring those skills and not in short supply.
+[47] Similarly, differences between employees that relate to their role in a company or that do not increase their remuneration, whether in salary or benefits, are not relevant to this exercise.[32]
+[48] Secondly, if a difference with other employees is solely the result of his being a shareholder that is not a term or condition of employment.
+[49] Thus the fact that the Intervenor made shareholder loans to the company and provided bank guarantees, something that the company could require under the Unanimous Shareholder Agreement are not part of the employment relationship.[33]
+[50] With respect to the traditional tests, on the evidence, I do not see how it can be said that there is a common mind directing both the appellant and the Intervenor setting the terms and conditions of the Intervenor’s employment. Similarly I do not see how one could conclude that either the appellant or the Intervenor has de facto control of the other.
+[51] With respect to the remaining test, the owner employees, including the Intervenor, and Fred are acting in concert in setting the remuneration of owner employees and with respect to the split between remuneration of the owners and dividends.
+[52] In so doing they are acting without separate interests because they are taking account of each others interests as employees and as shareholders and acting not only for their own individual benefit but also for the benefit of the others in a context of reciprocity.[34]
+[53] This leads to the conclusion that Appellant and the Intervenor were not at arm’s length.
+[54] Turning to the terms and conditions of employment, there are a number of factors not previously discussed that do not point clearly one way or the other.
+[55] For example, the Intervenor had a salary less than Grant Campbell, a person who reported to the Appellant. However, when one takes account of salary and bonuses the Intervenor he clearly received higher remuneration in the years we can compare. That is not an unusual result.[35]
+[56] In addition it appears that the Intervenor had what he referred as a $25,000 spending account. If I understand correctly the evidence this meant that he could use for personal purposes some of the Appellant’s earthmoving equipment for up to a certain amount of usage equal to that amount. He did make use of equipment. This is an unusual benefit but some benefits relate to the type of business one works in. It has value and increases his remuneration but it does not appear to me clear that the overall remuneration is excessive to the point of demonstrating that the terms and conditions could not be arm’s length terms and conditions.[36]
+[57] There was evidence that there were somewhat more flexible work arrangements with respect to time and place of work of the intervenor. This is not uncommon where an employer is dealing with a trusted senior employee so long as the job is getting done and the individual is physically present when in person interaction is needed. Arm’s length parties could certainly have agreed on such terms. [37]
+[58] There are three factors that are not consistent with a contract substantially similar to the one that persons at arm’s length would agree upon.
+The Intervenor’s acceptance of very significantly varying remuneration on the basis that lower remuneration in bad years of the business will be offset by higher remuneration and/or dividends in good years.[38]
+The fact that the Intervenor as an employee has a say on the employer’s side of the bargain even if that say is limited.
+Agreeing to one’s automatic termination as an employee if one ceases to own shares is not something that an arm’s length employee would agree to.[39]
+[59] These factors lead me to conclude that overall the terms and conditions of this contract are not substantially similar to those one would fin in an arm’s length contract.
+Conclusion
+[60] Consequently, the Intervenor and the Appellant are not dealing at arm’s length and the appeal will be allowed and:
+The decision of the Minister of National Revenue is varied to reflect that Russ Giselbrecht was not in insurable employment for the period January 7, 2019 to February 20, 2020.
+Signed at Ottawa, Canada, this 15th day of February 2024.
+“G. Jorré”
+Jorré J.
+CITATION:
+2024 TCC 20
+COURT FILE NO.:
+2021-883(EI)
+STYLE OF CAUSE:
+KICHTON CONTRACTING LTD. AND THE MINISTER OF NATIONAL REVENUE AND RUSSELL GISELBRECHT
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+March 8 and 9, 2023, at Edmonton, Alberta, and by teleconference on May 24, 2023.
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré, Deputy Judge
+DATE OF JUDGMENT:
+February 15, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Gergely Hegedus
+Kurtis Letwin
+Counsel for the Respondent:
+Allison Murray Banerjee
+For the Intervenor:
+The Intervenor himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Gergely Hegedus Kurtis Letwin
+Firm:
+Dentons Canada LLP Ottawa, Canada
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] See: 0808498 BC LTD. v. M.N.R. 2023 TCC 53 at paragraph 99.
+[2] Like all employment insurance appeals, this appeal is heard under a modified form of the Informal Procedure. See paragraph 18.29 of the Tax Court of Canada Act and the Tax Court of Canada Rules of Procedure respecting the Employment Insurance Act. Among the applicable provisions is subsection 18.15(3) which states: …the Court is not bound by any legal or technical rules of evidence in conducting a hearing and the appeal shall be dealt with by the Court as informally and expeditiously as the circumstances and considerations of fairness permit.
+[3] This paragraph relates to taxpayers and personal trusts and has no relevance to this appeal.
+[4] Relevant facts prior to the period provide context to the relationships and may be consider in making the determination.
+[5] See discussion below.
+[6] Transcript of the 8 March 2023 hearing, p.177.
+[7] Transcript of the 8 March 2023 hearing, p.17.]
+[8] Transcript of the 8 March 2023, p.63.
+[9] No one else relevant to the issues in this appeal was related within the meaning of the ITA.
+[10] See Transcript of the 8 March 2023 hearing, p.66 and 167 as well as the definition of “Fredco Loans” on page 4 of Exhibit R-1, Tab 4.
+[11] See Article 3.02.02 of the Unanimous Shareholder Agreement, on page 12 of Exhibit R-1, Tab 4 as well as Article 1.01.01(ff) at page 6 of that Agreement. There are other places where that agreement provides Fred with other special powers, notably at articles 6.01.05 and .06 as well as 9.03.02(b) the Agreement.
+[12] See Article 9.02.02 of the Unanimous Shareholder Agreement.
+[13] The appellant owned all of the voting shares of that company.
+[14] Transcript of the 8 March 2023 hearing, p.208 and 210. It would appear that Cody Williams ceased to be a shareholder in the middle of 2019 and Matus Toth may have ceased to be a shareholder before that.
+[15] See paragraphs 10 and 11 of the Notice of Appeal, paragraph 2 of the Reply to Notice of Appeal and paragraph 20 of the Notice of intervention.
+[16] See subparagraphs 13c, q and s of the Reply to Notice of Appeal.
+[17] The USA is in exhibit R-1, Tab 4.
+[18] While the Intervenor stated that he did not feel that he had much influence, he did agree that the salaries resulted from a discussion among the owners and Fred where they all went along with what was fair. Richard Kichton also testified that salaries and dividends were determined as a group. See transcript of the 8 March 2023, pages 17, 18 and 157.
+[19] See transcript of the 8 March 2023 hearing, pages 77, 78 (especially in the middle of the page), and 112, as well as 94, 95 with respect to the transfer of the lots to, among others, the employee owners, a subject I shall discuss later.
+[20] See, inter alia, the transcript of the 8 March 2023, pages 164 and 165.
+[21] Testimony of Richard Kichton, transcript of the 8 March 2023, page 118. Although Mr. Campbell became a Senior Project Manager, the same title as the Intervenor, on or about 27 February 2018, it is clear from the offer letter that he reported “directly to Russ Giselbrecht, with additional reporting to the ownership group.” It may well be that the management of the project managers was light because everyone knew their role and performed it well but it is quite clear that there was a line of authority when needed. See also exhibit A-4.
+[22] See article 9.16.01 of the Unanimous Shareholders Agreement.
+[23] Article 9.07.03
+[24] Article 9.08.01
+[25] A numbered company of which the Intervenor was a shareholder.
+[26] See transcript of the 8 March 2023 hearing at pages 36, 49 to 51, 94, 95, 161 and 215. While the Intervenor’s recollection was that there were probably dividends equal to the value of the lots, Laurie Conrad’s recollection was that it was by way of bonus equal to the value of the lots. On this point I accept Laurie Conrad’s evidence because she was the Corporate Controller of the Appellant and it is consistent with the T4s and T5s in evidence: see Exhibits A-2 and A-3. Some documents show Laurie Conrad as Laurie Schreiner; both names are the same person.
+[27] Canada v. McLarty, 2008 SCC 26 (CanLII), [2008] 2 SCR 79 at paragraph 62.
+[28] i.e. one person directing both sides of the transaction. See Keybrand Foods Inc. v. Canada, 2020 FCA 201 at paragraphs 50 to 53.
+[29] See Martel v. M.N.R., 2017 TCC 238 at paragraphs 63 to 65.
+[30] See Martel v. M.N.R., 2017 TCC 238 at paragraph 66. While at first this may seem surprising as an approach, I would note that this is done in other areas as well for example, see Canada v. Microbjo Properties Inc., 2023 FCA 157 at paragraphs 78 to 90.]
+[31] See Canada v. Microbjo Properties Inc., 2023 FCA 157 at paragraph 84 by analogy.
+[32] Thus, the provision of a credit card to pay for business expenses is not relevant to the examination given that it has not been shown that it was provided to the Intervenor to allow him to incur personal expenses. Similarly, the fact that he had a key that gave him access to more of the office than others had does not confer any benefit forming part of remuneration for him and does not assist the examination. Also, if he received the key qua shareholder it is not relevant. There is no need to determine in which capacity he received the key.
+[33] The shareholder loans were done by journal entries; dividends or bonuses were declared and then loaned back to the company. The Intervenor believes it was done by dividend; see transcript of the 8 March 2023, pages 52 and 53.
+[34] See Gestion Yvan Drouin Inc. v. The Queen, 2000 CanLII 407 (TCC) at paragraph 75.
+[35] In the years 2017, 2018 and 2019 Grant Campbell earned more in two of those years; however, in the remaining year the Intervenor’s total remuneration was such that for the three years as a whole the Intervenor earned roughly $67,000 more than Mr. Campbell. Because the Intervenor was fired early in 2020 one can not make any comparison in that year. There is no data on Mr. Campbell’s earnings prior to 2017.
+[36] See transcript of the 8 March 2023 hearing at pages 125 to 128. It appears that he was not the only owner employee with such a spending account. There was evidence that other employees could also use equipment for personal purposes but not to the same extent and not with respect to very big equipment; their use was subject to more controls. It is not uncommon for more senior employees to be given greater latitude.
+Also, to the extent that it may have been suggested that there was use in excess of what was permitted that would be outside of the employment contract.
+It may be that use of the equipment was a shareholder benefit, in which case, the use would not be relevant.
+[37] Another area the evidence does not allow one to draw conclusions is the evidence relating to travel and sports tickets. Unfortunately, while there is evidence of differences between employees, it is not clear to what extent those result from different roles in relation to business promotion and client relations. Nor is it clear which of those expenses are employee benefits and to what extent the Appellant was a beneficiary as opposed to others.
+[38] I note that this is not like a remuneration package where there is a clear profit sharing scheme or bonuses based on individual performance. The Intervenor’s remuneration is conveniently set out in the right hand column for each year on the last line of the table in Schedule A to the Notice of appeal. Those numbers are supported by Exhibit A 2.
+[39] In addition, receiving a large bonus in the form of a subdivision lot in the context of the Appellant having received payments in lots for its services is not what would be an arm’s length contract.

@@ -1,0 +1,186 @@
+---
+title: "Côté v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26055/index.do"
+last_modified: "2004-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 352"
+citation2: ""
+neutral_citation: "2004 TCC 352"
+decision_date: "2004-05-20"
+language: "en"
+item_id: "26055"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4050
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:25:28.557000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0e1fd632df63b778d08586f90227c5c90a9d47762af345a00f474f73b4bf06f2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Côté v. M.N.R.
+
+- Citation: 2004 TCC 352
+- Decision date: 2004-05-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4050, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Côté v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-20
+Neutral citation
+2004 TCC 352
+File numbers
+2003-2263(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-2263(EI)
+BETWEEN:
+ESTHER CÔTÉ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard February 23, 2004, at Montréal, Quebec
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 20th day of May 2004.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 31st day of March 2009.
+Elizabeth Tan, Translator
+Citation: 2004TCC352
+Date: 20040520
+Docket: 2003-2263(EI)
+BETWEEN:
+ESTHER CÔTÉ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie D.J.
+[1] This appeal was heard at Montréal, Quebec, on February 23, 2004.
+[2] The appeal is in regard to the Appellant's amount of insurable earnings and number of insurable hours during her employment with the Centre d'économie en chauffage Turcotte Inc., the Payor, during the period in question, May 7 to November 30, 2001.
+[3] On March 17, 2003, the Minister of National Revenue (the Minister) informed the Appellant of his decision that the insurable earnings and number of insurable hours accumulated during the period in question were $3,140.92 and 282.75 hours.
+[4] When rendering his decision, the Minister relied on the presumptions of fact found at paragraph 5 of the Reply to the Notice of Appeal, admitted or denied by the Appellant as follows:
+[translation]
+(a) The Payor operates a company that specializes in heating and air conditioning. (admitted)
+(b) On May 7, 2001, the Appellant was hired as administrative assistant. (admitted)
+(c) During the period in question, the Appellant's earnings were paid at $10 an hour. (admitted)
+(d) Starting on July 2, 2001, the Appellant was on work stoppage for a period of five weeks. (denied)
+(e) As a result, on August 21, 2001, the Payor issued her a record of employment indicating insurable earnings and insurable hours of $1,827.50 and 182.75 hours. (denied)
+(f) On September 4, 2001, the Payor issued a second record of employment, indicating insurable earnings of $73.10, attributed to 4% vacation. (denied)
+(g) On November 12, 2001, the Payor issued a third record of employment, indicating insurable earnings of $195.32, attributed to one week's notice. (denied)
+(h) On or around August 8, 2001, when the Appellant returned to work, the Payor advised her that her position had been abolished and that she would be included on a call-back list. (denied)
+(i) From August 8 to November 30, 2001, the Appellant worked approximately 100 hours on behalf of the Payor, performing various tasks including those of accounting clerk and phone operator. (denied)
+(j) On August 31, 2001, the Appellant filed a complaint with the Commission des normes du travail. (admitted)
+(k) Further to this complaint, the parties settled the issue between them. (admitted)
+(l) The Payor gave the Appellant a gross lump-sum payment of $4,000. (denied)
+(m) This payment was established based on the hours the Appellant would have worked during the period, which normally would have totalled 444 hours. (denied)
+(n) When establishing the insurable hours, the Minister considered that the hours actually worked and for which the Appellant was paid totalled 282.75 hours: (denied)
+Period of 7/5/01 to 2/7/01: 182.75 hours
+Period of 3/7/01 to 30/11/01: 100.00 hours
+Total: 282.75 hours
+(o) In establishing the insurable earnings, the Minister added $1,000 to the amounts indicated in the three records of employment the Payor issued, for $2,140.92. The extra amount represented part of the lump-sum payment for the 100 hours the Appellant worked: (denied)
+Salary for 7/5/01 to 2/7/01: $1,827.50
+Vacation: $73.10
+Notice: $195.32
+Salary for 3/7/01 to 30/11/01
+(100 hrs x $10.00): $1,000.00
+Total: $3,140.92
+(q)[sic]The $3,000 representing the lump-sum amount was excluded from the insurable earnings because it was paid following the loss of employment. (denied)
+[5] At the hearing, the Appellant made some clarifications to the Minister's assumptions at paragraph 5 of the Reply to the Notice of Appeal. Regarding the assumption at subparagraph 5(d), she stated that the work stoppage began on July 3, 2001; regarding assumption 5(e), she stated that the record of employment in question was not given to her before November 2001; regarding assumption 5(f), she stated that this record of employment was only given to her on November 9, 2001, after the mediation; regarding assumption 5(g), she stated that this record of employment was given to her four or five days after November 9, 2001, and added that she never resigned from her job; regarding assumption 5(h), she stated that she was not advised of the restructuration of the company or that her position was abolished and added that the Payor had posted her position in the newspaper; this was a position for which she was qualified; regarding assumption 5(i), she denied that she worked during this period; regarding assumption 5(l), she stated that the $4,000 the Payor paid was more than a lump-sum payment; regarding assumption 5(m), she stated that she had the right to 476 insurable hours and $4,760 of insurable earnings during the period in question. However, it must be noted that the Appellant was already compensated for 444 hours, as shown by the document, "Leaving Slip Transaction" (Exhibit I-1), which indicates that according to her own calculations, the only period not recognized as insurable was 32 hours. Moreover, she admitted she did not work during the period of August 8 to November 30, 2001. The Minister's assumptions at subparagraphs 5(n), (o) and (q) were established at the hearing.
+[6] This court ruled on a similar case, Moreau v. Canada (Minister of National Revenue - M.N.R.), [2000] T.C.J. No. 280. It is relevant to cite Tardif J., who stated:
+The facts in this case are very simple and not the least bit confusing and do not lend themselves to interpretation. They may be summarized as follows: the appellant's position was eliminated; the time at which her employment was terminated coincided with the time when she was able to resume her work. As she had worked for the same employer for 10 years, that employer, in a gesture of appreciation and cooperation, paid her severance corresponding to three months' wages, believing, after checking with the respondent's representatives, that this would qualify the appellant for employment insurance benefits. It was admitted and acknowledged that this was compensation, as the appellant had performed no work in consideration of this lump sum amount.
+Of course, the appellant and her employer could have agreed to have her go to the office every day and perform various tasks or duties during the period covered by the compensation, in which case the hours put in would actually have been hours worked. The amount paid would essentially have been wages paid for work actually performed or, in other words, for hours actually worked.
+However, both the testimony and documentary evidence clearly show that this amount was compensation equal to three months' wages paid in consideration of faithful service rendered by the appellant to her employer over 10 years. The appellant's case is especially compelling since she is in a way a victim of the transition period resulting from the major changes to the Act.
+This observation is unfortunately insufficient to qualify the appellant for employment insurance benefits, particularly since the Act is very clear.
+[7] In this case, the Appellant received $4,000 as a lump-sum payment considering the hours worked during the period in question would normally have totalled 444. These facts are established in the document, "Leaving Slip Transaction" (Exhibit I-1) submitted at the hearing. This document, signed by the Appellant and the Payor, constitutes a receipt and confirms the Minister's assumptions at subparagraphs 5(l) and (m).
+[8] In her testimony, the Appellant presented many facts indicating her good will and sincerity. It is certainly true that in other circumstances, she might have had better luck, but although her case generates sympathy, the role of this Court must not be confused with that of the Labour Board, where the Appellant had filed a complaint. Further to that complaint, an agreement was entered into by the Appellant and the Payor.
+[9] The duty of this Court, in this case, is to review the Minister's determination of the Appellant's insurable hours and earnings. It is guided in this task by the following legislative provisions:
+Insurable Earnings and Collection of Premiums Regulations
+1.(1) The definitions in this subsection apply in these Regulations.
+“Act” means the Employment Insurance Act. (Loi)
+"Minister" means the Minister of National Revenue. (ministre)
+"pay period" means the period in respect of which earnings are paid to or enjoyed by an insured person. (période de paie)
+"retiring allowance" means an amount received by a person
+(a) on or after retirement of the person from an office or employment in recognition of the person's long service, or
+(b) in respect of a loss of an office or employment of the person, whether or not received as, on account or in lieu of payment of, damages or pursuant to an order or judgment of a competent tribunal. (allocation de retraite)
+[10] It was established that the Appellant received a $4,000 benefit as compensation for the loss of her employment. Exhibit I-1 confirms this.
+[11] Parliament clearly expressed requirements for "insurable employment". Section 9.1 of the Employment Insurance Regulations states:
+Where a person's earnings are paid on an hourly basis, the person is considered to have worked in insurable employment for the number or hours that the person actually worked and for which the person was remunerated.
+[12] In determining this case, the following, from subsection 2(2) of the Insurable Earnings and Collection of Premiums Regulations must be considered:
+…the total amount of earnings that an insured person has…except for any unpaid amount that is in respect of overtime or that would have been paid by reason of termination of the employment.
+[13] The Minister's duty when making this determination is therefore not arbitrary. In this Court's opinion, the Minister fulfilled his duty according to the provisions of the Employment Insurance Act and the evidence submitted at the hearing does not at all justify the Court's intervention in the Minister's decision.
+[14] The Court must therefore find that the amount of insurable earnings is $3,140.92 and the number of insurable hours, 282.75.
+[15] As a result, the appeal is dismissed and the Minister's decision is affirmed.
+Signed at Grand-Barachois, New Brunswick, this 20th day of May 2004.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 31st day of March 2009.
+Elizabeth Tan, Translator
+CITATION:
+2004TCC352
+COURT FILE NO.:
+2003-2263(EI)
+STYLE OF CAUSE:
+Esther Côté and M.N.R.
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+February 23, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable S.J. Savoie, Deputy Judge
+DATE OF JUDGMENT:
+May 20, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+For the Respondent:
+Simon-Nicolas Crépin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

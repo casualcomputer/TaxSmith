@@ -1,0 +1,187 @@
+Title: Stepanoff c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27188/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-67-27188-stepanoff-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-02-07
+
+# Stepanoff c. La Reine
+
+- Citation: 2006 CCI 67
+- Decision date: 2006-02-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 991, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stepanoff c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-02-07
+Référence neutre
+2006 CCI 67
+Numéro de dossier
+2003-1207(IT)G
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1207(IT)G
+ENTRE :
+VLADIMIR STEPANOFF,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus le 23 septembre et le 3 octobre 2005, à Montréal (Québec).
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même
+Avocat de l'intimée :
+Me George Boyd Aitken
+________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'égard des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1993 à 1997 sont rejetés, avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 7e jour de février 2006.
+« Louise Lamarre Proulx »
+Le juge Lamarre Proulx
+Traduction certifiée conforme
+ce 20e jour de juin 2008.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI67
+Date : 20060207
+Dossier : 2003-1207(IT)G
+ENTRE :
+VLADIMIR STEPANOFF,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Lamarre Proulx
+[1] Les présents appels visent les années d'imposition 1993 à 1997. Cependant, les questions en litige soulevées en l'espèce concernent trois années, à savoir les années d'imposition 1995 à 1997.
+Premier point en litige, année 1995 : La somme reçue s'apparente‑t‑elle à des redevances ou à un produit de disposition?
+[2] Le 24 mai 1991, l'appelant, faisant affaire sous le nom de CyberPlan, Enrg. (« CyberPlan »), a conclu un contrat de licence avec Raconix Corporation (« Raconix ») (pièce R‑2). Pendant l'année d'imposition 1993, l'appelant a reçu 331 821 $ de Raconix. L'appelant n'a pas déclaré cette somme dans sa déclaration de revenus pour 1993.
+[3] La cotisation relative à l'année 1995 a été établie en conformité avec une demande de redressement présentée par l'appelant en 1998 à l'égard des années 1993 et 1995 (onglet 14 de la pièce R‑1). La partie pertinente de cette demande est ainsi rédigée :
+[TRADUCTION]
+Demande de redressement
+[...]
+Je demande l'autorisation de redresser ma déclaration de revenus pour 1993 de manière à défalquer du revenu le montant en cause, soit les redevances par anticipation de 331 821 $, et à comptabiliser ce montant à titre de revenu dans mon année d'imposition 1995. Je demande également que l'intérêt que j'ai payé jusqu'à présent pour l'année d'imposition 1993 soit porté au crédit de mon compte.
+[4] Le ministre a redressé le revenu imposable de l'appelant pour ses années d'imposition 1993 et 1995 en déduisant la somme de 331 821 $ du revenu imposable de l'appelant pour l'année d'imposition 1993 et en l'incluant dans le revenu pour l'année d'imposition 1995.
+[5] L'appelant soutient maintenant que cette somme devrait être traitée comme une immobilisation et non comme revenu. L'appelant avance que cette somme a été payée en contrepartie de la vente, à Raconix, de logiciels ainsi que de secrets commerciaux, de savoir‑faire et de pratiques commerciales connexes. Le contrat de licence qu'il a signé et par lequel il a accordé une licence exclusive d'une durée de 99 ans à Raconix (conformément à la clause 4.01) équivalait à la vente de ces produits.
+[6] La clause 5 explicite les avances au titre des redevances et les redevances que Raconix doit payer à l'appelant. Les redevances devaient être payées chaque mois. Les clauses pertinentes sont ainsi libellées :
+[TRADUCTION]
+5.01 Avances à CyberPlan : Raconix s'engage à payer les avances mentionnées à l'annexe « A » à CyberPlan lorsque les conditions afférentes à chacun de ces paiements énoncés à l'annexe « A » seront respectées. Chacun de ces paiements constitue une avance sur les premiers paiements de redevances devant être versés par Raconix à CyberPlan conformément à la présente entente et doit être porté au crédit de ces premiers paiements. Aucun paiement ne sera versé à CyberPlan suivant les articles 3.06, 5.02 et 5.03 tant que toutes les avances n'auront pas été utilisées et appliquées.
+5.02 Redevances : Raconix s'engage à payer à CyberPlan une redevance correspondant soit à 50 pour 100 des droits de licence bruts perçus par Raconix, soit aux droits minimaux, si ces derniers sont plus élevés. Ces droits doivent être payés à CyberPlan chaque mois. Au plus tard le 15e jour de chaque mois, Raconix doit remettre à CyberPlan un relevé précisant les droits de licence bruts reçus par Raconix au cours du mois précédent; ce relevé doit être accompagné du paiement des droits que Raconix doit à ce titre à CyberPlan. Pour l'application de la présente entente, l'expression « droits de licence bruts » s'entend de l'ensemble des droits perçus par Raconix auprès de clients en contrepartie de l'octroi, à ces clients, d'une ou de plusieurs licences d'emploi d'un quelconque logiciel CyberPlan. Les droits de licence bruts englobent tous les droits perçus par Raconix auprès de clients qui acceptent que le logiciel CyberPlan fasse l'objet d'essais dans leurs locaux. L'expression « droits de licence bruts » ne vise pas les droits énoncés ci‑après, ou ces derniers seront déduits des droits de licence bruts, selon le cas :
+[...]
+5.04 Droits minimaux : Raconix a toute latitude pour fixer les droits qu'elle décide d'exiger de ses clients en contrepartie de l'octroi, à ces derniers, d'une ou de plusieurs licences d'emploi d'un quelconque logiciel CyberPlan. Les parties prévoient que les droits exigés au titre des licences diminueront au fil du temps, au fur et à mesure que la demande touchant les logiciels CyberPlan sera satisfaite sur le marché haut de gamme. Raconix doit verser à CyberPlan, suivant les modalités énoncées ci‑après, des droits minimaux (les « droits minimaux ») relativement aux licences qu'elle accorde à ses clients :
+(a) Initialement, les droits minimaux sont calculés conformément à l'annexe « C ». Ces droits minimaux ont été fixés à 25 pour 100 de la valeur marchande estimative des licences accordées.
+(b) Une fois qu'elle a entrepris la commercialisation d'un quelconque logiciel CyberPlan, Raconix peut demander que les droits minimaux applicables au titre de ce logiciel CyberPlan soient révisés. Après une demande en ce sens, les parties réviseront les droits minimaux applicables à ce logiciel CyberPlan en vue de fixer les droits minimaux au taux de 25 pour 100 de la valeur marchande des licences accordées. [...]
+[7] La clause 4.02 donne un aperçu des événements assimilés à un manquement en vertu du contrat de licence, y compris le non‑paiement des redevances ou des avances au titre des redevances. Voici le texte de cette clause :
+[TRADUCTION]
+4.02 Manquement : Constituent un manquement les situations où une partie aux présentes (la « partie défaillante ») :
+[...]
+(d) si Raconix omet de payer à CyberPlan, conformément à la présente entente, en tant que redevances ou avances au titre des redevances (le « montant global des paiements »), à tout le moins les sommes minimales suivantes (la « somme minimale ») pour les années précisées;
+(i) la somme de 450 000 $ pendant la période (l'« année 1 ») débutant à la date de la signature de la présente entente et se terminant au dernier en date des jours suivants :
+(A) le jour du premier anniversaire de la présente entente,
+(B) le jour où toutes les conditions afférentes aux livraisons et acceptations prévues à l'annexe « A » sont remplies;
+(ii) la somme de 675 000 $ pendant l'année suivant l'année 1 (l'« année 2 »);
+(iii) la somme égale au moindre des montants suivants pendant n'importe quelle année suivant l'année 2 :
+(A) 60 pour 100 du montant global des paiements pour l'année précédente,
+(B) 60 pour 100 du montant global des paiements pour l'année en cause selon le budget établi relativement à celle‑ci par Raconix et que Vladimir Stepanoff aura eu l'occasion d'examiner en détail.
+Cependant, la somme par laquelle le montant global des paiements pour l'année 2 ou toute année subséquente excède la somme minimale pour cette année doit être ajoutée au montant global des paiements pour l'année subséquente pour déterminer si la somme minimale a été payée au cours de cette année subséquente. Raconix se réserve le droit de faire un paiement volontaire à CyberPlan pendant n'importe quelle année et ce paiement volontaire sera ajouté au montant global des paiements pour l'année en question.
+[8] La clause 4.02 de l'entente prévoit donc que la somme minimale due à CyberPlan pour l'année 1 se chiffre à 450 000 $. Selon le bilan de CyberPlan, qui figure à l'onglet 15 de la pièce R‑1, la somme en litige de 331 821 $ est inscrite à titre [TRADUCTION] d'« avances » sous la rubrique intitulée [TRADUCTION] « Redevances » et fait partie de la redevance minimale de 450 000 $.
+[9] L'appelant a renvoyé au bulletin d'interprétation IT‑386R, qui s'intitule « Montants en immobilisations admissibles », et en particulier à l'exemple donné à l'alinéa 2d) de ce document. Selon cet exemple, en présence d'une vente inconditionnelle d'une connaissance d'un procédé, le produit de cette vente constitue un produit de disposition à titre de capital.
+[10] Dans l'arrêt Murray v. Imperial Chemical Industries Ltd., [1967] 2 All E.R. 980, le maître des rôles lord Denning résume, à la page 983, comment les paiements de redevances doivent être traités :
+[TRADUCTION]
+[...] Il me paraît plutôt bien établi que dans la mesure où un homme cède, à titre définitif, des droits attachés à un brevet (c.‑à‑d. par voie d'une cession de son brevet ou de l'octroi d'une licence exclusive) et reçoit en contrepartie des redevances calculées en fonction de l'usage réel, les redevances constituent manifestement des rentrées de fonds sous forme de revenu. Dans la mesure où il cède ces droits en contrepartie de paiements annuels au cours de la période, lesquels peuvent être à juste titre considérés comme une compensation pour l'usage pendant la période, il s'agit alors également de rentrées de fonds sous forme de revenu (comme le paiement de 2 500 £ par année pendant dix ans dans l'affaire CIR v. British Salmson Aero Engines Ltd, [1938] 3 All E.R. 283, et, bien sûr, les redevances de 10 000 £ par année en l'espèce). Dans la mesure où il cède, à titre définitif, ses droits attachés à un brevet en contrepartie d'une somme forfaire calculée en fonction de l'usage prévu, il s'agira habituellement d'un revenu entre les mains du bénéficiaire (voir le jugement rendu par lord Greene, maître des rôles, dans l'arrêt Nethersole v. Withers (Inspector of Taxes), [1946] 1 All E.R. 711, que le vicomte Simon de la Chambre des lords a approuvé, [1948] 1 All E.R. 400). Par contre, dans la mesure où il cède, à titre définitif, ces droits en contrepartie d'une somme forfaitaire qui ne se fonde nullement sur un usage prévu, il s'agira habituellement d'une immobilisation (comme le paiement de 25 000 £ dans l'affaire British Salmson). La situation est différente lorsqu'un homme, au lieu de céder ses droits attachés au brevet, les conserve et accorde une licence non exclusive. Il ne cède pas alors une immobilisation. Il conserve le bien et s'en sert pour gagner de l'argent. Une somme forfaitaire peut dans ces cas devenir une rentrée de fonds sous forme de revenu (voir l'arrêt Rustproof Metal Window Co, Ltd v. CIR, rendu par lord Greene, maître des rôles, [1947] 2 All E.R. 454, dans lequel on insiste sur le fait que la Cour était saisie d'une licence non exclusive). De même, une somme forfaitaire versée en contrepartie d'un « savoir‑faire » peut constituer une rentrée de fonds sous forme de revenu. Le propriétaire conserve l'immobilisation. Il se contente d'en faire usage.
+[11] Les clauses relatives aux paiements devant être versés à l'appelant font état des redevances et des avances au titre de ces redevances, lesquelles sont calculées en fonction d'un pourcentage des redevances perçues par Raconix auprès des usagers. L'important, c'est la façon de calculer le paiement. Lorsque le paiement se fonde sur l'usage fait du bien visé par la licence, le paiement s'apparente à un revenu. Si le paiement est fixé sans tenir compte de l'usage du bien visé par la licence, le paiement pourrait alors s'apparenter à un paiement au titre d'une immobilisation. En l'espèce, le paiement est calculé en fonction de l'utilisation du bien visé par la licence, comme il est mentionné aux paragraphes 8, 9 et 10 des présents motifs. Il s'agit donc d'un paiement de la nature d'un revenu.
+[12] En conclusion, la somme reçue s'apparente à un revenu et non à une immobilisation.
+Deuxième point en litige : Échange d'actions pendant l'année 1996
+[13] Pour l'année 1996, la question en litige intéresse le prix de base rajusté (le « PBR ») des actions de Transformation Processing Inc. (« TPI ») (Ontario). Selon le ministre, ce prix est nul et la juste valeur marchande des actions de TPI É.‑U. est de 0,67 dollar canadien par action.
+[14] Comme il est mentionné dans la réponse à l'avis d'appel (la « réponse »), le ministre s'est appuyé sur les faits suivants :
+[TRADUCTION]
+a) TPI Ontario a été constituée en société en avril 1996 sous le régime de la Loi canadienne sur les sociétés par actions;
+b) l'appelant était l'un des trois actionnaires fondateurs et il détenait 1,6 million d'actions, soit 33 pour cent des actions émises et en circulation de TPI Ontario;
+c) le prix de base rajusté des actions de TPI Ontario pour l'appelant était de 0 $;
+d) le 20 août 1996, toutes les actions émises et en circulation de TPI Ontario ont été échangées par les actionnaires contre 5 910 050 actions ordinaires de la société Samuel‑Hamman Graphix‑Nevada;
+e) les actions de Samuel‑Hamman Graphix‑Nevada, entreprise constituée en société conformément aux lois du Nevada, étaient, à tous les moments pertinents, cotées à la bourse NASDAQ;
+f) à la suite de l'échange d'actions, l'appelant détenait 29 pour 100 des actions ordinaires de Samuel‑Hamman Graphix‑Nevada;
+g) en mars 1997, Samuel‑Hamman Graphix‑Nevada a changé sa dénomination sociale pour adopter le nom Transformation Processing Inc. (ci‑après « TPI (É.‑U.) »);
+h) en février 1998, TPI (É.‑U.) a fusionné avec TPI Ontario;
+i) en date du 21 août 1996, la juste valeur marchande de chacune des actions ordinaires de Samuel‑Hamman Graphix‑Nevada détenues par l'appelant se chiffrait à 0,67 dollar canadien;
+j) le taux de change du dollar américain en date du 21 août 1996 était de 1,3718;
+k) l'opération visant l'échange d'actions conclue le 20 août 1996 a entraîné, pour l'appelant, un gain en capital sur la disposition réputée de ses actions de TPI Ontario s'élevant à 1 146 574 $, ce qui a donné lieu à un gain en capital imposable de 859 931 $.
+[15] L'appelant reconnaît la véracité des alinéas a), b), d), g), h) et j).
+[16] L'appelant a joint à son recueil de documents, à l'onglet 34, l'analyse effectuée par une fonctionnaire du ministre qui travaille à l'unité de l'Évaluation d'équités d'affaires. Elle est arrivée à la conclusion suivante :
+[TRADUCTION]
+CONCLUSION
+À la lumière des meilleurs renseignements mis à notre disposition, nous estimons qu'une valeur allant de 0,67 $ à 0,92 $ canadien par action constitue un fondement raisonnable pour régler le dossier. Veuillez vous reporter à l'annexe ci‑jointe, laquelle présente l'effet des taux de change et de la moins‑value utilisée en raison des restrictions auxquelles les actions sont assujetties.
+[...]
+[17] L'intimée n'a pas produit ce document à titre de rapport d'expert. Il s'agissait d'une conclusion fondée sur des faits. L'appelant n'a pas tenté de contester cette conclusion par la présentation d'un témoignage d'expert concernant certains éléments de preuve factuels. En fait, il a utilisé la même somme de 0,67 $ par action à titre de PBR des actions de TPI É.‑U. alors que, deux ans plus tard, il s'est départi de ses actions et a déduit une perte en capital. À l'onglet 17 de son recueil de documents (pièce A‑1), l'appelant a joint une copie du cours en bourse des actions qu'il a apparemment obtenu de l'Internet sur un site Web appelé « Yahoo Finance ». Bien que la demande de recherche Internet effectuée par l'appelant ait porté sur la période allant du 11 juillet 1996 au 31 août 2004, il a choisi de ne pas reproduire les résultats antérieurs au 9 novembre 1998.
+[18] Quant au PBR des actions de TPI Ontario, l'appelant a soutenu qu'il avait transféré à TPI (Ontario) le logiciel qu'il avait mis au point. Il a renvoyé à la page 9 d'un document intitulé [TRADUCTION] « Rapport d'évaluation » (onglet 10 de la pièce A‑1) où on mentionne que la valeur du programme d'ordinateur est fixée à 12 600 000 $ américains en date du 1er juillet 1996. Le PBR des actions de TPI Ontario devrait donc être supérieur à zéro.
+[19] Cependant, les états financiers de TPI pour la période se terminant le 31 juillet 1996 (onglet 24 de la pièce R‑1) et ceux portant sur la période allant du 1er août 1996 au 19 août 1996 (onglet 25 de la pièce R‑1) mentionnent des [TRADUCTION] « immobilisations et matériel » et [TRADUCTION] d'« autres éléments d'actif » ne se chiffrant qu'à 368 $ et 2 662 $, respectivement.
+[20] En outre, l'appelant n'a pu préciser à quel endroit, dans ses propres déclarations de revenus, figurait la vente du logiciel s'élevant à une somme de plus d'un million de dollars.
+[21] Il s'agit pour l'essentiel d'une question de fait. Bien que l'appelant ait soutenu qu'il a fourni à TPI (Ontario) un logiciel en contrepartie de ces actions, ce qui a donné lieu à une augmentation du PBR, comme il est mentionné plus haut, il a omis d'étayer cette assertion. Conformément à ce que propose le ministre, j'arrive donc à la conclusion que le PBR des actions de TPI (Ontario) était nul. Ces actions ont été échangées en août 1996 contre des actions ordinaires de Samuel‑Hamman Graphix‑Nevada dont la valeur marchande était de 0,67 $. L'appelant n'a pas présenté d'élément de preuve acceptable à l'effet contraire.
+Troisième point en litige : Intérêts reçus pendant l'année 1997
+[22] Pour l'année 1997, l'appelant a fait l'objet d'une cotisation dans laquelle on a ajouté un revenu d'intérêt de 142 687,21 $ reçu de Transcon S.A. Consultoria Técnica (« Transcon »), une société brésilienne.
+[23] Les faits sur lesquels s'appuie le ministre sont énoncés de la façon suivante dans la réponse :
+[TRADUCTION]
+a) L'appelant a rendu des services à Transcon S.A. − Consultoria Técnica (« Transcon ») pendant la période allant de juin 1978 à avril 1979;
+b) en 1979, Transcon devait à l'appelant la somme de 44 493,82 $ canadiens (31 320,44 $ américains);
+c) l'appelant est entré au Canada le 28 janvier 1986, date à laquelle le taux de change applicable aux dollars américains était de 1,4206;
+d) en 1997, l'appelant a reçu 186 047 $ canadiens de Transcon;
+e) le taux de change moyen applicable aux dollars américains en 1997 était de 1,3844;
+f) au taux de change moyen de 1997, la somme initiale que Transcon devait à l'appelant s'élevait à 43 360,02 $ canadiens;
+g) le paiement reçu par l'appelant englobait la somme initiale exigible de 43 360,02 $ canadiens et un revenu d'intérêt de 142 687,21 $ canadiens;
+h) l'appelant n'a déclaré aucune des sommes reçues de Transcon dans sa déclaration de revenus pour l'année d'imposition 1997.
+[24] L'appelant a avancé la thèse suivante dans son avis d'appel :
+[TRADUCTION]
+J'étais un non‑résident pendant la période allant de 1975 à 1986. Au cours de 1978 et de 1979, j'ai travaillé pour TRANSCON, S.A., de Rio de Janeiro, au Brésil, et on me devait 43 428 $ canadiens. Comme ma cliente n'était pas en mesure de me payer à l'époque, mes honoraires ont été convertis en une reconnaissance de dette portant intérêt au taux de huit pour cent par année. En 1997, j'ai subitement reçu une somme de 157 836 $ canadiens en capital et intérêts. Ma correspondance avec ma cliente révèle que ses constants retards m'ont porté à croire que je ne serais jamais payé et explique pourquoi je n'ai pas déclaré les intérêts annuellement lorsque j'ai recommencé à résider au Canada.
+[25] L'appelant a soutenu qu'il ne devrait pas faire l'objet d'une cotisation au titre du revenu en intérêts gagné au cours des années antérieures.
+[26] L'appelant a rendu des services à Transcon de 1975 à 1980. Cette dernière devait la somme de 44 493,82 $ à l'appelant pour ces services. En 1997, l'appelant a reçu 186 047 $ de Transcon, soit la somme initiale de 43 360,02 $ et des intérêts de 142 687,21 $. L'appelant n'a déclaré cet intérêt dans aucune année antérieure.
+[27] L'alinéa 12(1)c) de la Loi est ainsi rédigé :
+Sommes à inclure dans le revenu
+12(1) Sont à inclure dans le calcul du revenu tiré par un contribuable d'une entreprise ou d'un bien, au cours d'une année d'imposition, celles des sommes suivantes qui sont applicables :
+[...]
+Intérêts
+c) sous réserve des paragraphes (3) et (4.1), les sommes reçues ou à recevoir par le contribuable au cours de l'année (selon la méthode qu'il suit normalement pour le calcul de son revenu) à titre ou en paiement intégral ou partiel d'intérêts, dans la mesure où ces intérêts n'ont pas été inclus dans le calcul de son revenu pour une année d'imposition antérieure;
+[28] Je renvoie à l'arrêt Shaw c. La Reine, [1993] 2 C.F. 190, de la Cour d'appel fédérale, aux pages 195 et 196 :
+17 La somme versée à M. Shaw en guise d'indemnité était par conséquent payable en raison de l'expropriation de son bien‑fonds, ce qui n'est pas le cas du versement des « intérêts ». À la suite de l'expropriation, le gouvernement devait à M. Shaw une somme en capital. Les intérêts sur cette somme étaient dus, cependant, parce que le gouvernement n'a pas immédiatement payé la somme en capital; ils n'étaient pas dus en raison du « bien pris » par expropriation. Conséquemment, les intérêts n'ont pas été payés à titre d'indemnité ou de dommages‑intérêts afférents à l'expropriation.
+18 Contrairement aux divers types de dommages‑intérêts, le montant de l'intérêt versé à M. Shaw n'a pas été confondu avec l'indemnité globale payée; il a été calculé comme une somme distincte après que le total de l'indemnité eut été déterminé avec le consentement des deux parties à l'expropriation. Il n'y a ici aucune difficulté à déterminer « rationnellement » ce qui constitue des intérêts plutôt que le capital. (Voir les motifs du juge Marceau, J.C.A., dans l'arrêt Sani Sport Inc.) On doit aussi se rappeler que la Loi de l'impôt sur le revenu stipule que « [l]orsqu'un paiement visé par un contrat ou tout autre arrangement [qui] peut raisonnablement être considéré, en partie comme un paiement d'intérêts… et en partie comme un paiement ayant un caractère de capital, la fraction du paiement qui peut raisonnablement être considérée comme un paiement d'intérêts... doit... être incluse dans le calcul du revenu du bénéficiaire, tiré de biens... » (paragraphe 16(1) [mod. par S.C. 1980‑81‑82‑83, ch. 140, art. 10]). Par conséquent, les intérêts versés à James Shaw devraient se distinguer de la somme en capital qui lui a été payée en tant que produit de la disposition de son bien‑fonds exproprié (Wride c. M.R.N., 86‑257(IT), le juge Bonner, inédit, 28 janvier 1988 (C.C.I.); Wideman (B) c. MRN, [1983] C.T.C. 2589 (C.C.I.); Hallman & Sable Ltd. v. M.N.R. (1969), 69 D.T.C. 551 (C.A.I.); c.f. Elliott (RA) c. MRN, [1984] C.T.C. 2373 (C.C.I.)).
+[29] De même, le paiement d'intérêts à l'appelant paraît constituer un paiement versé en vertu d'un règlement. L'intérêt n'a pas été payé annuellement, même si, en définitive, il a pu être calculé de cette façon. Il a été payé en une seule fois au cours de l'année 1997 et n'a pas été déclaré au cours d'années antérieures. Par conséquent, conformément aux dispositions explicites de l'alinéa 12(1)c) de la Loi, l'intérêt doit être inclus dans l'année où il est reçu.
+[30] Comme les appels visant les années 1993 et 1994 ne se fondent sur aucune cause d'action, ils sont rejetés. Les appels visant les années 1995, 1996 et 1997 sont rejetés, avec dépens, pour les motifs susmentionnés.
+Signé à Ottawa, Canada, ce 7e jour de février 2006.
+« Louise Lamarre Proulx »
+Le juge Lamarre Proulx
+Traduction certifiée conforme
+ce 20e jour de juin 2008.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI67
+NO DU DOSSIER DE LA COUR : 2003-1207(IT)G
+INTITULÉ : VLADIMIR STEPANOFF c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATES D'AUDIENCE : Le 23 septembre 2005
+Le 3 octobre 2005
+MOTIFS DU JUGEMENT : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : Le 7 février 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me George Boyd Aitken
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

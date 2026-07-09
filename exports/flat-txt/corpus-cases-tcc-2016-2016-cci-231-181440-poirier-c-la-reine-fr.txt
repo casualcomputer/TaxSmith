@@ -1,0 +1,215 @@
+Title: Poirier c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/181440/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-231-181440-poirier-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-10-14
+
+# Poirier c. La Reine
+
+- Citation: 2016 CCI 231
+- Decision date: 2016-10-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2977, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poirier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-10-14
+Référence neutre
+2016 CCI 231
+Numéro de dossier
+2014-1187(IT)G, 2014-1188(IT)G, 2014-1818(IT)I
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-1187(IT)G
+ENTRE :
+LUC POIRIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu avec les appels d’Estelle Cormier, 2014-1188(IT)G et du Centre du radiateur des Îles inc., 2014-1818(IT)I, les 12 et 13 septembre 2016, aux Îles-de-la-Madeleine (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelant :
+Me Jean Yanakis
+Avocate de l’intimée :
+Me Dominique Gallant
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2004, 2005, 2006, 2007 et 2008 est accueilli, sans frais, et les nouvelles cotisations sont déférées à la ministre du Revenu national pour nouvel examen et nouvelles cotisations sur la base de l’entente intervenue entre les parties, soit :
+a) En ce qui a trait à l’année d’imposition 2005 :
+- Le revenu imposable de 80 378 $ devra être réduit d’un montant de 27 000 $.
+b) En ce qui a trait à l’année d’imposition 2006 :
+- Le revenu imposable de 77 687 $ devra être réduit d’un montant de 36 243 $.
+c) En ce qui a trait à l’année d’imposition 2007 :
+- Le revenu imposable de 88 904 $ devra être réduit d’un montant de 53 008 $.
+d) En ce qui a trait à l’année d’imposition 2008 :
+- Le revenu imposable de 64 830 $ devra être réduit d’un montant de 33 833 $.
+Les pénalités en vertu du paragraphe 163(2) de la Loi devront être ajustées en fonction du nouveau revenu imposable de l’appelant pour les années 2005, 2006, 2007 et 2008.
+À tout autre égard, les nouvelles cotisations telles que précédemment établies demeurent inchangées.
+Signé à Ottawa, Canada, ce 14e jour d’octobre 2016.
+« Johanne D’Auray »
+Juge D’Auray
+Dossier : 2014-1188(IT)G
+ENTRE :
+ESTELLE CORMIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels de Luc Poirier, 2014-1187(IT)G et du Centre du radiateur des Îles inc., 2014‑1818(IT)I, les 12 et 13 septembre 2016,
+aux Îles-de-la-Madeleine (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelante :
+Me Jean Yanakis
+Avocate de l’intimée :
+Me Dominique Gallant
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2005, 2006, 2007, 2008 et 2009 est accueilli, sans frais, et les nouvelles cotisations sont déférées à la ministre du Revenu national pour nouvel examen et nouvelles cotisations sur la base de l’entente intervenue entre les parties, soit :
+a) En ce qui a trait à l’année d’imposition 2006 :
+- Le revenu imposable de 46 069 $ devra être réduit d’un montant de 5 838 $.
+b) En ce qui a trait à l’année d’imposition 2007 :
+- Le revenu imposable de 130 721 $ devra être réduit d’un montant de 36 243 $.
+c) En ce qui a trait à l’année d’imposition 2008 :
+- Le revenu imposable de 93 584 $ devra être réduit d’un montant de 28 274 $.
+Les pénalités en vertu du paragraphe 163(2) de la Loi devront être ajustées en fonction du nouveau revenu imposable de l’appelante pour les années d’imposition 2006, 2007 et 2008.
+À tout autre égard, les nouvelles cotisations telles que précédemment établies demeurent inchangées.
+Signé à Ottawa, Canada, ce 14e jour d’octobre 2016.
+« Johanne D’Auray »
+Juge D’Auray
+Dossier : 2014-1818(IT)I
+ENTRE :
+CENTRE DU RADIATEUR DES ÎLES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels de Luc Poirier, 2014-1187(IT)G et d’Estelle Cormier, 2014-1188(IT)G, les 12 et 13 septembre 2016, aux Îles-de-la-Madeleine (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelante :
+Me Jean Yanakis
+Avocate de l’intimée :
+Me Dominique Gallant
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la Loi ») pour les années d’imposition 2006, 2007 et 2008 est accueilli, sans frais, et les nouvelles cotisations sont déférées à la ministre du Revenu national pour nouvel examen et nouvelles cotisations sur la base de l’entente intervenue entre les parties, soit :
+a) En ce qui a trait à l’année d’imposition 2006 :
+- Le revenu de 59 522 $ ajouté par la ministre à titre de revenu non déclaré, devra être réduit d’un montant de 27 536 $.
+b) En ce qui a trait à l’année d’imposition 2007 :
+- Le revenu de 64 432 $ ajouté par la ministre à titre de revenu non déclaré, devra être réduit d’un montant de 59 433 $.
+c) En ce qui a trait à l’année d’imposition 2008 :
+- Le revenu de 101 022 $ ajouté par la ministre à titre de revenu non déclaré, devra être réduit d’un montant de 87 061 $.
+Les pénalités en vertu du paragraphe163(2) de la Loi devront être ajustées en fonction du nouveau revenu de l’appelante pour les années d’imposition 2006, 2007 et 2008.
+À tout autre égard, les nouvelles cotisations telles que précédemment établies demeurent inchangées.
+Signé à Ottawa, Canada, ce 14e jour d’octobre 2016.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2016 CCI 231
+Date : 20161014
+Dossier : 2014-1187(IT)G
+ENTRE :
+LUC POIRIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2014-1188(IT)G
+ET ENTRE :
+ESTELLE CORMIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2014-1818(IT)I
+ET ENTRE :
+CENTRE DU RADIATEUR DES ÎLES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge D’Auray
+[1] Lors de l’audience, les parties ont réglé les appels en l’espèce de la manière suivante :
+I. Appel de Luc Poirier, 2014-1187(IT)G [2] En vertu de ce règlement, la ministre du Revenu national (la « ministre ») devra établir des nouvelles cotisations en tenant compte de ce qui suit :
+a) En ce qui a trait à l’année d’imposition 2005 :
+- Le revenu imposable de 80 378 $ devra être réduit d’un montant de 27 000 $.
+b) En ce qui a trait à l’année d’imposition 2006 :
+- Le revenu imposable de 77 687 $ devra être réduit d’un montant de 36 243 $.
+c) En ce qui a trait à l’année d’imposition 2007 :
+- Le revenu imposable de 88 904 $ devra être réduit d’un montant de 53 008 $.
+d) En ce qui a trait à l’année d’imposition 2008 :
+- Le revenu imposable de 64 830 $ devra être réduit d’un montant de 33 833 $.
+[3] Dans l’établissement des nouvelles cotisations pour les années d’imposition 2005, 2006, 2007 et 2008, la ministre devra ajuster les pénalités cotisées en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi ») en tenant compte des réductions apportées aux revenus imposables de l’appelant, tel qu’énoncé aux paragraphes 2a), 2b) 2c) et 2d) de ces motifs.
+II. Appel d’Estelle Cormier, 2014-1188(IT)G [4] En vertu de ce règlement de l’appel, la ministre devra établir des nouvelles cotisations en tenant compte de ce qui suit :
+a) En ce qui a trait à l’année d’imposition 2006 :
+- Le revenu imposable de 46 069 $ devra être réduit d’un montant de 5 838 $.
+b) En ce qui a trait à l’année d’imposition 2007 :
+- Le revenu imposable de 130 721 $ devra être réduit d’un montant de 36 243 $.
+c) En ce qui a trait à l’année d’imposition 2008 :
+- Le revenu imposable de 93 584 $ devra être réduit d’un montant de 28 274 $.
+[5] Dans l’établissement des nouvelles cotisations pour les années d’imposition 2006, 2007 et 2008, la ministre devra ajuster les pénalités cotisées en vertu du paragraphe 163(1) de la Loi en tenant compte des réductions apportées aux revenus imposables de l’appelante, tel qu’énoncé aux paragraphes 4a), 4b) et 4c) de ces motifs.
+III. Appel du Centre du radiateur des Îles inc., 2014-1818(IT)I [6] En vertu de ce règlement de l’appel, la ministre devra établir des nouvelles cotisations en tenant compte de ce qui suit :
+a) En ce qui a trait à l’année d’imposition 2006 :
+- Le revenu de 59 522 $ ajouté par la ministre à titre de revenu non déclaré, devra être réduit d’un montant de 27 536 $.
+b) En ce qui a trait à l’année d’imposition 2007 :
+- Le revenu de 64 432 $ ajouté par la ministre à titre de revenu non déclaré, devra être réduit d’un montant de 59 433 $.
+c) En ce qui a trait à l’année d’imposition 2008 :
+- Le revenu de 101 022 $ ajouté par la ministre à titre de revenu non déclaré, devra être réduit d’un montant de 87 061 $.
+[7] Dans l’établissement des nouvelles cotisations pour les années d’imposition 2006, 2007 et 2008, la ministre devra ajuster les pénalités cotisées en vertu du paragraphe 163(2) de la Loi en tenant compte des réductions apportées aux revenus de l’appelante, tel qu’énoncé aux paragraphes 6a), 6b) et 6c) de ces motifs.
+[8] Les présents dossiers ont été fixés pour audience les 12, 13 et 14 septembre 2016 aux Îles-de-la-Madeleine.
+[9] Au début de la première journée d’audience, les parties ont demandé du temps pour discuter des dossiers.
+[10] Après deux jours de discussions, les parties ont conclu un règlement dans chacun des trois dossiers, sauf pour les frais.
+[11] Dans ces dossiers, la ministre a établi des nouvelles cotisations à l’égard de plusieurs objets. Dans le dossier de Luc Poirier, la ministre a établi des cotisations à l’encontre de M. Poirier en ajoutant aux revenus de ce dernier des montants représentant des avantages imposables et des gains en capital non déclarés. La ministre a aussi annulé un report de perte et des pénalités en vertu du paragraphe 163(2) de la Loi ont aussi été établies par la ministre.
+[12] Dans le dossier du Centre du Radiateur des Îles inc., la ministre a établi des cotisations à l’encontre de la société relativement à des revenus non déclarés et des intérêts non déclarés. Des pénalités ont aussi été établies par la ministre en vertu du paragraphe 163(2) de la Loi pour les années d’imposition 2006, 2007 et 2008.
+[13] Dans le dossier de madame Estelle Cormier, la ministre a établi des cotisations à l’encontre de Mme Cormier en ajoutant aux revenus de cette dernière des montants représentant des avantages imposables ainsi que des pénalités selon le paragraphe 163(2) de la Loi.
+[14] L’intimée demande que des frais lui soient accordés dans chacun des trois dossiers, soit les dossiers Luc Poirier et Estelle Cormier en vertu du Tarif A des Règles de la Cour canadienne de l’impôt, procédure générale (« Règles ») et le dossier du Centre du radiateur des Îles inc. (2014-1818(IT)I), en vertu du paragraphe 10(2) des Règles de la Cour canadienne de l’impôt, procédure informelle (« Règles, procédure informelle »).
+[15] Sommairement, l’intimée fait valoir que si tous les documents avaient été présentés à l’intimée avant l’audience, il est fort possible que les dossiers auraient été réglés bien avant les dates prévues pour audience. Ainsi, la préparation pour le présent litige aurait pu être évitée. Elle a aussi souligné que dans ces dossiers il y avait eu des délais, car les avis d’appel ne respectaient pas les Règles de la Cour. De plus, des prorogations de délai ont été demandées pour produire les listes de documents.
+[16] L’avocat des appelants fait valoir que depuis qu’il est l’avocat inscrit aux dossiers, les dossiers n’ont pas été retardés indûment. Il fait valoir qu’il a dû prendre connaissance des dossiers. De plus, les demandes pour proroger le délai pour déposer les listes de documents ont été accordées par cette Cour quant aux appels déposés en vertu de la procédure générale. Ses clients ont mis beaucoup d’efforts et de temps afin de récupérer les documents pertinents aux dossiers. De plus, M. Poirier et Mme Cormier travaillent de longues heures et cela n’a pas facilité la recherche des documents.
+[17] La Cour ne peut allouer les frais à l’intimée en procédure informelle que si les actions d’un appelant ont retardé indûment le règlement prompt et efficace de son appel. Je suis d’avis que l’intimée n’a pas établi que le Centre du radiateur des Îles inc. a retardé indûment le règlement de son appel devant cette Cour. Par conséquent, des frais ne devraient pas être accordés à l’intimée quant à ce dossier.
+[18] Quant aux dossiers de M. Luc Poirier et de Mme Estelle Cormier, je suis d’avis que dès que les appelants ont été représentés par avocat, les Règles ont été suivies. Dans ces dossiers, tellement d’objets ont été cotisés, qu’une conférence de règlement aurait été sûrement le meilleur processus pour arriver à un règlement[1]. La conférence de règlement a l’avantage de réunir toutes les parties afin que ces dernières, non seulement fournissent les documents, mais qu’elles puissent expliquer la teneur de ces documents. En l’espèce, aucune partie n’a demandé la tenue d’une conférence de règlement. Il est possible, tel que le prétend l’avocate de l’intimée, que si les documents avaient été fournis d’avance, les dossiers auraient pu être réglés bien avant l’audience. D’ailleurs, à cet effet, si les appelants avaient demandé que des frais leur soient adjugés, j’aurais refusé cette demande. Cependant, à la lumière de ma lecture des dossiers, je ne suis pas d’avis que l’intimée a établi que des frais devraient lui être adjugés.
+Signé à Ottawa, Canada, ce 14e jour d’octobre 2016.
+« Johanne D’Auray »
+Juge D’Auray
+RÉFÉRENCE :
+2016 CCI 231
+Nº DU DOSSIER DE LA COUR :
+2014-1187(IT)G
+2014-1188(IT)G
+2014-1818(IT)I
+INTITULÉ DE LA CAUSE :
+LUC POIRIER c SA MAJESTÉ LA REINE
+ESTELLE CORMIER c SA MAJESTÉ LA REINE
+CENTRE DU RADIATEUR DES ÎLES INC. c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Îles-de-la-Madeleine (Québec)
+DATE DE L’AUDIENCE :
+Les 12 et 13 septembre 2016
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 14 octobre 2016
+COMPARUTIONS :
+Avocat des appelants :
+Me Jean Yanakis
+Avocate de l’intimée :
+Me Dominique Gallant
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants:
+Nom :
+Me Jean Yanakis
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+1. Les trois dossiers, incluant le dossier en procédure informelle, auraient eu avantage à utiliser le processus d’une conférence de règlement.

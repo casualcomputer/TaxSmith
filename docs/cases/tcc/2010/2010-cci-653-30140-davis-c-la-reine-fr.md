@@ -1,0 +1,179 @@
+---
+title: "Davis c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30140/index.do"
+last_modified: "2010-12-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 653"
+citation2: ""
+neutral_citation: "2010 CCI 653"
+decision_date: "2010-12-22"
+language: "fr"
+item_id: "30140"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7788
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:20:12.048000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "72365957fca2a7683c81791896a384e1f28c66fb0e0b90c0d8db6cdb974270e0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Davis c. La Reine
+
+- Citation: 2010 CCI 653
+- Decision date: 2010-12-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7788, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Davis c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-12-22
+Référence neutre
+2010 CCI 653
+Numéro de dossier
+2010-3250(GST)APP
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2010-3250(GST)APP
+ENTRE :
+BRENT DAVIS,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 8 décembre 2010
+à Halifax (Nouvelle‑Écosse).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour le requérant :
+Le requérant lui‑même
+Avocat de l’intimée :
+Me Jan Jensen
+____________________________________________________________________
+ORDONNANCE
+La demande présentée par Brent Davis en vue d’obtenir la prolongation du délai imparti pour interjeter appel de la nouvelle cotisation concernant l’obligation qui lui incombe, en application de la Loi sur la taxe d’accise, pour les périodes de déclaration allant du 1er janvier 2002 au 31 décembre 2004 est rejetée, sans frais, pour les motifs ci‑joints.
+Signé à Halifax (Nouvelle‑Écosse), ce 22e jour de décembre 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 28e jour de janvier 2014.
+S. Tasset
+.
+Référence : 2010CCI653
+Date : 20101222
+Dossier : 2010-3250(GST)APP
+ENTRE :
+BRENT DAVIS,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Webb
+[1] Bien que ce ne soit pas tout à fait clair, il semble que, le 15 octobre 2010, le requérant ait déposé une demande de prolongation du délai imparti pour interjeter appel de la nouvelle cotisation établie relativement à l’obligation qui lui incombe en application de la Loi sur la taxe d’accise.
+[2] Le requérant s’était opposé aux cotisations établies en vertu de la Loi de l’impôt sur le revenu relativement à ses obligations sous le régime de cette loi pour 2002, 2003 et 2004. On a attribué à l’opposition du requérant portant sur ces cotisations le numéro de contrôle « GB07185110367 ». Le 9 octobre 2007, par suite de la signification de son avis d’opposition, le requérant a fait l’objet de nouvelles cotisations pour les trois années en cause.
+[3] Le requérant a également fait l’objet de nouvelles cotisations sous le régime de la Loi sur la taxe d’accise pour les périodes de déclaration allant du 1er janvier 2002 au 31 décembre 2004. Là aussi, il s’est opposé aux nouvelles cotisations; la décision et les avis de nouvelle cotisation afférents à ces périodes de déclaration lui ont été envoyés le 21 février 2008.
+[4] Puis, le 7 avril 2008, le requérant a adressé à la Cour la lettre suivante :
+[traduction]
+À qui de droit : (No de référence : GB071851150367)
+Nous faisons appel des décisions nous concernant en matière d’impôt sur le revenu, mais nous sommes conscients du fait que tout dépendra des conclusions de la vérification fiscale de l’entreprise de Brent.
+Nous souhaitons faire appel quant aux points suivants : (1) les frais afférents à un véhicule à moteur en ce qui concerne l’automobile pour les années 2002, 2003 et 2004; (2) le téléphone et les services publics pour 2004; (3) les frais d’intérêts pour 2002 à 2004.
+Nous faisons appel de la décision de la Cour de l’impôt portant le numéro de référence 2003-4189(GST)I en ce qui concerne la TVH payée pour les travaux couverts par la garantie qui ont été effectués à l’étranger. Référence : article 13 de la partie V de l’annexe VI de la Loi sur la taxe d’accise (Canada).
+[5] Le numéro de référence (GB07185110367) est celui que l’Agence du revenu du Canada a attribué à l’opposition que le requérant a signifiée sous le régime de la Loi de l’impôt sur le revenu. La lettre indique expressément que le requérant faisait appel des décisions en matière d’impôt sur le revenu. Les éléments énumérés viennent confirmer qu’il faisait bien appel des décisions en matière d’impôt sur le revenu (et non de la nouvelle cotisation de TVH), puisque l’un d’eux, les « frais d’intérêts », sont pertinents dans le cas d’un appel relatif à l’impôt sur le revenu, mais ne le sont pas dans le cas d’un appel relatif à la TVH, aucune TVH n’étant payable sur les sommes versées à titre d’intérêts. Le paiement d’intérêts relève en effet de la fourniture de services financiers, qui est une fourniture exonérée suivant l’article 1 de la partie VII de l’annexe V de la Loi sur la taxe d’accise.
+[6] La seule allusion qui est faite à la TVH se trouve dans le dernier paragraphe, où le requérant indique qu’il fait appel d’une décision antérieure de la Cour. Or, les appels des décisions de la Cour doivent être interjetés non pas ici, mais devant la Cour d’appel fédérale. Il s’ensuit que la lettre ne constitue pas un avis d’appel valable en ce qui a trait à la taxe nette due par le requérant sous le régime de la Loi sur la taxe d’accise pour les périodes de déclaration allant du 1er janvier 2002 au 31 décembre 2004.
+[7] Puisque le requérant a déposé cette lettre le 7 avril 2008 ou après, le délai prévu dans la Loi de l’impôt sur le revenu pour interjeter appel était déjà écoulé. En effet, le paragraphe 169(1) de la Loi de l’impôt sur le revenu prévoit ce qui suit :
+169(1) Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l’expiration des 90 jours qui suivent la signification de l’avis d’opposition sans que le ministre ait notifié au contribuable le fait qu’il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l’expiration des 90 jours qui suivent la date où avis a été expédié par la poste au contribuable, en vertu de l’article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+[8] Étant donné que plus de 90 jours s’étaient écoulés depuis le 9 octobre 2007, date à laquelle le requérant avait fait l’objet d’une nouvelle cotisation en application de la Loi de l’impôt sur le revenu (par suite du dépôt de l’avis d’opposition prévu par cette loi), il lui fallait demander une prolongation du délai imparti pour interjeter appel conformément à la Loi de l’impôt sur le revenu.
+[9] En effet, les paragraphes 167(1), (2), (3) et (5) de la Loi de l’impôt sur le revenu prévoient ce qui suit :
+167 (1) Le contribuable qui n’a pas interjeté appel en application de l’article 169 dans le délai imparti peut présenter à la Cour canadienne de l’impôt une demande de prorogation du délai pour interjeter appel. La Cour peut faire droit à la demande et imposer les conditions qu’elle estime justes.
+(2) La demande doit indiquer les raisons pour lesquelles l’appel n’a pas été interjeté dans le délai imparti.
+(3) La demande, accompagnée de trois exemplaires de l’avis d’appel, est déposée en trois exemplaires au greffe de la Cour canadienne de l’impôt conformément à la Loi sur la Cour canadienne de l’impôt.
+[…]
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l’année suivant l’expiration du délai imparti en vertu de l’article 169 pour interjeter appel;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+[10] Dans l’arrêt Dewey c. La Reine, 2004 CAF 82, 2004 DTC 6159, [2004] 2 C.T.C. 311, la juge Sharlow, de la Cour d’appel fédérale, a déclaré ce qui suit :
+3 L’article 167 de la Loi de l’impôt sur le revenu permet à la Cour canadienne de l’impôt de proroger le délai pour introduire un appel devant la Cour canadienne de l’impôt, s’il est satisfait à un certain nombre de conditions. Le défaut de satisfaire à l’une ou l’autre des conditions porte un coup fatal à la demande.
+[11] Comme elle ne traite pas des raisons pour lesquelles l’appel visé par la Loi de l’impôt sur le revenu n’a pas été interjeté dans les 90 jours suivant le 9 octobre 2007, la lettre ne satisfait pas à la condition prévue au paragraphe 167(2) de la Loi de l’impôt sur le revenu.
+[12] Le requérant n’a pris aucune autre mesure ni produit de documents supplémentaires avant le 15 octobre 2010, date à laquelle il a déposé la lettre déjà envoyée en 2008, accompagnée d’une lettre explicative. La seule allusion à la TVH qu’on y trouve figure dans l’énoncé selon lequel le requérant interjette appel d’une décision antérieure de la Cour. Or, comme nous l’avons signalé précédemment, c’est la Cour d’appel fédérale qui doit être saisie des appels des décisions de la Cour, et non cette dernière. L’appel n’en est pas un qui peut valablement être interjeté devant la Cour sous le régime de la Loi sur la taxe d’accise.
+[13] Par ailleurs, même si on devait considérer que la présente demande vise la prolongation du délai imparti pour interjeter appel en vertu de la Loi de l’impôt sur le revenu, la lettre déposée le 15 octobre 2010, en plus de comporter les lacunes mentionnées précédemment, a été déposée après l’expiration du délai imparti pour demander la prolongation du délai d’appel prévu par la Loi de l’impôt sur le revenu : en effet, ce délai aurait expiré en janvier 2009 (à savoir, un an après l’expiration la période de 90 jours qui a suivi le 9 octobre 2007, date de la nouvelle cotisation).
+[14] La Loi sur la taxe d’accise renferme une disposition analogue précisant le délai à respecter pour demander la prolongation du délai imparti pour interjeter appel en vertu de cette loi. À son article 305, il est prévu ce qui suit :
+305(1) La personne qui n’a pas interjeté appel en application de l’article 306 dans le délai imparti peut présenter à la Cour canadienne de l’impôt une demande de prorogation du délai pour interjeter appel. Cette cour peut faire droit à la demande et imposer les conditions qu’elle estime justes.
+(2) La demande doit indiquer les raisons pour lesquelles l’appel n’a pas été interjeté dans le délai par ailleurs imparti.
+(3) La demande, accompagnée de trois exemplaires de l’avis d’appel, est déposée en trois exemplaires auprès du greffe de la Cour canadienne de l’impôt conformément à la Loi sur la Cour canadienne de l’impôt.
+(4) Sur réception de la demande, la Cour canadienne de l’impôt en envoie copie au bureau du sous-procureur général du Canada.
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l’année suivant l’expiration du délai d’appel par ailleurs imparti;
+b) la personne démontre ce qui suit :
+(i) dans le délai d’appel par ailleurs imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+[15] Par ailleurs, l’article 306 de la Loi sur la taxe d’accise prévoit ce qui suit :
+306. La personne qui a produit un avis d’opposition à une cotisation aux termes de la présente sous-section peut interjeter appel à la Cour canadienne de l’impôt pour faire annuler la cotisation ou en faire établir une nouvelle lorsque, selon le cas :
+a) la cotisation est confirmée par le ministre ou une nouvelle cotisation est établie;
+b) un délai de 180 jours suivant la production de l’avis est expiré sans que le ministre n’ait notifié la personne du fait qu’il a annulé ou confirmé la cotisation ou procédé à une nouvelle cotisation.
+Toutefois, nul appel ne peut être interjeté après l’expiration d’un délai de 90 jours suivant l’envoi à la personne, aux termes de l’article 301, d’un avis portant que le ministre a confirmé la cotisation ou procédé à une nouvelle cotisation.
+[16] Bien que la date de l’avis de nouvelle cotisation établi en vertu de la Loi sur la taxe d’accise (le 21 février 2008) soit postérieure à celle de l’avis de nouvelle cotisation établi en vertu de la Loi de l’impôt sur le revenu, le délai imparti pour demander la prolongation du délai pour faire appel de cette nouvelle cotisation sous le régime de la Loi sur la taxe d’accise aurait lui aussi expiré bien avant le 15 octobre 2010.
+[17] Pour les motifs qui précèdent, la demande présentée par le requérant en vue d’obtenir la prolongation du délai imparti pour interjeter appel en vertu de la Loi sur la taxe d’accise est rejetée.
+Signé à Halifax (Nouvelle‑Écosse), ce 22e jour de décembre 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 28e jour de janvier 2014.
+S. Tasset
+RÉFÉRENCE : 2010CCI653
+No DU DOSSIER DE LA COUR : 2010-3250(GST)APP
+INTITULÉ : BRENT DAVIS ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE : Le 8 décembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 22 décembre 2010
+COMPARUTIONS :
+Pour le requérant :
+Le requérant lui‑même
+Avocat de l’intimée :
+Me Jan Jensen
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Nanaimo (Colombie‑Britannique)

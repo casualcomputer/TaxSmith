@@ -1,0 +1,261 @@
+---
+title: "Chartrand c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29691/index.do"
+last_modified: "2010-03-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 92"
+citation2: ""
+neutral_citation: "2010 CCI 92"
+decision_date: "2010-03-19"
+language: "fr"
+item_id: "29691"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6196
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:09:05.276000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4b490b2e63dab8449fce0295b6683c652aafae1f2900406b0138c000befbe082"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chartrand c. La Reine
+
+- Citation: 2010 CCI 92
+- Decision date: 2010-03-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6196, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chartrand c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-19
+Référence neutre
+2010 CCI 92
+Numéro de dossier
+2008-262(IT)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-262(IT)G
+ENTRE :
+MARCEL CHARTRAND,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec l'appel de
+2008-263(GST)G, les 18, 19 et 20 janvier 2010, à Montréal (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocats de l'intimée :
+Me Gatien Fournier et Me Julian Malone
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999, 2000, 2001, 2002 et 2003 sont accueillis en partie et les cotisations sont déférées au Ministre pour nouvel examen et nouvelles cotisations, selon les motifs du jugement ci‑joints. L'intimée a droit à ses dépens.
+Signé à Ottawa, Canada, ce 19e jour de mars 2010.
+« François Angers »
+Juge Angers
+Dossier : 2008-263(GST)G
+ENTRE :
+MARCEL CHARTRAND,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de
+2008-262(IT)G, les 18, 19 et 20 janvier 2010, à Montréal (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocats de l'intimée :
+Me Gatien Fournier et Me Julian Malone
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie pour la période du 31 janvier 1997 au 31 décembre 2002 en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 31 mars 2005 et porte le numéro 04BP0200112 est accueilli en partie et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints. L'intimée a droit à ses dépens.
+Signé à Ottawa, Canada, ce 19e jour de mars 2010.
+« François Angers »
+Juge Angers
+Référence : 2010 CCI 92
+Date : 20100319
+Dossiers : 2008-262(IT)G,
+2008-263(GST)G
+ENTRE :
+MARCEL CHARTRAND,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s'agit d'appels interjetés par monsieur Marcel Chartrand à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu (la « Loi ») et de la Loi sur la taxe d'accise (la « LTA »). Les appels ont été entendus sur preuve commune.
+[2] En ce qui concerne les cotisations établies en vertu de la Loi, elles portent sur les années d'imposition de l'appelant de 1999 à 2003 inclusivement. Pour ce qui est des cotisations établies en vertu de la LTA, elles portent sur les périodes allant du 31 janvier 1997 au 31 décembre 2002.
+[3] L'appelant est un entrepreneur dans le domaine résidentiel et il œuvre dans le domaine de l'immobilier depuis 1992. Il a exercé auparavant d'autres professions en affaires, mais toujours à titre de travailleur autonome. Il a notamment été courtier en immeubles.
+[4] Il a construit ses premiers immeubles en 1994 et il a continué d'en construire à chaque année subséquente, de sorte qu'en 1997, il en possédait entre 10 et 20. Chaque immeuble comptait 4 logements et l'appelant les a construits à des fins de location dans le but de produire des revenus et de laisser le tout en héritage à ses enfants.
+[5] C'est en 1999 que l'appelant a commencé à avoir des problèmes de liquidités qui se sont accentués en 2000. Pendant cette année, l'appelant a fait l'acquisition d'un terrain pour la somme de 250 000 $ dans le but de le subdiviser en 19 lots afin d'y construire d'autres immeubles à logement. Selon l'appelant, le coût de l'installation de l'infrastructure se chiffrait à environ 400 000 $. Les difficultés financières de l'appelant ont pris naissance lorsqu'il lui a été impossible d'obtenir du financement suffisant à un taux raisonnable pour un plus grand pourcentage de la valeur des biens donnés en garantie que ce que lui offraient les banques. Il a donc dû faire appel à des prêteurs privés, bien que leurs taux d'intérêt nuisaient à la rentabilité de ses projets, pour financer l'achat du terrain, l'aménagement des infrastructures et aussi la construction des 19 immeubles à logement sur chacun des lots situés le long des rues Nelson et Paul.
+[6] L'appelant avait aussi au cours des mêmes périodes, soit 1999 et 2000, un autre projet de mise en valeur surnommé le projet « La Source » qui comptait entre 40 et 50 lots sur lesquels l'appelant détenait une option d'achat. Il devait construire l'infrastructure, notamment l'aménagement des rues, ainsi que commencer la construction, obtenir le financement afin de payer l'achat du terrain et payer les coûts de construction. Tous ces projets ont également été encore financés par des prêteurs privés.
+[7] Quarante opérations de vente d'immeubles sont visées par le présent litige et elles portent toutes sur des immeubles similaires à quatre logements construits à partir des mêmes plans. La grandeur des logements varie et l'appelant est d'accord pour dire qu'il n'y a qu'environ 10 000 $ d'écart entre les deux modèles en terme de valeur et de coût.
+[8] Il faut aussi mentionner que, pour les fins de la cotisation établie en vertu de la LTA, les immeubles construits à partir du 31 janvier 1997 et loués au cours de chaque période respective jusqu'au 31 décembre 2002 ont fait l'objet d'une autocotisation en vertu de l'article 191 de la LTA et leur juste valeur marchande (JVM) est en litige.
+[9] Je ne crois pas qu'il soit nécessaire de reproduire la liste complète des immeubles en question. Il y en a 47 en tout. La question de savoir quand il faut s'autocotiser est en litige, tout comme l'est la question de savoir quelle est la JVM de certains immeubles vendus à des personnes liées pour les fins du calcul de la taxe sur les produits et services (TPS).
+[10] Il est à noter que des crédits de taxe sur intrants ont été accordés à l'appelant lors de la vérification et ils ne font pas l'objet du présent litige.
+[11] Durant les années d'imposition en question, l'appelant a vendu quarante de ses immeubles, dont 4 en 1999, 6 en 2000, 5 en 2001 et 25 en 2002. Tel que le reconnaît l'appelant dans son avis d'appel modifié, certaines de ces ventes, dont quelques-unes à un dénommé Denis Riel et d'autres à des personnes liées, ont généré un revenu d'entreprise tout comme celles où les immeubles étaient vendus immédiatement après la construction. L'intimée a accepté et a admis ces énoncés comme elle l'a fait d'ailleurs au moment de la vérification.
+[12] L'avis d'appel identifie 22 de ces 40 opérations comme étant des opérations ayant généré un gain en capital plutôt qu'un revenu d'entreprise. L'intimée concède maintenant que trois des immeubles vendus en 2001 et cinq des immeubles vendus en 2002 ont effectivement généré un gain en capital, tel que décrit au tableau I-12, de sorte que le seul point en litige est de savoir si la vente des quatorze immeubles restants a produit un revenu d'entreprise ou un gain en capital.
+[13] Parmi les ventes effectuées pendant ces années là, il y en a cinq qui ont été faites à des personnes liées et les parties ont demandé à la Cour d'établir la JVM des immeubles en question. Finalement, il s'agit de déterminer si les nouvelles cotisations établies pour les années d'imposition 1999 et 2000 de l'appelant pouvaient être établies après l'expiration des périodes normales de nouvelle cotisation.
+[14] L'avis d'appel modifié de l'appelant soulevait d'autres points qui ont pu être résolus avant le début de l'audience. Dans sa déclaration de revenus, l'appelant avait déduit des dépenses d'intérêt, des frais juridiques et autres totalisant 493 521,29 $ que l'intimée n'a pas admis selon la pièce I-11. Les pièces justificatives fournies par l'appelant à l'intimée dans les quelques semaines précédant l'audience lui permettent maintenant d'admettre la totalité des dépenses déduites de 493 521 $ comme l'indique la pièce I-12. L'intimée a aussi accordé à l'appelant une réduction sur le prix de vente de certains immeubles, dont 6 en 2000 et quelques uns en 2001 et 2002 qui furent vendus à rabais par l'appelant. Les concessions sont indiquées aux pièces I-11 et I-12 et elles entraîneront l'établissement d'une nouvelle cotisation tout comme les autres concessions. L'intimée concède également qu'il n'existe pas de lien de dépendance entre l'appelant et un dénommé Denis Riel en ce qui concerne la vente d'immeubles à ce dernier, de sorte que les ventes à monsieur Riel ne doivent donc pas faire l'objet de rajustements.
+[15] L'intimée a également concédé, dans le dossier de la LTA, le fait qu'il n'existe pas de lien de dépendance entre l'appelant et Denis Riel. Il n'y a donc pas de rajustement à faire à l'égard du montant de taxe applicable au prix de vente. L'intimée accorde également les crédits de taxe sur intrants (CTI) que l'appelant a demandés à l'étape de l'opposition en plus de ceux déjà accordés par le Ministre (voir également la pièce I-17).
+[16] Les pièces I-13 et I-14 qui furent modifiées par après pour tenir compte de certaines concessions, concernent les immeubles qui n'ont pas fait l'objet de location avant d'être vendus, soit ceux qui ont été vendus aux personnes avec lesquelles l'appelant avait un lien de dépendance et dont la JVM était en litige. Selon le Ministre, la JVM de ces immeubles est établie à la pièce I-14(2) et elle tient compte de la réduction accordée à l'appelant en raison de ces concessions.
+[17] Le Ministre a également fait des concessions en ce qui concerne la JVM des immeubles qui ont été loués et qui ont fait l'objet d'une autocotisation en vertu de l'article 191 de la LTA. La liste des immeubles en question et les calculs de la taxe se trouvent aux pièces I-15(2) et I-16(2). L'intimée reconnaît que l'appelant s'est autocotisé avant les dates d'échéance et lui concède une réduction sur le prix de vente étant donné la courte période de location. Toutes ces concessions se trouvent aux pièces I-15(2) et I-16(2).
+La prescription
+[18] Il incombe à l'intimée de démontrer, selon la prépondérance des probabilités, que l'appelant a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, en produisant ses déclarations de revenus pour les années d'imposition 1999 et 2000 selon les termes du sous-alinéa 152(4)a)(i) autorisant le Ministre à établir de nouvelles cotisations.
+[19] Selon le vérificateur du dossier de l'appelant, ce dernier aurait déclaré des revenus bruts de 39 000 $ et un revenu net de 19 000 $. Selon l'appelant, il n'avait rien déclaré à titre de revenus d'entreprise. La vérification n'a pas permis d'identifier la source des revenus bruts déclarés, sauf que le vérificateur a constaté que, durant l'année d'imposition 1999, l'appelant a vendu 4 immeubles générant un revenu de plus de 800 000 $ à l'égard duquel le vérificateur a déduit des dépenses. Même si, par après, on a rajusté les prix de vente à la baisse, il n'en demeure pas moins que les revenus générés par la vente de ces quatre immeubles n'ont pas été déclarés. L'appelant a déclaré s'être fié à son comptable mais ce dernier n'a pas témoigné pour expliquer quoi que ce soit. Par conséquent, l'appelant aurait fait une présentation erronée des faits en l'espèce par négligence ou inattention permettant ainsi au Ministre d'établir une nouvelle cotisation après la période normale de nouvelle cotisation pour l'année d'imposition 1999.
+[20] Il en va de même en ce qui concerne l'année d'imposition 2000 de l'appelant. Dans sa déclaration de revenus pour l'année 2000, l'appelant a déclaré un revenu d'entreprise brut et net de 150 000 $. L'état des résultats des activités d'une entreprise en annexe de sa déclaration de revenu ne précise rien quant à la source des revenus et rien quant aux dépenses. La vérification révèle toutefois que l'appelant a vendu six immeubles en l'an 2000 générant un revenu brut de près de 1 500 000 $ qui, après apurement des dépenses, représente un bénéfice net de plus de 300 000 $, soit 316 121 $ pour être plus précis, tel qu'indiqué à la pièce I‑12 pour les ventes de l'an 2000.
+[21] L'appelant, qui a toujours été à son compte, a signé lui-même les offres d'achat des propriétés vendues en l'an 2000 (pièce I-20). Il savait que ces ventes avaient été conclues en l'an 2000. À mon avis, il s'agit clairement d'une présentation erronée des faits et elle est le résultat d'une négligence, d'une inattention ou d'une omission volontaire de l'appelant. L'appelant n'a pas fait preuve de diligence raisonnable afin de s'assurer, au moment de produire ses déclarations de revenu pour les années d'imposition 1999 et 2000, que les renseignements fournis dans ses deux déclarations étaient exacts. L'appelant est un homme d'affaires chevronné qui a toujours œuvré à son propre compte. Le Ministre était donc en droit de cotiser l'appelant après la période normale de nouvelle cotisation pour l'année d'imposition 2000.
+Gain en capital par opposition à revenu d'entreprise
+[22] De 1999 à 2002, l'appelant a vendu 40 immeubles. Le litige porte sur la vente de 22 d'entre eux et la question est de savoir si leur disposition a généré pour l'appelant un gain en capital ou un revenu d'entreprise. L'appelant soutient que la vente des 22 immeubles a généré un gain en capital. De ce nombre, le Ministre concède maintenant que 8 ventes ont généré un gain en capital laissant ainsi 14 ventes en litige. Voici la liste des 22 immeubles en question :
+a) 370 – 372, rue Tupper à Hawkesbury, vendu en 2001;
+b) 360 – 362, rue Tupper à Hawkesbury, vendu en 2001;
+c) 296, rue Tupper à Hawkesbury, vendu en 2001;
+d) 761 – 765, rue Nelson à Hawkesbury, vendu en 2002;
+e) 771 – 775, rue Nelson à Hawkesbury, vendu en 2002;
+f) 781 – 785, rue Nelson à Hawkesbury, vendu en 2002;
+g) 601 – 603, rue Paul à Hawkesbury, vendus en 2002;
+h) 606 – 608, rue Paul à Hawkesbury, vendu en 2002;
+i) 612 – 614, rue Paul à Hawkesbury, vendu en 2002;
+j) 607 – 609, rue Paul à Hawkesbury, vendu en 2002;
+k) 613 – 615, rue Paul à Hawkesbury, vendu en 2002;
+l) 511 – 513, rue Mario à Hawkesbury, vendu en 2002;
+m) 521 – 523, rue Mario à Hawkesbury, vendu en 2002;
+n) 540 – 542, rue Mario à Hawkesbury, vendu en 2002;
+o) 541 - 543, rue Mario à Hawkesbury, vendu en 2002;
+p) 550 – 552, rue Mario à Hawkesbury, vendu en 2002;
+q) 550 – 552, rue Mario à Hawkesbury, vendu en 2002;
+r) 239 – 242, rue Prospect à Hawkesbury, vendu en 2002;
+s) 200 – 202, rue Prospect à Hawkesbury, vendu en 2002;
+t) 250 – 252, rue Prospect à Hawkesbury, vendu en 2002;
+u) 64 – 66 - 68 - 70, rue Kincardine à Hawkesbury, vendu en 2002; et
+v) 72 – 74 - 76 - 78, rue Kincardine à Hawkesbury, vendu en 2002.
+[23] Selon l'appelant, les immeubles vendus immédiatement après la construction ont généré un revenu d'entreprise et ceux qui ont été loués à des tiers avant d'être vendus ont généré un gain en capital. Les huit opérations reconnues par l'intimée comme ayant généré un gain en capital touchent les immeubles a), b), c), r), s), t) u) et v). Le litige porte donc sur la vente, en 2002, des immeubles que l'on trouve sur les rues Nelson, Paul et Mario, à Hawkesbury.
+[24] L'appelant a fait valoir dans son témoignage que les immeubles de la rue Nelson et Paul ont été construits et loués en 1999 alors que ceux de la rue Mario ont été construits à la fin de 2000. Ils étaient tous loués au moment de leur vente en 2002 et, selon l'appelant, ils font partie du groupe d'immeubles qu'il a fait construire avec l'intention de les garder pour toucher les revenus de location et éventuellement les léguer à ses enfants.
+[25] Les difficultés financières de l'appelant ont fait surface en 1999. Compte tenu de l'ampleur de ses projets et des difficultés qu'il éprouvait à les financer, l'appelant s'est vu dans l'obligation de changer ses objectifs et de devoir disposer de certains immeubles. Les taux d'intérêt fluctuaient entre 10% et 15% et tous ses projets étaient financés au privé. Les travaux d'infrastructure des 19 lots lui ont coûté entre 700 000 $ et 800 000 $ avant même le début de la construction des immeubles.
+[26] En 2000, l'appelant, avec l'aide d'un dénommé Robert Primeau qui lui a déniché un acheteur, a vendu les immeubles situés sur la rue Paul. De son propre aveu, l'appelant ne pouvait pas rentabiliser son projet en comptant seulement sur les revenus de location et devait avoir recours à la vente de ses immeubles. Il vivait, selon lui, avec l'espoir de vendre. Ces ventes lui permettaient également de financer son projet « la Source » qui comptait de 40 à 50 lots. Il a aussi vendu des immeubles du projet « la Source », dont ceux situés sur la rue Mario, pour financer d'autres projets d'achat de terrains, notamment à Rockland et Ottawa.
+[27] Robert Primeau continuait d'aider l'appelant à trouver des acheteurs. À tous les mois, l'appelant examinait sa situation financière et décidait s'il devait vendre ou non des immeubles. Le choix des immeubles à vendre se faisait en fonction de la rue sur laquelle ils étaient situés. Il vendait donc ses immeubles sur une même rue afin d'éviter de se trouver en compétition avec de nouveaux acheteurs. Le choix des immeubles à vendre se faisait aussi en fonction des liquidités que la vente pouvaient lui rapporter et du fait ou non que ces immeubles étaient loués. L'appelant a reconnu que, pour continuer à mettre en valeur des projets, il devait vendre des immeubles pour s'assurer d'avoir suffisamment de liquidités.
+[28] Dans une décision récente de la Cour d'appel fédérale, soit l'arrêt Canada Safeway Ltd. c. la Reine, le juge Nadon a résumé au paragraphe 61 de la décision les principes qui, selon la jurisprudence, servent à déterminer si une opération génère un gain en capital ou un revenu d'entreprise. Voici le paragraphe en question :
+[TRADUCTION]
+On peut dégager de ces décisions quelques principes qui peuvent, à mon avis, être résumés comme suit. Premièrement, il n’est pas facile de tracer une ligne de démarcation entre les revenus et les gains en capital et il est donc nécessaire, pour bien les distinguer, de tenir compte d’une foule de facteurs, et notamment de l’intention du contribuable au moment de l’acquisition du bien en litige. Deuxièmement, pour que l’opération soit considérée comme un projet comportant un risque de caractère commercial, il faut qu’au moment de l'acquisition, le contribuable ait eu à l’esprit la possibilité de revendre comme motif qui le poussait à faire cette acquisition. La conclusion qu'une telle motivation existe devrait être basée sur des inférences découlant des circonstances qui entourent l'opération. Autrement dit, c’est toute la conduite du contribuable qu’il faut apprécier. Troisièmement, en ce qui concerne l’« intention secondaire », celle-ci doit aussi avoir existé au moment de l’acquisition du bien et le contribuable doit avoir été motivé par l'intention secondaire de le revendre avec bénéfice au cas où une occasion intéressante se présenterait. Quatrièmement, le fait que le contribuable envisageait la possibilité de revendre son bien ne suffit pas, en soit, pour conclure à l’existence d’un projet comportant un risque de caractère commercial. Dans leur ouvrage Principles of Canadian Income Tax Law, précité, les éminents auteurs expriment l’avis, dans leur analyse du critère applicable en ce qui a trait à l’existence d’une « intention secondaire », que [traduction] « les critères de la doctrine de l’intention secondaire ne seront respectés que si la perspective de revente à profit a joué un rôle important dans la décision d’acquérir le bien » (à la page 337). Je souscris entièrement à cette proposition. Cinquièmement, le témoignage du contribuable au sujet de son intention n’est pas déterminant et doit être examiné à la lumière de l’ensemble des circonstances.
+A number of principles emerge from these decisions which I believe can be summarized as follows. First, the boundary between income and capital gains cannot easily be drawn and, as a consequence, consideration of various factors, including the taxpayer's intent at the time of acquiring the property at issue, becomes necessary for a proper determination. Second, for the transaction to constitute an adventure in the nature of trade, the possibility of resale, as an operating motivation for the purchase, must have been in the mind of the taxpayer. In order to make that determination, inferences will have to be drawn from all of the circumstances. In other words, the taxpayer's whole course of conduct has to be assessed. Third, with respect to "secondary intention", it also must also have existed at the time of acquisition of the property and it must have been an operating motivation in the acquisition of the property. Fourth, the fact that the taxpayer contemplated the possibility of resale of his or her property is not, in itself, sufficient to conclude in the existence of an adventure in the nature of trade. In Principles of Canadian Income Tax Law, supra, the learned authors, in discussing the applicable test in relation to the existence of a "secondary intention", opine that "the secondary intention doctrine will not be satisfied unless the prospect of resale at a profit was an important consideration in the decision to acquire the property" (see page 337). I agree entirely with that proposition. Fifth, the viva voce evidence of the taxpayer with respect to his or her intention is not conclusive and has to be tested in the light of all the surrounding circumstances.
+[29] L'appelant est un entrepreneur qui, depuis 1994, construit des immeubles locatifs dans la région de Hawkesbury. Le litige porte sur le traitement fiscal à accorder aux 22 ventes effectuées par ce contribuable. L'intimée a concédé que l'appelant a fait construire 8 immeubles en 1995, 1996 et 1997 sur des lots aménagés dans le seul et unique but d'en faire la location. Elle a également admis que leur disposition a généré un gain en capital et non un revenu d'entreprise, limitant ainsi le litige à quatorze opérations.
+[30] Sans reprendre toute l'historique des relations d'affaires de l'appelant, dès 1999, ses projets de construction d'immeubles ont reçu un nouvel élan lorsqu'il s'est porté acquéreur d'un terrain au coût de 250 000 $ et y a fait faire des travaux d'aménagement de près de 20 000 $ pour chacun des 19 lots qu'il entendait viabiliser. Durant cette même période, il a exercé des options d'achat pour le projet « la Source » sur environ une quarantaine de lots où, encore une fois, il devait faire faire des travaux d'aménagement, emprunter des fonds, construire des immeubles et, dans la plupart des cas, les vendre.
+[31] À mon avis, les projets d'envergure de l'appelant, jumelés à ses difficultés financières déjà existantes en 1999, l'obligeaient à changer sa façon de faire qui était de construire des immeubles uniquement dans le but d'en faire la location. Le coût excessif du financement privé, selon son propre aveu, ne permettait pas la réalisation de ces deux projets sans la vente de certains immeubles. L'appelant, à mon avis, savait dès le début qu'il ne pourrait pas conserver tous ses immeubles dans les circonstances et qu'il devrait en vendre un certain nombre pour mener ses projets à terme. En fait, non seulement se fiait-il sur Robert Primeau pour l'aider à vendre ses immeubles mais il choisissait lui-même les immeubles à vendre sur une base mensuelle et en fonction de leur emplacement pour éviter d'avoir à concurrencer ses propres acheteurs. Les profits provenant de la vente des immeubles en question lui permettaient de continuer d'exploiter son entreprise et d'arriver éventuellement à réaliser davantage de profits ou de revenus. L'appelant ne m'a donc pas convaincu selon la prépondérance des probabilités que les ventes en question ont généré un gain en capital.
+La JVM des immeubles vendus à des personnes liées
+[32] Il s'agit de cinq ventes effectuées à des personnes liées, dont deux en 1999 et une en 2000, 2001 et 2002 respectivement. Le fait que les parties à ces opérations étaient des personnes liées n'est pas en litige. En vertu du paragraphe 69(1) de la Loi, le contribuable qui dispose d'un bien en faveur d'une personne avec laquelle il a un lien de dépendance est réputé avoir reçu, par suite de la disposition, une contrepartie égale à la JVM.
+[33] Dans son avis d'appel modifié, aux paragraphes 48 à 59 inclusivement, l'appelant allègue que les cinq immeubles en question ont été vendus à des personnes liées pour des montants suivants :
+Année
+Addresse
+Prix de vente
+$
+1998
+1999
+2000
+741 – 745, rue Nelson
+751 – 755, rue Nelson
+714 – 716, rue Paul
+530 – 532, rue Mario
+911 – 913, rue Jacynthe
+174 000
+174 000
+174 000
+190 400
+190 400
+[34] Ces allégations sont admises par l'intimée au paragraphe 1 de sa réponse à l'avis d'appel modifié. Toutefois, au paragraphe 16 de sa réponse à l'avis d'appel modifié, l'intimée allègue que les deux immeubles situés sur la rue Nelson ont chacun une valeur marchande de 175 500 $; que celui du 714 – 716, rue Paul a une valeur marchande de 269 000 $, que celui du 530 – 532, rue Mario, vaut 272 000 $ et que celui du 911 – 913, rue Jacynthe, vaut 272 000 $. Il est à noter qu'une part de 90% de ce dernier immeuble a été vendue au fils de l'appelant. La juste valeur marchande de cette part correspond donc à 244 800 $. Le montant indiqué dans la réponse à l'avis d'appel est de 228 780 $. Il doit y avoir une erreur de calcul.
+[35] Au début de l'audience, l'intimée a consenti à réduire la JVM des deux immeubles de la rue Nelson vendus en 1999 à 174 000 $, soit le même montant que le prix de vente allégué des immeubles dans l'avis d'appel modifié. Pour ce qui est du 714 – 716, rue Paul, le Ministre a consenti à réduire le montant de la JVM de l'immeuble à son prix de vente allégué à des tiers, soit $259 000 $, pour l'immeuble du 530 – 532, rue Mario, le Ministre a consenti de réduire le montant de la JVM à 250 000 $, soit le prix de vente allégué à des tiers et, pour l'immeuble du 911 – 913, rue Mario, le Ministre a consenti à réduire la JVM à 225 000 $.
+[36] L'appelant n'a produit aucun expert pouvant réfuter la JVM établie par le Ministre dans sa réponse à l'avis d'appel modifié. Dans son témoignage, l'appelant a affirmé en ce qui concerne les cinq opérations effectuées avec des personnes liées, qu'il ne leur a vendu qu'un terrain et que, par la suite, il a fait construire l'immeuble. Le prix de vente des terrains aux 741 – 745 et 751 – 755, rue Nelson, de même qu'au 714 – 716, rue Paul, était de 6 000 $ chacun alors que le prix de vente du terrain au 530 – 532, rue Mario vendu à son épouse et celui du terrain au 911 – 913, rue Jacynthe à son fils, était de 1 $. J'ai remarqué que le témoignage de l'appelant contredit non seulement les allégations contenues dans son avis d'appel modifié qui, de toute évidence, ont été préparées par des conseillers juridiques qu'il avait retenus à l'époque, mais aussi les observations faites par les mêmes conseillers juridiques de l'appelant dans la correspondance envoyée à l'Agence du revenu du Canada le 14 octobre 2005 et le 19 mai 2006.
+[37] L'appelant a déposé en preuve des fiches du bureau d'enregistrement immobilier de la province de l'Ontario, soit les pièces A-13, A-14, A-15, A-16 et A-17, qui appuient sa version voulant que le transfert des biens en question aux personnes liées ait été fait en contrepartie de 6 000 $ et de 1 $, tel qu'allégué.
+[38] L'appelant a aussi déposé en preuve la documentation visant chacune des opérations faites avec les personnes liées. Cette documentation révèle les informations suivantes:
+Opération 741 – 745, rue Nelson (pièce A-7, volume 7, onglet 64)
+L'acte de transfert à l'acquéreur a été enregistré le 30 avril 1999 tout comme une hypothèque de 174 000 $. Toutefois, la conclusion de l'opération a eu lieu 4 jours avant cette date. soit le 26 avril 1999. La page des dépenses indique la vente d'un terrain et la construction d'un immeuble. Le permis de construire a été délivré au nom de l'acquéreur mais aux soins de l'appelant. L'état de compte en fiducie (Trust Ledger Statement) de l'avocat de l'appelant révèle qu'au moment de la conclusion de l'opération, l'appelant a reçu de l'acquéreur la somme de 54 810 $. Le certificat d'utilisation a été délivré en août 1999.
+Opération concernant le 751 – 755, rue Nelson (pièce A-7, volume 7, onglet 65)
+L'opération a eu lieu le 10 juin 1999. L'appelant avait consenti à un tiers un prêt hypothécaire de 30 000 $ grevant ce terrain en février 1999. La page des dépenses indique la vente de terrain et la construction d'un immeuble. Le permis de construire a été délivré au nom de l'acquéreur aux soins de l'appelant. L'état de compte en fiducie de l'avocat de l'appelant en date du 8 juin indique que l'appelant a reçu de l'acquéreur la somme de 84 564 $ et, dans une lettre du 18 juin 1999, l'avocat informe l'appelant qu'il a obtenu la mainlevée de l'hypothèque consentie à un tiers en février 1999. Le certificat d'utilisation a été délivré en août 1999.
+Opération 714 – 716, rue Paul (pièce A-2, volume 7, onglet 64)
+Cette opération a eu lieu le 11 mai 2000. La page des dépenses indique la vente du terrain à Guy Chartrand et la construction d'une maison jumelée. Le certificat d'utilisation a été délivré le 29 octobre 1999. L'état des rajustements de l'avocat indique un prix de vente de 6 000 $ et une avance progressive jusqu'à concurrence de 174 000 $.
+Opération 530 – 532, rue Mario (pièce A-3, volume 3, onglet 41)
+Le transfert à l'acquéresse, soit l'épouse de l'appelant, a été enregistré le 22 mai 2001 tout comme le prêt hypothécaire de 190 000 $, mais l'opération a eu lieu le 18 mai 2001. La page des dépenses ne fait pas référence pas à une vente de terrain et n'indique pas à qui le permis de construire a été délivré. L'état de compte en fiducie de l'avocat indique cependant que l'acquéresse a remis à l'appelant à la conclusion de l'opération une somme de 190 400 $, soit le montant complet du prêt hypothécaire. Il n'y a aucune mention de la délivrance d'un certificat d'utilisation.
+Opération 911 – 913, rue Jacynthe (pièce A-5, volume 5, onglet 52)
+Cette opération a eu lieu le 5 novembre 2002. À la même date, un prêt hypothécaire de 190 400 $ a été enregistré. L'appelant a transféré 90% de ses droits à son fils. La page des dépenses ne fait pas état de la vente du terrain et n'indique pas le nom du titulaire du permis de construire mais il indique que celui-ci a été délivré le 28 septembre 2001, soit plus d'un an avant la conclusion de l'opération. L'état de compte en fiducie mentionne le versement de la somme de 171 360 $ au vendeur, soit l'appelant, au moment de l'opération.
+[39] À la lumière des informations recueillies dans cette documentation, il me paraît fort probable que trois des cinq opérations en litige portaient sur la vente d'un terrain, soit les trois premières opérations, à savoir celles concernant les deux terrains de la rue Nelson et celle concernant le terrain de la rue Mario. Vraisemblablement, les deux dernières opérations ont été conclues et les versements à l'appelant ont été faits plusieurs mois après la délivrance des permis de construire.
+[40] Cette documentation contredit les allégations de l'appelant admises par l'intimé dans les plaidoiries, à l'exception des deux dernières opérations. Je ne suis donc pas en mesure de conclure qu'il y a eu vente d'immeubles dans les trois cas en question nonobstant les plaidoiries des parties et la documentation soumise en preuve.
+[41] Il s'agit maintenant d'établir la JVM des biens visés par les cinq opérations en question. L'appelant a soutenu que les évaluations préparées par la Société d'évaluation foncière des municipalités (la Séfm) de la province de l'Ontario donnaient une indication fiable de la JVM. L'appelant a renvoyé la Cour au montant indiqué à la page des dépenses visant les opérations en question. Pour l'opération visant le 530 – 532, rue Mario, le montant de l'évaluation pour les fins d'impôt foncier (Séfm) s'élève à 160 000 $. Celui du 911 – 913, rue Jacynthe, s'élève à 197 000 $. Selon les documents, le 530 – 532, rue Mario, a été vendu pour la somme de 190 400 $, soit 30 400 $ de plus que la valeur établie par la Séfm et le 911 – 913, rue Jacynthe, a été vendu pour 171 360 $, soit 25 640 $ de moins que la valeur établie par la Séfm. L'appelant avait déclaré à l'intimée que ce bien-fonds avait été vendu pour la somme de 190 400 $, soit 6 600 $ de moins que la valeur établie par la Séfm. À mon avis, les évaluations faites par la Séfm pour les fins de l'évaluation foncière ne sont pas des indicateurs fiables de la JVM selon la définition de cette expression énoncée dans la décision Henderson Estate and Bank of New York c. M.R.N., 1973 A.C.F. 800.
+[42] Les immeubles construits par l'appelant, selon la preuve, sont tous similaires et le coût de construction ne varie que d'environ 10 000 $ selon la configuration des chambres dans les unités de logement. La majorité des ventes faites à des tiers, selon les concessions faites par le ministre et selon les prix de vente allégués par l'appelant, se chiffrent à environ 250 000 $ par immeuble. Si l'appelant a vendu les immeubles en question à des tiers pour 259 000 $ et que le ministre admet une JVM de 250 000 $, il me semble raisonnable de conclure que la JVM des deux immeubles était de 250 000 $. Il faudra déduire 10% de cette valeur en ce qui concerne le 911 – 913, rue Jacynthe.
+[43] La JVM des trois terrains vendus pose problème. Dans la documentation déposée par l'appelant, le prix des terrains de la rue Nelson, soit les 771 – 775, 781 – 785 et 721 – 725, s'établit à 36 000,44 $. On trouve aussi une opération de vente à Denis Riel du 731 – 7445, rue Nelson, où le coût du terrain à titre de dépense est de l'ordre de 6 000 $. Ces quatre opérations ont été faites avec des tiers. La preuve ne révèle pas si les terrains vendus étaient viabilisés. Après répartition, le coût d'acquisition de chacun de ces terrains a été établi par l'intimée, au paragraphe 10(j) de sa réponse à l'avis d'appel modifié, à 15 350 $. J'établis donc la JVM des deux terrains de la rue Nelson à 15 350 $ chacun.
+[44] En ce qui concerne le prix du terrain du 714 – 716, rue Paul, nous savons, selon la page des dépenses, que le 702 – 704, le 703 – 705, le 708 – 710, le 709 – 711 et le 715 – 717, rue Paul, ont été vendus pour la somme de 13 160 $ chacun. Je conclus que la JVM du terrain du 714 – 716, rue Paul, est de 13 160 $.
+Dossier TPS – 2008-263(GST)G
+[45] Tel que déjà mentionné, l'intimée a accordé à l'appelant la totalité des CTI que celui-ci avait démandés (voir la pièce I-17). L'intimée a aussi concédé le fait que les ventes d'immeubles par l'appelant à Denis Riel étaient des ventes entre personnes non liées de sorte qu'il n'y a pas de rajustement à faire dans les calculs de la taxe sur les produits et services (TPS). L'intimée concède aussi le fait que l'appelant a accordé des crédits ou des rabais à ses acheteurs, réduisant ainsi le prix de vente (voir le tableau I-16(2)). Il s'agit donc de déterminer la JVM pour les fins de la cotisation en vertu de l'article 191 de la LTA et, à cette fin, il faut premièrement établir si la valeur déterminée par la Séfm constitue une méthode d'évaluation valable. Deuxièmement, il faut déterminer si les ventes faites aux cinq personnes liées à l'appelant doivent faire l'objet d'un rajustement aux fins de la TPS et, finalement, il faut déterminer à partir de quel moment doit être calculée la TPS applicable concernant les immeubles qui ont fait l'objet d'une courte période de location avant la vente.
+[46] Les propriétés qui font l'objet du litige en vertu de l'article 191 sont recensées aux tableaux I-15(2) et I-15(2). Non seulement fait-on dans les deux tableaux la distinction entre les montants en litige avant et après les concessions de l'appelant mais les immeubles y sont identifiés en fonction de chaque période en litige. On y donne la date de la fin de la construction, la JVM pour les fins de l'autocotisation, la TPS payable et les coûts de construction selon les observations faites par l'appelant par l'entremise de ses conseillers juridiques à l'époque et selon la correspondance du 14 octobre 2005 et du 19 mai 2006. Ces tableaux indiquent également la JVM équivalente selon l'intimée pour les fins de l'autocotisation, la TPS payable et la différence entre les deux.
+[47] Je ne crois pas qu'il soit nécessaire de reproduire les tableaux. J'ai constaté que, dans certains cas, la JVM établie par l'intimée est à l'avantage de l'appelant.
+[48] Le paragraphe 191(3) nous dit qu'un constructeur qui fait la construction d'immeubles d'habitation à logement multiples à des fins locatives doit verser la TPS sur la JVM de l'immeuble au moment où les travaux sont achevés en grande partie ou, s'il est postérieur, le jour où l'utilisation de l'habitation est transférée aux locataires. Le paragraphe se lit comme suit:
+Fournitures à soi-même d'un immeuble d'habitation à logements multiples
+Pour l'application de la présente partie, lorsque les conditions suivantes sont réunies :
+(a) la construction ou les rénovations majeures d'un immeuble d'habitation à logements multiples sont achevées en grande partie,
+[…]
+(c) le constructeur, la personne ou tout particulier qui a conclu avec celle-ci un bail, une licence ou un accord semblable visant une habitation de l'immeuble est le premier à occuper une telle habitation à titre résidentiel après que les travaux sont achevés en grande partie,
+le constructeur est réputé :
+(d) avoir effectué et reçu, par vente, la fourniture taxable de l'immeuble le jour où les travaux sont achevés en grande partie ou, s'il est postérieur, le jour où la possession ou l'utilisation de l'habitation est transférée à la personne ou l'habitation est occupée par lui;
+(e) avoir payé à titre d'acquéreur et perçu à titre de fournisseur, au dernier en date de ces jours, la taxe relative à la fourniture, calculée sur la juste valeur marchande de l'immeuble ce jour-là.
+[49] L'appelant n'a produit à l'audience aucune preuve modifiant les observations faites par ses conseillers juridiques sur les dates de fin de construction et de mise en location, ni sur les coûts de construction sur lesquels il s'est basé pour calculer la TPS payable aux fins de l'autocotisation. Il est aussi important de signaler que, durant les périodes en question, l'appelant ne s'est pas autocotisé à l'égard d'aucun de ses immeubles et n'a pas versé de TPS au motif que le tout s'annulait en raison des CTI que l'appelant avait demandé au titre de ses dépenses dans ses états financiers.
+[50] L'appelant demande maintenant que la Cour utilise l'évaluation foncière de la Séfm pour les fins de l'établissement de la JVM et qu'on lui accorde des réductions de JVM sur certains immeubles dont la JVM aurait été établie en fonction de certains prix de vente établis plusieurs mois après la mise en location. Or, la preuve avancée par l'appelant est insuffisante. Il n'est pas possible pour la Cour de tenir compte de l'argument de l'appelant étant donné que celui-ci ne l'a renvoyée à aucune pièce précise parmi toutes celles qu'il a soumises.
+[51] J'ai conclu que les évaluations foncières préparées par la Séfm n'établissaient pas une JVM conforme à la définition de ce qu'est une JVM selon la jurisprudence. Il y aurait peut-être lieu en l'espèce de faire une analyse afin de déterminer si le coût de construction d'un immeuble est approprié comme méthode pour établir une JVM, mais un tel exercice nuirait à l'appelant au motif que, dans le cas de presque la moitié des immeubles, la JVM utilisée par l'intimée se situe à environ 35 000 $ en dessous du coût de construction établi par l'appelant.
+[52] Les JVM utilisées par l'intimée n'ont pas été réfutées par l'appelant et elles sont basées sur les prix de vente d'immeubles similaires vendus par l'appelant à des tiers et, dans certains cas, sur des prix inférieurs à ceux-ci. Ces prix de vente, à mon avis, respectent la définition reconnue d'une JVM et, en l'espèce, il n'y a rien qui puisse me permettre de m'appuyer sur un coût de construction ou même de remplacement quand il existe des ventes comparables de biens similaires effectuées par l'appelant lui-même.
+[53] La définition jurisprudentielle est celle du juge Cattanach dans Henderson, succession c. M.R.N., 1973 A.C.F. 800 au paragraphe 20 :
+La Loi ne donne aucune définition de l'expression "juste valeur marchande"; celle-ci a été définie de diverses façons, généralement selon ce qu'avait à l'esprit la personne cherchant à formuler la définition. je ne crois pas nécessaire d'essayer de donner une définition précise de cette expression telle qu'employée dans la Loi; il suffit, me semble-t-il, de dire qu'il y a lieu de donner à ces mots leur sens ordinaire. Dans son sens courant, me semble-t-il, cette expression désigne le prix le plus élevé que le propriétaire d'un bien peut raisonnablement s'attendre à en tirer s'il le vend de façon normale et dans le cours ordinaire des affaires, le marché n'étant pas soumis à des pressions inhabituelles et étant constitué d'acheteurs disposés à acheter et des vendeurs disposés à vendre, qui n'ont entre eux aucun lien de dépendance et qui ne sont en aucune façon obligés d'acheter ou de vendre. J'ajouterais que cet exposé succinct de mon point de vue sur le sens à donner à l'expression "juste valeur marchande" comprend ce que j'estime être l'élément essentiel, soit un marché libre de toutes restrictions, où le prix est établi par le jeu de la loi de l'offre et de la demande entre des acheteurs et des vendeurs avertis et désireux d'acheter et de vendre. On voit que la définition donnée de l'expression "juste valeur marchande" est également applicable à l'expression "valeur marchande". D'ailleurs, il n'est pas sûr, que l'emploi du mot "juste" ajoute quoi que ce soit aux mots "valeur marchande".
+[54] Les JVM établies par le ministre et que l'on trouve à la pièce I-16(2) sont donc retenues pour les fins de ce litige.
+[55] Quant aux immeubles vendus à des personnes liées, j'ai déjà conclu que trois de ces ventes constituaient des ventes de terrain seulement, de sorte qu'il faudra rajuster le paiement de la TPS en conséquence et refaire les calculs du versement de la TPS en fonction des prix de vente ou de la JVM des immeubles conformément à la pièce I-14(2), moins la JVM du terrain que j'ai établie aux paragraphes 43 et 44. Quant aux deux autres propriétés, pour les motifs déjà exprimés, la JVM établie à la pièce I-14(2) devra servir aux fins du calcul de la TPS à verser en fonction de ces deux ventes, soit 250 000 $ pour le 530 – 532, rue Mario et 225 000 $ pour le 911 – 913, rue Jacynthe. Dans le cas des opérations entre personnes liées, la contrepartie d'un bien est réputée égale à la JVM du bien (voir le paragraphe 155(1) de la LTA).
+[56] Les intérêts et les pénalités devront être rajustés pour tenir compte des concessions faites par le ministre et des présents motifs. Les appels sont accueillis en partie et les cotisations sont déférées au ministre pour nouvel examen et nouvelles cotisations. L'intimée a droit à ses dépens.
+Signé à Ottawa, Canada, ce 19e jour de mars 2010.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2010 CCI 92
+Nºs DES DOSSIERS DE LA COUR : 2008-262(IT)G et 2008-263(GST)G
+INTITULÉS DES CAUSES : Marcel Chartrand c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATES DE L’AUDIENCE : les 18, 19 et 20 janvier 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 19 mars 2010
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocats de l'intimée :
+Me Gatien Fournier et
+Me Julian Malone
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

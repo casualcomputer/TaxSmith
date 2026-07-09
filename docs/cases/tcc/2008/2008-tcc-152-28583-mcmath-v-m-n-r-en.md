@@ -1,0 +1,132 @@
+---
+title: "McMath v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28583/index.do"
+last_modified: "2008-03-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 152"
+citation2: ""
+neutral_citation: "2008 TCC 152"
+decision_date: "2008-03-19"
+language: "en"
+item_id: "28583"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1050
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:25:49.946000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e1f4e8b997136db2ff89f801af18bc659d68c70bddb34f4862ea7f82d26fb734"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McMath v. M.N.R.
+
+- Citation: 2008 TCC 152
+- Decision date: 2008-03-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1050, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McMath v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-03-19
+Neutral citation
+2008 TCC 152
+File numbers
+2007-2941(EI)
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Dockets: 2007-2941(EI)
+2007-3005(CPP)
+BETWEEN:
+RANDALL C. McMATH,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard together on March 11, 2008 at Calgary, Alberta.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Gregory Perlinski
+____________________________________________________________________
+JUDGMENT
+The appeals pursuant to subsection 103(1) of the Employment Insurance Act and to subsection 28(1) of the Canada Pension Plan for the period from January 1, 2000 to May 31, 2005, are dismissed.
+Signed at Ottawa, Canada, this 19th day of March 2008.
+“D.G.H. Bowman”
+Bowman, C.J.
+Citation: 2008TCC152
+Date: 20080319
+Dockets: 2007-9241(EI)
+2007-3005(CPP)
+BETWEEN:
+RANDALL C. McMATH,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals are from decisions of the Minister of National Revenue that the appellant was not engaged under a contract of service with MKS Enterprises Inc. (“MKS”) for the purpose of the Canada Pension Plan (“CPP”) and the Employment Insurance Act (“EI Act”) for the period January 1, 2000 to May 31, 2005. The appellant contends that he was an employee of MKS and that MKS should have been making source deductions such as EI or CPP premiums in respect of his employment with it.
+[2] At the conclusion of the case I informed Mr. McMath that I had to dismiss his appeals but that I would provide him with brief written reasons.
+[3] MKS operates a trucking business with about 20 long distance drivers and two or three local drivers. The local drivers are paid on an hourly basis. The long distance drivers including Mr. McMath during the period in question were, to put it colloquially, employed through private companies owned by the drivers. When the appellant began working for MKS in the fall of 1999, Mike Segar, the owner and president of MKS, caused a company to be incorporated, 849817 Alberta Ltd. (“849”). Mr. McMath and his common-law spouse, Norma Nevard, were directors and each 50% shareholders of 849 and Mr. McMath was the president.
+[4] Exhibit R‑1 is an independent contractor’s agreement dated September 20, 2004 between 849 and MKS whereby, essentially, 849 contracted with MKS to supply a driver for a vehicle owned by MKS. The contract is detailed and is about three pages long. There is no particular reason to set out the particulars of the contract. It is an ordinary enough contract to provide services in which 849’s responsibilities are set out. 849 was to be paid on a per mile basis. There was an earlier similar contract in effect from the commencement of the period in question.
+[5] 849 invoiced MKS and MKS paid the amounts of the invoices into 849’s bank account. 849 paid management salaries and directors fees to the appellant and his spouse. 849, the appellant and his spouse filed income tax returns on the basis that 849 received fees for services and the appellant and his spouse received the same directors fees and management salaries as 849 deducted in its return. They may have been incorrect in describing these fees and salaries and fees as “business” income rather than employment income but it really makes no difference for the purposes of these appeals. The returns filed by the appellant and 849 were accepted by the Minister of National Revenue in all years in the period in question.
+[6] Mr. McMath argues that had it not been for the company, 849, (which he says was a requirement of his employment by Mr. Segar) he would be an hourly employee of MKS. I agree. Had 849 not been inserted between the appellant and MKS, Mr. McMath would have been an employee of MKS on any of the various tests employed from time to time by the Federal Court of Appeal as outlined in Lang v. M.N.R., [2008] F.C.J. No. 102 (Q.L.), 2008 FCA 29.
+[7] The company, however, is there. I cannot ignore it. The legal relations between MKS, 849 and the appellant are genuine and legally effective and they reflect the reality of the matter. Where parties choose to cast their commercial relations in a particular legal structure and they, as well as the Minister of National Revenue, act on the basis of that structure, they cannot resile from that position and abandon all or some part of the structure when it becomes inconvenient: Collins v. The Queen, 96 DTC 1034 at 1039; aff’d. 98 DTC 6281.
+[8] I cannot conclude on the evidence that during the period January 1, 2000 to May 31, 2005 the appellant was an employee of MKS. MKS’ legal relationship was with 849 and the appellant’s income was in the form of management salaries and directors fees from 849.
+[9] The appeals are dismissed.
+Signed at Ottawa, Canada, this 19th day of March 2008.
+“D.G.H. Bowman”
+Bowman, C.J.
+CITATION:
+2008TCC152
+COURT FILES NOS.:
+2007-2941(EI) & 2007-3005(CPP)
+STYLE OF CAUSE:
+Randall C. McMath v. M.N.R.
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+March 11, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT &
+REASONS FOR JUDGMENT:
+March 19, 2008
+APPEARANCES:
+For the Appellant The Appellant himself
+Counsel for the Respondent: Gregory Perlinski
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

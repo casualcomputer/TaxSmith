@@ -1,0 +1,193 @@
+---
+title: "Boily v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28508/index.do"
+last_modified: "2008-02-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 92"
+citation2: ""
+neutral_citation: "2008 TCC 92"
+decision_date: "2008-02-22"
+language: "en"
+item_id: "28508"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1270
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:30:33.447000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "389b84c28a47a38fa46dff3ac0d865eb525ee62da9e1c85da099a43ce6c2683b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boily v. The Queen
+
+- Citation: 2008 TCC 92
+- Decision date: 2008-02-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1270, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boily v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-22
+Neutral citation
+2008 TCC 92
+File numbers
+2006-2656(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2656(IT)G
+BETWEEN:
+JEAN-PAUL BOILY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 28, 2008, at Quebec City, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is allowed, with costs to the appellant, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant was justified in claiming the amount of $53,000 as a business investment loss incurred by 9063-6739 Québec Inc., in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 22nd day of February 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 27th day of June 2008.
+Erich Klein, Revisor
+Citation: 2008TCC92
+Date: 20080222
+Docket: 2006-2656(IT)G
+BETWEEN:
+JEAN-PAUL BOILY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This appeal pertains to the 2001 taxation year.
+[2] The issue is whether the Minister of National Revenue ("the Minister") was justified in disallowing part of the appellant's business investment loss claim — specifically, an amount of $53,000 which he reported for the 2001 taxation year following the bankruptcy of 9063-6739 Québec Inc.
+[3] To explain and justify the assessment that gave rise to this appeal, the respondent relied on the following assumptions of fact:
+[TRANSLATION]
+(a) 9063‑6739 Québec Inc. was incorporated on May 7, 1998, under Part IA of the Quebec Companies Act, R.S.Q., c. C‑38. (admitted)
+(b) 9063‑6739 Québec Inc. was in the business of computer equipment sales. (admitted)
+(c) On July 11, 2001, 9063‑6739 Québec Inc. filed a proposal under the Bankruptcy and Insolvency Act, R.S.C. 1985, c. B‑3. (admitted)
+(d) On August 1, 2001, 9063‑6739 Québec Inc. went bankrupt. (admitted)
+(e) The president of 9063‑6739 Québec Inc. was Daniel Boily, the appellant's brother. (admitted)
+(f) The sole shareholder of 9063‑6739 Québec Inc. was the appellant, who was a lawyer. (admitted)
+(g) On his income tax return for the 2001 taxation year, the appellant reported a $196,746 business investment loss resulting from the bankruptcy of 9063‑6739 Québec Inc. (admitted)
+(h) The $196,746 loss reported included $73,646 that the appellant had to pay in 2001 as a surety for 9063‑6739 Québec Inc. and $70,100 in issued and paid-up share capital of 9063‑6739 Québec Inc. held by the appellant. (admitted)
+(i) The business investment loss actually incurred by the appellant following the bankruptcy of 9063‑6739 Québec Inc. was $143,746. (admitted)
+(j) The reported loss of $196,746 also included a third amount, $53,000, which, according to the appellant's explanation, was an advance to 9063‑6739 Québec Inc. (admitted)
+(k) The financial statements of 9063‑6739 Québec Inc. show a [TRANSLATION] "debt to shareholder" in the amount of $24,892 for the fiscal year ended April 30, 1999, and a [TRANSLATION] "debt to shareholder" of nil for the fiscal years ended April 30, 2000, and April 30, 2001, respectively. (no knowledge)
+(l) The appellant did not show that on August 1, 2001 he had any claim resulting from advances to 9063‑6739 Québec Inc. (denied)
+(m) On August 1, 2001, 9063‑6739 Québec Inc. did not owe any amount with respect to shareholder advances. (denied)
+[4] The appellant has admitted most of the assumptions of fact. He is essentially claiming no knowledge of, or denying, the assumptions related to the respondent's refusal to accept the $53,000 business investment loss for the 2001 taxation year.
+[5] The appellant, a lawyer by profession, testified solely about this aspect of the matter. He explained and described the circumstances surrounding the creation of the business, of which he was the sole shareholder and his brother the sole director.
+[6] The business, which sold computer equipment, experienced phenomenal growth, very rapidly adding several locations to its sales network after some aggressive investment in advertising.
+[7] The appellant explained that he had no particular expertise in this field; he completely trusted his brother, who managed the various locations with the help of one other individual.
+[8] The appellant went there from time to time in order to ensure that everything was running smoothly; he saw the advertising and witnessed the expansion, and had no doubt that everything was running well. He said that the requests for injections of money were not unduly surprising to him because it was a new business and things seemed promising.
+[9] The appellant invested substantial amounts in different forms — shares, advances, a surety — in a company operating in a field where competition is fierce and things change quickly; I am referring, in particular, to the very short life of computer equipment, which quickly becomes obsolete and is surpassed by new generations of products.
+[10] The appellant spoke of the very short lifespan of the business: it was created in May 1998, and made an assignment of its property on August 1, 2001, after submitting a proposal to its creditors. And yet, this business had seemed promisingly dynamic. Despite his significant injections of money, the appellant was not a director of the company. The appellant emphasized that the presence of his brother as a director reassured him that the business was being run properly; he repeatedly stated that he never had any doubts about his trust in his brother, who had a solid knowledge in the field of computers. Having made inquiries and having seen for himself the advertising and how well-patronized the business was, he sincerely believed that everything was going well, taking into account the normal growing pains that any new business will experience.
+[11] The appellant said that there was nothing happening that caused him any concern. He also explained that he saw the financial statements at the time of the bankruptcy; upon noticing a discrepancy, he said, he asked the trustee to take the necessary steps to have the accountant make the appropriate corrections (i.e. by showing the amounts owing to the shareholder). This the trustee refused to do; however, he did include the debt in the liabilities of the business.
+[12] The timeline of events (incorporation on May 7, 1998, proposal on July 11, 2001, and bankruptcy on August 1, 2001) well illustrates how quickly things did in fact change. This very short period of time between the commencement and cessation of activities confirms the explanation that the appellant, who trusted his brother, had no reason to suspect the financial debacle that was taking place. It was a new business, operating in a difficult field in which it was not unusual to have to inject funds either to stabilize the business or to deal with difficult situations as they arose.
+[13] The appellant emphasized that he never benefitted from any advantages or privileges, apart from being able to purchase two computers at cost. He said that the cheques constituted prima facie evidence of the advances to the corporation. He also admitted to being careless, indeed negligent, in managing the advances.
+[14] The appellant also said that he noticed that the amounts advanced were a few thousand dollars higher than those reported as losses, but he added that, all the same, he did not wish to alter the amount that gave rise to the appeal.
+[15] The cheques on which the appellant's position is based are as follows:
+Date of cheque
+Amount
+07/010/99
+5/6/98
+7/02/00
+06/07/99
+12/06/98
+06/10/99
+Total
+$5,000
+$3,250
+$15,000
+$10,000
+$9,450
+$13,000
+$55,700
+Essentially, the appellant's evidence consists in asserting that the cheques are a fundamental aspect of the file. As for why the financial statements of the business make no reference to them, the appellant explains that three factors account for this:
+- great confidence in his brother, the sole director;
+- no signs that the business was in trouble; and
+- the very short period between the beginning and end of commercial activities.
+[16] As for the respondent, she submits primarily that the Canada Customs and Revenue Agency did not have to take the appellant's advances into account because they were neither valid nor confirmed by the financial statements. She further argues that the appellant was involved in litigation in the past involving the same type of issue, and that this should have caused him to be more careful. She also notes that the aggregate amount of the cheques, $55,700, does not balance with the $53,000 reported by the appellant; there is a $2,700 discrepancy.
+[17] Certainly, standard practices are tied neither to time limits nor to the special circumstances of a case; they are objective, and often inflexible, standards. The cheques are the basis of the appellant's arguments.
+[18] The cheques are objective elements. Where things seem to be going relatively well, is it abnormal, having regard to the context (here, a start-up company operated by the appellant's brother), for an ordinary person to be less careful, less vigilant, or quite simply a bit more naïve?
+[19] For one thing, the appellant is a lawyer, and for another, the evidence discloses that he had some business management experience because he was involved directly in business management very shortly before the facts giving rise to the present appeal occurred.
+[20] Are negligence and carelessness a sufficient basis for completely rejecting the explanations provided? One's first reaction, with hindsight, might be to conclude that this question should be answered in the affirmative. However, it is always easier, with the benefit of hindsight, to see the shortcomings or weaknesses of a case.
+[21] I would point out that the present case is not one in which the decision that I must make turns essentially on self-serving oral testimony. It is one in which there is evidence (the cheques) which cannot be ignored and whose purpose does not allow of multiple explanations.
+[22] The cheques are for several different amounts that were paid on different dates and can easily be regarded as limited interventions that were needed in the course of business. This was a new business, which was competing in a sector where competition is fierce and which clearly expanded too quickly (adding several new locations).
+[23] This type of intervention is neither odd nor unusual. Should the appellant have asked himself questions, been suspicious, taken precautions and obtained airtight guarantees? In an ideal world, he should have.
+[24] In reality, his brother's only qualifications for managing such a business were a keen interest in computers and some knowledge of the computer field.
+[25] Being the sole director of the corporation in which the appellant had invested, the brother perhaps did not think, or did not feel inclined, to give the appellant an accurate picture of the situation, because he believed that it would stabilize. Human nature being what it is, he might even have been tempted to gloss over or sugar-coat the picture, which, in fact, he did by talking up the hypothetical benefits of a government program to encourage families to acquire a computer.
+[26] Moreover, how can one conceive of or imagine a situation in which an individual, with a legal background at that, invests significant sums of money as sole shareholder of a corporation without being a director of that corporation? At first blush, such a scenario strikes one as somewhat improbable, unless there is great trust of the kind that can exist in a relationship between two brothers, as was the case here.
+[27] In this regard, the requisite standard of proof is proof on a balance of probabilities. And in my opinion, the evidence submitted, which consists mainly of copies of cheques and explanations concerning the context and circumstances, is sufficient for one to conclude that the requisite probability exists, especially since the respondent did not question that the cheques were real. Admittedly, the aggregate amount of the cheques is greater than the amount of the reported business investment loss, but that discrepancy was pointed out by the appellant, and is a rather insignificant amount.
+[28] Moreover, the fact that the appellant's claims are not corroborated either by the financial statements that were taken into consideration in the business's bankruptcy or by the description of debts on the list of creditors drawn up for the proposal that preceded the bankruptcy can be explained by the situation and by the particular context of the case.
+[29] If the amount in issue had been a single amount that might have been used to purchase computer equipment, reimburse expenses, or pay for work for which professional fees were not billed, or if there had been other reasons or grounds for concluding that there was some ambiguity regarding the purposes of the cheques, this might have weighed in favour of the respondent's position.
+[30] As for the fact that the evidence submitted by the appellant essentially consisted of copies of cheques and his own testimony, here again, the circumstances probably made the relationship with his brother, who was the director of the business, very tense, if they did not put an end to it altogether, and this diminishes the relevance that his brother's testimony could have had.
+[31] The respondent sought to undermine the appellant's credibility by citing a similar situation that occurred a few years earlier. The respondent argued that a similar previous experience should have made him more careful, more vigilant and wiser. However, in that instance, he was the director of the business concerned, whereas here he was essentially the backer of a business that rapidly found itself in difficulty, to such a degree, in fact, that it went bankrupt and ceased to exist.
+[32] The respondent's basic argument is essentially based on the fact that the appellant's claims are neither valid nor confirmed by the financial statements.
+[33] If not for the copies of cheques, the appellant's claims would have had to be rejected on the basis that they were unreasonable. Yet, in my view, the cheques, the circumstances, the context and the explanations are amply sufficient for one to conclude that the preponderance of the evidence favours the appellant's position.
+[34] Admittedly, the way the appellant went about things was not exemplary, and can perhaps even be called careless and negligent considering the appellant's professional qualifications. However, the evidence discloses no basis on which to conclude that the explanations confirmed by the cheques are not credible, or are so unreasonable that they must be rejected or disregarded.
+[35] For these reasons, I allow the appeal, with costs to the appellant.
+Signed at Ottawa, Canada, this 22nd day of February 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 27th day of June 2008.
+Erich Klein, Revisor
+CITATION: 2008TCC92
+COURT FILE NO.: 2006-2656(IT)G
+STYLE OF CAUSE: JEAN-PAUL BOILY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Quebec City, Quebec
+DATE OF HEARING: January 28, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: February 22, 2008
+APPEARANCES:
+Counsel for the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-Claude Landry
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jean-Paul Boily
+Firm: Boily Morency Roy
+City: Quebec City, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

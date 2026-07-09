@@ -1,0 +1,258 @@
+Title: Saab v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25178/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-331-25178-saab-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-06-16
+
+# Saab v. The Queen
+
+- Citation: 2005 TCC 331
+- Decision date: 2005-06-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2558, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saab v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-16
+Neutral citation
+2005 TCC 331
+File numbers
+2004-4333(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4333(IT)I
+BETWEEN:
+TANIOS SAAB,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 20, 2005 at Ottawa, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Agent for the Appellant:
+Chuck Saab, C.G.A.
+Counsel for the Respondent:
+April Tate
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act, for the 1994 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the fair market value of the goodwill of the restaurant business on February 22, 1994 was $21,500 and if that finding affects the income or loss for 1995 in such a manner as to reduce the income for 1994 that result should also be taken into account in making the reassessment for 1994.
+The appeal from the assessment made under the Act for the 1995 taxation year is quashed.
+Signed at Ottawa, Canada, this 16th day of June 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2005TCC331
+Date: 20050616
+Docket: 2004-4333(IT)I
+BETWEEN:
+TANIOS SAAB,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals are from assessments made under the Income Tax Act for the taxation years 1994 and 1995. The Respondent argued that the appeal for 1995 should be quashed because no notice of objection had been filed. The agent for Mr. Saab, Mr. Chuck Saab, C.G.A., agreed and proceeded only with the 1994 appeal.
+[2] The issue here is the fair market value ("fmv") of the goodwill of a restaurant "Queen Isabella Restaurant" in Ottawa within the context of section 110.6 of the Act.
+[3] To understand the tax implications of what happened here and in particular the effect of the election made under subsection 110.6(19) it is useful before I deal with the facts to describe briefly and perhaps overly simplistically the way the capital gain election works. There is no need, however, for me to start afresh. In Nanji v. The Queen, [2002] 2 C.T.C. 2627, I summarized the provisions dealing with such elections.
+[4] Paragraphs 4, 5 and 6 of the reasons read
+[4] The February 22, 1994 budget eliminated the capital gains exemption except in respect of shares of qualified small business corporations and qualified farm property. Taxpayers were however entitled to preserve the capital gains exemption on other properties in respect of gains that had accrued to February 22, 1994. This was accomplished by filing an election (form T664) under subsection 110.6(19) of the Income Tax Act which created a deemed disposition and resulting capital gain which could be offset by the available capital gains exemption. With the exception of certain types of property that are not relevant here, subsection 110.6(19) provides for a deemed reacquisition at the amount designated, subject to certain conditions that I will discuss later. The deemed acquisition cost forms the adjusted cost base ("ACB") of the property when it is ultimately sold.
+[5] If the taxpayer designates an amount that exceeds the fair market value ("fmv") on February 22, 1994, but is less that 11/10 of that fmv the deemed reacquisition cost is the February 22, 1994 fmv. If an amount is designated that exceeds 11/10 of the February 22, 1994 fmv the deemed reacquisition cost is reduced by the amount by which the designated amount exceeds 11/10 of the February 22, 1994 fmv.
+[6] Subsections 110.6(25) and (27) permit the revocation or amendment of an election under certain conditions but under subsection (28) the amendment or revocation of an election cannot be made if the amount designated exceeds 11/10 of the February 22, 1994 fmv of the property.
+Paragraph 19 reads
+[19] The consequences of designating a figure that exceeds 11/10 of the February 22, 1994 fmv are significant. Whether the Act says so or not it is a penalty and obviously intended to be such. This is confirmed by subsection 110.6(28) which prohibits the amendment or revocation of the election where the designated amount exceeds 11/10 of the February 22, 1994 fmv.
+Although the tax implications of an excessive election are substantially similar it should be noted at the outset that we are here dealing with goodwill which is eligible capital. I shall deal further with this point below.
+[5] In October 1991, the appellant purchased from Irene Jarawan the restaurant business known as Queen Isabella Restaurantfor $110,000.
+[6] The parties agreed that the purchase price would be apportioned as follows:
+chattels, equipment, functions and trade fixtures $50,000
+goodwill $40,000
+leasehold improvements $20,000
+Additional consideration for the stock in trade was to be ascertained by a determination of the cost price.
+[7] With his 1994 return of income the appellant filed a T-664 form (Capital Gain Election) in which he elected that the provisions of subsection 110.6(19) of the Act should apply to the goodwill. This election stated that the fmv of the goodwill at the end of February 22, 1994 was $140,000 and the designated proceeds were $110,000. The significant figure was the designated proceeds of $110,000. This resulted in a deemed capital gain of $100,000, assuming an adjusted cost base of $10,000. That gain was offset by the appellant's capital gains exemption.
+[8] The Minister of National Revenue took the position that the fmv of the goodwill was nil and therefore the amount of designated proceeds of $110,000 elected by the appellant exceeded the fmv of $ nil by more than 11/10 of the Minister's February 22, 1994 fmv.
+[9] The Minister, on the basis of a nil fmv of the goodwill on February 22, 1994, calculated that Mr. Saab had realized a taxable capital gain of $75,263. The calculation was prepared by an assessor of the Canada Revenue Agency ("CRA") and is contained in Exhibit R-6, as follows:
+Deemed Taxable Capital Gain per T1: $0
+Per Revenue Canada:
+Deemed Taxable Capital Gain as a
+result of over estimation of Fair
+Market Value of Goodwill. If a
+taxpayer overestimates the fair market
+value, of the election, by more than
+10% of its fair market value then there
+is a automatic penalty. The purpose is to
+deter deliberate over elections. In this
+case, since our valuation of the Goodwill
+at February 22, 1994 is $ Nil, $75,263,
+is deemed to be a taxable capital gain
+in 1994. $ 75,263
+---------------------------------------------
+Audit adjustment $ 75,263
+---------------------------------------------
+Calculation of Exempt Gains Balance: Subsection 14(5)
+Balance in CEC account beginning of 1994 $ 7,237 1
+Election: Designated proceeds of
+disposition on February 22, 1994: $ 82,500 2
+$110,000 X 3/4
+Line 1 minus line 2 ($75,263) 3
+Negative account in balance $ 75,263 4
+Minus: total annual allowances
+deducted from 1989 to 1994 263 5
+---------------
+Exempt Gains balance (line 4 - line 5) $ 75,000 6
+The exempt gains balance has to be reduced, since
+the designated proceeds of disposition exceeds the FMV.
+by more than 10%.
+The reduced exempt gains balance is calculated as
+follows:
+Exempt gains balance = The amount that would have been the
+taxable capital gain if the amount of the designated proceeds were
+were equal to the actual FMV at February 22, 1994 minus 3/4 (C-1.1(D))
+C: is the amount designated in the election
+D: is the FMV of the Goodwill at February 22, 1994
+FMV = 0
+therefore: 0-3/4 (110,000 1.1(0)) = ($82,500)
+Since the result of the calculation is negative, the
+exempt gains balance is reduced to "0" and deemed proceeds of
+disposition are calculated under subsection 14(9).
+Deemed proceeds of
+disposition = (3/4 (designated proceeds of disposition - 1.1 FMV) -
+taxable capital gain according to FMV) X 4/3
+= 3/4 (110,000 - 1.1(0) - 0) X 4/3
+= $82,500 x 4/3
+= $110,000
+The deemed proceeds of disposition per 14(9) is $110,000
+The taxpayer is deemed to have received proceeds
+of disposition on the sale of Goodwill of $110,000. The
+capital gains election is not available to be applied against
+this deemed disposition.
+Calculation of amount to include in 1994
+business income under paragraph 14(1)(a):
+Balance in CEC account at beginning of 1994 $ 7,237
+Deemed proceeds of disposition per 14(9)
+$110,000 x 3/4 ($82,500)
+------------
+Negative balance in CEC ($75,263)
+CEC balance at end of 1994 $0
+-------------
+The amount of $75,263 becomes a deemed taxable capital
+gain in 1994.
+Audit Procedures
+- Obtained a valuation of the business Goodwill from
+Revenue Canada's Business Equity Valuations Section.
+- Reviewed sale agreement for the restaurant in 1995
+between Mr. Tanios Saab and Nasser Vasiri.
+Conclusion
+The taxpayer designated proceeds of disposition for goodwill
+at February 22, 1994 of $110,000. Business equity valuations
+valued the actual fair market value of the business goodwill as
+being "Nil" or zero. They based their valuation on the past
+low earnings history of the business and on the fact that the
+owner sold the restaurant at a loss of $25,000 in 1995. The new
+owner subsequently went bankrupt within a year.
+When a taxpayer overestimates the fairmarket value of the asset
+designated in the election by more than 10% of its actual
+fair market value at February 22, 1994 then a automatic penalty
+applies. The tax implications of overelecting are clearly spelled
+out in the 1994 capital gains election package booklet on
+page 16 and page 17.
+Under section 110.6(19) a taxpayer who files the election on
+February 22, 1994 is deemed to have disposed of the
+property for proceeds of disposition equal to the amount
+designated in the election. Under normal circumstances, when the
+taxpayer has not designated an amount greater than 10% of the
+actual fair market value, the taxpayer is deemed to have
+reacquired the property for at ACB equal to the amount designated
+in the election. However, when a taxpayer designates proceeds
+of disposition greater than 10% of fair market value, he is
+deemed to have reacquired the property at a new ACB as
+determined under subsection 100.6(22).
+Mr. Saab designated proceeds of disposition for Goodwill of
+$110,000 at February 22, 1994 when the actual fair market value
+of the Goodwill was actually "Nil". The adjusted cost base
+of the Goodwill on reacquisition as determined under subsection
+110.6(22) and subsection 14(9) was negative. Under
+subsection 40(3) this negative ACB triggers a deemed taxable
+capital gain of $75,263.
+[10] It should be noted that in this case we are not dealing with a capital property the disposition of which gives rise to a capital gain but rather with goodwill which is eligible capital ("EC") the disposition of which has tax consequences that fall under an entirely different régime. The route followed by the Minister appears to have achieved substantially the same result, but the explanation which I have quoted above appears to be based upon the premise that we are dealing with capital property that is not EC.
+[11] The fundamental error in the Minister's reasoning is that he confused paragraphs (a) and (b) of subsection 110.6(19). He speaks of the adjusted cost base ("ACB") of the property whereas goodwill (which is EC) has no ACB. Rather, EC expenditures form part of the cumulative eligible capital account.
+[12] To demonstrate this point I have set out three calculations based upon three different figures for the fmv of the goodwill at February 22, 1994. These calculations are set in Schedules A, B and C of these reasons.
+[13] If we compare Schedule B to the CRA's explanation the arithmetic is the same but the explanation in the conclusion is based upon an erroneous premise, viz., that the goodwill would have an ACB as set out in the conclusion. Specifically subsection 110.6(22) which is mentioned in the final paragraph of the explanation has no application here nor does subsection 40(3) which creates a capital gain when the ACB of property, to use the current jargon, "goes negative".
+[14] Why am I saying all this? I am saying it because if the taxing authorities can base their imposition of a penalty on so fundamental an error due to the complexity of the Act it seems unconscionable that the penalty can stand.
+[15] The election form T-664 was prepared by Mr. Saab's accountant and was signed by Mr. Saab without the slightest idea of what he was signing or its effect. He did not testify, but his son, who represented him, did. The appellant is not an educated man and his command of English, according to his son, is limited. He has a heart condition, diabetes, high blood pressure and high cholesterol. According to a letter from his doctor, in addition to the above medical problems, he suffers from insomnia, general anxiety, chest pains and stress. For obvious reasons I draw no adverse inference from his failure to testify.
+[16] It will be obvious that the penalty imposed upon Mr. Saab as the result of an overly aggressive election under subsection 110.6(19) of the Act is vastly disproportionate to whatever abuse the penalty is intended to deter. Mr. Saab signed the election form in all innocence and ignorance, relying upon his professional advisor. The consequences go beyond unfortunate. They are calamitous. Whatever administrative relief may have been granted as a result of the Minister's delay in dealing with Mr. Saab's objection it is insufficient to make up for the excessively punitive consequences of an innocent mistake. It may well be that these Draconian measures are considered necessary pour encourager les autres. I think, however, that in this case they picked the wrong admiral. If it is open to the Minister to grant additional relief under the discretionary powers that the Minister has this is clearly a case in which to do so.
+[17] This Court's powers are limited to considering the correctness of the assessment. The basic premise upon which the assessment is founded is that the fmv of the goodwill on February 22, 1994 was nil. As noted above, when Mr. Saab bought the business in 1991 the parties attributed $40,000 of the sale price of $110,000 to goodwill. When he sold the business in August 1995 for $80,000 the parties attributed $9,737 to goodwill. Evidently the parties did not regard the trade name as forming part of the goodwill because they attributed $26,863 to leasehold improvements and the trade name of the restaurant business. I should have thought that the name of the restaurant was a rather important part of the goodwill.
+[18] The determination of the fmv of the goodwill at zero is in my view erroneous.
+[19] Two valuations were made, one as of February 22, 1994, for the purposes of the election and one as of August 1995 for the purposes of the sale. In both cases the value was found to be nil.
+[20] The reasoning is rather sparse. In the first report it is as follows:
+BASIS: Net book value.
+On the basis of our limited review of the historical operating results and earnings of the business, we conclude that the adjusted net book value approach is appropriate for the valuation of the Queen Isabella Restaurant as at February 22, 1994. The asset approach is used where the business is a going concern but is not earning an adequate rate of return and where there is no expectation of any type of intangible value.
+In the second it is as follows:
+BASIS: Net book value.
+On the basis of our limited review of the historical operating results and earnings of the business, we conclude that the adjusted net book value approach is appropriate for the valuation of the Queen Isabella Restaurant as at August 30, 1995. The asset approach is used where the business is a going concern but is not earning an adequate rate of return and where there is no expectation of any type of intangible value.
+No value is attributable to goodwill. For restaurant businesses, historical financial results are the best indicator of the company's growth and earning potential as at the valuation date. The company has experienced a decline in its sales since the purchase November 1, 1991. It incurred a loss of $ (18,985) in 1992 and marginal net income of $6,714, $5,495 and $2,890 in 1993, 1994 and 1995 before any management remuneration and income taxes considerations. The company has not been earning an adequate rate of return supporting any intangible value.
+Goodwill has been defined in many cases. It is sufficient to mention only two or three of the better known definitions. In Herb Payne Transport Ltd. v. M.N.R., 63 DTC 1075, Noel J. said at p. 1079:
+Before dealing with the apportionment of the sale price in accordance with Schedule "A" of Ex. 3, the matter of goodwill should now be examined. As stated by Lord MacNaughton in 1901 E.R. Commissioners v. Muller Limited, (1901) Appeal Cases, 217, goodwill is a thing very easily described but very difficult to define. He however defined goodwill by embracing the elements which are the sources of goodwill.
+His definition was:
+Goodwill is the benefit and advantage of a good name, reputation and connection of a business. It is the attractive force which brings in customers. It is the one thing which distinguishes a well established business from a new business at its first start ... Goodwill is composed of a variety of elements. It differs in its composition in different trades and on different bases in the same trade. One element may preponderate here and another there.
+Other factors to be considered are good relations with employees, favourable commercial contracts, franchises, good financial relationships and finally good management.
+All these advantages are interrelated and form a composite which will assist in estimating the value of goodwill in a business.
+It is then necessary to examine a number of things such as the profits over a selected number of past years, placing a value on net tangible assets used in the business as a going concern, determining a normal rate of return which an investor in a business would receive on his capital, estimating the possible duration of the profits from the business.
+In Tomenson Inc. v. The Queen, 86 DTC 6267, Rouleau J. at p. 6271 said:
+In C.I.R. v. Muller & Co.'s Margarine Ltd., [1901] A.C. 217 Lord Lindley commented on the connectivity between the concept of "goodwill" and that of "business as a going concern"; at p.235 he noted:
+Goodwill regarded as property has no meaning except in connection with some trade, business, or calling. In that connection I understand the word to include whatever adds value to a business by reason of situation, name and reputation, connection, introduction to old customers, and agreed absence from competition, or any of these things, and there may be others which do not occur to me. In this wide sense, goodwill is inseparable from the business to which it adds value, and, in my opinion, exists where the business is carried on.
+(Emphasis added)
+Goodwill appears to be dependant upon a going concern. Therefore, it is difficult to accept the proposition that the acquisition of some assets of a business, in the process of liquidation, imports the acquisition of goodwill.
+[21] The valuation of goodwill made by the CRA is flawed because it is based solely on profits for the past few years. Mr. Saab's health had been declining and the absence of profits is neither attributable to nor indicative of an absence of goodwill. I find it inconceivable that a restaurant business with an established clientèle would have no goodwill. I find that the nil valuation of the goodwill is so unreliable that it cannot form the basis of the assessment for three reasons:
+(a) The appraiser based her conclusion on the absence of profits for preceding years. This is an erroneous premise.
+(b) The appraiser also based her conclusion on the fact that the net book value of the physical assets exceeded the price paid in 1995. She performed no valuation of the physical assets. The net book value is obviously no indication of the value of the physical assets. It is simply an accounting determination of the depreciated value of the assets.
+(c) She ignored the best available evidence of the value of the goodwill - the arm's length agreements when Mr. Saab bought the business in 1991 and when he sold it in 1995. In their agreement the parties attributed $40,000 out of a total purchase price of $110,000 to goodwill in 1991 and in 1995 $9,737 out of a total purchase price of $80,000.
+[22] If we assume an overall decline in the value of the business over the 47-month period from October 1991 to August 1995 of $30,000, we can in a somewhat rough and ready way calculate a proportionate decline of $638 per month. From October 1991 to February 1994, the decline works out to $18,510. Thus my best estimate of the value of the goodwill in February 1994 is $21,500.
+[23] That is the most that I can do for this unfortunate person. It is however not enough.
+[24] If we step back and look at this fiasco who do we see? A sick, elderly man who, on the advice of his accountant, signs an election form that is completely incomprehensible to him. If he had done nothing he would have had a loss in 1995 when he sold the business for $80,000 that he bought in 1991 for $110,000. Instead, by a series of calculations that are as incomprehensible to him as the election form he signed, he ends up with a taxable capital gain in 1994 of $75,263. This is a purely notional and fictitious figure. It clearly does not represent any kind of income to him. As I noted above even the Minister's officials got it wrong when they tried to explain how they arrived at this extraordinary result. One might wonder about the propriety of hitting a sick old man with a large penalty when the officials who impose the penalty cannot even get straight the theory upon which the penalty is calculated.
+[25] I am allowing the appeal from the assessment for 1994 and referring the assessment back to the Minister of National Revenue for reconsideration and reassessment on the basis that the fmv of the goodwill of the restaurant business on February 22, 1994 was $21,500.
+[26] The appeal for 1995 is quashed. However, if the result of my conclusion that the fmv of the goodwill on February 22, 1994 was $21,500 affects the income as loss for 1995 in such a way that the taxable income for 1994 should be reduced this should be taken into account in making the reassessment for 1994. (Aallcann Wood Suppliers Inc. v. The Queen, 94 DTC 1475).
+[27] Although I have no power to order the Minister to do so, I am recommending that the Minister consider whatever discretionary powers may exist under the Income Tax Act or the Financial Administration Act to alleviate or eliminate this wholly unjust result.
+Signed at Ottawa, Canada, this 16th day of June 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2005TCC331
+COURT FILE NO.:
+2004-4333(IT)I
+STYLE OF CAUSE:
+Tanios Saab and
+Her Majesty The Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+April 20, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT AND REASONS FOR JUDGMENT:
+June 16, 2005
+APPEARANCES:
+Agent for the Appellant:
+Chuck Saab, C.G.A.
+Counsel for the Respondent:
+April Tate
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

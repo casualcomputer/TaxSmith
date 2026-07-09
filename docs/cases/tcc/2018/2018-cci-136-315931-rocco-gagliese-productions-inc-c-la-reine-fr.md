@@ -1,0 +1,237 @@
+---
+title: "Rocco Gagliese Productions Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/315931/index.do"
+last_modified: "2018-07-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 136"
+citation2: ""
+neutral_citation: "2018 CCI 136"
+decision_date: "2018-07-10"
+language: "fr"
+item_id: "315931"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4952
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:50:48.203000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3e8cbdb56e6a85b3f7834b34c3c3097f747acd112437714e1f04783c7a5bfd63"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rocco Gagliese Productions Inc. c. La Reine
+
+- Citation: 2018 CCI 136
+- Decision date: 2018-07-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4952, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rocco Gagliese Productions Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-07-10
+Référence neutre
+2018 CCI 136
+Numéro de dossier
+2016-341(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-341(IT)G
+ENTRE :
+ROCCO GAGLIESE PRODUCTIONS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 16 et 17 janvier 2018, à Toronto (Ontario)
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocats de l’appelante :
+Me Larry Nevsky
+Me Jacob Yau
+Avocat de l’intimée :
+Me Tony C. Cheung
+JUGEMENT
+Conformément aux motifs du jugement ci-joints :
+L’appel interjeté à l’encontre des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2011, 2012 et 2013 de l’appelante est accueilli, le tout avec dépens, et les nouvelles cotisations sont renvoyées au ministre du Revenu national afin qu’il procède à un nouvel examen et à l’établissement de nouvelles cotisations en tenant compte du fait que l’appelante exploitait activement une entreprise au Canada.
+Les parties disposeront d’un délai de 30 jours à compter de la date du présent jugement pour parvenir à un accord sur les dépens, faute de quoi elles seront invitées à déposer leurs observations écrites sur les dépens dans les 60 jours suivant la date du présent jugement. Ces observations ne doivent pas dépasser dix pages.
+Signé à Antigonish (Nouvelle-Écosse), ce 10e jour de juillet 2018.
+« S. D’Arcy »
+Le juge D’Arcy
+Traduction certifiée conforme,
+ce 12e jour de février 2019.
+Mario Lagacé, jurilinguiste
+Référence : 2018 CCI 136
+Date : 20180710
+Dossier : 2016-341(IT)G
+ENTRE :
+ROCCO GAGLIESE PRODUCTIONS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] La question en litige dans le présent appel consiste à savoir si le revenu que l’appelante a gagné au cours des années d’imposition 2011, 2012 et 2013 grâce à la musique composée par un employé, lequel est membre de la Société canadienne des auteurs, compositeurs et éditeurs de musique (la SOCAN), est admissible à l’application de la déduction accordée aux petites entreprises, prescrite au paragraphe 125(1) de la Loi de l’impôt sur le revenu.
+[2] Il semble que notre Cour est saisie de cette question parce que l’Agence du revenu du Canada (l’ARC) a révoqué sa position administrative énoncée dans l’interprétation technique no 9722915 du 26 septembre 1997, ce que l’ARC a confirmé dans l’interprétation technique de 2007 no 0238221E5 publiée le 14 avril 2009. Voici cette position administrative :
+[TRADUCTION]
+Même si les redevances sont un revenu habituellement tiré d’une source qui est un bien, lorsqu’il peut être établi que des redevances sont tirées d’une entreprise exploitée activement par la société bénéficiaire au cours de l’année ou que la société bénéficiaire cherche, au cours de l’année, à créer un bien en vue d’en tirer des redevances, ce revenu sera qualifié de revenu provenant d’une entreprise exploitée activement. Par conséquent, lorsqu’une entreprise exerce ses activités dans le domaine de la composition musicale, le revenu que celle-ci tire d’une œuvre musicale protégée par le droit d’auteur serait habituellement qualifié de revenu provenant d’une entreprise exploitée activement. Le fait qu’un tel revenu soit sous la forme de redevances ne suffit pas, en soi, pour conclure qu’il s’agit d’un revenu tiré d’un bien [1] .
+[3] L’avocat de l’intimée a affirmé dans son plaidoyer que, même si je concluais que l’appelante exploite une entreprise qui fait le commerce des droits d’exécution d’œuvres musicales pour lesquelles des redevances sont perçues ou qui est à l’origine de ces droits, le revenu en question ne serait toujours pas un revenu tiré d’une entreprise exploitée activement [2] .
+[4] Il semble qu’il s’agisse d’une question de grande importance; en effet, les compositeurs de musique au Canada touchent principalement leur revenu par l’entremise de la SOCAN, et cette dernière qualifie les paiements qu’elle verse de redevances. La SOCAN compte environ 150 000 membres et, selon les éléments de preuve qui m’ont été présentés, une grande partie des membres exploitent une entreprise de composition musicale sous la forme d’une société.
+[5] J’ai entendu deux témoins, Mme Terra Williams et M. Rocco Gagliese. Mme Williams travaille à la SOCAN depuis 20 ans et occupe le poste de gestionnaire adjointe, relations avec les membres. M. Gagliese, l’unique administrateur, dirigeant et actionnaire de l’appelante, est compositeur et lauréat d’un prix Emmy.
+[6] Je considère qu’il s’agit de deux témoins crédibles.
+[7] Chaque partie a également déposé une demande d’aveux au début de l’audience.
+I. Résumé des faits pertinents
+[8] Mme Williams a expliqué que la SOCAN est un organisme à but non lucratif dont les membres sont les propriétaires. Cet organisme a pour but de veiller à la juste rémunération des membres pour l’exécution publique de leurs œuvres musicales. Ses membres regroupent, d’une part, les auteurs (entre autres les chansonniers), les compositeurs et les paroliers (les membres auteurs) et, d’autre part, les membres qui sont éditeurs (les membres éditeurs).
+[9] Le membre auteur doit être un particulier. Il doit avoir écrit (seul ou avec d’autres personnes) une œuvre musicale qui a été enregistrée ou publiée ou interprétée en direct. Mme Williams a mentionné que M. Gagliese est membre auteur de la SOCAN et que son numéro de membre est le 5583353.
+[10] Un membre éditeur doit être titulaire d’au moins cinq œuvres musicales cédées par un membre auteur qui sont protégées par le droit d’auteur. Mme Williams a mentionné que les éditeurs ont pour mandat de faire entendre au public la musique de leurs membres auteurs. Le membre éditeur peut être soit un particulier, soit une société. Ni l’appelante ni M. Gagliese ne sont membres éditeurs.
+[11] Selon la description de Mme Williams, la SOCAN est un organisme de perception de droits d’exécution qui verse à ses membres auteurs et éditeurs des paiements pour l’exécution publique d’œuvres musicales par voie de télécommunications. Par exemple, ces exécutions publiques peuvent être diffusées à la télévision, à la radio ou sur Internet.
+[12] Elle mentionne que la SOCAN ne délivre pas de licence et ne perçoit pas de redevances lorsque la musique est utilisée dans une publicité [3] .
+[13] La SOCAN a besoin de données pour verser des paiements à ses membres auteurs et à ses membres éditeurs. Elle détermine comme suit le montant d’argent qu’elle doit verser à ses membres pour l’utilisation de musique lors d’une émission télédiffusée :
+- Pour chaque exécution d’une piste musicale (il est parfois question de contenu) lors d’émissions diffusées à la télévision publique, la SOCAN reçoit suffisamment de données pour établir une concordance avec les détenteurs des droits associés à cette musique. Ces données sont fournies dans ce qui est appelé des rapports de contenu.
+- La SOCAN se sert ensuite d’une formule élaborée par son conseil pour effectuer le calcul des redevances. Cette formule tient compte de l’usage (thème musical, musique de premier plan ou piste autrement utilisée dans l’émission de télévision) et de la durée de la piste dans l’émission de télévision donnée. La SOCAN applique cette formule à l’ensemble des droits de licence qu’elle a reçus pour ce qui est de la télévision.
+[14] Une copie des règles de répartition de la SOCAN [4] a été déposée en preuve à la Cour. Voici le texte de la règle de répartition 3.01, qui porte sur la mise en commun des droits de licence de télévision : « Tous les revenus tirés de l’émission de licences de télévision à antenne pour les services terrestres et les services audiovisuels en ligne ainsi que les redevances de retransmission de signaux de télévision à antenne, moins les frais généraux nets, devront être versés au fonds de répartition de la télévision. »
+[15] La pièce A-24 est un exemple de rapport de contenu. Le rapport de contenu contient le nom de la production télévisuelle, l’épisode dans lequel la piste musicale a été jouée, l’année au cours de laquelle l’épisode a été diffusé, la durée de l’exécution, une liste des pistes jouées au cours de l’épisode, une liste des compositeurs de la trame sonore de l’émission et l’utilisation de cette musique. Mme Williams a souligné que le rapport de contenu est préparé soit par le membre auteur, soit par la société de production télévisuelle. Ce rapport sert à déterminer si la musique a été composée pour une production télévisuelle en particulier.
+[16] La règle de répartition 19.02.02 de la SOCAN dispose notamment de ce qui suit : « Tout paiement de répartition émis relativement à des redevances d’exécution créditées à un auteur membre peut, en vertu d’une directive écrite attribuable à cet auteur membre, être fait à l’ordre d’une société par actions [...] dont les actions appartiennent exclusivement à cet auteur membre et sont contrôlées par lui. [...] [5] »
+[17] Par conséquent, bien qu’il doive être un particulier, le membre auteur peut céder les redevances qui lui sont dues à une société pourvu qu’il soit le propriétaire unique de cette société et qu’il contrôle celle-ci.
+[18] Le 10 octobre 2007, M. Gagliese a signé une directive adressée à la SOCAN pour demander à ce que tous les futurs chèques de redevances soient libellés à l’ordre de l’appelante. Il y déclarait et affirmait avoir cédé à l’appelante le droit de recevoir les chèques de répartition pour ce qui est des redevances d’exécution payables ordinairement à lui-même à titre de membre auteur de la SOCAN [6] .
+[19] M. Gagliese a témoigné au sujet de son passé au sein de l’industrie de la musique et de l’entreprise exploitée par l’appelante.
+[20] En plus d’être seul administrateur, dirigeant et actionnaire de l’appelante, M. Gagliese est l’unique employé de l’appelante. C’est lui la tête dirigeante de l’appelante.
+[21] M. Gagliese a un long passé dans l’industrie de la musique. Après ses études en production radiophonique et télévisuelle à l’Université Ryerson, il a étudié la musique. Il s’est joint par la suite à divers groupes de musique, jouant surtout dans le nord de l’Ontario.
+[22] En 1998, il a constitué l’appelante en personne morale pour démarrer son entreprise de composition de musique. Il l’a fait sur le conseil de compositeurs plus expérimentés pour se protéger lui-même contre d’éventuelles responsabilités en matière de droits d’auteur. M. Gagliese a cru (et croit toujours) que, dans l’industrie de la musique, [TRADUCTION] « les contentieux abondent, car il est possible de tomber sur la musique de quelqu’un d’autre ».
+[23] Lors de son témoignage, M. Gagliese a affirmé que, pendant la période concernée, il s’était acquitté de toutes ses activités liées à la composition et à l’enregistrement de musique destinée à des émissions de télévision, y compris l’approvisionnement de ce type de service, en tant qu’employé de l’appelante. J’accepte son témoignage sur ce point important. Le fait que M. Gagliese ait cédé à l’appelante ses droits au revenu tiré de la composition et de l’enregistrement de musique vient étayer son témoignage selon lequel il a fourni ses services à titre d’employé de l’appelante.
+[24] Selon ses propos, à ses débuts comme employé de l’appelante, M. Gagliese composait de la musique [TRADUCTION] « pour n’importe quoi, des jeux vidéo aux bibliothèques de musique enregistrée ». En 2003, il a décroché sa première émission de télévision, The Blobheads. Il a présenté quatre ou cinq thèmes musicaux pour l’émission aux producteurs, et ceux-ci en ont choisi un.
+[25] L’entreprise de l’appelante a pris de l’expansion, et M. Gagliese a commencé à composer pour un grand éventail d’émissions de télévision, y compris plusieurs émissions pour enfants, dont Peep and the Big Wide World, Curious George, Wonder Why? et Fetch! Il a remporté un prix Emmy, catégorie de la meilleure chanson originale, pour le thème d’une émission de télévision pour enfants appelée Fetch!
+[26] Le plus gros client de l’appelante est la société Canadian Broadcasting Corporation (CBC). M. Gagliese a composé des œuvres musicales pour des émissions de la CBC, par exemple The National, The Passionate Eye et The Lang and O’Leary Exchange. Treehouse, YTV et TVO sont d’autres chaînes de télévision faisant partie de sa liste de clients.
+[27] M. Gagliese a décrit comment la musique qu’il compose est utilisée lors d’un épisode. Il a mentionné que l’utilisation dépend de la scène. Pour un épisode de 22 minutes, il compose probablement de dix à douze minutes de musique. Ces dix à douze minutes comportent de multiples pistes musicales et repères. Il a mentionné que, pour chaque piste retenue, plusieurs autres pistes sont rejetées.
+[28] Trouver des clients fait partie intégrante des activités de l’appelante. Pour y parvenir, M. Gagliese s’intègre dans les bons cercles du milieu en assistant à des soirées et à d’autres événements. C’est de cette façon que M. Gagliese a fait la rencontre de producteurs d’émission de télévision. Après avoir fourni des pistes musicales pour quelques émissions, il a commencé à se faire connaître. C’est ainsi que M. Gagliese a bâti l’entreprise de l’appelante. Il a mentionné qu’après avoir reçu le prix Emmy, l’appelante était plus sollicitée. D’autres auteurs ont commencé à retenir ses services en sous-traitance pour la composition de pistes destinées à des émissions de télévision.
+[29] M. Gagliese a expliqué de quelle façon il vend sa musique en vue d’une émission précise. Il peut soumettre plusieurs thèmes à un producteur, ou encore un producteur peut lui présenter une scène ou deux à l’état brut et lui demander ce qu’il composerait pour accompagner ces scènes. Dès que l’appelante est retenue, M. Gagliese se met à composer la musique pour l’émission en question. Il semble que, dans la plupart des cas, M. Gagliese est choisi comme l’un des quatre ou cinq compositeurs pour la trame sonore de l’émission.
+[30] M. Gagliese a expliqué que, dès que les producteurs choisissent un auteur pour une émission, celui-ci compose généralement toutes les pistes musicales pour l’émission. Ce n’est qu’en de rares occasions qu’il a été retenu pour la composition du thème de l’émission et n’a pas été retenu pour la composition des pistes des épisodes.
+[31] Pour la composition de pistes musicales destinées à un épisode d’une émission de télévision, il faut visionner l’épisode presque achevé en compagnie du producteur pour décider du type de musique qui convient. Il commence ensuite à composer la musique de cet épisode. Toutefois, le producteur n’accepte pas toutes les pistes musicales proposées. Selon M. Gagliese, un tiers seulement de ses compositions pour un épisode sont effectivement utilisées.
+[32] Une fois que les producteurs ont arrêté leur choix de musique pour une émission, M. Gagliese exécute et enregistre celle-ci.
+[33] Il a parlé de l’émission The National de la CBC pour illustrer le déroulement de la composition des pistes. Il a mentionné qu’une trame sonore était nécessaire pour accompagner certains événements précis faisant la une de l’émission The National. Par exemple, il faut une nouvelle trame sonore pour certains événements inattendus tels qu’une catastrophe naturelle, ou certains événements prévus tels qu’un mariage royal ou des élections. Il écrit des pistes de musique pour chacun de ces événements.
+[34] Au cours des années pertinentes, il a travaillé en moyenne 30 heures par semaine pour l’appelante, entre autres pour présenter son travail, assister au visionnement en compagnie des producteurs et composer et enregistrer la musique. Au cours de cette période, il a composé environ 6 000 nouvelles pistes musicales. Après avoir adhéré à la SOCAN en 2003, M. Gagliese a composé environ 22 000 pistes musicales. Il ne s’agit là que des pistes qui ont été diffusées dans une émission de télévision, et non des pistes très nombreuses qui ont été [TRADUCTION] « sabrées au montage ».
+[35] M. Gagliese a enregistré la plupart de ses pistes musicales dans le sous-sol insonorisé de sa maison. L’appelante a présenté à la Cour les factures concernant un piano et de l’insonorisation, qui sont des achats qu’elle a réalisés pour les activités de composition de musique.
+[36] Au cours des années pertinentes, l’appelante a reçu un revenu annuel oscillant entre 127 000 $ et 151 000 $ grâce aux compositions de M. Gagliese.
+[37] M. Gagliese a fait remarquer que c’est la SOCAN, et non les clients comme la CBC, qui fournit le revenu tiré de la musique diffusée dans les diverses émissions de télévision. Avant que la SOCAN n’existe, les clients payaient les compositeurs directement en puisant dans ce qu’on appelait les fonds de production, mais cette façon de faire a disparu à l’arrivée de la SOCAN.
+[38] M. Gagliese a affirmé dans son témoignage que, même s’il recevait ce qui pourrait s’appeler un revenu résiduel, par exemple pour la chanson thème de l’émission de télévision récurrente pour enfants Curious George, le montant de ce revenu n’était pas important. Le revenu que tire l’appelante provient surtout du travail continu de M. Gagliese qui compose chaque année des pistes musicales pour de nouveaux épisodes. En fait, M. Gagliese a indiqué dans son témoignage que, lorsqu’il ne composait pas de musique destinée à de nouveaux épisodes d’émission de télévision, entre 2004 et 2008, le revenu de l’appelante tiré de la composition [TRADUCTION] « s’est tari ».
+[39] Au cours de la période de 2004 à 2008, M. Gagliese a lancé avec un partenaire une entreprise appelée Eggplant. Il a continué à travailler pour Eggplant au cours de la période pertinente. Les activités d’Eggplant ne sont pas les mêmes que celles de l’appelante. Eggplant produit des pistes audio pour la publicité diffusée à la télévision et à la radio. Eggplant ne compose pas de pistes musicales destinées à des émissions de télévision. Eggplant ne reçoit aucun revenu de la SOCAN. Comme je le disais précédemment, la SOCAN ne s’occupe pas de la publicité.
+[40] Au cours des années pertinentes, l’appelante était propriétaire d’un immeuble résidentiel locatif duquel elle a perçu des loyers valant 12 722 $ en 2011, 10 784 $ en 2012 et 1 792 $ en 2013.
+II. Droit applicable
+[41] Le paragraphe 125(1) de la Loi de l’impôt sur le revenu autorise une société à demander la déduction accordée aux petites entreprises concernant le revenu de celle-ci pour l’année d’imposition lorsque cette société est « exploitée activement » au Canada.
+[42] Selon la définition du paragraphe 125(7), une « entreprise exploitée activement » en est une qui est « exploitée par une société, autre qu’une entreprise de placement déterminée ou une entreprise de prestation de services personnels mais y compris un projet comportant un risque ou une affaire de caractère commercial ».
+[43] Selon la définition du paragraphe 125(7), une « entreprise de placement déterminée » qui est exploitée par une société au cours d’une année d’imposition est une entreprise « [...] dont le but principal est de tirer un revenu de biens, notamment des intérêts, des dividendes, des loyers et des redevances[...] » [7] .
+[44] Par conséquent, toute entreprise exploitée par une société est une entreprise exploitée activement pourvu que cette entreprise ne soit pas une entreprise de placement déterminée ni une entreprise de prestation de services personnels. La question en litige dans le présent appel consiste à savoir si l’entreprise exploitée par l’appelante était une entreprise de placement déterminée.
+[45] Les faits du présent appel soulèvent une autre question; si je conclus que l’appelante exploitait activement une entreprise, de quelle façon le revenu tiré de cette entreprise exploitée activement serait-il qualifié? Entrent alors en jeu les paragraphes 125(7) et 129(4) de la Loi de l’impôt sur le revenu.
+[46] Le paragraphe 125(7) définit le « revenu de la société pour l’année provenant d’une entreprise exploitée activement ». Il dispose notamment que « le revenu de la société pour l’année provenant d’une entreprise qu’elle exploite activement, y compris le revenu pour l’année qui se rapporte directement ou accessoirement à cette entreprise, mais à l’exclusion du revenu, au sens du paragraphe 129(4), pour l’année tiré d’une source au Canada qui est un bien ».
+[47] Le paragraphe 129(4) définit comme suit le « revenu » et la « perte » d’une société pour une année d’imposition relativement à une source qui est un bien :
+revenu Le revenu d’une société pour une année d’imposition tiré d’une source qui est un bien :
+a) comprend le revenu tiré d’une entreprise de placement déterminée qu’elle exploite au Canada, sauf celui tiré d’une source à l’étranger;
+b) ne comprend pas le revenu tiré d’un bien qui, selon le cas :
+(i) se rapporte directement ou accessoirement à une entreprise qu’elle exploite activement;
+(ii) est utilisé ou détenu principalement pour tirer un revenu d’une entreprise qu’elle exploite activement.
+perte La perte d’une société pour une année d’imposition provenant d’une source qui est un bien :
+a) comprend la perte provenant d’une entreprise de placement déterminée qu’elle exploite au Canada, sauf celle provenant d’une source à l’étranger;
+b) ne comprend pas la perte résultant d’un bien qui, selon le cas :
+(i) se rapporte directement ou accessoirement à une entreprise qu’elle exploite activement;
+(ii) est utilisé ou détenu principalement pour tirer un revenu d’une entreprise qu’elle exploite activement.
+[48] Il en résulte que le revenu d’une société tiré d’une entreprise exploitée activement ne comprend pas le revenu pour une année d’imposition tiré d’une source qui est un bien, à moins que le revenu tiré de ce bien ne se rapporte directement ou accessoirement à cette entreprise exploitée par la société ou que le bien ne soit utilisé ou détenu principalement pour tirer un revenu d’une entreprise que la société exploite activement.
+III. Arguments de l’appelante
+[49] Les avocats de l’appelante ont résumé les arguments de cette dernière comme suit :
+- L’appelante exploitait activement une entreprise au sens du paragraphe 125(7). Plus précisément, il s’agissait d’une entreprise de création, d’écriture et de composition de musique destinée à des émissions de télévision. L’entreprise de l’appelante ne correspond pas au type d’entreprise que le législateur visait par l’introduction du concept d’entreprise de placement déterminée.
+- Qui plus est, même si la définition d’entreprise de placement déterminée s’appliquait en l’espèce, ce que l’appelante nie, il ressort clairement des éléments de preuve que le critère relatif au but principal issu de cette règle n’a pas été respecté. Encore une fois, la raison principale de l’entreprise ressort clairement des éléments de preuve : la société a été constituée dans le but de composer de la musique et de tirer un revenu de la composition de musique.
+- Pour terminer, même si l’entreprise de l’appelante est visée par la définition d’entreprise de placement déterminée, le revenu que l’appelante reçoit est tiré d’un bien qui se rapporte directement ou accessoirement à une entreprise exploitée activement par l’appelante ou qui est utilisé ou détenu principalement pour tirer un revenu d’une entreprise exploitée activement. Par conséquent, le revenu est qualifié de revenu provenant d’une entreprise exploitée activement par l’application des exceptions prescrites au paragraphe 129(4), lequel fait partie des définitions pertinentes aux règles applicables aux petites entreprises.
+IV. Arguments de l’intimée
+[50] L’avocat de l’intimée soutient pour sa part, en invoquant l’arrêt de la Cour d’appel fédérale Weaver c. Canada (arrêt Weaver) [8] que l’entreprise exploitée par l’appelante était une entreprise de placement déterminée. L’avocat soutient que, selon l’enseignement de l’arrêt Weaver, cette question dépend de la qualification juridique de ce revenu. Ayant gagné des redevances de la SOCAN, l’entreprise de l’appelante doit être une entreprise de placement déterminée.
+[51] En réponse à une question posée par la Cour, l’avocat a confirmé que, à la lumière de l’arrêt Weaver de la Cour d’appel fédérale, la thèse de l’intimée se fonde sur le fait que le paiement des services en question est en fait une redevance et que ce fait établit une présomption relativement à la question de savoir si le contribuable exploitait une entreprise de placement déterminée.
+[52] De plus, il soutient que je devrais tenir compte, en vue de tirer une conclusion factuelle sur le but principal de l’entreprise de l’appelante, de la qualification juridique du revenu que l’appelante a gagné au cours de la période pertinente, des biens que l’appelante détenait au cours de la période pertinente et du type de revenu que ces biens étaient en mesure de générer. L’intention subjective serait de moindre importance.
+[53] Pour ce qui est des actifs que la société détenait, l’avocat soutient que les actifs principaux de l’appelante étaient des biens sous la forme d’une cession de droits de redevance, car elle ne possédait pas directement le matériel protégé par le droit d’auteur.
+V. Dispositif
+[54] La question en litige que je dois trancher consiste à connaître le but principal de l’entreprise exploitée par l’appelante au cours de la période pertinente. Il s’agit d’une question de fait. Au moment de tirer une conclusion, il est important de tenir compte des véritables activités de l’appelante et d’établir ses sources de revenus [9] .
+[55] Selon les éléments de preuve qui me sont présentés, l’activité principale de l’appelante consistait à composer et à enregistrer de la musique destinée à des épisodes d’émission de télévision. Il s’agissait là de sa source principale de revenu.
+[56] À la lumière de ces éléments de preuve, je suis d’avis que le but principal de l’appelante consistait à tirer un revenu des activités de composition et d’enregistrement de son actif principal, soit M. Gagliese, son seul employé. De plus, la grande majorité des revenus étaient tirés des activités quotidiennes de M. Gagliese, à titre d’employé de l’appelante, en vue de trouver des clients, de composer les nombreuses pistes de musique destinées à des épisodes d’émission de télévision et d’enregistrer ces pistes. Ce travail a exigé d’importants efforts chaque jour, ce qui est démontré par le fait que M. Gagliese a composé et enregistré au moins 6 000 nouvelles pistes de musique destinées à des épisodes d’émission de télévision au cours de la période pertinente. Je retiens son témoignage selon lequel chacune de ces pistes était destinée à un nouvel épisode d’une émission de télévision, lequel était diffusé à une date précise.
+[57] Par exemple, la CBC a retenu les services de l’appelante pour la composition d’une musique précise destinée à la diffusion du téléjournal The National d’un certain soir.
+[58] L’appelante a reçu très peu de revenus de ces « revenus résiduels », en d’autres termes des revenus tirés de la rediffusion d’épisodes où ses pistes étaient jouées.
+[59] Ce n’était pas le but principal de l’entreprise de l’appelante que de tirer un revenu d’un bien. Le but principal de l’entreprise de l’appelante consistait à tirer un revenu des activités quotidiennes de M. Gagliese qui composait et enregistrait des pistes musicales destinées à des épisodes individuels d’émissions de télévision. Comme M. Gagliese l’a mentionné dans son témoignage, l’appelante n’aurait gagné qu’un faible revenu si ses activités quotidiennes de composition ne comptaient plus.
+[60] Je ne souscris pas à l’application que fait l’avocat de l’intimée de l’arrêt Weaver de la Cour d’appel fédérale. La Cour d’appel fédérale affirme au paragraphe 25 de sa décision que la définition d’« entreprise de placement déterminée » porte sur la qualification juridique du revenu que l’entreprise est censée tirer principalement. Comme je viens de l’affirmer, l’appelante avait l’intention de tirer un revenu principalement des services de composition quotidienne de musique fournis par son employé, M. Gagliese.
+[61] Avant que la SOCAN n’existe, le client d’un compositeur de musique payait le compositeur directement pour les services rendus en composition et en enregistrement des pistes et du contenu destinés aux épisodes d’émissions télévisées. Il me semble que, dans une telle situation, il serait évident que le revenu découlant de la composition et de l’enregistrement de musique est un revenu tiré d’une entreprise exploitée activement.
+[62] Lorsque la SOCAN a vu le jour, les clients ne payaient plus directement le compositeur de musique pour ses services. Ces paiements étaient plutôt versés à la SOCAN, même si les services en question étaient les mêmes. La méthode de paiement unique en vigueur dans l’industrie de l’appelante en contrepartie des services fournis ne change en rien le but principal de l’entreprise de l’appelante.
+[63] À mon avis, l’ARC a correctement appliqué l’arrêt Weaver rendu par la Cour d’appel fédérale en 2008 lorsqu’elle a fait paraître en 2009, dans son interprétation technique 2007 0238221E5, une affirmation confirmant la position adoptée depuis 22 ans, à savoir : [TRADUCTION] « [...] lorsqu’une société exploite une entreprise de composition de musique, le revenu qu’elle tire de ses droits d’auteur sera habituellement qualifié de revenu provenant d’une entreprise exploitée activement. Le fait qu’un tel revenu soit sous la forme de redevances ne suffit pas, en soi, pour conclure que ce revenu est bien un revenu tiré d’un bien. » Pour reprendre les termes employés par l’ARC dans son interprétation technique 9722915 de 1997, [TRADUCTION] « [lorsque] la société bénéficiaire cherche au cours de l’année à créer un bien en vue d’en tirer des redevances, ce revenu sera qualifié de revenu provenant d’une entreprise exploitée activement ».
+[64] Pour les motifs qui précèdent, j’ai conclu d’après les faits qui m’ont été présentés que le but principal de l’entreprise de composition de musique appartenant à l’appelante était de tirer un revenu de la prestation de ces services.
+[65] Ayant conclu que l’entreprise de l’appelante était exploitée activement, je dois à présent déterminer quel était le revenu de l’appelante provenant d’une entreprise exploitée activement au cours des années pertinentes en appliquant la définition de ce revenu donnée au paragraphe 125(7). D’après les éléments de preuve qui m’ont été présentés, je conclus que c’était l’ensemble du revenu tiré de l’entreprise de composition de musique appartenant à l’appelante.
+[66] Comme je l’ai dit précédemment, l’appelante a reçu certains « revenus résiduels », c’est-à-dire des revenus tirés de la rediffusion d’épisodes où ses pistes étaient jouées. Ce type de revenu se rapporte accessoirement ou directement à l’entreprise que l’appelante exploite activement. Par conséquent, par l’application des définitions pertinentes aux paragraphes 125(7) et 129(4), ce revenu n’était pas un revenu tiré d’un bien, mais bien un revenu tiré d’une entreprise exploitée activement.
+[67] Le revenu que l’appelante tirait de la location d’un bien résidentiel était un revenu tiré d’un bien. Ce revenu ne faisait pas partie du revenu tiré par l’appelante d’une entreprise exploitée activement. Je ne dispose d’aucun élément de preuve pouvant m’indiquer que l’appelante s’est servie de son bien résidentiel pour l’exploitation active de son entreprise.
+[68] Pour les motifs qui précèdent, l’appel est accueilli avec dépens, et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation, pour le motif que l’appelante exploitait activement une entreprise au Canada.
+[69] Les parties disposeront d’un délai de 30 jours à compter de la date du présent jugement pour parvenir à un accord sur les dépens, faute de quoi elles seront invitées à déposer leurs observations écrites sur les dépens dans les 60 jours suivant la date du présent jugement. Ces observations ne doivent pas dépasser dix pages.
+Signé à Antigonish (Nouvelle-Écosse), ce 10e jour de juillet 2018.
+« S. D’Arcy »
+Le juge D’Arcy
+Traduction certifiée conforme,
+ce 12e jour de février 2019.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2018 CCI 136
+No DU DOSSIER DE LA COUR :
+2016-341(IT)G
+INTITULÉ :
+Rocco Gagliese Productions Inc. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Les 16 et 17 janvier 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT :
+Le 10 juillet 2018
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Larry Nevsky
+Me Jacob Yau
+Avocat de l’intimée :
+Me Tony C. Cheung
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Larry Nevsky
+Me Jacob Yau
+Cabinet :
+Dentons Canada S.E.N.C.R.L.
+Toronto (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Interprétation technique no 9722915 du 26 septembre 1997.
+[2] Transcription, page 196. Voir aussi la transcription, page 205.
+[3] Voir la pièce A-22, Règles de répartition de la SOCAN, règle 4.07.
+[4] Voir la pièce A-22.
+[5] Voir la pièce A-22, page 257.
+[6] Voir la pièce AR-4.
+[7] Cette définition contient deux exclusions non applicables dans le contexte du présent appel.
+[8] 2008 CAF 238, 2008 DTC 6517.
+[9] Prosperous Investments Ltd. c. Canada, [1992] A.C.I. no 6, 92 DTC 1163, page 1165.

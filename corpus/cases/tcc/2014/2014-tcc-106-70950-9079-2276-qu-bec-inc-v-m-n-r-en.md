@@ -1,0 +1,140 @@
+---
+title: "9079-2276 Québec inc v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/70950/index.do"
+last_modified: "2014-04-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 106"
+citation2: ""
+neutral_citation: "2014 TCC 106"
+decision_date: "2014-04-08"
+language: "en"
+item_id: "70950"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5290
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:50:20.462000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6f628be919172b23a101d09f6db23e0b08892f643905ab33d68c6e4709eb7172"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9079-2276 Québec inc v. M.N.R.
+
+- Citation: 2014 TCC 106
+- Decision date: 2014-04-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5290, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9079-2276 Québec inc v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-04-08
+Neutral citation
+2014 TCC 106
+File numbers
+2013-1319(EI)
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2013-1319(EI)
+BETWEEN:
+9079-2276 Québec Inc.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 14, 2014, at Shawinigan, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Agent for the appellant:
+André Lauzon
+Counsel for the respondent:
+Emmanuel Jilwan
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is confirmed, on the basis that Michel Boulet was engaged in insurable employment when he worked for the appellant during the period from January 9, 2011, to December 10, 2011.
+Signed at Ottawa, Canada, this 8th day of April 2014.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 21st day of May 2014
+Daniela Guglietta, Translator
+Citation: 2014 TCC 106
+Date: 20140408
+Docket: 2013-1319(EI)
+BETWEEN:
+9079-2276 Québec Inc.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The appellant is appealing from a decision of the Minister of National Revenue (Minister) in which it was decided that Michel Boulet was engaged in insurable employment when he worked for the appellant during the period from January 9, 2011, to December 10, 2011.
+[2] The appellant is wholly owned by Solange Plante. She operates a bar in Plessisville. Her spouse, André Lauzon, supervised in part evening operations.
+[3] According to the testimony of Mr. Lauzon, he hired Mr. Boulet to help him financially. Mr. Boulet worked in a restaurant during the day, and was offered janitorial work nights, after bar closing. Mr. Lauzon provided him with the equipment as the worker did not have the means to purchase any.
+[4] Mr. Boulet allegedly mentioned to him that he had a permit as a self-employed person, and they allegedly agreed on a remuneration of $280 per week.
+[5] Gilles Mathieu was the bar manager. He explained that Mr. Boulet began to neglect his work toward the end of the period. He gave him three warnings prior to informing him that his services were no longer needed, after inquiring with the Commission des normes du travail about the appellant’s rights and obligations.
+[6] Mr. Lauzon mentioned that he was left on his own to perform the maintenance services after the worker failed to report for work at the bar on numerous occasions.
+[7] In his testimony, Mr. Boulet stated that Mr. Lauzon asked him to register with Revenu Québec as a business owner. He accompanied him to the courthouse to do so (Exhibit A-1).
+[8] According to Mr. Boulet, he was paid $10 per hour to work each day of the week (7 days) from 2:45 a.m. to 7 a.m. Ms. Plante confirmed that he was paid $280 per week, for 4 hours per day, 7 days per week (Exhibit A-2). He took ten days of unpaid vacation when this was offered to him and he did not find a replacement.
+[9] Mr. Boulet also mentioned that Mr. Lauzon and his employee showed him how to perform the work and he did what he was asked to do. Ms. Plante verified whether the work was properly done and discussed it with him as required.
+Analysis
+[10] For a contract of employment (employer-employee relationship) to exist, the work must be under the direction or control of an employer (article 2085 of the Civil Code of Québec and Grimard v. Canada, [2009] F.C.J. No. 167, para. 30). The mutual intention of the parties, if there is one, must also be considered, but it must be concretely reflected in the behaviour of the parties in performing the contract (Grimard, paras. 32 and 33).
+[11] Here, it is clear from the evidence that there was no mutual intention of the parties in the characterization of Mr. Boulet’s legal status. Mr. Boulet, clearly, did not consider himself to be a self-employed worker.
+[12] In any event, it is the actual facts that must be analyzed and not what either party claims.
+[13] Although the appellant appeared to act in good faith by wanting to hire Mr. Boulet as a self-employed worker to help him financially, the facts show that he worked under the direction and supervision of Mr. Lauzon and Ms. Plante.
+[14] Mr. Boulet worked in accordance with a schedule and remuneration established by Mr. Lauzon and Ms. Plante. Ms. Plante verified the work performed. Mr. Lauzon replaced him during his absences. The equipment was provided to him and his duties were specifically defined to him. Despite his increasing absences at the end of the period, according to the various testimonies, he received full remuneration (except for his two weeks’ vacation) until his dismissal (Exhibit A-2).
+[15] I therefore find that Mr. Boulet was hired as an employee, under the direction and control of the appellant during the period at issue.
+[16] The appeal is dismissed and the decision of the Minister is confirmed.
+Signed at Ottawa, Canada, this 8th day of April 2014.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 21st day of May 2014
+Daniela Guglietta, Translator
+CITATION: 2014 TCC 106
+COURT FILE NO.: 2013-1319(EI)
+STYLE OF CAUSE: 9079-2276 Québec Inc. v. The MinisteR OF National RevenuE
+PLACE OF HEARING: Shawinigan, Quebec
+DATE OF HEARING: March 14, 2014
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: April 8, 2014
+APPEARANCES:
+Agent for the appellant:
+André Lauzon
+Counsel for the respondent:
+Emmanuel Jilwan
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

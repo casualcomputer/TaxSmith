@@ -1,0 +1,328 @@
+---
+title: "Otteson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/73121/index.do"
+last_modified: "2014-08-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 250"
+citation2: ""
+neutral_citation: "2014 TCC 250"
+decision_date: "2014-08-13"
+language: "en"
+item_id: "73121"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5204
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:36:31.274000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8fa0e64abec69898bc5c6ed08c69c5baf6f2934deba25ba0b1e730c68a4a7186"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Otteson v. The Queen
+
+- Citation: 2014 TCC 250
+- Decision date: 2014-08-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5204, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Otteson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-08-13
+Neutral citation
+2014 TCC 250
+File numbers
+2012-438(IT)G, 2012-439(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-438(IT)G
+BETWEEN:
+RONALD OTTESON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of Donna Otteson (2012-439(IT)G) on March 26 and 27, 2014, at Edmonton, Alberta.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Sanjaya R. Ranasinghe
+Counsel for the Respondent:
+Gergely Hegedus
+Donna Tomljanovic
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2008 and 2009 taxation years is allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+The parties have 30 days to agree on costs, failing which each party is to submit submissions on costs, not to exceed five pages, at the expiration of the aforementioned time.
+Signed at Magog, Quebec, this 13th day of August 2014.
+“Robert J. Hogan”
+Hogan J.
+Docket: 2012-439(IT)G
+BETWEEN:
+DONNA OTTESON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of Ronald Otteson (2012-438(IT)G) on March 26 and 27, 2014, at Edmonton, Alberta.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Sanjaya R. Ranasinghe
+Counsel for the Respondent:
+Gergely Hegedus
+Donna Tomljanovic
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2008 and 2009 taxation years is allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+The parties have 30 days to agree on costs, failing which each party is to submit submissions on costs, not to exceed five pages, at the expiration of the aforementioned time.
+Signed at Magog, Quebec, this 13th day of August 2014.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2014 TCC 250
+Date: 20140813
+Dockets: 2012-438(IT)G
+2012-439(IT)G
+BETWEEN:
+RONALD OTTESON,
+DONNA OTTESON,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Overview [1] In 2003, Ronald and Donna Otteson (the “Appellants”) purchased 50.16 acres of land (the “Land”) for the purpose, inter alia, of using the Land in a tree farm business and producing hay (the “Tree Farm”).
+[2] Early in 2007, a significant quantity of gravel was unexpectedly found on the Land. Shortly thereafter, the Appellants began to receive unsolicited and persistent offers for the Land. In the fall of 2008, the Land was sold by the Appellants to an arm’s length buyer for $1,600,000.
+[3] In filing their tax returns for the 2008 and 2009 taxation years, each of the Appellants claimed the maximum capital gains deduction with respect to the capital gain amount included in their income for each of those years (the “Farming Capital Gains Exemption”), they did so on the basis that the Land was “qualified farm property” within the meaning of the definition of that term. The Minister of National Revenue (the “Minister”) reassessed the Appellants to deny their claim for the Farming Capital Gains Exemption on the basis that the circumstances surrounding the ownership and use of the Land did not satisfy the eligibility requirements for that exemption.
+II. Factual Background [4] The Appellants were married to each other and were residents of Alberta at all times material to these appeals.
+[5] Mr. Otteson retired from the Canadian air force in 1994 after serving as a pilot throughout his career.
+[6] It was Mr. Otteson’s understanding that, following his death, the surviving spouse annuity paid to his wife would be half of the pension amount that he was receiving.
+[7] In 2003, the couple learned that an elderly gentleman they had befriended planned to sell the Land. Both of the Appellants had grown up on a farm and were schooled in farm operations. The evidence shows that the couple believed that they could launch a successful tree farm on the Land.
+[8] The Appellants’ business plan called initially for the planting of 10,000 trees. The Appellants estimated that this would allow them to harvest 1,000 trees per year starting in 2010. It was anticipated that 1,000 trees, when harvested, would yield $200,000 of gross revenue per year. The harvested trees would be replaced by new trees planted on the Land, thus ensuring a steady stream of revenue for the Appellants that was expected to start in 2008.
+[9] To begin their Tree Farm, the Appellants jointly purchased the Land on May 30, 2003 for $100,000.
+[10] The evidence shows that, from 2003 to 2008, but for a small amount of revenue received from hay sales to roadside buyers for cash and from the rental of part of the Land to Kevin Frey, the Appellants’ principal source of income was Mr. Otteson’s air force pension, old age security and Canada Pension Plan benefits.
+[11] The Appellants testified that they worked on the Land from 2003 to 2008. The farm work consisted of cleaning waste that had been dumped on the Land before the Appellants bought the Land, the removal of dead trees from the original bush, planting young trees, planting and harvesting hay, buying and applying fertilizer, weed control, and watering the trees.
+[12] The evidence shows that the Appellants bought and repaired farm equipment for use on the Tree Farm. This equipment included a farm tractor, a tree planter, a little yard tractor, a mower, a side-delivery rake, a front-end loader, bale forks, bale stookers, chainsaws and small construction equipment. In addition, the Appellants also repaired and reconstructed the farm buildings on the Land for the purpose of storing their farm equipment.
+[13] The Appellants testified that all the expenses associated with the operation of the Tree Farm and the costs for the farm equipment were paid from their joint bank accounts.
+[14] The Appellants described their tree-planting activities during the period from 2003 to 2008. According to the Appellants, they planted 250 trees in 2004 and 2,000 trees in 2005. With regard to the following years, there is no specific reference to the number of trees planted. However, Ms. Otteson testified in cross‑examination that by 2008 there were 5,000 trees planted on the Land.
+[15] The Appellants testified during direct and cross-examination that most of the Land was used for the Tree Farm but for the acreage they rented to Mr. Frey, a local farmer who used the rented acreage for hay production. While both Appellants were questioned as to the area of the Land used for the Tree Farm and the area rented to Mr. Frey, it was obvious that Mr. Otteson had a much better grasp of the subject matter as he had measured the Land and was the one who had made the rental arrangements with Mr. Frey.
+[16] During direct examination, Mr. Otteson testified that the Appellants rented 30, 27, 24.25, and 22.9 acres in 2004, 2005, 2006 and 2007 respectively. During cross‑examination, Mr. Otteson testified that in 2004 he and his wife charged Mr. Frey for 36 acres, even though they had only agreed to rent 30 acres, because Mr. Frey had exceeded his allocated area when seeding. In cross‑examination, Mr. Otteson also explained that he had calculated the amount of the total rent by measuring the Land and multiplying the acreage so determined by the amount of the rent per acre. According to Mr. Otteson, the rent per acre was $50 in 2004, $50 in 2006, $55 in 2007 and $60 in 2008. He did not specify the amount of rent charged for 2005. He referred to the amount of money paid each year (the cheques were submitted in the Joint Book of Documents).[1] According to the cheques, Mr. Frey paid Mr. Otteson $1,800 in 2004, $1,350 in 2005, $1,215 in 2006, $1,260 in 2007, and $1,350 in 2008.
+[17] I found each of the Appellants to be very credible witnesses. I note that their answers on cross-examination were consistent with their testimony in direct.
+[18] Mr. Frey’s testimony differed from that of Mr. Otteson with respect to the area of the Land that he had rented in each of the years in question. He was confident that the area was greater than that described by Mr. Otteson because he had a reader on his seeder that calculated the acreage that he seeded. Mr. Otteson said that the discrepancy could be explained by the fact that Mr. Frey had seeded land that belonged to a contiguous land owner and that he mistakenly believed belonged to the Appellants.
+[19] Prior to March of 2009, neither of the Appellants reported any income or losses from their farming activities. According to the Appellants’ testimony, they had been advised by their bookkeeper that their farm expenses had to be carried forward and then deducted only once they started to report farm revenue.
+[20] The Appellants’ new accounting advisor advised Mr. Otteson to file requests for adjustments for his 2003 to 2007 taxation years to claim the following:
+Year
+Gross Farming Income LINE 168
+Net Farming Income (Loss) LINE 141
+2003
+NIL
+($13,358.14)
+2004
+$2,094
+($19,107.71)
+2005
+$2,371
+($13,621.05)
+2006
+$3,315
+($11,168.69)
+2007
+$4,265
+($8,997.12)
+[21] The Appellants now claim that they received incorrect advice from their accountant. The losses should have been reported jointly by the couple as the Land was jointly owned by them and the Tree Farm was operated as a 50/50 partnership. They have accordingly submitted amended adjustment requests to the Minister.
+[22] During 2007, an aerial geological survey was conducted on the Land. A follow-up investigation led to the discovery of a significant quantity of gravel there. Shortly thereafter, the Appellants began to receive persistent unsolicited offers for the Land. Ultimately, they decided to list the Land for sale.
+[23] The Appellants received multiple offers to purchase the Land. After an accepted offer to purchase failed to result in the transaction being closed, the Appellants finally accepted a less favourable offer in November of 2008. As part of that transaction, the Appellants agreed to take back a mortgage of $1,000,000 for the balance owing (the “VTB Mortgage”), $600,000 having been paid in cash on closing.
+[24] With respect to the 2008 taxation year, the Appellants reported the capital gain realized on the disposition of the Land while claiming a capital gain reserve with respect to the VTB Mortgage. They claimed a portion of the maximum Farming Capital Gains Exemption with regard to the gain included in income in 2008. Because the VTB Mortgage was paid in full in 2009, the Appellants included the full amount of the prior year’s reserve in the calculation of their income for the 2009 taxation year. They claimed the balance of the Farming Capital Gains Exemption in 2009 in connection with the gain included in income in that year.
+III. Positions of the Parties A. Appellants’ Arguments [25] The Income Tax Act (the “Act”) imposes different eligibility requirements for the Farming Capital Gains Exemption depending on who owns the farm land and who uses the farm land in a farming business. At various stages of these proceedings, the Appellants adopted inconsistent positions with respect to the ownership of the Land. Each of these positions presents different challenges to the Appellants.
+[26] In their initial Notice of Appeal, the Appellants argued that the Land was owned by them directly and used in the course of operating the Tree Farm through a partnership. In their Amended Notice of Appeal, the Appellants changed this argument and claimed that the Land was owned and used by the partnership in its Tree Farm operation. During the trial, the Appellants advanced both arguments: that the Land was owned by the partnership and that the Land was owned by the Appellants. In their written submissions, the Appellants appear to have settled on the argument that the evidence shows that the Land was owned by the Appellants.
+[27] With respect to the existence of a partnership, the Appellants argue that they were actively engaged in carrying on a business in common with a view to making a profit. According to the Appellants, they both contributed skill, capital and time to the farming business, which was carried on through a de facto partnership up to the time the Land was sold by them.
+[28] The Appellants argue that more than half of the Land was used directly by the partnership for its farming activities during the relevant period. According to the Appellants, they planned to eventually use all the Land for the Tree Farm. Renting part of the Land to Mr. Frey helped them finance the Tree Farm and his activities helped control the spreading of weeds that could impede the growth of trees. The Appellants favour a broad notion of “use” such that the acreage rented to Mr. Frey should be considered as having been used indirectly by the partnership for its Tree Farm operation.
+[29] On the basis of these arguments, the Appellants claim that they satisfy all of the eligibility requirements for the Farming Capital Gains Exemption because:
+(i) they owned the Land in the 24-month period preceding its disposition (the “Relevant Ownership Period”), a fact that is admitted by the Respondent;
+(ii) throughout any 24-month period during which they owned the Land (the “Relevant Use Period”), more than 50% of the Land was directly used by a de facto partnership of which they were 50/50 partners (the balance of the Land was used indirectly by the partnership throughout the same period);
+(iii) throughout the Relevant Use Period, the Appellants were engaged on a regular and continuous basis in the Tree Farm operation; and
+(iv) all or substantially all of the fair market value of the property of the partnership was attributable to property used in the Tree Farm business throughout the Relevant Use Period such that the Appellants’ interest in the partnership was an “interest in a family farm partnership” with respect to that period.
+B. Respondent’s Arguments [30] The Respondent submits that the Appellants did not conduct their farming business through a partnership. Rather, the Appellants were engaged in activities as spouses acting for the common good of the couple. The Respondent notes that the existence of the de facto partnership was raised after the Minister challenged the Appellants’ right to the Farming Capital Gains Exemption and the Appellants hired counsel to represent them in their appeal.
+[31] The Respondent notes that, in circumstances where the land is owned by individuals and the farming business is carried on by them directly, subsection 110.6(1.3) of the Act mandates, inter alia, that in at least two years while the land was owned by them their gross revenue from farming must exceed their income from all other sources. Because the Appellants admit that they failed to meet this test, the Respondent argues that their appeal must be dismissed for this reason alone.
+[32] In the alternative, should I find that the Appellants carried on their farming activities through a partnership, the Respondent argues that the Appellants’ appeals must nonetheless be dismissed because their interest in the partnership did not qualify as an “interest in a family farm partnership” throughout the Relevant Use Period. The Respondent submits that a partnership interest qualifies under the aforementioned definition only if (i) throughout the Relevant Use Period, more than 50% of the assets were principally used in a farming business, and (ii) at the time the land was sold, all or substantially all of the fair market value of the property of the partnership was used in a farming business. With respect to these two asset tests, the Respondent submits that, because of the allegation in their Amended Notice of Appeal to the contrary effect, the Appellants are barred from arguing that the Land was not transferred to the partnership.
+[33] The Respondent adds that the Appellants must also fail in their appeals because they were not actively and continuously involved in the activities of the partnership.
+C. Issues [34] Considering the contrary positions advanced by the parties, I have identified the following issues for my determination:
+(i) Is the Court barred from finding that the Land remained the sole property of the Appellants because the Appellants alleged in their Amended Notice of Appeal that it belonged to a partnership?
+(ii) Did the Appellants carry on the Tree Farm business through a de facto partnership?
+(iii) Assuming a partnership existed, were the Appellants both engaged on a regular and continuous basis in the activities of the partnership throughout the Relevant Use Period? Was the Appellants’ interest in the partnership an “interest in a family farm partnership” during the Relevant Use Period?
+(iv) Assuming a partnership existed, what part of the Land is “qualified farm property” as defined in the Act?
+IV. Analysis A. Preliminary Matter: Can the Court find that the Land was owned by the Appellants and used by a partnership? [35] As noted earlier, the Appellants have changed their arguments and factual assertions three times during the course of the proceedings. In their Notice of Appeal, the Appellants argued that they owned the Land, on which the Tree Farm was operated. The Appellants subsequently amended their Notice of Appeal to argue that they transferred the Land to the partnership. Then, during closing submissions, the Appellants’ counsel reverted to the argument that the Appellants owned the Land that was used by the partnership.
+[36] I note that the Respondent, in her Amended Reply, did not accept the view that the Appellants transferred the Land to a partnership. In contrast to the Appellants’ assertion, the Minister assumed that “[n]o partnership existed between the Appellant and Donna Otteson with respect to the tree farm on the [Land].”[2] In addition to this, the Minister assumed that it was the Appellants who sold the Land. By virtue of these assumptions, it follows that the Respondent assumed that the Land was sold by the Appellants directly and not as agents dealing with partnership property.
+[37] The ordinary rule with respect to the burden of proof in tax appeals is that the taxpayer has to “demolish” the Minister’s assumptions.[3] The Crown’s factual assumptions are taken as true unless the taxpayer rebuts them.[4] The exception to this principle is when the pleaded assumptions of fact are exclusively or peculiarly within the Minister’s knowledge.[5]
+[38] Invariably, in tax appeals, there are contested facts, such as who owned the Land in the instant case. The Court’s role is to make factual findings based on the rules of evidence. Considering the evidence as a whole, I am satisfied that the Appellants did not transfer the Land to a partnership. At the very least, the Appellants did not rebut the Minister’s assumption that they owned and sold the Land in their personal capacity. From a procedural fairness standpoint, I am also satisfied that the inconsistent positions taken by the Appellants have not caused prejudice to the Respondent. The Respondent cross‑examined the Appellants on this point and had the opportunity to address this issue fully in both her oral and written submissions.
+B. Did the Appellants carry on the Tree Farm business as partners of a de facto partnership in which they were both engaged on a regular and continuous basis? [39] As will be seen later in these reasons for judgment, the eligibility requirements for the Farming Capital Gains Exemption vary according to the circumstances surrounding the ownership and use of the property. As noted earlier, the Respondent claims that the owners of the Land and the operators of the farm were the Appellants acting as husband and wife. In contrast, the Appellants argue that they were the operators of the Tree Farm in their capacity as de facto partners.
+[40] The Alberta Partnership Act (the “APA”) defines “partnership” as “the relationship that subsists between persons carrying on a business in common with a view to profit.”[6] Similar definitions are found in most common law jurisdictions.
+[41] The APA enumerates factors that may or may not be considered relevant in determining whether a partnership exists. Factors that by themselves do not give rise to a finding that there is a partnership include: how property is held by the parties, how revenues are shared between parties, the receipt of certain payments and the lending of money:
+4 In determining whether a partnership does or does not exist, regard shall be had to the following rules:
+(a) joint tenancy, tenancy in common, joint property, common property or part ownership does not of itself create a partnership as to anything so held or owned, whether the tenants or owners do or do not share profits made by the use of it;
+(b) the sharing of gross returns does not of itself create a partnership, whether the persons sharing the returns have or have not a joint or common right or interest in property from which or from the use of which the returns are derived;
+(c) the receipt by a person of a share of the profits of a business is proof, in the absence of evidence to the contrary, that that person is a partner in the business, but the receipt of the share, or of a payment contingent on or varying with the profits of the business, does not of itself make the person receiving the share or payment a partner in the business, and in particular:
+(i) the receipt by a person of a debt or other liquidated amount by instalments or otherwise out of the accruing profits of a business does not of itself make that person a partner in the business or liable as a partner;
+(ii) a contract for the remuneration of a servant or agent of a person engaged in a business by a share of the profits of the business does not of itself make the servant or agent a partner in the business or liable as a partner;
+(iii) a person who is a surviving spouse or adult interdependent partner or child of a deceased partner and who receives by way of annuity a portion of the profits made in the business in which the deceased person was a partner does not by reason only of that receipt become a partner in the business or liable as a partner;
+(iv) the advance of money by way of loan to a person engaged or about to engage in a business on a contract with that person that the lender shall
+(A) receive a rate of interest varying with the profits, or
+(B) receive a share of the profits arising from carrying on the business,
+does not of itself make the lender a partner with the person or persons carrying on the business or liable as a partner, so long as the contract is in writing and signed by or on behalf of all the parties to the contract;
+(v) a person receiving by way of annuity or otherwise a portion of the profits of a business in consideration of the sale by the person of the goodwill of the business is not by reason only of that receipt a partner in the business or liable as a partner.[7]
+[42] The APA, like most laws regulating partnerships, recognizes that an agency relationship exists between partners: “[e]ach partner is an agent of the firm and of the partner’s other partners for the purpose of the business of the partnership.”[8] In addition, the APA creates a presumption that property bought with partnership money belongs to the partnership: “[p]roperty bought with money belonging to the firm is deemed to have been bought on account of the firm unless there appears to be a contrary intention.”[9]
+[43] The existence of a partnership is fact-specific. The criteria applied to determine the existence of a partnership include the contribution by the parties of money, property, effort, knowledge, skills or other assets to a common undertaking, the sharing of profits and losses, a mutual right of control or management of the enterprise, the filing of income tax returns as a partnership and joint bank accounts.[10]
+[44] The case law on the matter of the existence of a partnership suggests that I must apply a pragmatic approach when dealing with this question:
+. . . Whether a partnership has been established in a particular case will depend on an analysis and weighing of the relevant factors in the context of all the surrounding circumstances. That the alleged partnership must be considered in the totality of the circumstances prevents the mechanical application of a checklist or a test with more precisely defined parameters.[11]
+[45] The Respondent cited a few cases that stand for the proposition that the courts should be cautious in finding that spouses are members of a partnership.[12] In my opinion, the cited cases are almost exclusively dependent on the factual findings of the court. For example, in Sedelnick Estate, this Court had to deal with a transaction that occurred before a statutory change to the prevailing common law position that a married woman in Saskatchewan could not enter into a legal relationship binding on her husband or herself.[13] As well, a witness who could have given relevant evidence was not called to testify, from which the Court drew a negative inference. The Court observed that the only witness who testified “did not create a favourable impression.”[14] In my opinion, these cases stand for the often-cited principle that the parties’ subjective declaration of an intent to carry on a business in common for profit must be supported by evidence as to their actual conduct.
+[46] The objective evidence discussed below established by the Appellants’ uncontradicted testimony shows that the circumstances surrounding the operation of the Tree Farm are consistent with their declared intention to supplement their pension income by carrying on a tree-farming business in common with a view to making a profit as partners in an undocumented partnership. The Appellants’ evidence also shows that both were fully engaged on a regular and continuous basis in the operation of the Tree Farm, and that they pursued that venture with the plan of realizing significant annual profits when the trees were ready for harvesting.
+[47] The Appellants actively worked together in developing the Tree Farm. The Tree Farm was set up as a long-term venture: the Appellants were expecting to start selling their first trees by 2008. The Appellants testified during both examination and cross-examination that before gravel was discovered on their property the Tree Farm was developing as projected. The discovery of gravel on the Land had an impact on their plans regarding the Tree Farm. However, until the Land was sold, the Appellants invested time, effort and capital in the Tree Farm operation.
+C. Was all or part of the Land “qualified farm property” for the purpose of subsection 110.6(2) of the Act? [48] The starting point for determining whether the Appellants were entitled to claim the Farming Capital Gains Exemption is the definition of “qualified farm property” in section 110.6(1) of the Act, which reads as follows:
+“qualified farm property” of an individual (other than a trust that is not a personal trust) at any time means a property owned at that time by the individual, the spouse or common-law partner of the individual or a partnership, an interest in which is an interest in a family farm partnership of the individual or the individual’s spouse or common-law partner that is
+(a) real or immovable property that was used in the course of carrying on the business of farming in Canada by,
+(i) the individual,
+(ii) if the individual is a personal trust, a beneficiary of the trust that is entitled to receive directly from the trust any income or capital of the trust,
+(iii) a spouse, common-law partner, child or parent of a person referred to in subparagraph (i) or (ii),
+(iv) a corporation, a share of the capital stock of which is a share of the capital stock of a family farm corporation of an individual referred to in any of subparagraphs (i) to (iii), or
+(v) a partnership, an interest in which is an interest in a family farm partnership of an individual referred to in any of subparagraphs (i) to (iii),
+(b) a share of the capital stock of a family farm corporation of the individual or the individual’s spouse or common-law partner,
+(c) an interest in a family farm partnership of the individual or the individual’s spouse or common-law partner, or
+(d) an eligible capital property (which is deemed to include capital property to which paragraph 70(5.1)(b) or 73(3.1)(f) applies) used by a person or partnership referred to in any of subparagraphs (a)(i) to (v), or by a personal trust from which the individual acquired the property, in the course of carrying on the business of farming in Canada;
+[Emphasis added.]
+[49] This definition merits a few observations. In the context of this appeal, I note that the provision refers to how the real property was used. The actual use of the real property at the time of its disposition is not relevant. In addition, earlier versions of this definition referred to the principal use of the real property. The definition was amended in 2013 retroactive to 2006 to delete the concept of “principal use” and replace it by the less restrictive concept of “use”.
+[50] Subsection 110.6(1.3) of the Act supplements the ownership and use requirements laid out in the definition of “qualified farm property” by providing as follows:
+110.6(1.3) For the purposes of applying the definition “qualified farm property”, in subsection (1), of an individual, at any time, a property owned at that time by the individual, the spouse or common-law partner of the individual, or a partnership, an interest in which is an interest in a family farm partnership of the individual or of the individual’s spouse or common-law partner, will not be considered to have been used in the course of carrying on the business of farming in Canada, unless
+(a) throughout the period of at least 24 months immediately preceding that time, the property or property for which the property was substituted (in this paragraph referred to as “the property”) was owned, by any one or more of
+(i) the individual, or a spouse, common-law partner, child or parent of the individual,
+(ii) a partnership, an interest in which is an interest in a family farm partnership of the individual or of the individual’s spouse or common-law partner,
+(iii) if the individual is a personal trust, the individual from whom the trust acquired the property or a spouse, common-law partner, child or parent of that individual, or
+(iv) a personal trust from which the individual or a child or parent of the individual acquired the property;
+(b) if paragraph (c) does not apply, either
+(i) in at least two years while the property was owned by the one or more persons referred to in paragraph (a),
+(A) the gross revenue of a person (in this clause referred to as the “operator”) referred to in paragraph (a) from the farming business referred to in clause (B) for the period during which the property was owned by a person described in paragraph (a) exceeded the income of the operator from all other sources for that period, and
+(B) the property was used principally in a farming business carried on in Canada in which an individual referred to in paragraph (a), or where the individual is a personal trust, a beneficiary of the trust, was actively engaged on a regular and continuous basis, or
+(ii) throughout a period of at least 24 months while the property was owned by one or more persons or partnerships referred to in paragraph (a), the property was used by a corporation referred to in subparagraph (a)(iv) of the definition “qualified farm property” in subsection (1) or by a partnership referred to in subparagraph (a)(v) of that definition in a farming business in which an individual referred to in any of subparagraphs (a)(i) to (iii) of that definition was actively engaged on a regular and continuous basis; or
+(c) if the property or property for which the property was substituted was last acquired by the individual or partnership before June 18, 1987 or after June 17, 1987 under an agreement in writing entered into before that date,
+(i) in the year the property was disposed of by the individual, the property was used principally in the course of carrying on the business of farming in Canada by
+(A) the individual, or a spouse, common-law partner, child or parent of the individual,
+(B) a beneficiary referred to in subparagraph (a)(ii) in the definition “qualified farm property” in subsection (1) or a spouse, common-law partner, child or parent of that beneficiary,
+(C) a corporation referred to in subparagraph (a)(iv) in the definition “qualified farm property” in subsection (1),
+(D) a partnership referred to in subparagraph (a)(v) in the definition “qualified farm property” in subsection (1), or
+(E) a personal trust from which the individual acquired the property, or
+(ii) in at least five years during which the property was owned by a person described in clauses (A) to (E), the property was used principally in the course of carrying on the business of farming in Canada by
+(A) the individual, or a spouse, common-law partner, child or parent of the individual,
+(B) a beneficiary referred to in subparagraph (a)(ii) in the definition “qualified farm property” in subsection (1) or a spouse, common-law partner, child or parent of that beneficiary,
+(C) a corporation referred to in subparagraph (a)(iv) in the definition “qualified farm property” in subsection (1),
+(D) a partnership referred to in subparagraph (a)(v) in the definition “qualified farm property” in subsection (1), or
+(E) a personal trust from which the individual acquired the property.[15]
+[Emphasis added.]
+[51] As noted earlier, the parties do not agree on which of the alternative requirements set out in subsection 110.6(1.3) of the Act need to be satisfied. The Appellants argue that the requirements of subparagraph 110.6(1.3)(b)(ii) must be satisfied. In contrast, the Respondent, because she denied the existence of a partnership, focused her main argument on subparagraph 110.6(1.3)(b)(i), which in many instances can be more restrictive. Because the law on partnership and the evidence favours the Appellants’ position, I will consider whether the conditions laid out in subparagraph 110.6(1.3)(b)(ii) that are relevant for this appeal have been satisfied.
+[52] For the purposes of the instant case, the eligibility requirements stated in subparagraph 110.3(1.3)(b)(ii) can be broken down as follows:
+(i) Continuous use
+The real property (or part thereof) owned by the Appellants must be shown to have been used by the partnership throughout the Relevant Use Period. I am satisfied, on the evidence, that part of the Land was actually used by the partnership on a continuous basis during the Relevant Use Period chosen by the Appellants.
+(ii) Actively engaged
+The Appellants must have been engaged on a regular and continuous basis in the partnership’s Tree Farm business throughout the Relevant Use Period. As previously noted, I am satisfied that this was the case.
+(iii) Conditions affecting the partnership
+The Appellants’ interest in the partnership must qualify as an “interest in a family farm partnership” (the “Qualified Farm Partnership Operator”) throughout the Relevant Use Period.
+[53] The term “interest in a family farm partnership” is defined as follows in subsection 110.6(1):
+“interest in a family farm partnership” of an individual (other than a trust that is not a personal trust) at any time means a partnership interest owned by the individual at that time if
+(a) throughout any 24-month period ending before that time, more than 50% of the fair market value of the property of the partnership was attributable to
+(i) property that was used principally in the course of carrying on the business of farming in Canada in which the individual, a beneficiary referred to in clause (C) or a spouse, common-law partner, child or parent of the individual or of a beneficiary referred to in clause (C) was actively engaged on a regular and continuous basis, by
+(A) the partnership,
+(B) the individual,
+(C) where the individual is a personal trust, a beneficiary of the trust,
+(D) a spouse, common-law partner, child or parent of the individual or of a beneficiary referred to in clause (C),
+(E) a corporation, a share of the capital stock of which was a share of the capital stock of a family farm corporation of the individual, a beneficiary referred to in clause (C) or a spouse, common-law partner, child or parent of the individual or of a beneficiary referred to in clause (C), or
+(F) a partnership, a partnership interest of which was an interest in a family farm partnership of the individual, a beneficiary referred to in clause (C) or a spouse, common-law partner, child or parent of the individual or of a beneficiary referred to in clause (C),
+(ii) shares of the capital stock or indebtedness of one or more corporations all or substantially all of the fair market value of the property of which was attributable to properties described in subparagraph (iv),
+(iii) a partnership interest in or indebtedness of one or more partnerships all or substantially all of the fair market value of the property of which was attributable to properties described in subparagraph (iv), or
+(iv) properties described in any of subparagraphs (i) to (iii), and
+(b) at that time, all or substantially all of the fair market value of the property of the partnership was attributable to property described in subparagraph (a)(iv);
+[Emphasis added.]
+[54] In the context of the requirements of subparagraph 110.6(1.3)(b)(ii) relevant to the instant case, the evidence must show that the partnership met the following asset thresholds during the Relevant Use Period in order for it to be a Qualified Farm Partnership Operator:
+(i) more than 50% of the fair market value of the property of the partnership was attributable to property that was used principally in the course of carrying on the Tree Farm business in Canada (the “More Than Majority Threshold”); and
+(ii) at the relevant time, all or substantially all of the fair market value of the partnership’s property was attributable to property that was used in the Tree Farm business (the “All or Substantially All Threshold”).
+[55] In the context of the Relevant Use Period chosen by the Appellants, it is unclear when each of these asset thresholds must be met. From my reading of the relevant provisions, it appears that the definition of an “interest in a family farm partnership” was introduced into the Act for the main purpose of defining when a partnership interest is itself “qualified farm property”. For that purpose, the two different asset thresholds work properly because they operate at well-identified different times.
+[56] In the context of these appeals, it is unclear when exactly each of the asset thresholds must be met. The More Than Majority Threshold is the less problematic of the two. I am of the view that it must be met throughout the Relevant Use Period. It is in respect of that period that the Appellants’ partnership interest must qualify as an “interest in a family farm partnership”. When then must the All or Substantially All Threshold be met? At the end of the Relevant Use Period only? Throughout the Relevant Use Period? Contrary to the Respondent’s position, I do not believe that the particular time is the time immediately before the disposition of the Land by the Appellants. In any event, I note that, at the later time, although the farm equipment had been sold, there remained trees on the Land.
+[57] Because I am satisfied that the higher All or Substantially All Threshold was met throughout the Relevant Use Period, I do not have to decide this issue to dispose of these appeals. The evidence shows that, during that period, which started on January 1, 2006 and ran to December 31, 2007, the Land was not transferred to the partnership and the assets of the partnership consisted of farm equipment and the trees planted on the land used by the partnership. Consequently, the Appellants’ interest in the partnership was an “interest in a family farm partnership”, as defined in the Act, during the Relevant Use Period.
+D. What part of the Land was used by the partnership? [58] As noted earlier, because the Land was owned by the Appellants and not the partnership, the Appellants must show that it was used by the partnership throughout the Relevant Use Period. The evidence shows that a portion of the Land (the “Rented Land”) was rented to Mr. Frey directly by the Appellants. Mr. Frey used the Rented Land to grow hay that he then harvested for his own purposes. I infer from the evidence that the Appellants rented land to Mr. Frey because it was not needed at the time in the partnership’s Tree Farm operation. From the Appellants’ perspective, they used the Rented Land to earn rental income. Had the Appellants decided not to sell the Land and continued expanding the Tree Farm, conceivably at some point the Rented Land could have qualified under the exemption. This did not occur. Therefore, the area corresponding to the greatest number of acres rented to Mr. Frey during the Relevant Use Period does not qualify as “qualified farm property”.
+[59] In their written submissions, the Appellants and the Respondent suggest that the Land should be regarded as a whole. The Appellants suggest that if the majority of the Land was used by the partnership, it should all be considered to have been used for the partnership’s purposes. I disagree.
+[60] Farm owners often describe their farm by reference to their property’s boundaries. In general terms, their farm may be made up of contiguous or non‑contiguous parcels of land. Farmers and their families often reside on their land. A portion of that land may be used for their family home and serve as a front and back yard. That part of the property is not used for farming. It is for personal use. If the principal residence is sold as part of the sale of the farm, the gain attributable thereto may be exempt from tax under the principal residence exemption. A different parcel of land may be used for a non‑farm business purpose: the owner may, for example, operate a campground on that parcel. Subsection 110.6(1.3) of the Act makes allowance for all of these possibilities by referring to the use of property throughout the Relevant Use Period.
+[61] In my opinion, nothing in the provision bars consideration of a section or part of a larger piece of land, otherwise land that has been legally subdivided would be preferred to land that has not been. This would mean that farmers would be inclined to seek subdivision of land where a portion representing quantitatively and qualitatively more than 50% of the total area was used for a non-farm purpose. As noted earlier, the land owner and the farm operator do not have to be the same person. However, subsection 110.6(1.3) of the Act mandates that there be a close connection between the parties in such a case. In the instant case, the real property (or part thereof) belonging to the Appellants must have been used by the Qualified Farm Partnership Operator throughout the Relevant Use Period.
+E. What part of the Land is “qualified farm property”? [62] The parties disagree on the area of the Land that was rented to Mr. Frey during the Relevant Use Period chosen by the Appellants. On this point, I prefer the Appellants’ evidence. That evidence shows that the Appellants worked daily on the Land. They knew the boundaries of the Land better than Mr. Frey, who spent much less time producing hay thereon. Mr. Otteson offered a convincing explanation as to why his evidence differed from that of Mr. Freys. According to Mr. Otteson, Mr. Frey planted hay on land that did not belong to the Appellants. That parcel of land belonged to the County of Strathcona. According to Mr. Otteson, in rural areas, this sort of thing is a common occurrence as land owners often do not strictly enforce property rights over land that they are not using.
+[63] As noted earlier, the Appellants chose the period of January 1, 2006 to December 31, 2007 as the Relevant Use Period. Mr. Otteson’s evidence was that, during that period, the Appellants rented 24.25 and 22.9 acres to Mr. Frey, that is, in 2006 and 2007 respectively. Both Appellants testified that they used the balance of the land for the Tree Farm. That included the area on which they were growing the trees and hay, the buildings where the farming equipment was stored, and a small woodlot that acted as a natural barrier to protect the buildings from the wind. I accept the Appellants’ evidence on this point.
+[64] Subtracting the greatest number of acres rented to Mr. Frey during the Relevant Use Period from the total number of acres owned by the Appellants, I conclude that 25.91 acres of the Appellants’ Land fell within the definition of “qualified farm property”.
+V. Conclusion [65] For the reasons outlined above, I conclude that 25.91 acres out of the total area of 50.16 acres were “qualified farm property” within the meaning of the Act. The Appellants were entitled to claim the Farming Capital Gains Exemption with respect to the capital gain attributable to that acreage. The remaining 24.25 acres that were rented to and used by Mr. Frey during the Relevant Use Period were not “qualified farm property”.
+Signed at Magog, Quebec, this 13th day of August 2014.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2014 TCC 250
+COURT FILE NOS.:
+2012-438(IT)G
+2012-439(IT)G
+STYLE OF CAUSE:
+RONALD OTTESON and DONNA OTTESON v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+March 26 and 27, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+August 13, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Sanjaya R. Ranasinghe
+Counsel for the Respondent:
+Gergely Hegedus
+Donna Tomljanovic
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Sanjaya R. Ranasinghe
+Firm:
+Felesky Flynn LLP
+Edmonton, Alberta
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Joint Book of Documents at Tab 27.
+[2] Amended Reply to the Notice of Appeal (appeal of Ronald Otteson), subpara. 19s) (“Amended Reply”).
+[3] Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336 at para. 92.
+[4] Orly Automobiles Inc. v. The Queen, 2005 FCA 425, [2005] G.S.T.C. 200 at para. 20; The Queen v. Transocean Offshore Ltd., 2005 FCA 104, 2005 DTC 5201 at para. 35.
+[5] Transocean, supra note 4 at para. 35; Canada v. Anchor Pointe Energy Ltd., 2007 FCA 188, [2008] 1 F.C.R. 839 at paras. 35-36; Mignardi v. The Queen, 2013 TCC 67, 2013 G.S.T.C. 39 at para. 41.
+[6] Alberta Partnership Act, RSA 2000, c. P-3, subsection 1(g).
+[7] Ibid., section 4.
+[8] Ibid., section 6.
+[9] Ibid., section 24.
+[10] Continental Bank Leasing Corp. v. Canada, [1998] 2 S.C.R. 298, [1998] S.C.J. No. 63 (QL), at paras. 23‑24. (“Continental Bank”).
+[11] Backman v. Canada, 2001 SCC 10 at para. 26, [2001] 1 S.C.R. 367.
+[12] Sedelnick Estate v. Minister of National Revenue, [1986] 2 C.T.C. 2102, 86 DTC 1563 (TCC) (“Sedelnick Estate)”; Franklin v. The Queen, [1997] 3 C.T.C. 2914, 97 DTC 1485.
+[13] Sedelnick Estate at page 2102 C.T.C., 1563 DTC.
+[14] Ibid. at page 2104 C.T.C., 1565 DTC; see also ibid. at pages 2104-5 C.T.C., page 1565 DTC.
+[15] In their pleadings and submissions, the parties referred to subsection 110.6(1.3) of the Act as amended by S.C. 2013, c. 34. An Act to amend the Income Tax Act, the Excise Tax Act, the Federal-Provincial Fiscal Arrangements Act, the First Nations Goods and Services Tax Act and related legislation. The problem is that this amendment only applies to dispositions of property that occurred after November 5, 2010. The transaction at issue occurred in 2008, so it is regulated by the Act as in force at that time.

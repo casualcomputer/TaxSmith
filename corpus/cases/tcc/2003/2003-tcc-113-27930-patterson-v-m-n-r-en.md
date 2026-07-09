@@ -1,0 +1,158 @@
+---
+title: "Patterson v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27930/index.do"
+last_modified: "2003-03-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 113"
+citation2: ""
+neutral_citation: "2003 TCC 113"
+decision_date: "2003-03-28"
+language: "en"
+item_id: "27930"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1713
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:22:30.390000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2fe94993c6110eb7fdeeecec26ba2a5ac6712b4850e36ff9c8a1cd5ba9aa654e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Patterson v. M.N.R.
+
+- Citation: 2003 TCC 113
+- Decision date: 2003-03-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1713, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Patterson v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-28
+Neutral citation
+2003 TCC 113
+File numbers
+2001-3726(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2001-3726(EI)
+BETWEEN:
+JAMES PATTERSON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 1, 2002, at Matane, Quebec
+Before: the Honourable Deputy Judge S.J. Savoie
+Appearances
+Counsel for the Appellant:
+Me Hugo Caissy
+Counsel for the Respondent:
+Me Marie-Claude Landry
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 28th day of March 2003.
+“S.J. Savoie”
+D.J.T.C.C.
+Translation certified true
+on this 30th day of January 2004.
+Leslie Harrar, Translator
+Citation: 2003TCC113
+Date: 20030328
+Docket: 2001-3726(EI)
+BETWEEN:
+JAMES PATTERSON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Deputy Judge Savoie, T.C.C.
+[1] This appeal was heard at Matane, Quebec, on November 1, 2002.
+[2] This appeal concerns the insurability of the appellant’s employment when employed with 9074-4657 Québec Inc., (the “payer”) during the period at issue, from June 26 to November 24, 2000.
+[3] On July 10, 2001, the Minister of National Revenue (the “Minister”) informed the appellant of his decision that this employment was not insurable on the basis that he and the payer would not have entered into such a contract if they had been dealing at arm’s length during the period at issue.
+[4] In reaching his decision, the Minister relied on the following assumptions of fact set out in paragraph 5 of the Reply to the Notice of Appeal:
+[Translation]
+(a) the payer was incorporated in 1999;
+(b) the payer’s sole shareholder is Kevin James Patterson;
+(c) the appellant is the father of the payer’s sole shareholder;
+(d) during the period at issue, the payer’s activities consisted of operating a cabinet making shop and logging for the Domtar corporation;
+(e) during the years prior to the period at issue, the appellant was the sole shareholder and in charge of 9024‑6539 Québec Inc. whose activity was logging for Domtar;
+(f) 9024-6539 Québec Inc. ceased to operate in 1999;
+(g) during the period at issue, the payer took back the timber allocations formerly exploited by 9024-6539 Québec Inc;
+(h) with his son, the appellant jointly and severally guaranteed the payer’s line of credit in the amount of $10,000;
+(i) the appellant managed all aspects of the payer’s logging operations, including the employees’ pay cheques;
+(j) the appellant’s duties consisted, inter alia, in travelling from site to site to supervise the loggers working for the payer and calling log carriers to coordinate deliveries to the paper mill;
+(k) the appellant used his own pickup truck to travel to the sites;
+(l) the payer reimbursed the payer for the gas used for his travel;
+(m) during the period at issue, the payer employed approximately 14 loggers;
+(n) with the exception of the appellant, all of the payer’s employees were paid weekly by cheque;
+(o) the appellant’s remuneration was $500 a week;
+(p) the appellant received two weeks’ salary in cash at the beginning of the period at issue;
+(q) the balance of his remuneration for the entire period at issue was paid to him by cheque in the amount of $7,332.20 on December 28, 2000;
+(r) in the weeks prior to the period at issue, the appellant worked for the payer without pay, preparing for the next logging season, including hiring loggers;
+(s) the loggers began work in the forest at the end of May 2000 while the appellant began to be remunerated only on June 26, 2000;
+(t) the alleged period of work of the appellant does not correspond with the period that he actually worked.
+[5] The appellant admitted the Minister’s assumptions set out in subparagraphs (a) to (e), (g), (m) and (o). He denied those set out in subparagraphs (i), (n) and (r) to (t) and provided clarifications concerning the rest.
+[6] The evidence disclosed that the appellant’s tasks consisted of walking through the woods to identify logging sites, laying out roads and seeing that they were maintained to ensure they were drivable. He had to assign each logger to a jobsite and see to transporting the lumber to the Domtar paper mill. He supervised the workers. He worked more than 50 hours a week, from Monday to Friday, sometimes on Saturday, and occasionally in the evening, if necessary, to ensure that the lumber was hauled. On the other hand, he did not have to follow a strict schedule.
+[7] The appellant told the investigators that, when the payer’s shareholder was absent, he saw to everything. He had a power of attorney to sign the payer’s cheques and used it to sign the cheques for the payer’s expenses as well as the employees’ pay cheques.
+[8] The worker, the appellant, endorsed the $10,000 line of credit that the payer had negotiated with a lending institution and he endorsed the loan jointly and severally with his son.
+[9] According to the evidence, the appellant received weekly remuneration of $500, but he waited until after the period at issue, namely, on December 28, 2000, to write his own pay cheque in the amount of $7,332.20. According to him, he did this to give the payer a chance.
+[10] In addition, the appellant received two pays in cash at the beginning of the period at issue for helping the payer, without pay, to prepare for the season’s work.
+[11] The payer’s other employees were paid once a week by cheque.
+[12] The Minister provided reasons for his decision under the provisions of paragraphs 5(2)(i) and 5(3)(b) of the Employment Insurance Act (the “Act”) as follows:
+(2) Insurable employment does not include
+[...]
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+(3) For the purposes of paragraph (2)(i):
+[...]
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[13] It is appropriate, then, to consider the legality of the exercise of the Minister’s discretion in light of the circumstances described, such as the remuneration paid, the duration and the nature and importance of the work performed by the appellant.
+[14] The analysis of the circumstances required by paragraph 5(3)(b) of the Act supports the incontrovertible conclusion that the payer and the appellant would not have entered into a similar contract of employment if they had been dealing with each other at arm’s length.
+[15] One need only remember that the appellant provided services without pay to the payer and signed a guarantee to assist the payer financially and also endorsed the line of credit. In addition, he signed the payer’s cheques, the employees’ pay cheques and his own pay cheque. Moreover, he waited until the end of the period at issue to write his own pay cheque for the period at issue.
+[16] It must be added that the appellant was not bound by a strict work schedule. However, his remuneration was fixed regardless of the number of hours of work.
+[17] When the payer’s sole shareholder was absent during the period at issue, the appellant’s services as the person in charge and supervisor of the employees were needed for the activities of the payer’s business.
+[18] It should be noted that, with the exception of a few clarifications provided by the appellant specifically concerning his duties with the payer, the evidence fell short of establishing that the Minister’s assumptions were false.
+[19] With regard to the subparagraphs denied by the appellant, this Court did not hear any evidence or read any document that convincingly refuted or contradicted the contents of these subparagraphs. The same is true for the subparagraphs to which the appellant wanted to add clarifications.
+[20] The evidence adduced by the appellant added certain details that were used to provide minor corrections to the assumptions on which the Minister relied. However, this evidence was used only to make a few corrections, which, although relevant, did not rise to the level necessary to lessen their import.
+[21] The appellant requested that the Court intervene and reverse the Minister’s decision. However, almost all of the Minister’s assumptions continued to be persuasive despite the appellant’s evidence.
+[22] It is true that this Court, in certain circumstances, has the power to intervene in the Minister’s exercise of his discretion under paragraph 5(3)(b) of the Act, but the Federal Court of Appeal, in Canada (Attorney General) v. Jencan Ltd. (C.A.), [1998] 1 F.C. 187, marked out the limits of this power in setting out the criteria for this Court’s intervention as follows:
+The decision of this Court in Tignish, supra, requires that the Tax Court undertake a two-stage inquiry when hearing an appeal from a determination by the Minister under subparagraph 3(2)(c)(ii). At the first stage, the Tax Court must confine the analysis to a determination of the legality of the Minister's decision. If, and only if, the Tax Court finds that one of the grounds for interference are established can it then consider the merits of the Minister's decision. As will be more fully developed below, it is by restricting the threshold inquiry that the Minister is granted judicial deference by the Tax Court when his discretionary determinations under subparagraph 3(2)(c)(ii) are reviewed on appeal. Desjardins J.A., speaking for this Court in Tignish, supra, described the Tax Court's circumscribed jurisdiction at the first stage of the inquiry as follows:
+Subsection 71(1) of the Act provides that the Tax Court has authority to decide questions of fact and law. The applicant, who is the party appealing the determination of the Minister, has the burden of proving its case and is entitled to bring new evidence to contradict the facts relied on by the Minister. The respondent submits, however, that since the present determination is a discretionary one, the jurisdiction of the Tax Court is strictly circumscribed. The Minister is the only one who can satisfy himself, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions and importance of the work performed, that the applicant and its employee are to be deemed to deal with each other at arm's length. Under the authority of Minister of National Revenue v. Wrights' Canadian Ropes Ltd., contends the respondent, unless the Minister has not had regard to all the circumstances of the employment (as required by subparagraph 3(2)(c)(ii) of the Act), has considered irrelevant factors, or has acted in contravention of some principle of law, the court may not interfere. Moreover, the court is entitled to examine the facts which are shown by evidence to have been before the Minister when he reached his conclusion so as to determine if these facts are proven. But if there is sufficient material to support the Minister's conclusion, the court is not at liberty to overrule it merely because it would have come to a different conclusion. If, however, those facts are, in the opinion of the court, insufficient in law to support the conclusion arrived at by the Minister, his determination cannot stand and the court is justified in intervening.
+[23] In light of this, especially the evidence received, the appellant’s admissions and the contradictions between the evidence at the hearing and the earlier statements, this Court fails to see that intervention on its part is warranted.
+[24] The onus was on the appellant to prove his case and he could adduce new evidence to refute the facts on which the Minister relied. He did not do so; he did not discharge his onus.
+[25] Consequently, the appeal is dismissed and the Minister’s decision is confirmed.
+Signed at Grand-Barachois, New Brunswick, this 28th day of March 2003.
+“S.J. Savoie”
+D.J.T.C.C.
+Translation certified true
+on this 30th day of January 2004.
+Leslie Harrar, Translator

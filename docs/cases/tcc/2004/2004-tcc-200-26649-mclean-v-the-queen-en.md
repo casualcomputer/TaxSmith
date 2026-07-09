@@ -1,0 +1,368 @@
+---
+title: "McLean v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26649/index.do"
+last_modified: "2004-04-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 200"
+citation2: ""
+neutral_citation: "2004 TCC 200"
+decision_date: "2004-04-05"
+language: "en"
+item_id: "26649"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3591
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:37:57.160000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7f29d79089aed58f6fab615a9e0d2a4f96e033c69c46d3d8c2d0209c544e1fc1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McLean v. The Queen
+
+- Citation: 2004 TCC 200
+- Decision date: 2004-04-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3591, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McLean v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-05
+Neutral citation
+2004 TCC 200
+File numbers
+2003-2343(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2343(IT)I
+BETWEEN:
+JOHN K. McLEAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 29, 2004 at Winnipeg, Manitoba,
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Agent for the Appellant:
+Gerald Friesen
+For the Respondent:
+Jennifer Dundas (Student-at-law)
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years is allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of April 2004.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2004TCC200
+Date: 20040405
+Docket: 2003-2343(IT)I
+BETWEEN:
+JOHN K. McLEAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+FACTS
+[1] John McLean and his wife Wendy farm near Manitou, Manitoba. Mr. McLean has over 20 years experience in raising livestock. Mr. McLean ran his own hog operation and supplemented his farm income with other off-farm income including some custom baling and custom feeding of hogs in 1995 and 1999. In 1997, he was offered the position of manager at Kaleida Pork Ltd., a 6,400 hog-feeder farm about four miles from the McLean farm. For each of the taxation years in question, 1999 and 2000, Mr. McLean signed a contract with Kaleida.
+[2] As barn manager, Mr. McLean was responsible for readying hogs for market: feeding them, watering them, administering medications, weighing them, disposing of hog mortalities and shipping finished hogs to market. For each beast shipped, Mr. McLean received a bonus of $1.00. Not a lot, but enough to augment a farm income that had seen diminishing returns; not bad, considering Kaleida's average annual sales of 19,000 hogs. Throughout the period in question, he continued to work on his own farm raising sheep and cattle. His intention has always been and remains to return exclusively to his own farm operation. In the meantime, he is rebuilding his livestock holdings.
+[3] Mr. McLean provided his own truck and other tools and equipment to carry out his duties at Kaleida. His testimony was that he used the truck daily in the normal errands of the hog-barn operation, storing tools, delivering feed and medications, removing garbage and disposing of swine mortalities. He also used a tractor, snowblower, and smaller items including drills, saws, ladders and power tools. He incurred costs in fuel, lubricants, repair, insurance and licensing of the motor vehicles.
+[4] Mr. McLean worked approximately 30-35 hours per week, normally starting at 7:00 a.m. and continuing as required until his tasks were completed. If, for example, hogs were being shipped, longer hours were required of him. On other days, Mr. McLean did not go to the hog barn at all. Although the contract contemplated that Kaleida provide management training for Mr. McLean, in fact, this never occurred. Mr. McLean explained that Kaleida had sought him out for the position; he was hired for his expertise and it was recognized that he did not need such training. On cross-examination he stated that this clause is standard in the industry and meant to apply to those with less experience than he had in the hog business. Though the contract provided for supervision of Mr. McLean's work by "Puratone supervisory personnel", no one ever showed up to do this, presumably as a result of the confidence Kaleida had in Mr. McLean. Representatives from Kaleida did visit the barn from time to time, perhaps three times per year. Their infrequent visits accounted for the retroactive signing of the annual contracts between Mr. McLean and Kaleida. The evidence is clear that Mr. McLean came and went as he pleased, allocating his time as he saw fit between his work at Kaleida and his own place. His uncontradicted testimony was that Kaleida was interested in results, not in enforcing the technicalities of its contract with Mr. McLean. It was enough that they shared an interest seeing as many healthy, high-quality hogs as possible sent to market: that determined Kaleida's profitability and Mr. McLean's bonus.
+[5] In addition to the barn work, Mr. McLean was also responsible for Kaleida's bookkeeping. He had some sort of office space at Kaleida and maintained a home-farm office as well for when he was not at Kaleida. He kept records according to farm record-keeping standards. His wife, Wendy, prepared the T4's and other employee deductions, helped with the books and was generally on call if Mr. McLean "needed a hand" at the Kaleida barn from time to time. For this, she was paid in 1999 the princely sum of $775, a business expense amount disputed as unreasonable by the Minister. A few times a year, Mr. McLean was required to attend Kaleida business meetings in Winnipeg, a two-hour drive (one way) from his farm and claimed approximately $300 for meals related to these meetings. Again, the Minister rejected these claims on the ground of unreasonableness.
+[6] Mr. McLean testified on his own behalf. No witnesses were called by the Respondent.
+ANALYSIS
+1. Was Mr. McLean in a contract for services or a contract of service?
+[7]The Minister argued that Mr. McLean was working under a contract of service and referred the Court to the test set out in the Supreme Court of Canada decision 671122 Ontario Ltd. v. Sagaz Industries Canada Inc[1] and to the Federal Court of Appeal decision Wolf v. Canada[2]. In Wolf, Desjardins, J.A. quotes from Sagaz the approach to be taken by the Court in determining the status of an individual as an employee or an independent contractor:
+...The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[8] Mr. McLean took the position that he was an independent contractor working under a contract for services. In support of this, he relied on, among other things, CCRA's Form RC4110, a departmental checklist that mirrors the Sagaz test. Mr. Friesen, Mr. McLean's accountant and his agent at the hearing, followed the Form RC4110 criteria as he put his questions to Mr. McLean regarding his relationship with Kaleida. Mr. McLean's uncontradicted evidence was that at no time during the audit did the auditor refer to the Form RC4110 questions or pose questions of a similar nature.
+[9] In considering the evidence, the Court has followed the advice of Décary, J.A. in Charbonneau v. Canada[3] (cited with approval in Wolf) who cautioned that "we must not pay so much attention to the trees that we lose sight of the forest [...] The parts must give way to the whole". The Court is satisfied that, when taken as a whole, the evidence is clear that Mr. McLean was an independent contractor. Looking at the "central question" of whether Mr. McLean was performing his duties at Kaleida "in business on his own account", the Court finds that he was. Mr. McLean ran his own show. Such was his experience and expertise in hog production that Kaleida sought him out for the position, did not supervise his work, let him hire his own assistant (over their objections, in one instance) and relied on him to achieve their mutually desired result in the marketplace. Mr. McLean used his own tools and equipment in performing his work at the barn, exactly the same sorts of things he used on his own farm. It would have been virtually impossible for him to do his work at Kaleida without having (at least) a truck and a tractor at his disposal. That the contract is silent in this regard is the best evidence of the sheer obviousness of this fact. Smaller tools were stored in his truck or transported in his truck between his home farm and the hog barn. As for risk, Mr. McLean shouldered a certain degree of financial risk in that his bonus was tied directly to the success rate he achieved in delivering healthy heavy Kaleida hogs to market. By the same token, his work at Kaleida presented him an opportunity for profit.
+[10] The list in Wolf is not meant to be exhaustive nor to be rigidly applied in making a determination as to the status of the worker. Mr. McLean was a forthright and credible witness. On the evidence presented, the Court is satisfied that Mr. McLean was an independent contractor.
+2. Was the income received from Kaleida "incoming from farming"?
+[11] Mr. McLean earned $60,663 in 1999 and $70,708 in 2000 at Kaleida. He argued that his chief source of income was farm income and that his Kaleida income formed a part of his total farm income. In support of his position, he cited Anderson v. R.,[4]a case involving a taxpayer who divided his time between farming and certain custom clean-up work at the Husky Oil refinery located some 25 miles from his farm. In applying the standard tests for making this determination, the Court found that the Andersons' off-farm work did nothing to diminish the farming operation as his chief source of income.
+[12] Mr. McLean argued, and the Court agrees, that the facts of this case are even more compelling. Mr. McLean has never ceased farming. The evidence is clear that it is only because of the declining market that Mr. McLean has been forced to augment the family income by taking additional work at Kaleida. He continues to rebuild his herd with the intention of returning exclusively to operating his own farm as soon as his own farm income permits him to do so. Mr. McLean's off-farm work is essentially the same as his farm work. The Court finds that his chief source of income is farming; accordingly, Mr. McLean is entitled to deduct his Kaleida business expenses for 1999 and 2000 from his total farm income.
+[13] The Minister argued that most of the business expenses claimed ought to be disallowed as unreasonable or as "personal or living expenses". On cross-examination, Mr. McLean was taken through the details of the business expense items set out in the column entitled "Contract-Kaleida Pork"[5]. The Court is satisfied that, with the exception of the amount claimed for "Utilities & telephone", the amounts claimed are business expenses that can reasonably be deducted from his total income from farming. Mr. McLean's evidence was unclear as to what the total of $2,010 for "Utilities & telephone" included and what portion ought to be allocated to each of the home farm and to Kaleida expenses. For that reason, the $1,050 "Utilities & telephone" expense is disallowed for 1999 and 2000. As well, the total allowable expenses for each of the taxation years must be reduced by the "arbitrary" amount of $2,750 already allowed by the Minister for feed, livestock, veterinary costs, fuel, fence repairs, motor vehicle expenses and utilities. Finally, the Minister inadvertently included in the amount of farming income for 1999 and 2000 a double entry in the amount of $2,925.00. The total farm income shall therefore be reduced for each of the taxation years by this amount. At the hearing of these appeals, the Minister conceded the deduction of $19,835.60 and $22,932.44 for 1999 and 2000, respectively for the wages Mr. McLean paid to his helper at Kaleida.
+[14] The appeal is allowed in accordance with these Reasons.
+Signed at Ottawa, Canada, this 5th day of April 2004.
+"G. Sheridan"
+Sheridan, J.
+APPENDIX "A"
+Jack McLean - Income Allocation Analysis - 1999
+(as filed)
+Contract -
+Sales
+1999
+Rental
+Kaleida Pork
+Farm
+Sheep
+2,389
+2,389
+Rebates
+200
+200
+Contract services
+60,663
+60,663
+-
+Land Rental
+2,925
+2,925
+-
+Other subcontract
+2,382
+2,382
+Total Sales
+68,559
+2,925
+60,663
+4,971
+Expenses
+Feed
+496
+496
+Purchases - Sheep
+527
+527
+Repair & License - Machinery
+1,819
+1,364
+455
+Fuel & lubricants
+3,668
+2,751
+917
+Building & fence repairs
+115
+115
+Interest - real estate
+3,211
+3,211
+-
+Interest - other
+2,798
+2,798
+Legal & Accounting
+829
+415
+414
+Property taxes
+1,308
+654
+654
+Salaries & wages
+19,836
+19,836
+-
+Motor vehicle expenses
+656
+656
+-
+Small tools
+2,422
+2,422
+Health care premiums
+543
+543
+-
+Utilities & telephone
+2,010
+1,005
+1,005
+Meals (1/2)
+304
+304
+-
+Salary to Wendy
+775
+775
+-
+Capital Cost Allowance
+14,237
+6,206
+8,031
+Total Expenses
+55,554
+3,865
+33,855
+17,834
+Net Income (loss)
+13,005
+(940)
+26,808
+(12,863)
+Jack McLean - Income Allocation Analysis - 2000
+(as filed)
+Contract -
+Sales
+2000
+Rental
+Kaleida Pork
+Farm
+Swine
+2,076
+2,076
+Sheep
+826
+826
+GST in expenses
+1,530
+1,530
+Contract services
+70,708
+70,708
+-
+Land Rental
+2,925
+2,925
+-
+Other subcontract
+1,854
+1,854
+Total Sales
+79,919
+2,925
+70,708
+6,286
+Expenses
+Feed
+850
+850
+Purchases - Sheep
+2,467
+2,467
+Repair & License - Machinery
+2,433
+1,825
+608
+Fuel & lubricants
+6,809
+5,107
+1,702
+Building & fence repairs
+1,490
+1,490
+Cleaning & drainage
+1,124
+1,124
+Insurance
+514
+129
+385
+Interest - real estate
+3,061
+3,061
+-
+Interest - other
+2,337
+2,337
+Legal & Accounting
+361
+180
+181
+Property taxes
+1,241
+620
+-
+621
+Salaries & wages
+22,932
+22,932
+-
+Motor vehicle expenses
+173
+173
+-
+Small tools
+774
+774
+Health care premiums
+407
+407
+-
+Office
+8
+8
+-
+Utilities & telephone
+1,868
+934
+934
+Meals (1/2)
+300
+300
+-
+Capital Cost Allowance
+13,121
+5,745
+7,376
+Total Expenses
+62,270
+3,681
+37,740
+20,849
+Net Income (loss)
+17,649
+(756)
+32,968
+(14,563)
+CITATION:
+2004TCC200
+COURT FILE NO.:
+2003-2343(IT)I
+STYLE OF CAUSE:
+John K. McLean and Her Majesty the Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+January 29, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+April 5, 2004
+APPEARANCES:
+Agent for the Appellant:
+Gerald Friesen
+For the Respondent:
+Jennifer Dundas (Student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2001] 2 S.C.R. 983; [2001] S.C.J. No. 61.
+[2] 2002 F.C.A. 96; 2002 DTC 6853.
+[3] (1996), 41 C.C.L.I. (2d) 297 (F.C.A.)
+[4] [2002] T.C.J. No. 276.
+[5] For convenience of reference, R-1 is attached as Appendix "A".

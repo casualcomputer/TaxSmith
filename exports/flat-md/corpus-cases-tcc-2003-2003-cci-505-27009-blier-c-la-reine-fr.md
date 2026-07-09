@@ -1,0 +1,313 @@
+---
+title: "Blier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27009/index.do"
+last_modified: "2003-07-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 505"
+citation2: ""
+neutral_citation: "2003 CCI 505"
+decision_date: "2003-07-16"
+language: "fr"
+item_id: "27009"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 619
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:58:20.734000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a499d203bad79c9180587ee018b55f869e770e57846e036a0f3f13c8550484c7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Blier c. La Reine
+
+- Citation: 2003 CCI 505
+- Decision date: 2003-07-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 619, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-16
+Référence neutre
+2003 CCI 505
+Numéro de dossier
+2000-382(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-382(IT)I
+ENTRE :
+PIERRE BLIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Jean-Luc Bernier (2000-865(IT)I) les 20 et 21 février 2003 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Michel Dagenais (représentant)
+Avocate de l'intimée :
+Me Anne-Marie Boutin
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1992 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 16e jour de juillet 2003.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Dossier : 2000-865(IT)I
+ENTRE :
+JEAN-LUC BERNIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Pierre Blier (2000-382(IT)I) les 20 et 21 février 2003 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Gilles Thouin (représentant)
+Avocate de l'intimée :
+Me Anne-Marie Boutin
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1992 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 16e jour de juillet 2003.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2003CCI505
+Date : 20030716
+Dossier : 2000-382(IT)I
+ENTRE :
+PIERRE BLIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+Dossier : 2000-865(IT)I
+ENTRE :
+JEAN-LUC BERNIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Ces appels ont été entendus sur preuve commune. Ils concernent l'année d'imposition 1992. Les questions en litige sont a) de savoir si chacun des appelants, à titre de principal ou de mandataire, a émis ou vendu des parts dans un ou des abris fiscaux ou a accepté un apport en vue de l'acquisition d'une ou telles parts, avant que le ministre du Revenu national (le « Ministre » ), n'ait attribué un numéro d'inscription à ces abris fiscaux et b) le cas échéant, de savoir si les appelants ont exercé la diligence raisonnable qui leur permettrait d'échapper à l'imposition de la pénalité prévue au par agraphe 162(9) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[2] Le Ministre a répondu affirmativement à la première question et négativement à la seconde et a imposé une pénalité à chacun des appelants en vertu du paragraphe 162(9) de la Loi.
+[3] Pour l'appel de l'appelant Blier, les faits pris en compte par le Ministre pour établir sa cotisation sont décrits au paragraphe 8 de la Réponse à l'avis d'appel comme suit :
+a) au cours de l'année d'imposition 1992, l'appelant a, à titre de principal ou de mandataire, émis ou vendu des parts ou accepté un apport en vue de l'acquisition de telles parts, entre autres, dans les sociétés de personnes (ci-après : « les sociétés » ) suivantes :
+1.
+BARIENDO ENRG.
+2.
+BENDO V ENRG.
+3.
+DISPO MB ENRG.
+4.
+OSTÉTOX ENRG.
+5.
+PORCIRATE ENRG.
+6.
+SOMATOGRIS ENRG.
+b) relativement à l'acquisition de parts dans ces sociétés, une perte était annoncée comme étant déductible dans le calcul du revenu au titre de la part et qui pourrait être engagée ou subie par la personne ou attribuée à celle-ci pour l'année ou pour une année d'imposition antérieure;
+c) la personne qui acquérait une part dans ces sociétés ou une personne avec laquelle elle avait un lien de dépendance, compte tenu des déclarations ou annonces faites au sujet de ces sociétés, pouvait raisonnablement s'attendre à recevoir, directement ou indirectement ou avoir à sa disposition un montant au titre de la part;
+d) compte tenu des déclarations ou annonces faites ou envisagées relativement à ces sociétés, il était raisonnable de considérer que si une personne acquérait une part dans ces sociétés, le montant représentant la perte qui était annoncée comme étant déductible serait, à la fin d'une année d'imposition qui se terminerait dans les quatre ans suivant le jour où la part était acquise, égal ou supérieur à l'excédent éventuel du coût de la part pour la personne sur le total des montants qu'elle pouvait raisonnablement s'attendre à recevoir, directement ou indirectement, ou à avoir à sa disposition, au titre de la part;
+e) ces sociétés constituaient des abris fiscaux en vertu de la Loi de l'impôt sur le revenu;
+f) l'appelant a, à titre de principal ou de mandataire, émis ou vendu des parts dans des abris fiscaux ou accepté un apport en vue de l'acquisition de telles parts avant que le ministre du Revenu national ait attribué un numéro d'inscription à ces abris fiscaux;
+g) le total du coût des parts dans ces abris fiscaux, pour les personnes qui les ont acquises avant que le numéro d'inscription ait été attribué s'établit comme suit :
+ABRIS FISCAUX
+COÛT DES PARTS
+BARIENDO ENRG.
+48 500 $
+BENDO V ENRG.
+22 000 $
+DISPO MB ENRG.
+58 000 $
+OSTÉTOX ENRG.
+45 000 $
+PORCIRATE ENRG.
+45 000 $
+SOMATOGRIS ENRG.
+53 000 $
+h) une pénalité au montant de 8 145 $ a été imposée à l'appelant pour avoir, à titre de principal ou de mandataire, émis ou vendu des parts ou accepté un apport en vue de l'acquisition de telles parts dans des abris fiscaux avant que le ministre du Revenu national ait attribué un numéro d'inscription à ces abris fiscaux;
+i) la pénalité imposée à l'appelant est égale à 3 p. 100 du coût des parts dans les abris fiscaux mentionnés à l'alinéa f) ci-dessus;
+[4] Dans le cas de l'appelant Bernier, il s'agit du paragraphe 5 de la Réponse. Les sociétés mentionnées à l'alinéa 5a) sont MB-BCP II Enrg et SPORTILIS Enrg.
+[5] Les alinéas 5g), 5h) et 5i) se lisent comme suit :
+g) le total du coût des parts dans ces abris fiscaux, pour les personnes qui les ont acquises avant que le numéro d'inscription ait été attribué s'établit comme suit :
+ABRIS FISCAUX
+COÛT DES PARTS
+MB-BCP II ENRG.
+56 000 $
+SPORTILIS ENRG.
+101 000 $
+h) une pénalité au montant de 4 710 $ a été imposée à l'appelant pour avoir, à titre de principal ou de mandataire, émis ou vendu des parts ou accepté un apport en vue de l'acquisition de telles parts dans des abris fiscaux avant que le ministre du Revenu national ait attribué un numéro d'inscription à ces abris fiscaux;
+i) la pénalité imposée à l'appelant est égale à 3 p. 100 du coût des parts dans les abris fiscaux mentionnés à l'alinéa g) ci-dessus;
+[6] Les alinéas g) des Réponses ont été admis sauf pour la mention « abris fiscaux » . Il est aussi admis qu'il n'y a pas eu de numéro d'abri fiscal attribué à l'égard d'aucune des sociétés mentionnées dans les réponses car selon les appelants cela n'était pas requis.
+[7] Le premier témoin des appelants a été monsieur Gilles Thouin, planificateur financier. Il agissait aussi comme représentant de l'appelant Bernier. Il a relaté qu'il a commencé à s'intéresser aux projets de recherche et de développement ( « R & D » ) en 1981. Il était alors dans l'enseignement. En 1984, il a quitté l'enseignement pour commencer l'entreprise Services informatiques Gilles Thouin Inc. ( « SIGTI » ). Il a passé les divers examens requis et a travaillé pour des entreprises en planification financière. En 1986, il ouvre un bureau à St-Jean avec sept collègues sous le nom de Sug-Gestion Inc. En 1989, Sug-Gestion se joint au groupe Régal. En avril 1989, monsieur Thouin reçoit un diplôme de planificateur financier agréé de l'Institut canadien de planification financière. En mars 1992, il obtient le titre de planificateur financier de l'IQPF.
+[8] En avril 1992, messieurs Camil Bureau et Sylvain Paré, que monsieur Thouin connaissait depuis 1986, l'invitent à une rencontre avec monsieur Lucien Roy, promoteur et Robert Roy, chercheur. La rencontre a lieu à Ville Saint-Laurent où sont situés les laboratoires de recherche.
+[9] Messieurs Bureau et Paré lui ont décrit le projet Colimax. Monsieur Thouin affirme qu'il y avait une opinion fiscale d'une firme de comptables agréés, Demers Beaulne & Associés, confirmant que le projet n'avait pas besoin d'un numéro d'abri fiscal. Il a produit à cet égard la pièce A-1, un document en date du 12 mars 1992. Ce document d'analyse d'un projet avait été produit à la demande de messieurs Lucien et Robert Roy.
+[10] En contre-interrogatoire, l'avocate de l'intimée lui a demandé si le projet qui avait été mis de l'avant était le même projet que celui qui était l'objet de l'analyse des comptables. Elle se réfère aux différentes hypothèses du projet et notamment, à l'hypothèse 7 du projet qui se lit comme suit :
+7. il n'existe aucun droit de recevoir un montant sous forme de remboursement, compensation, garantie de recettes, produit de disposition ou autre pour l'associé qui participe au projet;
+[11] Le témoin reconnaît que ce n'est pas le projet définitif. Toutefois, il répète que dans le plan mis de l'avant, le crédit d'impôt était demandé par les entreprises qui effectuaient la recherche. Si ce crédit d'impôt avait été demandé par les investisseurs, il aurait tout simplement décliné l'offre de faire la promotion de ce produit parce que, antérieurement, tous les projets qui avaient été montés de façon semblable ont été cotisés à nouveau par les autorités fiscales.
+[12] L'appelant Bernier a témoigné. Il est planificateur financier ou conseiller en placement. Il a une formation en comptabilité. Il travaille depuis 1985 dans le domaine de la vente de produits financiers comme les assurances, les fonds d'investissement, les dépôts à terme et l'assurance-salaire.
+[13] Il travaillait à l'époque en cause avec monsieur Thouin, le responsable du bureau. Il s'est fié à ce dernier qui avait donné son accord, en octobre 1992, pour offrir aux clients ces produits et sur la foi qu'une opinion d'un fiscaliste appuyait le projet.
+[14] Selon le témoin, c'est SIGTI, une société qui n'appartenait qu'à monsieur Thouin qui avait passé l'entente avec les promoteurs du plan. Lui, il était dans Sug-Gestion, un cabinet multidisciplinaire de planification financière qui fournissait des services de conseiller financier. Monsieur Thouin en était le directeur. Selon l'appelant, son rôle dans la distribution des projets de R & D a été de solliciter des clients pour leur proposer un projet d'entreprise. Il remettait ses documents à Sug-Gestion Inc.
+[15] Dans Sug-Gestion, chacun était à son propre compte sauf que monsieur Thouin avait autorité en ce qui concerne les produits distribués. Il avait un droit de veto.
+[16] Il relate que selon monsieur Thouin, le projet ne demandait ni l'approbation de la Commission des valeurs mobilières du Québec (la « CVMQ » ), ni un numéro d'abri fiscal. Pas plus de cinq personnes formaient chacune des sociétés en nom collectif. Cette société demandait des déductions pour pertes d'entreprise et non un crédit d'impôt. C'était la société de recherche qui demandait le crédit d'impôt.
+[17] Le 28 mai 1996 il y a eu la cotisation. L'avis d'opposition est en date du 28 juin 1996. La cotisation a été ratifiée le 18 octobre 1999. Revenu Canada attendait la position de Revenu Québec. Au niveau provincial, il y a eu des ententes hors cours.
+[18] En contre-interrogatoire, il a été admis que l'avocat des appelants avait demandé aux autorités fiscales fédérales de mettre les dossiers en suspens, en attente de la décision de Revenu Québec.
+[19] En ce qui concerne son dossier avec Revenu Québec, il a plaidé à une accusation d'avoir produit une fausse déclaration. Mais, il l'a fait pour régler l'affaire. Le règlement a consisté à payer 100 $ par client, soit dans son cas un total de 1 000 $.
+[20] En contre-interrogatoire, il a dit qu'il avait obtenu son Baccalauréat en comptabilité en 1985. Il a été inscrit à plusieurs reprises depuis 1986 à titre de représentant auprès de la CVMQ (pièce I-15). Pour être inscrit à titre de représentant auprès de la CVMQ, il faut passer un examen. Il y avait un manuel de la Commission.
+[21] L'avocate de l'intimée lui présente la pièce A-1 qui est l'opinion fiscale fondée sur un plan autre que celui qui a été suivi. L'appelant Bernier répond qu'il ne peut pas se prononcer à savoir si c'est ce document là qu'il a vu ou un autre. « J'ai vu des documents à l'époque et je me suis fait confirmer qu'il ne s'agissait pas d'un abri fiscal. »
+[22] L'avocate dépose comme pièce I-16 la Circulaire d'information ayant pour objet « Déclaration de renseignements sur les abris fiscaux » . Cette circulaire est en date du 14 août 1989.
+[23] Le prochain témoin des appelants fut monsieur Michel Dagenais, consultant en entreprise. Il agissait aussi comme représentant de l'appelant Blier. Il a déposé comme pièce A-4, un jugement de la Cour supérieure du Québec concernant une demande de recours collectif par les investisseurs contre les entreprises qui avaient mis en place ce plan d'investissement et contre le Procureur général du Canada et le Procureur général du Québec. Il attire l'attention de la Cour sur un passage de ce jugement à la page 16 :
+... En la présente instance, aucun numéro d'enregistrement n'était requis par l'une ou l'autre des lois fiscales avant de solliciter les investisseurs pour ce type de projet de recherche et de développement.
+[24] Il considère la question tranchée par cette affirmation. Il dit également qu'il s'est demandé pourquoi il y avait cette affirmation dans le jugement. Il a demandé des copies des bandes d'enregistrements des plaidoiries. Il affirme que les représentations ont été faites dans ce sens par les avocats du Procureur général du Canada. Il a produit comme pièce A-5 la partie des notes sténographiques concernant ces représentations. Il n'est pas clair par qui ces notes sténographiques ont été dactylographiées mais comme il semble accepté de part et d'autre qu'elles reproduisent ce qui a été dit lors de cette audition j'en cite un extrait :
+...
+Ceci étant dit, votre Seigneurie, je vous ai dit que nous étions étrangers à ce qui c'était passé avant le jour où ils ont décidé de réclamer une déduction fiscale. D'abord, j'ai de la difficulté à comprendre on nous a parlé dans la requête d'abris fiscaux, c'est peut-être ce qu'on a représenté aux requérants mais sur le plan fiscal, ce n'est pas comme ça que cela s'est présenté. La notion d'abris fiscaux est une notion qu'on retrouve dans la Loi de l'impôt depuis 1988. La notion aussi d'associés, commanditaires ou d'associés déterminés on retrouve ça aussi dans la Loi de l'impôt. C'est à l'article, de mémoire, je pense, c'est 237, votre Seigneurie, c'est vrai aussi que la Loi de l'impôt prévoit l'attribution d'un numéro pour ceux qui font affaire dans le domaine de la recherche et du développement, c'est même une obligation dans l'article 237 qui est à la page 202 854, vous allez voir le paragraphe 237.1(2) on dit tout promoteur doit tant qu'à un abri fiscal, demander au Ministre sur le formulaire prescrit contenant les renseignements prescrits d'attribuer un numéro d'inscription à cet abri fiscal. Le paragraphe 237.1(3) on dit : renseignement à fournir sur demande faite en application du paragraphe 2 à laquelle doit être un engagement que le Ministre juge acceptable selon lequel les livres et registres concernant un abri fiscal seront gardés et tenus un lieu au Canada que le Ministre juge acceptable celui-ci doit attribuer, il n'y a pas de discrétion là, c'est doit attribuer à celui qui les représente les documents.
+[25] Monsieur Blier avait décidé de ne pas témoigner. Sa seule prétention était que Revenu Canada aurait dû suivre la décision de Revenu Québec. Comme l'avocate de l'intimée avait des documents à produire à son égard, il a tout de même témoigné à la demande de l'intimée. Il a regardé la pièce I-15 qui mentionne ces propres inscriptions à titre de représentant et il a admis qu'en fait, depuis 1987, il a été inscrit auprès de la CVMQ comme représentant pour certaines sociétés.
+[26] Quand il a vendu les parts dans la société, il savait qu'il y avait une opinion fiscale. Il n'est pas certain de l'avoir lue.
+[27] Le prochain témoin des appelants a été monsieur Benoît Poirier, planificateur financier. Monsieur Dagenais lui montre une lettre de monsieur Gilles Mercille, c.a., agent des appels, en date du 20 juillet 1999 et adressée à l'appelant Blier. Cette lettre a été déposée comme pièce A-8. Le témoin dit en avoir reçu une semblable. Cette lettre dit ceci :
+...
+Suite à la lettre de Me Jules Brossard datée du 21 octobre 1996, et, à sa demande, nous avons reporté l'analyse de votre dossier dans l'attente d'un règlement avec le ministère du Revenu du Québec.
+Comme le ministère du Revenu du Québec a rendu sa décision à l'effet qu'une pénalité vous a été imposée en conformité avec les dispositions de l'article 1049.0.2 de la Loi sur les impôts, nous nous proposons de maintenir la même décision à moins que vous n'ayez d'autres faits supplémentaires à nous soumettre d'ici une période de 15 jours.
+...
+[28] À la réception de sa lettre, le témoin relate qu'il a téléphoné à monsieur Mercille pour l'informer qu'il avait fait opposition auprès de Revenu Québec. Ce dernier lui aurait répondu que dans ces circonstances, il attendrait la décision de Revenu Québec. Au Québec, les appels des courtiers poursuivis se sont réglés en 2001.
+[29] Monsieur Richard Cloutier, conseiller financier, a témoigné à la demande des appelants. Il a exprimé un point de vue similaire à celui du témoin précédent.
+[30] Madame Hélène Couture, chef d'équipe à la direction des enquêtes en fraude fiscale de Revenu Québec, a témoigné à la demande de l'intimée. Elle a commencé à travailler dans le dossier en 1997. Il y avait eu enquête dans ce dossier à partir de 1992. Il y a eu une série de perquisitions en 1993 qui concernaient principalement les promoteurs des projets dont le groupe Roy. Elle a dû finaliser l'enquête qui était en cours. Elle a analysé les documents saisis et les transactions bancaires et a rencontré les personnes concernées.
+[31] Elle a expliqué qu'un groupe de personnes avait mis sur pied un montage financier permettant à des contribuables de réclamer des pertes fiscales non fondées concernant les projets de recherche et développement du groupe Roy.
+[32] Elle a produit comme pièce I-1 le tableau du fonctionnement de ce montage.
+Il y a 1 214 contribuables qui ont investi dans ces projets. Ces individus par groupe maximum de cinq, étaient répartis entre 265 différentes sociétés en nom collectif. Il y avait sept sociétés de gestion de recherche : RIO, RMB, LACTO, PBR, EDS, BOVI et U.P.M. Il y avait les sociétés de laboratoires au nombre de cinq : Alphacell, KAMI MARK, BIO LEARNING, ILAC et DIATECH. Ensuite il y avait les cinq sociétés qui avaient comme fonction le rachat des actions : MYRIADE, NATRAS, la société 2961-7909, MIT MYRIADE et MAKOTO. Ces personnes ci-dessus étaient plutôt impliquées dans l'investissement. Il y avait aussi dans ce plan d'autres personnes qui ont monté ou vendu le plan soit Placements Etteloc, la société 2952-2166 Québec Inc. et les vendeurs.
+[33] Placements Etteloc était une société dirigée par messieurs Roy. La société 2952 était dirigée par messieurs Sylvain Paré et Camil Bureau. Les laboratoires étaient contrôlés par Robert ou Lucien Roy, les promoteurs du projet.
+[34] La deuxième page du tableau décrit les bureaux des vendeurs. L'appelant Bernier est nommé dans le bureau SIGTI.
+[35] Madame Couture a produit comme pièce I-4 un tableau intitulé « Quote-Part des impliqués par plan d'investissement » . Ce plan montre la répartition des fonds obtenus des investisseurs. L'investissement était payé à 32 p. 100. De ce montant, 0,5 p. 100 allait aux sociétés de gestion, 7 p. 100 aux laboratoires, 0,5 p. 100 aux sociétés de rachat d'actions, 15 p. 100 aux vendeurs, et 9 p. 100 à Etteloc et la société 2952.
+[36] Elle a produit comme pièce I-2, le dossier de la société MB-BCP II Enrg. concernant cinq sociétaires. Les parts dans cette société avaient été vendues par l'appelant Bernier. Une des sociétaires était madame Annette Letendre qui a signé ses documents en novembre 1992. Elle se porte acquéreur de 10 000 parts dans la société au prix de 1 $ la part. Le mandat de participation par lequel elle s'engage, a une clause qui prévoit que « La Société contractera avec une ou des entreprises spécialisées, aptes à effectuer pour son compte, l'exécution du projet tel que défini par l'ensemble des sociétaires. » Le montant de 10 000 $ est payable à l'ordre de E.D.S. Détection Ltée, mandataire de MB-BCP II Enrg.
+[37] Il y a un contrat entre la société MB-BCP II Enrg. et E.D.S. ayant pour objet un mandat de recherche sur le sujet y décrit. Le budget est de 56 000 $. La durée du contrat est du 5 octobre 1992 au 31 décembre 1992. Madame Letendre a signé ce document le 3 novembre 1992.
+[38] Dans la même pièce I-2, se trouve une convention de société entre les différents sociétaires. On y lit notamment après la description du mode de fonctionnement de la société que « pour l'année en cours la corporation Etteloc sera mandatée pour la gestion de la société. »
+[39] Il y a un document interne du bureau des planificateurs financiers concernant chaque investisseur. Celui concernant madame Letendre est en date du 5 novembre 1992. On y lit que le montant du dépôt est de 3 200 $ pour un investissement de 10 000 $ et que madame Letendre a choisi le plan 2. On y lit aussi que sur ce montant de 3 200 $, 1 300 $ va à SIGTI, soit 13 p. 100 et 2 p. 100 à Consultations Invespro C.D. Inc.
+[40] Il y a une autre entente soit un accusé réception de E.D.S. Détection Ltée à la sociétaire Letendre. Les clauses sont les suivantes :
+...
+E.D.S. DÉTECTION LTÉE confirme la réception d'un chèque au montant de $ 3200.00 ainsi qu'un paiement garanti par le recevable émis par MYRIAD INTERNATIONAL TECHNOLOGY au montant de $ 6800.00 .
+Le montant total de la transaction et accepté par la présente est de $ 10 000.00 .
+Le sociétaire Mme ANNETTE LETENDRE reconnaît qu'il cède tous ces droits et privilèges sur le compte recevable de MYRIAD INTERNATIONAL TECHNOLOGY.
+E.D.S. DÉTECTION LTÉE reconnaît qu'il accepte ce recevable comme paiement pour le contrat de recherche. E.D.S. DÉTECTION LTÉE reconnaît qu'il ne pourra exercer aucun autre droit ou privilège, vis-à-vis le sociétaire, sur cette portion de paiement.
+...
+[41] Il y a une demande d'achats par madame Letendre de 10 actions de la société Envior au prix unitaire de 4,68 $ pour un total de 46,80 $. Il y a un accord d'achat de ces actions par Myriad International Technology pour le prix de 6 800 $.
+[42] Elle produit comme pièce I-3 le dossier de monsieur Normand Bourcier. Cet investisseur avait choisi le plan 1. Son investissement était au montant de 14 000 $. Les parts achetées sont de la société Bendo V Enrg. dont l'appelant Blier vendait les parts. Selon le document interne du bureau du planificateur financier, le montant qui revenait au vendeur était de 14 p. 100, soit 1 960 $, et 1 p. 100 à Consultation Investpro C.D. Inc., soit 140 $.
+[43] Le chèque de l'investisseur est au montant de 14 000 $. Le chèque est en date du 15 octobre 1992 bien que le document interne soit en date du 3 novembre 1992. À la société Envior, il a fait un chèque de 65,62 $. L'accord d'achat est au montant de 9 520 $. Le 10 novembre 1992, un chèque certifié de M.I.T. Myriade est émis au montant de 9 520 $ au nom de monsieur Bourcier.
+[44] La pièce I-5 sont des documents relatifs à monsieur Pierre-Yves Boucher. L'investissement de 5 000 $ était selon le plan 1 dans la société Somatogris Enrg. Un chèque au montant de 3 400 $ lui a été remis par la société de rachat d'actions Makoto Technologie.
+[45] La pièce I-6 contient les documents relatifs à monsieur Jean Pilon. L'investissement est de 10 000 $ selon le plan 1. Un chèque de 6 800 $ lui a été remis par la société de rachat d'actions Makoto Technologie.
+[46] La pièce I-7 contient les documents relatifs à monsieur Guy Corriveau qui a fait un investissement selon le plan 2. Il a fait un chèque de 7 040 $ pour un investissement de 22 000 $.
+[47] La pièce I-8 est le Tableau des pertes fiscales. Ce tableau montre que chacun des investisseurs a réclamé une perte d'entreprise dans sa déclaration de revenu égale au montant de l'investissement et non du montant réellement payé.
+[48] Les pièces I-9 à I-11 sont constituées de documents saisis lors de la perquisition chez Etteloc en 1993. Ce sont les descriptions des projets de recherche, le fonctionnement des sociétés et les plans de financement.
+[49] La pièce I-10 est constituée du plan mentionné au paragraphe 10 de ces motifs. La pièce I-11 est le plan Colimax qui a été poursuivi. Une opinion fiscale y est intégrée. Les hypothèses 7 et 8 se lisent comme suit :
+7. les associés investiront également dans une corporation canadienne imposable (Cie XYZ ou la compagnie) sous forme de capital-actions et deviendront, par le fait même, actionnaires de cette compagnie;
+8. « A » , « B » , « C » achètent pour un montant équivalant à 66% du montant qu'ils ont reçu de Biosolémax inc. pour l'exécution du projet de R & D, les actions émises de Cie XYZ détenues par les actionnaires de Cie XYZ et associés dans la société;
+[50] Comme l'opinion fiscale a été amplement mentionnée comme moyen de défense, je cite la partie concernant le numéro d'abri fiscal :
+Selon le paragraphe 237.1(2) de la L.I.R. et le paragraphe 1079.2 de la L.I.Q., tout promoteur d'un abri fiscal doit demander aux autorités fiscales un numéro d'inscription à cet abri fiscal. Nul ne peut émettre ou vendre une part dans un abri fiscal avant que les autorités fiscales n'aient attribué à cet abri fiscal un numéro d'inscription. Le numéro d'abri fiscal doit être communiqué à toutes les personnes qui acquièrent des parts dans cet abri fiscal. Sans l'indication de ce numéro d'abri fiscal, un contribuable ne peut demander ou déduire de montant au titre d'une part dans un abri fiscal.
+Selon le paragraphe 237.1(1) L.I.R et le paragraphe 1079.1 L.I.Q., un abri fiscal désigne tout bien pour lequel il est entendu, à la lumière de déclarations ou d'annonces faites ou envisagées en rapport ave ce bien, que le total des pertes ou d'autres montants, calculé pour toute année visée, qu'un acheteur pourra déduire au cours des années d'imposition se terminant dans les quatre ans suivant l'acquisition du bien, sera supérieur au coût de la part dans le bien, pour l'acheteur, après déduction des avantages visés par règlement. Ces avantages visés par règlements (Règlement 231(6) L.I.R.) peuvent comprendre les crédits d'impôt, les garanties de recettes, les éléments du passif éventuel, les dettes à recours limité et les droits d'échange ou de conversion.
+Selon la circulaire d'information IC 89-4, datée du 14 août 1989, au paragraphe 3, la définition d'un abri fiscal dépend entièrement des conclusions qu'on peut raisonnablement tirer des annonces faites à l'égard du bien. Il pourra s'agir d'annonces écrites (comme des brochures et des annonces publicitaires) ou d'annonces verbales (comme des renseignements transmis en public ou en privé, ou au cours de réunions de promotion de vente).
+Ainsi, si on applique les règles au projet Colimax, si le coût de la part dans la société n'a pas à être réduit d'un avantage visé, la perte fiscale résultant de la déduction des dépenses de R & D dans la société n'excèdent pas le coût de l'investissement dans la société. Dans ce cas, le projet Colimax ne constituerait pas un abri fiscal et aucune demande de numéro d'abri fiscal n'aurait à être obtenue. Par contre, si les autorités fiscales considèrent que l'achat des actions de la Cie XYZ constitue un avantage visé réduisant le coût de l'investissement et qu'à ce moment, la proportion de la dépense de R & D dans la société pour un sociétaire soit supérieure au coût de l'investissement diminué du produit de disposition des actions, le projet Colimax sera considéré comme un abri fiscal et un numéro d'abri fiscal doit être obtenu.
+...
+[51] Madame Annette Letendre a témoigné à la demande de l'intimée. Elle est technicienne en laboratoire. Elle connaît l'appelant Bernier. Il l'avait déjà conseillée dans un placement concernant les études de son fils. Monsieur Bernier l'a appelée pour lui recommander un autre placement, celui-là pour sauver de l'impôt. Elle reconnaît avoir signé tous les documents du dossier de la pièce I-2. Elle croit se souvenir qu'il y avait d'autres personnes avec elle dans la société. La déclaration de revenu de l'appelante pour l'année 1992 a été déposée comme pièce I-12. Il y a une demande de déduction comme perte d'entreprise au montant de 10 000 $ à la ligne 135. Cette déduction a été refusée par les autorités fiscales fédérales.
+[52] Monsieur Normand Bourcier a témoigné à la demande de l'avocate de l'intimée qui lui présente une déclaration statutaire signée en date du 20 août 1993, pièce I-13. Il mentionne dans cette déclaration qu'il a rencontré à deux reprises l'appelant Blier à l'égard d'un projet de recherche et développement où il y avait possibilité d'un abri fiscal. Il a fait un chèque de 14 000 $. Le rendement que monsieur Blier lui avait mentionné était qu'il pouvait compter sur un rendement d'environ 1 500 $ c'est-à-dire que grâce aux déductions fiscales, il rentrerait dans son argent plus un profit de 1 500 $. Il ne connaissait pas les co-sociétaires. Il dit qu'il était intéressé par la recherche et le développement et par l'économie d'impôt.
+[53] Le prochain témoin de l'intimée est monsieur Guy Corriveau. L'appelant Bernier l'a approché pour acquérir des parts dans une société de recherche et développement. Il avait déjà fait le même genre d'investissement en 1990 et 1991. C'est monsieur Bernier qui lui avait vendu les parts. Ce qui l'intéressait, c'était la recherche et le développement et aussi le remboursement d'impôt. Dans sa déclaration de revenu pour l'année 1992, il a réclamé 22 000 $ comme perte d'entreprise à la ligne 135 alors qu'il avait véritablement payé 7 040 $.
+[54] Le prochain témoin de l'intimée est monsieur Jean Pilon. Il a commencé ce genre d'investissement en 1989 par l'entremise de l'appelant Blier. Ce qui l'intéressait était le R & D et l'économie d'impôt. Il a reconnu n'avoir payé que 3 200 $ et avoir réclamé comme perte d'entreprise la somme de 10 000 $.
+Plaidoiries
+[55] Monsieur Thouin, qui représentait monsieur Bernier, s'est référé à la Circulaire d'information (pièce I-16). Cette circulaire inclut dans le sens de « promoteur » les vendeurs. Selon lui, un promoteur est celui qui fait le montage financier, les vendeurs, c'est autre chose. Il fait valoir que monsieur Bernier s'est fié au fiscaliste qui lui a dit qu'il ne s'agissait pas d'un abri fiscal et à son propre avis en tant que directeur du bureau. Monsieur Bernier n'a jamais cru qu'il vendait un abri fiscal. Il a donc exercé la diligence raisonnable dans les circonstances. Il fait aussi valoir que tout au long des oppositions, Revenu Canada a laissé croire qu'il suivrait la démarche de Revenu Québec, qui lui a laissé tomber l'application de la pénalité.
+[56] Monsieur Bernier s'est aussi exprimé. Il a fait valoir qu'il pensait sincèrement qu'en réglant au niveau provincial, cela réglerait aussi la poursuite fédérale. C'est ce qu'on leur avait laissé croire. Il fait aussi valoir qu'il a vécu dix ans avec ce dossier. Il avait un beau-frère qui a investi dans ces projets. Il ne lui aurait pas recommandé ce genre d'investissement s'il avait su qu'il s'agissait d'un abri fiscal. Il ne savait pas que le plan proposé requérait un numéro d'abri fiscal. Il se fiait à l'opinion fiscale de gens plus connaissants que lui en matière fiscale et à l'avis du directeur de son bureau, monsieur Thouin. L'appelant Bernier fait valoir que quand il a fait des recommandations à ses clients, il les a fait de bonne foi avec les informations qu'il avait à l'époque.
+[57] Monsieur Dagenais a repris le jugement de la Cour supérieure mentionné aux paragraphes 23 et 24 de ces motifs et a fait valoir que la question avait été tranchée. Le plan proposé ne requérait pas un numéro d'abri fiscal.
+[58] À l'égard de cet argument, je dirai immédiatement qu'il ne tient pas. Il s'agit de deux compétences distinctes. Le juge dans cette affaire n'avait pas et ne pouvait pas trancher la question qui nous occupe. De plus, il s'agit d'un paragraphe dans un jugement et non pas de sa décision.
+[59] L'avocate de l'intimée a fait valoir que les appelants ont admis avoir vendu les parts des sociétés décrites aux Réponses. Il a aussi été admis qu'aucun numéro d'abri fiscal n'avait été attribué à l'ensemble de ces sociétés par le Ministre. Elle se réfère à l'article 237.1(4) de la Loi. Cet article prévoit que nul ne peut, à titre de principal ou de mandataire, vendre une part dans un abri fiscal avant que le Ministre n'ait attribué à cet abri fiscal un numéro d'inscription. Par la suite, elle se réfère à la définition d' « abri fiscal » , au paragraphe 237.1(1) de la Loi et fait valoir que la perte qui était annoncée comme étant déductible dans le calcul du revenu au titre de cette part et qui pourrait être subie par la personne ou attribué à celle-ci pour l'année donnée ou pour une année d'imposition antérieure était supérieure au coût réel de l'investissement.
+[60] En ce qui concerne la pénalité en vertu du paragraphe 162(9) de la Loi, il s'agit de savoir si les appelants ont exercé une diligence raisonnable? Il ne s'agit pas de contribuables ordinaires. Ce ne sont pas des investisseurs dont on traite, ce sont des gens qui avaient une responsabilité importante envers le public. Les appelants étaient des gens qualifiés, des gens qui possédaient l'expertise nécessaire. Elle s'est référée aux articles 204 et 205 de la Loi sur la Commission des valeurs mobilières qui prévoit que le candidat qui demande l'inscription comme représentant d'un courtier ou d'un conseiller doit avoir atteint l'âge de 18 ans et résider au Québec. Il doit avoir suivi avec succès des cours qui lui donnent, de l'avis de la Commission, une préparation professionnelle suffisante.
+[61] L'opinion fiscale favorable avait été rendue sur le document du 12 mars 1992 qui a été déposé comme pièce I-10 et plus particulièrement, le paragraphe 7. Dans ce plan, il n'existe aucun droit de recevoir un montant sous forme de remboursement, compensation, garantie de recette, produit de disposition ou autre pour l'associé qui participe au projet. Nul part on indique que l'acheteur des parts ne va en réalité payer que 32 p. 100. Toutefois, quant au plan Colimax qui a été poursuivi daté du 2 mars 1992, (pièce I-11), il est clairement exprimé à l'opinion fiscale qui y est jointe que ce projet serait considéré comme un abri fiscal et qu'un numéro d'abri fiscal devrait être obtenu.
+[62] Où est ce document qui n'a pas été déposé à la Cour et qui disait que le plan qui a été mis de l'avant ne constituait pas un abri fiscal? L'avocate de l'intimée rappelle que ni l'un ni l'autre des appelants ne pouvaient affirmer quel document ils avaient vu à l'époque.
+[63] L'avocate explique la mise en suspens des dossiers par Revenu Canada par les demandes à cet effet des avocats des appelants et par la suite, à la demande des appelants eux-mêmes.
+Conclusion
+[64] Le paragraphe 162(9) de la Loi se lit comme suit :
+162(9) Renseignements omis sur les abris fiscaux - Toute personne qui fournit des renseignements faux ou trompeurs au ministre en demandant, conformément au paragraphe 237.1(2), un numéro d'inscription d'abri fiscal ou qui, à titre de principal ou de mandataire, émet ou vend une part dans un abri fiscal, ou accepte un apport en vue de l'acquisition d'une telle part, avant que le ministre ait attribué un numéro d'inscription à cet abri fiscal, est passible d'une pénalité égale, sans être inférieure à 500 $, à 3 % du coût des parts dans cet abri fiscal, pour les personnes qui les ont acquises avant que les renseignements corrigés aient été fournis au ministre ou avant que le numéro d'inscription ait été attribué à l'abri fiscal, selon le cas.
+[65] Au paragraphe 237.1(1) de la Loi, les expressions « abri fiscal » et « promoteur » sont ainsi définies :
+« abri fiscal » Bien pour lequel il est raisonnable de considérer, à la lumière de déclarations ou annonces faites ou envisagées en rapport avec ce bien, que, si une personne acquérait une part dans ce bien, le montant visé à l'alinéa a) excéderait le montant visé à l'alinéa b) à la fin d'une année d'imposition donnée se terminant dans les quatre ans après cette acquisition :
+a) le total des montants dont chacun représenterait :
+(i) une perte qui est annoncée comme étant déductible dans le calcul du revenu, au titre de cette part, et qui pourrait être subie par la personne ou attribuée à celle-ci pour l'année donnée ou pour une année d'imposition antérieure, ou
+(ii) un montant qui est annoncé comme étant déductible dans le calcul du revenu ou du revenu imposable, au titre de cette part, et qui pourrait être engagé par la personne ou attribué à celle-ci pour l'année donnée ou pour une année d'imposition antérieure, à l'exclusion d'un montant inclus dans le calcul d'une perte visée au sous-alinéa (i);
+b) l'excédent éventuel du coût de cette part pour la personne à la fin de l'année donnée sur la valeur totale des avantages visés par règlement que la personne ou toute personne avec laquelle elle a un lien de dépendance pourrait recevoir, directement ou indirectement, au titre de cette part.
+Les actions accréditives et les biens visés par règlement ne sont toutefois pas considérés comme des abris fiscaux.
+« promoteur » Personne qui, quant à un abri fiscal et dans un cadre d'affaires :
+a) soit émet ou vend des parts dans cet abri fiscal ou fait la promotion de leur émission, de leur vente ou de leur acquisition;
+b) soit agit, à titre de mandataire ou de conseiller, en ce qui concerne l'émission ou la vente de parts dans cet abri fiscal ou la promotion de leur émission, de leur vente ou de leur acquisition.
+Au même abri fiscal peuvent correspondre plus d'un promoteur d'abris fiscaux.
+[66] Le paragraphe 237.1(4) se lit ainsi :
+237(4) Numéro obligatoire pour vendre des parts dans un abri fiscal - Nul ne peut, que ce soit à titre de principal ou de mandataire, émettre ou vendre une part dans un abri fiscal, ou accepter un apport en vue de l'acquisition d'une telle part, avant que le ministre n'ait attribué à cet abri fiscal un numéro d'inscription.
+[67] La preuve n'a pas consisté à faire valoir que le plan proposé n'était pas un abri fiscal. Il paraît bien évident qu'en ne payant que 32 p. 100 du montant investi et en déduisant comme perte d'entreprise le plein montant prétendument investi que le plan proposé est un abri fiscal au sens de la définition d'un abri fiscal.
+[68] Les témoins de l'intimée qui avaient participé au plan proposé par les appelants ont tous affirmé que ce qui les avait intéressés dans cet investissement était l'économie d'impôt proposée bien qu'ils aient aussi mentionné qu'ils n'étaient pas indifférents à la promotion de la recherche et du développement.
+[69] Les appelants ont-ils exercé une diligence raisonnable qui les disculperaient de l'application de la pénalité prévue au paragraphe 162(9) de la Loi?
+[70] La circulaire d'information en date du 14 août 1989 est bien claire. Elle explique qui est un promoteur, ce qu'est un abri fiscal, la demande du numéro d'inscription d'abri fiscal et les pénalités pour toute personne qui comme principal ou mandataire vend ou émet une part dans un abri fiscal avant que le Ministre ait attribué un numéro d'inscription.
+[71] Les appelants ont fait état d'une opinion fiscale. Ils n'ont pas produit une opinion fiscale qui mentionnait clairement à l'égard du plan réellement poursuivi que ce plan ne constituait pas un abri fiscal. De plus, la présentation même des représentants aux investisseurs faisait état de l'aspect économie d'impôt. Il était donc négligent de promouvoir ce plan sans avoir préalablement obtenu un numéro d'abri fiscal.
+[72] Ainsi que le dit l'avocate de l'intimée, les appelants étaient des gens qui s'étaient qualifiés comme représentants de courtiers en valeurs mobilières. Ils avaient les connaissances requises et se présentaient comme des professionnels en la matière.
+[73] Un planificateur financier a un rôle important dans la société économique. Il ne peut se cacher derrière l'autorisation donnée par le directeur du bureau. Il se doit de s'assurer personnellement de la légalité des investissements qu'il propose et d'agir avec la prudence requise quant aux investissements substantiels qu'il propose à ses clients.
+[74] Il est d'intérêt de noter qu'à partir du 2 décembre 1994, le paragraphe 169(2) de la Loi a été abrogé pour être remplacé par le paragraphe 237.1(7.4) de la Loi. La disposition législative est analogue sauf que la pénalité est passée de 3 p. 100 à 25 p. 100.
+[75] En ce qui concerne les délais, les appelants n'ont pas fait la preuve d'un manque de diligence de la part de l'intimée dans la ratification ou la cotisation à nouveau des appelants. Ce sont les appelants eux-mêmes qui ne souhaitaient pas que les autorités fiscales fédérales agissent avant celles du Québec. Ils auraient souhaité que la même décision qui a été prise au niveau provincial se prenne au niveau fédéral. C'est compréhensible, mais je n'ai vu ni eu aucun engagement de la part des autorités fiscales fédérales de suivre les décisions des autorités fiscales provinciales. Il faut aussi se rappeler qu'un contribuable peut, en vertu de l'alinéa 169(1)b) de la Loi, interjeter appel auprès de cette Cour après l'expiration des 90 jours qui suivent la signification de l'avis d'opposition sans que le Ministre ait notifié au contribuable le fait qu'il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation. Il est aussi possible pour un contribuable de demander à cette Cour d'inscrire son appel pour audition, une fois que la Réponse a été produite.
+[76] En conclusion, les appelants n'ont pas fait la preuve du degré de diligence requis de leur part dans les circonstances. En conséquence, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 16e jour de juillet 2003.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2003CCI505
+Nos DE DOSSIER DE LA COUR :
+2000-382(IT)I et 2000-865(IT)I
+INTITULÉS DES CAUSES :
+Pierre Blier et Sa Majesté La Reine
+Jean-Luc Bernier et Sa Majesté La Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATES DE L'AUDIENCE :
+les 20 et 21 février 2003
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 16 juillet 2003
+COMPARUTIONS :
+Pour les appelants :
+les appelants eux-même
+Michel Dagenais (représentant)
+Gilles Thouin (représentant)
+Avocate de l'intimée :
+Me Anne-Marie Boutin
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

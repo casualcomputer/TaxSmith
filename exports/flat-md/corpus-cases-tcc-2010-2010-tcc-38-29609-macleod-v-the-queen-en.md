@@ -1,0 +1,126 @@
+---
+title: "MacLeod v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29609/index.do"
+last_modified: "2010-01-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 38"
+citation2: ""
+neutral_citation: "2010 TCC 38"
+decision_date: "2010-01-20"
+language: "en"
+item_id: "29609"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6178
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:43:50.871000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e23958ae093df9c97dd90bad0f95f98de6a6803b1de4e183ee1b4ca13d1c464c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# MacLeod v. The Queen
+
+- Citation: 2010 TCC 38
+- Decision date: 2010-01-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6178, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacLeod v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-01-20
+Neutral citation
+2010 TCC 38
+File numbers
+2009-1242(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1242(IT)I
+BETWEEN:
+ROBERT S. MACLEOD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on December 10, 2009 at Sydney, Nova Scotia
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Shannon Williams
+____________________________________________________________________
+ORDER
+The motion by the Respondent is granted and the Notice of Appeal is struck on the basis that it fails to disclose any grounds for appeal.
+Signed at Ottawa, Canada, this 20th day of January 2010.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2010TCC38
+Date: 20100120
+Docket: 2009-1242(IT)I
+BETWEEN:
+ROBERT S. MACLEOD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+V.A. Miller, J.
+[1] This is a motion by the Respondent for an Order to strike the Notice of Appeal; or, in the alternative, an Order to have the Appellant amend the Notice of Appeal so that it conforms to the Tax Court of Canada Rules (Informal Procedure). The Grounds for the Motion are that the Notice of Appeal discloses no reasonable grounds of appeal; and, the Notice of Appeal is frivolous and vexatious.
+[2] The Appellant was represented at the hearing of this motion by his nephew, Stewart MacLeod, who had prepared the Notice of Appeal.
+[3] The test that is used for striking out pleadings is whether, assuming the facts stated in the pleadings are true, is it “plain and obvious” that the appeal cannot succeed[1]? A Notice of Appeal will only be struck if the appeal is certain to fail[2].
+[4] The Tax Court of Canada has jurisdiction to vacate or vary an assessment if it is found that the amounts assessed are not owing under the Income Tax Act[3]. This Court does not have the jurisdiction to allow an appeal on the basis of an abuse of process at common law. As well, it has been consistently held that the actions of the Canada Revenue Agency (“CRA”) cannot be taken into account in an appeal against assessments[4].
+[5] In the present appeal, the Notice of Appeal does not challenge the assessments. The amount and calculation of tax is not questioned. At the hearing, Mr. MacLeod stated that the amount of taxes assessed was not at issue. The only issue raised in the Notice of Appeal and at the hearing of this motion is that the Appellant has been cruelly and unjustly harassed by the CRA.
+[6] When I apply the test that was stated in Hunt v. Carey Canada Inc. and I assume that all of the facts plead in the Notice of Appeal are true, I conclude that the appeal cannot succeed.
+[7] The motion is granted and the Notice of Appeal is struck on the basis that it fails to disclose any grounds for appeal. No costs are awarded.
+Signed at Ottawa, Canada, this 20th day of January 2010.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2010TCC38
+COURT FILE NO.: 2009-1242(IT)I
+STYLE OF CAUSE: ROBERT S. MACLEOD AND THE QUEEN
+PLACE OF HEARING: Sydney, Nova Scotia
+DATE OF HEARING: December 10, 2009
+REASONS FOR ORDER BY: The Honourable Justice Valerie Miller
+DATE OF ORDER: January 20, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Shannon Williams
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959
+[2] Main Rehabilitation Co. v. The Queen, 2004 FCA 403
+[3] Ludco Enterprises Ltd. v. R., [1996] 3 C.T.C. 74 (FCA)
+[4] Supra, note 2 at paragraph

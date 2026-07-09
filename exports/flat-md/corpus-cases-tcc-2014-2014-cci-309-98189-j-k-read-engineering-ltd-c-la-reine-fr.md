@@ -1,0 +1,488 @@
+---
+title: "J.K. Read Engineering Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/98189/index.do"
+last_modified: "2014-10-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 309"
+citation2: ""
+neutral_citation: "2014 CCI 309"
+decision_date: "2014-10-21"
+language: "fr"
+item_id: "98189"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5216
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:41:54.992000+00:00"
+cases_cited_count: 12
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7583275ab28fa4ffdd86007d0f8f549a72942de6cca32b0d89481292e20e26fe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# J.K. Read Engineering Ltd. c. La Reine
+
+- Citation: 2014 CCI 309
+- Decision date: 2014-10-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5216, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+J.K. Read Engineering Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-10-21
+Référence neutre
+2014 CCI 309
+Numéro de dossier
+2011-3732(IT)G, 2012-541(IT)G, 2012-542(IT)G, 2012-543(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3732(IT)G
+ENTRE :
+J.K. READ ENGINEERING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu avec les appels de J.M. Hutton Enterprises Ltd. (2012‑541(IT)G), de J.M. Hutton Holdings Ltd. (2012‑542(IT)G) et de J.M. Hutton Engineering Ltd. (2012-543(IT)G) le 30 avril et les 1er et 2 mai 2014, à Edmonton (Alberta).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l’appelante :
+Me James C. Yaskowich
+Avocat de l’intimée :
+Me David Everett
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté, les dépens étant adjugés à l’intimée, conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 21e jour d’octobre 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 16e jour de mars 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+Dossier : 2012-541(IT)G
+ENTRE :
+J.M. HUTTON ENTERPRISES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de J.K. Read Engineering Ltd. (2011-3732(IT)G), de J.M. Hutton Holdings Ltd. (2012‑542(IT)G) et de J.M. Hutton Engineering Ltd. (2012-543(IT)G) le 30 avril et les 1er et 2 mai 2014, à Edmonton (Alberta).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l’appelante :
+Me James C. Yaskowich
+Avocat de l’intimée :
+Me David Everett
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté, sans dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 21e jour d’octobre 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 16e jour de mars 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+Dossier : 2012-542(IT)G
+ENTRE :
+J.M. HUTTON HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de J.K. Read Engineering Ltd. (2011-3732(IT)G), de J.M. Hutton Enterprises Ltd. (2012‑541(IT)G) et de J.M. Hutton Engineering Ltd. (2012-543(IT)G), le 30 avril et les 1er et 2 mai 2014, à Edmonton (Alberta).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l’appelante :
+Me James C. Yaskowich
+Avocat de l’intimée :
+Me David Everett
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté, sans dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 21e jour d’octobre 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 16e jour de mars 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+Dossier : 2012-543(IT)G
+ENTRE :
+J.M. HUTTON ENGINEERING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de J.K. Read Engineering Ltd. (2011-3732(IT)G), de J.M. Hutton Enterprises Ltd. (2012‑541(IT)G) et de J.M. Hutton Holdings Ltd. (2012-542(IT)G) le 30 avril et les 1er et 2 mai 2014, à Edmonton (Alberta).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l’appelante :
+Me James C. Yaskowich
+Avocat de l’intimée :
+Me David Everett
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté, sans dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 21e jour d’octobre 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 16e jour de mars 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+Réréfence : 2014 CCI 309
+Date : 20141021
+Dossiers : 2011-3732(IT)G
+2012-541(IT)G
+2012-542(IT)G
+2012-543(IT)G
+ENTRE :
+J.K. READ ENGINEERING LTD.,
+J.M. HUTTON ENTERPRISES LTD.,
+J.M. HUTTON HOLDINGS LTD.,
+J.M. HUTTON ENGINEERING LTD.,
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Aperçu [1] Les présents appels portent sur le calcul d’intérêts sur arriérés dans le contexte de l’application de la disposition générale anti‑évitement (la « DGAÉ »). Les appelantes ont effectué une série d’opérations (les « opérations ») ayant donné lieu à des pertes en capital utilisées pour compenser des gains en capital réalisés par les sociétés J.K. Read Engineering Ltd. (« Read ») et J.M. Hutton Engineering Ltd. (« Hutton ») antérieurement dans leur année d’imposition 2007. Les sociétés Read et Hutton ont produit leurs déclarations de revenus pour 2007 en tenant pour acquis que les opérations ne donnaient lieu à aucune obligation fiscale.
+[2] En 2011, le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations à l’égard des appelantes. Le ministre a estimé que les mesures prises par les appelantes constituaient des opérations d’évitement abusives et, en conséquence, il a appliqué la DGAÉ pour refuser les pertes en capital déduites par les sociétés Read et Hutton dans leurs déclarations de revenus pour 2007[1].
+[3] Les appelantes ne contestent pas l’application de la DGAÉ ou l’obligation fiscale qui en découle. Ce qu’elles contestent, cependant, c’est la date à laquelle l’obligation est née et à partir de laquelle les intérêts ont commencé à courir à cet égard.
+[4] Les appelantes soutiennent que le paragraphe 245(7) de la Loi de l’impôt sur le revenu (la « Loi ») exige que le ministre établisse un avis de cotisation fondé sur la DGAÉ avant que l’article 245 de la Loi ne puisse être appliqué pour déterminer de nouveau les attributs fiscaux relativement à des opérations d’évitement abusives. Les appelantes soutiennent essentiellement que les pertes en capital qui résulteraient de la mise en œuvre des opérations compensent quand même les gains en capital réalisés par Read et Hutton jusqu’à la date où le ministre a établi des cotisations à l’égard des appelantes en se fondant sur la DGAÉ (les « cotisations fondées sur la DGAÉ »). Selon les appelantes, les intérêts n’ont commencé à courir qu’à la date des cotisations fondées sur la DGAÉ, qui est le moment précis où on allègue que l’obligation fiscale découlant de l’application de la DGAÉ est née.
+[5] L’intimée n’est pas du même avis. Elle estime que la DGAÉ s’applique sans l’intervention du ministre. Par conséquent, les appelantes avaient un impôt sur le revenu impayé à leurs dates respectives d’exigibilité du solde, à partir desquelles des intérêts sur arriérés ont commencé à courir.
+II. Contexte factuel [6] J’ai entendu les quatre appels sur la foi de l’exposé conjoint des faits, qui est intégralement reproduit à l’Annexe A des présents motifs.
+[7] Étant donné que les appelantes reconnaissent que la DGAÉ s’applique de façon à refuser les pertes en capital déduites par Hutton et Read, il me suffit de souligner que les appelantes ont utilisé des actions privilégiées à prix de rachat élevé, mais à capital versé faible, pour créer des pertes en capital, en ayant recours à une stratégie semblable à celle qu’elles ont utilisée dans trois appels récents[2]. Dans ces appels, la Cour d’appel fédérale a conclu que la DGAÉ s’appliquait, et a qualifié les pertes en capital d’artificielles, de telle sorte que ces pertes ne pouvaient pas être utilisées pour compenser les gains en capital de chacune des appelantes.
+III. Questions en litige [8] La question en litige dans les présents appels, tel qu’elle découle des observations écrites des parties, peut être formulée de la manière suivante :
+Selon la DGAÉ les intérêts commencent‑ils à courir sur l’impôt de la partie I de la Loi à partir de la date d’établissement des cotisations?
+IV. Analyse A. La décision Copthorne, appuie‑t‑elle la thèse des appelantes? [9] Les appelantes ont attiré mon attention sur la décision de la Cour dans l’affaire Copthorne Holdings Ltd. c. La Reine[3]. Dans cette affaire, les sociétés remplacées par l’appelante, Copthorne, ont conclu une série d’opérations dans le but de conserver le capital versé (le « CV ») à l’égard d’actions qu’elles avaient émises. Il a été conclu que l’actionnaire non-résident de Copthorne avait reçu un dividende réputé par suite d’une nouvelle qualification des opérations selon la DGAÉ. La retenue d’impôts au titre de l’article 212 de la Loi qui est habituellement imposée lorsqu’une société canadienne verse un dividende à une personne non-résidente n’avait pas été effectuée par Copthorne, ce qui avait entraîné l’établissement d’une cotisation à son égard pour le montant de cet impôt ainsi que l’imposition d’une pénalité à Copthorne en raison du fait qu’elle avait omis de déduire ou de retenir un montant au titre du paragraphe 227(8) de la Loi.
+[10] La juge Campbell a confirmé que Copthorne était redevable de l’impôt de la partie XIII de ses actionnaires; toutefois, elle a annulé la pénalité qui avait été imposée.
+[11] Dans leurs observations écrites, les appelantes ont résumé la décision de la juge Campbell dans l’affaire Copthorne de la manière suivante[4] :
+[traduction]
+Dans la décision Copthorne Holdings Ltd. c. la Reine, la Cour canadienne de l’impôt a conclu que le contribuable ne peut pas établir sa propre cotisation en se fondant sur le fait que la DGAÉ s’applique en raison du paragraphe 245(7). Dans la décision Copthorne, la DGAÉ a été appliquée afin de réduire le CV disponible pour soustraire à l’impôt de la partie XIII un rachat d’actions transfrontalier. En conséquence, la Cour canadienne de l’impôt a conclu qu’il n’y avait pas lieu d’imposer au contribuable la pénalité automatique prévue au paragraphe 227(8), qui découle habituellement de l’omission de retenir l’impôt de la partie XIII, parce que le contribuable n’était pas en principe tenu de retenir l’impôt de la partie XIII au moment du rachat des actions. L’obligation fiscale au titre de la partie XIII est née après coup, lorsque le ministre a établi une cotisation en application de la DGAÉ.
+[Non souligné dans l’original.]
+[12] Plus loin dans leurs observations écrites, les appelantes ont souligné ceci[5] :
+[traduction]
+[…] Ce n’est qu’au moment où le ministre a soulevé la question concernant la nouvelle cotisation fondée sur la DGAÉ que l’exigence pour un non‑résident de payer l’impôt de la partie XIII s’est manifestée. En conséquence, il n’existait aucune obligation d’effectuer une retenue à ce moment‑là au titre du paragraphe 215(1).
+[13] Finalement, les appelantes tirent la conclusion suivante[6] :
+[traduction]
+Il découle naturellement de la décision Copthorne, dans le contexte du paragraphe 161(1) que :
+a) l’impôt sur le revenu établi au titre de la DGAÉ n’est payable qu’après l’établissement de la cotisation par le ministre;
+b) la période durant laquelle un tel « impôt payable » est impayé commence à courir à partir de la date d’établissement de la cotisation fondée sur la DGAÉ.
+[14] En toute déférence, je ne puis souscrire à l’analyse faite par les appelantes au sujet de la décision Copthorne, parce qu’elle ne tient pas compte du fait que la Cour a en réalité conclu que Copthorne avait omis de répondre à ses obligations en matière de retenue au titre du paragraphe 215(1) de la Loi.
+[15] Comme c’est souvent le cas au titre de la partie XIII, le ministre a établi une cotisation à l’égard de Copthorne, le payeur de dividendes, plutôt qu’à l’égard de son actionnaire, le bénéficiaire de dividendes. Les payeurs de dividendes ne sont redevables de l’impôt de la partie XIII que s’ils omettent de déduire ou de retenir un impôt qui est exigible sur le versement de dividende. L’article 215 de la Loi est clair à ce sujet. Les parties pertinentes de cette disposition sont ainsi libellées :
+215(1) La personne qui verse, crédite ou fournit une somme sur laquelle un impôt sur le revenu est exigible en vertu de la présente partie, ou le serait s’il n’était pas tenu compte du sous‑alinéa 94(3)a)(viii) ni du paragraphe 216.1(1), ou qui est réputée avoir versé, crédité ou fourni une telle somme, doit, malgré toute disposition contraire d’une convention ou d’une loi, en déduire ou en retenir l’impôt applicable et le remettre sans délai au receveur général au nom de la personne non-résidente, à valoir sur l’impôt, et l’accompagner d’un état selon le formulaire prescrit.
+[…]
+(6) Lorsqu’une personne a omis de déduire ou de retenir, comme l’exige le présent article, une somme sur un montant payé à une personne non-résidente ou porté à son crédit ou réputé avoir été payé à une personne non-résidente ou porté à son crédit, cette personne est tenue de verser à titre d’impôt sous le régime de la présente partie, au nom de la personne non-résidente, la totalité de la somme qui aurait dû être déduite ou retenue, et elle a le droit de déduire ou de retenir sur tout montant payé par elle à la personne non-résidente ou portée à son crédit, ou par ailleurs de recouvrer de cette personne non-résidente toute somme qu’elle a versée pour le compte de cette dernière à titre d’impôt sous le régime de la présente partie.
+[Non souligné dans l’original.]
+[16] L’argument que font valoir les appelantes, à savoir que Copthorne n’a pas omis de retenir l’impôt parce que le dividende réputé n’a commencé à exister qu’au moment où la cotisation fondée sur la DGAÉ a été établie, est incompatible avec la conclusion de la juge Campbell selon laquelle Copthorne était assujettie à l’impôt de la partie XIII de ses actionnaires non‑résidents au titre du paragraphe 215(6) de la Loi. La DGAÉ devait s’appliquer au préalable pour réduire le CV relatif aux actions rachetées par Copthorne, sans quoi la Cour n’aurait pas pu conclure que Copthorne avait omis de répondre à son obligation d’effectuer des retenues au titre du paragraphe 215(1) de la Loi. Si l’impôt de la partie XIII n’avait pas été exigible au moment du rachat d’actions, Copthorne n’aurait pas été assujettie à cet impôt au titre du paragraphe 215(6) de la Loi. Par conséquent, il ressort implicitement de la conclusion de la Cour dans cette affaire que la DGAÉ a commencé à s’appliquer au moment où les opérations d’évitement abusives étaient en cours d’exécution, et non, comme le prétendent les appelantes, lorsque la cotisation fondée sur la DGAÉ a été établie par le ministre.
+[17] Compte tenu de ce qui précède, la Cour en est­‑elle arrivée à une décision contradictoire dans Copthorne? Je ne le crois pas. Le paragraphe 215(6) de la Loi est une disposition d’assujettissement à l’impôt qui rend le payeur responsable du paiement de l’impôt du bénéficiaire si, au moment du paiement, le payeur omet de déduire ou de retenir l’impôt payable par le bénéficiaire. Par contre, le paragraphe 227(8) de la Loi est une disposition qui prévoit une pénalité. Le moyen de défense fondé sur la diligence raisonnable peut être invoqué à l’encontre de la seconde disposition, mais non la première. À mon avis, la juge Campbell a annulé la pénalité imposée à Copthorne au titre du paragraphe 227(8) de la Loi parce que, dans les circonstances, elle a conclu que Copthorne avait fait preuve de diligence relativement à ses obligations en matière de retenues au titre du paragraphe 215 de la Loi.
+B. Quelle est l’interprétation correcte du paragraphe 245(7) de la Loi? [18] Comme je l’ai déjà souligné, la thèse des appelantes est aussi fondée sur le paragraphe 245(7) de la Loi, dont voici la teneur :
+Malgré les autres dispositions de la présente loi, les attributs fiscaux d’une personne, par suite de l’application du présent article, ne peuvent être déterminés que par avis de cotisation, de nouvelle cotisation ou de cotisation supplémentaire ou que par avis d’un montant déterminé en application du paragraphe 152(1.11), compte tenu du présent article.
+[19] Les appelantes soutiennent que cette disposition interdit au contribuable d’établir sa propre cotisation quant aux attributs fiscaux selon la DGAÉ.
+[20] Les appelantes soutiennent que le contribuable ne devrait pas être redevable d’intérêts avant l’établissement d’une cotisation fondée sur la DGAÉ s’il ne peut pas établir sa propre cotisation selon la DGAÉ. Bien que, dans Copthorne, la juge Campbell ait semblé souscrire à l’interprétation avancée par les appelantes, à savoir qu’on ne peut pas établir sa propre cotisation, je tiens à souligner que sa décision d’annuler la pénalité n’a pas fait l’objet d’un appel de la part de l’intimée[7]. Au contraire, sa conclusion selon laquelle Copthorne était redevable de l’impôt de la partie XIII de ses actionnaires non-résidents a été confirmée en appel par la Cour d’appel fédérale et par la Cour suprême du Canada.
+[21] En outre, l’interprétation que les appelantes font du paragraphe 245(7) de la Loi est contraire aux remarques incidentes formulées dans la décision S.T.B. Holdings Ltd. v. The Queen[8]. Dans cette affaire, le juge Miller était appelé à trancher deux questions, à savoir (1) si une cotisation établie au titre du paragraphe 245(7) de la Loi exige un renvoi explicite à la DGAÉ et (2) si le paragraphe 245(7) de la Loi interdit au ministre d’invoquer la DGAÉ comme moyen subsidiaire d’établir une cotisation. Il a répondu « par la négative » aux deux questions. Fait intéressant, bien qu’il n’ait pas été tenu de statuer sur ce point pour tirer sa conclusion à l’égard des deux questions, le juge Miller a conclu au cours de son analyse que le paragraphe 245(7) de la Loi s’applique à un contribuable à l’égard duquel une cotisation fondée sur la DGAÉ a été établie (désigné comme étant le « contribuable ciblé ») et à un contribuable touché par la cotisation de ce contribuable ciblé (désigné comme étant le « tiers contribuable »)[9]. Lorsque l’affaire a été portée devant la Cour d’appel fédérale, le juge Létourneau a confirmé les conclusions du juge de première instance, mais a conclu que le paragraphe 245(7) de la Loi ne s’appliquait qu’à des tiers contribuables[10], à savoir les contribuables qui demandent un rajustement au titre du paragraphe 245(6) de la Loi parce qu’ils ont été touchés par la cotisation fondée sur la DGAÉ d’un contribuable ciblé. Une demande d’autorisation de pourvoi à la Cour suprême du Canada a été rejetée[11].
+[22] Il est bien reconnu qu’une remarque incidente n’est pas une opinion juridique contraignante. L’auteur Michael Zander donne des précisions à cet égard en ces termes[12] :
+[traduction]
+[…] L’énoncé de droit le plus mûrement réfléchi et le plus délibéré formulé par les cinq lords juristes, s’il constitue une remarque incidente, ne lie pas les juges, même ceux des tribunaux de toute première instance. En principe, ils sont libres de s’en écarter […]
+[23] La raison en est que[13] :
+[traduction]
+Les cours de justice ont été créées pour trancher des questions afin de régler des litiges. Par conséquent, des avis consultatifs et des remarques incidentes ne peuvent pas servir de fondement à des décisions, et ils ne sont pas recommandés. En droit, on a horreur des avis formulés sans débat. De tels avis n’ont pas l’avantage d’être émis à l’issue de la mise en opposition de thèses et d’arguments contraires ou d’un examen minutieux par la cour[14].
+[Non souligné dans l’original.]
+[24] Toutefois, M. Zander souligne que la force de conviction des remarques incidentes augmente généralement en fonction des échelons de la hiérarchie judiciaire d’où elles émanent[15] :
+[traduction]
+[…] En pratique, bien entendu, les remarques incidentes importantes prononcées par des instances supérieures sont susceptibles d’être suivies et reçoivent certainement la plus grande attention, mais, dans la théorie la plus stricte, elles ne sont pas contraignantes. […]
+[25] En 1980, dans l’arrêt Sellars c. La Reine[16], la Cour suprême du Canada a formulé des observations qui ont été perçues comme appuyant la notion selon laquelle les remarques incidentes dans les opinions de la majorité de la Cour suprême du Canada peuvent établir des précédents et lier les juridictions inférieures[17]. C’est ce que l’on a appelé par la suite le « principe Sellars ». Pendant un moment, certains observateurs souscrivaient à cette interprétation[18], mais d’autres la rejetaient[19].
+[26] En 2005, dans l’arrêt R. c. Henry[20], la Cour suprême du Canada a précisé le « principe Sellars » et a rejeté son application qui semble étendue[21]. Le juge Binnie, s’exprimant au nom de la cour à l’unanimité, a commencé par confirmer que des remarques incidentes prononcées par la Cour suprême du Canada ne devraient effectivement pas lier les juridictions inférieures, et a formulé les observations suivantes[22] :
+[…] ce phénomène aurait pour effet de priver le système de justice d’un important apport créateur de la part des avocats et des juges d’autres tribunaux constamment appelés à examiner l’application des principes juridiques dans des contextes différents et peut‑être inédits, et de freiner ou de fausser l’évolution de la common law. Or, les juges qui ont rendu l’arrêt Sellars n’ont absolument pas voulu ni prévu cette conséquence […]
+[27] Il a par la suite donné des indications sur le poids qui doit être accordé aux remarques incidentes exprimées par la Cour suprême du Canada[23] :
+[…] Les remarques incidentes n’ont pas et ne sont pas censées avoir toutes la même importance. Leur poids diminue lorsqu’elles s’éloignent de la stricte ratio decidendi pour s’inscrire dans un cadre d’analyse plus large dont le but est manifestement de fournir des balises et qui devrait être accepté comme faisant autorité […]
+[28] Ainsi, on pourrait dire que les remarques incidentes progressent le long d’un continuum et que leur poids diminue à mesure qu’elles s’éloignent de la justification d’une décision judiciaire[24] :
+[traduction]
+Les remarques incidentes progressent le long d’un continuum. Un énoncé juridique qui est partie intégrante du résultat ou de l’analyse qui sous‑tend la décision rendue dans une affaire particulière sera contraignant. Les remarques incidentes qui ne sont qu’accessoires à cette analyse ne devraient pas être considérées comme contraignantes, bien qu’elles demeurent manifestement convaincantes.
+[29] À mon avis, les motifs du jugement rendus dans l’affaire S.T.B. Holdings – en première instance et en appel – établissent clairement que les remarques incidentes prononcées par les tribunaux s’inscrivent, selon les termes de la CSC dans « un cadre d’analyse plus large dont le but est manifestement de fournir des balises et qui devrait être accepté comme faisant autorité[25] ». Pour les motifs qui suivent, je ne partage pas l’avis des appelantes selon lequel les remarques incidentes s’apparentent à « de[s] commentaires, d[es] exemples ou d[es]exposés[26] » qui sont simplement convaincants. Dans les motifs du jugement rendus dans l’affaire S.T.B. Holdings, l’application du paragraphe 245(7) de la Loi à des tiers a été débattue à fond et l’interprétation de la disposition faite par les cours découlait d’une analyse exhaustive.
+[30] Premièrement, il ressort clairement du jugement de la Cour canadienne de l’impôt rendu dans S.T.B. Holdings que les deux parties ont présenté des arguments pour ou contre une application du paragraphe 245(7) de la Loi aux contribuables en général[27] :
+L’argument de la requérante
+[7] Selon l’interprétation suggérée par la requérante à l’égard du paragraphe 245(7), celui‑ci exigerait, en premier lieu, que dans le cadre de l’établissement de toute cotisation en application de la DGAÉ, le ministre indique clairement, dans l’avis de cotisation, que celle-ci est établie en application de la DGAÉ, et il interdirait, en deuxième lieu, d’invoquer l’article 245 à titre de moyen subsidiaire d’établir la cotisation;
+[…]
+[27] […] l’estimé avocat de la requérante a présenté des arguments solides en faveur d’une interprétation plus large de ces dispositions [les paragraphes 245(6), (7) et (8) de la Loi].
+Position de l’intimée
+[12] En ce qui concerne l’application générale du paragraphe 245(7) à tous les contribuables par opposition à une application plus limitée, l’intimée soutient que ce paragraphe se limite à une demande présentée par une autre personne […]
+[Non souligné dans l’original.]
+[31] Des arguments semblables ont été présentés devant la Cour d’appel fédérale[28] :
+7 L’avocat fait valoir que la méthode téléologique ou l’interprétation de ces mots fondée sur l’objet visé ou à la lumière du contexte mène à une série de conclusions :
+[…]
+b) Le paragraphe 245(7) s’applique non seulement aux tiers visés par la RGAÉ, mais également aux contribuables ciblés;
+[…]
+8 […] L’avocat de l’intimée fait valoir, à ce sujet, que le juge a commis une erreur lorsqu’il a statué que le paragraphe s’applique aussi bien au contribuable ciblé qu’aux tiers.
+[Non souligné dans l’original.]
+[32] Les observations en question ont fait l’objet d’un examen complet par les cours. En première instance, le juge Miller a analysé précisément le paragraphe 245(7) de la Loi en utilisant la règle moderne d’interprétation des lois[29], à l’aide en partie des notes explicatives rédigées au moment de l’adoption de la DGAÉ[30]. Concernant ces notes, j’estime qu’il est utile de reproduire l’extrait suivant qui en est tiré, tel qu’il a été cité par le juge Miller[31] :
+[traduction]
+Le nouveau paragraphe 245(7) de la Loi prévoit qu’une personne ne peut invoquer le paragraphe 245(2) pour déterminer son revenu, son revenu imposable ou son revenu imposable gagné au Canada, l’impôt ou tout autre montant payable par une personne ou remboursable à celle-ci en vertu de la Loi et tout autre montant qui est, au sens de la Loi, pertinent aux fins du calcul sus‑mentionné, sauf en cas de demande de rajustement en vertu du paragraphe 245(6). Ainsi, une personne ne pourra invoquer les dispositions du paragraphe 245(2) pour rajuster son revenu ou tout autre montant susmentionné à moins de demander le rajustement suivant les procédures décrites au paragraphe 245(6).
+[Non souligné dans l’original.]
+[33] La Cour d’appel fédérale s’est largement fondée sur ces motifs pour conclure que le paragraphe 245(7) de la Loi s’applique à des tiers, à l’exclusion de contribuables ayant fait l’objet d’une cotisation fondée sur la DGAÉ[32] :
+[…] Le renvoi à la marche à suivre exposée au paragraphe 245(6) pour une personne mentionnée au paragraphe 245(7) tend certainement à confirmer que l’on prévoyait que le paragraphe 245(7) ne s’appliquerait qu’aux tiers sollicitant un allégement fiscal.
+[34] Au stade de l’appel, le juge Létourneau, de la Cour d’appel fédérale, s’exprimant au nom de la cour à l’unanimité, a reconnu que le juge Miller avait minutieusement analysé les prétentions des parties[33] :
+Le juge de la Cour de l’impôt a effectué une analyse détaillée des prétentions des parties. Le résumé que je fais de sa décision, bien que plus longue que d’habitude, ne fait pas complètement honneur à son analyse réfléchie des questions en litige […]
+[35] Après avoir analysé les motifs du jugement rendus par le juge de première instance, le juge Létourneau a rejeté l’appel porté devant la Cour d’appel fédérale et a confirmé le jugement de la Cour canadienne de l’impôt, à l’exception de la conclusion selon laquelle le paragraphe 245(7) de la Loi s’appliquait à un contribuable ayant fait l’objet d’une cotisation fondée sur la DGAÉ[34] :
+[…] Je suis essentiellement d’accord avec l’interprétation qu’il donne du paragraphe 245(7), sauf en ce qui concerne la manière dont il l’applique au contribuable ciblé […]
+[36] Comme on peut le constater à la lecture de ce qui précède, l’application – ou la non-application – du paragraphe 245(7) de la Loi à des contribuables ayant fait l’objet d’une cotisation fondée sur la DAGÉ a été longuement examinée dans la décision et dans l’arrêt S.T.B. Holdings. À mon avis, le règlement de cette question par la Cour canadienne de l’impôt et par la Cour d’appel fédérale était essentiel aux conclusions auxquelles les deux cours sont parvenues dans cette affaire. En conséquence, j’estime que la conclusion de la Cour d’appel fédérale selon laquelle l’application du paragraphe 245(7) de la Loi est limitée à des tiers contribuables est une remarque incidente faisant autorité, qui devrait être suivie. Il s’agit, à tout le moins, d’une remarque incidente très convaincante.
+[37] Même si j’étais disposé à souscrire à l’opinion des appelantes concernant le paragraphe 245(7) de la Loi, le libellé de cette disposition n’est pas utile à leur thèse. Les mots clés sont « les attributs fiscaux d’une personne [selon les appelantes, Hutton ou Engineering], par suite de l’application du présent article, ne peuvent être déterminés que par avis de cotisation » (non souligné dans l’original).
+[38] L’Oxford English Dictionary (en ligne)[35] définit le terme « following » (suivant) comme étant « [c]e qui suit ou qui vient après », « [c]e qui vient après ou suit dans l’ordre ou dans le temps; suivant, ultérieur, consécutif », ou « [p]ar suite de, à la suite de (un événement), après ». De même, ce terme est défini dans le Merriam‑Webster English Dictionary[36] comme étant « le suivant dans l’ordre ou dans le temps » ou « qui est énuméré ou qui apparaît après ».
+[39] Il ressort manifestement des définitions susmentionnées que l’avis de cotisation ne déclenche pas l’application de la DAGÉ, mais survient après celle‑ci. Ce point de vue est étayé par une interprétation simple de la version française de la disposition :
+245(7) Malgré les autres dispositions de la présente loi, les attributs fiscaux d’une personne, par suite de l’application du présent article, ne peuvent être déterminés que par avis de cotisation, de nouvelle cotisation ou de cotisation supplémentaire ou que par avis d’un montant déterminé en application du paragraphe 152(1.11), compte tenu du présent article.
+[Non souligné dans l’original.]
+[40] Le Nouveau Petit Robert[37] considère l’expression « par suite de » comme étant synonyme de l’expression « à cause de » ou « en conséquence de ». Dans le Larousse[38], l’expression est définie comme ayant le sens de « en raison de ». Ces synonymes militent manifestement en faveur d’une décision selon laquelle l’application de la DGAÉ doit précéder l’avis de cotisation.
+[41] Compte tenu des définitions anglaises et françaises susmentionnées, on ne peut pas dire que l’obligation fiscale au titre de la DGAÉ prend naissance à partir de la date de l’avis de cotisation.
+[42] Si j’ai tort sur ce point, et qu’une cotisation ou une nouvelle cotisation est nécessaire pour refuser des avantages fiscaux découlant d’opérations d’évitement abusives, il me semble que la DGAÉ s’appliquerait tout de même rétroactivement. Par exemple, dans la décision Copthorne, la réduction du CV devait être considérée comme ayant eu lieu avant le rachat des actions pour qu’il y ait un dividende réputé qui soit assujetti à la retenue d’impôt. Pourquoi alors, selon la théorie des appelantes, l’application de la DGAÉ ne serait-elle pas rétroactive en ce qui concerne l’accumulation des intérêts sur l’impôt payable relativement à l’année d’imposition 2007 des appelantes? Je doute fortement que l’intention du législateur ait été que les contribuables bénéficient d’un report d’intérêts relativement à des opérations d’évitement fiscal abusives.
+[43] Je ne vois rien d’autre dans le reste de l’article 245 de la Loi qui donne à croire que l’application de la DGAÉ est suspendue jusqu’à l’établissement d’une cotisation. Au contraire, le paragraphe 245(2) de la Loi utilise un libellé contraignant pour prévoir que les attributs fiscaux découlant d’opérations d’évitement abusives puissent être révisés pour refuser des avantages fiscaux qui ne sont pas raisonnables dans les circonstances.
+C. Examen de la disposition relative aux intérêts [44] La disposition qui régit l’imposition et l’accumulation d’intérêts s’applique d’une manière simple, sans égard à la question de savoir si la cotisation est fondée sur la DGAÉ. Le paragraphe 161(1) de la Loi prévoit que les intérêts sont calculés au taux prescrit sur l’excédent de l’impôt payable par le contribuable en vertu des parties I, I.3, VI et VI.I de la Loi pour une année d’imposition par rapport au montant total payé au titre de cet impôt payable. Cette disposition est ainsi libellée :
+161(1) Dans le cas où le total visé à l’alinéa a) excède le total visé à l’alinéa b) à un moment postérieur à la date d’exigibilité du solde qui est applicable à un contribuable pour une année d’imposition, le contribuable est tenu de verser au receveur général des intérêts sur l’excédent, calculés au taux prescrit pour la période au cours de laquelle cet excédent est impayé;
+a) le total des impôts payables par le contribuable pour l’année en vertu de la présente partie et des parties I.3, VI et VI.I;
+b) le total des montants représentant chacun un montant payé au plus tard à ce moment au titre de l’impôt payable par le contribuable et imputé par le ministre, à compter de ce moment, sur le montant dont le contribuable est redevable pour l’année en vertu de la présente partie ou des parties I.3, VI ou VI.1;
+[Non souligné dans l’original.]
+[45] Il ressort clairement du libellé de cette disposition que les intérêts commencent à courir à la date d’exigibilité du solde qui est applicable à un contribuable, si le contribuable a un « impôt payable » impayé à ce moment‑là.
+[46] Dans l’arrêt The Queen v. Whent[39], la Cour d’appel fédérale a conclu que le terme « impayé » utilisé au paragraphe 161(1) de la Loi signifie « qui n’a pas été payé ».
+[47] L’expression « impôt payable » est définie au paragraphe 248(2) de la Loi comme étant le montant d’impôt tel que le fixe une cotisation ou nouvelle cotisation, sous réserve éventuellement de changement consécutif à une opposition ou à un appel. Aucune exception n’est prévue dans cette définition pour une cotisation d’impôt fondée sur la DGAÉ. En l’espèce, étant donné que les pertes en capital ont été refusées au titre du paragraphe 245(2) de la Loi, les sociétés Read et Hutton avaient un « impôt payable » impayé au titre de la partie I à leurs dates respectives d’exigibilité du solde. De même, puisque la société Hutton a payé des dividendes déterminés à chacune des autres appelantes dans leur année d’imposition 2007, ces autres appelantes avaient un solde impayé d’impôt payable au titre de la partie IV auquel s’ajoutaient des intérêts en vertu du paragraphe 187(2) de la Loi.
+V. Conclusion [48] Compte tenu de ce qui précède, je conclus que les opérations n’ont pas donné lieu à des pertes en capital que les sociétés Hutton et Read pouvaient utiliser pour compenser leurs gains en capital pour leur année d’imposition 2007. Par conséquent, les intérêts sur arriérés ont été calculés correctement sur les dettes fiscales dues par les appelantes postérieurement à leurs dates respectives d’exigibilité du solde.
+[49] Pour les motifs exposés ci‑dessus, les appels sont rejetés.
+[50] En ce qui concerne les appels portant les numéros 2012‑541(IT)G, 2012‑542(IT)G et 2012‑543(IT)G, les parties ont convenu qu’aucuns dépends ne seraient adjugés à l’une ou l’autre partie, quelle que soit l’issue de l’affaire.
+[51] Quant à l’appel interjeté par la société Read, dont le numéro est 2011‑3732(IT)G, les parties ont convenu que les dépens seraient adjugés selon l’issue de l’affaire. Par conséquent, les dépens sont adjugés à l’intimée.
+Signé à Toronto (Ontario), ce 21e jour d’octobre 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 16e jour de mars 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+ANNEXE A
+2011‑3732(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+J.K. READ ENGNINEERING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+EXPOSÉ CONJOINT DES FAITS
+Les parties conviennent, aux fins du présent appel et aux fins de tout appel en résultant ou de toute autre instance engagée en l’espèce, que les faits ici énoncés sont exacts. Le présent exposé conjoint des faits est convenu entre les parties aux fins du présent appel et aux fins de tout appel en découlant, mais ne lie les parties dans aucune autre instance judiciaire. Aucun autre élément de preuve incompatible avec le présent exposé des faits ne peut être présenté à l’audience du présent appel ou de tout appel en découlant, sauf par suite d’une autre entente conclue entre les parties.
+1. L’appelante était une résidente du Canada pour l’application de la Loi de l’impôt sur le revenu, L.R.C 1985, ch. 1 (5e suppl.), dans sa version modifiée[40].
+2. En décembre 2007, John K. Read Investments Ltd. était l’unique actionnaire de l’appelante[41].
+3. John K. Read contrôle la société John K. Read Investments Ltd.[42]
+4. L’appelante possédait des parts de la société de personnes Colt Companies (la « société de personnes »)[43].
+5. Michael Trent Read et Rhett Tyler Read sont les enfants adultes de John K. Read[44].
+6. Le 5 décembre 2007, l’appelante a constitué une filiale détenue à 100 %, Picante Capital Corp. (« Picante »), en personne morale conformément aux lois de l’Alberta[45].
+7. John K. Read était l’unique administrateur de Picante[46].
+8. Le 18 décembre 2007, l’appelante a souscrit 22 618 025 actions ordinaires de catégorie A et 22 618 025 actions ordinaires de catégorie B de Picante pour un coût total de 45 236 050 $[47].
+9. La fiducie familiale Michael Trent Read (la « fiducie Michael ») et la fiducie familiale Rhett Tyler Read (la « fiducie Rhett ») ont été établies le 19 décembre 2007. La fiducie Michael et la fiducie Rhett étaient des fiducies irrévocables. Les bénéficiaires de la fiducie Michael étaient Michael Trent Read et ses enfants ou petits enfants. Les bénéficiaires de la fiducie Rhett étaient Rhett Tyler Read et ses enfants ou petits enfants[48].
+10. Le 19 décembre 2007, Picante a déclaré et versé un dividende en actions sur ses actions ordinaires de catégorie A et de catégorie B. En conséquence, Picante a émis 45 236 050 actions de catégorie D en faveur de l’appelante, en sa qualité de détentrice unique des actions ordinaires de catégorie A et de catégorie B[49].
+11. Les actions de catégorie D étaient rachetables au prix d’un dollar par action, ou à un prix de rachat global de 45 236 050 $, et représentaient un capital total déclaré de 100 $[50].
+12. Le 20 décembre 2007, l’appelante a vendu les actions ordinaires de catégorie A et de catégorie B à la fiducie Michael et à la fiducie Rhett, respectivement, pour un produit total de 100 $[51].
+13. Dans sa déclaration de revenus pour 2007, l’appelante a déclaré un gain en capital de 45 624 604 $ relativement à la disposition de ses parts détenues dans la société de personnes, et une perte en capital de 45 235 950 $ découlant de la disposition des actions ordinaires de catégorie A et de catégorie B de Picante, qu’elle a utilisée pour compenser le gain en capital[52].
+14. Le 15 avril 2011, le ministre du Revenu national a établi une nouvelle cotisation à l’égard de l’appelante pour refuser le montant de 45 235 950 $ déduit au titre de pertes en capital, compte tenu du fait que la règle générale anti-évitement énoncée à l’article 245 de la Loi de l’impôt sur le revenu s’appliquait[53].
+Le présent exposé conjoint des faits est daté du 30 avril 2014.
+­­­­­­­­­­­­­­­­­­­­­­­­­­––––––––––––––––––––
+Me James Yaskowich
+Avocat de l’appelante
+––––––––––––––––––––
+Me David Everett
+Avocat de l’intimée
+2012‑541(IT)G
+2012‑542 (IT)G
+2012‑543 (IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+J.M. HUTTON ENTERPRISES LTD.,
+J.M. HUTTON HOLDINGS LTD.,
+J.M. HUTTON ENGINEERING LTD.,
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+EXPOSÉ CONJOINT DES FAITS
+Les parties conviennent, aux fins du présent appel et aux fins de tout appel en résultant ou de toute autre instance engagée en l’espèce, que les faits ici énoncés sont exacts. Le présent exposé conjoint des faits est convenu entre les parties aux fins du présent appel et aux fins de tout appel en découlant, mais ne lie les parties dans aucune autre instance judiciaire. Aucun autre élément de preuve incompatible avec le présent exposé des faits ne peut être présenté à l’audience du présent appel ou de tout appel en découlant, sauf par suite d’une autre entente conclue entre les parties. L’une ou l’autre partie pourra présenter d’autres éléments de preuve ou documents, dans la mesure où ils ne sont pas incompatibles avec le présent exposé conjoint des faits.
+1. Les sociétés J.M. Hutton Engineering Ltd. (« Engineering »), J.M. Hutton Enterprises Ltd. (« Enterprises ») et J.M. Hutton Holdings Ltd. (« Holdings ») étaient des résidentes du Canada pour l’application de la Loi de l’impôt sur le revenu, L.R.C 1985, ch. 1 (5e suppl.) (la « LIR »), dans sa version modifiée[54].
+2. Enterprises, Holdings et Engineering étaient toutes des « sociétés privées sous contrôle canadien » au sens de la LIR[55].
+3. Dans l’année d’imposition d’Engineering se terminant le 1er octobre 2007, Holdings et Enterprises détenaient chacune 50 % des actions d’Engineering[56].
+4. Dans l’année d’imposition d’Enterprises se terminant le 30 septembre 2007, James Hutton, Nancy Hutton et la fiducie familiale Kimberley Nicole Hutton étaient ses seuls actionnaires[57].
+5. Dans l’année d’imposition de Holdings se terminant le 30 septembre 2007, James Hutton, Nancy Hutton et la fiducie familiale Christopher James Hutton étaient ses seuls actionnaires[58].
+6. Immédiatement avant que les opérations décrites ci‑dessus ne soient effectuées, Enterprises et Holdings possédaient chacune 49,5 des actions ordinaires de catégorie A d’Engineering, alors que l’action ordinaire restante de catégorie A d’Engineering était détenue James Hutton[59].
+7. Durant l’année d’imposition 2007 des sociétés Enterprises et Holdings, chacune des sociétés possédait plus de 10 % du capital-actions émis d’Engineering, et des actions du capital‑actions d’Engineering ayant une juste valeur marchande supérieure d’au moins 10 % à la juste valeur marchande de toutes les actions émises du capital‑actions d’Engineering[60].
+8. James Hutton et Nancy Hutton ont, en tout temps, contrôlé Engineering, Holdings et Enterprises[61].
+9. Christopher James Hutton et Kimberly Nicole Hutton sont les enfants adultes de James Hutton et Nancy Hutton[62].
+10. Engineering possédait des parts de la société de personnes Colt Companies (la « société de personnes »)[63].
+11. Le 27 septembre 2007, Engineering a constitué en société une filiale détenue à 100 %, 1352751 Alberta Ltd. (la « nouvelle société »), conformément aux lois de l’Alberta[64].
+12. James Hutton et Nancy Hutton étaient les administrateurs de la nouvelle société[65].
+13. Le 28 septembre 2007, à 1 h, James Hutton a transféré :
+a) la moitié d’une action ordinaire de catégorie A d’Engineering à Holdings en vertu du paragraphe 85(1) de la LIR au prix convenu d’un dollar en contrepartie de 1 000 actions de catégorie H de Holdings;
+b) la moitié d’une action ordinaire de catégorie A d’Engineering à Enterprise en vertu du paragraphe 85(1) de la LIR au prix convenu d’un dollar en contrepartie de 1 000 actions de catégorie H d’Enterprise[66].
+14. La fiducie familiale James et Nancy Hutton a été établie le 28 septembre 2007 à 10 h 50 (la « fiducie familiale »). La fiducie familiale était une fiducie irrévocable dont les bénéficiaires étaient Christopher James Hutton et Kimberly Nicole Hutton et leurs enfants, petits‑enfants ou arrière-petits-enfants nés ou adoptés avant ou après la date d’établissement de la fiducie[67].
+15. Le 28 septembre 2007 à 11 h 15, Engineering a souscrit 40 238 114 actions ordinaires de catégorie A de la nouvelle société pour un coût total de 40 238 114 $[68].
+16. Le 28 septembre 2007 à 11 h 25, la nouvelle société a déclaré et versé un dividende en actions à Engineering sur ses actions ordinaires de catégorie A. En conséquence, la nouvelle société a émis 40 238 114 actions de catégorie D en faveur d’Engineering, en sa qualité de détentrice unique à ce moment‑là des actions ordinaires de catégorie A[69].
+17. Les actions de catégorie D étaient rachetables au prix d’un dollar l’action, ou au prix global de rachat de 40 238 114 $, et leur capital total déclaré était de 100 $[70].
+18. Le 28 septembre 2007 à 11 h 30, Engineering a choisi de verser un dividende en capital de 18 290 557,25 $ sur ses actions ordinaires de catégorie A[71].
+19. Le 28 septembre 2007 à 11 h 30, Engineering a déclaré et versé des dividendes imposables de 21 947 556,76 $ sur ses actions ordinaires de catégorie A[72].
+20. En conséquence, les sociétés Enterprises et Holdings ont reçu chacune des dividendes imposables de 10 973 778,38 $[73].
+21. Le 28 septembre 2007 à 11 h 35, les administrateurs d’Engineering (c’est‑à‑dire, James Hutton et Nancy Hutton) ont décidé d’emprunter 40 238 114 $ à la nouvelle société[74].
+22. Le 28 septembre 2007 à 11 h 40, Engineering a vendu à la fiducie familiale ses 40 238 114 actions ordinaires de catégorie A de la nouvelle société pour un produit total de 100 $[75].
+23. Le 28 septembre 2007 à 11 h 50, les administrateurs de la nouvelle société (c’est‑à‑dire, James Hutton et Nancy Hutton) ont décidé de prêter 40 238 114 $ à Engineering[76].
+24. Le 28 septembre 2007 à 11 h 50, James Hutton et Nancy Hutton ont signé un billet à ordre pour payer 40 238 114 $ à la nouvelle société[77].
+25. Par suite des opérations susmentionnées, les sociétés Holdings et Enterprises étaient les seules actionnaires de l’appelante le 28 septembre 2007 à 1 h[78].
+26. Dans la déclaration de revenus de 2007 d’Engineering, celle‑ci a déclaré un gain en capital de 36 898 853 $ relativement à la disposition des parts qu’elle détenait dans la société de personnes, et une perte en capital de 40 238 014 $ découlant de la disposition des actions ordinaires de catégorie A de la nouvelle société, qu’elle a utilisée pour compenser le gain en capital[79]. Dans son année d’imposition 2007, Engineering a déclaré une perte en capital totale de 3 026 946 $ comprenant d’autres gains en capital et pertes en capital qui ne sont pas en cause en l’espèce.
+27. Engineering a déclaré un revenu de placement global de 135 123 $ dans son année d’imposition 2007, et une portion remboursable de 38 219 $ de l’impôt de la partie I[80].
+28. Engineering avait une dette fiscale de 4 105 $ au titre de la partie IV relativement à des dividendes imposables qu’elle avait reçus dans son année d’imposition 2007, et elle avait droit à un remboursement au titre de dividende de 47 157 $ en application du paragraphe 129(1) de la LIR concernant le dividende imposable de 21 947 556,76 $ qu’elle avait déclaré et payé sur ses actions ordinaires de catégorie A[81].
+29. Dans leurs déclarations de revenus pour 2007, Enterprises et Holdings ont déduit les dividendes imposables qu’elles avaient chacune reçus d’Engineering au titre de l’article 112 de la LIR[82].
+30. En outre, dans leurs déclarations de revenus pour 2007 :
+a) Enterprises a déclaré un impôt de 847 444 $ payable au titre de la partie IV, dont 19 110 $ découlaient d’un dividende imposable reçu d’Engineering dans son année d’imposition 2007[83];
+b) Holdings a déclaré un impôt de 971 724 $ payable au titre de la partie IV, dont 19 110 $ découlaient d’un dividende imposable reçu d’Engineering dans son année d’imposition 2007[84].
+31. Le ministre du Revenu national (le « ministre ») a initialement établi des cotisations pour l’année d’imposition 2007 à l’égard d’Enterprises, de Holdings et d’Engineering le 8 avril 2008, le 9 avril 2008 et le 10 avril 2008, respectivement[85].
+32. Le ministre a établi une nouvelle cotisation à l’égard d’Engineerings pour refuser les pertes en capital de 40 238 014 $ qu’elle avait déduites, compte tenu du fait que la règle générale anti‑évitement énoncée à l’article 245 de la LIR s’appliquait[86].
+33. Le ministre a aussi ajouté le montant de 4 961 476 $ au solde de l’impôt en main remboursable au titre de dividendes d’Engineering en raison du gain en capital que la société avait déclaré dans la même année provenant de la disposition des intérêts qu’elle détenait dans la société de personnes, et elle avait droit à un remboursement au titre de dividendes du même montant[87].
+34. Le ministre a ajouté le montant de 4 309 649 $ à l’impôt payable par Enterprises au titre de la partie IV en application de l’alinéa 186(1)b) de la LIR ainsi qu’un montant correspondant au compte de l’impôt en main remboursable au titre de dividendes d’Enterprises[88].
+35. Le ministre a ajouté le montant de 3 971 225 $ à l’impôt payable par Holdings au titre de la partie IV en application de l’alinéa 186(1)b) de la LIR ainsi qu’un montant correspondant au compte de l’impôt en main remboursable au titre de dividendes de Holdings[89].
+36. Les sociétés Enterprises et Holdings avaient droit chacune à un remboursement de dividende supplémentaire de 1 806 314 $ en fonction des dividendes imposables qu’elles avaient versés à leurs actionnaires, qui avaient été appliqués à leur impôt payable au titre de la partie IV en application du paragraphe 129(2) de la LIR[90].
+Le présent exposé conjoint des faits est daté du 30 avril 2014.
+––––––––––––––––––––
+Me James Yaskowich
+Avocat de l’appelante
+––––––––––––––––––––
+Me David Everett
+Avocat de l’intimée
+RÉFÉRENCE : 2014 CCI 309
+Nos DES DOSSIERS DE LA COUR : 2011-3732(IT)G
+2012-541(IT)G
+2012‑542(IT)G
+2012-543(IT)G
+INTITULÉ : J.K. READ ENGINEERING LTD.,
+J.M. HUTTON ENTERPRISES LTD., J.M. HUTTON HOLDINGS LTD.,
+J.M. HUTTON ENGINEERING LTD. c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATES DE L’AUDIENCE : Le 30 avril et les 1er et 2 mai 2014
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 21 octobre 2014
+COMPARUTIONS :
+Avocat des appelantes :
+Me James C. Yaskowich
+Avocat de l’intimée :
+Me David Everett
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom : James C. Yaskowich
+Cabinet : Felesky Flynn LPP
+Edmonton (Alberta)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les nouvelles cotisations établies à l’égard des sociétés J.M. Hutton Enterprises Ltd. (« Entreprises ») et J.M. Hutton Holdings Ltd. (« Holdings ») découlent du refus des pertes en capital déduites par Hutton. Un montant d’impôt en main remboursable au titre de dividendes (l’« IMRTD ») a été ajouté au solde de l’IMRTD de Hutton pour son année d’imposition 2007 parce que Hutton devait de l’impôt de la partie I sur ses gains en capital. Hutton a versé des dividendes imposables de 10 973 778 $ à Entreprises et à Holdings. Le ministre a accordé à Hutton un remboursement au titre de dividendes et a établi une cotisation d’impôt de la partie IV sur les dividendes susmentionnés. Entreprises et Holdings ont admis qu’elles devaient de l’impôt de la partie IV. Toutefois, elles contestent le calcul des intérêts effectué par le ministre.
+[2] Canada c. Global Equity Fund Ltd, 2012 CAF 272, autorisation de pourvoi à la CSC refusée, 35147 (le 11 avril 2013); 1207192 Ontario Limited c. Canada, 2012 CAF 259, autorisation de pourvoi à la CSC refusée, 35116 (le 28 mars 2013); Triad Gestco Ltd. c. Canada, 2012 CAF 258.
+[3] 2007 CCI 481, confirmée par 2009 CAF 163, confirmé par 2011 CSC 63.
+[4] Observations écrites des appelantes, au paragraphe 2.
+[5] Ibid., au paragraphe 14.
+[6] Ibid., au paragraphe 3.
+[7] Précité, note 3 (CAF), au paragraphe 3.
+[8] 2002 DTC 1254.
+[9] Ibid., au paragraphe 35.
+[10] S.T.B. Holdings Limited c. Canada, 2002 CAF 386.
+[11] Ibid.; demande d’autorisation de pourvoi à la Cour suprême du Canada rejetée, 9517 (27 mars 2003).
+[12] Michael Zander, The Law-Making Process, 4th ed. (London, U.K : Butterworths, 1994), p. 262-263.
+[13] Joyce J. George, Judicial Opinion Writing Handbook, 2nd ed. (Buffalo : William S. Hein, 1986), p. 109.
+[14] En conséquence, on pourrait intuitivement conclure que les remarques incidentes qui ont effectivement l’avantage d’être formulées à l’issue de la mise en opposition de « thèses et d’arguments contraires ou d’un examen minutieux par la cour » pourraient servir de fondement acceptable pour des avis juridiques subséquents.
+[15] Précité, note 12, au paragraphe 263.
+[16] [1980] 1 R.C.S. 527.
+[17] Ibid., aux pages 529 et 530.
+[18] Gisèle Laprise, Les outils du raisonnement et de la rédaction juridiques (Montréal : Thémis, 2000), p. 55.
+[19] Arthur Peltomaa, « Obiter Dictum of the Supreme Court of Canada : Does it Bind Lower Courts? », (1982) 60 R. du B. can. 823, p. 825.
+[20] [2005] 3 R.C.S 609.
+[21] Mathieu Devinat, « The Trouble with Henry : Legal Methodology and Precedents in Canadian Law », (2006) 32 : Queen’s L.J. 278, p. 279.
+[22] Précité, à la note 20, au paragraphe 56.
+[23] Ibid., au paragraphe 57.
+[24] R. v. Prokofiew, 2010 ONCA 423, [2010] G.S.T.C. 87, au paragraphe 20, confirmé par R. c. Prokofiew, 2012 CSC 49, [2012] 2 R.C.S. 639. Voir aussi : Reilly v. British Columbia (Attorney General), 2008 BCCA 167, 2008 10 W.W.R. 287, au paragraphe 69.
+[25] Prokofiew, précité, note 24 (Cour d’appel de l’Ontario), au paragraphe 18 (citant Henry, précité, note 20, au paragraphe 57).
+[26] Ibid.
+[27] Précité, note 8.
+[28] Précité, note 10.
+[29] Précité, note 8, au paragraphe 28.
+[30] Ibid., au paragraphe 35. Je tiens également à souligner que les paragraphes 245(6) à (8) de la Loi sont demeurés inchangés depuis leur adoption en 1988.
+[31] Ibid., au paragraphe 15.
+[32] Précité, note 10, au paragraphe 23.
+[33] Ibid., au paragraphe 15.
+[34] Ibid.
+[35] http://www.oed.com/search?searchType=dictionary&q=following&_searchBtn=Search.
+[36] http://www.merriam-webster.com/dictionary/following.
+[37] Le Nouveau Petit Robert, 2008, sous l’entrée « suite ».
+[38] http://www.larousse.fr/dictionnaires/francais/suite/75305/locution?q=par+suite+de#175502.
+[39] 2000 DTC 6001, au paragraphe 44.
+[40] Avis d’appel, au paragraphe 3, réponse modifiée, au paragraphe 3.
+[41] Avis d’appel, au paragraphe 4, réponse modifiée, aux paragraphes 4 et 14a).
+[42] Réponse modifiée, au paragraphe 14b).
+[43] Réponse modifiée, au paragraphe 5.
+[44] Avis d’appel, au paragraphe 10, réponse modifiée, aux paragraphes 7 et 14g).
+[45] Réponse modifiée, au paragraphe 14c).
+[46] Réponse modifiée, au paragraphe 14d).
+[47] Réponse modifiée, aux paragraphes 6 et 14e).
+[48] Réponse modifiée, aux paragraphes 7 et 14f).
+[49] Réponse modifiée, aux paragraphes 8 et 14h).
+[50] Réponse modifiée, aux paragraphes 8 et 14h).
+[51] Réponse modifiée, aux paragraphes 8 et 14i).
+[52] Réponse modifiée, aux paragraphes 5,9 et 14j).
+[53] Réponse modifiée, aux paragraphes 10 et 11.
+[54] Avis d’appel d’Engineering, aux paragraphes 3 et 5, réponse d’Engineering, au paragraphe 4; avis d’appel d’Enterprises, aux paragraphes 3, 6 et 7, réponse d’Enterprises, au paragraphe 3; avis d’appel de Holdings, aux paragraphes 3, 6 et 7, réponse de Holding, au paragraphe 3.
+[55] Avis d’appel d’Engineering, aux paragraphes 3 et 5, réponse d’Engineering, au paragraphe 4; avis d’appel d’Enterprises, aux paragraphes 3, 6 et 7, réponse d’Enterprises, aux paragraphes 3 et 18d); avis d’appel de Holdings, aux paragraphes 3, 6 et 7, réponse de Holding, aux paragraphes 3 et 18d).
+[56] Réponse d’Engineering, au paragraphe 17a).
+[57] Réponse d’Enterprises, au paragraphe 4.
+[58] Réponse de Holdings, au paragraphe 4.
+[59] Réponse d’Enterprises, au paragraphe 5; réponse de Holdings, au paragraphe 5.
+[60] Réponse d’Enterprises, au paragraphe 18h); réponse de Holdings, au paragraphe 18h).
+[61] Réponse d’Engineering, au paragraphe 17b).
+[62] Avis d’appel d’Engineering, au paragraphe 14, réponse d’Engineering, aux paragraphes 8 et 17g); avis d’appel d’Enterprises, au paragraphe 15, réponse d’Enterprises, au paragraphe 9; avis d’appel de Holdings, au paragraphe 15, réponse de Holdings, au paragraphe 9.
+[63] Réponse d’Engineering, au paragraphe 5; réponse d’Enterprises, au paragraphe 6; réponse de Holdings, au paragraphe 6.
+[64] Réponse d’Engineering, au paragraphe 17c); recueil de documents de l’intimée, onglet 11.
+[65] Réponse d’Engineering, au paragraphe 17d).
+[66] Réponse d’Engineering, aux paragraphes 6 et 17e); réponse d’Enterprises, au paragraphe 7; réponse de Holdings, au paragraphe 7.
+[67] Réponse d’Engineering, aux paragraphes 8 et17f); réponse d’Enterprises, au paragraphe 9; réponse de Holdings, au paragraphe 9.
+[68] Réponse d’Engineering, aux paragraphes 7 et17h)(i); réponse d’Enterprises, au paragraphe 8; réponse de Holdings, au paragraphe 8.
+[69] Réponse d’Engineering, aux paragraphes 9 et17h)(ii); réponse d’Enterprises, au paragraphe10; réponse de Holdings, au paragraphe 10.
+[70] Réponse d’Engineering, aux paragraphes 9 et 17h)(ii); réponse d’Enterprises, au paragraphe10; réponse de Holdings, au paragraphe 10.
+[71] Avis d’appel d’Engineering, au paragraphe 15, réponse d’Engineering, aux paragraphes 9 et 17h)(iii); avis d’appel d’Enterprises, au paragraphe 16, réponse d’Enterprises, au paragraphe 10; avis d’appel de Holdings, au paragraphe 16, réponse de Holdings, au paragraphe 10.
+[72] Avis d’appel d’Engineering, au paragraphe 15, réponse d’Engineering, aux paragraphes 9 et 17h)(iv); avis d’appel d’Enterprises, au paragraphe 16, réponse d’Enterprises, aux paragraphes 10 et 18e); avis d’appel de Holdings, au paragraphe 16, réponse de Holdings, aux paragraphes 10 et 8e).
+[73] Réponse d’Enterprises, au paragraphe18e); réponse de Holdings, au paragraphe 18e).
+[74] Réponse d’Engineering, au paragraphe 17h)(v).
+[75] Avis d’appel d’Engineering, au paragraphe 15, réponse d’Engineering, aux paragraphes 9 et 17h)(iv); avis d’appel d’Enterprises, au paragraphe 16, réponse d’Enterprises, au paragraphe 10; avis d’appel de Holdings, au paragraphe 16, réponse de Holdings, au paragraphe 10.
+[76] Réponse d’Engineering, au paragraphe 17h)(vii).
+[77] Réponse d’Engineering, au paragraphe 17h)(viii).
+[78] Avis d’appel d’Engineering, au paragraphe 12, réponse d’Engineering, au paragraphe 1; avis d’appel d’Enterprises, au paragraphe 13, réponse d’Enterprises, au paragraphe 1; avis d’appel de Holdings, au paragraphe 13, réponse de Holdings, au paragraphe 1.
+[79] Réponse d’Engineering, aux paragraphes 5, 10 et17i); réponse d’Enterprises, aux paragraphes 6, 11 et 18a); réponse de Holdings, aux paragraphes 6, 11 et 18a).
+[80] Réponse d’Enterprises, au paragraphe 12; réponse de Holdings, au paragraphe 12.
+[81] Réponse d’Enterprises, au paragraphe 12; réponse de Holdings, au paragraphe 12.
+[82] Réponse d’Enterprises, au paragraphe 18f); réponse de Holdings, au paragraphe 18f).
+[83] Avis d’appel d’Enterprises, au paragraphe 20, réponse d’Enterprises, au paragraphe 12.
+[84] Avis d’appel de Holdings, au paragraphe 20, réponse de Holdings, au paragraphe 12.
+[85] Recueil de documents de l’intimée, onglets 1, 3 et 5.
+[86] Réponse d’Engineering, au paragraphe 11; réponse d’Enterprises, au paragraphe 13; réponse de Holdings, au paragraphe 13.
+[87]Avis d’appel d’Enterprises, au paragraphe 22, réponse d’Enterprises, aux paragraphes 13 et 18g); avis d’appel de Holdings, au paragraphe 22, réponse de Holdings, aux paragraphes13 et 18g).
+[88] Avis d’appel d’Enterprises, au paragraphe 23, réponse d’Enterprises, au paragraphe 14.
+[89] Avis d’appel de Holdings, au paragraphe 23, réponse de Holdings, au paragraphe 14.
+[90]Avis d’appel d’Enterprises, au paragraphe 23, réponse d’Enterprises, au paragraphe 14; avis d’appel de Holdings, au paragraphe 23, réponse de Holdings, au paragraphe 14.

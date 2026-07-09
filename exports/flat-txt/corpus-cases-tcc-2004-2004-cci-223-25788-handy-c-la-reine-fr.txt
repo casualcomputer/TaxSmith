@@ -1,0 +1,139 @@
+Title: Handy c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25788/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-223-25788-handy-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-03-18
+
+# Handy c. La Reine
+
+- Citation: 2004 CCI 223
+- Decision date: 2004-03-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3798, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Handy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-18
+Référence neutre
+2004 CCI 223
+Numéro de dossier
+2003-2968(IT)I
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2968(IT)I
+ENTRE :
+MARC L. HANDY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 14 janvier 2004 à Toronto (Ontario)
+Devant : L’honorable juge A.A. Sarchuk
+Comparutions :
+Avocat de l’appelant :
+Me Peter S. Boultbee
+Avocat de l’intimée :
+Me A'Amer Ather
+____________________________________________________________________
+JUGEMENT
+L’appel concernant la cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour que celui‑ci fasse un nouvel examen et qu’il établisse une nouvelle cotisation en fonction du fait que dans le calcul de son revenu, l’appelant a le droit de déduire le montant de 4 260,26 $ en dépenses d’emploi pour des frais d’abonnement.
+L’appel concernant la cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est rejeté.
+Signé à Ottawa, Canada, ce 18e jour de mars 2004.
+« A.A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 31e jour de mars 2005.
+Colette Dupuis-Beaulne, traductrice
+Référence : 2004TCC223
+Date : 20040318
+Dossier : 2003-2968(IT)I
+ENTRE :
+MARC L. HANDY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sarchuk
+[1] Les appels interjetés par Marc L. Handy concernent les cotisations établies pour les années d’imposition 2000 et 2001. La question en litige pour chacune de ces années est la déductibilité de certaines dépenses d’emploi supportées par l’appelant.
+[2] Au cours des périodes dont il est question ici, l’appelant était un employé de BMO Nesbitt Burns Inc., où il occupait un poste de courtier en valeurs mobilières, et sa rémunération consistait en commissions fixées par rapport au volume des ventes effectuées ou aux contrats négociés. En tant qu’employeur, Nesbitt Burns imposait certaines conditions. Voici celles qui s’appliquent particulièrement aux appels dont il est question :
+a) selon son contrat, l’employé devait payer ses propres dépenses;
+b) il ne recevait pas d’allocation ou de remboursement pour les dépenses supportées pour gagner son revenu d’emploi;
+c) il devait payer les autres dépenses, comme les frais de promotion et de représentation;
+d) il devait payer une adjointe et acheter les fournitures dont celle‑ci avait besoin pour effectuer son travail[1].
+[3] Conformément à l’entente conclue, Nesbitt Burns a embauché un employé devant agir comme l’adjointe de l’appelant dans les années d’imposition en cause. Le contrat de travail[2] de l’adjointe indique formellement son poste comme un poste d’adjointe de direction de l’appelant et, en ce qui a trait à son salaire, stipule ce qui suit :
+[…] Ce salaire et tous les avantages connexes seront déduits de la production mensuelle de votre conseiller en placements (Marc Handy) et ne relèvent pas de la compagnie.
+En application de cette entente, le salaire et les avantages de l’adjointe étaient imputés à l’appelant et étaient déduits du revenu de commissions de celui‑ci. De plus, si le revenu de commissions gagné n’était pas suffisant pour couvrir le salaire de l’adjointe (comme cela a été le cas à quelques reprises), l’appelant devait verser le manque à gagner à Nesbitt Burns.[3] Par exemple, en date du 1er août 2000, les commissions gagnées par l’appelant s’élevaient à 20 042,50 $, alors que le total cumulatif du salaire de l’adjointe, des paiements pour les fournitures provenant de l’employeur, comme Genisys (un programme informatique à l’interne), des services de messagerie et des articles de papeterie, s’élevait à 22 740,48 $[4]. En l’occurrence, le manque à gagner était de 2 697,98 $ et il a été versé à Nesbitt Burns par l’appelant le 8 août 2000[5].
+[4] Pour les années d’imposition 2000 et 2001, Nesbitt Burns a délivré des feuillets T4A à l’appelant pour des montants de revenu d’emploi net de 4 379,83 $ et de 7 488,88 $[6]. Ces montants ont été déclarés par l’appelant comme des revenus de commissions dans ses déclarations de revenus. Dans le calcul de ses revenus pour ces années-là, l’appelant a déduit les montants de 30 631,21 $ et de 14 606,98 $ respectivement, comme autres dépenses d’emploi[7]. Le ministre du Revenu national (le ministre) a établi une cotisation dans laquelle la déduction d’une part de 20 093 $ et de 3 063 $ respectivement de ces montants a été refusée. En conséquence de ce qui précède, le ministre a déterminé que l’appelant avait le droit de déduire de ses revenus pour les deux années d’imposition en question les montants suivants :
+2000
+2001
+dépenses n’excédant pas le revenu de commissions
+4 379,83 $
+7 488,88 $
+déduction pour amortissement
+4 400,00
+3 448,00
+fournitures
+1 803,38
+607,10
+10 538,21
+11 543,98
+Position de l’intimée
+[5] Les dépenses d’emploi ont été refusées par le ministre parce qu’elles n’étaient pas des dépenses engagées ou effectuées dans le but de gagner un revenu d’emploi visé par l’alinéa 8(1)f) et, plus précisément, qu’il s’agissait de montants qui dépassaient les commissions gagnées par l’appelant au cours des années en question.
+Position de l’appelant
+[6] Le représentant de l’appelant a affirmé que la principale question en litige dans l’appel était le montant de revenu de commissions gagné par l’appelant, pour ce qui est des limites prévues à l’alinéa 8(1)f) de la Loi de l’impôt sur le revenu. Il a fait valoir que :
+Un contribuable dont la rémunération consistait en tout ou en partie en commissions a le droit de déduire les coûts d’un adjoint en application de l’alinéa 8(1)i) et d’autres dépenses en application de l’alinéa 8(1)f). Une déduction faite en vertu de l’alinéa 8(1)f) est clairement limitée au revenu de commissions, mais l’alinéa 8(1)i) ne contient pas de règle semblable ou il n’y a pas de règle semblable qui s’applique à cet alinéa.
+Le sous-alinéa 8(1)i)(ii) permet la déduction des coûts d’un adjoint. Le contribuable assume les coûts d’un adjoint, et ce montant est déduit de son revenu de commissions. La déduction faite en application de l’alinéa 8(1)f) est limitée au revenu de commissions, et le contribuable soutient que, à cette fin, ses revenus de commissions de 2000 et de 2001 devraient être majorés par le montant du salaire de son adjointe. Sinon, cela signifierait que le salaire fait partie du total des dépenses qui sont limitées au revenu de commissions, contrairement à l’alinéa 8(1)i). Il importe peu, pour l’application de l’alinéa 8(1)f), si le salaire est déduit des commissions ou si le contribuable écrit un chèque pour le montant du salaire. Le fond et le résultat sont les mêmes. Le revenu de commissions est le montant gagné par le contribuable, quelle que soit la façon dont il est indiqué dans le formulaire T4.
+[7] Également, l’appelant s’opposait à la réduction établie par le ministre de sa déduction pour les fournitures, qui est passée de 6 084,01 $ à 1 803,38 $ pour l’année d’imposition 2000. De ce qui a été refusé, le montant de 4 260,26 $ est litigieux et représente les frais supportés par l’appelant pour l’abonnement à un certain nombre de services divers de sélection d’actions et d’autres frais d’abonnement semblables. La position de l’appelant est qu’il utilisait les services et les documents concernés pour sélectionner les placements de clients de qui il recevait son revenu de commissions. Une mention particulière a été faite d’un document décrit comme étant le Wall Street Strategies qui, selon l’appelant, était nécessaire parce que les recherches faites par Nesbitt Burns en matière de valeurs mobilières américaines étaient faibles.
+Conclusion
+[8] En ce qui a trait aux observations de l’appelant concernant l’article 8 de la Loi de l’impôt sur le revenu, les dispositions qui s’appliquent sont les suivantes :
+8(1) Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant:
+f) lorsque le contribuable a été, au cours de l’année, employé pour remplir des fonctions liées à la vente de biens ou à la négociation de contrats pour son employeur, et lorsque, à la fois :
+(i) il était tenu, en vertu de son contrat, d’acquitter ses propres dépenses,
+(ii) il était habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur,
+(iii) sa rémunération consistait en tout ou en partie en commissions ou autres rétributions semblables fixées par rapport au volume des ventes effectuées ou aux contrats négociés,
+(iv) il ne recevait pas, relativement à l’année d’imposition, une allocation pour frais de déplacement qui, en vertu du sous-alinéa 6(1)b)(v), n’était pas incluse dans le calcul de son revenu,
+les sommes qu’il a dépensées au cours de l’année pour gagner le revenu provenant de son emploi (jusqu’à concurrence des commissions ou autres rétributions semblables fixées de la manière prévue au sous-alinéa (iii) et reçues par lui au cours de l’année) dans la mesure où ces sommes n’étaient pas :
+(v) des dépenses, des pertes ou des remplacements de capital ou des paiements au titre du capital, exception faite du cas prévu à l’alinéa j),
+(vi) des dépenses qui ne seraient pas, en vertu de l’alinéa 18(1)l), déductibles dans le calcul du revenu du contribuable pour l’année, si son emploi relevait d’une entreprise exploitée par lui;
+(vii) des montants dont le paiement a entraîné la réduction du montant qui serait inclus par ailleurs dans le calcul du revenu du contribuable pour l’année en application de l’alinéa 6(1)e);
+i) dans la mesure où il n’a pas été remboursé et n’a pas le droit d’être remboursé à cet égard, les sommes payées par le contribuable au cours de l’année au titre :
+(i) des cotisations annuelles de membre d’association professionnelle dont le paiement était nécessaire pour la conservation d’un statut professionnel reconnu par la loi,
+(ii) du loyer de bureau ou du salaire d’un adjoint ou remplaçant que le contrat d’emploi du cadre ou de l’employé obligeait à payer,
+(iii) du coût des fournitures qui ont été consommées directement dans l’accomplissement des fonctions de la charge ou de l’emploi et que le contrat d’emploi du cadre ou de l’employé l’obligeait à payer,
+(iv) des cotisations annuelles requises pour demeurer membre d’un syndicat au sens de :
+(A) l’article 3 du Code canadien du travail,
+(B) toute loi provinciale prévoyant des enquêtes sur les conflits du travail, la conciliation ou le règlement de ceux-ci,
+ou pour demeurer membre d’une association de fonctionnaires dont le principal objet est de favoriser l’amélioration des conditions d’emploi ou de travail des membres,
+(v) des cotisations annuelles qui ont été, conformément aux dispositions d’une convention collective, retenues par son employeur sur sa rémunération et versées à un syndicat ou une association visés au sous-alinéa (iv) et dont le contribuable n’était pas membre,
+(vi) des cotisations, à un comité paritaire ou consultatif ou à un groupement semblable, dont la législation d'une province prévoit le paiement en raison de l'emploi que le contribuable exerce pour l'année;
+(vii) des cotisations versées à un office des professions et dont le paiement est prévu par les lois d'une province.
+[9] Je ne peux pas accepter l’argument qui veut que l’appelant ait le droit de « majorer » son revenu pour les deux années d’imposition en cause par le montant du salaire de son adjointe afin qu’il corresponde aux dispositions des alinéas 8(1)f) et 8(1)i). Selon moi, la déduction à laquelle il a droit correspond seulement aux dispositions de l’alinéa 8(1)f). Le libellé de cet alinéa indique clairement que le personnel de vente dont la rémunération consiste en commissions ou autres rétributions semblables fixées par rapport au volume des ventes effectuées ont droit à des déductions additionnelles qui sont semblables à certaines des déductions qui peuvent être faites du revenu d’entreprise telles que pour les frais de déplacement, les repas, le salaire d’adjoints, et les frais de représentation et de promotion. Également, il est clair que le Parlement a sciemment limité le montant de telles déductions au montant total des commissions gagnées. Je ne suis pas convaincu qu’il soit nécessaire d’adopter une autre approche. Par conséquent, la cotisation établie par le ministre pour ce qui est de l’élément dont il est question ici est confirmée.
+[10] Je passe maintenant à la question des frais d’abonnement. La position de l’intimée était que ces frais ont été refusés à juste titre en fonction du fait qu’ils avaient un caractère de capital et n’avaient pas été supportés dans le but de gagner ou de produire un revenu de biens. Je n’appuie pas la cotisation établie. Il n’est pas contesté qu’un contribuable ne puisse pas déduire de tels frais si le contribuable les a supportés pour l’achat de valeurs et d’obligations à son propre compte et s’ils n’ont pas servi à l’achat et à la vente de placements pour d’autres. Cependant, dans le cas dont il est question ici, l’achat des publications, et particulièrement l’abonnement au Wall Street Strategies, a été fait uniquement dans le but d’aider l’appelant à bien gérer le portefeuille de ses clients, et non pour lui permettre de constituer son propre portefeuille de placements dans des actions. Étant donné que l’appelant gagnait son revenu grâce à l’examen, à l’achat, à la vente et à la détention de divers placements pour ses clients, les abonnements étaient nécessaires. Je suis convaincu que dans les circonstances, les frais d’abonnement peuvent être considérés seulement comme des dépenses courantes, étant donné que la gestion des portefeuilles de ses clients était directement liée à ses activités productives de revenu.
+[11] L’appel concernant la cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est accueilli, et l’appelant peut déduire le montant de 4 260,26 $ en frais d’abonnement. L’appel concernant la cotisation établie en application de la Loi pour l’année d’imposition 2001 est rejeté.
+Signé à Ottawa, Canada, ce 18e jour de mars 2004.
+« A.A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 31e jour de mars 2005.
+Colette Dupuis-Beaulne, traductrice
+[1] Voir pièces A-3 et A-4.
+[2] Pièce A-5.
+[3] Voir pièces A-2, A-9 et A-10.
+[4] Voir pièce Exhibit A-9.
+[5] Pièce A-2.
+[6] Je note ici que les revenus de commissions totaux de l’appelant pour ces deux années étaient de 38 880 $ et de 39 114 $ respectivement, desquels l’employeur a déduit le salaire de l’adjointe et les autres dépenses de 34 500 $ et de 31 526 $.
+[7] Paragraphe 8 d) de la réponse de l’intimée à l’avis d’appel.

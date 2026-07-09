@@ -1,0 +1,171 @@
+---
+title: "Alsaadi c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27749/index.do"
+last_modified: "2007-03-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 384"
+citation2: ""
+neutral_citation: "2007 CCI 384"
+decision_date: "2007-03-20"
+language: "fr"
+item_id: "27749"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 302
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:51:03.299000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c241b6f90c5e8c9c2b6a762ead1fc4892a37190ede6e7c14670f3d665d8e6901"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Alsaadi c. La Reine
+
+- Citation: 2007 CCI 384
+- Decision date: 2007-03-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 302, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alsaadi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-20
+Référence neutre
+2007 CCI 384
+Numéro de dossier
+2006-902(IT)I
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-902(IT)I
+ENTRE :
+TARIK ALSAADI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 20 mars 2007, à Toronto (Ontario).
+Devant : L’honorable juge M.A. Mogan
+Comparutions :
+Représentant de l’appelant :
+Costa A. Abinajem
+Avocat de l’intimée :
+Me John Gibb-Carsley
+____________________________________________________________________
+JUGEMENT
+Les appels à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 sont rejetés.
+Signé à Ottawa, Canada, ce 28e jour de juin 2007.
+« M.A. Mogan »
+Juge suppléant Mogan
+Traduction certifiée conforme
+ce 17e jour d’août 2007
+Johanne Brassard, trad. a.
+Référence : 2007CCI384
+Date : 20070628
+Dossier : 2006-902(IT)I
+ENTRE :
+TARIK ALSAADI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Mogan
+[1] Au cours de chacune des années d’imposition 2002 et 2003, l’appelant avait un bon emploi dans la ville de Mississauga, gagnant un revenu d’emploi de plus de 60 000 $. Dans le calcul de son revenu pour ces deux années, l’appelant a déduit un montant qu’il a qualifié de perte à l’égard d’une entreprise qu’il avait démarrée en 2000 et continué d’exploiter pendant une période de six ans jusqu’en 2005. Revenu Canada a établi de nouvelles cotisations à l’égard de l’appelant et refusé la déduction des montants réclamée à titre de perte d’entreprise et l’appelant a interjeté appel de ces nouvelles cotisations devant cette Cour. Il a choisi la procédure informelle.
+[2] Les montants visés sont importants. Pour l’année 2002, l’appelant avait un revenu d’emploi de l’ordre de 65 000 $ à 75 000 $ et il a déduit une perte d’entreprise de 17 083 $. Pour 2003, il a encore eu un revenu d’emploi du même ordre et a déduit une perte d’entreprise de 23 371 $.
+[3] Pour résumer le contexte, l’appelant et son épouse sont arrivés au Canada en provenance de Syrie en 1996, revendiquant le statut de réfugié. Son admissibilité au statut d’immigrant reçu a pris du temps et au cours de cette période, il ne pouvait pas voyager, mais il a néanmoins trouvé un emploi peu après son arrivée au Canada. En 2004, il a obtenu le statut d’immigrant reçu et en 2006, il est devenu citoyen canadien. Il a clairement indiqué la grande valeur qu’il attachait à sa citoyenneté canadienne.
+[4] En 2000, l’appelant a enregistré le nom commercial « TH Import/Export » en tant qu’entreprise individuelle en Ontario et il a obtenu un permis d’entreprise ontarien sous ce nom le 15 décembre 2000. Un nom commercial a été créé, mais l’appelant n’a pas constitué de société. Comme le nom l’indique, il voulait exercer des activités d’importation et d’exportation. Il espérait pouvoir être en mesure d’exporter des marchandises vers son pays d’origine, la Syrie, parce qu’il connaissait le genre de choses que les habitants de la Syrie pourraient désirer acheter du Canada et qui ne seraient pas offertes dans leur pays et, inversement, certains produits qui pourraient être achetés à un prix modeste en Syrie et apportés au Canada pour la revente.
+[5] L’incapacité de l’appelant de voyager pendant les années 1996 à 2004 signifiait qu’il ne pouvait retourner en Syrie pour développer un marché, mais qu’il devait travailler depuis le Canada en utilisant le courrier électronique et le téléphone. Après avoir reçu la citoyenneté canadienne, l’appelant s’est rendu en Suède en 2006 et il a rencontré certaines de ses connaissances, mais aucune vente importante n’a découlé de ces rencontres.
+[6] Au cours des années visées par l’appel, il n’y a pas eu de ventes importantes à l’étranger, pas plus qu’il n’y a eu d’indication d’importations importantes de marchandises. Les ventes prétendument réalisées en relation avec cette activité étaient réellement des marchandises achetées dans les environs de Mississauga, en Ontario, et vendues soit principalement au domicile de l’appelant ou à l’occasion d’activités qui avaient lieu dans le voisinage où il habitait. Ce que l’appelant alléguait comme étant le cœur de son entreprise lorsqu’il l’a démarrée (importations/exportations) est une activité qui ne s’est jamais matérialisée en importation de marchandises pour la vente au Canada ou en exportation de marchandises pour la vente à l’extérieur du Canada.
+[7] L’activité que l’appelant a décrite était ce que j’appellerais des ventes intérieures à domicile. Il a indiqué que son épouse et lui offraient ce qu’ils appelaient des réceptions à la maison et, dans le cadre de celles-ci, ils achetaient des marchandises au détail dans des magasins comme Wal-Mart, un fournisseur à rabais bien connu au Canada et aux États-Unis. Ils allaient dans certains magasins qui avaient des soldes spéciaux, plus particulièrement tôt le samedi matin ou tard le dimanche matin, et achetaient des marchandises qui étaient en vente à prix d’aubaine. Ils rapportaient alors ces marchandises à leur domicile et invitaient environ 20 personnes pour ce qu’ils appelaient une fête à domicile et ils vendaient ces articles dans leur résidence.
+[8] L’épouse de l’appelant a également témoigné. Elle a indiqué avoir suivi un cours de comptabilité au Sheridan College, un collège communautaire à Mississauga. Elle dit qu’elle tenait la comptabilité pour cette activité et, plus particulièrement pour ces ventes à domicile, elle inscrivait les articles vendus et les montants reçus. Chaque vente était effectuée au comptant et elle a déclaré qu’elle percevait l’argent et le déposait parfois ou en utilisait une partie pour aller acheter d’autres marchandises. On peut se demander comment elle a pu être en mesure de tenir des comptes, car de manière générale, il faut tenir les livres avec beaucoup de soin pour recevoir de l’argent comptant au cours d’un après-midi ou d’une soirée, et ensuite en utiliser une partie pour des achats commerciaux au cours des jours suivants. Selon son témoignage, elle inscrivait chaque vente dans son livre, mais elle ne l’a pas apporté à la Cour, pas plus qu’il n’y a d’indication de la moindre preuve de tenue de la comptabilité en relation avec cette activité.
+[9] Acheter au détail pour revendre à domicile ne semblait pas une proposition raisonnable. Il ne s’agit là que d’une déduction que je fais en me fondant sur le bon sens, en ce qui concerne des gens qui achètent au détail et vendent au détail dans leur résidence, alors que les personnes invitées à leur domicile peuvent acheter le même produit en se rendant chez Wal-Mart ou à d’autres magasins de détail au moment où ils ont des soldes. De plus, il ne semblait pas y avoir de distinction entre les achats de ce que j’appellerais des marchandises emballées, comme du savon, des céréales, des produits de beauté ou du détersif à lessive, que l’on peut vraiment acheter et être assuré de garder, et l’achat d’autres marchandises comme des vêtements, qui peuvent avoir besoin d’ajustements ou d’être échangés. J’aurais tendance à penser qu’il y aurait une distinction importante dans le marché du détail à propos du genre de produits qu’il est possible d’acheter pour la revente à la maison et de ceux qui ne constituent pas un achat sûr du tout.
+[10] Il n’y a eu aucune preuve de la part de l’appelant et de son épouse, qui ont tous deux témoigné en anglais, bien que leur langue maternelle ne soit pas l’anglais, selon laquelle ils ont fait ces distinctions et étaient attentifs à le faire. Les factures présentées à titre de preuve de leur entreprise étaient à plusieurs égards une preuve de produits ménagers ordinaires qui auraient été achetés pour l’entretien de n’importe quelle maison. L’appelant et son épouse ont trois enfants, âgés de 14 à trois ans, dont le plus jeune est né en 2004.
+[11] J’ai conclu du témoignage de l’appelant et de son épouse que l’activité n’avait pas les caractéristiques d’une entreprise pour diverses raisons. L’une de ces raisons est l’improbabilité d’exploiter une entreprise qui réussit en achetant au détail et en vendant au détail à domicile. Une autre raison est fondée sur la crédibilité. Je n’ai pas cru l’épouse à l’égard de deux ou trois sujets. Elle a dit qu’au début, lorsqu’elle allait chez Wal-Mart ou à un autre magasin où elle achetait des produits d’usage personnel et d’autres produits pour un usage commercial qui se retrouvaient sur la même facture, elle mettait la lettre « P » à côté de l’article pour usage personnel, et les articles d’usage commercial étaient soit encerclés, soit marqués différemment. Dans tous les documents présentés à Revenu Canada, dont certains ont été photocopiés et présentés à la pièce R‑7, il n’y avait aucune indication de cette façon de faire.
+[12] Lorsque j’ai fait cette remarque au représentant qui débattait le présent appel, il a dit que toutes les factures ne comportaient que des achats pour l’entreprise, qui n’avaient donc pas besoin de porter la marque « P ». Si cela est la manière de faire de l’épouse, j’aurais cru qu’au moment où les documents ont été présentés à Revenu Canada, ils auraient tenu à montrer les articles marqués d’un « P » pour usage personnel et les autres marqués d’un cercle pour usage commercial, afin de démontrer combien ils étaient minutieux. Le fait que l’appelant a produit de nombreuses nouvelles factures à la Cour, qui étaient marquées de « P » ou de cercles pour les fins commerciales, n’est pas aussi crédible, car nous ignorons quand la lettre « P » a été inscrite. Elle aurait pu être apposée la fin de semaine dernière. J’aurais conclu que tout cet aspect de la preuve était plus crédible s’il y avait eu des documents présentés à Revenu Canada comportant cette distinction, alors qu’un très grand nombre de factures examinées par Revenu Canada représentaient des articles pour usage domestique ordinaire.
+[13] Le vérificateur de Revenu Canada, qui a également témoigné, a fait ressortir ce qui précède. Il a dit que lorsqu’on lui avait tout d’abord demandé d’examiner les déclarations pour 2002 et 2003, il avait envoyé une lettre à l’appelant le 31 août 2004 lui demandant de fournir des factures, le certificat d’enregistrement de l’entreprise et des dossiers bancaires, et lui demandant aussi de remplir un questionnaire. Environ deux mois plus tard, le 18 novembre, il a eu une rencontre avec l’appelant et son représentant, au cours de laquelle ces éléments ont été discutés, et de nouveau, même alors, dans le questionnaire de 2004, bon nombre de réponses comportaient l’expression importation/exportation comme s’il s’agissait des activités en cours. Mais aujourd’hui, presque toute la preuve devant la Cour porte sur les réceptions à domicile.
+[14] À mon avis, ni l’appelant ni sa femme n’étaient crédibles. Ils ont dit qu’ils donnaient des réceptions à domicile deux fois par mois, environ toutes les deux semaines. Ils invitaient 20 personnes et au moins dix se présentaient. Parfois des gens venaient avec des amis. Cela exige une grande organisation. Des personnes qui vont donner deux réceptions par mois, ou au moins 24 par année, tiendraient à mon avis un journal, un calendrier, ou un livre de rendez-vous. Ils inscriraient la date de ces réceptions, le nombre approximatif d’invités, les coûts de la nourriture le cas échéant (peut-être une commande de pizza). Il y avait une absence totale de ce genre de comptabilité; simplement des déclarations vagues et floues selon lesquelles il y avait des réceptions à la maison et qu’ils faisaient des ventes.
+[15] Ce qui jette réellement un doute sur le cas de l’appelant est qu’il y avait, parmi les dépenses réclamées pour les deux années visées par l’appel, de prétendus frais de gestion versés à l’épouse de l’appelant (8 100 $ en 2002 et 8 700 $ en 2003) parce qu’elle travaillait si fort. La preuve indique qu’elle travaillait plus fort que lui et elle a mentionné le nombre d’heures consacrées à ces activités. L’entreprise était peut-être la sienne et non celle de l’appelant. Peut-être aurait-elle dû être considérée comme la propriétaire. Si l’on prend un peu de recul et que l’on regarde la situation de manière cynique du point vue de l’impôt sur le revenu, il n’est pas très logique qu’elle soit la propriétaire de la prétendue entreprise parce qu’elle ne gagne aucun autre revenu dont j’ai connaissance. En versant à son épouse 8 000 $ par année et en réclamant une perte, les 8 000 $ sont déduits du revenu de l’époux, très généreux puisqu’il est de l’ordre de 65 000 $ à 75 000 $, et le montant est déclaré par l’épouse. Elle a en effet reconnu qu’elle avait présenté des déclarations de revenus déclarant ces montants, mais à moins qu’elle n’ait eu un autre revenu, un tel montant serait pratiquement exempt d’impôt entre ses mains.
+[16] Ce qui rend réellement la rémunération à l’épouse déraisonnable est que pour l’année 2002, alors qu’elle a reçu des honoraires de gestion de 8 100 $, le revenu brut de la prétendue entreprise s’élevait à 1 429 $. En 2003, lorsqu’elle a reçu des honoraires de gestion de 8 700 $, le revenu brut de l’entreprise s’élevait à 3 200 $. Dans une famille étroitement liée et formée de l’époux, de l’épouse et des trois fils, ces montants sont si déraisonnables qu’ils sont tout à fait illogiques sous l’angle de la tentative de démarrage d’une entreprise et de son exploitation pour réaliser un profit.
+[17] Assurément, à ce moment-là, s’ils étaient impatients d’afficher un profit dans cette entreprise, ils auraient estimé que leurs efforts étaient ce que l’on appelle parfois un apport en travail et n’avaient pas besoin de rémunération en argent, ni pour l’époux ou l’épouse. Ce sont ces montants que l’appelant prétend avoir versés à son épouse qui rendent réellement tout ce projet si incroyablement déraisonnable. Je crois qu’il n’y avait pas du tout d’entreprise commerciale ici.
+[18] Selon le témoignage du vérificateur de Revenu Canada, même si une somme de 800 $ a été déduite au titre de la publicité pour l’année 2002, il n’a pu trouver de pièces justificatives pour l’appuyer. Il a également dit qu’il y avait des frais d’intérêts de 980 $, accompagnés de pièces justificatives. Cependant, il n’a pu trouver où l’argent avait été emprunté en relation avec cette entreprise. Évidemment, il a refusé le montant de 8 100 $ payable à l’épouse. Il y avait des dépenses d’automobile de 4 100 $ qui étaient accompagnées d’une pièce justificative, mais il les a refusées en totalité parce qu’il ne pouvait comprendre comment l’entreprise pouvait avoir besoin d’une voiture qui circulait autant pour produire 1 400 $ de revenus.
+[19] L’année 2003 est semblable. Un montant de 642 $ a été déduit au titre de la publicité, mais le vérificateur n’a pu trouver de pièces justificatives pour l’appuyer. En effet, la preuve montre que l’appelant n’avait aucune trace de l’identité de ses clients. Son épouse et lui téléphonaient à des gens, mais il n’y a pas de liste de clients, aucun dossier de sollicitation continue, aucune tenue de registre des personnes qui venaient, de celles qui achetaient, de celles qui étaient fiables, de celles qui étaient susceptibles de revenir pour acheter de nouveau et de celles qu’il ne fallait plus inviter parce qu’elles n’achetaient jamais. En 2003, les frais d’intérêts déduits s’élevaient à 3 144 $. Encore ici, le vérificateur a reconnu qu’il y avait une pièce justificative, mais il a refusé les frais d’intérêts en totalité à titre de dépenses, parce qu’il n’a pu trouver comment l’argent emprunté qui avait entraîné le paiement de ces intérêts était de quelque façon lié à cette prétendue entreprise. Il a évidemment refusé les honoraires de gestion de 8 700 $ versés à l’épouse. Il a constaté que les dépenses d’automobile de 2 512 $ étaient accompagnées d’une pièce justificative, mais il les a refusées en totalité pour les mêmes raisons que celles de l’année précédente. Pourquoi une personne a-t-elle besoin de payer 2 500 $ pour circuler en automobile afin de donner quelque deux réceptions par mois ?
+[20] Si, en pratique, il y avait deux réceptions par mois, et j’ai de sérieux doutes sur à la fois la crédibilité de l’appelant et celle de son épouse concernant la question de savoir s’ils tenaient 24 réceptions par an, le revenu ne le reflète pas. Mais même si les ont tenues, ils auraient dû conclure il y a longtemps que ces réceptions ne constituaient pas un moyen raisonnable de produire un revenu.
+[21] L’arrêt Stuart, récemment rendu par la Cour suprême du Canada, porte sur ce genre d’activité parce qu’il indique, en effet, qu’à moins qu’il ne s’agisse d’un passe-temps, une personne a le droit de déduire des pertes d’entreprise s’il peut être démontré que l’activité entraînant ces pertes a été exercée d’une manière commerciale et possédait les caractéristiques d’une entreprise. Je ne constate pas ce niveau d’activité commerciale ici. Certainement pas suffisamment pour justifier les pertes impliquées.
+[22] L’intimée a présenté en preuve les pertes provenant de la prétendue entreprise et déduites par l’appelant pour les autres années. Les montants sont révélateurs :
+Année
+Revenu total
+Perte
+2000
+375
+7 965
+2001
+Nil
+14 780
+2002
+1 429
+17 083 – en appel
+2003
+3 200
+23 371 – en appel
+2004
+5 242
+13 695
+2005
+6 412
+16 418
+En ce qui a trait aux deux années visées par l’appel, je pourrais signaler qu’en 2003, la perte était plus de sept fois le revenu et qu’en 2002, la perte était d’environ onze fois le revenu. De même, en 2004, le revenu s’élevait à 5 242 $ et la perte déduite était de 13 695 $. En 2005, le revenu s’élevait à 6 412 $, mais la perte était augmentée à 16 419 $. Au cours des six années indiquées ci-dessus, le revenu total était d’environ 16 700 $, et inclut une absence de revenu en 2001, mais les pertes déduites à l’encontre du revenu de l’appelant étaient d’environ 93 300 $. Encore ici, l’ensemble des pertes représente plus de cinq fois le revenu produit au cours de ces années.
+[23] Y compris pendant les années visées par l’appel, il n’y avait pas suffisamment d’activité commerciale ni de caractéristiques commerciales pour que je puisse conclure que l’activité était exercée comme une entreprise. Il me semble qu’au cours des quatre premières années, l’activité avait pour objet de constituer une perte à déduire à l’encontre de ce qui aurait autrement été un salaire élevé entre les mains de l’appelant. Il n’y avait pas de preuve de tenue de livres, de journal, de calendrier, de bordereaux de dépôt réguliers, de compte bancaire distinct; rien pour indiquer que l’appelant et son épouse tentaient de tenir pour cette activité des dossiers de comptabilité distincts de ce que j’appellerais les activités ménagères ordinaires.
+[24] J’accepte sans réserve la crédibilité du vérificateur, M. Patel. Je suis convaincu qu’il a examiné cette affaire de manière professionnelle et avec attention, compte tenu de sa description des factures de magasins tels que Canadian Tire, Home Depot, Wal-Mart, Sears et autres détaillants où se rend une personne dans le cours normal de la tenue d’un ménage familial. Il n’y avait pas de facture indiquant des achats en gros ou des tentatives d’approvisionnement auprès de fournisseurs où les prix auraient été inférieurs au prix de détail.
+[25] À mon avis, l’ensemble de l’activité manquait de crédibilité et ne possédait pas les caractéristiques d’une entreprise. Pour ces motifs, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 28e jour de juin 2007.
+« M.A. Mogan »
+Le juge suppléant Mogan
+Traduction certifiée conforme
+ce 17e jour d’août 2007
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI384
+NO DU DOSSIER DE LA COUR : 2006-902(IT)I
+INTITULÉ : Tarik Alsaadi c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 20 mars 2007
+MOTIFS DU JUGEMENT : L’honorable juge M.A. Mogan
+DATE DU JUGEMENT : Le 28 juin 2007
+COMPARUTIONS :
+Représentant de l’appelant :
+Costa P. Abinajem
+Avocat de l’intimé :
+Me John Gibb-Carsley
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom : S.O.
+Cabinet : S.O.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

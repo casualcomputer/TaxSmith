@@ -1,0 +1,170 @@
+---
+title: "Judy D'Angelo and Peter D'Angelo O-A Shorehaven Terrace Apartments c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28101/index.do"
+last_modified: "2003-08-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 572"
+citation2: ""
+neutral_citation: "2003 CCI 572"
+decision_date: "2003-08-12"
+language: "fr"
+item_id: "28101"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1686
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:53:03.757000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8b9cd4fd47b2919eef758324890abeb92e0484848adb1adc0ced24bf55765342"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Judy D'Angelo and Peter D'Angelo O-A Shorehaven Terrace Apartments c. M.R.N.
+
+- Citation: 2003 CCI 572
+- Decision date: 2003-08-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1686, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Judy D'Angelo and Peter D'Angelo O-A Shorehaven Terrace Apartments c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-08-12
+Référence neutre
+2003 CCI 572
+Numéro de dossier
+2002-4135(EI)
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002‑4135(EI)
+ENTRE :
+JUDY D'ANGELO ET PETER D'ANGELO,
+S/N SHOREHAVEN TERRACE APARTMENTS,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Judy D'Angelo et Peter D'Angelo, s/n Shorehaven Terrace Apartment,
+(2002‑4136(CPP)) le 7 août 2003 à North Bay (Ontario)
+Devant : L’honorable juge en chef adjoint D. G. H. Bowman
+Comparutions
+Représentants des appelants :
+Peter D'Angelo
+Daralynn D'Angelo
+Avocate de l’intimé :
+Me Joanna Hill
+____________________________________________________________________
+JUGEMENT
+Les appels en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi sont rejetés et la décision du ministre relativement à l’appel présenté devant lui en vertu de l’article 91 de la Loi est confirmée.
+Signé à Toronto (Ontario), ce 12e jour d’août 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 2e jour de février 2004.
+Louise‑Marie Leblanc, traductrice
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002‑4136(CPP)
+ENTRE :
+JUDY D'ANGELO ET PETER D'ANGELO,
+S/N SHOREHAVEN TERRACE APARTMENTS,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Judy D'Angelo et Peter D'Angelo, s/n Shorehaven Terrace Apartment,
+(2002‑4135(EI)) le 7 août 2003 à North Bay (Ontario)
+Devant : L’honorable juge en chef adjoint D. G. H. Bowman
+Comparutions
+Représentants des appelants :
+Peter D'Angelo
+Daralynn D'Angelo
+Avocate de l’intimé :
+Me Joanna Hill
+____________________________________________________________________
+JUGEMENT
+L’appel en vertu du paragraphe 28(1) du Régime de pensions du Canada est rejeté et la décision du ministre relativement à l’appel présenté devant lui en vertu de l’article 27 du Régime est confirmée.
+Signé à Toronto (Ontario), ce 12e jour d’août 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 2e jour de février 2004.
+Louise‑Marie Leblanc, traductrice
+Référence : 2003CCI572
+Date : 20030812
+Dossier : 2002‑4135(EI)
+ENTRE :
+JUDY D'ANGELO ET PETER D'ANGELO,
+S/N SHOREHAVEN TERRACE APARTMENTS,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+2002‑4136(CPP)
+ENTRE :
+JUDY D'ANGELO ET PETER D'ANGELO,
+S/N SHOREHAVEN TERRACE APARTMENTS,
+appelants,
+Et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman
+[1] Les présents appels ont été interjetés à l’encontre des décisions prises en vertu de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada selon lesquelles Sherri L. Chapple occupait un emploi assurable et ouvrant droit à pension lorsqu’elle travaillait pour les appelants pendant la période allant du 1er janvier 2001 au 20 décembre 2001. Une décision semblable a été prise le 22 février 2003 pour la période allant du 1er février 1999 au 31 décembre 2000, mais il n’y a eu aucun appel, probablement parce que la demande de décision n’avait pas été présentée à temps. De toute façon, l’avocate de l’intimé m’a informé que le ministre, en raison d’une politique administrative, examinerait de nouveau les périodes susmentionnées si la décision liée à l’appel en l’espèce est en faveur des appelants.
+[2] Les appelants vivent à Toronto et sont propriétaires d’un immeuble d’habitation de 44 unités à North Bay. Sherri Chapple (« Sherri ») et son conjoint Michael Cameron (« Mike ») logeaient dans cet immeuble. Les appelants avaient besoin d’un surintendant parce que le surintendant à l’époque devait partir et qu’il fallait quelqu’un pour le remplacer. À l’automne 1998, ils ont demandé à Sherri et à Mike d’accepter cette tâche et le 8 janvier 1999, les appelants ont signé une entente avec Sherri que l’on a nommé un « contrat de conciergerie ». On a joint à cette entente un programme de trois pages décrivant les tâches de Sherri.
+[3] Dans cette entente, Sherri acceptait la tâche de surintendant de l’immeuble. Elle devait voir au confort des locataires, à l’entretien et à la sécurité de l’immeuble de même qu’à l’entretien de la cour et de tous les systèmes; elle effectuait les petites réparations et rénovations, y compris des travaux de plomberie, d’électricité, de mécanique et de menuiserie, de peinture et la rénovation de chambre de bain. Elle recevait une rémunération mensuelle de 750 $ et un appartement gratuit.
+[4] Bien qu’il n’ait pas signé le contrat, toutes les parties avaient compris que le contrat visait également Mike. Pendant la période où il était là, Mike s’occupait des travaux extérieurs, de la peinture et de certains travaux de plomberie pendant que Sherri s’occupait du ménage et des relations avec les locataires.
+[5] Mike a quitté Sherri en décembre 1999 en raison de problèmes conjugaux. Il est revenu habiter avec Sherri en 2002 après que cette dernière avait quitté l’appartement et le poste de concierge.
+[6] Pendant que Mike vivait avec Sherri, ils se partageaient les tâches plus ou moins également. La raison pour laquelle il n’a pas signé le contrat était qu’il recevait une pension d’invalidité et craignait que, si on le voyait travailler pour les appelants, il n’y serait plus admissible.
+[7] Après son départ, Mike revenait de temps à autre pour aider Sherri à effectuer certains travaux, mais essentiellement, Sherri était entièrement responsable des tâches. À l’occasion, un ami de Sherri, Robert Gauthier, venait l’aider à effectuer certains travaux. Les appelants le payaient séparément pour le travail accompli.
+[8] La relation entre Sherri et les appelants s’est détériorée. Certaines de ses tâches ont été offertes en sous‑traitance à d’autres personnes et finalement Sherri est partie. Le désaccord venait du fait que Sherri avait demandé aux appelants une paye de vacances qu’ils ont refusé de lui verser disant qu’elle était une entrepreneure autonome. L’affaire a été présentée devant la Commission des relations de travail de l’Ontario qui a ordonné aux appelants de payer une somme de 2 056,73 $. Finalement, les parties se sont entendues pour la moitié de ce montant. Cependant, l’Agence des douanes et du revenu du Canada a eu vent de la dispute, et la décision prise est maintenant contestée devant la Cour.
+[9] La question en litige bien sûr est la suivante : Sherri était‑elle une employée des appelants ou était‑elle une entrepreneure autonome, ou en d’autres termes, son contrat avec les appelants était-il un contrat de louage de services ou un contrat d’entreprise?
+[10] Dans une observation minutieuse et bien préparée, les appelants ont présenté un certain nombre de points qui, selon eux, appuyaient leur position voulant que Sherri était une entrepreneure autonome :
+a) l’absence de supervision de leur part étant donné qu’ils vivaient à Toronto;
+b) le fait que le contrat visait essentiellement Sherri et Mike;
+c) le fait qu’elle était libre d’accepter d’autres contrats de ménage, par exemple pour ERB Transport ou Jackman Flowers;
+d) le fait que ses heures de travail étaient relativement flexibles, elle pouvait accomplir ses différentes tâches quand elle le voulait.
+[11] Il n’existe pas de règles strictes pour prendre une décision quant à ces questions en litige. Chaque affaire repose sur les faits qui y sont propres. Certains facteurs peuvent indiquer une chose, et d’autres facteurs peuvent en indiquer une autre. Il faut accorder à chaque facteur sa propre valeur dans le contexte de l’ensemble de la relation. Dans l’arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F., le juge MacGuigan a établi un critère composé de quatre parties intégrantes, mais il a reconnu qu’il n’existait pas une seule interprétation possible.
+[12] Dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, le juge Major, s’exprimant au nom de la Cour, a affirmé ce qui suit aux paragraphes 46, 47 et 48 :
+À mon avis, aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Lord Denning a affirmé, dans l'arrêt Stevenson Jordan, précité, qu'il peut être impossible d'établir une définition précise de la distinction (p. 111) et, de la même façon, Fleming signale que [TRADUCTION] « devant les nombreuses variables des relations de travail en constante mutation, aucun critère ne semble permettre d'apporter une réponse toujours claire et acceptable » (p. 416). Je partage en outre l'opinion du juge MacGuigan lorsqu'il affirme – en citant Atiyah, op. cit., p. 38, dans l'arrêt Wiebe Door, p. 563 – qu'il faut toujours déterminer quelle relation globale les parties entretiennent entre elles :
+[TRADUCTION] [N]ous doutons fortement qu'il soit encore utile de chercher à établir un critère unique permettant [page 1005] d'identifier les contrats de louage de services [...] La meilleure chose à faire est d'étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s'appliquent pas dans tous les cas et n'ont pas toujours la même importance. De la même façon, il n'est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui‑même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire.
+[13] Certains des facteurs mentionnés sont le contrôle, la propriété des instruments de travail, la chance de profit et le risque de perte ainsi que l’intégration. Le dernier facteur, l’intégration, n’a jamais constitué un critère particulièrement utile ou significatif, du moins dans le contexte des affaires que nous devons examiner en vertu de la Loi sur l’assurance‑emploi ou du Régime de pensions du Canada.
+[14] En ce qui concerne les autres facteurs, Sherri recevait une rémunération mensuelle. Elle n’était pas libre de son temps : elle devait être en disponibilité ou dans l’immeuble pendant une grande partie de la journée, elle accomplissait ses tâches de nettoyage pour d’autres employeurs la fin de semaine ou le soir, les appelants fournissaient presque tous les outils et son salaire était le même qu’il y ait ou non des appartements libres. Bien que les appelants n’exerçaient pas une supervision directe, on lui a donné un ensemble de règles particulières à suivre. Je ne crois pas que l’autonomie relative dont elle profitait soit contraire à une relation d’employeur‑employé. C’était le genre d’autonomie dont bénéficie tout employé fiable et qualifié. Même en appliquant les critères « habituels », qu’ils soient appliqués individuellement ou cumulativement, elle demeure une employée. Plus important encore, l’ensemble de la relation révèle les caractéristiques habituelles d’un emploi.
+[15] Les appels sont rejetés.
+Signé à Toronto (Ontario), ce 12e jour d’août 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 2e jour de février 2004.
+Louise‑Marie Leblanc, traductrice

@@ -1,0 +1,202 @@
+---
+title: "Szollosi Bens v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30342/index.do"
+last_modified: "2011-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 240"
+citation2: ""
+neutral_citation: "2011 TCC 240"
+decision_date: "2011-05-05"
+language: "en"
+item_id: "30342"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8046
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:37:03.864000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "940ec76745376a1b51712dcf54db271527271f26357d0d0ac9f79f8bd9f01e48"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Szollosi Bens v. The Queen
+
+- Citation: 2011 TCC 240
+- Decision date: 2011-05-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8046, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Szollosi Bens v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-05-05
+Neutral citation
+2011 TCC 240
+File numbers
+2008-2842(IT)G, 2009-2661(GST)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2842(IT)G
+BETWEEN:
+JAMES SZOLLOSI BENS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard together with the motion of
+James Szollosi Bens, (2009-2661(GST)G)
+on May 2, 2011 at Vancouver, British Columbia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+No one appeared
+Counsel for the Respondent:
+Johanna Russell
+____________________________________________________________________
+ORDER
+The Respondent’s Motion to dismiss the Appellant’s appeal under the Income Tax Act is denied, without costs, for the reasons as attached. This appeal shall be heard on Monday, May 16, 2011 as provided in the Order of this Court dated February 21, 2011.
+Signed at Halifax, Nova Scotia, this 5th day of May, 2011.
+“Wyman W. Webb”
+Webb, J.
+Docket: 2009-2661(GST)G
+BETWEEN:
+JAMES SZOLLOSI BENS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard together with the motion of
+James Szollosi Bens, (2008-2842(IT)G)
+on May 2, 2011 at Vancouver, British Columbia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+No one appeared
+Counsel for the Respondent:
+Johanna Russell
+____________________________________________________________________
+ORDER
+The Respondent’s Motion to dismiss the Appellant’s appeal under the Excise Tax Act is denied, without costs, for the reasons as attached. This appeal shall be heard on Monday, May 16, 2011 as provided in the Order of this Court dated February 21, 2011.
+Signed a Halifax, Nova Scotia, this 5th day of May, 2011.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2011TCC240
+Date: 20110505
+Dockets: 2008-2842(IT)G;
+2009-2661(GST)G
+BETWEEN:
+JAMES SZOLLOSI BENS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Webb, J.
+[1] The Respondent brought a Motion, pursuant to paragraph 64 of the Tax Court of Canada Rules (General Procedure), to dismiss the Appellant’s appeals under the Income Tax Act and the Excise Tax Act. The Respondent has asked that these appeals be dismissed on the basis that the Appellant has failed to prosecute these appeals with due dispatch. The failure of the Appellant to appear for this Motion does not assist him in this regard.
+[2] By an Order dated December 17, 2010, a Status Hearing was scheduled for this matter for February 9, 2011. Paragraph 2 of this Order provided that:
+At the status hearing, the appellant must show cause why the appeal should not be dismissed for delay, and the presiding judge may set time periods for the completion of the remaining steps necessary to place the appeal on a hearing list and may direct that the appeal be placed on a hearing list within a specified time or may dismiss the appeal for delay.
+[3] At the status hearing held on February 9, 2011 (at which the Appellant did attend), Justice McArthur expressed concerns about the length of time that the matter was taking and the lack of action being taken by the Appellant. After a break, the parties proposed a date for the Appellant to obtain documents in relation to his appeals and to answer undertakings. By Orders[1] dated February 21, 2011, Justice McArthur ordered that:
+The Appellant shall make his best efforts to provide the Respondent with relevant financial records, information and documentation in response to undertakings made October 14, 2010 by February 28, 2011.
+The Appellant shall take all reasonable efforts to satisfy all past undertakings made by March 31, 2011 and, in the same manner, complete any new undertakings by May 2, 2011.
+The hearing shall proceed in any event at the Tax Court of Canada, 701 West Georgia Street, 6th Floor, Vancouver, British Columbia, commencing at 9:30 a.m., on Monday, May 16, 2011, for a duration of one day.
+(emphasis added)
+[4] Justice McArthur’s brief reasons for his Orders were as follows:
+1 This Appeal deals with unreported business income ($39,914 for 2003 and $155,000 for 2004), disallowed expenses ($91,563 for 2003 and $111,000 for 2004) and penalties.
+2 A Notice of Appeal was filed September 8, 2008 and an Amended Reply on December 4, 2008.
+3 Since that time, there have been numerous delays on the part of the Appellant, his two accountants and two lawyers. This is the second Status Hearing and the fifth Tax Court judge to render an order.
+4 The second lawyer (D. Strebchuk) to act on the Appellant's behalf withdrew November 18, 2010, where he stated to the Appellant, in part:
+1. given that on a consistent or ongoing basis since May 31, 2010, you have neglected, failed or refused to provide our office with the proper instructions or adhere to the advice and direction provided to you by our office in the within Actions, we are unwilling and/or unable to provide further representation on your behalf in the within Actions. Accordingly, we respectfully demand that you consider this correspondence as the written notice that our office intends to cease to act as counsel of record on your behalf in the within Actions.
+...
+3. .... we respectfully request (as a matter of courtesy) that if you remain intent upon advancing the Claims, then you forthwith retain and instruct alternate counsel to advance the Claims in order to avoid same being forever barred, including pursuant to statutory or common law authority; and
+5 The Appellant ignored this letter and did not pick up the notice of this Status Hearing sent by registered mail on December 20, 2010 and returned to sender (Tax Court of Canada).
+6 With an abundance of caution and tolerance, I will not dismiss the Appeal for delay. The Appellant is given a final opportunity to have his Appeal heard on its merits at the Tax Court of Canada, 701 West Georgia Street, 6th Floor, Vancouver, British Columbia, commencing at 9:30 a.m., on Monday, May 16, 2011, for a duration of one day.
+[5] It seems clear to me that Justice McArthur had contemplated the possibility that the Appellant would not produce any further documents or satisfy any other undertakings as his Orders, in relation to the production of documents, provided that the Appellant would “make his best efforts” and in relation to the satisfaction of undertakings provided that the Appellant “shall take all reasonable efforts”. He then provided that “in any event” the hearing would proceed. Therefore it seems clear that Justice McArthur had ordered that the hearing would proceed “in any event” and therefore would proceed even if the Appellant did not provide any further documents or satisfy any undertakings. The issue at the status hearing was why the Appellant’s appeal should not be dismissed for delay. Having considered this issue, Justice McArthur issued Orders that contemplated the situation that has now arisen (the Appellant has not produced any further documents nor has he, since the date of the Orders, satisfied any undertakings), and provided that the hearing should still proceed in any event. Therefore I am not inclined to change his Orders and now dismiss the appeals.
+[6] However, in this case, there is, in my opinion, an additional reason why the Appellant’s appeals should not be dismissed. Penalties were imposed under subsection 163(2) of the Income Tax Act and section 285 of the Excise Tax Act. Subsection 163(3) of the Income Tax Act provides as follows:
+(3) Where, in an appeal under this Act, a penalty assessed by the Minister under this section or section 163.2 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[7] Similarly subsection 285.1(16) of the Excise Tax Act provides as follows:
+(16) If, in an appeal under this Part, a penalty assessed by the Minister under this section or section 285 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[8] It is clear from the Notice of Appeal that the penalties imposed were in issue.
+[9] Counsel for the Respondent referred to the decision of Justice Tardif in Fortin v. The Queen, [2004] 2 C.T.C. 2228. In that case the Appellant did not appear at the hearing of her appeal. Justice Tardif stated in part that:
+3 Despite the highly damning facts, particularly those described in subparagraphs 6(e), (f) and (g), Ms. Fortin decided to file a notice of appeal to dispute the assessment and the penalty that she was assessed under subsection 163(2) of the Income Tax Act (the "Act").
+4 The decision to institute an appeal is a legitimate one, indeed even the expression of a fundamental right. However, deciding, without any apparent reason, not to appear in support of one's appeal, the quality of which was clearly more than debatable, constitutes an abuse.
+5 Furthermore, such behaviour has the effect of resulting in an unacceptable waste of public funds, while penalizing litigants whose cases are awaiting a hearing date.
+6 In view of the appellant's failure to appear, the respondent moved that the appeal be dismissed.
+7 I allow the respondent's oral motion and dismiss the appeal, with costs, which I set at $1,000 for the reasons cited above.
+[10] The facts to which Justice Tardif referred are set out in paragraph 2 of his decision:
+2 In making and confirming the assessment at the origin of this appeal, the respondent assumed the following facts:
+[TRANSLATION]
+(a) in the year in issue, the appellant was an employee of Revenue Canada, now the Canada Customs and Revenue Agency;
+(b) the case arises from an internal investigation concerning certain employees of the Jonquiere Tax Centre who had set up a scheme to provide certain persons with tax refunds to which they were not entitled in consideration for a commission based on a percentage of the said refunds;
+(c) in filing her income tax return for the 1996 taxation year, the appellant claimed $4,405 in medical expenses;
+(d) the Minister obtained from Revenu Québec copies of receipts that the appellant had appended to her provincial income tax return of the medical expenses claimed for the 1996 taxation year;
+(e) each of the receipts of $2,000 states that the amount was paid by the appellant for myopia laser treatments and was signed by means of a stamp in the name of Dr. René-Gilles Bernier;
+(f) Dr. René-Gilles Bernier has confirmed in writing that the appellant was not a patient and that he never performed laser surgery on her for myopia;
+(g) the appellant admitted that she had never undergone laser surgery for myopia;
+(h) in the Minister's view, the appellant used false receipts to claim $4,000 in medical expenses;
+[11] It appears that the appeal was dismissed without any evidence being introduced. There was no discussion with respect to the provisions of subsection 163(3) of the Income Tax Act. However, subsection 163(3) of the Income Tax Act does provide that the burden of establishing the facts justifying the assessment of the penalty is imposed on the Minister in an appeal where the penalty is in issue. It appears that Justice Tardif concluded that the penalty was no longer in issue in that case when the Appellant failed to appear for the hearing of her appeal.
+[12] Counsel for the Respondent also referred to the following Orders or Judgments issued by this Court which granted motions to dismiss appeals:
+(a) Walling v. The Queen, 2008-1227(IT)G
+(b) Anderson v. The Queen, 2007-1584(IT)G
+(c) Campbell v. The Queen, 2009-547(IT)G
+(d) Stanfield v. The Queen, 2004-1415(IT)G
+(e) Decotiis Properties Ltd. v. The Queen, 2006-371(GST)G
+[13] In each of these matters the motion made by the Respondent to dismiss the particular appellant’s appeal was granted and the appellant’s appeal was dismissed (although by a subsequent Order the appeal was reinstated in Campbell). There is no mention in any of these Orders or Judgments of the penalties that were imposed under either subsection 163(2) of the Income Tax Act or section 285 of the Excise Tax Act or whether they were still in issue in these appeals. In order to establish that penalties had been imposed, Counsel for the Respondent had to introduce the Reply that had been filed in each of these matters. Whether the actions or inactions of a particular appellant can be interpreted to mean that the penalty is no longer in issue in a particular appeal, is a matter for the Judge deciding whether the motion to dismiss an appeal should be granted.
+[14] It seems to me that since the Income Tax Act and the Excise Tax Act impose on the Minister the burden of establishing the facts justifying the assessment of the penalty, if the Appellant’s appeals are dismissed without a hearing at any time while the penalties are still in dispute (and therefore without any evidence being called and no facts being established justifying the assessment of the penalty), then the Minister will have circumvented the burden imposed on the Minister pursuant to subsection 163(3) of the Income Tax Act and subsection 285.1(16) of the Excise Tax Act.
+[15] Counsel for the Respondent argued that these provisions only apply at a hearing of the appeal. However it does not seem to me that at a hearing of the appeal the Minister would have the burden of establishing these facts but the Minister would have the right, at any time while the penalties are still in dispute, to have an appeal dismissed without having to establish these facts. Any taxpayer would have the right, in relation to an appeal where these penalties are in issue, to simply require the Minister to establish the facts justifying the assessment of the penalties as required by the statutes imposing the burden of establishing these facts on the Minister. The burden is imposed on the Minister – not the Appellant. What actions should the Appellant be required to take in relation to the establishment of the facts that the Minister has the burden of proving? It seems to me that whether the Appellant has prosecuted his appeal with due dispatch is not relevant in relation to the appeal of the assessment of the penalties as the Minister has the burden of establishing the facts justifying the assessment of the penalties and the Appellant would not be required to take any action in relation to the establishment of these facts.
+[16] Presumably when the penalties were imposed the Minister determined that the Minister would be able to establish the facts justifying the assessment of the penalties. The burden imposed on the Minister is in relation to the facts justifying the assessment of the penalty. The alternatives would be that the Minister imposed the penalties without having made any determination of whether the Minister would be able to establish the facts justifying the assessment of the penalties or assessed the penalties having determined that the Minister, at that time, would not be able to establish the facts justifying the assessment of the penalties. It seems to me that neither one of these alternatives would be appropriate.
+[17] If the Minister has already determined that he can satisfy the burden of establishing the facts justifying the assessment of the penalties then there is no prejudice to the Minister in having the appeals heard that cannot be remedied by costs. If the Minister is not able to establish the facts justifying the assessment of the penalties, then why should the penalties be upheld (which would be the result if the Appellant’s appeals are dismissed based on the Motion brought by the Respondent)? If the Appellant should, at the hearing, produce documents that have not previously been disclosed, the provisions of paragraph 89 of the Tax Court of Canada Rules (General Procedure) provide that:
+89. (1) Unless the Court otherwise directs, except with the consent in writing of the other party or where discovery of documents has been waived by the other party, no document shall be used in evidence by a party unless
+(a) reference to it appears in the pleadings, or in a list or an affidavit filed and served by a party to the proceeding,
+(b) it has been produced by one of the parties, or some person being examined on behalf of one of the parties, at the examination for discovery, or
+(c) it has been produced by a witness who is not, in the opinion of the Court, under the control of the party.
+(2) Unless the Court otherwise directs, subsection (1) does not apply to a document that is used solely as a foundation for or as part of a question in cross‑examination or re‑examination.
+[18] The Minister has not yet established, in these appeals, the facts that the Minister has the burden of establishing in relation to the assessment of the penalties under the Income Tax Act and the Excise Tax Act. It does not seem appropriate to deprive the Appellant of his right to require the Minister to prove what the Income Tax Act and the Excise Tax Act require the Minister to prove in the absence of any indication that the penalties are no longer in dispute. It seems to me that in order to dismiss the Appellant’s appeals at this time I would need to be satisfied that the penalties are no longer in issue. Since the issue at the status hearing was why the Appellant’s appeals should not be dismissed for delay and following the conclusion of the hearing the Orders of Justice McArthur had provided that the hearing of the appeals would be held in any event (and therefore regardless of whether the Appellant produced any more documents or satisfied any undertakings), I am not satisfied that the inaction of the Appellant in this case (including his failure to appear for this motion to dismiss) should be interpreted to mean that the penalties are no longer in issue.
+[19] As a result the Respondent’s motions to dismiss the Appellant’s appeals are dismissed, without costs, and the hearing of the appeals will be held on Monday May 16, 2011 as provided in the Orders of Justice McArthur dated February 21, 2011.
+Signed at Halifax, Nova Scotia, this 5th day of May, 2011.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2011TCC240
+COURT FILE NOS.: 2008-2842(IT)G; 2009-2661(GST)G
+STYLE OF CAUSE: JAMES SZOLLOSI BENS AND THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: May 2, 2011
+REASONS FOR ORDER BY: The Honourable Justice Wyman W. Webb
+DATE OF ORDER: May 5, 2011
+APPEARANCES:
+For the Appellant:
+No one appeared
+Counsel for the Respondent:
+Johanna Russell
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] There were two Orders – one in relation to the appeal under the Income Tax Act and the other in relation to the appeal filed under the Excise Tax Act.

@@ -1,0 +1,111 @@
+---
+title: "Filipek C. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29683/index.do"
+last_modified: "2010-03-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 152"
+citation2: ""
+neutral_citation: "2010 CCI 152"
+decision_date: "2010-03-15"
+language: "fr"
+item_id: "29683"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6249
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:10:19.824000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dc4b7eb90291b81665bf454c7dbd605a4d6bd26b9013a529f3a54f97d8560a89"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Filipek C. La Reine
+
+- Citation: 2010 CCI 152
+- Decision date: 2010-03-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6249, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Filipek C. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-15
+Référence neutre
+2010 CCI 152
+Numéro de dossier
+2004-1682(IT)G
+Juges et Officiers taxateurs
+Roula Eatrides
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004­1682(IT)G
+ENTRE :
+NEIL FILIPEK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+CERTIFICAT DE TAXATION DES DÉPENS
+Je CERTIFIE que j'ai taxé les dépens entre parties de l'intimée dans cette instance en vertu du paragraphe 153(1) des Règles de la Cour canadienne de l'impôt (procédure générale), et J'ACCORDE LA SOMME DE 13 294,01 $.
+Signé à Ottawa (Ontario), ce 15e jour de mars 2010.
+« Roula Eatrides »
+Officier taxateur
+Traduction certifiée conforme
+ce 21e jour de juillet 2010.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 152
+Date : 20100315
+Dossier : 2004­1682(IT)G
+ENTRE :
+NEIL FILIPEK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE LA TAXATION DES DÉPENS
+La greffière Roula Eatrides, C.C.I.
+[1] La présente taxation a été entendue en personne le mercredi 3 mars 2010, à la suite d'un jugement par lequel, le 16 juin 2008, l'honorable juge Campbell Miller, de la Cour, avait rejeté l'appel et adjugé les dépens à l'intimée.
+[2] L'appelant était représenté par Me Frances M. Viele, et l'intimée était représentée par Mes Ernest Wheeler et Steven Leckie.
+[3] À l'audience, les avocats de l'intimée ont concédé que la TPS de 97,97 $ avait été réclamée par erreur et qu'il fallait la supprimer du mémoire de frais.
+[4] Les seuls points en litige entre les parties sont les sommes réclamées en vertu de l'alinéa 1(1)h) du tarif B, honoraires d'un second avocat, et du paragraphe 1(2) du tarif B, frais d'impression.
+Alinéa 1(1)h) du tarif B — Honoraires d'un second avocat
+[5] L'avocate de l'appelant a fait valoir que la somme de 3 000 $ réclamée en vertu de l'alinéa 1(1)h) pour les honoraires d'un second avocat ne devrait pas être accordée. Elle a d'abord expliqué que la question n'était pas complexe et que, par conséquent, la présence d'un second avocat n'était pas requise. Maître Viele pratique seule. À l'audience, elle était accompagnée de Me Pam Owen‑LaFrance, une avocate à la retraite, mais elle n'a pas facturé à l'appelant les services de cette dernière. Maître Viele a plaidé seule à l'instruction et soutient qu'un seul avocat aurait été tout à fait suffisant. Elle a affirmé qu'il s'agissait d'un simple exercice de recherche des faits en vue de déterminer si l'appelant était un résident, et que la charge de la preuve incombait à son client. Elle a fait valoir également que, si l'instruction s'est déroulée sur trois jours et demi, l'interrogatoire préalable, lui, a duré moins de quatre heures. Elle a ensuite fait valoir que, même si Me Leckie a assisté à l'audience à Vancouver, c'était Me Wheeler qui était chargé du dossier et c'était lui qui a mené tous les contre‑interrogatoires et présenté l'argumentation finale. Elle a soutenu que Me Leckie n'avait pas participé activement et qu'il n'était pas indispensable au déroulement de l'audience. L'avocate de l'appelant a fait valoir que la prise de notes détaillées aurait pu être effectuée par une personne qui n'était pas avocat.
+[6] L'avocat de l'intimée a fait valoir qu'il était raisonnable de penser que Me Owen‑LaFrance était la seconde avocate de l'appelant : elle portait une toge, elle était assise à la table des avocats, elle a parlé avec les témoins à l'instruction et elle figurait sur la liste des avocats inscrits au dossier. Il a précisé également que Me Leckie était présent, qu'il portait la toge tout au long de l'instruction et qu'il avait pris des notes détaillées avec son ordinateur portatif. Maître Wheeler a affirmé que Me Leckie avait fourni une aide précieuse dans le processus. Ensuite, l'avocat de l'intimée a déclaré que même si l'audience n'était pas complexe sur le plan juridique, elle l'était sur le plan des faits. Il a fait valoir que Me Leckie avait pris des notes longues et détaillées sur le contre‑interrogatoire et qu'il avait pendant plusieurs heures comparé les témoignages et la documentation pour y relever des contradictions. L'avocat de l'intimée a soutenu également que le tarif s'applique à l'instruction, et non à l'interrogatoire préalable, et que la durée de l'interrogatoire préalable n'a donc aucune importance.
+[7] En ce qui concerne l'alinéa 1(1)h) du tarif B, je suis d'accord avec l'avocat de l'intimée. Il était raisonnable de penser que Me Owen‑LaFrance était la seconde avocate de l'appelant. Je suis d'avis également, comme l'intimée, que Me Leckie était présent et qu'il a contribué au déroulement de l'instruction. Dans Jolly Farmer Products Inc. c. La Reine, 2008 CCI 693, on a déclaré ceci :
+À mon sens, l'argument de la Couronne selon lequel il n'y a pas lieu d'adjuger des honoraires au titre de l'avocat adjoint parce que ce dernier n'a pas présenté d'éléments de preuve ni participé au débat est dénué de fondement. Outre qu'il était présent et vêtu d'une toge, cet avocat a assisté son confrère pendant toute l'instruction. La Couronne était représentée par deux avocats. La Cour accorde couramment des honoraires pour plusieurs avocats et notre tarif envisage cette possibilité même si, bien sûr, un seul avocat par partie sera debout ou s'exprimera à un moment donné. Je prends en compte la présence et la contribution des deux avocats de la contribuable pour fixer les dépens en l'espèce.
+[8] Conformément à la décision susmentionnée, la somme de 3 000 $ réclamée au titre de l'alinéa 1(1)h) du tarif B est accordée.
+Paragraphe 1(2) du tarif B — Frais de photocopies
+[9] L'avocate de l'appelant a fait valoir qu'il n'y a pas lieu d'accorder en entier les frais de photocopies de 731,24 $ payés par l'intimée. À son avis, les débours payés pour obtenir trois exemplaires des quatre volumes du recueil des documents, à 0,25 $ la page, étaient excessifs. L'avocat de l'intimée aurait dû tenter d'obtenir le meilleur prix possible pour les copies, et un montant de 450 $ à 500 $ aurait été plus raisonnable. Elle a fait valoir en outre qu'elle avait obtenu un prix de 266,65 $ pour le même travail. L'avocate de l'appelant a également soutenu que l'impression avait été faite le 22 février 2005, alors que l'instruction n'avait eu lieu qu'en 2008. Elle a également affirmé qu'à l'audition de l'appel, la Couronne s'était fondée sur le recueil des documents préparé par l'appelant et qu'elle n'avait fourni aucun document à la Cour.
+[10] L'avocat de l'intimée a réfuté l'argument selon lequel le coût par page était trop élevé en renvoyant à la décision Jolly Farmer Products Inc., où la Cour avait accordé à la partie les débours réellement versés pour faire effectuer des photocopies par un sous‑traitant. Il a fait valoir que le recueil des documents photocopié était volumineux parce qu'il comprenait tout ce que l'Agence du revenu du Canada avait dans ses dossiers en raison de la complexité des faits de l'affaire. L'avocat de l'intimée a affirmé que le ministère de la Justice utilise une méthode concurrentielle d'établissement des prix lorsqu'il fait imprimer par un sous‑traitant. En outre, la documentation a été utilisée aux fins de l'interrogatoire préalable oral qui s'est tenu en 2005, qui précédait l'instruction en 2008, mais qui faisait quand même partie du litige. Il a affirmé également qu'il n'existait entre les parties aucune entente explicite sur la documentation à utiliser pendant l'instruction, et qu'il ignorait quels documents il convenait d'apporter à l'instruction.
+[11] Le montant des débours réclamés pour les photocopies était étayé par une copie de la facture dressée par Bradda Printing Services Inc. Le montant réclamé pour les photocopies est substantiel, mais il n'est pas déraisonnable à mon avis. J'accepte l'explication de Me Wheeler suivant laquelle les photocopies ont été utilisées pendant l'interrogatoire préalable et lors de l'audition de l'appel, qui s'est déroulée sur plusieurs jours et au cours de laquelle de nombreuses pièces ont été produites. Je suis convaincue que les frais sont raisonnables et qu'ils ont été versés aux fins du litige. J'accorderai en entier le montant réclamé pour les photocopies.
+[12] Puisque les autres sommes réclamées n'ont pas été contestées, elles seront accordées telles qu'elles ont été présentées, compte tenu de la réduction de la TPS mentionnée précédemment.
+[13] Le mémoire de frais est taxé, et j'accorde la somme de 13 294,01 $.
+Signé à Ottawa (Ontario), ce 15e jour de mars 2010.
+« Roula Eatrides »
+Officier taxateur
+Traduction certifiée conforme
+ce 21e jour de juillet 2010.
+Yves Bellefeuille, réviseur

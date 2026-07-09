@@ -1,0 +1,189 @@
+---
+title: "Construction Daniel Provencher Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27625/index.do"
+last_modified: "2007-03-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 147"
+citation2: ""
+neutral_citation: "2007 CCI 147"
+decision_date: "2007-03-22"
+language: "fr"
+item_id: "27625"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 446
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:50:39.368000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c6e9cac9041eda1a6e9771ffd99df43e5dab25bf53614f8eb51b61df15545fb7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Construction Daniel Provencher Inc. c. La Reine
+
+- Citation: 2007 CCI 147
+- Decision date: 2007-03-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 446, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Construction Daniel Provencher Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-22
+Référence neutre
+2007 CCI 147
+Numéro de dossier
+2003-1147(GST)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-1147(GST)G
+ENTRE :
+CONSTRUCTION DANIEL PROVENCHER INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 6 mars 2007, à Shawinigan (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelante :
+Me François Daigle
+Avocat de l'intimée :
+Me Robert Poupart
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 15 avril 2002 et porte le numéro 02306242, relativement à la taxe sur les produits et services pour la période du 1er février 1994 au 31 janvier 2001, est rejeté, avec dépens, selon les motifs du jugement ci-joints.
+Signé à Montréal, Québec, ce 22e jour de mars 2007.
+« Réal Favreau »
+Juge Favreau
+Référence : 2007CCI147
+Date : 20070322
+Dossier : 2003-1147(GST)G
+ENTRE :
+CONSTRUCTION DANIEL PROVENCHER INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s'agit d'un appel de la cotisation établie en vertu des paragraphes 191(1) et 298(4) de la Loi sur la taxe d'accise (la « Loi » ), dont l'avis daté du 15 avril 2002 porte le numéro 02306242, pour la période du 1er février 1994 au 31 janvier 2001, réclamant un montant de 27 217,32 $ au titre de la taxe sur les produits et services ( « TPS » ), des intérêts et des pénalités.
+[2] La seule question consiste à déterminer si la cotisation en litige pouvait être établie à tout moment i.e. après l'expiration du délai de prescription de quatre ans, et ce, conformément au paragraphe 298(4) de la Loi. Le calcul des montants des droits réclamés à l'appelante et l'application de la règle de la fourniture à soi-même en vertu du paragraphe 191(1) de la Loi, lors de la location des deux immeubles d'habitation à logement unique, ne sont pas contestés.
+[3] Le paragraphe 298(4) de la Loi se lit comme suit :
+Une cotisation peut être établie à tout moment si la personne visée a :
+(a) fait une présentation erronée des faits, par négligence, inattention ou omission volontaire;
+(b) commis quelque fraude en faisant ou en produisant une déclaration selon la présente partie ou une demande de remboursement selon la section VI ou en donnant, ou en ne donnant pas, quelque renseignement, selon la présente partie;
+(c) produit une renonciation en application du paragraphe (7) qui est en vigueur au moment de l'établissement de la cotisation.
+[4] Seul l'alinéa (a) est susceptible d'application dans le cas présent et c'est l'intimée qui a le fardeau de prouver qu'il y a eu présentation erronée des faits par négligence, inattention ou omission volontaire de la part de l'appelante.
+[5] L'appelante est une entreprise spécialisée dans la construction et la vente de maisons neuves qui a débuté ses opérations vers le début des années 1990. Le seul administrateur et actionnaire de l'appelante est monsieur Daniel Provencher, un diplômé en sciences comptables de l'Université du Québec à Trois-Rivières. À sa sortie des études, il a été à l'emploi de Revenu Canada pendant trois ans, dont deux ans à titre de vérificateur d'impôt au bureau de Montréal. Monsieur Provencher a, par la suite, agi comme inspecteur pour les caisses populaires Desjardins pendant onze ans et comme responsable des prêts commerciaux auprès d'une caisse populaire pendant deux ans. Il a acquis son expérience en construction en s'occupant avec un associé d'une compagnie de construction pendant les années 1988 et 1989.
+[6] Les faits donnant lieu au litige sont simples et portent sur la vente de deux maisons neuves, l'une construite en 1994 et l'autre en 1995. Pour chacune d'elles, l'appelante a fait signer, par des acheteurs potentiels différents, une promesse d'achat conditionnelle à l'obtention d'un prêt hypothécaire. Dans les deux cas, les acheteurs n'ont pu obtenir leur financement et la vente des maisons n'a pu être concrétisée. Plutôt que de laisser les maisons vides, l'appelante a alors offert aux acheteurs d'occuper les maisons qu'ils ne pouvaient acheter moyennant le paiement d'un loyer. Les acheteurs ont accepté l'offre de l'appelante et ont occupé les maisons comme locataires à compter du 15 juin 1994 pour l'une et pour l'autre en novembre 1995. L'appelante n'a pas fait de déclaration concernant ces contrats de location et n'a pas remis la TPS applicable en vertu du paragraphe 191(1) de la Loi.
+[7] Dans les deux cas, les locataires ont quitté les lieux au début de l'année 1997 et l'appelante a remis les maisons en vente comme des maisons neuves.
+[8] Le 4 août 1998, l'appelante a vendu une des maisons à monsieur Robert Dusseault au prix de 60 000 $ calculé comme suit :
+Prix de vente
+TPS
+Ristourne TPS
+TVQ
+Ristourne TVQ
+Montant total
+Remboursement pour les infrastructures
+Montant total à payer
+=
+=
+=
+=
+=
+=
+=
+=
+51 642 $
+3 615 $
+1 301 $
+3 507 $
+1 263 $
+56 200 $
+3 800 $
+60 000 $
+[9] Le 2 juillet 1998, l'appelante a vendu l'autre maison à madame Nancy Garand et à monsieur Stéphane Lachance au prix de 60 000 $ calculé comme suit :
+Prix de vente
+TPS
+Ristourne TPS
+TVQ
+Ristourne TVQ
+Montant total
+Remboursement pour les infrastructures
+Montant total à payer
+=
+=
+=
+=
+=
+=
+=
+=
+51 642 $
+3 615 $
+1 301 $
+3 507 $
+1 263 $
+56 200 $
+3 800 $
+60 000 $
+[10] Dans les deux cas, l'appelante a perçu la TPS et a remis la taxe ainsi perçue conformément au paragraphe 225(1) de la Loi, même si ces ventes étaient des ventes exonérées du fait que les maisons avaient déjà été occupées. Les acheteurs des maisons pourraient vraisemblablement avoir le droit de réclamer le montant de TPS payé en trop.
+[11] La seule question à résoudre est de déterminer si l'appelante a fait une présentation erronée des faits par négligence, inattention ou omission volontaire en ne déclarant pas les deux locations et en ne s'autocotisant pas sur la valeur marchande des immeubles lors de la location de ceux-ci.
+[12] Comme l'appelante n'a pas produit de déclarations de TPS à l'égard des deux locations de maisons et n'a pas remis les montants de TPS payables, l'appelante a certainement effectué une présentation erronée des faits. L'appelante s'est comportée comme si elle n'avait jamais loué les maisons en question et a complètement ignoré ces transactions. Suite au départ des locataires, l'appelante a mis en vente les maisons comme étant des maisons neuves et a fait paraître des annonces dans le Nouveliste à cet effet. Lors de la vente des maisons, l'appelante a calculé la TPS et la ristourne de TPS comme s'il s'agissait de maisons neuves. En ce faisant, la TPS a été payée, mais pas par la bonne personne.
+[13] Lors de son témoignage, monsieur Provencher a affirmé que l'appelante avait comme politique de percevoir et de remettre la TPS lorsqu'elle était payée pour la vente des maisons et c'est exactement ce qui a été fait lors de la vente des deux maisons. Monsieur Provencher a également mentionné que l'appelante avait fait l'objet de plusieurs vérifications de la part du ministère du Revenu du Québec et que les vérificateurs ont toujours accepté la façon de procéder de l'appelante.
+[14] Il a été mis en preuve qu'une première vérification en TPS a été faite de l'appelante par madame Céline Goyette en octobre 1991 concernant une demande de remboursement de taxe pour la période du 1er mai au 31 juillet 1991. Madame Goyette a témoigné et a relaté que son rapport de vérification contenait des informations à l'effet que monsieur Provencher semblait mal connaître certaines règles de la Loi et qu'elle lui a fourni des explications concernant notamment les règles de remise de taxes, de calcul des crédits et de fourniture à soi-même. Suite à sa vérification, elle a remis un projet de cotisation annulant une demande de crédit. Après réception de ce projet de cotisation, monsieur Provencher a rencontré la vérificatrice et son superviseur pour discuter du projet de cotisation, mais aucun ajustement n'y a été apporté et, par la suite, la cotisation a été émise.
+[15] Monsieur Provencher a, de plus, indiqué que l'appelante a été vérifiée en 1992 et en août 1994 et que les vérificateurs ont émis des cotisations à zéro. Les cotisations n'ont pas été mises en preuve et il n'a pas été précisé si les cotisations portaient sur les impôts ou sur les taxes, ni sur quelle période.
+[16] La vérification qui a donné lieu à la cotisation sous appel a été effectuée par madame Louise Langlois en 2001. Madame Langlois a témoigné que, dans le cadre de sa vérification, elle a demandé à monsieur Provencher si l'appelante avait fait de la location de maisons, ce qui a été nié par monsieur Provencher. Madame Langlois a constaté que l'appelante n'avait pas de registre approprié tenant compte de la location de maisons, que l'analyse des dépôts de banque de l'appelante ne montrait aucun revenu provenant de la location des maisons et que les livres comptables de l'appelante ne montraient aucun revenu de location. La preuve ne révèle cependant pas si les revenus de location ont été ultérieurement cotisés par les autorités fiscales. Dans son témoignage, monsieur Provencher a affirmé que l'appelante avait déclaré son revenu de location. Madame Langlois a, par ailleurs, confirmé que l'appelante n'a pas produit de déclarations ou de rapports de taxes relativement à la location des maisons, qu'elle n'a pas appliqué la règle de la fourniture à soi-même en vertu du paragraphe 191(1) de la Loi et qu'elle n'a pas fait remise de la TPS payable.
+[17] En ayant choisi de ne pas faire de déclaration spécifique ou de ne pas inclure la location des deux maisons dans sa déclaration pour la période pertinente, l'appelante a fait en sorte qu'il était impossible pour le ministre du Revenu national (le « ministre » ) de savoir qu'une cotisation était requise. Par conséquent, la prescription était suspendue jusqu'à ce que le ministre ait connaissance de l'existence d'une créance ou d'un droit à une créance.
+[18] L'appelante a délibérément fait une présentation erronée des faits pour ne pas remettre la TPS lorsque due.
+[19] Monsieur Provencher est un homme d'affaires avisé ayant d'excellentes connaissances en comptabilité et en finances. Ayant travaillé comme vérificateur d'impôts, il savait très bien comment obtenir les informations et renseignements pertinents à sa situation. Il aurait pu consulter les mémorandums et les énoncées de politiques publiés par les autorités fiscales; il aurait également pu consulter d'autres entrepreneurs et l'association professionnelle des constructeurs en habitation du Québec. De plus, il a été établi en preuve qu'il avait été informé des règles sur la fourniture à soi-même, dès 1991, lors de la vérification de madame Goyette.
+[20] L'appelante ne peut plaider ignorance de la Loi dans le cas présent et, elle a plutôt fait preuve d'un aveuglement ou d'une omission volontaire.
+[21] Pour ces motifs, l'appel est rejeté, avec dépens.
+Signé à Montréal, Québec, ce 22e jour de mars 2007.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2007CCI147
+N º DU DOSSIER DE LA COUR : 2003-1147(GST)G
+INTITULÉ DE LA CAUSE : Construction Daniel Provencher Inc. et Sa Majesté La Reine
+LIEU DE L'AUDIENCE : Shawinigan (Québec)
+DATE DE L'AUDIENCE : le 6 mars 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 22 mars 2007
+COMPARUTIONS :
+Avocat de l'appelante :
+Me François Daigle
+Avocat de l'intimée :
+Me Robert Poupart
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me François Daigle
+Cabinet : Heenan Blaikie
+Ville : Trois-Rivières (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,184 @@
+---
+title: "Sottile c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/349042/index.do"
+last_modified: "2018-10-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 209"
+citation2: ""
+neutral_citation: "2018 CCI 209"
+decision_date: "2018-10-29"
+language: "fr"
+item_id: "349042"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5013
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:44:03.663000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "684a657f8aed5e6b88f9228d5cab3c7392ac1b5d261e8b7a3cc8b83be974d1fb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sottile c. La Reine
+
+- Citation: 2018 CCI 209
+- Decision date: 2018-10-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5013, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sottile c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-10-29
+Référence neutre
+2018 CCI 209
+Numéro de dossier
+2017-4332(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-4332(IT)I
+ENTRE :
+MARIE-FRANCE SOTTILE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 4 juillet 2018, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelante :
+Denis Petitclerc
+Avocate de l'intimée :
+Me Sara Jahanbakhsh
+JUGEMENT
+L’appel de la nouvelle cotisation en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2015 est accueilli, sans frais, aux seules fins d’accorder la déduction pour le logement temporaire de l’appelante pour une période de 15 jours au coût de 25 $ par nuitée, étant donné l’admission de l’intimée lors de l’audience; quant aux autres éléments de l’appel, ils sont rejetés comme étant non fondés, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 29e jour d’octobre 2018.
+« Alain Tardif »
+Juge Tardif
+Référence : 2018 CCI 209
+Date : 20181029
+Dossier : 2017-4332(IT)I
+ENTRE :
+MARIE-FRANCE SOTTILE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Madame Marie-France Sottile interjette appel sous le régime de la procédure informelle d'une nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu (la « LIR ») pour l’année d’imposition 2015. La Cour est appelée à se prononcer sur la question de savoir si l'appelante avait le droit de déduire certains frais à titre de frais de déménagement en vertu de l'article 62 de la LIR.
+[2] L’appelante est à l’emploi du ministère du Développement durable, de l’Environnement et de la Lutte contre les changements climatiques, à Québec, depuis 1992 en tant que réviseuse‑rédactrice scientifique. De janvier 2004 à mars 2015, l’appelante a été affectée à un organisme satellite de son employeur à Montréal. À cette fin, l’appelante a fait l’achat d’un condo.
+[3] En 2015, à la suite de diverses circonstances qui ont notamment mené à un arrêt de travail, l’appelante a été réaffectée à son poste dans la ville de Québec. Aux fins de cette réaffectation, l’appelante a reçu de son employeur une indemnité compensatoire forfaitaire de 15 258,42 $, à titre de remboursement de ses frais de déménagements.
+[4] À compter d’avril 2015, l’appelante a progressivement entrepris un retour au travail à Québec. D’avril 2015 à juin 2015, l’appelante effectuait régulièrement des allers‑retours Québec‑Montréal, puisqu’elle était toujours propriétaire de son condo à Montréal et souhaitait en conserver la propriété.
+[5] Au cours de cette même période, l’appelante a été hébergée pour un total de 51 jours chez des amis à Québec au coût de 25 $ par nuitée. L’appelante a ainsi déduit 25 $ par jour pour le logement (total de 1 275 $), de même que 51 $ par jour pour la nourriture suivant la méthode simplifiée de calcul de l’Agence du Revenu du Canada (total de 2 601 $).
+[6] En juillet 2015, l’appelante a acheté et a entièrement déménagé dans un condo dans la ville de Québec. Relativement à ce condo, l’appelante a engendré 8 770 $ de dépenses en nettoyage et réparations. Ces dépenses comprenaient notamment : laver le condo, l’installation d’une laveuse/sécheuse, l’achat et l’installation de luminaires, la pose de céramique dans la cuisine, de même que l’achat d’un air conditionné pour 4 599 $. L’appelante a témoigné à l’effet d’avoir engagé ces diverses dépenses pour reproduire la qualité de vie qu’elle avait dans son condo à Montréal.
+[7] Le ministre du Revenu national (le « ministre ») a accordé la déduction du logement et des repas pour 15 jours en se basant sur l’alinéa 62(3)c) de la LIR. Quant aux dépenses de nettoyage et de réparations, le ministre en a refusé la totalité. Le tableau suivant est un résumé des frais que l'appelante a déduits et dont la déduction a été refusée par le ministre :
+Frais
+Déclaré
+Accordé
+Refusé
+Déménageur
+1 702 $
+1 702 $
+0 $
+Déplacements
+131 $
+131 $
+0 $
+Logement
+1 275 $
+375 $ [1]
+900 $
+Repas
+2 601 $
+765 $
+1 836 $
+Nettoyage et réparations
+8 770 $
+0 $
+8 770 $
+Branchement
+268 $
+268 $
+0 $
+Notaire
+1 845 $
+1 845 $
+0 $
+Droits de mutation
+2 000 $
+2 000 $
+0 $
+Total
+18 592 $
+7 086 $
+11 506 $
+[8] Le paragraphe 62(1) de la LIR stipule qu’un contribuable peut déduire dans le calcul de son revenu les sommes qu'il a payées au titre des frais de déménagement engagés relativement à une réinstallation admissible. D’emblée, il est entendu qu'il y a « réinstallation admissible » au sens du paragraphe 248(1) de la LIR. Ainsi, le seul débat concerne l’acceptabilité des dépenses réclamées par l’appelante.
+[9] À ce titre, le paragraphe 62(3) de la LIR fait état de dépenses qui sont comprises dans les frais de déménagement engagés. La Cour d’appel fédérale (« CAF »), dans l’arrêt Séguin [2] , a reconnu que l’énumération contenue au paragraphe 62(3) de la LIR n'est pas exhaustive, et que son but n'est pas de couvrir tous les frais de déménagement possibles. Par contre, selon la CAF, ces frais engagés doivent se rapporter directement à un déménagement et ne peuvent pas être des dépenses accessoires.
+[10] Dans la décision Nazih [3] , notre Cour a plus récemment réitéré ces principes. Dans cette affaire, le juge Smith a notamment refusé la déduction réclamée pour un nouvel aspirateur central, puisque ceci représentait une dépense accessoire.
+[11] Selon la balance des probabilités, l’appelante ne m’a pas convaincu que les diverses dépenses totalisant 8 770 $ en frais de nettoyage et de réparations respectent les exigences énoncées dans l’arrêt Séguin. Tel qu’il en ressort de la preuve, l’appelante a uniquement engendré ces dépenses pour maintenir le style de vie qu’elle avait dans son condo à Montréal. Similairement à l’achat d’un nouvel aspirateur central dans Nazih, ces dépenses sont accessoires au déménagement.
+[12] Quant aux dépenses engendrées pour le logement et les repas, l’alinéa 62(3)c) de la LIR stipule que les dépenses au titre de frais de repas et de logement sont déductibles pour une période maximale de 15 jours. Dans Vickers [4] , le juge Hogan a fait état de l’historique du paragraphe 62(3) de la LIR. Il a correctement soulevé la nuance suivante : tandis que l’alinéa 62(3)a) de la LIR accorde la déduction sans réelle limite des dépenses engagées pour le déménagement du contribuable, l’alinéa 62(3)c) de la LIR ne requiert pas de tel lien avec le déménagement, mais impose un seuil de 15 jours :
+33 […] Il convient de souligner qu'on aboutirait à un résultat plus logique si on gardait le sens ordinaire du terme et si on interprétait l'alinéa 62(3)a) de la Loi dans le sens où il autorise la déduction de tous les frais de déplacement engagés pour le déménagement proprement dit, et l'alinéa 62(3)c) de la Loi dans le sens où il autorise la déduction d'autres frais de repas et de logement engagés près de l'ancienne résidence ou de la nouvelle résidence, des frais tels que ceux qui sont souvent engagés pour la recherche d'une nouvelle résidence, pour s'installer dans une résidence ou pour quitter une résidence avant le déménagement proprement dit.
+[13] De plus, le juge Favreau a statué, dans Christian [5] , que l’alinéa 62(3)c) de la LIR ne prévoit aucune exception et doit être respectée. Par contre, dans Sirivar [6] , une cause de procédure informelle, notre Cour a accordé une déduction pour une période supérieure à 15 jours relativement à un logement temporaire dans un cas où le contribuable avait été obligé par son employeur de partager son temps entre Toronto et Ottawa.
+[14] Les faits de l’affaire Sirivar sont bien différents de ceux de l’espèce. Dans le cas présent, l’appelante n’était pas obligée par son employeur de partager son temps entre Montréal et Québec. C’était la décision personnelle de l’appelante de continuer à vivre dans son condo de Montréal au cours de la période d’avril à juin 2015. D’ailleurs, contrairement à Sirivar, l’appelante réclame non seulement des coûts pour un logement temporaire, mais aussi des frais afférents à des repas.
+[15] Ainsi, tel qu’énoncé par le juge Favreau dans Christian, l’alinéa 62(3)c) de la LIR ne prévoit aucune exception et doit être respecté. L’appelante ne peut donc pas déduire un montant supérieur à une période 15 journées pour le logement temporaire et les repas qui y sont afférents.
+[16] Je dois cependant accueillir l’appel, aux seules fins d’accorder la déduction pour le logement temporaire de l’appelante pour une période de 15 jours au coût de 25 $ par nuitée, étant donné l’admission de l’intimée lors de l’audience; quant aux autres éléments de l’appel, ils sont rejetés comme étant non fondés.
+Signé à Ottawa, Canada, ce 29e jour d’octobre 2018.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2018 CCI 209
+Nº DU DOSSIER DE LA COUR :
+2017-4332(IT)I
+INTITULÉ DE LA CAUSE :
+MARIE-FRANCE SOTTILE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+le 4 juillet 2018
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 29 octobre 2018
+COMPARUTIONS :
+Représentant de l'appelante :
+Denis Petitclerc
+Avocate de l'intimée :
+Me Sara Jahanbakhsh
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur générale du Canada
+Ottawa, Canada
+[1] C’est lors de l’audience que l’intimée a concédé que l’appelante était en droit de déduire la somme de 375 $, représentant le montant de 25 $ pour 15 jours.
+[2] Canada (Procureur Général) c. Séguin, [1998] 2 C.T.C. 13 (CAF).
+[3] Nazih c. La Reine, 2016 CCI 70 [Procédure informelle].
+[4] Vickers c. La Reine, 2011 CCI 2.
+[5] Christian c. La Reine, 2010 CCI 458.
+[6] Sirivar c. La Reine, 2014 CCI 24 [Procédure informelle].

@@ -1,0 +1,171 @@
+Title: Toth v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27233/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-116-27233-toth-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-02-24
+
+# Toth v. The Queen
+
+- Citation: 2006 CCI 116
+- Decision date: 2006-02-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 839, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Toth v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-02-24
+Référence neutre
+2006 CCI 116
+Numéro de dossier
+2005-2401(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2401(IT)I
+ENTRE :
+JOSEPH THOMAS TOTH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 2 décembre 2005, à Montréal (Québec)
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation d’impôt établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est rejeté.
+Signé à Ottawa, Canada, ce 24e jour de février 2006.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 13e jour de juin 2007.
+D. Laberge, LL.L.
+Référence : 2006CCI116
+Date : 20060224
+Dossier : 2005-2401(IT)I
+ENTRE :
+JOSEPH THOMAS TOTH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Le présent appel a été interjeté à l’encontre d’une cotisation établie par le ministre du Revenu national pour l’année d’imposition 2003 et porte principalement sur l’imposition des fonds des régimes enregistrés d’épargne‑retraite (« REER ») de l’appelant confisqués en vertu d’une ordonnance de la Cour.
+[2] Après que l’appelant a plaidé coupable relativement à des accusations criminelles concernant l’exploitation d’une agence d’escorte, le Procureur général du Québec a obtenu une ordonnance de la cour le 16 février 2001. En vertu de l’article 462.33 de la partie XII.2, Produits de la criminalité, du Code criminel[1], l’ordonnance prévoyait le blocage de divers biens de l’appelant, dont les fonds dans ses REER. Les fonds confisqués ont servi au paiement partiel d’une pénalité imposée.
+[3] L’argument principal de l’intimée était que l’appelant, par la confiscation des fonds de ses REER, a reçu un avantage imposable selon les articles suivants de la Loi de l’impôt sur le revenu :
+56(1) Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+[…]
+h) toutes sommes relatives à un régime enregistré d’épargne-retraite ou à un fonds enregistré de revenu de retraite et qui doivent, en vertu de l’article 146, être incluses dans le calcul du revenu du contribuable pour l’année;
+146(8) Est inclus dans le calcul du revenu d’un contribuable pour une année d’imposition le total des montants qu’il a reçus au cours de l’année à titre de prestations dans le cadre de régimes enregistrés d’épargne-retraite […]
+[4] Le paragraphe 146(8) exige que les prestations des REER soient reçues par le contribuable, et l’intimée a soutenu que la confiscation des REER au profit du gouvernement comme il a été ordonné, a entraîné une [traduction] « réception réputée ». La question de la possibilité pour un contribuable d’obtenir un avantage sans le recevoir physiquement a été traitée dans la décision Morin v. The Queen[2], où le juge Lacroix de la Cour fédérale, Section de première instance, a déclaré ce qui suit : « […] le mot recevoir ou toucher veut évidemment dire en bénéficier ou en profiter. En recevoir les avantages sans être obligé de l’avoir dans ses mains ». De plus, il a cité le passage suivant de la décision non publiée Lucien Gingras v. M.N.R. : « L’expression touché ne veut pas nécessairement dire que tout le montant […] doit physiquement être reçu par le salarié ou être intégralement remis dans son compte de banque ».
+[5] De plus, dans la décision Belusic v. The Queen[3], le juge Bowman énonce le critère selon lequel pour qu’un paiement à un tiers (comme la confiscation des REER au profit du gouvernement) soit réputé avoir été reçu, il faudrait qu’il soit satisfait à l’une des conditions suivantes ou aux deux :
+a) l’appelant avait autorisé le paiement ou y avait acquiescé;
+b) même s’il n’avait pas autorisé le paiement ou n’y avait pas acquiescé, l’appelant était […] tenu en droit d’effectuer le remboursement, de sorte que le paiement […] avait eu pour effet de le dégager de cette obligation.
+Dans ce cas‑là, il n’a pas été conclu qu’un paiement versé par Postes Canada à la Ville de London, pour un contribuable, était réputé avoir été reçu étant donné que le paiement n’était pas autorisé et qu’il ne découlait pas d’une obligation légale.
+[6] En l’espèce, l’intimée a dit que l’ordonnance de confiscation constituait une obligation légale pour le contribuable et que celui‑ci était réputé avoir reçu l’avantage parce que, le 29 mai 2003, le juge Mercier de la Cour du Québec a rendu une ordonnance exigeant la confiscation de certains biens de l’appelant au profit de la Couronne, y compris ses REER, en vertu de l’article 462.37 de la partie XII.2 du Code criminel.
+462.37(1) Sur demande du procureur général, le tribunal qui détermine la peine à infliger à un accusé coupable d’une infraction désignée — ou absous en vertu de l’article 730 à l’égard de cette infraction — est tenu, sous réserve des autres dispositions du présent article et des articles 462.39 à 462.41, d’ordonner la confiscation au profit de Sa Majesté des biens dont il est convaincu, selon la prépondérance des probabilités, qu’ils constituent des produits de la criminalité obtenus en rapport avec cette infraction désignée; l’ordonnance prévoit qu’il est disposé de ces biens selon les instructions du procureur général ou autrement en conformité avec la loi.
+[Non souligné dans l’original.]
+[7] L’objet de la disposition ci‑dessus a été décrit par la Cour d’appel de l’Ontario dans l’arrêt Wilson et al and The Queen[4], de la manière suivante :
+[TRADUCTION]
+L’objet de la partie XII.2 est clair. Pour reprendre le vieil adage, le but de la partie est de s’assurer que le crime ne paie pas. Il est maintenant reconnu que certaines activités criminelles représentent une activité économique importante et peuvent entraîner la réalisation de profits considérables, directs et indirects. La partie XII.2 constitue une réaction à cette prise de conscience et prévoit un cadre détaillé suivant lequel ces profits directs et indirects peuvent être repérés, saisis et par la suite confisqués au profit de la Couronne.
+[8] L’utilisation de l’expression « est tenu […] d’ordonner » au paragraphe 462.37(1) indique que le tribunal est tenu d’exercer les pouvoirs de confiscation prévus par le Code criminel. Si les conditions énoncées dans le paragraphe sont remplies, la Cour doit rendre l’ordonnance de confiscation[5]. La même conclusion a été tirée par la Cour du Banc de la Reine de l’Alberta dans la décision R. v. Gagnon[6] et par la Cour d’appel de l’Ontario dans l’arrêt Wilson. Les pouvoirs de confiscation prévus visent [traduction] « n’importe quel » bien qui satisfait aux critères, peu importe si le bien est visé par une ordonnance de saisie ou de blocage ou s’il est en la possession du contrevenant ou des autorités.
+[9] Une copie de l’ordonnance rendue par la Cour du Québec figure à l’annexe A ci‑jointe, et les principales dispositions relatives au présent appel sont les suivantes :
+ORDONNE la confiscation de toutes sommes d’argent et autres valeurs se trouvant contenues et/ou rattachées aux comptes portant les numéros 36263‑26, 00538‑80, 01502‑23, 00117‑89 et 12476‑89, 223‑14, ce dernier compte étant enregistré au nom de Crystal Star Creation de la Banque Scotia, située au 3064, rue St‑Charles, à Kirkland;
+ORDONNE à la Banque Scotia, citée au paragraphe précédent de verser sans délai au Procureur général du Québec toutes sommes confisquées auxdits comptes;
+[10] Finalement, lors de l’audience, l’appelant a admis le point en disant ce qui suit : [traduction] « Je ne crois vraiment pas qu’il s’agisse d’une question de réception, il s’agit d’une question de la valeur. Je ne vais pas présenter d’arguments au sujet de la réception »[7].
+[11] Je conclus sans hésitation que l’ordonnance de la Cour du Québec constituait une obligation légale imposée à l’appelant et exigeant le transfert de ses REER au Procureur général du Québec. De plus, je conclus que l’appelant est réputé avoir reçu les fonds des REER.
+[12] L’appelant a adopté comme position que la valeur des REER saisis conformément à l’ordonnance de la Cour doit être nette d’impôt. Par conséquent, s’il y a un montant d’impôt supplémentaire à payer concernant les REER confisqués, l’impôt doit être payé au moyen des fonds saisis par le gouvernement du Québec et non personnellement par le contribuable.
+[13] La question de l’imposition des paiements en vertu d’une ordonnance de la Cour se pose généralement dans le contexte du droit de la famille. Par exemple, dans la décision Bates v. R.[8], une contribuable recevait une pension alimentaire de son mari. Selon l’interprétation de l’ordonnance du protonotaire principal faite par l’avocat de la contribuable, les paiements étaient nets d’impôt. Par conséquent, la contribuable n’a pas inclus les paiements dans son revenu pour l’année. Dans cet appel, le juge Mogan a indiqué ce qui suit :
+[9] Tout d’abord, le protonotaire principal a‑t‑il effectivement ordonné que les paiements de pension alimentaire pour les enfants seraient reçus par l’appelante nets d’impôt? Les seuls propos pertinents du protonotaire principal sont la dernière phrase de la mention reproduite à l’onglet A de l’ECF :
+[TRADUCTION]
+[...] Comme il semblerait que l’épouse n’ait pas d’impôt à payer jusqu’en avril 1993 et qu’il pourrait bien y avoir procès avant cela, je ne tiens pas compte de l’impôt sur le revenu dans l’ordonnance.
+Je ne comprends pas très bien ce que le protonotaire principal entend par là. S’il voulait que les paiements de pension alimentaire pour les enfants ne soient pas imposés entre les mains de l’épouse et qu’ils ne soient pas déduits dans le calcul du revenu de l’époux, pourquoi ne l’a‑t‑il pas dit? Si cette disposition était importante dans son esprit, pourquoi ne l’a‑t‑il pas intégrée au dispositif de son ordonnance plutôt que d’en faire la dernière phrase de la mention qu’il a apposée à l’ordonnance? S’il voulait que l’épouse bénéficie de paiements de pension alimentaire pour les enfants qui soient exonérés d’impôt, pourquoi n’a‑t‑il pu être plus explicite? Était‑il ambivalent face à l’idée de tenir « compte de l’impôt sur le revenu » parce qu’il avait préalablement dit dans la mention : « [...] il est clair que l’époux est en mesure, tout comme l’épouse, en fait, de verser des aliments »? [...]
+[…]
+[12] Je répondrais à la première question en concluant que le protonotaire principal n’a pas effectivement ordonné que les paiements de pension alimentaire pour les enfants seraient reçus par l’appelante libres d’impôt. Ses propos sont trop imprécis. [...]
+[14] Dans le présent appel, l’ordonnance du juge Mercier ne fait aucune mention, précise ou imprécise, quant à l’imposition appropriée des fonds des REER confisqués. En fait, l’ordonnance indique ce qui suit : « Pour éviter toute confusion, aucune suramende ne sera rajoutée ». S’il avait voulu éviter toute conséquence fiscale possible relativement à la confiscation, le juge Mercier aurait indiqué quelque chose à cet égard.
+[15] De plus, le juge Mogan a affirmé que le ministre ne peut jamais être lié par une ordonnance de la Cour en ce qui concerne sa capacité d’imposition, ce qui est également prévu dans la décision R. v. Sigglekow[9] et dans l’arrêt Arshinoff v. R.[10]. Dans l’arrêt Arshinoff, un protonotaire de la Cour suprême de l’Ontario a rendu une ordonnance prévoyant le versement à la contribuable d’une pension alimentaire de 5 000 $ par mois à l’exclusion de l’impôt. Le juge Brulé a indiqué ce qui suit :
+[...] S’ils voulaient que l’appelante reçoive la somme de 5 000 $ nette d’impôt, l’ordonnance alimentaire aurait dû alors majorer la somme de manière à ce que l’appelante reçoive de fait la somme de 5 000 $ nette par mois. Le fait que l’ordonnance fixait une certaine somme « à l’exclusion de l’impôt » ne peut pas lier le ministre, qui a le droit d’établir une nouvelle cotisation à l’égard de l’appelante relativement à toute somme reçue à titre de pension alimentaire en vertu d’une ordonnance rendue par un tribunal compétent. Une fois que les conditions énumérées à l’alinéa 56(1)c) ont été respectées, l’appelante doit inclure les sommes en question dans le calcul de son revenu.
+Dans le même ordre d’idées, dans la décision Sigglekow, le juge Jerome de la Cour fédérale, Section de première instance, a noté ce qui suit :
+L’effet indéterminé de l’expression « non imposable » utilisée dans l’ordonnance de la Cour a fait l’objet d’une longue argumentation. L’avocat a invoqué un argument très persuasif selon lequel l’expression crée une obligation qui ne peut être quantifiée dans la mesure où elle impose un fardeau spécial à l’époux en sus de la somme hebdomadaire de 20 $. Cet argument repose sur l’idée que puisque le fardeau fiscal ne peut être calculé avant que Mme Sigglekow ne produise sa déclaration, l’époux ne saura jamais combien il faut ajouter chaque semaine. L’avocat souligne également que peu importe le moment où l’époux tente de remplir cette obligation, il en découle une somme additionnelle sur laquelle un impôt doit être calculé, ce qui ajoute à l’impossibilité de fixer le montant à quelque moment que ce soit et certainement à l’avance.
+Puis, il a conclu ce qui suit :
+[…] l’assujettissement à l’impôt ne découle pas d’un accord de séparation ou d’une ordonnance de la Cour. L’article 56 prévoit que toute somme reçue doit être incluse dans le revenu.
+De toute évidence, la contribuable doit recevoir les sommes avant qu’elles ne puissent être frappées d’impôt. Elle est seulement tenue de déclarer toutes sommes reçues. Ces sommes constituent un revenu imposable si elles proviennent d’un accord ou d’une ordonnance visée par l’article 56. Le fait que l’accord ou l’ordonnance puisse imposer des fardeaux additionnels au conjoint n’entre pas en ligne de compte.
+[16] L’appelant a commis un acte criminel au sens du Code criminel, a plaidé coupable et a été condamné en conséquence. L’imposition d’un fardeau fiscal supplémentaire à l’égard de la confiscation peut sembler injuste. Toutefois, la Cour n’est pas un tribunal d’equity, et je ne peux appliquer la loi que comme elle a été édictée par le législateur. Il n’y a rien dans la loi, ou dans l’ordonnance du juge Mercier (de façon précise ou imprécise), qui semble indiquer que la confiscation des fonds des REER de l’appelant doit être libre d’impôt. De plus, même si l’ordonnance indiquait de façon précise que la confiscation doit être libre d’impôt, le ministre ne peut pas être lié par l’ordonnance pour ce qui est de l’imposition de ces fonds des REER qui sont réputés avoir été reçus en vertu de l’article 56 de la Loi de l’impôt sur le revenu.
+[17] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 24e jour de février 2006.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 13e jour de juin 2007.
+D. Laberge, LL.L.
+Annexe A
+1) AU CHAPITRE DES FRAIS JUDICIAIRES
+ORDONNE que la somme de 30 000,00 $ soit payée dans les trente jours de ce jour à l’Étude Légale Grey et Casgrain, à prendre à même les premiers argents liquides des présentes confiscations ou à défaut lors de la liquidation des biens immeubles à charge du Procureur général du Québec.
+2) AU CHAPITRE DE LA SENTENCE DE ROSEMARY BREYTHER
+Sentence suspendue, probation de trois mois aux conditions générales d’avoir une bonne conduite et de garder la paix.
+Aucune suramende car ce serait un préjudice injustifié en l’espèce. Sentence concurrente aux autres dossiers, et concurrente entre chaque chef.
+3) AU CHAPITRE DE LA CONFISCATION DES BIENS
+ORDONNE la confiscation au profit du Procureur général du Québec de l’immeuble suivant :
+« un immeuble situé au 9, 49ième avenue, dans la Municipalité de Notre‑Dame‑de‑l’Île‑Perrot, province de Québec, J7V 9Z7, enregistré au Bureau de la publicité des droits de la circonscription foncière de Vaudreuil, comme appartenant à Joseph Thomas Toth et Rosemary Breyther, immeuble désigné comme suit :
+lot 2 069 633, cadastre du Québec avec toutes les bâtisses ci‑dessus érigées portant le numéro civique 9 de la 49ième avenue, Notre‑Dame‑de‑l’Île‑Perrot, province de Québec, J7V 9Z7.
+tel que le tout se trouve présentement avec et sujet à toutes les servitudes actives et passives, apparentes ou occultes, attachées audit immeuble.
+pour qu’il en soit disposé selon ses instructions qui en devient le seul et unique propriétaire et qu’il soit substitué et/ou subrogé aux droits des intimés dans toutes les créances à charge, respecter les droits réels existants au 16 février 2001. »
+ORDONNE aux détenteurs et occupants actuels de les remettre et/ou de les délaisser dans les quinze jours du présent jugement;
+ORDONNE à l’Officier responsable du Bureau de la publicité des droits de la circonscription foncière de Vaudreuil, de publier cette ordonnance contre l’immeuble décrit plus haut;
+ORDONNE la radiation de l’inscription de l’ordonnance de blocage publiée sous le numéro 358223 le 16 février 2001 au Bureau de la publicité des droits de la circonscription foncière de Vaudreuil et ce, dès la publication du présent jugement de confiscation au Bureau de la publicité des droits;
+ORDONNE la confiscation de toutes sommes d’argent et autres valeurs se trouvant contenues et/ou rattachées au compte portant le numéro 09‑301‑25 de la Banque Nationale située au 4506, rue St‑Denis, à Montréal, H2J 2L3, ledit compte étant enregistré au nom de : Conseillers en sécurité AG;
+ORDONNE à la Banque Nationale citée au paragraphe précédent de verser sans délai au Procureur général du Québec toutes sommes confisquées audit compte;
+ORDONNE la confiscation de toutes sommes d’argent et autres valeurs se trouvant contenues et/ou rattachées aux comptes portant les numéros 36263‑26, 00538‑80, 01502‑23, 00117‑89 et 12476‑89, 223‑14, ce dernier compte étant enregistré au nom de Crystal Star Creation de la Banque Scotia, située au 3064, rue St‑Charles, à Kirkland;
+ORDONNE à la Banque Scotia, citée au paragraphe précédent de verser sans délai au Procureur général du Québec toutes sommes confisquées audits comptes;
+ORDONNE la confiscation de toutes sommes d’argent, placements et autres valeurs ainsi que tous les intérêts, redevances et autres avantages générés par ces biens se trouvant contenus et/ou rattachés au compte 20503 enregistré sous le nom Conseillers en sécurité AG à la Caisse Populaire St‑Odile, située au 4995, rue de Salaberry à Montréal;
+ORDONNE à la Caisse populaire St‑Odile, citée au paragraphe précédent de verser sans délai au Procureur général du Québec toutes sommes confisquées audit compte;
+ORDONNE la remise de tous les autres objets saisis et tous les autres biens bloqués soient remis aux accusés;
+ORDONNE la signification à tous les mis en cause du présent jugement;
+DISPENSE la signification aux accusés ainsi qu’à Conseillers en sécurité AG et Crystal Star Creation;
+Pour éviter toute confusion, aucune suramende ne sera rajoutée;
+RÉFÉRENCE : 2006CCI116
+NO DU DOSSIER DE LA COUR : 2005‑2401(IT)I
+INTITULÉ : Joseph Thomas Toth c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 2 décembre 2005
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 24 février 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom : S/O
+Étude : S/O
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch. C-46.
+[2] 75 DTC 5061.
+[3] [1997] 3 C.T.C. 2908.
+[4] 15 O.R. (3d) 645.
+[5] Sous réserve de certaines restrictions énoncées au paragraphe 462.37(3) à l’égard de biens.
+[6] 1992 A.J. no 842.
+[7] Transcription, pages 23 et 25.
+[8] 98 DTC 1919.
+[9] 85 DTC 5471.
+[10] [1994] 1 C.T.C. 2850.

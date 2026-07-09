@@ -1,0 +1,364 @@
+---
+title: "Joseph Ribkoff Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25090/index.do"
+last_modified: "2003-06-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 397"
+citation2: ""
+neutral_citation: "2003 TCC 397"
+decision_date: "2003-06-12"
+language: "en"
+item_id: "25090"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2499
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:03:25.836000+00:00"
+cases_cited_count: 0
+cases_citing_count: 8
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7dda764b29923a7471d55da1dca3fff2bb7b428aacba5d9eb329b58b8d93e84f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Joseph Ribkoff Inc. c. La Reine
+
+- Citation: 2003 TCC 397
+- Decision date: 2003-06-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2499, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Joseph Ribkoff Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-12
+Neutral citation
+2003 TCC 397
+File numbers
+2001-3451(GST)G
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2001-3451(GST)G
+BETWEEN:
+JOSEPH RIBKOFF INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 2, 3 and 4, 2002,
+and February 19, 2003, at Montreal, Quebec
+Before: The Honourable Judge Louise Lamarre Proulx
+Appearances
+Counsel for the Appellant:
+Louis Tassé
+Counsel for the Respondent:
+Gérald Danis
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act concerning the period from October 1, 1993, to October 31, 1997, notice of which is dated December 15, 1999, and bears number T99-B-0082, is allowed, with costs to the appellant, in accordance with the attached Reasons for Judgment.
+Signed at Montreal, Quebec, this 12th day of June 2003.
+"Louise Lamarre Proulx"
+J.T.C.C.
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2003TCC397
+Date: 20030612
+Docket: 2001-3451(GST)G
+BETWEEN:
+JOSEPH RIBKOFF INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+LamarreProulx, J.T.C.C.
+[1] This is an appeal from an assessment made under the Excise Tax Act (the "Act"). The assessment bears number T99-B-0082 and concerns the period from October 1, 1993, to October 31, 1997.
+[2] Before the hearing of this appeal, on November 28, 2002, the parties submitted to the court the admissions of the parties. The document is lengthy but important. The issues to be decided are found at the end of the document. The admissions and issues are as follows:
+[Translation]
+A. Joint admissions
+(1) The disputed notice of assessment was issued on December 15, 1999, and bears number T99-B-0082 for the reporting periods from October 1, 1993, to October 31, 1997.
+(2) The appellant company was assessed for an amount of $150,600.38, the details of which are as follows:
+Disallowed input tax credit:
+$78,912.45
+Penalty (s. 280 ETA):
+$29,144.48
+Penalties (s. 285 (ETA):
+$19,728.11
+Interest:
+$22,814.94
+Amount owed according to the assessment:
+$150,600.38
+(3) The input tax credits ("ITC") disallowed with respect to each business are as follows:
+SUBCONTRACTOR
+ITC disallowed
+3093-5951 Québec inc
+$14,348.16
+9004-3795 Québec inc
+$19,787.33
+9007-6779 Québec inc
+$12,313.59
+9020-1781 Québec inc
+$14,644.05
+9020-1181 Québec inc
+$5,694.09
+Chau Kim Choy enr. (Confection CKC)
+$2,823.66
+3178447 Canada inc
+$2,797.76
+Confection CNC
+$4,930.90
+DKV
+$1,572.90
+Total:
+$78,912.45
+(4) Unless the Tax Court of Canada finds that the provisions of subsection 298(4) ETA apply, the following reporting periods are statute-barred within the meaning of subsection 298(1) ETA:
+October 31, 1993
+$2,649.57
+November 31, 1993
+$4,586.08
+December 31, 1993
+$2,866.04
+January 31, 1994
+$2,515.17
+February 28, 1994
+$1,731.31
+March 31, 1994
+$2,659.79
+April 30, 1994
+$2,883.16
+July 31, 1994
+$26.18
+August 31, 1994
+$3,008.77
+September 30, 1994
+$1,950.37
+October 31, 1994
+$3,829.07
+November 30, 1994
+$1,674.82
+December 31, 1994
+$1,602.93
+January 31, 1995
+$2,950.43
+February 28, 1995
+$1,312.61
+March 31, 1995
+$3,503.78
+April 30, 1995
+$3,005.45
+May 31, 1995
+$2,214.01
+June 30, 1995
+$2,140.40
+July 31, 1995
+$144.15
+August 31, 1995
+$3,496.52
+September 30, 1995
+$3,094.35
+October 31, 1995
+$3,275.18
+Total:
+$57,120.14
+(5) In view of the admissions of the parties, the penalty of $19,728.11 assessed under section 285 of the Excise Tax Act should be vacated.
+B. Admissions of the appellant
+After discussions between the parties and subject to the respondent's admissions, the appellant admits the following for the sole purposes of this appeal:
+(6) it does not know whether the appellant's garment manufacturing contracts were subcontracted out by the suppliers in subparagraph 3;
+(7) that the corporation 9020-1181 Québec inc. never existed;
+(8) that, notwithstanding the inspections by the appellant's employees at the locations where the garments were manufactured, the appellant does not know whether the places inspected were owned or operated personally by the suppliers at issue.
+Without admitting knowledge of the said facts, the appellant does not contest and will not adduce any evidence to contradict the following allegations in the Reply to the Notice of Appeal:
+(9) paragraphs 19, 23, 24, 26, 27, 28, 29, 30, 31 and 32 of the Reply to the Notice of Appeal;
+(10) subparagraphs 25(a), 25(b), 25(c), 25(d), 35(f), 35(k), 35(l), 35(m), 35(o), 35(q), 35(r) and 35(s) of the Reply to the Notice of Appeal.
+C. Admissions of the respondent
+After discussions between the parties and subject to the appellant's admissions, the respondent admits the following for the sole purposes of this appeal:
+(11) that, according to the supporting documents that were presented to the respondent relating to the suppliers in paragraph 3, the appellant did in fact issue cheques in payment of the said invoices, including the taxes under the ETA and the AQST, and that these cheques were cashed;
+(12) that the Respondent has no evidence that the appellant knew that the suppliers at issue would or would not have been so-called "shell or paper" corporations or companies within the meaning of paragraph 19 of the Reply to the Notice of Appeal;
+(13) that the Respondent has no evidence that the appellant knew that the issuer of the invoices at issue was not the supplier of the services invoiced and paid for;
+(14) that the garment manufacturing work was in fact performed for the appellant by third parties, but the third party or parties who did so were not identified;
+(15) that the Respondent has no evidence that the appellant received anything whatsoever in the form of a discount, rebate, price reduction or advantage from a third party or from the suppliers at issue with respect to the supplies and the ITC at issue;
+(16) that the Respondent has no evidence that the appellant had employees "off the books" or that a part of the salaries paid to its employees was not subject to the appropriate source deductions;
+(17) that the Respondent has no evidence that the appellant was an active participant in the scheme referred to in paragraphs 17 to 21 of the Reply to the Notice of Appeal.
+D. ISSUES TO BE DECIDED
+(18) Subject to the application of subsection 4 of section 298, are the periods from October 31, 1993, to October 31, 1995, statute-barred within the meaning of subsection 1 of section 298 of the Excise Tax Act?
+(19) Version proposed by the respondent: In computing its net tax, can the appellant claim the ITCs indicated in paragraph 3 of these submissions even though the said firms did not personally perform the sewing services or work?
+Version proposed by the appellant: Can the appellant claim the ITCs with respect to the amounts that it paid the suppliers at issue, even though the suppliers did not personally perform the sewing services or work?
+(20) In the negative, is the appellant liable for the penalties assessed under section 280 of the Excise Tax Act?
+...
+[3] The witnesses for the appellant were Robert Orsini, Michèle Méthot and Joseph Ribkoff. Those for the respondent were Elfriede Gebhard, Gilles Bernard, Alain Comeau, Rachel Belzile, Cheng Ai, Kwok Wai Chan, Hui Zhen Feng and Johnson Sui Yin Kwok.
+[4] Robert Orsini is the assistant production manager. He described the usual production methods. The appellant company usually gives the work of assembling the garments to outside firms. The cutting may be done internally or may be sent out. The samples are usually sewn in the appellant's workshop.
+[5] The appellant has four or five designers who travel throughout Europe and the United States to check on the new styles and fabrics. It has 25 scouts. The appellant employs 150 to 200 employees.
+[6] The selection of contractors is made either as the result of a contractor's proposal or through the appellant's scouting. The appellant tries to get to know the people who work for the other quality clothing establishments. An employee from the quality control group checks the work done on some pieces of clothing and gives her approval. This person also visits the firms' workplaces to check cleanliness and the quality of the equipment.
+[7] The appellant does not always work with the same contractors. There are busy times and other, slower times. From 1993 to 1997, the appellant did business with 265 contractors, including the nine contractors at issue.
+[8] The appellant filed as Exhibit A-1 three volumes of documents containing 25 tabs. The witness referred to page 10 of Tab 11 as an example of a purchase order. This order is completed every time a contractor comes to pick up the fabric cut for sewing the garments. The order is signed by the person who comes to pick up the fabric for the contractor. It indicates the quantity of garments to be made, the fact that a sample was provided, the detailing of the buttons and any other information needed to make the garments in question. This order indicated "Van" as the contractor.
+[9] The witness referred to a document, also in Tab 11, entitled [Translation] "Daily report of reception". This document is used to record the number of garments delivered by the contractor. An employee of the appellant counts the garments and gives a copy of the report to the person who delivered the garments and another copy to the appellant's accounting division.
+[10] Before the clothes are delivered, an employee from the quality control group has inspected the clothes and, if satisfied, has signed an approval document. This document must be provided with the clothes when they are delivered.
+[11] The invoice is prepared following delivery of the garments that have been approved. It is made in the name indicated by the contractor. The witness admitted that a firm may change its name. The reasons given are usually that the partners have changed. For example, a person may give as an explanation that he was doing business with his brother and no longer wants to be in business with him.
+[12] Mr. Orsini said that he was not aware at the time that there was a scheme to defraud the government. He had no reason to suspect these firms. They provided the usual paperwork and the places where they did business seemed to be the usual sorts of places for this kind of business.
+Cross-examination
+[13] Mr. Orsini testified that he has been employed with the appellant for 13 years and has been in the clothing industry for 17 years.
+[14] The appellant has used the services of Ms. Levan since 1990. Mr. Orsini went a number of times to meet with her at 9615 Papineau, Unit 390. There were 15 to 20 machines for the various kinds of sewing and four good-quality pressing machines. This is the only place where he met her. The appellant no longer works with Ms. Levan because in 1997 she closed her business. There are, however, other garment manufacturing contractors at that address.
+[15] Ms. Levan came to the appellant's premises to see the style of the garment to be sewed. There was an oral agreement on the price. Subsequently, she was not the one who came to get the items to be assembled. She sent a handler. On the documents accompanying the items to be assembled, the price per unit was indicated. The delivery of the assembled clothes was made as previously described. An invoice accompanied the delivery.
+[16] One of the corporations at issue is 9020-1781 Québec Inc. The appellant's cheques to the order of this company shows its address as 9615 Papineau, Unit 390 (Tab 16 of Exhibit I-3). According to Mr. Orsini, the appellant did business with this company from June 1995 to May 1996. This appears to be confirmed by this company's bank deposits produced in evidence at Tab 12 of Exhibit I-3.
+[17] Exhibit I-3 shows that this company was duly incorporated on May 9, 1995, that an annual declaration was filed in 1995 with the Inspecteur général des institutions financières, that a registration form for GST purposes was filed with the Ministère du Revenu du Québec (the "Ministère") in May 1995, that it was registered beginning on May 17, 1995, that it received an account number, and that it made monthly reports until December 1995.
+[18] According to a document in writing from an accountant acting for that company, every month it sent to the Parity Committee for women's clothing a report based on the information provided by the client (Tab 11 of Exhibit I-3). At the client's request in March 1996, it notified the Ministère that this company had ceased operations on November 30, 1995.
+[19] The appellant's cheques concerning another company at issue, that is, 9020-1181 Inc., show the address as 3905 Isabelle, Suite 105 (Tab 4 of Exhibit I-2). The witness stated that Ms. Levan had never been at that address.
+[20] The invoice appearing at page 14 of Tab 4 of Exhibit I-2 is made in the name of Création Bovary. According to the witness, this was a mother and daughter working as contractors for the appellant. The brother had been employed by the appellant. The acknowledgment of receipt is made in the name of Levan. The cheque is made in the name of 9020-1181 Inc.
+[21] Exhibit I-10 concerns the corporation 3178447 Canada Inc. The appellant's cheques indicate 1000 St-Antoine, Unit 701, as the address. According to Mr. Orsini, the name of the contact person was "madame Bovary Bou".
+[22] Mr. Orsini stated that, with respect to the corporation 9007-6779 Québec Inc. (Exhibit I-4), the appellant did business with this subcontractor from March 1995 to the end of July 1995. The contact person was Ms. Levan. The address was 9615 Papineau, Room 390, and the appellant's cheques referred to this address.
+[23] Because the appellant had many contractors, on routine documents it used the name of the contact person such as Van or Bovary rather than the name of a numbered company, which would not have meant anything.
+[24] The questionnaires concerning the various companies at issue were completed by Mr. Orsini. He obtained the information from the appellant's accounting office and the production section.
+[25] The witness explained that Ms. Levan did work for various companies. She was the one who prepared the invoices. These invoices were always approved by the appellant's production director, Morris Abrahams.
+[26] Mr. Orsini knew that some contractors used the services of subcontractors while other contractors did everything on their own premises.
+[27] In re-examination, Mr. Orsini stated that he had had no reason to think that Ms. Levan was not behind the companies the names of which she invoiced. The invoices of the companies at issue were in the amount of $1 million out of a total of $51 million.
+[28] The appellant's second witness wasMichèle Méthot. She works with the appellant as a quality control officer. She began to work in 1994. Her work consists of going each morning to the contractors where the garments are assembled and checking that the instructions are being followed. She can give advice to the contractors. For a particular contract, she may visit the contractor three or four times.
+[29] Counsel asked her to look at the document at page 221 of Exhibit I-5. This exhibit relates to the corporation 9004-3795 Québec Inc. It involves instructions to the contractors. The name that appears on the upper left is Van. For Ms. Méthot, this meant Ms. Levan, where she did the quality control at 9615 Papineau. There were about ten machines and 12 to 18 people. The manager or the owner of the business was Ms. Levan. She was a very good dressmaker.
+[30] The same was done with Exhibit I-10 at page 169, an exhibit concerning the corporation 3178447 Canada Inc. The name that appears is that of Ms. Bovary. According to Ms. Méthot, the premises were located on Mount Royal Avenue. There were eight machines, two presses and eight to ten employees. The appropriate cheque, appearing at page 121, is made in the name of the corporation 3178447 Canada Inc., and bears the address of 1000 St-Antoine, Room 701. She never went to that address.
+[31] Her list of contractors varies between 20 to 35 contractors and the list changes every three or six months. She not only saw the contractors at issue; she saw a number of others. There was no difference in control between those that were disallowed and those that were allowed. On her list, it is often the name of the person in charge of the company that is recorded instead of the name of the company.
+[32] At the end of the day, she calls the appellant to indicate which lots are accepted. She gives her verification sheet to the contractor when the work is finished. No lot can be delivered without this sheet.
+[33] On cross-examination, she admitted that she had never gone to 3905 Isabelle, suite 105, 9087A Iberville, 7512 Champagnard, Montréal, 4826 de Coutois, room 304 or 1000 Saint-Antoine, room 701. These are the addresses of the headquarters of some companies at issue. She is very familiar with 3737 Crémazie¾she currently goes there for a number of subcontractors but not for Ms. Levan.
+[34] Elfriede Gebhard, an auditor with Revenu Québec, was the respondent's first witness. She began her audit work with the appellant in April 1999. It was a limited audit in that she looked only for transactions with the firms at issue. The amount of the ITCs disallowed is $78,912.45.
+[35] The only company not validly registered for the purposes of the GST is 9020-1181, which bore the number of a Price Club. The others were all registered but had not made all of the returns required under the Act. They may, however, have filed a few returns.
+[36] On cross-examination, she confirmed that she had not calculated the amount of business done with the firms at issue in proportion to all of the transactions. She had done so when she had audited another firm, and the Ministère had told her that this was of no importance, that everything was to be disallowed.
+[37] Gilles Bernard, Director of the Tax Evasion Office ("BLEF") (Bureau de lutte contre l'évasion fiscale) was the respondent's second witness. Mr. Bernard has been the Director of BLEF for a year and a half. At the time he was the project manager.
+[38] Mr. Bernard said that, 25 years ago, there were companies with salaried workers in the plant. Now, there are few salaried workers, but there are self-employed home workers instead. BLEF was created mainly in order to counter tax evasion schemes. The action plan was apparently announced in the May 1996 budget speech.
+[39] A document describing possible methods to investigate the garment industry was produced in evidence at Tab 1 of Exhibit I-1. It is dated October 1996. According to the document, the assumption is that unreported work in this sector is significant and that the contractors frequently use an arranger who does the false billing. The ITCs will be refused if there is collusion between the supplier and the client.
+[40] The witness acknowledged that a contractor to whom a contract is given does not have to perform it himself. In the case of the companies at issue, it is the normal business context that is flawed.
+[41] The 1996 budget referred to unreported work in the garment industry. But it is only after the period at issue that the appellant and the other clothing manufacturers were made aware of the scheme established by means of apparently compliant companies.
+[42] He said that the tax authorities had introduced a procedure to prevent the repetition of such a scheme. Since January 2002, agents in the garment industry must file their tax returns for the QST on a monthly basis. The clients must report the contracts for services granted during the month. The Ministère cross-tabulates the clients' information with the contractors' information for an efficient administration. At the time at issue, a company did not have to file its return before one year. It could do great harm.
+[43] The witness explained that the information the Ministère can provide to recipients of services is whether the corporation is registered. The Ministère's information service does not have the right to say whether there is a problem with the company. According to him, it is up to the recipients of the services to ensure that the invoice reflects the truth.
+[44] Alain Comeau is an investigator with Revenu Québec, Special Investigations Directorate, in Montreal. His investigation began in May 1997.
+[45] His testimony was lengthy and detailed. For the purposes of this case, I will briefly summarize it. Mr. Comeau described the system of fraud that was apparently set up by Kwong Kwan Ma and Kam Suk Ma. These individuals incorporated the corporations at issue. As the directors, they used Asians, often recently arrived in Canada, who did not always understand their obligations as company directors. The Ma couple had them sign various corporate and banking documents. What they were promised was not revealed by the evidence.
+[46] Mr. Comeau traced the deposits of the corporations at issue in the company bank accounts and withdrawals of these amounts of money for foreign exchange bureaus, such as Cofo and GSM and, lastly, Mas Métal. This last foreign exchange bureau is presumably controlled by Mr. Ma. Mr. Comeau does not believe that the other two foreign exchange bureaus intentionally participated in the Mas' fraud. Mas Metal controlled the fund transactions of the ten corporations. The corporations all had a bank account at the Royal Bank, and the addresses were generally those of Mr. and Mrs. Ma.
+[47] The witness mentioned that some corporations made a few minimal returns. They gave themselves the trappings of legality. The lifetime of these corporations was approximately nine months to a year.
+[48] The witness confirmed that he had not met Mr. and Ms. Levan or Ms. Bovary.
+[49] Rachel Belzile is the accounts director for the Royal Bank of Canada. All of the firms at issue had a bank account at her bank. She had noted that the deposits came from garment manufacturers. She was surprised not to see any tax remittance cheques or pay cheques. At the beginning of 1996, she sent a letter to each of these firms asking to meet with the directors to learn more about the activities of the firm. Following this letter, there were only a very small number of transactions in the accounts and she was able to close them all in November 1996.
+[50] Some of the directors of the corporations at issue then testified. Ms. Cheng Ai described herself as a housewife living in Toronto. Counsel for the respondent referred the witness to Exhibits I-10 and I-3 concerning the corporations 3178447 Canada Inc. and 9020-1781 Québec Inc. The witness confirmed that the social security number was hers. She said that a friend of hers introduced her to Mr. Ma who offered her a job as the president of a corporation. And she accepted. She signed the cheques that Mr. Ma brought to her for her signature. He met with her in Toronto once a month for six months.
+[51] At Tab 10 of Exhibit I-3, there is a statement by Ms. Cheng made during an interview with Mr. Comeau. The interview had taken place in Scarbourough, Ontario. She remembered the interview and signing the statement.
+[52] Kwok Wai Chan is a restaurant manager. Counsel for the respondent referred to Exhibit I-5, concerning the corporation 9004-3795 Québec Inc. He remembered coming to Montreal to incorporate a company at the request of Mr. Ma and opening a bank account. He acknowledged his signature on a GST registration form at Tab 2 of Exhibit I-5. He had signed as company president. The social insurance number was his. Tab 6 of that exhibit included Mr. Chan's statement to Mr. Comeau.
+[53] Hui Zhen Feng described herself as a housewife. Counsel referred to Exhibit I-6 concerning the corporation 3093-5951 Québec Inc. She remembered signing cheques for a company at the request of Mr. Ma. She said that she went with Mrs. Ma to open a bank account in Brossard. She signed the GST registration form appearing at Tab 2 of Exhibit I-6. Ms. Feng's statement to Mr. Comeau is at Tab 4 of this exhibit.
+[54] Johnson Sui Yin Kwok is an accountant in Montreal. He remembered meeting Mr. and Mrs. Ma and preparing documents in applying for the incorporation of some companies. He indicated that he agreed, on a temporary basis, that the address of his office be the address, for example, of the corporation 3178447 Canada Inc. That address, which is no longer the one of his present office, is 1000 Saint-Antoine West, suite 701.
+[55] Joseph Ribkoff, the appellant's President and Chief Executive Officer and its sole shareholder, testified at the beginning of the day set aside for oral argument. He had been unable to attend the three days of hearing because of a serious bout with the flu. He had been able to read the transcript notes before his testimony.
+[56] He explained that the appellant has been in business for 46 years. He himself has been in the clothing industry for 51 years. The appellant has approximately 200 employees; at the time the events took place, it had approximately 150.
+[57] At his counsel's request, he referred to paragraph 8 of the Notice of Appeal, which provides the sales figures for the years 1993 to 1997:
+1993
+$31,822,314
+1994
+$41,885,811
+1995
+$61,265,936
+1996
+$66,911,811
+1997
+$62,023,297
+[58] The appellant's financial statements were found at Tabs 3 to 8 of Exhibit A-1. The amounts are not in dispute.
+[59] When asked by his counsel whether he participated in garment industry associations, he replied that he had never been involved in such associations. He had also never set up his company close to the areas where the other manufacturers were mostly located.
+[60] The appellant's premises are located in Dorval, as they were during the time at issue.
+[61] In all those years in business, he never had problems either with income taxes or with other taxes. Fourteen or fifteen years ago, cases involving a scheme of purchasing false invoices were fairly widespread. The appellant was audited. The auditors found that it had not participated in this scheme.
+[62] Mr. Ribkoff considered that the assessments made with respect to his firm constitute guilt by association. He was not aware of the scheme in question. It is not his job to conduct investigations. This is a business that complies with the laws. Payments are always made by cheque. The firm's concern is with quality. As for him, his main task is to determine what tomorrow's product will be and how to market it.
+[63] He does not take part in choosing contractors. He does not know Ms. Levan. His employees acted in good faith in relying on the registrations with the government in respect of those companies. The business invoiced the corporations according to the names provided by those who rendered services to the appellant.
+[64] On cross-examination, he said that he exercised a tight control over his organization and that no employee would intentionally take part in unlawful activities.
+Arguments
+[65] Counsel for the appellant first pointed out that Mr. Ribkoff was incensed that he was associated with this kind of fraud and could not understand that he was asked to act as a policeman for the government when it is the government that issues the GST numbers.
+[66] Counsel recalled that the appellant is a corporation with a very substantial turnover, between $30 million and $65 million during the years at issue. It does business with many contractors, i.e., about 265. All of the payments are made by cheque. All of the contractors were subject to identical control measures. The proportion of the contractors disallowed by the Minister is 3 per cent and, in terms of the monetary aspect of the work given to these contractors, the proportion is 2.2 per cent.
+[67] He also recalled that the appellant has never had sales tax or income tax problems in 45 years and that its president, Mr. Ribkoff, would have fired on the spot any employee who would have wanted to take part in any scheme whatsoever.
+[68] He noted that the investigation of the scheme lasted more than four years and that the manufacturers were not alerted at the beginning of the investigation. He recalled that the respondent admitted that the appellant was not aware that the contractors were shell companies. There is no evidence that the appellant derived any benefit whatever in this case.
+[69] Counsel for the appellant referred to Tab 3 of Book A: a report prepared by BLEF. The investigator's analysis of the corporation 3093-5951 Québec Inc. is found at page 11 of this report, which concludes as follows: [Translation] " ... The contracts appear to have been negotiated through the president of another firm (Couture Levan), LeVan Cuong, and the quality control would have been done on the premises of Couture LeVan, such that the clients thought that LeVan Cuong managed the fate of 3093-5951...."
+[70] Counsel noted that the same conclusion was made with respect to a number of the other corporations at issue.
+[71] Counsel therefore argued that the Minister's officers themselves noted in the course of their investigation that when the clients did business with those corporations, they thought that it was Mr. or Mrs. Levan who operated them.
+[72] He also noted that the investigators confirmed that the contractors gave themselves the appearance of legitimacy.
+[73] He stated that the person paying the tax to a supplier cannot find out from the tax authorities whether the supplier reports the tax he or she collects. The only information that the person can obtain is whether the GST number is valid or not. The only person with the power to investigate is the respondent.
+[74] Counsel submitted that there is no evidence that the company was not in good faith. There is nothing to prevent someone from doing business under a number of names or from having a number of companies. The companies must be accountable. It must be remembered that, if someone asked why the name was changed, the explanation given was that the brother or the partner wanted to leave the business. How can a manufacturer who does business with a contractor, visits the production premises, enters into contracts and receives the garments, suspect that there is something wrong? The contractors with whom the appellant did business were registrants. At the time, the numbers were all valid.
+[75] Counsel also submitted that no specific investigation on the appellant was made.
+[76] With respect to the limitation period, the period involved was from October 31, 1993, to October 31, 1995. The statute-barred portion represents a little more than 70 per cent of the total claim for the ITCs, or $57,120 out of $78,912. When the respondent wants to open a statute-barred year, the burden is on the respondent to prove that there has been a misrepresentation that is attributable to the person's neglect, carelessness or wilful default. This is not the case here. There was no intent.
+[77] For his part, counsel for the respondent relied on paragraph 169(4)(a) of the Act and on section 3 of the Input Tax Credit Information (GST/HST) Regulations (the "Regulations"). He argued that based on the requirement for "sufficient evidence" in paragraph 169(4)(a) of the Act and the details of the information referred to in section 3 of the Regulations, the Minister may disallow the ITCs. He noted that the supplier indicated on the invoice was not the supplier of the services-it rendered no service to the appellant-that the services were rendered by someone else, a third party whose name is not known, who was unidentified. Payment was made to a person who was not the supplier.
+[78] Counsel for the respondent said that he did not doubt that Mr. Orsini and Mr. Ribkoff acted honestly, but he submitted that those companies were shell companies and, whether the client was in good or bad faith, ITCs cannot be claimed for the payment of services that were not provided by the person who issued the invoices. Since no contractual relationship can be seen between the company that issued the invoice and the self-employed workers or the subcontractors, no services were rendered by the issuer. According to section 169 of the Act, there must be a supply of services between the recipient and the supplier for entitlement to claim ITCs.
+[79] Counsel for the respondent made an analogy with a counterfeit bill. It is the person who considers the counterfeit bill as valid who bears the loss. Those corporations to whom the appellant made the tax payments were not valid companies.
+[80] He recalled that, in the case of the corporation 9010-1181, it had no corporate existence and it had not applied for a registration number; its registration number was the number of another corporation.
+[81] In reply, counsel for the appellant submitted that all that subsection 169(1) says is that the recipient who is a registrant may claim a tax credit on the tax that was paid in respect of the property or service that was acquired in the course of commercial activities, and this is what the appellant is claiming.
+Analysis and conclusion
+[82] Subsection 169(1) of the Act reads as follows:
+Subject to this part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A x B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+[83] Subsection 169(4)(a) of the Act reads as follows:
+A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+...
+[84] Section 3 of the Regulations, supra, reads as follows:
+For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+(a) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is less than $30,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business,
+(ii) where an invoice is issued in respect of the supply or the supplies, the date of the invoice,
+(iii) where an invoice is not issued in respect of the supply or the supplies, the date on which there is tax paid or payable in respect thereof, and
+(iv) the total amount paid or payable for all of the supplies;
+(b) where total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under subsection 241(1) of the Act to the supplier or the intermediary, as the case may be,
+(ii) the information set out in subparagraphs (a)(ii) to (iv),
+(iii) where the amount paid or payable for the supply or the supplies does not include the amount of tax paid or payable in respect thereof,
+(A) the amount of tax paid or payable in respect of each supply or in respect of all of the supplies, or
+(B) where provincial sales tax is payable in respect of each taxable supply that is not a zero-rated supply and is not payable in respect of any exempt supply or zero-rated supply,
+(I) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of each taxable supply, and a statement to the effect that the total in respect of each taxable supply includes the tax paid or payable under that Division, or
+(II) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of all taxable supplies, and a statement to the effect that the total includes the tax paid or payable under that Division,
+(iv) where the amount paid or payable for the supply or the supplies includes the amount of tax paid or payable in respect thereof and one or more supplies are taxable supplies that are not zero-rated supplies,
+(A) a statement to the effect that tax is included in the amount paid or payable for each taxable supply,
+(B) the total (referred to in this paragraph as the "total tax rate") of the rates at which tax was paid or payable in respect of each of the taxable supplies that is not a zero-rated supply, and
+(C) the amount paid or payable for each such supply or the total amount paid or payable for all such supplies to which the same total tax rate applies, and
+(v) where the status of two or more supplies is different, an indication of the status of each taxable supply that is not a zero-rated supply; and
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient's name, the name under which the recipient does business or the name of the recipient's duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+[85] Under section 165 of the Act, the recipient of a supply must pay to Her Majesty in right of Canada a tax in respect of the value of the consideration for the supply. Under subsection 211(1) of the Act, the person who makes a taxable supply shall, as agent of Her Majesty in right of Canada, collect the tax payable by the recipient. Under subsection 169(1) of the Act, a registrant is entitled to an input tax credit in respect of the property or services acquired for the purposes of his business.
+[86] The evidence showed that the appellant did in fact acquire services for the purposes of its business and that those are the services it paid for plus taxes.
+[87] It is a matter of common knowledge and this has been admitted by the witnesses for the respondent that the person who contracts does not have to perform the service him or herself unless there is a specific clause to that effect. The person may subcontract all or part of the contract.
+[88] In the case at bar, what mattered to the appellant was that the services were of the quality required. It did not verify whether those who were on site when it went to make its usual quality checks were or were not employees of the companies with whom it did business. It also did not verify whether these companies kept the normal books and records of a business. It conducted itself with these companies as it did with the other companies with whom it did business.
+[89] The appellant paid the invoices, which appeared on their face to be true. They showed all of the details required.
+[90] The appellant did not know that the companies that issued the invoices were not in compliance with the Act because these companies had all the appearances of legality. I say that the appellant did not know because the element of intent was not taken into account by the Minister. There was no specific evidence on this subject from either party.
+[91] It should be noted that initially the BLEF investigation reported that there had been billing of convenience involving the client's collusion (Tab 1 of Exhibit I-1). The investigation also reported that there were fictitious services and products also involving the intent to participate in a scheme.
+[92] However, the appellant's assessment was made without any investigation of its wrongful intent. The appellant was disallowed all of the taxes relative to the services provided by the companies at issue without being asked any question about the contractual relationships between the appellant and these corporations.
+[93] My premise, therefore, is that the appellant was deceived by a company disrespectful of the laws and directed by Mr. and Mrs. Ma. Must the appellant bear the economic burden of this deception organized under the cover of Her Majesty's mandate to collect the tax?
+[94] It is strange to note in this case that apparently none of the directors of the corporations at issue or any of the persons who participated in and directed the scheme using the shell companies was assessed for the taxes collected and unremitted.
+[95] Counsel for the respondent asserted that it is up to the appellant to bear the economic burden of the deception and referred by analogy to counterfeit money. It is the holder of counterfeit money who loses, not the State.
+[96] The analogy may perhaps be valid for a company holding a false certificate of incorporation and using the GST number of another corporation. I shall come back to this. But for validly incorporated corporations that obtained GST numbers, it seems to me that the proper analogy would be with the system of source deductions under the Income Tax Act.
+[97] Section 153 of that Act provides that every person paying, inter alia, a salary shall deduct an amount determined in accordance with prescribed rules and shall remit that amount to the Receiver General. That person, under subsection 227(4) of that Act, is deemed to hold this amount in trust for Her Majesty.
+[98] According to the case law of this Court, it is not up to the employee to ensure that the employer makes the remittances. I quote Judge McArthur of this Court in Manke v. Canada, [1998] T.C.J. No. 759 (Q.L.) at paragraph 19:
+The Appellant becomes entitled to the credits when the source deductions are withheld. I say this for two reasons. First, while the Minister may not have actually received the tax withheld he was certainly in constructive receipt of the source deductions as soon as they were withheld at source. Under section 153, an employer is required to withhold prescribed amounts and remit that amount to the Receiver General in respect of the employee's tax payable for the year, and, as noted by Sarchuk, J.T.C.C. in Ashby (supra), the employer is the agent of the Crown for the purposes of remittance. Second, in my view it would cause undue hardship on taxpayers to demand that they ensure that source deductions withheld by their employer are remitted to the Crown before entitlement to a credit in respect thereof exists. Where, as is the case here, the Minister has assumed that no employee-employer relationship exists, it is open to the Minister to assess the taxpayer on the basis that no source deductions were made. However, there are cases where it is clear to the Minister that an employee-employer relationship did exist and that the employer has withheld source deductions from the employee's wages but has not remitted this amount. In this instance, the Minister cannot expect the taxpayer to ensure remittance. The Minister is in a much better position than the taxpayer to enforce the remittance of the source deductions. Under subsections 227(9.4) and 227 (10.1), an employer who has failed to remit withheld amounts as required by the Act is liable to pay that amount to the Crown, and may be assessed that amount by the Minister. Therefore, the Act specifically provides a mechanism by which the Minister can recover against its agent should the agent fail to remit.
+[99] It is worth reading the news release issued by Finance Canada on April 7, 1997, concerning the draft legislative amendment as a result of the recent decision of the Supreme Court of Canada in Her Majesty the Queen v. Royal Bank of Canada/Royal Bank of Canada v. Sparrow Electric Corp., [1997] 1 S.C.R. 411. From reading the news release, it can easily be inferred that, in the minds of the tax authorities, source deductions and GST are of a similar nature. The first part of the third paragraph is reproduced below:
+The Minister noted that it is important to assert the absolute priority of the Crown's claim as unremitted source deductions are part of the gross wages of employees and are held in trust for remittance to the Receiver General. Further, source deductions are automatically credited to these employees on account of taxes paid for the year and they are paid over to those provinces that are parties to the Federal/Provincial Tax Collection Agreements, on account of the employee's provincial taxes payable. Similarly, GST input tax credits of the suppliers are credited against unpaid GST even when the net GST remains unpaid....
+[100] The appellant paid the tax on services to Her Majesty's agent. These were valid corporations. It was their conduct that was illegal. I am of the opinion that it is not up to the appellant to bear the economic burden of the deception organized by Her Majesty's agents on the basis of the decision of this court in Manke (supra), which refers to other decisions and to the decision I rendered in Centre de la Cité Pointe Clairev. Her Majesty the Queen, [2001] T.C.J. No. 674 (Q.L.), a decision to which counsel for the appellant referred me.
+[101] If there had been knowledge, connivance or collusion on the part of the appellant, as the investigators had initially thought, the decision would be completely different. The agreement on the facts is clear: there is no evidence of knowledge, connivance or collusion between the appellant and these companies.
+[102] I must also take into consideration the fact that the proportion of the appellant's turnover with these corporations in relation to its total turnover was very small, i.e., 2 per cent; that the appellant's employees conducted themselves with these corporations as they did with the other contractors; and that counsel for the respondent himself noted at the close of testimony that these were people who had acted honestly.
+[103] I must now deal with the case of the corporation whose certificate of incorporation was falsified and that used the GST account number of another corporation. Counsel for the respondent used the concept of counterfeit bank notes without referring to the Act or the relevant case law. I would think it inadvisable in these circumstances to take this route since the two systems cannot be compared.
+[104] In the case at bar, this is a system where the recipient of services must pay the tax to the supplier of the service, who collects it as an agent for Her Majesty. Once again, these are real services that were rendered to the appellant. It paid for them and the tax in good faith. The existing tax case law with respect to the assigned registration number involves the absence of registration instead. This is not the situation here. In this case, the tax was paid to a corporation bearing a valid registration number but one that was assigned to another corporation. Is it up to the purchaser in good faith to bear the fraud of a supplier? I am not persuaded this is so. I believe that the principles that apply with respect to source deductions and to agency can also be applied to the case of a tax collected and unremitted by a corporation bearing a registration number that does not belong to it but that seemingly belongs to it.
+[105] Therefore, the appeal is allowed, with costs to the appellant.
+Signed at Montreal, Quebec, this 12th day of June 2003.
+"Louise Lamarre Proulx"
+J.T.C.C.

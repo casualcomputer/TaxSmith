@@ -1,0 +1,157 @@
+Title: Karim c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/143596/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-91-143596-karim-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-04-13
+
+# Karim c. La Reine
+
+- Citation: 2016 CCI 91
+- Decision date: 2016-04-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3120, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Karim c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-04-13
+Référence neutre
+2016 CCI 91
+Numéro de dossier
+2015-4881(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-4881(IT)I
+ENTRE :
+REZAUL KARIM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 15 mars 2016 à Ottawa (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocats de l’appelant :
+Me Romina Raeisi
+Me David Perron
+Avocats de l’intimée :
+Me Marissa Figlarz
+Me Ryan Hall
+JUGEMENT
+L’appel interjeté à l’encontre des réexamens effectués pour les années d’imposition de référence 2011, 2012 et 2013 et de l’avis de nouvelle cotisation pour l’année d’imposition 2013 est rejeté en conformité avec les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 13e jour d’avril 2016.
+« V.A. Miller »
+Juge Miller
+Référence : 2016 CCI 91
+Date : 20160413
+Dossier : 2015-4881(IT)I
+ENTRE :
+REZAUL KARIM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Le ministre du Revenu national (le « ministre ») a envoyé des avis de réexamen à l’appelant pour les années d’imposition de référence 2011, 2012, et 2013 dans lesquels il lui a refusé la Prestation fiscale canadienne pour enfants (« PFCE »), le crédit pour taxe sur les produits et services (« CTPS ») et plusieurs crédits d’impôt de l’Ontario. Le ministre a déterminé que l’appelant n’était pas le « particulier admissible » à l’égard de sa fille pour recevoir la PFCE et qu’elle n’était pas sa « personne à charge admissible » aux fins du CTPS. Les réexamens ont été effectués au motif que la fille de l’appelant n’avait pas résidé avec lui après le mois de mars 2013.
+[2] Le ministre a également établi une nouvelle cotisation pour l’année d’imposition 2013 de l’appelant (« la nouvelle cotisation de 2013 ») au motif qu’il n’a pas le droit de réclamer le crédit pour une personne entièrement à charge et le crédit pour un enfant admissible (collectivement, « les crédits ») en vertu des alinéas 118(1)b) et 118(1)b.1), respectivement, de la Loi de l’impôt sur le revenu (la « Loi »).
+[3] Les témoins à l’audience étaient l’appelant; Havzeta Kadric, une amie de l’appelant; Sajeda Zaman, l’ex-conjointe de l’appelant (« l’ex-conjointe »); et Heather Johnston, agente d’appel auprès de l’Agence du revenu du Canada (« l’ARC »).
+Objections préliminaires [4] L’intimée a fait valoir que la Cour n’a aucune compétence sur certains montants des réexamens parce qu’ils se posent en vertu des lois de l’Ontario. Je suis d’accord. La Cour n’a aucune compétence pour rendre une décision touchant des lois provinciales. Par conséquent, les seuls montants dont je suis dûment saisie sont la PFCE, le CTPS et les crédits.
+[5] Les parties n’étaient pas d’accord sur les périodes visées par l’appel relativement à la PFCE et au CTPS. L’appelant était d’avis que la période pertinente était de mars 2013 à décembre 2013. Cela signifierait qu’il n’a fait appel que des réexamens touchant les années d’imposition de référence 2011 et 2012. Le ministre était d’avis que la période en appel était en réalité de mars 2013 à novembre 2014, ce qui signifie que l’appelant a interjeté appel à l’encontre des réexamens touchant les trois années d’imposition de référence.
+[6] L’avis d’appel n’a pas précisé quels réexamens étaient en appel. L’appelant a utilisé le formulaire d’avis d’opposition en tant que son avis d’appel. Sous l’espace intitulé « Année d’imposition », l’appelant a indiqué « 2013 ».
+[7] Cependant, il a été prouvé que l’appelant s’est opposé à plus que la nouvelle cotisation de 2013 et deux des trois réexamens. L’avis de confirmation daté du 26 août 2015 (pièce R-5) énonçait que, dans l’avis d’opposition, l’appelant s’est opposé aux réexamens touchant les trois années d’imposition de référence. Il énonçait également que le fondement de l’objection de l’appelant était qu’il devrait avoir droit à ces montants pour la période allant de mars 2013 à novembre 2014. Je note que l’avis de confirmation était également joint à l’avis d’appel de l’appelant.
+[8] En outre, les documents de travail relatifs aux appels – T2020 de l’ARC (pièce R-4) indiquaient que, le 20 août 2015, Heather Johnston avait expliqué à l’appelant que la période visée allait de mars 2013 à novembre 2014. Cette entrée de la pièce R-4 a été confirmée par Mme Johnston lors de l’audience.
+[9] J’en conclus que l’appelant s’est opposé aux trois réexamens et a interjeté appel à leur encontre de sorte que, par conséquent, la période visée pour la PFCE et le CTPS est de mars 2013 à novembre 2014.
+Faits [10] L’appelant et son ex-conjointe ont une fille qui avait 13 ans au début de la période visée. L’appelant a déclaré, lors de son témoignage, que lui-même, son ex-conjointe et sa fille vivaient ensemble dans son appartement jusqu’au mois de mars 2013. Après le mois de mars, l’ex-conjointe et sa fille ont déménagé. L’appelant a déclaré qu’il pensait que ce serait bon pour sa fille, qui était alors adolescente, de dormir chez sa mère.
+[11] Une ordonnance de divorce, datée du 12 décembre 2013, a été présentée comme pièce A-1. Cette ordonnance n’établissait aucun paramètre quant à la garde.
+[12] L’ex-conjointe a déclaré, lors de son témoignage, qu’en mars 2013, elle et sa fille avaient emménagé dans un appartement de deux chambres dans un immeuble qui se trouvait à plusieurs pâtés de maisons de l’appelant. En 2014, elles ont emménagé dans un appartement d’une chambre dans le même immeuble.
+[13] Malgré le déménagement, l’appelant était toujours très impliqué dans la vie de sa fille. Les jours d’école, il la conduisait à l’école, puis chez sa mère. Il l’a conduisait à des activités parascolaires et faisait du bénévolat à son école. Il a présenté des lettres de l’école et a demandé à un témoin, Mme Kadric, de corroborer ses dires. Il organisait ses heures de travail en fonction des activités de sa fille. L’appelant conduisait également sa fille à ses rendez-vous médicaux. Les jours d’école, l’appelant apportait le dîner à sa fille. Cependant, la fille prenait le souper chez sa mère.
+[14] L’appelant a présenté une preuve selon laquelle sa fille utilisait toujours son adresse sur certains formulaires médicaux et scolaires. Les parties à l’appel ont convenu que la fille faisait part de ses besoins quotidiens à l’appelant et obtenait un soutien affectif de sa part. Selon l’ex-conjointe, lorsque sa fille tombait malade, elle demeurait chez la mère de l’ex-conjointe ou d’autres proches.
+[15] L’appelant a déclaré, lors de son témoignage, qu’il réservait toujours une chambre dans son appartement pour sa fille de sorte que, si elle le souhaitait, elle pouvait rester avec lui. Toutefois, l’appelant a convenu que sa fille n’avait effectivement pas dormi chez lui depuis mars 2013. De plus, les meubles de sa fille, y compris son lit, avaient tous été déménagés chez sa mère. La fille de l’appelant faisait parfois ses devoirs dans l’appartement de l’appelant.
+[16] L’appelant a déclaré, lors de son témoignage, qu’il avait payé pour les lunettes de sa fille et ses besoins médicaux, et a présenté des factures à l’appui de son témoignage (pièces A-4 et A-6). Cependant, l’ex-conjointe a déclaré lors de son témoignage que, même si l’appelant a payé d’avance pour les lunettes, elle l’a remboursé lorsqu’elle a été remboursée par sa compagnie d’assurance.
+[17] Je voudrais également mentionner brièvement une lettre présentée comme pièce R-3. Provenant soi-disant de l’ex-conjointe, cette lettre indiquait que la fille passe le plus clair de son temps avec l’appelant et que [traduction] « l’argent de la pension alimentaire » devrait lui revenir. Cependant, je ne puis attribuer aucune importance à cette lettre. On ne sait pas si cette lettre a été envoyée à l’ARC. Plus important encore, cette lettre a été rédigée par l’appelant (pratique courante entre lui et son ex-conjointe) et n’a pas été signée par son ex-conjointe. En revanche, une autre lettre autorisant l’appelant à agir au nom de son ex-conjointe pour les questions d’ordre fiscal a été signée par l’ex-conjointe. Voir la pièce R-2.
+Questions en litige [18] Les questions sont de savoir si l’appelant a droit à la PFCE, au CTPS et aux crédits.
+Analyse A. PFCE et CTPS [19] Pour être admissible à la PFCE, l’appelant doit être un « particulier admissible » en vertu de l’article 122.6 à l’égard de sa fille, qui est une personne à charge admissible aux termes de cet article. Les exigences applicables sont les suivantes :
+a) elle réside avec la personne à charge;
+b) elle est la personne – père ou mère de la personne à charge – qui :
+(i) assume principalement la responsabilité pour le soin et l’éducation de la personne à charge et qui n’est pas un parent ayant la garde partagée à l’égard de celle-ci,
+[…]
+Pour l’application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l’éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l’alinéa f) ne s’applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l’éducation d’une personne.
+[20] Pour avoir le droit de recevoir le CTPS, la fille de l’appelant doit être sa « personne à charge admissible » aux termes de l’article 122.5. L’alinéa b) de cette définition exige qu’elle réside avec l’appelant.
+[21] Par conséquent, pour être admissible à la PFCE et au CTPS, la fille doit avoir résidé avec l’appelant pendant la période visée. Je constate que ce n’est pas le cas.
+[22] L’appelant a fait valoir que la notion de résidence dans ce contexte doit être interprétée avec souplesse. Il a avancé que, parce que sa fille avait une chambre dans son appartement qui était à sa disposition à tout moment, la Cour peut constater qu’elle résidait avec lui. Il a également soutenu que, parce que la résidence de son ex-conjointe se trouvait à seulement quelques pâtés de maisons de la sienne, la Cour ne devrait pas exiger ou se concentrer trop fortement sur le fait que sa fille n’a pas dormi dans son appartement. Il a fait remarquer qu’il est loisible à sa fille d’avoir deux résidences : l’une chez lui et l’autre chez son ex-conjointe.
+[23] L’intimée a fait valoir que la notion de résidence en l’espèce exigeait, ou devrait exiger, que la fille de l’appelant ait effectivement dormi chez l’appelant.
+[24] L’appelant a porté à mon attention des cas où un enfant résidait chez son père ou sa mère, même s’ils ne vivaient sous le même toit : Grenier c. La Reine, 2010 CCI 234 et Penner c. La Reine, 2006 CCI 413.
+[25] Dans Grenier, le fils du contribuable vivait avec une autre partie, d’abord pour faciliter la garde de l’enfant, ensuite pour qu’il puisse fréquenter une école particulière. Le fils est retourné vivre avec le contribuable après environ cinq mois. Dans Penner, le contribuable a payé des frais semblables à ceux d’un pensionnat pour que sa fille reste chez une autre famille pendant l’année scolaire et puisse fréquenter une école particulière. Le reste du temps, elle a vécu avec le contribuable. Je voudrais également mentionner Bouchard c. La Reine, 2009 CCI 38, où la condition de la résidence a été satisfaite même si l’enfant avait vécu chez d’autres familles pendant 20 mois alors que son père était incarcéré. Son père a payé le loyer et d’autres dépenses à ces familles. Les contribuables ont également eu gain de cause, même s’ils ne vivaient pas avec leurs enfants, dans des circonstances exceptionnelles : voir les décisions Jhanji c. La Reine, 2014 CCI 126 et Charafeddine c. La Reine, 2010 CCI 417.
+[26] À mon avis, les décisions Grenier, Penner et Bouchard se distinguent du cas en l’espèce. Dans ces cas, il était entendu, en tout temps, que la séparation était une mesure temporaire, peut-être imposée pour des raisons indépendantes de la volonté du contribuable. On pouvait encore dire que le « lieu de résidence habituel » de l’enfant était chez le parent : S.R. c. La Reine, 2003 CCI 649. En l’espèce, la preuve laisse entendre que la famille, dans son ensemble, a convenu que la fille de l’appelant vivrait chez sa mère de façon permanente.
+[27] En fin de compte, l’interprétation de « résider » devrait préciser l’objectif de la PFCE. Dans S.R., le juge Bonner a déclaré que l’objectif de la PFCE est de fournir un paiement mensuel non imposable unique au parent gardien d’un enfant. Dans Bouchard, le juge Woods a écrit que la loi impose une condition en matière de résidence en plus d’une exigence relative aux soins afin de préciser que la prestation est destinée au parent ayant la garde de l’enfant dans une situation de divorce. Bien qu’en l’espèce, l’ordonnance de divorce ne traite pas de la garde, je suis d’avis que l’ex-conjointe est la partie prévue par la loi pour satisfaire à la condition de résidence.
+[28] Même si l’appelant constituait une partie importante de la vie de sa fille et l’a soutenue grandement, par exemple en la conduisant tous les jours, ces facteurs visent l’exigence relative aux soins, et non pas la condition de résidence : Weidenfeld c. Canada, 2010 CAF 333.
+[29] Même si je suis d’accord avec l’appelant que l’enfant peut simultanément résider chez les deux parents séparément, ce n’était pas le cas en l’espèce. La fille de l’appelant résidait seulement chez son ex-conjointe.
+[30] Bien que cette constatation tranche les questions de la PFCE et du CTPS, je vais maintenant dire quelques mots pour ce qui est de savoir si l’appelant était le principal fournisseur de soins étant donné que les parties ont fait valoir ce point devant moi.
+[31] Tout d’abord, je note que l’alinéa f) de la définition de « particulier admissible » s’applique, ce qui signifie que l’ex-conjointe est présumée être le principal fournisseur de soins. Bien que le paragraphe 6301(1) du Règlement de l’impôt sur le revenu (« le Règlement ») cite quatre circonstances dans lesquelles cette présomption ne s’applique pas, aucune d’entre elles n’a été constatée en l’espèce.
+[32] Toutefois, cette présomption est réfutable : Cabot c. La Reine, [1998] 4 CTC 2893, [1998] ACI no 725 (CCI). Pour déterminer qui est le principal fournisseur de soins, la Cour doit tenir compte, sans toutefois s’y limiter, des facteurs énoncés à l’article 6302 du Règlement : Pollak c. La Reine, [1999] 2 CTC 2225, 48 RFL (4th) 441 (CCI). Ces facteurs sont les suivants :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d’un milieu sécuritaire là où elle réside;
+c) l’obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l’organisation pour elle d’activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu’elle est malade ou a besoin de l’assistance d’une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d’être présent auprès d’elle et de la guider;
+h) l’existence d’une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[33] Je constate que l’appelant, plutôt que son ex-conjointe, a fourni les soins mentionnés aux facteurs c) et d). Cependant, l’ex-conjointe a fourni les soins du facteur b) et probablement les soins du facteur f). Les facteurs a), e) et g) semblent équilibrés entre l’appelant et son ex-conjointe. Le facteur h) ne s’applique pas.
+[34] Dans l’ensemble, je constate que ces facteurs et les éléments de preuve ne désignent pas clairement l’appelant ou son ex-conjointe comme principal fournisseur de soins. La difficulté de cette analyse est qu’elle nécessite une évaluation comparative des soins et de l’éducation offerts par chaque parent, mais les soins et l’éducation ne sont pas des valeurs quantifiables.
+[35] Bien que je ne doute pas que l’appelant soit un père engagé et aimant, et qu’il a réfuté plusieurs des hypothèses du ministre, il n’a pas réfuté la présomption législative selon laquelle son ex-conjointe était le principal fournisseur de soins.
+B. Crédits [36] Le crédit accordé pour une personne entièrement à charge aux termes de l’alinéa 118(1)b) exige, entre autres, que l’appelant soutienne effectivement sa fille dans son établissement domestique autonome et que sa fille soit totalement dépendante de lui sur le plan de la prise en charge. Les dispositions législatives exigent ce qui suit de l’appelant :
+b)(ii) d’autre part, il tient, seul ou avec une ou plusieurs autres personnes, et habite un établissement domestique autonome où il subvient aux besoins d’une personne qui, à ce moment, remplit les conditions suivantes :
+[…]
+(B) elle est entièrement à charge soit du particulier, soit du particulier et d’une ou de plusieurs de ces autres personnes […]
+[37] Dans Narsing c. Canada, [1998] A.C.F. no 156 (CAF), la Cour d’appel fédérale a conclu que, pour qu’une personne soit « entièrement à la charge » du contribuable, les deux parties doivent vivre dans le même établissement. Cela a été appliqué par la Cour dans la décision Pascual c. La Reine, 2008 CCI 41. Cependant, le juge Rossiter (tel était alors son titre) a constaté dans Bruno c. La Reine, 2007 CCI 360, que la partie en charge (un père) satisfaisait à cette exigence, même si son fils ne dormait pas dans son établissement domestique autonome. Cependant, je constate que les faits de la décision Bruno se distinguent aisément de la nôtre. Dans ce cas-là, le contribuable et sa conjointe, même s’ils vivaient une rupture du mariage, résidaient dans différentes parties du même foyer conjugal. La preuve a démontré que le contribuable faisait manifestement tout pour son fils, y compris l’habiller, lui cuisiner tous les repas et lui faire sa lessive, et que la nuit, le fils ne faisait que dormir dans la partie de la maison occupée par la conjointe.
+[38] À mon avis, la question de savoir si la fille de l’appelant dormait dans son établissement domestique (c.-à-d. son appartement) n’est pas la bonne question au sens de ces dispositions législatives. Au lieu de cela, la question est de savoir s’il l’a prise en charge dans cet établissement. Cela exigerait, à mon avis, que la fille fasse plus que simplement visiter l’appartement de l’appelant, de temps en temps. Même si la fille de l’appelant faisait parfois ses devoirs dans son appartement ou lui rendait visite les fins de semaine, cela ne me suffit pas pour conclure qu’il l’a prise en charge dans cet appartement.
+[39] Le crédit pour un enfant admissible en vertu de l’alinéa 118(1)b.1) est offert si l’un des sous-alinéas 118(1)b.1)(i) ou 118(1)b.1)(ii) est satisfait. Le sous-alinéa 118(1)b.1)(i) ne s’applique pas parce qu’il exige que l’enfant réside habituellement tout au long de l’année chez le demandeur du crédit conjointement avec un autre parent de l’enfant. Le sous-alinéa (ii) ne s’applique que si le demandeur a droit au crédit pour une personne entièrement à charge aux termes de l’alinéa 118(1)b), ce qui n’est pas le cas de l’appelant. Par conséquent, le crédit pour un enfant admissible n’est également pas accordé.
+[40] Je note qu’en ce qui concerne les crédits, l’intimée a également invoqué les alinéas 118(4)b) et b.1) de la Loi. Ces alinéas limitent les crédits lorsque deux personnes qui ont toutes deux droit aux crédits ne parviennent pas à se mettre d’accord pour savoir qui obtiendra les crédits. Dans ce scénario, aucune des parties n’obtient les crédits. Je ne sais pas vraiment si l’ex-conjointe a réclamé les crédits. Les hypothèses du ministre laissent seulement entendre que l’ex-conjointe a présenté une demande de PFCE à compter du 1er mars 2013. En tout état de cause, il importe peu de savoir si ces restrictions s’appliquent parce que j’ai constaté que l’appelant n’était autrement pas admissible aux crédits.
+[41] En conclusion, l’appelant n’a pas démontré que les réexamens et la nouvelle cotisation du ministre étaient erronés. L’appel est rejeté.
+Signé à Ottawa, Canada, ce 13e jour d’avril 2016.
+« V.A. Miller »
+Juge Miller
+RÉFÉRENCE :
+2016 CCI 91
+No DU DOSSIER DE LA COUR :
+2015-4881(IT)I
+INTITULÉ :
+REZAUL KARIM c. SA MAJESTÉE LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 15 mars 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 13 avril 2016
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Romina Raeisi
+Me David Perron
+Avocats de l’intimée :
+Me Marissa Figlarz
+Me Ryan Hall
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

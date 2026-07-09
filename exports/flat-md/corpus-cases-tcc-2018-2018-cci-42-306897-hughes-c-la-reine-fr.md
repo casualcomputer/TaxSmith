@@ -1,0 +1,403 @@
+---
+title: "Hughes c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/306897/index.do"
+last_modified: "2018-02-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 42"
+citation2: ""
+neutral_citation: "2018 CCI 42"
+decision_date: "2018-02-27"
+language: "fr"
+item_id: "306897"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7187
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:00:17.940000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aee22c3bcb2685deac446faab51046387beffa5026afdc30a29d74c365f777cb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hughes c. La Reine
+
+- Citation: 2018 CCI 42
+- Decision date: 2018-02-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7187, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hughes c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-02-27
+Référence neutre
+2018 CCI 42
+Numéro de dossier
+2016-2556(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-2556 (IT) I
+ENTRE :
+SANDRA HUGHES,
+appelante
+et
+SA MAJESTÉ LA REINE,
+intimée
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 14 mars 2017, à Calgary (Alberta).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Représentant de l’appelante :
+John Adams
+Avocat de l’intimée :
+Me E. Ian Wiebe
+JUGEMENT
+L’appel de la décision rendue en vertu de la Loi de l’impôt sur le revenu, dont l’avis est daté du 24 septembre 2015, est accueilli et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle décision conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 27e jour de février 2018.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2018 CCI 42
+Date : 20180227
+Dossier : 2016-2556 (IT) I
+ENTRE :
+SANDRA HUGHES,
+appelante
+et
+SA MAJESTÉ LA REINE,
+Intimée
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+Introduction
+[1] L’appelante, Sandra Hugues, a interjeté appel de la décision de l’Agence du Revenu du Canada (l’« ARC ») selon laquelle elle n’avait pas droit de demander un crédit d’impôt pour personnes handicapées (le « CIPH ») à l’égard de sa fille Gwynneth.
+[2] Mme Hughes a fait une demande visant à obtenir le CIPH à l’égard de sa fille en juin 2015 par le formulaire T2201 de l’ARC, qui incluait l’attestation exigée produite par la docteure de Gwynneth. En septembre 2015, l’ARC a établi un avis de décision déclarant que Gwynneth n’était pas admissible au CIPH. La décision de non-admissibilité était confirmée par l’ARC en juin 2016 en réponse à l’avis d’opposition déposé par Mme Hughes.
+[3] La fille de l’appelante avait 15 ans lorsque la docteure a signé la demande du CIPH. La demande elle-même n’était pas datée et il n’y a aucune preuve indiquant la date à laquelle la demande a été déposée ou envoyée par la poste. Si la décision avait été que sa fille était admissible au CIPH, l’appelante avait l’intention de commencer à la déclarer à titre de personne à charge admissible au CIPH dans ses déclarations annuelles et de faire une demande de nouvelle cotisation concernant ses déclarations des 10 années précédant le cas, comme permis par la Loi de l’impôt sur le revenu et la ligne de conduite de l’ARC.
+[4] La fille de l’appelante est née avec la phénylcétonurie (PCU). La PCU est une affection permanente pour laquelle il n’existe aucun remède, seulement un traitement permanent. Si cette affection n’est pas traitée, la PCU souffrant de la PCU pourrait avoir des lésions cérébrales sévères.
+[5] Comme décrit par la généticienne médicale et spécialiste en troubles métaboliques de Gwynneth dans sa lettre rédigée en mars 2017 :
+[traduction]
+La phénylcétonurie est une déficience héréditaire de la capacité du corps de métaboliser l’acide aminé phénylalanine. Elle s’agit d’une maladie génétique, ce qui veut dire qu’elle est permanente et commence depuis la naissance. Elle est une maladie grave, puisque le métabolisme de la phénylalanine est essentiel au fonctionnement du corps. Sans la capacité de métaboliser la phénylalanine, les niveaux de phénylalanine dans le corps augmentent rapidement (au cours d’un jour) jusqu’à atteindre des niveaux toxiques. À court terme, les niveaux élevés de phénylalanine affectent la capacité cognitive (la fonction exécutive) et, à long terme, ils causent des lésions cérébrales sévères et permanentes (chez les enfants).
+Les personnes n’ayant pas cette déficience (c’est-à-dire, celles qui ne souffrent pas la phénylcétonurie) peuvent métaboliser la phénylalanine, donc, elles ne doivent pas suivre un régime alimentaire sans aliments à teneur réduite en phénylalanine. Les personnes ayant la phénylcétonurie doivent suivre un plan de traitement et surveiller leurs niveaux de phénylalanine dans le sang pendant toute leur vie. Si elles suivent un régime alimentaire régulier, elles causeront des lésions cérébrales à elles-mêmes.
+[6] Le traitement ne consiste pas à enlever toute la phénylalanine (« Phe ») du régime alimentaire d’un patient souffrant de la PCU - même si cela était une possibilité. L’organisme a besoin d’une certaine quantité de Phe afin de se développer et de fonctionner de façon normale. Pour les personnes en santé qui suivent un régime alimentaire normal, la métabolisation de Phe permet à leur organisme d’utiliser environ 10 % de Phe ingérée et d’éliminer l’autre 90 % approximatif. Pour les personnes souffrant de la PCU, leur organisme doit ingérer chaque jour, seulement la quantité moindre précisée, afin de se développer et de fonctionner de façon normale, mais sans en ingérer absolument plus, puisque l’excédent ne serait pas éliminé et il causera des lésions au cerveau.
+[7] Ce traitement de PCU est bien décrit dans la décision récente prononcée par le juge Jorré dans Mullings c. La Reine [1] comme suit :
+[traduction] 24 Les soins thérapeutiques consistent à gérer les quantités quotidiennes de Phe consommées de manière très précise, tout en s’assurant de prendre suffisamment tous les autres acides aminés, à l’exception de Phe, ce qui constitue la prise de protéines nécessaires pour l’enfant. Cela est atteint grâce à une combinaison bien gérée de trois composants :
+1. La formule prescrite (la formule médicale) que le docteur Potter a décrite comme nutrition artificielle – La formule fournit un ensemble complet de protéines à l’exception de Phe et elle doit être prise quatre fois par jour le matin, à l’heure du dîner, l’après-midi, et à l’heure du coucher. La formule est constituée d’une quantité prescrite de poudre d’acides aminés dissolue dans une quantité précise d’eau.
+Des aliments spéciaux traités à faible teneur en protéine (les aliments médicaux) – Par exemple, il y a des pâtes alimentaires où le composant riche en protéines (comme la farine) a été remplacé par le substitut à faible teneur en protéine (comme l’amidon); malheureusement, le résultat est moins acceptable que les pâtes normales. Ces aliments médicaux sont assez chers.
+Des quantités limitées d’aliments ordinaires ayant très peu de Phe ou sans Phe, ainsi que d’éviter complètement beaucoup d’aliments ayant des niveaux élevés de Phe.
+[8] Il ressort clairement de la décision initiale de l’ARC de septembre 2015 et de ses lettres de réponse de mai 2016 et de juin 2016, à l’opposition de l’appelante, que Gwynneth était déclarée non-admissible au CIPH, parce que sa déficience liée à une restriction alimentaire et à ses activités de traitement concernées consistait de suivre un régime alimentaire.
+La Loi
+[9] Les passages pertinents concernant la loi sur le crédit d’impôt pour personnes handicapées se lisent comme suit :
+118.3 (1) Crédit d’impôt pour déficience mentale ou physique — Un montant est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition, si les conditions suivantes sont réunies :
+a) le particulier a une ou plusieurs déficiences graves et prolongées des fonctions physiques ou mentales;
+118.3(1) Credit for mental or physical impairment — Where
+(a) an individual has one or more severe and prolonged impairments in physical or mental functions,
+a.1) les effets de la ou des déficiences […] sont tels que la capacité du particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence de soins thérapeutiques qui, à la fois :
+(a.1) the effects of the impairment . . . are such that the individual’s ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted but for therapy that
+(i) sont essentiels au maintien d’une fonction vitale du particulier,
+(i) is essential to sustain a vital function of the individual,
+(ii) doivent être administrés au moins trois fois par semaine pendant une durée totale moyenne d’au moins 14 heures par semaine,
+(ii) is required to be administered at least three times each week for a total duration averaging not less than 14 hours a week, and
+(iii) selon ce à quoi il est raisonnable de s’attendre, n’ont pas d’effet bénéfique sur des personnes n’ayant pas une telle déficience;
+[…]
+(iii) cannot reasonably be expected to be of significant benefit to persons who are not so impaired,
+. . .
+there may be deducted in computing the individual’s tax payable under this Part for the year the amount . . .
+(1,1) Temps consacré aux soins thérapeutiques — Pour l’application de l’alinéa 118.3 (1) a.1), lorsqu’il s’agit d’établir si des soins thérapeutiques sont donnés au moins trois fois par semaine pendant une durée totale moyenne d’au moins 14 heures par semaine, le temps consacré à donner les soins est calculé selon les critères suivants :
+(1.1) Time spent on therapy — For the purpose of paragraph 118.3(1)(a.1), in determining whether therapy is required to be administered at least three times each week for a total duration averaging not less than an average of 14 hours a week, the time spent on administering therapy
+a) n’est compté que le temps consacré aux activités qui obligent le particulier à interrompre ses activités courantes habituelles pour recevoir les soins;
+(a) includes only time spent on activities that require the individual to take time away from normal everyday activities in order to receive the therapy;
+b) s’il s’agit de soins dans le cadre desquels il est nécessaire de déterminer un dosage régulier de médicaments qui doit être ajusté quotidiennement, est compté, sous réserve de l’alinéa d), le temps consacré aux activités entourant directement la détermination de ce dosage;
+(b) in the case of therapy that requires a regular dosage of medication that is required to be adjusted on a daily basis, includes (subject to paragraph (d)) time spent on activities that are directly related to the determination of the dosage of the medication;
+c) dans le cas d’un enfant qui n’est pas en mesure d’accomplir les activités liées aux soins en raison de son âge, est compté le temps que consacrent les principaux fournisseurs de soins de l’enfant à accomplir ces activités pour l’enfant ou à les surveiller;
+(c) in the case of a child who is unable to perform the activities related to the administration of the therapy as a result of the child’s age, includes the time, if any, spent by the child’s primary caregivers performing or supervising those activities for the child; and
+d) n’est pas compté le temps consacré aux activités liées au respect d’un régime ou de restrictions alimentaires ou d’un programme d’exercices (même si ce régime, ces restrictions ou ce programme sont pris en compte dans la détermination du dosage quotidien de médicaments), aux déplacements, aux rendez-vous médicaux, à l’achat de médicaments ou à la récupération après les soins.
+[…]
+(d) does not include time spent on activities related to dietary or exercise restrictions or regimes (even if these restrictions or regimes are a factor in determining the daily dosage of medication), travel time, medical appointments, shopping for medication or recuperation after therapy.
+. . .
+118.4 (1) Déficience grave et prolongée — Pour l’application du paragraphe 6 (16), des articles 118.2 et 118.3 et du présent paragraphe :
+118.4(1) Nature of impairment — For the purposes of subsection 6(16), sections 118.2 and 118.3 and this subsection,
+a) une déficience est prolongée si elle dure au moins 12 mois d’affilée ou s’il est raisonnable de s’attendre à ce qu’elle dure au moins 12 mois d’affilée;
+(a) an impairment is prolonged where it has lasted, or can reasonably be expected to last, for a continuous period of at least 12 months;
+b) la capacité d’un particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, même avec des soins thérapeutiques et l’aide des appareils et des médicaments indiqués, il est toujours ou presque toujours aveugle ou incapable d’accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif;
+(b) an individual’s ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is blind or is unable (or requires an inordinate amount of time) to perform a basic activity of daily living;
+[…]
+. . .
+c) sont des activités courantes de la vie quotidienne pour un particulier :
+(c) a basic activity of daily living in relation to an individual means
+(i) les fonctions mentales nécessaires aux activités de la vie courante,
+(i) mental functions necessary for everyday life,
+(ii) le fait de s’alimenter ou de s’habiller,
+(ii) feeding oneself or dressing oneself,
+(iii) le fait de parler de façon à se faire comprendre, dans un endroit calme, par une personne de sa connaissance,
+(iii) speaking so as to be understood, in a quiet setting, by another person familiar with the individual,
+(iv) le fait d’entendre de façon à comprendre, dans un endroit calme, une personne de sa connaissance,
+(iv) hearing so as to understand, in a quiet setting, another person familiar with the individual,
+(v) les fonctions d’évacuation intestinale ou vésicale,
+(v) eliminating (bowel or bladder functions), or
+(vi) le fait de marcher;
+(vi) walking;
+c.1) sont compris parmi les fonctions mentales nécessaires aux activités de la vie courante :
+(c.1) mental functions necessary for everyday life include
+(i) la mémoire,
+(i) memory,
+(ii) la résolution de problèmes, l’atteinte d’objectifs et le jugement (considérés dans leur ensemble),
+(ii) problem solving, goal-setting and judgement (taken together), and
+(iii) l’apprentissage fonctionnel à l’indépendance;
+(iii) adaptive functioning;
+[…]
+e) le fait de s’alimenter ne comprend pas :
+. . .
+(e) feeding oneself does not include
+(i) les activités qui consistent à identifier, à rechercher, à acheter ou à se procurer autrement des aliments,
+(i) any of the activities of identifying, finding, shopping for or otherwise procuring food, or
+(ii) l’activité qui consiste à préparer des aliments, dans la mesure où le temps associé à cette activité n’y aurait pas été consacré en l’absence d’une restriction ou d’un régime alimentaire;
+[…]
+[Je souligne.]
+(ii) the activity of preparing food to the extent that the time associated with the activity would not have been necessary in the absence of a dietary restriction or regime; and
+. . .
+[Emphasis added.]
+[10] Dans Johnston c. Canada [2] , la Cour d’appel fédérale a écrit :
+10 L’objectif des articles 118.3 et 118.4 ne vise pas à indemniser la personne atteinte d’une déficience mentale ou physique grave et prolongée, mais plutôt à l’aider à défrayer les coûts supplémentaires liés au fait de devoir vivre et travailler malgré une telle déficience. Comme le juge Bowman le dit dans l’arrêt Radage c. R., à la p. 2528 :
+L’intention du législateur semble être d’accorder un modeste allégement fiscal à ceux et celles qui entrent dans une catégorie relativement restreinte de personnes limitées de façon marquée par une déficience mentale ou physique. L’intention n’est pas d’accorder le crédit à quiconque a une déficience ni de dresser un obstacle impossible à surmonter pour presque toutes les personnes handicapées. On reconnaît manifestement que certaines personnes ayant une déficience ont besoin d’un tel allégement fiscal, et l’intention est que cette disposition profite à de telles personnes.
+Le juge poursuit à la p. 2529 en faisant la remarque suivante, à laquelle je souscris :
+Pour donner effet à l’intention du législateur, qui est d’accorder à des personnes déficientes un certain allégement qui atténuera jusqu’à un certain point les difficultés accrues avec lesquelles leur déficience les oblige à composer, la disposition doit recevoir une interprétation humaine et compatissante.
+11 En effet, même si elles ne s’appliquent qu’aux personnes gravement limitées par une déficience, ces dispositions ne doivent pas recevoir une interprétation trop restrictive qui nuirait à l’intention du législateur, voire irait à l’encontre de celle-ci.
+[Je souligne]
+Bien que Radage c. Canada [3] est mentionné plus souvent pour soutenir le fait que les dispositions du CIPH sont interprétées d’une manière humaine et compatissante et « non de façon restrictive et technique », il faudrait souligner que l’ancien juge en chef Bowman dans ce même passage dans Radage a reformulé son opinion selon laquelle les dispositions du CIPH « doivent être appliquées avec compassion et bon sens » aussi (je souligne).
+[11] Dans le formulaire T2201 de l’ARC mis en preuve, l’ARC définit les « soins thérapeutiques essentiels » comme suit :
+Les soins thérapeutiques essentiels doivent répondre aux deux critères suivants :
+• Ils sont essentiels pour maintenir une fonction vitale, même si ces soins soulagent ses symptômes.
+• Ils sont nécessaires au moins 3 fois par semaine, pour une moyenne d’au moins 14 heures par semaine.
+Vous devez consacrer du temps aux soins thérapeutiques, c’est-à-dire que vous devez interrompre vos activités normales et quotidiennes pour les recevoir. [traduction] Si vous utilisez un appareil portatif ou implanté, tel qu’une pompe à insuline ou un stimulateur cardiaque, le temps qui prend l’appareil pour administrer les soins thérapeutiques ne compte pas dans les 14 heures par semaine exigées. [traduction] Cependant, vous pouvez compter le temps que prend votre patient à mettre en marche l’appareil.
+Il ne faut pas inclure d’activités liées à l’observation d’une diète ou au respect de certaines restrictions alimentaires, l’exercice physique, le temps de déplacement, les rendez-vous médicaux (autres que les rendez-vous lors desquels votre patient suit la thérapie), le temps passé à l’achat de médicament ou le temps de récupération après les soins thérapeutiques.
+Pour les années 2005 et suivantes
+• Si vos soins thérapeutiques exigent un dosage régulier de médicaments qui doit être ajusté quotidiennement, le temps passé à faire des activités directement liées à déterminer le dosage et à administrer les médicaments peut être compté dans les 14 heures par semaine requises (par exemple, surveiller le taux de glucose dans le sang, préparer et administrer de l’insuline, calibrer ’'équipement nécessaire, tenir un livret de contrôle du taux de glucose dans le sang).
+• Les activités liées à l’observation d’une diète, comme le calcul des glucides, ainsi que les activités liées à un programme d’exercice, ne comptent pas dans les 14 heures par semaine exigées (même lorsque ces activités ou régimes sont des facteurs déterminants dans le calcul de la dose quotidienne de médicaments).
+• Si un enfant ne peut pas faire les activités liées aux soins thérapeutiques en raison de son âge, le temps que les principaux responsables des soins de l’enfant passent à faire et à surveiller ces activités peut être compté dans les 14 heures par semaine requises. Par exemple, dans le cas d’un enfant ayant le diabète de type 1, la surveillance inclut devoir réveiller l’enfant la nuit pour examiner son taux de glucose dans le sang, surveiller l’enfant pour déterminer s’il a besoin d’un teste additionnel de glycémie (pendant ou après une activité physique) ou accomplir d’autres activités de surveillance qui peuvent raisonnablement être considérées comme nécessaires pour l’ajustement du dosage d’insuline (autres que le calcul des glucides).
+Exemples de soins thérapeutiques essentiels :
+• Physiothérapie respiratoire pour améliorer la respiration
+• Dialyse des reins pour filtrer le sang
+• Insulinothérapie pour le traitement du diabète de type 1 pour un enfant qui ne peut pas ajuster le dosage lui-même (pour les années 2005 et suivantes)
+Le formulaire T2201 définit également « limité de façon marquée » et « temps excessif » comme suit :
+Limité de façon marquée – Cela veut dire que toujours ou presque toujours (au moins 90 % du temps) et même avec des soins thérapeutiques (autres que des soins thérapeutiques essentiels pour maintenir une fonction vitale) et avec d’appareils et de médicaments appropriés :
+• vous êtes incapable de faire une ou plusieurs des activités courantes de la vie quotidienne (voir ci-dessous); ou
+• vous prenez du temps excessif (défini à l’introduction du formulaire) pour faire une ou plusieurs des activités courantes de la vie quotidienne.
+[. . .]
+Temps excessif – Il s’agit d’un jugement clinique établi par un professionnel de la santé qui observe une différence apparente dans le temps que prend une personne pour faire une activité. En général, ceci équivaut à trois fois le temps moyen que prendrait habituellement une personne n’ayant pas la déficience pour faire cette activité.
+[Je souligne.]
+Positions des parties
+[12] L’appelante soutient que sa fille est admissible au CIPH pour le motif qu’elle reçoit quotidiennement des soins thérapeutiques essentiels, qui exigeaient une moyenne de 14 heures par semaine de temps admissible et dont elle serait limitée de façon marquée à l’égard de ces fonctions mentales vitales courantes de la vie quotidienne.
+[13] L’appelante soutient également que sa fille était limitée de façon marquée concernant la capacité de se nourrir elle-même. Sa fille aurait subi des lésions cérébrales sévères si elle se nourrissait elle-même ou si elle consommait des aliments dont elle avait accès aux épiceries ou aux restaurants. Elle soutenait que le fait de manger les aliments médicaux prescrits afin d’administrer seulement la quantité donnée de Phe dont son organisme avait besoin pour se développer et fonctionner normalement et pour éviter que son cerveau ne souffre de lésions permanentes, exigeait du temps excessif.
+[14] L’intimée soutient que [traduction] « le régime alimentaire de la fille de l’appelante ne fait pas partie des soins thérapeutiques administrés pour une durée totale moyenne d’au moins 14 heures par semaine ». [4] L’intimée soutenait que le régime alimentaire prescrit qui administrait la quantité donnée de Phe, ainsi que d’autres nutriments essentiels au développement et au fonctionnement normaux de l’organisme ne faisaient pas partie des soins thérapeutiques, parce qu’il était expressément exclu à titre de régime ou de restriction alimentaire.
+[15] L’intimée a affirmé en outre que la fille de l’appelante n’était pas limitée de façon marquée à l’égard de sa capacité de se nourrir elle-même, puisqu’elle [traduction] « n’avait aucune difficulté ou déficience physique qui l’empêchait de se nourrir elle-même » et elle s’est fondée sur l’attestation de la docteure qui indiquait que la fille n’avait [traduction] « aucune contrainte physique pour manger ou boire ». [5]
+[16] En plus de l’avis d’appel et de la réponse, suite à l’audience, les deux parties ont présenté des observations écrites devant la Cour et elles ont présenté d’autres observations écrites détaillées devant la Cour en août 2017, suite à la décision du juge Jorré dans Mullings, ci-dessous. À la fin du mois de septembre, l’intimée a écrit à la Cour à l’égard de son autre position modifiée concernant la décision prononcée dans Mullings aux fins de cet appel.
+[17] L’appelante a témoigné pour elle-même. En plus, la Cour a entendu le témoignage de Nicole Pallone qui se décrivait comme parent expert en soins d’enfants souffrant de la PCU. Mme Pallone a parlé et présenté des affiches sur le sujet de la gestion d’enfants souffrant de la PCU pendant des conférences médicales et scientifiques, y compris la PKU Academy (l’Académie de PCU) à Rome en 2012, la Genetic Metabolic Dietitians International Meeting (la Réunion internationale de diététistes spécialisés en troubles métaboliques génétiques) à la Nouvelle-Orléans en 2012, la National PKU Alliance (l’Alliance nationale contre la PCU) à Philadelphie en 2012, le Garrod Symposium for Canadian Geneticists (le Symposium Garrod pour généticiens canadiens) à Winnipeg en 2012, l’American Society for Human Genetics (la Société américaine de la génétique humaine) à San Francisco en 2012 et le Society for Inherited Metabolic Diseases Symposium (le symposium de la Société de maladies métaboliques héréditaires) en Californie en 2014.
+[18] Mme Pallone a écrit la PKU Fact Sheet, ainsi que ABC’s of PKU — What Early Childhood Educators and School Administrators Need to Know, les deux publications ont été publiées par Canadian PKU and Allied Disorders Inc. Elles ont fourni des renseignements utiles à la Cour. En plus, le témoignage de Mme Pallone a corroboré celui de l’appelante, à l’égard des activités requises dans la prise de soins d’un enfant ayant la PCU. L’intimée n’a pas prétendu être surprise par ces éléments de preuve, elle ne les a pas contestés et n’a pas présenté ses propres éléments de preuve. L’intimée était déjà impliquée dans l’appel dans Mullings depuis plusieurs mois.
+[19] L’intimée n’a appelé aucun témoin.
+La jurisprudence du CIPH concernant les enfants souffrant de la PCU
+[20] On a cité à la Cour deux décisions rendues par elle-même concernant des demandes de CIPH pour des personnes ayant la PCU.
+[21] Les deux parties ont mentionné la décision rendue par le juge Jorré en 2017 dans Mullings. La décision concernant l’affaire dans Mullings a été prononcée en faveur du contribuable. La seule question devant la Cour dans cette affaire était de savoir si les soins thérapeutiques étaient administrés pour une durée totale moyenne d’au moins 14 heures par semaine consacrée aux activités admissibles. [6] Il n’y avait aucun litige dans Mullings concernant le fait que le traitement de PCU que l’enfant du contribuable recevait pour administrer la quantité donnée de Phe faisait partie des soins thérapeutiques. De la même façon, il n’était pas contesté que sans les soins thérapeutiques, la capacité de l’enfant concernant les activités courantes de la vie quotidienne serait limitée de façon marquée. Il ressort des motifs que la limite marquée était considérée comme une fonction mentale essentielle et que la fonction vitale dont les soins thérapeutiques étaient essentiels à son maintien était la fonction cérébrale.
+[22] Dans la décision à l’égard de la seule question de savoir si les exigences concernant les soins thérapeutiques de 14 heures hebdomadaires ont été respectées, le juge Jorré a conclu ce qui suit :
+L’administration de quantités données de Phe tous les jours était un soin thérapeutique.
+2. L’administration du traitement ou de soins thérapeutiques incluait : [7] [traduction]
+– l’approvisionnement et l’entreposage de formules et d’aliments médicaux;
+la planification et la préparation de repas et de collations de X, y compris :
+• le pesage d’aliments de manière à mesurer, calculer et enregistrer les quantités de Phe de toutes les sources d’aliments préparés pour X, afin d’assurer la quantité quotidienne adéquate de Phe consommée, ainsi que
+• la mesure et l’enregistrement de la formule afin d’assurer la consommation adéquate de tout autre acide aminé (autre que la Phe) constituant des protéines;
+– la surveillance de la consommation d’aliments de X afin de contrôler la quantité réelle de Phe consommée;
+– au besoin, après un repas ou collation, un nouveau calcul de la consommation de Phe pour le reste de la journée et l’ajustement de repas ou collations subséquents afin de tenir compte de la consommation réelle (par exemple, si un aliment n’est pas mangé ou s’il est partiellement mangé, ce qui a comme conséquence la consommation de moins d’aliments prévus, donc, il sera nécessaire de s’assurer que plus de Phe soit consommée en ajoutant ou en remplaçant quelque chose; un autre exemple, où des ajustements doivent être faits, est cela : si, par exemple, malgré les efforts pour éviter cette situation, X mange la nourriture d’un autre enfant, il peut être nécessaire de réduire la consommation de Phe du jour afin de faire une compensation);
+– l’éducation d’autres personnes, telles que les fournisseurs de soins de l’enfant, les enseignants, les camarades de classe et d’autres parents au sujet de la PCU de manière à prévenir la consommation de plus de Phe que prévu (par exemple, manger la crème glacée chez un ami);
+– au moment de chercher X lorsqu’on l’a confié aux soins d’autres personnes, le fait de découvrir la formule médicale ou l’aliment médical et aliment régulier qui a été consommé — normalement, l’appelante ramassera tous les repas ou collations restants pour les mesurer (peser) et pour que la quantité de Phe consommée jusqu’à ce point dans la journée puisse être recalculée aux fins d’effectuer des ajustements pour le reste de la journée;
+– la participation à plusieurs rendez-vous médicaux avec de différents médecins et avec le diététiste;
+– le contrôle du niveau de Phe dans le sang de X auprès d’analyses sanguines hebdomadaires afin de s’assurer que le régime faible en Phe fonctionne de façon efficace.
+Et incluait aussi : [8]
+Contrôle : vérifier le niveau de Phe dans le sang (prélèvement veineux) à l’hôpital pour enfants McMaster (une fois par semaine)
+2. Traitement : mesurer et préparer la formule médicale
+3. Traitement : consommation de la formule médicale et surveillance de cette consommation
+4. Mesure et enregistrement de la formule médicale réellement consommée/bue
+5. Mesure/pesage du contenu de Phe à consommer à chaque repas ou collation à la garderie seulement
+6. Calcul du dosage de Phe dans les aliments pour les repas ou collations à la garderie seulement
+7. L’entreposage d’aliments dans une garderie et le ramassage à la fin de la journée
+8. Discussion avec le personnel de la garderie (du matin et de l’après-midi) concernant la consommation d’aliments pendant le jour, tous les jours
+9. Enregistrement des aliments consommés quotidiennement effectué par le personnel de la garderie
+10. Mesure/pesage d’aliments réellement consommés à chaque repas ou collation à la garderie
+11. Mesure/pesage d’aliments non consommés à la garderie
+12. Discussion avec le personnel de la garderie au sujet des collations spéciales (par exemple, anniversaires, journée pizza) ou de la consommation de Phe par inadvertance
+13. Préparation de collations spéciales alternatives ayant un faible niveau de Phe à la garderie (p. ex., anniversaires, journée pizza)
+14. Vérification d’étiquettes, détermination et calcul du niveau de Phe dans les nouveaux aliments
+15. Mesure/pesage du contenu de Phe à consommer à chaque repas ou collation à la maison
+16. Calcul du dosage de Phe dans les aliments pour les repas ou collations à la maison
+17. Mesure/pesage d’aliments réellement consommés à chaque repas ou collation à la maison
+18. Préparation/cuisson d’aliments faisant partie d’un régime faible en Phe (en plus de la préparation d’aliments « normaux »)
+19. Consommation quotidienne de Phe préalable au souper pour déterminer le repas et les portions permis
+20. Consommation quotidienne de Phe après le souper pour déterminer la quantité de Phe à ajouter (ou à éviter) à la formule finale
+21. Surveillance de la consommation de Phe
+22. Maintien du carnet de consommation quotidienne de Phe
+23. Réception des résultats d’analyse sanguine montrant le niveau de Phe dans le sang par courriel
+24. Consultation avec un diététiste professionnel pour ajuster la formule médicale et/ou la consommation de Phe attribuée
+25. Préparation de voyages à l’extérieur de la maison (p. ex., voyages d’un jour, visites de fin de semaine, vacances prolongées)
+26. Recherche et entrevues effectuées à l’égard des garderies
+27. Congés du travail (y compris le déplacement) pour faire des analyses sanguines pour vérifier le niveau de Phe dans le sang
+28. Consultation en clinique de suivi avec un médecin spécialiste en troubles métaboliques, un diététiste, un conseiller en troubles génétiques et un travailleur social (trois à quatre visites par année)
+29. Commandes d’aliments et de formule médicaux
+30. Déballage, étiquetage et entreposage d’aliments médicaux (périssables et non périssables) et de la formule médicale
+31. Consultation avec des médecins et/ou des pharmaciens au sujet de médicaments, antibiotiques et vaccins quotidiens
+32. Consultation avec un pédiatre spécialiste du développement au sujet du développement et de la gestion du traitement de PCU dans l’ensemble (trois visites par année)
+3. La mention des rendez-vous médicaux exclus du temps consacré aux soins thérapeutiques en vertu de l’alinéa 118.3 (1,1) (d) ne s’applique pas au rendez-vous médical où il y a un traitement ou un teste réel faisant partie du traitement. Cela est conforme au formulaire T2201 de l’ARC qui indique que les rendez-vous médicaux, autres que ceux dans lesquels des soins thérapeutiques sont administrés, ne comptent pas.
+4. Tout ce qui concerne l’administration de la formule médicale plusieurs fois par jour, y compris la prise de sang, fait partie de l’administration de soins thérapeutiques (voir les nos 1 à 4 et 23 ci-dessus).
+5. Les efforts consacrés à s’occuper de la consommation de Phe dans les aliments médicaux, y compris le temps passé à déterminer la quantité de Phe qui doit être consommée et la quantité réellement consommée, ainsi que le temps passé à inscrire la consommation de Phe, font partie de l’administration des soins thérapeutiques nécessaires et cela n’est pas considéré comme une activité liée aux restrictions ou régimes alimentaires (voir les nos 5, 6, 10, 11, 15, 16, 19, 20 et 22 ci-dessus).
+6. Il peut y avoir d’autres activités qui comptaient dans le temps passé à administrer les soins thérapeutiques qui n’ont pas été exclus, mais il n’était pas nécessaire de les aborder, une fois que la moyenne minimale de 14 heures avait été établie dans les preuves dans Mullings.
+[23] L’intimée a cité la décision rendue par la Cour en 1996 dans Jasinski c. Canada. [9] Les motifs dans Jasinski décrivent la PCU d’une manière conforme aux éléments de preuve dans l’affaire devant la Cour et aux motifs du juge Jorré dans Mullings, même s’ils sont moins détaillés. L’affaire dans Jasinski est d’une pertinence très limitée concernant la présente affaire à cause de plusieurs raisons. Tout d’abord, l’affaire existait avant les modifications aux dispositions du CIPH, qui s’appliquent maintenant aux déficiences limitant, de façon marquée, les activités de la vie quotidienne, mais à l’égard des soins thérapeutiques. (Cela est abordé dans la note de bas de page 9 dans Mullings.) Deuxièmement, la Cour, dans Jasinski, n’a pas répondu à la question de savoir si l’enfant était limité de façon marquée par rapport à sa capacité de se nourrir lui-même, en se concentrant plutôt sur le fait que toute déficience à l’égard des fonctions mentales demeurait une possibilité et cela n’avait pas encore eu lieu. Une troisième raison est que l’affaire Jasinski existait avant la décision de la Cour d’appel fédérale dans Johnston, ci-dessus, et la décision de l’ancien juge en chef Bowman dans Radage, ci-dessus.
+Questions en litige
+[24] Les questions en litige sont :
+Les activités à l’égard de :
+(i) l’administration du dosage requis de formule médicale,
+(ii) l’ingestion de Phe requise dans la consommation des aliments médicaux, et
+(iii) l’ingestion de Phe par la consommation d’aliments ordinaires ayant un très faible niveau naturel de Phe
+constitue-t-elle des soins thérapeutiques?
+2. (i) Mais à l’égard de ces soins thérapeutiques, Gwynneth serait-elle limitée de façon marquée dans ses fonctions mentales nécessaires aux activités de la vie quotidienne (alinéa 118.3 (1)(a.1))?
+(ii) Les soins thérapeutiques sont-ils essentiels afin de maintenir ses fonctions vitales (sous-alinéa 118.3 (1)(a.1)(i))?
+3. Le temps consacré aux activités décrites dans les questions 1 (i) à (iii) ci-dessus, est-il exclut à titre de rendez-vous médicaux ou à titre d’activités liées aux restrictions ou régimes alimentaires? [10]
+4. La contribuable et sa fille, ont-elles passé une moyenne d’au moins 14 heures par semaine à l’administration de soins thérapeutiques de PCU prescrits?
+5. Subsidiairement, si la contribuable ne réussit pas à répondre à une des questions 1 à 4 ci-dessus, l’effet causé par la PCU de Gwynneth, est-il la raison pour laquelle elle est limitée de façon marquée dans sa capacité de se nourrir elle-même? Plus particulièrement, la phrase « se nourrir soi-même » est-elle limitée à la capacité de préparer des aliments et d’utiliser des couverts ou les mains pour prendre la nourriture de l’assiette à la bouche et la mâcher et l’avaler — même dans le cas où la plupart des aliments trouvés dans les placards d’une maison ordinaire ou aux épiceries ou aux restaurants auront des conséquences néfastes au fonctionnement et au développement mentaux?
+Les faits/preuve
+[25] Le trouble de PCU de Gwynneth et l’incapacité de son foie de métaboliser correctement la Phe ont été détectés à la naissance, et son traitement a commencé immédiatement. À l’époque, on avait dit à l’appelante que si sa fille ne recevait pas du traitement, elle ne se développerait pas au-delà des capacités mentales d’une fille de trois ans.
+[26] Gwynneth avait été assignée à une équipe médicale de la clinique de troubles métaboliques de l’hôpital pour enfants de l’Alberta (Alberta Children’s Hospital) composée d’une docteure spécialiste en troubles génétiques, de deux diététistes professionnels et d’une infirmière, ainsi que d’un travailleur social à des fins de séances de consultation telles qu’exigées.
+[27] La PCU est un trouble génétique rare dont souffre environ un Canadien sur 15 000. Ce trouble est diagnostiqué par le programme de dépistage par piqûre au talon de nouveau-nés, administré généralement à la naissance.
+[28] La Phe est un des nombreux acides aminés trouvés dans la plupart des protéines alimentaires. Cet acide est essentiel au développement de l’organisme et au fonctionnement approprié du cerveau. Les personnes souffrant de la PCU, le foie n’est pas capable de traiter la Phe de manière appropriée, ce qui entraîne une cumulation toxique dans le sang et dans le cerveau.
+[29] Le traitement médical de la PCU est prescrit par le généticien, qui estime la quantité précise de Phe requise à consommer de manière quotidienne, la quantité exacte de formules médicales ou les formules à consommer trois à quatre fois par jour, ainsi que la consommation quotidienne de calories. Ces quantités sont examinées et remplacées régulièrement suite aux analyses de sang effectuées afin d’identifier le niveau de Phe dans le sang. Le sang est généralement pris deux fois par semaine chez les bébés, puis cette prise de sang est effectuée une fois par semaine, et, dans le cas de Gwynneth en 2015, toutes les deux semaines. La prise de sang doit être effectuée au moins une fois par mois, ce qui est maintenant le cas de Gwynneth maintenant qu’elle prend le produit pharmaceutique Kuvan. Ces analyses de sang sont effectuées à l’hôpital et non à la maison, puisqu’il n’y a pas encore de trousses ou de méthodes d’analyse de sang disponibles. L’analyse de sang doit être effectuée plus souvent certaines fois, car le niveau de Phe est affecté par l’apparition de dents, l’accélération de croissance, les activités sportives, les maladies, d’autres médicaments, la puberté, la grossesse, etc.
+[30] La consommation quotidienne de calories doit être identifiée, puisque si l’organisme n’ingère pas assez de calories, il commence à brûler la masse corporelle existante, y compris les protéines ayant un niveau de Phe élevé, ce qui fait que le niveau de Phe de l’enfant fait un pic. Les calories manquantes sont préparées dans la formule médicale, dans les aliments médicaux, ainsi que dans certains aliments ordinaires à faible teneur en protéine.
+[31] L’administration des quantités nécessaires de Phe exige le pesage d’absolument tout ce qui entre dans la bouche de l’enfant, ainsi que le calcul du niveau de Phe de tout ce qui entre dans la bouche de l’enfant. Puisque les enfants ne sont pas coopératifs à 100 % et ne mangent pas la nourriture servie, cela implique le pesage et le nouveau calcul des aliments restants.
+[32] La quantité quotidienne de Phe prescrite de Gwynneth en 2015 était dans la gamme de 300 mg. Le niveau de Phe doit être calculé et contrôlé au milligramme le plus proche, c’est-à-dire qu’il y a seulement une fraction de tolérance de 1 % pour atteindre la quantité prescrite et non une quantité inférieure ou supérieure.
+[33] Le calcul du niveau de Phe comprend peser chaque portion d’aliment particulier, trouver son contenu de protéines en fonction du poids de chaque aliment particulier selon de nombreux tableaux qui sont disponibles, et appliquer un facteur qui reflète la quantité de Phe dans les protéines alimentaires. Certains produits alimentaires et médicaments contiennent un haut niveau disproportionnel de Phe, tels que tous les produits ayant l’aspartame comme ingrédient et certains tableaux doivent être consultés pour vérifier ces produits. [11] Tous les nouveaux médicaments exigent une consultation avec un des diététistes professionnels de la clinique de troubles métaboliques.
+[34] Cela exige également d’enseigner à autrui la façon de protéger le cerveau de Gwynneth — toutes les personnes qui lui donneront de la nourriture, comme les fournisseurs de services de garderie, les enseignants, les grands-parents et d’autres membres de la famille.
+[35] Le régime alimentaire médical restreint du traitement de PCU comporte trois composants différents :
+(i) La formule médicale,
+(ii) les aliments médicaux produits de manière spéciale,
+(iii) aucun aliment ordinaire à faible teneur en protéine.
+La formule médicale
+– Le régime alimentaire restreint du traitement de PCU comprend des aliments à très faible teneur en protéine, ce qui cause un manque de certains autres minéraux et nutriments. Cela crée un besoin d’ajouter des formules spécialisées d’acides aminés sans Phe, ainsi que les aliments médicaux produits de manière spéciale indiqués ci-dessous. Dans le cas de Gwynneth, son ordonnance médicale incluait deux formules sèches à mélanger avec de l’eau et à administrer trois ou quatre fois au cours de chaque jour. (Pour certains enfants, il est prescrit de mélanger la formule avec une petite quantité de lait de vache, auquel cas cela serait une source de Phe.)
+– Ces formules sont dispensées seulement sur ordonnance d’un médecin. Le coût de ces formules médicales est couvert par le régime d’assurance-maladie de toutes les provinces.
+Les aliments médicaux
+– Les aliments médicaux comprennent des aliments spécialement produits dont la teneur en protéine est très faible ou dont la plupart des protéines ont été enlevées (aliments appauvris en protéine). Les aliments médicaux sont distribués hors de la chaîne de distribution alimentaire normale auprès d’un certain nombre de distributeurs canadiens. Leur distribution est complètement financée dans toutes les provinces canadiennes, une fois qu’elle est approuvée par une ordonnance d’une clinique de troubles métaboliques. Dans le cas de Gwynneth, sa docteure soutient que ces aliments sont fournis par le programme de maladies métaboliques héréditaires (Inherited Metabolic Diseases Program) des Services de la santé de l’Alberta. Quant à Mme Pallone en Colombie-Britannique et à l’appelante en Alberta, l’unité hospitalière a informé le programme alimentaire québécois pour le traitement de maladies métaboliques héréditaires du National Food Distribution Centre que leurs enfants étaient admissibles au choix de commander les aliments directement et que la province a payé le distributeur directement. Dans l’affaire dans Mullings, le centre de distribution de l’Ontario était le Sick Children’s Hospital de Toronto.
+– Les aliments médicaux sont règlementés au Canada et incluent des avertissements importants indiquant qu’ils doivent être consommés seulement sous surveillance médicale. Ces avertissements incluent des phrases telles que :
+· [traduction] « À utiliser exclusivement sous surveillance médicale dans le traitement d’appoint à la diète de troubles médicaux dont la consommation de protéines exige du contrôle ou des restrictions »,
+· [traduction] « [Ce produit] a été élaboré spécialement en tant qu’aliment médical pour le traitement d’appoint à la diète de troubles dont la consommation de protéines exige du contrôle ou des restrictions. À utiliser seulement sous surveillance médicale », et
+· [traduction] « AVIS IMPORTANT : Le produit doit être consommé en tant que partie d’un plan alimentaire intégré approuvé par un médecin et ne doit pas être utilisé en tant que seule source d’alimentation. »
+– Ces aliments médicaux sont utilisés seulement dans la préparation d’aliments faisant partie du traitement de PCU du patient. Ils comprennent des produits décrits comme des pâtes, du riz, des gaufrettes, du mélange pour boulettes burger, du mélange pour hot dog, de l’imitation d’œufs, de l’imitation macaroni et fromage, des craquelins, du mélange de cuisson, des céréales et plusieurs produits à base de pain, ainsi que du lait « Dari-Free ». Ces aliments exigent souvent plus de temps de cuisson que les aliments réguliers.
+– Les aliments médicaux sont utilisés afin d’administrer de petites quantités de Phe, tels que requis par le patient souffrant de la PCU, ainsi que d’autres ingrédients nutritionnels nécessaires.
+– Il ressort clairement du courriel d’approbation envoyée par un des diététistes professionnels de Gwynneth à l’hôpital que les « ordonnances » d’approbation sont seulement pour certains aliments disponibles et dans les quantités déterminées par le trouble de Gwynneth et les modifications comprises.
+Aucun aliment ordinaire ou aliment à faible teneur de protéine
+– Certains aliments sont naturellement très faibles en protéine. Ils sont utilisés pour administrer une certaine quantité de Phe au patient souffrant de la PCU, tout en offrant une alimentation mieux équilibrée dans l’ensemble. Même avec ces « aliments ordinaires », le niveau de Phe doit être identifié et enregistré, etc. dans le cadre de la consommation quotidienne de Phe de Gwynneth, en s’assurant qu’elle reçoit la quantité précise de Phe prescrite. Ces aliments ordinaires peuvent être préparés pour les repas d’autres membres de la famille en même temps et être consommés par d’autres membres de la famille. Cependant, tous les ingrédients doivent être mesurés de façon minutieuse et précise et les portions de Gwynneth doivent être isolées, pesées, mesurées, converties et enregistrées, etc.
+[36] L’appelante a décrit sa vie depuis que Gwynneth a été diagnostiqué à sa naissance comme [traduction peser, mesurer, convertir, manger et répéter chaque bouchée, chaque chose, pendant toute la journée, chaque jour.
+[37] Le dernier repas de chaque jour, la collation à l’heure du coucher, est le moment d’administrer la quantité de Phe nécessaire afin d’équilibrer le niveau de Phe quotidien requis. Cette quantité est administrée en tant qu’aliment et non comme un liquide.
+[38] Toute l’administration du traitement diététique a été effectuée par l’appelante jusqu’à que Gwynneth ait 10 ans. À l’âge de 10 ans, l’appelante a commencé à impliquer Gwynneth dans la gestion du traitement diététique de sa PCU sous surveillance. Ce n’est qu’à 15 ans, que , c’est-à-dire après les années en question, que Gwynneth a été capable de gérer le traitement de sa PCU sans surveillance. Cela signifie qu’entre l’âge de 10 ans et 15 ans, l’enfant souffrant de PCU et le parent étaient impliqués dans l’administration du traitement.
+[39] Depuis 2015, Gwynneth prend du Kuvan, un produit pharmaceutique contenant l’enzyme BH4 qui est normalement responsable de métaboliser la Phe afin de la transformer en tyrosine dans l’organisme. Cela a relativement réduit le temps nécessaire pour administrer le traitement prescrit, car il a permis à Gwynneth de manger un peu plus d’aliments ordinaires à teneur faible de Phe, puisqu’elle peut tolérer un peu plus de Phe. La combinaison d’aliments médicaux et d’aliments ordinaires au cours des années a varié de 90 aliments médicaux par rapport à 10 aliments ordinaires, lorsqu’elle était plus jeune, à 60 aliments médicaux par rapport à 40 aliments ordinaires, lorsqu’elle avait 15 ans, à 40 aliments médicaux par rapport à 60 aliments ordinaires, maintenant qu’elle prend du Kuvan.
+Estimations du temps hebdomadaire moyen
+[40] L’appelante a préparé un tableau d’une page estimant le temps consacré au traitement et à la gestion du traitement de PCU de Gwynneth. Il s’agit d’une description de style abrégé d’une page de 19 activités, ainsi qu’une estimation du temps hebdomadaire total en minutes consacré à chaque activité en moyenne.
+[41] L’appelante a décrit cela dans ses preuves, elle a été contre-interrogée à cet égard et a répondu à mes questions en cherchant une clarification du motif de ce tableau. Il demeure au mieux, une estimation. Il comprend, par conséquent, un certain nombre de limitations qui ont été identifiées par la Cour.
+[42] La seule restriction déclarée dans le formulaire lui-même est que ces estimations n’incluent pas du temps et des activités supplémentaires exigés lorsque Gwynneth a un type de maladie. Le temps consacré à gérer les soins thérapeutiques augmente lorsqu’elle est malade, puisque cela exige plus d’analyses de sang et plus de surveillance globale. Cela comprend des maladies considérables, ainsi que des maladies dont le traitement peut être facilement effectué par des médicaments sans ordonnance.
+[43] Peut-être, ce qui est le plus significatif, est le fait que cela a été préparé au cours des mois menant au procès pour refléter l’état des affaires lorsque Gwynneth avait environ 14 ans à 15 ans à l’époque où la demande a été faite. Il ressortait clairement du témoignage qu’un certain nombre de ces activités exigeaient considérablement plus de temps dans des années antérieures lorsque Gwynneth était plus jeune. Je ne crois pas qu’une décision appropriée devrait être prise en limitant la révision à l’année particulière dont la demande visant à obtenir une décision est faite — lorsque Gwynneth avait 15 ans — étant donné que la décision s’appliquera également aux 10 années antérieures — lorsque Gwynneth avait 5 ans.
+[44] De plus, les éléments de preuve montraient clairement que lorsque Gwynneth avait 10 à 15 ans, la contribuable et elle étaient impliquées dans l’administration de son traitement de PCU, puisqu’il était nécessaire pour la contribuable de commencer à s’assurer que son enfant soit capable de gérer son traitement de PCU elle-même alors qu’elle atteint l’âge adulte. Cela serait naturellement un long processus. Puisque les deux étaient impliquées, son estimation aurait besoin d’être considérablement supérieure au début du processus, en diminuant graduellement au cours de la présente période de cinq ans. Cela n’est pas reflété dans les estimations.
+[45] Un certain nombre d’activités sont identifiées dans la liste que le juge Jorré a acceptée dans Mullings, et, selon leur conformité aux éléments de preuve dans la présente affaire, doivent être entrepris et entrent dans le cadre du traitement de Gwynneth, mais ne semblent pas figurer dans le tableau d’une page.
+[46] Comme décrit plus en détail ci-dessous, dans deux instances sur ce tableau, des erreurs arithmétiques ont été commises dans la conversion des estimations annuelles en heures par semaine.
+[47] Comme décrit ci-dessous, ce n’est pas tout le temps consacré aux activités liées à l’administration du traitement qui sera compté, étant donné les exclusions dans la loi sur le crédit d’impôt pour personnes handicapées.
+[48] Conformément à l’analyse de sang, le temps consacré est 15 minutes par semaine sur le fondement que l’analyse de sang était une fois par mois. Il ressort clairement des éléments de preuve que l’analyse de sang a commencé à être effectuée une fois par mois après que Gwynneth a commencé à prendre du Kuvan, ce qui était après que la demande soit faite. Avant cela, l’analyse de sang était effectuée deux fois par mois, tel que décrit ci-dessous, et elle était effectuée antérieurement de façon hebdomadaire. Je trouve que si une estimation appropriée avait été saisie dans le tableau, il montrerait que l’analyse était effectuée au moins deux fois par mois et, par conséquent, au moins 30 minutes par semaine.
+[49] Les préoccupations de l’intimée concernant les activités et les estimations de temps dans le tableau sont énoncées aux paragraphes 18 à 22 des autres observations écrites de l’intimée datées du 17 août 2017 (et reconfirmées dans la lettre de l’intimée à la Cour datée du 25 septembre 2017). Elles sont rédigées comme suit :
+L’appelante n’a répondu d’aucune façon aux exigences de 14 heures minimales
+18. [traduction] Même si la Cour applique le raisonnement du juge Jorré dans Mullings, l’appelante n’a pas démontré qu’elle répond aux exigences de 14 heures minimales.
+19. [traduction] Le chronogramme indique que l’appelante a passé un temps moyen de 15,79 heures par semaine à gérer le traitement de PCU de sa fille. Au contre-interrogatoire, l’appelante a admis que le chronogramme a surévalué le temps lié à plusieurs activités.
+20. [traduction] L’appelante a accordé 90 minutes par semaine au temps accordé à la « préparation de voyages à l’extérieur de la maison (p. ex., voyages de fin de semaine, échange de travail étudiant à Montréal, vacances prolongées) » et 60 minutes par semaine à « éduquer des fournisseurs de soins de l’enfant (p. ex., la famille d’accueil et le personnel du YWCA pendant l’échange de travail étudiant à Montréal) ». Pendant la contre-interrogation, elle a reconnu que ces activités auraient lieu seulement certaines fois par année, plutôt que de façon hebdomadaire. Ces activités doivent être enlevées du temps moyen estimé par semaine consacré aux soins thérapeutiques.
+21. [traduction] Le chronogramme a également inclus 30 minutes par semaine de « temps de déplacement pour aller à la consigne de service de messagerie pour chercher les aliments médicaux et les médicaments ». L’alinéa 118.3 (1,1) (d) exclut le temps de déplacement des 14 heures minimales exigées. Cette activité ne peut pas être comptée dans la détermination du temps hebdomadaire moyen.
+22. [traduction] Lorsque ces activités sont enlevées, le temps moyen consacré par semaine aux soins thérapeutiques de la fille de l’appelante est de 12,78 heures (767 minutes). Par conséquent, l’appelante ne répond pas à la moyenne de 14 heures minimales exigées pour être admissible au CIPH.
+[50] L’intimée a raison en soulignant que les 30 minutes de déplacement hebdomadaires consacrés à chercher les aliments médicaux et les médicaments à la consigne de service de messagerie ne comptent pas en vertu de l’alinéa 118.3 (1,1) (d).
+[51] L’intimée a raison en soulignant que les 90 minutes et les 60 minutes hebdomadaires accordées au temps à informer des fournisseurs de soins de l’enfant et à préparer des voyages à l’extérieur de la maison respectivement ont été mal calculées, manifestement par inadvertance, par l’appelante lorsqu’elle a préparé le tableau d’une page. Cependant, les éléments de preuve montrent clairement que la Cour a travaillé à cet égard avec l’appelante et les chiffres exacts ne devraient pas être zéro, comme l’a suggéré l’intimée, mais ils devraient être réduits à 10 minutes et à 6 minutes selon ses réponses claires et directes aux questions, une fois que le problème a été identifié.
+[52] Le tableau corrigé ne reflétant aucun temps de déplacement pour chercher les aliments médicaux et les médicaments et les chiffres corrects concernant la préparation du voyage et la fourniture d’informations aux fournisseurs de soins de l’enfant, ainsi que l’analyse de sang, serait de 798,5 minutes ou 13,3 heures.
+[53] Je trouve que les éléments de preuve soutiendraient raisonnablement une augmentation de la gamme de 5 % à 10 % afin de refléter les restrictions que j’ai décrites ci-dessous, autres que les calculs erronés qui sont maintenant corrigés. Cela impose clairement le temps admissible consacré à l’administration des soins thérapeutiques de la PCU de Gwynneth pendant la période pertinente, dépassant les 14 heures hebdomadaires en moyenne.
+[54] Dans le contexte de la restriction du CIPH décrivant « une durée totale moyenne d’au moins 14 heures par semaine » consacrées à toutes les activités liées à l’administration de soins thérapeutiques sur ordonnance médicale, peu importe la complexité de cela dans une situation particulière, il est libellé de manière contextuelle des mesures de façon très différente que, par exemple, la « distance entre l’ancienne résidence et le nouveau lieu de travail est 40 kilomètres plus loin que la distance entre la nouvelle résidence et le nouveau lieu de travail ». Le dernier libellé des frais de déménagement décrit une distance particulière facilement mesurable. En revanche, dans le contexte de traitement permanent, le traitement continu, qui varie selon les maladies, l’accélération de croissance, d’autres médicaments, etc., et qui doit être respecté annuellement au moment des impôts en utilisant une moyenne hebdomadaire pour les activités qui doit occuper au moins un douzième de l’année afin d’être admissible (l’équivalent à un mois consacré aux activités ou approximativement deux mois des heures de la journée de l’année), le concept de chiffres considérables doit être abordé de façon différente afin de refléter ce contexte différent. Si quelque chose doit être à au moins 40 kilomètres entre le point A et le point B, manifestement 39,75 ne sera pas assez. En revanche, où la moyenne de ce qui est décrit dans la loi sur les crédits d’impôt pour personnes handicapées concernant les soins thérapeutiques essentiels, où il serait complètement déraisonnable de s’attendre à que les personnes inscrivent leurs activités réelles de façon quotidienne afin de les mesurer de façon exacte et précise, je serais porté à croire que le concept d’utilisation de chiffres considérables pour calculer les heures moyennes totales est uniquement de nombres entiers. Sur ce fondement, même sans l’augmentation de 5 % à 10 %, dans la présente affaire, je conclus qu’il est justifié de croire que 13,5 heures ou plus, estimées avec les restrictions inhérentes que la loi prévoit clairement, devraient satisfaire à l’exigence de 14 heures.
+[55] Un autre exemple où on pouvait s’attendre à plus de précision est à l’égard des frais de voyage et de repas pour les employés où la restriction est énoncée comme si le « devoir du contribuable lui exige de voyager pendant une période de douze heures ou plus hors de la municipalité ». Là encore, l’élément mesuré, étant la période de 12 heures ou plus, est clairement calculé à l’égard de chaque repas déclaré et il doit par conséquent être examiné de façon quotidienne, auquel cas il y aurait une seule période de temps à calculer. Cela exigerait également un plus haut degré de précision et de rigidité afin de décider si l’exigence a été respectée par le contribuable, étant donné que le temps que l’individu a passé hors de sa municipalité pendant un jour en particulier est plus de 12 heures ou non. De toute évidence, en appliquant la Loi de l’impôt sur le revenu, l’ARC a la liberté de reconnaître qu’il se peut que les calculs quotidiens de chaque jour ouvrable au cours d’une année d’imposition visée par une déclaration particulière n’exigent pas telle exactitude en pratique.
+[56] La Cour dans la présente affaire, cependant, se concentre sur le libellé de la loi et interprète de manière textuelle, contextuelle et téléologique l’exigence concernant la moyenne de 14 heures hebdomadaires requises par quelqu’un ayant une déficience qui exige une prorogation, ce qui est défini en comme ayant une durée continue d’au moins 12 mois, et qui donne lieu à une restriction permanente et continue de façon marquée concernant la réalisation d’activités courantes de la vie quotidienne ou de fonctions mentales nécessaires à la vie quotidienne.
+Réponses et conclusions
+1. Soins thérapeutiques/Therapy
+[57] Je conclus que la définition appropriée du terme « soins thérapeutiques » (therapy) dans les dispositions du CIPH, lu dans le contexte de cette disposition dans les dispositions du CIPH et d’une manière conforme à l’objectif des dispositions du CIPH, qui a été déjà établi par les cours, signifie simplement les soins ou le traitement d’un trouble physique ou mental. Cela est conforme aux définitions des dictionnaires du terme, son utilisation dans le langage populaire, y compris lorsqu’on parle de questions médicales, et il permet le mieux d’atteindre l’objectif des modifications des dispositions du CIPH, qui ont introduit l’extension « mais pour les soins thérapeutiques » à la portée des personnes admissibles à ce crédit. Il est également conforme à la décision du juge Jorré dans Mullings. L’intimée n’a pas présenté d’autres arguments de fond soutenant que cela n’était pas une définition ou une application appropriée.
+[58] Je suis d’accord avec les conclusions plus détaillées du juge Jorré concernant la portée d’activités admissibles dans le cas de l’administration de soins thérapeutiques d’un enfant souffrant de la PCU dans Mullings. (Je suis également d’accord avec ses conclusions concernant ce qui n’est pas admissible, discuté ci-dessous à la rubrique 3.)
+[59] Cela est également conforme aux décisions publiées de l’ARC et aux exemples illustratifs de la portée du terme « soins thérapeutiques » (therapy).
+2. Limites de façon marquée des fonctions mentales/essentielles au maintien d’une fonction vitale
+[60] Il ressort clairement des preuves que si Gwynneth n’avait pas reçu ces soins thérapeutiques, elle aurait eu des conséquences néfastes potentiellement dévastatrices et irréversibles à l’égard de son développement et de son fonctionnement mental appropriés. Clairement, le cerveau et les fonctions mentales sont vitaux et leur fonctionnement normal est maintenu par ces soins thérapeutiques.
+3. Exclusion des restrictions ou régimes alimentaires et du temps de déplacement
+[61] Rien dans le traitement de Gwynneth n’était lié à ce qui peut être équitablement décrit simplement comme une restriction alimentaire, encore moins, comme un régime alimentaire ou quelque chose se rapprochant d’une réduction ou d’un calcul de glucides. Je suis d’accord avec les motifs du juge Jorré dans Mullings selon lesquels, dans le cas de l’administration d’un traitement nécessaire d’un enfant souffrant de la PCU ayant une déficience de PCU aussi étendue que celle de Gwynneth et celle de l’enfant dans Mullings, le calcul et la gestion de la consommation globale de Phe auprès d’aliments médicaux et d’aliments ordinaires est très semblable à administrer un médicament que gérer un régime alimentaire. Je suis d’accord que cela devrait s’appliquer également à la période de temps consacré à calculer la quantité de Phe qui doit être consommée et la quantité de Phe réellement consommée, ainsi qu’à l’inscription de la consommation de Phe.
+[62] Le temps de déplacement est manifestement une activité exclue, même si elle est nécessaire aux soins thérapeutiques. Le temps de déplacement a été enlevé du calcul du temps hebdomadaire moyen consacré aux activités admissibles au traitement de PCU de Gwynneth mentionnées ci-dessous.
+4. L’exigence d’une moyenne de 14 heures par semaine
+[63] En raison des motifs décrits ci-dessous, j’ai conclu, conformément aux preuves dans la présente affaire, que l’exigence d’une moyenne de 14 heures par semaine a été respectée pour la période d’années allant jusqu’à l’année où la demande d’admissibilité au CIPH a été faite (2015).
+[64] Cette conclusion ne demeure pas nécessairement inchangée à l’avenir. Elle peut dépendre de la réussite continue de l’effet du Kuvan ou d’autres produits pharmaceutiques dans le traitement du trouble de Gwynneth. Cette conclusion peut dépendre des changements dans sa santé globale ou de la portée de son trouble de PCU. Il se peut également, qu’en tant qu’adulte capable et compétente, elle soit capable d’administrer le traitement elle-même de manière plus efficace.
+[65] L’exigence de 14 heures est particulière à chaque contribuable et ne sera pas respectée par chaque personne souffrant de la PCU, même depuis l’enfance. Les éléments de preuve montraient clairement que le trouble de la PCU n’est pas une incapacité extrémiste de traiter la Phe, mais que des personnes différentes ont des niveaux différents d’incapacité concernant le traitement de Phe. Les personnes devront continuer à répondre à cette exigence au cas par cas.
+5. Limitation marquée concernant la capacité de se nourrir elle-même
+[66] Je n’ai pas besoin de prendre une décision concernant cette dernière question dans la présente affaire. Cependant, dans des circonstances telles que celles du trouble de PCU de Gwynneh, je serais très porté à penser que le fait de nourrir Gwynneth, dans ses circonstances particulières, exigeait du temps excessif.
+[67] La disposition du CIPH prévoit une personne dont sa déficience peut limiter de façon marquée sa capacité de se nourrir elle-même, en exigeant un temps excessif pour ce faire. Il n’y a aucune raison claire ou évidente de croire que cela devrait être limité aux déficiences à l’égard des bras, de la mâchoire ou de la bouche ou d’autres capacités motrices concernées. Une déficience limitant ce dont une personne est capable de traiter en tant que nutriment pour alimenter l’organisme sans causer des dommages sévères et permanents pourrait également être prise en compte lorsqu’on interprète et applique cette disposition du CIPH avec humanité, compassion et bon sens.
+[68] L’appel est accueilli.
+Signé à Ottawa, Canada, ce 27e jour de février 2018.
+« Patrick Boyle »
+Juge
+RÉFÉRENCE :
+2018 CCI 42
+No DU DOSSIER DE LA COUR :
+2016 ‑2556 (IT) I
+INTITULÉ :
+SANDRA HUGHES c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 14 mars 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 27 février 2018
+COMPARUTIONS :
+[EN BLANC]
+Représentant de l’appelante :
+John Adams
+Avocat de l’intimée :
+Me E. Ian Wiebe
+AVOCATS INSCRITS AU DOSSIER :
+[EN BLANC]
+Pour l’appelante :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2017 CCI 133.
+[2] [1998] A.C.I. no 169 (QL).
+[3] [1996] A.C.I. no 730 (QL).
+[4] Réponse à l’avis d’appel, paragraphe 6g); Les observations écrites de l’intimée datées du 12 avril 2017, paragraphe 2.
+[5] Les observations écrites de l’intimée datées du 12 avril 2017, paragraphe 19.
+[6] Mullings, paragraphe 15.
+[7] Mullings, paragraphe 30.
+[8] Mullings, Annexe B.
+[9] [1996] A.C.I. no. 647 (QL).
+[10] Suite à la décision prise dans Mullings, l’intimée a écrit à la Cour qu’« aux fins du présent appel » (je souligne) l’intimée n’a pas contesté l’interprétation dans Mullings concernant la phrase « activités liées aux restrictions alimentaires ou régimes ». Après avoir entendu les éléments de preuve et l’argument, ainsi qu’avoir reçu des observations écrites, il ne serait pas sage de ne pas procéder à la prise de décision concernant cette question dans la présente affaire.
+[11] L’aspartame n’a pas un contenu considérable de protéines, mais il est composé d’environ 50 % de Phe.

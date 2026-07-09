@@ -1,0 +1,146 @@
+---
+title: "McCarthy v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25855/index.do"
+last_modified: "2003-07-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 507"
+citation2: ""
+neutral_citation: "2003 TCC 507"
+decision_date: "2003-07-22"
+language: "en"
+item_id: "25855"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3914
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:55:36.026000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f7e6276b311557323dc8dbdb19e4ec544adf3c114fdc72c7c66f1d2604c3591c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McCarthy v. The Queen
+
+- Citation: 2003 TCC 507
+- Decision date: 2003-07-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3914, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McCarthy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-22
+Neutral citation
+2003 TCC 507
+File numbers
+2002-4483(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4483(IT)I
+BETWEEN:
+WILLIAM MCCARTHY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 10, 2003 at London, Ontario
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marlyse Dumel
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1999, 2000 and 2001 taxation years are dismissed in accordance with the attached Reasons for Judgmennt.
+Signed at Vancouver, British Columbia, this 22nd day of July 2003.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2003TCC507
+Date: 20030722
+Docket: 2002-4483(IT)I
+BETWEEN:
+WILLIAM MCCARTHY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at London, Ontario, on July 10, 2003. The Appellant was the only witness.
+[2] Paragraphs 6 to 9 of the Reply to the Notice of Appeal read:
+6. The Minister reassessed the Appellant for the 1999, 2000 and 2001 taxation years to reduce the deduction for support payment claimed in 1999 to $880 and to disallow the deductions for support payments claimed in 2000 and 2001. The concurrent Notices were mailed on April 22, 2001.
+7. In so reassessing the Appellant, the Minister made the following assumptions of fact:
+(a) throughout the 1999, 2000 and 2001 the Appellant was divorced from his former spouse (the "Spouse");
+(b) a Court Order dated June 20, 1986 (the "First Order"), required the Appellant to pay child support of $216.66 per month for each of his three children Francis John McCarthy ("Francis"), Erin Julia McCarthy ("Erin"), and Olive Kathleen McCarthy ("Kathleen"), to a total amount of $649.98;
+(c) the Appellant and the spouse had not signed an election to have the old tax rules apply to the child support payments made after April 30, 1997;
+(d) the Appellant fell in arrears in respect of child support payable;
+(e) a Court Order dated August 30, 1999 (the "Second Order"), varied the amounts of the child support payments established by the First Order, ordered that all arrears accruing prior to January 1, 1999, be rescinded, and required the Appellant to begin paying arrears in the amount of $1,438.18 that have accrued for the period from January 1, 1999 to June 30, 1999;
+(f) according to the terms of the Second Order, the Appellant was required, commencing on December 31, 1998, to stop paying support payments for Francis and to continue making the same total payments of child support as before, but applicable to Erin and Olive alone;
+(g) as a result of the Second Court, the amount payable for each of the two children Erin and Olive was higher than the amounts payable ordered under the First Order;
+(h) the total child support payments made by the Appellant during the 2000 and 2001 taxation years, did not exceed the amount of the child support payable required by the Second Order;
+(i) in the 1999, 2000 and 2001 taxation years, the amount deductible by the Appellant in respect of child support payments made by him in those years, was $880, $0 and $0, respectively.
+B. ISSUES TO BE DECIDED
+8. The issue is whether the amounts of $7,479 $6,262 and $4,386, claimed by the Appellant on account of child support payments, were deductible in computing the Appellant's income for the 1999, 2000 and 2001 taxation years, respectively.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+9. He relies on sections 56, 60 and 60.1, subsections 56.1(4) and 60.1(4), and paragraph 60(b) of the Income Tax Act, R.S.C. 185 (5th Supp.) c. 1 (the "Act") as amended for the 1999, 2000 and 2001 taxation years.
+[3] Respondent's counsel placed the Orders of the Court in question and an Interim Agreement executed between the dates of the two Orders in question into evidence. (Exhibits R-1, R-2 and R-3).
+[4] The Appellant's own testimony described the manner and interpretations of the Orders, Agreement and actions of the parties over what is now 17 years of bitter acrimony which include various accusations of withholding or non-payment of child support, and at least one public confrontation. They did not refute the interpretation placed on the results of the Orders and Agreement stated by the assumptions in the Reply.
+[5] The result is that this case is identical in its effect and result to that described by Bowman, A.C.J., in Kovarik v. Canada, [2001] T.C.J. No. 181 respecting the Orders in question in this case.
+[6] A copy of Kovarik was given to the Appellant by Respondent's counsel.
+[7] In these circumstances this appeal is dismissed for the reasons described in Kovarik.
+Signed at Vancouver, British Columbia, this 22nd day of July 2003.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2003TCC507
+COURT FILE NO.:
+2002-4483(IT)I
+STYLE OF CAUSE:
+William McCarthy v. The Queen
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+July 10, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT:
+July 22, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marlyse Dumel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

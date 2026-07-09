@@ -1,0 +1,182 @@
+Title: Dunphy v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29572/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-619-29572-dunphy-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-10-21
+
+# Dunphy v. The Queen
+
+- Citation: 2009 TCC 619
+- Decision date: 2009-10-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6329, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dunphy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-21
+Neutral citation
+2009 TCC 619
+File numbers
+2008-3787(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3787(IT)I
+BETWEEN:
+PATTRICK A.M. DUNPHY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 21, 2009, at Halifax, Nova Scotia
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jan Jensen
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2006 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+1. the lump sum payment of $45,000 received by the Appellant in the 2006 taxation year had a dual purpose; namely, the settlement of the appeal of his discharge from employment with the Halifax Regional School Board and the settlement of the complaint filed against the Halifax Regional School Board with the Human Rights Commission; and
+2. $11,139 of the $45,000 payment is apportioned to the settlement of the human rights complaint.
+It is further ordered that the filing fee of $100 be refunded to the Appellant.
+Signed at Edmonton, Alberta, this 15th day of December, 2009.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2009TCC619
+Date: 20091215
+Docket: 2008-3787(IT)I
+BETWEEN:
+PATTRICK A.M. DUNPHY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The issue in this appeal is whether all or some of a $45,000 lump sum payment the Appellant received from his former employer was a “retiring allowance” and required to be included in his income under subparagraph 56(1)(a)(ii) of the Income Tax Act. The term “retiring allowance” is defined in subsection 248(1) of the Act:
+“retiring allowance” means an amount … received
+…
+(b) in respect of a loss of an office or employment of a taxpayer, whether or not received as, on account or in lieu of payment of, damages or pursuant to an order or judgment of a competent tribunal,
+by the taxpayer…
+[2] In reassessing the Appellant’s 2006 taxation year, the Minister of National Revenue concluded that the $45,000 payment was caught by this definition and included the entire amount in the Appellant’s income.
+[3] The Appellant’s position is that $17,277 of the $45,000 payment was not for loss of employment but rather, in respect of the settlement of a complaint he had filed against his employer with the provincial Human Rights Commission; accordingly, that amount ought not to have been included in income.
+Facts
+[4] The Appellant represented himself and was the only witness to testify at the hearing of this appeal. I found him to be a credible and well-prepared witness who presented his evidence in a straight-forward manner.
+[5] The Appellant had been a physical education teacher with the Halifax Regional School Board for nearly 30 years when in 2003, a new position for a physical education teacher became available at the school where he was teaching. Although for the Appellant, it represented a lateral move within the Halifax Regional School Board system, he was very interested in the job. Confident that his education, experience and seniority would all but guarantee his success, the Appellant decided to apply for the new position. To his surprise, it was offered to a female teacher from a different school with only 6 years experience.
+[6] The Appellant’s reaction was to file a union grievance under his collective bargaining agreement alleging gender discrimination against the Halifax Regional School Board. In this pursuit, he was assisted by his union representative, Mr. Kelloway, and a union-appointed lawyer.
+[7] Around the same time, the Appellant filed a complaint against the Halifax Regional School Board with the Human Rights Commission alleging gender discrimination. As this was a private matter, the Appellant retained his own lawyer, a Mr. Pavey, to handle the complaint.
+[8] Meanwhile, the Appellant continued teaching in the position he had held before making his application. His evidence was that prior to filing the union grievance and the complaint with the Human Rights Commission, he had enjoyed an “impeccable record” with the Halifax Regional School Board; afterwards, he said, “… the wheels fell off.”[1]. What began as unpleasantness escalated to the point where the Appellant laid a charge of criminal harassment against one of his colleagues. The Appellant was accused of a variety of misdeeds, including the fabrication of marks and misappropriation of school funds. In the end, the Appellant was discharged from his employment with the Halifax Regional School Board for what may be generally described as misconduct in the performance of his duties. He then exercised his right under the Nova Scotia Education Act to appeal his discharge to the Minister of Education.
+[9] The appeal was set down for arbitration but was ultimately adjourned sine die because of, among other things, serious medical problems the Appellant and his wife were then experiencing. Time passed and by early 2006, the Appellant began to consider putting the stress of appealing his discharge behind him. He was also bothered by the human rights complaint which also remained unresolved. Negotiations ensued and in March 2006, his union representative and his union lawyer reached an agreement with the lawyer for the Halifax Regional School Board, Mr. Pickard. The Appellant agreed to the terms presented and signed Minutes of Settlement[2] dated March 21, 2006.
+[10] On March 23, 2006, pursuant to paragraph 6 of the Minutes of Settlement, the Appellant’s human rights complaint lawyer, Mr. Pavey, wrote to the Human Rights Commission to withdraw his complaint. As it turned out, there would be no response to this letter until August 31, 2006 when the Human Rights Commission finally wrote to advise that the Appellant’s complaint had, in fact, been discontinued in January 2006 and having received no response from the Appellant within the time provided, the Commission had confirmed that decision on March 16, 2006, some 5 days before the parties executed the Minutes of Settlement. Neither the Appellant nor the Halifax Regional School Board had been informed of these decisions when they signed the Minutes of Settlement. (In fact, as of the date of this hearing, the Appellant had still not received official notice from the Human Rights Commission of their 2006 decision.)
+[11] Under their agreement, the Halifax Regional School Board paid the Appellant a total of $68,276. Of that amount, $23,276 was a long‑service payment that was rolled over into an RRSP; only the balance of $45,000 is in issue in this appeal. At some point, the Appellant received three T-4 slips from the Halifax Regional School Board in respect of the $68,276 payment, one of which indicated an amount of $17,277. In each of the T-4’s issued by the Halifax Regional School Board, the amount was described as a “retiring allowance”.
+[12] Some time in June 2006, the Appellant sought advice from a Canada Revenue Agency official regarding the tax consequences of the $45,000 payment he had received under the Minutes of Settlement. Following that conversation, his understanding was that where a lump sum payment was received in respect of loss of employment that also involved a human rights complaint, approximately 30% of that amount might reasonably be apportioned for damages in respect of the human rights issue. The Appellant was also referred to Interpretation Bulletin IT-337R4 “Retiring Allowances”. Paragraphs 9 and 12 of that document are reproduced below:
+Types of Receipts
+Damages
+¶9. Generally, compensation received by an individual from the individual’s employer or former employer on account of damages may be employment income, a retiring allowance, non-taxable damages, or a combination thereof. Such a determination is a question of fact, which requires a review of all relevant facts and documentation of each particular case.
+…
+¶12. Where personal injuries have been sustained before or after the loss of employment (for example, in situations of harassment during employment, or defamation after dismissal), the general damages received in respect of these injuries may be viewed as unrelated to the loss of employment and therefore non-taxable. In order to claim that damages received upon loss of employment are for personal injuries unrelated to the loss of employment, it must be clearly demonstrated that the damages relate to events or actions separate from the loss of employment. In making such a determination, the amount of severance that the employee would reasonably be entitled to will be taken into consideration.
+Similarly, general damages relating to human rights violations can be considered unrelated to a loss of employment, despite the fact that the loss of employment is often a direct result of a human rights violations complaint. If a human rights tribunal awards a taxpayer an amount for general damages, the amount is normally not required to be included in income. When a loss of employment involves a human rights violation and is settled out of court, a reasonable amount in respect of general damages can be excluded from income. The determination of what is reasonable is influenced by the maximum amount that can be awarded under the applicable human rights legislation and the evidence presented in the case. Any excess will be taxed as a retiring allowance.
+[13] Knowing that the Minutes of Settlement was silent as to the apportionment of the $45,000 payment, the Appellant consulted his union representative and union lawyer. They were of the opinion that it would be foolhardy to ask the Halifax Regional School Board to sign a new agreement. According to the Appellant, the Halifax Regional School Board was then in a “dysfunctional state of affairs”[3] and for that reason, he agreed that the wiser course would be to ask the lawyer for the Halifax Regional School Board, Mr. Pickard, to write a letter confirming that a portion of the $45,000 payment was intended to be in respect of the human rights complaint and specifying an amount.
+[14] On June 26, 2006, the Appellant wrote a letter[4] to Mr. Pickard reminding him of that the Halifax Regional School Board had agreed that a portion of the lump sum payment was to be attributed to the human rights complaint. He attached a copy of Interpretation Bulletin IT‑337R4 and indicated that on his interpretation of that document, it would be reasonable to allocate 30% of the $45,000 payment ($13,500) to the settlement of his human rights complaint.
+[15] Mr. Pickard replied to his letter on July 17, 2006 acknowledging that a portion of the payment was in respect of the human rights settlement, the Halifax Regional School Board but leaving unanswered the Appellant’s request that an amount be allocated to the human rights complaint settlement:
+…
+I am writing on behalf of the Halifax Regional School Board to confirm that a portion of the settlement funds being paid out to you by the Halifax Regional School Board were with respect to the settlement of the human rights complaint you had filed against the Board.
+The Board is in agreement with your categorization that a portion of the settlement funds be termed general damages with respect to the settlement of a human rights case.
+…
+[16] Around the same time, the Appellant had also asked an official with the Halifax Regional School Board to issue an amended T-4 describing some portion of the $45,000 as being in respect of the human rights complaint settlement. That request also went unheeded.
+[17] In the absence of any indication of quantum from the Halifax Regional School Board, when the Appellant filed his 2006 income tax return, he claimed $17,277, (approximately 38%) of the $45,000 payment in respect of the human rights complaint settlement.
+[18] Just prior to the hearing of this appeal and more than three years after his initial requests for clarification from the Halifax Regional School Board, the Appellant was surprised to receive a copy[5] of a letter dated September 23, 2009 from Mr. Pickard to the Canada Revenue Agency, in care of counsel for the Respondent, indicating that under the Minutes of Settlement, the Halifax Regional School Board had contemplated “an amount in the range of $5,000” in respect of the settlement of the human rights case:
+Litigation Officer
+Canada Revenue Agency
+c/o Jan Jensen
+Department of Justice
+Suite 1400, Duke Tower
+5251 Duke Street
+Halifax NS B3J 1P3
+Dear Mr. Jensen:
+Halifax Regional School Board – Patrick Dunphy
+On July 17, 2006, in order to complete a settlement of various matters between the Halifax Regional School Board and Patrick Dunphy, I wrote a letter that referenced his human rights complaint. In that letter I indicated the Halifax Regional School Board was prepared to categorize a portion of the settlement funds as general damages with respect to the settlement of his human rights case as against the Halifax Regional School Board.
+The Halifax Regional School Board viewed the human rights case to be without merit, however, as part of the overall settlement of a number of matters respecting his employment with the Board, the Board felt it appropriate to categorize a portion of the settlement funds as being related to the settlement of the human rights case.
+In using the expression “portion of the settlement funds” the Board was contemplating an amount in the range of $5,000.00.
+Yours very truly,
+Ian C. Pickard
+ICP/cs
+c.c. Client
+Patrick Dunphy
+[19] Why this information could not simply have been provided to the Appellant when he asked for it shortly after the execution of the Minutes of Settlement remains a mystery. Instead, whether out of indifference or ineptitude, the Halifax Regional School Board chose to leave him in limbo resulting, ultimately, in the reassessment under appeal. The Appellant’s testimony reveals the dispiriting effect of the treatment he received at the hands of the Halifax Regional School Board:
+And I also reminded [the Halifax Regional School Board through Mr. Pickard] about how we had came about -- how that came about. And that the School Board would -- may not have -- the agreement may have been nullified and rather than have that happen I agreed to sign off on the original settlement agreement with the idea that I'd receive a letter.
+And that when I received -- right. And then I -- so what I finally did is I got a letter from [Mr. Pickard] on July 17th [2006]. This was about a month, a little less than a month later stating that a portion of it but not telling me what a portion would be.
+And then he responds to I guess an inquiry by [the CRA in care of] Mr. Jensen as to what was going on and then Mr. Pickard sent Mr. Jensen back a letter telling him that the portion of the -- part of the settlement the Board was contemplating an amount in the range of five thousand when why we didn't get into that in '05 I don't know.
+Because it seems to me he led my lawyer -- my representative at the union to believe that this was not going to happen, you couldn't -- we couldn't put a portion in the agreement. We wouldn’t be here today if we could have put a portion of it in the settlement agreement.
+But they didn't. They gave me a letter to state that it was -- that a portion would be attributed to the settlement as a result of signing off but he never put a figure on it.
+And then now he does three years later.[6]
+Analysis
+[20] The jurisprudence is clear that the use of the words “in respect of” in the definition of “retiring allowance” is very broad in scope[7].
+[21] To determine whether there is a sufficient nexus between the loss of employment and the payment received, the courts have held that the appropriate test is “but for the loss of employment would the amount have been received?”[8] To paraphrase former Chief Justice Bowman in Stolte v. R.[9], the trick is to figure out what the payment was for; the answer will depend on the facts in each case.
+[22] Counsel for the Respondent submitted that the entire $45,000 payment could be traced back to the Appellant’s loss of employment since, but for his failure to obtain the new teaching position and the subsequent filing of his complaint with the Human Rights Commission, the events that led ultimately to the Appellant’s discharge would not have occurred.
+[23] I am not persuaded by this argument. While I accept that the Appellant was upset with the decision of the Halifax Regional School Board to select what he felt was a less qualified candidate and that afterwards, his relationship with certain individuals in the Halifax Regional School Board soured, there is no evidence to show that the Halifax Regional School Board discharged him because he had filed a complaint with the Human Rights Commission. Certainly, it would be a bold employer who would admit to having based an employee’s dismissal on such grounds. Nor did the Appellant lose his employment because he did not get the new position. He remained in his employment with the Halifax Regional School Board after his unsuccessful bid for the new teaching position and indeed, for quite some time after filing his complaint with the Human Rights Commission.
+[24] It is clear from the letters on behalf of the Halifax Regional School Board and the Minutes of Settlement executed by the parties that the $45,000 payment was for the settlement of two discrete matters: the Appellant’s discharge from employment because of certain conduct in the performance of his duties; and the complaint filed with the Human Rights Commission after his unsuccessful bid for the new position.
+[25] Notwithstanding the imprecise description of the $45,000 in the Minutes of Settlement and the T-4’s issued by the Halifax Regional School Board, as shown by Mr. Pickard’s letters, the Appellant’s former employer did not contradict the Appellant’s evidence that some portion of that amount was in respect of the settlement of the human rights complaint. As for the Minutes of Settlement, after having addressed the settlement of the appeal of the Appellant’s discharge from employment in the preamble and paragraphs 1-5, the parties turned their minds to the other matter in dispute, his complaint to the Human Rights Commission. Under paragraph 6, the Appellant agreed to withdraw his complaint once the Halifax Regional School Board had met its obligations under the Minutes of Settlement. It is notable that the language used in paragraph 6 treats the “Human Rights Complaint” as something different from the appeal under the Education Act referred to in the preamble. The same distinction is made in paragraph 7.
+[26] In my view, the Appellant has met his onus of showing that the settlement of the human rights complaint was a “claim as existing apart from the loss of employment”, the test set out in Fawkes v. R.[10] following the reasoning in Jolivet v. Minister of National Revenue[11].
+[27] In Fawkes, Hershfield, J. found that the taxpayer had used “the threat of an ‘apparently’ supportable human rights claim for reinstatement or of a claim for ambiguous additional damages … to exact a high severance package” and accordingly, concluded that “… the nexus between the receipt and the loss of employment [was] sufficient to bring the entire receipt into the scope of a retiring allowance defined in the Act regardless of inferences to the contrary in [Interpretation Bulletin IT-337R4]”[12]. The same cannot be said here. There is nothing to suggest that the Appellant’s filing of the human rights complaint was a bargaining chip in a larger strategy to increase a settlement in respect of his loss of employment. As in the Stolte[13] decision, the Appellant’s human rights complaint arose out of the behaviour of his former employer prior to the events that culminated in his discharge.
+[28] Taken as a whole, the evidence leads to the conclusion that the parties understood and agreed that the settlement of his human rights complaint was something quite separate from their settlement in respect of the Appellant’s loss of employment. Thus, not all of the $45,000 payment ought to have been treated by the Minister as a “retiring allowance”.
+[29] The question remains as to whether it is open to this Court to apportion some part of the $45,000 payment to the settlement of the human rights complaint and if so, what that amount should be.
+[30] On the first point, counsel for the Respondent referred the Court to a decision of the Federal Court of Appeal, Forest v. R.[14] in which Noël, J.A. relied on Schwartz v. R., [1996] 1 S.C.R. 254 to conclude that:
+25 ... once it has been established that a payment has a dual purpose, the bar for determining apportionment must not be set too high. As Mr. Justice La Forest explains … (Schwartz at paragraph 41), the party that has the burden [of proving the dual purpose] …
+… should not have the burden of presenting, in every case where the apportionment of a general award is at issue, specific evidence amounting to an explicit expression of the concerned parties’ intention with respect to that question, however, there must be some evidence, in whatever form, from which the trial judge will be able to infer, on a balance of probabilities, which part of that general award was intended to compensate for specific types of damages.
+26 I conclude from this passage that, to the extent there is some evidence from which the trial judge can reasonably identify what a global amount is composed of, that evidence should be accepted.[15]
+[31] From this it follows that having established the dual nature of the $45,000 payment, the Appellant faces a rather low evidentiary threshold in respect of the appropriate apportionment of that amount.
+[32] Having received no response from the Halifax Regional School Board to his proposal of allocating $13,500 to the settlement of the human rights case, the Appellant ultimately apportioned $17,277 of the $45,000 to that issue, probably because that figure conformed to an amount shown in one of the T-4’s that the Halifax Regional School Board refused to take the trouble to amend.
+[33] Counsel for the Respondent made the point that because no damages were ever awarded by the Human Rights Commission, no value could properly be put on the settlement of the human rights complaint. It seems to me, however, that the question is not what the Appellant might ultimately have been awarded had he prosecuted his claim but rather, what value the Halifax Regional School Board put on laying it to rest. After ignoring the Appellant’s requests for clarification of the amount for some three years, the Halifax Regional School Board finally disclosed (notably, not to the Appellant but to the CRA) that it had contemplated “an amount in the range of $5,000” in respect of the human rights case. From this I infer that amount was the minimum value the Halifax Regional School Board would have placed on the settlement of the human rights complaint.
+[34] In these circumstances, it seems to me that the most reasonable course of action is to split the difference between the amount actually claimed by the Appellant of $17,277 and the minimum admitted to by the Halifax Regional School Board of $5,000 making for an apportionment of $11,139 in respect of the human rights settlement.
+[35] The appeal is allowed and referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the lump sum payment of $45,000 received by the Appellant in the 2006 taxation year had a dual purpose: the settlement of his appeal of his discharge from employment with the Halifax Regional School Board and the settlement of the complaint he filed against the Halifax Regional School Board with the Human Rights Commission, and that $11,139 of that amount is apportioned to the settlement of the human rights complaint.
+Signed at Edmonton, Alberta, this 15th day of December, 2009.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2009TCC619
+COURT FILE NO.: 2008-3787(IT)I
+STYLE OF CAUSE: PATTRICK A.M. DUNPHY AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: October 21, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: December 15, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jan Jensen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript, page 49, line 2.
+[2] Exhibit A-1.
+[3] Transcript, page 24; lines 17-18.
+[4] Exhibit A-5.
+[5] Exhibit A-4.
+[6] Transcript, page 60, lines 4-25 to Transcript, page 61, lines 1-6, inclusive.
+[7] Niles v. M.N.R., 91 D.T.C. 806, (TCC), at paragraph 19; Overin v. R., 98 D.T.C. 1299, (TCC), at paragraphs 16-19; Fawkes v. R., [2004] 5. C.T.C. 2430, (TCC), at paragraph 23.
+[8] Overin, above, at paragraph 16, referring to Merrins v. The Queen, 94 D.T.C. 6669, (FCTD).
+[9] [1996] 2 C.T.C. 2421 at paragraph 20.
+[10] [2004] 5 C.T.C 2430 at paragraph 24.
+[11] [2000] 2 C.T.C 2118.
+[12] Fawkes, above at paragraph 27.
+[13] Above, at paragraph 20.
+[14] [2008] 3 C.T.C 394.
+[15] Above, at paragraphs 25 and 26.

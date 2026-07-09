@@ -1,0 +1,123 @@
+Title: Bourgouin v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29766/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-59-29766-bourgouin-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-02-06
+
+# Bourgouin v. M.N.R.
+
+- Citation: 2008 TCC 59
+- Decision date: 2008-02-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6525, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bourgouin v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-06
+Neutral citation
+2008 TCC 59
+File numbers
+2007-2484(EI)
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-2484(EI)
+BETWEEN:
+DIANE BOURGOUIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 14, 2008, at Montréal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Gilbert Nadon
+Counsel for the Respondent:
+Suzanne Morin
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue, dated March 21, 2007, in respect of the appeal made to him for the period from March 10, 2003, to October 16, 2003, is confirmed.
+Signed at Ottawa, Canada, this 6th day of February 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 25th day of March 2008.
+Susan Deichert, Reviser
+Citation: 2008TCC59
+Date: 20080206
+Docket: 2007-2484(EI)
+BETWEEN:
+DIANE BOURGOUIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The Appellant is appealing from a decision of the Minister of National Revenue (the “Minister”) that she was not employed in insurable employment from March 10, 2003, to October 16, 2003, while working for 9101‑6006 Québec Inc. (the “Payor”). It is admitted that the Appellant and the Payor are related to each other within the meaning of the Income Tax Act (“ITA”) because the Appellant held 15% of the Payor's shares and her spouse, Mario Gélinas, held the balance of the shares (85%).
+[2] The Minister determined that the Appellant was not employed in insurable employment within the meaning of paragraph 5(2)(i) and subsection 5(3) of the Employment Insurance Act (“EIA”) because he was satisfied that it was reasonable to conclude that the Appellant and the Payor would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length. In making this determination, the Minister relied on the following facts, which are reproduced in paragraph 6 of the Reply to the Notice of Appeal (the “Reply”) and read as follows:
+[TRANSLATION]
+(a) The Payor, which was incorporated in March 2001, operated a franchised restaurant under the “Piazetta” banner in Trois‑Rivières. (admitted)
+(b) The Payor began its operations on August 27, 2001. (admitted)
+(c) The restaurant had 75 seats and was fully licensed. (admitted)
+(d) The restaurant was open seven days a week, throughout the year, from 11 a.m. to 9 p.m. (spring and fall) and from 11 a.m. to 11 p.m. (winter and summer).
+(e) The Payor hired roughly 14 employees, including seven cooks and seven servers, as well as a few part-time students during the summer season, which is the most active. (admitted)
+(f) Mario Gélinas looked after the management and day-to-day operations of the Payor. (admitted)
+(g) The Worker worked for Scotia Capital Inc. from 1986 to April 15, 2002, and had no restaurant experience. (admitted)
+(h) After leaving her employment with Scotia Capital Inc., she received employment insurance benefits until March 10, 2003, when she apparently began working for the Payor. (admitted)
+(i) From August 27, 2001, to March 9, 2003, the Worker rendered services to the Payor on an unpaid basis. (admitted)
+(j) During this period, the Appellant spent 15 to 25 hours per week at the restaurant on evenings and weekends, either to help out with the cash, greet patrons or do any other tasks related to the operation of the restaurant.
+(k) The Appellant considers this unremunerated 18-month period to be a learning and training period. (admitted)
+(l) The Appellant was first entered in the Payor's payroll journal on March 10, 2003, and continued to be entered in that journal until October 16, 2003, while sales were quickly slowing at the end of the summer season. (admitted)
+(m) During the period in issue, in addition to looking after the cash and greeting patrons, the Appellant began to serve tables. (admitted)
+(n) During the period in issue, the Appellant worked roughly 35 hours per week without a work schedule to comply with and without her hours being counted by the Payor.
+(o) Despite her lack of experience, the Appellant was paid $10.00 an hour, even though the minimum hourly rate for a restaurant server is $6.55, plus her share of the tips.
+(p) During the period in issue, the Appellant received sums of $700, $800 or even $900 from the Payor every two weeks, which sometimes represented a great deal more than $10 per hour for 35 hours of work per week.
+[3] In the interview report prepared by an officer with Human Resources and Skills Development Canada and approved by the Appellant on October 27, 2005 (Exhibit I‑1), the Appellant states that she began working for the Payor when the restaurant opened in August 2001. At that time, she was still an employee of Scotia Capital Inc. (“Scotia Capital”), but she worked for the restaurant every evening and on weekends in order to help her spouse. According to the report, she devoted approximately 60 hours a week to the restaurant. She worked there as a hostess, cleared tables, prepared the employees' pay and schedules, and ran errands. Despite her lack of experience, she allegedly began serving tables in October 2002. Throughout this time, she was not paid. She received employment insurance benefits following the loss of her employment with Scotia Capital in the spring of 2002. In March 2003, when she was no longer receiving employment insurance benefits, she was entered in the Payor's payroll journal. According to the copy of the payroll journal tendered as Exhibit I‑5, she started receiving pay on March 15, 2003, and her wage was $10.00 per hour plus tips. Based on the same journal, she was paid for 35-hour to 45-hour weeks. The last time that the Payor paid her was October 25, 2003. She then claimed employment insurance benefits again. She says that the restaurant's first bankruptcy was in January 2004. The business was bought back by her mother, but continued to be managed by her spouse. She was supposedly hired back by 9138‑0840 Québec Inc., the new corporation that operated the same restaurant, from January 24, 2004, to December 31, 2004. She testified that the restaurant went bankrupt a second time in January 2005. However, in a decision by the Canada Revenue Agency (“CRA”) dated May 12, 2006 (Exhibit A‑2), the CRA found that the Appellant's employment with 9138‑0840 Québec Inc. from January 24, 2004, to December 31, 2004, and from January 1, 2005, to December 31, 2005, was insurable.
+[4] In her testimony, the Appellant said that her wage of $10 per hour was justified because she was more than a server (servers were paid $6.55 per hour) and did all the other duties referred to above. However, in her claims for unemployment benefits in respect of the employment period from March 11, 2003, to October 17, 2003 (Exhibit I‑2), she stated that she was employed as a server and was paid $6.55 per hour for 30‑hour weeks. In addition, in a response given by the Appellant to a CRA information request on August 19, 2005 (Exhibit I‑4), she stated that in 2003 she received the hourly wage of employees who earn tips, and that her salary was based on the number of hours worked. At the hearing, she said that she worked a lot more than the hours for which she was paid.
+[5] The Appellant has asked me to review the Minister's decision. In doing so, this Court cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's discretionary power under paragraph 5(3)(b) of the EIA. However, our Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was “satisfied” still seems reasonable (Légaré v. Canada (Minister of National Revenue ­ M.N.R.), [1999] F.C.J. No. 878 (QL), at paragraph 4).
+[6] Here, the Minister was of the opinion that an arm's-length employee would not have worked 15 to 25 hours per week on evenings and weekends for an 18‑month period (August 27, 2001, to March 9, 2003) without pay. Although this fact, referred to in subparagraph 6( j) of the Reply, was initially denied by counsel for the Appellant, it was confirmed by the Appellant in her testimony. The Minister also determined that the Appellant received amounts of $700 to $900 per biweekly period of the Payor, which, on average, is more than $10 per hour for 35 hours of work per week (subparagraph 6(p) of the Reply; see also Exhibit I‑5, the payroll journal). One must not forget that the Appellant reported that she worked 30‑hour weeks as a server and was paid accordingly. The Appellant confirmed to the Court that she worked much more than 35 hours per week, but that her pay was limited.
+[7] In Larente v. Canada (Minister of National Revenue ­ M.N.R.), [1997] F.C.J. No. 245 (QL), cited by counsel for the Appellant, the Federal Court of Appeal stated that, to answer the question raised by subparagraph 3(2)(c)(ii) of the Unemployment Insurance Act (now paragraph 5(3)(b) of the EIA), the issue is on what conditions would a third party furnishing the same labour as the Appellant have been employed.
+[8] I find that the Minister did not err in determining that a third party would not have done the Appellant's work under the same conditions. The 18‑month period that the Appellant devoted to the Payor's business without being paid is substantial. It cannot be characterized as “the minimal amount of work that remains to be done outside the active season” of a family business involved in seasonal work, as it was in Théberge v. Canada, [2002] F.C.J. No. 464 (QL), at paragraph 19, cited by counsel for the Appellant. In the instant case, not only did the Appellant devote several hours a week to the Payor for 18 months before being entered in the payroll journal, she also appears to have spent a substantial number of hours on voluntary work during periods of employment for which she was paid. It was not proven that the other employees did the same thing during the period in issue. (See Malenfant v. Canada (Attorney General), [2006] F.C.J. No. 978 (QL), at paragraph 11.)
+[9] Given the information that the Appellant provided to CRA during the investigation and the facts disclosed at the hearing, I find that the Minister did not err in making his determination and that he exercised his discretion reasonably. I would have come to the same conclusion myself.
+[10] The appeal is dismissed, and the Minister's decision is confirmed.
+Signed at Ottawa, Canada, this 6th day of February 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 25th day of March 2008.
+Susan Deichert, Reviser
+CITATION: 2008TCC59
+COURT FILE NO.: 2007-2484(EI)
+STYLE OF CAUSE: Diane Bourgouin v.
+The Minister of National Revenue
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: January 14, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: February 6, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Gilbert Nadon
+Counsel for the Respondent:
+Suzanne Morin
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gilbert Nadon
+Firm: Ouellet, Nadon et Associés
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

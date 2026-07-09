@@ -1,0 +1,184 @@
+---
+title: "Blanchette c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26499/index.do"
+last_modified: "2007-03-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 129"
+citation2: ""
+neutral_citation: "2007 TCC 129"
+decision_date: "2007-03-05"
+language: "en"
+item_id: "26499"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3247
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:20:37.829000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "475784483855f0b492878431b35ea5dc6f3baf24ac919d36c280fdb5ea5a3687"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Blanchette c. La Reine
+
+- Citation: 2007 TCC 129
+- Decision date: 2007-03-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3247, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blanchette c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-05
+Neutral citation
+2007 TCC 129
+File numbers
+2005-3136(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3136(IT)G
+BETWEEN:
+RÉAL BLANCHETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on February 21, 22 and 23, 2007, at Montreal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Patrick-Claude Caron
+Counsel for the Respondent:
+Jean Lavigne
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 5th day of March 2007.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 8th day of November 2007.
+Erich Klein, Revisor
+Citation: 2007TCC129
+Date: 20070305
+Docket: 2005-3136(IT)G
+BETWEEN:
+RÉAL BLANCHETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+Issues
+[1] The Appellant is appealing from assessments concerning the 1999 and 2000 taxation years. By these assessments, the Minister of National Revenue (the "Minister") disallowed expenses in the amounts of $188,919.97 and $85,912.11 for those years respectively, which the Appellant had claimed against his income.
+[2] At the hearing, it was acknowledged that $150,557.18 of the 1999 expenses, and $21,309.60 of the 2000 expenses, were incurred by the Appellant in connection with an aircraft that he has owned since 1991. (This is shown in the table of expenses prepared by Mr. Vuch, the Canada Customs and Revenue Agency (CCRA) auditor, Exhibit I‑1, Tab 8(B) for 1999 and Tab 8(C) for 2000. In his testimony, Mr. Vuch acknowledged that, for the year 2000, the amount of $21,309 in goods and services tax (GST) and Quebec sales tax (QST) claimed as expenses was in relation to expenditures on the aircraft.)
+[3] Pursuant to section 9 and paragraph 18(1)(a) of the Income Tax Act (the "Act"), The Minister disallowed all the expenses related to the aircraft on the ground that the Appellant did not, during the years in issue, carry on a business that required the use of the aircraft.
+[4] The other expenses were disallowed on the ground that they were either personal expenses or were not substantiated by supporting documents. I understand from the submissions by counsel for the Appellant that these expenses are no longer being disputed.
+[5] In addition, a penalty under subsection 163(2) of the Act was assessed against the Appellant on an amount of $52,368.49 for the 2000 taxation year. The Appellant deducted this amount from his consulting income as expenses even though Bombardier Aerospace, Defence Services (Bombardier), to which he had provided consulting services during that year, had reimbursed him for those expenses. The Appellant is contesting that penalty.
+Facts
+[6] The Appellant obtained a bachelor's degree in business administration in 1979 and an M.B.A. in 1981. Before that, he was a regular member of the Royal Canadian Mounted Police. After his university studies, he became a management consultant, providing services to various businesses. He specialized in project management, business process modelling and re-engineering, change management, strategic planning and positioning, and the development and operation of computer systems (see the Appellant's résumé, Exhibit A‑2).
+[7] The Appellant is also licensed as a professional pilot with an instrument rating and can fly single- and multi‑engine airplanes (as attested by his licence (Exhibit A‑5) issued by Transport Canada under the Aeronautics Act and the Canadian Aviation Regulations).
+[8] In 1991, the Appellant purchased a used Piper Navajo airplane, with a capacity of six or eight passengers,[1] for $85,000. According to the Appellant, the plane was equipped to fly business people.
+[9] The Appellant has a certificate of airworthiness issued under the Aeronautics Act, which was renewed by Transport Canada on September 27, 1996, and remains valid. The document certifies that the aircraft is in a condition for safe operation and is maintained and certified in accordance with the relevant requirements of the Canadian Aviation Regulations (Exhibit A‑5). The Appellant also has a Certificate of Registration of Aircraft issued by the Department of Transport on March 2, 1992, showing that he owns the aircraft, which is described as being for "private" use (Exhibit A‑5).
+[10] The Appellant explained that the aircraft was inspected every 100 hours in accordance with Canadian safety standards in order to maintain its certificate of airworthiness. According to him, he cannot offer air transport services to the public with a private airworthiness certificate. However, he can rent his plane, along with his services as a pilot, to people or businesses who will not use it commercially but who wish to use it for private purposes (e.g. to transport their employees). It is much more expensive to apply for a commercial airworthiness certificate because the airplane must be inspected more frequently and Transport Canada requires more infrastructure associated with the operation of the airplane. The Appellant said that he maintained his airplane in accordance with the standards required for a commercial airworthiness certificate, but was waiting until he developed a customer base before applying for such a certificate.
+[11] When he purchased the aircraft in late 1991, the Appellant's idea was to rent it to companies specializing in air taxi services. However, he abandoned his efforts along those lines when he realized that by going in that direction he would lose his right to oversee the maintenance of the airplane.
+[12] It was only in late 1994 that the Appellant and two other individuals, both of whom were pilots and former police officers, had discussions with a view to launching an air transport business. One of the two, Robert Duguay, died last year, and the other, Jean‑Pierre Vachon, came to testify on the Appellant's behalf. At the time, they developed a business plan to assess the feasibility of such a business. Two business plans were adduced in evidence as Exhibit A‑1, Tabs 2 and 3, but neither of these plans includes a financial analysis. Mr. Vachon, a financial planner, had training in business administration with a focus on finance and management. In addition, he was and still is an instrument flight instructor. He testified that in 1994 he was put in charge of doing a cost projection based on various scenarios. He explained that the project consisted of offering business people door‑to‑door ground and air transportation services. Such a commercial project would be very costly because it would require having at least two pilots available and eventually purchasing a second and a third plane within five years.[2] Thus, in addition to the aircraft already purchased by the Appellant, Mr. Vachon envisaged a capital investment of approximately $40,000 each (it is not clear from his testimony whether the Appellant was also to invest $40,000, because he was already supplying the plane that he had purchased for $85,000). The Appellant, for his part, spoke of a quarter-million dollar investment to start up the business. In any event, these financial forecasts were not tendered in evidence, since Mr. Vachon no longer had them in his possession. The project contemplated that the three principal interested parties would join together by purchasing shares in a corporation in early 1995. They would obtain a licence from the National Transportation Agency of Canada and an operating certificate from Transport Canada during the first half of 1995.
+[13] The project, developed in late 1994, never came to fruition. Mr. Vachon said that he personally did not proceed because discussions had led to disagreement about actual share ownership, and because of the poor economic situation that Canada was experiencing in 1994. Consequently, he decided to develop his own financial planning business. He did not talk to the Appellant about this air transport project again until just recently, when, as an air traffic controller and instructor, he re‑administered the instrument flight test to the Appellant so that he could renew his professional licence.
+[14] Mr. Vachon also said that if they had decided to pursue the project, they could have advertised in specialized magazines or with the Chamber of Commerce, but that no such advertising was done.
+[15] The Appellant said that he could not have business cards or a personalized Web site because he did not want Transport Canada to accuse him of advertising air transport services to the public, which his current certificate does not, and the one he had at that time did not, allow him to do.
+[16] The Appellant said that the project developed in 1994 was put on the back burner. He decided instead to wait until he had customers before thinking about incorporating a company and investing more money. He said that he began seeking customers in 1995.
+[17] The Appellant said that on March 31, 1995, he began billing Ting Telecom International Network Group Inc. (Ting), of which he had become a 20% shareholder[3] and a director,[4] $5,000 per month for the rental of his aircraft. According to the Appellant, Ting had an oral agreement with him under which he was to provide air transportation to Ting's employees.[5]
+[18] The documentary evidence discloses that, during the first three months, that is to say, March, April and May 1995, the Appellant billed Ting $5,000 per month as professional fees.[6] The Appellant also billed $5,000 per month for the rental of his aircraft until December 31, 1997, but was apparently no longer being paid as of March 1, 1997 (Exhibit A‑1, Tab 4). Ting went bankrupt and was struck off ex officio on May 9, 1998 (Exhibit A‑1, Tab 38).
+[19] In the financial statements that he filed for the years 1995 to 1997, the Appellant reported his aircraft rental income from Ting as professional fees (Exhibit A‑1, Tab 5).
+[20] Moreover, the Appellant had an oral agreement with Air Canada from 1997 to 1999. His work consisted in the management of technical maintenance personnel. He worked on various projects, including a hiring process improvement project and a marketing reorganization project. The services thus provided by the Appellant were consulting services, and he did not have to use his aircraft in connection with his contract with Air Canada. He said that he billed Air Canada at an hourly rate for the services he rendered. He reported $294,775.39 in professional fees in his statement of business activities for 1998 (Exhibit A‑1, Tab 5) and $271,156.14 for 1999 (Exhibit I‑1, Tab 1).
+[21] During the same period, the Appellant says, he maintained his professional pilot qualifications by flying on evenings and weekends. He also made the repairs necessary to keep the aircraft airworthy and maintain flight safety, and, ultimately, he says, to be able to operate his air transport business.
+[22] In early 1999, the Appellant says, he established business contacts with Eveline Sallin, the president of Mediafun Communications Inc. (Mediafun), with regard to the regional transportation of her company's employees in the northeastern United States. In a letter of intent to the Appellant dated August 26, 1999 (Exhibit A‑1, Tab 8), Ms. Sallin informed the Appellant that her business would be interested in the Appellant's services in connection with the rental of ground and air transportation in consideration of approximately $120,000 per year. Ms. Sallin confirmed to the Court that this was only a letter of intent, and was subject to the conclusion of a final agreement officially formalizing the rental contract. She was not legally binding herself with this letter of intent. The Appellant, for his part, was under the impression that Mediafun (which he says was in the process of securing millions of dollars in financing) was more than profitable enough for it to conform to the letter of intent. This having been said, he did not see Mediafun's financial statements. He simply trusted Ms. Sallin.
+[23] The Appellant, who was beginning to have problems with his aircraft's radiocommunication system, said he took advantage of this new business opportunity, which seemed to be serious, to make the necessary repairs to his aircraft. This entailed major expenses, and the Appellant felt that with the prospect of this potential new contract, the time had come to incur them. The Appellant specified that he replaced the defective parts with parts that were of lower but nonetheless good quality. He said that he also purchased a 2000 Ford Expedition truck, valued at $54,654.13 on November 19, 1999 (Exhibit A‑1, Tab 9), with a view to transporting his future customers on land as well.
+[24] After incurring all these expenses, the Appellant claimed input tax credits for the GST and QST that he had paid. This resulted in an audit by the tax authorities, who contacted Ms. Sallin. The tax authorities asked Ms. Sallin for her business plan and her financing method. Since she had put a confidentiality requirement in the letter of intent itself, she refused to provide the information sought by Revenu Québec. She had no further contact with the Appellant from that point onward and the project outlined in the letter of intent never got underway.
+[25] The evidence also discloses that Mediafun was incorporated on December 29, 1997, and that Ms. Sallin was its sole shareholder and director (Exhibit A‑6). In 1998, that corporation was not operating and had no employees. Ms. Sallin testified that at the time the letter of intent was signed, she had no idea whether she would obtain the financing sought. However, she said that she had prepared a five-year business plan whose starting point was 1999, but never shared the details with the Appellant. Although she says she was holding serious discussions with several investors at the time, she did not feel legally bound by the letter of intent. According to her testimony, the contents of the letter were only to materialize if the financing was secured. After meeting with Revenu Québec, she decided not to invest in Quebec, and Mediafun never operated a business in Canada. It was struck off ex officio on May 7, 2004.
+[26] Following this setback, the Appellant was hired as a consultant by Bombardier in 2000 with a view to reducing the cost of pilot training, and for his assistance in determining training needs in connection with the setting up of a school for National Defence in Moose Jaw, Saskatchewan (Exhibit I‑1, Tab 20(C)).
+[27] According to the contract signed with Bombardier, which took effect on February 21, 2000, Bombardier was to reimburse the Appellant for his travel expenses associated with the performance of his work contract. Under that contract, these expenses had to be reasonable, substantiated by supporting documents and approved in advance by Bombardier (Exhibit I‑1, Tab 20(C), page 2, section 3). The Appellant said that he was authorized to travel in his own aircraft to the extent that the cost was reasonable and comparable to what a commercial airline would have charged.
+[28] François Turcotte, the "IST director" at Bombardier, confirmed to the Court that, if the Appellant used his own airplane to travel for his work with Bombardier, he was reimbursed for any expenses substantiated by supporting documents up to an amount equivalent to the cost of a commercial airline trip.
+[29] The Appellant said that he billed Bombardier for his direct expenses, such as fuel, aircraft parking and landing fees. For example, in 2000, he was reimbursed a total of $52,368.49 in travel expenses (Exhibit I‑1, Tab 20(A), page 3, and Tab 20(B)). The Appellant also received $196,591.20 in consulting fees from Bombardier (Exhibit I‑1, Tab 20(B)). Mr. Turcotte explained that the Appellant was not authorized to carry Bombardier employees in his aircraft because of insurance issues. He reiterated that the Appellant was hired only for his consulting services and not for the transport of passengers by air.
+[30] Moreover, the Appellant acknowledged that he claimed the amount of $52,368.49 as expenses against his professional income despite the fact that this amount had been reimbursed by Bombardier. He explained in court that this was done by mistake. He billed for his expenses separately from his professional fees. The copies of the bills sent to Bombardier would appear to have been destroyed by a backup of water in the basement of his residence, where they were being kept. Thus, when preparing his income tax return, the Appellant did not have on hand the details of the bills with respect to which he had been reimbursed. Apparently, he did not then realize that he was deducting the same expenses that he had already claimed from Bombardier.
+[31] The Appellant also said that he did not use his aircraft for personal purposes during the period in issue. He used it to log hours in order to keep his professional pilot's licence. He said that he also did demonstration flights for potential clients, as well as what he called technical flights to ensure that the aircraft was functioning properly. He said that airplanes must fly regularly and that this minimizes the risks of corrosion. Thus, he used his plane to fly all over Canada. His pilot's log book was tendered as Exhibit A‑1, Tab 12. It shows the dates the aircraft flew, the code for the departure and arrival airports (there is no way that a layperson would know where these airports are located), and the duration of the flight. However, the log book does not say whether there were any passengers on board. It only indicates the presence of a co-pilot. The Appellant did not produce a list of potential customers who took part in demonstration flights.
+[32] The Appellant said that the security standards imposed by commercial airlines have become much more stringent since September 2001. He sees that as a bit of a window of opportunity for private transportation, but has not as yet taken advantage of it. He has never updated the business plan developed in 1994. He said that he is keeping an eye open for possibilities of using his aircraft commercially. He was hoping to find customers through his network of contacts, which essentially involves word of mouth.
+[33] Lastly, it should be noted that, in a discussion with Mr. Vuch in the course of the audit, the Appellant stated that he had not rented his aircraft since 1997 and that he had claimed the GST and QST as expenses against his income because he had made his application for input tax credits too late. Actually, according to Mr. Vuch, the input tax credits were refused because Revenu Québec did not consider the Appellant to have been engaged in using the aircraft in a commercial activity within the meaning of the Excise Tax Act. As for the penalty, Mr. Vuch considered that the Appellant had been grossly negligent in claiming an expense for which he had been reimbursed and not including the same amount in his income. In Mr. Vuch's opinion, the Appellant is an educated business person who specialized in finance and must have known that he could not deduct such an expense if he did not include it in his income (see Mr. Vuch's report, Exhibit A‑7).
+Analysis
+[34] Essentially, the issue is whether the expenses incurred by the Appellant in relation to his aircraft in 1999 and 2000 are deductible from his income for those years. Counsel for the Respondent is of the opinion that these expenses are not deductible because in his view the Appellant was not operating during those years a business that required the use of the aircraft. The Appellant, for his part, submits that he kept the aircraft during those years for the purpose of operating an air transport business.
+[35] In order to succeed, the Appellant must show that the aircraft was a source of income for him during the years in issue. In Stewart v. Canada, 2002 SCC 46, the Supreme Court of Canada, at paragraph 60, summarizes as follows the analysis that must be done in order to decide this question:
+In summary, the issue of whether or not a taxpayer has a source of income is to be determined by looking at the commerciality of the activity in question. Where the activity contains no personal element and is clearly commercial, no further inquiry is necessary. Where the activity could be classified as a personal pursuit, then it must be determined whether or not the activity is being carried on in a sufficiently commercial manner to constitute a source of income. . . .
+[36] Thus, if an activity is clearly of a commercial nature, there is no need to analyze the taxpayer's business decisions. In such a case, a source of income exists by definition (Stewart, supra, at paragraph 53). To determine whether an expense is clearly of a commercial nature, it is not sufficient for the taxpayer to show that he or she had a subjective intention to make a profit. The taxpayer must prove this intention on the basis of a variety of objective factors. He or she must adduce evidence to substantiate the intention. In order to do so, the taxpayer must "establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour" (Stewart, at paragraph 54).
+[37] Moreover, in determining whether the taxpayer is carrying on the activity in a commercial manner, it is the commercial nature of the taxpayer's activity which must be evaluated, not his or her business acumen (Stewart, at paragraph 55).
+[38] In the instant case, I am not satisfied that the use of the aircraft was clearly commercial in nature. I am not satisfied that the Appellant's predominant intention was to derive a profit from his aircraft. Instead, the facts that emerged from the evidence suggest that the Appellant used his consulting business to finance the use of his aircraft for predominantly personal purposes.
+[39] The evidence clearly showed that the Appellant did not need to use his aircraft in order to carry out his contracts with Air Canada and Bombardier. If he used his airplane, it was a matter of personal choice and, in the case of the contract with Bombardier, it was agreed that he would be reimbursed for his direct travel costs up to the amount of the regular price of a flight on a commercial airline. He was not even allowed to carry Bombardier employees on his aircraft.
+[40] Furthermore, although it is not for me to judge the Appellant's business acumen, I must nonetheless analyze in accordance with objective standards of businesslike behaviour whether or not the use of the aircraft was of a commercial nature.
+[41] The first and only business plans developed for the possible operation of an air transport business were tendered in evidence without the related financial analyses. The Court was told that an investment of roughly $250,000 would be needed in order for the project to be viable, but no other objective evidence was adduced. Such statements were not supported by a pro forma budget or a reliable financial analysis. Mr. Vachon, who was initially to be the Appellant's associate, left him in the lurch early on because there was a disagreement among those involved over shareholding. In addition, Mr. Vachon referred to the economic recession of 1994. Never again did the two protagonists attempt to meet to relaunch the project.
+[42] The Appellant has not shown that he made serious efforts thereafter to start up his air transport business. He did no advertising, being content to rely on word of mouth. He says that he maintained his airplane in good operating condition, but, from the moment that he became the owner of the plane, he did not really have any choice but to maintain it if he wanted to use it.
+[43] Furthermore, the episode with Ting is not clear‑cut. According to the arbitral decision, the airplane was used only four times, and it was the Appellant who requested the arrangement whereby he billed $60,000 per year for the lease of his aircraft. The Appellant himself entered the income from Ting in his financial statements not as aircraft rental income but, rather, as professional fees (see the statement of business activities for the years 1995 to 1997, Exhibit I‑1, Tab 13).
+[44] Then there was Mediafun. With regard to that company, things did not advance to a stage where the Appellant could truly think that a realistic contract was in sight. The Appellant is a financial consultant. It is difficult to believe that, solely on the basis of the letter of intent, and in the absence of his other professional income, he would have jumped head first into expenditures of such a magnitude without checking into Mediafun's financial situation more carefully. Ms. Sallin said that she never disclosed her business plan and financial statements to the Appellant. I am far from convinced that the Appellant would have ventured to incur such expenses without the assurance of the comfortable income that he was deriving from his contracts with Air Canada and Bombardier. Time was taking its toll on his airplane and he had to make certain repairs. His professional income enabled him to incur such expenses, but it is presumptuous, in my opinion, to want to have us believe that a mere letter of intent, which is not legally valid, could be the foundation of the development of an air transport business by the appellant.
+[45] Moreover, the Appellant points to the purchase of a truck in asserting that he was serious in his efforts to start his land and air transport business. I note, however, that Mr. Vuch's audit report shows that the truck was considered a recreation vehicle and therefore gave rise to no deduction for the Appellant, which position was accepted by the Appellant's representative at the time (see Exhibit A‑7, pages 3 and 9 of 11).
+[46] In my opinion, the facts disclosed by the evidence do not show that the Appellant's behaviour was businesslike enough that he could claim to be operating an air transport business. He has failed to convince me that he was not using the aircraft for personal purposes. Even if he intended to operate the airplane commercially at some point, he certainly has not shown that it was his predominant intention to make a profit from this activity. Thus, I conclude that the Appellant has not shown that his aircraft was a source of income for him. Consequently, the expenses claimed are personal in nature and the Minister properly disallowed them.
+[47] As for the penalty assessed under subsection 163(2) of the Act on the amount of $52,368.49 which he deducted in 2000 even though he had been reimbursed by Bombardier, I am of the opinion that it should be maintained.
+[48] I do not find credible the Appellant's claim that he deducted this amount by mistake. That was the only contract that he had in 2000. He billed Bombardier himself. The amount was relatively significant in relation to his income from Bombardier (roughly 20%). In addition, I find it astonishing that he had in his possession the bills for determining the amount of his expenses, but forgot that those same expenses had been reimbursed. If he did not have the exact amount of the reimbursement because he no longer had copies of the bills sent to Bombardier, he had enough business knowledge to realize that he could contact Bombardier for this information. Moreover, I find that his story that the documents were destroyed by a backup of water in the basement of his home lacks credibility. This revelation was made for the first time at the hearing of these appeals, as the Appellant had never told Mr. Vuch. The Appellant adduced no evidence with respect to the incident. In my opinion, the Respondent has shown on a balance of probabilities that the Appellant knowingly, and under circumstances amounting to gross negligence, failed to report an amount that he should have included in his income if he was claiming the deduction of this amount for which he had been reimbursed.
+[49] For these reasons, the appeals are dismissed, with costs.
+Signed at Ottawa, Canada, this 5th day of March 2007.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 8th day of November 2007.
+Erich Klein, Revisor
+CITATION: 2007TCC129
+COURT FILE NO.: 2005-3136(IT)G
+STYLE OF CAUSE: RÉAL BLANCHETTE v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: February 21, 22 and 23, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: March 5, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Patrick-Claude Caron
+Counsel for the Respondent:
+Jean Lavigne
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Patrick-Claude Caron
+Firm: Caron Avocats
+Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In his submissions, counsel for the Appellant referred to eight passengers. In his testimony, the Appellant had said that his plane could carry four passengers in addition to the pilot and co‑pilot.
+[2] They would also have to prepare an operation manual that would have to be approved by Transport Canada. Moreover, since this was a commercial project, the airplane needed more sophisticated, hence more expensive, avionic equipment.
+[3] According to the arbitral decision (Exhibit A‑1, Tab 6, at page 11).
+[4] See Exhibit A‑1, Tab 38.
+[5] It would appear from the arbitral decision (page 13), that the Appellant negotiated with Ting an annual remuneration of $120,000 and asked that $60,000 of that amount be allocated to salary, and that the other $60,000 be allocated to equipment rental, even though the airplane was only used on four occasions during the fiscal year that ended on May 31, 1996. In fact, the Appellant was initially approached by a Ting executive with a view to recruiting him as an executive in charge of corporate affairs (page 2 of the arbitral decision).
+[6] Thereafter, the Appellant was entitled to receive this remuneration of $5,000 per month in the form of a $60,000 annual salary. (See the arbitral decision, tendered as Exhibit A‑1, Tab 6, at page 2.)

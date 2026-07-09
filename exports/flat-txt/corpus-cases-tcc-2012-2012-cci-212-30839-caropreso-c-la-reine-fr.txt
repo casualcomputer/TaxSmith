@@ -1,0 +1,146 @@
+Title: Caropreso c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30839/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-212-30839-caropreso-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-06-12
+
+# Caropreso c. La Reine
+
+- Citation: 2012 CCI 212
+- Decision date: 2012-06-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7398, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Caropreso c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-06-12
+Référence neutre
+2012 CCI 212
+Numéro de dossier
+2011-3105(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011‑3105(IT)I
+ENTRE :
+MARIA F. CAROPRESO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 28 mai 2012 à Ottawa (Ontario)
+Par : L’honorable juge J.M. Woods
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Anne‑Marie Boutin
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008 est rejeté.
+Signé à Toronto (Ontario), ce 12e jour de juin 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 23e jour d’août 2012.
+S. Tasset
+Référence : 2012 CCI 212
+Date : 20120612
+Dossier : 2011‑3105(IT)I
+ENTRE :
+MARIA F. CAROPRESO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Cet appel concerne les sommes payées par un institut de recherche médicale à une boursière de recherches postdoctorales. Maria Caropreso interjette appel de la cotisation établie pour l’année d’imposition 2008 selon laquelle ces sommes ont été incluses dans son revenu en vertu de l’alinéa 56(1)n) de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] En 2008, Mme Caropreso s’est inscrite comme boursière de recherches postdoctorales à l’Université d’Ottawa et était liée par deux ententes de recherche différentes. Pendant la première moitié de l’année, elle devait effectuer des recherches médicales pour l’Institut de recherche de l’Hôpital d’Ottawa (l’ « IRHO »). Le reste de l’année, elle était engagée par l’Université pour mener des travaux de recherche d’un autre type.
+[3] Mme Caropreso s’est vue imposer une cotisation fiscale à l’égard de la première entente seulement; il s’agit là du seul point litigieux.
+[4] Son domaine de spécialisation étant l’informatique, Mme Caropreso a été engagée par l’IRHO pour effectuer des recherches dans un domaine combinant l’informatique et la médecine. Les sommes versées par l’IRHO s’élevaient en tout à 19 928 $ et étaient financées grâce à une bourse décernée par les Instituts de recherche en santé du Canada (les « IRSC ») à Miguel Andrade, un chercheur principal employé par l’IRHO.
+[5] Mme Caropreso a fait valoir qu’étant donné que l’entente de travail était la même à l’Institut qu’à l’Université, et que les sommes que lui a versées cette dernière n’étaient pas imposées, les paiements de l’IRHO ne devraient pas l’être non plus. L’intimée a produit des éléments de preuve qui donnent à penser que la deuxième entente avec l’Université a simplement échappé à l’Agence du revenu du Canada.
+[6] Il n’est pas nécessaire d’examiner la preuve de l’intimée sur ce point. La cotisation établie par le ministre à l’égard de la seconde entente ne peut pas avoir d’incidence sur le traitement fiscal de la première; celui-ci dépend de la législation et de la jurisprudence pertinente, et non des mesures prises par le ministre.
+[7] Pour ce qui est de l’arrangement avec l’IRHO, la situation de Mme Caropreso ressemble à celles d’En Huang et de Dianbo Qu, qui ont récemment interjeté des appels devant la Cour. J’ai instruit ces appels et rendu une décision favorable au Dr Huang et au Dr Qu (2012 CCI 81).
+[8] La décision dans les affaires Huang et Qu se rapportait à deux questions. La première question était de savoir si les sommes versées l’avaient été à titre de bourse de perfectionnement au sens de l’alinéa 56(1)n), ou de subvention de recherche au sens de l’alinéa 56(1)o). La Cour a conclu que ces sommes n’étaient pas une subvention et qu’elles étaient assujetties à l’alinéa 56(1)n). La seconde question était de savoir si les sommes versées étaient visées par l’exemption pour bourses d’études prévue au sous‑alinéa 56(1)n)(ii), ce à quoi j’ai répondu par l’affirmative.
+[9] Sur ces deux points, la preuve présentée dans le présent appel était très similaire à celle qui a été produite dans Huang et Qu et je n’y reviendrai pas. Je ne vois aucune raison de parvenir ici à une conclusion différente sur ces points.
+[10] L’avocate de l’intimée fait valoir que d’autres éléments de preuve ont été présentés en l’espèce. Même si certains des témoins appelés n’étaient pas les mêmes en l’espèce que dans Huang et Qu, la preuve n’était pas bien différente dans son ensemble et ne m’a pas convaincue que la conclusion formulée dans Huang et Qu était incorrecte.
+[11] Cependant, les choses ne s’arrêtent pas là. L’autre argument avancé en l’espèce est que les sommes constituent un revenu d’emploi. J’avais refusé d’entendre les arguments sur cette question dans les appels précédents parce que l’intimée avait soulevé la question trop tardivement.
+[12] Si les sommes sont qualifiées de revenus d’emploi, elles sont expressément exclues de l’application de l’alinéa 56(1)n) et ne peuvent pas être visées par l’exemption pour bourses d’études. Dans un appel antérieur concernant une bourse postdoctorale, Chabaud c. la Reine, 2011 CCI 438, 2012 DTC 1076[1], le juge Archambault a soulevé cette question et a conclu, après examen des observations reçues, que les versements faits aux stagiaires étaient imposables comme revenus d’emploi.
+[13] La seule question digne d’être approfondie est donc de savoir si les sommes versées par l’IRHO à Mme Caropreso sont un revenu d’emploi. Le fardeau de la preuve incombe à l’intimée étant donné que la réponse ne contient aucune hypothèse pertinente en ce qui concerne le ministre.
+Analyse
+[14] Les alinéas 56(1)n) et 56(3)a) de la Loi sont reproduits ci‑après :
+56(1) Sommes à inclure dans le revenu de l’année. Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+[…]
+n) Bourses d’études, de perfectionnement, etc. l’excédent éventuel :
+(i) du total des sommes (à l’exclusion des sommes visées à l’alinéa q), des sommes reçues dans le cours des activités d’une entreprise et des sommes reçues au titre, dans l’occupation ou en vertu d’une charge ou d’un emploi) reçues au cours de l’année par le contribuable à titre de bourse d’études, de bourse de perfectionnement (fellowship) ou de récompense couronnant une œuvre remarquable réalisée dans son domaine d’activité habituel, à l’exclusion d’une récompense visée par règlement,
+sur :
+(ii) l’exemption pour bourses d’études du contribuable pour l’année, calculée selon le paragraphe (3);
+56(3) Exemption pour bourses d’études, bourses de perfectionnement (fellowships) ou récompenses. Pour l’application du sous‑alinéa (1)n)(ii), l’exemption pour bourses d’études d’un contribuable pour une année d’imposition correspond au total des sommes suivantes :
+a) le total des sommes représentant chacune la somme incluse en application du sous‑alinéa (1)n)(i) dans le calcul du revenu du contribuable pour l’année au titre d’une bourse d’études ou d’une bourse de perfectionnement (fellowship) reçue relativement à son inscription :
+(i) soit à un programme d’études pour lequel une somme est déductible en application du paragraphe 118.6(2) dans le calcul de l’impôt à payer par le contribuable en vertu de la présente partie pour l’année, pour l’année d’imposition précédente ou pour l’année d’imposition subséquente,
+(ii) soit à un programme d’études d’une école primaire ou secondaire;
+[15] L’alinéa 56(1)n) établit une distinction entre les sommes reçues dans le cours des activités d’une entreprise ou dans l’occupation d’un emploi et celles qui sont destinées à aider financièrement un contribuable à poursuivre ses études. Les premières sont pleinement imposables tandis que les secondes pourraient tomber sous le coup de l’exemption pour bourses d’études énoncée au sous‑alinéa 56(1)n)(ii) et à l’alinéa 56(3)a).
+[16] J’aimerais tout d’abord noter que l’intimée n’a pas fait valoir que Mme Caropreso avait reçu les sommes de l’IRHO en tant qu’entrepreneure indépendante (c.‑à‑d. dans le cours des activités d’une entreprise). Par conséquent, pour avoir gain de cause en appel, l’intimée doit établir 1) que Mme Caropreso était une employée de l’IRHO, et 2) que les sommes ne constituaient pas une aide financière aux études.
+[17] J’aborderai d’abord la question de savoir si les sommes ont été versées à titre d’aide financière aux études.
+[18] La jurisprudence sur ce point est divisée. Dans la décision Bekhor c. MRN, 2005 CCI 443, la juge Lamarre Proulx a conclu qu’un boursier postdoctoral n’était pas un employé pour l’application de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada, car les sommes qu’il avait reçues tenaient de l’aide financière aux études.
+[19] Dans la décision Chabaud, au paragraphe 109, le juge Archambault est parvenu à une conclusion différente :
+[109] À mon avis, le Rapport sur les stagiaires préparé pour le MEQ, qui décrit le stage postdoctoral comme étant une activité permettant de développer « une expertise » de recherche dans un domaine complémentaire ou plus spécialisé et selon lequel les stagiaires postdoctoraux doivent être considérés comme des salariés, m’apparaît beaucoup plus conforme à la réalité que le feuillet T2202A remis aux stagiaires postdoctoraux par l’Université Laval et d’autres universités canadiennes. Il est possible que la décision qu’avait rendue la juge Lamarre Proulx de cette Cour dans l’affaire Bekhor c. Canada (Ministre du Revenu national), 2005 CCI 443, [2005] A.C.I. no 314 (QL), ait pu les encourager à conclure que les stagiaires postdoctoraux n’étaient pas des salariés. Compte tenu des nombreuses similarités qui existent entre le stage de M. Chabaud et celui de M. Bekhor, je ne crois pas qu’il soit approprié de faire des distinctions factuelles afin d’arriver à une conclusion différente de celle dans Bekhor. Avec beaucoup d’égards pour les tenants de l’opinion contraire, je ne peux adopter ici le même raisonnement que celui adopté dans la décision Bekhor. Il est malheureux que M. Bekhor n’ait pas jugé bon d’interjeter appel devant la Cour d’appel fédérale pour que celle‑ci puisse statuer sur cette question. Conséquent avec l’opinion que je viens d’exprimer, j’encourage M. Chabaud à le faire pour obtenir une décision qui créera un précédent jurisprudentiel, ce que ma décision ne peut constituer.
+[20] La difficulté fondamentale a trait au fait que les sommes versées aux boursiers de recherches postdoctorales ont souvent une double vocation. Elles permettent aux stagiaires de recherche de poursuivre leurs études tout en les rémunérant pour leurs travaux. Si elles sont reçues dans le contexte d’un emploi, cet aspect a préséance. Cependant, pour trancher la question, il faut s’interroger sur la caractéristique dominante des sommes versées, si elles relèvent de la rémunération d’un travail ou d’une aide aux études.
+[21] En l’espèce, je conclurai qu’il s’agit principalement de rémunérer la personne pour les travaux effectués. Même si la relation avec l’IRHO servait notamment à l’avancement des études de Mme Caropreso, j’estime que cet élément était accessoire.
+[22] D’après le budget de fonctionnement se rapportant à la subvention accordée à M. Andrade, grâce à laquelle Mme Caropreso était payée, la composante budgétaire liée au travail était attribuée au personnel de recherche et non aux stagiaires postdoctoraux; cependant, d’après la preuve, les lignes directrices des IRSC permettaient de verser à des stagiaires postdoctoraux des fonds prévus pour le personnel de recherche. Cet élément donne à penser que les fonds fournis par les IRSC étaient principalement destinés à la recherche et non à l’aide financière aux études postdoctorales.
+[23] Il aurait été utile que quelqu’un des IRSC témoigne au sujet de la nature du financement, mais je n’ai tiré aucune inférence défavorable du fait que l’intimée n’ait pas présenté de preuve de la sorte, car l’appel est régi par la procédure informelle.
+[24] J’accepte de reconnaître que Mme Caropreso poursuivait ses études lorsqu’elle travaillait au laboratoire de M. Andrade, mais en recevant pour cela une rémunération pour le travail accompli. C’est l’aspect dominant de sa relation avec l’IRHO.
+[25] M. Gary Slater, qui était à l’époque pertinente doyen de la Faculté des études supérieures et postdoctorales de l’Université d’Ottawa, a livré un témoignage à l’effet contraire et a déclaré que les sommes versées aux stagiaires postdoctoraux correspondent à une bourse d’études.
+[26] La pertinence du témoignage de M. Slater sur cette question est discutable puisqu’il travaillait à l’Université et non à l’IRHO. Ces deux organisations sont distinctes et chacune a des arrangements différents avec ses stagiaires postdoctoraux.
+[27] Quoi qu’il en soit, je ne puis convenir avec M. Slater que les sommes versées aux stagiaires postdoctoraux sont de simples bourses d’études. En l’espèce, elles ont été versées par une institution gouvernementale, les IRSC, dans le contexte du financement d’un laboratoire de recherche. Le financement semble viser principalement la recherche et non l’enseignement dispensé à des stagiaires postdoctoraux.
+[28] Je reconnais que les sommes en question sont en partie destinées à apporter aux stagiaires une aide aux études. Elles encouragent les diplômés de fraîche date à devenir des chercheurs à temps plein ou des professeurs d’université. Les stagiaires doivent donner des conférences et suivre des cours. Cependant, les sommes reçues par Mme Caropreso visaient surtout à la rémunérer pour son travail.
+[29] Je noterai aussi que M. Slater n’est pas un témoin désintéressé. Il est l’ancien doyen de la Faculté des études supérieures et postdoctorales, et a déclaré que l’Université avait sollicité un avis juridique pour aider les stagiaires postdoctoraux à bénéficier de l’exemption pour bourses d’études. Il n’y a là rien de mal, bien entendu, mais cela donne à penser que le témoignage de M. Slater doit être considéré avec prudence.
+[30] J’aborderai à présent la deuxième question, qui est de savoir si Mme Caropreso a été engagée comme employée. Je signalerai tout d’abord qu’il n’aurait pas été nécessaire d’examiner cette question si l’intimée avait allégué que Mme Caropreso avait reçu les sommes à titre d’employée ou d’entrepreneure indépendante. Nous ne devons le faire que parce que l’intimée n’a pas évoqué la possibilité que Mme Caropreso ait reçu ces sommes dans le cours des activités d’une entreprise à titre d’entrepreneure indépendante.
+[31] Les circonstances de l’espèce sont similaires à celles de l’affaire Chabaud, où la Cour avait conclu à l’existence d’une relation d’emploi.
+[32] Mme Caropreso a été engagée pour effectuer à temps plein d’importants travaux de recherche, ce dont elle s’est acquittée sous l’étroite supervision de Mme Carolina Perez‑Iratxeta, alors responsable du laboratoire de M. Andrade pendant le congé sabbatique de celui‑ci. Principalement sur la foi du témoignage de Mme Perez, je conclurais que l’IRHO pouvait contrôler la manière dont Mme Caropreso accomplissait son travail. Mme Perez assignait ses tâches à Mme Caropreso et supervisait le travail au quotidien.
+[33] Le témoignage de Mme Caropreso différait de celui de Mme Perez. Mme Caropreso a déclaré qu’elle décidait du travail à effectuer en collaboration avec Mme Perez, qu’elle pouvait décider de ses propres heures de travail et qu’elle devait simplement informer Mme Perez de ses absences.
+[34] J’accepte que Mme Perez collaborait avec Mme Caropreso et qu’elle lui accordait une certaine liberté. Cependant, eu égard au témoignage de Mme Perez, cela a probablement à voir avec le style de gestion de celle‑ci et non avec un droit contractuel reconnu à Mme Caropreso. La question est de savoir si l’IRHO avait le « droit » de contrôle. J’estime que c’était le cas.
+[35] J’ajouterai brièvement que la politique de l’IRHO obligeait les stagiaires postdoctoraux à obtenir une autorisation avant de prendre des congés. Je n’en ai pas tenu compte, car il n’est pas certain qu’elle s’appliquait à Mme Caropreso. La politique produite en preuve est une version qui a été modifiée après la signature de la lettre de mission.
+[36] M. Slater a indiqué qu’en vertu de l’entente entre l’IRHO et l’Université, les stagiaires postdoctoraux ne devaient pas être des employés. Je veux bien, mais il semble que l’IRHO ne se soit pas conformé à cette exigence. Si l’IRHO ne voulait pas que les stagiaires postdoctoraux soient des employés, il devait instaurer des conditions de travail compatibles avec son intention. Compte tenu de la preuve présentée, ce n’est pas ce qui a été fait.
+[37] Le contrôle exercé par l’IRHO est l’élément le plus important pour établir l’existence d’une relation d’emploi en l’espèce, mais je noterai que tous les autres facteurs usuels, à savoir la propriété des instruments de travail, les chances de profit et les risques de perte, indiquent également une relation de ce type.
+[38] Je noterai aussi que le contrat signé avec Mme Caropreso désignait l’IRHO comme l’employeur. Cette déclaration d’intention de la part des parties n’est pas déterminante, et je ne lui ai pas accordé grand poids en l’espèce. Dans un document produit par l’IRHO peu après que le contrat de Mme Caropreso a été signé, il est précisé que la relation avec les stagiaires postdoctoraux n’en est pas une d’emploi. Cependant, ce document n’a pas été fourni à Mme Caropreso et son contrat n’a jamais été modifié pour supprimer la mention d’un emploi. Il est difficile de conclure que les parties avaient une intention clairement définie.
+[39] Sans égard à leur intention, la véritable relation entre les parties indique fortement une relation d’emploi. Je conclus que les sommes versées par l’IRHO à Mme Caropreso ont été versées dans le contexte d’un emploi et qu’elles doivent être incluses dans le revenu aux termes de l’article 5 de la Loi.
+[40] L’appel est rejeté.
+Signé à Toronto (Ontario), ce 12e jour de juin 2012.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 23e jour d’août 2012.
+S. Tasset
+RÉFÉRENCE : 2012 CCI 212
+No DU DOSSIER DE LA COUR : 2011‑3105(IT)I
+INTITULÉ : MARIA F. CAROPRESO c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 28 mai 2012
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 12 juin 2012
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Anne‑Marie Boutin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s. o.
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa (Ontario)
+[1] La version traduite de la décision Chabaud fournie par l’intimée a été remplacée par une nouvelle traduction datée du 26 janvier 2012. La version révisée se retrouve dans les DTC.

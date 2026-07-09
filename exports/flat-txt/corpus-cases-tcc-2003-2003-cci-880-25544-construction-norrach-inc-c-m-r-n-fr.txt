@@ -1,0 +1,131 @@
+Title: Construction Norrach Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25544/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-880-25544-construction-norrach-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-11-28
+
+# Construction Norrach Inc. c. M.R.N.
+
+- Citation: 2003 CCI 880
+- Decision date: 2003-11-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2449, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Construction Norrach Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-28
+Référence neutre
+2003 CCI 880
+Numéro de dossier
+2002-365(EI)
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-365(EI)
+ENTRE :
+CONSTRUCTION NORRACH INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 24 novembre 2003 à Montréal (Québec)
+Devant : L'honorable juge P. R. Dussault
+Comparutions :
+Avocate de l'appelante :
+Me Virginie Falardeau
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+____________________________________________________________________
+JUGEMENT
+L'appel, en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi concernant une décision du ministre du Revenu national ( « Ministre » ) en date du 8 novembre 2001, est admis et la décision du Ministre est modifiée en tenant pour acquis que les heures assurables et la rémunération assurable de monsieur Gérald Léger, lorsqu'il était au service de l'appelante entre le 28 mai et le 29 juillet 2000, sont respectivement celles indiquées au relevé d'emploi émis par l'appelante en date du 14 juillet 2000.
+Signé à Ottawa, Canada, ce 28e jour de novembre 2003.
+« P. R. Dussault »
+Juge Dussault
+Référence : 2003CCI880
+Date : 20031128
+Dossier : 2002-365(EI)
+ENTRE :
+CONSTRUCTION NORRACH INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] Il s'agit d'un appel d'une détermination par le ministre du Revenu national ( « Ministre » ) des heures assurables et de la rémunération assurable de monsieur Gérald Léger, lorsqu'il était au service de l'appelante « Construction Norrrach Inc. » entre le 28 mai et le 29 juillet 2000.
+[2] Le Ministre a déterminé que les heures assurables et la rémunération assurable de monsieur Gérald Léger s'élevaient à 186,2 heures et 6 702,23 $ durant cette période.
+[3] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait que l'on retrouve aux alinéas a) à k) du paragraphe 5 de la Réponse à l'avis d'appel. Ces alinéas se lisent comme suit :
+a) L'appelante est un entrepreneur en construction.
+b) Le travailleur est un peintre de métier.
+c) En 2000, le travailleur a rendu des services à l'appelante.
+d) Le travailleur résidait alors dans une roulotte mise à sa disposition par l'appelante sur le chantier où il travaillait.
+e) L'appelante émettait un relevé d'emploi daté du 14 juillet 2000, indiquant que le travailleur avait travaillé pendant 58 heures entre le 28 juin et le 14 juillet 2000 pour une rémunération de 1 304,13 $.
+f) En réalité, le travailleur a travaillé du 28 mai au 29 juillet 2000.
+g) Pendant cette période, il a travaillé durant 186,2 heures.
+h) Le travailleur a déposé une réclamation pour du salaire impayé auprès de la Commission de la construction du Québec (C.C.Q.).
+i) Selon cette réclamation, le travailleur aurait dû être rémunéré pour 186,2 heures de travail, soit 5 945,85 $.
+j) Selon cette réclamation, le travailleur aurait dû recevoir de plus 582,72 $ pour les congés payés ainsi que 173,76 $ pour le préavis de mise à pied.
+k) Selon cette réclamation, la rémunération assurable totale du travailleur aurait dû s'élever à 6 702,23 $ au lieu des 1 304,13 $ indiqués sur le relevé d'emploi.
+[4] L'appelante nie les alinéas f), g), i), j) et k) tels que rédigés.
+[5] L'intimé se fonde sur l'article 9.2 du Règlement sur l'assurance-emploi et sur le paragraphe 2(2) du Règlement sur la rémunération assurable et la perception des cotisations pour demander le rejet de l'appel au simple motif que monsieur Léger a effectivement déposé une réclamation pour du salaire impayé auprès de la Commission de la Construction du Québec ( « C.C.Q. » ) et que la détermination faite par le Ministre est valide dans la mesure où elle tient compte de cette réclamation.
+[6] L'appelante soutient qu'elle a payé à monsieur Léger la rémunération totale pour ses heures de travail lorsqu'il était à son service au cours de la période en litige, ce qui a d'ailleurs été confirmé par la Cour du Québec dans un jugement rendu le 10 avril 2003 rejetant en totalité la réclamation présentée contre l'appelante par la C.C.Q. au nom de monsieur Léger (pièce A-2).
+[7] En conséquence, l'appelante invoque l'application de l'article 9.1 du Règlement sur l'assurance-emploi. Selon elle, le paragraphe 9.2 n'est pas applicable en l'espèce puisque monsieur Léger a reçu la totalité de la rémunération à laquelle il avait droit.
+[8] Les dispositions réglementaires auxquelles les parties font référence sont les suivantes :
+Règlement sur l'assurance-emploi
+9.1 Lorsque la rémunération d'une personne est versée sur une base horaire, la personne est considérée comme ayant exercé un emploi assurable pendant le nombre d'heures qu'elle a effectivement travaillées et pour lesquelles elle a été rétribuée.
+9.2 Sous réserve de l'article 10, lorsque la totalité ou une partie de la rémunération d'une personne pour une période d'emploi assurable n'a pas été versée pour les raisons visées au paragraphe 2(2) du Règlement sur la rémunération assurable et la perception des cotisations, la personne est réputée avoir exercé un emploi assurable pendant le nombre d'heures qu'elle a effectivement travaillées durant cette période, qu'elle ait été ou non rétribuée.
+Règlement sur la rémunération assurable et la perception des cotisations
+2(2) Pour l'application de la présente partie, le total de la rémunération d'un assuré provenant d'un emploi assurable comprend la partie impayée de cette rémunération qui n'a pas été versée à cause de la faillite de l'employeur, de sa mise sous séquestre effective ou imminente ou d'un non-paiement de rétribution à l'égard duquel l'assuré a déposé une plainte auprès de l'organisme fédéral ou provincial de main-d'oeuvre. Est exclu du total de la rémunération tout montant impayé qui se rapporte au temps supplémentaire ou qui aurait été versé en raison de la cessation de l'emploi.
+[9] Madame Francine Brodeur et monsieur Alain Charron ont témoigné pour l'appelante. Ils ont tous deux indiqué la façon dont les heures de travail de monsieur Léger, engagé comme peintre, ont été comptabilisées et vérifiées tant par eux-mêmes que par le contremaître du chantier au cours de la période en litige. Les heures de travail sont consignées aux livres de l'appelante et sont indiquées au relevé d'emploi complété par celle-ci. Enfin, les chèques émis en paiement ont été produits (voir pièce A-1 en liasse).
+[10] Personne n'a témoigné pour l'intimé. Lors du témoignage de madame Brodeur, l'avocate de l'intimé s'est contentée de faire reconnaître que monsieur Léger avait fait une réclamation à la C.C.Q.
+[11] La position prise par l'intimé au terme de l'audition est non-fondée et injustifiable dans les circonstances.
+[12] Si la rédaction du paragraphe 2(2) du Règlement sur la rémunération assurable et la perception des cotisations n'est pas des plus heureuses, encore faut-il d'abord établir, pour revendiquer l'application de l'article 9.2 du Règlement sur l'assurance-emploi, que « ... la totalité ou une partie de la rémunération d'une personne pour une période d'emploi assurable n'a pas été versée... » . En droit, il est impensable de considérer qu'une simple plainte d'un travailleur auprès d'un organisme fédéral ou provincial de main-d'oeuvre puisse constituer une preuve quelconque qu'une rémunération n'a pas été versée en totalité ou en partie.
+[13] Le Ministre s'est fondé sur l'hypothèse de fait qu'une partie de la rémunération de monsieur Léger n'avait pas été versée. La preuve présentée par l'appelante a démontré le contraire.
+[14] D'abord la réclamation pour salaire impayé présentée par monsieur Léger à la C.C.Q. et subséquemment, poursuivie par celle-ci contre l'appelante devant la Cour du Québec, a été totalement déboutée. L'intimé n'a présenté aucune preuve que cette réclamation avait quelque fondement que ce soit. Plus particulièrement, monsieur Léger n'a jamais été appelé à témoigner. Enfin, l'appelante a fait témoigner madame Brodeur et monsieur Charron pour démontrer que la rémunération à laquelle pouvait prétendre monsieur Léger, compte tenu de ses heures de travail au cours de la période en litige, avait entièrement été payée. Le témoignage de ces personnes est non contredit et crédible.
+[15] Il est inutile d'en dire plus.
+[16] En conséquence de ce qui précède, l'appel est admis et la décision du Ministre est modifiée en tenant pour acquis que les heures assurables et la rémunération assurable de monsieur Gérald Léger, lorsqu'il était au service de l'appelante entre le 28 mai et le 29 juillet 2000, sont respectivement celles indiquées au relevé d'emploi émis par l'appelante en date du 14 juillet 2000.
+Signé à Ottawa, Canada ce 28e jour de novembre 2003.
+« P. R. Dussault »
+Juge Dussault
+RÉFÉRENCE :
+2003CCI880
+No DU DOSSIER DE LA COUR :
+2002-365(EI)
+INTITULÉ DE LA CAUSE :
+Construction Norrach Inc.
+et MRN
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATES DE L'AUDIENCE :
+Le 24 novembre 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge P.R. Dussault
+DATE DU JUGEMENT :
+le 28 novembre 2003
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Virginie Falardeau
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+AVOCATE INSCRITE AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Me Virginie Falardeau
+Ravinsky Ryan
+Ville :
+Montréal (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

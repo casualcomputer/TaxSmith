@@ -1,0 +1,150 @@
+Title: Preston v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28357/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-761-28357-preston-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-09-12
+
+# Preston v. The Queen
+
+- Citation: 2007 TCC 761
+- Decision date: 2007-09-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1942, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Preston v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-12
+Neutral citation
+2007 TCC 761
+File numbers
+2006-715(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-715(IT)I
+BETWEEN:
+ROBERT PRESTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+ORDER
+Upon appeal from the certificate of taxation of costs issued by the Registrar of the Tax Court of Canada; and
+Upon consideration of the written submissions filed by the appellant and counsel for the respondent;
+It is ordered that the appellant be awarded costs in the amount of $1,000.
+Signed at Ottawa, Canada, this 20th day of December 2007.
+“D.G.H. Bowman”
+Bowman, C.J.
+Citation: 2007TCC761
+Date: 20071220
+Docket: 2006-715(IT)I
+BETWEEN:
+ROBERT PRESTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+REASONS FOR ORDER WITH RESPECT TO COSTS
+Bowman, C.J.
+[1] On September 8, 2006, Justice O’Connor of this court rendered judgment in favour of the appellant, Robert Preston. The case was heard under the informal procedure and Mr. Preston represented himself. The assessment in question brought into the appellant’s income $12,343 for the taxation year 2000 as a shareholder benefit. The case was factually somewhat complex.
+[2] Justice O’Connor found that there was no taxable benefit conferred on the appellant. He allowed the appeal “with costs, if any”.
+[3] Mr. Preston submitted bill of costs as follows:
+Cost for this matter by the Appellant.
+Time to locate the legal documents from stored files, forensic research of facts that relate to the matter.
+Time for research of law and of case law that relate to such a mater. [sic]
+Time to travel to obtain an/or [sic] research for other suporting [sic] documents.
+Time for forensic reseach [sic] of all other documents that related to this matter in any way.
+Hours:--- 117.5 x $ 80.00 $9,400.00
+Travel $ 409.85
+lodging 5 nights $ 334.40
+$ 10,144.25 $ 10,144.25
+Court Appeearance [sic]
+Court time ½ Day $ 320.00
+Rental car $ 107.65
+Travel time 4 hours x $80.00 $ 320.00
+$ 747.65 $ 747.65
+Total $ 10,891.90
+Total cost in this matter to date $10,891.90
+[4] The appellant’s bill of costs was taxed by the Registrar of this Court and he was allowed only $107.65 for car rental. Otherwise, all other claims were disallowed.
+[5] Mr. Preston has appealed to a judge of this court from the taxation.
+[6] Rules 10 to 14 of the Tax Court of Canada Rules (Informal Procedure) read as follows:
+Sec. 10. (1) Costs on an appeal shall be at the discretion of the judge by whom the appeal is disposed of in the circumstances set out in subsection 18.26(1) of the Act which reads as follows:
+“18.26 (1) Where an appeal referred to in section 18 is allowed, the Court
+(a) shall reimburse to the appellant the filing fee paid by the appellant under paragraph 18.15(3)(b); and
+(b) where the judgment reduces the aggregate of all amounts in issue or the amount of interest in issue, or increases the amount of loss in issue, as the case may be, by more than one-half, may award costs to the appellant in accordance with the rules of Court.”
+(2) A judge may direct the payment of costs in a fixed sum, in lieu of any taxed costs.
+Sec. 11. On the taxation of party and party costs the following fees may be allowed for the services of counsel
+(a) for the preparation of a notice of appeal or for advice relating to the appeal, $185;
+(b) for preparing for a hearing, $250;
+(c) for the conduct of a hearing, $375 for each half day or part of a half day; and
+(d) for the taxation of costs, $60.
+Sec. 11.1. Unless otherwise directed by the Court, where an appellant is represented or assisted by an advisor other than counsel, disbursements in respect of services referred to in section 11 may be allowed on the taxation of party and party costs in an amount not to exceed one half of the amounts listed in section 11.
+Sec. 11.2. (1) Such other disbursements may be allowed as were essential for the conduct of the appeal if it is established that the disbursements were made or that the party is liable for them.
+(2) There may be allowed all services, sales, use or consumption taxes and other like taxes paid or payable on any counsel fees and disbursements allowed if it is established that such taxes have been paid or are payable and are not otherwise reimbursed or reimbursable in any manner whatever, including, without restriction, by means of claims for input tax credits in respect of such taxes.
+Sec. 12. (1) A witness, other than a witness who appears to give evidence as an expert, is entitled to be paid by the party who arranged for his or her attendance $75 per day, plus reasonable and proper transportation and living expenses.
+(1.1) An amount is not payable under subsection (1) in respect of an appellant unless the appellant is called upon to testify by counsel for the respondent.
+(2) There may be paid to a witness who appears to give evidence as an expert a reasonable payment, not to exceed $300 per day unless the Court otherwise directs, for the services performed by the witness in preparing himself to give evidence and giving evidence.
+(3) [Repealed.]
+(4) [Repealed.]
+Sec. 13. (1) Subject to subsection 10(2), costs shall be taxed by the Registrar or such other person as may be designated by the Chief Justice as a taxing officer.
+(2) An appellant whose costs are to be taxed shall file with the Registrar a bill of costs, which may be in the form set out in Schedule 13.
+(3) The Registrar shall forthwith send a true copy of the bill of costs to counsel for the respondent.
+(4) Immediately following the taxation the Registrar shall send to each of the parties a certificate of taxation.
+Sec. 14. (1) Any party may appeal to a judge of the Court from the taxation, such appeal to be exercised by notice in writing sent to the Registrar within 20 days of the date of mailing of the certificate of taxation.
+(2) The time referred to in subsection (1) may be extended by a Judge of the Court.
+Sec. 14.1 Where a judge has made an order under section 19.1 of the Act, costs may be awarded against the person in respect of whom the order has been made.
+[7] I do not think that this is a case for a review of the principles that govern a review of the certificate of taxation issued by a taxing officer. There have been a number of cases in this court and the Federal Court of Appeal and I mention them briefly. In Munro v. Canada, [1998] 4 C.T.C. 89, the Federal Court of Appeal held (Létourneau J.A.) that award to a taxpayer of reimbursement “of any expenses incurred” really meant “costs in accordance with the tariff”. In Sherman v. M.N.R., 2004 DTC 6591, the appellant, a lawyer, represented himself. Létourneau, J.A. said this:
+[10] There is no doubt that the appellant, who was unrepresented, expended time and effort in the pursuit of his claims. However, as the Alberta Court of Appeal pointed out in Dechant v. Law Society of Alberta, 2001 ABCA 81, "represented litigants also sacrifice a considerable amount of their own time and effort for which no compensation is paid". Furthermore, their lawyers' fees are not fully reimbursed. I agree that "applying an identical cost schedule to both represented and unrepresented litigants will work an inequity against the represented litigant who, even with an award of costs, will be left with some legal fees to pay and no compensation for a personal investment of time": ibid, paragraph 16. It could also promote self-litigation as an occupation: ibid, paragraph 17; see also Lee v. Anderson Resources Ltd., 2002 ABQB 536, (2002) 307 A.R. 303 (Alta Q.B.).
+[11] In the present instance, if the appellant had been represented, he would have been awarded party and party costs according to column III of the table to Tariff B. I believe that his award of costs as an unrepresented litigant can, at best, equal, but should not exceed, what would have otherwise been paid to him if he had been represented by counsel. I should add that the unrepresented litigant enjoys no automatic right to the full amount contemplated by the tariff. The amount of the award is in the discretion of the Court. The concept of a "moderate allowance" is an indication of a partial indemnity although, as previously mentioned, I accept that, in appropriate but rare cases, the amount of that indemnity could be equal to what the tariff would grant to a represented litigant.
+[12] Like Registrar Doolan in City Club Development (Middlegate) Corp. v. Cutts (1996) 26 B.C.L.R. (3d) 39, Registrar Roland of the Supreme Court of Canada concluded in Metzner v. Metzner, [2000] S.C.C.A. No. 527, that the "reasonably competent solicitor approach was unworkable when assessing special costs awarded to a lay litigant": S.C.C. Bulletin 2001, p. 1158. She endorsed the conclusion that the only reasonable approach was to make an award on a quantum meruit basis.
+[13] In Clark v. Taylor [2003] N.W.T.J. No. 67, Vertes, J. of the Northwest Territories Supreme Court was called upon to assess costs for an unrepresented female litigant. At paragraph 12 of the decision, he wrote:
+In considering what would be a "reasonable" allowance for the applicant's loss of time in preparing and presenting her case, I am not convinced that it is at all appropriate to simply apply what she herself would charge for her hourly fees to a client. The reality is that any litigation will eat up time and expenses whether one is represented or not.
+[14] He went on to add that the tariff can provide useful benchmarks, even if costs are not assessed on the tariff basis. I agree. The hourly rate claimed by the appellant in the present case is not the benchmark to be used in determining the quantum of a moderate allowance. It is much in excess of the allocation rate contemplated by the tariff.
+[15] In the present case, this Court was of the view that the appellant, who is a reputable tax expert, raised new issues of public interest as regards the interpretation of an international tax convention and the right to access the information obtained and exchanged pursuant to that Convention: see paragraph 44 of the decision. The work submitted by the appellant was of good quality. The submissions to the Court were well documented and helpful. There is no doubt that his attendance at the hearing before the Federal Court and our Court was necessary and caused him to lose time from work. Furthermore, the appellant behaved with great propriety throughout the litigation.
+[16] Bearing all these factors in mind, including the legitimate purpose pursued by the appellant and the fact that costs under Tariff B would have amounted to some $7,200, I would fix the moderate allowance at $6,000 plus disbursements in the undisputed amount of $684.08. As for the costs and disbursements of bringing this motion, I would allow the sum of $350.
+[8] In Turner v. The Queen, 2003 DTC 5279, the Federal Court of Appeal (per Evans J.A.) said:
+Evans, J.A. (Rothstein and Malone , JJ.A. concurring): [1] This is an appeal by Fred Turner from a decision of Nadon, J. (as he then was) dismissing a motion requesting a review of an assessment of costs by the Assessment Officer in the amount of $2,381.22. Mr.Turner had claimed costs in the sum of $275,268.12. Nadon, J.'s decision is reported as Turner v. The Queen (2001) [2001 DTC 5581], 211 F.T.R. 299.
+[2] The costs dispute arose from an order of this Court, dated June27, 2000, in which, when allowing an appeal by Mr.Turner from a decision of the Tax Court of Canada, the Court ordered in a written judgment: 'The appeal is allowed with costs'. This decision of the Federal Court of Appeal is reported as Turner v. The Queen (2000) [2000 DTC 6442], 259 N.R.92. Mr. Turner neither asked for a reconsideration, nor appealed.
+[3] Mr. Turner's principal complaint in this appeal is that, as a self represented litigant, his costs include an amount that recognizes the time that he had spent in pursuing his eventually successful appeals against the Minister's assessment of his income tax liability for 1994. Mr.Turner relied on Skidmore v. Blackmore (1995), 2 B.C.L.R. (3d) 201 (B.C.C.A.) as authority for the proposition that he was entitled to be compensated for his time by an award of costs.
+[4] I cannot accept this argument. Skidmore v. Blackmore decided that the County Court of British Columbia had the power to make an award of costs in favour of a self-represented litigant that was not confined to disbursements. In our case, however, this Court awarded costs in favour of Mr.Turner in its judgment of June27, 2000. Hence, the only question before the Assessment Officer was what the Court meant when it ordered that the appeal was allowed “with costs”, a question that Skidmore v. Blackmore did not address.
+[5] The Assessment Officer decided that the Court meant to award Mr.Turner party and party costs, and that, in the absence of any directions to the contrary, the award should be calculated pursuant to Tariff B of the Federal Court Rules, 1998. However, Tariff B only provides for the partial recovery of legal fees and the usual disbursements, but not the value of the time spent on litigation by parties, whether or not they are self-represented.
+[6] In my opinion, Mr.Stinson was correct in reaching this conclusion: Munro v. Canada, (1998), 163 D.L.R. (4th) 541 (F.C.A.). Further, the fact that Tariff B does not provide for a self-represented litigant's lost time does not violate Mr.Turner's right to equality guaranteed by section 15 of the Charter: Rubin v. Canada (Attorney General), [1990] 3 F.C. 642 (T.D.); Lavigne v. Canada (Human Resources Development) (1998), 228 N.R. 124 (F.C.A.).
+[7] This is not to say that, in the exercise of the plenary discretion over costs granted by Rule400(1), the Court may not make an award that provides a litigant with some compensation for items that fall neither within disbursements as normally understood, nor counsel fees: see, for example, Entreprises A.B. Rimouski Inc. v. Canada, [2000] F.C.J. No.501 (C.A.).
+. . . . .
+[17] For these reasons, I would dismiss the appeal and make a lump sum award of costs to the respondent in the amount of $3,750 inclusive of disbursements.
+[9] It is not necessary for me to reconcile these two decisions and I shall not endeavour to do so.
+[10] Mr. Preston is a professional photographer. Apart from the time and money he had to spend researching the questions relevant to his appeal he had to drive to Kingston from Peterborough and stay in a motel. In accordance with what was done by the Federal Court of Appeal in Sherman and Turner, I think that it is within the power of a judge reviewing a taxation to award a lump sum under subsection 10(2) of the Informal Procedure Rules — something the taxing officer could not do. I do not however think that I can award him anything for the time he spent away from his professional practice as a photographer. This conclusion is more in accordance with Turner than with Sherman. A fair lump sum award to partially compensate him for his expenses is $1,000. I am satisfied from a review of the file that his actual expenses amount to at least that figure despite the absence of receipts. Receipts are not essential if it is clear that the expenses were incurred.
+Signed at Ottawa, Canada, this 20th day of December 2007.
+“D.G.H. Bowman”
+Bowman C.J.
+CITATION: 2007TCC761
+COURT FILE NO: 2006-715(IT)I
+STYLE OF CAUSE: Robert Preston
+v. Her Majesty The Queen
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: June 27, 2007 and
+September 12, 2007
+REASONS FOR ORDER BY: The Honourable D.G.H. Bowman,
+Chief Justice
+DATE OF ORDER: December 20, 2007
+APPEARANCES:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Gatien Fournier
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

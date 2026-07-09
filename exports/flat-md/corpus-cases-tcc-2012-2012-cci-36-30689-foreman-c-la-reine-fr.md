@@ -1,0 +1,175 @@
+---
+title: "Foreman c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30689/index.do"
+last_modified: "2012-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 36"
+citation2: ""
+neutral_citation: "2012 CCI 36"
+decision_date: "2012-01-30"
+language: "fr"
+item_id: "30689"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7185
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:49:20.751000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "352a9b18817723096beb520e364b14ff32136d0a60d41159091ce40a16e3a8b5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Foreman c. La Reine
+
+- Citation: 2012 CCI 36
+- Decision date: 2012-01-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7185, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Foreman c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-01-30
+Référence neutre
+2012 CCI 36
+Numéro de dossier
+2011-2309(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2309(IT)I
+ENTRE :
+COLIN FOREMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 16 décembre 2011, à Prince George (Colombie‑Britannique).
+Devant : L'honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l'appelant :
+M. Kevin Christieson
+Avocat de l'intimée :
+Me Shankar Kamath
+________________________________________________________________
+JUGEMENT
+Le prétendu appel interjeté par l'appelant à l'encontre de la cotisation établie relativement à son obligation fiscale pour 2008 est annulé.
+L'appel interjeté par l'appelant à l'encontre de la nouvelle cotisation établie relativement à son obligation fiscale pour 2009 est rejeté, sans dépens.
+Signé à Halifax (Nouvelle‑Écosse), ce 30e jour de janvier 2012.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 15e jour de mars 2012.
+Yves Bellefeuille, réviseur
+Référence : 2012 CCI 36
+Date : 20120130
+Dossier : 2011-2309(IT)I
+ENTRE :
+COLIN FOREMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] L'appelant a déposé un avis d'appel à la Cour dans lequel il a indiqué qu'il interjetait appel de la cotisation (ou de la nouvelle cotisation) établie relativement à son obligation fiscale pour 2008 et pour 2009. Au début de l'audience, l'intimée a présenté une requête en annulation du prétendu appel interjeté par l'appelant à l'égard de l'année 2008, en se fondant sur le fait que l'appelant n'avait pas signifié un avis d'opposition à la cotisation établie à l'égard de son obligation fiscale pour 2008. L'affidavit d'un agent de l'Agence du revenu du Canada (l'« ARC ») a été déposé à la Cour. Dans cet affidavit, l'agent de l'ARC a déclaré qu'il n'y avait aucune trace concernant le dépôt par l'appelant d'un avis d'opposition à la cotisation établie pour l'année d'imposition 2008.
+[2] Le paragraphe 169(1) de la Loi de l'impôt sur le revenu (la « Loi ») prévoit ce qui suit :
+169(1) Lorsqu'un contribuable a signifié un avis d'opposition à une cotisation, prévu à l'article 165, il peut interjeter appel auprès de la Cour canadienne de l'impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l'expiration des 90 jours qui suivent la signification de l'avis d'opposition sans que le ministre ait notifié au contribuable le fait qu'il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l'expiration des 90 jours qui suivent la date où avis a été expédié par la poste au contribuable, en vertu de l'article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+[3] Dans l'arrêt Bormann c. La Reine, 2006 CAF 83, la Cour d'appel fédérale a fait les observations suivantes :
+3 Le paragraphe 169(1) de la Loi de l'impôt sur le revenu oblige le contribuable à signifier un avis d'opposition s'il veut interjeter appel d'une cotisation. En d'autres mots, la signification d'un avis est une condition préalable à l'introduction d'un appel.
+4 Comme je l'ai mentionné, l'appelant n'a pas signifié d'avis d'opposition et il n'existe aucune preuve qu'il ait demandé au ministre une prorogation de délai afin de signifier un avis d'opposition.
+La loi est claire : lorsqu'il n'y a pas eu de demande de prorogation de délai, la Cour de l'impôt n'a pas la compétence de proroger le délai par souci d'équité.
+Minuteman Press of Canada Company Limited c. M.R.N., 88 D.T.C. 6278, (C.A.F.).
+6 Par conséquent, il n'y a aucun fondement à l'allégation selon laquelle le juge de la Cour de l'impôt aurait commis une erreur en rejetant les appels de l'appelant pour les années d'imposition de 1992 à 1998.
+[4] L'appelant a reconnu qu'il n'avait pas signifié d'avis d'opposition relativement à la cotisation établie à l'égard de son obligation fiscale pour 2008. En conséquence, l'appel relatif à la cotisation établie pour l'année d'imposition 2008 est annulé.
+[5] L'appel concernant la nouvelle cotisation établie à l'égard de l'année d'imposition 2009 de l'appelant découle d'une demande de crédit d'impôt faite par l'appelant au titre des alinéas 118(1)b) et b.1) de la Loi relativement à sa fille. La demande de l'appelant a été refusée au motif que celui‑ci était tenu de payer une pension alimentaire pour l'enfant en 2009.
+[6] Le paragraphe 118(5) de la Loi prévoit ce qui suit :
+(5) Aucun montant n'est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition si le particulier, d'une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son époux ou conjoint de fait ou ex‑époux ou ancien conjoint de fait pour la personne et, d'autre part, selon le cas :
+a) vit séparé de son époux ou conjoint de fait ou ex‑époux ou ancien conjoint de fait tout au long de l'année pour cause d'échec de leur mariage ou union de fait;
+b) demande une déduction pour l'année par l'effet de l'article 60 au titre de la pension alimentaire versée à son époux ou conjoint de fait ou ex‑époux ou ancien conjoint de fait.
+[7] Le paragraphe 56.1(4) de la Loi dispose notamment ce qui suit :
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui‑ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex‑époux ou l'ancien conjoint de fait du payeur et vit séparé de celui‑ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est légalement le père ou la mère d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+[8] Par conséquent, si l'appelant était tenu de payer une pension alimentaire pour sa fille en 2009, il n'a pas le droit de demander un crédit d'impôt au titre du paragraphe 118(1) de la Loi relativement à sa fille pour 2009. En l'espèce, la question en litige est de savoir si l'appelant était tenu de payer une pension alimentaire relativement à sa fille en 2009.
+[9] L'appelant et son épouse se sont séparés en 2003. L'appelant a produit en preuve une copie de l'ordonnance de la Cour provinciale de la Colombie‑Britannique qui a été déposée le 24 septembre 2004 (l'« ordonnance de 2004 »). L'ordonnance de 2004 est désignée comme une « ordonnance sur consentement » et prévoit en partie ce qui suit :
+[TRADUCTION]
+LA COUR ORDONNE que les ordonnances rendues par le juge Chen le 12 mars 2003 et le 16 juillet 2003 soient annulées.
+LA COUR ORDONNE ÉGALEMENT que JO‑ANN NADALIN et COLIN FOREMAN aient la garde et la tutelle conjointes de l'enfant, à savoir [...]
+LA COUR ORDONNE ÉGALEMENT que la résidence principale dudit enfant soit celle de JO‑ANN NADALIN.
+LA COUR ORDONNE ÉGALEMENT que COLIN FOREMAN ait un droit de visite à l'égard dudit enfant chaque vendredi après‑midi jusqu'au dimanche après‑midi et à tout autre moment convenu par les parties.
+VU qu'il a été conclu que COLIN FOREMAN est résident de la Colombie‑Britannique et qu'il a un revenu annuel de 13 653 $ aux fins de la détermination du montant de pension alimentaire pour l'enfant prévu dans les tables,
+LA COUR ORDONNE ÉGALEMENT que, conformément aux lignes directrices sur les pensions alimentaires pour enfants, COLIN FOREMAN verse à JO‑ANN NADALIN la somme mensuelle de 150 $ pour subvenir aux besoins dudit enfant. Cette pension alimentaire doit être versée le premier jour de chaque mois, à compter du 1er septembre 2004.
+[10] La seule autre ordonnance qui a été produite à l'audience était une ordonnance de la Cour provinciale de la Colombie‑Britannique rendue par suite d'une audience tenue le 2 mars 2011 (l'« ordonnance de 2011 »). L'ordonnance de 2011 est désignée comme une ordonnance provisoire. Rien n'indique que l'ordonnance de 2011 annule l'ordonnance de 2004 (il était déclaré dans l'ordonnance de 2004 que celle‑ci annulait les ordonnances antérieures rendues par le juge Chen) et l'ordonnance de 2011 ne traite pas non plus de la question des paiements de pension alimentaire pour l'enfant; elle ne porte que sur les questions de la garde, de la tutelle, de la résidence et du droit de visite.
+[11] L'appelant soutient qu'il n'était plus tenu de payer une pension alimentaire pour l'enfant en 2009 au titre de l'ordonnance de 2004, étant donné que l'enfant avait commencé à vivre avec lui avant 2009. Il a également déclaré que Jo‑Ann Nadalin était d'accord avec lui sur le fait qu'il n'était plus tenu de payer une pension alimentaire pour l'enfant, mais Jo‑Ann Nadalin a nié l'existence d'un tel accord. Toutefois, il est évident que l'ordonnance de 2004 n'a pas été modifiée relativement à la disposition qui enjoignait à l'appelant de payer une pension alimentaire pour l'enfant. Bien que l'appelant ait peut‑être des motifs sur lesquels il pourrait se fonder pour obtenir que l'exigence de verser la pension alimentaire pour l'enfant soit annulée, il est toujours tenu de verser la pension alimentaire pour l'enfant jusqu'à ce qu'une autre ordonnance de la Cour provinciale de la Colombie‑Britannique (ou d'une cour d'une instance supérieure ayant le pouvoir d'annuler une telle exigence) annule cette exigence. L'appelant (même s'il avait le consentement de Jo‑Ann Nadalin) ne peut pas lui‑même modifier ou annuler une ordonnance de la Cour provinciale de la Colombie‑Britannique. Seule la Cour provinciale de la Colombie‑Britannique (ou une cour d'une instance supérieure ayant le pouvoir de modifier une ordonnance de la Cour provinciale de la Colombie‑Britannique) peut modifier une ordonnance de cette cour. Notre Cour n'a pas le pouvoir de modifier une ordonnance de la Cour provinciale de la Colombie‑Britannique.
+[12] Dans l'arrêt D.B.S. c. S.R.G., [2006] 2 R.C.S. 231, le juge Bastarache, s'exprimant au nom de la majorité des juges de la Cour suprême du Canada, a fait les observations suivantes :
+63 Un premier sujet de préoccupation est que la rétroactivité de l'ordonnance va à l'encontre des attentes légitimes du parent débiteur : voir Andries c. Andries (1998), 126 Man. R. (2d) 189 (C.A.), par. 48. Le parent débiteur qui suit avec diligence les directives du tribunal peut s'attendre à ne pas faire l'objet d'allégations de manquement à ses obligations. Après tout, jusqu'à ce qu'elle soit modifiée, l'ordonnance du tribunal a force exécutoire. Elle offre non seulement le bien‑être et la sécurité au parent créancier, mais également la prévisibilité au parent débiteur. Dit simplement, les attentes du parent débiteur paraissent plus légitimes lorsque ce dernier a observé une ordonnance judiciaire.
+64 En revanche, les parents ne devraient pas avoir l'impression que l'ordonnance alimentaire pour l'enfant est coulée dans le béton. Ils doivent comprendre qu'elle tient compte de la situation précise existant au moment où elle est rendue, même lorsqu'elle ne prévoit pas de communication, de modification ou de révision automatique. C'est pourquoi il est toujours possible qu'elle soit modifiée lorsque le contexte factuel change : voir l'art. 17 de la Loi sur le divorce et le par. 18(2) de la Parentage and Maintenance Act. Mais même lorsque les parents renoncent à demander la modification de l'ordonnance, sous réserves de raisons à l'origine de ce choix (et de la possibilité qu'ils y aient été contraints), l'enfant peut quand même avoir droit à la prestation qui aurait dû être versée. La certitude qu'offre l'ordonnance judiciaire ne dispense pas les parents de leur obligation de toujours veiller à ce que l'enfant bénéficie d'une pension alimentaire dont le montant est approprié.
+65 Selon moi, on doit présumer de la validité de l'ordonnance fixant le montant de la pension alimentaire. Il le faut pour préserver non seulement la certitude que confère une décision de justice, mais aussi le respect du système judiciaire lui‑même. Il ne saurait convenir que le tribunal ou les parents présument de la non‑validité d'une ordonnance antérieure.
+66 La présomption de validité n'est toutefois pas absolue. Je l'ai déjà dit, le droit applicable reconnaît qu'il peut être justifié de la modifier. Le tribunal est investi de ce pouvoir lorsque survient un changement de situation important. Ainsi, sous le régime fédéral, l'entrée en vigueur des Lignes directrices constitue un tel changement : al. 14c) des Lignes directrices. Constitue également un changement de situation important l'augmentation de revenu qui modifie le montant exigible du parent débiteur : art. 14 des Lignes directrices; Willick, p. 688; voir également le par. 18(2) de la Parentage and Maintenance Act. Ainsi, lorsque la situation des parents a changé sensiblement depuis l'ordonnance initiale, celle‑ci ne définit peut‑être plus correctement les obligations des parents.
+[Non souligné dans l'original.]
+[13] Ainsi que le juge Bastarache l'a souligné ci‑dessus, « jusqu'à ce qu'elle soit modifiée, l'ordonnance du tribunal a force exécutoire ». Même si la situation a changé relativement à la résidence de l'enfant, on ne sait pas si l'appelant serait déchargé de son obligation de payer la pension alimentaire pour l'enfant à quelque moment que ce soit avant qu'il ne demande une modification. Bien que dans la décision Barthels c. La Reine, no 2001‑2568(IT)I, 17 mai 2002, [2002] A.C.I. no 256 (QL), il soit fait mention d'une annulation des arriérés par suite d'un changement de situation, le même redressement n'a pas été accordé dans la décision Barry v. Rogers, 213 Nfld. & P.E.I.R. 239. Dans la décision Barry v. Rogers, le juge Handrigan, de la Division de première instance de la Cour suprême de Terre‑Neuve‑et‑Labrador, a fait les observations suivantes :
+[TRADUCTION]
+16 Urville Rogers a demandé d'être déchargé de l'obligation de paiement des arriérés qui se sont accumulés aux termes de l'ordonnance du 4 mai 2001. Je ne suis pas disposé à accueillir cette partie de la demande. Il n'a versé aucune pension alimentaire après le 20 août 2001 et n'a demandé un réexamen à la cour que le 6 février 2002. Il ne lui est pas permis d'arrêter les versements de pension simplement parce que les enfants passaient davantage de temps avec lui. Il est lié par l'ordonnance à moins que cette dernière ne soit modifiée par la cour. L'obligation de payer une pension alimentaire créée par cette ordonnance demeure en vigueur jusqu'au 1er mai 2002. Elle sera alors remplacée par l'ordonnance découlant de la présente instance.
+[14] Étant donné que l'ordonnance de 2004 n'a pas été modifiée en ce qui concerne l'obligation de l'appelant de payer la pension alimentaire pour l'enfant, l'appelant était toujours tenu de payer la pension alimentaire pour l'enfant en 2009. L'ordonnance de 2004 ne prévoit pas que l'obligation de verser la pension alimentaire pour l'enfant serait éteinte à un moment donné ou dans une situation particulière.
+[15] L'appelant a renvoyé à deux décisions de notre Cour, à savoir Biggs c. La Reine, no 2001‑2745(IT)I, 16 novembre 2001, [2001] A.C.I. no 768 (QL), et Barthels, précité. Il est possible d'établir une distinction entre les deux affaires et celle qui nous occupe.
+[16] Dans la décision Biggs, le juge Beaubier a fait les observations suivantes :
+7 [...] Plus important, dans l'hypothèse 4d), l'intimée a fait valoir que l'ordonnance concernant la pension alimentaire versée à l'égard de Michael ne se poursuivrait que « tant et aussi longtemps que Michael réside avec l'ex‑conjointe à plein temps ». Par conséquent, l'obligation de verser une pension alimentaire aux termes de l'ordonnance n'existait que tant que Michael résidait avec l'ex‑conjointe de l'appelant. La pièce A‑1 confirme le fait qu'après le 1er juillet 1997, Michael résidait avec l'appelant et que la pension alimentaire à l'égard de Michael a pris fin à ce moment. Par conséquent, l'obligation de payer la pension alimentaire aux termes de l'ordonnance a pris fin le 1er juillet 1997. Au cours de l'année d'imposition 1999, aucune pension alimentaire n'était payable et toutes les autres exigences de l'article 118 ont été respectées. Par conséquent, l'appelant avait droit au crédit équivalent pour personne entièrement à charge.
+[17] Il y a lieu d'établir une distinction entre la décision Biggs et l'espèce parce que l'ordonnance dans cette affaire prévoyait que l'obligation de payer une pension alimentaire ne se poursuivrait que [TRADUCTION] « tant que Michael réside avec l'ex‑conjointe à plein temps [...] ». En l'espèce, une telle condition n'existe pas dans l'ordonnance de 2004.
+[18] Dans la décision Barthels, le juge Hershfield a fait les observations suivantes :
+12 Troisièmement, je conclus que l'obligation de payer une pension alimentaire aux termes de la première ordonnance dépendait en elle‑même de la situation relative à [la] garde visée par cette ordonnance. La situation a changé au cours de l'année précédant l'année en cause, et ce changement s'est perpétué tout au long de l'année en cause. La première ordonnance ne visait pas une telle situation. Les deuxième et troisième ordonnances (portant annulation des arriérés) ne sont, à mon avis, que formalistes, et on doit leur attribuer le même effet que si elles avaient pour objet d'annuler l'ordonnance qui a entraîné l'accumulation des arriérés. Ces deuxième et troisième ordonnances ont reconnu la situation et entériné l'accord juridique des parties tel qu'il avait été convenu au moment où la première ordonnance avait été rendue. Elles ont confirmé le caractère essentiellement conditionnel de la première ordonnance et clarifié que l'obligation de payer une pension alimentaire relativement à Stephanie n'existait plus lorsque les hypothèses sur lesquelles cette obligation était fondée eurent cessé d'exister. Ces ordonnances, bien qu'elles n'indiquent pas expressément qu'elles mettent rétroactivement fin à cette obligation, ont à mon avis tout de même un tel effet rétroactif.
+[19] Dans la décision Barthels, il y avait des ordonnances subséquentes qui annulaient les arriérés, et qui pouvaient être interprétées comme annulant l'obligation de payer la pension alimentaire. En l'espèce, de telles ordonnances subséquentes n'existent pas.
+[20] Étant donné que l'ordonnance de 2004 était encore en vigueur en 2009, l'appelant était toujours tenu de payer une pension alimentaire en 2009, et l'appelant n'avait donc pas droit à un crédit d'impôt comme le prévoit l'alinéa 118(1)b) ou 118(1)b.1) de la Loi en 2009, en raison des dispositions du paragraphe 118(5) de la Loi. En conséquence, l'appel interjeté par l'appelant à l'encontre de la nouvelle cotisation établie à l'égard de son obligation fiscale pour 2009 est rejeté, sans dépens.
+Signé à Halifax (Nouvelle‑Écosse), ce 30e jour de janvier 2012.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 15e jour de mars 2012.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2012 CCI 36
+NO DU DOSSIER DE LA COUR : 2011-2309(IT)I
+INTITULÉ : COLIN FOREMAN c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Prince George (Colombie‑Britannique)
+DATE DE L'AUDIENCE : Le 16 décembre 2011
+MOTIFS DU JUGEMENT : L'honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 30 janvier 2012
+COMPARUTIONS :
+Représentant de l'appelant :
+M. Kevin Christieson
+Avocat de l'intimée :
+Me Shankar Kamath
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

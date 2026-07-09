@@ -1,0 +1,143 @@
+---
+title: "Adam Daniel & Assoc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27858/index.do"
+last_modified: "2005-04-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 321"
+citation2: ""
+neutral_citation: "2005 CCI 321"
+decision_date: "2005-04-11"
+language: "fr"
+item_id: "27858"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 333
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:01:57.892000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "46c72ad9b3b9934522d434f41dcfcdaa2b9f0dc2ff85f92be217893d8597cd18"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Adam Daniel & Assoc. c. La Reine
+
+- Citation: 2005 CCI 321
+- Decision date: 2005-04-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 333, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Adam Daniel & Assoc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-11
+Référence neutre
+2005 CCI 321
+Numéro de dossier
+2003-1093(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1093(IT)G
+ENTRE :
+DANIEL ADAM & ASSOCIÉS
+SYNDIC DU FAILLI POUR LUC LAFONTAINE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+CERTIFICAT DE TAXATION DES DÉPENS
+JE CERTIFIE que j'ai taxé les dépens dans la présente instance en vertu du paragraphe 153(1) des Règles de la Cour canadienne de l'impôt (procédure générale) et, conformément aux motifs de taxation ci-joints, des dépens s’élevant à 4 563,74 $ sont accordés.
+Signé à Ottawa, Canada, ce 28e jour de décembre 2005.
+« R. Chartrand »
+Officier taxateur
+Référence : 2005CCI321
+2003-1093(IT)G
+ENTRE :
+DANIEL ADAM & ASSOCIÉS
+SYNDIC DU FAILLI POUR LUC LAFONTAINE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE LA TAXATION
+[1] L’audience sur la taxation a été entendue le 21 novembre 2005 par voie de conférence téléphonique. Elle fait suite à un jugement du 13 mai 2005 de l’honorable juge Tardif dans lequel ce dernier a rejeté l’appel et accordé les frais en faveur de l’intimée. Me Manès Webster représentait l’appelant et Me Marie-Aimée Cantin représentait l’intimée.
+[2] Le mémoire de frais de l’intimée est représenté ci-dessous;
+A) Dépens demandés dans le mémoire de frais – Tarif B de l’annexe II
+1(1)
+a)
+Services fournis avant l’interrogatoire préalable qui ne sont pas par ailleurs énumérés aux alinéas b) à i)
+525,00 $
+1(1)
+b)
+Pour la communication de documents ou l’inspection de biens
+150,00 $
+1(1)
+c)
+Pour l’interrogatoire préalable écrit du 21 mai 2004
+525,00 $
+Pour la taxation des dépens
+525,00 $
+1(1)
+g)
+Pour la préparation d’une audience
+625,00 $
+1(1)
+h)
+Pour l’audience du 11 avril 2004
+1 500,00 $
+1(1)
+i)
+Pour les services fournis après le prononcé du jugement
+300,00 $
+1(2)
+Total des débours
+413,74 $
+Total
+4 563,74 $
+[3] Me Manès s’objecte au fait que l’intimée réclame le maximum pouvant être accordé pour les dépens taxés entre parties d’après le Tarif B des règles de procédure de la Cour canadienne de l’impôt. Il considère que la cause n’était pas complexe, qu’il n’y avait pas beaucoup de témoins et que la facture pour ses services professionnels qu’il chargeait à son client ne s’élevait pas au montant demandé par l’intimée. Me Manès s’est référé aux items identifier à l’article 147 des règles de la Cour canadienne de l’impôt qui se rapporte aux facteurs que la Cour peut tenir compte lorsqu’elle accorde des frais. Entre autre Me Manès soulève le fait qu’il y avait seulement qu’une question en litige et qu’elle était assez simple, que la charge de travail ne pouvait être trop considérable, que la conduite des parties était très bonne de part et d’autre, et finalement qu’il n’y a pas eu d’étape inutile au processus.
+[3] Me Manès demande que les frais de Services fournis avant l’interrogatoire au préalable, ceux de l’interrogatoire au préalable, ceux de la taxation des dépens, et ceux de l’audience soient tous réduits de 50 %. Il demande également que les frais pour la communication des biens ne soient pas accordés et que les frais pour services après jugements soit réduits de 66%. Me Manès ne s’objecte pas au frais demandé pour la préparation de l’audience et ni aux débours de 413,74 $.
+[4] Me Cantin s’objecte aux demandes de Me Manès. Elle considère que le mémoire de frais a été préparé en fonction du Tarif B des règles de la Cour canadienne de l’impôt et qu’elle a droit à ces montants. Elle réfute les arguments de Me Manès au niveau de la complexité de la cause et de la charge de travail associée à ce dossier. Me Cantin considère que le montant en litige de 283 825,00 $ est élevé et que la charge de travail a été considérable puisque la cotisation a été établie par la méthode dite de l’« avoir net » et ce dans des circonstances particulières. L’intimée avait 58 documents inscrits à la liste des documents, elle avait également trois témoins et l’audience a durée une journée complète.
+[5] Me Cantin considère que les montants demandés sont appropriés et sont tous conformes au Tarif B des Règles de la Cour canadienne de l’impôt.
+[6] Aucun des parties n’a soumis de la jurisprudence pour supporter leur position.
+[7] Après révision du jugement de la Cour et des règles de la Cour canadienne de l’impôt voici mon analyse.
+[8] L’article 147 des Règles de la Cour canadienne de l’impôt traite de la discrétion disponible à la Cour pour adjuger les frais et dépens à une instance. Le juge Tardif a accordé les frais et dépens dans cette affaire donc l’officier taxateur doit se référer à l’article 154 des Règles pour une description d’éléments à retenir dans la taxation des dépens. L’article 154 se lit comme suit;
+Lorsque des dépens entre parties doivent être taxés, l'officier taxateur taxe et détermine les montants conformément au tarif B de l'annexe II et tient compte :
+a) des sommes en cause;
+b) de l'importance des questions en litige;
+c) de la complexité des questions en litige;
+d) de la charge de travail;
+e) de toute autre question qu'il doit prendre en considération conformément aux directives de la Cour.
+[9] Cet appel a été ouvert comme un appel de catégorie B donc le montant en litige n’est pas négligeable.
+[10] Pour ce qui est de l’importance des questions en litige, de la complexité des questions en litige et de la charge de travail je me réfère à certain paragraphe du jugement qui supporte les ressources investit par l’intimée dans cette cause.
+[54] Pour la préparation de l'appel, la partie appelante connaissait les fondements de la cotisation et, par conséquent, la nature de la preuve qui serait présentée au tribunal.
+[55] Tous les documents, données et pièces, au soutien de la cotisation étaient connus d'où il eût été essentiel de préparer et soumettre une preuve plus adéquate que de répéter les affirmations soumises au niveau de l'opposition.
+[57] Les fondements de la cotisation établie par la méthode de l'avoir net ont émané d'une analyse sérieuse et d'un questionnement approprié. Les témoignages du sergent à la Gendarmerie royale du Canada et du vérificateur-enquêteur ont également établi plusieurs faits à l'aide de documents dont la fiabilité était fort acceptable.
+[62] Pour réfuter et contester le bien-fondé de la cotisation, la partie appelante s'est contentée de faire des affirmations non soutenues ni confirmées et pour la plupart, vagues et incohérentes.
+[63] Il s'agit d'une preuve défaillante et incomplète qui ne suffisait certainement pas à discréditer le bien-fondé de la cotisation.
+[11] Le jugement de la Cour ne comporte aucunes directives spéciales à l’officier taxateur. En considérant le résultat final du litige et surtout les motifs du jugements, je n’ai aucune raison valable pour dévier du Tarif B des Règles de la Cour canadienne de l’impôt.
+[12] Le montant de 4 563,74 $ est accordé, un certificat du même montant sera émis.
+Signé à Ottawa, Canada, ce 28e jour de décembre 2005.
+« R. Chartrand »
+Officier taxateur

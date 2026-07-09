@@ -1,0 +1,98 @@
+Title: Riley v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25790/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-916-25790-riley-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-12-19
+
+# Riley v. The Queen
+
+- Citation: 2003 CCI 916
+- Decision date: 2003-12-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3801, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Riley v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-19
+Référence neutre
+2003 CCI 916
+Numéro de dossier
+2003-1845(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1845(IT)I
+ENTRE :
+THOMAS PAT RILEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 25 novembre 2003 à Nanaimo (Colombie-Britannique)
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Stacey Michael Repas
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Saskatoon, Canada, ce 19e jour de décembre 2003.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 15e jour d'avril 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI916
+Date : 20031219
+Dossier : 2003-1845(IT)I
+ENTRE :
+THOMAS PAT RILEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel interjeté sous le régime de la procédure informelle a été entendu à Nanaimo, en Colombie-Britannique, le 25 novembre 2003. L'appelant a été le seul témoin.
+[2] Les questions en litige sont exposées aux paragraphes 3 à 9 inclusivement de la Réponse à l'avis d'appel qui sont ainsi formulés :
+[traduction]
+3. Dans le calcul des crédits d'impôt non remboursables pour l'année d'imposition 2001, l'appelant a demandé un crédit d'impôt pour personnes handicapées ( « CIPH » ) au montant de 6 000 $.
+4. Dans une cotisation datée du 9 août 2002, le ministre du Revenu national (le « ministre » ) a refusé le CIPH qu'a demandé l'appelant pour l'année d'imposition 2001.
+5. L'appelant s'est opposé à la cotisation en signifiant au ministre un Avis d'opposition daté du 28 novembre 2002.
+6. Le ministre a répondu à l'opposition par voie d'un Avis de ratification daté du 10 janvier 2003.
+7. En établissant ainsi une cotisation à l'égard de l'appelant, le ministre s'est appuyé sur les hypothèses de fait suivantes :
+a) le médecin de l'appelant, le Dr W. Phipps, a rempli un Certificat pour le crédit d'impôt pour personnes handicapées (le « Certificat » ) concernant l'appelant;
+b) le Dr Phipps a indiqué dans le Certificat que l'appelant ne voit pas de son oeil gauche;
+c) le Dr Phipps n'a pas indiqué dans le Certificat que la capacité de l'appelant à marcher est limitée de façon marquée;
+d) pendant l'année d'imposition 2001, l'appelant n'était pas atteint d'une déficience qui était telle qu'il était toujours ou presque toujours incapable de marcher;
+e) l'appelant était capable d'accomplir les activités courantes de la vie quotidienne, notamment marcher, sans y consacrer un temps excessif;
+f) l'état de santé de l'appelant ne l'a pas empêché de façon marquée d'accomplir ses activités courantes de la vie quotidienne en 2001.
+B. QUESTIONS EN LITIGE À TRANCHER
+8. Il s'agit de savoir si l'appelant a le droit de réclamer un crédit d'impôt pour personnes handicapées à titre de crédit d'impôt non remboursable pour l'année d'imposition 2001.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES
+9. Il se fonde sur les articles 118.3 et 118.4 de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), telle qu'elle a été modifiée pour l'année d'imposition 2001 (la « Loi » ).
+[3] Les hypothèses énoncées aux points a), b) et c) du paragraphe 7 n'ont pas été réfutées par la preuve. L'appelant a subi une opération au genou gauche qui a été remplacé le 18 décembre 2000.
+[4] Après le mois de mars 2001 et certainement après le mois d'avril de cette même année, l'appelant était capable de marcher aux termes de la Loi de l'impôt sur le revenu.
+[5] Le Dr Phipps, en remplissant le certificat, a incorrectement répondu à la première question concernant la vue de l'appelant. Qui plus est, l'ouïe de l'appelant est mauvaise et l'est depuis deux ou trois ans. Pour qu'il puisse entendre les questions que lui posait l'avocat de l'intimée, celui-ci a dû les répéter à plusieurs reprises. Il ne voit pas de son oeil gauche, il a perdu l'usage de sa main gauche et son genou gauche a été remplacé.
+[6] Cumulativement, selon la Cour, la déficience qu'a l'appelant est minime, bien qu'il semble que chaque invalidité, prise séparément, ne répond pas aux critères du Certificat pour l'année 2001.
+[7] Par conséquent, l'appel est rejeté pour l'année d'imposition 2001. Cependant, la Cour encourage l'appelant à continuer de formuler une demande à cet égard. Il est un homme fier, honnête et autonome. Il est né en 1934, et la Cour n'a aucun doute que tous les problèmes de santé auxquels il est confronté en raison de son âge avancé contribueront à satisfaire les critères que prévoit la Loi de l'impôt sur le revenu à l'égard du crédit d'impôt pour personnes handicapées au moment opportun.
+[8] L'appel est rejeté. L'appelant est peu fortuné. Par conséquent, tout appel fondé sur des circonstances semblables qu'il interjettera dorénavant devrait être présenté sans qu'il lui soit nécessaire de payer les frais judiciaires.
+Signé à Saskatoon, Canada, ce 19e jour de décembre 2003.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 15e jour d'avril 2004.
+Nancy Bouchard, traductrice

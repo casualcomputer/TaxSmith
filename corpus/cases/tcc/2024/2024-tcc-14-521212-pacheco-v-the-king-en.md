@@ -1,0 +1,163 @@
+---
+title: "Pacheco v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521212/index.do"
+last_modified: "2024-02-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 14"
+citation2: ""
+neutral_citation: "2024 TCC 14"
+decision_date: "2024-02-01"
+language: "en"
+item_id: "521212"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5664
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-11-02T09:19:00.780000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1d54766cf419107808b836128cbfb92796e1fcc669a476708a640bb194cbac71"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pacheco v. The King
+
+- Citation: 2024 TCC 14
+- Decision date: 2024-02-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5664, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pacheco v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-02-01
+Neutral citation
+2024 TCC 14
+File numbers
+2018-1379(IT)G
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-1379(IT)G
+BETWEEN:
+MARITES PACHECO,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on December 12, 2022, at Calgary, Alberta
+Before: The Honourable Justice Susan Wong
+Appearances:
+Counsel for the Appellant:
+Matthew Clark
+Counsel for the Respondent:
+Daniel Segal
+JUDGMENT
+The appeal from the March 5, 2018 assessment numbered 4850722 and made under the Income Tax Act is dismissed with costs.
+The parties shall have until April 2, 2024 to reach an agreement as to costs, failing which the respondent shall file written submissions by May 15, 2024 and the appellant shall file a written response by June 17, 2024. Any such submissions shall not exceed ten pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received by these dates, then costs shall be awarded to the respondent in accordance with Tariff B.
+Signed at Ottawa, Canada, this 1st day of February 2024.
+“Susan Wong”
+Wong J.
+Citation: 2024 TCC 14
+Date: February 1, 2024
+Docket: 2018-1379(IT)G
+BETWEEN:
+MARITES PACHECO,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+I. Introduction/Overview
+[1] The appellant received in her bank account a series of deposits from her husband at a time when he had an outstanding income tax debt. The Minister of National Revenue assessed her for the non-arm’s length transfer on the basis that those monies should have been paid to the Minister.
+II. Issue
+[2] The issue in this appeal is whether the Minister properly assessed the appellant under section 160 of the Income Tax Act for $82,055.08 received by her from her husband between January 6, 2014 and April 29, 2015 (the “Transfer Period”).
+[3] At the commencement of hearing, the appellant’s counsel advised that they continue to dispute $47,750 of the transfers but would concede the remainder, i.e. $34,305.08.
+[4] The appellant says that the $47,750 amount consisted of shareholder loan repayments, so do not meet the section 160 criteria.
+III. Legislative framework
+[5] Subsection 160(1) says that where a person directly or indirectly transfers property to their spouse (or another non-arm’s length person) for inadequate consideration, they are jointly and severally liable for the lesser of: (i) the fair market value of the property, minus the consideration, and (ii) the transferor’s tax liability up to and including the year of transfer. The transfer may be made by means of a trust or “by any other means whatever”. [1]
+[6] The provision was designed to prevent a tax debtor from avoiding tax collection by transferring property to a non-arm’s length person without sufficient consideration.[2] It also applies regardless of whether either person was aware of any tax liability at the time of transfer.[3]
+IV. Factual background
+[7] The parties filed a partial agreed statement of facts. The appellant did not attend the hearing and her husband Emil Remtulla testified on both their behalves.
+[8] The appellant is the sole shareholder of Chrisalex Corporation. Mr. Remtulla testified that she provided bookkeeping services for Chrisalex’s clients; Chrisalex in turn paid her management fees which he believed to be about $43,500 in each of 2013 and 2014.
+[9] Mr. Remtulla is an accountant by profession and stated that he handled Chrisalex’s banking and prepared its financial statements as well as both the corporation’s and the appellant’s tax returns. He explained that Chrisalex remunerated the appellant by way of applying the management fees to her shareholder loan account and she would draw from that account as needed. He acknowledged that there was no written agreement evidencing this arrangement between Chrisalex and the appellant.
+[10] From about January 2013 to May 2014, Chrisalex issued ten cheques totalling $47,750 payable to Mr. Remtulla. Copies of two cancelled Chrisalex cheques from March and April 2014 show Mr. Remtulla as the payee and the appellant signing on behalf of the corporation.[4] Copies of ten cheque stubs completed by Mr. Remtulla were tendered as evidence of the ten Chrisalex cheques.[5] The stubs do not have Chrisalex’s name or account number on them but the numbers on two of the stubs match the two cancelled cheques. Mr. Remtulla explained that the remaining records with respect to these cheques were destroyed by several floods in the basement storage area of their building.
+[11] The stubs show that the cheques ranged in denomination from $300 to $13,900.[6] Mr. Remtulla stated that these cheques were loans from the appellant to him by way of her shareholder loan account, i.e. she drew down from the Chrisalex management fees in her shareholder loan account to in turn loan the monies to Mr. Remtulla by way of the corporate cheques. He testified that he used the funds to pay expenses for which the appellant was responsible such as condominium fees, mortgage payments, and property taxes. No evidence was tendered to shed further light on the nature of the expenses.
+[12] He stated that he then repaid the loans in full by depositing funds into her Royal Bank account[7] during the Transfer Period. He explained that with six to eight expense transactions per month, it was impractical to create a promissory note for each loan. He stated that he and the appellant had been married for 30 years so they trusted each other to honour their respective obligations without the need for written agreements.
+[13] It was agreed by the parties that during the Transfer Period, Mr. Remtulla’s outstanding tax liability exceeded $82,050.[8]
+V. Analysis and discussion
+[14] Four criteria[9] must be met in order to apply subsection 160(1):
+a. The transferor must be liable to pay tax under the Act at the time of the transfer;
+b. There must be a transfer of property;
+c. The transferee must be a person with whom the transferor was not dealing at arm’s length or to an otherwise designated transferee; and
+d. The fair market value of the property transferred must exceed the fair market value of the consideration given by the transferee for the property.
+[15] It is the fourth criterion that is in issue here.
+[16] Based on the available evidence, I accept that the ten Chrisalex cheques totalling $47,750 were issued and made payable to Mr. Remtulla. I also accept that during the Transfer Period, he made deposits to the appellant’s bank account which were connected or related to these cheques. However, I am unable to conclude from Mr. Remtulla’s oral testimony and the limited documentary evidence that the cheques were loans to him from the appellant, and that his deposits to her bank account were in turn repayments to her.
+[17] The arrangement involving the appellant’s management fees being applied to her shareholder loan account is plausible, as she is the sole shareholder of Chrisalex. However, there is a distinct lack of documentary evidence to support the appellant’s assertion that the deposits to her bank account were loan repayments from Mr. Remtulla.
+[18] The contention that the appellant directed her corporation to loan monies to her husband to pay her expenses rather than paying them herself or directing her corporation to pay them, is sufficiently atypical that reliable documentary evidence becomes all the more important.
+[19] Without documentary evidence, it would have been helpful to hear the appellant testify on her own behalf as to the arrangement rather than to hear only Mr. Remtulla’s account. Mr. Remtulla appeared to handle most of Chrisalex’s and the appellant’s financial affairs, but it would have increased the plausibility of the arrangement to hear the appellant’s understanding of it in her own words. I draw an adverse inference from her absence that her testimony would not likely have been helpful to the appellant’s case.
+VI. Conclusion
+[20] The appeal is dismissed with costs.
+[21] The parties shall have until April 2, 2024 to reach an agreement as to costs, failing which the respondent shall file written submissions by May 15, 2024 and the appellant shall file a written response by June 17, 2024. Any such submissions shall not exceed ten pages in length. If the parties do not advise the Court that they
+have reached an agreement and no submissions are received by these dates, then costs shall be awarded to the respondent in accordance with Tariff B.
+Signed at Ottawa, Canada, this 1st day of February 2024.
+“Susan Wong”
+Wong J.
+CITATION:
+2024 TCC 14
+COURT FILE NO.:
+2018-1379(IT)G
+STYLE OF CAUSE:
+MARITES PACHECO AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+December 12, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+February 1, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Matthew Clark
+Counsel for the Respondent:
+Daniel Segal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Matthew Clark
+Firm:
+Clark Tax Law Calgary, Alberta
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Subsection 160(1), Income Tax Act
+[2] Canada v. 594710 British Columbia Ltd, 2018 FCA 166 at paragraph 3; Eyeball Networks Inc v. Canada, 2021 FCA 17 at paragraphs 44 and 60
+[3] Eyeball Networks Inc v. Canada, 2021 FCA 17 at paragraph 2; Canada v. 9101-2310 Québec Inc, 2013 FCA 241 at paragraph 60
+[4] Exhibit A-3
+[5] Exhibit A-2
+[6] Exhibits A-2 and R-1
+[7] Partial agreed statement of facts, paragraphs 4 and 5
+[8] Partial agreed statement of facts, paragraph 7
+[9] Eyeball Networks Inc v. Canada, 2021 FCA 17 at paragraph 44; Canada v. Livingston, 2008 FCA 89 at paragraph 17

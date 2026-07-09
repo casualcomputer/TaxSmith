@@ -1,0 +1,270 @@
+Title: Rosen v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521385/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-6-521385-rosen-v-the-king.md
+Document type: case_law
+Last modified: 2025-01-15
+
+# Rosen v. The King
+
+- Citation: 2025 TCC 6
+- Decision date: 2025-01-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6013, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rosen v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-01-15
+Neutral citation
+2025 TCC 6
+File numbers
+2022-604(IT)I
+Judges and Taxing Officers
+Michael U. Ezri
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2022-604(IT)I
+BETWEEN:
+LEWIS ROSEN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on November 6, 2024, at Montreal, Quebec
+Before: The Honourable Justice Michael U. Ezri.
+Appearances:
+Agent for the Appellant:
+Richard Venor
+Counsel for the Respondent:
+Anna Kirk
+JUDGMENT
+The appeal of the assessment of the appellant’s 2013 taxation year is dismissed without costs.
+Signed at Toronto, Canada, this 15th day of January 2025.
+“Michael Ezri”
+Ezri J.
+Citation: 2025 TCC 6
+Date: 20250115
+Docket: 2022-604(IT)I
+BETWEEN:
+LEWIS ROSEN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Ezri J.
+I. OVERVIEW [1] Mr. Rosen was a commissioned sales person for part of 2012 and all of 2013. In 2012, he spent money to pay for promotional expenses but he had insufficient commission income in 2012 against which to deduct the money spent, so he deducted the expenses in 2013. Mr. Rosen now invokes a bilingual statutory interpretation argument to explain that while he spent money on the expenses in 2012, he expended the amounts in issue in 2013. Despite the arguments presented, there is no difference between the English and French legislative texts. The appellant’s arguments obscure the real issue: Does section 8 of the Income Tax Act permit an employee to compute income using a method other than the cash method? It does not and so this appeal must be dismissed.
+II. FACTS [2] Mr. Rosen worked as an independent contractor for a large institutional investor until the end of September 2012 when he left to work as a commissioned sales representative and investment advisor for a company with a broader range of investment products.
+[3] Mr. Rosen incurred not less than $59,514 in employment expenses over the last three months of 2012, in the course of his employment with his new firm. There is no dispute with respect to the quantum of those expenses, but their make-up was not established through the evidence.
+[4] Mr. Rosen received less than $2000 in salary from his new firm in 2012 and no commission income.
+[5] Commissioned sales representatives are entitled under paragraph 8(1)(f) of the Income Tax Act (the “Act”) to deduct, in computing income, amounts expended in the course of their employment. However, they are limited to deducting amounts expended against the commission income earned. Since Mr. Rosen had no such income in 2012, he claimed no deduction for that year.
+[6] In 2013, Mr. Rosen had commission income that far exceeded the $59,514 in expenses that he had incurred in 2012 and so he claimed a deduction of the $59,514 incurred in 2012 from that 2013 income.
+[7] The Minister of National Revenue (the “Minister”) reassessed Mr. Rosen’s 2012 and 2013 years. For 2012, the Minister allowed $22,132 of the expenses claimed under other provisions of section 8. For 2013, the Minister disallowed the balance of the $59,514 in expenses on the basis that they were incurred in 2012 and could not be claimed in 2013.
+[8] At the hearing, the agent for the appellant conceded that, if this appeal is allowed, only $37,382 remains to be deducted against Mr. Rosen’s 2013 commission income.[1]
+A. The Evidence Problem [9] The appellant’s argument turns on the idea that the expenses were “pre-paid expenses” that were first incurred in 2012 but used up in 2013. The problem is that no one told me exactly of what those expenses were comprised. I heard passing references to hockey tickets, meals, and taxis, but the appellant vigorously resisted the suggestion that he acquired for example, pencils or office supplies. It is not really acceptable for a party to insist that they purchased something in 2012 and consumed it in 2013, while not providing evidence as to what exactly was purchased in one year but not consumed until the following year. The gap in the evidence could be sufficient to dismiss the appeal for this reason alone.
+[10] However, since I am dismissing the appeal based on the arguments that I have heard, I prefer to leave open the question of what, if anything, was acquired in 2012 and still available to be consumed by the appellant in 2013. If I had allowed the appeal, I would have remitted the matter to the Minister for reassessment to allow, in 2013, a deduction only in respect of items acquired by the appellant in 2012, and not either given away before the end of 2012 to clients (e.g. hockey tickets), or completely consumed in 2012 (e.g. meals, or taxis). Any such deduction would also have excluded amounts included in the sum of $22,132 allowed as deductions in 2012.
+III. ISSUE [11] The only issue is whether paragraph 8(1)(f) of the Act when read together with the definition of “amount” in s. 248 of the Act permits the appellant to deduct, in 2013 the promotional expenses paid for in 2012. The appellant relies in particular on the French version of the following phrase found in paragraph 8(1)(f):
+amounts expended by the taxpayer in the year
+les sommes qu’il a dépensées au cours de l’année
+[12] The appellant argues that:
+In English the reference to, “amounts expended” can be read as a reference to money spent by the taxpayer in the year;
+In French however the word, « dépensées » can have an expanded meaning that goes beyond merely spending to encompass, consuming or using up;
+The French word « sommes » is a defined term in the Act and means money or rights or things expressed in amounts of money; and so
+The taxpayer can deduct in 2013 the value expressed in money of any rights or things that he consumed or used up in 2013 even if the rights or things were paid for in 2012.
+[13] I find that:
+The English and French texts of the relevant provisions of the Act have the same meaning. This is not a case that turns on a difference in linguistic expression; and
+Framing the case as one that turns on a bilingual analysis obscures the more fundamental issue of whether an employed taxpayer is obliged to use cash accounting when taking deductions under s. 8. He is so obliged, and he cannot recognize an expense other than in the year in which he paid for that expense.
+IV. ANALYSIS A. The Statutory Scheme [14] In computing income for a taxation year, a commissioned salesperson may deduct amounts expended in the year to earn the commission income but only up to the amount of commission income received in the year and no more. The key legislative provisions are these:
+8(1) In computing a taxpayer’s income for a taxation year
+from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto
+8(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+…
+…
+(f) where the taxpayer was employed in the year in connection with the selling of property or negotiating of contracts for the taxpayer’s employer, and
+(f) lorsque le contribuable a été, au cours de l’année, employé pour remplir des fonctions liées à la vente de biens ou à la négociation de contrats pour son employeur, et lorsque, à la fois :
+(i) …
+(i) …
+(ii) …
+(ii) …
+(iii) was remunerated in whole or part by commissions….
+(iii) sa rémunération consistait en tout ou en partie en commissions …,
+(iv) was not in receipt of an allowance for travel expenses in respect of the taxation year that was, by virtue of subparagraph 6(1)(b)(v), not included in computing the taxpayer’s income,
+(iv) il ne recevait pas, relativement à l’année d’imposition, une allocation pour frais de déplacement qui, en vertu du sous-alinéa 6(1)b)(v), n’était pas incluse dans le calcul de son revenu,
+amounts expended by the taxpayer in the year for the purpose of earning the income from the employment (not exceeding the commissions or other similar amounts referred to in subparagraph 8(1)(f)(iii) and received by the taxpayer in the year) to the extent that those amounts were not
+les sommes qu’il a dépensées au cours de l’année pour gagner le revenu provenant de son emploi (jusqu’à concurrence des commissions ou autres rétributions semblables fixées de la manière prévue au sous-alinéa (iii) et reçues par lui au cours de l’année) dans la mesure où ces sommes n’étaient pas:
+(v) outlays, losses or replacements of capital or payments on account of capital, except as described in paragraph 8(1)(j),
+(v) des dépenses, des pertes ou des remplacements de capital ou des paiements au titre du capital, exception faite du cas prévu à l’alinéa j),
+(vi) …
+(vi) …
+(vii) ...
+(vii) ...
+B. Applicable Principles [15] Both parties referenced the requirement that I conduct a textual, contextual and purposive (TCP) analysis of the provisions, sometimes known as the “modern principle”[2]. I would add the following points:
+decisions that, “backslide” away from fully applying the TCP analysis where the text of a provision seems clear;[3]
+The TCP analysis is used to reveal ambiguities and to resolve ambiguities in legislation,[4] not to create unexpressed exceptions to clear language;[5] and
+An ambiguity exists where a text can reasonably support more than one meaning having regard to the entire context of a provision;[6]
+Tax statutes are dominated by explicit textual language that dictate specific results. It is therefore often the case that the text plays the predominant role in the statutory interpretation exercise.[7]
+[16] Counsel for the Respondent also reminded me of the following principles when considering the English and French texts of a legislative provision:
+The English and French texts of legislations are not mere translations of one or the other. Each is an authoritative text of the law and neither text is subordinate to the other; and
+The meaning of the legislative text is the shared meaning of the English and French texts.
+C. Text of the Legislation [17] Subsection 8(1) provides that the taxpayer may deduct the following, “amounts” in computing income for a taxation year. It specifies that the deduction is part of the computation of income from an office or employment.
+[18] The word, “deduct” has a very arithmetical meaning. Webster’s Online dictionary states that deduct is a verb that means “to take away (an amount) from a total: subtract”.[8] The Oxford English Dictionary similarly states that deduct means, “To take away or subtract from a sum or amount”.[9] The French text « Sont Déductibles » has the same meaning, « Que l’on peut déduire (d’un revenue, d’un bénéfice). Frais déductibles. »[10]
+[19] So, a taxpayer can deduct i.e. mechanically and arithmetically subtract, certain amounts in computing employment income under the opening words of subsection 8(1). Paragraph 8(1)(f) repeats the word “amount” in permitting a deduction of certain “amounts expended by the taxpayer in the year”.
+(1) “Amounts Expended/sommes qu’il a dépensées” [20] The word ‘amount’ is defined in s. 248 of the Act as follows:
+amount means money, rights or things expressed in terms of the amount of money or the value in terms of money of the right or thing…
+montant argent, droit ou chose exprimés sous forme d’un montant d’argent, ou valeur du droit ou de la chose exprimée en argent.
+…
+somme A le même sens que montant (amount).
+[21] Money need not be actual cash. A payment with airline points can constitute an amount[11], as can a scholarship.[12]
+[22] “Rights or things” has been broadly defined to include such property as accounts receivable[13] and cattle.[14]
+[23] The appellant, in computing his 2012 and 2013 income, can therefore deduct from his income certain amounts, which are specified in subsection 8(1). Those amounts must be money or the monetary value of rights or things. Paragraph 8(1)(f) stipulates that the amounts deducted cannot exceed the commission income received in the year.
+[24] In 2012, we know that the taxpayer expended $59,514 and earned commission income of nil. He can therefore deduct nothing in 2012 even though he expended substantial sums of money in the year.
+[25] The French text produces the same result. The taxpayer can deduct, « les sommes qu’il a dépensées au course de l’année » which are the amounts that he spent or expended in the year 2012, against his commission income, but since the latter amount is nil, there is no deduction to be taken.
+[26] We turn then to 2013 which is the tax year in dispute. Now the appellant has the opposite problem. He has earned a great deal of commission income in 2013 but he did not spent the $59,514 in issue in 2013; he spent that amount in 2012. He has spent nothing that can be deducted from his 2013 commission income.
+[27] The appellant argues that while he spent the money i.e. the cash in 2012, he did not expend or use up the rights or things acquired with the money until 2013. He argues that the word, « dépensées » in paragraph 8(1)(f) (« les sommes qu’il a dépensées ») is not limited to “spend” as in, ‘to spend money’. It can also mean to “use” or to “use up”.[15] So, paragraph 8(1)(f) permits the deduction of amounts of money spent in a year, but it also permits the deduction of amounts expressed in money or, ‘rights or things’ consumed in a year. The value in money of anything purchased in 2012 but consumed in 2013 can be therefore deducted in 2013.
+[28] The respondent cited to this Court’s decision in Williams for the proposition that, “expended…in a revenue context means primarily money expenditure and secondly expenditure in money’s worth, something which diminishes the total assets of the person making the expenditure”.[16]
+[29] The appellant did not address the scope of the English word, “expended” in the phrase, “amounts expended”.
+[30] The English word “expended” means spent, but it too can also mean ‘used’ or ‘used up’. The Merriam-Webster dictionary defines “expended” to mean:
+1. to pay out : spend the social services upon which public revenue is expended
+- J. A. Hobson
+2. to make use of for a specific purpose: utilize projects on which they expended great energy
+also: use up.[17]
+[31] The appellant’s case is premised on some sort of a distinction between the French and English versions of paragraph 8(1)(f), however there is no distinction to be found. Both the words, “expended” and « dépensées » can mean, “spent”. They can also both connote, consumed or used up. This exposes the basic question: does paragraph 8(1)(f) permit taxpayers to choose when to deduct outlays?
+D. The Real issue is Choice [32] Choice is the real issue under appeal. The appellant’s agent fairly acknowledged that his argument seems to give a taxpayer a choice to either claim the cash paid for the expense immediately or defer the claim until the right or thing was used up or consumed in a later year. When asked whether an outlay could be deferred for more than one tax year, the appellant’s agent suggested that the required link between the outlay and the source of income might be too attenuated to permit a carry-over to a second subsequent tax year, a response that I find debatable at best.
+[33] Can the appellant pay an expense in one year but choose to defer claiming the expense until the year in which the rights and things that were purchased, are consumed or used up? Nothing in paragraph 8(1)(f) states that a taxpayer can choose to defer outlays in this way. Nor does a contextual and purposive analysis required under the modern principles of statutory interpretation support that interpretation of the provision.
+E. Context is not supportive of extended meaning. [34] A review of the context in which paragraph 8(1)(f) is found shows that where Parliament wants to offer taxpayers a range of options for claiming employment deductions, it does so expressly.
+(1) The 8(1)(f) deduction is restrictive
+[35] Paragraph 8(1)(f) may appear permissive in that it allows a taxpayer who has earned employment income to deduct certain amounts expended, but this language somewhat overlaps the opening words of subsection 8(1) which already allows the taxpayer to deduct amounts applicable to employment income. Paragraph 8(1)(f) specifies and limits what may be deducted and when the deduction may be taken. The basic limits in paragraph (f) are that the taxpayer must be:
+a. employed selling property or negotiating contacts, and required to pay their own expenses;
+b. ordinarily required to work away from the employer’s place of business; and
+c. paid in whole or in part by commission and not receive an allowance.
+[36] Where these conditions are met, the amounts expended by the taxpayer to earn income are deductible, but only up to and including the amounts of commissions received by the taxpayer in the year. A taxpayer who earns $100 in commission in a taxation year income can deduct no more than $100 in related expenses in that year.
+(2) Parliament expressly provides for exceptions to 8(1)(f) and to the prohibition on carry-overs.
+[37] Where Parliament wants to allow expenses over and above those set out in paragraph 8(1)(f), it so provides. For example, a taxpayer can choose to claim motor vehicle expenses under either paragraph 8(1)(h.1) or (f).
+[38] Where Parliament wants to allow expenses to be claimed in years other than the years in which they were incurred, it also so provides. Subsection 8(13) of the Act imposes restrictions on home office expenses that may otherwise be claimed under section 8. However, it permits amounts that relate to home office expenses, to be carried over to a second taxation year where it cannot be utilized in the year in which it was incurred. The provision illustrates the point that where Parliament wants to allow expenses to carry-over, it says so expressly. Parliament has not provided carry-over treatment to expenses falling into paragraph 8(1)(f).
+[39] Similarly, paragraph 8(1)(q) permits employed artists to claim expenses arising in years other than the one in which income is earned. Unlike in subsection 8(13) which limits the carry-over only to expenses incurred “in the immediately preceding year”, paragraph 8(1)(q) allows a broader carry-over of expenses from “a preceding tax year”.
+[40] By contrast, nothing in paragraph 8(1)(f) permits the deduction of expenses from the immediately preceding year or from a year before that.
+(3) Parliament uses different words to mean the same thing in s. 8
+[41] Although paragraph 8(1)(f) uses the words ‘expended’ or ‘dépensées’, other paragraphs of subsection 8(1) do not do so. For example, paragraph (b) permits the deduction of, “amounts paid” (sommes payées) for certain legal expenses. Paragraph (d) permits teachers to deduct amounts, “paid” (payé). Paragraph (e) permits the deduction to railway employees of, “amounts disbursed” (« les sommes que le contribuable a dépensées ») and paragraph (g) permits transport employees to deduct, “amounts so disbursed” (“ainsi déboursées”). This raises a question as to whether Parliament’s use of ‘expended’ or ‘dépensées’ carries a special significance.
+[42] Focusing on paragraphs 8(1)(b) and (d), the use of paid/payée seems to more clearly limit the deduction to the amounts actually paid rather than to rights or things used up. But there is no obvious reason why Parliament would want to limit legal expenses to those paid. Nor is it obvious why Parliament would want to limit legal expenses or teachers expenses to those paid, while allowing a broader treatment for sales person expenses.
+[43] Rather, the variation in the expressions found in subsection 8(1) seem to invoke both a rule of statutory interpretation and an exception to it.
+[44] The rule of consistent expression presumes that where Parliament wants different provisions to mean the same thing, it uses the same words. By implication where Parliament uses different words, it may be presumed that Parliament intended to say something different.[18] Where “paid” is used, as in the case of legal expenses, or teacher expenses, one may presume that Parliament intended a narrow meaning, but where “expended” is used in paragraph (f), perhaps Parliament intended a broader meaning such as the one for which the appellant argues.
+[45] However, the presumption in favour of consistent expression is not absolute. Ruth Sullivan’s text on statutory interpretation instructs us that the presumption does not reflect the realities of legislative drafting, including compressed time lines for review of legislation and the abandonment of general statute revision exercises. She notes in particular the problems of consistency in legislation that is amended year after year and supports her concern by reference to UK jurisprudence that refused to give different meanings to different words in the British Income Tax Act. She also notes that the presumption of consistent expression can conflict with the contextual principles of statutory interpretation.[19]
+[46] Paragraph 8(1)(f) typifies the concerns expressed by Professor Sullivan. The provision traces its origins back to the Income War Tax Act (“IWTA”). Section 6 of the 1927 Revised Statute prohibited a range of deductions familiar to many tax practitioners including amounts not laid out to earn income, outlays on capital account, etc.[20] In 1948, subsections 6(6) and 6(7) of the IWTA were enacted. Subsection 6(6) was a general prohibition on deductions by employees except for those employed in the transportation business. Subsection 6(7) was explicitly enacted as a further exception to the ban on deducting employment expenses for persons selling property and negotiating contracts. It introduced the now disputed words, “… there may be deducted…amounts expended by him in the year…not exceeding the commissions or other similar amounts…received by him in the year”.[21]
+[47] In 1949, Parliament excluded from income, allowances for travelling expenses of employees selling property or negotiating contracts for an employer[22] and made a corresponding amendment to the salesperson expense deduction to preclude the deduction where tax-free travel allowances were received.[23] Those provisions were carried over into the 1952 Act.[24]At that time:
+1. Employment expenses were not separated out into separate sections from business expenses as they are now;[25] and
+2. There was no deduction for things like legal fees to recover salary or home office expenses. These provisions were added later.
+[48] In 1972 when the current Act was enacted, there were only 9 subsections in section 8. Today, section 8 comprises 15 detailed subsections and numerous paragraphs to subsection 8(1). The application of the presumption of consistent expression is not easily applied to section 8 of the Act, if it applies at all. The better view is that nothing turns on whether Parliament used “paid” or “expended” or « dépensées » or « payé » in section 8. Contextually, they all mean the same thing: the payment, in the year, of the expense.
+(4) “Received” is Used in Corresponding Sections of ITA
+[49] Finally, and to transition from a contextual analysis to a purposive analysis, sections 5 and 6 of the Act include in income only amounts, “received” in a tax year and as noted paragraph 8(1)(f) is integrated with s. 6 of the Act. Section 6 includes in income various forms of payments and allowances “received” in a tax year related to employment. However, subparagraph 6(1)(b)(v) excludes from income reasonable travel allowances “received…in the year”. Subparagraph 8(1)(f)(iv) correspondingly limits deductions of expenses for which travel allowances that are tax free under subparagraph 6(1)(b)(v) were received.
+[50] The appellant’s approach to “expended” could create a potential conflict between the above-noted provisions. Suppose that a taxpayer books and pays for a hotel room in 2012 to use at a 2013 business meeting. A tax-free allowance is paid in 2012 but the cost of the room exceeds that tax-free allowance. The taxpayer cannot claim the balance in 2012 because subparagraph 8(1)(f)(iv) precludes claiming travel expenses where a tax-free allowance was paid under subparagraph 6(1)(b)(v). However, the taxpayer could seek to claim the balance in 2013 on the basis that:
+1. Per the argument in this appeal, the right to use the room was consumed or used up in 2013; and
+2. The 2012 allowance was not received in 2013 so it is not included in 2013 income under section 6 and so does not need to be relieved from being so included by subparagraph 6(1)(b)(v). Since the 2012 allowance is not excluded from 2013 income by virtue of subparagraph 6(1)(b)(v), then subparagraph 8(1)(f)(iv) which precludes deductions only where subparagraph 6(1)(b)(v), is engaged, does not get triggered either.
+[51] This type of problem invites a consideration of the purpose of sections 5, 6, and 8 of the Act.
+F. Purpose of Sections 5, 6, and 8 is to compute employment income on a cash basis [52] Sections 5 and 6 of the Act include amounts in income (and create exceptions) on a cash basis. The purpose of section 8 is to permit deductions of outlays on a cash basis consistent with sections 5 and 6. This is done for administrative convenience and to protect the tax base.
+[53] Business income is computed so as to allow all deductions not otherwise prohibited by the Act. By contrast, subsection 8(2) drives home the limited availability of employment related deductions by presumptively prohibiting all deductions:[26]
+8(2) Except as permitted by this section, no deductions shall be made in computing a taxpayer’s income for a taxation year from an office or employment.
+8(2) Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi.
+The Textbooks
+[54] Professor Li and Hogg’s textbook on Canadian income tax law explains that income under section 5, and taxable benefits under section 6, are included in income when received or enjoyed and that expenses may be deducted when they are paid. The authors write that:
+The effect of the word “received” and “paid” is to require employment income be reported for tax purposes on a “cash basis”.[27]
+[55] Professor Krishna’s text is to the same effect. He explains in detail that cash accounting presents a less accurate picture of profit than accrual accounting but goes on to say that:
+A notable exception is found in the reporting of employment income, which individuals must report on a cash basis. This requirement results from a balancing of the enhanced administrative convenience to the employee, employer, and the Canada Revenue Agency,[28] and the minimal distortion that occurs in measuring employment income on a cash basis.[29]
+[56] Professor Krishna explains that cash accounting is economically less burdensome for employees because the tax follows actual cash flows.[30] He adds that Parliament has chosen to tightly control access to tax deductions for employees in order to protect the government’s revenue base and in the interests of administrative convenience.[31]
+[57] In argument, the agent for the appellant suggested that English speaking academics might not have picked up on the special nature of the word «dépensées» when considering the question of whether deductions can be taken on other than a cash basis. Professor Annick Provencher’s text however, is similar to the English texts. She contrasts the tax treatment of employees and independent contractors as follows:
+Employé (revenue d’emploi)
+Travailleur autonome (revenue d’entreprise)
+…L’imposition se fait donc sur un base de caisse, c’est-à-dire que le revenu est imposé dans l’année où il est reçu peu importe qu’il soit ou non gagné dans l’année.
+…L’imposition se fait donc sur une basse d’exercise, c’est-à-dire que le revenu est imposé dans l’année où il est gagné peu importe qu’il soit ou non reçu dans l’année.[32]
+The Cases
+[58] The Courts are clear that the Act offers little in the way of choice when it comes to using cash or accrual methods for computing income and expenses.
+[59] At a high level, the Supreme Court in Gifford recognized, in the context of a paragraph 8(1)(f) appeal of a capital outlay that:
+[13] “When the source of income is a business or property as opposed to employment, the scope of available deductions is much broader because s. 9 states that the taxpayer’s income will be the profit from the business or property. In calculating the profit from a business or property a taxpayer can make deductions in accordance with generally accepted accounting principles…”[33]
+[60] The appellant before this Court in Reilly was not an employee but he wanted to compute income on a cash basis. This Court considered paragraph 8(1)(f) and wrote:
+[7] Paragraph (1)(f) …refers to amounts expended. Therefore, employees would use the cash basis for accounting to compute their income from employment. However, the appellant was not ‘employed…’ and therefore paragraph 8(1)(f) of the Act does not apply…”[34]
+[61] This Court in Reilly found that very few taxpayers have the option of choosing the basis upon which income is to be computed. Only farmers and fishers can choose to use a cash method. Employees must use a cash method and all other taxpayers use accrual accounting.[35] This Court went on to consider the jurisprudence, notably Canderel, that has developed on the requirement to compute business income on an accrual basis. Mr. Rosen in this appeal relied heavily on Canderel.
+[62] The Supreme Court in Canderel held that the basic principle for computing profits from a business or property are that it be done in accordance with well- accepted business principles subject to any particular provisions of the Act. There is no absolute statutory requirement to match revenues with expenses, to distinguish “running expenses” from other types of expenses, or to use generally accepted accounting principles, which principles often serve different purposes than those in the Act.[36] Subject to a specific legislative provision, the Minister cannot insist on the use of one method in preference to another unless the method adopted by the taxpayer fails to yield an accurate picture of income for the year.[37] So, the taxpayer in Canderel was permitted to deduct all tenant inducements payments in the year that they were paid, rather than amortizing them over the life of the leases to which they related. That treatment best reflected the true picture of the appellant’s financial position in the year having regard to the business purposes for which the appellant opted to offer substantial tenant inducement payments in the year.
+[63] However, Canderel was decided under section 9 of the Act, which, as noted, does not presumptively limit the methods by which income is computed. Section 9 does not apply to employment income, and as already indicated, Parliament has opted to limit how employment income and expenses are computed, even if that produces a sightly less accurate picture of income in order to protect its tax base and achieve a less administratively cumbersome regime for the computation of employment income. Canderel is therefore of no assistance to the appellant in this appeal.
+[64] Returning again to Williams, the Tax Court there accepted that the appellant had incurred expenses where he did not directly pay the expense in the year but simply borrowed from his employer to pay the expense. The Court responding to concerns raised by the Crown about attenuating the requirement to recognize expenses only when paid, held that:
+It is the timing of the payment of the expenses that is critical. The employment expenses were paid in the pertinent year; there is no accrual.[38]
+[65] The academic commentary and the case law are clear. Taxpayers have limited options when it comes to choosing whether to compute income on a cash or accrual basis. Employees must compute income and expenses on a cash basis.
+V. CONCLUSION [66] The appellant invites this Court to take a word, « dépensées », strip it of its context and cherry pick a meaning from that word, in order to drive a statutory interpretation exercise. That approach runs directly contrary to the teachings of the Supreme Court that require me to interpret paragraph 8(1)(f) of the Act based on its text, context and purpose.
+[67] The words in paragraph 8(1)(f), “amounts expended («sommes…dépensées ») …not exceeding the commissions or other similar amounts referred to in subparagraph 8(1)(f)(iii) and received by the taxpayer in the year”, limit deductions to expenses actually paid in the particular year and capped at the commission income received in that same year.
+[68] The legislation does not confer on a taxpayer the choice to compute income on a non-cash basis. To find otherwise would frustrate the limit in paragraph 8(1)(f) that the deduction not exceed the commission income “received” in the year. The text, context and purpose of the provision all support that conclusion.
+[69] This appeal must therefore be dismissed without costs.
+Signed at Toronto, Canada, this 15th day of January 2025.
+“Michael Ezri”
+Ezri J.
+CITATION:
+2025 TCC 6
+COURT FILE NO.:
+2022-604(IT)I
+STYLE OF CAUSE:
+LEWIS ROSEN v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Montréal, Quebec
+DATES OF HEARING:
+November 6, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Michael U. Ezri
+DATE OF JUDGMENT:
+January 15, 2025
+APPEARANCES:
+Agent for the Appellant:
+Richard Venor
+Counsel for the Respondent:
+Anna Kirk
+COUNSEL OF RECORD:
+Agent for the Appellant:
+Name:
+Richard Venor
+Firm:
+Richard Venor & Co.
+For the Respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] $37,382 being the difference between the $59,514 claimed in 2013 and the $22,132 allowed in 2012.
+[2] Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65, paras 117-118.
+[3] R. Sullivan, The Construction of Statutes, 7th Ed. (Toronto: LexisNexis Canada, 2022), § 2.04[4].
+[4] Canada Trustco v R, 2005 SCC 44, para 10 and 47.
+[5] Placer Dome v Ontario (Minister of Finance), 2006 SCC 20 para 23.
+[6] Bell ExpressVu Limited Partnership v R, 2002 SCC 42, para 29. Note however that this is the very decision criticized by Sullivan for unduly narrowing the circumstances under which the full panoply of interpretive aids can be invoked.
+[7] Ibid, para 13.
+[8] Merriam-Webster online Dictionary. https://www.merriam-webster.com/dictionary/deduct.
+[9] Oxford English Dictionary online, https://www.oed.com/search/dictionary/?scope=Entries&q=deduct.
+[10] Dictionnaire Le Robert, online, https://dictionnaire.lerobert.com/definition/deductible.
+[11] Johnson v R, 2010 TCC 321, para 26.
+[12] Jones v R, [2002] TCJ No. 338 (TCC), Para 65.
+[13] Tory (Estate of) v R, 73 DTC 5354 (FCA).
+[14] Willis (Estate of) v R, 68 DTC 204 (TAB).
+[15] Definition of dépenser in Dictionnaires Le Robert – Le Grand Robert & Collins, 2022, submitted by appellant.
+[16] Williams v R 2004 TCC 706, para 7.
+[17] Merriam-Webster online Dictionary, https://www.merriam-webster.com/dictionary/expended.
+[18] Sullivan, The Construction of Statutes, supra note 3, §8.04[1] to [3].
+[19] Ibid. [5] at p. 224-225.
+[20] Income War Tax Act, RSC 1927, c. 97 s. 6.
+[21] Rather oddly the provisions were enacted in June 1948 as an amendment adding subsection 6(7) to the Income War Tax Act, SC 1948, c. 53 s. 3(2), but the provision was already enacted in the immediately preceding statute, the Income Tax Act SC 1948 c. 52, ss. 11(7).
+[22] SC 1949, c. 25 ss. 1(1) enacting 5(b)(iv).
+[23] Ibid. s. 4(3) repealing, re-numbering and re-enacting 11(7) as 11(6) of the Act and adding para 11(6)(d).
+[24] Income Tax Act 1948, RSC 1952, c. 148. S. 5(b)(v) for tax free travel allowances of sales persons, and 11(6) for the deduction of sales person expenses.
+[25] Employment expenses are now Subdivision A and business/property income, are now Subdivision B of Division B of Part I of the Act.
+[26] Li et al, Principles of Canadian Income Tax Law, 10th Ed. (Toronto: 2022, Thomson-Reuters), 5.1(a), fn 3.
+[27] Principles of Canadian Income Tax Law, supra, s. 5.3(a), p. 148.
+[28] V. Krishna, Fundamentals of Canadian Income Tax, Vol 1: Personal Tax, 2nd ed. (Toronto: 2019, Thomson- Reuters), ch. 5(VII)(B); and 5(IX)(B)(4) and 6(VII)A.
+[29] Ibid. ch. 6(VII)(A).
+[30] V. Krishna, Fundamentals of Canadian Income Tax, Vol 1: Personal Tax, 2nd ed. (Toronto: 2019, Thomson- Reuters), ch. 6(VII)(A).
+[31] Ibid. c. 6(XXIV)(A) and (B) and XXV.
+[32] A. Provencher, P. Dupuis, Aspects Juridiques de la fiscalité canadienne de particuliers, 5e éd, 2023-2024 (Toronto: Thomson Reuters, 2023), ch. 6, p. 300.
+[33] Gifford v R, 2004 SCC 15, para 13 [emphasis added].
+[34] Reilly v R, 2010 TCC 326, para 7.
+[35] Ibid para 15
+[36] Canderel v R, [1997] 1 SCR 147, paras 34-35.
+[37] Ibid, para 42.
+[38] Williams, supra note 16 para 17.

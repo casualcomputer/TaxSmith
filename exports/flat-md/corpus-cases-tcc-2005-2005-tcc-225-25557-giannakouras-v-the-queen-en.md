@@ -1,0 +1,266 @@
+---
+title: "Giannakouras v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25557/index.do"
+last_modified: "2005-03-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 225"
+citation2: ""
+neutral_citation: "2005 TCC 225"
+decision_date: "2005-03-29"
+language: "en"
+item_id: "25557"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2459
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:53:39.414000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dca43cf4addfa27aaa13bbda6f6b785a47926fba064817fdb37b4ff3fe7dcd8a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Giannakouras v. The Queen
+
+- Citation: 2005 TCC 225
+- Decision date: 2005-03-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2459, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Giannakouras v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-03-29
+Neutral citation
+2005 TCC 225
+File numbers
+2003-1331(IT)G
+Judges and Taxing Officers
+Ronald D. Bell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1331(IT)G
+BETWEEN:
+NICHOLAS GIANNAKOURAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion on costs heard on February 4, 2004 at Ottawa, Canada
+By: The Honourable Justice R.D. Bell
+Appearances:
+Counsel for the Appellant:
+Susan Tataryn and
+Shelley J. Kamin
+Counsel for the Respondent:
+Michael Ezri
+____________________________________________________________________
+ORDER
+Costs in the amount of $5,000 are awarded to the Appellant payable forthwith by the Respondent in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 30th day of March, 2005.
+"R.D. Bell"
+Bell, J.
+Citation: 2005TCC225
+Date: 20050329
+Docket: 2003-1331(IT)G
+BETWEEN:
+NICHOLAS GIANNAKOURAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER RESPECTING COSTS
+Bell, J.
+[1] On July 2, 2003 the Respondent, represented by Michael Ezri ("Ezri") filed a Notice of Motion in the Court asking for:
+1. an Order quashing the appeal of the Appellant with costs;
+2. in the alternative, an Order extending time for the Respondent to file its Reply to the Appellant's Notice of Appeal by 30 days from the date of the Order of the Tax Court of Canada disposing of this motion and extending time for the service of the filed Reply for five days from the date of filing of the Reply;
+3. such further and other relief as the Respondent may request and as may appear just to this Honourable Court.
+[2] The Notice of Motion stated that the grounds for the motion were that the appeal was filed more than 90 days after the Notice of Confirmation of the Appellant's 1989, 1990, 1993 and 1994 taxation years and after the Notice of Reassessment following a Notice of Objection respecting the 1992 taxation year.
+[3] The Respondent attached to the Notice of Appeal the Notice of Motion in question and the written consent of the Appellant to extend time for filing a Reply. The Motion Record included the affidavits of Robert Meehan ("Meehan"), an appeals officer in Canada Customs & Revenue Agency ("CCRA") in Kingston, Ontario, of Elainne Durant ("Durant"), an appeals clerk in the CCRA in Belleville, Ontario, of Chris O'Hara ("O'Hara"), a reassessment officer with CCRA in Summerside, Prince Edward Island, of Rhoda Waite ("Waite"), notice production clerk with CCRA in Summerside, Prince Edward Island and of Michael Case ("Case"), team leader in the material operations section of the CCRA in Summerside, Prince Edward Island. The depositions in these affidavits furnish the following information:
+1. Meehan spoke with Paul Tierney ("Tierney"), an accountant representing the Appellant, and sent correspondence to him indicating the finalization of a review of the Appellant's Notice of Objection and advice that he would "process" same. Meehan said that he received no further information or communication from Tierney.
+2. Meehan then described certain procedure of CCRA.
+3. The final paragraph of his affidavit reads as follows:
+In the course of my employment with the CCRA there have been occasions in which mail sent out by the CCRA in respect of files on which I have worked has not been successfully delivered. Usually in such cases, the mail is returned to the mailroom of the CCRA office that mailed out the documents and from there it is forwarded to me. This procedure applies regardless of whether the mail is sent as regular mail or as registered mail. In the case of this Appellant I never received back any returned or undeliverable mail sent to the Appellant or to his representative.
+4. Durant's affidavit describes the sending of material from the Belleville office to the Newfoundland office to be "processed" and the return of materials to her.
+5. The affidavit of O'Hara referred to processing the manual reassessment in respect of the Appellant's 1992 taxation year.
+6. The affidavit of Waite simply described the procedures she carried out in the Summerside Tax Centre.
+7. The affidavit of Case described procedures in the Summerside Tax Centre. It reads in part as follows:
+3. Upon receipt of mail that it (sic) to be sent registered by the CCRA, the Section prepares a record consisting of the destination address, date of mailing, and registration tracking number of the item to be mailed (the "Record").
+4. Registered mail is then taken by a staff of the Section to the Summerside post office where our Record is initialed by a staff member at Canada Post to acknowledge their receipt of the item for mailing.
+5. It is the policy of the CCRA to preserve the record for one year. At the end of the one year period the Record is shredded on site.
+6. I have conducted a search of the records of the CCRA. The Records of items sent by registered mail for the Month of April, 2002 was destroyed on or around May 5, 2003.
+[4] None of the foregoing affidavits establishes the sending of any relevant documents to the Appellant.
+[5] The APPELLANT'S AFFIDAVITS IN OPPOSITION TO RESPONDENT'S MOTION TO QUASH AND IN SUPPORT OF APPLICATION FOR EXTENSION OF TIME TO APPEAL consists of the affidavits of the Appellant and of Shelley Jean Kamin ("Kamin"). The Appellant's affidavit states that he was the sole shareholder and director of Moroni's Restaurant ("Moroni's"), that he had filed Notices of Objection to reassessments for the 1989, 1990, 1992, 1993 and 1994 taxation years and that his accountant, Tierney, was "in negotiations with the Appeals Officer". The affidavit contains the following paragraphs:
+18. Any regular mail that arrived from the CCRA was always in a brown envelope. I was receiving so many statements and letters from the CCRA in 2001 and 2002 that I could not tell what was going on. They were drowning me in paper. I gave the regular mail unread to Mrs. Tierney, who did the Corporation's payroll on a bi-weekly basis, to pass onto Mr. Tierney.
+19. To the best of my knowledge, no registered mail was sent to me by the CCRA in the 2002 calendar year. I did not receive any registered mail that contained any documents from the CCRA, including, the documents entitled "Notification of Confirmation" or T7WC dated Apriil 18, 2002 which are now shown to me and attached as Exhibits "C" and "D" to this my affidavit.
+20. I never told the CCRA to deal only with Mr. Tierney or to correspond only with him when a decision on my Objection had been made.
+21. A CCRA officer called me on one occasion with questions. I told him that he should ask Mr. Tierney. To the best of my knowledge, I received no other calls from the CCRA to discuss the issues in my Objections or the CCRA's decision to confirm the Objection.
+[6] The Appellant's affidavit continued stating that a call from the CCRA Collections Officer was the first information that he had received that a decision had been made on the Notice of Objection. It then states that on calling Tierney and receiving no reply he retained Kamin as counsel to appeal the reassessment and to "take whatever steps were necessary to pursue the appeal".[1] The Appellant said further in his affidavit that a "Report on Objection" dated January 9, 2002 and another handwritten document dated January 4, 2002, obtained by his counsel under the Privacy Act, suggests that settlement discussions he had been advised of by Tierney in March or April, 2002 had actually happened in December, 2001 and
+... had been closed in January of 2002. I had not been advised of any settlement discussions that occurred in December 2001.
+He then states that he always had the intention to appeal the reassessments, not believing that they were correct.
+[7] Kamin's affidavit stated that she is a lawyer who was retained by the Appellant on December 11, 2002 to determine the status of Notices of Objection filed by his accountant, Tierney. The affidavit continues that she spoke on December 20, 2002 with Meehan apprising him that "it appeared Mr. Giannakouras did not receive the Minister's response to the Notices of Objection."
+[8] Paragraph 7 of her affidavit reads as follows:
+7. I asked Mr. Meehan if he would track down Mr. Giannakouras's receipt of the Minister's Confirmation. I pointed out that, since the Confirmation was sent by registered mail, the CCRA should be able to verify receipt through Canada Post. Mr. Meehan was, at first, reluctant to do this, but I said that if he cannot or will not, Mr. Giannakouras would proceed to Tax Court on the basis that the Confirmation was not received. I also said that, on the other hand, if Mr. Giannakouras did receive the Confirmation, an application to late-file Mr. Giannakouras's Notice of Appeal would have to be made with the Tax Court, and Mr. Giannakouras would have to set out reasonable grounds for the appeal.
+The affidavit continued to state that
+"After some discussion, Meehan said he would "check with Belleville."
+to see if the CCRA's registered mail records established that the Confirmation and the Reassessment were delivered to the Appellant. Her affidavit then states that Meehan left a message on January 2, 2003 stating that he had spoken to the supervisor in Belleville and that they were still having Newfoundland check on the mailing of material to the Appellant. She then states that Meehan left a message on January 7, 2003 saying that Newfoundland was not in a position to prove they mailed the Confirmation and Reassessment or that the Appellant received them.
+[9] She said that she spoke with Meehan by telephone on January 8, 2003 and was told by Meehan that Newfoundland "cannot provide the registration number to verify with Canada Post that the documents were delivered." The affidavit continues with the information that on January 9, 2003 Kamin received, by registered mail from the CCRA, a copy of a Notification of Confirmation respecting the 1989, 1990, 1993 and 1994 taxation years dated April 18, 2002 together with other documents. She said that the cover letter to her was dated January 8, 2003.
+[10] Kamin then stated in her affidavit that she, on January 22, 2003, submitted applications on behalf both of the Appellant and Moroni's[2] for information and documents under thePrivacy Act and the Access to Information Act. Paragraph 20 of the affidavit reads as follows:
+20. None of the documents obtained from the CCRA under the Privacy Act or obtained from any other source included copies of any dated correspondence addressed to Mr. Giannakouras to which the Confirmation or Reassessment had been attached.
+[11] Paragraph 22 of her Affidavit reads:
+22. I filed Mr. Giannakouras's Notice of Appeal with the Tax Court on April 7, 2003. I did not submit an application to extend the time for filing the Notice of Appeal, because Mr. Meehan had stated that the CCRA could not prove the Confirmation and Reassessment had been mailed. It was my view that, under the applicable jurisprudence, since the Minister could not establish that the documents were mailed, an application for late-filing would be ruled a nullity.
+[12] Other paragraphs from the affidavit state:
+34. On June 5, 2003, I received a letter from Michael Ezri, counsel for the Respondent, requesting an extension of time to file the Reply to Mr. Giannakouras's Notice of Appeal. Mr. Ezri's letter stated, among other things, that he had not yet had a chance to review the related file of Moroni's. Given the common issues of fact and law raised by the appeals of Mr. Giannakouras and Moroni's, the Respondent wanted an opportunity to review the Moroni appeal before filing its Reply to Mr. Giannakouras's Notice of Appeal. A copy of Mr. Ezri's letter is appended to this my Affidavit as Exhibit "Q".
+35. Attached to Mr. Ezri's letter was a draft consent by Mr. Giannakouras (the "Consent") to extend the time for the Respondent to file its Reply to Mr. Giannakouras's Notice of Appeal to July 29, 2003.
+36. I telephoned Mr. Ezri on June 5, 2003. I stated that, normally, I grant requests from counsel for the Respondent for additional time to file Replies. However, in this case, I was reluctant to grant Mr. Ezri's request unless he could assure me that the Respondent would not challenge the filing of Mr. Giannakouras's Notice of Appeal. Mr. Ezri said that he could not give me such an assurance at that time. He said that he was still checking as to whether the Confirmation and Reassessment had been mailed. I informed Mr. Ezri that Mr. Meehan had already checked into this and had told me the CCRA could not verify the Confirmation and Reassessment had been mailed. Mr. Ezri replied that he was still looking into this matter.
+37. Mr. Ezri also said that, if the Consent were executed, he would commit to file the Reply to Mr. Giannakouras's Notice of Appeal before the deadline expired for Mr. Giannakouras to apply to the Court to extend the time for filing the Notice of Appeal, should that be necessary.
+38. I subsequently telephoned Mr. Ezri and left a message on his voice-mail. I explained that I needed to receive the Reply in time to file an application to extend the time for filing Mr. Giannakouras's Notice of Appeal, should that be necessary. As a result, consent to extend the time for filing the Respondent's Reply to Mr. Giannakouras's Notice of Appeal would only be made to July 4, 2003. I invited Mr. Ezri to call me if the revised date posed a problem.
+39. I amended the Consent that Mr. Ezri had forwarded, to change the date for filing the Reply from July 29, 2003 to July 4, 2003, executed it and faxed it to Mr. Ezri late in the day on June 5, 2003. Copies of the Consent and the fax cover sheet are appended to this my Affidavit as Appendix "R".
+40. Mr. Ezri left a message on my voice-mail on June 6, 2003. He stated that he received the Consent and my voice-mail message. He said that he understood my reasons for changing the date on the Consent to July 4th and indicated that the change was fine.
+...
+42. I did not receive any further communications from Mr. Ezri until July 2, 2003. On that date, I received by courier the two Notices of Motion that the Respondent filed with the Tax Court to quash the appeals of Mr. Giannakouras and Moroni's.
+[13] On July 25, 2003 the Respondent filed with the Court a Notice of Motion for an Order:
+(1) granting the Respondent leave to examine W. Paul Tierney on oath or on affirmation before the hearing of the Motions to Quash brought by the Respondent in respect of these two appeals for the purpose of having that person's testimony available to be tendered as evidence at the hearing of those two motions;
+(2) requiring Tierney to produce, at his examination, his entire file as it relates the objections of both taxpayers including, but not limited to, all invoices and statements of account prepared by Tierney or his firm, the business plan, loan documents and other related documents referred to in paragraph 22 of the Giannakouras affidavit, and all correspondence from the CCRA that was sent to Tierney or sent to Giannakouras and provided to Tierney;
+(3) permitting the Respondent to treat Tierney as a witness who is adverse in interest to the Respondent and to ask leading questions at his examination;
+(4) that any question put to Tierney for which an objection is raised or any exhibit for which an objection is raised, be answered, or marked, as the case may be and that the admissibility of the answer or exhibit, be reserved to the Judge hearing the Motions to Quash;
+(5) granting costs of this motion;
+(6) providing such further and other relief as the Respondent may request and as may appear just to this Honourable Court.
+The grounds for the motion are that
+1. W. Paul Tierney was the accountant for the Appellants and acted as their representative with respect to the objections that they filed with the Canada Customs and Revenue Agency for the taxation years that are under appeal in these two cases. The CCRA has reason to believe that it sent correspondence, including, notices of Confirmation and Notices of Reassessment to the Appellants and to Mr. Tierney. The Appellant, Nicholas Giannakouras denies receipt of much of this correspondence and allege as a consequence that no such correspondence was sent. The Respondent therefore believes that Mr. Tierney may have relevant evidence to give in respect of these issues.
+2. Mr. Tierney has been unwilling to co-operate with either party to this appeal. No affidavit has been sworn by him in respect of the Motions to Quash, and he has expressly refused to provide information to the Respondent in respect of the Motions to Quash.
+3. The Respondent may, depending on the evidence given by Mr. Tierney, reconsider the necessity of continuing with the Motion to Quash that has been filed in respect of Mr. Giannakouras' appeal to this Court. This would save all parties the time and expense of cross examining the other affiants who have produced affidavits in respect of the Motions to Quash, and it could also save the parties and the Court the time and expense of conducting a hearing of the Motion to Quash in respect of Mr. Giannakouras.
+[14] In a document entitled RESPONDENT'S WRITTEN SUBMISSIONS Ezri described Tierney's reluctance to provide information saying that:
+Tierney has relevant evidence to give in respect of the motions to quash.
+He wrote further that:
+Tierney is likely to have the best evidence as to what discussions, if any, he had with Giannakouras in respect of the objections and what information he provided to Giannakouras with respect to the progress and resolution of those objections.
+He then wrote that Rule 119 of the Tax Court of Canada Rules (General Procedure) ("Rules") permits this Court to grant leave to examine a person out of Court. His words are:
+Although the enumerated factors to be considered by the Court in granting leave do not apply here, the Rule is to be read liberally and paragraph 119(2)(f) provides that the Court shall take into account "any other relevant consideration" in deciding whether or not to grant leave. In this case the other relevant considerations that militate in favour of granting leave are the following:
+(a) Tierney has not co-operated with the parties to the Motions to Quash;
+(b) Depending on Tierney's evidence, the examination of Tierney prior to the hearing of the Motions to Quash and prior to the cross examination of the affiants on the Motions to Quash, could save the parties to this case the time and expense of conducting cross examinations and attending at what could be a complex and protracted motion;
+(c) Tierney's evidence is highly relevant to the determination of the factual issues in dispute. His evidence could provide that not only did the CCRA send the Notices, but also that they were received by him and/or by Giannakouras.
+[15] Respondent's counsel, in his written SUBMISSION ON COSTS, stated that the motion was brought to compel Tierney's evidence
+in the face of Tierney's non-cooperation, ... The Respondent believed that this motion had the potential to shorten proceedings by eliminating the need to cross examine Mr. Giannakouras on his reasons for late filing his appeal.
+[16] Counsel said:
+The parties' positions changed as a result of this motion; Mr. Giannakouras abandoned his assertion that the Minister breached a statutory obligation to send Notices of Reassessment and Confirmation, and agreed to have his appeal quashed.
+[17] The affidavit of Shelley Merrifield, Legal Assistant, Department of Justice, attaches a copy of a letter of July 23, 2003 from Tierney to Ezri reading as follows:
+I have spoken with my legal counsel and have been advised that I not provide you with any information with regard to Mr. Giannakouras' objections.
+However, please be advised that all information I have with regard to this matter has been forwarded to Mr. Giannakouras' counsel, Susan Tataryn, with whom you have had previous correspondence.
+Therefore, I would suggest that you contact her to obtain any information that is relevant in the circumstances.
+[18] On January 23, 2004Associate Chief Justice Bowman issued an Amended Order reading as follows:
+AMENDED ORDER
+Upon reading the Consent to Order to dispose, collectively, of: (i) a motion to quash filed by the respondent on July 2, 2003; (ii) an application for an extension of time filed by the appellant on July 15, 2003; and (iii) a motion to compel the attendance of W. Paul Tierney, for an examination out of court, filed on July 25, 2003.
+It is ordered that:
+1) The Respondent's motion to quash is granted in part and the appeal of the Appellant in respect of his 1989, 1990, 1992, 1993 and 1994 taxation years, which was instituted on April 7, 2003, is quashed, and
+2) The Appellant's application for an extension of time within which an appeal may be instituted is granted, and time is extended for the Appellant to file a notice of appeal in respect of his 1989, 1990, 1992, 1993 and 1994 taxation years to the date of the Order consented to herein; and
+3) The Respondent's motion to compel the attendance of W. Paul Tierney for an out of court examination is dismissed; and
+4) Costs in respect of each of the motions and the application referred to above shall be determined by the Justice of the Tax Court of Canada who hears the motion in Moroni's Restaurant Inc. and Her Majesty the Queen, 2003-1915(IT)G.
+[19] It is in pursuit of this Order that I, having heard the Moroni's motion, am determining the award of costs payable in respect of the Appellant's matters referred to in the aforesaid Amended Order.
+APPELLANT'S SUBMISSIONS ON COSTS:
+[20] Appellant's counsel writes that:
+...
+The Respondent has resorted to unnecessary, lengthy and costly proceedings that burdened the appellants with substantial legal bills even before their appeals were out of the starting gate. This will jeopardize the appellants' ability to effectively prosecute their appeals, particularly if the Respondent maintains her course of conduct.
+She continues with the statement that the Respondent filed two motions, the first to quash the Notice of Appeal and the second to examine Tierney. She states that the first motion caused the Appellant to file an application for an extension of time to file his Notice of Appeal.
+[21] Counsel states that Kamin requested the CCRA to provide proof that the documents had been mailed and that she had been informed that it had no proof that they were so mailed. Then counsel says that:
+...
+6. The Motion to Quash Giannakouras was supported by five separate affidavits as well as a supplementary affidavit, totaling (sic) 69 pages with exhibits. These affidavits suggest that, had the respondent checked for proof of mailing prior to the filing of the Notice of Appeal in April 2003, this proof would have been found. The affidavits omit crucial information, namely, the CRA did check for proof of mailing prior to the filing of the Notice of Appeal and found nothing.
+Counsel then writes:
+7. Regarding the Motion for Examination, this motion was supported by nearly 100 pages of materials, most of which were excerpts from the Rules of Civil Procedure of the Ontario Superior Court of Justice and related case law.
+Two further paragraphs read as follows:
+8. Counsel for the appellant needed to carefully review and consider the respondent's motion documents. The appellant had to file affidavits in response to the Motion to Quash Giannakouras. Counsel for the respondent informed the appellant's counsel on two occasions that he would be requesting a court date for the hearing of the Motion for Examination, and followed through by twice writing to the Court, on July 25, 2003 and November 3, 2003, requesting such a date. As a result, counsel for the appellant was required to prepare for this motion.
+9. Ultimately, the Motion to Quash Giannakouras and the Motion for Examination were settled in the manner suggested by the Associate Chief Justice at the July 31st proceedings ...
+[22] Counsel then submitted that the Respondent should bear the financial burden of its motions, stating that the parties were now in the same position that they were in before the Respondent's motion was filed, except that the Appellants are substantially out of pocket. Counsel takes the position, as opposed to Ezri's position, that in this case Giannakouras was successful, his Notice of Appeal having been accepted. She then referred to the necessity of Kamin, having filed her affidavit in this matter and being unable to represent the Appellant in Court, to retain Tataryn to argue these motions. She also submitted that the motion for examination was frivolous and vexatious, there being no basis in the General Procedure Rules for such motion.
+[23] Counsel then asks for an award of costs to the Appellant on a solicitor and client basis in respect of the motion to quash, the motion for examination and the application to extend the time for filing his Notice of Appeal, in addition to disbursements and GST. She then requests, in the alternative, a fixed amount of $15,000, representing
+"a modest estimate of solicitor-client fees, disbursements and GST."
+ANALYSIS ANDCONCLUSION:
+[24] Kamin, in her affidavit, stated that she amended and signed the consent to Respondent changing the date for filing its Reply and forwarded it to Ezri by facsimile on June 5, 2003. The information continues that Ezri left a message on her voicemail on June 6, 2003 saying that he understood her reasons for changing the date and indicated that the change was fine. She then deposes that she received no further communication from Ezri until July 2, 2003 when she received, by courier, a Notice of Motion that the Respondent had filed, to quash the Appellant's appeal. This appears to be a natural culmination of the faulty communicative process between counsel. There was no indication whatsoever in any of the material filed indicating that counsel considered meeting to explore, in person, all aspects of the circumstances surrounding the propriety of the filing of the Notice of Appeal and of its potential validity.
+[25] As set out above, Bowman, A.C.J. signed an Order on December 15, 2003 filed with this Court the following day reading as follows:
+ORDER
+Upon reading the Consent to Order, filed
+It is ordered that the parties consent to an Order to dispose, collectively, of: (i) a motion to quash filed by the respondent on July 2, 2003; (ii) an application for an extension of time filed by the appellant on July 15, 2003; and (iii) a motion to compel the attendance of W. Paul Tierney, for an examination out of court, filed on July 25, 2003 in accordance with the Consent to Order.
+[26] In that Consent, attached to the aforesaid Order, the Respondent's motion to quash the appeal in respect of the 1989, 1990, 1992, 1993, 1994 taxation years was granted and the Appellant's application for an extension of time within which an appeal may be instituted was granted as of the date of the Order. The Consent also dismissed the motion to compel Tierney to attend for an out-of-court examination. The proceedings in respect of these motions involved the time of a large number of people, extensive amounts of research and reporting and the production of volumes of material - for what purpose?
+[27] The materials establish that, according to the Appellant, no Confirmation was received and according to Case's pungent deposition, the mailing of a Notification of Confirmation could not be established. It is to be noted that even if the mailing of the Confirmation had been established by the Respondent within the time period being examined, the Appellant still had the opportunity of bringing an application for an extension of time to file a Notice of Appeal. This application would have then been heard and may well have been granted. This appears not to have been considered by the Respondent when deciding to institute the motion to quash. If it was so considered the obvious inference is that the Respondent was undivorcedly married to the goal of preventing the Appellant from proceeding with its appeal.
+[28] Respondent's counsel's statement in the introduction to his submission on costs that:
+There should be no award of costs in respect of the Giannakouras motion as it was settled on consent
+is hollow given the fact that he was consenting to his own motion being settled. Although the motion to quash was granted, the Appellant's application for an extension of time to file a Notice of Appeal was granted by the same order. This is the very result and the only result that the Appellant sought.
+[29] Further, the Rules were designed to enable a taxpayer to commence an appeal in this Court and to prosecute same. They seem to have been interpreted by the Respondent as laying the ground to defeat that result.
+[30] The Respondent must have spent an inordinate amount of time producing voluminous materials, there being no evidence or suggestion that any attempt was made for counsel to meet in person to attempt to resolve this simple matter.
+[31] Communication between counsel was, literally, non existent in this matter. Communication does not consist of a series of unilateral acts involving letters, faxes and memoranda. Communication consists of positive personal conversation with the intent of reaching a reasonable conclusion to a dispute. The objective of an appeal being validated is a worthy objective which, but for some obvious faulty factors, should be honoured by both the Respondent and the Appellant.
+[32] Respecting Tierney, Respondent's counsel acknowledged the non-applicability of five of the six factors which are to be taken into account by the Court in exercising its discretion to direct such an examination. Rule 119 reads as follows:
+119. (1) A party who intends to introduce the evidence of a person at a hearing may, with leave of the Court or the consent of the parties, examine the person on oath or affirmation before the hearing for the purpose of having the person's testimony available to be tendered as evidence at the hearing.
+(2) In exercising its discretion to direct an examination under subsection (1), the Court shall take into account,
+(a) the convenience of the person whom the party seeks to examine,
+(b) the possibility that the person will be unavailable to testify at the hearing by reason of death, infirmity or sickness,
+(c) the possibility that the person will be beyond the jurisdiction of the Court at the time of the hearing,
+(d) the expense of bringing the person to the hearing,
+(e) whether the witness ought to give evidence in person at the hearing, and
+(f) any other relevant consideration.
+(3) Before moving for leave to examine an expert witness under subsection (1), the moving party shall serve on every other party the report of the expert witness referred to in subsection 145(2) unless the Court directs otherwise.
+When one studies the content of paragraphs (a) through (e), the conjunctive paragraph (f) cannot be read as a "stand alone" factor wholly unrelated to the preceding paragraphs. Indeed, it uses the word "relevant" in describing any other consideration. As can readily be seen, the essence of those factors is convenience, death, health, absence from the jurisdiction, expense, and whether the witness ought to give evidence in person at the hearing.
+[33] The bringing of such motion was an aggressive tactical procedure entirely inconsistent with the display of any degree of cooperation in resolving a problem which should have been settled before it reached the stage described herein. The motion appears to have been brought after departmental officials had failed to establish that the Notification of Confirmation had, indeed, been mailed to the Appellant. The impossibility of CCRA being able to prove that it had been so mailed was established prior to May 5, 2003, by the Affidavit of Case which stated in part:
+5. It is the policy of the CCRA to preserve the Records for one year. At the end of the one year period, the Record is shredded on site.
+6. I have conducted a search of the records of the CCRA. The records of items sent by registered mail for the Month of April 2002 was destroyed on or around May 5, 2003.
+This affidavit was dated June 17, 2003. Forty-nine days later, namely, July 25, 2003 the motion seeking to examine Tierney in respect of the receipt of the confirmation by the Appellant was made.
+[34] With regard both to this matter and the appeal of Moroni's Restaurant Inc., a corporation owned by the Appellant, in which the Respondent instituted a motion to quash an appeal, counsel submitted:
+... that the Appellants were put to the substantial costs of responding to several proceedings that would have been unnecessary if the Minister had acted with respect for the letter and the spirit of the law.
+She stated that because Kamin had been obliged to swear an affidavit and become a witness in the proceedings, she, Tataryn, was retained to argue these motions for the two Appellants. Counsel requested an Order awarding costs to the Appellant on a solicitor and client basis in respect of the motion to quash and the motion for examination and the application to extend the time for filing his Notice of Appeal, in addition to the disbursements and GST. In the alternative, she sought an Order fixing the costs in the lump sum of $15,000 which she described as representing "a modest estimate of solicitor-client fees, disbursements, and GST."
+[35] Respondent's counsel described the Appellant's complaints respecting the Respondent's conduct of the motion to quash and the motion for examination "unfounded". He states:
+... The Minister was put to the time and expense of compiling six affidavits to prove mailing of the relevant documents; once this was accomplished, the Minister was both entitled and obliged to contest the validity of the Giannakouras appeal since that appeal was invalid and the Tax Court of Canada was without jurisdiction to entertain it as filed;
+I will interpret the foregoing statement as meaning that the compiling of the six affidavits "was accomplished" because it is a certainty that proving the mailing of the relevant documents was not accomplished. Counsel's statement says nothing about considering the potential of an extension of time for filing an appeal while being "obliged" to pursue one goal only - the quashing of an appeal.
+[36] Indeed, even after the Respondent's inability to prove the mailing was established, Mr. Ezri refused to cooperate in ending his quashing mission. Recall Kamin's description in paragraph 36 of her affidavit, above quoted, in which she said:
+I informed Mr. Ezri that Mr. Meehan had already checked into this and had told me the CCRA could not verify the Confirmation and Reassessment had been mailed. Mr. Ezri replied that he was still looking into this matter.
+[Emphasis added.]
+[37] Without going into a description of all the pseudo-legal sparring that took place, it is clear to me that counsel were at no time in a mood of co-operation but rather in the mode of striving for victory in respect of matters that could, as stated above, have been settled through communication. On balance, the bringing of the motion to quash the Notice of Appeal could have anticipated the success of an application to extend the time for filing a Notice of Appeal. This matter should have been settled. Indeed, it is wrong for a party to use technical provisions as a foundation for seeking victory in what appears to have been a personal battle and not an honest attempt to resolve a matter that was easy of resolution. The motion for examination was made, as stated, some forty-nine days after Case's affidavit establishing that no record of mailing the Notification existed, and this in the face of the Appellant's consent to extend the date for the Respondent to file a Reply to the Notice of Appeal. This again displays the lack of interest in cooperating in a communicative fashion to deal with this matter. It almost appears as though there was a will to create problems.
+[38] Respondent's counsel also submitted that:
+The Respondent brought its motion to compel Mr. Tierney's evidence in the face of Mr. Tierney's non-cooperation, this despite Tierney's continuing professional relationship with the Appellant. The Respondent believed that this motion had the potential to shorten proceedings by eliminating the need to cross examine Mr. Giannakouras on his reasons for late filing his appeal;
+This statement simply underlines what I have already said.
+[39] I refer briefly to Rule 147. It states that the Court, in exercising its discretionary power to fix costs, may consider the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding. The Respondent's motions and actions have certainly lengthened proceedings in this matter.
+[40] In spite of the Respondent's zealous behaviour, an award of solicitor-client costs is unwarranted. I have concluded that, in the words of McLachlin, J., as she then was, in Young v. Young [1993] 4 S.C.R. 3 at page 17, the Respondent did not exhibit "reprehensible, scandalous, or outrageous conduct" in this matter.
+[41] The institution of motions which not only forestall the advance of appeal proceedings but also unnecessarily add to litigation costs is inappropriate in circumstances such as those in this matter. It appears clear that counsel for both parties were not in a proper co-operative communication mode. In spite of Kamin's stated reason for not filing an application for the extension of time, the Appellant could have done so before the motion to quash was filed. However the Respondent's aggressive actions in bringing two motions in a matter simply involving, in essence, an application for the extension of time for filing a Notice of Appeal were unwarranted. Accordingly, I award costs in the amount of $5,000 to the Appellant payable forthwith by the Respondent.
+Signed at Ottawa, Canada, this 30th day of March, 2005.
+"R.D. Bell"
+Bell, J.
+CITATION: 2005TCC225
+COURT FILE NO.: 2003-1331(IT)G
+STYLE OF CAUSE: Nicholas Giannakouras v.The Queen
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: February 4, 2004
+ORDER AND REASONS FOR
+ORDER BY: The Honourable Justice R.D. Bell
+DATE OF JUDGMENT: March 30, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Susan Tataryn and
+Shelley J. Kamin
+Counsel for the Respondent:
+Michael Ezri
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Susan Tataryn and Shelley J. Kamin
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Kamin, because she made an affidavit, et cetera, was replaced by Susan B. Tataryn as counsel for the motion.
+[2] A corporation controlled by the Appellant and also the subject of a reassessment.

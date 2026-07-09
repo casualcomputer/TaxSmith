@@ -1,0 +1,186 @@
+---
+title: "Johnson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/361597/index.do"
+last_modified: "2019-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 13"
+citation2: ""
+neutral_citation: "2019 CCI 13"
+decision_date: "2019-01-16"
+language: "fr"
+item_id: "361597"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4339
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:27:57.030000+00:00"
+cases_cited_count: 8
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1370659c8624e35cb2cfbab408e610e8df12ca4de89814e7dcdbf20945b5ce40"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Johnson c. La Reine
+
+- Citation: 2019 CCI 13
+- Decision date: 2019-01-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4339, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-01-16
+Référence neutre
+2019 CCI 13
+Numéro de dossier
+2017-4912(GST)APP
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2017-4912(GST)APP
+ENTRE :
+ROSS JOHNSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 30 août 2018 à Hamilton (Ontario)
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Représentant du demandeur :
+Wilfred Davey
+Avocate de la défenderesse :
+Rhoda Lemphers
+ORDONNANCE
+La demande de prorogation du délai pour déposer un avis d’appel en vertu de la Loi sur la taxe d’accise relativement à l’année d’imposition 2005 est rejetée, avec dépens pour la défenderesse, conformément aux motifs de l’ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2019.
+« Guy R. Smith »
+Le juge Smith
+Référence : 2019 CCI 13
+Date : 20190116
+Dossier : 2017-4912(GST)APP
+ENTRE :
+ROSS JOHNSON,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Smith
+I. Introduction
+[1] Il s’agit d’une demande de prorogation du délai dans lequel un appel peut être interjeté en vertu des dispositions de la Loi sur la taxe d’accise, L.R.C., 1985, ch. E-15 (la « LTA »), la Loi de 2001 sur l’accise, L.C. 2002, ch. 22 (la « LA ») et la Loi sur les douanes, L.R.C., 1985, ch. 1 (2e suppl.) (la « LD »). Aux fins des présentes, j’ai supposé que la demande avait été déposée en vertu des dispositions de la LTA.
+[2] La prorogation du délai pour interjeter appel a été demandée relativement à une lettre de l’Agence du revenu du Canada (l’ « ARC ») datée du 31 mars 2017. À la fin de l’audience, il est devenu évident que le demandeur avait également déposé une demande de remboursement des [traduction] « montants payés par erreur ou […] livrés dans la réserve ». Cette demande était datée du 1er novembre 2017.
+II. Contexte
+[3] M. Johnson est membre de la réserve du Territoire des Six Nations de la rivière Grand (la « réserve »). Il a témoigné en son propre nom et a expliqué qu’il exploitait une entreprise de commerce de gros sous le nom de R.J. Wholesaler.
+[4] Il prétend avoir commandé des cigarettes à une entreprise allemande. Les produits ont été expédiés au havre de Hamilton en août 2005, puis transportés à sa résidence dans la réserve. Avant la livraison, son courtier en douane, Livingston International Brokers, l’a informé qu’il devrait payer un total de 394 536,15 $, calculé comme suit :
+Taxe d’accise
+355 836,99 $
+Droits
+8 250,94 $
+TPS
+30 106,68 $
+[5] Le demandeur indique qu’il s’est initialement opposé au paiement des montants en question, étant donné qu’il croyait être un Indien inscrit au sens de la Loi sur les Indiens, L.R.C. 1985, ch. I-5 (la « Loi sur les Indiens »). Il prétend qu’il y a eu quelques réunions avec l’ARC au cours des années qui ont suivi les transactions et qu’il s’attendait à recevoir un remboursement. Il n’avait qu’un vague souvenir de ces réunions et ne pouvait pas se rappeler quand elles ont eu lieu.
+[6] Un examen des documents présentés en preuve indique que le demandeur a fait l’objet d’une vérification ou d’une « vérification de conformité douanière » par l’Agence des services frontaliers du Canada (l’« ASFC »), comme en témoigne la lettre de l’ASFC datée du 23 mai 2007 (pièce A-6). Le demandeur a répondu par une lettre datée du 10 septembre 2007 réclamant une exemption de l’application de la LTA, de la LA et de la LD (pièce A-4) en vertu de l’article 87 de la Loi sur les Indiens. Il n’est pas clair si le ministre a fourni une réponse.
+[7] Quoi qu’il en soit, il semble qu’aucune autre mesure n’ait été prise par le demandeur jusqu’à sa lettre du 8 février 2017 adressée au commissaire de l’ARC, ce qui a mené à la réponse du 31 mars 2017, dans laquelle le ministre a indiqué ce qui suit :
+[traduction]
+[…]
+Tel qu’indiqué dans le Bulletin d’information B-039, il n’y a pas d’exemption de taxation en vertu de l’article 87 de la Loi sur les Indiens sur les produits importés au Canada par des Indiens. Les produits importés par un Indien ou une entreprise individuelle appartenant à un Indien sont assujettis aux règles normales d’importation. Cela s’applique même si, après l’importation, les produits sont livrés dans une réserve par l’agent du fournisseur.
+III. Demande de prorogation du délai
+[8] La lettre de l’ARC du 31 mars 2017 est annexée à la demande, mais il n’est pas clair si le demandeur demande une prorogation du délai pour déposer un avis d’opposition ou un avis d’appel, car la demande fait référence aux deux avis. La demande fait également référence aux [traduction] « avis de cotisation à la TPS/TVH, no de dossier SP0378 ».
+[9] Un examen de la correspondance présentée en preuve suggère que le « dossier SP0378 » fait référence à la vérification de conformité effectuée par l’ASFC, laquelle a mené à l’émission par l’ASFC d’un avis d’« examen et nouvelle décision » dans une lettre datée du 19 juin 2017, dont une copie n’a pas été fournie à la Cour, mais à laquelle il est fait référence dans la lettre du demandeur du 10 septembre 2007.
+[10] À l’audition de l’affaire, la défenderesse a déposé une preuve par affidavit de Dwayne Mockler, employé par l’ARC. Ce dernier a déclaré i) qu’aucune cotisation ou nouvelle cotisation n’avait été émise par l’ARC relativement au demandeur ou à R.J. Wholesaler en vertu de la LTA ou de la LA pour toute période d’imposition en 2005, et ii) qu’il n’y avait pas de dossier de cotisation aux fins de perception, ni iii) aucun dossier d’avis d’opposition, ni d’avis de confirmation délivré à demandeur ou à R.J. Wholesaler en vertu des dispositions de la LTA, de la LA ou de la LD pour l’année d’imposition 2005.
+[11] M. Mockler a également déclaré que le numéro d’inscription à la TPS/TVH qui figurait sur la demande n’était pas valide ou actif, mais qu’un numéro de TPS/TVH avait été attribué au demandeur le 1er janvier 2016.
+[12] Il est évident qu’avec le temps, une certaine confusion a pu s’établir quant à ce qui s’est réellement passé. Je dois conclure que la lettre de l’ARC du 31 mars 2017 visait à fournir au demandeur de l’information à jour ou des renseignements en réponse à sa lettre du 8 février 2017 et, par conséquent, qu’il ne s’agissait pas d’un avis de cotisation ou de nouvelle cotisation au sens où ce terme est interprété. Il est plus probable que la lettre de l’ASFC datée du 19 juin 2007 (dont une copie n’a pas été fournie à la Cour) portait sur une décision de l’ASFC. Si tel était le cas, la lettre du 10 septembre 2007 du demandeur peut être interprétée comme un avis d’opposition.
+[13] La LTA, la LA et la LD renferment toutes des dispositions exigeant qu’une personne à l’égard de qui une cotisation a été établie et qui « fait opposition à la cotisation établie à son égard peut […] présenter au ministre un avis d’opposition, en la forme et selon les modalités déterminées par celui-ci, exposant les motifs de son opposition et tous les faits pertinents ». Cela est énoncé aux paragraphes 301(1.1) de la LTA, 195(1) de la LA et 97.48(1) de la LD. Le ministre doit alors « avec diligence, examiner la cotisation de nouveau et l’annuler ou la confirmer ou établir une nouvelle cotisation » (paragraphes 301(3) de la LTA, 195(8) de la LA et 97.48(8) de la LD). Toutefois, l’article 306 de la LTA prévoit ce qui suit :
+306 La personne qui a produit un avis d’opposition à une cotisation aux termes de la présente sous-section peut interjeter appel à la Cour canadienne de l’impôt pour faire annuler la cotisation ou en faire établir une nouvelle lorsque, selon le cas :
+a) la cotisation est confirmée par le ministre ou une nouvelle cotisation est établie;
+b) un délai de 180 jours suivant la production de l’avis est expiré sans que le ministre n’ait notifié la personne du fait qu’il a annulé ou confirmé la cotisation ou procédé à une nouvelle cotisation.
+Toutefois, nul appel ne peut être interjeté après l’expiration d’un délai de 90 jours suivant l’envoi à la personne, aux termes de l’article 301, d’un avis portant que le ministre a confirmé la cotisation ou procédé à une nouvelle cotisation.
+[14] Des dispositions semblables sont contenues dans la LA et la LD. En l’espèce, l’« avis d’opposition » est daté du 10 septembre 2007, ce qui signifie que le demandeur avait 180 jours ou jusque vers le 10 mars 2008 pour interjeter appel auprès de notre Cour. Le demandeur a également eu un an pour demander une prorogation du délai pour interjeter appel, selon les paragraphes 305(5) de la LTA, 199(5) de la LA et 97.52(5) de la LD.
+[15] Bien que je sois prêt à accepter que la lettre du 10 septembre 2007 était un avis d’opposition valide, il est évident que le demandeur n’a pas interjeté appel et n’a pas demandé de prorogation du délai pour le faire conformément aux délais obligatoires susmentionnés. Et comme ces délais ont été établis par le Parlement, notre Cour n’a ni le pouvoir discrétionnaire ou la compétence d’accepter l’avis d’appel tel qu’il a été déposé, ni le pouvoir d’accorder une prorogation du délai pour ce faire.
+IV. La demande de remboursement
+[16] Comme il a été mentionné ci-dessus, il est devenu évident à la fin de l’audience que le demandeur avait présenté une demande de remboursement pour les montants qui auraient été payés par erreur. On a demandé aux parties de présenter des observations écrites.
+[17] La défenderesse reconnaît avoir reçu une [traduction] « demande générale de remboursement de la TPS/TVH datée du 1er novembre 2017 » et indique qu’un avis de cotisation a été émis à le demandeur le 21 décembre 2017. Dans cet avis, la demande de remboursement a été rejetée au motif, entre autres, qu’il s’agissait d’une transaction survenue en août 2005 et que la demande de remboursement avait été reçue le 31 octobre 2017. Plus précisément, la défenderesse soutient que la demande de remboursement a été déposée plus de [traduction] « deux ans après le jour où le montant a été payé ou versé par la personne », contrairement au paragraphe 261(3) de la LTA, qui prévoit ce qui suit :
+(3) Le remboursement n’est versé que si la personne en fait la demande dans les deux ans suivant le paiement ou le versement du montant.
+[18] Le demandeur reconnaît dans ses observations écrites qu’il a [traduction] « reçu une lettre recommandée » de l’ASFC le 19 juin 2007, mais qu’il n’a reçu aucune autre lettre depuis cette date. Il soutient que :
+[traduction]
+[…]
+Attendu que l’ARC doit émettre ses cotisations initiales dans les cas comme celui-ci dans un délai raisonnable, donner au contribuable le droit de contester l’exactitude de la cotisation, s’il le désire, un droit que le contribuable n’a pu exercer, tandis que l’ARC retardait la cotisation pour atteindre si [sic] des objectifs inadéquats.
+[19] Le demandeur a également présenté des arguments sur la constitutionnalité de toute loi qui [traduction] « porterait atteinte aux droits des Indiens vivant dans une réserve conférés par l’article 87 de la Loi sur les Indiens ». Je conclus qu’il s’agit d’arguments de droit concernant le fond qu’il vaut mieux laisser à un juge de première instance et je n’ai pas l’intention de les aborder dans le contexte de la présente demande. Je conclus qu’il y a une bonne raison de ne pas le faire puisque la seule question dont la Cour est saisie est de savoir si, dans le contexte de la présente demande, une ordonnance devrait être rendue pour proroger le délai pour interjeter appel.
+[20] Étant donné que l’avis de cotisation est daté du 21 décembre 2017, le demandeur n’avait pas plus de 12 mois pour déposer la demande de prorogation du délai pour interjeter appel. Je suis convaincu qu’il l’a fait. Cependant, le paragraphe 305(5) de la LTA est ainsi rédigé :
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l’année suivant l’expiration du délai d’appel par ailleurs imparti;
+b) la personne démontre ce qui suit :
+(i) dans le délai d’appel par ailleurs imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+[je souligne]
+[21] La préoccupation évidente pour la Cour, et ce que l’on pourrait qualifier [traduction] d’« éléphant dans la pièce », c’est le fait que la transaction alléguée a eu lieu en août 2005. La demande de remboursement a été déposée le 1er novembre 2017, soit plus de douze ans plus tard.
+[22] Conformément au sous-alinéa 305(5)b)(ii) de la LTA, la Cour doit examiner les raisons et les circonstances de l’affaire pour déterminer s’il serait « juste et équitable de faire droit à la demande ». Je conclus que le demandeur n’a pas fourni d’explication crédible du laps de temps excessif qui s’est écoulé entre les opérations alléguées et le dépôt de la demande de remboursement, de sorte que la Cour n’est pas en mesure de conclure qu’il serait « juste et équitable de faire droit à la demande ».
+[23] De plus, le sous-alinéa 305(5)b)(iv) impose à la Cour l’obligation de déterminer, en se fondant sur la preuve dont elle dispose, si « l’appel est raisonnablement fondé ». Étant donné que la Cour doit seulement conclure que l’appel est « raisonnable », je conclus que le seuil est peu élevé et que tout doute devrait favoriser l’acceptation de la demande et permettre au juge de première instance de trancher l’affaire. Toutefois, en l’espèce, il ne fait aucun doute que le laps de temps excessif mentionné ci-dessus contrevient au paragraphe 261(3) de la LTA et serait fatal à l’appel du demandeur. Pour être clair, je conclus que le demandeur n’a aucune chance raisonnable de succès et, en ce sens, l’appel n’est pas « raisonnablement fondé ».
+[24] Je conclus en faisant référence à la décision Horseman c. R., 2018 CAF 119, qui portait sur un appel d’une décision de notre Cour (Horseman c. R., 2017 CCI 198) rejetant la demande de prorogation du délai pour déposer un avis d’appel en vertu de la LTA. La Cour d’appel fédérale a souligné que « l’appelant voulait soulever à l’appui de sa contestation des arguments fondés sur les droits constitutionnels et issus de traités des peuples autochtones » et a indiqué que :
+3 Dans sa décision défavorable à l’appelant, la Cour de l’impôt a statué (par. 37) que celui-ci n’avait pas déposé un avis d’opposition valable à la cotisation, une condition préalable à tout appel à la Cour, et qu’il était maintenant trop tard pour le faire. En outre, la Cour de l’impôt a conclu (par. 24) que les dispositions de la Loi concernant les oppositions et les appels s’appliquent, même si les arguments soulevés sont fondés sur les droits constitutionnels des peuples autochtones. À cet égard, la Cour de l’impôt a fait observer (par. 23) que l’appelant faisait « une réclamation privée [...] qui demande une réparation pécuniaire concernant sa situation fiscale personnelle ». L’appelant interjette appel de cette décision devant notre Cour.
+4 Notre Cour ne saurait faire droit à l’appel. Dans le cas de réclamations privées et personnelles, comme en l’espèce, il est nécessaire de se conformer aux dispositions applicables en matière de procédure et de compétence, même lorsqu’il y a revendication de droits constitutionnels et issus de traités des peuples autochtones : Bande indienne Wewaykum c. Canada, 2002 CSC 79, [2002] 4 R.C.S. 245; Canada (Procureur général) c. Lameman, 2008 CSC 14, [2008] 1 R.C.S. 372, par. 13; Manitoba Metis Federation Inc. c. Canada (Procureur général), 2013 CSC 14, [2013] 1 R.C.S. 623, par. 134. Ces arrêts font partie d’une jurisprudence plus importante, selon laquelle les personnes qui présentent des réclamations privées et personnelles, fondées sur des droits constitutionnels doivent quand même se conformer aux délais prévus par la loi et aux autres exigences en matière de procédure et de compétence : voir Mills c. La Reine, [1986] 1 R.C.S. 863, à la page 953; Ravndahl c. Saskatchewan, 2009 CSC 7, [2009] 1 R.C.S. 181; St-Onge c. La Reine, 2001 CAF 308, [2001] A.C.F. no 1569 (QL); Newman c. Canada, 2016 CAF 213, [2016] A.C.F. no 952 (QL), et les nombreux arrêts qui y sont mentionnés.
+5 Selon l’appelant, du fait du libellé de l’exemption de taxation prévue au paragraphe 87(1) de la Loi sur les Indiens, L.R.C. 1985, ch. I‑5, à savoir « [n]onobstant toute autre loi fédérale [...] », les exigences en matière de procédure et de compétence établies par la Loi sur la taxe d’accise ne s’appliquent pas.
+6 Nous ne sommes pas de cet avis. Les termes liminaires de l’article 87 servent à empêcher l’adoption d’autres dispositions législatives fédérales en matière de taxation incompatibles avec l’exemption matérielle prévue à l’article 87. Ces termes ne modifient en rien les exigences en matière de procédure et de compétence se rapportant, entre autres, à la juridiction habilitée à instruire l’instance, au mode d’introduction de l’instance et aux délais applicables. S’il n’en était pas ainsi, qu’est-ce qui empêcherait une personne de se pourvoir directement en première instance à la Cour suprême du Canada des années, voire des décennies plus tard, afin de faire valoir son droit à l’exemption prévue à l’article 87?
+7 La Cour de l’impôt a conclu à bon droit qu’il y avait lieu de rejeter la demande de prorogation du délai de dépôt de l’avis d’appel. Elle peut connaître de ce type de demandes, uniquement lorsqu’il est satisfait aux exigences prévues aux articles 301 à 307 de la Loi sur la taxe d’accise, précitée, y compris l’obligation de déposer un avis d’opposition valable : Loi sur la Cour canadienne de l’impôt, L.R.C. 1985, ch. T-2, art. 12. L’avis d’opposition n’a pas été déposé en l’espèce.
+[je souligne]
+V. Conclusion
+[25] Pour tous les motifs qui précèdent, la demande de prorogation du délai pour déposer un avis d’appel est rejetée avec dépens pour la défenderesse.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2019.
+« Guy R. Smith »
+Le juge Smith
+RÉFÉRENCE :
+2019 CCI 13
+Nº DU DOSSIER DE LA COUR :
+2017-4912(GST)APP
+INTITULÉ :
+ROSS JOHNSON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 30 août 2018
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Guy R. Smith
+DATE DE L’ORDONNANCE :
+Le 16 janvier 2019
+COMPARUTIONS :
+Représentant du demandeur :
+Wilfred Davey
+Avocate de la défenderesse :
+Rhoda Lemphers
+AVOCATS INSCRITS AU DOSSIER :
+Pour le demandeur :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour la défenderesse :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)

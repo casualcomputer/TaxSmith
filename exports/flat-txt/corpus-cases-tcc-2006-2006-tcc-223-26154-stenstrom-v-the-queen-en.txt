@@ -1,0 +1,105 @@
+Title: Stenstrom v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26154/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-223-26154-stenstrom-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-04-10
+
+# Stenstrom v. The Queen
+
+- Citation: 2006 TCC 223
+- Decision date: 2006-04-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3952, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stenstrom v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-04-10
+Neutral citation
+2006 TCC 223
+File numbers
+2005-1556(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1556(IT)I
+BETWEEN:
+LENA STENSTROM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 3, 2006, at Regina, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Agent for the Appellant:
+Lee C. Merriman
+Counsel for the Respondent:
+Sharlene Telles-Langdon
+____________________________________________________________________
+JUDGMENT
+The Respondent's application to quash the Appellant's purported appeals from the reassessments made under the Income Tax Act for the 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001 and 2002 taxation years is granted and the purported appeals are quashed.
+The appeal from the reassessment made under the Income Tax Act for the
+2003 taxation years is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of April 2006.
+"D.W. Beaubier"
+Beaubier J.
+Citation: 2006TCC223
+Date: 20060410
+Docket: 2005-1556(IT)I
+BETWEEN:
+LENA STENSTROM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal for the years 1985 to 2003 was heard at Regina, Saskatchewan, on April 4, 2006. The Appellant testified. The Respondent called her family physician, Dr. Suresh Kasset. Both resided in Herbert, Saskatchewan, at all material times and still reside there.
+[2] At the outset the Respondent applied to quash the appeals for the years 1985 to 2002 inclusive on the basis that no Notice of Objection for these years was filed on a timely basis. The Reply to the Notice of Appeal describes the exact dates and occurrences respecting this application and it is confirmed by the information on page two of the Notice of Appeal. No evidence refuted this. The statement of the representations of both parties also confirmed the particulars in the Reply. As a result, the appeals for the years 1985 to 2002 inclusive are quashed because no timely Notices of Objection were filed for those years by the Appellant.
+[3] Respondent's counsel admitted that the Notice of Appeal for the 2003 year was properly before the Court and that appeal was heard.
+[4] This appeal is respecting a denial of an application by the Appellant for the disability tax credit for the year 2003. Paragraph 26 of the Reply to the Notice of Appeal reads:
+26. In so assessing the Appellant, the Minister made the following assumptions of fact:
+(a) the Appellant suffers from pain and inflammation;
+(b) at all times, the Appellant was able to walk without the assistance of a wheelchair or other walking device;
+(c) the Appellant does not have a severe and prolonged mental or physical impairment; and
+(d) the effects of the Appellant's impairment are not such that the Appellant's ability to perform a basic activity of daily living is markedly restricted.
+[5] The Appellant admitted that during 2003 she would walk 100 metres without assistance or a walking aid. Due to pain or shortness of breath she stated that she would likely have to stop for a moment or to sit down in the course of the 100 metres. However, in any event, it would take her about 20 percent more time than an ordinary person her age to walk 100 metres. She also stated that in 2005 she was in worse condition than she was in 2003, but that she could and did mow her lawn in 2005.
+[6] Her physician, Dr. Kasset completed Exhibit A-1, the Disability Tax Certificate, on May 5, 2004. He stated on page 2 that the Appellant was markedly restricted in walking and added:
+Pain and inflammation involving skin & joints. This patient has been off work since 1985, as a result of her disability, but she can walk 100 m without a wheelchair or other walking device.
+[7] Herbert has a population of about 1000 and Dr. Kassett sees Mrs. Stenstrom around Herbert from time to time. He also estimated that it took her about 20 percent more than is normal for someone her age to walk 100 metres.
+[8] The Appellant testified that when she goes to a mall and shops she gets a shopping cart to lean on when she shops. She leans on the lawnmower when she mows her lawn.
+[9] The Appellant has had Scleroderma and Raynaud's phenomenon since 1985 and is taking toxic drugs for this.
+[10] However, on the evidence before the Court, in 2003 she did not require an inordinate amount of time pursuant to subsection 118.4(1) of the Income Tax Act to walk. Her condition is permanent and painful and her disease is progressive. But in 2003 she was not so severely disabled either by pain or shortness of breath that she required an inordinate amount of time to walk.
+[11] The appeal is dismissed.
+Signed at Ottawa, Canada, this 10th day of April 2006.
+"D.W. Beaubier"
+Beaubier J.
+CITATION: 2006TCC223
+COURT FILE NO.: 2005-1556(IT)I
+STYLE OF CAUSE: Lena Stenstrom v. The Queen
+PLACE OF HEARING: Regina, Saskatchewan
+DATE OF HEARING: April 3, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: April 10, 2006
+APPEARANCES:
+Agent for the Appellant:
+Lee C. Merriman
+Counsel for the Respondent:
+Sharlene Telles-Langdon
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,132 @@
+Title: Mansour v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27145/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-32-27145-mansour-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2006-02-09
+
+# Mansour v. M.N.R.
+
+- Citation: 2006 TCC 32
+- Decision date: 2006-02-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1014, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mansour v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-09
+Neutral citation
+2006 TCC 32
+File numbers
+2005-1262(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-1262(EI)
+BETWEEN:
+MANAR MANSOUR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE
+Respondent,
+and
+JKM HAUTES TECHNOLOGIES CANADIENNES INC.,
+Intervener.
+____________________________________________________________________
+Appeal heard October 20, 2005, at Montreal, Quebec
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Roch Guertin
+Representative for the Respondent:
+Catherine Gagnon
+(law student)
+For the Intervener:
+No appearance
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 9th day of February 2006.
+« S.J. Savoie »
+Savoie, D.J.
+Citation: 2006TCC32
+Date: 20060209
+Docket: 2005-1262(EI)
+BETWEEN:
+MANAR MANSOUR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+JKM HAUTES TECHNOLOGIES CANADIENNES INC.,
+Intervener.
+REASONS FOR JUDGMENT
+Savoie, D.J.
+[1] This appeal was heard at Montréal, Quebec, on October 20, 2005.
+[2] The Intervener was not represented at the hearing.
+[3] It was established at the outset that the insurability of the Appellant's employment was not at issue. The Minister of National Revenue (the "Minister") found the Appellant's employment was insurable, so this appeal will address only the determination of the Appellant's insurable hours and insurable wages while working for JKM Hautes Technologies canadiennes inc., the Payer, from May 25 to September 25, 2004, the period in question.
+[4] On February 18, 2005, the Minister informed the Appellant of his decision that, during the period in question, she accumulated 512 hours of insurable employment and earned insurable wages of $12,800 during her employment with the Payer.
+[5] The Minister based his decision on the following assumptions of fact:
+[translation]
+(a) the Payer, incorporated on November 26, 1993, operated a metal parts manufacturing company;
+(b) during the period in question, the Appellant held insurable employment as an accounting clerk with the Payer;
+(c) the appellant worked 40 hours per week, Monday to Friday;
+(d) she received wages of $1,000 per week, payable every two weeks;
+(e) on September 29, 2004, the Payer issued a record of employment in the Appellant's name, stating that during the period in question, the Appellant had accumulated 720 insurable hours and insurable wages of $18,000;
+(f) the Payer's payroll does not balance with the amounts on the record of employment issued in the Appellant's name;
+(g) contrary to the Payer's other employees, the Appellant does not have a single pay stub;
+(h) the total of the paycheques submitted does not correspond to the amounts of the wages on the record of employment issued in the Appellant's name;
+(i) the Respondent determined the Appellant's total insurable employment based on the paycheques submitted, namely five cheques for a total of $12,800 for the period in question;
+(j) the Respondent determined that, during the period in question, the Appellant accumulated 512 hours of work, specifically, $12,800 at $25 an hour ($1,000 per week at 40 hours);
+[6] The Appellant admitted the Minister's assumptions of fact as stated in subparagraphs 7 (a), (c), (d), (e), (f) and (g); she denied those stated at subparagraphs (b), (i) and (j); she wanted to make specifications to subparagraph (h).
+[7] The Minister is prepared to acknowledge that the series of cheques the Appellant produced as Exhibit A-8 establishes that she received five cheques from the Payer during the period in question for a total of $12, 800. The Minister stated, however, that despite the fact it contradicts the Appellant's own statements, he wanted to accept the claim by the Appellant that she was to have a salary of $1,000 a week, payable every two weeks, but she was not paid by cheque.
+[8] According to the Appellant, she received total earnings of $17,120 during the period in question. In her testimony, she stated that the Payer had experienced such a significant drop in sales that her salary could not be paid. She also stated that she sporadically made cash withdrawals from the Payer's two banking institutions according to the resources available in these accounts and for various amounts.
+[9] She was unable to make the connection, however, between these withdrawals and the salary she was owed.
+[10] The documents the Appellant provided the Court at the hearing contradict her claims regarding the wages she allegedly received during her employment.
+[11] The Appellant denied the Minister's claim stated at subparagraph 7(b) of the Reply to the Notice of Appeal. She stated that she is no longer an accounting clerk, as the Minister claims, since she has a bachelor's degree in business administration from Concordia University.
+[12] The Minister's representative relied on subsection 2(1) of the Insurable Earnings and Collection of Premiums Regulations, which states:
+2.(1) For the purposes of the definition "insurable earnings" in subsection 2(1) of the Act and for the purposes of these Regulations, the total amount of earnings that an insured person has from insurable employment is:
+(a) the total of all amounts, whether wholly or partly pecuniary, received or enjoyed by the insured person that are paid to the person by the person's employer in respect of that employment,
+...
+[13] The Regulations therefore establish that insurable earnings shall be calculated according to the amounts received; however, the Minister claims that nothing proves that the Appellant received more than $12,800 and, moreover, the alleged $2,000 every two weeks was not proven by the Appellant's method, since nothing explains her withdrawals; not even her testimony or the documents she produced. This, the Minister's representative found surprising for a university graduate in business administration.
+[14] The Appellant is asking this Court to overturn the Minister's decision.
+[15] The Appellant had the burden of proving that the Minister's assumptions of fact were false. She did not do so. On the contrary, she admitted most of them and was unable to disprove the others.
+[16] The Minister determined that the Appellant had accumulated 512 hours of insurable employment and earned total insurable earnings of $12,800 while working for the Payer. He found that the Appellant held insurable employment for 512 hours, according to subsection 10(1) of the Employment Insurance Regulations. He also determined, according to subsection 2(1) of the Insurable Earnings and Collection of Premiums Regulations, that the Appellant's earnings during the period in question totalled $12,800.
+[17] This Court sees no validity to the Appellant's position in this case.
+[18] Therefore, the appeal is dismissed and the decision rendered by the Minister is confirmed.
+Signed at Grand-Barachois, New Brunswick, this 9th day of February 2006.
+« S.J. Savoie »
+Savoie, D.J.
+CITATION: 2006TCC32
+COURT FILE No.: 2005-1262(EI)
+STYLE OF CAUSE: MANAR MANSOUR AND M.D.R.H.C. AND JKM HAUTES TECHNOLOGIES CANADIENNES INC.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: October 20, 2005
+REASONS FOR JUDGMENT BY: The Honourable Deputy Judge, S.J. Savoie
+DATE OF JUDGMENT: February 9, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Roch Guertin
+Representative for the Respondent:
+Catherine Gagnon
+(law student)
+For the Intervener:
+No appearance
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Roch Guertin
+Firm: Roch Guertin, counsel
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervener:

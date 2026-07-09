@@ -1,0 +1,166 @@
+Title: Shieh v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/317260/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-154-317260-shieh-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-07-30
+
+# Shieh v. The Queen
+
+- Citation: 2018 TCC 154
+- Decision date: 2018-07-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4912, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shieh v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-07-30
+Neutral citation
+2018 TCC 154
+File numbers
+2016-1147(GST)I, 2016-904(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2016-1147(GST)I
+2016-904(IT)I
+BETWEEN:
+CATHERINE SHIEH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on June 21, 2018, at Vancouver, British Columbia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+Michael Shieh
+Counsel for the Respondent:
+Kayla Baldwin
+JUDGMENT
+The Appeal from the assessment made under the Income Tax Act with respect to the Notice of Assessment bearing number 2577542 dated March 18, 2014, is dismissed.
+The Appeal from the reassessment made under the Excise Tax Act for the by Notice of Reassessment bearing number 2577501 dated March 17, 2014, is dismissed.
+Signed at Ottawa, Canada, this 30th day of July 2018.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2018 TCC 154
+Date: 20180730
+Dockets: 2016-1147(GST)I
+2016-904(IT)I
+BETWEEN:
+CATHERINE SHIEH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] Catherine Shieh appeals two matters: first, the reassessment of the Minister of National Revenue (the “Minister”) pursuant to section 325 of the Excise Tax Act (the “ETA”) for $15,600.25, and second, the Minister’s assessment pursuant to subsection 160(1) of the Income Tax Act (the “ITA”), both matters with respect to the transfer of property to Ms. Shieh from her son, Michael Shieh, in March 2004.
+[2] The sections at issue read in part as follows:
+ETA
+325 (1) Where at any time a person transfers property, either directly or indirectly, by means of a trust or by any other means, to
+(a) the transferor’s spouse or common-law partner or an individual who has since become the transferor’s spouse or common-law partner,
+(b) an individual who was under eighteen years of age, or
+(c) another person with whom the transferor was not dealing at arm’s length,
+the transferee and transferor are jointly and severally, or solidarily, liable to pay under this Part an amount equal to the lesser of
+(d) the amount determined by the formula
+A - B
+where
+A
+is the amount, if any, by which the fair market value of the property at that time exceeds the fair market value at that time of the consideration given by the transferee for the transfer of the property, and
+B
+is the amount, if any, by which the amount assessed the transferee under subsection 160(2) of the Income Tax Act in respect of the property exceeds the amount paid by the transferor in respect of the amount so assessed, and
+(e) the total of all amounts each of which is
+(i) an amount that the transferor is liable to pay or remit under this Part for the reporting period of the transferor that includes that time or any preceding reporting period of the transferor, or
+(ii) interest or penalty for which the transferor is liable as of that time,
+but nothing in this subsection limits the liability of the transferor under any provision of this Part....
+(3) If a transferor and transferee have, by reason of subsection (1), become jointly and severally, or solidarily, liable in respect of part or all of the liability of the transferor under this Part, the following rules apply:
+(a) a payment by the transferee on account of the transferee’s liability shall, to the extent of the payment, discharge their liability; and
+(b) a payment by the transferor on account of the transferor’s liability only discharges the transferee’s liability to the extent that the payment operates to reduce the transferor’s liability to an amount less than the amount in respect of which the transferee was, by subsection (1), made jointly and severally, or solidarily, liable….
+(5) In this section, property includes money.
+ITA
+160 (1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common- law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply:…
+(e) the transferee and transferor are jointly and severally, or solidarily, liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act (including, for greater certainty, an amount that the transferor is liable to pay under this section, regardless of whether the Minister has made an assessment under subsection (2) for that amount) in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection limits the liability of the transferor under any other provision of this Act or of the transferee for the interest that the transferee is liable to pay under this Act on an assessment in respect of the amount that the transferee is liable to pay because of this subsection.
+[3] There are four conditions that must be met for the Minister to successfully rely on these provisions to assess Catherine Shieh as the transferee of property, jointly and severally with Michael Shieh, the transferor, of his liability under the ETA and ITA (together referred to as the “Acts”):
+Michael Shieh must be liable at the time of the transfer of the property to pay an amount under the Acts;
+There must be a transfer of property;
+Between non-arm’s length persons;
+The fair market value of the property must exceed the consideration given by Catherine Shieh to Michael Shieh at least in an amount in excess of the liability of Michael Shieh.
+I. LIABILITY
+[4] Michael Shieh does not deny he owed money to the Minister under both Acts. His position, however, is that he had repaid all that he owed. He took me through his calculations, and it was clear that in determining he had paid in full, he had not factored in the interest and penalties portion of the liability. The calculation of the amount still owing was complicated, however, by two further matters: first, the fact that there was a settlement reached by the Parties in 2012, and second, as some interest relief was provided in 2015. Further, Michael Shieh provided schedules from the Canada Revenue Agency (the “CRA”) indicating that approximately $6,000 of GST liability, which he believed was part of settlement, did not go to decrease the liability under the ETA according to him. It is not surprising to me that Michael Shieh experienced some confusion as to exactly what amount he was liable for. The key issue though for this Court to determine is whether Catherine Shieh has any liability under the Acts and not in sorting out the exact amount of the liability. For this condition to be met there simply must be a liability at the time of the transfer in 2004. Michael Shieh did not deny that, at the time of the transfer he did indeed face a liability under the Acts. That is sufficient to meet the first requirement.
+II. TRANSFER OF PROPERTY
+[5] There is no dispute there was a transfer of property (3591Ulsmore Avenue, Richmond, BC) from Michael Shieh to Catherine Shieh in November 2004. Michael Shieh had bought the property in 1998 with the help of his parents funding the down payment. He lived in the property for a brief period before moving to the United States, after which his brother lived in the property.
+[6] The reason Michael Shieh gave for transferring the property to his mother was to give his parents an opportunity to build their dream home, and to pay them back for the support they provided to him for many years. I found this reasoning somewhat unclear, as his parents did not move into the home permanently, as they already had a residence. Michael Shieh did testify that his mother lived in the property for a brief period of time, but his brother did likewise live in the property for some time. It also sat empty for a period. Michael Shieh’s explanation of this arrangement lacked clarity.
+[7] In any event, the second condition is met.
+III. BETWEEN NON-ARM’S LENGTH PERSONS
+[8] There is no dispute on this score that the transfer was from son to mother, being non-arm’s length persons.
+IV. DID THE FAIR MARKET VALUE OF THE PROPERTY EXCEED THE CONSIDERATION GIVEN BY CATHERINE SHIEH?
+[9] There is also no dispute that the fair market value at the time of the transfer in November 2004 was $302,000. The Minister accepted that Catherine Shieh assumed an outstanding mortgage of $160,725. It was shown at trial that the mortgage was in fact considerably less than this, at $132,000.
+[10] At the time of the transfer, Catherine Shieh signed a release which stated as follows:
+I, Catherine Shieh, of 3591 Ulsmore Avenue, Richmond, British Columbia for and in consideration of the transfer to me of the property…by my son, Michael Shieh in repayment of a debt totalling approximately $200,000 (the receipt and sufficiency of which is hereby acknowledged) do hereby on behalf of myself, my heirs, executors, administrators, successors and assigns release and forever discharge Michael Shieh…
+[11] A letter from the law firm of Campbell Froh May & Rice LLP to Michael Shieh on November 8, 2004, stated:
+We confirm your recent attendance at our office to execute the conveyancing documents to transfer the subject property to your mother in consideration of the forgiveness of the debt owed to her by you in the approximate amount of $200,000 and the assumption by her of the outstanding balance owing to the Bank of Montreal under that mortgage…
+[12] Michael Shieh testified that the $200,000 debt referred to in the transfer constituted the following:
+Education loan $69,000
+Automobile loan $26,500
+Business loan $60,000
+Personal loan $18,200
+Mortgage and property taxes$16,000
+Loan for legal expenses $10,000
+[13] Michael Shieh was unable to provide any supporting documentation for these loans other than approximately $10,000 which appeared on his parents’ cheque register from 1993 to 2001. Neither Catherine Shieh nor her husband testified. Catherine Shieh is not well versed in English, she is elderly and she suffers from Alzheimer disease. Michael Shieh produced an unsworn Affidavit dated June 5, 2015 from his parents, which in the normal course I would not accept as it would be inadmissible hearsay, but in the circumstances, I am prepared to consider it. Catherine Shieh confirms that she and her husband “had supported our son, Michael Shieh, financially for many years,” “supported him financially when he went to UBC,” “helped with his accounting practice,” “helped purchased a used BMW,” “paid his mortgage and property taxes,” “paid for the legal fees.” Nowhere do they indicate the financial assistance was a loan, intended to be repaid.
+[14] Michael Shieh acknowledged that the financial support was not documented in any fashion nor were there any terms of repayment. It was simply a family arrangement. His view was that as a parent you would expect repayment from your children. He confirmed he never did make any repayments other than the transfer of the property to his mother.
+[15] Respondent’s counsel referred me to some case law which dealt with the evidentiary burden on a taxpayer to prove the consideration given. Although, viva voce evidence is some evidence, it is more convincing when corroborated by independent testimony, or failing that, any other oral testimony (in this case, Michael Shieh’s father might have testified), as well as some supporting documents (for example, actual loan documents – though I recognize this is likely uncommon in family arrangements), bank statements, records kept of the amount of the loans, cancelled cheques – frankly, anything would help. Michael Shieh was unable to provide any additional evidence other than his testimony and his parents’ Affidavit.
+[16] I draw the following conclusions from this evidence:
+Michael Shieh’s parents helped him financially with education, business, personal and legal issues.
+The amount of support has not been proven definitively.
+The support was what Michael Shieh expects a parent would provide to a child.
+There was no obligation to repay the support other than a moral, familial bond creating something of a hope.
+[17] Although I appreciate Michael Shieh’s view that a child needs to return the support a parent provides a child, I do not agree that this is the hard consideration contemplated by the relevant provisions in the Acts. The moral responsibility is difficult to quantify and difficult to identify any concrete terms. I conclude Catherine Shieh is liable under the Acts jointly and severally with Michael Shieh for his liability under those Acts.
+[18] I recognize that Michael Shieh has not been satisfied that the CRA have correctly calculated the amount left owing: it is indeed a moving target. But that is a collection issue. Catherine Shieh is liable for what Michael Shieh owed at the time of the transfer of property less any payments Michael Shieh has made towards that debt. Any such payments will reduce the liability his mother is now facing. The amount left owing is to be sorted out between Michael Shieh and the CRA: it is not for this Court to act in the role of accountant to determine the liability remaining. I do note, however, Michael Shieh’s concern regarding the transfer of $6,000 worth of the GST liability from 1998, 1999, 2000 and 2001 taxation years to the 2002 taxation year. It was his understanding such amounts were to be deleted altogether as part of the settlement. I would suggest this is an area the Parties need to explore in satisfying Michael Shieh the liability has been correctly calculated.
+[19] This Court’s mandate is to determine if Catherine Shieh is jointly and severally liable and I have decided that she is, whatever the correct amount left owing turns out to be.
+[20] The Appeals are dismissed.
+Signed at Ottawa, Canada, this 30th day of July 2018.
+“Campbell J. Miller”
+C. Miller J.
+CITATION:
+2018 TCC 154
+COURT FILE NOS.:
+2016-1147(GST)I, 2016-904(IT)I
+STYLE OF CAUSE:
+CATHERINE SHIEH AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+June 21, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+July 30, 2018
+APPEARANCES:
+Agent for the Appellant:
+Michael Shieh
+Counsel for the Respondent:
+Kayla Baldwin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

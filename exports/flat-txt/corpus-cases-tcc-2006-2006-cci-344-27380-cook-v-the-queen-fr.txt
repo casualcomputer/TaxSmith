@@ -1,0 +1,143 @@
+Title: Cook v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27380/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-344-27380-cook-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-06-23
+
+# Cook v. The Queen
+
+- Citation: 2006 CCI 344
+- Decision date: 2006-06-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 137, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cook v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-23
+Référence neutre
+2006 CCI 344
+Numéro de dossier
+2003-3479(IT)G
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3479(IT)G
+ENTRE :
+CLIFFORD COOK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 31 mai 2006 à Winnipeg (Manitoba)
+Devant : L'honorable juge R. D. Bell
+Comparutions :
+Avocat de l'appelant :
+Me Kris Janovcik
+Avocat de l'intimée :
+Me Julien Bédard
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté par l'appelant visant son année d'imposition 1998 est accueilli au motif qu'un montant de 1 538 $ a été inclus à tort dans son revenu et que la pénalité prévue au paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi » ) a été imposée erronément et doit être annulée.
+L'appel de l'appelant visant l'année d'imposition 1999 est accueilli dans la mesure où :
+a) la somme de 25 000 $ n'était pas un avantage visé au paragraphe 15(1) de la Loi qui lui avait été conféré par Stevens & Cook Ltd. et elle doit être exclue de son revenu pour l'année en cause;
+b) le montant de 3 288 $, comme l'admet l'intimée, doit être exclu du revenu de l'appelant pour l'année en cause;
+c) la pénalité prévue au paragraphe 163(2) de la Loi a été imposée à tort et doit être annulée.
+Les nouvelles cotisations sont déférées au ministre du Revenu national pour qu'il procède à un nouvel examen et qu'il établisse une nouvelle cotisation conformément aux motifs du jugement ci-joints.
+L'appelant a droit aux dépens.
+Signé à Ottawa, Canada, ce 23e jour de juin 2006.
+« R. D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 2e jour de janvier 2007.
+Mario Lagacé, jurilinguiste
+Référence : 2006CCI344
+Date : 20060623
+Dossier : 2003-3479(IT)G
+ENTRE :
+CLIFFORD COOK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bell
+QUESTIONS EN LITIGE
+[1] Les questions en litige sont les suivantes :
+1. Est-ce que les sommes de 1 538 $ et de 886 $ ont été incluses à juste titre dans le revenu de l'appelant pour son année d'imposition 1998?
+2. Est-ce que les sommes de 25 000 $ et de 3 288 $ ont été incluses à juste titre dans le revenu de l'appelant pour son année d'imposition 1999?
+3. Est-ce que les pénalités prévues au paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi » ) ont été imposées à juste titre?
+[2] L'intimée a tranché la première question à l'audition de l'appel en admettant que la somme de 1 538 $ a été incluse à tort dans le revenu de l'appelant et qu'elle avait été incluse à juste titre dans le revenu de Stevens & Cook Ltd.
+L'intimée a tranché, en partie, la deuxième question à l'audition de l'appel en admettant que la somme de 3 288 $ a été incluse à tort dans le revenu de l'appelant.
+[3] En ce qui concerne la troisième question, l'intimée a admis que les pénalités prévues au paragraphe 163(2) de la Loi ont été imposées à tort.
+[4] Par conséquent, l'appel interjeté par l'appelant visant les années d'imposition 1998 et 1999 sera accueilli dans la mesure décrite ci-dessus. Il me reste ainsi à statuer sur la question de savoir si la somme de 25 000 $ a été incluse à juste titre dans le revenu de l'appelant pour son année d'imposition 1999.
+FAITS
+[5] En ce qui a trait à l'année d'imposition 1999, l'exposé conjoint des faits indique ce qui suit :
+[traduction]
+1. Il est convenu que, le 30 décembre 1999, un montant de 25 000 $ qui figurait sur un chèque (dont une copie a été soumise à la Cour) établi par Northland Rail Line Salvage Ltd. à l'ordre de Stevens & Cook Ltd. (ci-après « S & C » ) a été erronément porté par le teneur de comptes de S & C au compte des prêts à l'actionnaire, Clifford Cook, auprès de S & C plutôt qu'au compte des produits de S & C.
+2. Il est convenu que Clifford Cook n'a joué aucun rôle dans l'opération erronée décrite au paragraphe 1 ci-dessus et qu'il n'en a pas eu connaissance.
+3. Il est convenu qu'au moment de l'opération erronée, le compte des prêts à l'actionnaire, Clifford Cook, avait un solde débiteur d'environ 30 000 $.
+4. Il est convenu que des écritures comptables ont été effectuées régulièrement dans le compte des prêts à l'actionnaire, Clifford Cook, avant et après l'opération erronée.
+5. Il est convenu qu'un retrait d'une somme forfaitaire de 25 000 $ n'a jamais été fait par Clifford Cook après l'opération erronée.
+6. Il est convenu qu'aucun retrait n'a été fait du compte des prêts à l'actionnaire, Clifford Cook, après l'opération erronée effectuée en 1999.
+L'appelant a admis que le montant de 5 464 $ devait être inclus dans son revenu pour son année d'imposition 1999, et l'intimée a admis, comme je l'ai mentionné précédemment, que le montant de 3 288 $ y avait été inclus à tort. L'appelant affirme que la somme de 25 000 $ a été incluse de façon erronée dans son revenu pour son année d'imposition 1999 parce qu'elle a été tenue pour un avantage au sens du paragraphe 15(1) de la Loi, comme l'indique la réponse à l'avis d'appel.
+ANALYSE ET CONCLUSIONS
+Je souscris aux arguments de l'avocat de l'appelant selon lesquels la somme de 25 000 $ n'aurait pas dû être incluse dans le revenu de l'appelant à titre d'avantage au sens du paragraphe 15(1) de la Loi.
+[6] Les dispositions pertinentes du paragraphe 15(1) de la Loi sont ainsi rédigées :
+La valeur de l'avantage qu'une société confère, à un moment donné d'une année d'imposition, à un actionnaire [...] est incluse dans le calcul du revenu de l'actionnaire pour l'année [...] si cet avantage est conféré autrement que : [...]
+Suivent certaines précisions qui ne s'appliquent pas en l'espèce.
+[7] Le montant de 25 000 $ a été porté par erreur au compte des prêts à l'actionnaire établi au nom de l'appelant. Il est convenu que l'appelant n'a joué aucun rôle dans cette opération et qu'il n'en a pas eu connaissance. Il est énoncé au paragraphe 14 de l'avis d'appel que, lorsque l'Agence des douanes et du revenu du Canada (l' « ADRC » ) a découvert l'erreur d'écriture comptable, elle l'a corrigée en débitant le compte des prêts à l'actionnaire et en créditant le compte des produits, et que la société de l'appelant, Stevens & Cook Ltd., a payé de l'impôt sur les produits concernés. Le paragraphe de la réponse à l'avis d'appel traitant de ce passage de l'avis d'appel est ainsi rédigé :
+[traduction]
+Il explique l'alinéa 14c) de l'avis d'appel en affirmant que l'Agence des douanes et du revenu du Canada (l' « ADRC » ) a conclu que l'écriture de journal qui consistait à créditer le compte des prêts à l'actionnaire constituait une inscription erronée de l'opération, mais qu'elle n'a pas corrigé l'erreur étant donné que l'ADRC ne corrige pas les erreurs relatives à la tenue des comptes.
+En présentant ses arguments, l'avocat de l'appelant a affirmé que, lorsque l'erreur a été découverte, elle a été redressée au moyen d'une écriture de contre-passation qui a fait en sorte que la somme de 25 000 $ s'est ajoutée à la dette que l'appelant avait envers la société. Cette affirmation n'a pas été contestée par l'avocat de l'intimée.
+[8] L'avocat de l'appelant a renvoyé aux décisions suivantes :
+1. Dans l'affaire Chopp v. R., 95 D.T.C. 527, un employé a inscrit à tort un montant de 28 490 $ au débit du compte des frais de justice au lieu du compte des prêts aux actionnaires. L'erreur a été découverte lors d'une vérification réalisée par Revenu Canada, et la somme a été incluse dans le revenu de l'appelant au motif que la société avait conféré à l'appelant un avantage visé au paragraphe 15(1) de la Loi. À la page 531 de la décision, la Cour a affirmé ce qui suit :
+Je ne puis retenir l'argument que l'intimée a énoncé d'une façon générale, à savoir qu'une erreur comptable qui profite à un actionnaire au détriment de la corporation est un avantage au sens du paragraphe 15(1), même si l'erreur n'était pas intentionnelle et même si l'actionnaire n'était pas au courant de cette erreur. À mon avis, si la valeur d'un avantage doit être comprise dans le calcul du revenu de l'actionnaire en vertu du paragraphe 15(1), l'avantage doit être conféré au su de l'actionnaire ou de son plein gré ou, subsidiairement, dans des circonstances où il est raisonnable de conclure que l'actionnaire aurait dû savoir que l'avantage lui avait été conféré. Les décisions que la Cour a rendues dans les affaires Simons v. M.N.R., 85 DTC 105 et Robinson v. M.N.R., 93 DTC 254 étayent mon point de vue.
+Dans l'affaire Simons, une série d'erreurs comptables avaient entraîné une surévaluation des achats de combustible et une sous-évaluation des bénéfices de la corporation. Pour équilibrer le bilan au 31 juillet 1977, le comptable de la corporation a porté la somme de 29 383 $ au crédit du compte de prêt d'actionnaire de M. Simons. Les mesures prises par le comptable étaient fondées sur une erreur et ont donc été prises sans que l'actionnaire individuel, M. Simons, lui donne des conseils ou des instructions, ou sans qu'il soit au courant de la chose ou qu'il l'approuve. Le ministre du Revenu national a ajouté la somme de 29 393 $ au revenu déclaré de M. Simons pour l'année 1977, en vertu du paragraphe 15(1) de la Loi. En admettant l'appel interjeté par M. Simons, la juge Kempo a dit ceci, à la page 108 :
+Selon la jurisprudence, la question de savoir si les capitaux ou les biens de la société ont été attribués à l'appelant en sa qualité d'actionnaire, ou pour servir à son profit, ou si la société lui a accordé un avantage en sa dite qualité, est principalement une question de fait et non une conclusion de droit [...].
+[...]
+On n'a offert dans aucun des deux cas une preuve concluante démontrant que l'appelant avait reçu, pendant son année d'imposition 1977, qui est celle à laquelle le présent appel est restreint, un avantage sensible par suite de cette écriture erronée de balance.
+[9] L'avocat de l'appelant a aussi renvoyé à la décision Long v. Canada, 98 D.T.C. 1420. Dans cette affaire, Clayton Long, l'actionnaire unique d'une société de travaux de construction, a construit une maison pour son propre usage. L'un des fournisseurs de la société a accompli des travaux de plomberie dans la maison et a soumis par erreur la facture de M. Long à la société de celui-ci. La société a payé la facture par inadvertance. Lorsque le comptable de la société a découvert l'erreur par la suite, il a effectué une écriture de contre-passation dans le compte fournisseur et a débité le compte des prêts de l'actionnaire. Le ministre du Revenu national a refusé que le compte des prêts de l'actionnaire soit débité et il a établi une nouvelle cotisation à l'égard de M. Long en incluant le montant de la facture dans le revenu de M. Long en tant qu'avantage conféré à un actionnaire visé au paragraphe 15(1) de la Loi. L'appel a été accueilli.
+[10] La décision M.N.R. v. Pillsbury Holdings Ltd., 64 D.T.C. 5184 a été mentionnée devant la Cour. Le juge Cattanach, en parlant de la version antérieure de l'article 15(1), a dit à la page 5187 de cette décision :
+[traduction]
+En appliquant l'alinéa c), il faut donner leur pleine importance à tous les mots employés dans cette disposition. Il doit y avoir un « bénéfice ou un avantage » et celui-ci doit être « attribué » par une corporation à un « actionnaire » . Le verbe « attribuer » signifie « accorder » ou « conférer » . Même si une corporation a adopté formellement une résolution pour accorder un privilège ou un statut spécial à des actionnaires, la question de savoir si la corporation avait l'intention d'attribuer un bénéfice ou un avantage aux actionnaires ou si elle l'a fait pour une autre raison ayant trait à l'exploitation de son entreprise, comme par exemple pour inciter les actionnaires à faire affaire avec la corporation, est une question de fait. Cela étant, il faut également considérer comme une question de fait chaque cas où le ministre soutient que, ce qui semble être une opération commerciale ordinaire entre une corporation et un actionnaire, est en réalité une façon d'accorder un avantage à l'actionnaire en tant qu'actionnaire.
+La Cour a plus tard affirmé :
+Je ne vois pas comment on peut dire qu'une erreur comptable dont le seul actionnaire de la société n'était pas au courant, qu'il n'a pas sanctionnée et qui n'était pas conforme aux pratiques établies de la société constitue « en réalité une façon d'accorder un avantage à l'actionnaire en tant qu'actionnaire » .
+[11] La somme de 25 000 $ ne constitue pas un avantage conféré par Stevens & Cook Ltd. à l'appelant. Il s'agit simplement d'une erreur comptable qui a été corrigée. Par conséquent, je suis arrivé à la conclusion que la somme de 25 000 $ n'aurait pas dû être incluse dans le revenu de l'appelant pour son année d'imposition 1999 en tant qu'avantage visé au paragraphe 15(1) de la Loi. Donc, l'appel interjeté par l'appelant visant l'année 1999 sera également accueilli dans la mesure où le montant de 25 000 $ qui a été inclus dans son revenu pour l'année en question dans la nouvelle cotisation l'a été à tort.
+[12] Comme je l'ai déjà dit, le ministre a admis qu'il n'y avait pas lieu d'imposer de pénalité et que les pénalités établies devaient donc être annulées.
+Signé à Ottawa, Canada, ce 23e jour de juin 2006.
+« R. D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 2e jour de janvier 2007.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2006CCI344
+N º DU DOSSIER DE LA COUR : 2003-3479(IT)G
+INTITULÉ : Clifford Cook et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Winnipeg (Manitoba)
+DATE DE L'AUDIENCE : Le 31 mai 2006
+MOTIFS DU JUGEMENT : L'honorable juge R. D. Bell
+DATE DU JUGEMENT : Le 23 juin 2006
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Kris Janovcik
+Avocat de l'intimée :
+Me Julien Bédard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Me Kris Janovcik
+Cabinet : Tapper Cuddy LLP
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

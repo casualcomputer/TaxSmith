@@ -1,0 +1,173 @@
+---
+title: "Casa Blanca Homes Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64470/index.do"
+last_modified: "2013-10-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 338"
+citation2: ""
+neutral_citation: "2013 TCC 338"
+decision_date: "2013-10-25"
+language: "en"
+item_id: "64470"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5936
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:47:26.158000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d10e81148d28199fc55796afe0c6fdc739bc59182578a0f733fdcc54a4e60047"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Casa Blanca Homes Ltd. v. The Queen
+
+- Citation: 2013 TCC 338
+- Decision date: 2013-10-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5936, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Casa Blanca Homes Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-10-25
+Neutral citation
+2013 TCC 338
+File numbers
+2011-4001(GST)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-4001(GST)I
+BETWEEN:
+CASA BLANCA HOMES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 14, 2013, at Vancouver, British Columbia.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Agent for the Appellant:
+Suki Gill
+Counsel for the Respondent:
+Whitney Dunn
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under Part IX of the Excise Tax Act with respect to the reporting periods from March 1, 2006 to May 31, 2006, June 1, 2006 to September 13, 2006, and September 1, 2007 to November 30, 2007, the notice of which is dated October 2, 2009, is allowed and the reassessment is vacated in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 25th day of October 2013.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2013 TCC 338
+Date: 20131025
+Docket: 2011-4001(GST)I
+BETWEEN:
+CASA BLANCA HOMES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Factual Background
+[1] The facts in this appeal are, for the most part, not in dispute. Casa Blanca Homes Ltd. (the “Appellant”) is in the business of construction and sales in the area of real estate. In May 2006, the Appellant entered into 14 purchase agreements (the “Purchase Agreements”) with a property developer (the “Developer”), under each of which the Appellant acquired the right and took on the obligation to purchase an individual vacant lot at a later date.
+[2] In accordance with each Purchase Agreement, the Appellant paid a non‑refundable deposit (the “Deposit”) to the Developer. These Deposits constituted security with respect to the Appellant’s obligation to purchase the lots and, failing such purchase, were to be forfeited to the Developer as liquidated damages. Upon closing, the Deposits were to be applied against the total purchase price of the lots.
+[3] Of the 14 Purchase Agreements, the Appellant sold 12 to third-party purchasers (the “Assignees”) by way of a simple agreement binding these Assignees to fulfil the terms and conditions of the Purchase Agreements (the “Assignment Agreements”). The Assignment Agreements required the Assignees to pay two amounts. The first amount was a fee for the assignment of the Purchase Agreement (the “Assignment Fee”). The second amount was a payment equal to the value of the Deposit made under the Purchase Agreement (the “Deposit Recovery”). Altogether, the Appellant received $820,865 from the Assignees: $186,105 in Assignment Fees and $634,760 in Deposit Recoveries. Though the Assignment Fee and the Deposit Recovery were shown as separate amounts in the Assignment Agreements, each Assignee paid the Appellant with a single cheque.
+[4] The Appellant collected goods and services tax (GST) on the Assignment Fees only, and not on the Deposit Recoveries. The Minister of National Revenue (the “Minister”) reassessed the Appellant for the entire amount received from the Assignees. The issue in this appeal is whether the Appellant was required to collect GST on the full consideration it received. In other words, are the Deposit Recoveries subject to GST?
+II. Positions of the Parties
+(A) Appellant’s Position
+[5] The Appellant argues that the Deposit Recoveries are not subject to GST. In each of the Assignment Agreements, there were two separate supplies. One supply was of an interest in land, for which the Appellant received the Assignment Fee. The other supply was the Deposit, for which the Appellant received the Deposit Recovery. The Deposit Recovery was not consideration for an interest in real property but for an assignment of the Appellant’s interest in the Deposit.
+[6] According to the Appellant, the Deposit is a “debt security” and therefore a “financial instrument” within the meaning of subsection 123(1) of the Excise Tax Act (the “ETA”). Hence, the assignment of the Deposit from the Appellant to the Assignee was a transfer of ownership of a financial instrument and thus a GST-exempt supply of a financial service.
+[7] To conclude otherwise, argues the Appellant, would result in double taxation of the Assignee in that, under the Respondent’s theory in this case, GST was payable by an Assignee a first time when the Deposit Recovery was paid to the Appellant and a second time when the Deposit was applied by the Developer against the purchase price for each lot on behalf of the Assignee. As a result, the Assignee would be taxed a disproportionate amount of GST relative to the total purchase price of the lot.
+(B) Respondent’s Position
+[8] The Minister argues that the Deposit Recoveries are subject to GST because the Assignment Agreements operate to convey a single taxable supply of an interest in real property. The Deposit was an expense incurred in securing the interest in the land. The Deposit Recovery was a reimbursement for this expense and is subject to GST. Thus, there was not a separate exempt supply of a financial service.
+[9] According to the Respondent, this does not amount to double taxation on a single transaction but a single incidence of tax on each of two separate supplies. The first supply was between the Developer and the Appellant; the second was between the Appellant and the Assignee. Therefore, the Appellant assigned a single interest in property and was required to collect GST on the full amount of the consideration received.
+III - Analysis
+[10] The first issue to consider is whether the Appellant made one or more supplies within the meaning of the ETA. The Respondent contends that the Appellant made a single supply of an interest in real property and that the consideration was the total amount received for that supply, including the Deposit Recovery. The Appellant argues that it made two supplies: one being an interest in land, and the other, an interest in the Deposit, which Deposit is a financial instrument.
+[11] The relevant test to determine whether a supplier has made a single supply or multiple supplies is that adopted by Judge Rip (as he then was) in O.A. Brown Ltd. v. Canada.[1] This approach has recently been confirmed by the Supreme Court of Canada in Calgary (City) v. Canada.[2] In O.A. Brown, the appellant (“OAB”) bought at its own risk, livestock, to meet client specifications and subsequently resold the livestock to the clients who had ordered it. OAB was not an agent for its clients. In addition to the price of the livestock, OAB charged its clients a clearing commission and its disbursements for inoculating, branding and transporting the livestock. Livestock is a zero-rated supply under the ETA and OAB did not collect any GST. The Minister assessed GST on the disbursements and commission. The issue was whether OAB was making supplies of livestock, or whether it was making not only supplies of livestock but also other supplies, which were subject to GST.
+[12] Because this issue had not been considered before in Canada, Judge Rip looked to the United Kingdom’s jurisprudence on its value-added tax legislation. In that case law, the issue had been defined as being whether the supply in question is a compound supply or a multiple supply. A compound supply is a single supply with a number of constituent elements, of which, if supplied separately, some would be taxed and some not. Multiple supplies are made and taxed separately. Judge Rip adopted the following test to determine if a particular transaction involves a single supply or multiple supplies:
+22 . . . The test to be distilled from the English authorities is whether, in substance and reality, the alleged separate supply is an integral part, integrant or component of the overall supply. . . .[3]
+[13] A factor indicative of a single supply is the degree of interconnection and interdependence of the elements of the supply in question. Judge Rip quoted the following excerpt from Mercantile Contracts Ltd. v. Customs & Excise Commissioners (at paragraph 23 CarswellNat):[4]
+23 . . . one should look at the degree to which the services alleged to constitute a single supply are interconnected, the extent of their interdependence and intertwining, whether each is an integral part or component of a composite whole. . . .[5]
+[14] Conversely, a factor indicative of multiple supplies is that each alleged separate supply could be purchased individually and still be useful. Judge Rip stated:
+23 One factor to be considered is whether or not the alleged separate supply can be realistically omitted from the overall supply. This is not conclusive but is a factor that assists in determining the substance of the transaction. . . .
+24 . . . In each case it is useful to consider whether it would be possible to purchase each of the various elements separately and still end up with a useful article or service. For if it is not possible then it is a necessary conclusion that the supply is a compound supply which cannot be split up for tax purposes.[6]
+[15] In applying the test, Judge Rip held that the disbursements and commission could not be characterized as relating to “distinct supplies, independent of the whole activity”.[7] Instead, Judge Rip characterized the commission and the inoculation, branding and transportation costs as part of the consideration for the supply of the livestock:
+31 . . . In substance and reality, the alleged separate supply, that of a buying service, is an integral part of the overall supply, being the supply of livestock. The alleged separate supplies cannot be realistically omitted from the overall supply and in fact are the essence of the overall supply. The alleged separate supplies are interconnected with the supply of livestock to such a degree that the extent of their interdependence is an integral part of the composite whole.[8]
+[16] In 1219261 Ontario Inc. o/a Hidden Bay Lodge v. The Queen,[9] Justice Hershfield succinctly outlined the factors to be considered, noting that no one factor is determinative of the issue:
+12 As recognized by the English authorities cited in O.A. Brown, it would, lacking statutory authority, be wrong to attempt to propound a rigid and precise definition of a single (compound) supply. Factors include: the degree of interconnectedness of constituent elements of a supply; the extent of interdependence; and, whether each is an integral part or component of a composite whole. Whether the services are rendered under a single contract, or for a single undivided consideration, are matters to be considered but are not conclusive. . . .
+[17] In Gin Max Enterprises Inc. v. The Queen,[10] Justice McArthur added that common sense should not be ignored and that the application and weighing of the relevant factors is, for the most part, fact-specific:
+18 From a review of the case law, the question of whether two elements constitute a single supply or two or multiple supplies requires an analysis of the true nature of the transactions and it is a question of fact determined with a generous application of common sense. . . .
+19 Similar to tests in Wiebe Door Services Ltd. v. M.N.R, regarding the classification of an employee or independent contractor relationship, no one test is conclusive and this Court must examine and weigh all of the evidence.
+[Emphasis added.]
+[18] In a recent article,[11] Terry G. Barnett challenges the Minister’s assertion that the “single supply” concept is applicable to transactions such as the ones involved herein:
+. . . there are reasons why the conclusion based on single v. multiple supply analysis is not appropriate here. First, there is a question as to whether the deposit and the assignment of the contract are inextricably linked. It would be entirely possible, for example, for the assignee to pay a new deposit to the vendor who would then release the original deposit to the purchaser. Thus the assignee is not destined to make a replacement deposit payment to the purchaser. The opportunity to structure the transfer of the contract in this manner suggests that the link between assignment of the contract and the transfer of the entitlement to the deposit is not inextricable.
+Further, the single v. multiple supply analysis rests on the assumption that two or more properties or services are being supplied together. An investigation is required because, if provided separately, the supplies would not bear the same GST/HST status. A supply, however, is defined to mean “the provision of property or a service in any manner”. The definitions of property and services each exclude money. Thus the provision of money is not a supply under the ETA. Consequently, it is questionable whether the analysis has been correctly applied to result in a sum of money being merged with a supply of property to form a single supply. [12]
+[19] Mr. Barnett’s commentary challenges the conclusion based on a single supply versus multiple supplies analysis in two ways. First, he provides a hypothetical scenario which demonstrates that purchase deposits are generally not inextricably linked with the assignment of a purchase agreement. Transactions such as the Appellant’s are structured for simplicity and in such a manner as to ensure that there are no gaps in the developer’s security. The existence of the opportunity to structure a transaction of this nature in a manner which would not subject the Deposit to double taxation is illustrative of the fact that the Deposits and the Purchase Agreements are not so interconnected as to indicate a single supply. The Respondent argues that “[t]he need to resort to such hypotheticals to show separate supplies demonstrates the appellant itself only had a single, indivisible interest in real property to sell”.[13] I disagree; Mr. Barnett’s analysis provides compelling reasons why such transactions should be viewed as the conveying of two distinct assets.
+[20] Considering the evidence as a whole, I am of the opinion that two separate supplies were made under each of the Assignment Agreements. One supply was of an interest in land, for which the Appellant received the Assignment Fee and collected GST thereon. The other supply was the Deposit, for which the Appellant received the Deposit Recovery.
+[21] When the Assignee purchased the Deposit, it inherited the right to have that money used in one of three ways. One, if the Purchase Agreement is performed as contemplated, the Deposit would be applied against the purchase price. Two, if the Assignee fails to meet its obligations, the Deposit would be forfeited as liquidated damages to the Developer. Finally, if the Developer is unable to complete development of the lot by the completion date, the Developer would return the Deposit to the Assignee. The third scenario assumes the refund is available as an implied term of the Purchase Agreement, as discussed below. The Deposit is a “debt security” and therefore a “financial instrument” within the meaning of subsection 123(1) of the ETA.
+[22] If I am wrong on this point, I also subscribe to Mr. Barnett’s second argument that the assignment of a deposit is a “supply” at all. Specifically, in the present case, what the Appellant assigned to the Assignees was an interest in money, which is neither “property” nor a “service” under the ETA. A deposit can be characterized as a pool of money retained until such time as it is applied in partial payment or forfeited.
+[23] The Respondent argues that the Appellant did not receive an interest in money through the assignment of the Deposit. There was no exchange of money. The Developer maintained possession of the Deposit, which was non‑refundable. There was nothing explicit in either the Purchase Agreements or the Assignment Agreements which created a right to the refund of the Deposits in the event of default on the part of the Developer.
+[24] I disagree. The Assignee can also be viewed as having acquired a right to money. A deposit, by its very nature, is money held by a vendor for the benefit of a purchaser. Here, the Appellant assigned its beneficial ownership of the money to the Assignees. On the completion date stated in the Purchase Agreement, the Deposit would be applied against the purchase price of the lot for the benefit of the Assignee. If the Assignee fails to fulfil its obligation under the Purchase Agreement, the Deposit will be used as liquidated damages from the Assignee. In the Appellant’s reply to the Respondent’s written submissions,[14] the Appellant claims that the Deposits would have been refunded by the Developer if the lots were not delivered by the completion date, even though the Purchase Agreements explicitly stated that the Deposits were non‑refundable. The refundable nature of a deposit is considered an implied term with regard to deposits. In Howe v. Smith, the seminal case on the nature of deposits, Fry L.J. held as follows:
+. . . The terms most naturally to be implied appear to me in the case of money paid on the signing of a contract to be that in the event of the contract being performed it shall be brought into account, but if the contract is not performed by the payer it shall remain the property of the payee.[15]
+[Emphasis added.]
+[25] In summary, I am of the view that there are two supplies and each Deposit is a “debt security” and a “financial instrument”. The assignment of the Deposits can also be considered an assignment of a beneficial interest in money, which is not a “supply” within the meaning of the ETA. In either case, the consideration paid for the Deposit Recoveries is not subject to GST. This interpretation also avoids double taxation, which I believe, was not intended by Parliament. For these reasons, the appeal is allowed.
+Signed at Ottawa, Canada, this 25th day of October 2013.
+“Robert J. Hogan”
+Hogan J.
+CITATION: 2013 TCC 338
+COURT FILE NO.: 2011-4001(GST)I
+STYLE OF CAUSE: CASA BLANCA HOMES LTD. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: June 14, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: October 25, 2013
+APPEARANCES:
+Agent for the Appellant:
+Suki Gill
+Counsel for the Respondent:
+Whitney Dunn
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 1995 CarswellNat 37, [1995] G.S.T.C. 40 (TCC).
+[2] 2012 SCC 20, [2012] 1 S.C.R. 689.
+[3] O.A. Brown (CarswellNat).
+[4] File No. LON/88/786, U.K. (unreported).
+[5] O.A. Brown (CarswellNat).
+[6] Ibid.
+[7] Ibid., at para. 31.
+[8] Ibid.
+[9] 2004 TCC 48, 2004 CarswellNat 78.
+[10] 2007 TCC 223, 2007 CarswellNat 1149.
+[11] Terry G. Barnett, “The ‘Dirt’ on Residential Real Estate”, presented at the September 26-27, 2011 CICA Commodity Tax Symposium.
+[12] Ibid., at p. 6.
+[13] Respondent’s Written Submissions, at para. 12.
+[14] Appellant’s response to Respondent’s Written Submissions, first page.
+[15] (1884) 27 Ch. 89 (Eng. C.A.), at p. 101, as cited in Waugh v. Pioneer Logging Co., [1949] S.C.R. 299, at 326.

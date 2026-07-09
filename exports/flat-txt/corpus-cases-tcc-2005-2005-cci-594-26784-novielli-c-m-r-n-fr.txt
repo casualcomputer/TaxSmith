@@ -1,0 +1,113 @@
+Title: Novielli c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26784/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-594-26784-novielli-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-09-02
+
+# Novielli c. M.R.N.
+
+- Citation: 2005 CCI 594
+- Decision date: 2005-09-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3464, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Novielli c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-02
+Référence neutre
+2005 CCI 594
+Numéro de dossier
+2005-1452(EI)
+Juges et Officiers taxateurs
+Michael J. Bonner
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2005-1452(EI)
+ENTRE :
+JOE NOVIELLI,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 31 août 2005 à Toronto (Ontario),
+devant l’honorable juge Michael J. Bonner
+Comparutions
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Stacey Sloan
+____________________________________________________________________
+ORDONNANCE
+Vu la demande faite en vue d’obtenir une ordonnance rejetant l’appel;
+Vu la déclaration sous serment de Michel Lalande;
+Et vu les allégations des parties;
+La requête est accueillie et l’appel est rejeté.
+Signé à Toronto (Ontario), ce 2e jour de septembre 2005.
+Michael J. Bonner
+Juge Bonner
+Traduction certifiée conforme ce 18e jour d’octobre 2005.
+Fabienne Painchaud, traductrice
+Référence : 2005CCI594
+Date : 20050902
+Dossier : 2005-1452(EI)
+ENTRE :
+JOE NOVIELLI,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Bonner
+[1] L’intimé demande à la Cour d’ordonner le rejet de l’appel dans la présente affaire.
+[2] Il a exposé ses motifs dans les termes suivants dans son avis de requête :
+[TRADUCTION]
+a) Au moment où l’appelant a déposé son avis d’appel à la Cour, l’intimé n’avait pas encore rendu de décision sur une question, ainsi que le prévoit l’article 91 de la Loi sur l’assurance‑emploi (la « Loi »);
+b) Il n’y a aucune décision en appel et, par conséquent, aucune raison de déposer un appel conformément à l’article 103 de la Loi.
+[3] Le corps de l’avis de l’appel est bref. En voici le texte :
+[TRADUCTION]
+Motifs de l’appel
+Je crois être admissible à un remboursement de cotisations d’A‑E. pour la période de 1989 à 2004, car c’est en 1989 que j’ai commencé à contester mon admissibilité à l’assurance‑emploi et à faire valoir que je n’avais aucune obligation de verser des cotisations d’assurance‑emploi. Je ne suis pas d’accord avec la décision selon laquelle je recevrai un remboursement pour quatre années seulement, car je ne suis pas admissible à l’assurance‑emploi depuis 15 ans; cela fait maintenant 15 ans que je tente d’être soustrait à l’obligation de payer ces cotisations. J’ai cependant été contraint de les payer.
+[4] Ce document a été considéré comme une tentative d’interjeter appel à la Cour, en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi »), d’une décision en appel devant le ministre du Revenu national (le ministre) en vertu de l’article 91 de la Loi.
+[5] L’article 91 de la Loi prévoit qu’une décision rendue sur demande présentée en vertu de l’article 90 sur la question de savoir si un emploi est assurable peut être portée en appel devant le ministre.
+[6] Suivant les dispositions applicables, il ne peut être interjeté appel à la Cour que par une personne que concerne une décision portée en appel devant le ministre en vertu de l’article 91.
+[7] La déclaration sous serment de Michel Lalande, déposée par le ministre, établit qu’une décision a été rendue en vertu de l’article 90 et que, d’après cette décision, l’emploi occupé par l’appelant au cours des années 2000 à 2003 n’était pas assurable. Cette décision a apparemment satisfait l’appelant et a donné lieu à un remboursement de cotisations.
+[8] La plainte de l’appelant porte sur les années 1989 à 2000 et 2004. La déclaration sous serment de M. Lalande établit qu’aucune décision n’a à quelque moment que ce soit été portée en appel devant le ministre en vertu de l’article 91 de la Loi et qu’aucune décision n’a été rendue en vertu de l’article 61 de la Loi sur l’assurance‑chômage relativement à l’une ou l’autre de ces années.
+[9] L’appelant a refusé de témoigner pour établir que, contrairement à ce que l’on peut lire dans la déclaration sous serment de Lalande, une décision ministérielle pouvant être portée en appel avait été rendue à un moment quelconque.
+[10] L’appelant a indiqué qu’il souhaitait obtenir des copies de dossiers d’assurance‑emploi concernant son statut aux fins de la Loi. J’ai offert de lui accorder un ajournement pour lui permettre d’obtenir ces dossiers, mais il a décliné l’offre, choisissant plutôt de se livrer à une déclamation gratuite sur le traitement qu’il estimait être en droit de recevoir en vertu de lois qui, d’après ce que je peux voir, n’ont jamais été édictées. La déclaration non assermentée de M. Novielli selon laquelle, en 1989, il a appelé un fonctionnaire dont le nom est inconnu et lui a déclaré que son emploi n’était pas assurable, n’est pas une raison de rejeter la présente requête.
+[11] En l’absence d’une décision ministérielle pouvant être portée en appel à la Cour, je dois accueillir la requête et rejeter l’appel.
+Signé à Toronto (Ontario), ce 2e jour de septembre 2005.
+Michael J. Bonner
+Juge Bonner
+Traduction certifiée conforme ce 18e jour d’octobre 2005.
+Fabienne Painchaud, traductrice
+RÉFÉRENCE : 2005CCI594
+No DU DOSSIER DE LA COUR : 2005-1452(EI)
+INTITULÉ DE LA CAUSE : Joe Novielli et M.R.N.
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : 31 août 2005
+MOTIFS DE L’ORDONNANCE : L’honorable juge Michael J. Bonner
+DATE DE L’ORDONNANCE : 2 septembre 2005
+COMPARUTIONS
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Stacey Sloan
+AVOCAT INSCRIT AU DOSSIER
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

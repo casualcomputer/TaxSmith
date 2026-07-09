@@ -1,0 +1,144 @@
+---
+title: "Hamilton v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31209/index.do"
+last_modified: "2013-05-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 192"
+citation2: ""
+neutral_citation: "2013 TCC 192"
+decision_date: "2013-05-10"
+language: "en"
+item_id: "31209"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5049
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:07:46.025000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bc42a8a33cbc3f0592923b00709ca2364881e61a57fb03df46ba94ff1210a5bd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hamilton v. The Queen
+
+- Citation: 2013 TCC 192
+- Decision date: 2013-05-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5049, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hamilton v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-05-10
+Neutral citation
+2013 TCC 192
+File numbers
+2012-4503(IT)APP
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-4503(IT)APP
+BETWEEN:
+ANDREA HAMILTON,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on May 10, 2013 at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Applicant:
+Dale Barrett
+Counsel for the Respondent:
+Rishma Bhimji
+Kathleen Beahen
+____________________________________________________________________
+ORDER
+The application for extension of time in which the Applicant can file a Notice of Appeal of the reassessments for her 2008 and 2009 taxation years is dismissed.
+The Respondent is awarded costs of $500.
+Signed at Ottawa, Canada, this 18th day of June 2013.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2013TCC192
+Date: 20120618
+Docket: 2012-4503(IT)APP
+BETWEEN:
+ANDREA HAMILTON,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+V.A. Miller J.
+[1] This is an application for extension of time for Andrea Hamilton to file an appeal of the reassessments for her 2008 and 2009 taxation years. The application was filed by her lawyer Dale Barrett on November 12, 2012.
+[2] The Respondent has opposed this application on the basis that it was filed beyond the 90 day period allowed by section 169 of the Income Tax Act (the “Act”). In support of its position, the Respondent relied on the affidavit of Maggie Chiu, an officer in the Toronto Litigation Office of the Canada Revenue Agency (“CRA”). The affidavit disclosed that a Notice of Confirmation for the Applicant’s 2008 and 2009 taxation years was mailed to the Applicant and a copy was sent to her lawyer on August 7, 2012. The 90 days following the date of mailing of the confirmation was November 5, 2012. Consequently, this application was filed 7 days late.
+[3] The Respondent filed its Reply opposing this application and the affidavit of Maggie Chiu on April 26, 2013. Both the Reply and the affidavit were sent by registered mail on April 27, 2013 to Mr. Barrett and they were received by him on May 1, 2013.
+[4] On May 8, 2013, Mr. Barrett filed the affidavits of Andrea Hamilton and Gordon Buchan in support of this application. These affidavits were sent to counsel for the Respondent at 5:19 P.M. on May 8. Counsel confirmed receipt of the affidavits and asked that the affiants be present at the hearing of this application on May 10, 2013.
+[5] Neither affiant was present at the hearing.
+[6] Counsel for the Respondent has not been given an opportunity to question the affiants on their affidavits and I find that there are questions that arise from both affidavits.
+[7] Gordon Buchan’s affidavit was not completed in accordance with section 19 of the Tax Court of Canada Rules (General Procedure) (“the Rules”). Neither of the documents attached to the affidavit and marked as exhibit “A” and exhibit “B” was endorsed by the person before whom the affidavit was sworn. The affidavit was sworn in Montreal and the documents attached as exhibits are from Mr. Barrett’s office in Toronto. It appears to me that these documents were attached to the affidavit after it was completed.
+[8] One of the exhibits attached to both affidavits was an email from a person called Lang Lam which contained an email from the Applicant to Gordon Buchan. There was no explanation given for Lang Lam’s email.
+[9] In her affidavit, the Applicant stated that she instructed Barrett Tax Law to file a Notice of Appeal within the time limited under section 169 of the Act. She also stated that she did not know why Barrett Tax Law had to file an application for extension of time because the firm should have been able to file the Notice of Appeal on time. However, in the application for extension of time, Dale Barrett states that the Notice of Appeal was not filed on time because his client was unable to “come up with the appropriate filing fee until now”.
+[10] Counsel for the Applicant stated that the Applicant had a bone fide intention to appeal the reassessment of her 2008 and 2009 taxation years. In effect, his argument is that the delay in filing the Notice of Appeal was caused by negligence in his office.
+[11] Counsel for the Applicant relied on the decision in Dufour v MNR, [1989] TCJ No. 902 for the proposition that where a taxpayer’s failure to file a Notice of Appeal within the time period was due to a mistake by an accountant or lawyer, the Tax Court has often ruled in favour of an application by a taxpayer.
+[12] In Dufour, the taxpayer gave evidence at the hearing and his evidence was accepted. He was able to satisfy the court that he met the conditions of paragraph 167(5)(b) of the Act which are:
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application
+(iii) the application was made as soon as circumstances permitted, and
+(iv) (iv) there are reasonable grounds for the appeal.
+[13] In the present application, the Applicant did not appear to give evidence nor was she available to be cross examined on her affidavit. She does not speak to the filing fee in her affidavit which was the sole reason given in the application for not filing the Notice of Appeal on time. Her affidavit raised questions about the reasons for not filing the appeal within 90 days and it is questionable whether the reasons given in her affidavit were correct. I find that I do not know the real reason why the Applicant’s Notice of Appeal was not filed on time.
+[14] Counsel for the Applicant also relied on the decision in Miniotas v Canada, 2011 TCC 43 where the court gave the benefit of doubt to the taxpayer and found that a letter addressed to the Tax Court but sent to the CRA was a valid application for an extension of time to appeal. I note that in that case, the taxpayer appeared at the hearing of the application. The court could not find out why the letter was sent to the CRA instead of the Tax Court because the author of the letter had died.
+[15] The question in this application is whether in the circumstances of this case, it would be just and equitable to allow the application for extension of time.
+[16] Given that there are conflicting reasons given in the application and the Applicant’s affidavit for the delay in filing the Notice of Appeal, the evidence of the Applicant is relevant. The Applicant should have been available to testify at the hearing: Alexandre v. Canada, 2005 TCC 414. Counsel for the Respondent asked for the affiants to be present at the hearing. On May 9, 2013, counsel for the Applicant wrote that they could not attend. No explanation was given.
+[17] The Applicant knew well in advance of the hearing of this application that the Respondent intended to oppose the application. However, counsel for the Applicant filed and served the Applicant’s affidavit one day before the hearing when it should have been filed and served at least seven days prior to the hearing in accordance with subsection 67(6) of the Rules. This would have allowed counsel for the Respondent an opportunity to cross examine the Applicant on her affidavit.
+[18] In conclusion, I have given the affidavits no weight because the affiants should have been made available for cross-examination.
+[19] The application is dismissed and the Respondent is awarded costs of $500.
+Signed at Ottawa, Canada, this 18th day of June 2013.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2013TCC192
+COURT FILE NO.: 2012-4503(IT)APP
+STYLE OF CAUSE: ANDREA HAMILTON AND
+THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 10, 2013
+REASONS FOR ORDER BY: The Honourable Justice Valerie Miller
+DATE OF ORDER: June 18, 2013
+APPEARANCES:
+Counsel for the Applicant:
+Dale Barrett
+Counsel for the Respondent:
+Rishma Bhimji
+Kathleen Beahen
+COUNSEL OF RECORD:
+For the Applicant:
+Name: Dale Barrett
+Firm: Barrett Tax Law
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

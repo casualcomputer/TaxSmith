@@ -1,0 +1,257 @@
+---
+title: "Sentinel Hill Productions IV Corporation c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31283/index.do"
+last_modified: "2013-08-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 267"
+citation2: ""
+neutral_citation: "2013 CCI 267"
+decision_date: "2013-08-27"
+language: "fr"
+item_id: "31283"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4970
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:06:52.981000+00:00"
+cases_cited_count: 2
+cases_citing_count: 9
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2717783f2a016b330b90cac5403c461da3888ddf6e3eeb8aa4b42de9aee2a72f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sentinel Hill Productions IV Corporation c. La Reine
+
+- Citation: 2013 CCI 267
+- Decision date: 2013-08-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4970, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sentinel Hill Productions IV Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-08-27
+Référence neutre
+2013 CCI 267
+Numéro de dossier
+2009-2247(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2247(IT)G
+ENTRE :
+SENTINEL HILL PRODUCTIONS IV CORPORATION,
+en sa qualité d’associée désignée de
+Sentinel Hill No. 207 Limited Partnership,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2009-2248(IT)G
+ET ENTRE :
+SENTINEL HILL PRODUCTIONS IV CORPORATION,
+en sa qualité d’associée désignée de
+SHAAE (2001) Master Limited Partnership,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Demandes entendues le 4 juin 2013, à Toronto (Ontario).
+Par : L’honorable juge Judith M. Woods
+Comparutions :
+Avocats des appelantes :
+Me Yves St‑Cyr
+Me Mark Jadd
+Avocats de l’intimée :
+Me Robert Carvalho
+Me Ifeanyi Nwachukwu
+__________________________________________________________________
+ORDONNANCE
+Vu les demandes présentées par les appelantes en vue d’obtenir la détermination d’une question de droit en application de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale), les demandes sont rejetées. L’intimée a droit aux dépens en ce qui concerne les demandes, un seul mémoire de frais étant accordé au titre des honoraires d’avocats pour les deux demandes.
+Signé à Winnipeg (Manitoba), ce 27e jour d’août 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 10e jour de décembre 2013.
+François Brunet, réviseur.
+Référence : 2013 CCI 267
+Date : 20130827
+Dossier : 2009-2247(IT)G
+ENTRE :
+SENTINEL HILL PRODUCTIONS IV CORPORATION,
+en sa qualité d’associée désignée de
+Sentinel Hill No. 207 Limited Partnership,
+appelante,
+et
+SA MAJESTÉ LA REINE
+intimée.
+Dossier : 2009-2248(IT)G
+ET ENTRE :
+SENTINEL HILL PRODUCTIONS IV CORPORATION,
+en sa qualité d’associée désignée de
+SHAAE (2001) Master Limited Partnership,
+appelante,
+et
+SA MAJESTÉ LA REINE
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Woods
+[1] En l’espèce, les appelantes ont présenté des demandes en détermination d’une question en vertu de l’alinéa 58(1)a) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »). Selon l’intimée, il n’est pas approprié de statuer sur la question par cette voie de recours. Voici mes motifs concernant cette question.
+[2] Le paragraphe 58(1) des Règles dispose :
+58(1) Une partie peut demander à la Cour,
+a) soit de se prononcer, avant l’audience, sur une question de droit, une question de fait ou une question de droit et de fait soulevée dans une instance si la décision pourrait régler l’instance en totalité ou en partie, abréger substantiellement l’audience ou résulter en une économie substantielle des frais;
+b) soit de radier un acte de procédure au motif qu’il ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel,
+et la Cour peut rendre jugement en conséquence.
+[3] La présente procédure préliminaire vise principalement à rechercher si les déterminer conditions énoncées à l’alinéa 58(1)a) des Règles sont réunies. Ces conditions sont les suivantes :
+a) la question proposée est soulevée dans une instance;
+b) la décision pourrait régler l’instance en totalité ou en partie, abréger substantiellement l’audience ou résulter en une économie substantielle des frais.
+[4] Dans l’intérêt du lecteur, je tiens à signaler qu’une requête antérieure dans les présents appels avait été entendue par le juge en chef Rip, chargé de la gestion de l’instance (Strother et al v The Queen, 2011 CCI 251).
+La question proposée
+[5] La question que les appelantes cherchent à faire trancher (la « question proposée ») est reproduite ci‑dessous et est tirée d’une lettre datée du 12 février 2013 adressée à la Cour :
+[traduction]
+La question de savoir si les avis de détermination (« les déterminations concernant les sociétés de personnes ») établis en vertu du paragraphe 152(1.4) de la Loi de l’impôt sur le revenu (la « Loi ») doivent être annulés et les appels par conséquent accueillis (sous‑alinéa 170(1)b)(i) de la Loi), étant donné que le ministre a ultérieurement conclu (au plus tard le 31 mars 2010), après l’établissement des déterminations relatives aux sociétés de personnes, que Sentinel Hill No. 207 Limited Partnership et SHAAE (2001) Master Limited Partnership (les « sociétés de personnes ») et les 72 autres sociétés de personnes en commandite n’ont pas existé pour les exercices se terminant le 31 décembre 2001 et le 31 décembre 2002 (les « exercices »).
+[6] Il convient également de reproduire les thèses invoquées concernant la question proposée tels qu’énoncées dans les avis de requête.
+[traduction]
+a) Le 29 mars 2005 et le 30 mars 2005, le ministre a établi des avis de détermination à l’égard de la société de personnes en vertu du paragraphe 152(1.4) de la Loi;
+b) La réponse à l’avis d’appel et la réponse modifiée à l’avis d’appel déposées par l’intimée confirment manifestement que, avant le dépôt de ces deux réponses, le ministre avait conclu que la société de personnes n’avait pas existé pour les exercices;
+c) Il a été confirmé au cours de l’interrogatoire préalable de M. Duff que la réponse à l’avis d’appel et la réponse modifiée à l’avis d’appel indiquaient avec exactitude la position du ministre selon laquelle la société de personnes n’avait pas existé pour les exercices;
+d) Une fois que le ministre avait conclu que la société de personne n’avait pas existé pour les exercices, il pouvait, aux termes du paragraphe 152(1.8) de la Loi, établir des avis de nouvelle cotisation à l’égard des associés de la société de personnes à la place des avis de détermination établis relativement à la société de personnes, à condition que ces avis de nouvelle cotisation soient établis dans l’année suivant la conclusion du ministre;
+e) Étant donné que le ministre avait conclu que la société de personnes n’avait pas existé pour les exercices au plus tard à la date à laquelle la réponse à l’avis d’appel ou la réponse modifiée à l’avis d’appel avait été déposée, une période de plus d’une année s’était écoulée depuis le moment où le ministre avait tiré une telle conclusion et, par conséquent, le ministre ne peut plus (i) aller de l’avant en ce qui concerne les avis de détermination établis à l’égard de la société de personnes ou (ii) établir quelque avis de nouvelle cotisation que ce soit à l’égard des associés de la société de personnes.
+[7] L’extrait ci‑dessus précise que la question proposée consiste essentiellement à rechercher si le ministre du Revenu national (le « ministre ») ne peut plus maintenant établir de nouvelles cotisations à l’égard des associés pour cause de prescription aux termes du paragraphe 152(1.8) de la Loi de l’impôt sur le revenu (la « Loi »).
+Contexte
+[8] Les dispositions légales citées ci‑dessous sont reproduites en annexe.
+[9] Les sociétés Sentinel Hill No. 207 Limited Partnership et SHAAE (2001) Master Limited Partnership (les « sociétés de personnes ») ont déclaré des pertes d’entreprise dans des déclarations de renseignements pour leurs exercices 2001 et 2002.
+[10] En mars 2005, le ministre a refusé la déduction des pertes d’entreprise au moyen de déterminations de revenus ou de pertes relativement à une société de personnes en application du paragraphe 152(1.4) de la Loi (les « déterminations »).
+[11] Les déterminations peuvent faire l’objet de procédures d’opposition et d’appel semblables à celles applicables à des cotisations (paragraphe 152(1.2) de la Loi). Le processus doit être mené par un seul associé (paragraphe 165(1.15) de la Loi).
+[12] Les présents appels ont été interjetés par Sentinel Hill Productions IV Corporation en vertu des dispositions susmentionnées.
+[13] Après l’établissement d’une détermination d’un revenu ou d’une perte relativement à une société de personnes, les associés de la société de personnes peuvent faire l’objet de nouvelles cotisations après l’expiration du délai normal de prescription en application des paragraphes 152(1.7) et (1.8) de la Loi, sous réserve des restrictions énoncées dans ces dispositions.
+Thèse des appelantes
+[14] Dans la présente procédure préliminaire, la Cour est appelée à rechercher si une audience doit être fixée pour entendre la question proposée. Les appelantes soutiennent qu’il s’agit d’une question susceptible d’examen au titre de l’alinéa 58(1)a) des Règles, parce qu’il n’est pas logique que le ministre établisse les déterminations en supposant que les sociétés de personnes ont existé et ensuite qu’il soutienne dans les réponses que les sociétés de personnes n’ont pas existé.
+[15] Quant aux conditions énoncées à l’alinéa 58(1)a) des Règles, l’on soutient d’abord que la question proposée est soulevée dans une instance parce qu’il est précisé dans les réponses que le ministre a conclu que les sociétés de personnes n’ont pas existé. Ensuite, l’on avance que trancher la question proposée pourrait régler les appels en totalité parce que les appelantes demandent que les déterminations soient annulées.
+Thèse de l’intimée
+[16] L’intimée soutient qu’une audience ne doit pas être fixée pour que la question proposée soit entendue, parce que celle‑ci ne répond pas à l’une ou l’autre des conditions énoncées à l’alinéa 58(1)a) des Règles.
+[17] En ce qui concerne l’exigence selon laquelle la question doit être soulevée dans une instance, l’intimée soutient qu’il n’a pas été satisfait à cette condition, parce que la seule question soulevée dans l’instance est le bien‑fondé des déterminations établies. La question proposée consiste à rechercher si la prescription est acquise à l’égard d’éventuelles nouvelles cotisations ultérieures concernant les associés, ce qui n’a rien à voir avec le bien‑fondé des déterminations établies.
+[18] Pour ce qui est de savoir si la décision concernant la question proposée pourrait mettre fin au différend, en totalité ou en partie, abréger l’audience ou résulter en une économie des frais, l’intimée soutient qu’il n’est pas satisfait à cette exigence, parce que la question proposée est tellement dénuée de fondement qu’elle ne permet de réaliser aucune de ces issues.
+[19] Les appelantes demandent à la Cour d’annuler les déterminations établies, parce que le ministre ne peut plus établir de nouvelles cotisations à l’égard des associés pour cause de prescription. Il est soutenu que la demande ne relève pas de la compétence de la Cour, qui se limite à statuer sur le bien‑fondé des déterminations établies.
+Discussion
+Nature de la question proposée
+[20] J’examine avant tout la question proposée. Celle‑ci vise à ce que les déterminations établies soient annulées, parce que le ministre a conclu, au plus tard le 31 mars 2010, que les sociétés de personnes n’ont pas existé. La question essentielle est de savoir si les déterminations établies devraient être annulées, parce que le ministre ne peut pas établir de nouvelles cotisations à l’égard des associés pour cause de prescription.
+[21] Il est important de souligner que, par la question proposée, il n’est pas demandé à la Cour de tirer une conclusion concernant l’existence des sociétés de personnes. Il s’agit d’une question litigieuse entre les parties. La question consiste essentiellement à rechercher si le ministre a conclu que les sociétés de personnes n’ont pas existé.
+[22] Les appelantes se fondent sur le paragraphe 152(1.8) de la Loi qui est reproduit ci‑dessous :
+(1.8) Restriction – Lorsqu’un montant est déterminé en application du paragraphe (1.4) pour un exercice par suite d’observations faites au ministre selon lesquelles une personne était un associé d’une société de personnes pour l’exercice et que le ministre, la Cour canadienne de l’impôt, la Cour d’appel fédérale ou la Cour suprême du Canada conclut, à un moment ultérieur, que la société de personnes n’a pas existé pour l’exercice ou que la personne n’en a pas été un associé tout au long de l’exercice, le ministre peut, dans l’année suivant le moment ultérieur et malgré les paragraphes (4), (4.1) et (5), établir pour une année d’imposition une cotisation concernant l’impôt, les intérêts, les pénalités ou d’autres montants payables par une contribuable, ou déterminer pour une année d’imposition un montant qui est réputé avoir été payé ou payé en trop par lui, en vertu de la présente partie seulement dans la mesure où il est raisonnable de considérer que la cotisation ou la détermination, selon le cas :
+a) se rapporte à une question qui a été prise en compte lors de la détermination du montant en application du paragraphe (1.4);
+b) découle de la conclusion selon laquelle la société de personnes n’existait pas au cours de l’exercice;
+c) découle de la conclusion selon laquelle la personne n’a pas été un associé de la société de personnes tout au long de l’exercice.
+[Non souligné dans l’original.]
+[23] Selon les appelantes, le paragraphe 152(1.8) des Règles limite le moment d’établissement de nouvelles cotisations à l’égard des associés à mars 2011 au plus tard. Il s’agit d’une date qui tombe une année suivant le dépôt des réponses dans lesquelles l’existence des sociétés de personnes a été niée. Le ministre avait avancé une thèse contraire au moment où les déterminations avaient été établies.
+[24] J’aimerais également observer que la question proposée semble comporter plusieurs questions possibles, dont certaines sont mentionnées ci‑dessous.
+a) Le délai de prescription d’un an prévu au paragraphe 152(1.8) de la Loi commence‑t‑il à courir à partir de la date à laquelle le ministre conclut que la société de personnes n’existe pas, même si un juge arrive à la même conclusion ultérieurement?
+b) Le paragraphe 152(1.7) de la Loi a‑t‑il une incidence sur le délai de prescription pour l’établissement de nouvelles cotisations à l’égard des associés?
+c) La thèse du ministre selon laquelle les sociétés de personnes n’ont pas existé constitue‑t‑elle une « conclusion » aux fins du paragraphe 152(1.8) de la Loi?
+d) À supposer que l’établissement de nouvelles cotisations à l’égard des associés est maintenant prescrit, s’agit‑il d’un moyen raisonnable justifiant une annulation des déterminations établies?
+[25] Je me penche à présent sur les deux conditions auxquelles il doit être satisfait pour l’application de l’alinéa 58(1)a) des Règles.
+La question proposée est‑elle soulevée dans une instance?
+[26] Selon la première condition, la question proposée doit être soulevée dans une instance.
+[27] Les appelantes admettent que la question proposée n’est pas un point soulevé dans l’instance, mais elles soutiennent qu’il suffit que la question soit mentionnée dans une instance. Les appelantes avancent qu’il a été satisfait à la condition, parce que les réponses comportent la conclusion du ministre selon laquelle les sociétés de personnes n’ont pas existé.
+[28] Je ne puis retenir l’interprétation faite de l’exigence « dans une instance ». À mon avis, l’alinéa 58(1)a) des Règles dispose qu’un point faisant l’objet de la question proposée soit soulevé dans l’instance.
+[29] En l’espèce, les points soulevés par la question proposée consistent à rechercher si la prescription est acquise relativement à l’établissement de nouvelles cotisations à l’égard des associés et si les déterminations devraient par conséquent être annulées. Aucun de ces deux points n’est soulevé en tant que point litigieux dans les actes de procédure.
+[30] Les appelants soutiennent que les mots « dans une instance » ont une portée plus large que les mots « dans un acte de procédure », et qu’il n’est pas nécessaire que la question proposée soit soulevée comme point litigieux dans un acte de procédure.
+[31] Je ne puis retenir cet argument. Selon une interprétation téléologique de l’alinéa 58(1)a) des Règles, la question proposée doit être soulevée en bonne et due forme en tant que point litigieux dans l’acte de procédure. En raison de considérations d’équité, les questions à trancher dans le cadre d’un appel sont généralement limitées à celles qui ont été soulevées dans les actes de procédure. Vu le libellé de l’alinéa 58(1)a) des Règles, ce principe ne peut être contourné par la présentation d’une requête au titre de cette disposition. Il ne s’agit pas d’une application appropriée de l’alinéa 58(1)a) des Règles que de soulever une nouvelle question au moyen de cette procédure.
+La question proposée pourrait‑elle régler l’instance?
+[32] L’alinéa 58(1)a) des Règles exige aussi que la décision concernant la question proposée puisse régler l’instance, abréger l’instance ou résulter en une économie des frais.
+[33] J’aimerais d’abord faire des observations à l’égard d’un argument avancé verbalement par l’avocat des appelantes, argument selon lequel il n’est pas logique que l’intimée soutienne que les sociétés de personnes n’ont pas existé, parce que cela est contraire aux déterminations établies. Il semble qu’il soit soutenu que le ministre porte en réalité ses propres déterminations en appel.
+[34] La difficulté qui se pose concernant cet argument est qu’il n’a rien à voir avec la question proposée. Le point que soulève la question proposée est la prescription, et ce point est totalement différent de la question de savoir si la position de l’intimée est contraire aux déterminations établies. L’argument selon lequel le ministre interjette appel de ses propres déterminations n’a pas de rapport avec la question proposée.
+[35] Pour ce qui est de l’argument selon lequel la question proposée pourrait régler l’instance en totalité, je retiens la thèse de l’intimée selon laquelle la question proposée est tellement dénuée de fondement qu’elle ne pourrait pas régler l’instance.
+[36] Les appelantes sollicitent l’annulation des déterminations au motif qu’elles n’ont rien à voir avec la question de savoir si les déterminations sont infondées ou non valides. Cela est contraire aux principes bien établis que la Cour pourrait invoquer pour annuler des cotisations.
+[37] Les circonstances dans lesquelles la Cour peut annuler une cotisation ont été récemment résumées par la juge Sharlow dans l’arrêt Ereiser c Canada, 2013 CAF 20, aux paragraphes 21 et 22. Voici les observations de la juge Sharlow :
+[21] M. Ereiser sollicite de la Cour canadienne de l’impôt l’annulation des nouvelles cotisations faisant l’objet d’un appel. Il s’agit de la mesure appropriée en matière d’appel concernant l’impôt sur le revenu à l’encontre d’une cotisation (y compris une nouvelle cotisation) qui est déclarée non valide ou qui est déclarée infondée. J’emploie le mot « valide » pour désigner la cotisation établie conformément aux dispositions procédurales de la Loi de l’impôt sur le revenu, et les mots « bien fondée » pour désigner une cotisation dans laquelle le montant établi au titre de l’impôt est fondé sur les dispositions applicables de la Loi de l’impôt sur le revenu, interprétées correctement et appliquées aux faits pertinents.
+[22] Parmi les dispositions procédurales de la Loi de l’impôt sur le revenu, il y a les dispositions relatives aux périodes de prescription prévues par la loi. En règle générale, ces dispositions retirent du ministre le pouvoir légal d’établir une cotisation au titre de l’impôt après l’expiration d’une certaine période, période que la Loi de l’impôt sur le revenu définit comme étant la « période normale de cotisation », à moins qu’une exception prévue par la loi ne joue.
+[38] La procédure d’appel portant sur les déterminations effectuées relativement à une société de personnes vise également les cotisations « avec les adaptations nécessaires » (paragraphe 152(1.2) de la Loi).
+[39] Il ne convient pas de déroger aux principes bien établis cités par l’arrêt Ereiser concernant des déterminations de revenus ou de pertes relativement à une société de personnes. Les circonstances ne le commandent pas, et déroger à ces principes serait contraire à l’esprit de la Loi.
+[40] La Loi prévoit une procédure distincte d’opposition et/ou d’appel pour chaque détermination ou cotisation. La question proposée vise à contester la validité de nouvelles cotisations concernant des associés qui n’ont pas encore été établies et qui pourraient ne jamais être établies. La procédure qu’il convient d’adopter à l’égard de cette question est de contester la validité des nouvelles cotisations au moment où elles sont établies, le cas échéant.
+[41] Les appelantes soutiennent peut‑être que la mesure sollicitée est appropriée parce qu’elle permettrait d’éviter une instance complexe. Il se pourrait que les présents appels soient théoriques si les nouvelles cotisations subséquentes établies à l’égard des associés sont prescrites. Toutefois, il ne s’agit pas d’une circonstance qui commande une modification des principes bien établis exposés dans l’arrêt Ereiser.
+[42] Par les motifs exposés ci‑dessus, je conclus que la question proposée n’a aucune chance raisonnable de succès et que, par conséquent, elle ne satisfait pas à la condition énoncée à l’alinéa 58(1)a) des Règles, condition selon laquelle la décision rendue à l’égard de la question pourrait régler l’instance, abréger l’audience ou résulter en une économie des frais.
+Conclusion
+[43] Je conclus qu’il n’est pas approprié de fixer une audience pour entendre la question proposée.
+[44] L’intimée a droit à ses dépens concernant la présente instance, un seul mémoire de frais étant accordé au titre des honoraires d’avocat pour les deux demandes.
+Signé à Winnipeg (Manitoba), ce 27e jour d’août 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 10e jour de décembre 2013.
+François Brunet, réviseur.
+ANNEXE
+Dispositions légales pertinentes
+152(1.2) Dispositions applicables – Les alinéas 56(1)l) et 60o), la présente section et la section J, dans la mesure où ces dispositions portent sur une cotisation ou une nouvelle cotisation ou sur l’établissement d’une cotisation ou d’une nouvelle cotisation concernant l’impôt, s’appliquent, avec les adaptations nécessaires, à toute détermination ou nouvelle détermination effectuée selon le paragraphe (1.01) et aux montants déterminés ou déterminés de nouveau en application de la présente section ou aux montants qui sont réputés par l’article 122.61 être des paiements en trop au titre des sommes dont un contribuable est redevable en vertu de la présente partie. Toutefois :
+a) les paragraphes (1) et (2) ne s’appliquent pas aux déterminations ou aux montants déterminés en application des paragraphes (1.01), (1.1) et (1.11);
+b) le montant d’une perte autre qu’une perte en capital, d’une perte en capital nette, d’une perte agricole restreinte, d’une perte agricole ou d’une perte comme commanditaire subie par un contribuable pour une année d’imposition ne peut être initialement déterminé par le ministre qu’à la demande du contribuable;
+c) le paragraphe 164(4.1) ne s’applique pas aux montants déterminés en application du paragraphe (1.4).
+[…]
+(1.4) Montant déterminé relativement à une société de personnes
+Le ministre peut déterminer le revenu ou la perte d’une société de personnes pour un exercice de celle-ci ainsi que toute déduction ou tout autre montant, ou toute autre question, se rapportant à elle pour l’exercice qui est à prendre en compte dans le calcul, pour une année d’imposition, du revenu, du revenu imposable ou du revenu imposable gagné au Canada d’un de ses associés, de l’impôt ou d’un autre montant payable par celui-ci, d’un montant qui lui est remboursable ou d’un montant réputé avoir été payé, ou payé en trop, par lui, en vertu de la présente partie. Cette détermination se fait dans les trois ans suivant le dernier en date des jours suivants :
+a) le jour où, au plus tard, un associé de la société de personnes est tenu par l’article 229 du Règlement de l’impôt sur le revenu de remplir une déclaration de renseignements pour l’exercice, ou serait tenu si ce n’était le paragraphe 220(2.1);
+b) le jour où la déclaration est produite.
+[…]
+(1.7) Ministre et associés liés – Les règles suivantes s’appliquent lorsque le ministre détermine un montant en application du paragraphe (1.4) ou détermine un montant de nouveau relativement à une société de personnes :
+a) sous réserve des droits d’opposition et d’appel de l’associé de la société de personnes visé au paragraphe 165(1.15) relativement au montant déterminé ou déterminé de nouveau, la détermination ou nouvelle détermination lie le ministre ainsi que les associés de la société de personnes pour ce qui est du calcul, pour une année d’imposition, du revenu, du revenu imposable ou du revenu imposable gagné au Canada des associés, de l’impôt ou d’un autre montant payable par ceux-ci, d’un montant qui leur est remboursable ou d’un montant réputé avoir été payé, ou payé en trop, par eux, en vertu de la présente partie;
+b) malgré les paragraphes (4), (4.01), (4.1) et (5), le ministre peut, avant la fin du jour qui tombe un an après l’extinction ou la détermination des droits d’opposition et d’appel relativement au montant déterminé ou déterminé de nouveau, établir les cotisations voulues concernant l’impôt, les intérêts, les pénalités ou d’autres montants payables et déterminer les montants réputés avoir été payés, ou payés en trop, en vertu de la présente partie relativement à un associé de la société de personnes et à tout autre contribuable pour une année d’imposition pour tenir compte du montant déterminé ou déterminé de nouveau ou d’une décision de la Cour canadienne de l’impôt, de la Cour d’appel fédérale ou de la Cour suprême du Canada.
+(1.8) Restriction – Lorsqu’un montant est déterminé en application du paragraphe (1.4) pour un exercice par suite d’observations faites au ministre selon lesquelles une personne était un associé d’une société de personnes pour l’exercice et que le ministre, la Cour canadienne de l’impôt, la Cour d’appel fédérale ou la Cour suprême du Canada conclut, à un moment ultérieur, que la société de personnes n’a pas existé pour l’exercice ou que la personne n’en a pas été un associé tout au long de l’exercice, le ministre peut, dans l’année suivant le moment ultérieur et malgré les paragraphes (4), (4.1) et (5), établir pour une année d’imposition une cotisation concernant l’impôt, les intérêts, les pénalités ou d’autres montants payables par une contribuable, ou déterminer pour une année d’imposition un montant qui est réputé avoir été payé ou payé en trop par lui, en vertu de la présente partie seulement dans la mesure où il est raisonnable de considérer que la cotisation ou la détermination, selon le cas
+a) se rapporte à une question qui a été prise en compte lors de la détermination du montant en application du paragraphe (1.4);
+b) découle de la conclusion selon laquelle la société de personnes n’existait pas au cours de l’exercice;
+c) découle de la conclusion selon laquelle la personne n’a pas été un associé de la société de personnes tout au long de l’exercice.
+152(4) Cotisation et nouvelle cotisation [délai de prescription] – Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+(ii) soit a présenté au ministre une renonciation, selon le formulaire prescrit, au cours de la période normale de nouvelle cotisation applicable au contribuable pour l’année;
+[…]
+165(1.15) Société de personnes – Malgré le paragraphe (1), dans le cas où le ministre détermine un montant en application du paragraphe 152(1.4) relativement à l’exercice d’une société de personnes, seul est autorisé à faire une opposition concernant ce montant l’associé de la société de personnes qui est, selon le cas :
+a) désigné à cette fin dans la déclaration de renseignements présentée en application de l’article 229 du Règlement de l’impôt sur le revenu pour l’exercice;
+b) autrement expressément autorisé par la société de personnes à agir ainsi.
+RÉFÉRENCE : 2013 CCI 267
+Nos DES DOSSIERS DE LA COUR : 2009-2247(IT)G;
+2009-2248(IT)G
+INTITULÉ : SENTINEL HILL PRODUCTIONS IV CORPORATION, en sa qualité d’associée désignée de Sentinel Hill No. 207 Limited Partnership c. SA MAJESTÉ LA REINE
+SENTINEL HILL PRODUCTIONS IV CORPORATION, en sa qualité d’associée désignée de SHAAE (2001) Master Limited Partnership c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 4 juin 2013
+MOTIFS DE L’ORDONNANCE : L’honorable juge J.M. Woods
+DATE DE L’ORDONNANCE : Le 27 août 2013
+COMPARUTIONS :
+Avocats des appelantes :
+Me Yves St-Cyr
+Me Mark Jadd
+Avocats de l’intimée :
+Me Robert Carvalho
+Me Ifeanyi Nwachukwu
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom : Yves St-Cyr
+Cabinet : Heenan Blaikie LLP
+Toronto (Ontario)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

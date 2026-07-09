@@ -1,0 +1,147 @@
+Title: Siddell c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30343/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-250-30343-siddell-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-05-09
+
+# Siddell c. La Reine
+
+- Citation: 2011 CCI 250
+- Decision date: 2011-05-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8047, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Siddell c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-05-09
+Référence neutre
+2011 CCI 250
+Numéro de dossier
+2010-2137(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-2137(IT)I
+ENTRE :
+BRADLEY SIDDELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 1er février 2011 à Edmonton (Alberta).
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Mary Softley
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2008 est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelant a droit aux crédits d’impôt demandés au titre des articles 118.5 et 118.6 de la Loi.
+Signé à Ottawa, Canada, ce 9e jour de mai 2011.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 23e jour de juin 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 250
+Date : 20110509
+Dossier : 2010-2137(IT)I
+ENTRE :
+BRADLEY SIDDELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] M. Siddell interjette appel d’une nouvelle cotisation établie à son égard concernant l’obligation qui lui incombe relativement à l’impôt sur le revenu pour l’année d’imposition 2008. Les articles 118.5 et 118.6 de la Loi de l’impôt sur le revenu[1] (la « Loi ») autorisent la déduction de certains montants à titre de crédits d’impôt à l’égard d’étudiants qui fréquentaient un établissement d’enseignement agréé pendant l’année d’imposition. En avril 2007, M. Siddell a commencé ses études menant à l’obtention d’un diplôme de maîtrise en administration des affaires à l’Université de Liverpool. Il a continué ses études tout au long des années 2008 et 2009 et les a terminées en juillet 2010. La question dont je suis saisi est de savoir si M. Siddell a droit à ces crédits d’impôt.
+[2] Les dispositions des articles 118.5 et 118.6 de la Loi sont quelque peu complexes, et ne sont pas un modèle de clarté. En l’espèce, toutefois, il est nécessaire d’examiner le sens des expressions « […] des cours d’une durée inférieure à 13 semaines consécutives » et « […] des cours d’une durée minimale de 13 semaines consécutives », contenues respectivement au sous‑alinéa 118.5(1)b)(i) de la Loi et à l’alinéa b) de la définition de l’expression « établissement d’enseignement agréé » donnée au paragraphe 118.6(1) de la Loi.
+[3] Il n’est pas contesté qu’en 2008, M. Siddell était étudiant à plein temps et suivait des cours conduisant à un diplôme. Il n’est pas non plus contesté que M. Siddell a droit au crédit d’impôt pour frais de scolarité prévu à l’article 118.5 de la Loi si, et seulement si, les frais de scolarité tombent sous le coup de l’alinéa 118.5(1)b) de la Loi. De même, il n’est pas contesté que M. Siddell a droit au crédit d’impôt pour études prévu au paragraphe 118.6(2) de la Loi si, et seulement si, l’Université de Liverpool tombe sous le coup de l’alinéa b) de la définition d’établissement d’enseignement agréé. Il n’est pas non plus remis en question le fait que M. Siddell a payé les frais de scolarité sur lesquels il fonde sa demande de déduction ou qu’il a joint les formulaires appropriés à sa déclaration de revenus. Le litige porte simplement sur la question de savoir si M. Siddell était inscrit à des cours d’une durée de plus de 13 semaines consécutives.
+[4] Les parties pertinentes des dispositions en question sont ainsi libellées :
+118.5(1)(b) Where the individual was during the year a student in full-time attendance at a university outside Canada in a course leading to a degree, an amount equal to the product obtained when the appropriate percentage for the year is multiplied by the amount of any fees for the individual’s tuition paid in respect of the year to the university, except any such fees
+(i) paid in respect of a course of less than 13 consecutive weeks duration,
+118.5(1)b) si, au cours de l’année, le particulier fréquente comme étudiant à plein temps une université située à l’étranger, où il suit des cours conduisant à un diplôme, le produit de la multiplication du taux de base pour l’année par le total des frais de scolarité payés à l’université pour l’année, à l’exception des frais qui ont été :
+(i) soit payés pour des cours d’une durée inférieure à 13 semaines consécutives,
+118.6(1) For the purposes of sections 63 and 64 and this subdivision, "designated educational institution" « établissement d’enseignement agréé »
+"designated educational institution" means
+…
+(b) a university outside Canada at which the individual referred to in subsection 118.6(2) was enrolled in a course, of not less than 13 consecutive weeks duration, leading to a degree,
+118.6(1) Les définitions qui suivent s’appliquent aux articles 63 et 64 et à la présente sous-section. « établissement d’enseignement agréé » "designated educational institution"
+«établissement d’enseignement agréé »
+[…]
+b) université située à l’étranger, où le particulier mentionné au paragraphe (2) est inscrit à des cours d’une durée minimale de 13 semaines consécutives qui conduisent à un diplôme;
+[5] La pièce A-2, à l’onglet N, contient ce que l’Université de Liverpool appelle le [traduction] « carnet de notes ». Il donne les détails du programme d’études suivi par M. Siddell. Il donne une liste des huit [traduction] « modules » que comportent ses études conduisant au diplôme de MBA. Il en a suivi cinq en 2008, et les dates de début et de fin de chaque module sont mentionnées ci‑après :
+[traduction]
+Gestion stratégique des
+ressources humaines du 16 oct. 2008 au 10 déc. 2008
+Comportement du consommateur du 21 août 2008 au 15 oct. 2008
+Marketing des services du 10 avril 2008 au 21 mai 2008
+Marketing et mondialisation du 28 fév. 2008 au 9 avr. 2008
+Gestion des ressources du 10 janv. 2008 au 20 févr. 2008
+[6] Il est évident qu’en 2008, M. Siddell fréquentait comme étudiant à plein temps l’Université de Liverpool et poursuivait des études conduisant à un diplôme de MBA pendant toute la période entre le 10 janvier et le 21 mai, sauf pendant une semaine, et pendant chaque semaine entre le 21 août et le 10 décembre. Étant donné que cette période représente l’année universitaire normale, M. Siddell soutient qu’il suivait à plein temps des cours d’une durée supérieure à 13 semaines consécutives. Les cours, selon son point de vue sur la question, constituent la totalité de ses études conduisant au diplôme.
+[7] Le ministre soutient que chacun des modules précités constitue un « cours », et qu’aucun d’eux ne dépassait une durée de huit semaines, de sorte que M. Siddell a payé des frais de scolarité pour cinq cours distincts, chacun d’eux ayant une durée inférieure à 13 semaines. Pour étayer cet argument, le ministre souligne le fait que M. Siddell a choisi de payer ses frais de scolarité en versements qui coïncidaient avec le début de chaque module, et il s’agissait là d’un des divers modes de paiement qui s’offraient à lui.
+[8] L’appelant a mentionné dans son argumentation de nombreuses décisions de la Cour. La plupart d’entre elles portent sur la question de fréquentation d’un établissement d’enseignement à plein temps. Cet aspect n’est pas en cause en l’espèce, toutefois, étant donné que l’intimée accepte que la fréquentation de l’Université de Liverpool par l’appelant via Internet répond à l’exigence de fréquentation d’un établissement d’enseignement à plein temps. L’affaire Tarkowski c. La Reine[2] portait sur la question de savoir si le fils du contribuable, qui prenait des leçons de musique, suivait des cours. Cette affaire n’est pas utile en l’espèce. Les faits de l’affaire Robinson c. La Reine[3] sont semblables à ceux de l’espèce, mais il semble que l’on ait supposé que pour les fins de l’exigence de la durée de 13 semaines, il fallait tenir compte de toute la période pendant laquelle l’appelant poursuivait ses études conduisant au diplôme de MBA, cette période allant de février 2004 à décembre 2005. L’intimée ne semble pas avoir soutenu, comme elle le fait en l’espèce, l’argument selon lequel l’exigence des 13 semaines semaines s’applique à chaque module. Dans Fayle v. The Queen[4], il a été jugé que la contribuable n’avait pas droit à un crédit d’impôt parce qu’elle avait suivi un cours d’une durée de six semaines seulement. Toutefois, le cours ne faisait pas partie d’un programme d’enseignement plus long comme en l’espèce, de sorte que la décision n’est d’aucune utilité.
+[9] La décision qui porte directement sur la question dont je suis saisi est celle rendue par le juge Paris dans Ferre c. La Reine[5]. Tout comme l’appelant, M. Ferre était inscrit à un programme de MBA en ligne à l’Université de Liverpool, où il a satisfait aux exigences requises pour obtenir un diplôme en suivant un certain nombre de modules. Chaque module avait une durée inférieure à 13 semaines, mais la durée totale des modules que l’appelant avait suivis dans chacune des années 2006 et 2007 était supérieure à 13 semaines. Dans ce contexte, contrairement à la situation dans Fayle, la version anglaise de la Loi est ambiguë. L’exigence des 13 semaines pouvait s’appliquer à chacun des modules de façon particulière, ou elle pouvait s’appliquer à la somme de tous les modules suivis dans l’année. Le juge Paris, qui souligne l’absence d’ambiguïté dans la version française, a appliqué la règle d’interprétation fondée sur la signification commune et a conclu que chacun des cours faisant partie d’un programme doit être d’une durée supérieure à 13 semaines pour que l’étudiant ait droit au crédit. Le raisonnement du juge Paris sur ce point se trouve dans les quatre paragraphes suivants du jugement qu’il a rendu dans cette affaire :
+21 Il semble y avoir un fondement à l’argument de l’appelant à l’égard du fait que le mot « course » (dans la version anglaise de la Loi) à l’alinéa 118.5(1)b) est ambigu. Le Webster’s Ninth New Collegiate Dictionary définit le mot « course » (correspondant à « cours ») comme étant soit [traduction] « un nombre d’exposés ou d’autres conférences portant sur un sujet » ou [traduction] « une série de tels cours constituant un programme ». Par conséquent, on peut soutenir que le mot « course » pourrait, en l’espèce, désigner soit les modules particuliers suivis par l’appelant, soit l’ensemble du programme de MBA. Je fais remarquer, cependant, que la partie pertinente de la définition du mot « course » du Canadian Oxford Dictionary (2001) comporte uniquement la définition suivante : [traduction] « une série d’exposés, de leçons, etc., dans un sujet particulier. » Cette définition ne semble pas inclure la notion de programme d’études comme le MBA de l’appelant.
+22 Toute ambiguïté est cependant dissipée par la version française de l’alinéa 118.5(1)b). Les parties pertinentes de la version française sont rédigées ainsi :
+118.5(1) Les montants suivants sont déductibles dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+[…]
+b) si, au cours de l’année, le particulier fréquente comme étudiant à plein temps une université située à l’étranger, où il suit des cours conduisant à un diplôme, le produit de la multiplication du taux de base pour l’année par le total des frais de scolarité payés à l’université pour l’année, à l’exception des frais qui ont été :
+(i) soit payés pour des cours d’une durée inférieure à 13 semaines consécutives,
+(emphasis added)
+23 La version française emploie l’expression « des cours conduisant à un diplôme » pour traduire l’expression anglaise « a course leading to a degree » et « des cours d’une durée inférieure à 13 semaines consécutives » pour rendre l’expression anglaise « a course of less than 13 consecutive weeks duration ». L’utilisation de la forme plurielle du mot « cours » dans la version française démontre que l’intention du législateur était de faire référence à des cours particuliers s’insérant dans un programme d’études, plutôt qu’à l’ensemble du programme; si tel était le cas, l’ensemble du programme aurait été désigné par le singulier. À mon avis, la version française est dénuée de toute ambiguïté qui figure dans la version anglaise, et c’est la signification commune aux deux versions qui doit être appliquée.
+24 En l’espèce, les cours particuliers ou « modules » qui ont été suivis par l’appelant en 2006 et en 2007 étaient d’une durée inférieure à 13 semaines et, par conséquent, les frais payés pour ces modules ne peuvent faire l’objet d’un crédit d’impôt pour frais de scolarité. Puisque l’appelant n’était pas inscrit à des cours d’une durée minimale de 13 semaines, l’Université ne constitue pas un « établissement d’enseignement agréé » et l’appelant n’a pas non plus droit à un crédit d’impôt pour études pour ces années. Cette conclusion suffit pour trancher l’appel interjeté à l’encontre des années 2006 et 2007.
+[10] En toute déférence, je ne puis souscrire à cette interprétation. Dans The Queen c. Compagnie Immobilière BCN Limitée[6], le juge Pratte, qui exprimait la décision unanime de la Cour, a déclaré ce qui suit à l’égard de la règle fondée sur la signification commune, alors codifiée comme article 8 de la Loi sur les langues officielles[7] :
+La règle prescrite par cet alinéa n’est qu’un guide parmi plusieurs autres, dont il faut se servir pour rechercher le sens d’une loi qui, « selon l’esprit, l’intention et le sens véritables du texte, assure le mieux la réalisation de ses objets » (al. 8(2)d)). La règle de l’al. 8(2)b) n’est pas absolue au point d’automatiquement l’emporter sur tous les autres principes d’interprétation. J’estime donc qu’il ne faut pas retenir la version la plus restric­tive si elle va clairement à l’encontre du but de la loi et compromet la réalisation de ses objets au lieu de l’assurer.
+L’objet des articles 118.5 et 118.6 de la Loi est de fournir une aide financière à des Canadiens qui désirent poursuivre leurs études et améliorer leurs compétences relativement à l’emploi en faisant des études postsecondaires. Certains critères sont imposés et ils visent à faire en sorte que les crédits d’impôt ne soient accordés qu’aux étudiants sérieux, qui poursuivent des études qui leur seront utiles et leur permettront d’améliorer leurs possibilités d’emploi et leur productivité. Si les études sont poursuivies à l’étranger, alors elles doivent, pour donner lieu à un crédit d’impôt, être entreprises à un niveau universitaire, à plein temps, et les cours doivent être d’une durée minimale de 13 semaines et conduire à un diplôme. L’exigence selon laquelle les cours doivent être d’une durée minimale de 13 semaines vise vraisemblablement à éviter qu’on ne finance des cours épisodiques d’intérêt personnel et des cours de nature plus récréative qu’éducative. L’exigence selon laquelle les cours doivent être d’une durée minimale de 13 semaines consécutives est imposée pour veiller à ce que l’étudiant suive des cours pendant un semestre complet afin d’avoir droit au crédit d’impôt.
+[11] Il me semble improbable que le législateur ait souhaité accorder un crédit d’impôt à un étudiant qui a suivi les mêmes cinq modules que M. Siddell a suivis en 2008 s’ils ont été suivis simultanément au cours des périodes situées entre le 10 janvier et le 21 mai et entre le 21 août et le 10 décembre, ce qui représente deux semestres, mais qu’il n’ait pas souhaité accorder de crédit à un étudiant qui a suivi les mêmes modules l’un après l’autre comme l’a fait M. Siddell. Cette interprétation de la loi, pour reprendre les termes de la Cour suprême dans Compagnie Immobilière,
+[…] va clairement à l’encontre du but de la loi et compromet la réalisation de ses objets au lieu de l’assurer.
+Je préfère donc interpréter le mot « course » dans ce contexte comme se rapportant non pas aux modules particuliers, mais à l’ensemble du programme suivi tout au long de l’année universitaire. Je tiens à signaler également que ce sens semble mieux cadrer avec les mots « leading to a degree » (en français, « conduisant à un diplôme ») qui suivent le mot « course » (cours) là où il est employé pour la première fois à l’alinéa 118.5(1)b) de la Loi et qui le suivent aussi dans la définition contenue au paragraphe 118.6(1) de la Loi. Le concept de cours conduisant à un diplôme semble se rapporter à l’ensemble du programme d’étude plutôt qu’à un seul cours compris dans ce programme.
+[12] L’appel est accueilli et les nouvelles cotisations sont déférées au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelant a droit aux crédits d’impôt demandés au titre des articles 118.5 et 118.6 de la Loi.
+Signé à Ottawa, Canada, ce 9e jour de mai 2011.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 23e jour de juin 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 250
+No DU DOSSIER DE LA COUR : 2010-2137(IT)I
+INTITULÉ : BRADLEY SIDDELL
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 1er février 2011
+MOTIFS DU JUGEMENT : L’honorable juge E.A. Bowie
+DATE DU JUGEMENT : Le 9 mai 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Mary Softley
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s/o
+Cabinet : s/o
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. 1985, ch.1 (5e suppl.), dans sa version modifiée.
+[2] [2008] 1 C.T.C. 2347.
+[3] [2007] 2 C.T.C. 2294.
+[4] [2005] 1 C.T.C. 2840.
+[5] 2010 CCI 593.
+[6] [1979] 1 R.C.S. 865.
+[7] S.R.C. 1970, c. O-2.

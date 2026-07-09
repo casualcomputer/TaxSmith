@@ -1,0 +1,189 @@
+---
+title: "A & D Holdings Inc. v.The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22414/index.do"
+last_modified: "2006-01-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 768"
+citation2: ""
+neutral_citation: "2005 TCC 768"
+decision_date: "2006-01-05"
+language: "en"
+item_id: "22414"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2271
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:26:51.436000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7531b6841664664662fd98bfc2c121c372a412b1a50887f11451cd7618ad9e5d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# A & D Holdings Inc. v.The Queen
+
+- Citation: 2005 TCC 768
+- Decision date: 2006-01-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2271, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+A & D Holdings Inc. v.The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-05
+Neutral citation
+2005 TCC 768
+File numbers
+2002-34(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-34(IT)G
+BETWEEN:
+A & D HOLDINGS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 16, 2005, at Windsor, Ontario
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Arthur M. Barat
+Counsel for the Respondent:
+Deen C. Olsen
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1997 and 1998 taxation years is dismissed with costs in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of January 2006.
+"B. Paris"
+Paris, J.
+Citation: 2005TCC768
+Date: 20060105
+Docket: 2002-34(IT)G
+BETWEEN:
+A & D HOLDINGS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] In computing its income from business for its 1997 and 1998 taxation years, the Appellant deducted capital cost allowance (“CCA”) in respect of certain buildings and equipment which it had acquired in 1994. The Minister of National Revenue reassessed the Appellant to disallow the CCA deductions and the Appellant is appealing from those reassessments.
+[2] At issue is the Appellant’s cost of the buildings and equipment, which determines the amount of CCA that may be deducted in any given taxation year. The Appellant claims that its cost of the buildings was $1,600,000 and its cost of the equipment was $1,055,000. The Minister reassessed on the basis that the Appellant’s cost was $12,750 for the buildings and $8,250 for the equipment. The amount of CCA in issue is $179,339 in 1997 and $152,720 in 1998.[1]
+[3] At the hearing of the appeal the parties submitted a joint book of documents, and Mr. Alexander Menzies, the Appellant’s accountant, testified on behalf of the Appellant.
+[4] The evidence showed that the property acquired by the Appellant in 1994 consisted of 11.2 acres of land, two industrial buildings totalling approximately 160,000 square feet and a rail bay and heavy equipment. The property had been used for many years by the vendor, WCA Canada Inc., in its business of manufacturing and plating automobile bumpers, and as a result the land was contaminated with nickel and chromium.
+[5] The contamination problem first became apparent in 1987 when the City of Windsor advised WCA that water entering the city storm sewer from the property contained chromium. WCA hired Golder Associates Ltd., a firm of environmental engineers, to investigate and to carry out remedial work in 1988. WCA ceased operation of the bumper plant in 1990 but chromium was still found in water flowing into the storm sewer. Golder Associates made a further series of recommendations for additional cleanup in a report dated April, 1992. According to Mr. Menzies, some of the recommended work was done by WCA and the problem with contamination of the runoff water had been resolved to the satisfaction of the City before the property was sold to the Appellant.
+[6] Two Windsor businessmen, Kenneth Arnold and William Docherty, became interested in acquiring the vacant WCA site at some point in 1993. They intended to use the site in a soil bio-remediation business. Contaminated soil from other sites would be trucked to the site and cleaned using a process for which they had recently acquired a patent. In order to facilitate the sale, WCA sought and obtained a re-zoning of the property in November, 1993 to permit soil bioremediation.
+[7] Mr. Arnold and Mr. Docherty incorporated the Appellant on January 21, 1994 with the shares held equally by their companies, K.M. Arnold and Associates Ltd. and R.C. Pruefer Co. Ltd.
+[8] WCA sold the property to the Appellant pursuant to an Agreement of Purchase and Sale dated January 28, 1994 (the “Agreement”). The Agreement provided that the purchase price was made up of two components: a cash payment of $25,000 and an assumption of liabilities. The assumed liabilities consisted essentially of any obligation that WCA was under to clean up the property. Article 1.1(a) of the Agreement defined the "assumed liabilities" as:
+(i) all obligations and liabilities arising at any time (whether prior to the Time of Closing or at any time at or thereafter) whether known or unknown, foreseen or unforeseen or ordinary or extraordinary, relating to, or arising from, the environmental, physical or other status of the Property or any part thereof by reason or events, acts or omissions occurring prior to the Time of Closing or at any time at or thereafter, including, without limitation, any and all costs for investigation, study, clean-up or remedial action, fines, damage awards to third parties (both public and private), consultants' fees and expenses and attorneys' fees and expenses;
+(ii) all of the Vendor's obligations and liabilities under, pursuant to or relating to an agreement dated November 8, 1993 between The Corporation of the City of Windsor and the Vendor in respect of the Property;[2]
+(iii) all of the obligations and liabilities of Vendor and its divisions, subsidiaries, parents, or affiliated corporations or companies, or corporations as companies associated through ownership, operation or management, and each of their respective officers, directors, employees, predecessors, successors and assigns, referred to in, arising from or relating to a letter dated July 7, 1993 from Teresa Gilbert of the Ontario Ministry of the Environment and Energy to James M. Boggs adopting the conclusions and recommendations outlined in the April 1992 report of Golder Associates Ltd. entitled "Environmental Investigation – The Windsor Bumper Division of WCA Canada Ltd. – Windsor, Ontario" and stating that such work should proceed as soon as possible; and
+(iv) all of the obligations and liabilities of Vendor and its divisions, subsidiaries, parents, or affiliated corporations or companies, or corporations as companies associated through ownership, operation or management, and each of their respective officers, directors, employees, predecessors, successors and assigns, referred to in, arising from or relating to a letter dated August 6, 1993 from James M. Boggs to Teresa Gilbert of the Ontario Ministry of the Environment and Energy incorporating a letter dated August 4, 1993 from Golder Associates Ltd. outlining a tentative work plan and schedule for the proposed implementation of the recommended remediation measures at the Property.
+[9] Under the Agreement, Mr. Docherty and Mr. Arnold were required to provide personal guarantees of the obligations of the Appellant to WCA, and to provide statements showing their net worth, and Prueffer was required to furnish its financial statements for the proceeding three years. The Appellant also agreed to purchase insurance against any environmental damage its bioremediation operation might cause at the site.
+[10] In order to prepare the Appellant’s financial statements and tax return for 1994, Mr. Menzies needed to determine the Appellant’s cost for the land, buildings and equipment. He came up with a figure of $3,155,000, made up the $25,000 in cash paid by the Appellant and $3,130,000, which Mr. Menzies estimated to be the amount of the liabilities assumed by the Appellant for the clean up of the property.
+[11] He based his estimate of the cost of the liabilities on a valuation report for the property which had been provided to him with the copy of the contract of the purchase and sale and other closing documents. The valuation report was prepared using the assumption that the property was not contaminated. It put the fair market value of the property at $3,155,000[3]. Mr. Menzies reasoned that the difference between the fair market value of the property if it were uncontaminated and the amount of cash that the Appellant paid to the vendor should equal the cost of cleaning up the property.
+[12] Mr. Menzies allocated the estimated cost of the property between land, buildings and equipment as follows[4]:
+Land $500,000
+Buildings $1,600,000
+Equipment $1,055,000
+[13] In the Appellant's tax returns for its 1994 and subsequent taxation years the buildings were treated as Class 1 property under Schedule II of the Income Tax Regulations and capital cost allowance was taken on them at a rate of 4% per annum. The equipment was treated as class 8 assets and CCA was taken at a rate of 20% per annum. In its 1997 and 1998 taxation years the Appellant claimed capital cost allowance as follows:
+1997 1998
+Class 1 (buildings) $57,803 $55,491
+Class 8 (equipment) $121,536 $97,229
+Up to and including the year 2000 the Appellant deducted more than $1,000,000 of capital cost allowance for the buildings and equipment from its income.
+[14] The evidence shows that the Appellant and a related company entered into a partnership (referred to as “Waste Recovery Systems”) in February, 1994 to carry on the soil remediation project. At some later point it was decided that the business would be run by a different partnership called Waste Recovery Systems of Windsor, in which Mr. Arnold and Mr. Docherty were the partners. It appears that some preliminary work on the project was done, but that it stopped when Mr. Arnold died in about 1997 or 1998. Mr. Menzies said that partnership did carry out some clean-up of the property but did not say what, in particular, was done, or when. He said, though, that the cost of that work was deducted by the individual partners and not by the Appellant. The Appellant earned rental income from the partnership in certain years but did not incur any clean-up expenses and did not carry out any clean up of the property. Mr. Menzies also said that he was not aware of any order or demand having been made by any authority to clean up the property.
+Appellant’s Position
+[15] Counsel for the Appellant submitted that the Minister erred in failing to include the amount of the assumed clean up liabilities described in the Agreement of Purchase and Sale in the Appellant's cost of the property for the purposes of taking capital cost allowance under the Income Tax Act[5] (the "Act").
+[16] Counsel stated that since “cost” is not defined in the Act, it must be determined in accordance with accepted business principles. According to those principles, cost includes any legal obligations of the seller that are assumed by the purchaser as consideration for the purchase price.
+[17] In support of this proposition, counsel relied on the decision of the Supreme Court of Canada in Time Motors Ltd. v. Canada (Minister of National Revenue ‑M.N.R.)[6] where it was held that the credit notes given in partial payment for used cars acquired by the taxpayer for re-sale formed part of its cost of those cars. In that case, the Court said, at page 504:
+... The credit note should not be considered apart from the transaction out of which it arises. It is part of the consideration for an executed contract, the purchase of a used car. Under that contract, appellant became obliged to pay a stated sum of money, a part only of that sum was paid in cash, the balance remaining due was stipulated payable in merchandise of a stated kind. While the contract is spelled out in two separate documents, the bill of sale and the credit note, the latter cannot be considered otherwise than as evidence of the conditions of the obligation to pay the balance of the purchase price. That obligation must be considered as subsisting until satisfied or expired. ...
+[18] Counsel also submitted that the method used by Mr. Menzies for estimating the amount of the liability was in accordance with generally accepted business principles.
+[19] Counsel asked the Court to find that the Appellant incurred a cost by assuming WCA’s clean-up obligations with regard to the property. He stressed that those obligations were very real; WCA had already committed itself to doing the work recommended by Golder Associates. The commitment to do the work was spelled out in the two letters referred to in Article 1.1(a)(iii) and (iv) of the Agreement: the first, from Teresa Gilbert of the Ontario Ministry of the Environment and Energy to James M. Boggs dated July 7, 1993, and the second, from Boggs to Gilbert dated August 6, 1993 which made it clear that WCA had become legally obligated to proceed with the work as soon as possible. This legal obligation was then assumed by the Appellant as part of the purchase of the property.
+[20] Counsel said that the guarantees provided by Mr. Docherty and Mr. Arnold and the requirement that to provide financial information showed that the parties considered that the Appellant was assuming onerous clean up obligations.
+[21] Counsel submitted that the obligation assumed by the Appellant was to proceed with the remediation work as soon as possible, and that the obligation was not made dependent on any future event.
+[22] Counsel also said that the fact that no money had been spent by the Appellant to date on clean up did not mean that the obligation did not exist; it is a liability which will still have to be met. He relied on the decision of the Federal Court of Appeal in Wawang Forest Products Ltd. v. Canada[7], where the Court said:
+... Generally, a taxpayer incurs an expense when it has a legal obligation to pay a sum of money. In most situations, the legal obligation exists upon the fulfilment of the contractual obligations to which the payment relates. Whether the payment of the obligation is required at that moment or in a subsequent year is irrelevant. ...[8]
+[23] Furthermore, counsel said that the obligation to clean up the property here was not made dependant on the occurrence of any other event and there was no evidence to show that the obligation had expired.
+Respondent's Position
+[24] Counsel for the Respondent did not dispute that the cost of property under the Act includes the cost of any legal obligations assumed as part of the consideration given for the property. However, she submitted that the Appellant in this case has not shown that it ever assumed any legal obligation to clean up the property and therefore that it ever incurred an expense in respect of the clean‑up. In the absence of a legal obligation to pay an amount, no deduction may be taken in calculating income from business for the year[9]. In the case of capital expenditures, capital cost allowance is only available in respect of capital expenditures that have been incurred. Contingent obligations and estimates of expenses are not deductible.
+[25] Further authority for the proposition an amount must be expended or incurred in a year in order to be deductible is found in paragraph 18(1)(e) of the Act which prohibits the deduction of an amount as or on account of a reserve contingent liability or amount or a sinking fund expressly permitted by the Act.
+[26] Counsel for the Respondent said that the only amount paid by the Appellant for the property was the $25,000 cash, and that the amount set up by the Appellant as its capital cost was simply an estimate of a potential expenditure, uncertain both in time and amount.
+[27] Finally, counsel said that the purpose of CCA was to allow a taxpayer to deduct, on an annual basis, a portion of the cost of capital that was consumed during that taxation year in the business. It is directed to the recovery, over a period of time, of a cost expended or an outlay made. In this case, however, in the ten years since the Appellant has owned the property it has not expended anything on cleaning it up. If the Appellant were allowed to deduct CCA as claimed it would be recovering a cost that it has not paid.
+Analysis
+[28] In this case, as already noted, the dispute between the parties concerns the determination of the capital cost of the land and buildings to the Appellant.
+[29] For the reasons that follow, I conclude that the Appellant has not shown that the Minister’s calculation of the capital cost of the land and buildings is incorrect.
+[30] The statutory basis for the deduction of capital cost allowance is found in paragraph 20(1)(a) of the Act, which provides that in calculating a taxpayer’s income from business or property a deduction may be taken for “such part of the capital cost to the taxpayer of property, … as is allowed by regulation; ...”
+[31] Although the term “capital cost” is not defined in the Act, according to the jurisprudence, it "refers to the actual, factual or historical cost to the taxpayer of the depreciable property when acquired, ..."[10]. “Cost” in turn has been held to mean:
+... the money or money’s worth which is given up by somebody to get something. It is generally viewed as an objectively determinable historical fact, the answer to the question "how much was paid?" ... To put the matter at its simplest, cost is what you have paid for something, value is what another will give you for it; the two are not synonymous. [T]he cost of an asset to a taxpayer is what he has given up to acquire it.[11]
+[32] Also, in the recent decision of the Supreme Court of Canada in The Queen v. Canada Trustco Mortgage Company[12], it was noted that:
+[t]extually, the CCA provisions use “cost” in the well-established sense of the amount paid to acquire assets.
+[33] In the case before me, the Appellant claims that it gave money’s worth to WCA by agreeing to take over its obligation to clean up the property. The evidence does not support this claim. All that has been shown is that, as part of the purchase of the property, the Appellant assumed whatever liability WCA might have had to clean up the property. It has not been shown that at the time of the purchase WCA did in fact have any such liability.
+[34] It is not possible to say whether the correspondence between the Ontario Ministry of the Environment and Energy and Mr. James Boggs (referred to in the definition of the "assumed liabilities" in the Agreement of Purchase and Sale) created a legally enforceable obligation on WCA to carry out specific clean‑up work. Neither of the letters was put into evidence and no one with any knowledge of the dealings between the Ministry of the Environment and Energy and WCA was called as a witness.
+[35] From the language used in the Agreement of Purchase and Sale it seems likely that some agreement was reached between Gilbert and Boggs regarding remediation work on the property but there is no evidence to show that the agreement was binding on either party to it. In the absence of any corroborating evidence, I am left to speculate on key aspects of the agreement, such as whether any consideration was given or whether Gilbert, on behalf of the Ministry of the Environment and Energy, was invoking some statutory authority to compel an undertaking to clean up the property. I am also left to speculate whether the agreement was contingent on the occurrence of any future event.
+[36] The fact that the clean-up work described in the Golder report has not been done to date would tend to support the Respondent’s position that no legal obligation to clean up the property was ever created. Otherwise, one would expect that the Ministry of the Environment and Energy would have taken some steps to enforce the clean-up.
+[37] While the Appellant's counsel suggested that it was up to the Respondent to bring evidence to show that the obligation to carry out the clean-up had expired, such evidence would only have been necessary if the Appellant had first succeeded in making out a case that the obligation had come into existence.
+[38] The Appellant's counsel submitted that the guarantees given by Messieurs Docherty and Arnold and the insurance taken out by the Appellant would prove that the Appellant was assuming a legal obligation to clean up the property. If the Appellant was not assuming the obligation, he said, there would have been no need for the vendor, WCA, to obtain the guarantees.
+[39] I do not find that the requirement on Docherty and Arnold to give guarantees or on the Appellant to obtain insurance coverage is sufficient in itself to show that there was an underlying legal obligation to clean up the property assumed by the Appellant. Those requirements are equally consistent with WCA wanting to insulate itself from any possible liability related to the contamination of the property without it being aware of any specific or existing liability at the point of sale. Furthermore, the fact that a person believes him or herself to be under a legal obligation is not proof of the obligation. Ultimately, the existence of the obligation is a question of law.
+[40] The Appellant has not met the onus upon it to show that it was under a legal obligation to expend any amount to clean up the property. As was stated by the Federal Court of Appeal in Newfoundland Light and Power Co. Ltd. v. The Queen[13] “… there is no cost of property to a taxpayer as long as the obligation to pay that cost has not come into existence”. It follows that the Appellant in this case cannot deduct capital cost allowance in respect of a cost which it has not shown that it has incurred.
+[41] Even if I had found that the Appellant assumed a legal obligation to clean up the property, the Appellant would still have had the onus to prove the cost of that obligation. The figure used by Mr. Menzies was, by his own admission, an estimate based on a valuation report that was not put into evidence. No weight could be attached to the estimate. No other evidence of the alleged cost was presented, and as such, the Minister’s assumptions regarding the cost of the buildings and equipment would, in any event, not have been demolished.
+[42] For all these reasons the appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 5th day of January 2006.
+"B. Paris"
+Paris, J.
+CITATION: 2005TCC768
+COURT FILE NO.: 2002-34(IT)G
+STYLE OF CAUSE: A & D HOLDINGS INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Windsor, Ontario
+DATE OF HEARING: November 16, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: January 5, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Arthur M. Barat
+Counsel for the Respondent:
+Deen C. Olsen
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Arthur M. Barat
+Firm: Barat, Farlam, Millson
+Windsor, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1][1] The Minister assumed that the undepreciated capital cost of the buildings and equipment had been reduced to zero by claims for capital cost allowance taken by the Appellant and allowed by the Respondent in 1994, 1995 and 1996 taxation years such that the opening undepreciated capital cost of the buildings and equipment in 1997 was nil and therefore that no amount of CCA was available for deduction in the Appellant’s 1997 and 1998 taxation years.
+[2] As part of the re-zoning WCA was required to enter into an agreement with the City of Windsor to take steps to minimize the possibility that contaminated soil, trucked in, would escape from the property. One of the obligations under the agreement, dated November 8, 1993, between WCA and the city of Windsor was that WCA would build a large fence along one side of the property. The cost of this work was not specifically dealt with in the evidence or argument, and I will not consider it to be in issue.
+[3] No expert evidence of the value of the property, contaminated or otherwise, was presented at the hearing.
+[4] Mr. Menzies used the value of the equipment set out in the valuation report previously referred to, and was told by Mr. Docherty that the land value was $500,000.
+[5] [RSC 1985, c.1 (5th Supp.)]
+[6] [1969] S.C.R. 501
+[7] [2001] F.C.J. No. 449.
+[8] Supra, at paragraph 9
+[9] See The Queen v. Burnco Industries Ltd. 84 DTC 6348 (FCA) and J.L. Guay Ltee v. The Queen 71 DTC 5423 (Ex. Ct.)
+[10] Cockshutt Farm Equipment of Canada Ltd. v. M.N.R., 66 DTC 544 at 551
+[11] The Queen v. Kettle River Sawmills Limited, 94 DTC 6086 (F.C.A.) at 6092.
+[12] 2005 S.C.C. 54
+[13] [1989] F.C.J. No. 1064.

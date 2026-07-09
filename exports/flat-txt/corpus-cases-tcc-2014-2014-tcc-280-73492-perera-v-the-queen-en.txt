@@ -1,0 +1,268 @@
+Title: Perera v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/73492/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-280-73492-perera-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-03-23
+
+# Perera v. The Queen
+
+- Citation: 2014 TCC 280
+- Decision date: 2014-03-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5163, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perera v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-03-23
+Neutral citation
+2014 TCC 280
+File numbers
+2013-3788(IT)I
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-3788(IT)I
+BETWEEN:
+MAHES PERERA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on March 28, 2014, at Toronto, Ontario.
+Before: The Honourable Justice K. Lyons
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Katie Beahen
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the appellant’s 2009 and 2010 taxation years are allowed in part, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the bases that:
+a) The appellant is entitled to deduct employment expenses in the amounts of:
+2009
+2010
+Conceded by the
+Minister
+$9,389.97
+$9,757.15
+Postage
+$3.42
+$42.53
+Rental Vehicle
+$325.00
+Telemarketing
+$4,400.00
+b) The late filing penalty for the 2010 taxation year is vacated.
+In all other respects, the appeals are dismissed.
+Signed at Vancouver, British Columbia, this 23rd day of September 2014.
+"K. Lyons"
+Lyons J.
+Citation: 2014 TCC 280
+Date: 20140923
+Docket: 2013-3788(IT)I
+BETWEEN:
+MAHES PERERA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lyons J.
+[1] Mahes Perera appeals reassessments made by the Minister of National Revenue under the Income Tax Act (the “Act”).
+[2] The issues to be decided are:
+(a) Is Mr. Perera entitled to deduct employment expenses that he claims were incurred by him in 2009 and 2010 for the purpose of earning employment income as a commissioned sales employee?
+(b) Is Mr. Perera liable for a late filing penalty relating to his 2010 income tax return?
+[3] Mr. Perera, the sole witness, testified on his own behalf.
+I. Background Facts [4] In 2003, Mr. Perera commenced employment with RBC Life Insurance Company (“RBC”) 111 Grangeway Avenue, Scarborough, Ontario, as a commissioned sales representative selling insurance policies.
+[5] Mr. Perera explained that an office was made available to him at the RBC offices for the sole purpose of bringing in clients. However, he was expected to work away from the office and worked from home or in his car. Sales personnel had to access records at the RBC offices but could not take the records out of the offices.
+[6] RBC had an expectation that he incur certain expenses. One example was the substantial amount he spent for advertising in 2009. He also stated that he had to pay for supplies he used at RBC, citing $2 for a pen.
+[7] The Declaration of Conditions of Employment form T2200 (“Form”) completed by RBC indicates that Mr. Perera was required to pay his own expenses, work away from RBC's place of business, pay his own vehicle expenses, pay for supplies that he used in his work, pay for other (“various”) expenses for which he did not receive an allowance or repayment and pay for the use of a cell phone. The Form also indicates that he was paid a commission according to the volume of sales made or contracts negotiated.
+[8] In 2011, RBC terminated Mr. Perera and he was escorted from the RBC premises and was not given access to his files or client list.[1] He said that some of the documents that he needed to support his claims for expenses remained at the RBC offices.
+[9] When filing his income tax returns for the 2009 and 2010 taxation years, Mr. Perera reported commission income in the amounts of $47,177 and $32,597, respectively, and claimed employment expenses deductions of $27,577 and $23,075, respectively.[2] At the hearing, approximately 670 receipts were presented. He had placed the receipts into a drawer without organizing them.
+[10] The Minister categorized the expenses as follows:[3]
+Expenses Claimed
+2009
+2010
+Motor vehicle
+$ 9,685
+$ 8,775
+Meals, beverages, entertainment
+2,400
+2,100
+Advertising and promotion
+10,127
+9,536
+Parking costs
+1,500
+Supplies
+220
+180
+Phone
+3,200
+2,484
+Car rental
+325
+Travel – 407
+120
+________
+$27,577
+$23,075
+[11] Of the amounts claimed, the Minister has conceded the amounts of $9,389.97 for 2009 and $9,757.15 for 2010 constitute employment expenses.[4] The remaining amounts comprise the amounts in dispute (“amounts in dispute”).
+[12] Mr. Perera testified in a forthright manner and candidly admitted that he had mistakenly claimed some non-deductible personal expenses.
+II. Law [13] A commissioned sales employee can make deductions from her or his employment income only if the type of expense is specified under section 8 of the Act.[5] Each subsection stipulates that the employee must be required by her or his employer, under a contract of employment, to pay for the expenses in the year in the course of her or his employment.
+[14] Paragraph 8(1)(f) authorizes the deduction of expenses up to the limit of commission income earned.[6] In addition to those conditions, the amounts must be expended by the employee in the year for the purpose of earning income from employment, and the employee must also:
+(a) be employed in the year in connection with the selling of property or negotiating contracts for her or his employer;
+(b) ordinarily be required to carry on duties of the employment away from the employer’s place of business;
+(c) be remunerated, in whole or in part, by commissions; and
+(d) not be in receipt of a non-taxable travel allowance.
+[15] A specified expense will only qualify as a deduction if the above conditions are met and the expense was:
+(a) not an outlay, loss or replacement of capital or payment on account of capital;
+(b) not an outlay or expense that is not deductible pursuant to paragraph 18(1)(l);
+(c) not an amount described in subparagraph 8(1)(f)(vii) in connection with standby charges for a vehicle; and
+(d) reasonable in the circumstances.
+[16] The application of the purpose test in paragraph 8(1)(f) is similar though not identical to the business expenses purpose test.[7] The Supreme Court of Canada in Symes v Canada, [1993] 4 SCR 695 (SCC), involving the later test, at paragraph 68, notes that in considering the purpose behind actions, courts should not be guided only by a taxpayer’s statements, ex post facto or as to the subjective purpose of an expenditure. Instead, courts need to also look for objective manifestations of purpose which is ultimately a question of fact having regard to all of the circumstances.[8]
+[17] With respect to motor vehicle expenses, under paragraph 8(1)(h.l) the employee must be required to carry on employment duties away from the employer’s place of business and required contractually to pay for expenses incurred while traveling for employment purposes.[9]
+[18] With respect to supplies expenses, subparagraph 8(l)(i)(iii) requires that the supplies must have been consumed directly in the performance of duties the employee was required to perform and the employee was required to pay for.[10]
+[19] With respect to meals, beverages and entertainment expenses, subsection 8(4), section 67 and paragraphs 67.1(a) and (b) read as follows:
+8(4) An amount expended in respect of a meal consumed by a taxpayer who is an officer or employee shall not be included in computing the amount of a deduction under paragraph 8(1)(f) or 8(1)(h) unless the meal was consumed during a period while the taxpayer was required by the taxpayer’s duties to be away, for a period of not less than twelve hours, from the municipality where the employer’s establishment to which the taxpayer ordinarily reported for work was located and away from the metropolitan area, if there is one, where it was located.
+…
+67 In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+67.1(1) Subject to subsection (1.1), for the purposes of this Act, other than sections 62, 63, 118.01 and 118.2, an amount paid or payable in respect of the human consumption of food or beverages or the enjoyment of entertainment is deemed to be 50 per cent of the lesser of
+(a) the amount actually paid or payable in respect thereof, and
+(b) an amount in respect thereof that would be reasonable in the circumstances.
+III. Analysis [20] Mr. Perera has the onus to establish a prima facie case that the deductions denied by the Minister qualify as employment expenses. To do so, Mr. Perera must demolish the exact assumptions made by the Minister to show the reassessments are incorrect.
+[21] The thrust of Mr. Perera’s position is that the expenses comprising the amounts in dispute were incurred to find clients to earn employment income and he worked hard to do so, therefore he should be entitled to a reasonable amount as employment expenses.[11]
+Personal Expenses
+[22] The first step in applying the purpose test under paragraph 8(1)(f) is to identify which of the expenses claimed constitute personal expenses. In making that determination, the Supreme Court in Symes, at paragraph 70, referred to the following comments from Professor Brooks:
+If a person would have incurred a particular expense even if he or she had not been working, there is a strong inference that the expense has a personal purpose. For example, it is necessary in order to earn income from a business that a business person be fed, clothed and sheltered. However, since these are expenses that a person would incur even if not working, it can be assumed they are incurred for a personal purpose – to stay alive, covered, and out of the rain.
+[23] Having reviewed the decision in Symes, in Arthurs v Canada, 2003 TCC 636, [2004] 1 CTC 2948, this Court concluded that expenses for meals with other actors for networking, dry-cleaning, eyeglasses, movie tickets, video rentals, gym memberships and casual clothing were non-deductible personal expenses.[12]
+[24] With respect to clothing (from Giant Tiger, Walmart casual clothing and Town shoes) and dry cleaning expenses ($600 for suit jackets), I agree with respondent counsel that while Mr. Perera needs to be well groomed for work, the expenses relating to one’s personal appearance relate to choices made by him in preparation for work. I find that the clothing used for work as everyday work wear, casual clothing and the dry-cleaning expenses were not expended for the purpose of earning employment income and are non-deductible personal expenses.
+[25] Mr. Perera acknowledged that of the amounts in dispute, he had mistakenly claimed some personal expenses at a time when he was ill and unable to function properly. He produced approximately 670 receipts from the drawer where he stored the receipts. He admitted the receipts for vitamins, Go Transit,[13] gym memberships and spa treatments for him and his wife were personal. Without identifying other specific items, during cross-examination he agreed that there could be or “may be” personal expenses amongst the amounts in dispute that he has claimed. He claimed amounts for grocery items, a vacuum cleaner, a Magic Bullet (the receipt indicates it was returned), driveway sealing, dry‑cleaning for his wifes’s clothing, J’adore women's clothing, Bouclair household items, the full amount for cable, home phone, internet and other items in addition to the specific items below.[14]
+[26] Claims for a large number of personal expenses can cast doubt on claims for expenses by a taxpayer. In Chrabalowski v Canada, 2004 TCC 644, [2005] 1 CTC 2054, the taxpayer had produced a large number of disorganized receipts for advertising, entertainment, vehicle, parking and supplies, with many unproved implausible and unreasonable claims. Similar to that case and the Court’s finding, Mr. Perera was required to keep proper records and separate receipts but failed to do so making it difficult to differentiate between personal versus employment-related expenses.
+[27] Based on the evidence and guided by the jurisprudence, other than the fifty per cent of expenses conceded by the Minister for the internet and my findings below, Mr. Perera has failed to establish a prima facie case that the amounts in dispute were expended by him for the purpose of earning employment income. I infer these are personal expenses. I agree that the amounts were properly disallowed by the Minister.
+[28] His testimony was that because his vehicles were unreliable, he had rented a car in 2009 for work purposes. I find that this is a plausible explanation in his situation. Therefore, $325 is allowed as a deductible expense.[15]
+Supplies
+[29] Mr. Perera claimed $220 for 2009 and $180 for 2010 for supplies on his tax returns. His testimony was that he used RBC supplies and had to pay for some of those plus he purchased a printer and a second-hand laptop to use at home for his work. He also spent money on postage to mail documents to Ottawa relating to his work.
+[30] Respondent counsel argued that the printer and the laptop were on account of capital.
+[31] I agree and note that paragraph 8(1)(f) specifically excludes deductions for items on account of capital. However, based on Mr. Perera's evidence including the Form indicates that he is required to pay for supplies, I accept that the postage in the amounts of $3.42 for 2009 and $42.53 for 2010 were supplies and are deductible as employment expenses.
+Motor Vehicle Expenses [32] Mr. Perera claimed $8,185 for 2009 and $8,055 for 2010 as motor vehicle expenses.[16] Mr. Perera testified that he claimed expenses for only two of the four cars that were in his name but did not provide a logbook. He stated that the amounts claimed for motor vehicle expenses are based on estimates of gas of $80 per week for 2009 and $50 per week for 2010 for an 11-month period in each of those years.[17]
+[33] Respondent counsel argued that the expenses he claimed made it difficult to determine how much of the expenses were incurred in the course of employment because his claims were largely based on estimates and he was unable to substantiate his claims. Respondent counsel referred me to the case of Glawdecki v Canada, 2010 TCC 650, [2010] TCJ No. 522 (QL), in which this Court noted that the evidentiary hurdle is not easily overcome where there is a failure to keep a vehicle log for expenses incurred.
+[34] Since no reliable records nor other evidence were available to substantiate his vehicle expense claims, beyond the amounts conceded by the Minister, I find that Mr. Perera has failed to establish a prima facie case that the amounts were expended by him in performing his duties while travelling in the course of his employment pursuant to paragraph 8(1)(h.1). I conclude that the Minister properly disallowed those amounts.
+Parking
+[35] Mr. Perera claimed parking expenses of $1,500 for 2009. In cross‑examination, he admitted that the last five receipts, in Exhibit A-2 at Tab 29, relate to monthly parking at RBC’s offices. With respect to the remaining 49 receipts,[18] he initially admitted that these were for parking at or adjacent to RBC’s offices, and later said he was unsure.
+[36] Respondent counsel argued that these were personal expenses incurred by any employee driving to and from their employer's premises.
+[37] Absent other evidence, I infer that the parking expenses in 2009 are for his attendance at RBC’s office and a personal expense. The Minister was correct in disallowing the amount claimed in 2009.
+Meals, Beverages and Entertainment [38] Mr. Perera’s claim under this heading is $2,400 for 2009 and $2,100 for 2010. He testified that meals for a group of people were purchased for commercial events but he could not provide the names of the clients that had attended. He stated that he met his clients at restaurants and often could only consummate a deal if he purchased lunch and sometimes a beverage. In cross‑examination, he admitted that some of the meals and alcohol may have been for family and friends and was unable to differentiate which amounts were for personal and which were for employment related.
+[39] Mr. Perera acknowledged that the majority of the meal expenses were for singular meals at fast food restaurants that he had consumed. He explained that for the receipts showing a singular meal, that he would consume the food and beverage while he was waiting for clients to show up at the restaurant and maintains that this relates to his ability to generate commission income. Consistent with the principles in Symes, I find that these are personal expenses.
+[40] According to the Form, he was not required to travel outside of the municipality of RBC’s place of business for 12 hours or more. He stated that the Form was incorrect because if he was given a client referral he had to go to the client wherever they were located in Ontario. Mr. Perera did not call Joe DeLuca, Sales Director of RBC, to testify as an independent witness to corroborate that the Form was incorrectly completed relating to that question, I must reject Mr. Perera’s evidence on this aspect and draw an adverse inference that the Form was correctly completed.
+[41] The respondent’s position is that other than the amounts for group meals, beverages and gift tickets to third parties, of which the respondent has conceded fifty per cent as allowable and reasonable in the circumstances, the remaining amounts consist of singular meals and beverages consumed by Mr. Perera and the expenses for entertainment were unsubstantiated.[19] Further, since the Form completed by RBC indicates that he was not required to be away from the municipality from where RBC was located for more than 12 hours, the meals he consumed are not deductible under subsection 8(4) of the Act.
+[42] Based on the evidence, I accept that the respondent properly disallowed the remaining amounts claimed for meals, beverages and entertainment expenses.
+[43] With respect to the purchases of alcohol from the LCBO and The Beer Store, his testimony was that he would take a case of beer and meet clients to discuss insurance. He also described his practice of taking a case of beer to a garage where his clients would consume beer while waiting for their vehicles to be repaired. In response to questions by respondent counsel, he admitted that the whiskey and brandy on the receipts were for his personal consumption and “maybe”, depending on the day, there were receipts for other alcohol for his personal consumption.
+[44] The respondent made a concession of fifty per cent for alcohol purchases for clients except for items that he acknowledged he had consumed, and disallowed the remaining amount. In light of the evidence, I find that the respondent properly disallowed the remaining amount.
+Advertising and Promotion [45] The amounts at issue are $10,127 for 2009 and $9,536 for 2010. Mr. Perera stated that in 2009 he had advertised 16 times. In 2010, he spent $2,100 but in cross-examination he could not recall how many times he advertised. His testimony was that he hired four students for telemarketing. Mr. Perera produced only one receipt that provided a name, signature and phone number of a telemarketer confirming services were rendered to Mr. Perera in 2009 totalling a $4,400.
+[46] Respondent counsel conceded, in full, the amounts for advertising from any third party. However, the remaining amounts were disallowed because Mr. Perera failed to prove or provide adequate and reliable evidence to support the remaining expenses.
+[47] I accept Mr. Perera’s evidence with respect to telemarketing in 2009 but only for the amount of $4,400 as substantiated by the signed receipt. However, since he failed to produce receipts or provide adequate explanations for the remaining amounts, I find that the respondent properly disallowed the remaining amounts for this category of expenses.
+Late Filing Penalty [48] For the 2010 taxation year, the Minister imposed a late filing penalty pursuant to subsection 162(1) of the Act. Mr. Perera challenges the penalty.[20]
+[49] The evidence established at trial was that the 2010 return of income was received by the Canada Revenue Agency on May 10, 2011,[21] an amount was owing and the due date for filing the return was May 2, 2011.
+[50] Mr. Perera stated that he believed he had filed the 2010 return of income by the due date. He testified that by 2009 to 2011 he was very sick and had developed some serious health issues while employed with RBC. The Respondent has admitted that Mr. Perera was placed on long-term disability because of cognitive functions.
+[51] This Court has recognized a due diligence defence for the imposition of penalties if a taxpayer demonstrates that reasonable steps were taken to comply with the legislation. In Rupprecht v Canada, 2007 TCC 191, [2006] TCJ No. 586 (QL), the Court noted, at paragraph 24, that in Bennett v The Queen, the Court held that a due diligence defence is available to a taxpayer against whom a late filing penalty has been assessed but a high degree of diligence is to be expected from a taxpayer. More recently, the Court reiterated the availability of a due diligence defence where reasonable steps are taken to comply with the legislation.[22]
+[52] I am satisfied that given Mr. Perera’s illness, he took reasonable steps and was duly diligent in attempting to comply with the obligation to file his 2010 return. I conclude it would be unreasonable to impose a late filing penalty.
+[53] In summary, the appeal is allowed in part to the extent that the late filing penalty for the 2010 taxation year is vacated, and Mr. Perera will be allowed additional employment expenses as follows:
+2009
+2010
+Conceded by the Minister
+$9,389.97
+$9,757.15
+Postage
+$3.42
+$42.53
+Rental Vehicle
+$325.00
+Telemarketing
+$4,400.00
+[54] In all other respects, the appeals are dismissed.
+Signed at Vancouver, British Columbia, this 23rd day of September 2014.
+"K. Lyons"
+Lyons J.
+CITATION:
+2014 TCC 280
+COURT FILE NO.:
+2013-3788(IT)I
+STYLE OF CAUSE:
+MAHES PERERA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 28, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice K. Lyons
+DATE OF JUDGMENT:
+September 23, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Katie Beahen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Within a few weeks of the termination, RBC moved from their offices.
+[2] Mr. Perera reported income from RBC in the amounts of $47,230 for 2009 and $32,652 for 2010. These amounts included the commission income. I note that paragraph 18 of the Reply is in error in stating the commission income is $32,652.
+[3] The amounts are rounded down.
+[4] The conceded amounts comprise of the full amount for the cell phone, advertising substantiated by invoices and/or receipts issued by a third party and repairs for one motor vehicle. The respondent also allowed fifty per cent of each of the following categories: group meals and beverages, travel, alcohol, gift tickets given to third parties, regular gas for one motor vehicle and internet.
+[5] Subsection 8(1) specifies the types of expenses. Subsection 8(2) contains the general limitation which reads “Except as permitted by this section, no deductions shall be made in computing a taxpayer’s income for a taxation year from an office or employment.”
+[6] Paragraph 8(1)(f) reads:
+8(1) In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto
+…
+(f) where the taxpayer was employed in the year in connection with the selling of property or negotiating of contracts for the taxpayer’s employer, and …
+(i) under the contract of employment was required to pay the taxpayer’s own expenses,
+(ii) was ordinarily required to carry on the duties of the employment away from the employer’s place of business,
+(iii) was remunerated in whole or part by commissions or other similar amounts fixed by reference to the volume of the sales made or the contracts negotiated, and
+(iv) was not in receipt of an allowance for travel expenses in respect of the taxation year that was, by virtue of subparagraph 6(1)(b)(v), not included in computing the taxpayer’s income,
+amounts expended by the taxpayer in the year for the purpose of earning the income from the employment (not exceeding the commissions or other similar amounts referred to in subparagraph 8(1)(f)(iii) and received by the taxpayer in the year) to the extent that those amounts were not
+(v) outlays, losses or replacements of capital or payments on account of capital, except as described in paragraph 8(1)(j),
+(vi) outlays or expenses that would, by virtue of paragraph 18(1)(l), not be deductible in computing the taxpayer’s income for the year if the employment were a business carried on by the taxpayer, or
+(vii) amounts the payment of which reduced the amount that would otherwise be included in computing the taxpayer’s income for the year because of paragraph 6(1)(e); …
+[7] That is, were the amounts expended by the taxpayer in the year for the purpose of earning income from employment.
+[8] At paragraphs 20 to 24 in Leriche v Canada, 2010 TCC 416, 2010 DTC 1279, Justice D’Arcy notes in his review of the Symes case that subsection 9(1), authorizing the deduction of business expenses and the presence of a profit test, and subsection 18(1), limiting those deductions, are not factors that are contained in paragraph 8(1)(f).
+[9] Paragraph 8(1)(h.1) reads:
+8(1)(h.1) where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer’s place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for motor vehicle expenses that was, because of paragraph 6(1)(b), not included in computing the taxpayer’s income for the year, or
+(iv) claims a deduction for the year under paragraph 8(1)(f);
+…
+[10] Paragraph 8(i) reads:
+8(i) amounts paid by the taxpayer in the year as
+…
+(iii) the cost of supplies that were consumed directly in the performance of the duties of the office or employment and that the officer or employee was required by the contract of employment to supply and pay for, …
+[11] The respondent’s position is that many of the amounts in dispute are for non-deductible personal expenses. Furthermore, some expenses were not incurred, and if incurred were not required by RBC to be incurred by Mr. Perera in the course of his employment, and they were not reasonable. As well, he was not required to be away for at least 12 consecutive hours from where he ordinarily reported to work. Therefore, he was not entitled to deduct expenses for meals.
+[12] The Court conducted an extensive review of the difference between personal and business expenses, and applied the “but for” test to the need of the expense. In Gaouette v Canada, [2004] 2 CTC 2851, the Court also found that expenses for dry-cleaning, haircuts and manicures were personal.
+[13] There were 20 receipts; two at $170 each; one at $90.50; and seventeen at approximately $45 each.
+[14] Exhibit A-2.
+[15] It was unclear whether this was being claimed under paragraph 8(1)(f) or 8(1)(h.1). However, since the Form indicates he is required to incur “various” expenses, it was categorized under paragraph 8(1)(f).
+[16] In arriving at these figures, I have reduced the amounts from those shown in the Minister’s Reply by the amounts claimed for parking in each year as these are dealt with under a separate heading.
+[17] Of the four vehicles in his name, his daughter and his son each used a vehicle but his wife did not drive any of the vehicles.
+[18] Mostly in the amounts of $2.50, $3.00 and $4.00.
+[19] For example, Mr. Perera had claimed spent movie tickets as entertainment for his clients. In cross-examination, he could not explain how he obtained the spent tickets from his clients or the ticket takers.
+[20] Subsection 162(1) reads:
+Every person who fails to file a return of income for a taxation year as and when required by subsection 150(1) is liable to a penalty equal to the total of
+(a) an amount equal to 5% of the person’s tax payable under this Part for the year that was unpaid when the return was required to be filed, and
+(b) the product obtained when 1% of the person’s tax payable under this Part for the year that was unpaid when the return was required to be filed is multiplied by the number of complete months, not exceeding 12, from the date on which the return was required to be filed to the date on which the return was filed.
+[21] T1 General Income Tax and Benefit Return 2010, Exhibit R-2.
+[22] Tuck v Canada, 2012 TCC 332, 2012 DTC 1274, at paragraph 25.

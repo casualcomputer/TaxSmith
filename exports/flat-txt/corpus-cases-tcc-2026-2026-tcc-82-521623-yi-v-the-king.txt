@@ -1,0 +1,190 @@
+Title: Yi v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521623/index.do
+Corpus path: corpus/cases/tcc/2026/2026-tcc-82-521623-yi-v-the-king.md
+Document type: case_law
+Last modified: 2026-05-11
+
+# Yi v. The King
+
+- Citation: 2026 TCC 82
+- Decision date: 2026-05-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5577, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yi v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-05-11
+Neutral citation
+2026 TCC 82
+File numbers
+2021-2(GST)G, 2021-2838(GST)G
+Judges and Taxing Officers
+Perry Derksen
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2021-2(GST)G
+BETWEEN:
+ZHENXIANG YI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2021-2838(GST)G
+AND BETWEEN:
+WEIYAO YI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motions heard on April 28, 2026 at Toronto, Ontario
+Before: The Honourable Justice Perry Derksen
+Appearances:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Devon Peavoy
+ORDER
+In accordance with the attached Reasons for Order;
+IT IS ORDERED that:
+The Appellants’ motions to set aside notices of discontinuance that were previously filed in each appeal are dismissed;
+The original motion record filed in Court file 2021-2838(GST)G without redactions is to be sealed by the Registry, with access only permitted by the appellant, and counsel for the Crown, unless otherwise directed by the Court, and for greater certainty the redacted version will not be sealed; and
+No costs are awarded.
+Signed this 11th day of May 2026.
+“Perry Derksen”
+Derksen J.
+Citation: 2026 TCC 82
+Date: 20260511
+Docket: 2021-2(GST)G
+BETWEEN:
+ZHENXIANG YI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2021-2838(GST)G
+AND BETWEEN:
+WEIYAO YI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Derksen J.
+I. Overview [1] Zhenxiang Yi (Mr. Yi) and Weiyao Yi (Ms. Yi), also known as Gordon Yi and Shelley Yi, respectively, have made motions to set aside notices of discontinuance that were previously filed.
+[2] Mr. Yi is the father of Ms. Yi. Mr. Yi’s spouse (Ms. Chen) is Ms. Yi’s mother. Consequently, these motions are brought by a father and daughter.
+[3] The pleadings in the respective Court files indicate that Mr. Yi and Ms. Yi each appealed an assessment by the Minister of National Revenue that was made under s. 325 of the Excise Tax Act, R.S.C., 1985 c. E-15 (ETA) on the basis that Ms. Chen had made a non-arm’s length transfer of property for no consideration at a time when she had a liability under the ETA.
+[4] The Crown’s replies state that Ms. Chen’s underlying liability arises from a directors’ liability assessment made on January 29, 2015, under s. 323(1) of the ETA in respect of Bestmatch Employment Consulting Ltd. (Bestmatch). The assumptions of fact set out in each reply state that Bestmatch had a liability under the ETA relating to its failure to remit net tax based on “as filed” GST/HST returns. The notices of appeal also acknowledge that Ms. Chen had been assessed under the ETA for joint and several liability with Bestmatch.
+[5] As such, the appeals concerned a series of cascading liabilities under the ETA and were rooted to issues about the GST/HST.
+[6] The appellants were represented by counsel. Although Mr. Yi had different counsel when his notice of appeal was filed, a fresh amended notice of appeal was filed by Rosen Kirshen Tax Law in December 2021 and the same counsel of record filed Ms. Yi’s notice of appeal a month earlier in November 2021. Later, their counsel were Jason Rosen and James Pendergast of the firm Rosen & Associates Tax Law (the Rosen firm).
+[7] On April 16, 2025, each appellant filed a notice of intention to act in person. The notices of discontinuance were next filed on April 21, 2025.
+[8] The appellants say the appeals were discontinued based on a fundamental misunderstanding: they believed their liability was derived from Ms. Chen’s personal income tax liability. Both appellants seemingly believed that Ms. Chen’s personal income tax liability would be eliminated through work that was being undertaken by an accountant towards a reassessment of Ms. Chen’s tax owing. The appellants thought that once the Canada Revenue Agency (CRA) completed the reassessment of Ms. Chen’s personal income tax liability this would also, in turn, eliminate their liability. But that was not so.
+[9] Mr. Yi has apparently paid the liability arising from the assessment (and presumably had hoped for a refund) but Ms. Yi has not. She received a legal warning letter from the Collections Division of the CRA dated August 25, 2025, advising her that she owed $185,286. That letter made no reference to the ETA or GST/HST. Ms. Yi assured the collections officer handling the matter that her parents’ accountant was working on her mother’s tax owing and was anticipating a reassessment. In mid-February of this year, Ms. Yi became aware of another legal warning letter from CRA Collections, this one dated January 28, 2026, which referred to her GST/HST arrears of $190,875. By all accounts, Ms. Yi was stunned.
+[10] Ms. Yi contacted the collections officer and learned that her previous understanding about her mother’s tax liability was incorrect. Soon after, Ms. Yi contacted counsel for the Crown, Ms. Peavoy, who had carriage of the appeals until they were discontinued. Ms. Yi also drew upon a line of credit secured by her residence and made a substantial payment toward the liability.
+[11] These events culminated in the filing of the motions.
+[12] Mr. Yi and Ms. Yi each swore an affidavit. The affidavits attach some of their communications with the Rosen firm, mostly in April 2025. It is essential to note that the Rosen firm did not participate in these motions. I must also acknowledge that other communications—oral or written—may have been exchanged with the Rosen firm. Accordingly, I will endeavour to restrict my findings to what is necessary here.
+[13] For the reasons set out below, I have concluded that the motions must be denied. At the same time, I acknowledge that this is a sad and unfortunate outcome. But my jurisdiction is limited and Judges do not dispense legal advice (see Davis v. Canada (Royal Canadian Mounted Police), 2024 FCA 115 at para. 42). I am releasing written reasons because Mr. Yi required the assistance of an interpreter. Moreover, written reasons will ensure that Mr. Yi and Ms. Yi can more easily review and reflect on why I must deny their motions.
+II. The Legal Framework A. An Appeal Discontinued is an Appeal that is Deemed Dismissed [14] I turn first to s. 16.2 of the Tax Court of Canada Act, R.S.C., 1985 c. T-2 (the TCC Act).
+[15] Section 16.2 reads as follows:
+16.2(1) A party who instituted a proceeding in the Court may, at any time, discontinue that proceeding by written notice.
+(2) Where a proceeding is discontinued under subsection (1), it is deemed to be dismissed as of the day on which the Court receives the written notice.
+[16] The effect of s. 16.2(2) of the TCC Act is that an appeal that is dismissed is an appeal disposed of, and an appeal which has been disposed of no longer exists: Canada (Attorney General) v. Scarola (C.A.), 2003 FCA 157 (Scarola) at para. 21. A discontinuance, therefore, takes on all the properties of a dismissal and has the same effect as a judgment of this Court dismissing an appeal (Scarola at para. 21).
+[17] Consequently, the powers of the Court are spent; the Court is “functus officio”, or using more contemporary words it has exhausted its authority: Scarola at para. 21). This promotes the goal of finality (see generally Canadian Broadcasting Corp. v. Manitoba, 2021 SCC 33 at para. 34).
+[18] Accordingly, a dismissal—deemed or actual—is a final determination which closes the matter, barring some vitiating circumstances such as fraud or some statutory authority allowing the Court to retain or recapture lost authority: Scarola at para. 21.
+[19] I turn next to rule 172 of the Tax Court of Canada Rules (General Procedure) (the Rules).
+B. Rule 172 [20] Rule 172 provides the necessary authority for the Court to set aside, vary, or amend a judgment when the required conditions are met: Scarola at para. 22.
+[21] Rule 172 reads as follows:
+172(1) A judgment that,
+(a) contains an error arising from an accidental slip or omission, or
+(b) requires amendment in any matter on which the Court did not adjudicate,
+may be amended by the Court on application or of its own motion.
+(2) A party who seeks to,
+(a) have a judgment set aside or varied on the ground of fraud or of facts arising or discovered after it was made,
+(b) suspend the operation of a judgment, or
+(c) obtain other relief than that originally directed,
+may make a motion for the relief claimed.
+[Underlining added]
+[22] Soon after the decision in Scarola was released, the Federal Court of Appeal considered a similar situation to the one at hand in Canada v. Rutledge, 2004 FCA 88 (Rutledge) where a taxpayer was assessed under s. 160 of the Income Tax Act, R.S.C., 1985 c. 1 (5th Supp.) (ITA) for a non-arm’s length transfer of property. (Subsection 160(1) of the ITA is similar to s. 325(1) of the ETA, which was the basis for the assessments that were appealed by Mr. Yi and Ms. Yi.)
+[23] In Rutledge, the taxpayer thought her husband had settled his tax liability and, believing she was no longer liable under s. 160 of the ITA, informed this Court that she was abandoning her appeal. It turned out that the husband’s negotiations were not finalized; he remained liable and so the tax collector looked to Mrs. Rutledge for payment. And then she moved to have her appeal reinstated.
+[24] The legal findings in Scarola applied to the facts in Rutledge and so the only question that remained was whether rule 172 provided authority to set aside the judgment of dismissal: Rutledge at para. 17. Since fraud was not alleged, the Federal Court of Appeal said the question was whether Mrs. Rutledge, with reasonable or due diligence, could have ascertained the state of her own affairs with respect to her own tax liability; she or her counsel only needed to contact Revenue Canada to obtain an update on her tax liability and the position taken in respect of it. Since Mrs. Rutledge had not done so, the Federal Court of Appeal said she was negligent in not verifying the other party’s position: Rutledge at para. 20.
+[25] Justice Monaghan (as she then was) in Supavititpatana et al v. The Queen, 2020 TCC 46 (Supavititpatana) helpfully set out and adopted a test or approach to be applied under rule 172(2)(a), as follows:
+[17] With the exception of Larson, I am not aware of any case that addresses what must be established before the Court can decide whether to exercise its discretion under Rule 172(2)(a) on the basis of facts arising or discovered after the judgments were issued. However, jurisprudence that has considered analogous rules applicable in other Canadian courts provides helpful insight. Those cases have concluded that the applicant must establish three things: (i) new facts arose or are discovered after the judgment; (ii) the new facts could not with reasonable diligence have been discovered before the judgment; and (iii) the new facts would probably have resulted in a different judgment had they initially been brought forward. This approach makes sense. Obviously, the new facts must be ones that would have affected the judgment. Moreover, as in the case of fraud, the applicant has some responsibility to exercise due diligence to discover the relevant facts before the judgment is issued. [footnotes omitted]
+[26] I agree with the above approach. And so, I turn now to the evidence and record here.
+III. Analysis and Findings [27] The evidence establishes that the Department of Justice provided a counteroffer on January 3, 2024, in response to a settlement offer. It seems that the Rosen firm provided Ms. Yi with a copy on February 17, 2026, after the issues at hand surfaced.
+[28] The counteroffer is not in evidence, but the Crown candidly acknowledges that it would have cut Mr. Yi’s liability in about half if it had been accepted. Counsel for the Crown indicated that she did not understand why the appellants chose to discontinue their appeals rather than accept the settlement offer.
+[29] Mr. Yi and Ms. Yi seek to revive their appeals so that they can resume settlement discussions or accept the counteroffer.
+[30] In the absence of an active appeal before this Court, the Crown is constrained by s. 299(3) of the ETA, which provides that an assessment, subject to being vacated on an objection or appeal, is deemed to be valid and binding. Moreover, in the absence of “live” appeals before this Court, the Crown is unable to look to s. 298(3) of the ETA, the provision that allows for the reassessment of a person on consent in order to dispose of an appeal.
+[31] And so, recognizing the binding effect of Scarola and the approach set out in Supavititpatana, the Crown opposes these motions.
+[32] There is no suggestion that the notices of discontinuance should be set aside on the ground of fraud. Thus, the initial questions are whether new facts arose or were discovered after the appeals were discontinued (and deemed dismissed) and, if so, whether the new facts could not, with reasonable diligence, have been discovered beforehand.
+[33] I will summarize the evidence and record and then will supplement that with additional context based on information counsel for the Crown provided as an officer of the Court. The key evidence is as follows.[1]
+[34] January 3, 2025: Mr. Yi wrote to an associate at the Rosen firm, requesting that the firm refrain from acting because he was waiting for an update from the CRA relating to his wife’s personal tax. He advised that if his wife’s tax owing was “reduced to zero”, then “the case witch (sic) I retained your firm working on will be automatically solved.”
+[35] January 17, 2025: The CRA confirmed by letter that the T1 Adjustments Section was reviewing Ms. Chen’s income tax returns for 2012 to 2016.
+[36] April 2, 2025 — 3:46 PM: Mr. Yi emailed the associate at the Rosen firm. Mr. Yi referred to the accountant submitting his wife’s personal tax return and wrote that according to the latest return, his “wife does not owe the CRA any taxes.” He also advised “we have decided to terminate this court appearance” and asked the firm to “suspend all legal actions for now.”
+[37] April 2, 2025 — 4:50 PM: A response from the associate followed, the substance of which was that once the court case was dismissed, it could not be reopened. The writer emphasized that if the tax office did not approve “your wife’s tax return amendment application, you and your daughter will still be jointly liable unless your wife repays or eliminates her debt to the CRA through other means.” The associate asked Mr. Yi and his daughter to confirm that they understood they would not have the opportunity for a further appeal and were willing to dismiss the appeals.
+[38] April 4, 2025: The same associate from the Rosen firm emailed Mr. Yi and Ms. Yi, and several other members of the firm were copied. The text of the email read:
+Following our recent phone conversation, Mr. Yi expressed confidence in directly resolving his spouse’s tax dispute with the CRA or paying off the tax debt. Based on this assumption, the CRA will no longer have authority to further request that you both pay for your spouse/mother’s tax debt. We understand that you both will voluntarily withdraw the existing appeals in the Tax Court. During the call, we emphasized that if your spouse/mother still has outstanding tax liabilities, you both will remain responsible for her tax debt and cannot appeal this matter again. After fully understanding the above points, I received your instructions to proceed with withdrawing your appeals. [The writer also asked Ms. Yi to confirm her instructions by reply email.]
+[39] April 9, 2024 — 11:42 AM: Ms. Yi asked the Rosen firm to explain why she and her father would not have the right to appeal again if they chose to “withdrawal (sic) trial at this time?”
+[40] April 9, 2025 — 12:00 PM: The same associate from the Rosen firm replied, advising in part that “As the current withdrawal will terminate the ongoing court procedures, you will have to initiate brand new proceedings, which will not be accepted by the Tax Court due to the expiry of the appeal deadline.” Reference was also made to ongoing discussions with opposing counsel regarding the decision to withdraw.
+[41] April 9, 2025 — 12:43 PM: Ms. Yi replied to the same associate at the Rosen firm, emphasizing that her father did not presently wish to proceed to trial because an “accountant is working on my mother’s tax filing and is hoping for a reassessment which may eliminate her tax owing as a whole”. Ms. Yi stated that they did not want to unnecessarily proceed to trial but would also not want to “lose the right to appeal in the off chance the reassessment is not ideal.” She asked whether there was a way to put off the trial, which was then scheduled to commence on July 14, 2025.
+[42] April 9, 2025 — 1:09 PM: The same associate from the Rosen firm replied, confirming the understanding that Ms. Yi would like to pause the court proceedings pending “your mom’s tax return adjustments/filings”. The associate provided views about how it was unlikely that the Court would grant an extension. It was also noted that three options had been provided to Ms. Yi’s father:
+a. Instruct us to prepare for the trials (and a last minute-settlement offer). b. Remove us from records (sic) and represent yourself in court proceedings. OR c. Withdraw from the current proceedings.”
+[43] In the above reply email, the associate also referred to a phone conversation with Ms. Yi’s father and stated:
+… Your father informed us that he is certain that his wife will have no liability to the CRA. I told him that based on his position, there is no need to proceed with these court proceedings as you and your father’s derivative liability to the CRA will be fulfilled as long as Ms. Ren’s (sic) liability is fulfilled. I also advised that we are not retained by Ms. Ren (sic) for her tax matter and have no position to comment on whether Ms. Ren (sic) has or will have any tax liability to the CRA. I emphasized, however, once withdrawn, you will lose the opportunity to dispute the issue to the Tax Court.”
+[44] Continuing, the associate also advised that the Rosen firm was carrying out Mr. Yi’s instructions to withdraw the appeals and asked Ms. Yi to let them know if she had different instructions or Mr. Yi changed his mind. An opportunity for a further conference call with members of the firm was offered.
+[45] The evidence does not address whether there were further written or oral communications with the Rosen firm. Moreover, the evidence does not address whether the option of accepting the Crown’s counteroffer was presented, and if not, why that may have been the case.
+[46] Counsel for the Crown advised the Court that she had been contacted by Mr. Yi and Ms. Yi’s former counsel and was told they were considering filing notices of discontinuance. Counsel for the Crown advises that on April 9, 2025, she reminded counsel for Mr. Yi and Ms. Yi of the prior settlement offer and the Crown’s counteroffer. She provided information on how the counteroffer was sent (i.e., that it had been sent by email) and was asked if the counteroffer expired. She confirmed the counteroffer remained open until 30 days before the hearing and needed instructions on whether the Crown would agree to discontinuances on a without costs basis. Counsel for the Crown further advises that she resent the counteroffer. During the evening of April 10, 2025, counsel for the Crown received draft notices of discontinuance.
+[47] There is also no evidence as to what happened as between the Mr. Yi and Ms. Yi and the Rosen firm after the above-mentioned communications with counsel for the Crown.
+[48] On April 16, 2025, notices of intention to act in person were filed by Mr. Yi and Ms. Yi. The notices seem to have been prepared by the Rosen firm. It is not clear why this happened, although I note that a notice of intention to act in person obviates the necessity of counsel bringing an application to be removed from the record after a proceeding has been listed for hearing (see rule 34).
+[49] Also on April 16, 2025, counsel for the Crown signed notices of discontinuance, consenting to the discontinuance of each appeal on a without costs basis. It appears the notices were then sent by the Rosen firm to Mr. Yi and Ms. Yi on April 17, 2025.
+[50] Mr. Yi signed his notice of discontinuance on April 17, 2025. And Ms. Yi signed her notice of discontinuance on April 20, 2025. The discontinuances were electronically filed on April 21, 2025. Mr. Yi stated in his affidavit that the documents were filed through “my previous lawyer on or around April 21, 2025” and confirmations of filing are appended as an exhibit. It would seem then that the Rosen firm tended to the electronic filing of the discontinuances.
+[51] There is no suggestion that the discontinuances were filed without authority. But neither Ms. Yi nor Mr. Yi offered any insight into why the Rosen firm was removed from the record but then assisted with the filing of the notices.
+[52] Moreover, as noted earlier, counsel for the Crown acknowledges that one question unanswered—both in April 2025 and now—is why discontinue if an active settlement offer was available and would have resulted in a better outcome, at least for Mr. Yi. It may be that the counteroffer was not presented along with options “a, b, or c.” That said, the fact that counsel for the Crown had raised the matter of the counteroffer around the time of these events requires me to leave this question unanswered.
+[53] In the end, as matters now stand, Mr. Yi has laid out money under an assessment that made him jointly and severally liable for a portion of Ms. Chen’s liability under the ETA. And Ms. Yi was assessed under the ETA in respect of a cash transfer of $120,000 from her mother in 2016. As of January 28, 2026, the CRA was seeking $190,876, presumably because interest has accrued.
+[54] The reason that I cannot grant the relief requested is because the notices of appeal and the replies previously filed make clear that the assessments that were appealed, and the underlying liability of Ms. Chen upon which those assessments were based, related to GST/HST liabilities under the ETA. Based on the evidence before me, Mr. Yi and Ms. Yi proceeded on a misapprehension that the assessments from which they had appealed concerned Ms. Chen’s personal income tax liability under the ITA. There is no question that, as a matter of law, eliminating Ms. Chen’s liability for personal income tax (under the ITA) would not have eliminated her liability under the ETA.
+[55] The communications in evidence indicate that Mr. Yi had referred to his wife’s personal tax return and personal taxes that were owing. No reference is made to Ms. Chen’s liability under the ETA.
+[56] I reiterate that the Rosen firm had no role in these motions and so it is important to limit my findings.
+[57] In the end, it is an inescapable fact that Ms. Chen had a liability that was assessed under the ETA; the foundation of the assessments Mr. Yi and Ms. Yi had appealed was not based on Ms. Chen’s personal income tax liability. This was readily apparent from the pleadings filed in this Court. Moreover, this fact would have been easily discoverable or confirmed with minimal due diligence; indeed, the Court file number on every document filed in April 2025 made clear that the appeals involved GST matters.
+[58] For the reasons stated above, I must dismiss the motions. The outcome is unfortunate because Mr. Yi and Ms. Yi lost their right to challenge the Minister’s assessments and they lost access to the settlement mechanism in s. 298(3) of the ETA. The outcome has significant financial implications, but the principle of finality prevails over these very sympathetic circumstances (see Stover v. The Queen, 2016 CCI 235 at para. 30).
+IV. Conclusion [59] The Crown is commendably not seeking costs. In the circumstances, there will be no order for costs. The motions are dismissed.
+Signed this 11th day of May 2026.
+“Perry Derksen”
+Derksen J.
+CITATION:
+2026 TCC 82
+COURT FILE NOS.:
+2021-2(GST)G
+2021-2838(GST)G
+STYLE OF CAUSE:
+ZHENXIANG YI v. HIS MAJESTY THE KING
+WEIYAO YI v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 28, 2026
+REASONS FOR ORDER BY:
+The Honourable Justice Perry Derksen
+DATE OF ORDER:
+May 11, 2026
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Devon Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Marie-Josée Hogue
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Some of the documents appear to have been written in simplified Chinese and translated to English.

@@ -1,0 +1,130 @@
+Title: Kovinic v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27133/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-496-27133-kovinic-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-09-07
+
+# Kovinic v. The Queen
+
+- Citation: 2006 CCI 496
+- Decision date: 2006-09-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 936, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kovinic v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-07
+Référence neutre
+2006 CCI 496
+Numéro de dossier
+2006-1328(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1328(IT)G
+ENTRE :
+DEJAN KOVINIC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Requête entendue le 3 août 2006, à Welland (Ontario).
+Devant : L'honorable juge G. Sheridan
+Comparutions :
+Avocat de l'appelant :
+Me Guy Ungaro
+Avocat de l'intimée :
+Me George Boyd Aitken
+________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l'intimée afin d'obtenir une ordonnance en application de l'article 52 des Règles de la Cour canadienne de l'impôt (procédure générale) enjoignant à l'appelant de produire des précisions dans un délai déterminé;
+Et vu la requête présentée par l'intimée, subsidiairement, afin d'obtenir une ordonnance prorogeant le délai imparti à l'intimée pour déposer sa réponse à l'avis d'appel, en application de l'alinéa 44(1)b) des Règles de la Cour canadienne de l'impôt (procédure générale);
+Et vu la requête présentée par l'intimée pour obtenir les dépens de la présente requête, quelle que soit l'issue de la cause;
+Et vu les observations des avocats et les documents déposés;
+LA COUR ORDONNE, selon les motifs de l'ordonnance ci-joints :
+1. la requête présentée par l'intimée afin d'obtenir une ordonnance enjoignant à l'appelant de produire des précisions est rejetée;
+2. l'intimée a 60 jours à compter de la date de la présente ordonnance pour déposer et signifier sa réponse à l'avis d'appel;
+3. les dépens de la présente requête suivront l'issue de la cause.
+Signé à Ottawa, Canada, ce 7e jour de septembre 2006.
+« G. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 29e jour de janvier 2007.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI496
+Date : 20060907
+Dossier : 2006-1328(IT)G
+ENTRE :
+DEJAN KOVINIC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Sheridan
+[1] La requête de l'intimée et les moyens invoqués sont exposés ci-dessous :
+La requête vise à obtenir :
+a) une ordonnance enjoignant à l'appelant de produire des précisions dans un délai déterminé, en application de l'article 52 des Règles de la Cour canadienne de l'impôt (procédure générale);
+b) subsidiairement, une ordonnance prorogeant le délai imparti à l'intimée pour déposer sa réponse à l'avis d'appel, en application de l'alinéa 44(1)b) des Règles de la Cour canadienne de l'impôt (procédure générale);
+c) les dépens de la requête, quelle que soit l'issue de la cause;
+d) toute autre mesure de redressement que la Cour estime appropriée.
+Les moyens au soutien de la requête sont les suivants :
+a) l'appelant n'a pas fourni de précisions à l'intimée, et ce, malgré la demande de précisions qui lui avait été signifiée le 30 juin 2006;
+b) l'avis d'appel produit ne présente pas assez de précisions pour permettre à l'intimée d'établir sa réponse à l'avis d'appel.
+[2] L'appelant interjette appel des nouvelles cotisations établies par le ministre du Revenu national en 2004 à l'égard de l'appelant pour ses années d'imposition 1997, 1998, 1999, 2001 et 2002. Dans les nouvelles cotisations en question, le ministre a refusé certaines dépenses d'entreprise, ce qui a eu pour effet d'augmenter le revenu imposable de l'appelant. Le ministre lui a également imposé des pénalités.
+[3] L'intimée a dûment signifié sa demande de précisions à l'appelant, et l'appelant lui a signifié sa réponse dans le délai prescrit de 30 jours. Après quelques échanges entre les avocats des parties, l'avocat de l'appelant a décidé que, selon lui, l'avis d'appel et la réponse à la demande de précisions étaient assez détaillés pour les besoins d'un acte de procédure.
+[4] Dans la décision Zelinski c. La Reine[1], le juge Bowie explique le but des actes de procédure et les principes applicables :
+[4] L'acte de procédure a pour but de définir les questions faisant l'objet du litige entre les parties aux fins de production et de communication préalable ainsi qu'en prévision du procès. Il incombe aux parties de présenter un exposé concis des faits pertinents sur lesquels elles se fondent. Les faits pertinents sont ceux qui, dans l'éventualité où ils sont établis au cours du procès, concourront à démontrer que la partie ayant déposé l'acte de procédure a droit au redressement demandé. De façon générale, il convient que la modification d'un acte de procédure soit autorisée, dans la mesure où cela n'est pas préjudiciable à l'autre partie - qui n'a pas droit à une contrepartie sous forme de dépens ou sous une autre forme -, les Règles visant à assurer, dans la mesure du possible, un procès équitable portant sur les vraies questions en litige entre les parties.
+[5] Le principe applicable est formulé ainsi par Holmsted et Watson :
+[TRADUCTION]
+Il s'agit de la grande règle en matière d'actes de procédure; toutes les autres règles sont essentiellement des règles accessoires ou des réserves à cette règle de base selon laquelle le plaideur doit exposer les faits pertinents sur lesquels il fonde sa demande ou sa défense. La règle comporte quatre composantes distinctes : (1) chaque acte de procédure doit exposer des faits et non pas simplement des conclusions de droit; (2) il doit exposer les faits pertinents et ne pas contenir de faits dénués de pertinence; (3) il doit exposer des faits, non les éléments de preuve qui serviront à étayer ces faits; (4) il doit exposer les faits avec concision. [...]
+[5] Mon examen des observations des avocats en ce qui a trait à l'ordonnance enjoignant à l'appelant de produire des précisions tient compte de ce qu'a indiqué le juge Bowman de la Cour de l'impôt (maintenant juge en chef) dans la décision Satin Finish Hardwood Flooring (Ontario) Ltd. c. Canada[2], où il a analysé les critères régissant les demandes de précisions :
+Pour ce qui est de la requête visant l'obtention de précisions, plusieurs raisons en justifient le rejet. En premier lieu, l'intimée n'a signifié aucune demande de précisions aux avocats de l'appelante. En vertu de l'article 52 des règles de la cour, une requête visant l'obtention de précisions peut être présentée uniquement si des précisions ont été demandées à la partie adverse et que celle-ci ne les a pas produites dans les 30 jours.
+F. P. Bourgault Industries v. Flexi-Coil Ltd., 18 C.P.R. (3d) 245, à la p. 246, juge Dubé; Georg Von Opel v. Allcock, Laight & Westwood Ltd., 21 Fox's Canadian Patent Cases 124, juge Cameron.
+En présumant que j'aie le pouvoir discrétionnaire d'entendre une requête visant l'obtention de précisions en l'absence d'une demande écrite préalable, on ne m'a fourni aucun motif pour lequel je devrais exercer ce pouvoir. Voir Curry v. Advocate Gen. Ins., 9 C.P.C. (2d) 247.
+En deuxième lieu, on ne m'a présenté aucun document sous forme d'affidavit ou de quelque autre nature pour démontrer que l'intimée avait besoin de précisions afin de répondre à l'avis d'appel, ce qui n'est certainement pas évident à la lecture de l'avis d'appel. En fait, le point n'a même pas été soulevé dans l'argumentation. Voir F. P. Bourgault, précité; Georg Von Opel, précité.
+En troisième lieu, lorsqu'on cherche à obtenir des précisions avant l'établissement d'un acte de procédure, il faut que ce soit en vue de pouvoir formuler une réponse intelligente. Il y a une différence fondamentale entre les précisions requises aux fins d'un acte de procédure et les précisions nécessaires aux fins du procès. Cette distinction a été clairement exprimée par le juge Marceau dans l'affaire Embee Electronic Agencies v. Agence Sherwood Agencies Inc., 43 C.P.R. (2d) 285, aux pp. 286-287. Voir aussi Madden v. Madden, [1947] O.R. 866 (C.A. Ont.), juge Laidlaw, aux pp. 873-874; Coco-Cola Co. v. O'Keefe's Beverages Limited, [1922] 23 OWN 175, juge Riddell, à la p. 176.
+Que le type de précisions souhaitées par l'intimée puissent ou non être nécessaires aux fins du procès, elles ne le sont pas aux fins de la formulation d'une réponse. De plus, étant donné le caractère un peu particulier des litiges en matière d'impôt sur le revenu, le ministre du Revenu national connaît bien tous les faits dont il a besoin pour répondre à l'avis d'appel. Il doit savoir pourquoi il a établi la cotisation. Si l'intimée a besoin de détails supplémentaires sur l'entreprise de l'appelante aux fins du procès, elle peut les obtenir lors d'un interrogatoire préalable.
+[6] À cette étape de la procédure, je ne suis pas convaincue que l'intimée ait établi le bien-fondé de sa demande de précisions. Comme dans l'affaire Satin Finish, précitée, on n'a pas déposé d'affidavit pour démontrer pourquoi l'intimée doit obtenir des précisions pour répondre à l'avis d'appel. Je comprends que l'avocat de l'intimée trouve que l'avis d'appel et la réponse à la demande de précisions n'exposent vraiment rien de plus que la base de la position de l'appelant, soit que l'appelant n'a pas établi lui-même ses déclarations de revenus et que les déductions demandées pour les dépenses d'entreprise sont appropriées. Cependant, eu égard au « caractère [...] des litiges en matière d'impôt sur le revenu » [3], pour citer le juge en chef Bowman, je ne suis pas convaincue que l'avis d'appel et la réponse à la demande de précisions, tels qu'ils ont été produits, empêchent l'intimée d'établir sa réponse à l'avis d'appel.
+[7] Pour ces motifs, je suis d'avis que la requête déposée par l'intimée afin d'obtenir des précisions est prématurée et doit être rejetée. Toutefois, cela ne signifie pas que l'intimée ne pourra pas demander des précisions à une étape ultérieure de la procédure. L'intimée a 60 jours à compter de la date à laquelle la présente ordonnance est rendue pour déposer et signifier sa réponse à l'avis d'appel. Les dépens de la requête suivront l'issue de la cause.
+Signé à Ottawa, Canada, ce 7e jour de septembre 2006.
+« G. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 29e jour de janvier 2007.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI496
+N ° DU DOSSIER : 2006-1328(IT)G
+INTITULÉ : DEJAN KOVINIC ET LA REINE
+LIEU DE L'AUDIENCE : Welland (Ontario)
+DATE DE L'AUDIENCE : Le 3 août 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Georgette Sheridan
+DATE DU JUGEMENT : Le 7 septembre 2006
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Guy Ungaro
+Avocat de l'intimée :
+Me George Boyd Aitken
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Me Guy Ungaro
+Cabinet : Guy Ungaro
+Niagara Falls (Ontario)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] no 1999-1746(IT)G, 20 novembre 2001, [2002] D.T.C. 1204, aux paragraphes 4 et 5.
+[2] no 95-30(IT)G, 27 mars 1995, [1995] A.C.I. n ° 240.
+[3] Satin Finish, précité.

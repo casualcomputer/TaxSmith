@@ -1,0 +1,247 @@
+---
+title: "Biron v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25684/index.do"
+last_modified: "2004-02-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 154"
+citation2: ""
+neutral_citation: "2004 TCC 154"
+decision_date: "2004-02-17"
+language: "en"
+item_id: "25684"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3842
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:47:12.221000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4061a9abf335eaecab9e5bdcfa5c44ebc0e6271c384bcecca0951380463e6a26"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Biron v. The Queen
+
+- Citation: 2004 TCC 154
+- Decision date: 2004-02-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3842, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Biron v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-02-17
+Neutral citation
+2004 TCC 154
+File numbers
+2003-2113(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Court File No.: 2003-2113(IT)I
+BETWEEN
+JACQUES BIRON,
+Appellant
+and
+HER MAJESTY THE QUEEN
+Respondent
+____________________________________________________________________
+Appeal heard on October 24, 2003, at Montréal, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the taxation years 1999 and 2001 are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of February 2004.
+“Louise Lamarre Proulx”
+Lamarre Proulx, J.
+[OFFICIAL ENGLISH TRANSLATION]
+Reference: 2004TCC154
+Date: 20040217
+Court File No.: 2003-2113(IT)I
+BETWEEN:
+JACQUES BIRON,
+Appellant
+and
+HER MAJESTY THE QUEEN
+Respondent
+REASONS FOR JUDGMENT
+Lamarre Proulx, J.
+[1] These are appeals under the informal procedure concerning the 1999 and 2001 taxation years. The appeals raise six issues. The outcome of the sixth turns on the outcome of the second.
+[2] The first issue is whether the Appellant is entitled to claim a tax credit for severe and prolonged physical impairment for the 1999 and 2001 taxation years.
+[3] The Appellant’s impairment is sleep apnea. He must use a CPAP (Continuous Positive Airway Pressure) device at night in order to correct it.
+[4] Dr. Michel Camirand, the physician who signed the “Disability Tax Credit Certificate”, testified at the Appellant’s request. The certificate, dated October 4, 2001, was tendered as Exhibit A‑1.
+[5] The physician did not check any of the basic activities of daily living that would be markedly restricted, but wrote in: [translation] “The activity of breathing.”
+[6] The physician checked “No” in response to question 9, which reads: [translation] “Is the impairment severe enough to restrict the basic activity of daily living identified above, all or almost all the time, even with the use of appropriate aids, devices, medication, or therapy?” He explained that he checked “Yes” in the subsequent documents and this answer should now be interpreted as “Yes.”
+[7] Based on Exhibit A‑3, a report submitted by an ENT/respiratory allergy specialist to attending physician Dr. Michel Camirand, the Appellant has been suffering from this condition since 1995. The attending physician’s certificate, produced as Exhibit A‑1, indicates the same year.
+[8] The physician explained that the Appellant suffers from severe sleep apnea and therefore needs to wear a breathing mask while sleeping. The device consists of a mask that is placed on the sleeper’s nose and produces pressure when the person breathes in, thereby keeping the breathing passages open. The device regularizes the supply of oxygen. A patient who uses it functions much better. However, the use of the device disrupts daily life. Life is not normal. The device is difficult to tolerate and most patients reject it.
+[9] The physician explained that people who suffer from sleep apnea cease breathing during sleep, thereby decreasing their blood’s oxygen level. Over the long term, this condition can cause serious health problems.
+[10] The second issue is whether the Minister of National Revenue (“the Minister”) correctly added to the Appellant’s income for the 1999 taxation year the amount of $36,792 from a registered retirement savings plan (RRSP). The Appellant was bankrupt at the time. He became bankrupt in 1994 and was discharged from the bankruptcy in March 2001.
+[11] The Appellant’s tax return for the year 1999 was produced as Exhibit I‑1. It includes Form T4RSP, entitled “Statement of RRSP Income.” According to the statement, the payor is Industrial Alliance, the beneficiary is Jacques Biron, $36,792.68 was withdrawn and the income tax was $5,518.90.
+[12] The Appellant states that the trustee, not he, obtained the amount since the trustee was declared the owner thereof. The Appellant defended his right of ownership to the money all the way to the Supreme Court of Canada.
+[13] The Appellant produced Exhibit A‑6, a final statement of receipts and disbursements in the bankruptcy of Jacques Biron dated June 17, 2002. Included under the heading Réalisation de l’actif (proceeds of the estate) is the RRSP refund in the amount of $36,792.68, less amounts for federal tax ($5,518.90) and provincial tax ($8,462.32) for a balance of $22,811.46.
+[14] Apparently, the trustee did not produce an income tax return in this regard. At any rate, the Appellant did not obtain one.
+[15] The third issue is whether the Appellant is entitled to claim, in determining his federal income for the 2001 taxation year, an equivalent-to-spouse tax credit for a wholly dependent person in respect of his son Marc‑Antoine. It is admitted that Marc‑Antoine is more than 18 years old and suffers from no mental or physical impairment within the meaning of paragraph 118(1)(b) of the Income Tax Act (ITA.)
+[16] The fourth issue is whether the Minister correctly refused an amount of $20,130 for legal fees when computing the Appellant’s income for the 2001 taxation year. The description can be found in Exhibit I‑2, the tax return. It is a compilation of expenses incurred during the years 1996 to 2001, including some expenses paid in 2001. There are no invoices or payment documents.
+[17] Exhibit I‑6, produced by counsel for the respondent, consists of various judgments in legal proceedings initiated by the Appellant. Counsel had the Appellant explain that these proceedings were to challenge seizures of the Appellant’s assets by the tax authorities and the trustee in bankruptcy. The Appellant responded that he was being accused of fraud and wanted to prove that he had acted lawfully. This would ensure that he could practice as a chartered accountant.
+[18] Exhibit I‑7, produced by counsel for the respondent, is the trustee’s report concerning the bankrupt’s application for a discharge. It states that the bankrupt initiated one proceeding, challenge, disciplinary complaint, and motion after another, resulting in considerable disbursements by the trustee. The bankrupt offered the trustee no cooperation whatsoever in the administration of his estate.
+[19] The fifth issue is whether the Minister correctly refused to allow the amount of $10,046 on account of carrying charges.
+[20] The 2001 tax return includes form T4RSP, “Statement of RRSP Income.” The amount withdrawn is $188,976.38. The Appellant does not contest the inclusion of that amount because the financial institution paid it to the trustee at the Appellant’s request to settle his bankruptcy.
+[21] The documents showing the redemptions of February 14, 2000, and January 19, 2001, were produced as Exhibit I­­­‑8. The exhibit shows that the gross amount redeemed for the year 2001 is $197,071.44. There were $8,095.06 in carrying charges. The gross amount less charges is equal to the amount indicated on the T4RSP as the pre-tax amount of $188,976.38.
+[22] There were also charges, in the amount of $1,951.62, for the transaction effected in taxation year 2000. When the two charges are added, they are equal to the amount claimed by the Appellant for the year 2001.
+[23] These charges were apparently incurred because the RRSP investments were withdrawn early.
+[24] The sixth issue is whether the Minister correctly disallowed an unused tuition credit claim of $174.83 with respect to the 2001 taxation year. Both parties agree that if the RRSP amount is to be included in the 1999 income, this question will not arise.
+Arguments
+[25] With regard to the first issue, the Appellant relies on the concept of life‑sustaining treatment, which was included in the Act for the year 2000.
+[26] Counsel for the respondent does not deny that the Appellant has a medical problem, but submits that no basic activity of daily living is markedly restricted and that the wearing of the breathing mask cannot be considered a therapy that is both essential to sustain a vital function of the Appellant and administered at least three times each week for a total duration averaging 14 hours a week.
+[27] With regard to the second issue, the Appellant submits that he did not have to include the $36,792.68 in determining his income for the year 1999 because the Court declared that he was not the owner of that amount. The Appellant further submits that he uses the cash method of accounting and that he never received the amount.
+[28] However, the Appellant was entitled to take account of, and claim – as he did on line 437 of his 1999 return – the tax withheld by the financial institution on his behalf. In any event, this last point is not in issue.
+[29] Counsel for the respondent submitted that the Appellant, by virtue of paragraph 56(1)(h) of the Act, must include this amount in computing his income. The bankrupt’s property is vested in the trustee and the trustee has the management of that property. The trustee may file a tax return under subsection 128(2) of the Act. It is up to the taxpayer to show this return. If he cannot do so, he must report the income himself.
+[30] For the third issue, the Appellant invokes the fact that his former spouse was able to claim the equivalent-to-spouse credit for a wholly dependent person when their son was in her care.
+[31] Counsel for the respondent explains that, under paragraph 118(1)(b) of the Act, the dependent must be less than 18 years old unless he or she is dependent by reason of a mental or physical infirmity. In the case at bar, the Appellant admits that his son is over 18 years old and does not suffer from a mental or physical infirmity.
+[32] With regard to the fourth question, namely the deduction for legal fees, the Appellant submits that they were incurred to defend his honour and, consequently, his ability to practice chartered accountancy. He was entitled to practice from the moment he became a discharged bankrupt. The Appellant relies on Interpretation Bulletin IT99‑R‑5, paragraphs 3‑4:
+3. In limited circumstances, legal fees have been held to be deductible where they are incurred in connection with the defence by a taxpayer against a charge of performing illegal actions in the operation of a business or in defence of the day-to-day methods of carrying on business. See, for example, the decision of the Exchequer Court in Rolland Paper Co. Ltd. v. MNR, [1960] CTC 158, 60 DTC 1095, in which legal fees to defend against a successful prosecution for anti-competitive trade practices were allowed as a deduction. In each case, the issue of whether or not a payment of fees to defend against criminal prosecution can meet the conditions of deductibility set out in ¶ 1 above is a question of fact which depends upon the relationship of the conduct in question to the taxpayer's income-earning activities. (See also the comments in ¶ 33 below regarding prosecutions for tax evasion.)
+4. Legal costs to prosecute or to defend most tort, contract or other civil claims arising in the ordinary course of business will generally be deductible. Subject to the comments in ¶ 8 below, if the taxpayer is successful in a legal proceeding, the gross amount of the legal fees which are otherwise deductible must be reduced by any legal costs awarded by the court which are received by the taxpayer. The treatment of damages or settlements paid by a taxpayer is discussed in the current version of IT-467, Damages, Settlements and Similar Payments; fines and penalties are dealt with in the current version of IT-104, Deductibility of Fines or Penalties.
+[33] Counsel for the respondent noted that the amounts are not documented because statements of account were never submitted. Furthermore, she noted that fees were incurred to contest seizures before judgment, executed by the tax authorities, and to challenge the seizure of some property by the trustee upon the Appellant’s bankruptcy. There were seven years of proceedings. Exhibit I‑7 attests to the trustee’s difficulties with Mr. Biron. The fees are related to the bankruptcy matter and were incurred to defend the Appellant’s personal property. They were not incurred for the purpose of earning income from a business or property within the meaning of sections 9 and 18 of the Act.
+[34] With regard to the fifth question, which pertains to the deduction for carrying charges, the Appellant admits that the amount of income to include in computing his income was reduced by the amount of those charges. However, he argued that he paid those charges.
+[35] The respondent submits that the Appellant cannot deduct the charges twice. The charges were not included in his income. In order to be able to deduct the $10,000 in computing income, he would have had to add the charges to the withdrawal amount stated by the bank.
+[36] However, if the RRSP is included for the year 1999, the Appellant has taxable income and can claim the tuition deduction for that year. There is no longer anything available for the year 2001.
+Conclusion
+[37] Section 118.4 of the Act reads as follows:
+118.4. (1) Nature of impairment — For the purposes of subsection 6(16), sections 118.2 and 118.3 and this subsection,
+(a) an impairment is prolonged where it has lasted, or can reasonably be expected to last, for a continuous period of at least 12 months;
+(b) an individual’s ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is blind or is unable (or requires an inordinate amount of time) to perform a basic activity of daily living;
+(c) a basic activity of daily living in relation to an individual means
+(i) perceiving, thinking and remembering,
+(ii) feeding oneself or dressing oneself,
+(iii) speaking so as to be understood, in a quiet setting, by another person familiar with the individual,
+(iv) hearing so as to understand, in a quiet setting, another person familiar with the individual,
+(v) eliminating (bowel or bladder functions), or
+(vi) walking;
+(d) for greater certainty, no other activity, including working, housekeeping or a social or recreational activity, shall be considered as a basic activity of daily living; and
+(e) feeding oneself does not include
+(i) any of the activities of identifying, finding, shopping for or otherwise procuring food, or
+(ii) the activity of preparing food to the extent that the time associated with the activity would not have been necessary in the absence of a dietary restriction or regime; and
+(f) dressing oneself does not include any of the activities of identifying, finding, shopping for or otherwise procuring clothing.
+[38] Paragraph 118.3 (1)(a.1) read as follows for the year 1999:
+118.3 (1) Credit for mental or physical impairment — Where
+. . .
+(a.1) the effects of the impairment are such that the individual’s ability to perform a basic activity of daily living is markedly restricted,
+. . .
+for the purposes of computing the tax payable under this Part by the individual for the year, there may be deducted an amount determined by the formula
+A X $4,118
+[39] The same paragraph has read as follows since the year 2000:
+118.3(1) Credit for mental or physical impairment — Where
+...
+(a.1) the effects of the impairment are such that the individual’s ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted but for therapy that
+(i) is essential to sustain a vital function of the individual,
+(ii) is required to be administered at least three times each week for a total duration averaging not less than 14 hours a week, and
+(iii) cannot reasonably be expected to be of significant benefit to persons who are not so impaired,
+. . .
+there may be deducted in computing the individual’s tax payable under this Part for the year the amount determined by the formula . . .
+[40] The evidence concerning activities of daily living described in subsection 118.4(1) of the Act did not disclose that the Appellant was unable, or required an inordinate amount of time, to perform these activities all or substantially all of the time. The breathing mask can help him, but that does not mean that the Appellant’s ability to perform one of these activities is markedly restricted within the meaning of that provision of the Act. Indeed, if, thanks to the therapy and the appropriate devices and medication, the person does not require an inordinate amount of time to a basic activity, then, within the meaning of the provision, the individual’s ability to perform an activity of daily living is not markedly restricted.
+[41] The attending physician certified that the sleep apnea imperils the breathing function. Breathing is a vital function. Parliament has legislated with regard to vital functions by amending paragraph 118.3(1)(a.1) of the Act; this amendment came into force in the year 2000. An individual is entitled to the credit for mental or physical impairment if the individual’s ability to perform a basic activity of daily living is markedly restricted but for therapy that is both essential to sustain a vital function of the individual and must be administered at least three times a week for a total duration averaging 14 hours a week.
+[42] The explanatory notes regarding the amendment in issue are worthy of note:
+Credit for Mental or Physical Impairment
+Paragraphs 118.3(1)(a.1) and (a.2) are amended to extend eligibility for the DTC to individuals who would be so markedly restricted but for therapy administered to them at least three times a week for a total duration averaging not less than 14 hours a week in order to sustain one of their vital functions. Examples of taxpayers who will benefit from this exemption include individuals with severe kidney disease requiring dialysis and persons with severe cystic fibrosis requiring clapping therapy in order to properly breathe.
+[43] I might note that paragraph 118.3(1)(a.1) of the Act refers only to therapy, whereas subsection 118.4(1) of the Act refers to therapy and the use of devices or medication. Does therapy encompass the breathing mask? I ask this question without answering it because it was not in issue here.
+[44] Based on my reading of the sleep apnea articles submitted to me and the testimony of Dr. Camirand himself, I find that the breathing mask does not fall under the category of essential therapy within the meaning of paragraph 118.3(1)(a.1) of the Act.
+[45] Parliament has used the term “essential.” In its legal meaning, “essential” refers to something on which the existence of a juridical act depends. Based on this reasoning, I find that an essential therapy is one which, if the patient ceased to tolerate it, would result fairly promptly in his death. Whether and for how many nights a breathing mask is worn are matters over which the patient has some degree of discretion. The patient’s life is not in immediate or proximate danger if he does not wear it. Over the long term, sleep apnea can cause damage if the person does not take the applicable precautions: breathing mask, medication, physical exercise and diet. Those are not therapies essential to sustain a vital function within the meaning of paragraph 118.3(1)(a.1) of the Act.
+[46] The second question was whether the Appellant had to include the amount withdrawn from an RRSP which had been paid to the trustee who was declared its owner by court judgments.
+[47] Subsection 128(2) of the Act reads as follows:
+128(2) Where individual bankrupt — Where an individual has become a bankrupt, the following rules are applicable:
+(a) the trustee in bankruptcy shall be deemed to be the agent of the bankrupt for all purposes of this Act;
+(b) the estate of the bankrupt shall be deemed not to be a trust or an estate for the purposes of this Act;
+(c) the income and the taxable income of the individual for any taxation year during which the individual was a bankrupt and for any subsequent year shall be calculated as if
+(i) the property of the bankrupt did not pass to and vest in the trustee in bankruptcy on the receiving order being made or the assignment filed but remained vested in the bankrupt, and
+(ii) any dealing in the estate of the bankrupt or any act performed in the carrying on of the business of the bankrupt estate by the trustee was done as agent on behalf of the bankrupt and any income of the trustee from such dealing or carrying on is income of the bankrupt and not of the trustee;
+(d) except for the purposes of subsections 146(1), 146.01(4) and 146.02(4) and Part X.1,
+(i) a taxation year of the individual is deemed to have begun at the beginning of the day on which the individual became a bankrupt, and
+(ii) the individual's last taxation year that began before that day is deemed to have ended immediately before that day;
+(d.1) . . .
+(d.2) . . .
+(e) where the individual was a bankrupt at any time in a calendar year the trustee shall, within 90 days from the end of the year, file a return with the Minister, in prescribed form, on behalf of the individual of the individual's income for any taxation year occurring in the calendar year computed as if
+(i) the only income of the individual for that taxation year was the income for the year, if any, arising from dealings in the estate of the bankrupt or acts performed in the carrying on of the business of the bankrupt by the trustee,
+. . .
+and the trustee is liable to pay any tax so determined for that taxation year;
+(f) notwithstanding paragraph 128(2)(e), the individual shall file a separate return of the individual's income for any taxation year during which the individual was a bankrupt, computed as if
+(i) the income required to be reported in respect of the year by the trustee under paragraph 128(2)(e) was not the income of the individual,
+. . .
+[48] I would refer to a paper by Marc Robert, C.A., M. Fisc., entitled “L'insolvabilité et la fiscalité” and submitted at the May 1993 conference (Conference #6) of the Association de planification fiscale et financière:
+[translation]
+6.3. INDIVIDUAL TAX RETURNS
+BEFORE AND DURING BANKRUPTCY
+As mentioned, the regular taxation year of an individual who has become bankrupt is deemed to end on the day preceding the date of the bankruptcy, and a new taxation year is deemed to begin on the date of the bankruptcy. The Income Tax Act takes account of these two taxation years (within the same calendar year) during which the property of the individual is seized by the trustee. It also takes account of the fact that certain income, such as employment income, can be earned by the individual during the settlement of his bankruptcy without being under the trustee’s management. Consequently, three tax returns must be filed during the year of the bankruptcy:
+(a) A return for the taxation year that ended by reason of the bankruptcy. We will call this “the first return.” It must be filed no later than April 30 of the following year.
+(b) A return that the trustee is to file in respect of the period that begins on the date of the bankruptcy and ends either on December 31 or on the date of unconditional discharge, whichever comes first. We will call this the “second return.” This return only includes income from property or business assets under the trustee’s management. It must be filed no later than March 31 of the subsequent year and can include no claims for personal income tax credits. However, tax losses accrued by the individual before or during the bankruptcy can be used in connection with this return.
+Note: If the trustee’s mandate continues into the following calendar year or beyond, the trustee must file a return for those years based on the same principles.
+(c) The individual must also file a return (“the third return”) for any income not included in the return filed by the trustee for the same period. Essentially, that means income not under the trustee’s management. In this third return, the individual can claim personal tax credits as though there were 12 months in that taxation year, but cannot use losses accrued previously.
+The cases
+Erna A. Davis, Trustee of the Estate of Donald Martin McLeod, a Bankrupt v. MNR, 92 D.T.C. 1033, is an example of a case comparing income that must be included in the trustee’s tax return (“the second return”) to income that must be included in the individual’s return (“the third return”). The income in question consisted of payments to the bankrupt under Income Averaging Annuity Contracts (IAAC) — payments that were remitted to creditors because they had been assigned to those creditors well before the bankruptcy.
+Bowman, T.C.C.J. [In fact it was Sobier, T.C.C.J.] held that the trustee was not required to include the income in the second return because the trustee had no control over the IAACs as they had already been assigned. In order for income to be part of the “second return” under paragraph (e), the income must arise from the trustee’s dealings.
+[49] I would cite the following passages from paragraphs 13 and 21 of the reasons of Bowman, T.C.C.J. in Sinnott v. The Queen, [2000] T.C.J. No. 590:
+13 Under paragraph 128(2)(f) the bankrupt individual is the person who must file a separate return for income not included in the return prepared by the trustee. …
+21 There are some differences between the scheme of the Income Tax Act and the Bankruptcy and Insolvency Act, and they are not necessarily reconcilable. The first is that the trustee is deemed to be an agent of the bankrupt for the purposes of the Income Tax Act. No such agency specifically arises under the Bankruptcy and Insolvency Act. Second, the estate of the bankrupt is deemed not to be an estate or trust for the purposes of the Income Tax Act, although it is an estate or trust for the purposes of the Bankruptcy and Insolvency Act as it read in 1997. Third, the salary, wages or other remuneration of the bankrupt individual that arises after the bankruptcy does not vest in the trustee. Moreover, income tax refunds with respect thereto belong to the bankrupt and not the trustee.
+[50] There is little case law regarding subsection 128(2) of the Act. The first thing to note is that Parliament has specifically stated, at paragraph 128(2)(a), that the trustee in bankruptcy is deemed to be the agent of the bankrupt for the purposes of the Act. Consequently, the taxpayer bears primary responsibility for correctly reporting the income.
+[51] The statement in paragraph 128(2)(e) of the Act is to the same effect. Under that paragraph, the trustee must file a return setting out the individual’s income arising from dealings in the estate of the bankrupt or acts performed in carrying on the business of the bankrupt by the trustee. The return is filed on behalf of the individual.
+[52] The Appellant merely submitted that the trustee had been declared the owner of a portion of the RRSP and that it was up to him to file the income tax return.
+[53] As one can see from McLeod, cited in the text above, it is not certain that a portion of an RRSP, seized and declared to be owned by the trustee, constitutes income arising from dealings in the estate of the bankrupt by the trustee. Moreover, I note that the Appellant did not have the name of the beneficiary changed on the T4RSP, not did he ask the financial institution for explanations.
+[54] In any event, since the trustee is merely an agent of the individual, it is up to the individual either to report the income that must be reported, or show that the trustee did so.
+[55] As far as the other issues are concerned, there is no need to go beyond the statements by counsel for the respondent contained in paragraphs 33‑36 of these reasons.
+[56] The appeals are accordingly dismissed.
+Signed at Ottawa, Canada, February 17, 2004.
+“Louise Lamarre Proulx”
+Lamarre Proulx, J.
+REFERENCE:
+2004TCC154
+COURT FILE NO.:
+2003-2113(IT)I
+STYLE OF CAUSE:
+Jacques Biron and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+October 24, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT:
+February 17, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+For the Respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

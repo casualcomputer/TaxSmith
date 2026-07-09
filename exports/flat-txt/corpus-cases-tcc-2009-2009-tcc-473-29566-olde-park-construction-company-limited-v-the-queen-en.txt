@@ -1,0 +1,148 @@
+Title: Olde Park Construction Company Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29566/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-473-29566-olde-park-construction-company-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-09-18
+
+# Olde Park Construction Company Limited v. The Queen
+
+- Citation: 2009 TCC 473
+- Decision date: 2009-09-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6323, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Olde Park Construction Company Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-18
+Neutral citation
+2009 TCC 473
+File numbers
+2006-1140(GST)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2009 TCC 473
+Date: 20091014
+Docket: 2006-1140(GST)G
+BETWEEN:
+OLDE PARK CONSTRUCTION COMPANY LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Woods J.
+[1] This appeal concerns an assessment under the Excise Tax Act that was issued to Olde Park Construction Company Ltd. (“Olde Park”) for the period from August 1, 2001 to January 31, 2004.
+[2] Olde Park is a builder of new homes in the Toronto area. The issue concerns Olde Park’s obligation to collect goods and services tax (GST) from purchasers who purchased homes under an arrangement whereby occupancy was given approximately one year prior to the transfer of ownership.
+[3] It is not in dispute that Olde Park was required to collect GST with respect to these sales. The issue is one of timing. At what point was the GST payable by purchasers and collectible by Olde Park? Olde Park submits that the relevant time is when ownership was passed. The Minister submits that it is when the purchasers took possession.
+[4] Olde Park appeals an assessment of interest and a penalty for failure to take the GST into account in computing net tax in the relevant reporting periods. The penalty is 6 percent of the GST, which according to counsel for the appellant amounts to about $165,000.
+[5] There were other issues raised in the amended notice of appeal but these were abandoned by the appellant at the commencement of the hearing.
+Background
+[6] In the relevant periods, Olde Park was involved in the construction of 250 homes in a subdivision near Toronto.
+[7] The homes were marketed to potential purchasers who otherwise could not afford to purchase a home. In its marketing material, Olde Park advertised the arrangement as “Rent to Own, $4,900 Moves You In.” The figure of $4,900 represented approximately two percent of the purchase price of the home.
+[8] A typical purchase and sale agreement was entered into evidence as Exhibit AR-1, Tab 21. Under it, the purchasers agreed to purchase a residential property either already constructed or to be constructed for a consideration of $278,150. They were required to pay a deposit of $4,900 upon acceptance of the agreement, regular monthly amounts from the time of occupancy until the closing approximately one year later, and the balance was payable on closing. Occupancy in the form of a licence was provided to purchasers a few months after entering into the agreement.
+[9] The $4,900 deposit and the regular monthly payments during the period of occupancy resulted in the purchasers paying approximately 10 percent of the purchase price prior to the closing.
+[10] Also under the agreement, the purchasers were required to apply for mortgage financing for a large percentage of the purchase price with a lending institution designated by Olde Park. Olde Park agreed to arrange the mortgage, subject to purchaser qualification. The mortgage terms were set out in the agreement, and Olde Park charged an arrangement fee of 3.75 percent.
+[11] If the mortgage financing was refused, Olde Park had the option to provide the financing itself or to declare the agreement null and void.
+[12] At some point prior to closing, Olde Park decided not to arrange third party financing but to provide the mortgages itself.
+[13] Olde Park remitted the GST on the sale of the homes after ownership had passed.
+Relevant legislative scheme
+[14] Under subsection 228(2) of the Act, a person is required to remit an amount of “net tax” in respect of a reporting period.
+[15] Net tax includes amounts of tax that have been collected or are collectible in the reporting period. The relevant provision, subsection 225(1), provides:
+225. (1) Net tax — Subject to this Subdivision, the net tax for a particular reporting period of a person is the positive or negative amount determined by the formula
+A – B
+where
+A is the total of
+(a) all amounts that became collectible and all other amounts collected by the person in the particular reporting period as or on account of tax under Division II, and
+(b) all amounts that are required under this Part to be added in determining the net tax of the person for the particular reporting period; and
+B is the total of
+(a) all amounts each of which is an input tax credit for the particular reporting period or a preceding reporting period of the person claimed by the person in the return under this Division filed by the person for the particular reporting period, and
+(b) all amounts each of which is an amount that may be deducted by the person under this Part in determining the net tax of the person for the particular reporting period and that is claimed by the person in the return under this Division filed by the person for the particular reporting period. [Emphasis added.]
+[16] The sale of a new home is a taxable supply for purposes of the Act, and vendors are required to collect GST in respect of the sale.
+[17] In general, the GST is payable at the earlier of the time that ownership is transferred or when the buyer takes possession under the sale agreement.
+[18] The timing is different for condominiums, in which case possession is not a relevant factor. The provisions dealing with condominiums are not relevant here.
+[19] The provision that is relevant, s. 168(5) of the Act, provides:
+168(5) Sale of real property — Notwithstanding subsections (1) and (2), tax under this Division in respect of a taxable supply of real property by way of sale is payable
+(a) in the case of a supply of a residential condominium unit where possession of the unit is transferred, after 1990 and before the condominium complex in which the unit is situated is registered as a condominium, to the recipient under the agreement for the supply, on the earlier of the day ownership of the unit is transferred to the recipient and the day that is sixty days after the day the condominium complex is registered as a condominium; and
+(b) in any other case, on the earlier of the day ownership of the property is transferred to the recipient and the day possession of the property is transferred to the recipient under the agreement for the supply.
+[Emphasis added.]
+[20] Subsection 168(7) modifies the requirements of s. 168(5) by providing for a partial deferral of the payment in certain circumstances.
+[21] Subsection 168(7) provides:
+168(7) Retention of consideration — Notwithstanding subsections (1), (2), (3), (5) and (6), where the recipient of a taxable supply retains, pursuant to
+(a) an Act of Parliament or of the legislature of a province, or
+(b) an agreement in writing for the construction, renovation or alteration of, or repair to, any real property or any ship or other marine vessel,
+a part of the consideration for the supply pending full and satisfactory performance of the supply, or any part thereof, tax under this Division, calculated on the value of that part of the consideration, is payable on the earlier of the day that part is paid and the day it becomes payable. [Emphasis added.]
+Positions of parties
+[22] Olde Park submits that s. 168(7)(b) applies to the balance of the purchase price payable on closing because it has been retained by the purchasers pending the performance of Olde Park’s obligation to obtain mortgage financing. It is submitted that the tax on this portion of the purchase price is not payable until closing.
+[23] If this position is correct, Olde Park could defer collection and remittance of approximately 90 percent of the GST until ownership was transferred.
+[24] Although no part of the tax was actually paid by Olde Park until closing, counsel for Olde Park did not dispute during argument that ten percent of the GST should have been remitted earlier, because it was not held back pending financing.
+[25] The Minister submits that this interpretation extends beyond what the provision was intended to do. According to the Minister, the purpose of paragraph 168(7)(b) is to give relief only for typical construction-type holdbacks.
+Analysis
+[26] In order for s. 168(7)(b) to apply to the facts of this case, the following elements need to be established:
+(a) that Olde Park entered into agreements for the construction of homes; and
+(b) that part of the consideration was retained pending full and satisfactory performance of the supply.
+[27] As the Minister does not dispute the first element, the only issue is whether the second is satisfied.
+[28] Olde Park submits that the second element is satisfied because part of the consideration is retained until Olde Park satisfies its obligation to provide financing.
+[29] I am not able to agree with this submission.
+[30] It is certainly true that Olde Park has not performed all its obligations under the agreement until the transfer of ownership, at the earliest. One example of an outstanding obligation is the transfer of ownership in the home itself.
+[31] Paragraph 168(7)(b) applies in fairly narrow circumstances, namely in contracts for the construction, renovation or repair of real estate or vessels. Further, it only applies where part of the consideration is retained pending full and satisfactory performance of the supply, or a part thereof.
+[32] In my view it is reasonably clear based on the language used in the section that the provision is intended to apply only in those circumstances in which a sale has taken place and part of the consideration is withheld as a protection against non-performance.
+[33] The use of the term “retains” and the phrase “pending full and satisfactory performance” strongly suggests this interpretation in my view.
+[34] The language used in s. 168(7)(b) suggests that the purchase price would otherwise be payable except for certain conditions relating to performance. In this case, no part of the consideration has been “retained” pending Olde Park’s obligations relating to financing because the consideration would not otherwise be payable.
+[35] For this reason, I disagree with the interpretation of s. 168(7)(b) suggested by Olde Park.
+[36] Olde Park submits that the Minister’s interpretation is onerous in its case because it is not clear that the GST would be refunded if the closing did not take place for some reason.
+[37] Even if I were to accept that the interpretation suggested by the Minister could have a harsh result for Olde Park, this is not a sufficient reason to give s. 168(7) an interpretation that the provision cannot reasonably bear. If there is unfairness in the legislation, it is something for Parliament to consider.
+Due diligence
+[38] As an alternative argument, Olde Park submits that the penalty should be vacated on the basis that it exercised due diligence.
+[39] There is not sufficient evidence of due diligence in this case.
+[40] The only witness for Olde Park was its president, Sheldon Libfeld. In his testimony, he suggested that he had concluded that GST was payable only on closing because of the wording used in a statement of adjustments prepared by his solicitor (Ex. AR-1, Tab 35).
+[41] This statement is not corroborated by the wording in the statement of adjustments. Even if I were satisfied that Mr. Libfeld truly held this belief, it would not be a sufficient ground to satisfy a due diligence defence.
+[42] Mr. Libfeld also testified that he was concerned about the potential for double taxation in the event that GST was payable on occupancy and the closing never took place. Again, this is not a sufficient reason to avoid remitting the GST when required by the legislation.
+[43] Based on the evidence as a whole, it appears likely that Olde Park simply decided as a business matter not to remit the GST until closing.
+[44] I would note in particular that the notice of objection does not raise any legal basis for the failure to remit tax on occupancy. Also, Schedule R to agreement of purchase and sale provided for an interest-free loan to purchasers in respect of GST payable on occupancy. Purchasers also signed a direction on occupancy to apply the proceeds of the loan towards payment of the GST due on occupancy (Ex. AR-1, Tab 27).
+[45] A due diligence defence has not been made out.
+[46] The appeal will be dismissed, with costs to the respondent.
+These Amended Reasons for Judgment are issued in substitution for the Reasons for Judgment dated September 18, 2009.
+Signed at Ottawa, Canada this 14th day of October 2009.
+“J. M. Woods”
+Woods J.
+CITATION:
+2009 TCC 473
+COURT FILE NO.:
+2006-1140(GST)G
+STYLE OF CAUSE:
+Olde Park Construction Company Limited and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 19, 2009
+AMENDED REASONS FOR JUDGMENT BY:
+The Honourable Justice J. Woods
+DATE OF AMENDED JUDGMENT:
+October 14, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Dalton Albrecht
+Katherine Xilinas
+Counsel for the Respondent:
+Harry Erlichman
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Dalton Albrecht
+Firm:
+Miller Thomson LLP
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

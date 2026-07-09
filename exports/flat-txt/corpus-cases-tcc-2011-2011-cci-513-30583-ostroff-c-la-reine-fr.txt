@@ -1,0 +1,211 @@
+Title: Ostroff c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30583/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-513-30583-ostroff-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-11-02
+
+# Ostroff c. La Reine
+
+- Citation: 2011 CCI 513
+- Decision date: 2011-11-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7141, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ostroff c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-11-02
+Référence neutre
+2011 CCI 513
+Numéro de dossier
+2011-860(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2011-860(IT)I
+2011-955(IT)I
+2011-1591(IT)I
+ENTRE :
+MICHAEL OSTROFF,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus sur preuve commune le 7 octobre 2011,
+à Toronto (Ontario)
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Représentant de l’appelant :
+M. Bernard Yevzeroff
+Avocate de l’intimée :
+Me Sharon Lee
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des cotisations datées du 13 mai 2010 qui avaient été établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004, 2005, 2006, 2007 et 2008 sont rejetés et les pénalités pour production tardive qui avaient été imposées pour les années d’imposition 2003, 2004, 2005, 2006, 2007 et 2008 sont confirmées.
+Signé à Ottawa, Canada, ce 2e jour de novembre 2011.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 15e jour de décembre 2011.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2011 CCI 513
+Date : 20111102
+Dossiers : 2011-860(IT)I
+2011-955(IT)I
+2011-1591(IT)I
+ENTRE :
+MICHAEL OSTROFF,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] En l’espèce, l’appelant interjette appel, sous le régime de la procédure informelle, des cotisations datées du 13 mai 2010 qui ont été établies par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), dans sa version modifiée (la « Loi »), pour les années d’imposition 2003, 2004, 2005, 2006, 2007 et 2008 de l’appelant.
+[2] Dans ces appels, qui ont été entendus sur preuve commune, les questions en litige sont les suivantes :
+a) les cotisations établies par le ministre en vertu du paragraphe 152(7) de la Loi à l’égard des années d’imposition 2003, 2004, 2005, 2006, 2007 et 2008 de l’appelant afin d’inclure respectivement des revenus non déclarés de 56 599 $, 58 700 $, 58 000 $, 58 700 $, 60 300 $ et 60 300 $ sont‑elles valides?
+b) les pénalités pour production tardive imposées en vertu du paragraphe 162(1) de la Loi pour chacune des années d’imposition 2003, 2004, 2005, 2006, 2007 et 2008 sont‑elles valides?
+[3] Pour fixer l’impôt à payer de l’appelant pour les années d’imposition 2003 et 2004, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelant n’a pas produit de déclarations de revenu auprès du ministre pour les années d’imposition 2003 et 2004 selon les modalités et dans le délai prévus au paragraphe 150(1) de la Loi;
+b) en vertu du paragraphe 152(7) de la Loi, le ministre s’est servi des renseignements dont il disposait pour établir les cotisations fixant l’impôt à payer pour les années d’imposition 2003 et 2004, cotisations dont les avis étaient datés du 13 mai 2010;
+c) pour les années d’imposition 2003 et 2004, les revenus totaux non déclarés de l’appelant atteignaient au moins les montants suivants :
+2003
+2004
+Revenu d’entreprise
+48 676 $
+58 700 $
+Assurance‑emploi
+7 847 $
+—
+Intérêts
+76 $
+—
+Revenu total
+56 599 $
+58 700 $
+d) dans le calcul de ses crédits d’impôt non remboursables pour les années d’imposition 2003 et 2004, l’appelant a eu droit au montant personnel de base ainsi qu’à des montants au titre de cotisations au Régime de pensions du Canada et au titre de cotisations d’assurance‑emploi;
+e) mis à part les déductions déjà accordées, l’appelant n’a eu droit à aucune déduction dans le calcul de son revenu imposable pour les années d’imposition 2003 et 2004;
+f) l’appelant n’a fait aucune dépense d’entreprise pendant les années d’imposition 2003 et 2004;
+g) l’appelant était tenu de produire auprès du ministre ses déclarations de revenu pour les années d’imposition 2003 et 2004 au plus tard le 30 avril 2004 et le 30 avril 2005, respectivement;
+h) l’appelant n’a pas produit de déclaration de revenu auprès du ministre pour les années d’imposition 2003 et 2004;
+i) aux moments où l’appelant devait produire ses déclarations de revenu pour les années d’imposition 2003 et 2004, l’impôt impayé pour les années d’imposition 2003 et 2004 s’élevait respectivement à 10 545,67 $ et à 9 531,91 $.
+[4] Pour fixer l’impôt à payer de l’appelant pour les années d’imposition 2005 et 2006, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelant n’a pas produit de déclarations de revenu auprès du ministre pour les années d’imposition 2005 et 2006 selon les modalités et dans le délai prévus au paragraphe 150(1) de la Loi;
+b) en vertu du paragraphe 152(7) de la Loi, le ministre s’est servi des renseignements dont il disposait pour établir les cotisations faisant état de l’impôt à payer pour les années d’imposition 2005 et 2006, cotisations dont les avis étaient datés du 13 mai 2010;
+c) pour les années d’imposition 2005 et 2006, les revenus totaux non déclarés de l’appelant atteignaient au moins les montants suivants :
+2005
+2006
+Revenu d’entreprise
+58 000 $
+58 700 $
+d) dans le calcul de ses crédits d’impôt non remboursables pour les années d’imposition 2005 et 2006, l’appelant a eu droit au montant personnel de base ainsi qu’à des montants au titre de cotisations au Régime de pensions du Canada et au titre de cotisations d’assurance‑emploi;
+e) mis à part les déductions déjà accordées, l’appelant n’a eu droit à aucune déduction dans le calcul de son revenu imposable pour les années d’imposition 2005 et 2006;
+f) l’appelant n’a fait aucune dépense d’entreprise pendant les années d’imposition 2005 et 2006;
+g) l’appelant était tenu de produire auprès du ministre ses déclarations de revenu pour les années d’imposition 2005 et 2006 au plus tard le 30 avril 2006 et le 30 avril 2007, respectivement;
+h) l’appelant n’a pas produit de déclaration de revenu auprès du ministre pour les années d’imposition 2005 et 2006;
+i) aux moments où l’appelant devait produire ses déclarations de revenu pour les années d’imposition 2005 et 2006, l’impôt impayé pour les années d’imposition 2005 et 2006 s’élevait respectivement à 10 382,76 $ et à 10 523,13 $.
+[5] Pour fixer l’impôt à payer de l’appelant pour les années d’imposition 2007 et 2008, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelant n’a pas produit de déclarations de revenu auprès du ministre pour les années d’imposition 2007 et 2008 selon les modalités et dans le délai prévus au paragraphe 150(1) de la Loi;
+b) en vertu du paragraphe 152(7) de la Loi, le ministre s’est servi des renseignements dont il disposait pour établir les cotisations faisant état de l’impôt à payer pour les années d’imposition 2007 et 2008, cotisations dont les avis étaient datés du 13 mai 2010;
+c) pour les années d’imposition 2007 et 2008, les revenus totaux non déclarés de l’appelant atteignaient au moins les montants suivants :
+2007
+2008
+Revenu tiré d’un REER
+4 772 $
+— $
+Revenu d’entreprise
+55 528 $
+60 300 $
+Revenu total non déclaré
+60 300 $
+60 300 $
+d) dans le calcul de ses crédits d’impôt non remboursables pour les années d’imposition 2007 et 2008, l’appelant a eu droit au montant personnel de base ainsi qu’à des montants au titre de cotisations au Régime de pensions du Canada;
+e) mis à part les déductions déjà accordées, l’appelant n’a eu droit à aucune déduction dans le calcul de son revenu imposable pour les années d’imposition 2007 et 2008;
+f) l’appelant n’a fait aucune dépense d’entreprise pendant les années d’imposition 2007 et 2008;
+g) l’appelant était tenu de produire auprès du ministre ses déclarations de revenu pour les années d’imposition 2007 et 2008 au plus tard le 30 avril 2008 et le 30 avril 2009, respectivement;
+h) l’appelant n’a pas produit de déclaration de revenu auprès du ministre pour les années d’imposition 2007 et 2008;
+i) aux moments où l’appelant devait produire ses déclarations de revenu pour les années d’imposition 2007 et 2008, l’impôt impayé pour les années d’imposition 2007 et 2008 s’élevait respectivement à 8 487,08 $ et à 8 415,99 $.
+Autres faits pertinents
+[6] L’avocate de l’intimée a déposé en preuve un affidavit signé par Shiraz Mukhida, qui occupe le poste d’agent de recouvrement de la section des non‑déclarants et des non‑inscrits du bureau de services fiscaux de Toronto-Nord de l’Agence du revenu du Canada (l’« ARC »). Les documents suivants étaient annexés à cet affidavit (pièce R‑1) :
+a) une sortie d’imprimante de l’« option C » (renseignements relatifs au revenu déclaré et aux déductions demandées par le contribuable dans sa déclaration de revenu T1) montrant que l’appelant avait déclaré un revenu net de 46 486 $ pour l’année d’imposition 2002;
+b) une sortie d’imprimante de l’« option I » portant sur les années visées par les appels, montrant que l’appelant n’avait produit aucune déclaration de revenu pour les années d’imposition 2003, 2004, 2005, 2006, 2007 et 2008 et que l’ARC avait établi des cotisations en application du paragraphe 152(7) de la Loi;
+c) des sorties d’imprimante de dossiers du système informatisé de banques de données de l’ARC, selon lesquelles les feuillets d’information suivants avaient été délivrés à l’appelant pour les années visées par les appels :
+(i) un feuillet T4E (état des prestations d’assurance‑emploi et autres prestations) selon lequel l’appelant avait reçu 7 847 $ pour l’année d’imposition 2003,
+(ii) un feuillet T5 (état des revenus de placement) selon lequel l’appelant avait reçu 77 $ pour l’année d’imposition 2003,
+(iii) un feuillet T4RSP (état du revenu provenant d’un REER) selon lequel l’appelant avait reçu 4 772 $ pour l’année d’imposition 2007.
+[7] Dans ses avis d’appel pour les années d’imposition 2003, 2004, 2005 et 2006, l’appelant n’a pas soulevé le fait que les cotisations visant ces années avaient été établies après la période normale de nouvelle cotisation, mais il a soulevé cette question par rapport aux années d’imposition 2007 et 2008. L’appelant a aussi soutenu que, pendant les années d’imposition 2002 et 2009, il avait subi des pertes autres qu’en capital qui ont éliminé tout son impôt à payer pour les années visées par les appels.
+[8] L’appelant a témoigné à l’audience. Il a expliqué que, jusqu’en 2002, il travaillait comme vendeur et avait de bons revenus. Il a ensuite perdu son emploi lorsque son employeur a fermé ses portes. L’appelant a reçu des prestations d’assurance‑emploi en 2002 et en 2003, et il a lancé une entreprise de services parajuridiques en 2003. Il a dit qu’il savait qu’il était obligé de produire une déclaration de revenu pour chaque année d’imposition, mais il a expliqué qu’il ne l’avait pas fait pour les années d’imposition 2003, 2004, 2005, 2006, 2007 ou 2008 parce qu’il croyait n’avoir aucun impôt à payer pour chacune de ces années d’imposition.
+[9] Pendant son témoignage, l’appelant a donné les estimations suivantes de son revenu net pour chacune des années visées par les appels :
+2003 :
+7 000 $
+2004 :
+12 000 $
+2005 :
+2006 :
+2007 :
+2008 :
+14 000 $ à 15 000 $
+18 000 $
+18 000 $
+20 000 $ à 21 000 $
+[10] L’appelant était arrivé à ces estimations de son revenu net après avoir appliqué une déduction de 25 % au titre des dépenses d’entreprise faites dans l’exploitation de son entreprise de services parajuridiques. Aucune facture n’a été présentée pour étayer les dépenses d’entreprise dont la déduction a été demandée et aucune preuve documentaire n’a été déposée pour corroborer les estimations du revenu net de l’appelant.
+[11] En outre, l’appelant n’a déposé aucun document démontrant que les cotisations établies par le ministre étaient erronées et il n’a fourni aucun renseignement au sujet des pertes autres qu’en capital qu’il allègue avoir subies pendant les années d’imposition 2002 et 2009.
+Analyse
+[12] Une cotisation a été établie à l’égard de l’appelant pour chacune des années d’imposition visées par les appels, et ce, en vertu du paragraphe 152(7) de la Loi, qui est ainsi rédigé :
+(7) Le ministre n’est pas lié par les déclarations ou renseignements fournis par un contribuable ou de sa part et, lors de l’établissement d’une cotisation, il peut, indépendamment de la déclaration ou des renseignements ainsi fournis ou de l’absence de déclaration, fixer l’impôt à payer en vertu de la présente partie.
+[13] Les cotisations visant les années d’imposition en cause n’ont pas été établies après la période normale de nouvelle cotisation, qui est définie au paragraphe 152(3.1) de la Loi :
+(3.1) Pour l’application des paragraphes (4), (4.01), (4.2), (4.3), (5) et (9), la période normale de nouvelle cotisation applicable à un contribuable pour une année d’imposition s’étend sur les périodes suivantes :
+a) quatre ans suivant soit la date d’envoi d’un avis de première cotisation en vertu de la présente partie le concernant pour l’année, soit, si elle est antérieure, la date d’envoi d’une première notification portant qu’aucun impôt n’est payable par lui pour l’année, si, à la fin de l’année, le contribuable est une fiducie de fonds commun de placement ou une société autre qu’une société privée sous contrôle canadien;
+b) trois ans suivant celle de ces dates qui est antérieure à l’autre, dans les autres cas.
+[14] Toutes les cotisations datées du 13 mai 2010 sont des cotisations initiales établies en vertu de la partie I de la Loi pour chacune des années d’imposition visées par les appels et elles ne visent pas des années frappées de prescription, suivant le paragraphe 152(4) de la Loi, car la Loi ne prévoit aucun délai pour l’établissement d’une cotisation initiale.
+[15] À l’audience, l’intimée a reconnu que les feuillets d’information délivrés à l’appelant pour les années d’imposition 2003 et 2007 sont les seuls éléments de preuve permettant d’établir que l’appelant avait reçu des revenus non déclarés pour les années visées par les appels, mais elle n’a pas expliqué comment elle avait calculé le revenu de l’appelant pour chacune des années d’imposition visées par les appels.
+[16] Compte tenu du fait que l’appelant n’a pas infirmé les hypothèses de fait sur lesquelles le ministre s’était fondé pour fixer le revenu brut de l’appelant pour les années visées par les appels et que l’appelant n’a présenté aucun élément de preuve démontrant à première vue que les cotisations établies par le ministre sont erronées, le ministre n’était pas obligé de fournir de renseignements quant à la manière dont le revenu de l’appelant a été calculé.
+[17] Puisque l’appelant n’a présenté aucun élément de preuve et en l’absence de documents corroborant les prétendues dépenses d’entreprise dont la déduction a été demandée, je dois accepter les hypothèses non réfutées du ministre au sujet du revenu brut de l’appelant (voir la décision Hamilton c. La Reine, 2005 CCI 625, 2005 D.T.C. 1330).
+[18] Par ailleurs, les estimations avancées par l’appelant quant à son revenu net pour chacune des années d’imposition visées par les appels révèlent clairement que l’appelant devait payer un impôt et produire une déclaration de revenu pour chacune de ces années d’imposition. Dans les circonstances, les pénalités pour production tardive qui ont été imposées en vertu du paragraphe 162(1) de la Loi sont valides.
+[19] Pour ces motifs, les appels interjetés à l’égard des cotisations datées du 13 mai 2010 sont rejetés et les pénalités pour production tardive sont confirmées.
+Signé à Ottawa, Canada, ce 2e jour de novembre 2011.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 15e jour de décembre 2011.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2011 CCI 513
+Nos DES DOSSIERS DE LA COUR :
+2011-860(IT)I
+2011-955(IT)I
+2011-1591(IT)I
+INTITULÉ :
+Michael Ostroff c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 7 octobre 2011
+MOTIFS DU JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 2 novembre 2011
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Bernard Yevzeroff
+Avocate de l’intimée :
+Me Sharon Lee
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,211 @@
+Title: AFB Janitorial Services Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521119/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-94-521119-afb-janitorial-services-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2023-07-04
+
+# AFB Janitorial Services Inc. c. M.R.N.
+
+- Citation: 2023 CCI 94
+- Decision date: 2023-07-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5853, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+AFB Janitorial Services Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-07-17
+Référence neutre
+2023 CCI 94
+Numéro de dossier
+2021-126(CPP), 2021-143(EI)
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2021-126(CPP)
+ENTRE :
+AFB JANITORIAL SERVICES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+AFB Janitorial Services Inc. (2021‑143(EI))
+le 23 mars 2023, à Vancouver (Colombie-Britannique).
+Devant : l’honorable juge David E. Spiro
+Comparutions :
+Représentants de l’appelante :
+Marilyn Biralde et Antonio Biralde
+Avocats de l’intimé :
+Anna Walsh et Jean Murray
+JUGEMENT
+L’appel des décisions rendues par le ministre du Revenu national en application du paragraphe 28(2) du Régime de pensions du Canada le 9 novembre 2020 est accueilli, sans dépens, et les décisions sont modifiées selon les motifs ci-joints.
+Signé à Toronto (Ontario), ce 4e jour de juillet 2023.
+« David E. Spiro »
+Le juge Spiro
+Dossier : 2021-143 (EI)
+ENTRE :
+AFB JANITORIAL SERVICES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+AFB Janitorial Services Inc. (2021‑126(CPP))
+le 23 mars 2023, à Vancouver (Colombie-Britannique).
+Devant : l’honorable juge David E. Spiro
+Comparutions :
+Représentants de l’appelante :
+Marilyn Biralde et Antonio Biralde
+Avocats de l’intimé :
+Anna Walsh et Jean Murray
+JUGEMENT
+L’appel visant les décisions rendues le 9 novembre 2020 par le ministre du Revenu national en application de l’article 103 de la Loi sur l’assurance-emploi est accueilli, sans dépens, et les décisions sont modifiées selon les motifs ci-joints.
+Signé à Toronto (Ontario), ce 4e jour de juillet 2023.
+« David E. Spiro »
+Le juge Spiro
+Référence : 2023 CCI 94
+Date : 20230717
+Dossiers : 2021-126(CPP)
+2021-143 (EI)
+ENTRE :
+AFB JANITORIAL SERVICES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS MODIFIÉS DU JUGEMENT
+Le juge Spiro
+[1] L’appelante, AFB Janitorial Services Inc., interjette appel des décisions du 9 novembre 2020 par lesquelles le ministre du Revenu national (le « ministre ») a confirmé les décisions de la Division des décisions RPC/AE de l’Agence du revenu du Canada (l’« ARC ») qualifiant les travailleurs suivants (les « préposés à l’entretien ») d’employés de l’appelante pour les périodes suivantes aux fins du Régime de pensions du Canada (le « RPC ») et de la Loi sur l’assurance-emploi (la « Loi sur l’AE ») :
+Travailleur
+Période
+Rizaldy Camar
+Du 1er janvier 2018 au 31 décembre 2018
+Marlon Camposagrado
+Du 1er janvier 2018 au 30 octobre 2019
+Dhannica Cayanan
+Du 1er janvier 2018 au 30 octobre 2019
+Jesus Cayanan
+Du 1er janvier 2018 au 30 octobre 2019
+Redentor Domingo
+Du 1er janvier 2018 au 30 octobre 2019
+John Paul Morales
+Du 1er janvier 2018 au 31 mai 2019
+Benjie G. Elijay
+Du 1er janvier 2018 au 30 octobre 2019
+Robert Pagdilao
+Du 1er août 2018 au 25 octobre 2018
+I. Aperçu
+[2] L’appelante affirme que les préposés à l’entretien étaient des entrepreneurs indépendants pendant les périodes visées et que, pour cette raison, elle n’était tenue de prélever ni de remettre aucune somme au titre du RPC et de la Loi sur l’AE. La Couronne n’est pas d’accord et soutient que l’appelante était tenue de prélever et de remettre des sommes au titre du RPC et de la Loi sur l’AE à l’égard de chacun de ses huit employés.
+[3] Des éléments de preuve ont été présentés par l’un des deux actionnaires de l’appelante, soit Mme Biralde, et par deux des préposés à l’entretien. La preuve n’ayant pas révélé d’intention commune à l’appelante et aux préposés à l’entretien quant au statut de ces derniers, je me suis principalement basé sur les facteurs objectifs. Ces facteurs m’amènent à conclure que, selon la prépondérance des probabilités, les huit préposés à l’entretien étaient des entrepreneurs indépendants plutôt que des employés.
+[4] Les facteurs déterminants sont le fait que les préposés à l’entretien pouvaient aller et venir à leur guise et, surtout, qu’ils pouvaient engager leurs propres assistants et même fournir des remplaçants, le tout, sans devoir obtenir l’approbation de l’appelante. La formation était des plus sommaires, et la supervision relativement limitée. Le portrait brossé par l’ensemble de la preuve correspond mieux à celui de préposés à l’entretien qui ont le statut d’entrepreneurs indépendants plutôt qu’à celui de préposés à l’entretien qui ont le statut d’employés.
+II. Droit applicable [5] Comme l’a expliqué la Cour d’appel fédérale dans l’arrêt 1392644 Ontario Inc. (Connor Homes) c. Canada (Revenu National), l’intention subjective de chacune des parties à la relation est le premier facteur à établir[1]. Après quoi, les facteurs objectifs sont pris en considération. Dans l’arrêt Wiebe Door Services Ltd. c. M.R.N. (CAF), la Cour d’appel fédérale a énoncé les facteurs objectifs suivants qui permettent de distinguer les entrepreneurs indépendants des salariés :
+1) le contrôle;
+2) la propriété des instruments de travail;
+3) la possibilité de profit; et
+4) le risque de perte[2].
+[6] Aucun facteur ne joue de rôle dominant et il n’existe aucune formule mécanique à appliquer. Dans sa récente décision 0808498 BC Ltd. v. M.N.R., le juge Sommerfeldt a offert un résumé utile des facteurs à prendre en considération aux fins de trancher cette question :
+[Traduction]
+a) La personne engageant le travailleur contrôle-t-elle les activités de celui-ci?
+b) La personne engageant le travailleur fournit-elle l’outillage et l’équipement nécessaire au travailleur ou celui-ci doit-il fournir ses propres outillage et équipement?
+c) Le travailleur engage-t-il lui-même ses assistants?
+d) Quelle est l’étendue des risques financiers pris par le travailleur? Autrement dit, le travailleur encoure-t-il un risque de perte?
+e) Jusqu’à quel point le travailleur est-il responsable des mises de fonds et de la gestion?
+f) Le travailleur a-t-il la possibilité de tirer profit de l’exécution de ses tâches?[3]
+III. Faits et analyse
+[7] Mme Marilyn Biralde et son mari, M. Antonio Biralde, ont constitué l’appelante sous le régime des lois britanno-colombiennes en 2017, en leur qualité d’actionnaires uniques de celle-ci. L’appelante fournit des services d’entretien ménager à des hôtels, des cinémas et des immeubles de bureaux. Les seuls emplacements cités en preuve sont l’hôtel Fairmont situé au centre-ville de Vancouver (l’« hôtel Fairmont ») et le Cineplex Cinemas, situé à Coquitlam (le « Cineplex »).
+[8] L’appelante n’avait de relation contractuelle ni avec l’hôtel Fairmont ni avec le Cineplex. Toutefois, elle avait conclu une entente orale avec Tricom Building Maintenance (« Tricom ») pour l’entretien ménager du Cineplex et de certaines zones communes de l’hôtel Fairmont. L’appelante effectuait l’intégralité de l’entretien ménager de ces sites de nuit, alors qu’ils étaient fermés au public et au personnel.
+[9] Un employé de Tricom a emmené M. et Mme Biralde sur chacun des sites pour leur montrer les tâches qui devaient être effectuées par l’appelante. Tricom versait à l’appelante une somme forfaitaire pour l’entretien ménager de chaque site. En vertu de l’entente orale qu’elle avait conclue avec Tricom, l’appelante avait le droit de confier son travail à des sous-traitants. Tricom n’exigeait aucune habilitation de sécurité ou ni aucune forme de vérification des antécédents des préposés à l’entretien de l’appelante. Tricom n’avait pas arrêté de règles énonçant qui était ou non autorisé à accompagner les préposés à l’entretien de l’appelante sur les sites.
+[10] Si l’hôtel Fairmont ou le Cineplex étaient insatisfaits de l’entretien ménager effectué, ils en informaient Tricom. Si de tels manquements ont effectivement été constatés, Tricom n’a imposé aucune pénalité pécuniaire à l’appelante. De même, l’appelante n’a imposé aucune pénalité pécuniaire aux préposés à l’entretien si des manquements ont été constatés.
+[11] L’appelante a recruté les préposés à l’entretien à partir de recommandations et au moyen de la publication d’offres d’emploi. L’appelante n’a conclu aucun contrat écrit avec ses préposés à l’entretien. Chaque préposé a été embauché pour procéder à l’entretien ménager d’un site en particulier, et chacun d’entre eux occupait un emploi à plein temps pendant la journée.
+[12] J’analyserai d’abord le cas des six préposés à l’entretien qui n’ont pas témoigné. Je passerai ensuite au cas des deux préposés à l’entretien qui ont témoigné lors de l’audience.
+Les six préposés à l’entretien n’ayant pas témoigné
+Intention subjective [13] Il ressort clairement du témoignage de Mme Biralde que l’appelante considérait ses préposés à l’entretien comme des entrepreneurs indépendants. Toutefois, en l’absence d’un contrat écrit et à défaut d’avoir obtenu un témoignage des six préposés en question, il est impossible de dégager une conclusion quant à leur intention subjective.
+Facteurs objectifs Degré de contrôle [14] Bien que l’appelante exigeait que les préposés à l’entretien portent un uniforme portant le nom de Tricom, tous les autres éléments de preuve permettent de penser, selon la prépondérance des probabilités, que les six préposés à l’entretien visés étaient des entrepreneurs indépendants :
+Les préposés à l’entretien pouvaient décider de l’heure à laquelle ils commençaient leur travail chaque soir après la fermeture des cuisines de l’hôtel Fairmont ou du Cineplex, et ils pouvaient rentrer chez eux dès qu’ils avaient terminé leur travail. En général, les préposés à l’entretien travaillaient aussi longtemps qu’il le fallait, entre 23 heures et 7 heures, pour terminer de nettoyer le site. Ce travail pouvait leur prendre entre trois et cinq heures. Il n’était pas nécessaire que M. Biralde ou Mme Biralde soit présent sur un site en particulier pour laisser entrer les préposés à l’entretien, car ceux-ci disposaient de leurs propres clefs. L’appelante ne vérifiait pas combien d’heures les préposés à l’entretien passaient sur les sites et ne leur demandait pas de remplir des feuilles de temps.
+Bien que l’appelante ait expliqué aux préposés quelles tâches étaient prioritaires, elle ne leur a fourni pratiquement aucune formation.
+Les préposés à l’entretien n’étaient soumis à aucune politique d’entreprise (à l’exception de l’obligation de porter l’uniforme Tricom).
+[15] M. Biralde et Mme Biralde étaient souvent sur les sites pour réaliser leurs propres travaux d’entretien ménager. Lorsqu’ils étaient sur place, ils vérifiaient le travail effectué par les préposés. M. et Mme Biralde n’évaluaient pas le travail effectué par chacun des préposés à la fin de chaque nuit au moyen d’une liste de contrôle. S’ils n’étaient pas satisfaits du travail effectué, ils ne demandaient pas au préposé de refaire le travail. On peut supposer qu’ils procédaient eux-mêmes à des travaux d’entretien ménager supplémentaires lorsque nécessaire.
+[16] Il ne faut pas surestimer la portée des vérifications effectuées par M. et Mme Biralde sur le travail effectué par les préposés à l’entretien, lorsque le couple était sur place pour réaliser ses propres travaux d’entretien ménager. Comme l’a fait remarquer le juge Pizzitelli dans la décision 3142774 Nova Scotia Limited c. M.R.N. :
+[26] Au paragraphe 18 de l’arrêt City Water International Inc. c. Canada (Ministre du Revenu national – M.R.N.), 2006 CAF 350 […] la Cour d’appel fédérale, en renvoyant à une de ses décisions, rendue par le juge Létourneau dans l’arrêt Le Livreur Plus Inc. c. Canada (Ministre du Revenu national), 2004 FCA 68 […] a confirmé ce qui suit : « […] il ne faut pas […] confondre le contrôle du résultat ou de la qualité des travaux avec le contrôle de leur exécution par l’ouvrier chargé de les réaliser » et « Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur. »[4]
+[Non souligné dans l’original.]
+[17] Dans l’affaire City Water International Inc. c. Canada, la Cour d’appel fédérale a jugé que « contrôler la qualité du travail ne revient pas à contrôler son exécution par les travailleurs engagés pour le faire »[5].
+Outillage et fournitures [18] Tricom fournissait l’intégralité de l’outillage, des fournitures et de l’équipement, y compris les serpillières, les aspirateurs et les produits de nettoyage. Tricom fournissait également des uniformes portant son nom. Tricom était responsable de l’entretien de l’équipement. Ni Tricom ni l’appelante n’ont fait payer les préposés à l’entretien pour l’utilisation de ce matériel. Il s’agit donc d’un facteur neutre[6].
+Possibilité de profit ou risque de perte [19] L’appelante versait à chaque préposé une somme forfaitaire mensuelle. Le montant de cette somme dépendait de la taille de la zone que le préposé était chargé de nettoyer. Les préposés à l’entretien pouvaient se faire accompagner d’assistants, qui étaient généralement des conjoints, des amis ou d’autres membres de la famille. Ils pouvaient engager les personnes qu’ils désiraient comme assistants. Ils avaient même la possibilité d’engager un remplaçant pour la totalité de leur contrat. Ils pouvaient faire tout ceci sans l’autorisation de l’appelante.
+[20] Si un préposé n’était pas disponible une nuit, il pouvait envoyer une autre personne faire le travail à sa place. Si un préposé était malade, on s’attendait à ce qu’il trouve un remplaçant. L’appelante ne versait aucune somme au remplaçant, mais continuait de payer le préposé directement, même si une autre personne l’avait remplacé. Si un préposé à l’entretien n’arrivait pas à trouver un remplaçant, M. et Mme Biralde trouvaient eux-mêmes un remplaçant et la somme due au préposé était ajustée en conséquence.
+[21] Dans l’affaire Victoria’s Five Star Cleaning Ltd. c. M.R.N., la juge Lafleur a conclu que certains préposés avaient la possibilité de réaliser un profit puisqu’ils pouvaient engager leurs propres assistants :
+[66] Je souscris aux conclusions de l’appelante portant, d’une part, que les travailleurs jouissaient de la possibilité de réaliser un profit parce qu’il leur était permis d’embaucher des aides et de trouver des manières d’accroître l’efficience de leur travail, et d’autre part qu’ils couraient le risque de pertes s’ils ne pouvaient s’acquitter eux-mêmes des tâches ou en assurer l’exécution par quelqu’un d’autre contre une rémunération inférieure à la leur. La preuve montre que les travailleurs recevaient une rémunération mensuelle fixe en contrepartie de leurs services, et en outre qu’ils étaient autorisés à engager des aides, n’étant pas tenus d’exécuter les prestations eux-mêmes. […][7]
+[22] De même, dans l’affaire Stanton c. M.R.N., le juge D’Arcy a conclu qu’un travailleur payé au forfait pouvait augmenter ses bénéfices en effectuant le travail plus efficacement grâce à des assistants[8]. Comme dans les affaires Victoria’s Five Star Cleaning et Stanton, il y avait en l’espèce une possibilité de profit et un risque de perte.
+[23] La plupart des facteurs objectifs suggèrent que les six préposés à l’entretien visés étaient des entrepreneurs indépendants.
+M. John Paul Morales
+[24] M. Morales occupait un emploi de jour à temps plein comme concierge dans une école. Il a également travaillé pour l’appelante d’août 2018 à octobre 2019. L’appelante a décidé de retenir les services de M. Morales après que M. Biralde et M. Morales aient visité ensemble le Cineplex. Lors de cette visite, M. Biralde a montré à M. Morales le travail qui devait y être fait.
+Intention subjective [25] Il ressort clairement du témoignage de Mme Biralde que l’appelante considérait ses préposés à l’entretien comme des entrepreneurs indépendants. M. Morales ne s’est pas posé de question à ce sujet lorsqu’il a conclu son contrat oral avec l’appelante pour l’entretien ménager du Cineplex. Sa compréhension du contrat oral conclu avec l’appelante était simplement qu’il devait [traduction] « faire le travail »[9].
+Facteurs objectifs Degré de contrôle [26] M. Biralde a donné à M. Morales une clef des locaux pour qu’il puisse nettoyer le Cineplex et aller et venir à sa guise. M. Morales n’a reçu aucune formation de la part de l’appelante. Lors de son premier jour de travail, on lui a montré les zones à nettoyer et les zones prioritaires. M. Morales n’avait pas d’horaires fixes, mais il commençait généralement son travail vers 21 heures chaque soir. Il était libre de partir dès qu’il avait terminé.
+[27] M. Morales a déclaré que M. Biralde arrivait au Cineplex vers la fin du quart de travail de M. Morales pour effectuer ses propres travaux d’entretien ménager et qu’il contrôlait alors le travail effectué par M. Morales. Lorsqu’il était sur place, M. Biralde pouvait lui demander d’en refaire une partie. M. Biralde ne vérifiait pas le travail de M. Morales tous les soirs; il le faisait environ trois fois par semaine. Comme je l’ai déjà noté, il ne faut pas surestimer la portée de ce type de vérification.
+[28] M. Morales n’était pas tenu de tenir un registre de ses heures ou d’envoyer des feuilles de temps à l’appelante. Il n’avait connaissance d’aucune politique d’entreprise de l’appelante en général ni d’aucune politique disciplinaire en particulier.
+Outillage et fournitures [29] M. Morales utilisait un aspirateur dorsal, une autorécureuse, une serpillière et une essoreuse, ainsi qu’un baladeur. M. Morales pensait que l’appelante fournissait l’outillage, l’équipement et les fournitures et qu’il était responsable de leur réparation. M. Morales ne fournissait pas ses propres outils ou produits de nettoyage. Les seules dépenses encourues par M. Morales se rapportaient à ses trajets en voiture pour se rendre au travail.
+[30] Toutefois, Mme Biralde avait témoigné que c’était Tricom – et non l’appelante – qui fournissait l’équipement et qui était responsable de son entretien. M. Morales n’ayant été en contact qu’avec M. et Mme Biralde, et non avec Tricom, on peut comprendre qu’il ait cru que l’appelante avait fourni et entretenu l’outillage et les fournitures. Il s’agit donc d’un facteur neutre.
+Possibilité de profit ou risque de perte [31] M. Morales recevait de l’appelante une somme forfaitaire mensuelle. Bien qu’il n’ait pas engagé d’assistant, il comprenait qu’il pouvait le faire. En outre, il comprenait qu’il n’était pas tenu d’effectuer le travail lui-même, mais qu’il pouvait engager quelqu’un d’autre pour le faire. Si M. Morales était malade, il appelait M. Biralde et supposait que M. Biralde trouverait un remplaçant.
+[32] Ayant fait le bilan de ces facteurs, en accordant à chacun l’importance qu’il convient, je conclus que M. Morales était un entrepreneur indépendant.
+M. Marlon Camposagrado
+[33] M. Camposagrado occupait un emploi de jour à plein temps dans un aéroport local. Après avoir été présenté à M. et Mme Biralde par un collègue, M. Camposagrado a commencé à travailler pour l’appelante et à assurer l’entretien de deux cuisines de l’hôtel Fairmont.
+Intention subjective [34] Il ressort clairement du témoignage de Mme Biralde que l’appelante considérait ses préposés à l’entretien comme des entrepreneurs indépendants. M. Camposagrado a affirmé dans son témoignage que lorsqu’il a accepté de travailler pour l’appelante, il ne considérait pas qu’il exploitait sa propre entreprise. Cependant, lorsqu’on lui a demandé s’il avait déjà exploité sa propre entreprise, M. Camposagrado a répondu « non, seulement celle-ci ».[10] M. Camposagrado a obtenu un permis d’exploitation d’une entreprise auprès de la ville de Vancouver et a nommé son entreprise « GMC Cleaning ».
+Facteurs objectifs Degré de contrôle [35] M. Camposagrado n’a reçu aucune formation de la part de M. Biralde, à l’exception de son travail de nettoyage des cuisines de l’hôtel Fairmont lors de sa première nuit. Lors de cette formation donnée la première nuit, M. Biralde lui a simplement montré les notions de bases et lui a indiqué quelles étaient les tâches prioritaires. Il lui a été demandé de porter une chemise et un pantalon noirs lorsqu’il travaillait.
+[36] En général, M. Camposagrado nettoyait les cuisines de 23 heures à 4 heures. Il partait dès qu’il avait fini son travail, et il était libre de faire des courses ou de manger un morceau quand il le souhaitait, bien qu’il ait déclaré n’avoir jamais profité de cette possibilité. M. Camposagrado n’était pas tenu de tenir un registre de ses heures.
+[37] M. Biralde était également présent à l’hôtel Fairmont la plupart des nuits pour effectuer ses propres tâches de nettoyage. Il contrôlait le travail de M. Camposagrado lorsqu’il était sur place. Mme Biralde était également présente de temps à autre. M. Biralde vérifiait si les cuisines nécessitaient d’être nettoyées plus en profondeur. Si le personnel de l’hôtel Fairmont était mécontent du nettoyage, il en faisait part à M. Biralde, qui transmettait l’information à M. Camposagrado. M. Camposagrado réglait le problème la nuit suivante. M. Camposagrado n’avait connaissance d’aucune politique d’entreprise de l’appelante en général ni d’aucune politique disciplinaire en particulier.
+Outillage et fournitures [38] M. Camposagrado pensait que l’appelante ou Tricom fournissait l’outillage et les fournitures qu’il utilisait, notamment un dégraisseur et une serpillière. Si quelque chose devait être réparé, il en avisait M. Biralde. Les seuls articles que M. Camposagrado a achetés lui-même étaient la chemise et le pantalon noirs qu’il devait porter pendant ses heures de travail. Il lui a également été demandé de porter un uniforme Tricom de temps à autre. Il s’agit donc d’un facteur neutre.
+Possibilité de profit ou risque de perte [39] M. Camposagrado était rémunéré à hauteur de 4 500 dollars par mois. Il était libre d’engager ses propres assistants. Il se faisait accompagner et aider par sa femme à l’occasion, lorsqu’elle avait du temps libre. Il avait interrogé M. Biralde à ce sujet, lequel lui avait répondu que cela ne posait aucun problème. M. Camposagrado a compris que sa femme pouvait effectuer l’entretien ménager à sa place. Il ne payait pas sa femme lorsqu’elle l’aidait. Un ami de M. Camposagrado l’aidait également à nettoyer les lieux à l’occasion. M. Camposagrado ne rémunérait pas son ami, car il hébergeait celui-ci et lui fournissait des repas gratuitement. Si M. Camposagrado était malade ou absent, il en informait M. Biralde et n’était pas tenu de trouver son propre remplaçant.
+[40] Ayant fait le bilan de ces facteurs, en accordant à chacun l’importance qu’il convient, je conclus que M. Camposagrado était un entrepreneur indépendant.
+IV. Conclusion [41] L’appelante a démontré, selon la prépondérance des probabilités, qu’aucun des préposés à l’entretien n’occupait un emploi ouvrant droit à pension aux fins du RPC ou un emploi assurable aux fins de la Loi sur l’AE au cours des périodes visées. Le fait que les préposés à l’entretien pouvaient aller et venir à leur guise, et surtout, engager leurs propres assistants ou remplaçants sans devoir obtenir l’autorisation de l’appelante fait pencher la balance en faveur de la conclusion qu’ils étaient des entrepreneurs indépendants.
+[42] Pour tous ces motifs, les appels sont accueillis, sans dépens.
+Les présents motifs de jugement modifiés remplacent les motifs de jugement datés du 4 juillet 2023.
+Signé à Ottawa (Canada), ce 17e jour de juillet 2023.
+« David E. Spiro »
+Le juge Spiro
+RÉFÉRENCE :
+2023 CCI 94
+NOS DES DOSSIERS DE LA COUR :
+2021-126 (CPP) ET 2021-143 (EI)
+INTITULÉ :
+AFB JANITORIAL SERVICES INC. ET M.R.N.
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 23 mars 2023
+MOTIFS DU JUGEMENT MODIFIÉS :
+L’honorable juge David E. Spiro
+DATE DU JUGEMENT :
+Le 4 juillet 2023
+COMPARUTIONS :
+Représentants de l’appelante :
+Marilyn Biralde et Antonio Biralde
+Avocats de l’intimé :
+Anna Walsh et Jean Murray
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+S.o.
+Cabinet :
+Pour l’intimé :
+Shalene Curtis-Micallef Procureure générale adjointe du Canada Ottawa (Canada)
+[1] 2013 CAF 85, par. 39.
+[2] [1986] 2 CTC 200, 87 DTC 5025 (CAF).
+[3] 2023 TCC 53, par. 33.
+[4] 2013 CCI 129, par. 26.
+[5] 2006 CAF 350, par. 18.
+[6] Voir Victoria’s Five Star Cleaning Ltd. c. M.R.N., 2019 CCI 73, par. 63, citant Priority One Janitorial Services Inc c. La Reine, 2012 CCI 1.
+[7] 2019 CCI 73, par. 66.
+[8] 2012 CCI 169.
+[9] Transcriptions, p. 65, lignes 17 à 26
+[10] Transcriptions, p. 90, lignes 12 à 14.

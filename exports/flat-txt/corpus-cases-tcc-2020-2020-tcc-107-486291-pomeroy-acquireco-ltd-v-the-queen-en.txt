@@ -1,0 +1,316 @@
+Title: Pomeroy Acquireco Ltd.  v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/486291/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-107-486291-pomeroy-acquireco-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-09-30
+
+# Pomeroy Acquireco Ltd.  v. The Queen
+
+- Citation: 2020 TCC 107
+- Decision date: 2020-09-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4569, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pomeroy Acquireco Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-09-30
+Neutral citation
+2020 TCC 107
+File numbers
+2017-1128(IT)G
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-1128(IT)G
+BETWEEN:
+POMEROY ACQUIRECO LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard by conference call on September 9, 2020 at Ottawa, Ontario
+By: The Honourable Justice Don R. Sommerfeldt
+Appearances:
+Counsel for the Appellant:
+Robert Neilson
+Jeremy Comeau
+Counsel for the Respondent:
+Natalie Goulard
+Simon Vincent
+ORDER
+The Respondent’s motion for an order granting leave to amend the Reply to the Notice of Appeal, so as to add proposed subparagraphs 13.3, 13.4 and 13.5 and proposed paragraphs 20, 21 and 24, is dismissed, with costs, to be calculated in accordance with Tariff B in Schedule II to the Tax Court of Canada Rules (General Procedure).
+Signed at Ottawa, Canada, this 30th day of September 2020.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+Citation: 2020 TCC 107
+Date: September 30, 2020
+Docket: 2017-1128(IT)G
+BETWEEN:
+POMEROY ACQUIRECO LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Sommerfeldt J.
+I. INTRODUCTION
+[1] These are the reasons for the order that I issued to dismiss a motion made by the Crown, pursuant to section 65 of the Tax Court of Canada Rules (General Procedure) (the “Rules”), for leave, pursuant to section 54 of the Rules, to amend its Reply.
+[2] The Appeals that are the subject of these proceedings relate to eight Notices of Assessment issued on April 24, 2014, pursuant to section 160 of the Income Tax Act (the “ITA”). [1]
+II. FACTS
+A. Background [2]
+[3] In 2007 a group of corporations and partnerships indirectly owned by Robert Pomeroy and members of his family was involved in the hotel business in northern Alberta. Although I have not yet heard any evidence in respect of the transactions in question, it is my preliminary understanding that Pomeroy Acquireco Ltd. (“PAL”) and other holding companies [3] owned by Mr. Pomeroy and members of his family owned eight corporations (the “Targetcos”). [4] The Targetcos were the limited partners in Pomeroy Holdings Limited Partnership (“Holdings LP”), which held a 79.99% interest in Pomeroy Hotels Limited Partnership (“Hotels LP”), which owned ten hotels (the “Hotels”).
+[4] On April 2, 2007, Hotels LP entered into an acquisition agreement with Holloway General Partner Inc. (“Holloway GPI”), for and on behalf of Holloway Lodging Limited Partnership (“Holloway LP”), for the sale of the Hotels. Holloway GPI and Holloway LP apparently dealt at arm’s length with Mr. Pomeroy, the members of his family and the corporations and partnerships owned by them.
+[5] On June 22, 2007, Pomacq Holdings Ltd. (“Pomacq”), which was indirectly controlled by Abacus Capital Corporation (“Abacus”), subscribed for sufficient voting preferred shares of the Targetcos to enable Pomacq to control each of the Targetcos.
+[6] After the sale of the Hotels closed, Hotels LP and Holdings LP were dissolved and the assets of Hotels LP (including the remaining proceeds of the sale of the Hotels, after making certain preliminary distributions or payments) were distributed to the Targetcos.
+[7] On June 28, 2007, pursuant to a series of directions to pay, the Targetcos allegedly advanced $69,706,473 to Pomacq, which allegedly paid that amount to Mr. Pomeroy, apparently on behalf of the Share Vendors, which then allegedly paid that amount to PAL. In these Reasons, I will refer to the alleged advance of $69,706,473 by the Targetcos to Pomacq as the “Subject Transaction.” It is the position of the Crown that, for the purposes of subsection 160(1) of the ITA, the advances and payments referenced in this paragraph, including the Subject Transaction, constituted an indirect transfer of property from the Targetcos to PAL.
+[8] On June 28, 2007, Pomacq purchased, from PAL and the other Share Vendors, all the common shares in the capital of the Targetcos.
+B. Procedural History
+[9] As indicated above, the assessments that are the subject of these Appeals (the “Assessments”) were embodied in Notices of Assessment issued on April 24, 2014. On June 23, 2014, PAL filed a Notice of Objection in respect of the Assessments.
+[10] On March 6, 2017, although the Minister of National Revenue (the “Minister”) had not yet confirmed the Assessments or reassessed, PAL filed a Notice of Appeal to commence these Appeals. [5] The Crown filed and served its Reply on June 26, 2017.
+[11] Examinations for discovery were completed on October 9, 2018. A joint application to set the time and place of the hearing of these Appeals was filed on July 30, 2019. By order dated December 17, 2019, this Court scheduled the hearing (i.e., trial) of these Appeals to commence on October 26, 2020, for an anticipated duration of 15 days.
+[12] On June 11, 2020, counsel for the Crown advised counsel for PAL that the Crown desired to amend its Reply, and sent a draft of the proposed Amended Reply. In a trial management conference held on August 14, 2020, counsel for the Crown advised the Court that the Crown intended to apply for leave to amend the Reply. Counsel for the Crown filed the Notice of Motion in respect of this matter on August 24, 2020.
+[13] Counsel for PAL has consented to many of the amendments that the Crown would like to make to its Reply. The amendments to which counsel for PAL has not consented relate to two arguments put forward by the Crown in the proposed Amended Reply, as follows:
+a) The Crown submits that the Subject Transaction was a sham. (I have called this the “Sham Argument.”)
+b) The Crown submits that the fair market value of the shares in the capital of the Targetcos, which were acquired by Pomacq, was to be determined by taking into account the latent tax liability of the Targetcos. (I have called this the “Valuation Argument.”)
+C. Relevant Provisions of the Existing Reply
+[14] The Reply, as it currently reads, contains a number of provisions that relate to, or provide background and context for, the Sham Argument and the Valuation Argument. In paragraph 12 of the Reply, which sets out the assumptions of fact made by the Minister in determining PAL’s joint and several liability pursuant to section 160 of the ITA, the following provisions appear:
+12.100. Pomacq and, in turn, Mr. Pomeroy and the appellant gave no consideration for the amount received from the Targetcos.
+12.101. Pomacq never intended to reimburse the purported $69,706,473 proceeds it received as an advance from the Targetcos.
+12.102. At the time of the advance of proceeds, Pomacq had no prior ability to reimburse the purported loan and the purported loan had a FMV of $0.
+12.103. In turn, the shares in the Targetcos obtained by Pomacq after the transfer of $69,706,473 to Mr. Pomeroy on behalf of the Share Vendors had a FMV of $0 given that, at that time, the Targetcos’ only asset was the amount due Targetcos from Pomacq for the purported loan.
+12.104. In effect, Pomacq simply paid the proceeds advanced by Targetcos to the latter’s original shareholders, the Share Vendors.
+12.105. The transfer of the $69,706,473 proceeds to the appellant was made for no consideration.
+12.106. The Targetcos, Pomacq, Mr. Pomeroy and the Share Vendors were parties controlled de facto by Mr. Pomeroy.
+12.107. Even if the purported loan had a FMV, which is expressly denied, the FMV of the consideration received by the Targetcos should take into account the tax liability associated with the income received from the sale of the hotels.
+12.108. The appellant received a total of $66,803,108, although the FMV of the shares in the Targetcos was a lesser amount or nil immediately after the sale of the hotels due to the tax liabilities of the Targetcos and their lack of assets at that time.
+[15] The following provisions appear under the heading “Statutory Provisions, Grounds Relied On and Relief Sought” in the existing Reply:
+17. He submits that, in their taxation years ending June 27, 2007, [6] the Targetcos transferred a total amount of $69,706,473 in favour of the appellant, of which it ultimately received a total amount of $66,803,108.
+18. He submits that no consideration was given for the transfer of the amount referred to in the preceding paragraph.
+19. He submits that the amount “due Targetcos” of $69,706,473 owing by Pomacq had no FMV.
+20. He submits that the shares in the Targetcos acquired by Pomacq had no FMV.
+21. He submits that the Targetcos, Pomacq, Mr. Pomeroy and the Share Vendors, and the appellant were related parties controlled de facto by Mr. Pomeroy.
+22. He submits that Pomacq never intended to reimburse the purported amount “due Targetcos”.
+D. Relevant Provisions of the Proposed Amendments
+[16] The Crown proposes to add a new subheading, which will read “Other Material Facts,” and which will set out facts that were not assumed by the Minister when issuing the Assessments: [7] The proposed amendments to be included under that subheading and in respect of which counsel for PAL has not consented are set out below:
+13.3. The transfer of $69,706,473 from the Targetcos to Pomacq was not a loan.
+13.4. The Targetcos never intended for the $69,706,473 they transferred to Pomacq to be reimbursed.
+13.5 The Targetcos and Pomacq acted with an intent to deceive the Canada Revenue Agency by giving the false appearance that the transfer of $69,706,473 was a loan.
+[17] In addition, below the heading setting out, among other things, the grounds on which the Crown relies, the Crown proposes to add, and PAL opposes, new paragraphs 20 and 21, in respect of the Sham Argument, as follows:
+20. Alternatively he [i.e., the Attorney General of Canada] submits that, if consideration was given to the Targetcos in the form of a loan receivable from Pomacq, the loan was a sham. Pomacq and the Targetcos never intended the alleged loan to be reimbursed.
+21. Alternatively, if consideration was given to the Targetcos in the form of a loan receivable, and if the loan was not a sham, he submits that the loan receivable had no FMV.
+[18] With respect to the Valuation Argument, the Crown desires to add, and PAL opposes, the following proposed amendment:
+24. Alternatively, he submits that if the shares given by the appellant had a FMV at the time of the transfer, their FMV must take into account the latent tax liability of the Targetcos.
+III. ISSUE
+[19] The issue in respect of this motion is whether the Court should exercise its discretion so as to grant leave to the Crown to make the proposed amendments, as set out above.
+IV. ANALYSIS
+A. General Principles
+[20] Both counsel referred me to the decision of the Federal Court – Appeal Division (as it then was), in Canderel, which set out the general rule to be applied when determining whether to grant leave to a party to amend its pleadings:
+With respect to amendments, it may be stated … that while it is impossible to enumerate all the factors that a judge must take into consideration in determining whether it is just, in a given case, to authorize an amendment, the general rule is that an amendment should be allowed at any stage of an action for the purpose of determining the real questions in controversy between the parties. Provided, notably, that the allowance would not result in an injustice to the other party not capable of being compensated by an award of costs and that it would serve the interests of justice. [8]
+The above statement indicates that, while there are many factors that a judge should take into consideration in determining whether to grant leave to amend a pleading, the judge should, at a minimum, consider the following questions:
+a) Would the proposed amendment assist the Court in determining the real questions in controversy between the parties?
+b) Would it be just to authorize the amendment, or would the allowance of the amendment result in an injustice to the other party not capable of being compensated by an award of costs?
+c) Would the allowance of the proposed amendment serve the interests of justice?
+I will consider those three questions, as well as a fourth question, which is related to the first question.
+B. Determination of the Real Questions in Controversy
+(1) Sham Argument
+[21] As counsel for PAL submitted at the hearing of this motion, [9] sham is a recognized doctrine, [10] which likely needs to be pled in order to rely on it at trial. At other times, sham is categorized as a legal concept. [11] Regardless of whether sham is a doctrine or a legal concept, “the determination of whether a sham exists precedes and is distinct from the correct legal characterization of a transaction.” [12] If a court finds a transaction to be a sham, the true nature of the transaction must then be determined from extrinsic evidence. If the transaction is not a sham, its legal characterization is determined by reference to the transactional documents. [13] If a particular transaction is found to be a sham, the Court “will consider the real transaction and disregard the one that was represented as being the real one.” [14]
+[22] Counsel for the Crown has indicated that the Crown desires, by means of the proposed amendments, to raise the issue of whether the Subject Transaction was a sham. In my view, the Crown, by its pleadings in the existing Reply, has already called into question the nature of the Subject Transaction. As illustrated in the provisions of the existing Reply quoted above, in subparagraphs 12.102, 12.103 and 12.107 of the Reply the Crown described the Subject Transaction four times as a “purported loan,” in subparagraph 12.101 of the Reply the Crown referred to “the purported $69,706,473 proceeds it [i.e., Pomacq] received as an advance from the Targetcos,” and in paragraph 22 of the Reply the Crown referred to “the purported amount” due to the Targetcos. In my view, the use of the word purported is significant, although it raises interpretational questions, given that the word appears to have a range of meanings. For instance, purported may mean something akin to alleged or ostensible, but it may also suggest a pretext.
+[23] The Shorter Oxford English Dictionary defines the verb purport as having the following as its first meaning:
+purport … 1a Esp. of a document or speech: express, state; mean, signify, imply…. b Profess to be or do; be intended to seem, appear ostensibly to be. [15] [Bold and italics in original.]
+The same dictionary defines the adverb purportedly as meaning allegedly or ostensibly, suggesting that the adjective purported means alleged or ostensible. [16]
+[24] On the other hand, Webster’s New Collegiate Dictionary defines the verb purport as meaning:
+purport … to have the often specious appearance of being, intending, or claiming (something implied or inferred). [17]
+The same dictionary defines the adjective purported as meaning reputed or rumored. [18]
+[25] Black’s Law Dictionary defines the verb purport as follows:
+purport … to profess or claim, esp. falsely; to seem to be. [19]
+The same dictionary defines the adjective purported as meaning reputed or rumored. [20]
+[26] The above range of meanings of the words purport and purported is illustrated by various entries in Roget’s International Thesaurus. Under the category “Language - Meaning,” the nouns purport, meaning, import, substance, gist and tenor are listed as being in the same category of words with somewhat similar meanings (although they are not necessarily precise synonyms). [21] Under the heading “Behavior and the Will - Intention,” the verbs purport, intend and mean are shown as synonyms. [22] Under the heading “Behavior and the Will ‑ Pretext,” the verbs purport, pretend, allege and claim are listed as having somewhat similar meanings, [23] the adjectives purported, pretended, alleged, claimed and professed are shown as synonyms, and the adjectives ostensible, specious, so-called and in name only are shown as having somewhat similar meanings as the first-mentioned group of adjectives (including purported), [24] and the nouns pretext, pretense, facade and sham are shown as having somewhat similar meanings. [25]
+[27] Accordingly, I read the Crown’s use of the phrase purported loan in subparagraphs 12.102, 12.103 and 12.107 of the Reply as pleading that the Subject Transaction was not necessarily an actual loan. Similarly, I read subparagraph 12.101 of the Reply as suggesting that the advance of $69,706,473 received by Pomacq from the Targetcos was not necessarily the actual proceeds of an advance. As well, it seems to me that, in paragraph 22 of the Reply, the Crown has inferred that the amount described as “due Targetcos” in Pomacq’s books and records was not necessarily an actual amount that was payable to the Targetcos. It seems to me that the Crown does not need to plead the doctrine or legal concept of sham in order to be in a position at trial to question the nature of the Subject Transaction, given that the above-referenced provisions of the Reply, while falling short of invoking sham, already call into question the true nature of the Subject Transaction.
+[28] To summarize, without the proposed amendment, the Crown will be precluded from asserting that the Subject Transaction was a sham. However, as the Crown has already pled that the Subject Transaction was only a purported loan, involving an advance of purported proceeds in the amount of $69,706,473 and represented by a purported amount due to the Targetcos, the Crown is not precluded, even in the absence of the proposed amendment, from challenging the nature of the Subject Transaction.
+[29] I would like to clarify a misunderstanding that I may have inadvertently induced or fostered at the hearing of this motion. [26] If the doctrine or concept (whichever it may be) of sham is invoked, a court must undertake at least four inquiries, as follows:
+a) The court must determine whether a sham exists.
+b) As part of its determination of whether a sham exists, the court must determine whether the requisite element of deceit or deception was present. This is generally satisfied if the parties to the transaction misrepresent the nature of the transaction. This does not require mens rea or anything akin to it. Rather, it suffices that the parties to the transaction present it as being different from what they know it to be. [27]
+c) If the transaction is a sham, the court must use extrinsic evidence (i.e., evidence other than the transactional documents) to determine the true nature of the transaction.
+d) If the transaction is not a sham, the legal characterization of the transaction may be determined by reference to the transactional documents. [28]
+[30] As the existing Reply does not plead the doctrine or concept of sham, without the proposed amendments, the Crown will not be in a position to invite the trial judge to undertake the above analysis for the purpose of finding that the Subject Transaction was a sham and making the inquiries or determinations that are necessitated by that finding. Nevertheless, given that the Minister assumed, and the existing Reply pleads, that the Subject Transaction was a purported loan with purported proceeds of $69,706,473 and a purported amount due to the Targetcos, the Crown is in a position to invite the trial judge to:
+a) determine whether the Subject Transaction was actually a loan;
+b) determine whether the Targetcos advanced $69,706,473 to Pomacq;
+c) determine whether the parties to the Subject Transaction mischaracterized it; and
+d) if so, determine whether there was an element of falsity or speciousness to that mischaracterization.
+[31] It will be seen that there is partial, but not complete, overlap between the determinations in subparagraphs a) through d) of paragraph 29 and the determinations in subparagraphs a) through d) of paragraph 30.
+[32] To summarize, while the existing Reply does not permit the Crown to raise the doctrine or concept of sham at trial, the existing Reply is sufficient to enable the Crown to challenge the nature of the Subject Transaction and to suggest that the Subject Transaction was falsely or speciously mischaracterized.
+(2) Valuation Argument
+[33] The Crown desires to add proposed paragraph 24 to the Amended Reply, so as to assert that one of the reasons on which the Crown is relying is that the determination of the fair market value of the issued shares in the capital of the Targetcos must take into account the latent tax liability of the Targetcos. However, it is my view that the Crown has already said something similar in the existing Reply, albeit in a different part of the Reply. [29] In particular, subparagraph 12.103 of the existing Reply indicates that the Minister assumed that the shares in the capital of the Targetcos obtained by Pomacq had a fair market value of nil “given that, at that time, the Targetcos’ only asset was the amount due Targetcos from Pomacq for the purported loan” [emphasis added]. Similarly, in subparagraph 12.108 of the Reply, the Crown states that the Minister assumed that the fair market value of the shares in the capital of the Targetcos was less than $66,803,108 or nil immediately after the sale of the Hotels “due to the tax liabilities of the Targetcos and their lack of assets at that time”[emphasis added]. [30] I read the phrases given that and due to as indicating the reasons on which the Crown is relying to support the assumptions made by the Minister in the particular subparagraphs of the Reply.
+[34] Paragraph 49(1)(h) of the Rules indicates that every “reply shall state … the reasons the respondent intends to rely on.” Counsel for PAL has suggested that the statements made by the Crown after the phrases given that and due to in subparagraphs 12.103 and 12.108 respectively of the Reply do not satisfy paragraph 49(1)(h) of the Rules because those statements are contained in paragraph 12 of the Reply, which sets out the assumptions of fact made by the Minister, and are not listed under the heading “Statutory Provisions, Grounds Relied On and Relief Sought” in the Reply. I acknowledge that the general practice of pleading by the Crown in most appeals is to use distinct headings to identify and segregate the facts, assumptions, issues, statutory provisions, reasons and desired relief in a particular reply. However, I do not think that the inclusion of some of the reasons on which the Crown intends to rely in the paragraph listing the Minister’s assumptions indicates a failure to comply with paragraph 49(1)(h) of the Rules, nor does it preclude the Crown from relying on the reasons that are so stated. Rather, the mislocation of those reasons is an irregularity. [31]
+[35] While Schedule I to the Rules sets out forms to be followed in drafting a notice of appeal (generally Form 21(1)(a)) and an answer (Form 45), there is no sample form to be used as a guide in drafting a reply. Even though there is no stipulated form for a Reply, it would have been preferable, rather than setting out the above reasons after the phrases given that and due to in subparagraphs 12.103 and 12.108 respectively, for the Crown, in its Reply, to have included those reasons under the heading “… Grounds Relied On.…” However, I do not think that the Crown’s failure to do so precludes it from relying on those reasons, as they are abundantly clear to a reader of subparagraphs 12.103, 12.107 and 12.108.
+[36] A comparison of paragraph 24 of the proposed Amended Reply with subparagraphs 12.103, 12.107 and 12.108 of the existing Reply indicates that the only meaningful difference between the proposed provision and the existing provisions is the use of the word latent to describe the tax liability of the Targetcos. Therefore, it is my view that proposed paragraph 24 would not provide any significant assistance to the Court in determining the real question in controversy in the context of the Valuation Argument, beyond that which is already provided by subparagraphs 12.103, 12.107 and 12.108.
+C. Vital Nature of Proposed Amendments
+[37] The three factors listed in paragraph 20 above (i.e., facilitating a determination of the real questions in controversy, avoiding an injustice that is not compensable by costs, and serving the interests of justice) are the factors that were specifically identified by Justice Décary in Canderel. In the same case, Justice Décary stated that “it is impossible to enumerate all the factors that a judge must take into consideration in determining whether it is just, in a given case, to authorize an amendment.” [32]
+[38] Based on comments made by Justice Mainville in Sanofi-Aventis, another factor that a court may consider is whether a proposed amendment is vital to a party’s case. [33] As there is some similarity or overlap between this factor and the previous factor, I have included my discussion of this factor here.
+[39] At the hearing of the motion, counsel for the Crown made the following comments concerning the proposed amendments:
+MS. GOULARD: I think it’s important to look at what these facts add and what was already in the pleadings with respect to these facts. If you go to paragraph 12.29 of our Reply … and it’s one of the assumptions made by the Minister. So, we see at paragraph 12.29 that we are discussing this transfer of money already. So, at 12.29, the Crown has already … pled … that on June 28, 2007, the Targetcos advance[d] $69.7 million to Pomacq through a direction to pay to Gowlings and so on. So, this transfer of money is not a new assumption of fact. It’s been part of the pleadings of the Crown from the start.
+What we are doing here is simply being a little bit more precise on how we view that payment and the evidence that we intend on bringing before the Court at trial…. [34]
+To be clear, this is not -- although it’s a new argument, it’s not a new position that the Respondent is taking. This sham argument, we submit, is relevant to the issue of whether there was valid and sufficient consideration given in this file. As you know, consideration is one of the four criteria of subsection 160 of the Act. The fact that consideration is relevant has been clear from the get-go, obviously. The Respondent is not changing its legal position. It is just clarifying, based on its analysis of the facts and the law at play in this case. It is just clarifying the position we will be taking in front of the Court with respect to whether there was sufficient consideration.
+If we go to the last amendment which we are asking this Court to grant us, it’s at page 27 of the Amended Reply and it’s paragraph 24. And again, this is simply a clarification of the Respondent’s position in law. The fact that we are stating that the shares that were given by the Appellant, that the fair market value of those shares should take into account the latent tax liability, should not require the Appellant to bring more -- or other evidence.
+And furthermore, we would submit that the Appellant is not taken by surprise by this position, because if you go to paragraph 12.107 of the Amended Reply, which is a paragraph that was already there, so it’s not an amendment we are bringing, the fact alleged there is already transparent to that issue. [Counsel for the Crown then quoted subparagraph 12.107 of the current Reply.]
+So, again, we are not bringing a new issue. We are not -- we are simply clarifying our legal position as to the issue that was already before the Court. I think even if we had not made this amendment, it would have been open to us to take this position in court. The reason we are bringing it, along with the other sections, is to be clear and transparent about the position we will be taking before the Court…. [35]
+THE COURT: One of the things I’m struggling with here, and it applies not only to this issue [i.e., the Valuation Argument] but also to the proposed amendments concerning sham, is whether you even need the amendments. Doesn’t your Reply already give you what you need? I’m struggling to see why you think that you need to add paragraph 24[,] given what you’ve already pointed out in 12.107, as well as … in 12.103 and 12.108.
+MS. GOULARD: I agree with you, Your Honour. When we look at the pleadings as they were, I think we would be able to argue that based on what our Reply -- how our Reply was drafted. Our purpose in seeking that amendment is just to be very clear about the position we will be taking or the alternative positions, if you want, that we will be taking at trial.
+THE COURT: So, it’s simply for greater clarity ---
+MS. GOULARD: Exactly.
+THE COURT: --- not because you’re raising something new?
+MS. GOULARD: That’s correct.
+THE COURT: Is that really something we should even be spending time focusing on?
+MS. GOULARD: Probably not if everybody agrees that we’re not going to be precluded from arguing that. Obviously, our concern is that the Appellant be aware of the issues before going in, and obviously the Appellant is aware of that issue.
+With respect to paragraph 24, Your Honour, I agree with you that whether it be granted or not is not going to change the debate before the Court or the position that we can take before the Court at the trial…. [36]
+MS. GOULARD: … In light of the facts that we have already pled would support that conclusion, then I don’t -- I no longer see a need to have 13.3, 13.4 and 13.5, the amendments…. [37]
+THE COURT: … So did I just hear you say that maybe you don’t really think you need 13.3, 13.4 and 13.5?
+MS. GOULARD: That’s correct. If the Court is satisfied that in the facts already alleged we have sufficient facts that would support a sham argument should we make that at trial, then we’re satisfied…. [38]
+THE COURT: So it seems like, Ms. Goulard, a lot of the amendments that have been proposed here are simply one[s] where you’re trying to restate maybe, I think as you put it, with more clarity or maybe with more words than you had before, but I’m not sure that you’re adding necessarily a whole lot of new elements. In other words, my point is you may already have captured what you needed to capture in your existing reply.
+MS. GOULARD: We agree, Your Honour, that the elements necessary to that argument were already in the Reply and that, yes, we were seeking to clarify that position in order to avoid problems at trial, a bit like we’re having now, not that we’re having problems, but where the Appellant and the Respondent disagree on what certain alleged facts mean and what their impact is, and whether the Crown has been clear enough about its position.
+But we do take note that those amendments are not necessary to the position we intend on taking at trial....
+THE COURT: So you would be willing to concede then that proposed paragraphs 13.3, 13.4 and 13.5 are not required but that you do want to keep proposed paragraphs 20, 21 and 24?
+MS. GOULARD: That is correct, Your Honour. [39]
+[40] Given that counsel for the Crown has conceded that proposed subparagraphs 13.3, 13.4 and 13.5 are not required, leave to amend the Reply so as to add those three subparagraphs is denied. With respect to proposed paragraphs 20, 21 and 24 of the Amended Reply, counsel for the Crown has not persuaded me that those paragraphs are vital to its position, given that:
+a) the existing Reply already calls into question the nature of the Subject Transaction, and
+b) the existing Reply (albeit in the assumptions portion, rather than the grounds/reasons portion, of the Reply) already indicates that the tax liability of the Targetcos should be taken into consideration in valuing the issued shares of those corporations.
+[41] Some of the comments made by counsel for the Crown at the hearing of this motion (as quoted above) suggest that the Crown, by seeking to amend the Reply, is merely endeavoring to say better that which it has already said in the existing Reply. The following comments by the Federal Court of Appeal in Montana Band are apropos:
+If, as alleged by the appellant [which had sought leave to amend its pleadings], the amendments are simply a superior framing of the issues then the case management judge was entitled to hold the parties to the existing pleadings. This is particularly so in light of [the] appellant’s concession that the current state of the pleadings would not prevent it from making the case which it says is framed in a superior fashion by the amendments. [40]
+[42] In my view, the proposed amendments are not vital to the Crown’s case. Rather, those amendments are, for the most part, an attempt to provide a superior framing of some of the issues set out in the existing Reply. The one significant distinction between the proposed Amended Reply and the existing Reply is the description of the Subject Transaction as a sham, rather than simply calling into question the nature of the Subject Transaction. However, the Crown has conceded that the proposed paragraphs categorizing the Subject Transaction as a sham are not actually needed. Furthermore, I am concerned that, if the Sham Argument were to be included in the Amended Reply, there would be an injustice to PAL, as discussed below.
+D. Injustice Not Compensable By Costs
+[43] In discussing this criterion in Canderel, Justice Décary quoted a statement made by Lord Esher in Steward v. North Metropolitan Tramways, as follows:
+There is no injustice if the other side can be compensated by costs: but, if the amendment will put them into such a position that they must be injured it ought not to be made.
+And the same principle was expressed, I think perhaps somewhat more clearly, by Bowen L.J., who says that an amendment is to be allowed “whenever you can put the parties in the same position for the purposes of justice that they were in at the time when the slip was made.”
+To apply that rule to the present case; if the amendment is allowed now, will the plaintiff be in the same position as if the defendants had pleaded correctly in the first instance? [41]
+[44] An injustice or prejudice may result from a proposed amendment where witnesses or documentary evidence are no longer available, particularly if there has been a delay in seeking leave to make the amendment. [42]
+[45] The primary concern here is that Mr. Pomeroy passed away on June 11, 2020, [43] coincidentally on the same day that counsel for the Crown provided counsel for PAL with a copy of the proposed Amended Reply. Consequently, Mr. Pomeroy is not available to instruct PAL’s counsel in respect of the two new arguments raised by the Crown in the proposed Amended Reply, nor is he available to testify in respect of those arguments. Thus, the above question posed by Lord Esher may be paraphrased in respect of this motion as follows:
+If the amendment is allowed now, will PAL be in the same position as if the Crown had pleaded correctly in the first instance?
+If the Sham Argument and the Valuation Argument had been pleaded in 2017 in the original Reply, Mr. Pomeroy would have been available to instruct counsel in respect of those two arguments. As well, if he had not passed away in June of this year, he would be available to testify at the upcoming trial of these Appeals. I accept the submission of counsel for PAL that Mr. Pomeroy’s testimony would be important in respect of the Sham Argument. [44]
+[46] Concerning the latter point, at the hearing of this motion, counsel for the Crown stated:
+Another aspect of this transfer of money [i.e., the Subject Transaction] and the position we are taking now … is the fact that this transfer occurred on June 28th, [2007]….
+On June 28th … both of the Targetco[s] and Pomacq were owned and controlled by Abacus at that point in time….
+… I can refer you in the Notice of Appeal where the Appellant takes the position that there was a change in control on June 22nd, and so it is clear from the pleadings of both parties that by June 29th that both the Targetcos and Pomacq were Abacus-controlled.
+And so when you look at the fact that we are now alleging at paragraph 13.3, 13.4 and 13.5[,] for which we take the burden, that the evidence that we will have to adduce with respect to that is not going to be evidence that would have been adduced through Mr. Pomeroy. The Crown will have to bring that evidence in relation to the transactions as they were between two Abacus corporations. [45]
+[47] In addition to the above statement, during the hearing of the motion, counsel for the Crown indicated that, at the relevant time, the Targetcos and Pomacq were related corporations, [46] and that the Subject Transaction was “a transaction between two Abacus corporations.” [47] While the statements made by counsel for the Crown in respect of the relationship between the Targetcos and Pomacq are likely appreciated by PAL, those statements run contrary to the assumptions made by the Minister and the allegations pled in the Reply. In subparagraph 12.106 of the Reply, the Crown noted the assumption by the Minister that the “Targetcos, Pomacq, Mr. Pomeroy and the Share Vendors were parties controlled de facto by Mr. Pomeroy.” In subparagraphs 12.109 and 12.110 of the Reply, the Crown set out the following assumptions of fact made by the Minister:
+12.109 The Targetcos, Pomacq, Mr. Pomeroy and the Share Vendors, and the appellant [i.e., PAL] were not factually dealing at arm’s length when the Targetcos transferred the amounts totalling $69,706,473 to the appellant.
+12.110 The amounts were transferred in accordance with preordained transactions at all times, and each of the Targetcos had appointed Mr. Pomeroy to act as its designated representative to give direction under the SPA. The amounts transferred were under the effective control of Mr. Pomeroy.
+[48] In the draft Amended Reply, the Crown proposes to change the word Targetcos in subparagraph 12.110 to Share Vendors, but the Crown does not propose to withdraw the assertions that Mr. Pomeroy had de facto control of the other named parties or that those parties were not factually dealing at arm’s length. It seems disingenuous for the Crown to assert that there is no need for any evidence that Mr. Pomeroy might have given (if he were still alive) to counter the Sham Argument, while continuing to assert that the Targetcos, Pomacq, Mr. Pomeroy and the Share Vendors (including PAL) were not factually dealing with one another at arm’s length when the Subject Transaction occurred. Furthermore, and particularly in light of the above assumptions of fact, it is possible that the Crown might seek to withdraw the concessions made at the hearing of the motion to the effect that on June 28, 2007 the Targetcos were controlled by Abacus.
+[49] Concerning the question of non-compensable prejudice (or injustice), Justice Bédard stated the following in Dello:
+The proper question is whether the respondent would suffer a non-compensable prejudice. This type of prejudice will occur, for example, when the proposed amendment “requires evidence from witness A, who is no longer available, or document B, which can no longer be found”: King’s Gate Developments Inc. v. Colangelo (1994), 17 O.R. (3d) 841 at 844 (Ont. C.A.). [48]
+[50] Given the death of Mr. Pomeroy, it is my view that, if leave to amend were to be granted so as to add the Sham Argument, PAL would sustain an injustice not capable of being compensated by an award of costs.
+[51] Counsel for PAL has submitted that there would also be an injustice if the Reply were to be amended so as to add to the Valuation Argument. [49] Counsel for PAL indicated that, if the amendment relating to the Valuation Argument were to be made, PAL would want to obtain an expert report concerning the impact of the underlying tax liability on the valuation of the shares in the capital of the Targetcos. Subsection 12(1) of the Rules permits the Court to abridge any time limit prescribed by the Rules. Accordingly, the concern expressed by PAL could be addressed by abridging the period within which an expert report must be served on the other party. [50] If it is not practical to abridge the period for serving an expert report, injustice to PAL could be avoided by adjourning the commencement of the hearing. I anticipate that any injustice resulting from such an adjournment could be compensated by an award of costs. [51]
+[52] The preceding paragraph is included in these Reasons merely for the sake of completeness. As I have already decided that the proposed amendments relating to the Valuation Argument, as well as the Sham Argument, are not vital to the Crown’s case and do not significantly assist the Court in determining the real questions in controversy, resulting in a dismissal of the motion, there is no need to abridge the time limit for filing an expert report in respect of the Valuation Argument or to adjourn the hearing of these Appeals.
+E. Interests of Justice
+[53] Concerning the criterion of serving the interests of justice, in Canderel, Justice Décary stated:
+As regards interests of justice, it may be said that the courts and the parties have a legitimate expectation in the litigation coming to an end and delays and consequent strain and anxiety imposed on all concerned by a late amendment raising a new issue may well be seen as frustrating the course of justice. [52]
+[54] Concerning the same criterion, in Continental Bank Leasing, Justice Bowman (as he then was) stated:
+In the cases in the courts of Ontario and of British Columbia to which I was referred a number of tests have been developed – whether an admission was inadvertent, whether there is a triable issue raised by an amendment or the withdrawal of an admission and whether the other party would suffer a prejudice not compensable in costs. Although, I find that these tests have been met[,] I prefer to put the matter on a broader basis: whether it is more consonant with the interests of justice that the withdrawal or amendment be permitted or that it be denied. The tests mentioned in cases in other courts are of course helpful but other factors should also be emphasized, including the timeliness of the motion to amend or withdraw, the extent to which the proposed amendments would delay the expeditious trial of the matter, the extent to which a position taken originally by one party has led another party to follow a course of action in the litigation which it would be difficult or impossible to alter and whether the amendments sought will facilitate the Court’s consideration of the true substance of the dispute on its merits. No single factor predominates nor is its presence or absence necessarily determinative. All must be assigned their proper weight in the context of the particular case. Ultimately, it boils down to a consideration of simple fairness, common sense and the interest that the courts have that justice be done. [53]
+[55] If leave were to be granted to the Crown to amend the Reply, likely resulting in PAL desiring to obtain an expert opinion in respect of the Valuation Argument, the trial of these Appeals might possibly be delayed. It could be argued that the loss of the October 26, 2020 trial commencement date, which was set approximately nine months ago, “may well be seen as frustrating the course of justice.” [54] However, I do not see such a delay here as being that consequential. [55]
+V. CONCLUSION
+[56] As discussed above, I am not convinced that the proposed amendments will significantly assist the Court in determining the real questions in controversy, nor are the proposed amendments vital to the Crown’s case, particularly as the existing Reply already calls into question the true nature of the Subject Transaction and gives notice of the Minister’s assumption and the Crown’s allegation that, in valuing the issued shares in the capital of the Targetcos, the underlying tax liability of those corporations should be taken into consideration. Furthermore, counsel for the Crown has conceded that proposed subparagraphs 13.3, 13.4 and 13.5 are not needed.
+[57] In Sanofi-Aventis, the Federal Court of Appeal stated:
+… there are at least two independent criteria that must be met to allow an amendment: (a) any injustice to the other party is capable of being compensated by an award of costs, and (b) the interests of justice would be served. Failure to meet one or the other of these criteria may result in the amendment being refused. [56] [Emphasis in the original.]
+Consequently, if either of those criteria is not satisfied, leave to amend should not be granted. Given the recent death of Mr. Pomeroy, if leave were to be granted to the Crown to amend the Reply so as to add the Sham Argument, there would be an injustice to PAL that could not be compensated by an award of costs. However, I do not think that non-compensable injustice would arise if the Reply were to be amended so as to add the Valuation Argument. [57]
+[58] For the reasons set out above, the Crown’s motion for leave to amend the Reply, so as to raise the Sham Argument and the Valuation Argument, is dismissed, with costs.
+[59] For greater certainty, by reason of section 54 of the Rules, the Crown is permitted to amend the Reply to the extent that counsel for PAL has consented.
+[60] Counsel for PAL requested that, if PAL were to be successful in resisting the amendments, costs should be awarded against the Crown on a solicitor-client basis. I am not convinced that this is a situation warranting an award of costs on a solicitor-client basis, although I acknowledge that counsel for PAL was cooperative and accommodating in consenting to most of the amendments desired by the Crown (apart from those relating to the Sham Argument and the Valuation Argument). Costs are to be calculated on a party-and-party basis.
+Signed at Ottawa, Canada, this day of 30th September 2020.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+CITATION:
+2020 TCC 107
+COURT FILE NO.:
+2017-1128(IT)G
+STYLE OF CAUSE:
+POMEROY ACQUIRECO LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Canada
+DATE OF HEARING:
+September 9, 2020
+REASONS FOR ORDER BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF ORDER:
+September 30, 2020
+APPEARANCES:
+Counsel for the Appellant:
+Robert Neilson
+Jeremy Comeau
+Counsel for the Respondent:
+Natalie Goulard
+Simon Vincent
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Robert Neilson
+Firm:
+Felesky Flynn
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Income Tax Act, RSC 1985, c.1 (5th Supplement), as amended.
+[2] Many, but not all, of the factual statements set out as background are taken from the pleadings, and have not yet been established by evidence.
+[3] PAL and those other holding companies are collectively referred to as the “Share Vendors.”
+[4] Not all of the Targetcos had the same shareholders. It seems that PAL and various combinations of the other holding companies owned the shares in the capital of the respective Targetcos.
+[5] It will be noted that almost three years had elapsed from the filing of the Notice of Objection, without the Minister having performed the duties specified in subsection 165(3) of the ITA.
+[6] In the proposed Amended Reply, the Crown will change the phrase “in their taxation years ending June 27, 2007” to the phrase “on June 28, 2007”.
+[7] The Crown has acknowledged that, if the amendments are permitted, the Crown will bear the burden of proof in respect of the other material facts that were not assumed by the Minister when assessing.
+[8] The Queen v. Canderel Ltd., [1993] 2 CTC 213, 93 DTC 5357 (FCAD).
+[9] Transcript of hearing held on September 9, 2020, p. 36, lines 13-16 & 19-22.
+[10] Cameco Corporation v. The Queen, 2018 TCC 195, ¶585. The use of the word doctrine to categorize a sham is also found elsewhere in Cameco (see ¶594-595 & 666) and in Continental Bank Leasing Corp. v. The Queen, [1998] 2 SCR 298, ¶20; Neuman v. MNR, [1998] 1 SCR 770, ¶63; and Stubart Investments Ltd. v. The Queen, [1984] 1 SCR 536, at 573.
+[11] Snook v. London & West Riding Investments, Ltd., [1967] 1 All ER 518, at 528; 2529-1915 Québec Inc. v. The Queen, sub nom. Farraggi v. The Queen, 2008 FCA 398, ¶54-55 & 60; and Cameco, supra note 10, ¶582, 587, 590 and 603.
+[12] Cameco, supra note 10,¶ 586.
+[13] Ibid.
+[14] 2529-1915 Québec, supra note 11, ¶59.
+[15] Shorter Oxford English Dictionary, 5th ed. (Oxford: Oxford University Press, 2002), vol. 2, p. 2409.
+[16] Ibid.
+[17] Webster’s New Collegiate Dictionary (Springfield, Mass: G. & C. Merriam Co., 1974), p. 937.
+[18] Ibid.
+[19] Bryan A. Garner (editor in chief), Black’s Law Dictionary, 10th ed. (St. Paul: Thomson Reuters, 2014) p. 1431.
+[20] Ibid.
+[21] Barbara Ann Kipfer (editor), Roget’s International Thesaurus, 6th ed. (New York: Harper-Collins, 2001), p. 388-389, ¶518.1.
+[22] Ibid., p. 293, ¶380.4.
+[23] Ibid., p. 291, ¶376.3.
+[24] Ibid., ¶ 376.5.
+[25] Ibid., ¶376.1.
+[26] Transcript, p. 36, lines 16-18. Counsel may have perceived that I am of the view that the word purported is sufficient to invoke the doctrine or legal concept of sham. However, I do not subscribe to that view.
+[27] Antle v. The Queen, 2010 FCA 280, ¶20.
+[28] Cameco, supra note 10, ¶586.
+[29] The location of the existing assertions (in the assumptions part of the Reply) might lessen their weight and effectiveness, but does not nullify those assertions.
+[30] In addition, in subparagraph 12.107 of the Reply, the Crown states that “the FMV of the consideration received by the Targetcos should take into account the tax liability associated with the income received from the sale of the hotels.”
+[31] Nolasco v. The Queen, sub nom. Kondur v. The Queen, 2015 TCC 318, ¶18. See also section 7 of the Rules.
+[32] Canderel, supra note 8, ¶10. Some of the additional factors that might be considered were identified by Justice Bowman in Continental Bank Leasing Corp. v. The Queen, [1993] 1 CTC 2306, 93 DTC 298 (TCC), ¶23, which is quoted in paragraph 54 below.
+[33] Sanofi-Aventis Canada Inc. et al. v. Teva Canada Ltd., 2014 FCA 65, ¶11-12.
+[34] Transcript, p. 11, line 14 to p. 12, line 2. In the above quotation, the transcript uses the word Targetco’s; however, I think that the word should be Targetcos, which is how I have shown it above. As well, in the transcript, Pomacq is spelled as POMAC. I have used the correct spelling in the various quotations from the transcript.
+[35] Transcript, p. 13, line 9 to p. 14, line 24.
+[36] Transcript, p. 16, line 7 to p. 17, line 10.
+[37] Transcript, p. 25, lines 21-24.
+[38] Transcript, p. 26, lines 14-20.
+[39] Transcript, p. 40, line 7 to p. 41, line 11.
+[40] Montana Band, sub nom. Montana Indian Band v. The Queen, 2002 FCA 331, ¶4.
+[41] Canderel, supra note 8, ¶11, quoting from Steward v. North Metropolitan Tramways Co., (1886) 16 QBD 556, at 558.
+[42] Forest Fibers Inc. v. The Queen, 2013 TCC 402, ¶22.
+[43] Affidavit of Ryan Pomeroy, sworn September 2, 2020 and filed September 3, 2020, ¶3.
+[44] Transcript, p. 36, lines 23-28. See also Written Submissions of the Appellant, ¶28.
+[45] Transcript, p. 12 lines 3-24.
+[46] Transcript, p. 18, line 4.
+[47] Transcript, p. 21, lines 21-22.
+[48] Dello v. The Queen, 2004 TCC 754, ¶13. See also Canada (Attorney General) v. Mandel, (1996) 194 NR 50 (FCA), where leave to amend was refused because 23 years had elapsed since the event in question and the Crown could no longer locate necessary witnesses; and McKay v. The Queen, 2015 TCC 33, ¶18-19, where an amendment was refused because a non-party (which was a source of documents) had been placed in receivership, making it difficult for the appellant to access relevant information and documents. In addition, see Bradley Holdings Limited v. The Queen, 2004 TCC 221, ¶15.
+[49] Written Submissions of the Appellant, ¶31-34.
+[50] See paragraph 145(7)(b) of the Rules.
+[51] In my view, the adverse consequences flowing from an adjournment of the trial would not be as significant as those contemplated by Justice Hugessen in Montana Band v. The Queen, 2002 FCT 583, ¶7, given that these Appeals do not involve the same number of parties and the same intensive involvement of counsel and the court as was the case in Montana Band. See also Terasen International Inc. v. The Queen, 2012 TCC 408, ¶42-44.
+[52] Canderel, supra note 8, ¶13.
+[53] Continental Bank Leasing, supra note 32, ¶23. See also Canderel, supra note 8, ¶13, which quotes much of the above statement by Justice Bowman.
+[54] Canderel, supra note 8, ¶13.
+[55] Montana Band, supra note 51, ¶7. As I have determined that leave to amend should be denied, the discussion of the interests of justice is included only for the sake of completeness.
+[56] Sanofi-Aventis, supra note 33, ¶15.
+[57] This is a moot point, as I have declined to grant leave to amend the Reply so as to add the Valuation Argument.

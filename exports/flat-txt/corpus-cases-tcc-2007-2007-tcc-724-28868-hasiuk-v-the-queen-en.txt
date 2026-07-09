@@ -1,0 +1,255 @@
+Title: Hasiuk v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28868/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-724-28868-hasiuk-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-11-30
+
+# Hasiuk v. The Queen
+
+- Citation: 2007 TCC 724
+- Decision date: 2007-11-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1311, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hasiuk v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-30
+Neutral citation
+2007 TCC 724
+File numbers
+95-3937(IT)G
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 95-3937(IT)G
+BETWEEN:
+WILLIAM J. HASIUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 18 and 19, 2007 at Toronto, Ontario.
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Counsel for the Appellant:
+Joy Casey
+Counsel for the Respondent:
+Andrew Miller and
+Ifeanyichukwu Nwachukwu
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1988 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 30th day of November, 2007.
+"T. O'Connor"
+O'Connor J.
+Citation: 2007TCC724
+Date: 20071130
+Docket: 95-3937(IT)G
+BETWEEN:
+WILLIAM J. HASIUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor J.
+[1] The issue in this appeal is whether in respect of the 1988 taxation year the Minister of National Revenue (“Minister”) was correct in including in the Appellant’s income an amount of $94,475 on the basis that the Appellant, as contemplated in subsection 56(2) of the Income Tax Act (“Act”) directed or concurred in the transfer by the Appellant’s corporation, 711624 Ontario Limited (“711”) of that amount to 590393 Ontario Limited (“590”), a corporation owned and controlled by the Appellant’s two sons, Robert Hasiuk and William Hasiuk Jr.
+Facts
+[2] The basic facts are as follows:
+1. In 1988 and 1989 (“relevant years”) the Appellant was the sole shareholder, director and officer of 711.
+2. 711 operated under the trade name of “Cramahe Estates”. 711 was in the business of building residences and selling same.
+3. The Appellant’s said two sons were the shareholders, directors and officers of 590. 590 operated a hardware and building supply store under the trade name of “Hasiuk Home Care”.
+4. In the relevant years Nasha Properties Limited (“Nasha”) was a corporation owned by the Appellant and his spouse Patricia.
+5. On June 6, 1987, Nasha sold to 711 certain lots in the town of Colborne, Ontario, including a lot described as Part 1 of Plan 38R-3479.
+6. On August 30, 1988, 711 operating as Cramahe Estates contracted with Judith Ball to construct a bungalow on said Part 1 of Plan 38R-3479 and to sell said lot and bungalow to her for $99,900.
+7. The said lot, with the said bungalow which had been constructed thereon, was sold in November 1988 to Mr. and Mrs. Ball (“the Ball property”). The price of the property sold was $99,900, of which the net proceeds were $94,475.
+8. The said total price of $99,900 was paid by a cheque of the Balls made out to 711’s solicitor, C. Vincent Graham.
+9. The net proceeds of sale of the Ball property of $94,475 were paid by a trust cheque of C. Vincent Graham dated November 23, 1988 payable to Cramahe Estates, i.e. to 711.
+10. The said trust account cheque of C. Vincent Graham in the said amount of $94,475 was endorsed by Robert Hasiuk, one of the Appellant’s two sons, and deposited into the account of 590 on November 24, 1988.
+11. The reporting letter of C. Vincent Graham dated January 16, 1989 addressed to 711 reads as follows:
+Re: CRAMAHE s/t BALL
+Part Lot 35, Con 1, Twsp of Cramahe
+The above-noted sales transaction has now been finalized and I am pleased to forward the following report to you.
+SALES PRICE: $99,900.00
+CLOSING DATE: October 31, 1988
+FIRST MORTGAGE: Your existing first mortgage has been paid off in full as per the enclosed Mortgage Discharge Statement. N/A
+REALTY TAXES: Please refer to the enclosed Statement of Adjustments for a breakdown of how the taxes were adjusted.
+REAL ESTATE Total Commission $4,495.50
+COMMISSION: Less Deposit 5,000.00
+Balance Paid
+Refund to you: 504.50
+FINAL HYDRO: You are responsible for payment of the final hydro account, if any.
+BALANCE OF On closing we paid to you directly the sum of
+SALE PROCEEDS: $94,475.00.
+12. On April 12, 1990, a Correcting Deed was registered in respect of the Ball property to indicate that the property sold was Part 1, Plan 38R-4206 instead of Part 1, Plan 38R-3479.
+13. In both the original sale (paragraph 7 above) and the Correcting Deed (paragraph 12 above) the Appellant signs for 711 declaring “I have authority to bind the Corporation”.
+14. 711 did not include the said net proceeds of sale from the Ball property in its reported income for its fiscal year ending March 31, 1989.
+15. By Notice of Reassessment dated September 8, 1994, the Minister reassessed 711’s tax liability for that fiscal year to include in its income the said net income proceeds of $79,475 on the sale of the Ball property (being proceeds of $94,475 less adjusted cost base of $15,000) pursuant to section 9 of the Act.
+16. By Notice of Appeal dated May 27, 1996, 711 appealed the reassessment dated September 8, 1994, to the Tax Court of Canada (Court file: 96‑1864(IT)G).
+17. By Order dated December 6, 2005, the Tax Court of Canada dismissed 711’s appeal for failure of 711 to appear at the hearing of the appeal.
+Appellant’s Submissions
+[3] I quote from the written outline of the Appellant’s counsel’s argument as follows:
+14. The evidence of the appellant and of Robert and William Hasiuk was that there was an agreement that Robert and William, through 590, would build the house on the Ball Property and receive the proceeds of sale.
+15. Their evidence was consistent that Robert and William and 590 handled all of the steps of building the Ball house, including hiring and paying the sub-contractors and supplying the materials. The appellant provided some minor assistance with landscaping work on the Ball Property, as might be expected among family members, but had no involvement in building the house.
+16. The evidence of Robert Hasiuk was that the amount of $94,475, which 590 received as the proceeds of the sale of the Ball Property, was included in 590’s reported sales income for its fiscal year ending June 30, 1989.
+17. The evidence of Patrick Rutherford, the accountant for 711 and 590, was that the $94,475 was included in 590’s reported income for fiscal 1989. He explained during cross-examination that the full amount would not have been reflected in 590’s sales summary as sales in November 1988, when the cheque was deposited. Sales of building supplies would have been recorded as sales in the months when the supplies were taken out of inventory and delivered to the site, not when payment was received. Payments received after sales had been recorded would be noted as payments “received on account”.
+18. Although much documentation was unavailable due to a fire at 590’s premises in August 1989, Rutherford testified that he was able to balance 590’s accounts at the end of the year by making the appropriate adjustments to correct the ledgers prepared by 590’s bookkeeper.
+19. Rutherford’s evidence was that he would not have been able to balance the accounts if the $94,475 had been excluded from their sales. …
+20. The appellant’s evidence was that 711, after filing an appeal of its reassessment, did not pursue the appeal in 2005 because it was no longer carrying on business.
+[4] I paraphrase Appellant’s counsel’s further legal arguments as follows:
+[5] Subsection 15(1) of the Act, provided in effect that, where a corporation conferred a benefit on a shareholder, or on a person in contemplation of his becoming a shareholder (other than by means of certain specified exceptions which do not apply in this case), the amount or value of the benefit shall be included in computing the income of the shareholder for that year.
+[6] Subsection 56(2) of the Act provides that, where a payment or transfer of property is made pursuant to the direction of, or with the concurrence of, a tax payer to some other person for the benefit of the taxpayer or as a benefit that the taxpayer desired to have conferred on the other person, the payment or transfer shall be included in computing the taxpayer’s income to the extent that it would if the payment or transfer had been made to the taxpayer.
+[7] In order for subsection 56(2) to apply, the transaction must meet the following requirements:
+(1) the payment must be to a person other than the reassessed taxpayer;
+(2) the allocation must be at the direction or with the concurrence of the reassessed taxpayer;
+(3) the payment must be for the benefit of the reassessed taxpayer or for the benefit of another person whom the reassessed taxpayer wished to benefit; and
+(4) the payment would have been included in the reassessed taxpayer’s income if it had been received by him or her.
+Neuman v. M.N.R., 1998 CanLII 826 (S.C.C.)
+[8] Where the transferor is a corporation and the CRA seeks to attribute the value of the benefit to a shareholder, a further restriction on the application of s. 56(2) applies. If the shareholder had no entitlement to receive the transferred payment or property from the corporation, s. 56(2) applies only if the benefit conferred is not taxable in the hands of the transferee. In these circumstances, if the transferee is required to include the amount of the benefit in calculating its taxable income, then s. 56(2) does not apply.
+Winter v. Canada, [1991] 1 F.C. 585 (Fed. C.A.)
+Smith v. Canada, [1993] F.C.J. 740 (Fed. C.A.)
+[9] Further, if there was a business contract with the transferee for added consideration, there is no benefit to the transferee. The transferee is in effect receiving payment of the consideration to which it is entitled under the contract.
+Williams v. The Queen, 2004 TCC 838 (CanLII)
+[10] In an appeal of an assessment by a taxpayer, the taxpayer has the initial onus of demolishing the assumptions on which the Minister has based the assessment. The initial onus is met where the taxpayer makes out at least a prima facie case. Where the assumptions have been demolished, the onus shifts to the Minister to rebut the prima facie case. If the Minister adduces no evidence to rebut the prima facie case, the taxpayer is entitled to succeed.
+Hickman Motors Ltd. v. Canada, 1997 CanLII 357 (S.C.C.)
+[11] In this case, CRA’s position is that the proceeds of sale should have been paid to 711 as the vendor of the Ball Property. In fact, CRA reassessed 711 to include the net proceeds in computing its income for fiscal 1989.
+[12] CRA’s position against the Appellant is that the Appellant either directed 711 to transfer the cheque for $94,475 to 590 or acquiesced in the transfer of the cheque to 590 and that the Appellant received a benefit from this transfer.
+[13] The Appellant was the shareholder of 711. In allowing 590 to receive the proceeds of sale of the Ball Property, 711 did not confer a benefit on the Appellant as a shareholder. If anything, it conferred a benefit on 590. Therefore s. 15(1) of the ITA does not apply. If the reassessment of the Appellant is to be upheld, it must be pursuant to s. 56(2), not 15(1).
+[14] If the proceeds of sale of the Ball Property had been paid to 711, then the money would have belonged to 711. The Appellant, as a shareholder, would have had no entitlement to have 711 pay the money to the Appellant.
+[15] If the Appellant was not entitled to receive those funds from 711, s. 56(2) can only apply to attribute the funds to the Appellant’s income if the funds were not taxable in the hands of the transferee, 590. If 590 was obligated to include those funds in computing its income, then the amount cannot be attributed back to the Appellant, according to the decision in Winter v. Canada, supra. The determining issue is not whether 590 did in fact include the funds in calculating its income but rather whether it was required to include them.
+[16] It cannot be disputed that, if 590 received the funds as payment for its work in building the house on the Ball Property, it would be required to include those funds in computing its income. Therefore, the funds cannot be attributed back to the Appellant and the assessment must be vacated.
+[17] Further, the evidence of both Rutherford and Robert Hasiuk was that the funds were in fact included in the calculation of 590’s income. That evidence was not challenged in cross-examination and the Respondent adduced no evidence to contradict the testimony of Rutherford and Robert Hasiuk.
+[18] The reassessment of the Appellant was based on the assumption that 590 had not included the proceeds of the Ball Property in computing its income. Since the evidence of Rutherford and Robert Hasiuk on this issue established a prima facie case and the Respondent did not adduce any evidence to rebut their testimony, the Appellant must succeed.
+[19] In addition, the evidence of the Appellant and of Robert and William Hasiuk was that there was an agreement that 590 would build the house and supply the materials and would be paid for its work and goods by receiving the proceeds of sale. There was therefore a business contract in place between 590 and 711 and the transfer of the proceeds was for consideration. As set out in Williams, supra, if the transfer is for good consideration in the context of a business contract, there is no benefit and s. 56(2) does not apply.
+Respondent’s Submissions
+[20] Counsel for the Respondent referred to subsection 56(2) of the Act and stated:
+The Supreme Court of Canada in Neuman v. R., confirmed that in order for subsection 56(2) of the Act to apply, four preconditions (hereinafter the “Neuman Test”) must be met:
+(1) the payment must be to a person other than the reassessed taxpayer;
+(2) the allocation must be at the direction or with the concurrence of the reassessed taxpayer;
+(3) the payment must be for the benefit of the reassessed taxpayer or for the benefit of another person whom the reassessed taxpayer wished to benefit; and
+(4) the payment would have been included in the reassessed taxpayer’s income if it had been received by him or her.
+Neuman v. Minister of National Revenue. [1988] S.C.J. No. 37, para. 32, Tab. 2.
+In addition to the Neuman Test, a fifth precondition has been considered by the courts in their analysis of subsection 56(2) of the Act:
+[W]hen the doctrine of constructive receipt is not clearly involved, because the taxpayer had no entitlement to the payment being made or the property being transferred, it is fair to infer that subsection 56(2) may receive application only if the benefit conferred is not directly taxable in the hands of the transferee.
+Winter v. Canada, [1991] 1 C.T.C. 113, para. 14, Respondent’s Book of Authorities, Tab. 3.
+[21] Counsel submits that the Appellant is liable under subsection 56(2) of the Act, having regard to the Neuman Test. Counsel refers to the Neuman Test and then states as follows:
+48. The Appellant does not contest the fact that the payment in the amount of $94,475.00 was made payable by cheque to 711 operating as Cramahe Estates.
+Exhibit R-3, Response No. 1 to Request to Admit.
+Exhibit R-1, Respondent’s Book of Documents, Tabs. 15 and 18.
+49. The Appellant does not contest the fact that the cheque made payable to 711 for the amount of $94,475.00 was endorsed by Robert Hasiuk, shareholder of 590, and deposited into the bank account of 590.
+Exhibit R-3, Response No. 1 to Request to Admit.
+Exhibit R-1, Respondent’s Book of Documents, Tabs. 15-16.
+50. Accordingly, the first part of the Neuman Test is met as the payment of $94,475.00 from the sale of the Ball property was deposited into the bank account of 590, being a person other than the reassessed taxpayer.
+b) The allocation must be at the direction or with the concurrence of the reassessed taxpayer
+51. In respect of the second precondition of the Neuman Test the Federal Court of Appeal has stated that:
+…
+That said, in my opinion, the learned trial judge correctly concluded that:
+...
+The concurrence or participation of the taxpayer to the conferring of the benefit need not be active. It may well be passive or implicit and can be inferred from all the circumstances, not the least of which being the degree of control which the taxpayer is entitled to exercise over the firm or corporation conferring the benefit. (emphasis added)
+Smith v. Canada, [1993] F.C.J. No. 740, para. 17, Respondent’s Book of Authorities, Tab 4.
+52. As the proceeds from the sale of the Ball property were 711’s, the firm “conferring” the benefit is 711.
+Evidence of Vincent Graham.
+53. The Appellant’s lawyer at the time of the transaction Mr. C. Vincent Graham (“Mr. Graham”) testified that the cheque for the amount of $94,475.00 was either delivered by him to the Appellant in Cobourg or alternatively picked up personally by the Appellant. The cancelled cheque as well as the letter from Mr. Graham confirms either version.
+Evidence of Vincent Graham.
+Exhibit R-1, Respondent’s Book of Documents, Tabs. 15 and 18.
+54. The Appellant was the sole shareholder and as such the controlling shareholder of 711. He was also the sole director of 711. Consequently, the Appellant was the only individual capable of authorising the transfer of the amount of $94,475.00 to 590.
+Exhibit R-3, Response No. 1 to Request to Admit.
+Exhibit R-1, Respondent’s Book of Documents, Tab. 1.
+55. If the Appellant did not actively direct or concur in the payment made to 590, the “exclusive control” which the Appellant exercised over 711 which conferred the benefit” can lead to the finding that the Appellant passively or implicitly conferred a benefit on 590.
+Smith v. Canada, supra, para. 17, Respondent’s Book of Authorities, Tab. 4.
+c) The payment must be for the benefit of the reassessed taxpayer or for the benefit of another person whom the reassessed taxpayer wished to benefit
+56. The third precondition of the Neuman Test is met as the payment of $94,475.00 was for the benefit of 590 whom the Apellant wished to benefit.
+57. The payment of $94,475.00 having been deposited into the bank account of 590 is indisputable evidence that the payment was for the benefit of another person in this instance 590, a company owned by the Appellant’s sons.
+Exhibit R-3, Response No. 1 to Request to Admit.
+Exhibit R-1, Respondent’s Book of Documents, Tab. 16.
+58. The Appellant’s direction or concurrence be it active or passive suggests that the Appellant wished to confer a benefit on 590.
+d) The payment would have been included in the reassessed taxpayer’s income if it had been received by him or her
+59. Had the payment of $94,475.00 been made to the Appellant, the same amount would have been included in the Appellant’s income pursuant to subsection 15(1) of the Act.
+60. Subsection 15(1) of the Act[2] states:
+15.(1) Where at any time in a taxation year a benefit is conferred on a shareholder […] by a corporation otherwise than by
+[…]
+the amount or value thereof shall, except to the extent that it is deemed by section 84 to be a dividend, be included in computing the income of the shareholder for the year.
+61. The Appellant was a shareholder of 711. The proceeds of the Ball sale, assessed by the Minister as income of 711, has been judicially upheld by an Order of this Court.
+62. Consequently, had the payment been received by the Appellant, the amount of $94,475.00 would have been included in his income as a “shareholder benefit” in accordance with subsection 15(1) of the Act. As such, the fourth precondition to the Neuman Test is also satisfied.
+D. Fifth precondition
+63. As mentioned above, in addition to the four preconditions from the Neuman decision, the courts have invoked, in certain circumstances, a fifth precondition in interpreting and applying subsection 56(2) of the Act.
+64. In the Winter decision, the Federal Court of Appeal states the following with respect to the application of a fifth precondition:
+It is generally accepted that the provision of subsection 56(2) is rooted in the doctrine of “constructive receipt” and was meant to cover principally cases where a taxpayer seeks to avoid receipt of what is in his hands would be income by arranging to have the amount paid to some other person either for his own benefit (for example the extinction of a liability) or for the benefit of that other person (see the reasons of Thurlow J. in Miller, supra, and of Cattanach J. in Murphy, supra). There is no doubt, however that the wording of the provision does not allow to its being confined to such clear cases of tax-avoidance. The Bronfman judgment, which upheld the assessment, under the predecessor of subsection 56(2), of a shareholder of a closely held private company, for corporate gifts made over a number of years to family members, is usually cited as authority for the proposition that it is not a pre-condition to the application of the rule that the individual being taxed have some right or interest in the payment made or the property transferred. The precedent does not appear to me quite compelling, since gifts by a corporation come out of profits to which the shareholders have a prospective right. But the fact is that the language of the provision does not require, for its application, that the taxpayer be initially entitled to the payment or transfer of property made to the third party, only that he would have been subject to tax had the payment or transfer been made to him. It seems to me, however, that when the doctrine of “constructive receipt” is not clearly involved, because the taxpayer had no entitlement to the payment being made or the property being transferred, it is fair to infer that subsection 56(2) may receive application only if the benefit conferred is not directly taxable in the hands of the transferee. Indeed, as I see it, a tax-avoidance provision is subsidiary in nature; it exists to prevent the avoidance of a tax payable on a particular transaction, not simply to double the tax normally due nor to give the taxing authorities an administrative discretion to choose between two possible taxpayers.
+Emphasis added. While I might have distinguished Allan Bronfman on further or other grounds, since the benefit to the shareholders of having personal gifts paid for by the company with pre-tax dollars over the shareholders themselves paying for them with after-tax dollars seems transparently clear, I agree with that analysis. Being “subject to tax on the benefit received” means that it is required to be included in the calculation of the recipient’s taxable income.
+[22] Counsel submitted further in verbal argument as follows:
+Now the real, the question that needs to be determined is, my friend has stated this in her argument, the amount of $94,475; whose income was it?
+And I believe we agree on the true test; which is, who was taxable on this amount?
+Which leads us, without question, leads us to the question of liability; who was liable to pay tax on this amount?
+So in order to determine the income and whose income this amount belonged to, we need to look at the evidence before this court.
+Now my friend has raised the issue of onus early on in her argument referring to a decision, and she quoted from it, saying that once a prima facie case is established this demolishes the assumptions.
+However, our position here is that the evidence, the appellant’s evidence is anything but prima facie case. It has not demolished the assumptions and, contrary to what my friend has implied, we have challenged the evidence.
+The documents that are before this court are credible and corroborate the position that this amount was 711’s income.
+Before the period leading up to the transaction, the date of the transaction where this amount was moved from 711 to 590, all the documents point to the fact that this property was owned by 711.
+711 acquired this property from a company by the name of Nasha Properties. The evidence also points to the fact that there was no trust agreement. My friend has agreed to that. At this point I can lead you to the actual documents in the respondent’s book of documents, which is Exhibit R-1, starting at Tab 6.
+Tab 6 through to Tab 8. They all, other than the description of the land transferred, all clearly show that 711 acquired this land. Nasha Properties transferred this ... to 711. And this was in 1987, prior to the transaction and the sale of the property to the Balls.
+This is all proven with credible evidence that has not been contested by the appellant.
+Now ... at the time the Balls acquired the property, the evidence also supports the finding that 711 was the vendor. 711 sold the property to the Balls and not as a trustee for the benefit of 590.
+We have in this same, at the same exhibit, Exhibit R-1, the agreement of purchase and sale, which is located at Tab 12 of the respondent’s book of documents which clearly shows the purchaser was Judy Ball and the vendor was Cramahe Estates, the name used by 711.
+We have the statement of adjustment at Tab 13. A document prepared by 711’s lawyer, Mr. Vincent Graham, clearly shows that the vendor was, in this transaction, this sale of property, was 711 and the purchasers here were Frederick John and Judith Ann Ball.
+At Tab 14, we have the actual deed. Once again, 711 is the entity transferring ... to the Balls, which took place on November 22nd, 1988. Despite the appellant’s unwillingness to say it, this is his signature, it hasn’t been contested. The appellant signed this document as president binding the corporation.
+We have the reporting letter or – first of all we can start with the cheque for the proceeds – issued by the appellant’s lawyer, rather 711’s lawyer, Vincent Graham, Tab 15.
+The proceeds clearly were paid to 711 under the name of Cramahe Estates, again, not contested.
+We have the reporting letter from the lawyer at Tab 18. And, once again, by the evidence of Mr. Vincent Graham, 711’s lawyer at the time, testimony that wasn’t contested by my friend, this amount was made payable to 711. The amount at the bottom of this page clearly indicated “$94,475 paid directly to you”.
+About 14 months later we have the correcting deed. Mr. Vincent Graham testified to the fact that there was an error that transpired in the deed and 14 months later, at Tab 17 of this same book of documents, we have the correcting deed. Which, again, lists 711 as the entity that transferred the amount to the Balls.
+Once, again, signed by the appellant, Jerry Hasiuk.
+So this, these documents that I just referred to, I have categorized as the documents that surround the actual transaction, the actual transferral of property.
+So we have before the transaction everything pointing to the fact that 711 owned this property, was the vendor. We have during the period – the actual period surrounding the transaction the same thing; 711 is the owner and vendor of the property. This legal relationship, they are holding themselves out to be, to the world, to everyone who needs to see this, that 711 is the owner and vendor.
+Now, even after, even after the period, after the correcting deed, 711 is still holding itself out to be the vendor, the owner of the property at the time. …
+…
+… at Tab 20, we have the certificate, the Ontario New Home Warranty Program certificate, which is dated February 15, 1990. And on the second page of this document, the warranty certificate, we have, right across from the title of “vendor”, 711 Ontario Ltd. operating as Cramahe Estates, date February 15th, 1990.
+So they have held themselves out to be the vendors to the Balls, they have held themselves out to be the vendors to the Ontario New Home Warranty Program; this is the legal relationship that existed. And that is following the transaction, this is 14 months after the sale.
+Six years later, in a judgment from the Ontario Court, General Division, Small Claims Court, this is at Tab 21.
+Once again, this is a situation where the Ontario New Home Warranty Program has issued a claim against 711, the appellant, the sole shareholder of 711, under oath held himself out to be the builder.
+On the second page of this judgment, under the heading “B”, the Balls purchase which is underlined, second paragraph, which begins:
+"William J. Hasiuk (called Jerry Hasiuk), the principal of the builder here referred to as 711 testified that he purposefully left the wall in this condition, he needed to give that part of the wall extra strength and that was called for by the Ontario Building Code."
+So the judgment here is irrefutable proof that he testified under oath that he built that home.
+…
+Now in his testimony he would have you – the appellant would have you believe that it was simply, I think he testified to the fact that it was landscaping that he dealt with. But this clearly demonstrates that this had to do with the actual building itself. It wasn’t an amount of ground or – I can’t remember what he said it had to do with earth or something that he had moved or the Balls weren’t happy with – but this clearly indicates the problem, the reason they were before the court was because there was a flaw with the building, there was a problem that the Balls had with the building. The Balls claimed through the Ontario program their amount, the Ontario New Home Warranty Program subrogated, took the builder to court. The builder here, once again, was 711.
+[23] Counsel for the Respondent submits further that the documents clearly indicate that 711 acquired from Nasha for $15,000 the lot which, with the bungalow erected thereon, was eventually sold to the Balls. Further, there was no evidence of a trust the documents clearly indicate that it was 711 who acquired the property in question, it was 711 that undertook to build the bungalow and was the vendor of the Ball property, further that the Correcting Deed with respect to the Ball property again refers to 711 as the transferor. In summary all the written documentation confirms 711 as the vendor builder of the Ball property.
+[24] The Respondent refers further to the fact of 711 not appearing in its appeal before the Tax Court of Canada and the Tax Court of Canada dismissing that appeal. Counsel states further that 711’s business activity was the building and selling of residential homes whereas 590 operating as Hasiuk Home Care was a building supply store and its relationship with 711 was that of a supplier. The Respondent further submitted that no trust existed and that certainly there was nothing in writing evidencing a trust situation. Counsel states further that during the objection stage of 711’s appeal the representations of 711 clearly indicated that 711 was the general contractor with respect to the Ball property.
+[25] Counsel concludes further that 711 is the documented owner and vendor of the Ball property and that in tax matters what must be considered is what was done not what might have been done.
+[26] Counsel states further that the Order of this Court dismissing 711’s appeal establishes that the proceeds were income of 711 and that conclusion can not be collaterally attacked by the Appellant.
+Analysis and Conclusion
+[27] In my opinion the application of the law to the facts of this case leads to the conclusion that the submissions of counsel for the Respondent are, on a balance of probabilities, correct. The documents speak for themselves. There was an initial sale of land to 711. 711 was the entity that was in the business of building and selling homes. It is 711 that appears in all of the documents. There is no convincing satisfactory evidence of a trust nor of a business contract providing that 590 would construct the bungalow and sell the Ball property. The evidence of the sons and of the Appellant, in my opinion, is far from conclusive on the issue that it was 590 that actually did the building and the selling of the Ball Property. The Appellant and his corporation, 711, were in the business of building and selling homes. The Appellant’s sons were not directly involved, except as suppliers of materials. The evidence from the correcting deed and the New Home Builder’s Warranty Program is clear that 711 was the builder. The Appellant was the sole shareholder of 711. In the documents, the Appellant clearly states he has authority to bind 711. The four conditions for the application of subsection 56(2) as set forth in Neuman have been satisfied. Also in my opinion the fifth precondition as discussed in Winter above has been met since there is no conclusive proof that the benefit was “required” to be included in the calculation of 590’s income. The Appellant was the directing mind, sole shareholder and director of 711 and I cannot see how he can escape the contention that he directed or concurred in the transfer by his corporation (711). Also, the evidence to the effect that 590 included the proceeds in its income and therefore was liable for tax on it, again, is not conclusive.
+[28] Further, in my opinion, the aspect of the shareholder being considered as the transferor when in fact it was his corporation that was the transferor is resolved by reference to the Smith decision. The Appellant, as shareholder, controlled the corporation.
+[29] I believe it is settled that if the shareholder totally controls the corporation which makes the transfer, the shareholder, even though not entitled to the benefit, is to be considered as concurring in the transfer to the other person within the meaning of subsection 56(2) of the Act. Moreover I am not satisfied that the Appellant has demolished the Minister’s assumptions - i.e. has not made out a prima facie case.
+[30] In conclusion, for all of the above reasons the appeal is dismissed with costs.
+Signed at Ottawa, Canada this 30th day of November, 2007.
+"T. O'Connor"
+O'Connor J.
+CITATION: 2007TCC724
+COURT FILE NO.: 95-3937(IT)G
+STYLE OF CAUSE: William J. Hasiuk v. The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 18, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice T. O'Connor
+DATE OF JUDGMENT: November 30, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Joy Casey
+Counsel for the Respondent:
+Andrew Miller and
+Ifeanyichukwu Nwachukwu
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Joy Casey
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[2] For a copy of subsection 15(1) of the Act as it read before and after September 1988 please see Tabs 12 and 13 of the Respondent’s Book of Authorities.

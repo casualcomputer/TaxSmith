@@ -1,0 +1,287 @@
+---
+title: "Grewal v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28165/index.do"
+last_modified: "2003-11-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 839"
+citation2: ""
+neutral_citation: "2003 TCC 839"
+decision_date: "2003-11-12"
+language: "en"
+item_id: "28165"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2011
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:31:41.522000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "81615fef52c4fe829585f7509c0ca6557cf8fca70b76bc6f97764ad4a2e5caac"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Grewal v. M.N.R.
+
+- Citation: 2003 TCC 839
+- Decision date: 2003-11-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2011, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grewal v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-12
+Neutral citation
+2003 TCC 839
+File numbers
+2002-4307(EI)
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2003TCC839
+Date: 20031219
+Docket: 2002-4307(EI)
+BETWEEN:
+AMAR GREWAL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+AND BETWEEN:
+Docket: 2002-4308(CPP)
+GURCHARAN GREWAL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+AND BETWEEN:
+Docket: 2002-4309(EI)
+GURCHARAN GREWAL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+AND BETWEEN:
+Docket: 2002-4310(EI)
+HARVINDER SANDHU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+AND BETWEEN:
+Docket: 2002-4311(EI)
+INDERJIT SANDHU O/A S&G FARMS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+AND BETWEEN:
+Docket: 2002-4312(CPP)
+INDERJIT SANDHU O/A S&G FARMS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+AMENDED REASONS FOR JUDGMENT
+Beaubier, J.
+[1] These appeals were heard together on common evidence by consent of the parties at
+Kelowna ,
+British Columbia
+, on October 20, 21 and 22, 2003.
+[2] In general, the facts in dispute are summarized in the Reply to the Notice of Appeal of Inderjit Sandhu in file number 2002-4311(EI). Paragraphs 2 to 7 inclusive thereof read:
+2. In response to the Appellant's appeal of three rulings under section 91 of the Employment Insurance Act, S.C. 1996 c.23 (the "Act"), the Respondent determined that Gurcharan Grewal, Amar Grewal and Harvinder Sandhu were not employed by the Appellant in insurable employment during the periods from May 28 to November 11, 2000 and July 1 to October 20, 2001 (Gurcharan Grewal), from May 28 to October 14, 2000 and July 1 to October 20, 2001 (Amar Grewal) and from September 19 to December 17, 1999, August 6 to November 11, 2000 and July 1 to October 20, 2001 (Harvinder Sandhu) (the "Periods").
+3. In determining that Gurcharan Grewal ("Gurcharan"), Amar Grewal ("Amar") and Harvinder Sandhu ("Harvinder") were not employed in insurable employment with the Appellant during the Periods, the Respondent relied on the following assumptions of fact:
+a) S&G Farms is a partnership between Inderjit Sandhu ("Inderjit") and Amar Grewal;
+b) the Appellant operates a vegetable farm located at
+8915 Island Road ,
+Oliver ,
+BC
+.;
+c) Inderjit and Amar purchased the farm in January 1998;
+d) Inderjit is married to Harvinder;
+e) Amar is married to Gurcharan
+f) Amar and Gurcharan are Harvinder's parents;
+g) the farm property has two houses with Inderjit and Harvinder living in one house and Amar and Gurcharan residing in the other house;
+h) the mortgages for the property are in Amar's name;
+i) the business bank account is in Amar's name;
+j) Amar shared in the potential financial risks of the Appellant;
+k) Amar is a partner in the business;
+l) the Appellant alleges Gurcharan, Amar and Harvinder worked on the farm picking and packing vegetables;
+m) the Appellant did not pay Gurcharan, Amar and Harvinder weekly as reported in the records of employment or their applications for employment insurance benefits;
+n) cancelled cheques issued by the Appellant to Gurcharan, Amar and Harvinder are not in accordance with amounts actually earned;
+o) Gurcharan, Amar and Harvinder have provided conflicting and contradictory information about the work that they performed for the Appellant during the Periods;
+p) the Appellant's records are inaccurate, unreliable and inconsistent with each other;
+q) Gurcharan, Amar and Harvinder did not work the number of hours reported on the records of employment issued by the Appellant; and
+r) Gurcharan, Amar and Harvinder were not employed by the Appellant under a contract of service.
+B. ISSUES TO BE DECIDED
+4. The issue are:
+i) whether Gurcharan, Amar and Harvinder were employed by the Appellant pursuant to a contract of service during the periods; and
+ii) if they were so employed, whether Gurcharan, Amar and Harvinder are excluded from insurable employment on the basis that they do not deal with the Appellant at arm's length.
+C. STATUTORY PROVISIONS RELIED ON
+5. He relies on paragraphs 5(1)(a), 5(2)(i) and 5(3)(b) and subsection 2(1) of the Act, and sections 251 and 252 of the Income Tax Act, as amended.
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+6. He respectfully submits that the Gurcharan, Amar and Harvinder were not employed in insurable employment with the Appellant during the Periods as they were not engaged under a contract of service within the meaning of paragraph 5(1)(a) of the Act.
+7. In the alternative, he submits that the Appellant and Gurcharan, Amar and Harvinder were related and that their employment was excluded employment pursuant to paragraph 5(2)(i) of the Act. He submits that Gurcharan, Amar and Harvinder and the Appellant are not deemed (sic) to be dealing with each other at arm's length within the meaning of 5(3)(b) of the Act as the Minister is not satisfied that, having regard to all the circumstances of the employment, a substantially similar contract of employment would exist if the parties had been dealing with each other at arm's length.
+[3] The following subparagraphs of the assumptions quoted were not refuted: 3b), d), e), f), g), h), i), l), m) and p).
+[4] With respect to Amar Grewal, the farmland purchased in 1997 was purchased in Inderjit's and Amar's names and together they granted a mortgage on it to the Royal Bank of
+Canada
+. This was done because the Royal Bank, according to Amar, "required Amar's name on the title to secure its loan for the purchase". Amar testified that registration of the title in Amar's and Inderjit's names was also done to secure a loan of about $35,000 by Amar to Inderjit to assist Inderjit in the purchase. The accountants then registered the two for GST purposes to avoid paying GST on the price of the land, according to the testimony of Judith McAllister, C.G.A. but thereafter, the accountants filed "NIL" GST returns and Inderjit registered the farm separately for GST purposes and filed the appropriate GST returns under S&G Farms which he had duly registered with the Province and with GST as a proprietorship. Inderjit also testified that the Royal Bank bank account in the names of Inderjit and Amar was never exercised for chequing or other purposes by Amar and nothing refuted that evidence. None of this evidence was submitted to the officials of Human Resources Development Canada ("HRDC") or Canada Customs and Revenue Agency ("CCRA").
+[5] However, Amar testified that he no longer has any title and that it was shared in equal 20 per cent interests among Inderjit Sandhu, Harvinder Sandhu, Binder Kara Sandhu, Niki Kara Sandhu and Sukhminder Kara Gill. He also testified that Inderjit had paid him back the $35,000 and that he had used the money for a trip to
+India
+and to pay for a wedding there. There are no bank records or cheques recording repayment of the $35,000. However Judith McAllister's testimony about the GST registration and the fact that there is no evidence of any cheques on the S&G Farms bank account signed by Amar serve to confirm this testimony. In addition, Inderjit testified that Amar had never reported anything about the farm for income tax purposes – Inderjit has reported everything.
+[6] On this basis, the Court finds that Amar was not a partner in S&G Farms. Rather, he was an employee on the farm.
+[7] Inderjit conducted the appeals for all of the Appellants. He called a total of 21 witnesses, including himself and including a number of the Respondent's officers. Judith McAllister, C.G.A., S&G Farms' accountant testified twice for the Appellants. She is believed respecting her first testimony on the stand. At that time she stated that her firm does the books and payroll for about 120 orchard and ground crop farms in the
+South Okanagan such as S&G Farms. Their computer program records employees' salaries weekly or bi-weekly for all of them, but employers on these farms only pay their employees when they are paid for selling their crops, often at the end of the crop year. She also testified that only non-whites work on the ground crop farms such as S&G Farms' tomato, green pepper and eggplant farm. Usually only a few employees are kept on by these farms, after the crop has been picked, in order to clean up. The heavy employment numbers are during planting, picking and packing. This testimony was supported by most witnesses and was not refuted by any witnesses. It is accepted in its entirety.
+[8] The evidence is that Gurcharan, Amar and Harvinder worked on S&G Farms planting, picking and packing vegetables and the Court accepts that as true. None of the employees of S&G Farms were paid weekly as reported. They were all paid as crops were sold and money was collected. At times during the years in question, S&G Farms employed up to 20 workers. In recent years it has employed as many as 35 workers.
+[9] Various other workers testified that Gurcharan, Amar and Harvinder worked side-by-side with them for S&G Farms and that all were treated the same in their duties, work breaks and other matters. They did not testify about pay or salaries. All of these witnesses have worked for S&G Farms and it appears that some of them have yet to receive Employment Insurance benefits which they applied for respecting their 2002 work for S&G Farms. At least some of them appear to be indigent. S&G Farms' 2002 Employment Insurance records are still the subject of investigation by HRDC.
+[10] The Court accepts the testimony of Bradford Novikoff of Employment Insurance and Narinder Bansal of HRDC that Inderjit said that no one else was working for S&G Farms on the farm when they interviewed him there on July 10, 2001. The Court does not accept the testimony of the Appellants that they were paid any cash on account of wages. Rather, the Court accepts as true the records of wages described hereafter which were paid by cheques. In particular, the Court believes that no allegations of cash payments were made until about two weeks before the hearing date when the Appellants learned that the cheques alleged to be salary payments did not add up to a sufficient amount to equal the necessary total hours to qualify for employment insurance. Furthermore, cheque number 680 for $11,600 and dated December 6, 2000 payable by S&G Farms to Gurcharan Sandhu is found by the Court to have been changed after it was deposited to add the following:
+1. Additional Payee "Amar Grewal"
+2. Addition to "Re" of the words "2000 both"
+(Compare Exhibit R-2, tabs A-11 and B-1).
+As a result, the Court finds that this cheque was originally only made out to Gurcharan Grewal when it was deposited. What it was paid for will be dealt with later.
+[11] In particular, Inderjit Sandhu's testimony is found to be not credible where it conflicts with the testimony of other witnesses or where it conflicts with documentary evidence. Some of the areas where his testimony is not accepted are:
+1. On July 10, 2001, members of the investigating "team" met with him at the farm. Two testified that Inderjit stated that no workers were working that day (see paragraph [10]). They are believed. Inderjit testified that he did not mean all workers, or that he or the team misunderstood each other, or that some were working outside that field, or that he did not understand that to mean family members; he is not believed.
+2. Lillian Callegari, the Appeals Officer on the file testified on October 21, 2003 that, except for the alleged 1999 payments to Harvinder, she never heard of any cash payments to the employees in question until this was raised by the Appellants in their testimony on October 20, 2003. Previously Inderjit advised her that payment was by cheques that he described. The Court finds that none of the Appellants who are alleged to be employees were paid any alleged wages in cash and that any wages paid consisted of the cheques described hereafter for the amounts as found by the Court.
+[12] Respecting Amar Grewal, the periods of alleged employment are May 28 to October 14, 2000 and July 1 to October 20, 2001.
+The gross and net pay alleged for each period is:
+Gross
+Net
+2000
+$7,042.50
+$5,498.72
+2001
+$8,208.72
+$6,521.64
+The only remuneration paid to Amar Grewal is the following:
+2000
+Cheque October 22, 2000
+$4,919.02
+2001
+Cheque October 1, 2001
+Cheque October 28, 2001
+$4,886.13
+$1,274.57
+Total
+$16,160.40
+[13] Respecting Gurcharan Grewal, the alleged periods of employment are May 28 to November 11, 2000 and July 1 to October 20, 2001.
+The gross and net pay alleged for each period is:
+Gross
+Net
+2000
+$9,543.01
+$7,513.98
+2001
+$7,301.58
+$5,862.10
+The alleged remuneration by cheques paid to Gurcharan Grewal is the following:
+2000
+Cheque December 6
+$11,600.00
+2001
+Cheque October 1
+Cheque October 29
+$4,513.53
+$1,002.07
+Total
+$5,515.60
+The cheque for $11,600 was submitted to government officials twice and was changed by the second submission as described in part in paragraph [10] herein. A bank book shows that it was deposited to Harvinder Sandhu's bank account and that $11,535 was paid out of Harvinder's account on December 7. In these circumstances, what the $11,600 represents and whether it or any part of it ever was intended for Gurcharan (Harvinder's mother) is unknown. Nonetheless, Ms. Callegari found that cheque to be problematic. Her findings are accepted.
+[14] The alleged remuneration of Harvinder Sandhu is as follows:
+1999 – Harvinder testified that she received $4,800 in cash - $3,000 on November 25, 1999 and $1,800 on December 20, 1999 and that it was not banked. Rather she used $4,500 to buy furniture. The Court offered her the opportunity to return to the stand the next day with the furniture receipts but Harvinder stated that she was so excited by the purchase that she did not take, or have the receipts. Other than this testimony and an alleged Blueline Sales book sheet which was shown to officials with these entries, there is no proof of this. It is not accepted as true. It is well known that alleged commercial transactions between family members require timely independent substantiation by documents such as cheques, bank records, transfers and independent third party verification. None of that exists respecting these allegations for 1999.
+2000
+Cheque July 31
+$600.00
+Cheque September 9
+Cheque October 25
+$2,500.00
+$1,500.00
+The Court notes that Harvinder allegedly did not commence work until August 6, after the July 31 cheque. She allegedly stopped work on November 11, but her last cheque was on October 25.
+2001
+Cheque October 16
+$4,886.13
+Cheque October 28
+$1,185.80
+Total
+$6,071.93
+The gross and net pay alleged for each period is:
+Gross
+Net
+1999
+$5,928.00
+$4,795.96
+2000
+unknown
+$4,886.13
+2001
+$8,124.48
+$6,460.40
+[15] The evidence is that the various shortages in net pay due to each alleged employee were not referred to by any Appellant until Ms. Callegari's report was given to the Appellants' former counsel about two weeks before the hearing date. Her report itemized the shortages in net pay. Ms. Callegari and the other government officials testified that they first heard about the alleged cash payments (except for the $4,800 allegedly paid to Harvinder in 1999) at the hearing of this appeal on October 20 and 21, 2003. They are believed and the Court does not believe any testimony about cash payments of the differences in net pay allegedly due.
+[16] There are a number of versions of hours reported to various government officials for each alleged employee. One is taken from a calendar for 2001 (Exhibit R-2, Tab A-14) apparently done on a day-to-day basis by Jasminder Grewal which the Court finds was submitted by Inderjit Sandhu to William Harrington of HRDC. There is another allegedly done by each alleged employee. There is a third which Inderjit submitted to Lillian Callegari. On October 21, 2003 a fourth was submitted to the Court by Inderjit Sandhu which he stated was his original payroll record (Exhibit A-2 and A-3, and a summary Exhibit A-4). Cross examination established that these are simply further make-ups by Inderjit. Given Inderjit's lack of credibility, his activities in revising the $11,600 cheque, and the various versions of the other Appellants' hours submitted to various government officials, Lillian Callegari was unable to make any finding as to the actual amounts of hours worked by the three alleged workers in this case. The only difference before the Court is the addition of Exhibits A-2, A-3 and A-4, which are simply a fourth version by Inderjit. They do not make him more credible, and they do confirm Ms. Callegari's problems.
+[17] Paragraph 7 of the Reply to Inderjit's appeal is that, in any event, the employment in question, including Amar's, is excluded by virtue of the relationships. In the Respondent's argument dealing with paragraph 5(3)(b) of the Employment Insurance Act, it was stated that the two prime areas in question are remuneration and hours worked. The Court agrees.
+[18] The Court finds that the Minister of National Revenue (the "Minister") and its representative did not act in bad faith or for an improper purpose or motive; that they did not fail to take into account all of the relevant circumstances; and that they did not take into account any irrelevant factor.
+[19] At trial, the first testimony of Ms. McAllister respecting the ownership and operation of the farm was a new factor which provided evidence that was not given to the Minister – in particular the avoidance or evasive activities respecting the GST on the purchase of Amar's interest. This information would cause the Court to change Amar's status from that of a partner in the farm to that of an employee of Inderjit. But it does not change the Minister's findings respecting Amar's hours or remuneration. If anything, these findings of the questionable matters respecting the hours and remuneration and any activities of Inderjit and Amar relating to them, are confirmed by the Court Hearing.
+[20] As a result, all of the appeals under the Employment Insurance Act are dismissed.
+[21] The only Canada Pension Plan ruling is in respect to Gurcharan. The $11,600 cheque in 2000 does not have a clear relationship to anything respecting any alleged employment of Gurcharan. The two cheques for $4,513.53 and $1,002.07 to Gurcharan in 2001 were ruled to be for amounts less than what was purportedly owed to Gurcharan. However, respecting 2001:
+1. There is no Canada Pension Plan provision comparable to 5(3)(b) in the Employment Insurance Act.
+2. The Rulings Officer found that the total of $5,5515.60 paid to Gurcharan was $346.50 less than was alleged due to her.
+3. Thus, while Gurcharan's hours were questionable, the finding was that, in any event, the $5,515.60 constituted income for services rendered.
+In these circumstances, the Court finds the sum of $5,515.60 to constitute pensionable earnings and the Canada Pension Plan appeals by Inderjit and Gurcharan are allowed respecting this in 2001.
+These Reasons for Judgment are issued in substitution for the Reasons for Judgment dated November 12, 2003.
+Signed at
+Saskatoon
+,
+Canada
+, this 19th day of December 2003.
+"D.W. Beaubier"
+Beaubier, J.
+COURT FILE NO.:
+2002-4307(EI); 2002-4308(CPP); 2002-4309(EI); 2002-4310(EI);
+2002-4311(EI); 2002-4312(CPP)
+STYLE OF CAUSE:
+Amar Grewal v. The Queen; Gurcharan Grewal v. The Queen; Harvinder Sandhu v. The Queen;
+Inderjit Sandhu o/a S&G Farms v. The Queen
+PLACE OF HEARING
+Kelowna
+,
+British Columbia
+DATE OF HEARING
+October 20, 2003
+AMENDED REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF JUDGMENT
+November 12, 2003
+APPEARANCES:
+Agent for the Appellant
+Inderjit Sandhu
+Counsel for the Respondent:
+Bruce Senkpiel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of
+Canada
+Ottawa, Canada

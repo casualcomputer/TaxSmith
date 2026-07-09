@@ -1,0 +1,172 @@
+---
+title: "Delancy c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26240/index.do"
+last_modified: "2004-06-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 465"
+citation2: ""
+neutral_citation: "2004 CCI 465"
+decision_date: "2004-06-24"
+language: "fr"
+item_id: "26240"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4037
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:18:27.975000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e5370ddec5fe42c41291769bb04cafda0c9eecd675c168aaef112585469fb212"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Delancy c. La Reine
+
+- Citation: 2004 CCI 465
+- Decision date: 2004-06-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4037, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Delancy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-24
+Référence neutre
+2004 CCI 465
+Numéro de dossier
+2003-4131(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-4131(IT)I
+ENTRE :
+OTEMAN DELANCY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Toronto (Ontario), le 28 avril 2004.
+Devant : L'honorable J.M. Woods
+Comparutions :
+Avocat de l'appelant :
+Me J.K. Kivisto
+Avocat de l'intimée :
+Me John Grant
+____________________________________________________________________
+JUGEMENT
+L'appel relatif à la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu et de la Loi sur la taxe d'accise pour l'année d'imposition 2000 est rejeté.
+Signé à Ottawa, Canada, ce 24e jour de juin 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+Référence : 2004CCI465
+Date : 20040624
+Dossier : 2003-4131(IT)I
+ENTRE :
+OTEMAN DELANCY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Cet appel se rapporte à la déductibilité des frais de déplacement engagés par un athlète professionnel qui résidait aux États-Unis et qui travaillait au Canada. L'appelant affirme qu'une personne qui maintient une résidence permanente aux États-Unis pendant qu'elle travaille temporairement au Canada devrait avoir le droit de déduire les frais de subsistance engagés au Canada en tant que frais de déplacement raisonnables engagés dans l'exercice de son emploi.
+[2] Pendant l'année d'imposition 2000, Oteman Delancy, professionnellement connu sous le nom d'Oteman Sampson, était membre de l'équipe professionnelle de football des Stampeders de Calgary ainsi que de l'équipe des Argonauts de Toronto. Pendant cette période, l'appelant résidait aux États-Unis; lorsqu'il travaillait au Canada, il logeait dans des hôtels et dans des appartements. Les contrats d'emploi conclus par M. Delancy stipulaient qu'il devait être remboursé des frais de déplacement engagés à l'égard des matchs qui avaient lieu ailleurs qu'au lieu où étaient situés ses clubs d'appartenance; il devait par ailleurs payer ses propres dépenses.
+[3] Dans le calcul du revenu pour l'année d'imposition 2000, M. Delancy a déduit les frais engagés pour des hôtels, des appartements et des repas ainsi que d'autres frais de subsistance, à Calgary et à Toronto, où étaient situés les clubs d'appartenance et où il fournissait probablement la plupart de ses services. Les montants suivants ont été déduits :
+Frais de l'agent 1 500 $
+Aliments, boissons, représentation (50 p. 100) 4 000 $
+Hébergement 7 400 $
+Stationnement 100 $
+Fournitures 500 $
+Téléphone, services publics, électricité 1 800 $
+Total 15 300 $
+[4] Dans une nouvelle cotisation d'impôt pour l'année d'imposition 2000, le ministre du Revenu national a refusé ces déductions et a également refusé une demande de remboursement présentée en application du paragraphe 253(1) de la Loi sur la taxe d'accise. Les parties conviennent que le règlement de la question du remboursement dépend du résultat obtenu pour ce qui est de la question de l'impôt sur le revenu.
+[5] M. Delancy n'a pas assisté à l'audience et personne n'a témoigné pour son compte. Les avocats des deux parties s'entendent pour dire que je devrais accepter en tant que faits les hypothèses émises par le ministre telles qu'elles sont énoncées dans la réponse; c'est ce que j'ai fait.
+Dispositions législatives
+[6] M. Delancy a fait valoir que ses frais de déplacement devraient être déductibles conformément à l'alinéa 8(1)h) ou, subsidiairement, à l'alinéa 115(1)f) de la Loi de l'impôt sur le revenu. Ces dispositions sont ainsi libellées :
+8.(1) Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant :
+[...]
+h) lorsque le contribuable, au cours de l'année, à la fois :
+(i) a été habituellement tenu d'exercer les fonctions de son emploi ailleurs qu'au lieu d'affaires de son employeur ou à différents endroits,
+(ii) a été tenu, en vertu de son contrat d'emploi, d'acquitter les frais de déplacement qu'il a engagés pour l'accomplissement des fonctions de sa charge ou de son emploi,
+les sommes qu'il a dépensées pendant l'année (sauf les frais afférents à un véhicule à moteur) pour se déplacer dans l'exercice des fonctions de son emploi, [...]
+115.(1) Pour l'application de la présente loi, le revenu imposable gagné au Canada pour une année d'imposition d'une personne qui ne réside au Canada à aucun moment de l'année correspond à l'excédent éventuel du montant qui représenterait son revenu pour l'année selon l'article 3
+[...]
+sur le total des montants suivants :
+[...]
+f) lorsque la totalité, ou presque, du revenu de la personne non-résidente pour l'année est incluse dans le calcul de son revenu imposable gagné au Canada pour l'année, les autres déductions permises pour le calcul du revenu imposable et qu'il est raisonnable de considérer comme étant entièrement applicables.
+Alinéa 8(1)h)
+[7] M. Delancy affirme que les frais de subsistance engagés dans les villes où sont situés ses clubs d'appartenance sont déductibles conformément à l'alinéa 8(1)h) de la Loi parce qu'il s'agit de frais de déplacement raisonnables engagés dans l'exercice des fonctions d'un emploi. Je ne suis pas d'accord.
+[8] L'alinéa 8(1)h) a été interprété comme permettant uniquement la déduction des frais de déplacement engagés par un employé qui se rend à un lieu de travail situé ailleurs qu'à son lieu habituel d'emploi : Healy v. R., [1979] C.T.C. 44 (C.A.F.); Chrapko v. R., [1988] 2 C.T.C. 342 (C.A.F.) et Hogg v. R., [2002] 3 C.T.C. 177 (C.A.F.).
+[9] Les frais de subsistance en question ont été engagés dans les villes où l'emploi était habituellement exercé. Le lieu de travail habituel de M. Delancy était situé à Toronto lorsqu'il était membre de l'équipe des Argonauts de Toronto et il était situé à Calgary lorsqu'il était membre de l'équipe des Stampeders de Calgary. L'alinéa 8(1)h) ne lui est donc pas utile.
+[10] M. Delancy affirme qu'étant donné qu'il ne réside pas au Canada, les frais de subsistance engagés pendant qu'il travaille au Canada devraient être acceptés en tant que dépenses raisonnablement reliées à son emploi. À l'appui de cette position, l'avocat me réfère au traitement fiscal américain des frais de déplacement, dans des circonstances analogues. L'avocat a mentionné un guide d'impôt préparé par l'Internal Revenue Service qui traite des frais de déplacement engagés par des personnes qui travaillent temporairement aux États-Unis. Selon le guide, si un non-résident travaille temporairement aux États-Unis, ailleurs qu'à son lieu de travail régulier dans un pays étranger, les frais de déplacement engagés aux États-Unis sont déductibles aux fins de l'impôt sur le revenu américain. Il n'est pas clair selon moi que la position énoncée dans ce document de l'IRS soit analogue aux faits qui sont ici en cause. Le lieu de travail régulier de M. Delancy était situé au Canada et rien ne montre qu'il y ait eu un lieu de travail régulier aux États-Unis.
+[11] Même si des dépenses semblables à celles qui ont été engagées par M. Delancy étaient déductibles aux fins de l'impôt américain, cela n'aiderait pas M. Delancy dans le présent appel. En effet, l'alinéa 8(1)h) limite les circonstances dans lesquelles un employé peut déduire les frais de déplacement. Cette disposition a avec raison été interprétée comme excluant les dépenses engagées par un employé qui se rend à son lieu de travail principal.
+Alinéa 115(1)f)
+[12] M. Delancy fait subsidiairement valoir que les frais sont déductibles conformément à l'alinéa 115(1)f) de la Loi. L'avocat affirme que cette disposition permet à un non-résident de déduire les dépenses raisonnables reliées à son emploi si le non-résident gagne au Canada presque tout son revenu pour l'année.
+[13] Je ne puis retenir l'argument concernant l'alinéa 115(1)f). Si l'alinéa 115(1)f) avait une portée aussi étendue que l'affirme l'avocat, les personnes qui ne résident pas au Canada seraient autorisées à déduire plus de frais d'emploi que les personnes qui y résident. Or, l'alinéa 115(1)f) n'entraîne pas ce résultat.
+[14] La déduction permise en vertu de l'alinéa 115(1)f) s'applique aux déductions dans le calcul du revenu imposable. Selon la définition du « revenu imposable » figurant aux paragraphes 248(1) et 2(2), les déductions qui sont autorisées en vertu de l'alinéa 115(1)f) sont uniquement celles qui sont énumérées à la section C de la Loi. Ces déductions ne comprennent pas les dépenses générales reliées à un emploi et l'avocat n'a pas soutenu que les dépenses déduites par M. Delancy sont mentionnées à la section C. Je ne peux donc pas retenir la prétention selon laquelle l'alinéa 115(1)f) autorise la déduction des dépenses ici en cause.
+Frais de l'agent
+[15] L'avocat de M. Delancy soutient que tous les frais qui ont été déduits sont des frais de déplacement, mais la somme de 1 500 $ versée à l'agent de M. Delancy n'appartient pas à cette catégorie de frais. On ne m'a cité aucune disposition de la Loi qui prévoie une déduction pour ce type de dépense et je conclus donc que la déduction des frais de l'agent est prohibée par l'alinéa 8(2). En vertu de cette disposition, il est interdit au contribuable de se prévaloir, dans le calcul de son revenu d'emploi, d'une déduction qui n'est pas expressément autorisée à l'article 8.
+[16] Pour les motifs susmentionnés, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 24e jour de juin 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI465
+No DU DOSSIER DE LA COUR :
+2003-4313(IT)I
+INTITULÉ :
+Oteman Delancy c. la Reine
+LIEU DE L'AUDIENCE
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 28 avril 2004
+MOTIFS DU JUGEMENT :
+L'honorable J.M. Woods
+DATE DU JUGEMENT :
+Le 24 juin 2004
+COMPARUTIONS :
+Avocat de l'appelant :
+Me J.K. Kivisto
+Avocat de l'intimée :
+Me John Grant
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+J.K. Kivisto
+Cabinet :
+Cabinet d'avocats Kivisto
+Lake Worth (Floride), É.-U.
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,251 @@
+---
+title: "935475 Ontario Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29169/index.do"
+last_modified: "2009-04-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 196"
+citation2: ""
+neutral_citation: "2009 TCC 196"
+decision_date: "2009-04-08"
+language: "en"
+item_id: "29169"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6729
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:23:16.404000+00:00"
+cases_cited_count: 5
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "781addd2c735251578c01c41bafa455e115dfe1605bb0268c4b4e9f5e107e7db"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 935475 Ontario Limited v. The Queen
+
+- Citation: 2009 TCC 196
+- Decision date: 2009-04-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6729, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+935475 Ontario Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-08
+Neutral citation
+2009 TCC 196
+File numbers
+2007-3508(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3508(IT)G
+BETWEEN:
+935475 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on May 16, 2008, at Toronto, Ontario.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the Appellant:
+Richard G. Fitzsimmons
+Counsel for the Respondent:
+Jocelyn Espejo-Clarke
+___________________________________________________________________
+ORDER
+Whereas counsel for the Appellant has brought forward a motion seeking various orders set out in the Reasons for Order;
+And upon hearing the submissions of the parties;
+The motion is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 8th day of April 2009.
+"Gaston Jorré"
+Jorré J.
+Citation: 2009 TCC 196
+Date: 20090408
+Docket: 2007-3508(IT)G
+BETWEEN:
+935475 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Jorré J.
+Order sought
+[1] The Appellant seeks an Order:
+(a) striking out the Reply because it discloses no reasonable grounds for opposing the appeal, and granting judgment accordingly; or, in the alternative,
+(b) for the determination, before hearing, of 2 questions of law or of mixed law and fact, namely, whether in light of facts alleged in the Notice of Appeal and admitted in the Reply,
+(i) the earnout amount described in subparagraph 8(3) of the Notice of Appeal was or was not includible in the Appellant’s proceeds of disposition of its shares of Tech-Trek Ltd. in its 2002 taxation year, or
+(ii) the Appellant was or was not entitled, in its return of income for its 2004 taxation year, to make the election described in paragraph 20 of the Notice of Appeal;
+or, in the alternative,
+(c) striking the following passages from the Reply, to wit:
+(i) in paragraph 5 of the Reply, the words “except that he denies that the Minister’s disallowance was based on the fact that a debt of $1,052,157.00 was not owing to the Appellant.”;
+(ii) in subparagraph 6(b) of the Reply, the words “a capital asset” and “and was therefore a capital debt.”;
+(iii) all of subparagraph 6(d);
+(iv) in subparagraph 6(e), the words “and there is still the possibility of a future increase in the market to make the necessary payments to 2000228 Ontario Inc.”;
+(v) in subparagraph 6(h), the words “providing it with the ability to pay a portion of the note if it so desired;
+(vi) subparagraphs 6(i), (j) and (k); and
+(vii) paragraph 11;
+or, in the further alternative,
+(d) for such additional relief and directions as this Honourable Court may deem just and necessary to enable the Appellant’s appeal to proceed and to secure the just determination of the real matters in dispute.
+Order striking out the Reply
+[2] Part (a) of the motion was not pursued at the hearing.[1] Accordingly, I will not deal with it.
+Determination of a question pursuant to section 58 of the Tax Court of Canada Rules (General Procedure) (the “Rules”)
+Nature of the issues under appeal[2]
+[3] It will be helpful at this stage to briefly outline the nature of the dispute. The Appellant and another corporation, 935474 Ontario Limited (“474”), each owned half of the shares of a company, Tech-Trek Ltd. (“TTL”). Eight employees of TTL incorporated a company, 2000228 Ontario Inc., the buyer. The buyer acquired 49% of TTL’s shares.
+[4] This transaction occurred pursuant to a share purchase and sale agreement between the Appellant, 474, the buyer or corporation and the eight shareholders of TTL. Pursuant to the agreement the purchase price was somewhat more than $3 million and the Appellant and 474 received $1 million plus a promissory note from the buyer for the balance of somewhat over $2 million (the “$2 million”). The promissory note contains various conditions relating to payment of the $2 million. In general terms it provides for the payment of interest on the note from the buyer’s share of TTL’s annual operating profits, net of certain payments, distributed to the buyer corporation after the deduction of a provision for the corporate income tax payable by the buyer corporation on the distribution. 50% of any remaining amount of the distribution to the buyer, after the deduction for tax and the interest payment, is to be paid on account of the principal balance of the note.
+[5] There are also provisions for what will happen on September 30, 201l. Specifically the note provides the following:[3]
+4. Should any amount hereunder for principal, capitalized interest, or interest remain unpaid as of September 30, 2011, the Lender will have the option to repurchase from 2000228 all shares in Tech-Trek owned by 2000228 in consideration of the forgiveness by the Lender of the balance outstanding on this note and a release by the Lender of any other security held by the Lender with respect to such shares and this note, and the existence of such unpaid amount shall not represent a default by 2000228 in respect of its obligations under this note.
+It is not clear from the promissory note what happens if the option is not exercised.
+[6] In its tax return for the 2002 taxation year the Appellant originally reported the entire amount of its share of the sale as a capital gain. It also claimed a capital gain reserve.
+[7] The Minister assessed the return as filed.
+[8] Subsequently, in its 2004 taxation year the Appellant treated its share of the unpaid balance as a bad debt pursuant to paragraph 50(1)(a) of the Income Tax Act (the “ITA”) and reported a capital loss which it applied against the carry-forward of its capital gain reserve. It also asked the Minister to reassess and apply portions of its remaining net capital loss against the capital gains reported in the 2001 and 2002 taxation years. Initially the Minister assessed 2004 as requested and reassessed prior years as requested.
+[9] Subsequently, the Minister reassessed the 2004 taxation year to disallow the Appellant’s paragraph 50(1)(a) election. The Minister also made consequential reassessments to the 2001 and 2002 taxation years.
+[10] One of the Appellant’s arguments is that $2 million of the purchase price is an earnout amount that falls within paragraph 12(1)(g) of the ITA and, accordingly, should not be included in the proceeds of disposition.
+[11] The Minister alleges that the Appellant only objected to its 2002 taxation year to protect its right to carry back a net capital loss from 2004.[4] Put in other terms the Reply alleges that the issue of the application of paragraph 12(1)(g) of the ITA was first raised after the objection stage; it is a new issue before this Court.
+[12] The motion record included a substantial part of the share purchase and sale agreement and the schedule thereto but not the whole agreement.[5]
+Proposed determination of the first question
+[13] The first question submitted for the proposed determination is whether on the facts admitted the $2 million should or should not be included in the proceeds of disposition of the TTL shares. The Appellant says that this amount would be income falling within paragraph 12(1)(g) of the ITA. The Appellant stated that, if it was held that the $2 million amount fell within paragraph 12(1)(g), it would be content to be reassessed on that basis bringing the dispute to an end.[6] If the Appellant failed on the issue, that issue would be resolved leaving the subsection 50(1) issue.
+[14] For reasons which follow immediately below I have, with some reluctance, reached the conclusion that it would not be appropriate for me to order the determination of a question on this issue.
+[15] Paragraphs 4 to 10 of the Notice of Appeal have been admitted including subparagraph 8(3) of the Notice of Appeal which reads:
+[T]he Buyer issued a promissory note to the Appellant and 474 Inc. jointly, in which the Buyer conditionally promised to pay them up to $2,104,313 of possible earnout amounts out of TTL’s future profit distributions, if any, to the Buyer, plus interest at the rate of 7 % per year on the unpaid balance of the earnout amount;
+[16] However, paragraph 11 of the Notice of Appeal is denied in the Reply.[7] Paragraph 11 reads:
+The Sale Agreement and the aforementioned promissory note contemplated that if, by September 30, 2011, the Buyer had not yet been obliged to pay the maximum $2,104,313 possible earnout amounts to the Appellant and 474 Inc., then neither the Buyer nor any of the shareholders of the Buyer would be obliged to pay the shortfall, and neither the Buyer nor any of the shareholders of the Buyer would be considered to be in default of the promissory note or the pledge agreement or the guarantees, but the Appellant and 474 Inc. would have an option to buy back the Buyer’s common shares in TTL for a purchase price equal to the shortfall in the earnout payments.
+[17] Paragraphs 2.2 and 2.3 of the share purchase and sale agreement say:
+2.2 Amount of Purchase Price The purchase price payable by the Purchaser to the Vendors for the Purchased Shares shall be the sum of Three Million One Hundred Four Thousand Three Hundred Thirteen and 17/100, ($3,104,313.17) Dollars to be satisfied in the manner hereinafter set forth.
+2.3 Payment of Purchase Price Payment of the Purchase Price shall be satisfied on Closing by the delivery to the Vendors of:
+(a) a certified cheque or bank draft in the amount of $1,000,000 subject to any adjustments which may be agreed upon by the parties to be made on Closing which shall be made payable to the order of the Vendors or as they may direct; and
+(b) a $2,104,313.17 Promissory Note being in the form annexed hereto as Schedule 2.3(b.1).
+[18] One question that would arise in the course of the proposed determination is whether the amount of $2 million is, in fact, a variable amount based on the profitability of TTL with a maximum amount of $2 million payable or whether it is a fixed price and the profitability of the TTL determines the timing of the payments.
+[19] Paragraph 11 asserts that if the $2 million amount has not become payable by September 30, 2011 then there is no obligation to pay any balance of the $2 million remaining on that date. In denying paragraph 11, the Respondent has clearly disputed what may be an important fact in determining the proposed question of law.
+[20] In addition, paragraph 11 of the Reply alleges:
+He says that if the principal and interest owing under the promissory note remained unpaid as of September 30, 2011 the Appellant and 935474 Ontario Inc. had the option to repurchase from 2000228 Ontario Inc. all the shares of Teck‑Trek Ltd. owned by it NOT “for a purchase price equal to the shortfall in the earn out payments”, as is implied in paragraph 11 of the Notice of Appeal, but the forgiveness of the balance outstanding on the note would itself constitute the consideration for the purchase.
+[Emphasis in original.]
+[21] There is a dispute as to material facts in respect of the proposed question of law to be determined and, accordingly, it is not appropriate to order the requested determination.[8]
+[22] In reaching this conclusion, I have considered the material filed with the motion record, notably the share purchase and sale agreement and those schedules that were reproduced. I have also considered whether the determination could be on the basis of the facts admitted and these materials.
+[23] It may ultimately turn out that the allegations admitted and those materials will form the evidentiary basis for determining the paragraph 12(1)(g) issue. However, there was no agreement that that was the case and counsel for the Respondent pointed out that the sale agreement refers to a number of schedules not all of which are in the material before me. The Respondent stated that it had not seen all the schedules and that the exchange of documents and discoveries had not yet occurred. The other schedules may be relevant to the proper characterization of the terms.[9]
+[24] Whether or not the rest of the agreement turns out to be material, the Respondent is entitled to examine it.
+[25] Given this conclusion, I do not need to consider the other factors to be considered in deciding whether or not to order a determination of this question.
+Proposed determination of a question relating to subsection 50(1) of the ITA
+[26] In its 2004 income tax return, the Appellant elected to have paragraph 50(1)(a) of the ITA apply on the basis that the $2 million was a bad debt.
+[27] The determination of whether a bad debt is established in this case depends on making reasonable judgments on the likelihood of future events over a long period given that the promissory note contemplates payment of the $2 million over a period of more than 10 years with no fixed schedule for payment, that at the end of fiscal 2004 there were some six years left, that there is no allegation that any amount was due and unpaid at that time and that there is no allegation that the business had gone bankrupt or ceased to operate.
+[28] With respect to this question, the Respondent admitted paragraphs 16 to 18 of the Notice of Appeal:
+16. After the Sale Agreement was closed, the electronics component industry in Canada became severely depressed following the collapse of Nortel Industries, and consequently, in TTL’s 2002 fiscal year, its revenues fell by 59 % and its profit before management fees fell by 92 % compared to fiscal 2001.
+17. In the Appellant’s 2003 and 2004 taxation years, because of the fall in TTL’s profitability, the Buyer did not have to pay, and the Appellant and 474 Inc. did not receive, any earnout payment.
+18. In TTL’s 2004 fiscal year, TTL suffered an operating loss of $120,995.
+The Respondent also admitted paragraph 24 of the Notice of Appeal.
+[29] The Respondent denied paragraph 19 of the Notice of Appeal which reads:
+As of the end of the Appellant’s 2004 taxation year, the Appellant determined that the Buyer would not likely ever have to pay any earnout payment to the Appellant or 474 Inc.. When making this determination, the Appellant took pertinent facts into account and acted honestly and reasonably.
+The Respondent did not admit paragraph 25 of the Notice of Appeal.
+[30] The facts admitted in paragraphs 16 to 18 and 24 of the Notice of Appeal are elements that are supportive of the conclusion that there is a bad debt. However, in and of themselves, and absent other information, it is not clear that they are sufficient to establish that the $2 million in question had become a bad debt. Further, the Minister’s Reply pleads a number of assumptions which contain some elements which are supportive of the conclusion that as of the end of the 2004 taxation year the $2 million was not established to be a bad debt. These elements are in subparagraphs 6c) to k) of the Reply:
+c) the promissory note matures on September 30, 2011;
+d) at the maturity of the promissory note, the shares will revert back to the Appellant if the balance outstanding is not paid which will provide the Appellant with some value at that time;
+e) Teck-Trek Ltd. is still in operation even though the net income has declined and there is still the possibility of a future increase in the market to make the necessary payments to 2000228 Ontario Inc.;
+f) 2000228 Ontario Inc. is still an operating legal entity and the corporation is not bankrupt or insolvent;
+g) the shares of Teck-Trek Ltd. were still owned by 2000228 Ontario Inc. and have not reverted back to the Appellant;
+h) 2000228 Ontario Inc. did have taxable income in the year ended March 31, 2004, providing it with the ability to pay a portion of the note if it so desired;
+i) the whole amount of the debt signified by the promissory note had not become uncollectible during the Appellant’s 2004 taxation year;
+j) there were no documented attempts to collect the debt;
+k) the evidence does not support that no amount will be available for repayment in the future;
+[31] While I agree with the Appellant that in the application of paragraph 50(1)(a) the Minister cannot second guess the reasonable business judgment of the Appellant, there must be a reasonable basis to the determination of a bad debt. It is clear on the pleadings that there is a factual dispute and, accordingly, it is not appropriate to order a determination of this question. This question is best left for determination at trial with a full set of facts in evidence.
+[32] As with the previous proposed determination, given this conclusion it is not necessary for me to consider the other factors relating to the decision whether to order, or not, a determination.
+The motion pursuant to section 53 of the Rules
+[33] Turning to the second part of the motion seeking an order striking certain portions of the Reply, it is useful to quote section 53 of the Rules:
+53. The Court may strike out or expunge all or part of a pleading or other document, with or without leave to amend, on the ground that the pleading or other document,
+(a) may prejudice or delay the fair hearing of the action,
+(b) is scandalous, frivolous or vexatious, or
+(c) is an abuse of the process of the Court.
+[34] On its face, it is clear that section 53 is not about striking out poor pleadings but rather about pleadings that will materially harm the litigation process. It sets a high standard.
+[35] It is useful in this context to quote from Chief Justice Bowman, as he then was, in Gould v. The Queen:[10]
+23 Generally speaking, the striking out of portions of a pleading under section 53 of the Rules should be reserved for only the most plain and obvious cases. Matters of weight and relevancy are best determined by the trial judge who will have heard all of the evidence. Frequently the significance of a piece of evidence will not become clear until the end of a case. I repeat what was said in Niagara Helicopters Limited v. The Queen, 2003 D.T.C. 513 at 514-515:
+[6] It is in my view premature at this stage of the proceedings to determine that facts which counsel for the appellant considers to be a relevant and necessary part of the appellant's case are irrelevant. The authorities are undisputed that it is only where it is clear and obvious that a pleading is scandalous, frivolous or vexatious or an abuse of the process of the court that it may be struck out. (Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959 at 980; Erasmus et al. v. The Queen, 91 D.T.C. 5415 at 5416).
+[Emphasis added.]
+[36] The first part of the Reply which the Appellant seeks to have struck is a portion of paragraph 5 which the Appellant says denies something that was not alleged.
+[37] I agree that, on reading properly paragraph 23 of the Notice of Appeal, the Reply denies what is not alleged. I can conceive paragraph 23 being read differently and it may be that the words in question were put in out of an abundance of caution.
+[38] In any event, while denying what is not alleged is not particularly helpful, I find it hard to conceive how this would prejudice or delay a fair hearing or how it would fall within either paragraph 53(b) or (c) of the Rules.
+[39] The Appellant next seeks to have the words “a capital asset” and “and was therefore a capital debt” struck on the basis that these are conclusions of law or if it is a mixed question of fact and law then the relevant facts underlying it should be explicitly stated.[11]
+[40] Several comments are in order. First, this is a mixed question of fact and law and not just a question of law.
+[41] Secondly, the situation here is rather different from the usual situation. The Appellant filed on the basis that the shares were capital property; indeed that was still the basis on which the Appellant’s objection relating to the bad debt was filed. Consequently, this assumption amounts simply to the Respondent confirming the reassessment, in respect of this aspect, on the basis of the position taken by the Appellant in filing its tax return.
+[42] I do not think the comments in Anchor Pointe were intended to cover such a situation and I have some difficulty in understanding why it should be objectionable in such a situation for the Minister to accept the taxpayer’s position. I would add that there can be no prejudice to the taxpayer who knows why it took a particular position in filing its return and what facts it relied upon.
+[43] The next challenged part is subparagraph 6d) of the Reply. The Appellant says it is not an assumption of fact but an argument and a speculation about what will happen.
+[44] Leaving aside the words “which will provide the Appellant with some value at that time”, the rest of the statements appears to be a brief statement of a term of the transaction. Whether or not that finding is correct,[12] there is nothing wrong with briefly setting out terms of an agreement.[13] Terms of agreements are facts; their legal effect is a conclusion of law. It would be preferable to state that one is referring to the terms of the agreement.
+[45] In the circumstances of this case where no one is suggesting that the debtor has ceased to exist or operate and where payment of the debt appears to have been contemplated over a period of several years into the future, the question of establishing a debt to be bad necessarily involves making judgments about the likelihood of future events based on known events as of the end of fiscal 2004.
+[46] The words “which will provide the Appellant with some value at that time” are an argument or the reasoning for inferring a future event, that the Appellant will get something.
+[47] Does it harm the litigation process that the Minister states in the assumptions of facts an inference of fact he made and something of his reasoning? Perhaps it would be better placed elsewhere but I have some difficulty in seeing the significant harm or prejudice. It has the merit of explaining the Minister’s reasoning in confirming. As a practical matter, a statement of reasoning or argument does not affect onus and its merit is only as strong or weak as its inherent logic or lack thereof.
+[48] I cannot see how the test in paragraphs 53(a), (b) or (c) of the Rules is met. Accordingly, it is not appropriate for me to order that subparagraph 6d) be struck. For the same reasons, the words in issue in subparagraphs 6e) and h) should not be struck.
+[49] Moving on to subparagraph 6i), the Appellant’s main thrust is that this is a conclusion of law. The Appellant also takes the position that it is vague and ambiguous.
+[50] Even if the drafting may not be ideal, I find its meaning clear. It is a conclusion of fact and law, not just law. There are factual elements alleged in support of the factual conclusion in prior paragraphs. This again does not give rise to anything meeting the tests in paragraphs 53(a), (b) or (c) of the Rules.
+[51] The motion challenges subparagraph 6j). I would observe that in the context of this dispute, I am not sure how relevant this particular assumption is; however, that is an issue to be dealt with at trial.
+[52] That was not the basis for the Appellant’s challenge. The Appellant’s argument was that it was a conclusion of law, that it was pure argument and presupposed a legal obligation to collect. Given that subparagraph 6j) is in paragraph 6 which is about assumptions of fact, I am unable to read this subparagraph as argument.
+[53] The use of the word “documented” is somewhat surprising, but if one leaves it out, the statement “there were no attempts to collect the debt” appears to be a statement of fact. The addition of the word “documented” raises questions but it appears to amount to no more than “there were no attempts to collect the debt for which documentation exists”.[14] It does not amount to a conclusion of law. I see no reason to strike subparagraph 6j).
+[54] The next subparagraph challenged in the motion is 6k). This is not ideal drafting. Clearly this cannot be a reference to the evidence that will be heard at trial or to all evidence that may exist on the issues; it has to be a reference to the evidence before the Minister in assessing and confirming.
+[55] Subparagraph 6k) amounts to this: the evidence before the Minister in assessing and confirming does not support (the conclusion) that no amount will be available for repayment in the future. The Appellant says this is argument and speculation, not a statement of fact. The Respondent’s counsel acknowledged that it was a conclusion of law as phrased.
+[56] It is not easy to categorize 6k). It may well be argument regarding the evidence seen by the Minister. Viewed in the best possible light, it is not an allegation of fact material to the issues. What matters is whether or not there will be amounts available to repay the debt in the future, not whether the evidence the Minister had in assessing and confirming supports a conclusion one way or another.
+[57] Whatever subparagraph 6k) is, it is not an assumed fact material to the issues.
+[58] Consequently, subparagraph 6k) may be ignored and, as a result, it is hard to see the point of striking it. It is not evident that the criteria of paragraphs (a), (b) or (c) of section 53 of the Rules are met and, accordingly, there will not be an order striking subparagraph 6k) of the Reply.
+[59] It may be useful to emphasize at this stage that if something is in the assumptions which should not be, this does not have the effect of changing or creating an onus which would not otherwise exist.
+[60] Finally, paragraph 11 of the Reply is challenged as argument and stating conclusions of law.
+[61] This paragraph sets out the effect of some of the terms of the sale agreement and denies certain words in paragraph 11 of the Notice of Appeal. Indeed, paragraph 11 of the Reply, in part of the last two lines, is close to the wording of paragraph 4 at the top of page 2 of the promissory note.
+[62] There is nothing wrong with paraphrasing terms of an agreement although it would clearly have been preferable if paragraph 11 of the Reply had made a specific reference to the agreement and promissory note as does paragraph 11 of the Notice of Appeal, although such a reference is implicit in the reference to part of paragraph 11 of the Notice of Appeal. Accordingly, no order will be made with respect to this paragraph.
+[63] Often issues relating to pleadings, particularly the Minister’s, arise because of the impact on onus. It is worth remembering that there are not many cases where the outcome turns on fine points of onus. Normally the trial judge is able to make the necessary findings of fact without recourse to questions of onus.
+Conclusion
+[64] The overall result is that the motion will be dismissed. Costs are to be in the cause.
+Signed at Ottawa, Canada, this 8th day of April 2009.
+"Gaston Jorré"
+Jorré J.
+CITATION: 2009 TCC 196
+COURT FILE NO.: 2007-3508(IT)G
+STYLE OF CAUSE: 935475 ONTARIO LIMITED v. THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 16, 2008
+REASONS FOR ORDER BY: The Honourable Justice Gaston Jorré
+DATE OF ORDER: April 8, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Richard G. Fitzsimmons
+Counsel for the Respondent:
+Jocelyn Espejo-Clarke
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Richard G. Fitzsimmons
+Firm: Fitzsimmons & Company
+Professional Corporation
+Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript, page 72, lines 13-18, and page 7, lines 3-16.
+[2] For these purposes, I am taking account of the material filed with the motion (see paragraph 12).
+[3] Page 2 of the promissory note.
+[4] Paragraph 12 of the Reply.
+[5] The copies of the portions of the agreement included were simply attached and not filed by affidavit. When I asked whether there was any issue with my considering them, counsel for the Respondent did not object (see transcript, page 79).
+[6] Transcript, page 4, lines 2-14.
+[7] Paragraph 2 of the Reply.
+[8] McLarty v. R., [2001] 1 C.T.C. 2087 (FCA) at paragraph 7.
+[9] Most of the unreproduced schedules, based on their titles, do not appear likely to be of relevance although one cannot know without examining them. One of them is entitled “Shareholders' Agreement” and may be relevant.
+[10] 2005 TCC 556, 2005 DTC 1311. See also 1072174 Ontario Ltd. v. The Queen, 2008 TCC 129, at paragraphs 18 to 21.
+[11] Canada v. Anchor Pointe Energy Ltd., 2007 FCA 188, 2007 DTC 5379, at paragraph 26.
+[12] Insofar as the promissory note refers to an option rather than an automatic reversion, this statement of the terms may be wrong, but that is a question for determination at trial.
+[13] See subsection 51(1) of the Rules.
+[14] In any event, discovery is available to ask further about this.

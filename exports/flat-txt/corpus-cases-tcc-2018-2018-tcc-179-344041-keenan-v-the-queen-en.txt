@@ -1,0 +1,273 @@
+Title: Keenan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/344041/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-179-344041-keenan-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-07-04
+
+# Keenan v. The Queen
+
+- Citation: 2018 TCC 179
+- Decision date: 2018-07-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4929, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Keenan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-07-04
+Neutral citation
+2018 TCC 179
+File numbers
+2012-2117(IT)G, 2012-2120(IT)G, 2012-2122(IT)G, 2012-2123(IT)G, 2012-2124(IT)G, 2012-2125(IT)G, 2012-2126(IT)G, 2012-2127(IT)G, 2012-2128(GST)G, 2012-2129(GST)G, 2012-2130(GST)G, 2012-2131(GST)G, 2012-2132(GST)G, 2012-2133(GST)G, 2012-2134(GST)G, 2012-2135(GST)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2012-2127(IT)G
+2012-2129(GST)G
+BETWEEN:
+ROBERT H. KEENAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Dockets: 2012-2120(IT)G
+2012-2134(GST)G
+AND BETWEEN:
+WILLIAM E. ADAMS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Dockets: 2012-2122(IT)G
+2012-2133(GST)G
+AND BETWEEN:
+CHARISMATIC INDUSTRIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Dockets: 2012-2117(IT)G
+2012-2135(GST)G
+AND BETWEEN:
+640950 B.C. LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Dockets: 2012-2123(IT)G
+2012-2128(GST)G
+AND BETWEEN:
+WORLD WIDE GOLF (CANADA) LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Dockets: 2012-2124(IT)G
+2012-2132(GST)G
+AND BETWEEN:
+LANDMARK CAPITAL PARTNERS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Dockets: 2012-2125(IT)G
+2012-2131(GST)G
+AND BETWEEN:
+LANDMARK OIL & GAS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Dockets: 2012-2126(IT)G
+2012-2130(GST)G
+AND BETWEEN:
+PREFERRED CHOICE ACCOUNTING
+SERVICES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on July 4, 2018, at Vancouver, British Columbia
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Agents for the Appellant:
+Robert Harold Keenan
+William E. Adams
+Counsel for the Respondent
+Max Matas
+Mark Schearer
+ORDER
+UPON MOTION made by the Respondent to amend various replies and quash certain appeals;
+AND UPON HEARING submissions from the Respondent and testimony and submissions from Robert H. Keenan, one of the Appellants;
+NOW THEREFORE, IN ACCORDANCE WITH THE WRITTEN REASONS FOR ORDER ATTACHED, THIS COURT ORDERS THAT:
+1. within 30 days of this Order the Respondent may file and serve amended replies in the form and containing the amendments identified as exhibits “A” through “F” inclusive in the affidavit of Barbara Harvey sworn January 22, 2018 and filed with the Court on January 24, 2018 and the amendments identified as exhibits “A” through “C” inclusive in the affidavit of Marc Roy sworn January 11, 2018 and filed with the Court on January 24, 2018, each affidavit itself being Tab 4 and Tab 3, respectively, of the Respondent’s motion record filed January 24, 2018 and referencing the following appeals before the Court:
+(a) Landmark Capital Partners Ltd. v Her Majesty the Queen, 2012-2124(IT)G and 2012-2132(GST)G;
+(b) Landmark Oil & Gas Ltd. v Her Majesty the Queen, 2012-2131(GST)G;
+(c) 640950 B.C. Ltd. v Her Majesty the Queen, 2012-2117(IT)G and 2012-2135(GST)G;
+(d) Preferred Choice Accounting Services Ltd. v Her Majesty the Queen, 2012-2126(IT)G and 2012-2130(GST)G;
+(e) World Wide Golf (Canada) Ltd. v Her Majesty the Queen, 2012-2123(IT)G and 2012-2128(GST)G;
+(f) Robert H. Keenan v Her Majesty the Queen, 2012-2127(IT)G and 2012-2129(GST)G; and
+(g) William E. Adams v Her Majesty the Queen, 2012-2120(IT)G and 2012-2134(GST)G;
+2. the appeals with respect to the reporting periods from January 1, 2001 to December 31, 2002 in the matter of Landmark Capital Partners Ltd. v Her Majesty the Queen, 2012-2132(GST)G under section 12 of the Tax Court of Canada Act, RSC, 1985, c. T-2 (the “Act”) and sections 169 and 171 of the Income Tax Act, RSC 1985, c.1, as amended (the “ITA”) are hereby quashed;
+3. the appeals with respect to the 2002 and 2003 taxation years in the matter of Landmark Oil & Gas Ltd. v Her Majesty the Queen, 2012-2125(IT)G under section 12 of the Act and sections 169 and 171 of the ITA are hereby quashed;
+4. for clarity, the Court’s judgment allowing the appeals in respect of Charismatic Industries Inc. v Her Majesty the Queen: 2012-2122(IT)G and Charismatic Industries Inc. v Her Majesty the Queen: 2012-2133(GST)G, although reflected in the attached common reasons for Order, is granted and cost are awarded by virtue of a distinctly issued judgment; and
+5. there shall be no costs in respect of this specific Order.
+Signed at Toronto, Ontario, this 29th day of August 2018.
+“R.S. Bocock”
+Bocock J.
+Citation: 2018 TCC 179
+Date: 20180829
+Dockets: 2012-2127(IT)G
+2012-2129(GST)G
+BETWEEN:
+ROBERT H. KEENAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Dockets: 2012-2120(IT)G
+2012-2134(GST)G
+AND BETWEEN:
+WILLIAM E. ADAMS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Dockets: 2012-2122(IT)G
+2012-2133(GST)G
+AND BETWEEN:
+CHARISMATIC INDUSTRIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Dockets: 2012-2117(IT)G
+2012-2135(GST)G
+AND BETWEEN:
+640950 B.C. LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Dockets: 2012-2123(IT)G
+2012-2128(GST)G
+AND BETWEEN:
+WORLD WIDE GOLF (CANADA) LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Dockets: 2012-2124(IT)G
+2012-2132(GST)G
+AND BETWEEN:
+LANDMARK CAPITAL PARTNERS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Dockets: 2012-2125(IT)G
+2012-2131(GST)G
+AND BETWEEN:
+LANDMARK OIL & GAS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Dockets: 2012-2126(IT)G
+2012-2130(GST)G
+AND BETWEEN:
+PREFERRED CHOICE ACCOUNTING
+SERVICES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+COMMON REASONS FOR ORDER AND JUDGMENT
+Bocock J.
+[1] The Respondent brings this motion seeking the following distinct orders and/or judgments:
+a) leave to amend the replies in all appeals before the Court, save and except for two appeals: Charismatic Industries Inc., docket 2012-2122(IT)G and docket 2013-2123(IT)G (the “Charismatic appeals”); the Respondent concedes the Charismatic appeals;
+b) to quash the appeals with respect to the reporting periods from January 1, 2001 to December 31, 2002 in the appeal of Landmark Capital Partners Ltd. v. Her Majesty the Queen, 2012-2132(GST)G under section 12 of the Tax Court of Canada Act, RSC, 1985, c. T-2(the “Act”) and sections 169 and 171 of the Income Tax Act, RSC 1985, c.1, as amended (the “ITA”), or in the alternative, granting the Respondent 60 days after the issuance of this Court’s order in this motion to file an amended Reply to the Further Amended Notice of Appeal;
+c) to quash the appeals with respect to the 2002 and 2003 taxation years from the appeal in the matter of Landmark Oil & Gas Ltd. v. Her Majesty the Queen, 2012-2125(IT)G under section 12 of the Act and sections 169 and 171 of the ITA, or in the alternative, granting the Respondent 60 days after the issuance of this Court’s order in this motion to file an amended Reply to the Further Amended Notice of Appeal;
+d) by virtue of the Respondent’s concession at the outset of the hearing of the motions, to allow in full the appeals in the following matters:
+(a) Charismatic Industries Inc., 2012-2122(IT)G; and
+(b) Charismatic Industries Inc., 2012-2133(GST)G.
+I. Background
+[2] These appeals have been contentious and protracted. Commencing in 2002, the Canada Revenue Agency (the “CRA”) began audits and investigations against the Appellants. Aside from criminal prosecutions, the appeals before this Court commenced in 2012. Since that time, there have been motions, cross motions and applications, almost semi-annually.
+[3] The Appellants believe the Respondent has engaged in triune, litigative warfare: criminal proceedings, enforcement remedies and statutory reassessments. The Respondent believes the Appellants, led by a certified general accountant, Mr. Keenan, have obsfucated, resisted and delayed inevitable assessments against him, his business associate and related companies. Two things are clear to this motion judge: there is no goodwill between the parties and neither has quarter been granted nor taken. This is borne out in these motions to amend pleadings, routine in most appeals before this Court. However, in these motions such matters have descended into very adversarial litigation. As such, the best this motion’s Court may hope to do is right the vessel and send it towards next litigation steps.
+II. Motion to amend pleadings
+[4] The motions to amend the notices of appeal in 13 of the 16 actions before the Court objectively further the clarification of the issues in contention before the Court: Canderal Ltd. v Canada, [1994] 1 FC 3, at paragraph 9.
+[5] Examinations for discovery have yet to be held. The Appellants have not submitted their list of documents to the Respondent. These two critical facts suggest there will be no prejudice or injustice suffered by the Appellants: Canderal at paragraph 10. Before the Court, the Appellants argued that they are entitled to know the assumptions and case they face. The proposed amendments clarify and assist in that very way.
+[6] The basis for the Appellants’ opposition to the amended pleadings is that the affiants, two CRA litigation officers, were neither involved in the audits from the outset nor known to the Appellants. Instead, the CRA officers familiarized themselves with the files, provided cogent reasons for the amendments and demonstrated the optimal goal of revealing further the real controversy between the parties that may be achieved by the amendments. Further, the Appellants’ knowledge of the present CRA litigation officers is not relevant unless factual evidence that such representatives was insufficient knowledge to swear out the affidavit. No such evidence was offered by the Appellants.
+[7] Having met this operative legal test for the amendment of pleadings, at an early stage of the litigation, and absent any prejudice or injustice (and likely the opposite) to the Appellants, the Respondent’s motion to amend the replies as submitted is granted.
+III. Motion to quash appeal – No notice of objection for certain reporting periods
+[8] In the appeal, Landmark Capital Partners Ltd. v Her Majesty the Queen, 2012-2132(GST)G (“Landmark Capital”), the Minister of National Revenue (the “Minister”) alleges she received no notice of objection for the reporting periods covering January 1, 2001 to December 31, 2002 (the “disputed periods”). The law concerning tax appeals before this Court is clear. Before appealing to this Court, a taxpayer must file an objection with the Minister within the prescribed time frames. Further, aside from the time frame, the actual service of the notice of objection to an assessment is a right limiting first step to an appeal of an assessment: Bormann v Canada, 2006 FCA 83 at paragraph 3. This authority has been extended to the virtually identical provisions governing the Excise Tax Act, RSC 1985, c. E-15, as amended (the “ETA”): Whitford v Her Majesty the Queen, 2008 TCC 359 at paragraphs 7 and 10. On that basis, the issue before this motion Court is whether the Appellant in this specific appeal concerning the disputed periods first served the Minister with a notice of objection before appealing to this Court. If no, the motion is to be granted and the appeal quashed.
+[9] The Respondent’s evidence consisted firstly of the usual evidence normally placed before this Court in such motions and opposed extension applications: an affidavit of a CRA official who swore, after careful examination, no record of a notice of objection was found in CRA records. Consistently, the affiant swears just that: no notices of objection respecting the disputed periods were received.
+[10] The evidence did not end there. The affidavit also attached the Appellants’ notice of objection served on and received by the Minister. It was prepared by legal counsel. Such notice of objection was otherwise complete and explicit. It specifically referenced within an accompanying covering letter, in bold face print, the reporting periods commencing January 1, 2003 and ending September 30, 2006. Further, the covering letter referenced the notice of reassessment dated August 9, 2010. The total amount of tax reassessed referenced in the covering letter of counsel and the attached August 9, 2010 reassessment agree: $84,655.84. As well, both these documents address the same reporting periods which are the subject matter of the notice of reassessment: commencing January 1, 2003 through to December 31, 2006. None of these three documents (two created by the Appellants or their counsel) include the disputed periods.
+[11] The Appellants provided no evidence of a served notice of objection for the disputed periods. The Appellant did not advance the assertion that a notice of reassessment was neither issued nor sent. The Appellants’ agent did assert that the Appellant was misled by a letter dated October 17, 2003 from the CRA which indicated generally that: “However, these sections [which concerned input tax credits] do not apply to Landmark Capital as you have explained your business activities during the audit”. However confused the Appellants may have been, there is no justification for such reliance since it did not relate to a notice of assessment related to the disputed periods.
+[12] Overall, there is no evidence that the Appellants filed a notice of objection or sought an order to extend the time to file such a notice of objection until the hearing of this very motion, and then only through oral submissions.
+[13] In contrast, the Respondent’s evidence details the objection history from both the taxpayer and Minister’s perspective. The absence of a notice of objection has been raised and contested by the Respondent from the outset. The Respondent raised the non-filing of an objection in its original reply correctly identifying the disputed periods. Landmark Capital’s notice(s) of objections were responsive to a specific reassessment, covering precise reporting periods commencing after the disputed periods, emanating from the audit and investigation. Such reassessment and served objection consistently and accurately reflect that and did not include the disputed period. Whatever objection the Appellant wished to make in respect of the disputed periods were not made until the hearing day of this motion. On balance, the Court concludes no notice of objection was served on the Minister responsive to the disputed periods. As such, the condition precedent of section 302 of the ETA has not been met. Therefore, the appeal with respect to the reporting period(s) January 1, 2001 until December 31, 2003, being the disputed periods, is quashed.
+IV. Motion to quash “Nil Assessment” appeals
+[14] The Minister assessed Landmark Oil & Gas Ltd. (“Landmark Oil”) for its taxation years 2002 and 2003 by separate reassessments on the same date: November 15, 2010. The notices of reassessment were produced as exhibits to a CRA officer’s affidavit; both notices of reassessment assessed no further tax (the “Nil Assessments”).
+[15] The law regarding an appeal of Nil Assessments is clear: there is none: Bormann at paragraphs 7 and 8; Bérubé v The Queen, 2014 TCC 304 at paragraph 50. Where there is no assessed tax, there is simply no subject in dispute.
+[16] The Appellant opposed this motion on the basis that there may be a disputed loss determination in issue, additional disallowance of expenses embedded within the Nil Assessments and the reliance within the Nil Assessments upon various assertions made by CRA officers.
+[17] There was no evidence before the Court of a request and/or denial of a loss determination, of additional disallowed expenses or reliance on anything beyond details within the Nil Assessments concerning Landmark Oil. As such, the motion is granted and the appeal of Landmark Oil, 2016-2126(IT)G, relating to the 2002 and 2003 taxation years, is also quashed.
+V. The Charismatic appeals
+[18] The Respondent has conceded these appeals. The Appellant acknowledges this, but has three primary concerns which the Court summarizes as follows:
+(i) the risk of a loss of relevancy for collateral facts involving Charismatic Industries Inc. (the “Charismatic appeals”) during the trial of the remaining appeals;
+(ii) the conduct of the Respondent, her agents, counsel and officers in failing to recognize a faulty reassessment sooner in the Charismatic appeals; and
+(iii) the need for enhanced costs given the 16 or more years between the commencement of investigation and litigation and the present admission and concession relating to the erroneous reassessments.
+[19] The existence of correlated facts relating within the Charismatic appeals and the other Appellants is not a valid reason logically or theoretically for the Appellant, Charismatic, or any other Appellant to resist judgment in the Charismatic appeals. Logically, it removes two appeals from the mix and grants the Appellant, Charismatic, two successful appeals. Nothing prevents the Appellants from raising collateral or correlated evidence involving Charismatic provided such evidence satisfies the usual tests of relevance, probative value and reliability during the trial process of the remaining appeals. Theoretically, the Minister’s assumptions in the Charismatic appeals no longer exists and the Minister has conceded Charismatic’s filing position in the two appeals which have now been decided, albeit by concession, in favour of Charismatic.
+[20] The issue of any late concession by the Minister and the length of proceedings are best dealt with in costs. While frequently such costs are dealt at the conclusion of the entire cause, the Minister’s concession is unilateral, unprompted and based upon a simple acknowledgement: the reassessment was issued after dissolution of the taxpayer, based upon mistaken conclusions and assumptions and were invalid. As such the Appellant, Charismatic, has been entirely successful. The Court shall award costs on this motion in Charismatic’s favour.
+[21] Historically, the Minister seems to have painted Charismatic with a broad brush. Perhaps this was understandable. However, the notice of confirmation dated March 5, 2012 seems oddly formulaic and did not raise or address the dissolved status of Charismatic or the status of returns of income filed. While not particularly egregious, the conduct is inattentive and possibly careless. It fits nicely within the Appellants’ “aggrieved taxpayer” self-view. Moreover, it possibly influences the Appellants’ intransigence on matters which otherwise should be greeted with consent: to wit, the motions to amend.
+[22] Judgment is rendered in favour of Charismatic, in essence to its successor(s) at law. The reassessments under the appeal are vacated. Costs are awarded to the Appellant, Charismatic, in the amount of $5,000.00 in total, $2,500.00 for each appeal.
+VI. Conclusions and costs
+[23] At the conclusion of the motions, Mr. Keenan, who has represented the Appellants throughout, broadly requested the motions be “stayed” on the basis that:
+(i) his recently filed notices of constitutional questions should take precedence over these procedural motions;
+(ii) a determination of the constitutional questions will result in all appeals being quashed (presumably Mr. Keenan meant the reassessments vacated or appeals granted);
+(iii) the Appellants wished to amend all of their notices of appeal and strike all pleadings of the Respondent, and
+(iv) the recent recusal of a case management judge in response to accusations of bias has “nullified all proceedings” to date.
+[24] Quite apart from whether there is any legal basis for the assertions above, which the Court doubts, not one of the assertions for delay in these motions is justified. The resulting orders and judgments provided for herein assist both parties and clarify the dispute. In the case of two matters, they allow the appeals. The remaining appeals are moved along, matters have become appropriately less cluttered and, any subsequent motions, constitutional or otherwise (quite apart from their merits), are not prejudiced, compromised or delayed. In fact, quite the opposite occurs. Granting the sought “stay” shunts aside these procedural resolutions. Any gained clarity and added simplicity would be lost. There shall be no such “stay”.
+[25] For all these reasons, the various orders and judgments are as summarized throughout and shall be issued. Aside from the costs in the Charismatic appeals, there shall be no further costs. The Court has otherwise balanced the award of costs amongst in the various motions and the outcomes.
+Signed at Toronto, Ontario, this 29th day of August 2018.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2018 TCC 179
+COURT FILE NOs.:
+2012-2127(IT)G, 2012-2129(GST)G, 2012-2120(IT)G, 2012-2134(GST)G, 2012-2122(IT)G, 2012-2133(GST)G, 2012-2117(IT)G, 2012-2135(GST)G, 2012-2123(IT)G, 2012-2128(GST)G, 2012-2124(IT)G, 2012-2132(GST)G, 2012-2125(IT)G, 2012-2131(GST)G, 2012-2126(IT)G, 2012-2130(GST)G
+STYLES OF CAUSE:
+ROBERT H. KEENAN, WILLIAM E. ADAMS, CHARISMATIC INDUSTRIES INC., 640950 B.C. LTD., WORLD WIDE GOLF (CANADA) LTD., LANDMARK CAPITAL PARTNERS LTD., LANDMARK OIL & GAS LTD., PREFERRED CHOICE ACCOUNTING SERVICES LTD.,
+AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+July 4, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+August 29, 2018
+APPEARANCES:
+Agent for the Appellant:
+Robert Harold Keenan
+William E. Adams
+Counsel for the Respondent:
+Max Matas
+Mark Schearer
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Robert Harold Keenan
+William E. Adams
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

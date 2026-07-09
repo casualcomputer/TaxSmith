@@ -1,0 +1,185 @@
+---
+title: "Atutornu v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/71808/index.do"
+last_modified: "2014-05-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 174"
+citation2: ""
+neutral_citation: "2014 TCC 174"
+decision_date: "2014-05-28"
+language: "en"
+item_id: "71808"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5381
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:44:00.345000+00:00"
+cases_cited_count: 1
+cases_citing_count: 18
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5574a25ad77b39fe58b18cf427a6607823b1beeb26b65c91829c534ee3e74d9e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Atutornu v. The Queen
+
+- Citation: 2014 TCC 174
+- Decision date: 2014-05-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5381, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Atutornu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-05-28
+Neutral citation
+2014 TCC 174
+File numbers
+2012-1148(IT)I, 2012-975(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1148(IT)I
+BETWEEN:
+RASPER I. ATUTORNU,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+Appeal heard on common evidence with the appeal of Peace Q. Atutornu 2012-975(IT)I on May 5, 2014, at Toronto, Ontario.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+H. Annette Evans
+Lindsay Beelen
+JUDGMENT
+For the attached reasons for judgment, the appeal from the reassessment made under the Income Tax Act for the 2009 taxation year is dismissed, without costs.
+The Court draws to the appellant’s attention the fact that a waiver of the penalty and interest may be sought from the Canada Revenue Agency pursuant to the taxpayer relief provisions in subsection 220(3.1) of the Income Tax Act. This Court has no role in relation to such applications. Such an application is made to the Agency; the Agency publishes an information circular (IC07-1) as well as a form (RC4288) for making taxpayer relief applications.
+Signed at Ottawa, Ontario, this 28th day of May 2014.
+“Gaston Jorré”
+Jorré J.
+Docket: 2012-975(IT)I
+BETWEEN:
+PEACE Q. ATUTORNU,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+Appeal heard on common evidence with the appeal of Rasper I. Atutornu 2012-1148(IT)I on May 5, 2014, at Toronto, Ontario.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+H. Annette Evans
+Lindsay Beelen
+JUDGMENT
+For the attached reasons for judgment, the appeal from the reassessment made under the Income Tax Act for the 2009 taxation year is dismissed, without costs.
+The Court draws to the appellant’s attention the fact that a waiver of the penalty and interest may be sought from the Canada Revenue Agency pursuant to the taxpayer relief provisions in subsection 220(3.1) of the Income Tax Act. This Court has no role in relation to such applications. Such an application is made to the Agency; the Agency publishes an information circular (IC07-1) as well as a form (RC4288) for making taxpayer relief applications.
+Signed at Ottawa, Ontario, this 28th day of May 2014.
+“Gaston Jorré”
+Jorré J.
+Citation: 2014 TCC 174
+Date: 20140528
+Dockets: 2012-1148(IT)I
+2012-975(IT)I
+BETWEEN:
+RASPER I. ATUTORNU,
+PEACE Q. ATUTORNU,
+appellants,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+[1] These two appeals were heard on common evidence. The appellants appeal from reassessments with respect to the 2009 taxation year.
+[2] Although the name “fiscal arbitrator” did not come up at the hearing these cases look a lot like cases that have been referred to as “fiscal arbitrator” cases.
+[3] The reassessments disallowed substantial deductions claimed on line 232, “Other deductions”. In the tax return of each party after the word “specify” on the preprinted form, the words “DUE TO ANIMATOR AS AGENT” were added to the form.
+[4] In the case of Rasper, the deduction claimed was $87,109.66. In the case of Peace, the amount claimed was $50,698.79.
+[5] As a result of these deductions on line 232, the appellants filed returns claiming that they were not liable to any federal or Ontario income tax whatsoever and claiming a refund of all tax withheld.
+[6] In support of this claim at Tab 1 of Exhibits R-1 and R-2, respectively, are documents entitled “Notice of Usage” (at page 4) and “Annual Statement for Agent’s Activities” (at page 5).
+[7] These documents are meaningless. For example, in the case of Rasper, Rasper is both the agent and the animator and, based on nonsensical calculations, the “Annual Statement for Agent’s Activities” concludes that Rasper, as animator, owes Rasper, as agent, $87,109.66. This amount of $87,109.66 is then claimed on line 232.
+[8] There is absolutely no doubt that the appellants are not entitled to these deductions.
+[9] The Minister of National Revenue (Minister) also imposed gross negligence penalties on the appellants pursuant to subsection 163(2) of the Income Tax Act.
+[10] The appellants’ evidence was that they relied on a tax expert named Roger who prepared their returns and whose family name they could not remember at the hearing.
+[11] They gave Roger the information he asked them for, including T4 slips, and their bank statements, including Interac transactions.
+[12] The evidence is quite clear that the appellants simply relied on Roger. They did not read or review their returns. All they did was sign where Roger told them to sign.
+[13] The appellants also paid Roger 20% of their refunds for his services.
+[14] Rasper testified that he was happy when he got his refund.
+[15] Rasper works as a registered practical nurse and as a nurse. He obtained a college degree in economics from the University of Ghana and a master’s degree in governance and administration from the University of Antwerp.
+[16] He has a diploma in nursing from Humber College and has subsequently taken courses in the nursing field.
+[17] Peace works as a personal support worker. She completed secondary school in Ghana and took a personal support worker course at a college in Canada.
+[18] The law in this area has recently been thoroughly canvassed by Justice C. Miller in Torres v. The Queen, 2013 TCC 380. There is no need for me to repeat what was said there.
+[19] There is no doubt that there was a misstatement on line 232.
+[20] A conclusion that there was wilful blindness by the appellants is unavoidable and, as a consequence, they were clearly grossly negligent.
+[21] We live in a self-assessment system and the appellants made no effort to verify the accuracy of their returns.
+[22] Yet, had they made any effort, there would have been numerous red flags on reading the returns prepared by Roger.
+[23] Just to give some examples, on the “Annual Statement for Agent’s Activities” at the top, I find it impossible to accept that they would not have had doubts about the description of the service provided as “Agent as a Transmitting Utility” or that they would not have had doubts about the existence of the contract referred to. More generally, I cannot believe that, if they made any effort to comprehend their returns, they would not have questioned this whole bizarre relationship where they are apparently dealing with themselves as both animator and agent.
+[24] Finally, another example of a red flag is the wording added to the signature page of the tax returns, just to the right of the signature, which says:
+ALL RIGHTS RESERVED WITHOUT PREJUDICE UCC 1-308, NON ASSUMP SIT CONTRACT, WITHOUT COMPREHENSION
+Done for the Agent by the Animator
+[25] In their circumstances, it is hard to understand how the appellants came to sign their returns. The complete failure to ask any questions or review the returns, when only a little effort would have raised several red flags, clearly shows wilful blindness.
+[26] Accordingly, the Minister’s reassessments are correct and the appeals will be dismissed.
+[27] Before concluding, I should deal briefly with two matters.
+[28] First, the appellants suggested that the Canada Revenue Agency was at fault because it had a duty of care to prevent them from getting refunds to which they were not entitled and, accordingly, they should not be penalized.
+[29] This argument is unfounded. The penalties under subsection 163(2) would be applicable even if the Canada Revenue Agency had intercepted the claims and had never paid the refunds. It does not require that the taxpayer actually benefit from the false statement.
+[30] Further, the section imposes a penalty if two elements are met. There must be a false statement and that statement must have been made knowingly or under circumstances amounting to gross negligence. Both requirements are met here.
+[31] Second, the appellants alleged that they were facing hardships and asked that that be taken into account.
+[32] I appreciate that the penalties are severe ones; however, as I said at the hearing, that is not something I can consider. The only question I can decide on the penalties is whether they are well founded or not. I cannot adjust the amount.[1]
+Signed at Ottawa, Ontario, this 28th day of May 2014.
+“Gaston Jorré”
+Jorré J.
+CITATION:
+2014 TCC 174
+COURT FILE NOS.:
+2012-1148(IT)I
+2012-975(IT)I
+STYLE OF CAUSE:
+RASPER I. ATUTORNU,
+PEACE Q. ATUTORNU,
+v. THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 5, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT:
+May 28, 2014
+APPEARANCES:
+For the appellants:
+The appellants themselves
+Counsel for the respondent:
+H. Annette Evans
+Lindsay Beelen
+COUNSEL OF RECORD:
+For the appellants:
+Firm:
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Having said that, the scale of the penalties in the circumstances of the appellants seems very high and I have concerns about the consequences for the appellants. While I have no doubt that the penalties are well founded, the appellants are also victims. I note that what would have been red flags for the appellants are very much red flags for the Canada Revenue Agency as well.
+Perhaps the government and Parliament might wish to reconsider the scheme of civil penalties. I note that up until 1988, the penalty in subsection 163(2) was 25% instead of the current 50%. The predecessor subsection to subsection 163(2) was subsection 56(2) of the pre-1971 Income Tax Act; subsection 56(2) was enacted in 1960 and also set the penalty at 25%.

@@ -1,0 +1,161 @@
+Title: Landry c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26710/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-106-26710-landry-c-m-r-n-en.md
+Document type: case_law
+Last modified: 2005-02-16
+
+# Landry c. M.R.N.
+
+- Citation: 2005 TCC 106
+- Decision date: 2005-02-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3456, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landry c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-16
+Neutral citation
+2005 TCC 106
+File numbers
+2004-2504(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-2504(EI)
+BETWEEN:
+LOUISE LANDRY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on December 17, 2004 at Montreal, Quebec
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Antonia Paraherakis
+____________________________________________________________________
+JUDGMENT
+The appeal is denied and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 16th day of February 2005.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 22nd day of August 2005.
+Elizabeth Tan, Translator
+Citation: 2005TCC106
+Date: 20050216
+Docket: 2004-2504(EI)
+BETWEEN:
+LOUISE LANDRY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+SavoieD.J.
+[1] This appeal was heard at Montreal, Quebec, on December 17, 2004.
+[2] The issue is whether Nathalie Tremblay, the Worker, performed insurable employment while working for the Appellant from August 23, 1999, to August 15, 2003, the period in question.
+[3] On March 10, 2004, the Minister of National Revenue (the "Minister") informed the Appellant of his decision that the Worker performed insurable employment during this period.
+[4] Moreover, the Minister informed the Appellant that the Worker performed insurable employment for 2,142 hours during the last 52 weeks of the period in question and that her insurable wages for the last 27 weeks of the period was $6,760.00.
+[5] In rendering his decision, the Minister relied on the following assumptions of fact:
+[translation]
+(a) the Appellant operated a home-based childcare service; (admitted)
+(b) she was associated with a Centre de la petite enfance; (to be completed)
+(c) during the period in question, the Appellant was the sole owner of the business; (admitted)
+(d) the children were cared for at the Appellant's residence; (admitted)
+(e) there were up to nine children at a time; (admitted)
+(f) the children were from 1 to 5 years old; (admitted)
+(g) provincial standards for home-based childcare services state that one person may care for up to six children and two people may care for up to nine; (to be completed)
+(h) during the period in question, the Worker was the Appellant's assistant; (to be completed)
+(i) she worked at the Appellant's residence; (admitted)
+(j) she worked from 9:00 a.m. to 5:30 p.m., Monday to Friday, for 8.5 hours a day; (admitted)
+(k) she worked under the Appellant's supervision; (denied)
+(l) the Appellant provided the Worker with all the equipment required for her work; (denied)
+(m) she paid the Worker $250.00 a week at the beginning of the period and then $255.00 and $260.00 afterwards; (denied)
+(n) during the last 52 weeks for the period in question, the Worker worked for 2,142 hours, specifically, 252 days of 8.5 hours; (admitted)
+(o) during the last 27 weeks of the period in question, the Worker received $6,760.00 from the Appellant for 23 weeks of 5 days at $260.00, 3 weeks of 4 days at $210.00, and one week of 3 days at $150.00. (admitted)
+[6] From the evidence, it was determined that the Appellant operated a daycare recognized by the Centre de la petite enfance (CPE). The Appellant claims that she was not running a daycare but a home-based childcare service. She stated at the hearing that the Worker was not her assistant but a responsible assistant just as she was, in particular since 2002, when her status as responsible assistant was recognized. This gave her a $5 a week salary increase.
+[7] The Appellant claims that the Worker did not work under her direction and, contrary to the Minister's claims, she did not provide all the equipment because the Worker supplied games and a table for the children's games.
+[8] The Appellant explained that, in addition, instead of paid compensation for the Worker, they shared the profits and grants.
+[9] The childcare service's compensation ccame from two sources: first, the parents, and second, the CPE that paid a grant upon presentation of an attendance report signed by the Appellant and the Worker, who shared the income. The Appellant received the income from caring for six children and the Worker for the three others, minus the Appellant's expenses for these children.
+[10] Except for the two items mentioned above, the Appellant provided the rest of the furnishings used at the childcare service, as well as the premises.
+[11] It was established that only the Appellant signed the child care contract with the parents.
+[12] The evidence showed that the Appellant established the service's schedule of activities and that the Worker was subject to follow it. But the Appellant states that the Worker could have changed it.
+[13] It was established that the Appellant and the Worker had a very good relationship. The Appellant stated at the hearing that in cases of potential conflict between them, she could not foresee dismissing her. But, pushed to the limit during the cross-examination, she admitted that she could have asked her to leave.
+[14] The business' premises were provided by the Appellant at her residence and the related expenses were hers. In addition to the furnishings, except for the two articles identified above, she was responsible for the electricity, heating and insurance costs, food expenses for everyone including the children and the Worker, strollers for the children, telephone and snow removal expenses-in short, all the expenses. The Worker did not pay any rent and did not contribute in any way to the Appellant's other expenses. It was established that the Appellant was even responsible for the Worker's liability insurance.
+[15] All the notices from the CPE were addressed to the Appellant, including the grant.
+[16] At the hearing, the Worker stated that in the beginning, her choice was to work as an employee, but she had to comply with the Appellant's wishes, which were not the same. She also stated that she did not really have a choice as to the schedule. She notified the Appellant if she was running late, which was rare. From time to time, to change the schedule, the two would discuss it and come to an agreement.
+[17] The Worker had two weeks' paid vacation per year. The Appellant also paid her statutory holidays. She confirmed that she did not contribute to the business' expenses in any way, including the food.
+[18] She stated that she agreed to work as a self-employed person because it was the only way to work for the Appellant.
+[19] The Worker also stated that she did not invest anything in the Appellant's business.
+[20] The Appellant asks this court to reverse the Minister's decision that the Worker performed insurable employment in accordance with paragraph 5(1)(a) of the Employment Insurance Act (the "Act"). Paragraph 5(1)(a) of the Act states:
+5.(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+...
+[21] The case law has established criteria to follow when determining if there is a contract for services. These were set out in Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553. In this decision, the Federal Court of Appeal established these four criteria:
+1. control of the worker by the employer;
+2. ownership of tools;
+3. chance of profit and risk of loss;
+4. integration.
+[22] The Supreme Court of Canada used the same criteria in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, where Major J. stated:
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuiganJ.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+[23] Moreover, in Charbonneau v. Canada (Minister of National Revenue - M.N.R.), [1996] F.C.J. No. 1337, the Federal Court of Appeal relied on the same principle, stated in the following terms, per Décary J.:
+The test laid down by this Court in Wiebe Door Services Ltd. v. M.R.N., [1986] 3 C.F. 553 (C.A.F.), on the one hand, the degree of control, the ownership of the tools of work, the chance of profit and risk of loss, and on the other, integration - are not the ingredients of a magic formula. They are guidelines which it will generally be useful to consider, but not to the point of jeopardizing the ultimate objective of the exercise, which is to determine the overall relationship between the parties. The issue is always, once it has been determined that there is a genuine contract, whether there is a relationship of subordination between the parties such that there is a contract of employment or, whether there is not, rather, such a degree of autonomy that there is a contract of enterprise or for services...
+[24] In the present case, if we review the facts under the control criterion, it is not obvious. However, it was established that the schedule was set by the Appellant and that the Worker, voluntarily or not, was subjected to it. Whenever there was some flexibility in the set schedule, it was always with the Appellant's approval and permission. The evidence showed that the Worker was skilled and that from 2002 had the same certification as the Appellant. Therefore, supervising the Worker was not required. The Appellant did state, however, that in case of a conflict, if one were to arise, she could dismiss the Worker.
+[25] Reviewed under the second criterion, ownership of tools, the evidence showed that the business' activities were carried out in the Appellant's residence, where space had been provided for the activities. Therefore, the Appellant provided the premises and furnishings and was responsible for all the expenses related to the premises as indicated above, including the Worker's insurance coverage. As for the Worker, she only supplied two items-a table and some toys.
+[26] As for the chances of profit and risk of loss, it is clear, according to the evidence, that the childcare service was the Appellant's and the clients were hers. The evidence showed that if problems arose at the CPE level, the Appellant would be contacted, not the Worker. The Appellant provided everything that was necessary for the business, including the premises and furnishings and paid all the expenses related to the physical property and the business, including insurance. The Appellant even provided the clients. Therefore, the only person who had a risk of loss and chance for profit was the Appellant.
+[27] When reviewed under the integration criterion, the facts clearly established that the worker's duties were, in fact, integrated into the Appellant's business. According to the facts, it cannot possibly be interpreted that the Worker operated her own business.
+[28] Based on the facts under the above-mentioned criteria, it is difficult to come to a conclusion other than a confirmation that the worker's duties met all the criteria that establish she was employed under a contract for services.
+[29] The federal court of appeal ruled on the role of the judge who presides over an appeal of a Minister's decision in Légaré v. Canada(Minister of National Revenue - M.N.R.), [1999] F.C.A. No. 878. In this decision, Marceau J. stated:
+...The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[30] This Court finds that the Appellant's intention was clear: to offer a job to the worker as a self-employed worker. At first, the worker wanted to be a paid employee, but she complied with the Appellant's wishes. How much importance should the Court give to the parties' intentions? In the Federal Court of Appeal decision, Standing v. Canada(Minister of National Revenue - M.N.R.), [1992] F.C.A No. 890, Stone J. stated:
+...With respect, it is our view that this application must succeed. Regardless of what may have been the Tax Court's appreciation of the WiebeDoor, test, what was crucial to it in the end was the parties own post facto characterization of the relationship as that of employer/employee. There is no foundation in the case law for the proposition that such a relationship may exist merely because the parties choose to describe it to be so regardless of the surrounding circumstances when weighed in the light of the Wiebe Door test.
+[31] In accordance with this analysis, the Court feels that the worker was employed under a contract for services within the meaning of paragraph 5(1)(a) of the Act, and that she performed insurable employment during the period in question. The Court also finds that during the last 52 weeks of the period in question, the worker worked 2,142 hours, that is 252 days of 8.5 hours. Moreover, during the last 27 weeks of the period in question, the worker received $6,760.00, that is 23 weeks of five days at $260.00, three weeks of four days at $210.00, and one week of three days at $150.00.
+[32] As a result, the appeal is dismissed and the Minister's decision is confirmed.
+Signed at Grand-Barachois, New Brunswick, this 16th day of February, 2005.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 22nd day of August 2005.
+Elizabeth Tan, Translator
+CITATION:
+2005TCC106
+COURT FILE No.:
+2004-2504(EI)
+STYLE OF CAUSE:
+Louise Landry and M.N.R.
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+December 17, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable S.J. Savoie,
+Deputy Judge
+DATE OF HEARING:
+February 16, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Antonia Paraherakis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

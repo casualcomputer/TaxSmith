@@ -1,0 +1,136 @@
+Title: Morris c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71776/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-142-71776-morris-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-05-09
+
+# Morris c. La Reine
+
+- Citation: 2014 CCI 142
+- Decision date: 2014-05-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5372, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morris c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-05-09
+Référence neutre
+2014 CCI 142
+Numéro de dossier
+2013-4440(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-4440(IT)I
+ENTRE :
+ALAN R. MORRIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 7 mars 2014 à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Aman Sandhu
+JUGEMENT
+Les appels relatifs aux cotisations établies en vertu de la Loi de l’impôt sur le revenu en rapport avec les années d’imposition 2009 et 2010 sont accueillis, sans dépens, et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs du jugement ci‑‑joints.
+Signé à Ottawa, Canada, ce 9e jour de mai 2014.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 23e jour de juillet 2014.
+Claude Leclerc, LL.B.
+Référence : 2014 CCI 142
+Date : 20140509
+Dossier : 2013-4440(IT)I
+ENTRE :
+ALAN R. MORRIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Il s’agit d’appels relatifs à une décision par laquelle le ministre du Revenu national (le « ministre ») a refusé des dépenses de location déduites dans les années d’imposition 2009 et 2010.
+Les faits [2] L’appelant et son épouse, Kit Morris, sont comptables agréés. Tous deux étaient au service du cabinet Deloitte quand ils se sont mariés en décembre 2008. L’appelant a pris sa retraite en mai 2009 et a lancé sa propre entreprise de services fiscaux, exploitée à partir de son domicile. En 2007, l’appelant a convenu d’acheter la résidence principale de ses parents, située au numéro 1350 de la rue Sinclair, à Vancouver-Ouest (la « maison de la rue Sinclair »).
+[3] L’achat a été fait conformément à une entente verbale. Le prix d’achat convenu en 2007 a été de 955 000 $, et l’appelant avait à payer des versements mensuels de 2 300 $. Il a témoigné que cette maison a été sa résidence principale à compter du 1er juillet 2007. Cependant, le titre de propriété de cette maison ne lui a pas été transféré avant le mois de mars 2009. Il a déposé une déclaration notariée (pièce A‑1) de sa mère, qui confirmait son témoignage au sujet de la maison de la rue Sinclair. L’intimée s’est opposée au dépôt de la pièce A‑1 parce que la mère de l’appelant n’était pas présente dans la salle d’audience pour être contre-interrogée. Même sans ce document, et malgré la présomption de fait du ministre selon laquelle l’appelant n’a pas acheté la maison avant le mois de mars 2009, j’accepte le témoignage de l’appelant, à savoir qu’il a fait l’acquisition de la maison en 2007, même si le titre de propriété relatif à cette dernière n’a pas été transféré avant 2009.
+[4] Kit Morris s’est installée dans la maison Sinclair en décembre 2008 après que l’appelant et elle se sont mariés. Elle a témoigné que cette maison est devenue sa résidence principale. Elle a mis en vente sa propre maison, située à Coquitlam, et l’a vendue en juin 2009.
+[5] L’appelant et son épouse ont plus tard décidé de s’installer dans une maison plus grande et ils en ont acheté une sur l’avenue Heywood (la « maison de l’avenue Heywood »); ils s’y sont installés le 4 août 2009. Tous leurs biens ont été déménagés à la nouvelle maison, à l’exception d’un petit nombre d’outils, de bois et de quelques autres objets. L’appelant et son épouse ont témoigné qu’après le mois d’août 2009, la maison de la rue Sinclair n’a plus été leur résidence principale et n’a pas été utilisée à des fins personnelles. Mme Morris a déclaré que l’assurance concernant la maison de la rue Sinclair a été changée à ce moment-là pour tenir compte du fait qu’il s’agissait d’une maison inoccupée. La police d’assurance, déposée en tant que pièce A‑5, confirme son témoignage et fait état, dans la description de la maison, d’un permis d’inoccupation.
+[6] Au moment du déménagement, Mme Morris, après avoir consulté son courtier immobilier, a décidé d’acheter la maison Sinclair de l’appelant et de s’en servir comme bien locatif à titre de placement. Elle a acheté la maison de l’appelant au prix de 900 000 $ le 7 août 2009. La pièce A‑4, du bureau d’enregistrement immobilier, confirme que la demande d’enregistrement a été reçue le 20 juillet 2009 et enregistrée le 7 août 2009. Selon ce document, la maison était grevée d’une hypothèque de la Banque de Montréal. Mme Morris a déclaré avoir obtenu une hypothèque représentant 80 % du prix convenu de 900 000 $. Les pièces A‑8 et A‑9 confirment son témoignage au sujet du montant et du taux de cette hypothèque. Tant l’appelant que Mme Morris ont témoigné que, contrairement à la position de l’intimée, le prix d’achat que Mme Morris a payé à l’appelant n’était pas inférieur à la juste valeur marchande et était fondé sur les prix du marché au cours de l’année antérieure, ainsi que sur des conseils obtenus de leur courtier immobilier.
+[7] L’appelant a déclaré que lorsque la maison de la rue Sinclair a été vendue à Mme Morris, tous deux savaient qu’il serait nécessaire d’effectuer des travaux de réparation et de rénovation avant de pouvoir la louer. Ils ont entrepris eux-mêmes les travaux de réparation et, d’après leur témoignage, ils ont commencé à le faire en septembre 2009. L’appelant a déclaré que même s’il était occupé à établir son entreprise de comptabilité dans sa nouvelle maison, il se rendait à la maison de la rue Sinclair trois jours par semaine, de même que les fins de semaine, en vue d’exécuter ces travaux de réparation. Mme Morris était enceinte et travaillait encore à temps plein, mais elle aussi a pris part aux travaux, surtout les fins de semaine.
+[8] Les travaux ont consisté à repeindre la maison tout entière, à remplacer le plancher de la cuisine, à réparer et à repeindre les armoires de cuisine et de salle de bain, à remplacer des placards, à réparer des luminaires et une fuite dans le toit, à retenir les services d’un plombier pour remplacer un robinet de cuisine et à faire des travaux d’aménagement paysager, lesquels ont consisté à remettre en état une clôture, à rénover un pont enjambant un ruisseau et à s’occuper du jardin. Mme Morris a déclaré que les travaux ont pris nettement plus de temps qu’ils l’avaient prévu au départ.
+[9] Malgré l’intention de Mme Morris de louer la maison de la rue Sinclair, celle-ci n’a jamais été mise en location. Même si les travaux de réparation n’étaient pas terminés, la maison a été louée à un ami de Mme Morris en décembre 2010, pour une période de quatre mois, jusqu’en mars 2011. Le prix de location était de 2 000 $ par mois, légèrement moins que la juste valeur marchande de location, parce qu’ils continuaient d’avoir besoin d’accéder à la maison pour poursuivre les travaux de réparation nécessaires.
+[10] Quand cette location de quatre mois a pris fin, la maison de la rue Sinclair a été mise en vente. Les deux témoins ont déclaré qu’au cours de la période de location de quatre mois, le marché a changé dans ce secteur et leur courtier leur a parlé de vendre la maison. Celle-ci a été mise en vente le 9 mai 2011 et vendue le 31 mai suivant. Mme Morris a réalisé un bénéfice de 350 000 $.
+[11] Aucun reçu n’a été fourni pour les articles qui ont été utilisés dans le cadre des travaux de réparation, mais aucun d’eux n’a été déduit et ils ne sont pas en cause en l’espèce. Un état de compte de Visa appartenant à l’appelant fait mention de plusieurs achats chez Home Depot entre le 23 août et le 22 septembre 2009. mais il n’indique pas expressément à quoi ont servi ces achats, pas plus qu’il ne confirme que ceux-ci étaient liés aux travaux de réparation effectués à la maison de la rue Sinclair et non à la nouvelle maison de l’avenue Heywood. Les dépenses déduites par l’appelant étaient liées aux intérêts hypothécaires, à la taxe foncière, à l’assurance ainsi qu’aux services d’utilité publique.
+Les nouvelles cotisations [12] En 2009, il n’y a pas eu de revenu locatif en rapport avec la maison de la rue Sinclair, mais l’appelant a déduit des pertes locatives d’environ 13 071 $, soit des intérêts hypothécaires de 10 872 $, un paiement d’assurance de 482 $, un paiement de services d’utilité publique de 482 $ ainsi qu’un montant de taxe foncière de 1 235 $.
+[13] En 2010, le revenu locatif total comprenait la somme de 2 000 $ payée pour le mois de décembre de cette année-là. Le montant total des pertes locatives qui a été déduit dans cette année s’élevait à 26 014 $ et se composait d’intérêts hypothécaires d’un montant de 25 584 $ et de frais d’entretien de 430 $, ce qui a donné lieu à la déduction d’une perte locative nette de 24 014,81 $. En 2009 et en 2010, la totalité des dépenses déduites ont été refusées, à l’exception du douzième des intérêts hypothécaires (2 132 $) pour le loyer de décembre.
+Les questions en litige [14] La première question dont il faut traiter est celle de savoir si l’appelant a commencé à exploiter une entreprise locative entre les mois d’août 2009 et de novembre 2010. S’il y avait bel et bien une entreprise, la seconde question est de savoir si l’appelant peut déduire les dépenses de location déclarées en 2009 et en 2010.
+La position des parties [15] L’intimée est d’avis qu’il n’y a eu aucune activité de location à la maison de la rue Sinclair avant le mois de décembre 2010, parce que les caractéristiques d’une telle activité, assortie d’une commercialité suffisante, n’existaient pas avant cette date-là. De ce fait, les dépenses antérieures au mois de décembre ne sont pas déductibles. Malgré l’intention subjective qui existait peut-être, aucune activité importante à cet égard n’a débuté avant que les appelants commencent à gagner un revenu de location en décembre 2010.
+[16] L’intimée a fait valoir qu’il est peu probable que les travaux de réparation ont débuté en 2009 comme le prétend l’appelant. De plus, le temps qu’il a fallu pour exécuter les travaux n’est pas raisonnable. L’appelant et son épouse ont entrepris ces derniers sans trop se presser et ils n’ont pas fait d’efforts raisonnables et continus pour terminer les travaux et louer la maison. Vu l’absence d’intention véritable, aucune activité commerciale n’a commencé avant le mois de décembre 2010 et il faudrait imputer les dépenses à des travaux d’entretien de base, plutôt qu’au fait de tirer un revenu de la maison. Comme il n’y avait aucun reçu se rapportant aux travaux de réparation, ni aucune photographie prouvant ces derniers, les dépenses figurant dans l’état de compte de Visa de l’appelant (pièce A‑7) se rapportaient plutôt à leur maison de l’avenue Heywood.
+[17] L’intimée a fait valoir, subsidiairement, que si l’on concluait à l’existence d’une activité locative avant le mois de décembre 2010, les dépenses seraient des dépenses en capital, non déductibles.
+[18] L’appelant a soutenu que lorsque son épouse lui a acheté la maison de la rue Sinclair, il s’agissait de la première mesure importante prise en vue d’établir une entreprise de location. Même s’ils n’ont pas consacré la totalité de leur temps aux travaux de réparation, il n’est pas essentiel, selon les dispositions applicables, d’exécuter ces derniers de façon continue.
+L’analyse [19] L’une des présomptions de fait incluses dans la réponse à l’avis d’appel est que, entre le mois d’août 2009 et le 30 novembre 2010, la maison a été réservée à l’usage personnel de Kitt Morris (présomption 14(i)). L’intimée n’a pas directement discuté de cette présomption de fait ni ne s’est fondée sur elle à l’audience, mais tant l’appelant que Mme Morris ont déclaré qu’après leur déménagement dans leur nouvelle maison de l’avenue Heywood en août 2009, la maison de la rue Sinclair a été essentiellement vide. Leur témoignage est étayé par la pièce A‑5, qui montre que la police d’assurance concernant la maison de la rue Sinclair a été changée pour indiquer qu’elle a été inoccupée après leur déménagement en août 2009. Au vu des témoignages et de la preuve documentaire, cette présomption de fait a été « démolie » et, par conséquent, je rejette l’argument de l’intimée selon lequel il faudrait refuser les déductions déclarées parce qu’il s’agit de dépenses personnelles ou de subsistance au sens de l’alinéa 19(1)h) de la Loi de l’impôt sur le revenu (la « Loi »).
+[20] L’intimée a admis dans ses observations finales qu’il pouvait y avoir une activité locative à compter de novembre 2010 car c’est ce mois-là qu’a été signé le bail qui est entrée en vigueur en décembre 2010. La question consiste donc à savoir s’il existe une preuve suffisante pour conclure à l’existence d’une activité locative entre les mois de septembre 2009 et d’octobre 2010. Dans ses observations, l’intimée a semblé admettre que Kit Morris avait une intention subjective de créer une activité locative à la maison de la rue Sinclair en 2009 :
+[traduction] En l’espèce, tant l’appelant que Mme Morris ont déclaré qu’ils avaient l’intention d’utiliser la maison de la rue Sinclair dans le cadre d’une activité locative.
+L’intimée est d’avis qu’une simple intention, à la date à laquelle ils ont, disent-ils, procédé au transfert de la maison, ne suffit pas pour entreprendre une activité locative. Nous devons donc examiner ce qui a été fait.
+(Transcription, page 121)
+[21] L’intimée a donc axé son argumentation sur les mesures prises en vue d’établir une activité locative et elle a fait valoir que les mesures prises en ce sens au cours de cette période étaient insuffisantes.
+[22] L’intimée soutient que les travaux relatifs à la maison de la rue Sinclair n’ont pas débuté avant la fin de 2010. Cependant, cet argument contredit l’une des propres présomptions de fait du ministre qui figurent dans la réponse à l’avis d’appel. À l’alinéa 14(o) de la réponse, l’intimée présume que :
+[traduction] entre août 2009 et le 30 novembre 2010, l’appelant et Mme Morris ont rénové la maison afin qu’il soit possible de la louer;
+[23] La réponse ne contient aucune autre présomption dénotant que les travaux n’ont débuté qu’en 2010, et si elle avait en fait contenu d’autres présomptions de cette nature, celles-ci auraient été potentiellement contradictoires. Hormis cette seule présomption, qui concorde avec la position de l’appelant, l’intimée n’a introduit aucune preuve autre que sa prétention, dans ses observations, selon laquelle le témoignage de l’appelant et de Mme Morris était inexact. Je n’ai donc pas d’autre choix que de souscrire au témoignage des témoins et de conclure que les travaux relatifs à la maison de la rue Sinclair ont débuté en septembre 2009.
+[24] L’intimée a invoqué la décision Gartry v. Canada, [1994] 2 CTC 2021, où le juge Bowman (plus tard juge en chef) a conclu que le moment où débute une activité commerciale est une question de fait et que cela a lieu à un certain point entre le moment où l’intention de lancer l’entreprise prend forme et celui où cette dernière commence à gagner un revenu. Dans Gartry, la Cour a conclu que l’entreprise de pêche avait commencé parce que le contribuable avait organisé l’achat d’un bateau et apporté des modifications à ce dernier, obtenu des permis, souscrit une assurance, emprunté des fonds, trouvé un équipage et pris des dispositions avec d’autres propriétaires de bateau pour qu’ils recourent à ses services. Dans le présent appel, Kit Morris a acheté la maison de la rue Sinclair de l’appelant, obtenu une hypothèque de 720 000 $ pour financer l’achat et effectué personnellement divers travaux de réparation. Selon la preuve, les travaux de réparation importants ont consisté à repeindre la maison tout entière. Les travaux ont duré de septembre 2009 à mars 2011 et, selon l’appelant et son épouse, ils ont travaillé à cet endroit plusieurs jours par semaine ainsi que les fins de semaine. Un seul entrepreneur - un plombier - a été engagé pour remplacer un robinet de cuisine. Au vu de la preuve concernant le genre de réparations qui ont été faites et du temps qui a été censément consacré à la maison, il m’est difficile d’admettre que les travaux exécutés à la maison ont duré tout ce temps. Il est également peu probable que deux comptables agréés auraient négligé de conserver les reçus qui justifieraient les travaux de réparation réellement effectués et qu’ils auraient déduit à la place les montants manifestement plus élevés qui étaient faciles à prouver. J’ai également de la difficulté à croire que l’épouse de l’appelant s’est exposée aux effets nocifs possibles de la peinture, et ainsi de suite, au cours de cette période, où elle était enceinte, elle qui avait des problèmes de grossesse en raison de son âge et qui s’inquiétait de la santé de son bébé. Les mesures prises dans les présents appels ne se comparent d’aucune façon à celles qui ont été prises dans Gartry.
+[25] Il est possible que des travaux de réparation prennent plus de temps à terminer que prévu, mais les conclusions relatives à la raisonnabilité des délais dépendent des faits qui sont propres à chaque affaire. Dans Preiss c. Canada, 2009 CCI 488, [2010] 1 CTC 2164, le juge D'Arcy n’a pas jugé qu’un délai de quatre ans avait une incidence sur l’intention du contribuable de produire un revenu de location. Cependant, dans cette affaire, il y avait une preuve de retards légitimes dus à des délais de zonage ainsi qu’à des problèmes de santé. Néanmoins, le témoignage de l’appelant et de son épouse n’a pas été contesté en contre-interrogatoire et je ne dispose d’aucune preuve qui étaye mes soupçons, à savoir que les travaux proprement dits n’ont pas débuté avant la fin de 2010. Je dois aussi tenir compte de la présomption de fait évidente formulée à l’alinéa 14(o) selon laquelle l’intimée reconnaît que l’appelant et son épouse ont rénové la maison entre les mois août et de décembre 2009. Je ne puis donc faire autrement que conclure qu’il existait une activité locative entre les mois d’août 2009 et de novembre 2010.
+[26] En ce qui concerne les frais de plombier d’un montant de 430 $, pour le remplacement d’un robinet de cuisine, l’intimée a concédé que ce montant ne serait pas déductible puisqu’il s’agissait d’une dépense en capital, mais qu’il était peu élevé et pouvait être admis à titre de dépense courante (transcription, page 136). J’accepte la concession de l’intimée et j’autoriserai cette dépense, étayée par l’un des rares reçus liés aux travaux de réparation que l’appelant a conservés et qui a permis de remettre l’évier dans son état de fonctionnement initial.
+[27] Enfin, pour ce qui est de l’argument subsidiaire de l’intimée, je conclus que le paragraphe 18(3.1) n’interdit pas de déduire les prétendus « frais accessoires » déclarés. L’intimée a fait valoir qu’il faudrait refuser la déduction de ces frais parce qu’ils étaient liés à la construction, à la rénovation ou à la transformation de la maison. Si les travaux de réparation constituent bel et bien des travaux de construction, de rénovation ou de transformation au sens de la Loi, il faut dans ce cas déterminer si l’hypothèque grevant la maison de la rue Sinclair doit être capitalisée, aux termes du paragraphe 18(3.1). C’est-à-dire que s’il est conclu que le produit de l’hypothèque a servi à acheter cette maison et non à en financer la construction, la rénovation ou la transformation, il s’ensuit que les intérêts à payer sur cette hypothèque demeurent déductibles en vertu de l’alinéa 20(1)c) à titre de dépense courante. Dans la décision Magnowski v The Queen, 2000 DTC 2244, au paragraphe 71, le juge Margeson a expliqué comme suit la raison pour laquelle la déductibilité des frais accessoires est limitée par le paragraphe 18(3.1) :
+[…] empêcher les contribuables d'utiliser les coûts de construction pour créer une perte afin de soustraire à l'impôt un revenu provenant d'autres sources. Les règles paraissent aussi tenir pour acquis que les coûts accessoires représentent une partie cachée du coût du fonds de terre et des bâtiments.
+[28] Les termes « construction, rénovation ou transformation » ne sont pas expressément définis dans la Loi. Toutefois, dans la décision Preiss, le juge D’Arcy indique que ces termes requièrent plus que de simples travaux généraux et des réparations cosmétiques. Les dépenses ont été autorisées dans Preiss, mais, dans cette affaire, les faits n’indiquaient malheureusement pas les détails des réparations. Je suis toutefois encline à croire que les tâches accomplies dans la maison de la rue Sinclair, dont la peinture, l’aménagement paysager, de légers travaux de plomberie et du nettoyage, qui ont constitué la majeure partie des travaux, sont des réparations cosmétiques plutôt que des travaux de construction, de rénovation ou de transformation de la maison.
+[29] Même si je n’avais pas conclu que les travaux de réparation concernant la maison de la rue Sinclair étaient de nature simplement cosmétique, je ne dispose d’aucune preuve établissant que le produit de l’hypothèque a servi à financer une partie quelconque des travaux de réparation. Lors du contre-interrogatoire des témoins, l’intimée n’a pas posé de questions sur l’utilisation du produit de l’hypothèque. Il n’y a eu en outre aucune présomption de fait à cet égard. C’est donc dire que même si l’appelant a effectivement entrepris des travaux de construction au sens du paragraphe 18(3.1) de la Loi, il ne lui serait pas forcément interdit de déduire les intérêts hypothécaires car l’intimée n’a pas établi que les fonds avaient servi à payer ces travaux. L’argument subsidiaire de l’intimée est donc rejeté lui aussi.
+[30] En conclusion, compte tenu des éléments de preuve, il existait une activité locative en 2009 et en 2010 et aucune des dispositions pertinentes de l’article 18 de la Loi n’empêche de déduire les frais déclarés. Les appels sont accueillis, sans dépens.
+Signé à Ottawa, Canada, ce 9e jour de mai 2014.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 23e jour de juillet 2014.
+Claude Leclerc, LL.B.
+RÉFÉRENCE :
+2014 CCI 142
+No DE DOSSIER DE LA COUR :
+2013-4440(IT)I
+INTITULÉ :
+ALAN R. MORRIS et SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 7 mars 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 9 mai 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Aman Sandhu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,318 @@
+Title: Marin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520925/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-49-520925-marin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2022-05-13
+
+# Marin c. La Reine
+
+- Citation: 2022 CCI 49
+- Decision date: 2022-05-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4519, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-05-13
+Référence neutre
+2022 CCI 49
+Numéro de dossier
+2020-1104(IT)G
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2020-1104(IT)G
+ENTRE :
+ANTOINE MARIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 21 février 2022, à Québec (Québec)
+Devant : L’honorable juge Dominique Lafleur
+Comparutions :
+Avocat de l’appelant :
+Me Maurice Renoux
+Avocate de l’intimée :
+Me Marie-Aimée Cantin
+JUGEMENT
+Conformément aux motifs ci-joints, l’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2018 est rejeté, avec dépens en faveur de l’intimée calculés selon le tarif B de l’annexe II des Règles de la Cour canadienne de l’impôt (procédure générale).
+Signé à Ottawa, Canada, ce 13e jour de mai 2022.
+« Dominique Lafleur »
+Juge Lafleur
+Référence : 2022 CCI 49
+Date : 20220513
+Dossier : 2020-1104(IT)G
+ENTRE :
+ANTOINE MARIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lafleur
+I. Contexte
+[1] M. Antoine Marin en appelle à notre Cour de la nouvelle cotisation d’impôt pour l’année d’imposition 2018, dont l’avis du 5 mars 2020 a été établi par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu (L.R.C. (1985), ch. 1 (5e suppl.)) (la « Loi »).
+[2] Dans cette nouvelle cotisation, le ministre a ajouté au revenu de M. Marin des revenus nets de location totalisant 307 829 $ tirés d’un bien immobilier situé en France et a refusé d’accorder un crédit pour impôt étranger au motif que M. Marin n’avait payé aucun impôt en France à l’égard de ces revenus, puisqu’il avait bénéficié d’un crédit d’impôt en vertu de la législation française menant à l’annulation de tout impôt français à l’égard de ces revenus.
+[3] À l’audience, seuls M. Marin et son comptable-fiscaliste, M. Steve Lafrenière, ont témoigné. M. Marin a admis que ses revenus nets de location tirés du bien immobilier situé en France en 2018 totalisaient 307 829 $ (l’équivalent de 201 169 euros). De plus, l’appelant n’a pas contesté que la Loi requiert que ces revenus soient inclus dans le calcul du revenu de M. Marin pour l’impôt canadien.
+[4] Dans les présents motifs, toute disposition législative à laquelle il est fait référence est une disposition de la Loi, sauf mention contraire.
+II. Question en litige
+[5] La Cour doit déterminer si M. Marin a le droit de déduire un montant à titre de crédit pour impôt étranger dans le calcul de l’impôt par ailleurs payable par lui au Canada pour l’année d’imposition 2018 en vertu du paragraphe 126(1). Les parties ont convenu que le paragraphe 126(2) n’était pas applicable en l’espèce.
+III. Conclusion
+[6] Pour les motifs suivants, la Cour conclut que M. Marin ne peut déduire aucun montant à titre de crédit pour impôt étranger dans le calcul de l’impôt par ailleurs payable par lui au Canada pour l’année d’imposition 2018 en vertu du paragraphe 126(1).
+IV. Les faits
+[7] Dans la présente affaire, les faits ne sont pas contestés.
+[8] M. Marin est un résident canadien. Il détient depuis plusieurs années des parts sociales de la Société civile immobilière (S.C.I.) Miromesnil (la « société ») et reçoit à ce titre des revenus de location provenant de l’immeuble détenu par la société et situé en France. Selon le droit français, une société civile immobilière offre une transparence fiscale totale. Ainsi, M. Marin, à titre de détenteur de parts de la société, doit en règle générale s’imposer en France sur les revenus nets de location provenant de l’immeuble détenu par la société selon le nombre de parts qu’il détient.
+[9] De 2009 jusqu’au 21 décembre 2017, M. Marin détenait 4 % des parts de la société; le 22 décembre 2017, il a acquis 21 parts additionnelles. Ainsi, à compter du 22 décembre 2017, ainsi que tout au long des années 2018 et 2019, M. Marin détenait 25 % des parts de la société.
+[10] Bien que M. Marin n’ait détenu que 4 % des parts de la société jusqu’au 21 décembre 2017, il s’est imposé en France en 2017 sur des revenus nets de location de 227 697 euros (ou l’équivalent de 333 576 $), ce qui représente 25 % des parts. En effet, M. Marin a fait un choix fiscal à cet effet dans sa déclaration de revenus produite auprès de l’État français. Les impôts qu’il devait payer à l’État français sur les revenus nets de location de 2017 [1] ont été versés au cours de l’année 2018, comme le prévoyait alors la législation française, en trois versements totalisant 121 781 euros (ou l’équivalent de 186 349 $) : un premier versement de 4 139 euros le 26 février 2018, un deuxième versement de 4 139 euros le 25 mai 2018 et un troisième versement de 113 503 euros le 27 septembre 2018.
+[11] Dans la déclaration de revenus produite auprès de l’Agence du revenu du Canada pour l’année d’imposition 2017, M. Marin a toutefois déclaré un revenu net de location équivalant aux parts de la société qu’il détenait effectivement, soit 4 % des parts jusqu’au 21 décembre 2017 et 25 % du 22 au 31 décembre 2017. Il a ainsi déclaré aux fins de son imposition au Canada des revenus nets de location de 4 836 $ et a ensuite réclamé une déduction de 4 836 $ de son revenu net.
+[12] En 2018, la société a versé à M. Marin des revenus nets de location de 201 169 euros (ou l’équivalent de 307 829 $). Ces revenus nets n’ont pas été imposés en France, M. Marin ayant bénéficié d’un crédit d’impôt menant à l’annulation de tout impôt français à l’égard de ces revenus.
+[13] À partir de janvier 2019 et tous les mois au cours de l’année 2019, M. Marin a payé à l’État français des impôts totalisant 116 216 euros sur ses revenus nets de location de 2019, conformément aux nouvelles règles de prélèvement des impôts français.
+V. Thèses des parties
+5.1 Selon l’appelant :
+[14] M. Marin devrait avoir droit à un crédit pour impôt étranger puisqu’au cours de l’année 2018, il a effectivement payé à l’État français des impôts totalisant 186 349 $ (l’équivalent de 121 781 euros) sur les revenus de 2017. Selon l’appelant, le paragraphe 126(1) vise les impôts étrangers payés pendant l’année 2018 et non pas seulement les impôts étrangers payés sur les revenus de 2018.
+[15] La preuve aurait démontré que M. Marin a effectivement payé de l’impôt en France sur les revenus nets de location versés par la société chaque année depuis l’année 2014, y compris l’année 2018. L’appelant soutient que, si on lui refusait le crédit pour impôt étranger pour l’année d’imposition 2018, il se verrait doublement imposé. En fait, il n’y aurait donc pas eu d’année blanche en 2018, comme le suggère l’intimée.
+[16] Subsidiairement, l’appelant soutient qu’en vertu du paragraphe 6(1) de la Convention entre le Canada et la France tendant à éviter les doubles impositions et à prévenir l’évasion fiscale en matière d’impôts sur le revenu et sur la fortune (2 mai 1975, [1976] R.T. Can. no 30, en sa version modifiée) (la « Convention Fiscale »), les revenus provenant d’un bien immobilier ne sont imposables que dans l’État où se situe le bien immobilier. Ainsi, dans le cas de M. Marin, les revenus de 2018 ne devraient être imposables qu’en France. Selon l’appelant, la Convention Fiscale a préséance sur la Loi quant à l’imposition des revenus étrangers.
+[17] Également subsidiairement, l’article 23 de la Convention Fiscale devrait s’appliquer pour éviter la double imposition dans le cas de M. Marin. En effet, selon les calculs de l’appelant, si le crédit d’impôt étranger n’est pas accordé, M. Marin paierait un impôt équivalant à 112 % des revenus de 2018.
+5.2 Selon l’intimée :
+[18] Puisque M. Marin n’a pas payé d’impôt en France sur les revenus de 2018 parce qu’il a bénéficié d’un crédit d’impôt en vertu de la législation française, il ne pourrait donc pas se prévaloir du crédit pour impôt étranger au Canada pour l’année d’imposition 2018. L’intimée soutient que l’expression « pour l’année » au paragraphe 126(1) et reprise dans plusieurs dispositions de la Loi renvoie à l’année d’imposition, et en l’espèce à l’année d’imposition 2018, conformément à l’objet et à l’esprit de la Loi. De plus, pour l’année d’imposition 2018, le crédit pour impôt étranger doit tenir compte des impôts étrangers payés sur les revenus de 2018 qui sont également imposables au Canada pour l’année d’imposition 2018, et non pas des impôts étrangers payés sur les revenus de 2017. Cette interprétation est conforme à l’objet et à l’économie de la Loi dans son ensemble.
+[19] L’interprétation du paragraphe 6(1) de la Convention Fiscale proposée par l’appelant est erronée. Bien que le paragraphe 6(1) dispose que les revenus provenant de biens immobiliers situés en France sont imposables en France, cela n’empêche pas le Canada d’imposer ces mêmes revenus. De plus, en l’espèce, la Convention Fiscale ne peut s’appliquer, puisqu’il n’y a pas double imposition des mêmes revenus, soit les revenus de 2018.
+VI. ANALYSE
+6.1 Modification du système de perception des impôts en France :
+[20] La preuve a démontré que le 1er janvier 2019, de nouvelles mesures de prélèvement des impôts sont entrées en vigueur en France. Jusqu’à la fin de l’année 2018, le contribuable français payait ses impôts au cours de l’année qui suivait l’année au cours de laquelle les revenus étaient perçus ou réalisés. À compter du 1er janvier 2019, les impôts français sont dorénavant prélevés à la source ou par versements mensuels ou trimestriels pendant l’année même où les revenus sont perçus ou réalisés.
+[21] Afin d’éviter un double prélèvement des impôts au cours de l’année 2019, soit sur les revenus perçus ou réalisés en 2018 en vertu des anciennes règles ainsi que sur les revenus perçus ou réalisés en 2019 en vertu des nouvelles règles, l’État français a offert dans certains cas un allègement sous forme d’un crédit d’impôt appelé « crédit d’impôt de modernisation du recouvrement » ou « CIMR » sur les revenus perçus ou réalisés en 2018. Sans l’application du CIMR, le contribuable français aurait eu à payer, au cours de l’année 2019, des impôts sur les revenus perçus ou réalisés en 2018 (généralement, en trois versements) ainsi que des impôts sous forme de retenues à la source ou de versements d’impôt mensuels ou trimestriels sur les revenus perçus ou réalisés en 2019.
+[22] La preuve a démontré que M. Marin a effectivement bénéficié du CIMR sur les revenus de 2018. En juillet 2019, M. Marin a reçu de la Direction générale des finances publiques de la République française un document intitulé « Avis d’impôt 2019 - Impôt sur le revenu et prélèvements sociaux sur les revenus de 2018 » indiquant que l’imposition sur les revenus de 2018 d’un montant de 104 965 euros (160 617 $) était annulée et que le total de l’impôt sur le revenu était de zéro euro, vu la mise en place le 1er janvier 2019 du prélèvement à la source. À la deuxième page du même avis, il est indiqué que l’impôt sur le revenu net avant corrections de 70 363 euros est annulé par l’application du crédit d’impôt de modernisation du recouvrement.
+6.2 La Convention Fiscale :
+[23] Pour les motifs suivants, la Cour conclut que l’interprétation du paragraphe 6(1) de la Convention Fiscale proposée par l’appelant est erronée. De plus, vu l’absence de double imposition des revenus de 2018 au sens de la Convention Fiscale, M. Marin ne peut invoquer l’article 23 de la Convention Fiscale pour déduire des impôts payables au Canada pour l’année d’imposition 2018 le montant des impôts payés à la France au cours de l’année 2018 sur les revenus de 2017.
+Imposition des revenus de 2018 :
+[24] Selon l’article 2, une personne résidant au Canada à un moment donné au cours d’une année d’imposition doit payer un impôt sur son revenu imposable pour cette année d’imposition. Le revenu imposable pour une année d’imposition est le revenu pour l’année plus les ajouts et déductions prévus à la Loi (section C de la Partie I). Selon l’article 3, un contribuable doit inclure dans le calcul de son revenu pour une année d’imposition donnée le total des sommes qui constituent chacune le revenu pour cette année d’imposition dont la source se situe au Canada ou à l’étranger.
+[25] Ainsi, M. Marin, à titre de résident canadien, doit payer de l’impôt au Canada sur son revenu mondial. Pour l’année d’imposition 2018 (qui correspond à l’année civile : voir l’alinéa 249(1)c)), M. Marin doit donc inclure dans le calcul de son revenu pour l’impôt canadien les revenus de 2018, que les parties ont établi à 307 829 $. Il est aussi clair qu’aux termes de la Loi, les revenus de 2017 ne doivent pas être inclus dans le calcul du revenu de M. Marin pour l’année d’imposition 2018.
+[26] De plus, la preuve a démontré que M. Marin, à titre de détenteur de parts de la société, a déclaré les revenus de 2018 dans sa déclaration de revenus fonciers de 2018 produite à l’État français.
+[27] Ainsi, les revenus de 2018 sont imposables au Canada selon la Loi, ainsi qu’en France selon la loi française. Toutefois, comme indiqué ci-dessus, l’imposition des revenus de 2018 en France a été annulée; M. Marin n’a payé aucun impôt en France sur les revenus de 2018.
+Interprétation des conventions fiscales :
+[28] L’interprétation des conventions fiscales doit être effectuée de manière libérale, afin d’appliquer la véritable intention des parties (Crown Forest Industries Ltd. c. Canada, [1995] 2 R.C.S. 802, au par. 43 (« Crown Forest »)). Le tribunal peut recourir aux modèles de conventions acceptées pour en dégager les objectifs et les intentions (Crown Forest, au par. 44). Ainsi, le Modèle de convention de double imposition concernant le revenu et la fortune de l’Organisation de coopération et de développement économique (1963, et adopté de nouveau en 1977) (le « Modèle de l’OCDE »), « reconnu mondialement comme un document de référence fondamental aux fins de la négociation, de l’application et de l’interprétation de conventions fiscales bilatérales ou multilatérales », peut être utilisé dans cet exercice d’interprétation (Crown Forest, au par. 55). Toutefois, la Cour doit tenir compte des mises en garde faites par la Cour suprême du Canada quant à l’utilisation des commentaires du Modèle de l’OCDE pour interpréter les conventions fiscales lorsque, par exemple, une convention n’est pas fondée sur le Modèle de l’OCDE, ou encore si le Modèle de l’OCDE a été publié plusieurs années après la conclusion de la convention en cause (Canada c. Alta Energy Luxembourg S.A.R.L., 2021 CSC 49, au par. 38).
+[29] En l’espèce, les dispositions pertinentes de la Convention Fiscale ont été adoptées en 1975. Contrairement à ce que prétend l’appelant, il est tout à fait approprié que notre Cour renvoie au Modèle de l’OCDE publié en 1977 et aux commentaires y afférents.
+Paragraphe 6(1) de la Convention Fiscale :
+[30] Le paragraphe 6(1) de la Convention Fiscale prévoit que : « Les revenus provenant de biens immobiliers [...] sont imposables dans l’État contractant où ces biens sont situés. »
+[31] Cet article ne prévoit pas que seul l’État où est situé l’immeuble peut imposer les revenus en provenant, comme le prétend l’appelant. Si telle avait été l’intention du Canada et de la France, le libellé du paragraphe 6(1) aurait été différent. Par exemple, le paragraphe 14(1) de la Convention Fiscale prévoit que : « Les revenus qu’un résident d’un État contractant tire d’une profession libérale [...] ne sont imposables que dans cet État [...] » [Non souligné dans l’original]. De même, le paragraphe 18(1) de la Convention Fiscale prévoit que : « Les pensions [...] provenant d’un État contractant [...] ne sont imposables que dans l’État contractant d’où elles proviennent » [Non souligné dans l’original].
+[32] De même, selon les commentaires du Modèle de l’OCDE relatifs à l’article 23, l’utilisation de l’expression « sont imposables » dans un État contractant dans un article d’une convention fiscale ne confère pas de droit exclusif à cet État contractant d’imposer un revenu, au contraire de l’expression « ne sont imposables que » dans un État contractant (par. 6 et 7).
+[33] Ainsi, en vertu du paragraphe 6(1) de la Convention Fiscale, bien que la France ait le droit d’imposer M. Marin sur les revenus nets de location provenant de la société, puisqu’il s’agit de revenus provenant d’un bien immobilier situé en France, le Canada a également le droit d’imposer M. Marin sur les mêmes revenus en vertu de ses propres lois fiscales (sous réserve de l’application du crédit pour impôt étranger ou d’une autre déduction prévue par la Loi).
+Article 23 de la Convention Fiscale :
+[34] Le préambule à la Convention Fiscale énonce expressément l’objet de la Convention Fiscale, qui est d’éviter les doubles impositions : « Désireux de conclure une convention tendant à éviter les doubles impositions [...] en matière d’impôts sur le revenu [...] sont convenus des dispositions suivantes ».
+[35] L’article 23 de la Convention Fiscale établit la façon par laquelle le Canada et la France éviteront cette double imposition. Ainsi, l’alinéa 23(1)a) de la Convention Fiscale dispose que, sous réserve des dispositions de la Loi, « l’impôt français dû conformément à la législation française et à la présente Convention à raison de bénéfices, revenus ou gains provenant de France est déduit de tout impôt canadien dû à raison des mêmes bénéfices, revenus ou gains » [Non souligné dans l’original].
+[36] Le texte de cette disposition est clair : il faut éviter la double imposition dans le cas où le même revenu est imposé dans les deux États contractants. La Convention Fiscale fait référence aux revenus, peu importe le moment où l’impôt doit être versé aux autorités fiscales ou perçu par celles‑ci.
+[37] De plus, selon les commentaires du Modèle de l’OCDE, l’article 23 traite de la double imposition dite juridique, c’est‑à‑dire du cas où une personne est imposable au titre d’un même revenu par plus d’un État (par. 1).
+[38] Ainsi, pour qu’on puisse invoquer les dispositions de la Convention Fiscale, les impôts payés ou payables dans les deux États doivent viser les mêmes revenus.
+[39] La preuve a démontré que M. Marin n’a pas payé d’impôt en France sur les revenus de 2018. En effet, les impôts payés en France par M. Marin au cours de l’année 2018 visaient les revenus de 2017; de même, les impôts payés en France par M. Marin au cours de l’année 2019 visaient les revenus de 2019. M. Lafrenière a lui‑même reconnu que les prélèvements d’impôt effectués au cours de l’année 2019 visaient les revenus de 2019 et que l’impôt payé au cours de l’année 2018 visait les revenus de 2017. Le CIMR que la France a accordé à M. Marin a fait en sorte qu’aucun impôt ne fût payé à l’État français sur les revenus de 2018.
+[40] Ainsi, puisque M. Marin n’a pas payé d’impôt à l’État français sur les revenus de 2018, il ne peut invoquer la Convention Fiscale pour alléger l’imposition au Canada des revenus de 2018, vu l’absence de double imposition des revenus de 2018.
+[41] De plus, l’argument selon lequel M. Marin paierait un impôt équivalant à 112 % des revenus de 2018 ne peut être retenu. En effet, pour arriver à ce résultat, l’appelant prend en compte les impôts sur les revenus de 2017 qui ont été payés en France au cours de l’année 2018 ainsi que les impôts payables au Canada sur les revenus de 2018. L’appelant ne peut tenir compte des impôts payables pour deux années d’imposition différentes sans également tenir compte des revenus totaux pour les deux années; s’il ne le fait pas, il est inévitable que le taux d’imposition sera très élevé. En tenant compte des revenus de 2017 (tels que déclarés en France) et des revenus de 2018, le taux d’imposition est plutôt d’environ 54 %. De plus, si l’appelant avait tenu compte dans ses calculs des impôts et des revenus d’une seule année à la fois, il aurait clairement constaté l’absence de double imposition des revenus de 2018.
+6.3 Article 126 :
+[42] Pour les motifs suivants, la Cour conclut que l’interprétation de la Loi proposée par l’intimée doit être retenue. Pour l’année d’imposition 2018, M. Marin n’a donc pas droit au crédit pour impôt étranger à l’égard des impôts payés en France au cours de l’année d’imposition 2018 selon le paragraphe 126(1), puisqu’aucun impôt n’a été payé à l’État français sur les revenus de 2018.
+La Loi et la méthode d’interprétation :
+[43] Selon le paragraphe 126(1), le crédit pour impôt étranger est le moindre des deux montants suivants (tels que définis au paragraphe 126(7)) :
+a) l’impôt sur le revenu ne provenant pas d’entreprises payé pour l’année au gouvernement d’un pays étranger;
+b) l’impôt payable par ailleurs pour l’année en vertu de la Partie I de la Loi sur les revenus de source étrangère.
+[44] Les parties pertinentes des paragraphes 126(1) et (7) se lisent ainsi :
+126 (1) Le contribuable qui résidait au Canada à un moment donné d’une année d’imposition peut déduire de l’impôt payable par ailleurs par lui pour l’année en vertu de la présente partie une somme égale à :
+a) la partie de tout impôt sur le revenu ne provenant pas d’entreprises qu’il a payé pour l’année au gouvernement d’un pays étranger (sauf, lorsque le contribuable est une société [...]) dont il peut demander la déduction;
+cette somme ne peut toutefois dépasser :
+b) la fraction de l’impôt payable par ailleurs par lui pour l’année en vertu de la présente partie que représente :
+[...]
+126 (1) A taxpayer who was resident in Canada at any time in a taxation year may deduct from the tax for the year otherwise payable under this Part by the taxpayer an amount equal to
+(a) such part of any non-business-income tax paid by the taxpayer for the year to the government of a country other than Canada (except, where the taxpayer is a corporation . . . ) as the taxpayer may claim,
+not exceeding, however,
+(b) that proportion of the tax for the year otherwise payable under this Part by the taxpayer that
+. . .
+126 (7) Les définitions qui suivent s’appliquent au présent article.
+[...]
+impôt payable par ailleurs pour l’année en vertu de la présente partie S’agissant de l’impôt payable par ailleurs pour l’année en vertu de la présente partie par un contribuable :
+a) à l’alinéa (1)b) et au paragraphe (3), le montant obtenu par la formule suivante :
+A - B
+où :
+A représente l’impôt payable en vertu de la présente partie pour l’année par le contribuable [...]
+[...]
+impôt sur le revenu ne provenant pas d’une entreprise S’agissant de l’impôt sur le revenu ne provenant pas d’une entreprise payé par un contribuable pour une année d’imposition au gouvernement d’un pays étranger, s’entend, sous réserve des paragraphes (4.1) à (4.2), de la fraction de l’impôt sur le revenu ou sur les bénéfices qu’il a payé pour l’année au gouvernement de ce pays, qui remplit les conditions suivantes :
+[...]
+126 (7) In this section,
+. . .
+non-business-income tax paid by a taxpayer for a taxation year to the government of a country other than Canada means, subject to subsections (4.1) to (4.2), the portion of any income or profits tax paid by the taxpayer for the year to the government of that country that
+. . .
+tax for the year otherwise payable under this Part by a taxpayer means
+(a) in paragraph (1)(b) and subsection (3), the amount determined by the formula
+A - B
+where
+A is the amount that would be the tax payable under this Part for the year by the taxpayer . . .
+[45] Il s’agit donc de déterminer si le mot « année » au paragraphe 126(1) de même qu’au paragraphe 126(7) (à la définition de l’expression « impôt sur le revenu ne provenant pas d’une entreprise ») renvoie à l’expression « année d’imposition » au début du paragraphe et si la préposition « pour » dans « pour l’année » aux mêmes dispositions signifie « pendant » l’année ou « au cours de » l’année, comme le prétend l’appelant.
+[46] Selon la méthode d’interprétation énoncée par la Cour suprême du Canada dans l’arrêt Hypothèques Trustco Canada c. Canada, 2005 CSC 54, [2005] 2 R.C.S. 601, au par. 10 (« Hypothèques Trustco ») : « L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. » Dans ce même arrêt, la Cour suprême du Canada a rappelé que la complexité de certaines dispositions de la Loi devait inciter les tribunaux à accorder une importance particulière à l’interprétation textuelle, de manière à assurer l’uniformité, la prévisibilité et l’équité requises pour les contribuables (Hypothèques Trustco, au par. 11 et 12).
+Le texte :
+[47] Le texte du paragraphe 126(1) indique clairement que le mot « année » dans ce paragraphe signifie « année d’imposition ». Comme mentionné ci-dessus, l’année d’imposition est, pour un particulier, l’année civile (alinéa 249(1)c)).
+[48] D’abord, l’expression « année d’imposition » est utilisée au début du paragraphe 126(1). Il aurait été répétitif d’utiliser l’expression « année d’imposition » à chaque mention suivante du mot « année ».
+[49] Ensuite, l’expression « impôt sur le revenu ne provenant pas d’entreprises qu’il a payé pour l’année au gouvernement d’un pays étranger », selon la définition au paragraphe 126(7) réfère également à l’année d’imposition : « S’agissant de l’impôt sur le revenu ne provenant pas d’une entreprise payé par un contribuable pour une année d’imposition au gouvernement d’un pays étranger » [Non souligné dans l’original]. La version anglaise réfère également à l’année d’imposition : « non-business-income tax paid by a taxpayer for a taxation year to the government of a country other than Canada » [Non souligné dans l’original].
+[50] De plus, l’utilisation de l’article défini (ou déterminant défini) « l’ » (en anglais, le mot « the ») avant le mot « année » indique que l’année d’imposition visée pour ce qui est de l’impôt étranger payé par un contribuable est la même année d’imposition que celle pour laquelle on calcule le revenu imposable et les impôts aux fins canadiennes.
+[51] En outre, les dispositions de la Loi s’interprètent en tenant compte de l’ensemble. Il existe une présomption d’uniformité des expressions utilisées dans la Loi. Suivant cette présomption, le même mot utilisé dans la même loi a le même sens.
+[52] Ainsi, l’expression « année d’imposition » apparaît au début de l’article 3, et, par la suite, seuls les mots « pour l’année » sont utilisés. Il est toutefois clair que ces mots à l’article 3 renvoient également à l’année d’imposition pour laquelle le calcul du revenu doit se faire, et non pas à une autre année d’imposition. La même conclusion s’applique à l’interprétation à donner au paragraphe 9(1), qui traite du calcul du revenu tiré d’un bien et qui dispose que le revenu qu’un contribuable tire d’un bien « pour une année d’imposition est le bénéfice qu’il en tire pour cette année ».
+[53] De plus, selon l’appelant, la préposition « pour » (avant le mot « année ») signifie « le moment où quelque chose doit se faire » et a pour synonyme « pendant », « au cours de », « à l’égard de » et « quant à ».
+[54] La Cour convient que la préposition « pour » signifie « à l’égard de » ou « quant à », mais elle ne signifie pas « pendant » ni « au cours de ». Il n’est pas opportun de chercher des synonymes quand on doit interpréter textuellement un article de la Loi. La Cour doit plutôt rechercher le sens ordinaire des mots tel que retrouvé dans les dictionnaires lorsque le mot n’est pas défini dans la Loi (Orphan Well Association c. Grant Thornton Ltd., 2019 CSC 5, [2019] 1 R.C.S. 150, au par. 84; Lavrinenko c. Canada, 2019 CAF 51, [2020] 1 R.C.F. 391, au par. 23; North Shore Power Group Inc. c. Canada, 2018 CAF 9, au par. 31.)
+[55] Dans le Petit Robert de la langue française (Paul Robert, Le Petit Robert, Paris, 2022), la préposition « pour » est notamment définie ainsi : « 5. En ce qui concerne ». Dans le dictionnaire Larousse (Larousse, Paris, 2002), la préposition « pour » est notamment définie ainsi : « 10. Sert à mettre en évidence un sujet, un attribut, un complément d’objet direct; il est l’équivalent de quant à ». Dans le dictionnaire Larousse en ligne (Larousse, en ligne : <https://www.larousse.fr/dictionnaires/francais-monolingue>), on la définit notamment comme suit : « la chose ou la personne concernée, dont il est question ».
+[56] La préposition anglaise « for » est notamment définie de la façon suivante dans le Canadian Oxford Dictionary (Katherine Barber, Canadian Oxford Dictionary, 2e éd., Toronto, Oxford University Press, 2004) : “4. With reference to; regarding; so far as concerns”. Dans le Oxford English Dictionary, en ligne (<https://www.oed.com/>), cette préposition est définie ainsi :
+IV. Of purpose or destination.
+8.
+a. With a view to; with the object or purpose of: as preparatory to.
+[…]
+12. Indicating destination. Cf, French pour.
+[…]
+d. Introducing the intended recipient, or the thing to which something is intended to belong, or in connection with which it is to be used.
+[57] Ces définitions de la préposition « pour » et de sa version anglaise « for » indiquent un lien. On peut donc conclure que les impôts étrangers visés au paragraphe 126(1) (et dans l’expression « impôt sur le revenu ne provenant pas d’une entreprise payé par un contribuable pour une année d’imposition au gouvernement d’un pays étranger [...] », selon la définition au paragraphe 126(7)) sont les impôts payés à l’État étranger en lien avec une année d’imposition donnée, et non pas les impôts payés au cours de l’année ou pendant l’année d’imposition, comme le suggère l’appelant.
+[58] Si le législateur avait voulu que l’on tienne compte des impôts étrangers payés au cours d’une année (ou, en anglais, les impôts étrangers payés « in the year ») lors du calcul du crédit pour impôt étranger, et non pas des impôts étrangers payés pour l’année (en anglais, « for the year »), il l’aurait indiqué clairement, tout comme à l’article 2. En effet, l’article 2 utilise les expressions « au cours de l’année » (en anglais, « in the year ») et « pour l’année » (en anglais, « for the year »). Il en est de même, entre autres, à l’article 40, où l’on retrouve les expressions « pour l’année » et « au cours de l’année ».
+Le contexte :
+[59] Le paragraphe 2(1) et l’article 3 apparaissent à la Partie I de la Loi, et cette Partie est intitulée « Impôt sur le revenu ». Ils prévoient expressément que l’assujettissement à l’impôt est établi pour chaque année d’imposition et que le calcul du revenu tient compte du revenu pour ladite année d’imposition.
+[60] Selon le paragraphe 2(1) à la section A, « Assujettissement à l’impôt » : « Un impôt sur le revenu doit être payé [...] pour chaque année d’imposition, sur le revenu imposable de toute personne résidant au Canada à un moment donné au cours de l’année » [Non souligné dans l’original].
+[61] L’article 3 à la section B, « Calcul du revenu », prévoit que le revenu d’un contribuable pour une année d’imposition comprend notamment le « total des sommes qui constituent chacune le revenu du contribuable pour l’année [...] dont la source se situe au Canada ou à l’étranger [...] » [Non souligné dans l’original].
+[62] Le revenu imposable est établi selon les règles à la section C, « Calcul du revenu imposable », aux articles 110 et suivants de cette même Partie I. On calcule l’impôt en tenant compte du revenu imposable, selon les règles à la section E, « Calcul de l’impôt », de la Partie I, section dans laquelle se trouve l’article 126.
+[63] L’économie de la Loi et ces dispositions indiquent clairement que les revenus de source étrangère sont compris dans le calcul du revenu d’un contribuable (résident canadien) pour une année d’imposition donnée et qu’on tient compte de ces revenus lors de la détermination du revenu imposable, avec lequel on calcule l’impôt pour cette même année d’imposition. Les dispositions sur le crédit pour impôt étranger se trouvent dans la même partie de la Loi, soit la Partie I. Ainsi, l’année d’imposition visée par les dispositions sur le crédit pour impôt étranger doit être la même année d’imposition pour laquelle le revenu imposable et les impôts payables au Canada sont déterminés et calculés. De même, il serait conforme à l’économie de la Loi que les impôts étrangers pris en compte dans le calcul du crédit pour impôt étranger visent les mêmes revenus que ceux compris dans le calcul du revenu imposable au Canada.
+[64] Ainsi, dans la décision Zong c. La Reine, 2019 CCI 270, la Cour a récemment confirmé le principe voulant qu’« [e]n règle générale, les contribuables au Canada peuvent déduire, à titre de crédits pour impôt étranger, les impôts payés à un gouvernement étranger lorsque les impôts sont payés sur le même revenu qui serait par ailleurs imposable au Canada » (par. 1) [Non souligné dans l’original].
+[65] Il serait contraire à l’esprit de la Loi qu’un contribuable doive ajouter à ses revenus lors du calcul de l’impôt canadien les revenus étrangers pour une année d’imposition donnée en vertu de l’article 3, que l’impôt payable au Canada sur les revenus imposables soit calculé en tenant compte de ces mêmes revenus étrangers, mais que le crédit pour impôt étranger prenne en considération l’impôt payé à l’étranger sur des revenus d’une année d’imposition différente, revenus qui n’auraient pas été inclus dans le calcul du revenu imposable au Canada pour l’année d’imposition donnée.
+[66] Et c’est ce que tente de faire l’appelant dans le présent appel : pour l’année d’imposition 2018, M. Marin voudrait pouvoir tenir compte, dans le calcul du montant du crédit pour impôt étranger, des impôts qu’il a payés à l’État français au cours de l’année 2018, bien que ces impôts soient les impôts dus à l’État français sur les revenus de 2017, alors qu’en vertu de la Loi, pour l’année d’imposition 2018, M. Marin doit inclure dans ses revenus pour l’impôt canadien les revenus de 2018, et non pas les revenus de 2017.
+L’objet (la partie téléologique de l’analyse) :
+[67] Dans la partie téléologique de l’analyse, la Cour doit rechercher l’objectif visé par la disposition. Pour ce faire, la Cour peut examiner le contexte historique, des documents extrinsèques et l’évolution de la Loi. Cette analyse indique que le but de l’article 126 est d’éviter la double imposition lorsque les revenus de source étrangère sont imposés autant au Canada qu’à l’étranger. Il est donc clair que ce sont les mêmes revenus qui doivent être doublement imposés pour qu’un crédit pour impôt étranger soit accordé.
+[68] La première version d’un crédit pour impôt étranger est apparue dans la Loi de l’impôt de guerre sur le revenu, S.C. 1917, 7‑8 Geo. V, ch. 28, al. 4(5)b), lors de sa modification par S.C. 1919, 9‑10 Geo. V, ch. 55, par. 3(3)). Le ministre des Finances de l’époque, sir Thomas White, s’est exprimé comme suit lors du discours du budget de 1919 :
+Je soumettrai plusieurs modifications dont l’application de la loi de l’impôt sur le revenu a démontré l’opportunité. La question du double impôt a causé bien des ennuis. Vu le temps qu’il faudra pour conclure des arrangements internationaux à ce sujet, nous avons cru bon de prendre les devants et de permettre, sous le régime de notre loi d’impôt sur le revenu, à une personne qui habite le Canada de défalquer du montant qu’elle a à verser la somme qu’elle paie dans une autre partie de l’empire britannique sur la part de son revenu qu’elle y retire.
+Nous décréterons aussi une déduction semblable relativement au revenu retiré dans un pays étranger qui permettra la même déduction eu égard au revenu provenant du Canada.
+[Non souligné dans l’original]
+Several amendments which the administration of the Income Tax Act has shown to be desirable will be submitted. The question of double taxation has given considerable difficulty. In view of the time which would be required to make international agreements respecting the matter we have thought it advisable to take the lead and provide for a deduction from the sum payable by a resident of Canada under our income tax legislation of the amount paid by him elsewhere in the British Empire upon income thence derived. We shall also provide for a similar deduction in respect of income derived from a foreign country extending similar exemption upon income derived from Canadian sources.
+[Emphasis added]
+[69] L’objectif de cette disposition était donc de contrer la double imposition. Également, le montant pouvant être déduit de l’impôt canadien ne pouvait excéder l’impôt payable au Canada sur ce même revenu, ce qui implique que les impôts canadiens et étrangers étaient fondés sur les mêmes revenus.
+[70] Les notes techniques de 1984 publiées par le ministère des Finances (Canada, ministère des Finances, Notes techniques à l’avant-projet de modification de la Loi de l’impôt sur le revenu, l’hon. Marc Lalonde, Ottawa, 25 avril 1984) au sujet de l’article 126 vont dans le même sens :
+En vertu de la Loi de l’impôt sur le revenu, les résidents du Canada sont assujettis à l’impôt sur leurs revenus de toutes provenances. Pour éviter la double imposition, lorsque les revenus étrangers sont également imposés dans un autre pays, l’article 126 de la Loi prévoit un crédit d’impôt au titre de l’impôt payé à une administration étrangère. Le crédit pour impôt étranger ne peut cependant pas dépasser le montant de l’impôt canadien payable par ailleurs sur le revenu étranger.
+[Non souligné dans l’original]
+Residents of Canada are subject to tax under the Income Tax Act on their worldwide income. In order to prevent double taxation where foreign-source income is also taxed in another country section 126 permits a credit against tax for income taxes paid to a foreign jurisdiction. The foreign tax credit may not exceed the amount of Canadian tax otherwise payable on the foreign-source income.
+[Emphasis added]
+[71] Les tribunaux s’accordent également pour conclure que l’objectif de l’article 126 est d’éviter la double imposition (Zhang c. La Reine, 2007 CCI 634, au par. 10; Arsove c. La Reine, 2016 CCI 283, au par. 20). La jurisprudence indique également que cette double imposition implique nécessairement que l’imposition soit à l’égard des mêmes revenus. Ainsi, la Cour fédérale du Canada, Cour d’appel, dans la décision R. c. La Banque de Nouvelle‑Écosse, [1982] 1 C.F. 311, a mentionné ce qui suit au sujet du paragraphe 126(2) (qui prévoit un crédit pour les impôts payés à l’égard de revenus d’entreprise) :
+[...] À mon avis, le législateur a manifestement voulu, par l’alinéa 126(2)a), protéger le résident canadien contre la double imposition en prescrivant un crédit d’impôt fondé, pour une année d’imposition déterminée, sur le montant de l’impôt payable en fonction du revenu gagné à l’étranger durant cette année, sans tenir compte du moment où, selon la loi étrangère, cet impôt étranger devient exigible. [...] (p. 317)
+[...] Ce paragraphe vise à protéger le contribuable contre la double imposition, au cas où il est déjà tenu à l’impôt dans un pays étranger. [...] (p. 320)
+[Non souligné dans l’original]
+[72] Enfin, dans la décision 4145356 Canada Ltd. c. La Reine, 2011 CCI 220, (au par. 70), la Cour a également précisé que l’objectif du crédit pour impôt étranger est d’éviter d’imposer deux fois le même revenu :
+[...] Il me semble que l’article 126 a pour objectif d’éviter que l’on impose deux fois le même revenu et, […].
+[Non souligné dans l’original]
+[73] Ainsi, l’analyse textuelle, contextuelle et téléologique du paragraphe 126(1) confirme l’interprétation voulant qu’un crédit pour impôt étranger ne sera accordé que si le même revenu est imposé autant au Canada qu’à l’étranger. Comme le soutient l’intimée, seul l’impôt étranger payé pour une année d’imposition donnée peut être déduit de l’impôt par ailleurs payable au Canada pour cette même année d’imposition, et ces impôts doivent viser les mêmes revenus. M. Marin aurait donc pu avoir droit au Canada à un crédit pour impôt étranger pour l’année d’imposition 2018 s’il avait effectivement payé de l’impôt à l’État français à l’égard des revenus de 2018. Toutefois, la preuve a démontré que M. Marin n’a payé aucun impôt en France sur les revenus de 2018. Puisque M. Marin n’a pas été imposé à la fois par la France et le Canada sur les revenus de 2018, il ne peut donc se prévaloir du crédit pour impôt étranger pour l’année d’imposition 2018, et ce, même s’il a payé des impôts en France au cours de l’année 2018, puisque ces impôts concernaient les revenus de 2017.
+VII. DISPOSITIF
+[74] Pour ces motifs, l’appel est rejeté, avec dépens en faveur de l’intimée calculés selon le tarif B de l’annexe II des Règles de la Cour canadienne de l’impôt (procédure générale).
+Signé à Ottawa, Canada, ce 13e jour de mai 2022.
+« Dominique Lafleur »
+Juge Lafleur
+Annexe A
+Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.)
+PARTIE I
+Impôt sur le revenu
+SECTION A
+Assujettissement à l’impôt
+Impôt payable par les personnes résidant au Canada
+2(1) Un impôt sur le revenu doit être payé, ainsi qu’il est prévu par la présente loi, pour chaque année d’imposition, sur le revenu imposable de toute personne résidant au Canada à un moment donné au cours de l’année.
+Revenu imposable
+(2) Le revenu imposable d’un contribuable pour une année d’imposition est son revenu pour l’année plus les ajouts prévus à la section C et moins les déductions qui y sont permises.
+Impôt payable par les non-résidents
+(3) Un impôt sur le revenu doit être payé, ainsi qu’il est prévu par la présente loi, sur son revenu imposable gagné au Canada pour l’année, déterminé conformément à la section D, par la personne non imposable en vertu du paragraphe (1) pour une année d’imposition et qui, à un moment donné de l’année ou d’une année antérieure, a :
+a) soit été employée au Canada;
+b) soit exploité une entreprise au Canada;
+c) soit disposé d’un bien canadien imposable.
+PART I
+Income Tax
+DIVISION A
+Liability for Tax
+Tax payable by persons resident in Canada
+2(1) An income tax shall be paid, as required by this Act, on the taxable income for each taxation year of every person resident in Canada at any time in the year.
+Taxable income
+(2) The taxable income of a taxpayer for a taxation year is the taxpayer’s income for the year plus the additions and minus the deductions permitted by Division C.
+Tax payable by non-resident persons
+(3) Where a person who is not taxable under subsection 2(1) for a taxation year
+(a) was employed in Canada,
+(b) carried on a business in Canada, or
+(c) disposed of a taxable Canadian property,
+at any time in the year or a previous year, an income tax shall be paid, as required by this Act, on the person’s taxable income earned in Canada for the year determined in accordance with Division D.
+SECTION B
+Calcul du revenu
+Règles fondamentales
+Revenu pour l’année d’imposition
+3 Pour déterminer le revenu d’un contribuable pour une année d’imposition, pour l’application de la présente partie, les calculs suivants sont à effectuer :
+a) le calcul du total des sommes qui constituent chacune le revenu du contribuable pour l’année (autre qu’un gain en capital imposable résultant de la disposition d’un bien) dont la source se situe au Canada ou à l’étranger, y compris, sans que soit limitée la portée générale de ce qui précède, le revenu tiré de chaque charge, emploi, entreprise et bien;
+b) le calcul de l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
+(i) le total des montants suivants :
+(A) ses gains en capital imposables pour l’année tirés de la disposition de biens, autres que des biens meubles déterminés,
+(B) son gain net imposable pour l’année tiré de la disposition de biens meubles déterminés,
+(ii) l’excédent éventuel de ses pertes en capital déductibles pour l’année, résultant de la disposition de biens autres que des biens meubles déterminés sur les pertes déductibles au titre d’un placement d’entreprise pour l’année, subies par le contribuable;
+c) le calcul de l’excédent éventuel du total établi selon l’alinéa a) plus le montant établi selon l’alinéa b) sur le total des déductions permises par la sous-section E dans le calcul du revenu du contribuable pour l’année (sauf dans la mesure où il a été tenu compte de ces déductions dans le calcul du total visé à l’alinéa a));
+d) le calcul de l’excédent éventuel de l’excédent calculé selon l’alinéa c) sur le total des pertes subies par le contribuable pour l’année qui résultent d’une charge, d’un emploi, d’une entreprise ou d’un bien et des pertes déductibles au titre d’un placement d’entreprise subies par le contribuable pour l’année;
+Pour l’application de la présente partie, les règles suivantes s’appliquent :
+e) si un montant est calculé selon l’alinéa d) à l’égard du contribuable pour l’année, le revenu du contribuable pour l’année correspond à ce montant;
+f) sinon, le revenu du contribuable pour l’année est réputé égal à zéro.
+DIVISION B
+Computation of Income
+Basic Rules
+Income for taxation year
+3 The income of a taxpayer for a taxation year for the purposes of this Part is the taxpayer’s income for the year determined by the following rules:
+(a) determine the total of all amounts each of which is the taxpayer’s income for the year (other than a taxable capital gain from the disposition of a property) from a source inside or outside Canada, including, without restricting the generality of the foregoing, the taxpayer’s income for the year from each office, employment, business and property,
+(b) determine the amount, if any, by which
+(i) the total of
+(A) all of the taxpayer’s taxable capital gains for the year from dispositions of property other than listed personal property, and
+(B) the taxpayer’s taxable net gain for the year from dispositions of listed personal property,
+exceeds
+(ii) the amount, if any, by which the taxpayer’s allowable capital losses for the year from dispositions of property other than listed personal property exceed the taxpayer’s allowable business investment losses for the year,
+(c) determine the amount, if any, by which the total determined under paragraph (a) plus the amount determined under paragraph (b) exceeds the total of the deductions permitted by Subdivision E in computing the taxpayer’s income for the year (except to the extent that those deductions, if any, have been taken into account in determining the total referred to in paragraph (a), and
+(d) determine the amount, if any, by which the amount determined under paragraph (c) exceeds the total of all amounts each of which is the taxpayer’s loss for the year from an office, employment, business or property or the taxpayer’s allowable business investment loss for the year,
+and for the purposes of this Part,
+(e) where an amount is determined under paragraph (d) for the year in respect of the taxpayer, the taxpayer’s income for the year is the amount so determined, and
+(f) in any other case, the taxpayer shall be deemed to have income for the year in an amount equal to zero.
+PARTIE XVII
+Interprétation
+Sens de année d’imposition
+249(1) Dans la présente loi, sauf disposition contraire expresse, l’année d’imposition correspond :
+a) dans le cas d’une société de personnes résidant au Canada ou d’une société, à l’exercice;
+b) dans le cas d’une succession assujettie à l’imposition à taux progressifs, à la période pour laquelle les comptes de la succession sont arrêtés pour l’établissement d’une cotisation en vertu de la présente loi;
+c) dans les autres cas, à l’année civile.
+PART XVII
+Interpretation
+Definition of taxation year
+249(1) In this Act, except as expressly otherwise provided, a taxation year is
+(a) in the case of a corporation or Canadian resident partnership, a fiscal period;
+(b) in the case of a graduated rate estate, the period for which the accounts of the estate are made up for purposes of assessment under this Act; and
+(c) in any other case, a calendar year.
+RÉFÉRENCE :
+2022 CCI 49
+Nº DU DOSSIER DE LA COUR :
+2020-1104(IT)G
+INTITULÉ DE LA CAUSE :
+ANTOINE MARIN ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+Le 21 février 2022
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Dominique Lafleur
+DATE DU JUGEMENT :
+Le 13 mai 2022
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Maurice Renoux
+Avocate de l’intimée :
+Me Marie-Aimée Cantin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Maurice Renoux
+Cabinet :
+Lafrenière Fiscalité inc.
+Montréal (Québec)
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] Dans les motifs, pour désigner les revenus nets de location versés par la société à M. Marin dans une année, la Cour réfèrera aux revenus d’une année donnée, afin d’alléger le texte.

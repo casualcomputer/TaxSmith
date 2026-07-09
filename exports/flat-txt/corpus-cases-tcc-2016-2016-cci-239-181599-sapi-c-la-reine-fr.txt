@@ -1,0 +1,359 @@
+Title: Sapi c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/181599/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-239-181599-sapi-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-10-24
+
+# Sapi c. La Reine
+
+- Citation: 2016 CCI 239
+- Decision date: 2016-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2982, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sapi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-10-24
+Référence neutre
+2016 CCI 239
+Numéro de dossier
+2014-3005(IT)APP, 2014-3034(IT)APP, 2014-3252(IT)APP, 2014-3508(IT)APP
+Juges et Officiers taxateurs
+Henry A. Visser
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-3005(IT)APP
+ENTRE :
+TERESA SAPI,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue sur preuve commune avec les demandes de :
+Anecito Calado c. Sa Majesté la Reine (2014-3034(IT)APP),
+John Hastings c. Sa Majesté la Reine (2014-3252(IT)APP)
+Timothy D’Souza c. Sa Majesté la Reine (2014-3508(IT)APP)
+le 15 décembre 2015 à
+Toronto (Ontario)
+Par : L’honorable juge Henry A. Visser
+Comparutions :
+Représentant de la requérante :
+Robert Mattacchione
+Avocat de l’intimée :
+Me Christopher M. Bartlett
+ORDONNANCE
+APRÈS lecture de la demande de la requérante en vue d’obtenir une ordonnance prolongeant le délai dans lequel un avis d’appel peut être déposé à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 de la requérante;
+ET VU les observations des parties;
+LA COUR, PAR LA PRÉSENTE, ORDONNE QUE la demande soit rejetée, sans dépens.
+Signé à Vancouver (Colombie-Britannique), ce 24e jour d’octobre 2016.
+« Henry A. Visser »
+Le juge Visser
+Dossier : 2014-3034(IT)APP
+ENTRE :
+ANECITO CALADO,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Demande entendue sur preuve commune avec les demandes de :
+Teresa Sapi c. Sa Majesté la Reine (2014-3005(IT)APP),
+John Hastings c. Sa Majesté la Reine (2014-3252(IT)APP),
+Timothy D’Souza c. Sa Majesté la Reine (2014-3508(IT)APP)
+le 15 décembre 2015 à
+Toronto (Ontario)
+Par : L’honorable juge Henry A. Visser
+Comparutions :
+Représentant du requérant :
+Robert Mattacchione
+Avocat de l’intimée :
+Me Christopher M. Bartlett
+ORDONNANCE
+APRÈS lecture de la demande du requérant en vue d’obtenir une ordonnance prolongeant le délai dans lequel un avis d’appel peut être déposé à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 du requérant;
+ET VU les observations des parties;
+LA COUR, PAR LA PRÉSENTE, ORDONNE QUE la demande soit rejetée, sans dépens.
+Signé à Vancouver (Colombie-Britannique), ce 24e jour d’octobre 2016.
+« Henry A. Visser »
+Le juge Visser
+Dossier : 2014-3252(IT)APP
+ENTRE :
+JOHN HASTINGS,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Demande entendue sur preuve commune avec les demandes de :
+Teresa Sapi c. Sa Majesté la Reine (2014-3005(IT)APP),
+Anecito Calado c. Sa Majesté la Reine (2014-3034(IT)APP),
+Timothy D’Souza c. Sa Majesté la Reine (2014-3508(IT)APP)
+le 15 décembre 2015 à
+Toronto (Ontario)
+Par : L’honorable juge Henry A. Visser
+Comparutions :
+Représentant du requérant :
+Robert Mattacchione
+Avocat de l’intimée :
+Me Christopher M. Bartlett
+ORDONNANCE
+APRÈS lecture de la demande du requérant en vue d’obtenir une ordonnance prolongeant le délai dans lequel un avis d’appel peut être déposé à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 du requérant;
+ET VU les observations des parties;
+LA COUR, PAR LA PRÉSENTE, ORDONNE QUE la demande soit rejetée, sans dépens.
+Signé à Vancouver (Colombie-Britannique), ce 24e jour d’octobre 2016.
+« Henry A. Visser »
+Le juge Visser
+Dossier : 2014-3508(IT)APP
+ENTRE :
+TIMOTHY D’SOUZA,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Demande entendue sur preuve commune avec les demandes de :
+Teresa Sapi c. Sa Majesté la Reine (2014-3005(IT)APP),
+Anecito Calado c. Sa Majesté la Reine (2014-3034(IT)APP),
+John Hastings c. Sa Majesté la Reine (2014-3252(IT)APP),
+le 15 décembre 2015 à
+Toronto (Ontario)
+Par : L’honorable juge Henry A. Visser
+Comparutions :
+Représentant du requérant :
+Robert Mattacchione
+Avocat de l’intimée :
+Me Christopher M. Bartlett
+ORDONNANCE
+APRÈS lecture de la demande du requérant en vue d’obtenir une ordonnance prolongeant le délai dans lequel un avis d’appel peut être déposé à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 du requérant;
+ET VU les observations des parties;
+LA COUR, PAR LA PRÉSENTE, ORDONNE QUE la demande soit rejetée, sans dépens.
+Signé à Vancouver (Colombie-Britannique), ce 24e jour d’octobre 2016.
+« Henry A. Visser »
+Le juge Visser
+Dossier : 2014-3005(IT)APP
+ENTRE :
+TERESA SAPI,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2014-3034(IT)APP
+ENTRE :
+ANECITO CALADO,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2014-3252(IT)APP
+ENTRE :
+JOHN HASTINGS,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2014-3508(IT)APP
+ENTRE :
+TIMOTHY D’SOUZA,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+LE JUGE VISSER
+APERÇU : [1] Chacun des quatre requérants a participé à une entente de don au cours d’une ou de plusieurs des années 2001, 2002 et 2003 et a réclamé des crédits d’impôt pour dons correspondants au cours de ces années d’imposition. L’entente de don comprenait l’achat et le don de divers produits, y compris des bandes dessinées, des stylos, des crayons, de la papeterie et des fournitures médicales, et a été émise par Robert Mattacchione, le représentant des requérants dans ces demandes, et une ou plusieurs sociétés auxquelles il était affilié. Chacun des requérants s’est vu imposer une nouvelle cotisation par le ministre du Revenu national (le « ministre ») à l’égard de l’entente de don, et chacun s’y est opposé. Après un délai considérable, l’objection de chaque requérant à ces nouvelles cotisations a été confirmée par le ministre en 2014. En raison d’un prétendu retard de M. Tony De Bartolo, un avocat engagé par leur représentant, de déposer un avis d’appel devant la Cour, chacun des requérants a déposé une demande en vue d’obtenir une ordonnance prolongeant le délai pour déposer un avis d’appel auprès de la Cour conformément à l’article 167 de la Loi de l’impôt sur le revenu (Canada)[1]. Les quatre demandes ont été entendues sur preuve commune[2].
+QUESTIONS EN LITIGE : [2] La seule question en litige dans les présentes demandes consiste à déterminer si chacun des quatre requérants devrait se voir accorder une ordonnance prolongeant le délai de dépôt d’un avis d’appel auprès de la Cour conformément à l’article 167 de la Loi à l’égard des montants en litige à la suite de leur participation à l’entente de don.
+DROIT ET ANALYSE : [3] Conformément au paragraphe 169(1) de la Loi, à la suite de l’envoi d’un avis de confirmation par le ministre, chacun des répondants disposait d’un délai de 90 jours[3] à compter de la date à laquelle le ministre lui avait envoyé l’avis pour déposer un avis d’appel auprès de la Cour. Il n’est pas contesté que chacun des répondants n’a pas déposé d’avis d’appel auprès de la Cour dans le délai imparti. En conséquence, chaque répondant a présenté une demande à la Cour, conformément à l’article 167 de la Loi, en vue d’obtenir une ordonnance prolongeant le délai pour déposer un avis d’appel. L’article 167 de la Loi est plus précisément libellé ainsi :
+167. (1) Prorogation du délai d’appel – Le contribuable qui n’a pas interjeté appel en application de l’article 169 dans le délai imparti peut présenter à la Cour canadienne de l’impôt une demande de prorogation du délai pour interjeter appel. La Cour peut faire droit à la demande et imposer les conditions qu’elle estime justes.
+(2) Contenu de la demande – La demande doit indiquer les raisons pour lesquelles l’appel n’a pas été interjeté dans le délai imparti.
+(3) Modalités – La demande, accompagnée de trois exemplaires de l’avis d’appel, est déposée en trois exemplaires au greffe de la Cour canadienne de l’impôt conformément à la Loi sur la Cour canadienne de l’impôt.
+(4) Copie au sous-procureur général – La Cour canadienne de l’impôt envoie une copie de la demande au bureau du sous-procureur général du Canada.
+(5) Acceptation de la demande — Il n’est fait droit à la demande que si les conditions suivantes sont réunies
+a) la demande a été présentée dans l’année suivant l’expiration du délai imparti en vertu de l’article 169 pour interjeter appel;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+[4] En l’espèce, les parties ont convenu que l’alinéa 167(5)a) n’est pas en cause puisque chacune des quatre demandes a été déposée dans le délai prolongé d’un an. Les parties ont également convenu que le sous-alinéa 167(5)b)(iv) n’est pas en cause parce qu’il existe des motifs raisonnables de justifier l’appel sous-jacent de l’entente de don. Ainsi, les seules questions se rapportent à l’application des sous-alinéas 167(5)b)(i), (ii) et (iii) à ces quatre demandes.
+[5] Conformément au paragraphe 167(2), chacune des requêtes doit « indiquer les raisons pour lesquelles l’appel n’a pas été interjeté dans le délai imparti ». À cet égard, les quatre demandes étaient rédigées de façon identique, comme suit :
+[traduction] L’agent avait cru que le représentant légal avait interjeté appel au nom du requérant. Toutefois, le représentant légal n’avait pas interjeté appel dans le délai imparti de 90 jours, d’où la nécessité de demander à ce qu’il puisse le faire à ce stade-ci.
+[6] À chaque demande était joint un avis d’appel identique aux autres, à l’exception du nom et du numéro d’assurance sociale du requérant et de l’année d’imposition applicable. L’exposé des faits et les motifs d’appel joints à chacun des quatre avis d’appel étaient rédigés de façon identique, tel qu’il est indiqué dans l’annexe A ci-jointe.
+[7] Le ministre s’est opposé à chacune des demandes en vue d’obtenir une ordonnance prolongeant le délai pour déposer un avis d’appel parce que chaque requérant n’avait
+[traduction] « [...] pas réussi à démontrer :
+a. qu’il n’avait pu ni agir ni charger quelqu’un d’agir dans le délai par ailleurs imparti par la Loi, conformément au sous-alinéa 167(5)b)(i) de la Loi;
+b. qu’il avait véritablement l’intention d’interjeter appel à l’encontre de la cotisation dans le délai par ailleurs imparti par la Loi, conformément au sous-alinéa 167(5)b)(i) de la Loi;
+c. que sur la base des raisons indiquées dans la demande et des circonstances de l’espèce, il serait juste et équitable de rendre une ordonnance prolongeant le délai, au sens du sous-alinéa 167(5)b)(ii) de la Loi;
+d. que la demande a été présentée dès que les circonstances le permettaient, comme le prescrit le sous-alinéa 167(5)b)(iii) de la Loi;
+e. que l’appel est raisonnablement fondé au sens du sous-alinéa 167(5)b)(iv) de la Loi. »[4]
+[8] Le ministre n’a pas convoqué de témoins à l’audience, mais a déposé un affidavit de Christine Mah, une agente des litiges de l’Agence du revenu du Canada (l’« ARC ») à Toronto, pour chacune des quatre demandes. À la lumière de ces affidavits, mais sous réserve d’une question relative aux dates applicables dans la demande de M. Hastings, comme il en sera question un peu plus loin, les dates pertinentes pour chacune des demandes sont les suivantes :
+CONTRIBUABLE
+ANNÉE(S) D’IMPOSITION
+DATE D’AVIS DE NOUVELLE COTISATION
+DATE DE CONFRIMATION
+ÉCHÉANCE DU DÉLAI DE 90 JOURS
+DATE DE DÉPÔT DE LA DEMANDE
+NOMBRE DE JOURS DE RETARD
+Teresa Sapi
+2003
+Le 8 mars 2007
+Le 23 janvier 2014
+Le 23 avril 2014
+Le 27 août 1014
+126
+Anecito Calado
+2002
+Le 20 avril 2006
+Le 25 février 2014
+Le 26 mai 2014
+Le 28 août 2014
+94
+John Hastings
+2001
+Le 19 juillet 2004 et le 10 juillet 2013
+Le 2 juin 2014
+Le 1er septembre 2014
+Le 5 septembre 2014
+4
+Timothy D’Souza
+2002 et 2003
+Le 7 avril 2006 et le 1er mars 2007
+Le 16 juin 2014
+Le 15 septembre 2014
+Le 1er octobre 2014
+16
+[9] Teresa Sapi a témoigné lors de l’audience relative aux présentes demandes. J’ai conclu qu’elle était un témoin crédible. Elle a également présenté des éléments de preuve documentaire à l’appui de sa demande, qui est incluse dans la pièce A-1. Mme Sapi est comptable et vit à Mississauga (Ontario); elle a participé à l’entente de don en 2003 et a réclamé un crédit d’impôt pour dons correspondant pour son année d’imposition 2003. À la suite de la nouvelle cotisation établie par le ministre, elle s’est opposée à la nouvelle cotisation en temps opportun. Comme elle travaille dans un bureau de comptabilité, elle a eu recours à l’aide de Sonia Vaknin, une avocate qui est l’une de ses collègues et qui est chargée des litiges fiscaux. Ensuite, Mme Vaknin a eu recours aux services de PAC Protection Corporation (« PAC »), une société affiliée d’une façon ou d’une autre à M. Mattacchione et à l’entente de don en cause dans les appels sous-jacents en matière d’impôt sur le revenu. Après avoir reçu l’avis de confirmation le 23 janvier 2014, Mme Sapi l’a remis à Mme Vaknin qui, à son tour, l’a envoyé par courriel à Donna DuSomme de PAC le jour même en lui demandant de [traduction] « confirmer les prochaines étapes dans cette affaire »[5]. Mme Sapi a en outre déclaré qu’elle avait rapidement transmis à Mme Vaknin tous les envois qu’elle avait reçus de l’ARC relativement à l’entente de don faisant l’objet du présent appel, et que Mme Vaknin avait ensuite rapidement transmis le courrier à PAC, qui, selon ce que la requérante avait compris, étudiait son appel.
+[10] Dans son témoignage, Mme Sapi a déclaré qu’elle n’avait pas eu de discussion directe avec PAC et qu’elle n’était pas certaine que PAC ait engagé un avocat (ou M. Tony De Bartolo en particulier) pour aider à interjeter appel; elle a ajouté qu’elle avait appris que son avis d’appel n’avait pas été déposé lorsqu’elle a reçu un avis de l’ARC indiquant que son litige fiscal ne faisait plus l’objet d’une objection et que le paiement de l’impôt en litige était dû. Elle a alors immédiatement demandé à Mme Vaknin de communiquer avec l’ARC et PAC pour déterminer ce qui s’était passé. Elle a par la suite déposé la présente demande avec l’aide de PAC. Mme Sapi a affirmé qu’elle avait toujours eu l’intention d’interjeter appel à l’encontre de sa nouvelle cotisation après avoir reçu l’avis de confirmation, mais qu’elle ne savait pas pourquoi son avis d’appel n’avait pas été déposé à temps. Mme Sapi a également déclaré qu’elle avait acheté une garantie auprès de PAC relativement à l’entente de don en 2005. Bien qu’elle n’en ait pas eu la certitude, elle croyait que la garantie couvrait les impôts, les intérêts et les pénalités en cas de rejet de son appel.
+[11] Anecito Calado a témoigné lors de l’audience relative aux présentes demandes. J’ai conclu qu’il était un témoin crédible. M. Calado est technicien en électronique et vit à Mississauga (Ontario); il a participé à l’entente de don en 2002 et a réclamé un crédit d’impôt pour dons correspondant pour son année d’imposition 2002. À la suite de la nouvelle cotisation établie par le ministre pour son année d’imposition 2002, il s’est opposé à la nouvelle cotisation en temps opportun. Dans son témoignage, il a affirmé que, lorsqu’il recevait du courrier de l’ARC, il le transmettait très rapidement à PAC qui s’en occupait. Il a également déclaré qu’il traitait surtout avec Donna DuSomme de PAC et qu’il comptait sur PAC pour s’occuper de toutes les questions fiscales, mais qu’il ne connaissait pas M. De Bartolo. Il a appris que son avis d’appel n’avait pas été déposé lorsque l’ARC lui a envoyé une lettre indiquant qu’il devait acquitter la dette fiscale en vertu de la nouvelle cotisation en litige, après quoi il a communiqué avec Mme DuSomme de PAC et la présente demande a été déposée à la Cour. M. Calado a également indiqué qu’il avait acheté une garantie auprès de PAC relativement à l’entente de don et qu’il croyait qu’elle couvrait les impôts, les intérêts et les pénalités en cas de rejet de son appel. Bien que M. Calado n’ait pas bien compris toute la correspondance qui lui a été envoyée par l’ARC, j’estime qu’il avait l’intention de continuer à interjeter appel de sa nouvelle cotisation et, sur réception, transmettait rapidement cette correspondance à PAC puisqu’il comptait sur PAC pour s’occuper de son appel.
+[12] Timothy D’Souza a témoigné lors de l’audience relative aux présentes demandes. J’ai conclu qu’il était un témoin crédible. M. D’Souza est lithographe et vit à Mississauga (Ontario); il a participé à l’entente de don en 2002 et en 2003 et a réclamé un crédit d’impôt pour dons correspondant pour ses années d’imposition 2002 et 2003. À la suite des nouvelles cotisations établies par le ministre pour ses années d’imposition 2002 et 2003, il s’est opposé en temps opportun aux nouvelles cotisations pour les deux années. Il a affirmé avoir été conseillé par son comptable et planificateur financier, M. Tony D’Souza, relativement à sa participation à l’entente de don. Il a également déclaré que son épouse, Vivien D’Souza, s’occupe de toutes ses affaires financières et qu’elle a communiqué avec PAC et M. Tony D’Souza au sujet de son appel à l’encontre des nouvelles cotisations établies par le ministre pour les années d’imposition 2002 et 2003. M. D’Souza ne savait pas s’il avait acheté une garantie auprès de PAC, mais pensait que PAC le rembourserait ou paierait les sommes dues en cas de rejet de son appel.
+[13] Vivien D’Souza, l’épouse de Timothy D’Souza, a également témoigné lors de l’audience relative aux présentes demandes. J’ai conclu qu’elle était un témoin crédible. Mme D’Souza est actuellement employée des postes et vit à Mississauga, en Ontario. Auparavant, elle travaillait comme secrétaire et s’occupait de la plupart des documents de M. D’Souza, notamment pour ce qui est de sa participation à l’entente de don et son appel de la nouvelle cotisation en litige. Mme D’Souza croit qu’elle a également participé à l’entente de don. À l’égard de la nouvelle cotisation de M. D’Souza, Mme D’Souza a déclaré qu’elle avait communiqué verbalement et par courriel avec Mme DuSomme pour obtenir des conseils et pour demander à Mme DuSomme d’envoyer par télécopieur tous les documents qui devaient être signés par M. D’Souza. Elle informait ensuite M. D’Souza de ce que Mme DuSomme avait dit et lui faisait rapidement signer les documents pertinents. Lorsqu’ils ont reçu l’avis de confirmation de M. D’Souza envoyé par l’ARC, elle l’a également transmis à Mme DuSomme et comptait sur elle pour s’occuper de l’appel. Elle a également indiqué qu’elle ne savait pas si un avocat était intervenu dans l’appel de M. D’Souza et que M. D’Souza et elle-même ne faisaient pas affaire avec M. De Bartolo, mais qu’elle faisait confiance à Mme DuSomme en tant que conseillère professionnelle. Mme D’Souza a également affirmé que M. D’Souza et elle-même avaient acheté une garantie auprès de PAC relativement à l’entente de don et que cette garantie devait couvrir les dépenses, mais qu’elle n’avait aucune connaissance des inclusions de la garantie.
+[14] Donna DuSomme, aide-comptable au sein de PAC, a témoigné lors de l’audience relative aux présentes demandes. J’ai conclu qu’elle était un témoin crédible. Elle a prêté main-forte aux requérants en ce qui concerne leurs avis d’opposition et leurs appels, et a régulièrement traité avec eux par courriel, par télécopieur et par téléphone. Elle s’est également occupée de traiter avec les comptables ou les conseillers financiers des requérants. Elle a commencé à travailler au sein de PAC vers juin 2013. Son poste était précédemment occupé par Cheri Durst, qui lui donnait également des directives. En ce qui concerne les appels interjetés par chacun des requérants après la réception des avis de confirmation, elle a déclaré dans son témoignage qu’elle avait été avisée par Mme Durst que M. Tony De Bartolo, un avocat, avait été engagé par PAC pour gérer le processus de dépôt de chaque avis d’appel. Elle a également affirmé qu’elle lui transmettait par télécopieur le dossier de chaque donateur, ainsi que l’avis de confirmation du donateur, et elle avait cru comprendre qu’il déposerait ensuite l’avis d’appel nécessaire auprès de la Cour. Toutefois, il n’a jamais envoyé de correspondance confirmant qu’il avait déposé les avis d’appel.
+[15] En ce qui concerne l’appel de Mme Sapi, Mme DuSomme a déclaré qu’elle avait reçu l’avis de confirmation de Mme Sapi par courriel le 23 janvier 2014, qu’elle l’a envoyé par télécopieur à M. De Bartolo le 29 janvier 2014[6], que les feuilles d’envoi par télécopieur qui le confirment figurent à l’onglet 3 de la pièce A-1, et que M. De Bartolo a confirmé la réception du dossier de Mme Sapi par courriel le 29 janvier 2014, courriel qui est reproduit à l’onglet 4 de la pièce A-1.
+[16] Mme DuSomme a témoigné que, même s’il lui semblait que M. De Bartolo était censé déposer tous les appels, un très grand nombre de donateurs téléphonaient parce qu’ils se demandaient pourquoi l’ARC avait communiqué avec eux en affirmant qu’ils devaient payer un montant non contesté d’impôt. D’après son témoignage, elle croit avoir pris connaissance du défaut de déposer l’appel de Mme Sapi à la fin mars ou au début avril 2014. Cependant, à ce moment-là, elle n’a pas été en mesure de joindre M. De Bartolo par téléphone ou par courriel, en dépit de ses nombreuses tentatives. Elle a témoigné que PAC a ensuite tenté de déposer les appels au nom des requérants. À cet égard, elle a en outre déclaré que Cheri Durst avait déposé une demande de prolongation du délai relativement à l’appel de Mme Sapi devant la Cour le 24 avril 2014, comme en témoigne un courriel du greffe de la Cour daté du 24 avril 2014 et reproduit à l’onglet 5 de la pièce A-1. La raison de la demande de prolongation du délai était la suivante : [traduction] « confusion entre l’avocat et l’agent en ce qui concerne le dépôt de l’appel ». Cependant, tel qu’il est énoncé à l’onglet 6 de la pièce A-1, la Cour a informé Mme Durst dans une lettre datée du 1er mai 2014 que des renseignements supplémentaires étaient nécessaires pour déposer la demande de prolongation du délai et l’avis d’appel de Mme Sapi. Mme DuSomme a déclaré avoir déposé le 27 août 2014 la demande de prolongation du délai et l’avis d’appel de Mme Sapi, qui ont été acceptés par la Cour, mais a affirmé ne pas savoir ce qui s’était passé entre le 1er mai et le 27 août 2014 en ce qui concerne la demande de Mme Sapi, ni pourquoi il y avait eu un nouveau délai pour fournir les renseignements supplémentaires demandés par la Cour le 1er mai 2014[7]. Toutefois, elle a témoigné qu’elle avait essayé de communiquer avec M. De Bartolo par télécopieur le 26 juin 2014[8] au sujet de l’appel de Mme Sapi, mais qu’elle n’avait pas reçu de réponse de sa part et qu’elle était d’avis que la demande de prorogation du délai de Mme Sapi a été accélérée autant que possible compte tenu des circonstances.
+[17] Mme DuSomme a témoigné que les problèmes avec M. De Bartolo ont commencé en 2013 et se sont poursuivis jusqu’en 2014, et qu’elle a appris que M. De Bartolo avait cessé de représenter PAC et les requérants en février 2015, lorsque M. De Bartolo a envoyé une lettre aux requérants les informant qu’il se retirait de cette affaire. Je constate cependant qu’une copie de cette prétendue lettre n’a pas été présentée à titre d’élément de preuve par Mme DuSomme ou l’un des requérants et que la seule preuve soumise à la Cour qui proviendrait prétendument de M. De Bartolo est un courriel indiquant qu’il a reçu deux télécopies concernant Mme Sapi le 29 janvier 2014[9]. Toutefois, ce courriel n’indique pas quelles mesures, le cas échéant, M. De Bartolo avait l’intention de prendre au sujet de l’appel de Mme Sapi ou des appels des autres requérants. Je note également que Mme DuSomme a affirmé que PAC n’avait délibérément pas fourni le nom de M. De Bartolo aux requérants parce que PAC était préoccupée par les frais juridiques éventuels si les donateurs communiquaient directement avec M. De Bartolo. Mme DuSomme a également témoigné qu’aucun autre avocat n’avait été retenu par PAC pour aider à déposer les appels des requérants, même après que PAC ait pris connaissance du défaut apparent de M. De Bartolo de déposer les appels en cause.
+[18] Mme DuSomme a également témoigné que le PAC représentait les participants à l’entente de don qui avaient acheté l’assurance-garantie ainsi que ceux qui avaient participé à un fonds de défense, bien qu’elle ne fût pas sûre de ce que couvrait la garantie. Elle a témoigné que PAC aidait également d’autres participants à l’entente de don s’ils demandaient l’aide de PAC, même s’ils n’avaient pas acheté de garantie ou faisaient partie du fonds de défense.
+[19] Dans l’ensemble, Mme DuSomme a témoigné que les requérants lui avaient transmis en temps utile les documents de l’ARC, y compris les avis de confirmation, et qu’elle les avait transmis à temps à M. De Bartolo, et que ce n’est que quand l’ARC a commencé à communiquer avec les requérants concernant le recouvrement que les requérants et elle ont pris connaissance du défaut apparent de M. De Bartolo de déposer les avis d’appel des requérants auprès de la Cour, après quoi elle et PAC ont agi aussi rapidement qu’ils le pouvaient compte tenu du volume important des appels qu’ils administraient.
+[20] Il y avait des éléments de preuve contradictoires quant à la date à laquelle le ministre a délivré l’avis de confirmation pour John Hastings. L’affidavit de Christine Mah et la réponse du ministre indiquent qu’il a été daté et posté le 2 juin 2014. La demande de John Hastings et son avis d’appel indiquent tous deux que l’avis de confirmation était daté du 6 juin 2014. À l’onglet 26 de la pièce A-1, une copie signée de l’avis de confirmation du ministre qui a été envoyé à John Hastings est datée du 6 juin 2014. Toutefois, la feuille d’envoi par télécopieur de John Hastings accompagnant cet avis de confirmation semble être datée du 5 juin 2014. Étant donné que l’avis de confirmation du ministre qui a été envoyé à John Hastings est clairement daté du 6 juin 2014, j’ai déterminé, aux fins de la demande de John Hastings, qu’il avait été daté et émis à cette date. Quoi qu’il en soit, je constate qu’il n’est pas contesté que John Hastings a déposé son avis d’appel en retard et, selon moi, que le dépôt de son avis d’appel ainsi que sa demande en l’espèce ait eu lieu avec un ou quatre jours de retard n’a pas beaucoup d’influence sur le résultat de sa demande.
+[21] En fonction de ce qui précède, M. Mattacchione a soutenu que les quatre demandes devaient être accueillies, car chacun des requérants avait véritablement l’intention d’interjeter appel, chacune des demandes ayant été présentée dès que les circonstances le permettaient, et compte tenu des raisons exposées dans chacune des demandes et des circonstances propres à chaque cas, il serait juste et équitable d’accueillir chacune de ces demandes. En particulier, il a soutenu que PAC traitait avec des centaines de personnes en même temps et que l’approche de l’ARC, consistant à confirmer les objections massivement, créait une accumulation pour PAC. Il a également soutenu que, compte tenu du volume d’appels qu’elle traite, PAC agissait aussi rapidement que possible dans les circonstances pour régler les problèmes dus à l’inaction de M. De Bartolo. Du point de vue de l’équité, M. Mattacchione a fait valoir qu’il serait équitable d’accueillir ces quatre demandes étant donné que les requérants sont des gens qui travaillent dur et que les conséquences de l’appel sont financièrement lourdes pour eux, qui ne sont pas riches, et qu’il serait regrettable que les demandes et les appels qui en découlent ne soient pas accueillis en raison d’une erreur de PAC ou de M. De Bartolo. Il a également fait valoir que l’entité qui a vendu l’assurance-garantie aux requérants (et à bien d’autres personnes impliquées dans l’entente de don) n’aura peut-être pas les moyens d’accuser une perte résultant des quelque 130 donateurs individuels qui pourraient perdre en appel sur la base de ces quatre causes type.
+[22] Les requérants ont porté à mon attention un certain nombre d’affaires à l’appui de leur position sur cette question, notamment :
+(a) Mehta c. La Reine, 2011 CCI 38;
+(b) 2749807 CANADA INC. c. La Reine, 2004 CCI 457;
+(c) Euro Software Canada Mondial(ESCM)Inc. Logic Alliance Inc. c. La Reine, 2004 CCI 296;
+(d) Meer c. La Reine, 2001 D.T.C. 648;
+(e) Gorenko c. La Reine, 2002 D.T.C. 2025; et
+(f) Rock v. The Queen, 2010 TCC 607.
+[23] Parmi ces affaires, M. Mattacchione a fait référence à Mehta, où la juge Miller de la Cour a déterminé qu’il serait juste et équitable d’accueillir la demande de prolongation du délai si le préjudice subi par le requérant en cas de rejet de la demande était supérieur au préjudice subi par l’intimée si la demande était accueillie. Cependant, bien que cela puisse être un facteur pertinent, je suis d’avis que cela ne devrait pas être un facteur déterminant en soi dans chaque cas, puisque le préjudice subi par un requérant lorsqu’une demande de prolongation du délai est refusée est presque toujours plus grand que le préjudice subi par le ministre si une demande de prolongation du délai est accueillie. En outre, je suis d’avis qu’il est clair que le législateur, en rédigeant l’article 167 de la Loi, n’a pas voulu que l’article 167 prévoie un délai d’appel prolongé d’un an pour tous les requérants.
+[24] M. Mattacchione a également fait référence à la décision Gorenko, qui portait sur une demande de prolongation du délai lorsque deux avocats, chargés de la préparation et du dépôt d’un appel, ne l’ont pas fait en raison d’une mauvaise communication entre eux. Après avoir découvert le problème, ils ont remédié à la situation en deux jours. Dans cette décision, la juge Lamarre Proulx de la Cour a noté ce qui suit aux paragraphes 13 à 19 :
+13 L’avocat du requérant a fait valoir que le requérant avait agi avec diligence raisonnable, de même que Me Rose et Me Barbacki, et que, dès l’instant où l’adjoint de Me Rose avait découvert que l’avis d’appel n’avait pas été déposé dans le délai prévu, on avait fait le nécessaire pour corriger la situation. Il a déclaré que la preuve montrait que le requérant avait apporté l’avis de ratification à son avocat, Me Rose, dès sa réception. Me Rose était très pris par ses dossiers criminels, en particulier un dossier volumineux concernant M. Gorenko dont la Chambre criminelle et pénale de la Cour du Québec avait été saisie, de sorte qu’il a confié l’affaire à un avocat qui louait un bureau dans les locaux du cabinet. Il se peut qu’un malentendu entre les avocats soit à l’origine du non‑respect du délai établi, mais il n’y a pas eu de négligence de la part de l’un ou de l’autre.
+14 L’avocate de l’intimée a fondé sa plaidoirie sur le comportement de Me Barbacki. Il y a eu négligence de sa part en ce qui concerne le traitement du dossier qui lui avait été confié. Elle m’a renvoyée à la décision que j’ai rendue dans l’affaire Di Modica c. Canada, [2001] A.C.I. no 620 (Q.L.), au paragraphe 16 :
+[16] Je suis d’avis que l’erreur de l’avocat peut être un motif juste et équitable d’accorder une prolongation du délai si l’avocat a par ailleurs exercé la diligence normale d’un avocat. Je ne crois pas que l’état du droit soit tel que la négligence ou le laxisme de l’avocat puissent être des motifs justes et équitables au sens de l’alinéa 166.2(5)b)(ii) de la Loi pour accorder la prolongation demandée.
+15 L’avocat du requérant a répondu que c’est Me Rose qui était l’avocat de M. Gorenko et non pas Me Barbacki. Me Rose était le client de Me Barbacki.
+Conclusion
+16 La preuve a établi que le requérant avait donné instruction à son avocat, à temps, de déposer un avis d’appel et que Me Rose avait agi avec raisonnablement de diligence. Il n’avait pas le temps de déposer l’avis d’appel lui‑même et il a dès lors demandé à un collègue de le faire à sa place.
+17 Cet avocat s’était vu confier la responsabilité de déposer l’appel dans le délai prévu. Il était au courant de ce délai. Il a déposé les appels des sociétés dans le délai imparti, même s’il l’a fait dans les derniers jours, selon son témoignage. J’accepte qu’il puisse y avoir eu un malentendu entre les avocats, ainsi qu’ils l’ont donné à entendre, et que cela puisse être la cause du retard.
+18 J’accorde de l’importance en l’espèce au fait que l’avocat du requérant a confirmé que son client avait agi à temps et que les avocats ont témoigné pour expliquer l’oubli. J’accorde aussi de l’importance au fait que, dès l’instant où Me Rose et son adjoint ont découvert qu’il y avait eu oubli, on a fait le nécessaire pour déposer la demande de prolongation du délai en y joignant un projet d’avis d’appel.
+19 Bien que l’affaire en l’instance ne soit pas aussi simple qu’elle devrait l’être, et il est rare que ce genre d’affaire le soit, compte tenu du fait que M. Gorenko et Me Rose ont agi avec raisonnablement de diligence dans l’exercice de leurs droits et obligations, j’accorde une prolongation du délai prévu pour déposer un appel. [Non souligné dans l’original.]
+[25] Je note que les deux avocats ont témoigné dans l’affaire Gorenko, et que la juge Lamarre Proulx a déterminé qu’ils agissaient tous deux avec raisonnablement de diligence dans l’exercice de leurs fonctions. En revanche, je suis d’avis qu’il n’est pas évident que PAC ou M. De Bartolo aient agi avec raisonnablement de diligence en l’espèce. Je constate que M. De Bartolo n’a pas été appelé ou assigné à témoigner en tant que témoin et qu’il n’y avait aucun élément de preuve indépendant, comme une lettre de mission, pour confirmer qu’il avait été retenu pour agir au nom des requérants ou de PAC, ou toute autre explication de la raison pour laquelle il n’a pas agi en temps opportun pour déposer les appels. J’ai tiré une conclusion défavorable de son défaut de témoigner et du fait que les requérants ne l’ont pas appelé ou assigné en tant que témoin. Je souligne également que PAC n’a pas suffisamment expliqué pourquoi elle n’a pas pris de mesures plus adéquates pour déposer les appels dans le délai prescrit de 90 jours, par exemple en engageant un autre avocat, bien que chacun des requérants ait transmis son avis de confirmation à PAC en temps opportun.
+[26] L’intimée a soutenu que chacune des demandes devait être rejetée pour les motifs énoncés dans la réponse du ministre, comme je l’ai mentionné précédemment, et a porté à mon attention un certain nombre de cas à l’appui de la position du ministre sur cette question, notamment :
+(a) Sampson c. La Reine, 2012 CCI 156;
+(b) Hamilton c. La Reine, 2013 CCI 192;
+(c) Bouganim c. La Reine, 2010 CCI 560;
+(d) Di Modica c. La Reine, 2002 D.T.C. 1290.
+[27] Dans ce cas, je suis d’accord avec l’intimée quant au fait que chacune des demandes doit être rejetée pour les motifs qui suivent.
+[28] Lorsqu’il présente une demande en vertu de l’article 167 de la Loi, il incombe au requérant d’établir que chacun des critères énoncés au paragraphe 167(5) de la Loi a été respecté. Comme l’indique le paragraphe 3 de l’arrêt Dewey c. Canada, 2004 CAF 82, « le défaut de satisfaire à l’une ou l’autre des conditions porte un coup fatal à la demande ». De plus, comme il est indiqué au paragraphe 15 de la décision Kolmar c. La Reine, 2003 CCI 829 :
+Une fois que le ministre envoie un avis au contribuable par lequel il confirme la cotisation ou qu’il a établi une nouvelle cotisation après une opposition, le contribuable dispose de 90 jours à partir de la date d’envoi de l’avis pour interjeter appel devant la Cour : paragraphe 169(1). [Le contribuable peut également interjeter appel à l’encontre d’une cotisation si 90 jours se sont écoulés depuis le dépôt de l’avis d’opposition et que le ministre ne l’a pas informé qu’il avait annulé ou confirmé la cotisation ou la nouvelle cotisation.] Pendant cette période de 90 jours, le contribuable doit rassembler toutes ses forces, organiser sa documentation, obtenir des conseils juridiques, etc., pour élaborer un avis d’appel et le déposer devant la Cour. L’article 167 constitue une exception à l’article 169. Toutes les conditions prévues au paragraphe 167(5) doivent être remplies avant qu’une ordonnance de prorogation du délai pour interjeter appel ne puisse être rendue. Le contribuable doit démontrer, entre autres, qu’il n’a pu ni agir ni charger quelqu’un d’agir en son nom ou qu’il avait véritablement l’intention d’interjeter appel dans les 90 jours, mais qu’en raison d’une maladie grave, d’un accident ou d’un malheur ou qu’en raison d’un de ces contretemps inévitables qui surviennent dans la vie, il n’a pu ni agir ni charger quelqu’un d’agir ou de matérialiser son intention d’interjeter appel en temps voulu. Si un contribuable dépose un avis d’appel en retard, il doit agir avec diligence pour présenter une demande de prorogation du délai pour interjeter appel et pour déposer un avis d’appel. Il n’y a pas de zone de confort de une année pour présenter une demande. Lorsqu’il a promulgué l’article 167, le Parlement n’avait pas l’intention de proroger le droit d’appel de la cotisation d’un contribuable. Une telle interprétation enlèverait toute signification à l’article 169.
+[29] Dans la décision Sampson, le juge Paris de la Cour a indiqué au paragraphe 4 que M. Sampson « a simplement déclaré que, lorsqu’il recevait des documents de l’ARC, il les transmettait à OI Employee Leasing Inc. (« OI ») et qu’il incombait à OI de s’en occuper ». Le juge Paris a noté ce qui suit aux paragraphes 7 et 8 de cette décision :
+7 Toutefois, je ne suis pas convaincu que M. Sampson ait démontré que les conditions énoncées au sous-alinéa 167(5)b)(i) aient été remplies, cette disposition exigeant que le demandeur démontre qu’il n’a pu ni agir ni charger quelqu’un d’agir en son nom ou qu’il avait véritablement l’intention d’interjeter appel dans le délai par ailleurs imparti pour interjeter appel de la nouvelle cotisation (soit dans les 90 jours suivant la date de la ratification). Je ne dispose d’aucun élément de preuve donnant à penser que du 14 août au 12 novembre 2008, M. Sampson n’ait pu ni agir ni charger quelqu’un d’agir en son nom. En outre, M. Sampson n’a pas démontré qu’il avait l’intention d’interjeter appel dans ce délai. Je ne dispose d’aucun élément de preuve indiquant qu’il ait demandé à OI d’interjeter appel en son nom. La déclaration qu’il a faite, à savoir qu’il transmettait à OI les documents qu’il recevait de l’ARC et qu’il s’attendait à ce qu’OI prenne les dispositions nécessaires, est insuffisante et ne démontre pas qu’il avait véritablement l’intention d’interjeter appel de la nouvelle cotisation au cours de la période pertinente. Dans la demande qui a été déposée le 23 décembre 2008 pour le compte de M. Sampson, OI déclare qu’un avis d’appel (se rapportant probablement aux nouvelles cotisations concernant les années d’imposition 2003, 2004 et 2005) a été déposé au mois de mai 2007, mais que, par la suite, aucun droit de dépôt n’a été payé et qu’aucune demande de renonciation au droit de dépôt n’a été présentée. Il est ensuite déclaré dans la demande [traduction] : « Après la réception d’un autre avis de ratification concernant l’année d’imposition 2006, et après que nous avons appris qu’il n’était plus nécessaire de payer un droit de dépôt, un nouvel avis d’appel a été déposé ».
+8 Il me semble que M. Sampson a décidé de ne pas interjeter appel de la nouvelle cotisation avant de présenter sa demande, le 23 décembre 2008, parce qu’il ne voulait pas payer le droit de dépôt nécessaire ni demander une renonciation au droit de dépôt. Quoi qu’il en soit, M. Sampson n’a pas présenté de preuve au sujet des mesures de suivi qu’il avait prises auprès d’OI, le cas échéant, après avoir transmis à celle‑ci l’avis de ratification concernant l’année 2006. En l’espèce, il incombe à M. Sampson de démontrer qu’il avait véritablement l’intention d’interjeter appel dans les 90 jours suivant la ratification de la nouvelle cotisation et, en l’absence d’une preuve indiquant les mesures qu’il a prises ou qu’il a tenté de prendre (le cas échéant) par l’entremise d’OI en vue d’interjeter appel, M. Sampson n’a pas satisfait à cette obligation. [Non souligné dans l’original.]
+[30] Dans l’arrêt Hamilton, la juge Miller a rejeté la demande de prolongation du délai présentée par Andrea Hamilton; Mme Hamilton avait fourni un affidavit, mais n’était pas présente à l’audience de sa demande pour témoigner. Compte tenu des contradictions entre les raisons et l’affidavit de Mme Hamilton, la juge Miller a déterminé qu’elle ne pouvait donner aucun poids à l’affidavit. L’avocat de l’intimée fait valoir que le défaut de M. Hastings de se présenter et de témoigner porte également un coup fatal à sa demande.
+[31] Dans la décision Bouganim, le juge Favreau de la Cour a noté ce qui suit aux paragraphes 2 et 24 à 26 :
+[traduction]
+2 La question est de savoir si la négligence de l’avocat Victor A. Carbonneau peut constituer un motif juste et équitable de faire droit aux demandes en vertu du paragraphe 305(5) de la LTA. L’erreur de l’avocat a été admise à l’audience. »
+[...]
+24 Toutefois, M. Carbonneau a commis plusieurs erreurs, notamment de ne pas déposer les avis d’appel dans le délai imparti et de ne pas s’acquitter de son mandat, de ne pas rapidement informer ses clients de cet échec, de ne pas rapidement remédier à l’omission et d’avoir demandé à M. Talarico de préparer les demandes de prorogation du délai d’appel et les avis d’appel. M. Talarico n’a rien fait, et c’est M. Carbonneau qui a préparé la version provisoire de l’avis d’appel. Toutes ces erreurs étaient clairement de la négligence ou de l’insouciance de la part de M. Carbonneau et de son associé.
+25 Dans l’arrêt Di Modica c. La Reine, 2001 CanLII 548, la juge Lamarre Proulx a rejeté une demande de prorogation du délai pour signifier un avis d’opposition parce que les avocats concernés avaient été négligents ou insouciants. Au paragraphe 16 de sa décision, elle tire la conclusion suivante :
+Je suis d’avis que l’erreur de l’avocat peut être un motif juste et équitable d’accorder une prolongation du délai si l’avocat a par ailleurs exercé la diligence normale d’un avocat. Je ne crois pas que l’état du droit soit tel que la négligence ou le laxisme de l’avocat puissent être des motifs justes et équitables au sens de l’alinéa 166.2(5)b)(ii) de la Loi pour accorder la prolongation demandée.
+26 Étant donné que M. Carbonneau a été négligent ou insouciant, la condition énoncée au sous-alinéa 305(5)b)(ii) n’a pas été remplie, puisqu’il ne serait pas juste et équitable d’accueillir les demandes.
+[32] Dans la décision Di Modica, la juge Lamarre Proulx a également mentionné ce qui suit paragraphe 15 :
+[...] il y a admission dans les notes de l’avocat qu’il y a eu négligence de la part des avocats et aucun des avocats en cause n’est venu témoigner pour expliquer sa conduite ainsi que les événements de cette affaire. Cette absence de témoignage a aussi comme résultat qu’il n’y a pas de confirmation des affirmations de la requérante que cette dernière voulait en appeler de la cotisation dans les 90 jours qui ont suivi la cotisation.
+[33] En l’espèce, je suis d’avis qu’aucun élément de preuve ne permettait d’établir que chacun des requérants n’avait pu ni agir ni charger quelqu’un d’agir. Au contraire, il y avait des éléments de preuve indiquant que chaque requérant avait demandé à Mme DuSomme et à PAC d’agir durant la période visée. Par conséquent, je suis d’avis qu’aucun des requérants n’a établi que le sous-alinéa 167(5)b)(i) s’appliquait. Toutefois, un requérant peut tout de même obtenir gain de cause s’il démontre qu’il avait véritablement l’intention d’interjeter appel tel qu’il est énoncé au sous-alinéa 167(5)b)(i) de la Loi.
+[34] En me fondant sur l’ensemble de la preuve, je suis d’avis que Mme Sapi a démontré qu’elle avait véritablement l’intention d’interjeter appel dans le délai de 90 jours prescrit à l’article 169 de la Loi. Bien qu’il y ait un doute quant à leur compréhension de la nature de ces procédures et de leur appel, je suis également d’avis que M. D’Souza et M. Calado ont chacun établi, selon la prépondérance des probabilités, qu’ils avaient chacun véritablement l’intention d’interjeter appel dans le délai de 90 jours prescrit à l’article 169 de la Loi. Par conséquent, j’estime que ces trois requérants ont établi qu’ils avaient véritablement l’intention d’interjeter appel dans le délai de 90 jours prescrit à l’article 169 de la Loi et ont donc satisfait à l’exigence énoncée au sous-alinéa 167(5)b)(i). À cet égard, il est prouvé selon leur témoignage que chacun des requérants a transmis l’avis de confirmation à Mme DuSomme de PAC dès réception, en prévoyant que PAC continuerait de s’occuper des appels en matière d’impôt sur le revenu comme elle le faisait depuis un certain temps. Toutefois, comme dans l’arrêt Sampson, il y avait peu ou pas d’éléments de preuve indiquant que l’un ou l’autre de ces trois requérants avait effectué un suivi auprès de PAC après avoir initialement transmis son avis de confirmation à PAC. Comme nous le verrons ci-après, je suis d’avis que c’est un facteur pertinent pour déterminer s’il est juste et équitable de faire droit à chacune de leurs demandes respectives.
+[35] Bien que John Hastings ne se soit pas présenté à l’audience de ces demandes et n’y ait pas témoigné, certains éléments de preuve indiquent qu’il avait l’intention de continuer à faire appel de sa nouvelle cotisation. À cet égard, je note qu’il a envoyé l’avis de confirmation qu’il a reçu de l’ARC à Mme DuSomme par télécopieur le 5 juin 2014 ou aux alentours de cette date. Une copie de cette télécopie, accompagnée de l’avis de confirmation, est présentée à l’onglet 26 de la pièce A-1. Cependant, bien que la télécopie précise que M. Hastings a envoyé l’avis de confirmation à Mme DuSomme aux fins d’examen et de commentaires, on ne peut dire clairement s’il avait l’intention d’interjeter appel ou de demander à PAC d’interjeter appel en son nom. Compte tenu de la probabilité qu’il ait souscrit à une assurance-garantie auprès de PAC, il est également possible qu’il ait transmis l’avis de confirmation à PAC concernant une réclamation. Il peut aussi avoir simplement demandé des conseils pour déterminer s’il devrait poursuivre son appel. Rien n’indiquait non plus que M. Hasting avait effectué un suivi auprès de PAC après avoir transmis son avis de confirmation à PAC. Dans l’ensemble, je suis d’avis que M. Hastings n’a pas réussi à démontrer qu’il avait véritablement l’intention d’interjeter appel dans le délai de 90 jours prescrit à l’article 169 de la Loi. Je suis conforté dans cette opinion par la décision du juge Paris dans l’arrêt Sampson.
+[36] En ce qui concerne le sous-alinéa 167(5)b)(ii), l’intimée soutient que la négligence présumée de M. De Bartolo, qui n’a pas témoigné, ne constitue pas un motif juste et équitable pour accueillir les demandes en l’espèce. L’intimée soutient en outre que les requérants n’ont pas effectué un suivi adéquat après avoir fourni leur avis de confirmation à PAC et note que le juge Tardif a conclu dans l’arrêt 2749807 (une affaire mentionnée par les requérants) que le fait de s’appuyer sur une personne prétendument qualifiée et compétente n’est pas en soi une excuse acceptable pour justifier et expliquer le défaut d’agir dans le délai prescrit. En l’espèce, l’intimée soutient qu’il n’y a aucune preuve de suivi après que les requérants ont transmis leurs avis de confirmation à PAC. L’intimée soutient également que les requérants ne connaissaient pas M. De Bartolo, n’avaient jamais traité directement avec lui et ne savaient pas, en fait, qu’il agissait prétendument en leur nom.
+[37] Je suis d’accord avec l’intimée. Je suis d’avis que les requérants n’ont pas établi qu’il serait juste et équitable de faire droit à leurs demandes compte tenu des motifs exposés dans leurs demandes et des circonstances en l’espèce. À mon avis, le défaut allégué de PAC et de M. De Bartolo de déposer les appels des requérants en temps opportun pendant la période d’appel ne constitue pas une raison juste et équitable pour accueillir les demandes dans les circonstances de l’espèce. Bien qu’il n’y ait pas suffisamment d’éléments de preuve en l’espèce pour établir que M. De Bartolo a été négligent ou insouciant, ou qu’il a même été engagé pour agir au nom des requérants, je suis d’avis que les requérants n’ont pas établi que PAC ou M. De Bartolo avaient agi la diligence raisonnable exigée dans la décision Di Modica. PAC aurait été engagée pour aider les requérants à déposer leurs appels. Elle ne l’a pas fait et n’a pas, comme il se doit, retenu les services d’un avocat pour qu’il l’aide à le faire. Aucune preuve ne démontre qu’elle a activement surveillé le statut des dossiers d’appel au cas par cas, ni qu’elle a mis en place des procédures pour le faire. De plus, aucune preuve ne démontre qu’elle a été dotée d’un personnel suffisant pour gérer le volume des appels qu’elle a intentés ou qu’elle a engagé un nombre suffisant d’avocats, qui ne manquent pas en Ontario ou au Canada, pour l’aider à déposer et à traiter les appels dont elle se chargeait.
+[38] Je note également que les motifs exposés dans les demandes de M. Calado, de M. Hastings et de M. D’Souza ne sont pas, à mon avis, tout à fait véridiques. Il est clair que PAC et Mme DuSomme savaient qu’il y avait un problème avec le dépôt des appels des donneurs le 24 avril 2014 ou avant cette date. La date limite pour déposer les avis d’appel de M. Calado, de M. Hastings et de M. D’Souza était largement postérieure à cette date. De plus, la date de l’avis de confirmation de M. Hastings et de M. D’Souza était postérieure à cette date. À mon avis, PAC et MM. Calado, Hastings et D’Souza ont eu suffisamment de temps après le 24 avril 2014 pour déposer leurs avis d’appel respectifs dans le délai de 90 jours, mais ils ne l’ont pas fait. Chacun des quatre requérants a également omis de prendre les mesures appropriées, le cas échéant, pour effectuer un suivi auprès de PAC et s’assurer que son avis d’appel respectif était déposé en temps opportun.
+[39] Je suis conforté dans cette opinion par la décision de la juge Lamarre Proulx dans Di Modica, comme il a été mentionné précédemment, et par le jugement Carrier c. La Reine, 2005 CCI 182, où il a été considéré qu’une erreur commise par le comptable d’un requérant dans la production tardive d’un avis d’opposition ne satisfaisait pas les critères semblables énoncés à l’article 166.2 de la Loi. Je suis également conforté dans ma conclusion par la décision de la Cour dans Kolmar, tel que je l’ai déjà indiqué.
+[40] En ce qui concerne les sous-alinéas 167(5)b)(iii), je suis d’avis que les requérants n’ont pas respecté ce critère. Mme Sapi, M. Calado et M. D’Souza ont déclaré avoir transmis leur avis de confirmation à PAC en temps opportun. De plus, M. Hastings a transmis son avis de confirmation à PAC dès réception. À mon avis, chacun des quatre requérants et PAC ont eu suffisamment de temps pour déposer leur avis d’appel respectif auprès de la Cour dans le délai de 90 jours prévu à l’article 169 de la Loi et, à mon avis, ces demandes n’auraient pas été nécessaires dans les circonstances de chacun des cas en l’espèce si chacun des requérants et PAC avaient exercé le degré de diligence qui s’imposait à chacun.
+[41] En ce qui concerne la demande de Mme Sapi, l’intimée soutient qu’il n’y a pas eu suffisamment d’explications fournies par PAC et Mme Sapi pour savoir pourquoi elle a été déposée quatre mois après la date limite. À l’égard des trois autres demandes, l’intimée soutient que PAC était au courant du prétendu problème avec M. De Bartolo au moins le 24 avril 2014, soit bien avant l’échéance du délai de 90 jours pour chacune des trois autres demandes; PAC et les autres requérants n’ont pas suffisamment expliqué le retard dans le dépôt des appels compte tenu de cette connaissance.
+[42] M. Mattacchione a fait valoir, au contraire, que PAC était simplement un administrateur et que les requérants se sont appuyés à la fois sur leurs propres conseillers et sur PAC pendant une longue période et que la relation de confiance bâtie au fil du temps était la raison pour laquelle les requérants n’ont pas nécessairement fait de suivi auprès de PAC en raison de leur expérience passée avec le processus relatif à l’avis d’opposition et d’autres questions soulevées par l’ARC pendant la durée du processus. Il a également fait valoir que certains requérants reconnaissaient n’avoir qu’une compréhension limitée du processus, de sorte qu’ils ont dû se fier à PAC ou à d’autres pour obtenir des conseils et de l’aide. Il a également fait valoir que PAC avait des ressources limitées, à savoir Mme DuSomme, pour traiter un grand nombre d’appels et de demandes.
+[43] Je suis d’accord avec l’intimée. À mon avis, les requérants et PAC n’ont pas suffisamment établi pourquoi leurs appels ont été déposés en dehors du délai de 90 jours et pourquoi ils ont été retardés au-delà de ce délai.
+[44] Dans l’ensemble, je suis d’avis que chacun des requérants a fourni son avis de confirmation à PAC en temps opportun, puis s’est contenté de faire confiance à PAC pour s’occuper des appels sans effectuer de suivi adéquat auprès de PAC pour s’assurer que l’appel avait été déposé. Malheureusement, leur confiance à l’égard de PAC était injustifiée, car PAC n’a ni veillé à ce que leurs appels soient déposés en temps opportun, ni pris de mesures adéquates pour ce faire. Bien que PAC ait tenté d’imputer l’erreur à M. De Bartolo, qui n’a pas témoigné, je suis d’avis que la négligence ou l’insouciance de la part de PAC ou de tout avocat qu’elle a engagé pour déposer les appels en question ne constitue pas une raison juste et équitable pour accorder ces quatre demandes.
+CONCLUSION : [45] Compte tenu de ce qui précède, chacune des quatre demandes de prorogation du délai pour interjeter appel est rejetée, sans frais.
+Signé à Vancouver (Colombie-Britannique), ce 24e jour d’octobre 2016.
+« Henry A. Visser »
+Le juge Visser
+Annexe A Exposé des faits : 1. Le contribuable susmentionné a acquis plusieurs biens (ci-après les « biens ») et a fait don des marchandises à un organisme de bienfaisance canadien enregistré (l’« organisme de bienfaisance ») admissible à émettre des reçus de don de bienfaisance en vertu de la Loi de l’impôt sur le revenu (Canada) (ci-après la « LIR »).
+2. Le contribuable susmentionné a versé des dons en espèces à une organisation caritative enregistrée qualifiée pour émettre des reçus de dons de bienfaisance en vertu de la LIR.
+3. L’organisme de bienfaisance a remis au contribuable un reçu d’impôt pour dons de bienfaisance d’un montant égal à la valeur évaluée des biens donnés par le contribuable à l’organisme de bienfaisance.
+4. L’organisme de bienfaisance a remis au contribuable un reçu d’impôt pour dons de bienfaisance d’un montant égal aux espèces données par le contribuable à l’organisme de bienfaisance.
+5. Dans le calcul de l’impôt payable par le contribuable en vertu de la partie I de la LIR, le contribuable a déduit un montant à l’égard de la valeur évaluée des biens et des espèces donnés par le contribuable à l’organisme de bienfaisance conformément à la LIR (ci-après le « crédit d’impôt »).
+6. L’Agence du revenu du Canada a imposé une nouvelle cotisation au contribuable afin de refuser d’accorder les crédits d’impôt (s’il y a lieu : « et a imposé des pénalités »).
+Motifs d’appel :
+7. Les biens étaient des biens à usage personnel du contribuable au sens de la LIR.
+8. Les dons (biens et espèces) versés par le contribuable à des organismes de bienfaisance étaient des cadeaux et étaient correctement inclus dans le calcul du « total des dons de bienfaisance » du contribuable.
+9. Dans le calcul de l’impôt à payer du contribuable, le contribuable a le droit, en vertu de la LIR, de déduire le crédit d’impôt.
+10. Le contribuable n’a pas agi de façon négligente ni commis un acte qui justifie l’imposition de pénalités (le cas échéant).
+11. Le contribuable se réserve le droit de présenter tout document ou argument supplémentaire à l’appui du présent avis de cotisation ou d’une nouvelle cotisation.
+RÉFÉRENCE :
+2016 CCI 239
+No DU DOSSIER DE LA COUR :
+2014-3005(IT)APP
+2014-3034(IT)APP
+2014-3252(IT)APP
+2014-3508(IT)APP
+INTITULÉ :
+TERESA SAPI c. SA MAJESTÉ LA REINE
+et
+ANECITO CALADO c. SA MAJESTÉ LA REINE
+et
+JOHN HASTINGS c. SA MAJESTÉ LA REINE
+et
+TIMOTHY D’SOUZA c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 15 décembre 2016
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Henry A. Visser
+DATE DE L’ORDONNANCE :
+Le 24 octobre 2016
+COMPARUTIONS :
+Représentant des requérants :
+Robert Mattacchione
+Avocat de l’intimée :
+Me Christopher M. Bartlett
+AVOCATS INSCRITS AU DOSSIER :
+Pour les requérants :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.).
+[2] Une cinquième demande de prolongation de délai pour déposer un avis d’appel, présentée par Herripersaud Budwa, 2014-3016(IT)APP, devait être entendue avec ces quatre demandes. Cette demande a été ajournée le jour de l’audience pour des raisons d’ordre médical. Ensemble, les cinq demandes sont des causes types et sont liées à un groupe d’environ 136 demandes de prolongation de délai pour déposer un avis d’appel représentées par le représentant de ces requérants. Ces causes sont un sous-ensemble d’un nombre bien plus grand d’appels découlant de l’entente de don en cause.
+[3] Sous réserve de prolongation en vertu de l’article 26 de la Loi d’interprétation (Canada) lorsque l’échéance est tombée un jour férié.
+[4] Voir les paragraphes 6, 6, 9 et 8 de la réponse du ministre à une demande de prolongation de délai dans Sapi, Calado, D’Souza et Hastings, respectivement
+[5] Voir la pièce A-1, onglet 2. Teresa Sapi et Sonia Vaknin ont toutes deux reçu en copie conforme le courriel envoyé par Marcia Niles à Donna DuSomme de PAC le 23 janvier 2014, auquel était joint l’avis de confirmation de Mme Sapi daté du 23 janvier 2014. Mme Niles est l’assistante de Sonia Vaknin.
+[6] Précité, note 5.
+[7] Voir la pièce A-1, onglet 8.
+[8] Voir la pièce A-1, onglet 7.
+[9] Voir la pièce A-1, onglet 4.

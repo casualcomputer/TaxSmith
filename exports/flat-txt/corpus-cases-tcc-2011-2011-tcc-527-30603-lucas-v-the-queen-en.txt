@@ -1,0 +1,218 @@
+Title: Lucas v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30603/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-527-30603-lucas-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-11-17
+
+# Lucas v. The Queen
+
+- Citation: 2011 TCC 527
+- Decision date: 2011-11-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7158, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lucas v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-11-17
+Neutral citation
+2011 TCC 527
+File numbers
+2009-695(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-695(IT)I
+BETWEEN:
+ARTHUR LUCAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of 1112114 Ontario Inc. 2008-3659(GST)I, Myra Lucas 2008-3079(GST)I and 2009-696(IT)I on January 18, 19, 20 and 21, 2010, and on June 21, 22 and 23, 2011
+at Belleville, Ontario
+By: The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sara Chaudhary
+George Boyd Aiken (on January 18, 19, 20 and 21, 2010 only)
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 1996, 1997, 1998 and 1999 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment only to give effect to the Respondent’s concessions referred to in Exhibit R‑20 and penalties assessed under subsection 163(2) are deleted.
+Signed at Ottawa, Canada, this 17th day of November, 2011.
+“C.H. McArthur”
+McArthur J.
+Docket: 2008-3659(GST)I
+BETWEEN:
+1112114 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Arthur Lucas 2009-695(IT)I, Myra Lucas 2008-3079(GST)I and 2009-696(IT)I on January 18, 19, 20 and 21, 2010, and on June 21, 22 and 23, 2011
+at Belleville, Ontario
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Agent for the Appellant:
+Arthur Lucas
+Counsel for the Respondent:
+Sara Chaudhary
+George Boyd Aiken (on January 18, 19, 20 and 21, 2010 only)
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which is dated August 31, 2008, for the period January 1, 1996 to December 31, 1999, is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment only to give effect to the Respondent’s concessions referred to in Exhibit R‑20 and penalties assessed under subsection 163(2) are deleted,
+Signed at Ottawa, Canada, this 17th day of November, 2011.
+“C.H. McArthur”
+McArthur J.
+Docket: 2008-3079(GST)I
+BETWEEN:
+MYRA LUCAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Arthur Lucas 2009-695(IT)I, 1112114 Ontario Inc. 2008-3659(GST)I and Myra Lucas 2009-696(IT)I on January 18, 19, 20 and 21, 2010
+and on June 21, 22 and 23, 2011 , at Belleville, Ontario
+Before: The Honourable Justice C.H. McArthur
+Appearances:
+Agent for the Appellant:
+Arthur Lucas
+Counsel for the Respondent:
+Sara Chaudhary
+George Boyd Aiken (on January 18, 19, 20 and 21, 2010 only)
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 1996, 1997, 1998 and 1999 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment only to give effect to the Respondent’s concessions referred to in Exhibit R‑20 and penalties assessed under subsection 163(2) are deleted.
+Signed at Ottawa, Canada, this 17th day of November, 2011.
+“C.H. McArthur”
+McArthur J.
+Docket: 2009-696(IT)I
+BETWEEN:
+MYRA LUCAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Arthur Lucas 2009-695(IT)I, 1112114 Ontario Inc. 2008-3659(GST)I and Myra Lucas 2008-3079(GST)I on January 18, 19, 20 and 21, 2010, and
+on June 21, 22 and 23, 2011 at Belleville, Ontario,
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Agent for the Appellant:
+Arthur Lucas
+Counsel for the Respondent:
+Sara Chaudhary
+George Boyd Aiken (on January 18, 19, 20 and 21, 2010 only)
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 1996, 1997, 1998 and 1999 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment only to give effect to the respondent’s concessions referred to in Exhibit R‑20 and penalties assessed under subsection 163(2) are deleted.
+Signed at Ottawa, Canada, this 17th day of November, 2011.
+“C.H. McArthur”
+McArthur J.
+Citation: 2011 TCC 527
+Date: 20111117
+Docket: 2009-695(IT)I
+2008-3659(GST)I
+2008-3079(GST)I
+2009-696(IT)I
+BETWEEN:
+ARTHUR LUCAS,
+1112114 ONTARIO INC. and MYRA LUCAS,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] These appeals are from net worth assessments under the Income Tax Act (ITA) for the years 1996, 1997, 1998 and 1999 and GST assessments under the Excise Tax Act (ETA) for the period from January 1, 1997 to December 31, 1999. The GST appeals for Myra Lucas and the corporation are related. The position of the Minister of National Revenue (the Minister) is that Arthur and Myra Lucas and the corporation, 1112114 Ontario Inc. (corporation) of which Arthur is the sole shareholder, understated their income, as a unit, in the amounts of $19,700, $67,11, $78,300 and $70,000 for the four years under appeal.
+[2] Mr. and Mrs. Lucas are husband and wife. From their home, they operated a bookkeeping and income tax preparation business. Arthur operated through his wholly owned corporation. Myra carried on business under the sole proprietorship A-1 Accounting. For the most part, Myra’s clients were not GST registrants while clients of Arthur’s corporation were.
+[3] This was a difficult case that should never have gone to trial. Having done so, it should not have lasted almost two weeks. All parties, Mr. Lucas in particular, were dedicated to their positions and efforts towards compromise failed. Mr. Lucas was convinced that the Minister’s method at arriving at a net worth was incorrect. He set out to establish that his method was accurate, leaving no room for settlement. Mrs. Lucas appeared more conciliatory but ultimately supported her spouse.
+[4] At least three of the Minister’s auditors reviewed the net worth, making various concessions and correcting several errors. In their evidence, the auditors reviewed their net worth statements in great detail, including Exhibits A-12, A-14, A-42 and R-20.
+[5] In her summary, Minister’s counsel went over the Minister’s final net worth statement line by line. The amounts are not estimates, nor are they based on information from Statistics Canada. They are derived from banking records, accounting records, the ledgers of corporation, and the ledgers of Mrs. Lucas’ sole proprietorship.
+[6] Mr. Lucas believes that Canada Revenue Agency (CRA) targeted him for audit. In the course of operating the business, he had successfully represented some 80 clients at the objection and Tax Court stages. The Minister answered to the effect that many of his clients may have been audited because of the amount and types of deductions claimed. I found no evidence of bias. In any event, I give this evidence no weight.
+[7] Five character witnesses testified to the effect that the Appellants were giving and compassionate people. Unfortunately, the Appellants’ admirable human behaviour does not assist them in the present appeals. Witnesses to corroborate their evidence with respect to monetary gifts Mr. and Mrs. Lucas claimed to have received from their daughter Lyanna, and Arthur’s sister Sheila, would have been more relevant. The letters from Lyanna and Sheila, submitted without the presence of the authors were of little assistance.
+History of the Assessment
+[8] In 1999, the Appellants advised CRA auditor Kristine Davis that their personal bookkeeping records were mistakenly sent to a land fill and a virus erased their computer records. With no records available, Ms. Davis performed a net worth audit. Through some banking records, she found a substantial discrepancy between the audit amounts and the Appellants’ reported income. She then transferred the file to Special (Criminal) Investigations.
+[9] With warrants, Special Investigations, searched the Appellants’ home in 2002 removing 10‑12 boxes of books, records, and banking statements relating to both the sole proprietorship and corporation. With the new information, CRA performed a reassessment and laid criminal charges against the Appellants for tax evasion. The CRA dropped the charges after Mr. Lucas had a serious heart attack, pursuing civil remedies instead.
+[10] The trial for all appeals proceeded for a week in January 2010 and was adjourned. A month before the scheduled May 2010 resume date, Arthur had another heart attack, causing a further delay. In June 2011, the trial was finally concluded after three days of hearing in the Appellants’ home.
+[11] During the hearing, three CRA officials testified. The Respondent also presented a revised net worth assessment with some concessions, yet still demonstrated considerable unreported income. The Appellants presented their version of the net worth assessment attempting to nullify the Minister’s version.
+Position of the Parties
+[12] The Appellants reject the accuracy and methodology of Exhibit R-20.[1] They submit their assets are double-counted when included in the personal expenditure section of the assessment; liabilities owed by corporation to the sole proprietorship were not included in the assessment; receipt of windows and meat pursuant to a barter scheme with clients should be in taxation year 2000 instead of 1999; and non-taxable income was not included in the Exhibit.
+[13] In a document entitled Judgement, page 4, the Appellants wrote the following:
+Why the justice should give justice to Arthur and Myra Lucas
+An appeals officer for CRA said in his testimony if the discrepancy of Net Worth was negative we would not owe any money, neither tax, gst, penalty or interest. We presented our corrected net worth shoeing in 1996, a negative discrepancy. Our net worth showed discrepancy of (40,790.01). In 1997, discrepancy of (76,257.31). The Crown upon cross examination had no questions towards the net worth instead they concentrated on Windows, meat and Lyanna’s rent. On Lotus A-1 Accounting spreadsheet in March of 2000, $3000 was posted in Revenues for the windows. Meat was posted as adjusting entry in May 31, 2000 in the amount of 1256.69 as revenue, was put in Lotus 1112114 Ontario Inc. spreadsheet. EFT was family allowance for Arthur Lucas Jr. which was payable in those years to age 21 as long as they were in school. My son was still in university in 1999. Since the Crown had no questions about our revised net worth in the cross examination of the defence, it is likely that the new net worth is correct and we showed a negative discrepancy in all the years. That would indicate that we owe no money, either tax, gst, penalty and interest.
+[14] The Appellants objected to having received 788 documents from the Minister only three days before the hearing, on the basis that they could not prepare for the hearing. These appeals are under the Tax Court’s informal procedure where there is no obligation to disclose documents. The Minister should not be penalised for being too thorough. In any event, I believe the Appellants had access to most if not all the documents at some point during the past 10 years.
+[15] The Minister assessed Myra for failing to report income and added that she deliberately understated her income to avoid having to report and remit GST under paragraph 240(1)(a) of the ETA. Registration is required if a supplier’s revenue exceeds $30,000.
+[16] When the Minister assessed the Appellants, time had already exceeded the statutory three-year period. I have no difficulty in finding that the Minister was justified in assessing the Appellants beyond this period. The Appellants made misrepresentations attributed to neglect, carelessness or wilful default when filing their income tax returns pursuant to subparagraph 152(4)(a)(i) by under-reporting income and taxable supplies pursuant. At the outset of the Minister’s efforts, the Appellants misled efforts to obtain documents. There was clear evidence of unreported bartering and efforts to conceal sales over $30,000. As a last resort, the Minister proceeded by the net worth method.
+[17] The Minister spent months, if not years, auditing, correcting and revising their audit. The result was Exhibit A-14, and was subsequently modified by the concessions set out in Exhibit R-20. Similarly the Appellants obviously made a major effort to demonstrate how the Minister was incorrect, including filing Exhibits A-1 to A-44.
+[18] The net worth method is based on the assumption that if one deducts a taxpayers net worth at the beginning of the year from that at the end, adds the taxpayer’s expenditures in the year, and deletes non-taxable receipts, the net result, less any amount declared by the taxpayer, must be attributable to unreported income unless the taxpayer can demonstrate otherwise. Obviously, a net worth assessment is somewhat arbitrary and inaccurate, but presently it is the best way of arriving at the Appellants’ approximate income.
+Analysis
+[19] The Appellants have the onus of proving that the Minister’s assessments are wrong. Counsel for the Minister carefully reviewed Exhibit R-20, line by line, explaining the differences between the Minister’s position and that of the Appellants.
+[20] The primary difference between the parties is that the Appellants reduced all personal expenditures to zero. The Minister added their personal expenditures in the years under appeal as provided in he case of Bigayan v. The Queen.[2]
+[21] To succeed, the Appellants must establish that the Minister’s assessments are wrong and why. The Appellants have not grasped the net worth concept. By not including their personal expenditures they are ignoring Bowman J.’s definition of net worth in Bigayan. Bowman J. described how a taxpayer may successfully appeal a net worth assessment, stating the following at paragraphs 2, 3 and 4:
+[2] The net worth method, as observed in Ramey v. The Queen, 93 DTC 791, is a last resort to be used when all else fails. Frequently it is used when a taxpayer has failed to file income tax returns or has kept no records. It is a blunt instrument, accurate within a range of indeterminate magnitude. It is based on an assumption that if one subtracts a taxpayer's net worth at the beginning of a year from that at the end, adds the taxpayer's expenditures in the year, deletes non-taxable receipts and accretions to value of existing assets, the net result, less any amount declared by the taxpayer, must be attributable to unreported income earned in the year, unless the taxpayer can demonstrate otherwise. It is at best an unsatisfactory method, arbitrary and inaccurate but sometimes it is the only means of approximating the income of a taxpayer.
+[3] The best method of challenging a net worth assessment is to put forth evidence of what the taxpayer's income actually is. A less satisfactory, but nonetheless acceptable method is described by Cameron, J. in Chernenkoff v. Minister of National Revenue, 49 DTC 680 at page 683:
+· In the absence of records, the alternative course open to the appellant was to prove that even on a proper and complete 'net worth' basis the assessments were wrong.
+[4] This method of challenging a net worth assessment is accepted, but even after the adjustments have been completed one is left with the uneasy feeling that the truth has not been fully uncovered. Tinkering with an inherently flawed and imperfect vehicle is not likely to perfect it.
+[22] For the personal expenditures, the Minister used the Appellants’ own records retrieved in the 2002 search. He correctly included personal expenses paid for by corporation, such as food. The Appellants argued the food was purchased primarily for clients and not for the Appellants and, therefore, should not be included in the net worth assessment. I do not accept this argument. No clients testified that they were offered food when visiting the Appellants on business. Some clients were possibly offered a non alcoholic beverage and a biscuit, but this was unsubstantiated.
+[23] The Appellants claim they received non-taxable income from their family and friends. The primary sources were Lyanna, Sheila and Arthur’s mother. While Arthur’s mother has passed on, Lyanna and Sheila are alive and I believe, available. Instead of testifying, letters from both women were presented as evidence of the income. It is difficult to assign any weight to these letters, since they are hearsay and otherwise unsubstantiated. I believe the relatives could have appeared at trial since it was scheduled well after the date on the letters. The Minister did concede $1,200 per year in gifts from Arthur’s mother, but did not concede either the $8,000 loan from Arthur’s mother or the payments from Lyanna and Sheila. The Appellants did produce a receipt they created for the $8,000 loan but it is difficult to substantiate without other evidence, particularly since they had 10 years to produce this evidence.
+[24] Included in Exhibit A-42 are trips by Myra and Arthur to three food banks. The monetary value of these trips cannot be included in a net worth assessment unless cash was received from the food bank. The money saved from going to the food bank for groceries is reflected elsewhere in the net worth assessments. It does not affect the discrepancy being taxed. A similar conclusion is drawn from the “Christmas sharing” and “Salvation Army” line items. In any event these amounts are somewhat insignificant while considering the overall amount but it does accentuate the effect the audit had on the Appellants’ business.
+[25] They submitted a line item called “Myra’s Drawing (A-1 Accounting)”. This item appears to reflect money drawn from the sole proprietorship accounts by Myra. If I understand correctly this information is already reflected between the personal expenditures and the assets in the net worth assessments. I do not pretend to have accounting expertise, but hearing both submissions, I accept that of the Minister’s in most instances.
+[26] The next disputed point is the child tax benefit the Appellants received through 1999. It was not payable in 1998 and 1999 since Arthur Jr. turned 18 in 1997, and the child tax benefit is not available the year after a child turns 18.
+[27] The Appellants included interest received from their bank accounts in the non-taxable section of their net worth assessments. This is taxable income and therefore should not be included in the non-taxable section. The payments are reflected in the Minister’s net worth assessments in the asset balance at year end and the personal expenditures. The Appellants also added credit card liabilities to the “non-taxable income” portion, in effect double-counting the liabilities. As a result, the discrepancy is artificially lowered. The Minister has correctly omitted the interest payments from its net worth assessments.
+[28] The income tax refunds were incorrectly calculated by the Appellants. For example, for the taxation year 1996, a tax refund was received by the Appellants in 1997. They included it in their 1996 non-taxable income. When considering non‑taxable income in a net worth assessment, the actual cash payments should be traced. The Minister’s method in adding the income tax refunds is correct.
+[29] Further, the Appellants submit they properly included the monetary value of the meat and windows received through the barter scheme in the 2000 taxation year. However, the meat was physically received, and consumed by the Appellants in 1998 and 1999. Paragraph 12(1)(a) requires all receipts to be included in income for a taxation year. It was properly included in the Minister’s assessments for taxation years 1998 and 1999.
+The window installer was billed for services in 1999. The value of the windows should have been included in the 1999 taxation year, as done by the Minister pursuant to paragraph 12(1)(b) of the ITA.
+[30] The next point of contention is a discrepancy of $30.16 financing charge at the end of 1998. The Minister was correct in not applying this charge in its assessment, since the charge was not applied until January 1999.
+[31] In Exhibit A-42, the Appellants included a loan from corporation to Mr. Lucas, the sole shareholder of corporation. He was not liable for the liability of the corporation. Therefore, the loan cannot be included in the assessment.
+[32] With reference to Exhibit A-20 under “Long Term Fixed Assets”, the Minister included an amount for equipment not referred to elsewhere. The Appellants submitted it should not be included because it was worthless. This statement alone is insufficient to refute the Minister’s assumption of value.
+[33] Finally, the Appellants disputed the “Fixed Assets from corporation114” yet provided no contrary evidence. The Minister’s assumption stands.
+GST Registration
+[34] After adding the unreported income determined in this appeal, Myra’s gross revenues for 1998 and 1999 exceed $30,000. Pursuant to the sections 123 and 165 of the ETA, she is deemed to be a registrant and is liable to remit GST to the Minister.
+Conclusion
+[35] Since the Appellants could not adequately refute the assumptions made by the Minister in the net worth assessments, the appeals are allowed only to the extent the Minister conceded certain line items at trial. Arthur and Myra collectively owe a total of $16,468.55, $65,374.69, $73,825.57, and $59,541.20 in income tax for taxation years 1996, 1997, 1998 and 1999, respectively. Myra owes $576.40, $2,288.11, $2,583.89, and $2,083.94 in GST for the same taxation years.
+[36] The Appellants’ position on many issues, primarily personal expenditures, is incorrect. For many items they could not provide sufficient evidence, explanation, or were simply wrong in their understanding of the law.
+[37] Overall, I found Mr. and Mrs. Lucas to be very decent people. Gross negligence penalties should not be imposed. Obviously, their tax filings were overly aggressive and self-serving, both for their personal transactions and possibly on behalf of their clients.
+[38] They have paid severely for these transactions. I do not place blame on the Minister’s shoulders. With greater cooperation from the Appellants, these appeals should have been settled. With the cooperation of the Minister’s counsel, after the first two or three days of trial, I urged the parties to have a settlement conference with another Judge. Mr. Lucas was determined to complete the trial on the basis that there was no room for compromise in that his method was the only correct one.
+Signed at Ottawa, Canada, this 17th day of November, 2011.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2011 TCC 527
+COURT FILE NO.: 2009-695(IT)I
+2008-3659(GST)I
+2008-3079(GST)I
+2009-696(IT)I
+STYLE OF CAUSE: ARTHUR LUCAS, 1112114 ONTARIO INC. and MYRA LUCAS and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Belleville, Ontario
+DATE OF HEARING: January 18, 19, 20 and 21, 2010, and June 21, 22 and 23, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: November 17, 2011
+APPEARANCES:
+For the Appellants:
+Arthur Lucas
+Counsel for the Respondent:
+Sara Chaudhary
+George Boyd Aiken (on January 18, 19, 20 and 21, 2010 only)
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-20 is the comparative net worth statement relied on by the Minister.
+[2] Biagayan v. R., 2000 DTC 1619.

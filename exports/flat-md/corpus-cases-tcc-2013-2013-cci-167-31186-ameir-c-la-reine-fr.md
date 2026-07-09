@@ -1,0 +1,153 @@
+---
+title: "Ameir c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31186/index.do"
+last_modified: "2013-04-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 167"
+citation2: ""
+neutral_citation: "2013 CCI 167"
+decision_date: "2013-04-26"
+language: "fr"
+item_id: "31186"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5083
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:21:36.741000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7a7d680ece3752c77238b756b22b7ebf080c01cc06e55b2c237168911936de42"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ameir c. La Reine
+
+- Citation: 2013 CCI 167
+- Decision date: 2013-04-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5083, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ameir c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-04-26
+Référence neutre
+2013 CCI 167
+Numéro de dossier
+2012-624(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2013 CCI 167
+Date : 20130527
+Dossier : 2012-624(IT)I
+ENTRE :
+AMEIR AMEIR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 26 avril 2013, à Edmonton (Alberta))
+La juge V.A. Miller
+[1] Le présent appel concerne les années d’imposition 2006 et 2007 de M. Ameir. La question en litige consiste à savoir si, pour ces années-là, le ministre du Revenu national (le « ministre ») a déterminé correctement le revenu d’entreprise net de l’appelant.
+[2] Lorsqu’il a produit ses déclarations de revenus pour 2006 et 2007, l’appelant a déclaré le revenu d’entreprise net suivant :
+2006
+2007
+Revenu brut
+0,00 $
+3 883,00 $
+Dépenses
+4 413,82 $
+0,00 $
+Revenu d’entreprise net
+(4 413,82 $)
+3 883,00 $
+[3] Le ministre a établi une nouvelle cotisation à l’endroit de l’appelant et a calculé son obligation fiscale comme suit :
+2006
+2007
+Revenu brut
+28 948,61 $
+49 893,07 $
+Dépenses :
+Véhicule automobile
+3 397,06 $
+Carburant
+14 338,96 $
+Assurance
+3 432,57 $
+Frais de location
+6 792,48 $
+Immatriculation
+1 438,88 $
+Réparations
+10 521,93 $
+Total des dépenses
+3 397,06 $
+36 524,82 $
+Revenu d’entreprise net
+25 551,55 $
+13 368,25 $
+[4] En 2006 et 2007, l’appelant exploitait une entreprise de camionnage en tant qu’entreprise individuelle, sous le nom de Sameir Trucking Service. En juillet et en août 2006, il a fourni des services à Red Label Trucking Ltd. et, entre les mois de septembre et de décembre 2006 (inclusivement), à Rainbow Transport Ltd. Il a également fourni des services de camionnage à Trimac Transportation Services Ltd. (« Trimac ») entre les mois de février et de juin 2007.
+[5] L’appelant a déclaré qu’il conservait tous ses dossiers d’entreprise dans son camion. Il a eu un accident avec ce camion en décembre 2006, et il a perdu tous ses dossiers. Il a témoigné que son comptable lui avait dit de produire ses déclarations en y indiquant les montants qu’il avait déclarés. Il s’était fait dire qu’il pourrait corriger les montants au moment où il ferait l’objet d’une vérification.
+[6] Le ministre a obtenu des documents auprès de tierces parties en vue d’établir une nouvelle cotisation à l’endroit de l’appelant pour les années d’imposition 2006 et 2007.
+[7] À l’audition du présent appel, l’appelant n’a pas été en mesure de confirmer un bon nombre des hypothèses du ministre. Il a généralement répondu qu’il n’était [traduction] « pas sûr ». Il n’était [traduction] « pas sûr » du revenu qu’il avait déclaré en 2006 et en 2007, du revenu qu’il avait gagné en 2006 et en 2007, de la date à laquelle il avait commencé à travailler avec Rainbow Transport Ltd., des dates où il avait travaillé pour Trimac, des dépenses qu’il avait engagées en 2006 et en 2007, et du fait de savoir s’il avait exploité son entreprise après juin 2007. Il a dit qu’il avait collaboré avec l’ARC et que toutes les erreurs commises étaient attribuables à son comptable. Il ne pouvait pas se souvenir du nom de ce dernier, mais il a dit qu’il lisait ses déclarations de revenus avant de les signer.
+[8] L’appelant a produit quelques reçus qui n’avaient pas été remis au vérificateur. L’intimée a admis que l’appelant avait le droit de déduire des dépenses additionnelles en 2006, à savoir le montant de 9 696 $ payé à Aqua Insurance Brokers, et les montants de 171,66 $ et de 360,88 $ payés à Calmont pour des réparations effectuées à son véhicule. Le montant total des dépenses additionnelles admises s’élève à 10 255,54 $ pour 2006.
+[9] L’appelant a déclaré qu’en 2007 il avait pris l’avion d’Edmonton jusqu’à Grand Prairie afin d’aller chercher son camion, qui avait été réparé. Il a exprimé l’avis qu’il fallait l’autoriser à déduire le coût de ce vol. Il n’a fourni aucun document à l’appui de son témoignage, ni aucun montant en rapport avec le coût du vol.
+[10] L’appelant a également exprimé l’avis qu’on devait l’autoriser à effectuer d’autres déductions pour la location de son camion. Il avait loué ce dernier pendant toute l’année 2007 et il lui avait fallu en supporter le coût, même s’il ne travaillait pas.
+[11] Dans la nouvelle cotisation concernant les années 2006 et 2007, le ministre a accordé à l’appelant une déduction relative à la location d’un camion Volvo 660 pour la période d’octobre 2006 à juin 2007, inclusivement. Le ministre a également admis une déduction au titre de la TPS payée sur les paiements mensuels concernant le camion Volvo. Les documents que l’appelant a produits n’étayent pas sa prétention selon laquelle il louait le camion Volvo. Il me semble qu’il n’a pas loué ce véhicule; il l’a acheté et il s’agissait d’une immobilisation. Si je me trompe à cet égard et si l’appelant a bel et bien loué le camion Volvo, il ne peut pas déduire les paiements de location postérieurs à juin 2007. Il a déclaré qu’il ne savait pas s’il avait exploité son entreprise après juin 2007. Si l’appelant n’exploitait pas son entreprise après juin 2007, toutes les dépenses engagées pour le camion Volvo seraient des dépenses de nature personnelle, donc non déductibles. En conclusion sur cette question, l’appelant n’a fourni aucune preuve à l’appui de sa demande relative à des dépenses de location additionnelles.
+[12] L’appelant a demandé des dépenses de carburant additionnelles en 2006. Je conviens qu’il a bel et bien engagé des dépenses de carburant cette année-là. Cependant, il n’a indiqué aucun montant pour ces dépenses. Il n’a fourni aucune preuve sur le kilométrage qu’il avait parcouru ou sur les voyages qu’il avait faits dans le cadre de l’exploitation de son entreprise en 2006. Il n’a fourni aucun document sur ses dépenses de carburant en 2006. Je ne peux pas tout simplement deviner ou choisir un chiffre au hasard pour les dépenses de l’appelant. Il s’agissait de son entreprise, et il lui incombait de tenter d’obtenir des documents à l’appui de sa position. Il n’en a fourni aucun au stade de la vérification du présent dossier, et l’ARC a dû s’adresser à des tiers pour obtenir tous les documents.
+[13] Je trouve peu plausible que l’appelant ait perdu la totalité de ses documents concernant à la fois l’année 2006 et l’année 2007. Il a reproché à son comptable d’avoir commis des erreurs dans ses déclarations de revenus, mais il n’a même pas pu se souvenir du nom de cette personne.
+[14] Je suis d’avis que, sauf en ce qui concerne les montants que l’intimée a concédés, l’appelant n’a pas montré que la nouvelle cotisation était inexacte.
+[15] L’appelant s’est fondé sur le paragraphe 6(7) de la Loi de l’impôt sur le revenu pour soutenir qu’il avait payé la TPS sur ses paiements concernant le camion Volvo et qu’il aurait fallu admettre la TPS à titre de dépense. Premièrement, la TPS a été admise à titre de dépense pour ses paiements de location mensuels. Deuxièmement, le paragraphe 6(7) n’est pour lui d’aucune utilité. Il y est question des avantages à inclure dans le revenu d’un employé.
+[16] Notre régime d’imposition est fondé sur un système d’autodéclaration et d’autocotisation, et il dépend de l’honnêteté et de l’intégrité des contribuables. Il incombe à l’appelant de déclarer avec exactitude son revenu et ses dépenses, et le fait de blâmer son comptable ne le dégage pas de sa responsabilité.
+[17] Lorsqu’un contribuable entend exploiter une entreprise, il se trouve dans l’obligation de tenir des livres et des registres appropriés de façon à ce qu’on puisse vérifier ses revenus et ses dépenses. Il est d’intérêt public que la charge de prouver le fondement des déductions et des réclamations repose sur le contribuable : Njenga c La Reine, [1997] 2 C.T.C. 8 (CAF).
+[18] En conclusion, l’appel relatif à l’année 2006 est accueilli. Le montant total des dépenses additionnelles admises en 2006 est de 10 225,54 $. L’appel relatif à l’année 2007 est rejeté.
+Signé à Ottawa, Canada, ce 27e jour de mai 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 3e jour de juillet 2013.
+S. Tasset
+RÉFÉRENCE : 2013 CCI 167
+No DU DOSSIER DE LA COUR : 2012-624(IT)I
+INTITULÉ : AMEIR AMEIR ET
+LA REINE
+LIEU DE L'AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 26 avril 2013
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 27 mai 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée
+Me Adam Gotfried
+AVOCATS INSCRITS
+AU DOSSIER
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

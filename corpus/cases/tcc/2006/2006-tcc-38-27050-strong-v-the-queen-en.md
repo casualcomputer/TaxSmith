@@ -1,0 +1,146 @@
+---
+title: "Strong v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27050/index.do"
+last_modified: "2006-01-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 38"
+citation2: ""
+neutral_citation: "2006 TCC 38"
+decision_date: "2006-01-17"
+language: "en"
+item_id: "27050"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 595
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:25:56.921000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "525f2e4145c6333deb9024ff50b67111bde26d0a1c759a74945b3683b1a0cb50"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Strong v. The Queen
+
+- Citation: 2006 TCC 38
+- Decision date: 2006-01-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 595, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Strong v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-17
+Neutral citation
+2006 TCC 38
+File numbers
+2005-1961(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1961(IT)I,
+BETWEEN:
+DARLENE STRONG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on November 16, 2005, at Moncton, New Brunswick, by
+By: The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Lisa Wight
+____________________________________________________________________
+JUDGMENT
+UPON motion by counsel for the Respondent for an Order quashing the Appellant's appeal from an assessment made under the Income Tax Act for the 2002 taxation year; or alternatively, for an extension of time to file a Reply to the Notice of Appeal;
+AND UPON reading the affidavit of Karen Sceviour, filed;
+AND UPON hearing the Appellant and counsel for the Respondent;
+IT IS ORDERED that the purported appeal is quashed.
+Signed at Ottawa, Canada, this 17th day of January, 2006.
+"C.H. McArthur"
+McArthur J.
+Citation: 2006TCC38
+Date: 20060117
+Docket: 2005-1961(IT)I
+BETWEEN:
+DARLENE STRONG,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] This motion by the Respondent is for an Order quashing the Appellant's Notice of Appeal for the 2002 taxation year on the basis that the Appellant is seeking a remedy which the Court has no jurisdiction to grant.
+[2] The Appellant appeals the "Notice of Confirmation received on February 17, 2005" from the Minister of National Revenue. She states that Revenue Canada owes her $1,378.86, which amount is held in a dormant Revenue Canada account.
+[3] The Minister issued a Notice of Reassessment on dated March 25, 2004 to recover excess amounts refunded to the Appellant on April 28, 2003. Since 2002, there has been a litany of letters and almost incomprehensible accounting between the Minister and the Appellant.
+[4] The Minister's position is that I have no jurisdiction to hear this appeal on the basis that the Appellant is seeking a refund and not contesting an assessment. The Minister's reassessment of March 25, 2004, was to recover an excess refund of $2,595 which was previously paid in error to the Appellant. Yet the Appellant requests a further refund. Respondent's counsel adds that the Minister is seeking a refund of the overpayment to the Appellant and that it is not an assessment within the definition in Starkman v. The Queen, 1995 2 C.T.C. 2726. Both the Appellant's 2001 and 2002 taxation years have, in effect, nil assessments.
+[5] Subsection 171(1) of the Income Tax Act reads as follows:
+171(1) The Tax Court of Canada may dispose of an appeal by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+[6] An assessment is the Minister's ascertainment of tax payable by a taxpayer (see Starkman, supra). In Starkman, Mogan J. concluded that an assessment is the summation of all factors representing tax liability. The Appellant's tax liability for 2001 and 2002 was nil. The Appellant's appeal is with respect to a tax refund and not a tax liability. I agree with the following statement of Lamarre J. in Paradis v. The Queen, 2004TCC676 at paragraph 3:
+[2] The appellant does not challenge the amount of tax payable according to the notice of assessment dated May 27, 2003. In 2002 he worked in the province of Ontariobut resided in the province of Quebec. His employer withheld at source from his remuneration an amount of tax that was based on the assumption that he resided in Ontario. The appellant argues that the CCRA has to give him back the excess of federal tax withheld at source and owed to him. The appellant wants that refund in order to pay the income tax that he owes to the province of Quebec. He says that the CCRA did not have the right to recover a guaranteed student loan by way of set-off against his federal income tax refund. He says that income tax withheld at source by his employer had to be used to pay first the income tax owing to each government (federal and provincial).
+[3] It is not in the power of this Court to resolve that question. This Court's jurisdiction is, pursuant to section 12 of the Tax Court of Canada Act ("TCCA") and sections 169 and 171 of Income Tax Act, restricted to having assessments vacated or varied if the amounts assessed are erroneous. If they are not, this Court can only confirm the assessment. The collection of taxes or the manner in which the government handles tax refunds are not matters within this Court's jurisdiction under the legislation.
+[7] Justice Lamarre pointed out that the collection of taxes or the matter in which the Government handles tax refunds are not matters within the Court's jurisdiction under the legislation.
+[8] Therefore in that case, since the Appellant was not challenging the validity of the assessment with respect to the computation of tax, interest or penalties, the Court dismissed the Appellant's appeal.
+[9] While I have reviewed the remaining Respondent's authorities, there is no need to refer to them.
+[10] For these reasons, the appeal is quashed.
+Signed at Ottawa, Canada, this 17th day of January, 2006.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2006TCC38
+COURT FILE NO.:
+2005-1961(IT)I
+STYLE OF CAUSE:
+Darlene Strong and Her Majesty the Queen
+PLACE OF HEARING:
+Moncton, New Brunswick
+DATE OF HEARING:
+November 16, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT:
+January 17, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Lisa Wight
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

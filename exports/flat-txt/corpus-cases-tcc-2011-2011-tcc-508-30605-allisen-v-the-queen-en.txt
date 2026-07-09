@@ -1,0 +1,110 @@
+Title: Allisen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30605/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-508-30605-allisen-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-11-18
+
+# Allisen v. The Queen
+
+- Citation: 2011 TCC 508
+- Decision date: 2011-11-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7160, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Allisen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-11-18
+Neutral citation
+2011 TCC 508
+File numbers
+2009-3948(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3948(IT)I
+BETWEEN:
+BROOKS ALLISEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 6, 2011, at Victoria, British Columbia.
+Before: The Honourable Justice François Angers
+Appearances:
+Agent for the Appellant:
+R.G. Allen
+Counsel for the Respondent:
+Holly Popenia
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act in respect of the 2006 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of November 2011.
+« François Angers »
+Angers J.
+Citation: 2011 TCC 508
+Date: 2011118
+Docket: 2009-3948(IT)I
+BETWEEN:
+BROOKS ALLISEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal in respect of the appellant’s 2006 taxation year. In filing his tax return for that year, the appellant reported and claimed a business investment loss (BIL) of $25,000. The Minister of National Revenue (the “Minister”) reassessed the appellant, denying his claimed BIL and allowing a capital loss of $25,000.
+[2] In October 2002, the appellant attended a conference in Vancouver where a presentation was made to all those in attendance about investing in a business as a partner. The business was identified as Chivas and more particularly as Chivas Growth Fund Limited Partnership (CGFLP). The presenter was Mr. Michael Ruge, who was at all relevant times the only shareholder of a company known as Chivas Hedge Fund Ltd., which company was in fact doing business under the name of CGFLP.
+[3] The appellant later had discussions with Mr. Ruge about a possible investment in Chivas. He was given instructions and in fact received from Mr. Ruge as president of Chivas Growth Fund Inc., which appears to be a second corporation, a letter dated October 24, 2002 advising the appellant that he had two basic investment choices. The letter also detailed exciting year-to-date returns on investment.
+[4] The appellant candidly admitted he was not sure what he had actually invested in, and in particular he was unaware whether he was buying shares in a corporation or units in a partnership. In any event, the documents produced at trial show that the appellant signed at some point a subscription form for 500 limited partnership units in the capital of CGFLP at a unit price of $50 for a total of $25,000. Two cheques were issued by the appellant on November 28, 2002 totalling $25,000 and payable to CGFLP. The next day a receipt for the total amount was issued to the appellant by CGFLP. It is interesting to note that the October 24, 2002 letter to the appellant stated that the minimum investment was to go up from $25,000 to $100,000 as of November 1 for investors in British Columbia and Alberta. The appellant is from British Columbia.
+[5] It is also clear from the documents that CGFLP’s business is defined as follows (Exhibit A-4):
+The Limited Partnership intends to cause Advisors to acquire and actively trade securities further to a variety of trading techniques from the Net Proceeds from this Offering and cash on hand.
+[6] The appellant did receive statements from CGFLP for part of 2003 regarding this investment. His money was converted into U.S. funds and details of his returns were provided. In December of 2002, the B.C. Securities Commission ordered that trading in the securities of CGFLP cease until that entity filed an offering memorandum and distribution report in the required form, which order was partially revoked simply to permit CGFLP to make a cash refund of the purchase price of its securities.
+[7] The appellant subsequently attempted to get his money back from Mr. Ruge but Ruge, who was the subject of an investigation by the B.C. Securities Commission, was eventually fined and bankrupted. The appellant sued Mr. Ruge for $25,000 and on July 17, 2006 obtained judgment against him for that amount, but never collected. In filing his 2006 tax return, on the suggestion of his accountant he claimed the BIL.
+[8] At the audit stage, the auditor for the Canada Revenue Agency (CRA), reviewed the documents that had been submitted by the appellant at the time and also conducted her own investigation. The purpose of the audit was to determine if the loss qualified as a BIL. The auditor was particularly interested in finding out if Chivas Hedge Fund Limited doing business as CGFLP was a small business corporation as defined in the Income Tax Act (the “Act”). Her investigation revealed that Mr. Ruge and Chivas Hedge Fund Ltd., or Chivas in any form, had violated securities law in distributing CGFLP units without a prospectus and without being registered, and that Mr. Ruge had admitted to committing fraud against the investors.
+[9] The auditor also was able, through the CRA’s own system, to obtain the following information: Chivas Hedge Fund Inc.’s activities were described as investment services; no revenues were reported for its fiscal years ending December 31, 2001, 2002 and 2003; no payroll account was indicated as existing; and consulting, management and administrative fees in 2002 and 2003 of $11,351 and approximately $70,000 respectively were paid, which would indicate that there could not have been more than six full-time employees. The auditor was also able to conclude that Chivas Hedge Fund Ltd. did not appear to be associated with any other corporation.
+[10] The issue before this Court is whether the appellant is entitled to claim a BIL for his 2006 taxation year. I would point out that other facts were revealed at trial that could have altered the respondent’s treatment of the appellant’s capital loss. This Court, however, has no authority to increase an assessment as the respondent cannot appeal her own assessment.
+[11] On the issue of whether Chivas was a small business corporation, the appellant’s representative argued that the appellant believed that Chivas in any of its forms may have had employees as the appellant was accompanied by traders on the night he attended the conference. Unfortunately, this belief is not substantiated by the evidence presented, and the appellant has not met his burden of proof on that issue.
+[12] In dealing with the issue of whether Chivas was a small business corporation, I will not go through all the requirements of the Act that must be met in order for an investment to qualify as a BIL other that to refer to paragraph 39(1)(c), which provides as follows:
+a taxpayer’s business investment loss . . . from the disposition of any property is the amount . . . by which the taxpayer’s capital loss for the year from a disposition . . . to which subsection 50(1) applies . . . of any property that is . . . a debt owing to the taxpayer by a Canadian–controlled private corporation . . . that is . . . a small business corporation.
+[13] “Small business corporation” is defined in subsection 248(1) of the Act as follows:
+a Canadian–controlled private corporation all or substantially all of the fair market value of the assets of which . . . is attributable to assets that are . . . used principally in an active business carried on primarily in Canada by . . . the corporation . . .
+[14] The term “active business”, also defined in subsection 248(1) means any business carried on by a taxpayer other than a specified investment business or a personal services business. A “specified investment business” is defined as follows in subsection 125(7):
+"specified investment business" carried on by a corporation in a taxation year means a business (other than a business carried on by a credit union or a business of leasing property other than real property) the principal purpose of which is to derive income (including interest, dividends, rents and royalties) from property but, except where the corporation was a prescribed labour-sponsored venture capital corporation at any time in the year, does not include a business carried on by the corporation in the year where
+(a) the corporation employs in the business throughout the year more than 5 full-time employees, or
+(b) any other corporation associated with the corporation provides, in the course of carrying on an active business, managerial, administrative, financial, maintenance or other similar services to the corporation in the year and the corporation could reasonably be expected to require more than 5 full-time employees if those services had not been provided.
+[15] In tax appeals, the burden is on the appellant to establish, on a balance of probabilities that the assessment issued against him is wrong in that the facts upon which the Minister relied are incorrect. To that extent, the appellant must present a prima facie case rebutting the Minister's assumptions of fact.
+[16] In this appeal, the appellant had to establish on a balance of probabilities that he was entitled to claim a BIL for his 2006 taxation year. The evidence presented is unclear as to whether there was a debt owing to the appellant by a Canadian‑controlled private corporation that was a small business corporation. The appellant is not sure whether he invested in a partnership by buying units therein or whether he bought shares in a corporation. The documentary evidence indicates that he bought units in a partnership and that his investment was converted into U.S. funds, which would lead one to believe that the funds were administered in the U.S. There is no evidence to support the argument that the requirements for a BIL were met in the present case.
+[17] The appellant has not met his burden of showing that he was entitled to a BIL for his 2006 taxation year.
+[18] The appeal is dismissed.
+Signed at Ottawa, Canada, this 18th day of November 2011.
+« François Angers »
+Angers J.
+CITATION: 2011 TCC 508
+COURT FILE NO.: 2009-3948(IT)I
+STYLE OF CAUSE: Brooks Allisen v. Her Majesty the Queen
+PLACE OF HEARING: Victoria, British Columbia
+DATE OF HEARING: October 6, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: November 18, 2011
+APPEARANCES:
+Agent for the Appellant:
+R.G. Allen
+Counsel for the Respondent:
+Holly Popenia
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,227 @@
+---
+title: "Kraeker v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27443/index.do"
+last_modified: "2007-01-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 31"
+citation2: ""
+neutral_citation: "2007 CCI 31"
+decision_date: "2007-01-19"
+language: "fr"
+item_id: "27443"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 199
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:01:51.038000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "89bb9a926a01ea47ef7ac8f82a78e670ab77405261e737a7f9b994b10cbbb20e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kraeker v. The Queen
+
+- Citation: 2007 CCI 31
+- Decision date: 2007-01-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 199, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kraeker v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-01-19
+Référence neutre
+2007 CCI 31
+Numéro de dossier
+2006-2362(GST)I, 2006-2723(GST)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2006-2362(GST)I, 2006-2723(GST)I
+ENTRE :
+LESLIE E. KRAEKER et
+JAN W. JOHNSON,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 11 janvier 2007, à Lethbridge (Alberta).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Pour les appelants :
+Les appelants eux‑mêmes
+Avocat de l’intimée :
+Me Tyler Lord
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi sur la taxe d’accise, dont les avis sont datés du 27 janvier 2005 et portent les numéros 06204 et 06205 respectivement, sont accueillis sans dépens, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que les appelants ne sont pas tenus de faire les versements non effectués et de verser les intérêts et les pénalités pour les périodes de déclaration ayant pris fin le 31 octobre 2002 et le 31 janvier 2003.
+Signé à Ottawa, Canada, ce 19e jour de janvier 2007.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 19e jour de septembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI31
+Date : 20070119
+Dossiers : 2006-2362(GST)I, 2006-2723(GST)I
+ENTRE :
+LESLIE E. KRAEKER et
+JAN W. JOHNSON,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] En 2001, MM. Leslie Kraeker et Jan Johnson ont saisi ce qu’ils considéraient comme une affaire en or à Coutts (Alberta), à savoir l’exploitation d’un restaurant et d’un bar. Il semble que l’Alberta Treasury Branch (l’« ATB ») ait également cru que MM. Kraeker et Johnson avaient un plan d’entreprise solide, étant donné qu’elle a consenti à leur prêter une somme de 75 000 $, bien que cette somme ait été largement inférieure à ce que l’ATB avait initialement offert. Malheureusement, l’affaire a mal tourné et l’entreprise n’a pas duré longtemps. En effet, le Dog Pound Restaurant & Sports Lounge Inc. (la « société ») a cessé ses activités au mois d’avril 2003; la société avait une obligation envers l’Agence du revenu du Canada (l’« ARC ») pour les retenues à la source non versées ainsi que pour la taxe sur les produits et services nette (la « TPS ») non versée. Le gouvernement du Canada cherche à recouvrer les sommes dues, plus des intérêts et des pénalités, de MM. Kraeker et Johnson en leur qualité d’administrateurs de la société. Juste avant l’instruction, l’avocat de l’intimée a déclaré que les montants dus conformément à la Loi de l’impôt sur le revenu excédaient le plafond de 12 000 $ applicable à la procédure informelle. À la suite de certaines discussions et d’une entente entre les parties, il a été décidé de traiter la question de la responsabilité des administrateurs en vertu de la Loi sur la taxe d’accise et de tenir les questions d’impôt sur le revenu en suspens en attendant l’issue de l’affaire pour ce qui est de la TPS. Toutes les parties ont convenu que la même question se posait à l’égard des cotisations relatives à l’impôt sur le revenu et des cotisations relatives à la taxe d’accise, et que le résultat auquel donnerait lieu la question de la responsabilité des administrateurs au titre de la TPS serait déterminant quant à la question de la responsabilité des administrateurs au titre de l’impôt sur le revenu. Il s’agit uniquement de savoir si MM. Kraeker et Johnson ont fait preuve de la diligence raisonnable nécessaire pour être dégagés de la responsabilité imposée à l’article 323 de la Loi sur la taxe d’accise.
+Les faits
+[2] MM. Kraeker et Johnson étaient des amis. M. Kraeker aimait faire la cuisine au point où, lorsque le restaurant local, à Coutts, a été mis en vente en 2001, les jeunes hommes ainsi qu’un ami de M. Kraeker, M. Noel Gomes, ont décidé que c’était là une occasion parfaite. Le port de Coutts, un poste frontalier, prenait de l’essor, de sorte que cela semblait être le bon moment puisque, au cours de l’année à venir, il devait y avoir environ 200 travailleurs de la construction dans la ville.
+[3] Les jeunes hommes ont communiqué avec une organisation appelée Chinook Community Futures, qui a aimé leur plan et qui leur a fait savoir que si trois établissements de crédit refusaient de les financer, Chinook leur assurerait un soutien. M. Kraeker a communiqué avec l’ATB, et plus précisément avec une certaine Sharon Seeley, à qui le plan a également plu et qui, contrairement à leurs attentes, a accepté de leur accorder une somme de 125 000 $. Il fallait fournir une garantie. M. Johnson a donné des CPG en gage et M. Kraeker a mis en gage la valeur nette de sa maison. Au mois d’août 2001, l’ATB, par l’entremise de Mme Seeley, a déposé une somme de 25 000 $ dans le compte de la société qui venait d’être constituée. Mme Seeley a ensuite pris des vacances. Pendant l’absence de Mme Seeley, la société a eu besoin de fonds additionnels pour la phase de construction, de sorte que M. Kraeker a obtenu une somme additionnelle de 10 000 $ à l’aide d’une ligne de crédit personnelle. À son retour, Mme Seeley a informé M. Kraeker qu’une somme de 75 000 $ seulement pouvait être approuvée; étant donné que la société avait déjà dépensé 30 000 $, ce fut un coup dur pour MM. Kraeker et Johnson. Ils ont demandé à Chinook un financement additionnel, mais ils n’avaient pas de garantie à offrir. Même leurs femmes avaient donné des garanties personnelles sur le prêt consenti par l’ATB. L’ATB a fait savoir que les fonds additionnels de 50 000 $ seraient peut-être disponibles après l’examen des états financiers de l’exercice. La solution adoptée par la société a été de louer plutôt que d’acheter l’équipement de restaurant, même si cela s’avérait plus coûteux sur le plan du flux de trésorerie mensuel. La société a pu ouvrir ses portes à temps pour la coupe Grey, au mois de novembre 2001.
+[4] MM. Johnson, Kraeker et Gomes étaient tous administrateurs de la société, mais ils avaient différentes tâches. M. Gomes agissait à titre de gérant du restaurant et du bar‑salon étant donné que lui seul avait une certaine expérience dans le domaine de la restauration. M. Gomes supervisait l’embauche de personnel, il passait les commandes, il faisait la cuisine, il établissait les horaires et il effectuait parfois les dépôts bancaires. Il savait que la société était tenue de faire des versements au gouvernement.
+[5] M. Kraeker était chargé de préparer la paie. Il s’occupait également du grand livre des ventes et entrait les données relatives aux ventes dans le programme informatique « Simply Accounting ». Il aidait parfois à la cuisine s’il était disponible, étant donné qu’il travaillait à plein temps pour les Services frontaliers du Canada. Il savait également que la TPS devait être remise quatre fois l’an et que les retenues à la source devaient être versées tous les mois, et il a reconnu ne jamais avoir pris de mesures précises pour s’assurer que ces versements étaient effectués.
+[6] M. Johnson travaillait également pour les Services frontaliers du Canada, mais depuis le mois de février 2002 seulement. Il s’occupait surtout du bar‑salon plutôt que du restaurant; il commandait les stocks, il établissait les horaires, il tenait le bar, il retournait les bouteilles vides et il fermait les lieux le soir. Il aidait parfois du côté de la restauration lorsqu’il n’y avait pas suffisamment de personnel. Il savait lui aussi que des versements devaient être effectués, mais il n’était aucunement au courant de la procédure à suivre. Il estimait que cela ne relevait pas de sa responsabilité, et il supposait que M. Gomes ou M. Kraeker s’en occuperait.
+[7] Les trois administrateurs n’ont jamais tenu de réunions formelles du conseil d’administration, mais ils se réunissaient de manière informelle lorsqu’ils étaient tous au restaurant en même temps. Tous les chèques devaient être signés par deux des trois administrateurs, mais MM. Kraeker et Johnson remettaient à M. Gomes des chèques déjà signés parce que, en sa qualité de gérant, c’était surtout lui qui veillait à payer les dépenses courantes.
+[8] MM. Kraeker et Johnson ont dès le début constaté, au mois de novembre 2001, que s’ils n’obtenaient pas la somme complète de 125 000 $ de l’ATB, leur budget serait plus serré. Toutefois, ils comptaient sur le fait que l’ATB leur avait assuré qu’elle les financerait au bout d’un an. Pendant plusieurs mois, l’entreprise a fonctionné comme on l’avait prévu, et les prévisions mensuelles de trésorerie étaient presque réalisées. Toutefois, pendant l’été 2002, les affaires ont ralenti. Il n’y a pas eu le nombre prévu de travailleurs à Coutts. Pendant l’été, M. Gomes a informé M. Kraeker que deux chèques de paie n’avaient pas été compensés. M. Kraeker a communiqué avec l’ATB et a pris des dispositions pour obtenir un découvert de 30 jours de la banque. Comme M. Kraeker l’a dit, ils se débattaient pour poursuivre les activités afin d’obtenir les 50 000 $ additionnels de l’ATB.
+[9] Au cours de cette période, l’ARC a communiqué avec la société au sujet des versements non faits. M. Kraeker croyait qu’il s’agissait d’une erreur d’écritures. M. Gomes a fait savoir que les versements avaient été effectués. MM. Johnson et Kraeker ont consacré tous leurs efforts à s’assurer que la société obtienne le financement additionnel de l’ATB. Toutefois, le comptable de la société n’était pas prêt à fournir des états financiers de fin d’exercice sans être rémunéré. MM. Kraeker et Johnson ont fourni des garanties personnelles au comptable. Les états financiers ont été produits au mois de janvier 2003. Toutefois, Mme Seeley, à l’ATB, a refusé de continuer à financer l’entreprise.
+[10] M. Kraeker s’est plaint auprès de l’ombudsman de l’Alberta au sujet de la façon dont l’ATB le traitait et il a été informé que l’ATB était prête à avancer une somme additionnelle de 50 000 $. Cela ne s’est jamais produit et, en fait, l’ATB a formellement exigé le remboursement du prêt.
+[11] M. Kraeker a ouvert un nouveau compte à la CIBC. Il a essayé d’obtenir du financement de la Banque de Nouvelle‑Écosse et de la Banque de Montréal, mais étant donné que les garanties données à l’ATB n’étaient pas encore libérées, il n’a pas réussi. L’ARC, qui cherchait à percevoir les versements non effectués, était alors en contact avec lui. Des efforts ont été faits pour vendre l’entreprise, mais en vain. Au mois d’avril 2003, les activités ont cessé. La société a réussi à vendre certains actifs, dont le produit a été transmis à l’ARC.
+[12] La société avait fait des versements de TPS au mois de février 2002, pour les deux premiers trimestres, et elle a obtenu un remboursement de 2 288 $ qui a été porté à son crédit pour les versements subséquents qui étaient dus. La société a produit au mois d’avril ou de mai 2003 seulement les déclarations de TPS pour les trimestres qui avaient pris fin aux mois d’avril, de juillet et d’octobre 2002 ainsi qu’au mois de janvier 2003. La taxe nette pour chacun de ces trimestres était la suivante :
+Fin de la période Date
+Taxe nette déclarée
+Pénalité
+Intérêts
+Total dû
+Crédit
+imputé
+Solde
+dû
+30-04-2002
+3 461,30
+359,00
+147,95
+3 968,25
+(2 288,41)
+1 679,84
+31-07-2002
+3 586,73
+573,95
+241,10
+4 401,78
+0,00
+4 401,78
+31-10-2002
+1 231,68
+175,03
+73,96
+1 480,67
+0,00
+1 480,67
+30-01-2002
+3 435,21
+429,18
+182,28
+4 046,67
+0,00
+4 046,67
+11 714,92
+1 537,16
+645,29
+13 897,37
+(2 288,41)
+11 608,96
+[13] L’ARC a obtenu un certificat de la Cour fédérale ainsi qu’un bref de saisie et de vente en date du 4 novembre 2004, attestant qu’un montant de 11 381,45 $ dû par la société n’avait pas été payé. On a tenté de procéder à la saisie le 10 décembre 2004, mais il n’y avait aucun élément d’actif à saisir.
+Analyse
+[14] L’article 323 de la Loi sur la taxe d’accise est rédigé comme suit :
+323(1) Les administrateurs de la personne morale au moment où elle était tenue de verser une taxe nette comme l’exigent les paragraphes 228(2) ou (2.3), sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer cette taxe ainsi que les intérêts et pénalités y afférents.
+(2) L’administrateur n’encourt de responsabilité selon le paragraphe (1) que si :
+a) un certificat précisant la somme pour laquelle la personne morale est responsable a été enregistré à la Cour fédérale en application de l’article 316 et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme;
+b) la personne morale a entrepris des procédures de liquidation ou de dissolution, ou elle a fait l’objet d’une dissolution, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant le premier en date du début des procédures et de la dissolution;
+c) la personne morale a fait une cession, ou une ordonnance de séquestre a été rendue contre elle en application de la Loi sur la faillite et l’insolvabilité, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant la cession ou l’ordonnance.
+(3) L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[15] Il existe énormément de décisions sur la question de savoir ce qui constitue un moyen de défense valable fondé sur la diligence raisonnable dans le cadre de la responsabilité de l’administrateur. Les appelants se fondent énormément sur les remarques que le juge en chef Bowman, de la présente cour, a faites dans la décision McKinnon v. R.[1] Le juge a expressément dit ce qui suit :
+[…] Le montant net versé aux employés est tout ce dont on dispose. Les employés, les fournisseurs et les autres créanciers sont payés parce que s’ils ne le sont pas, la société devra fermer. Lorsque, comme dans le cas présent, des événements survenants imprévus mettent une personne dans l’impossibilité de payer les retenues salariales au gouvernement, je ne crois pas que l’appelant ait pu raisonnablement faire quoi que ce soit pour assurer le paiement.
+Le début de ce passage donne à entendre que, pour établir le moyen de défense fondé sur la diligence raisonnable, il peut être suffisant d’avoir fait son possible pour que l’entreprise puisse continuer à être exploitée. Pourtant, le juge en chef donne ensuite des précisions au sujet de cette thèse en indiquant qu’il en sera ainsi lorsque les événements imprévus qui surviennent empêchent les appelants de faire quoi que ce soit de plus afin de prévenir le manquement.
+[16] Il ressort également clairement de la décision que la Cour d’appel fédérale a rendue dans l’affaire Worrell v. R.[2] que :
+i) dès que l’administrateur sait ou devrait savoir que la compagnie ne peut pas faire les versements en souffrance, il doit prendre des mesures concrètes pour prévenir le défaut. La Cour d’appel fédérale donne comme exemple l’accroissement de la marge de crédit ou un arrangement avec la banque pour être en mesure de verser les sommes dues;
+ii) l’obligation est de prévenir un manquement et non de réparer un manquement après coup.
+La Cour d’appel fédérale a résumé l’approche à adopter à l’égard de ces questions difficiles :
+[68] J’estime qu’il est essentiel de ne pas perdre de vue la question qui est au cœur du présent appel, savoir si les administrateurs en l’espèce ont exercé la diligence raisonnable requise pour prévenir le défaut de versement de la compagnie. Il ne s’agit pas nécessairement de la même chose que de se demander s’il était raisonnable de leur part, du point de vue commercial, de continuer à exploiter l’entreprise. Pour être en mesure d’invoquer le moyen de défense tiré du paragraphe 227.1(3), il faut normalement qu’ils aient pris des mesures positives qui, si elles aboutissaient, auraient pu prévenir le défaut de versement. Il faut donc examiner si ce qu’ont fait ces administrateurs pour prévenir le défaut satisfait à la norme de soin, de diligence et d’habileté qu’aurait observée une personne raisonnablement prudente dans des circonstances comparables.
+[17] Enfin, je conclus ce bref examen de la jurisprudence pertinente en citant les remarques que la Cour suprême du Canada vient de faire dans l’arrêt Magasins à rayons Peoples Inc[3], en rejetant la norme à la fois objective et subjective établie dans l’arrêt Soper v. R.[4] et en adoptant plutôt une norme objective. Voici ce que la Cour suprême du Canada a dit :
+[67] On ne considérera pas que les administrateurs et les dirigeants ont manqué à l’obligation de diligence énoncée à l’al. 122(1)b) de la LCSA s’ils ont agi avec prudence et en s’appuyant sur les renseignements dont ils disposaient. Les décisions prises doivent constituer des décisions d’affaires raisonnables compte tenu de ce qu’ils savaient ou auraient dû savoir. Lorsqu’il s’agit de déterminer si les administrateurs ont manqué à leur obligation de diligence, il convient de répéter que l’on n’exige pas d’eux la perfection. Les tribunaux ne doivent pas substituer leur opinion à celle des administrateurs qui ont utilisé leur expertise commerciale pour évaluer les considérations qui entrent dans la prise de décisions des sociétés. Ils sont toutefois en mesure d’établir, à partir des faits de chaque cas, si l’on a exercé le degré de prudence et de diligence nécessaire pour en arriver à ce qu’on prétend être une décision d’affaires raisonnable au moment où elle a été prise.
+[18] Si j’examine maintenant les faits dont je suis saisi, quelles mesures MM. Kraeker et Johnson ont-ils prises, pour prévenir le manquement, qu’une personne raisonnablement prudente aurait prises dans les mêmes circonstances? Ont‑ils pris des décisions d’affaires raisonnables? Ou, plus précisément, comme l’a dit le juge en chef Bowman dans la décision McKinnon, précitée, auraient-ils pu faire quoi que ce soit d’autre, compte tenu des événements imprévus qui sont survenus?
+[19] Premièrement, je conclus que MM. Kraeker et Johnson étaient des administrateurs qui participaient activement aux affaires de la société et qu’ils étaient en fait des administrateurs internes. Je conclus également qu’ils étaient au courant des obligations de la société à l’égard des versements. Avant d’examiner ce qu’ils ont fait pour prévenir le manquement, je parlerai de ce qu’ils n’ont pas fait :
+i) ils n’ont pas ouvert de compte distinct pour recevoir et payer la TPS;
+ii) après le mois de février 2002, ils n’ont produit de déclarations de TPS qu’après avoir mis fin à leurs activités commerciales;
+iii) ils n’ont pas établi, dès le début, qui était responsable de la préparation des formulaires de TPS et du versement des taxes dues;
+iv) ils ont eu recours à un comptable, mais rien ne montre qu’ils lui ont demandé conseil ou qu’ils lui ont demandé de l’aide en produisant les déclarations et en effectuant les versements après le mois de février 2002.
+Voici les mesures qu’ils ont prises pour prévenir le manquement :
+i) ils ont eu recours à M. Gomes, qui avait une certaine expérience dans la restauration;
+ii) M. Kraeker a établi une ligne de crédit personnelle pour combler le déficit éprouvé parce que l’ATB n’avait pas avancé la somme complète de 125 000 $;
+iii) ils ont pris des dispositions en vue d’obtenir un découvert en apprenant qu’ils ne pouvaient pas faire face à la paie;
+iv) ils ont régulièrement communiqué avec l’ARC à compter de l’été 2002;
+v) ils ont fourni des garanties personnelles en vue d’obtenir des états financiers, en croyant que cela leur donnerait accès au financement additionnel de 50 000 $ de l’ATB;
+vi) ils ont déposé une plainte devant l’ombudsman de l’Alberta en vue de tenter d’obtenir le financement de l’ATB.
+[20] C’est le moment où ces efforts ont été faits qui me préoccupe. La société a omis d’effectuer des versements à la fin des mois d’avril, de juillet et d’octobre 2002 ainsi qu’à la fin du mois de janvier 2003. À vrai dire, on a fait appel à M. Gomes dès le début, mais rien ne donne à entendre qu’il avait été convenu que M. Gomes s’occuperait des versements. Le fait d’embaucher un gérant ne constitue pas en soi une mesure visant à prévenir le manquement, indiquant une diligence raisonnable. La prise d’une telle mesure constituerait une exigence préliminaire très faible pour permettre aux administrateurs d’échapper à leur responsabilité. Pourtant, il se peut que dans certaines circonstances les administrateurs fassent preuve d’une diligence raisonnable lorsqu’ils embauchent un gérant, par exemple lorsqu’ils embauchent un gérant et lui précisent ses responsabilités particulières quant aux versements, y compris la présentation régulière d’un compte rendu aux administrateurs. Or, ce n’est pas ce qui s’est produit ici. M. Gomes n’a pas assumé la responsabilité de veiller à ce que les versements soient effectués. La preuve montre que, pendant l’été 2002, M. Gomes a informé M. Kraeker que certains chèques de paie posaient un problème, mais il semble que ce soit l’ARC plutôt que M. Gomes qui ait attiré l’attention de M. Kraeker sur les versements omis.
+[21] Quant à l’injection de fonds additionnels à l’étape de la construction, rien ne donne à entendre que cette injection visait à résoudre un problème possible de versement; ce financement visait plutôt à permettre d’achever les travaux, de façon à pouvoir ouvrir les portes à temps pour la coupe Grey 2001.
+[22] L’obtention d’une autorisation de découvert était certes une mesure que M. Kraeker avait prise en vue de maintenir l’entreprise à flot et de permettre à celle‑ci de payer ses dépenses. Cette mesure a expressément été déclenchée par un problème de paie, mais elle se rapportait à la viabilité générale continue de l’entreprise.
+[23] Quant aux mesures désespérées que l’on a prises pour obtenir les états financiers, elles visaient également à assurer le maintien des activités, étant donné que les administrateurs croyaient que les états financiers amèneraient l’ATB à accorder un financement additionnel. Il en allait de même lorsque M. Kraeker a communiqué avec l’ombudsman et avec d’autres banques. Toutefois, ces mesures ont été prises à la fin de l’année 2002, bien après que l’on eut omis d’effectuer les versements des mois d’avril et de juillet 2002.
+[24] J’ai l’impression que MM. Kraeker et Johnson ont dès le début constaté que leur situation financière était précaire, mais qu’ils ne se sont pas hâtés de prendre des mesures afin de résoudre le problème des versements. L’entreprise a été exploitée de la façon prévue pendant plusieurs mois et ce n’est qu’au cours de l’été 2002, lorsque l’arrivée prévue des travailleurs à Coutts ne s’est pas concrétisée, que les administrateurs ont tenté de prendre des mesures. Je conclus que jusqu’à l’été 2002, les administrateurs ne satisfaisaient pas à la norme à laquelle on s’attend de la part d’une personne raisonnablement prudente qui se lance dans une nouvelle entreprise.
+[25] Toutefois, comme dans l’affaire McKinnon, lorsque par suite des événements imprévus qui sont survenus il a été impossible d’effectuer les versements, les appelants auraient-ils pu faire quoi que ce soit d’autre? En l’espèce, l’événement imprévu qui est survenu était l’absence de travailleurs (des clients possibles) venant travailler à Coutts pendant l’été 2002 comme on l’avait prévu. J’ai l’impression qu’à compter de ce moment‑là, MM. Johnson et Kraeker ont pris des mesures désespérées; ils ont tout tenté pour que des fonds soient injectés dans la société et pour maintenir l’entreprise à flot et payer leurs dépenses, y compris effectuer les versements. À ce moment‑là, ils étaient en contact avec l’ARC. Qu’auraient‑ils pu faire de plus à ce stade? Pas grand‑chose, si ce n’est de mettre fin aux activités plusieurs mois plus tôt qu’ils ne l’ont fait. Cela n’est pas plus raisonnable et prudent que le fait de décider de consacrer tous ses efforts à l’obtention du financement nécessaire pour poursuivre les activités.
+[26] Je conclus que, même s’ils n’ont pas établi de mécanismes appropriés en vue de protéger l’entreprise (par exemple, en définissant les responsabilités du personnel, en établissant des comptes distincts, en demandant conseil à un expert en fiscalité et ainsi de suite), à la fin de l’été 2002, ils faisaient tout ce qu’ils pouvaient pour remédier aux difficultés financières de la société et pour prévenir des manquements futurs. Pour ces motifs, je conclus que MM. Johnson et Kraeker ne peuvent pas se prévaloir du moyen de défense fondé sur la diligence raisonnable pour la période antérieure au 1er août 2002, mais qu’ils peuvent s’en prévaloir pour la période postérieure.
+[27] Par conséquent, j’accueillerai l’appel et je renverrai l’affaire au ministre compte tenu du fait que MM. Kraeker et Johnson sont tenus de faire les versements non effectués et de verser les intérêts et les pénalités à l’égard des périodes de déclaration qui ont pris fin les 30 avril et 31 juillet 2002, lesquels s’élèvent à 1 679,84 $ et à 4 401,78 $ respectivement, mais qu’ils ne sont pas tenus de faire les versements non effectués et de verser les intérêts et les pénalités à l’égard des périodes de déclaration qui ont pris fin le 31 octobre 2002 et le 31 janvier 2003. Je reconnais que ce résultat est inhabituel, mais je suis convaincu que lorsqu’une affaire est entendue sous le régime de la procédure informelle comme c’est ici le cas, ce résultat est équitable compte tenu des principes établis dans la décision McKinnon. Je ne suis pas ici saisi de l’affaire pour ce qui est de l’impôt sur le revenu, mais je recommande aux parties d’envisager un partage similaire de la responsabilité, la date pertinente à cet égard étant le 1er août 2002.
+Signé à Ottawa, Canada, ce 19e jour de janvier 2007.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 19e jour de septembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI31
+Nos DES DOSSIERS DE LA COUR : 2006-2362(GST)I et 2006-2723(GST)I
+INTITULÉ : Leslie E. Kraeker et Jan W. Johnson
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Lethbridge (Alberta)
+DATE DE L’AUDIENCE : Le 11 janvier 2007
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 19 janvier 2005
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocat de l’intimée :
+Me Tyler Lord
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2004 DTC 2049.
+[2] 2000 DTC 6593.
+[3] 2004 CSC 68.
+[4] 97 DTC 5407.

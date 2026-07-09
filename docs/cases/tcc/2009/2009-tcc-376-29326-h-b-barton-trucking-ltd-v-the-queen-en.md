@@ -1,0 +1,364 @@
+---
+title: "H.B. Barton Trucking Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29326/index.do"
+last_modified: "2009-07-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 376"
+citation2: ""
+neutral_citation: "2009 TCC 376"
+decision_date: "2009-07-22"
+language: "en"
+item_id: "29326"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7065
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:06:00.342000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9b1eb0b93c8fccf2dbe4e8f8c97c22f14638818714294db597a3c40ccdc3430a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# H.B. Barton Trucking Ltd. v. The Queen
+
+- Citation: 2009 TCC 376
+- Decision date: 2009-07-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7065, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+H.B. Barton Trucking Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-07-22
+Neutral citation
+2009 TCC 376
+File numbers
+2007-4015(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4015(IT)G
+BETWEEN:
+H.B. BARTON TRUCKING LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 26, 2009, at Fredericton, New Brunswick
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+D. Andrew Rouse
+Counsel for the Respondent:
+John P. Bodurtha
+Devon Peavoy
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed, with costs and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to Investment Tax Credits in the 2004 and 2005 taxation years for the equipment that it used to transport wood chips from the harvest site.
+Signed at Halifax, Nova Scotia, this 22nd day of July 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2009TCC376
+Date: 20090722
+Docket: 2007-4015(IT)G
+BETWEEN:
+H.B. BARTON TRUCKING LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] At the hearing of this appeal, the Appellant withdrew its appeal to all issues raised in the Notice of Appeal except one. The sole issue to be decided is whether the Appellant is entitled to claim an investment tax credit (“ITC”) for equipment which it purchased in the 2004 and 2005 taxation years to transport wood chips from the harvest site in the woods to the pulp and paper mill. The equipment at issue is listed in Schedules A and B of these reasons and was attached to the Partial Agreed Statement of Facts submitted by the parties.
+[2] The Partial Agreed Statement of Facts reads as follows:
+1. The Appellant is a company incorporated under the laws of the Province of New Brunswick.
+2. The Appellant purchased various trucks and equipment during the 2004 and 2005 taxation years.
+3. The Appellant claimed Investment Tax Credits (“ITCs”) with respect to the purchase of various trucks and equipment during the 2004 and 2005 taxation years.
+4. By Notices of Reassessment dated August 10, 2006, the Minister of National Revenue (the “Minister”) reassessed the Appellant for the 2004 and 2005 taxation years on the basis that the assets in question (see Schedules “A” and “B” attached to these Reasons) did not meet the definition of qualified property for investment tax credit (“ITC”) purposes to subsection 127(9) and paragraph 127(11)(b) of the Income Tax Act R.S.C. 1985, c.1 (5th Supp.), as amended (the “Act”).
+5. A valid Notice of Objection was filed on September 26, 2006.
+6. By Notice of Confirmation dated July 16, 2007 the Respondent confirmed the Notice of Reassessment for the 2004 taxation year.
+7. By Notice of Reassessment dated July 16, 2007 the Respondent varied the Notice of Reassessment for the 2005 taxation year to allow additional ITCs totalling $13,279 based on allowable qualifying investment property used in qualifying activities totaling $132,787. As a result the following ITC amounts were allowed reducing the total amount of ITC’s disallowed to $79,755 [$93,034 - $13,279]:
+Qualifying investment amount
+$132,787
+Prescribed percentage
+10%
+Current year Credit
+$13,279
+Current year reduction to taxes (maximum amount)
+$2,443
+ITC refund (($13,279 - $2,443) x 40%)
+$4,334
+ITC carryover
+$6,501
+Total
+$13,279
+8. Harold Barton was a shareholder of the Appellant.
+9. The Appellant operated a transportation of wood chips business.
+10. The Appellant was an independent sub-contractor engaged by J.D. Irving to chip logs and haul the wood chips directly to the mill.
+11. The process of making wood chips involves a piece of equipment called a “feller buncher” that cuts the full tree hardwood with limbs and foliage.
+12. A “grapple skidder” takes the full tree hardwood from the stump to the woods road where a “mobile chipper” is set up.
+13. The “mobile chipper” grabs the full tree hardwood and debarks, delimbs and chips the full tree into wood chips that are then blown directly into a “chip trailer”.
+14. The “chip trailer” is hooked to the Volvo Tractor while this occurs.
+15. Once loaded, the Volvo Tractor and “chip trailer” then proceed from the woods directly to the mill.
+16. The Appellant did not own the limit or cutting rights to the woods.
+2004 Taxation Year
+17. The fiscal year end of the Appellant was March 30.
+18. The property referenced in Schedule “A” was used to transport wood chips to the mill.
+2005 Taxation Year
+19. The fiscal year end of the Appellant was March 31.
+20. The property listed in schedule “B” was used to transport wood chips from the lot to the mill.
+21. The properties noted in Schedule “B”, with the one bolded exception, were disallowed by the Minister for ITC purposes.
+22. The one exception, the Volvo VNL64 tractor for $132,787 was purchased from Lounsbury Leasing on March 31, 2005 and financed via a conditional sales contract with Wells Fargo.
+23. The ITC amounts allowed for 2005 are outlined in Schedule “C”.
+[3] At the hearing of this appeal, Daniel Murphy and Harold Barton gave evidence on behalf of the Appellant. William Eldridge, a team leader in the Audit Division at the Canada Revenue Agency (“CRA”) in Saint John, New Brunswick, testified on behalf of the Respondent.
+[4] Daniel Murphy is employed by the Department of Natural Resources (the “Department”) for the Province of New Brunswick as the Director of the Forest Management Branch. In this capacity, one element of his responsibilities is to oversee the logging operations on Crown Land in the province.
+[5] In his evidence, Mr. Murphy explained the procedure for logging operations on Crown Land. He stated that the Crown Timber Licensees were responsible for planning the overall functions. They and the sub-licensees harvested the trees to produce various products, depending on the quality of the timber and the designated user. The products produced at the harvest site included veneer, saw logs, pulp wood and wood chips. All of these products are viewed in the industry as primary forest products or raw materials. He referred to the definition of “processed wood” in the Crowns Lands and Forests Act, S.N.B. 1980, c.C-38.1, s.1 as follows:
+“processed wood” means secondary wood products manufactured from timber in a wood processing facility;
+“wood processing facility” means a mill in which timber is manufactured into secondary wood products.
+[6] It was his evidence that the Department considered the chipping of felled trees at the harvest site to be part of the logging operation as it was the collection of a primary forest product.
+[7] Consistent with Mr. Murphy’s testimony, the Forest Products Act, R.S.N.B. 1973, c. F-21 defines “primary forest products” to include wood chips:
+1. In this Act
+“primary forest products” means
+(a)any unmanufactured product of forest trees of hardwood or softwood species, and
+(b)wood chips and biomass produced at or on the harvest site, but does not include
+(c)coniferous trees cut for sale as Christmas trees, and
+(d)products from the sap of maple trees;
+[8] He stated that prior to the use of the mobile chippers, the felled trees had to be debranched, cut into logs, hauled to the woods road, loaded on a truck, driven to the pulp and paper mill, taken off the trucks, debarked, and then put through a chipper. The new practice is simplified, very efficient, and cost-effective. It was his evidence that the practice of using mobile chippers at the harvest site became prevalent in the logging industry in the last 8 years.
+[9] Mr. Harold Barton, president and sole shareholder of the Appellant, testified as to current logging practices. He explained that when he first became involved in the logging industry, he transported “round wood” because it was the only thing available at the time. As time progressed, J.D. Irving Limited began to phase out the wood rooms at the pulp mills, preferring instead that wood chips be delivered directly from the harvest sites.
+[10] The current logging practice involves the use of several pieces of machinery. One piece of equipment called a “feller buncher” cuts the full tree complete with limbs and foliage. Another piece of equipment known as a “grapple skidder” puts the felled trees into bunches, and brings them from the stump to the woods road where a mobile chipper is set up. The mobile chipper uses “flails” to debark the tree, chips the tree, and blows the chips directly into a trailer operated by the Appellant. The trailer, which is attached to one of the Volvo tractors, is then hauled to the pulp and paper mill.
+[11] Mr. Barton explained that by chipping entire trees at the harvest site, a higher volume of product is obtained. In addition, in 2004 and 2005, bark had little value aside from being used as forest mulch, so further savings were achieved by avoiding the expense of hauling the added weight of the bark to the mill.
+[12] It was Mr. Eldridge’s evidence that the equipment used to transport logs from the harvest site to the mills qualified for the ITC. The logs can be tree length or cut into smaller lengths and the equipment used to transport them would still qualify for the ITC.
+[13] Mr. Eldridge stated that logging ended when the logs were delivered to the mill site. Formerly, wood chips were produced in the “wood room” at the mill and this was the beginning of processing and not logging. It was his opinion that the use of the wood chippers at the harvest site allowed the logging industry to move the “wood room” from the saw mill to the harvest site.
+[14] Subsection 127(5) of the Act provides that a taxpayer may deduct an ITC from the tax otherwise payable pursuant to Part I. Subsection 127(9) of the Act defines ITC and “qualified property” and provides, in part, as follows:
+"investment tax credit" of a taxpayer at the end of a taxation year means the amount, if any, by which the total of
+(a) the total of all amounts each of which is the specified percentage of the capital cost to the taxpayer of certified property or qualified property acquired by the taxpayer in the year,
+…
+"qualified property" of a taxpayer means property (other than an approved project property or a certified property) that is
+(a) a prescribed building to the extent that it is acquired by the taxpayer after June 23, 1975, or
+(b) prescribed machinery and equipment acquired by the taxpayer after June 23, 1975,
+that has not been used, or acquired for use or lease, for any purpose whatever before it was acquired by the taxpayer and that is
+(c) to be used by the taxpayer in Canada primarily for the purpose of
+(i) manufacturing or processing goods for sale or lease,
+(ii) farming or fishing,
+(iii) logging,
+[15] Subsection 4600(2) of the Regulations provides:
+4600 Qualified Property,…
+(2) Property is prescribed machinery and equipment for the purposes of the definition "qualified property" in subsection 127(9) of the Act if it is depreciable property of the taxpayer (other than property referred to in subsection (1)) that is…
+(f) notwithstanding paragraph (e), a logging truck acquired after March 31, 1977 to be used in the activity of logging and having a weight, including the weight of property the capital cost of which is included in the capital cost of the truck at the time of its acquisition (but for greater certainty not including the weight of fuel), in excess of 16,000 pounds;
+However, for the purposes of the definition of “qualified property” in subsection 127(9) of the Act, subparagraph 127(11)(b)(i) specifies:
+127 (11) Interpretation -- For the purposes of the definition "qualified property" in subsection (9),
+(b) for greater certainty, the purposes referred to in paragraph (c) of the definition "qualified property" in subsection (9) do not include
+(i) storing (other than the storing of grain), shipping, selling or leasing finished goods,
+[16] In accordance with the evidence given by Mr. Eldridge, it is the Respondent’s position that when the trees were fed into the chipper the logging operation ceased and the manufacturing and processing of the trees began.
+[17] Counsel for the Respondent argued that the wood chips are finished goods and subparagraph 127(11)(b)(i) specifically stipulates that the purposes referred to in paragraph 127(9)(c) do not include the shipping of finished goods.
+[18] I do not agree with the Respondent’s position. It is my opinion that one must bear in mind the facts and circumstances that were considered when the ITC was first introduced into the Act.
+[19] In Lor-Wes Contracting Ltd. v. The Queen[1], Justice MacGuigan referred to Hansard to ascertain the conditions considered by Parliament in bringing the Investment Tax Credit into effect. At paragraphs 20 and 21 he stated:
+20 Here, the budget statement of the then Minister of Finance on June 23, 1975, describes the perceived need to which this amendment to the Act was the response (Debates of the House of Commons, June 23, 1975, 7028):
+Measures to Sustain Business Investment
+If our economy is to remain productive and competitive and capable of providing jobs, we must ensure that we have modern capital facilities with which to work. We must guard against any slowdown in investment. I have been pleased that capital investment has continued to expand in present circumstances and I want to do what government can do to ensure that this expansion continues.
+It is well known that our policies have sought to encourage a strong manufacturing sector. We have provided long-term tax incentives to assist our manufacturers and processors to compete in domestic and foreign markets. The evidence presented in the final report on these tax measures demonstrates their effectiveness. But new and broader initiatives are needed under current economic circumstances.
+I am therefore proposing to introduce an investment tax credit as a temporary extra incentive for investment in a wide range of new productive facilities. The credit will be 5 per cent of a taxpayer's investment in new buildings, machinery and equipment which are for use in Canada primarily in a manufacturing or processing business, production of petroleum or minerals, logging, farming or fishing. The cost of new, unused machinery and equipment acquired after tonight and before July, 1977, will be eligible [Emphasis added].
+21 The evil aimed at is clearly stated to be "any slowdown in investment". Such an evil would be removed by appropriate activity regardless of its source, and would be best achieved by encouraging the logging industry in its integral totality. Indeed, in the light of the fact that subcontracting is general in the logging industry, any other interpretation of the text would considerably lessen the potential investment incentive in that industry and so less effectively remove the identified danger of economic slowdown.
+[20] The ITC was announced in the 1975 budget as a temporary investment incentive. It has been extended and increased over the years. By means of the ITC, Parliament has created an economic stimulus to promote investment and development in various sectors[2]. Surely, the incentive is not to be diminished because the logging industry has evolved to become more efficient
+[21] The definition of logging used by Justice Dubé in Lor-Wes Contracting Ltd. v. The Queen[3] was:
+…By any definition, "logging" is the sum total of all the operations leading to the felling of timber and the transporting of logs out of the forest.
+[22] This definition has also been adopted by the CRA. While the business of logging may generally have been understood to comprise the harvesting of trees, sawing them into pieces and transporting them to a saw mill, paper mill or other similar facility, it must also be appreciated that the different phases of this process will vary with local conditions and technology.
+[23] Mr. Barton described the current logging practices of using a mobile chipper at the harvest site as the “evolution” of the logging industry. The mobile chipper allows for efficiency and cost-effectiveness in the industry. It is my opinion that the definition of “logging” must evolve with the industry and include the transporting of woods chips from the harvest site.
+[24] In Canada v. Markevich[4], the Supreme Court of Canada affirmed that the modern approach to statutory interpretation requires that the words of an Act are “to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament”[5].
+[25] A purposive, contextual interpretation of the legislation in issue requires that the definition of “logging” include the transportation of wood chips from the harvest site to the pulp and paper mill. This definition is in alignment with the purpose of the legislation.
+[26] Counsel for the Respondent has argued that the production of the wood chips is processing and once processing has begun, any subsequent activity is outside the scope of “logging”.
+[27] In Nova Scotia Sand and Gravel Limited v. The Queen[6], the Federal Court of Appeal had to interpret the expression “producing industrial materials”, which activity, along with logging, is excluded from “manufacturing or processing” in section 125.1 of the Act. In determining the scope of that expression, Chief Justice Thurlow turned to its context, and at paragraph 12 he stated:
+Turning to that context, it is to be observed that the item in question is the seventh in a list of types of operations to be excluded from 'manufacturing or processing', into which expression, presumably, because they are to be excluded, all of them would otherwise fall. Next, it is noticeable that what is excluded by items (i) farming and fishing, (ii) logging, (iv) operating an oil or gas well and (v) extracting minerals from a mineral resource, if they are to be considered as manufacturing or processing operations at all, are at any rate essentially operations for the production of raw or resource material.
+[28] These observations recognize that while operations such as logging are essentially for the production of raw or resource material, a certain degree of processing is inevitable. Prior to the use of mobile chippers, entire trees could not simply be harvested and transported to the mill. Limbs and foliage needed to be removed, and the timber had to be cut into manageable sizes. This processing activity was a normal part of harvesting the trees.
+[29] In the present appeal, while the technology used in logging operations may have evolved, the product can still be characterized as raw or resource material. The evidence given by both Mr. Murphy and Mr. Barton support this conclusion.
+[30] They described the wood chips from the mobile chippers as being of a lower quality than the wood chips produced in a mill. Mr. Barton stated that “the chips that came from a mobile chipper have different specs than the chips that came from a sawmill because they (the pulp and paper mill) accept more bark from the mobile chipper; they accept more fines (very small materials)”.
+[31] Mr. Murphy described the wood chips produced at the harvest site as the raw material for the pulp and paper mills.
+[32] I conclude that the wood chips transported by the Appellant are no more finished goods than the logs that were transported prior to the advances in the logging industry.
+[33] To view the matter otherwise would unfairly punish the Appellant for advances that enabled the logging industry to become more efficient. As noted by Justice MacGuigan in Lor-Wes Contracting Ltd. at paragraph 21, the intended purpose of the investment tax credit is best achieved “by encouraging the logging industry in its integral totality”. The transportation of the wood chips from the harvest site to the mill is within the “integral totality” of the present day logging industry.
+[34] For these reasons the appeal is allowed, with costs.
+Signed at Halifax, Nova Scotia, this 22nd day of July 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Appendix
+Schedule “A”
+The following property was ineligible for ITC purposes:
+CCA Class
+Description
+Date Available
+Amount of Investment
+10
+BWS Chip Trailer
+2003-06-18
+$61,700
+10
+BWS Chip Trailer
+2003-12-17
+$54,890
+10
+BWS Chip Trailer
+2004-03-24
+$53,981
+16
+Volvo VNL64T Tractor
+2003-06-30
+$137,200
+16
+Volvo VNL64T Tractor
+2003-09-30
+$139,625
+16
+Volvo VNL64T Tractor
+2003-09-30
+$139,625
+Total
+$587,021
+The above decrease in qualifying property resulted in an ITC reduction of $587,021 x 10%, or $58,702 in the current year. As a result, the following ITC amounts were disallowed:
+Current year reduction to taxes
+$7,699
+ITC refund
+$20,401
+ITC carryover
+$30,602
+Total
+$58,702
+Schedule “B”
+The following property, with the one bolded exception which was allowed by the Appeals Officer, was ineligible for ITC purposes:
+CCA Class
+Description
+Date Available
+Amount of Investment
+16
+Volvo VHD Tractor
+2004-06-30
+$10,937
+16
+Volvo VHD Tractor
+2004-05-07
+$133,979
+16
+Volvo VNL64 Tractor
+2004-05-07
+$129,111
+16
+Volvo VNL64 Tractor
+2004-07-09
+$136,000
+16
+Volvo VNL64 Tractor
+2005-05-04
+$131,287
+16
+Volvo VNL64 Tractor
+2005-05-31
+$132,787
+16
+BWS Chip Trailer
+2004-09-30
+$31,790
+16
+BWS Chip Trailer
+2004-09-30
+$7,449
+16
+BWS Chip Trailer
+2004-09-30
+$3,160
+16
+BWS Chip Trailer
+2004-09-30
+$10,906
+16
+BWS Chip Trailer
+2004-09-30
+$3,160
+16
+Manac Chip Trailer
+2004-07-16
+$62,000
+16
+Manac Chip Trailer
+2004-09-16
+$62,000
+16
+Manac Chip Trailer
+2005-03-03
+$60,990
+16
+BWS Chip Trailer
+2004-09-30
+$14,790
+Total
+$930, 346
+The above decrease in qualifying property resulted in an ITC reduction of $930,346 x 10%, or $93,034 in the current year. As a result, the following ITC amounts were disallowed by the Auditor:
+Current year reduction to taxes
+$9,852
+ITC refund
+$37,214
+ITC carryover
+$45,968
+$93,034
+Schedule “C”
+The following ITC amounts were allowed by the Appeals Officer for 2005:
+Qualifying investment amount
+$132,787
+Prescribed percentage
+10%
+Current year credit
+$13,279
+Current year reduction to taxes (maximum amount)
+$2,443
+ITC refund (($13,279 - $2,443) x 40%)
+$4,334
+ITC carryover
+$6,501
+Total
+$13,279
+CITATION: 2009TCC376
+COURT FILE NO.: 2007-4015(IT)G
+STYLE OF CAUSE: H.B. BARTON TRUCKING LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Fredericton, New Brunswick
+DATE OF HEARING: February 26, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: July 22, 2009
+APPEARANCES:
+Counsel for the Appellant:
+D. Andrew Rouse
+Counsel for the Respondent:
+John P. Bodurtha
+Devon Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name: D. Andrew Rouse
+Firm: Mockler, Peters, Oley, Rouse
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1985] 2 C.T.C. 79 (F.C.A.) at paragraph 20
+[2] Gaston Cellard Inc. v. The Queen, 2005 DTC 699 (TCC)
+[3] [1983] 2 F.C. 11 at paragraph 16 (reversed on other grounds, [1985] 2 C.T.C. 79 (F.C.A.)
+[4] 2003 SCC 9
+[5] Supra at paragraph 12
+[6] [1980] C.T.C. 378 (FCA)

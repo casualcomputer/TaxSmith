@@ -1,0 +1,280 @@
+---
+title: "Webinar – Disbursement quota"
+gallery_title: "Disbursement quota"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/charities-video-gallery/webinar-disbursement-quota.html
+video_source: https://www.youtube.com/watch?v=yPP64y8toXI
+last_modified: 2026-02-12
+---
+
+# Webinar – Disbursement quota
+
+## Transcript
+### Slide 3 – Disbursement quota
+DANIELLE: "Let me welcome you to the Canada Revenue Agency's webinar on the disbursement quota.
+Thank you for taking the time to join us today.
+My name is Danielle and I'll be your host for today's talk."
+### Slide 4 – Objective
+DANIELLE: "By the end of today's presentation, you will be able to:
+- Define the Disbursement Quota (also known as DQ) and its purpose
+- Determine how to calculate DQ amounts and how to report DQ amounts properly in Form T3010 (schedule 8)
+- Understand accumulation of property as well as DQ excesses and shortfalls
+Throughout the presentation, we'll be going over some examples. You should note that these examples are fictitious and used only to illustrate the concepts we're discussing."
+### Slide 5 – What is the DQ?
+DANIELLE: "So, what is the DQ?
+Under the Income Tax Act, the DQ is the minimum amount a registered charity is required to spend each year on either or both:
+- Its own charitable activities, and/or
+- Qualifying disbursements, through:Gifts to qualified donees Grants to non-qualified donees
+You can look up subsection one-forty-nine point one, sub one, in the Income Tax Act if you want to read the exact definition."
+[Question mark]
+### Slide 6 – Purpose and benefits
+DANIELLE: "Before we get into calculating the DQ, let's go over its purpose and benefits.
+Let's start with its purpose.
+- It ensures public benefit - All organizations that want to be registered as a charity under the Act must ensure that their purposes are directed to the public benefit
+- It encourages charitable spending – Ensures that registered charities devote a portion of their resources to charitable activities, and prevents organizations from accumulating excessive capital without benefiting the community
+- It maintains fairness – Ensures larger charities contribute consistently to social causes instead of accumulating investment assets without conducting charitable activities
+It also has a series of benefits.
+- It keeps charities active – Ensures organizations keep their charitable programs running and not stagnate
+- It builds public trust – Donors feel reassured knowing their contributions are going toward meaningful work
+- It supports communities – Guarantees funds are reaching the people and causes that need them
+- It encourages financial responsibility – Ensures charities plan their finances wisely and avoid excessive accumulation of assets that don't serve their mission
+- It promotes transparency – By completing their annual returns, which includes their DQ amount and disbursements, charities show how their funds are being used."
+### Slide 7 – When does the DQ apply?
+DANIELLE: "So when does the DQ apply? There are a few considerations, and we'll go through them using this flow chart.
+First, are you a charitable organization, or a public or private foundation?
+- If you're a charitable organization, does the average value of your property that is **not** used for charitable activities or administration exceed $100,000?This could include real estate, investments, cash in bank accounts, inventory, stocks, bonds, mutual funds, GICs, land, and buildings. (Note that this is calculated during the 24 months before the beginning of the fiscal year.) If no – if it's below that amount - the DQ doesn't apply. If yes – if it's above that amount - the DQ does apply, and in order to calculate your DQ, you need to multiply the average value by these graduated rates:3.5% for amounts up to and including $1 million dollars 5% for amounts above $1 million dollars
+You would follow the same train of thought for public or private foundations, except the average value of property threshold is $25,000.
+Just for context, note that this graduated rate is new, and applies for fiscal periods beginning on or after January 1, 2023. This change was announced in the 2022 federal budget. Previously the rate was a flat 3.5%.
+If this seems complex, don't worry, we'll look at how you will fill this out in your annual return, Form T3010 later on in the presentation."
+### Slide 8 – Calculating the DQ
+DANIELLE: "Alright, so how do we go about calculating a charity's DQ? Here is a broad overview, and then we'll go into specifics for each step on the slides that follow.
+Step 1: Identify the charity's property that is not used for charitable activities or administration
+Step 2: Determine the valuation periods
+Step 3: Calculate the average value of the property
+Step 4: Multiply the average value of the property by the DQ rate
+On the right-hand side of the slide, we will work through an example using Live Life Wild – a (fictitious) charitable organization that helps protect endangered species."
+[Tigers in the wild]
+### Slide 9 – Calculating the DQ – Step 1
+DANIELLE: "Step 1 - Identify the charity's property that is not used for charitable activities or administration
+So, like we determined earlier, this could include cash in bank accounts, stocks, land, buildings, etc.
+- Note that if a portion of a charity's building is being used for non-charitable activities, then that portion should be pro-rated (that is, adjusted to reflect the actual amount used), and then that amount should be included in the calculation.
+Here are some questions that you could ask yourself to determine whether property is or is not being used for charitable activities or administration:
+- **Purpose of use**Was the property used directly to carry out the charity's mission or charitable programs? Was the property used for administrative tasks necessary to support the charity's operations?
+- **Nature of activities**Are the activities conducted on the property directly related to the charity's purposes? Are the activities necessary for the management and operation of the charity?
+So, in this instance, Live Life Wild has identified its property as one building, and one share."
+[Tigers in the wild]
+### Slide 10 – Calculating the DQ – Step 2
+DANIELLE: "Step 2 - Determine the valuation periods
+What are valuation periods? They are the specific timeframes over which charities calculate the average value of their property.
+- The charity needs to divide a 24-month period of time into anywhere between two and eight equal, consecutive periods.
+- At the end of each of these periods, it needs to determine the value of its property.
+- The charity chooses its valuation period when it files its first information return.
+- Once chosen, the charity must get the CRA's written permission to change it.
+The valuation periods are different depending on if we're trying to find:
+- The DQ for the **current** fiscalWhich is the amount on Line 5900 of the T3010 - The average value of property for the 24 months before the **beginning** of the fiscal period
+- The DQ for **next** fiscalWhich is the amount on Line 5910 of the T3010 - The average value of property for the 24 months before the **end** of the fiscal period
+In this example:
+- The charity's fiscal period begins on January 1, 2023, and its fiscal period ends on December 31, 2023.
+- It assesses the value of its property twice a year – in June and December. So this means that it divides 24 months into 4 valuation periods.
+So if we want to calculate the average value of the property for the current fiscal – for Line 5900 – we need to use the four valuation periods before the **beginning** of the fiscal period – before January 1, 2023:
+- June 2021, December 2021, June 2022, and December 2022
+And if we want to calculate the average value of the property for the next fiscal – for Line 5910 – we need to use the four valuation periods before the **end** of the fiscal period – before December 31, 2023:
+- June 2022, December 2022, June 2023, and December 2023
+As we continue on to the next few slides, we'll proceed with calculating the DQ for the current fiscal."
+[Red rectangle around Current fiscal row]
+DANIELLE: "So we've determined that there are 4 valuation periods, and they are between June 2021 and December 2022."
+[Red rectangle around Valuation period and Line 5900 from 2021-06-30 to 2022-12-31]
+### Slide 11 – Calculating the DQ – Step 3
+DANIELLE: "Step 3 - Calculate the average value of the property
+We begin with 3.a) – Identify the fair market value of the property following each valuation period in the last 24 months
+As per the valuation periods that we determined in the last slide:
+- Column A shows that there are 4 valuation periods.
+- And Column B shows the dates of the valuation periods.
+We then move on to Column C, which shows the value of the building following each valuation period.
+And Column D, which shows the value of the share following each valuation period.
+We add the values in Column C and Column D to get the combined value in Column E.
+3.b) – Now we add the combined values in Column E together, and divide by the total number of periods (which is 4). That equals $610,000.
+- The charity writes $610,000 on line 5900 of their tax return.
+Lastly 3.c) – We determine whether the average value of the property is over:
+- $25,000 for public or private foundations
+- $100,000 for charitable organizations
+Because the average value for their property is over $100,000, they must also complete Schedule 8 within the T3010, and they would also have to include the average value on line 805."
+### Slide 12 – DQ-related T3010 line numbers
+DANIELLE: "You'll see when you are filling out form T3010 that question C17 will prompt you to make this determination.
+If the average value of the property is less than $25,000 or $100,000, then the DQ does not apply.
+In this example, Live Life Wild is a charitable organization. And the average value for their property is $610,000, which is over $100,000, which means that they must proceed with calculating and meeting their DQ. They will click YES to question C17 and be automatically prompted to fill out Schedule 8 of the T3010."
+[Check mark on the Yes option]
+DANIELLE: "Note that some charities who are still filing on paper are completing Schedule 8 simply because it is part of the form, without checking if it applies to them or they meet the threshold. It's very important to take the time to do this calculation properly to be able to report on it properly. This is one of the main benefits of filing online—you only have to fill out what is necessary, and you reduce the risk of making errors."
+### Slide 13 – Calculating the DQ – Step 4
+DANIELLE: "Step 4 - Multiply the average value of the property by:
+- 3.5% for property up to and including $1 million
+- 5% for property exceeding $1 million
+So the average value of the property in our example is $610,000. Since that is below $1 million, we multiply it by 3.5%.
+That gives us $21,350. So that would be the disbursement quota. And you would add this amount to line 820 and 840 in Schedule 8."
+### Slide 14 – Calculating the DQ – T3010
+DANIELLE: "Here is how we would present these amounts in the T3010, just to help you visualize these concepts a bit better.
+Our average value of property would go on line 805 and 815. Whether you are filling it out online or on paper, it has to appear in both spots."
+[Arrow pointing to line 805]
+[Arrow pointing to line 815]
+DANIELLE: "Then the average value would be multiplied by 3.5%, and the total (the DQ amount) would be added to lines 820 and then be automatically added to line 840."
+[Arrow pointing to line 820]
+[Arrow pointing to line 840]
+DANIELLE: "You can always use our guide T4033 to walk you through filling out each of these lines if you are unsure."
+### Slide 15 – Example two – We Love The Earth (1/3)
+DANIELLE: "Here's another example.
+Meet We Love the Earth – a (fictitious) private foundation that was registered as of January 1, 2022.
+To calculate their DQ for the December 31, 2023 fiscal period ending, we start by determining the property that is not used directly for charitable activities or administration.
+On February 22, 2022, it received a gift of securities valued at $500,000."
+[Property arrow pointing to file folders representing Securities]
+DANIELLE: "Now to find the average value of the property.
+Since we are looking at the 2023 fiscal period, we need to find the value of the property from 2021 and 2022 (that is, the 24 months before 2023).
+The charity checks the value of this property every 12 months, so that means that there are two valuation periods within two years.
+To find the average value of the charity's property, we add the combined value of their property from the past 2 valuation periods, and then divide that by 2:
+($0 + $500,000) ÷ 2 = $250,000"
+[Hands holding a small plant in earth]
+### Slide 16 – Example two – We Love The Earth (2/3)
+DANIELLE: "Based on that, the charity writes $250,000 on line 5900, in Schedule 6, of their information return."
+[Arrow pointing to line 5900]
+DANIELLE: "Since the charity is a private foundation, and the average value is over $25,000 then they must proceed with calculating and meeting their DQ.
+So they would have answered yes to question C17, and since they wrote $250,000 on line 5900 of Schedule 6, line 805 of Schedule 8 will automatically be populated as well."
+[Arrow pointing to line 805]
+[Hands holding a small plant in earth]
+### Slide 17 – Example two – We Love The Earth (3/3)
+DANIELLE: "Now we multiply the average value of the property by 3.5% because the average value is below $1,000,000.
+So $250,000 × 3.5% = **$8,750**
+This means that the We Love the Earth's disbursement quota for 2023 is **$8,750**.
+And you would add this amount to line 820 and it will automatically populate for line 840 in Schedule 8. Always double check these numbers are appearing in both spots."
+[Arrow pointing to line 820]
+[Arrow pointing to line 840]
+[Hands holding a small plant in earth]
+### Slide 18 – Example three – Feed the World (1/2)
+DANIELLE: "One last example.
+Meet Feed the World – a (fictitious) charitable organization that has been registered for 10 years.
+Again, our goal is to calculate their DQ for the December 31, 2023 fiscal period ending.
+But in this example, we already have the average value of their property from the past two fiscal periods: $1,500,000
+So, the charity would write $1,500,000 on line 5900 of their information return.
+Since Feed the World is a charitable organization, and the average value is over $100,000 then they must proceed with calculating and meeting their DQ.
+So they would also write $1,500,000 on line 805 of Schedule 8.
+In our other two examples, the average value of the property was under one million dollars, so we multiplied them by 3.5%.
+But in this example, the average value of the property is OVER one million dollars, so we need to:
+- Multiply the first one million dollars by 3.5%
+- Multiply the amount over one million dollars – five hundred thousand dollars - by 5%
+- And then add these two numbers together
+- So:$1,000,000 x 3.5% = $35,000 $500,000 x 5% = $25,000 $35,000 + $25,000 = **$60,000**
+This means that Feed the World's disbursement quota for 2023 is **$60,000**.
+Since the average value is over one million dollars, they would need to complete lines 825, 830, and 835 of Schedule 8 (rather than 820). This will populate the DQ amount on line 840."
+[Soup on a spoon]
+### Slide 19 – Example three – Feed the World (2/2)
+DANIELLE: "And again, here is how we would present these amounts in the T3010.
+Our average value of property would go on line 805 and 815."
+[Arrow pointing to line 805]
+[Arrow pointing to line 815]
+DANIELLE: "In order to do the calculation correctly, you would take line 815, minus one million dollars, and add that amount to line 825."
+[Arrow pointing to line 825]
+DANIELLE: "Then multiply line 825 by 5% and add that amount to line 830."
+[Arrow pointing to line 830]
+DANIELLE: "And then take line 830 and add $35,000 (which is one million dollars multiplied by 3.5%), and add the total (the DQ amount) to lines 835. This number will also go into line 840 which is on the next page in Schedule 8 of the online return."
+[Arrow pointing to line 835]
+DANIELLE: "Alright, now on to a few considerations."
+### Slide 20 – Accumulation of property
+DANIELLE: "First up, accumulation of property.
+Accumulation of property happened when a registered charity received written approval from the Charities Directorate to set aside funds for a major future expenditure.
+So, for example, a charity dedicated to providing shelter for unhoused individuals, might have requested to accumulate property if it planned to purchase a new building but needed several years to raise the necessary funds. Or a medical research charity might have requested to accumulate property so that they could save up to buy specialized equipment, which would have been an investment that required significant funding.
+BeforeJanuary 1, 2023, charities could request this option, which would allow them to exclude accumulated property from their DQ.
+- As of January 1, 2023, this is no longer an option.
+If a charity received approval to accumulate property before January 2023, the approval is still valid under the terms indicated until the approved period expires.
+- Note that we will not grant extensions."
+### Slide 21 – Excesses and shortfalls
+DANIELLE: "Excesses and shortfalls
+If a charity spends **more** on its charitable activities or qualifying disbursements than its DQ for the year, this is referred to as a **disbursement excess**.
+- Disbursement excesses can be:carried forward for five years that immediately follow the excess tax year, or carried back the one year that immediately preceded the excess tax year.
+If a charity spends **less** on its charitable activities or qualifying disbursements than its DQ for the year, this is referred to as a **disbursement shortfall**.
+A registered charity can draw on disbursement excesses from the five previous fiscal periods to help it meet a shortfall. If no excesses are available to draw on, the charity can try to spend enough the following year to create an excess that it can carry back to cover the shortfall."
+### Slide 22 – Calculating whether a charity met the DQ – Step 1
+DANIELLE: "But how does a charity know if it has an excess or a shortfall? Or in other words, how can a charity confirm if it's met its DQ?
+To do this, it needs to calculate its expenditures. Begin by:
+- Identifying the expenditures on charitable activities (line 5000)
+- You then **add** the qualifying disbursements, which include:gifts to qualified donees (line 5050) grants to non-qualified donees (line 5045)
+- And then **subtract**:any designated gifts (I'll explain designated gifts in the next few slides.)
+You will need to include these calculations in Schedule 8 on lines 845 to 860."
+### Slide 23 – Calculating whether a charity met the DQ – T3010
+DANIELLE: "Here is how we would present these amounts in the T3010.
+In Schedule 8, we have:
+- The DQ amount on line 840 in red."
+[Red rectangle around line 840]
+DANIELLE:
+- "The expenditures on lines 845, 850, and 855 in yellow. (Note that these are copies of the amounts on lines 5000, 5045, and 5050.)"
+[Yellow rectangle around line 845, 850 and 855]
+DANIELLE:
+- "The total of those three lines on line 860 in purple."
+[Purple rectangle around line 860]
+DANIELLE: "You are prompted to minus line 840 (your DQ in red) from line 860 (your total expenditures in purple), and write the total on line 865 (in green). Line 865 is your charity's DQ excess or shortfall."
+[Green rectangle around line 865]
+### Slide 24 – Calculating whether a charity met the DQ – Step 2
+DANIELLE: "Once you have calculated the expenditures, you compare this number with the DQ.
+If the expenditures equal or exceed the DQ, then that means that a charity has met its DQ.
+If the expenditures are less than the DQ, then that means that a charity has NOT met its DQ."
+### Slide 25 – Request for reduction
+DANIELLE: "If a charity can't meet its DQ due to reasons beyond its control, it can send the CRA a request to reduce its DQ by a specific amount for a specific fiscal period.
+BUT, the charity must first do everything it can to cover the shortfall, including the options we went over in that previous slide.
+This means the charity has to look at the previous five years to see if it has any excesses to draw from. If it still has a shortfall, then it should try to spend more the next year.
+If the charity proceeds with asking for a reduction, and if the CRA approves the request, the charity then has to update its T3010 information return for that year and report the approved reduction on line 5750.
+To update its return, the charity has to complete Form T1240, Registered Charity Adjustment Request.
+You should note that any requests for DQ reduction can be made available to the public upon request."
+### Slide 26 – DQ requirements for next period
+DANIELLE: "Before we move on to other considerations, we wanted to note that when filling out schedule 8, you will also have to estimate the DQ requirement for the next fiscal period. As with other sections of the T3010 online, line 870 will generate automatically from line 5910 of your return, and the instructions will walk you through the remaining steps."
+[Arrow pointing to line 870]
+DANIELLE: "It's really important here that if you entered an amount in line 5910, you fill out this portion."
+### Slide 27 – Anti-avoidance rule and designated gifts (1/3)
+DANIELLE: "Another important consideration – the anti-avoidance rule and designated gifts.
+What is the anti-avoidance rule?
+If a charity receives a gift from another charity that is not at arm's length (that they are related to), they must spend 100% of the fair market value of the gift on either:
+- its own charitable activities
+- gifts to qualified donees that are at arm's length
+- grants to non-qualified donees that meet the requirements of the Income Tax Act
+The charity cannot gift it to another charity that is not at arm's length (to another charity that they are related to).
+Why does this rule exist?
+- Without this rule, there is a risk that charities that are related would be able to transfer money back and forth while reporting the gifting as spending, and without actually making any charitable expenditures.
+- The image here shows how Charity A could gift one million dollars to Charity B. Then Charity B could gift this same amount to Charity C. And Charity C completes the loop by gifting this amount right back to Charity A."
+[Charity A gifting 1 million dollars to Charity B, Charity B gifting 1 million dollars to Charity C, Charity C gifting 1 million dollars back to Charity A]
+DANIELLE: "While each charity is technically gifting the money, and everything seems compliant on paper, none of it is being used for charitable work. The anti-avoidance rule prevents this from happening."
+### Slide 28 – Anti-avoidance rule and designated gifts (2/3)
+DANIELLE: "A designated gift is a type of gift made between registered charities that are not at arm's length (that are related).
+So, a donor charity:
+- Gives a gift to a non-arm's length charity
+- Identifies the gift as a designated gift
+- And then **CANNOT** count this gift as a qualifying disbursementThe charity must therefore make other qualifying disbursements – it must spend some of its other money on charitable activities – in order to meet its DQ.
+On the flip side, a recipient charity:
+- Receives a designated gift from a non-arm's length charity, and then it either:**Does not** spend it, in which case it becomes its property and is included in its DQ calculation **Does** spend it, in which case it is not included in its DQ calculation"
+[Two hands slightly touching]
+### Slide 29 – Anti-avoidance rule and designated gifts (3/3)
+DANIELLE: "Another way of looking at this – the amount of the gift must be spent on charitable activities and/or qualifying disbursements by either the:
+- donor charity, or
+- recipient charity
+So if the donor charity chooses to **designate** a gift of $100,000, and the donor charity has a DQ of $300,000, the donor charity must spend $400,000 (its $300,000 DQ + the $100,000 gift to equal $400,000) on its own charitable activities and/or qualifying disbursements.
+On the flip side, if a donor charity **does not** indicate that the gift of $100,000 is designated, and the recipient charity has a DQ of $500,000, the recipient charity must spend $600,000 (its $500,000 DQ + the $100,000 gift to equal $600,000) on its own charitable activities and/or qualifying disbursements."
+### Slide 30 – Consequences – failing to meet the DQ
+DANIELLE: "Failing to meet the DQ can have serious consequences and lead to compliance actions.
+- **Financial penalties**There could be financial penalties if a charity receives gifts (other than designated gifts) from a related charity and does not spend them on the charity's own charitable activities or on making qualifying disbursement through gifts to qualified donees or grants to grantee organizations.For example, to meet its disbursement quota requirements, a charity that received gifts from related charities cannot include the value of those gifts in their expenditures when calculating their disbursement quota. For example, if a charity received $100,000 from a related charity and has a disbursement quota of $300,000, it must spend $400,000 ($300,000 + $100,000 = $400,000) on charitable activities, not just $300,000, to meet its disbursement quota. The penalty would equal 110% of the amount not expended or gifted for the recipient charity.
+- **Revocation of charitable status**If a charity consistently fails to meet its DQ and does not correct its spending practices, we may revoke its charitable status."
+[Coins]
+[Wooden blocks with arrows pointing to the right and one red block with an arrow pointing to the left]
+### Slide 31 – Common errors
+DANIELLE: "Now we'll go over a few common errors we see in the T3010. If you've been following along, you won't be making these errors!
+First, it may seem a bit obvious given everything we've been through today, but some charities are filling out Schedule 8 even though they should not. Question C17 is very important, and you should only fill out Schedule 8 if you said YES. As we mentioned, if you use the online form, this won't be a problem! If you're filling out schedule 8, both lines 805 and 815 must be completed, not only one of them. You should also check the math for line 865. The amount will be positive when there is a DQ excess and negative when there is a DQ shortfall.
+Next, many charities leave line 5900 (property not used in charitable activities or administration) blank. BUT they also report amounts on line 4140 (long-term investments). Long-term investments are considered property not used in charitable activities or administration.
+So that means that these charities are not completing line 5900 properly because they are reporting that they don't have property not used in charitable activities or administration when in fact they do.
+And lastly, we also see many charities enter information on line 810 even if permission to accumulate property has NOT been granted. Only charities that have been granted this permission should fill out line 810."
+### Slide 32 – DQ-related provisions
+DANIELLE: "So that just about wraps up our presentation.
+I do have some DQ-related provisions here that you can keep handy for your reference if you're looking for exact wording from the Income Tax Act."
+### Slide 33 – Contact us
+DANIELLE: "Thank you so much for attending today's webinar. We hope we were able to answer your questions.
+Here is the number to reach our client service representatives, dedicated for Charities: 1-800-267-2384. There, you can speak directly to one of our representatives. They are available to help you Monday through Friday, from 8 a.m. to 5 p.m. Eastern time.
+We will be sending you a link to an online survey about today's webinar. Please take a few minutes to complete the survey.
+Your feedback is really important to us. It helps us evaluate the effectiveness of our webinars and plan for our future outreach activities.
+If you would like to receive recent news and updates from the CRA, we recommend you sign up for our electronic mailing list at [canada.ca/charities-whats-new](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-charities-giving-whats-new.html). And if you haven't already, make sure you sign up for a CRA account so you can file your annual information return online.
+Thank you."
+(link summary on slide:
+[Charities and giving](https://www.canada.ca/en/services/taxes/charities.html)
+[Sign up for our electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-charities-giving-whats-new.html)
+[Access our online services for charities](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/business-account.html))

@@ -1,0 +1,194 @@
+Title: Abraham v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28386/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-380-28386-abraham-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-05-19
+
+# Abraham v. The Queen
+
+- Citation: 2004 TCC 380
+- Decision date: 2004-05-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1905, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abraham v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-19
+Neutral citation
+2004 TCC 380
+File numbers
+2002-4856(IT)APP
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4856(IT) APP
+BETWEEN:
+RICHARD ABRAHAM,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on March 1, 2004, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Applicant:
+Philippe Dioguardi
+Counsel for the Respondent:
+George Boyd Aitken
+____________________________________________________________________
+ORDER
+Upon application for an order extending the time within which notices of objection to the assessments made under the Income Tax Act ("Act") for the 1993, 1994, 1995, 1996 and 1997 taxation years may be served;
+The application is dismissed pursuant to subsection 166.2(5) of the Act, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 19th day of May 2004.
+"Lucie Lamarre"
+Lamarre, J.
+Citation: 2004TCC380
+Date: 20040519
+Docket: 2002-4856(IT)APP
+BETWEEN:
+RICHARD ABRAHAM,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Lamarre, J.
+[1] This is an application for an extension of time to file a notice of objection to arbitrary assessments dated August 10, 1999, for the taxation years 1993 through 1997. The application, filed before this Court on December 13, 2002, is made pursuant to section 166.2 of the Income Tax Act ("Act") (see Order of this Court dated September 19, 2003).
+[2] The applicant submits that he had no knowledge of the existence of these arbitrary assessments before the month of September 2002, when Michel Damphousse, a collections officer from the Canada Customs and Revenue Agency ("CCRA") attended at his residence and informed him that a legal hypothec in favour of the CCRA had been registered against his residence for arrears in the payment of the arbitrary assessments.
+[3] The applicant admits that the address on the arbitrary assessments is correct, being the address where he receives his mail. The applicant submits, however, that he attends to his mail daily and did not receive the arbitrary assessments, and that he had no prior knowledge of them. He therefore argues that the arbitrary assessments were not mailed on August 10, 1999, as alleged or on any other date, nor were they delivered to him by the CCRA in any manner whatsoever (see paragraph 15 of Richard Abraham's affidavit). The applicant states that it is for the respondent to demonstrate that the arbitrary assessments were made and mailed on August 10, 1999, as alleged.
+[4] At the hearing, the respondent agreed with this last statement and both parties have circumscribed the issue to the sole question of whether the arbitrary assessments were in fact mailed on August 10, 1999. Indeed, if it is established by the evidence that the arbitrary assessments were in fact mailed on August 10, 1999, the applicant will then be precluded from bringing an application for an extension of time at this late date, pursuant to paragraph 166.2(5)(a) of the Act, which reads as follows:
+(5) When application to be granted. No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be . . .
+[5] The time otherwise limited by the Act for serving a notice of objection is stated in subsection 165(1) of the Act, which reads as follows:
+SECTION 165: Objections to assessment.
+(1) A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a testamentary trust, on or before the later of
+(i) the day that is one year after the taxpayer's filing-due date for the year, and
+(ii) the day that is 90 days after the day of mailing of the notice of assessment; and
+(b) in any other case, on or before the day that is 90 days after the day of mailing of the notice of assessment.
+[6] The respondent gave evidence by way of affidavits signed by two officers of the CCRA (Lucie Allaire, a litigation officer in the Appeals Division of the CCRA, and Michel Damphousse, a collections officer in the Outaouais Tax Services Office of the CCRA). It is the respondent's position that proof of the nature and contents of the arbitrary assessments can be provided through an affidavit of an officer of the CCRA and by attaching thereto the reconstructed arbitrary assessments and identifying them as a true copy of those documents, which were made by or on behalf of the Minister of National Revenue (see subsection 244(9) of the Act).
+[7] In her affidavit, Lucie Allaire indicates that the arbitrary assessments were dated August 10, 1999, were sent by mail to the applicant at the address that was on file for him and were not returned by Canada Post (see paragraphs 17 and 18 of her affidavit). It is the respondent's position that, when a notice of assessment is mailed, it shall be presumed to have been mailed on the date of that notice (see subsection 244(14) of the Act) and the assessment is deemed to have been made on the day of mailing of the notice of assessment (see subsection 244(15) of the Act). Furthermore, anything sent by first class mail shall be deemed to have been received by the person to whom it was sent on the day it was mailed (see subsection 248(7) of the Act). It was established in evidence that notices of assessment are always sent by first class mail, which in fact is ordinary mail (see Chris Beauchesne's testimony, page 37 of the transcript).
+[8] Now, it has been settled by the Federal Court of Appeal in Aztec Industries Inc. v. Canada, [1995] F.C.J. No. 535 (Q.L.), that where a taxpayer alleges that he has not received a document and believes it was not sent, the burden is on the CCRA to prove that it was sent. There is no requirement for the CCRA to prove that the notices of assessment were received by the applicant (see Schafer v. Canada, [2000] F.C.J. No. 1480 (F.C.A.) (Q.L.). In Kovacevic v. Canada, [2003] F.C.J. No. 1044 (Q.L.), the Federal Court of Appeal accepted the proposition stated by Bowman J. in Schafer v. Canada, [1998] T.C.J. No. 459 (Q.L.), with respect to the kind of proof that is satisfactory in cases where legislation requires that documents be sent by a large organization, such as a government department, by ordinary mail. Bowman J. stated the following in paragraph 23 of Schafer, supra:
+In a large organization, such as a government department, a law or accounting firm or a corporation, where many pieces of mail are sent out every day it is virtually impossible to find a witness who can swear that he or she put an envelope addressed to a particular person in the post office. The best that can be done is to set out in detail the procedures followed, such as addressing the envelopes, putting mail in them, taking them to the mail room and delivering the mail to the post office.
+[9] The Federal Court of Appeal added, in Kovacevic, supra, that "[g]enerally, it would be sufficient [for the CCRA] to set out in an affidavit, from the last individual in authority who dealt with the document before it entered the normal mailing procedures of the office, what those procedures were" (paragraph 16).
+[10] In her affidavit, Lucie Allaire makes the following relevant assertions:
+1. I am a Litigation Officer in the Appeals Division of the Canada Customs and Revenue Agency (the "Agency"), and, as such, have personal knowledge of the facts and matters hereinafter deposed to, save and except what is stated to be based on information and belief, and to where so stated, I verily believe them to be true.
+2. I have charge of the appropriate records of the Agency and have knowledge of its practices.
+3. I have examined the records relating to Richard Abraham . . . in respect of the 1993, 1994, 1995, 1996 and 1997 taxation years and as such have knowledge of the matters hereinafter deposed.
+4. My examination of the records indicates that for the taxation years 1993 to 2001 Richard Abraham did not file any income tax returns in the time prescribed by the Income Tax Act.
+5. An examination of the records shows that the Minister of National Revenue (the "Minister") assessed Richard Abraham for the 1993, 1994, 1995, 1996, and 1997 taxation years on August 10, 1999 pursuant to section 152(7) of the Income Tax Act, by Notices of Assessment dated August 10, 1999 for the 1993, 1994, 1995, 1996 and 1997 taxation years.
+. . .
+Arbitrary Assessment of Richard Abraham
+11. The Agency's records indicate that, on January 8, 1999, Suzanne Létourneau, employed in the Audit Division of the Agency contacted Richard Abraham at home. Mr. Abraham asked for and was granted two months to prepare his returns. A copy of the "Liste détaillée des notes d'agenda" for the period January 8, 1999 to April 18, 2001 is attached as Exhibit "B" to this my affidavit.
+12. My examination of the records indicates that, on February 4, 1999, Richard Abraham left a message on the voice mail of Suzanne Létourneau indicating that he would try to call again.
+13. My examination of the records indicates that, on March 5, 1999, Suzanne Létourneau attempted to contact Richard Abraham. She left a message with a person who identified herself as his spouse to contact the Agency.
+14. My examination of the records indicates that, on March 25, 1999, CCRA sent a letter to Richard Abraham at [his address on file with the CCRA]. This letter requested that returns for the 1993 to 1997 taxation years be filed within three weeks. A copy of the letter dated March 25, 1999 is attached as Exhibit "C" to this my affidavit.
+15. Based on my review of the records of the Agency, the letter was not returned to the Agency as undeliverable and there was no response from Richard Abraham to this letter dated March 25, 1999.
+16. My examination of the records indicates that, on June 22, 1999, Suzanne Létourneau of the Audit Division, CCRA, prepared arbitrary assessments based on the information provided by Richard Abraham on January 8, 1999. Where the Agency is required to proceed by arbitrary assessment, it is the Agency's practice to prepare income tax returns of taxpayer who is the subject of the assessment which returns calculate the tax payable by the taxpayer. Copies of the income tax returns prepared by the Agency in respect of Richard Abraham's 1993 to 1997 taxation years are attached as Exhibits "D", "E", "F", "G" and "H" to this my affidavit.
+17. An examination of the records show [sic] that the Notices of Assessment dated August 10, 1999 were sent to Richard Abraham, at [his address on file with the CCRA].
+18. Based on my examination of the records of the Agency, the Notices of Assessment dated August 10, 1999 were not returned to the Agency by Canada Post.
+19. The Notices of Assessment for Richard Abraham's 1993, 1994, 1995, 1996 [and] 1997 taxation years were computer generated. In the case of computer generated Notices of Assessment, as opposed to manually produced Notices of Assessment, one original is generated which is sent to the taxpayer. No physical copy of the original Notices of Assessment is kept in the Department's records.
+20. The Agency is able to reconstruct computer generated Notices of Assessment by reprinting the information contained in the computer system. When this is done, the reconstructed copies are clearly stamped 'RECONSTRUCTED RECONSTITUÉ'.
+21. Attached hereto as Exhibits "I", "J", "K", "L" and "M" entitled Reconstructed Notices of Assessment to my affidavit are true copies of the original Notices of Assessment dated August 10, 1999 for the 1993, 1994, 1995, 1996 and 1997 taxation years respectively and mailed to Mr. Abraham.
+Mailing Procedures for Notices of Assessment
+22. I am informed by Chris Beauchesne, Assistant Manager, Merchandized [sic] Distribution of the Production and Distribution Division of [the] Electronic and Print Media Directorate of the Agency [and] believe it to be true that:
+(a) income tax assessments are processed in batches and are released in cycles for control purposes;
+(b) the Applicant's assessments for the 1993 to 1997 taxation years were processed on August 4, 1999, and the Notices of Assessment were postdated August 10, 1999;
+(c) a master file of all files in the batch is created on tape with a unique sequence number being created for each page to be printed;
+(d) the tape is then used by the Media Services Print Shop – Magnetic Ink Character Recognition Room (the 'MicrRoom') to print the cycle;
+(e) upon completion of the printing, the batch is transferred to the Mechanized Distribution Section for distribution; and
+(f) there is no record of any problems with downloading the tape file on August 10, 1999.
+23. I am informed by Mr. Paul Gehring, the acting manager of the Mechanized Distribution Section at the Agency's Ottawa Taxation Centre [and] believe it to be true that this Section receives the batches of computer generated income tax assessments from the MicrRoom, places them in individual envelopes, and delivers them to Canada Post for mailing.
+24. It is the Agency's practice to indicate on an adhesive label the Batch Number for a given Notice of Assessment. This adhesive label is then attached to the income tax return that is the subject of the Notice of Assessment.
+25. Another adhesive label is attached to the income tax return which indicates the number of the Notice of Assessment.
+26. My examination of the income tax returns attached as Exhibits "D", "E", "F", "G" and "H" to this my affidavit indicates that the adhesive labels affixed to those returns indicate that the Notices of Assessment based on these returns were processed as part of Batch Number 042 dated August 10, 1999.
+27. I am further informed by Chris Beauchesne, the acting [sic] manager of the Mechanized Distribution Section at the Agency's Ottawa Taxation Centre and believe it to be true that:
+(a) Batch Number 42, which included the Notices of Assessment dated August 10, 1999, was received on August 4, 1999, and was mailed on August 10, 1999; and
+(b) before a batch is delivered to Canada Post, the computerized count on the inserters is matched with the expected count, and these counts were accurate on August 10, 1999.
+28. After a careful examination and search of the records of the Agency, I have been unable to find Notices of Objection for the 1993, 1994, 1995, 1996 and 1997 taxation years which were received by the Agency within 90 days of the mailing of the Notices of Assessment which was August 10, 1999.
+Collection Procedures Undertaken by the Agency
+29. On November 10, 1999, the Agency sent a letter to Richard Abraham at his address [on file with the CCRA] advising of the outstanding arrears based on the Notice of Assessment dated August 10, 1999. The text of the letter signed by Susann Trudel, Collections Officer, reads as follows:
+"Nos dossiers indiquent que vous n'avez toujours pas payé le solde de 167 538,95 $ de votre compte, même si nous avons déjà porté cette dette à votre attention.
+Nous vous prions de communiquer avec nous au numéro de téléphone indiqué ci-dessous d'ici à 15 jours. Si vous ne payez pas votre compte ou ne répondez pas à cette lettre, vous vous exposez à des mesures légales sans autre avis.
+Si vous avez déjà payé ce montant, veuillez accepter nos remerciements et ne pas tenir compte de cet avis. Toutefois, si votre paiement remonte à plus de 15 jours, veuillez nous fournir des détails, pour que nous puissions créditer votre compte."
+30. A true copy of the letter sent to Richard Abraham on November 10, 1999 is attached as Exhibit "N" to this my affidavit.
+31. Based on my review of the records of the Agency, the letter dated November 10, 1999 was not returned to the Agency by Canada Post as undeliverable and there was no response from Richard Abraham to this letter dated November 10, 1999.
+32. My examination of the records indicates that, on September 6, 2002, Michel Damphousse, a Collections Officer with the Agency, attended at [the applicant's address on file with the CCRA].
+Correspondence Received in September and October 2002 from Richard Abraham
+33. My examination of the records indicates that, on October 23, 2002, the Agency received a fax from counsel for Richard Abraham, Me Philippe Dioguardi. A Copy of the fax, sent to the attention of Lise Guibord and copied to Michel Damphousse is attached as Exhibit "O" to this my affidavit. The said faxed package included the following documents:
+a) A letter dated September 22, 2002;
+b) An authorization letter signed by Richard Abraham;
+c) Copies of two customer receipts from Canada Post apparently dated October 22, 2002;
+d) A copy of a receipt issued by the Canada Customs and Revenue Agency dated October 17, 2002;
+e) Copies of documents produced by CCRA entitled "Renseignements d'order [sic] fiscal" dated September 18, 2002 for each of the 1993, 1994, 1995, 1996 and 1997 taxation years; and
+f) Notices of Objection dated October 22, 2002 apparently in respect of each of the 1993, 1994, 1995, 1996 and 1997 taxation years.
+34. My examination of the records indicates that originals of the Notices of Objection described in subparagraph (f) above were received by the Minister on October 24, 2002.
+35. My review of the facts and reasons for objection in support of each of the Notices of Objection described in subparagraph (f) above indicates that the basis for objection is described as follows: "The taxpayer objects to the within assessment. Further details to follow if required."
+36. My examination of the records shows that by letter dated November 13, 2002, the Agency notified Richard Abraham that his Notices of Objection for the 1993, 1994, 1995, 1996 and 1997 taxation years could not be accepted as they were not submitted within 90 days of the mailing of the Notices of Assessment which is August 10, 1999. The Minister also explained that an extension of time to file notices of objection could not be granted pursuant to section 166.1(7) of the Income Tax Act as such a request must be made at the latest within one year of the date that the taxpayer was required to file notices of objection.
+37. This letter dated November 13, 2002 was sent by registered mail, addressed to Richard Abraham [at his address on file with the CCRA].
+38. Attached hereto as Exhibit "P" to my affidavit is a copy of the letter dated November 13, 2002 sent by the Agency to Richard Abraham by registered letter.
+39. The November 13, 2002 letter was never claimed and was returned to the Agency. The Canada Post annotations on the face of the returned letter indicate that the letter from the Agency was returned as "unclaimed".
+40. Attached hereto as Exhibit "Q" is a copy of the registered letter envelope as annotated by Canada Post.
+41. An examination of the records show [sic] that the Agency notified the Appellant again by letter dated December 11, 2002 of the decision not to accept the Notices of Objection received October 24, 2002 for the 1993, 1994, 1995, 1996 and 1997 taxation years. This letter was sent regular mail. The letter sent December 11, 2002 was not returned to the Agency.
+42. Attached hereto as Exhibit "R" to my affidavit is a copy of the December 11, 2002 letter sent by the Agency to Richard Abraham.
+. . .
+No Additional Reassessments
+49. An examination of the records shows that no Notices of Reassessment for Richard Abraham's 1993, 1994, 1995, 1996 and 1997 taxation years have been issued after the Notices of Assessment dated August 10, 1999.
+50. An examination of the records indicates that on July 10, 2003, Counsel for Richard Abraham forwarded to the Chief of Appeals, Outaouais Tax Services Office, an Application for an Extension of Time to file a Notice of Objection along with a supporting affidavit of Mr. Richard Abraham. A copy of the letter dated July 10, 2003 along with the said affidavit is attached as Exhibit "Y" to this my Affidavit.
+51. I am informed by Counsel for the Minister and verily believe it to be true that, by letter dated July 17, 2003, Richard Abraham was advised that his Application for an Extension of Time to File a Notice of Objection could not be accepted for the reasons outlined in the Minister's letters to Richard Abraham dated November 13, 2002 and December 11, 2002. A copy of the letter dated July 17, 2003 along with the said Minister's letters to Richard Abraham dated November 13, 2002 and December 11, 2002 is attached as Exhibit "Z" to this my Affidavit.
+52. I make this affidavit in support of the Respondent's Reply to the Applicant's Application for an Extension of Time to File a Notice of Objection, dated November 19, 2003 and for no other purpose.
+[11] Mr. Chris Beauchesne, who worked in what could be called the mail division of the CCRA, gave some explanations concerning the procedures used in sending documentation out from the CCRA. He said that each particular file was given a control number when entered on the mainframe computer of the CCRA. Through that control number, it is possible to view how many clients' files were processed in what he called a "batch" or a "cycle". It is my understanding that all documents are identified by the actual date that appears thereon and all documents showing the same date are part of the same batch and have the same batch number. The batch number is assigned to ensure that all documents in the batch are processed. Mr. Beauchesne said that each batch contained many files, and that only one batch was processed for a given date, with a maximum of two batches per week, in any given fiscal year. Thus, by consulting a statistical program that went back a number of years, he was able to verify that all documents dated August 10, 1999, were part of batch 42. He said that there were 47,499 pieces of correspondence in that batch. By means of the batch number, he was able to verify the date they began to process the files that were part of that batch and the day on which it was released to Canada Post. The batch number would appear on internal documents but not on documents sent to clients. In the present case, the internal tax returns prepared by the CCRA with respect to the applicant for the years at issue show batch number 42, the date assigned to that batch, which is August 10, 1999, and the applicant's account number. However, the reconstructed notices of assessment show the date of August 10, 1999, and the applicant's account number but do not show the number 42, which would be the batch number pertaining to them. There is, however, a number 45 appearing near the postal code. Mr. Beauchesne, although he was not totally certain, thought that this number was a Canada Post "walk code".
+[12] Mr. Beauchesne testified that it is the date on a document that links it to the batch that was run on any particular day. For example, they know that a notice of assessment belongs to a given batch from the notice date appearing on the notice of assessment, not from the individual taxpayer's account number. The account number is only relied upon in cases of document mutilation (a document damaged during the processing) or where there are processing problems with documents. Mr. Beauchesne also said that a batch retains the same batch number throughout the process. In cross‑examination, he said that he could not say how a particular client's file is assigned to a particular batch, as the batch number is assigned to documents before the batch reaches his department. He said, however, that he was able to state that if the documents were dated August 10, 1999, they were in batch 42 and that all letters in batch 42 were processed correctly and released to Canada Post without incident.
+[13] Mr. Beauchesne explained how all documents are mailed out. Batches are downloaded from the mainframe system and come out in the form of an electronic file. That file is printed on high-speed printers and kept in several boxes of very large volume. Those boxes are logged and catalogued, their contents, the batch the documents are from and any other pertinent information needed for processing being recorded. There is also a control mechanism in place for that batch; it takes the form of paperwork which clearly states the type of documents (in the present case, notices of assessment), the batch to which the documents are assigned and the exact number of clients' files that are involved in that batch. That number is also generated from the mainframe computer. At that point, a control card is created that accompanies that batch everywhere that it goes within the processing area. It indicates to any of the machine operators that run the high-speed mailing servers what batch they are working on and on what date it is supposed to go out to the clients. At that stage, a particular batch is placed on one of the high-speed inserting machines and the operator will proceed to work on that batch, taking counts of what is being processed and logging it all at the end of the processing day.
+[14] During that process, the mail comes off at a high rate of speed onto a conveyor belt. At that point, there is a person who flips through all the documents to make sure that there is an address present in the envelope's window and that the envelope is sealed correctly. The envelope is then immediately placed in a "lettertainer" (plastic container) which is in turn placed in a cage provided by Canada Post. The totals for each operator are verified against the expected outcome. Normally, the final count reached by the operators should match exactly the expected count based on the number generated from the mainframe computer for that batch. In cases where there is a discrepancy, the operators will re-count the figures handwritten on the control card. They will verify that the number of mutilations corresponds to that written down on their control card. When there is a mutilation, it is identified by the batch number and the control number assigned to it. It then goes back to be printed again the same or next day.
+[15] There is also a great number of security checks. Each page of any document has a sequence number on it, and this helps avoid having missing pages. In cases of doubt, it is not unusual to dispose of a batch that is already in envelopes and to start the process all over again. Each document is sent in an individual envelope. Thus if, as is the case here, there is more than one notice of assessment sent to a client for different taxation years, each notice of assessment pertaining to each taxation year will be sent to the client in its own envelope. The envelopes are then stored in containers until the date on which the containers are to be released to Canada Post. There is a person who is responsible for preparing the mail to be released to Canada Post every day. That person verifies each one of the cages and prepares it to be shipped to Canada Post.
+[16] In the present case, Mr. Beauchesne was able to verify that batch 42 (containing documents dated August 10, 1999) was assigned control number 031372. There were eight documents out of 47,499 in that batch that were mutilated and subsequently redone. He was also able to verify that the count of 47,499 matched the expected count generated from the mainframe computer for batch 42, which means that all the documents counted in that batch were sent to Canada Post on August 10, 1999. Lastly, Mr. Beauchesne said that he could not imagine any type of processing error in which five separate notices of assessment in five separate envelopes, each dated August 10, 1999, would not have left the CCRA on that date.
+Analysis
+[17] Counsel for the applicant argued that there is no way of knowing for sure that the applicant's file was assigned to batch number 42 and consequently that the arbitrary assessments dated August 10, 1999, were indeed mailed by the CCRA. Mr. Beauchesne said that he could not say that a particular client's file was in a certain batch but stated that documents dated August 10, 1999, were part of batch 42. He then added that if that client's file was in batch 42, he could say that all the letters in batch 42 were processed correctly and released to Canada Post.
+[18] Although I cannot ignore the fact that the notices of assessment were part of a batch, for which the number was not assigned by Mr. Beauchesne's department, I am of the view that there is enough evidence to show that the arbitrary assessments dated August 10, 1999, were part of batch 42.
+[19] Indeed, batch number 42, the date of August 10, 1999, and the applicant's account number appear on labels attached to all five tax returns prepared internally by the CCRA for the applicant for the years at issue. I realize that batch number 42 does not appear on the reconstructed notices of assessment, but the date of August 10, 1999, and the applicant's account number do appear on them. In my view, this information given on the labels affixed to the tax returns, combined with that provided on the reconstructed arbitrary assessments, established on a balance of probabilities a sufficient link to allow one to say that the arbitrary assessments were part of batch 42. It would appear that that batch number, when assigned to a document, was registered on the mainframe computer. When batch 42 was downloaded, it was processed so that it would be sent to Canada Post on August 10, 1999. Mr. Beauchesne was able to verify that all documents forming part of batch 42 were sent to Canada Post on that date.
+[20] In my view, considering the procedures followed, as described by Mr. Beauchesne, and considering the affidavit of Lucie Allaire, it seems more probable that the arbitrary assessments were sent on August 10, 1999, than that they were not. Furthermore, the applicant admits that the address appearing on the arbitrary assessments was the address where he received his mail daily. According to the evidence, the correspondence the CCRA sent by ordinary mail to the applicant was not returned to the CCRA by Canada Post, while the correspondence sent by registered mail was returned as unclaimed.
+[21] The arbitrary assessments were sent by ordinary mail, and were most probably sent by the CCRA on August 10, 1999, as explained by Mr. Beauchesne. They were not returned to the CCRA by Canada Post. Although I do not have to decide the point, it seems more improbable to me that the five arbitrary assessments, sent in five different envelopes, were not received by the applicant.
+[22] Consequently, as I am satisfied that the arbitrary assessments were indeed mailed by the CCRA, they are presumed to have been made and mailed on the date appearing on the notices, which is August 10, 1999 (subsections 244(14) and 244(15) of the Act). I therefore conclude that the application for an extension of time to file a notice of objection to the arbitrary assessments dated August 10, 1999, cannot be made at this late date and must be dismissed pursuant to subsection 166.2(5) of the Act.
+Signed at Ottawa, Canada, this 19th day of May 2004.
+"Lucie Lamarre"
+Lamarre, J.
+CITATION:
+2004TCC380
+COURT FILE NO.:
+2002-4856(IT)APP
+STYLE OF CAUSE:
+Richard Abraham v. Her Majesty The Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+March 1, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT:
+May 19, 2004
+APPEARANCES:
+Counsel for the Applicant:
+Philippe Dioguardi
+Counsel for the Respondent:
+George Boyd Aitken
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Philippe Dioguardi
+Firm:
+Dioguardi & Company LLP
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

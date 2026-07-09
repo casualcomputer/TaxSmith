@@ -1,0 +1,125 @@
+Title: Grove v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27351/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-566-27351-grove-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-08-23
+
+# Grove v. The Queen
+
+- Citation: 2005 TCC 566
+- Decision date: 2005-08-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 173, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grove v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-23
+Neutral citation
+2005 TCC 566
+File numbers
+2000-2620(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-2620(IT)G
+BETWEEN:
+PAUL GROVE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on July 26, 2005 at St. Catharines, Ontario
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellant:
+Nicholas F. Ferguson
+Counsel for the Respondent:
+Bobby Sood
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1995 and 1996 taxation years are dismissed.
+The costs are to be determined.
+Signed at Ottawa, Canada this 23rd day of August 2005.
+"Gerald J. Rip"
+Rip J.
+Citation: 2005TCC566
+Date: 20050823
+Docket: 2000-2620(IT)G
+BETWEEN:
+PAUL GROVE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip J.
+[1] The only issue in this appeal by Paul Grove is whether the Minister of National Revenue had the right to assess penalties pursuant to subsection 163(2) of the Income Tax Act ("Act") for 1995 and 1996. Mr. Grove did not contest the amounts of income the Minister added to his income for each of these years.
+[2] In 1995 and up to June 20, 1996 the opening paragraph of subsection 163(2) read as follows:[1]
+(2) Every person who, knowingly, or under circumstances amounting to gross negligence in the carrying out of any duty or obligation imposed by or under this Act, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year as required by or under this Act or a regulation, is liable to a penalty of the greater of $100 and 50% of the total of ...
+(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde dans l'exercice d'une obligation prévue à la présente loi ou à son règlement, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse - appelé « déclaration » au présent article - rempli, produit ou présenté, selon le cas, pour une année d'imposition conformément à la présente loi ou à son règlement, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants : ...
+[3] At all relevant times Mr. Grove carried on business as a sole proprietor repairing automobiles for restoration and eventual sale. In 1995 he reported gross income from his business in the amount of $52,407 and claimed expenses of $51,753 for a net income of $653. In 1996 he reported gross income of $63,465 and claimed expenses of $60,380 and reported a net income of $3,084. Mr. Grove was assessed on the basis that he under-reported his income for 1995 and 1996 in that he failed to include income of $30,718 and $37,133 in his income in his tax returns filed for 1995 and 1996, respectively. The Minister of National Revenue calculated that Mr. Grove understated his income to the extent of approximately 37% of his total gross income in each of these years.
+[4] Mr. Parker Woods, senior auditor with the Canada Revenue Agency ("CRA") in Mississauga, Ontario was in charge of Mr. Grove's files for his 1995 and 1996 taxation years. He was assigned to the files by his team leader in the normal course in 1998. He reviewed the files in his office and then met with Mr. Grove. He asked Mr. Grove for various records and for a description of how his business was run. He estimates that he met with Mr. Grove about five or six times at Mr. Grove's place of business.
+[5] Mr. Woods described Mr. Grove's repair shop as a small shop which had one bay and perhaps room for two cars. As far as he can tell, Mr. Grove was the only worker.
+[6] Mr. Woods stated that Mr. Grove had two bank accounts, one for business and one personal. Mr. Grove indicated to him that any money he received from the business went into the business account and was used to pay business expenses.
+[7] Mr. Grove did not own a computer. A friend who lived in Albertaprepared Mr. Grove's tax return for several years. The friend used his computer using an Excel program to prepare a spreadsheet for Mr. Grove's business records; to the extent Mr. Grove had records. Mr. Grove provided the information to his friend to prepare the returns. Mr. Grove reported his income on the cash method, that is, he reported his income as cash was received and expenses incurred.[2]
+[8] Mr. Woods recalled that at one time he asked Mr. Grove if he had income other than that reported in his income tax returns and he said "sometimes he would repair 'personal cars' and put the money in his personal account". However, Mr. Grove had no other source of income except for the car repairs. Since Mr. Grove made deposits to both his personal and business accounts, Mr. Woods obtained the records to both accounts in order to verify deposits and withdrawals. Mr. Woods did not look at sales invoices or other records because Mr. Grove used the cash method of reporting. The records on the Excel spreadsheet reflected his revenue, according to Mr. Woods. Mr. Grove did not maintain a sales journal and did not maintain a numerical sequence of invoices; thus, Mr. Woods could not tell whether any invoices were missing and was of the view that the bundle of invoices given to him was possibly incomplete. In effect, Mr. Woods relied on the bank statements to determine Mr. Grove's income for each of the two years in appeal. The aggregate amount of receipts was less than $52,000, he said.
+[9] Mr. Woods recommended that section 163 penalties be imposed on Mr. Grove on the basis that there was a substantial difference between the reported income and the gross income he determined. He also considered Mr. Grove's education, roughly "a grade 12 education", and that Mr. Grove had an "adequate knowledge" of the Act. Mr. Grove could "distinguish business income from personal income" and "taxable income versus non-taxable income". Also, Mr. Grove filed Goods and Services Tax returns on a quarterly basis claiming input tax credits.
+[10]During the course of his audit of Mr. Grove, Mr. Woods reviewed Mr. Grove's personal expenses. This included items such as property taxes he paid in 1995 and 1996 and loans he incurred in each of these years. Also included were the amounts that a person in Mr. Grove's situation would pay for hydro, telephone, heating, home insurance, food and clothes. Mr. Woods assumed Mr. Grove would have needed $30,000 a year to maintain his lifestyle. He based this amount on "Statistics Canada numbers". Thus, Mr. Woods assumed that the $600 reported by Mr. Grove as income in 1995 was not enough to support his lifestyle. Similarly the $3,084 he reported for 1996 was insufficient. Mr. Woods concluded that Mr. Grove knew or ought to have known that these amounts were not enough to sustain his livelihood.
+[11]Mr. Woods testified that while Mr. Grove had two bank accounts, it was common for him to transfer money from one account to the other account. In cross-examination Mr. Woods stated that he considered that Mr. Grove maintained records and participated in the preparation of his tax returns. He concluded that Mr. Grove had sufficient knowledge of his records to have known what ought to have been included in his various returns. Mr. Woods also said that he did not believe Mr. Grove included any deposits to his personal account in his income for either year. Mr. Woods was also of the view that if Mr. Grove sold any personal items, any profit he incurred on sales of these items ought to have been included in his income and therefore taxable. An example given by Mr. Woods was that if Mr. Grove had sold an automobile he had for a number of years, even if it was a personal car, any profit realized on the sale of the car should be included in income.
+[12]Mr. Woods did concede that if Mr. Grove borrowed money or sold property he could have lived on the proceeds of the loan or the proceeds from the property. Mr. Woods stated that if Mr. Grove had incurred a loan of, say $20,000, he would have considered $20,000 as a living expense. In fact Mr. Grove borrowed $10,000 in 1995 and $27,000 in 1996. In one case some money was used to purchase a car and in another case the money was used to purchase a registered retirement savings plan. Mr. Woods said that he reduced Mr. Grove's total bank deposits by the amount of the loans for assessment purposes. In other words, he adjusted the amounts to account for the loans. In 1995, for example, Mr. Grove deposited $82,000 into his business account and $63,000 into his personal account. To the extent he has a loan of $10,000 this amount would have been deducted from the accounts. Also, in 1995, Mr. Grove transferred $26,000 from his personal account to his business account. Mr. Woods stated that he did not include the $26,000 income in both accounts; that is, there was no doubling of the $26,000. The $26,000 was included in the account the money first entered.
+[13]Mr. Grove testified that in 1994 he took a business improvement loan from the bank and purchased a condominium unit for his business. He also remortgaged his home to put money in the business. Additional capital for his business came from the proceeds of sale of personal assets, including cars. With this money he bought equipment and additional cars. He also acquired a framing machine which is used to push cars into shape after collisions, although he did not do much collision work. He also purchased a spray boot for $30,000. The spray boot is an enclosure with a ventilation system independent of the building in which it is located; the spray boot keeps the paint spray within the "boot". This was purchased with borrowed money.
+[14]Mr. Grove complained that the business was costing him money and he found out that one person could produce only so much. He stated that he, alone, could not do work fast enough to pay his expenses.
+[15]Mr. Grove stated that he never had any problems with the Canada Revenue Agency or its predecessor when his friend prepared his tax returns for 1992, 1993 and 1994. The friend lived in Albertabut would visit Mr. Grove and stay at his home. During 1992, 1993 and 1994 Mr. Grove would give him any invoices, receipts and lists of expenses. The tax preparer would go through the documents and occasionally ask questions.
+[16]Mr. Grove gave is friend invoices for all "closed contracts". As I understand it, a "closed" invoice is one in which the job has been completed and an invoice has been issued. If a job has not been completed, the invoice is "open" and no "open" invoice was given to his friend for the preparation of the income tax returns. An invoice could be "open" even if Mr. Grove received instalment payments. Mr. Grove could not state whether or not these instalment payments would have been included in income. I infer that they were not.
+[17]Mr. Grove stated that he knew "I wasn't earning much money so I didn't see a problem" when he signed the income tax returns. He knew he had taken out small loans from friends and his mother and "sold off stuff". He had accumulated a lot of auto-related material which he sold. In 1996 he "picked up" a car for himself but soon sold it.
+[18]Mr. Grove claimed that everything he sold was invoiced, including cash sales. However, money he received from sales of personal property was deposited into his personal account; the sales of personal items were not "necessarily" invoiced. By 1995, Mr. Grove stated that business was getting "tough" and after the audit he decided it was not worth carrying on business where he was then located; he purchased a property out of town and continued business at the new location.
+[19]In cross-examination Mr. Grove stated that during the years in appeal he did most of the work for private people or small businesses. For "large jobs", typically for an amount of $8,000 or more, he is usually paid in instalments. For an $8,000 contract he would be paid $3,000 to $4,000 "up front". Mr. Grove indicated he would not issue an invoice but would credit the amount on a future invoice. Payments were made either by cash or cheque, rarely by credit card.
+[20]In 1998 or so Mr. Grove retained Mr. Naresh Bansal, a new accountant, who "redid" his books and concluded that Mr. Grove owed tax. However, they waited for Mr. Woods to complete his audit. The accountant and Mr. Woods both recognized that Mr. Grove had under-reported his income but they could not agree as to the amount.
+[21]Mr. Grove did not see the need for sophisticated books and records in the carrying on of his business. As far as he was concerned, he could tell what people were paying him and what monies he was receiving from the bank statements. Mr. Grove testified that when he looked at his tax return his concern was directed to what he produced, that is, his gross revenue, in a particular year. In 1995, for example, he saw that he grossed $52,000 and he "just accepted it". He did not think much of it since he believed the amount was not out of place. As far as net income is concerned, he stated that in past years he received tax refunds and did not think the amounts reported were irregular. When he saw his 1995 tax return reported a net income of $3,084, he concluded that he was doing better than in 1994 and therefore made no inquiries.
+[22]There is no question that Mr. Grove could have been much more careful in recording the flow of funds in and out of his business and in preparing and maintaining books of account to record his business activities. This is not a case where a taxpayer relied on his accountant and the accountant fouled up in preparing the taxpayer's tax returns.[3]
+[23]In the case at bar the Crown has established that it was Mr. Grove who kept inadequate and improper records. He gave these records to his tax preparer who undoubtedly prepared the tax returns on the basis of the records submitted to him. On this basis, the fault for any errors or omissions in the tax returns is that of the person who provided the material which was used to prepare the tax returns, Mr. Grove.
+[24]Crown's counsel submitted that Mr. Grove was grossly negligent in carrying out his duty under the Act because, among other reasons, he was wilfully blind. I agree with counsel. In Villeneuve v. R.[4] Létourneau J. A. stated that:
+With respect, I think the judge failed to consider the concept of gross negligence that may result from the wrongdoer's willful blindness. Even a wrongful intent, which often takes the form of knowledge of one or more of the ingredients of the alleged act, may be established through proof of willful blindness. In such cases the wrongdoer, while he may not have actual knowledge of the alleged ingredient, will be deemed to have that knowledge.
+[25]Mr. Grove appears to me to be a person who is, and was, fully capable, of keeping proper books of account, if he wanted to do so. However, his interest was in fixing cars and he depended on the basic records and bank documents from his business account to report his income. Simply put, he was interested in fixing up cars and had no interest in maintaining proper records.
+[26]The amount of income understated by Mr. Grove for 1995 and 1996 was equal to approximately 37% of his income for those years. Mr. Grove, it is true, was working long hours at his business. His days were devoted to meeting potential customers and working on cars. For whatever reason he did not address his mind to the need of ensuring his income and expenses were properly recorded. And this surely resulted in the assessment of penalties he is challenging at bar.
+[27]In my view, Mr. Grove was grossly negligent in reporting his income for 1995 and 1996 and the penalties assessed pursuant to subsection 163(2) of the Act were proper.
+[28]The appeals are dismissed. There shall be no immediate order as to costs. I am requesting counsel to make representations in writing as to costs and forward same to me within 30 days of the date of this judgment. I note that Mr. Grove did not contest the under-reported amounts added to his income in 1995 and 1996. This concession may have reduced the time for preparation for trial and the length of the trial and this, in turn, may affect costs.
+Signed at Ottawa, Canada this 23rd day of August 2005.
+"Gerald J. Rip"
+Rip J.
+CITATION: 2005TCC566
+COURT FILE NO.: 2000-2620(IT)G
+STYLE OF CAUSE: PAUL GROVE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: St. Catharines, Ontario
+DATE OF HEARING: July 26, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT: August 23, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Nicholas F. Ferguson
+Counsel for the Respondent:
+Bobby Sood
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Nicholas F. Ferguson
+Firm: Chown, Cairns
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] After June 20, 1996, the opening paragraph of subsection 163(2) read as follows:
+(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of ...
+(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse - (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants : ...
+For the purpose of these appeals there is no significant difference in the two provisions.
+[2] According to the Income Tax Act income from a business is to be computed in accordance with the accrual method of accounting. The only exception is found in subsection 28(1) of the Act, where farmers and fishermen may elect to report income using the cash method. In the appeal at bar, Mr. Grove reported his income on the cash method and when Canada Customs and Revenue Agency reassessed his returns, it also used the cash method.
+[3] See, for example, Findlay v. Canada, 2000 DTC 6345, [2000] F.C.J. No. 731 (F.C.A.) and Johnson v. Canada [1993] T.C.J. No. 787.
+[4] 2004 DTC 6077, 2004 DTC 6576, paragraph 6.

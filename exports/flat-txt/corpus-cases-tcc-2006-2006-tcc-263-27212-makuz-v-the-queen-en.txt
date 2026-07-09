@@ -1,0 +1,415 @@
+Title: Makuz v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27212/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-263-27212-makuz-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-07-12
+
+# Makuz v. The Queen
+
+- Citation: 2006 TCC 263
+- Decision date: 2006-07-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 818, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Makuz v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-07-12
+Neutral citation
+2006 TCC 263
+File numbers
+96-1882(IT)G, 96‑1883(IT)G, 96-2512(IT)G, 96‑3944(IT)G, 96‑3949(IT)G, 96‑3952(IT)G, 96-4031(IT)G, 96-4038(IT)G, 97-981(IT)G, 97-982(IT)G, 97-983(IT)G, 97-984(IT)G, 97-985(IT)G, 97-986(IT)G, 97-987(IT)G, 97-988(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Notes
+Decision Content
+Citation: 2006TCC263
+Date: 20060712
+Dockets: 96-1882(IT)G; 96‑1883(IT)G; 96-2512(IT)G; 96‑3944(IT)G; 96‑3949(IT)G; 96‑3952(IT)G; 96-4031(IT)G; 96-4038(IT)G;
+97-981(IT)G; 97-982(IT)G; 97-983(IT)G; 97-984(IT)G;
+97-985(IT)G; 97-986(IT)G; 97-987(IT)G; 97-988(IT)G
+BETWEEN:
+ALEX R. MAKUZ, WILLIAM O.S. BALLARD,
+MICHAEL COHL, CHARLES CSAK,
+JAMES MOLYNEUX, EDWARD BOBOT,
+ADEL MARCO, PETER PESCE,
+EDEN HOLDINGS LTD.,
+WATER’S EDGE VILLAGE ESTATES LTD.,
+SANDSPIT HOLDINGS LTD.,
+WATER’S
+EDGE
+VILLAGE
+ESTATES (PHASE II) LTD.,
+TWIN OAKS VILLAGE ESTATES LTD.,
+JAMES S. DUNCAN, ANTHONY R. YOUNG,
+J. DUNCAN HOLDINGS LTD.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals were heard together on common evidence. The evidence in nine of the appeals was heard in
+Victoria ,
+British Columbia and the evidence in seven of the appeals was heard in
+Toronto ,
+Ontario
+. In general, the appeals that were heard in
+Victoria were by residents of
+British Columbia
+. The appeals that were heard in
+Toronto were by residents of
+Ontario
+. The appeals heard in
+Victoria
+were the following: Eden Holdings Ltd., (“Eden”), 97‑981(IT)G; Water’s Edge Village Estates Ltd., (“Water’s Edge”), 97‑982(IT)G; Sandspit Holdings Ltd., (“Sandspit”), 97‑983(IT)G; Water’s Edge Village Estates (Phase II) Ltd., (“Water’s Edge II), 97‑984(IT)G; Twin Oaks Village Estates Ltd., (“Twin Oaks”), 97‑985(IT)G; James S. Duncan, (“Duncan”), 97‑986(IT)G; Anthony R. Young, (“Young”) 97-987(IT)G and J. Duncan Holdings Ltd., (“Duncan Holdings”), 97‑988(IT)G.
+[2] The Toronto appeals were: Alex R. Makuz, (“Makuz”), 96-1882(IT)G; William O.S. Ballard, (“Ballard”), 96-1883(IT)G; Michael Cohl, (“Cohl”), 96‑2512(IT)G; Charles Csak, (“Csak”), 96-3944(IT)G; James Molyneux, (“Molyneux”), 96‑3949(IT)G; Edward Bobot, (“Bobot”), 96‑3952(IT)G; Adel Marco, (“Marco”), 96‑4031(IT)G and Peter Pesce, (“Pesce”), 96‑4038(IT)G. The one exception was that Ballard gave his evidence in
+Victoria
+, B.C.
+[3] Crown counsel for the
+Victoria
+appeals were Mr. Robert Carvalho and Mr. Gavin Laird. Crown counsel for the
+Toronto
+appeals were Ms. Patricia Lee and Mr. Eric Noble. Counsel for all of the appellants was Mr. George Cadman. The argument in all appeals was heard in
+Toronto
+.
+[4] The issue in all of the appeals is the same for all of the appellants. It is whether a loss in a partnership, in which the appellants claimed to have an interest, is deductible by the appellants in computing their income in the years 1988, 1989, 1990 and 1991. The parties agreed on certain facts and their agreement is attached as Schedule A.
+[5] The question of the loss from this particular partnership has been before this court and the Federal Court of Appeal. In Witkin v. The Queen, Beaubier J. ([1998] 3 C.T.C. 2869]) dismissed the appeals and the Federal Court of Appeal ([2002] 3 C.T.C. 184) affirmed his judgment on different grounds.
+[6] The facts are complicated and they include a multiplicity of transactions. A number of corporations and three partnerships are involved. The principle of income tax law that is relied upon is that when a person becomes a partner in a partnership before the end of the partnership’s fiscal period, that person’s pro rata share of the partnership’s income or loss is to be determined at the end of the partnership’s fiscal period. The principle is not in doubt, but its application to the facts here is disputed.
+[7] In a nutshell, here is the problem. Partnership A had a fiscal period ending December 31, 1987. Partnership B had a fiscal period ending March 31, 1988. Partnership B acquired a partnership interest in Partnership A on December 31, 1987. Partnership A sustained a loss before the end of its fiscal period that ended on December 31, 1987. Therefore, Partnership B’s share of that loss should enter into the computation of its income or loss for the period ending March 31, 1988. The appellants’ position is that they acquired partnership interests in Partnership B before March 31, 1988. Therefore they claimed their proportionate share of the loss of Partnership B.
+[8] The Minister of National Revenue denied the loss claimed by the appellants’ citing artificiality and sham and alleging that the appellants were not really buying a partnership interest with the intent of earning income but were in reality simply buying a loss and a tax write-off and not a genuine investment. The respondent relies, in addition, upon old section 245 of the Income Tax Act. The appellants state that they were aware of the existence of the tax write-off but that their purpose was to acquire an investment in the real estate market in
+Texas
+.
+[9] A more detailed outline of the facts follows and is shown diagramatically on Schedule B. The facts are taken substantially from the notices of appeal and on paper, at least, seem to be supported by the documentation. The Claridge Associates (“CA”) was a general partnership founded on November 20, 1979 under
+Texas
+law. Its fiscal year-end was December 31. Its original partners were Belcourt Construction Company Ltd. (“Belcourt”) and Realty Properties Multi‑Storey Inc. (“RPMSI”), a
+Texas
+corporation. Subsequently, Soza Marine Service Limited (“Soza”) acquired an interest so that by the end of 1986 Soza and Belcourt had a 50% interest in CA and RPMSI had 50%. On October 9, 1987, Multi-Storey Investments, Inc. (“MSI”) acquired Soza’s and Belcourt’s 50% interest.
+[10] CA built a luxury residential condominium apartment complex in
+Dallas
+known as The Claridge. On December 30, 1987, CA owned approximately 79 condominium units in The Claridge. Claridge Holdings No. 2 (“CH2”) was a general partnership formed under
+Texas
+law. On December 31, 1987, its partners were RPMSI and Strauss Investment Construction Corp. (“SICC”), a
+Texas
+corporation. Claridge Holdings No. 1 (“CH1”) was a general partnership formed under
+Texas
+law whose original partners were Strauss Investments Realty Corp. (“SIRC”) and Strauss Investment Management Company (“SIMC”). The fiscal year-end of CH1 was March 31.
+[11] On December 31, 1987, CH1 purchased a 49.5% interest in CA from each of MSI and RPMSI for US $20.00. Also, on December 31, 1987, CA sold an 85% interest in the 79 units to CH2. The consideration was the assumption by CH2 of US $23,000,000 of specific liabilities of CA and 85% of all other indebtedness of CA.
+[12] By letter agreement dated March 7, 1988, SIMC and SIRC, in consideration of US $20.00, granted CMF Enterprises Ltd. (“CMF"), an
+Ontario
+corporation, an option to acquire 99% of the partnership interests in CH1.
+[13] On March 28, 1988, in consideration of the payment of amounts which I shall set out in more detail below CMF assigned to the appellants the right to acquire varying percentages of the partnership interests. For example, Ballard paid $95,357.97 for the right to acquire 4.03% of the partnership interest in CH1. Molyneux (through CMF Investments) acquired the right to acquire 5.41% of the partnership interests in CH1 for $127,120.93. Twin Oaks paid $47,669.98 for a right to acquire 2.02%. Young paid $15,890.33 to acquire 0.67% of the partnership interest of CH1. It works out to somewhere between $23,400 and $23,700 for the right to acquire 1% of the partnership interests. For the sake of simplicity I shall treat the cost of acquiring a 1% partnership interest in CH1 as US $23,500.
+[14] On the same day, March 28, 1988, the appellants exercised their options and paid SIMC and SIRC a nominal amount to acquire the respective partnership interests in respect of which they held options. For example, Ballard paid US $4.03 to acquire a 4.03% interest in CH1. Molyneaux paid US $5.41 to acquire a 5.41% interest, Young paid US $0.67 for 0.67% interest and Twin Oaks paid US $2.02 for a 2.02% interest.
+[15] On March 30, 1988, MSI contributed to CA a Promissory Note (“PN”). The notice of appeal states that the PN was in the amount of approximately US $64,000,000. It is difficult to tell from the note itself how much it is for. The indebtedness under the note (which is dated March 30, 1988, and is signed by Richard C. Strauss and is in favour of MSI), is said to be equal to the difference between certain indebtedness of CA to the Chase Manhattan Bank and the Morgan Guaranty Trust Company of New York and $17,705,350.
+[16] If the figure of US $64,000,000 in the notice of appeal is accepted, it would mean that the indebtedness of CA to the two financial institutions would be in excess of $81,000,000.
+[17] On March 31, 1988, after the acquisition of the partnership interests, the appellants contributed capital to CHI in proportion to the percentage interest acquired. For example, Ballard, with a 4.03% interest, contributed US $54,657; Molyneux, with a 5.4% interest, contributed US $72,874; Young, with a 0.67% interest contributed US $9,109 and Twin Oaks, with a 2.02% interest, contributed US $27,328. This works out, with variance of no more than US $100, to a contribution of about US $13,500 for each one percent partnership interest in CH1 acquired.
+[18] Also, on March 31, 1988, CH1 contributed US $1,342,000 to CA. This amount is the aggregate of the contributions made by the appellants to CH1. Also, on March 31, 1988, the “Carried Interest Agreement” was entered into between CA, MSI, CH2 and Richard Strauss. Under that agreement, CA transferred to CH2 the remaining 15% interest in the Claridge units, US $1,342,000 of cash and the PN. CH2 assumed the remaining first‑mortgage liabilities of CA and MSI agreed to convey to CA a 5.4% beneficial interest in the Claridge units if, as and when, it acquired them.
+[19] Some time between March 31, 1988 and before September 13, 1988, Wasco Properties Inc., (“Wasco”) a
+Delaware
+corporation, acquired the Claridge units from CH2, then MSI acquired them from Wasco and on September 9, 1988, MSI conveyed 5.4% interest of the units to CA.
+[20] In 1988, 1989, 1990 and 1991, the appellants claimed the share of CH1’s losses (which were CA’s losses) equal to their proportionate interest in the partnership CH1. For example, in 1988, Ballard, with a 4.03% interest claimed $1,763,855; Twin Oaks with a 2.02% interest claimed $884,116; Young, with a .67% interest claimed $293,246. In summary then, Ballard in 1988 claimed a loss of $1,763,855 and his cost of the partnership interest was the aggregate $95,357.97 (cost of option paid to CMF), $4.03 (cost of the 4.03% partnership interest) and $54,657, (capital contribution to CH1) for a total of $150,019.
+[21] The cost to Twin Oaks of its 2.02% interest was $47,669.98, plus $2.02 plus $27,328, total $75,000, and this gave Twin Oaks access to a loss of $884,116.
+[22] The cost of Young of buying into the pool of losses was $15,890.33 plus $0.67 plus $9,109 for a total of $25,003 and he claimed $293,246.
+[23] The result was that for a total outlay of about US $3,730,000, the appellants were given access to a pool of losses totalling Cnd. $43,200,000.
+[24] If one looks at these numbers, and at the remarkable discrepancy between what was paid and the losses claimed, it is difficult to believe that the access to the losses was not the predominant, if not the sole motivation for the investment. For example, if we look at Ballard (and I pick him simply as an illustration), for an outlay of $150,000 he got a tax loss of $1,763,855 in the first year as well as a further loss of about $33,000 in the following years. This is even better than the prospect held out to the appellants in the promotional material. The U.S. Real Estate Investment Overview that was given to the investors reads as follows:
+The Claridge is an exclusive 97 unit high-rise, situated in one of the city’s most prestigious locations. The property was assembled in 1979 and the building was constructed over a three year period to March, 1985, at an accumulated cost in excess of $70 million. To December 31, 1987, 22 units have been sold. Due to declining
+Texas
+real estate values in recent years, the estimated fair market value of the remaining unsold units approximates $23 million.
+CMF Enterprises Ltd., has obtained an option to purchase the undivided interest in the Claridge by acquiring all of the partnership interests in Claridge Holdings No. 1. CMF has also negotiated an agreement whereby the existing partners in the project will contribute capital to fund the existing debt in excess of fair market value of the project.
+Income Tax Considerations
+CMF Enterprises Ltd. commenced negotiations with the Strauss Group, owners of the Claridge partnership, at the beginning of December, 1987. By December 27, the percentage of interest and the price had been negotiated. On December 30, in an effort to further enhance the deal, and isolate the excess debt from future partners, CMF requested that the Strauss Group undertake to reorganize their ownership structure. The following steps were taken prior to year end:
+• The partnership owning the property was acquired by a second partnership with a February 1988 year end.
+• 85% of the property was sold for debt at fair market value to a third partnership.
+Under the existing agreement with the Strauss Group, Canadian investors owning the second partnership will be allocated substantially all of the partnership loss incurred in the Claridge Associates partnership for the operating year ended December 31, 1987, which is estimated to be $27 - $30 million U.S. Based on a minimum investment of $150,000 Canadian, the pro rata allocation of loss would approximate $1,250,000 Canadian as a minimum.
+[25] Mr. Ballard, for an expenditure of $150,000, claimed $1,763,855 in 1988. Even assuming the $150,000 was not deductible, the tax value of $1,763,855, assuming a marginal rate of 52% was about $917,000, for a return of about 600%.
+[26] The appellants, through CH1, ended up with 99% of a loss of about $43,000,000 but only a contingent interest in 5.4% of the unsold condominiums.
+[27] I have traced the complex series of transactions beginning with the creation of CA, the construction of the Claridge with the large losses and 79 unsold units through to the final transactions whereby MSI transferred 5.4% of the units some time after March 31, 1988. It is important to determine just what the appellants were getting when they paid an aggregate of approximately US $37,220 for each 1% partnership interest of CH1.
+[28] Considering that the transactions were all pre-orchestrated, the appellants were buying on March 28, 1988 into a partnership which in two days would be stripped of all of its assets and be left with nothing but a promise by MSI to convey 5.4% of the Claridge units to it if, as and when it acquired them.
+[29] The appellants were getting the prospect of a large tax write‑off in respect of a loss that it was certain had already occurred plus a chance, a possibility, or a hope of getting a 5.4% interest in 79 unsold condominiums. We know what the losses were worth if they could successfully be used by the appellants — the tax value of a write-off of over $40,000,000. What was an uncertain chance of getting 5.4% of 79 unsold condominium units worth? The promotional material says that the unsold 79 units had a fair market value (“fmv”) of about US $23,000,000. Without deciding whether the figure is correct, 5.4% of $23,000,000 is $1,242,000.
+[30] The appellants were paying an aggregate of US $3,700,000. If the losses were not the principal motivation for buying into the partnership it is hard to imagine why they would pay $3,700,000 for a 5.4% interest in 79 [1] unsold units with a value of about $1,200,000. This value would have to be discounted by some indeterminate factor considering that on March 28, 1988, CA1 had only a chance of receiving the 5.4% of the units.
+[31] I shall deal briefly with certain aspects of the evidence. The first is the stated intentions of the appellants. This occupied a great deal of the time at trial.
+[32] The answers to the question why the appellants invested in the Claridge varied. Some said they relied upon their advisors such as the accounting firm of Eng, Rozon & Floor or Mr. Perkins of the law firm of Perkins, Kenney & Ballard or the accounting firm of Cooper, Millson and Foster (“CMF”). I will outline briefly the evidence of the appellants but I should preface the outline with the caveat that statements of subjective intention about the reasons for entering into a transaction are considerably less persuasive than the objective facts and circumstances surrounding the transaction. Without suggesting that there was any conscious dishonesty in a person’s statements of subjective intention, they tend to be unreliable because they are influenced by many extraneous factors. What actually happens is often a more reliable indication of a taxpayer’s purpose.
+[33] This is consistent with what was said by the Federal Court of Appeal in The Queen v. Allan McLarty, 2006 FCA 152 at paragraphs 27 and 28.
+[27] The court below suggested a novel approach to the question of whether a taxpayer has purchased seismic data for the purpose of exploration as required by paragraph 66.1(6)(a) of the Act. Because the respondent was an individual who had entered an agreement that stipulated that exploration for oil and gas would occur, the TCC indicated that it was unnecessary to look beyond the respondent’s purpose in obtaining the Data, as evinced by his testimony and his reliance on the Memorandum. In other words, objective evidence of a connection between data purchase and actual exploration work was not legally relevant in cases such as that before it. This finding of law is subject to a correctness standard of review. See e.g. Housen v. Nikolaisen, 2002 SCC 33 [“Housen”] at para. 36.
+[28] The TCC admitted that its approach to considering whether the statutory purpose test was met departed from the prior jurisprudence. In Global Communications and Petro-Canada, the courts looked at what was actually done to the land or with the seismic data. In my respectful opinion, the TCC’s departure from the prior case law was unjustified. The jurisprudence of this court does not suggest that the statutory purpose test varies with the taxpayer’s identity. Instead, it indicates that the court must always examine either what was actually done or what was planned to be done with the seismic data.
+[34] A further reason for treating statements of intention with some caution is that, as will be apparent from the outline that follows, there is no consistency in the stated intentions of the appellants in making the investment. We have here what is stated to be a partnership with an interest in a partnership that owns a condominium apartment complex. It would be anomalous if the tax consequences to the individual investor in the partnership were to vary from investor to investor depending on his or her reasons for joining the partnership.
+[35] Mr. James Duncan was involved, along with Mr. Anthony Young, in a number of corporations which are appellants – Twin Oaks, Water’s Edge and Water’s Edge II. They invested personally as well as through those corporations and Mr. Duncan’s personal corporation, Duncan Holdings. Together, through a company, Swiftsure Developments Ltd., they participated in many real estate developments. They heard of the Claridge investment through their accountant, Mr.
+Eng.
+Mr. Duncan invested before he went down to inspect the Claridge building. He stated that he and Mr. Young had wanted to get into the
+United States
+real estate market.
+[36] He did not recall being briefed about the tax advantages of the investment and stated that the potential tax effect did not influence his decision to proceed with the investment. Since Mr. Eng was promoting the scheme among his clients it is odd that the significant potential tax advantages were not forcibly brought to Mr. Duncan’s attention in such a way that he would remember them. Indeed, in the memorandum of February 25, 1988 from Mr. Eng to Mr. Duncan and Mr. Young, the following appears on the first page.
+We formally communicate to you as follows:
+1. The investment package came to us from CMF Enterprises Ltd. via Jim Hutton.
+2. CMF Enterprises Ltd. has requested Eng, Rozon +& Floor and/or Camus Management Corporation to act as “facilitator” in their search for qualified investors.
+3. We are introducing the package to you on the basis that your group is a group of qualified investors – being developers and sophisticated investors and whose main business is in the real estate development field.
+4. The investment:
+a) The product is a completed 97 suite luxury condominium located in
+Dallas ,
+Texas
+.
+b) Total investment available is approximately $4.5 million cash.
+c) The investors will participate in all future profits (operating and capital) subject to all risks and rewards associated with real estate development and investment.
+d) A side benefit of the investment is the current tax losses accruing to the investors. The total such benefits is estimated to be $38 million (from the investment of approximately $4.5 million cash).
+e) Suggested amounts for the Young/Duncan Group:
+1) Cash investment of $720,000.
+2) Tax loss allocation approximately $6 million.
+3) Ownership: Approximately 15%.
+5. Based on the above suggested investment by the Young/Duncan Group, we hereby formally advise you that we have agreed to accept a professional fee of 1% of the tax loss (approximately $60,000) from CMF Enterprises Ltd. based on completion of the transaction (instead of 2% from yourselves as previously agreed).
+[37] This material was before all of the investors. It formed part of a larger package which was contained in Exhibit R‑1 entitled “Promotional Material”.
+[38] Mr. Eden has been associated for many years with Mr. Duncan and Tony Young in real estate development. He testified that he decided to invest in the Claridge project because Mr. Eng recommended it to him. He was aware as well that Mr. Duncan and Mr. Young were investing in it.
+[39] Mr. Eden did not recall seeing the profit projections which formed part of the promotional material. Apart from the recommendation by Mr. Eng, Mr. Eden had no recollection of any details of the Claridge investment. He admitted to being aware of the tax advantage but said he was mainly interested in the investment as something on which he could make a good return. Mr. Eden invested $25,000 and claimed a write-off of $293,246 in 1988 and small amounts in 1989 and 1990.
+[40] Mr. Young, with Mr. Duncan and Mr. Eden, has been active in real estate development. It appeared from his testimony that originally the Young/Duncan group, including their various companies, originally (on March 3, 1988) invested a total of $825,000 in the project and then about a week later (March 11, 1988) they reduced their total investment to $425,000. Mr. Young invested $25,000 and claimed a tax loss in 1988 of $293,246. Water’s Edge II invested a total of $200,000 and claimed a write-off in 1988 of $2,354,724.
+[41] Mr. Young seems to have been somewhat more actively involved in considering the advisability of the investment than the others in the group. He stated that he knew of the tax advantage but his main interest was to get into the real estate market in the
+United States
+. He stated that he believed that he would still have gone ahead with the Claridge investment even without the tax advantage. He is an astute businessman. I find it hard to believe that someone of his obvious business acumen would have invested in such a questionable project without the incentive of the enormous tax advantage.
+[42] Mr. Young also described a parcel of 16 acres near
+Dallas
+owned by CH1. That parcel was bought apparently before the Claridge building was sold in 1990. It has not been developed and has been sitting idle and unoccupied for about 16 years.
+[43] Mr. Young was clear in his testimony that he was well aware of the tax losses that would be allocated to him and to the companies in which he had an interest as the result of the investment in the Claridge project.
+[44] Mr. Young seems to have relied entirely on his accountants Eng, Rozon & Floor, who were certainly aware of the enormous potential write-off of the loss incurred by CA prior to the investors’ involvement in the project, as compared to highly questionable chance of their ever making any money from a turnaround in the Dallas real estate market. When a taxpayer disavows any significant knowledge of the details of an investment and bases the decision solely on the recommendation of his or her professional advisor, the knowledge of and purpose for the investment must be found in the minds of the professional advisor and attributed to the investor. I think that as a matter of commercial reality what the Eng firm was promoting was essentially a sale of the losses that had been incurred by CA.
+[45] Mr. William Ballard is a lawyer by training but has never practised. He describes himself as an investor. He has had extensive experience in developing real estate. He also was very active in the entertainment business. His partner, Mr. Perkins, told him about the Claridge investment based on material he obtained from an accountant, Alex Makuz, who is one of the appellants in these cases. Mr. Ballard believes that he must have looked at the promotional material. He stated that he spoke to Mr. Perkins on a number of occasions and that one of the factors that influenced his decision to buy into the Claridge project was the high calibre of the people who were looking at it. Mr. Ballard did not know what cash flow calculations were made by Mr. Perkins.
+[46] Mr. Perkins’ testimony was that he saw the Claridge building and was impressed with the quality of its construction. He thought it was grossly undervalued in the depressed state of the
+Dallas
+real estate market. He recommended the investment to his clients, Mr. Ballard and Mr. Cohl. He described the transaction as “tax assisted”, a term that in the circumstances I find euphemistic. Mr. Perkins was very knowledgeable about the tax aspects of the investments. For example, he knew that one effect of buying the 16 acre parcel of land was to keep the partnership alive and avoid an income inclusion to the partners on the windup of the partnership in which they had a negative ACB. Mr. Perkins was the person upon whom a number of the investors relied for advice on both the advisability of the investment and the legal structure. Most of them seemed very uncertain or even confused about the structure of the transaction. I was hoping Mr. Perkins would shed some light on the legal structure but he was almost as vague as the investors. I have had to piece together from different sources the way I think the deal was structured. Fortunately, even if I got some of the details wrong, it does not detract from the broad outline or from the question of principle involved here.
+[47] Mr. Cohl is a producer of musical performances and has had a business association with Mr. Ballard for many years. As was the case with Mr. Ballard, Mr. Cohl was introduced to the Claridge project by Mr. Perkins and he relied on Mr. Perkins’ recommendations.
+[48] Mr. Cohl was aware of the tax advantage but saw it as a “tax delay”. At pages 96-97 of the February 6, 2006 transcript the following appears:
+Q. I take it from what you’ve told us earlier, you were aware that there was a potential tax benefit to this transaction.
+A. Tax delay.
+Q. Tax delay.
+A. It’s still my understanding that that’s really what – well, that’s my –
+HIS HONOUR: Sir, I don’t understand the term “tax delay.”
+THE APPELLANT: Ultimately, the way “Perky” always explained it to me, was you don’t have to pay the tax this year, but eventually all tax shelters collapse and you’d have to pay the tax. So you don’t have to pay it, say, in year one, but you end up having to pay it perhaps in year four or five. It’s not that you get off the tax forever. That was never my understanding. Whether that’s right or not, that was my understanding, so that it was kind of a – like I said, it’s a tax delay more than a not have to pay it.
+Q. And that was your understanding as you went into this deal.
+A. That’s still my understanding.
+Q. Okay.
+HIS HONOUR: You mean like films.
+THE APPELLANT: Yeah, absolutely.
+[49] Mr. Cohl’s understanding is probably correct if one is dealing with capital cost allowance (“cca”) on films. If the film is sold at a profit there may be a recapture of cca. However, if you claim losses there is no recapture. The one possible exception to this is where the loss is the result of an inventory write down and the inventory recovers its value and is sold. I doubt this is what Mr. Cohl was thinking about. Mr. Cohl saw it as a high risk investment but reasoned that all his business ventures concerning films are high risk. He seems to have gone into the deal blindly and solely on Mr. Perkins’ advice. He seemed ready and able to roll the dice for $150,000 and that is exactly what he did.
+[50] Mr. Peter Pesce is the president of a family owned coffee company. He was introduced to the Claridge investment by CMF, chartered accountants, whose partners were also the shareholders of CMF Enterprises, which had acquired the option on the partnership’s interests in CH1 which they were selling as part of their promotion of the Claridge investment.
+[51] Mr. Pesce invested in the project because of his confidence in CMF and because of the reputation of some of the other investors such as Ballard and Cohl. He stated that he did not have any recollection of the tax advantage of the Claridge investment and that he was not thinking of it when he was selling his coffee company. I must say I find it passing strange that a person who is selling a company for several million dollars with substantial tax to pay as a result would have no recollection of the fact that an investment of $150,000 would yield a tax write-off of about $1,250,000.
+[52] Mr. Marco is an engineer by training. He has had extensive experience in real estate development throughout the world. His practice was to find a real estate project, develop it and bring other investors in. His accountants were CMF. He described generally the real estate market in the 1980s. He did not do separate calculations because he relied upon CMF, his accountants and John Campbell of Miller Thomson, his counsel. He was aware of the tax loss but stated that he was looking at the value of the building. He thought they were getting a building worth $23 million.
+[53] He stated that he did not do any mathematical calculations. If he had he would have found that the appellants were paying about $3,700,000 for a chance of getting a 5.4% interest in 79 unsold apartments. Assuming the $23 million value to be correct, what they were paying for was a chance of getting something with a problematical value no greater than $1,200,000 plus a tax write-off of over $40,000,000. It is true he did refer to some interesting figures such as $700,000 per unit, which he thought might be sold in two years or so. Like Mr. Cohl, he stated that he saw the loss as something that would be recovered.
+[54] I question the correctness of this understanding where, as here, we are dealing with a loss that does not arise from a claim for cca. Nonetheless, in a rather vague sort of way that seems to be the way he saw it, despite the fact that none of the material stated that there would be recapture. The very comprehensive opinion of the
+Toronto
+firm of solicitors, Miller Thomson, Sedgwick, Lewis and Healy which was given to CMF Enterprises Ltd. on March 30, 1988, and which was available to the investors does not mention that they would recapture in the sense in which it seems Mr. Cohl and Mr. Marco understood the term.
+[55] Mr. Marco identified a letter dated April 4, 1988, sent to the investors by CMF Enterprises Ltd. reporting on the closing (Exhibit A‑5). I am reproducing it in full because it summarizes fairly succinctly the situation immediately following March 31, 1988:
+Dear Claridge Holdings No. 1 Partners:
+We are pleased to report on the closing of our real estate investment in the Claridge. Pre-closing proceedings commenced at approximately 8:30 am on Wednesday March 30, and final documents were signed, executed and completed by 9:00 pm on Thursday March 31. A complete report and copies of the closing documentation will be delivered to you at a later date.
+Generally, the closing went well and according to the pre-determined agenda. As of the date of our investment, the Strauss Group had still not finalized the second mortgage arrangements for the Claridge but was working closely with its principle lending candidate towards obtaining a commitment. The prospects look promising. Based on verbal discussions with Wasco in
+New York
+, the Strauss Group believes that Wasco will either grant a formal extension of the foreclosure proceedings or work with the Strauss Group on an informal basis until the financing has been arranged. This is as we anticipated. The Strauss Group did have a complete financing package committed in September of 1987 to re-structure the project, but did not proceed at the request of Wasco. We therefore expected that Wasco would be lenient in its approach to the potential foreclosure this time around if the Strauss Group was experiencing delays in obtaining the necessary commitment.
+On a more positive front, the Strauss Group has five condominiums under contract of sale over the next few months, with one unit selling for $600,000 cash scheduled for closing within the next two weeks.
+As you are aware, in the event that satisfactory financing cannot be obtained for the Claridge, and in the event that Wasco does follow through with foreclosure, the Strauss Group must transfer to us a net profits interest in a partnership which owns a four story commercial building known as the
+Equitable
+Bank
+Building
+. At the closing, and in order to provide further incentive to finalize the financing on the Claridge, we negotiated that $250,000 be immediately placed into an escrow account by the Strauss Group with Johnson & Swanson for up to six months. In the event of foreclosure by Wasco, and in the event that financing is obtained any time subsequent to that and Claridge Holdings No. 2 or an affiliate of the Strauss Group re-acquires the Claridge, then we will acquire our 5.4% direct interest and the funds will be released back to the Strauss Group. In the event that financing is not obtained, then the funds will be released to us.
+We feel that these conditions, which were negotiated at the closing, will extend the time window available to re-acquire the Claridge as well as increase our protection against another Strauss entity other than Claridge Holdings No. 2 re-acquiring the property and not being obligated to give us the 5.4% interest. In summary, we feel that we have strengthened our position vis a vis obtaining the property interest in any eventuality. However, we would like to mention that the entire closing was very amicable and the Strauss Group has indicated that they are looking forward to working together with us as partners in the Claridge.
+We will be providing all partners with complete financial statements for the fiscal year ending March 31, 1988 for Claridge Holdings No. 1. These statements and copies of the closing documentation and legal reporting letters will be available in due course.
+Should you have any questions in the interim, please do not hesitate to call.
+Yours truly,
+CMF ENTERPRISES LTD.
+J.D. Millson
+[56] This letter demonstrates in my view the true economic reality of the situation. The 5.4% profit interest that CH1 had indirectly in the building was far from guaranteed. It was contingent upon financing arrangements being completed. Even if the acquisition of the 5.4% interest in the building were certain, the value was less than the amount paid. A fmv of $23 million was mentioned in the promotional material. 5.4% of that is about $1,200,000 – substantially less than the aggregate paid by the investors. Even if we were to accept that a couple of apartments were being sold for $600,000 each, as Mr. Marco stated, this would still work out to only $47,400,000 if all 79 units were sold at that figure. 5.4% would be $2,559,600. The aggregate amount paid by the investors was about $3,700,000. In fact the building was sold in 1990. Mr. Marco stated that as minority partners (5.4%) they had no say in the decision to sell. The investors realized nothing from the sale in 1990.
+[57] Mr. Marco was cross-examined at some length by Ms. Lee on the projections in Exhibit R‑1, Tab 3. It seemed fairly obvious that Mr. Marco had not given a great deal of thought to the projections. Regardless of these projections the best case scenario would be that CH1 ended up with 5.4% of the profits from the sale of 79 units (or 74 or 75 depending on who was doing the counting). The fmv was said to be $23,000,000 but even if one takes the units as being instantly saleable at $700,000 each, (a wildly unrealistic hypothesis) for a total of about $47,400,000, 5.4% of that total is $2,986,200 and from that there must be deducted the expenses and carrying costs. One might well ask, what rational business person would pay $3,700,000 for a chance to realize a gross return of at best about $2,900,000, less expenses? The answer is obvious − only if that rational businessman was getting in addition a tax write‑off of $40,000,000.
+[58] Mr. Marco paid a total of $150,000 and claimed in 1988 a non-capital loss of $1,716,342, some of which would be available to be carried back to earlier years and forwards to later years. The most optimistic projection would yield him gross income of about $70,000, for a loss of $80,000 ($150,000 minus $70,000) according to questions I put to him at the end of his testimony. Another erroneous notion that came out of those questions was the idea that he would get his $150,000 back as capital after earning the profit of $70,000. That amount disappeared into the project and, try as I will, I cannot make it reappear.
+[59] The projections are all over the lot and the ideas of recapture of loss and return of capital are erroneous. In most cases these considerations would be significant but here they are not because obviously the predominant feature of the investment was the tax benefit.
+[60] The next witness was Edward Bobot, a chartered accountant. From 1985 to 1989 or 1990, he was a partner in the accounting firm CMF. He became involved in the CH1 investment in reliance on Jim Millson. He seems to have done a minimal amount of independent investigation. He had no recollection of any of the documents that were put before the investors, or signed by them. Apart from being influenced by the fact that other members of CMF were investing in CH1 he was also impressed by the fact that one of CMF’s partners, Mr. Marco was also investing. The predominant reason for Mr. Bobot’s investing seems to have been that as a junior member of the firm he was subjected to a certain amount of pressure by the other partners to join. His investment in CH1 was through another partnership, CMF Investments of which the other partners of CMF were partners. CMC Investments had a 5.41% interest in CH1. He claimed a loss of $260,463 in 1988 in respect of his interest in CH1. His knowledge of the investment was very limited. He invested because the other partners in CMF were doing so and his contribution was made by amounts taken from his draws as a partner.
+[61] The evidence of James Molyneux, also a junior partner of CMF, with respect to the circumstances of his investment in CH1 and his reasons for doing so did not differ in any significant degree from that of Edward Bobot. His knowledge of the Claridge transaction was equally limited.
+[62] Alex Makuz was another relatively junior partner in CMF and he also invested in CH1 through CMF Enterprises. Although he was the tax manager of CMF at the time of the investment in CH1, he did not handle the tax aspects of the Claridge project. I raised with Mr. Makuz a number of questions about the accounting presentation in the CA and CH1 financial statements. I emerged from the discussion (pages 374 to 382 of the transcript of the February 7, 2006 proceedings) neither wiser nor better informed than before. The bottom line, however, was that $43,018,740 (Cdn) was the loss of CA allocated to CH1 and ultimately to the investors in CH1. Although I have difficulty in reconciling this figure with some of the other figures in the financial statements, I shall treat the amount of loss allocated in 1989 to CH1 as the amount that is in issue in this appeal. The figure is not challenged by the Crown. I find it, however, surprising that of the three chartered accountants who were members of the accounting firm whose responsibility it was to prepare financial statements for CA and CH1, none were able to reconcile or explain the rather striking discrepancies in the statements. Mr. Millson, who presumably was more familiar with the project than anyone else, had left the firm and was not called. Mr. Millson, has since declared bankruptcy. It is fortunate that this case does not turn on the accounting evidence or on my understanding, the accounting entries.
+[63] It appears as well that there were losses recorded in CA in 1989 and 1990 and 5.4% of these losses were allocated to CH1 (or more accurately, 99% of 5.4%). Part of the loss may be attributable to the loss that was sustained when the remainder of the unsold units were disposed of in bulk in 1990.
+[64] The Crown’s only witness was Andrew J. McRoberts, an expert valuator from
+Dallas ,
+Texas
+. He expressed an opinion on the value of the Claridge. He was asked two questions:
+Was there any value as a real estate investment to the 5.4% “back end interest” in the unsold Claridge units apparently acquired by the Canadian purchasers? Note: this may require an assessment of the sales projections which we understand were prepared by the vendor at the time.
+Was there any value as a real estate investment in the two-year option acquired on March 31, 1988 to purchase the 94.6% interest in the unsold units for $40 million?
+[65] Mr. McRoberts concluded that the projections stated in Tab 3 of Exhibit R1 were unrealistic. The premises upon which Mr. McRoberts’ opinion was based were the following:
+The investment involved the purchase of 100% ownership in Claridge Holdings No. 1. Claridge Holdings No. 1 owned 99.0% of Claridge Associates. At or about the time the investment was made, Claridge Associates was expecting to acquire a 5.4% undivided interest in the real estate. In the end, the Investors acquired an undivided 5.346% (99.0% X 5.4%) interest in the 79 unsold condominium units. The 1% interest in Claridge Associates reportedly remained under Strauss related / controlled ownership during the duration of the Investment.
+The purchase price for the 5.346% undivided interest and the option to purchase the balance of the units from MSI was $99.00 plus a capital contribution of $1,342,000 which ultimately flowed to Claridge Holding No. 2 – a Strauss related entity. However, the Investors paid an additional $1,800,000 (Canadian) to CMF (Promoter of Investment) for assignment of CMF’s option to purchase Claridge Holdings No. 1. Assuming a currency conversion rate in March 1998 [1988] of $1.00 Canadian to $0.70 US, then the Investors paid [($1,800,000 X 70%) = $1,342,000] $2,602,099[US] rounded to $2,600,000 for the Investment. The two year option to acquire the other 94.6% undivided interest was exercisable at a price of $40,000,000 US.
+[66] His analysis took the form of four scenarios in which the variables were:
+(a) a 4.5% annual price increase; and
+(b) the assumption that there would be no payment of a $1,800,000 fee to CMF.
+The results are the following:
+Eric Noble
+December 5, 2005
+Page 9 of 11
+Analysis of Cash Flow Model 1 – Scenario 1
+4.5 Percent Annual Price Increase – Without CMF Fee
+Analysis of Cash Flow Model 1 – Scenario 2
+4.5 Percent Annual Price Increase – With CMF Fee
+Investor Purchase Price $1,342,000
+Investor Purchase Price $2,600,000
+Net Cash Flow $36,755,186
+Less: Payment to Wasco 3,000,000
+Less: Payoff of Second Mortgage 10,000,000
+(excludes interest)
+Net Proceeds from Real Estate $23,755,186
+Net Cash Flow $36,755,186
+Less: Payment to Wasco 3,000,000
+Less: Payoff of Second Mortgage 10,000,000
+(excludes interest)
+Net Proceeds from Real Estate $23,755,186
+Claridge Holdings No. 1 – Ownership Position 5.346%
+Net Proceeds to Claridge Holdings No. 1 $1,269,952
+Internal Rate of Return -1.370%
+Claridge Holdings No. 1 – Ownership Position 5.346%
+Net Proceeds to Claridge Holdings No.1 $1,269,952
+Internal Rate of Return -16.401%
+Analysis of Cash Flow Model 2 – Scenario 1
+9.0 Percent Annual Price Increase – Without CMF Fee
+Analysis of Cash Flow Model 2 – Scenario 2
+9.0 Percent Annual Price Increase – With CMF Fee
+Investor Purchase Price $1,342,000
+Investor Purchase Price $2,600,000
+Net Cash Flow $41,783,262
+Less:Payment to Wasco 3,000,000
+Less: Payoff of Second Mortgage 10,000,000
+(excludes interest)
+Net Proceeds from Real Estate $28,783,262
+Net Cash Flow $41,783,262
+Less: Payment to Wasco 3,000,000
+Less: Payoff of Second Mortgage 10,000,000
+(excludes interest)
+Net Proceeds from Real Estate $28,783,262
+Claridge Holdings No. 1 – Ownership Position 5.346%
+Net Proceeds to Claridge Holdings No. 1 $1,538,753
+Internal Rate of Return 3.479%
+Claridge Holdings No. 1 – Ownership Position 5.346%
+Net Proceeds to Claridge Holdings No. 1 $1,538,753
+Internal Rate of Return -12.290%
+[67] It will be obvious that the only way one can arrive at a positive rate of return is if two hypotheses are used:
+(a) no payment of $1,800,000 (Cdn) to CMF;
+(b) an annual price increase of 9%.
+The first hypothesis is contrary to the facts and the second is illusory. Mr. McRoberts’ conclusion was as follows:
+The return from Cash Flow Model 2 where an equity investment of $1,342,000 is required has the highest return, reflective of the aggressive condominium unit pricing and pricing growth rate of 9% per year over the four-year sellout. Nonetheless, the return of 3.5% is minuscule when compared to investment risk. Typically an investment with this level of risk (market risk and control) would warrant a return of at least 20%, if not higher.
+[68] The final result is a negative value. This is consistent with my own calculations set out above. Mr. McRoberts’ conclusion is that neither the 5.4% interest in the condominiums nor the option had any market value. I accept his conclusion. What is the significance of this? After all, businessmen are entitled to make errors in judgement and if, in hindsight, they do make an error, it is not the court’s place to second‑guess that judgement or to say that the error in judgement deprives the investment of any vestige of commerciality. We are dealing here, however, with highly sophisticated and experienced businessmen and professionals. It may be reasonably concluded where such people invest in — or recommend investing in — a project that is so commercially questionable one must look to their real purpose and it is certainly not the investment value of the property.
+[69] A number of considerations stand out in this case:
+(a) With the exception of the junior partners in CMF, the majority of the individual investors who put money into the Claridge project either personally or through their corporation were successful and commercially sophisticated businessmen with a great deal of experience in real estate development.
+(b) They admitted to very little knowledge of the project but stated that they relied upon advisors such as Mr. Millson or Mr.
+Eng.
+(c) All of the investors professed only a passing knowledge of the tax advantage of the losses and stated that they were investing because of the potential profits to be made. The potential write‑off of huge losses that are many multiples of the amount invested was like the proverbial elephant in the living room, which no one wants to talk about or acknowledge.
+(d) Whether CH1 can be described as a partnership, CA is unquestionably a partnership. CH owned a building with a number of unsold condominium units. CA’s purpose was to sell those units at a profit. The authenticity and legality of CA as a partnership within the accepted definition of that expression as a “relationship that subsists between persons carrying on business in common with a view to profit” is unquestioned and unquestionable.
+(e) There was uncertainty with respect to the number of unsold units. The numbers varied from 73 to 80.
+(f) None of the investors had any clear idea how the deal worked. They all relied on someone else. Mr. Perkins, who was supposed to have put the deal together, was as vague as anyone else.
+(g) By far the greatest part of the loss was not an actual cash loss resulting from a sale. It was an accounting loss created by a write down of inventory. Nothing turns on this. It is not really questioned that CA sustained a very substantial loss in its December 31, 1987 fiscal year end.
+[70] I have no difficulty in concluding that the real purpose of the investment by the appellants was to gain access to the losses that that had been sustained in CA and not to earn income from the sale of condominiums. Most of the investors testified and I summarized their testimony in case my findings of fact on this point are considered relevant if there is an appeal. I base my conclusion less on my acceptance or rejection of the individual investors’ testimony about their subjective intentions — some put their case, I suppose, more persuasively than others — as on the objective facts revealed by the numbers and a comparison of the enormous tax advantage that utilizing the losses would yield with the illusory prospect of profit. I have to assume that the individual appellants are rational intelligent businessmen. Indeed, it is more than an assumption. They obviously were rational and intelligent and so it makes it easier for me to posit an hypothesis about what the purpose of such persons would be in investing substantial amounts in so commercially shaky a project. I think the real purpose was to gain access to the losses of CA that had accrued prior to the appellants’ buying into CH1.
+[71] In Witkin v. The Queen, 98 DTC 1933, the facts were the same as in these cases and they were substantially set out in an agreed statement of facts that was filed at trial. Beaubier J. reached essentially the same findings of fact as I did. At paragraphs 20, 21 and 22 of his reasons he said:
+20. In a letter dated December 31, 1987, Claridge Associates agreed to provide to Claridge No. 2 a non-recourse guarantee of Claridge Associates, secured only by the partnership interest in Claridge Associates, to fund the amount by which $23,000,000 exceeds the sale price or disposition value of unsold units of The Claridge if such property was sold or otherwise disposed of voluntarily or involuntarily by Claridge Associates to a bona fide third party. A copy of the said undertaking is found at Tab 10 of the Appellants' Book of Documents.
+21. Financial statements of Claridge Associates for its fiscal year ending December 31, 1987 prepared by Lane Gorman Trubitt & Co., Certified Public Accountants, indicated a "net loss" of $34,341,022. The net loss was made up of an "operating loss" of $2,722,084, a "loss on sale of property" of $648,526, a "provision for loss on project costs" of $24,691,251, "interest expense" of $6,646,942 and miscellaneous income of $367,811. A copy of the said financial statements is found at Tab 13 of the Appellants' Book of Documents.
+22. Cooper, Millson & Foster, Chartered Accountants prepared financial statements of the Claridge Associates in Canadian dollars for the fiscal year ended December 31, 1987 which statement showed a loss of $45,330,148. A copy of the financial statements is found at Tab 14 of the Appellants' Book of Documents.
+[72] He dismissed the appeal on the basis of the now disfavoured REOP. On appeal to the Federal Court of Appeal his decision was upheld but on different grounds. At paragraph 6 to 15, Rothstein J.A. said:
+[6] The learned Tax Court Judge approached the question on the basis of whether the appellant had a reasonable expectation of profit. He found the appellant did not and dismissed the appellant's appeal.
+[7] The decision of Beaubier T.C.C.J. was released on May 19th, 1998, prior to the decisions of the Supreme Court of Canada in Continental Bank Leasing Corp. v. Canada, [1998] 2 S.C.R. 298, Spire Freezers Ltd. v. Canada, [2001] 1 S.C.R. 391 and Backman v. Canada, [2001] 1 S.C.R. 367. As a result of this recent jurisprudence, it is now well established that the threshold question in cases such as this is whether the appellant was a partner in a partnership according to the definition of partnership that exists under the relevant provincial law, even in respect of foreign partnerships (see Backman, supra paragraph 17).
+[8] In Continental Bank, supra, at paragraph 22, the three essential ingredients of partnership were described:
+Section 2 of the [
+Ontario
+] Partnerships Act defines partnership as "the relation that subsists between persons carrying on a business in common with a view to profit". This wording, which is common to the majority of partnership statutes in the common law world, discloses three essential ingredients: 1) a business, 2) carried on in common, 3) with a view to profit.
+[9] As the Tax Court decision in this case was issued before the Supreme Court decisions in Continental Bank, Spire Freezers and Backman, supra, through no fault of his own, the learned Tax Court Judge erred in law in applying the wrong test - that is, the "reasonable expectation of profit" test and not the "carrying on a business in common with a view to profit" test to determine whether the appellant was a partner in a partnership. Counsel before this Court agreed that the "reasonable expectation of profit" test is a more difficult test to meet than the "carrying on a business in common with a view to profit" test.
+[10] A finding of whether the facts are such as to satisfy a legal test (in this case, the test for partnership), is a finding of mixed fact and law. See Housen v. Nikolaisen, 2002 S.C.C. 33 at paragraphs 26 and 27. Once an error of law has been extricated from the conclusion of mixed fact and law, the Appeal Court, on the basis of the facts found by the Trial Judge that are untainted by the error of law (unless a palpable and overriding error in those facts is demonstrated), must reach its own conclusion applying the correct legal test (see Housen, supra, at paragraphs 27 and 35).
+[11] The relevant untainted findings of fact by the Tax Court Judge were the following:
+1. The appellant was a sophisticated investor and businessman.
+2. It was not reasonable that the appellant chose not to use or review projections given to him if his purpose was to obtain a profit.
+3. Based on the evidence the appellant's plan was that the operation of The Claridge would be carried on in the same losing manner as before.
+4. Even on the optimistic projections provided to the appellant, for practical purposes, there was only a mere possibility of a return of capital and that possibility was remote.
+5. There was no evidence that the appellant had information to calculate a return based on the alternative of recovering $250,000 plus participation in the "Equitable Joint Venture".
+6. The appellant would not reap any benefit from the $40,000,000 option even it was exercised.
+7. On the evidence, the appellant bought a tax loss and intended to do so.
+[12] The appellant lays great stress on the fact that the proper partnership documents were in place and that the Court should have regard to them. In cases such as this, it is certainly correct that valid partnership documents must be in place for there to be a partnership. But that is not the end of the inquiry. The Court must also enquire into whether objective documentary evidence and the surrounding facts, including what the parties actually did, are consistent with a subjective intention to carry on business in common with a view to profit (see Backman, supra, at paragraph 25). Therefore, valid partnership documents and stated intentions of the parties to carry on business in common with a view to profit are not sufficient. Other objective evidence may be relevant and that is the case here.
+[13] According to the findings of fact of the learned Tax Court Judge, the appellant is a sophisticated investor, yet he did not rely on or consider the projections provided to him. There was no plan to make The Claridge profitable. There was only a remote possibility of return of capital, let alone a return on capital or profit. There was no evidence of information necessary to calculate a return on the $250,000, Equitable Joint Venture alternative and the exercise of the $40,000,000 option would not be of benefit to the appellant.
+[14] While the appellant challenges the weighing of evidence and the assessment of facts found by the Trial Judge he has not demonstrated any palpable or overriding error in respect of the Judge's findings of facts.
+[15] While a primary motivation of a taxpayer, in entering a purported partnership, may be to secure a tax loss, there must at least be an ancillary intention to carry on business in common with a view to profit for the test for partnership to be met. (See Continental Bank, supra, at paragraph 43.) In this case, the only evidence accepted by the Tax Court Judge was that the appellant was intending to, and did, purchase a tax loss. Applying the correct, low threshold, test for partnership to the facts as found by the Trial Judge, it is apparent that the appellant was not carrying on business in common with a view to profit in respect of his participation in Claridge Holdings No. 1. Therefore, he was not a partner in a partnership, he was not entitled to avail himself of the partnership rules in section 96 of the Income Tax Act, and he could not use the losses originating with The Claridge as deductions for purposes of his Canadian income tax liability in the relevant years.
+[73] I am bound by this result and the reasoning and principle that support it and that is sufficient to justify dismissing the appeals. The principle upon which the Witkin decision is based as well as the decision of the Supreme Court of Canada in Backman v. The Queen, 2001 DTC 5149, is that the deductibility of the loss incurred by the partnership that owns the business (in this case CA) depends upon whether the vehicle (in this case CH1) that invests in that partnership meets the test of partnership (“carrying on business in common with a view to profit”). In essence, the Supreme Court of Canada in Backman and the Federal Court of Appeal in Witkin held that the taxpayer invested in a partnership with a loss through the vehicle of another structure that had the appearance of possessing the legal attributes of a partnership but lacked the essential ingredients of carrying on business in common with a view to profit. Therefore, they were not entitled to deduct the loss because of the vehicle through which they invested in the partnership with the loss. That rationale focusses on the vehicle (CH1) that did the investing in CA rather than what they invested in (CA).
+CA was undoubtedly a partnership; it did not lose that character because it had losses. It existed to make a profit but it fell on hard times. That, however, did not make CA cease to be a partnership with a business.
+[74] Without the benefit of the decisions of the Federal Court of Appeal in Witkin and the Supreme Court of Canada in Backman, I might have approached the issue somewhat differently by asking the question “Did the investment have any genuine commercial animus apart from utilizing the losses?” If it had none, as is the case here, I would have dismissed the appeal regardless of the vehicle used to make the investment. Here the creation of CH1 had as its purpose the extension of the time to March 31, 1988 in which the investors could gain access to the loss. CH1 invested in CA before the end of its 1987 taxation year. Then, after the end of CA’s 1987 taxation year the appellants bought into CH1. The rationale underlying the Witkin decision is that the loss of CA cannot flow through CH1 to the investors because of their purpose in investing in CH1. I am not sure what the result would have been if the investors, instead of investing in CH1, had invested directly in CA before the end of CA’s 1987 fiscal period. It is not legally accurate to say that one is “buying losses”. You cannot legally buy a loss, but you can buy your way into a position in which you hope to avail yourself of someone else’s loss and that is just what the appellants were doing. I know of no provision of the Income Tax Act that permits one to claim a loss when one’s only purpose in investing is, as a matter of commercial reality, to use someone else’s loss.
+[75] I am dismissing the appeals on the basis of the reasoning of the Federal Court of Appeal in Witkin. Moreover I am of the view that one cannot avail oneself of losses that one has “purchased” in a transaction that has no credible genuine commercial motivation other than the utilization of losses that accrued when the partnership was composed of different persons.
+[76] The appeals are dismissed. The disposition of costs is a little more complicated than usual, in light of the large number of parties and the fact the cases were heard in two locations. I would ask that the parties communicate with the Court within two weeks of the issuance of these reasons to arrange for representations on the matter of costs, unless of course, they agree on costs.
+Signed at
+Ottawa ,
+Canada
+, this 13th day of July 2006.
+“D.G.H. Bowman”
+Bowman, C.J.
+SCHEDULE A
+AGREEMENT OF CERTAIN FACTS
+For purposes of the hearing of these appeals only, the Appellants and the Respondent agree to the following facts:
+1. The Appellants are residents of
+Canada
+.
+2. The Claridge Associates (“Associates”) was formed as a general partnership on November 20, 1979 under the laws of the state of
+Texas
+. The original partners of Associates were Belcourt Construction Company Limited, a
+Quebec company and Realty Properties Multi-Storey Inc. (“RPM”), a corporation incorporated under the laws of the State of
+Texas
+.
+3. After July 1987, and up to December 30, 1987, the partnership interests in Associates were held equally by RPM and Multi-Storey Investments Inc. (“MSI”), another corporation incorporated under the laws of the State of
+Texas
+. Both partners were controlled by Richard Strauss, a real estate developer based in
+Texas
+.
+4. The fiscal year end of Associates was December 31 up to and including December 31, 1987.
+5. By March 1985, Associates had substantially completed construction of a high rise condominium building in
+Dallas ,
+Texas
+, known as “The Claridge”.
+6. Associates financed the construction of the project with debt that was non recourse, secured by a first lien against the condominium units and property, and guaranteed by Beneficial, a
+Delaware
+corporation (“Beneficial”) and WASCO Properties Inc., a Delaware Corporation (“WASCO”).
+7. In 1985, Associated refinanced the debt and obtained additional credit under Notes held by Chase Manhattan Bank and Morgan Guaranty Trust. The Notes were non-recourse, were secured against the condominium units and property and were guaranteed by WASCO and Beneficial. The Notes originally came due in October, 1987.
+8. Under an Amended and Restated Purchase Commitment and Agreement dated as of October, 1985, (the “Purchase Commitment”) WASCO had the right to purchase the units, and Associates could require WASCO to purchase the condominium units, in certain specified circumstances, for the amount of the unpaid principal plus accrued and unpaid interest on the Notes. The original term of the Purchase Commitment extended to October 5, 1987. Associates was required to pay an annual commitment fee to WASCO plus 50% of net profits from sales of the units in excess of $1,650,000.
+9. WASCO and MSI entered into an Agreement of Sale dated November 19, 1987 (the “WASCO Sale Agreement”) under which Wasco agreed to sell and convey to MSI, the unsold units in the Claridge for a purchase price of US$23,000,000, if Wasco acquired the units under the Purchase Commitment. The closing date was March 31, 1988 unless earlier agreed to by the parties. WASCO was not obligated to sell to MSI if it received a third party offer at a price in excess of $23 million.
+10. WASCO and MSI entered into a Letter agreement dated November 19, 1987 regarding a $3,000,000 loan from WASCO, which provided that the first $3,000,000 of net proceeds from the sale of unsold units be distributed to WASCO, and thereafter, 40% of net proceeds be distributed to WASCO.
+11. The maturity date of the Notes was extended to January 15, 1988.
+12. The term of the Purchase Commitment was extended to March 31, 1988.
+13. By December 31, 1987, the indebtedness of Associates under the Notes amounted to $82,500,000.
+14. On December 31, 1987, Strauss Investment Realty Corp. and Strauss Investment Management Company (“SIRC” and “SIMC”, respectively), both of which were Strauss controlled corporations, entered into a written agreement entitled “Partnership Agreement of Claridge Holdings No. 1” which stated that Claridge Holdings No. 1 (“No. 1”) was formed as a general partnership under Texas law. The agreement stated that the fiscal year end of No. 1 would be March 31.
+15. Claridge Holdings No. 2 (“No. 2”) was a general partnership under the laws of the State of
+Texas
+. The partners of No. 2 as at December 31, 1987, were RPM, MSI and Strauss Investment Construction (“SICC”), another Strauss controlled entity.
+16. On December 31, 1987, under an “Assignment of Partnership Interest” No. 1 was stated as acquiring a 99% interest in Associates by acquiring a 49.5% interest from each of MSI and RPM.
+17. On December 31, 1987, Associates transferred to No. 2 an undivided 85% beneficial ownership in the unsold units in the Claridge.
+18. No. 2 agreed to assume and pay $23,000,000.00 of the indebtedness under the Notes and to assume an 85% share of all other indebtedness or obligations.
+19. In a letter dated December 31, 1987, Associates agreed to guarantee to No. 2 on a non-recourse basis, secured only by the partnership interest in Associates, the amount by which $23,000,000 exceeds the sale price or disposition value of the 85% interest in the unsold units.
+20. The U.S. financial statements of Associates for the year ending December 31, 1987 reflected a “net loss” of $34,341,022, made up of an “operating loss” of $2,722,084, a “loss on sale of property” of $648,526, a “provision for loss on project costs” of $24,691,251, “interest expense” of $6,646,942 and miscellaneous income of $367,811.
+21. The Canadian accounting firm of Cooper, Millson & Foster, prepared financial statements of the Claridge Associates in Canadian dollars for the fiscal year ended December 31, 1987 which statement showed a loss of $45,330,148.
+22. On or about January 15, 1988, Wasco acquired the indebtedness of Associates under the Notes owed to Chase Manhattan and Morgan Guaranty.
+23. In a letter agreement dated March 7, 1988, and accepted on March 24, 1988, CMF Enterprises Limited was granted an option by SIMC and SIRC to purchase 99% of the interests in No. 1.
+24. Under agreements dated March 28, 1988, CMF Enterprises assigned the option to Canadian purchasers. The aggregate amount of the option prices was Cdn $3,428,000.
+25. Each purchaser signed a Notice of Exercise Option dated March 28, 1988.
+26. On March 30, 1988, MSI contributed a Promissory Note to Associates in the amount of approx. US$64 million.
+27. On March 31, 1988, the closing of the purchase of the 99% interest in No. 1 took place.
+28. On March 31, 1988:
+(a) Associates transferred the remaining 15% interest in the Units to No. 2, plus US$1,342,000, plus the US$64,000,000 Promissory Note contributed to Associates by MSI,
+(b) No. 2 agreed to assume all liability for indebtedness under the Notes, and released Associates from its guarantee of December 31, 1987,
+(c) the Canadian purchasers paid US$99, made a capital contribution to No. 1 of US$1,342,000, and acquired 99% of the interests in No. 1, and
+(d) Associates, MSI, No. 2 and Strauss entered into the Carried Interest Agreement.
+29. The Carried Interest Agreement provided, inter alia, that after acquiring the Units under the WASCO Sale Agreement or otherwise, MSI would transfer to Associates a 5.4% beneficial interest as described in that agreement.
+30. On March 31, 1988, Strauss had not obtained financing sufficient to purchase the Units from WASCO for $23 million.
+31. On September 9, 1988, MSI transferred the 5.4% interest to Associates.
+32. The accounting firm of Cooper, Millson and Foster prepared consolidated financial statements for No. 1 which reflected a four month fiscal year, ending March 31, 1988. The statements included a T2 S(1) which showed a tax loss of $43,768,104, described as “Share of Claridge Associates loss per financial statements”.
+33. A contract of sale was entered into by MSI and Winton Equities Inc. on February 2, 1990 for the sale of all of the remaining unsold units in the Claridge for a purchase price of $18,248,806.97 US. The sale was completed on March 22, 1990.
+DATED at the City of
+Toronto , in the
+Province of
+Ontario
+, this 6th day of February, 2006.
+____(Signed by S.P. Lee)_______
+Counsel for Respondent
+DATED at the City of
+Toronto , in the
+Province of
+Ontario
+, this 6th day of February, 2006.
+(Signed by George G.H. Cadman)
+Counsel for Appellants
+SCHEDULE B
+[1] The numbers vary from 75 to 79.

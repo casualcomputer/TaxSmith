@@ -1,0 +1,137 @@
+Title: Rio Tinto Alcan Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/229931/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-258-229931-rio-tinto-alcan-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-11-10
+
+# Rio Tinto Alcan Inc. v. The Queen
+
+- Citation: 2016 TCC 258
+- Decision date: 2016-11-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2299, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rio Tinto Alcan Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-11-10
+Neutral citation
+2016 TCC 258
+File numbers
+2012-4808(IT)G, 2013-3028(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-3028(IT)G
+2012-4808(IT)G
+BETWEEN:
+RIO TINTO ALCAN INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+The Honourable Justice Robert J. Hogan
+ORDER
+Upon receiving written submissions on the subject of costs in this matter, I award the Appellant a lump sum amount of $511,358.16, plus disbursements of $42,553.54 in respect of both appeals.
+Signed at Ottawa, Canada, this 10th day of November 2016.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2016 TCC 258
+Date: 20161110
+Docket: 2013-3028(IT)G
+2012-4808(IT)G
+BETWEEN:
+RIO TINTO ALCAN INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER ON COSTS
+Hogan J.
+I. INTRODUCTION [1] This matter concerns an award of costs in respect of appeal number 2013‑3028(IT)G (henceforth referred to as the “Pechiney matter”) and appeal number 2012‑4808(IT)G (henceforth referred to as the “Novelis matter”). In these matters, reasons were given in a combined judgment allowing the Appellant’s appeals in part. I gave the parties until September 8, 2016 to agree on costs. The parties have been unable to reach an agreement and their written submissions have been reviewed by me.
+[2] The Appellant requests a lump sum costs award in the amount of $518,112.76 in respect of the Pechiney matter and $419,377.20 in respect of the Novelis matter. In both cases, this represents 55% of the solicitor‑client costs incurred by the Appellant. The Appellant also seeks an amount of $42,553.54 as a reimbursement of disbursements it incurred in respect of both matters. The Appellant observes that its request falls below the halfway mark in the range of 50% to 75% that this Court has often applied in granting partial indemnity costs to appellants that have been mostly successful in appeals.
+[3] In an attempt to agree on costs, the Respondent offered to pay $13,100. The Respondent’s offer was based on Tariff B of Schedule II of the Tax Court of Canada Rules (General Procedure) (the “Rules”) The Appellant rejected this offer because it represents only a small fraction of the Appellant’s solicitor-client costs in both matters.
+II. ANALYSIS [4] The parties agree that it is well established that the Court enjoys broad discretionary power in awarding costs. This discretion, however, must be exercised on a principled basis, giving proper weight to the factors listed in section 147 of the Rules and such other factors as produce a just result. Rossiter A.C.J., as he was then, succinctly summarized the approach adopted by this Court with regard to costs as follows in Velcro Canada Inc. v. The Queen, 2012 TCC 273:
+[8] The Tariff annexed to the Rules is a reference point only should the Court wish to rely upon it. It is interesting to note that the first of two references to the Tariff in Rule 147 is subsection 147(4) which in and of itself gives extremely broad authority to the Court in the awarding of costs.
+[9] Notwithstanding former Chief Justice Bowman’s comments in Continental Bank, supra at paragraph [9], it is my view that:
+1. The Tariff was never intended to compensate a litigant fully for legal expenses incurred in an appeal;
+2. The Tariff was also never intended to be so paltry as to be insignificant and play a trivial role for litigants in dealing with their litigation. The Court’s discretionary power is always available to fix amounts as appropriate;
+3. Costs should be awarded by the Court in its sole and absolute discretion after considering the factors of subsection 147(3);
+4. The discretion of the Court must be exercised on a principled basis;
+5. The factors in Rule 147(3) are the key considerations in the Court’s determination of costs awards as well as the quantum and in determining if the Court should move away from the Tariff;
+6. In the normal course the Court should apply the factors of Rule 147(3) on a principled basis, with submissions from the parties as to costs, and only reference the Tariff at its discretion; and
+7. The manner that the Tariff is referenced in Rule 147 indicates the insignificance of the Tariff in costs considerations.
+I will now apply the factors enumerated in subsection 147(3) of the Rules to the matters at hand.
+A. RESULT OF THE PROCEEDINGS [5] As regards the Pechiney matter, the Respondent argues that it was more successful from a monetary standpoint than the Appellant because the result of my decision is that the Appellant can deduct 48.35% of the amount claimed as a current expense in its appeal. However, this percentage was calculated on total deductible expenses in the Pechiney matter of $37,415,984. The total deductible expenses were misstated in my initial reasons for judgment, which have been amended. The deductible expenses now amount to $39,757,937. As a result of this change, the Appellant is entitled to deduct 51.38% of the amount claimed as current expenses in its appeal.
+[6] I disagree with the Respondent’s characterization of the impact of the Court’s decision on the Appellant. It is important to recall with respect to the Pechiney matter that the amount of $45,419,946 was originally deducted by the Appellant as current expenses when it filed its tax return. This entire amount was disallowed by the Respondent in the reassessment of the Appellant. In this context, the Court’s award represents 87.5% of the amount originally claimed.
+[7] The Respondent acknowledges that the Appellant was more successful than the Respondent in respect of the Novelis matter. The Court allowed as deductible expenses $14,218,477, which represents 72% of the amount of $19,759,339 claimed by the Appellant in its appeal.[1]
+[8] The parties appear to agree that there is a strong tendency in the case law to find that costs awards should not be distributed on the basis of the success achieved on each individual issue, but rather should be based on the overall result of the appeal.
+[9] I agree with the Appellant’s submission that the increase in the amount of its claim from the amount claimed in its tax returns as filed to that claimed in its notices of appeal should not be treated as a negative factor in the award of costs in both matters. In my opinion, this did not increase the scope of work for the parties. It should be noted that the Minister of National Revenue (the “Minister”) adopted a hard-line approach in both matters arguing that all of the expenses claimed by the Appellant in its tax returns were capital in nature. The Appellant’s position is significantly improved by the results of both decisions as the Respondent had fully disallowed the Appellant’s deductions claimed in its tax returns. As a result of the decision the Appellant can now deduct substantially all of the expenses that it initially claimed in its tax returns. This is a significant victory for the Appellant that militates in favour of an increased costs award.
+B. THE AMOUNT IN ISSUE [10] The Respondent argues that the amounts in issue and the amount allowed by me are not significant in the context of the transactions at issue and the Appellant’s overall business. I disagree.
+[11] The judgment allowed deductions totalling $53,976,414. This is a significant amount as the Appellant alleges that it expects to receive a refund in excess of $16,000,000. The Respondent does not dispute this allegation. If an enhanced costs award is not allowed, the Appellant would be awarded approximately $13,000 based on the Tariff after having spent over $1.7 million to obtain a tax refund of approximately $16,000,000 in respect of taxes that the Minister was not entitled to collect under the law.
+[12] The Respondent’s proposal means that taxpayers would be expected to pay significant legal costs notwithstanding the fact that they are successful or mostly successful in their appeals. This appears unjust to me. In short, taxpayers could be pressured into paying some of the amount that has been improperly assessed in lieu of paying significant legal fees that would not be reimbursed under the Tariff.
+[13] As noted by my colleagues Campbell J.[2] and Rip J.[3], in complex matters the Court can take into account the party’s actual fees, having regard to the fact that complex issues generally signify that the facts are more complicated and that documents that need to be reviewed and presented in evidence are lengthy, which results in lengthy examination for discovery and preparation for trial. Counsel must also work hard at distilling complex facts in such a way as to facilitate the Court’s appreciation of the matter.
+C. THE IMPORTANCE OF THE ISSUE [14] With regards to the importance of the issues in these appeals, the Respondent qualifies as being largely fact-specific and not unique. The Respondent suggests that my reasons in these appeals will enjoy little precedential value. Respectfully, I believe this is an oversimplification of the impact of the judgment.
+[15] It is widely known that, before this judgment, the Minister’s position was that fees related to investment banking or other advisory services had to be capitalized if they were incurred in the broad context of takeover or so‑called “spin-off” transactions. To my knowledge, the demarcation line outlined in my reasons for judgment had not been considered in the prior case law. Assuming my decision is not overturned on appeal, my reasons for judgment should be useful to a large number of public companies carrying out takeover or “spin-off” transactions.
+[16] In my reasons for judgment, I also comment on the application of paragraph 20(1)(bb) of the Income Tax Act pleaded by the Appellant in the alternative. Contrary to the Respondent’s position, I decided that part of the Appellant’s investment banking fees were also deductible under that provision if I was wrong in my finding that they qualified as current expenses. This ruling will also be useful for taxpayers seeking to deduct investment banking fees in a similar context to that in the instant case.
+[17] In summary, the Appellant had to present novel legal theories that had not previously been considered by Canadian courts. This weighs in favour of an increased costs award.
+D. OFFERS OF SETTLEMENT [18] The parties acknowledge that no offers of settlement were made, in writing or otherwise, by either party. It is quickly becoming a practice for parties engaged in complex tax appeals to seek to settle their dispute through private or, as often is the case, Court-monitored settlement discussions.
+[19] I acknowledge that subsections 147(3.1) to 147(3.8) of the Rules deal with the costs consequences that flow from the making of settlement offers that are rejected. This being said, I view the absence of offers as a negative factor in the determination regarding a request for an enhanced costs award.
+E. VOLUME OF WORK [20] The Respondent submits that the volume of work was average in the context of an appeal of this nature before this Court. I disagree and share the Appellant’s view of the considerable volume of work that was undertaken by its counsel on its behalf, as set out in paragraphs 33, 34, 37, 38, 39 and 40 of its written submissions as follows:
+33. The notice of appeal was filed in October 2012 for Novelis and in August 2013 for Pechiney, appealing the Minister’s reassessments of the appellant’s 2007 and 2003 taxation years respectively, denying the entirety of the Disputed Expenses. These appeals remained ongoing from that time until the trial. From the time the appeal process was commenced, the appellant completed both the examinations for discovery as well as undertakings before the respondent elected to issue a further reassessment in Novelis. This action by the respondent during the appeal process required the appellant to amend its pleadings in that appeal in accordance with the order rendered by Justice Favreau on October 7, 2014 as it appears in the Court file. Similarly, the respondent filed an amended reply to the notice of appeal in Pechiney 1.5 years after the original reply was filed to include new arguments on central issues contained in the appeal.
+34. In addition, the appellant prepared for and completed five days of trial before this Court, during which it was the appellant that led all of the testimonial evidence and examined six witnesses. As this Court is well aware, because of the amounts in issue and the importance of the issues, a large amount of evidence was put forward before the Court. The appellant prepared the joint book of documents which amounted to seven volumes, 366 separate documents and over 7,000 pages of evidence. In addition, the appellant filed two rounds of written representations amounting to 250 pages of written material, referenced dozens of cases including foreign jurisprudence. In contrast, as was found by the Court in the reasons for judgment, “[t]he Respondent led no testimonial evidence…posed few questions on cross‑examination”.
+. . .
+37. As was the case in Repsol, the litigation in Pechiney and Novelis covered 27 months and 35 months, respectively, the onus was on the appellant, the facts were complicated, several witnesses were required, legislative history and extensive jurisprudence was required and the transactions in question were international. Accordingly, the volume of work completed by the appellants in Pechiney and Novelis should be seen as justified.
+38. The appellant has been obliged to incur significant legal and other professional costs as a result of the appeals in Pechiney and Novelis. Some of the proceedings could have been avoided, as will be detailed below, had the respondent applied a reasoned approach, including applying the Canada Revenue Agency’s published positions in IT‑475, rather than taking wholesale approach in denying all of the expenses incurred without further consideration as to the facts and issues in dispute.
+39. Furthermore, throughout the course of Pechiney and Novelis, the appellant took all measures it could to efficiently pursue these appeals by joining separate appeals with similar issues, consolidating the required steps along the way, and utilizing technology to allow witnesses from overseas to appear before the Court. These efforts were intended to ensure the effective use of each parties’ [sic] and the Court’s resources. The appellant should not be penalized for these measures by further discounting the costs actually incurred by a larger discount factor than has already been done in the request for enhanced costs in the amounts detailed in paragraph 3 above.
+40. Accordingly, the volume of work in this matter was justified and was significant and thus favours the appellant being awarded with the enhanced costs it seeks in this costs award.
+[21] The considerable volume of work undertaken on behalf of the Appellant justifies an enhanced costs award.
+F. THE COMPLEXITY OF THE ISSUE [22] The transactions and the issues presented by them were complex. This factor militates in favour of an enhanced award.
+G. THE DENIAL OR THE NEGLECT OF ANY PARTY TO ADMIT ANYTHING THAT SHOULD HAVE BEEN ADMITTED [23] I see nothing in the record that justifies a higher award because of conduct of this kind.
+H. OTHER RELEVANT MATTERS [24] There appear to be no other factors that need to be weighed in my determination of the costs award in this matter.
+III. CONCLUSION [25] In light of all of the above, I conclude that cost awards based on the Tariff are inadequate in both of these appeals. In the absence of meaningful settlement discussions, I am of the view that an additional 25% discount factor should be applied to the 55% solicitor-client costs amount requested by the Appellant in its written submissions. On this basis, I award the Appellant 30% of its legal fees of $1,704,527.20, which translates into an award of lump sum partial indemnity costs of $511,358.16 for both appeals plus 100% of disbursements, which amounts to $42,553.54.
+Signed at Ottawa, Canada, this 10th day of November 2016.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2016 TCC 258
+COURT FILE NO.:
+2013-3028(IT)G, 2012-4808(IT)G
+STYLE OF CAUSE:
+RIO TINTO ALCAN INC. V. THE QUEEN
+PLACE OF HEARING:
+N/A
+DATE OF HEARING:
+N/A
+REASONS FOR ORDER BY:
+The Honourable Justice Robert J. Hogan
+DATE OF ORDER:
+November 10, 2016
+APPEARANCES:
+Appellant:
+N/A
+Respondent:
+N/A
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Yves St-Cyr
+Larry Nevsky
+Firm:
+Dentons Canada LLP
+Toronto
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Appellant points out that the award represented 80% of the amount originally claimed by the Appellant as current deductions in its tax return with respect to the Novelis matter.
+[2] Invesco Canada Ltd. v. The Queen, 2015 TCC 92.
+[3] Kruger Incorporated v. The Queen, 2016 TCC 14.

@@ -1,0 +1,148 @@
+---
+title: "Callwood c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22415/index.do"
+last_modified: "2007-04-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 232"
+citation2: ""
+neutral_citation: "2007 CCI 232"
+decision_date: "2007-04-20"
+language: "fr"
+item_id: "22415"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2272
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:44:48.173000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1dfefcb7155cd553abf1a58369a8ede72878c8dbd7f68c647c345fd89c9e09ee"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Callwood c. La Reine
+
+- Citation: 2007 CCI 232
+- Decision date: 2007-04-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2272, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Callwood c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-20
+Référence neutre
+2007 CCI 232
+Numéro de dossier
+2004-2013(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2007CCI232
+Date : 20070420
+Dossier : 2004-2013(IT)I
+ENTRE :
+TRACEY CALLWOOD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+SUCCESSION DE JOHN G. CRAWFORD,
+tierce partie.
+Pour l’appelante : M. Darrell Callwood
+Avocat de l’intimée : Me Aleksandrs Zemdegs
+Pour la tierce partie : personne
+__________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+à Toronto (Ontario), le 29 mars 2007)
+Le juge Bowie
+[1] Cet appel en matière d’impôt sur le revenu concerne les cotisations pour les années 2000 et 2001 par lesquelles le ministre du Revenu national réclame l’impôt sur certaines pensions alimentaires pour enfants que l’appelante a reçues de son ex-époux.
+[2] L’appelante et son ex-époux se sont séparés en janvier 1997. Ils ont alors signé un accord de séparation en vertu duquel l’ex-époux était tenu de payer à l’appelante 400 $ par mois pour leurs trois enfants. À cette époque, ces sommes pouvaient être déduites par le payeur et devaient être ajoutées au revenu de la bénéficiaire. Au milieu de 1997, la Loi de l’impôt sur le revenu a été modifiée pour que les pensions alimentaires pour enfants ne soient ni déductibles ni imposables si elles étaient faites en vertu d’un accord de séparation ou d’une ordonnance du tribunal dont la date d’exécution était postérieure à avril 1997.
+[3] En l’espèce, l’accord de séparation a été modifié par un accord portant modification et signé par les parties le 12 octobre 2000. Les parties ne s’entendent pas quant à savoir si l’accord portant modification a créé une « date d’exécution » postérieure à avril 1997, auquel cas l’appelante ne serait pas imposable pour les pensions alimentaires pour enfants qui ont été versées par suite de cet accord.
+[4] L’affaire a d’abord été entendue devant un autre juge de la Cour, qui a conclu que l’accord portant modification ne créait pas de date d’exécution, mais qu’une date d’exécution avait été créée le 14 décembre 2001 par une ordonnance de la Cour supérieure de l’Ontario, qui a eu pour effet de suspendre l’obligation de l’ex-époux de l’appelante de payer une pension pour l’une des trois enfants, à compter de cette date, étant donné qu’elle ne vivait plus chez sa mère.
+[5] L’appelante a appelé de cette décision devant la Cour d’appel fédérale et a eu gain de cause. Pour que le lecteur puisse comprendre la décision de la Cour d’appel, il est nécessaire de reproduire certains extraits de l’accord de séparation et de l’accord portant modification.
+[6] Après avoir énoncé dans des termes assez vagues que les parties s’entendent sur une pension alimentaire de 400 $ par mois, l’accord de janvier 1997 stipule ce qui suit :
+[Traduction]
+L’époux convient de répartir les paiements sur une base hebdomadaire sous forme de traite bancaire ou de mandat jusqu’à ce qu’une saisie du salaire soit accordée.
+Il est précisément entendu et convenu entre les parties que, si lesdits enfants mineurs fréquentent un établissement d’enseignement postsecondaire, les paiements de pension alimentaire se poursuivront jusqu’à l’obtention de leur diplôme ou la fin de leurs études. Il est en outre entendu que l’époux partagera le fardeau des dépenses vestimentaires, de l’assurance de soins médicaux et des autres dépenses nécessaires auxdits enfants.
+L’accord portant modification, du 12 octobre 2000, a précisément supprimé ces deux paragraphes de l’accord initial, et je cite de nouveau :
+[Traduction]
+L’article VII du contrat familial est modifié par la suppression des deux derniers paragraphes qui commencent par « L’époux convient de […] » et qui se terminent par « […] du vivant des parties à l’accord ».
+[7] C’est dans ce contexte que la juge Sheridan a ordonné que les questions suivantes soient tranchées aux termes de l’article 174 de la Loi de l’impôt sur le revenu :
+[Traduction]
+1. Déterminer si l’accord de séparation en date du 7 janvier 1997, entre Tracey Callwood et John Crawford (collectivement les « parties »), a été modifié après avril 1997 afin de changer les montants de pension alimentaire pour enfants, ou le total de la pension alimentaire pour enfants payable par John Crawford à Tracey Callwood, établissant ainsi une « date d’exécution » postérieure à avril 1997 au sens du paragraphe 56.1(4) de la Loi de l’impôt sur le revenu;
+2. Déterminer si la pension alimentaire payée par John Crawford à Tracey Callwood (la « pension alimentaire ») a été incluse à juste titre dans le revenu de Tracey Callwood, aux termes de l’alinéa 56.1b) de la Loi;
+3. Déterminer si la pension alimentaire est déductible par John Crawford dans le calcul de son revenu, aux termes de l’alinéa 60b) et des paragraphes 60.1(1) et (2) de la Loi.
+Les mentions de la pension alimentaire, dans les questions 2 et 3, renvoient aux sommes payées par John Crawford à Tracey Callwood pour subvenir aux besoins de leurs trois enfants en 2000 et 2001.
+[8] Le jugement de la Cour de l’impôt répondant à ces questions a fait l’objet d’un appel devant la Cour d’appel fédérale. La Cour d’appel a examiné l’accord de séparation et l’accord portant modification et a conclu que la suppression de la disposition qui aurait obligé M. Crawford à continuer ses paiements de pension alimentaire pendant que les enfants fréquentaient un établissement postsecondaire n’avait pas modifié la pension payable, étant donné que l’obligation qui avait été supprimée n’était qu’une obligation éventuelle à l’époque. La Cour d’appel a donc rejeté la conclusion du juge de première instance selon lequel, dans l’accord initial, la phrase :
+Il est en outre entendu que l’époux partagera le fardeau des dépenses vestimentaires, de l’assurance de soins médicaux et des autres dépenses nécessaires auxdits enfants.
+ne prévoyait pas de versement périodique et ne pouvait donc pas constituer une pension alimentaire. La Cour d’appel a statué que ce qu’elle appelait l’obligation de partage des dépenses était en fait payable sur une base périodique en s’appuyant sur la décision McKimmon c. Canada[1], ouvrant ainsi la possibilité qu’il s’agisse d’une pension alimentaire, et donc une pension alimentaire pour enfants. Par conséquent, la Cour d’appel a renvoyé l’affaire devant la Cour pour que soit tranchée la question suivante :
+[S]i la suppression de l’obligation relative au partage des dépenses dans l’accord portant modification a créé une date d’exécution au sens de la Loi à titre de pension alimentaire.
+[9] Aux termes de cette ordonnance de la Cour d’appel, j’ai entendu le témoignage des parties et accepté en preuve un certain nombre de documents à l’audience. Une bonne partie de la preuve avait pour but de me persuader que l’obligation relative au partage des dépenses ne prendrait effet que si les enfants fréquentaient un établissement postsecondaire, ce qui, en raison de son caractère éventuel, ne pouvait, par sa suppression, entraîner une modification de la pension alimentaire. Témoignant pour l’appelante, M. Callwood a pour sa part essayé de démontrer que M. Crawford avait payé une partie des dépenses partagées, ce qui, à son avis, inclurait certaines primes payées par M. Crawford sur les polices d’assurance-vie souscrites au nom des enfants.
+[10] Toutefois, il est clair que ce qui importe en l’espèce n’est pas de savoir ce que M. Crawford a en fait payé, mais ce qu’il était obligé de payer par l’accord de séparation. On m’a dit que l’accord avait été préparé par M. Callwood, et non pas par un professionnel expérimenté dans la rédaction d’accords de séparation. Le paragraphe établissant l’obligation concernant la fréquentation d’un établissement postsecondaire et celle relative au partage des dépenses est au mieux d’un libellé peu élégant, mais je pense que son intention est claire. L’obligation relative au partage des dépenses s’ajoute à l’obligation de payer 400 $ par mois. Ce qui est plus important, la Cour d’appel en est clairement arrivée à cette conclusion. Il y a seulement trois possibilités quant à cette obligation de partage des dépenses :
+1. il y a chaque année une obligation qui s’ajoute à la pension mensuelle de 400 $;
+2. cette obligation ne prend effet que si les enfants fréquentent un établissement postsecondaire; ou
+3. il s’agit tout simplement, comme le prétend M. Zemdegs, de détails superflus qui ne créent aucune obligation additionnelle parce que le verbe « convenir » ne figure pas dans cette disposition.
+[11] La Cour d’appel était nettement d’avis qu’il y avait obligation immédiate, sinon elle n’aurait pas renvoyé l’affaire devant la Cour de l’impôt afin qu’elle examine si l’obligation de partage des dépenses était une allocation. Si elle avait été d’avis que l’obligation était éventuelle ou, comme le prétend M. Zemdegs, qu’elle n’était pas une obligation s’ajoutant à la pension mensuelle de 400 $, alors elle aurait à coup sûr tout simplement rejeté l’appel. Si l’obligation de partage des dépenses ne prend effet que si les enfants fréquentent un établissement postsecondaire, alors elle serait éventuelle, au même titre que l’obligation concernant la fréquentation d’un établissement postsecondaire. Si ce ne sont que des détails superflus, alors il n’y a aucune obligation. Dans l’un ou l’autre cas, sa suppression ne changerait pas la pension alimentaire payable et donc ne pourrait créer une date d’exécution.
+[12] Pour être considérée comme une allocation pour les fins de l’article 56.1, un montant doit respecter trois critères. Tout d’abord, il doit être limité et prédéterminé. Deuxièmement, le montant doit être versé pour permettre au bénéficiaire de s’acquitter d’un certain type de dépenses – en l’espèce, subvenir à ses besoins ou à ceux des enfants du payeur et du bénéficiaire. Troisièmement, le bénéficiaire doit être en mesure de disposer entièrement du montant versé.
+[13] Ces règles sont établies par l’arrêt Gagnon c. Canada[2] et Rosenberg c. Canada[3], qui a appliqué l’arrêt Gagnon. Les paiements visés par l’obligation de partage des dépenses en l’espèce ne respectent pas le premier de ces critères. M. Crawford est maintenant décédé, et l’appelante n’a pas témoigné sur ce point. Je ne suis saisi d’aucune preuve qui me permette de croire que l’un ou l’autre avait pensé au genre de dépenses qui pouvaient être incluses dans l’expression : « des autres dépenses nécessaires auxdits enfants ». Il n’y a aucune preuve d’une estimation quelconque, que l’une ou l’autre des parties à l’accord aurait faite, du montant qui serait payable en vertu de cette disposition relative au partage des dépenses. L’arrêt Rosenberg c. Canada fait autorité concernant la proposition voulant qu’il ne soit pas nécessaire que la somme en question soit précisément fixée dans l’accord; toutefois, elle doit être identifiable pour être considérée comme ayant été prédéterminée. Comme il n’y a ni estimation du montant périodique, ni aucune entente et définition claire concernant la portée de l’expression « des autres dépenses nécessaires », cette exigence n’est tout simplement pas respectée.
+[14] À cet égard, il est important de constater que le représentant de l’appelante a déposé une preuve établissant que M. Crawford ne pensait même pas que l’obligation de partage des dépenses s’appliquait, à moins que les enfants ne fréquentent un établissement postsecondaire, même s’il apparaît clairement qu’il s’est trompé à ce sujet.
+[15] Par conséquent, le résultat de l’appel et les réponses aux questions visées aux termes de l’article 174 de la Loi restent les mêmes que dans le jugement du juge Hershfield. L’accord portant modification n’a pas modifié le montant de la pension alimentaire pour enfants à payer, ni le montant total de la pension alimentaire à payer, établis en vertu de l’accord de séparation, et donc n’a pas créé de date d’exécution. L’ordonnance de la Cour supérieure a modifié le montant total à payer au titre de la pension alimentaire pour enfants et a donc créé une date d’exécution. Le juge Hershfield a statué que cette date était le 14 décembre 2001. D’après ce que je comprends, l’intimée allègue que la date d’exécution créée par cette ordonnance est le jour où elle a été établie, soit le 2 août 2002. Toutefois, le juge Hershfield a statué qu’elle avait créé une date d’exécution le 17 décembre 2001, qui est la date de modification effective de la pension alimentaire. L’intimée n’a pas appelé du jugement du juge Hershfield et ma compétence pour traiter de cette question est limitée par l’ordonnance de la Cour d’appel qui me donne comme unique mandat de déterminer si la suppression de l’obligation de partage des dépenses, dans l’accord portant modification, a créé une date d’exécution. Le résultat de l’appel devant la Cour est donc inchangé par rapport aux conclusions du juge Hershfield.
+[16] Pour l’année 2000, le montant de 20 800 $ payé par John Crawford à Tracey Callwood a été correctement inclus dans son revenu et il pouvait être déduit par M. Crawford. Pour l’année 2001, un montant de 20 000 $ sur les 20 533 $ payés par John Crawford à Tracey Callwood a correctement été inclus dans le revenu de cette dernière et était déductible par M. Crawford. L’appel de Tracey Callwood pour l’année 2000 est rejeté. Son appel pour l’année 2001 est accueilli et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation sur la base qu’elle a droit à une réduction de 533 $ de son revenu pour cette année-là.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2007.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 27e jour de mars 2008.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2007CCI232
+No DU DOSSIER DE LA COUR : 2004-2013(IT)I
+INTITULÉ : Tracey Callwood
+et
+Sa Majesté la Reine
+et
+Succession de John G. Crawford
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 26 mars 2007
+MOTIFS DU JUGEMENT : L’honorable juge E.A. Bowie
+DATE DU JUGEMENT : Le 2 avril 2007
+COMPARUTIONS :
+Pour l’appelante :
+M. Darrell Callwood
+Avocat de l’intimée :
+Me Aleksandrs Zemdegs
+Pour la tierce partie :
+Mme Suzanne Crawford
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : S/O
+Cabinet : S/O
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1990] 1 C.A.F. 600.
+[2] [1996] 1 R.C.S. 264.
+[3] 2006 CAF 363.

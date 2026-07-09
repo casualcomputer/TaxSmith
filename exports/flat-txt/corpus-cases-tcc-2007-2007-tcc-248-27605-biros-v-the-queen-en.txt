@@ -1,0 +1,176 @@
+Title: Biros v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27605/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-248-27605-biros-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-04-23
+
+# Biros v. The Queen
+
+- Citation: 2007 TCC 248
+- Decision date: 2007-04-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 426, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Biros v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-23
+Neutral citation
+2007 TCC 248
+File numbers
+2003-1705(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1705(IT)G
+BETWEEN:
+LAKIS BIROS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 23, 24, 25 and 26, 2007 at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Brent E. Cuddy
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1994 and 1995 taxation years are dismissed.
+There will be no order for costs.
+Signed at Ottawa, Canada, this 22nd day of May 2007.
+“D.G.H. Bowman”
+Bowman, C.J.
+Citation: 2007TCC248
+Date: 20070522
+Docket: 2003-1705(IT)G
+BETWEEN:
+LAKIS BIROS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals are from reassessments for the appellant’s 1994 and 1995 taxation years. The reassessments were made outside of the “normal reassessment period” defined in paragraph 152(3.1)(b) of the Income Tax Act (three years after the date of an original assessment). Therefore, the Crown had the onus of establishing that the taxpayer or person filing the return of income
+(i) has made any misrepresentation that it attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act,
+within the meaning of subparagraph 152(4)(a)(i).
+[2] The law on the shifting onus of proof in tax matters has evolved somewhat since the decision in Farm Business Consultants Inc. v. The Queen, 95 DTC 200, aff’d., 96 DTC 6085 (F.C.A.).
+[3] Subsection 152(4.01) of the Act was added in 1998 but it was made applicable after April 27, 1989. It reads in part:
+Notwithstanding subsections (4) and (5), an assessment, reassessment or additional assessment to which paragraph (4)(a) or (b) applies in respect of a taxpayer for a taxation year may be made after the taxpayer’s normal reassessment period in respect of the year to the extent that, but only to the extent that, it can reasonably be regarded as relating to,
+(a) where paragraph (4)(a) applies to the assessment, reassessment or additional assessment,
+(i) any misrepresentation made by the taxpayer or a person who filed the taxpayer’s return of income for the year that is attributable to neglect, carelessness or wilful default or any fraud committed by the taxpayer or that person in filing the return or supplying any information under this Act, or
+. . . . .
+This provision places a limitation on the Minister of National Revenue’s powers of reassessment. Broadly, and at the risk of oversimplification, if a taxpayer has made a misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return, the Minister can reassess outside the normal reassessment period but only to the extent that the reassessment can reasonably be regarded as relating to the misrepresentation of the type described in subparagraph 152(4.01)(a)(i).
+[4] In the course of these reasons I shall consider not only the type of restrictions placed by subsection 152(4.01) upon the Minister in reassessing beyond the normal reassessment period, but also the nature and extent of the onus that the Minister has by reason of subsection 152(4.01).
+[5] I shall start with a broad overview of the case. A couple of preliminary observations are in order. The appellant was unrepresented by counsel and his command of English is very limited. He was assisted by a Greek interpreter. This put on the court an even greater obligation to ensure that the appellant suffered no disadvantage by being totally ignorant of the rules of procedure and the law, particularly the somewhat complex provisions relating to onus of proof where the Crown has an initial onus of establishing the Minister’s right to reopen the statute‑barred years.
+[6] The Crown’s case is that the appellant, Mr. Biros, was involved in a massive fraud against a number of banks, primarily the Bank of Montreal (“BMO”), but also the Canadian Imperial Bank of Commerce (“CIBC”), the Royal Bank of Canada (“RBC”), the Bank of Nova Scotia (“BNS”), Canada Trust and Toronto Dominion Bank (“TD”). The scheme involved several discrete steps as follows:
+(a) A person or persons unknown would steal an innocent individual’s identity, usually by stealing his or her wallet, including identity documents such as the driver’s licence, health card or birth certificate.
+(b) That person would then go to the Ministry of Transportation and report a lost driver’s licence and obtain a new one using the stolen identity documents (other than the driver’s licence). The new licence would have the name of the real owner but the picture of the imposter.
+(c) The imposter would then go to a bank branch and open an account using for identification the bogus driver’s licence with the imposter’s picture and other identity documents that did not have a picture. A nominal initial deposit would be made and the account would be opened in the name of the person whose identity documents were stolen. An automated teller machine (“ATM”) card would be issued to the imposter, along with a PIN number, giving access to the automated teller machines.
+(d) Stolen cheques, usually government cheques, would be deposited to the account with forged endorsements.
+(e) Later, money would be withdrawn from any ATM outlet, (not necessarily the same as the one in which the cheques were deposited). The amounts withdrawn appeared to be relatively small and it appears that the total amounts withdrawn from any account was less than the total amount deposited.
+[7] In all, upwards of $500,000 was fraudulently obtained in the manner described above. Detective Inspector Thomas, an impressive witness, described the scheme in detail. He stated that the result of the scheme was that $626,214.59 was “at risk”, by which he meant deposited to the fraudulent bank accounts but that only $510,890.89 was in fact withdrawn. About 500 cheques were deposited to 42 such accounts which were opened in the names of the 10 persons whose identities were stolen as follows:
+BMO
+30
+BNS
+2
+RBC
+4
+TD
+1
+CIBC
+3
+Canada Trust
+2
+______
+Total:
+42
+[8] Detective Inspector Thomas stated that in this case the Crown relied on only 29 accounts and the persons in whose names the accounts were opened were the following:
+Patrick Sun
+3 BMO
+1 CIBC
+Justin Wong
+4 BMO
+John Dawson
+4 BMO
+Donald Belanger
+5 BMO
+Franca Reda
+1 Canada Trust
+1 TD
+1 BNS
+1 RBC
+James McKeever
+2 BMO
+Merle McBay
+1 BMO
+Robert Vasic
+2 BMO
+Garvin Warner
+2 CIBC
+Spartaco Morassut
+1 CIBC
+[9] Indeed, the schedule prepared by Mr. Baksh, the assessor, (Exhibit A‑41) indicates that he assessed the appellant on amounts withdrawn from only 24 accounts.
+[10] The way in which the fraud came to light was that when the real payees reported to the Government of Canada that they had not received their cheques (generally pension plan, social assistance, superannuation or tax refunds) the Government of Canada refused payment and returned the cheques to the bank. The bank reported the matter to the police.
+[11] At the time the fraud was being investigated originally the police did not have the appellant’s fingerprints. He was however arrested in connection with an unrelated matter and charged with receiving stolen goods and possession of equipment for counterfeiting credit cards. These charges were dropped, according to Detective Inspector Thomas, and there may have been concerns that the original entry into the appellant’s premises may have been a violation of his rights under section 8 of the Canadian Charter of Rights and Freedoms. However, when he was arrested on those charges he was fingerprinted and this gave the police the match with the fingerprints on the cheques they needed. He was therefore arrested a second time and charged with fraud in connection with the bank fraud involved in these appeals.
+[12] These charges were also dropped. According to Detective Inspector Thomas they were dropped not because of lack of evidence but because the appellant’s preliminary hearing had to be postponed for a year to make place for a homicide preliminary hearing and the delay might have violated the appellant’s rights under paragraph 11(b) of the Charter in light of the Supreme Court of Canada decision in R. v. Askov, [1990] 2 S.C.R. 1199.
+[13] The reasons given in this court for dropping the criminal charges are of course hearsay but they are also irrelevant to this case. Mr. Biros seems to have believed that the withdrawal of the charges was a complete defence to the assessments that are the subject of these appeals. They are not, of course. This court’s decision on the civil appeals must be based on the law and on the evidence presented here. It is independent of whether a provincial Crown attorney chooses to proceed with or drop criminal proceedings.
+[14] The documentary evidence consisted substantially of bank records for the BMO, CIBC, RBC and BNS. These records, including bank statements and cancelled cheques were put in evidence by affidavit under section 30 of the Canada Evidence Act. I am satisfied that the appropriate notice was given to Mr. Biros under subsection 30(7).
+[15] There were two main factors that linked the appellant to the fraud. The first is that cameras on the ATM machines took pictures of persons depositing cheques or cash or withdrawing money from the machines. There was at that time about a four minute discrepancy between the time shown on the picture taken and the time of the transaction recorded by the ATM. Pictures of the appellant transacting business at the ATM machines appear several times in the three books of Exhibits (A‑46, A‑47 and A‑49). There are multiple pictures under seven tabs and at least five are clearly pictures of the appellant, Mr. Biros. The pictures under the other two tabs are probably Mr. Biros but I shall count only the five where the images are clear. I am satisfied, based on my own observation of the appellant in person and the pictures that these are pictures of the appellant. Mr. Biros denies this and says it is not 100% certain that it is he. I am not prepared, as a trier of fact, to deny the evidence of my own eyes and I am not persuaded by Mr. Biros’ rather peculiar form of denial. Indeed, Detective Inspector Thomas testified that he showed Mr. Biros one of the pictures from the ATM camera and Mr. Biros admitted that it was he. He now denies that he did so.
+[16] The other link was the fingerprints. Testimony of three highly qualified fingerprint experts, Debi Gillespie (Klatt), Shane Scott Turnidge and Cynthia Rennie was heard. Ms. Klatt identified Mr. Biros’ fingerprints on eleven cheques. Mr. Turnidge identifed Mr. Biros’ fingerprints on eight cheques and Ms. Rennie identified Mr. Biros’ fingerprints on one cheque. The reports of three other experts were served and filed but were not put in evidence.
+[17] The system used by the fingerprint experts was the same: the cheque would be dipped in ninhydrin (and in one case trypsin). This would bring out the otherwise invisible (or latent) fingerprint. This would be photographed and enlarged and compared with the rolled fingerprint impressions of Mr. Biros. The test which seems to be the accepted in this field of forensic science is as follows:
+Identity has been established by the continuous agreement of ridge characteristics found in sequence with no unexplainable dissimilarities.
+[18] A final somewhat less conclusive link to the appellant is that in two or three instances, the imposter who stole Donald Belanger’s identity gave to the Bank of Montreal as his business address and telephone number the address and number of the appellant’s restaurant on Yonge Street in Toronto. I do not regard this as a particularly conclusive piece of evidence against the appellant. Whatever else it may prove it certainly proves something about the intelligence of the perpetrator of the fraud, the person who stole Mr. Belanger’s identity.
+[19] The assessor, Mr. Baksh assessed the appellant in the manner set out in Exhibit A-41 as follows:
+[20] The principle upon which he proceeded was as follows. Whenever there was (a) an account to which a cheque was deposited on which a fingerprint of Mr. Biros was identified or (b) an account where the video surveillance camera picked up a picture of Mr. Biros transacting business in that account at an ATM machine, Mr. Baksh taxed in Mr. Biros’ hands all withdrawals from that account. If neither of the two conditions set out above applied to an account that had been used in the fraud, he did not tax Mr. Biros on any of the withdrawals from that account. It should be noted that the experts agreed that a person (Mr. Biros or anyone else) might have handled a cheque without a fingerprint appearing on it. It might be objected, perhaps with some justification, that someone else might have had access to the account and withdrawn money from it. Since it is obvious however that Mr. Biros must have had the ATM card some of the time, even if somebody else used it, it is not an unreasonable hypothesis that he may have given it to that other person. Moreover, no evidence was adduced of anyone else’s picture on the video surveillance tapes except, in one case, a man and, in two of the others, a woman and they were in the company of Mr. Biros.
+[21] Where, then, are we? We have evidence of a large scale fraud against the banks using stolen identities, fraudulently opened bank accounts and fraudulently obtained ATM cards. We have evidence of a large number of stolen cheques being deposited to those bank accounts with forged endorsements.
+[22] We have conclusive evidence of Mr. Biros’ fingerprints on 20 cheques and clear visual evidence of Mr. Biros transacting business in the accounts at a number of ATMs.
+[23] There is another piece of evidence that must be handled somewhat carefully and that is Mr. Biros’ outright and categorical denial of any involvement in the scheme. He denies that it is his picture on the video surveillance tapes and he suggests that the police must have somehow fabricated his fingerprints on the cheques. His denial of the obvious and unrefuted and irrefutable evidence has the effect of confirming and strengthening the conclusion that he was deeply involved in the fraud. Detective Inspector Thomas stated that fraud was a sophisticated one requiring a high degree of planning, cooperation and organization. Mr. Biros did not strike me as a great criminal mastermind like Dr. Moriarty or Lex Luthor. Had he admitted to a lesser involvement in the scheme, or said that he was really a small player, I might have found such evidence credible but to deny any involvement whatsoever in the face of overwhelming evidence of his involvement leaves no alternative.
+[24] I mentioned above that I would have to consider the nature and extent of the Crown’s onus under subsection 152(4.01) and the restriction that it places on the Minister’s powers of assessment. The Minister has the onus of establishing misrepresentation in order to open up the statute‑barred year. The standard of proof is a civil one but it is a relatively higher standard where an allegation of fraud is made. Continental Insurance Co. v. Dalton Cartage Co., [1982] 1 S.C.R. 164 cited in footnote 3 on page 205 of Farm Business Consultants Inc., (supra).
+[25] Here, the Crown has proved that Mr. Biros received funds from the banks in furtherance of a fraudulent scheme. He failed to declare these amounts as income. They are income from a business. (Neeb v. The Queen, 97 DTC 895 at 897; Svidal v. The Queen, [1995] 1 C.T.C. 2692). His failure to declare them was misrepresentation. Counsel for the respondent argues that it was attributable to an indifference and wilfulness. I think it would be disingenuous to attribute the failure to declare income from crime to mere carelessness. It is more likely part of the overall fraud. I might have surmised that people who earn income from crime do not inadvertently leave it out of their income tax returns. They mean to.
+[26] Does the Crown have to prove every dollar earned from the illegal activities in order to stay within the restrictions in subsection 152(4.01)? This interpretation does not strike me as a sensible one or one that conforms to the scheme of the Act insofar as it relates to the effect of misrepresentation on statute‑barred reassessments (cf. Canada v. Honeywell Ltd., [2007] F.C.J. No. 123 (QL)). The evolution of the Minister’s powers to reassess statute‑barred years seems to bear out my view that where the Crown establishes a misrepresentation in respect of a particular head or source of income (for example, defrauding banks) it need not prove all of the income from that source that was left out and the onus shifts to the taxpayer to show that the income from that source was less than that taxed by the Minister.
+[27] Formerly the Minister could open up a statute barred year for all purposes if he could find any misrepresentation, however small. Subsection 152(5) provided some relief but it put the onus on the taxpayers to establish that any understatement was not attributable to the type of misrepresentation described in paragraph 152(5)(b). Then, subsection 152(5) was amended and subsection 152(4.01) put the onus on the Minister to establish not only that there was misrepresentation but also that the misrepresentation was attributable to carelessness, neglect, misrepresentation or fraud. It is a fairly heavy onus in light of the words “to the extent that but only to the extent that . . .” but it does not go so far as to require the Minister to establish the precise dollar amount involved in the misrepresentation in order to justify the amount of the reassessment.
+[28] It is unfortunate that Mr. Biros was unrepresented. What is more unfortunate is that I received virtually no assistance from respondent’s counsel despite the Crown’s excellent witnesses.
+[29] I do not think on this evidence that I can reduce the income assessed nor can I justify deleting the penalties. If, as I have found, the appellant was engaged in a massive fraud against the banks it follows ineluctably that he knowingly failed to declare the proceeds in income.
+[30] The appeals are dismissed. In the circumstances I am not awarding the Crown its costs. If counsel wish me to provide further reasons for my not awarding costs they may request written reasons.
+Signed at Ottawa, Canada, this 22nd day of May 2007.
+“D.G.H. Bowman”
+Bowman, C.J.
+CITATION:
+2007TCC248
+COURT FILE NO.:
+2003-1705(IT)G
+STYLE OF CAUSE:
+Lakis Biros v.
+Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 23, 24, 25 and 26, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT:
+May 22, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brent E. Cuddy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

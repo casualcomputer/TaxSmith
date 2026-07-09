@@ -1,0 +1,184 @@
+---
+title: "Leah v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26003/index.do"
+last_modified: "2003-06-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 367"
+citation2: ""
+neutral_citation: "2003 TCC 367"
+decision_date: "2003-06-27"
+language: "en"
+item_id: "26003"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3750
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:00:48.445000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4245d16c63dbedabd24f10edbca0749c39de324d4ea1dd3e462af91d70b2e950"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Leah v. The Queen
+
+- Citation: 2003 TCC 367
+- Decision date: 2003-06-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3750, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leah v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-27
+Neutral citation
+2003 TCC 367
+File numbers
+2002-4580(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4580(IT)I
+BETWEEN:
+ANTHONY D. LEAH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 8, 2003 at Toronto, Ontario
+Before: The Honourable Judge L.M. Little
+Appearances:
+Counsel for the Appellant:
+Melvin I. Rotman
+Counsel for the Respondent:
+Lorraine Edinboro
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, Canada, this 27th day of June 2003.
+"L.M. Little"
+J.T.C.C.
+Citation: 2003TCC367
+Date: 20030627
+Docket: 2002-4580(IT)I
+BETWEEN:
+ANTHONY D. LEAH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little, J.
+A. FACTS
+[1] The Appellant and Sheran Elizabeth Johnston ("Sheran") were married on February 6, 1982.
+[2] Two children were born of the marriage namely:
+- Reed Merle Johnston Leah (hereinafter "Reed") - October 14, 1982
+- Jessica Marlee Johnston Leah (hereinafter "Jessica") - October 13, 1984
+[3] The Appellant and Sheran separated and on the 21st day of January 1989 they entered into a Separation Agreement (the "Separation Agreement") (Exhibit A-1).
+[4] The Separation Agreement provided, in part, as follows:
+13. Tony (the Appellant) agrees to pay 50% of the child care cost incurred for the infants Reed and Jessica for care during a regular week Monday to Friday (7:30 a.m. to 5:30 p.m.) now being primarily the cost of Mrs. Whyte.
+...
+15. It is agreed that Tony shall pay to Sheran $300.00 monthly ($150.00 for each child) in total for the additional expenses incurred by Sheran for clothing and food with respect to the said infants Reed and Jessica such sum to be adjusted by the annual percentage increase or decrease in the C.P.I. Canada every January.
+16. Sheran shall pay the R.E.S.P. contribution for one of the children of the marriage and Tony will pay for one of such children.
+17. The amount to be paid by Tony as set forth in the preceding paragraphs 13, 15 and 16 will be calculated periodically by the parties and reduced to a monthly child support payment which Tony will pay to Sheran on the first day of each month. Such monthly support figure shall be the sum of $618.17 at the time of the execution of this Agreement (this figure is comprised of $300.00 child support, $281.67 being one half cost of baby-sitter and $36.50 being R.E.S.P.).
+[5] The Appellant testified that in the 1997-2000 taxation years he made child support payments to Sheran as follows:
+Allocation
+1997
+$1,050 x 12
+$773.60
+276.00
+adjusted for C.I.P.
+50% babysitter
+1998
+$1,100 x 12
+$786.00
+314.00
+adjusted for C.I.P.
+50% babysitter
+1999
+$1,100 x 12
+$793.00
+307.00
+adjusted for C.I.P.
+50% babysitter
+2000
+$1,050 x 12
+$806.50
+243.50
+adjusted for C.I.P.
+50% babysitter
+[6] The Appellant testified that he was allowed to deduct the child support payments that he made to Sheran in determining his income for the 1997, 1998 and 1999 taxation years.
+[7] The Appellant testified that when he filed his 2000 income tax return he deducted child support payments of $12,600.00.
+[8] The Minister of National Revenue (the "Minister") disallowed the child support payments made by the Appellant to Sheran.
+[9] In the Notification of Confirmation the Minister stated:
+As the written agreement entered into with your ex-spouse, Sheran Johnston on July 22, 1997 varied the child support provided for in the separation agreement dated January 21, 1989 you are no longer entitled to a deduction for child support under subsection 60(b) of the Income Tax Act.
+(Note: the "agreement" referred to in the Notification is the note that was filed as Exhibit A-2 - see paragraph 5 above.)
+B. ISSUE
+[10] Is the Appellant entitled to deduct the amount of $12,600.00 as child support payments in determining his income for the 2000 taxation year?
+C. ANALYSIS
+[11] I have carefully considered the documents that were filed and the evidence presented to the Court and I have concluded that the note dated the 22nd day of July 1997 (Exhibit A-2) did not constitute a new or varied Separation Agreement. The Separation Agreement clearly specified that the Appellant was required to pay additional amounts to his ex-spouse contingent upon certain events, including annual cost of living increases. The note was simply a factual statement illustrating what was owed by the Appellant.
+[12] It therefore follows that the note that was filed as Exhibit A-2 did not establish or create a commencement date.
+[13] I have therefore concluded that the Appellant is entitled to deduct child support payments paid to Sheran in the amount of $12,600.00 in determining his income for the 2000 taxation year.
+[14] Before concluding my Reasons I wish to also add that I have determined that the note that was filed as Exhibit A-2 is not a valid legal document since the signatures of the Appellant and Sheran were not witnessed. Subsection 55(1) of the Family Law Act of Ontario, R.S.C. 1990 reads as follows:
+55. Form of Contract -
+(1) A domestic contract and an agreement to amend or rescind a domestic contract are unenforceable unless made in writing, signed by the parties and witnessed.
+[15] In Re Moore and Moore, 27 O.R. (2d) 771 His Honour Judge Steinberg of the Unified Family Court of Ontario referred to the Family Law Reform Act and said at page 10:
+I believe that contracts and agreements which purport to deal with the issues set out in ss. 51 and 53 of the Act and which do not comply with the requirements of formality in s. 54(1) are void and therefore legal nullities. That is to say that those contracts or agreements are in fact not contracts or agreements at all.
+[16] If Exhibit A-2 is not a valid legal document it follows that the note could not be said to alter or vary the Separation Agreement.
+[17] The appeal is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these Reasons for Judgment.
+Signed at Vancouver, Canada, this 27th day of June 2003.
+"L.M. Little"
+J.T.C.C.
+CITATION:
+2003TCC367
+COURT FILE NO.:
+2002-4580(IT)I
+STYLE OF CAUSE:
+Anthony D. Leah
+and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 8, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge L.M. Little
+DATE OF JUDGMENT:
+June 27, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Melvin I. Rotman
+Counsel for the Respondent:
+Lorraine Edinboro
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Melvin I. Rotman
+Page, Arnold
+Firm:
+Toronto, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

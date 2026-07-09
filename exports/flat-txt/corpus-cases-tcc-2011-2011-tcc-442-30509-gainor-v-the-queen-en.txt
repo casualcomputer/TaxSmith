@@ -1,0 +1,207 @@
+Title: Gainor v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30509/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-442-30509-gainor-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-09-21
+
+# Gainor v. The Queen
+
+- Citation: 2011 TCC 442
+- Decision date: 2011-09-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7249, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gainor v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-09-21
+Neutral citation
+2011 TCC 442
+File numbers
+2009-1287(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1287(IT)G
+BETWEEN:
+IAN GAINOR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 1, 2011, at Calgary, Alberta.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Margaret McCabe
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2004 taxation year is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+Each party shall bear its own costs.
+Signed at Ottawa, Canada, this 21st day of September, 2011.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2011 TCC 442
+Date: 20110921
+Docket: 2009-1287(IT)G
+BETWEEN:
+IAN GAINOR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] The Appellant is appealing the reassessment for his 2004 taxation year by which the Minister of National Revenue (“Minister”) added $118,000 to his previously assessed income of $3,070 and imposed a penalty in the amount of $12,682. This additional income relates to funds that were allegedly wrongfully obtained by way of an altered cheque. The parties who benefited from these funds included Kneale Craine, now deceased, who, according to the Minister’s calculation, received, directly and indirectly, $102,000 from the wrongfully obtained funds in the same year.
+[2] The Minister justified his reassessment of the Appellant’s income for 2004 and the assessment of a penalty as follows:
+(a) $118,000 has been included in the Appellant’s income because the Appellant received, through direct and indirect payments, gains from theft, defalcation or embezzlement totalling $118,000. These gains constitute income from a source and, as such, are to be included in income under section 3 of the Income Tax Act (“ITA”).
+(b) A penalty of $12,682 was imposed pursuant to subsection 163(2) of the ITA because the Appellant knowingly, or under circumstances amounting to gross negligence, made an omission in his return.
+THE ISSUES
+[3] There are three issues in this appeal:
+(a) Was the Minister correct in determining that the proceeds from the altered cheque constituted income from a source for the Appellant?
+(b) What amount of that income is properly attributable to the Appellant?
+(c) Was the Minister justified in imposing a penalty on the Appellant under subsection 163(2) of the ITA?
+FACTUAL SUMMARY
+[4] The Appellant is a retired chiropractor, resident in Calgary, Alberta. The Appellant had declared bankruptcy prior to 2004 and had no access to a personal bank account. He used the bank account of a company, Canam Seating Ltd. (“Canam”), of which he had been the director. In actuality, Canam had been struck from the Alberta corporate registry in 2003. However, its bank account at the Canadian Imperial Bank of Commerce (“CIBC”) remained operative. The Appellant was at all material times the only person who had signing authority for the Canam account.
+[5] The altered cheque in question was deposited in the Canam account. The cheque was originally drawn on the Royal Bank of Canada account of Honeywell in Toronto, Ontario, and was payable to Dell Financial Services. The name of the original payee on the cheque was changed to that of Canam. The cheque was either mailed or sent by courier to Canam’s CIBC branch in Calgary for deposit into its account.
+[6] Once the cheque was deposited in Canam’s account, the Appellant, as Canam’s director, immediately proceeded to disburse the funds. The Appellant appears to have made withdrawals or payments totalling $319,147 between November 24 and November 26, 2004 inclusively. Apparently, there was no hold on the cheque because the Canam account had been in operation since 1999 and Canam had a good history with its bank.
+[7] The larger transfers that the Appellant made from the proceeds of the cheque included a $200,000 transfer to Custom House Currency Exchange (a company specializing in international money transfers, now part of Western Union), a $60,000 deposit on a house purchase made by the late Kneale Craine, and a $20,000 repayment of Mr. Craine’s personal debt to Glynis Grigg. The smaller payments and withdrawals, in amounts from $5,000 to $7,000, were made by the Appellant for the purpose of paying his own and Mr. Craine’s personal debts to third parties, obtaining cash, and investing in an off-shore investment account.
+[8] By November 26, 2004, the balance remaining in the Canam account was $20,165.39. On November 29, 2004, Honeywell’s Royal Bank of Canada branch called Canam’s CIBC branch to advise them that the cheque in question was altered and would not be honoured.
+[9] Shortly after the disbursements were made, the CIBC informed the Appellant that the funds had been wrongfully deposited in Canam’s account and demanded repayment of the funds that had been transferred out. The Appellant refunded a portion of those funds. The CIBC put the Canam account into overdraft for the amount not returned and charged a monthly overdraft interest fee. By January 1, 2005, the overdraft amount was $166,998.16. It appears that by April 1, 2005 that balance had risen to $175,828.97. On April 8, 2005, the overdraft balance was struck out and a statement with a balance of $0 was issued for the period ending on April 8, 2005. The Appellant claims that the CIBC “wrote off” the outstanding amount.
+[10] A police investigation was conducted and the investigation revealed that Honeywell did not owe any money to Canam and that it did not issue a cheque in Canam’s favour. The Appellant and Mr. Craine were both questioned and later charged with having committed fraud over $5,000 contrary to paragraph 380(1)(a) of the Criminal Code and theft over $5,000 contrary to paragraph 334(a) of the Criminal Code. The total amount stolen was identified by the police as being $166,998.16. The charges against the Appellant and Mr. Craine were subsequently stayed. According to the Appellant, Mr. Craine passed away in June 2008.
+[11] The CIBC appears to have covered Honeywell’s loss. The CIBC also appears to have chosen not to launch a claim against Canam or the Appellant for the funds the Appellant failed to refund.
+[12] Although the police identified the CIBC’s loss in relation to the falsified cheque as being in the amount of $166,998.16, the Minister reassessed the Appellant as having received a benefit of $118,000. The Appellant stated at trial that he had returned the amount in excess of $118,000 to the CIBC.
+[13] In the reply to the Appellant’s notice of appeal, the Minister itemized as follows the Appellant’s disbursements of the proceeds from the falsified cheque, accepting the amounts and purposes of those disbursements:
+Date
+Item
+Amount
+Nov. 24/04
+Repayment of TK Craine’s personal investment to T. Pearce
+$10,000
+Nov. 24/04
+Payment to Craine, money order
+5,000
+Nov. 24/04
+Repayment of TK Craine’s personal loan to Glynis J Grigg
+20,000
+Nov. 24/04
+Cash withdrawal by Ian Gainor, withdrawal slip signed by Ian Gainor
+6,000
+Nov. 25/04
+Repayment of Ian Gainor’s personal loan to M. Leigh
+Money order and withdrawal slip signed by Ian Gainor
+5,000
+Nov. 25/04
+Cash withdrawal by Ian Gainor, withdrawal slip signed by Ian Gainor
+5,000
+Nov. 26/04
+Payment to Century 21, bank draft signed by Ian Gainor
+60,000
+Nov. 26/04
+Repayment of TK Craine’s personal loan to D Anderson, bank draft – withdrawal slip signed by Ian Gainor
+7,000
+Total
+$118,000
+[14] At the hearing, the Appellant provided an account of other events that allegedly took place during the time preceding the depositing of the falsified cheque. The Appellant testified that he had been expecting a wire transfer of a similar amount of money from an overseas angel investor into the Canam account. When the November 23, 2004 deposit occurred, he therefore proceeded to disburse the funds, believing they had been rightfully transferred.
+[15] The Appellant claims that he hired Mr. Craine to assist him in raising capital to fund an innovative chiropractic clinic business in the United States that the Appellant claims he intended to establish in 25 cities. He alleges that he engaged students in the University of Calgary’s Master of Business Administration program to prepare a business plan for his project. At trial, the Appellant submitted as Exhibit A-R 1, Tab 6, a copy of a summary of this business plan.
+[16] The Appellant stated that Mr. Craine, his long-time accountant, financial advisor and friend, located an angel investor in England who was willing to advance $5,000,000 for the Appellant’s clinic venture.
+[17] The Appellant did not state whether the investor had replied with a counter-offer with respect to the deal. According to the Appellant, the angel investor was Mr. Craine’s personal contact and the deal was something that Mr. Craine arranged without the Appellant’s assistance.
+[18] The Appellant was not clear in his testimony as to whether or not he knew that the first advance from the angel investor was to be in the amount of $350,000. The Appellant claims that he notified the CIBC that he was expecting a wire from Europe of an amount of $340,000 or $350,000. Further, the Appellant appeared unable to state with any confidence whether the investor had confirmed that the amount transferred would constitute the first “tranche” of the total investment.
+[19] The Appellant stated that the angel investor was apparently aware prior to the first advance being made, that there was no clinic business in existence and that the advance was to help the Appellant both draw up a plan for how the venture was to proceed and set up the required corporation and a bank account. The Appellant further stated that because neither he nor Mr. Craine had a bank account in his own name, the angel investor was to send the funds to the Canam bank account at the CIBC.
+[20] The Appellant testified that Mr. Craine told him that when the angel investor discovered that the Canam account had been closed by the CIBC, he no longer wished to extend additional funding. The Appellant stated that after Mr. Craine’s passing, the Appellant and Mr. Craine’s family looked through Mr. Craine’s documents but did not find any information regarding the angel investor.
+[21] It was noted in the police file that Mr. Craine stated to the investigating officer that the Appellant owed him $30,000 for income tax accounting and investment advice he had provided to the Appellant for six to eight years prior to 2005.
+[22] The Appellant stated at trial that he declared his profit resulting from the altered cheque in 2004 in his 2006 income tax return.
+[23] The parties’ Joint Book of Documents contains copies of documents pertaining to a house purchase by Mr. Craine for the down payment on which the Appellant issued a draft in the amount of $60,000. The documents include a copy of the $60,000 draft on Canam’s CIBC account in favour of Century 21 and a copy of the associated Residential Real Estate Purchase Contract. The contract indicates that the purchase price of the property was $1,325,000, that the initial deposit was $60,000 and that the buyer was 1038967 Alberta Inc. Included also is a fax cover sheet that indicates that 1038967 Alberta Inc. was associated with Mr. Craine.
+POSITIONS OF THE PARTIES
+The Appellant’s Position
+[24] The Appellant’s position is that because the bulk of the money from the proceeds from the fraudulent cheque was disbursed to or on behalf of Mr. Craine, a fact which the Minister acknowledges, Mr. Craine or his estate, and not the Appellant, should be taxed on the amount that was so disbursed. The Appellant argues that only the amount that he benefited from should be attributable to him for tax purposes.
+[25] The Appellant’s alternative position is that he paid off a debt he owed to Mr. Craine, so the amount of the repayment should be treated as an expense for the Appellant.
+The Minister’s Position
+[26] The Minister’s position is that, although the bulk of the monies went to other parties, they were transferred by Canam on the direction of the Appellant. Therefore, the funds are attributable to and taxable in the hands of the Appellant pursuant to subsection 56(2) of the ITA. The Minister did not provide any case law to support his position with respect to the application of subsection 56(2). The Minister focused mostly on the issue of the source of the income in question. He relied on The Queen v. F E Poynton[1] and Buckman (H.S.) v. Minister of National Revenue[2] for guidance with respect to the determination of what constitutes income.
+[27] The Minister acknowledges that there is no certainty as to who committed the theft, but argues that the fact that the Appellant cooperated with Mr. Craine with respect to the angel investor funding and then shared the proceeds of the fraudulent cheque should play a role in determining that the proceeds were taxable in the Appellant’s hands.
+[28] The Minister referred to Obodoechina v. The Queen[3] and Nigro v. The Queen[4] in support of the proposition that monies that are merely passing through a taxpayer’s account are attributable to the taxpayer.
+[29] While the Minister recognizes that deductions against income derived from illegal activities are in some cases allowable, he argues that this is not such a case because the Appellant was not in the business of stealing. Further, public policy reasons should prevent the allowance of such a deduction.
+[30] With respect to the Appellant’s 2006 income, the Minister’s counsel did not know whether or not the Appellant had in fact been assessed as having reported in 2006 the 2004 income at issue. However, the Minister’s position is that the 2006 income tax return should not have any impact on the reassessment for the Appellant’s 2004 taxation year.
+[31] With respect to the penalty, the Appellant was aware of the unreported income and knew or ought to have known that the amounts received were required to be reported.
+ANALYSIS
+[32] Paragraph 3(a) of the ITA provides that a taxpayer’s income for a taxation year is determined by totalling his income from all sources.
+[33] Section 4 of the ITA provides that a taxpayer’s income for a given taxation year is to be calculated on the assumption that the taxpayer had no income or loss except from the applicable sources.
+[34] Section 9 of the ITA clarifies that a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that source:
+9(1) Subject to this Part, a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that business or property for the year.
+(2) Subject to section 31, a taxpayer’s loss for a taxation year from a business or property is the amount of the taxpayer’s loss, if any, for the taxation year from that source computed by applying the provisions of this Act respecting computation of income from that source with such modifications as the circumstances require.
+(3) In this Act, “income from a property” does not include any capital gain from the disposition of that property and “loss from a property” does not include any capital loss from the disposition of that property.
+[35] Subsection 248(1) of the ITA defines the term “business” as, essentially, an enterprise of any kind:
+“business” includes a profession, calling, trade, manufacture or undertaking of any kind whatever and, except for the purposes of paragraph 18(2)(c), section 54.2, subsection 95(1) and paragraph 110.6(14)(f), an adventure or concern in the nature of trade but does not include an office or employment.
+[36] The ITA does not define the concepts of income and source. Nor does the legislation contain any enumerated income source for wrongfully received income resulting from fraud or theft.
+[37] The courts, however, have recognized that income from illegal activity is taxable. The 1972 Ontario Court of Appeal decision in Poynton is the leading authority for the principle that proceeds from criminal activities constitute taxable income:
+The question is, what quality must be attached to a profit, gain or benefit before it can be characterized as "income" for the purpose of taxation? There is no doubt that the word “income” in the Income Tax Act is sufficiently wide to include money other than that received from bona fide transactions. The fact that profits are derived from an illegal business does not make them immune to taxation (Minister of Finance v Smith, [1927] AC 193) and Courts have been equally consistent in allowing, as deductions from income, expenses which are tainted with illegality. In ascertaining the net profits of a business, items of expense which are of an illegal nature are nonetheless deductible if they come within the provisions of the Act as payments made wholly, exclusively and necessarily for the purpose of earning the income sought to be taxed (Espie Printing Company Limited v MNR [1960] Ex. CR 422; [1960] CTC 145; 60 DTC 1087).
+The words of Lord Haldane in the Smith case (supra) have application in the present case when he stated at page 197:
+Nor does it seem to their Lordships a natural construction of the Act to read it as permitting persons who come within its terms to defeat taxation by setting up their own wrong. There is nothing in the Act which points to any intention to curtail the statutory definition of income, and it does not appear appropriate under the circumstances to impart any assumed moral or ethical standard as controlling in a case such as this the literal interpretation of the language employed. There being power in the Dominion Parliament to levy the tax if they thought fit, their Lordships are therefore of opinion that it has levied income tax without reference to the question of Provincial wrongdoing.
+. . .
+I am of the opinion that there is no difference between money and money's worth in calculating income. They are both benefits and fall within the language of sections 3 and 5 of the Act, being benefits received or enjoyed by the respondent in respect of, in the course of, or by virtue of his office or employment. I do not believe the language to be restricted to benefits that are related to the office or employment in the sense that they represent a form of remuneration for services rendered. If it is a material acquisition which confers an economic benefit on the taxpayer and does not constitute an exemption, e.g. loan or gift, then it is within the all-embracing definition of section 3.[5]
+[38] In Poynton, the taxpayer had obtained payments from his employer’s subcontractors through a fictitious billing scheme. Evans J.A., for the court, found that the amounts obtained constituted income from theft:
+In view of the above finding I do not consider it necessary to refer in detail to paragraph 8(1)(b) and subsection 137(2). These provisions would appear to refer to those situations in which the taxpayer obtains a benefit with the knowledge and consent of the donor-employer and would have no application in the present factual situation. The benefits sought to be taxed did not accrue to Poynton nor were they conferred upon or received by him qua director, qua officer or qua shareholder but qua thief.[6]
+[39] In the 1991 Tax Court decision in Buckman,[7] it was held, where the taxpayer lawyer had embezzled funds from his clients and did not treat the funds as a loan, that the embezzlement had all the earmarks of a business and, as a result, the funds were treated as income from a source. In Buckman, the appellant had represented himself to his clients as investing their money in mortgages, when, in fact, he was not. The appellant was charged and convicted of numerous counts of fraud in connection with the misappropriation of his clients’ funds. Judge Sobier held as follows:
+The appellant received the money, appropriated it unto himself and used and enjoyed it for his own benefit. It was never treated by him as a loan. There was no intention to repay the Funds. Mr. Buckman was engaged in an on-going, long term scheme to steal from his clients. In reality, he intended to hold the Funds for his own account and did so in fact.
+The number of misappropriations and the methods employed by the appellant had all the earmarks of a business. He took risks in stealing the Funds and being found out. His reward however, was his hope of escaping detection and keeping the Funds for his own use. There is no difference whether the thief acted as a solicitor, agent or employee. The fact that the Funds are to be treated as income flows from the realities of the situation. Paraphrasing Evans J.A. in Poynton: What is being sought to be taxed didn’t accrue to Mr. Buckman qua solicitor or qua mortgage broker but qua thief.[8]
+[40] In the majority of Tax Court decisions that deal with the taxability of fraudulently obtained funds, the taxpayer had, prior to the proceedings in the Tax Court, been convicted criminally for his actions in obtaining the proceeds sought to be taxed. However, the absence of a criminal conviction is not fatal to a finding that income was obtained through theft or fraud, as confirmed by Bowman C.J. in Biros v. The Queen:[9]
+21 Where, then, are we? We have evidence of a large scale fraud against the banks using stolen identities, fraudulently opened bank accounts and fraudulently obtained ATM cards. We have evidence of a large number of stolen cheques being deposited to those bank accounts with forged endorsements.
+22 We have conclusive evidence of Mr. Biros’ fingerprints on 20 cheques and clear visual evidence of Mr. Biros transacting business in the accounts at a number of ATMs.
+23 There is another piece of evidence that must be handled somewhat carefully and that is Mr. Biros’ outright and categorical denial of any involvement in the scheme. He denies that it is his picture on the video surveillance tapes and he suggests that the police must have somehow fabricated his fingerprints on the cheques. His denial of the obvious and unrefuted and irrefutable evidence has the effect of confirming and strengthening the conclusion that he was deeply involved in the fraud. Detective Inspector Thomas stated that fraud was a sophisticated one requiring a high degree of planning, cooperation and organization. Mr. Biros did not strike me as a great criminal mastermind like Dr. Moriarty or Lex Luthor. Had he admitted to a lesser involvement in the scheme, or said that he was really a small player, I might have found such evidence credible but to deny any involvement whatsoever in the face of overwhelming evidence of his involvement leaves no alternative.
+. . .
+25 Here, the Crown has proved that Mr. Biros received funds from the banks in furtherance of a fraudulent scheme. He failed to declare these amounts as income. They are income from a business. (Neeb v. The Queen, 97 DTC 895 at 897; Svidal v. The Queen, [1995] 1 C.T.C. 2692). . . .
+[41] The fact that the proceeds in question herein were received as a result of fraud has not been denied by the Appellant. However, it is not clear who committed the fraud. The Appellant’s position is that he himself was a victim of it. With respect to Mr. Craine, the Appellant confirmed that he is helping Mr. Craine’s son clear his late father’s name in relation to the allegation that the latter used stolen funds for the down payment on the house purchase. This indicates that the Appellant is not accusing Mr. Craine of having partaken in the fraud.
+[42] The evidence pertaining to the disbursement of the funds suggests, in my opinion, that the Appellant was aware that the funds had been fraudulently obtained. The way in which he rushed to disburse the money ― beginning on the day the cheque was deposited and disposing of the bulk of the funds within four days ― is indicative of the Appellant’s knowledge that he was dealing with unlawfully obtained funds that could be recalled momentarily. Further, the Appellant’s transfer of $200,000 to Custom House, from which amount further disbursements may have been planned, constitutes evidence that the Appellant wanted to minimize the traceability of the funds. The Appellant stated that he transferred the $200,000 in order to have the funds available for his business venture in the U.S. However, this entirely contradicts his testimony that he owed Mr. Craine at least $300,000 of the so-called initial transfer of $350,000 or so for arranging the so-called angel investor funding. According to the Appellant, the bulk of that amount belonged to Mr. Craine. At the time the $200,000 transfer was made, the Appellant was supposedly not yet aware that the funds were not from the angel investor.
+[43] There are additional questions with respect to the Appellant’s credibility. For instance, on the CIBC Small Business Account Application and Agreement dated November 26, 2004, the Appellant indicated that he was the sole director and 100% shareholder of Canam. That application contained a dual misrepresentation: the Appellant was never a shareholder of Canam, according to the Appellant’s own testimony, and, at the time he signed the application, Canam was no longer in existence.
+[44] When the CIBC called the Appellant to come in to discuss the falsified cheque, the Appellant went to meet with the account manager accompanied by Mr. Craine. This confirms that the Appellant worked very closely with Mr. Craine. No one other than the Appellant and Mr. Craine had any reason to alter the cheque and deposit it into Canam’s bank account with the CIBC. The Appellant and Mr. Craine were the only persons who benefited from the fraud. The evidence is sufficient for me to conclude that, at the very least, the Appellant was aware that the funds had been obtained illegally.
+[45] In Poynton, Evans J.A. held that a repayment of misappropriated funds in a later year does not affect the taxability of the funds in the year in which they were obtained. Mr. Poynton, after a civil action was instituted against him, repaid his employer the amounts he had unlawfully misappropriated. Evans J.A. found that the taxability of the misappropriated funds was not affected:
+The fact that here the stolen money was repaid by Poynton following the institution of a civil action by his employer does not affect the result as the repayment was not made in the years in which the funds were misappropriated and in which they were sought to be taxed. Whether the moneys would attract tax if repaid during the year in which they were misappropriated; whether the taxpayer is entitled to claim a deduction in the year in which repayment is made or whether the employer would be taxable on the repayment are not matters for consideration and determination in the instant case.[10]
+[46] In the 2003 Tax Court decision in Nigro, above, on which the Minister relies, Judge Bonner held that where the appellant could not substantiate the true ownership of amounts deposited into his bank accounts, those amounts were deemed to constitute income of the appellant’s. In Nigro, the appellant agreed to accept deposits to his bank accounts on behalf of a business associate, Mr. Muto. The amounts deposited totalled $2,700,000, in the taxation year at issue. The bulk of these deposits were disbursed to Mr. Muto or to third parties on his direction. However, $150,349 of the funds appears to have remained in the appellant’s account. Because the appellant could not explain why Mr. Muto did not use his own bank account for the transactions and provided no documentation or any other explanation with respect to the nature of the transactions, it was held that the $150,349 was income of the appellant’s.
+[47] Nigro was referred to in the 2006 Tax Court decision in Obodoechina, above, on which the Minister also relies. In Obodoechina, Margeson J., similarly to Judge Bonner, held that, because the appellant failed to substantiate his claim that the funds that had gone through his bank account belonged to other people, those funds had to be attributed to him.
+[48] In the case at bar, the evidence shows that the Appellant and Mr. Craine both participated in the fraudulent cheque scheme. The cases of Nigro and Obodoechina establish that where the amounts of payments are substantiated as being attributable to another person and as having been made for that person’s purposes, those amounts are not to be taxable in the hands of the taxpayer. The Minister accepts that the Appellant transferred $102,000 to or for the benefit of Mr. Craine. That amount appears to be Mr. Craine’s share of the proceeds from the scheme. As a result, the funds so transferred to or on behalf of Mr. Craine are not income for the Appellant. This leaves $16,000 to be included in the Appellant’s income for 2004.
+[49] The Respondent argues that the Appellant is subject to tax on the $102,000 transferred to or on behalf of Mr. Craine by virtue of subsection 56(2) of the ITA. That provision would apply, for example, if the amounts deposited in Canam’s account actually belonged to Canam and the Appellant caused Canam to transfer the funds to Mr. Craine. However, this is not the case. The funds never belonged to Canam. Canam’s bank account was simply used as an instrument to perpetrate the fraud against the CIBC. The evidence shows that Mr. Craine received his agreed upon share of the amount. A corporate asset was not transferred by Canam to Mr. Craine on the direction of the Appellant. The evidence suggests that both men participated in the scheme.
+[50] The Appellant’s statement that he reported in his 2006 taxation year his 2004 income at issue does not affect the determination of his taxable income for 2004. Firstly, Poynton establishes that, even where wrongfully obtained funds are repaid in a future year, the fact that they had to be included in the taxation year in which they were obtained is not affected by the restitution. Secondly, the Appellant’s evidence with respect to how he determined the 2004 amount that he allegedly included in his return for his 2006 taxation year is unclear: the Appellant’s position is that his income from the funds at issue amounted to no more than $10,500, yet the purport of his statement is that he reported $27,235.50. Further, there is no additional evidence to show that such an amount was in fact reported in 2006. While the Appellant included an income tax return information sheet for 2006 in his evidence at trial, that document does not provide any breakdown of the Appellant’s “professional income” in 2006.
+[51] In the present appeal, the Appellant maintained that he did not regard the full proceeds of $118,000 as his income. However, he acknowledged that a portion of it was his income. The Appellant stated that he declared the applicable 2004 income in his 2006 tax return, a fact which indicates that the Appellant was aware that such income needed to be reported or that he needed to consult an accountant to inquire about the taxability of such income. The Appellant was a sophisticated person who had had dealings with the Canada Revenue Agency with regard to his income tax in the past. This justifies the imposition of a penalty with respect to the Appellant’s unreported income of $16,000.
+Signed at Ottawa, Canada, this 21st day of September, 2011.
+“Robert J. Hogan”
+Hogan J.
+CITATION: 2011 TCC 442
+COURT FILE NO.: 2009-1287(IT)G
+STYLE OF CAUSE: IAN GAINOR v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: February 1, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: September 21, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Margaret McCabe
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1972] C.T.C. 411 (Ont. C.A.).
+[2] [1991] 2 C.T.C. 2608.
+[3] 2006 TCC 589.
+[4] 2003 TCC 190.
+[5] Supra, footnote 1, pp. 415, 419-420.
+[6] Ibid, p. 420.
+[7] Supra, footnote 2.
+[8] Ibid, p. 2615.
+[9] 2007 TCC 248.
+[10] Footnote 1, p. 421.

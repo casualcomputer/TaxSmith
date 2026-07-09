@@ -1,0 +1,175 @@
+---
+title: "Beaulieu c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30355/index.do"
+last_modified: "2011-04-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 198"
+citation2: ""
+neutral_citation: "2011 CCI 198"
+decision_date: "2011-04-06"
+language: "fr"
+item_id: "30355"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7876
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:57:36.826000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e3f86f09170e7f8908927e45c4bac8d31007ae641478d9633d399cc7bf671ea6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Beaulieu c. M.R.N.
+
+- Citation: 2011 CCI 198
+- Decision date: 2011-04-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7876, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beaulieu c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-04-06
+Référence neutre
+2011 CCI 198
+Numéro de dossier
+2010-1001(EI)
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010-1001(EI)
+ENTRE :
+RITA BEAULIEU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_______________________________________________________________
+Appel entendu le 11 janvier 2011, à Québec (Québec)
+Devant : L'honorable juge B. Paris
+Comparutions :
+Pour l'appelant :
+l'appelante elle-même
+Avocat de l'intimé :
+Me Marie-France Dompierre
+_______________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision que le ministre du Revenu national a rendue le 10 février 2010 en vertu de la Loi sur l’assurance-emploi est confirmée.
+Signé à Ottawa, Canada, ce 6e jour de avril 2011.
+« B.Paris »
+Juge Paris
+Référence : 2011 CCI 198
+Date : 20110406
+Dossier : 2010-1001(EI)
+ENTRE :
+RITA BEAULIEU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L’appelante interjette appel de la décision rendue par le ministre du Revenu national (le « ministre ») selon laquelle l’emploi qu’elle a occupé chez Maçonnerie Rivière-du-Loup (1994) Inc. (le « payeur ») du 4 août 2008 au 7 août 2009 n’était pas un emploi assurable suivant l’alinéa 5(2)i) de la Loi sur l’assurance‑emploi (la « Loi ») parce qu'elle avait un lien de dépendance avec le payeur. Le mari de l’appelante, Jean-Louis Beaulieu, était l’actionnaire unique du payeur.
+[2] Lorsqu’un employeur et un travailleur ont entre eux un lien de dépendance, le ministre doit, aux termes de l’alinéa 5(3)b) de la Loi, tenir compte de toutes les circonstances de l’emploi et décider s’il est raisonnable de conclure qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance. En l’espèce, le ministre a décidé qu’il n’était pas raisonnable de conclure que le payeur et l’appelante auraient conclu un contrat à peu près semblable.
+[3] La seule question que la Cour doit trancher en l’espèce est de savoir si la conclusion du ministre était raisonnable. À cette fin, je dois « vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, […] décider si la conclusion dont le ministre était “convaincu” paraît toujours raisonnable »[1].
+[4] Les faits sur lesquels le ministre s’est appuyé sont exposés au paragraphe 6 de la réponse à l’avis d’appel, et je reproduis d’abord ceux que l’appelante a admis :
+a) le payeur a été constitué en société le 18 avril 1994;
+b) le payeur effectuait des travaux de maçonnerie commerciale uniquement;
+c) les bilans du payeur affichaient les données suivantes pour les exercices se terminant les 28 ou 29 février :
+d) en 2008, le payeur a émis 17 relevé T4 et 16 en 2009 incluant le sien et celui de l’appelante;
+e) d’octobre 2008 à février 2009, le payeur avait un gros contrat à l’aréna de La Pocatière et en mai 2009 il a fait les travaux de maçonnerie à l’extérieur;
+f) pour ce contrat, le payeur faisait affaires avec le fournisseur Turcotte de Trois-Pistoles pour les blocs et avec une autre compagnie de Québec pour les autres matériaux;
+g) le payeur a eu d’autres contrats sans qu’il soit en mesure de les quantifier;
+[. . .]
+i) les bureaux du payeur sont situés au sous-sol de la résidence personnelle de l’appelante;
+[. . .]
+k) l’actionnaire du payeur utilise un cellulaire dont le numéro est inscrit sur les soumissions, ainsi il peut être directement contacté;
+l) l’appelante travaille pour le payeur depuis le début des activités du payeur, soit avant son incorporation;
+m) l’appelante n’a aucune connaissance en comptabilité et en informatique;
+[. . . ]
+o) pendant la période en litige, il y a eu en moyenne 70 chèques par mois pour payer les dépenses et les salaires des employés;
+p) en 2008, il y a eu 19 factures et 13 en 2009, toutes manuscrites avec très peu de texte;
+q) depuis sa mise à pied, l’appelante accumule le travail pour le faire à la fin du mois pendant quelques jours, alors que le payeur a indiqué que l’appelante travaillait environ 3 à 4 heures par mois.
+[. . . ]
+s) l’appelante était payée pour 40 heures par semaine durant toute la période en litige;
+[. . .]
+u) la rémunération brute de l’appelante pendant la période en litige était de 399,20 $, soit une diminution de 20% par rapport à 2004 due au fait que l’appelante pour recevoir sa pension de la Régie des Rentes du Québec devait diminuer son salaire de 20%;
+v) l’appelante était rémunérée sur une base hebdomadaire de 40 heures, soit un taux horaire de 10 $, alors que selon Emploi Québec, le salaire d’une secrétaire est fixé entre 12 et 20 $ de l’heure;
+w) pendant la période en litige, l’appelante fut la seule employée du payeur à être payée 40 heures par semaine sans interruption;
+x) du 24 février au 29 mars 2008, l’appelante était la seule employée rémunérée, sauf une semaine pour l’actionnaire;
+[. . ]
+z) depuis sa mise à pied, l’appelante a reçu une paie de 40 heures les 20 septembre, 1 novembre et 13 décembre 2009;
+aa) le payeur n’a eu aucun revenu en mars, avril et juillet 2009, alors que l’emploi à temps plein de l’appelante a été maintenu;
+[5] Je passe maintenant aux faits que Mme Beaulieu n’a pas admis:
+(h) le payeur obtient ses contrats par voie de soumissions généralement en janvier et février sans pour autant exclure les autres mois puisqu’il y aurait eu 4 à 5 soumissions pendant la période en litige.
+Selon Mme Beaulieu, elle a préparé autour de 10 soumissions pour le payeur pendant la période en litige et chacune l’occupait pendant deux à trois jours. Le payeur a obtenu cinq de ces contrats.
+(j) le téléphone résidentiel sert aussi pour les besoins du payeur tant pour les appels téléphoniques que pour la transmission des télécopies;
+Mme Beaulieu a aussi témoigné que le payeur avait sa propre ligne de téléphone.
+(n) les fonctions de l’appelante étaient de remettre les heures travaillées par les employés au comptable qui lui communiquait les montants des salaires pour faire les chèques de paies, elle était présente pour répondre au téléphone et elle complétait les soumissions le soir avec l’actionnaire, elle faisait aussi de la recherche dans les journaux pour découvrir les appels d’offres auxquelles le payeur pouvait participer, elle faisait aussi les chèques aux fournisseurs et faisait les factures manuscrites pour les clients;
+Mme Beaulieu a dit qu’elle avait des taches additionnelles à celles-ci. En plus de préparer les soumissions, elle les livrait en personne à Rimouski, ce qui prenait trois heures aller-retour. Après avoir déposé les soumissions elle en a fait le suivi, et retirait les soumissions si elles étaient trop basses. Au début de chaque chantier elle devait appeler les fournisseurs pour arranger la livraison du matériel, et à la fin elle préparait les lettres de conformité pour la CSST et la CCQ. Elle s’occupait des assurances et permis, répondait aux appels des clients et fournisseurs, et faisait les dépôts bancaires. Le procureur de l’intimée n’a pas contesté le témoignage de Mme Beaulieu sur ces points.
+r) l’appelante travaillait généralement de 8 h à 15 h, bien que ses heures étaient coupées, ce qui lui permettait de faire son travail quotidien de ménagère, et complétait les soumissions manuellement le soir avec l’actionnaire;
+s) l’appelante était payée pour 40 heures par semaine durant toute la période en litige;
+Mme Beaulieu a expliqué qu’elle avait un salaire hebdomadaire fixe, qui n’était pas basé sur les heures travaillées. Ses heures de travail ont varié, parfois elle travaillait plus de 40 heures par semaines, parfois moins et parfois elle travaillait 40 heures par semaine.
+Toutefois, les livres de paie du payeur indiquaient qu’elle était payée basé sur une semaine de 40 heures.
+t) l’appelante a reçu son salaire, même pendant les mois de mars et avril 2009, alors que le payeur n’a eu aucune activité;
+y) pour les semaines du 21 au 28 décembre 2008, l’appelante était la seule employée inscrite aux livres de paies;
+aa) le payeur n’a eu aucun revenu en mars, avril et juillet 2009, alors que l’emploi à temps plein de l’appelante a été maintenu;
+Mme Beaulieu ne se rappelait ni des périodes d’inactivité du payeur ni lorsqu’elle était la seule employée du payeur. Pourtant, un sommaire des livres de paie du payeur, préparé par l’agente des appels de l’agence du revenu du Canada, démontre que pendant les semaines du 21 et 28 décembre Mme Beaulieu était la seule employée, et du février 2009 au 19 avril 2009 Mme Beaulieu et M. Beaulieu étaient les seuls employés. Selon les registres Mme Beaulieu a travaillé 40 heures par semaine pendant ces périodes et M. Beaulieu a travaillé 20 heures par semaine. Les registres ont aussi démontré que le payeur n’a reçu aucun revenu en mars, avril et juillet 2009. M. Beaulieu a témoigné qu’il avait décidé de paye son épouse son plein salaire durant ces périodes et qu’elle avait travaillé, mais il n’a fourni aucune précision sur le travail qu’elle a fait.
+Analyse
+[14] L’appelante dit simplement qu’elle devrait avoir droit aux prestations de l’assurance-emploi parce qu’elle a travaillé pendant toute la période en litige. Elle dit qu’il n’est pas juste de lui en priver simplement parce qu’elle a travaillé pour la compagnie de son mari.
+[15] Bien qu’il ne paraisse peut-être pas juste, la Loi sur l’assurance –emploi stipule qu’un emploi où il y a un lien de dépendance entre le payeur et le travailleur est exclus de l’assurabilité à moins que le ministre puisse se satisfaire qu’un contrat de travail semblable aurait été conclu s’il n’y avait pas de lien de dépendance entre les parties.
+[16] Dans l’affaire Pérusse[2], le juge Marceau a écrit au paragraphe 29 :
+Je ne pense pas que des personnes unies par des liens de famille, et donc assujetties à des obligations naturelles et légales les unes envers les autres, puissent raisonnablement s'étonner ou s'offusquer de ce que le législateur sente le besoin de vérifier, dans le cadre d'un contrat de louage de services, si ces liens n'ont pas, peut-être même à leur insu, influencé les conditions de travail qu'elles ont stipulées..
+[17] Alors, comme je l’ai indiqué plus tôt dans ces motifs, je dois décider, à la lumière de tous les faits mis en preuve si la décision du ministre parait toujours raisonnable.
+[18] Tout d’abord, il me semble clair que le ministre n’a pas pris en compte tous les aspects pertinents de l’emploi de l’appelant auprès du payeur, notamment les taches additionnelles énoncées au paragraphe 8 et le fait qu’elle aurait completé 10 soumissions au lieu de 4 ou 5 selon le ministre
+[19] Selon le rapport de l’agent des appels, les tâches de l’appelante consistaient à être présente pour répondre aux appels téléphoniques, faire une moyenne de 70 chèques par mois et un peu de facturation, et faire quelques soumissions qu’elle remplissait selon les informations fournies par son époux. L’agent a conclu que « ces quelques tâches ne pouvaient justifier l’emploi de l’appelante à plein temps. »
+[20] J’accepte que les tâches exécutées par l’appelante au cours de son emploi étaient plus variées et complexes et prenaient plus de temps à accomplir que l’agent a cru, et par ce fait, elle a mal évalué l’importance du travail de l’appelante. Pourtant, même si c’est le cas, je dois toujours considérer si les autres faits établis au procès sont suffisants en droit pour justifier la conclusion du ministre suivant laquelle les parties n’auraient pas conclu un contrat semblable s’il n’y avait pas de lien de dépendance.
+[22] Lorsqu’on décide si des personnes n'ayant entre elles aucun lien de dépendance auraient conclu entre elles un contrat de travail à peu près semblable à celui passé en l’espèce entre l’appelante et le payeur, il faut accorder une grande importance à la question de savoir si l’emploi répond à un réel besoin économique du payeur. En l’espèce, le ministre a tenu pour acquis précisément que l’emploi de l’appelant ne coïncidait pas avec les besoins du payeur parce que l’appelante continuait à travailler pendant les périodes d’inactivité du payeur. L’appelante n’a pas réussi à démontrer que c’était faux. Les registres du payeur ont révélé qu’elle recevait son plein salaire pendant des périodes totalisant plus que trois mois sur un an où il n’y avait pas d’autre employé ou seulement M. Beaulieu qui travaillait à temps partiel. Ni M. ni Mme Beaulieu n’ont expliqué comment le payeur aurait besoin de ses services à plein temps pendant ces périodes. Les registres ont aussi révélé qu’en septembre et octobre 2009, pendant que Mme Beaulieu ne travaillait que 40 heures par mois, le payeur avait entre deux et quatre employés, soit plus qu’il en avait en mars, avril et entre la mi-juillet et le 9 août lorsque Mme Beaulieu continuait à travailler à temps plein.
+[23] Or, bien que l’importance des tâches de Mme Beaulieu a été sous-évaluée, à la lumière de l’ensemble de la preuve et toutes les circonstances entourant l’emploi occupé par l’appelante, il reste suffisamment d’éléments pour justifier la décision du ministre. Pour ces motifs, je suis d’avis qu'était raisonnable la conclusion du ministre selon laquelle le payeur n’aurait pas embauché une personne avec laquelle il n’avait pas de lien de dépendance pour faire le même travail que l’appelante aux mêmes conditions pendant la période en litige.
+[24] L’appel est donc rejeté.
+Signé à Ottawa, Canada, ce 6e jour de avril 2011.
+« B.Paris »
+Juge Paris
+RÉFÉRENCE : 2011CCI198
+Nº DU DOSSIER DE LA COUR : 2010-1001(EI)
+INTITULÉ DE LA CAUSE : RITA BEAULIEU ET M.R.N.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 11 janvier 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge B. Paris
+DATE DU JUGEMENT : le 6 avril 2011
+COMPARUTIONS :
+Pour l'appelant :
+l'appelante elle-même
+Avocat de l'intimé :
+Me Marie-France Dompierre
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : N/A
+Cabinet : N/A
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Selon le juge Marceau de la Cour d’appel fédérale dans l’arrêt Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878 (Q.L.), paragraphe 4.
+[2] [2000] A.C.F. n0310 (Q.L.), paragraphe 29 (CAF)

@@ -1,0 +1,208 @@
+Title: Bernier c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30261/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-156-30261-bernier-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2011-03-10
+
+# Bernier c. M.R.N.
+
+- Citation: 2011 CCI 156
+- Decision date: 2011-03-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7970, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bernier c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-03-10
+Référence neutre
+2011 CCI 156
+Numéro de dossier
+2010-946(EI)
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2010-946(EI),
+2010-947(CPP)
+ENTRE :
+DONALD BERNIER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appels entendus sur preuve commune avec l’appel d’Alain Bernier (Entretien ménager ADM enr.) (2010‑1090(EI)),
+le 10 décembre 2010, à Québec (Québec).
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l'intimé :
+Me Marie-France Dompierre
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi est rejeté, et la décision du ministre du Revenu national rendue le 4 février 2010 est confirmée, selon les motifs du jugement ci-joints.
+L’appel interjeté en vertu du Régime de pensions du Canada est rejeté, car le ministre du Revenu national n’a pas rendu de décision dans cette affaire.
+Signé à Ottawa, Canada, ce 10e jour de mars 2011.
+« Robert J. Hogan »
+Juge Hogan
+Dossier : 2010-1090(EI)
+ENTRE :
+ALAIN BERNIER
+(ENTRETIEN MÉNAGER ADM ENR.),
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appel entendu sur preuve commune avec les appels de Donald Bernier (2010‑946(EI) et 2010-947(CPP)), le 10 décembre 2010, à
+Québec (Québec).
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l'intimé :
+Me Marie-France Dompierre
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi est rejeté, et la décision du ministre du Revenu national rendu le 4 février 2010 est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 10e jour de mars 2011.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2011 CCI 156
+Date : 20110310
+Dossiers : 2010-946(EI), 2010-947(CPP)
+ENTRE :
+DONALD BERNIER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET ENTRE :
+Dossier : 2010-1090(EI)
+ALAIN BERNIER
+(ENTRETIEN MÉNAGER ADM ENR.),
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Hogan
+Introduction
+[1] L’appelant Alain Bernier (Entretien ménager ADM enr.) (le « payeur ») interjette appel de la décision du ministre du Revenu national (le « ministre ») du 4 février 2010 selon laquelle Donald Bernier, Denis Hamel, Francis Blouin et Marc Thibodeau (les « travailleurs ») exerçaient un emploi assurable au sens de la Loi sur l’assurance-emploi (la « Loi ») au cours de la période du 1er janvier 2008 au 30 juin 2009.
+[2] Donald Bernier, le frère du payeur, a fait appel de la décision du ministre à son égard en vertu de la Loi. L’avis d’appel de Donald Bernier indiquait qu’il s’opposait également au fait que son emploi avec le payeur aurait droit à une pension en vertu du Régime de pensions du Canada. Puisque la preuve démontre que l’intimé n’a pas rendu de décision concernant le Régime de pensions du Canada, l’appel de Donald Bernier dans le dossier 2010-947(CPP) est rejeté sans autres motifs.
+[3] Par conséquent, le reste de ces motifs traite seulement des appels de Donald Bernier, 2010-946(EI), et d’Alain Bernier (Entretien ménager ADM enr.), 2010-1090(EI), à l’encontre des décisions du ministre en vertu de la Loi.
+[4] Les appels ont été entendus sur preuve commune.
+Contexte factuel
+[5] Le 17 novembre 2009, l’appelant Alain Bernier a demandé au ministre de statuer sur la question de savoir si Donald Bernier, qui est son frère, ainsi que Denis Hamel, Francis Blouin et Marc Thibodeau (les travailleurs) avaient exercé des emplois assurables lorsqu’ils étaient à son service pendant la période du 1er janvier 2008 au 30 juin 2009.
+[6] Le 4 février 2010, le ministre a confirmé que les travailleurs occupaient des emplois assurables pendant la période visée. L’appelant Alain Bernier a décidé d’appeler de cette décision.
+[7] Pour les appelants, seulement les frères Bernier ont témoigné. Pour le ministre, Roger Dufresne, agent des appels pour l’Agence du revenu du Canada (l’« ARC »), fut le seul témoin.
+[8] L’appelant Alain Bernier est l’unique propriétaire d’une entreprise qu’il exploite sous la raison sociale Entretien Ménager ADM enr. Celle-ci fait de l’entretien ménager dans des restaurants et des bars de la région de Québec. L’appelant négocie les prix avec ses clients en fonction du temps qu’il estime nécessaire pour compléter les travaux ménagers.
+[9] Pendant la période visée, l’entreprise facturait ses clients chaque mois et était payée dans les 15 jours. La preuve démontre que l’appelant fournissait les vadrouilles, les aspirateurs, les escabeaux et les produits de nettoyage la très grande majorité du temps. Les travailleurs n’avaient rien à fournir. Pour effectuer le travail, l’entreprise retenait les services de travailleurs.
+[10] Devant la Cour, le payeur a clairement affirmé qu’il n’y avait pas de différences notables entre le travail des travailleurs. Chaque travailleur avait des conditions de travail similaires. D’ailleurs, le payeur a affirmé lors de son contre‑interrogatoire qu’un des travailleurs, Denis Hamel, avait exactement les mêmes tâches que monsieur Bokwala. Le statut de ce dernier a été examiné par la Cour canadienne de l’impôt dans Bernier c. Canada, 2010 CCI 280.
+[11] Le payeur a soutenu que c’est lui qui fixait la rémunération de ses travailleurs. Pour être payés, les travailleurs préparaient des factures qu’ils donnaient au payeur. Aucun des travailleurs ne facturait la TPS au payeur.
+[12] Le payeur a déclaré qu’il donnait aux travailleurs des instructions au sujet de leur travail et leur indiquait les endroits où aller travailler. D’après lui, les travailleurs avaient un horaire souple, mais le travail devait impérativement se faire avant l’ouverture des établissements en question. Le payeur a affirmé qu’il n’avait aucun contrôle sur la manière dont les travailleurs exécutaient le travail, car il n’était pas toujours présent. Il a affirmé que s’il y avait des plaintes, celles-ci venaient surtout à lui parce qu’il était responsable des contrats, mais que si le travail était mal exécuté, il se pouvait que le client fasse des demandes directement au travailleur. Cependant, le payeur en assumait l’entière responsabilité.
+[13] Dans le cas de Donald Bernier, le frère d’Alain Bernier, les faits sont sensiblement les mêmes, avec certaines différences. Donald Bernier travaillait pour le payeur à temps partiel. Il effectuait le ménage avec son frère dans un bar ainsi que seul à des salons de coiffure et un bureau de la région. Donald a soutenu que lorsqu’il travaillait seul, il utilisait son aspirateur. Cependant, comme pour les autres travailleurs, c’est son frère qui lui disait chez quel client il devait aller faire le ménage. Pour être payé, Donald fournissait des factures sur lesquelles il indiquait ses heures d’arrivée et de départ. Il a déclaré que lorsqu’il travaillait avec son frère au bar, il gagnait 12,50 $ l’heure, alors que lorsqu’il faisait le ménage pour une entreprise, il gagnait une somme forfaitaire de 125 $ pour environ 10 heures de travail. De plus, il a soutenu qu’il était payé régulièrement, aux deux semaines, et que les entreprises n’étaient pas ses clients.
+[14] Le seul témoin du ministre fut Roger Dufresne, agent des appels depuis plus de 12 ans. C’est lui qui a analysé le dossier des appelants. Il a déclaré avoir discuté à plusieurs reprises avec Alain Bernier, mais que ce dernier n’a jamais donné suite à ses envois postaux. Lors de ses entretiens, il lui a demandé s’il y avait des différences avec l’affaire Bokwala. Le payeur lui a affirmé que les conditions de travail étaient identiques. Il assignait les tâches et c’était lui qui fixait les normes à respecter en ce qui concerne les endroits où le ménage devait être effectué, la qualité du travail et les échéanciers. Les travailleurs étaient payés à l’heure et pour être payés, ils indiquaient leurs heures de travail sur un document qu’ils remettaient au payeur.
+[15] En ce qui concerne Donald Bernier, le frère de l’appelant, monsieur Dufresne a soutenu qu’il a rapidement vérifié l’importance du lien de dépendance. Avec la preuve qu’il avait devant lui, il a déterminé que ses conditions de travail ont été similaires à celles des autres travailleurs.
+Analyse
+[16] Les dispositions législatives pertinentes se retrouvent dans la Loi sur l’assurance‑emploi, L.C. 1996, ch. 23 comme suit :
+Sens de « emploi assurable »
+5. (1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+b) l’emploi du genre visé à l’alinéa a), exercé au Canada au service de Sa Majesté du chef du Canada;
+c) l’emploi à titre de membre des Forces canadiennes ou d’une force policière;
+d) un emploi prévu par règlement pris en vertu des paragraphes (4) et (5);
+e) l’emploi d’un particulier au Canada à titre de promoteur ou coordonnateur d’un projet dans le cadre d’une prestation d’emploi.
+Restriction
+(2) N’est pas un emploi assurable :
+a) l’emploi occasionnel à des fins autres que celles de l’activité professionnelle ou de l’entreprise de l’employeur;
+b) l’emploi d’une personne au service d’une personne morale si cette personne contrôle plus de quarante pour cent des actions avec droit de vote de cette personne morale;
+c) l’emploi exercé au Canada et relevant de Sa Majesté du chef d’une province;
+d) l’emploi exercé au Canada au service du gouvernement d’un pays étranger ou de celui d’une subdivision politique d’un tel pays;
+e) l’emploi exercé au Canada au service d’un organisme international;
+f) l’emploi exercé au Canada dans le cadre d’un programme d’échange mais non rétribué par un employeur résidant au Canada;
+g) l’emploi qui constitue un échange de travail ou de services;
+h) l’emploi exclu par règlement pris en vertu du présent article;
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+Personnes liées
+(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+Loi d’interprétation, L.R.C. 1985, ch. I-2
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s'il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d'assurer l'application d'un texte dans une province, il faut, sauf règle de droit s'y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l'application du texte.
+Code civil du Québec, L.Q. 1991, ch. 64
+1425. Dans l'interprétation du contrat, on doit rechercher quelle a été la commune intention des parties plutôt que de s'arrêter au sens littéral des termes utilisés.
+1426. On tient compte, dans l'interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conclu, de l'interprétation que les parties lui ont déjà donnée ou qu'il peut avoir reçue, ainsi que des usages.
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+2086. Le contrat de travail est à durée déterminée ou indéterminée.
+2098. Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+2099. L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[17] La question de savoir si un emploi est assurable ou non a fait l’objet d’une multitude de décisions. Pour débuter, il est important de noter que le fardeau de la preuve incombe à l’appelant. Il doit démontrer que le ministre a fait une erreur lors de sa prise de décision. Il doit le faire selon la prépondérance des probabilités. Chaque cas est différent et doit s’évaluer à la lumière de la preuve présentée au procès.
+[18] La jurisprudence a établi quatre critères pour distinguer un contrat d’entreprise d’un contrat de louage de services : a) le degré de contrôle exercé par l’employeur, ou l’absence de contrôle, b) la propriété des outils, c) les chances de bénéfices et les risques de pertes, et d) le degré d’intégration du travail de l’employé dans l’entreprise de l’employeur. Ces critères ont été établis dans Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553. L’objectif de ces critères est d’analyser dans son ensemble la relation entre le payeur et le travailleur. À la lumière de la preuve, il faut que les tribunaux essayent de déterminer l’intention commune des parties. Comme le dit l’arrêt de la Cour suprême 671122 Ontario Ltd. c. Sagaz industries Canada Inc., [2001] 2 R.C.S. 983 :
+47 Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire.
+[Je souligne]
+[19] L’établissement et l’évolution de ces facteurs ont eu lieu sous le régime de la common law. La question à se poser maintenant est leur importance sous le régime du droit civil. Depuis la promulgation de l’article 8.1 la Loi d’interprétation, L.R.C. 1985, ch. I-2, il est manifeste qu’il faut utiliser les critères du Code civil du Québec pour déterminer si un contrat de travail a été créé. En conséquence, les critères de la common law sont-ils toujours pertinents?
+[20] La Cour d’appel fédérale a clairement exprimé la manière d’appliquer ces critères à la lumière du Code civil dans deux décisions récentes : Grimard c. Canada, [2009] 4 R.C.F. 592, 2009 CAF 47, et NCJ Educational Services Ltd. c. Canada, 2009 CAF 131. La Cour a déclaré que le contrat de travail, sous le régime du Code civil, doit se lire à la lumière des articles pertinents[1]. Selon l’étude exhaustive que la Cour d’appel fédérale a effectuée dans ces deux décisions, la direction ou le contrôle du travail est un élément déterminant dans un contrat de travail, mais les autres critères établis par la common law sont toujours pertinents, car ils donnent des indices de subordination ou d’encadrement. Dans Grimard, le juge Létourneau, après avoir analysé les critères de la common law, déclare :
+42 Il va de soi, aussi bien en droit civil québécois qu'en common law, que ces indices d'encadrement (critères ou points de repère), lorsque chacun est pris isolément, ne sont pas nécessairement déterminants. Ainsi, par exemple, dans l’arrêt Vulcain Alarme Inc. c. M.R.N., [1999] A.C.F. no 749 (C.A.) (QL), le fait que l'entrepreneur devait se servir d'un coûteux appareil spécial de détection fourni par le donneur d'ouvrage pour vérifier et calibrer des détecteurs de substances toxiques ne fut pas jugé suffisant en soi pour transformer ce qui était un contrat d'entreprise en un contrat de travail.
+43 En somme, il n'y a pas, à mon avis, d'antinomie entre les principes du droit civil québécois et les soi-disant critères de common law utilisés pour qualifier la nature juridique de la relation de travail entre deux parties. Dans la recherche d'un lien de subordination juridique, c'est-à-dire de ce contrôle du travail, exigé par le droit civil du Québec pour l'existence d'un contrat de travail, aucune erreur ne résulte du fait que le tribunal prenne en compte, comme indices d'encadrement, les autres critères mis de l'avant par la common law, soit la propriété des outils, l'expectative de profits et les risques de pertes, ainsi que l'intégration dans l'entreprise.
+[Je souligne]
+[21] Les critères permettent à la Cour d’avoir une appréciation factuelle de la relation entre les parties. Donc, elle retiendra la réalité - le comportement des parties - et non seulement les prétentions des parties. La subordination et le contrôle doivent s’étudier en gardant à l’esprit la question de savoir si le payeur a la faculté de déterminer le travail à exécuter, à l’encadrer et à contrôler le salarié. En ce qui touche le travailleur, son intégration sera déterminée à la lumière du bénéfice que tirera l’entreprise de son travail.
+[22] Dans le cas de Donald Bernier, le frère du payeur, c’est surtout l’alinéa 5(3)b) de la Loi qui nous intéresse. Cet alinéa dispose que lorsque les individus sont des personnes liées, l’emploi ne sera pas assurable, à moins que le ministre soit convaincu du contraire à la lumière des circonstances. Lorsque la Cour doit se pencher sur un appel concernant la décision du ministre, elle doit faire preuve de déférence et ne peut remplacer la décision du ministre en l’absence de faits nouveaux à l’audience[2]. Le juge a cependant l’obligation de vérifier si les faits utilisés par le ministre sont réels et ont été appréciés selon le contexte[3]. Cette démarche fut confirmée dans plusieurs décisions des cours fédérales[4]. Dans Le Livreur Plus Inc. c. Canada, 2004 CAF 68, le juge Létourneau résume de manière éloquente le rôle du juge lorsque celui-ci est saisi de ce type d’appel. Il écrit :
+12 Tel que déjà mentionné, le ministre suppose, au soutien de sa décision, l'existence d'un certain nombre de faits recueillis par voie d'enquête auprès des travailleurs et de l'entreprise qu'on estime être l'employeur. Ces faits sont présumés avérés. Il incombe à celui qui s'oppose à la décision du ministre de les réfuter.
+13 Le rôle du juge de la Cour canadienne de l'impôt, saisi d'un appel de la décision du ministre, consiste à vérifier l'existence et l'exactitude de ces faits ainsi que l'appréciation que le ministre ou ses officiers en ont fait et, au terme de cet exercice, à décider, sous l'éclairage nouveau, si la décision du ministre paraît toujours raisonnable : Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878; Pérusse c. Canada (ministre du Revenu national - M.R.N.), [2000] A.C.F. no 310; Massignani c. Canada (ministre du Revenu national - M.R.N.), 2003 CAF 172; Bélanger c. Canada (ministre du Revenu national - M.R.N.), 2003 CAF 455. De fait, certains faits matériels invoqués par le ministre peuvent être réfutés ou leur appréciation peut ne pas résister à l'examen judiciaire de sorte que, à cause de leur importance, le caractère, en apparence, raisonnable de la décision du ministre s'en trouve anéanti ou sérieusement miné.
+14 Dans l'exercice de ce rôle, le juge doit accorder une certaine déférence au ministre en ce qui a trait à l'appréciation initiale de ce dernier et il ne peut pas, purement et simplement, en l'absence de faits nouveaux ou d'une preuve que les faits connus ont été mal perçus ou appréciés, substituer sa propre opinion à celle du ministre : Pérusse c. Canada (ministre du Revenu national - M.R.N.), supra, paragraphe 15.
+15 Le juge doit faire une analyse juridique des faits allégués par le ministre pour déterminer s'ils supportent la conclusion que ce dernier en a tirée. Je veux dire par là qu'il doit indiquer en quoi et pourquoi ces faits établissent ou tendent à établir l'existence d'un contrat de travail plutôt que d'un contrat d'entreprise entre les parties.
+[23] Dans une décision récente de notre Cour, le juge Bédard a commenté le rôle du juge dans l’analyse de la décision du ministre[5]. Ces commentaires ressemblent à ceux écrits dans Le Livreur Plus Inc. Il ajoute que le fardeau de la preuve revient à l’appelant. C’est à lui de démontrer, selon la prépondérance des probabilités, que le ministre n’a pas vérifié tous les faits pertinents[6]. Appliquons maintenant le droit aux faits en l’espèce.
+[24] Bien que les faits soient étrangement similaires à ceux de la décision rendue par le juge Angers dans Bernier c. Canada, précité, il est important de noter que chaque dossier est examiné à la lumière des faits spécifiques à ce dossier. Tout d’abord, analysons la question de savoir si les emplois des travailleurs étaient des emplois assurables. S’agissait-il de contrats de louage de services ou de contrats d’entreprise?
+[25] Le payeur ainsi que son frère ont tous deux témoigné devant la Cour. Plusieurs éléments similaires ressortent de leurs témoignages. Les deux appelants ont confirmé que les travailleurs étaient payés régulièrement, qu’ils notaient leurs heures de travail sur des feuilles et les remettaient au payeur pour recevoir leur salaire et que leur travail était assigné par le payeur. Le payeur a soutenu qu’il fournissait les outils et les produits nécessaires pour effectuer le travail, sauf dans le cas de Donald, qui utilisait son aspirateur, mais non ses produits de nettoyage. Aussi, Donald Bernier a soutenu qu’il n’avait pas facturé la TPS au payeur.
+[26] Les travailleurs n’assumaient aucune responsabilité financière. Ils ne pouvaient pas avoir de possibilités de gains ou de pertes. D’ailleurs, ce n’était pas eux qui contactaient les clients, mais bien le payeur. Alain et Donald Bernier ont souvent souligné que le payeur n’avait aucun contrôle sur le travail des travailleurs. Pour répondre à leur argument, je pense qu’il est pertinent de tenir compte des commentaires de la juge Desjardins dans NCJ Educational Services Ltd. c. Canada, précité, qui résume à partir de l’ouvrage de Robert Gagnon l’évolution de la subordination dans le droit du travail sous le Code civil.
+59 Dans l'édition la plus récente de l'ouvrage de Robert Gagnon (6e édition, mise à jour par Langlois Kronström Desjardins, sous la direction de Yann Bernard, André Sasseville et Bernard Cliche), les indices suivants (ci-après soulignés) ont été ajoutés à ceux que l'on trouvait dans la 5e édition. Ces nouveaux indices sont les mêmes que ceux qui avaient été élaborés dans l'arrêt Montreal Locomotive Works et que notre Cour avait appliqués dans l'arrêt Wiebe Door.
+92 - Notion - Historiquement, le droit civil a d'abord élaboré une notion de subordination juridique dite stricte ou classique qui a servi de critère d'application du principe de la responsabilité civile du commettant pour le dommage causé par son préposé dans l'exécution de ses fonctions (art. 1054 C.c.B.-C.; art. 1463 C.c.Q.). Cette subordination juridique classique était caractérisée par le contrôle immédiat exercé par l'employeur sur l'exécution du travail de l'employé quant à sa nature et à ses modalités. Elle s'est progressivement assouplie pour donner naissance à la notion de subordination juridique au sens large. La diversification et la spécialisation des occupations et des techniques de travail ont, en effet, rendu souvent irréaliste que l'employeur soit en mesure de dicter ou même de surveiller de façon immédiate l'exécution du travail. On en est ainsi venu à assimiler la subordination à la faculté, laissée à celui qu'on reconnaîtra alors comme l'employeur, de déterminer le travail à exécuter, d'encadrer cette exécution et de la contrôler. En renversant la perspective, le salarié sera celui qui accepte de s'intégrer dans le cadre de fonctionnement d'une entreprise pour la faire bénéficier de son travail. En pratique, on recherchera la présence d'un certain nombre d'indices d'encadrement, d'ailleurs susceptibles de varier selon les contextes : présence obligatoire à un lieu de travail, assignation plus ou moins régulière du travail, imposition de règles de conduite ou de comportement, exigence de rapports d'activité, contrôle de la quantité ou de la qualité de la prestation, propriété des outils, possibilité de profits, risque de pertes, etc. Le travail à domicile n'exclut pas une telle intégration à l'entreprise.
+[Je souligne]
+[27] En l’espèce, c’est le payeur qui disait quel était le travail à exécuter. Il gérait les activités de ses travailleurs.
+[28] Les appelants ont remis à la Cour la décision Ouellet c. Canada, 2004 CCI 357, en soutenant que la situation en l’espèce était semblable. Dans cette affaire, le ministre avait déterminé que l’appelante occupait un emploi non assurable, parce qu’elle n’était pas une employée en vertu d’un contrat de service. Celle-ci faisait le ménage dans les locaux d’une entreprise. Après avoir analysé les hypothèses de fait du ministre, le juge suppléant Savoie a mis l’accent sur le critère du contrôle. Après avoir étudié la preuve, il a inféré que le payeur n’avait aucun contrôle sur le travail de l’appelante et que ce qui importait pour lui était le résultat. L’appel fut rejeté et la décision du ministre, confirmée. Les appelants soutiennent que le même résultat devrait s’appliquer à leur situation. Cependant, nous pouvons distinguer cette décision de l’espèce.
+[29] Tout d’abord, dans Ouellet, l’appelante ne s’est pas présentée à l’audition. La Cour s’est donc basée sur des pièces écrites produites par l’appelante pour Développement des ressources humaines Canada (« DRHC »). De plus, dans ces pièces, l’appelante a affirmé avoir donné des informations erronées à DRHC. Pour cette raison, la Cour semble en avoir tiré une inférence défavorable. En l’espèce, les appelants se sont présentés en Cour et ont eu la chance de témoigner. Deuxièmement, contrairement à Ouellet, le payeur en l’espèce fournissait les produits de nettoyage et supervisait le travail de ses employés. Enfin, l’appelante était payée selon un forfait sans aucun lien avec le nombre d’heures de travail. Dans notre cas, les travailleurs étaient payés à l’heure. Pour le contrat que Donald effectuait pour une entreprise, le salaire reçu correspondait au taux horaire qu’il recevait lorsqu’il travaillait aux autres endroits.
+[30] En ce qui concerne l’appel de Donald Bernier, le lien de dépendance entre le payeur et lui n’est pas contesté. La question revient donc à se demander si le ministre a bien évalué la relation entre l’appelant et le payeur au sens de l’alinéa 5(3)b) de la Loi. Il est maintenant établi que lorsqu’une question de la sorte est devant la Cour, il faut qu’elle se demande si la conclusion de fait du ministre, à la lumière de la preuve qu’il avait devant lui, est raisonnable. Plusieurs décisions ont traité de cette question[7].
+[31] Pour ce faire, il est depuis longtemps établi que le rôle de la Cour est d’étudier juridiquement les faits sur lesquels se fonde le ministre pour rendre sa décision. Les facteurs énoncés à l’alinéa 5(3)b) sont notamment : la rétribution versée, les modalités d’emploi, la durée de l’emploi ainsi que la nature et l’importance du travail accompli. Il est primordial de préciser que le fardeau de la preuve incombe à l’appelant. Il doit démontrer que le ministre a fait une erreur ou n’a pas pris en compte tous les faits pertinents.
+[32] Donald Bernier n’a pas vraiment pu démontrer que ses conditions de travail étaient différentes de celles des autres employés. Le ministre, à la lumière des éléments qu’il avait, a déterminé qu’il occupait un emploi assurable. Donald Bernier effectuait des tâches similaires, devait remplir des « factures » pour son frère, recevait les ordres du payeur et n’avait pas de traitement de faveur. Il n’a fait aucun travail bénévole ou n’a reçu aucun traitement de faveur. Le fait qu’Alain Bernier ait affirmé qu’il ne faisait pas d’argent en vertu du contrat de nettoyage que Donald effectuait pour une entreprise ne change pas que la détermination faite par le ministre à la lumière de toute la preuve n’est pas déraisonnable.
+[33] À la lumière de cette analyse, il m’apparaît que les appelants ne se sont pas déchargés de l’obligation de prouver à la Cour, selon la prépondérance des probabilités, que la décision était déraisonnable dans les circonstances. Pour débuter, il ressort de la preuve que le lien entre le payeur et les travailleurs était celui d’un employeur envers ses employés. Il m’apparaît que chaque travailleur était bien intégré dans l’entreprise d’Alain Bernier. Il faut faire très attention de ne pas confondre « souplesse » et « contrôle ». Comme la jurisprudence nous l’enseigne, les notions de contrôle et de subordination ont évolué avec le temps.
+[34] Pour toutes ces raisons, les appels sont rejetés, sans frais.
+Signé à Ottawa, Canada, ce 10e jour de mars 2011.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE : 2011 CCI 156
+Nºs DES DOSSIERS DE LA COUR : 2010-946(EI), 2010-947(CPP),
+2010-1090(EI)
+INTITULÉS DES CAUSES : DONALD BERNIER c. M.R.N. et ALAIN BERNIER (ENTRETIEN MÉNAGER ADM ENR.) c. M.R.N.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : Le 10 décembre 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 10 mars 2011
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocate de l'intimé :
+Me Marie-France Dompierre
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Ceux-ci sont les articles 1425, 1426, 2085, 2098 et 2099 du Code civil du Québec.
+[2] Pérusse c. Canada, [2000] A.C.F. no 310.
+[3] Bélanger c. Canada, 2003 CAF 455.
+[4] Légaré c. Canada, [1999] A.C.F. no 878, Valente c. Canada, 2003 CAF 132, et Massignani c. Canada,
+2003 CAF 172.
+[5] Lavoie c. Canada, 2010 CCI 580.
+[6] Ibid., aux paragraphes 7 à 9.
+[7] Birkland c. Canada (Ministre du Revenu national), 2005 CCI 291, Lenover c. Canada, 2007 CCI 594.

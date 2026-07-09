@@ -1,0 +1,170 @@
+---
+title: "Leclair v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30525/index.do"
+last_modified: "2011-09-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 323"
+citation2: ""
+neutral_citation: "2011 TCC 323"
+decision_date: "2011-09-30"
+language: "en"
+item_id: "30525"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7328
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:16:29.482000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "49fbb27531561d58693eada9e63be46db70a9317e45576bcbf3f1a44cfd0b4d4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Leclair v. The Queen
+
+- Citation: 2011 TCC 323
+- Decision date: 2011-09-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7328, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leclair v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-09-30
+Neutral citation
+2011 TCC 323
+File numbers
+2010-482(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-482(IT)G
+BETWEEN:
+MICHELLE LECLAIR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 14, 2011, at Saskatoon, Saskatchewan.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Peter V. Abrametz
+Counsel for the Respondent:
+Ainslie Schroeder
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under subsection 160(1) of the Income Tax Act is allowed with costs, in accordance with the attached reasons for judgment.
+Signed this 30th day of September 2011.
+« François Angers »
+Angers J.
+Citation: 2011 TCC 323
+Date: 20110930
+Docket: 2010-482(IT)G
+BETWEEN:
+MICHELLE LECLAIR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] Michelle Leclair is appealing from an assessment made under subsection 160(1) of the Income Tax Act (the Act). The assessment was made on the basis that her father Philippe Joseph Lajeunesse transferred real property (the property) he owned in Prince Albert, Saskatchewan for no consideration to the Appellant, his daughter, at a time when he was indebted to the Canada Revenue Agency (CRA).
+[2] The amount of Mr. Lajeunesse’s indebtedness to CRA is not in dispute nor is the fact that the amount owed by Mr. Lajeunesse exceeds the amount for which the Appellant was assessed, namely $53,000 under subsection 160(1) of the Act.
+[3] The Appellant is now 23 years old. From age 3 to 18, she grew up and resided at the property in question. She has spent the last five years of her life in Saskatoon, with a brief stay in Prince Albert, Saskatchewan and since December 29, 2010 in Calgary, where she is an enrolled student.
+[4] Philippe Lajeunesse was the registered owner of the property. On June 29, 2006, he caused to be transferred the said property in the name of the Appellant and stated her address as the same as the property although she resided in Saskatoon at the time. Philippe Lajeunesse never vacated the property and continued to reside at the property, paying all the expenses incurred by way of his residing there, namely, the utilities, property taxes, costs of upkeep, maintenance and repairs.
+[5] The Appellant at the time of the transfer was unaware of her father’s indebtedness with CRA nor was she aware of the fact that the title to the property had been transferred to her name. She only became aware of the situation when she visited her father in December 2008 and was shown a letter she had received from CRA addressed to her father’s address and which contained the November 19, 2008 Notice of Assessment on appeal.
+[6] She sought legal advice and, on February 26, 2009, she signed Transfer Authorizations transferring the property back to her father and thereby, caused the title to the property to issue to him.
+[7] It is admitted by the Respondent that the Appellant had no knowledge that her father had transferred the property into her name and that he did so without her consent. It is also admitted that she transferred the property back to her father as soon as she became cognizant of the transfer to her.
+[8] The issue is whether the Appellant is liable pursuant to section 160 of the Act in respect of the transfer of property made to her by her father in the amount of the assessed value of $53,000.
+[9] The conditions for the application of subsection 160(1) of the Act are: first, the transferor must be liable to pay tax under the Act at the time of the transfer. That is not in dispute in this case as it is admitted that the transferor was indebted to CRA for an amount in excess of the value of the property. Second, there must be a transfer of property, either directly or indirectly, by means of a trust or by any other means; third, the transferor and transferee were not dealing at arm’s length and finally the fair market value of the property transferred must exceed the fair market value of the consideration given by the transferee. Here is subsection 160(1) in full:
+160 (1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common- law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+[10] The Appellant’s position is that section 160 assessments are fact driven and since the transferor transferred the land to the appellant without her knowledge or consent, the assessment is invalid. The appellant further argues that liability under section 160 does not attach since the transfer could be set aside as a fraudulent conveyance.
+[11] The respondent’s position is that the operation of section 160 is not affected by the appellant’s absence of knowledge or consent to the transfer or her transfer of the land back to her father.
+[12] I will first examine the appellant’s second submission that liability under section 160 does not attach since the transfer could be set aside as a fraudulent conveyance. The relevant provision is section 3 of The Fraudulent Preferences Act of Saskatchewan being Chapter F-21 of the R.S.S. 1978 which reads:
+Transfers to defeat creditors
+3 Subject to sections 8, 9, 10 and 11 every gift, conveyance, assignment or transfer, delivery over or payment of goods, chattels or effects or of bills, bonds, notes or securities or of shares, dividends, premiums or bonus in a bank, company or corporation, or of any other property real or personal, made by a person at a time when he is in insolvent circumstances or is unable to pay his debts in full or knows that he is on the eve of insolvency, with intent to defeat, hinder, delay or prejudice his creditors or any one or more of them, is void as against the creditor or creditors injured, delayed or prejudiced.
+[13] It is submitted that this Act, which is similar to the Statute of Elizabeth and other acts, does not render transfers that prefer one creditor over another void, it merely makes them voidable (see Winsor v. The Queen, 91 DTC 1170 and Bank of Montreal v. Bray, (1997), 36 OR (3d) 99. In addition, it is submitted that the act only provides that the transfer is void as against creditors and not entirely void. I do not find this argument helpful in this case.
+[14] There is no doubt that the action taken by the appellant’s father in transferring ownership of the property to the appellant without consideration must be considered, at first sight, as an outright gift to her, however, a closer examination of the facts raises doubts.
+[15] In order to determine whether there was an actual transfer of the property to the appellant, one must determine whether all the essential requirements of a gift are met. In the Canada Revenue Agency (CRA) Interpretation Bulletin IT-209R, a gift is generally defined as a voluntary transfer of property without consideration. The essential requisites of a gift are: intention and capacity of the donor to make the gift; completed delivery to a donee; and acceptance of the gift by the donee. In Ruling 2000-0059963, the CRA acknowledged the effect of a valid disclaimer: the disclaiming party is considered as never having received the proceeds of a disposition.
+[16] The law pertaining to gifts was reviewed by Justice C. Miller in Benquesus v. The Queen, 2006 TCC 193 where he quoted the following at paragraphs 7 and 8 as to the notion of acceptance:
+7 The Respondent argues that the evidence that the children were "generally aware" of the terms of their father's letters to the Foundation is not sufficient to constitute acceptance. The Respondent further suggests there is no coincidental acceptance by the Foundation of the arrangements set forth in Mr. Jacques Benquesus' letters. Yet, the Foundation's behaviour in reflecting the transfer of funds as a loan on its financial statements, and also in following the Appellants' instructions to retain part of the funds as a donation and the balance to be returned to the Appellants, certainly suggests the Foundation accepted the arrangement in Mr. Jacques Benquesus' letters precisely. But it is acceptance of the gift by the Appellants that is at issue. Being "aware at the time that their father transferred the transfers to the Foundation that the transfers had been made" and "generally aware at that time of the terms", combined with providing instructions to the Foundation for charitable donations and to take back monies, clearly point to an acceptance by the Appellants of the gift. The bar is not set particularly high for finding acceptance, as indicated by Professor Ziff in his text "Principles of Property Law" at page 141:
+"Acceptance of a gift involves an understanding of the transaction and a desire to assume title. This is a requirement that is treated with little rigor: in the ordinary case, acceptance is presumed to exist. The donee may rebut that presumption by rejecting or disclaiming the interest."
+8 Also Professor Gillese in her text "Property Law" indicates:
+"In circumstances where the gift is beneficial to the donee, the Courts will normally presume acceptance by the donee. Thus, a valid gift can be made without the donee's knowledge but is subject of the donee's right to unilaterally repudiate upon learning of the gift."
+[17] In Biderman v. The Queen, 2000 DTC 6149, the Federal Court of Appeal reviewed the law on disclaimers as they relate to wills and section 160 of the Act. Mr. Justice Létourneau made detailed remarks in that respect and the relevant passages may be usefully quoted:
+9 Secondly, the Tax Court judge found that Mr. Biderman had not truly disclaimed under the will because he benefitted from the assets for almost three years by having a home for himself and his children and because he used the assets to negotiate a deal with Revenue Canada with respect to his debt.
+Did Mr. Biderman validly disclaim his inheritance under the will of the family home?
+10 As previously mentioned, Mr. Biderman executed two disclaimers, one prior to and the other almost three years after his wife's death.
+11 In the context of wills and estates, a disclaimer is the act by which a person refuses to accept an estate which has been conveyed or an interest which has been bequeathed to him or her. Such disclaimer can be made at any time before the beneficiary has derived benefits from the assets [Footnote 3: Re Jung (1979), 99 D.L.R. (3d) 65, at p. 70 (B.C. S.C.). See also Mellows, The Law of Succession, 5th ed., Butterworths, London, 1993, at p. 420; Williams on Wills, The Law of Wills, vol. 1, Butterworths, London, 1995, at p. 480.]. It requires no particular form and may even be evidenced by conduct [Footnote 4: Id.].
+12 In the present instance, the first and informal disclaimer made in 1991 by Mr. Biderman is, I believe, legally ineffective and of no avail to him. Not unlike the civil law in Quebec, the common law requires that a disclaimer in order to be effective be made after the death of the legator, that is to say when the legatee is entitled to inherit. While the Civil Code of Quebec has a specific provision expressly prohibiting a disclaimer with respect to a succession not yet opened [Footnote 5: See art. 631. See also Germain Brière, Le nouveau droit des successions, 2e ed., Wilson et Lafleur Ltée, Montréal, 1997, at p. 115.], the nature of a disclaimer at common law and its retroactive effect to the date of death of the deceased lead to the same result. In Bence v. Gilpin [Footnote 6: (1868) L.R. & Ex. 76.], cited in Re McFaden [Footnote 7: [1937] O.W.N. 404 (O.H.C.).] and in McLean & Kerr v. Hrab [Footnote 8: (1998), 75 O.T.C. 24 (Ont. Gen. Div.).], Kelly, C.B. wrote:
+A disclaimer to be worth anything must be an act whereby one entitled to an estate immediately and before dealing with it renounces it whereby in effect he says: “I will not be the owner of this property”.
+13 There is no entitlement to an estate until it is opened since a testamentary gift can always be revoked until death. Once made, the disclaimer is retroactive to the date of the death of the deceased [Footnote 9: Re Jung (1979), 99 D.L.R. (3d) 65, at p. 70 (B.C. S.C.). See also A.H. Oosterhoff on Wills and Succession, 4th ed., Carswell, Toronto, 1995, at p. 492; Williams on Wills, The Law of Wills, vol. 1, Butterworths, London, 1995, at p. 481.].
+14 Moreover, the subsequent conduct of Mr. Biderman is wholly inconsistent with his disclaimer. While he purported to renounce both the gift and the powers of administration, he began and continued to act subsequently to it as executor to his wife's estate. In such capacity, he probated the will on May 15, 1992 [Footnote 10: Appeal Book, tabs 7 and 20, at p. 134.]. Furthermore, he signed on October 6, 1994, the Transfer/Deed of Land with respect to the family home [Footnote 11 : Id.,tab 9.] as well as a Transfer of the shares and a Declaration of transmission of those shares on September 30, 1994 [Footnote 12: Id., tabs 12 and 13.] .
+[18] At the end of his decision, Justice Létourneau made the following remarks about section 160 of the Act and disclaimers, and the relevant case law:
+45 However, the situation is different in the case of a valid disclaimer of a gift. The disclaimer is retroactive to the date of death of the deceased [Footnote 34: Re Jung, supra, note 3, 65, at p. 70 (B.C. S.C.); Mellows, supra, note 3, at p. 420. See also under footnote 9.]. As stated in Sembaliuk et al. v. Sembaliuk [Footnote 35: (1984), 15 D.L.R. (4th) 303, at pp. 309-310 (Alta C.A.).], the nature of a valid disclaimer is such that the gift is never accepted:
+There is no donee of a disclaimed gift in a real sense. The bequest lapses. It may go to the creditors or other claimants, it may go to other beneficiaries, or it may go to a residuary beneficiary.
+46 Therefore, the intended beneficiary is not the owner of the gift because of the valid disclaimer and the disclaimed gift is not his to transfer or give. In other words, “a disclaimer operates by way of avoidance and not by way of disposition” [Footnote 36: Re Paradise Motor Co. Ltd., [1968] 2 All. E.R. 625, at p. 632 (C.A.).]. This statement of the law by the English Court of Appeal was accepted by the Alberta Court of Appeal in the Sembaliuk case and leave of appeal to the Supreme Court of Canada was refused on February 18, 1985. A disclaimer does not involve a vesting and divesting of property. Consequently, where there is a valid disclaimer, there is, in my view, no transfer of property, direct or indirect, and paragraph 160(1)(c) cannot apply to the person who so disclaims.
+47 If we were to accept the contention of the respondent, we would arrive at an unfair if not absurd result. A tax debtor would not be able to execute a valid disclaimer before the death of his spouse. Nor would he be able to execute one after because he could never disclaim his right to inherit the property. Such right which has the net value of the property would be transferred and such transfer would be caught by subsection 160(1). The overall effect of this contention is to radically alter the common law by deeming that a person has taken an interest in an estate against his or her will while judicial precedents clearly state that “the law is not so absurd as to force a man to take an estate against his will” [FOOTNOTE 37: Townson v. Tickell (1819), 3 B & Ald. 31, 106 E.R. 575, at 576-577 (K.B.); Bence v. Gilpin (1868), L.R. & Ex. 76, at p. 82.]. As a result, the residuary beneficiary under the will, within the limits of subsection 160(1), becomes liable to pay the taxes owed by the tax debtor who disclaimed the gift.
+48 The respondent relied upon two old English cases to support her contention that the appellants had a right up to the moment of disclaimer: Re Stratton's Deed of Disclaimer, Stratton and Others v. Inland Revenue Commissioners [Footnote 38: [1957] 2 All. E.R. 594 (C.A.).] and Re Parsons, Parsons v. Attorney-General [Footnote 39: [1942] All. E.R. Annotated 496 (C.A.).]. With respect, I do not think that those cases are of much assistance to her.
+49 The Parsons case dealt with the issue as to whether the husband was “competent to dispose” of the legacy within the meaning of paragraph 22(2)(a) of the Finance Act, 1894, during the period between the death of the testatrix and the date of the disclaimer by the husband. The Court of Appeal was required to interpret the words “competent to dispose” which, in the context of a deeming provision, were to be given, the Court said, their broad and popular meaning. Therefore, the husband was found competent to dispose by disclaimer. The Court expressly stated that their interpretation of these words had nothing to do with the law on disclaimer of legacies which holds that a person has no estate in a disclaimed legacy and that the gift is void ab initio [Footnote 40: Id., at p. 497. See also the Editorial Note at p. 496.] .
+50 In Stratton's Deed of Disclaimer, the Court of Appeal relied upon the decision in Re Parsons. Again, the Court had to interpret a specific provision (subsection 45(2) of the Finance Act, 1940) which imputed to the deceased, for estate duty purposes, a disposition in favour of the person for whose benefit the right was extinguished. In that specific context, it was found that a disposition included a disposition by waiver because it extinguished the right of the person who executed the disclaimer. The peculiarity and the specificity of the context is illustrated by this statement of Jenkins, L.J., at p. 602, where he wrote:
+It might be said to be, to say the least, anomalous that a benefit conferred by transfer should be dutiable in the event of the donor's death within five years, while a precisely similar benefit conferred by disclaimer should not attract duty on the death of the disclaiming party however soon after the date of the disclaimer that event might occur.
+51 As the Tax Appeal Board rightly noted in Plaxton v. M.N.R. [FOOTNOTE 41: 60 DTC 38, at p. 41.], these two cases were dealing with a section of an English statute that has no counterpart in Canadian corresponding statutes. With respect to the Stratton's Deed of Disclaimer case, the Alberta Court of Appeal in Sembaliuk, supra, noted that the English Court of Appeal was careful to use the term 'extinguish' rather than a term implying any conveyance or transfer.
+52 I believe it would take a much more specific and a much clearer provision than the actual subsection 160(1) in order to effect the drastic change sought by the respondent.
+[19] The Federal Court of Appeal makes it clear that failed testamentary gifts are not caught by section 160 and that the section does not alter the common law. There is nothing in section 160 that indicates that different rules or potential alteration of the common law applies to different types of transfers such that its application to inter-vivos gift should be the same as to testamentary gifts. A transfer of an inter-vivos gift must be a completed transfer, not a failed or void transfer; intent and delivery by and of one party alone is insufficient. In my opinion, section 160 should not be read as to apply to a failed inter-vivos gift. If a gift lacks any of the three requirements, it is void ab initio. In the case at bar, what is asserted is that there was no knowledge or acceptance of the gift and once the gift was known, it was repudiated within an acceptable time by transferring back the property to her father. In my opinion, this transfer back constitutes, in these circumstances, a valid disclaimer and, as such, there was no transfer, direct or indirect of the property; hence paragraph 160(1)(c) cannot apply to the Appellant. The word "dealing" in subsection 160(c) of the Act connotes actual action and not a state of relationship. In my view, that provision will not apply unless there is knowledge on the part of the transferee. Therefore, the transfer in issue herein is not caught by section 160.
+[20] The appeal is allowed with costs.
+Signed at Ottawa, Canada, this 30th day of September 2011.
+« François Angers »
+Angers J.
+CITATION: 2011 TCC 323
+COURT FILE NO.: 2010-482(IT)G
+STYLE OF CAUSE: Michelle Leclair v. Her Majesty the Queen
+PLACE OF HEARING: Saskatoon, Saskatchewan
+DATE OF HEARING: June 14, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: September 30, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Peter V. Abrametz
+Counsel for the Respondent:
+Ainslie Schroeder
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Peter V. Abrametz
+Firm: Eggum Abrametz & Eggum
+Prince Albert, Saskatchewan
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

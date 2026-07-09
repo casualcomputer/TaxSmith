@@ -1,0 +1,226 @@
+---
+title: "Kaegi c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28909/index.do"
+last_modified: "2008-10-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 566"
+citation2: ""
+neutral_citation: "2008 CCI 566"
+decision_date: "2008-10-07"
+language: "fr"
+item_id: "28909"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1417
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:19:10.356000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "44357e4cb677d6cd5aec3c9eae893cc5c0d6439bf4231b7a0192153dc895220a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kaegi c. La Reine
+
+- Citation: 2008 CCI 566
+- Decision date: 2008-10-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1417, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kaegi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-10-07
+Référence neutre
+2008 CCI 566
+Numéro de dossier
+2007-4500(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4500(IT)I
+ENTRE :
+STEPHEN KAEGI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 16 juillet 2008, à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelant :
+Me Peter Aprile
+Avocate de l’intimée :
+Me Bonnie Boucher
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004 et 2005 sont accueillis avec dépens, le montant y afférent étant fixé à 500 $, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant a le droit de déduire des pertes d’entreprise de 30 793 $, de 29 138 $ et de 22 972 $ respectivement.
+Signé à Ottawa, Canada, ce 7e jour d’octobre 2008.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 26e jour de novembre 2008.
+S. Tasset
+Référence : 2008 CCI 566
+Date : 20081007
+Dossier : 2007-4500(IT)I
+ENTRE :
+STEPHEN KAEGI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] M. Stephen Kaegi interjette appel, sous le régime de la procédure informelle, de la cotisation établie par le ministre du Revenu national (le « ministre ») pour ses années d’imposition 2003, 2004 et 2005. Le ministre a refusé la déduction de pertes d’entreprise demandée par M. Kaegi, de 30 793 $, 29 138 $ et 22 972 $ respectivement, pour ces années‑là. Le fondement des cotisations, que l’agent des appels qui a rédigé la réponse à l’avis d’appel du ministre a confirmé dans son témoignage, était que M. Kaegi n’exploitait pas d’entreprise et qu’il n’avait donc aucune source de revenu. Les parties ont clairement fait savoir au départ que c’était la seule question en litige et que le caractère raisonnable des dépenses (article 67 de la Loi de l’impôt sur le revenu)[1] ou la question de savoir s’il s’agissait de frais personnels ou de subsistance (alinéa 18(1)h) de la Loi) n’étaient pas en litige, même si ces dispositions étaient mentionnées dans la réponse. Dans sa réponse, le ministre a libellé la question en litige comme suit :
+[traduction]
+14 Il s’agit de savoir si l’appelant a le droit de déduire les pertes d’entreprise qu’il a déduites à titre de musicien dans le calcul de son revenu pour les années d’imposition 2003, 2004 et 2005.
+[...]
+16 Il soutient que, pendant la période pertinente, l’appelant se livrait à une initiative personnelle et à une activité non commerciale à l’égard de sa présumée entreprise musicale.
+17 Il soutient respectueusement que la présumée entreprise musicale de l’appelant ne constitue pas une source de revenu et que les dépenses que le ministre a refusées n’étaient pas des dépenses engagées en vue de tirer un revenu d’une entreprise ou d’un bien puisque l’appelant n’exploitait pas d’entreprise ou n’exerçait pas d’activité commerciale dans le cadre de l’entreprise musicale et qu’il a à juste titre fait l’objet d’une nouvelle cotisation pour les années d’imposition 2003, 2004 et 2005 conformément aux articles 3, 4 et 9 ainsi qu’aux alinéas 18(1)a) et h) de la Loi.
+[2] Pour les motifs ci‑après énoncés, je conclus que l’appelant a le droit de déduire ces pertes d’entreprise pour les années 2003, 2004 et 2005.
+Les faits
+[3] En 1997, M. Kaegi et sa femme ont tenté leur chance en vue de se faire un nom et de faire fortune à titre de musiciens. Mme Kaegi (professionnellement connue sous le nom d’Elise Dallaire) avait de l’expérience en matière de chant et de composition. M. Kaegi était agent administratif en chef du canton d’Archipelago. M. et Mme Kaegi étaient associés dans cette nouvelle initiative. Mme Kaegi fournissait le talent créateur et musical et M. Kaegi agissait comme bailleur de fonds et gérant. Ils ont témoigné avoir conclu une entente écrite par laquelle M. Kaegi payait les dépenses, qu’il devait récupérer à l’aide des recettes, les bénéfices étant par la suite répartis entre Mme Kaegi et lui‑même dans une proportion de 75 p. 100 et de 25 p. 100 respectivement. L’entente écrite n’a pas été produite à l’instruction.
+[4] M. Kaegi a commencé à faire des recherches sur l’industrie de la musique. Il a communiqué avec Socan, des studios et d’autres artistes. Il a eu l’impression qu’il était difficile de percer dans l’industrie de la musique au Canada. Il estimait qu’il fallait de dix à vingt ans pour se faire connaître. En 1997, les Kaegi ont produit leur premier disque compact (le « DC »), constitué de chansons composées et interprétées par Mme Kaegi. Un deuxième DC a été produit en 1999. Les Kaegi ont eu recours au même promoteur pour ces deux premiers DC, une organisation connue sous le nom de Hillcrest. L’organisation faisait parvenir les chansons à des stations de radio partout en Amérique du Nord et en Europe afin d’obtenir le plus d’exposition ou de temps d’écoute possible. Les Kaegi ont changé de promoteur après la production du deuxième DC et se sont adressés à une organisation appelée Comstar.
+[5] M. Kaegi était chargé de fournir les fonds nécessaires à l’entreprise et de gérer le côté « affaires » en traitant avec les promoteurs, les studios, les stations de radio, en créant un site Web, en s’occupant de la conception et ainsi de suite, alors que Mme Kaegi s’occupait de composition et d’interprétation.
+[6] En 2001, deux événements importants se sont produits : l’Agence du revenu du Canada (l’« ARC ») a procédé à une vérification des dossiers de M. Kaegi, et un incendie s’est déclaré chez les Kaegi, de sorte que leur travail a en bonne partie été détruit. L’ARC a conclu qu’en 1998 et en 1999, M. Kaegi en était à la phase de démarrage d’une entreprise, et elle a admis les pertes d’entreprise que celui‑ci avait déduites.
+[7] Pour les années 1997 à 2005, M. Kaegi a déclaré les montants suivants :
+Recettes
+Dépenses
+Pertes déduites
+1997
+Néant
+26 286 $
+26 286 $
+1998
+Néant
+23 272 $
+23 272 $
+1999
+Néant
+30 457 $
+30 457 $
+2000
+Néant
+22 264 $
+22 264 $
+2001
+Néant
+8 109 $
+8 109 $
+2002
+Néant
+10 533 $
+10 533 $
+2003
+Néant
+30 793 $
+30 793 $
+2004
+Néant
+29 138 $
+29 138 $
+2005
+597 $
+23 569 $
+22 972 $
+Total des pertes déduites pour neuf années
+203 824 $
+[8] Étant donné que les deux premiers DC n’avaient produit aucune redevance et ne s’étaient pas vendus et compte tenu des pertes subies lors de l’incendie, les Kaegi ont décidé d’adopter une nouvelle approche pour leur projet musical. Comme M. Kaegi l’a dit, ils avaient atteint un plateau. Ils ont décidé de passer de la musique country et western plus traditionnelle à la musique folklorique historique, en créant des chansons au sujet de navires et de naufrages dans la région des Grands lacs. Ils ont effectué des recherches et ils ont décidé de créer un DC d’une nature folklorique historique, lequel a été produit en 2004; le DC était intitulé « Date with Destiny ». M. Kaegi a également eu l’idée de distribuer le DC avec de petites maquettes de bateaux en bois.
+[9] M. Kaegi a témoigné que les chansons de sa femme obtenaient un bon temps d’écoute en Amérique du Nord et à l’étranger; il a fourni des listes d’écoute de diverses années à l’appui de sa position. Les chansons n’ont pas connu de succès financier, mais il estimait que le temps d’écoute obtenu était en quelque sorte un succès.
+[10] M. Kaegi a également soumis un certain nombre d’articles et de critiques au sujet des DC de Mme Kaegi, ainsi que des spectacles qu’elle avait présentés. Afin de promouvoir la nouvelle approche fondée sur le folklore historique, les Kaegi ont communiqué avec des musées et avec des ports de plaisance partout dans la région des Grands lacs. M. Kaegi a créé une brochure promotionnelle. Mme Kaegi a donné des spectacles. Les Kaegi ont ouvert un kiosque trois jours par semaine sur le quai de Parry Sound. Ils ont communiqué avec Sobeys, ils ont créé des affiches et ils ont également élaboré une page Web. Les réactions favorables encourageaient M. Kaegi, mais aucune vente ni aucune redevance n’en a découlé. Toutefois, d’après leurs témoignages, les occasions de se faire connaître étaient clairement la clé du succès. Ils croyaient tous deux que ces occasions mèneraient à un contrat sous une étiquette d’enregistrement connue, ou qu’un artiste bien connu adopterait l’une des chansons de Mme Kaegi.
+[11] Les Kaegi ont produit un quatrième DC en 2006. M. Kaegi a indiqué que les ressources qu’il pouvait consacrer à l’entreprise n’étaient pas inépuisables; il croyait pouvoir continuer à financer l’entreprise pendant une ou deux autres années seulement. Les Kaegi avaient encore de l’espoir.
+Analyse
+[12] L’argument avancé par l’intimée était que, bien que le gouvernement eût autorisé M. Kaegi à déduire des pertes pour les trois premières années d’exploitation de l’entreprise, les activités duraient maintenant depuis bien des années sans pour autant être rentables et que M. Kaegi ne peut donc pas exploiter une entreprise : son activité peut uniquement être considérée comme une initiative personnelle. Lorsqu’on lui a demandé de décrire la nature personnelle de l’initiative, la Couronne a répondu que M. Kaegi voulait faire le bonheur de sa femme. Or, ni M. Kaegi ni sa femme n’ont démontré que les dépenses de 200 000 $ engagées sur une période de neuf ans visaient à faire le bonheur de Mme Kaegi; de plus, je conclus que cette thèse pourrait empêcher les couples, d’une façon fort déraisonnable, de convaincre le gouvernement qu’ils exploitent une entreprise. L’idée que tous les maris veulent faire le bonheur de leur femme, et vice versa, est peut‑être romantique, en ces jours de nombreux divorces. Cependant, le gouvernement ne saurait nier l’existence d’une entreprise sur cette base, en présence d’une preuve écrasante de commercialité. Lorsque l’avocat de l’appelant lui a demandé avec insistance d’identifier l’initiative personnelle et l’activité non commerciale, l’agent des appels, M. Varden, a uniquement pu signaler l’absence de recettes. Avec égards, je crois que M. Varden ne s’est pas pleinement rendu compte de la portée du raisonnement que la Cour suprême du Canada a fait dans l’arrêt Stewart c. R.[2]. Il s’agissait de l’unique décision invoquée par la Couronne.
+[13] Dans l’arrêt Stewart, la Cour suprême du Canada a dit ce qui suit :
+50 Il est manifeste que, pour que l’art. 9 s’applique, le contribuable doit d’abord déterminer s’il a une source de revenu constituée soit d’une entreprise, soit d’un bien. Comme nous l’avons vu, une activité commerciale qui ne constitue pas véritablement une entreprise peut néanmoins être une source de revenu constituée d’un bien. De même, il est clair que certaines démarches de contribuables ne sont ni des entreprises, ni des sources de revenu constituées d’un bien, mais sont uniquement des activités personnelles. On peut recourir à la méthode à deux volets suivante pour trancher la question de l’existence d’une source :
+(i) L’activité du contribuable est‑elle exercée en vue de réaliser un profit, ou s’agit‑il d’une démarche personnelle?
+(ii) S’il ne s’agit pas d’une démarche personnelle, la source du revenu est‑elle une entreprise ou un bien?
+Le premier volet du critère vise la question générale de savoir s’il y a ou non une source de revenu; dans le deuxième volet, on qualifie la source d’entreprise ou de bien.
+51 Assimiler la « source de revenu » à une activité exercée « en vue de réaliser un profit » concorde avec la définition traditionnelle du mot « entreprise » qui est donnée en common law, à savoir [traduction] « tout ce qui occupe le temps, l’attention et les efforts d’un homme et qui a pour objet la réalisation d’un profit » : Smith, précité, p. 258; Terminal Dock, précité. De même, la distinction entre le revenu tiré d’une entreprise et le revenu tiré d’un bien repose généralement sur le fait qu’une entreprise exige un niveau d’activité plus élevé de la part du contribuable : voir Krishna, op. cit., p. 240. Il est donc logique de conclure qu’une activité exercée en vue de réaliser un profit, quel que soit le niveau d’activité du contribuable, sera une source de revenu constituée soit d’une entreprise, soit d’un bien.
+52 Ce premier volet du critère vise simplement à établir une distinction entre les activités commerciales et les activités personnelles et, comme nous l’avons vu, il se peut fort bien que telle ait été à l’origine l’intention du juge Dickson lorsqu’il a mentionné l’« expectative raisonnable de profit » dans l’arrêt Moldowan. Vus sous cet angle, les critères énoncés par le juge Dickson représentent une tentative de dresser une liste objective de facteurs permettant de déterminer si l’activité en cause est de nature commerciale ou personnelle. Ces facteurs sont ce que le juge Bowman a qualifié d’« indices de commercialité » ou de « caractéristiques commerciales » : Nichol, précité, par. 13. Ainsi, lorsque la nature de l’entreprise du contribuable comporte des aspects indiquant qu’elle pourrait être considérée comme un passe‑temps ou une autre activité personnelle, mais que l’entreprise est exploitée d’une manière suffisamment commerciale, cette entreprise sera considérée comme une source de revenu aux fins d’application de la Loi.
+53 Nous soulignons que ce critère de l’existence d’une source « en vue de réaliser un profit » ne doit faire l’objet d’une analyse que dans les situations où l’activité en cause comporte un aspect personnel ou récréatif. En toute déférence, nous estimons que les tribunaux ont commis une erreur, dans le passé, en appliquant le critère de l’ERP à des activités comme l’exercice du droit et la restauration qui ne comportent aucun aspect personnel de cette nature : voir, par exemple, Landry, précité; Sirois, précité; Engler c. Canada, [1994] A.C.F. no 483 (QL) (1re inst.). Lorsqu’une activité est clairement de nature commerciale, il n’est pas nécessaire d’analyser les décisions commerciales du contribuable. De telles démarches comportent nécessairement la recherche d’un profit. Il existe donc par définition une source de revenu et il n’est pas nécessaire de pousser l’examen plus loin.
+[14] Par conséquent, la première étape de l’examen, dans un cas de ce genre, consiste à déterminer si l’activité est de nature commerciale ou si elle est de nature personnelle. Les indices de commercialité permettent de le déterminer. Le succès ou l’échec de l’entreprise, déterminé par les bénéfices, n’est pas en cause à ce stade de l’examen. Les facteurs objectifs mentionnés par la Cour suprême du Canada, à savoir l’état des profits et pertes pour les années antérieures, la formation du contribuable, la voie sur laquelle il entend s’engager et la capacité de réaliser un profit entrent uniquement en ligne de compte en présence d’une démarche personnelle. La Cour suprême du Canada a également mis l’accent sur la distinction à établir entre la réalisation d’un profit, critère applicable aux activités qui comportent un élément personnel, et les déductions précises que le contribuable pourrait associer à la source de revenu. L’examen des déductions précises est uniquement effectué s’il existe une source de revenu d’entreprise. Or, cette dernière question n’est pas en cause en l’espèce. De fait, on ne m’a soumis aucun renseignement précis au sujet de la nature des dépenses.
+[15] En procédant à l’étape initiale de l’analyse, à savoir s’il existe un élément personnel exigeant un examen plus approfondi du critère fondé sur la réalisation d’un profit, je tiens compte de la nature de l’activité en cause – l’industrie de la musique. À cet égard, il est utile de tenir compte des remarques que l’ancien juge en chef Bowman a faites dans un certain nombre de décisions, à commencer par la décision Donyina v. Canada[3] :
+Les décisions quant à savoir quand lancer une entreprise et quand l’abandonner sont des décisions d’ordre commercial dans lesquelles ni les autorités fiscales ni le tribunal ne doivent intervenir (Nichol). Néanmoins, si des pertes continuent d’être subies année après année pendant une période excessive, il faut tôt ou tard appliquer le principe selon lequel " trop, c’est trop " et considérer que ce qui pourrait avoir été une entreprise viable s’est révélé avec le temps un cas désespéré et que la meilleure chose à faire de cette entreprise est d’y mettre fin convenablement. Il faut toutefois considérer avec beaucoup de respect la décision d’un homme d’affaires de maintenir une entreprise.
+[16] De plus, dans la décision Tramble v. R.[4], l’ancien juge en chef Bowman a dit ce qui suit, en faisant des remarques au sujet de ce qu’il avait dit dans la décision Donyina :
+6 Cet énoncé est probablement assez pertinent en soi pour servir de ligne directrice dans la pratique – je n’avais certes pas l’intention d’en faire un principe de droit –, mais il convient de l’appliquer avec précaution et de tenir compte de la nature de l’entreprise dont il est question. La personne qui exerce des activités artistiques doit parfois y consacrer sa vie entière avant de devenir un artiste réputé. Nous avons tous entendu parler d’artistes et de compositeurs qui sont morts sans le sou et dont l’œuvre n’a été reconnue par les générations suivantes que longtemps après qu’ils ont quitté ce monde.
+[17] De plus, dans la décision Bodanis v. R.[5], l’ancien juge en chef Bowman a fait les remarques suivantes :
+14 [...] Les affaires concernant les musiciens sont particulièrement difficiles à trancher pour deux ou trois raisons. D’abord, il est toujours possible qu’un élément personnel soit en jeu en raison de la nature même de l’activité artistique. Tel qu’il est mentionné ci‑dessus, ce facteur n’est pas fatal. Le fait qu’une personne tire un certain plaisir de son travail n’empêche pas celui‑ci d’être une entreprise. Néanmoins, la possibilité que l’activité soit surtout un loisir personnel est un facteur dont la Cour doit être consciente et qui s’ajoute aux difficultés liées à l’examen de ce genre de situation. En deuxième lieu, comme je l’ai mentionné dans l’affaire Leblanc, l’industrie de la musique traverse une période difficile au Canada. À côté de chaque artiste, musicien ou compositeur qui gagne beaucoup d’argent, nombreux sont ceux qui peuvent à peine subvenir à leurs besoins ou doivent se trouver d’autres formes de travail pour soutenir leurs activités musicales. À mon avis, la Cour devrait examiner très soigneusement les appels interjetés par les musiciens qui ne sont pas chanceux ou qui souffrent des problèmes actuels que connaît l’industrie de la musique.
+[18] Après avoir effectué ce bref examen de la jurisprudence, j’examinerai maintenant la position que M. Kaegi a prise. Il ressort clairement de son témoignage et de celui de sa femme qu’ils étaient associés dans cette entreprise. Ils affirment qu’il existait une entente écrite depuis 1997, laquelle a été détruite lorsqu’un incendie a ravagé leur maison, en 2001. Ils ont formellement fait enregistrer la société de personnes en 2004. M. et Mme Kaegi se livraient ensemble à l’activité en question – Mme Kaegi s’occupait du côté créateur artistique et M. Kaegi s’occupait du côté financier et de la gestion. Il n’y avait pas deux activités distinctes : il s’agissait d’une seule activité. Cette activité était la création, la production et la distribution des chansons de Mme Kaegi; ils voulaient obtenir des redevances, vendre des DC, signer un contrat avec un gros studio d’enregistrement ou vendre une chanson à une vedette pour qu’elle l’enregistre. Selon le témoignage de M. Kaegi, et compte tenu de l’examen de leur rendement à ce jour, il semblait peu probable que la vente de DC produise des bénéfices élevés; il était possible que certains bénéfices soient réalisés grâce aux redevances, mais en fin de compte ils gagnaient le magot s’ils signaient un contrat ou amenaient une vedette à chanter l’une des chansons de Mme Kaegi.
+[19] J’ai demandé aux parties si la conclusion que j’avais tirée, à savoir qu’il existait une société de personnes, avait une incidence sur leurs arguments. Plus précisément, un associé pouvait‑il demander la déduction de la totalité des pertes? Ni l’une ni l’autre partie n’était prête à débattre la question. J’ai par la suite demandé des observations écrites sur ce point; j’y reviendrai à la fin des présents motifs.
+[20] L’activité de M. Kaegi comportait‑elle un élément personnel, ou existait‑il suffisamment d’indices de commercialité pour qu’il soit inutile de se pencher sur la question de la réalisation d’un profit? Je suis convaincu que les activités de M. Kaegi comportaient uniquement un aspect commercial et qu’il ne s’agissait pas d’une démarche personnelle. J’ai déjà fait certaines remarques au sujet du fait que l’idée de faire le bonheur de sa femme était l’élément personnel – cela ne sert tout simplement à rien. La Couronne n’a identifié aucun autre élément personnel. Je soupèse la chose par rapport aux indices suivants de commercialité :
+· La production même de quatre DC, de 1998 à 2006, toutes les chansons ayant été composées par Mme Kaegi;
+· la diffusion de chansons pour qu’elles aient un temps d’écoute à la radio en Amérique du Nord et à l’étranger;
+· la préparation de documents promotionnels pour les spectacles et les DC;
+· la publicité;
+· les communications avec des maisons de disques et des promoteurs;
+· la création d’une page Web;
+· les communications avec des musées et des groupes historiques au sujet du DC intitulé « A Date with Destiny »;
+· les spectacles présentés dans le cadre de salons du foyer et d’autres festivals;
+· en 2005, la dotation en personnel d’un kiosque sur le quai de Parry Sound, trois jours par semaine, aux fins de la promotion du DC et de la vente de bateaux en bois;
+· la demande de subventions présentée au Conseil des arts de l’Ontario;
+· une soumission au programme des prix de musique et de film du Nord de l’Ontario.
+[21] J’aimerais faire certaines remarques au sujet du dilemme devant lequel le gouvernement se trouve en décidant si des artistes exploitent de fait une entreprise. Lors de la première vérification des dossiers de M. Kaegi, le gouvernement a conclu que celui‑ci exploitait une entreprise au cours des premières années de l’initiative, mais à l’étape du démarrage. Au fil des ans, en l’absence de recettes, la position prise par le gouvernement a changé. Il s’était écoulé trop de temps pour qu’il soit possible de considérer l’initiative comme étant encore à la phase de démarrage de l’entreprise. Par conséquent, le gouvernement conclut qu’à l’heure actuelle, l’initiative peut uniquement être considérée comme étant de nature personnelle. Je rejette l’approche « trop, c’est trop » en l’espèce, et ce, pour deux raisons. En premier lieu, il ressortait clairement des remarques précitées du juge en chef Bowman que le musicien qui essaie de percer dans l’industrie de la musique se trouve aux prises avec un délai différent. M. Kaegi a reconnu que, d’après les recherches qu’il avait effectuées, il n’était pas inhabituel pour un artiste qu’il faille de dix à vingt ans pour s’établir. Mme Kaegi et lui sont encore dans cette période et M. Kaegi a témoigné être prêt à soutenir cette activité pendant une ou deux autres années seulement. Il lui appartient de prendre cette décision commerciale, une décision qui, dans l’industrie de la musique, ne semble pas déraisonnable.
+[22] En second lieu, je conclus que les Kaegi ne sont pas encore aux prises avec le principe « trop, c’est trop » parce que, selon moi, ils ont essayé de changer de cap en 2002 afin de tenter d’accaparer un marché différent – le marché des chansons historiques. Au cours des années en question, ils en étaient encore aux premières étapes de la commercialisation de cette nouvelle approche inédite. La chose pourrait être considérée comme l’étape de démarrage d’une nouvelle entreprise musicale, qui pourrait fort bien être encore considérée comme se trouvant à la phase de démarrage, conformément à la vérification antérieure effectuée par l’ARC.
+[23] Pour ces motifs, je conclus que M. Kaegi exploitait une entreprise qui donnait lieu à une source du revenu.
+[24] Le ministre a établi une cotisation à l’égard de M. Kaegi; il a libellé la question de façon à empêcher toute analyse de la nature des dépenses qui ont suscité les pertes. Le ministre se demande simplement si l’appelant a le droit de déduire les pertes alléguées pour le motif que celui‑ci exploitait une entreprise. Je conclus que l’appelant exploitait une entreprise. L’appelant a le droit de déduire les pertes. L’avocate du ministre a soutenu au départ que, si je concluais à l’existence d’une entreprise, il était loisible au ministre d’établir une nouvelle cotisation en invoquant l’article 67 et l’alinéa 18(1)h) de la Loi. Avec égards, les plaidoiries du ministre semblent avoir éliminé cette possibilité. Le ministre n’a pas soulevé la question de savoir s’il existait une entreprise et, dans l’affirmative, si les dépenses étaient déductibles. J’ai répondu par l’affirmative à la question de savoir si M. Kaegi a le droit de déduire les pertes. Cela devrait mettre un point final à l’affaire en ce qui concerne les années en question.
+[25] Puisque je suis arrivé à cette conclusion, le fait que l’ARC n’a pas abordé la question de savoir si M. et Mme Kaegi exerçaient leurs activités dans le cadre d’une société de personnes me trouble. M. Kaegi a déclaré son revenu à titre de propriétaire et c’est uniquement sur cette base que l’ARC a conclu qu’il n’exploitait pas une entreprise (c’est‑à‑dire qu’il n’avait pas de source de revenu). Après avoir entendu les témoignages de M. et de Mme Kaegi, il ne m’est pas difficile de conclure à l’existence d’une entreprise et de conclure en outre que l’entreprise était exploitée dans le cadre d’une société de personnes. J’ai donc demandé aux parties de soumettre des observations écrites au sujet de la façon dont une conclusion à l’existence d’une société de personnes pourrait influer sur la détermination des pertes de M. Kaegi. Je n’ai pas à aller plus loin que les observations de l’intimée, qui a dit qu’il ne m’était pas loisible de trancher l’affaire sur la base de l’existence d’une société de personnes et que, de toute façon, il n’existait pas suffisamment d’éléments de preuve à l’appui d’une telle conclusion. La Couronne a soutenu qu’en parlant d’une société de personnes, je dois avoir voulu dire [traduction] « conjointement, dans le cadre d’une association informelle, d’une coentreprise ou dans la poursuite du même objectif ». Ce n’est pas ce que j’ai voulu dire.
+[26] Il s’agit d’une affaire régie par la procédure informelle. On peut conduire un cheval à l’abreuvoir, mais non le forcer à boire. Si la Couronne adopte encore la position selon laquelle l’affaire doit uniquement être tranchée compte tenu de la question de savoir si M. Kaegi avait une source de revenu, une entreprise, je suis prêt à trancher l’affaire sur cette base. L’appel est accueilli et l’affaire est renvoyée au ministre pour nouvelle cotisation compte tenu du fait que M. Kaegi a droit à la déduction de ses pertes d’entreprise pour les années 2003, 2004 et 2005, de 30 793 $, 29 138 $ et 22 972 $ respectivement, ainsi qu’aux frais et dépens, d’un montant de 500 $.
+Signé à Ottawa, Canada, ce 7e jour d’octobre 2008.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 26e jour de novembre 2008.
+S. Tasset
+RÉFÉRENCE : 2008 CCI 566
+No DU DOSSIER DE LA COUR : 2007-4500(IT)I
+INTITULÉ : STEPHEN KAEGI
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 16 juillet 2008
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 7 octobre 2008
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Peter Aprile
+Avocate de l’intimée :
+Me Bonnie Boucher
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Peter Aprile
+Cabinet : Fitzimmons & Company
+Toronto (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. 1985, ch. 1 (5e suppl.), dans sa forme modifiée.
+[2] 2002 CSC 46.
+[3] [2001] 3 C.T.C. 2741.
+[4] [2001] 4 C.T.C. 2160.
+[5] [2002] 3 C.T.C. 2064.

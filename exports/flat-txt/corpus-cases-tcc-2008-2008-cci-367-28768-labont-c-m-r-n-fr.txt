@@ -1,0 +1,116 @@
+Title: Labonté c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28768/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-367-28768-labont-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-07-14
+
+# Labonté c. M.R.N.
+
+- Citation: 2008 CCI 367
+- Decision date: 2008-07-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1555, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Labonté c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-07-14
+Référence neutre
+2008 CCI 367
+Numéro de dossier
+2007-4317(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-4317(EI)
+ENTRE :
+ROGER LABONTÉ,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 9 juin 2008, à Frédéricton (Nouveau-Brunswick).
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentant de l'appelant :
+Gérard St-Pierre
+Avocate de l'intimé :
+Me Nathalie Khlat
+____________________________________________________________________
+JUGEMENT
+L'appel de la détermination du ministre du Revenu national, à l'effet que l’appelant n’occupait pas un emploi assurable au sens de l’alinéa 5(2)i) de la Loi sur l'assurance‑emploi, auprès de Entreprise RTL & Fils Ltée du 30 octobre 2006 au 16 mars 2007, est rejeté, selon les motifs du jugement ci-joints.
+Signé à Edmundston, (Nouveau-Brunswick), ce 14e jour de juillet 2008.
+« François Angers »
+Juge Angers
+Référence : 2008CCI367
+Date : 20080714
+Dossier : 2007-4317(EI)
+ENTRE :
+ROGER LABONTÉ,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] L’appelant porte en appel la détermination du ministre du Revenu national (le « ministre ») voulant que l’emploi qu’il a occupé au sein de la société Entreprise RTL & Fils Ltée (la « payeuse ») du 30 octobre 2006 au 16 mars 2007 n’était pas un emploi assurable puisque l’appelant et la payeuse ont entre eux un lien de dépendance au sens de l’alinéa 5(2)i) de la Loi sur l’assurance-emploi (la « Loi »).
+[2] Le lien de dépendance entre l’appelant et la payeuse est admis. L’épouse de l’appelant est la seule actionnaire de la payeuse. Son entreprise exploite une salle de quilles de 8 pistes dont l’acquisition a été faite en novembre 2005. Avant cette acquisition, l’appelant était le propriétaire de l’entreprise, mais il y travaillait très peu étant donné qu’il fournissait ses services à une autre entreprise. Connaissant des difficultés financières qui le mena à une faillite personnelle, l’appelant a obtenu un emploi auprès de la payeuse en octobre 2006 à titre de mécanicien et de technicien des pistes. Ses tâches comprenaient l’entretien du matériel ainsi que le huilage des pistes et le perçage des boules de quilles.
+[3] La salle de quilles était dirigée par un autre employé, soit Gérald Thériault, depuis 2005. Après l’arrivée de l’appelant, ce dernier est demeuré à l’emploi de la payeuse, mais ses semaines de travail ont été considérablement réduites étant donné que le travail à faire à été confié à l’appelant. Monsieur Thériault demeurait toutefois disponible en cas d’urgence et était appelé à l’occasion et même assez souvent pour régler des problèmes que l’appelant ne pouvait résoudre seul. Selon l’appelant, monsieur Thériault lui a fourni la formation nécessaire.
+[4] L’entreprise de la payeuse était saisonnière. La saison de pointe commençait au mois d’octobre et se terminait au mois d’avril. Les heures d’ouverture étaient de midi à minuit les jeudis et les dimanches, de 19 h à 23 h les lundis et les mardis, de midi à 23 h les mercredis et de midi à 2 h les vendredis et les samedis.
+[5] Durant la période en question, monsieur Thériault a travaillé quatre semaines et, selon l’appelant, pendant cette période monsieur Thériault était son superviseur et il était donc sous ses ordres. L’appelant a éventuellement remplacé monsieur Thériault, quoique ce dernier était toujours disponible puisqu’il aurait travaillé une semaine à la fin de la saison en avril 2007.
+[6] L’appelant a été embauché à un salaire de 750 $ par semaine et devait fournir 50 heures de travail à la payeuse. Selon lui, la payeuse n’exigeait pas qu’il remplisse une feuille de temps, mais il en remplissait une quand même à chaque semaine et la remettait à la payeuse. Sur ces feuilles de temps, on constate que l’appelant travaillait sept jours par semaine et que son horaire variait de 1½ à 13 heures par jour. Je n’ai noté que trois semaines durant la période en question où il aurait eu congé pendant une journée complète. L’appelant était payé par chèques à chaque semaine et il lui arrivait d’encaisser plusieurs chèques à la fois.
+[7] De son côté, monsieur Thériault travaillait 40 heures par semaine à raison de 8 heures par jour et il avait droit à au moins deux jours de congé par semaine en contrepartie d’un salaire de 780 $ par semaine. Il est admis par l’appelant que, pendant l’année civile 2006, monsieur Thériault n’était inscrit au registre de paie de la payeuse que pendant les mois de janvier, de février et de mars. Il est aussi admis par l’appelant qu’avant la période en question et pendant la période du 1er juin 2005 au 1er mars 2006, monsieur Thériault n’a été inscrit au registre de paie de la payeuse que pendant 15 semaines à raison de 40 heures de travail par semaine. Quant à la période en question, les semaines où monsieur Thériault était inscrit au registre de paie sont les semaines se terminant le 13 janvier 2007, le 27 janvier 2007, le 10 février 2007 et le 10 mars 2007.
+[8] Il est également admis par l’appelant que la saison de pointe de la payeuse se termine en avril et que l’appelant a été mis à pied le 16 mars 2007. Selon la payeuse, l’appelant a été mis à pied au motif qu’il y avait une pénurie de travail. Cependant, l’appelant a reconnu que, pendant les deux semaines suivant immédiatement la période en question, aucun employé n’était inscrit au registre de paie de la payeuse, puisque son épouse l’a remplacé et que le nom de monsieur Thériault est inscrit au registre de paie de la payeuse pour la semaine se terminant le 7 avril 2007. De plus, l’appelant a reconnu que la saison de pointe s’est terminée le 15 avril 2007.
+[9] Les feuilles de temps déposées en preuve et comptabilisées par l’appelant indiquent que ce dernier aurait travaillé à partir du 6 octobre 2006 et n’aurait pas comptabilisé son temps durant le mois de novembre 2006. Quant à la dernière semaine, soit celle du 12 mars, il aurait travaillé deux jours de plus que ce qu’indique son relevé d’emploi. Autre fait étrange, les journées indiquées sur ses feuilles de temps pour les semaines d’octobre 2006 ne correspondent pas aux journées du calendrier. À titre d’exemple, le premier jour des semaines commençant les 6, 13, 20 et 27 octobre 2006 est un vendredi alors que les feuilles de temps sur lesquelles les heures sont indiquées commencent par le lundi. En décembre 2006 et par la suite, les feuilles de temps indiquent que la semaine de travail commence le lundi.
+[10] L’épouse de l’appelant, madame Labonté, a également témoigné. À son avis, la saison de pointe se terminait vraiment à la fin mars quoiqu’elle a reconnu que les activités se déroulaient de la fin septembre à la fin avril. Son rôle consistait à s’occuper de l’informatique, de la cantine et d’organiser les différentes ligues de quilles. Elle n’avait que deux employés, soit l’appelant et monsieur Thériault. Elle en avait eu plus avant la période en question, mais elle était admissible à l’époque à de l’aide financière sous forme de subventions pour les salaires. Selon elle, monsieur Thériault et l’appelant étaient payés sur une base horaire à raison de 40 et de 50 heures par semaine respectivement. Aucun avantage social n’était accordé et leurs vacances leur étaient payées. L’appelant, selon elle, a été embauché à la fin d’octobre 2006 et il devait lui fournir sa feuille de temps. Selon la pièce I-2, l’appelant avait commencé à travailler le 30 octobre 2006 et aurait reçu une première paie le 3 novembre 2006. Elle a également déclaré qu’entre octobre 2006 et avril 2007, monsieur Thériault avait travaillé 40 heures par semaine.
+[11] Toujours selon madame Labonté, l’appelant a été congédié le 16 mars 2007 parce que les activités avaient diminué. Elle a elle-même effectué les tâches à accomplir. Quant à monsieur Thériault, il a été appelé en avril pour travailler une semaine, car il y avait ce qu’elle a qualifié de « gros bris » sans élaborer davantage sur le sujet.
+[12] L’appelant avait besoin de 840 heures assurables afin d’avoir droit aux prestations d’assurance-emploi. Selon le relevé d’emploi, il a accumulé 1 000 heures assurables et a travaillé 20 semaines.
+[13] Il incombe donc à l’appelant de démontrer selon la prépondérance des probabilités qu’il occupait chez la payeuse un emploi assurable au sens de la Loi durant la période en question et qu’il n’était donc pas raisonnable pour le ministre de conclure que lui et la payeuse n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu un lien de dépendance compte tenu de toutes les circonstances, soit la rétribution versée, les modalités de l’emploi, la nature et l’importance du travail accompli. Ils seraient alors réputés ne pas avoir de lien de dépendance.
+[14] Les dispositions législatives pertinentes sont les alinéas 5(2)i) et 5(3)b) de la Loi que je reproduis ici.
+5. […]
+Restriction
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+Personnes liées
+(3) Pour l'application de l'alinéa (2)i) :
+[...]
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[15] La position du ministre repose principalement sur le fait que l’appelant remplaçait monsieur Thériault et, pour cette raison, conteste la thèse que l’appelant devait travailler pendant 20 semaines à raison de 50 heures par semaine alors que monsieur Thériault n’avait travaillé que pendant 15 semaines la saison précédente à raison de 40 heures par semaine. Le ministre doute aussi que monsieur Thériault était le patron et qu’il devait superviser et former l’appelant car il n’a travaillé que quatre semaines en tout durant la période en question, soit de la mi-janvier à la mi‑mars 2007. Le ministre met en doute la mise à pied de l’appelant le 16 mars 2007 pour pénurie de travail étant donné que la saison habituelle se termine en avril et que la payeuse a dû embaucher monsieur Thériault pour une semaine en avril 2007. De plus, la feuille de temps de l’appelant indique qu’il aurait travaillé 10 et 9 heures les 17 et 18 mars respectivement, soit deux jours de plus que la date indiquée sur le relevé d’emploi.
+[16] Le ministre ne met cependant pas en question le fait qu’il existait entre l’appelant et la payeuse un contrat de louage de service et que l’appelant a réellement rendu des services à la payeuse. De son côté, l’appelant soutient qu’il a travaillé le nombre d’heures en question et que ses conditions de travail sont acceptables malgré son lien de dépendance avec la payeuse.
+[17] La preuve avancée par l’appelant demeure toutefois nébuleuse sur les points soulevés par le ministre. L’appelant a témoigné qu’il a été embauché pour remplacer monsieur Thériault. La preuve n’indique pas qu’il devait assumer des tâches supplémentaires pouvant ainsi justifier une période d’emploi plus longue, soit 20 semaines au lieu de 15 semaines comme monsieur Thériault. La preuve n’indique pas non plus pourquoi monsieur Thériault pouvait faire son travail en 40 heures par semaine pendant 15 semaines alors que l’appelant avait besoin de 50 heures par semaine pendant 20 semaines. Il devient donc difficile d’expliquer le manque de concordance entre la durée de l’emploi et le nombre d’heures travaillées dans le cas de l’appelant et de celui qu’il devait remplacer. De plus, je dois mettre en doute la déclaration de l’appelant voulant que monsieur Thériault était son patron et son superviseur et qu’il devait transmettre ses connaissances à l’appelant en ce qui concerne les tâches à assumer. Après tout, pendant les 20 semaines de travail de l’appelant monsieur Thériault n’a travaillé que quatre semaines et qu’il n’a commencé qu’à la mi-janvier 2007, soit deux mois après l’embauche de l’appelant. Il me paraît raisonnable de penser que, si monsieur Thériault devait fournir à l’appelant une formation quelconque, il l’aurait fournie à l’appelant au début de son emploi.
+[18] Sur la question de la période de son emploi, il existe une nette contradiction entre les feuilles de temps remplies par l’appelant et la durée de l’emploi indiquée sur le relevé d’emploi. Les feuilles de temps (pièce I-1) indiquent que le travail de l’appelant a commencé le 6 octobre 2006 alors que le relevé indique que l’emploi a débuté le 30 octobre 2006. La feuille de temps n’indique pas de période pour le mois de novembre 2006 et elle indique que l’appelant a travaillé jusqu’au 18 mars 2007 alors que le relevé indique la date de cessation d’emploi comme étant le 16 mars 2007. La preuve démontre qu’il y aurait eu du travail après le 16 mars 2007, puisque monsieur Thériault a travaillé 40 heures pour réparer un « gros bris ». Je ne conteste pas le fait qu’il puisse y avoir eu un « gros bris », mais je me demande pourquoi il a fallu exactement 40 heures pour le réparer. Je dois aussi signaler la contradiction entre la déclaration de l’appelant voulant que l’inscription de son temps n’était pas exigée par la payeuse et le témoignage de la payeuse à l’effet contraire.
+[19] En terminant, je dois soulever le fait que l’appelant était disponible et a travaillé sept jours par semaine pendant toute la durée de son emploi avec la payeuse, à l’exception de trois jours seulement. Cela représente 20 longues semaines de disponibilité et je ferai remarquer que la payeuse n’a jamais été aussi exigeante à l’égard de monsieur Thériault.
+[20] Devant ce dossier et particulièrement devant les contradictions et les imprécisions sur les circonstances, les modalités, la durée et la nature du travail de l’appelant, je conclu que ce dernier ne s’est pas acquitté du fardeau de la preuve. Je dois donc conclure que la décision du ministre, dans les circonstances, était raisonnable.
+[21] L’appel est donc rejeté.
+Signé à Edmundston (Nouveau-Brunswick), ce 14e jour de juillet 2008.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2008CCI367
+Nº DU DOSSIER DE LA COUR : 2007-4317(EI)
+INTITULÉ DE LA CAUSE : Roger Labonté et M.R.N.
+LIEU DE L’AUDIENCE : Frédéricton (Nouveau-Brunswick)
+DATE DE L’AUDIENCE : le 9 juin 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 14 juillet 2008
+COMPARUTIONS :
+Représentant de l'appelant :
+Gérard St-Pierre
+Avocate de l'intimé :
+Me Nathalie Khlat
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

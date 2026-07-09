@@ -1,0 +1,799 @@
+---
+title: "D'Arcy v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521493/index.do"
+last_modified: "2025-09-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 128"
+citation2: ""
+neutral_citation: "2025 TCC 128"
+decision_date: "2025-09-18"
+language: "en"
+item_id: "521493"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5445
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:21:37.551000+00:00"
+cases_cited_count: 10
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c8b504b0ed5456dda386aa437e6b71e7d0c445303caa5ce35852615ca446174a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# D'Arcy v. The King
+
+- Citation: 2025 TCC 128
+- Decision date: 2025-09-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5445, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+D'Arcy v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-09-18
+Neutral citation
+2025 TCC 128
+File numbers
+2021-252(IT)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2021-252(IT)G
+BETWEEN:
+LINDA D'ARCY,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2021-253(IT)G
+AND BETWEEN:
+PETER D’ARCY,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeals heard together on December 4, 5 and 6, 2023
+at Winnipeg, Manitoba
+Before: The Honourable Justice Bruce Russell
+Appearances:
+Counsel for the Appellant:
+Jeff Pniowsky
+Matthew Dalloo
+Counsel for the Respondent:
+Melissa Danish
+Larissa Benhem
+JUDGMENT
+Both appeals are denied as per the associated Reasons for Judgment dated this day, with one set of costs to the Respondent in the fixed amount of $8,500.
+Signed this 18th day of September 2025.
+“B. Russell”
+Russell J.
+Citation: 2025 TCC 128
+Date: 20250924
+Docket: 2021-252(IT)G
+BETWEEN:
+LINDA D'ARCY,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2021-253(IT)G
+AND BETWEEN:
+PETER D’ARCY,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Russell J.
+I. Overview: [1] Spousal appellants Peter D’Arcy and Linda D’Arcy instituted these two federal Income Tax Act (Act) appeals, heard together. The appeals’ shared issue is whether a series of transactions leading to tax-free removal of corporate surplus by each appellant constituted abusive tax avoidance per the general anti-avoidance rule (GAAR) at section 245 of the Act.[1]
+[2] The appellants concede that the transactions led to a “tax benefit” per subsection 245(1) and that causing issuance of shares of the same class both to themselves and their non-arm’s length operating corporation was an “avoidance transaction” per subsection 245(3).
+[3] The four appealed GAAR reassessments, each raised May 4, 2017, pertain to each appellant’s 2013 and 2014 taxation years. In applying the GAAR, the Minister of National Revenue (Minister) reassessed each appellant’s income to add further dividends of $125,000 (2013 taxation year) and $53,620 (2014 taxation year).
+[4] The respondent submits that each appellant used his/her lifetime capital gains exemption (LCGE) per section 110.6 to extract corporate surplus, tax-free; and that the transactions enabling this result abused the object, spirit and purpose (OSP) of section 84.1 operating in conjunction with subsection 89(1), such that the GAAR is applicable.
+[5] The appellants assert that the purpose of their transactions was to achieve creditor-proofing of their operating corporation, and so the subject transactions caused no abuse of any provision of the Act.
+II. Issue: [6] The issue is whether the appellants’ series of transactions, leading to tax‑free removals of corporate surplus, constituted abusive tax avoidance of section 84.1 and subparagraph 89(1)(b)(iii), thus justifying application of the GAAR.
+III. Facts: [7] The parties filed an Agreed Statement of Facts (ASF), reproduced in Appendix A. It inter alia reflects the following key facts:
+Tech/Pro Heavy Industrial Inc. (Tech/Pro), an operating company, incorporated in 1989, was authorized to issue a single class of common shares, of which two shares were issued - one to each appellant. As of September 29, 2011 each of those two shares had paid-up capital (PUC) of $1 (total $2), adjusted cost base (ACB) of $12,500 (total $25,000), and fair market value (FMV) of $5 million (total $10 million);
+on September 29, 2011 Tiffany Holdings Ltd. (Tiffany) was incorporated. Each appellant subscribed for 100 Tiffany Class D preferred shares, for $100;
+on September 30, 2011 Tech/Pro amended its articles to reorganize its capital stock. Each of the two issued common shares was redesignated as 500,000 Class A common shares, for a total of 1,000,000 such shares with total PUC of $2, total ACB of $25,000 and total FMV of $10 million;
+on October 1, 2011 two section 85 rollover transfers were carried out. In the first, Tech/Pro transferred to Tiffany beneficial ownership of its business properties in Quebec and Ontario (Properties), having FMV of $2.6 million. In return, Tiffany issued to Tech/Pro 2,116,000 Tiffany Class B preferred shares (Same Class shares) having aggregate redemption value of $2,116,000; and as well Tiffany assumed Tech/Pro’s $484,000 of mortgages on the Properties (non-share consideration). The elected amount was $1,608,643 (equal to the Properties’ cost);
+with this transfer both ACB and PUC of Tech/Pro’s 2,116,000 Same Class shares totaled $1,124,643. Tech/Pro continued its business operations, aside from transfer of the Properties’ legal and beneficial titles;
+that same day, in the second section 85 rollover transfer each appellant transferred to Tiffany his/her 500,000 Tech/Pro Class A common shares, in return for Tiffany’s issuance of 5 million Same Class shares (10 million in total). The appellants’ elected amounts were $739,109 for Peter D’Arcy and $750,001 for Linda D’Arcy. These amounts reflected the appellants’ respective LCGE balances, sheltering gains from sale of their one million Tech/Pro shares;
+section 84.1, through its PUC “grind” function, reduced the PUC of each appellant’s 5 million Same Class shares to $1 ($2 PUC total);
+resulting from the two section 85 rollovers, the section 84.1 PUC “grind” of the appellants’ Same Class shares to $2 was circumvented by subsection 89(1) PUC class averaging. The PUC class averaging caused the allocation of $928,230 ($464,116 for each appellant) of the $1,124,643 total PUC of Tech/Pro’s 2.116 million Same Class shares, to the appellants’10 million Same Class shares;
+on the same day, Tiffany redeemed Tech/Pro’s 2.116 million Same Class shares, by issuing a promissory note (subsequently offset by another promissory note);
+almost two years later, on September 30, 2013, by resolution Tiffany reduced the PUC of its Same Class shares by $250,000, which amount was credited to the $248,666 balance of the appellants’ Tiffany shareholder loan account;
+a year later, on September 30, 2014, by resolution Tiffany again reduced the PUC of its Same Class shares, this time by $107,239, which amount was credited to the then $107,239 balance of the appellants’ Tiffany shareholder loan account;
+in their 2013 and 2014 income tax returns the appellants did not report their respective 50/50 portions of the shareholder loan account balances as being subsection 15(2) shareholder loans, as these loans had been paid off by the crediting of the 2013 and 2014 PUC reductions. The appellants admit that these reductions of tax payable under the Act were, “tax benefits” per subsection 245(1);
+these foregoing transactions were planned in advance and the manner in which they occurred was known in advance. The transactions constitute a series of transactions per subsections 245(3) and 248(10) of the Act;
+the appellants admit that the primary purpose of Tiffany issuing Class B preferred shares, i.e., Same Class shares, to each of the two appellants and as well to Tech/Pro was to obtain the admitted tax benefits by way of increase of the PUC of the appellants’ Tiffany shares, so as to enable the appellants to withdraw amounts equal to that increase in PUC on a tax-free basis.
+IV. Parties’ positions:
+Appellants:
+[8] The appellants submit that the organizational structuring transactions of Tech/Pro and Tiffany were for the purpose of creditor-proofing Tech/Pro assets, resulting incidentally in the appellants’ conceded tax benefits. The appellants as well maintain that the respondent’s abuse allegation is contrary to the basic PUC scheme of subsection 89(1).
+[9] The appellants assert also that the issuance of Same Class shares to Tech/Pro, as well as to themselves, conceded as being an avoidance transaction, was consistent with the Duke of Westminster principle that this was the most tax efficient method available, within their discretion, in creditor‑proofing.
+Respondent:
+[10] The respondent’s position, as stated, is that section 84.1 and subsection 89(1) were “abused” in the GAAR context, pleading as follows in the respondent’s Reply (para. 23) for each of these two appeals:
+23. … the purpose of Tiffany issuing Class B preferred shares to [each] appellant and also to Tech/Pro was to engage the averaging effect in paragraph (a) of the definition of PUC in subsection 89(1). This counteracted the section 84.1 “PUC grind” of the appellant’s [Tiffany] Class B preferred shares… by increasing [each appellant’s] PUC from $1 to $464,112.
+V. Analysis: [11] The matters to be addressed are:
+what is the OSP of section 84.1, including upon operating in conjunction with subparagraph 89(1)(b)(iii)?
+did the conceded avoidance transaction frustrate or defeat the rationale (i.e. OSP) of these provisions?
+does the stated purpose of “creditor-proofing” affect the GAAR analysis?
+for GAAR purposes what are the reasonable tax consequences?
+What is the OSP of section 84.1, including operating in conjunction with subparagraph 89(1)(b)(iii)?
+[12] In Deans Knight Income Corporation v. R., 2023 SCC 16 [2] the Supreme Court of Canada confirmed that affirmative responses to the following three queried steps establish applicability of the GAAR:
+was there a tax benefit?
+was the transaction giving rise to the tax benefit an avoidance transaction?
+was the avoidance transaction giving rise to the tax benefit abusive?
+[13] Regarding step one, the appellants concede that they obtained tax benefits as per subsection 245(1), being their avoidance of subsection 15(2) tax liability by the crediting of shareholder loan balances of $250,000 and $107,239 by PUC amounts reduced from the PUC allocated to the appellants’ Same Class shares by way of subsection 89(1) PUC averaging.
+[14] Regarding step two, the appellants concede that issuance of Same Class shares both to them and as well to Tech/Pro constituted an avoidance transaction as per subsection 245(3).
+[15] Lastly, step three requires determination that the admitted avoidance transaction was abusive of section 84.1, applied in conjunction with subsection 89(1)(b)(iii). These provisions are reproduced in Appendix B.
+[16] The prescribed procedure for identifying an abusive avoidance transaction is, per subsection 245(4), a two-step analysis as expressed in Deans Knight:[3]
+56. The third step of the GAAR analysis is frequently the most contentious…Analyzing whether the transactions are abusive involves, first, determining the object, spirit and purpose of the relevant provisions and, second, determining whether the result of the transactions frustrated that object, spirit and purpose. (Trustco, at para. 44; Copthorne, at paras. 69-71)
+57. The object, spirit and purpose reflects the rationale of the provision. The provision’s text, context and purpose help to shed light on this rationale. Once the object, spirit and purpose has been ascertained, the abuse analysis focuses on whether the result of the transactions frustrates the provision’s rationale…. [underlining added]
+[17] The Supreme Court emphasizes the role of a provision’s rationale in identifying that provision’s OSP. As indicated above, that Court states that a provision’s OSP, “reflects the rationale of the provision”; and that abuse of the provision, “frustrates the provision’s rationale.”
+[18] Now turning to section 84.1, it was enacted in 1977 as an anti-avoidance rule, to address concerns of certain non-arm’s length tax-free corporate distributions. It was revised in 1985, prompted by introduction of the lifetime capital gains exemption. The then federal Minister of Finance spoke as follows respecting purpose and application of the newly revised section 84.1:
+Section 84.1 of the Act is an anti-avoidance rule to prevent the removal of the taxable surplus of a corporation as a tax-free repayment of capital where there is a non-arm’s length transfer of shares by an individual resident in Canada to a corporation. While the purpose of this provision is maintained, both the means by which it is achieved and its scope are being changed as a result of the introduction of the new lifetime capital gains exemption. [underlining added]
+…
+With the introduction of the capital gains exemption, the existing rules in subsection 84.1(1) are no longer appropriate since the gain on the share transfer may be exempt. Consequently, subsection 84.1(1) is being repealed and replaced by a rule that requires a paid-up capital reduction and, in certain circumstances, the immediate recognition of a dividend on certain non-arm’s length transfers of shares to a corporation after May 22, 1985.… The basic rule under new subsection 84.1(1) is that the maximum amount that can be received by the transferor from the transferee corporation as proceeds in the form of any non-share consideration and the paid-up capital of the share consideration is restricted to the greater of the paid-up capital of the transferred shares and what could be called the actual non-arm’s length adjusted cost base to the transferor of the shares. [underlining added]
+….
+New paragraph 84.1(1)(a) provides for a paid-up capital reduction for each class of shares of the purchaser corporation for which shares were issued as consideration for its acquisition of shares of another corporation. A paid-up capital reduction must be made in the event of an increase in the legal paid-up capital of the shares of the purchaser corporation arising as a result of the share transfer is more than the excess, if any, of the greater of the paid-up capital of the transferred shares and the adjusted cost base, as modified under new paragraph 84.1(2)(a) or (a.1), to the transferor of the transferred shares over the fair market value of any non-share consideration paid by the purchaser corporation as part of the purchase price for the transferred shares. The paid-up capital reduction is divided among the different share classes of the purchaser corporation on the basis of the legal paid‑up capital increases occurring as a result of the share transfer. [underlining added]
+[19] Thus, section 84.1 applies when an individual taxpayer on a non-arm’s length basis disposes of shares in a Canadian corporation to another Canadian corporation following which the two corporations are connected in the same sense as provided in subsection 186(4). When applicable, section 84.1 ensures that the PUC of the recipient corporation shares does not exceed the PUC of the disposed of shares. Section 84.1 “grinds” the PUC of the acquired shares to be the greater of the PUC of the disposed of shares and the shareholder’s ACB of the disposed of shares (noting that the ACB may be further modified in circumstances not here applicable).
+[20] Turning to subparagraph 89(1)(b)(iii), it defines PUC in respect of a corporation’s class of shares. PUC initially is equivalent to “stated capital” under applicable corporate law, thereby including the presumption of equality of shares. The subsection 89(1) calculation of PUC is to take into account the several adjusting provisions specified in subparagraph 89(1)(b)(iii), which include section 84.1.
+[21] Having introduced section 84.1 and subparagraph 89(1)(b)(iii), I note that there already exists a substantial body of jurisprudence identifying relatively consistently the OSP of section 84.1, and also in regard to the operation of section 84.1 in conjunction with subparagraph 89(1)(b)(iii).
+[22] In 2014, Hogan J. of this Court, in Descarries et al v. R., 2014 TCC 75[4] described the OSP of section 84.1 as being:
+…to prevent taxpayers from performing transactions whose goal is to strip a corporation of its surpluses tax-free through the use of a tax-exempt margin or a capital gains exemption.
+[23] Hogan J. states in Descarries[5] that his section 84.1 OSP description “is consistent with” the 1985 statement of the Minister of Finance (substantially set out above).
+[24] Subsequently, in Pomerleau v. R., 2016 TCC 228, this Court (Favreau J.) spoke of the OSP of section 84.1 as follows, citing Descarries:[6]
+[78] In this case, the textual, contextual and purposive analysis shows that the object, spirit or purpose of section 84.1 of the Act is to prevent a taxpayer from performing non-arm’s length transactions whose goal is to strip a corporation of its surpluses tax-free through the use of a capital gains deduction…
+[79] To paraphrase Hogan J. in Descarries, supra, section 84.1 is an anti-avoidance provision whose purpose is to “prevent (in a context of non-arm’s length transactions) the capital gain exemption from being used to strip a corporation of its surpluses…”
+[25] On appeal, the Federal Court of Appeal upheld this Court’s Pomerleau decision, similarly identifying the OSP of section 84.1 as follows:
+77. What then is the object, spirit and purpose of section 84.1? … the object, spirit and purpose of this provision is to prevent amounts that have not been taxed from being used to remove corporate surplus on a tax-free basis…[7] [underlining added]
+78. …when regard is had to the object, spirit and purpose of subparagraph 84.1(2)(a.1)(ii), what matters is the connection between the amounts that were not subject to tax and the use that is made of those amounts in order to achieve a tax-free distribution. This flows from this provision’s reason for being, which I repeat, is to prevent amounts on which tax has not been paid from being taken into account in the computation of the paid-up capital of a subject share thereby allowing surpluses to be paid out tax-free on the redemption of the new share obtained in exchange of the subject share. [underlining added]
+80. …As we have seen, [section 84.1] prevents persons who do not deal at arm’s length from taking advantage of their close relationship in order to remove corporate surplus on a tax-free basis (Copthorne, para. 95). [underlining added]
+[26] In conformity with the principle of stare decisis, I accept these Federal Court of Appeal statements as identifying the OSP of section 84.1.
+[27] I must also note the 2016 decision of this Court (Lyons J.) in Perry Wild et al. v. R., 2017 TCC 51. The Wild factual scenario is relatively similar to that of the appeals before me. Both matters focus on the subsection 89(1) PUC averaging effect upon shares of the same class issued both to individual shareholder(s) and a non-arm’s length corporation, all absent any capital injection.
+[28] Lyons J. determined as follows regarding OSP of both subsection 89(1) and section 84.1 (paras. 68, 85 and 100):
+[68] I conclude that the [OSP] of: (a) subsection 89(1) is designed to compute PUC equally of shares within a class with reference to corporate law principles, subject to applicable adjustments listed in paragraph 89(1)(b)(iii), that represents the amount invested in the company shares by its shareholders; and (b) section 84.1, an anti-avoidance rule, is to prevent the removal of taxable corporate surplus as a tax free return of capital through the use of the capital gains exemption (or tax-exempt margin), where there is a non-arm’s length transfer of shares by an individual resident in Canada from one corporation to another and PUC in excess of the amount invested cannot be withdrawn tax-free.
+[85] Combined, subsection 89(1) and section 84.1 deal with the computation of PUC involving the PUC grind where there is a non-arm’s length transfer of shares by an individual from one corporation to another. The definition of PUC in subsection 89(1) relies on stated capital as a base for the PUC calculation, with subsequent adjustments, as part of the PUC scheme of the Act. Together, [section 84.1 and subsection 89(1)] prevent the extraction of corporate surplus tax-free in such circumstances and preclude the return of an amount of capital tax-free in excess of an investor’s original contribution as noted in Copthorne and consistent with the PUC scheme. [underlining added]
+[100] …the object, spirit and purpose of section 84.1 is clear. Individual taxpayers should not be allowed to use their capital gains exemption to strip corporate surpluses by entering into non-arm’s length transactions which are similar to those addressed in section 84.1 nor obtain excess PUC tax-free.
+[29] In Wild, Lyons J. concluded (para. 104):
+[104] … that the reorganization was undertaken primarily to obtain the tax benefit. that key features of the non-arm’s length avoidance transactions, as part of and in the context of the series achieved a result (extraction of corporate surplus indirectly and use of [the appellant’s LCG] exemption) that section 84.1 was intended to prevent and defeats its underlying rationale and did so by misusing the PUC computation in subsection 89(1) to trigger the share averaging thus artificially inflated the PUC in the shares held by PW without any new capital contribution made by him. Therefore, the transactions were undertaken in a manner that defeats the object, spirit and purpose of section 84.1 and subsection 89(1) of the Act and were abusive avoidance transactions within the meaning of subsection 245(4).
+[30] Wild was appealed to the Federal Court of Appeal. The appellate court allowed the appeal (2018 FCA 114) on the basis that there had been no tax benefit, as neither Mr. Wild nor spouse had taken the ultimate step of extracting any corporate surplus available through extraction of subsection 89(1) averaging - enhanced PUC.
+[31] However, the Federal Court of Appeal also addressed the Tax Court’s section 84.1 and subparagraph 89(1)(b)(iii) statements. Dawson J.A. wrote approvingly of what Lyons J. had expressed, as follows (paras. 16 - 21):
+16. Subsection 89(1) states that in respect of a share of any class of the capital stock of a corporation, the PUC is an amount equal to the paid-up capital of that class of share divided by the number of issued shares of that class outstanding at that time. Because shareholders within a class of shares are presumed to be treated equally, “all shareholders of the class have the same PUC, regardless of the contribution made by each shareholder” (TCC reasons, para.50). [underlining added]
+17. The provisions which provide context to subsection 89(1) include those which are incorporated into the definition of PUC [at paragraph 89(1)(b)(iii)]: sections 84.1, 212.1 and subsections 85(2.1) and 87(3). Sections 84.1 and 212.1 and subsection 85(2.1) are anti-avoidance provisions, while subsection 87(3) prevents the inflation of PUC on amalgamation. [underlining added]
+18. The Tax Court found that the purpose of subsection 89(1) is to ensure that “the PUC, calculated and averaged within the class, accurately represents and is restricted to the funds invested in the shares of the corporation by its shareholders.” (reasons, paragraph 55). Amounts invested in a company by a shareholder can be returned as a tax-free return of capital because the PUC was contributed from after-tax funds; however, any amount paid to a shareholder that exceeds PUC is taxed as a dividend (TCC reasons, paragraph 54).
+19. With respect to section 84.1, the Tax Court found that based on its text section 84.1 applies to a non-arm’s length transfer of a share in a Canadian corporation to another Canadian corporation when after the transfer, the corporations are connected. When section 84.1 applies, it acts to ensure that the PUC of the shares of the corporation to which the shares are transferred does not exceed the PUC of the transferred shares (reasons, paragraph 57). For completeness, I would simply add that section 84.1 reduces (or grinds) the PUC of the newly acquired shares to the greater of the PUC of the transferred shares or the shareholder’s ACB of the transferred shares, the ACB being subject to further modification in certain situations. [underlining added]
+20. The provisions that provide context to section 84.1 include sections 84, 212.1 and 85(2.1) because, although they apply to different factual scenarios, “the common textual thread is the aim to prevent a corporation from having its surpluses stripped.” (TCC reasons, paragraph 61).
+21. The Tax Court found that the object spirit and purpose of section 84.1 was correctly identified in Descarries v. Canada, 2014 TCC 75…: an anti-avoidance rule “to prevent taxpayers from performing transactions whose goal is to strip a corporation of its surpluses tax-free through the use of a tax-exempt margin or a capital gain exemption.” (TCC reasons, paragraph 67). [underlining added]
+[32] In conclusion as to the OSP of section 84.1, operating in conjunction with the PUC definition in subparagraph 89(1)(b)(iii), jurisprudence has established that the OSP is to prevent taxpayers from carrying out non-arm’s length transactions resulting in tax‑free removal of corporate surplus. While amounts invested in a company by a shareholder can be returned tax-free as being a return of capital contributed from after-tax funds, any amount exceeding PUC paid out to a shareholder is expected to be taxed as a dividend.
+2. Did the conceded avoidance transaction frustrate or defeat the rationale (i.e. OSP) of these provisions?
+[33] The latter step of the two-step abuse analysis cited in Deans Knight is to determine whether the admitted avoidance transaction (and/or one or more other avoidance transactions) frustrated or defeated the rationale (i.e., OSP) of section 84.1, operating in conjunction with subsection 89(1).
+[34] That is, did the herein series of transactions result in a tax-free extraction of corporate surplus in excess of PUC?
+[35] With reference to the agreed facts, as of September 29, 2011, each of the two appellants held a single Tech/Pro share, with these two shares together having FMV of $10 million, ACB of $25,000 and PUC of $2.
+[36] However, without any capital injection, two years later, by the September 30, 2013 first PUC reduction, the appellants together owned 10 million Same Class shares, still with FMV of $10 million, but ACB of $1,500,000 and PUC of $928,000.
+[37] The PUC of $928,000 rather than $2 came about via the October 1, 2011 subsection 85(1) rollovers as described above.
+[38] The inflated PUC was brought about via subsection 89(1) PUC averaging, causing PUC allocation of $928,239, as a means for tax-free extraction of corporate surplus - often referred to as “surplus-stripping”. There was no capital investment to justify this amount being PUC and as such removeable on a tax-free basis. There was no reason otherwise for Tiffany to have issued shares of the same class to Tech/Pro as well as to both appellants.
+[39] Accordingly I conclude that the appellants engaged in transactions that frustrated the purpose and rationale of section 84.1, working in tandem with subsection 89(1). The transactions were abusive of these provisions pursuant to 245(4).
+[40] The inflated PUC was achieved by sophisticated planning and execution of specific corporate transactions. The appellants claim that the Duke of Westminster principle supports this; that this was within their advanced planning discretion. However, that U.K tax principle does not stand as an exception to application of the GAAR, whereby the OSP, i.e. rationale, of provisions of the Act are to be taken into account for application purposes of the GAAR.
+[41] The GAAR, unlike Duke of Westminster, exists to counter the ingenuity of tax planners in devising tax-saving schemes that are based on the text of the relevant provision without regard of the provision’s legislative context and rationale.
+Does the Stated Purpose of “Creditor-Proofing” Affect the GAAR Analysis?
+[42] The appellants submitted that the overarching purpose of the series of transactions was creditor-proofing.[8] However, what may be the overall purpose of the series is not a relevant inquiry.[9] In Mackay v. Canada, 2008 FCA 105 the Federal Court of Appeal stated:[10]
+21. In my view, the conclusion that a series of transactions was undertaken primarily for bona fide non-tax purposes does not preclude a finding that the primary purpose of one or more steps within the series was to obtain a tax benefit. It seems to me that this is what Chief Justice McLachlin and Justice Major had in mind when they wrote the following in Canada Trustco (paragraph 34):
+If at least one transaction in a series of transactions is an avoidance transaction, then the tax benefit that results from the series may be denied under the GAAR. This is apparent from the wording of subsection 245(3). Conversely, if each transaction in a series was carried out primarily for bona fide non-tax purposes, the GAAR cannot be applied to deny a tax benefit.
+[43] Here, the parties agree respecting the existence of tax benefit and avoidance transaction. After the determination of the existence of an avoidance transaction, the sole question is whether there was a misuse or abuse:[11]
+Individual transactions must be viewed in the context of the series. Consideration of this context will enable a reviewing court to assess and understand the nature of the individual parts of the series when analyzing whether abusive tax avoidance has occurred. At the same time, care should be taken not to shift the focus of the analysis to the “overall purpose” of the transactions. [underlining added]
+[44] Likewise, in 1207192 Ontario Ltd. v. Canada, 2012 FCA 259, para. 20:
+Justice Paris followed the correct approach when he determined the purpose of the series of transactions on an objective basis – that is, by ascertaining objectively the purpose of each step by reference to its consequences – rather than on the basis of the subject of motivation of Mr. Cross, or his subjective understanding of what may or may not have been required to achieve creditor protection. [underlining added]
+[45] Hence, even if the overall intent of the transactions had been creditor‑proofing (or any other bona fide non-tax purpose), that does not upend the existence of avoidance transactions.
+[46] As well, in MacDonald v. Canada, 2020 SCC 6, the Supreme Court of Canada stated, “ex post facto testimony regarding his intentions cannot overwhelm the manifestations of a different purpose, objectively ascertainable from the record.”[12]
+[47] Specifically, the use of the same class of shares in order to create the subsection 89(1) PUC averaging was clearly to extract surplus tax-free. Tiffany could have simply issued a different class of shares. As well, the use of preferred redeemable shares is suggestive of an intent of tax-free surplus stripping for some of the transactions.
+[48] As provided in the ASF (para. 32(b) and (c)), the appellants admit that the primary purpose of Tiffany issuing Class B preferred shares to them and also to Tech/Pro was to obtain the identified tax benefits by way of an increase in PUC of the appellants’ Tiffany shares, so as to permit them to withdraw amounts equal to that PUC increase on a tax-free basis. The parties agreed also that issuance of the Tiffany Class B shares to both appellants plus also to Tech/Pro constituted an avoidance transaction as per subsection 245(3).
+[49] Also, I note the appellants’ submission that issuing the same class of shares to both the appellants and to Tech/Pro is simply innocuous (my term) and should not be seen as having led to frustration and mis-use of section 84.1 and subsection 89(1) due to the latter provision’s PUC averaging effect respecting shares of the same class. However, that submission disregards the OSP of section 84.1 working in collaboration with subsection 89(1), as discussed above. The GAAR is intended to apply in situations where, while textually a provision of the Act was not disrespected, nevertheless the OSP, i.e. rationale, of that provision was frustrated or abused.
+4)For GAAR purposes what are the reasonable tax consequences?
+[50] Subsection 245(2) allows the Minister to determine the tax consequences that are reasonable in the circumstances to deny the tax benefit. The admitted avoidance transaction was undertaken, in good part if not entirely, to avoid the proper application of section 84.1. This allowed the appellants to extract corporate surplus tax free by way of PUC reduction.
+[51] I agree with the respondent that the PUC averaging should be disregarded so that the PUC reductions credited to the appellants’ shareholder loan accounts constitute payments in excess of PUC, and therefore as per subsection 84(4) result in a deemed dividend to the appellants. The dividend income of each of the appellants should therefore be increased by $125,000 and $53,620 for the 2013 and 2014 taxation years respectively.
+VI. Conclusion [52] The appellants entered into a series of transactions that resulted in the extraction of corporate surplus from non-arm’s length parties tax-free using the LCGE. The result of these transactions frustrates the OSP of section 84.1 (and subsection 89(1)) and is therefore abusive under the GAAR. The reasonable tax consequence is, as the Minister reassessed, to include the PUC reduction as deemed dividend income under subsection 84(4) and to disregard the subsection 89(1) PUC averaging, which allowed for the PUC reduction.
+[53] Accordingly, the appeals will be denied.
+This Amended Reasons for Judgment amends, as underscored in paragraph 7 items iv) and vi), the Reasons for Judgment dated September 18, 2025.
+Signed this 24th day of September 2025.
+“B. Russell”
+Russell J
+Agreed Statement of Facts
+The parties admit the following facts, as well as the relevance and the authenticity of the documents in support thereof, for the purpose o this appeal only. Either party may adduce such further and other evidence relevant to the appeal to supplement the facts referred to herein, but such evidence may not contradict the facts referred to herein.[13]
+Background
+Tech/Pro Heavy Industrial Inc. (“Tech/Pro”) was incorporated in New Brunswick on June 2, 1989. Tech/Pro was initially authorized to issue a single class of shares consisting of an unlimited number of common shares without nominal or par value.
+As of September 29, 2011, Peter D’Arcy and Linda D’Arcy (collectively, the “Appellants”) each initially held one of the two common shares of Tech/Pro. The stated capital and paid-up capital (“PUC”), adjusted cost base (“ACB”) and fair market value (“FMV”) (collectively, “attributes”) of the Appellants’ shares of Tech/Pro were as follows:
+Tech/Pro Shareholders
+Shares
+PUC
+ACB
+FMV
+Common Shares
+Linda D’Arcy
+1
+$1
+$12,500
+$5,000,000
+Peter D’Arcy
+1
+1
+12,500
+5,000,000
+Total
+2
+$2
+$25,000
+$10,000,000
+Among Tech/Pro’s assets were two commercial real estate properties, located at 700 Jerkins Avenue, Dorval, Quebec and 295 Second Street, Matheson, Ontario (the “Properties”)
+The Properties’ ACB, undepreciated capital cost (“UCC”), FMV, and mortgage balances were as follows:
+Adjusted cost base
+$
+Undepreciated Capital Cost
+$
+Fair Market Value
+$
+Mortgage
+$
+Building-Montreal
+Land-Montreal
+630,039
+40,000
+461,374
+0
+658,211
+41,789
+354,259
+22,491
+670,039
+461,374
+700,000
+376,750
+Building-Matheson
+Building-Matheson (Under construction)
+159,183
+894,416
+138,502
+894,416
+268,139
+1,506,619
+0
+0
+1,053,599
+1,032,918
+1,774,758
+100,180
+Land-Matheson
+74,351
+0
+125,242
+7,070
+1,127,950
+1,032,918
+1,900,000
+107,250
+1,797,989
+1,494,292
+2,600,000
+484,000
+September 29, 2011 Transactions
+On September 29, 2011, Tiffany Holdings Ltd. (“Tiffany”) was incorporated in New Brunswick. Both Tech/Pro and Tiffany has a September 30 year end for account and tax purposes. The Appellants had a shareholder loan account with Tech/Pro and established a shareholder loan account with Tiffany.
+On the same day, a discretionary trust (the “Trust”) was settled for the benefit of the Appellants, Linda D’Arcy’s mother, Peter D’Arcy’s parents, Tech/Pro, Tiffany, and any trust or corporation established for the benefit of the individual beneficiaries. Cathy LeBouthillier, a family friend, lent $200 to the Trust at 4% per annum interest without terms of repayment.
+The Trust then subscribed for 100 Class A common shares of Tiffany for $100. Tiffany’s Call A common shares then had the following attributes:
+Tiffany Shareholders
+Shares
+PUC
+ACB
+FMV
+Class A common
+Trust
+100
+$100
+$100
+$100
+Total Class A common
+100
+$100
+$100
+$100
+The Appellants each subscribed for 100 Class D preferred shares of Tiffany, for a total of $100 each. The 200 Class D shares had the following attributes:
+Tiffany Shareholders
+Shares
+PUC
+ACB
+FMV
+Class A common
+Trust
+100
+$100
+$100
+$100
+Class D preferred
+Linda D’Arcy
+100
+$100
+$100
+$100
+Peter D’Arcy
+100
+100
+100
+100
+Total Class A common
+100
+$100
+$100
+$100
+Total Class D preferred
+200
+$200
+$200
+$200
+September 30, 2011 Transactions
+On September 30, 2011, Tech/Pro amended its articles of incorporation to reorganize its capital stock. It created several new classes of shares, including Class A common shares and Class C and D preferred shares, and converted each of its two existing common shares, redesignated in the articles of amendment as “Class B common shares”, into 500,000 Class A common shares. After the conversion of their Class B shares of Tech/Pro, the shares of Tech/Pro had the following attributes:
+Tech/Pro Shareholders
+Shares
+PUC
+ACB
+FMV
+Class A common
+Linda D’Arcy
+500,000
+$1
+$12,500
+$5,000,000
+Peter D’Arcy
+500,000
+1
+12,500
+5,000,000
+Total Class A common
+1,000,000
+$2
+$25,000
+$10,000,000
+10. Tiffany subscribed for 100 Class D preferred shares of Tech/Pro for $100. Following that subscription, the shares of Tech/Prop had the following:
+Tech/Pro Shareholders
+Shares
+PUC
+ACB
+FMV
+Class A common
+Linda D’Arcy
+500,00
+$1
+$12,500
+$5,000,000
+Peter D’Arcy
+500,000
+1
+12,500
+5,000,000
+Class D preferred
+Tiffany
+100
+$100
+$100
+$100
+Total Class A common
+1,000,000
+$2
+$25,000
+$10,000,000
+Total Class D preferred
+100
+$100
+$100
+$100
+11. That same day, Tech/Pro and Tiffany created a nominee agreement, pursuant to which Tech/Pro transferred to Tiffany the legal title to the Properties.
+October 1, 2011 Transactions
+On October 1, 2011, Tech/Pro transferred the beneficial ownership of the Properties to Tiffany for a price of $2,600,000. As consideration for the transfer, Tiffany assumed the mortgages of $484,000 on the Properties, and issued $2,116,000 Class B preferred shares to Tech/Pro with an aggregate redemption value of $2,116,000.
+Aside from the transfer of the legal and beneficial ownership of the Properties from Tech/pro to Tiffany, the business of Tech/Pro remained with Tech/Pro.
+Tech/Pro and Tiffany elected to apply section 85 of the Income Tax Act to the transfer of the Properties with an aggregate agreed amount of $1,608,643, which reflected the combined ACB of the land at $114,351 and the combined UCC of the buildings at $1,494,292. Following the transfer of the Properties, the shares of Tiffany had the following attributes:
+Tiffany Shareholders
+Shares
+PUC
+ACB
+FMV
+Class A common
+Trust
+100
+$100
+$100
+$100
+Class B preferred
+Tech/Pro
+2,116,000
+$1,124,643
+$1,124,643
+$2,116,000
+Class D preferred
+Linda D’Arcy
+100
+$100
+$100
+$100
+Peter D’Arcy
+100
+100
+100
+100
+Total Class A common
+100
+$100
+$100
+$100
+Total Class B preferred
+2,116,000
+$1,124,643
+$1,124,643
+$2,116,000
+Total Class D preferred
+200
+$200
+$200
+$200
+15. That same day, the Appellants each sold their 500,000 Class A common shares of Tech/Pro to Tiffany, and each received as consideration 5,000,000 Class B preferred shares of Tiffany, or 10,000,000 Class B preferred shares in total, the same class of shares taken back by Tech/Pro as set out above.
+The Appellants and Tiffany elected to apply section 85 to the transfers by the Appellants of the Tech/Pro shares to Tiffany, with the agreed amount being $739,109 for Peter D’Arcy’s 500,000 Class A common shares of Tech/Pro and $750,001 for Linda D’Arcy’s 500,00 Class A common shares of Tech/Pro. Those agreed amounts reflected the Appellants’ remaining lifetime capital gains exemptions.
+Following that transfer, the shares of Tech/Pro and Tiffany had the following attributes:
+Tiffany Shareholders
+Shares
+PUC
+ACB
+FMV
+Class A common
+Trust
+100
+$100
+$100
+$100
+Class B preferred
+Tech/Pro
+2,116,000
+$196,413
+$1,124,643
+$2,116,000
+Linda D’Arcy
+5,000,000
+464,116
+750,001
+5,000,000
+Peter D’Arcy
+5,000,000
+464,116
+739,109
+5,000,000
+Class D preferred
+Linda D’Arcy
+100
+$100
+$100
+$100
+Peter D’Arcy
+100
+100
+100
+100
+Total Class A common
+100
+$100
+$100
+$100
+Total Class B preferred
+12,116,000
+$1,124,645[14]
+$2,613,753
+$12,116,000
+Total Class D preferred
+200
+$200
+$200
+$200
+Tech/Pro Shareholders
+Shares
+PUC
+ACB
+FMV
+Class A common
+Tiffany
+1,000,000
+$2
+$1,489,110
+$10,000,000
+Class D Preferred
+Tiffany
+100
+$100
+$100
+$100
+Total Class A common
+1,000,000
+$2
+$1,489,110
+$10,000,000
+Total Class D preferred
+100
+$100
+$100
+$100
+18. Tech/Pro then purchased for cancelation 211,600 Class A common shares of its capital stock held by Tiffany for $2,116,000, by way of a non-interest bearing unsecured promissory note. As a result, Tiffany received a deemed dividend of $2,116,000 pursuant to subsection 84(3) of the Income Tax Act, which it deducted under subsection 112(1) of the Income Tax Act.
+Tiffany in turn redeemed 2,116,000 Class B preferred shares of its capital stock held by Tech/Pro, by way of a non-interest bearing unsecured promissory note payable for $2,116,000. As a result, Tech/Pro received a deemed dividend of $1,919,586 pursuant to subsection 84(3) of the Income Tax Act, which it deducted under subsection 112(1) of the Income Tax Act.
+As a result of the purchase for cancellation of Tech/Pro shares and a redemption of Tiffany shares set out in paragraphs 18 and 19 above, the shares of Tech/Pro and Tiffany had the following attributes:
+Tiffany Shareholders
+Shares
+PUC
+ACB
+FMV
+Class A common
+Trust
+100
+$100
+$100
+$100
+Class B preferred
+Linda D’Arcy
+5,000,000
+$464,116
+$750,001
+$5,000,000
+Peter D’Arcy
+5,000,000
+$464,116
+$739,109
+$5,000,000
+Class D preferred
+Linda D’Arcy
+100
+$100
+$100
+$100
+Peter D’Arcy
+100
+$100
+$100
+$100
+Total Class A common
+100
+$100
+$100
+$100
+Total Class B preferred
+10,000,000
+$928,232
+$1,489,110
+$10,000,000
+Total Class D preferred
+200
+$200
+$200
+$200
+Tech/Pro Shareholders
+Shares
+PUC
+ACB
+FMV
+Class A common
+Tiffany
+788,400
+$2
+$1,174,014
+$7,884,000
+Class D preferred
+Tiffany
+100
+$100
+$100
+$100
+Total Class A common
+788,400
+$2
+$1,174,014
+$7,884,000
+Total Class D preferred
+100
+$100
+$100
+$100
+21. Tech/Pro and Tiffany then entered into an agreement to set-off and cancel their debts owing to each other.
+Tiffany then exchanged its remaining 788,400 Class A common shares of Tech/Pro for 7,884,000 Class C preferred shares of Tech/Pro. That same day, the Trust subscribed for 100 Class A common shares of Tech/Pro for $100, the Appellants each subscribed for 100 Class D preferred shares of Tech/Pro for $100, and Tech/Pro purchased for cancellation the 100 Class D preferred shares of its capital stock held by Tiffany for $100. Following those share exchanges and purchases, the shares of Tiffany and Tech/Pro had the following attributes:
+Tiffany Shareholder
+Shares
+PUC
+ACB
+FMV
+Class A common
+Trust
+100
+$100
+$100
+$100
+Class B preferred
+Linda D’Arcy
+5,000,000
+$464,116
+$750,001
+$5,000,000
+Peter D’Arcy
+5,000,000
+$464,116
+$739,109
+$5,000,000
+Class D preferred
+Linda D’Arcy
+100
+$100
+$100
+$100
+Peter D’Arcy
+100
+$100
+$100
+$100
+Total Class A common
+100
+$100
+$100
+$100
+Total Class B preferred
+10,000,000
+$928,232
+$1,489,110
+$10,000,000
+Total Class D preferred
+200
+$200
+$200
+$200
+Tech/Pro Shareholders
+Shares
+PUC
+ACB
+FMV
+Class A common
+Trust
+100
+$100
+$100
+$100
+Class C preferred
+Tiffany
+7,884,000
+$2
+$1,174,014
+$7,884,000
+Class D preferred
+Linda D’Arcy
+100
+$100
+$100
+$100
+Peter D’Arcy
+100
+$100
+$100
+$100
+Total Class A common
+100
+$100
+$100
+$100
+Total Class C preferred
+7,884,000
+$2
+$1,174,014
+$7,884,000
+Total Class D preferred
+200
+$200
+$200
+$200
+23. Tiffany leased the Properties to Tech/Pro
+September 30, 2013 Shareholder Loans and PUC Reduction
+As at September 30, 2013, the Appellants has shareholder loans owing to Tech/Pro in the amount of $87,111. On that same day, the Appellants had stakeholder loans owing to Tiffany of $161,555.55. Of the amounts owing from the Appellants to Tech/Pro and Tiffany, half related to Linda D’Arcy and half related to Peter D’Arcy.
+On that same day, following a series of adjusting journal entries made by both Tech/Pro and Tiffany the amounts owed by the Appellants to Tech/Pro were recorded as instead being owed to Tiffany, such that the amount the Appellants owed to Tiffany was $248,666.55.
+By resolution dated September 30, 2013, Tiffany reduced the PUC of its Class B preferred shares by $250,000 (the “2013 PUC Reduction”). The 2013 PUC reduction was credited to shareholder loan accounts which has a balance owing of $248,667 to Tiffany by the Appellants (the “2013 Shareholder Loans”).
+September 30, 2014 Shareholder Loans and PUC Reduction
+As at September 30, 2014 the Appellants had shareholder loans owing to Tech/Pro in the amount of $108,933.96.
+On that same day, following a series of adjusting journal entries made by both Tech/Pro and Tiffany, the amounts owed by the Appellants to Tech/Pro were recorded as instead being owed to Tiffany.
+By resolution dated September 30, 2014, Tiffany reduced the PUC of its Class B preferred shares by $107,239 (the “2014 PUC Reduction”). The 2014 PUC Reduction was credited to shareholder loan accounts which has a balance owing of $107,239 to Tiffany by Peter D’Arcy and Linda D’Arcy (the “2014 Shareholder Loans”).
+All of the transactions set out at paragraphs 5-23 above were planned in advance, and the manner in which they were to occur was known in advance. The Appellants were aware of the transactions at paragraphs 5-23 when the PUC reductions and repayment of shareholder loans described in paragraphs 24-29 took place.
+The transactions set out in paragraphs 5 to 29 above constitute a series of transactions within the meaning of subsections 245(3) and 248(10) if the Income Tax Act.
+For the purpose of these appeals:
+the Appellants admit that the issuance of the Class B share to Peter D’Arcy, to Linda D’Arcy, and to Tech/Pro resulted directly or indirectly in the Tax Benefits as defined in paragraph 34 below;
+the Appellants admit that the primary purpose of Tiffany issuing Class B shares to Peter D’Arcy, to Linda D’Arcy, and to Tech/Pro as noted at paragraphs 12 to 16 above was to obtain the Tax Benefits as defined in paragraphs 34 below by way of an increase to the PUC of the shares held by Peter D’Arcy and Linda D’Arcy in Tiffany so as to permit them to withdraw amounts equal to that increase in PUC on a tax-free basis; and
+the parties agree that the issuance of the Class B shares to Peter D’Arcy, to Linda D’Arcy, and to Tech/Pro is an avoidance transaction within the meaning of subsection 245(3) of the Income Tax Act.
+Peter D’Arcy and Linda D’Arcy did not report any income for tax reporting purposes in respect of the 2013 and 2014 PUC Reductions that were credited against the 2013 and 2014 Shareholder Loans.
+For the purposes of these appeals:
+The Appellants admit that the crediting – of $250,000 and $107,239, from the $928,230 of PUC created in Tiffany, against the amounts that were recorded as owing by Peter D’Arcy and Linda D’Arcy to Tiffany and Tech/Pro in the 2013 and 2014 taxation years, respectively – resulted in a reduction in the Appellants’ tax payable under the Income Tax Act for the 2013 and 2014 taxation years (the “Tax Benefits”); and
+The parties agree that the Tax Benefits are tax benefits within the meaning of subsection 245(1) of the Income Tax Act.
+Assessment, Reassessment, Objection and Confirmation
+On May 5, 2014 and May 7, 2015 respectively, the Minister initially assessed the Appellants’ 2013 and 2014 taxation years and accordingly issued notices on those dates.
+On May 4, 2017 the Minister issued notices of reassessment increasing the tax payable by the Appellants for their 2013 and 2014 taxation years on the basis that section 245 of the Income Tax Act applied and that the reasonable tax consequences to deny the tax benefits were to increase the income of each of the Appellants by dividend income of $125,000 for their 2013 taxation years, and $53,620 for their 2014 taxation years.
+On August 1, 2017, the Appellant each served on the Minister notices of objection to the above reassessments.
+On November 4, 2020, the Minister confirmed the above reassessments, and accordingly, issued notices of confirmation on that date.
+Appendix B
+Subsection 89(1)
+89.(1) … “paid-up capital” at any particular time means,
+(a) in respect of a share of any class of the capital stock of a corporation, an amount equal to the paid-up capital at that time, in respect of the class of shares of the capital stock of the corporation to which that share belongs, divided by the number of issued shares of that class outstanding at that time
+(b) in respect of a class of shares of the capital stock of a corporation,
+…
+(iii) where the particular time is after March 31, 1977, an amount equal to the paid-up capital in respect of that class of shares at the particular time, computed without reference to the provisions of this Act except subsections 51(3) and 66.3(2) and (4), sections 84.1 and 84.2, subsections 85(2.1), 85.1(2.1), 86(2.1), 87(3) and (9), 128.1(2) and (3), 138(11.7), 139.1(6) and (7), 192(4.1) and 194(4.1) and section 212.1.
+Section 84.1
+84.1 (1) Where after May 22, 1985 a taxpayer resident in Canada (other than a corporation) disposes of shares that are capital property of the taxpayer (in this section referred to as the “subject shares”) of any class of the capital stock of a corporation resident in Canada (in this section referred to as the “subject corporation”) to another corporation (in this section referred to as the “purchaser corporation”) with which the taxpayer does not deal at arm’s length and, immediately after the disposition, the subject corporation would be connected (within the meaning assigned by subsection 186(4) if the references therein to “payer corporation” and to “particular corporation” were read as “subject corporation” and “purchaser corporation” respectively) with the purchaser corporation,
+(a) where shares (in this section referred to as the “new shares”) of the purchaser corporation have been issued as consideration for the subject shares, in computing the paid-up capital, at any particular time after the issue of the new shares, in respect of any particular class of shares of the capital stock of the purchaser corporation, there shall be deducted an amount determined by the formula
+(A - B) × C/A
+where
+A is the increase, if any, determined without reference to this section as it applies to the acquisition of the subject shares, in the paid-up capital in respect of all shares of the capital stock of the purchaser corporation as a result of the issue of the new shares,
+B is the amount, if any, by which the greater of
+(i) the paid-up capital, immediately before the disposition, in respect of the subject shares, and
+(ii) subject to paragraphs 84.1(2)(a) and 84.1(2)(a.1), the adjusted cost base to the taxpayer, immediately before the disposition, of the subject shares,
+exceeds the fair market value, immediately after the disposition, of any consideration (other than the new shares) received by the taxpayer from the purchaser corporation for the subject shares, and
+C is the increase, if any, determined without reference to this section as it applies to the acquisition of the subject shares, in the paid-up capital in respect of the particular class of shares as a result of the issue of the new shares; …
+CITATION:
+2025 TCC 128
+COURT FILE NOS.:
+2021-252(IT)G
+2021-253(IT)G
+STYLE OF CAUSE:
+LINDA D'ARCY AND HIS MAJESTY THE KING
+PETER D’ARCY AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+December 4, 5 and 6, 2023
+AMENDED REASONS FOR JUDGMENT BY:
+The Honourable Justice Bruce Russell
+DATE OF JUDGMENT:
+September 18, 2025
+DATE OF AMENDED REASONS FOR JUDGMENT
+September 24, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Jeff Pniowsky
+Matthew Dalloo
+Counsel for the Respondent:
+Melissa Danish
+Larissa Benham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jeff Pniowsky
+Matthew Dalloo
+Firm:
+Thompson Dorfman Sweatman
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] All provisions referred to herein are provisions of the Act.
+[2] Deans Knight, para. 51
+[3] Deans Knight, paras. 56, 57.
+[4] Descarries, para. 53
+[5] Ibid., para. 54
+[6] Pomerleau v. R., 2016 TCC 228, paras. 78, 79.
+[7] Pomerleau v. Canada, 2018 FCA 129, paras. 77, 78, 80.
+[8] Appellants’ Supplemental Written Submissions, pg.1.
+[9] Respondent’s Written Submissions, para. 67.
+[10] Mackay, para. 21
+[11] Lipson v. Canada, 2009 SCC 1, para. 34.
+[12] MacDonald, para. 43.
+[13] The slides 1-15 titled “D’Arcy PUC Shift” attached hereto form part of this Partial Agreed Statement of Facts.
+[14] Section 84.1 of the Income Tax Act applied to reduce the PUC of the Appellants’ Class B preferred shares in Tiffany from $1,489,110 to $2. The 10,000,000 Class B preferred shares of Tiffany held by the Appellants has FMV of $10,000,000, ACB of $1,489,110 and, because of s. 84.1 of the Income Tax Act, PUC of $2. The Appellants then relied on the averaging effect of the definition of PUC in subsection 89(1) of the Income Tax Act to shift approximately $928,229 of the total PUC of the Class B preferred shares in Tiffany (being $1,124,645) to the 10,000,000 Class B preferred shares in Tiffany held by the Appellants.

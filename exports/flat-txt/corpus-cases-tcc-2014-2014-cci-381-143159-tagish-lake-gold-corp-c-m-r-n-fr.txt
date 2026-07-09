@@ -1,0 +1,286 @@
+Title: Tagish Lake Gold Corp. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/143159/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-381-143159-tagish-lake-gold-corp-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2014-12-31
+
+# Tagish Lake Gold Corp. c. M.R.N.
+
+- Citation: 2014 CCI 381
+- Decision date: 2014-12-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3107, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tagish Lake Gold Corp. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-12-31
+Référence neutre
+2014 CCI 381
+Numéro de dossier
+2012-5119(EI), 2012-5122(CPP, 2012-5123(EI), 2012-5124(CPP
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2012-5119(EI)
+2012-5122(CPP)
+2012-5123(EI)
+2012-5124(CPP)
+ENTRE :
+TAGISH LAKE GOLD CORP.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appels entendus sur preuve commune le 29 août 2013,
+à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Avocate de l’appelante :
+Andrea S. Donohoe
+Avocats de l’intimé :
+Shankar Kamath
+Shannon Fenrich (stagiaire)
+JUGEMENT
+Les appels sont rejetés et les déterminations faites par le ministre du Revenu national le 5 mars 2012 et le 16 avril 2012, respectivement, sont confirmées aux motifs que Henry Siu et Grace Jackson étaient engagés dans un emploi assurable et ouvrant droit à pension entre le 19 avril et le 8 novembre 2011 et entre le 19 avril et le 19 octobre 2011, respectivement, au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi et de l’alinéa 6(1)a) du Régime de pensions du Canada, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa (Ontario), ce 31e jour de décembre 2014.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2014 CCI 381
+Date : 20141231
+Dossiers : 2012-5119(EI)
+2012-5122(CPP)
+2012-5123(EI)
+2012-5124(CPP)
+ENTRE :
+TAGISH LAKE GOLD CORP.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Juge Jorré
+[1] L’appelante, Tagish Lake Gold Corp., fait appel des déterminations faites par l’intimé, le ministre du Revenu national, selon lesquelles Henry Siu[1] et Grace Jackson occupaient un emploi assurable au sens de la Loi sur l’assurance-emploi et un emploi ouvrant droit à pension au sens du Régime de pensions du Canada, à la mine exploitée par l’appelante au Yukon entre le 19 avril et le 8 novembre 2011 et entre le 19 avril et le 19 octobre 2011, respectivement.[2]
+[2] M. Siu était rémunéré par l’appelante pour planifier les menus, acheter la nourriture, la transporter à la mine, préparer les repas et effectuer ensuite des travaux de nettoyage. Selon la preuve présentée, il était un bon cuisinier. Mme Jackson était rémunérée pour faire des travaux de nettoyage à la mine. M. Siu était le mari de Mme Jackson.
+[3] Les parties conviennent, et je suis d’accord, que rien dans les faits ou le droit n’aurait conduit à une conclusion différente dans les appels en ce qui concerne l’assurance-emploi et le Régime de pensions du Canada. Par conséquent, je traiterai uniquement de la question de savoir si les deux personnes, les bénéficiaires, occupaient un emploi assurable. Le résultat aux fins du Régime de pensions du Canada sera le même que celui aux fins de l’assurance-emploi.
+La loi [4] Il est utile de commencer en examinant les principes généraux applicables pour établir la distinction entre un contrat d’emploi[3] et un contrat de prestation de services. Comme les deux types de relations sont de nature contractuelle, l’intention a un rôle à jouer.
+[5] Dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.,[4] la Cour suprême du Canada a établi qu’il n’existe aucun critère universel permettant de déterminer de façon concluante si une personne est un employé ou un entrepreneur indépendant :
+47 [...] La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+[Non souligné dans l’original.]
+[6] Plus récemment, dans l’arrêt 1 392 644 Ontario Inc. (Connor Homes) c. Canada (Revenu national),[5] la Cour d’appel fédérale a examiné la jurisprudence et le critère permettant de déterminer si une personne est un employé ou un entrepreneur indépendant. Le juge Mainville, s’exprimant au nom de la Cour, résume l’analyse qui doit être faite et établit un processus en deux étapes :
+39 La première étape consiste à établir l’intention subjective de chacune des parties à la relation. On peut le faire soit d’après le contrat écrit qu’elles ont passé, soit d’après le comportement effectif de chacune d’elles, par exemple en examinant les factures des services rendus, et les points de savoir si la personne physique intéressée s’est enregistrée aux fins de la TPS et produit des déclarations d’impôt en tant que travailleur autonome.
+40 La seconde étape consiste à établir si la réalité objective confirme l’intention subjective des parties. Comme le rappelait la juge Sharlow au paragraphe 9 de l’arrêt TBT Personnel Services Inc. c. Canada, 2011 CAF 256, 422 N.R. 366, « il est également nécessaire d’examiner les facteurs exposés dans Wiebe Door afin de déterminer si les faits concordent avec l’intention déclarée des parties. » Autrement dit, l’intention subjective des parties ne peut l’emporter sur la réalité de la relation telle qu’établie par les faits objectifs. À cette seconde étape, on peut aussi prendre en considération l’intention des parties, ainsi que les modalités du contrat, puisqu’elles influent sur leurs rapports. Ainsi qu’il est expliqué au paragraphe 64 de l’arrêt Royal Winnipeg Ballet, les facteurs applicables doivent être examinés « à la lumière de » l’intention des parties. Cela dit, cependant, la seconde étape est une analyse des faits pertinents aux fins d’établir si le critère des arrêts Wiebe Door et de Sagaz est, ou non, rempli, c’est-à-dire si la relation qu’ont nouée les parties est, sur le plan juridique, une relation de client à entrepreneur indépendant ou d’employeur à employé.
+41 La question centrale à trancher reste celle de savoir si la personne recrutée pour assurer les services le fait, concrètement, en tant que personne travaillant à son compte. Comme l’expliquent aussi bien les arrêts Wiebe Door que Sagaz, aucun facteur particulier ne joue de rôle dominant, et il n’y a pas de formule fixe qu’on puisse appliquer, dans l’examen qui permet de répondre à cette question. Les facteurs à prendre en considération varient donc selon les faits de l’espèce. Néanmoins, les facteurs que spécifient les arrêts Wiebe Door et Sagaz sont habituellement pertinents, ces facteurs étant le degré de contrôle exercé sur les activités du travailleur, ainsi que les points de savoir si ce dernier fournit lui-même son outillage, engage ses assistants, gère et assume des risques financiers, et peut escompter un profit de l’exécution de ses tâches.
+Les faits [7] En gardant ces principes à l’esprit, passons maintenant aux faits.
+[8] Le seul témoin appelé était Peter Torn, secrétaire d’entreprise de l’appelante. Il est employé au siège social de la société à Vancouver, en Colombie-Britannique.[6]
+[9] La mine où s’effectuait le travail se situe à environ une heure et demie de route de Whitehorse et est un établissement d’exploration générale en début d’exploitation. L’exploration se fait par forages.
+[10] La société a dû obtenir un permis d’exploration auprès du gouvernement du Yukon. Ce permis impose notamment un certain nombre d’exigences touchant la santé et la sécurité au travail; il restreint également à 50 le nombre d’employés autorisés sur le site.
+[11] Certaines de ces exigences découlent de la Loi sur la santé et la sécurité au travail du Yukon, qui s’applique à toute personne se trouvant sur le site de la mine.
+[12] La personne responsable des activités quotidiennes sur le site était le gestionnaire de projet, Mark Greasley.
+[13] Le travail d’exploration est saisonnier, parce qu’il ne peut être fait en présence de neige et de glace. Les travaux débutent à un certain moment en février, avec une équipe réduite; la véritable saison de forage est relativement courte et ne peut débuter avant la fin de mai ou le début de juin, pour se terminer à la fin de septembre ou au début d’octobre. Par la suite, les travaux se poursuivent encore avec une équipe réduite jusqu’en novembre.
+[14] Le camp comprend un dortoir pour 50 personnes. Il y a également une salle à manger avec une cuisine. Le camp dispose également d’installations de premiers soins, d’entreposage et de réparation de l’équipement et d’installations pour le travail de géologie.
+[15] M. Siu s’est rendu à la mine au début d’avril 2011, à la recherche de travail. Il a rencontré M. Greasley et a discuté avec lui de différentes possibilités d’emploi.
+[16] M. Torn croit comprendre que M. Siu et M. Greasley ont conclu une entente verbale en vertu de laquelle M. Siu serait engagé par l’appelante à titre de consultant et que M. Siu serait un entrepreneur indépendant. M. Torn croit comprendre également qu’ils ont négocié un taux de rémunération, lequel tenait compte du fait que M. Siu était un entrepreneur indépendant.
+[17] Un élément important du point de vue de la société, en raison des différentes exigences en matière de santé et de sécurité au travail, était que M. Siu détenait un certificat en premiers soins.
+[18] Sur la base de cette entente verbale, une entente écrite a été préparée à Vancouver et signée par M. Torn au nom de la société. L’entente a été déposée au titre de la pièce A‑1.
+[19] M. Torn a déclaré que l’intention de la société était que l’entente avec M. Siu soit une entente avec un entrepreneur indépendant.
+[20] Durant la période plus occupée, il pouvait y avoir deux ou trois cuisiniers et jusqu’à quatre ou cinq préposés au nettoyage travaillant simultanément au titre d’un contrat avec l’appelante, afin d’effectuer des travaux à la mine. Tous étaient embauchés en vertu d’une entente comparable à celle conclue avec M. Siu et Mme Jackson.[7]
+Intention Contrat de M. Siu [21] Le contrat semble être un formulaire standard; certaines parties du formulaire ne semblent pas avoir été adaptées au contexte spécifique de l’entente avec M. Siu. L’article 1 stipule que [traduction] « par les présentes, la société retient les services du consultant à titre de cuisinier et de préposé à la sécurité et aux premiers soins du camp ».[8] Le paragraphe 2.1 indique que ces services sont décrits en plus grand détail à l’annexe « A ». L’annexe « A » se lit comme suit :
+[traduction] Les services et obligations que le consultant s’engage à fournir à la société sont les suivants :
+1. services complets de santé et sécurité, de cuisine et d’exploitation du camp sur le site du projet pour le compte de la société;
+2. être conscient de la sécurité et agir en conséquence;
+3. assurer toute fonction connexe, à la demande de la société.
+[22] Le paragraphe 2.2 se lit comme suit :
+[traduction] Le consultant sera en tout temps un entrepreneur indépendant et n’est pas un serviteur ou un agent de la société. Aucun partenariat ni aucune coentreprise ou agence ne seront créés ou réputés être créés en vertu de cette entente ou de toute action entreprise par les parties en vertu de cette entente.
+[23] Le paragraphe 3.1 fixe la rémunération de M. Siu à 26,29 $ l’heure, moins les primes de la commission des accidents du travail. Il stipule également que le consultant est responsable du paiement des impôts, des primes d’assurance-emploi et des cotisations de retraite. Le paragraphe 3.2 indique que la société paiera au consultant 0,60 $ par kilomètre pour l’usage commercial de son véhicule, le cas échéant. Pour être payé, le consultant doit présenter des feuilles de temps quotidiennes à un représentant de la société, qui examinera et approuvera les feuilles de temps (paragraphe 3.3).
+[24] D’autres dispositions traitent de la confidentialité et du licenciement motivé. Je prendrais note de deux dispositions précises concernant le licenciement motivé. Il s’agit des alinéas 4.1 a) et f), qui stipulent que la société peut résilier l’entente sans préavis si le consultant ne s’acquitte pas de ses fonctions en vertu de l’entente de manière compétente et professionnelle, et si le consultant ne se conforme pas à des directives raisonnables et légales de la société.
+[25] De toute évidence, le paragraphe 2.2 du contrat établit que l’intention du contrat est d’établir une relation d’entrepreneur indépendant.[9]
+[26] Cependant, la description des services qui doivent être rendus est plutôt générale et vague pour un contrat de prestation de services, dans lequel on s’attendrait à trouver une description plus détaillée des services à rendre. Je note en particulier le point trois de l’annexe « A », qui indique que le consultant doit assurer des fonctions connexes, à la demande de la société. Habituellement, dans un contrat de prestation de services, on s’attendrait à ce que les services additionnels qui ne sont pas prévus à l’entente soient assujettis à des négociations entre les parties, et non qu’ils fassent l’objet de directives unilatérales par l’une des parties, sans ajustement au contrat. L’utilisation du terme « fonctions » est aussi surprenante.[10]
+[27] Malgré l’utilisation de l’expression « entrepreneur indépendant », lorsqu’on le lit dans son ensemble, et notamment au regard de la généralité des services qui doivent être rendus, le contrat n’est pas manifestement un contrat de prestation de services ni un contrat d’emploi.
+Contrat de Mme Jackson [28] Mme Jackson est arrivée à la mine le même jour que M. Siu. M. Torn croit comprendre que Mme Jackson et M. Greasley ont conclu une entente verbale en vertu de laquelle Mme Jackson serait aussi engagée par l’appelante à titre de consultante et qu’elle aurait le statut d’entrepreneur indépendant. Comme dans le cas de M. Siu, ils ont négocié un taux horaire pour Mme Jackson.[11]
+[29] L’entente est reproduite dans l’accord de consultation.[12] L’article 1 de l’entente indique que [traduction] « par la présente, la société engage la consultante pour travailler à titre de préposée au camp ». Le paragraphe 2.1 indique que ces services sont décrits en plus grand détail à l’annexe « A ». L’annexe « A » se lit comme suit :
+[traduction] Les services et obligations que le consultant s’engage à fournir à la société sont les suivants :
+1. services complets d’exploitation du camp sur le site du projet, pour le compte de la société;
+2. être consciente de la sécurité et agir en conséquence;
+3. assurer toute fonction connexe, à la demande de la société.
+[30] L’entente fixait la rémunération de Mme Jackson à 23,79 $ l’heure.[13]
+[31] Sauf pour le taux de rémunération et les services différents, le contrat s’apparente beaucoup à celui de M. Siu. Pour les mêmes raisons que dans le cas de M. Siu, je conclus que le contrat lui-même n’est pas manifestement un contrat de prestation de services ni un contrat d’emploi.[14]
+Autres indications de l’intention [32] Il n’y a aucun élément de preuve sur la façon dont M. Siu et Mme Jackson ont produit leur déclaration de revenus, et le ministre n’a émis aucune hypothèse à cet égard.
+[33] Outre la preuve par ouï-dire de M. Torn[15] et le fait que M. Siu et Mme Jackson ont signé les contrats, il n’existe aucun élément de preuve, et aucune hypothèse n’a été émise quant aux intentions de M. Siu et de Mme Jackson.
+[34] La preuve établit manifestement que la société voulait que M. Siu et Mme Jackson soient des entrepreneurs indépendants.
+[35] Aucune somme n’a été déduite au titre de l’impôt sur le revenu, des primes d’assurance-emploi ou des cotisations au Régime de pensions du Canada. Ceci est compatible avec l’intention déclarée de l’appelante et indiquerait certainement à M. Siu et à Mme Jackson qu’ils n’étaient pas traités comme des employés.[16]
+La réalité objective [36] M. Siu a travaillé de façon très intensive durant la période en question. La période en question comptait 204 jours, et il a travaillé pendant 133 jours. Les jours où il a travaillé, il a fait en moyenne des journées d’un peu plus de 11,8 heures; pour mettre les choses en perspective, c’est l’équivalent d’une semaine de travail de 82,75 heures durant chaque semaine travaillée.[17]
+[37] Mme Jackson a aussi travaillé de façon très intensive durant cette période. Selon la pièce A‑5, on peut voir qu’elle a travaillé pour la société du 19 avril au 30 octobre 2011. Cette période comptait 194 jours; Mme Jackson a travaillé durant 137 jours et n’a pas travaillé durant les 57 autres jours. Elle a fait en moyenne des journées de travail de10,35 heures; cela représente une semaine de travail moyenne de 72,4 heures durant les semaines où elle a travaillé.[18]
+[38] La résidence de M. Siu et de Mme Jackson était située à environ quatre heures de route de la mine (en voiture).
+Outils/Investissements [39] Bien que M. Siu et Mme Jackson aient porté leurs propres vêtements et leurs propres chaussures, leur travail était effectué entièrement dans les locaux de l’appelante et en utilisant les outils, l’équipement et les fournitures de l’appelante. L’entretien de l’équipement était assuré par l’appelante.
+[40] Lorsque M. Siu allait chercher des aliments, il utilisait parfois son propre véhicule et parfois un véhicule appartenant à la société.[19] Rien dans la preuve déposée devant moi n’indique que le véhicule de M. Siu a été acquis spécialement pour le travail, plutôt que d’être simplement une voiture lui appartenant.[20]
+Possibilité de bénéfices [41] M. Siu et Mme Jackson étaient tous deux rémunérés selon un taux horaire et ils se faisaient rembourser les frais de kilométrage pour toute utilisation de leur voiture aux fins des activités commerciales de l’appelante. Ils n’avaient aucune dépense à payer.
+[42] S’ils travaillaient un plus grand nombre d’heures, ils pouvaient gagner davantage d’argent; s’ils travaillaient moins, ils gagnaient moins d’argent.
+[43] Ceci est compatible avec un contrat d’emploi ou un contrat de prestation de services. Cependant, de façon générale, mais non dans tous les cas, une personne qui travaille à son compte a la possibilité d’augmenter ses bénéfices si elle peut trouver une façon de rendre ses services de manière plus efficace ou d’utiliser plus efficacement l’équipement dans lequel elle a investi; tel n’est pas le cas en l’espèce.
+Risque de pertes [44] Puisque M. Siu et Mme Jackson sont payés à l’heure et qu’ils n’ont pas de dépenses, ils n’ont pas de risque de pertes.
+Aides [45] Ni M. Siu ni Mme Jackson n’ont embauché d’aides. Il apparaît clairement du témoignage de M. Torn qu’ils ne pouvaient pas embaucher de personnel pour faire le travail à leur place; seules les personnes détenant un contrat avec l’appelante pouvaient faire le travail. Ils pouvaient cependant, selon M. Torn, conclure une entente avec les autres cuisiniers ou préposés au nettoyage pour que quelqu’un d’autre fasse la cuisine ou l’entretien ménager lorsqu’ils s’absentaient.[21] Lorsqu’une telle entente était prise, c’est l’appelante qui rémunérait la personne qui faisait le travail.
+Contrôle [46] Dans le cas de M. Siu, le ministre a supposé, notamment, que :
+1. l’appelante déterminait le moment où les repas étaient servis;
+2. M. Siu avait la responsabilité de déterminer à quel moment faire les achats et quel serait le menu de chaque repas;
+3. le travailleur n’était pas libre de travailler pour d’autres en même temps qu’il travaillait à la mine;
+4. le travailleur était tenu d’inscrire ses heures de travail dans le registre de temps de l’appelante;
+5. le travailleur était tenu d’assister à des rencontres de sécurité avec l’appelante tous les matins à 7 h;
+6. le travailleur n’était pas libre de prendre des congés sans avoir obtenu au préalable l’autorisation de l’appelante;
+7. le travailleur n’était pas supervisé; il relevait cependant de M. Greasley, le gestionnaire du camp.
+[47] Dans le cas de Mme Jackson, le ministre a supposé, notamment, que :
+1. l’appelante déterminait ses heures de travail;
+2. elle était tenue d’assister à des rencontres de sécurité avec l’appelante tous les matins à 7 h;
+3. elle n’était pas libre de prendre des congés sans avoir obtenu au préalable l’autorisation de l’appelante;
+4. elle était tenue d’inscrire ses heures de travail dans le registre de temps de l’appelante;
+5. elle était supervisée par le gestionnaire, qui inspectait son travail.
+[48] Dans son témoignage, M. Torn a indiqué que personne ne disait à M. Siu quoi acheter, quel montant il pouvait dépenser pour les aliments, quelles étaient ses priorités ou à quel moment il devait travailler.[22] Il a également témoigné que M. Siu était libre de prendre des pauses à sa discrétion et d’aller et venir à son bon vouloir, sans avoir à demander la permission de s’absenter. M. Siu était quand même tenu d’assister aux rencontres de sécurité à 7 h le matin. Ces rencontres duraient entre 10 et 30 minutes.[23]
+[49] M. Torn a également témoigné que M. Siu devait présenter des feuilles de temps au comptable du site, qui préparait ensuite les factures de M. Siu à la société. M. Greasley devait approuver les feuilles de temps.
+[50] Il a également témoigné qu’à un certain moment, correspondant à la période de la fin juillet au début d’août, M. Siu a mentionné à d’autres personnes à la mine qu’il allait travailler ailleurs pendant un certain temps. Le ministre a admis que M. Siu avait rendu des services à au moins un autre payeur durant l’année d’imposition 2011.[24]
+[51] En ce qui a trait à Mme Jackson, M. Torn a témoigné que personne ne lui disait où nettoyer chaque jour, quelles étaient ses priorités, comment faire le travail ou quels outils et fournitures utiliser. Mme Jackson était responsable de la tenue des stocks. Personne ne la supervisait et elle était libre d’aller et venir à son gré.[25] Elle était également libre de travailler ailleurs.
+[52] Mme Jackson était tenue d’assister aux rencontres de sécurité le matin à 7 h.
+[53] Comme M. Siu, Mme Jackson remettait un relevé de ses heures de travail au comptable de la mine, qui préparait ses factures.[26] M. Greasley devait approuver les feuilles de temps.
+[54] M. Siu et Mme Jackson n’ont pas reçu de rémunération pour les jours fériés ni pour les heures supplémentaires; ils n’ont pas non plus bénéficié d’un régime de soins médicaux ou dentaires ni d’un régime de retraite. Ils n’ont reçu aucune forme de prime.
+[55] Selon la dernière facture de M. Siu,[27] ce dernier a reçu un paiement de 1 472,24 $, avec la mention « Termination paid » (indemnité de départ payée). Ce montant correspond à 56 heures au taux de rémunération de M. Siu. Mme Jackson n’a pas reçu de montant similaire.
+[56] L’appelante n’a fourni aucune formation à M. Siu ou à Mme Jackson.
+[57] En contre-interrogatoire, M. Torn a convenu qu’il y avait des heures habituelles pour le service des repas au camp, et que s’il n’y avait pas de budget précis pour la nourriture, le montant qui pouvait être dépensé était limité à une somme raisonnable. Ce montant raisonnable serait déterminé par le gestionnaire, M. Greasley, et par le comptable de la mine.[28]
+[58] Il a également reconnu en contre-interrogatoire que le temps durant lequel les tâches de nettoyage pouvaient être effectuées était limité par l’organisation des activités du camp. Par exemple, les chambres devaient être nettoyées au moment où elles n’étaient pas utilisées. Il ne savait pas comment la qualité du travail était contrôlée et il a également admis que, même si les préposés au nettoyage se répartissaient le travail entre eux, quelqu’un devait avoir une certaine responsabilité générale pour le nettoyage qui devait être fait.[29]
+[59] J’ai de la difficulté à croire que l’appelante exerçait aussi peu de contrôle que M. Torn ne le laisse entendre, tout particulièrement si je tiens compte de la façon dont il a décrit le travail des cuisiniers et des préposés au nettoyage lors de son interrogatoire direct. En interrogatoire direct, on aurait presque dit qu’après avoir été embauchés pour fournir des repas ou faire la cuisine, les cuisiniers et les préposés au nettoyage travaillaient à peu près sans aucune interaction avec l’appelante, sauf pour la participation aux réunions de sécurité.
+[60] Bien que cette description générale ait été atténuée en contre-interrogatoire, alors qu’il est devenu clair que les cuisiniers et les préposés au nettoyage n’étaient pas aussi libres que ne le portait à croire l’interrogatoire direct, je ne peux pas accepter qu’il y ait eu aussi peu d’interaction tel qu’il a été suggéré, même après le contre-interrogatoire. La première raison pour laquelle j’en arrive à cette conclusion est que, même lorsqu’on traite avec des entrepreneurs indépendants, ces derniers doivent recevoir des directives précises sur ce qui est attendu d’eux, tout particulièrement lorsque le contrat est aussi vague que celui en l’occurrence.
+[61] Ma deuxième raison est le fait que durant les périodes les plus occupées, selon la preuve, il pouvait y avoir jusqu’à trois cuisiniers et cinq préposés au nettoyage sous contrat simultanément.
+[62] Bien que trois cuisiniers ou cinq préposés au nettoyage, qu’il s’agisse d’employés ou d’entrepreneurs indépendants, puissent très bien être en mesure de s’entendre la plupart du temps pour savoir qui effectuera quel travail et qui travaillera à quel moment, il y aura des moments où une entente ne pourra être conclue et où quelqu’un devra donner des directives. Il y aura aussi des moments où il y aura plus de travail que ce qui peut être fait durant une période fixe, et là encore, quelqu’un devra donner des directives quant à l’ordre de priorité des tâches.
+[63] Même si je suis convaincu qu’un cuisinier ou un préposé au nettoyage peut choisir de ne pas travailler durant une certaine période s’il est en mesure de faire en sorte que les autres cuisiniers ou préposés puissent prendre le relais, je n’accepte pas que si la personne n’est pas en mesure de le faire, elle puisse quand même prendre congé durant cette période sans subir de conséquences, par exemple la résiliation de son contrat.
+[64] Je ne peux voir qui, outre l’appelante, pourrait être la personne qui pourrait donner des directives au besoin.[30]
+[65] Sur la question du contrôle, je dois donc accorder moins de poids au témoignage de M. Torn. Son témoignage reflète probablement le fait qu’il travaillait la plupart du temps à Vancouver et ne se trouvait à la mine qu’en des occasions limitées. Il y avait davantage de directives que ce que son témoignage laisse entendre.
+[66] Puisqu’il y a jusqu’à trois cuisiniers et cinq préposés au nettoyage sous contrat simultanément, et compte tenu du fait que la preuve ne montre aucun mécanisme permettant aux entrepreneurs de savoir exactement quels services doivent être rendus à quel moment ou de déterminer qui devait fournir quels services et à quel moment, je suis convaincu que l’appelante avait le pouvoir de contrôler le travail selon les besoins.[31]
+[67] Je dois toutefois traiter d’une particularité dans le cas de M. Siu. Le ministre a supposé que ce dernier [traduction] « n’était pas supervisé, mais qu’il relevait de M. Greasley, le gestionnaire du camp. » Le ministre a également admis que [traduction] « l’appelante ne supervisait pas [M. Siu] et ne contrôlait pas comment les services étaient exécutés ou rendus. »[32]
+[68] Les autres hypothèses faites par le ministre montrent clairement qu’il a supposé certains éléments de contrôle, comme l’obligation supposée de demander la permission avant de prendre un congé. Pour cette raison, je ne crois pas que l’hypothèse selon laquelle M. Siu n’était pas supervisé devrait signifier qu’il n’y avait aucune forme de contrôle; cela signifie plutôt qu’il ne faisait pas l’objet d’une surveillance continuelle dans l’exécution de ses fonctions. Je note également que cette interprétation serait compatible avec l’admission selon laquelle aucun contrôle n’était exercé sur la façon dont les services étaient exécutés ou rendus; cette admission laisse ouverte la question de savoir si un contrôle pouvait être exercé et ne porte pas sur le contrôle du travail qui doit être fait et à quel moment il doit l’être.
+[69] Quel est l’effet de ces admissions? Elles réduisent la portée du contrôle qui pourrait être jugé avoir été réellement exercé sur la base des autres éléments de preuve.[33]
+Autres facteurs [70] M. Siu et Mme Jackson passaient généralement la nuit au camp, où l’on leur assurait le vivre et le couvert pendant leurs périodes de travail.[34]
+[71] Rien dans la preuve ne porte à croire que Mme Jackson a été, durant la période sous examen, engagée dans la prestation de services de nettoyage à différents clients. Sauf une exception, rien ne porte à croire non plus que M. Siu a fourni des services de préparation de repas à différents clients; dans le cas de la seule exception possible, nous ne savons pas si M. Siu était un employé ou un entrepreneur indépendant.
+Analyse [72] En ce qui concerne d’abord l’intention, le contrat est loin d’être clair, dans un sens ou dans l’autre. Bien que nous connaissions l’intention exprimée de la société, nous n’avons que des éléments de preuve limités en ce qui concerne l’intention de M. Siu et de Mme Jackson. Compte tenu de la preuve limitée quant à l’intention des deux travailleurs, de l’absence de toute hypothèse quant au statut qu’ils considéraient avoir, et du fait qu’il n’existe aucun élément de preuve laissant entendre qu’ils ont contesté l’absence de prélèvement de l’impôt sur le revenu, des cotisations à l’assurance-emploi et des cotisations au Régime de pensions du Canada, je conclus que M. Siu et Mme Jackson ont accepté l’arrangement proposé par l’appelante, arrangement selon lequel ils étaient des entrepreneurs indépendants.
+[73] Je passe maintenant à la deuxième étape, celle de la réalité objective.
+[74] Il existe trois facteurs qui pointent vers un contrat d’emploi : les deux travailleurs n’ont fourni aucun outil important, ils ne pouvaient pas embaucher d’aides et ils n’avaient aucune possibilité de pertes.
+[75] En ce qui concerne la possibilité de bénéfices, bien qu’ils aient eu la possibilité de gagner davantage en travaillant davantage, cela s’applique autant à un contrat d’emploi qu’à un contrat de prestation de services. Ils ne pouvaient pas augmenter leur rentabilité en devenant plus efficaces.
+[76] En ce qui concerne le contrôle, dans le cas de Mme Jackson, je suis convaincu que l’appelante avait le pouvoir de contrôler son travail.
+[77] Le résultat, dans le cas de Mme Jackson, est que la totalité des facteurs pointe clairement vers un contrat d’emploi.
+[78] La situation de M. Siu est plus complexe, en raison des plaidoyers du ministre, notamment l’admission que l’appelante ne contrôlait pas comment les services étaient exécutés ou rendus.
+[79] Cependant, cela signifie tout au plus que le critère de contrôle n’est d’aucune aide dans ce cas.[35] Ceci s’explique par les motifs évoqués par le juge associé MacGuigan dans l’arrêt Wiebe Door, dans un passage cité par la Cour suprême du Canada au paragraphe 38 de l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc. [36]
+38 On a dit de ce critère qu’il était [traduction] « d’une simplicité trompeuse » (Atiyah, op. cit., p. 41). Le juge MacGuigan expose les principales difficultés qu’il soulève, dans l’arrêt Wiebe Door, précité, pages 558 et 559 :
+Ce critère a le grave inconvénient de paraître assujetti aux termes exacts du contrat définissant les modalités du travail : si le contrat contient des instructions et des stipulations détaillées, comme c’est chose courante dans les contrats passés avec un entrepreneur indépendant, le contrôle ainsi exercé peut être encore plus rigoureux que s’il résultait d’instructions données au cours du travail, comme c’est l’habitude dans les contrats avec un préposé, mais une application littérale du critère pourrait laisser croire qu’en fait, le contrôle exercé est moins strict. En outre, le critère s’est révélé tout à fait inapplicable pour ce qui est des professionnels et des travailleurs hautement qualifiés, qui possèdent des aptitudes bien supérieures à la capacité de leur employeur à les diriger.
+[Non souligné dans l’original.]
+[80] C’est en raison de ces problèmes posés par le critère de contrôle traditionnel que le droit s’est déplacé vers l’examen plus large de l’ensemble des facteurs permettant de déterminer l’existence ou non d’un contrat d’emploi.[37]
+[81] Il en résulte que même si les plaidoyers m’obligent à conclure que le contrôle était entièrement un facteur neutre,[38] l’ensemble des facteurs continue d’indiquer que M. Siu était engagé dans un contrat d’emploi.[39]
+Conclusion [82] Par conséquent, les appels sont rejetés.
+Signé à Ottawa (Ontario), ce 31e jour de décembre 2014.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE :
+2014 CCI 381
+Nos DU DOSSIER DE LA COUR :
+2012-5119(EI)
+2012-5122(CPP)
+2012-5123(EI)
+2012-5124(CPP)
+INTITULÉ :
+TAGISH LAKE GOLD CORP. c. MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 29 août 2013
+MOTIFS DU JUGEMENT :
+L’honorable juge Gaston Jorré
+DATE DU JUGEMENT :
+Le 31 décembre 2014
+COMPARUTIONS :
+Avocate de l’appelante :
+Andrea S. Donohoe
+Avocats de l’intimé :
+Shankar Kamath
+Shannon Fenrich (stagiaire)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Andrea S. Donohoe
+Cabinet :
+Smeheram & Company
+Vancouver (Colombie-Britannique)
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Les avis d’appel de l’appelante indiquent Henry Siu alors que les réponses du ministre indiquent Henry Sui. Étant donné que la décision a été rendue à l’égard de Henry Siu, j’ai utilisé cette graphie partout. Le contrat présenté en pièce A-1 a été conclu entre l’appelante et Henry Siu, et les factures déposées en pièce A-2 sont établies au nom de Henry Siu. Je suppose que l’orthographe Sui dans les réponses du ministre est une erreur de frappe.
+[2] Même si la preuve documentaire relative à Mme Jackson porte sur la période du 19 avril au 19 octobre 2011, la preuve documentaire déposée par l’appelante montre qu’elle a travaillé tous les jours du 20 octobre au 30 octobre 2011; voir à cet effet la dernière page de la pièce A-5. Comme cette dernière période n’a pas été incluse dans la décision et qu’elle n’était pas en cause dans l’audience d’appel, je ne traiterai pas de cette dernière période dans mon jugement; cependant, dans les présents motifs, je l’examinerai dans le contexte de l’ensemble de la preuve.
+[3] Ou contrat de louage de services; j’utilise l’expression contrat d’emploi afin d’éviter toute confusion entre contrat de louage de services et contrat de prestation de services.
+[4] 2001 CSC 59, paragraphes 46 et 47.
+[5] 2013 CAF 85, paragraphes 23 à 41.
+[6] Même si une partie du témoignage de M. Torn était du ouï-dire, aucune objection n’a été soulevée. L’absence d’objection ne change pas le fait que les parties de la preuve qui relèvent du ouï-dire peuvent avoir moins de poids. La personne au sein de la société qui aurait été la mieux placée pour témoigner des faits pertinents aurait été Mark Greasley, le gestionnaire de projet sur place à la mine du Yukon. Cependant, l’appelante n’a pas été en mesure de localiser M. Greasley et de l’appeler à témoigner. L’intimé a déclaré qu’il n’appelait pas M. Siu ou Mme Jackson à témoigner, parce qu’il n’était pas économiquement viable de les faire venir du Yukon à Vancouver pour prendre part à l’audience. Ni M. Siu ni Mme Jackson ne sont intervenus. Je note que le paragraphe 18.29(1) de la Loi sur la Cour canadienne de l’impôt stipule que le paragraphe 18.15(3) de la Loi s’applique aux appels interjetés devant la Cour en vertu de la Loi sur l’assurance-emploi et du Régime de pensions du Canada.
+[7] Notes sténographiques, aux pages 57, 68 et 89. Mes renvois sont aux pages du document en « format imprimé ».
+[8] L’utilisation du terme « consultant » est surprenante.
+[9] Au premier abord, la disposition affirmant que M. Siu est seul responsable du paiement de l’impôt sur le revenu, des primes d’assurance-emploi et des cotisations de retraite semble exprimer la même intention. Cependant, lorsqu’on examine cette disposition de plus près, on peut constater qu’elle est plutôt inhabituelle. Les particuliers sont toujours responsables de l’impôt sur leur revenu; cette disposition signifie probablement que la société ne prélèvera pas l’impôt à la source. De plus, si l’appelante et M. Siu sont véritablement dans une relation d’entrepreneur indépendant, pourquoi quelqu’un devrait-il être responsable des primes d’assurance-emploi, qui ne seraient pas exigibles?
+Même si j’en déduisais que l’auteur du document avait probablement l’intention de dire qu’à titre d’entrepreneur indépendant, l’appelante ne sera pas admissible à l’assurance-emploi, je n’ai aucun moyen de savoir ce que M. Siu avait compris de l’entente. Ceci soulève la question de savoir de quelle façon M. Siu a compris l’entente qu’il concluait.
+[10] D’autres dispositions du contrat sont aussi plus compatibles avec un contrat d’emploi. Par exemple, à l’article 1 de la pièce A‑1, l’appelante retient les services de M. Siu [traduction] « à titre de cuisinier et de préposé à la sécurité et aux premiers soins du camp ». Dans le contexte d’un contrat de prestation de services, on se serait attendu à une formulation du type « retient les services de M. Siu pour assurer les services de préparation des repas et les services de sécurité et de premiers soins du camp ».
+Le même commentaire s’applique au fait que l’un des motifs de résiliation de l’entente, à l’article 4, est le défaut de s’acquitter de ses fonctions de manière compétente et professionnelle.
+Les mêmes commentaires s’appliquent au contrat de Mme Jackson.
+[11] Le ministre a présumé que le taux avait été fixé par la société.
+[12] Pièce A‑4, datée du 19 juillet 2011. L’entente du 19 juillet 2011 remplace l’entente du 19 avril 2011 – pièce A‑3. L’entente du 19 avril 2011 mentionne à la fois les services de préparation des repas et d’exploitation du camp. Dans son témoignage, M. Torn a indiqué que la modification de la description était une correction visant à ce que l’entente du 19 juillet 2011 reflète les tâches réelles de Mme Jackson, les services d’exploitation du camp – voir la page 88 et, plus particulièrement, la page 89 des notes sténographiques.
+[13] L’entente de Mme Jackson prévoyait également une indemnité de 0,60 $ par kilomètre si elle devait utiliser son véhicule à des fins commerciales. Ceci ne se serait produit qu’une seule fois – voir la pièce A‑5 à la page, datée du 15 septembre 2011.
+[14] Encore une fois, ce qui frappe est le manque de détails sur les services qui doivent être rendus et la possibilité pour la société de requérir des services connexes sans aucune possibilité de discuter des modalités de l’entente. Un petit exemple de cette généralité : il n’y a aucun élément indiquant si les chambres où dorment les gens doivent être nettoyées tous les jours ou une fois par semaine.
+[15] Voir le paragraphe 16 ci-dessus. Son témoignage sur ce qui a été entendu verbalement entre l’appelante et M. Greasely.
+[16] La société a payé les cotisations d’indemnisation des accidents du travail. Cependant, le fait de payer les cotisations en vertu de la Loi sur les accidents du travail du Yukon, SY 2008, ch.12, modifiée, n’est pas nécessairement en opposition avec cette intention, puisque la Loi ne couvre pas uniquement les contrats d’emploi; voir à cet effet (a) la définition de « travailleur » au paragraphe 3(1) de la Loi, qui inclut également des personnes qui ne sont pas des employés. Le paragraphe 3(2) dispose :
+Sous réserve du paragraphe (3), la personne qui exécute dans une industrie un travail quel qu’il soit pour le compte d’un employeur exerçant son activité dans cette industrie est réputée, aux fins d’application de la présente loi, être un travailleur de cet employeur, sauf si elle est :
+a) un employeur dans une industrie;
+b) l’administrateur d’une société par actions à responsabilité limitée que la Commission considère ne pas être un travailleur;
+c) un travailleur d’un autre employeur;
+d) un propriétaire unique que la Commission considère être un employeur.
+[Non souligné dans l’original.]
+Le paragraphe 3(1) définit comme suit le « propriétaire unique » :
+« Travailleur autonome et sans personnalité morale qui exerce son activité au sein d’une industrie ».
+Selon la définition donnée au paragraphe 3(1), un « employeur » est « La personne
+[...] qui a à son service un ou plusieurs travailleurs d’une industrie. [...] »
+Donc, que M. Siu et Mme Jackson soient des employés ou des entrepreneurs indépendants aux fins de l’assurance-emploi, ils sont considérés comme des travailleurs au sens de la Loi sur les accidents du travail du Yukon.
+Ni M. Siu ni Mme Jackson n’ont inclus la TPS sur leurs factures. M. Torn a témoigné que l’appelante comprenait qu’ils en étaient tous deux exemptés. S’ils étaient des entrepreneurs indépendants et des petits fournisseurs au sens du paragraphe 148(1) de la Loi sur la taxe d’accise, ils n’auraient pas été tenus de facturer la TPS, et le défaut de facturer la TPS n’aurait pas été incompatible avec leur statut d’entrepreneur indépendant. Le paragraphe 148(1) établit les règles pour l’application du seuil de 30 000 $ pour les petits fournisseurs.
+En supposant qu’ils étaient des entrepreneurs indépendants, nous ne savons pas s’ils ont rendus des services autres que ceux rendus à l’appelante et, dans le cas où de tels services auraient été rendus, comment ils auraient touché leur statut de petit fournisseur. Nous connaissons cependant les sommes qu’ils ont facturées à l’appelante, selon les pièces A‑2 et A‑5. Mme Jackson a effectivement facturé plus de 30 000 $ à l’appelante en 2011; cependant, elle n’a franchi le seuil de 30 000 $ qu’en octobre 2011. Compte tenu des dispositions du paragraphe 148(1) de la Loi sur la taxe d’accise, et si l’on suppose qu’elle n’avait pas rendus d’autres services taxables à des personnes autres que l’appelante, elle aurait été un petit fournisseur durant la période en question ici.
+Le cas de M. Siu est différent. La pièce A‑2 nous indique qu’il a facturé plus de 40 000 $ à l’appelante durant la période en cause et qu’il a franchi le seuil de 30 000 $ avant le 30 septembre 2011. Compte tenu des dispositions du paragraphe 148(1) de la Loi sur la taxe d’accise, et si l’on suppose qu’il n’y avait pas de services taxables autres que ceux rendus à l’appelante, il aurait cessé d’être un petit fournisseur le 1er novembre 2011, de sorte qu’il aurait dû inclure la TPS sur les deux dernières factures contenues dans la pièce A‑2. Ce défaut est incompatible avec le statut d’entrepreneur indépendant, bien qu’il puisse s’agir d’une omission. Puisque c’est le comptable de l’appelante qui a préparé les factures, il s’agit d’une incohérence de la part de M. Siu et de l’appelante; dans la mesure où il s’agit d’une omission, c’est une omission de la part de M. Siu et de l’appelante.
+[17] Même en faisant la moyenne des heures de travail sur la période totale, en incluant les journées durant lesquelles il n’a pas travaillé, cela correspond à un peu plus de 7,7 heures par jour durant l’ensemble de la période ou encore à une semaine de travail moyenne de 54 heures. M. Siu :
+a travaillé durant 34 jours consécutifs du 19 avril au 22 mai, suivi de 14 jours de pause;
+a travaillé durant 28 jours consécutifs du 6 juin au 3 juillet, suivi de 14 jours de pause;
+a travaillé durant 28 jours consécutifs du 18 juillet au 14 août, suivi de 28 jours de pause;
+a travaillé durant 13 des 14 jours compris entre le 12 septembre et le 25 septembre, suivi de 14 jours de pause; et finalement,
+a travaillé durant 30 jours consécutifs du 10 octobre au 8 novembre.
+Voir la pièce A‑2.
+[18] Si l’on fait la moyenne des heures de travail sur l’ensemble de la période, elle a travaillé en moyenne 7,3 heures par jour, ou un peu plus de 51 heures par semaine.
+Ses périodes de travail étaient les mêmes que celles de M. Siu, à deux exceptions près. Elle a d’abord travaillé du 30 août au 11 septembre 2011, alors qu’il ne travaillait pas; elle a cessé de travailler le 30 octobre, alors qu’il a continué de travailler jusqu’au 8 novembre 2011.
+Je note également que durant cinq de ses six derniers jours de travail, elle n’a travaillé que six heures par jour, et qu’elle a travaillé durant huit heures lors de sa dernière journée de travail.
+[19] Notes sténographiques à la page 26.
+[20] Comme il a été mentionné précédemment, Mme Jackson n’a été remboursée qu’une seule fois pour l’utilisation de sa voiture; la preuve ne nous permet pas déterminer si Mme Jackson et M. Siu avaient chacun leur voiture ou une même voiture.
+[21] Notes sténographiques aux pages 77, 78, 89, 90 et 91.
+[22] Notes sténographiques, aux pages 22 à 25.
+[23] Voir, notamment, les notes sténographiques aux pages 26 et 28.
+[24] Voir l’article 12 de l’avis d’appel dans le dossier 2012-5119(EI) et le paragraphe 1 de la réponse à l’avis d’appel. Le fait que M. Siu a fourni des services à un autre payeur à un moment donné à la fin juillet ou au début d’août ne nous dit pas s’il l’a fait à titre d’employé ou d’entrepreneur indépendant. Outre cette période, en raison de ses longues heures de travail pour l’appelant, il ne disposait que d’un temps limité pour travailler pour d’autres payeurs s’il voulait obtenir un minimum de repos. Mme Jackson ne disposait que d’un temps limité pour travailler pour d’autres durant la période en question, compte tenu de ses heures de travail pour l’appelante.
+[25] Notes sténographiques aux pages 41 et 42.
+[26] Pièce A‑5.
+[27] Voir la dernière page de la pièce A‑2.
+[28] Notes sténographiques, aux pages 60, 61 et 64.
+[29] Notes sténographiques à la page 70.
+[30] Il est important de rappeler, dans ce contexte, que la clé en ce qui a trait au critère de contrôle n’est pas que ce contrôle soit exercé, mais bien de savoir si le payeur, en l’occurrence l’appelante, a le droit de l’exercer. Ce pouvoir ne peut être exercé qu’à l’occasion. Il importe cependant d’établir la distinction entre le contrôle du travail effectué et l’exercice d’un contrôle de qualité sur les services rendus.
+[31] Je suis également convaincu que ce pouvoir était le pouvoir de contrôler le travail et non le pouvoir de contrôler la qualité des services rendus.
+[32] Voir les paragraphes 9x) et 1 de la réponse à l’avis d’appel et le paragraphe 9 de l’avis d’appel 2012-5119(EI).
+[33] Voir également le paragraphe 79 ci-dessous.
+[34] Il existe des éléments de preuve en ce qui concerne la possibilité qu’il y ait eu un plan dans les périodes de travail de M. Siu et de Mme Jackson. Je ne suis pas convaincu que cela a une grande importance, mais les notes de bas de page 17 et 24 précitées semblent indiquer une certaine planification.
+[35] Et je ne suis pas convaincu que ce soit le cas, même si, à la suite des plaidoyers, je dois conclure que le degré de contrôle réellement exercé dans le cas de M. Siu est inférieur à celui exercé dans le cas de Mme Jackson.
+[36] [2001] 2 RCS 983, 2001 CSC 59.
+[37] (Voir les paragraphes 5 et 6 précités.)
+[38] Comme je l’ai indiqué dans une note précédente, je ne suis pas convaincu que ce soit le cas.
+[39] L’appelante a mentionné la décision de ce tribunal dans le dossier Therrien c. M.R.N., 2013 CCI 116. Cette cause est passablement différente de celle en l’espèce, de différentes façons; elle ne s’applique pas ici.
+Il existe deux différences très importantes.
+Premièrement, M. Therrien, un cuisinier, avait été embauché pour « s’occuper de tout » ce qui concernait les services alimentaires au centre de villégiature où s’effectuait le travail. Il devait non seulement superviser la préparation des repas, la création du menu, le choix des fournisseurs, la négociation avec les fournisseurs et les commandes de nourriture, mais aussi assurer l’embauche, la formation et la direction de l’ensemble du personnel de cuisine et de service. Il avait le contrôle complet des opérations alimentaires.
+La situation en l’espèce est passablement différente. M. Siu n’était pas responsable des autres membres du personnel de cuisine; les autres cuisiniers étaient embauchés par l’appelante selon les mêmes conditions que lui. Il ne pouvait pas, par exemple, décider unilatéralement qu’un autre cuisinier en particulier travaillerait durant une journée en particulier, lorsqu’il choisirait de s’absenter.
+Deuxièmement, et c’est un élément très important, M. Therrien était payé un montant fixe par semaine; s’il pouvait exploiter les services alimentaires en y consacrant moins de temps, il pouvait augmenter la rentabilité de chaque heure travaillée. En fait, selon le jugement, c’est ce qui s’est produit. Au fil des mois, M. Therrien a consacré de moins en moins d’heures à la gestion des services alimentaires, augmentant ainsi la rentabilité de chaque heure travaillée.
+La situation en l’espèce est très différente : si M. Siu avait été en mesure de faire ce qu’il avait à faire en moins de temps parce qu’il avait trouvé une façon plus efficace de le faire, son revenu aurait diminué.

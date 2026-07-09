@@ -1,0 +1,397 @@
+---
+title: "Chartwell Management Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26347/index.do"
+last_modified: "2004-11-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 728"
+citation2: ""
+neutral_citation: "2004 CCI 728"
+decision_date: "2004-11-08"
+language: "fr"
+item_id: "26347"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3327
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:51:42.886000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "adeaf04f952f6abedfc40bc6c9a255659112e9e3be5d4e6a1239712d769044e8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chartwell Management Inc. c. La Reine
+
+- Citation: 2004 CCI 728
+- Decision date: 2004-11-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3327, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chartwell Management Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-11-08
+Référence neutre
+2004 CCI 728
+Numéro de dossier
+2002-2638(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-2638(IT)G
+ENTRE :
+CHARTWELL MANAGEMENT INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 18 et 19 octobre 2004, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Avocat de l’appelante :
+Me Kurt Wintermute
+Avocat de l’intimée :
+Me Lyle Bouvier
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1995, 1996 et 1997 sont accueillis et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation.
+Ni l’une ni l’autre partie n’a droit aux dépens.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2004.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 30e jour de mars 2009.
+D. Laberge, LL.L.
+Dossier : 2002-2639(IT)G
+ENTRE :
+CENTUS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 18 et 19 octobre 2004, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Avocat de l’appelante :
+Me Kurt Wintermute
+Avocat de l’intimée :
+Me Lyle Bouvier
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1996 et 1997 sont accueillis et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation.
+Ni l’une ni l’autre partie n’a droit aux dépens.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2004.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 30e jour de mars 2009.
+D. Laberge, LL.L.
+Référence : 2004CCI728
+Date : 20041108
+Dossier : 2002-2638(IT)G
+ENTRE :
+CHARTWELL MANAGEMENT INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2002-2639(IT)G
+ET ENTRE :
+CENTUS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 18 et 19 octobre 2004, à Saskatoon (Saskatchewan).
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Les présents appels, qui ont été interjetés sous le régime de la procédure générale, ont été entendus ensemble sur preuve commune à Saskatoon (Saskatchewan), les 18 et 19 octobre 2004.
+[2] Les appelantes ont cité Joseph Donlevy, B.A., M.B.A., qui, pendant la période pertinente, était directeur de l’exploitation et administrateur de Chartwell Management Inc. (« Chartwell »), Douglas Konkin, B. Eng., M.Sc., ing., qui, pendant la période pertinente, était dirigeant et exploitant de Centus Inc. (« Centus »), et Thomas Zurowski, C.A., associé du cabinet KPMG, LLP qui, pendant la période pertinente, était le cabinet comptable de Hypercore Technology Inc. (« Hypercore ») et de Chartwell. L’intimée a cité Bonnie Lindgren, qui était l’agente, à l’Agence du revenu du Canada, chargée d’établir les nouvelles cotisations établies à l’égard des appelantes.
+[3] Les paragraphes 6 à 23 de la réponse à l’avis d’appel de Chartwell exposent les questions en litige dans les présents appels en ce qui concerne les années 1995, 1996 et 1997. Ils sont rédigés comme suit :
+[traduction]
+6. En ce qui concerne le paragraphe 10 de l’avis d’appel, il admet que l’appelante a fourni des services de gestion et a loué du matériel à Hypercore moyennant une contrepartie s’élevant à 13 268 $ en tout au cours de l’exercice 1995 (les « frais de 1995 »), mais il ne sait pas si les frais ont été payés au cours de l’exercice 1995 et il n’admet donc pas que l’appelante n’avait pas reçu le montant susmentionné au 31 décembre 1995.
+7. En ce qui concerne les paragraphes 11, 17 et 23 de l’avis d’appel, il admet que les comptables agréés KPMG (« KPMG ») ont préparé les états financiers et les déclarations de revenus de l’appelante pour les exercices 1995, 1996 et 1997; toutefois, plus exactement, il déclare que les états financiers et les déclarations de revenus ont été préparés compte tenu des renseignements fournis par l’appelante. Il n’a pas connaissance des autres faits allégués dans les paragraphes susmentionnés et il demande que l’appelante soit tenue d’en faire la preuve.
+8. En ce qui concerne les paragraphes 12, 18 et 24 de l’avis d’appel, il admet que KPMG a préparé les états financiers et les déclarations de revenus de l’appelante pour les exercices 1995, 1996 et 1997 et que les montants que l’appelante a facturés à Hypercore n’ont pas été inclus dans les états financiers et dans les déclarations de revenus de l’appelante. Toutefois, plus exactement, il déclare que les montants susmentionnés n’étaient pas non plus inscrits dans les livres et registres de l’appelante. Il n’a pas connaissance des autres faits allégués dans les paragraphes susmentionnés et il demande que l’appelante soit tenue d’en faire la preuve.
+9. En ce qui concerne le paragraphe 16 de l’avis d’appel, il admet que l’appelante a fourni des services de gestion et a loué du matériel à Hypercore moyennant une contrepartie s’élevant à 60 015 $ en tout au cours de l’exercice 1996 (les « frais de 1996 »), mais il ne sait pas si les frais ont été payés au cours de l’exercice de 1996 et il n’admet donc pas que l’appelante n’avait pas reçu les frais de 1995 ou de 1996 au 31 décembre 1996.
+10. En ce qui concerne le paragraphe 12 de l’avis d’appel, il admet que l’appelante a fourni des services de gestion et a loué du matériel à Hypercore moyennant une contrepartie s’élevant à 54 624 $ en tout au cours de l’exercice 1997 (les « frais de 1997 »), mais il ne sait pas si les frais ont été payés au cours de l’exercice 1997 et il n’admet donc pas que l’appelante n’avait pas reçu les frais de 1995, les frais de 1996 ou les frais de 1997 au 31 décembre 1997.
+11. En ce qui concerne le paragraphe 29 de l’avis d’appel, il admet que Develcon Electronics Ltd. (« Develcon ») a offert d’acheter toutes les actions en circulation de Hypercore, mais il n’a pas connaissance des autres faits allégués et il demande que l’appelante soit tenue d’en faire la preuve.
+12. En ce qui concerne le paragraphe 32 de l’avis d’appel, il admet que Develcon a acheté toutes les actions en circulation de Hypercore, mais il n’a pas connaissance des autres faits allégués et il demande que l’appelante soit tenue d’en faire la preuve.
+13. L’appelante a déclaré les montants suivants dans ses déclarations de revenus T2 pour les années d’imposition 1995, 1996 et 1997 :
+1995
+1996
+1997
+Revenu imposable
+46 635,00 $
+28 921,00 $
+167 840,00 $
+Impôts sur le revenu -fédéral – Partie I
+5 705,49 $
+3 795,00 $
+29 675,00 $
+14. Le ministre du Revenu national (le « ministre ») a initialement établi une cotisation à l’égard de l’appelante pour l’année d’imposition 1995 le 30 septembre 1996.
+15. Le ministre a initialement établi une cotisation à l’égard de l’appelante pour l’année d’imposition 1996 le 18 août 1997.
+16. Le ministre a initialement établi une cotisation à l’égard de l’appelante pour l’année d’imposition 1997 le 28 septembre 1998.
+17. Dans le calcul de son revenu pour l’année d’imposition 1995, l’appelante n’a pas inclus un revenu gagné, s’élevant à 13 268 $ en tout. En établissant une nouvelle cotisation à l’égard de l’appelante pour l’année d’imposition 1995, le ministre a ajouté un montant de 13 268 $ au revenu de l’appelante. Le ministre a également imposé des pénalités pour l’année d’imposition 1995, conformément au paragraphe 163(2) de la Loi.
+18. Dans le calcul de son revenu pour l’année d’imposition 1996, l’appelante n’a pas inclus un revenu gagné, s’élevant à 60 015 $ en tout. En établissant une nouvelle cotisation à l’égard de l’appelante pour l’année d’imposition 1996, le ministre a ajouté un montant de 60 015 $ au revenu de l’appelante. Le ministre a également imposé des pénalités pour l’année d’imposition 1996, conformément au paragraphe 163(2) de la Loi.
+19. Dans le calcul de son revenu pour l’année d’imposition 1997, l’appelante n’a pas inclus un revenu gagné, s’élevant à 54 624 $ en tout. En établissant une nouvelle cotisation à l’égard de l’appelante pour l’année d’imposition 1997, le ministre a ajouté un montant de 54 624 $ au revenu de l’appelante. Le ministre a également imposé des pénalités pour l’année d’imposition 1997, conformément au paragraphe 163(2) de la Loi.
+20. Le ministre a délivré des avis de nouvelle cotisation pour les années d’imposition 1995, 1996 et 1997 de l’appelante le 27 juillet 2000.
+21. En établissant ainsi les nouvelles cotisations de l’appelante pour les années d’imposition 1995, 1996 et 1997, le ministre a notamment émis les hypothèses suivantes :
+a) l’appelante est une société constituée en personne morale en vertu de la Business Corporation Act de l’Alberta, et elle est inscrite à l’extérieur de la province en vertu de Business Corporations Act de la Saskatchewan;
+b) pendant la période pertinente, l’appelante exploitait, en Saskatchewan, une entreprise dans le cadre de laquelle elle fournissait des services de consultation et de gestion et louait du matériel;
+c) pendant la période pertinente, Martin Joseph Donlevy détenait 50 p. 100 des actions émises et en circulation de la catégorie A du capital‑actions de l’appelante et Claire Donlevy en détenait 50 p. 100;
+d) pendant la période pertinente, Martin Joseph Donlevy était également connu sous le nom de Joe ou de Joseph Donlevy;
+e) pendant la période pertinente, Joseph Donlevy était administrateur et secrétaire‑trésorier de l’appelante;
+f) pendant la période pertinente, Joseph Donlevy était actionnaire de Hypercore;
+g) pendant la période pertinente, Joseph Donlevy était administrateur et président de Hypercore;
+h) Joseph Donlevy a assuré la gestion de Hypercore pendant les trois années en litige et tant que les actions n’ont pas été vendues à Develcon Electronics Ltd. (« Develcon ») et il était chargé de la gestion financière de Hypercore et s’occupait notamment de trouver des capitaux additionnels, de présenter des demandes de subventions à CANARIE et de présenter des demandes au titre des activités de recherche scientifique et de développement expérimental (« RSDE »);
+i) pendant la période pertinente, Hypercore exploitait, en Saskatchewan, une entreprise dans le cadre de laquelle elle se livrait à des activités de recherche scientifique et de développement;
+j) au cours des années d’imposition 1995, 1996 et 1997, l’appelante fournissait des services de gestion et louait du matériel informatique à Hypercore;
+k) au cours de l’année d’imposition 1995, l’appelante a gagné un montant d’au moins 13 268 $ provenant de Hypercore en fournissant à Hypercore des services de gestion et du matériel informatique;
+l) au cours de l’année d’imposition 1996, l’appelante a gagné un montant de 60 015 $ provenant de Hypercore en fournissant à Hypercore des services de gestion et du matériel informatique;
+m) au cours de l’année d’imposition 1997, l’appelante a gagné un montant de 54 624 $ provenant de Hypercore en fournissant à Hypercore des services de gestion et du matériel informatique;
+n) Joseph Donlevy préparait ou veillait à ce qu’un membre de son personnel prépare les factures de l’appelante à l’intention de Hypercore, aux montants mentionnés aux alinéas k), l) et m);
+o) les factures mentionnées à l’alinéa n) étaient basées sur le temps que Joseph consacrait à la gestion des activités commerciales de Hypercore et sur la quantité de matériel loué;
+p) Hypercore utilisait les factures mentionnées à l’alinéa n) à l’appui des demandes de subventions qu’elle présentait à CANARIE et au titre des activités de RSDE;
+q) les montants que Hypercore a reçus par suite des subventions accordées par CANARIE et au titre des activités de RSDE ont été réinvestis dans Hypercore, au lieu de servir au paiement de l’appelante;
+r) l’appelante a convenu que les montants que Hypercore recevait par suite des subventions accordées par CANARIE et au titre des activités de RSDE devaient être réinvestis dans Hypercore;
+s) le personnel interne, géré par Joseph Donlevy, préparait les livres et registres de l’appelante;
+t) l’appelante n’a pas inscrit le revenu susmentionné ou les sommes à recevoir de Hypercore dans ses livres et registres pour les années 1995, 1996 et 1997; de plus, l’appelante n’a pas inclus les montants dans une provision pour comptes douteux ou pour créances irrécouvrables dans ses livres et registres;
+u) l’appelante n’a pas inclus les montants susmentionnés dans son revenu lorsqu’elle a produit ses déclarations pour les années d’imposition 1995, 1996 et 1997;
+v) toutes les recettes de l’appelante proviennent de la gestion d’autres entreprises commerciales;
+w) le comptable de l’appelante préparait également les déclarations de revenus de Hypercore;
+x) le comptable de l’appelante a déclaré que les montants que Hypercore devait payer, lesquels comprenaient les montants payés à l’appelante, étaient convertis en capital afin d’étayer la demande présentée par Hypercore au titre des activités de RSDE;
+y) le comptable de l’appelante a admis que la conversion des sommes à payer en capital‑actions constitue en fait un paiement de dépenses et un réinvestissement subséquent dans Hypercore;
+z) Joseph Donlevy a au moins une connaissance de base en matière fiscale;
+aa) Joseph Donlevy possède énormément d’expérience dans les affaires, acquise auprès de diverses sociétés, de divers ministères gouvernementaux et par suite de ses activités financières personnelles;
+bb) Joseph Donlevy a signé une note de service datée du 26 janvier 1996 indiquant que l’appelante acceptait de prêter le montant à payer à l’égard de la location de matériel à Hypercore;
+cc) Joseph Donlevy a signé, pour le compte de l’appelante, une entente selon laquelle le montant payable à l’appelante par Hypercore était affecté au capital d’apport;
+dd) les montants payables à l’appelante par Hypercore n’étaient pas des créances irrécouvrables;
+ee) l’appelante n’a pas tenté de recouvrer les montants de Hypercore;
+ff) Hypercore a poursuivi ses activités de recherche;
+gg) le potentiel de recherche de Hypercore a continué à progresser;
+hh) Hypercore a continué à être une entreprise en pleine activité, et des fonds ont continué à être injectés dans la société;
+ii) la valeur des connaissances techniques acquises par la société n’était pas comptabilisée dans les états financiers de Hypercore;
+jj) Joseph Donlevy, dirigeant de l’appelante, était parfaitement au courant de la situation de Hypercore et de son potentiel;
+kk) l’appelante a continué à fournir à Hypercore les services de M. Donlevy ainsi que du matériel informatique;
+ll) Develcon était une société publique;
+mm) en 1995, Develcon a acheté des actions de Hypercore et elle a acquis une option d’achat d’actions additionnelles;
+nn) Develcon a levé l’option;
+oo) Develcon a versé un montant de 1 483 937,40 $ pour les actions;
+pp) le comptable de l’appelant, Tom Zurowski, acceptait que les montants soient inclus dans le revenu;
+qq) la méthode comptable employée par l’appelante pour les sommes à recevoir de Hypercore n’était pas conforme aux recommandations comptables et aux méthodes de déclaration généralement reconnues de l’ICCA;
+rr) le montant de 200 195 $ qui était dû à l’appelante était inscrit à titre de prêt d’actionnaire dans la convention unanime des actionnaires;
+ss) l’appelante a déclaré un revenu imposable de 43 635 $ pour l’année d’imposition 1995. Le revenu imposable de l’appelante pour l’année d’imposition 1995 s’élevait à au moins 56 903 $. Le revenu de l’appelante a été déclaré en moins d’un montant de 13 268 $ pour l’année d’imposition 1995;
+tt) l’appelante a déclaré un revenu imposable de 28 921 $ pour l’année d’imposition 1996. Le revenu imposable de l’appelante pour l’année d’imposition 1996 s’élevait à au moins 88 936 $. Le revenu de l’appelante a été déclaré en moins d’un montant de 60 015 $ pour l’année d’imposition 1996;
+uu) l’appelante a déclaré un revenu imposable de 167 840 $ pour l’année d’imposition 1997. Le revenu imposable de l’appelante pour l’année d’imposition 1997 s’élevait à au moins 222 464 $. Le revenu de l’appelante a été déclaré en moins d’un montant de 54 624 $ pour l’année d’imposition 1997;
+vv) en omettant d’inclure les montants susmentionnés dans le revenu, l’appelante a fait, en produisant ses déclarations pour les années d’imposition susmentionnées, une présentation erronée des faits, par négligence, inattention ou omission volontaire;
+ww) l’appelante, sciemment ou dans des circonstances équivalant à faute lourde dans l’exercice d’une obligation prévue à la Loi, a fait de faux énoncés ou des omissions dans les déclarations de revenus produites pour les années d’imposition 1995, 1996 et 1997, ou y a participé, consenti ou acquiescé, de sorte que l’impôt qui aurait été payable, lequel a été établi selon les renseignements fournis dans les déclarations de revenus de l’appelante qui ont été produites pour ces années‑là, était inférieur à l’impôt payable d’un montant de 1 734,86 $, 17 463,16 $ et 15 906,51 $ respectivement.
+22. Par suite de la déclaration en moins du revenu, le ministre a imposé, à l’égard de l’appelante, les pénalités suivantes en vertu du paragraphe 163(3) de la Loi pour les années d’imposition 1995, 1996 et 1997 :
+Année d’imposition
+Pénalités
+1995
+867,43 $
+1996
+8 731,58 $
+1997
+7 953,25 $
+B. QUESTIONS À TRANCHER
+23. Les questions en litige sont ci‑après énoncées :
+a) Le revenu de l’appelante pour les années d’imposition 1995, 1996 et 1997 a‑t‑il été déclaré en moins?
+b) Le ministre peut-il établir une nouvelle cotisation concernant l’impôt, les pénalités et les intérêts, pour l’année d’imposition 1995 de l’appelante, conformément au sous‑alinéa 152(4)a)(i)?
+c) Le ministre a‑t‑il eu raison d’imposer des pénalités conformément au paragraphe 163(2) de la Loi pour les années d’imposition 1995, 1996 et 1997?
+[4] Les hypothèses figurant aux alinéas 21 a), b), c), d), e), f), g), i), j), k), l), m), n), o), p), s), t) et u), sauf pour deux factures en 1995, w), z), ee), ii), mais voir le paragraphe [8] jj) ci‑dessous, jj), kk), ll), mm), nn), oo) et pp) n’ont pas été réfutées.
+[5] En ce qui concerne les autres hypothèses énoncées au paragraphe 21 :
+h) Cette hypothèse est exacte, sauf que M. Donlevy n’a pas présenté de demandes de subventions au titre des activités de RSDE. Ces subventions ont été demandées après que M. Donlevy et M. Konkin eurent vendu toutes leurs actions à Develcon, qui détenait par la suite la totalité des actions de Hypercore.
+q) Les subventions relatives aux activités de RSDE ont été obtenues après que la propriété de Hypercore eut été transférée à Develcon; on ne sait pas comment Develcon ou Hypercore ont utilisé ces subventions, à ce moment‑là, mais Hypercore avait mis fin à ses activités.
+r) Les appelantes n’étaient pas actionnaires de Hypercore et il importait peu qu’elles approuvent ce qui se passait en ce qui concerne les subventions accordées par CANARIE, étant donné que ces subventions appartenaient à Hypercore. Les subventions relatives aux activités de RSDE ont été demandées et obtenues par Hypercore après les années en question.
+v) Cette hypothèse est erronée. Chartwell louait également du matériel à titre onéreux.
+x) et y) Ces hypothèses sont exactes, mais le comptable des appelantes a donné des conseils à ce sujet et a agi à cet égard pour le compte de Hypercore en sa qualité de comptable de Hypercore. La déclaration a été faite compte tenu de ce que le comptable savait des faits.
+aa) Joseph Donlevy possède passablement d’expérience dans les affaires, mais il ne possède pas « énormément » d’expérience, et à ce moment‑là, il s’occupait notamment des activités de deux entreprises qui ont échoué. Par conséquent, la qualité de cette expérience est douteuse.
+bb) Cette hypothèse est exacte. Cependant, selon la preuve, les montants facturés n’ont jamais été payés aux appelantes pour être de nouveau prêtés en espèces ou même pour être utilisés comme inscription comptable. Les problèmes de flux de trésorerie de Hypercore étaient si graves que ses recettes servaient au paiement des salaires des ingénieurs et à l’achat du matériel nécessaire plutôt qu’à payer les appelantes.
+cc) Cette hypothèse est erronée. M. Donlevy et M. Konkin ont chacun signé l’entente pour leur compte à titre d’actionnaires, et non pour le compte des appelantes.
+dd) Les montants payables aux appelantes n’ont jamais été déclarés ou choisis par l’appelante à titre de créances douteuses ou de créances irrécouvrables. Toutefois, selon la preuve mise à la disposition de la Cour, Hypercore a toujours été à court d’argent, au point qu’elle a toujours été insolvable. Sans les prêts consentis par les actionnaires, les capitaux fournis par de nouveaux actionnaires et le report des paiements à effectuer à des non‑employés, Hypercore aurait toujours été sous séquestre ou en faillite. Cela étant, les montants dus aux appelantes par Hypercore constituaient toujours en fait des créances irrécouvrables.
+ff) et gg) Hypercore a poursuivi ses activités de recherche, sauf entre le 31 octobre et le 31 décembre 1995, lorsqu’elle manquait de fonds, et à compter du mois de juin 1997 environ, après quoi elle n’a jamais eu suffisamment de fonds et ses ingénieurs faisaient des démonstrations à des prêteurs ou à des investisseurs éventuels. Au cours de ces démonstrations, il est devenu évident, aux yeux de M. Konkin (et la Cour accepte la chose comme étant vraie), que le commutateur mis au point par Hypercore n’avait pas été retenu, du fait qu’un autre système de technologie avait été adopté dans l’industrie pour les commutateurs. En fait, à cause de l’insuffisance des fonds, Hypercore a toujours été obligée de se contenter d’outils inadéquats et d’utiliser une technologie programmable (au lieu de fabriquer ses propres circuits intégrés), de sorte que, en 1997, son seul commutateur en démonstration fonctionnait à la moitié de la vitesse prévue, avec du câblage et des connexions informatiques non satisfaisantes. Un examen externe effectué par « Technica », que Develcon avait exigé en 1997, établissait que le commutateur envisagé nécessitait deux autres années de travail, soit un investissement additionnel de 7 millions de dollars (américains) et les services d’une équipe spécialisée dans la mise au point de produits.
+hh) Par conséquent, dès le départ, en 1995, et par la suite, Hypercore était une entreprise en difficulté qui exerçait ses activités au jour le jour, avec une pénurie de fonds, du matériel inadéquat et un personnel restreint. Hypercore n’était pas en mesure de mettre au point son idée de commutateur hypertube pour les télécommunications à l’aide de la technologie de pointe. Par conséquent, à compter du moment où elle n’était pas en mesure de fabriquer ses propres circuits intégrés pour le commutateur hypertube, Hypercore était vouée à l’échec dans l’industrie de pointe en évolution constante de l’électronique. Cette conclusion n’est pas simplement tirée après coup. Selon le témoignage de M. Konkin, le personnel d’ingénierie de Hypercore savait alors qu’il ne disposait pas de suffisamment de fonds pour fabriquer son propre circuit intégré. Par conséquent, l’étude effectuée par Technica et les propres démonstrations de Hypercore, en 1997, ont confirmé que ce qui avait été mis au point à l’aide du matériel dont Hypercore disposait était trop lent comparativement à la norme que Hypercore avait elle‑même établie pour le commutateur.
+hh) Par conséquent, l’injection de 200 000 $ au moyen de fonds investis par un nouvel actionnaire, le 25 septembre 1997, (pièce A‑3) était simplement une mesure provisoire. Les projections de flux de trésorerie effectuées par Hypercore aux mois de novembre et de décembre 1995, lesquelles ont finalement été adoptées dans le contrat conclu avec CANARIE le 23 janvier 1996 (pièce A‑1, onglets 11, 12 et 13) établissaient l’existence d’un déficit de 443 498 $ pour lequel il n’y avait pas de source de fonds. En outre, ces projections étaient basées sur le fait que l’on ne respectait pas les obligations de paiement et que les factures absolument nécessaires étaient acquittées 90 jours en retard. Tous les fonds subséquents de Hypercore, sauf pour les 200 000 $, provenaient des subventions accordées par CANARIE.
+qq) Cette hypothèse est erronée. Dans la pièce A‑1, 27, le paragraphe 16 des recommandations comptables de l’ICCA énonce ce qui suit :
+[traduction]
+[...]
+.16 Pour être constatés, les produits doivent être mesurables et le recouvrement final doit être raisonnablement sûr. Lorsque le recouvrement final est raisonnablement sûr, les produits sont constatés, même si les paiements sont reportés. Si le recouvrement final n’est pas raisonnablement sûr, il peut être approprié de ne constater les produits qu’au fur et à mesure des encaissements.
+[...]
+C’est sur cette base que le comptable de Chartwell, KPGM, LLP, a conseillé à l’appelante de ne pas inscrire les montants facturés dans ses documents financiers et de ne pas les déclarer pour l’impôt sur le revenu. M. Donlevy a informé M. Konkin, chez Centus, de ce conseil et Centus a employé la même méthode. Pour des motifs qu’elle ne se rappelait pas, et peut‑être par inadvertance, Chartwell n’a pas suivi ce conseil correctement à l’égard de son état financier de 1995, lorsqu’elle a de fait inscrit en tant que compte client au titre des recettes deux montants facturés pour des frais de gestion, mais qu’elle n’a pas inscrit les montants qu’elle avait facturés à Hypercore pour la location. M. Donlevy et M. Konkin ont tous deux témoigné que Hypercore ne pouvait pas acquitter les factures, et ce, à leur connaissance et à la connaissance des appelantes, qu’ils ne les déclaraient pas parce que les connaissances et la qualité des conseils de KPMG leur inspiraient confiance et qu’ils n’avaient pas omis de déclarer ces éléments afin d’éviter de payer des impôts. De fait, comme l’a signalé M. Zurowski, les montants auraient pu être inscrits et être ensuite radiés, mais le Manuel de l’ICCA conseillait la méthode qui avait été suivie, de sorte que c’est ce qu’il avait conseillé de faire.
+rr) Les montants en question ne figuraient pas à titre de prêts d’actionnaires dans la convention unanime des actionnaires. Ils étaient simplement mentionnés dans la convention, qui n’a jamais été signée.
+ss), tt), uu), vv) et ww) Ces hypothèses seront traitées dans ce qui est exposé ci‑après.
+[6] Les paragraphes 17 à 21 inclusivement de la réponse à l’avis d’appel de Centus Inc. énoncent les faits qui sont en litige dans cette affaire‑là. Ils sont rédigés comme suit :
+[traduction]
+17. Dans le calcul de son revenu pour l’année d’imposition 1996, l’appelante n’a pas inclus un revenu gagné, s’élevant à 26 000 $ en tout. En établissant une nouvelle cotisation à l’égard de l’appelante pour l’année d’imposition 1996, le ministre a ajouté un montant de 26 000 $ au revenu de l’appelante. Le ministre a également imposé des pénalités pour l’année d’imposition 1996, conformément au paragraphe 163(2) de la Loi.
+18. Dans le calcul de son revenu pour l’année d’imposition 1997, l’appelante n’a pas inclus un revenu gagné, s’élevant à 26 000 $ en tout. En établissant une nouvelle cotisation à l’égard de l’appelante pour l’année d’imposition 1997, le ministre a ajouté un montant de 26 000 $ au revenu de l’appelante. Le ministre a également imposé des pénalités pour l’année d’imposition 1997, conformément au paragraphe 163(2) de la Loi.
+19. Le ministre a délivré des avis de nouvelle cotisation pour les années d’imposition 1996 et 1997 de l’appelante le 31 juillet 2000.
+20. En établissant ainsi les nouvelles cotisations de l’appelante pour les années d’imposition 1996 et 1997, le ministre a notamment émis les hypothèses de fait suivantes :
+a) l’appelante est une société;
+b) l’appelante exerçait ses activités en Saskatchewan;
+c) le siège social de l’appelante était situé à Saskatoon (Saskatchewan);
+d) l’appelante fournissait des services de gestion et de consultation à l’égard de systèmes informatiques;
+e) pendant la période pertinente, Douglas Konkin détenait 76 p. 100 des actions émises et en circulation du capital‑actions de l’appelante et Mary Donlevy‑Konkin en détenait 24 p. 100;
+f) pendant la période pertinente, Douglas Konkin était administrateur et président de l’appelante;
+g) pendant la période pertinente, Douglas Konkin était actionnaire de Hypercore;
+h) pendant la période pertinente, Douglas Konkin était administrateur et secrétaire de Hypercore;
+i) pendant la période pertinente, Douglas Konkin était chef du service des ordinateurs chez Hypercore;
+j) Hypercore exploitait, en Saskatchewan, une entreprise dans le cadre de laquelle elle se livrait à des activités de recherche scientifique et de développement;
+k) pendant la période pertinente, Martin Joseph Donlevy, également connu sous le nom de Joe ou de Joseph Donlevy, était chargé de la gestion financière de Hypercore et s’occupait notamment de trouver des capitaux additionnels, de présenter des demandes de subventions à CANARIE et de présenter des demandes au titre des activités de recherche scientifique et de développement expérimental (« RSDE »);
+l) au cours des années d’imposition 1996 et 1997, l’appelante fournissait à Hypercore des services de gestion et de consultation à l’égard de systèmes informatiques;
+m) au cours des années d’imposition 1996 et 1997, l’appelante fournissait du matériel et d’autres marchandises à Hypercore;
+n) au cours de l’année d’imposition 1996, l’appelante a gagné un montant d’au moins 26 000 $ provenant de Hypercore en fournissant à Hypercore des services de gestion et de consultation à l’égard de systèmes informatiques;
+o) au cours de l’année d’imposition 1997, l’appelante a gagné un montant d’au moins 26 000 $ provenant de Hypercore en fournissant à Hypercore des services de gestion et de consultation à l’égard de systèmes informatiques;
+p) les factures que l’appelante soumettait à Hypercore aux montants mentionnés selon les hypothèses figurant aux alinéas n) et o) étaient basées sur le temps que Douglas Konkin consacrait à fournir des services de gestion et de consultation à l’égard de systèmes informatiques;
+q) Douglas Konkin a consenti à ce que l’appelante émette des factures Hypercore et à ce que les fonds soient ensuite prêtés à Hypercore;
+r) l’appelante savait que Hypercore inscrivait les montants qu’elle lui devait à titre de comptes fournisseurs dans ses livres et registres;
+s) Hypercore utilisait les factures mentionnées à l’alinéa p) à l’appui des demandes de subventions qu’elle présentait à CANARIE et au titre des activités de RSDE;
+t) les montants que Hypercore a reçus par suite des subventions accordées par CANARIE et au titre des activités de RSDE ont été réinvestis dans Hypercore, au lieu de servir au paiement de l’appelante;
+u) l’appelante a convenu que les montants que Hypercore recevait par suite des subventions accordées par CANARIE et au titre des activités de RSDE devaient être réinvestis dans Hypercore;
+v) Douglas Konkin tenait les livres et registres de l’appelante;
+w) l’appelante n’a pas inscrit le revenu susmentionné ou les sommes à recevoir de Hypercore dans ses livres et registres pour les années 1996 et 1997; de plus, l’appelante n’a pas inclus les montants dans une provision pour comptes douteux ou pour créances irrécouvrables dans ses livres et registres;
+x) l’appelante n’a pas inclus les montants susmentionnés dans son revenu en produisant ses déclarations pour les années d’imposition 1996 et 1997;
+y) toutes les recettes de l’appelante proviennent de la gestion d’autres entreprises commerciales;
+z) les comptables agréés KPGM préparaient les déclarations de revenus de Hypercore;
+aa) les comptables agréés KPMG ont déclaré que les montants que Hypercore devait payer, lesquels comprenaient les montants payés à l’appelante, étaient convertis en capital afin d’étayer la demande présentée par Hypercore au titre des activités de RSDE;
+bb) Douglas Konkin a au moins une connaissance de base en matière fiscale;
+cc) Douglas Konkin possède de l’expérience dans les affaires, acquise auprès de diverses sociétés, de divers ministères gouvernementaux et par suite de ses activités financières personnelles;
+dd) Douglas Konkin a signé, pour le compte de l’appelante, une entente selon laquelle le montant payable à l’appelante par Hypercore était affecté au capital d’apport;
+ee) les montants payables à l’appelante par Hypercore n’étaient pas des créances irrécouvrables;
+ff) l’appelante n’a pas tenté de recouvrer les montants de Hypercore;
+gg) Hypercore a poursuivi ses activités de recherche;
+hh) le potentiel de recherche de Hypercore a continué à progresser;
+ii) Hypercore a continué à être une entreprise en pleine activité, et des fonds ont continué à être injectés dans la société;
+jj) la valeur des connaissances techniques acquises par la société n’était pas comptabilisée dans les états financiers de Hypercore;
+kk) Douglas Konkin était parfaitement au courant de la situation de Hypercore et de son potentiel;
+ll) l’appelante a continué à fournir à Hypercore les services de gestion et de consultation de Douglas Konkin à l’égard de systèmes informatiques;
+mm) Develcon était une société publique;
+nn) en 1995, Develcon a acheté des actions de Hypercore et elle a acquis une option d’achat d’actions additionnelles;
+oo) en 1998, Devlcon a levé l’option;
+pp) Develcon a versé un montant de 1 438 937,40 $ pour les actions;
+qq) la méthode comptable employée par l’appelante pour les sommes à recevoir de Hypercore n’était pas conforme aux recommandations comptables et aux méthodes de déclaration généralement reconnues de l’ICCA;
+rr) le montant de 59 120 $ qui était dû à l’appelante était inscrit à titre de prêt d’actionnaire dans la convention unanime des actionnaires;
+ss) l’appelante a déclaré une perte nette de 11 550 $ au cours de l’année d’imposition 1996;
+tt) le revenu imposable de l’appelante pour l’année d’imposition 1996 s’élevait à au moins 14 450 $;
+uu) le revenu de l’appelante a été déclaré en moins d’un montant de 26 000 $ pour l’année d’imposition 1996;
+vv) l’appelante a déclaré une perte nette de 4 975 $ au cours de l’année d’imposition 1997;
+ww) le revenu imposable de l’appelante pour l’année d’imposition 1997 s’élevait à au moins 21 025 $;
+xx) le revenu de l’appelante a été déclaré en moins d’un montant de 26 000 $ pour l’année 1997;
+yy) en omettant d’inclure les montants susmentionnés dans le revenu, l’appelante a fait, en produisant ses déclarations pour les années d’imposition susmentionnées, une présentation erronée des faits, par négligence, inattention ou omission volontaire;
+zz) l’appelante, sciemment ou dans des circonstances équivalant à faute lourde dans l’exercice d’une obligation prévue à la Loi, a fait de faux énoncés ou des omissions dans les déclarations de revenus produites pour les années d’imposition 1996 et 1997, ou y a participé, consenti ou acquiescé, de sorte que l’impôt qui aurait été payable, lequel a été établi selon les renseignements fournis dans les déclarations de revenus de l’appelante qui ont été produites pour ces années‑là, était inférieur à l’impôt payable d’un montant de 3 411 $ et 3 411 $ respectivement.
+21. Par suite de la déclaration en moins du revenu, le ministre a imposé, à l’égard de l’appelante, les pénalités suivantes en vertu du paragraphe 163(2) de la Loi pour les années d’imposition 1996 et 1997 :
+Année d’imposition
+Pénalités
+1996
+1 705,50 $
+1997
+1 705,50 $
+[7] Les hypothèses émises aux alinéas 20a) à j) inclusivement, aux alinéas l) à s) inclusivement, aux alinéas v) à z) inclusivement, aux alinéas cc), ff), kk) à pp) inclusivement et aux alinéas ss) et vv) n’ont pas été réfutées.
+[8] En ce qui concerne les autres hypothèses, la Cour tire les conclusions suivantes :
+k) Voir [5] h) ci-dessus.
+t) Voir [5] q) ci-dessus.
+u) Voir [5] r) ci-dessus.
+aa) Voir [5] x) et y) ci-dessus.
+bb) Cette hypothèse n’est pas exacte. M. Konkin se fiait aux conseils de M. Donlevy en matière fiscale.
+dd) Voir [5] cc) ci-dessus.
+ee) Voir [5] dd) ci-dessus.
+gg), hh) et ii) Voir [5] ff), gg) et hh) ci-dessus.
+jj) Cette hypothèse est exacte, telle qu’elle a été énoncée. Toutefois, compte tenu des remarques qui ont été faites au sujet des hypothèses énoncées aux alinéas gg), hh) et ii) ci‑dessus et des remarques qui sont faites à ces alinéas, les connaissances techniques acquises par Hypercore étaient désuètes à cause de la technologie qu’elle était obligée d’utiliser en raison de sa situation financière.
+qq) Voir [5] qq) ci‑dessus. L’appelante se fiait aux conseils de M. Donlevy, lesquels étaient fondés sur ce que celui‑ci avait appris de KPMG.
+rr) Voir [5] rr) ci‑dessus.
+tt), uu), ww), xx), yy) et zz) Ces hypothèses seront traitées dans ce qui est exposé ci‑après.
+[9] Les cotisations ici en cause ont été établies parce que les appelantes avaient émis des factures à Hypercore et, sauf ce dont il a été fait mention au sujet de deux factures de Chartwell se rapportant à des frais de gestion pour l’année 1995, les appelantes n’inscrivaient aucunement les montants facturés dans ses livres et registres. Cependant, Hypercore les enregistrait et présentait ensuite les factures lorsqu’elle demandait des subventions au titre des activités de RSDE. Ces déductions ont été refusées parce que Hypercore n’a jamais acquitté les factures. Le vérificateur, RSDE, a informé la Division de l’impôt sur le revenu du problème qui avait été créé, d’où les présentes cotisations et les présents appels.
+[10] En particulier, l’ARC est d’avis que les appelantes ont simplement annulé les dettes de Hypercore, que M. Donlevy et M. Konkin ont vendu les actions qu’ils détenaient dans Hypercore et qu’ils ont essentiellement été payés de cette façon. Par conséquent, selon l’argument invoqué par l’ARC, Hypercore était gérée par M. Donlevy et M. Konkin et elle aurait pu acquitter les factures d’une façon ou d’une autre – essentiellement en volant le créancier A pour payer le créancier B. Toutefois, le seul argent que Hypercore a obtenu provenait des subventions accordées par CANARIE ou encore des prêts ou d’apports de capital d’actionnaires. En d’autres termes, Hypercore n’a jamais eu d’argent pour payer autre chose que les salaires, les retenues et les fournitures externes essentielles. Elle devait acheter les fournitures à bon marché à cause de la pénurie de fonds et la chose a contribué à son échec. Il s’agissait d’un cercle vicieux vers le bas, qui était uniquement soutenu par l’espoir de trouver de nouveaux investisseurs, mais aucun investisseur ne s’est présenté. Cela était évident même à ce moment‑là, aux yeux d’un observateur objectif, et c’est la raison pour laquelle Hypercore n’a pas réussi à obtenir plus d’argent de CANARIE ou de quelqu’un d’autre, sauf pour les deux personnes qui ont investi 200 000 $, mais qui n’ont fait aucun cas des projections du mois de janvier 1996 indiquant qu’il fallait investir un montant additionnel de plus de 400 000 $ compte tenu des paiements et des retenues effectués en retard. Ces projections étaient incroyablement optimistes. Cependant, ces projections et ces faits constituent la raison pour laquelle la Cour conclut que les factures de Chartwell et de Centus constituaient des créances irrécouvrables au moment où elles ont été établies au cours des années en question.
+[11] Après le 15 décembre 1995, les actions de Hypercore étaient détenues comme suit :
+Joe Donlevy 24
+Douglas Konkin 21
+Carl McCrosky 15
+Develcon 40
+Total 100
+Ces actions ont été fractionnées à 100 actions pour une action le 11 septembre 1997. Compte tenu de l’investissement de 100 000 $ que Chelsea Management Inc. et VHL Management Inc. ont chacune fait le 25 septembre 1997, (les « actions au porteur »), les actions de Hypercore se répartissaient désormais comme suit, comme il en est fait mention dans la pièce A‑3 :
+Joe Donlevy
+2 400
+17 %
+Douglas Konkin
+2 100
+15 %
+Carl McCrosky
+1 500
+10 %
+Develcon
+4 000
+28 %
+Chelsea Management Inc.
+2 209
+15 %
+Porteur
+2 209
+15 %
+(voir la pièce A‑3)
+Par conséquent, après le 15 décembre 1995, M. Donlevy et M. Konkin étaient encore actionnaires minoritaires de Hypercore.
+[12] M. Donlevy a admis qu’avant la vente des actions de Hypercore en faveur de Develcon, Hypercore avait reçu une offre d’achat de sa technologie. Cependant, les actionnaires n’ont pas voulu accepter l’offre; ils voulaient vendre leurs actions. M. Donlevy et M. Konkin étaient des actionnaires minoritaires, de sorte que cette décision était indépendante de leur volonté, qui est une décision commune pour tous les actionnaires d’une petite société lorsqu’une vente d’actions peut être organisée. L’offre que Develcon a faite en vue d’acheter toutes les actions de Hypercore qu’elle ne détenait pas, au prix de 1 483 937,40 $, a suivi, à condition que Hypercore n’ait aucune dette. Les dettes, y compris la dette envers Chartwell et Centus, ont donc fait l’objet d’une remise de dette et les actionnaires ont vendu toutes leurs actions à Develcon. M. Donlevy croit que Develcon a par la suite vendu la technologie de Hypercore à P.M.C. Sierra Inc. (« Sierra ») au prix de 2 000 000 $. M. Konkin est allé travailler chez Sierra avec des ingénieurs. Sierra a mis fin à son programme de technologie de Hypercore un an plus tard, parce qu’elle n’avait pas réussi elle non plus à la commercialiser.
+[13] La thèse de l’intimée est en partie la suivante : M. Donlevy et M. Konkin ont décidé d’annuler les créances de l’appelante et de vendre le capital. Toutefois, cette thèse ne saurait être retenue une fois qu’il est bien compris qu’au moment où les offres ont été faites, M. Donlevy et M. Konkin faisaient partie d’une minorité distincte dans une entreprise qui n’avait pas de succès, à savoir Hypercore. Dans ces conditions, on fait ce qu’on peut, c’est‑à‑dire ce que Chartwell, Centus et M. Donlevy et M. Konkin ont fait. En particulier, la Cour conclut que les créances de Chartwell et de Centus étaient de toute façon des créances irrécouvrables – leur annulation ne faisait que reconnaître formellement un fait.
+[14] L’alinéa 12(1)b) de la Loi de l’impôt sur le revenu exigeait que les montants facturés soient déclarés à titre de sommes à recevoir aux fins de l’impôt sur le revenu. Cette disposition est libellée comme suit :
+12. (1) Sont à inclure dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien, au cours d’une année d’imposition, celles des sommes suivantes qui sont applicables :
+[...]
+b) les sommes à recevoir par le contribuable au titre de la vente de biens ou de la fourniture de services au cours de l’année, dans le cours des activités d’une entreprise, même si les sommes, en tout ou en partie, ne sont dues qu’au cours d’une année postérieure, sauf dans le cas où la méthode adoptée par le contribuable pour le calcul du revenu tiré de son entreprise et acceptée pour l’application de la présente partie ne l’oblige pas à inclure dans le calcul de son revenu pour une année d’imposition les sommes à recevoir qui n’ont pas été effectivement reçues au cours de l’année; pour l’application du présent alinéa, une somme est réputée à recevoir pour services rendus dans le cours des activités de l’entreprise à compter du premier en date des jours suivants :
+(i) le jour où a été remis le compte à l’égard des services,
+(ii) le jour où aurait été remis ce compte si la remise n’avait pas subi un retard indu;
+[...]
+[15] Or, les appelantes ne l’ont pas fait, compte tenu des conseils donnés par KPMG, LLP, lesquels étaient de leur côté fondés sur le Manuel de l’ICCA, qui a été cité. Cependant, lorsqu’il s’agit de l’impôt, la Loi de l’impôt sur le revenu l’emporte sur le Manuel de l’ICCA. Toutefois, la Cour conclut que les actes des appelantes, qui se sont fiées aux conseils d’un gros cabinet international de comptables agréés bien connu comme KPMG, LLP, et au Manuel de l’ICCA, ne constituent pas de la négligence au sens du paragraphe 163(2) de la Loi de l’impôt sur le revenu et, par conséquent, les appels sont accueillis en ce qui concerne les pénalités établies dans les cotisations.
+[16] Toutefois, l’omission volontaire de Chartwell, lorsqu’il s’est agi de déclarer les sommes à recevoir en 1995 en violation flagrante de l’alinéa 12(1)b) de la Loi de l’impôt sur le revenu autorise de fait l’intimée à établir une nouvelle cotisation à l’égard de l’année d’imposition 1995.
+[17] L’intimée n’a jamais mentionné l’alinéa 12(1)b) au cours de la vérification ou dans les plaidoiries qu’elle a soumises dans les présents appels. Elle a mentionné l’article 9 de la Loi de l’impôt sur le revenu en se fondant sur la présumée prémisse selon laquelle l’article 9 incluait l’alinéa 12(1)b).
+[18] Dans ces conditions, les appels sont accueillis et les affaires sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que les montants en question pour chaque appelante pour les années en litige constituaient des créances irrécouvrables au cours de ces années.
+[19] Ni l’une ni l’autre partie n’aura droit à des dépens.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2004.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 30e jour de mars 2009.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2004CCI728
+Nos DES DOSSIERS DE LA COUR : 2002-2638(IT)G et 2002-2639(IT)G
+INTITULÉ : Chartwell Management Inc.
+c.
+Sa Majesté la Reine
+Centus Inc.
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE : Les 18 et 19 octobre 2004
+MOTIFS DU JUGEMENT : L’honorable juge Beaubier
+DATE DU JUGEMENT : Le 8 novembre 2004
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Kurt Wintermute
+Avocat de l’intimée :
+Me Lyle Bouvier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Kurt Wintermute
+Cabinet : MacPherson Leslie & Tyerman
+Pour l’intimée : Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

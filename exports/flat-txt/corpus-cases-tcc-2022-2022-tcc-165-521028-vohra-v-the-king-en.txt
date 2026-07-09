@@ -1,0 +1,140 @@
+Title: Vohra v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521028/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-165-521028-vohra-v-the-king-en.md
+Document type: case_law
+Last modified: 2022-12-15
+
+# Vohra v. The King
+
+- Citation: 2022 TCC 165
+- Decision date: 2022-12-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5795, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vohra v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-12-15
+Neutral citation
+2022 TCC 165
+File numbers
+2021-30(IT)I
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2021-30(IT)I
+BETWEEN:
+RAJAT VOHRA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on October 12, 2022 at Toronto, Ontario.
+Before: The Honourable Justice Ronald MacPhee
+Appearances:
+Counsel for the Appellant:
+Jason C. Rosen
+Avery Kalpin
+Counsel for the Respondent:
+Jacky Cheung
+Carol Calabrese
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal with respect to the Notice of Appeal for the 2018 taxation year is allowed. Both parties shall be responsible for their own costs.
+Signed at Ottawa, Canada this 15th day of December 2022.
+“R. MacPhee”
+MacPhee J.
+Citation: 2022 TCC 165
+Date: 20221200
+Docket: 2021-30(IT)I
+BETWEEN:
+RAJAT VOHRA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+MacPhee J.
+[1] The appellant is appealing the decision of the Minister of National Revenue, denying his claimed deduction for spousal support payments of $42,000 [1] in the 2018 taxation year. The Minister denied this claimed deduction on the basis that these payments did not fall within the definition of “support amount” pursuant to s. 56.1(4) of the Income Tax Act R.S.C. 1985 (5th Supp.), c.1 (the “Act”). In particular, the Minister takes the position that the spousal support payments were not made by the appellant pursuant to a written agreement, so therefore the amounts are not deductible under the Act.
+Facts:
+[2] The facts in this matter are straightforward and not contested.
+[3] The appellant married in 2006 (his then partner is referred to as his “ex-spouse”). The couple legally separated on December 8, 2010.
+[4] On March 6, 2011, the couple entered into a separation agreement, signed by both parties.
+[5] The couple chose to prepare the separation agreement on their own. Some key terms of the separation agreement are:
+In the clause dealing with spousal support:
+Party 1 shall pay spousal support to party 2 in the amount of $3500 monthly commencing Dec 8/10 and ending Dec 8/14.
+[6] In the section of the agreement described as background:
+In addition, the parties intend the terms of this agreement to be:
+…(3) Final settlement of custody, access, guardianship and support…
+… Once signed and witnessed, this agreement may be amended or varied by a court order, or by written agreement between Party 1 and Party 2…
+[7] The 2011 separation agreement was flawed from the outset. The signatures of the spouses were not witnessed. Furthermore, there is a handwritten clause at the bottom of the contract stating:
+This is subject to approval by legal counsel.
+[8] No indication of approval by legal counsel was ever provided, neither in the contract nor in evidence at trial.
+[9] The parties honored the terms of the written agreement. The appellant paid $3,500 per month in spousal support throughout the term of the agreement and for several years thereafter.
+[10] In 2019, the appellant and the ex spouse obtained from the Ontario Superior Court of Justice, on consent, an order, which included the following clause:
+(24) Commencing on July 1, 2019 and on the first day of each month thereafter until further order of the Court the Respondent (hereinafter referred to as the Payor) shall pay to the applicant (hereinafter referred to as the Recipient) temporary support in the amount of $8000.00 per month. The above is being agreed on a without prejudice basis and subject to verification of the payor’s income and redefined as child support or spousal support once payor’s income verified retroactively to July 1, 2019.
+[11] In the 2018 taxation year, the appellant’s ex spouse declared the support payments of $42,000 she received as income in her tax filings. The appellant claimed a deduction of $42,000 for these payments.
+[12] The Minister denied the appellant’s deduction of $42,000 paid to his ex spouse in the 2018 year on the basis that the payments were made without a written separation agreement being in place.
+Position of the appellant:
+[13] The appellant argues that, despite the expiry of the support payment obligation on December 8, 2014, that an implied contract continued to exist between the appellant and his ex spouse. He relies, in part, on the following principle:
+There may also be an implied contract when the parties make an express contract to last for a fixed term, and continue to act as though the contract still bound them after the term has expired. In such a case the court may infer that the parties have agreed to renew the express contract for another term. Express and implied contracts are both contracts in the true sense of the term, for they both arise from the agreement of the parties, though in one case the agreement is manifest in words and in the other case by conduct. [2]
+[14] As a secondary argument, I believe the appellant also takes the position that the March 6, 2011, separation agreement was an agreement in writing and, despite not being properly updated after 2014, constituted an agreement in writing under which the appellant made support payments in 2018.
+Position of the respondent:
+[15] The respondent argues that the support payments in question were not made pursuant to a written agreement. The previously existing separation agreement had expired in 2014, and therefore no agreement obliging the appellant to pay spousal support existed in 2018.
+Analysis:
+[16] There has been much litigation concerning the issue of whether support payments were made pursuant to a written agreement.
+[17] Concerning the purpose as to why a written agreement is necessary, the Federal Court of Appeal concluded as follows:
+The rationale for not including separated spouses involved in payments made and received pursuant to a verbal understanding is readily apparent. Such a loose and indefinite structure might well open the door to colourable and fraudulent arrangements and schemes for tax avoidance. [3]
+[18] What has occurred in this case is clearly not a fraudulent scheme. The parties, in 2011 agreed in writing to an amount that was to be paid as spousal support. They incorrectly overlooked the need to update the contract in 2014 in order to properly reflect the appellant’s continued support obligations.
+[19] I do not agree with the primary position argued by the appellant. An implied contract, as well as a verbal contract, does not meet the requirements of the Act in order to make a deduction of support payments. Despite this, I have concluded that the appellant should be successful in this appeal. I do find that the payments made by the appellant in 2018 were made pursuant to a written agreement.
+[20] The formal requirements of a properly drawn up contract should not overwhelm my analysis. There is no question that the contract the parties relied upon was flawed. Yet it was an agreement in writing, setting out the support payments. [4]
+[21] The parties continued through the 2018 taxation year to consider themselves bound by their 2011 separation agreement. The conduct of the parties supports the conclusion that a meeting of the minds continued to exist concerning spousal support obligations. What was set out in the 2011 separation agreement was treated by the parties as continuing to be in force up to and including 2018.
+[22] In my review, I am guided by the plain meaning of the words of the Act when is ask myself whether the support payments in question were made pursuant to a written agreement. I have concluded that the payments were made pursuant to the terms of a written agreement.
+[23] These unique facts satisfy definition provided of support payment provided in subsection 56.1(4), specifically the amount in issue in this trial was an amount payable ... on a periodic basis for maintenance...under a written agreement.
+[24] The appeal is allowed. The appellant is entitled to deduct $42,000 as support payments in the 2018 taxation year. There shall be no order as to costs.
+Signed at Ottawa, Canada this 15th day of December 2022.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2022 TCC 165
+COURT FILE NO.:
+2021-301(IT)I
+STYLE OF CAUSE:
+RAJAT VOHRA AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 12, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+December 15, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Jason C. Rosen
+Avery Kalpin
+Counsel for the Respondent:
+Jacky Cheung
+Carol Calabrese
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jason C. Rosen
+Avery Kalpin
+Firm:
+Rosen Kirshen
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] There is some confusion over the amount in issue. The appellant claimed $42,000 in his tax filings. Furthermore, in his pleadings the appellant plead that the issue to be decided is whether the Appellant is entitled to deduct spousal support payments… in the amount of $42,000.Yet in argument at trial the appellant claimed, as an alternative argument, a right to deduct $66,000 for the 2018 taxation year.
+[2] Chitty on Contracts, Vol. I, 27th ed. (London:Sweet & Maxwell, 1999) at p.19.
+[3] Hodson v. Minister of National Revenue, (1987), 88 D.T.C.6001 (Fed C. A.) at page 6003.
+[4] See Connor v. R., 2009 TCC 319 (T.C.C. [Informal Procedure]) at paragraph 16, itself referencing Fortune v. R., 2007 TCC 20 (T.C.C. [Informal Procedure]); and Ryan v. The Queen, 2018 CarswellNat 8175, 2018 TCC 257, 2018 CCI 257, 2019 D.T.C. 1006 (Tax Court of Canada [Informal Procedure])

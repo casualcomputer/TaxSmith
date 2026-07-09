@@ -1,0 +1,155 @@
+---
+title: "Mighton v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25636/index.do"
+last_modified: "2006-03-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 214"
+citation2: ""
+neutral_citation: "2006 TCC 214"
+decision_date: "2006-03-31"
+language: "en"
+item_id: "25636"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2442
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:11:59.211000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4bfc7eb1e8f2bb226267681eed1fb1dca69034414efcdf38669836da205143cf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mighton v. The Queen
+
+- Citation: 2006 TCC 214
+- Decision date: 2006-03-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2442, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mighton v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-31
+Neutral citation
+2006 TCC 214
+File numbers
+2005-1059(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+2005-1059(IT)I
+BETWEEN:
+TERRI S. MIGHTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 22, 2006, at Kitchener, Ontario,
+By: The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marie-Eve Aubry
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments of tax made under the Income Tax Act for 2002 and 2003 are dismissed.
+Signed at Ottawa, Canada, this 31st of March, 2006.
+"C.H. McArthur"
+McArthur J.
+Citation: 2006TCC214
+Date: 20060331
+Docket: 2005-1059(IT)I
+BETWEEN:
+TERRI S. MIGHTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] These appeals are from reassessments of the Minister of National Revenue to the effect that the Appellant was required to include in computing her income for the 2002 and 2003 taxation years, child support payments in the amount of $6,000 for each respective taxation year pursuant to paragraph 56(1)(b) of the Income Tax Act. The Appellant does not deny that the payments were child support payments within the meaning of that paragraph. Rather, she argued that the inclusion of such payments in her income violates her right to be free from discrimination under section 15 of the Canadian Charter of Rights and Freedoms; and further, that such a violation is not justified under section 1 of the Charter because she has to include her child support payments in her income. She submits that paragraph 56(1)(b) of the Act discriminates against older women with older children.
+[2] The Appellant and her former spouse were married on January 11, 1978 and had two children, Alissa born in 1979, and Brette born in 1985. They divorced on April 19, 1989, and pursuant to the terms of a Divorce Judgment issued by the Albert Court of Queen's Bench, the Appellant retained custody of the children and the former spouse was required to pay child support in the amount of $200 per child, per month commencing May 15, 1989. These payments increased to $500 per child, per month commencing February 15, 1996.
+[3] In September 1997, her former spouse reduced the child support payments when Alissa moved out of the Appellant's home and was no longer dependant on her. At all times during the relevant taxation years, the Appellant and her former spouse were living separate and apart because of the breakdown of their marriage.
+[4] It is helpful to provide an overview of the inclusion/deduction regime of child support payments as it pertains to the Appellant.
+[5] Prior to April 30, 1997, amounts received by a taxpayer for child support were required to be included in computing that taxpayer's income by virtue of former paragraph 56(1)(b), and such amounts were deductible by the payer under former paragraph 60(b). I will refer to this as the "old regime".
+[6] Following the decision of the Supreme Court of Canada in Thibaudeau v. The Queen,[1] the federal government eliminated the inclusion/deduction system for all child support payments made pursuant to orders or written agreements made after April 30, 1997. Paragraph 56(1)(b), as it now reads, does not require the inclusion of child support payments received by taxpayers in computing their income where the amount became receivable under an agreement or order on or after its "commencement day" and before the end of the year. The term "commencement day" is defined in subsection 56.1(4). Where an order or agreement is made after April 30, 1997, its commencement day is the day it is made. I will refer to this as the "new regime".
+[7] In most cases, orders or agreements made prior to May 1997 will not have a commencement day, and child support amounts paid under such orders continue to be included in computing the recipient taxpayer's income.
+[8] In limited circumstances, a commencement day will exist for orders or agreements made prior to May 1997, being the earliest of the days described in subparagraphs 56.1(4)(b)(i), (ii), (iii), and (iv), namely:
+(i) where the recipient and payer have jointly elected in prescribed form and manner and filed the election with the Minister, the day they specify in the election to be the commencement day of the order (agreement);
+(ii) where the order (agreement) is varied after April 1997 to change the child support amounts payable, the day on which the first payment of the varied amount must be made;
+(iii) where a subsequent order (agreement) is made after April 1997 in effect changing the total child support amounts payable, the commencement day of the first such subsequent order (agreement); and,
+(iv) where the order (agreement) or any variation thereof specifies a commencement day for these purposes, the day so specified.
+If any of the foregoing circumstances occur, child support amounts paid under such orders fall under the new regime, and do not have to be included in computing the recipient taxpayer's income.
+[9] In this case, the Order was made prior to April 30, 1997 and none of the foregoing circumstances have occurred. Therefore, the Order does not have a commencement day. The child support payments received by the Appellant pursuant to the Order continue to be included in computing her income pursuant to paragraph 56(1)(b).
+[10] The Appellant argues that the inclusion of child support payments in her income violates her right to equality under subsection 15(1) of the Charter which reads:
+15(1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+[11] As stated, the Appellant argues that paragraph 56(1)(b) and subsection 56.1(4) discriminate against older persons with older orders, more specifically, older women and older children. She adds that these persons are a vulnerable group in our society. She notes that the legislators, in effect, recognized the vulnerability and disadvantages faced by custodial parents under the old regime; that is why they changed the legislation.
+[12] Although I am sympathetic to the Appellant's arguments, I must nonetheless deny her appeals. The test for whether there has been a violation of the Appellant's section 15 Charter rights was stated by the Supreme Court of Canada in Law v. Canada:[2]
+... Accordingly, a court that is called upon to determine a discrimination claim under s. 15(1) should make the following three broad inquiries:
+(A) Does the impugned law (a) draw a formal distinction between the claimant and others on the basis of one or more personal characteristics, or (b) fail to take into account the claimant's already disadvantaged position within Canadian society resulting in substantively differential treatment between the claimant and others on the basis of one or more personal characteristics?
+(B) Is the claimant subject to differential treatment based on one or more enumerated and analogous grounds?
+and
+(C) Does the differential treatment discriminate, by imposing a burden upon or withholding a benefit from the claimant in a manner which reflects the stereotypical application of presumed group or personal characteristics, or which otherwise has the effect of perpetuating or promoting the view that the individual is less capable or worthy of recognition or value as a human being or as a member of Canadian society, equally deserving of concern, respect, and consideration?[3]
+The legislation undoubtedly distinguishes between two groups of child support payment recipients: those who do not have to include such payments in computing their income, and those that do.
+[13] However, the Appellant's appeals must fail since the distinction is not drawn based on an enumerated or analogous ground. The distinction is not based on the age of the support payment recipient as contends the Appellant. Rather, the distinction is drawn based on the date of the order or agreement under which the child support payments must be made. The Supreme Court of Canada, in Law, stated that it would be inappropriate to confine a subsection 15(1) analysis to a fixed formula, as I believe the Appellant is requesting.
+[14] While the taxation of child support payments has been and is still subject to much criticism, I cannot rewrite the Supreme Court's findings in Thibaudeau. The Court determined that the old inclusion/deduction regime, a regime similar to that which the Appellant is currently faced with, did not violate section 15 of the Charter. The legislation was changed after interest groups exerted tremendous pressure on the government to do so.
+[15] For the foregoing reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 31st day of March, 2006.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2006TCC214
+COURT FILE NO.:
+2005-1059(IT)I
+STYLE OF CAUSE:
+Terri S. Mighton and Her Majesty the Queen
+PLACE OF HEARING:
+Kitchener, Ontario
+DATE OF HEARING:
+February 22, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT:
+March 31, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marie-Eve Aubry
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1995] 2 S.C.R. 627.
+[2] [1999] 1 S.C.R. 497.
+[3] Ibid at paragraph 88.

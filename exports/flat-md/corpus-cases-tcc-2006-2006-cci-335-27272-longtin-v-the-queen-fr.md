@@ -1,0 +1,198 @@
+---
+title: "Longtin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27272/index.do"
+last_modified: "2006-07-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 335"
+citation2: ""
+neutral_citation: "2006 CCI 335"
+decision_date: "2006-07-06"
+language: "fr"
+item_id: "27272"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 846
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:29:06.741000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fcb3dd0d000f2eea50a9eb6ee2689ba4cad6245e31d03bb4e9dcf91433c3549a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Longtin v. The Queen
+
+- Citation: 2006 CCI 335
+- Decision date: 2006-07-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 846, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Longtin v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-06
+Référence neutre
+2006 CCI 335
+Numéro de dossier
+2003-287(IT)G
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-287(IT)G
+ENTRE :
+WILLIAM LONGTIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 15 mai 2006, à Victoria (Colombie-Britannique)
+Devant : l'honorable juge Theodore E. Margeson
+Comparutions :
+Avocats de l'appelant :
+Me D. Laurence Armstrong et
+Me Heather Wellman
+Avocate de l'intimée :
+Me Susan Wong
+____________________________________________________________________
+[TRADUCTION FRANÇAISE OFFICIELLE]
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997 et 1998 sont admis et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait qu'au cours des années en cause, 1997 et 1998, l'appelant avait le droit de déduire les dépenses d'emploi versées à son adjointe qui s'élevaient à 26 900 $ et 29 600 $, respectivement, pendant ces années, à titre de dépenses.
+Les appels des cotisations établies en vertu de la Loi pour les années d'imposition 1999 et 2000 sont rejetés.
+L'appelant a droit aux dépens de la présente action, lesquels seront taxés.
+L'appelant n'a droit à aucune autre mesure de redressement.
+Signé à New Glasgow (Nouvelle-Écosse), ce 6e jour de juillet 2006.
+« T. E. Margeson »
+Le juge Margeson
+Traduction certifiée conforme
+ce 1er jour de septembre 2006.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI335
+Date : 20060706
+Dossier : 2003-287(IT)G
+ENTRE :
+WILLIAM LONGTIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Margeson
+[1] Lors du calcul du revenu de l'appelant pour les années d'imposition 1997 et 1998, ce dernier a déduit des dépenses d'emploi de 49 531 $ et de 44 392 $ respectivement. Ces montants comprennent les sommes de 26 900 $ et de 29 600 $ respectivement déduites à titre de salaire versé à une adjointe.
+[2] Le ministre a refusé la déduction de ces [TRADUCTION] « montants pour adjointe » . Il a envoyé des avis de nouvelle cotisation datés du 10 décembre 2001; le présent appel est interjeté contre cette nouvelle cotisation.
+[3] L'appelant était un vendeur, employé par la société Albany International Canada Inc. (la « société » ), dans le secteur de la fourniture de pâtes et papiers.
+[4] L'appelant s'occupait de la région de l'Ouest du Canada. Il a déclaré que les vendeurs et les agents de service de cette région relevaient de lui. En outre, il appelait les clients et s'occupait du recouvrement des créances. Il était responsable d'un territoire qui comptait sept vendeurs en plus de lui-même.
+[5] De nombreux concurrents offraient des produits semblables et l'établissement des prix était très important. Son revenu se composait d'un salaire majoré d'une commission ainsi que de commissions qui étaient fonction de son rendement. Son salaire de base en 1997 et 1998 était de 100 000 $, et sa commission était de 50 000 $. Son salaire représentait environ soixante pour cent de son revenu total et la partie constituée d'actions et de la commission représentait environ quarante pour cent de son revenu total.
+[6] Il était très important que les ventes continuent à augmenter.
+[7] Pendant les années en cause, l'appelant était sur la route quatre jours par semaine, à l'exception d'une semaine où il restait dans la région et cela arrivait toutes les six semaines. Au total, il était sur la route plus de 200 jours par an.
+[8] Son bureau était situé à sa résidence. La société avait un bureau à Vancouver pendant les années en cause, mais ce bureau n'existe plus. La société exigeait qu'il ait un bureau à domicile; c'était une des conditions de son emploi. La société lui remboursait la plupart de ses dépenses; cependant, il était personnellement responsable de tout dépassement du budget.
+[9] La représentation constituait une partie importante de ses tâches et une grande partie de ces activités avait lieu à sa résidence. Il arrivait fréquemment que les activités aient lieu à sa résidence. Les relations personnelles entre les clients et le vendeur étaient très importantes.
+[10] Dans son bureau à domicile, il avait un télécopieur, des classeurs et des échantillons des produits qu'il vendait. Son bureau à domicile avait une superficie de plus de 1 000 pieds carrés et il contenait aussi du mobilier de bureau, un téléphone, un canapé et des chaises, des catalogues et de volumineuses fournitures. Il était impossible d'avoir tous les échantillons avec lui sur la route.
+[11] Pendant les années en cause, il avait un ordinateur portable, mais il n'avait pas de connexion Internet à haut débit, et il n'avait pas cet ordinateur avec lui sur la route. Il ne pouvait pas accomplir ses tâches sans son bureau à domicile.
+[12] Il a embauché son épouse comme adjointe et il estimait qu'elle jouait un rôle essentiel dans l'accomplissement de son travail. Son épouse et lui discutaient des affaires de la société pendant la semaine, ainsi que le dimanche soir avant qu'il ne prenne la route le lendemain. Son épouse lui envoyait les documents par télécopie, elle lui téléphonait pendant qu'il était sur la route et elle était en contact avec les différents bureaux de la société.
+[13] Son employeur savait que son épouse travaillait pour lui. L'employeur avait interviewé son épouse et lui avant de l'embaucher. La représentation était très importante pour ce type d'affaires. Tous ses clients et le personnel du bureau central de la société connaissaient son adjointe et ils travaillaient aussi avec elle. Le vice-président directeur général de la société la connaissait également. Il a souvent parlé de la nécessité d'avoir une adjointe.
+[14] Il a présenté une lettre de la société datée du 10 octobre 2000 qui réfère à la question des adjointes. On lui a posé des questions sur les tâches de son adjointe; il a déclaré qu'elle répondait aux appels téléphoniques du bureau à la fois sur la ligne du bureau et sur sa ligne personnelle; elle installait l'ordinateur pour les courriels; elle lui en donnait un exemplaire papier; elle lui envoyait par télécopie des documents relatifs aux profits et aux personnes-ressources à l'usine; elle comptabilisait les dépenses effectuées et s'occupait de la gestion quotidienne du bureau.
+[15] En ce qui a trait à la représentation, ils recevaient souvent. Son épouse faisait les réservations dans les restaurants. Lorsqu'ils avaient une grande fête, ce qui arrivait tous les ans pendant la période de Noël, elle organisait la réception même lorsqu'elle se tenait à Vancouver. Il n'aurait pas pu faire son travail longtemps sans son adjointe. Il y avait un lien direct entre son adjointe et le succès de ses ventes.
+[16] Son adjointe était payée 2 000 $ par mois par chèque et en espèces, et elle recevait des primes supplémentaires à Noël.
+[17] La société n'aurait pas payé pour qu'il ait recours aux services d'une adjointe. Il a fait référence aux questions de la responsabilité et de l'indemnité de départ comme étant deux des raisons pour lesquelles l'adjointe n'était pas une employée de la société et que son salaire n'était pas payé par cette dernière.
+[18] Lors du contre-interrogatoire, l'appelant a déclaré qu'il était le directeur des ventes et du service après-vente et qu'il était le supérieur hiérarchique de sept employés depuis 1993. Avant cela, il avait sa propre entreprise en Australie.
+[19] Ses commissions étaient basées sur les ventes effectuées dans la région. Quant aux fêtes de Noël, il y avait plus d'invités que lors des fêtes ordinaires.
+[20] En ce qui a trait à la pièce A-2, la lettre de la société, la société a décidé de ne pas en faire la version définitive et on y réfère comme étant une ébauche à la première page. Il s'agit apparemment d'un conseil que la société a reçu de ses avocats.
+[21] On a renvoyé l'appelant à l'onglet 1 de la pièce R-1, et il a reconnu sa signature sur la déclaration de revenus de 1997. Son revenu d'emploi était de 131 522,65 $. Il avait touché des commissions de 29 500 $. Il a reconnu son relevé T4 pour 1997, à la page 6 de cette pièce. Il avait d'autres allocations imposables d'un montant de 13 272,65 $. Il n'a pas été en mesure de dire ce que représentait ce montant.
+[22] Le montant de 26 900 $ déduit à titre de soutien administratif correspondait au salaire de son épouse pour les services qu'elle lui avait rendus. Des renseignements semblables lui ont été présentés relativement à sa déclaration de revenus de 1998 et il était d'accord avec les éléments qui y étaient contenus. On l'a interrogé relativement à ses revenus pour 1999 et 2000. Son avocat s'est opposé à ce qu'on mentionne ces revenus et après discussion, la Cour a permis à l'intimée de les déposer en preuve relativement à sa déclaration T2200 et à son état des dépenses seulement. Rien d'autre dans la déclaration de revenus n'a été admis en preuve.
+[23] Il a admis qu'il n'a pas eu recours aux services d'une adjointe en 2000 et qu'il n'en a pas aujourd'hui. Son épouse travaillait plus pour son propre magasin et elle avait sa propre entreprise. Il n'a embauché aucune autre adjointe pendant ces années. Son épouse continuait à travailler pour lui, mais elle n'était pas payée pour ce faire.
+[24] Lors du réinterrogatoire, il a déclaré qu'il avait engagé un comptable à Vancouver. Vers 2000, il a remis en cause les compétences et l'honnêteté de ce comptable. Il réclamait des dépenses inappropriées et, finalement, l'appelant a poursuivi ce comptable. Cette poursuite a fait l'objet d'un règlement à l'amiable à l'avantage de l'appelant. Les difficultés qu'il rencontrait avec son adjoint sont l'une des raisons pour lesquelles il n'a pas déduit les dépenses de son épouse en 2000, ni depuis ce temps-là.
+[25] Carman Longtin a témoigné qu'elle était une mère, qu'elle était à la retraite et qu'elle travaillait pour son mari. Pendant les années en cause, elle devait s'occuper de tous les appels téléphoniques, prendre soin de l'ordinateur portable (qui n'était pas efficace) et se servir fréquemment du télécopieur. Elle était au bureau pendant une heure le matin et pendant une heure l'après-midi. Elle contactait son époux en cas de difficulté; elle répondait aux appels téléphoniques des clients et du personnel et ensuite elle continuait à travailler le soir de 21 h à 23 h ou de 21 h à 2 h. Durant ce temps, elle téléchargeait des renseignements, envoyait des courriels et laissait des messages téléphoniques sur le répondeur du téléphone portable de son époux. Elle lui faisait suivre les messages urgents lorsqu'il était sur la route et lui envoyait les renseignements par télécopie à son motel. Parfois, elle devait téléphoner à Albany ou à Montréal lorsqu'elle n'arrivait pas à résoudre certaines des questions auxquelles elle était confrontée.
+[26] Elle recevait de nombreux appels téléphoniques sur son téléphone personnel. Ensuite, elle se rendait à son bureau à domicile et envoyait les messages à son époux. Elle a estimé le nombre de ses heures de travail à 20 heures par semaine et elle devait être disponible quand son mari appelait.
+[27] Les relations publiques étaient très importantes pour la bonne marche des affaires de son époux, et elle devait s'occuper de nombreuses réceptions dans sa propre maison. Elle achetait des cadeaux de Noël pour les clients, organisait des fêtes dans les hôtels et une fois par année, ils organisaient une fête du homard pour plus de 75 personnes; elle devait s'occuper de tout cela.
+[28] Elle s'occupait sommairement des dépenses, payait les factures, faisait le rapprochement des comptes Visa et s'assurait que les factures étaient payées à temps.
+[29] Elle a rempli ses déclarations de revenus pour les années 1997 et 1998 et elle a déclaré l'argent qu'elle avait reçu de son époux. Lorsque Revenu Canada a refusé les déductions à son époux, elle s'est lassée de la procédure. Même si elle a déclaré des revenus et payé des impôts, elle n'a pas obtenu de remboursement.
+[30] Lors du contre-interrogatoire, elle a déclaré qu'elle avait lancé Carmen's Fashions en 1999; c'était un magasin de vente de vêtements en consignation. Elle travaillait de 9 h à 14 h et elle avait un personnel complet puisqu'elle effectuait également du travail pour son époux.
+Arguments pour le compte de l'appelant
+[31] L'appelant soutient qu'il pouvait déduire ces dépenses en vertu des dispositions de l'alinéa 8(1)f) de la Loi de l'impôt sur le revenu.
+[32] La relation d'emploi de l'appelant répondait à toutes les conditions exposées aux sous-alinéas 8(1)f)(i), (ii), (iii) et (iv). Il a fourni le formulaire T2200 conformément au paragraphe 8(10).
+[33] Il est d'avis que l'argument principal de l'intimée était exposé dans la réponse, au sous-alinéa 10(f)(iv). D'après cet argument, l'appelant n'était pas obligé de rémunérer une adjointe et, par conséquent, il ne pouvait pas déduire les frais versés à son épouse pendant les années en cause.
+[34] En outre, il soutient qu'il a répondu à toutes les exigences du sous-alinéa 8(1)i)(ii) car le contrat d'emploi l'obligeait à payer le salaire d'une adjointe soit « explicitement » , soit « implicitement » en vertu de ce contrat d'emploi.
+[35] Il soutient en outre que le paragraphe 15 de la réponse n'était pas un énoncé de faits, mais que c'était un argument et non pas une hypothèse.
+[36] Il reconnaît que l'appelant n'avait pas de contrat écrit, mais soutient qu'il n'était pas nécessaire qu'il y en ait un. Il fait référence à la décision Gaétan Baillargeon c. M.R.N., 90 D.T.C. 1943, n ° 88-241(IT), 13 août 1990. Cette décision appuie la position de l'appelant. Les faits de cette cause étaient presque exactement les mêmes que ceux de la présente affaire. La Cour a admis la déduction des commissions que le contribuable avait versées à son épouse. La Cour a conclu que ces commissions pouvaient être déduites parce que l'épouse avait effectué un travail nécessaire pour son mari, même si son contrat d'emploi ne prévoyait pas expressément d'obligation pour le contribuable de verser un salaire à une adjointe.
+[37] Il a également fait référence à la décision Madsen c. Canada, [2001] A.C.I. n ° 246, n ° 2000-2579(IT)I, 18 avril 2001. Dans cette cause, le juge Beaubier a conclu que « la nature de son contrat de travail faisait en sorte que son épouse ou quelqu'un comme elle devait faire ce travail » . Dans cette cause, la question était exactement la même que celle qui se pose dans la présente affaire, même si l'appel a été rejeté parce qu'il n'y avait pas de preuve que l'appelant avait effectivement versé les sommes qu'il cherchait à déduire. Ce n'est pas le cas dans la présente affaire.
+[38] Il a également fait référence à la décision Canada c. Wayne Gilling, 90 D.T.C. 6274, n ° T-375-85, 30 mars 1990, pour appuyer sa position. Dans la décision Schnurr c. Canada, [2004] A.C.I. n ° 565, no 2002-2144(IT)G, 13 octobre 2004, le juge en chef adjoint Bowman a indiqué ce qui suit au paragraphe 9 :
+J'en arrive au noeud véritable du litige. Pour déduire le coût d'un salaire versé à un adjoint, l'employé doit remplir les conditions énoncées au sous-alinéa 8(1)i)(ii), c'est-à-dire que le paiement ou le salaire versé à l'employé doit être exigé par le contrat d'emploi. À l'onglet 1 de la pièce A-1 se trouve une lettre datée du 30 juillet 1992 que le vice-président de Nesbitt Thomson a envoyée à l'appelant. La lettre ne traite pas expressément de l'embauchage d'une adjointe. Toutefois, la relation existant entre Nesbitt Thomson et M. Schnurr laissait implicitement entendre que, pour recruter le nombre de clients auquel s'attendait Nesbitt Thomson, M. Schnurr était obligé d'embaucher quelqu'un pour fournir le type de services que sa femme fournissait. Une telle disposition n'a pas à être expressément énoncée dans l'entente conclue entre l'employeur et l'employé.
+L'avocat de l'appelant soutient que les faits de la preuve dans la présente affaire sont les mêmes que ceux de la décision précitée. Ils signifient que l'appelant devait embaucher une adjointe pour pouvoir faire son travail, même si le formulaire T2200 ne le démontre pas. Comme indiqué dans la décision Schnurr, précitée, le formulaire 2200 n'est ni concluant ni déterminant si la preuve montre qu'il est inexact, mais il s'agit du moins d'une preuve prima facie.
+[39] Dans la présente affaire, la preuve montre que les réponses inscrites dans le formulaire T2200 ne reflètent pas la réalité des faits de la situation.
+[40] Les appels devraient être admis et l'affaire déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que l'appelant est autorisé à déduire le montant payé à son épouse pour l'aide qu'elle lui a apportée pendant les années en cause.
+Arguments pour le compte de l'intimée
+[41] L'avocate de l'intimée soutient que toute l'affaire peut se résumer aux dispositions du sous-alinéa 8(1)i)(ii) et qu'il s'agit de savoir si le contrat d'emploi obligeait ou non l'appelant à avoir une adjointe et à la rémunérer. L'employeur a préparé un formulaire T2200 et il a coché « non » dans la section se rapportant à la question de savoir si l'employé était obligé ou non d'embaucher un adjoint.
+[42] Elle fait également référence à la décision Schnurr, précitée, notamment au paragraphe 19, et elle conclut que remplir le formulaire T2200 est une condition légale obligatoire pour pouvoir déduire des dépenses d'emploi. Elle était prête à concéder que le juge en chef adjoint Bowman avait déclaré que le formulaire n'était ni concluant ni déterminant si la preuve montrait qu'il était inexact, mais qu'il s'agissait au moins d'une preuve prima facie.
+[43] Le ministre a adopté la position selon laquelle les exigences du sous-alinéa 8(1)i)(ii) n'étaient pas remplies dans la présente affaire, car le contrat d'emploi n'obligeait pas l'appelant à payer l'adjointe. Il s'ensuit que l'appelant n'était pas obligé de payer l'adjointe « explicitement » et il n'était pas obligé de payer l'adjointe « implicitement » .
+[44] Elle a également invoqué la décision Bober c. Canada, [1997] A.C.I. n ° 467, no 96-2078(IT)I, 27 mai 1997, et elle a déclaré que la Cour dans cette cause soulignait que, lorsque la situation d'emploi s'apparentait plus à celle d'un entrepreneur indépendant, la Cour interpréterait volontiers l'obligation du contrat de payer un adjoint de façon plus libérale. Elle ajoute en outre que cette cause est peu pertinente par rapport à la présente affaire, car il s'agit de la question de savoir si oui ou non le contribuable devait être ailleurs qu'à son lieu de travail. En outre, les points discutés au paragraphe 8 de cette décision étaient liés aux faits particuliers de la cause.
+[45] En ce qui concerne la décision Denis Verrier c. La Reine, 90 D.T.C. 6202, n ° A-1040-88, 2 mars 1990, la Cour a conclu que puisque la situation d'emploi s'apparentait plus au travail d'un entrepreneur indépendant qu'à celui d'un employé, la Cour était plus disposée à regarder au-delà des réponses fournies dans le formulaire T2200.
+[46] En outre, dans la décision Madsen, précitée, la Cour était plus disposée à conclure qu'il y avait des termes implicites du contrat lorsque la situation d'emploi était plus près de celle d'un entrepreneur indépendant que de celle d'un employé.
+[47] Elle a également déclaré qu'il est révélateur que la preuve devant la présente cour indique que l'appelant n'avait pas besoin d'adjointe en 1999 et en 2000, même si les dépenses étaient presque les mêmes, voire supérieures à celles des années en cause.
+[48] Elle a fait référence aux dispositions de l'alinéa 8(1)f) et elle a déclaré que le point faible dans les arguments de l'appelant, c'était l'obligation contenue au sous-alinéa 8(1)f)(i) que le contrat d'emploi oblige le contribuable à payer ses propres dépenses.
+[49] Pour l'avocate de l'intimée, les appels devraient être rejetés et la cotisation du ministre confirmée.
+[50] En réplique, l'avocat de l'appelant a déclaré que le bulletin d'interprétation réfère à l'importance du paiement et non pas à l'embauche de l'adjointe. Dans la présente affaire, le paiement était obligatoire, comme le prouve la lettre qui se trouve à la page 2 de la pièce A-2.
+[51] Quant à l'alinéa 8(1)f), dans la présente affaire l'appelant était rémunéré en tout ou en partie par des commissions; il n'y avait donc pas de faille dans cette partie de ses arguments. Pour ce qui est des années 1999 et 2000, ces arguments n'étaient pas pertinents puisque les circonstances avaient changé. Le fait de savoir si l'appelant avait déjà payé l'impôt et s'il était obligé d'acquitter ses dépenses n'a pas été remis en cause.
+Analyse et décision
+[52] L'avocat de l'appelant a avancé deux arguments. Premièrement, il soutient que les appels devraient être admis parce que l'appelant a satisfait aux exigences de l'alinéa 8(1)f) de la Loi. Par conséquent, les dépenses peuvent être déduites en tenant compte du fait que l'appelant devait s'acquitter de ses propres dépenses en vertu d'un contrat d'emploi. En outre, les dépenses peuvent être déduites en vertu de la disposition du sous-alinéa 8(1)f)(ii).
+[53] Subsidiairement, il déclare que l'appelant a le droit de demander les déductions qu'il recherche, car il devait non seulement payer l'adjointe pour ses services, mais devait avoir recours aux services d'une adjointe afin de mener à bien ses affaires. L'argument consiste en ce que s'il n'avait eu pas cette adjointe, il n'aurait pas été en mesure de mener ses affaires et il aurait perdu son emploi en peu de temps.
+[54] La Cour n'est pas d'accord avec cet argument subsidiaire. Même si la preuve indique que l'employeur de l'appelant préférait qu'il ait une adjointe, qu'il croyait probablement qu'il serait préférable que l'appelant ait une adjointe, et qu'il préférait que l'appelant fasse appel aux services de son épouse, car il l'avait interviewée et estimait manifestement qu'elle serait une adjointe à la hauteur, la Cour n'est pas convaincue que l'employeur exigeait que l'appelant ait une adjointe. La Cour n'est pas non plus convaincue que les affaires n'auraient pas fonctionné et que l'appelant aurait perdu son emploi s'il n'avait pas eu recours aux services d'une adjointe.
+[55] Ce point de vue est confirmé par le fait que pendant les années subséquentes, l'appelant était en mesure de mener à bien ses affaires sans avoir recours aux services de son épouse, ou du moins sans la payer, et évidemment à une moins grande échelle que lorsqu'il avait recours à ses services pendant les années en cause. Il n'a pas perdu son emploi et ses affaires n'ont pas sombré.
+[56] La Cour est convaincue que l'appelant aurait pu continuer à mener ses affaires pendant les années en cause sans les services de son épouse comme adjointe, même si cela était certainement beaucoup plus difficile à faire. La Cour n'est pas convaincue par la preuve en entier que la société exigeait de lui qu'il ait recours aux services d'une adjointe pendant les années en cause en vertu du contrat d'emploi.
+[57] L'alinéa 8(1)f) énonce les exigences du contribuable et exige seulement qu'il doive s'acquitter de ses propres dépenses en vertu du contrat d'emploi.
+[58] La Cour est complètement convaincue, sur la base de toute la preuve, que l'appelant a satisfait à cette exigence et aux autres exigences de l'alinéa 8(1)f) et que c'étaient des dépenses de vendeurs déductibles.
+[59] La Cour est en outre convaincue que selon les dispositions du sous-alinéa 8(1)f)(ii), pour que l'appelant déduise le salaire de son adjointe, il ne doit démontrer qu'en vertu de son contrat d'emploi, il devait s'acquitter de son salaire. Il ne doit pas démontrer que son contrat d'emploi l'obligeait à avoir une adjointe.
+[60] Les décisions qui ont été invoquées étaient d'une grande aide. Dans la mesure où les parties interprètent ces décisions comme indiquant que le contribuable doit être obligé, en vertu du contrat d'emploi, d'avoir une adjointe et de la rémunérer plutôt que de simplement rémunérer une adjointe, la présente cour est convaincue que cette interprétation ne ressort pas des articles pertinents.
+[61] Selon l'avis de la présente cour, l'appelant a satisfait aux exigences des articles mentionnés et la Cour est convaincue que l'appelant devait, selon le contrat d'emploi, s'acquitter des dépenses de l'adjointe en vertu du sous-alinéa 8(1)i)(ii) et qu'il a payé le montant à l'adjointe ou à sa remplaçante. Il a satisfait à ces exigences.
+[62] Les dépenses que l'appelant a réclamées sont déductibles en vertu des deux dispositions citées ci-dessus.
+[63] L'appel sera admis et l'affaire sera déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait qu'au cours des années en question, 1997 et 1998, l'appelant avait le droit de déduire les dépenses d'emploi versées à son adjointe qui s'élevaient à 26 900 $ et 29 600 $, respectivement, pendant ces années, à titre de dépenses.
+[64] Les appels des cotisations établies en vertu de la Loi pour les années d'imposition 1999 et 2000 sont rejetés.
+[65] L'appelant a droit aux dépens de la présente action, lesquels seront taxés.
+[66] L'appelant n'a droit à aucune autre mesure de redressement.
+Signé à New Glasgow (Nouvelle-Écosse), ce 6e jour de juillet 2006.
+« T. E. Margeson »
+Le juge Margeson
+Traduction certifiée conforme
+ce 1er jour de septembre 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI335
+NUMÉRO DU DOSSIER DE LA COUR : 2003-287(IT)G
+INTITULÉ DE LA CAUSE : WILLIAM LONGTIN ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Victoria (Colombie-Britannique)
+DATE DE L'AUDIENCE : le 15 mai 2006
+MOTIFS DU JUGEMENT PAR : l'honorable juge T. E. Margeson
+DATE DU JUGEMENT : le 6 juillet 2006
+COMPARUTIONS :
+Avocats de l'appelant :
+Me D. Laurence Armstrong et
+Me Heather Wellman
+Avocate de l'intimée :
+Me Susan Wong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Me D. Laurence Armstrong
+Étude : Armstrong Nikolich
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

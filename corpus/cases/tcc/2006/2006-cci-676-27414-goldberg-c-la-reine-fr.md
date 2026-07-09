@@ -1,0 +1,204 @@
+---
+title: "Goldberg c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27414/index.do"
+last_modified: "2006-12-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 676"
+citation2: ""
+neutral_citation: "2006 CCI 676"
+decision_date: "2006-12-07"
+language: "fr"
+item_id: "27414"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 236
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:29:51.118000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "81d05138a40e37a4528da7ce00e2dee1841c7870a63aa31fe2520e043ba2afbe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Goldberg c. La Reine
+
+- Citation: 2006 CCI 676
+- Decision date: 2006-12-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 236, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Goldberg c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-07
+Référence neutre
+2006 CCI 676
+Numéro de dossier
+2006-1265(IT)I
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1265(IT)I
+ENTRE :
+SARAH GOLDBERG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu le 2 octobre 2006 à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge A.A. Sarchuk
+Comparutions :
+Représentant de l’appelante :
+Aron Goldberg
+Avocat de l’intimée :
+Me David Everett
+__________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation d’impôt établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2006.
+« A.A. Sarchuk »
+Juge suppléant Sarchuk
+Traduction certifiée conforme
+ce 7e jour de mars 2008.
+Jean David Robert, traducteur
+Référence : 2006CCI676
+Date : 20061207
+Dossier : 2006-1265(IT)I
+ENTRE :
+SARAH GOLDBERG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Sarchuk
+[1] Les parties ont admis les faits suivants pour les besoins du présent appel. Elles ont aussi consenti à l’admission en preuve des documents énumérés dans l’exposé conjoint des faits, qui est reproduit ci-dessous :
+[traduction]
+1. Dans le calcul de ses crédits d’impôt non remboursables pour l’année d’imposition 2004, l’appelante a demandé un crédit d’impôt pour frais de scolarité (le « crédit pour frais de scolarité ») de 9 750 $ et un crédit d’impôt pour études (le « crédit pour études ») de 1 600 $, calculé pour quatre (4) mois d’études à raison de 400 $ par mois.
+2. Dans la cotisation initiale établie le 16 mai 2005 à l’égard de l’appelante pour son année d’imposition 2004, le ministre du Revenu national (le « ministre ») a admis le crédit pour frais de scolarité et le crédit pour études dans le calcul des crédits d’impôt non remboursables de l’appelante.
+3. Dans un avis de nouvelle cotisation daté du 22 septembre 2005 qui a été établi à l’égard de l’appelante pour l’année d’imposition 2004 (la « nouvelle cotisation »), le ministre a refusé le crédit pour frais de scolarité et le crédit pour études.
+4. L’appelante s’est opposée à la nouvelle cotisation en signifiant au ministre un avis d’opposition qu’il a reçu le 13 décembre 2005.
+5. Dans un avis daté du 1er janvier 2006, le ministre a ratifié la nouvelle cotisation.
+6. L’appelante était inscrite à la London Academy of Music and Dramatic Art (la « LAMDA ») et la fréquentait pendant l’année d’imposition 2004.
+7. La LAMDA est située au 155, rue Talgarth, à Londres, en Angleterre.
+8. L’Université du Kent est une université située au Royaume‑Uni.
+9. L’appelante n’était pas inscrite à l’Université du Kent pendant l’année d’imposition 2004.
+10. L’appelante a payé des frais de scolarité de 9 750 $CAN à la LAMDA du 1er septembre 2004 au 31 décembre 2004.
+11. La LAMDA a envoyé à l’appelante la formule TL11A dans laquelle il était indiqué qu’elle avait fréquenté cet établissement comme étudiante à temps plein pendant quatre (4) mois en 2004.
+12. La LAMDA décerne des certificats et des diplômes à ses étudiants.
+13. L’Université du Kent valide les programmes d’études offerts par des établissements d’enseignement s’ils répondent aux conditions énoncées dans un document établi par celle‑ci et intitulé [traduction] « Politique et procédures de validation » (la « politique de validation »).
+14. Dans la mesure où un programme d’études est validé conformément à la politique de validation, l’Université du Kent décernera un grade à un étudiant inscrit dans un programme d’études admissible s’il satisfait aux conditions d’obtention du grade fixées dans un document intitulé [traduction] « Cadre d’attribution des crédits pour les programmes d’enseignement » (le « cadre »).
+15. Depuis 2004, l’Université du Kent a validé les programmes d’études suivants offerts par la LAMDA conformément à sa politique de validation :
+a) baccalauréat spécialisé en théâtre;
+b) baccalauréat spécialisé en théâtre (programme complémentaire de 2 ans);
+c) diplôme en direction de scène.
+Documents à déposer en preuve sur consentement
+1. Politique et procédures de validation de l’Université du Kent
+2. Profil de validation pour la LAMDA établi par l’Université du Kent
+3. Cadre
+4. La LAMDA : histoire et renseignements généraux
+5. Description de cours établie par la LAMDA pour le baccalauréat spécialisé en théâtre d’une durée de trois ans
+6. Description de programme établie par la LAMDA pour le programme d’études à temps plein de baccalauréat spécialisé en théâtre d’une durée de trois ans
+7. Attestation de la LAMDA de l’inscription de l’appelante au programme de baccalauréat spécialisé en théâtre d’une durée de trois ans commençant le 20 septembre 2004
+8. Liste des directeurs des universités du Royaume-Uni
+9. Cours du programme d’études en arts dramatiques et en théâtre de l’Université du Kent – calendrier universitaire 2007 pour le premier cycle
+10. Offre d’admission à l’intention de l’appelante présentée par l’Université York vers juin 2004
+11. « Le Nouveau-Brunswick aura une école de médecine », CMAJ, 28 février 2006, v. 174(5), p. 606.
+12. Liste des programmes « reconnus »
+[2] Au cours de l’année d’imposition 2004, l’appelante était inscrite à la LAMDA, décrite par son représentant comme étant un [traduction] « établissement d’enseignement distingué établi depuis longtemps et généralement considéré dans le milieu du théâtre comme l’une des plus importantes écoles d’arts dramatiques dans le monde anglophone ». Le représentant a fait observer que ce n’était pas en raison de son incapacité d’être admise dans un établissement canadien que Sarah Goldberg était allée étudier à l’étranger, et qu’en fait, elle avait reçu une offre d’admission à l’Université York de Toronto, qui, selon lui, avait l’un des meilleurs programmes de théâtre au Canada, et que deux bourses lui avaient été offertes pour toute la durée du programme de quatre ans.
+[3] L’appelante admet que la LAMDA ne décerne pas de grade de baccalauréat avec spécialisation. Cependant, le diplôme qu’elle détient est validé par l’Université du Kent. Cette dernière considère donc qu’un étudiant qui termine avec succès ses études dans le programme de théâtre de trois ans à la LAMDA remplit les conditions pour la remise d’un baccalauréat ès arts avec spécialisation. Il a également été fait mention de la description de cours établie par la LAMDA pour le baccalauréat spécialisé en théâtre d’une durée de trois ans[1]. Il a été soutenu que ce document établissait le fait que la LAMDA, un établissement distingué du Royaume-Uni, faisait la promotion de son programme en tant que programme de baccalauréat, même si elle ne décernait pas elle-même le grade. Il a de plus été allégué qu’au Royaume-Uni, le degré d’intégration entre l’établissement d’enseignement qui offre la formation et l’université qui la valide et décerne le grade est tel que le programme de formation peut être indiqué dans leurs publications comme étant un programme conduisant à un diplôme. Cette relation existait entre l’Université du Kent et la LAMDA.
+[4] Le paragraphe 5 du bulletin d’interprétation IT‑516R2 de l’Agence du revenu du Canada portant sur le crédit d’impôt pour frais de scolarité a été cité à l’appui de la position de l’appelante. Il énonce, en partie, ce qui suit :
+Conformément à l’alinéa 118.5(1)b), l’étudiant doit fréquenter à temps plein «... une université située à l’étranger, où il suit des cours conduisant à un diplôme ...». Un établissement d’enseignement situé dans un autre pays que le Canada est réputé être admissible en vertu de l’alinéa 118.5(1)b) s’il est reconnu, par un organisme d’accréditation reconnu dans ce pays, comme un établissement d’enseignement offrant des cours menant au moins à l’obtention d’un baccalauréat ou d’un diplôme de niveau équivalent [...]
+Il a été soutenu que les deux phrases précitées offraient une certaine marge de manœuvre dans l’interprétation [traduction] « retenue par l’ARC lorsqu’il est question de la délivrance de baccalauréats ou de diplômes de niveau équivalent par une université située à l’étranger ».
+[5] Il a également été allégué que la LAMDA était une [traduction] « université par procuration » et que [traduction] « c’est la performance de l’étudiant qui détermine s’il terminera ses études à la LAMDA et s’il recevra le diplôme de baccalauréat avec spécialisation de l’Université du Kent ». De telles ententes, c.‑à‑d. lorsqu’un établissement donne l’enseignement et un autre le diplôme, sont relativement nouvelles et rares, mais il a été allégué que [traduction] « dire que l’interprète doit respecter le sens que la loi avait le jour de son adoption ne signifie nullement que l’effet de la loi ne se fait sentir que sur les faits, matériels ou sociaux, qui existaient lors de son adoption ». Dans ce contexte ont été cités la décision Belkin c. Canada[2] et les commentaires suivants de la juge Lamarre Proux :
+[27] Cependant, une loi peut s’appliquer à des situations qui n’existaient pas au moment de son édiction, si son objet le justifie et si sa formulation ne s’y oppose pas. Je renvoie à l’ouvrage de l’auteur Côté, précité, à la page 340 :
+Dire que l’interprète doit respecter le sens que la loi avait le jour de son adoption ne signifie nullement que l’effet de la loi ne se fait sentir que sur les faits, matériels ou sociaux, qui existaient lors de son adoption. Il faut distinguer le sens d’un terme de sa portée, distinguer le concept signifié par un terme des choses (qu’on appelle parfois référents) que le concept est susceptible d’englober.
+[...]
+Non seulement la loi s’applique-t-elle à des faits qui n’existaient pas au moment de son adoption : elle peut également régir des phénomènes dont on ne pouvait pas, au moment de la rédaction de la loi, prévoir la survenance. Si son objet le justifie et si sa formulation ne s’y oppose pas, un texte légal peut être appliqué à des inventions survenues après son adoption […]
+Il a été affirmé que, dans cette affaire, la Cour avait dit que, non seulement la loi s’appliquait‑t‑elle à des faits qui n’existaient pas au moment de son adoption : elle pouvait également régir des phénomènes dont on ne pouvait pas, au moment de la rédaction de la loi, prévoir la survenance. Par conséquent, il a été soutenu que la demande de l’appelante était [traduction] « compatible avec l’objet de la loi » et [traduction] « que la formulation de la loi telle qu’elle est interprétée dans le bulletin d’interprétation de l’ARC ne s’y opposait pas non plus ».
+[6] La position de l’intimée est que la LAMDA n’est rien de plus qu’une académie de musique et d’arts dramatiques et qu’[traduction]« elle est, dans tous les sens du terme, une “académie” et non une université ». L’avocat de l’intimée a fait observer que la LAMDA ne figurait pas dans une liste des directeurs des universités du Royaume-Uni et qu’il en était ainsi parce qu’elle n’accorde rien de plus que des diplômes et des certificats à ses étudiants pour le programme d’arts dramatiques qu’elle offre, bien que ce programme soit désigné dans les documents de la LAMDA comme [traduction] « le baccalauréat spécialisé en théâtre ».
+[7] L’avocat de l’intimée a cité la politique de validation de l’Université du Kent et a fait observer que cette politique [traduction] « prévoyait expressément que les étudiants inscrits dans les programmes validés sont des étudiants des établissements extérieurs et non des étudiants de l’Université ». Plus précisément, le paragraphe 11.1 de la politique énonce qu’il est possible que les candidats qui remplissent les conditions d’admission à un programme validé soient admis dans celui-ci sans consultation de l’Université. L’avocat de l’intimée a ajouté que la pertinence de ces dispositions tenait au fait que, dans sa politique de validation, l’Université du Kent énonce très clairement que les étudiants qui finissent par obtenir un diplôme en vertu de cette entente sont des étudiants de l’établissement extérieur et qu’ils n’ont aucun lien avec l’Université du Kent.
+[8] L’avocat de l’intimée affirme que le ministre a refusé à juste titre le crédit pour frais de scolarité dans le calcul des crédits d’impôt non remboursables de l’appelante pour l’année d’imposition 2004 en application de l’alinéa 118.5(1)b) de la Loi, et ce, parce qu’elle n’était pas un particulier qui fréquentait comme étudiant à plein temps une université située à l’étranger, où il suivait des cours conduisant à un diplôme. L’avocat soutient de plus que le ministre a refusé à bon droit le crédit pour études dans le calcul des crédits d’impôt non remboursables de l’appelante pour cette année d’imposition‑là en application du paragraphe 118.6(2) de la Loi puisqu’elle ne fréquentait pas un « établissement d’enseignement agréé » au sens du paragraphe 118.6(1) de la Loi, et ce, parce que la LAMDA n’était pas une université située à l’étranger.
+[9] Dans ce contexte‑là, l’avocat de l’intimée a cité la décision rendue par le juge Mogan dans la cause Gilbert c. Canada[3]. Dans cette affaire, la partie appelante avait payé des frais de scolarité à une école connue sous le nom de « American Musical and Dramatic Academy » (l’« AMDA »), un établissement d’enseignement, pour l’inscription de sa fille. Cette académie offrait un cours de deux ans, mais ne décernait pas de diplômes. Cependant, elle était affiliée à la New School of Social Research, qui, elle, décernait des diplômes. L’affiliation entre les deux écoles permettait à quelqu’un qui terminait ses études à l’académie de poursuivre son éducation à la New School. Le crédit demandé pour cette raison avait été refusé, et l’appel avait été rejeté. En l’espèce, l’avocat de l’intimée a insisté sur l’analyse suivante des dispositions législatives pertinentes et sur la conclusion du juge Mogan selon laquelle l’AMDA n’était pas une université au sens de l’alinéa 118.5(1)b) de la Loi :
+[14] Le mot « université » n’est pas défini dans la Loi, mais l’intimée m’a fourni trois définitions de dictionnaire du mot anglais « university » (université), soit des définitions qui disent toutes qu’il doit s’agir d’un établissement qui décerne un diplôme. Le Dictionary of Canadian Law définit comme suit le mot « university » :
+[traduction]
+La principale caractéristique qui distingue une université d’autres établissements d’enseignement tient au pouvoir de décerner des titres ou des diplômes.
+Dans le Webster’s Third New International Dictionary (soit un dictionnaire américain), le mot « university » est défini comme suit :
+[traduction]
+Corps de personnes réunies en un lieu particulier pour la dissémination et l’assimilation de connaissances dans des domaines d’études avancées; établissement de haut savoir offrant des installations pour l’enseignement et la recherche et autorisé à décerner des diplômes d’études.
+Enfin, le Black’s Law Dictionary en donne la description suivante :
+[traduction]
+Établissement de haut savoir qui consiste en un ensemble de collèges constitué en personne morale, qui dispense un enseignement dans le domaine des arts et des sciences, y compris les professions intellectuelles, et qui décerne des diplômes.
+[15] Dans l’affaire Re City of London and Ursuline Religious of the Diocese of London, (1964) 43 D.L.R. (2d) 220, l’ordre des ursulines, soit des religieuses, cherchait à obtenir une exemption en vertu de la Assessment Act (loi sur l’évaluation foncière), R.S.O. 1960, pour le motif que cet ordre constituait une université puisqu’il œuvrait sur le campus de l’Université Western Ontario. Le groupe religieux des ursulines était affilié à l’Université Western Ontario et autorisé à donner des cours acceptés par l’Université. Ainsi, il cherchait à obtenir une exemption en vertu de la Assessment Act, qui prévoyait une telle exemption pour les universités. La décision unanime de la Cour d’appel de l’Ontario a été rendue par le juge Schroeder. Énonçant les faits de cette affaire, il disait, à la page 222 :
+[traduction]
+[...] La partie appelante n’a pas le pouvoir de décerner des diplômes, mais elle est affiliée à l’Université Western Ontario en vertu d’un accord conclu en 1919. La partie appelante donne des cours sur des sujets approuvés par l’Université, et ce, à ses propres étudiants et à d’autres étudiants de l’Université, c’est-à-dire des étudiants de différents collèges de l’Université. Des examens sont établis conformément aux normes fixées par l’Université, et des baccalauréats ès arts sont décernés aux étudiants ainsi formés par l’Université Western Ontario qui réussissent les examens.
+Le juge Schroeder a également cité des extraits du Wharton’s Law Lexicon et du Murray’s New English Dictionary concernant la définition du mot « university ». À la page 228, il disait :
+[traduction]
+La principale caractéristique qui distingue une université d’autres établissements d’enseignement tient au pouvoir de décerner des titres ou des diplômes de bachelier ès arts, maître ès arts ou docteur en théologie, soit des titres ou diplômes certifiant que les titulaires ont atteint un niveau de compétence déterminé. [...]
+[16] Pour ce qui est de l’alinéa 118.5(1)b) considéré isolément, je n’ai aucun mal à conclure que, pour qu’un établissement soit une université au sens du passage précité, il doit avoir le pouvoir de décerner des diplômes. Le fait qu’un établissement habilité à décerner des diplômes, soit la New School University de l’État de New York, ait conclu un accord avec l’AMDA de manière à accepter des finissants du programme de l’AMDA en se fondant sur le fait que ces personnes se verraient accorder 60 crédits aux fins de l’obtention d’un diplôme de la New School University ne signifie pas que, comme établissement autonome, l’AMDA est une université décernant des diplômes.
+[10] En ce qui a trait précisément à la déduction d’impôt demandée par l’appelante en application des dispositions du paragraphe 118.5(1), l’avocat de l’intimée a cité les commentaires suivants du juge Mogan :
+[20] La deuxième raison pour interpréter la loi à l’encontre de l’appelant tient à une comparaison entre le libellé de l’alinéa 118.5(1)a) et celui de l’alinéa 118.5(1)b). L’alinéa b) a été cité précédemment; l’alinéa a) dit :
+118.5(1) Les montants suivants sont déductibles dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+a) si le particulier est inscrit au cours de l’année à l’un des établissements d’enseignement suivants situés au Canada :
+(i) établissement d’enseignement – université, collège ou autre – offrant des cours de niveau postsecondaire,
+[…]
+Il est intéressant de voir le contraste qu’il y a entre les alinéas a) et b). Si la personne fréquente un établissement d’enseignement situé au Canada, il peut s’agir d’une université, d’un collège ou d’un autre établissement d’enseignement offrant des cours de niveau postsecondaire. En d’autres termes, si une personne veut déduire un crédit d’impôt pour frais de scolarité au Canada, la personne qui paie les frais n’a pas à fréquenter une université. Il peut s’agir d’un établissement d’enseignement autre qu’une université. Cependant, si une personne veut déduire un crédit d’impôt pour frais de scolarité et qu’elle fréquente un établissement d’enseignement situé à l’étranger, il me semble bien clair qu’il doit s’agir d’une université, en raison des termes par lesquels commence l’alinéa b), soit : « si, au cours de l’année, le particulier fréquente comme étudiant à plein temps une université située à l’étranger, où il suit des cours conduisant à un diplôme ».
+Conclusion
+[11] Il est acquis aux débats que les alinéas 118.5(1)b) et 118.6(1)b) établissent une distinction claire entre les étudiants inscrits à des établissements d’enseignement situés au Canada et ceux qui étudient à l’étranger. Comme il a été si clairement démontré par le juge Mogan, pour que les montants en cause soient déductibles en application de l’alinéa 118.5(1)b), le demandeur doit établir qu’« au cours de l’année, [il] fréquent[ait] comme étudiant à plein temps une université située à l’étranger, où il sui[vait] des cours conduisant à un diplôme ». L’appelante ne l’a pas fait. La LAMDA n’était pas un établissement habilité à décerner des diplômes et, par conséquent, elle n’était pas une université. Compte tenu des faits portés à ma connaissance, j’ai conclu que les exigences pertinentes relatives aux crédits d’impôt pour frais de scolarité et pour études qui sont énoncées aux alinéas 118.5(1)b) et 118.6(1)b) n’avaient pas été remplies.
+[12] Dans ses observations finales, le représentant de l’appelante a de nouveau cité la décision Belkin en invoquant le commentaire suivant de la juge Lamarre Proulx :
+[28] Je crois que, afin de donner effet à l’alinéa 8(1)p) de la Loi, il faut examiner la question du point de vue d’un musicien [...]
+Il a soutenu qu’[traduction]« afin de donner effet à l’alinéa 118.5(1)b) », qui porte sur le crédit d’impôt pour frais de scolarité relativement aux études à l’étranger, [traduction] « il faut examiner la question du point de vue d’un étudiant ». Par conséquent, il a fait valoir qu’il n’y avait aucune explication logique de la raison pour laquelle l’ARC avait décidé que le diplôme potentiel de baccalauréat ès arts avec spécialisation que l’appelante avait obtenu d’un établissement reconnu à l’échelle internationale avait moins de valeur que d’autres diplômes de baccalauréat ès arts, et qu’elle avait refusé les déductions en cause.
+[13] Je ne saurais juger cet argument bien fondé puisque l’application de ce point de vue aux faits en l’espèce reviendrait à modifier les articles pertinents de la Loi. Il s’agit du rôle du législateur et non de la Cour.
+[14] Pour les motifs énoncés ci‑dessus, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2006.
+« A.A. Sarchuk »
+Juge suppléant Sarchuk
+Traduction certifiée conforme
+ce 7e jour de mars 2008.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI676
+Nº DU DOSSIER DE LA COUR : 2006-1265(IT)I
+INTITULÉ : Sarah Goldberg et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 2 octobre 2006
+MOTIFS DU JUGEMENT : L’honorable juge A.A. Sarchuk
+DATE DU JUGEMENT : Le 7 décembre 2006
+COMPARUTIONS :
+Représentant de l’appelante :
+Aron Goldberg
+Avocat de l’intimée :
+Me David Everett
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Document nº 5.
+[2] 2005 CCI 785.
+[3] [1998] A.C.I. nº 1091.

@@ -1,0 +1,171 @@
+---
+title: "3092-8949 Québec Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27169/index.do"
+last_modified: "2006-03-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 136"
+citation2: ""
+neutral_citation: "2006 CCI 136"
+decision_date: "2006-03-17"
+language: "fr"
+item_id: "27169"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1038
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:47:11.261000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "96c6c46b34fad40003b345f7c714878bb7132a7d6932657d32e6835c82298188"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 3092-8949 Québec Inc. c. La Reine
+
+- Citation: 2006 CCI 136
+- Decision date: 2006-03-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1038, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+3092-8949 Québec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-17
+Référence neutre
+2006 CCI 136
+Numéro de dossier
+2005-760(GST)I
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-760(GST)I
+ENTRE :
+3092-8949 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 31 janvier 2006, à Québec (Québec).
+Devant : L'honorable juge Pierre R. Dussault
+Comparutions :
+Avocat de l'appelante :
+Me Stéphane Harvey
+Avocat de l'intimée :
+Me Michel Morel
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie le 20 mai 2004 en vertu de la partie IX de la Loi sur la taxe d'accise, pour la période du 1er au 30 juin 2003, est rejeté.
+Signé à Ottawa, Canada, ce 17e jour de mars 2006.
+« P. R. Dussault »
+Juge Dussault
+Référence : 2006CCI136
+Date : 20060317
+Dossier : 2005-760(GST)I
+ENTRE :
+3092-8949 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] Il s'agit d'un appel d'une cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise (la « Loi » ) pour la période du 1er au 30 juin 2003. Par cette cotisation, le ministre du Revenu national (le « ministre » ) a refusé à l'appelante, laquelle fait affaire sous le nom de Lanaco, la déduction d'un montant de 14 280,55 $ à titre de créance irrécouvrable dans le calcul de sa taxe nette pour la période en question.
+[2] Pour établir cette cotisation, le ministre s'est fondé sur les conclusions et les hypothèses de fait énoncées aux alinéas a) à i) du paragraphe 5 de la Réponse à l'avis d'appel. Ces alinéas se lisent comme suit :
+a) l'appelante est un inscrit aux fins de l'application de la TPS;
+b) le 10 mai 2001, l'appelante interjeta appel auprès de cette Cour, dans le dossier portant le numéro 2001-1724(GST)I, d'une cotisation TPS pour la période du 1er février 1996 au 30 novembre 1998; par cette cotisation, le Ministre réclamait à l'appelante la TPS non perçue lors de la vente de véhicules automobiles;
+c) le 11 avril 2003, l'appelante se désistait de son appel suite à une entente intervenue le même jour avec le Ministre;
+d) suivant l'entente intervenue, l'appelante a consenti à être recotisée relativement à la TPS non perçue à l'égard de 14 véhicules automobiles dont les prix de vente totalisaient 234 660,00 $;
+e) en produisant sa déclaration TPS pour la période du 1er juin 2003 au 30 juin 2003, l'appelante réclama, à titre de crédits de taxe sur les intrants ( « CTI » ), 14 280,55 $ de TPS pour créances irrécouvrables;
+f) le montant de 14 280,55 $ représentait la TPS afférente aux 14 véhicules automobiles ci-avant mentionnés;
+g) pour la période du 1er juin 2003 au 30 juin 2003, l'appelante n'avait aucune créance irrécouvrable puisqu'elle avait reçu paiement des 14 véhicules dont elle avait effectué les fournitures par ventes;
+h) en outre, suivant l'entente intervenue, la TPS exigible, au montant de 14 280,55 $, représente la TPS incluse dans le montant de 234 660,00 $ ci-avant mentionné et qui a été entièrement payé à l'appelante;
+i) les CTI pour créances irrécouvrables s'établissaient, en conséquence, comme suit :
+* 30 652,18 $ X 0/234 660 $ = 0
+* TPS (14 280,55 $) + TVQ (16 371,63 $)
+[3] L'alinéa g) est nié en partie puisque l'appelante a reçu paiement de la contrepartie des véhicules vendus, mais non des taxes applicables, soit la taxe sur les produits et services ( « TPS » ) et la taxe de vente du Québec ( « TVQ » ). Les alinéas h) et i) sont niés.
+[4] Monsieur Jean-Pierre Forest a témoigné pour l'appelante. Monsieur Benoît Létourneau, enquêteur au ministère du Revenu du Québec ( « ministère » ), et monsieur Alain Therrien, agent d'opposition au même ministère, ont témoigné pour l'intimée.
+[5] Monsieur Forest est le comptable de l'appelante. Lors de son témoignage, il a expliqué que le différend entre l'appelante et le ministère portait initialement sur les ventes de 43 véhicules pour lesquelles l'appelante n'avait pas demandé la TPS et la TVQ, car il s'agissait, selon elle, de ventes à un commerçant en vue de l'exportation. Dans une entente intervenue le 11 avril 2003, le ministère convenait de ne plus exiger les taxes concernant les ventes de 25 véhicules et l'appelante acceptait de faire l'objet d'une nouvelle cotisation à l'égard des ventes de 14 véhicules, cotisation qui se ferait « selon les montants établis pour les véhicules concernés » sur la liste annexée à l'entente (pièce A-1, Annexe 18). Or, aux fins des cotisations de TPS et de TVQ, le ministère a considéré que le prix de vente des véhicules reçu par l'appelante, qui n'avait pas demandé le paiement des taxes, comprenait la TPS et la TVQ. Une telle façon de faire entraînait l'établissement d'un prix de vente fictif égal approximativement à 86,94 % du prix de vente réel et réduisait ainsi les taxes exigibles. Évidemment, bien que cette façon de calculer les taxes favorisât l'appelante et qu'elle ait été acceptée par celle-ci lors de la signature de l'entente, monsieur Forest n'en a pas moins souligné le caractère artificiel de la chose, puisque le résultat est que l'appelante aurait alors vendu les véhicules à un prix inférieur au prix coûtant (pièce A-6). Quoi qu'il en soit, l'entente a été signée par les deux parties, l'appelante s'est désistée de son appel, elle a été l'objet d'une nouvelle cotisation pour un montant de TPS de 14 280,55 $ établi selon la méthode décrite et elle n'a nullement contesté cette nouvelle cotisation, qu'elle a d'ailleurs acquittée avec intérêts et pénalités.
+[6] Toutefois, concernant les véhicules pour lesquels l'appelante acceptait, selon l'entente, de faire l'objet d'une nouvelle cotisation selon la méthode décrite, elle a fait ajouter à l'entente le paragraphe 4 qui se lit comme suit :
+4.- Pour les véhicules des groupes 1, 3 et 11, 3092-8949 Québec Inc. se réserve la possibilité d'exercer son droit de fournisseur en vertu de l'article 224 L.T.A., lequel article lui permet de facturer au véritable acquéreur (Monaco Motors selon le Sous-ministre du revenu du Québec).
+[7] Selon monsieur Forest, le ministère savait bien, malgré la méthode utilisée pour le calcul des taxes, que celles-ci n'avaient pas été payées par les acheteurs des 14 véhicules, puisque l'appelante n'en avait pas demandé le paiement et il autorisait ainsi l'appelante à récupérer de Monaco Motors (le véritable acheteur selon le ministère), en vertu de l'article 224 de la Loi, la TPS qu'elle acceptait d'acquitter en vertu de l'entente. Pourtant, selon monsieur Forest, le vérificateur Serge Bouchard, du ministère, savait déjà depuis le mois d'août 2000 que la société 9041-0952 Québec inc., faisant affaire sous le nom de Monaco Motors, avait été mise en faillite le 14 juillet 2000 (pièce A-5, 3e page).
+[8] Monsieur Forest a expliqué que, à la suite de l'entente du 11 avril 2003, l'appelante a tenté de récupérer les taxes de Monaco Motors ou de sociétés du même groupe en leur faisant parvenir une facture pour les taxes qu'elle était elle-même tenue de remettre. Une seule lettre, non datée mais dont l'enveloppe porte le cachet postal du 20 avril 2005, a été soumise en preuve à cet égard (pièce A-2). Cette lettre a été retournée à l'appelante. Toutefois, monsieur Forest a affirmé que d'autres lettres semblables avait été envoyées antérieurement.
+[9] Monsieur Forest a aussi déposé en preuve un document donnant des informations obtenues du Registraire des entreprises (système CIDREQ) démontrant que la société 9041-0952 Québec inc. avait été radiée d'office le 4 mai 2001 (pièce A-3). Je fais remarquer que le document a été obtenu le 28 janvier 2006 seulement. Un autre document, obtenu grâce à des recherches faites au Bureau du surintendant des faillites du Canada, indique que la même société a été mise en faillite le 13 juillet 2000 (pièce A-4). Le document indique que la recherche a été effectuée le 30 janvier 2006, soit la veille de l'audition de la présente affaire. Toutefois, on constate que c'est dans un formulaire de déclaration en date du 17 juin 2003 que l'appelante réclamait la déduction de la créance irrécouvrable à l'égard de la TPS qui fait l'objet du présent litige, et on se pose simplement la question de savoir quelles sont les véritables démarches effectuées par l'appelante à l'époque pertinente pour récupérer les taxes qu'elle devait acquitter à la suite de l'entente du 11 avril 2003 et de l'établissement de la nouvelle cotisation qui devait en découler.
+[10] Enfin, je signale que monsieur Forest a également déposé en preuve un document provenant des douanes américaines et obtenu par un avocat américain mandaté par l'appelante (pièce A-7). Selon ce document, 10 véhicules sur les 14 ayant fait l'objet de la cotisation établie à la suite de l'entente du 11 avril 2003 auraient été exportés aux États-Unis. Comme ce n'est pas cette cotisation qui fait l'objet du présent litige, je ne vois pas la pertinence de ce document.
+[11] Monsieur Benoît Létourneau est enquêteur au ministère. Dans son témoignage, il a fait état de l'enquête sur les activités de l'appelante consistant dans la vente de véhicules soit à des Indiens, soit pour exportation. Concernant plus particulièrement l'entente du 11 avril 2003, il a affirmé que c'est l'appelante qui avait demandé l'ajout du paragraphe 4 reproduit plus haut et que jamais il n'avait été question qu'elle réclame (comme créances irrécouvrables) les taxes qu'elle n'avait pas perçues. De plus, selon lui, la facturation des taxes à la société 9041-0952 Québec inc. (Monaco Motors) (pièce A-2) n'a jamais été portée à son attention avant l'audition de la présente affaire. Quant à la façon de calculer la taxe sur les ventes des 14 véhicules pour lesquelles l'appelante acceptait de faire l'objet d'une nouvelle cotisation selon les termes de l'entente du 11 avril 2003, monsieur Létourneau a expliqué qu'il a considéré que les taxes étaient incluses dans les prix de vente, que cette façon de faire entraînait une cotisation moins élevée et que l'appelante ne s'y était jamais opposée.
+[12] Monsieur Alain Therrien est agent d'opposition. Dans son témoignage, il a fait état des discussions avec l'avocat de l'appelante concernant l'application du paragraphe 231(1) de la Loi dans le cas de créances irrécouvrables. Il aurait proposé à l'appelante un redressement de la TPS égal à 1 865,38 $ en considérant que, malgré l'entente du 11 avril 2003, les taxes n'étaient pas incluses dans la contrepartie de 234 660 $ payée pour les 14 véhicules ayant fait l'objet de la nouvelle cotisation établie à la suite de l'entente (pièce I-3). Ainsi, en ce qui concerne la TPS, le redressement proposé de 1 865,38 $ est le résultat de l'application de la formule du paragraphe 231(1) de la Loi, utilisant les montants suivants :
+14 280,55 $ x 30 652,18 $
+234 660 $
+[13] Ce redressement a été refusé par l'appelante, qui réclame un redressement égal à la totalité de la TPS, soit 14 280,55 $.
+[14] L'avocat de l'appelante soutient que par le paragraphe 4 de l'entente du 11 avril 2003, le ministère permettait à l'appelante de récupérer du véritable acquéreur la TPS à l'égard des ventes des 14 véhicules pour lesquelles elle acceptait de faire l'objet d'une cotisation. Comme l'appelante n'a pu le faire en raison de la faillite de la société 9041-0952 Québec inc. (Monaco Motors), sa créance, aux fins du paragraphe 231(1) de la Loi, est égale au montant de la facture (pièce A-2) et c'est donc un montant égal à 100 % de la TPS, soit 14 280,55 $, que l'article 231 permet de considérer comme une créance irrécouvrable.
+[15] L'avocat de l'intimée fait valoir que l'entente et la cotisation qui a suivi étaient basées sur l'hypothèse que le prix de vente des 14 véhicules, soit le montant total de 234 660 $, comprenait les taxes, ce qui était avantageux pour l'appelante et ce qu'elle a accepté. Selon lui, comme le montant de 234 660 $ a été entièrement acquitté et que ce montant comprenait les taxes, l'appelante ne peut prétendre qu'un montant de taxe demeure impayé aux fins de l'application du paragraphe 231(1) de la Loi.
+[16] De plus, comme l'appelante a reçu paiement intégral des véhicules vendus, l'avocat de l'intimée soutient qu'il n'y a pas eu radiation d'une créance de ses livres comptables. Il se réfère à cet égard à la décision dans l'affaire Jilly Creations Inc. c. Canada, [2005] A.C.I. no 61 (QL), au paragraphe 39.
+[17] De plus, selon lui, au paragraphe 40 de la même décision, la juge Lamarre Proulx fait état d'une autre condition de l'application du paragraphe 231(1) de la Loi, qui est :
+[...] que le fournisseur ait indiqué la taxe percevable dans une déclaration qu'il a produite pour la période de déclaration au cours de laquelle la taxe était devenue percevable et qu'il ait versé la totalité de la taxe nette relative à cette déclaration.
+[18] La juge Lamarre Proulx se réfère à la décision dans l'affaire Equinox Realty Ltd. c. Canada, [1997] A.C.I. no 1210 (QL), au paragraphe 7, où le juge Mogan a rejeté un appel au motif que cette condition de base n'avait pas été remplie. Selon l'avocat de l'intimée, cette condition n'a pas non plus été remplie par l'appelante dans la présente affaire, de sorte qu'elle ne peut bénéficier d'aucun redressement dans les circonstances.
+[19] Enfin, l'avocat de l'intimée soutient qu'il n'y a aucune relation entre l'article 224 et le paragraphe 231(1) de la Loi.
+Analyse
+[20] D'abord, une remarque s'impose concernant l'article 224 de la Loi. Cette disposition accorde, comme son titre l'indique, un droit au fournisseur d'intenter une action en recouvrement de la TPS contre un acquéreur de qui il est tenu de la percevoir. Tout fournisseur qui s'est conformé aux conditions énoncées peut exercer ce recours sans avoir besoin d'une permission quelconque du ministre. En ce sens, le paragraphe 4 de l'entente du 11 avril 2003 paraît inutile, puisque c'est la Loi elle-même qui accorde le droit, à la condition que le fournisseur se conforme aux exigences énoncées. Toutefois, il ne s'agit pas là de la question à régler dans la présente affaire.
+[21] L'appelante réclame dans le calcul de sa taxe nette pour la période du 1er au 30 juin 2003 une déduction de 14 280,55 $ en vertu du paragraphe 231(1) de la Loi, qui prévoit un redressement dans le cas de créances irrécouvrables. Cette disposition se lit ainsi :
+231. (1) Créances irrécouvrables - La personne qui effectue une fourniture taxable, sauf une fourniture détaxée, pour une contrepartie au profit d'un acquéreur avec lequel elle n'a aucun lien de dépendance peut, dans la mesure où il est établi que tout ou partie de la contrepartie et de la taxe payable relativement à la fourniture est devenu une créance irrécouvrable, déduire, dans le calcul de la taxe nette pour sa période de déclaration où elle radie la créance de ses livres comptables ou pour une période de déclaration postérieure, le résultat du calcul suivant, à condition qu'elle indique la taxe percevable relativement à la fourniture dans la déclaration qu'elle produit aux termes de la présente section pour la période de déclaration au cours de laquelle la taxe est devenue percevable et verse la totalité de la taxe nette qui est à verser selon cette déclaration :
+A x B
+C
+où
+A représente la taxe payable relativement à la fourniture;
+B le total de la contrepartie, de la taxe et d'un montant qu'il est raisonnable d'attribuer à une taxe imposée en vertu d'une loi provinciale qui constitue une taxe visée par règlement pour l'application de l'article 154 (appelée « taxe provinciale applicable » au présent article), qui demeure impayé relativement à la fourniture et qui a été radié à titre de créance irrécouvrable;
+C le total de la contrepartie, de la taxe et de la taxe provinciale applicable payables relativement à la fourniture.
+[22] J'estime que l'appelante n'a droit à aucun redressement en vertu de cette disposition, car les conditions qui y sont énoncées n'ont pas été remplies.
+[23] D'abord, il n'y a aucune preuve que l'appelante ait radié de ses livres comptables, au cours de la période du 1er au 30 juin 2003, une créance quelconque se rapportant aux ventes des 14 véhicules pour lesquelles elle acceptait d'être l'objet d'une nouvelle cotisation pour les taxes applicables, dont la TPS, en vertu de l'entente du 11 avril 2003. D'ailleurs, la preuve apportée est qu'elle tentait encore en avril 2005 de récupérer de la société 9041-0952 Québec inc. (Monaco Motors) et des sociétés ou entreprises du même groupe les taxes établies par la cotisation (pièce A-2).
+[24] Deuxièmement, l'appelante n'a jamais indiqué la TPS percevable relativement à la fourniture par vente des 14 véhicules dans une déclaration pour la période de déclaration au cours de laquelle la TPS est devenue percevable, et elle n'a évidemment pas versé la totalité de la taxe nette à verser selon une telle déclaration.
+[25] Troisièmement, le paragraphe 231(1) exige, pour son application, que tout ou partie à la fois de la contrepartie et de la taxe payable relativement à une fourniture soit devenu une créance irrécouvrable. Ce n'est manifestement pas le cas ici puisque la totalité de seule la contrepartie de chaque vente a été payée à l'appelante.
+[26] Dans l'affaire Ciriello c. Canada, [2000] A.C.I. no 829 (QL), le juge Rip de cette Cour faisait état de ces deux dernières conditions dans les termes suivants au paragraphe 3 de sa décision :
+[...] Pour que R & V reçoive un remboursement ou se voie accorder un redressement de la taxe, le paragraphe 231(1) de la Loi exige non seulement que le contribuable ait effectué une fourniture taxable dans le cadre d'une activité commerciale et pour une contrepartie, mais également qu'il ait produit une déclaration justifiant la taxe et par laquelle il la verse aux termes de la section II relativement à cette fourniture. Enfin, la contrepartie et la taxe doivent être devenues une créance irrécouvrable. [...]
+[27] En ce qui concerne la condition selon laquelle non seulement la taxe mais aussi la contrepartie doit être devenue une créance irrécouvrable en tout ou en partie, on peut se référer au commentaire suivant de David M. Sherman dans le Canada GST Service, Toronto, Thomson Carswell, Binder C4, à la page 231-108C :
+What if only the GST remains unpaid? This may happen, for example, where a customer refuses to pay the GST on a purchase. Clearly the deduction under section 231 cannot equal the GST. At most, it will be the GST portion (typically 7/107) of the unpaid amount. Even this deduction may not be available, however, since subsection 231(1) requires that the "consideration and tax" have become in whole or in part a bad debt. If only the tax is a bad debt, then technically no deduction is available. In practice it may be possible to consider the amount paid as simply 100/107 of the total, so that, from the supplier's point of view, 7/107 of the combined "consideration and tax" has become a bad debt.
+[28] Si la solution proposée par David M. Sherman peut paraître acceptable, à la condition cependant que l'on tienne également compte de la TVQ applicable, encore faudrait-il considérer que la TPS n'est pas déjà incluse dans la contrepartie laquelle a ici été entièrement acquittée.
+[29] Toutefois, comme le soutient l'avocat de l'intimée, on doit, en l'espèce, considérer que la TPS est incluse dans la contrepartie de 234 660 $ reçue par l'appelante pour les ventes des 14 véhicules pour lesquelles elle a accepté de faire l'objet d'une nouvelle cotisation selon l'entente du 11 avril 2003. D'abord, selon l'entente, la cotisation devait être établie sur cette base et, de fait, elle l'a été. La TPS ainsi calculée et exigée dans la cotisation s'est élevée à 14 280,55 $. C'est ce montant que l'appelante a acquitté, qu'elle a facturé à la société 9041-0952 Québec inc. et aux autres sociétés et entreprises du même groupe et, enfin, dont elle a réclamé la déduction comme créance irrécouvrable. On ne peut considérer la TPS à la fois comme étant incluse dans la contrepartie à toutes ces fins et comme ne l'étant pas en ce qui concerne l'application du paragraphe 231(1) de la Loi.
+[30] Le fait que l'appelante n'ait pas rempli l'une des trois conditions mentionnées rend le paragraphe 231(1) de la Loi inapplicable. Il l'est à plus forte raison si elle n'a rempli aucune de ces conditions.
+[31] Compte tenu de ce qui précède, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 17e jour de mars 2006.
+« P. R. Dussault »
+Juge Dussault
+RÉFÉRENCE : 2006CCI136
+N º DU DOSSIER DE LA COUR : 2005-760(GST)I
+INTITULÉ DE LA CAUSE : 3092-8949 QUÉBEC INC. c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : le 31 janvier 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Pierre R. Dussault
+DATE DU JUGEMENT : le 17 mars 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Stéphane Harvey
+Avocat de l'intimée :
+Me Michel Morel
+AVOCATE INSCRITE AU DOSSIER :
+Pour l'appelante:
+Nom : Me Stéphane Harvey
+Étude : Lavery, De Billy
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

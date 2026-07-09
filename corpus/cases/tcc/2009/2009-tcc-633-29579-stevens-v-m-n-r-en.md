@@ -1,0 +1,199 @@
+---
+title: "Stevens v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29579/index.do"
+last_modified: "2009-12-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 633"
+citation2: ""
+neutral_citation: "2009 TCC 633"
+decision_date: "2009-12-03"
+language: "en"
+item_id: "29579"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6334
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:43:13.931000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bcb91b600497cf60a5842bd3bf2a0089236453271525c86f5eb0068eff992317"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stevens v. M.N.R.
+
+- Citation: 2009 TCC 633
+- Decision date: 2009-12-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6334, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stevens v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-12-03
+Neutral citation
+2009 TCC 633
+File numbers
+2009-289(EI)
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2009-289(EI)
+BETWEEN:
+CHERISE STEVENS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 3, 2009, at Halifax, Nova Scotia.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Michel Samson
+Counsel for the Respondent:
+Jan Jensen
+Noell Corriveau
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue made under section 92 of that Act is varied on the basis that the Appellant was engaged in insurable employment within the meaning of paragraph 5(1)(a) of the Act for the periods from August 9, 2006 to April 7, 2007 and from July 27, 2007 to April 5, 2008.
+Signed at Halifax, Nova Scotia, this 21st day of December, 2009.
+“Wyman W. Webb”
+Webb J.
+Citation: 2009TCC633
+Date: 20091221
+Docket: 2009-289(EI)
+BETWEEN:
+CHERISE STEVENS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in this appeal is whether the decision of the Respondent that the employment of Cherise Stevens by her husband, Bradley Stevens, during the periods from August 9, 2006 to April 7, 2007 and from July 27, 2007 to April 5, 2008 (the “periods under appeal”) was not insurable employment for purposes of the Employment Insurance Act ("Act") was reasonable.
+[2] Subsection 5(2) of the Act provides in part that:
+Insurable employment does not include
+...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+[3] Subsection 5(3) of the Act provides that:
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[4] In this case, Bradley Stevens was carrying on a video rental business as a sole proprietor and hired the Appellant as his employee for the periods under appeal. Since the Appellant was (and still is) related to her employer for the purposes of the Income Tax Act, the issue in this case is whether the decision of the Minister of National Revenue that Cherise Stevens and Bradley Stevens would not have entered into a substantially similar contract of employment during the periods in question if they would have been dealing with each other at arm's length, is reasonable.
+[5] In the case of Porter v. M.N.R., 2005 TCC 364, Justice Campbell of this Court reviewed the decisions of this Court and the Federal Court of Appeal in relation to the role of this Court in appeals of this nature. In paragraph 13 of this decision Justice Campbell stated as follows:
+In summary, the function of this Court is to verify the existence and accuracy of the facts relied upon by the Minister, consider all of the facts in evidence before the Court, including any new facts, and to then assess whether the Minister's decision still seems "reasonable" in light of findings of fact by this Court. This assessment should accord a certain measure of deference to the Minister.
+[6] Bradley Stevens was an electrician. When companies required an electrician for a certain period of time or for a particular job, they would contact the union hall and the person responsible for assigning work would contact an electrician who belonged to the union. In 2004 Bradley Stevens had some issues with his union and he was not being assigned electrical work. He and his wife have a daughter who would have been three years old in 2004. Since Bradley Stevens had accumulated approximately 1,000 videos and he always wanted to open a video store, he opened the video store in his house in L'Ardoise in 2004. L'Ardoise is a small fishing community in Cape Breton. Bradley Stevens stated that the population of L'Ardoise was approximately 3,000 people.
+[7] Bradley Steven’s plan was that he would be the only person working at the business since he was unable to obtain electrical work. After he started the video store business, the business agent, who was in charge at the union hall, was replaced and Bradley Stevens started receiving electrical work assignments. Bradley Stevens would work at the business when he was not working as an electrician. When he was working on electrical jobs the Appellant was hired to look after the video store.
+[8] In September 2005, while Bradley Stevens was working as an electrician on a job site, he came in contact with toxins in bird droppings, became ill and spent some time in the hospital. His heart is enlarged. It has affected every muscle in his body. His vision has been affected and is now threatened. He is no longer able to work. He has had approximately 100 medical appointments with doctors, including approximately twenty different specialists in Sydney and Halifax since September 2005, to apparently no avail. He is no longer able to work as an electrician or in the video store. He can do 3 five minute walks each week. He cannot climb stairs or walk up hills or lift anything over 30 pounds. His only source of income, other than the video business, is temporary workers compensation benefits. He has received cash from fund raisers held in the community and in Ontario and a lump sum payment from his Group Retirement Plan as a result of his shortened life expectancy.
+[9] As a result of Bradley Stevens’ illness the Appellant became the only person working in the video store. The Appellant was paid minimum wage and her hours were set by Bradley Stevens. Bradley Stevens also determined the Appellant’s duties while she was employed.
+[10] Paragraph 7 of the Reply states as follows:
+7. In making his decision, the Respondent relied on the following assumptions of fact:
+a) the Appellant’s spouse was Edison Bradley Stevens;
+b) the Payor was a sole-proprietorship owned and operated by Edison Bradley Stevens;
+c) the Payor’s business activity was the operation of a video rental store, which also offered snack foods and a DVD and CD repair service;
+d) the Appellant’s duties including renting movies, selling movies and snacks, attaching rating stickers to movies, and using a machine to repair DVDs (the “Duties”);
+e) the business was attached to the personal residence of the Appellant and the Payor (the “Residence”);
+f) there was a sensor in the store that buzzed inside the Residence when someone entered the store (the “Sensor”);
+g) the Appellant often stayed in the Residence until the Sensor notified her that there was a customer in the store;
+h) when the Appellant received paycheques from the Payor, they were deposited into the Payor’s business bank account;
+i) when the Appellant was purportedly paid cash, the Payor did not generate enough revenue to pay the Appellant;
+j) prior to the periods under appeal, the Payor performed the duties himself;
+k) the Payor has never had employees other than the Appellant;
+l) the Appellant worked some hours that were not recorded;
+m) the Appellant was sometimes paid for days that she did not work;
+n) the Duties were not sufficient to occupy the hours that the Appellant purportedly worked; and
+o) there was no fluctuation in the Payor’s business activity to correspond with the changes in the Appellant’s work hours.
+[11] The Reply does not identify which assumptions were relevant in making the determination that the terms and conditions of employment would not have been substantially the same if they would have been dealing with each other at arm’s length. The Appeals Officer for the Canada Revenue Agency (the “CRA”) testified during the hearing. She stated during the hearing as follows:
+Q. Now when making a report on this particular matter do you need to take any specific factors into consideration?
+A. I look at the evidence that I have in front of me. I look at whether or not the information that was provided at each stage is the same. I do my best to figure out which way is -- which is the most accurate.
+Q. So what kind of -- what was the conclusion that you came to after assessing all this information?
+A. I concluded -- I was in agreement with the Rulings Officer that the parties were not dealing at arms' length.
+Q. Can you expand just a little bit more on how you came to that conclusion that they weren't dealing at arms' length?
+A. Sure. Just one thing too in 2005 when the ruling was done I do go back in the history to take a look at what might have been different then. And if you look at the letter they dealt with contract of service compared to arms' length.
+So I had to -- I had nothing really to go by or compare anything from '05 concerning arms' length. In '06/'07; '07/'08 the topic was more about arms' length dealings. So if you go through that, I looked at the remuneration and what I have to compare to is whether or not a person who's not related to the payer would have been treated the same.
+So when I look at remuneration I see that cheques were deposited back in to the business bank account with no subsequent withdrawals to actually take money home to Cherise so I don't see how that would happen for an arms' length person.
+A person who's not related would also not be paid for hours that they did not work. An arms' length person would also -- the store would not change its hours based on that person's schedule.
+I don't see how a person or a business would remain open and go in the -- in a deficit, that significant of a deficit if they hired an arms' length person. I believe that if an arms' length person was hired that she'd be -- that the person would actually be working less hours all year long and not a significant increase in hours during certain periods and then off on EI for a period.
+I believe that there actually would have been revenue all year long just maybe at 14 hours a week all year long. I couldn't quite understand why they did it the way they did it other than she -- it's because she's related to Mr. Stevens.
+Q. So that was for remuneration. Is there another factor ---
+A. A couple.
+Q. --- that you consider when dealing with arms' length cases?
+A. Actually it was probably a couple in there. Remuneration, terms and conditions. I also look at nature and importance and duration. And the duration, when I look at duration I look at how many hours she needs to qualify for EI.
+When her EI began and when it ended and how her hours change when it begins and ends. And I noticed that as soon as her claim ended her hours increased significantly in order to earn more for the next year.
+Q. Any other factor you'd like to ---
+A. As far as nature and importance we look at the need for the worker. And I believe there was a need. Not to the extent that during the weeks where she was working 58 hours a week I don't believe she was needed to that extent.
+I do believe she was needed -- he did need someone for the store and I don't deny that for sure. One of the items that we look at under that is the fact that if he's operating at a loss that much it's hard to consider that an arms' length person would still be kept on the payroll to that extent.
+Q. And so what conclusion did this ultimately lead you to?
+A. I had no choice but to determine she was not at arms' length.
+[12] The factors identified by the Appeals Officer for the CRA justifying her conclusion that the Appellant and Bradley Stevens would not have entered into a substantially similar contract of employment if they would have been dealing with each other at arm’s length can be summarized as follows:
+(a) the Appellant’s cheques for her pay were deposited back into the bank account for the business;
+(b) the Appellant was paid for hours she did not work;
+(c) the store changed its hours to suit her schedule; and
+(d) the business was losing money and if they would have been dealing with each other at arm’s length, the Appellant would not have worked the same number of hours for the same periods of time (the duration of the work and the hours of employment appeared to coincide with the Appellant’s entitlement to EI benefits and appear to have been set to increase her benefits).
+[13] The earlier ruling, to which the Appeals Officer referred, was to a ruling in 2005 that the Appellant’s employment was insurable employment for the purposes of the Employment Insurance Act. The focus of that ruling was whether the Appellant was an employee or an independent contractor.
+[14] Since the reasons as stated by the Appeals Officer for her finding do not reflect all of the assumptions made in the Reply, it seems to me not all of the assumptions (as set out in the Reply) reflect facts that affected the decision of the Appeals Officer. It seems to me that the facts upon which the Appeals Officer relied would be those facts as summarized above and which she stated as the basis for her conclusion.
+[15] The finding that was made by the Appeals Officer that the cheques for the Appellant had been deposited back into the account for the business was based on a bank statement from the Credit Union showing a deposit on January 5, 2007 (which was during one of the periods under appeal). The total amount of this deposit was $1,108.56 ($256 in cash and $852.56 in cheques). Copies of the cheques that were deposited were attached and these included cheques that were payable to the Appellant and that were dated November 17, 2006 (for $179.93), November 30, 2006 (for $179.73), December 4, 2006 (for $179.73), December 23, 2006 (for $179.73) and December 31, 2006 (for $109.84). It seems obvious from the documents that these were the Appellant’s paycheques. There were also two other bank statements introduced into evidence (one for a deposit made on February 27, 2006 and the other for a deposit made on April 24, 2006). Neither one of these deposits occurred during the periods under appeal nor were there any deposit slips for these deposits. Both of these deposits also appear to include the Appellant’s paycheques.
+[16] The Appellant was adamant during her testimony that she always received cash for her paycheques. If Bradley Stevens was going to the Credit Union she would give him her paycheques to cash them for her. She was adamant that he would always give her the cash for the cheques and she would then deposit the money into her own bank account. In 2007, she was only paid in cash.
+[17] I accept the testimony of the Appellant that Bradley Stevens cashed her cheques for her and that he delivered the cash for the cheques to her. If Bradley Stevens had sufficient cash to cover the cheques that he was cashing for his wife so that he could give her the cash from other sources, it seems to me that he could then deposit the cheques into the bank account for the business without also withdrawing cash to cover the cheques. These transactions occurred almost 3 years ago and given Bradley Stevens’ medical problems over the past four years he may well have had other matters on his mind that may have been more important than recalling how particular cheques for his wife were cashed on a particular day. Since there was only the one incidence of the Appellant’s payroll cheques being deposited into the business bank account during the periods of appeal and since the Appellant was adamant that she always received cash for her cheques, it does not seem to me that this deposit record establishes that the Appellant’s pay went back into the business as the cash for her cheques could have been covered by other cash that Bradley Stevens had on hand, including other cash from the business.
+[18] The finding by the Appeals Officer that the Appellant was paid for days that she did not work was based on the hand written schedule provided by the Appellant of the days that she had worked and comparing this to the days for which she was paid. However the copy of the hand written schedule that was made for the Appeals Officer was not correct. During the hearing it was discovered that the two days identified by the Appeals Officer (Sunday July 29, 2007 and Sunday August 26, 2007) as days for which the Appellant was paid but did not work were actually included as days that the Appellant had worked in her hand written schedule but when this hand written schedule was copied, the page on which these two days appeared was not copied correctly and these days (which appeared at the bottom of a page) did not appear on the photocopied page. Once this error was discovered the Respondent acknowledged that this fact was not correct and therefore should not have been a factor that should have been taken into account to determine whether or not the Appellant and Bradley Stevens would have entered into a substantially similar contract of employment if they would have been dealing with each other at arm’s length. The Respondent also withdrew the assumption made in paragraph 7 m) of the Reply. It is clear that this fact was relied upon by the Appeals Officer in making her determination and that this fact was not correct.
+[19] The other reasons relate to the hours that the Appellant worked. The Appeals Officer had made a comment with respect to the hours being changed to suit the Appellant. However there was no evidence that the hours of the video store were set to accommodate the schedule of the Appellant. The Appeals Officer also testified that she was concerned that the number of hours increased significantly in February 2007. As well she expressed concerns that the video store was not open for business throughout the entire year and whether the hours reflected the duties that were assigned to the Appellant. She also stated that she would have expected the video store to be open year-round for fewer hours each week.
+[20] Bradley Stevens stated that his business had encountered some problems. He was operating the business in a very small community. The chief sources of income in the community were lobster fishing, crab fishing and construction. During the lobster fishing season, the individuals involved in this fishery would go out every day to set or check their traps. He noticed that there was a significant decrease in his business during the lobster season which was from May to July. The crab fishing season was from July to September and during the crab fishing season those individuals involved in this fishery would go out every second day. As a result the Appellant was laid off (and the store was closed) from April to July and the stored reopened for a couple of days per week during the crab fishing season. Following the fishing season, those involved in the fishery would fix up their boats and traps from September to December and their off season was from January to April, which one would also expect to be a busier time for a movie rental business since this is during the winter – early spring.
+[21] As well, because of his problems with this illness, Bradley Stevens had encountered resentment in the community and this affected his business. Bradley Stevens’ supervisor, his foreman and their families lived in the area. Because of his illness (which arose while he was on a job site) he made complaints to the Department of Labour and the Union which would not make him popular in the community. There were also rumours circulating around the community that his illness was contagious and this would have a negative impact on his business.
+[22] It does not seem to me that the hours of the video store were set to accommodate the Appellant but rather were set to take into account the demand for videos in the community. When any business is operated in a very small community the business owner must take into account the characteristics of that community that could affect his or her business. If a significant portion of the population is involved in an activity that because of its nature would reduce the amount of time that those individuals would have to watch movies for a particular period of time each year (and hence the demand for movies would be reduced during such periods of time), it seems reasonable to conclude that the video business could be closed for those periods of time. The hours that the video store would operate in L’Ardoise would not be the same as the hours that a video store would operate in a large metropolitan area.
+[23] The Respondent also expressed concern about the increase in the hours per day in February 2007 from 4 hours per day to 10 hours per day. The Appellant and Bradley Stevens indicated that was in part due to the movie classification system imposed by the Province of Nova Scotia. Each year the provincial government would issue a catalogue of movie titles with the appropriate classification for each movie that was to be displayed on the movie case. Bradley Stevens had started with 1,000 movies and now has approximately 3,000 movies. This catalogue would be received early in the new year. There is no doubt that it would take additional time to classify the movies. Presumably once a movie was classified with a certain rating, that rating would not change but there was no evidence presented with respect to how the provincial government classifies movies and whether as a result of changes in societal values a rating for a particular movie could be changed.
+[24] The Appellant was being paid minimum wage which Bradley Stevens indicated was $6 - $7 per hour. An increase in her hours from 4 to 10 hours would only cost him $36 - $42 per day. If a video rental business is to increase its sales, it seems to me that it would have to be open longer hours and since, as noted above, February would appear to be a prime month for this business (since it is during the winter and during the off season in the lobster fishery) it does not seem unreasonable that a video rental business would be open for business for 10 hours per day in February.
+[25] Another factor that the Appeals Officer took into account was the fact that the business was losing money. However it seems to me that there are many examples in the business community where businesses that are losing money still retain arm's length employees in the hopes that the situation will improve. The financial statements for the business were not introduced into evidence. It is not at all clear what part of the loss was attributable to non-cash items such as capital cost allowance. Bradley Stevens also did have other sources of cash available to him. There was no reconciliation of the amount of the losses and the amount of cash that Bradley Stevens had available to him.
+[26] The Appeals Officer also stated that she was not satisfied that the duties that were assigned to the Appellant were sufficient to justify the hours that she was employed. It seems to me that the hours of operation for a retail operation would be set for the convenience of the customers of the retail operation. There may be periods of time in any retail operation when there are few, if any, customers and therefore little, if anything, for the employees to do. However if the retail store is not open then the customers cannot shop at that location. I do not think that in an arm’s length relationship employees who work in retail stores will always have duties to occupy 100% of their time (other than the requirement to be there if a customer should arrive). It seems to me that Bradley Stevens was trying to operate his video store as efficiently as possible, bearing in mind his small market and the fact that he would have to be open a certain number of hours if he wanted to have any customers.
+[27] With respect to the timing of the work in relation to the entitlement for employment insurance benefits, it appears that the Appellant worked a significant number of hours in excess of the minimum number of hours required to qualify for employment insurance benefits and that the duration of her employment was dictated more by the demands of the community. The minimum number of hours that the Appellant needed to qualify was 420 hours and she worked more than twice that number of hours. After Bradley Stevens became ill, when the Appellant was not working at the store, the store was closed. It does not seem to me that the duration of her employment was set only to obtain employment insurance benefits but rather to try to keep the store and to reduce costs by closing the store during the lobster fishing season. As Bradley Stevens noted, as a result of his illness he has lost many things and his business is the last potential income earning activity that he has been able to retain. It seems to me that he was trying to keep the business going because he always wanted to operate a video store, because he had lost all other means of earning a livelihood and because it gave him something else to think about, other than his illness. Since he could not work, if the store was to be kept open, either his wife or another employee would have to be hired.
+[28] The Appeals Officer had also referred to purchases being made for supplies and movies when the store was closed in May. The amounts spent on snacks were small ($15 - $30). The Respondent was trying to suggest that the video store was actually open for business during May and June and that the Appellant was working during these months without being paid. The only evidence to support this was the purchase of snacks during these months which could have been purchased in preparation for the opening of the video store in July / August. I find that on a balance of probabilities that the Appellant did not work in May and June. In any event, even if the Appellant did work in May and June this work would have been performed outside the periods of employment that are under review. In Théberge v. The Minister of National Revenue, 2002 FCA 123, Justice Décary, writing on behalf of the majority of the Court of Appeal, stated that:
+19 What a claimant does outside the period during which he or she is employed in what the Minister considers to be insurable employment can be relevant, for example, to verify that the claimant is unemployed, to determine the amount of his or her benefits, or to establish his or her period of unemployment. However, for the purposes of the exception provided in paragraph 3(2)(c) of the Act, what a claimant does outside of his or her period of employment will be of little relevance when, as in this case, it is not alleged that the salary paid during the period of employment took into account the work performed outside of that period, that the applicant had included, in the hours spent on his or her insurable employment, hours worked outside of the period, or that work performed outside of his or her period of employment had been included in the work performed during his or her period of employment. It seems to me to be self-evident, and this is confirmed by the evidence, that in the case of family businesses engaged in seasonal work, the minimal amount of work that remains to be done outside the active season is usually performed by family members, without pay. Excepting seasonal employment, in a family farm business, on the ground that cows are milked year-round amounts, for all practical purposes, to depriving family members who qualify by working during the active season of unemployment insurance and to overlooking the two main characteristics of such a business: that it is a family business and a seasonal business.
+20 A claimant is not required to remain completely inactive while he or she is receiving benefits. Under section 10 of the Act, benefits are payable for each "week of unemployment" included in the benefit period and a "week of unemployment" is a week during which the claimant does not work a full working week. Under subsection 15(2) of the Act, a claimant may have earnings in respect of any time that falls in a week of unemployment and those earnings will be deducted only if they are in excess of an amount equal to twenty-five per cent of the claimant's weekly benefit. It is moreover settled law that work that is truly unpaid does not affect a claimant's status as unemployed (Bérubé v. Canada (Employment and Immigration), (1990) 124 N.R. 354 (F.C.A.)). I also note that under subsection 43(3) of the Unemployment Insurance Regulations, a claimant who is employed in farming is not regarded as working a full working week at any time during the period from October 1 to March 31 if the claimant proves that the work he or she performed was so minor in extent that it would not have prevented him or her from accepting full-time employment. I realize that those provisions do not apply, strictly speaking, in insurability cases, but they are nonetheless part of the backdrop.
+21 Getting back to this particular case, the fact that the applicant worked without pay for ten to fifteen hours each week outside the active season and while he was receiving benefits may indicate that he would not have performed that unpaid work if he had not been his employer's son. However, that is not the work we are concerned with, and the judge erred by taking it into account in the absence of any indication that the insurable employment at issue was subject to special terms and conditions that were attributable services being rendered outside the period of employment.
+[29] Because the business was adversely affected by the lobster fishing season, the video rental business in L’Ardoise was a seasonal business. There was no indication in this case that the Respondent was alleging that the Appellant’s salary was based on any hours worked during May or June or that the Appellant included any hours worked during May or June in her claim for EI benefits. Therefore it seems to me that even if she did work without being paid during May and June that this should not lead to a conclusion that the terms and conditions of her employment during the periods under appeal would have been substantially different if the Appellant and Bradley Stevens would have been dealing with each other at arm’s length.
+[30] While the buzzer installed on the door was referred to in the Reply, the Appeals Officer did not refer to it when discussing the reasons for her decision in her testimony. In any event, there are undoubtedly many retail operations that have a buzzer or some other means to notify employees when a customer has entered a store, especially a small store with one employee. In such a situation, that employee may have a back room available to him or her where he or she can relax until a customer enters the premises. The presence of the buzzer in this case should not affect a determination of whether the terms and conditions of the Appellant’s employment were substantially similar to those that would have been reached if the Appellant and Bradley Stevens would have been dealing with each other at arm’s length.
+[31] As a result I am unable to conclude that the decision of the Minister still seems reasonable in light of the evidence that was presented at the hearing. The appeal is therefore allowed.
+Signed at Halifax, Nova Scotia, this 21st day of December, 2009.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2009TCC633
+COURT FILE NO.: 2009-289(EI)
+STYLE OF CAUSE: CHERISE STEVENS v. M.N.R.
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: December 3, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: December 21, 2009
+APPEARANCES:
+Agent for the Appellant:
+Michel Samson
+Counsel for the Respondent:
+Jan Jensen
+Noell Corriveau
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

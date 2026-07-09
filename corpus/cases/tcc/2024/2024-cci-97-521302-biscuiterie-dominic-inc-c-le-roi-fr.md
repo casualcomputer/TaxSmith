@@ -1,0 +1,376 @@
+---
+title: "Biscuiterie Dominic Inc. c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521302/index.do"
+last_modified: "2024-07-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 97"
+citation2: ""
+neutral_citation: "2024 CCI 97"
+decision_date: "2024-07-16"
+language: "fr"
+item_id: "521302"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5714
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:36:55.260000+00:00"
+cases_cited_count: 10
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "485dce046d01de0904d3f550a25915187a733ca642e5d5028fad154e15e67166"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Biscuiterie Dominic Inc. c. Le Roi
+
+- Citation: 2024 CCI 97
+- Decision date: 2024-07-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5714, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Biscuiterie Dominic Inc. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-07-16
+Référence neutre
+2024 CCI 97
+Numéro de dossier
+2020-1452(IT)I, 2020-1453(IT)I, 2021-467(IT)I, 2021-468(IT)I
+Juges et Officiers taxateurs
+Jean Marc Gagnon
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2020-1452(IT)I
+ENTRE :
+BISCUITERIE DOMINIC INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu les 15, 16 et 17 avril 2024, à Montréal (Québec)
+Devant : L'honorable juge Jean Marc Gagnon
+Comparutions :
+Pour l'appelante :
+Yves Hamelin
+Avocate de l'intimé :
+Me Caroline Berthelet
+Bianca Morello (stagiaire)
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel de l’avis de cotisation daté du 12 septembre 2018 visant l’année d’imposition 2017 de l’appelante est rejeté, sans frais.
+Signé à Montréal, Québec, ce 16e jour de juillet 2024.
+« J. M. Gagnon »
+Juge Gagnon
+Dossier : 2020-1453(IT)I
+ENTRE :
+LA PETITE BRETONNE INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu les 15, 16 et 17 avril 2024, à Montréal (Québec)
+Devant : L'honorable juge Jean Marc Gagnon
+Comparutions :
+Pour l'appelante :
+Yves Hamelin
+Avocate de l'intimé :
+Me Caroline Berthelet
+Bianca Morello (stagiaire)
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel de l’avis de cotisation daté du 13 septembre 2018 visant l’année d’imposition 2017 de l’appelante est rejeté, sans frais.
+Signé à Montréal, Québec, ce 16e jour de juillet 2024.
+« J M. Gagnon »
+Juge Gagnon
+Dossier : 2021-467(IT)I
+ENTRE :
+BISCUITERIE DOMINIC INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu les 15, 16 et 17 avril 2024, à Montréal (Québec)
+Devant : L'honorable juge Jean Marc Gagnon
+Comparutions :
+Pour l'appelante :
+Yves Hamelin
+Avocate de l'intimé :
+Me Caroline Berthelet
+Bianca Morello (stagiaire)
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel de l’avis de nouvelle cotisation daté du 26 septembre 2019 visant l’année d’imposition 2018 de l’appelante est rejeté, sans frais.
+Signé à Montréal, Québec, ce 16e jour de juillet 2024.
+« J. M. Gagnon »
+Juge Gagnon
+Dossier : 2021-468(IT)I
+ENTRE :
+LA PETITE BRETONNE INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu les 15, 16 et 17 avril 2024, à Montréal (Québec)
+Devant : L'honorable juge Jean Marc Gagnon
+Comparutions :
+Pour l'appelante :
+Yves Hamelin
+Avocate de l'intimé :
+Me Caroline Berthelet
+Bianca Morello (stagiaire)
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel de l’avis de nouvelle cotisation daté du 25 septembre 2019 visant l’année d’imposition 2018 de l’appelante est rejeté, sans frais.
+Signé à Montréal, Québec, ce 16e jour de juillet 2024.
+« J. M. Gagnon »
+Juge Gagnon
+Référence : 2024CCI97
+Date : 20240716
+Dossier : 2020-1452(IT)I
+ENTRE :
+BISCUITERIE DOMINIC INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé;
+Dossier : 2020-1453(IT)I
+ENTRE :
+LA PETITE BRETONNE INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé;
+Dossier : 2021-467(IT)I
+ENTRE :
+BISCUITERIE DOMINIC INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé;
+Dossier : 2021-468(IT)I
+ENTRE :
+LA PETITE BRETONNE INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+MOTIFS DU JUGEMENT
+Le juge Gagnon
+I. Contexte
+[1] Les sociétés appelantes ont procédé en matière informelle sous preuve commune à l’égard de deux appels visant chacune leurs années d’imposition 2017 et 2018. Ainsi, il y a quatre appels des appelantes au total couvrant deux années d’imposition pour chacune des appelantes. Chaque appel vise un avis de cotisation ou de nouvelle cotisation distinct. Les parties ont déposé un cahier de pièces commun, mais des cahiers d’autorités distincts.
+[2] Biscuiterie Dominic inc. (Biscuiterie Dominic) et La Petite Bretonne inc. (Petite Bretonne) sont des sociétés liées qui appartiennent au même groupe. Pour les projets en litige, les appelantes ont souvent collaboré pour atteindre les objectifs des projets présentés.
+[3] La ministre du Revenu national (ministre) a refusé plusieurs projets présentés par les appelantes au titre de projets admissibles, au titre de dépenses d’activité de recherche scientifique et développement expérimental (RS&DE) au sens du paragraphe 248(1) LIR [1]. La ministre a également refusé le crédit d’impôt à l’investissement (CII) correspondant réclamé par les appelantes. C’est de ces décisions que découlent les quatre appels.
+[4] Au total, les appels visent six projets :
+En 2017, Petite Bretonne a entrepris un projet pour remplacer le propionate (ou propanoate) de sodium avec la levure fermentée (Projet de Levure 2017);
+En 2017, Biscuiterie Dominic et Petite Bretonne ont entrepris un projet en collaboration pour développer un biscuit contenant du quinoa (Projet de Quinoa 2017);
+En 2018, Petite Bretonne a entrepris un projet pour améliorer la durée de vie de leur chocolatine et la texture du produit pendant cette durée de vie (Projet de Chocolatine 2018);
+En 2018, Petite Bretonne a entrepris un projet pour développer un produit avec un contenu d’au moins 10% de raisin (Projet de Raisin 2018);
+En 2018, Petite Bretonne a entrepris un projet pour éliminer le propionate de sodium et améliorer la durée de vie de leur produit de micro-croissant (Projet de Croissant 2018); et
+En 2018, Biscuiterie Dominic et Petite Bretonne ont entrepris un projet en collaboration pour éliminer le propionate de sodium dans leur produit de madeleine (Projet de Madeleine 2018).
+II. Question en litige
+[5] La question en litige est de déterminer si, relativement à chacun des projets énumérés au paragraphe 4 ci-dessus, les activités réalisées constituaient des activités de RS&DE au sens de la définition prévue au paragraphe 248(1) LIR, et plus particulièrement si un risque ou une incertitude technologique existait qui ne pouvait être éliminé par les procédures habituelles ou les études techniques courantes [2]. Les montants liés et réclamés à titre de salaires et de matériaux, incluant le choix de la méthode de remplacement aux fins du CII, sous chaque projet ne sont pas en litige.
+[6] Si, dans le cas d’un projet, la Cour conclut favorablement qu’il existe un risque ou une incertitude technologique qui ne pouvait être éliminé par les procédures habituelles ou les études techniques, l’appel visant le projet doit être accueilli et les parties conviennent que les dépenses liées à ce projet sont déductibles en vertu de l’alinéa 37(1)a) LIR et admissibles aux fins du calcul du CII en vertu du paragraphe 127(5) LIR. Au contraire, si la Cour conclut par la négative, alors l’appel en lien avec ce projet doit être rejeté.
+[7] Il a été convenu par les parties qu’un appel ou que les appels logé(s) par Petite Bretonne pour l’une ou les années d’imposition visée(s) par les présents appels est ou sont sujet(s) aux limitations de la procédure informelle contenues à la Loi sur la Cour canadienne de l’impôt [3]. En conséquence, advenant un gain de cause de l’appelante eu égard à l’année ou aux années visée(s), les résultats de l’appel pour cette ou ces année(s), le cas échéant, seront sujets à ces limitations.
+III. Position des parties
+[8] L’intimé soumet que les projets effectués ne se qualifient pas comme activités de RS&DE puisqu’il n’avait pas d’incertitude technologique. L’intimé est d’avis que les appelantes ont augmenté leurs propres connaissances, mais elles n’ont pas augmenté les connaissances du domaine alimentaire scientifique. La technologie était connue et elle fonctionnait. Les projets ont simplement amélioré les connaissances des appelantes, mais ceci ne démontre pas une incertitude technologique au sens de la RS&DE. La création d’un nouveau produit implique nécessairement une incertitude, mais cette incertitude n’est pas nécessairement une incertitude technologique.
+[9] Les appelantes soumettent que les projets effectués se qualifient comme activités de RS&DE. Les activités qui composent chaque projet sont connues, mais, si on regarde le projet dans son entier, il y a une incertitude technologique que le projet visait à résoudre. C’est une erreur de regarder à chaque activité qui compose un projet individuellement au lieu de regarder au projet d’une façon globale afin de trouver l’incertitude technologique.
+[10] Selon les appelantes, les travaux dans le cadre des projets ont permis d’acquérir de nouvelles connaissances technologiques, de parvenir à divers avancements technologiques et par conséquent d’augmenter les connaissances des appelantes. Les avancements technologiques proviennent des procédés qui ont été grandement améliorés ou qui n’existaient pas dans un contexte commercial avant que les appelantes ne les développent.
+[11] Les appelantes ajoutent que la CRT confond les critères d’admissibilité du projet de RS&DE et les dépenses admissibles.
+[12] Les appelantes soulignent également qu’il existe des limites aux connaissances liées aux propriétés du produit fini avec une durée de vie limitée obtenu par les interactions entre les éléments qui le composent, ainsi que des limites liées au processus de fabrication. Il devient par conséquent essentiel de recourir à un processus de développement expérimental afin de dépasser les limites du connu et d’obtenir des produits ayant des propriétés dépassant ce qui est actuellement considéré comme réalisable dans l’industrie.
+IV. Résumé des témoignages
+[13] Deux témoins ont été entendus. Mme Marie-Ève Jacques pour le compte des appelantes et Mme Catherine Avezard pour le compte de l’intimé.
+i)Madame Marie-Ève Jacques
+[14] Mme Jacques est la directrice, amélioration continue, recherche et développement chez Petite Bretonne. Mme Jacques a complété une technique en diététique et un certificat en sciences et technologie des aliments. Mme Jacques a environ 20 ans d’expérience dans l’industrie alimentaire et travaille pour Petite Bretonne depuis plus de 10 ans.
+[15] Elle est responsable pour tout ce qui concerne les produits. Ceci inclut la recette, la réglementation, la production, l’emballage, les standards de qualité, etc. Bien que son bureau soit situé chez Petite Bretonne, elle travaille régulièrement sur place chez Biscuiterie Dominic environ une fois par semaine pour aider avec de nouveaux projets et pour aider avec les procédés de fabrication.
+[16] Selon le témoignage de Mme Jacques, Petite Bretonne et Biscuiterie Dominic emploient environ 125 et 60 personnes respectivement. Petite Bretonne a la plus grosse usine de micro-croissant en Amérique du Nord. Petite Bretonne s’occupe du volet administratif des appelantes et Biscuiterie Dominic est plutôt une usine de fabrication. Les deux appelantes travaillent en collaboration pour certains projets. Les appelantes ont environ une dizaine de recettes qui inclut des micro-croissants, des chocolatines, des biscuits à la mélasse, des madeleines et des danoises. Les produits fabriqués sont commercialisés sous différents formats et différent type d’emballage. Pour les années en litige, Biscuiterie Dominic n’a pas de laboratoire formel. La participation de Biscuiterie Dominic dans les projets en litiges est plutôt limitée à des batch tests de production.
+[17] Mme Jacques explique les objectifs liés au développement de produits chez les appelantes. Au début de l’année, des objectifs sont créés pour le développement ou l’amélioration de produits. Parfois, ces objectifs découlent des demandes des clients pour qui les produits sont fabriqués. Les objectifs peuvent aussi être réglementaires ou provenir de l’interne.
+[18] Mme Jacques explique que lorsqu’une problématique se présente, le processus de recherche chez les appelantes implique des recherches sur le web et des demandes adressées directement aux fournisseurs pour des idées, opinions ou des conseils. La Cour comprend que ces demandes auprès des fournisseurs se justifient notamment du fait que les fournisseurs sont ceux qui approvisionnent les appelantes de leurs propres produits. Ils sont donc au première loge pour informer et guider les appelantes quant aux réactions que leurs produits peuvent entrainer ou aux attributs des produits. La Cour retient que les fournisseurs ont des employés détenant une formation avancée qui en règle générale leur permet de bien maîtriser et connaître les composantes et les réactions des produits vendus. Mme Jacques n’a pas gardé de notes sur les recherches qu'elle a effectuées pour les projets en litige.
+a)Projet de Levure 2017 (Petite Bretonne)
+[19] Le premier projet que Mme Jacques a décrit en détail est le Projet de Levure 2017 effectué par Petite Bretonne. Il s’agit d’un projet utilisant une levure active sèche réhydrater avec l’eau. Petite Bretonne utilise jusqu’alors dans ses procédés de production une levure fraîche.
+[20] Les premières discussions internes par rapport au projet étaient en 2014 et les essais ont débuté au cours de l’année d’imposition 2017, du 1er juin 2016 au 31 mai 2017.
+[21] L’objectif de ce projet était de diminuer le montant d’additifs et de produits chimiques et de les remplacer avec des produits plus naturels, tout en augmentant la durée de vie du produit final qu’est le mini-croissant. Selon les dires de Mme Jacques, ces deux objectifs sont souvent difficiles à obtenir en même temps. De plus, le nouveau produit final devait avoir la même réception par le consommateur que le produit initial. Le consommateur ne devrait pas être capable de détecter des changements au niveau du goût ou de la texture.
+[22] Les appelantes ont travaillé avec leur fournisseur Lallemand pour améliorer la durée de vie de leur produit de croissant en remplaçant le propionate de sodium avec de la levure fermentée. À ce moment, le propionate de sodium était l’inhibiteur de moisissure et l’agent de conservation du produit. Le propionate de sodium est un ingrédient moins « propre » qui n’est pas désiré par les consommateurs.
+[23] Lallemand a suggéré un produit et un processus où la levure fermentée se fait vaporiser directement sur les croissants le plus près possible du moment prévu sur la ligne de production pour l’emballage. Cette recommandation a mis en marche le Projet de Levure 2017. Lallemand travaillait déjà avec d’autres fabricants pour la mise en application de la vaporisation de levure. Un contrat avec Lallemand a été effectué où Lallemand a prêté du matériel et de l’équipement aux appelantes pour qu’elles puissent essayer la méthode de vaporisation de levure.
+[24] Le projet a requis des planifications par rapport à la ligne de production. L’équipe a dû déterminer, par exemple, si de nouveaux équipements seront requis, si des arrêts de la ligne de production seront nécessaires ou s’il faudra faire des nettoyages additionnels de la ligne, etc.
+[25] Lallemand ignorait comment la levure vaporisée fonctionnerait sur des produits avec une pâte feuilletée comme des croissants. La levure vaporisée avait seulement été testée jusque-là sur des pains et non sur des pâtes feuilletées. Les pâtes feuilletées sont distinctes puisqu’elles passent un processus de laminage où une couche de gras est déposée avant que la pâte soit repliée à plusieurs reprises. Un contrat a été signé avec Lallemand pour des équipements incluant un système de vaporisation, des modules, des gallons et un mélangeur automatique.
+[26] Au départ, le résultat des tests effectués en laboratoire à plus petites échelles s’avérait intéressant. Cependant, le défi demeurait la façon dont on pouvait intégrer le processus à même la ligne de production, sans engendrer une installation entrainant des coûts importants ou une transformation trop importante de la ligne de production existante.
+[27] Durant 10 essais successifs sur la ligne de production (le 10e essai a été accepté par l’Agence du revenu du Canada (ARC) en raison de la nature des changements introduits par les appelantes à l’ingrédient), les appelantes ont rencontré plusieurs difficultés puisque le processus de vaporisation était incompatible avec la ligne de fabrication et les opérations. Les croissants ne sont pas placés sur le convoyeur de façon uniforme. Donc, une difficulté se produit où une quantité de levure uniforme n’est pas appliquée sur chaque croissant. De plus, il était difficile de déterminer à quel endroit sur la ligne où la vaporisation devait se faire. La vaporisation de la levure devait être effectuée aussi proche que possible au point d’emballage. La vaporisation de la levure salissait davantage la ligne de production et nécessitait une fréquence élevée de nettoyage. La levure dégageait aussi une odeur forte et désagréable dans la section d’emballage qui a mené à des plaintes des employés. L’utilisation de la levure a également entraîné la présence de petites drosophiles ou de mouches à fruits dans la section d’emballage.
+[28] Un fournisseur externe de système de vaporisation a été contacté afin de déterminer quel type de système pouvait faciliter les opérations. Les appelantes ont donc fait installer un « œil magique » faisant en sorte que le système de vaporisation se déclenchait uniquement lorsque le système détectait les croissants. De meilleurs tubes et de meilleurs systèmes de vaporisation sont aussi ajoutés.
+[29] Plusieurs différentes concentrations de levure ont été testées. Les durées de vie ont été testées pour noter les résultats et les comparer aux objectifs établis pour le produit. Les produits fabriqués pendant les tests ne pouvaient pas être vendus puisque dans certaines instances la moisissure était présente et les produits contenait des ingrédients additionnels qui n’étaient pas déclarés dans la liste d’ingrédients de l’emballage alors utilisés.
+[30] Bien que le produit atteignait les objectifs, Mme Jacques a reconnu que c’était connu que l’application de la levure fermentée de cette façon fonctionnait généralement comme agent de conservation et il était réaliste que cela fonctionnerait pour les appelantes. Cependant, la façon d’appliquer la levure était hors des connaissances des appelantes.
+[31] Petite Bretonne s’est résignée à abandonner le Projet de Levure 2017 puisque l’intégration de la méthode de vaporisation de levure engendrait trop de problèmes et des coûts additionnels quant aux méthodes d’opérations et l’équipement utilisés chez Petite Bretonne. C’est donc principalement l’intégration à la ligne de production qui a fait défaut et qui aurait nécessité un investissement et des changements trop importants pour l’entreprise.
+b)Projet de Quinoa 2017 (Biscuiterie Dominic/Petite Bretonne)
+[32] Le deuxième projet décrit par Mme Jacques est le Projet de Quinoa 2017. Ce projet a été entrepris par Biscuiterie Dominic en collaboration avec Petite Bretonne. Ce projet visait à développer un biscuit qui contenait du quinoa. Il existait une opportunité pour répondre aux demandes du marché puisqu’il y avait peu de produits au quinoa sur le marché en 2016. La demande initiale du projet était de produire un biscuit d’avoine, chocolat et quinoa adapté à même la base de biscuits d’avoine déjà produits par Biscuiterie Dominic. Le projet commercial de produire ce biscuit était très intéressant et les attentes élevées mais les délais de production très courts. Biscuiterie Dominic n’avait pas de connaissance au niveau du quinoa comme ingrédient. En fait, l’entreprise n’avait pas eu jusque-là l’occasion d’intégrer cet ingrédient à sa liste.
+[33] La recette de biscuit contenant du quinoa a été développée assez facilement. Cependant les évaluations ont démontré que le nouveau biscuit au quinoa s’asséchait rapidement. Ceci représentait une nouvelle problématique qui n’était pas présente dans les autres biscuits offerts par Biscuiterie Dominic. Biscuiterie Dominic s’est seulement aperçue de cette problématique après que le biscuit au quinoa a été commercialisé.
+[34] Biscuiterie Dominic a donc entrepris le Projet de Quinoa 2017 pour produire un biscuit plus tendre avec une durée de vie similaire à ses produits déjà offerts. En même temps, Biscuiterie Dominic voulait améliorer ses processus de développement de produit et de mise en marché pour éviter que des produits qui ne rencontrent pas ses normes de qualité se retrouvent sur le marché. Par contre, Mme Jacques a souligné qu’un objectif demeure qu’elles ne désiraient pas devoir modifier le tableau de valeur nutritive.
+[35] Biscuiterie Dominic a formulé plusieurs hypothèses pour atteindre ses objectifs. Par exemple, l’équipe a essayé d’ajouter plus d’eau à la pâte. Cependant il y avait une limite d’eau qui pouvait être ajoutée pour éviter que la pâte ne soit trop collante pour l’équipement utilisé. Une autre hypothèse testée était de tremper le quinoa avant de l’ajouter à la pâte pour réduire le taux d’humidité absorbé par le quinoa. De différents types d’emballage, des changements au niveau du contenu de certains autres ingrédients, et des changements aux paramètres de cuisson ont aussi été essayés.
+[36] Mme Jacques a expliqué que ce projet a permis aux développements de nouvelles connaissances sur l’absorption d’humidité de certains ingrédients chez les appelantes. Cependant, dans le contre-interrogatoire, Mme Jacques a accepté qu’il existait probablement des articles sur le quinoa qui expliquerait comment le quinoa réagit dans l’eau, et que le projet était centré sur les connaissances manquantes des appelantes au niveau du quinoa et le développement des connaissances des appelantes quant aux interactions du quinoa dans leur recette de biscuit.
+[37] Ultimement, les appelantes ont atteint leur objectif. Même si le biscuit absorbait plus d’humidité, le biscuit restait moelleux. La combinaison des ingrédients, incluant la nulomoline, plus d’eau et l’ajout du cookie improver, deux additifs déjà connus par les appelantes et pouvant être déjà présents dans certains produits, a permis Biscuiterie Dominic d’atteindre leur objectif.
+[38] Mme Jacques précise que depuis 2017/2018, les appelantes se sont beaucoup améliorées relativement aux équipements de mesure en laboratoire. Elle indique qu’en 2017/2018, les appelantes n’avaient pas vraiment d’équipement en laboratoire. Elles procédaient au goût, à la texture. Elles ne calculaient pas de données scientifiques pour les assister.
+c)Projet de Chocolatine 2018 (Petite Bretonne)
+[39] Le Projet de Chocolatine 2018 a été développé suite à un problème lié au fait que la texture des chocolatines se détériorait plus rapidement que celle des croissants, même si les deux sont fabriqués avec la même pâte. Petite Bretonne voulait comprendre pourquoi leur croissant restait moelleux jusqu’à 21 jours tandis que leur chocolatine s’asséchait après cinq et sept jours.
+[40] Petite Bretonne a donc essayé les techniques suivantes parmi d’autres afin de tenter de résoudre ce problème : utiliser d’autres types de chocolat, ajouter des enzymes, faire des modifications à l’emballage, changer le type et la quantité de gras utilisés pour le laminage, changer le temps de refroidissement entre la cuisson et l’emballage, et changer la durée et la température de cuisson.
+[41] Petite Bretonne a consulté ses fournisseurs, incluant par exemple, un fournisseur de chocolat et un fournisseur d’enzyme afin de corriger le problème. Le fournisseur d’enzyme a produit une fiche technique pour accompagner le produit d’enzyme. Cette fiche indiquait une quantité d’enzyme suggérée, mais expliquait que chaque client devait déterminer le bon pourcentage pour leurs propres produits.
+[42] Petite Bretonne a réussi son objectif. Le résultat final a permis à Petite Bretonne d’améliorer la texture de la chocolatine en réduisant la quantité d’huile et en augmentant le montant d’eau au maximum possible. Des tests ont aussi été fait l’année suivante alors que des enzymes ont été ajoutés au produit. En augmentant l’humidité, Petite Bretonne a aussi décidé d’ajouter des appareils pour calculer le pourcentage d’humidité dans leur produit. Elle a aussi été capable de conclure que le chocolat expliquait la perte d’humidité. Les connaissances apprises de ce projet ont aussi permis à Petite Bretonne d’améliorer ses recettes de croissant et de danoise.
+d)Projet de Raisin 2018 (Petite Bretonne)
+[43] Le Projet de Raisin 2018 était connu chez Petite Bretonne comme le projet d’homogénéisation de croissants aux garnitures cannelle-raisin. Petite Bretonne a commencé ce projet suite à une demande de la société Sun-Maid, qui souhaitait développer un produit mettant en vedette ses raisins secs. Petite Bretonne voulait donc développer un produit à viennoiserie avec des raisins secs qui pourrait être fabriqué sur la ligne de chocolatine sans modifier ses opérations de production. Le produit final devait contenir au minimum 10 pour cent de raisins secs de Sun-Maid pour être vendu sous la marque Sun-Maid.
+[44] Ce projet a également comme objectif de permettre à Petite Bretonne d’occuper et de rentabiliser sa ligne de production de chocolatine sans changer les processus et les équipements de production utilisés sur la ligne. La ligne de production de chocolatine de Petite Bretonne fonctionnait seulement à demi capacité.
+[45] Petite Bretonne n’avait jamais introduit des raisins dans cette usine sur cette ligne. L’équipe devait identifier comment ajouter les raisins, par exemple, si les raisins pouvaient être introduits directement dans la pâte ou si une garniture liquide au raisin broyé pouvait être ajoutée. En même temps, l’appelante voulait créer le produit avec une liste d’ingrédients la plus courte possible et avec une durée de vie d’au moins 21 jours.
+[46] Pour atteindre ses objectifs, Petite Bretonne a essayé plusieurs stratégies incluant développer auprès d’un fournisseur un mélange de costarde (préparation crémeuse) pour appliquer les raisins et adapter une recette de garniture de cannelles pour ajouter des raisins. Selon les problématiques rencontrées, Petite Bretonne a tenté de surmonter les défis sur sa ligne de production en ajoutant de l’amidon de maïs, utiliser des raisins avec un taux d’humidité plus élevée, ajuster et apporter certaines modifications aux équipements afin d’adapter le processus de fabrication.
+[47] Le produit final ne s’est pas finalisé dans l’année d’imposition 2018, mais a été lancé sur le marché en 2019. Les connaissances développées suite à ce projet sont utilisées dans d'autres produits également.
+e)Projet de Croissant 2018 (Petite Bretonne)
+[48] Liée au Projet de Levure 2017, Petite Bretonne voulait toujours rendre leur liste d’ingrédients plus « propre » tout en conservant la durée de vie. Plus particulièrement, Petite Bretonne voulait éliminer le propionate de sodium de leurs recettes.
+[49] En retirant le propionate de sodium, la durée de vie était réduite entre cinq et sept jours par opposition au but de maintenir une durée de vie de 21 jours.
+[50] Pour remplacer le propionate de sodium, une recherche et des discussions avec des fournisseurs de l’entreprise ont guidé les appelantes à ajouter de l’amidon fermenté. Un fournisseur a suggéré l’amidon et un niveau de concentration à titre d’essai, mais a expliqué que la concentration dépendra de plusieurs éléments selon le produit visé. Le fournisseur a indiqué qu’il faudra peut-être faire un peu d’essais pour déterminer la concentration appropriée. Cet ingrédient était efficace, mais n’a pas complètement réussi à produire une durée de vie de 21 jours.
+[51] Ce projet a permis aux appelantes de comprendre les différentes interactions entre certains ingrédients dans les pâtes feuilletées avec l’amidon fermenté.
+f)Projet de Madeleine 2018 (Biscuiterie Dominic/Petite Bretonne)
+[52] Le Projet de Madeleine 2018 a été développé suite à une demande du département des ventes et marketing. Biscuiterie Dominic, en collaboration avec Petite Bretonne, tentait de trouver une alternative au propionate de sodium dans son produit de madeleines puisque le propionate de sodium est un ingrédient qui n’est pas bien vu par les consommateurs. Il fallait quand même conserver une durée de vie minimale de 21 jours.
+[53] En réfléchissant sur les connaissances acquises dans le Projet de Croissant 2018, Biscuiterie Dominic a décidé d’essayer d’ajouter du blé fermenté aux madeleines. Les fournisseurs n’avaient pas nécessairement de directive ou d’information à partager au sujet d’ajouter du blé fermenté à un produit de style gâteau.
+[54] Simplement ajouter le blé fermenté à la recette n’a pas créé un produit qui pouvaient adhérer à la durée de vie désirée. L’équipe a essayé de combiner du blé fermenté avec du propionate de sodium qui a résulté dans une durée de vie de 37 jours. Ce résultat a permis de vendre les madeleines en France qui était un nouveau marché pour Biscuiterie Dominic.
+ii)Madame Catherine Avezard
+[55] Mme Avezard était la conseillère en recherche et technologie (CRT) responsable du dossier lors de la vérification des activités RS&DE des deux appelantes en lien avec l’année d’imposition 2017. Le CRT impliqué pour l’année d’imposition 2018 n’a pas témoigné.
+[56] Comme éducation et expérience, Mme Avezard a complété en France des études en biochimie et une maitrise en biologie industrielle agroalimentaire, et au Québec, elle a complété une maitrise en sciences et technologie des aliments. Mme Avezard a fait un stage au département de sciences et technologie des aliments de l’Université Laval. Ensuite, Mme Avezard a travaillé pendant trois ans dans un laboratoire de biologie végétale à l’Université Concordia et pendant trois ans sur des biofilms à l’Université de Montréal. Par la suite, elle a travaillé pendant 14 ans dans un centre de recherche et de développement sur les aliments à St-Hyacinthe, Québec où elle a œuvré spécifiquement dans le département de la qualité et la transformation des viandes. Suite à cette expérience, elle a été recrutée par l’ARC pour traiter des dossiers en transformation alimentaire. Elle a travaillé à l’ARC pendant environ 13 ans. Son rôle à l’ARC était d’évaluer les demandes de crédit d’impôt de RS&DE.
+[57] Mme Avezard a expliqué comment l’ARC effectuait les vérifications en RS&DE. Les projets qui sont vérifiés sont ceux qui présentent plus de risque de ne pas se qualifier pour le CII. Dans le cas présent, elle a témoigné sur la vérification des deux projets en litige pour l’année d’imposition 2017 : le Projet de Levure 2017 et le Projet de Quinoa 2017.
+[58] Mme Avezard a expliqué la façon dont elle a compris le processus des deux projets. Dans le cadre des objectifs des appelantes, elles ont tenté de faire des changements aux recettes qu’elles utilisaient pour leur produit. Les produits et les ingrédients qu’elles ont changés ou ajoutés étaient des ingrédients connus. Les fournisseurs ont fait des suggestions quant à la façon d’introduire les nouveaux ingrédients. Pour accomplir leurs objectifs, les appelantes ont dû faire des changements à leurs opérations. Ces changements impliquent des stratégies standards et connues dans le domaine.
+[59] Selon Mme Avezard, dans le cas des appelantes, il n’est jamais garanti qu’un nouvel ingrédient va fonctionner d’une telle façon. Il faut habituellement faire des essais pour trouver si la nouvelle recette va produire les résultats désirés. Les appelantes ont utilisé des techniques disponibles de transformation alimentaire et ont examiné les effets sur les produits. Les résultats ne sont pas garantis. Cependant les ingrédients utilisés et la façon dont nous essayons d’obtenir le produit avec les caractéristiques désirées et les contraintes de l’entreprise sont connus.
+[60] Les points de départ dans ces projets sont les spécifications et les méthodes suggérées par les fournisseurs. Chaque essai était une solution potentielle et, selon le résultat, soit qu’une différente approche était requise ou les problèmes se font régler au fur et à mesure qu’ils se présentaient.
+[61] Mme Avezard a illustré les méthodes des appelantes dans le cas de l'ingrédient nulomoline, un ingrédient utilisé dans le Projet de Quinoa 2017. La propriété fonctionnelle de la nulomoline cherche à améliorer la texture des biscuits ou des produits de boulangerie. Selon elle, il est normal et accessible pour l’entreprise d’utiliser et d’essayer cet ingrédient dans sa formulation pour résoudre un problème de texture. C’est simplement une application des propriétés fonctionnelles connues de l’ingrédient.
+V. Analyse
+a)Disposition
+[62] Le paragraphe 248(1) LIR définit RS&DE comme suit :
+Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+a) la recherche pure, à savoir les travaux entrepris pour l’avancement de la science sans aucune application pratique en vue;
+b) la recherche appliquée, à savoir les travaux entrepris pour l’avancement de la science avec application pratique en vue;
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent.
+Pour l’application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+d) les travaux entrepris par le contribuable ou pour son compte relativement aux travaux de génie, à la conception, à la recherche opérationnelle, à l’analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et à la recherche psychologique, lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada par le contribuable ou pour son compte et servent à les appuyer directement.
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+e) l’étude du marché et la promotion des ventes;
+f) le contrôle de la qualité ou la mise à l’essai normale des matériaux, dispositifs, produits ou procédés;
+g) la recherche dans les sciences sociales ou humaines;
+h) la prospection, l’exploration et le forage fait en vue de la découverte de minéraux, de pétrole ou de gaz naturel et leur production;
+i) la production commerciale d’un matériau, d’un dispositif ou d’un produit nouveau ou amélioré, et l’utilisation commerciale d’un procédé nouveau ou amélioré;
+j) les modifications de style;
+k) la collecte normale de données.
+b)Interprétation
+[63] Il y a cinq critères qui doivent être démontrés pour qu’un projet se qualifie comme RS&DE au sens du paragraphe 248(1) LIR. Ces critères ont été établis dans la décision Northwest Hydraulic. Ces critères ont été résumés dans l’arrêt CW Agencies [4] de la Cour d’appel fédérale et ont été répétés récemment dans la décision National R&D [5] aussi de la Cour d’appel fédérale. Les critères se lisent comme suit :
+Existait-il un risque ou une incertitude technologique qui ne pouvait être éliminé par les procédures habituelles ou les études techniques courantes?
+La personne qui prétend se livrer à de la RS&DE a-t-elle formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique?
+La procédure adoptée était-elle complètement conforme à la discipline de la méthode scientifique, notamment dans la formulation, la vérification et la modification des hypothèses?
+Le processus a-t-il abouti à un progrès technologique?
+Un compte rendu détaillé des hypothèses vérifiées et des résultats a-t-il été fait au fur et à mesure de l’avancement des travaux?
+[64] C’est le fardeau des appelantes de démontrer que leurs activités constituaient des activités de RS&DE [6].
+i)Le premier critère : incertitude technologique
+[65] Le seul critère en litige dans ces dossiers c’est le premier, donc les appelantes ont le fardeau d’établir qu’il avait une incertitude technologique. Si on trouve qu’il avait une incertitude technologique, le projet se qualifie comme activité de RS&DE.
+[66] Les propos tenus au paragraphe 16 de la décision du Juge Bowman dans l’affaire Northwest Hydraulic sont déterminants aux fins d’analyser le premier critère :
+a) Lorsqu’on parle de “risque ou [d’]incertitude technologique” dans ce contexte, on laisse implicitement entendre qu’il doit exister une incertitude quelconque qui ne peut pas être éliminée par les études techniques courantes ou par les procédures habituelles. Je ne parle pas du fait que dès qu’un problème est décelé, il peut exister un certain doute au sujet de la façon dont il sera réglé. Si la résolution du problème est raisonnablement prévisible à l’aide de la procédure habituelle ou des études techniques courantes, il n’y a pas d’incertitude technologique telle que cette expression est utilisée dans ce contexte.
+b) Qu’entend-on par “études techniques courantes”? C’est cette question (ainsi que celle qui se rapporte au progrès technologique) qui semble avoir divisé les experts plus que toute autre. En résumé, cela se rapporte aux techniques, aux procédures et aux données qui sont généralement accessibles aux spécialistes compétents dans le domaine.
+(notre soulignement)
+[67] Plusieurs décisions suite à Northwest Hydraulic ont précisé ce que constitue une incertitude technologique. Dans Formadrain [7], la Cour de l’impôt explique qu’« il faut que les connaissances manquantes soient réellement inexistantes dans la base de connaissances scientifiques ou technologiques et non uniquement inconnues du demandeur. ». Autrement dit, dans la décision Béton Mobile [8], et reprise dans la décision Chagnon [9], il est dit :
+… la création d’un nouveau produit par l’application de techniques, de procédures et de données généralement accessibles aux spécialistes compétents dans le domaine ne constituera pas une activité de RS&DE, même s’il existe un doute quant à la façon dont l’objectif sera atteint. Autrement dit, le simple fait qu’un produit n’existe pas ne permet pas nécessairement d’inférer que son développement comporte une incertitude technologique ou scientifique (Flavor Net Inc. c. La Reine, 2017 CCI 179 (« Flavor Net »), par. 38).
+Aussi, dans la décision Laforest Marketing [10], la Cour de l’impôt explique :
+En général, c’est une preuve d’expert soumise par les deux parties qui aide le juge à déterminer ce qui constitue une procédure habituelle ou une étude technique courante, en l’aidant à saisir les données techniques avant de les analyser. Dans le présent cas, l’appelante n’a pas appelé d’experts et donc il reste difficile à déterminer si le procédé est nouveau pour l’industrie. Le simple fait qu’un produit n’existe pas ne permet pas nécessairement d’affirmer que son développement comporte une incertitude technologique.
+(notre soulignement)
+ii)Incertitude technologique dans le domaine alimentaire
+[68] Il y a quelques décisions concernant la qualification d’activité de RS&DE qui touche le domaine alimentaire. Dans la décision R&D Pro-Innovation [11], l’appelante a tenté de développer « une tartinade de chocolat avec crème et sirop d’érable, tempérée à froid, sans ingrédient de synthèse et sans ajout d’agent de conservation. » Les paragraphes suivants de cette décision sont très pertinents pour les dossiers en appel :
+[34] En l’espèce, il va sans dire que l’appelante a le fardeau de démontrer, selon la prépondérance des probabilités, que les travaux qu’elle a effectués correspondent à des activités de RS&DE. Pour ce faire, elle doit démontrer qu’il y avait un risque ou une incertitude technologique qui ne pouvait pas être éliminés par les techniques courantes ou par les procédures habituelles.
+[35] Le but du projet était de développer une tartinade pur beurre de cacao avec crème et sirop d’érable, ayant un ratio de 5-3-1 de glucides-protéines-lipides, tempérée à froid, démontrant une couleur et une texture stable ainsi qu’une durée de conservation de trois mois sur les tablettes, sans mise sous vide et sans ingrédient de synthèse. Ce produit devait présenter un goût, une texture et une couleur supérieurs aux tartinades commerciales et aux tartinades de spécialité.
+[36] Il est certain que le développement de cette tartinade pouvait faire face à plusieurs difficultés; ce qui a certainement été le cas en l’espèce. Il y avait des difficultés de conservation. Le tempérage ou la cristallisation du chocolat était instable. La couleur, la texture et le goût de la tartinade étaient aussi instables et changeaient dès le lendemain de la mise en pot. Il fallait effectuer des essais pour tenter de trouver des solutions à ces problèmes.
+[37] Je suis d’avis que, lors du développement de la tartinade, l’appelante a formulé des hypothèses visant à réduire ou à éliminer les difficultés. J’accepte le fait que l’appelante a effectué beaucoup d’essais afin de trouver des solutions à ces difficultés. Les documents qui ont été présentés à la Cour en font état. Les essais étaient, à mon avis, méthodiques et systématiques.
+[38] Mais la question est de savoir s’il existait une incertitude technologique. Selon la jurisprudence, lorsque les incertitudes peuvent être éliminées par des études techniques courantes ou des procédures habituelles, le projet ne répond pas aux critères d’admissibilité nécessaires pour constituer une activité de RS&DE. Le fait qu’un produit soit nouveau ou innovateur ne suffit pas à prouver qu’un progrès technologique a été réalisé.
+[39] En l’espèce, l’appelante a voulu formuler une tartinade supérieure aux tartinades commerciales et aux tartinades de spécialité. Elle a utilisé comme ingrédients des produits alimentaires qui sont très bien connus comme le beurre de cacao, le sirop d’érable, la crème et autres produits laitiers, des glucides et des protéines. Elle a interchangé les ingrédients ou leurs proportions en formulant la tartinade. Elle a ensuite utilisé le procédé de tempérage à froid, qui est un procédé connu, en changeant la vitesse, le temps et la température du tempérage. Elle a observé les résultats et elle a recueilli des données. Les travaux de l’appelante portaient essentiellement sur l’utilisation de procédés et d’ingrédients existants pour essayer de formuler une meilleure tartinade. Ces travaux incluaient des études techniques courantes et des procédures habituelles. Ayant étudié l’ensemble de la preuve ainsi que la jurisprudence, je ne suis pas convaincu que les travaux en cause comportaient un risque ou une incertitude technologique qui ne pouvait pas être éliminés par les procédures habituelles ou les études techniques courantes.
+[69] Il est intéressant de noter le paragraphe 38 de la décision Flavor Net [12] et qui supporte la position adoptée dans R&D Pro-Innovation :
+[38] Il n’y a aucun doute quant au fait que l’appelante essayait de créer un nouveau produit. Il y a toujours des incertitudes qui entourent l’élaboration d’un nouveau produit. Cela dit, ce ne sont pas toutes les activités de développement de produit qui se heurtent à une incertitude technologique. Au moment d’élaborer sa boisson de deux onces, le principal problème auquel s’est heurtée l’appelante était de maintenir en suspension les phytostérols, une substance lipidique dans un liquide. Pour résoudre le problème, l’appelante a utilisé une méthode et une technologie qui sont bien établies dans l’industrie alimentaire, à savoir le mélange à haut cisaillement, le pompage mécanique, en essayant de chauffer le produit à différentes températures et en employant des émulsifiants qui existaient sur le marché.
+[39] Les faits dans le présent appel sont pratiquement indiscernables de ceux dans l’affaire R&D Pro-Innovation Inc., une récente décision de la Cour, qui a été confirmée par la Cour d’appel fédérale. […]
+[40] La conclusion s’applique avec la même force au présent appel.
+[70] Canafric [13] est une décision où les activités en litige ont été qualifiées comme activité RS&DE. Selon les témoignages et la preuve, l’appelante a réussi à montrer devant la Cour qu’il avait une incertitude technologique [14]. La Cour de l’impôt a précisé que les connaissances ne doivent vraiment pas être présente dans la base de connaissances scientifique et technologique et non simplement pas être connu par l’appelante [15]. La Cour doit regarder chaque projet d’une façon globale et non pas regarder chaque activité qui compose le projet d’une façon individuelle [16].
+[71] L’administration de la preuve et l’appréciation qui en est faite par la Cour apparaît déterminante. La Cour note que la décision confirme d’entrée de jeu que chaque cas repose sur les faits qui lui sont propres. En conséquence, la preuve, telle que présentée à l’audition dans chacun des cas, demeure déterminante. Il s’agit là des assises sur lesquelles l’analyse de la Cour doit reposer.
+c)Cas présents
+[72] Aux fins des présents appels, une méthodologie d’analyse s’applique à l’admissibilité de chacun des projets. Il va de soi que les implications sont quant à elles applicables à l’une des ou au deux appelantes, selon la participation ou non au projet. De plus, la Cour fait remarquer qu’il n’y a pas lieu pour la Cour de se pencher sur la façon dont la vérification des projets a été réalisée par l’ARC et plus particulièrement l’usage par l’ARC de sa discrétion.
+[73] Bien que six projets sont en appel et sont répartis sur deux ans par les deux appelantes, une situation similaire pour certains d’entre eux permet de les réunir aux fins de la détermination des présents appels. Un premier groupe inclut le Projet de Quinoa 2017, le Projet de Chocolatine 2018, le Projet de Croissant 2018 et le Projet de Madeleine 2018 (Groupe 1). Le deuxième groupe inclut le Projet de Levure 2017 et le Projet de Raisin 2018 (Groupe 2).
+[74] Il n’y pas lieu de reprendre ici l’analyse présentée plus haut relativement à la condition en litige et la position énoncée des tribunaux. Cependant, elle constitue la base des propos qui seront tenus ci-après.
+i)Groupe 1
+[75] Tel que confirmé par la Cour d’appel fédérale, une condition importante et de départ consiste à appliquer les conditions d’application au contexte et telle que la preuve a été présentée devant la Cour ultimement dans une vue d’ensemble du projet. Cette prémisse permet ainsi d’appliquer une autre prémisse voulant que chaque cas soit un cas d’espèce. Pour cette raison, une référence aux décisions des tribunaux doit certes tenir compte de ces prémisses. Et cela ne signifie pas que les enseignements de ces décisions doivent être ignorés. Ou qu’une décision ne peut être invoquée au soutien d’une position comparable ou encore d’une analyse comparative concordante. Mais cet exercice doit être fait avec minutie et prudence.
+[76] Lorsque l’on considère le test du risque ou de l’incertitude technologique tel qu’élaboré et retenu par le Juge Bowman (tel qu’il était) dans Northwest Hydraulic, et que ce test requiert que le risque ou l’incertitude existant ne doit pas pouvoir être éliminé par les procédures habituelles ou les études techniques courantes, la Cour n’a pas réussi à réunir suffisant d’éléments de preuve dans le cas présent pour permettre de conclure que les appelantes avaient réussi à convaincre la Cour du non fondée des cotisations en appel.
+[77] Les projets du Groupe 1 présentent davantage une situation reposant sur une incertitude ou une méconnaissance. La Cour tient à préciser qu’il n’y a aucune mesquinerie ou arrière-pensée dans cette détermination. En fait, les appelantes n’ayant pas eu l’occasion ou pris la décision jusque-là de se pencher sur les objectifs que présentaient les projets, il n’existait pas nécessairement d’enjeu à ce que les connaissances à cet égard soient limitées.
+[78] La Cour est d’avis les appelantes n’ont pas établi, selon la prépondérance des probabilités, que les connaissances n’existaient pas dans le domaine public. Certes, les projets du Groupe 1 présentaient des défis, des inconnus et des incertitudes. Cependant, les produits visés par les projets existaient, et les objectifs cherchaient à améliorer ou à apporter une variation au produit. Les outils, la méthodologie, les processus, les ingrédients étaient dans l’ensemble disponibles aux appelantes. Il est difficile de conclure que les incertitudes rencontrées dans le cas des projets du Groupe 1 relevaient davantage du domaine public plutôt que de la manière dont les appelantes menaient les opérations de production, et qui justifiaient que les incertitudes ne pouvaient pas être éliminées par les procédures habituelles ou les études techniques courantes.
+[79] Eu égard à la situation dans laquelle opérait les appelantes, Mme Jacques a fait allusion au fait que les instruments de mesure en laboratoire n’étaient pas ceux qui auraient pu être, et que notamment la méthodologie d’évaluation et d’estimation retenue à ce moment-là par les appelantes a été subséquemment améliorée. De plus, la preuve soutient que les efforts auprès des fournisseurs pour répondre aux objectifs poursuivis et les réponses généralement obtenues de ces derniers se sont avérés utiles.
+[80] La Cour retient également de la preuve que les appelantes ont tenté d’utiliser essentiellement des méthodes connues pour résoudre les problématiques, souvent qui était suggéré par les fournisseurs qui avaient plus de connaissances que les appelantes. En procédant ainsi, le développement de nouvelles connaissances par les appelantes en soi ne suffit à constituer une activité de RS&DE s’il n’y a pas d’incertitude technologique que l’entreprise tente de résoudre alors que les procédures habituelles et les études techniques courantes se suffisent pas.
+[81] La Cour croit plutôt faible de pouvoir défendre que les ajustements d’ingrédients connus et présents dans l’alimentation en rapport avec leur quantité ou volume peut constituer une incertitude qui ne peut être maîtrisée ou contrôlée par les procédures habituelles telle que modifier dans un contexte de production alimentaire la quantité, le volume, la concentration ou la température de cuisson. Les ingrédients utilisés sont connus, les propriétés des ingrédients disponibles. Certes cela ne suffit pas à éliminer les risques et les incertitudes, mais cela ne suffit pas du même coup à établir que l’incertitude ne peut pas être éliminée par les procédures habituelles. Ainsi, une incertitude ou quelque chose d’inconnu est présente, mais les procédures habituelles ou connues du domaine public peuvent permettent de conclure favorablement ou non. Les appelantes n’ont pas convaincu ou démontré à la Cour que ces procédures habituelles ne répondaient pas aux incertitudes ou risques qui pouvaient se présenter. Connaître ou non la réponse ne signifie pas que les procédures habituelles ne permettent pas de résoudre la difficulté.
+[82] Le témoignage de Mme Jacques et la preuve déposée par les appelantes n’ont malheureusement pas suffi et permis de démolir les présomptions de fait de la ministre et d’établir, selon la balance des probabilités, les faits qui supportent sa position que les cotisations contestées du visant les Projets du Groupe 1 sont mal fondées. La Cour n’est donc pas convaincue que la preuve des appelantes démontre qu’il y avait eu risque ou incertitude technologique qui ne pouvait pas être éliminé par des approches ou des procédures habituelles.
+[83] Après analyse, et acceptant que cette analyse doit avoir été complétée avec minutie pour reprendre les dispositions du paragraphe 75, la Cour fait sienne les propos dans la décision R&D Pro-Innovation et a fortiori la position dans la décision Flavor Net. Les situations décrites dans ces affaires sont du même ordre que la situation dans laquelle se sont retrouvées les appelantes en traitant les projets du Groupe 1. Cela suffit malheureusement à rejeter les appels logés en lien avec les projets du Groupe 1.
+ii)Groupe 2
+[84] Les projets du Groupe 2 pourraient faire partie du Groupe 1, et dans ce contexte présentent aussi les problématiques exposées plus haut par la Cour. Au surplus, et c’est la raison de leur regroupement distinct, les projets du Groupe 2 présentent un élément additionnel qui rend leur admissibilité encore plus difficile dans le cas présent.
+[85] Les deux projets du Groupe 2 présentent un aspect important en lien avec la ligne de production. La preuve a fait état que de nombreux enjeux sont apparus en lien avec la façon dont la ligne de production, telle qu’elle existait, devait intégrer les changements proposés aux recettes. Cette préoccupation est apparue un enjeu très tôt dans l’étude des projets, et a eu pour effet de déplacer les objectifs des projets. Et lorsque l’on regarde les projets dans leur ensemble, il devient davantage difficile d’apprécier que les projets comportent une incertitude technologique qui ne pouvait pas être éliminée par les procédures habituelles ou les études techniques courantes.
+[86] Pour les projets du Groupe 2 dans leur ensemble, la preuve soutient que les préoccupations des appelantes aux coûts que pouvaient engendrer les changements à la ligne de production étaient pour le moins réelles. Ce contexte laisse encore moins de place à l’importance de l’incertitude technologique que pouvait présenter les projets du Groupe 2. Et la preuve ne supporte pas que la ligne de production elle-même présente une incertitude technologique qui ne pouvait pas être éliminée par les procédures habituelles ou les études techniques courantes.
+[87] En conséquence, tant pour les raisons du Groupe 1 que la discussion propre au Groupe 2, la preuve à l’audition ne permet pas à la Cour malheureusement de soutenir que la condition de l’incertitude technologique nécessaire à la qualification est, selon la balance des probabilités, satisfaite pour les projets du Groupe 2.
+VI. Conclusion
+[88] Considérant tout ce qui précède, les appels des avis de cotisation ou de nouvelle cotisation, selon le cas, pour chacune des années d’imposition 2017 et 2018 des appelantes sont rejetés. Le tout sans frais.
+Signé à Montréal, Québec, ce 16e jour de juillet 2024.
+« J. M. Gagnon »
+Juge Gagnon
+RÉFÉRENCE :
+2024 CCI 97
+Nº DU DOSSIER DE LA COUR :
+2020-1452(IT)I
+2020-1453(IT)I
+2021-467(IT)I
+2021-468(IT)I
+INTITULÉ DE LA CAUSE :
+BISCUITERIE DOMINIC INC. ET SA MAJESTÉ LE ROI
+LA PETITE BRETONNE INC. ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 15, 16 et 17 avril 2024
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Jean Marc Gagnon
+DATE DU JUGEMENT :
+Le 16 juillet 2024
+COMPARUTIONS :
+Pour les appelantes :
+Yves Hamelin
+Pour l'intimé :
+Me Caroline Berthelet
+Bianca Morello (stagiaire)
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+n/a
+Cabinet :
+n/a
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Loi de l’impôt sur le revenu, LRC 1985, c 1 (5e suppl) [LIR].
+[2] Selon le test décrit dans la décision Northwest Hydraulic Consultants Ltd. c La Reine, 1998 CarswellNat 3632 [Northwest Hydraulic], il y a cinq critères qui doivent être présents pour qu’un projet se qualifie comme activité de RS&DE au sens du paragraphe 248(1) LIR. Seulement le premier volet du test est en litige dans le cas présent.
+[3] Loi sur la Cour canadienne de l’impôt, LRC 1985, c T-2.
+[4] CW Agencies Inc. c Canada, 2001 CAF 393 au para 17 [CW Agencies].
+[5] National R&D Inc. c Canada 2022 CAF 72 au para 2 [National R&D].
+[6] National R&D au para 17.
+[7] Formadrain Inc. c R., 2017 CCI 42 au para 93 [Formadrain].
+[8] Béton Mobile du Québec Inc. c La Reine, 2019 CCI 278 au para 43 [Béton Mobile].
+[9] Anne-Marie Chagnon Inc. c Le Roi, 2023 CCI 35 au para 46 [Chagnon].
+[10] Laforest Marketing Internationals Inc. c La Reine, 2019 CCI 45 au para 45 [Laforest Marketing].
+[11] R&D Pro-Innovation Inc. c La Reine, 2015 CCI 186 au para 9 [R&D Pro-Innovation] confirmée par la Cour d’appel fédérale 2016 CAF 152.
+[12] Flavor Net Inc. c La Reine, 2017 CCI 179 [Flavor Net].
+[13] Canafric Inc. v The King, 2023 TCC 108 au para 114 [Canafric].
+[14] Ibid au para 114.
+[15] Ibid au para 89.
+[16] Ibid au para 89.

@@ -1,0 +1,129 @@
+Title: Fontaine v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31103/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-63-31103-fontaine-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-02-21
+
+# Fontaine v. The Queen
+
+- Citation: 2013 TCC 63
+- Decision date: 2013-02-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4689, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fontaine v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-02-21
+Neutral citation
+2013 TCC 63
+File numbers
+2012-2890(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2890(IT)I
+BETWEEN:
+NICOLE FONTAINE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on February 13, 2013, at Sherbrooke, Quebec
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Benoit Massicotte
+Counsel for the respondent:
+Emmanuel Jilwan
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made by the Minister of National Revenue under the Income Tax Act for the 2003, 2004 and 2005 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of February 2013.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 4th day of April 2013
+Janine Anderson, Translator
+Citation: 2013 TCC 63
+Date: 20130221
+Docket: 2012-2890(IT)I
+BETWEEN:
+NICOLE FONTAINE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The appellant appealed the reassessments made by the Minister of National Revenue (Minister) under the Income Tax Act (ITA) for the 2003, 2004 and 2005 taxation years, in which $18,563, $28,923 and $23,512 were added to her income for each of those years, respectively. A late filing penalty was also imposed for 2004 and 2005.
+[2] The appellant did not appear in Court and left it to her counsel to represent her. Counsel for the appellant informed the Court that the appellant was discontinuing her appeal for 2005 but still challenging the reassessments made for 2003 and 2004 on the ground that the Minister was not justified in making them because they were made after the normal reassessment period.
+[3] The Minister relied on subparagraph 152(4)(a)(i) of the ITA, which reads as follows:
+Income Tax Act
+152 Assessment
+152(4) Assessment and Reassessment — The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect
+of the year only if
+(a) the taxpayer or person filing the return:
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+. . .
+[4] The only issue, therefore, is the Minister’s ability to make a reassessment after the normal reassessment period for the 2003 and 2004 taxation years.
+[5] If I must conclude that the Minister demonstrated that he was entitled to act as such under subparagraph 152(4)(a)(i) of the ITA, the appellant does not challenge these reassessments on the merits.
+[6] As established in the case law, the onus is on the Minister to prove that he was entitled to reassess the appellant beyond the normal reassessment period. In that respect, the Minister must first prove that the appellant made a misrepresentation in filing her income tax return or in supplying information under the ITA. Second, he must also prove that the misrepresentation was attributable to neglect, carelessness or wilful default (see Boucher v. Canada, 2004 FCA 46, paragraph 5; and D’Andrea v. The Queen, 2011 TCC 298, paragraphs 32 and 33).
+[7] The respondent called Francine Boutin, an auditor with the Canada Revenue Agency (CRA), to testify. Francine Boutin stated that she was instructed to audit Système Gedoc Inc. (Gedoc), the sole shareholder of which is the appellant, and the company operated by the appellant’s spouse, Pierre Nadeau. The audit focussed on the years 2004 and 2005 for Gedoc. Gedoc worked in close association with Pierre Nadeau’s company, from which it earned significant income. Ms. Boutin explained that Gedoc did not file tax returns in 2004 and 2005 within the time limit set for doing so. They were finally filed at the CRA’s request under subsection 152(7) of the ITA.
+[8] While auditing Gedoc’s books, Ms. Boutin discovered that the company did not have an established accounting system. Bookkeeping was done on an in-house Excel document. There were no bank reconciliations of the computer data. Furthermore, she noticed discrepancies in the balances at the beginning of the year, without any explanations. She therefore consulted the financial statements for the 2003 fiscal year and realized that those financial statements had been amended without being brought to the insight of the government. An adjustment of $100,000 ($50,000 of additional income and $50,000 of over-expenditures) was made.
+[9] By examining the list of expenses by item and by date (a part of which was filed as Exhibit I-1), and the financial statements (including those that were amended for 2003) filed as Exhibit I-2, she discovered management fees. The management fees were withdrawals from Gedoc’s bank account by the appellant. After an initial meeting, the appellant asked Ms. Boutin to have a discussion with her spouse, Mr. Nadeau, because he was in charge of the accounting for the two companies. According to Ms. Boutin, Mr. Nadeau merely told her that the management fees in question were fees for managing the company. No other explanation was provided. Ms. Boutin then found that, for a three-year period, the appellant had only reported income for which a T-4 slip had been issued. Thus, she filed $12,128 in 2003, $12,703 in 2004 and $17,250 in 2005 (Exhibit I-3), which, according to Ms. Boutin, were the amounts allegedly accounted for by Gedoc in the company’s general salaries line item. The management fees, accounted for in a separate section of the company’s books, were not reported by the appellant in her income tax returns for the three years in question. They were $18,563 in 2003, $20,961 in 2004 and $19,823 in 2005 (Exhibit I‑1).
+[10] Furthermore, Gedoc had reimbursed the appellant some personal expenses, that is, $3,439 in 2004 and $2,930 in 2005 (see paragraph 20(e) of the Reply to the Notice of Appeal). Mr. Nadeau purportedly did not challenge this.
+[11] In her Notice of Appeal (paragraph 15), the appellant stated that the amounts recorded as management fees should have instead been recorded in the shareholders’ loans account. Ms. Boutin stated that Mr. Nadeau never mentioned this during the audit. The explanation was allegedly given when the draft assessment was presented. However, no note or document establishing a loan was submitted in the appellant’s record. Furthermore, in Gedoc’s statement of accounts, no amount was provided in the [Translation] “Due to shareholders” line. This was therefore not accepted. Ms. Boutin found that the amounts unreported by the appellant in her income tax returns corresponded to more than half of the income reported over a three-year period, when there were several consecutive withdrawals (as indicated in item [Translation] “060 Fees – Management”, in the list of expenses by item and date, Exhibit I-1).
+[12] Moreover, if there was indeed an accounting error, as the appellant seems to have indicated in her Notice of Appeal, they had ample time, over three years, to correct the error, which was not done.
+[13] In cross-examination, Ms. Boutin pointed out that the information in the Notice of Appeal that the appellant had started to reimburse Gedoc was never brought to her attention and was therefore never audited.
+Analysis
+[14] Counsel for the appellant maintains that the respondent inferred the appellant’s wilful default to report income by proxy. He contends that Ms. Boutin’s testimony alone was insufficient and that the respondent should have called the appellant and her spouse, Mr. Nadeau, to appear as witnesses. He argues that the respondent had to prove that there was neglect, which he suggests was not the case.
+[15] Counsel for the appellant acknowledges that there was misrepresentation of income in the appellant’s income tax returns.
+[16] Therefore, I need to determine whether the respondent demonstrated that the misrepresentation was attributable to neglect, carelessness or wilful default.
+[17] In Venne v. Canada, [1984] F.C.J. No. 314 (QL), cited by the respondent, it was decided that negligence is established if it is shown that the taxpayer has not exercised reasonable care. Furthermore, it is not enough to suggest wilful default. There must be some evidence to support a finding of wilful default (D’Andrea, above, at paragraph 44).
+[18] Counsel for the appellant maintained that the absence of the appellant’s testimony resulted in the respondent not being able to discharge her burden of proving neglect, carelessness or wilful default. I am of the opinion that the absence of that testimony cannot be attributed entirely to the respondent.
+[19] The appellant was appealing not only the reassessments for 2003 and 2004, but also the assessment made for the 2005 taxation year, which was not statute-barred. It was only on the morning of the hearing that her counsel informed the Court that she was discontinuing her appeal. Because the respondent was not informed, it is logical that there was an expectation for the appellant to appear in Court to, at least, prove that the 2005 assessment was unfounded. Therefore, the respondent cannot be blamed unilaterally for the appellant’s absence.
+[20] Regarding Mr. Nadeau’s absence, it is true that his presence would have been useful. However, I am of the view that the documentary evidence submitted by the respondent is sufficient in this case to convince me that the appellant made a misrepresentation in her 2003 and 2004 income tax returns that was attributable to neglect, carelessness or wilful default.
+[21] The unreported amounts correspond to the management fees that were recorded in the company’s books. Those amounts are withdrawals made by the appellant from Gedoc’s bank account directly (Exhibit I-1), and are more than half of the amounts reported by the appellant in her tax returns. If that was actually an error, that error was made for three consecutive years without any corrections.
+[22] Ms. Boutin did not receive any supporting documentation establishing that Gedoc was indeed making advances to the appellant, as a shareholder.
+[23] Furthermore, Ms. Boutin was able to find that the bookkeeping was not entirely adequate in that she was unable to find any bank reconciliations with the list of expenses by item and date.
+[24] Beyond the weak explanations that she received from Mr. Nadeau, who, if present, could have perhaps qualified Ms. Boutin’s testimony, I am of the opinion that Ms. Boutin had sufficient objective elements before her to prove neglect, carelessness or wilful default. In my view, there is no reasonable care when one withdraws funds from a company and fails to report them in one’s income for tax purposes or to inform third parties (including the tax authorities) through financial statements or other accounting that they were advances to the shareholder, especially when the amounts in question are higher than the reported income by at least half.
+[25] I believe that the respondent provided sufficient evidence to demonstrate that the appellant made a misrepresentation of her income that was attributable to neglect, carelessness or wilful default in her income tax returns for the 2003 and 2004 taxation years. The Minister was therefore justified in making a reassessment after the normal reassessment period under subparagraph 152(4)(a)(i) of the ITA.
+[26] The appeals are dismissed.
+Signed at Ottawa, Canada, this 21st day of February 2013.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 4th day of April 2013
+Janine Anderson, Translator
+CITATION: 2013 TCC 63
+COURT FILE NO.: 2012-2890(IT)I
+STYLE OF CAUSE: NICOLE FONTAINE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: February 13, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: February 21, 2013
+APPEARANCES:
+Counsel for the appellant:
+Benoit Massicotte
+Counsel for the respondent:
+Emmanuel Jilwan
+COUNSEL OF RECORD:
+For the appellant:
+Name: Benoit Massicotte
+Firm: Bélanger, Massicotte, Avocats & Fiscalistes
+Sherbrooke, Quebec
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

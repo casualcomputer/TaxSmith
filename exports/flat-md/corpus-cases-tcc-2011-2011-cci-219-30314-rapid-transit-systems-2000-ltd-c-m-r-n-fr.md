@@ -1,0 +1,198 @@
+---
+title: "Rapid Transit Systems 2000 Ltd. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30314/index.do"
+last_modified: "2011-04-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 219"
+citation2: ""
+neutral_citation: "2011 CCI 219"
+decision_date: "2011-04-20"
+language: "fr"
+item_id: "30314"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8082
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:55:50.679000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7435171bfdcd14b8f1d2806bd51b7bcace1fb9103e1638a113fa081488195960"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rapid Transit Systems 2000 Ltd. c. M.R.N.
+
+- Citation: 2011 CCI 219
+- Decision date: 2011-04-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8082, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rapid Transit Systems 2000 Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-04-20
+Référence neutre
+2011 CCI 219
+Numéro de dossier
+2010-2075(EI)
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010-2075(EI),
+2010-2077(CPP)
+ENTRE :
+RAPID TRANSIT SYSTEMS 2000 LTD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+STEPHEN BOUTILIER,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 11 avril 2011, à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Représentants de l’appelante :
+Mme Janet Robertson et
+M. Richard Robertson
+Avocate de l’intimée :
+Me Leslie Ross
+JUGEMENT
+Les appels présentés en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi et de l’article 28 du Régime de pensions du Canada sont rejetés, et la décision du ministre du Revenu national statuant sur les appels interjetés auprès de lui en vertu de l’article 92 de la Loi ainsi que celle statuant sur la demande qui lui avait été faite en vertu de l’article 27.1 du Régime sont confirmées.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2011.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 28e jour de juin 2011.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+Référence : 2011 CCI 219
+Date : 20110420
+Dossiers : 2010-2075(EI),
+2010-2077(CPP)
+ENTRE :
+RAPID TRANSIT SYSTEMS 2000 LTD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+STEPHEN BOUTILIER,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] Rapid Transit Systems 2000 Ltd (« RTS ») a interjeté appel de la décision du ministre national du Revenu (le « ministre ») selon laquelle, pour la période de janvier 2008 à février 2010, M. Stephen Boutilier avait exercé un emploi assurable et donnant droit à pension chez RTS, puisqu’il avait travaillé aux termes d’un contrat de louage de services, et qu’il avait donc été un employé. RTS est d’avis que M. Boutilier était un entrepreneur indépendant. M. Boutilier s’est jeté dans la mêlée en qualité d’intervenant.
+[2] M. Boutilier a agi comme courrier à vélo pour RTS, desservant le cœur du centre-ville de Toronto, pendant quatre mois en 2006, puis de nouveau pendant la période de janvier 2008 à février 2010. Le litige dont je suis saisi concerne cette dernière période.
+[3] M. Boutilier a affirmé qu’il avait accepté de travailler pour RTS lors d’une conversation avec M. Randy Robertson, le fondateur de RTS. La rémunération initiale avait été fixée par M. Robertson à 500 $ par semaine. M. Boutilier devait fournir son propre vélo et son propre sac à dos, tandis que RTS fournissait l’émetteur-récepteur portatif nécessaire. Mme Janet Robertson, qui a témoigné pour le compte de RTS, a indiqué que, normalement, des frais de 60 $ par mois étaient exigés des courriers pour l’émetteur-récepteur portatif, mais elle a reconnu que M. Boutilier n’avait payé aucun montant. M. Boutilier a affirmé qu’il avait convenu avec M. Robertson qu’il n’y aurait aucuns frais pour l’émetteur-récepteur portatif.
+[4] Quelques mois plus tard, la rémunération a été modifiée par l’ajout de l’exigence de la TPS. Des factures datant de 2008 présentées au procès indiquent un nouveau paiement de 550 $ par semaine plus la TPS. Il y a eu une rencontre entre les courriers et la direction, au cours de laquelle RTS a dit aux courriers d’obtenir un numéro de TPS, et elle les a avisés d’un changement de procédure selon lequel les factures aux deux semaines seraient remplacées par un nouveau contrat plus long. M. Boutilier a obtenu un numéro de TPS, croyant qu’il devait le faire pour conserver son poste. Le nouveau contrat, rédigé par M. Robertson, avait davantage l’allure d’une facture que celle d’un contrat. Il vaut la peine d’être reproduit :
+[TRADUCTION]
+RAPID TRANSIT SYSTEMS 2000 LTD,
+FACTURE ANNUELLE
+DE SOUS-TRAITANT
+NOM : Stephen Boutilier
+ADRESSE : 200, impasse White Oaks, app. 1004
+Whitby (Ontario)
+L1P 1B8
+NO DE TÉLÉPHONE : 905-493-2747
+FACTURER À : Rapid Transit Systems 2000 Ltd.
+35, rue Johnson
+Thornhill (Ontario)
+L3T 2N9
+Pour services rendus par l’entrepreneur indépendant pour la période du :
+16 février 2009 au 31 août 2009
+Total payable, TPS incluse : 14 950,00 $
+À payer en 13 versements égaux de : 1 150,00 $
+NO DE COURTIER : 054 NO DE FACTURE : 054100
+NO DE TPS : 681204378
+SIGNATURE : « Stephen Boutilier »
+Le contrat a été signé par M. Boutilier, mais par personne de RTS.
+[5] RTS avait seulement une poignée de courriers, et seuls deux d’entre eux étaient des courriers à vélo. RTS n’avait que quelques clients : Rogers et Diamond Securities étaient les plus importants.
+[6] L’entreprise familiale fonctionnait comme suit. Les clients de RTS se voyaient remettre une carte de tarifs et des bordereaux d’expédition. Les taux étaient déterminés en fonction de la distance et du degré d’urgence. Il y avait quatre catégories : très urgent, urgent, livraison le même jour et livraison le lendemain. M. Boutilier communiquait avec le répartiteur à 8h30, bien que M. Randy Robertson, le fils de Randy et Janet, qui travaillait occasionnellement pour l’entreprise, ait témoigné que les courriers communiquaient avec le répartiteur à un moment ou un autre entre 8h30 et plus tard le matin. Lorsque le répartiteur de RTS recevait une demande, il communiquait avec un courrier, celui-ci se rendait chez l’expéditeur et prenait livraison de l’envoi ainsi que du bordereau d’expédition (à l’occasion, le courrier fournissait un bordereau d’expédition si le client de RTS n’en avait pas), il effectuait ensuite la livraison, puis il en informait le répartiteur et lui indiquait par la même occasion où il se trouvait. Le répartiteur devait demeurer informé en tout temps de l’endroit où se trouvait le courrier. Le courrier pouvait refuser un colis si celui-ci était trop gros pour son vélo. M. Boutilier a dit qu’il ne pouvait penser à aucun autre motif de refus. RTS a laissé entendre qu’un courrier pouvait toujours refuser un colis, auquel cas RTS cherchait tout simplement quelqu’un d’autre.
+[7] M. Boutilier a décrit une entente plutôt souple, mais il a loué RTS comme étant un bon employeur éthique. M. Boutilier estimait qu’il n’aurait pu offrir des services de courrier à personne d’autre, puisqu’il devait demeurer disponible pour les appels très urgents et urgents. RTS a laissé entendre qu’il avait toujours été loisible à M. Boutilier de travailler pour d’autres. M. Boutilier a soutenu que cela aurait été impossible. De même, RTS a soutenu que M. Boutilier aurait pu trouver un remplaçant pour faire les livraisons pour lui, mais M. Boutilier a laissé entendre qu’il travaillait seulement avec les courriers existants de RTS. Il n’a jamais payé qui que ce soit pour effectuer une livraison pour lui. Il est évident que bon nombre des conditions de l’entente n’ont tout simplement jamais été précisées, parce qu’elles n’ont jamais été mises par écrit.
+[8] M. Boutilier n’était pas tenu de porter un uniforme ni d’arborer aucun autre signe d’association avec RTS.
+[9] RTS était assurée, mais M. Boutilier ne l’était pas. Il entretenait cependant son vélo.
+[10] En raison d’un manque de travail, M. Boutilier a été mis à pied sans préavis, ce qui l’a fâché. Il a porté plainte auprès du ministre du Travail pour obtenir une paye de vacances, une indemnité de départ, la rémunération de jours fériés et une indemnité de cessation de service. Au terme de l’instruction de cette plainte, on a conclu que M. Boutilier avait été un employé. RTS a réglé l’affaire pour 1932 $ et a obtenu une quittance de M. Boutilier.
+[11] M. Boutilier était-il un employé de RTS, ou était-il un entrepreneur indépendant? Le droit est bien établi dans ce domaine, et le juge Archambault l’a récemment examiné dans l’affaire Dynamex Canada Corp. c. Canada[1] datant de 2010. Dynamex, qui exploitait elle aussi un service de courrier, quoique principalement par l’entremise de courriers en voiture, avait, à l’époque pertinente, un courrier à vélo qu’elle traitait comme un employé. Les principes à suivre peuvent se résumer comme suit :
+1. La terminologie employée dans le contrat n’est pas déterminante : un terme contractuel ne peut pas prévaloir si la preuve de la relation réelle milite en faveur de la conclusion opposée.
+2. La question essentielle est de savoir si la personne fournit les services en tant que personne exploitant une entreprise à son propre compte.
+3. Le contrôle est toujours un facteur à prendre en compte.
+4. D’autres facteurs à prendre en compte sont la propriété de l’équipement, la question de savoir si le travailleur peut engager ses propres assistants, le degré de risque financier, le degré de responsabilité en matière d’investissement et de gestion, les possibilités de profit.
+5. Lorsqu’il y a une compréhension ou une intention commune, les facteurs précités devraient être appréciés dans le contexte de cette compréhension.
+[12] Je formulerai donc quelques points préliminaires, qui découlent de ces principes, avant d’examiner les facteurs proposés par la jurisprudence. Premièrement, l’emploi du terme [TRADUCTION] « sous‑traitant » dans la Facture annuelle de sous‑traitant n’est pas convaincant. Je suis convaincu qu’il s’agissait d’une insertion intéressée d’un terme par RTS, et que, bien que M. Boutilier ait signé ce document, il a clairement affirmé qu’il ne croyait pas qu’il était un sous-traitant et qu’il avait seulement signé le contrat pour continuer à travailler à un endroit où il aimait travailler. Le titre [TRADUCTION] « sous-traitant » dans ce contexte ne veut rien dire.
+[13] Deuxièmement, je n’ai pas été convaincu qu’il y a eu la moindre rencontre des volontés quant à la vraie nature de l’accord de collaboration entre M. Boutilier et RTS. Il est donc impossible d’analyser les facteurs dans le contexte d’une quelconque compréhension commune.
+[14] M. Boutilier fournissait-il ses services de courrier dans le cadre d’une entreprise qu’il exploitait pour son propre compte? Il ne fait aucun doute que RTS exploitait une entreprise de courrier : elle avait attiré et retenu les clients qui voulaient faire effectuer des livraisons, elle fixait le tarif, elle produisait les bordereaux d’expédition, elle souscrivait une assurance contre les pertes et les dommages, elle voyait à la perception des comptes, elle envoyait les courriers au moment et à l’endroit où leurs services étaient requis, elle tenait des livres, etc. Que faisait M. Boutilier? Il se présentait au travail à 8h30 en communiquant avec le répartiteur de RTS, il allait là où le répartiteur l’envoyait, il prenait livraison d’envois et les livrait, il conservait des copies des bordereaux d’expédition de RTS, il tenait le répartiteur au courant de l’endroit où il se trouvait, il présentait initialement des factures aux deux semaines qui ont été remplacées plus tard par une seule facture relative à plusieurs mois, un montant fixe lui était versé toutes les deux semaines, il travaillait uniquement pour RTS, et il ne tenait aucun livre.
+[15] L’impression générale est que M. Boutilier faisait partie de l’entreprise de RTS, et non qu’il exploitait une entreprise pour son propre compte, mais permettez‑moi d’examiner les facteurs clés pour déterminer s’ils appuient ou contredisent cette impression.
+Le contrôle
+[16] M. Boutilier exerçait un contrôle sur la façon dont il se rendait du point A au point B lorsqu’il effectuait une livraison, mais d’autres aspects de ses services étaient contrôlés par RTS. On lui disait où aller et quand y aller. Il pouvait seulement refuser du travail si celui-ci était dangereux ou n’était tout simplement pas pratique. À cet égard, j’admets son témoignage de préférence à celui de M. Robertson, qui a laissé entendre que M. Boutilier pouvait refuser pour n’importe quelle raison : cela n’est pas vraisemblable. M. Boutilier ne pouvait pas négocier sa rémunération – celle-ci était fixée par RTS. M. Boutilier croyait qu’il n’aurait pu accepter aucun autre travail, parce que cela aurait rendu impossible l’acquittement de ses responsabilités envers RTS. Encore une fois, RTS s’est dite en désaccord, laissant entendre qu’il était loisible à M. Boutilier de travailler pour d’autres; cela laisse songeur, étant donné les rigueurs du travail, notamment l’obligation d’être toujours prêt. Le contrôle en dernier ressort, par un retournement ironique de stratégie, est qu’il n’a pas pu refuser d’obtenir un numéro de TPS par crainte de perdre tout bonnement le travail.
+[17] Il importe de ne pas perdre de vue la nature de ce travail : il ne s’agit pas du genre de travail qui doit faire l’objet d’un contrôle étendu. Le courrier est davantage soumis aux contraintes inhérentes à la nature même du travail qu’assujetti au contrôle méticuleux de RTS. Aussi, bien que, comme la Cour suprême du Canada l’a affirmé, le contrôle soit toujours un facteur à prendre en compte, je conclus qu’il ne s’agit pas d’un facteur dominant en l’espèce, bien qu’il milite légèrement en faveur d’une relation employeur-employé. Il faut toutefois apprécier cela dans le contexte des autres facteurs.
+La propriété de l’équipement
+[18] Comme je l’ai indiqué au procès, le courrier à vélo a besoin de trois pièces d’équipement principales : son vélo, son corps et un dispositif de communication. Il a clairement fourni deux de ces trois pièces d’équipement, dont il était responsable de l’entretien dans l’un et l’autre cas. L’émetteur-récepteur portatif relevait de la responsabilité de RTS. Ce facteur milite en faveur d’un contrat d’entrepreneur indépendant.
+L’embauche d’assistants
+[19] Voilà un autre exemple d’une divergence d’interprétation du contrat sous‑jacent entre RTS et M. Boutilier. Selon RTS, M. Boutilier aurait pu embaucher quelqu’un pour fournir ses services à sa place, à la condition que le remplaçant fût connu de RTS. M. Boutilier n’a jamais rien fait de tel. Je suis convaincu que, même s’il l’avait fait, RTS a admis qu’elle conservait un certain droit de regard sur le choix du remplaçant. Ce facteur ne reflète pas un contrat d’entrepreneur indépendant.
+Le degré de risque financier
+[20] M. Boutilier n’était pas assuré. RTS l’était. Si des paquets étaient perdus ou endommagés ou si des plaintes étaient reçues, c’était à RTS de s’en occuper. La rémunération de M. Boutilier était fixe, peu importe combien de livraisons il effectuait ou combien de plaintes étaient reçues. Il recevait une rémunération supplémentaire lorsqu’il acceptait de travailler un quart plus tard, se terminant en début de soirée, pour faire des livraisons tardives. Cela augmentait son montant hebdomadaire, bien qu’il ne fût pas payé à commission ni assujetti à aucune autre forme de régime de rémunération à la pièce.
+[21] Le seul risque, et il n’était pas négligeable, était le risque de blessure, bien qu’on ait affirmé, mais sans corroboration, que M. Boutilier était protégé par la CSPAAT (Commission de la sécurité professionnelle et de l’assurance contre les accidents du travail). Tout compte fait, ce facteur reflète un contrat d’emploi.
+La possibilité de profit
+[22] Comme je l’ai mentionné, la seule façon pour M. Boutilier d’accroître ses profits était de se rendre disponible plus tard dans la journée. Cela augmentait son taux hebdomadaire, mais celui-ci était encore fixé par M. Robertson : il n’y a eu aucune preuve de négociation. M. Boutilier touchait sa paye hebdomadaire sans égard au volume de travail. La nature du travail excluait la possibilité de chercher d’autre travail auprès d’autres entreprises de courrier. Je trouve ce facteur important. Il n’y a aucune possibilité de profit accru. Cela ressemble bien plus à un salaire qu’à un revenu d’entreprise.
+Le degré de responsabilité en matière d’investissement et de gestion
+[23] Mis à part son vélo, il y a peu de choses qui tendent à indiquer un degré important d’investissement dans une entreprise ni aucune forme de gestion. M. Boutilier devait simplement se présenter au travail et faire ses livraisons.
+[24] Tout compte fait, les facteurs militent plutôt en faveur de la conclusion selon laquelle M. Boutilier était un employé. J’aimerais toutefois revoir une affaire que j’ai tranchée il y a quelques années, qui concernait elle aussi un courrier à vélo, et dans laquelle j’en étais arrivé à la conclusion opposée. Il y a plusieurs différences importantes entre les faits de la présente espèce et ceux de l’affaire Velocity Express Canada Ltd. v. Minister of National Revenue[2] :
+1. Dans Velocity, le courrier pouvait dire qu’il était disponible ou non disponible à son gré; ce n’est pas l’impression que M. Boutilier m’a laissée. Soit il livrait, soit il demeurait prêt à le faire tout au long de la journée.
+2. Dans Velocity, les courriers étaient responsables de la perte d’envois en vertu du contrat avec Velocity; tel n’est pas le cas ici.
+3. Dans Velocity, les courriers pouvaient négocier un meilleur taux. En l’espèce, le taux était tout simplement fixé par l’employeur, M. Robertson.
+4. Dans Velocity, les courriers pouvaient employer des tiers. M. Boutilier ne le pouvait pas.
+5. Dans Velocity, la paye était fonction du volume.
+6. Dans Velocity, le courrier a admis qu’il avait conclu autre chose qu’un contrat de travail.
+[25] Pris ensemble, ces facteurs ont fait pencher la balance dans la direction opposée. Cela fait bien ressortir à quel point la notion d’« emploi » peut être difficile à cerner. Il suffit que les faits ne diffèrent que légèrement pour que la conclusion opposée s’impose. Cette question demeure un domaine difficile du droit, puisque la zone grise entre entrepreneur indépendant et employé est étendue et n’est pas clairement délimitée. Je conclus que la décision du ministre était raisonnable, et les appels sont donc rejetés.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2011.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 28e jour de juin 2011.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+RÉFÉRENCE : 2011 CCI 219
+No DU DOSSIER DE LA COUR : 2010-2075(EI) et 2010-2077(CPP)
+INTITULÉ : RAPID TRANSIT SYSTEMS 2000 LTD ET MINISTRE DU REVENU NATIONAL ET STEPHEN BOUTILIER
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 11 avril 2011
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 20 avril 2011
+COMPARUTIONS :
+Pour l’appelante :
+Mme Janet Robertson et
+M. Richard Robertson
+Avocate de l’intimé :
+Me Leslie Ross
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s/o
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2010 CCI 17.
+[2] 2002 CarswellNat 594 (C.C.I.).

@@ -1,0 +1,380 @@
+---
+title: "Sivasubramaniam c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28702/index.do"
+last_modified: "2008-05-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 261"
+citation2: ""
+neutral_citation: "2008 CCI 261"
+decision_date: "2008-05-08"
+language: "fr"
+item_id: "28702"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1492
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:48:34.099000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a5ed4780889becb8685b0a13272bb8148536698a2dda653da36557a365828ec5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sivasubramaniam c. La Reine
+
+- Citation: 2008 CCI 261
+- Decision date: 2008-05-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1492, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sivasubramaniam c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-08
+Référence neutre
+2008 CCI 261
+Numéro de dossier
+2007-4209(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4209(IT)I
+ENTRE :
+AMIRTHALINGAM SIVASUBRAMANIAM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus à Toronto (Ontario), le 24 avril 2008.
+Devant : L’honorable juge en chef D.G.H. Bowman
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Alexandra Humphrey
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004 et 2005 sont rejetés.
+Signé à Toronto (Ontario) ce 8e jour de mai 2008.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 18e jour de juin 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2008CCI261
+Date : 20080508
+Dossier : 2007-4209(IT)I
+ENTRE :
+AMIRTHALINGAM SIVASUBRAMANIAM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Les présents appels ont été interjetés à l’égard de cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2003, 2004 et 2005 de l’appelant. Ces cotisations refusaient la déduction de pertes résultant de déductions pour amortissement (les « DPA ») relativement à la location de sept logements d’immeuble en copropriété se trouvant à Scarborough (Ontario).
+[2] L’appelant est comptable. À compter de 1989 environ et au cours des quelques années qui ont suivi, il a acquis sept logements d’immeuble en copropriété (les « logements ») situés à Scarborough et il les a loués à des locataires. L’appelant a demandé des DPA à l’égard des logements, de même que des DPA moins importantes à l’égard de mobilier et de matériel. Les logements ont été inclus dans la catégorie 1 des biens amortissables, et ont fait l’objet d’une demande de DPA au taux de 4 %. Le mobilier et le matériel ont été inclus dans la catégorie 8, et ont fait l’objet d’une demande de DPA au taux de 20 %.
+[3] L’annexe A présente les résultats financiers de la location des sept logements. Il est clair qu’ils ont produit des revenus bruts importants, à savoir plus de 85 000 $ pour chaque année. Les dépenses, même avant les DPA, étaient importantes, et donc le revenu net, avant les DPA, était peu élevé par rapport à la dépense en capital et aux autres dépenses. En effet, l’appelant a subi des pertes pour certaines années. Pour chacune des années en cause, la demande de DPA a entraîné une perte pour chacun des logements, et, au total, une perte très importante.
+[4] La déduction des pertes résultant de la demande de DPA a été refusée en application des paragraphes 1100(11) et 1100(14) du Règlement de l’impôt sur le revenu (le « Règlement »). Essentiellement, ces dispositions limitent la déduction des pertes relatives à des biens locatifs, à bail ou non, aux pertes subies avant les DPA. Autrement dit, il est interdit de créer ou d’augmenter une perte relative à un bien locatif en demandant des DPA.
+[5] Les paragraphes 1100(11) et 1100(14) du Règlement sont ainsi rédigés :
+Biens locatifs
+(11) Nonobstant le paragraphe (1), en aucun cas le total des déductions, dont chacune est une déduction à l’égard de biens d’une catégorie prescrite possédés par un contribuable, qui comprend les biens locatifs possédés par lui, que le contribuable peut déduire par ailleurs en vertu du paragraphe (1) en calculant son revenu pour une année d’imposition, ne doit excéder la fraction, si fraction il y a,
+a) du total des sommes dont chacune représente
+(i) son revenu pour l’année tiré de la location, à bail ou non, d’un bien locatif possédé par lui, calculé en faisant abstraction de l’alinéa 20(1)a) de la Loi, ou
+(ii) le revenu d’une société de personnes pour l’année tiré de la location, à bail ou non, d’un bien locatif de la société de personnes, dans la mesure de la participation du contribuable à un tel revenu,
+qui est en sus
+b) du total des sommes dont chacune représente
+(i) sa perte pour l’année de la location, à bail ou non, d’un bien locatif possédé par lui, calculé en faisant abstraction de l’alinéa 20(1)a) de la Loi, ou
+(ii) la perte subie par une société de personnes pour l’année de la location, à bail ou non, d’un bien locatif de la société de personnes, dans la mesure de la participation du contribuable à une telle perte.
+[…]
+[« Bien locatif »]
+(14) Dans le présent article et l’article 1101, « bien locatif » d’un contribuable ou d’une société de personnes désigne
+a) soit un bâtiment dont le contribuable ou la société de personnes est propriétaire, conjointement avec une autre personne ou autrement,
+b) soit une tenure à bail sur des biens immeubles, si la tenure à bail est un bien de la catégorie 1, 3, 6 ou 13 de l’annexe II et est la propriété du contribuable ou de la société de personnes,
+si, au cours de l’année d’imposition à l’égard de laquelle l’expression s’applique, le bien a été utilisé par le contribuable ou la société de personnes principalement pour gagner ou produire un revenu brut qui constitue un loyer, mais, pour plus de précision, n’inclut pas un bien donné à bail à un preneur par le contribuable ou la société de personnes, dans le cours normal des activités de l’entreprise du contribuable ou de la société de personnes consistant à vendre des marchandises ou à rendre des services, en vertu d’un contrat par lequel le preneur s’engage à utiliser le bien pour exercer son activité de vente ou de promotion des ventes de marchandises ou de services fournis par le contribuable ou la société de personnes.
+[6] Il existe une disposition semblable qui vise les biens donnés en location à bail (des biens amortissables autres que des immeubles). Il y a une exception pour les sociétés dont la principale entreprise est la location, qu’elle soit à bail ou non.
+[7] M. Sivasubramaniam soutient que les logements ne constituaient pas des « bien[s] locatif[s] » au sens du paragraphe 1100(14) du Règlement parce qu’ils n’ont pas, durant les années d’imposition en cause :
+[…] été utilisé[s] par [lui] […] principalement pour gagner ou produire un revenu brut qui constitue un loyer […]
+Au contraire, il affirme avoir acquis les logements dans le but de les revendre à profit et de réaliser un gain en capital. En fait, il a inscrit tous les logements, ou presque tous, afin de les vendre. Il n’a cependant pas réussi à les vendre, ou du moins, à attirer des offres d’achat qu’il considérait satisfaisantes. Chose intéressante, malgré l’essor dont a profité le marché immobilier de Toronto, ces logements sont restés invendus. Cela est peut-être attribuable à leur emplacement.
+[8] La position défendue par l’appelant est problématique. S’il dit vrai lorsqu’il affirme que son objectif principal était de revendre les logements à profit, et non pas d’en tirer des revenus de location, il risque de voir l’Agence du revenu du Canada conclure que les logements ne constituent plus des immobilisations pour lui, mais plutôt des biens figurant à l’inventaire d’une entreprise ou d’une affaire de caractère commercial. Monsieur Sivasubramaniam soutient que les logements figurent à son inventaire, mais j’ai bien peur qu’il n’ait pas considéré les conséquences de cette affirmation. Si les logements figuraient vraiment à son inventaire, ils seraient complètement exclus du régime des DPA à cause de l’alinéa 1102(1)b) du Règlement, qui est ainsi rédigé :
+1102(1) Les catégories de biens décrits dans la présente partie et dans l’annexe II sont censées ne pas comprendre les biens
+a) dont le coût serait déductible dans le calcul du revenu du contribuable s’il n’était pas tenu compte des articles 66 à 66.4 de la Loi;
+a.1) dont le coût est inclus dans les frais liés aux énergies renouvelables et à l’économie d’énergie au Canada du contribuable, au sens de l’article 1219;
+b) qui figurent à l’inventaire du contribuable;
+[…]
+[9] On pourrait se demander quelle importance il faut donner à l’expression « figurent à l’inventaire du contribuable » en soutenant que si des biens ne « figurent » pas à l’inventaire, mais qu’ils font plutôt partie des biens détenus pour être vendus dans l’exploitation d’une entreprise et font ainsi partie de l’« inventaire » aux termes de l’article 248 de la Loi, l’alinéa 1102(1)c) du Règlement ne s’appliquerait pas. À mon avis, la façon la plus simple de répondre à cette question est de dire que l’alinéa 1102(1)c) du Règlement est probablement superflu. Si un bien fait partie d’un inventaire, peu importe qu’il soit décrit de la sorte ou qu’il figure dans une liste portant le nom d’« inventaire », il ne peut pas faire l’objet de DPA parce qu’il n’a pas de coût en capital et qu’il n’est donc pas visé par l’alinéa 20(1)a) de la Loi[1].
+[10] De plus, si M. Sivasubramaniam dit vrai en affirmant qu’il avait l’intention d’acheter les logements en vue de réaliser des gains en capital plutôt que pour en tirer des revenus locatifs (il s’agit là, à mon avis, de propos contradictoires), les logements sont exclus du régime des DPA par l’alinéa 1102(1)c) du Règlement, lequel est rédigé de la façon suivante :
+c) qui n’ont pas été acquis par le contribuable aux fins de gagner ou de produire un revenu;
+[11] Cet alinéa serait applicable à cause du paragraphe 9(3) de la Loi, qui est ainsi rédigé :
+Exclusion des gains et pertes en capital
+(3) Dans la présente loi, le revenu tiré d’un bien exclut le gain en capital réalisé à la disposition de ce bien, et la perte résultant d’un bien exclut la perte en capital résultant de la disposition de ce bien.
+[12] Il s’agit là de conjectures, mais il reste que, durant les années en cause, les logements ont servi à produire des revenus locatifs. Les logements correspondent à la définition de « biens locatifs ». À mon avis, les logements ne figuraient pas à un inventaire. La plupart des biens acquis à titre d’investissements sont achetés dans l’espoir d’en disposer à profit un jour. Cela n’en fait pas des biens qui figurent à un inventaire ou des actifs engagés pour autant. Aux pages 1134 et 1135 d’Irrigation Industries Limited v. M.N.R., 62 DTC 1131, la Cour suprême du Canada s’est exprimée ainsi :
+[TRADUCTION]
+Les seules opérations de l'appelante en l'espèce ont été l'achat directement à Brunswick de 4 000 actions non émises et leur revente, probablement par l'entremise de courtiers. Ce n'est pas le type de commerce auquel se livreraient habituellement ceux qui pratiquent le commerce des valeurs mobilières. L'achat de l'appelante n'a pas eu lieu dans le cadre d'une souscription à forfait, il ne constituait pas une participation dans un consortium de souscripteurs à forfait pour une émission de titres et il ne comportait pas les caractéristiques de ce type d'entreprise. L'appelante a simplement investi des capitaux dans une nouvelle compagnie d'une manière qui présente les caractéristiques d'un placement et les a ensuite retirés en vendant ses titres.
+Mais on peut prétendre que des personnes peuvent faire le commerce des valeurs mobilières sans être des négociants en valeurs mobilières au sens courant de l'expression et que les transactions faites dans ce type de commerce sont semblables, quoique plus nombreuses, à celle qui a eu lieu en l'espèce. Toutefois, on a souligné dans la célèbre affaire Californian Copper Syndicate c. Harris que, lorsqu'il s'agit de la vente de valeurs mobilières, la plus-value sera imposable selon que la réalisation se produira dans le cadre de l'exploitation d'une entreprise. Dans cette affaire-là, les Commissaires avaient statué que la transaction en cause était une initiative ou une affaire de caractère commercial. Les jugements en appel n'abordent pas ce point, mais sont fondés sur le motif que le fait de tirer un profit du placement en l'espèce n'était pas simplement accessoire mais était le trait essentiel de l'entreprise de l'appelante. Voici le texte du passage en question :
+[TRADUCTION]
+C'est un principe bien établi quand il s'agit de questions de cotisations d'impôt sur le revenu que, lorsque le propriétaire d'un placement ordinaire décide de le réaliser et obtient un prix plus élevé que le prix d'acquisition, la hausse du prix ne constitue pas un bénéfice au sens de l'Annexe D de la Loi de l'impôt sur le revenu de 1842 soumis à l'impôt sur le revenu. Mais il est également bien établi que les plus-values résultant de la réalisation ou de la conversion de titres peuvent aussi être soumises à l'impôt, lorsqu'il ne s'agit pas simplement d'une réalisation ou d'un changement de lacement mais d'un acte fait dans le cadre de ce qui constitue véritablement la poursuite ou la réalisation d'une entreprise. L'exemple le plus simple est celui de la personne ou de l'association de personnes qui achète et vend des terrains ou des titres pour spéculer en vue de réaliser un gain, qui se livre à ces placements à titre de commerce et qui cherche à faire des bénéfices. Beaucoup de compagnies sont constituées expressément pour cette fin et, dans leur cas, il n'y a pas de doute que si elles font un profit lors d'une vente ce profit est soumis à l'impôt sur le revenu.
+À mon avis, la transaction en cause ne correspond à aucun des deux critères positifs que les autorités ont suggéré d’appliquer.
+[L’intention]
+Le seul critère qui a été appliqué en l’espèce est celui de savoir si l’appelante a conclu la transaction avec l’intention de disposer des actions à profit aussitôt qu’une occasion raisonnable de le faire se serait présentée. Ce critère est‑il suffisant pour décider si la transaction était une affaire de caractère commercial? Je ne crois pas qu’il suffise à lui seul. Je suis d’accord avec les conclusions exprimées relativement à cette question par le juge Rowlatt à la page 284 de Leeming v. Jones, précité. Cette affaire portait sur le caractère imposable des profits résultant de l’achat et de la revente de deux plantations d’arbres à caoutchouc situées dans la péninsule malaise. Les commissaires avaient d’abord conclu qu’il s’agissait d’une affaire de caractère commercial parce que les propriétés avaient été achetées dans le seul but d’une revente à profit. Le juge Rowlatt a renvoyé la question aux commissaires et il a rédigé ses motifs de la façon suivante :
+[TRADUCTION]
+Je crois qu'il ne fait aucun doute que les commissaires doivent déterminer si, en l'espèce, il existe une affaire de caractère commercial. Ils résument en ces mots leurs constatations (dont voici un extrait) : le bien a été acquis dans le seul but de le revendre à profit et sans l'intention de le détenir à titre de placement. Voilà comment on décrirait la transaction d'une personne qui achèterait chez Christie's un tableau qu'elle sait être à bon prix avec la certitude de pouvoir le revendre chez Christie's un mois plus tard. Une telle personne ne se livre pas à l'exploitation d'un commerce. Une telle description ne confère pas à une activité un caractère d'affaire commerciale ou tout autre caractère. Voici la question que les commissaires doivent, d'une façon ou d'une autre, poser : cette activité – je ne dirai pas l'exploitation d'un commerce – était-elle une opération de spéculation à caractère commercial? Je ne dirai pas quelle réponse devrait être donnée, mais je recommanderai aux commissaires d'examiner les activités liées à l'organisation de la spéculation, à l'aménagement du bien et à sa disposition. Lorsqu'ils auront examiné tous ces aspects, alors ils pourront dire s'ils estiment que l'activité est oui ou non un projet comportant un risque de caractère commercial.
+La question a été renvoyée aux commissaires. Ces derniers ont alors conclu qu’il ne s’agissait pas d’une affaire de caractère commercial. Finalement, l’affaire a été entendue par la Chambre de lords, [1930] A.C. 415, où la principale question en litige était de savoir si les profits étaient imposables en vertu du [TRADUCTION] « cas VI de l’annexe D » de l’Income Tax Act de 1918. On peut trouver, à la page 420 de la décision, un énoncé de principe général exprimé par lord Buckmaster. Cet énoncé, qui s’applique bien à la présente affaire, est ainsi rédigé :
+[TRADUCTION]
+[…] une augmentation de capital ne constitue pas un revenu uniquement parce que le capital originaire a été investi dans l'espoir et l'attente d'une plus-value; s'il augmente de valeur, sa réalisation n'en fait pas un revenu.
+[13] Par conséquent, je conclus que les logements d’immeuble en copropriété étaient des biens locatifs, et que les restrictions prévues au paragraphe 1100(11) du Règlement de l’impôt sur le revenu sont applicables.
+[14] Les appels sont donc rejetés.
+Signé à Toronto (Ontario) ce 8e jour de mai 2008.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 18e jour de juin 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Annexe A
+1, croissant Saugeen, Scarborough (Ontario)
+2003
+2004
+2005
+Revenu brut
+19 150,00 $
+16 650,00 $
+16 200,00 $
+Dépenses avant les DPA à l’égard de tous les logements (le « total des DPA »)
+17 457,58 $
+16 418,62 $
+15 822,95 $
+Revenu (perte) avant le total des DPA
+1 692,42 $
+231,38 $
+377,05 $
+Moins : les DPA relatives au logement
+3 927,55 $
+3 770,45 $
+3 619,63 $
+les DPA relatives au mobilier et au matériel
+148,85 $
+119,08 $
+95,26 $
+Revenu net (perte nette)
+(2 383,98 $)
+(3 658,14 $)
+(3 337,84 $)
+4062, avenue Lawrence Est, app. 307, Scarborough (Ontario)
+2003
+2004
+2005
+Revenu brut
+13 250,00 $
+12 000,00 $
+12 000,00 $
+Dépenses avant les DPA à l’égard de tous les logements (le « total des DPA »)
+11 779,47 $
+11 458,76 $
+10 636,60 $
+Revenu (perte) avant le total des DPA
+1 470,53 $
+541,24 $
+1 363,40 $
+Moins : les DPA relatives au logement
+4 037,60 $
+3 876,10 $
+3 728,25 $
+les DPA relatives au mobilier et au matériel
+465,00 $
+972,00 $
+777,60 $
+Revenu net (perte nette)
+(3 032,07 $)
+(4 306,86 $)
+(3 142,45 $)
+4062, avenue Lawrence Est, app. 607, Scarborough (Ontario)
+2003
+2004
+2005
+Revenu brut
+9 800,00 $
+6 600,00 $
+10 250,00 $
+Dépenses avant les DPA à l’égard de tous les logements (le « total des DPA »)
+7 001,75 $
+7 171,28 $
+11 568,22 $
+Revenu (perte) avant le total des DPA
+2 798,25 $
+(571,28 $)
+(1 318,22 $)
+Moins : les DPA relatives au logement
+2 427,72 $
+2 330,61 $
+2 237,38 $
+les DPA relatives au mobilier et au matériel
+311,04 $
+248,83 $
+199,07 $
+Revenu net (perte nette)
+59,49 $
+(3 150,72 $)
+(3 754,67 $)
+99, avenue Blackwell, app.‑terrasse 5, Scarborough (Ontario)
+Revenu brut
+13 050,00 $
+$12 600,00 $
+$10 500,00 $
+Dépenses avant les DPA à l’égard de tous les logements (le « total des DPA »)
+11 434,55 $
+10 623,27 $
+9 674,76 $
+Revenu (perte) avant le total des DPA
+1 615,45 $
+1 976,73 $
+825,24 $
+Moins : les DPA relatives au logement
+3 594,61 $
+3 450,82 $
+3 312,79 $
+les DPA relatives au mobilier et au matériel
+400,32 $
+320,26 $
+256,20 $
+Revenu net (perte nette)
+(2 379,48 $)
+(1 794,35 $)
+(2 743,76 $)
+99, avenue Blackwell, app. 303, Scarborough (Ontario)
+2003
+2004
+2005
+Revenu brut
+14 200,00 $
+12 100,00 $
+8 500,00 $
+Dépenses avant les DPA à l’égard de tous les logements (le « total des DPA »)
+11 176,24 $
+9 913,07 $
+9 774,29 $
+Revenu (perte) avant le total des DPA
+3 023,76 $
+2 186,93 $
+(1 274,29 $)
+Moins : les DPA relatives au logement
+3 829,43 $
+3 676,26 $
+3 529,20 $
+les DPA relatives au mobilier et au matériel
+399,46 $
+319,56 $
+255,65 $
+Revenu net (perte nette)
+(1 205,13 $)
+(1 808,89 $)
+(5 059,14 $)
+3380, avenue Eglinton Est, app. 1702, Scarborough (Ontario)
+2003
+2004
+2005
+Revenu brut
+10 000,00 $
+12 600,00 $
+12 600,00 $
+Dépenses avant les DPA à l’égard de tous les logements (le « total des DPA »)
+11 460,48 $
+13 344,18 $
+11 885,26 $
+Revenu (perte) avant le total des DPA
+(1 460,48 $)
+(744,18 $)
+714,74 $
+Moins : les DPA relatives au logement
+3 829,43 $
+3 676,25 $
+3 529,20 $
+les DPA relatives au mobilier et au matériel
+320,84 $
+256,67 $
+205,34 $
+Revenu net (perte nette)
+(5 610,75 $)
+(4 677,10 $)
+(3 019,80 $)
+10, croissant Stonehill , app. 702, Scarborough (Ontario)
+2003
+2004
+2005
+Revenu brut
+14 640,00 $
+13 250,00 $
+14 300,00 $
+Dépenses avant les DPA à l’égard de tous les logements (le « total des DPA »)
+16 492,08 $
+16 354,38 $
+13 695,36 $
+Revenu (perte) avant le total des DPA
+(1 852,08 $)
+(3 104,38 $)
+604,64 $
+Moins : les DPA relatives au logement
+5 023,87 $
+4 822,92 $
+4 630,00 $
+les DPA relatives au mobilier et au matériel
+320,40 $
+256,32 $
+205,06 $
+Revenu net (perte nette)
+(7 196,35 $)
+(8 183,62 $)
+(4 230,42 $)
+RÉFÉRENCE :
+2008CCI261
+Nº DU DOSSIER DE LA COUR :
+2007-4209(IT)I
+INTITULÉ :
+Amirthalingam Sivasubramaniam et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 24 avril 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge en chef D.G.H. Bowman
+DATE DU JUGEMENT ET
+DES MOTIFS DU JUGEMENT :
+Le 8 mai 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Alexandra Humphrey
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Je ne crois pas qu’il soit opportun de discuter de la situation un peu anormale du contribuable qui exploite une entreprise de location de biens et qui vend ensuite ces biens à leurs locateurs. C’était le cas du contribuable dans Canadian Kodak Sales Limited v. M.N.R., 54 DTC 1194. Le contribuable avait demandé et obtenu des DPA relativement à du matériel photographique qu’il avait loué dans des années précédentes, puis il a vendu ce matériel à ses clients. Le juge Thorson, président de la Cour de l’échiquier, avait conclu que les ventes n’avaient pas été faites au titre du capital, mais dans le cadre de l’exploitation de l’entreprise de l’appelant. En faisant de la sorte, il appliquait la décision Gloucester Railway Carriage and Wagon Co. Inland Revenue Commissioners, (1925) A.C. 467. Il a aussi refusé d’appliquer la disposition de récupération de la Loi de l’impôt sur le revenu. Cette situation entraîne une anomalie conceptuelle, mais je n’ai pas l’intention de la résoudre ici.

@@ -1,0 +1,157 @@
+---
+title: "Porter v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29796/index.do"
+last_modified: "2010-05-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 251"
+citation2: ""
+neutral_citation: "2010 TCC 251"
+decision_date: "2010-05-06"
+language: "en"
+item_id: "29796"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6602
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:22:53.506000+00:00"
+cases_cited_count: 5
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "79e4b659596111d13ffd9099bac062bc77c9c0fe9895400f827944a2f3c77a66"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Porter v. The Queen
+
+- Citation: 2010 TCC 251
+- Decision date: 2010-05-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6602, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Porter v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-06
+Neutral citation
+2010 TCC 251
+File numbers
+2009-3558(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3558(IT)I
+BETWEEN:
+JENNIFER D. PORTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 26, 2010 at Calgary, Alberta
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Robert Neilson
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment under the Income Tax Act for the Appellant’s 2007 taxation year is dismissed, without costs.
+Signed at Toronto, Ontario, this 6th day of May, 2010.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2010TCC251
+Date: 20100506
+Docket: 2009-3558(IT)I
+BETWEEN:
+JENNIFER D. PORTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The issue in this appeal is whether the Appellant can rely on a defence of due diligence in relation to a penalty that was imposed pursuant to subsection 163(1) of the Income Tax Act in relation to $16,807 of employment income that the Appellant failed to include in her tax return that she filed for 2007. This subsection provides as follows:
+163. (1) Every person who
+(a) fails to report an amount required to be included in computing the person's income in a return filed under section 150 for a taxation year, and
+(b) had failed to report an amount required to be so included in any return filed under section 150 for any of the three preceding taxation years
+is liable to a penalty equal to 10% of the amount described in paragraph (a), except where the person is liable to a penalty under subsection (2) in respect of that amount.
+[2] The penalty under subsection 163(1) of the Income Tax Act is imposed on a person who fails to report, in that person’s tax return that was filed for a particular year, an amount of income that should have been included in that person’s tax return and also failed to report in a tax return that was filed for any one of the three preceding taxation years an amount of income that should have been included in that tax return. It seems to me that the words “in a return filed under section 150” mean that the conditions for the imposition of the penalty will be met (subject to a possible due diligence defence) if an amount of income is not included in a tax return filed by a taxpayer. Therefore it would not be sufficient for a taxpayer who is an employee and who fails to report an amount of employment income in his or tax return to simply state that an amount of employment income was reported by his or her employer when the employer filed T4 slips. When the employer files the T4 slips, the amount is reported by the employer not by the employee. The penalty is imposed upon the person who failed to report the amount of income in their tax return, who would be the employee in this case.
+[3] It must be remembered that an individual’s income is also used to determine his or her eligibility for the Goods and Services Tax Credit and the amount of such credit that will be paid to such person as well as other amounts that a person may be entitled to receive (for example, if applicable, the Child Tax Benefit). In a self assessing system it is important that each person report all of their income. As noted by Justice Woods in Saunders v. The Queen, 2006 TCC 51, 2006 D.T.C. 2267, [2006] 2 C.T.C. 2255:
+15. …Parliament has enacted subsection 163(1) to ensure the integrity of Canada's self-reporting system.
+[4] The penalty is imposed if a person has failed to report an amount of income in that person’s tax return that was filed for a particular year and also failed to report an amount of income in any of the tax returns that were filed for the three preceding taxation years. Therefore there must be more than one time in four years when a person failed to report an amount of income.
+[5] In this case the two years in which the Appellant did not include an amount of income in her returns that she filed are 2006 and 2007 and there is no dispute in this case that the Appellant failed to report some of her employment income in her tax return that was filed for 2006 and $16,807 of employment income in her tax return that was filed for 2007.
+[6] The amounts that had been omitted from the Appellant’s 2006 tax return but which were amounts shown on T4 slips issued to the Appellant (based on the Canada Revenue Agency’s records) are the following:
+Silverbirch No. 4 Operations Limited $283.92
+501874 Alberta Ltd. $75.40
+819887 Ontario Inc. $4,405.00
+Total: $4,764.32
+[7] In her Notice of Appeal the Appellant stated that she had no knowledge of ever being employed by these companies in 2006. During the hearing, counsel for the Crown introduced documents that showed that 819887 Ontario Inc. was carrying on business as Warren Youth Services and the Appellant acknowledged that she worked for Warren Youth Services. Therefore it seems clear that there was at least $4,405 (which is the amount shown on the T4 slip issued by Warren Youth Services to the Appellant for 2006) of employment income that the Appellant earned in 2006 that was not included in her tax return for 2006. This is a significant amount of income for the Appellant. There were five T4 slips issued to the Appellant for 2006 according to the Canada Revenue Agency’s records. These were the following:
+WestJet $6,434.29
+1202232 Alberta Ltd. $8,847.00
+Silverbirch No. 4 Operations Limited $283.92
+501874 Alberta Ltd. $75.40
+819887 Ontario Inc. $4,405.00
+Total: $20,045.61
+[8] The $4,405 which is the amount shown on the T4 slip issued by Warren Youth Services (819887 Ontario Inc.) was 22% of her total income for 2006 based on these T4 slips and 29% of her reported income from employment for 2006. In filing her return for 2006 the Appellant reported income from employment of $15,281.58.
+[9] In 2007 the Appellant worked for WestJet for the entire year. For part of the year she worked in the call centre and for the rest of the year she worked as a flight attendant. WestJet issued two T4 slips for 2007 – one for $8,560.09 and another one for $16,816.36. In filing her tax return for 2007, the Appellant reported employment income of $20,343.70 which was $9.26 more than the amounts as shown on the T4 slips that were included with her return. The T4 slips that were included with her return were the following:
+WestJet $8,560.09
+Government of the Province of Alberta $9,526.35
+Central Alberta’s Safe Harbour Society $2,248.00
+Total: $20,334.44
+[10] The second T4 slip issued by WestJet for $16,816.36 was not included with her tax return and the amount of income as shown on this T4 slip was not included in her income as reported for 2007. However since she had reported $9.26 more in employment income than was disclosed on the above T4 slips, the unreported income amount was $16,816.36 - $9.26 = $16,807.10.
+[11] The only explanation provided by the Appellant for the failure to include the unreported employment income amounts in her tax returns was that she did not prepare her tax returns. The Appellant’s mother prepared her tax returns. When the Appellant received the T4 slips she did not open the envelope and simply put the T4 slips in another envelope and sent them to her mother. Her mother did not question her income and the Appellant did not review her tax returns. The amount that she failed to report in 2007 was significant. Her only reported income for 2007 was the income from employment which she reported as $20,343.70. The unreported amount of $16,807 was 83% of the amount she reported and 45% of her total income for 2007 of $37,151.
+[12] In Saunders, supra, Justice Woods stated that:
+12 The penalty in subsection 163(1) is one of strict liability, although this Court has held that it can be vacated if the taxpayer can establish due diligence.
+[13] Justice Boyle in Dunlop v. The Queen, 2009 TCC 177, 2009 D.T.C. 650, [2009] 6 C.T.C. 2223 reiterated that the penalty will not apply if the taxpayer “can demonstrate he exercised a requisite degree of due diligence”.
+[14] In the recent decision of the Federal Court of Appeal in Les Résidences Majeau Inc. v. The Queen, 2010 FCA 28, Justice Létourneau, on behalf of the Federal Court of Appeal, stated as follows:
+7 As far as the penalty is concerned, we are satisfied that the judge did not make any mistake in upholding it. To avoid this penalty, the appellant had to establish that it was duly diligent.
+8 According to Corporation de l'école polytechnique v. Canada, 2004 FCA 127, a defendant may rely on a defence of due diligence if either of the following can be established: that the defendant made a reasonable mistake of fact, or that the defendant took reasonable precautions to avoid the event leading to imposition of the penalty.
+9 A reasonable mistake of fact requires a twofold test: subjective and objective. The subjective test is met if the defendant establishes that he or she was mistaken as to a factual situation which, if it had existed, would have made his or her act or omission innocent. In addition, for this aspect of the defence to be effective, the mistake must be reasonable, i.e. a mistake a reasonable person in the same circumstances would have made. This is the objective test.
+10 As already stated, the second aspect of the defence requires that all reasonable precautions or measures be taken to avoid the event leading to imposition of the penalty.
+[15] Although the penalty in issue is not identified in the decision of the Federal Court of Appeal, it appears from the decision[1] which was appealed to the Federal Court of Appeal that the penalty in issue is the penalty that was, prior to April 1, 2007, imposed under section 280 of the Excise Tax Act. The imposition of this penalty was also subject to the due diligence defence (see Pillar Oilfield Projects Ltd. v. The Queen, [1993] G.S.T.C. 49).
+[16] There is no reasonable mistake of fact in this case. The Appellant can hardly be found to have made a reasonable mistake of fact that all of her employment income from WestJet was reported on the one T4 slip that she sent to her mother when she did not even open the envelope in which she received the T4 slip or review her tax return. Likewise the Appellant cannot establish that she took reasonable precautions to avoid the event that led to the imposition of the penalty. The events that led to the imposition of the penalty were the failure of the Appellant to include income in her tax returns for 2006 and 2007. The failure of the Appellant to open the envelopes in which her T4 slips were sent to her or review her tax returns demonstrates that she did not take any reasonable precautions to avoid the failure to include the unreported amounts in her tax returns.
+[17] As a result the appeal is dismissed without costs.
+Signed at Toronto, Ontario, this 6th day of May, 2010.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2010TCC251
+COURT FILE NO.: 2009-3558(IT)I
+STYLE OF CAUSE: JENNIFER D. PORTER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: March 26, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: May 6, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Robert Neilson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2009 TCC 286, [2009] G.S.T.C. 90, [2009] 2009 G.S.T.C. 118

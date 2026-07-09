@@ -1,0 +1,164 @@
+Title: Bourabaa c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/351975/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-245-351975-bourabaa-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-12-12
+
+# Bourabaa c. La Reine
+
+- Citation: 2018 CCI 245
+- Decision date: 2018-12-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4981, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bourabaa c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-12-12
+Référence neutre
+2018 CCI 245
+Numéro de dossier
+2017-2096(GST)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2017-2096(GST)I
+ENTRE :
+BADR BOURABAA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 13 juin 2018, à Sherbrooke (Québec).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Avocat de l’appelant :
+Me Guy Plourde
+Avocat de l’intimée :
+Me Mario Pelletier
+JUGEMENT
+L’appel à l’encontre de la cotisation établie à l’égard de l’appelant en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 2 février 2016 et porte le numéro F-061467 pour les périodes du 1er décembre 2013 au 28 février 2014, du 1er mars au 31 mai 2014 et du 1er septembre au 30 novembre 2014, est accueilli et la cotisation est annulée.
+Signé à Ottawa, Canada, ce 12e jour de décembre 2018.
+« Réal Favreau »
+Juge Favreau
+Référence : 2018 CCI 245
+Date : 20181212
+Dossier : 2017-2096(GST)I
+ENTRE :
+BADR BOURABAA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel à l’encontre d’une cotisation établie à l’égard de l’appelant par le ministre du Revenu du Québec, en tant que mandataire du ministre du Revenu national, (ci-après le « ministre ») en vertu du paragraphe 323(1) de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E-15, telle que modifiée, (la « LTA »), dont l’avis est daté du 2 février 2016 et porte le numéro F-061467, pour les périodes du 1er décembre 2013 au 28 février 2014, du 1er mars au 31 mai 2014 et du 1er septembre au 30 novembre 2014 (les « périodes visées »).
+[2] L’appelant a été tenu solidairement responsable avec la société 9282-8490 Québec inc. (« 9282 »), à titre d’administrateur, des montants de taxes nettes que cette dernière avait omis de verser au ministre. Le montant cotisé en vertu de la cotisation s’élève à une somme totale de 12 414,61 $ pour les périodes visées.
+[3] En établissant la cotisation à l’égard de l’appelant, le ministre s’est fondé sur les conclusions et les hypothèses de fait suivantes :
+a) La société 9282-8490 Québec inc. (ci-après la « société »), est une personne morale constituée depuis le 24 mai 2013 en vertu de la Loi sur les sociétés par actions;
+b) Les activités commerciales de la société consistent essentiellement dans l'opération d'un restaurant;
+c) L'appelant, M. Badr Bourabaa, est le premier actionnaire, l'un des administrateurs de la société, ainsi que son président depuis sa constitution;
+d) Toutes les fournitures effectuées par la société pendant la période en litige, constituaient des fournitures taxables pour lesquelles la TPS sur la valeur de la contrepartie de la fourniture était payable à la société, laquelle devait la percevoir et la remettre au Ministre;
+e) La société a omis de remettre au ministre la TPS perçue pour la période du 1er décembre 2013 au 31 mai 2014, et elle n'a produit aucune déclaration de taxes pour la période du 1er septembre 2014 au 30 novembre 2014;
+f) Au terme de la vérification effectuée par le Ministre et dont les observations seront plus amplement détaillées ci-dessous, le Ministre est venu à la conclusion que la société a, pour les périodes visées, omis de lui remettre un montant total de 12 414,61 $ à titre de TPS nette perçue ou a [sic] percevoir, mais non remise;
+g) Le 29 juillet 2015, un certificat de non-paiement fût émis à rencontre de la société;
+h) Toutes les tentatives pour percevoir les sommes dues par la société étant demeurées infructueuses, un bref de saisie-exécution fut émis le 9 octobre 2015 et fut rapporté insatisfait le 12 novembre 2015;
+i) L'appelant était l'un des administrateurs de la société durant la période comprise entre le 31 mars 2014 et le 31 décembre 2014;
+j) Le 2 février 2016, le Ministre a émis l'avis de cotisation portant le numéro F‑061467 à l'égard de l'appelant, en son titre d'administrateur de la société, afin de lui réclamer les montants de TPS nette dus par la société, le tout en vertu du paragraphe 323 (1) de la LTA;
+k) L'appelant, à titre de président, administrateur et actionnaire de la société, n'a pas agi avec le degré de soin, de diligence et de compétence dont une personne raisonnablement prudente aurait fait preuve dans des circonstances comparables, pour prévenir le manquement aux obligations de la société aux termes de la LTA;
+l) Par conséquent, le Ministre a cotisé l'appelant, en son rôle d'administrateur de la société, pour un montant total de 12 414,61 $;
+[4] M. Bourabaa, un marocain d’origine, a témoigné à l’audience pour expliquer les circonstances entourant l’ouverture et le mode d’opération du restaurant Déjeuner Eggspresso, Café Bistro à Magog en juin 2013. Il a expliqué qu’alors qu’il était chef exécutif à l’Auberge Lac-Brome, il a été approché par Mme Nicole Gallant pour ouvrir un nouveau restaurant à Magog pour offrir les déjeuners et les dîners. Mme Gallant était propriétaire de Vinestrie inc. qui opérait un magasin vendant du matériel pour la production de vin. Les parties se sont entendues pour la constitution d’une nouvelle société détenue sur la base de 50-50, financée par des investissements en capital de 25 000 $ chacun, et en vertu de laquelle Mme Gallant devait s’occuper de la gestion et de l’administration du restaurant alors que l’appelant devait s’occuper de la cuisine et des achats auprès des fournisseurs.
+[5] La société 9282-8490 Québec inc. a été constituée le 24 mai 2013 en vertu de la Loi sur les sociétés par actions du Québec. Les actionnaires et administrateurs de 9282 étaient M. Bourabaa et Mme Gallant et les officiers nommés étaient M. Bourabaa en tant que président et Mme Gallant en tant que secrétaire-trésorière.
+[6] Le 25 juin 2013, 9282 a signé un bail notarié avec la société 9010‑9869 Québec inc. pour la location d’un local commercial situé au 1747, rue Sherbrooke à Magog. Le terme du bail était pour une période de 10 ans commençant rétroactivement le 1er mai 2013. Pour la période du 1er mai au 30 juin 2013, le loyer était gratuit, mais le locataire devait payer 800 $ par mois pour le fonds de commerce. Pour la période du 1er juillet 2013 au 30 avril 2014, le loyer était de 2 500 $ mensuellement auquel s’ajoutait la somme de 800 $ par mois pour le fonds de commerce. Pour la période annuelle suivante, le loyer de base était de 3 000 $, plus 800 $ par mois pour le fonds de commerce. Pour les périodes annuelles suivantes, le loyer de base augmentait de 300 $ à 400 $ par mois avec un plafond de 4 000 $ par mois. Le bail a été signé par M. Bourabaa et par Mme Gallant pour le compte de 9282 et par eux personnellement en tant que caution des obligations contractées en vertu du bail.
+[7] M. Bourabaa a expliqué qu’il a financé sa mise de fonds dans 9282 par un emprunt de 25 000 $ contracté auprès de M. Jean-Guy Veilleux, le propriétaire de la société 9010-9869 Québec inc. qui a loué le local commercial à 9282.
+[8] En tant que président de 9282, M. Bourabaa a signé plusieurs documents de la Caisse Desjardins du Lac-Memphrémagog dont les suivants :
+− une demande d’admission de personne morale datée du 24 mai 2013 pour ouvrir un compte (également signée par Mme Gallant);
+− un engagement à titre de caution pour une marge de crédit de 10 000 $ et pour des cartes d’affaires ayant une limite cumulative de 10 000 $ (également signé par Mme Gallant), daté du 4 juillet 2013; et
+− une résolution de 9282 selon le modèle de Desjardins & Cie pour demande et gestion de compte de carte de crédit Desjardins, datée du 5 juillet 2013.
+[9] En tant que secrétaire de 9282, Mme Gallant a signé seule plusieurs résolutions concernant les signataires autorisés des chèques et autres effets de commerce de 9282 dont les suivants :
+− une première résolution et attestation concernant l’administration d’une personne morale exigeant une seule signature, soit celle du secrétaire ou celle du président de 9282, datée du 2 juillet 2013;
+− une deuxième résolution et attestation d’une personne morale concernant l’administration d’une personne morale exigeant deux signataires, soit celle du président et celle du secrétaire de 9282, datée du 27 novembre 2013, et
+− une troisième résolution et attestation concernant l’administration d’une personne morale exigeant la signature du secrétaire de 9282, datée du 16 juillet 2014.
+[10] M. Bourabaa a de plus expliqué que le restaurant a débuté ses opérations en juin 2013. Il a confectionné le menu et a participé au choix des fournisseurs et à l’embauche des employés dans la cuisine (4 ou 5 personnes en rotation). Le restaurant ouvrait à 6h00 et M. Bourabaa y travaillait jusqu’à vers 14h00. Il quittait alors le restaurant pour se rendre au Ripplecove, Hôtel sur le Lac, situé à Ayer’s Cliff où il s’occupait du service du soir. M. Bourabaa a expliqué qu’il a dû prendre cet emploi pour faire vivre sa famille vu que l’entente avec Mme Gallant était à l’effet que les deux propriétaires ne seraient pas payés pour leurs services pendant la première année d’opération du restaurant pour permettre au restaurent de bien s’établir.
+[11] En juin 2014, soit un an après l’ouverture du restaurant, M. Bourabaa a abordé à nouveau la question salariale avec Mme Gallant. La discussion a mal tourné et Mme Gallant a expulsé M. Bourabaa du restaurant. Elle a alors fait changer les serrures du restaurant et lui a ordonné de ne plus remettre les pieds au restaurant. À partir de son expulsion, M. Bourabaa n’a plus eu accès au restaurant, ni aux livres et registres de 9282.
+[12] Comme M. Bourabaa en était à sa première expérience en tant qu’actionnaire et administrateur d’une société et qu’il n’était pas familier avec les lois applicables, il n’a pas eu le réflexe de démissionner comme administrateur de 9282 au moment de son expulsion.
+[13] Lors de son témoignage, M. Bourabaa a affirmé et il a signé une déclaration sous serment à l’effet qu’il n’a jamais été informé avant son expulsion des manquements de 9282 à l’égard des taxes (TPS et TVQ) et qu’aucun indice de la part des employés, des fournisseurs ou des gouvernements ne lui laissait croire que les remises de taxes n’étaient pas effectuées. Mme Gallant s’occupait de la gestion et de l’administration de 9282. C’est elle qui remettait au comptable les factures, rapports et autres documents pour la tenue de livres et la préparation des rapports d’impôts et des états financiers. Mme Gallant a indiqué à M. Bourabaa en septembre 2013 qu’elle effectuait les remises de taxes par le biais du service Accès D de Desjardins. M. Bourabaa a de plus affirmé qu’il n’avait pas accès aux chiffres montrant les résultats d’opération du restaurant et, qu’à chaque fois qu’il posait des questions à ce sujet, Mme Gallant lui disait qu’ils faisaient leurs frais.
+[14] Selon M. Bourabaa, Mme Gallant a continué d’exploiter le restaurant après son expulsion et elle a signé un nouveau bail avec la société propriétaire de l’immeuble. Elle a opéré le restaurant jusqu’au mois de novembre 2014, soit le mois au cours duquel elle a fermé le restaurant en emportant avec elle l’ensemble des livres comptables, des rapports du module d’enregistrement des ventes (le « MEV ») et des documents administratifs en plus des caisses enregistreuses du restaurant.
+[15] Suite à son expulsion du restaurant, M. Bourabaa a mandaté un agent pour tenter de récupérer son investissement de 25 000 $, mais sans succès. Par contre, il a dû rembourser le prêt de 25 000 $ qu’il avait contracté auprès du propriétaire de la société 9010-9869 Québec inc.
+[16] M. Bourabaa a poursuivi son récit des évènements en expliquant que, suite à la fermeture du restaurant en novembre 2014, le propriétaire de la société 9010-9869 Québec inc. lui a offert de repartir les opérations du restaurant. À cette fin, il lui a consenti un nouveau prêt personnel d’un montant de 10 000 $ et la société 9010-9869 Québec inc. a signé un nouveau bail avec M. Bourabaa personnellement pour une durée de 5 ans débutant le 1er décembre 2014. M. Bourabaa a donc rouvert le restaurant et il a embauché certains des anciens employés. Étant une entreprise individuelle, M. Bourabaa a obtenu de nouveaux numéros de taxes et un permis d’alcool le 7 avril 2015.
+[17] Finalement, M. Bourabaa a affirmé que suite à son expulsion du restaurant en juin 2014, il n’a signé aucun document relativement à 9282. Il a, par contre, reconnu qu’il a signé des chèques en blanc qu’il a remis à Mme Gallant au cours de la période où les deux signatures des officiers de 9282 étaient nécessaires.
+[18] M. Jean-Paul Boudreau a également témoigné à l’audience en tant que propriétaire de l’entreprise Gestion Multiservices Pme qui faisait la tenue de livres de 9282 et dont les bureaux étaient situés au-dessus du local où 9282 exploitait son restaurant.
+[19] M. Boudreau a affirmé que son entreprise faisait la tenue de livres de 9282 suite au mandat obtenu de Mme Nicole Gallant qui apparaissait être l’âme dirigeante de 9282. Mme Gallant était la personne contact et c’est elle qui lui remettait les factures, les données et autres informations nécessaires pour la tenue de livres et la préparation des payes des employés. Il a affirmé ne pas avoir eu de contacts avec M. Bourabaa sauf au début des opérations du restaurant lorsqu’il s’est présenté.
+[20] M. Boudreau dont la formation universitaire était en économie et en administration (donc pas C.A. ni C.P.A.) a admis avoir signé, sans autorisation et en imitant la signature de M. Bourabaa, le formulaire MR69 et la déclaration de revenus de 9282 pour l’exercice financier terminé le 30 avril 2014 afin de faire profiter 9282 d’un crédit d’impôt qui risquait d’être perdu. Les deux documents portaient la date du 28 avril 2015. M. Boudreau a de plus reconnu qu’il savait que M. Bourabaa avait été expulsé du restaurant en juin 2014 et il n’a pu fournir d’explication quant aux raisons pour lesquelles il a imité la signature de M. Bourabaa et non celle de Mme Gallant avec qui il faisait régulièrement affaires; cette dernière étant responsable de la comptabilité de 9282.
+[21] Selon M. Boudreau, 9282 était déficitaire et ne générait aucun profit. Il y avait trop d’employés pour le volume d’affaires. Le coût de la main d’œuvre était à 60 %. Les états financiers maison joints à la déclaration de revenus du Québec montrent que 9282 a encouru une perte d’opérations de 78 387 $ au 30 avril 2014, soit à la fin de son premier exercice financier. Selon le témoin, les opérations de 9282 étaient déficitaires depuis le début des opérations du restaurant de sorte qu’à la fin du mois de novembre 2013, la mise de fonds initiale des actionnaires de 50 000 $ avait été épuisée.
+[22] À la connaissance de M. Boudreau, Mme Gallant signait les formulaires de déclaration des taxes (TPS et TVQ) et effectuait les remises de taxes. Les déclarations de taxes ont été produites tout au long de l’exercice financier terminé le 30 avril 2014, mais les remises de taxes ont cessé d’être effectuées à partir de novembre 2013. Les déductions à la source sur le salaire des employés ont cessé d’être versées à compter de février 2014.
+[23] En terminant, M. Boudreau a confirmé que M. Bourabaa n’a pas reçu de salaire au cours de l’exercice financier terminé le 30 avril 2014 alors que Mme Gallant en a reçu.
+[24] M. Stéphane Houle, un cuisinier qui a travaillé au restaurant exploité par 9282 de juin à novembre 2014, a témoigné à l’audience et a confirmé que Mme Gallant était la patronne et la propriétaire et qu’il n’a jamais vu M. Bourabaa au restaurant. C’est elle qui a annoncé aux employés la fermeture du restaurant en novembre 2014 et qui a offert aux employés de prendre la nourriture disponible. Le témoin n’a pas eu de problèmes avec sa paye, mais il a mentionné que des fournisseurs auprès de qui il faisait des achats se plaignaient de ne pas avoir été payés pour des fournitures livrées au restaurant.
+Analyse et conclusion
+[25] Les dispositions de la LTA applicables en l’espèce sont les paragraphes 299(4) et 323(1) et 323(3) qui se lisent comme suit :
+Art. 299(4) Présomption de validité – Sous réserve d’une nouvelle cotisation et d’une annulation prononcée lors d’une opposition ou d’un appel fait selon la présente partie, une cotisation est réputée valide et exécutoire malgré les erreurs, vices de forme ou omissions dans la cotisation ou dans une procédure y afférente en vertu de la présente partie.
+Art. 323. Responsabilité des administrateurs
+(1) Responsabilité des administrateurs
+Les administrateurs d’une personne morale au moment où elle était tenue de verser, comme l’exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette ou, comme l’exige l’article 230.1, un montant au titre d’un remboursement de taxe nette qui lui a été payé ou qui a été déduit d’une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+[. . .]
+(2) Diligence – L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[26] Le paragraphe 299(4) de la LTA prévoit que l’avis de cotisation émis bénéficie d’une présomption de validité. Il incombe ainsi à l’opposant de « démolir » cette présomption en présentant une preuve prima facie (voir Hickman Motors Ltd. c. Canada, [1997] 2 RCS 336).
+[27] Par ailleurs, le paragraphe 323(1) de la LTA établit une responsabilité pour les administrateurs d’une personne morale qui fait défaut de verser un montant de taxe nette en temps opportun. Les administrateurs ainsi responsables sont solidairement tenus avec la personne morale de payer le montant de taxe nette ainsi que les intérêts et les pénalités afférents.
+[28] Par contre, en vertu du paragraphe 323(3) de la LTA, un administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[29] La société 9282 a omis de remettre à l’Agence du Revenu du Québec (l’« ARQ ») des sommes concernant la taxe sur les produits et services et a été cotisée en conséquence. Les périodes cotisées sont celles du 1er décembre 2013 au 28 février 2014, du 1er mars au 31 mai 2014 et du 1er septembre au 30 novembre 2014. La société 9282 n’a pas logé d’avis d’opposition à l’encontre de ces cotisations.
+[30] Le 29 juillet 2015, un certificat précisant la somme pour laquelle la société 9282 est responsable a été obtenu, lequel certificat a été enregistré à la Cour fédérale le 4 août 2015. Le bref de saisie-exécution contre 9282 daté du 9 octobre 2015 a constaté le défaut d’exécution totale à l’égard de la somme réclamée.
+[31] Les périodes de déclaration en litige correspondent à la 3e et à la 4e période de déclaration de la première année d’opération du restaurant et à la 2e période de déclaration de la deuxième année d’opération du restaurant. Les périodes de déclaration en litige ne sont donc pas consécutives.
+[32] La défense de diligence raisonnable prévue au paragraphe 323(3) de la LTA, qui est invoquée par l’appelant, a fait l’objet de nombreuses décisions de la part de cette Cour et des Cours supérieures. Les critères d’application de cette exception à la responsabilité des administrateurs ont été considérés dans l’arrêt Buckingham c. La Reine, 2011 CAF 142. Il ressort de cette décision que la norme à appliquer est une norme objective comme en fait foi le passage qui suit :
+[38] Cette norme objective écarte le principe de common law selon lequel la gestion d’une société par un administrateur doit être jugée suivant les compétences, les connaissances et les aptitudes personnelles de celui-ci : Magasins à rayons Peoples, aux paragraphes 59 à 62. Si l’on qualifie cette norme d’objective, il devient évident que ce sont les éléments factuels du contexte dans lequel agissent l’administrateur qui sont importants, plutôt que les motifs subjectifs de ce dernier : Magasins à rayons, au paragraphe 63. [. . .]
+[33] Dans l’arrêt Buckingham, la Cour d’appel fédérale a toutefois affirmé que les facteurs contextuels font partie d’une analyse de la norme objective :
+[30] Une norme objective ne signifie toutefois pas qu’il ne doit pas être tenu compte des circonstances propres à un administrateur. Ces circonstances doivent être prises en compte, mais elles doivent être considérées au regard de la norme objective d’une « personne raisonnablement prudente ». [. . .]
+[34] Par conséquent, en l’espèce, la Cour doit évaluer, selon une norme objective, si l’appelant a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[35] La Cour d’appel fédérale a, de plus, précisé dans l’arrêt Buckingham que l’examen du moyen de défense fondé sur la diligence raisonnable devait englober les mesures qui ont été prises en vue de prévenir le défaut de la société de verser les montants requis. La Cour d’appel fédérale s’est en effet exprimée en ces termes :
+[40] L’objectif de l’examen prévu aux paragraphes 227.1(3) de la Loi de l’impôt sur le revenu et 323(3) de la Loi sur la taxe d’accise différera toutefois de celui qu’exige l’alinéa 122(1)b) de la LCSA, car les premières dispositions requièrent que l’administrateur s’acquitte de son obligation de soin, de diligence et d’habileté de manière à prévenir les défauts de versement. Pour invoquer ces moyens de défense, l’administrateur doit par conséquent démontrer qu’il s’est préoccupé des versements requis et qu’il s’est acquitté de son obligation de soin, de diligence et d’habileté afin de prévenir le défaut de la société de verser les montants visés.
+[36] Dans le cas présent, nous avons la situation d’un contribuable qui en est à sa première expérience en tant qu’administrateur et officier d’une personne morale. Il a investi 25 000 $ dans la société 9282, présumément sous forme de capital-actions. Il a cautionné les obligations du bail conclu avec la société 9010‑9869 Québec inc. de même que les obligations bancaires contractées auprès de Desjardins. Il s’est privé de salaire pendant une année complète pour assurer le bon démarrage du restaurant et il a dû au cours de cette période, prendre un second travail pour faire vivre sa famille.
+[37] Le témoignage de M. Bourabaa à l’audience est crédible et M. Bourabaa m’a semblé être une personne raisonnable qui a agi de bonne foi dans le respect de ses engagements financiers. De plus, je crois sa version des faits à l’effet qu’il a été tenu à l’écart de la gestion du restaurant (référence au témoignage de M. Jean‑Paul Boudreau) et qu’il n’a pas eu connaissance d’indices de la part de Mme Gallant, de M. Jean-Paul Boudreau, d’autres employés, des fournisseurs et des gouvernements fédéral ou québécois que la société 9282 avait des difficultés financières et ne respectait pas ses obligations fiscales. La preuve a révélé qu’en septembre 2013, M. Bourabaa s’est fait dire par Mme Gallant qu’elle effectuait les remises de taxes par le biais du service Accès D de Desjardins et que les taxes étaient payées. D’ailleurs, les périodes de déclaration cotisées sont celles débutant le 1er décembre 2013 et non celles comprises entre le 1er juin et le 30 novembre 2013. Lors de son témoignage, M. Bourabaa a indiqué qu’à chaque fois qu’il posait des questions à Mme Gallant concernant les résultats d’opération du restaurant, elle le rassurait en lui disant qu’ils faisaient leurs frais.
+[38] Lors de son expulsion du restaurant en juin 2014, M. Bourabaa ne savait pas et il n’avait aucune raison de croire que la société 9282 avait des difficultés financières. D’ailleurs, la période de déclaration de taxe de la société 9282 débutant le 1er juin 2014 et se terminant le 31 août 2014, ne fait pas partie des périodes cotisées.
+[39] M. Bourabaa a également démontré, preuve à l’appui, qu’à compter de juin 2014, il a été exclu du restaurant et qu’il n’a pas eu accès au restaurant, ni aux livres et registres de la société 9282 et qu’il n’a d’aucune façon été impliqué dans les affaires de la société 9282, et ce, malgré le fait qu’il n’a pas officiellement démissionné comme administrateur de la société 9282 et soit demeuré actionnaire de la société 9282.
+[40] Compte tenu de ce qui précède, les circonstances propres à M. Bourabaa doivent être prises en compte au regard de l’application de la norme objective d’une personne raisonnablement prudente. M. Bourabaa manquait certes d’expérience en affaires et a dû occuper un deuxième emploi pour faire vivre sa famille. Il a été berné par Mme Gallant qui n’a pas respecté l’entente initiale de ne pas se verser de salaire lors de la première année d’opération du restaurant et elle lui a fait des représentations à l’effet que les taxes étaient payées et qu’ils faisaient leurs frais. M. Bourabaa n’a pas eu connaissance d’indices à l’effet que la société 9282 avait des difficultés financières. Enfin, à compter de juin 2014, M. Bourabaa était dans l’impossibilité de poser quelques gestes que ce soit en tant qu’administrateur de la société 9282.
+[41] Pour ces motifs, l’appel est accueilli et la cotisation est annulée frais.
+Signé à Ottawa, Canada, ce 12e jour de décembre 2018.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2018 CCI 245
+Nº DU DOSSIER DE LA COUR :
+2017-2096(GST)I
+INTITULÉ DE LA CAUSE :
+BADR BOURABAA c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L’AUDIENCE :
+Le 13 juin 2018
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 12 décembre 2018
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Guy Plourde
+Avocat de l’intimée :
+Me Mario Pelletier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant:
+Nom :
+Me Guy Plourde
+Cabinet :
+Plourde Côté,
+Avocats et procureurs
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

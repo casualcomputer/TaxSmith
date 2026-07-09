@@ -1,0 +1,174 @@
+---
+title: "Cattan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26447/index.do"
+last_modified: "2004-05-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 326"
+citation2: ""
+neutral_citation: "2004 CCI 326"
+decision_date: "2004-05-03"
+language: "fr"
+item_id: "26447"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3165
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:31:20.461000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "429ead05fea640c765c882ab0c1294d86e602748c9b73d9519bac3cca1f455ca"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cattan v. The Queen
+
+- Citation: 2004 CCI 326
+- Decision date: 2004-05-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3165, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cattan v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-03
+Référence neutre
+2004 CCI 326
+Numéro de dossier
+2003-4392(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2003-4392(IT)I
+ENTRE :
+GEORGE CATTAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus par M. le juge D.G.H. Bowman, juge en chef adjoint,
+à Toronto (Ontario), le 26 avril 2004.
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Brent E. Cuddy
+____________________________________________________________________
+JUGEMENT
+Il est ordonné que les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 soient rejetés.
+Signé à Ottawa, Canada, ce 3e jour de mai 2004.
+« D.G.H. Bowman »
+J.C.A. C.C.I.
+Traduction certifiée conforme
+Suzanne M. Gauthier, trad. a., LL.L.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2004CCI326
+Date : 20040503
+Dossier : 2003-4392(IT)I
+ENTRE :
+GEORGE CATTAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman, C.C.I.
+[1] Il s'agit d'appels de cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 de l'appelant. Ces appels se rapportent à la déduction que l'appelant a demandée à l'égard des paiements effectués au titre de la pension alimentaire pour enfants qu'il a versée à son ancienne femme, Donna, d'un montant de 21 000 $ et de 18 000 $ en l'an 2000 et en 2001 respectivement.
+[2] L'appelant et son épouse se sont séparés et ont signé un accord de séparation le 24 avril 1997. Ils ont deux enfants, Christopher et Lyndsey, nés en 1984 et en 1986 respectivement. Deux dispositions de l'accord de séparation sont ici pertinentes; il s'agit des alinéas 6a) et 6b) qui sont ainsi libellés :
+[traduction]
+6. PENSION ALIMENTAIRE
+a) Le mari versera à sa femme à titre de pension alimentaire une somme mensuelle de 700 $ à compter du 1er janvier 1997. Les versements continueront à être effectués jusqu'au 1er décembre 1998 inclusivement. Par la suite, le mari n'aura plus d'autre obligation alimentaire envers sa femme. Toutefois, les parties conviennent qu'à la fin de cette période, elles examineront ensemble la question. Il est en outre convenu qu'il n'y aura pas de prorogation de la durée d'application de la présente disposition ou de modification y afférente à moins que la femme n'ait été en mesure de fournir au mari une preuve satisfaisante montrant qu'elle s'est efforcée le plus possible de devenir autonome et qu'elle n'est pas en mesure de le faire;
+b) Le mari et la femme veulent que le présent accord soit définitif en ce qui concerne toutes les demandes liées à la pension alimentaire et renoncent par les présentes à toute demande résultant de leur mariage. Les deux parties savent et reconnaissent que chacune d'elles peut faire face à des changements draconiens, radicaux ou catastrophiques en ce qui concerne leur revenu, leurs avoirs et leurs dettes, le coût de la vie ou leur santé, ou encore à des revers de fortune attribuables à des facteurs imprévus, et ce, peu importe que ces facteurs soient liés à leur mariage ou qu'ils ne le soient pas. Néanmoins, le mari et la femme conviennent qu'un changement direct ou indirect prévu ou imprévu survenu dans la situation de l'un ou de l'autre n'aura jamais pour effet de leur permettre de demander la modification des dispositions relatives à la pension alimentaire figurant dans le présent accord ou dans un jugement de divorce les concernant. Plus particulièrement, chaque partie reconnaît qu'elle peut avoir, pendant le reste de sa vie, à utiliser en totalité ou en partie son capital pour subvenir à ses propres besoins et chaque partie convient de le faire sans avoir recours à l'autre partie. La femme reconnaît expressément qu'après le 31 décembre 1998, le présent accord fera obstacle à toute demande visant l'obtention future d'une pension alimentaire.
+La clause 8 est ainsi libellée :
+8. PENSION ALIMENTAIRE POUR ENFANTS
+a) Le mari versera à sa femme pour subvenir aux besoins des enfants une somme mensuelle de 1 150 $ pour chaque enfant, à compter du 1er janvier 1997. Les versements continueront à être effectués tant que l'un des événements ci-après énoncés ne se sera pas produit :
+i) lorsque les enfants ne résideront plus chez la femme; toutefois, un enfant est considéré comme résidant chez la femme s'il s'absente de la résidence de la femme afin de fréquenter un établissement d'enseignement, d'exercer un emploi d'été ou d'aller en vacances, dans la mesure où la chose est raisonnable;
+ii) lorsqu'un enfant atteindra l'âge de 18 ans et qu'il cessera de fréquenter à plein temps un établissement d'enseignement reconnu;
+iii) lorsqu'un enfant aura terminé ses études postsecondaires;
+iv) lorsqu'un enfant se mariera ou décédera;
+c) Il est entendu que le montant de la pension alimentaire sera inclus dans le revenu de la femme à des fins fiscales et qu'il sera déduit du revenu du mari à des fins fiscales.
+[3] Même si l'obligation de verser une pension alimentaire à la femme a pris fin le 1er décembre 1998, l'appelant a continué à verser à sa femme une pension alimentaire mensuelle de 200 $ en 1999. De plus, il a continué à payer une pension mensuelle de 1 150 $ pour chaque enfant.
+[4] Au mois de décembre 1999, le fils de l'appelant, Christopher, est allé s'installer chez son père.
+[5] Le 3 janvier 2000, l'appelant et sa femme ont signé, en présence de témoins, un accord modificateur qui est ainsi libellé :
+[traduction]
+ATTENDU :
+Que les parties ont conclu un accord de séparation le 24 avril 1997 (désigné comme étant l' « accord de séparation » ) pour régler les questions de propriété et de partage de biens ainsi que les devoirs et obligations qu'ils ont l'un envers l'autre par suite de leur mariage;
+Que les parties veulent maintenant modifier l'accord de séparation;
+À CES CAUSES, en considération des engagements mutuels contenus dans le présent accord, les parties s'entendent sur les dispositions suivantes :
+MODIFICATION
+L'accord de séparation est par les présentes modifié comme suit :
+a) Le paragraphe 7 de l'accord de séparation sera modifié comme suit :
+7. GARDE ET DROIT DE VISITE
+a) Les parties auront la garde conjointe des enfants, dont la principale résidence sera établie comme suit : Christopher Jacob Adam Cattan résidera chez le mari et Lyndsey Jenna Cattan résidera chez la femme;
+b) Le mari et la femme bénéficieront tous les deux d'un droit de visite généreux et libéral à l'égard des enfants et prendront des dispositions avec les enfants eux-mêmes à ce sujet.
+b) L'alinéa 8a) de l'accord de séparation sera modifié comme suit :
+a) Le mari versera à la femme, au titre de la pension alimentaire de Lyndsey Jenna Cattan, une somme de 21 000 $ en l'an 2000 et une somme de 18 000 $ au cours de l'année 2001 et des années ultérieures.
+MAINTIEN DE L'ACCORD
+Les dispositions de l'accord de séparation, telles qu'elles sont modifiées par les présentes, continueront à être en vigueur.
+CONSEILS JURIDIQUES
+Les parties reconnaissent que chacune :
+(i) a obtenu des conseils juridiques indépendants;
+(ii) comprend l'effet de la modification de l'accord de séparation; et
+(iii) signe l'accord de son plein gré.
+[6] Cet accord constituait simplement une adaptation d'un accord que M. Cattan avait obtenu d'un ami. M. Cattan a par la suite été informé qu'il n'aurait pas dû signer l'accord et qu'il devrait le détruire. Néanmoins, il a remis l'accord à l'Agence des douanes et du revenu du Canada pour justifier la déduction relative à l'équivalent du montant pour conjoint, laquelle a de fait été admise.
+[7] Je ne puis omettre de tenir compte de l'existence de cet accord. Il visait à créer des relations juridiques entre l'appelant et son ancienne épouse. Les époux n'ont pas en fait obtenu de conseils juridiques indépendants, mais je dois supposer qu'ils étaient au courant de ce qu'ils signaient.
+[8] L'appelant soutient que si je ne puis faire aucun cas de l'accord, je devrais au moins considérer que les montants de 21 000 $ et de 18 000 $ qu'il a payés en l'an 2000 et en 2001 comportent deux éléments - une somme mensuelle de 1 200 $ destinée à Lyndsey (le paiement indexé prévu dans l'accord initial de séparation) ainsi qu'une somme mensuelle de 550 $ en l'an 2000 et une somme mensuelle de 300 $ en 2001 à l'égard de la pension alimentaire versée à la femme.
+[9] Ce n'est malheureusement pas ce que prévoit l'accord modificateur. En l'absence de l'accord modificateur, les montants payables à l'égard de Lyndsey du moins auraient probablement été déductibles. Toutefois, au vu de l'accord modifié, des modifications ont été apportées à la pension alimentaire pour enfants et aux versements à effectuer, de sorte que la date d'exécution est postérieure au mois d'avril 1997 et qu'aucun des versements ne peut être déduit par l'appelant.
+[10] Je n'énoncerai pas les dispositions du paragraphe 56.1(4) de la Loi, qui définit la « date d'exécution » et d'autres expressions. Dans la décision Kovarick c. La Reine, [2001] 2 C.T.C. 2503, on a analysé le nouveau système applicable à la déductibilité des versements effectués au titre de la pension alimentaire pour enfants qui est entré en vigueur à la suite du jugement prononcé dans l'affaire Thibaudeau c. Canada, [1995] 2 R.C.S. 627. Je n'ai pas à reprendre ici cette analyse. L'avocat de l'intimée a remis une copie de la décision Kovarick à M. Cattan.
+[11] J'ai conclu, non sans hésitation, que les appels doivent être rejetés. Les dispositions de l'accord modificateur et de la législation sont claires.
+[12] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 3e jour de mai 2004.
+« D.G.H. Bowman »
+J.C.A. C.C.I.
+Traduction certifiée conforme
+Suzanne M. Gauthier, trad. a., LL.L.
+RÉFÉRENCE :
+2004CCI326
+No DU DOSSIER DE LA COUR :
+2003-4392(IT)I
+INTITULÉ :
+George Cattan
+et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 26 avril 2004
+MOTIFS DU JUGEMENT :
+Le juge en chef adjoint D.G.H. Bowman
+DATE DU JUGEMENT ET MOTIFS DU JUGEMENT :
+Le 3 mai 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Brent E. Cuddy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,187 @@
+Title: Ramdeen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28411/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-486-28411-ramdeen-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-07-02
+
+# Ramdeen v. The Queen
+
+- Citation: 2004 CCI 486
+- Decision date: 2004-07-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1210, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ramdeen v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-02
+Référence neutre
+2004 CCI 486
+Numéro de dossier
+2003-2905(IT)APP
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003‑2905(IT)APP
+ENTRE :
+BERYL RAMDEEN,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 novembre 2003, à Toronto (Ontario)
+Devant : L’honorable juge R.D. Bell
+Comparutions :
+Pour la requérante :
+La requérante elle‑même
+Avocat de l’intimée :
+Me Craig Maw
+____________________________________________________________________
+ORDONNANCE
+VU la demande pour que soit rendue une ordonnance prorogeant le délai à l’intérieur duquel un appel peut être interjeté devant la Cour à l’égard de chacune des années d’imposition 1998, 1999 et 2000 de la requérante;
+ET VU les observations orales et écrites des parties;
+LA COUR ORDONNE , pour les motifs ci‑après joints à l’ordonnance, que la demande soit rejetée pour les trois années d’imposition.
+Il convient de noter, comme il est indiqué dans les motifs, que la requérante peut présenter une demande de prorogation du délai de dépôt d’un avis d’opposition pour son année d’imposition 2000.
+Il n’est pas adjugé de dépens.
+Signé à Ottawa, Canada, ce 2e jour de juillet 2004.
+« R.D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 26e jour de mars 2009.
+Aleksandra Koziorowska, LL.B.
+Référence : 2004CCI486
+Date : Le 2 juillet 2004
+Dossier : 2003‑2905(IT)APP
+ENTRE :
+BERYL RAMDEEN,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+MOTIFS DE L’ORDONNANCE
+Le juge Bell
+[1] La requérante voudrait que soit rendue une ordonnance prorogeant le délai à l’intérieur duquel un appel peut être interjeté à l’égard de chacune de ses années d’imposition 1998, 1999 et 2000.
+[2] Les dates pertinentes pour chacune desdites années d’imposition sont les suivantes :
+1998
+Cotisation initiale
+17 juin 1999
+Nouvelle cotisation
+28 mai 2002
+Avis d’opposition
+daté du 3 juillet 2002 et reçu par Revenu Canada le 9 juillet 2002
+Avis de ratification
+24 avril 2003
+Demande de nouvelle cotisation présentée par la requérante par courrier électronique
+29 septembre 2003
+Nouvelle cotisation en application du paragraphe 152(4.2) de la Loi de l’impôt sur le revenu
+14 octobre 2003
+Expiration de la « période normale de nouvelle cotisation »
+18 juin 2002
+1999
+Cotisation initiale
+26 avril 2000
+Nouvelle cotisation
+28 mai 2002
+Avis d’opposition
+daté du 3 juin 2002 et reçu par Revenu Canada le 9 juillet 2002
+Avis de ratification
+24 avril 2003
+Demande de nouvelle cotisation présentée par la requérante par courrier électronique
+29 septembre 2003
+Nouvelle cotisation en application du paragraphe 152(4.2) de la Loi de l’impôt sur le revenu
+14 octobre 2003
+Expiration de la « période normale de nouvelle cotisation »
+27 avril 2003
+2000
+Cotisation initiale
+11 juin 2001
+Nouvelle cotisation
+28 mai 2002
+Avis d’opposition
+daté du 3 juillet 2002 et reçu par Revenu Canada le 9 juillet 2002
+Avis de ratification
+24 avril 2003
+Demande de nouvelle cotisation présentée par la requérante par courrier électronique
+29 septembre 2003
+Nouvelle cotisation en application du paragraphe 152(4) de la Loi de l’impôt sur le revenu
+14 octobre 2003
+Expiration de la « période normale de nouvelle cotisation »
+12 juin 2004
+ANALYSE ET DISPOSITIF
+[3] L’expression « période normale de nouvelle cotisation » est définie ainsi au paragraphe 152(3.1) de la Loi de l’impôt sur le revenu (la « Loi ») :
+(3.1) Période normale de nouvelle cotisation. Pour l’application des paragraphes (4), (4.01), (4.2), (4.3), (5) et (9), la période normale de nouvelle cotisation applicable à un contribuable pour une année d’imposition s’étend sur les périodes suivantes :
+a) quatre ans suivant soit le jour de mise à la poste d’un avis de première cotisation en vertu de la présente partie le concernant pour l’année, soit, s’il est antérieur, le jour de mise à la poste d’une première notification portant qu’aucun impôt n’est payable par lui pour l’année, si, à la fin de l’année, le contribuable est une fiducie de fonds commun de placement ou une société autre qu’une société privée sous contrôle canadien;
+b) trois ans suivant le premier en date de ces jours, dans les autres cas.
+Les données du paragraphe [2] des présents motifs montrent que, pour les deux années d’imposition 1998 et 1999, la « période normale de nouvelle cotisation » avait expiré avant la demande électronique de nouvelle cotisation supplémentaire. Par conséquent, la deuxième nouvelle cotisation a été validement établie conformément au paragraphe 152(4.2). Ce paragraphe est ainsi formulé :
+(4.2) Nouvelle cotisation et nouvelle détermination. Malgré les paragraphes (4), (4.1) et (5), pour déterminer à un moment donné après la fin de la période normale de nouvelle cotisation applicable à un contribuable – particulier, autre qu’une fiducie, ou fiducie testamentaire – pour une année d’imposition le remboursement auquel le contribuable a droit à ce moment pour l’année ou la réduction d’un montant payable par le contribuable pour l’année en vertu de la présente partie, le ministre peut, sur demande du contribuable :
+a) établir de nouvelles cotisations concernant l’impôt, les intérêts ou les pénalités payables par le contribuable pour l’année en vertu de la présente partie;
+b) déterminer de nouveau l’impôt qui est réputé, par les paragraphes 120(2) ou (2.2), 122.5(3), 122.51(2), 127.1(1), 127.41(3) ou 210.2(3) ou (4), avoir été payé au titre de l’impôt payable par le contribuable en vertu de la présente partie pour l’année ou qui est réputé, par le paragraphe 122.61(1), être un paiement en trop au titre des sommes dont le contribuable est redevable en vertu de la présente partie pour l’année.
+[Non souligné dans l’original.]
+Comme il est indiqué ci‑dessus, la deuxième nouvelle cotisation a été établie conformément au paragraphe 152(4.2), parce que la requérante avait demandé une nouvelle cotisation après la « période normale de nouvelle cotisation ». Aucun avis d’opposition ne peut être déposé à l’encontre d’une nouvelle cotisation établie en vertu du paragraphe 152(4.2), le paragraphe 165(1.2) de la Loi étant ainsi rédigé :
+(1.2) Restriction [détermination de la juste valeur marchande]. Malgré les paragraphes (1) et (1.1), aucune opposition ne peut être faite par un contribuable à une cotisation établie en application des paragraphes 118.1(11), 152(4.2), 169(3) ou 220(3.1). Il est entendu que cette interdiction vaut pour les oppositions relatives à une question pour laquelle le contribuable a renoncé par écrit à son droit d’opposition.
+Par conséquent, la requérante ne peut s’opposer à la nouvelle cotisation établie le 14 octobre 2003 à l’égard de ses années d’imposition 1998 et 1999.
+[4] Pour ce qui concerne l’année d’imposition 2000, la situation est différente parce que la nouvelle cotisation n’a pas été établie conformément au paragraphe 152(4.2), mais conformément au paragraphe 152(4), dont les parties pertinentes sont ainsi rédigées :
+(4) Cotisation et nouvelle cotisation [délai de prescription]. Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+[…]
+b) la cotisation est établie avant le jour qui suit de trois ans la fin de la période normale de nouvelle cotisation applicable au contribuable pour l’année et, selon le cas : […]
+[5] Comme une nouvelle cotisation a été établie à l’égard de la requérante pour les années 1998 et 1999 le 14 octobre 2003, les avis antérieurs de nouvelle cotisation devenaient nuls et ne pouvaient constituer le fondement d’un appel. Dans l’arrêt Abrahams v. The Minister of National Revenue, 66 DTC 5451, à la page 5452, le juge Jackett, de la Cour de l’Échiquier, écrivait ce qui suit :
+[traduction] Si l’on suppose que la deuxième nouvelle cotisation est valide, il s’ensuit, selon moi, que la première nouvelle cotisation est remplacée et devient nulle. Le contribuable ne saurait être assujetti à une cotisation initiale et à une nouvelle cotisation. Il en irait différemment si une cotisation établie pour une année donnée était suivie d’une cotisation « supplémentaire » pour cette année‑là. Lorsque, cependant, la « nouvelle cotisation » prétend définir l’impôt total du contribuable pour l’année, et pas simplement un montant d’impôt s’ajoutant à celui qui a déjà été établi, la cotisation antérieure doit automatiquement devenir nulle.
+Le juge Jackett concluait que, en raison de l’existence d’une deuxième nouvelle cotisation valide, la Cour de l’Échiquier ne pouvait pas accorder à l’appelant le droit de faire annuler une cotisation antérieure.
+[traduction] Je suis donc d’avis que, puisque la deuxième nouvelle cotisation a été établie, il n’y a aucun redressement que la Cour puisse accorder dans l’appel formé contre la première nouvelle cotisation, parce que la cotisation dont appel est interjeté a cessé d’exister. Il n’y a donc pas de cotisation que la Cour puisse annuler, modifier ou renvoyer au ministre. Lorsque la deuxième nouvelle cotisation a été établie, le présent appel aurait dû être abandonné, ou bien une demande aurait dû être faite pour qu’il soit annulé.
+Ce point de vue a été adopté par la Cour d’appel fédérale dans l’arrêt TransCanada Pipelines Ltd. c. La Reine, où elle a jugé que la délivrance d’avis de nouvelle cotisation pour les années d’imposition en cause avait pour effet de remplacer les avis de nouvelle cotisation antérieurs. La Cour d’appel fédérale écrivait que les nouvelles cotisations antérieures :
+[…] ont cessé d’exister lorsque les nouvelles cotisations du 8 novembre 1999 ont été établies et il n’y avait rien que la Cour de l’impôt puisse modifier ou renvoyer au ministre.
+[9] En ce qui concerne l’année d’imposition 2000, la demande se rapportant à l’avis de nouvelle cotisation du 28 mai 2002 ne saurait être accordée pour les motifs susmentionnés, c’est‑à‑dire que la nouvelle cotisation en question a été rendue nulle par l’avis de nouvelle cotisation en date du 14 octobre 2003. La requérante n’a pas signifié d’avis d’opposition à cette nouvelle cotisation comme le requiert l’article 159 de
+la Loi. Elle aurait pu évidemment déposer un avis d’opposition dans un délai de 90 jours après la date de mise à la poste de cet avis de nouvelle cotisation. Le délai pour le faire aurait expiré (et il a effectivement expiré) le 12 janvier 2004.
+[10] La demande pour que soit rendue une ordonnance prorogeant le délai imparti pour faire appel de la nouvelle cotisation du 28 mai 2002 a été déposée le 8 août 2003. C’était avant la date de la deuxième nouvelle cotisation pour l’année d’imposition 2000, qui a été établie le 14 octobre 2003. La demande n’a pas été instruite avant le 14 octobre 2003 et, par conséquent, comme il est indiqué ci‑dessus, la nouvelle cotisation du 28 mai 2002 à laquelle la requérante pensait s’opposer était devenue nulle.
+[11] Aucun avis d’opposition n’a été déposé pour l’année d’imposition 2000 dans un délai de 90 jours après le 14 octobre 2003. Ce délai de 90 jours a expiré le 12 janvier 2004.
+[12] La demande a été instruite le 24 novembre 2003, date à laquelle la Cour a ordonné à l’intimée de déposer des observations écrites au plus tard le 10 décembre 2003, et à l’appelante au plus tard le 31 décembre 2003. Effectivement, les observations écrites de l’intimée ont été déposées auprès de la Cour le 10 décembre 2003 et celles de l’appelante le 24 décembre 2003.
+[13] Comme il est indiqué ci‑dessus, si la requérante avait reçu la présente ordonnance avant le 12 janvier 2004, elle aurait pu déposer un avis d’opposition à la nouvelle cotisation du 14 octobre 2003. Malheureusement, c’était la période des Fêtes, et le dossier du juge s’était par la suite égaré. La présente affaire n’a donc pu être promptement traitée par
+la Cour. Il est évidemment loisible à la requérante de demander au ministre du Revenu national de proroger le délai de dépôt d’un avis d’opposition à la nouvelle cotisation du 14 octobre 2003. Telle demande peut être faite conformément à l’article 166.1 de
+la Loi. Elle doit être faite dans les douze mois qui suivent l’expiration du délai de signification d’un avis d’opposition. La période de douze mois en question expirera le 12 janvier 2005. Une telle demande est présentée au ministre du Revenu national, qui peut l’accorder ou
+la refuser. Si elle est refusée par le ministre, l’appelante peut demander à la Cour d’y faire droit en vertu de l’article 166.2 de
+la Loi. Une telle demande doit être déposée dans les 90 jours suivant la mise à la poste de l’avis de la décision du ministre à l’intention du contribuable. En raison des circonstances ci‑dessus mentionnées, il est fortement recommandé au ministre de faire droit à une telle demande, si elle lui est faite. À l’évidence, l’appelante avait véritablement l’intention de s’opposer à la décision ministérielle. Si le ministre refuse la demande de la requérante, alors celle‑ci pourra, en vertu de l’article 166.2 de la Loi, demander à la Cour d’y faire droit.
+Signé à Ottawa, Canada, ce 2e jour de juillet 2004.
+« R.D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 26e jour de mars 2009.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE :
+2004CCI486
+N° DU DOSSIER DE LA COUR :
+2003‑2905(IT)APP
+INTITULÉ :
+Beryl Ramdeen et La Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 24 novembre 2003
+MOTIFS DU JUGEMENT :
+Le juge R.D. Bell
+DATE DU JUGEMENT :
+Le 2 juillet 2004
+COMPARUTIONS :
+Pour la requérante :
+La requérante elle‑même
+Avocat de l’intimée :
+Me Craig Maw
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom :
+Cabinet :
+Pour l’intimée :
+Morris Rosenberg
+Sous‑procureur général du Canada
+Ottawa, Canada

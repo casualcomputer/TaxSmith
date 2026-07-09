@@ -1,0 +1,183 @@
+---
+title: "Fox v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25075/index.do"
+last_modified: "2003-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 351"
+citation2: ""
+neutral_citation: "2003 CCI 351"
+decision_date: "2003-05-20"
+language: "fr"
+item_id: "25075"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2485
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:09:23.420000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0af824151afbe120051c501794d5c89898274d800c4e4ec725f3e1b70a63569e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fox v. The Queen
+
+- Citation: 2003 CCI 351
+- Decision date: 2003-05-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2485, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fox v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-20
+Référence neutre
+2003 CCI 351
+Numéro de dossier
+2002-1547(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-1547(IT)I
+ENTRE :
+TIMOTHY FOX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Brian Richardson (2002-1548(IT)I) le 20 mars 2003 à Fredericton (Nouveau-Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Cecil Woon
+____________________________________________________________________
+JUGEMENT
+Les appels à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998 et 1999 sont admis et l'affaire est déférée au ministre pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 20e jour de mai 2003.
+« François Angers »
+J.C.C.I.
+Traduction certifiée conforme
+ce 24e jour de février 2004.
+Ginette Côté, trad. a.
+Dossier : 2002-1548(IT)I
+ENTRE :
+BRIAN RICHARDSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Timothy Fox (2002-1547(IT)I) le 20 mars 2003 à Fredericton (Nouveau-Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Cecil Woon
+____________________________________________________________________
+JUGEMENT
+Les appels à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998 et 1999 sont admis et l'affaire est déférée au ministre pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 20e jour de mai 2003.
+« François Angers »
+J.C.C.I.
+Traduction certifiée conforme
+ce 24e jour de février 2004.
+Ginette Côté, trad. a.
+Référence : 2003CCI351
+Date : 20030520
+Dossiers : 2002-1547(IT)I
+2002-1548(IT)I
+ENTRE :
+TIMOTHY FOX,
+BRIAN RICHARDSON,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers, C.C.I.
+[1] Les appels en l'instance ont été entendus sur preuve commune. Les appelants interjettent appel d'une cotisation établie à leur égard par le ministre du Revenu national (le « ministre » ) pour les années d'imposition 1998 et 1999 relativement à un avantage imposable tiré de l'emploi exercé pour Juniper Lumber Ltd. ( « Juniper » ) et à l'utilisation d'une fourgonnette GMC d'une demi-tonne appartenant à la société.
+[2] À toutes les périodes pertinentes, les deux appelants étaient employés par Juniper comme techniciens en sylviculture. Durant les deux années en litige, Juniper fournissait une fourgonnette GMC à l'appelant Timothy Fox, qui s'en servait pour se rendre de sa résidence aux bureaux de Juniper, situés à environ 70 kilomètres. L'autre appelant, Brian Richardson, faisait le trajet aller-retour avec lui environ 95 % du temps. Il avait lui aussi accès à une fourgonnette, qu'il laissait aux bureaux de Juniper.
+[3] Les deux appelants ont témoigné qu'ils n'avaient jamais utilisé les véhicules à des fins personnelles. Ils utilisaient certes l'une des fourgonnettes pour se rendre de leurs résidences aux bureaux de Juniper, mais c'était parce que Jupiter leur demandait de ramasser ou de livrer des colis ou diverses pièces pour son compte et de visiter des chantiers en cours de route. Ni l'un ni l'autre n'était obligé par Juniper de consigner ces activités dans un livre de bord. Il leur était donc difficile de dire combien de fois par semaine au juste Juniper leur demandait d'effectuer des courses en se rendant au travail, les obligeant parfois à faire un détour.
+[4] Dans la fourgonnette qu'ils utilisaient, les appelants transportaient du matériel de lutte contre les incendies et diverses autres pièces nécessaires à leur travail. L'appelant Timothy Fox a témoigné qu'il était obligé d'être disponible en cas d'urgence et de faire des courses pour Juniper. Il lui aurait été impossible de fournir ces services avec son propre véhicule. Le territoire à couvrir pour Juniper était vaste et la plupart des routes qu'il devait emprunter étaient des chemins d'exploitation. La fourgonnette était munie d'un appareil radio émetteur-récepteur qui lui permettait de recevoir des instructions de Juniper quand il était sur la route. Les deux appelants étaient aussi appelés à combattre des incendies de forêt deux ou trois fois par année.
+[5] Même si les courses mentionnées précédemment ne faisaient pas partie de leurs fonctions comme techniciens en sylviculture, les appelants estimaient qu'il était de leur devoir comme employés de faire ces courses et de répondre aux demandes de Juniper quand survenaient des incendies de forêt ou d'autres urgences. Ils croyaient aussi que Juniper les aurait congédiés s'ils avaient refusé d'obtempérer à ses ordres. Juniper interdisait à ses employés d'utiliser les véhicules de la société à des fins personnelles à moins d'avoir obtenu les autorisations nécessaires. L'utilisation d'un véhicule à des fins personnelles était considérée comme une exception à la règle.
+[6] Le ministre a établi une cotisation à l'égard des deux appelants en vertu de l'alinéa 6(1)a) de la Loi de l'impôt sur le revenu ( « Loi » ), qui est libellé comme suit :
+a) Valeur des avantages - la valeur de la pension, du logement et des autres avantages quelconques qu'il a reçus ou dont il a joui au cours de l'année au titre, dans l'occupation ou en vertu d'une charge ou d'un emploi, à l'exception des avantages suivants :
+(i) ceux qui résultent des cotisations de son employeur à un régime de pension agréé, un régime d'assurance collective contre la maladie ou les accidents, un régime privé d'assurance-maladie, un régime de prestations supplémentaires de chômage, un régime de participation différée aux bénéfices ou une police collective d'assurance temporaire sur la vie,
+(ii) ceux qui découlent d'une convention de retraite, d'un régime de prestations aux employés ou d'une fiducie d'employés,
+(iii) ceux qui étaient des avantages relatifs à l'usage d'une automobile,
+(iv) ceux qui découlent de la prestation de services d'aide concernant :
+(A) soit la santé physique ou mentale du contribuable ou d'un particulier qui lui est lié, à l'exclusion d'un avantage imputable à une dépense à laquelle l'alinéa 18(1)l) s'applique,
+(B) soit le réemploi ou la retraite du contribuable,
+(v) ceux qui sont prévus par une entente d'échelonnement du traitement, sauf dans la mesure où l'avantage est visé au présent alinéa par l'effet du paragraphe (11).
+[7] Ainsi qu'il est indiqué, les véhicules en cause dans les appels en l'instance étaient des fourgonnettes car ils ne comptaient pas plus de deux places assises. Ce n'étaient pas des automobiles au sens du paragraphe 248(1) de la Loi. En établissant les cotisations, le ministre n'a fait aucune distinction entre les deux appelants, selon que l'un avait la fourgonnette en sa possession et l'autre était simplement un passager. Le ministre a réparti les frais de déplacement personnels également entre les deux et a ramené la distance parcourue aller-retour entre leurs résidences et leur lieu de travail à 24 000 kilomètres pour chaque année d'imposition. Les taux utilisés par le ministre sont ceux qui sont indiqués à l'article 7306 du Règlement de l'impôt sur le revenu.
+[8] La question à trancher est de savoir si les appelants ont reçu un avantage ou ont joui d'un avantage dans l'occupation ou en vertu d'un emploi en conduisant une fourgonnette ou en prenant place dans un véhicule appartenant à la société pour se rendre au travail et en revenir durant les années d'imposition 1998 et 1999.
+[9] Même si aucun représentant de Juniper n'a témoigné à l'audience, il ressort clairement de la politique de la société sur l'utilisation des véhicules que Juniper ne considérait pas que conduire l'un de ses véhicules pour se rendre au travail et en revenir constituait une utilisation à des fins personnelles. Je peux juste présumer que le but visé par cette utilisation était de répondre aux besoins de Juniper. Les frais engagés pour faire le trajet aller-retour entre le domicile et le lieu de travail sont considérés comme des frais personnels; cependant, lorsque l'employeur exige que ses employés demeurent disponibles pour répondre à ses besoins, que ce soit pour combattre des incendies de forêt ou simplement pour faire des courses les obligeant parfois à faire un détour, il m'apparaît dès lors que ces employés sont en disponibilité en tout temps, c'est-à-dire dès le moment où ils prennent place dans le véhicule de la société (en l'occurrence la fourgonnette).
+[10] La preuve indique de manière irréfutable que, lorsque les appelants utilisaient la fourgonnette pour se rendre au travail, ils étaient à la disposition de Juniper. Les fourgonnettes étaient munies d'un appareil radio émetteur-récepteur, de matériel pour lutter contre les incendies et de diverses pièces servant aux opérations de Juniper. On demandait en outre aux appelants de transporter des passagers à divers endroits. Une autre raison pour laquelle les véhicules de la société étaient aussi utilisés, c'est que les appelants empruntaient des chemins d'exploitation et couvraient un vaste territoire.
+[11] L'avocat de l'intimée a renvoyé à l'affaire Rioux c. Canada, [2002] A.C.I. no 54 (2002 DTC 1357, jugement rendu en français), dans laquelle le juge Tardif de la Cour fait observer qu'il ne suffit pas d'accommoder son employeur lors de ses déplacements quotidiens de sa résidence à son lieu de travail en faisant quelques courses pour conclure que ces déplacements sont des déplacements d'affaires. Je suis d'avis que la situation de fait qui existe en l'espèce est différente car les appelants étaient en disponibilité en cas d'urgence et devaient être à la disposition de leur employeur chaque jour. Les faits de l'affaire concordent davantage avec ceux de l'affaire Anderson et al v. The Queen, ???? C.C.I. nos 2001-3099(IT)I, 2001-3101(IT)I, 2001-3104(IT)I, 2001-3105(IT)I et 2001-3106(IT)I, 16 juillet 2002 (2002 DTC 1876). Dans cette affaire, les appelants, qui étaient employés par une société de distribution de gaz, étaient obligés de ramener à leur domicile à la fin de chaque journée de travail les camionnettes que la société leur fournissait pour accomplir leur travail et qui étaient munis des outils et du matériel nécessaires à l'exécution de leur travail. Les appelants étaient en disponibilité dès qu'ils prenaient place dans la camionnette pour se rendre au travail et ils étaient susceptibles d'être appelés à répondre à une urgence. Le juge Beaubier a fait observer ce qui suit au paragraphe 16 :
+[...] Une fois dans son véhicule, l'employé était au travail : il se trouvait au lieu d'affaires de l'employeur, il pouvait y être appelé par l'employeur au moyen de la radio installée dans le véhicule et recevoir comme directives de se rendre à l'endroit décidé par l'employeur. [...]
+[12] L'avocat de l'intimée a soutenu que les appelants étaient des techniciens en sylviculture et non pas des livreurs et que la livraison d'articles ne faisait donc pas partie de leurs fonctions. Les appelants étaient quant à eux convaincus du contraire et croyaient qu'ils auraient été congédiés s'ils avaient refusé d'effectuer les livraisons. J'accepte la thèse des appelants et je partage leur point de vue à cet égard. J'accepte également qu'une fois assis dans le véhicule, ils étaient à la disposition de Juniper. En conséquence, je conclus qu'à partir du moment où ils quittaient leur domicile pour se rendre au travail, les appelants agissaient dans l'exercice de leurs fonctions car ils étaient tenus de répondre aux demandes de leur employeur en se rendant à leur travail. C'est Juniper, non pas les appelants, qui jouit de l'avantage à tous égards.
+[13] Pour ces motifs, les appels sont admis.
+Signé à Ottawa, Canada, ce 20e jour de mai 2003.
+« François Angers »
+J.C.C.I.
+Traduction certifiée conforme
+ce 24e jour de février 2004.
+Ginette Côté, trad. a.
+RÉFÉRENCE :
+2003CCI351
+DOSSIER DE LA COUR NO:
+2002-1547(IT)I
+2002-1548(IT)I
+INTITULÉ DE L'AFFAIRE :
+TIMOTHY FOX,
+BRIAN RICHARDSON,
+c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE ;
+Fredericton (Nouveau-Brunswick)
+DATE DE L'AUDIENCE :
+20 mars 2003
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge François Angers
+DATE DU JUGEMENT :
+20 mai 2003
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocat de l'intimée :
+Me Cecil Woon
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

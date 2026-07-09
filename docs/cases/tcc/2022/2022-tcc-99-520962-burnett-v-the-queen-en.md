@@ -1,0 +1,217 @@
+---
+title: "Burnett v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520962/index.do"
+last_modified: "2022-08-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 99"
+citation2: ""
+neutral_citation: "2022 TCC 99"
+decision_date: "2022-08-31"
+language: "en"
+item_id: "520962"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4488
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:32:06.970000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5bb97d3fa524f5847b8fa58f65308f0fb347315e238bac23f59f61d0b3b03ccd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Burnett v. The Queen
+
+- Citation: 2022 TCC 99
+- Decision date: 2022-08-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4488, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burnett v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-08-31
+Neutral citation
+2022 TCC 99
+File numbers
+2018-2752(IT)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-2752(IT)G
+BETWEEN:
+GREGORY CLIFFORD BURNETT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 24th and 25th, 2021, at Vancouver, British Columbia
+Before: The Honourable Justice Bruce Russell
+Appearances:
+Counsel for the Appellant:
+John Drove
+Counsel for the Respondent:
+Mark Shearer
+JUDGMENT
+The Appellant’s appeal of the two assessments raised January 19, 2017 of his liabilities pursuant to section 227.1 of the federal Income Tax Act is dismissed, with costs.
+Signed at Halifax, Nova Scotia, this 31st day of August 2022.
+“B. Russell”
+Russell J.
+Citation: 2022 TCC 99
+Date: August 31, 2022
+Docket: 2018-2752(IT)G
+BETWEEN:
+GREGORY CLIFFORD BURNETT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+I. Background:
+[1] The appellant, Gregory Clifford Burnett, appeals two assessments raised January 19, 2017 of his liabilities pursuant to section 227.1 of the federal Income Tax Act (Act). Subsection 227.1(1) establishes liability for corporate directors respecting payroll source deductions un-remitted by the corporations of which they are directors.
+[2] Canadian Noble Cut Diamonds Ltd., is a corporation incorporated under the laws of British Columbia (CNCD).
+[3] The two appealed assessments are in the respective amounts of $36,028.49 and $42,092.80, and pertain to payroll source deductions un-remitted by CNCD during the monthly periods of January 2011 to April 2012 inclusive. During those periods Mr. Burnett was a director of CNCD.
+[4] Together the two assessed amounts total federal and provincial income taxes, Canada Pension Plan contributions and Employment Insurance premiums, being payroll source deductions, un-remitted by CNCD during these monthly periods. Also included are associated penalties and interest.
+II. Issue:
+[5] The issue is whether Mr. Burnett is entitled to the benefit of the due diligence defence provided by subsection 227.1(3) of the Act. That defence excuses from subsection 227.1(1) liability a director who, “exercised the degree of care, diligence and skill to prevent the failure [to remit] that a reasonably prudent person would have exercised in comparable circumstances.”
+III. Evidence:
+[6] Mr. Burnett testified. In summary his evidence is that he is a capital markets advisor, focussed on financing and structuring “go public” transactions for emerging businesses. He has been a director of numerous private and public corporations in his thirty years of this work.
+[7] He was introduced to CNCD in 2010 and made an equity investment in it of $100,000. He said he raised a million dollars of financing for CNCD. In August 2010 he was appointed a director of CNCD, and also appointed CNCD’s treasurer and secretary.
+[8] CNCD carried on a diamond cutting business, based at a secure Vancouver location. At these premises was kept a valuable inventory of rough cut, semi cut and finished diamonds.
+[9] CNCD’s three person board met informally, approximately monthly. The other two board members were Messrs. S. Ben-Oliel and R. Fraser. The former was president of CNCD and knowledgeable of the diamond industry. He led the day-to-day operations of CNCD. The latter was a business associate of Mr. Burnett who CNCD had retained as an advisor. Board minutes were not kept. He said each board member kept notes at their meetings, although no such notes were submitted in evidence.
+[10] Mr. Burnett said that at each board meeting he asked Mr. Ben-Oliel about whether payroll source remittances were current. The response always was to the effect that all was up to date and there were no concerns. Mr. Burnett accepted these oral statements. He called this “check the box” questioning as to CNCD’s monthly payroll obligations.
+[11] Mr. Burnett said:
+I always asked the questions, always, you know, checked the box with the recording person because the reporting person, Mr. Ben-Oliel, told me no concerns, it’s been kept up to date, but I never felt compelled to go independently check it. I just never have had to do that in the past, and I’ve just never heard of that as something that would be expected of an independent director. (Transcript, p. 44)
+[12] Mr. Burnett did nothing in connection with his officer positions as secretary and treasurer of CNCD. He did not have access to CNCD’s bank account and was not a signing officer. He viewed himself as an outside director, and as having no involvement in CNCD’s business operations.
+[13] He said CNCD had only three or four employees, including Mr. Ben-Oliel, an administrative person and a diamond-cutter. He thought the monthly payroll remittances would not have been large – in the $3,000 to 4,000 range. He emphasized that these remittances were much smaller amounts to focus on than the million dollars he had raised for CNCD.
+[14] Mr. Burnett said, “I think this is an important point for everyone to get a sense of, the payroll of this company, and the payroll liability was a very small number relative to a $2 million valuation of the business and a million dollars that we’d injected into the company.” (Transcript p. 23)
+[15] For Mr. Burnett, the priority was getting audited financial statements of CNCD prepared. They were necessary if CNCD were to be accepted as a publicly listed corporation. An accounting firm was hired shortly after he joined the board, to audit year-end financial statements of CNCD for the fiscal period ended August 31, 2010.
+[16] For Mr. Burnett, this turned out to be a frustrating and time-consuming process, continuing into and through 2011.
+[17] The accounting firm engaged in August 2010 was unsuccessful in generating auditable financial statements. The inability to generate reliable books and records that could be auditable was a sign of problems with CNCD. In April 2011 Mr. William Grossholz, a former Canada Revenue Agency (CRA) accountant, was retained to try to sort out CNCD’s accounts.
+[18] Concurrently concerns developed regarding Mr. Ben-Oliel’s corporate supervisory abilities and intentions.
+[19] Mr. Grossholz too was unable to obtain corporate information required to generate reliable books and records for CNDC.
+[20] Nevertheless, through 2011 Mr. Burnett did not develop any concern as to payroll remittances.
+[21] He was asked in cross-examination whether he had not given the payroll account the same level of priority as he did the other things going on including building the balance sheet, looking to support further fundraising and grow the valuation of the company. He answered:
+Yes, it was a materiality thing. And, again, it’s easy to look back now and go, my goodness, you know, this did add up to 50 or 60 thousand dollars. It was a materiality thing that there were more important things, by my assessment, to be focused on with the bandwidth of these meetings. And, again, that’s not to say it didn’t come up, it didn’t get addressed. Just it wasn’t a concern, wasn’t a high level concern of mine, because of the size of the payroll liability, I - again, I knew, I know I testified to this, there was only two or three or four employees. I knew the payroll liability is a very small number relative to the cash flows of the business, to the assets of the business. So, it just wasn’t on my radar as a high‑risk thing that I should have been getting more on top of in hindsight, given, you know, that we’re here today. (Transcript, pp. 57,58; underlining added)
+[22] Matters were such that in April 2012, directors Burnett and Fraser caused CNCD’s business to shut down, for CNCD being still unable to produce audited financial statements or reliable financial information. As well, by July 2012 they had procured Mr. Ben-Oliel’s resignation as CNCD president and director. An accountant, Mr. L. Andrews, was retained to recover CNCD corporate assets to sell to recompense CNCD investors.
+[23] Mr. Burnett testified that for him the first indication of payroll remittance problems occurred in October 2012 upon his receipt of a CRA letter addressed to him, dated October 4, 2012, sent to him in his capacity as a CNCD director. It gave notice of CNCD’s failure to remit payroll source deductions and of Mr. Burnett’s potential liability qua director for $63,140.80 re same.
+[24] In cross-examination Mr. Burnett was asked if the, “inability to get a grasp on the financial affairs…affect[ed] the issue of the remittance of taxes?” He responded that:
+I didn’t make a connection between that and the tiny payroll remittances that were being made every month, supposedly, and that Mr. Ben-Oliel was confirming were being made every month. It [i.e., inability to get a grasp on the financial affairs] was a much larger problem in my view….[i]t went to the whole viability of the company.” (Transcript, p. 47)
+[25] In cross-examination Mr. Burnett was referred to his notice of appeal, wherein he pleaded (para. 9(c)) that he and fellow director Fraser had requested fellow director Ben‑Oliel on a regular monthly basis to produce the accounting and financial records of CNCD, “including records regarding the status of the payroll and GST accounts and proof of payment of these accounts”, with no such records being produced.
+[26] Mr. Burnett responded that this was “fundamentally correct”. He had not said this in his direct testimony. Why he answered that the pleading was correct, “fundamentally”, was not clarified.
+[27] He also was asked why, with no proof of payments forthcoming, he had not contacted CRA. He responded:
+…I have never done that, sir, in 30 years, gone outside of the reporting structure inside of the corporation that’s established and agreed to. What we’ve always done in every company that I’ve ever been involved in there’s been a responsible person, a high-level executive, it would be either the CFO or senior executive, that has taken responsibility to report to the board on these matters. And I’ve always been under the impression I could reasonably rely on the representations of that person. And as I’ve said earlier, I’ve never had occasion ever in 30 years to go around and independently check on things with CRA as an outside director. And I’ve never even heard, as I told the Court earlier, I’ve never even heard of any independent ever do [sic] that. So, it’s just not something that was on my radar as something to ever even consider doing. (Transcript, p. 58; underlining added)
+[28] He was asked about the payroll account by the summer of 2012 after CNCD’s business operations had been shut down over concerns of management dishonesty. Could there have been dishonesty about the payroll account? His answer in part was:
+…things are so clear in hindsight, okay? I wasn’t concerned that there could be a material liability with CRA given the tiny size of the payroll and the number of employees. It just never got to my radar as being a potential material offside liability of the company when there were larger numbers of things flying around, six figure things flying around, in terms of figuring out, you know, why this piece of equipment got bought without talking to us and where this transfer of $90,000 went. (Transcript, p. 63; underlining added)
+[29] Mr. Burnett was asked why CRA had not been contacted before he received CRA’s October 4, 2012 letter, to determine if all was good with CRA. He answered:
+Again sir, I’m an independent director here. I’m not running this business. I’m not managing the business. I’m not – I’m an outside – I have no – my involvement with this company is dealing with the board. (Transcript, p. 64)
+[30] Subsequent to receipt of the CRA letter, Mr. Burnett’s focus and actions remained concentrated on trying to seize assets to repay investors; but now also to reimburse CRA for the un-remitted remittances. Efforts of the aforementioned Mr. Andrews, retained to locate assets that could be seized, were unsuccessful. The major problem was lack of documentation confirming CNCD ownership of particular assets.
+[31] As well, Mr. Burnett and other investors launched a lawsuit against Mr. Ben-Oliel and CNCD to recover assets. However, it did not proceed after the plaintiffs were ordered to first pay into court $50,000 for costs.
+[32] The other witness called by the appellant to testify was the aforementioned former CRA accountant, Mr. Grossholz. A respected accountant, in April, 2011 he was retained by director Fraser to assist in producing financial statements for CNCD, including for the August 31, 2011 fiscal year. He said he found CNCD had problems with lack of bank reconciliations and tracking inventory, complicated further by there being three related corporations run by Mr. Ben-Oliel (CNCD being one) sharing the same work premises.
+[33] Mr. Grossholz testified also that his questions to CNCD’s bookkeeping/administrative staff were not being answered. He said he found a tax liability of CNCD of about $30,000. He thought that CNCD had not paid payroll remittances, as cash was tight. After the better part of a year he was unable to provide financial statements as requested.
+[34] In cross-examination Mr. Grossholz testified that CNCD’s management – whom he identified as Messrs. Fraser and Ben-Oliel - already knew of the “payroll debt”. Mr. Burnett was asked about this and he said the direct reporting line of Mr. Grossholz was to director Fraser, said by Mr. Burnett to be part of management as CNCD had retained him as an independent contractor advisor.
+[35] The respondent Crown called the final witness - Mr. Brent Barr, a senior CRA Collections officer. His evidence identified the various Collections steps typically taken including in this matter. The steps included being in contact with CNCD and directors to try to arrange or negotiate payment of missed remittances. That would include the October 4, 2012 letter to Mr. Burnett that Mr. Burnett says was his first indication that there was a payroll remittance problem.
+[36] Further Collections steps included issuing a requirement of payment to the relevant bank where in this case the CNCD account had been closed upon CNCD in April 2012 having ceased to carry on business. Then CRA turned to seizure of corporate assets. The final step, as here, is to turn to assessment of directors.
+[37] Mr. Burnett says he communicated with CRA in November 2012 indicating assets that he thought could be seized. These were the same assets Mr. Burnett and associates then were pursuing, unsuccessfully.
+[38] A certificate for CNDC’s liability as referenced in subsection 227.1(1) of the Act, was registered in Federal Court, December 20, 2013.
+[39] On September 22, 2016, Mr. Burnett wrote to CRA under CNCD letterhead to inform re CNCD assets that could be sought to be recovered. They were the same assets Mr. Burnett et al. already had tried to recover, through Mr. Andrews, and also through Mr. D. Martin who was the lead investor in CNCD, and as well through the above-referenced legal action.
+[40] CRA also was unable to locate identifiable CNCD assets that could be seized and sold. Its writ of seizure and sale was returned December 16, 2016, stamped “Unable to Locate Exigible Assets”.
+IV. Parties’ Positions:
+[41] Appellant’s counsel submitted that Mr. Burnett had established entitlement to the due diligence defence, through asking at each director’s meeting whether the tax remittances were up to date. Further, Mr. Burnett was an outside director with no involvement in CNCD’s business operations. Also submitted was that efforts to cure failures to remit rather than just preventing such failures in the first place were relevant in applying the defence.
+[42] Also, although not pleaded, Mr. Burnett takes issue with the time that elapsed between late 2012 when he first advised CRA that there were assets available for recovery, and late 2016 when CRA’s late 2013 issued writ of seizure and sale was returned unsatisfied.
+[43] Respondent’s counsel submitted that the appellant had not established entitlement to the due diligence defence. The appellant had indicated no significant interest or priority in ensuring that remittances were made on a timely basis, if at all. The appellant’s “check the box” question asked at each director’s meeting was insufficient to establish application of the defence.
+V. Analysis and Decision:
+[44] I first address the appellant’s contention that the CRA writ of seizure and sale was not sent promptly for execution. This claim was not pleaded. As well, this Court does not have jurisdiction over Collections actions or lack thereof. In any event, Collections actions or lack thereof would have no legal bearing as to the validity of the appealed assessments.
+[45] Parenthetically it is noted that the assets Mr. Burnett identified to Collections were the same assets Mr. Burnett et al had themselves unsuccessfully sought to seize during approximately this same time period. Additionally, Mr. Barr had testified as to the several steps Collections typically will take before turning to asset seizure.
+[46] Turning to the issue properly before the Court, which is whether the appellant Mr. Burnett is entitled to the benefit of the statutory due diligence defence, the question is had he, “exercised the degree of care, diligence and skill to prevent [CNCD’s] failure [to remit] that a reasonably prudent person would have exercised in comparable circumstances.”
+[47] Mr. Burnett was clear that he viewed himself as an outside director, and as such not responsible for management of CNCD, and thus not liable for un-remitted payroll source taxes. He submits that for him it was sufficient for purposes of resort to the due diligence defence that he “checked the box” at each directors’ meeting, through enquiring re the status of payroll remittances and obtaining the oral response of fellow director and CNCD president Mr. Ben-Oliel that payroll remittances were current.
+[48] Further, he considered any issue re payroll remittances to be “tiny” in comparison with safeguarding the million dollars of investment in CNCD he had attracted (presumably including his $100,000 equity investment). He said it was a matter of “materiality” as to why his attention was wholly focused on accounting records needed to take CNCD public, rather than at all looking to whether CRA had received the requisite remittances beyond the more or less monthly “check the box” enquiries.
+[49] Virtually from the outset of his August 2010 appointment as director, Mr. Burnett was aware of difficulties in obtaining reliable financial statements from CNCD. At or about the time of his appointment an accounting firm was appointed to aid in generating the desired financial statements. Mr. Burnett testified that “this was a very important thing to [him]”:
+It is a requirement for private companies that are looking to go public to produce audited financial statements…[s]o, this was a very important thing to me, and we spent a lot of time and effort of [sic] trying to get the company’s books and records audited. (Transcript, p. 24; underlining added)
+[50] Even with CNCD’s financial picture darkening over subsequent months due to continued lack of reliable financial records, Mr. Burnett was candid in stating that as a matter of materiality he focused solely on CNCD’s financial position instead of, or as well ascertaining, whether payroll remittances were current.
+[51] As noted, Mr. Burnett said, “…it just wasn’t on my radar as a high-risk thing that I should have been getting more on top of in hindsight...”
+[52] Mr. Burnett said, in considering himself to be an outside director, he thus held no responsibility contacting CRA for confirmation that the statutory remittances were current. He could not contemplate ever communicating with CRA, even upon non receipt of requested proof that such remittances were being made. Contacting CRA would be someone else’s job.
+[53] The Federal Court of Appeal decision of R. v. Buckingham, 2011 FCA 142, sets out key principles pertaining to the subsection 227.1(3) due diligence defence. Paras. 37 – 40, 52 and 58 of Buckingham read as follow:
+37. Consequently, I conclude that the standard of care, skill and diligence required under subsection 227.1(3) of the Income Tax Act and subsection 323(3) of the Excise Tax Act is an objective standard as set out by the Supreme Court of Canada in Peoples Department Stores.
+38. This objective standard has set aside the common law principle that a director‘s management of a corporation is to be judged according to his own personal skills, knowledge, abilities and capacities: Peoples Department Stores at paras. 59 to 62. To say that the standard is objective makes it clear that the factual aspects of the circumstances surrounding the actions of the director are important as opposed to the subjective motivations of the directors: Peoples Department Stores at para 63. The emergence of stricter standards puts pressure on corporations to improve the quality of board decisions through the establishment of good corporate governance rules: Peoples Department Stores at para. 64. Stricter standards also discourage the appointment of inactive directors chosen for show or who failed to discharge their duties as director by leaving decisions to the active directors. Consequently a person who is appointed as a director must carry out the duties of that function on an active basis and will not be allowed to defend a claim for malfeasance in the discharge of his or her duties by relying on his or her own inaction: Kevin P. McGuinness, Canadian Business Corporations Law, 2nd ed.
+39. An objective standard does not however entail that the particular circumstances of a director are to be ignored. The circumstances must be taken into account, but must be considered against an objective “reasonably prudent person” standard.
+40. The focus of the inquiry under subsection 227.1(3) of the Income Tax Act and 323(3) of the Excise Tax Act will however be different than that under 122(1)(b) of the CBCA, since the former require that the director’s duty of care diligence and skill be exercised to prevent failures to remit. In order to rely on these defenses, a director must thus establish that he turned his attention to the required remittances and that he exercised his duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the concerned amounts.
+52. Parliament did not require that directors be subject to an absolute liability for the remittances of their corporations. Consequently, Parliament has accepted that a corporation may, in certain circumstances, fail to effect remittances without its directors incurring liability. What is required is that the directors establish that they were specifically concerned with the tax remittances and that they exercised their duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the concerned amounts.
+58. The trial judge was consequently correct in concluding that a defence under subsection 323(3) of the Excise Tax Act was not available after February 2003 in light of his finding that the respondent’s focus had shifted away from avoiding failures to remit the taxes owed. (Underlining added.)
+[54] With reference to subsection 227.1(3), I find that Mr. Burnett essentially exercised no degree of care, diligence and skill to prevent CNCD’s failures to remit. The request at each meeting for update as to the CNCD’s payroll remittances was simply, in Mr. Burnett’s own words, a “check the box” exercise for him.
+[55] He testified also that the pleading in his notice of appeal that he also on a monthly basis had requested production of financial records including regarding status and proof of payment of the payroll account (which had not been said in his direct examination), was “fundamentally correct”.
+[56] But at no time did Mr. Burnett pick up the phone and contact CRA to confirm whether payroll remittances were current, all the more given the red flag of inability to obtain valid CNCD financial statements. His view was that this was someone else’s job – not his as he was an outside director. There was no evidence even of Mr. Burnett asking someone else to follow-up with CRA.
+[57] One might say, as I believe respondent’s counsel alluded to, that simply asking the check the box question did not itself constitute an effort to prevent failure to make payroll source remittances on a timely basis. Rather, it is simply asking whether or not any such failure has occurred.
+[58] Exercising no significant degree of care diligence and skill is directly at odds with Buckingham, wherein the Federal Court of Appeal (FCA) at para. 52 specifies that for the due diligence defence to apply, directors must “establish that they were specifically concerned with the tax remittances and exercised their duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the concerned amounts”. (Underlining added)
+[59] That did not happen with Mr. Burnett. Rather, he articulated that on the basis of “materiality” his focus was in taking CNCD public and, latterly, seeking to salvage through asset seizures and sale the million dollars of investment he had raised for CNCD. He did not demonstrate any significant concern for the matter of payroll tax remittances.
+[60] This is not what “a reasonably prudent person” would have done. By January 2011 a reasonably prudent person in like circumstances (i.e., having been a director for at least four months and having increased concern as to CNCD’s continuing inability to generate auditable financial statements), would have gone beyond the “check the box” stage and have sought documentary proof of payroll remittances, and absent same have promptly contacted (or caused to be contacted) CRA to ascertain whether payroll source remittances were current.
+[61] Yet here, Mr. Burnett only became aware of the substantial non-currency of remittances the better part of two years later - October 2012 - and even then only through CRA specifically contacting him, not vice versa.
+[62] The fact that Mr. Burnett may have been an outside director does not help him. Buckingham makes clear that the “objective standard” of the test for judging the conduct of directors promotes more attentiveness of directors in general. At para. 38:
+Consequently, a person who is appointed a director must carry out the duties of that function on an active basis and will not be allowed to defend a claim for malfeasance in the discharge of his or her duties by relying on his or her own inaction. (Underlining added)
+[63] Furthermore, it may be questioned how uninvolved actually was Mr. Burnett in the business affairs of CNCD? First, CNCD is a small start-up corporation without the formalized internal structuring of large corporations. Second, he was, after all, also the treasurer and secretary of CNCD. Third, he was pre-occupied with concern for the lack of auditable financial records, which is an internally oriented corporate focus. Fourth, he was involved, with fellow director Fraser, in engaging each of Messers. Andrews and Grossholz for their separate work assignments in respect of CNCD. Plus, he and fellow director Fraser combined in paying Mr. Andrews’ fee. Finally, the said September 22, 2016 letter to CRA specifically is from CNCD, with Mr. Burnett signing on behalf of CNCD.
+[64] Appellant’s counsel cites Balthazard, 2011 FCA 331 in submitting that Mr. Burnett’s focus in trying to cure the failures to remit (through efforts to seize and sell corporate assets) is relevant (in addition to efforts to prevent such failures) in establishing application of the statutory due diligence defence for his client.
+[65] In Balthazard, for one GST reporting period the particular director took close interest in GST tax remittances due, and negotiated with CRA an instalment payment agreement for late remittances and some of those payments were made behind schedule. But, as the FCA said at para. 42 in Balthazard, when amounts in issue are “even belatedly” remitted by the corporation, “the director ceases to be liable...in respect of those amounts.”
+[66] Counsel points to para. 56 in Balthazard which reads:
+56. Thus, a number of facts weigh in favour of such a defence being successful in this case. I note, in particular, the appellant’s constant concern for his corporation’s tax remittances, his numerous efforts since the beginning of GCI’s financial difficulties to ensure remittance of the net tax, his numerous additional capital contributions to support the corporation throughout the period of its financial difficulties, the fact that the net tax was remitted in full for the period leading up to June 30, 2006, etc.
+[67] I do nothing in that general language of particular assistance for the appellant’s position re relevance of actions unsuccessful in curing non-remittances.
+[68] In any event at para. 32 of Balthazard the principles of Buckingham are reiterated, including the above-referenced para. 52, which specifically confirms that the due diligence defence focuses on not failing to remit on a timely basis.
+[69] Also, Qian v. R., 2013 TCC 386 was cited, as demonstrating a situation where the director did not have ability to require the company to remit the outstanding taxes, and thus her appeal of the director’s liability assessment was allowed. The facts in that case are compellingly different. The appellant director was a junior employee, and was made to be a director, fearing that she would be dismissed from her employment did she not agree to that appointment. Her advice to management to make employee salary cuts to finance the payroll remittances was unheeded so eventually she quit her employment. The relevant point here is that she did what she reasonably could to encourage payment of the remittances.
+[70] In contrast with Qian, Mr. Burnett did not have “junior” status, he willingly accepted a directorship with CNCD and he admittedly demonstrated little if any interest during the relevant period in the matter of timely payroll tax remittances. That last is the key point. To engage the due diligence defence, one need not have authority to require that the remittances be made. Rather, the test is whether the director, “exercised the degree of care, diligence and skill to prevent the failure [to remit] that a reasonably prudent person would have exercised in comparable circumstances”.
+[71] Lastly, the appellant cites Roitelman v. R., 2014 TCC 139. This as well is a case involving a director committed to ensuring remittances were made as due. He had trained a subordinate to do this during a period the director would be away for related business work. The subordinate did not follow through, although saying she had. The director was excused from liability because of his efforts to prepare the subordinate to remit on time while he was away. He was found to have taken proactive steps that a reasonably prudent person would have exercised in comparable circumstances.
+[72] In contrast Mr. Burnett, as he basically concedes, remained virtually totally focused on trying to prepare for CNCD to go public and also safeguard the million dollars of investment he had raised. For him this was a matter of “materiality”, as contrasted with spending any time, apart from asking his monthly self-termed “check the box” question, in endeavouring to ensure that the “tiny” payroll source withholdings be remitted on a timely basis.
+VI. Conclusion:
+[73] I conclude that Mr. Burnett did not exercise the degree of care, diligence and skill to prevent CNCD’s failures to remit that a reasonably prudent person would have exercised in comparable circumstances. Thus he did not meet the requirements of the subsection 227.1(3) defence of due diligence. The appeal will be dismissed, with costs.
+Signed at Halifax, Nova Scotia, this 31st day of August 2022.
+“B. Russell”
+Russell J.
+CITATION:
+2022 TCC 99
+COURT FILE NO.:
+2018-2752(IT)G
+STYLE OF CAUSE:
+GREGORY CLIFFORD BURNETT AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+November 24th and 25th, 2021
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Bruce S. Russell
+DATE OF JUDGMENT:
+August 31, 2022
+APPEARANCES:
+Counsel for the Appellant:
+John Drove
+Counsel for the Respondent:
+Mark Shearer
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John Drove
+Firm:
+John Drove Law Corporation
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

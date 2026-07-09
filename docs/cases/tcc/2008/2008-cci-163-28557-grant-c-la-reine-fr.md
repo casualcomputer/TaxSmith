@@ -1,0 +1,184 @@
+---
+title: "Grant c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28557/index.do"
+last_modified: "2008-03-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 163"
+citation2: ""
+neutral_citation: "2008 CCI 163"
+decision_date: "2008-03-20"
+language: "fr"
+item_id: "28557"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1090
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:58:47.247000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "78becd93aec8c704ab802955f995852a96507ecca7fbb0120380aacee048f930"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Grant c. La Reine
+
+- Citation: 2008 CCI 163
+- Decision date: 2008-03-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1090, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grant c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-03-20
+Référence neutre
+2008 CCI 163
+Numéro de dossier
+2007-2386(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2386(IT)I
+ENTRE :
+MARTIN R. GRANT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 29 février 2008 à Kelowna (Colombie-Britannique)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelant :
+Me Michael W. Baldwin
+Avocat de l’intimée :
+Me Andrew Majawa
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est rejeté selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 20e jour de mars 2008.
+« Campbell J. Miller »
+Juge Campbell Miller
+Traduction certifiée conforme
+ce 28e jour de juillet 2008.
+Aleksandra Koziorowska, LL.B.
+Référence : 2008CCI163
+Date : 20080320
+Dossier : 2007-2386(IT)I
+ENTRE :
+MARTIN R. GRANT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] M. Martin Grant interjette appel, sous le régime de la procédure informelle, de la cotisation établie par le ministre du Revenu national (le « ministre ») pour l’année d’imposition 2004. Le ministre a inclus dans les revenus de M. Grant le montant de 35 000 $ au motif qu’il constituait une allocation de retraite au sens de l’article 248 de la Loi de l’impôt sur le revenu (la « Loi »). M. Grant fait valoir que le montant représente des dommages-intérêts qui étaient versés non pas à l’égard de la perte d’un emploi mais plutôt relativement à un préjudice découlant de fausses déclarations faites par son ancien employeur, Weyerhaeuser Canada (« Weyerhaeuser »).
+[2] M. Grant a commencé à travailler pour Weyerhaeuser en 1999, à Vancouver. Lui et sa conjointe résidaient à Langley, dans ce qu’il a décrit comme un marché immobilier florissant. En 2001, Weyerhaeuser a proposé à M. Grant de déménager à son établissement de Grande Cache (Alberta). Selon l’appelant, Weyerhaeuser lui a offert le poste de directeur de l’entretien à Grande Cache comme un moyen d’avancement éventuel dans la société, M. Grant devant bénéficier de la sécurité d’emploi pendant les cinq années suivantes. Aucun contrat écrit n’a été conclu en tant que tel, bien que M. Grant ait indiqué avoir reçu une lettre de Weyerhaeuser qui confirmait l’entente, même s’il n’a pas présenté la lettre au procès. M. Grant a commencé à travailler à Grande Cache en mars 2002 et y a acheté une maison en mai 2002 pour 152 000 $.
+[3] En novembre 2003, Weyerhaeuser a annoncé qu’elle allait fermer l’établissement de Grande Cache. M. Grant a reçu un préavis de trois mois et a été informé qu’il recevrait l’équivalent d’un mois de salaire par année de service comme indemnité de départ. M. Grant n’était pas satisfait de cette offre, surtout que, en raison de la fermeture annoncée, les prix de l’immobilier à Grande Cache avaient diminué. Il était également d’avis que l’indemnité de départ offerte ne compenserait pas les pertes découlant de la vente de sa maison à Langley, la perte du revenu de sa conjointe à Langley et la perte de la sécurité d’emploi promise. Il a voulu obtenir des conseils juridiques et a communiqué avec Me Baldwin.
+[4] Dans une lettre datée du 10 février 1994, Me Baldwin a écrit entre autres ce qui suit à Weyerhaeuser :
+[TRADUCTION]
+M. Grant peut présenter un argument très convaincant pour montrer que son contrat de travail est en fait un contrat de travail pour une durée déterminée de cinq ans. Bien qu’il ne semble pas y avoir de contrat de travail écrit entre les parties, mon opinion se fonde sur le fait que sa lettre d’embauche l’engage expressément pour une durée de cinq ans, sans engagement analogue au‑delà des cinq années.
+[…]
+Selon les principes de redressement habituels, M. Grant a droit au coût de l’exécution complète du contrat sans obligation de limiter les dommages‑intérêts (salaire de 3,5 ans) et à tout dommage consécutif qui découle raisonnablement de l’inexécution du contrat. Cela dit, j’espère que ce qui précède pourra être compensé légalement selon la comptabilisation suivante :
+· Exécution complète du contrat : 210 000 $
+· Manque à gagner en gain en capital sur la maison de Vancouver : 50 000 $
+· Perte en capital sur la maison de Grande Cache : 30 000 $
+· Coûts accessoires pour vendre la maison de Grande Cache : 5 000 $
+· Coûts accessoires pour acheter une nouvelle maison : 8 000 $
+· Frais de réinstallation 5 000 $
+· Perte de revenu familial 40 500 $
+Perte totale 348 500 $
+[5] Dans une lettre datée du 3 mars 2004, Weyerhaeuser a offert :
+[TRADUCTION]
+[…]
+1. Un montant équivalent au salaire de sept mois plus 18 % pour la perte de tous les avantages à payer par continuation du salaire, le montant devant toutefois être limité à 50 % du solde impayé s’il obtient un autre emploi (c.‑à‑d. selon la proposition de rechange no 1 énoncée dans notre lettre d’offre originale) ou un montant forfaitaire équivalent à 90 % de ce qui précède (c.‑à‑d. selon la proposition de rechange no 2 énoncée dans notre lettre d’offre originale);
+2. Un montant additionnel de 35 000 $ à verser à titre de paiement forfaitaire.
+[…]
+[6] Il s’en est suivi un échange de lettres entre Weyerhaeuser et Me Baldwin concernant l’incidence fiscale du paiement forfaitaire de 35 000 $. Me Baldwin a fait valoir que ce montant n’était pas imposable, tandis que Weyerhaeuser était d’avis qu’il tombait sous le coup du paragraphe 6(19) ou 6(22) de la Loi de l’impôt sur le revenu, ou qu’il était en fait une allocation de retraite. Dans sa lettre du 8 mars 2004, Me Baldwin soulève pour la première fois la question de fausse déclaration lorsqu’il écrit :
+[TRADUCTION]
+[…]
+Cela étant dit, le meilleur et le vrai motif pour traiter les 35 000 $ comme un montant net (et cela en était un) est qu’aucune des dispositions de la LIR et du RIR ne s’applique à cette partie du règlement proposé puisqu’il représente le compromis issu d’une demande de dommages-intérêts pour fausse déclaration et acte de confiance préjudiciable (un délit, disons‑le) qui incluait le préjudice découlant de l’occasion manquée par rapport à la maison de M. Grant à Vancouver, la perte de revenu de son épouse et des coûts d’acquisition d’un logement temporaire à Vancouver bien après la cessation des relations d’emploi. Dès le début, j’ai été pleinement conscient de la nature du montant, j’ai rédigé avec minutie ma correspondance en conséquence et j’ai fait toutes mes propositions en fonction de cette hypothèse.
+[…]
+[7] M. Grant a finalement demandé à Me Baldwin d’accepter la position de Weyerhaeuser selon laquelle le montant était une allocation de retraite parce qu’il entendait contester cette catégorisation auprès de l’Agence du revenu du Canada (l’« ARC ») et non auprès de son ancien employeur. M. Grant a accepté de signer l’acte par lequel il renonçait à toute réclamation contre Weyerhaeuser :
+[TRADUCTION]
+[…] liée de quelque façon que ce soit à mon emploi auprès de Weyerhaeuser ou à la cessation de mon emploi […]
+[8] Selon la position de M. Grant, le montant forfaitaire de 35 000 $ a été versé comme un compromis visant à l’indemniser du préjudice résultant du délit de déclaration inexacte en raison de négligence ou de fraude, et non de l’inexécution du contrat de travail. L’indemnité de départ consistant en trois mois de préavis et en sept mois de salaire était généreuse : tout ce qui a été versé au‑delà de ce paiement doit nécessairement l’avoir été pour quelque chose d’autre que le licenciement. Me Baldwin, représentant de M. Grand, s’est fondé sur les commentaires de la Cour suprême du Canada dans l’arrêt La Reine c. Cognos[1], pour faire valoir que les actions intentées contre un employeur par un employé ne se limitent pas à la violation des contrats de travail, mais un employé peut intenter une action en responsabilité délictuelle contre l’employeur pour déclaration inexacte faite par négligence. Il répond ensuite ce qui suit aux deux questions essentielles dans ce type de cause :
+(i) N’eût été la perte de son emploi, le particulier aurait‑il reçu le paiement? Oui.
+(ii) Le but du paiement était‑il d’indemniser le particulier de la perte de son emploi? Non.
+[9] L’intimée fait valoir que l’appelant n’a pas prouvé que le paiement avait été versé à l’égard d’un délit possible. Cependant, même si je conclus que les dommages étaient liés au délit de déclaration inexacte faite par négligence, la définition « allocation de retraite » est suffisamment large pour pouvoir englober un tel paiement. Ainsi, l’intimée répond aux deux questions de façon tout à fait contraire aux réponses de l’appelant; en effet, selon elle, n’eût été la perte de son emploi, M. Grant n’aurait pas reçu les dommages.
+Analyse
+[10] L’article 248 de la Loi définit l’expression « allocation de retraite » en ces termes :
+« allocation de retraite » Somme, sauf une prestation de retraite ou de pension, une somme reçue en raison du décès d’un employé ou un avantage visé au sous‑alinéa 6(1)a)(iv), reçue par un contribuable ou, après son décès, par une personne qui était à sa charge ou qui lui était apparentée, ou par un représentant légal du contribuable :
+a) soit en reconnaissance de longs états de service du contribuable au moment où il prend sa retraite d’une charge ou d’un emploi ou par la suite;
+b) soit à l’égard de la perte par le contribuable d’une charge ou d’un emploi, qu’elle ait été reçue ou non à titre de dommages ou conformément à une ordonnance ou sur jugement d’un tribunal compétent.
+[11] Comme je l’ai dit plus tôt, le critère qui a été élaboré autour de cette définition, puisqu’il relève de la catégorisation des dommages, comporte deux volets (voir, par exemple, les décisions Overin v.R.[2] et Ahmad v. R.[3]) :
+(i) N’eût été la perte de son emploi, le particulier aurait‑il reçu le paiement?
+(ii) Le but du paiement était‑il d’indemniser le particulier de la perte de son emploi?
+En ce qui concerne la première question, j’estime que M. Grant n’aurait pas reçu les 35 000 $, n’eût été la perte de son revenu. Je ne suis pas convaincu que le paiement a été versé, comme le prétend l’appelant, pour réparer un préjudice résultant du délit de déclaration inexacte faite par négligence. J’accepte certes qu’un employé puisse avoir une cause d’action distincte contre un employeur, tel qu’il est énoncé dans l’arrêt Cognos, mais la Cour suprême du Canada a, dans cette affaire, clarifié sa position relativement au délit de déclaration inexacte faite par négligence dans un contexte de travail en ces termes :
+[…] En particulier, le fait que les déclarations inexactes alléguées soient faites avant la passation d’un contrat, par exemple au cours des négociations ou dans le cadre d’une entrevue d’embauchage, et le fait qu’un contrat soit par la suite passé par les parties n’excluent pas, en soi, une action en responsabilité délictuelle pour dommages‑intérêts fondée sur lesdites déclarations inexactes : voir, par exemple, l’arrêt Esso Petroleum, précité, et les arrêts susmentionnés qui portent expressément sur les déclarations inexactes préalables à l’emploi.
+Cela ne veut pas dire qu’en pareil cas le contrat n’est pas pertinent et qu’un tribunal devrait trancher la demande fondée sur la responsabilité délictuelle présentée par le demandeur indépendamment des dispositions contractuelles. Au contraire, selon les circonstances, le contrat subséquent peut avoir une très grande importance lorsqu’il s’agit de déterminer s’il doit être fait droit à une demande fondée sur une déclaration inexacte faite par négligence et dans quelle mesure. De fait, comme en fait foi la conclusion que j’ai tirée dans l’arrêt BG Checo, pareil contrat peut avoir pour effet d’exclure l’action fondée sur la responsabilité délictuelle et de restreindre le demandeur à tout recours qu’il peut exercer en vertu du droit des contrats. […]
+Dans l’examen de l’effet du contrat subséquent sur l’action en responsabilité délictuelle intentée par le destinataire de la déclaration, tout tourne autour de la nature des obligations contractuelles assumées par les parties et de la nature de la déclaration inexacte qui aurait été faite par négligence. Il s’agit avant tout de savoir si une obligation contractuelle précise a été créée par une condition expresse du contrat qui coïncide avec l’obligation de diligence existant en common law, que, selon le destinataire, l’auteur de la déclaration aurait violée. Autrement dit, la déclaration faite avant la signature du contrat à laquelle le demandeur s’est fié, est‑elle devenue une condition expresse du contrat subséquent? Dans l’affirmative, faute d’une considération prépondérante découlant du contexte dans lequel l’affaire a été conclue, le demandeur ne peut pas intenter une action en responsabilité délictuelle concomitante (aussi appelée concurrente) fondée sur une déclaration inexacte faite par négligence, et doit se limiter aux recours prévus par le droit des contrats. Dans mes motifs de l’arrêt BG Checo, précité, j’ai fait un examen complet des arrêts à l’appui de cette proposition, et notamment de l’arrêt de notre Cour Central Trust Co. c. Rafuse, [1986] 2 R.C.S. 147. […]
+[12] En effet, si les déclarations faites avant la signature du contrat portaient sur quelque chose qui n’a pas été repris dans le contrat de travail, alors il pourrait y avoir une action distincte. Mais je ne crois pas que ce soit le cas en l’espèce. Les déclarations dont se plaint M. Grant concernent l’offre de sécurité d’emploi de la société sous forme d’une période d’affectation de cinq ans, et de l’avancement dans la société. Comment la déclaration relative à la période de travail de cinq ans peut‑elle ne pas faire partie du contrat de travail? Il est regrettable que M. Grant n’ait pas produit la lettre confirmant l’arrangement. Toutefois, en me fondant sur son témoignage et sur la correspondance que j’ai examinée, je conclus que M. Grant avait un contrat de travail de cinq ans et que cette déclaration est incorporée dans ce contrat, ce qui empêche M. Grant d’intenter une poursuite en responsabilité civile délictuelle.
+[13] En ce qui concerne la déclaration concernant un avancement dans la société, ce point n’a pas été décrit de façon très détaillée, de sorte qu’il reste vague. Le fait pour un employeur de laisser croire à un employé que s’il accepte un déménagement il aura de meilleures chances d’avancement dans la société peut n’être rien de plus que de la poudre aux yeux. Je ne supposerai certainement pas qu’un déménagement entrave la carrière d’un employé auprès de l’employeur. Toutefois, si je devais considérer cette déclaration comme étant une déclaration inexacte faite par négligence, elle demeure de façon claire étroitement liée à l’emploi lui‑même. Ce n’est pas du tout la même situation que dans l’affaire Ahmed, où le Dr Ahmed avait vraiment été lésé par un tiers – un préjudice dont il pouvait être indemnisé sans la perte de son emploi. Les déclarations sur lesquelles M. Grant s’est fondé ne sont pas indépendantes et distinctes de l’essence même de son contrat de travail.
+[14] La question qu’il importe de se poser dans l’étude du volet « n’eût été » du critère n’est pas de savoir si les dommages découlent d’une violation du contrat de travail ou du délit de déclaration inexacte faite par négligence, mais plutôt si, aux fins de la définition d’allocation de retraite, les dommages constituent un montant reçu « à l’égard de la perte […] d’un emploi ». Donc, même si j’accepte qu’il puisse y avoir une cause d’action distincte, il n’en reste pas moins que le fait de ne pas avancer dans la hiérarchie de la société apparaît comme le résultat de la perte d’un emploi, et les dommages sont intégralement liés à l’emploi en question. Ils sont certainement versés « à l’égard de la perte […] d’un emploi ».
+[15] À mon avis, cette hypothèse se confirme à la lumière de la forme de l’acte de renonciation. M. Grant a déchargé Weyerhaeuser de toute réclamation liée à son emploi ou à la cessation de son emploi.
+[16] Il n’est pas nécessaire d’étudier le deuxième volet du critère puisque M. Grant a été incapable de satisfaire au volet « n’eût été » de celui‑ci.
+[17] Toutefois, je tiens à aborder l’un des éléments du volet relatif au but du paiement, puisque dans une partie de ses observations, Me Baldwin a prétendu que, étant donné que M. Grant a obtenu une généreuse indemnité de départ, compte non tenu des 35 000 $, ce dernier montant a forcément été payé pour quelque autre fin. Certes, je reconnais que le préavis de dix mois accordé à M. Grant était approprié pour un cadre intermédiaire comptant moins de dix années d’ancienneté, néanmoins je ne puis accepter que ceci fait en sorte que le montant de 35 000 $ n’est pas lié à la perte de l’emploi. Dans la décision Fawkes c. La Reine[4], le juge Hershfield a traité de la même question, bien que ce fût dans le contexte d’une éventuelle plainte en matière des droits de la personne, et non d’une réclamation liée à une déclaration inexacte faite par négligence, et a conclu :
+[…] Ce qu’il a négocié en tant que son mandataire ne correspond pas à des dommages‑intérêts compensatoires n’ayant aucun lien avec la perte d’emploi. En effet, ce qu’il a obtenu est une très bonne indemnité de cessation d’emploi découlant de diverses réclamations toutes reliées, directement reliées, à la perte d’emploi de l’appelante. La réclamation se rapportant à une violation des droits de la personne a été formulée par son avocat de diverses façons, mais, en particulier, elle a été présentée dans la réponse de février comme une demande de réintégration, et la renonciation à une telle demande est inextricablement liée à des dommages‑intérêts pour perte d’emploi. […]
+[18] Je conclus que M. Grant se trouvait exactement dans la même position : toute réclamation liée à une déclaration inexacte faite par négligence est inextricablement liée à des dommages pour la perte d’un emploi.
+[19] Enfin, l’intimée a soulevé la question de l’applicabilité du paragraphe 6(19) de la Loi. Étant donné que j’ai conclu que le montant de 35 000 $ est visé par la définition d’« allocation de retraite », il est inutile d’étudier le paragraphe 6(19).
+[20] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 20e jour de mars 2008.
+« Campbell J. Miller »
+Juge Campbell Miller
+Traduction certifiée conforme
+ce 28e jour de juillet 2008.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2008CCI163
+No DE DOSSIER : 2007-2386(IT)I
+INTITULÉ : Martin R. Grant et
+La Reine
+LIEU DE L’AUDIENCE : Kelowna (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 29 février 2008
+MOTIFS DU JUGEMENT PAR : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 20 mars 2008
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Michael W. Baldwin
+Avocat de l’intimée :
+Me Andrew Majawa
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Michael W. Baldwin
+Cabinet : Me Nixon Wegner, LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1993] 1 R.C.S. 87.
+[2] 98 DTC 1299 (C.C.I.).
+[3] [2002] 4 C.T.C. 2497 (C.C.I.).
+[4] 2004 CCI 653.

@@ -1,0 +1,170 @@
+Title: Smagh c. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31056/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-9-31056-smagh-c-m-n-r-fr.md
+Document type: case_law
+Last modified: 2013-01-11
+
+# Smagh c. M.N.R.
+
+- Citation: 2013 CCI 9
+- Decision date: 2013-01-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4788, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Smagh c. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-01-11
+Référence neutre
+2013 CCI 9
+Numéro de dossier
+2012-1811(EI), 2012-1812(EI)
+Juges et Officiers taxateurs
+Dwayne W. Rowe
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2012-1811(EI)
+ENTRE :
+KULWANT KAUR SMAGH,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Roop Singh Smagh 2012-1812(EI) le 30 novembre 2012, à Kelowna (Colombie‑Britannique).
+Devant : L’honorable juge suppléant D. W. Rowe
+Comparutions :
+Avocate de l’appelante :
+Me Pamela Smith-Gander
+Avocat de l’intimé :
+Me Jack Warren
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre du Revenu national est confirmée, conformément aux motifs du jugement ci‑joints.
+Signé à Sidney (Colombie‑Britannique), ce 11e jour de janvier 2013.
+« D. W. Rowe »
+Juge suppléant Rowe
+Traduction certifiée conforme
+ce 25e jour de février 2013.
+Alya Kaddour‑Lord, traductrice
+Dossier : 2012-1812(EI)
+ENTRE :
+Roop Singh Smagh,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Kulwant Kaur Smagh 2012-1811(EI) le 30 novembre 2012, à Kelowna (Colombie‑Britannique).
+Devant : L’honorable juge suppléant D. W. Rowe
+Comparutions :
+Avocate de l’appelant :
+Me Pamela Smith-Gander
+Avocat de l’intimé :
+Me Jack Warren
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre du Revenu national est confirmée, conformément aux motifs du jugement ci‑joints.
+Signé à Sidney (Colombie‑Britannique), ce 11e jour de janvier 2013.
+« D. W. Rowe »
+Juge suppléant Rowe
+Traduction certifiée conforme
+ce 25e jour de février 2013.
+Alya Kaddour‑Lord, traductrice
+Référence : 2013CCI9
+Date : 20130111
+Dossiers : 2012-1811(EI)
+2012-1812(EI)
+ENTRE :
+KULWANT KAUR SMAGH,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+et
+ENTRE :
+2012-1812(EI)
+ROOP SINGH SMAGH,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Rowe
+[1] L’appelante, Kulwant Kaur Smagh, et l’appelant, Roop Singh Smagh, ont chacun interjeté appel de la décision datée du 12 avril 2012 par laquelle le ministre du Revenu national (le « ministre ») a établi que l’emploi que Mme Smagh a occupé auprès de M. Smagh pour la période allant du 22 juin 2009 au 11 septembre 2009 n’était pas un emploi assurable parce qu’il n’était pas convaincu, en application de l’alinéa 5(2)i) de la Loi sur l’assurance‑emploi (la « Loi »), que les parties auraient conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance.
+[2] Les avocats ont convenu que les appels seraient entendus ensemble, et les services d’un interprète agréé punjabi-anglais et anglais-punjabi, Satpal Singh Gill, n’ont été nécessaires que pour traduire quelques bouts de phrases du témoignage de M. Smagh.
+[3] M. Smagh a déclaré qu’il travaillait actuellement dans l’industrie de la construction à Osoyoos, en Colombie‑Britannique. Il avait auparavant travaillé comme fruiticulteur et exploitant d’une station fruitière à Oliver, en Colombie‑Britannique, dans le contexte d’une société de personnes qu’il exploitait avec son frère depuis 1994. Pendant la période en cause, il exploitait une entreprise individuelle, Sun Star Fruit Packers (« Sun Star »). En 1997, sa femme, Kulwant Kaur Smagh, a commencé à travailler pour cette entreprise et, en 2001, l’entreprise a fait l’objet d’une vérification fiscale menée par le prédécesseur de l’Agence du revenu du Canada (l’« ARC »). Il a été établi que Mme Smagh occupait un emploi assurable auprès de la société de personnes. M. Smagh a affirmé qu’un jour, entre 2000 et 2004, Mme Smagh avait pris son camion pour conduire leur fils à l’école parce que ce dernier avait manqué l’autobus. Elle a eu un accident avec un motocycliste. Malheureusement, le camion n’était pas assuré et Mme Smagh n’avait pas prévenu son mari avant de le conduire. Le motocycliste a présenté une demande de dommages‑intérêts, qui a traîné en longueur, mais, en 2008, le temps est venu de régler l’affaire. Après négociation, il a été convenu que les dommages causés par l’accident s’élevaient à 17 836 $. M. Smagh a déclaré que, conformément aux politiques et aux procédures administratives de l’Insurance Corporation of British Columbia (ICBC – Société d’assurance automobile de la Colombie‑Britannique), il avait dû payer ce montant, le 3 octobre 2008, considérant qu’il aurait autrement perdu son permis de conduire de la Colombie‑Britannique. Il a discuté de la situation avec sa femme, qui a reconnu sa responsabilité dans l’accident et admis ses torts pour avoir conduit le camion, qui n’était pas assuré, sans en avoir auparavant avisé son mari et sans sa permission. Celle‑ci a proposé de continuer à travailler pour le verger/la station fruitière et d’autoriser la déduction de sommes de son salaire net jusqu’à ce que M. Smagh ait récupéré la totalité de la somme versée à l’ICBC. M. Smagh a déclaré qu’il n’était pas inhabituel pour lui d’avancer des fonds à un producteur ou à un travailleur et d’être remboursé plus tard dans l’année, quand le producteur vendait ses fruits ou que le travailleur recevait le solde de son revenu, à la fin de la saison. La pièce A‑1 est une photocopie d’un relevé de compte de l’entreprise sur lequel apparaissent des copies de deux chèques, de 1035 $ et de 20 000 $ respectivement, tous deux datés du 2 janvier 2009 et établis par M. Smagh pour le compte de Sun Star à l’ordre d’un producteur, « Sidhu ». Le plus petit chèque correspondait au paiement de fruits achetés à Sidhu en 2008 et le chèque le plus important constituait une avance sur des achats de fruits pour la saison 2009. La pièce A-2 comprend deux pages de photocopies de relevés de compte sur lesquelles apparaissaient divers chèques de montants variés tirés sur le compte de l’entreprise et établis à l’ordre de plusieurs personnes. Des chèques établis les 27 et 28 août 2009 à l’ordre de deux travailleurs, de 1000 $ et de 710 $ respectivement, correspondaient à une avance sur des gains futurs. Un chèque de 10 000 $, daté du 1er septembre 2009, correspondait à une avance accordée à un producteur de cerises. Sur l’autre page d’un relevé de compte, produit sous la cote A-3, se trouvent des copies de chèques établis par M. Smagh à l’ordre de deux personnes qui avaient déjà travaillé pour lui et qu’il a de nouveau employées pendant la saison 2009. Sous la cote A‑4, une photocopie sur laquelle apparaissent plusieurs talons de chèques a été produite. M. Smagh a déclaré que le talon de chèque daté du 9 octobre 2005 correspondait à un prêt de 5 000 $ qu’il avait consenti à Sidhu, lequel avait travaillé pour lui pendant 10 ans et avait besoin d’argent pour verser un acompte pour l’achat de son propre verger. Un talon de chèque daté du 6 novembre 2007 correspondait à un chèque de 15 765 $ à l’ordre de « Gill », pomiculteur, qui constituait une avance pour une future livraison de marchandise. M. Smagh a affirmé avoir tenu un registre des heures travaillées par Mme Smagh, et il a produit, sous la cote A-5, une feuille de paie montrant que le revenu brut de celle‑ci pour la période en cause s’élevait à 10 800 $, selon un taux horaire de 15 $. Le revenu net de 8 709,10 $ a été retenu par M. Smagh, qui l’a déduit de la somme que sa femme lui devait sur le paiement effectué à l’ICBC. Il a affirmé avoir dit à l’agent des bureaux de l’ARC à Penticton que les heures de travail de Mme Smagh avaient été consignées. En 2009, la saison de culture fruitière a pris fin le 11 septembre, et tous les travailleurs ont été mis à pied. Au maximum, de18 à 20 travailleurs étaient employés pendant la saison pour la cueillette des pommes, des cerises, des raisins et des prunes, mais seulement 12 ou 13 personnes étaient nécessaires pour la cueillette des pêches. M. Smagh a déclaré que sa femme travaillait comme superviseure et qu’elle cumulait diverses responsabilités en plus de celles qui incombaient aux employés ordinaires. Elle détenait également un permis de conduire de la Colombie‑Britannique qui, à la connaissance de M. Smagh, aurait été suspendu si M. Smagh n’avait pas effectué le paiement exigé par l’ICBC.
+[4] Lors du contre‑interrogatoire mené par l’avocat de l’intimé, M. Smagh a déclaré que, dès le début, il avait décidé que tous les dommages‑intérêts qu’il verserait du fait de l’accident constitueraient une dette de Mme Smagh envers lui. Il a mentionné un relevé – la pièce A-6 – et a déclaré que l’entrée du 3 octobre, le chèque no 461 de 17 836 $, correspondait au paiement effectué à l’ICBC. Il considérait que le fait d’effectuer ce paiement revenait à consentir un prêt à Mme Smagh, et que, bien que celle‑ci soit sa femme, elle était aussi une employée de longue date qui avait convenu de continuer à travailler pour l’entreprise jusqu’à ce que sa dette soit éteinte. Il a reconnu qu’il n’avait exigé aucun intérêt sur le prêt, mais il a précisé qu’il n’avait jamais exigé d’intérêts sur les prêts accordés aux travailleurs ou aux producteurs. Il a déclaré qu’il avait tenu pour Mme Smagh une feuille de temps manuscrite – la pièce A‑7 – selon laquelle Mme Smagh avait effectué un total de 720 heures de travail pendant la période en cause, et qu’une semaine de travail de 60 à 70 heures n’était pas anormale dans l’industrie fruitière. Ainsi, il était normal de travailler tous les jours durant la saison, laquelle était relativement courte. M. Smagh a déclaré qu’il avait vendu la station fruitière en 2010 et que sa femme était allée travailler pour un autre employeur et qu’elle avait continué de lui verser une certaine somme à partir de ses chèques de paie afin de faire baisser le solde de sa dette. M. Smagh a affirmé qu’il était courant dans l’industrie d’avancer de l’argent à des producteurs fiables ainsi qu’à des travailleurs dignes de confiance. Il avait avancé la somme de 1000 $ – pièce A-2 – à un travailleur, Singh, une quinzaine de jours avant la fin de la saison, alors qu’en temps normal, ce dernier aurait reçu son paiement plus tard. Un chèque de 1200 $ – pièce A-3 – était une avance accordée à un travailleur pour de la taille, activité qui n’était pas entreprise avant les mois d’hiver. Les travailleurs n’étaient pas payés en temps supplémentaire. M. Smagh a déclaré qu’il ne se souvenait pas de la portée des questions que l’agent de l’ARC du bureau de Penticton lui avait posées et qu’il ne se rappelait pas avoir discuté des prêts accordés à d’autres travailleurs. Il a affirmé que, dans l’industrie, il est normal de consentir des avances aux travailleurs, s’ils le demandent, et de leur payer le reste de leur salaire à la fin de la saison. Exception faite de la rémunération des travailleurs itinérants qui cueillent des fruits pendant un jour ou deux, voire pendant quelques heures, tous les salaires sont payés par chèque. Un contremaître était payé 13 $ l’heure et les autres travailleurs 10 ou 11 $ l’heure. Certains cueilleurs étaient payés à la pièce. M. Smagh a déclaré qu’il avait conclu une entente verbale avec sa femme au sujet de l’argent qu’elle lui devait, ce qui était le cas de toutes les autres transactions en vertu desquelles il avait accordé des prêts ou des avances à des producteurs ou à des travailleurs. En de rares occasions, M. Smagh a avancé à un travailleur une petite somme et en a été de sa poche quand cette personne ne s’est pas présentée au travail le lendemain matin. M. Smagh a reconnu que, bien que les gens lui aient emprunté de l’argent pour diverses raisons, il n’aurait pas – directement – remboursé la dette qu’un travailleur aurait eue envers une tierce partie en partant du principe qu’il se serait remboursé en retenant ensuite le salaire net de ce travailleur.
+[5] Mme Smagh n’a pas témoigné. Les deux appelants ont terminé la présentation de leur preuve.
+[6] L’intimé n’a présenté aucune preuve.
+[7] L’avocate des appelants a fait valoir que la preuve montrait que les éléments dont le ministre avait tenu compte en application des dispositions pertinentes de la Loi ne faisaient état d’aucun écart marqué par rapport à une relation sans lien de dépendance que M. Smagh aurait eue avec un travailleur non lié, tant en ce qui concerne la rétribution versée, que les modalités d’emploi, la durée, la nature et l’importance du travail accompli. L’avocate des appelants a reconnu que l’entente financière que ses clients ont conclue, en tant que mari et femme d’une part et employeur et employée d’autre part, était exceptionnelle, et peut-être sans précédent dans la jurisprudence du domaine. Toutefois, ils avaient conclu cette entente après avoir discuté de la question du paiement fait par M. Smagh à l’ICBC, parce que ce dernier avait été tenu responsable des dommages causés dans l’accident en sa qualité de propriétaire enregistré du véhicule que sa femme conduisait. S’il n’avait pas payé le montant demandé par l’ICBC, leurs deux permis de conduire auraient pu être suspendus, et les répercussions sur l’entreprise et sur leur vie personnelle auraient été majeures. L’avocate des appelants soutient qu’il ne fait aucun doute que Mme Smagh a été employée pendant la période pertinente et qu’elle a aussi été employée pendant une quinzaine de saisons, soit par son mari, soit, avant cela, par son mari et par son beau‑frère quand l’entreprise était exploitée en tant que société de personnes. L’avocate des appelants a fait valoir qu’en ce qui a trait aux circonstances de l’emploi, l’origine de la dette de Mme Smagh envers son mari et les modalités de remboursement à même le salaire de cette dernière ne devraient pas avoir pour effet d’exclure Mme Smagh de la catégorie des employés occupant un emploi assurable. L’avocate des appelants a évoqué la partie de la preuve selon laquelle il était courant pour M. Smagh d’avancer de l’argent non seulement à des producteurs fiables, mais aussi à des employés qui avaient déjà travaillé pour lui. Il avait même avancé de l’argent à un travailleur plusieurs mois avant que le travail de taille soit effectué. Il n’exigeait aucun intérêt aux emprunteurs, et toutes les ententes de prêt étaient conclues verbalement.
+[8] L’avocat de l’intimé a concédé le fait que Mme Smagh avait occupé un véritable emploi auprès de M. Smagh pendant la période pertinente et que le travail avait été effectué. En outre, il a déclaré que le ministre ne contestait pas la rémunération de 15 $ l’heure, considérant que Mme Smagh était une travailleuse expérimentée qui s’acquittait de tâches de supervision. L’entente de remboursement de prêt conclue entre les parties mise à part, les autres conditions d’emploi étaient conformes à celles des travailleurs non liés, tout comme l’était la durée du travail, laquelle était régie par le cycle habituel de production et de récolte de l’industrie fruitière de cette région. L’avocat de l’intimé a reconnu que la preuve n’avait rien révélé d’anormal au sujet de la nature et de l’importance du travail accompli par Mme Smagh. Toutefois, M. Smagh a déclaré qu’il n’aurait certainement pas conclu avec un travailleur non lié une entente selon laquelle il rembourserait – directement – une dette que ce travailleur aurait contractée auprès d’une tierce partie et selon laquelle la dette lui serait remboursée au moyen de retenues sur le salaire net du travailleur en question. L’avocat de l’intimé a soutenu qu’il était loisible au ministre de conclure que l’entente financière inhabituelle qu’avaient conclue M. Smagh – en tant qu’employeur lié – et Mme Smagh – en tant qu’employée – était suffisamment aberrante pour que l’emploi qu’elle avait occupé soit déclaré non assurable. Selon l’interprétation que l’avocat de l’intimé fait de la preuve, ce fait l’emporterait sur tout le reste. En effet, il s’agit d’un facteur déterminant, lequel, au regard de l’ensemble des circonstances de l’emploi, compromettait la nature de la relation d’emploi au point que l’emploi de Mme Smagh n’était pas assurable. L’avocat de l’intimé a soutenu que la jurisprudence pertinente appliquée aux faits de l’espèce exigeait que la décision rendue par le ministre à l’égard de chacun des appelants soit confirmée.
+[9] Les dispositions pertinentes de la Loi sont les alinéas 5(1)a) et 5(2)i) ainsi que le paragraphe 5(3), lesquels sont ainsi libellés :
+5 (1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[…]
+(2) N’est pas un emploi assurable :
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[10] Dans la décision Porter c. Canada (ministre du Revenu national – M.R.N.), [2005] A.C.I. no 266; 2005 CCI 364, la juge Campbell s’est penchée sur les commentaires formulés par le juge Archambault dans la décision Bélanger c. Canada (ministre du Revenu national – M.R.N.), 2005 CarswellNat 3971; 2005 CCI 36 et par le juge Bowie dans la décision Birkland c. Canada (ministre du Revenu national – M.R.N.), [2005] A.C.I. no 195; 2005 CCI 291, décisions dans lesquelles les deux juges ont examiné le rôle de la Cour dans le contexte de la décision rendue par la Cour d’appel fédérale dans l’arrêt Légaré, précité, et dans ses arrêts suivants. Aux paragraphes 12 et 13 de sa décision, la juge Campbell a déclaré :
+[12] Le rôle de la Cour canadienne de l’impôt dans des instances relatives à l’assurance‑emploi, qui a été décrit dans les arrêts Légaré et Pérusse, a récemment été confirmé par le juge Létourneau dans l’arrêt Livreur Plus Inc. c. Canada, [2004] A.C.F. no 267, aux paragraphes 12, 13 et 14 :
+12. Tel que déjà mentionné, le ministre suppose, au soutien de sa décision, l’existence d’un certain nombre de faits recueillis par voie d’enquête auprès des travailleurs et de l’entreprise qu’on estime être l’employeur. Ces faits sont présumés avérés. Il incombe à celui qui s’oppose à la décision du ministre de les réfuter.
+13. Le rôle du juge de la Cour canadienne de l’impôt, saisi d’un appel de la décision du ministre, consiste à vérifier l’existence et l’exactitude de ces faits ainsi que l’appréciation que le ministre ou ses officiers en ont fait et, au terme de cet exercice, à décider, sous l’éclairage nouveau, si la décision du ministre paraît toujours raisonnable : Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878; Pérusse c. Canada (ministre du Revenu national - M.R.N.), [2000] A.C.F. no 310; Massignani c. Canada (ministre du Revenu national - M.R.N.), 2003 C.A.F. 172; Bélanger c. Canada (ministre du Revenu national - M.R.N.), 2003 C.A.F. 455. De fait, certains faits matériels invoqués par le ministre peuvent être réfutés ou leur appréciation peut ne pas résister à l’examen judiciaire de sorte que, à cause de leur importance, le caractère, en apparence, raisonnable de la décision du ministre s’en trouve anéanti ou sérieusement miné.
+14. Dans l’exercice de ce rôle, le juge doit accorder une certaine déférence au ministre en ce qui a trait à l’appréciation initiale de ce dernier et il ne peut pas, purement et simplement, en l’absence de faits nouveaux ou d’une preuve que les faits connus ont été mal perçus ou appréciés, substituer sa propre opinion à celle du ministre : Pérusse c. Canada (ministre du Revenu national - M.R.N.), supra, paragraphe 15.
+[13] En résumé, le rôle de la Cour consiste à vérifier l’existence et l’exactitude des faits sur lesquels le ministre se fonde, à examiner tous les faits mis en preuve devant elle, notamment tout nouveau fait, et à décider ensuite si la décision du ministre paraît toujours « raisonnable » à la lumière des conclusions de fait tirées par la Cour. Elle doit accorder une certaine déférence au ministre dans le cadre de cet exercice.
+[11] L’alinéa 7n) des hypothèses de fait de la réponse modifiée à chacun des avis d’appel (la « réponse modifiée ») est ainsi rédigé :
+[traduction]
+[...]
+7 n) l’appelant n’a pas fait tenu de registre des heures effectuées par la travailleuse;
+[...]
+[12] Je suis convaincu que M. Smagh a bel et bien tenu un registre des heures travaillées par Mme Smagh, et que les renseignements inscrits sur la feuille manuscrite – pièce A-7 – sont exacts. Par ailleurs, les hypothèses formulées dans les deux réponses modifiées restent inchangées.
+[13] En l’espèce, les faits sont singuliers, et il est fort probable qu’ils ne se reproduiront pas dans le contexte d’un appel interjeté à l’égard d’une décision du ministre rendue en application des dispositions pertinentes de la Loi.
+[14] La rétribution était raisonnable compte tenu de l’expérience et des responsabilités de Mme Smagh, tout comme l’étaient la majorité des conditions d’emploi de celle‑ci. La durée était dictée – comme d’habitude – par la période de récolte des fruits, et Mme Smagh a été mise à pied en même temps que les travailleurs auxquels M. Smagh n’était pas lié. M. Smagh a retenu tout le revenu net de sa femme et l’a appliqué en réduction de la dette qu’elle avait convenu avoir envers lui. Pendant la saison, certains travailleurs non liés ont reçu un prêt ou une avance, mais le règlement et le paiement finals du solde de la rémunération ont eu lieu à la fin de la saison, pratique courante dans l’industrie de cette région. Pendant la période pertinente, il n’y avait pas d’écart significatif entre la nature et l’importance du travail accompli par Mme Smagh et la nature et l’importance du travail des employés non liés.
+[15] Quand l’employeur et l’employé sont réputés être liés pour l’application de la Loi, on considère par défaut que l’emploi en cause n’est pas assurable, à moins que le ministre considère qu’il n’y a pas entre eux de lien de dépendance même s’il s’agit de personnes liées.
+[16] Au paragraphe 25 de la décision Docherty c. M.R.N., [2000] A.C.I. no 690, j’ai formulé le commentaire suivant :
+[25] Le modèle à utiliser pour établir une comparaison avec les relations de travail entre parties sans lien de dépendance ne nécessite pas une concordance parfaite. Cette affirmation se trouve confirmée par le libellé de la loi, qui utilise les termes un « contrat de travail à peu près semblable ». Chaque fois que les parties sont liées entre elles au sens de la disposition législative pertinente, la relation de travail comportera nécessairement des particularités, surtout si le conjoint est le seul employé ou s’il fait partie d’un effectif restreint. Cependant, le but n’est pas d’empêcher les personnes qui satisfont aux critères établis de participer au régime national d’assurance-emploi. Les en exclure sans raison valable est une mesure inéquitable, qui va à l’encontre de l’esprit de la loi.
+[17] La dette que Mme Smagh avait envers son mari et l’accord qu’ils ont ensuite conclu au sujet du mode de remboursement étaient inextricablement liés à leur relation employeur-employée. Si Mme Smagh avait emprunté le montant qu’elle devait à l’ICBC auprès d’une institution financière, et même si M. Smagh avait dû cosigner le prêt, elle aurait pu rembourser directement le prêteur au moyen de sommes précises qu’elle aurait versées pendant une certaine période. De cette manière, M. Smagh aurait participé au remboursement principalement à titre de mari, et ce, même si la source des fonds qui auraient permis de rembourser l’institution financière pendant la période pertinente aurait été le revenu que Mme Smagh aurait gagné en tant qu’employée de l’entreprise individuelle de M. Smagh. Toutefois, Mme Smagh aurait gardé le contrôle de son revenu. Je reconnais que M. Smagh s’est retrouvé pris entre l’arbre et l’écorce, mais la nature de leur entente n’était pas le résultat d’une simple particularité. La nature de l’entente était plutôt au cœur de leur relation d’emploi. M. Smagh a reconnu sans détours qu’il n’aurait pas conclu d’entente de remboursement de prêt similaire avec un travailleur non lié. Sa nature généreuse l’a conduit à accorder des prêts sans intérêts à des producteurs et à avancer de l’argent à des travailleurs fiables sur leur rémunération future. Il a prêté une somme d’argent substantielle – 5000 $ – à un employé qui souhaitait acheter un verger. L’entente conclue entre M. et Mme Smagh ne cadre pas avec le modèle des prêts, ou des avances, consentis à des travailleurs ou à d’autres parties auxquels M. Smagh n’était pas lié. Cette entente était unique et n’aurait pas été conclue si les parties n’avaient pas été liées. Un employé non lié à M. Smagh aurait‑il accepté que chaque cent de son revenu net – tiré de 720 heures de travail – soit affecté au remboursement d’une dette? Le simple fait de poser la question revient à y répondre.
+[18] Les appelants ont agi de bonne foi pour résoudre un problème épineux. Le travail a été effectué de la même manière que par le passé. M. Smagh a vendu son verger et sa station fruitière en 2010. Mme Smagh a trouvé un emploi auprès d’un autre fruiticulteur, et elle a effectué des versements réguliers à M. Smagh à partir de son salaire pour faire diminuer le montant de sa dette.
+[19] Si j’avais eu la compétence voulue pour trancher les présents appels de novo, j’aurais pu être tenté de me prononcer en faveur des appelants, compte tenu de leur relation employeur-employée de longue date et de la nature par ailleurs normale de l’emploi pendant la période en cause, dans le contexte de l’industrie fruitière. Le caractère unique des faits à lui seul aurait pu m’amener à rendre pareille décision. Toutefois, ces réflexions sont de simples spéculations, de la sorte de celles dans lesquelles se complaisent les stratèges de salon ou les aspirants capitaines qui, depuis le confort de leurs divans, auraient visé un receveur différent dans les dernières secondes du quatrième quart, ou auraient indiqué un lancer différent dans la dixième manche de la finale du Brier.
+[20] Au vu de la preuve et de la jurisprudence pertinente, je suis convaincu que les décisions que le ministre a rendues sont raisonnables. Il n’y a aucune preuve de mauvaise foi ou de prise en considération d’éléments non pertinents. Le ministre n’a pas omis de tenir compte de toutes les circonstances pertinentes. Le ministre a tenu pour acquis que les heures de travail de Mme Smagh n’avaient pas été consignées dans un registre, mais il n’y avait aucune preuve du fait que le registre manuscrit de ces heures avait été produit plus tôt. Quoi qu’il en soit, la question n’est pas significative en tant que telle et ne compromet pas la validité des décisions rendues par le ministre, qui restent raisonnables compte tenu de l’ensemble de la preuve. Je ne vois pas de raisons valables susceptibles d’appuyer une conclusion différente.
+[21] Les deux décisions du ministre sont confirmées et les deux appels sont rejetés.
+Signé à Sidney (Colombie‑Britannique), ce 11e jour de janvier 2013.
+« D. W. Rowe »
+Juge suppléant Rowe
+Traduction certifiée conforme
+ce 25e jour de février 2013.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2013 CCI 9
+NOS DES DOSSIERS DE LA COUR : 2012-1811(EI) et 2012-1812(EI)
+INTITULÉ : Kulwant Kaur Smagh c. Sa Majesté la Reine
+Roop Singh Smagh c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Kelowna (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 30 novembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge suppléant D. W. Rowe
+DATE DU JUGEMENT : Le 11 janvier 2013
+COMPARUTIONS :
+Avocate des appelants :
+Me Pamela Smith-Gander
+Avocat de l’intimé :
+Me Jack Warren
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Pamela Smith-Gander
+Cabinet : Avocate
+Vancouver (Colombie‑Britannique)
+Pour l’intimé : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

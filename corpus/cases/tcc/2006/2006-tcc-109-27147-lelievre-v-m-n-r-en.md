@@ -1,0 +1,348 @@
+---
+title: "Lelievre v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27147/index.do"
+last_modified: "2006-03-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 109"
+citation2: ""
+neutral_citation: "2006 TCC 109"
+decision_date: "2006-03-10"
+language: "en"
+item_id: "27147"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1016
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:16:58.472000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "17d2da0e780a40093a726b60d861553a429d1db42239e7b81bb5e837260f6a16"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lelievre v. M.N.R.
+
+- Citation: 2006 TCC 109
+- Decision date: 2006-03-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1016, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lelievre v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-10
+Neutral citation
+2006 TCC 109
+File numbers
+2004-102(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-102(EI)
+BETWEEN:
+MICHEL LELIÈVRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+LE HOMARDIER D'ANTICOSTI INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard jointly with the appeal of Anne‑Marie Lelièvre (2004‑101(EI))
+on January 19 and April 18, 2005, at Québec, Quebec.
+Before: The Honourable Judge Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Sylvain L. Roy
+Annie Lelièvre (author of the written argument)
+Counsel for the Respondent:
+Anne Poirier
+Counsel for the Intervener:
+Sylvain L. Roy
+Annie Lelièvre (author of the written argument)
+JUDGMENT
+The appeal instituted under subsection 103(1) of the Employment Insurance Act is dismissed on the ground that the work performed by the Appellant for the intervener during the period in issue is excluded from insurable employment, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of March 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 7th day of August 2006.
+Julie Poirier, Translator
+Citation: 2006TCC109
+Date: 20060310
+Docket: 2004-102(EI)
+BETWEEN:
+MICHEL LELIÈVRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+LE HOMARDIER D'ANTICOSTI INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a decision rendered by the Minister of National Revenue (the "Minister") on September 30, 2003, concerning the insurability of the work performed by the Appellant for Le Homardier D'Anticosti Inc. from May 13, 2001 to August 4, 2001, and from May 5, 2002 to July 27, 2002.
+[2] In the determination here in appeal, the Respondent concluded that the work performed by the Appellant must be excluded from insurable employment under paragraph 5(2)(i) of the Employment Insurance Act (the "Act"), as the Minister was satisfied that, having regard to all the circumstances of the employment, it was not reasonable to conclude that the Appellant and the Payer would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[3] As the legal basis of the determination is paragraph 5(2)(i) of the Act, that paragraph should be cited here:
+(2) Insurable employment does not include:
+[...]
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+[4] In support of his determination, the Respondent made the following assumptions of fact:
+[TRANSLATION]
+14.(a) during the periods in issue, the shareholders of the Payer with voting rights were:
+The Appellant
+Anne‑Marie Lelièvre
+John Pineault
+34 voting shares
+33 voting shares
+33 voting shares
+(b) the Appellant is the spouse of Anne‑Marie Lelièvre;
+(c) the Appellant is a member of a related group that controls the Payer.
+15.(a) The Payer was incorporated on May 1, 2001;
+(b) the Payer was engaged in lobster fishing and owned two boats, one 25 feet long for fishing in shallow water and the other 35 feet long;
+(c) lobster fishing was carried on from mid‑May to the end of July, on one boat at a time;
+(d) since 1998, the Appellant had held the exclusive right to use a lobster-fishing licence valued at $50,000;
+(e) before the Payer was incorporated, the Appellant was sole proprietor of the lobster-fishing business under the trade name "Les pêcheries d'Anticosti Enr.";
+(f) when the Payer was created, the Appellant transferred the boats, equipment, traps and the fishing rights to the Payer in return for non-voting Class E shares;
+(g) the Appellant is the sole director of the Payer;
+(h) in 2001, the Payer's gross income totalled $62,569, resulting in losses of $23,731 and, in 2002, gross income totalled $43,138, resulting in losses of $36,440;
+(i) during the periods in issue, the Appellant was also the sole shareholder of Location AML Inc.;
+(j) Location AML Inc. operated a vehicle leasing business on Anticosti Island and a secondary school-bus operation with the Commission scolaire du Fer;
+(k) the Appellant worked as a fisherman's helper for the Payer;
+(l) the Appellant, suffering from back pain, did not take part in all the trips to sea;
+(m) on May 29, 2001, Denis Jean, a chiropractor, issued a certificate of disability to the Appellant for the period from June 1 to August 1, 2001;
+(n) on June 1, 2001, Fisheries and Oceans Canada issued a temporary certificate of authorization of absence to the Appellant;
+(o) on April 10, 2002, Denis Jean, a chiropractor, issued a certificate of disability to the Appellant;
+(p) on May 22, 2002, Fisheries and Oceans Canada issued a temporary certificate of authorization of absence to the Appellant;
+(q) the Appellant determined his own schedule of work for the Payer;
+(r) during the periods in issue, when the Appellant did not go to sea, he worked for Locations AML Inc. one to five days a week;
+(s) in 2001, the Appellant received, from the Payer, for the entire fishing period, remuneration of $750 per week for 12 consecutive weeks;
+(t) in 2001, John Pineault and Marc Beaudin worked for the Payer;
+(u) in 2001, John Pineault and Marc Beaudin received the same remuneration from the Payer as that paid to the Appellant for the same period;
+(v) in 2002, the Appellant received from the Payer, for the entire fishing period, remuneration of $750 per week for 12 consecutive weeks;
+(w) in 2001 John Pineault, Kavin Martin and Richard Méthot worked for the Payer;
+(x) in 2002, John Pineault, Kavin Martin and Richard Méthot received the same remuneration from the Payer as that paid to the Appellant for the same period;
+(y) the Appellant received the same remuneration as the other fishermen who took part in every trip to sea, whereas the Appellant did not go to sea a number of days a week;
+(z) the Appellant's remuneration from the Payer was unreasonable in view of the fact that he did not take part in all the trips to sea;
+(aa) Locations AML Inc. operated during the lobster-fishing period;
+(bb) during the periods in issue, the Appellant provided services to Locations AML Inc. as many as five days a week;
+(cc) during the periods in issue, the Appellant did not receive any remuneration from Location AML Inc.;
+(dd) before and after the periods in issue, the Appellant cut wood, built traps and repaired the Payer's equipment, without receiving any remuneration from the Payer for his services;
+(ee) on August 10, 2001, the Payer issued the Appellant a Record of Employment showing May 13, 2001, as the first day of work and August 4, 2001, as the last day of work, and showed 960 insurable hours and insurable earnings of $9,000.00;
+(ff) on July 29, 2002, the Payer issued the Appellant a Record of Employment showing May 5, 2002, as the first day of work and July 27, 2002, as the last day of work and showing 900 insurable hours and insurable earnings of $9,000.00;
+(gg) the Appellant signed his own records of employment;
+(hh) the periods allegedly worked by the Appellant did not coincide with the periods actually worked;
+(ii) the Payer's records of employment do not reflect the hours actually worked or the periods actually worked by the Appellant;
+(jj) the Payer would not have given the Appellant such employment conditions if they had been dealing with each other at arm's length.
+[5] The Respondent also admitted certain facts contained in the notice of appeal. Those facts are as follows:
+[TRANSLATION]
+1. Le Homardier d'Anticosti Inc. (hereinafter the "Payer") operates a lobster-fishing business on Anticosti Island.
+2. The business has been in operation since 1998, although it was not incorporated until May 2001. The three shareholders of the business are the Appellant, Anne‑Marie Lelièvre, the Appellant's spouse and John Pineault, each of whom holds 33.33 percent of the shares.
+3. The Payer owns two fishing boats, one 26 feet long and the other 35 feet long, and all the fishing equipment necessary to carry on its activities, including 500 traps, 300 in the water and 200 in reserve.
+4. The fishing season extends from mid‑May to the last week of July, for a total of approximately 11 weeks.
+5. The Payer employed four fishermen: the Appellant, John Pineault, Kavin Martin and a fisherman's helper, Marc Beaudin in 2001, and Richard Méthot in 2002.
+[...]
+9. Durant the fishing season, the Payer rented a cottage to house the fishermen all week, since the fishing area was situated more than 85 km from the village.
+[...]
+16. During the fishing season, which lasts 75 days, the Payer cannot afford to lose a single day.
+[...]
+19. The Payer's business is currently operating at a loss (losses of $23,728 in 2001 and $36,440 in 2002).
+[...]
+22. The Appellant has held the fishing licence since 1998; he has fished for the business since that time.
+23. Since 2001, the Appellant has had serious back problems that prevent him from going to sea every day.
+24. Fisheries and Oceans Canada requires that he also be the captain; as he cannot be on board the boat every time it goes to sea, he has had to delegate the captain's duties to John Pineault.
+25. A medical certificate to this effect from Dr. Denis Jean, a chiropractor, is forwarded to Fisheries and Oceans Canada every year. The Appellant's back pain is related to a loss of balance caused by wave motion.
+[...]
+[6] Where the Payer and the person who performs the work do not deal with each other at arm's length, the work performed is excluded from insurable employment, unless the relevant facts show that the work was performed in a manner comparable or similar to the way in which it would have been performed if the two parties had been dealing with each other at arm's length.
+[7] However, the exclusion is not absolute. Under paragraph 5(2)(i) of the Act, work that, in principle, is excluded from insurable employment on the basis of non-arm's length dealing can, under certain conditions, be deemed to be arm's-length employment and thus become insurable employment, if the facts show that, having regard to all the circumstances, including the remuneration paid, the duration and the terms and conditions of work, it was work performed in conditions similar to a situation in which the parties would have been dealing with each other at arm's length.
+[8] This exception is provided for in paragraph 5(3)(b), which reads as follows:
+(3) For the purposes of paragraph (2)(i),
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+The Facts
+[9] During the periods in issue, Le Homardier d'Anticosti Inc. was a corporation the purpose of which was to engage in lobster fishing. The season began in mid‑May and ended in late July. The Appellant worked for the company as a fisherman's helper. Starting in 2002, he had to change the nature of his work because of back problems.
+[10] At the same time as the fishing-related work, the Appellant, in his capacity as sole shareholder of Location AML Inc., also oversaw the operation of that business, although his spouse played a very important role in it. Location AML Inc. operated a truck-rental franchise on Anticosti Island.
+[11] According to the Appellant, despite the distance between the fishing port or area and the rental business, it was possible to communicate quickly and effectively by radio or cellular telephone.
+[12] The evidence showed unequivocally that the Appellant enjoyed considerable independence in his work schedule. Being the sole shareholder of Location AML Inc., he devoted part of his time to the management of that business, in return for which, however, he received no remuneration.
+[13] The fishing-related activities took place at a location relatively distant from the place of business and the hub of the island community. It took more than an hour to travel to the location where the boats were moored and where the fishing equipment was stored.
+[14] The Appellant was essentially the head of both businesses, the one engaged in lobster fishing, the other in truck rentals.
+[15] The truck rental period started in mid‑June. Preparatory work, such as receiving the trucks, putting the organization in place, managing reservations and so on, had to be done before rental operations commenced.
+[16] To better understand the operation of that business, it must be understood that all the trucks for rent were returned to the mainland at the end of the season; the ferry between Anticosti Island and the mainland brought them back to the island in the spring. As the ferry had limited capacity, the trucks were transported a few at a time on each ferry trip, as the business required them. On each arrival, someone had to go to the dock to pick up the trucks and drive them to the corporation's place of business.
+[17] As the June and July period was clearly demanding, the Appellant contended that he divided his time and devoted it to the running of both businesses, even though, according to the records of employment that he himself had signed, he worked 80 hours a week for the fishing business in 2001, and 75 hours a week in 2002 and 2003.
+[18] The Appellant had two co‑shareholders, Anne‑Marie Lelièvre, his spouse, and John Pineault, each of whom held 33.33 percent of the shares of Le Homardier d'Anticosti Inc.
+[19] The Appellant owned all the shares in the other business, which enabled him to do what he wanted, when he wanted, even though his spouse had important responsibilities, to the extent that she in fact took part in the management of the business as though she was a co‑owner.
+[20] The Appellant controlled his work schedule and decided on the nature of the work to be done. Throughout his testimony, moreover, he spoke as though he had been the only shareholder.
+[21] The evidence brought before the Court highlighted the following facts in particular:
+· A medical certificate enabled the Appellant to enjoy the status of fisherman without taking part in fishing activities at sea. A co‑worker of the Appellant who was very much involved in the fishing activities was unaware of the Appellant's physical disability. The captain, who owned 33 percent of the shares, did not testify.
+· The Appellant signed damage reports, invoices and cheques for Location AML Inc., of which he was the sole shareholder, even though the records of employment stated that the Appellant worked 70 to 80 hours a week for the fishing company.
+· The Appellant was often at the rental business.
+· Richard Méthot, who was also paid as a fisherman, stated that he never knew about the Appellant's back problems for which he had obtained a certificate of exemption.
+· The fishing activities operated at a loss, to the point where Location AML Inc. was regularly called upon to bolster the fishing business's finances.
+· Although there were two separate legal entities, the Appellant had considerable freedom to do what he wanted. Thus it could be seen that some employees worked for both companies, but were remunerated by only one. The two businesses operated under the principle of communicating vessels.
+· First of all, Locations AML Inc., the corporation in which the Appellant held all the shares, was regularly called upon to make contributions to replenish the finances of the lobster-fishing business, which was operating at a loss. These ad hoc financial contributions gave him preponderant authority over the other shareholders, to the point where the corporation had neither the right nor the de facto power to control the Appellant's work for which he received remuneration.
+· How can it be explained that the Appellant received the same salary as the other fishermen, even though he had a serious physical disability and devoted a portion of his available time to the management of his other business, which no doubt caused certain scheduling conflicts from time to time? It would have been interesting to hear the side of the second shareholder, John Pineault, on these matters.
+[22] The evidence raises the following questions:
+· Could a person dealing at arm's length have expected to receive the same salary as the person responsible and captain of the boat who took an active part in the fishing?
+· Would a worker dealing at arm's length have been able to set his own work schedule so as to enable himself to manage or operate another business, to the possible detriment of the business paying him a salary?
+· Would a worker dealing at arm's length have allowed part of his assets or income from another source to be invested in a business operating at a major loss?
+[23] The answers are obviously no.
+[24] A number of the Appellant's statements in his statutory declaration (Exhibit A‑2) provide some clarification:
+[TRANSLATION]
+[...]
+In 2000 (in 2001 completely involved in fishing), Kevan Martin is shown on the payroll of Location AML and received the same wages as the fisherman's helpers on the same dates? Where did he work?
+During my days off, it was he who went out on the boat. When it was windy, if I had two or three days when I did not go out, I worked for AML, and I was paid by Pêcheries. He was paid by AML and worked approximately half and half for Location and Pêcheries (during July).
+The agreement was that he was paid by Location but worked for both, so, when I wasn't out on the boat, he replaced me. There were at least two days when I wasn't out on the boat--Friday and Saturday or Saturday and Sunday. For example, in 2001, there were three weeks when we didn't fish because of the wind. Particularly when there were breakdowns, I had to come and make the repairs. The boat is anchored one hour from here by road and four hours by boat from Port Meunier.
+[...]
+On May 30, 2002, there is a $4,000 disbursement with the notation "Loan – Lobster"? What were the conditions of that loan?
+Le Homardier was to repay it as soon as it could.
+[...]
+Do all the shareholders hold voting shares?
+I think so; my accountant has the answer to that.
+What percentage?
+33⅓ percent, I believe; that's in the book.
+Who has signing authority for the company's documents (bank instruments)?
+I believe it's all three, but I'm not sure; I handled the administration, but I'm not sure whether Marie has signing authority, but John, yes; I'm no surer than that.
+Does the company have a credit card?
+It just got one in July.
+Who are the holders of that card?
+The card is in two names, Anne-Marie's and mine.
+Who are the users of that card?
+Anne-Marie may be authorized to sign, since both names were needed in order to get the card, which is also a line of credit card. I only have $1,000 that can be used personally. For purchases of all kinds ‑ related to the company's fishing.
+Can you use that credit card throughout the year?
+It's used to buy boat parts. I believe there are no use restrictions, provided it doesn't exceed $1,000.
+[...]
+On March 13, 2001, Pêcheries Anticosti Enr. issued a cheque for $1,363.05 to Entreprises ALM Inc. What is that business?
+That's the accountant, André Monger.
+On March 12, 2001, you put $5,000 into your business. What was the reason for that investment?
+On April 30, 2001, you put $1,194.01 into your business. What was the reason for that investment the day before your business was incorporated?
+Those investments were to cover debt. We put our money into it. Anne‑Marie and I invested funds in the same month as the incorporation occurred.
+[...]
+On May 1, 2001, the sum of $100 was invested in your business under the heading "Shareholder Investment AM"? Who invested that amount and what was the consideration?
+You'd have to talk to the accountant about that, everything concerning the incorporation.
+On June 20, 2001, the sum of $100 was invested in your business under the heading "Shares of the Three Shareholders"; who invested that amount and what was the consideration?
+You'd have to talk to the accountant about that, everything concerning the incorporation.
+[...]
+On September 19, 2001, you received the sum of $10,500 from Maison du pêcheur? What was the reason for that payment?
+I have a service contract with the owner since he's a diesel mechanic. He came and got the boat and brought it back, and did the mechanical maintenance on the boat. We sold him lobster last year.
+[...]
+On June 12, 2002, a cash inflow of $4,000 appears in the book with the notation "Loan"? Who was the lender?
+It's always Location that lends money.
+On June 10, 2002, a block of payments was made by your business with the notation "Cash Casual Suppliers"; that block of payments totals $27,884? Who are these suppliers?
+Those are payments related to the shipwreck.
+[25] Although the appeal relates only to the work that the Appellant performed for Le Homardier d'Anticosti Inc., it is important to consider certain facts relating to the management of the truck-rental business, in which the Appellant owned all the shares.
+[26] Despite the operational requirements of that business, and the fact that his spouse was closely associated with it, the documentary evidence shows that his spouse began working there at the end of June.
+[27] Thus, again according to the documentary evidence, the Appellant worked 70 to 80 hours a week for Le Homardier d'Anticosti Inc., and his spouse began working at the end of June. The question that arises is where the Appellant found the time to manage the truck-rental business.
+[28] Following the investigation and analysis of all the facts considered relevant, the Minister concluded that the Appellant's working terms and conditions with Le Homardier d'Anticosti Inc. would not have been the same if he had been dealing at arm's length. Based on that finding, the Respondent simply relied on paragraph 5(2)(i) of the Act, which reads as follows:
+(2) Insurable employment does not include:
+[...]
+(i) employment if the employer and employees are not dealing with each at arm's length.
+[29] It was clearly established on the evidence adduced, which is entirely consistent with the facts considered in the analysis of the case, that the Appellant was hardly or not at all accountable for the work performed for the lobster-fishing business.
+[30] In addition to these revealing facts relating to the assessment of the nature of the employer-employee relationship between the Appellant and Le Homardier d'Anticosti Inc., the Court must also consider the fact that the second shareholder, John Pineault, who held 33 percent of the capital stock, did not testify.
+[31] It would have been highly appropriate for him to come and explain the nature of his involvement and especially how the corporation was able to exercise its power of control over the work performed by the Appellant. I think it important to recall that the burden of proof was on the Appellant.
+[32] Lastly, the evidence also revealed a very important aspect of the role played by the Appellant. The Appellant's spouse, Anne‑Marie Lelièvre, the third shareholder, who also held 33 percent of the shares, formally stated that she had had nothing to do with Le Homardier d'Anticosti Inc. When examined on her participation in the affairs of Le Homardier d'Anticosti Inc., in which she nevertheless held 33 percent of the capital stock, Anne‑Marie Lelièvre stated the following (Exhibit I‑13 - Statutory Declaration of Annie‑Marie Lelièvre, p. 5):
+[TRANSLATION]
+How long have you been a shareholder of Pêcheries?
+Since March 2002, of 33 percent, which is equivalent to an investment of approximately $5,000. Before that, it was just Michel. I've become a shareholder very recently. John Pineault has 33 percent and Michel has 33 percent as well. It's Michel who handles that entirely.
+The questionnaire that the Commission sent on May 21, 2002, was completed by Michel.
+I don't have anything to do with that company, and I don’t know anything about it.
+(My emphasis)
+Why did you invest in this company?
+Michel wanted to have shareholders, and that's why I invested. He doesn't talk to me about the things he buys for the boat.
+Does John Pineault handle it, or just Michel?
+It's more Michel who handles things, like the papers.
+Kevan Martin worked for Location in 1999; what did he do?
+He mainly washed the trucks, looked after the tires, and those things were done on Saturdays. Kevan checked the entire vehicle. I was his supervisor. He didn't work the entire summer at Location. When it was owned by Tilden, he had more day work. He did both companies, Pêcheries and Location; he was about half and half for 1999 and 2001. In 1999, he had more work. I had more daily rentals with Tilden; I had a lot less with Sauvageau; with them, it's more long-term.
+In 2001, he went fishing more often, 75 percent fishing, 25 percent rentals. When he got his record for Pêcheries, he didn't come to Location at all.
+In 2000, in the first two weeks of August, he worked for AML on Saturdays and on other duties during the week. I was the boss.
+Does anyone else wash the vehicles?
+No, just on weekends, we set Saturdays aside to wash the trucks. For daily rentals, Michel washes the trucks.
+[33] In addition to energetically contending that owning a truck-rental business had little or no impact on his work as a fisherman, the Appellant also stated his main grievance with and criticism of the quality of the investigation and analysis work, that the particular, indeed even unique, situation prevailing on Anticosti Island had not been taken into consideration.
+[34] These two factors have no impact; all regions have their particular characteristics. Although the provisions of the Act are the same for everyone, the regulations can vary, precisely in order to take certain particular characteristics into account. This is the case for fishermen, for the number of hours required to qualify and so on.
+[35] In the instant case, it is a well-known fact that economic activities on Anticosti Island were and still are particular, in that they depend almost entirely on tourism, the extent of which requires that support infrastructure be prepared. This fact has no impact on the terms and conditions of the work performed by the Appellant.
+[36] The wage parity between the Appellant and the other fishermen, the fact that the Appellant enjoyed considerable independence in performing his work, the fact that he managed the corporation as though he were its sole shareholder, and the fact that the corporation in which he held all the shares made advances and occasionally paid the fishermen's wages are all relevant facts that have nothing to do with the particular characteristics of Anticosti Island's economy.
+[37] In light of all the facts revealed by the evidence, it seems clear that the Appellant's actions were not subject to any control. He enjoyed a freedom and independence such that he was accountable to absolutely no one. He made all the important decisions and set his own working hours. In actual fact, he was the directing mind of Le Homardier d'Anticosti Inc.
+[38] Although the capital stock was distributed equally among the Appellant, his spouse and John Pineault, his spouse and Mr. Pineault were clearly not involved in any way.
+[39] This conclusion follows from the admission of the Appellant's spouse. As to John Pineault, the fact that he did not testify confirms that he clearly had a very passive role. The fact that Location AML Inc., of which the Appellant was the sole shareholder, invested in the fishing company is another indication that the other two shareholders played a secondary role.
+[40] The question of John Pineault's actual status could have been raised and questioned. Having regard to the Appellant's spouse's lack of interest in the business of the corporation, it would have been very important to call John Pineault as a witness.
+[41] Some of the evidence might support the argument that the Appellant controlled more than 40 percent of the shares of Le Homardier d'Anticosti Inc., indeed even all the shares.
+[42] However, it is neither necessary nor useful to rule on that point, since it can clearly be concluded on a balance of probabilities that the Appellant enjoyed special status that was clearly not comparable to that which a third party would have had. Neither his remuneration nor his terms and conditions could be compared to those that would have existed if the parties had been dealing with each other at arm's length.
+[43] On a balance of probabilities, the facts considered in the analysis of the case were sufficient to warrant the determination that was entirely reasonable in the circumstances. The evidence adduced at trial was, moreover, consistent with the facts available at the time of the analysis that led to the determination.
+[44] The analysis of the facts was conducted in an appropriate and reasonable manner; the relevant facts were considered and the conclusion reached is reasonable and entirely appropriate. The facts considered were moreover restated at the hearing.
+[45] The facts support the conclusion that there could be no relationship of subordination between the Appellant and the corporation in which the Appellant held only 33.33 percent of the shares, in view of the fact that his spouse, who also held 33.33 percent of the shares, expressly stated the following, and I repeat:
+[TRANSLATION]
+I don't have anything to do with that company, and I don’t know anything about it.
+[46] In the instant case, the evidence, and the burden of proof was on the Appellant, revealed no facts or elements that might lead the Court to find that the Respondent failed to consider one or more of the relevant facts that might have had an effect on the finding.
+[47] The Minister concluded that, having regard to the terms and conditions of the Appellant's employment, the compensation paid to him, the duration of the employment and the nature and importance of the work performed, the Appellant and Le Homardier d'Anticosti Inc. would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length. In the circumstances, that conclusion proved to be entirely reasonable.
+[48] It was shown on a balance of probabilities that the Appellant enjoyed employment conditions that were unlike those of a person who would have been dealing at arm's length. The Appellant was in charge and clearly accountable to no one. He acted as though he were the head of a sole proprietorship.
+[49] For these reasons, the appeal is dismissed, as the determination is well founded in fact and in law.
+Signed at Ottawa, Ontario, this 10th day of March 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 7th day of August 2006.
+Julie Poirier, Translator
+CITATION:
+2006TCC109
+COURT DOCKET NO.:
+2004-102(EI)
+STYLE OF CAUSE:
+Michel Lelièvre v. The Minister of National Revenue and Le Homardier d'Anticosti Inc.
+PLACE OF HEARING:
+Québec, Quebec
+DATES
+Hearings:
+Appellant's submissions:
+Appellant's cases:
+Respondents notes and authorities:
+January 19 and April 18, 2005
+September 15, 2005
+September 19, 2005
+October 14, 2005
+REASON FOR JUDGMENT BY:
+The Honourable Judge Alain Tardif
+DATE OF JUDGMENT:
+March 10, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Sylvain L. Roy
+Annie Lelièvre (author of the written argument)
+Counsel for the Respondent:
+Anne Poirier
+Counsel for the Intervener:
+Sylvain L. Roy
+Annie Lelièvre (author of the written argument)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Annie Lelièvre
+Firm:
+City:
+Bernier, Beaudry
+Sainte-Foy, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Minister of Justice and Deputy Attorney General of Canada
+Ottawa, Canada

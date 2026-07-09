@@ -1,0 +1,130 @@
+Title: Pearson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29284/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-338-29284-pearson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-06-23
+
+# Pearson c. La Reine
+
+- Citation: 2009 CCI 338
+- Decision date: 2009-06-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7085, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pearson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-06-23
+Référence neutre
+2009 CCI 338
+Numéro de dossier
+2007-4165(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4165(IT)G
+ENTRE :
+KAREN FAITH PEARSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 8 juin 2009, à Kamloops (Colombie‑Britannique).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Nadine Taylor Pickering
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie à l’égard de l’appelante en vertu de l’article 160 de la Loi de l’impôt sur le revenu, dont l’avis est daté du 22 mars 2007 et porte le numéro 38982, est rejeté, avec dépens.
+Signé à Vancouver (Colombie‑Britannique), ce 23e jour de juin 2009.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 30e jour de septembre 2009.
+Erich Klein, réviseur
+Référence : 2009 CCI 338
+Date : 20090623
+Dossier : 2007-4165(IT)G
+ENTRE :
+KAREN FAITH PEARSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Pendant les années 1990 et au début du nouveau siècle, M. Paul Pearson exploitait une entreprise prospère d’organisation de salons professionnels. À la suite d’une vérification de l’Agence du revenu du Canada (l’« ARC »), il s’est avéré qu’il devait près d’un million de dollars au gouvernement du Canada au début de l’année 2004. Il s’efforçait de sauver son entreprise. En 2004, la fille de M. Pearson, Karen Pearson, l’appelante en l’espèce, a aidé son père à s’occuper de l’entreprise. Celui‑ci a déclaré que, pour cela, il lui versait un salaire de 600 $ toutes les deux semaines. En plus de cela, des chèques d'un total d’environ 27 000 $ ont été faits à l'ordre de l'appelante pendant cette même année; le père et la fille prétendent que ces chèques étaient destinés à répondre aux besoins de l’entreprise de M. Pearson ou aux besoins personnels de celui‑ci, et qu’ils n’avaient pas été établis au profit de l’appelante elle‑même. Une cotisation a été établie à l’égard de l’appelante en vertu de l’article 160 de la Loi de l’impôt sur le revenu (la « Loi ») au motif que M. Pearson a transféré ce bien, soit la somme de 27 000 $, à l’appelante sans contrepartie et que l’appelante est par conséquent solidairement responsable avec son père de la dette fiscale de celui-ci, jusqu’à concurrence du montant qu’il lui a transféré.
+[2] Dans quelles circonstances Mme Pearson a‑t‑elle encaissé les chèques d’un montant total de 27 000 $ que son père a libellés à son nom en 2004? Il faut revenir quelques années en arrière, jusqu’en 1993, quand M. Pearson a commencé à exploiter son entreprise d’organisation de salons professionnels dans le domaine des maisons en bois rond. Il organisait des salons au Canada et aux États-Unis. Il a embauché des vendeurs à commission afin de trouver des exposants, vendeurs auxquels il versait une commission de 20 %, ou dans le cas de M. Scott, un des témoins à l’audience, de 20 ou 25 % en fonction de l’importance du contrat qu’il obtenait. M. Pearson payait ses vendeurs en espèces tous les vendredis. Lui ou sa réceptionniste se rendait à la banque pour chercher l’argent. L’entreprise semblait florissante.
+[3] En 2003, l’ARC a procédé à une vérification relative à M. Pearson, laquelle était susceptible de conduire à l’établissement d’une nouvelle cotisation de plus d’un million de dollars. En février 2004, M. Pearson et l’ARC se sont entendus pour fixer le montant de la dette à environ 936 000 $, l’ARC ayant accordé la déduction de certaines dépenses et renoncé aux pénalités pour faute lourde. M. Pearson a cherché de nouvelles sources de revenus. Il a essayé de se lancer dans le domaine des magazines de construction de maisons en bois rond et il a embauché sa fille, l’appelante, pour l’aider à cet égard pendant toute l’année 2004. Au cours de l’interrogatoire préalable, Mme Pearson n’a pas pu se souvenir avec exactitude du nom du magazine en question. M. Pearson prétend avoir versé à sa fille 600 $ toutes les deux semaines, montants que celle‑ci n’a pas déclarés dans sa déclaration de revenus pour 2004. À l'examen des relevés bancaires de M. Pearson, ces versements n’y apparaissaient pas, quoique M. Pearson prétende qu’il avait un compte en banque américain distinct, compte pour lequel il ne m’a présenté aucun relevé. En outre, dans une lettre datée de février 2007 et adressée à « qui de droit », M. Pearson a déclaré : [traduction] « Karen n’a pas travaillé pour moi en 2004 ».
+[4] En 2004, M. Pearson employait moins de vendeurs que par les années passées, mais il a affirmé qu’il continuait de les payer en espèces. M. Scott, un de ces vendeurs, a confirmé qu’il avait été payé de cette manière en 2004. Il a également déclaré qu’il avait l’impression que Mme Pearson s’occupait de la plupart des opérations bancaires. Cette dernière a déclaré qu’en 2004, il était plus commode que ce soit elle qui se rende à la banque plutôt que son père. Elle a ajouté qu'elle avait peut-être gardé quelques petites sommes en espèces. M. Pearson a prétendu que même s’il s’est peut-être rendu à la banque une vingtaine de fois en 2004, cela le mettait mal à l’aise de le faire et il préférait que sa fille y aille à sa place. La raison pour laquelle il était mal à l'aise était qu'il avait été inculpé relativement à une infraction sexuelle; il s'agit d'une affaire qui a été fortement médiatisée à Kamloops. Il avait déjà été incarcéré bien des années auparavant pour des infractions à caractère sexuel et avait été en probation. Bien qu’il ait été acquitté relativement à l'infraction la plus récente, il sentait clairement la stigmatisation dont il faisait l’objet ainsi que l’animosité de la communauté à son endroit. Il a néanmoins continué à sortir dans la communauté en 2004, étant donné qu’il y était contraint pour des raisons d'affaires. Il a affirmé que c’est surtout la gêne qu'il éprouvait qui l’avait poussé à envoyer sa fille à la banque. Il a soutenu que sa fille lui a rendu les 27 000 $ en espèces qu'elle avait reçus et que cet argent était utilisé pour payer les dépenses d’entreprise, y compris les commissions des vendeurs, et les dépenses personnelles de M. Pearson lui-même, ce qui incluait l’alimentation de ses dépendances à la cocaïne et à l’alcool. L’ARC prétend que M. Pearson a commencé à verser de l’argent à Mme Pearson quelques jours seulement après avoir conclu avec l’ARC l'entente au sujet de sa dette fiscale, et que les paiements visaient à transférer à sa fille des fonds potentiellement exigibles.
+[5] La Couronne fonde sa position sur le fait que Mme Pearson et son conjoint ont déclaré un revenu ne s’élevant qu’à environ 12 000 $ pour 2004, ce qui ne comprend pas la somme d’environ 14 000 $ que Mme Pearson aurait reçue de son père à titre de salaire, ainsi que sur le fait que les frais de subsistance du couple auraient largement dépassé le montant du revenu déclaré. La Couronne demande de quelle autre source Mme Pearson aurait obtenu l’argent nécessaire à sa subsistance.
+[6] Ayant entendu le témoignage de M. Scott, j'ai l’impression que lui et M. Pearson avaient une relation irrégulière, et plus important encore, qu’ils en prenaient à leur aise avec les règles et règlements; il a admis, d'ailleurs, qu’il leur arrivait de conduire en état d’ébriété, de conduire sans permis de conduire ainsi que de modifier les numéros de TPS sur les documents. La vie et les affaires semblent avoir été une partie de plaisir en quelque sorte. M. Pearson a gagné beaucoup d’argent, mais n’a pas payé l’impôt exigé et a fait faillite. L’ARC se tourne maintenant vers la fille pour récupérer une petite partie de la dette du père.
+[7] Mme Pearson a déclaré qu’en 2004 elle ignorait que son père devait environ un million de dollars à l’ARC. Qu’elle l’ait su ou non ne devrait rien changer à l’application du paragraphe 160(1) de la Loi, lequel est ainsi rédigé :
+160(1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n’est toutefois réputée limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[8] Avant d’analyser les exigences de l’article 160, je voudrais brièvement me pencher sur les motivations des Pearson et, en même temps, sur leur crédibilité. Comme je l’ai précédemment indiqué, M. Pearson m’est apparu comme une personne peu respectueuse des règles, gérant ses affaires sans beaucoup s’embarrasser de l’exactitude de sa comptabilité ou de la précision de ses déclarations de revenus. Mon opinion n’est pas fondée sur son passé criminel, mais sur son approche du commerce en général : le fait de ne pas déclarer tous ses revenus, le peu de documents et les opérations au comptant, par exemple. À cela s'ajoutent ses déclarations contradictoires; par exemple, sa lettre de février 2007 disant clairement que sa fille n’avait pas travaillé pour lui, alors qu’à l'audience il a affirmé l’avoir payée 600 $ toutes les deux semaines pour travailler à la réalisation d'un magazine. Les déclarations qu'a faites Mme Pearson lors de l’interrogatoire préalable, selon lesquelles elle n’arrivait pas à se souvenir avec exactitude du nom du magazine dont elle était censée être l’éditrice aux dires de son père, ne m’ont guère rassuré. En outre, le fait que Mme Pearson n’ait jamais déclaré la somme de 14 000 $ qu’elle a touchée à titre de salaire renforce mes soupçons quant à la véritable nature de la relation entre le père et la fille. Je doute également de la valeur de leur témoignage quand j’entends que l'appelante et M. Pearson sont proches, mais pas suffisamment pour que le père informe sa fille du fait qu’il devait un million de dollars à l’ARC, et pourtant cette dette était prétendument la raison du lancement d’un magazine : c'était une tentative de rassembler des fonds en vue de rembourser la dette.
+[9] De plus, Mme Pearson, en expliquant initialement pourquoi elle s’occupait des opérations bancaires, a dit qu’il était plus commode que ce soit elle qui s’en charge, mais sans vraiment expliquer en quoi cela pouvait incommoder M. Pearson de le faire, si ce n’est qu’il faisait parfois chaud et que celui‑ci était corpulent. Pourtant, la seule idée de M. Pearson à cet égard était de fuir le monde du fait des accusations d’infraction sexuelle portées contre lui. Toutefois, il se rendait quand même à la banque et s’est occupé de beaucoup d’autres transactions, ce qui indique clairement qu’il sortait dans la communauté.
+[10] Le témoignage de M. Scott, le seul employé n’ayant aucun lien de dépendance qui a été cité à comparaître, qui a dit qu’il ne fallait pas prendre trop au sérieux les commentaires selon lesquels M. Pearson était un voleur et que le fait d’avoir utilisé des numéros de TPS fictifs était juste une plaisanterie, n'appuie pas très fortement la position de l’appelante. En effet, je ne tire pas une conclusion favorable à l’égard des témoins de l’appelante. Ainsi, là où la preuve n'est pas concluante dans un sens ou dans l'autre, je fais pencher la balance contre les Pearson.
+[11] J’examinerai maintenant les exigences présidant à l’application de l’article 160 :
+(i) un transfert de biens;
+(ii) l’auteur du transfert et le bénéficiaire ont un lien de dépendance;
+(iii) le bénéficiaire a donné a l’auteur du transfert une contrepartie nulle ou insuffisante;
+(iv) l’auteur du transfert est tenu de payer un montant en vertu de la Loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années.
+[12] Comme dans la décision Gambino c. La Reine[1], il a été satisfait aux exigences (ii) et (iv) et les exigences (i) et (iii) font l’objet d’un désaccord.
+(i) Y a‑t‑il eu transfert de biens?
+[13] Si je conclus que Mme Pearson disposait en maître des chèques qu’elle a reçus de M. Pearson, et par la suite, de l’argent qu’elle obtenait en encaissant ces chèques, il y a alors eu transfert de biens. D’après les commentaires formulés par la Cour d’appel fédérale dans l’arrêt Canada c. Livingston[2], même si je concluais qu’elle n’avait reçu ces fonds qu’à titre de fiduciaire de son père, il y aurait quand même eu transfert. Il n’a jamais été avancé qu’elle était nue‑fiduciaire. Aurait‑elle pu endosser un chèque au profit d’un tiers? Aurait‑elle pu empocher une partie de l’argent? Je crois que oui, et elle a en effet reconnu qu'elle pouvait en prendre un petit montant, si nécessaire, pour des articles d’épicerie, par exemple. Mais en outre — et cela est plus important —, Mme Pearson n’a pas prouvé, selon la prépondérance des probabilités, qu’elle a effectivement rendu tous les fonds en cause à son père. C’est là que la question de la crédibilité entre en ligne de compte. Quand je considère le revenu minime que Mme Pearson et son conjoint ont gagné en 2004 et que j’évalue la véracité des versions des Pearson, je ne peux tout simplement pas conclure, selon la prépondérance des probabilités, que l’appelante a rendu tous les fonds à son père. En fait, je suis convaincu qu’elle ne l’a pas fait. Il se peut qu’elle en ait rendu une partie, mais je n’ai aucun moyen de déterminer combien, et il revient à l’appelante de me convaincre à cet égard. Il ne s’agit pas ici d’une situation dans laquelle il existe des faits sur lesquels je pourrais me fonder pour répartir le montant entre son père et elle.
+[14] Toutefois, même si je concluais qu’elle a bien rendu l’argent à son père, il faudrait se poser la question de savoir si elle a simplement agi à titre de mandataire de celui-ci, comme une employée sans lien de dépendance qui s'occupait des opérations bancaires de son employeur. Les versions des Pearson ne sont simplement pas assez cohérentes pour me permettre de conclure à l'existence d'un mandat : il n’y a aucun contrat d'emploi, aucun document bancaire, aucune trace des fonds; c’est tout simplement insuffisant.
+(ii) Mme Pearson a‑t‑elle donné une contrepartie suffisante pour les chèques?
+[15] C’est sur l'existence d'une contrepartie suffisante que le juge Boyle s'est fondé pour trancher en faveur de la contribuable dans la décision Gambino. Mme Gambino encaissait les chèques d'allocation d’invalidité de son fils frappé d’incapacité et lui rapportait l’argent. Le juge Boyle a conclu de la manière suivante :
+[31] J’accepte le fait que Mme Gambino ait eu l’intention et se soit empressée de rapporter à son fils les espèces obtenues au titre des chèques encaissés. Je reconnais aussi qu’il était de l’intention de Mme Gambino que son fils lui rembourse le prêt de 500 $ qu’elle lui avait consenti. J’accepte qu’elle n’ait pas pensé que son fils avait eu l’intention de lui faire un don de l’une quelconque de ces sommes. Je suis convaincu qu’une contrepartie, au sens où ce terme est employé à l’article 160, a été donnée pour chacune des sommes qui ont brièvement passé entre ses mains. Je suis également convaincu que son engagement à cet effet ou, quoi qu’il en soit, son intention d’effectivement agir ainsi, existait au moment où les chèques endossés lui ont été transférés.
+[16] J’ai été quelque peu surpris du fait que l’avocate de l’intimée a dit que cette décision était erronée — ce qui impliquait qu’on avait satisfait aux exigences clairement formulées à l’article 160 — et que la décision que la Cour a rendue à l’égard de Mme Gambino était motivée par la compassion. Cette interprétation très stricte que propose la Couronne mènerait non seulement à des résultats excessivement sévères, mais aussi à des pouvoirs de recouvrement plus larges que ceux qu'on a voulu conférer au moyen de l'article 160. La décision Gambino est bien fondée. Une contrepartie était passée de la mère au fils, et c'était une contrepartie sous la forme d’une obligation de lui remettre la totalité du montant. En l’espèce, on ne m'a pas convaincu de l’existence d’une telle obligation. Comme je l’ai déjà indiqué, il se peut que Mme Pearson ait rendu une partie de l’argent, quoique j'aie conclu qu’il est improbable qu’elle l'ait tout rendu. Et si elle n’a pas rendu tout l’argent, a‑t‑elle manqué à une obligation de le faire ou n’y avait‑il simplement pas d’obligation? M'appuyant sur les opinions que j’ai formulées précédemment au sujet des pratiques commerciales de M. Pearson, je conclus qu’il n’y avait aucune obligation susceptible de justifier une conclusion selon laquelle Mme Pearson a donné une contrepartie suffisante. Peut-être que Mme Pearson rendait une partie de l'argent, peut‑être pas. Peut‑être qu’elle l’a fait, peut‑être pas. Il y a trop de « peut‑être » et pas suffisamment de preuves concrètes et crédibles. Selon la prépondérance des probabilités, je conclus que Mme Pearson n’a donné aucune contrepartie suffisante. Ainsi, il a été satisfait à chacune des quatre exigences de l’article 160 et Mme Pearson est bel et bien solidairement responsable avec son père de la dette fiscale de celui-ci, et ce, jusqu'à concurrence du montant de l’argent qu'elle a reçu de lui.
+[17] L’appel est rejeté, avec dépens.
+Signé à Vancouver (Colombie‑Britannique), ce 23e jour de juin 2009.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 30e jour de septembre 2009.
+Erich Klein, réviseur
+RÉFÉRENCE : 2009 CCI 338
+NO DU DOSSIER DE LA COUR : 2007-4165(IT)G
+INTITULÉ DE LA CAUSE : Karen Faith Pearson c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Kamloops (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 8 juin 2009
+MOTIFS DU JUGEMENT PAR : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 23 juin 2009
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Nadine Taylor Pickering
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 2008 CCI 601.
+[2] 2008 CAF 89.

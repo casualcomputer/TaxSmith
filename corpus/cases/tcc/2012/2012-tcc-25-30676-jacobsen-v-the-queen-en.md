@@ -1,0 +1,168 @@
+---
+title: "Jacobsen v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30676/index.do"
+last_modified: "2012-01-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 25"
+citation2: ""
+neutral_citation: "2012 TCC 25"
+decision_date: "2012-01-20"
+language: "en"
+item_id: "30676"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7173
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:38:26.775000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eab3529fbb5b32fd316cb33c7a0ff70f1617d45e46243144f7862a3c370eabd0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jacobsen v. The Queen
+
+- Citation: 2012 TCC 25
+- Decision date: 2012-01-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7173, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jacobsen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-01-20
+Neutral citation
+2012 TCC 25
+File numbers
+2009-2129(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2129(IT)G
+BETWEEN:
+HENNING E. JACOBSEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 11 and 12, 2011 at Montreal, Quebec
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Counsel for the Appellant:
+Me Guy Matte
+Counsel for the Respondent:
+Me Christina Ham
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeals from the reassessments made under the Income Tax Act for the 2003, 2004 and 2005 taxation years are dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada this 20th day of January 2012.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2012 TCC 25
+Date: 20120120
+Docket: 2009-2129(IT)G
+BETWEEN:
+HENNING E. JACOBSEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan J.
+Introduction
+[1] The Appellant, Henning Jacobsen, is appealing the reassessment by the Minister of National Revenue under the Income Tax Act of his 2003, 2004 and 2005 taxation years. During those years, the Appellant was a self-employed aerospace consultant with a particular expertise in analysis and management of data in electronic form.
+[2] The 2003 taxation year was reassessed after the normal reassessment period; penalties were assessed in respect of all three taxation years. The Minister had the onus of justifying the 2003 reassessment and the imposition of penalties pursuant to subsections 152(4) and 163(2), respectively. Subsection 163(2) carries a greater burden of proof than subsection 152(4) of the Act.
+[3] In reassessing the 2004 and 2005 taxation years, the Minister assumed the Appellant had not reported income of $33,886 and $33,127, respectively, and in respect of 2005 only, had not remitted the attendant Goods and Services Tax. In all three taxation years, the Minister disallowed certain business expense claims on the assumption that they were personal expenditures and therefore, not deductible under paragraph 18(1)(h) of the Act.
+Analysis
+[4] At the commencement of the hearing, the Appellant admitted his failure to report income and to remit GST but denied this omission was sufficient to trigger the imposition of penalties. Leaving aside that issue and the matter of the statute-barred year, the question is whether the various amounts claimed for interest, meals and entertainment, motor vehicle, office supplies and services, travel, subcontracting and business use of home were incurred for the purpose of earning business income as required by paragraph 18(1)(a) of the Act.
+[5] I regret to say that the Appellant did not meet his onus of disproving the Minister’s assumption that the amounts claimed were personal in nature. This had mainly to do with his trial strategy. Rather than forging a link between the amounts claimed and source documents substantiating them or calling witnesses to corroborate his oral evidence, the Appellant focused on the manipulation of data he had compiled in an electronic database (“Database”). He sought and was granted leave to use the Database as an aid to his testimony. The Database showed the raw expense figures taken from the Appellant’s credit card and bank statements[1] which he had entered, long after the fact, under various categories of business expenses: travel, promotion, entertainment, motor vehicle and so on. The great weakness of the Database was that the totals shown as business expenses were entirely dependant upon the Appellant’s subjective determination as to whether they were business-related or personal.
+[6] The other difficulty was that the Appellant did not produce the invoices or receipts underlying these expenditures. Without these source documents (or others such as contemporaneously recorded vehicle logs or social events diaries), the Appellant’s bare assertion of their business use could not be verified. In addition to its subjective basis, the Appellant’s system of categorization was further flawed by certain misconceptions he held: for example, that expenditures made in the course of his consulting work which, under the terms of their agreement a particular client might agree to reimburse, were properly deductible under the Act. He also seemed to believe that as long as there was some link, however remote, to his business, an expenditure was a legitimate business expense. The Appellant further complicated matters for himself by not having maintained separate accounts for his business and personal affairs.
+[7] As for the inaccuracies in his returns, the Appellant blamed these on his accountant; specifically, her advice to under-report his losses in 2003 to avoid attracting the attention of the Canada Revenue Agency which he said resulted in other errors in his 2004 and 2005 returns (Exhibit A-1). However, the Appellant admitted he provided the data used by the accountant and knowing the returns to be inaccurate, he filed them. Furthermore, the accountant was not called as a witness.
+[8] In a similar vein, the Appellant felt the auditor in charge of his file was wrong in having used the erroneous information filed in his returns[2] as the basis for her analysis. Had she been willing to use the revised information in an earlier iteration of what by time of trial was the Database, there would have been no basis for the reassessments. Counsel for the Appellant also argued that she had not properly understood the nature of the Appellant’s consultancy business.
+[9] The auditor assigned to the Appellant’s file, Nadia Sglavo, was called by the Respondent. She explained her methodology and made a thorough review of the materials she relied on in disallowing the Appellant’s expenses. Her first step was to examine the expense amounts reported by the Appellant in his returns (Exhibit A-1). Next, she looked at the amounts under each category of expense itemized in a spreadsheet of expenses generated by the earlier version of the Database and tried to correlate them with the few receipts and invoices provided to her by the Appellant. In this regard, the auditor had an advantage over the Court. She had for her review at least some of the source documents, mainly from 2003. Most of the 2004 and 2005 papers had been lost when the Appellant’s basement flooded in 2006. The auditor then prepared her working papers and met with the Appellant and his accountant to permit them to respond to her findings. As a result, some adjustments were made in the Appellant’s favour; the remaining disallowed amounts were confirmed on objection and are the subject of these appeals.
+[10] Regardless of the auditor’s conclusions, the Appellant’s task at the hearing was to meet his onus of justifying the business nature of the amounts claimed. However, because the Appellant (and his counsel) so frequently criticized the auditor’s analysis I would add the following: given the self-reporting basis of the Canadian tax system, the auditor can hardly be faulted for having relied on the information the Appellant himself provided to her in returns he knew to be erroneous. As for the use of the Database at the audit stage, it did not then exist in the form presented at trial. Furthermore, the auditor did accept and review a paper copy of an earlier version of the Database. When that failed to convince, the Appellant continued to massage the data throughout the objection stage and up to the moment of trial; indeed, when during his testimony the Appellant spotted an error in one of the sub-categories, he amended it on the spot. While its ease of alteration may be an asset in the realm of electronic data management, it did nothing to enhance the Database’s reliability as an aid to the Appellant’s testimony.
+[11] At the close of the Appellant’s testimony it became clear that what the Appellant really wanted was to file amended returns based on the Database which, he asserted, showed he was entitled to far more business expenses (Exhibit A-7) than those originally claimed in his returns, during the audit or at the objection stage. I denied counsel for the Appellant’s request to amend the Notice of Appeal accordingly. However, even if I had allowed the amendment, it would not have changed the outcome as overall, the Appellant failed to establish the business purpose of the amounts claimed.
+[12] Given this conclusion, it is not necessary to do a line-by-line analysis of the Appellant’s claims; however, the approach taken in the consideration of his evidence, together with some examples, are set out below.
+[13] Having heard the Appellant’s testimony, I cross-referenced the bank and credit card statements for 2003, 2004 and 2005 (Exhibits A-3, A-4 and A-5, respectively) with the corresponding Database printouts for each financial institution (Exhibit A-6). I had intended to check these against the source documents which I understood the Appellant to say were included with the exhibits. Upon discovering otherwise, I focused on the 2003 taxation year as at least some copies of receipts and invoices were available in the Respondent’s documents (Exhibit R-2).
+[14] One of the first items listed in the 2003 Database printout (Exhibit A-6) is “Belair” on January 3, 2003, categorized generally as a business expense and under the sub-category “Travel & Living”. Under the Appellant’s system, that meant living expenses incurred while traveling on business. Cross-referencing the dates and amounts shown with the MBNA statements (Exhibit A-3) shows “Belair” to be the Appellant’s shorthand for “Nettoyeur Belaire”, identified by the auditor as a dry cleaning company. There are numerous similar charges throughout 2003. The Appellant explained that he categorized his dry cleaning charges as a business expense on the basis that as a consultant, he had always charged back such costs to his clients. While it is open to the parties to make such an agreement, it does not serve to convert dry cleaning costs, which are on their face personal in nature, into business expenses.
+[15] The 2003 Database printout also categorizes under “Ent” (entertainment) or “PR” (promotion), expenditures for liquor store purchases, ski resorts, gift shops and grocery stores, all of which can be found in the MBNA statements (Exhibit A-3). The Appellant said these were properly classified as business expenses because as a consultant he had to make social connections with existing or potential clients. He also used social occasions to get advice from lawyers, accountants and those with expertise or connections in the aerospace industry. In furtherance of this objective, he often invited them for Friday night drinks at his home, took them to restaurants or resorts, and sent them thank you or birthday gifts. The grocery store purchases, he said, reflected purchases made to prepare elaborate dinners at his home for business guests.
+[16] Given the nature of the Appellant’s business, none of this is beyond the realm of possibility. However, what few source documents were available for the Court’s review did not support his contention. Looking at the copies of receipts in Exhibit R-2, Tab 6, there is no reason to think the grocery purchases were anything other than the couple’s personal weekly shopping. The Appellant did not keep a diary of social events showing the dates they occurred or the names of his guests. The Appellant’s wife, who he said looked after the business’s social events, was not called to corroborate his story. While the Appellant testified that he and his wife entertained business guests once or twice a month, the grocery purchases claimed as business expenses (Exhibits A-3 and A-6) occur on a much more frequent basis. The auditor’s analysis (Exhibit R-2, Tab 5) also showed the Appellant had the habit of taking cash back on many credit card purchases and claiming the full amount as a business expense. The Appellant testified that he always used these cash amounts for miscellaneous small purchases but again, there was no evidence to substantiate their business purpose.
+[17] A review of Exhibits A-3 and A-6 also reveals that the Appellant frequently categorized certain travel expenditures as business expenses. Such trips tended to occur during holiday periods i.e., New Year’s or Labour Day or on weekends. The Appellant explained that, as a self-employed person, he was able to organize his meetings with clients so he and his wife (who often went with him to help with travel arrangements and social duties) could combine business with pleasure.
+[18] Again, there is nothing wrong with this as far as it goes. But given the dual nature of such excursions, it was incumbent on the Appellant to document carefully his expenditures so he could later justify the link to his business. This he did not do. Given the other weaknesses in his evidence, more was required than his bare assertion as to the business nature of the trip. At Tab 11 of Exhibit A-8 is a copy of what the Appellant characterizes as a motor vehicle log. However, like the Database, it was created after the fact. Rather than working from contemporaneous records of his travel, for example, notes of his actual mileage, gas receipts and so on, the Appellant worked backwards from what he said were client meeting dates to extrapolate business expenses from generic information such as internet distance calculators and average fuel prices indexed for the period. Using this method, the Appellant justified travel, restaurant and liquor expenditures in respect of trips to Belleville and Toronto to see a financial advisor and a lawyer, respectively. As it happened, these individuals were old friends; the Appellant was not charged any amount for their ‘advice’. Without further evidence to corroborate his bare assertion of their business purpose, such costs look much more personal than business-related.
+[19] In 2004, the Appellant claimed travel expenses in respect of a trip to Florida. He and his wife left their home in Quebec on December 15, 2004 to spend a month in a condo in Naples. A review of the 2004 Database printout (Exhibit A-6) and the MBNA statements (Exhibit A-4) shows the expensing of a number of purchases during this period for groceries, gas, car rental, pharmacies and restaurants. The Appellant claimed all of these amounts on the basis that the Florida trip was necessary for his business: he had had to consult with an expert who, as it happened, was in Florida. However, the Appellant later said that he never, in fact, met with the expert because they discussed the project on the phone, something he could just as easily have done from his home office in Quebec. As for the expenses claimed, even if I accepted the business purpose of the trip, most of the expenses are on the face of it, personal in nature. One receipt identified by the auditor was from Marshall’s, a store in Naples, Florida, showing the item expensed was footwear[3]. While one such receipt would not be fatal to a taxpayer’s claim, it is typical of the Appellant’s rather blasé approach to supporting documentation.
+[20] The Appellant also argued that he ought to be entitled to significantly more of the interest paid on his various credit cards and credit lines than the 50% allowed by the auditor. Yet again, the Appellant is the author of his own misfortunes. By choosing not to establish separate accounts for business and personal use and failing to provide corroborating evidence of his claims, the Appellant made very difficult the task of determining how much of the interest paid on those accounts could be attributed to business expenditures.
+[21] Finally, the Appellant sought to deduct various expenses incurred in respect of his residence out of which he operated his consultancy business. Again, nothing in the Act prevents the claiming of such expenditures, as long as they can be linked to a business purpose. Unfortunately, the Appellant’s evidence fell short of the mark. A review of Exhibit A-6 and the statements in Exhibits A-3, A-4 and A-5 shows that in addition to claiming expenditures typically associated with office supplies and services (paper, postage, computer equipment, technology support), the Appellant also sought to deduct landscaping, pool maintenance and house cleaning (interior and exterior) costs. His justification was that as the base of his consultancy business, his residence had to be a show place; indeed, he said he had bought the impressive home precisely for that reason. However, to succeed in his claims, the Appellant still needed to establish a practical link between the expenditures and a business purpose. Given the few times a year the Appellant said he entertained at home relative to the costs incurred and the overall lack of corroborating evidence, I am not at all convinced such claims are viable. Indeed, I think the Appellant should count himself lucky that certain gardening costs for bedding plants and so on, were allowed at the audit stage.
+[22] The other serious flaw in the Appellant’s claims in respect of the business use of his home was the percentage of residential costs he sought to deduct. He originally claimed 25% of such costs in his 2003 return, a good portion of which were accepted by the auditor. Because he had no supporting documents for 2004 and 2005, the auditor applied an averaged amount to those years. By the time of trial, however, the Appellant took the position that he was entitled to claim a full 49% of his residential expenses. This figure was based partly on what others, for lack of a better expression, “got away with” as well as his continued revision of the Database. In calculating the square footage of the area of his residence used for business purposes, the Appellant took an expansive approach, effectively including any space however remotely connected to a client visit i.e., all of the kitchen area because he sometimes served clients a cup of coffee; all of the basement because his consultancy files were stored there along with household items. In all the circumstances, I can see no reason to interfere with this aspect of the reassessments.
+[23] Overall, the Appellant’s evidence failed to prove wrong the assumptions upon which the Minister’s assessments were based; accordingly, his appeals must be dismissed.
+Statute-Barred Year: 2003
+[24] Turning, then, to the question of whether the Minister was justified in reassessing the 2003 taxation year after the normal reassessment period, subparagraph 152(4)(a)(i) of the Act requires the Minister to show a misrepresentation attributable to the taxpayer’s neglect, carelessness, wilful default or fraud. This is not a particularly heavy onus. It is easily satisfied in the present matter given the Appellant’s admission that he filed his 2003 return knowing it to contain incorrect information. Even if I accepted his testimony that he did so only at the instigation of his accountant, that would not be sufficient to relieve him of the consequences of his actions.
+Penalties
+[25] In Venne v. Canada, [1984] C.T.C. 223 at page 233, Strayer, J. set out the approach to be followed in determining whether the Minister’s imposition of penalties under subsection 163(2) of the Act was justified:
+(4) Imposition of penalties - As noted earlier in order for the [Minister] to levy penalties under subsection 163(2) of the Income Tax Act it is necessary that the taxpayer have "knowingly, or under circumstances amounting to gross negligence . . . participated in, assented to or acquiesced in the making of" a false statement in a return, etc. The similar language of sub-section 56(2) of the former Income Tax Act was interpreted by Cattanach, J. in Udell v. Minister of National Revenue (1969) 70 D.T.C. 6019 (Ex.Ct.). … In interpreting the language now found in sub-section 163(2) of the present Income Tax Act, Cattanach, J. said, at pages 6025-26.
+Accordingly there remains the question of whether or not section 56(2) contemplates that the gross negligence of the appellant's agent, the professional accountant, can be attributed to the appellant. Each of the verbs in the language "participated in, assented to or acquiesced in" connotes an element of knowledge on the part of the principal and that there must be concurrence of the principal's will to the act or omission of his agent, or a tacit and silent concurrence therein. The other verb used in section 56(2) is "has made". The question, therefore, is whether the ordinary principles of agency would apply, that is, that what one does by an agent, one does by himself, and the principal is liable for the actions of his agent purporting to act in the scope of his authority even though no express command or privity of the principal be proved.
+In my view the use of the verb "made" in the context in which it is used also involves a deliberate and intentional consciousness on the part of the principal to the act done which on the facts of this case was lacking in the appellant. He was not privy to the gross negligence of his accountant. This is most certainly a reasonable interpretation.
+I take it to be a clear rule of construction that in the imposition of a tax or a duty, and still more of a penalty if there be any fair and reasonable doubt the statute is to be construed so as to give the party sought to be charged the benefit of the doubt.
+In coming to this interpretation the learned judge had regard to the fact that the sub-section in question is a penal provision and it must be interpreted restrictively so that if there is a reasonable interpretation which will avoid the penalty in a particular case that construction should be adopted. He concluded that the erroneous information in the returns was not included with the knowledge of the taxpayer nor could the gross negligence of the accountant be attributed to him.
+It is also important to keep in mind in applying this sub-section that by sub-section 163(3) the burden of proof is on the defendant in justifying the assessment of a penalty.[4]
+[26] Counsel for the Appellant argued that no penalties ought to be imposed in 2003 as the Appellant’s only error was the under-reporting of his business losses. As for 2004 and 2005, the failure to report income was attributed to a ‘glitch’ in the computer program used to create an earlier version of the Database.
+[27] I do not find these arguments persuasive. Starting with 2003, the Appellant admitted not having reported his losses because he did not want to attract the attention of the Canada Revenue Agency. But it was not simply a matter of choosing not to claim a genuinely calculated “loss”; it was an overall misrepresentation of the details of his expenses in the Statement of Professional Activities. Indeed, the Appellant used the word “arbitrary” to describe the figures reported in the returns. The same practice was applied in 2004 and 2005. In those years, however, the Appellant also failed to report a significant amount of income and in respect of the 2005 taxation year, to remit the GST. Given the Appellant’s facility with the Database program (demonstrated, at his request, at the hearing), I find it hard to believe such errors were the result of an internal ‘glitch’ or that he was not aware of them prior to the audit in 2006. He himself testified that he deliberately did not report the fees earned in 2004 because by year end, he had still not received payment from his client and he was not about to pay tax on money he might never get[5]. He did not pay the GST assessed for 2005 because he was sure on his calculations that after his business expenses had been properly assessed, he would not be in a position of liability. In these circumstances, it is difficult to conclude that the Appellant did not know what he was doing when he filed returns in respect of those two years.
+[28] In determining whether the Minister had made out his case for penalties in Venne, Strayer, J. considered the particular circumstances of the taxpayer in question noting first “… as it is relevant to the whole question of the application of penalties under sub-section 163(2), that there seems to be a certain element of subjectivity recognized in the case law with respect to assessing the knowledge or gross negligence of a taxpayer with respect to misstatements in his returns: see, e.g., Howell v. Minister of National Revenue (1981), 81 D.T.C. 230 at 234 (T.R.B.); Joris v. Minister of National Revenue (1981), 81 D.T.C. 470 at 472 (T.R.B.)”[6]. Based on the findings set out below, the Court ultimately concluded that the Minister had not met his burden of proving that the taxpayer had “knowingly” made false statements in his return:
+… The taxpayer here is a man with a grade five education, working and paying taxes in a language which is not his first language nor that in which he was educated, a man who is more at ease in a garage than in an office. Not only do these factors militate against a finding that the misstatements in his returns were made knowingly by him, but also his entire course of conduct is not consistent with that of a person who had deliberately set out to conceal large amounts of taxable income. He kept what appear to be quite complete records of sales in his business, then turned these over to his bookkeeper. As far as one can judge from the evidence, all or most of the revenues from the business were deposited in the bank where the monies could readily be traced. He also lodged all but one or two of the mortgages on which he lent money with banks and trust companies which kept careful records of the income earned from these "escrow mortgages". It is unlikely that a person planning to conceal income would have handled his affairs in this manner. Further it is hard to believe that he was consciously and effectively supervising his bookkeepers since a number of the errors made in his returns were to his disadvantage, even though more of them were to his advantage. I am therefore not able to conclude that the misstatements in the returns were made "knowingly" by the plaintiff.[7]
+[29] These facts are in stark contrast to the Appellant’s situation. He is a well-educated man with an excellent command of English and many years’ experience as a self-employed consultant. He kept close control of his financial dealings and had an expertise in the electronic management of such information. Notwithstanding these advantages, he chose not to keep good records of his business activities or to maintain separate accounts for his business and personal affairs. In these circumstances, it is difficult to believe the Appellant was at the mercy of his accountant. I did not have the benefit of the accountant’s testimony but I have no reason to doubt the auditor’s persuasive description of her as the more reasonable of the two during her meetings with the Appellant. Finally, unlike Mr. Venne’s, the Appellant’s course of conduct shows a financial management style geared to blur the line between business and personal expenditures to maximize deductions.
+[30] Counsel for the Appellant cited a number of other penalties cases[8] in his submissions. In my view, each can be distinguished either on the taxpayers’ lack of sophistication, the credible nature of their evidence and/or the more complex nature of the legislative provision involved.
+Conclusion
+[31] The sad thing about this case is that had the Appellant applied his formidable talents in electronic data management to maintaining contemporaneous records of his business activities – records based on receipts distinguishing business and personal expenditures, notes of client meetings, motor vehicle and social activities logs and so on – he might well have avoided the difficulties he now faces. Given the unreliability of the data entered into the Database, its usefulness as an aid to the Appellant’s testimony was minimal; indeed, it had the effect of further weakening the Appellant’s oral evidence regarding the business nature of specific expenses claimed. All in all, the Appellant has failed to meet his onus of proving wrong the assumptions upon which the reassessments were based. The appeals of the 2003, 2004 and 2005 taxation years are dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada this 20th day of January 2012.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2012 TCC 25
+COURT FILE NO.: 2009-2129(IT)G
+STYLE OF CAUSE: HENNING E. JACOBSEN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: October 11 and 12, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: January 20, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Me Guy Matte
+Counsel for the Respondent:
+Me Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Me Guy Matte
+Firm: Me. Fiscalex Inc.
+500, Place D’Armes, Suite 2100
+Montreal, Quebec, H2Y 2W2
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibits A-3 (2003); A-4 (2004); and A-5 (2005).
+[2] Transcript, page 30, lines 16-23. See Exhibit A-1, “Statement of Professional Activities” for 2003, 2004 and 2005.
+[3] Transcript Vol 2, page 30, lines 8-12.
+[4] Above, at page 233.
+[5] Transcript, page 112, lines 14-19.
+[6] Above, at page 234.
+[7] Above, at page 234.
+[8] Lafrance v. Minister of National Revenue, 71 D.T.C. 172 (T.A.B.); Mark v. Minister of National Revenue, 78 D.T.C. 1205 (T.R.B.); Magliaro v. Minister of National Revenue, 80 D.T.C. 1287 (T.R.B.); Chaimberg v. Minister of National Revenue, 83 D.T.C. 81 (T.R.B.); Yves Cloutier v. Her Majesty the Queen, [1978] C.T.C. 702 (F.C.T.D.); Bhupendra Sandhu v. Minister of National Revenue, 83 D.T.C. 500 (T.R.B.).

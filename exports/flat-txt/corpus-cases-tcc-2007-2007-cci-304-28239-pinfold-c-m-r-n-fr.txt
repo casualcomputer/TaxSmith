@@ -1,0 +1,182 @@
+Title: Pinfold c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28239/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-304-28239-pinfold-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2007-07-17
+
+# Pinfold c. M.R.N.
+
+- Citation: 2007 CCI 304
+- Decision date: 2007-07-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2056, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pinfold c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-07-17
+Référence neutre
+2007 CCI 304
+Numéro de dossier
+2006-3458(EI)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-3458(EI)
+ENTRE :
+EDWIN F. PINFOLD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LANDMARK AUTO SALES LTD.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel
+d’Edwin F. Pinfold (2006-3459(CPP)) le 11 mai 2007,
+à Victoria (Colombie-Britannique).
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Avocate de l’appelant :
+Me Heather Wellman
+Avocate de l’intimé :
+Me Christa Akey
+Pour l’intervenante :
+M. Lee G. Henderson
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 23e jour de mai 2007.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 31e jour d’août 2007.
+Johanne Brassard, trad. a.
+Dossier : 2006-3459(CPP)
+ENTRE :
+EDWIN F. PINFOLD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LANDMARK AUTO SALES LTD.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel
+d’Edwin F. Pinfold (2006-3458(EI)) le 11 mai 2007,
+à Victoria (Colombie‑Britannique).
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Avocate de l’appelant :
+Me Heather Wellman
+Avocate de l’intimé :
+Me Christa Akey
+Pour l’intervenante :
+M. Lee G. Henderson
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 23e jour de mai 2007.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 31e jour d’août 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI304
+Date : 20070523
+Dossiers : 2006-3458(EI)
+2006-3459(CPP)
+ENTRE :
+EDWIN F. PINFOLD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LANDMARK AUTO SALES LTD.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Ces appels ont été entendus ensemble sur preuve commune à Victoria (Colombie‑Britannique), le 11 mai 2007. L’appelant a témoigné. L’intervenante a cité deux témoins, Lee Henderson, propriétaire de Landmark Auto Sales Ltd. (« Landmark ») et sa femme, Catherine Henderson, qui est la teneuse de livres et la comptable de Landmark.
+[2] Les faits contestés sont exposés aux paragraphes 2 à 9, dans le dossier 2006‑3459(CPP); ils sont presque identiques à ceux qui s’appliquent au dossier 2006‑3458(EI). L’exposé est rédigé comme suit :
+[traduction]
+2. Dans une lettre datée du 21 juin 2005, la Division des décisions de l’Agence du revenu du Canada (l’« ARC ») a fait part de sa conclusion selon laquelle l’appelant occupait auprès de Landmark Auto Sales Ltd. (« Landmark ») un emploi ouvrant droit à pension depuis le 1er janvier 2003.
+3. Dans une lettre datée du 21 juillet 2005, Landmark a indiqué qu’il interjetait appel de la décision de la Division des décisions de l’ARC auprès du ministre du Revenu national (le « ministre ») conformément à l’article 27 du Régime de pensions du Canada (le « Régime »).
+4. Dans une lettre datée du 8 septembre 2006, le ministre a communiqué sa décision selon laquelle l’appelant n’était pas employé par Landmark aux termes d’un contrat de louage de services du 1er janvier 2003 au 20 juin 2005 (la « période ») au sens de l’alinéa 6(1)a) du Régime.
+5. En rendant sa décision, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) au cours de la période en question, Landmark exploitait une entreprise de vente et de réparation de voitures d’occasion à Victoria (Colombie‑Britannique);
+b) au cours de la période en question, l’appelant vendait des voitures pour Landmark depuis le lieu d’affaires de Landmark;
+c) par un contrat qui a été signé le 2 janvier 2003 ou vers cette date, l’appelant s’est engagé à fournir des services à Landmark à titre d’entrepreneur indépendant;
+d) les heures de travail de l’appelant n’étaient pas fixes et l’appelant était libre d’établir son propre horaire;
+e) Landmark ne dirigeait pas l’appelant et ne donnait pas d’instructions à l’appelant au cours de la période en question;
+f) Landmark n’obligeait pas l’appelant à fournir personnellement ses services au cours de la période en question;
+g) l’appelant pouvait sous‑traiter son travail sans avoir à obtenir l’autorisation de Landmark;
+h) Landmark fournissait le lieu de travail, le stock de voitures à vendre, le matériel et les fournitures que l’appelant utilisait pour vendre les voitures;
+i) le permis d’exploitation nécessaire aux fins de la vente de voitures d’occasion était délivré au nom de Landmark;
+j) l’appelant était rémunéré par Landmark sur la base d’une commission fixe pour chaque vente conclue.
+B. LA QUESTION À TRANCHER
+7. Il s’agit de savoir si l’appelant occupait auprès de Landmark un emploi ouvrant droit à pension au cours de la période en question.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES PAR L’INTIMÉ
+8. L’intimé se fonde sur les paragraphes 2(1) et 6(1) ainsi que sur l’article 27 du Régime.
+D. MOTIFS INVOQUÉS
+9. L’intimé soutient que l’appelant n’occupait pas auprès de Landmark un emploi ouvrant droit à pension au cours de la période en question au sens de l’alinéa 6(1)a) du Régime puisqu’il fournissait ses services à Landmark aux termes d’un contrat d’entreprise.
+[3] Au début de l’audience, l’avocate de l’appelant a admis les hypothèses énoncées aux alinéas 5a), b), h) et i).
+[4] En ce qui concerne les autres hypothèses :
+5c) – L’hypothèse est exacte sauf que le contrat était daté du 2 janvier 2003, mais qu’il n’a peut‑être pas été signé ce jour‑là. Toutefois, les activités auxquelles se livrait M. Pinfold chez Landmark n’ont pas changé après la signature du contrat, et le contrat décrit ces activités d’une façon passablement exacte.
+5d) – M. Pinfold avait d’abord conclu un contrat avec Landmark au mois d’août 2000, à titre de vendeur de voitures d’occasion au parc de la rue Bay de Landmark. Landmark est un concessionnaire de voitures d’occasion à prix modique à Victoria; en 2001 et pendant la période en question, l’entreprise possédait deux parcs. M. Pinfold avait déjà été propriétaire de deux concessions de voitures, une concession Subaru et une concession Chrysler, à Nanaïmo. En 2001 et au cours de la période en question, M. Pinfold cherchait constamment à éviter des procédures de recouvrement et la saisie d’éléments d’actif de la part de Revenu Canada et il était également en cause dans un litige et dans une instance en matière matrimoniale. Il disait constamment à Landmark qu’il ne voulait pas de salaire et il encaissait les chèques que Landmark lui remettait dès qu’il les recevait. Par conséquent, M. Pinfold a voulu travailler comme entrepreneur indépendant plutôt que comme employé et Landmark a accepté; telle était l’intention mutuelle. À compter du mois d’octobre 2001, M. Pinfold a conclu avec Landmark un contrat en vue de devenir gérant du parc de voitures d’occasion de Landmark, rue Esquimalt. Il y avait dans ce parc environ 25 voitures d’occasion et l’on y remettait en état, préparait et nettoyait toutes les voitures d’occasion que Landmark achetait. À compter du 1er octobre 2001 et jusqu’à la fin de la période, M. Pinfold et Landmark se sont entendus sur les conditions ci‑après énoncées :
+1. M. Pinfold ouvrait le parc, rue Esquimalt, à 9 h, du lundi au samedi, et il cessait de travailler à 17 h. Landmark voulait que le parc soit ouvert jusqu’à la tombée du jour et parfois, peut‑être à la fin de la période ici en cause et par la suite, elle embauchait un vendeur pour la soirée, étant donné que M. Pinfold ne travaillait pas après 17 h.
+2. M. Pinfold touchait une commission de 35 p. 100 sur les bénéfices bruts que Landmark faisait chaque fois qu’il vendait une voiture. Le coût de la voiture ainsi que le coût de la remise en état, de la préparation et du nettoyage étaient déduits du prix de vente. Toutefois, M. Pinfold a expliqué à Landmark qu’à sa connaissance, une perte subie par suite de la vente d’une voiture pouvait donner lieu à une enquête de la part de Revenu Canada; par conséquent, si le prix de vente était trop bas et qu’il allait entraîner une perte comptable, M. Pinfold et Landmark imputaient une fraction de ce coût à une autre voiture qui se trouvait dans le parc, de sorte qu’aucune voiture n’était vendue à perte. M. Pinfold devait être sur les lieux à 9 h pour s’assurer que le mécanicien était présent et qu’il travaillait aux voitures qui avaient été achetées; M. Pinfold était entièrement responsable de la remise en état, de la préparation et du nettoyage de toutes les voitures achetées par Landmark, et notamment de la mesure dans laquelle les voitures étaient ainsi remises en état, préparées et nettoyées ainsi que du coût de tous les achats et de la main-d’œuvre y afférents. M. Pinfold enregistrait également tous ces coûts dans les dossiers de Landmark. Il avait énormément d’expérience en la matière, il n’avait pas besoin de formation et il avait entière discrétion à cet égard. M. Henderson achetait les voitures et décidait du coût d’achat; M. Pinfold décidait de son côté de ce qu’il en coûterait pour préparer les voitures en vue de leur vente. Landmark et M. Pinfold avaient convenu que M. Pinfold toucherait chaque mois un montant de base garanti de 2 000 $, montant qui serait déduit des commissions touchées sur les ventes; cet arrangement avait été conclu parce que M. Pinfold voulait qu’il en soit ainsi et parce qu’il était plus qu’un simple vendeur. De plus, M. Pinfold embauchait et congédiait les mécaniciens et les préposés au lavage des voitures ainsi que tout autre membre du personnel du parc de la rue Esquimalt.
+5e) – Landmark ne donnait pas d’instructions à M. Pinfold à quelque égard que ce soit au sujet de la remise en état, de la préparation et du nettoyage des voitures ni au sujet de l’exploitation du parc de la rue Esquimalt. M. Henderson avait essayé de convaincre M. Pinfold de laver les voitures qui étaient dans le parc et de nettoyer le parc lorsqu’il était l’unique vendeur, mais M. Pinfold avait répondu que cela ne faisait pas partie de ses tâches et il ne le faisait pas, bien qu’il ait déclaré qu’à un moment donné, il avait nettoyé un coin du parc.
+5f) – M. Pinfold était tenu de fournir personnellement ses services au cours de la période en question. De l’avis de la Cour, le contrat conclu entre Landmark et M. Pinfold était semblable à un contrat de société de personnes ou à un contrat de coentreprise stipulant un montant de base garanti. Chacun fournissait clairement un apport distinct, l’apport de M. Pinfold étant composé de services – de sa compétence et de ses connaissances en tant que gérant d’un parc de voitures ainsi qu’en ce qui concerne la remise en état, la préparation et le nettoyage de voitures d’occasion destinées à la revente, l’établissement du prix des voitures à vendre de façon à éviter l’inscription d’une perte comptable susceptible d’attirer l’attention de Revenu Canada, et la vente de voitures. L’apport de Landmark était composé du reste, et notamment des mises de fonds ainsi que du coût et du choix des voitures achetées. Selon le contrat qu’il avait conclu, M. Pinfold devait fournir ses services professionnels moyennant une rétribution précise, comme un médecin ou un avocat fournirait, en vertu d’un contrat, ses services à un cabinet existant moyennant une rétribution expressément stipulée et pour des services limités précis.
+5g) – M. Pinfold ne pouvait pas sous‑traiter son travail.
+5j) – L’hypothèse est exacte sous réserve de ce qui a déjà été dit et sous réserve du montant mensuel de 2 000 $. Étant donné que les ventes, au parc de la rue Esquimalt, étaient passées de six ou sept à environ une vente par mois pendant que M. Pinfold travaillait à cet endroit, le montant garanti avait été ramené à 1 500 $ par mois. Cette réduction ne semble pas avoir été faite au cours de la période ici en cause. Les parties ont mis fin à leur relation le 30 août 2006, lorsque M. Pinfold est allé travailler ailleurs.
+[5] Le contrat écrit daté du 2 janvier 2003 a été signé par les parties après que l’ARC eut enquêté sur Landmark. M. Pinfold a demandé avec instance à Landmark de signer ce contrat de façon que l’ARC ne puisse pas saisir le revenu qu’il tirait de Landmark. M. Pinfold a également proposé à Landmark de retenir 10 p. 100 de son revenu net de commission au cas où l’ARC conclurait à l’existence d’un « emploi », ce qui aurait pu l’obliger à verser des cotisations pour les retenues, et cela a également été fait.
+[6] Compte tenu des critères proposés dans l’arrêt Wiebe Door Services Ltd. c. Canada (Ministre du Revenu national), [1986] 3 C.F. 553 (C.A.F.), le résultat est le suivant :
+1. Contrat – Landmark et M. Pinfold exerçaient tous deux un contrôle sur les apports qu’ils faisaient aux fins de l’exploitation du parc de la rue Esquimalt au cours de la période pertinente.
+2. Propriété des instruments de travail – Landmark fournissait les fonds. M. Pinfold fournissait ses services, et même la façon dont il dépensait l’argent de Landmark aux fins de la remise en état des voitures n’était ni examinée ni contrôlée par Landmark.
+3. Chances de bénéfice et risques de perte – M. Pinfold n’avait rien à perdre parce qu’il avait conclu un contrat selon lequel il touchait un montant de base et que, selon la pratique comptable dont ils avaient mutuellement convenu pour chaque voiture vendue, les voitures ne pouvaient pas être vendues à perte.
+4. Intégration – Chaque partie agissait d’une façon indépendante l’une de l’autre et cette indépendance a été maintenue pendant toute la période en question.
+[7] M. Pinfold exploitait une entreprise pour son propre compte. C’est ce dont les parties avaient convenu au départ et les parties se sont conformées à cette entente pendant toute la période pertinente. M. Pinfold avait conclu un contrat indépendant en vue de fournir ses services spécialisés et son expertise à Landmark.
+[8] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 23e jour de mai 2007.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 31e jour d’août 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CII304
+Nos DES DOSSIERS DE LA COUR : 2006-3458(EI) et 2006-3459(CPP)
+INTITULÉ : Edwin F. Pinfold
+c.
+Ministre du Revenu national
+LIEU DE L’AUDIENCE : Victoria (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 11 mai 2007
+MOTIFS DU JUGEMENT : L’honorable juge D.W. Beaubier
+DATE DU JUGEMENT : Le 23 mai 2007
+COMPARUTIONS :
+Avocate de l’appelant :
+Me Heather Wellman
+Avocate de l’intimé :
+Me Christa Akey
+Pour l’intervenante :
+M. Lee G. Henderson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Heather Wellman
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

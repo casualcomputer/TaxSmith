@@ -1,0 +1,393 @@
+Title: Lawyers' Professional Indemnity Company c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/345259/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-194-345259-lawyers-professional-indemnity-company-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-09-26
+
+# Lawyers' Professional Indemnity Company c. La Reine
+
+- Citation: 2018 CCI 194
+- Decision date: 2018-09-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4972, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lawyers' Professional Indemnity Company c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-09-26
+Référence neutre
+2018 CCI 194
+Numéro de dossier
+2016-1437(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-1437(IT)G
+ENTRE :
+LAWYERS’ PROFESSIONAL INDEMNITY COMPANY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 12 et13 mars 2018, à Toronto (Ontario)
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocats de l’appelante :
+Me Mahmud Jamal
+Me Pooja Mihailovich
+Me Hemant Tilak
+Avocates de l’intimée :
+Me Justine Malone
+Me Kaylee Silver
+JUGEMENT
+Conformément aux motifs du jugement ci-joints :
+L’appel des nouvelles cotisations établies aux termes de la Loi de l’impôt sur le revenu pour les années d’imposition 2013 et 2014 est accueilli, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que le revenu imposable de l’appelante pour 2013, qui est établi à 24 638 856 $, doit être réduit de 44 475 $ et que le revenu imposable de l’appelante pour 2014, qui est établi à 26 560 645 $, doit être réduit de 18 520 $.
+Les dépens sont adjugés à l’intimée.
+Signé à Toronto (Ontario), ce 26e jour de septembre 2018.
+« S. D’Arcy »
+Le juge D’Arcy
+Traduction certifiée conforme
+ce 30e jour de juillet 2020.
+François Brunet, réviseur
+Référence : 2018 CCI 194
+Date : 20180926
+Dossier : 2016-1437(IT)G
+ENTRE :
+LAWYERS’ PROFESSIONAL INDEMNITY COMPANY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] La seule question en litige dans le présent appel est de savoir si, au cours des années d’imposition 2013 et 2014, le Barreau du Haut-Canada (le Barreau) [1] était, aux fins de l’application de l’alinéa 149(1)d.5) de la Loi de l’impôt sur le revenu (la Loi), un « organisme public remplissant une fonction gouvernementale au Canada ». Le cas échéant, l’appelante, la filiale en propriété exclusive du Barreau, serait une entité exonérée d’impôt.
+[2] Les parties ont présenté un exposé conjoint partiel des faits (l’ECPF), qui est joint aux présents motifs en tant qu’annexe A. En outre, l’appelante a cité deux témoins, M. Paul Schabas, trésorier actuel du Barreau, et M. James Varro, directeur du bureau du directeur général du Barreau. M. Varro est également le secrétaire général du Barreau.
+[3] J’ai conclu que M. Shabas était un témoin crédible.
+[4] Au début de l’audience, les parties ont déposé le document intitulé [traduction] « entente intervenue entre les parties concernant l’allègement ». Dans cette déclaration, l’intimée concède en substance que, même si je conclus que l’appelante n’est pas une entité exonérée, le revenu imposable de l’appelante pour 2013 (soit 24 638 856 $) doit être réduit de 44 475 $ et le revenu imposable de l’appelante pour 2014 (soit 26 560 645 $) doit être réduit de 18 520 $. Les montants de 44 475 $ et 18 520 $ constituent les montants que l’appelante a le droit de déduire à titre de dons de bienfaisance.
+I. Résumé des faits
+L’appelante
+[5] L’appelante est une compagnie d’assurance titulaire d’un permis l’autorisant à exercer ses activités en Ontario, ainsi que dans d’autres provinces et territoires au Canada. L’appelante offre une assurance responsabilité professionnelle aux avocats autorisés par le Barreau du Haut-Canada à pratiquer le droit (avocats titulaires de permis). L’appelante offre également des produits d’assurance aux cabinets d’avocats en Ontario ainsi qu’une assurance titres complète aux propriétaires et aux prêteurs immobiliers dans l’ensemble des provinces et des territoires au Canada, y compris l’Ontario. L’appelante a réalisé des revenus d’environ 124 millions de dollars et 143 millions de dollars en 2013 et en 2014, respectivement [2] .
+[6] Bien que l’appelante exerce des activités à l’extérieur de l’Ontario, le revenu tiré de ces activités pour les années pertinentes n’a pas dépassé 10 % de son revenu.
+[7] Le Barreau détient au moins 90 % du capital de l’appelante.
+[8] Le Barreau exige que tous les avocats titulaires de permis qui exercent le droit versent des redevances pour souscrire à une assurance responsabilité professionnelle. M. Varro a expliqué que le Barreau a retenu les services de l’appelante pour fournir l’assurance responsabilité professionnelle requise. Le Barreau perçoit les redevances auprès des avocats titulaires de permis, puis verse les montants à l’appelante sous forme de primes d’assurance [3] .
+Le Barreau
+[9] L’ECPF indique que le Barreau est une société établie par la loi. Ses fonctions, pouvoirs et obligations sont énoncés dans Loi sur le Barreau [4] et ses règlements, ainsi que dans les règlements administratifs pris en vertu de cette loi [5] . Ses membres sont des avocats titulaires de permis (environ 52 000) et des parajuristes (environ 8 000) (les parajuristes titulaires de permis).
+[10] Le Barreau est régi par un conseil d’administration, dont les membres sont appelés des conseillers. Les avocats titulaires de permis élisent 40 des conseillers, alors que les parajuristes titulaires de permis en élisent cinq. Le procureur général de l’Ontario nomme huit conseillers non juristes. En outre, la qualité de conseiller à vie est accordé à toute personne étant intervenue à titre de trésorier du Barreau avant 2010, aux conseillers qui ont effectué quatre mandats avant 2010 et au procureur général de l’Ontario.
+[11] Le trésorier (M. Schabas au moment de l’audience) est le président du conseil d’administration des conseillers.
+[12] MM. Schabas et Varro ont expliqué que le Barreau exerce ses activités de façon à satisfaire les exigences des articles 4.1 et 4.2 de la Loi sur le Barreau, qui sont rédigés comme suit au cours de la période pertinente :
+Fonction du Barreau
+4.1 L’une des fonctions du Barreau est de veiller à ce que :
+a) d’une part, toutes les personnes qui pratiquent le droit en Ontario ou fournissent des services juridiques en Ontario respectent les normes de formation, de compétence professionnelle et de déontologie qui sont appropriées dans le cas des services juridiques qu’elles fournissent;
+b) d’autre part, les normes de formation, de compétence professionnelle et de déontologie relatives à la prestation d’un service juridique particulier dans un domaine particulier du droit s’appliquent également aux personnes qui pratiquent le droit en Ontario et à celles qui fournissent des services juridiques en Ontario.
+Principes applicables au Barreau
+4.2 Lorsqu’il exerce ses fonctions, obligations et pouvoirs en application de la présente loi, le Barreau tient compte des principes suivants :
+1. Le Barreau a l’obligation de maintenir et de faire avancer la cause de la justice et la primauté du droit.
+2. Le Barreau a l’obligation d’agir de façon à faciliter l’accès à la justice pour la population ontarienne.
+3. Le Barreau a l’obligation de protéger l’intérêt public.
+4. Le Barreau a l’obligation d’agir de façon opportune, ouverte et efficiente.
+5. Les normes de formation, de compétence professionnelle et de déontologie applicables aux titulaires de permis ainsi que les restrictions quant aux personnes qui peuvent fournir des services juridiques donnés devraient être fonction de l’importance des objectifs réglementaires visés.
+[13] M. Schabas a témoigné que l’article 4.1 de la Loi sur le Barreau établit les fonctions du Barreau, et que l’article 4.2 de cette loi informe le Barreau des différents principes qu’il doit respecter dans l’exécution de ses fonctions [6] . Il a noté que le Barreau n’a pas le pouvoir d’exécuter des activités et des fonctions qui ne sont pas prévues par la Loi sur le Barreau ou ses règlements [7] .
+[14] En contre-interrogatoire, M. Schabas a reconnu que les fonctions énoncées à l’article 4.1 de la Loi sur le Barreau sont les fonctions conférées au Barreau. Il a également noté que le Barreau demeure dans les limites de sa mission lorsqu’il exécute des fonctions ou fournit des services [8] .
+[15] M. Schabas a noté que le Barreau considère qu’il remplit deux fonctions essentielles. La première fonction, qui est supervisée par le Comité de la réglementation de la profession, consiste à réglementer les avocats titulaires de permis et les parajuristes titulaires de permis (appelés collectivement les titulaires de permis) [9] . La deuxième fonction, qui est supervisée par le Comité du perfectionnement professionnel, consiste à fournir un perfectionnement professionnel et assurer la compétence des membres du Barreau [10] .
+[16] M. Varro a témoigné que le Barreau consacre [traduction] « pratiquement 100 % » de ses dépenses et de son personnel à la réglementation des titulaires de permis [11] . Dans son témoignage, il a déclaré que le Barreau réglemente les titulaires de permis dans les quatre domaines suivants (qui comprennent le perfectionnement professionnel et la vérification des compétences) :
+- accorder un permis aux personnes qui fournissent des services juridiques ou exercent le droit (c.-à-d. les titulaires de permis);
+- établir les normes de formation, de compétence professionnelle et de déontologie;
+- instaurer des mesures de conformité par l’intermédiaire de la Loi sur le Barreau, des règlements administratifs et des règles prévues dans cette loi;
+- appliquer un mécanisme contraignant pour traiter les contraventions aux normes professionnelles du Barreau [12] .
+[17] M. Varro a expliqué comment le Barreau réglemente les titulaires de permis dans chacun de ces domaines [13] . En ce qui concerne la délivrance des permis, il a noté qu’avant d’accorder un permis, le Barreau exige que la personne ait terminé ses études dans une faculté de droit accréditée, qu’elle réponde à l’exigence de bonnes mœurs, qu’elle soit candidate au processus de délivrance de permis et qu’elle ait terminé un cours d’auto-apprentissage et réussi deux examens.
+[18] M. Schabas a noté que le processus de délivrance de permis comprend également un stage au sein d’un cabinet d’avocat ou la réussite du programme de pratique du droit à l’Université Ryerson ou à l’Université d’Ottawa.
+[19] Dans le cas du poste de parajuriste titulaire de permis, l'intéressé doit avoir suivi des cours accrédités à un collège communautaire, avoir réussi un examen et répondre à l’exigence de bonnes mœurs.
+[20] L’article 26.1 de la Loi sur le Barreau porte que seuls les détenteurs de permis peuvent pratiquer le droit en Ontario ou fournir des services juridiques en Ontario. M. Varro a témoigné que dans les cas où un non-titulaire de permis pratique le droit ou fournit des services juridiques en Ontario, le Barreau lui demande de cesser ses activités. Si l'intéressé persiste, le Barreau dépose une demande pour interdire le comportement illégal du non-titulaire [14] . La personne peut être poursuivie en application de l’article 26.2 de la Loi sur le Barreau.
+[21] L’article 26.3 de la Loi sur le Barreau dispose que la demande évoquée par M. Varro estt déposée devant la Cour supérieure de justice de l’Ontario.
+[22] Une poursuite en application de l’article 26.2 est engagée devant la Cour supérieure de justice de l’Ontario. L’article 26.2 impose des amendes maximales de 25 000 $ pour une première infraction et de 50 000 $ pour chaque infraction subséquente.
+[23] M. Varro a produit des éléments de preuve contradictoires quant à l’entité qui est, concrètement, chargée des poursuites intentées en application de l’article 26.2. Au cours de son interrogatoire principal, il a affirmé que c’était le Barreau, et non la Couronne, qui engageait la procédure en vertu de l’article 26.2 [15] . En contre-interrogatoire, l’avocat de l’intimée a rappelé à M. Varro qu’au cours de son interrogatoire préalable, il avait affirmé que c’était la Couronne qui intentait les procédures en vertu de l’article 26.2. M. Varro a ensuite modifié son témoignage et affirmé sur le Barreau et la Couronne pouvaient tous deux intenter une poursuite en vertu de l’article 26.2 [16] . Son témoignage sur ce point a nui à sa crédibilité. Son témoignage sur de nombreux points m’a donné l’impression qu’il tentait de fournir des réponses favorables à la cause de l’appelante au lieu de relater de simples faits.
+[24] En ce qui concerne la déontologie et la compétence professionnelle, M. Schabas a noté qu’une fois qu’un titulaire de permis est admis au Barreau, il doit maintenir sa conformité aux normes de compétence et de comportement. M. Varro a témoigné que le Barreau impose des normes par l’intermédiaire des règlements administratifs et des règles de déontologie. M. Schabas a témoigné que chaque titulaire de permis doit répondre aux exigences annuelles en matière de perfectionnement professionnel.
+[25] En ce qui concerne les mesures de conformité, M. Varro a indiqué que le Barreau procède aux enquêtes en vertu de la Loi sur le Barreau afin de déterminer si les titulaires de permis répondent aux normes de déontologie.
+[26] Cela se fait par le truchement de ce que le Barreau appelle ses programmes d’assurance de la qualité, qui comprennent un programme de vérification ponctuelle et un programme d’examen de la pratique. Le programme de vérification ponctuelle du Barreau [traduction] « mesure l’intégrité des pratiques financière des cabinets d’avocats et évalue la conformité continue aux exigences en matière de registres financiers et aux Règles de déontologie ». Dans le cadre de son programme d’examen de la pratique, le Barreau examine des éléments comme la gestion des échéances et des délais de prescription, l’état des registres, les pratiques de facturation, la qualité des services offerts aux clients, les problèmes de sécurité des technologies, la rapidité des communications avec les clients et les problèmes personnels que le titulaire de permis pourrait avoir [17] .
+[27] M. Varro a également souligné que chaque titulaire de permis est tenu de déposer un rapport annuel portant sur différents aspects de ses activités professionnelles.
+[28] M. Varro a discuté du quatrième domaine réglementaire, à savoir le mécanisme d’application. Il a déclaré que le Barreau accueille les plaintes pour inconduite qui lui sont transmises par différentes sources, notamment les plaintes de clients, de la magistrature et des autres titulaires de permis, ou les plaintes dont elle entend parler dans les médias. Il a noté que le Barreau reçoit environ 6 000 plaintes annuellement.
+[29] M. Varro a souligné qu’une fois la plainte reçue, le Barreau mène une enquête à ce sujet. L’enquête se conclut par une rencontre entre le titulaire de permis et un comité de conseillers afin de discuter du problème d’inconduite. Les résultats de cette rencontre sont publiés dans le Recueil de jurisprudence de l’Ontario.
+[30] Si le Barreau décide de prendre des mesures d’exécution à l’égard d’un titulaire de permis, un dossier est préparé aux fins d’examen par un comité de conseillers appelé Comité d’autorisation des instances. Le comité détermine si le tribunal de discipline du Barreau, appelé Tribunal du Barreau, doit tenir une audience.
+[31] Le Tribunal comprend deux sections, soit la Section de première instance du Tribunal du Barreau et la Section d’appel du Tribunal du Barreau. La Loi sur le Barreau établit la composition du Tribunal du Barreau. Il est composé de conseillers, de titulaires de permis et de non-juristes désignés par le procureur général de l’Ontario.
+[32] L’existence du Comité d’autorisation des instances et du Tribunal du Barreau est exigée conformément aux articles 49.20 et 49.20.1 de la Loi sur le Barreau.
+[33] Les décisions de la Section d’appel en matière de déontologie et d’incapacité peuvent être portées en appel devant la Cour divisionnaire de l’Ontario.
+[34] M. Schabas a discuté en détail les principes consacrés par l’article 4.2 de la Loi sur le Barreau, auxquels le Barreau doit se conformer dans l’exercice de ses fonctions. Il a noté que le point de départ pour le Barreau est son obligation de protéger l’intérêt public prévue par l’article 4.2. Cette obligation du Barreau se reflète dans ses normes d’apprentissage, de compétence et de déontologie. Ces normes ont pour but d’assurer au public des services dispensés par des professionnels instruits et compétents.
+[35] M. Varro a discuté des trois fonds mis en place pour assurer la protection du public. Un de ces fonds est le fonds d’indemnisation géré et utilisé par le Barreau afin de dédommager les pertes financières découlant d’un acte malhonnête commis par un titulaire de permis. Ce fonds est financé par les avocats et les parajuristes titulaires de permis.
+[36] Le Barreau prévoit un fonds pour les erreurs et les omissions, qui est composé des redevances perçues auprès des avocats titulaires de permis pour l’assurance responsabilité professionnelle. Le Barreau verse ces redevances aux appelants sous forme de primes d’assurance.
+[37] Le troisième fonds est composé des fonds en fiducie non réclamés; on y verse les fonds non réclamés des comptes de fiducie des avocats titulaires de permis.
+[38] En ce qui concerne l’obligation d’agir de façon à faciliter l’accès à la justice pour la population ontarienne, le Barreau s’efforce de ne pas nuire à l’accès à la justice, tout en maintenant des normes appropriées en matière de compétence et d’apprentissage. Le Barreau s’adonne également à diverses activités pour promouvoir l’accès à la justice par l’intermédiaire d’un comité appelé Groupe d’action sur l’accès à la justice. Par exemple, ce comité recherche des possibilités de collaboration avec les cliniques d’aide juridique et les experts du domaine pour faciliter l’accès à la justice en Ontario.
+[39] Le Barreau a qualité d’intervenant dans les dossiers qui doivent être traités par notre système judiciaire dans le but de maintenir et de faire avancer la cause de la justice et la primauté du droit. Par exemple, le Barreau intervient s’il est témoin de menaces à l’indépendance de la profession juridique ou de menaces au secret professionnel de l’avocat, que le Barreau considère comme une valeur fondamentale de la primauté du droit. Le groupe de surveillance des droits humains du Barreau est un autre exemple.
+[40] M. Schabas a expliqué que le Barreau s’acquitte de son obligation d’intervenir de façon opportune, ouverte et efficiente en s’efforçant de porter son attention aux risques posé pour le public aussi rapidement que possible en cas d’allégation d’inconduite. Le Barreau s’efforce également d’agir de manière transparente : le Conseil (réunion des conseillers) est ouvert à tous, les rapports du Barreau sont affichés sur ses sites Web publics et les audiences disciplinaires sont publiques et leurs résultats sont publiés.
+[41] Le Barreau discute le dernier principe de l’article 4.2, à savoir s’assurer que les normes de formation, de compétence professionnelle et de déontologie applicables aux titulaires de permis sont fonction de l’importance des objectifs réglementaires visés au moyen des règles de déontologie mentionnées précédemment, des exigences de perfectionnement professionnel obligatoire du Barreau et de son processus disciplinaire.
+[42] M. Varro a donné des exemples de services offerts au public par le Barreau. Le principal service offert par le Barreau est le service de référence. Ce service est utilisé par les personnes qui cherchent à se renseigner sur leurs droits et qui ont besoin de l’aide d’un avocat titulaire de permis ou d’un parajuriste titulaire de permis. Ce service prévoit une consultation gratuite de 30 minutes avec un avocat ou un parajuriste.
+[43] M. Varro a également noté que le Barreau soutient et promeut les services juridiques à titre bénévole.
+II. Le droit
+[44] Le paragraphe 149(1) de la Loi exempte d’impôt diverses personnes, dont les municipalités, les sociétés d’État (sociétés détenues par le gouvernement du Canada ou une province), les filiales de sociétés d’État, certaines sociétés détenues par des municipalités, les organismes de bienfaisance, les organisations syndicales, certaines organisations sans but lucratif et d’autres entités précisées.
+[45] L’appelante a produit une déclaration de revenus pour chaque année d’imposition pertinente en considérant qu’elle était admissible à l’exemption d’impôt prévue par l’alinéa 149(1)d.5). Ce texte se lit ainsi :
+149 (1) Aucun impôt n’est payable en vertu de la présente partie, sur le revenu imposable d’une personne, pour la période où cette personne était :
+[...]
+d.5) sous réserve des paragraphes (1.2) et (1.3), une société, commission ou association dont au moins 90 % du capital appartenait à une ou plusieurs entités dont chacune est une municipalité du Canada ou un organisme municipal ou public remplissant une fonction gouvernementale au Canada, pourvu que le revenu de la société, commission ou association pour la période provenant d’activités exercées en dehors des limites géographiques des entités ne dépasse pas 10 % de son revenu pour la période;
+[46] Les parties reconnaissent dans l’ECPF que le Barreau détient au moins 90 % des parts de capital de l’appelante et que le revenu tiré par l’appelante de ses activités menées à l’extérieur de l’Ontario pendant les années d’imposition pertinentes n’excède pas 10 % de son revenu [18] . Cela signifie qu'il n'est pas controversé entre les parties que les conditions énoncées à l’alinéa 149(1)d.5) relativement aux actions détenues par l’appelante et à la source géographique de son revenu sont satisfaites.
+[47] De même, les parties ont avisé la Cour qu’elles ont convenu que la seule question déférée à la Cour était celle de savoir si le Barreau est un organisme public remplissant une fonction gouvernementale au Canada.
+[48] Toutefois, les parties ont présenté des arguments différents relativement à l’interprétation que la Cour doit faire de l’expression « organisme public remplissant une fonction gouvernementale au Canada ».
+[49] L’appelante fait valoir que cette expression comporte deux éléments distincts. Premièrement, l’entité doit être un organisme public, et deuxièmement, elle doit exécuter une fonction gouvernementale. L’appelante soutient que l’expression « organisme public remplissant une fonction gouvernementale » et les deux éléments de cette expression doivent faire l’objet d’une interprétation textuelle, contextuelle et téléologique.
+[50] L’intimée défend une approche différente. Elle soutient qu’il ne s’agit pas d’un critère à deux volets disjonctif en vertu duquel il faut satisfaire deux conditions distinctes et indépendantes hors contexte. Selon la disposition, le contribuable qui désire obtenir une exemption d’impôt doit appartenir à « une municipalité au Canada ou un organisme municipal ou public remplissant une fonction gouvernementale au Canada ». Cette expression doit être interprétée et appliquée d’une manière compatible avec la formulation de la disposition dans son ensemble et avec son contexte et son objectif.
+[51] L’intimée soutient que cette disposition n’est pas suffisamment générale pour englober tout organisme public remplissant une fonction gouvernementale au Canada. Elle soutient que l’expression « organisme public remplissant une fonction gouvernementale au Canada » qui figure à l’alinéa 149(1)d.5) est limitée aux organismes similaires ou de la même classe que les municipalités et les organismes municipaux qui remplissent des fonctions similaires à celles remplies par les municipalités.
+[52] L’intimée soutient que je dois également examiner, à des fins contextuelles, l’alinéa 149(1)c) au moment de déterminer comment interpréter l’alinéa 149(1)d.5). L’alinéa 149(1)c) exempte d’impôt toute personne qui est « une municipalité au Canada ou un organisme municipal ou public remplissant une fonction gouvernementale au Canada ».
+[53] J’ai été avisé par les parties que le Barreau a, dans le passé, demandé à être exonéré d’impôt en tant qu’organisme à but non lucratif admissible. Je présume que le Barreau a demandé cette exemption en application de l’alinéa 149(1)l).
+[54] La Loi de l’impôt sur le revenu est interprétée selon le principe textuel, contextuel et téléologique consacré par la Cour suprême du Canada par l’arrêt Hypothèques Trustco Canada c. Canada [19] (Hypothèques Trustco). La Cour suprême du Canada a défini ce principe ainsi :
+Il est depuis longtemps établi en matière d’interprétation des lois qu’« il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur » : voir 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, par. 50. L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux.
+[...] De nos jours, il ne fait aucun doute que toutes les lois, y compris la Loi de l’impôt sur le revenu, doivent être interprétées de manière textuelle, contextuelle et téléologique. Cependant, le caractère détaillé et précis de nombreuses dispositions fiscales a souvent incité à mettre l’accent sur l’interprétation textuelle. Lorsque le législateur précise les conditions à remplir pour obtenir un résultat donné, on peut raisonnablement supposer qu’il a voulu que le contribuable s’appuie sur ces dispositions pour obtenir le résultat qu’elles prescrivent [20] .
+[55] Je retiens la thèse de l’intimée selon laquelle l’alinéa 149(1)d.5) doit être soumis à un critère à deux volets. Cette disposition désigne « une ou plusieurs entités dont chacune est une municipalité du Canada ou un organisme municipal ou public remplissant une fonction gouvernementale au Canada ». À mon avis, il n’existe aucune ambiguïté dans ce texte. Le mot « organisme » à l’alinéa 149(1)d.5) est qualifié par les mots « municipal» et « public ». De plus, l’utilisation du mot « ou » après « Canada » et après « municipal » signifie que l’entité doit être soit une municipalité au Canada, soit un organisme municipal ou public. Finalement, les mots « remplissant une fonction gouvernementale au Canada » désignent à la fois un organisme municipal et un organisme public.
+[56] En résumé, les parts doivent être détenues par une ou plusieurs des entités suivantes :
+- une municipalité;
+- un organisme municipal remplissant une fonction gouvernementale au Canada; ou
+- un organisme public remplissant une fonction gouvernementale au Canada.
+[57] Ma conclusion à cet égard est conforme à l’historique législatif de cette disposition. Avant d’être modifié pour les années d’imposition commençant après le 8 mai 2000, l’alinéa 149(1)d.5) désignait uniquement les actions détenues par une ou plusieurs municipalités. Ce texte ne faisait pas mention d’un organisme municipal ou public remplissant une fonction gouvernementale au Canada.
+[58] Les notes techniques du ministère des Finances qui ont été publiées relativement à cette modification indiquent que l’intégration de la mention « un organisme municipal ou public remplissant une fonction gouvernementale au Canada » découle d’une décision de la Cour du Québec, confirmée par la Cour d’appel du Québec en application de la Loi sur les impôts (Québec) [21] . Le ministère a indiqué que, dans cette affaire, les tribunaux du Québec ont conclu qu’une entité ne pouvait obtenir le statut de municipalité en remplissant des fonctions municipales, ce statut ne pouvant être conféré que par une loi, des lettres patentes ou un décret. Les notes techniques du ministère des Finances indiquent que notre Cour a déjà tiré une conclusion différente dans la décision Otineka Development Corporation Limited v. The Queen [22] (Otineka Development). Selon le ministère des Finances, cette jurisprudence de la Cour de l’impôt signifie qu’une entité peut avoir le statut de municipalité aux fins de l’alinéa 149(1)d.5) sur le fondement des fonctions qu’elle remplit.
+[59] Les notes techniques du ministère des Finances indiquent ensuite ce qui suit :
+[...] La modification a pour objet de dissiper l’incertitude découlant des deux affaires contradictoires. L’exemption prévue à l’alinéa 149(1)d.5) est donc élargie de façon à s’appliquer à toute société, commission ou association dont au moins 90 % du capital appartient à une ou plusieurs entités dont chacune est une municipalité ou un organisme public remplissant une fonction gouvernementale au Canada, ce qui est conforme au statut des entités visées à l’alinéa 149(1)c) de la Loi [23] .
+[60] À mon avis, le libellé utilisé par le législateur pour modifier l’alinéa 149(1)d.5) a atteint l’objectif d’élargir la portée de l’alinéa en englobant un organisme municipal remplissant une fonction gouvernementale au Canada et un organisme public remplissant une fonction gouvernementale au Canada.
+[61] Les deux parties ont raison d’affirmer que je dois procéder à une analyse textuelle, contextuelle et téléologique pour déterminer la signification des mots « organisme public remplissant une fonction gouvernementale au Canada ».
+III. Décision quant à l’appel
+[62] Je me pencherai d’abord déterminer sur la question de savoir si le Barreau est un « organisme public » au sens de l’alinéa 149(1)d.5).
+[63] Je rejette l’argument de l’intimée selon lequel l’expression « organisme public », telle qu’elle figure à l’alinéa 149(1)d.5), est limitée aux organismes similaires ou de la même classe que les municipalités et les organismes municipaux. L'intimée soutient correctement que le mot « organisme » à l’alinéa 149(1)d.5) est qualifié par les mots « municipal » et « public » signifie que cette expression était censée viser les entités autres que les organismes municipaux; autrement, le mot « public » serait redondant.
+[64] La Loi de l’impôt sur le revenu ne définit pas les mots « organisme public ». Dans l’arrêt Registrar of Trade Marks v. Canadian Olympic Association [24] (Canadian Olympic Association), la Cour d’appel fédérale a cité (à la page 700) la définition suivante des organismes publics et des autorités publiques tirées de l’ouvrage Halsbury’s Laws of England, 4e édition, volume 1 :
+[traduction]
+Organismes publics et autorités publiques. Une autorité publique peut être définie comme une personne ou un organisme administratif investi de fonctions exécutées dans l’intérêt du public et non dans un but de lucre personnel. Certaines personnes ou certains organismes ne sont pas définis expressément comme une autorité publique ou un organisme public, et la signification des expressions autorité publique et organisme public peut varier en fonction du contexte législatif.
+[65] A l'occasion de l’affaire Canadian Olympic Association, la Cour d’appel fédérale devait rechercher si l’Association olympique canadienne (l’AOC) était une autorité publique au sens de l’alinéa 9(1)n) de la Loi sur les marques de commerce, L.R.C. 1970, ch. 10. La Cour a d’abord cité le critère à trois volets suivants, qui avait été retenu par la jurisprudence anglaise pour déterminer si un organisme est une autorité publique :
+1. Il doit exister une obligation d’agir à caractère public.
+2. Il doit y avoir un degré appréciable de contrôle de la part du gouvernement.
+3. Tout profit doit être tiré dans l’intérêt du public et non servir à des fins privées.
+[66] La Cour d’appel fédérale a ensuite noté que la signification du terme autorité publique pouvait varier en fonction du contexte législatif. Elle a indiqué que pour décider si l’AOC était une autorité publique au regard de la Loi sur les marques de commerce, il fallait examiner cette expression au regard de cette loi, ainsi que la nature des fonctions remplies par l’AOC.
+[67] Au regard de l’alinéa 9(1)n) de la Loi sur les marques de commerce, la Cour a conclu que le critère approprié n’était pas l’existence d’une obligation envers le public, mais plutôt la mesure dans laquelle l’AOC profitait au public.
+[68] Après avoir examiné les faits dont elle était saisie relativement à la mesure dans laquelle l’AOC profitait au public et l’ampleur du contrôle exercé par le gouvernement sur l’AOC, la Cour a conclu que l’AOC était une autorité publique.
+[69] La Cour d’appel fédérale a examiné la même question dans une décision plus récente, Ordre des architectes de l’Ontario c. Assn. of Architectural Technologists of Ontario [25] . Après avoir rappelé une jurisprudence antérieure de la Cour, Canadian Olympic Association, la Cour a retenu le recours au critère à deux volets de l’intérêt du public et du contrôle gouvernemental pour déterminer si une entité est une autorité publique au sens de l’alinéa 9(1)n) de la Loi sur les marques de commerce. Toutefois, la Cour a observé qu’au moment de déterminer si les fonctions d’un organisme sont suffisantes pour assurer l’intérêt du public, le juge peut examiner les objets, les responsabilités et les pouvoirs de l’organisme, y compris la distribution de ses actifs.
+[70] La Cour d’appel fédérale a ensuite conclu que l’Association of Architectural Technologists of Ontario ne répondait pas au deuxième volet du critère à deux volets, à savoir le contrôle gouvernemental. Les avocats de l’Association of Architectural Technologists of Ontario ont concédé que la seule forme de contrôle gouvernemental pouvant être exercée sur l’association était le pouvoir exclusif du législateur de modifier les objets, pouvoirs et obligations prévus par la loi.
+[71] La Cour a conclu que cela n’était pas conforme au deuxième volet du critère, en observant, au paragraphe 62 :
+[...] C’est insuffisant pour satisfaire au critère du contrôle gouvernemental parce que ce n’est pas un pouvoir qui permet au gouvernement, directement ou par l’intermédiaire des membres qu’il désigne, d’exercer sur la gouvernance et la prise de décision de l’organisme une influence continue semblable à celle qu’on retrouve souvent dans les lois portant sur les organismes qui régissent une profession en en contrôlant l’exercice par la délivrance de permis, comme l’architecture et le droit.
+[72] À mon avis, les expressions « organisme public » et « autorité publique » sont synonymes. Les facteurs d’obligation/intérêt public, de contrôle gouvernemental et d’utilisation des profits de l’entité sont pertinents au moment de déterminer si une entité est un « organisme public » au regard de l’alinéa 149(1)d.5) de la Loi de l’impôt sur le revenu.
+[73] L’article 125 de la Loi constitutionnelle de 1867 prévoit que les gouvernements provinciaux et le gouvernement fédéral ne peuvent se taxer les uns les autres. Divers alinéas du paragraphe 149(1) de la Loi exonèrent d’impôt certaines sociétés d’État et autres entités publiques qui ne sont pas visées par l’article 125 de la Loi constitutionnelle de 1867.
+[74] Par exemple, les alinéas 149(1)d), d.1) et d.2) exonèrent d’impôt les sociétés, commissions et associations détenues par le gouvernement fédéral ou un gouvernement provincial. L’admissibilité à l’exemption d’impôt dépend uniquement de la part ou de la propriété du capital de la société, commission ou association.
+[75] L’alinéa 149(1)c) élargit l’exemption de l’impôt fédéral aux municipalités. Ce texte exempte également tout organisme municipal remplissant une fonction gouvernementale au Canada.
+[76] Le gouvernement fédéral, les gouvernements provinciaux et les municipalités ont clairement un devoir public. En fait, ces entités existent pour servir et gouverner le public. On pourrait s’attendre à ce que ce devoir s’étende aux sociétés, commissions et associations détenues et exploitées par divers ordres de gouvernement.
+[77] Les mots « organisme public » aux alinéas 149(1)c) et 149(1)d.5) sont utilisés en association avec deux autres types d’entités ayant un devoir public. Dans ce contexte, il me semble qu’un organisme public doit être défini comme un organisme ayant un devoir public.
+[78] En outre, puisque l’exemption d’impôt à l’alinéa 149(1)d.5) figure parmi les exemptions prévues au paragraphe 149(1) pour un certain nombre d’entités contrôlées par le gouvernement, je crois que le deuxième volet de la loi anglaise est également pertinent : l’entité doit être soumise dans une mesure importante au contrôle gouvernemental.
+[79] Enfin, le législateur a choisi les mots « organisme public »; il en résulte que tout bénéfice réalisé par l’entité ne sera pas utilisé à des fins personnelles par les membres de l’organisme.
+[80] En résumé, je suis d’avis que le critère à trois volets de la loi anglaise discuté par la Cour d’appel fédérale dans l’arrêt Canadian Olympic Association doit être utilisé pour déterminer si une entité est un « organisme public » aux fins des alinéas 149(1)c) et 149(1)d.5) de la Loi de l’impôt sur le revenu. Plus précisément, l’entité doit avoir un devoir public, doit être soumise dans une mesure importante au contrôle gouvernemental et ne doit pas utiliser ses bénéfices au profit personnel de ses membres.
+[81] L’article 4.2 de la Loi sur le Barreau prévoit, en partie, que le Barreau a l’obligation de protéger l’intérêt public dans l’exercice de ses fonctions, obligations et pouvoirs.
+[82] Dans l’arrêt Trinity Western University c. Barreau du Haut-Canada [26] (Trinity Western), la majorité des juges de la Cour suprême du Canada ont conclu que les articles 4.1 et 4.2 de la Loi sur le Barreau imposent un devoir public au Barreau. La majorité des juges a observé au paragraphe 16 de leurs motifs, après avoir reproduit le texte des articles 4.1 et 4.2 de la Loi sur le Barreau :
+Le Barreau du Haut-Canada est donc chargé, entre autres choses, de réglementer la profession juridique en Ontario, de veiller à ce que les avocats respectent certaines normes en matière de professionnalisme et de compétence, et de s’acquitter de ses différentes fonctions conformément à son devoir de protéger l’intérêt public.
+[Non souligné dans l’original.]
+[83] Au paragraphe 18, la majorité des juges a réitéré cette obligation en observant : « À la lecture de l’art. 4.2 de la Loi sur le Barreau, il est manifeste que, dans l’exercice de l’ensemble de ses « fonctions, obligations et pouvoirs » en application de cette loi, le Barreau du Haut-Canada doit tenir compte des principes énoncés à cet article, notamment de son obligation de protéger l’intérêt public ».
+[84] Ainsi, la Cour suprême du Canada a conclu que le Barreau a l’obligation de protéger l’intérêt public dans l’exercice de ses fonctions.
+[85] Il ressort des éléments de preuve dont je dispose que le Barreau satisfait également au deuxième volet du critère : il est soumis dans une mesure importante au contrôle gouvernemental. Les éléments qui suivent démontrent ce contrôle :
+- L’article 13 de la Loi sur le Barreau prévoit, en partie, que le procureur général de l’Ontario est le gardien de l’intérêt public pour toutes les affaires relevant de cette loi ou ayant trait, sous un rapport quelconque, à la pratique du droit en Ontario ou à la prestation de services juridiques en Ontario.
+- Le procureur général de l’Ontario nomme huit des conseillers qui régissent le Barreau.
+- Le gouvernement approuve la nomination des membres non juristes du Tribunal du Barreau.
+[86] Cela constitue un degré suffisant d’influence ininterrompue dans la gouvernance et la prise de décision du Barreau pour satisfaire le critère de contrôle important.
+[87] Selon les éléments de preuve qui me sont présentés, les bénéfices réalisés par le Barreau sont utilisés par ce dernier pour financer ses activités et aucun montant n’est retourné aux titulaires de permis. Par conséquent, le troisième volet du critère est satisfait.
+[88] Pour les motifs qui précèdent, je conclus que le Barreau est un « organisme public » aux fins de l’alinéa 149(1)d.5) de la Loi de l’impôt sur le revenu.
+IV. Exécution d’une fonction gouvernementale
+[89] L’appelante soutient que le Barreau remplit une « fonction gouvernementale » puisque l’obligation de remplir une fonction de réglementation lui a été confiée par la loi, c’est-à-dire la réglementation de la profession dans l’intérêt public. Elle soutient également que le Barreau remplit des fonctions législatives ou réglementaires, des fonctions exécutives ou administratives et des fonctions judiciaires ou ministérielles, et que chacune de ces fonctions constitue une fonction gouvernementale.
+[90] Au Canada, différents ordres de gouvernement dirigent le public dans des zones géographiques précises. Le gouvernement fédéral dirige le public partout au Canada dans les domaines qui relèvent de sa compétence aux termes de notre Constitution. Un gouvernement provincial dirige le public dans la zone géographique propre à cette province, dans les domaines qui relèvent de sa compétence aux termes de notre Constitution. Une municipalité dirige le public dans la zone géographique qui lui est attribuée par la province dans laquelle elle se trouve, et dans les domaines qui relèvent des compétences attribuées par la province.
+[91] À mon avis, un organisme public remplit une fonction gouvernementale dans sa zone géographique précise seulement s’il remplit une fonction dans le cadre de la gouvernance du public qui se trouve dans cette zone géographique précise.
+[92] La question de savoir si le Barreau remplit une fonction gouvernementale en Ontario est une question de fait. La Cour doit déterminer quelles sont les fonctions que le Barreau accomplit auprès du public en Ontario et si ces fonctions constituent une fonction de gouvernance en Ontario.
+[93] Dans l'arrêt Trinity Western, la majorité des juges de la Cour suprême du Canada a noté que la profession juridique en Ontario est une profession autoréglementée. Le Barreau est l’organisme de réglementation de la profession juridique en Ontario.
+[94] Je rejette l’argument de l’appelante selon lequel l’exécution de cette fonction réglementaire équivaut à l’exécution d’une fonction gouvernementale dans la zone géographique sous la responsabilité du Barreau, à savoir l’Ontario.
+[95] Bien que le Barreau ait l’obligation de tenir compte de l’intérêt public dans l’exécution de ses fonctions réglementaires, cela ne signifie pas qu’il exécute des fonctions gouvernementales. Le Barreau remplit ses fonctions au regard de la profession juridique et non du public. Il formule et applique des politiques dans le but de réglementer la profession juridique. Comme M. Varro l’a déclaré au cours de son témoignage, le Barreau consacre toutes ses ressources à la réglementation de la profession juridique. Le Barreau remplit ses diverses fonctions en réglementant la profession juridique, et non en gouvernant la population ontarienne.
+[96] Je ne dispose d’aucun élément de preuve dont il ressort que le Barreau remplit une fonction de gouvernance du public en Ontario. Le public bénéficie certainement du fait que le Barreau réglemente la profession juridique, mais cela ne revient pas à remplir une fonction de gouvernance du public en Ontario.
+[97] Le gouvernement de l’Ontario remplit une fonction gouvernementale précise lorsqu’il décide quel organisme doit réglementer une profession précise, quelles sont les fonctions et les responsabilités de l’organisme, et de quelle façon cet organisme doit être exploité. L’exécution concrète de ces obligations réglementaire par l’organisme n’équivaut pas à l'exécution d'une fonction de gouvernance auprès de la population ontarienne.
+[98] Le gouvernement de l’Ontario a accordé au Barreau le pouvoir de réglementer la profession juridique en Ontario lorsqu’il a adopté la Loi sur le Barreau. En adoptant cette loi (et ses modifications), le gouvernement de l’Ontario a rempli une fonction de gouvernance en légiférant relativement aux membres du public qui peuvent fournir des services juridiques en Ontario. Aux articles 4.1 et 4.2 de la Loi sur le Barreau, le gouvernement a défini la façon dont le Barreau doit réglementer la profession juridique. En effet, la Loi sur le Barreau définit le rôle et les responsabilités du Barreau.
+[99] Aucune des fonctions du Barreau ne constitue une fonction législative. Le Barreau, comme tous les autres organismes de réglementation des professions, peut adopter des règlements administratifs portant sur son rôle en tant qu’organisme de réglementation de la profession juridique et sur ses membres. Toutefois, le gouvernement de l’Ontario, à l’article 62 de la Loi sur le Barreau, précise les aspects pour lesquels le Barreau peut adopter des règlements administratifs. Le gouvernement de l’Ontario a rempli une fonction gouvernementale lorsqu’il a décidé quels règlements administratifs le Barreau est autorisé à adopter. Le Barreau ne remplit pas de fonction gouvernementale auprès de la population de l’Ontario lorsqu’il adopte les règlements administratifs précisés à l’article 62, comme les règlements administratifs qui établissent les classes de permis qu’il peut émettre en vertu de la Loi sur le Barreau, les règlements administratifs qui régissent l’octroi de permis aux personnes qui exercent le droit en Ontario (comme les avocats) ou les règlements administratifs qui régissent le traitement de l’argent et des autres biens par les titulaires de permis. Ces règlements administratifs se rapportent à la réglementation de la profession juridique en Ontario, et non à la gouvernance de la population de cette province.
+[100] De même, l’article 63 de la Loi sur le Barreau prévoit que le Barreau peut adopter des règlements en vertu de cette loi dans des domaines précis. Une fois de plus, le gouvernement de l’Ontario remplit la fonction de gouvernance en précisant les domaines dans lesquels le Barreau peut adopter des règlements. En outre le lieutenant-gouverneur en conseil, c’est-à-dire le gouvernement de l’Ontario, doit approuver ces règlements.
+[101] La fonction judiciaire est autre fonction du gouvernement. Le Black’s Law Dictionary (10e édition) définit le terme « judiciaire » ainsi : [traduction] « se rapportant à un tribunal ou un juge ». À mon avis, seuls les juges des juridictions canadiennes exécutent la fonction judiciaire. La Cour divisionnaire de l’Ontario et la Cour supérieure de l’Ontario remplissent les fonctions judiciaires relativement à la réglementation de la profession juridique en Ontario.
+[102] Par le truchement de la Loi sur le Barreau, le gouvernement de l’Ontario exige du Barreau qu’il s’assure que toute personne qui fournit des services juridiques en Ontario répond aux normes de compétences professionnelles et de déontologie. La Loi sur le Barreau prévoit des règles précises régissant l’octroi de permis et permet au Barreau de prendre des mesures si un non-titulaire de permis tente de fournir des services juridiques en Ontario. Ces mesures sont prises par la Cour supérieure de justice de l’Ontario.
+[103] Bien que le Barreau puisse prendre des mesures pour empêcher une personne non autorisée de fournir des services juridiques, ces mesures sont prises par les tribunaux de l’Ontario. La fonction judiciaire est assurée par les tribunaux de l’Ontario, et non par le Barreau.
+[104] La Loi sur le Barreau permet également au Barreau de prendre des mesures si un titulaire de permis se livre à une inconduite professionnelle ou à une conduite inconvenante. La Loi oblige le Barreau à établir un Comité d’autorisation des instances et un Tribunal du Barreau. Le Barreau forme ce comité et ce tribunal afin de discipliner ses membres. À mon avis, lorsqu’il établit et accomplit les fonctions du comité et du tribunal, le Barreau ne remplit pas une fonction judiciaire. De nombreuses entités responsables de la réglementation des professions sont dotées de tribunaux comparables, qui n’accomplissent pas de fonction judiciaire. Au Canada, les fonctions judiciaires sont accomplies par nos cours, et non par des tribunaux mis en place pour réglementer une profession.
+[105] Les décisions du Tribunal du Barreau sont portées en appel devant la Cour divisionnaire de l’Ontario, qui assure la fonction judiciaire relative aux poursuites intentées contre les titulaires de permis pour inconduite professionnelle ou conduite inconvenante.
+[106] Puisque le Barreau n’accomplit pas la fonction de gouvernement au Canada, l’appelante n’est pas admissible à l’exemption d’impôt prévue à l’alinéa 149(1)d.5).
+[107] Pour les motifs qui précèdent, l’appel est accueilli, mais uniquement en ce qui concerne la concession faite par le ministre, à savoir que le revenu imposable de l’appelante pour 2013 (établi à 24 638 856 $) doit être réduit de 44 475 $ et que le revenu imposable de l’appelante pour 2014 (établi à 26 560 645 $) doit être réduit de 18 520 $. Les dépens sont adjugés à l’intimée.
+Signé à Toronto (Ontario), ce 26e jour de septembre 2018.
+« S. D’Arcy »
+Le juge D’Arcy
+Traduction certifiée conforme
+ce 30e jour de juillet 2020.
+François Brunet, réviseur
+ANNEXE A
+2016-1437(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+LAWYERS’ PROFESSIONAL INDEMNITY COMPANY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+EXPOSÉ CONJOINT DES FAITS (PARTIEL)
+Les parties à la présente instance admettent, uniquement aux fins de la présente instance, la véracité des faits suivants ainsi que la pertinence et l’authenticité des documents cités dans le présent exposé conjoint partiel des faits (« exposé conjoint »).
+Les parties se réservent chacune le droit :
+de présenter des éléments de preuve supplémentaires qui sont pertinents et probants concernant les questions présentées à la Cour et qui ne sont pas incohérents ou contradictoires avec les faits admis;
+de contester l’exactitude des déclarations contenues dans les documents et les conséquences juridiques qui découlent de ces documents ou de ces faits.
+Les faits dans cet exposé conjoint sont organisés sous les titres suivants :
+A. Le Barreau…………………………………………………………………..2
+B. Gouvernance du Barreau……………………………………………………2
+C. LawPRO……………………………………………………………………..4
+D. Alinéa 149(1)d.5) de la Loi de l’impôt sur le revenu………..………………5
+E. Nouvelles cotisations et confirmation…………….………..………………..6
+A. Le Barreau
+1. Le Barreau du Haut-Canada (le Barreau) a été fondé en 1797 par une loi de l’Assemblée législative du Haut-Canada.
+2. Le Barreau a été constitué en société en 1822 et a poursuivi ses activités en vertu de la Loi sur le Barreau de l’Ontario1 en 1990 à titre d’entreprise sans capital social.
+3. Le Barreau est une société établie par la loi. Ses fonctions, ses pouvoirs et ses obligations sont établis dans la Loi sur le Barreau et ses règlements, ainsi que dans les règlements administratifs adoptés en vertu de cette loi (les règlements administratifs).
+4. Entre autres choses, la Loi sur le Barreau accorde au Barreau le pouvoir de s’assurer que toutes les personnes qui pratiquent le droit en Ontario ou fournissent des services juridiques en Ontario respectent les normes de formation, de compétence professionnelle et de déontologie qui sont appropriées dans le cas des services juridiques qu’elles fournissent.
+5. Les membres du Barreau, à n’importe quel moment, sont les suivants :
+(i) la personne qui occupe le poste de trésorier à ce moment-là;
+(ii) les personnes qui sont conseillers à ce moment-là;
+(iii) les personnes pourvues, à ce moment-là, d’un permis les autorisant à pratiquer le droit en Ontario en qualité d’avocat;
+(iv) les personnes pourvues, à ce moment-là, d’un permis les autorisant à fournir des services juridiques en Ontario.
+B. Gouvernance du Barreau
+6. Les affaires du Barreau sont régies par les conseillers.
+7. Les conseillers régissent les affaires du Barreau dans le cadre, principalement, de réunions régulières ou extraordinaires appelées « Conseil ».
+8. Le trésorier occupe les fonctions de président du Conseil et de président du Barreau.
+_______________________________________
+1. LRO 1990, ch. L.8, art. 2.
+9. Quarante personnes pourvues d’un permis les autorisant à pratiquer le droit en Ontario en qualité d’avocat et cinq personnes pourvues d’un permis les autorisant à fournir des services juridiques en Ontario sont élues conseillers. 10. Huit personnes qui ne sont pas titulaires de permis sont nommées à titre de conseillers non juristes par le lieutenant-gouverneur en conseil.
+11. Les titulaires de permis qui ont occupé la charge de trésorier à un moment donné avant le 1er janvier 2010 sont nommés conseillers d’office.
+12. Les personnes qui
+(i) soit sont conseillers honoraires le 1er octobre 1970;
+(ii) soit sont nommées conseillers honoraires après cette date,
+sont conseillers honoraires, mais n’ont à ce titre que les droits et privilèges prescrits par les règlements administratifs.
+13. Les personnes suivantes sont conseillers d’office pendant qu’elles sont titulaires de permis :
+(i) le ministre de la Justice et procureur général du Canada;
+(ii) le solliciteur général du Canada;
+(iii) les personnes qui, au 1er juin 2015, ont occupé la charge de conseiller élu pendant au moins 16 ans.
+14. Les personnes suivantes sont également conseillers d’office :
+(i) le procureur général de l’Ontario;
+(ii) les personnes qui ont occupé la charge de procureur général de l’Ontario à un moment donné avant le 1er janvier 2010.
+15. Le ministre de la Justice, le procureur général du Canada et le solliciteur général du Canada possèdent les droits et privilèges que prescrivent les règlements administratifs. Toutefois, ils ne peuvent voter en Conseil ou en comité.
+16. Comme tous les autres conseillers ayant droit de vote, le procureur général de l’Ontario peut voter en Conseil et en comité.
+C. LawPRO
+17. Le Barreau a constitué en société la Lawyers’ Professional Indemnity Company (LawPRO) en vertu de la Loi sur les personnes morales (Ontario) le 14 mars 19902.
+18. LawPRO est une société privée sous contrôle canadien aux fins de la Loi de l’impôt sur le revenu du Canada (la Loi)3, et est titulaire d’un permis d’assureur en Ontario (ainsi que dans d’autres provinces et territoires au Canada).
+19. Le Barreau exige que tous les avocats titulaires de permis qui exercent le droit versent des redevances pour souscrire à une assurance responsabilité professionnelle par l’intermédiaire de LawPRO.
+20. LawPRO a été constituée en société pour fournir une assurance responsabilité professionnelle aux avocats titulaires de permis qui exerçaient le droit, et c’est bien ce qu’elle a fait au cours des années d’imposition se terminant le 31 décembre 2013 et le 31 décembre 2014 (collectivement, les années d’imposition).
+21. LawPRO offre également des produits d’assurance aux cabinets d’avocats en Ontario ainsi qu’une assurance titres complète aux propriétaires et aux prêteurs immobiliers en Ontario et dans l’ensemble des provinces et des territoires au Canada.
+22. Pour chaque année d’imposition :
+a) LawPRO était une compagnie d’assurance régie par la Loi sur l’assurance (Ontario)4;
+b) LawPRO était une compagnie d’assurance au sens du paragraphe 248(1) de la Loi;
+c) au moins 90 % du capital de LawPRO était détenu par le Barreau;
+d) le revenu tiré par LawPRO de ses activités à l’extérieur de l’Ontario pour les années d’imposition n’a pas dépassé 10 % de son revenu.
+________________________
+2. LRO 1990, ch. C.38.
+3. L.R.C. 1985, ch. 1.
+4. LRO 1990, ch. I.8.
+D. Alinéa 149(1)d.5) de la Loi de l’impôt sur le revenu
+23. Le 26 juin 2013, la Loi de 2012 apportant des modifications techniques concernant l’impôt et les taxes5 a reçu la sanction royale et a apporté plusieurs modifications (les modifications) à la Loi.
+24. Plus particulièrement, le paragraphe 307(1) de la Loi de 2012 apportant des modifications techniques concernant l’impôt et les taxes a modifié l’alinéa 149(1)d.5) de la Loi, applicable aux années d’imposition débutant après le 8 mai 2000.
+25. L’alinéa 149(1)d.5) modifié est rédigé ainsi :
+149 (1) Aucun impôt n’est payable en vertu de la présente partie, sur le revenu imposable d’une personne, pour la période où cette personne était :
+[...]
+d.5) sous réserve des paragraphes (1.2) et (1.3), une société, commission ou association dont au moins 90 % du capital appartenait à une ou plusieurs entités dont chacune est une municipalité du Canada ou un organisme municipal ou public remplissant une fonction gouvernementale au Canada, pourvu que le revenu de la société, commission ou association pour la période provenant d’activités exercées en dehors des limites géographiques des entités ne dépasse pas 10 % de son revenu pour la période;
+26. LawPRO a produit une déclaration d’impôt pour chaque année d’imposition pertinente en considérant qu’elle était admissible à l’exemption d’impôt prévue à l’alinéa 149(1)d.5), tel qu’il a été modifié. Les cotisations de LawPRO ont été établies selon la déclaration de revenus produite pour chaque année d’imposition.
+___________________
+5. L.C. 2013, ch. 34.
+E. Nouvelles cotisations et confirmation
+27. Au moyen de nouvelles cotisations datées du 13 octobre 2015 et transmises à LawPRO (collectivement, les nouvelles cotisations) pour les années d’imposition, le ministre du Revenu national (le ministre) a établi de nouvelles cotisations en refusant à LawPRO l’exemption d’impôt prévue aux termes de l’alinéa 149(1)d.5) de la Loi, telle qu’elle a été modifiée, pour chaque année d’imposition.
+28. Dans un avis de confirmation daté du 19 janvier 2016 (la confirmation), le ministre a confirmé les nouvelles cotisations.
+29. Le ministre a délivré la confirmation au motif que LawPRO n’était pas admissible à l’exemption d’impôt prévue à l’alinéa 149(1)d.5) de la Loi, telle qu’elle a été modifiée, pour les années d’imposition.
+FAIT dans la ville de Toronto, dans la province de l’Ontario, ce 6e jour de mars 2018
+Osler, Hoskin & Harcourt S.E.N.C.R.L., s.r.l.
+_________« Pooja Mihailovich »______
+Par : Me Mahmud Jamal
+Me Pooja Mihailovich
+Me Hemant Tilak
+Osler, Hoskin & Harcourt S.E.N.C.R.L., s.r.l.
+Case postale 50
+1 First Canadian Place
+Toronto (Ontario) M5X 1B8
+Tél. : 416-862-6764
+Téléc. : 416-862-6666
+Avocats de l’appelante
+Fait dans la ville d’Ottawa, dans la province de l’Ontario, ce 6e jour de mars 2018
+Sous-procureur général du Canada
+___________« J. Malone »____________
+Par : Me Justine Malone
+Me Kaylee Silver
+Ministère de la Justice Canada
+Services du droit fiscal
+99, rue Bank, 11e étage
+Ottawa (Ontario) K1A 0H8
+Téléphone : 613-670-6410
+Téléc. : 613-941-2293
+Avocates de l’intimée :
+RÉFÉRENCE :
+2018 CCI 194
+NO DU DOSSIER DE LA COUR :
+2016-1437(IT)G
+INTITULÉ :
+LAWYERS’ PROFESSIONAL INDEMNITY COMPANY c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Les 12 et 13 mars 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT :
+Le 26 septembre 2018
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Mahmud Jamal
+Me Pooja Mihailovich
+Me Hemant Tilak
+Avocates de l’intimée :
+Me Justine Malone
+Me Kaylee Silver
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Mahmud Jamal
+Me Pooja Mihailovich
+Me Hemant Tilak
+Cabinet :
+Osler, Hoskin & Harcourt S.E.N.C.R.L., s.r.l.
+Toronto (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le Barreau exerce actuellement ses activités sous l'appellation de Barreau de l’Ontario.
+[2] Pièce A-R-1, onglet 6, page 214.
+[3] Voir également la pièce A-R-1, onglet 6, page 208.
+[4] L.R.O. 1990, chapitre L.8.
+[5] ECPF, point 3.
+[6] Transcription, page 34.
+[7] Transcription, page 42.
+[8] Transcription, page 60. Voir aussi la transcription, page 42.
+[9] Transcription, pages 31 et 32.
+[10] Transcription, pages 34 et 35.
+[11] Transcription, page 79.
+[12] Transcription, page 73.
+[13] Transcription, pages 73 à 88.
+[14] Cette demande est prévue par l’article 26.3 de la Loi sur le Barreau.
+[15] Transcription, page 75.
+[16] Transcription, pages 133 et 134.
+[17] Pièce A-R-1, onglet 1, page 15. Voir aussi la transcription, pages 78 et 79.
+[18] Voir l’ECPF, alinéas 22(c) et (d).
+[19] 2005 CSC 54, [2005] 2. R.C.S. 601, 2005 DTC 5523.
+[20] Hypothèques Trustco, aux paragraphes 10 et 11.
+[21] Tawich Development Corporation v. Deputy Minister of Revenue of Quebec, [1997] 2 C.N.L.R. 187, confirmée par 2001 DTC 5144.
+[22] 94 DTC 1234.
+[23] Notes techniques du ministère des Finances, 149(1)d.5), 24 octobre 2012.
+[24] [1983] 1 F.C. 692.
+[25] 2002 CAF 218, [2003] 1 F.C. 331.
+[26] 2018 CSC 33. À la demande de la Cour, les parties ont déposé des observations le 10 juillet 2018 relativement à l'incidence, en l'espèce, d'une jurisprudence de la Cour suprême du Canada, Trinity Western.

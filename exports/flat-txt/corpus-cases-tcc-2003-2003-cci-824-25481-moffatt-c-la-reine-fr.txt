@@ -1,0 +1,136 @@
+Title: Moffatt c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25481/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-824-25481-moffatt-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-11-05
+
+# Moffatt c. La Reine
+
+- Citation: 2003 CCI 824
+- Decision date: 2003-11-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2359, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moffatt c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-05
+Référence neutre
+2003 CCI 824
+Numéro de dossier
+2003-1956(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1956(IT)I
+ENTRE :
+ANDREW ROBERT MOFFATT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 21 octobre 2003, à Ottawa (Ontario).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Roger Leclaire
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies à l’égard de l’appelant en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1997 et 1998 sont accueillis dans la mesure où le revenu de profession libérale net de l’appelant est réduit de 260,44 $ pour 1997 et de 164,93 pour 1998 (pour les frais de repas et de représentation), et d’un montant additionnel de 2 808 $ (pour les frais de bureau à domicile dont la déduction a été erronément admise pour 1997, mais dont il aurait fallu tenir compte pour 1998).
+À tous les autres égards, les cotisations demeurent inchangées, sauf en ce qui a trait à la pénalité imposée en application du paragraphe 163(2), qui devra être recalculée en tenant compte du présent jugement.
+Signé à Ottawa, Canada, ce 5e jour de novembre 2003.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 25e jour de février 2009.
+Alya Kaddour‑Lord, traductrice
+Référence : 2003CCI824
+Date : 20031105
+Dossier : 2003-1956(IT)I
+ENTRE :
+ANDREW ROBERT MOFFATT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 21 octobre 2003,
+et par la suite modifiés à Ottawa (Ontario), le 5 novembre 2003.)
+La juge Lamarre
+[1] Il s’agit d’un appel interjeté à l’encontre du rejet de certaines dépenses et de l’imposition d’une pénalité en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »).
+Les frais de bureau à domicile
+[2] La seule question en litige à cet égard est de savoir si l’appelant peut ajouter la superficie de 14 mètres carrés de son sous‑sol à la partie de son domicile utilisée en vue de gagner un revenu.
+[3] Le paragraphe 18(12) de la Loi prévoit qu’il incombe à l’appelant de prouver que son domicile était son principal lieu d’affaires. Je conviens avec l’intimée que ce n’était pas le cas. Mme Dannehl, vérificatrice de l’Agence des douanes et du revenu du Canada (l’« ADRC »), a témoigné que pendant la période en cause, l’appelant déclarait dans ses annonces publicitaires que son cabinet était situé sur la rue McLaren (adresse distincte de celle de son domicile) et donnait le numéro de téléphone correspondant auquel on pouvait le joindre. Sa secrétaire travaillait sur place, et il disposait là de tout l’équipement de bureau nécessaire. Par conséquent, je conclus que le principal lieu d’affaires de l’appelant n’était pas son domicile.
+[4] Cela étant dit, l’appelant devait démontrer qu’une partie de son sous‑sol lui servait exclusivement à tirer un revenu d’une entreprise et à rencontrer des clients sur une base régulière et continue dans le cadre de l’entreprise. Cette condition n’a pas non plus été remplie, et il est clair que si l’appelant utilisait une partie de son sous‑sol à des fins d’entreposage, il n’y rencontrait pas de clients. Ainsi, le sous‑sol ne sera pas inclus dans l’espace de travail pris en considération afin de calculer le pourcentage des dépenses pouvant être déduit au titre de frais de bureau à domicile.
+[5] En ce qui a trait à la déduction d’une partie des dépenses liées au service de câble à domicile, l’appelant n’a pas indiqué à Mme Dannehl, au moment de la vérification, que le service en question lui servait aux fins de son entreprise. Il est difficile d’admettre aujourd’hui que tel était le cas, étant donné que cette question a été soulevée bien après la vérification, et que cela n’a pu être corroboré.
+[6] Par conséquent, je maintiens la cotisation à cet égard, à l’exception d’un montant additionnel de 2 808 $ dont l’intimée a erronément accordé la déduction pour 1997 alors qu’elle aurait dû être accordée pour 1998.
+Les frais de représentation
+[7] Le ministre a déjà accordé la déduction de la moitié des frais de représentation que l’appelant avait demandés en application du paragraphe 67.1(1) de la Loi. L’appelant ne demande maintenant qu’à pouvoir déduire de son revenu l’autre moitié de deux factures de restaurant, l’une de 520,87 $ pour 1997, et l’autre de 329,85 $ pour 1998. Il a déclaré que ces factures étaient liées à des sorties spéciales, organisées pour sa seule employée et ses deux sous‑traitants, la première sortie ayant eu lieu pendant le temps des fêtes, et la seconde en mai, après la saison des impôts. Les factures ont été déposées sous la cote A-1, et l’appelant prétend que l’intégralité de ces dépenses est déductible en vertu de l’alinéa 67.1(2)f) de la Loi.
+[8] À l’audience, l’intimée a accepté d’accorder à l’appelant la déduction de ces dépenses additionnelles.
+Les frais d’intérêts
+[9] Mme Dannehl a affirmé que l’appelant avait déduit la totalité des frais d’intérêts se rapportant à toutes ses dettes (y compris les intérêts sur de nombreuses cartes de crédit ainsi que sur des découverts bancaires). Elle n’a pas vérifié si les capitaux empruntés avaient été déposés sur le compte d’affaires de l’appelant, mais elle a étudié l’utilisation qui en avait été faite afin de déterminer dans quelles proportions ils avaient servi des fins commerciales ou personnelles.
+[10] Mme Dannehl a eu recours à la même ventilation que celle qui apparaît dans les dossiers de l’appelant, soit : essence, repas et représentation, et dépenses personnelles (elle a déclaré que l’appelant avait qualifié ses dépenses personnelles de [traduction] « prélèvements » dans son grand livre).
+[11] Mme Dannehl a conclu que l’essence ainsi que les frais de repas et de représentation constituaient 45 % des dépenses de l’appelant, et ses dépenses personnelles 55 %. Elle a alors calculé le total des dépenses d’entreprise que l’appelant avait déduites de son revenu, réduisant cette somme du montant des dépenses refusées (telles qu’une partie des dépenses liées au bureau à domicile et quelques créances irrécouvrables) et de celui des prélèvements personnels. Elle a ainsi conclu que 63 % du total des dépenses étaient attribuables à l’entreprise en 1997, et 58 % en 1998. Par conséquent, elle a admis que 60 % de l’ensemble des dépenses avaient été engagées à des fins commerciales. C’est ainsi qu’elle a été amenée à conclure que 60 % des frais d’intérêts avaient été engagés à des fins commerciales.
+[12] À l’étape de l’opposition, l’agent des appels a vérifié quelle proportion de capitaux empruntés avait été déposée sur le compte d’affaires de l’appelant, et il est parvenu au même résultat, à savoir que 60 % de ces capitaux avaient été utilisés à des fins commerciales.
+[13] L’appelant prétend maintenant que l’agent des appels n’a pas tenu compte d’un prêt de 9 000 $ contracté auprès de London Life, ainsi que d’une hypothèque de 32 672 $ grevant la maison de la mère de l’appelant. Le relevé détaillé de prêt que l’appelant a déposé sous la cote A-1 fait état d’une somme de 9 000 $ dépensée pour une police d’assurance‑vie qu’il a contractée. On ne connaît pas l’identité du bénéficiaire. Cela est insuffisant pour prouver qu’il s’agissait d’une dépense d’entreprise. On est en présence d’un prêt qui a été contracté par l’appelant en vue de souscrire une police d’assurance‑vie. Je suis d’avis qu’il s’agit d’une dépense personnelle. En fait, l’appelant est le propriétaire d’une entreprise individuelle. Son « associé », comme il l’appelle, ne fait que contribuer aux dépenses; il ne s’agit pas d’une société de personnes. Il n’existe aucune preuve du fait que l’assurance‑vie souscrite par l’appelant visait à lui permettre de tirer un revenu d’une société de personnes ou d’une entreprise.
+[14] En ce qui a trait à l’hypothèque sur la maison de la mère de l’appelant, je ne dispose d’aucune preuve indiquant que ce montant a été utilisé dans le cadre des activités de l’entreprise, et je ne vois pas de raison de l’ajouter aux sommes déjà acceptées par l’agent des appels.
+[15] En ce qui concerne la méthode employée par Mme Dannehl, qui l’a amenée à conclure que 60 % de l’ensemble des dépenses étaient attribuables à l’entreprise de l’appelant, ce dernier a déclaré que Mme Dannehl avait erronément considéré les prélèvements comme des dépenses personnelles. Il a affirmé que les capitaux propres de son entreprise s’élevaient à 80 000 $ (d’après l’état financier déposé pour l’exercice qui s’est terminé le 31 décembre 1996), et que les prélèvements effectués devaient être remboursés au moyen d’un versement sur le compte de capital de l’entreprise. J’en déduis qu’il s’est appuyé sur l’arrêt Singleton c. Canada, [2001] 2 R.C.S. 1046, pour prétendre qu’il pouvait prélever des sommes du compte de capital de son entreprise et ensuite déduire de son revenu les frais d’intérêts afférents à l’argent utilisé pour renflouer ledit compte de capital.
+[16] Sur ce point, il n’y a pas la moindre preuve indiquant que c’est ce que l’appelant a fait. Tout d’abord, il a lui‑même qualifié les prélèvements de dépenses personnelles dans son grand livre (d’après le témoignage de Mme Dannehl et l’état financier pour 1996 qui a été déposé sous la cote A‑1, dans lequel l’appelant a déduit le montant des prélèvements dans le calcul des capitaux propres de son entreprise). Ensuite, il n’existe aucune preuve du fait qu’il était obligé de rembourser les montants qu’il avait retirés du compte de capital de son entreprise à des fins personnelles. J’ai de grands doutes quant à l’existence d’une telle obligation dans le cas d’une personne exploitant une entreprise individuelle. En fait, l’appelant ne peut être obligé de se rembourser lui‑même.
+[17] Je suis d’avis qu’il n’y a absolument aucune preuve démontrant que l’appelant s’est servi des capitaux empruntés pour renflouer son compte de capital, comme c’était le cas dans l’arrêt Singleton, précité. En l’espèce, il n’y a pas de lien direct entre l’argent emprunté et le remboursement du capital.
+[18] Je pense que la méthode employée par Mme Dannehl était raisonnable dans les circonstances, et que l’appelant n’a pas établi par une preuve prépondérante qu’il avait le droit de déduire des frais d’intérêts supérieurs à ceux que le ministre a déjà admis.
+Les pénalités
+[19] Certains éléments de preuve indiquent que l’appelant, qui est comptable agréé et qui gagne sa vie en établissant des états financiers et en remplissant des déclarations de revenu pour le compte de ses clients, a pour habitude de produire ses propres déclarations fiscales en se fondant sur des estimations de son revenu et de ses dépenses. L’appelant a admis agir de la sorte afin d’éviter d’avoir à payer des pénalités pour production tardive. Mme Dannehl a également témoigné que l’appelant avait procédé ainsi depuis 1991 au moins, et que pour les années postérieures à 1992, elle n’avait pas été en mesure de retracer les déclarations de revenu modifiées que l’appelant a produites, dans lesquelles apparaissent les chiffres exacts qui ont été utilisés pour calculer le revenu imposable de l’appelant pour ces années.
+[20] L’appelant a déclaré qu’en 1997 et en 1998, c’est‑à‑dire pendant les années en cause, il n’a pas pu établir ses états financiers à temps parce que sa fille, qui était sa secrétaire, avait commis des erreurs en omettant de consigner certaines factures. Toutefois, Mme Dannehl a affirmé avoir été capable de rapprocher l’ensemble des factures et des dépôts bancaires. D’après elle, l’appelant aurait pu facilement faire la même chose. En outre, elle a remarqué que l’appelant avait sous‑estimé son revenu et surestimé ses dépenses pour les deux années d’imposition 1997 et 1998. L’écart était substantiel. Le revenu a été sous‑évalué de 3 992 $ pour 1997 et de 19 294 $ pour 1998. Les dépenses ont été surestimées de 4 583 $ pour 1997 et de 10 499 $ pour 1998. L’appelant n’a pas modifié ses déclarations de revenu par la suite, en dépit du fait que les états financiers pour 1997 aient été établis.
+[21] L’appelant était le seul et unique propriétaire de son entreprise. Il remplissait ses propres déclarations de revenu et de TPS, et, d’après Mme Dannehl, il conservait les documents attestant de l’ensemble de son revenu et de ses dépenses dans ses registres.
+[22] Quand Mme Dannehl a téléphoné à l’appelant pour la première fois, celui‑ci a demandé un délai de quatre semaines afin de pouvoir établir ses états financiers pour 1998. Mme Dannehl était d’avis que si l’appelant était capable de produire ses états financiers en quatre semaines, il aurait facilement pu le faire dans le délai de six mois qui est imparti aux contribuables à cette fin.
+[23] L’appelant a déclaré que les chiffres exacts apparaissaient dans les déclarations de TPS qu’il a produites. D’après lui, le service de la TPS aurait pu communiquer ces chiffres au service de l’impôt de l’ADRC afin qu’il rectifie ses déclarations de revenu. Mme Dannehl a répondu à cela que l’appelant avait produit ses huit déclarations de TPS trimestrielles pour 1997 et pour 1998 en retard et d’un seul coup, en février 2000, à la suite d’une demande formulée en ce sens par l’ADRC. Elle a ajouté que les documents déposés relativement à la TPS ne sont pas nécessairement utilisés pour modifier les déclarations de revenu. J’ajouterais qu’il revient au contribuable de s’assurer que tous les documents qu’il présente au service de l’impôt sont en règle.
+[24] Je conclus que la preuve est plus que suffisante pour établir que l’appelant a manqué de manière répétitive à ses obligations fiscales. Pour quelqu’un qui a le devoir éthique de conseiller et de servir ses clients dans le respect de la loi, l’appelant ne peut vraiment pas être considéré comme un modèle.
+[25] Par conséquent, je conclus de la preuve que l’appelant a, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans ses déclarations de revenu pour 1997 et 1998, et qu’il est par conséquent passible d’une pénalité en application du paragraphe 163(2) de la Loi.
+Décision
+[26] Sur consentement des parties, les appels sont accueillis dans la mesure où le revenu de profession libérale net de l’appelant est réduit de 260,44 $ pour 1997 et de 164,93 $ pour 1998 (ce qui représente l’autre moitié des frais de repas et de représentation), et d’un montant additionnel de 2 808 $ (qui représente les frais de bureau à domicile dont la déduction a été erronément admise pour 1997, mais dont il aurait fallu tenir compte pour 1998). Les cotisations demeurent inchangées à tous les autres égards, sauf en ce qui a trait à la pénalité imposée en application du paragraphe 163(2), qui devra être recalculée en tenant compte du présent jugement.
+Signé à Ottawa, Canada, ce 5e jour de novembre 2003.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 25e jour de février 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE :
+2003CCI824
+NO DU DOSSIER DE LA COUR :
+2003-1956(IT)I
+INTITULÉ :
+Andrew Robert Moffatt et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 21 octobre 2003
+MOTIFS DU JUGEMENT :
+L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT :
+Le 5 novembre 2003
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Roger Leclaire
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Morris Rosenberg
+Sous‑procureur general du Canada
+Ottawa, Canada

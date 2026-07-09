@@ -1,0 +1,156 @@
+---
+title: "Farrow v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25535/index.do"
+last_modified: "2003-12-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 885"
+citation2: ""
+neutral_citation: "2003 TCC 885"
+decision_date: "2003-12-03"
+language: "en"
+item_id: "25535"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2375
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:25:02.281000+00:00"
+cases_cited_count: 0
+cases_citing_count: 8
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d3fe08ed4846c3a91dbb98d95bdb803a57fa0f818203e73974e4a5ce8ef3b11e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Farrow v. The Queen
+
+- Citation: 2003 TCC 885
+- Decision date: 2003-12-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2375, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Farrow v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-03
+Neutral citation
+2003 TCC 885
+File numbers
+2000-4698(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-4698(IT)G
+BETWEEN:
+WAYNE A. FARROW,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on November 27, 2003 at Vancouver, British Columbia.
+Before: The Honourable D.G.H. Bowman, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+David J. McLellan
+Counsel for the Respondent:
+Karen A. Truscott
+____________________________________________________________________
+ORDER
+Upon motion by counsel for the appellant for an Order setting aside the amended judgment of the Court dated November 22, 2002;
+And upon hearing what was alleged by the parties;
+The application is allowed.
+The respondent is entitled to her costs of this motion and of the motion to dismiss, fixed at $1,000, and payable in any event of the cause.
+Signed at Montréal, Quebec this 3rd day of December, 2003.
+"D.G.H. Bowman"
+A.C.J.
+Citation: 2003TCC885
+Date: 20031203
+Docket: 2000-4698(IT)G
+BETWEEN:
+WAYNE A. FARROW,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bowman, A.C.J.
+[1] This is a motion to set aside a judgment dismissing appeals from assessments for the 1991, 1992 and 1993 taxation years. I reserved judgment because the motion raises a couple of novel points that I thought needed a little more consideration.
+[2] The day before this motion was heard counsel for the appellant served on counsel for the respondent an affidavit of Mr. Farrow. Obviously the affidavit should have been filed much earlier. Counsel's explanation was that Mr. Farrow was hospitalised with a stroke. I asked Ms. Truscott, counsel for the respondent, if she wanted an adjournment so that she could cross-examine Mr. Farrow or file an affidavit on behalf of the respondent. She informed me that she wished to proceed and I therefore heard the motion on the basis of the material on the file.
+[3] The facts are as follows. The appellant was reassessed for 1991, 1992 and 1993 on May 30, 1997. On July 15, 1997 and October 6, 1997 he objected to the reassessments. A notice of confirmation was mailed to him on July 26, 2000. On October 23, 2000 his counsel filed a notice of appeal to this court and the respondent filed a reply on February 15, 2001. The notice of appeal did not give the appellant's home or business address but gave only the address of his counsel, Mr. David J. McLellan.
+[4] A status hearing was held on March 11, 2002. Mr. McLellan informed the court that he was no longer in communication with Mr. Farrow and the status hearing was adjourned. He subsequently filed a notice of intention to cease to act as counsel and gave the appellant's address as 208-1448 Johnston Road, White Rock, British Columbia. This address was wrong. The Appellant had moved.
+[5] The respondent then tried to serve the appellant personally with a new notice of status hearing and sent the notice to 2295-124th Street, Surrey, British Columbia and also to the address on Johnston Road in White Rock, British Columbia. Both letters were returned by Canada Post.
+[6] The respondent then brought a motion to dismiss for want of prosecution and notice was sent to the Johnston Road address. It was returned to the court, undelivered.
+[7] The motion was heard by Bell J. on October 11, 2002. It was granted and the appeals were dismissed. Originally the judgment stated that the appeal was dismissed because the appellant failed to appear at the hearing of this appeal. At the request of counsel for the respondent this was corrected and an amended judgment was issued reflecting the fact that the appeal was dismissed on motion for want of prosecution.
+[8] Mr. Farrow states in his affidavit that he mistakenly concluded that the matter had been resolved and so did not stay in touch with his lawyer. This was a foolish and negligent assumption. Anyone with the most casual familiarity with the workings of our taxing authorities should know that assessments for over $150,000 do not, with the effluxion of time, simply evaporate into thin air.
+[9] At all events, Mr. Farrow seems to have remained ignorant of the fact that his appeal had been dismissed and that his own lawyer had ceased to act for him. This state of obliviousness came to an end when the Canada Customs and Revenue Agency, on January 10, 2003, sent him a statement of account.
+[10] On July 7, 2003, Mr. McLellan, who had been rehired by the appellant, wrote a letter to the court asking to have the dismissal set aside and the appeal reinstated.
+[11] This had been a comedy of errors. Clearly, Mr. Farrow is largely the author of his own misfortunes but I think his lawyer must bear some of the responsibility as well for not providing the court and the respondent with Mr. Farrow's correct address.
+[12] Certainly no criticism can be made of the respondent or her counsel.
+[13] There is no suggestion that the court does not have the power to set aside the dismissal of the appeal. Quite apart from the court's inherent jurisdiction, subsection 140(2) of the Tax Court of Canada Rules (General Procedure) gives the court that power and sections 9 and 12 of the Rules permit the extension of time to apply.
+[14] I think in all the circumstances it is in the interests of justice that I set aside the judgment dismissing the appeal and allow the appellant to proceed. In exercising my discretion I am taking into account the fact that although the appellant must bear most of the responsibility for the situation that has arisen, he did not in fact know of the dismissal of his appeal or the withdrawal of his lawyer. Moreover, the amount of money involved in the appeal is substantial - about $165,000 - and he should be given the opportunity to contest it. The delay in bringing the motion is unfortunate but it has not occasioned any serious prejudice to the Crown.
+[15] Counsel argued that apart from attaching the notice of appeal and the reply to the notice of appeal to his affidavit, the appellant has not demonstrated that he has an arguable appeal. I agree that the court must be satisfied that a litigant who seeks to have a default judgment set aside has an arguable case, but the threshold is a relatively low one. I do not think a litigant needs to testify or call evidence to show that there is a prima facie case. Moreover, it does not add much to the strength of the applicant's case for him or his solicitor to make the self-serving statement "I believe that I have a good case". In Hamel v. Chelle, 48 WWR 115, the Saskatchewan Court of Appeal discussed the point at page 118:
+Learned counsel for the plaintiff contended that as the affidavit filed in support of the application was that of the solicitor based upon information and belief, the material was not sufficient to enable the court to act. In support of this contention, he relied upon the decision in Miller and Smith v. Ross (1909) 12 WLR 315, 2 Sask LR 449. In that case the solicitor filed an affidavit in which he stated (at p. 451):
+"'I believe that the defendants have a good defence as set out in the statements of defence drawn herein, and that they should be permitted to try such action on their defences.'"
+Wetmore, C.J. held this affidavit not to be sufficient, but then, on the same page, he went on to say:
+"I am not prepared to say that if Mr. Panton had stated as the reasons for his belief that 'he had been so informed by the defendant,' it might not have been sufficient on an interlocutory application like the present."
+[16] It appears from the notice of appeal and the reply to the notice of appeal that there is a justiciable issue. The appeal is obviously not frivolous. It seems clear from the pleadings that the question is one of fact and may depend on the credibility of witnesses. This is something that on a motion of this type I cannot determine. It should be decided at trial by a judge who will have an opportunity of seeing the witnesses. I am satisfied that the material discloses that the appeal has sufficient merit that it should be permitted to proceed.
+[17] The principles upon which the court will set aside a default judgment are discussed further in Hamel, (supra). At pages 117-118 Culliton, C.J.S. said:
+The principles upon which a court in its discretion will act to set aside a judgment legally entered were set forth by Lamont, J.A. in Klein v. Schile [1921] 2 WWR 78, 14 Sask LR 220, when he said at p. 79:
+"The circumstances under which a Court will exercise its discretion to set aside a judgment regularly signed are pretty well settled. The application should be made as soon as possible after the judgment comes to the knowledge of the defendant, but mere delay will not bar the application, unless an irreparable injury will be done to the plaintiff or the delay has been wilful. Tomlinson v. Kiddo (1914) 7 WWR 93, 29 WLR 325, 7 Sask LR 132; Mills v. Harris & Craske (1915) 8 WWR 428, 8 Sask LR 114. The application should be supported by an affidavit setting out the circumstances under which the default arose and disclosing a defence on the merits. Chitty's Forms, 13th ed., p. 83.
+"It is not sufficient to merely state that the defendant has a good defence upon the merits. The affidavits must show the nature of the defence and set forth facts which will enable the Court or Judge to decide whether or not there was matter which would afford a defence to the action. Stewart v. McMahon (1908) 7 WLR 643, 1 Sask LR 209.
+"If the application is not made immediately after the defendant has become aware that judgment has been signed against him, the affidavits should also explain the delay in making the application; and, if that delay be of long standing, the defence on the merits must be clearly established. Sandhoff v. Metzer (1906) 4 WLR 18 (N.W.T.)."
+[18] The application is allowed and the judgment dismissing the appeals is set aside.
+[19] In light of the fact that the respondent was entirely blameless and the problem was caused by the appellant I am awarding the Crown its costs of this motion and of the motion to dismiss, fixed at $1,000, and payable in any event of the cause.
+Signed at Montréal, Quebec this 3rd day of December, 2003.
+"D.G.H. Bowman"
+A.C.J.
+CITATION:
+2003TCC885
+COURT FILE NO.:
+2000-4698(IT)G
+STYLE OF CAUSE:
+Wayne A. Farrow v. The Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+November 27, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Associate Chief Justice
+DATE OF JUDGMENT:
+December 3, 2003
+APPEARANCES:
+Counsel for the Appellant:
+David J. McLellan
+Counsel for the Respondent:
+Karen A. Truscott
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+300-3665 Kingsway
+Firm:
+Vancouver, British Columbia
+V5R 5W2
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

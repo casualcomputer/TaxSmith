@@ -1,0 +1,217 @@
+---
+title: "Les Assurances Jones Inc  c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29237/index.do"
+last_modified: "2009-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 273"
+citation2: ""
+neutral_citation: "2009 CCI 273"
+decision_date: "2009-02-16"
+language: "fr"
+item_id: "29237"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7038
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:09:59.637000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fd628439f23fddafa9b510a26a152a19a0271aabaac0eea1e8c54495edac2dcd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Les Assurances Jones Inc  c. M.R.N.
+
+- Citation: 2009 CCI 273
+- Decision date: 2009-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7038, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Assurances Jones Inc c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-02-16
+Référence neutre
+2009 CCI 273
+Numéro de dossier
+2008-3307(EI)
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-3307(EI)
+ENTRE :
+LES ASSURANCES JONES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 16 février 2009, à Montréal (Québec).
+Devant : L'honorable juge Pierre Archambault
+Comparutions :
+Avocat de l’appelante :
+Me Jérôme Carrier
+Représentant de l’intimé :
+Laurent Brisebois, stagiaire
+____________________________________________________________________
+JUGEMENT
+Les appels de l’appelante sont rejetés et les décisions sont confirmées selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 21e jour de mai 2009.
+Pierre Archambault
+Juge Archambault
+Référence : 2009 CCI 273
+Date : 20090521
+Dossier : 2008-3307(EI)
+ENTRE :
+LES ASSURANCES JONES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Archambault
+[1] Les Assurances Jones inc. (LAJ) interjette appel de décisions du ministre du Revenu national (ministre) selon lesquelles monsieur Philippe Jones et madame Élizabeth Jones (travailleurs) ont exercé un emploi assurable auprès de LAJ durant la période du 1er janvier 2004 au 11 mars 2008[1] (période pertinente). Le litige porte sur la question de savoir si le ministre a exercé adéquatement son pouvoir administratif prévu à l’alinéa 5(3)b) de la Loi sur l’assurance-emploi (Loi).
+[2] Pour rendre sa décision, le ministre s’est appuyé sur les faits présumés suivants énoncés aux paragraphes 5, 6 et 7 de la réponse à l’avis d’appel. Au début de l’audience, l’avocat de LAJ a admis tous ces faits, à l’exception de ceux des alinéas 5f), i), l), m), et r) ainsi que du paragraphe 7.
+5. […]
+a) l’appelante exploite une entreprise de ventes d’assurance[sic] résidentielles et commerciales depuis 1912;
+b) l’entreprise de l’appelante est exploitée à l’année et a un chiffre d’affaires annuel d’environ 15 000 000 $;
+c) l’appelante embauche environ 40 personnes incluant les travailleurs;
+d) l’appelante possède 4 bureaux situés à Lachute, St-Jérôme, Blainville et Mont-Laurier;
+e) le siège social de l’appelante est localisé à Lachute;
+f) les travailleurs occupent des postes de cadre auprès de l’appelante et y travaillent sans contrat écrit de travail;
+g) les travailleurs n’ont endossé aucun prêt au nom de l’appelante;
+h) il y avait 5 signataires, incluant les travailleurs, autorisés à signer les chèques au nom de l’appelante et 2 signatures étaient requises;
+i) Philippe Jones occupe le poste de vice-président exécutif et ses principales tâches et fonctions se résument ainsi :
+- s’occuper de l’équipe des ventes du bureau de St-Jérôme[2],
+- faire l’évaluation des nouveaux produits et en promouvoir la mise en marché,
+- s’occuper des relations entre les divers assureurs et les partenaires d’affaires de l’appelante,
+- élaborer le budget annuel de l’équipe des ventes,
+- participer aux réunions hebdomadaires avec Élisabeth [sic] afin de prendre les décisions quotidiennes adéquates concernant les opérations de l’appelante;
+j) Élizabeth Jones occupe le poste de vice-présidente aux opérations et ses principales tâches et fonctions se résument ainsi :
+- s’occuper de la gestion quotidienne du siège corporatif de l’appelante,
+- Gérer les présences et absences du personnel et le conseiller au besoin,
+- s’occuper de tout ce qui relève de l’informatique et demander de l’aide au - groupe "Ultima" au besoin,
+- s’occuper de l’embauche et de la formation des nouveaux employés,
+- s’occuper de la gestion des comptes-clients et faire un peu de comptabilité,
+- participer aux réunions hebdomadaires avec Philippe et William Jones afin de prendre les décisions quotidiennes adéquates concernant les opérations de l’appelante;
+k) l’entreprise de l’appelante est familiale et les 2 travailleurs participent aux discussions concernant les opérations de l’appelante;
+l) les deux travailleurs travaillent généralement durant les heures d’ouverture de l’appelante soit du lundi au vendredi entre 8h 30 et 17h 30 et le jeudi soir jusqu’à 20 heures[3];
+m) Philippe rentre occasionnellement au travail le dimanche, principalement pour rédiger des rapports, pour reprendre ses heures (golf ou ski); il prétend faire entre 55 et 70 heures par semaine[4];
+n) Élizabeth rentre occasionnellement le jeudi soir et respecte un horaire de travail de 40 heures par semaine;
+o) Philippe recevait une rémunération annuelle de 62 400 $ plus des commissions sur ses ventes et Élizabeth recevait une rémunération annuelle de 59 800 $ plus des commissions sur ses ventes;
+p) les travailleurs étaient rémunérés par dépôt direct aux 2 semaines;
+q) les travailleurs étaient remboursés de leurs frais de déplacement et de certains frais de repas encourus pour suivre de la formation ou pour assister à un congrès;
+r) les travailleurs étaient couverts, comme tous les employés, par l’assurance salaire, l’assurance-médicaments et l’assurance-vie de l’appelante[5];
+6. […]
+a) les actions comportant droit de vote de l’appelante étaient réparties ainsi :
+- 115514 Canada inc. (Gestion Jonasco) avec 77,2 % des actions,
+- Édith Jones, Philippe Jones et Élizabeth Jones avec le reste des actions de l’appelante (22, 8%);
+b) M. William Jones était l’unique actionnaire de 115514 Canada inc. (Gestion Jonasco);
+c) M. William Jones est le père des deux travailleurs;
+d) les travailleurs sont liés à une personne qui contrôle le payeur.
+7. […]
+a) les 2 travailleurs occupaient des postes de cadre dont le travail était rémunéré à l’année plutôt qu’à l’heure[6];
+b) malgré une confiance mutuelle existant entre les travailleurs et leur père, l’appelante exerçait son pouvoir de direction et de contrôle sur l’exécution du travail des travailleurs[7];
+c) la rétribution annuelle versée aux travailleurs était raisonnable compte tenu de leurs tâches et responsabilités auprès de l’appelante[8];
+d) les horaires de travail des travailleurs concordaient avec les besoins de l’appelante et leur travail était essentiel aux activités de l’appelante[9];
+[3] Les travailleurs ont témoigné lors de l’audience et leur père a témoigné aussi, comme représentant de LAJ. Parmi les faits additionnels fournis par leur témoignage qui méritent une mention, indiquons les suivants. Tout d’abord, durant la période pertinente, il y avait un autre actionnaire en plus de ceux mentionnés au paragraphe 6 de la réponse à l’avis d’appel. Il s’agit de monsieur Robert Jones, qui détenait 200 des 900 actions avec droit de vote de LAJ. Ces actions ont été vendues aux travailleurs le 4 avril 2008, quelques jours après la fin de la période pertinente, pour une somme d’environ 550 000 $. Les travailleurs ont acquitté cette somme, au moins en partie, grâce à un prêt qu’ils ont obtenu. Monsieur Robert Jones était rémunéré par LAJ depuis 1993, malgré qu’il ait cessé de fournir une prestation de travail. Il avait subi un ACV qui l’avait paralysé à moitié. Pour des raisons familiales, monsieur William Jones avait décidé que LAJ continuerait à verser un salaire à son frère afin que ce dernier puisse subvenir aux besoins de sa famille.
+[4] Parmi les autres employés de LAJ, il y avait l’épouse de monsieur William Jones, qui faisait les conciliations bancaires de façon à s’assurer de l’intégrité des données financières. Elle ne consacrait que de 4 à 6 jours de travail par mois à cette tâche et elle recevait un salaire d’environ 30 000 $. LAJ lui fournissait également une voiture. Le ministre a déterminé que l’épouse de monsieur William Jones n’occupait pas un emploi assurable. Toutefois, les motifs de cette conclusion du ministre n’ont pas été mis en preuve. Les explications fournies par Élizabeth lors de son témoignage étaient plutôt vagues.
+[5] En ce qui a trait à monsieur William Jones, il se considérait comme étant en préretraite depuis environ 10 ans. Lors de son témoignage, il avait 70 ans. Il fournissait des services de "coach" à ses enfants, qui sont les dirigeants de l’entreprise. Il travaillait généralement 1 à 3 jours par semaine. Il recevait une rémunération de 110 000 $ par année. Selon Philippe Jones, LAJ continuera à verser ce salaire tant qu’elle aura la capacité financière de le faire.
+[6] Les travailleurs avaient droit à une voiture fournie par LAJ. Philippe avait la jouissance d’une Audi, dont le loyer mensuel s’élevait à 1 000 $. Élizabeth avait la jouissance d’une Subaru, dont le loyer mensuel était de 790 $. À part d’autres membres de la famille Jones, aucun autre salarié de LAJ n’avait de voiture fournie par celle-ci. Ces autres salariés recevaient, par contre, une allocation pouvant varier entre 300 $ et 425 $ par mois.
+[7] Les travailleurs consacrent la plus grande partie de leur temps à la gestion de LAJ. Philippe, qui détient un diplôme en finance de l’Université de Montréal, y consacre environ 75 à 80% de son temps. Le reste est consacré à la vente d’assurances. Il travaille à temps plein pour LAJ depuis environ 22 ans. Comme il adore son travail, faire de 57 à 70 heures par semaine ne le dérange pas. En ce qui a trait à Élizabeth, elle estime consacrer 80% de son temps à la gestion de LAJ et le reste à la vente. En plus de son salaire de base, Philippe a gagné de 10 000 $ à 15 000 $ de commissions. Sa sœur Élizabeth avait également droit à des commissions pour la vente de produits d’assurance, en plus de son salaire de base.
+[8] Deux autres salariés, messieurs De Carufel et St-Vincent, ont des responsabilités administratives. Le premier s’occupe du bureau de St-Jérôme, et le deuxième, de celui de Blainville. Selon l’estimation de Philippe Jones, monsieur De Carufel consacre environ 92% de son temps à la vente d’assurances. La rémunération de ce dernier consiste en partie en un salaire de base de 15 000 $ et le reste se compose des commissions qu’il tire de la vente des produits d’assurance. Sa rémunération a varié entre 102 480 $ et 120 908 $ pour la période de 2004 à 2007 (pièce 1.1, page 4). Celle de monsieur St-Vincent a varié entre 73 576 $ et 86 266 $. Monsieur St-Vincent avait aussi un salaire de base de 15 000 $ à 20 000 $ par année. Le reste était ses commissions.
+[9] Les salariés de LAJ qui font la vente des assurances sont liés par un contrat de travail écrit, alors que les travailleurs n’ont que des contrats de travail verbaux. Les contrats écrits contiennent des clauses de non-concurrence.
+Analyse
+[10] Les dispositions pertinentes pour le règlement du litige sont l’alinéa 5(2)i) et le paragraphe 5(3) de la Loi :
+Restriction
+5(2) N’est pas un emploi assurable :
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+5(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[Je souligne.]
+[11] Comme il existe un lien de dépendance entre les travailleurs et LAJ, de prime abord leur emploi n’est pas assurable. Toutefois, en vertu du pouvoir que lui accorde l’alinéa 5(3)b) de la Loi, le ministre peut déterminer s’il est raisonnable de conclure que les travailleurs et LAJ auraient conclu entre eux un contrat de travail à peu près semblable s’il n’y avait pas eu de lien de dépendance entre eux. Le ministre doit tenir compte de la rétribution versée, des modalités d’emploi ainsi que de la durée, de la nature et de l’importance du travail accompli. Le libellé de l’alinéa 5(3)b) a fait l’objet de plusieurs commentaires jurisprudentiels, dont certains sont reproduits dans les motifs que j’ai rédigés dans l’affaire Bélanger c. M.N.R., [2005] ACI no 16 (QL), 2005 CCI 36. Voici ce que j’ai écrit au paragraphe 35 :
+[35] Le rôle dévolu à cette Cour est de procéder à une analyse en deux étapes. Elle doit d'abord vérifier si le ministre a exercé son pouvoir de façon appropriée. Comme il a été dit dans l'affaire Jencan, à laquelle se réfère le juge Malone dans Quigley Electric, la décision résultant de l'exercice par le ministre de son pouvoir discrétionnaire ne peut être modifiée que si le ministre a agi de mauvaise foi, a omis de tenir compte de l'ensemble des circonstances pertinentes, ou a tenu compte d'un facteur non pertinent. Si une telle situation existe, la Cour peut décider que « la conclusion dont le ministre était ‘convaincu’ [ne] paraît [pas] toujours raisonnable » et intervenir en statuant sur l'application du paragraphe 5(3) de la Loi. Voici comment la Cour d'appel fédérale s'est exprimée dans Jencan :
+31 L'arrêt que notre Cour a prononcé dans l'affaire Tignish, précitée, exige que, lorsqu'elle est saisie d'un appel interjeté d'une décision rendue par le ministre en vertu du sous-alinéa 3(2)c)(ii), la Cour de l'impôt procède à une analyse à deux étapes. À la première étape, la Cour de l'impôt doit limiter son analyse au contrôle de la légalité de la décision du ministre. Ce n'est que lorsqu'elle conclut que l'un des motifs d'intervention est établi que la Cour de l'impôt peut examiner le bien-fondé de la décision du ministre. Comme nous l'expliquerons plus en détail plus loin, c'est en limitant son analyse préliminaire que la Cour de l'impôt fait preuve de retenue judiciaire envers le ministre lorsqu'elle examine en appel les décisions discrétionnaires que celui-ci rend en vertu du sous-alinéa 3(2)c)(ii). Dans l'arrêt Tignish, notre Cour a, sous la plume du juge Desjardins, J.C.A., expliqué dans les termes suivants la compétence limitée qui est conférée à la Cour de l'impôt à cette première étape de l'analyse :
+Le paragraphe 7(1) de la Loi porte que la Cour de l'impôt a le pouvoir de décider toute question de fait et de droit. La requérante, qui en appelle du règlement du ministre, a le fardeau de prouver sa cause et a le droit de soumettre de nouveaux éléments de preuve pour réfuter les faits sur lesquels s'est appuyé le ministre. Toutefois, comme la décision du ministre est discrétionnaire, l'intimé fait valoir que la compétence de la Cour de l'impôt est strictement circonscrite. Le ministre est la seule personne qui puisse établir à sa satisfaction, compte tenu de toutes les circonstances, notamment la rémunération versée, les modalités d'emploi et l'importance du travail accompli, que la requérante et son employée sont réputées avoir entre elles un lien de dépendance. Souscrivant à l'arrêt Minister of National Revenue v. Wrights' Canadian Ropes Ltd., qui fait autorité, l'intimé prétend que, à moins que l'on établisse que le ministre n'a pas tenu compte de toutes les circonstances (comme il y est tenu aux termes du sous-alinéa 3(2)c)(ii) de la Loi), a pris en compte des facteurs dépourvus d'intérêt ou a violé un principe de droit, la Cour ne peut intervenir. En outre, la Cour a le droit d'examiner les faits qui, selon la preuve, se trouvaient devant le ministre quand il est arrivé à sa conclusion, pour décider si ces faits sont prouvés. Mais s'il y a suffisamment d'éléments pour appuyer la conclusion du ministre, la Cour n'a pas toute latitude pour l'infirmer simplement parce qu'elle serait arrivée à une conclusion différente. Toutefois, si la Cour est d'avis que les faits sont insuffisants, en droit, pour appuyer la conclusion du ministre, la décision de ce dernier ne peut tenir et la Cour est justifiée d'intervenir.
+À mon avis, la position de l'intimé est correctement exposée sur le plan du droit ... [Tignish, précité, note 10, aux p. 8 et 9.].
+32 Dans l'arrêt Ferme Émile Richard et Fils Inc. c. Ministre du Revenu national et al., notre Cour a confirmé sa position. Dans une remarque incidente, le juge Décary, J.C.A., a déclaré ce qui suit :
+Ainsi que cette Cour l'a rappelé récemment dans Tignish Auto Parts Inc. c. Ministre du Revenu national ((25 juillet 1994), A-555-93, C.A.F. inédit), l'appel devant la Cour canadienne de l'impôt, lorsqu'il s'agit de l'application du sous-alinéa 3(2)c)(ii), n'est pas un appel au sens strict de ce mot et s'apparente plutôt à une demande de contrôle judiciaire. La cour, en d'autres termes, n'a pas à se demander si la décision du Ministre est la bonne; elle doit plutôt se demander si la décision du Ministre résulte d'un exercice approprié de son pouvoir discrétionnaire. Ce n'est que lorsque la Cour en arrive à la conclusion que le Ministre a fait un usage inapproprié de sa discrétion, que le débat devant elle se transforme en un appel « de novo » et que la Cour est habilitée à décider si, compte tenu de toutes les circonstances, un contrat de travail à peu près semblable aurait été conclu entre l'employeur et l'employé s'ils n'avaient pas eu un lien de dépendance [(1994), 178 N.R. 361 (C.A.F.), aux p. 362 et 363].
+33 L'article 70 confère le droit d'interjeter appel devant la Cour de l'impôt de toute décision rendue par le ministre en vertu de l'article 61, y compris de toute décision rendue en vertu du sous-alinéa 3(2)c)(ii). La compétence que possède la Cour de l'impôt de contrôler la décision rendue par le ministre en vertu du sous-alinéa 3(2)c)(ii) est circonscrite parce que le législateur fédéral, par le libellé de cette disposition, voulait de toute évidence conférer au ministre le pouvoir discrétionnaire de rendre de telles décisions. Les mots « si le ministre du Revenu national est convaincu » que l'on trouve au sous-alinéa 3(2)c)(ii) confèrent au ministre la compétence pour exercer le pouvoir discrétionnaire administratif de rendre le type de décision visé par ce sous-alinéa. Comme il s'agit d'une décision rendue en vertu d'un pouvoir discrétionnaire, par opposition à une décision quasi-judiciaire, il s'ensuit que la Cour de l'impôt doit faire preuve de retenue judiciaire à l'égard de la décision du ministre lorsque celui-ci exerce ce pouvoir. Ainsi, lorsque le juge Décary, J.C.A., déclare dans l'arrêt Ferme Émile, précité, que ce type d'appel interjeté devant la Cour de l'impôt « s'apparente plutôt à une demande de contrôle judiciaire », il voulait simplement souligner, à mon humble avis, qu'on doit faire preuve de retenue judiciaire envers les décisions que le ministre rend en vertu de cette disposition à moins que la Cour de l'impôt ne conclue que le ministre a exercé son pouvoir discrétionnaire d'une manière qui est contraire à la loi.
+[...]
+37 Compte tenu de ce qui précède, le juge suppléant de la Cour de l'impôt n'était justifié d'intervenir dans la décision rendue par le ministre en vertu du sous-alinéa 3(2)c)(ii) que s'il était établi que le ministre avait exercé son pouvoir discrétionnaire d'une manière qui était contraire à la loi. Et, comme je l'ai déjà dit, l'obligation d'exercer un pouvoir discrétionnaire de façon judiciaire implique l'existence de motifs d'intervention spécifiques. La Cour de l'impôt est justifiée de modifier la décision rendue par le ministre en vertu du sous-alinéa 3(2)c)(ii)-en examinant le bien-fondé de cette dernière-lorsqu'il est établi, selon le cas, que le ministre: (i) a agi de mauvaise foi ou dans un but ou un mobile illicites; (ii) n'a pas tenu compte de toutes les circonstances pertinentes, comme l'exige expressément le sous-alinéa 3(2)c)(ii); (iii) a tenu compte d'un facteur non pertinent.
+[...]
+41 [...] Bien qu'il incombe au prestataire, qui est la partie qui interjette appel de la décision du ministre, de faire la preuve de ce qu'il avance [Voir les arrêts Aubut c. Ministre du Revenu national (1990), 126 N.R. 381 (C.A.F.) et Borsellino et Salvo c. Ministre du Revenu national (1990), 120 N.R. 77 (C.A.F.)], notre Cour a affirmé dans les termes les plus nets que le prestataire a le droit de présenter de nouveaux éléments de preuve lors de l'audience de la Cour de l'impôt pour contester les hypothèses de fait sur lesquelles le ministre s'est fondé [Tignish, précité, note 10, à la p. 9].
+42 Ainsi, bien que la Cour de l'impôt doive faire preuve de retenue judiciaire à l'égard des décisions que le ministre rend en vertu du sous-alinéa 3(2)c)(ii)-en limitant son analyse préliminaire à un contrôle de la légalité de la décision du ministre- cette retenue judiciaire ne s'applique pas aux conclusions de fait tirées par le ministre. En affirmant que le juge suppléant de la Cour de l'impôt n'est pas limité aux faits sur lesquels le ministre se fonde pour rendre sa décision, on ne trahit pas l'intention qu'avait le législateur fédéral en conférant un pouvoir discrétionnaire au ministre. [Voir l'arrêt Canada (Procureur général) c. Dunham, [1997] 1 C.F. 462 (C.A.), aux p. 468 et 469, le juge Marceau, J.C.A. (dans le contexte du droit d'interjeter appel devant un conseil arbitral d'une décision de la Commission de l'assurance-chômage)]. Pour évaluer la façon dont le ministre a exercé son pouvoir discrétionnaire, la Cour de l'impôt peut tenir compte des faits qui ont été portés à son attention au cours de l'audition de l'appel. […]
+50 Le juge suppléant de la Cour de l'impôt a toutefois commis une erreur de droit en concluant que, parce que certaines des hypothèses de fait sur lesquelles le ministre s'était fondé avaient été réfutées au procès, il avait automatiquement le droit de contrôler le bien-fondé de la décision du ministre. Ayant conclu que certaines des hypothèses de fait sur lesquelles le ministre s'était fondé avaient été réfutées au procès, le juge suppléant de la Cour de l'impôt aurait dû se demander si les autres faits qui avaient été établis au procès étaient suffisants en droit pour justifier la conclusion du ministre suivant laquelle les parties n'auraient pas conclu un contrat de louage de services à peu près semblable si elles n'avaient pas eu un lien de dépendance. S'il existe suffisamment d'éléments pour justifier la décision du ministre, il n'est pas loisible au juge suppléant de la Cour de l'impôt d'infirmer la décision du ministre du simple fait qu'une ou plusieurs des hypothèses du ministre ont été réfutées au procès et que le juge serait arrivé à une conclusion différente selon la balance des probabilités. En d'autres termes, ce n'est que lorsque la décision du ministre n'est pas raisonnablement fondée sur la preuve que l'intervention de la Cour de l'impôt est justifiée [Voir l'arrêt Canada (Directeur des enquêtes et recherches) c. Southam Inc., [1997] 1 R.C.S. 748, aux p. 776 et 777 (le juge Iacobucci)]. Une hypothèse de fait qui est réfutée au procès peut, mais pas nécessairement, constituer un vice qui fait que la décision du ministre est contraire à la loi. Tout dépend de la force ou de la faiblesse des autres éléments de preuve. La Cour de l'impôt doit donc aller plus loin et se demander si, sans les hypothèses de fait qui ont été réfutées, il reste suffisamment d'éléments de preuve pour justifier la décision du ministre. Si la réponse à cette question est affirmative, l'enquête est close. Mais, si la réponse est négative, la décision est alors contraire à la loi et ce n'est qu'alors que la Cour de l'impôt est justifiée de procéder à sa propre appréciation de la balance des probabilités. Le juge Hugessen, J.C.A., l'a expliqué tout récemment dans l'arrêt Hébert, précité. Au paragraphe 5 de ses motifs du jugement, il déclare en effet :
+Dans tout appel interjeté en vertu de l'article 70, les conclusions de fait du ministre, ou ses « présuppositions », seront énoncées en détail dans la réponse à l'avis d'appel. Si le juge de la Cour de l'impôt qui, contrairement au ministre, se trouve dans une situation privilégiée pour apprécier la crédibilité des témoins qu'elle a vus et entendus, parvient à la conclusion que certaines ou la totalité de ces présuppositions de fait étaient erronées, elle devra déterminer si le ministre pouvait légalement tirer la conclusion qu'il a tirée en se fondant sur les faits établis en preuve. C'est manifestement ce qui s'est produit en l'espèce et nous ne sommes vraiment pas en mesure de déclarer que les conclusions de fait du juge ou sa conclusion portant que la décision du ministre pouvait se justifier étaient erronées.
+[Je souligne.]
+[12] Est‑ce que la décision rendue par le ministre par l'intermédiaire de l'agent des appels paraît toujours raisonnable après avoir entendu la preuve de LAJ? Avant de répondre à cette question, il est important d'analyser à nouveau le texte de l'alinéa 5(3)b) de la Loi. Ce que devait déterminer le ministre était : est‑ce qu'il pouvait lui paraître raisonnable de conclure que les travailleurs auraient conclu avec le payeur un contrat de travail à peu près semblable s'il n'y avait pas eu de lien de dépendance entre eux? Il ne s’agit pas de déterminer si les conditions de travail reflètent nécessairement les conditions normales du marché, quoique, généralement, cela puisse être une circonstance pertinente dont il faudrait tenir compte.
+[13] La raison pour laquelle je souligne cette nuance est que nous sommes ici en présence de deux travailleurs qui sont en même temps actionnaires du payeur détenant des actions ordinaires de celui-ci. Ils sont donc, en partie, les propriétaires de LAJ et, indirectement, de son entreprise. Quand l'alinéa 5(3)b) de la Loi exige qu’il soit déterminé si le contrat de travail aurait été à peu près semblable s’il n’y avait pas eu de lien de dépendance, cela veut dire, je crois, qu’il faut tenir compte du fait qu'il s'agit en l’occurrence de deux travailleurs qui sont en même temps des propriétaires de LAJ. Ni l’un ni l’autre des deux travailleurs, ni même les deux ensemble, ne contrôle le payeur et, par conséquent, n'eût été le lien de parenté qui existe entre eux et la personne qui contrôle LAJ, aucun des travailleurs n'aurait été une personne liée à LAJ au sens de la Loi de l'impôt sur le revenu. Ainsi, il n'y aurait pas eu de lien de dépendance légal. D’ailleurs, l'alinéa 5(3)b) de la Loi n'indique pas qu'il faille faire abstraction des intérêts financiers que des travailleurs peuvent avoir dans un payeur. Par conséquent, il est possible d'imaginer deux personnes, à la fois travailleurs et actionnaires, n'ayant aucun lien de parenté avec l’actionnaire majoritaire d’un payeur et n'ayant aucun lien de dépendance avec ce dernier. Par conséquent, la question que devait trancher le ministre pourrait être reformulée ainsi : les deux travailleurs, tout en étant actionnaires minoritaires de LAJ, mais n’ayant aucun lien de parenté avec l’actionnaire majoritaire, auraient‑ils conclu un contrat de travail à peu près semblable?
+[14] Il est de connaissance judiciaire que des travailleurs qui sont à la fois salariés d'un payeur et propriétaires (comme actionnaires) de ce payeur adoptent des comportements différents de ceux qui ne sont que de simples salariés. En effet, un salarié‑actionnaire peut tenir compte du fait que les salaires non versés vont constituer des bénéfices non répartis du payeur qui pourront être déclarés ultérieurement, notamment comme dividendes. En outre, de tels salariés préfèrent souvent recevoir un dividende plutôt qu'un salaire parce que cela est souvent plus avantageux fiscalement. Par contre, pour avoir le droit de cotiser à un régime enregistré d'épargne‑retraite, il est nécessaire (de façon générale) que ces salariés‑actionnaires reçoivent un salaire. Il s'agit là du contexte dans lequel oeuvrent des salariés qui sont aussi actionnaires de leur payeur, et dont le ministre et la Cour doivent tenir compte.
+[15] Mon collègue le Juge Bédard a tenu des propos semblables dans Entreprises Charles Maisonneuve Ltée c. MRN, 2008 CarswellNat 1760, 2008 CCI 269. Voici ce qu’il écrivait :
+10 Est-ce que la décision rendue par le ministre semble toujours raisonnable compte tenu de la preuve des travailleurs? Je rappelle que le ministre devait déterminer s'il était raisonnable de conclure que les travailleurs auraient conclu avec l'appelante un contrat de travail à peu près semblable s'il n'y avait pas eu de lien de dépendance. Il ne s'agit pas de déterminer si les conditions de travail reflètent nécessairement les conditions du marché, quoique, généralement, cela puisse être une circonstance pertinente dont il faudrait tenir compte. À mon avis, en ce qui concerne l'alinéa 5(3)b) de la Loi, la question de savoir si l'employeur et les employés auraient conclu un contrat de travail à peu près semblable, il faut tenir compte du fait qu'il s'agit de quatre travailleurs qui étaient non seulement les seuls dirigeants de l'appelante, mais aussi ses administrateurs et ses propriétaires. L'alinéa 5(3)b) de la Loi n'indique pas qu'il faut faire abstraction des intérêts financiers que les travailleurs détiennent dans la société. Par conséquent, nous pouvons construire une hypothèse avec quatre travailleurs n'ayant aucun lien de parenté entre eux, détenant chacun plus ou moins le quart du capital-action de l'appelante (et n'ayant aucun lien de dépendance avec celle-ci) en plus d'être les seuls administrateurs et dirigeants de cette dernière. La question que devait trancher le ministre pourrait donc être reformulée ainsi : si les quatre travailleurs avaient détenu chacun plus ou moins le quart des actions de l'appelante et qu'il n'y ait pas eu de lien de dépendance entre eux et l'appelante, auraient-ils conclu un contrat à peu près semblable?
+11 Il est de connaissance judiciaire que les travailleurs, qui sont à la fois salariés d'un employeur et propriétaires (comme actionnaires) de cet employeur, adoptent des comportements différents de ceux qui sont de simples salariés. En effet, la rémunération d'un salarié-actionnaire peut tenir compte du fait que des salaires non versés vont constituer des bénéfices non répartis qui pourront être déclarés comme dividendes à une date ultérieure. Comme actionnaires, les travailleurs doivent souvent tenir compte des besoins financiers de leur société, notamment si elle a des problèmes de liquidité. C'est ce qui explique probablement que certains travailleurs ont reçu une rémunération moindre en 2004.
+[…]
+14 Si l'un des travailleurs n'avait travaillé que dix heures par semaine à longueur d'année et avait reçu un salaire égal à celui des trois autres, qui en auraient travaillé en moyenne 50, j'aurais rendu une toute autre décision. Il est tout à fait normal que des travailleurs occupant de telles fonctions soient rémunérés comme l'ont été les travailleurs en l'espèce et qu'ils aient une grande autonomie dans l'exécution de leurs tâches. À mon avis, si les quatre travailleurs avaient chacun détenu le même nombre d'actions de l'appelante et qu'il n'y avait pas eu de lien de dépendance entre eux et l'appelante, ils auraient conclu un contrat à peu près semblable.
+[16] Est‑ce que la décision du ministre en l’espèce paraît toujours raisonnable? À mon avis, les travailleurs n'ont pas réussi à démontrer qu’elle est déraisonnable, compte tenu des circonstances de cette affaire. Il ne s'agit pas ici d'un cas où la Cour devrait intervenir pour substituer son opinion à celle du ministre.
+[17] Il s'agit ici de personnes occupant des postes de cadre, dont le travail est rémunéré non pas à l'heure, mais plutôt à l'année ou, à tout le moins, à la semaine. Il est tout à fait normal que des travailleurs occupant de telles fonctions soient rémunérés comme l'ont été les travailleurs en l’espèce et qu’ils aient une grande autonomie pour décider quand ils exécuteront leurs tâches. D'ailleurs, comme cadres et comme actionnaires de LAJ, ils avaient une grande flexibilité dans l’exécution de leurs tâches. Monsieur Philippe Jones pouvait notamment travailler durant le week-end. Je fais remarquer que Philippe Jones faisait plus d’heures de travail que sa sœur. Par contre, il avait droit à une plus grande rémunération qu’elle. En outre, il avait droit à une voiture plus luxueuse. Je crois qu’un cadre qui n’avait pas de participation dans LAJ aurait même pu agir ainsi. Je suis persuadé que monsieur De Carufel ne refuse pas de rencontrer ses bons clients quand ces derniers veulent le consulter durant les fins de semaine ou lors de réunions sociales. Il s'agit là d'un comportement tout à fait usuel pour des cadres ou des gens travaillant dans la vente, même lorsqu'il n'existe pas de lien de dépendance entre eux et leur payeur.
+[18] Lors de sa plaidoirie, le représentant de l’intimé s’est fondé sur l’extrait cité plus haut tiré de l’arrêt Jencan pour affirmer que la décision résultant de l’exercice par le ministre de son pouvoir discrétionnaire ne peut-être modifiée que si le ministre a agi de mauvaise foi, a omis de tenir compte de l’ensemble des circonstances pertinentes ou a tenu compte d’un facteur non pertinent. Selon le représentant de l’intimé, la preuve présentée par LAJ n’a pas démontré que le ministre avait agit de mauvaise foi, qu’il avait omis de tenir compte de l’ensemble des circonstances pertinentes, et qu’il avait tenu compte d’un facteur non pertinent. L’avocat de LAJ n’est pas vraiment en désaccord avec cette position, sauf qu’il soutient que le ministre a mal interprété les faits.
+[19] En outre, l’avocat de LAJ a tenté de comparer la rémunération versée aux travailleurs avec celui versé aux autres membres de la famille Jones pour justifier que le salaire versé aux travailleurs était déraisonnable. Il a mentionné notamment que leur mère recevait 30 000 $ pour 4 à 6 jours de travail par mois (voir par. 4, supra), alors que leur père recevait 110 000 $ pour 1 à 3 jours de travail par semaine (voir par. 5, supra). Selon l’avocat, on pourrait ajouter aussi le cas du frère, Robert Jones, qui recevait une rémunération même s’il ne fournissait pas de prestation de services. À l’égard de ce dernier, il faut signaler qu’il ne pouvait exister de contrat de travail entre lui et LAJ puisqu’il ne fournissait aucune prestation de services, une telle prestation étant un des éléments essentiels à l’existence d’un contrat de travail. Par conséquent, son « emploi » aurait été exclu des emplois assurables en raison de l’inexistence d’un contrat de travail.
+[20] En ce qui a trait à madame Édith Jones, les raisons pour exclure son emploi des emplois assurables n’ont pas vraiment été établies d’une manière à convaincre la Cour. En outre, je comprends mal comment on peut conclure que les conditions d’emploi des travailleurs sont déraisonnables du fait que celles de leur père, de leur mère ou de leur oncle pouvaient l’être. Que LAJ ait versé des salaires que certains pourraient considérer comme trop généreux à l’actionnaire principale, à sa femme ou à son frère, cela pourrait constituer un motif de contestation pour ces travailleurs en leur qualité d’actionnaires. Par contre, le fait que les salaires versés à ces trois autres membres de la famille puissent être considérés comme déraisonnables ne signifie pas nécessairement que la rémunération versée aux travailleurs l’était tout autant.
+[21] Enfin, le fait que les travailleurs recevaient une rémunération inférieure à celle de monsieur De Carufel n’est pas pertinent dans les circonstances présentes. Deux remarques importantes doivent être faites. Tout d’abord, monsieur De Carufel n’était pas un actionnaire de la société. Deuxièmement, monsieur De Carufel consacrait plus de temps à la vente de produits d’assurance ce qui explique une rémunération plus importante que celle versée aux travailleurs. Rappelons que son salaire de base n’était que d’environ 15 000 $ et que sa rémunération dépassant les 110 000 $ ne peut être expliquée que par les efforts fournis par monsieur De Carufel et par son talent pour la vente des produits d’assurance. En tant qu’actionnaires, les travailleurs n’ont pas à recevoir un salaire plus élevé puisque la rémunération qui ne leur est pas versée demeure dans le patrimoine de LAJ et que les deux travailleurs en sont des coactionnaires.
+[22] Je crois qu’il faut analyser les conditions d’emploi des deux travailleurs selon les circonstances de chacun. Je le répète, la question véritable que doit trancher la Cour est la suivante : si ces deux travailleurs n’avaient pas eu de lien de dépendance avec LAJ, auraient-ils eu des conditions d’emploi à peu près semblables? Ici, la Cour conclut que LAJ n’a pas démontré que la décision du ministre paraît déraisonnable dans les circonstances.
+[23] Pour ces motifs, les appels de LAJ sont rejetés.
+Signé à Ottawa, Canada, ce 21e jour de mai 2009.
+Pierre Archambault
+Juge Archambault
+RÉFÉRENCE : 2009 CCI
+Nº DU DOSSIER DE LA COUR : 2008-3307(EI)
+INTITULÉ DE LA CAUSE : LES ASSURANCES JONES INC. c M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 16 Février 2009
+MOTIFS DU JUGEMENT PAR : l'honorable juge Pierre Archambault
+DATE DU JUGEMENT : le 21 mai 2009
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Jérôme Carrier
+Représentant de l’intimé :
+Laurent Brisebois, stagiaire
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant: Me Jérôme Carrier
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il s’agit du 14 mars 2008 dans le cas de Élizabeth Jones.
+[2] L'avocat de LAJ était prêt à admettre les faits énoncés dans cet alinéa si on le modifiait pour indiquer que monsieur Jones s'occupait de l'équipe des ventes de tous les bureaux de LAJ.
+[3] La preuve présentée lors de l'audience a démontré le bien-fondé de cette affirmation.
+[4] Il m'a semblé que la seule raison pour laquelle l'avocat de LAJ n'était pas prêt à admettre cet alinéa était la présence du mot "reprendre". La preuve a révélé que monsieur Philippe Jones n'avait pas d'heures de travail fixes durant lesquelles il devait fournir ses services. Tout ce qui comptait était que le travail soit fait. Par conséquent, le mot "reprendre" n'est pas le plus approprié pour décrire cette réalité. Toutefois, il arrivait à monsieur Philippe Jones d'exécuter son travail en dehors des heures normales de bureau.
+[5] La preuve a révélé que tous les employés recevaient de l'assurance-salaire et de l'assurance-vie. En outre, il n'y a pas de preuve contraire en ce qui a trait à l'assurance-médicaments. Par conséquent, n’ayant pas été démoli, ce fait est considéré comme avéré.
+[6] La preuve a révélé le bien-fondé de cet énoncé de fait.
+[7] Même si la preuve révèle que LAJ exerçait peu son pouvoir de direction et de contrôle sur l'exécution du travail des travailleurs, il n'y a aucun doute que LAJ avait le droit d'exercer un tel pouvoir. Par conséquent, il existait un véritable contrat de travail entre les travailleurs et LAJ. D'ailleurs, le procureur de LAJ ne conteste pas l'existence d'un tel contrat.
+[8] Ce fait est au coeur du litige devant la Cour. Il fera l'objet de commentaires plus loin.
+[9] La preuve présentée n'a pas démoli le fait énoncé à cet alinéa; par conséquent, il est considéré comme avéré.

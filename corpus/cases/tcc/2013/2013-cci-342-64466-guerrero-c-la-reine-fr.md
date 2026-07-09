@@ -1,0 +1,186 @@
+---
+title: "Guerrero c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/64466/index.do"
+last_modified: "2013-10-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 342"
+citation2: ""
+neutral_citation: "2013 CCI 342"
+decision_date: "2013-10-28"
+language: "fr"
+item_id: "64466"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5932
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:58:10.725000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8e6fee675ad88faffdd05f30c5ddae30de1a935d73d66457b3759437c197acc0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Guerrero c. La Reine
+
+- Citation: 2013 CCI 342
+- Decision date: 2013-10-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5932, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guerrero c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-10-28
+Référence neutre
+2013 CCI 342
+Numéro de dossier
+2012-4535(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-4535(IT)I
+ENTRE :
+PETER GUERRERO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 10 juillet 2013, à Sherbrooke (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de nouvelles déterminations du ministre du Revenu national relativement à la prestation fiscale canadienne pour enfants pour les années de base 2009 (période de novembre 2010 à juin 2011) et 2010 (période de juillet 2011 à avril 2012) respectivement datées du 18 mai et du 18 octobre 2012, est rejeté selon les motifs du jugement ci-joint.
+Signé à Ottawa, Canada, ce 28e jour d’octobre 2013.
+« Réal Favreau »
+Juge Favreau
+Référence : 2013 CCI 342
+Date : 20131028
+Dossier : 2012-4535(IT)I
+ENTRE :
+PETER GUERRERO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel, par la voie de la procédure informelle, à l’encontre de nouvelles déterminations du ministre du Revenu national (le « ministre ») à l’égard de la prestation fiscale canadienne pour enfants (la « PFCE ») pour les années de base 2009 (période de novembre 2010 à juin 2011) et 2010 (période de juillet 2011 à avril 2012) relativement au fils de l’appelant.
+[2] La question à trancher est de savoir si l’appelant est le particulier admissible qui a le droit de recevoir la PFCE pour les périodes visées par les nouvelles déterminations du fait qu’il était le parent qui assumait principalement la responsabilité pour le soin et l’éducation de son enfant et ce, conformément à l’article 122.6 de la Loi de l’impôt sur le revenu, L.R.C. (1985) ch. 1 (5 ième suppl.) telle que modifiée (la « Loi »).
+[3] Par des avis de nouvelles déterminations relativement à la PFCE datés du 18 mai 2012, le ministre a déterminé que l’appelant n’était pas le particulier admissible à l’égard de son fils pour les années de base 2009 et 2010.
+[4] Par un avis de nouvelle détermination relativement à la PFCE daté du 18 octobre 2012, le ministre a déterminé, à l’égard de l’année de base 2010 (période du mois d’août 2011 jusqu’au mois de mars 2012), que l’appelant a exercé une garde partagée de son fils et qu’il était admissible à recevoir la moitié de la prestation mensuelle applicable pour la période en question. L’appelant ne conteste pas cette nouvelle détermination relativement à la PFCE à l’égard de l’année de base 2010, sauf en ce qui concerne le mois de juillet 2011.
+[5] La Cour a également statué qu’elle n’avait pas compétence en ce qui concerne l’appel formulé à l’égard de la prestation universelle pour la garde d’enfants versée en vertu de l’article 4 de la Loi sur la prestation universelle pour la garde d’enfants.
+[6] Pour établir et soutenir la nouvelle détermination de l’année de base 2009 et la nouvelle détermination de l’année de base 2010, le ministre a tenu pour acquis les hypothèses de fait suivantes, énoncées au paragraphe 6 de la réponse à l’avis d’appel :
+a. l’appelant et Madame Jessica Romero Rico sont les parents de l’enfant D.A. né en 2007; (admis)
+b. les parties vivent séparées l’un [sic] de l’autre depuis le mois de septembre 2010 et ont obtenu leur divorce depuis 18 mai 2011; (admis pour la date de séparation mais nié pour la date du divorce)
+c. des mois de septembre 2010 à novembre 2010, l’ex-conjointe avait l’entière garde de l’enfant; (nié parce que l’ex-conjointe n’avait pas l’entière garde de l’enfant)
+d. du 16 décembre 2010 jusqu’au mois de juillet 2011, les parties ont exercé une garde partagée de l’enfant lequel demeurait 4 jours avec sa mère et 3 jours avec son père; (admis)
+e. du mois de juillet 2011 jusqu’au mois de mars 2012, l’enfant a résidé sur une base plus ou moins égales [sic] entre les parties, d’où l’admissibilité, pour chacun d’entre eux, à la moitié du versement mensuel applicable à PFCE pour la période en question; (admis)
+f. depuis le mois d’avril 2012, l’ex-conjointe à l’entière garde de l’enfant; (admis)
+g. depuis le 30 août 2011, l’appelant est marié à une personne non résidente du Canada; (admis)
+h. l’appelant n’a jamais soumis au Ministre le revenu de sa nouvelle conjointe pour l’année 2010. (nié)
+[7] L’appelant a témoigné à l’audience et il a souligné les dates importantes suivantes :
+• date du mariage en Colombie : 8 août 2006
+• date de naissance du fils : 24 août 2007
+• date de l’immigration au Canada : 28 février 2010
+• date d’entrée à la garderie du fils : 19 juillet 2010
+• date de séparation du couple : septembre 2010
+• date du divorce du couple : 22 mars 2013
+[8] Selon l’appelant, madame Jessica Romero Rico a quitté le domicile familial lors de leur séparation et leur fils a continué de demeurer chez son père au 610, rue McGregor, Apt 43 à Sherbrooke pendant la période de septembre à novembre 2010. Au cours de cette période, l’appelant travaillait chez IBM à Bromont. Il était préposé à la fabrication et son horaire de travail était de minuit le vendredi jusqu'à midi le samedi, de minuit le samedi jusqu’à midi le dimanche et de minuit le dimanche à 08 :00 heures le lundi matin. Au cours de cette période, l’appelant avait la garde de son fils du lundi après-midi jusqu’au vendredi matin et son ex-conjointe en avait la garde du vendredi après-midi au lundi matin. L’échange de l’enfant avait habituellement lieu à la garderie. L’adresse résidentielle de l’enfant sur la fiche d’inscription de la garderie était celle de l’appelant mais les frais de garde étaient assumés par sa mère. Selon l’appelant, la garderie l’appelait si l’enfant était malade.
+[9] Pour la période du 16 décembre 2010 au mois de juillet 2011, les droits de l’appelant et de son ex-conjointe étaient régis par une convention datée du 16 décembre 2010, laquelle a été homologuée par la Cour supérieure (chambre de la famille) le même jour. Aux termes de cette entente, les parents avaient la garde partagée de leur enfant; l’ex-conjointe de l’appelant avait la garde de l’enfant du vendredi soir au mardi matin et l’échange avait lieu à la garderie ou au Pharmaprix situé au Carrefour de l’Estrie lorsque l’enfant n’allait pas à la garderie. À compter du 16 décembre 2010, l’appelant a été contraint de payer à son ex-conjointe une pension alimentaire pour l’enfant au montant de 149,58 $ par mois payable d’avance, les quinzièmes et derniers jours de chaque mois, à raison de 74,79 $ à chaque fois.
+[10] Madame Jessica Romero Rico a également témoigné à l’audience. Elle a notamment expliqué que, lorsqu’elle s’est séparée de l’appelant, elle a amené son fils avec elle, et que l’appelant ne s’est préoccupé de l’enfant que seulement 21 jours après leur séparation. Suite à la séparation, elle a dû se trouver un nouvel appartement. Elle a eu de la difficulté à en trouver un puisqu’elle n’avait pas d’emploi. Entre temps, elle a demeuré à l’appartement de son nouvel ami.
+[11] Madame Rico a produit à la Cour supérieure (chambre de la famille) un affidavit détaillé daté du 14 décembre 2010 afin d’appuyer une requête de garde partagée de son fils. Les paragraphes 9 à 15 de cet affidavit sont pertinents aux fins du présent litige :
+9. Suite à la cessation de la vie commune, notre enfant D.A. habitait avec moi la semaine et avec le demandeur la fin de semaine;
+10. Ces modalités de garde ont été exercées jusqu’à la fin du mois d’octobre 2010;
+11. À compter du mois d’octobre 2010, il a été convenu entre le demandeur et
+moi que notre enfant habiterait chez le demandeur du lundi au vendredi et chez moi du vendredi au lundi matin;
+12. Cette entente n’était que temporaire puisque je n’avais pas de véhicule
+automobile à ce moment pour véhiculer notre enfant à la garderie;
+13. Il était convenu entre le demandeur et moi-même que, dès que j’aurais une
+automobile ou un moyen de véhiculer notre enfant à la garderie, nous exercerions une garde partagée;
+14. Le demandeur refuse de respecter cette entente depuis que j’ai un nouveau
+conjoint dans ma vie;
+15. Durant la vie commune avec le demandeur, c’est moi qui m’occupait
+principalement des besoins de notre enfant D.A.; le demandeur sortait régulièrement et était rarement à la maison;
+[12] Madame Rico a expliqué que l’entente dont il est question au paragraphe 11 de l’affidavit était de nature temporaire parce qu’elle n’avait pas de véhicule automobile pour transporter son fils à la garderie. Cette entente n’a duré qu’un seul mois, soit de la mi-octobre à la mi-novembre 2010. Selon elle, elle était le parent admissible qui s’occupait principalement de son enfant même au cours de cette période. Elle voyait à l’alimentation de son fils et à ce que ses vêtements soient propres. Elle s’est toujours occupée des consultations médicales de son enfant.
+Analyse et conclusion
+[13] Pour recevoir la PFCE, une personne doit être un particulier admissible. Cette expression est définie à l’article 122.6 de la Loi dont les passages pertinents aux fins du présent litige sont les suivants :
+« particulier admissible » - « particulier admissible » S’agissant, à un moment donné, du particulier admissible à l’égard d’une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a. elle réside avec la personne à charge;
+b. elle est la personne – père ou mère de la personne à charge – qui assume principalement la responsabilité pour le soin et l’éducation de cette dernière;
+. . .
+Pour l’application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l’éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l’alinéa f) ne s’applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l’éducation d’une personne.
+[14] Les critères servant à déterminer en quoi consistent le soin et l’éducation d’une personne à charge admissible sont énoncés à l’article 6302 du Règlement de l’impôt sur le revenu de la façon suivante :
+Article 6302
+Pour l’application de l’alinéa h) de la définition de « particulier admissible » à l’article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l’éducation d’une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d’un milieu sécuritaire là où elle réside;
+c) l’obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l’organisation pour elle d’activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu’elle est malade ou a besoin de l’assistance d’une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d’être présent auprès d’elle et de la guider;
+h) l’existence d’une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[15] Pour la période des mois de septembre à novembre 2010, il est difficile de déterminer avec certitude avec qui l’enfant résidait et lequel des deux parents assumait principalement la responsabilité pour le soin et l’éducation de leur enfant compte tenu des contradictions dans les témoignages des deux parents.
+[16] Selon l’affidavit détaillé de madame Rico, suite à la séparation du couple, l’enfant résidait avec elle la semaine et avec l’appelant les fins de semaine. Ces modalités de garde auraient été exercées jusqu’à la fin du mois d’octobre 2010. À compter du mois d’octobre 2010, l’appelant et son ex-conjointe ont convenu que l’enfant habiterait chez l’appelant du lundi au vendredi et chez sa mère du vendredi au lundi matin.
+[17] Dans une lettre datée du 31 mai 2012 et adressée à l’Agence du Revenu du Canada (l’« ARC »), l’appelant a indiqué que son fils résidait avec lui à temps complet à partir du 12 octobre 2010 jusqu’au 16 décembre 2010.
+[18] La version de l’ex-conjointe me semble être plus près de la réalité compte tenu du fait que l’appelant travaillait à Bromont et avait un horaire de travail de fin de semaine. Quoi qu’il en soit, j’en conclus que l’enfant résidait avec l’un et l’autre de ses parents au cours d’une même semaine de sorte que les deux parents rencontraient l’exigence de l’alinéa a) de la définition de particulier admissible.
+[19] Il importe maintenant de déterminer lequel des parents assumait principalement la responsabilité pour le soin et l’éducation de l’enfant.
+[20] Selon la preuve il appert qu’au cours des mois de septembre et octobre 2010, l’ex-conjointe de l’appelant avait la garde de l’enfant la semaine (5 jours) alors que l’appelant en avait la garde les fins de semaine (2 jours). Au cours des mois de novembre et décembre 2010, les jours de garde ont été modifiés; l’appelant avait la garde de l’enfant la semaine (5 jours) et son ex-conjointe en avait la garde les fins de semaine (2 jours).
+[21] L’enfant a été inscrit à la garderie au mois de juillet 2010 alors que le couple n’était pas encore séparé. L’adresse apparaissant sur la fiche d’inscription de l’enfant était celle de l’appelant mais les frais de garde étaient assumés par la mère de l’enfant.
+[22] Lors de son témoignage, madame Rico a affirmé qu’elle s’occupait principalement de l’enfant. Elle voyait à son alimentation et à la propreté de ses vêtements à la garderie. Elle s’occupait des rendez-vous médicaux. Par contre, l’appelant a indiqué qu’il avait transporté une fois son fils à l’hôpital et que la garderie appelait l’un ou l’autre des parents si l’enfant était malade.
+[23] Sur la base des faits ci-dessous décrits, je conclus que madame Rico était, au cours des mois de septembre à novembre 2010, le particulier admissible à recevoir la PFCE. Madame Rico a assumé une plus grande part de la responsabilité pour le soin et l’éducation de son enfant que celle assumée par l’appelant.
+[24] Pour la période de décembre 2010 à juillet 2011, la garde de l’enfant a été confiée par une ordonnance de la Cour supérieure à la mère du vendredi soir au mardi matin (4 jours) et au père pour le restant de la semaine (3 jours). Par cette même ordonnance, l’appelant est devenu responsable du paiement d’une pension alimentaire à son ex-conjointe pour l’enfant d’un montant de 149,58 $ par mois, et ce, à compter du 16 décembre 2010.
+[25] Le fait que l’ex-conjointe de l’appelant avait plus de jours de garde de l’enfant et le fait que l’appelant a dû lui payer une pension alimentaire pour enfants tendent clairement à démontrer que la mère de l’enfant assumait principalement la responsabilité pour le soin et l’éducation de l’enfant et que la mère est le particulier admissible à recevoir la PFCE pour cette période.
+[26] En conclusion, l’appelant s’est acquitté de son obligation de réfuter l’hypothèse du ministre selon laquelle son ex-conjointe avait la garde exclusive de l’enfant au cours des mois de septembre à novembre 2010 mais l’appelant ne s’est pas acquitté de son obligation de prouver qu’il était le parent qui assumait principalement la responsabilité pour le soin et l’éducation de son fils pendant les périodes visées. Par conséquent, les nouvelles déterminations du ministre sont confirmées et le présent appel est rejeté.
+Signé à Ottawa, Canada, ce 28e jour d’octobre 2013.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2013 CCI 342
+Nº DU DOSSIER DE LA COUR : 2012-4535(IT)I
+INTITULÉ DE LA CAUSE : PETER GUERRERO ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L’AUDIENCE : le 10 juillet 2013
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 28 octobre 2013
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

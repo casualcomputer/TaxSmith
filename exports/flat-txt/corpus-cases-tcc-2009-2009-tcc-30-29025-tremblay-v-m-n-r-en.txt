@@ -1,0 +1,165 @@
+Title: Tremblay v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29025/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-30-29025-tremblay-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2009-01-21
+
+# Tremblay v. M.N.R.
+
+- Citation: 2009 TCC 30
+- Decision date: 2009-01-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6834, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-01-21
+Neutral citation
+2009 TCC 30
+File numbers
+2007-3168(EI)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-3168(EI)
+BETWEEN:
+JOCELYNE TREMBLAY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on October 28, 2008, at Baie-Comeau, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Edgar Harvey
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal under the Employment Insurance Act against the Respondent's determination that the Appellant was not employed in insurable employment within the meaning of section 5 of the said Act for the period from April 15, 2006, to August 26, 2006, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 21st day of January 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 24th day of February 2009.
+Brian McCordick, Translator
+Citation: 2009 TCC 30
+Date: 20090121
+Docket: 2007-3168(EI)
+BETWEEN:
+JOCELYNE TREMBLAY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The issue in the instant appeal is whether the determination by the Minister of National Revenue ("the Minister") that Jocelyne Tremblay was not employed by Claude Gagnon ("the Payor") in insurable employment for the purposes of the Employment Insurance Act ("the Act") during the period from April 15, 2006, to August 26, 2006, was reasonable having regard to the remuneration, the terms and conditions of employment, and the nature and importance of the work.
+[2] Subsection 5(2) of the Act provides, inter alia, as follows:
+5. . . .
+Excluded employment
+(2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+[3] Subsection 5(3) of the Act provides as follows:
+Arm's length dealing
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act;
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[4] The Appellant and the Payor are related persons within the meaning of the Income Tax Act, because the Appellant has been Claude Gagnon's common-law partner for roughly 10 years.
+[5] The Minister relied on the facts set out in subparagraphs 6(a) through (z) of the Reply to the Notice of Appeal in determining that the Appellant and the Payor would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length. Those facts are as follows:
+[TRANSLATION]
+(a) The Payor has been operating a snack bar under the business name Casse‑Croûte Fritou since April 29, 2006. [admitted]
+(b) The Payor had registered his business on April 3, 2006. [admitted]
+(c) The Payor intended to operate his business throughout the year, but, due to a shortage of customers, he decided to operate his business from April to September of each year. [admitted]
+(d) the Payor rented the premises of the snack bar business on Bélanger Boulevard in Baie-Comeau. [admitted]
+(e) The Payor offered take-out service as well as 27 seats for customers wishing to eat on the premises. [admitted]
+(f) The Payor served conventional fast food, consisting mainly of fries, hot dogs and hamburgers. [admitted]
+(g) During the season in issue, the hours of the business varied as follows:
+May to July: 11 a.m. to 9 or 10 p.m.; and
+August: 12:30 p.m. to 2 p.m. and 6 p.m. to 8 p.m. [admitted]
+(h) The snack bar was closed Mondays and sometimes Tuesdays, but was open Saturdays and Sundays. [admitted]
+(i) The Appellant was employed primarily as a waitress; she devoted 70% of her work time to serving tables and taking orders at the counter. [admitted]
+(j) The Appellant devoted the rest of her work time to various tasks: helping in the kitchen, cleaning the tables, counting the cash, and performing a few administrative tasks. [admitted]
+(k) The Appellant could sign cheques on behalf of the Payor. [admitted, but this was rarely done]
+(l) The Payor worked at the snack bar himself, and, in June, he hired another person, who worked solely on call, to help him in the kitchen. [admitted]
+(m) The Appellant stated that she initially worked 60 hours a week, but that her hours later diminished to 40 hours a week. [denied as worded, because she initially worked 40 hours, and later worked 60 hours]
+(n) However, the Payor's payroll journal states that the Appellant was paid for 40 hours a week initially (in May), 60 hours a week in June and July, and 30 hours in August. [admitted]
+(o) The Appellant stated that she did not record her arrival and departure times, but rather the total number of hours that she worked each day, whereas the Payor stated that the Appellant wrote her arrival and departure times on a sheet that was left on the counter each day. [denied as worded]
+(p) The Appellant's remuneration was $12 per hour, plus tips. [admitted]
+(q) The other employee was paid $7.75 per hour, with no tips, and worked 15 hours per week. [no knowledge]
+(r) The Appellant was paid by cheque every two weeks. [admitted]
+(s) In a first account, the Payor stated that he ceased to carry on business because of the Appellant's health problems, but he later said that he closed down the snack bar because there were not enough customers. [denied with respect to the Appellant's health]
+(t) In May 2006, the Payor's sales were similar to his sales for June, yet the Appellant was entered in the payroll journal as having worked 40 hours per week in May, and 60 hours per week in June. [no knowledge]
+(u) Moreover, despite the equal revenues, the Payor hired someone else part-time in June 2006, even though he had worked only with the Appellant in May and she supposedly worked fewer hours in May than in June. [admitted subject to the explanation that Mr. Gagnon was experiencing discomforts due to a ventilation problem]
+(v) The number of hours of work entered in the Payor's payroll journal is not proportional to the Payor's sales. [no knowledge]
+(w) The facts obtained from the parties show that, during the period in issue, the Appellant rendered services without being remunerated by the Payor. [denied, because the Appellant was paid for all her hours of work]
+(x) According to an Emploi-Québec publication, the median hourly wage for a server in this region of the province is $10 per hour, whereas the Appellant was paid $12. [no knowledge]
+(y) During the year 2006, the Payor incurred an $8,906 loss and paid the Appellant a salary of $10,560. [admitted solely with respect to the Appellant's salary, and otherwise denied]
+(z) The Appellant's salary is unreasonable having regard to the low revenues generated by the Payor's business operations. [denied]
+[6] As can be seen from a reading of the preceding paragraph, the dispute centers on the Appellant's hourly wage and on whether the Appellant rendered unpaid services.
+[7] The Appellant's base salary was $12 an hour, plus tips. The Appellant was the only employee who earned tips. The assistant cook hired to work 15 hours per week for four weeks in June and July 2006 was paid $7.75 an hour and did not earn tips. Claude Gagnon held the position of cook, which encompassed the duties of pot washer, janitor and inventory manager, and he received no salary for his work. The Appellant reported receiving $1,985 in tips in the course of her 880 hours of work during the 19-week period.
+[8] In addition to waiting tables, the Appellant worked the cash register and balanced the tapes at closing time. Mr. Gagnon did not work the cash register. The Appellant was also responsible for the mail, and prepared cheques for signature by Mr. Gagnon in payment of the Payor's accounts, including supplier accounts payable. As required by the National Bank of Canada, she had the power to sign the Payor's cheques, but she did not sign any. She remitted the cheques to the suppliers, and made deposits at the bank. Lastly, she tabulated the hours worked by the assistant cook.
+[9] The Appellant tabulated her own hours of work and phoned in her hours to the accountant every 15 days so that he could prepare the paycheques. She was paid by cheque every two weeks. The number of hours actually worked by the Appellant during the period in issue was not precisely determined. The snack bar's opening hours varied considerably during the period, and the Payor was unable to provide precise information regarding its hours on a monthly, weekly or daily basis. The Payor's schedule book states that the Appellant worked 30, 40 or 60 hours per week, except the week ending April 14, 2006. According to the appeal officer's report dated March 15, 2007, the Payor told the coverage officer that the Appellant initially worked 50-60 hours per week, and that she later worked 40 hours per week. This appears to have been reiterated to the appeals officer. For her part, the Appellant told the appeals officer that she never worked without pay, and never worked more than 40 hours per week. The Appellant's account in this regard is not consistent with the staff schedule book.
+[10] Another observation is that the payroll journal is not proportional to the Payor's sales. The journal states that the Appellant worked only 40 hours per week in May, whereas in June, when the sales were similar to May's sales, it reports that the Appellant worked 60 hours per week. Furthermore, the sales for July are reported to be 16% lower than in June, yet the Appellant still worked 60 hours per week. Based on her analysis, the appeals officer determined that the Appellant was not paid for roughly 10% of the hours that she worked during the period in issue. In fact, the Appellant's representative acknowledged that there were unpaid hours in his letter to the Court, dated May 15, 2007, contesting the Minister's decision. Here is what he said in this regard in the third paragraph of his letter:
+[TRANSLATION]
+During the first months, when activity was intense, Jocelyne Tremblay worked overtime. She was paid in hours off during slow periods. Claude Gagnon always aimed to keep the expenses of hiring additional personnel down. Not all of Ms. Tremblay's actual hours of work were tabulated.
+[11] The Appellant's employment with the Payor was intended to be a permanent, full-time position, but the opening of a competitor nearby caused the number of patrons to drop considerably, and the Payor had to close his snack bar in August 2006 as a result.
+[12] According to the agent for the Appellant, the base salary of $12 per hour, plus tips, was a competitive salary in the restaurant sector and was fully justified because the Appellant had to render management and cooking services as well as waiting tables. According to a Quebec government publication, the median hourly wage of a server on the North Shore was $10 between 2003 and 2005, while according to Service Canada (Wage Report, published October 24, 2008), the average wage of a server on the North Shore was $8.10 per hour.
+[13] With respect to the coverage officer's conclusion that approximately 10% of the time that the Appellant worked in May was unpaid, the Appellant's agent submits that the calculation is erroneous because the Appellant worked more hours in June than in May simply because of the extended hours made possible by the weather, which allowed the restaurant to stay open later in the evening. In his submission, the Appellant worked more hours in June for reasons unrelated to the volume of sales. He says that if the coverage officer, in making her calculations, had taken into account the additional information that was provided in relation to the hours of sunlight and the warmer evening temperatures in June, the unpaid time would have been reduced from 10% to 2%. Regardless of the exact percentage of the Appellant's work that was unpaid, he submits that it was below 10%, and that, consequently, the terms and conditions of the Appellant's contract of employment were "substantially similar" to those of the contract that would have been entered into if the parties had been dealing with each other at arm's length. The Appellant's agent submits that the Minister should not adopt a more restrictive interpretation of the word "substantially" than the one that the Canada Revenue Agency has adopted to interpret the phrase "all or substantially all", and he cited the following excerpt (paragraph 15) from the decision in Brenda Regular v. The Minister of National Revenue, 2007 TCC 664:
+In interpreting the phrase "all or substantially all" for the purposes of the Income Tax Act, the Canada Revenue Agency ("CRA") has consistently maintained the position that this phrase means 90% or more. This is reflected in several Technical Interpretations of the CRA and in paragraphs 18 and 24 of Interpretation Bulletin IT-151R5 and paragraph 1 of Interpretation Bulletin IT‑507R. When the Minister is evaluating whether the terms and conditions of an employment arrangement are "substantially similar" to those that would have been entered into if the parties had been dealing at arm's length, it seems to me that the Minister should not adopt a more restrictive meaning of "substantially" than the CRA has adopted in interpreting "all or substantially all".
+[14] As for the reference, in subparagraph 6(y) of the Reply to the Notice of Appeal, to the Payor's $8,906 loss in 2006, a year in which he paid the Appellant $10,506 in salary, the Appellant's agent emphasized that this assertion results from an analysis of the monthly earnings statement for the period from April 18 to December 31, 2006, and he provided the following explanations:
+(a) The business incurred a $4,256 loss in April, attributable mainly to start-up costs.
+(b) Sales from May to July totalled $30,105, and wages and benefits totalled $9,727, which is 33% of sales. During that period, the Payor made a profit of $2,844.
+(c) Most of the losses were incurred from August to December, that is to say, after the business closed, and are attributable to the rent of $550 per month, and to heating and accounting costs.
+Analysis
+[15] The role vested in this Court where the Minister has exercised his discretion has been the subject of many judicial decisions, including the decision of the Federal Court of Appeal in Canada (Attorney General) v. Jencan Ltd. (C.A.), [1997] F.C.J. 876, [1998] 1 F.C 187. The following excerpts from Jencan aptly summarize this Court's role:
+. . . Because it is a decision made pursuant to a discretionary power, as opposed to a quasi-judicial decision, it follows that the Tax Court must show judicial deference to the Minister’s determination when he exercises that power.[6] . . .
+. . . On the basis of the foregoing, the Deputy Tax Court Judge was justified in interfering with the Minister’s determination under s. 3(2)(c)(ii) only if it was established that the Minister exercised his discretion in a manner that was contrary to law. And, as I already said, there are specific grounds for interference implied by the requirement to exercise a discretion judicially. The Tax Court is justified in interfering with the Minister’s determination under s. 3(2)(c)(ii) - by proceeding to review the merits of the Minister’s determination - where it is established that the Minister: (i) acted in bad faith or for an improper purpose or motive; (ii) failed to take into account all of the relevant circumstances, as expressly required by s. 3(2)(c)(ii); or (iii) took into account an irrelevant factor.[7]. . .
+[16] The question that must now be asked is whether the Minister's decision still seems reasonable in light of the facts and the additional explanations provided by the Appellant and her agent. In my opinion, it was reasonable of the Minister to conclude that the Appellant would not have entered into a substantially similar contract of employment if she had been dealing with the Payor at arm's length.
+[17] The evidence has shown that the Appellant had a high degree of independence and freedom. She managed the snack bar and dealt with the suppliers. She closed the register on her own and prepared cheques for the Payor's signature, and was herself authorized to sign cheques. Occasionally, she made deposits into the bank account and tabulated her own hours and gave them to the business's accountant. She did the same thing for adjustments to her hours of work.
+[18] It has been shown that the Appellant's base salary was at least $2 per hour higher than the median hourly salary for a server in the region.
+[19] It has been admitted that the Appellant worked unpaid hours in May 2006, though the parties do not agree on the exact percentage of unpaid hours (2% versus 10%).
+[20] The evidence also discloses that the Payor provided no precise information regarding the snack bar's opening and closing hours during the period, or regarding the hours actually worked by the Appellant.
+[21] In my opinion, the Appellant and the Payor have not succeeded in shifting the burden of proof, which would have required them to show that the Minister's decision was unreasonable having regard to the circumstances. In my view, this is a case where the Court must not intervene to substitute its decision for that of the Minister. The Minister took all the relevant circumstances into account and did not ascribe importance to an irrelevant factor. Unremunerated work is certainly a relevant factor, even though there must be some amount of flexibility in determining what terms and conditions of a contract of employment would be substantially similar.
+[22] For these reasons, the appeal is dismissed.
+Signed at Montréal, Québec, this 21st day of January 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 24th day of February 2009.
+Brian McCordick, Translator
+CITATION: 2009 TCC 30
+COURT FILE NO.: 2007-3168(EI)
+STYLE OF CAUSE: Jocelyne Tremblay and M.N.R.
+PLACE OF HEARING: Baie-Comeau, Quebec
+DATE OF HEARING: October 28, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: January 21, 2009
+APPEARANCES:
+Agent for the Appellant:
+Edgar Harvey
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[6] Paragraph 33.
+[7] Paragraph 37.

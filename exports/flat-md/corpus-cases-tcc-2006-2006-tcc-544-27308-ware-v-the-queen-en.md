@@ -1,0 +1,109 @@
+---
+title: "Ware v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27308/index.do"
+last_modified: "2006-10-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 544"
+citation2: ""
+neutral_citation: "2006 TCC 544"
+decision_date: "2006-10-05"
+language: "en"
+item_id: "27308"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 848
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:42:39.193000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ec4604d29d1bb910a9f9632bc77d6eb6b8b31d6e173f90138dbd6bfefc50bfbb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ware v. The Queen
+
+- Citation: 2006 TCC 544
+- Decision date: 2006-10-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 848, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ware v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-05
+Neutral citation
+2006 TCC 544
+File numbers
+2005-974(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC544
+Date: 20061005
+Docket: 2005-974(IT)I
+BETWEEN:
+DONNALYNN WARE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(delivered orally from the Bench
+on September 13, 2006 at London, Ontario)
+Woods J.
+[1] These are reasons delivered orally from the bench in the matter of Donnalynn Ware, appellant, and Her Majesty the Queen, respondent.
+[2] Mrs. Ware appeals assessments made under the Income Tax Act for the 2001 and 2002 taxation years in which a number of deductions claimed as business expenses were disallowed. The details of the amounts disallowed are set out in schedules to the Reply filed by the respondent.
+[3] Before getting into the merits, I have two preliminary comments. First, this matter was first set down for hearing on June 20, 2006. At that time the respondent made an application to strike several parts of the notice of appeal that related to the conduct of officials of the Canada Revenue Agency. The respondent's application was granted and several parts of the notice of appeal were struck by order dated June 26, 2006. The only remaining issue then concerns the deductibility of amounts claimed as business expenses.
+[4] Second, I wish to note that when this matter was first set down for hearing on June 20, Mrs. Ware was not present to give evidence. I advised her agent that the appeal had no chance of success without the testimony of the appellant nor documentation in support of her claim. This is set out in a recital to the order I just referred to. Based on this advice, the agent sought an adjournment and the matter was adjourned until September 11, 2006.
+[5] This time, Mrs. Ware was present and did testify.
+[6] The evidence presented by Mrs. Ware, however, falls far short of establishing that the expenses claimed were incurred at all let alone that they were incurred in connection with her businesses.
+[7] It is not in dispute that Mrs. Ware operated three businesses during the relevant period, a business involving astrology and other personal services, a business of selling Mary Kay cosmetics, and a business of renting a hall known as Trafalgar Hall. The Minister did allow some of the expenses claimed and these are set out in the schedules to the Reply.
+[8] Because of a number of unfortunate and tragic circumstances, none of the businesses succeeded.
+[9] The question is whether the appellant has established that the expenses claimed were incurred and that they were incurred in connection with these businesses.
+[10] The expenses claimed were for items such as advertising, interest, motor vehicle, maintenance and repairs, office, supplies, legal and accounting, telephone and utilities and rent. No details whatsoever were provided for most of these items. Mrs. Ware did provide oral testimony about the rent paid on the premises known as Trafalgar Hall and she did provide general evidence as to use of her motor vehicle for business purposes. She also provided oral testimony concerning arrangements for the use of Trafalgar Hall that fell through. Not only was there an absence of detail concerning most of the expenses claimed, there was absolutely no supporting documentation at all - no motor vehicle log book, no financial records, no cancelled cheques, no banking records, no leases or business contracts.
+[11] This evidence falls far short of proving the amounts claimed. Frankly, based on Mrs. Ware's inability to explain the amounts claimed on her tax return, it may well be that her tax returns which were prepared by her agent were to a great extent a work of fiction. That also appeared to be the case in another appeal that I heard in which tax returns were prepared by the same agent.
+[12] Under the Act a taxpayer is required to keep sufficient books and records so that her income tax returns can be verified on audit. Failure to do so is not necessarily fatal to claim deductions but in order to overcome that difficulty the court must be provided with cogent and detailed evidence sufficient to be satisfied that the expenses claimed were actually incurred. The vague and general testimony of Mrs. Ware falls far short.
+[13] Notwithstanding that there is not sufficient evidence to establish any of the expenses claimed, I have concluded that it is reasonable to allow Mrs. Ware something on account of rent and utilities in connection with Trafalgar Hall. Mrs. Ware testified that the rent paid was $1500 per month and utilities were on top of that. However, there is no documentation to support this figure. Therefore the amount that I will allow for rent and utilities will be modest. I have concluded that the amount of $2,500 is reasonable for rent and utilities in the circumstances where there is no documentary evidence. This amount may be lower than what was paid but it is generous in the circumstances.
+[14] In the result, the appeal will be allowed only to the extent of allowing an additional deduction of $2,500 for the 2002 taxation year. There will be no order as to costs.
+Signed at Toronto, Ontario, this 5th day of October, 2006.
+J. Woods
+Woods J.
+CITATION: 2006TCC544
+COURT FILE NO.: 2005-974(IT)I
+STYLE OF CAUSE: Donnalynn Ware and
+Her Majesty the Queen
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: September 11, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Judith Woods
+DATE OF JUDGMENT: September 14, 2006
+APPEARANCES:
+Agent for the Appellant: Rudolfo Terracina
+Counsel for the Respondent: Gatien Fournier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

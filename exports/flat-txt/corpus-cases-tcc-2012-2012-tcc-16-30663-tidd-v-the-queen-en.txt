@@ -1,0 +1,141 @@
+Title: Tidd v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30663/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-16-30663-tidd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-01-10
+
+# Tidd v. The Queen
+
+- Citation: 2012 TCC 16
+- Decision date: 2012-01-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7222, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tidd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-01-10
+Neutral citation
+2012 TCC 16
+File numbers
+2011-1456(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-1456(IT)I
+BETWEEN:
+MAVIS TIDD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 5 & 8, 2011, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Richard Yasny
+Counsel for the Respondent:
+Alisa Apostle
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2006 taxation year and the reassessments under the Income Tax Act for the 2007 and 2008 taxation years is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of January 2012.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2012TCC16
+Date: 20120110
+Docket: 2011-1456(IT)I
+BETWEEN:
+MAVIS TIDD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on December 8, 2011, in Toronto, Ontario)
+V.A. Miller J.
+[1] The issue raised in this appeal is whether the Appellant is entitled to a deduction of $10,000 in 2006, 2007 and 2008 for a clergy residence under paragraph 8(1)(c) of the Income Tax Act (the Act). The Minister of National Revenue (the “Minister”) denied the deduction on the basis that the Appellant did not meet the status or the function test set out in paragraph 8(1)(c).
+[2] It is the Appellant’s position that, in terms of the legislation, she was a member of the clergy for the Toronto International Celebration Church (the “TICC”); and, as such, she ministered to that congregation.
+[3] The Appellant and Peter Karl Youngren testified at the hearing. Mr. Youngren described the structure of the TICC and the Appellant’s role within that church. He was senior pastor of the TICC until December 31, 2009. I will refer to him as Mr. Youngren so as not to confuse him with his father who is also Pastor Peter Youngren.
+[4] It was Mr. Youngren’s evidence that his father, Pastor Peter Youngren, commenced the Niagara Celebration Church in St. Catharines, Ontario in 1990. In 1999, Pastor Youngren decided to found a church in Toronto. The TICC opened its doors in September 2000 and the first service was September 10, 2000. Its congregation grew quickly and today it numbers approximately 2000 individuals.
+[5] Mr. Youngren was in charge of the day to day operations at TICC and during the relevant period, he was the senior pastor and the spiritual leader. I am not sure if he or his father was the chairman of the board with the TICC.
+[6] The TICC is an evangelical church. Mr. Youngren described the church as being a part of the non-denominational movement away from the tradition where there is a head minister. The structure of the TICC is one where all members of the church minister together. There are no titles and, in fact, many in the congregation did not call him “Pastor”.
+[7] In the TICC, the Board of Directors only oversaw the finances of the church. Mr. Youngren, as pastor, had the spiritual vision for the TICC. He chose the pastors, the leaders and the ministers of the TICC. To be chosen, they had to exemplify Christian leadership characteristics according to his vision. He stated that he was looking to see if the person had the “fruit of the spirit”.
+[8] Mr. Youngren brought in people from the church in Niagara to show the congregation of the TICC how to work with the various people in their community. He said that they had a model of Christian leadership and fellowship in the Niagara Celebration Church and they brought this model to the TICC.
+[9] According to Mr. Youngren’s description of the structure of the TICC, I find that there was a hierarchy within the TICC. It was, in ascending order, (a) the first time visitors, (b) the regular congregation, (c) the volunteers, (d) the leaders, (e) the ministers and then (f) the pastors. Mr. Youngren as senior pastor had the final say in everything.
+[10] The TICC was divided into 40 segments; some of which were: small group ministry, music ministry, senior ministry, hospital ministry, phone ministry, greeter ministry, visitation ministry, etc. Each ministry was overseen by a leader who was in charge of ensuring that the ministry ran smoothly and had sufficient volunteers to carry out its mandate.
+[11] The Appellant joined TICC in 2000. Mr. Youngren described her as charismatic, magnetic and having the “fruit”. Initially, the Appellant did volunteer work within the TICC. In 2003, she was employed by TICC on a full time basis as executive assistant to the senior pastor. In her position, she worked Monday to Thursday. However, she also worked Wednesday, Thursday and Saturday evenings to assist with the computer classes which TICC held. By 2004 or 2005, she was recognized by the congregation as a minister in the church.
+[12] The Appellant oversaw various ministries and when he was Senior Pastor with TICC, Mr. Youngren summarized the Appellant’s duties with the TICC. On December 21, 2009, he wrote:
+Mavis Tidd is an Ordained Gospel Worker with the Toronto International Celebration Church.
+The following is a summary of her duties at the church:
+(a) Vets people before scheduling appointments with an appropriate pastor.
+(b) Prayer/counseling: Works with Pastoral Care during times of high volume overload in praying with and counseling callers.
+(c) Hospital Ministry: Visits and offers comfort and prayer to those in hospital. She also visits housebound members.
+(d) Greeter Ministry: selects Greeter volunteers from members and visitors. Prepare greeter manual and trains new greeters. Creates greeter schedules on a monthly basis and arranges for a staff member or office volunteer to contact persons scheduled on a weekly basis. Also schedules greeters for other church functions.
+(e) Visitation Ministry: Coordinates with visitation team by providing them with names of members who are housebound.
+(f) Supervises office and food bank volunteers.
+(g) Manages all water baptisms and baby dedications.
+(h) Manages the property, church parking facitities, rentals and associated staff.
+(i) Community involvement: Manages and schedules computer classes, manages and coordinates the food bank and, at Christmas time, manages the turkey and food basket give-aways. She is the liaison between the church and Second Harvest [delivers food for our Hope Bank (non-perishable) and for our downtown outreach] and the 700 Club.
+[13] At the hearing, Mr. Youngren said that the Appellant was his ‘right hand person’; his ‘first line of defence’. It was his evidence that to oversee a program meant that you were a minister in the church.
+[14] I note that in his letter of December 21, 2009, Mr. Youngren referred to the Appellant as an ‘Ordained Gospel Worker’. However, throughout his evidence at the hearing, he referred to her as a ‘minister’.
+[15] It was Mr. Youngren’s evidence that there was no formal ordination ceremony in the TICC. When one became a minister with the TICC, their name was listed in the Sunday Bulletin and they were acknowledged from the stage as being a minister.
+[16] During the relevant period there were 20 staff members. Mr. Youngren stated that 10 of them were ministers or clergy.
+Analysis
+[17] In accordance with the Appellant’s position, the relevant part of paragraph 8(1)(c) reads as follows:
+8. (1) Deductions allowed -- In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source…
+(c) clergy residence -- where, in the year, the taxpayer
+(i) is a member of the clergy or [ ] a regular minister of a religious denomination, and
+(ii) is
+(B) ministering to a [ ] or congregation
+[18] The first question is whether the Appellant was a member of the clergy of TICC. The second question is whether she ministered to a congregation.
+[19] According to the caselaw, it is not necessary that an individual be ordained to be a clergy. See Kraft v. Minister of National Revenue[1]. Whether one is a member of the clergy of a religious denomination depends on the practices and rituals of that denomination. At paragraph 13 of Kraft, Bowman T.C.J. said:
+Whether one is member of the clergy in a particular church depends upon the procedures and rituals of that church. It requires a formal act of recognition whereby that person is set apart from the other members of the church as a spiritual leader (emphasis added). It does not require necessarily that it be done by someone higher up the ecclesiastical hierarchy. Some churches recognize no such hierarchy. It may be done by the congregation. It requires a formal, serious and long-term commitment to the ministry. If these elements exist, whether or not the particular denomination calls the formal ritual "ordination", the person accorded that status by the church is in my view a member of the clergy.
+[20] The evidence presented established that the Appellant was set apart from the other members of TICC as a leader. Her name was listed in the Sunday Bulletin and the TICC acknowledged her from the stage as being a minister. She was recognized by the congregation as a minister.
+[21] I questioned whether the evidence established that the Appellant was set apart from the other members of the congregation as a ‘spiritual leader’.
+[22] What is a ‘spiritual leader’? I take it that a spiritual leader is one who is aimed not so much at directing people or organizing people but is aimed at changing people. It is someone who not only prays with those in need but offers them spiritual guidance.
+[23] It was Mr. Youngren’s evidence that the Appellant “did everything that he did except give sermons on Sundays”. She applied Biblical leadership to each of the ministries which she oversaw. She brought peace into the homes she visited and into the lives of the people that she encountered. She offered spiritual guidance to the members of the congregation of TICC.
+[24] The Appellant oversaw the leaders in the TICC. I find that she was a spiritual leader in the TICC and she was recognized as such by the congregation and the senior pastor of the TICC.
+[25] It is my view that the Appellant was a ‘clergy’ for the purposes of paragraph 8(1)(c) of the Act.
+[26] The second question that must be determined goes to the function part of the test in paragraph 8(1)(c). Was the Appellant ministering to a congregation?
+[27] In McGorman v. Canada[2], Bowman T.C.J. interpreted the term “ministering” in these words:
+56 His work encompassed everything that is traditionally done by a minister or priest who has one church. "To minister" means merely "to serve", or "to attend to the needs of". A physician or nurse ministers to the physical needs of a patient. A clergyman, minister, priest or spiritual counsellor ministers to the spiritual needs of a congregation, collectively or individually. Ministers are, however, called on to do much more than offer spiritual guidance. They provide psychological and marital counselling. They advise on family and career related matters. It is to the church that people turn when faced with the infinite variety of problems that arise in life. Ministering is a very broad concept, particularly in the context of the work of a person of the cloth. There is no question that Mr. Miller was ministering to the persons with whom he dealt.
+[28] The Canada Revenue Agency has adopted this interpretation of the term ministering. See IT-141R at paragraphs 13 and 14 which read as follows:
+13. “Ministering” is a very broad concept of serving or attending to the needs of a congregation, diocese or parish, or its individual members. This should be looked at within the context of the religious organization's practices and expectations. If a person who meets the status test is employed within a congregation, he or she is considered to be ministering to a congregation if he or she is fulfilling a pastoral or ministerial role in the manner requested by that congregation. If a person who meets the status test is employed by a religious organization outside the order or religious denomination, he or she is considered to be ministering to a congregation such as a church, a chaplaincy audience, or a disadvantaged group if he or she is fulfilling a pastoral or ministerial role consistent with the religious ministry of the organization in which such person has status.
+14. Persons who meet the status test who minister on a part-time or assistant basis and those performing specialized ministering satisfy the function test. As long as ministering to congregations is an integral part of their employment responsibilities and expectations, that activity will qualify.
+[29] I find that the Appellant was ministering to the congregation at TICC. She was fulfilling the ministerial role in the manner requested by the congregation and by the senior pastor at the TICC. Ministering to the congregation at the TICC was an integral part of the Appellant’s employment responsibilities and expectations.
+[30] For all of these reasons, the appeal is allowed.
+Signed at Ottawa, Canada, this 10th day of January 2012.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2012TCC16
+COURT FILE NO.: 2011-1456(IT)I
+STYLE OF CAUSE: MAVIS TIDD AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: December 5 & 8, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: January 10, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Richard Yasny
+Counsel for the Respondent:
+Alisa Apostle
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Richard Yasny
+Firm: Payne Law Professional Corporation
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1999] 3 C.T.C. 2185 (TCC)
+[2] [1999] T.C.J. No. 133, 99 D.T.C. 699

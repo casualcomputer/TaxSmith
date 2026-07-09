@@ -1,0 +1,187 @@
+---
+title: "Iwanow v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28372/index.do"
+last_modified: "2008-01-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 22"
+citation2: ""
+neutral_citation: "2008 TCC 22"
+decision_date: "2008-01-10"
+language: "en"
+item_id: "28372"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1924
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:39:48.260000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9ba7e58809023a0cad9e0e57753529e3a5df04013849610f7877eb3c07cd92df"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Iwanow v. The Queen
+
+- Citation: 2008 TCC 22
+- Decision date: 2008-01-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1924, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Iwanow v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-10
+Neutral citation
+2008 TCC 22
+File numbers
+2006-3072(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3072(IT)G
+BETWEEN:
+SUSANNE IWANOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on April 5, 2007 and
+October 9, 2007, at Montreal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Sophie-Lyne Lefebvre
+____________________________________________________________________
+ORDER
+The motion presented by the Respondent for an order pursuant to Rule 53 of the Tax Court Rules (General Procedure) that the Notice of Appeal of the appellant be struck out, without leave to amend, is allowed and the appellant’s appeal from the assessments in respect of her 2000, 2001, 2002 and 2003 taxation years is dismissed without cost, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 10th day of January 2008.
+« Réal Favreau »
+Favreau J.
+Citation: 2008TCC22
+Date: 20080110
+Docket: 2006-3072(IT)G
+BETWEEN:
+SUSANNE IWANOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Favreau, J.
+[1] This is an appeal against the assessments dated June 9, 2005 in respect of the appellant’s taxation years 2000, 2001, 2002 and 2003.
+[2] Based upon an affidavit dated January 12, 2007, of Mr. Hubert de Groot, a litigation agent of the Canada Revenue Agency (“CRA”) who was in charge of the appeal file of the appellant, the relevant facts of this appeal are as follows:
+a) on February 3, 2004, CRA sent to the appellant a request to file her income tax return for each of the 2000 to 2002 taxation years;
+b) the appellant did not comply with the request and on March 16, 2004, a formal request to file income tax return for each of her 2000 to 2002 taxation years was sent to the appellant;
+c) on April 16, 2004, CRA sent to the appellant copies of her information returns, namely T3, T4 and T5 information slips, issued to the appellant for her 2000 to 20002 taxation years, to enable her to file her tax returns;
+d) on August 10, 2004, the appellant requested assistance from CRA to file her tax returns by providing a certified copy of the Income Tax Act to her;
+e) in September 2004, CRA informed the appellant of the existence of a commercial version of the Income Tax Act, rather than a certified copy;
+f) by a letter dated September 20, 2004, the appellant informed CRA that she could not rely on such commercial version of the Income Tax Act, nor could she rely on anyone who was willing to guarantee the accuracy of his or her advice, thus preventing her from filing her tax returns;
+g) other exchange of letters occurred between the appellant and CRA but the appellant was still unwilling to estimate the amount of tax payable by filing her income tax returns for the 2000 to 20002 taxation years;
+h) on June 9, 2005, CRA issued assessments against the appellant’s 2000 to 2003 taxation years, notwithstanding the fact that she has not filed any tax returns, in accordance with subsection 152(7) of the Income Tax Act, R.S.C. 1985, c. 1 (5th supp.) as amended, (the “Act”);
+i) in so assessing, CRA computed her taxable income and relied, among other things, on the information slips issued to the appellant for the 2000 to 2003 taxation years;
+j) further in time, CRA provided to the appellant copies of the assessments previously issued;
+k) the appellant filed a notice of objection dated December 2, 2005 for her 2000 to 2003 taxation years;
+l) CRA accepted the late filing of the notice of objection;
+m) on April 12, 2006, CRA wrote to the appellant informing her that she had received income during her 2000 to 2003 taxation years and, once again, invited her to file her income tax returns for these years;
+n) on May 26, 2006, CRA again required from the appellant to filing of her tax returns for her 2000 to 2003 taxation years;
+o) on June 8, 2006, the appellant wrote to CRA informing the agency that she was still looking for a certified copy of the Income Tax Act in order for her to file her tax returns;
+p) on June 28, 2006, CRA wrote to the appellant requiring again the filing of her tax returns;
+q) on July 21, 2006, the appellant wrote to CRA, informing the agency that she required a certified copy of the Income Tax Act with up‑to‑date amendments;
+r) the appellant has never informed the Appeal Division of CRA in what respect the assessments issued for the 2000 to 2003 taxation years are incorrect;
+s) on July 25, 2006, CRA confirmed the assessments for the 2000 to 2003 taxation years;
+t) the appellant has not yet filed her income tax returns for the 2004 and 2005 taxation years;
+u) on April 13, 2006, CRA sent to the appellant by registered mail a formal request to file her tax returns for her 2004 taxation year, as provided by subsection 150(2) of the Act, but she did not comply with such request.
+[3] On October 20, 2006, the appellant filed a notice of appeal to this Court in the following terms:
+[. . .]
+I am contesting all the assessments for the years 2000, 2001, 2002 and 2003 as they are based on fiction. I have been trying to comply with the law but am unable to do so without the assistance of Canada Revenue Agency agents in order to avoid any financial liability and/or the possibility of criminal charges.
+I have communicated numerous times with several Canada Revenue Agency agents requesting they assist me in complying with the law, but they have been unable or unwilling to provide any assistance and thereby failed to perform their duties.
+This negligence on their part has resulted in the need for the present court proceedings. [. . .]
+[4] On January 12, 2007, the respondent brought a motion to strike out the notice of appeal without leave to amend pursuant to Rule 53 of the Tax Court Rules (General Procedure) and to dismiss the appellant’s appeal on the basis that:
+a) the notice of appeal discloses no reasonable cause of action;
+b) it is scandalous, frivolous and vexatious;
+c) the appeal is otherwise an abuse of process of the Court.
+[5] This Court heard the motion on April 5, 2007 but did not render the orders sought by the respondent. Rather the Court directed the parties to meet between April 24 and May 25, 2007 in order to help the appellant to file her returns and to report back to the Court by no later than May 31, 2007 to inform it of the status of the case.
+[6] The May 31, 2007 deadline has been extended to July 31, 2006 and to August 31, 2007.
+[7] On August 29, 2007, the appellant required another extension to November 30, 2007 to report back to Court but the respondent did not agree to a new date to communicate with the Court as no meeting with the appellant has taken place and as no indication has been shown by the appellant that her appeal will be based upon a serious cause of action, even if T-1 returns were filed.
+[8] The hearing of the respondent's motion has been fixed to October 9, 2007.
+[9] By letters dated September 5 and 24, 2007 and October 4, 2007, the appellant asked this Court to issue an order to adjourn the hearing of the motion to a future date because of the illness of her accountant.
+[10] The appellant's request for a postponement of the hearing has been rejected because no progress at all has been made since the first hearing of the motion on April 5, 2007.
+[11] At the hearing, the appellant explained that, in April 2007, she had retained the services of an accountant to help her to file her tax returns. She said that he is a sole practitioner having a master's degree in accounting with an office at home. She hardly remembered his name, a Mr. Bernard Brosseau, and she has not been able to provide the address of his office. She said that she met him twice and that she remitted to him boxes of documents containing information concerning her tax position.
+[12] Concerning the illness of the accountant, the appellant gave the following information:
+a) he has been hospitalized on May 5, 2007;
+b) on May 10, 2007, he had to undergo an amputation of his left foot at the Centre hospitalier Charles Lemoyne;
+c) his recovery was interrupted by unforeseeable conditions and on July 10, 2007, he was obliged to undergo a second amputation of his left leg up to the knee;
+d) after a period of convalescence, he will be returning to the hospital for prosthesis.
+[13] At the hearing, the appellant, who is a nurse in surgery, did not know when her accountant will be able to return to work.
+[14] The appellant argued that the agreement reached with the respondent on April 5, 2007 should stand. She said that she satisfied her undertakings to find a responsible tax expert to undertake the necessary computations regarding the contested tax returns and to file such. She further said that it is not reasonable nor responsible for the respondent to place her in jeopardy due to an act of God.
+[15] The respondent denied that any form of agreement has been reached with the appellant in April 2007. The respondent argued that the hearing of the motion did not have to be postponed until an accountant is found. The respondent stated that no development occurred in this file since April 5, 2007 and that no meeting with the appellant has taken place. Finally, the respondent pointed out that there is still no indication of what in the assessments is being contested.
+[16] Considering the facts described above and the pleadings of the parties, I am of the opinion that the notice of appeal of the appellant did not disclose any reasonable cause of action.
+[17] It is a well established principle that a Court may strike out a pleading where it is "plain and obvious" that the pleading discloses no reasonable cause of action (see Bruno v. Canada (Customs and Revenue Agency) 2002 BCCA 47, [2002]) B.C.J. No. 113 (QL) and Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959).
+[18] It seems to me very clear that there is no merit to the argument that a taxpayer who cannot find a certified copy of the Income Tax Act cannot meet his/her legal obligations. This issue has been considered in R. v. Gibbs, 2006 BCPC 215, [2006] B.C.J. No. 1189 (QL) and the judge came to the following conclusion at paragraph 12:
+[… ]
+Ms. Gibbs argues that her defence of due diligence is being made out, as she could not find a true copy of the Income Tax Act and, therefore, could not be satisfied as to her legal obligations. This argument has no merit. The Income Tax Act is readily available both by a computer on-line, at the public library, and through the Government of Canada. [. . .]
+[19] Furthermore, it has been decided in many cases, that CRA has no duty to produce an original or a certified copy of the Income Tax Act to a taxpayer. In R. v.Gibbs, 2006 BCSC 481, [2006] B.C.J. No. 652 (QL), para. 54, the Court referred to the following extract of Justice Tysoe in R. v. Holly Bruno, [2001] B.C.J. No. 2905, 2001 BCSC 1828 at para. 7:
+"I am satisfied that the laws of the country are contained in the 1985 Revised Statutes of Canada, as amended from time to time thereafter. Those statutes were available to Ms. Bruno. She has been convicted to that statute and the conviction is valid."
+[20] That finding was confirmed by the British Columbia Court of Appeal in R. v. Bruno, [2002]) B.C.J. No. 1177, 2002 BCCA 348, at paragraph 7:
+[. . .] it is my view that there is no merit to the contention that Mr. Bruno does not have access to the laws of Canada or the failure of the Crown to produce a version of the Income Tax Act different from that generally available to the public, including Mr. Bruno, amounts to a failure of disclosure [. . .].
+[21] In R. v. Gibbs, 2003 BCPC 527, [2003] B.C.J. 3153 (QL), the Court concluded that the fact that a compiled officially certified document such as the Income Tax Act is not produced does not lay the groundwork for a defence of due diligence to defeat an obligation to file a tax return. In paragraph 47, the Court made the following statement:
+[. . .] Accordingly, the mere fact of the Tax Department not producing such a document to her, or her being able to find a compilation as such, does not in and of itself raise an issue of due diligence.
+In paragraph 54 of the above-mentioned decision, the Court made this additional comment:
+[. . .] The provisions are there, people are bound by them, and the fact that a compiled officially certified document is not produced does not lay the groundwork then for a defence of due-diligence to defeat an obligation to file.
+[22] The statement made by the appellant in her notice of appeal to the effect that CRA's agents have been unable or unwilling to provide any assistance and that they thereby failed to perform their duties is not supported by the evidence and is totally unfounded. Her requests for assistance were accompanied by unreasonable demands for guarantees from CRA's agents as shown by the following extract of the appellant's letter dated September 29, 2004 to Mr. Michel Lavigne of CRA:
+[. . .] This state of affaires has convinced me that I must rely on a professional who is able and willing to guarantee his professional advice without any disclaimers. As you know, this is a legal and financial matter, and filing an incorrect return can possibly have major consequences. I wish to settle this matter, and to do so I hereby seek your assistance and demand you provide me with the following:
+· A written guarantee stating you have full and complete knowledge and understanding of the Canadian Income Tax Act.
+· A written guarantee stating you are able to apply the said act properly.
+· A written guarantee that the version of the Canadian Income Tax Act published by CCH Canada Limited is the law.
+· A written guarantee stating you accept full personally liability that this, the version of the Canadian Income Tax Act published by CCH Canada Limited, is the law.
+· Supporting documents that you have the capacity to make the determination(s) that you do.
+· A written guarantee stating you accept full personal liability that everything you instruct me to do is in accordance with the certified copy of the Canadian Income Tax Act.
+[23] On April 5, 2007, I adjourned the hearing of the motion to give the appellant another chance to comply with the Act and to file her tax returns. Counsel for the respondent agreed to arrange a meeting with the appellant and an agent of CRA to help her to calculate her income for the 2000 to 2003 taxation years. The appellant found an accountant but no meeting with CRA could be arranged and no progress whatsoever has been made in the file since April 5, 2007. When the appellant realized that her accountant was sick, she did not make any attempt to replace him by another qualified accountant. A nurse working in surgery certainly knew that her accountant would not be able to help her to file her tax returns for many months.
+[24] From what I have seen, I am convinced that the appellant does not really have the intention to file the requested tax returns.
+[25] Consequently, the motion presented by the respondent for an order pursuant to Rule 53 of the Tax Court Rules (General Procedures), that the notice of appeal of the appellant be struck out, without leave to amend, is allowed and the appellant's appeal from the assessments in respect of her 2000, 2001, 2002 and 2003 taxation years is dismissed without cost.
+Signed at Ottawa, Canada, this 10th day of January 2008.
+« Réal Favreau »
+Favreau J.
+CITATION: 2008TCC28
+COURT FILE NO.: 2006-3072(IT)G
+STYLE OF CAUSE: Susanne Iwanow and Her Majesty the Queen
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: April 5 and October 9, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: January 10, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Sophie-Lyne Lefebvre
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

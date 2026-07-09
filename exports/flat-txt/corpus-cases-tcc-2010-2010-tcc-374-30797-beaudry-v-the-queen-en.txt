@@ -1,0 +1,329 @@
+Title: Beaudry v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30797/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-374-30797-beaudry-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-07-12
+
+# Beaudry v. The Queen
+
+- Citation: 2010 TCC 374
+- Decision date: 2010-07-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7541, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beaudry v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-07-12
+Neutral citation
+2010 TCC 374
+File numbers
+2000-1189(IT)G, 2000-2026(IT)G, 2000-2039(IT)G, 2000-2044(IT)G, 2000-2045(IT)G, 2000-2049(IT)G, 2000-2056(IT)G, 2000-2069(IT)G
+Judges and Taxing Officers
+Johanne Parent
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-2049(IT)G
+BETWEEN:
+YVES BEAUDRY
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Respondent in this proceeding under subsection 153(1) of the Tax Court of Canada Rules (General Procedure) and I ALLOW THE SUM of $34,559.96.
+Signed at Toronto, Ontario, this 12th day of July 2010.
+"Johanne Parent"
+Taxing Officer
+Translation certified true
+on this 18th day of November 2010.
+François Brunet. Revisor
+Docket: 2000-2026(IT)G
+BETWEEN:
+JAMES BULLOCK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Respondent in this proceeding under the authority of subsection 153(1) of the Tax Court of Canada Rules (General Procedure) and I ALLOW THE SUM of $34,559.96.
+Signed at Toronto, Ontario, this 12th day of July 2010.
+"Johanne Parent"
+Taxing Officer
+Translation certified true
+on this 18th day of November 2010.
+François Brunet. Revisor
+Docket: 2000-2039(IT)G
+BETWEEN:
+CHRISTOPHER HERTEN-GREAVEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Respondent in this proceeding under the authority of subsection 153(1) of the Tax Court of Canada Rules (General Procedure) and I ALLOW THE SUM of $34,559.96.
+Signed at Toronto, Ontario, this 12th day of July 2010.
+"Johanne Parent"
+Taxing Officer
+Translation certified true
+on this 18th day of November 2010.
+François Brunet. Revisor
+Docket: 2000-2044(IT)G
+BETWEEN:
+RAPHAEL EVANSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Respondent in this proceeding under the authority of subsection 153(1) of the Tax Court of Canada Rules (General Procedure) and I ALLOW THE SUM of $34,559.96.
+Signed at Toronto, Ontario, this 12th day of July 2010.
+"Johanne Parent"
+Taxing Officer
+Translation certified true
+on this 18th day of November 2010.
+François Brunet. Revisor
+Docket: 2000-2045(IT)G
+BETWEEN:
+OLEG ROMAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Respondent in this proceeding under the authority of subsection 153(1) of the Tax Court of Canada Rules (General Procedure) and I ALLOW THE SUM of $34,559.96.
+Signed at Toronto, Ontario, this 12th day of July 2010.
+"Johanne Parent"
+Taxing Officer
+Translation certified true
+on this 18th day of November 2010.
+François Brunet. Revisor
+Docket: 2000-2056(IT)G
+BETWEEN:
+MARTIN TYLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Respondent in this proceeding under the authority of subsection 153(1) of the Tax Court of Canada Rules (General Procedure) and I ALLOW THE SUM of $34,559.96.
+Signed at Toronto, Ontario, this 12th day of July 2010.
+"Johanne Parent"
+Taxing Officer
+Translation certified true
+on this 18th day of November 2010.
+François Brunet. Revisor
+Docket: 2000-2069(IT)G
+BETWEEN:
+DAVID ELKINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Respondent in this proceeding under the authority of subsection 153(1) of the Tax Court of Canada Rules (General Procedure) and I ALLOW THE SUM of $34,559.96.
+Signed at Toronto, Ontario, this 12th day of July 2010.
+"Johanne Parent"
+Taxing Officer
+Translation certified true
+on this 18th day of November 2010.
+François Brunet. Revisor
+Docket: 2000-1189(IT)G
+BETWEEN
+JAMES W. McCLINTOCK, EXECUTOR OF THE ESTATE
+OF JOHN P. McCLINTOCK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Respondent in this proceeding under the authority of subsection 153(1) of the Tax Court of Canada Rules (General Procedure) and I ALLOW THE SUM of $34,559.96.
+Signed at Toronto, Ontario, this 12th day of July 2010.
+"Johanne Parent"
+Taxing Officer
+Translation certified true
+on this 18th day of November 2010.
+François Brunet. Revisor
+Citation: 2010 TCC 374
+Date: 20100712
+Dockets: 2000-2049(IT)G, 2000-2026(IT)G,
+2000-2039(IT)G, 2000-2044(IT)G, 2000-2045(IT)G,
+2000-2056(IT)G, 2000-2069(IT)G, 2000-1189(IT)G
+BETWEEN:
+YVES BEAUDRY, JAMES BULLOCK,
+CHRISTOPHER HERTEN-GREAVEN, RAPHAËL EVANSON,
+OLEG ROMAR, MARTIN TYLER, DAVIS ELKINS,
+JAMES W. McCLINTOCK, EXECUTOR OF THE ESTATE
+OF JOHN P. McCLINTOCK,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR TAXATION
+Johanne Parent, T.O., T.C.C.
+[1] In a judgment dated January 30, 2008, the Honourable Justice Angers dismissed, with costs, the appeals filed by the appellants regarding assessments made pursuant to the Income Tax Act for the years 1985 to 1990. The taxation of the respondent's bill of costs took place April 7, 2010, on common evidence and submissions by the appellants Yves Beaudry, Oleg Romar, David Elkins, James Bullock and Raphael Evanson. These appellants were represented by counsel, Dominic C. Belley. The appellants Christopher Herten‑Greaven and Martin Tyler, duly served, were not represented at the hearing. Their respective trustees instead submitted their bankruptcy notices to the Court files. Further to various unsuccessful attempts, James McClintock, executor for John P. McClintock, was not served the Notice to Appear for the hearing of the taxation of the bill of costs for the respondent who, in this case, was represented by Antonia Paraherakis.
+[2] In submissions disputing the bill of costs, the appellants conceded all the costs claimed under Tariff B of the Tax Court of Canada Rules (General Procedure) for a total amount of $41,350. The parties agreed to remove the amounts claimed as goods and services tax (GST) from the disbursements claimed, as stated in the respondent's reply dated March 30, 2010. Considering the adjustments to the amounts granted for certain costs, the changes reflecting the GST adjustment were also made by the undersigned.
+[3] In this case, the Minister of National Revenue made assessments for more than 500 taxpayers, including the appellants, for various taxation years, disallowing the deduction for business losses following their participation in the partnerships ARMC and ARMC2. The taxation of the bill of costs primarily involves the taxation of expert reports and photocopies required in the cases in question.
+APPELLANTS' ARGUMENTS
+[4] The appellants' arguments regarding the disbursements claimed can be thus summarized: they were neither reasonable nor essential for the conduct of the proceeding. Referring to section 154 of the Tax Court of Canada Rules (General Procedure), counsel for the respondent claimed that the amounts in question might seem extreme or even huge, but the amount of the expenses claimed is negligible compared to the amounts in question.
+[5] Regarding the criterion of the reasonableness of the disbursements, counsel for the appellants noted Axa Canada Inc. v. The Queen (2006 TCC 334) a decision rendered by the Honourable Justice Lamarre-Proulx:
+As for the litigation disbursements, I feel that those regarding the bailiff, photocopies and others, and counsel for the Appellant's trip can be accepted as proposed by the Appellant. As for the fees for the expert report, I find them very high. In my opinion, one third of the amount requested seems reasonable.
+In reference to subsection 1(2) of Tariff B of the Tax Court of Canada Rules (General Procedure), which provides that "[t]he amounts that may be allowed for disbursements are all disbursements made under Tariff A of this Schedule and all other disbursements essential for the conduct of the proceeding…" he notes that the disbursements must be essential for the purposes of the conduct of the case, which he feels does not apply to the expert fees regarding the scientific research and experimental development, which should be taxed at zero.
+According to counsel for the appellants, the analysis of the complexity of the issues in question in this case raises two issues: scientific research and experimental development on one hand, and financial and accounting issues on the other. In terms of the scientific research and experimental development, it was argued that these issues were of no use in resolving the issues. The issue of whether there was research is not a determining factor as to the appellants' eligibility for a deduction. The determining factor and the one that would be allowed was whether it was a business expense. Counsel for the appellants admits there is a certain relevance for the work of economics, finance and accounting experts.
+[6] Referring to the invoices submitted in support of the costs incurred for the experts, counsel for the appellants asks that no amount be granted for Michael V. Norgard's fees. This witness' testimony was on scientific research and experimental development and would not have been useful for resolving the case and the unreasonable costs claimed. For the same reasons, it was requested that no amount be granted for the experts Roger H. Kennett, Bernard Brodeur and Louis Visentin. Moreover, the latter would not have testified following the parties' admission of his testimony. According to counsel for the appellants, since the research expertise was not necessary, the only expert reports that would have been filed and administered were the economic ones. The fact the respondent wanted to cover everything, and plead everything was her choice.
+[7] In regard to the amounts claimed for witness preparation, counsel for the appellants refers to section 6 of Tariff A of the Tax Court of Canada Rules (General Procedure): "No payment shall be made to or received by a witness for what a witness has done in preparing to give evidence or giving evidence except as permitted by this Tariff." It is therefore submitted that for all the experts, no amount should be granted for the purposes of preparation and it would also be unreasonable to allow it considering the expert report would not involve a lawyer and is the exclusive jurisdiction of the expert. It is also submitted that the expert, even if retained and paid by the parties, is primarily on the case to advise the Court. Preparing the expert's testimony and then requiring the bankrupt party to reimburse the costs would undermine his independence.
+[8] Counsel for the appellants therefore claims that certain amounts in the invoice of expert Bernard Brodeur should not be allowed because it is essentially preparation. The October 24, 2005, invoice indicates work by Mr. Brodeur related to preparation: analysis of reports and review of documentation. The invoices of April 1 and 7, 2006, refer to time spent consulting and reviewing and for trial preparation, as is the case with the September 28, 2006, invoice regarding hours claimed for consultation and review of questions. As for the invoices of April 5 and May 2, 2006, the expert services claimed are related to court preparation and testimony.
+[9] The billing for expert Roger H. Kennett indicates 51.5 hours for travel, review of material and reports and his presence in court. Considering the six hours in court, counsel for the appellants asks that no money be granted for the remainder.
+[10] In regard to the invoices submitted by US expert James W. Hoag for his testimony on Brazil's financial economy in 1985-1986, counsel for the appellants submits that it was actually testimony with very similar findings as that of expert William R. Cline. The Honourable Justice Angers refers to the testimony of these two experts in his conclusions. Discussing the reasonableness of their costs, counsel for the appellants notes that expert Hoag claimed $750 an hour whereas expert Cline only claimed $400 an hour for testifying on essentially the same issues. He admits that the respondent should be compensated for a certain amount, but reasonably: $750 an hour would be $350 an hour too much. A reasonable amount should be around $400 an hour.
+Another point raised about expert Hoag involves the number of hours spent on preparation work; noting that the 500 hours to prepare two reports and 30 hours to write the response report are excessive, unjustified and unsubstantiated. According to counsel for the appellants, one third of the 135 hours should be retained as a reasonable amount. Additionally, the 40 hours requested for preparation for the trial should not be granted, nor the hours claimed for post-trial discussions, because it has no relation to the progress of the case.
+[11] As for expert William Cline, it is requested that the preparation time on the August 2, 2005 (8 hours), September 8, 2005 (8 hours), March 25, 2006 (25 hours) and April 22, 2006 (2.5 hours) invoices not be allowed. It is also requested that the preparation time on the April 22, 2006, invoice as a reimbursement of the travel time and work with the lawyers, not be allowed.
+[12] As for the witness Robert Mason, counsel for the appellants notes that he was not called as an expert witness despite the fact he testified on some scientific research issues. As a result, the billing submitted for document review and meetings and conversations with the respondent, in addition to the preparation for testimony including his fees for travelling between the UK and Canada should not be taxed. Under Tariff A of the Tax Court of Canada Rules, he should only be entitled to the amount set out in subsection 4(1), $75 a day. It was also submitted that this witness, as with the other two witnesses in this case, could have testified by videoconference. The appellants should not have to pay for his expenses or preparation time.
+[13] In view of section 154 of the Tax Court of Canada Rules (General Procedure), according to counsel for the appellants, another issue must be taken into consideration, namely the financial impact the requested costs would have on the appellants compared to the financial impact the payment of such costs would have on the Government of Canada's Consolidated Revenue Fund.
+RESPONDENT'S ARGUMENTS
+[14] Counsel for the respondent states that contrary to the appellants' allegations, the costs claimed by the respondent were necessary and reasonable in the circumstances and the significance of the amounts at stake is an essential criterion. In reference to the affidavit of Guy Laperrière in support of the bill of costs, it was noted that the amount of disallowed costs would total $70 million and the amounts in question would represent approximately $19.5 million at this stage of the proceedings.
+[15] Counsel for the respondent submits that in consideration of the amount in question, the complexity of the scientific, financial and economic issues that must be resolved before the Court, the expert evidence was essential and actual costs were incurred. The respondent also claims that the rates charged are in accordance with the market rates for this type of expertise and that the criteria at rule 154 of the Tax Court of Canada Rules are met.
+[16] The scientific expertise was to be used to determine the type of activity and whether it was research and development. If so, the production cost of the product (monoclonal antibodies) would be more costly than if it had been one of the company's main activities. In support of this argument, the two parties produced experts with differing opinions: the appellants arguing that the production of a monoclonal antibody cost around $1.75 million whereas, in rebuttal, the evidence of the respondent's experts (Michael V. Norgard, Ph.D., Roger H. Kennett, Ph.D. and Bernard Brodeur, Ph.D.) put this production at $100,000. Reference was made to paragraph 142 of the decision by Angers J. and his conclusions regarding the witnesses' submissions:
+In view of these considerations, I can only conclude that the evidence does not support the Appellants' argument that the price paid in the case at bar was reasonable having regard to the circumstances. In my opinion, the Appellants have not met their onus of proof. Their expert's evidence was strongly discredited by the Respondent's experts and during cross‑examination.
+The respondent also noted the Federal Court of Appeal reasons for judgment in the appeal against the decision by Angers J. (2009 CAF 48) at paragraphs 50 and 51:
+50. Even if the appeal is allowed in part to give effect to the respondent's consent to judgment, one fact remains. The appellants did not discontinue their appeals. They attempted, but without success, to have SR&ED expenditures of more than 143 million Canadian dollars acknowledged. They are liable for the costs they incurred on appeal in the pursuit of this objective that goes far beyond the consent to judgment.
+51. As far as the costs of the three experts who testified for the respondent before the Tax Court of Canada are concerned, I am of the opinion that it is not appropriate to grant the appellants' request to be exempted from their payment. The appellants had experts testify on matters concerning research undertaken by CMRA and CMRA 2. In these circumstances, expert evidence by the respondent became necessary for all intents and purposes. In addition, this evidence was useful for the determination of the issue.
+[17] As for the costs for a fourth scientific expert, Dr. Louis Visantin, it was noted that he did not have to testify at the hearing but he allegedly visited with Dr. Brodeur in England and signed expert reports in 1987 and 1988. Despite his presence at the hearing, the similarity between the testimony of Drs. Brodeur and Visantin was agreed upon, thereby eliminating Dr. Visantin's further presence in court. In support of the claim for a witness who would have been excused from testifying, the respondent refers to the decision by Taxing Officer Reeve at paragraph 14 of Buddy L. Consultants Ltd. v. Canada, 2000 DTC 2157. In that decision, the costs incurred to compensate a witness who did not have to testify because another witness present at the hearing could were deemed necessary and reasonable considering the evidence submitted in support of the claim and the circumstances of the case.
+[18] In regard to witness preparation, counsel for the respondent claims that the witness preparation fees are allowable. In support of this argument, he refers to D. W Matheson & Sons Contracting Ltd v. Canada, (2000) N.S.J. No. 96, which states: "The key question then is not whether the Rules and the Tariff confer such a discretion to make an allowance for preparation time; they clearly do. The question is whether the discretion should be exercised."
+[19] In regard to the economic and financial experts, the respondent stated that Dr. Hoag was qualified by the court and his mandate was to put into perspective or refute some of the opinions submitted by Dr. Williamson, the economic expert the appellants called to testify. On this, in its reasons for judgment, the court stated at paragraphs 88 and 96:
+88. Dr. James Hoag was called as an expert in financial economics. He was a professor of economics at several U.S. universities. He taught Ph.D.-level courses in Brazil. His plentiful work experience in finance included a position as a consultant to Brazil's Rio de Janeiro stock exchange.
+96. I found Dr. Hoag to be the most credible, relevant and impartial witness during his testimony.
+According to the respondent, the testimony given by Dr. Hoag, an expert in financial economics, differed from that of Dr. Cline in that Dr. Cline was an expert in macroeconomics. The purpose of their testimony was therefore different. Guy Laperrière's sworn statement in support of the bill of costs states the following, at paragraphs 33 and 34:
+[translation]
+33. I feel that Dr. Hoag's testimony was necessary, in particular on the subject of inflationary expectations for Brazilian markets and the devaluation of Brazilian currency. I felt his testimony on the value of Brazilian money and the normal business practices for operations involving Brazilian currency invaluable.
+34. In its judgment, the Tax Court of Canada relied on Dr. Hoag's opinion that the Brazilian money CMRA and CMRA 2 underwrote for Coral had zero value. In its reasons, the Court also referred to Dr. Hoag's testimony about normal practices in operations involving Brazilian currency.
+[20] It seems that Dr. Cline's fees were for expert reports about CMRA and CMRA2, the counter-expertise report (Dr. Williamson) and his preparation for trial. The following information about Dr. Cline can be found in Guy Laperrière's sworn statement at paragraphs 41 and 42:
+[translation]
+41. In seeking out Dr. Cline's deposition in these cases, I felt that it would include a plus value and would complete the expert report by the financial economist James W. Hoag, PhD. In particular, the main reports by Dr. Cline on CMRA and CMRA2 provided a detailed and chronological description of the measures the Brazilian government of the time took to control inflation and the market reaction to them. Moreover, I felt it was useful to include as evidence the long-term provisions regarding inflation, as found in the economic magazine Latin American Outlook in the 1980s by Dr. Cline.
+42. The Tax Court of Canada decision makes note of Dr. Cline's PhD in economics, his publications about the Brazilian economy and his professional activities in Brazil. The judgment also refers to the main testimony Dr. Cline provided about the value of Brazilian money and on the fact that the lack of indexation and the stated interest rate of Brazilian currency was not normal business practice.
+[21] In response to the appellant's comments that Dr. Hoag's number of hours billed and his hourly rate were excessive and unreasonable, counsel for the respondent relied on Canada Trustco Mortgage Company v. Canada, 2007 TCC 500. In that case also, counsel for the respondent noted that counsel for the appellants had not explained why the number of hours billed was unreasonable and what a reasonable and appropriate hourly rate might be. There is no evidence from a similar expert with a different rate. Dr. Cline's rates are not comparable, as the respondent suggested, because his expertise was in macroeconomics.
+In the above-noted decision, Taxing Officer Ritchie states, at paragraph 18:
+The charges claimed for the services of the expert witness must be found to be both essential for the conduct of the proceeding and reasonable.
+At paragraph 26, he adds:
+Any attempt to strike a reasonable balance will be to a large extent arbitrary and subjective. However, in the absence of conclusive arguments by the two parties with respect to appropriate rates, I see no alternative.
+[22] As for Allan Wiener, accounting expert, the fees claimed were for the preparation of a lead expert report and his preparation for and presence at the trial to refute the testimony of the accounting expert called by the appellant, among other things.
+[23] Regarding Robert J. Mason's testimony, the respondent felt his presence before the Tax Court of Canada was necessary. On this, we find the following statements in Guy Laperrière's affidavit in support of the respondent's bill of costs:
+[translation]
+86. In 1985 and 1986, Mr. Mason was an employee at Coral assigned to the CMRA2 work on obtaining monoclonal antibodies against human leukocyte antigens.
+87. I found Mr. Mason's presence at the Tax Court of Canada hearing necessary to establish the authenticity of more than 100 documents, of which he had knowledge and had given copies to Revenue Canada representatives in 1987 or 1988, during the audit carried out by Revenue Canada in Coral's former offices in England.
+88. During the preparation work of the Beaudry et al. case for the Tax Court of Canada hearing, the respondent attempted to have the appellants authenticate the documents noted above in my sworn statement. On September 2, 2004, the respondent sent counsel for the appellants a notice to admit, requesting in particular, that the appellants admit that more than 100 documents listed in the notice were certified copies of the company Coral's internal documents or correspondence, on work undertaken by Coral on behalf of CMRA2. These notices to admit were at Nos. 482 and 483 of the September 2, 2004, notice to admit addressed to the firm Ogilvy Renault.
+89. On September 30, 2004, counsel for the appellants refused to admit the authenticity of various documents, including the documents listed at Nos. 482 and 482 of the respondent's notice to admit, for the following reasons:
+The documents described at these numbers are either incomplete, unsigned or of unknown origin and the appellants would have reason to argue as to their relevance and admissibility as evidence. Lastly, some of these documents are found at documents I-716 et seq. of the respondent's amended list of documents, which was not in the appellants' possession at the time the reply to the notice to admit was produced. (Emphasis of the deponent)
+90. The documents covered by the notices to admit Nos. 482 and 483 include numbers I-183 to I-705 and were not those described in the appellants' reply to the notice to admit as those the appellants did not have in their possession at the time the reply to the notice to admit was produced.
+91. To prepare his opinion about CMRA2, the respondent sent Dr. Roger H. Kennett, Ph.D. the documents described in the September 2, 2004, notices to admit Nos. 482 and 482 [sic]. I then felt it was necessary to have Robert Masson testify to identify these documents, in particular to support he factual basis of Dr. Kennett's opinion, which addressed the qualification of CMRA2's work as scientific research and the reasonable cost of obtaining monoclonal antibodies against human leukocyte antigens.
+On the payments to Mr. Mason, Mr. Laperrière stated that a copy of the document, "Statement Regarding Witness Fees, Schedule II, Tariff A" dated April 6, 2006, was submitted to the registrar that day, but returned because the submission was premature.
+[24] In regard to the other disbursements claimed, the photocopying costs were argued by the parties. In reference to Gestion Louma Inc. v. The Queen, 2010 TCC 61, the appellants asked that the photocopying costs be reimbursed at the rate of twenty cents per copy.
+In reply, the respondent indicated that in support of its bill of costs, she produced all the documentary evidence related to the photocopies made and submits that the total amount claimed for photocopying costs was $15,080 and by dividing that amount by 20¢ a copy as suggested, it would represent around 75,000 copies; in fact, this would only be part of the costs incurred. As mentioned in the written arguments, [translation] "the respondent's file includes 76 boxes of archived documents…For example, the respondent's list of documents alone has more than 700 documents in six boxes."
+In response, counsel for the appellants indicates that having a copy, even when warranted, does not make it necessary. Relying on page 6 of the respondent's reply, he stated that the list supplied seems fairly reliable and inclusive of the documents for which copies were essential for the conduct of the proceeding, namely the transcription of the interrogations, the list of documents, exhibits, procedure books, motions and evidence. These documents would justify 44,000 copies at 20¢ per page for a total of $8,800.
+[25] Arguments were also made during the taxation hearing for the breakdown of the amounts to be granted for costs; counsel for the appellants Yves Beaudry, Oleg Romar, David Elkins, James Bullock and Raphael Evanson asked that a decision be made per client, with a proportional determination of the specific amount to be paid by each. On this, two of the appellants asked that the amounts be broken down considering their respective situations, settlement offers made and the significance of each of the amounts in question on a pro rata basis. In the case of Mr. Beaudry, this would mean a pro rata on $279,000 of the $19,042,743 in question, or the equivalent of 1.467%, meaning he would only have to pay 1.467% of the costs rather than the one-eighth suggested by the respondent.
+The respondent had suggested that the breakdown be in equal parts among the appellants.
+DECISION
+[26] Section 154 if the Tax Court of Canada Rules determines the powers conferred on the taxing officer regarding discretion to grant costs:
+Where party and party costs are to be taxed, the taxing officer shall tax and allow the costs in accordance with Schedule II, Tariff B and the officer shall consider:
+(a) the amounts in issue,
+(b) the importance of the issues,
+(c) the complexity of the issues,
+(d) the volume of work, and
+(e) any other matter that the Court has directed the taxing officer to consider.
+[27] After considering the Court records, the Honourable Justice Angers' reasons for decision and the parties' arguments, I am of the view that the case between the parties in this case was complex, the amounts involved very substantial and the volume of work considerable.
+During the hearing before the Tax Court of Canada, the respondent presented the following expert witnesses:
+Scientific experts: Michael V. Norgard, Ph.D.
+Roger H. Kennett, Ph.D.
+Bernard Brodeur, Ph.D.
+Economics experts: James W Hoag, Ph.D.
+William R. Cline, Ph.D.
+Accounting experts: Allan Wiener, FCA
+Bernard Brodeur, Ph.D., Michael V. Norgard, Ph.D. and Roger H. Kennett, Ph.D. were called by the respondent as experts on scientific research and experimental development issues. The case law is well settled: the costs involved for preparing and drafting expert reports are recoverable when used during the trial. The reports of the above-noted experts were produced and are in the Court records.
+In consideration for the role these experts had during the trial before the Honourable Justice Angers and the comments in his decision regarding their expert testimony, it is clear that the Court found their reports and expertise essential in this case. In support thereof, I will reproduce paragraph 66 of the Court decision where the Honourable Justice Angers wrote, after analyzing the testimony of the experts Brodeur, Norgard and Kennett:
+Based on the evidence adduced by the respondent, I am unable to conclude, on a balance of probabilities, that Coral's activities in relation to CMRA or CMRA1 had scientific content. Thus, I find that Coral's work for CMRA and CMRA2 did not truly constitute SR&ED.
+Paragraphs 50 and 51 of the Federal Court of Appeal judgment (2009 FCA 48), reproduced above, also confirm that.
+In the light of subsection 1(2) of Tariff B of the Tax Court of Canada Rules (General Procedure), I find that the disbursements required for these experts were essential to the proceedings.
+[28] Once the contribution of these experts is determined to be essential, a determination must be made as to whether the billing of their services—hourly rates, number of hours charged for their presence in court and for preparing and drafting their reports—was reasonable.
+MICHAEL V. NORGARD: In support of the hours claimed, the respondent produced two invoices listing the services rendered. The 22 hours claimed for consultation and revision of prior reports and to prepare the court report were not challenged by the appellants and are considered reasonable. These hours are therefore allowed. Moreover, the hours submitted in the month preceding his testimony in court for communications with the respondent, review of notes and preparation for testimony are not allowed because they are not directly related to the preparation and drafting of the report or his presence in court. On this, see taxing officer Richie's ruling in Canada Trustco Mortgage Company v. Canada, 2007 TCC 500 at paragraph 31:
+I agree with counsel for the Respondent that some of the charges claimed by Ms. McIntosh are not directly related to the preparation of her report or her attendance at trial in the context of a taxation of costs hearing. A total of 43 hours was charged for work done prior to her attendance at trial. Preparatory meetings, comments on various documents, taking of notes – these may be helpful to the Appellant but are not directly related to the drafting of the report. I will allow 20 hours for the preparation of the report.
+Finally, although already reduced by contract to 30 hours, the invoice submitted for 58.5 hours for Dr. Norgard's testimony in court on April 5, from 11:00 a.m. to April 7 at 9:30 a.m., is reduced to eight hours for his actual availability and presence in court on April 7.
+Dr. Norgard's hourly rate is not challenged by the appellants and there is no evidence to indicate his hourly rate is unreasonable. Dr. Norgard's fees will therefore be taxed at US$15,000 (CAN$17,194.66)
+ROGER H. KENNETT: The billing for Dr. Kennett submitted in support of the bill of costs was not challenged by the appellant except for the hours requested for the period including his testimony in court (phase 3). Details of this billing indicated that he billed 39 hours for his trip to Montreal for the trial. This number of hours would include, in addition to travel time, the reviewing of material and reports for the purpose of his testimony. In consideration of my findings regarding the preparation for witness Norgard, and for the time actually spent in court on April 7, eight hours will be granted. Costs claimed for preparing and drafting his report are granted as requested. Dr. Kennett's hourly rate was not challenged and there is no evidence to show that the hourly rate was unreasonable. His fees will therefore be taxed at US$26,950 (CAN$31,174.34).
+BERNARD BRODEUR Ph.D.: Mr. Brodeur's hourly rate was not challenged and is considered reasonable. In support of the number of hours claimed, the respondent produced detailed invoices that establish, with relative accuracy, the work performed. In consideration of my findings regarding witness Norgard's preparation time, costs of $8,475 will be allowed specifically for the analysis work required to prepare the report, modifications and revisions. Considering the actual time Mr. Brodeur was in court during the hearing of the trial, I reduced the number of hours claimed to 16 for a sub-total of $2,400. Dr. Brodeur's fees are therefore taxed at $10,875.
+[29] For scientific research and experimental development issues, a fourth expert was present during the hearing before the Tax Court of Canada but, as admitted by the parties, he was not required to testify because his testimony would have been the same as Dr. Brodeur's. The experts' report signed by Drs. Brodeur and Visentin was submitted to the court record during the hearing. In support of this claim, the respondent cited the following cases on experts who did not testify, but whose costs were considered recoverable: Buddy L. Consultants Ltd. v. Canada (2000) T.C.J. No.354, RMM Canadian Enterprises Inc. v. Equilease Corporation 97 DTC 420 and Carr v. Canada (1996) F.C.J. No. 527.
+In view of paragraph 31 of Canada Trustco Mortgage Company v. Canada, 2007 TCC 500, the billing submitted in support of this claim dated April 5, 2006, for services rendered between March 1 and 30, 2006, does not clearly establish that the work was related to the preparation or drafting of the expert report; moreover, the report in the court records is dated April 18, 1988. Therefore I can hardly grant an amount based on the billing as submitted. However, considering his presence in court, Dr. Visentin's travel and accommodation fees are allowed.
+[30] The respondent called Allan Wiener to testify; this accounting expert was asked to speak about generally accepted accounting principles relevant to research and development costs. In particular, his testimony was offered in refutation of the testimony of the appellant's expert. At paragraphs 119, 120 and 121 of the Tax Court of Canada decision, the Honourable Justice Angers relied on Mr. Wiener's testimony and accepted the concepts he presented. The appellants did not challenge the contribution this witness made to the case.
+Mr. Wiener's first invoice, enclosed with the bill of costs, specifically refers to the preparation of his expert report. It is not challenged and I have no evidence to indicate that the costs claimed are unreasonable. This first amount of $22,300 will therefore be granted as requested. Then there is another invoice for $7,798 dated April 5, 2006, for services rendered to prepare for court and a last invoice for services rendered in April 2006 to prepare for and testify in court. The billing Mr. Wiener submitted is not detailed and there is no evidence establishing his hourly rate. Moreover, the number of hours and the details of the work performed were not indicated in any of the documents submitted. Considering the date the expert report was completed, I doubt the April 5 billing was in regard to his preparation or drafting. As for the last invoice submitted for preparation for and presence in court, dated May 2, 2006, it is possible to use the minutes of the trial to establish that Mr. Wiener's testimony took place over two days, but no more. I cannot accept the appellants' suggestion that the last amount should be reduced to zero because I am of the view that the services this expert witness rendered were essential for the conduct of the proceeding. With no evidence about the hourly rate and no submissions about it from the parties, I must therefore impose an arbitrary and subjective measure. I will therefore allow $4,000 for the May 2, 2006, invoice. Dr. Wiener's fees will be taxed at $26,300.
+[31] Two economics experts were called to testify in this case: James W Hoag, Ph.D. and William R. Cline, Ph.D. The usefulness of their testimony was admitted by both parties, but the reasonableness of Dr. Hoag's fees was strongly challenged by the appellants.
+[32] James Hoag produced expert reports and counter-expertise about the financial aspect of CMRA and CMRA2. Before the court, he testified as a financial economics expert. The court reviewed Dr. Hoag's testimony at paragraphs 88 to 96 of its decision and concludes at paragraph 96:
+I found Dr. Hoag to be the most credible, relevant and impartial witness during his testimony. Based on the data obtained in regard to the issue of the depreciation of Brazil's currency, it is difficult to believe that the Appellants would not have known, in 1985 and 1986, that the currency would depreciate to such an extent that it would cost them nothing to pay the notes seven to ten years later. In my opinion, it was easy to predict that hyperinflation would continue, along with the depreciation of Brazil's currency.
+Dr. Hoag spent a total of 216 hours on this work at an hourly rate of US$710.
+During the taxation, counsel for the appellants submitted that Dr. Hoag's billing was completely unreasonable on two grounds: (1) the hourly rate of US$750.00 that does not compare to the US$400.00 Dr. Cline charged and (2) the number of hours spent preparing reports.
+It is undeniable that Dr. Hoag's hourly rate does not compare to Dr. Cline's hourly rate, even if these two witnesses essentially testified on similar issues. However, having read the Court's reasons for judgment and the expert reports, I cannot find that Drs. Hoag and Cline testified on these issues from the same perspective. The Court recognized and relied on the two testimonies in its decision, but seemed to grant more credibility to Dr. Hoag's testimony.
+Therefore, I consider the services of these two expert witnesses to have been essential for the conduct of this proceeding. Regarding the reasonableness of Dr. Hoag's hourly rate, the parties did not submit any comparison of market rates for experts in this field of expertise, except for Dr. Cline's hourly rate. I must therefore assume that the hourly rates of these two experts represent the current market rates for expert services in this field. Without questioning the quality of Dr. Hoag's expertise, I do however feel that the rate charged for his services was rather high in comparison to that of Dr. Cline. In view of taxing officer Ritchie's decision in Canada Trustco Mortgage Company v. Canada 2007 TCC 500 at paragraph 26:
+Any attempt to strike a reasonable balance will be to a large extent arbitrary and subjective. However, in the absence of conclusive arguments by the two parties with respect to appropriate rates, I see no alternative.
+I would reduce Dr. Hoag's hourly rate to US$550.00 considering the unsuccessful party should only be required to reimburse reasonable costs.
+I have no reason to doubt Guy Laperrière's affidavit regarding the billing submitted by expert Hoag in support of the respondent's bill of costs and the hours this expert spent preparing expert reports and response reports; I will therefore allow the 135 hours claimed for report preparation. However, the 40 hours submitted for preparation for trial and the 7¾ hours for post-trial discussions will not be allowed. As my colleague Ritchie stated in the above-noted case at paragraph 31: "these may be helpful to the Appellant but are not directly related to the drafting of the report."
+Considering this expert's actual time spent in court on April 10 and 11, 2006, the hours claimed for his presence at the trial were reduced to 19.75 hours. Dr. Hoag's fees will therefore be taxed at US$81,950.00 (CAN$94,782.20).
+[33] The appellant did not present any arguments regarding the reasonableness of Dr. Cline's hourly rate. Counsel however reviewed all the billing submitted regarding the number of hours charged and the work carried out.
+I had the opportunity to review the invoices submitted by Dr. Cline and I am of the view that the invoices of August 2, 2005, and September 8, 2005, October 10, 2005, and November 1, 2005, in support of time devoted to the reviewing of the prior reports and the preparation of an opinion in response to the Williamson report must be reimbursed. The 25 hours claimed on the March 25, 2006, invoice were challenged by the appellants in terms of preparation for the reply to the questioning, the analysis of the Williamson report and preparation for the reply to the second Williamson report. The invoice does not show the time spent on each of the items and no argument was submitted. However, I am of the view that the time devoted to the preparation of the reply to the second Williamson report must be compensated and, with no other evidence, I will grant five hours. The April 22, 2006, invoice will be reduced to the number of hours that Dr. Cline's presence was required in court on April 10, 2006. In that respect, I will abide by my comments as to all the other experts called to testify whereby costs for travel time and presence in court were reduced to be a more accurate reflection of the actual time. Dr. Cline's costs will therefore be allowed in the amount of US$20,000 (CAN$23,468.26).
+[34] The respondent claims $13,216 for Robert Mason's professional services pursuant to subsection 4(2) of Tariff A of the Tax Court of Canada Rules (General Procedure):
+(2) The party who arranges for the attendance of a witness may pay such witness, in lieu of the amount prescribed by subsection 4(1) of this Tariff a larger reasonable amount for attending as witness in that proceeding, but he must, forthwith after he makes such payment, or makes payment of the excess of the amount over the amount provided for in subsection 4(1) of this Tariff, file in the Court Office a statement of that payment and of the way in which he satisfied himself as to the amount payable under this subsection.
+As set out in subsection 4(2), the respondent attempted to produce a document to the court registrar on April 6, 2006 entitled "Statement regarding witness fees" including a statement by Guy Laperrière about payments made to Mr. Mason supported by the professional services contract binding Mr. Mason to the respondent. As attested to by the court stamp on the document enclosed with Guy Laperrière's affidavit, it is clear this document was received at the registry. I am therefore satisfied that the first condition of subsection 4(2) is met.
+Considering the statement by Guy Laperrière reproduced at paragraph 23 of this decision, I am of the view that the presence of Mr. Mason was necessary to identify the documents of which he had knowledge, following the appellant's refusal to recognize the authenticity of more than 100 documents in support of the factual basis of the opinion of expert Roger H. Kennett, Ph.D.
+Now, it remains to be determined whether the costs incurred were reasonable. The professional services contract enclosed with Guy Laperrière's statement clearly sets out Mr. Mason's mandate and duties. The invoices Mr. Mason submitted reproduce the costs covered in the agreement almost exactly.
+My interpretation of subsection 4(2), in particular this portion: "… a larger reasonable amount for attending as witness in that proceeding" leads me to find that the only costs incurred by the witness for his presence in court were covered. As a result, I allow, as provided in the contract duly paid by the respondent, Mr. Mason's travel fees and his time in court on April 6, 2006, in the amount of $7,209.
+[35] As stated in paragraph 23 of this decision, the costs incurred for photocopying documents were challenged by the appellants. As I noted in Gestion Louma Inc. at paragraph 14: "With respect to the photocopying and faxing costs, one principle remains: the costs incurred must be related to the proceedings associated with the dispute before the Court." It is understood that the number of copies made in this case and justified by the respondent were genuine, even though the respondent did not provide any details regarding the documents that were copied, when this information would have been very useful for determining whether the copies were essential or necessary. As counsel for the appellants noted, [translation] "having a copy, even when justified, does not make it essential". I had the opportunity to consult all the Court records in this case and I am of the view that the supporting documentation provided by the respondent for this claim do not enable me to clearly identify the copied documents. As a result, considering the evidence, documents in the Court records, the copies required for submission to the registry and for service, I consider the amount of $10,000 to be reasonable for photocopying costs.
+[36] In regard to the other disbursements claimed: transcription fees of shorthand notes, messenger service, service fees, access to Internet search tool fees for witness research and transportation and accommodation fees for the expert witnesses and witnesses Michel Pagé and Ghislaine Mathieu, they are considered essential costs for the conduct of this case and, with no challenges, they will be allowed, as claimed in the bill of costs minus the amount for goods and services tax.
+[37] Counsel for the appellants noted during the taxation hearing that the taxing officer should consider the financial impact that will be borne by the appellants. The case law on the subject is very well settled: Earth Fund/Fond pour la terre v. M.N.R., 2004 D.T.C. 6140 and Bowland v. The Queen, 2003 DTC 5538. As a result, I cannot consider this argument.
+[38] As for arguments on the breakdown of the costs, it is not disputed that the appeals were heard on common evidence and the Honourable Justice Angers rendered a decision for each case, accompanied by common reasons for judgement for all the cases; each judgment allowed costs to the respondent. I am very sympathetic to the situation the appellants presented during the taxation but with no specific directive from the Court, I am not satisfied that I have the necessary breakdown to distribute costs other than in equal parts. On this, I will cite Mrkalj et al. v. The Queen, 2009 TCC 637, in which taxing officer Tanasychuk stated at paragraphs 7 and 8:
+[7] Mr. MacPhee referred to the decision of the Taxing Officer in Mungiovi v. Her Majesty the Queen, [unreported T.C.C. Docket No. 97-2223(IT)G, December 5, 2000], which was contrary to the position he put forward on this taxation. In that decision, the Taxing Officer held that unless the Court ordered that each Appellant on an appeal heard on common evidence was jointly and severally liable for the total costs, then each Appellant was only liable for a proportionate share.
+[8] Following the decision in Mungiovi, I will apportion the costs equally between the two Appellants.
+[39] The respondent's bill of costs is taxed and allowed in the amount of $276,479.71. Eight certificates will be issued as follows:
+Docket No.
+Appellant
+Amount
+2000-2049(IT)G
+Yves Beaudry
+$34,559.96
+2000-2026(IT)G
+James Bullock
+$34,559.96
+2000-2039(IT)G
+Christopher Herten‑Graeven
+$34,559.96
+2000-2044(IT)G
+Raphael Evanson
+$34,559.96
+2000-2045(IT)G
+Oleg Romar
+$34,559.96
+2000-2056(IT)G
+Martin Tyler
+$34,559.96
+2000-2069(IT)G
+Davis Elkins
+$34,559.96
+2000-1189(IT)G
+James W. McClintock, executor of the estate of John P. McClintock
+$34,559.96
+Signed at Toronto, Ontario, this 12th day of July 2010.
+"Johanne Parent"
+Taxing Officer
+Translation certified true
+on this 18th day of November 2010.
+François Brunet. Revisor

@@ -1,0 +1,265 @@
+---
+title: "Yao v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520908/index.do"
+last_modified: "2022-02-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 23"
+citation2: ""
+neutral_citation: "2022 TCC 23"
+decision_date: "2022-02-23"
+language: "en"
+item_id: "520908"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4444
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:37:36.079000+00:00"
+cases_cited_count: 15
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1dd55232cb9f367930f705a8ace8f67899609b28c969fafb0bd226d2bff96970"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Yao v. The Queen
+
+- Citation: 2022 TCC 23
+- Decision date: 2022-02-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4444, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yao v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-02-23
+Neutral citation
+2022 TCC 23
+File numbers
+2018-1471(IT)I, 2020-1041(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-1471(IT)I
+BETWEEN:
+YUSHAN YAO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+INCOME SECURITY ADVOCACY CENTRE,
+Intervenor,
+Docket: 2020-1041(IT)G
+AND BETWEEN:
+NING JING ZHANG
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+INCOME SECURITY ADVOCACY CENTRE,
+Intervenor.
+Oral and written submissions concerning a voir dire heard and received on December 16-17, 2021 at Toronto, Ontario.
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Alexander Cobb
+Andrew Boyd
+Graeme Rotrand
+Jin Chien
+Counsel for the Respondent:
+Arnold Bornstein
+Alexander Hinds
+Counsel for the Intervenor:
+Nabila Qureshi Anu Bakshi
+ORDER
+UPON HEARING oral submissions and receiving written representations on a voir dire concerning the admissibility of certain expert reports;
+AND WHEREAS the Court has published its reasons for order on this date;
+NOW THEREFORE THIS COURT ORDERS THAT:
+1. The affidavits of Luin Goldring and Leslie Roos comprising their respective expert reports are admissible and shall be received by the Court in their entirety subject to the usual and customary rights of cross-examination by the Respondent;
+2. The affidavit of Geraldine Sadoway is not admissible as expert evidence; and,
+3. Given the mixed result, costs on this voir dire motion shall follow the cause.
+Signed at Ottawa, Canada, this 23rd day of February, 2022.
+“R.S. Bocock”
+Bocock J.
+Citation: 2022 TCC 23
+Date: 20220223
+Docket: 2018-1471(IT)I
+BETWEEN:
+YUSHAN YAO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+INCOME SECURITY ADVOCACY CENTRE,
+Intervenor,
+Docket: 2020-1041(IT)G
+AND BETWEEN:
+NING JING ZHANG
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+INCOME SECURITY ADVOCACY CENTRE,
+Intervenor.
+REASONS FOR ORDER
+Bocock J.
+I. INTRODUCTION
+a) Respondent challenges admissibility of certain expert reports
+[1] These reasons for order relate to the admissibility of certain expert reports in relation to the constitutional challenge within the Appellants’ appeals.
+[2] The Appellants seek to introduce the reports of 3 experts:
+Professor Luin Goldring (“Prof. Goldring”), a sociologist;
+Professor Leslie Roos (“Prof. Roos”), a psychologist; and,
+Ms. Geraldine Sadoway (“Ms. Sadoway”), an immigration lawyer licenced to practice in Ontario.
+[3] The Respondent seeks the removal of certain portions of the Goldring and Roos reports and the exclusion of the entire Sadoway report. The details of the bases for these challenges are contained in the reasons below.
+b) Nature and context of constitutional challenge
+[4] The Appellants’ appeals concern the Minister’s determination that each failed to qualify for the Canada Child Tax Benefit or latterly the Child Tax Benefit (“CCB”). The Minister denied the CCB by determining the Appellants were not temporary residents within the meaning and for the purposes of section 122.6 of the Income Tax Act, RSC 1985, c.1, as amended (the “ITA”). The Minister concludes refugee claimants are not temporary residents. The primary ground in bringing these appeals is that the Minister is incorrect legally and factually in that determination.
+[5] The alternative ground for appeal is that the determination, even if otherwise legally correct under section 122.6 of the ITA, violates and infringes the Appellants’ constitutional rights under section 7 (right to life, liberty and security of the person) and/or section 15 (transgression of a prohibitive ground of discrimination) within the Canadian Charter of Rights and Freedoms (the “Charter”). The context of the alleged section 15 violation, through unlawful discrimination against an identifiable group, informs the need for expert evidence. The relevant social context related to the identifiable group is the milieu within which courts are required to hear from such experts when determining whether a violation of Charter rights has occurred. [1]
+[6] The Court will review the challenges concerning admissibility of the reports by separating them in two parts throughout these reasons: (i) the Prof. Roos and Prof. Goldring reports; and (ii) the Ms. Sadoway reports. This is consistent with the method for submissions followed by the parties and the hearing of same by the Court.
+II. THE PARTIES’ SPECIFIC SUBMISSIONS
+[7] A summary of the specific written and oral submissions of the parties follow. The Intervenor made no submissions, either oral or written.
+a) The Goldring and Roos reports
+(i) Respondent
+[8] Parts of the expert reports refer to specific immigration statuses and processes that are different from that of the Appellants. For example, undocumented migrants are distinct from refugee claimants. These sections of the Roos and Goldring reports do not meet threshold admissibility. A Charter challenge is decided in light of the impact on the Appellants, qua refugee claimants, not another or broader class of newcomers arriving in Canada. The impact on people in different circumstances is irrelevant to the impact on the Appellants.
+[9] Sections of the expert reports refer generally to newcomers with “precarious legal status”. This is a broad and ill-defined “amorphous concept”. Even if loosely relevant, the Court should exercise its gatekeeping function to exclude this information. Its admission will prejudice the Respondent, cause confusion, and unduly lengthen the trial.
+[10] Lastly, even at this stage of a voir dire motion, the Court should reject the assertion that the Appellants, as refugee claimants, are “temporary residents”. Otherwise the Appellants will be “able to present a lot of irrelevant evidence about temporary residents”. The Court is bound by the Federal Court of Appeal’s binding precedent in Almadhoun. [2] The case has determined that the refugee claimants are not temporary residents.
+(ii) Appellant
+[11] The Appellants suffered discrimination because of their precarious legal status, so general information about this group is relevant. There is little research narrowly specific to refugee claimants, so it is necessary to use research on different but related groups with similar struggles. The Respondent improperly speculates that such a broader group evidence is irrelevant. The experts will explain the connections between these groups before the Court. The Court is free to reject or minimize that nexus, but needs to hear the submissions.
+[12] Substantive issues should not be decided at this stage of the trial. The Respondent conflates the merit and suasion of the legal argument with the relevance of the evidence.
+b) The Sadoway report
+(i) Respondent
+[13] The Sadoway report is inadmissible in its entirety because it offers legal opinions on domestic law, anecdotal evidence which at best is factual, not expert and is biased toward the Appellants. The report thereby fails to satisfy the Tax Court of Canada Rules (General Procedure) and specifically paragraph 145(2)(c) and related from 145(2) governing the required independence, impartiality and objectivity of expert witnesses.
+(ii) Appellant
+[14] Ms. Sadoway gives necessary and relevant information about how the immigration regime works in practice, not mere legal opinion or argument. Her professional opinion is not anecdotal evidence. The Respondent’s assertion of bias is unfounded. The testimony is relevant to the plight and discrimination by the legislation against refugee claimants, mostly from marginalized and racialized communities.
+III. THE APPLICABLE LAW: FRAMEWORK FOR ADMISSIBILITY OF EXPERT EVIDENCE
+[15] The two-step test for determining expert evidence admissibility was initially articulated by the Supreme Court of Canada (“Supreme Court”) in Mohan.
+[16] It was subsequently clarified in White Burgess [3] and may be summarized below:
+1. Threshold admissibility: This step consists of four questions: is the evidence logically relevant; is it necessary to assist the trier of fact; are there other exclusionary rules; and is the expert properly qualified.
+2. Gatekeeper function / Residual discretion to exclude: This step is a cost-benefit analysis of the help and harm of the evidence. Does the probative value outweigh potential prejudice, confusion, and prolonged court time? This can be thought of as an application of the general exclusionary rule. [4]
+[17] Relevancy at the initial threshold step is a low hurdle. The question is whether the evidence makes “the existence or non‑existence of a fact in issue more or less likely than it would be without that evidence,” and judged “as a matter of human experience and logic”. [5] Evidence that does not meet this threshold is strictly inadmissible.
+[18] Subsequent to admitting any such evidence, the trier of fact can ultimately decide how much weight to give the expert opinion by considering its probative value after the evidence is admitted and heard. [6]
+[19] Frequently referred to singularly as the “Mohan test”, reference to it as the “Mohan/White Burgess test” seems more appropriate. White Burgess is the leading Supreme Court case on expert opinion and lays out the test clearly and succinctly. [7]
+IV. ANALYSIS
+a) Professors Goldring and Roos Reports
+Preliminary issue
+[20] In written submissions, the Respondent essentially asked the Court to reject at this voir dire stage the legal argument concerning the primary ground in the appeals that the Appellants are temporary residents. Otherwise, the Appellants would be “able to present a lot of irrelevant evidence about temporary residents”. The Respondent de‑emphasized this argument to the point of scant mention during oral submissions.
+[21] As the Court plainly stated during submissions, making this determination is dispositive to the first issue at trial. It is also premature. A voir dire motion on expert evidence admissibility is not the appropriate forum to dispense with a substantive issue (unrelated to the challenged expert evidence), in such an indirect, off‑hand manner. This preliminary view still holds despite all factual evidence concerning this primary ground of appeal having been heard to date by the Court. However, the Court has requested and will receive submissions on this “non‑constitutional” basis for the appeals. Once reviewed, the Court may change its mind and decide the “non‑constitutional” question in advance, but it is unlikely.
+Admissibility of the Goldring and Roos Reports
+[22] Both the Goldring and Roos reports discuss the concept of “precarious legal status” (also referred to as “precarious immigration status”). The Appellants, as refugee claimants, fall generically within this larger group. To suggest otherwise defies simple logic and etymology. The reports also discuss other precarious legal status sub‑groups consisting of people who enter Canada through an immigration/entry pathway (“different pathway groups”) that are different from that of the Appellants, such as undocumented migrants or international students.
+Applying the Mohan/White Burgess test:
+Step 1: Threshold Admissibility
+[23] The Appellants correctly assert that social science evidence is materially important in Charter cases. This is abundantly clear from the authorities. Briefly, the test for a prima facie violation of section 15 is twofold: [8]
+1) Does the law create a distinction based on an enumerated or analogous ground?
+2) Does the distinction create a disadvantage by perpetuating prejudice or stereotyping?
+[24] For the first step of the section 15 analysis, the Appellants assert that immigration status is an analogous ground, which the Respondent denies. To be successful, the Appellants must show that immigration status is constructively immutable [9] ; for constructive immutability, general social science evidence about immigration is logically relevant, including evidence about different pathway groups with precarious legal statuses, even when both Appellants are more narrowly only refugee claimants.
+[25] Precarious legal status generally is also logically relevant to the second step of the section 15 analysis. The parties appear to agree that the Appellants must demonstrate (among other things) that they, as refugee claimants, are members of a “disadvantaged group” against which the impugned legislation draws a distinction. However, the scope of this ‘disadvantaged group’ is disputed. The Appellants plead that they were treated differently because of their precarious legal status. The Respondent replies that this is too broad: their treatment was based on their status as refugee claimants. The very inquiry in considering the evidence, at least partially, determines the scope of the group. The Court is required to make such an inquiry and determination.
+[26] The relevancy of evidence regarding different pathway groups is not as obvious. The Respondent takes the position that these different groups have different experiences, stressors, and access to services than do the Appellants, and so discussion of different pathway groups is irrelevant. More convincing is the Appellants’ assertion that the Respondent should not be deciding whether experiences of other groups can or cannot be extrapolated to make conclusions about the Appellants’ ‘disadvantaged group.’ Rather, the experts should do this. Once they do, the Court, based upon the proximity and degree of nexus, will assess and assign the interpretive weight. A preliminary decision as to whether different pathway groups and refugee claimants share commonalities as a disadvantaged group needs to be made. That decision comes first, and expert evidence is needed to make it. The Court will hear it.
+[27] Finally, the Appellants note that they have also pleaded arguments relating to section 7 of the Charter, the intersectionality of race and gender, and Canada’s international convention commitments. It is to be remembered that a broad range of social science evidence may be relevant to any of these arguments. It is premature to exclude the expert evidence that will provide the Court with the social science context as it relates to these additional grounds pleaded.
+Step 2: Gatekeeping / Residual Discretion
+The second step of the Mohan/White Burgess test: probative value vs. prejudicial effects.
+[28] The Respondent asserts that the concept of precarious legal status is too broad and ill‑defined to be probative, and should therefore be excluded. The Appellants note that the concept of precarious legal status is not novel or arbitrary, as evidenced by the experts’ curriculum vitae; this concept has been studied for many years. Further, even without public interest standing, broad evidence can be admitted in Charter cases. The claimants in Bedford had private interest standing to challenge prostitution laws, yet the court accepted a wide range of evidence regarding prostitution more generally. [10]
+[29] The probative value of evidence regarding different pathway groups may be more tenuous. The Respondent asserts that while evidence regarding different pathway groups may have theoretical relevance, the experts do not sufficiently draw a nexus between those groups and the Appellants. The ability to claim the CCB is highly dependent on immigration status: different pathway groups have different eligibilities. Clarifying its relevancy at trial will require extensive cross-examination, lengthening the trial and causing confusion. The Court is required to take its gatekeeping role seriously, and should not simply admit evidence that meets the threshold but would be given little weight. [11]
+[30] The Appellants assert that concerns regarding the experts’ methodology should be addressed in cross-examination or by bringing an expert to testify to the contrary. It is speculation to say that the experience of other groups is too different to be probative, that question is within the purview of experts, not counsel. The Court should not guess at the probative value of the research before hearing the testimony. The experts are able to look at the available data across different groups and acknowledge the complexities and inter-relations of those groups.
+[31] Ultimately, the Court errs on the side of caution in order to not prejudge probative value. For instance, Prof. Roos’ discussion regarding undocumented pregnant women arguably gives helpful context regarding the intersection between gender and immigration status (discrimination on the basis of sex is pleaded). Further, Prof. Goldring’s discussion on temporary workers leads to a broader assertion: “once a person has had a precarious status in any form, they are more likely to have greater employment precarity in the future.”
+[32] Paragraphs 30 and 28 of the Goldring report could arguably be excluded. As a judge alone in a Charter case context, it is doubtful the inclusion of these two paragraphs will cause great prejudice or waste time. Pruning the affidavit may pare the greater context. Confronted with a similar situation, the Nova Scotia Court of Appeal in Trinity Western reasoned: [12]
+The elements of argument contained in both involve the kind of prejudice that can be minimized by acknowledging them for what they are. They are not a subtle attempt to slip an argument past the gatekeeper, hidden in an expert opinion. In the context of an expert report on legislative or social facts latitude can be given to allow the entire report to become a part of the record. Editing of the reports, in the absence of some more significant prejudicial effects being shown, could result in a loss of some of the full context that may be required both for understanding of the report as a whole and assessing the weight to be given to its conclusions.
+[33] Excluding journal articles (unless the article appears solely in an inadmissible paragraph) should be viewed hesitantly. These complete bibliographical accuracy. The expertise to determine if these are relevant or probative before hearing the testimony fails to acknowledge the efficacy of hearing that very evidence prior to assigning probative heft and weight. After hearing the evidence, if inapplicable, superfluous or tangential, no or little value will be assigned by the combined and singular trier of fact and law.
+[34] Information about precarious legal status is certainly probative enough to be admissible. Some parts of the Goldring and Roos reports that discuss different pathway groups might otherwise attract the Court’s gatekeeping role. However, the reports, overall, provide helpful social science background; any further relevancy or applicability will wait until the assessment of the evidence as a whole.
+b) Ms. Sadoway’s report
+[35] Ms. Sadoway’s report was bi‑sected in submissions by counsel: paragraphs 5 to 9 comprised a legislative history and context concerning various federal statutes; and, paragraphs 10 to 14 represented observation evidence on wait times, durations and pathways for refugee determination. Ms. Sadoway is an Ontario lawyer practising in immigration law.
+Paragraphs 5 to 7
+[36] The Respondent asserts that paragraphs 5 to 9 are legislative history; it is “trite law” that legal opinion testimony on domestic law is inadmissible. [13] The Appellants reply that Ms. Sadoway is not opining on law to decide the ultimate issue before the court. Instead, her illustration of how the immigration scheme functions provides necessary and relevant context for the trier of fact.
+[37] The Appellants cite R v Boule as authority that lawyers can offer expert opinion regarding “how a legislative regime operates on the ground.” [14] In Boule, the accused was charged with crimes under the Immigration and Refugee Protection Act, SC 2001, c. 27 (“IRPA”) and the Criminal Code related to smuggling foreign nationals into Canada. [15] The accused challenged the offense and penal provisions as violations of his section 7 Charter rights. The trial judge admitted expert testimony from a practicing immigration lawyer relating to the “operation of immigration policy and practice,” including “the policies and practices available to cure or rectify a loss of legal status.” [16] Within the voir dire decision the Court said: [17]
+Evidence about the proper interpretation of a legislative regime is inadmissible because it is legal argument. If it goes to the ultimate issue, it should be treated with great caution. However, to the extent that the evidence animates the court's understanding of how a legislative regime operates on the ground, it is admissible and helpful.
+[38] The trial judge limited his reliance on the expert evidence to “helpful background information” about the complex immigration scheme. [18] Contextually and importantly, Boule was a criminal trial in provincial court. In criminal cases, the Court is “cautious in restricting the ability of an accused to call evidence in their defence.” [19]
+Paragraphs 10 to 14
+[39] The Respondent asserts that paragraphs 10 to 14 should be excluded at this gatekeeping stage; large portions of these paragraphs describe how long different claimants wait for a refugee determination. This is not necessary information: lay witnesses have already testified about this at length, and the fact refugee claims may take a long time is not particularly contentious. Further, information about the plight of individuals with precarious legal status with respect to finding work and supporting themselves and their families is already discussed in great detail in other expert reports admissible and scheduled before the Court.
+V. APPLYING THE MOHAN/WHITE BURGESS TEST
+[40] Although not framed as such by either the Appellants or the Respondent, the issue of whether expert legal opinion is admissible is elementally a question of necessity, whether the legal opinion “is necessary to enable a judge, as a trier of fact, to appreciate the matters in issue due to their technical nature.” [20] An expert opinion should be information that is outside the experience or knowledge of the judge. While not true in the areas of natural, applied or social science, judges, in theory at least, are already legal experts; so an expert witness’ legal opinion will not usually be necessary and should be excluded at the threshold step, being prong three of the Mohan/White Burgess test. [21]
+[41] Paragraphs 5 to 9 of the Sadoway report are purely legislative history. Prima facie, they read like a usual written submission the Court is likely to receive at the conclusion of this trial. As examples, Ms. Sadoway’s report references Supreme Court cases, regulations, and a “Regulatory Impact Analysis Statement” published in the Canada Gazette. Without exception, these may be cited by the Appellants in submissions as interpretive legal texts in aid of the determination of the issue, all without the need of a “legal” expert. These paragraphs do not approximate expert knowledge or opinion in the areas of natural, applied or social sciences otherwise unfamiliar to or necessary to assist the trier of fact.
+[42] Boule is distinguishable and not binding or pervasive authority on this Court. Although not entirely clear from the law report, in Boule, the accused’s own section 7 rights were before the Court in the context of his alleged illegal criminal conduct and consequent penal sanction. Presumably, the evidence of the expert was vital to establishing best practices, codes of behaviour and/or the customary steps taken by Mr. Boule per se, to protect the rights of immigrants. This is not unlike leading legal practitioners in professional negligence cases testifying to establish before the Court the baseline threshold for professional standards or practice. In Boule, it was Mr. Boule’s actions that were on trial. In short, the argued “necessitated” actions of the accused, per se, were before the Court. At best, in this appeal, the actions of the Appellants are derivative; it is their plight as marginalized refugee claimants, not as agents/advocates/activists themselves charged with criminal offences. This is all to say that Canada (BIE) is more applicable and proximate authority than Boule in this appeal and to this Court.
+[43] Although a description about other types of individuals with precarious legal status could be relevant (as described in the Goldring and Roos reports), the Court’s ‘gatekeeping’ function to exclude should be engaged concerning the Sadoway report. The overall necessity and probative value of the topic as evidence from a lawyer is low relative to the time and cost of having an additional expert testify on topics already covered in the context of social science rather than anecdotal but potentially helpful recollections of a member of the bar.
+[44] More characteristically, if Ms. Sadoway appears before the Court because of her superlative knowledge in an area of domestic immigration law, she may do so as a lawyer from the lecturn beside the counsel table and not as an expert in the witness box.
+VI. CONCLUSION
+[45] For the reasons stated the Goldring and Roos reports are admissible in their entirety. The Sadoway report is excluded. Given the mixed results, costs on this voir dire shall follow the cause.
+Signed at Ottawa, Canada, this 23rd day of February 2022.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2022 TCC 23
+COURT FILE NO.:
+2018-1471(IT)I; 2020-1041(IT)G
+STYLE OF CAUSE:
+YUSHAN YAO AND HER MAJESTY THE QUEEN AND INCOME SECURITY ADVOCACY CENTRE; NING JING ZHANG AND HER MAJESTY THE QUEEN AND INCOME SECURITY ADVOCACY CENTRE
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 16-17, 2021
+REASONS FOR ORDER BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF ORDER:
+February 23, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Alexander Cobb Andrew Boyd Graeme Rotrand Jin Chien
+Counsel for the Respondent:
+Arnold Bornstein Alexander Hinds
+Counsel for the Intervenor:
+Nabila Gureshi Anu Bakshi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Alexander Cobb
+Firm:
+Osler, Hoskin & Harcourt LLP
+100 King Street West
+1 First Canadian Place
+Suite 6200, P.O. Box 50
+Toronto, Ontario M5X 1B8lank
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Fraser v Canada (AG), 2020 SCC 28 at paragraph 57 [“Fraser”].
+[2] Almadhoun v Canada, 2018 FCA 112 at paragraphs 18-21.
+[3] R v Mohan, 1994 SCC 80 at paragraphs 19-24 [“Mohan”]; White Burgess Langille Inman v Abbott and Haliburton Co, 2015 SCC 23 at paragraphs 23-24 [“White Burgess”].
+[4] R v Bingley, 2017 SCC 12 at paragraph 16.
+[5] R v Abbey, 2009 ONCA 624 at paragraph 82; adopted by the Supreme Court of Canada [“SCC”] in White Burgess, 2015 SCC 23 at paragraph 23.
+[6] Glenn Anderson, Expert Evidence, third edition, (LexisNexis, 2014) at 640; citing R v Khelawon, 2006 SCC 57 and R v K(A), [1999] OJ No 3280 (ONCA).
+[7] See Bingley, at paragraph 13.
+[8] R v Kapp, 2008 SCC 41 at paragraph 17; Fraser at paragraph 27.
+[9] Corbiere v Canada, [1999] 2 SCR 203, at paragraph 13.
+[10] Bedford v Canada (AG), 2013 SCC 72 at paragraph 15.
+[11] R v J-LJ, 2000 SCC 51 at paragraph 28.
+[12] Trinity Western University v Nova Scotia Barristers’ Society, 2014 NSSC 395 at paragraphs 19, 60.
+[13] Syrek v Canada, 2009 FCA 53 at paragraphs 28-30.
+[14] R v Boule, 2020 BCSC 1493 at paragraph 11 (voir dire on expert admissibility) [“Boule voir dire”].
+[15] R v Boule, 2020 BCSC 1846, (decision on the ultimate issue) [“Boule Trial”].
+[16] Boule Trial at paragraphs 11-12.
+[17] Boule voir dire at paragraph 11.
+[18] Boule Trial at paragraphs 11-12.
+[19] Boule Trial at paragraph 34.
+[20] Canada (Board of Internal Economy) v Canada (AG), 2017 FCA 43 at paragraph 23 [“ Canada (BIE)”].
+[21] Canada (BIE)) at paragraph 18, citing Mohan at paragraph 24.

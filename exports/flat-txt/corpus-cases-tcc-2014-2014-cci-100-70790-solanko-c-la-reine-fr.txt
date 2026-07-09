@@ -1,0 +1,117 @@
+Title: Solanko c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/70790/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-100-70790-solanko-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-03-28
+
+# Solanko c. La Reine
+
+- Citation: 2014 CCI 100
+- Decision date: 2014-03-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5331, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Solanko c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-03-28
+Référence neutre
+2014 CCI 100
+Numéro de dossier
+2012-4095(GST)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-4095(GST)I
+ENTRE :
+JOSEPH SOLANKO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appel entendu le 13 mars 2014, à Hamilton (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Jan Jensen
+____________________________________________________________________
+JUGEMENT
+La Cour ordonne que l’appel interjeté à l’encontre d’une cotisation établie au titre de la Loi sur la taxe d’accise au moyen d’un avis daté du 8 avril 2011 soit rejeté. Chaque partie assumera ses propres frais.
+Signé à Toronto (Ontario), ce 28e jour de mars 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 12e jour de mai 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2014 CCI 100
+Date : 20140328
+Dossier : 2012-4095(GST)I
+ENTRE :
+JOSEPH SOLANKO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Woods
+[1] Le présent appel porte sur la décision de refuser à Joseph Solanko le remboursement relatif à l’habitation construite par soi‑même prévu au paragraphe 256(2) de la Loi sur la taxe d’accise (la « LTA »).
+[2] L’intimée affirme que la demande de remboursement a été refusée à juste titre, parce que l’habitation n’a pas été construite pour servir de résidence habituelle. L’intimée avance aussi que la demande de remboursement a été présentée longtemps après l’expiration du délai de deux ans qui est prévu au paragraphe 256(3) de la LTA.
+[3] M. Solanko soutient qu’il a été mal informé quant aux exigences concernant la demande et qu’il serait équitable de lui accorder le remboursement de la taxe, étant donné qu’il est un contribuable honnête et travailleur depuis de nombreuses années.
+Analyse
+[4] J’examine d’abord les arguments de M. Solanko qui sont fondés sur des considérations d’équité.
+[5] Il est bien établi par une jurisprudence de longue date que la Cour ne peut pas accorder de redressement uniquement pour des motifs d’équité. Le législateur a le mandat d’édicter des lois régissant la taxe sur les produits et services, et, si ces lois ne permettent pas qu’un remboursement soit accordé dans la situation de M. Solanko, la Cour doit rejeter l’appel sans égard à la question de savoir si le résultat est dur. Même si M. Solanko avait été mal informé par l’Agence du revenu du Canada, cela ne constitue pas un fondement pour accorder le remboursement si la loi ne le prévoit pas.
+[6] Je me penche maintenant sur l’argument de l’intimée selon lequel le bien n’a pas été construit pour servir de résidence habituelle.
+[7] L’exigence concernant la résidence est énoncée à l’alinéa 256(2)a) de la LTA. Voici les passages pertinents de cette disposition :
+256(2) Remboursement – habitation construite par soi‑même
+Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+a) le particulier, lui-même ou par un intermédiaire, construit un immeuble d’habitation — immeuble d’habitation à logement unique ou logement en copropriété — ou y fait des rénovations majeures, pour qu’il lui serve de résidence habituelle ou serve ainsi à son proche ;
+[…]
+Le montant remboursable est égal au montant obtenu par la formule suivante :
+[…]
+[8] Les faits ne sont pas contestés. En 2002, M. Solanko a construit une maison dans l’intention qu’elle lui serve de résidence habituelle à sa retraite. À ce moment‑là, M. Solanko vivait à Toronto et travaillait à la Toronto Transit Commission. Il prévoyait prendre sa retraite en 2010. La maison nouvellement construite était située à Ayton, en Ontario, un endroit qui se trouve à environ 170 kilomètres de Toronto.
+[9] Depuis la construction de l’habitation d’Ayton jusqu’à la retraite de M. Solanko, celui‑ci habitait dans la maison familiale de Toronto durant les jours de semaine et se rendait à Ayton la fin de semaine.
+[10] Après son départ à la retraite en 2010, M. Solanko a commencé à vivre à Ayton à temps plein. Toutefois, son épouse a continué à résider dans la maison familiale à Toronto afin de rester près de sa mère âgée. Elle vit toujours à Toronto.
+[11] La Cour est appelée à trancher la question de savoir si M. Solanko satisfait à l’exigence légale selon laquelle l’habitation située à Ayton a été construite pour servir de résidence habituelle à M. Solanko. Je tiens à souligner que la loi n’exige pas que l’habitation nouvellement construite serve immédiatement de résidence habituelle. Cependant, l’habitation doit être construite aux fins de cette utilisation.
+[12] À mon avis, si j’accorde le remboursement en l’espèce, il s’agirait d’une interprétation à outrance de la disposition concernant le remboursement, qui irait au‑delà de ce que le législateur a envisagé. J’admets que, lorsque M. Solanko a construit la résidence d’Ayton, il avait à l’esprit le fait qu’elle lui servirait de résidence habituelle à sa retraite qu’il prévoyait prendre dans les huit ans qui suivaient. Toutefois, au moment de la construction, la retraite était un événement éloigné. C’était essentiellement de la spéculation de la part de M. Solanko quant à ce que serait sa situation en 2010.
+[13] En outre, il est peu probable que le législateur ait eu à l’esprit que des personnes puissent demander le remboursement en fonction de déclarations intéressées quant à leurs intentions dans un futur éloigné. L’exigence énoncée dans la loi selon laquelle l’habitation doit être construite pour servir de résidence habituelle envisage l’existence chez le contribuable d’une intention que le bien serve de résidence habituelle dans un moment plus proche de celui de la construction qu’en l’espèce.
+[14] Je conclus que l’appel doit être rejeté pour ce motif.
+[15] Compte tenu de la conclusion ci‑dessus, je n’ai pas l’intention d’examiner le second argument de l’intimée selon lequel la demande de remboursement a été faite hors délai. La question n’est pas nettement tranchée, parce que M. Solanko avait initialement présenté la demande de remboursement avant le délai de deux ans.
+Signé à Toronto (Ontario), ce 28e jour de mars 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 12e jour de mai 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE : 2014 CCI 100
+No DU DOSSIER DE LA COUR : 2012-4095(GST)I
+INTITULÉ : JOSEPH SOLANKO c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 13 mars 2014
+MOTIFS DU JUGEMENT : L’honorable juge Judith Woods
+DATE DU JUGEMENT : Le 28 mars 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Jan Jensen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

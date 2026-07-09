@@ -1,0 +1,556 @@
+Title: Kang c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/100776/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-18-100776-kang-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-01-27
+
+# Kang c. La Reine
+
+- Citation: 2015 CCI 18
+- Decision date: 2015-01-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2773, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kang c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-01-27
+Référence neutre
+2015 CCI 18
+Numéro de dossier
+2010-3913(IT)G, 2010-3915(IT)G, 2010-3917(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2010-3913(IT)G
+2010-3915(IT)G
+2010-3917(IT)G
+ENTRE :
+CHHANG ANG KANG,
+UY KEAK TANG,
+BIJOUTERIE YONG MEER INC.,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appels entendus sur preuve commune le 30 mai 2013, le 31 mai 2013 (par voie de conférence téléphonique) et du 20 au 24 janvier 2014, à Montréal (Québec).
+Devant : L’honorable juge Alain Tardif
+Comparutions :
+Avocats des appelants :
+Me Jean-Francois Poulin
+Me Marie-Hélène Tremblay
+Avocat de l’intimée :
+Me Vlad Zolia
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu sont accueillis en ce que les dossiers devront faire l’objet de nouvelles cotisations en tenant pour acquis que les revenus non déclarés sont établis comme suit :
+a) L’appelante, Bijouterie Yong Meer inc. (dossier 2010-3917(IT)G), pour l’exercice financier terminé le 31 mars 2007 : 1 357 969 $;
+b) L’appelant Tang (dossier 2010-3915(IT)G), pour l’année d’imposition 2007 : 893 918,50 $;
+c) L’appelant Kang (dossier 2010-3913(IT)G), pour l’année d’imposition 2007 : 817 097,50 $.
+Quant aux pénalités, elles sont justifiées et, conséquemment, confirmées; elles devront toutefois être modifiées en fonction des montants établis comme n’ayant pas été déclarés.
+Le tout, avec dépens en faveur de l’intimée, lesquels devront être toutefois établis en fonction de deux dossiers seulement, c’est-à-dire les dépens équivalant à un seul dossier pour les deux appelants, Chhang Ang Kang (2010-3913(IT)G) et Uy Keak Tang (2010-3915(IT)G), et à un second pour ce qui a trait au dossier de l’appelante, Bijouterie Yong Meer inc. (2010-3917(IT)G).
+Signé à Ottawa, Canada, ce 27e jour de janvier 2015.
+« Alain Tardif »
+Juge Tardif
+Référence : 2015 CCI 18
+Date : 20150127
+Dossiers : 2010-3913(IT)G
+2010-3915(IT)G
+2010-3917(IT)G
+ENTRE :
+CHHANG ANG KANG,
+UY KEAK TANG,
+BIJOUTERIE YONG MEER INC.,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit de trois appels qui ont fait l’objet d’une preuve commune à la demande des parties. Les faits à l’origine des avis de cotisation sont relativement simples et peu nombreux.
+[2] Les deux appelants sont d’origine cambodgienne. Tous deux sont arrivés au Canada au début des années 1980; la guerre dans leur pays d’origine mettant leur sécurité en péril, ils ont immigré au Canada.
+[3] À leur arrivée au Canada, tous deux ne connaissaient ni la langue ni la culture canadienne. À des dates différentes, ils se sont établis dans la grande région de Montréal avec leur famille respective.
+[4] Travailleurs acharnés, ils se sont investis totalement dans un travail mal rémunéré; très centrés sur leur famille et le vouloir de travailler le plus d’heures possible, ils ont rapidement acquis des patrimoines qui leur ont permis d’améliorer considérablement leur sort, notamment par l’acquisition d’une résidence.
+[5] Outre ces qualités, les appelants et leurs épouses se sont avérés des personnes audacieuses et déterminées en devenant rapidement eux-mêmes des entrepreneurs dans des secteurs d’activités économiques relativement difficiles, c’est-à-dire dans la confection de divers vêtements. Plus tard, impatients quant à l’évolution de leur patrimoine, ils ont fait des investissements en exploitant des entreprises très rentables, mais illégales, soit le blanchiment d’argent par l’entremise de bureaux de change.
+[6] Il y a lieu de faire la chronologie au fil des ans à partir de leur arrivée au Canada jusqu’à l’année 2007, année à l’origine des cotisations dont il est fait appel.
+1980 à 2006 [7] M. Kang a immigré au Canada avec sa famille le 16 janvier 1980.
+[8] M. Tang a immigré au Canada au mois d’octobre 1980.
+[9] L’épouse de M. Tang, Shu Xian Zhang, a rejoint son époux en 1987.
+[10] En 1984, à peine quatre ans après leur arrivée au Canada, une société dont le nom était Création Yong Ang Meer fut créée; ladite société, dont la vocation était la fabrication de vêtements, fut exploitée jusqu’en 1989.
+[11] En 1989, la société 171283 Canada inc. fut créée; la raison sociale était Mode NSTD et sa vocation consistait essentiellement à poursuivre les opérations manufacturières de Création Yong Ang Meer constituée en 1984. Cette société fut en opération de 1989 à 1996.
+[12] Le 28 janvier 1997, les appelants Kang et Tang créaient une nouvelle société dont le nom était Bijouterie Yong Meer inc. (la « Bijouterie ») et la vocation était le commerce des bijoux, notamment les diamants.
+[13] Dans le cadre de la création de cette nouvelle entité juridique, les appelants investirent chacun 120 000 $, provenant de leurs économies respectives.
+[14] Une partie des locaux de la Bijouterie a vite été aménagée en bureau de change pour satisfaire l’intérêt de M. Tang pour ce genre d’activités économiques très lucratives, mais illégales, lorsque les transactions effectuées incluent le blanchiment d’argent.
+[15] De profonds désaccords surgissent rapidement entre les appelants, les deux seuls actionnaires de la Bijouterie; le tout s’est traduit par une rupture faisant en sorte que l’association a duré un peu plus de trois mois.
+[16] Le 15 mai 1997, soit quelques mois après la création de la société qui exploitait la Bijouterie, M. Tang crée une nouvelle entité juridique, 3374335 Canada inc., connue et identifiée comme BCC, dont la vocation était essentiellement l’exploitation d’un bureau de change. Lors de la rupture, M. Tang a recouvré son investissement de 120 000 $ fait précédemment dans la Bijouterie.
+[17] Entre 1997 et 2002, les appelants Tang et Kang exploitaient l’entreprise dont ils détenaient la totalité des actions, soit la Bijouterie dans le cas de M. Kang et le bureau de change dans le cas de M. Tang, sous le même toit et à la même adresse, soit au 6951, rue St-Denis à Montréal.
+[18] En 2002, la discorde refait surface; M. Tang décide alors de poursuivre les activités de son bureau de change sur la rue Jean-Talon toujours par le biais de la société Saint-Denis BCC.
+[19] Suite au départ de M. Tang en 2002, M. Kang modifia à son tour la vocation de la Bijouterie en y ajoutant un bureau de change de sorte qu’à partir de 2002, les appelants Tang et Kang avaient chacun leur bureau de change; celui de M. Kang était situé sur la rue St-Denis, et celui de M. Tang, sur la rue Jean‑Talon.
+[20] Entre 2002 et 2006, MM. Tang et Kang ont exploité chacun leur propre entreprise, et ce, principalement comme détenteur d’un bureau de change.
+[21] En 2006, l’appelant Kang informe son beau-frère, l’appelant Tang, qu’il a décidé de prendre sa retraite. Le hasard aidant, le bail du bureau de M. Tang venant à expiration, les appelants s’entendent rapidement et M. Tang déménage son bureau de change situé sur la rue Jean-Talon dans les locaux de la Bijouterie où il y a déjà un bureau de change sur la rue St-Denis.
+[22] M. Tang achète la Bijouterie devenue principalement un bureau de change moyennant une considération de 300 000 $. Le vendeur de la Bijouterie, M. Kang, affirme qu’il y avait alors 300 000 $ comptant caché dans les locaux; l’acheteur, M. Tang, affirme de son côté avoir déménagé la somme de 300 000 $ à 350 000 $ en espèces à la Bijouterie en provenance du bureau sur Jean-Talon ou de la société Saint-Denis BCC.
+[23] À la suite d’une méga-enquête du Service de police de la ville de Montréal (« SPVM ») visant à répertorier tous les bureaux de change susceptibles d’œuvrer dans le commerce illégal du blanchiment d’argent, le bureau de change exploité dans les locaux de la Bijouterie fut ciblé comme potentiellement l’un de ceux qui oeuvraient dans le blanchiment d’argent à Montréal, les policiers ayant constaté qu’un trafiquant de drogue s’y rendait de façon périodique.
+[24] Après avoir constaté qu’il s’agissait possiblement d’un commerce illégal dont la vocation était, tout au moins en partie, le blanchiment d’argent, le SPVM a mandaté un agent d’infiltration pour y effectuer une enquête plus approfondie.
+[25] L’agent s’est rendu à plusieurs reprises pour y échanger des devises. De façon générale, les montants augmentaient de fois en fois.
+[26] À un moment donné, lors d’une transaction importante, l’agent a fait part aux appelants qu’il tentait de recruter des clients pour l’achat de drogue, le tout ayant pour effet d’augmenter son chiffre d’affaires et ainsi augmenter ses opérations de change. Le tout fut présenté comme pouvant s’avérer fort avantageux pour les deux parties; les appelants n’ont manifesté aucune désapprobation; par contre, ils n’ont fourni aucun nom de client potentiel.
+[27] À partir de cette offre et sollicitation pour de nouveaux clients à la recherche de drogue et devant une indifférence tacite, ou tout au moins totale, quant à la provenance des fonds que les appelants acceptaient de changer, les autorités du SPVM ont conclu que leurs soupçons s’avéraient validés et qu’il s’agissait désormais réellement d’un bureau de change qui agissait dans le commerce illégal du blanchiment d’argent.
+[28] Dès lors, le SPVM mit en place une opération policière d’envergure afin de colliger et de saisir tout ce qui pouvait servir à démontrer le bien-fondé d’accusations éventuelles en vertu du Code criminel du Canada relatives au blanchiment d’argent.
+[29] Le 17 avril 2007, l’agent se présente au lieu d’affaires des appelants sur la rue St-Denis pour y faire une transaction d’échange de devises de 800 000 $CAN correspondant à plus ou moins 690 000 $US.
+[30] L’appelant Tang lui fait part qu’il a besoin d’un dépôt de 20 000 $ et d’un délai d’environ trois heures pour lui permettre de réunir un tel montant en coupures de 100 $US.
+[31] L’agent quitte les lieux et, dans les minutes qui suivent, les appelants quittent également les lieux pour se rendre à tour de rôle à leur résidence personnelle respective.
+[32] Faisant l’objet d’une filature, les autorités policières sont en mesure de définir très précisément les heures, le trajet et la durée de chacun des appelants à leur résidence respective.
+[33] L’appelant Tang sort de chez lui avec un sac de plastique dans les mains dont la dimension est relativement petite alors que M. Kang n’a de son côté rien dans les mains en sortant de chez lui. Tous deux reviennent à la Bijouterie et l’agent d’infiltration s’y présente un peu plus tard pour finaliser la transaction de 800 000 $CAN en contrepartie de plus ou moins 690 000 $US.
+[34] Après la transaction et une fois l’agent sorti des lieux, soit avec les devises américaines de la Bijouterie où est situé le bureau de change, un grand nombre de policiers s’y présentent et procèdent aux saisies de tout ce qui leur apparaît utile pour le dépôt d’accusations criminelles possibles.
+[35] Lors de ces perquisitions, le 17 avril 2007, d’importantes sommes d’argent liquide furent saisies, le tout selon les détails suivants :
+A - Résidence de M. Kang
+339 500 $CAN
+39 530 $US
+TOTAL
+339 500 $CAN
+44 645 $CAN
+384 145 $CAN
+B – Résidence de M. Tang
+450 000 $CAN
+52 600 $US
+TOTAL
+450 000 $CAN
+59 406 $CAN
+509 406 $CAN
+C – Dans les locaux de la Bijouterie Yong Meer inc.
+61 840 $CAN
+703 422 $US
+18 700 EUROS
+TOTAL
+61 840 $CAN
+794 445 $CAN
+28 656 $CAN
+884 941 $CAN
+778 902 $CAN
+1 663 843 $CAN
+[36] Le montant de 884 941 $ ne tient pas compte d’un montant de 800 000 $CAN qui correspondait à l’argent remis aux appelants par l’agent d’infiltration.
+[37] Par contre, fut également saisie la contrepartie de la transaction effectuée par l’agent d’infiltration, soit 689 660 $US équivalant à 778 902 $CAN.
+[38] Conséquemment, la somme totale saisie dans les locaux de la Bijouterie se chiffre à 778 902 $ plus 884 941 $, ce qui totalise 1 663 843 $.
+[39] Au mois de février 2009, soit près de deux ans plus tard, l’Agence du revenu du Canada (« ARC ») est informée par le SPVM des sommes d’argent comptant saisies chez les trois appelants.
+[40] La vérificatrice, Micheline Bélanger, est alors mandatée pour effectuer les vérifications qui s’imposent pour déterminer, dans un premier temps, la provenance de ces montants d’argent substantiels et, dans un deuxième temps, décider s’il y a lieu d’établir de nouveaux avis de cotisation.
+[41] Dans le cadre de son investigation, Mme Bélanger essaie d’obtenir le maximum d’informations et de documents pour lui permettre de faire un travail judicieux et sérieux.
+[42] Outre le fait d’apprendre de la part des appelants que l’argent saisi provient exclusivement de l’accumulation de leurs économies personnelles et que l’argent saisi à la Bijouterie représente les revenus d’opération, elle ne réussit pas à obtenir quoi que ce soit qui soit de nature à lui permettre de faire le travail qu’elle aurait souhaité faire dans les circonstances.
+[43] Le ministre impose donc M. Tang sur les sommes saisies à son domicile, soit 509 406 $, ainsi qu’une partie des sommes saisies à la Bijouterie, soit 428 142,50 $.
+[44] Le ministre impose M. Kang sur les sommes saisies à son domicile, soit 384 145 $, ainsi qu’une partie des sommes saisies à la Bijouterie, soit 428 142,50 $.
+[45] Le ministre impose la Bijouterie sur les sommes saisies à son lieu d’affaires.
+[46] Le ministre impose les appelants pour l’année d’imposition 2007 puisque les années antérieures ne permettaient pas d’expliquer l’accumulation de ces sommes. À la suite de procédures criminelles relatives à des opérations de blanchiment d’argent, M. Tang a plaidé coupable à l’accusation de « recyclage des produits de la criminalité ». Il a accepté la confiscation de 422 053 $US par les autorités.
+PROPRIÉTÉ DES SOMMES SAISIES CHEZ M. KANG – 384 145 $ [47] M. Kang a commencé à travailler au Canada en 1981. La preuve et le témoignage de M. Kang permettent de conclure qu’il est arrivé au Canada sans aucun actif et qu’il n’a reçu aucun gain de loterie, ni de gain du casino, ni de dons ou d’héritage.
+[48] La seule source de revenus de M. Kang était son salaire. M. Kang n’a reçu aucun dividende.
+[49] Dans son avis d’opposition, M. Kang prétend, dans un premier temps, que les sommes saisies à son domicile appartiennent à la Bijouterie. Ensuite, M. Kang prétend qu’il s’agit plutôt d’économies qu’il a accumulées depuis son arrivée au Canada. Il reconnaît donc que ces sommes lui appartiennent.
+[50] Lors de l’audition, l’intimée a expliqué qu’il était impossible que M. Kang ait réussi à accumuler un tel montant de 384 145 $ depuis son arrivée au Canada.
+[51] Le revenu du couple Kang après impôt, accumulé depuis leur arrivée au Canada jusqu’en 2006, est de 1 010 566 $. Ce montant représente le revenu disponible pour le couple sans ne considérer aucune dépense.
+[52] En tenant pour acquis le montant de dépenses minimales établi par Statistique Canada pour deux personnes (sans considérer les deux filles de M. Kang), le solde disponible pour accumuler des biens est de 590 047 $.
+[53] Le couple aurait alors eu 590 047 $. Ils ont toutefois des dépenses s’élevant à 801 781 $ (selon les actifs accumulés et les investissements faits). De prime abord, il ne fait aucun sens que M. Kang ait pu dépenser plus que ce qu’il gagnait. En ajoutant l’argent saisi à son domicile, il y a alors un manque à gagner de 595 879 $.
+[54] Par ailleurs, M. Kang a témoigné à l’effet qu’il était retourné à plusieurs reprises au Cambodge ou en Chine avec sa femme entre 1980 et 2006. De telles dépenses n’ont pas été considérées par l’intimée (ce qui aurait augmenté le manque à gagner).
+[55] Les revenus gagnés et déclarés de M. Kang ne permettent donc pas d’expliquer et de comprendre comment M. Kang aurait réussi à faire des économies de 384 145 $ correspondant au montant saisi chez lui.
+PROPRIÉTÉ DES SOMMES SAISIES CHEZ M. TANG – 509 406 $ [56] M. Tang est arrivé au Canada en 1980 sans aucun actif. La preuve et le témoignage de M. Tang ont démontré qu’il n’a reçu aucun gain de loterie, ni du casino, ni de dons ou d’héritage.
+[57] M. Tang a affirmé à plusieurs reprises que les sommes saisies à son domicile représentaient des économies. Lors de son témoignage, il a également mentionné qu’il ne gardait pas d’argent appartenant à la société chez lui.
+[58] Lors de l’audition, l’intimée a expliqué qu’il était impossible que M. Tang ait réussi à accumuler un tel montant de 509 406 $ depuis son arrivée au Canada.
+[59] Le revenu du couple Tang après impôt, accumulé depuis leur arrivée au Canada jusqu’en 2006, est de 889 016 $. Ce montant représente le revenu déclaré et disponible pour le couple sans ne considérer aucune dépense de quelque nature que ce soit.
+[60] En considérant le montant de dépenses minimales établi par Statistique Canada, le solde disponible pour accumuler des biens est de 460 637 $.
+[61] Le couple aurait alors eu 460 637 $ alors qu’il avait des dépenses s’élevant à 570 128 $ (selon les actifs accumulés et les investissements faits). Il est donc impossible d’expliquer comment M. Tang a réussi à dépenser plus que ce qu’il gagnait. Le manque se chiffre à 109 491 $.
+[62] En ajoutant l’argent saisi au domicile de M. Tang, il y a un manque à gagner de 618 897 $. Il est donc totalement invraisemblable que M. Tang ait réussi à économiser une somme de 509 406 $.
+[63] De plus, la vérificatrice, Mme Bélanger, a expliqué avoir pris en compte des statistiques d’une part à l’avantage des appelants Tang et Kang, mais qu’elle avait en outre diminué de 20 % les montants établis par les statistiques pour tenir compte du très modeste coût de la vie des appelants selon ce qu’ils lui ont affirmé.
+PROPRIÉTÉ DES SOMMES SAISIES À LA BIJOUTERIE – 1 663 843 $ [64] Plusieurs explications ont été données pour justifier la provenance des sommes saisies à la Bijouterie.
+[65] Dans l’avis d’appel initial de la Bijouterie, il est fait référence à trois sources : des montants accumulés depuis la constitution en 1997, des montants avancés par les actionnaires (mais MM. Kang et Tang n’en font pas mention dans leur avis d’appel) et des montants qui proviendraient de la société Saint-Denis BCC, la compagnie 3374335 Canada inc.
+[66] Dans l’avis d’appel modifié de la Bijouterie, il est fait référence à des montants provenant d’emprunts auprès de tiers non identifiés qui n’ont pas témoigné ou qui n’ont pu être identifiés correctement. Ce qui est encore plus mystérieux, l’existence de ces trois emprunts totalisant 800 000 $US surgit pour la première fois le 6 janvier 2012; je crois important de rappeler que les saisies ont eu lieu le 17 avril 2007.
+[67] Lors de l’audition, les appelants ont mentionné que parmi les sommes saisies à la Bijouterie, seul un montant de 300 000 $ appartiendrait réellement à la Bijouterie. Selon leurs prétentions, environ 300 000 $ proviendraient de la société Saint-Denis BCC ou 3374335 Canada inc. et 800 000 $ étaient le fruit d’emprunts auprès de trois tiers inconnus.
+Revenus de la Bijouterie [68] Au cours des années 2005 à 2007, la Bijouterie a déclaré les revenus suivants :
+2005
+Revenu total
+Profit brut
+Profit net
+131 178 $
+66 639 $
+35 672 $
+2006
+Revenu total
+Profit brut
+Profit net
+117 451 $
+30 143 $
+2 090 $
+2007
+Revenu total
+Profit brut
+Profit net
+98 926 $
+16 020 $
+-17 097 $
+[69] Il est totalement impossible que la société identifiée par la Bijouterie ait pu accumuler des sommes de 1 000 000 $. Même l’accumulation d’une somme de 300 000 $ était impossible à partir des revenus déclarés pour les années d’imposition 2005 à 2007. L’entreprise faisait à peine un profit net. L’absence totale de cohérence n’est ni une perception ni une interprétation; elle découle essentiellement des explications des appelants eux-mêmes et de leur comptable.
+[70] La preuve a établi que les livres et les déclarations n’ont pas été tenus et faits d’une façon diligente et sérieuse. À titre d’exemple, les salaires versés par la Bijouterie ne concordent pas avec les salaires reçus par MM. Tang et Kang précisément pour l’année 2007 :
+Salaires déclarés par la Bijouterie
+Salaire reçu par Tang
+Salaire reçu par Kang
+2005
+61 954 $
+-
+62 400 $
+2006
+67 413 $
+-
+62 400 $
+2007
+66 429 $
+0 $
+15 600 $
+[71] De plus, MM. Tang et Kang n’ont reçu aucun dividende pour les années 2005 à 2007. La grande majorité des documents utiles, voire essentiels, relatifs à la gestion de la société qui exploitait la Bijouterie est incohérente, confuse, incomplète; chose certaine, ni les documents, ni les explications ne sont fiables ou crédibles.
+[72] Lors de la transaction avec l’agent d’infiltration en 2007, l’argent disponible selon le bilan de la Bijouterie se chiffrait à 342 224 $. Ce montant d’argent disponible a toutefois été pris en compte par l’intimée pour faire les ajustements nécessaires aux cotisations. Le montant de la cotisation à la Bijouterie a été diminué en conséquence.
+[73] Les revenus et les livres de la Bijouterie ne permettent pas cependant d’expliquer comment une somme de 1 663 843 $ aurait pu être accumulée.
+[74] Comme les appelants soutiennent qu’un montant de plus de 1 000 000 $ n’était pas la propriété de la Bijouterie, il y a lieu d’analyser si leurs explications quant aux montants respectifs de 800 000 $ et de 300 000 $ sont plausibles, rationnelles et crédibles.
+Prêts totalisant 800 000 $ de prêteurs inconnus [75] Concernant les prêts totalisant 800 000 $ provenant de trois prêteurs anonymes, M. Tang prétend avoir emprunté l’argent puisqu’il n’y avait pas suffisamment de coupures de 100 $US pour faire la transaction de 800 000 $CAN avec l’agent d’infiltration. Ces explications ont été mentionnées à plusieurs reprises par M. Tang. Ce dernier a affirmé qu’il y avait assez de liquidités à la Bijouterie pour effectuer la transaction de 800 000 $; par contre, il s’agissait en grande partie de billets dont la valeur était inférieure à 100 $.
+[76] MM. Tang et Kang se sont rendus chez eux avant de procéder à l’échange avec l’agent d’infiltration. M. Tang est ressorti avec un sac en papier blanc de six par huit; quant à M. Kang, il n’avait rien dans les mains. Il se pourrait que les appelants soient allés chercher les billets de 100 $US manquants; rien ne permet toutefois d’établir le montant possiblement transféré des résidences des appelants à la Bijouterie.
+[77] De son côté, l’appelant Tang a affirmé alors avoir initié les démarches auprès de trois tiers pour obtenir au moyen de trois prêts la somme requise de 800 000 $US, et ce, même si le montant requis était moindre du fait qu’il s’agissait de transférer 800 000 $ de devises canadiennes en devises américaines équivalant à plus de 100 000 $ de moins en devises américaines.
+[78] L’appelant Tang n’a pas été en mesure de donner le nom véritable des trois prêteurs, se limitant à des « nicknames ». Aucun papier ou document n’aurait été signé pour attester les prêts. Les prêteurs ne se seraient jamais manifestés pour contester la saisie de ce même argent ni pour réclamer leur dû dans les années qui ont suivi.
+[79] Les appelants ont soutenu n’avoir jamais remboursé quelque montant que ce soit; de leur côté, les prêteurs n’auraient jamais initié quelque procédure que ce soit pour recouvrer leur dû, et ce, au moment du procès, soit plus de sept ans après les prêts.
+[80] S’il s’était agi d’un montant dérisoire, il aurait été possible pour les appelants d’oublier de le mentionner lors des saisies. Par contre, compte tenu de l’importance du montant et surtout des conséquences fort significatives au niveau fiscal, la dénonciation quant à la propriété de ce montant aurait dû faire l’objet d’une dénonciation à cet effet dans les heures suivant les saisies.
+[81] Non seulement il n’en a rien été, mais de très longs délais se sont écoulés avant que l’explication ne surgisse; bien plus, les appelants ont été accompagnés par des juristes au lendemain des saisies et jamais il n’a été question de ce montant de 800 000 $ ayant des effets pourtant faramineux sur les cotisations.
+[82] L’existence de ces emprunts totalisant 800 000 $ a surgi quelque temps avant le procès, soit spécifiquement le 6 janvier 2012.
+[83] De plus, la preuve a démontré que les appelants n’avaient pas besoin de ces emprunts pour réaliser la transaction avec le policier; ils avaient l’argent.
+[84] Au lieu d’emprunter pour changer les devises, ils n’avaient qu’à échanger les petites coupures en coupures de 100 $ en leur possession de manière à satisfaire le client policier, l’agent d’infiltration.
+[85] L’appelant Tang a aussi affirmé avoir dû débourser plusieurs milliers de dollars pour ces emprunts. Quant à M. Kang, il ne semblait pas être au courant, lors de son interrogatoire préalable, de ces trois emprunts totalisant 800 000 $US.
+[86] Tel que mentionné par le tribunal séance tenante, les explications quant aux trois prêts totalisant 800 000 $ pour justifier une partie importante de l’argent saisi dans les locaux de la Bijouterie ne sont ni crédibles, ni raisonnables.
+[87] Dans leur avis d’appel, les appelants soutiennent être des personnes très économes au point de conserver leurs économies à la maison pour éviter les frais de banque et les coûts d’essence pour s’y rendre.
+[88] Il est difficile sinon impossible de concilier une telle préoccupation de réduire au minimum certaines dépenses marginales avec les frais prohibitifs que les appelants auraient payés pour emprunter 800 000 $US, un montant qui, au surplus, n’était pas nécessaire.
+[89] En effet, M. Tang affirme avoir emprunté 800 000 $US alors que le besoin réel était de 690 000 $US. D’une part, les appelants disposaient des montants requis à partir de leur propre avoir et, d’autre part, ces emprunts leur auraient coûté en frais et en intérêts plusieurs milliers de dollars.
+[90] Finalement, pourquoi la divulgation de ces trois emprunts a-t-elle surgi en janvier 2012 alors que les appelants auraient eu intérêt à y référer dans les heures qui ont suivi les saisies au mois d’avril 2007?
+Argent provenant de la société Saint-Denis BCC [91] L’autre explication pour justifier la présence de l’argent saisi dans les locaux de la Bijouterie est qu’une partie de cet argent provenait de la société Saint-Denis BCC, soit 300 000 $ à 350 000 $.
+[92] Il n’a aucunement été question d’un prêt entre la société Saint-Denis BCC et la Bijouterie. De plus, rien dans les états financiers ne laisse entendre qu’il y aurait eu un tel prêt ou transfert.
+[93] La somme de 300 000 $ à 350 000 $ qui aurait été amenée à la Bijouterie ne figure pas dans les livres de la société Saint-Denis BCC d’une part, et d’autre part, est totalement irréconciliable avec les explications du comptable.
+[94] En effet, les divers documents comptables préparés par le comptable dont la fiabilité est plus que douteuse disqualifient totalement les prétentions de l’appelant Tang quant à la disponibilité d’un montant de 300 000 $ à 350 000 $ qu’il aurait transporté à la Bijouterie :
+2005
+Revenu total
+Profit brut
+Profit net
+87 139 $
+22 504 $
+- 17 522 $
+2006
+Revenu total
+Profit brut
+Profit net
+71 677 $
+- 7 035 $
+- 40 123 $
+2007
+Revenu total
+Profit brut
+Profit net
+0 $
+0 $
+- 180 $
+[95] Il est donc invraisemblable que la société Saint-Denis BCC ait réussi à accumuler autant de liquidités alors qu’elle n’a fait aucun profit.
+[96] De plus, le bilan de la société en 2007 démontre un avoir de 30 343 $ en liquidités. Les liquidités dans la société ont d’ailleurs chuté en 2005 et en 2006 passant de 239 880 $ à 54 670 $.
+[97] Il y a eu une baisse similaire au poste « Due to shareholder » (de 209 371 $ à 57 073 $). Le comptable a tenté en vain de démontrer une certaine cohérence. Il a été confus dans ses explications au point qu’il n’y avait rien de crédible.
+[98] Tout ce qui entoure la société Saint-Denis BCC est nébuleux et incohérent. En outre, aucune déclaration de revenus n’a été produite durant plusieurs années. Les déclarations de revenus ont sans doute été complétées quelque temps avant le procès, et le comptable a magistralement échoué dans sa tentative de maquiller les documents.
+[99] M. Tang a affirmé avoir apporté avec lui de la société Saint-Denis BCC une somme variant entre 300 000 $ et 350 000 $; or, ses procureurs ont fait plutôt état d’un montant de 265 000 $ des suites de l’engagement numéro 5 pris à la suite de l’interrogatoire préalable; il bénéficiait alors de tout le temps nécessaire pour une vérification sérieuse et responsable. Malgré cela, M. Tang a affirmé et répété avoir transporté entre 300 000 $ et 350 000 $.
+[100] Normalement une personne qui vit d’une manière modeste, comme l’a prétendu M. Tang, est en mesure de savoir exactement le montant d’argent qu’elle a transporté à un moment précis dans le temps d’un endroit à l’autre.
+[101] Le montant entre 300 000 $ et 350 000 $ amené à la Bijouterie lors du retour de l’appelant Tang dans les anciens locaux était un montant qu’il s’est attribué.
+[102] La société a fait l’objet d’une réanimation dans le seul but de tenter d’établir une certaine cohérence. Il eut fallu faire une preuve convaincante et surtout crédible. Or, la preuve soumise repose sur des documents de toute évidence préparés plusieurs années après les échéances légales et fait référence à des données incomplètes, souvent contradictoires et caractérisées par de nombreuses incohérences.
+[103] Il m’est apparu évident que le comptable avait tout au moins tacitement accepté d’agir comme complice dans la tentative de rendre raisonnables des explications qui ne tiennent pas la route. Tantôt, les déclarations de revenus existaient, tantôt elles n’existaient plus, quelque temps avant le procès elles sont réapparues, caractérisées par plusieurs incohérences.
+[104] Pour disposer des appels, deux questions fondamentales se posent.
+[105] La première consiste à savoir si le travail de vérification a été fait correctement et suivant les règles de l’art, tout en permettant aux appelants de fournir toutes les informations, les explications et les documents utiles, nécessaires et pertinents.
+[106] La deuxième question consiste à déterminer la crédibilité de tous les acteurs concernés directement et indirectement par les cotisations dont il est fait appel.
+[107] En parallèle à ces questions s’ajoute celle du fardeau de la preuve.
+[108] Dans leur preuve respective permettant de faire ressortir tous les faits et les éléments pertinents, les parties ont des positions diamétralement opposées.
+[109] Par le biais de la vérificatrice, l’intimée soutient avec vigueur avoir tout fait et n’avoir strictement rien négligé pour produire des avis de cotisation conformes.
+[110] De leur côté, les appelants reprochent à l’intimée d’avoir fait un travail sommaire, bâclé et complètement inacceptable. Ils ajoutent que le fait de soumettre une preuve prima facie à l’endroit des fondements retenus pour justifier les cotisations a pour effet de transporter sur les épaules de l’intimée le fardeau de la preuve démontrant le bien‑fondé des cotisations.
+[111] Le grand fossé entre la position des parties n’est ni une perception ni une interprétation; il ressort du mot à mot utilisé par les procureurs eux‑mêmes dans leur argumentation écrite.
+[112] Dans ses observations écrites, l’intimée soutient ce qui suit :
+44. Suite à l’établissement des trois nouvelles cotisations du 27 février 2009, Bélanger demeure en attente d’explications, notamment afin d’attribuer correctement la propriété des sommes saisies chez Bijouterie (23 janvier 2014, p. 99, 1.2 à 7).
+45. Toutefois, comme nous l’avons vu plus haut, Bélanger constate qu’elle a oublié de comptabiliser deux montants d’argent comptant saisis : 18 700 Euros saisis chez Bijouterie et 689 660 $US saisis par l’agent d’infiltration (23 janvier 2014, p. 101, 1.5 à 9).
+46. Le 2 mars 2009, avant d’établir la cotisation supplémentaire du 16 juillet 2009, elle retourne voir Tang pour tenter d’obtenir d’autres explications notamment à l’égard de ces montants oubliés (23 janvier 2014, p. 101, 1.10 à 14). Cette fois-ci Tang refuse de lui fournir des informations et la réfère à son avocat (23 janvier 2014, p. 102, 1.1 à 4).
+47. Conformément aux indications de Tang, Bélanger communique par téléphone avec le procurer des appelants les 19 mars 2009, 7 avril 2009, 14 avril 2009, 27 avril 2009, 20 mai 2009, 21 mai 2009 et 8 juillet 2009. Bélanger rencontre aussi le même procureur les 25 mars 2009, 25 mai 2009, 4 juin 2009 et 6 juillet 2009 (23 janvier [2014], p. 100, 1.9 à 14).
+48. Le procureur des appelants ne fournit aucune explication ou justification concernant les montants saisis, se contentant de tenter de régler l’affaire pour un montant global de 250 000 $ CA (23 janvier 2014, p. 100, 1.9 à 28; p. 102, 1.9 à 17).
+49. Dans ces circonstances, le 16 juillet 2009 Bélanger établit la deuxième nouvelle cotisation à l’encontre de Bijouterie, pour y ajouter les sommes saisies oubliées (I-1, onglet 2).
+50. Il est opportun de noter que, malgré la rencontre avec Kang, les deux rencontres avec Tang, ainsi que les nombreuses rencontres et conversations avec leur procureur, à aucun moment l’existence d’un prêt n’est mentionnée à Bélanger durant le processus de vérification / cotisation. Aussi, à aucun moment la dénomination sociale « Saint-Denis BCC » (« BCC ») n’est mentionnée.
+[Soulignement dans l’original.]
+[113] Ces nombreux éléments établis par la preuve de l’intimée font en sorte que le comportement des appelants ne répond pas très bien à la définition du mot « collaboration ».
+[114] Ces faits et événements sont antérieurs à l’établissement des cotisations dont il est fait appel. Lorsqu’une cotisation est établie et qu’elle fait par la suite l’objet d’un appel, il est fréquent de constater que les parties communiquent entre elles pour l’échange d’informations utiles et pertinentes pour permettre le calcul d’une cotisation plus conforme à l’état des revenus, et ce, plus particulièrement lorsqu’une cotisation a été établie à partir d’une méthode où l’arbitraire est présent.
+[115] À cet égard, la prépondérance très nette de la preuve démontre que non seulement les appelants n’ont aucunement collaboré, mais qu’ils ont plutôt fourni des explications contradictoires et qu’ils se sont même permis d’ajouter des éléments complètement nouveaux, et ce, plusieurs années après l’émission des cotisations. De plus, il ne s’agissait pas de détails secondaires, mais plutôt de faits très significatifs pouvant avoir des impacts considérables sur les cotisations, et ce, dans les trois dossiers.
+[116] Dans leur réplique aux observations écrites de l’intimée, les appelants affirment ce qui suit :
+4. L’intimée soumet également que les appelants ont fait preuve d’un manque de collaboration et qu’en l’absence de toute explication crédible concernant la provenance des fonds saisis, la vérificatrice n’a eu d’autre choix que de cotiser l’ensemble des sommes saisies dans l’année d’imposition 2007, pour les appelants Tang et Kang, ainsi que dans l’exercice financier terminé le 31 mars 2007, pour Bijouterie.
+5. Or, les faits révèlent plutôt que les appelants ont offert toute leur collaboration et assistance à la vérificatrice de même qu’aux représentants du ministre. Malgré cette collaboration, la vérificatrice a, pour des raisons entièrement indépendantes de la conduite des appelants ou des explications offertes par ceux-ci, procédé à une vérification rapide et grossière.
+6. En effet, la vérificatrice a débuté sa vérification le ou vers le 12 février 2009, alors que les cotisations en litige ont été émises le 27 février 2009, deux semaines plus tard.
+7. Quatre jours avant l’émission des cotisations en litige, le 23 février 2009, la vérificatrice a rencontré Tank et Kang.
+8. Sachant que la rencontre du 23 février 2009 n’aura duré qu’environ 45 minutes et considérant l’ampleur des sommes saisies, il est difficile de comprendre quelles étaient les attentes de la vérificatrice quant à cette rencontre ou du moins ce qu’elle aurait considéré comme étant des explications suffisamment crédibles pour justifier qu’un certain travail d’enquête soit entrepris. Du moins, si la vérificatrice s’attendait à obtenir quelques documents, celle-ci n’en a jamais fait la demande.
+9. Devant le supposé manque de collaboration des appelants et l’absence d’explication crédible, la vérificatrice n’aurait pas eu d’autres choix que d’émettre, quatre jours plus tard, les cotisations en litige par lesquelles les revenus non déclarés suivants ont été ajoutés aux revenus des contribuables pour une seule année d’imposition et exercice financier :
+[…]
+11. Dès leur émission, le ministre est conscient des failles qui sous-tendent les cotisations en litige, plus précisément :
+a) des failles relatives à l’imposition multiple de certaines sommes;
+b) des failles relatives aux incohérences temporelles dues à la très courte période de temps au cours de laquelle les revenus soi‑disant non déclarés auraient été générés.
+12. Les appelants ont toujours été disposés à remettre tous les documents nécessaires au ministre afin que ce dernier puisse rectifier les cotisations en litige. Le problème est donc le suivant : quels sont ces documents et informations qui étaient en possession des appelants, que ceux-ci auraient dû remettre, qui auraient permis au ministre de considérer que les appelants avaient adéquatement collaboré à la vérification?
+13. Lors des interrogatoires préalables, le ministre a formulé, par le biais de ses représentants, de nombreuses demandes de documents et d’informations qui ont été dûment remplies par les appelants. Plus précisément, les appelants ont répondu à l’ensemble des engagements suivants, fournissant ainsi au ministre la documentation existante à l’appui de leurs explications quant à la source des revenus soi-disant non déclarés cotisés et la période de temps au cours de laquelle ceux-ci ont été générés : […].
+[117] Le procès, dont la durée s’est échelonnée sur une période de plus d’une semaine sans tenir compte des arguments écrits des parties, lequel avait par ailleurs été précédé par des interrogatoires préalables, a produit un très grand nombre d’informations et de détails permettant d’évaluer la crédibilité.
+[118] Dans un premier temps, il m’apparaît important de souligner que les informations et justifications ont fait l’objet de nombreux changements, tout particulièrement quant aux montants saisis dans les locaux de la Bijouterie.
+[119] Les appelants Tang et Kang ont soutenu être propriétaires des montants saisis à leur résidence respective, soit 509 406 $ dans le cas de M. Tang et 384 145 $ dans le cas de M. Kang.
+[120] Quant au montant saisi dans les locaux de la Bijouterie, soit 1 663 843 $, ils soutiennent que ce montant était la propriété de la société identifiée comme la Bijouterie.
+[121] En ce qui a trait aux montants saisis aux résidences personnelles, les appelants ont affirmé, répété et insisté qu’il s’agissait là essentiellement de leurs économies personnelles accumulées au fil des ans depuis leur arrivée au Canada à partir de leurs revenus tous déclarés.
+[122] En ce qui a trait à la Bijouterie, il s’agissait là des revenus d’opération auxquels il fallait soustraire l’argent venant d’une autre société, soit Saint‑Denis BCC, ainsi qu’un montant de 800 000 $US, supposément la propriété de trois prêteurs différents à raison de deux montants de 200 000 $US et d’un montant de 400 000 $US.
+[123] Le comptable Casella a longuement témoigné. Manifestement nerveux et inconfortable, il a été, tout au cours de son témoignage, hésitant voire même confus à plusieurs moments. Le témoin bénéficiait en outre de l’avantage de la langue.
+[124] Il témoignait en anglais et la traduction lui donnait beaucoup plus de temps puisque manifestement il comprenait très bien le français. La piètre qualité de son témoignage et les nombreuses incohérences étaient sans doute le pourquoi de son inconfort et de sa nervosité.
+[125] Il a admis avoir fait plusieurs erreurs. Manifestement, M. Casella a délibérément accepté d’arranger les documents financiers et corporatifs de la société Saint-Denis BCC de manière à les rendre cohérents; il a magistralement échoué à cet égard.
+[126] Ce témoignage n’a aucune crédibilité et ne peut servir à démontrer quoi que ce soit. Le dossier pour lequel il avait été mandaté par l’appelant Tang s’est avéré être un fouillis reconstitué à la dernière minute.
+[127] Ce dossier n’est ni fiable ni crédible. Je suis de plus convaincu que les informations qui y apparaissent ne correspondent pas à la réalité. Après avoir affirmé posséder toutes les copies des déclarations, l’appelant Tang a soutenu qu’il ne pouvait plus les retrouver pour finalement être en mesure de produire des copies dont les originaux n’avaient jamais été produits à l’ARC.
+[128] Ce segment de la preuve démontre à quel point l’appelant Tang était peu enclin à présenter un dossier sérieux et documenté, dont les informations étaient vraisemblables.
+[129] Pour ce qui est des appelants, leur témoignage a été parsemé de contradictions, d’incohérences et d’invraisemblances. La majeure partie de leurs affirmations et justifications doit être écartée pour la bonne et simple raison qu’elles s’avèrent déraisonnables à partir d’un simple et élémentaire exercice mathématique.
+[130] Lorsqu’il est question des sociétés auxquelles ils ont été associés, soit la Bijouterie et la société Saint-Denis BCC, le peu de documents disponibles ne reflète carrément pas les explications soumises d’une part et, d’autre part, est d’une telle incohérence qu’il y a lieu de s’interroger sur le rôle que les sociétés ont réellement joué dans le cadre de leurs activités financières.
+[131] Étant donné l’absence à peu près totale de renseignements crédibles et fiables de la part des appelants et la piètre qualité des documents disponibles qui très souvent furent contredits par les appelants eux-mêmes, le ministre a procédé à l’établissement des cotisations dont il est fait appel par la méthode du calcul de l’écart de l’avoir net pour les appelants.
+[132] Pour ce qui est de l’appelante, le ministre a eu recours à la méthode sélective par points en comparant les revenus présumés sous forme d’argent liquide ou de dépôts bancaires versus les revenus déclarés au cours du même exercice.
+[133] Dans un cas comme dans l’autre, il s’agit d’une méthode indirecte qui produit un résultat nécessairement imparfait.
+[134] D’ailleurs, la vérificatrice responsable a elle-même admis avoir fait des erreurs.
+[135] Il est évident que le résultat final est aussi imparfait en ce que certains revenus sont attribués aux trois appelants. La vérificatrice aurait-elle pu faire autrement?
+[136] La réponse à cette question repose essentiellement sur les documents disponibles et les informations communiquées par les appelants eux‑mêmes. À ce titre, la vérificatrice n’a strictement rien obtenu qui soit de nature à lui permettre de procéder autrement. En d’autres termes, les appelants ont récolté le résultat qu’ils ont eux-mêmes orienté en refusant toute collaboration.
+[137] La preuve a cependant établi que la vérificatrice avait favorisé les appelants lorsqu’elle avait à faire certains choix. Il en fut ainsi au niveau des dépenses minimales qu’une famille doit assumer annuellement pour vivre et d’autres montants que les appelants ont attribués à des membres de leur famille respective.
+Investissements recensés par la vérificatrice pour les époux Tang :
+Résidence personnelle
+240 200 $
+Dépôt à la banque
+154 528 $
+Investissement dans un marché d’alimentation
+91 496 $
+REÉR
+84 104 $
+Montant gardé à la résidence
+509 406 $
+TOTAL
+1 079 734 $
+Investissements recensés par la vérificatrice pour les époux Kang :
+REÉR
+280 000 $
+Investissement dans un marché d’alimentation
+90 000 $
+Résidence personnelle
+220 000 $
+Montant gardé à la maison
+300 000 $
+Argent US à la maison
+40 000 $
+Investissement dans la Bijouterie
+300 000 $
+Toyota Camry
+28 685 $
+Mercedes
+40 000 $
+TOTAL
+1 098 685 $
+[138] À titre d’exemple, la vérificatrice n’a pas tenu compte de deux montants totalisant 36 000 $ qui, aux dires de l’appelant Kang, ne lui appartenaient pas.
+[139] Les appelants ont affirmé avoir acquis les biens décrits ci-dessus à partir de leurs revenus déclarés étant donné qu’ils avaient un coût de la vie très modeste.
+[140] À défaut de pouvoir expliquer comment ils avaient pu accumuler de tels actifs, les appelants ont tenté de ridiculiser les choix de l’intimée en soutenant notamment qu’il était tout à fait insensé de prétendre qu’ils aient accumulé des actifs aussi importants au cours de la seule année d’imposition 2007. Ils se sont cependant bien gardés de soumettre comment l’étalement aurait pu se faire. À aucun moment, ni de quelque façon que ce soit, les appelants n’ont soumis ni même tenté de démontrer un étalement quant à l’évolution de leurs actifs constatés par les saisies.
+[141] L’intimée a pris en compte les informations disponibles (revenus déclarés chaque année depuis leur arrivée au Canada) auxquelles elle a soustrait des montants de dépenses établis à partir de statistiques disponibles, et ce, à l’avantage des appelants. Le résultat démontre d’une manière mathématique l’absurdité des prétentions des appelants quant à l’importance des actifs divulgués par les saisies.
+[142] Tout au cours du procès, les appelants ont soutenu et réitéré que leurs actifs avaient été accumulés à partir de leurs revenus déclarés annuellement depuis leur arrivée au Canada. Un banal et élémentaire calcul mathématique commande le rejet pur et simple de ces prétentions.
+[143] L’entêtement des appelants à vouloir soutenir et réitérer cette thèse démontre à quel point les appelants Tang et Kang ont été avares d’explications; bien plus, leur comportement démontre même la mauvaise foi et l’absence totale et surtout délibérée de collaborer avec la vérificatrice, Mme Bélanger.
+[144] Eu égard à l’attitude, au comportement des appelants et aux faits disponibles dont notamment l’importance des montants saisis, leur emplacement et les explications loufoques et contradictoires soumises par ces derniers, l’ARC avait raison d’avoir recours à une méthode estimative et arbitraire de l’avoir net. Bien plus, il était, à partir des preuves soumises, tout à fait impossible de procéder autrement.
+[145] Je crois pertinent de reproduire l’extrait de jurisprudence suivant utilisé par l’intimée[1] :
+363 […]
+29 Les évaluations de la valeur nette sont une solution de dernier recours communément employée dans les cas où le contribuable refuse de produire une déclaration de revenus, qu’il a produit une déclaration fort inexacte ou qu’il refuse de fournir des documents qui permettraient à Revenu Canada de vérifier le rendement (V. Krishna, The Fundamentals of Canadian Income Tax Law, 5e éd. (Toronto : Carswell, (1995) à la page 1089). La méthode de la valeur nette est fondée sur l’hypothèse selon laquelle une augmentation de la richesse d’un contribuable au cours d’une certaine période peut être imputée au revenu pour cette période à moins que le contribuable ne démontre le contraire (Bigayan, précité, à la page 1619). (…)
+Hsu c. Canada, [2001] A.C.F. no 1174 (les juges Desjardins, Isaac, Malone) appel rejeté par la CSC : Hsu c. Canada, [2001] S.C.C.A. no 503
+[146] Les appelants sont-ils crédibles? De façon générale, il ne s’agit pas d’un exercice facile. En l’espèce, les appelants ont donné des explications farfelues, souvent incohérentes, contradictoires et absurdes. Il est très facile de conclure que leur version et l’entièreté de leur preuve ne sont ni crédibles, ni fiables, et cela, quant à toutes les explications fournies sur la totalité des montants saisis.
+[147] Pourquoi avoir indiqué à l’agent d’infiltration qu’il n’y avait pas suffisamment de billets de 100 $US et que ce dernier devrait revenir plus tard?
+[148] Pourquoi avoir quitté les lieux dans les minutes qui ont suivi pour se rendre à leur résidence respective?
+[149] Pourquoi un des appelants est-il ressorti de chez lui avec un sac de plastique?
+[150] Pourquoi avoir caché durant plusieurs années les supposés emprunts totalisant 800 000 $US auprès d’inconnus qui n’ont pas témoigné?
+[151] Pourquoi avoir payé des frais prohibitifs pour emprunter des montants alors que les mêmes individus cachaient à leur résidence des montants substantiels? Était-ce vraiment pour éviter les frais d’essence requis pour se rendre aux banques et éviter de payer les frais exigés par les banques?
+[152] Pourquoi avoir emprunté plus de 100 000 $US de trop pour effectuer la transaction d’échange avec l’agent d’infiltration?
+[153] Ce qui est très étonnant, voire surprenant, est le fait que les appelants reprochent à profusion à l’intimée d’avoir eu recours à des hypothèses non validées ni fiables.
+[154] Qui devaient détenir informations, documents fiables et crédibles, sinon les appelants eux-mêmes? À cet effet, la preuve n’a pas permis au tribunal de constater ou de prendre en considération ce genre d’éléments pourtant fondamentaux dont les appelants étaient les seuls et uniques détenteurs.
+[155] De plus, les appelants reprochent à l’intimée d’avoir rapidement et arbitrairement bâclé le cheminement ayant conduit à l’établissement des cotisations; ils font également référence à l’ambigüité, à l’absence de détails et d’informations. Ils reprochent à la vérificatrice, Mme Bélanger, de ne pas avoir fait beaucoup d’efforts et pris d’initiative pour la préparation des avis de cotisation.
+[156] Pour illustrer cet argument, les appelants s’expriment dans leur argumentation écrite comme suit :
+22. Il est important de noter que les appelants se sont fait reprocher leur manque de collaboration durant la vérification, et notamment, de ne pas avoir fourni les informations demandées.
+23. Pourtant, de son propre aveu, Mme Bélanger n’a jamais effectué une telle demande par écrit.
+24. C’est donc dans ce contexte fort inhabituel qu’a eu lieu la vérification des appelants.
+25. Suivant une rencontre de 45 minutes avec les appelants, la vérificatrice a choisi d’émettre des avis de nouvelle cotisation totalisant plus de 4 500 000 $ de revenus non déclarés.
+[157] De leur côté, les appelants ont souvent démontré qu’ils avaient peu de respect pour la précision, la clarté et finalement pour la vérité.
+[158] En effet, il n’a jamais été fait mention des prêts totalisant 800 000 $ avant janvier 2012. Non seulement près de six ans se sont écoulés, mais toutes les explications relatives à de tels emprunts sont confuses, loufoques et contradictoires.
+[159] J’ai conclu d’ailleurs, séance tenante, que ces prêts sont de toute évidence fictifs et mensongers.
+[160] La question du fardeau de la preuve a été soulevée à plusieurs reprises par les appelants.
+[161] À cet effet, je crois utile de reproduire certains extraits de jurisprudence à laquelle je souscris entièrement[2] :
+363 […]
+4 À partir du moment où le ministère établit selon des données fiables un écart, substantiel dans le cas présent, entre les actifs d’un contribuable et ses dépenses et où cet écart demeure inexpliqué et inexplicable, le ministère a assumé son fardeau de preuve. Il appartient alors au contribuable d’identifier la source et d’établir la nature non imposable de ses revenus.
+Molenaar c. Canada, [2004] A.C.F. no 1731 (les juges Décary, Létourneau, Nadon)
+[…]
+377 […]
+24 Il n’y a rien dans ce raisonnement qui impose au contribuable un fardeau inéquitable. Le contribuable a la connaissance des faits et il est en mesure d’en faire la preuve. Il serait tout à fait irréaliste d’imposer au ministre le fardeau de mettre au jour la source d’un revenu dont l’existence même ne peut être constatée qu’indirectement, c’est-à-dire par l’application de la méthode de l’avoir net.
+Lacroix c. Canada, [2008] A.C.F. no 1092 (les juges Nadon, Pelletier, Trudel)
+[…]
+381 Notons que les appelants fondent leur argument concernant l’incohérence des cotisations sur un corpus jurisprudentiel dont aucune décision ne concerne des cotisations établies par des méthodes indirectes de vérification, dans des cas où on traite de l’apparition de montants importants d’argent liquide qui étaient sciemment cachés par les contribuables, sans laisser de trace possible, et qui sont trouvés dans le cadre d’une saisie des autorités de l’État.
+[…]
+383 Toutefois, la faiblesse la plus grande de l’argumentation des appelants est la suivante. Selon les appelants, la contradiction née de la considération d’un même montant pour les trois contribuables renverserait le fardeau de la preuve en leur faveur.
+384 Même si on acceptait qu’une contradiction évidente existe, ce qui est nié, comment accepter l’argument des appelants? […]
+385 […]
+30 Par sa nature, une évaluation de la valeur nette est une estimation arbitraire et imprécise du revenu du contribuable. Toute inquiété perçue se rapportant à ce genre d’évaluation est réglée en reconnaissant que le contribuable est celui qui est le mieux placé pour connaître son revenu imposable. Lorsque le fondement factuel de l’estimation du ministre est inexact, il devrait être simple pour le contribuable de corriger à la satisfaction de la Cour l’erreur que le ministre a commise. (nous soulignons)
+Hsu c. Canada, [2001] A.C.F. no 1174 (les juges Desjardins, Isaac, Malone), appel rejeté par la CSC : Hsu c. Canada, [2001] S.C.C.A. no 503
+386 […]
+4 (…) Dans un appel d’une cotisation d’impôt sur le revenu, il appartient au contribuable d’établir, selon la prépondérance des probabilités, que la cotisation est trop élevée en regard du droit applicable et des faits pertinents. Il ne suffit pas que le contribuable démontre qu’il est concevable que la cotisation soit trop élevée. Il lui faut produire des preuves dignes de foi établissant qu’une évaluation appropriée et complète de sa valeur nette montre que son revenu est inférieur à celui que le ministre a déterminé. Lorsque le contribuable s’est mis dans une situation qui ne permet aucunement de mesurer son revenu de façon directe avec exactitude, il ne peut guère se plaindre, dans un appel portant sur une évaluation de sa valeur nette, des inexactitudes propres à cette méthode. (…) (nous soulignons)
+Fletcher c. Canada, [1994] A.C.I. no 837 (le juge Bonner)
+[…]
+388 Tang et Kang soulèvent deux types d’explications à l’encontre de l’analyse du ministre : une partie des montants saisis constituent des économies constituées jusqu’en 2006 et, une autre partie des montants saisis ne leur appartiennent pas, ni à Bijouterie.
+389 L’intimée soumet que la Partie I de la présente démontre clairement que les appelants n’ont jamais apporté de collaboration suffisante ou d’information crédible, cohérente ou constante, que ce soit pendant le processus de vérification, ou après celui-ci. Pourtant, cette collaboration est essentielle :
+8 Les assises ou fondements des calculs élaborés dans le cadre d’un avoir net sont tributaires en très grande partie des informations transmises par le contribuable faisant l’objet de la vérification.
+9 La qualité, la vraisemblance, la raisonnabilité des informations ont donc une importance absolument fondamentale.
+Bastille c. Canada, [1998] A.C.I. no 1080 (le juge Tardif)
+[…]
+391 […]
+27 Lorsque les registres et livres de comptes sont inexistants, la simple affirmation d’un contribuable que l’écart établi par la méthode de l’avoir net s’explique par l’utilisation d’épargnes en argent liquide qu’il se serait constituées au cours d’années antérieures est nettement insuffisante pour constituer la preuve prépondérante nécessaire à établir que les cotisations sont erronées.
+Roy c. Canada, [2006] A.C.I. no 189 (le juge Dussault)
+[Soulignement dans l’original.]
+[162] Les appelants affirment que l’intimée a établi les avis de cotisation à partir d’une appréciation arbitraire, hypothétique, illogique et déraisonnable. Ils poursuivent en affirmant que de telles hypothèses ont pour effet de faciliter le travail des appelants quant à leur fardeau de la preuve; ils soutiennent que leur seule obligation consistait à faire une preuve prima facie que les hypothèses factuelles retenues par l’intimée n’étaient ni fiables, ni raisonnables, mais plutôt purement spéculatives. Ils ont affirmé et répété avoir soumis une telle preuve prima facie de manière à ce que le fardeau soit transporté sur les épaules de l’intimée.
+[163] Accepter l’interprétation des appelants quant au fardeau de la preuve aurait pour effet d’accepter qu’il est possible de contredire l’arbitraire par l’arbitraire, le déraisonnable par le déraisonnable et le spéculatif par le spéculatif.
+[164] Les parties ne s’entendent carrément pas sur le droit de l’intimée d’établir une cotisation pour une année en particulier. Les appelants soutiennent que l’intimée a l’obligation d’établir la période précise de l’enrichissement, par la méthode de l’avoir net, de manière à répartir l’enrichissement constaté sur une longue période plutôt que de l’attribuer sur une seule année d’imposition.
+[165] Cela m’apparaît approprié et correct dans l’hypothèse où il est possible de déterminer le début et la fin de la période concernée par une éventuelle nouvelle cotisation. Or, dans les présents dossiers, il a été totalement impossible de ce faire, et ce, spécifiquement parce que les appelants ont systématiquement refusé de collaborer. Ils n’ont strictement rien fait pour expliquer ou justifier quelque étalement que ce soit.
+[166] Seuls les appelants pouvaient contribuer à un exercice permettant de répartir et de définir les périodes cotisées; non seulement ils n’ont pas collaboré, mais ils ont eux-mêmes donné des informations incomplètes, incohérentes et non fiables qui ne pouvaient en aucune façon servir à élaborer un scénario différent de celui retenu et qui, dans les circonstances, était raisonnable, logique et approprié.
+[167] Tous les arguments des appelants reposent sur une appréciation qui n’est absolument pas conforme à la preuve. En effet, contrairement à l’appréciation des appelants à l’effet qu’ils ont témoigné d’une manière crédible et fourni une collaboration exemplaire, la réalité de la preuve est tout autre.
+[168] D’abord, ils n’ont jamais collaboré. La qualité de la preuve soumise valide cette appréciation. Je fais notamment référence à l’importante révélation, de toute évidence mensongère, quant aux emprunts totalisant 800 000 $. Si ces emprunts avaient réellement eu lieu, ils auraient été dénoncés bien avant. D’autre part, les représentants légaux des appelants ont communiqué à la partie adverse des informations que les appelants ont eux-mêmes contredites à l’audition. Les appelants n’ont possiblement pas collaboré avec leurs propres représentants.
+[169] D’autre part, les appelants ont eux-mêmes discrédité la qualité de leur propre preuve en témoignant d’une manière aussi incohérente et en soutenant des hypothèses invraisemblables, dont notamment avoir économisé des montants aussi substantiels à partir de leurs revenus déclarés.
+[170] Finalement, lorsqu’ils témoignent dans le dossier de l’appelante, leurs prétentions sont soit contredites par les rares documents disponibles, soit irréconciliables.
+[171] La partie arbitraire ayant servi de fondement au bien-fondé des cotisations dans les trois dossiers s’explique et se justifie essentiellement et exclusivement par l’absence totale de collaboration des appelants.
+[172] Dans un second temps, les principaux éléments à l’origine des cotisations qui font l’objet des appels ont été admis formellement par les appelants eux‑mêmes; en effet, aucun des montants saisis n’a fait l’objet de contestation à l’exception d’un montant de 800 000 $ que les appelants voudraient définir comme le fruit d’emprunts. Cette prétention a fait l’objet d’une fin de non‑recevoir, les explications soumises pour le démontrer étant tout à fait invraisemblables.
+[173] Pour ce qui est du fardeau de la preuve, je suis satisfait de la preuve de l’intimée dans les circonstances et le contexte des dossiers. À partir de données objectives incontournables, de dates, de montants, d’activités commerciales illégales, d’utilisation d’argent liquide exclusivement, les appelants répliquent à profusion par des explications mensongères, loufoques, incohérentes, frisant à certains moments le ridicule; ce n’est certainement pas suffisant pour prétendre avoir relevé un fardeau de preuve prima facie.
+[174] Ainsi, les appelants sèment la confusion, l’incohérence et la déraison et voudraient récolter la précision.
+[175] Finalement, souscrire aux arguments et aux thèses des appelants aurait pour effet d’encourager les contribuables à entretenir la plus grande confusion possible de manière à ce qu’il soit à peu près impossible de procéder à une vérification fiscale.
+[176] Malgré la preuve, les procureurs des appelants ont fait valoir les arguments suivants :
+a) Les cotisations ont résulté d’un travail exécuté en catastrophe, bâclé et sans aucun fondement.
+b) Les actifs ont été cotisés pour une seule année d’imposition rendant ainsi l’exercice loufoque, déraisonnable et totalement arbitraire.
+c) L’intimée a failli ou échoué dans son obligation de justifier adéquatement le bien-fondé des cotisations en tenant pour acquis des hypothèses de faits réfutées par les appelants.
+[177] Pour étoffer leurs arguments, les appelants font valoir toutes sortes d’hypothèses pour discréditer le bien-fondé des cotisations. Ainsi, ils prétendent qu’une chose ne peut pas être noire et blanche en même temps.
+[178] Dans un régime où l’auto-cotisation est la règle, il est essentiel et tout à fait fondamental qu’en tout temps il puisse être possible de vérifier la qualité de la reddition de compte fiscale qui doit avoir lieu à la fin de chaque année.
+[179] Au Canada, notre régime fiscal repose sur l’auto-cotisation. L’auto‑cotisation signifie que tous les contribuables ont l’obligation de rendre compte de leurs revenus établis à partir et en vertu des lois fiscales pertinentes.
+[180] L’ignorance de la loi, de la langue, de la culture et des us et coutumes ne sont pas des excuses recevables ou pertinentes pour diminuer ou réduire la charge fiscale d’une personne.
+[181] L’auto-cotisation est une reddition de compte que toute personne physique ou morale doit annuellement faire aux autorités fiscales qui ont le droit de questionner et de vérifier la qualité des données à l’origine de la reddition de compte.
+[182] Les contribuables croient souvent qu’il appartient aux autorités fiscales de prouver hors de tout doute le bien-fondé d’une cotisation. À partir de cette fausse ou mauvaise perception ou interprétation, ils sont avares d’explications quant à leurs actifs allant souvent jusqu’à refuser de répondre aux questions ou de donner suite aux demandes pourtant justifiées des autorités fiscales.
+[183] Conséquemment à leur attitude et/ou à leur comportement, ils sont souvent déçus lorsque surgissent les avis de cotisation.
+[184] L’approche de l’intimée m’apparaît avoir été raisonnable, voire même à l’avantage des appelants.
+[185] Les appelants ont délibérément choisi d’occulter d’importants revenus sans doute sous prétexte qu’ils provenaient d’activités économiques illégales.
+[186] Souscrire aux arguments des appelants aurait pour effet de les récompenser pour avoir délibérément choisi de bafouer les règles élémentaires requises pour calculer leurs revenus de manière à pouvoir faire les redditions de compte adéquates et fiables.
+[187] Aux paragraphes 188 et 190 de leur argumentation écrite, les appelants écrivent ce qui suit :
+188. Les appelants soumettent que l’intimée n’a pas établi, au moyen d’une preuve concluante, la validité de ses hypothèses factuelles.
+[…]
+190. Au contraire, les appelants insistent sur le fait que les hypothèses factuelles du ministre ne sont fondées sur aucune preuve concrète et qu’à leur face même, ces hypothèses sont dénuées de toute logique.
+[188] Au paragraphe 189, les appelants écrivent ce qui suit :
+189. En d’autres mots, l’intimée n’a pas réussi à démontrer que l’existence de ces hypothèses factuelles est plus probable que son inexistence.
+[189] Les appelants écrivent ce qui suit au paragraphe 16 de la page 7 de leur réplique à la plaidoirie de l’intimée :
+16. Les appelants ne se plaignent pas des cotisations en litige, ils les contestent sur des fondements législatifs et jurisprudentiels établis non seulement pour assurer à l’État son droit de prélever des impôts dans un système reposant sur l’autodéclaration, mais aussi afin de protéger les contribuables des importants pouvoirs de cotisation dont dispose l’État.
+[Je souligne.]
+[190] Les appelants n’ont pas réussi par la preuve soumise à démontrer que les hypothèses factuelles prises en compte par l’intimée étaient sans fondement. Bien au contraire, la preuve a validé les fondements des cotisations dont il est fait appel.
+[191] En substance, les appelants ont fait valoir trois explications pour réclamer l’annulation des cotisations.
+[192] En premier lieu, les montants saisis aux résidences des appelants étaient l’accumulation de leurs économies à partir de leurs revenus déclarés depuis leur arrivée au Canada. Cette première explication doit être écartée à partir d’un simple calcul mathématique.
+[193] En second lieu, trois inconnus sans adresse connue leur auraient prêté 800 000 $. Encore là, l’explication est invraisemblable pour les raisons déjà énumérées. Finalement, l’appelant Tang aurait obtenu et transporté un montant entre 300 000 $ et 350 000 $ du bureau de change BCC qu’il opérait sur la rue Jean-Talon à la Bijouterie.
+[194] Cette explication est illogique et invraisemblable; elle est d’ailleurs contredite par les documents sans doute préparés dans les mois précédant le procès par le comptable Casella; son témoignage a surtout démontré qu’il avait tenté de rendre cohérent le dossier caché aux autorités fiscales. En effet, aucune déclaration de revenus n’avait été produite dans les dix années précédentes.
+[195] Bien plus, les états financiers reconstitués faisaient état de pertes pour les années antérieures à l’année où les saisies ont eu lieu. Or, il semble que M. Tang aurait fait des affaires excessivement florissantes dans les mois qui ont précédé son déménagement à la Bijouterie.
+[196] La preuve a permis de constater que la vérificatrice avait fait quelques erreurs. Les erreurs attribuables au travail de la vérificatrice ne sont pas importantes au point de discréditer le bien-fondé des cotisations.
+[197] L’urgence, le peu d’informations et les autres contraintes auxquelles a dû faire face la vérificatrice auraient pu affecter la qualité, voire le résultat, de son travail surtout dans l’hypothèse d’une collaboration irréprochable des personnes concernées par les éventuelles cotisations.
+[198] Or, il en fut tout autrement puisque les appelants ont eux-mêmes tout fait pour orienter le travail de la vérification sur différentes pistes notamment au niveau de la propriété des montants pris en compte pour l’élaboration des cotisations.
+[199] Je conclus donc que la position soumise par le procureur de l’intimée m’apparaît juste, raisonnable et appropriée d’autant plus qu’elle est validée par une nette prépondérance de la preuve.
+[200] En d’autres termes, les cotisations dont il est fait appel ont été établies d’une manière judicieuse; les quelques petites erreurs constatées et admises par la vérificatrice s’expliquent par l’absence totale de collaboration des appelants, voire même leur mauvaise foi.
+[201] La méthode retenue, la qualité du travail et le résultat obtenu, compte tenu du contexte dans lequel ont été établies les nouvelles cotisations, ne justifient aucunement les griefs soulevés par les appelants.
+[202] La preuve permet de conclure que l’approche, le travail exécuté et les résultats demeurent à l’intérieur des paramètres du caractère raisonnable. Cette même preuve permet également de conclure que l’intimée n’aurait pas pu procéder autrement.
+PÉNALITÉS [203] En matière fiscale, comme en toute autre matière, les lois doivent s’appliquer de la même façon; en d’autres termes, tous sont égaux devant la loi.
+[204] La langue, la culture, les origines, l’éducation, la formation, etc. sont certes des facteurs dont il peut être tenu compte dans la sévérité d’une sanction, mais en aucune façon ils ne peuvent servir d’excuse au non‑respect de la loi.
+[205] En l’espèce, les appelants ont immigré au Canada en provenance d’un pays en guerre. Il était donc raisonnable de croire qu’ils pouvaient être méfiants d’autant plus qu’ils ignoraient la langue et tous les us et coutumes de leur nouvelle terre d’accueil.
+[206] Certes le fait de cacher des sommes fort importantes chez soi ou au lieu d’affaires d’une entreprise à laquelle on est associé ne suffit pas à justifier l’imposition de pénalités au sens du paragraphe 163(2) de la Loi de l’impôt sur le revenu.
+[207] En effet, il peut s’agir d’une question de méfiance ou de culture. Toutefois, cela n’est carrément pas suffisant pour justifier l’absence de pièces et de documents comptables fiables et crédibles pour permettre de comprendre le cheminement de l’enrichissement.
+[208] « Sciemment ou dans des circonstances équivalentes à faute lourde » est un test qui requiert un degré de gravité plus significatif que la simple erreur, le banal oubli, l’absence de connaissance ou même certaines habitudes culturelles. Sciemment signifie planification, orchestration, mise en place volontaire d’un quelconque système et/ou procédé pour semer la confusion et rendre très difficile sinon impossible la vérification à partir des méthodes classiques conformes aux règles de l’art.
+[209] Bien que non concluante en soi pour l’imposition de pénalités, l’utilisation presque exclusive de l’argent comptant est par contre un élément qui crée une certaine suspicion.
+[210] L’utilisation de l’argent comptant est une chose, mais lorsque ce même argent ne transite par aucune institution financière, ne fait pas l’objet d’entrée comptable, ni d’entrée quelconque, et que les explications soumises quant à cet argent découvert par les autorités fiscales sont soit inexistantes, soit incohérentes, soit tout simplement fausses, je crois qu’il s’agit d’éléments fort pertinents pour justifier l’imposition de pénalités.
+[211] Il ne s’agissait pas d’une ou de quelques transactions isolées, il s’agissait de la façon de faire habituelle et courante. Certes, il s’agissait d’une activité économique où l’argent comptant est omniprésent. C’est une raison de plus de mettre en place un système ou un procédé facilitant la fiabilité de la reddition de compte à la fin de chaque année financière. En l’espèce, les appelants ont tout fait pour cacher leurs revenus.
+[212] D’autre part, tout au cours du processus qui a conduit à l’élaboration des cotisations, les appelants, contrairement à l’interprétation assez particulière de leur représentant, ont agi d’une manière tout à fait inacceptable en refusant de collaborer.
+[213] D’ailleurs la tentative des appelants de démontrer que les cotisations ont été établies à la suite d’un processus inacceptable et déraisonnable n’est aucunement justifiée; au contraire, la façon de faire et le cheminement des dossiers dont il est fait appel s’expliquent essentiellement et exclusivement par l’attitude et le comportement des appelants. En présence d’une telle situation, la vérificatrice ne pouvait faire autrement.
+[214] Outre tous ces éléments fort pertinents qui justifient l’imposition de pénalités, il m’apparaît aussi approprié de rappeler que les cotisations ont été initiées à la suite d’opérations policières qui se sont traduites par des procédures criminelles desquelles ont résulté le dépôt d’un plaidoyer de culpabilité et l’acceptation qu’un montant substantiel soit confisqué.
+[215] À partir des opérations policières, il devenait évident que les autorités fiscales interviendraient éventuellement. Pourquoi les appelants n’ont-ils pas préparé leur dossier respectif? Pourquoi n’ont-ils pas colligé les informations, ni rassemblé les documents pour préparer judicieusement leur dossier? Non seulement ils ont été passifs, mais ils ont fourni des informations très générales non validées ou ont tout simplement refusé de répondre; ils ont même modifié à quelques reprises leur version sur des segments très importants de leur dossier.
+[216] Étant donné l’importance considérable des montants en cause, et étant donné qu’il s’agissait essentiellement d’argent liquide caché à des endroits gardés secrets à leur résidence respective et dans les locaux de la Bijouterie, il est tout à fait déraisonnable de penser ou de conclure que les appelants n’ont pas sciemment et volontairement omis de déclarer ces revenus.
+[217] Les explications soumises ne sont ni crédibles, ni raisonnables, ni cohérentes; elles doivent être totalement écartées et seuls les éléments mis en évidence et d’ailleurs admis par les appelants doivent être pris en compte, soit le montant d’argent liquide saisi, l’endroit des saisies et les circonstances entourant la découverte des montants en question. Quant à la Bijouterie, la comptabilité était déficiente et mensongère à plusieurs égards.
+[218] En effet, la Bijouterie n’a jamais présenté ou soumis de comptabilité ou de livres adéquats et fiables; il y a ambiguïté quant au moment du transfert de la Bijouterie, quant à la considération et finalement quant à la date du paiement de la considération.
+[219] De plus, le comptable a témoigné d’une manière incohérente; il a manifestement et délibérément maquillé certains documents et déclarations tout en ne se conformant pas aux demandes pourtant claires du subpoena duces tecum qui lui fut signifié.
+[220] Une nette prépondérance de la preuve permet de conclure que le comptable Casella a produit toutes les déclarations représentant une dizaine d’années le 12 août 2013, soit après le début du procès le 30 mai 2013, et ce, sans informer l’intimée.
+[221] Pour justifier l’imposition de pénalités en matière fiscale, les faits et le contexte qui doivent être pris en compte sont généralement antérieurs à l’établissement de la dette fiscale. Toutefois, certains débiteurs fiscaux dont, en l’espèce, les appelants, ont validé et confirmé par leur témoignage l’évidente mauvaise foi avant que les nouvelles cotisations ne soient établies. En d’autres termes, les appelants ont, en tout temps, agi de mauvaise foi en agissant sciemment dans le but d’éluder leurs obligations et responsabilités fiscales.
+[222] Les appelants ont non seulement sciemment caché des revenus très substantiels, mais ils ont tout fait après les saisies pour inventer divers scénarios dont le but ultime était manifestement de cacher les revenus considérables validés par l’importance des montants saisis.
+[223] Pour toutes ces raisons, l’imposition de pénalités était tout à fait conforme aux dispositions de la Loi de l’impôt sur le revenu; le montant des pénalités devra faire l’objet d’une révision, eu égard aux nouvelles cotisations qui devront être établies à la suite de ce jugement.
+[224] Les appelants Tang et Kang exploitaient sciemment et secrètement un commerce illégal de recyclage de produits de criminalité; ainsi, ils évitaient à tout prix d’utiliser le système bancaire qui aurait laissé des traces et permis aux autorités fiscales de préparer des avis de cotisation sans doute plus « bétonnés ».
+[225] Des montants totalisant plus de 2 000 000 $ ont été saisis. La vérification a débuté le 12 février 2009. Durant la très longue période entre les deux événements en question, où étaient les appelants? N’était-il pas très prévisible, voire même évident, qu’ils auraient éventuellement à rendre compte à l’ARC?
+[226] La preuve soumise de part et d’autre ne permet pas de conclure très précisément entre les mains de qui doivent être imposés les différents montants qui ont fait l’objet des saisies effectuées par la police.
+[227] L’attribution doit s’effectuer à partir de la prépondérance de la preuve.
+[228] Un des faits très réels et ultra‑pertinents est le total des montants importants saisis et l’endroit où lesdites sommes étaient au moment des diverses saisies. D’ailleurs, ce sont là des faits fondamentaux qui ont été admis par les appelants.
+[229] Pour déterminer ou attribuer la propriété d’un bien à une personne physique ou morale, il est essentiel d’avoir accès à l’information documentaire et testimoniale pertinente, à défaut de quoi toute conclusion repose sur une hypothèse et/ou une spéculation.
+[230] L’absence d’une telle preuve ne fait pas échec pour autant au bien-fondé d’une cotisation. Si tel était le cas, cela signifierait ou aurait pour effet d’encourager les contribuables à ne pas collaborer, à transiger principalement en « cash » ou en argent comptant; en d’autres termes, il pourrait devenir fort avantageux de ne pas avoir de registres comptables et d’éviter les banques, de ne pas collaborer lors d’une vérification fiscale, etc.
+[231] Les appelants ont compris et mis en pratique la recette « les écrits laissent des traces ». Les rares documents disponibles ne sont ni cohérents, ni crédibles; ils sont souvent contradictoires et totalement irréconciliables avec le témoignage des appelants. Les appelants ont délibérément choisi l’ambigüité ou la confusion et ont l’audace de vouloir en tirer avantage.
+[232] Les saisies ont eu lieu en 2007, les cotisations ont été établies en 2009 et le procès a débuté en mai 2013 pour se poursuivre en janvier 2014. Si je compte bien, on parle d’une période d’environ sept ans.
+[233] Les appelants ne sont ni démunis intellectuellement ni financièrement. Tout au long du processus, ils ont été accompagnés de personnes-ressources dont la compétence ne fait aucun doute.
+[234] Malgré la durée du procès, la preuve des parties et les notes écrites qui ont suivi, lesquelles ont été préparées minutieusement à partir des transcriptions et des réflexions parallèles, il s’avère tout à fait impossible de savoir précisément qui était véritablement propriétaire des montants saisis à la Bijouterie que les appelants exploitaient ensemble.
+[235] La prépondérance de la preuve est à l’effet que les appelants n’ont rien fait pour clarifier la situation; au contraire, soit ils se sont abstenus de fournir des explications raisonnables et crédibles, soit ils ont inventé de toutes pièces certaines explications, soit ils ont donné des explications vagues et confuses, soit ils ont changé leur version aux différentes étapes du cheminement de leur dossier; ce sont là les caractéristiques de l’ensemble de leur témoignage qui constitue le principal de la preuve qu’ils ont soumise.
+[236] Devant une telle preuve, je me dois de prendre en compte les éléments objectifs, non contestés, à savoir les montants en cause et l’endroit où ils ont été saisis.
+[237] Pour ce qui est des appelants Tang et Kang, il est aussi manifeste qu’ils possédaient, en plus des montants saisis à leur résidence personnelle, une partie importante de l’argent saisi dans les locaux de la Bijouterie.
+[238] En effet, M. Kang a affirmé avoir environ 300 000 $ à la Bijouterie au moment de l’arrivée de M. Tang. Quant à M. Tang, il a affirmé de son côté qu’il avait transporté entre 300 000 $ et 350 000 $ du bureau de change qu’il avait exploité sur la rue Jean-Talon.
+[239] Outre ces deux montants à peu près semblables, je suis convaincu que les appelants qui se sont rendus à leur résidence personnelle dans les minutes qui ont suivi la visite de l’agent d’infiltration l’ont fait pour y prendre une partie sinon la totalité des devises nécessaires pour finaliser la transaction avec l’agent d’infiltration.
+[240] Malgré l’énergie investie pour connaître les détails, rien de fiable n’est ressorti de l’exercice. Dans de telles circonstances, je me dois de retenir comme raisonnable, plausible et appropriée la thèse proposée par l’intimée, laquelle est d’ailleurs validée par une nette prépondérance de la preuve. Cette proposition est décrite aux paragraphes suivants de la plaidoirie écrite de l’intimée :
+407 […]
+a. L’avoir net de Tang, sans considérer les montants saisis, mais en considérant les revenus déclarés, devrait avoir un résultat de : (43 630 $CA) – ONGLET 1.
+b. L’avoir net de Kang, sans considérer les montants saisis, mais en considérant les revenus déclarés et les ajustements admis, devrait avoir un résultat de : 4 810 $CA – ONGLET 2
+408 […]
+c. Les montants saisis aux résidences de Tang, soit 509 406 $CA, et de Kang, soit 384 145 $CA, sont des actifs dont la propriété est reconnue par Tang et par Kang et qui doivent être maintenus aux actifs de ces derniers à la fin de leur année d’imposition 2007, compte tenu de leur apparition le 17 avril 2007. Tang et Kang n’ont pas réussi à démontrer que ces montants constituent des économies.
+[…]
+410 […]
+d. Toutefois, puisque seuls les montants de 794 445 $CA et 61 840 $CA saisis chez Bijouterie ont été considérés dans le calcul de l’écart par avoir net de Tang et de Kang initialement, seul 50% du total de ces montants (794 445 $CA + 61 840 $CA/2), soit 428 142,50 $CA, devrait être maintenu dans le calcul de l’écart par avoir net de Tang et de Kang. Ce pourvu que le tribunal retienne que la théorie de la propriété des montants de chez Bijouterie à 50% pour Tang et Kang.
+[…]
+419 […]
+e. Ainsi, la méthode de vérification indirecte de l’analyse des dépôts/méthode sélective par points, doit tenir compte de l’apparition objective de ce montant, en l’attribuant au dernier exercice actif, ce qui se traduit par une augmentation des revenus de l’appelante de 1 357 969 $CA pour son exercice fiscal se terminant le 30 mars 2007, tel que l’indique I-9, plutôt que 1 734 696 $CA, tel que l’indique l’annexe I de la réponse à l’avis d’appel dans le dossier de Bijouterie.
+[241] Le tribunal souscrit entièrement à la proposition et l’entérine à titre de jugement de cette cour dans les trois appels comme devant être les nouvelles cotisations à être établies auxquelles devront s’ajouter les pénalités en conséquence.
+[242] Pour toutes ces raisons, les appels sont accueillis en ce que les dossiers devront faire l’objet de nouvelles cotisations en tenant pour acquis que les revenus non déclarés sont établis comme suit :
+a) Bijouterie (dossier 2010-3917(IT)G), pour l’exercice financier terminé le 31 mars 2007 : 1 357 969 $,
+b) M. Tang (dossier 2010-3915(IT)G), pour l’année d’imposition 2007 : 893 918,50 $,
+c) M. Kang (dossier 2010-3913(IT)G, pour l’année d’imposition 2007 : 817 097,50 $.
+[243] Quant aux pénalités, elles sont justifiées et, conséquemment, confirmées; elles devront toutefois être modifiées en fonction des montants établis comme n’ayant pas été déclarés.
+[244] Le tout, avec dépens en faveur de l’intimée, lesquels devront être toutefois établis en fonction de deux dossiers seulement, c’est-à-dire les dépens équivalant à un seul dossier pour les deux appelants, Chhang Ang Kang (2010-3913(IT)G) et Uy Keak Tang (2010-3915(IT)G), et à un second pour ce qui a trait au dossier de l’appelante, Bijouterie Yong Meer inc. (2010-3917(IT)G).
+Signé à Ottawa, Canada, ce 27e jour de janvier 2015.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2015 CCI 18
+Nos DES DOSSIERS DE LA COUR :
+2010-3913(IT)G
+2010-3915(IT)G
+2010-3917(IT)G
+INTITULÉ DE LA CAUSE :
+CHHANG ANG KANG,
+UY KEAK TANG,
+BIJOUTERIE YONG MEER INC.,
+c. LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATES DE L’AUDIENCE :
+Le 30 mai 2013
+Le 31 mai 2013 (conférence téléphonique)
+Du 20 au 24 janvier 2014
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Alain Tardif
+DATE DU JUGEMENT :
+Le 27 janvier 2015
+COMPARUTIONS :
+Avocats des appelants :
+Me Jean-Francois Poulin
+Me Marie-Hélène Tremblay
+Avocat de l’intimée :
+Me Vlad Zolia
+AVOCATS INSCRITS AUX DOSSIERS :
+Pour les appelants :
+Me Jean-Francois Poulin
+Me Marie-Hélène Tremblay
+Cabinet :
+Ravinsky Ryan Lemoine
+Montréal (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Plaidoirie écrite de l’intimée déposée le 14 avril 2014.
+[2] Plaidoirie écrite de l’intimée déposée le 14 avril 2014.

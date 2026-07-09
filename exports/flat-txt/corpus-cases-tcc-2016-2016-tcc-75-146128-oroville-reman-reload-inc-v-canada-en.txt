@@ -1,0 +1,275 @@
+Title: Oroville Reman & Reload Inc. v. Canada
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/146128/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-75-146128-oroville-reman-reload-inc-v-canada-en.md
+Document type: case_law
+Last modified: 2016-04-01
+
+# Oroville Reman & Reload Inc. v. Canada
+
+- Citation: 2016 TCC 75
+- Decision date: 2016-04-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2926, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Oroville Reman & Reload Inc. v. Canada
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-04-01
+Neutral citation
+2016 TCC 75
+File numbers
+2011-815(SLP)G
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Softwood Lumber Products Export Charge Act, 2006
+Decision Content
+Docket: 2011-815(SLP)G
+BETWEEN:
+OROVILLE REMAN & RELOAD INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on December 8 and 9, 2015, at
+Vancouver, British Columbia
+Before: The Honourable Eugene P. Rossiter, Chief Justice
+Appearances:
+Counsel for the Appellant:
+P. John Landry
+Jeffrey Horswill
+Counsel for the Respondent:
+Michael Taylor
+Matthew Turnell
+JUDGMENT
+The appeal from the assessment made under section 18 of the Softwood Lumber Products Export Charge Act, 2006, notice of which is dated August 11, 2008, is allowed and the assessment is vacated in accordance with the attached Reasons for Judgment.
+Costs are awarded to the Appellant. The parties shall speak to the issue of costs of the appeal on a date fixed by the Court.
+Signed at Ottawa, Canada, this 1st day of April, 2016.
+“E.P. Rossiter”
+Rossiter C.J.
+Citation: 2016 TCC 75
+Date: 20160329
+Docket: 2011-815(SLP)G
+BETWEEN:
+OROVILLE REMAN & RELOAD INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rossiter C.J.
+Overview [1] This appeal centres on issues of jurisdiction at international law.
+[2] The Appellant is a company incorporated in the United States of America (“USA”). The Appellant has never engaged in nor carried on business in Canada. All of its operations take place within the USA.
+[3] The Appellant was an “importer of record” for Canadian softwood lumber products imported into the USA and, pursuant to two US Orders active between 2002 and 2006, paid to the USA Government duty deposits relating to those particular imports.
+[4] In September 2006, the Governments of Canada and the USA entered into a Softwood Lumber Agreement, which provided a scheme for refunding the duty deposits previously paid under the two US orders. Under this scheme, refunds were paid to the Appellant by the US Government.
+[5] Pursuant to subsection 18(3) of the Softwood Lumber Products Export Charge Act, 2006 (the “SLPECA”), the Minister of National Revenue (the “Minister”) levied an 18.06 percent charge on the Appellant’s refunds. This charge, plus interest, totals $927,700.75.
+[6] The Appellant appealed to the Tax Court of Canada under section 57 of the SLPECA.
+The Facts [7] The Agreed Statement of Facts are as follows:
+Assessment under Appeal
+1. The assessment under appeal is a Notice of Assessment (the “Assessment”) dated August 11, 2008, made under Section 18 of the Softwood Lumber Export Charge Act 2006 [sic], R.S.C. 2006, c. 13 (the “Act”).
+Oroville Reman & Reload Inc.
+2. The Appellant, Oroville Reman & Reload Inc. (“Oroville”) is a company incorporated under the laws of the State of Washington in the United States.
+3. Oroville's principal place of business is at 301 - 9th Avenue, Oroville, Washington. Oroville, Washington is approximately 6.5 kms south of the Canadian border and has an official crossing into Osoyoos, British Columbia.
+4. Oroville is not, and has never been, registered or continued in any jurisdiction in Canada. Oroville has no facilities, assets or operations in Canada.
+5. All of Oroville’s business facilities are located in Oroville, Washington. Those facilities consist of storage and reload yards with multiple rail sidings, truck loading sites, limited storage and a remanufacturing plant.
+6. Oroville is a service company that, for a fee, provides reload, repackaging and remanufacturing services for softwood lumber products. Those products are produced and sold by third party producers (most often Canadian lumber producers) to third party customers. The products are imported to the United States where Oroville performs its services, and then they are delivered to the customer. In most cases, the customers are located in the United States but some customers are located overseas, in which case the lumber is shipped back to Canada and then on to its destination.
+7. Oroville does not take title to the lumber products delivered to its facility. Nor does it transport, or arrange for the transportation of, softwood lumber products from Canada to the United States. All transportation arrangements for delivery to the ultimate customer are made by the lumber producers or their customers.
+8. The reload services provided by Oroville generally involve receiving, storing and reloading softwood lumber delivered by truck to Oroville’s facilities. When all of the lumber destined for a customer of the Canadian producer is ready for shipment, it is reloaded onto rail cars or trucks and shipped to that customer. All of Oroville’s reload services are performed in the United States.
+9. The repacking of lumber services provided by Oroville generally involves the repackaging of lumber received from Canadian producers of Canadian softwood lumber into smaller packages. Once packaged, the wood is stored and then reloaded to be shipped for distribution. All of Oroville’s repacking services are performed in the United States.
+10. The remanufacturing services provided by Oroville generally involve the remanufacture of softwood lumber received from Canadian producers. Those services include trimming and regrading lumber into higher grades and finished lumber, trimming of lumber, and priming (painting). The products on which they are performed are then repackaged, reloaded and distributed. All of Oroville’s remanufacturing services are performed in the United States.
+11. From 2002 to 2004, all imports of Canadian softwood lumber products handled by Oroville were reloaded but only approximately one third of the products were remanufactured.
+12. All of Oroville’s services are performed for Canadian softwood lumber producers; however, Oroville does not provide any services in Canada. All of Oroville’s work in these respects is performed in the United States.
+13. Oroville files and pays income taxes in the United States. It does not file or pay income taxes in Canada.
+Ownership of Oroville and its relationship with Gorman Bros.
+14. Oroville is a wholly owned subsidiary of Gorman Bros. Lumber Ltd. (“Gorman Bros.”). Gorman Bros. is a Canadian corporation located in Westbank, British Columbia. Gorman Bros. is a Canadian lumber producer that sells its products in the Canadian, U.S., and other export markets.
+15. Between 2001 and 2007, Bill Reddy was the President of both Gorman Bros. and Oroville.
+16. Between 2002 and 2004, Oroville provided approximately 95% of its reload, repackaging and remanufacturing services to Gorman Bros., and the remainder to other Canadian softwood lumber producers.
+Transportation and U.S. Customs Brokerage relating to lumber handled by Oroville
+17. Transportation of lumber to the Oroville facility from Canada, and from the Oroville facility to the ultimate customer, is paid for and arranged by either the Canadian producer of the lumber or that producer’s ultimate customer.
+18. Oroville granted Norman G. Jensen, Inc. (“Norman Jensen”), an American customs broker, a power of attorney to perform customs brokerage services for it. Gorman Bros. also retained Norman Jensen to perform U.S. customs brokerage services. Throughout the material time, Norman Jensen was located in Minneapolis, Minnesota.
+The Softwood Lumber dispute between Canada and the United States
+19. Between 2001 and 2006, Canada and the United States were involved in a major trade dispute involving Canadian softwood lumber. The dispute concerned the legality under World Trade Organization law and U.S. domestic law of anti-dumping and countervailing duties applied to Canadian softwood lumber products imported into the U.S. The relevant orders by U.S. authorities were:
+a. Notice of Amended Final Determination of Sales at Less than Fair Value and Antidumping Order: Certain Softwood Lumber Products from Canada, 67 Fed. Reg. 36,068 (May 22, 2002), as amended; and
+b. Notice of Amended Final Affirmative Countervailing Duty Determination and Notice of Countervailing Duty Order: Certain Softwood Lumber Products from Canada, 67 Fed. Reg. 36,070 (May 22, 2002) as amended.
+(collectively, the “U.S. Orders”)
+20. From 2002 to 2006, the United States collected approximately US $5.4 billion in duties in relation to imports of Canadian softwood lumber products into the United States. Although a few – including Oroville – were U.S. companies, the vast majority of the importers who paid the duties (described under U.S. law as “importers of record”) were Canadian lumber producers.
+21. On September 12, 2006, Canada and the United States reached a negotiated agreement to end the softwood lumber dispute (the “Softwood Lumber Agreement”). The Softwood Lumber Agreement contemplated, in part, the retroactive removal of the U.S. Orders and the return of all duties paid under those orders, with interest.
+22. In respect of the issues relevant to the Assessment, the Softwood Lumber Agreement provided as follows:
+a. the United States would retroactively revoke the U.S. Orders and refund all duty deposits to the importers of record, with interest;
+b. Canada would offer the importers of record an option to assign to the Export Development Corporation (the “EDC”) any refunds owing to them by the United States as a result of the revocation of the U.S. Orders, and to receive immediate payment of those amounts from the EDC less a portion which would be kept by the EDC (the “Escrow Importer Scheme”); and
+c. Canada would pay to certain specified parties in the United States a total of US$1,000,000,000.
+23. The Escrow Importer Scheme offered importers of record the opportunity to receive immediate payment of approximately 80% of their anticipated duty refunds, whereas it was expected that direct refund payments from the United States would not be paid for between six months and two years.
+24. Under the Escrow Importer Scheme, the EDC would retain a percentage of each assigned duty refund equal to the percentage that $1,000,000 [sic] represented of all duty refunds paid by the United States pursuant to the revocation of the U.S. Orders. The percentage to be retained by the EDC was subsequently determined to be 18.06%.
+25. The Softwood Lumber Agreement provided that the Escrow Importers would be required to irrevocably direct the EDC to use the monies that it retained from the assigned duty refunds as funding for the US $1,000,000,000 to be paid to certain United States recipients.
+26. The Softwood Lumber Agreement provided that “Canada shall pay the difference between $US 1 billion and the aggregate amount directed by the Escrow Importers [those importers of record that took part in the Escrow Importer Scheme].”
+27. The Softwood Lumber Agreement provided that it would not take effect until importers of record representing 95% of all duty deposits had agreed to participate in the Escrow Importer Scheme.
+28. On September 18, 2006, the Minister of International Trade moved a Notice of Ways and Means Motion announcing an intention to enact the Act to implement the terms of the Softwood Lumber Agreement.
+29. The Act received first reading in the House of Commons as Bill C-24 on September 20, 2006.
+30. On October 12, 2006, Canada and the United States agreed to amend the Softwood Lumber Agreement. Among other amendments, the parties agreed to remove the requirement that importers of record representing at least 95% of all duty deposits agree to participate in the Escrow Importer Scheme before the agreement would become effective.
+31. The Act received royal assent on December 14, 2006. All but five sections of the Act that are not relevant to this appeal were deemed to be in force on October 12, 2006.
+32. Not all importers of record participated in the EDC scheme. Oroville was one that did not participate.
+33. In late 2006 the United States revoked the U.S. Orders and, accordingly, it subsequently refunded in full the duty deposits paid by all importers of record.
+Oroville was an “importer of record”
+34. During the material period Oroville was designated as an importer of record for Canadian softwood lumber products imported into the United States on the forms filed pursuant to the application of United States law.
+35. Although Oroville did not take title to the softwood lumber products, Norman Jensen designated Oroville as an importer of record under U.S. law.
+36. Pursuant to United States law, the importer of record was responsible for remitting anti-dumping and countervailing duty deposits.
+37. Between 2002 and 2004, Norman Jensen filed with United States customs officials the relevant paperwork on Oroville’s behalf for each entry for which Oroville was designated the importer of record, and paid the applicable duty deposits on Oroville’s behalf.
+38. Norman Jensen invoiced Oroville for approximately 84% of the duty deposits for which Oroville was designated as the importer of record, and invoiced Gorman Bros. for the balance of approximately 16%. All of those amounts were paid by Gorman Bros. rather than by Oroville.
+Importation of products from Gorman Bros., and determination of the importer of record
+39. Gorman Bros. and Oroville were both listed as importers of record in respect of lumber produced by Gorman Bros. that was imported to the United States between 2002 and 2004. On some occasions Gorman Bros. was listed as the importer of record on the United States customs forms, and on other occasions Oroville was listed as the importer of record.
+40. The determination of whether Oroville or Gorman Bros. was listed as the importer of record in respect of a particular lumber shipment was made by Norman Jensen.
+41. The reason why Oroville was listed as importer of record on some occasions, and Gorman Bros. on other occasions, is unknown.
+42. Oroville was not the importer of record for any entries in 2005 or 2006.
+Duty Refunds to Oroville
+43. Upon revocation of the U.S. Orders, the United States refunded to Oroville US$3,967,905.16. This was the full amount of its duty deposits, plus interest, detailed as follows:
+Date of Refund Refund Amount (USD)
+3-Nov-06 $1,047,356.55
+13-Nov-06 2,095,008.75
+17-Nov-06 143,243.40
+24-Nov-06 558,701.03
+1-Dec-06 8,016.83
+8-Dec-06 115,578.60
+TOTAL $3,967,905.16
+44. Upon the revocation of the U.S. Orders, as is required by United States law, the United States Government paid the refunds from its treasury in Philadelphia, Pennsylvania to Norman Jensen in Minneapolis, Minnesota.
+45. Norman Jensen paid Oroville US$3,354,123.83 in respect of the refunds. These payments were made by cheques received by Oroville in Washington between December 4 and 15, 2006. Oroville deposited these payments into its bank account at the Sterling Savings Bank in Oroville, Washington.
+46. Norman Jensen paid the remaining US$617,888 of Oroville’s refunds to Gorman Bros. in December 2006 and January 2007. Norman Jensen did this because it had invoiced Gorman Bros. for the payment of the duty deposits related to this amount.
+47. Of the US $3,354,123.83 received from Norman Jensen, Oroville paid US$3,231,463.73 to Gorman Bros. at Gorman Bros.’ direction. Oroville kept the remainder.
+The Assessment of Oroville by the Minister of National Revenue
+48. By letters dated January 14, 2008, and July 31, 2008, the Minister of National Revenue (the “Minister”) advised Oroville that it was required to remit to Canada 18.06% of the duty deposits returned by the United States Government, citing subsection 18(3) of the Act as its authority.
+49. By letters dated February 13, 2008, and August 22, 2008, Oroville declined to remit any charge to Canada under subsection 18(3) of the Act.
+50. By the Assessment, the Minister assessed Oroville pursuant to subsection 18(3) of the Act for a charge of $814,483.44 (CDN) plus arrears of interest calculated as of August 11, 2008, totaling $927,700.75 calculated as follows:
+Date of Exchange Refund Amount Charge of Charge
+Refund Rate (USD) 18.06% Assessed
+(USD) (CDN)
+3-Nov-06 1.1290 $1,047,356.55 $189,152.59 $213,553.28
+13-Nov-06 1.1395 2,095,008.75 378,358.58 431,139.60
+17-Nov-06 1.1459 143,243.40 25,869.76 29,644.16
+24-Nov-06 1.1346 558,701.03 100,901.41 114,482.74
+1-Dec-06 1.1445 8,016.83 1,447.84 1,657.05
+8-Dec-06 1.1501 115,578.60 20,873.50 24,006.61
+TOTAL $3,967,905.16 $716,603.67 $814,483.43
+51. On November 4, 2008, Oroville objected to the Assessment.
+52. On December 14, 2010, the Minister confirmed the Assessment.
+53. Oroville has not remitted the amount assessed.
+Issues [8] The parties disagree about the order in which the issues should be addressed. The broad issue is whether the Minister appropriately assessed the Appellant pursuant to section 18 of the SLPECA.
+[9] The Appellant submits the issues should be addressed in the following order:
+A. Is Canada’s attempt to enforce subsection 18(3) of SLPECA an impermissible exercise of enforcement jurisdiction?
+B. If the answer to question A is no, then is the attempt to enforce subsection 18(3) foreclosed by the principle that domestic legislation is presumed to conform with principles of international law (the “presumption of conformity”)?
+C. If the answer to both questions A and B is no, then is Canada’s attempt to enforce subsection 18(3) of the SLPECA foreclosed by the presumption that domestic legislation is not intended to have extraterritorial effect (the “presumption against extraterritoriality”)?
+[10] The presumptions in issues B and C are merely presumptions. It is well within Parliament’s authority to pass legislation that rebuts the presumptions, but the legislation must demonstrate an unequivocal intent to do so.
+[11] The parties agree that the questions are all questions of mixed law and fact based upon the Agreed Statement of Facts.
+[12] The Respondent in effect views issue C as the first issue to be addressed, because if subsection 18(3) cannot be interpreted to apply extraterritorially, then it would not apply to the Appellant and there is no need to discuss enforcement jurisdiction or principles of international law. If the statute does not by clear words or by necessary implication show that Parliament intended subsection 18(3) to be extraterritorial, then the appeal should be allowed. If it does, then issues A and B come into play.
+The Law
+[13] The relevant provisions are set out in Appendix A to these Reasons.
+Analysis
+[14] I will address the issues in the order suggested by the Appellant.
+1) Is Canada’s attempt to enforce subsection 18(3) of the SLPECA against the Appellant an impermissible exercise of enforcement jurisdiction?
+[15] International law recognizes three kinds of jurisdiction: prescriptive, enforcement, and adjudicative. The Supreme Court of Canada (the “SCC”) in R v Hape, 2007 SCC 26, [2007] 2 SCR 292 [Hape] explained at paragraph 58:
+Prescriptive jurisdiction (also called legislative or substantive jurisdiction) is the power to make rules, issue commands or grant authorizations that are binding upon persons and entities. The legislature exercises prescriptive jurisdiction in enacting legislation. Enforcement jurisdiction is the power to use coercive means to ensure that rules are followed, commands are executed or entitlements are upheld. As stated by S. Coughlan et al. in “Global Reach, Local Grasp: Constructing Extraterritorial Jurisdiction in the Age of Globalization” (2007), 6 C.J.L.T. 29, at p. 32, “enforcement or executive jurisdiction refers to the state’s ability to act in such a manner as to give effect to its laws (including the ability of police or other government actors to investigate a matter, which might be referred to as investigative jurisdiction)” (emphasis in original). Adjudicative jurisdiction is the power of a state’s courts to resolve disputes or interpret the law through decisions that carry binding force.
+[16] The first task is to determine the kind of jurisdiction that Canada exercised when the CRA sent certain correspondence to the Appellant. The Appellant argues that Canada has exercised its enforcement jurisdiction, while the Respondent argues it was prescriptive.
+[17] This distinction is important because different preconditions attach depending on whether a State exercises prescriptive or enforcement jurisdiction. According to Hape at paragraph 68, Canada can exercise its prescriptive jurisdiction extraterritorially where it does so in accordance with binding customary principles, or even in contravention of these principles where Parliament shows an an unequivocal intention to do so. However, Canada can exercise enforcement jurisdiction in a foreign state only with the foreign state’s consent.
+[18] What is meant by enforcement in the tax context? The Appellant argues that sending correspondence for the purpose of enforcing revenue laws amounts to exercising enforcement jurisdiction. This position is bolstered by the author F.A. Mann, who distinguished documents of notice that merely involve the supply of information with no threat of penalties in the event of non-compliance from documents involving a compulsory process or containing a command.[1] According to F.A. Mann, the latter category is enforcement jurisdiction. Dr. Michael Akehurst writes that because the power to tax is a sovereign power, steps taken to give effect to that power in the territory of another State is enforcement jurisdiction.[2]
+[19] The Respondent, on the other hand, argues that enforcement is not possible until there has been a Notice of Assessment. Enforcement jurisdiction begins only after, when the CRA takes steps to collect on its tax claim. This to me seems implausible. If the exercise of prescriptive jurisdiction ends once Parliament has passed the SLPECA (and both parties appeared to agree on this point), and the exercise of enforcement jurisdiction only begins after the issuance of a Notice of Assessment, then there is a gap in jurisdiction for the period in between. From my review of the CRA’s correspondence outlined below, it seems clear that in this case Canada exercised its enforcement jurisdiction.
+[20] Whether or not the steps alleged to be enforcement were taken before or after the assessment is neither here nor there. The Respondent could not come up with any reasonable explanation to counter the suggestion that enforcement jurisdiction occurs immediately after prescription jurisdiction ends and prescription jurisdiction ends when the enactment receives royal assent and becomes law.
+[21] The Minister sent to the Appellant two letters dated January 14, 2008 and July 31, 2008 with an accompanying Form B277 for paying the charge.
+[22] The letter dated January 14, 2008, attached hereto as Appendix B, explained the subsection 18(3) charge and stated that “In order to complete the filing and pay the duty deposit Oroville Reman & Reload Inc. must file the attached form B277 Charge on Refunds of Duty Deposit Return and mail the completed form to the address noted below”. The letter concluded with “Please provide the above information within 30 days from the above date”.
+[23] The attached Form B277 is self-explanatory and contains the following part: “Subsection 18(3) of Softwood Lumber Products Export Charge Act, 2006 requires that every person that receives a refund of a “duty deposit” in accordance to the Softwood Lumber Agreement, 2006, must pay a charge equal to 18.06% of the refund. This charge applies to refunds received directly from the Government of the United States of America or received under an arrangement with Export Development Canada…”. This form is shown in Appendix C.
+[24] The letter dated July 31, 2008 uses stronger language and raises the threat of penalties. It opens with: “This is to inform you that despite a previous letter of March 27, 2008, you have failed to file a Charge on Refunds of Duty Deposits Return (Form B277) to report the duty deposit refunds and charge payable for the above company pursuant to sections 18 and 26 of the Softwood Lumber Products Export Charge Act 2006 (“Act”). Section 26 of the Act requires a person to file a return; calculate the total amount of the charges payable; and pay the amount, if any, to the Receiver General. Consequently, we are raising an assessment of the charge payable pursuant to Section 50…”. The possibility of penalties is then raised: “Furthermore, penalties for failure to file a return when required may be applied pursuant to section 64, along with interest assessed in the amounts not paid when required pursuant to section 34 and 35 of the Act”. The letter also states “You are strongly advised to file the return and submit your payment…”
+[25] There would be no doubt in the mind of the recipient of the letters, especially the letter of July 31, 2008, that the CRA was making coercive demands. The correspondence demonstrates clearly that the CRA’s purpose in writing was to collect monies they assert was owed. They wanted to find out how much money was owed in the first place and then collect it. The fact that a Notice of Assessment had not been issued at the time does not change the nature of their course of conduct. Put simply, the correspondence indicated a compulsory process (to file), with the possibility of penalty for non-compliance. This must be enforcement jurisdiction.
+[26] The Respondent asserted that a finding that the CRA was exercising enforcement jurisdiction would be chaotic and be a revolutionary finding. I disagree. The Government of Canada, had it wanted to enforce the SLPECA extraterritorially, could have taken steps to ensure that it could do so, most likely through tax treaties or negotiations and agreements with the other State.
+[27] As mentioned, enforcement jurisdiction can be exercised in a foreign state only with that state’s consent. Here, there is no indication, direct or indirect, of any consent by the USA to Canada giving them the right to collect monies that Canada asserts must be paid under the legislation in question against the Appellant in the USA.
+[28] In response to the first issue raised by the parties, I find that Canada, contrary to international law, tried to enforce the SLPECA against the Appellant. I leave for another day the question of whether sending a Notice of Assessment amounts to enforcement jurisdiction, since I find that the Appellant’s other arguments dispose of this case in their favour.
+ii) Whether the presumption of conformity and presumption against extraterritoriality preclude Canada from taxing the Appellant
+[29] The presumption of conformity and the presumption against extraterritoriality aid in statutory interpretation. The Appellant argues that these presumptions require subsection 18(3) to be interpreted so as not to apply to an entity like the Appellant.
+[30] The Appellant raised the two presumptions separately. However, as I will explain later, the thrust of these two presumptions is similar in the present case. Therefore, I will address these two arguments together in the following way. First, I consider whether enforcing subsection 18(3) against the Appellant would breach the presumption of conformity or the presumption against extraterritorial effect. If these presumptions are not breached, then the Respondent wins on issues B and C. If the presumptions are breached, then the second step is to consider whether the statute evinces an unequivocal intent to do violate these presumptions.
+[31] The SCC in Hape described the presumption of conformity as follows in paragraph 53:
+It is a well-established principle of statutory interpretation that legislation will be presumed to conform to international law. The presumption of conformity is based on the rule of judicial policy that, as a matter of law, courts will strive to avoid constructions of domestic law pursuant to which the state would be in violation of its international obligations, unless the wording of the statute clearly compels that result. R. Sullivan, Sullivan and Driedger on the Construction of Statutes (4th ed. 2002), at p. 422, explains that the presumption has two aspects. First, the legislature is presumed to act in compliance with Canada’s obligations as a signatory of international treaties and as a member of the international community. In deciding between possible interpretations, courts will avoid a construction that would place Canada in breach of those obligations. The second aspect is that the legislature is presumed to comply with the values and principles of customary and conventional international law. Those values and principles form part of the context in which statutes are enacted, and courts will therefore prefer a construction that reflects them. The presumption is rebuttable, however. Parliamentary sovereignty requires courts to give effect to a statute that demonstrates an unequivocal legislative intent to default on an international obligation...”
+[32] In short, legislation should be interpreted wherever possible in a manner consistent with the principles of international law and comity.
+[33] The Appellant argues that the principles of international law that are at stake here are sovereign equality, non-intervention, and respect for territorial sovereignty of foreign states.
+[34] In Hape, the SCC explained that there are limits to a State’s jurisdiction:
+57 …[J]urisdiction is distinct from, but integral to, the principle of state sovereignty. The principles relating to jurisdiction arise from sovereign equality and the corollary duty of non-intervention. Broadly speaking, jurisdiction refers to a state's power to exercise authority over individuals, conduct and events, and to discharge public functions that affect them: Cassese, at p. 49.
+…
+59 International law - and in particular the overarching customary principle of sovereign equality - sets the limits of state jurisdiction, while domestic law determines how and to what extent a state will assert its jurisdiction within those limits. Under international law, states may assert jurisdiction in its various forms on several recognized grounds.
+The recognized grounds of jurisdiction alluded to in the quote above are:
+1. Territoriality principle;
+2. Nationality principle;
+3. Passive principle;
+4. Protective principle; and
+5. Universal principle.
+[35] In the context of this case, the only ground on which the SLPECA might apply to the Appellant is the territoriality principle. This principle was explained in Hape as follows:
+59 …The principle of territoriality extends to two related bases for jurisdiction, the objective territorial principle and the subjective territorial principle. According to the objective territorial principle, a state may claim jurisdiction over a criminal act that commences or occurs outside the state if it is completed, or if a constituent element takes place, within the state, thus connecting the event to the territory of the state through a sufficiently strong link: Brownlie, at p. 299. See also Libman, at pp. 212-13. Subjective territoriality refers to the exercise of jurisdiction over an act that occurs or has begun within a state's territory even though it has consequences in another state.
+[36] To recapitulate, the presumption of conformity in this case presumes that the SLPECA will conform to the principles of sovereign equality, non-intervention, and comity. This can only be so if the application of the SLPECA to the Appellant is justified on the ground of territoriality.
+[37] In R v Libman, [1985] 2 SCR 178, 21 DLR (4th) 174 [Libman], the SCC set forth what the territoriality principle meant for Canada. The issue there was whether Canada had jurisdiction over a criminal offence, parts of which were performed in various countries. The SCC wrote at page 212:
+I might summarize my approach to the limits of territoriality in this way. As I see it, all that is necessary to make an offence subject to the jurisdiction of our courts is that a significant portion of the activities constituting that offence took place in Canada. As it is put by modern academics, it is sufficient that there be a "real and substantial link" between an offence and this country, a test well known in public and private international law; see Williams and Castel, supra; Hall, supra.
+[38] Translated to the case at bar, the question is whether there is a "real and substantial link" between Canada and the activities giving rise Canada's claim for tax.
+[39] The factors that establish a "real and substantial link" vary based on the facts and issues of a case. In Society of Composers, Authors and Music Publishers of Canada v Canadian Assn of Internet Providers, 2004 SCC 45, [2004] 2 SCR 427 [SOCAN], the SCC suggested that where the jurisdictional issue is whether the Copyright Act applies to Internet communications involving international participants, relevant factors include the situs of the content provider, the host server, the intermediaries (such as internet providers) and the end user.
+[40] The Respondent argues that a “real and substantial link” exists in the case at bar. The Respondent points to the alignment of interest between Canada and the Appellant in having the lumber dispute resolved, the monetary benefit received by the Appellant from Canada’s efforts in resolving the dispute, and the fact that the payment revolves around the export of Canadian lumber products.
+[41] In my view, these factors are insufficient to create a real and substantial link, especially given some very significant facts before the Court. The Appellant has never been registered or continued in any jurisdiction in Canada. The Appellant has no facilities, assets or operations in Canada. The Appellant’s business facilities are located in Washington. The Appellant is a service company that did not perform any of its services in Canada. All the transportation to and from its facilities were arranged and paid for by the suppliers of the lumber in question. The Respondent drew my attention to the Canadian corporate ownership by Gorman Bros Lumber Ltd (“Gorman”) of the Appellant and the fact that the President of the Appellant is also the President of Gorman, but in my view, this is not sufficient to establish a real and substantial link. Moreover, although the Appellant was designated as an importer of record, it paid duties to the Government of the USA, not Canada. These facts show that a significant amount, if not all, of the activities giving rise to Canada’s claim for tax occurred outside Canada.
+[42] I conclude there is no "real and substantial link". As such, the presumption of conformity is breached if the SLPECA is interpreted to apply to the Appellant.
+[43] The Appellant also raised separately the presumption against extraterritoriality.
+[44] As I mentioned earlier, in the context of this case the thrust of the presumption against territoriality and presumption of conformity is similar. Essentially, the Appellant argues both presumptions would be breached if the SLPECA applied extraterritorially, and the issue in respect of both presumptions is reduced to whether interpreting the SLPECA to apply to the Appellant amounts to an extraterritorial application. As outlined earlier, I believe that it does. Therefore, the presumption against extraterritoriality has also been breached.
+iii) Does the SLPECA evince an unequivocal intent to breach the presumptions?
+[45] Regarding the presumption of conformity, paragraph 53 of Hape reads:
+…The presumption is rebuttable, however. Parliamentary sovereignty requires courts to give effect to a statute that demonstrates an unequivocal legislative intent to default on an international obligation.
+[46] Similarly, the presumption against extraterritoriality is rebutted where there are “clear words or necessary implication to the contrary”: SOCAN at paragraph 54.
+[47] The question really comes down to whether one can deduce, from clear words or necessary implication, that Parliament had an unequivocal intent to legislate in violation of these two presumptions.
+[48] The bar for rebuttal is high. The Appellant cited two authorities with respect to this particular point. In Metcalfe v Yamaha Motor Powered Products Co, 2012 ABCA 240 [Metcalfe], a statement of claim was served ex juris on a Japanese company pursuant to a court order issued under Rule 11.26(1)(b) of the Alberta Rules of Court. The court order required the service to comply with the Hague Convention, which it did not. The Alberta Court of Appeal had to determine whether the service was valid. An argument was raised that Rule 11.27(1) of the Alberta Rules of Court, excerpted below, gave the Court discretion to validate the service despite its defect:
+“…the Court may make an order validating the service of a document served inside or outside Alberta in a manner that is not specified by these rules if the Court is satisfied that the method of service used brought or was likely to have brought the document to the attention of the person to be served.”
+[49] The Alberta Court of Appeal found that this language was not strong enough to allow a court to validate service that contravened the Hague Convention. The Court at paragraph 48 stated:
+In order to conform to international law, [in the manner required by the Hape decision], rule 11.27 should not be interpreted so as to circumvent the methods of service provided in the Hague Convention unless done so in clear and unequivocal language. Such clear and unequivocal language does not appear in rule 11.27.
+[50] It is interesting to note that Rule 11.27 in Alberta expressly contemplates service “outside Alberta”, yet the Court made a finding that Rule 11.27 did not contain clear and unequivocal language. In Khan Resources Inc. v Atomredmatzolotocjsc, 2013 ONCA 189, after citing Metcalfe, the Ontario Court of Appeal came to a similar conclusion on a similar issue.
+[51] In the present case, I do not see any clear words anywhere which could remotely be taken as rebutting the presumptions in question.
+[52] If one looks to the SLPECA as a whole, there are instances where the Parliament of Canada intended to extend the reach of the SLPECA beyond Canada’s territorial borders. It appears that where this is intended, the language is crafted expressly. For example, subsection 22(5) requires non-residents to provide security in respect of charges on exports, which evidences Parliament’s intent that the export charge provisions (sections 10-17) have extraterritorial effect. However, we are not concerned with those provisions. We are concerned with subsection 18(3), and there is no express language there.
+[53] The Respondent then turned to arguing that Parliament, by necessary implication, intended section 18 to apply to entities like the Appellant. However, the Respondent could not provide any authorities in which the doctrine of necessary implication was applied to statutes of a taxing nature. The Respondent referred to Alberta Government Telephones v Canada (Canadian Radio-Television and Telecommunications Commission), [1989] 2 SCR 225, which dealt with whether a particular statute could, by necessary implication, bind the Crown in spite of the Crown prerogative of immunity. The Respondent relies on this case for the proposition that a result can be necessarily implied where there is a manifest intention in the statute for that result, or where the purpose of the statute would be wholly frustrated without the result.
+[54] I have reviewed the statute in detail and I do not find that the intent for subsection 18(3) to apply extraterritorially is “manifest”, or that the purpose of the SLPECA would be wholly frustrated if subsection 18(3) were not to apply to the Appellant.
+[55] We are dealing with taxing legislation. It is my view that in order for tax legislation to have effect on a taxpayer, the government must bring the taxpayer’s conduct, and the taxpayer, within the four corners of the statute. In this particular case, the Respondent’s assertions do not remotely support such a finding.
+[56] I would also note that there was no evidence that the Appellant was an agent for Gorman.
+[57] In summary, I find that Parliament did not intend subsection 18(3), which applies to “specified persons”, to apply to an entity like the Appellant.
+Conclusion
+[58] Based upon all of the foregoing, the appeal is allowed and the assessment is vacated and the Appellant shall have costs of the appeal. The parties shall speak to the issue of costs of the appeal on a date fixed by the Court.
+Signed at Ottawa, Canada, this 1st day of April, 2016.
+“E.P. Rossiter”
+Rossiter C.J.
+APPENDIX “A”
+APPENDIX “B”
+APPENDIX “C”
+CITATION:
+2016 TCC 75
+COURT FILE NO.:
+2011-815(SLP)G
+STYLE OF CAUSE:
+OROVILLE REMAN & RELOAD INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+December 8, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Eugene P. Rossiter, Chief Justice
+DATE OF JUDGMENT:
+April 1, 2016
+APPEARANCES:
+Counsel for the Appellant:
+P. John Landry
+Jeffrey Horswill
+Counsel for the Respondent:
+Michael Taylor
+Matthew Turnell
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+P. John Landry
+Jeffrey Horswill
+Firm:
+DLA Piper (Canada) LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] F.A. Mann, “The Doctrine of Jurisdiction in International Law”, Receuil des Cours, 1964-I.
+[2] Michael Akehurst, “Jurisdiction in International Law”, 46 Brit Y B Int’l L, 145 1972-1973

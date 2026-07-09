@@ -1,0 +1,158 @@
+---
+title: "Pellerin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27220/index.do"
+last_modified: "2006-07-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 383"
+citation2: ""
+neutral_citation: "2006 TCC 383"
+decision_date: "2006-07-21"
+language: "en"
+item_id: "27220"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 826
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:54:29.871000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "302d66e52fd8533e14961ca44c6af0155f0ec344a6ff8d17f6cf775ce1fd24cb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pellerin c. La Reine
+
+- Citation: 2006 TCC 383
+- Decision date: 2006-07-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 826, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pellerin c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-07-21
+Neutral citation
+2006 TCC 383
+File numbers
+2005-2573(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2573(IT)I
+BETWEEN:
+LISE PELLERIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 30, 2006, at Trois-Rivières, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jean Lavigne
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2002 and 2003 taxation years is allowed without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that, in accordance with the attached Reasons for Judgment, the amounts of $15,081 and $15,340, respectively, are to be subtracted from the Appellant's income, and that the appropriate corrective action is to be taken as a consequence of this judgment.
+Signed at Ottawa, Canada, this 21st day of July 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29th day of June 2007.
+Brian McCordick, Translator
+Citation: 2006TCC383
+Date: 20060721
+Docket: 2005-2573(IT)I
+BETWEEN:
+LISE PELLERIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is the appeal under the Income Tax Act ("the Act") from assessments pertaining to the 2002 and 2003 taxation years.
+[2] The Appellant reported the amounts of $15,081 and $15,340 as employment income.
+[3] The evidence discloses that these were amounts that her son, a victim of a major accident, paid her in consideration of the care and attention that she gave him due to a significant and permanent partial disability involving very serious after-effects. Following a road accident, the Appellant's son received a financial allowance, some of which was spent on outside help that enabled him to function.
+[4] The Appellant's son continues to receive compensation for non-pecuniary damage. The compensation is established in accordance with the Société de l'assurance automobile du Québec's tables; in fact, part of it is intended for personal home assistance because he depends on the help of others due to his physical condition.
+[5] On November 18, 2003, the Appellant sought an adjustment for the taxation years 1996 through 2002 on the ground that the amounts that she received from her son, and reported as employment income, should not be taxed.
+[6] On March 1, 2004, the Minister of National Revenue ("the Minister") notified the Appellant in writing that no adjustment would be made.
+[7] In making the assessments dated May 8, 2003, and May 17, 2004, for the 2002 and 2003 taxation years, the Minister assumed the following facts:
+[TRANSLATION]
+(a) Richard Pellerin, the Appellant's son, had a very serious road accident on May 22, 1996.
+(b) Richard Pellerin, the Appellant's son, was born on March 5, 1976. He was 20 years old at the time of the accident.
+(c) The Appellant's son receives an annual amount from the Société d'assurance automobile du Québec ("SAAQ") in reimbursement of his personal home assistance expenses, subject to a maximum. In order to receive this amount, he must submit receipts signed by the person or persons who provide him with such services.
+(d) During the taxation years in issue, the Appellant's son lived at his parents' home.
+(e) During the taxation years in issue, the Appellant was the person who provided the personal home assistance services to Richard Pellerin.
+(f) For the taxation years in issue, Richard Pellerin remunerated his mother, the Appellant, by giving her the amounts received from the SAAQ as advances on the personal home assistance expenses.
+(g) Richard Pellerin, the Appellant's son, issued a T4 slip to the Appellant for each tax year in issue. On these slips, he entered, among other things, the said amounts in box 14 as employment income.
+(h) For the taxation years in issue, the Appellant reported these amounts as employment income.
+(i) The Minister confirmed the assessments in respect of the 2002 and 2003 taxation years for the following reasons:
+(i) the Appellant's son is an adult;
+(ii) the SAAQ does not consider Richard Pellerin, the Appellant's son, incapacitated within the meaning of the Civil Code of Québec, because it pays the advances directly to him;
+(iii) Richard Pellerin freely chose to use the services of his mother, the Appellant, and to remunerate her for her services;
+(iv) no parental or support obligation has been shown to exist;
+(v) the Appellant provides personal home assistance services in exchange for remuneration; and
+(vi) the Appellant is an employee in respect of the services that she provides.
+[8] The facts set out in the Reply to the Notice of Appeal were not contested and are listed correctly.
+[9] The Canada Customs and Revenue Agency submits that my decision in Maurice v. Her Majesty the Queen, Docket 2000‑2873(IT)I, dated March 19, 2001, and reported at [2001] T.C.J. No. 164, was contextual and was based on its particular facts. Thus, the CCRA submits that the instant case should not be decided in the same way because it is very different.
+[10] The Respondent emphasized that the Société de l'assurance automobile du Québec paid the amounts directly to the Appellant's son, and that he was an adult at the time, and was capable of entering into contracts despite his significant physical and mental impairment.
+[11] The issue is whether the Minister, in computing the Appellant's income for the years 2002 and 2003, respectively, properly included the amounts of $15,081 and $15,340 as income from employment.
+[12] The Respondent submitted that the Appellant's son was a person of full age endowed with legal capacity, and could therefore be a party to a valid juridical act.
+[13] Initially, the Appellant considered the amounts received to be employment income. This was clearly based on the advice and instruction of a person with some knowledge of accounting.
+[14] It is most probably based on her reading of my reasons for judgment in Maurice, supra, that the Appellant decided to request a review of her file.
+[15] The facts of the case at bar differ from those in Maurice, supra, where the recipient of the accident compensation was a young child who was not endowed with legal capacity. The person involved in the case at bar, namely the Appellant's son, is an adult who is not the subject of any legal protection, and therefore has full capacity despite his injuries and permanent neurological after‑effects.
+[16] The Société d'assurance automobile du Québec pays compensation directly to the Appellant's son so that he can obtain the assistance that is necessary because of the permanent after-effects of his injuries. The son has therefore decided to give the compensation to his mother, in recognition of the assistance and support that she provided him.
+[17] Although the work was described briefly, the duties were not defined. This was undeniably a relationship in which the emotional dimension played a predominant role and in which supervision featured prominently.
+[18] The Appellant was very concerned about her son's health and safety and devoted all her energy and efforts to ensure that her son had the best quality of life possible.
+[19] This was in no way a business relationship or even an employment contract. The affection stemming from the parental bond was the primary and fundamental reason for the relationship. The notion of profit was non-existent and there was no relationship of subordination.
+[20] How should the amounts that the Appellant was paid by her son be characterized? Certainly not as remuneration in exchange for work. The amounts had nothing to do with the services rendered. They were essentially amounts given gratuitously out of appreciation and recognition. It is clear that the Appellant would have provided the same care in the same way, even without a gift or recompense.
+[21] Consequently, the appeal is allowed, and the assessments are referred back to the Minister for reconsideration and reassessment on the basis that the amounts of $15,081 and $15,340, respectively, are to be subtracted from the Appellant's income, and that the appropriate corrective action is to be taken as a consequence of this judgment. There shall be no costs.
+Signed at Ottawa, Canada, this 21st day of July 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29th day of June 2007.
+Brian McCordick, Translator
+CITATION: 2006TCC383
+COURT FILE NO.: 2005-2573(IT)I
+STYLE OF CAUSE: Lise Pellerin and Her Majesty the Queen
+PLACE OF HEARING: Trois-Rivières, Quebec
+DATE OF HEARING: January 30, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: July 21, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jean Lavigne
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

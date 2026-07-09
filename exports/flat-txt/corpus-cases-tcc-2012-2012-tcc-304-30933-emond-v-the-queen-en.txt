@@ -1,0 +1,189 @@
+Title: Emond v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30933/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-304-30933-emond-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-08-24
+
+# Emond v. The Queen
+
+- Citation: 2012 TCC 304
+- Decision date: 2012-08-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7429, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Emond v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-08-24
+Neutral citation
+2012 TCC 304
+File numbers
+2011-1884(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-1884(IT)I
+BETWEEN:
+ANNITA EMOND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on July 20, 2012, at Montreal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Agent for the Appellant:
+Richard Venor
+Counsel for the Respondent:
+Valerie Messore
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act (ITA) for the 2006, 2007, 2008 and 2009 taxation years are allowed, with costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amounts of $11,894 for each of the 2006 and 2009 taxation years and $11,895 for each of the 2007 and 2008 taxation years added to the appellant’s income as pension income pursuant to subparagraph 56(1)(a)(i) of the ITA shall be deleted. The non‑refundable tax credit for each of those taxation years shall be recalculated accordingly.
+Signed at Ottawa, Canada, this 24th day of August 2012.
+“Lucie Lamarre”
+Lamarre J.
+Citation: 2012 TCC 304
+Date: 20120824
+Docket: 2011-1884(IT)I
+BETWEEN:
+ANNITA EMOND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] These are appeals from reassessments made by the Minister of National Revenue (Minister) under the Income Tax Act (ITA) for the 2006, 2007, 2008 and 2009 taxation years.
+[2] In reassessing the appellant, the Minister added to the appellant’s income as pension income the amounts of $11,894 for each of the 2006 and 2009 taxation years and $11,895 for each of the 2007 and 2008 taxation years, and allowed the appellant $2,000 as a pension amount in the calculation of her non-refundable tax credits for each of the taxation years at issue.
+[3] The Minister relied upon the facts set out in paragraph 18 of the Reply to the Notice of Appeal, which reads as follows:
+18. In order to establish the reassessments and confirmation the Minister relied on the following same assumptions of fact:
+a. The Appellant was married to JCR and during the year 2001 there was a breakdown of the marriage;
+b. By way of a Consent Order, November 20, 2001, from the Queen’s Bench of New Brunswick, Family Division, Judicial District of Bathurst (hereinafter “the Consent”) the Appellant and JCR agreed:
+i. To cancel the April 5, 2001 court order for spousal support in the amount of $1,200 per month and cancelling [sic] the retroactive payment for October 15, 2001; and
+ii. That JCR is to provide, on a monthly basis, 50% of his retirement annuity he was receiving since 1992 from Sun Life Assurance Company in relation to his retirement pension from K-Mart, Canada;
+c. Per Consent the proportionate division of the pension annuity as paid by JCR is considered to be a division of marital property;
+d. JCR did provide the payments as required by the Consent on a monthly basis for the taxation years in issue;
+e. The splitting of such pension income in such fashion as per Consent is allowed by the law of the Province of New Brunswick and permitted by the Queen’s Bench of New Brunswick, Family Division, Judicial District of Bathurst;
+f. The Appellant had not included in income the pension income received following the Consent for the 2006, 2007, 2008 and 2009 taxation years;
+g. The amounts received were 50% of the pension income which JCR was entitled to receive.
+[4] The Consent Order dated November 20, 2001, which is the basis of the payments received by the appellant following the breakdown of the marriage, was filed as Exhibit A-1 and Exhibit R-1, Tab 9. The relevant portions thereof are reproduced hereunder:
+IN THE COURT OF QUEEN’S BENCH OF NEW BRUNSWICK
+FAMILY DIVISION
+JUDICIAL DISTRICT OF BATHURST
+BETWEEN:
+ANNITA ROY
+Applicant
+-and-
+JEAN-CLAUDE ROY,
+Respondent
+CONSENT ORDER
+UPON CONSENT of the parties and their Solicitors hereto;
+1. Under the Family Services Act, S.N.B. 1980, ch. F-2.2:
+. . .
+(c) The Spousal Support Order by the Honourable Mr. Justice G. W. Boisvert, Judge of the Court of Queen’s Bench of New Brunswick, such Order dated 5 April 2001, wherein the Respondent, JEAN‑CLAUDE ROY, was paying the Applicant, ANNITA ROY, spousal support in the amount One Thousand Two Hundred Dollars ($1,200.00) per month is hereby cancelled. The spousal support owed by the Respondent to the Applicant for 15 October 2001 is retroactively cancelled.
+2. Under the Marital Property Act, S.N.B. 1980, ch. M-1.1:
+(a) There shall be an equal division of the marital property in the following manner:
+(i) The Applicant, ANNITA ROY, and the Respondent, JEAN-CLAUDE ROY, acknowledge that the Respondent placed his pension plan with K-Mart of Canada Limited with Sun Life Assurance Company, purchasing an annuity. Such annuity commenced on 1 January 1992, and paid at that time the amount of One Thousand Nine Hundred Eighty-Two Dollars Forty-Seven Cents ($1,982.47) per month. The Applicant, ANNITA ROY, was named as the joint and last survivor annuitant on the aforesaid plan. Both the Applicant and the Respondent acknowledge that this aforesaid division is a division of marital property and is not to be considered spousal support by either the Applicant or the Respondent. Commencing on 1 October 2001, and on the first (1st) day of each and every month thereafter, and pursuant to Section 112, the Respondent, JEAN-CLAUDE ROY, shall pay to the Applicant, ANNITA ROY, one-half of the monthly net amount of the aforesaid annuity. Such amount shall be paid directly by the Respondent to the Applicant by way of deposit in her bank account at La Caisse Populaire de Beresford Limitée. The Respondent will sign any documentation necessary to ensure that La Caisse Populaire de Beresford Limitée transfers this amount on a monthly basis from the bank account of the Respondent to the bank account of the Applicant. The Applicant, ANNITA ROY, shall continue to be joint and irrevocable last survivor annuitant on the aforesaid annuity.
+[5] The appellant testified that on separation in 2001 she received interim spousal support of $1,200 per month. She did not have any other income.
+[6] Her lawyer subsequently negotiated the Consent Order with her former husband’s counsel. In that Consent Order, the interim spousal support was cancelled and there was an equal division of the marital property between the spouses. Included in the marital property was the former husband’s annuity with the Sun Life Assurance Company that was purchased in 1992 with the funds in his pension plan.
+[7] The Consent Order specified that commencing on October 1, 2001, and on the first of each and every month thereafter, the former husband was to pay to the appellant one-half of the monthly net amount of the aforesaid annuity. It also specified that such amount was to be paid directly by the former husband to the appellant by way of deposit in her bank account. In that regard, the former husband was to sign any documentation necessary to ensure that the Caisse Populaire would transfer this amount on a monthly basis from his bank account to the appellant’s account.
+[8] The appellant’s counsel advised her that the amount in question was not taxable as it represented the portion of the marital property to which she was entitled, and the appellant therefore did not report it in her tax returns. There was no evidence adduced in court as to the exact amount that was paid by the former husband to the appellant as her share of the pension benefits from Sun Life Assurance.
+[9] Mr. Jean-Claude Roy, the former husband, also testified. He said that although he received T4 slips from Sun Life for the total amount of the annuity, he reported only half of the gross amount indicated on the T4 slips. In his mind, he only had to report half of that amount as he was paying the other half to the appellant. Again, the exact amount remitted to the appellant was not revealed in court.
+[10] Mr. Roy also claimed as a credit the total amount withheld at source by Sun Life on the annuity payment.
+[11] Ms. Maryse Landry, the appeals officer for the Canada Revenue Agency (CRA) also testified. She said that she, along with her supervisor, took the decision to tax the appellant on half of the annuity. On this point, it seems that the CRA changed its mind a few times, assessing and reassessing with respect to the annuity either both spouses or only the former husband. Ms. Landry said that the final decision was taken upon reading and interpreting the Consent Order. She saw a contradiction in that document in that the ex‑spouses agreed to share the marital property equally, without however specifying the amounts to be divided.
+[12] She did not find that it was clear from that order what exactly the former spouses wanted to share or what their intention was. More particularly, it was not clear who was responsible for the tax on the amounts. Obviously, each spouse had a different view of the matter, as the husband declared only half of the annuity as pension income while the appellant did not report in her income any portion of her share of the annuity.
+[13] Ms. Landry also noted that the amounts withheld at source by Sun Life on the annuity paid to the husband decreased over the years. In the years at issue, Sun Life withheld approximately half of the amount it had withheld in 2001 and the years following.
+[14] Ms. Landry, with her team at the CRA, ultimately decided that the appellant had to report half of the annuity as pension income.
+[15] It is Ms. Landry’s view that when the CRA finally made up its mind to tax the appellant on half of the annuity, Sun Life should have been advised and accordingly should have reduced the amount withheld at source on the amount paid to the former husband. It is also my understanding that the former husband did make such a request to Sun Life.
+[16] Counsel for the respondent relied on subparagraph 56(1)(a)(i) of the ITA and on the definition of “superannuation or pension benefit” in subsection 248(1) of the ITA to argue that the appellant was taxable on the half of the annuity received from her former husband.
+[17] The relevant portions of these provisions are reproduced hereunder:
+56. (1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+(a) any amount received by the taxpayer in the year as, on account or in lieu of payment of, or in satisfaction of,
+(i) a superannuation or pension benefit . . .
+248. (1) In this Act,
+. . .
+“superannuation or pension benefit” includes any amount received out of or under a superannuation or pension fund or plan and, without restricting the generality of the foregoing, includes any payment made to a beneficiary under the fund or plan or to an employer or former employer of the beneficiary thereunder
+(a) in accordance with the terms of the fund or plan,
+(b) resulting from an amendment to or modification of the fund or plan, or
+(c) resulting from the termination of the fund or plan.
+[18] Counsel for the respondent argued that it was the intention in the Consent Order to divide the source of income (the annuity) equally among the spouses and that each would pay tax on the income from that source.
+[19] Counsel also relied on paragraph 11 of Interpretation Bulletin IT-499R (IT‑499R), which reads as follows:
+11. If there is a division of pension benefits on a marriage breakdown, generally the pension benefits legislation of a province provides the terms under which a portion of the pension benefits of a member of a pension plan may be paid to a spouse or former spouse under a domestic contract, a written separation agreement, or under a divorce decree or court order under a provincial family law act relating to a division of property on the breakdown of the marriage. Upon a division of pension benefits in these circumstances, the portion received by each spouse or former spouse at a time permitted under the pension benefits legislation of the province is included in the income of that spouse or former spouse as a pension benefit under subparagraph 56(1)(a)(i). The above tax treatment applies even if the administrator of the pension plan issues one cheque to the plan member who is required to apportion the payments.
+[20] Counsel for the respondent argued that the pension benefits were received by the appellant in lieu of the support amount received initially. In her view, it is clear that the parties intended to divide equally the income from the former husband’s annuity and therefore both should share the tax burden with respect to that income.
+[21] The respondent relied on the decision of the Federal Court of Appeal in Walker v. R., 1999 CarswellNat 2307, and on the decision of the Tax Court of Canada in Lane v. The Queen, 2007 TCC 674.
+[22] In those cases, the ex-husband assigned one-half of the gross proceeds of his pension and either had those proceeds allocated directly at source by the pension administrator or attempted unsuccessfully to do so, and in the latter situation it was therefore, the ex-husband himself who transferred half of the gross proceeds to his ex-wife.
+[23] Since the agreements in those cases provided that the amounts were to be divided at source, it was contemplated that each party would bear the tax consequences of receiving one-half of the gross amount of the pension.
+[24] In Andrews v. The Queen, 2005 TCC 246, the ex-husband attempted to have the pension administrator pay directly to his ex-wife, in application of the pension equalization clause in the separation agreement, half of the pension amount accrued to him. The pension administrator advised the ex-husband that it was prohibited under the Pension Benefits Act of Ontario from paying to the ex-wife the full amount requested. The pension administrator thus determined the portion of the pension that would be paid directly to the ex-wife. The balance therefore had to be paid directly by the ex-husband to the ex-wife.
+[25] Bowman C. J. held that the balance paid directly from the ex-husband to the ex-wife were not superannuation or pension benefits in the hands of the ex-wife within the meaning of this expression as defined in subsection 248(1) of the ITA (par. 12 - 14). Bowman C. J.’s reasoning was that an amount paid monthly by an ex-husband to his ex-spouse as a division of a matrimonial asset, namely the ex‑husband’s pension, is neither a support amount nor a pension benefit in the hands of the recipient ex-spouse (par. 18).
+[26] Bowman C. J. then analyzed the decision in Walker, supra. As alluded earlier, the issue in that case was whether the ex-wife was required to include in her income the portion of the gross proceeds of her ex-spouse’s pension income paid to her under a separation agreement. At first instance, Judge Mogan of this Court ruled that she was required to do so. Bowman C. J. summarized the reasoning in Walker as follows in Andrews, at paragraph 25 et seq.:
+25 When one analyses the reasoning of Mogan J. and of the Federal Court of Appeal one is forced to ask "why was Mrs. Walker taxable on a division of family property?" If there had been, as Mogan J. observes, an actuarial calculation of the present value of the husband's pension and a lump sum paid to her by her husband, the lump sum would clearly not have been taxable, either as a pension benefit or as a support amount. I do not think that even the decision of the majority of the Supreme Court of Canada in Tsiaprailis v. Canada, 2005 SCC 8, would have taxed her on the lump sum. Clearly the amount paid to Mrs. Walker by her husband was not a pension amount because it was not paid out of a superannuation or pension fund or plan. It is clear as well that the parties did not intend it to be a support amount and, as noted above, Mogan J. rejected the argument that it was a support payment. Then why is it taxable?
+26 Justice Mogan put his decision on the basis that since the rules did not permit the pension to be split by the administrator and paid directly to the wife, the husband received a portion of the pension as agent for the wife. The reasoning appears to be, therefore, not that it was deductible by the husband under any particular provision of the Act, but rather that the portion that he paid to his wife was received by him as her agent and never formed part of his income in the first place. In other words, by agreeing to pay her a portion of the pension that he received he did what the pension administrator could not do, that is to say, split the pension at source so that he was taxable only on the portion that he retained and she was in effect receiving the portion received from her husband directly from the pension administrator.
+27 This analysis was not adopted by the Federal Court of Appeal in its oral judgment. The ratio of the Federal Court of Appeal's judgment seems to be contained in paragraph 5 of the reasons which reads:
+[5] We believe it was the intention of the parties at the time the separation agreement was executed that each would pay income tax on the gross amount received with the result that each would be left with their share of the pension (the property in this case) after taxes.
+There is, I suppose, a sort of rough justice in making estranged spouses abide by the tax consequences that they agreed to but I had always been under the impression that the tax consequences of transactions had to be determined in accordance with the law and not in accordance with the deals people made. After all, if the Minister of National Revenue is not bound by deals his officials make with taxpayers (Cohen v. The Queen, 80 DTC 6250; Consoltex Inc. v. The Queen, 97 DTC 724; cf. Smerchanski et al. v. M.N.R., 76 DTC 6247) it is difficult to see how the incidence of taxation of a particular transaction that the parties agree to should bind the Minister if it is not in conformity with the Act.
+28 While I have some difficulty with the legal reasoning in Walker, nonetheless I am bound by the rule of stare decisis to follow the decision of the Federal Court of Appeal because it is for all practical purposes indistinguishable from this case. Moreover, the result is not an unfair one.
+29 The parties here agreed that each would pay tax on a portion of the husband's pension and they incorporated that agreement in a consent order. [I should mention that I am not aware that a superior court of a province has the power to declare what the federal income tax consequences of a transaction should be.] The reason for the appellant paying his wife a portion of the pension that he received was the same as in the Walker case, and that was because the pension administrator did not believe that it could split the pension in a manner that differed from that permitted by law.
+30 I shall endeavour to summarize my reasons for concluding that the appellant should succeed. Here we have an agreement between the spouses that they will share the husband's pension. Part of the split is made before the money leaves the pension administrator's hands and $444.00 is paid directly by the administrator to the wife. The assumption appears to be that this amount is owned ab initio by the wife under subparagraph 56(1)(a)(i) of the Act and never forms part of the husband's income. Therefore the question of deductibility by the husband never arises.
+31 The parties also agreed that a further portion of the husband's pension ($556.00) would be paid monthly by him to his wife:
+"as further equalization of the Respondent's pension. Such sum shall be tax deductible to the Respondent and taxable in the hands of the Applicant."
+32 Leaving aside the question of the effectiveness of the agreement to dictate the tax consequences of this arrangement, the provision is at least clear evidence of the intent of the parties and this brings it within paragraph 5 of the Federal Court of Appeal judgment in Walker, quoted above.
+33 I can find no provision in the Income Tax Act that would permit the deduction of the monthly $556.00 equalization payments. Therefore to be consistent with Walker if the appellant is to succeed it must be on the basis that the portion of his pension received by the appellant and paid to his wife did not form part of his income. As will be apparent from my remarks earlier in these reasons, I find the reasoning in Walker difficult to reconcile with certain concepts that I have always believed to be firmly entrenched in income tax law:
+(a) absent sham, the form of a transaction prevails over notions of "substance" or "economic reality".
+(b) the tax consequences of a transaction are to be determined on the basis of what was in fact done not what might have been done.
+(c) the parties to a transaction cannot bind either the Court or the Minister by an agreement as to the tax consequences of the transaction.
+34 I could perhaps distinguish Walker on a variety of grounds.
+(a) the agreement in Walker involved an "assignment" rather than an agreement to pay.
+(b) there was a finding by Mogan J. that the husband was an agent of the wife. I do not know what evidence was before Mogan J. that would justify this conclusion. It was unquestionably a convenient solution to a somewhat perplexing problem and it enabled him to achieve a fair result. It was not, it might be noted, the basis of the Federal Court of Appeal decision.
+(c) the Walker case dealt with income inclusion and this case deals with deductibility in which the rules are different. The argument would be that in Walker something analogous to the surrogatum principle discussed recently in Tsiaprailis was the inarticulate major premise upon which the judgment was based whereas in questions of deductibility there is no such thing as the converse of the surrogatum principle.
+35 I do not think that these somewhat subtle distinctions justify my not following Walker. The principle that I deduce from the Walker decision is that effect should be given to agreements that parties enter into. It is that principle that I am bound to follow.
+36 The appeals are allowed and the assessments for the taxation years 2000, 2001 and 2002 are referred back to the Minister for reconsideration and reassessment on the basis that the portion of the appellant's pension that he paid to his former spouse as an equalization payment under the Family Law Act of Ontario is not to be included in his income.
+[27] In the case of St-Jacques v. Canada, [1999] T.C.J. No. 929 (QL), 1999 CarswellNat 3121, Judge Dussault of this Court distinguished Walker. In that case, the husband and wife agreed, in a separation agreement, on an equal division of the pension benefits that the husband would receive from the administrator of his pension. The full amount of the pension was paid to the husband who in turn was to pay his wife her share of the pension benefits.
+[28] In the separation agreement, it was agreed that the husband’s pension fund would be divided equally. The wife subsequently asked the pension administrator for direct payment of half of her husband’s pension, to which request she received the answer that the husband’s pension was unassignable and unseizable.
+[29] As stated by Judge Dussault at paragraph 16, in actual fact, all that the parties had agreed to do was to share equally the income from the husband’s pension plan. Judge Dussault expressed himself as follows at paragraphs 16 and 17:
+16 In actual fact, all that the parties agreed to do in article 4(d) of the agreement was to share equally the income from three separate pension plans, namely the income from Mr. Roberge's pension plan with Mutuelle-Vie and the income of Mr. Roberge and the appellant from the Régie des rentes du Québec. An agreement to share income from various sources is not a transfer of entitlement to that income. A taxpayer who is employed and who simply agrees to share his or her employment income with his or her spouse does not give the spouse an amount that could be described as "employment" income. The taxpayer is simply sharing his or her own employment income with another person. The same is true in the case at bar.
+17 In light of the foregoing, I therefore conclude that subparagraph 56(1)(a)(i) of the Act is not applicable to this case.
+[30] Judge Dussault then went on to distinguish Walker in the following terms at paragraphs 18 and 19:
+18 In closing, I will add a brief comment on this Court's decision in Walker v. Canada, [1994] T.C.J. No. 982, on which counsel for the respondent relied in support of her position that subparagraph 56(1)(a)(i) applies to the instant case. As noted by counsel for the appellant, it was clear in that case that the parties' intention was to assign half of the husband's benefits to his wife. The following extract from article 14 of the separation agreement in Walker, to which counsel for the appellant referred and which is found at page 3 of the judgment, could not be any clearer in this regard. It reads as follows:
+The husband shall assign one half of the gross proceeds of his pension income from his military service and until such time as the payments resulting from the assignment are processed and reach the wife, the husband shall pay to the wife the sum of four hundred and eighteen dollars and forty two cents ($418.42) per month on the first day of every month commencing on the first day of April, 1988. The wife may elect to set off monies payable to the husband for child support against pension income until the assignment is perfected but must advise the husband of such election prior to the twenty fifth of the previous month. The husband warrants that he will proceed with due diligence to process such assignment.
+19 It will be easily understood that assigning entitlement to a gross pension income does not have the same effect as sharing net pension income with another person.
+[Emphasis added.]
+[31] With respect to paragraph 11 of IT-499R, Judge Dussault said the following at paragraph 20:
+20 I will also point out that paragraph 11 of Interpretation Bulletin IT-499R dated January 12, 1992, which concerns superannuation or pension benefits, deals with the division of pension benefits in accordance with the applicable provincial legislation in the event of separation or divorce. In my view, the opinion expressed in that paragraph that both spouses must include in their income the portion they receive upon a division of benefits, even if the administrator of the pension plan issues only one cheque, namely to the plan member-whether or not that opinion be correct for the case concerned-is not applicable to the present situation, as a division of benefits under section 107 of the Supplemental Pension Plans Act never occurred here since no such division was possible given the terms of the agreement signed by the parties on March 26 and 28, 1992, and confirmed by the divorce judgment of October 21, 1992.
+[32] I find that the present case is similar to the situation in St-Jacques. The terms used in the separation agreement were that the appellant’s former husband would pay her one-half of the monthly net amount of his pension annuity. This is not assignment of entitlement to gross pension income, which does not have the same effect as the sharing of net pension income with another person. Furthermore, I do not find that it is clear in the present case that the parties’ intention in signing the agreement was to assign to the appellant half of the former husband’s benefits, on which she would be liable for tax. At least, such is not apparent from the agreement itself. Therefore, in light of Bowman C. J.’s comments in Andrews, Walker may be distinguished on the basis that:
+a. the agreement in Walker involved an “assignment” rather than an agreement to pay, as is the case here; and
+b. there is no evidence of a clear intention to assign half of the former husband’s pension benefits to the appellant. Rather, the words used specified clearly that the former husband was to pay the appellant half of the monthly net amount of his annuity.
+[33] Mr. Roy acknowledged in Court that although he would have preferred that the annuity be paid directly to the appellant by the pension administrator, he agreed to sign the agreement as drafted by both his counsel and counsel for the appellant. I would add that it was not, after all, an unfair result that he share equally with his ex-spouse the net proceeds from his pension. Each month, Sun Life Assurance had to pay Mr. Roy the full amount of the annuity less his total tax liability, and out of that net amount Mr. Roy had to pay half to his ex-spouse, the appellant, in accordance with the Consent Order. As stated by Sheridan J. in O’Brien v. The Queen, 2005 TCC 661, at paragraph 14, that the payments to which the appellant was entitled came from a pension fund is merely incidental. It is not, in itself, sufficient to convert them to “pension benefits” within the meaning of paragraph 56(1)(a) of the ITA.
+[34] With respect to IT-499R (regardless of whether or not it is correct in law), it applies to the division of pension benefits on the terms set out in the provincial legislation. In the present case, the separation agreement provided for an equal division of the marital property under the Marital Property Act of New Brunswick in such a manner that the former husband would pay the appellant one-half of the monthly net amount of the annuity purchased by him with the funds in his pension plan. There is no evidence before me that this is a division of pension benefits under the provincial legislation. As was the case in St-Jacques, the separation agreement did not provide for a division of the plan’s or the annuity’s value. There is no evidence that the former husband transferred benefits under his pension plan to the appellant; accordingly, the appellant did not acquire benefits under that plan and did not receive any amount from Sun Life Assurance. As Judge Dussault said at paragraph 16 of his reasons in St-Jacques, an agreement to share income from a source is not a transfer of entitlement to that income. Paragraph 11 of IT‑499R is therefore not applicable to the present situation since no division of the former husband’s pension benefits was affected under the terms of the separation agreement. In any event, I am not bound by the interpretation given in an Interpretation Bulletin (see Nowegijick v. The Queen et al., 83 DTC 5041 at page 5044 (SCC)).
+[35] For all these reasons, I am of the view that the amounts received by the appellant in accordance with the separation agreement are not taxable as pension income pursuant to subparagraph 56(1)(a)(i) of the ITA.
+[36] The appeals are allowed on that basis.
+Signed at Ottawa, Canada, this 24th day of August 2012.
+“Lucie Lamarre”
+Lamarre J.
+CITATION: 2012 TCC 304
+COURT FILE NO.: 2011-1884(IT)I
+STYLE OF CAUSE: ANNITA EMOND v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: July 20, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: August 24, 2012
+APPEARANCES:
+Agent for the Appellant:
+Richard Venor
+Counsel for the Respondent:
+Valerie Messore
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

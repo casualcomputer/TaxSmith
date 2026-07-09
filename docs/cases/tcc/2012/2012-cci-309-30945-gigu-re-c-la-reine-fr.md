@@ -1,0 +1,373 @@
+---
+title: "Giguère c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30945/index.do"
+last_modified: "2012-09-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 309"
+citation2: ""
+neutral_citation: "2012 CCI 309"
+decision_date: "2012-09-06"
+language: "fr"
+item_id: "30945"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6573
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:25:28.891000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "acc637b2ca6a0fcda552f8e357ae8fee3a66f7ad1d9b6deab06fb43143e7c20d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Giguère c. La Reine
+
+- Citation: 2012 CCI 309
+- Decision date: 2012-09-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6573, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Giguère c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-09-06
+Référence neutre
+2012 CCI 309
+Numéro de dossier
+2010-2890(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-2890(IT)G
+ENTRE :
+SYLVIE GIGUÈRE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 3 avril 2012, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelante :
+Me Louis Sirois
+Avocate de l'intimée :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+Les appels à l'encontre des nouvelles cotisations établies en date du 12 août 2009 en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 2004, 2005 et 2007 sont rejetés avec dépens conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 6e jour de septembre 2012.
+« Réal Favreau »
+Juge Favreau
+Référence : 2012 CCI 309
+Date : 20120906
+Dossier : 2010-2890(IT)G
+ENTRE :
+SYLVIE GIGUÈRE,
+appelante
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] L'appelante interjette appel à l'encontre de nouvelles cotisations établies en date du 12 août 2009 en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), telle que modifiée (la « Loi »), à l'égard des années d'imposition 2004, 2005 et 2007. Les nouvelles cotisations concernant les années 2004 et 2005 ont été établies en dehors de la période normale de nouvelle cotisation.
+[2] Par de nouvelles cotisations datées du 12 août 2009, le ministre du Revenu national (le « Ministre ») a ajouté au revenu de l'appelante, suite à la vente de résidences familiales, les sommes de 31 068 $, 44 729 $ et 29 872 $ à titre de revenu d'entreprise pour ses années d'imposition 2004, 2005 et 2007. Le Ministre a de plus appliqué la pénalité prévue au paragraphe 163(2) de la Loi à l'égard du revenu d'entreprise ajouté au revenu de l'appelante pour ses années d'imposition 2004, 2005 et 2007, soit les sommes de 3 264 $, 4 755 $ et 3 359 $ respectivement.
+[3] Pour établir l'impôt payable par l'appelante pour les années d'imposition 2004, 2005 et 2007, le Ministre a tenu pour acquis les faits suivants énoncés au paragraphe 9 de la Réponse à l'avis d'appel:
+a) L'appelante est policière pour le service de la ville de Montréal;
+b) Au cours des années en litige, l'appelante avait un conjoint, Yves Thellen;
+c) Au cours des années 2004 à 2007, M. Thellen était employé de la société Master, à Boucherville, qui œuvre dans la climatisation et le chauffage;
+d) De plus, M. Thellen était actionnaire à 50 % d'une société oeuvrant dans la vente et l'installation de foyers;
+e) En 2001, l'appelante et son conjoint résidaient à Mirabel;
+f) De 2001 à 2005, l'appelante et son conjoint ont construit sept maisons unifamiliales;
+g) À l'exception de la première maison construite à Mirabel, les six autres maisons ont été construites à Blainville;
+h) Le revenu d'entreprise ajouté au revenu de l'appelante pour les années 2004, 2005 et 2007 portait sur la vente des trois propriétés suivantes :
+· 385 Fontainebleau, Blainville;
+· 431 Fontainebleau, Blainville;
+· 7 des Iris, Blainville;
+i) Les trois propriétés en litige ont été vendues au cours des années 2004, 2005 et 2007;
+j) Pour les trois propriétés en litige, la durée de possession entre la date d'achat du terrain et celle de sa mise en vente a varié entre 67 et 110 [sic]) jours, le tout tel qu'étayé au tableau « Dates importantes eu égard aux transactions » joint à la présente Réponse comme annexe A pour en faire partie intégrante;
+k) Dans le cas de la propriété du 385 Fontainebleau, la fiche d'inscription au MLS mentionne que la maison est en construction et qu'elle sera livrable en janvier 2004;
+l) Entre la date d'acquisition des trois terrains et la date de la vente des trois propriétés en litige, la période de détention a varié de 281 jours à 615 jours, le tout tel qu'étayé au tableau « Dates importantes eu égard aux transactions » de l'annexe A;
+m) Au cours des années 2004, 2005 et 2007, l'appelante n'a déclaré comme revenu que des revenus d'emploi du service de police de la ville de Montréal dans ses déclarations de revenu.
+REVENU D'ENTREPRISE
+385 RUE FONTAINEBLEAU, À BLAINVILLE
+n) Le 28 août 2003, l'appelante a fait une offre d'achat pour l'acquisition d'un terrain vacant ayant front sur la rue Fontainebleau, à Blainville, et portant le numéro civique 385;
+o) Les coûts de construction pour cette propriété présentés au tableau de l'appelante sont surévalués, compte tenu des pièces justificatives soumises;
+p) À l'égard de cette propriété, l'appelante n'a pas fourni toutes ses factures ou encore les factures qu'elle a soumises étaient inférieures eu égard au tableau des coûts de construction présenté par l'appelante;
+q) Les coûts de construction ont été évalués par l'Agence du revenu du Canada à 312 942 $, le tout tel qu'étayé au tableau « Coûts de construction des maisons » joint à la présente Réponse comme annexe B pour en faire partie intégrante;
+r) Les coûts de construction figurant au tableau « Coûts de construction des maisons » joint à la présente Réponse comme annexe B pour en faire partie intégrante, sont composés comme suit :
+· Matériel et sous-traitance;
+· Travaux de main-d'œuvre non spécialisée;
+· Profit contracteur.
+s) Le pourcentage des travaux de main-d'œuvre non spécialisée effectués par l'appelante a été établi à 45% pour chacune des trois propriétés;
+t) Le 3 novembre 2003, la résidence du 385 rue Fontainebleau était mise en vente;
+u) Une promesse d'achat a été conclue le 25 mars 2004 quant à la résidence du 385 rue Fontainebleau;
+v) Le 4 juin 2004, la résidence du 385 rue Fontainebleau était vendue pour la somme de 366 000 $;
+431 RUE FONTAINEBLEAU, À BLAINVILLE
+w) Le 7 juin 2004, l'appelante a fait une offre d'achat pour l'acquisition d'un terrain vacant ayant front sur la rue Fontainebleau, à Blainville, et portant le numéro civique 431;
+x) Les coûts de construction pour cette propriété présentés au tableau de l'appelante sont surévalués, compte tenu des pièces justificatives soumises;
+y) À l'égard de cette propriété, l'appelante n'a pas fourni toutes ses factures ou encore les factures qu'elle a soumises étaient inférieures eu égard au tableau des coûts de construction présenté par l'appelante;
+z) Les coûts de construction ont été évalués par l'Agence du revenu du Canada à 345 852 $, le tout tel qu'étayé au tableau « Coûts de construction des maisons » joint comme annexe B;
+aa) Les 24 novembre 2004, la résidence du 431 rue Fontainebleau était mise en vente;
+bb) Une promesse d'achat a été conclue le 7 juillet 2005 quant à la résidence du 431 rue Fontainebleau;
+cc) Le 27 octobre 2005, la résidence du 431 rue Fontainebleau était vendue pour la somme de 415 000 $;
+7 RUE DES IRIS, BLAINVILLE
+dd) Le 7 septembre 2005, l'appelante faisait une offre d'achat pour l'acquisition d'un terrain vacant ayant front sur la rue des Iris, à Blainville, et portant le numéro civique 7;
+ee) Les coûts de construction pour cette propriété présenté au tableau de l'appelante sont surévalués, compte tenu des pièces justificatives soumises;
+ff) L'appelante n'a fourni aucune facture eu égard au tableau des coûts de construction présentée par l'appelante;
+gg) Les coûts de construction sont évalués par l'Agence du revenu du Canada à 307 358 $, le tout tel qu'étayé au tableau « Coûts de construction des maisons » joint comme annexe B;
+hh) Le 3 janvier 2006, la résidence du 7 rue des Iris était mise en vente;
+ii) Le 14 avril 2007, une promesse d'achat a été conclue relativement à la résidence du 7 rue des Iris;
+jj) Le 15 mai 2007, la résidence du 7 rue des Iris était vendue pour la somme de 360 000 $.
+[4] Le Ministre a de plus tenu pour acquis les faits suivants énoncés au paragraphe 10 de la Réponse à l'avis d'appel :
+a) Le 26 septembre 2003, l'appelante contractait un emprunt garanti par hypothèque de 296 000 $ auprès de l'Association de bienfaisance et de retraite des policiers et policières de la ville de Montréal;
+b) Le 10 février 2005, l'appelante contractait un emprunt garanti par hypothèque de 350 400 $ auprès de l'Association de bienfaisance et de retraite des policiers et policières de la ville de Montréal;
+c) Le 13 septembre 2005, l'appelante contractait un emprunt garanti par hypothèque de 274 400 $ auprès de l'Association de bienfaisance et de retraite des policiers et policières de la ville de Montréal;
+[5] Pour imposer la pénalité prévue au paragraphe 163(2) pour les années d'imposition 2004, 2005 et 2007 et pour déterminer que l'appelante a fait une présentation erronée des faits par inattention, négligence ou omission volontaire en produisant ses déclarations de revenu pour les années d'imposition 2004 et 2005, le Ministre s'est appuyé sur les faits suivants énoncés au paragraphe 11 de la Réponse à l'avis d'appel :
+a) Les faits mentionnés au paragraphe 9 ci-dessus;
+b) Les redressements effectués au revenu de l'appelante sont importants par rapport au revenu déclaré;
+c) L'appelante est policière et connaît l'importance de respecter les lois.
+[6] De 2001 à 2005, l'appelante et son ex-conjoint ont vendu sept résidences dont six ont été construites en auto-construction. Les ventes des quatre résidences qui ne sont pas visées par les nouvelles cotisations du 12 août 2009 sont les suivantes :
+- 11 435, rue Gilles Villeneuve à Mirabel;
+- 72, rue Matagami à Blainville;
+- 39, rue Matagami à Blainville; et
+- 41, rue Matagami à Blainville.
+[7] Le terrain du 11 435, rue Gilles Villeneuve a été acheté par l'appelante le 14 juin 2001 et la résidence y érigée a été mise en vente le 10 septembre 2001, soit 88 jours après l'achat du terrain. Ladite résidence a été vendue le 25 janvier 2002, soit après 225 jours de détention.
+[8] Le terrain du 72, rue Matagami a été acheté par l'appelante le 6 février 2002 et la résidence y érigée a été vendue non finie le 24 mai 2002, soit après 107 jours de détention. Ladite résidence n'a pas été habitée par l'appelante.
+[9] Le terrain du 39, rue Matagami a été acheté par l'appelante le 24 avril 2002 et la résidence y érigée a été mise en vente le 28 septembre 2002, soit 157 jours après l'achat du terrain. Ladite résidence a été vendue le 29 novembre 2002, soit après 219 jours de détention.
+[10] Le terrain du 41, rue Matagami a été acheté par l'appelante le 12 décembre 2002 et la résidence y érigée a été mise en vente le 19 mars 2003, soit 97 jours après l'achat du terrain. Ladite résidence a été vendue le 19 août 2003, soit après 250 jours de détention.
+[11] Monsieur Yves Thellen, l'ex-conjoint de l'appelante, a témoigné à l'audience. Il a expliqué qu'il était associé avec son père et son frère dans une entreprise de chauffage (poêles et foyers) ouverte en 1995 à Blainville. L'entreprise comptait 25 employés et avait un chiffre d'affaires de l'ordre de 5 000 000 $. Il y consacrait de 60 à 65 heures par semaine. Suite au retrait de son père de l'entreprise en 2005 pour cause de maladie, il a acheté avec son frère les actions de son père. Comme l'entreprise connaissait alors des difficultés financières et que la banque menaçait de rappeler ses prêts et de reprendre l'entreprise, monsieur Thellen a fait une dépression et a été vers la fin de 2005 en arrêt de travail pendant un mois. Il a laissé son frère continuer seul l'entreprise jusqu'en 2009, date à laquelle l'entreprise a fait faillite. De février 2006 à 2009, il était représentant aux ventes (division poêles et foyers) pour le groupe Master. Il travaillait à partir du magasin situé sur le boulevard Henri Bourassa à Montréal. Il était salarié et travaillait environ 45 heures par semaine.
+[12] Lors de son témoignage, monsieur Thellen a expliqué que les achats de terrains et la construction des résidences étaient effectués uniquement au nom de l'appelante parce que cette dernière pouvait obtenir du financement auprès des banques plus facilement que lui. Il a indiqué avoir réalisé la construction des résidences en sous-traitance parce que cela permettait d'obtenir une meilleure qualité de matériaux. Suite à l'achat d'un terrain par l'appelante, il s'occupait d'obtenir de deux à trois soumissions par corps de métier. Il engageait les sous-traitants. Il effectuait la surveillance et le ménage du chantier et vérifiait l'avancement des travaux. Il a dit avoir consacré pour chaque résidence de cinq à six heures par semaine aux activités de construction pendant une période d'environ trois mois. Il n'a pas consigné dans un registre le temps qu'il a consacré à la construction de chaque résidence. Selon lui, une entente de partage des profits réalisés lors de la vente des résidences existait entre lui et l'appelante mais, comme aucun profit n'a été réalisé lors de la vente des trois résidences en litige, il n'y a eu aucun partage de profit.
+[13] Monsieur Thellen a invoqué les difficultés du couple et ses voyages au Maroc au mois de février et mars 2003 pour justifier la vente de 385, Fontainebleau. Le terrain du 431, Fontainebleau a été acheté par l'appelante parce qu'elle ne voulait pas la séparation du couple et prônait plutôt un nouvel essai de vie commune. Monsieur Thellen a invoqué ses problèmes de santé (hernie discale et ses deux dépressions dont celle qui a entraîné un arrêt de travail d'un mois à l'automne 2005) pour justifier la vente du 431, Fontainebleau. Selon lui, l'appelante a acheté le terrain du 7, des Iris dans le but de construire une plus petite résidence (un bungalow de plain-pied de 1 500 pieds carrés habitables). Monsieur Thellen a invoqué ses problèmes de santé (crise d'angoisse aiguë et dépression) et ses problèmes avec la Direction de la Protection de la Jeunesse concernant son fils de 16 ans pour justifier la vente du 7, des Iris.
+[14] En contre-interrogatoire, monsieur Thellen a confirmé que les sous-traitants étaient, dans la plupart des cas, payés en argent comptant par l'appelante dont la source provenait de son compte de banque.
+[15] L'appelante a témoigné à l'audience. Elle a expliqué que son ex-conjoint et elle ont construit six résidences en auto-construction et qu'elle n'avait aucune connaissance en matière de construction. Elle n'a jamais travaillé sur les chantiers sauf pour faire le ménage. Elle choisissait le modèle de résidence à construire avec son ex-conjoint. Elle choisissait la robinetterie et s'occupait de la décoration. Elle a confirmé avoir acheté les terrains à construire en son nom personnel parce qu'elle pouvait obtenir du financement et parce qu'elle voulait protéger cet actif des créanciers de l'entreprise de son ex-conjoint.
+[16] Selon l'état des déboursés du vendeur en date du 4 juin 2004, préparé par le notaire instrumentant la vente du 385, Fontainebleau, le montant net revenant au vendeur a été calculé comme suit :
+Prix de vente
+Solde hypothécaire dû
+Honoraires du notaire
+Frais de courtage
+Ajustements
+Retenue pour taxes municipales de 2003
+Montant net revenant au vendeur
+366 000,00 $
+266 214,89 $
+467,82 $
+20 000,00 $
+(8 791,19 $)
+500,00 $
+70 026,10 $
+[17] Selon l'état des déboursés préparé par le notaire instrumentant la vente du 431, Fontainebleau, le 27 octobre 2005, le solde dû au vendeur a été calculé comme suit :
+Prix de vente
+Commission de vente
+Taxes municipales
+Taxes scolaires
+Hypothèque
+Pro-Carbur Inc.
+Notaire
+Solde dû au vendeur
+415 150,28 $
+23 350,08 $
+5 087,01 $
+421,00 $
+347 653,28 $
+265,88 $
+607,34 $
+37 765,69 $
+[18] Selon l'état des déboursés préparé par le notaire instrumentant la vente du 7, des Iris, la remise au vendeur a été calculé comme suit :
+Prix de vente
+Paiement de l'hypothèque
+Commission de vente
+Certificat de localisation
+Honoraires du notaire
+Corporation des Roseaux sur le Lac
+(Cotisation annuelle 2007)
+Répartitions
+Remise au vendeur
+360 000 $
+273 368,67 $
+20 000,00 $
+427,31 $
+700,00 $
+432,00 $
+2 075,07 $
+62 996,95 $
+[19] L'appelante a réitéré le fait qu'elle a remis à la vérificatrice de l'Agence du revenu du Canada (l'« ARC ») copies des factures des coûts de construction des résidences sauf celles à l'égard du 7, des Iris qui ont toutes été perdues. Elle a affirmé qu'elle devait présenter des factures pour obtenir des déboursés hypothécaires. Selon l'appelante, la vérificatrice n'a pas tenu compte, lors de l'estimation des coûts de construction, des factures payées en argent comptant. Elle a toutefois reconnu que les montants payés en argent comptant n'étaient pas très précis et étaient basés sur des estimations.
+[20] Lors de son témoignage, l'appelante a également reconnu que la résidence du 385, Fontainebleau a été mise en vente le 3 novembre 2003, soit avant même la fin de la construction. La date de livraison prévue était en janvier 2004. Elle a invoqué comme raisons pour la vente de ladite résidence : les voyages au Maroc de son ex-conjoint et le montant du prêt hypothécaire qui était trop élevé. La résidence du 431, Fontainebleau aurait été vendue, selon elle, à cause des problèmes de santé de son ex-conjoint (mal de dos et dépression) alors que l'hypothèque sur cette résidence était plus élevé que sur celle du 385, Fontainebleau. Enfin, elle a dit ne pas avoir eu l'intention de vendre la résidence du 7, des Iris parce que cette résidence leur convenait parfaitement et parce qu'elle croyait que cette résidence était pour être la dernière. Cette résidence a été mise en vente le 3 janvier 2006 et a été vendue le 15 mai 2007. L'appelante a reconnu qu'elle a acheté en co-propriété avec son ex-conjoint une autre résidence sise au 37, rue de L'Alsace après la vente de la résidence du 7, des Iris. Elle a expliqué qu'à ce temps-là, son ex-conjoint était un salarié du groupe Chapters et non plus un propriétaire d'entreprise.
+[21] Lors de son témoignage, l'appelante a fourni des explications concernant la nature des travaux exécutés par son ex-conjoint dans le cadre de la construction des résidences. Selon elle, son ex-conjoint effectuait des petits travaux comme la pose de la céramique et de la laine isolante, et réalisait des travaux de finition comme la pose des moulures.
+[22] L'appelante et son ex-conjoint n'ont pas fait appel à des professionnels pour la préparation de leurs déclarations de revenu et n'ont pas réclamé le remboursement de la taxe de vente du Québec et de la taxe sur les produits et services relatif à la construction des résidences. Les ventes des résidences n'ont pas été rapportées dans les déclarations de revenu de l'appelante pour les années d'imposition 2004, 2005 et 2007.
+[23] La vérificatrice de l'ARC, madame Marie-Pierre Genest, a demandé à l'appelante de lui soumettre les factures reliées à la construction des trois résidences en litige afin d'établir leurs coûts de construction. Selon les informations fournies par l'appelante, les coûts de construction du 385, Fontainebleau aurait totalisé 348 868,05 $ (incluant les frais de vente), ce qui aurait dégagé un bénéfice de 17 131,95 $ lors de la vente de la résidence au prix de 366 000,00 $.
+[24] Les coûts de construction du 431, Fontainebleau auraient totalisé 436 927,96 $ (incluant les frais de vente), ce qui aurait dégagé une perte de 21 927,96 $ lors de la vente de la propriété au prix de 415 000 $.
+[25] Les coûts de construction du 7, des Iris auraient totalisé 418 500,30 $ (incluant les frais de vente), ce qui aurait dégagé une perte de 58 500,30 $ lors de la vente de la propriété au prix de 360 000,00 $. Comme de nombreuses factures étaient manquantes, l'appelante s'est basée sur une évaluation faite par l'institution financière pour un prêt hypothécaire, à laquelle elle a ajouté certains coûts comme le coût du terrain, les frais de vente, le coût du pavé uni, etc.
+[26] Monsieur Christian Lanthier, vérificateur à l'ARC, a témoigné à l'audience. Il a expliqué que le dossier de l'appelante a été retenu pour vérification à cause du nombre élevé de transactions immobilières. Madame Marie-Pierre Genest a débuté la vérification le 20 novembre 2007 mais elle lui a transféré le dossier le 14 octobre 2008. Il a de plus expliqué que madame Genest a requis une évaluation pour chacune des résidences en litige parce qu'elle a constaté que les coûts de construction soumis par l'appelante lui apparaissaient être surévalués par rapport au profit potentiel anticipé. Elle a tiré cette conclusion en comparant les coûts de construction soumis par l'appelante par rapport au prix initial de vente apparaissant à l'inscription MLS :
+385, Fontainebleau
+431, Fontainebleau
+7, des Iris
+Coûts de construction
+Prix de vente initial
+Profit (Perte)
+348 868 $
+374 000 $
+25 132 $
+436 928 $
+474 000 $
+37 072 $
+418 500 $
+374 500 $
+(44 000 $)
+[27] De plus, madame Genest a également constaté que les coûts de construction soumis par l'appelante étaient peu fiables parce qu'il manquait trop de factures. Le total des factures manquantes ou perdues concernant 385, Fontainebleau s'élevait à 63 591,99 $, alors que le montant des pièces justificatives acceptées concernant le 431, Fontainebleau totalisait 306 813,50 $ et que le montant des pièces justificatives acceptées concernant le 7, des Iris ne totalisait que 96 836,60 $.
+[28] Les trois rapports d'expert ont été produits en liasse sous la cote I-3 et monsieur Alain Papineau, évaluateur agréé, a témoigné à l'audience pour expliquer la méthodologie qu'il a suivie, son analyse des données et des faits pertinents et les conclusions de son étude. Le but de ces trois évaluations était de déterminer le coût de construction de chacune des résidences sous étude en y ajoutant le coût d'achat des terrains sous-jacents. En fait, il s'agissait de déterminer le coût de remplacement de chaque résidence au moment de leur construction. Pour un acheteur averti, le coût de remplacement représente la valeur maximale qu'il devrait accepter de payer pour faire l'acquisition de la résidence.
+[29] Lors de son témoignage, monsieur Papineau a expliqué qu'il a effectué une visite de l'extérieur de chaque résidence, qu'il a consulté les plans et devis de chaque résidence fournis par l'appelante et les inscriptions MLS. Une vérification des titres de chaque résidence a été effectuée auprès du bureau de la publicité des droits. De plus, les données municipales, les évaluations, le zonage et la règlementation ont été vérifiés auprès des autorités compétentes.
+[30] Le coût de remplacement de chaque propriété a été estimé d'après le logiciel Go-Estimation de l'Association provinciale des constructeurs d'habitations du Québec Inc., qui tient compte des coûts de construction d'une résidence aux dimensions irrégulières.
+[31] Parmi les hypothèses retenues par l'évaluateur, il y a celle du partage des coûts entre les matériaux, la main-d'œuvre et les autres charges indirectes. Dans les cas des trois résidences en litige, il a été présumé que le coût des matériaux et des charges indirectes représentaient 64% du coût total alors que le coût de la main-d'œuvre représentait 36% du coût de construction total. Les taux horaires moyens par métier en 2004 qui ont été utilisés par l'évaluateur proviennent de la Régie du Bâtiment du Québec. Comme autre hypothèse, l'évaluateur a estimé le profit du promoteur et des frais généraux et d'administration être de l'ordre de 15% pour le 7, des Iris et de 20% dans le cas des deux autres résidences.
+[32] Il a de plus été considéré que 45% du coût de la main d'œuvre non spécialisée a été effectué par l'appelante et son ex-conjoint.
+[33] Selon l'opinion de l'évaluateur, le coût de construction et la répartition applicables pour le 385, Fontainebleau en date du 1er juillet 2004 sont comme suit :
+Terrain (coût d'achat en 2003)
+Résidence (estimé du coût en 2004)
+Améliorations du terrain
+Coût total (taxes incluses)
+57 972 $
+333 826 $
+0 $
+391 798 $
+(114,13 $ / p.c.)
+[34] Selon l'opinion de l'évaluateur, le coût de construction et la répartition applicables pour le 431, Fontainebleau en date du 1er juillet 2004 sont comme suit :
+Terrain (coût d'achat)
+Résidence (estimé du coût en 2004)
+Piscine creusée chauffée
+Améliorations du terrain
+Coût total (taxes incluses)
+60 000 $
+332 921 $
+16 679 $
+18 715 $
+428 315 $
+(115,24 $ / p.c.)
+[35] Selon l'opinion de l'évaluateur, le coût de construction et la répartition applicables pour le 7, des Iris en date du 1er février 2006 sont comme suit :
+Terrain (coût d'achat en 2005)
+Résidence (estimé du coût en 2006)
+Améliorations du terrain
+Coût total (taxes incluses)
+74 766 $
+285 577 $
+8 480 $
+368 823 $
+(150,15 $ / p.c.)
+[36] Pour calculer le bénéfice réalisé lors de la vente des propriétés en litige, la taxe sur les produits et services et la taxe de vente du Québec ont été recalculées et soustraites du coût de construction de chaque résidence.
+Analyse
+[37] Les dispositions de la Loi qui sont applicables au présent litige sont les suivantes :
+SECTION B
+CALCUL DU REVENU
+Règles fondamentales
+3. Pour déterminer le revenu d'un contribuable pour une année d'imposition, pour l'application de la présente partie, les calculs suivants sont à effectuer :
+a) le calcul du total des sommes qui constituent le revenu du contribuable pour l'année (autre qu'un gain en capital imposable résultant de la disposition d'un bien) dont la source se situe au Canada ou à l'étranger, y compris, sans que soit limitée la portée générale de ce qui précède, le revenu tiré de chaque charge, emploi, entreprise et bien;
+[...]
+Sous-section b
+Revenu ou perte provenant d'une entreprise ou d'un bien
+Règles fondamentales
+9. (1) Sous réserve des autres dispositions de la présente partie, le revenu qu'un contribuable tire d'une entreprise ou d'un bien pour une année d'imposition est le bénéfice qu'il en tire pour cette année.
+[...]
+152. (3.1) Période normale de nouvelle cotisation — Pour l'application des paragraphes (4), (4.01), (4.2), (4.3), (5) et (9), la période normale de nouvelle cotisation applicable à un contribuable pour une année d'imposition s'étend sur les périodes suivantes :
+a) quatre ans suivant soit la date d’envoi d’un avis de première cotisation en vertu de la présente partie le concernant pour l'année, soit, si elle est antérieure, la date d'envoi d'une première notification portant qu'aucun impôt n'est payable par lui pour l'année, si, à la fin de l'année, le contribuable est une fiducie de fonds commun de placement ou une société autre qu'une société privée sous contrôle canadien;
+b) trois ans suivant celle de ces dates qui est antérieure à l'autre, dans les autres cas.
+[...]
+152. (4) Cotisation et nouvelle cotisation [délai de prescription] — Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l'impôt pour une année d'imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu'aucun impôt n'est payable pour l'année à toute personne qui a produit une déclaration de revenu pour une année d'imposition. Pareille cotisation ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[...]
+152. (4.01) Cotisation à laquelle s'appliquent les al. 152(4)a) ou b) — Malgré les paragraphes (4) et (5), la cotisation, la nouvelle cotisation ou la cotisation supplémentaire à laquelle s'appliquent les alinéas (4)a), b) ou c) relativement à un contribuable pour une année d'imposition ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans la mesure où il est raisonnable de considérer qu'elle se rapporte à l'un des éléments suivants :
+a) en cas d'application de l'alinéa (4)a) :
+(i) une présentation erronée des faits par le contribuable ou par la personne ayant produit la déclaration de revenu de celui-ci pour l'année, effectuée par négligence, inattention ou omission volontaire ou attribuable à quelque fraude commise par le contribuable ou cette personne lors de la production de la déclaration ou de la communication de quelque renseignement sous le régime de présente loi,
+[...]
+163. (2) Faux énoncés ou omissions -- Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé «déclaration» au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+[...]
+PARTIE XVII
+INTERPRÉTATION
+248. (1) Les définitions qui suivent s'appliquent à la présente loi.
+« entreprise » Sont compris parmi les entreprises les professions, métiers, commerces, industries ou activités de quelque genre que ce soit et, sauf pour l'application de l'alinéa 18(2)c), de l'article 54.2, du paragraphe 95(1) et de l'alinéa 110.6(14)f), les projets comportant un risque ou les affaires de caractère commercial, à l'exclusion toutefois d'une charge ou d'un emploi.
+[38] La première question est de déterminer si les activités de construction et les ventes de résidences unifamiliales ont été effectuées par l'appelante dans le cadre d'une entreprise ou dans le cadre d'une activité ayant généré des gains en capital à l'égard desquels l'exonération pour résidences principales pouvait être réclamée.
+[39] Comme je l'ai indiqué dans l'arrêt Ayala c. La Reine, 2010 CCI 206, aux paragraphes 9, 10 et 11, les principes applicables lorsqu'un bien immobilier est vendu sont les suivants :
+[9] [...] la Loi ne contient aucun critère permettant de distinguer un gain en capital d’un revenu d’entreprise (y compris un revenu résultant d’une affaire de caractère commercial), ce qui oblige la Cour à référer aux critères élaborés par la jurisprudence. Par contre, il n’existe aucun critère permettant de déterminer avec certitude si une transaction donne lieu à la réalisation d’un gain en capital ou d’un revenu d’entreprise. Chaque situation constitue donc un cas d’espèce à analyser à la lumière des faits.
+[10] Parmi les critères élaborés par la jurisprudence, il y a lieu de mentionner les suivants :
+i. la nature des biens vendus;
+ii. la durée au cours de laquelle le contribuable est demeuré propriétaire des biens;
+iii. la fréquence et le nombre de transactions réalisées par le contribuable;
+iv. les travaux réalisés par le contribuable sur les biens;
+v. les circonstances entourant la vente des biens; et
+vi. l’intention du contribuable lorsqu’il a fait l’acquisition des biens, telle que relévée [sic] par sa conduite.
+[11] En plus de ces critères, les tribunaux canadiens ont développé le critère de « l’intention secondaire » qui peut s’appliquer même lorsqu’il est établi que le contribuable avait comme intention principale de réaliser un investissement à long terme. Ce critère s’applique, si au moment de l’acquisition du bien, le contribuable avait à l’esprit la possibilité de vendre le bien à profit si son projet d’investissement à long terme ne pouvait se réaliser pour quelque raison que ce soit.
+[40] Dans le cas présent, l'appelante a vendu entre 2001 et 2007 sept résidences unifamiliales dont six résidences ont été construites par l'appelante et son ex-conjoint en auto-construction. La façon d'opérer de l'appelante consistait à acheter un terrain vacant à la fois, à y ériger une résidence unifamiliale, à l'habiter quelques mois et à la revendre à profit. Dans le cas du 385, Fontainebleau, la résidence a été mise en vente avant même la fin de la construction.
+[41] La durée de détention des sept résidences variait de 107 jours à 615 jours : soit 281 jours pour le 385, Fontainebleau; 507 jours pour le 431, Fontainebleau et 615 jours pour le 7, des Iris. Le nombre de jours avant la mise en vente des résidences variait de 67 jours à 157 jours : soit 67 jours pour le 385, Fontainebleau; 170 jours pour le 431, Fontainebleau et 118 jours pour le 7, des Iris.
+[42] Les terrains sous-jacents aux sept résidences ont été acquis par l'appelante de 2001 à 2005, soit un terrain en 2001, trois terrains en 2002 et un terrain au cours de chacune des années 2003, 2004 et 2005. Les terrains étaient normalement achetés par l'appelante quelques jours après la vente d'une résidence ou parfois quelques jours avant la vente d'une résidence. Pour le 385, Fontainebleau, le terrain a été acheté neuf jours après la vente du 41 Matagami tandis que, pour le 431, Fontainebleau, le terrain a été acheté trois jours après la vente du 385, Fontainebleau. Pour le 7, des Iris, le terrain a été acheté 50 jours avant la vente du 431, Fontainebleau.
+[43] Au moment de l'acquisition du terrain sous-jacent au 385, Fontainebleau et de la construction de ladite résidence, l'appelante avait, à tout le moins, l'intention secondaire si ce n'est l'intention primaire de la revendre à profit. À l'audience, l'appelante n'a pas été en mesure de démontrer, à la lumière des circonstances entourant l'acquisition de cette propriété, qu'elle avait l'intention de l'habiter à long terme puisqu'elle l'a mise en vente avant même la fin de la construction.
+[44] Concernant le 431, Fontainebleau, l'appelante l'a mise en vente moins de six mois après la date d'acquisition du terrain sous-jacent et a acheté le terrain sous-jacent du 7, des Iris, 50 jours avant la vente de ladite résidence. Ces deux facteurs concernant la conduite de l'appelante tendent à démontrer que l'intention de l'appelante au moment de l'acquisition du terrain sous-jacent au 431, Fontainebleau et de la construction de ladite résidence n'était pas d'effectuer un investissement à long terme.
+[45] Il en est de même pour la résidence du 7, des Iris qui a été mise en vente dans les quatre mois de la date d'acquisition du terrain sous-jacent.
+[46] Les trois résidences en litige ont été vendues par l'intermédiaire d'un courtier en immeubles et ne résultent pas d'offres non sollicitées reçues par l'appelante.
+[47] Les motifs invoqués par l'appelante et par son ex-conjoint pour la vente des trois résidences en litige : soit les difficultés familiales du couple, l'état de santé de l'ex-conjoint de l'appelante et le montant élevé de l'hypothèque ne m'apparaissent pas être les véritables raisons de la vente de ces résidences. Le témoignage de l'ex-conjoint de l'appelante a révélé des incohérences concernant les dates de ses voyages au Maroc et l'impact de ces voyages sur la vente du 385, Fontainebleau. Les problèmes de santé de ce dernier ne semblent pas l'avoir empêché de construire à l'automne 2005 la résidence du 7, des Iris. Le montant des hypothèques sur chacune des trois résidences était de l'ordre de 296 000 $ pour le 385, Fontainebleau, de 350 400 $ pour le 431, Fontainebleau et de 334 400 $ pour le 7, des Iris. Selon le témoignage de l'appelante, rien n'indique qu'elle ait eu de la difficulté à obtenir le financement nécessaire pour la construction des trois résidences ou qu'elle ait eu de la difficulté à les supporter compte tenu du niveau relativement constant du montant d'hypothèque sur chacune des résidences.
+[48] Selon la preuve, l'appelante et son ex-conjoint ont été très actifs dans la réalisation des travaux de construction des trois résidences en litige. L'appelante achetait les terrains sous-jacents aux résidences et s'occupait d'obtenir le financement nécessaire pour la construction. Elle magasinait pour les matériaux dont la robinetterie et s'occupait de la décoration. Son ex-conjoint obtenait les soumissions des sous-contractants et orchestrait la réalisation des travaux en plus de s'occuper de la pose de la laine isolante et de la céramique et du montage des divisions et de la finition.
+[49] L'examen des critères applicables en l'espèce m'amène à conclure que l'appelante a exercé une activité de nature commerciale en construisant et en vendant les trois résidences en litige dont les profits devaient être inclus dans le calcul du revenu de l'appelante en tant que revenu d'entreprise.
+Calcul du bénéfice tiré de la vente des résidences
+[50] La vérificatrice de l'ARC a dû faire appel à un évaluateur agréé afin d'établir les coûts de construction de chaque résidence compte tenu de l'absence de factures dans le cas du 7, des Iris ou de factures manquantes ou incomplètes dans le cas des deux autres résidences.
+[51] Personne n'a comparu pour le compte de l'appelante afin d'établir les coûts de construction de chaque résidence ou pour contredire les hypothèses de travail de l'évaluateur de l'ARC. L'appelante a allégué que le coût de main d'œuvre non spécialisée effectuée par l'appelante et son ex-conjoint évalué à 45% n'était pas réaliste compte tenu des problèmes financiers de son ex-conjoint et de son état de santé mais elle n'a pas été en mesure de présenter à l'audience quelque registre que ce soit permettant d'établir un pourcentage différent. L'appelante a également soutenu que la totalité des marges de crédit hypothécaires contractées à l'égard de chaque résidence ont servi à payer les coûts de construction mais aucune preuve testimoniale ou documentaire supportant cette allégation n'a été présentée à l'audience.
+[52] Sur la base des évaluations faites par l'évaluateur, la vente du 385, Fontainebleau a généré un bénéfice net de 31 068 $, soit 8,48% du produit de disposition, alors que la vente du 431, Fontainebleau a généré un bénéfice net de 44 729 $, soit 9,9% du produit de disposition, et que la vente du 7, des Iris a généré un bénéfice net de 29 872 $, soit 8,29% du produit de disposition. Ces pourcentages de bénéfice m'apparaissent être raisonnables dans les circonstances.
+Cotisations hors de la période normale de nouvelle cotisation
+[53] L'intimée a le fardeau de la preuve pour ce qui est des années d'imposition 2004 et 2005 puisque les avis de nouvelle cotisation ont été transmis après la période normale de nouvelle cotisation (voir les paragraphes 152(3.1), 152(4) et 152(4.1) cités au paragraphe 37 ci-dessus).
+[54] Le ministre soutient que l'appelante a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire en omettant de déclarer des revenus d'entreprise de 31 068 $ et de 44 729 $ pour les années d'imposition 2004 et 2005, représentant respectivement 45% et 63% de son revenu déclaré pour chacune de ces années d'imposition.
+[55] Dans l'affaire Venne c. Canada, (1984) A.C.F. no 314 (QL), le juge Strayer a énoncé ce qui suit concernant le fardeau de la preuve du ministre:
+[...] qu'il suffit au Ministre, pour invoquer son pouvoir en vertu de l'alinéa 152(4) a)(i) de la Loi, de démontrer la négligence du contribuable, à l'égard d'un ou plusieurs éléments de sa déclaration de revenus au titre d'une année donnée. Cette négligence est établie s'il est démontré que le contribuable n'a pas fait preuve de diligence raisonnable. C'est sûrement là le sens des termes "présentation erronée des faits, par négligence", en particulier avec d'autres motifs comme l'inattention ou l'omission volontaire qui font référence à un degré de négligence plus élevé ou à une mauvaise conduite délibérée. [...]
+[56] Dans le présent cas, il m'apparaît clair que l'appelante n'a pas fait preuve de diligence raisonnable dans la préparation de ses déclarations de revenu pour les années d'imposition 2004 et 2005. Elle aurait dû consulter un comptable ou un avocat fiscaliste compte tenu de sa situation particulière ayant trait au nombre de résidences construites et vendues, à la durée de leur détention et aux circonstances entourant la vente de ces dernières. La résidence du 385, Fontainebleau a été mise en vente avant même la fin de la construction, ce qui démontre qu'elle avait l'intention de revendre à profit cette propriété.
+[57] Le fait que l'appelante n'ait pas réclamé les remboursements de taxe auxquels elle avait droit à l'égard de la construction des résidences et le fait qu'elle n'ait pas gardé de registre des heures travaillées sur les chantiers et les factures des fournisseurs de matériaux et des sous-traitants tendent à démontrer que l'appelante n'a pas fait preuve de diligence raisonnable dans les circonstances.
+[58] À mon avis, le ministre était justifié d'établir de nouvelles cotisations pour les années d'imposition 2004 et 2005 de l'appelante.
+Imposition de la pénalité
+[59] Le paragraphe 163(2) de la Loi inflige une pénalité à un contribuable qui, sciemment ou dans les circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration de revenus (voir le paragraphe 163(2) cité au paragraphe 37 ci-dessus).
+[60] Comme pour les cotisations établies en dehors de la période normale de nouvelle cotisation, le ministre a le fardeau de prouver les circonstances justifiant l'imposition d'une pénalité en vertu du paragraphe 163(2).
+[61] Le juge Archambault a décrit le fardeau du ministre de la façon suivante dans l'affaire Corriveau c. Canada, 2008 CAF 241 :
+26 [...] le ministre doit prouver : 1) que le contribuable a fait un faux énoncé ou une omission dans une déclaration; 2) que ce faux énoncé ou cette omission a été fait sciemment ou dans des circonstances équivalant à faute lourde.
+[62] Dans l'affaire Venne, précitée, le juge Strayer a précisé l'interprétation de la notion de « faute lourde » en ces termes :
+[...] La « faute lourde » doit être interprétée comme en cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi [...]
+[63] En l'espèce, l'appelante a fait un faux énoncé ou une omission dans ses déclarations de revenus pour les années d'imposition 2004, 2005 et 2007. Les redressements apportés aux revenus de l'appelante sont importants, soit respectivement 45%, 63% et 41% par rapport au revenu déclaré. Ces faux énoncés et omissions correspondent à une action délibérée de la part de l'appelante et démontrent une indifférence au respect de la Loi. L'appelante est policière et connaît l'importance de respecter les lois. L'absence de registres et les factures manquantes des fournisseurs de matériaux et des sous-traitants correspondent, à mon avis, à une action délibérée de la part de l'appelante et à une indifférence au respect de la Loi.
+[64] Dans les circonstances, le ministre était justifié d'appliquer la pénalité du paragraphe 163(2) de la Loi à l'égard du revenu d'entreprise ajouté au revenu de l'appelante pour ses années d'imposition 2004, 2005 et 2007.
+[65] Pour ces raisons, les appels sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 6e jour de septembre 2012.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2012 CCI 309
+Nº DU DOSSIER DE LA COUR : 2010-2890(IT)G
+INTITULÉ DE LA CAUSE : Sylvie Giguère et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 3 avril 2012
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 6 septembre 2012
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Louis Sirois
+Avocat de l'intimée :
+Me Julie David
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Louis Sirois
+Cabinet : Sirois, Tremblay & associée, avocats
+Québec (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

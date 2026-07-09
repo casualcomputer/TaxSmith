@@ -1,0 +1,173 @@
+---
+title: "Apex City Homes Limited Partnership c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/351517/index.do"
+last_modified: "2018-12-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 247"
+citation2: ""
+neutral_citation: "2018 CCI 247"
+decision_date: "2018-12-06"
+language: "fr"
+item_id: "351517"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4976
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:40:31.300000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c21fe2ebf1c0eea20288b4824d7441224cc87826928816e3008ba1d01854909e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Apex City Homes Limited Partnership c. La Reine
+
+- Citation: 2018 CCI 247
+- Decision date: 2018-12-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4976, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Apex City Homes Limited Partnership c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-12-06
+Référence neutre
+2018 CCI 247
+Numéro de dossier
+2018-831(IT)I
+Juges et Officiers taxateurs
+Ronald MacPhee
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-831(IT)I
+ENTRE :
+APEX CITY HOMES LIMITED PARTNERSHIP,
+appelante,
+et
+SA MAJESTÉ LA REINE
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 8 novembre 2018, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge R. MacPhee
+Comparutions :
+Représentant de l’appelante :
+Shawn Smith
+Avocat de l’intimée :
+Peter Campbell
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies sous le régime de la Loi de l’impôt sur le revenu pour les années d’imposition 2013, 2014 et 2015 sont rejetés. Chaque partie doit assumer ses propres frais.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2018.
+« R. MacPhee »
+Juge MacPhee
+Référence : 2018 CCI 247
+Date : 20181206
+Dossier : 2018-831(IT)I
+ENTRE :
+APEX CITY HOMES LIMITED PARTNERSHIP,
+appelante,
+et
+SA MAJESTÉ LA REINE
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge MacPhee
+Introduction
+[1] Ces appels découlent de l’imposition de pénalités de 2 500 $ pour chacune des années d’imposition 2013, 2014 et 2015 au titre du paragraphe 162(7) de la Loi de l’impôt sur le revenu (la « Loi »). Le ministre du Revenu national (le « ministre ») a établi la cotisation au motif que l’appelante était tenue de produire un feuillet T5018 pour chacune des années, mais qu’elle ne l’a pas fait.
+[2] L’appelante est une société de personnes qui exploite et vend des logements en copropriété divise à Calgary (les « condominiums »). La vente de ces logements constituait la source de revenus de l’appelante.
+[3] La question dont la Cour est saisie comporte deux volets :
+1) l’appelante était-elle tenue, au titre de l’article 238 du Règlement de l’impôt sur le revenu (le « Règlement »), de produire un feuillet T5018 pour chacune des années d’imposition 2013, 2014 et 2015, et
+2) dans l’affirmative, le ministre a-t-il imposé une pénalité à juste titre en application du paragraphe 162(7) de la Loi pour le défaut de l’appelante de produire le feuillet en question?
+Exposé des faits
+[4] La preuve de l’appelante était constituée du témoignage de Shawn Smith, directeur financier de la société mère de l’appelante, Pacific Capital Real Estate Ltd. M. Smith a déclaré que l’appelante est l’une des 60 filiales de la société mère. De nouvelles entités, dont l’appelante, sont créées ou constituées en personne morale à mesure que de nouveaux projets sont démarrés, puis dissoutes à la conclusion des projets.
+[5] Il ressort clairement du témoignage de M. Smith que l’appelante et les autres entités liées se sont toujours comportées en bons citoyens corporatifs. Elles ont fait l’objet de nombreuses vérifications par l’Agence du revenu du Canada (« ARC »), presque toujours sans problème.
+[6] L’appelante n’embauche aucun travailleur de la construction, comme des poseurs de panneaux de gypse, des charpentiers ou d’autres gens de métier. Au cours des années d’imposition en question, l’appelante a plutôt retenu les services d’un entrepreneur général pour construire des logements en copropriété divise à Calgary. L’entrepreneur général employait les sous-traitants nécessaires. L’appelante payait l’entrepreneur général sur une base mensuelle. Une fois la construction achevée, l’appelante vendait les condominiums.
+Analyse
+[7] Le terme « activités de construction » est défini au paragraphe 238(1) du Règlement et s’entend notamment de l’érection, de l’excavation, de l’installation, de la modification, de la modification, de la réparation, de l’amélioration, de la démolition, de la destruction, du démantèlement ou de l’enlèvement de la totalité ou d’une partie d’un édifice, d’une structure ou d’un ouvrage en surface ou sous la surface, ou de tout bien semblable.
+[8] Aux termes du paragraphe 238(2) du Règlement, toute personne ou société de personnes doit produire une déclaration de renseignements, selon le formulaire prescrit (le feuillet T5018), à l’égard de tout montant payé ou crédité par elle, au cours d’une période de déclaration, au titre de marchandises livrées ou de services fournis pour son compte dans le cadre d’une activité de construction si son revenu d’entreprise pour cette période provient principalement de cette activité (plus de 50 % des activités productives de revenus d’une entreprise).
+[9] Une partie qui ne se conforme pas à son obligation de produire un feuillet T5018 est passible d’une pénalité au titre du paragraphe 162(7) de la Loi, lequel est rédigé en ces termes :
+Inobservation d’un règlement
+(7) Toute personne (sauf un organisme de bienfaisance enregistré) ou société de personnes
+qui ne remplit pas une déclaration de renseignements selon les modalités et dans le délai prévus par la présente loi ou le Règlement de l’impôt sur le revenu
+ou qui ne se conforme pas à une obligation imposée par la présente loi ou ce règlement est passible,
+pour chaque défaut sauf si une autre disposition de la présente loi (sauf les paragraphes (10) et (10.1) et 163(2.22)) prévoit une pénalité pour le défaut — d’une pénalité égale, sans être inférieure à 100 $, au produit de la multiplication de 25 $ par le nombre de jours, jusqu’à concurrence de 100, où le défaut persiste.
+[10] Pour déterminer si la pénalité a été imposée à juste titre à l’appelante en application du paragraphe 162(7) de la Loi, je dois d’abord déterminer si l’appelante avait l’obligation de produire un feuillet T5018 en application de l’article 238 du Règlement.
+[11] Il s’agit de déterminer à la fois si une activité particulière est une « activité de construction » et si le revenu d’entreprise d’une société pour une période visée « provient principalement » de la construction.
+[12] Pour répondre à cette question, il faut appliquer un critère à deux volets. En premier lieu, je dois déterminer si l’appelante a payé, au cours de la période visée, un montant pour des biens ou des services rendus pour son compte dans le cadre d’activités de construction aux termes du paragraphe 238(1) du Règlement.
+[13] Dans l’affirmative, je dois ensuite déterminer si le revenu d’entreprise de l’appelante provient principalement des activités de construction en question.
+[14] Si les deux critères du test sont satisfaits, l’appelante était tenue, au titre du paragraphe 238(2) du Règlement, de produire un feuillet T5018.
+L’appelante a-t-elle payé, au cours de la période visée, un montant pour des biens ou des services rendus pour son compte dans le cadre d’activités de construction au sens où ce terme est défini au paragraphe 238(1) du Règlement?
+[15] L’appelante a retenu les services d’un entrepreneur général, a probablement donné des directives sous une forme ou une autre à l’entrepreneur relativement à la construction des condominiums, et a payé l’entrepreneur sur une base mensuelle pour les services rendus. Ces montants ont été versés dans le but d’ériger des édifices à condominiums à Calgary. Il est indéniable que c’est uniquement grâce aux diverses mesures prises par l’appelante que les condominiums à Calgary ont été construits.
+[16] Une fois la construction achevée, l’appelante a vendu les condominiums au public. À la lumière des faits en l’espèce, je n’hésite pas à conclure que l’appelante a payé, au cours de la période visée, un montant pour des biens ou des services rendus pour son compte dans le cadre d’activités de construction au sens du Règlement.
+[17] L’appelante satisfait donc au premier volet du critère applicable au regard du paragraphe 238(2).
+Les revenus d’entreprise de l’appelante provenaient-ils principalement de ces activités de construction?
+[18] L’appelante soutient qu’elle n’exerce pas ses activités dans le domaine de la construction de condominiums, mais celui de la vente de condominiums après leur construction.
+[19] L’appelante a admis que les revenus d’entreprise proviennent exclusivement de la vente des condominiums. Il a également été admis que le coût de construction des condominiums constituait une partie du coût des biens vendus figurant dans les états financiers de l’appelante.
+[20] Dans l’arrêt Minister of National Revenue c Hollinger North Shore Exploration Co. Ltd., [1963] SCR 131, la Cour suprême du Canada a conclu, lorsqu’elle a examiné le mot anglais « derived » (provenant de), que son sens est [traduction] « plus large que celui du mot “reçu” et équivaut à “résultant de” ou “accumulé” ».
+[21] Dans la décision Garcia c. La Reine, TCJ Nº 386, 2007 DTC 1593, la juge Lamarre, son titre à l’époque, définit ainsi le mot anglais « derived » :
+37 Par conséquent, je ne crois pas que le mot « derived » [reçu] devrait être interprété comme évoquant la notion d’« accrual basis of accounting » (en français, « comptabilité d’exercice »). Je crois plutôt qu’il devrait signifier quelque chose comme « ayant sa source » [...].
+[22] En l’espèce, je conclus que la source des revenus d’entreprise de l’appelante provient de deux phases faisant partie intégrante de ses activités commerciales : 1) la construction de condominiums et 2) la vente de ces condominiums. L’appelante a engagé des dépenses et assumé des risques pour la construction des condominiums avant leur vente. Ne pas tenir compte des activités commerciales de l’appelante liées à la construction serait une interprétation erronée de l’expression « provient principalement ».
+[23] Par conséquent, je conclus que l’appelante satisfait aux deux volets du critère applicable de l’article 238 du Règlement. L’appelante était tenue de produire un feuillet T5018.
+Pénalités prévues au paragraphe 162(7) de la Loi
+[24] Mon analyse se tourne maintenant vers la pénalité imposée à l’appelant pour chacune des années d’imposition. En fonction de ma compréhension de l’argument de l’appelante, je dois déterminer si elle peut invoquer la défense de diligence raisonnable.
+[25] La défense de diligence raisonnable a été décrite ainsi dans l’arrêt Corporation de l’École Polytechnique c. Canada, [2004] ACF no 563, 2004 CAF 127, au paragraphe 28 :
+La défense de diligence raisonnable permet à une personne d’éviter l’imposition d’une pénalité si elle fait la preuve qu’elle n’a pas été négligente. Elle consiste à se demander si cette personne a cru, pour des motifs raisonnables, à un état de fait inexistant qui, s’il eut existé, aurait rendu son acte ou son omission innocent ou si elle a pris toutes les précautions raisonnables pour éviter l’événement qui mène à l’imposition de la peine? Voir La Reine c. Sault Ste-Marie, [1978] 2 R.C.S. 1299; La Reine c. Chapin, [1979] 2 R.C.S. 121. En d’autres termes, la diligence raisonnable excuse soit l’erreur de fait raisonnable, soit la prise de précautions raisonnables pour se conformer à la loi.
+[26] Dans son témoignage, M. Smith a déclaré que lui et les membres de son organisation avaient beaucoup réfléchi à la question de savoir si l’appelante devait produire un feuillet T5018. Dans le cadre du processus, il a déclaré avoir parlé à un représentant de l’ARC pour déterminer les obligations de l’appelante et s’être fait dire qu’il n’était pas nécessaire de produire un feuillet T5018 pour l’une ou l’autre des années visées.
+[27] L’appelante a également déposé en preuve une circulaire d’information de l’ARC à l’intention du public intitulée Renseignements pour les payeurs du T5018, qui, selon lui, appuyait la position de l’appelante de ne pas produire de feuillet T5018.
+[28] Après avoir examiné la circulaire en question, je ne vois pas en quoi elle appuie la cause de l’appelante. Bien que le contenu de la circulaire ne décrive pas précisément la situation de l’appelante (une partie qui embauche un entrepreneur pour gérer un projet de construction pour son compte), l’examen de la circulaire ne permet pas raisonnablement à l’appelante de conclure qu’elle n’avait pas à produire un feuillet T5018.
+[29] L’intimée a également déposé en preuve une lettre de l’ARC envoyée à l’appelante le 12 octobre 2016. Dans sa lettre, l’ARC demandait à l’appelante de produire un feuillet T5018 pour les années visées. La lettre précédait l’imposition de la pénalité à l’appelante prévue au paragraphe 162(7) de la Loi.
+[30] Bien que M. Smith ait déclaré ne pas avoir connaissance de cette lettre, j’accepte la preuve de la Couronne selon laquelle la lettre se trouvait dans le dossier de l’ARC au sujet de l’appelante. Si, en fait, l’appelante n’a pas reçu la lettre comme l’affirme M. Smith, j'estime alors que s’il avait fait preuve de diligence raisonnable dans ses communications avec l’ARC comme il le prétend, il se serait informé de la position de l’ARC.
+[31] À l’examen de l’ensemble de la preuve et des observations de l’appelante, il est plus probable que l’appelante n’a tout simplement pas accepté la position de l’ARC selon laquelle l’appelante était tenue de produire un feuillet T5018 et qu’elle a donc choisi de ne pas le faire.
+[32] À la lumière des faits présentés, je conclus que l’appelante ne peut invoquer la défense de diligence raisonnable en ce qui concerne les pénalités prévues au paragraphe 162(7).
+[33] Je rejette les appels. Chaque partie doit assumer ses propres frais.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2018.
+« R. MacPhee »
+Juge MacPhee
+RÉFÉRENCE :
+2018 CCI 247
+Nº DU DOSSIER DE LA COUR :
+2018-831(IT)I
+INTITULÉ :
+APEX City Homes Limited Partnership et Sa Majesté La Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 8 novembre 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge R. MacPhee
+DATE DU JUGEMENT :
+Le 6 décembre 2018
+COMPARUTIONS :
+Représentant de l’appelante :
+Shawn Smith
+Avocat de l’intimée :
+Peter Campbell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)

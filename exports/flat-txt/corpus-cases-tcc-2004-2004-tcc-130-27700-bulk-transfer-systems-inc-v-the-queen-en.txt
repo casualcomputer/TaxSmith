@@ -1,0 +1,275 @@
+Title: Bulk Transfer Systems Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27700/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-130-27700-bulk-transfer-systems-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-03-09
+
+# Bulk Transfer Systems Inc. v. The Queen
+
+- Citation: 2004 TCC 130
+- Decision date: 2004-03-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 486, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bulk Transfer Systems Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-09
+Neutral citation
+2004 TCC 130
+File numbers
+2000-3781(IT)G
+Judges and Taxing Officers
+Gordon Teskey
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-3781(IT)G
+BETWEEN:
+BULK TRANSFER SYSTEMS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 10, 2003 and January 9, 2004 at Toronto, Ontario
+Before: The Honourable Justice Gordon Teskey
+Appearances:
+Counsel for the Appellant:
+Ronald J. Farano
+Counsel for the Respondent:
+Marie-Thérèse Boris
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1991 taxation year, notice of which is dated February 24, 1997, is allowed, with costs, and the assessement is referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached Reasons for Judgment.
+Signed Toronto, Ontario, this 9th day of March, 2004.
+"Gordon Teskey"
+Teskey, J.
+Citation: 2004TCC130
+Date: 20040309
+Docket: 2000-3781(IT)G
+BETWEEN:
+BULK TRANSFER SYSTEMS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Teskey, J.
+[1] The Appellant appeals from assessment of income tax in respect of its 1991 taxation year, notice of which was dated February 24, 1997.
+Issue
+[2] The sole issue is whether the assessment was validly issued and conforms to subsection 152(4.3) of the Income Tax Act (the "Act").
+Facts
+[3] On consent, the parties filed as Exhibit A-1 a Statement of Agreed Facts containing 11 pertinent paragraphs, which read as follows:
+1. The Appellant is a corporation incorporated under the laws of the Province of Ontario with its head office at R.R. #1, Kleinburg, Ontario, L0J 1C0. The Appellant was originally incorporated under the name Muscillo Transport Limited, which name was changed to Bulk Transfer Systems Inc. by articles of amendment issued on April 9, 1998.
+2. The Appellant is a Canadian Controlled Private Corporation as defined by the Income Tax Act, R.S.C. 1985, c. I (5th Supp.), as amended (the "Act").
+3. On August 1, 1990, the Appellant was reassessed in respect of its 1987 taxation year. The Minister of National Revenue assessed a disposition of a business property as giving rise to a taxable capital gain. On October 25, 1990, the Appellant filed a Notice of Objection in respect of this reassessment (the "1987 Objection").
+4. On December 1, 1991, the Appellant was issued its Notice of Assessment in respect of its 1991 taxation year (the "Assessment").
+5. The Appellant filed a Notice of Objection to the Assessment (the "1991 Objection #1") within the requisite ninety (90) day period after December 2, 1991.
+6. The Appellant's taxation year is March 31. In the 1991 taxation year, the Appellant paid its shareholders a taxable dividend and in its 1991 tax return applied to have access to its refundable dividend tax account which was increased by the taxable capital gain that was reassessed as noted in paragraph 3 hereof. As a result, the Appellant was credited with the amount of $65,000 of refundable dividend tax on its initial Assessment of the 1991 taxation year issued on December 2, 1991. This amount was offset against income tax of $21,008.00
+7. On November 15, 1994, further reassessments were issued in respect of each of the Appellant's 1987 and 1991 taxation years (the "November 15, 1994 Reassessments"). The Appellant objected to and then appealed the November 15, 1994 Reassessments to the Tax Court of Canada, in Court File No. 95-2852(IT)G.
+8. On March 1, 1996, the Tax Court of Canada issued a Judgment in Court File No. 95-2852(IT)G, pursuant to a Consent to Judgment filed by the parties. The Consent to Judgment filed by the Appellant and the Respondent is dated February 2, 1996. One of the decisions of the Tax Court of Canada in this matter was a determination that the capital gain realized by the Appellant in its 1987 taxation year from the disposition of a former business property was nil pursuant to subsection 44(1) of the Act in that the Appellant had acquired a replacement property for its business.
+9. As a result of the above Consent to Judgment, on May 1, 1996, the Appellant's 1987 return was reassessed accordingly to remove the taxable capital gain from the Appellant's taxable income.
+10. On February 24, 1997, a Notice of Reassessment was issued in respect of the Appellant's 1991 taxation year (the "February 24, 1997 Reassessment"). This reassessment makes reference to a refundable dividend tax on hand of $8,420.68.
+The Appellant filed a Notice of Objection to the February 24, 1997 Reassessment on or about May 12, 1997 (the "1991 Objection #2).
+11. On June 23, 2000, the Minister issued a Notice of Confirmation on the following terms:
+"Your Notice of Objection to the income tax assessment for the 1991 taxation year has been carefully reviewed under subsection 165(3) of the Income Tax Act.
+The Minister of National Revenue has considered the reasons set out in your objection and all the relevant facts. It is hereby confirmed that the assessment has been made in accordance with the provisions of the Income Tax Act on the basis that:
+Your return for the 1991 taxation year has been assessed according to subsection 152(4.3)."
+[4] The Appellant called one witness, a Joseph Pillo ("Pillo"), a chartered accountant for 25 years and who has been the outside auditor of the Appellant for a number of years.
+[5] When Pillo received the Notice of Reassessment, he immediately wrote a letter on the same date, namely February 26, 1997, to Revenue Canada Taxation, attention Corporate Accounts Department, which reads as follows:
+...
+Attached you will find a copy of a notice of reassessment dated February 24, 1997. The reassessment is for the company's 1991 taxation year.
+As far as I can see, the company's taxable income as originally filed has not been altered. The amount of revised tax is the same as on the original notice of assessment. The company was reassessed in 1994 and (sic)
+In fact the only change appears to be a change to the balances due. Recently we received a credit on the company's 1987 tax account that cleared up all outstanding balances. A copy of that statement is attached.
+Before we prepare and file a notice of objection, I wonder if someone there would be kind enough to provide us with a detailed explanation of the balance owing and/or what was actually reassessed as we cannot tell from the information provided if the reassessment is correct or not.
+(Underline added.)
+[6] Since Pillo did not receive a response to the above letter, he filed an objection to the assessment on May 12, 1997, approximately 37 months later. The objection was denied and the assessment confirmed on June 23, 2000.
+[7] Pillo prepared and assembled a three-column summary. The first column, entitled: "As originally filed and assessed December 2, 1991"; the next column entitled: "Reassessment issued November 15, 1994; and the last column entitled: "Reassessment issued February 24, 1997, which summary is reproduced herein as Schedule "A" to these reasons.
+[8] At the hearing, Pillo still could not determine if the calculation in the reassessment was accurate.
+[9] The initials "RDTOH" on Schedule "A" stand for "Refundable Dividend Tax On Hand".
+[10] It was Pillo's opinion that the effect of the assessment was a reassessment of the RDTOH and a clawing back of the refund.
+[11] The Respondent served on the Appellant's counsel a request to admit three separate documents, which the Appellant did not respond to, and therefore the three documents were made Exhibit R-1.
+[12] The request to admit describes the three documents as follows:
+Date
+Description
+1.
+Explanation of use of source documents in preparation of schedule calculating Refundable Dividend Tax on Hand prepared by Leona Cote, Canada Customs and Revenue Agency, with attached Exhibits
+2.
+T2S7 prepared by Canada Customs and Revenue Agency - "Income Analysis (1985 and subsequent taxation years)" calculating the Refundable Dividend Tax on Hand and Dividend Refund with respect to the Appellant for the fiscal period end March 31, 1987
+3.
+Schedule "A" to Reply to the Amended Notice of Appeal, prepared by Canada Customs and Revenue Agency, calculating the Appellant's Refundable dividend Tax on Hand
+[13] Document # 1 is 71 pages long.
+[14] Document # 2 is 10 pages long.
+[15] Document #3 is Schedule "A" to the Amended Reply to the Notice of Appeal, containing four pages of figures, which are the first four pages of document #1 above.
+[16] The Appellant, in its Notice of Appeal, pleaded in paragraph 11, that:
+11. The Minister has by virtue of the Reassessment, which was based on the Consent to Judgment, assumed that the balance in the Appellant's RDTOH account for the 1991 taxation year was $8,420.68. The Minister is attempting to recover from the Appellant a portion of the refund of RDTOH, being the difference between $65,000 (as originally allowed to the Appellant in its 1991 tax year) and $8,420.68, which is the Minister's current calculation of the balance in the RDTOH account for the Appellant's 1991 taxation year.
+[17] The facts contained in the above paragraph were denied by the Respondent in paragraph 3 of its Amended Reply.
+[18] Paragraph 4 of the Amended Reply, reads as follows:
+In assessing the Appellant, the Minister relied upon, inter alia, the following facts:
+a) Pursuant to subsection 152(4.3) of the Income Tax Act, R.S.c. 1985, c. 1 (5th Supp.), as amended (the "Act"), the Appellant was reassessed, notice of which was dated February 24, 1997;
+b) On May 1, 1996, the Appellant was reassessed for its 1987 taxation year to reduce its capital gain pursuant to section 44 of the Act; as a result, the Appellant's dividend refund for 1991 was reduced;
+c) As at the end of its 1991 taxation year, the Appellant's Refundable Dividend Tax on Hand was not greater than $8,420.68, as shown on Schedule "A" attached hereto.
+[19] There is no issue as regards to the facts in subparagraph 4(a) and 4(b) above.
+Appellant's Submissions
+[20] The Appellant submits that subparagraph 4(c) of the Reply to the Amended Notice of Appeal is a reference to a calculation and thus, the Reply does not state the facts upon which the Appellant is being reassessed and the tax, interest and penalty thereon, if any, and thus did not disclose the factual basis of the reassessment.
+[21] The Appellant submits that the claw back of a refund of tax is not permitted under subsection 152(4.3) of the Act, which reads:
+(4.3) Consequential assessment
+Notwithstanding subsections (4), (4.1) and (5), where the result of an assessment or a decision on an appeal is to change a particular balance of a taxpayer for a particular taxation year, the Minister may, or where the taxpayer so requests in writing, shall, before the later of the expiration of the normal reassessment period in respect of a subsequent taxation year and the end of the day that is one year after the day on which all rights of objection and appeal expire or are determined in respect of the particular year, reassess the tax, interest or penalties payable, or redetermine an amount deemed to have been paid or to have been an overpayment, under this Part by the taxpayer in respect of the subsequent taxation year, but only to the extent that the reassessment or redetermination can reasonably be considered to relate to the change in the particular balance of the taxpayer for the particular year.
+[22] The Appellant submits that the Minister has erred in applying subsection 152(4.3) to the facts herein because this subsection only empowers the Minister to assess and thereby increase or decrease the amount of "tax, interest or penalties" payable by a taxpayer or to "redetermine an amount deemed to have been paid or to have been an overpayment". Thus, there is no authority to reassess to recover a "refund" previously assessed.
+[23] The Appellant further submits that the plain meaning of subsection 152(4.3) does not entitle the Minister to reassess a taxpayer for any purpose other than the limited purposes stipulated therein and that if Parliament had intended to permit the Minister to reduce and/or eliminate and recover a refund of tax, Parliament would have enacted clear statutory language which permitted the Minister to do so.
+Respondent's Submissions
+[24] The Respondent acknowledges that for the purposes of this appeal, I do not have to give any attention to subparagraphs 4 (a) and (b).
+[25] The Respondent's counsel appears to be under the misapprehension that the Appellant admitted subparagraph 4 (c) as factual. The Appellant's counsel said: "This is a reference to a calculation." His oral argument followed his written argument and at no time did he admit that the calculation was correct.
+[26] The Respondent submits that Schedule "A" to the Reply to the Amended Notice of Appeal and the documents in Exhibit D-1 show how the figure $8,420.68 in subparagraph 4 (c) was arrived at.
+[27] Counsel for the Respondent did not take the Court through the schedule, or the documents in Exhibit R-1.
+[28] The Respondent submits that: (i) the Minister reassessed the Appellant for 1987 to include a taxable capital gain in its income and that had the result of bumping up the Appellant's RDTOH; (ii) the Appellant successfully appealed the reassessment and the taxable capital gain was removed and that had the effect of reducing the balance of the Appellant's RDTOH; (iii) the Minister issued a consequent assessment pursuant to subsection 152(4.3) of the Act for 1991 as a result of the RDTOH reduction in 1987.
+Appellant's Reply to the Respondent's Position
+[29] The Appellant submitted that: (i) "In the normal course, if you were assessing a taxpayer for the first time, yes RDTOH comes into the calculation, but this is not what we are dealing with herein."; (ii) the Respondent says that subsection 152(4.3) is perfectly clear. If it were so perfectly clear, why did it take the Appeals Officer three years to come to a conclusion that where you get a lack of clarity and ambiguity, the win does not go to the Respondent.
+Analysis
+[30] The Respondent did not call any witnesses and therefore, no one explained what the 81 pages of figures represented or how the calculations were made or what the 81 pages in documents # 1, # 2 and # 3 of Exhibit R-1 demonstrate. (It was submitted that they demonstrate a calculation.)
+[31] Pillo stated that the dividend tax on hand at the end of its 1991 taxation year was greater than $8,420.68, as assumed by the Minister in paragraph 4(c) of the Reply, and in fact, was $46,780.00, the factual basis of the assessment has been defeated.
+[32] Subsection 152(4.3) is an exception to subsection 152(4), which provides that, with some specified exceptions, the Minister may only reassess a taxpayer within the taxpayer's normal reassessment period.
+[33] Subsection 152(4.3) was enacted to enable the Minister to reassess outside the normal limitation periods in consequence of an assessment or an appeal that changed the balance of a taxpayer in a particular year, "but only to the extent that the reassessment ... can reasonably be considered to relate to the change in the particular balance of the taxpayer for the particular year".
+[34] For the purposes of this appeal, subparagraph 152(4.3) should be paraphrased to read:
+Where the result of a decision on an appeal is to change a particular balance of a taxpayer for a particular taxation year, the Minister may reassess the tax, interest or penalties payable, or redetermine an amount deemed to have been paid or to have been an overpayment, under this Part, by the taxpayer in respect of the subsequent taxation year, but only to the extent that the assessment can reasonably be considered to relate to the change in the particular balance of the taxpayer for the particular year.
+[35] Subsection 152(4.4) defines the word "balance" as used in subsection 152(4.3) and says: "a balance of a taxpayer for a taxation year is the income, taxable income, taxable income earned in Canada or any loss of the taxpayer for the year, or the tax or other amount payable by, any amount refundable to, or any amount deemed to have been paid or to have been an overpayment by, the taxpayer for the year".
+[36] The Federal Court of Appeal, in Sherway Centre Limited v. The Queen, 2003 DTC 5082, was dealing with subsection 152(4.3). The Court accepted the Minister's position that subsection 152(4.3) must be narrowly construed and that in the context of this appeal, its assessment must be directly related to the 1987 assessment.
+[37] I do not believe the Minister disclosed in the Reply to the Amended Notice of Appeal the factual basis for the assessment under appeal. Therefore, the pleading was defective.
+[38] There is no dispute between the parties that, in interpreting the Act, "the words of an act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the act, the object of the act, and the intentions of Parliament".
+[39] I am satisfied that subsection 152(4.3) does not entitle the Minister to reassess a taxpayer for any purpose other than the limited purposes stipulated therein.
+[40] I accept that reference to "balance" in subsection 152(4.3), as defined in subsection 152(4.4) is limited to the 1987 taxation year, for which there has been a judicial determination and the balance is not a reference to what the Minister is empowered to reassess in respect of the 1991 taxation year.
+[41] I am satisfied that upon reading subsection 152(4.3) in its entire context, and in its grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament, it is clear that if Parliament intended to give the Minister the power under subsection 152(4.3) of the Act to reduce the amount of a refund or to newly assess tax, interest or penalties as a result of a change in a balance in a prior years, it would have included clear statutory language to that effect in the body of subsection 152(4.3) itself.
+[42] For the above reasons, the appeal is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons.
+Signed at Toronto, Ontario, this 9th day of March, 2004.
+"Gordon Teskey"
+Teskey, J.
+SCHEDULE A
+Bulk Transfer Systems Inc.
+(formerly Muscillo Transport Limited)
+B/N 10381 1154 RC
+1991 Corporate (Re) Assessment(s)
+As originally
+filed &
+assessed
+December 2,
+1991
+∆
+Reassessment
+issued
+November 15,
+1994
+∆
+Reassessment
+issued
+February 24,
+1997
+Taxable income
+163,612
+-
+163,612
+-
+163,612
+Part I tax
+Surtax
+19,634
+1,374
+-
+19,634
+1,374
+-
+19,634
+1,374
+21,008
+-
+21,008
+-
+21,008
+Dividend refund
+65,000
+- 18,220
+= 46,780
+- 38,359
+= 8,421
+Balance due (refund)
+43,992)*
+(25,772)
+12,587
+* = refund received by taxpayer
+RDTOH, beginning of year
+126,377
+79,597
+46,780
+38,359
+8,421
+Dividend refund
+(65,000)
+(18,220)
+(46,780)
+38,359)
+(8,421)
+RDTOH, end of year
+61,377
+-
+-
+STATEMENT OF ACCOUNT
+Part I tax
+21,008
+-
+-
+Dividend Refund
+(65,000)
+(46,780)
+(8,421)
+Change to dividend refund
+-
+65,000
+46,780
+Arrears Interest
+-
+5,229
+24,549
+Balance on Notice
+(43,992)
+23,449
+62,908
+∆ denotes amount of change in balance
+CITATION:
+2004TCC130
+COURT FILE NO.:
+2000-3871(IT)G
+STYLE OF CAUSE:
+Bulk Transfer Systems Inc. and
+The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 10, 2003 and
+January 9, 2004
+REASONS FOR JUDGMENT BY:
+The Hon. Justice Gordon Teskey
+DATE OF JUDGMENT:
+March 9, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Ronald J. Farano
+Counsel for the Respondent:
+Marie-Thérèse Boris
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Ronald J. Farano
+Firm:
+Gardiner, Roberts
+Barristers and Solicitors
+Toronto, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

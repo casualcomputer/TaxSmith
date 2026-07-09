@@ -1,0 +1,154 @@
+---
+title: "Melnyk v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28395/index.do"
+last_modified: "2007-11-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 713"
+citation2: ""
+neutral_citation: "2007 TCC 713"
+decision_date: "2007-11-26"
+language: "en"
+item_id: "28395"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1914
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:31:22.036000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a211144fdcf5664ed6e149bb7c76249f4c5706268b4a63d5744a988d58ee6baf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Melnyk v. The Queen
+
+- Citation: 2007 TCC 713
+- Decision date: 2007-11-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1914, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Melnyk v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-26
+Neutral citation
+2007 TCC 713
+File numbers
+2006-2491(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2491(IT)I
+BETWEEN:
+WALTER MELNYK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 5, 2007, at Toronto, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Justin Kutyan
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1991 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 26th day of November, 2007.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2007TCC713
+Date: 20071126
+Docket: 2006-2491(IT)I
+BETWEEN:
+WALTER MELNYK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] The Reply to the Notice of Appeal in this matter contains numerous assumptions and concludes that the principal issues to be decided are as set forth in paragraph 19 of the said Reply:
+B. ISSUES TO BE DECIDED
+19. The issues to be decided are:
+a) whether Hi-Tech was a Canadian-controlled private corporation that was a small business corporation during the 1991 taxation year of the Appellant.
+b) whether all or part of a Business Investment Loss (“BIL”) claimed in the amount of $12,600.00, or any other amount, may be included in a deduction of an Allowable Business Investment Loss (“ABIL”) in computing the Appellant’s income for the 1991 taxation year.
+Page: 2
+[2] The Appellant (Mr. Melnyk) appeared in Court and instead of contesting the assumptions of the Minister of National Revenue (“Minister”) in the Reply and instead of contesting any of the issues set forth in the Reply, chose to file with the Court what he has referred to as a “Notice of Motion”, the most relevant extracts of which read as follows:
+Whereas Justice Department lawyers have … described the attached “Declaration of Taxpayer Rights” (which is attached to the Income Tax Act) as advertisement, frivolous, customer service promises, which trivializes and possibly frustrates OR FALSIFIES the true intention of its author(s)…
+Whereas the courts must consider seriously and determine its (D.T.R.) real meaning or status as it is of such great import and benefit to all Canadians. The Tax Court of Canada is the obvious place for such a ruling as, in the least, the T.C.C. ought to refer the document to the relevant body for such a determination (including referral of Plaintiff’s entire file if appropriate)…
+Whereas Canadian Taxpaying citizens may have been deceived into thinking that, upon reading it, that they actually have real & concrete taxpayer “rights”, and been fooled…
+Whereas the Declaration of Taxpayer Rights (D.T.R.) is such a vital document and of great interest to citizens, and is placed at the very end of the I.T. Act (after about 2000 pages of difficult, specialized, legalistic language) where it is unlikely to be found or read … and which further trivializes/marginalizes any real status or meaning which it may have…
+…
+Whereas the I.T. Act is a document of great length and great complexity with highly specialized language such as to discourage ordinary citizens of ordinary means or of ordinary education, and is a source of constant frustration, anxiety, and confusion to the population…
+Page: 3
+Whereas millions of taxpaying citizens are in need of enlightenment, education/instruction, and of SIMPLE assistance. And, who might otherwise challenge the interpretations, actions, abuses (potential), or violations of their “rights” if they could only know that they actually do have such rights, EXCEPT their being such a huge imbalance in the powers and LIMITLESS resources of government-financed CRA … and the citizenry so as to deny basic justice whether procedural or substantive in questions of taxation…
+Whereas numerous rights violations (D.T.R., & possible Charter rights) have been described and chronicled by this plaintiff at the hands of CRA … and which have been submitted previously to the court. And, whereas an adversarial relationship has developed and the plaintiff has been alienated from the normal process and usual relations…
+Whereas the plaintiff’s experience shows that the public service does not always serve the public and exists as an elite class in society which can ignore citizens rights or violate such with impunity and little if any consequence to themselves or to CRA…
+…
+THEREFORE BE IT RESOLVED THAT:
+- the T.C.C. rule on the exact status of the D.T.R. so that the citizenry will be informed and not deceived as to the EXACT status/meaning of their rights; or, if it will not/cannot, that it refer this matter to the known appropriate venue for such a ruling.
+- the court rule as to whether any of the plaintiff’s rights (whether D.T.R. or Charter rights) have been violated based on all his submissions to the Court so far (esp. s.7 of the Charter regarding security of the person, and s.15 of the Charter regarding unusual treatment), as well as the Declaration of Taxpayer Rights …
+…
+Page: 4
+…
+that CRA … conduct free services to help the public comprehend the chaotic/convoluted and complex I.T. Act since there are no choices but to obey it…
+…
+- that all penalties and interest charges be waived in the case of the PRESENT plaintiff, Walter Melnyk.
+[3] Regrettably, Mr. Melnyk’s appeal cannot succeed as all of the assumptions of the Minister must be assumed to be correct and Mr. Melnyk has not led any evidence or argument challenging these assumptions nor contesting his assessment. Moreover, I have no jurisdiction to waive interest and have found no reason to waive penalties. Consequently, the appeal must be dismissed.
+[4] At the hearing, however, I mentioned to Mr. Melnyk that I would attempt to assist him in his position with respect to the Minister and the processes of taxation and the potential administrative avenues that might be of assistance to him.
+[5] Consequently, I have requested the Registry of the Tax Court of Canada to furnish to Mr. Melnyk certain material.
+[6] These include the following:
+1. A publication of the Canada Revenue Agency referred to as RC4213-Your Rights, modified 2007-06-07, which sets forth the various rights outlined in the Declaration of Taxpayer’s Rights and how those rights may be advanced.
+2. Information Circular 1C07-1 dated May 31, 2007 which discusses at length the “Taxpayer Relief Provisions” and the procedures to follow, including Guidelines for the Cancellation or Waiver of Penalties and Interest.
+Page: 5
+3. A short document entitled “Taxpayer Relief Provisions” – Date modified: 2007-06-04.
+4. A document entitled “Request for Taxpayer Relief”.
+5. GST Memoranda – G500-3-2-1.
+6. Sections 23 to 25 of the Financial Administration Act, dealing with remissions of tax, interest and penalties.
+7. Pages 34, 35, 61, 62 and 63 of “The Fundamentals of Canadian Income Tax” – Vern Krishna, 8th Edition, discussing taxpayer rights and the Canadian Charter of Rights and Freedoms, inter alia.
+Signed at Ottawa, Canada this 26th day of November, 2007.
+"T. O'Connor"
+O'Connor, J.
+CITATION: 2007TCC713
+COURT FILE NO.: 2006-2491(IT)I
+STYLE OF CAUSE: Walter Melnyk v. The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 5, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice T. O'Connor
+DATE OF JUDGMENT: November 26, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Justin Kutyan
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

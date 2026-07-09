@@ -1,0 +1,54 @@
+Title: Verones v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30918/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-291-30918-verones-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-03-21
+
+# Verones v. The Queen
+
+- Citation: 2012 TCC 291
+- Decision date: 2012-03-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7414, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Verones v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-03-21
+Neutral citation
+2012 TCC 291
+File numbers
+2011-2948(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2012 TCC 291
+Date: 20120809
+Docket: 2011-2948(IT)I
+BETWEEN:
+MARC VERONES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Edited from the transcript of Reasons for Judgment delivered orally from the Bench on March 21, 2012 at Calgary, Alberta)
+Campbell J.
+[1] Let the record show that I'm delivering my reasons in the matter of the appeal of Marc Verones which I heard earlier today.
+[2] In this appeal, Mr. Verones attempted to appeal both his 2009 and 2010 taxation years. While the 2009 year is properly before me, Mr. Verones was premature in appealing his 2010 taxation year because it was appealed prior to the Minister of National Revenue’s (the “Minister”) decision and before the 90 day period had elapsed from the filing of his notice of appeal.
+[3] The Respondent did not oppose hearing these appeals for both years and since the 90 days have now elapsed, with the Minister having confirmed the assessment, I am ordering that both years are now validly before me.
+[4] The issue in both of these taxation years is whether the Appellant is entitled to claim non-refundable tax credits in respect to a wholly dependent person and child amounts pursuant to 118(1)(b) and (b.1) of the Income Tax Act (the “Act”). The Minister has concluded that he is not eligible to claim those amounts in either taxation year pursuant to 118(5) of the Act because he was required to make and did not make support payments for the dependents during these years.
+[5] Mr. Verones’ argument is that subsection 118(5) does not apply in the circumstances of his case because in essence both he and his former spouse do pay support payments which amounts were used to calculate the net amount that Mr. Verones, the higher wage earner, would pay pursuant to the system established under the Federal Child Support Guidelines. To calculate the amount of support payable, these Guidelines take into account both parents’ incomes and then apply adjustments to arrive at a net amount that one parent will be required to pay. Mr. Verones argues that, although two cheques were not actually exchanged between them, the amount he pays for the support of the two children is a net amount that reflects the income of the former spouse.
+[6] The interim order dated October 27th, 2009, establishes that Mr. Verones was to pay to his former spouse an amount of $1,763 monthly for child support and that this amount had been pursuant to the Federal Support Guidelines and their respective incomes. This establishes that Mr. Verones was paying, in 2009 and 2010, support amounts as contemplated pursuant to section 56.1 of the Act. Subsection 118(5.1) was introduced in 2007 presumably to provide relief where both parents do, in fact, pay an amount of child support. This provision specifically states that in those cases, 118(5) shall not apply. Respondent counsel provided me with several cases which canvassed the law in this area, those being a decision of Justice Woods in Perrin v The Queen, 2010 TCC 331 and a decision of Justice Lamarre in Ladell v The Queen, 2011 TCC 314. I must agree with the conclusion of my two colleagues in those cases. The order before me directs only Mr. Verones to pay a support amount. Although the former spouse’s income was taken into consideration in the calculation made under the Federal Guidelines and the income amount actually referenced in that order, there was no order that she pay a support amount to Mr. Verones in respect to the children. The amount of her income was simply used in some type of calculation made under those Guidelines to determine the amount of support that the higher-earning spouse would be paying. I do appreciate the argument made by Mr. Verones and it does make some common sense and appears to give a fairer application. Unfortunately, the applicable sections are clearly worded and I have no jurisdiction to bend the wording to suit Mr. Verones’ circumstances.
+[7] I simply have no alternative, but to conclude that subsection 118(5.1) of the Act cannot apply because Mr. Verones was the only parent that was required to pay an amount of child support pursuant to that interim order and, consequently, subsection 118(5) of the Act prevents him from claiming either of these deductions pursuant to 118(1)(b) and (b.1) of the Act.
+Signed at Summerside, Prince Edward Island, this 9th day of August 2012.
+"Diane Campbell"
+Campbell J.

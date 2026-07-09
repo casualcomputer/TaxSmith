@@ -1,0 +1,184 @@
+Title: Arseneau v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28934/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-574-28934-arseneau-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-10-24
+
+# Arseneau v. M.N.R.
+
+- Citation: 2008 TCC 574
+- Decision date: 2008-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1374, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arseneau v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-24
+Neutral citation
+2008 TCC 574
+File numbers
+2007-4694(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-4694(EI)
+BETWEEN:
+MARIELLE ARSENEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 25, 2008, at Îles-de-la-Madeleine, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Vlad Zolia
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed, and the decision by the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of October 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 5th day of December 2008.
+Brian McCordick, Translator
+Citation: 2008 TCC 574
+Date: 20081024
+Docket: 2007-4694(EI)
+BETWEEN:
+MARIELLE ARSENEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+[1] The Appellant has appealed from the decision by the Minister of National Revenue ("the Minister") under the Employment Insurance Act ("the Act"). The Minister determined that Marielle Arseneau ("the Worker") did not hold insurable employment while she worked for Paul W. Chevarie ("the Payor"), finding that her employment was excluded because she and the Payor would not have entered into a similar contract of employment if they had been dealing with each other at arm's length. The relevant work periods were as follows:
+(i) from April 28 to July 26, 2003;
+(ii) from April 19 to July 17, 2004;
+(iii) from May 9 to August 6, 2005;
+(iv) from May 1 to July 29, 2006.
+[2] In reaching his decision, the Minister relied on the following assumptions of fact, set out in paragraphs 5 and 6 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+5. The Appellant and the Payor are related persons within the meaning of the Income Tax Act because: (admitted)
+(a) the Payor was the sole owner of a fishing vessel known as the "Paul Olivier"; (admitted)
+(b) the Payor held a fishing licence and operated a fishing business; (admitted)
+(c) the Appellant was the Payor's common-law spouse; (admitted)
+(d) the Appellant was related to a person who controlled the Payor's business; (admitted)
+6. The Minister determined that the Appellant and the Payor were not dealing with each other at arm's length in the context of this employment. The Minister was satisfied that it was reasonable to conclude that the Appellant and the Payor would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length, in light of the following circumstances:
+(a) the Payor operated a 35‑foot fishing vessel known as the "Paul Olivier"; (admitted)
+(b) the Payor held a licence to fish for herring, mackerel and lobster; (admitted)
+(c) until 2003, the buyer of the Payor's catches was Norpro Ltée; since 2004, the buyer has been Homard Des Îles Renaud; (admitted)
+(d) the buyer of the Payor's catches prepared the Payor's payroll; (admitted)
+(e) the Payor was active year‑round: fishing began in April with herring (three or four weeks), followed by lobster (approximately nine weeks) and ending with another species of herring (from three weeks to three months) in addition to alternative mackerel fishing; (denied)
+(f) the Payor hired two fisher's helpers: the Appellant, who worked only on land; and Paul J. Chevarie, who accompanied the Payor aboard the vessel; (admitted)
+(g) the Appellant was the Payor's common-law spouse until July 2007; (admitted)
+(h) the Appellant was not financially involved in the Payor's business in any way; (admitted)
+(i) when the Appellant was put on the Payor's payroll, her main duties were: (denied as written)
+- to go to the cold storage room in order to prepare bait,
+- to keep fishing statistics,
+- to sweep the vessel when it docked each day and to wash it thoroughly on Sunday,
+- to prepare the Payor's meals and to wash his clothing;
+(j) as well, the Appellant filed the Payor's documents that he gave to his accountant at the end of the year; (admitted)
+(k) although the Payor did not record the Appellant's hours of work, the Appellant estimates that she worked 60 hours per week, on average; (denied)
+(l) the Appellant received fixed remuneration of $500 per week when she was put on the Payor's payroll in 2003; her pay increased to $600 per week starting in 2004; (admitted)
+(m) the Appellant was paid by direct deposit every two weeks; (admitted)
+(n) when the Appellant was taken off the Payor's payroll, usually in July, she continued to render services to the Payor; (denied)
+(o) outside the periods in issue, the Appellant rendered the following services to the Payor: (denied)
+- she cleaned the herring and mackerel catches brought in by the Payor,
+- she painted the buoys,
+- at the end of the season, she cleaned the vessel thoroughly and stored the fishing nets;
+(p) the Appellant rendered services to the Payor until late in the autumn; (denied)
+(q) the Payor no longer paid the Appellant but banked her hours in order to pay her at the beginning of the following season, so that she was on the payroll for the required 12 or 13 weeks; (denied)
+(r) the Payor could not afford to pay wages to the Appellant during all the weeks during which she rendered services to the Payor; (denied)
+(s) since April 2007, the Appellant has worked full‑time for Madelimer; the Payor has not hired anyone else to replace the Appellant and to carry out her duties; (denied)
+(t) all of the light duties assigned to the Appellant, who did not work aboard the vessel, do not justify the 62 hours, on average, for which the Payor paid her; (denied)
+(u) the Appellant rendered many services to the Payor outside the periods in issue, which an "outsider" would not have agreed to do. (denied)
+Testimony of the Payor
+[3] The Payor testified that:
+(i) the Worker had been his common-law spouse from 1990 until July 13, 2007;
+(ii) from his union with the Worker, a son was born on April 11, 1992;
+(iii) the lobster fishing season extended over a nine‑week period, usually beginning in early May;
+(iv) during the lobster fishing season, the Worker worked eight hours per day, seven days per week, on average;
+(v) during the lobster fishing season, the Worker's duties each day (except Sunday) consisted in:
+1. travelling by car from the town of Fatima (where the Payor and the Worker lived) to Cap‑aux‑Meules (the home port of the Payor's fishing vessel), and driving the Payor's truck back to Fatima. The Payor explained that the Worker spent one hour per day, on average, performing this task;
+2. preparing the bait for lobster fishing. The Payor explained what this duty consisted in: the Worker took nine bins containing 300 pounds of bait (herring and mackerel) from the Payor's cold storage room and brought them to the Payor's shed. She cut each piece of bait in two and placed the pieces into six bins, which she placed in the Payor's truck. She then cleaned the nine bins, the tools (tables and knives) and the floor of the shed. The Payor explained that this duty required approximately 3 hours of work per day;
+3. driving the Payor's truck back to the home port of the Payor's fishing vessel around 6:00 p.m., when the vessel returned to port. The Payor explained that, after dropping off the six bins containing the bait, the Worker cleaned the vessel and then returned by car to Fatima. The Payor testified that these duties required from one hour and 45 minutes to two hours of work per day;
+4. preparing fishing statistics and filing invoices. The Payor explained that the Worker spent approximately 90 minutes per week performing these tasks;
+5. preparing the meals that the Payor brought aboard his fishing vessel. It should be noted that the Payor did not specify the length of time that the Worker spent carrying out this duty;
+6. washing the Payor's clothing. The Payor explained that the Worker spent from one to three hours per week carrying out this duty;
+7. running errands such as occasionally purchasing plaice, which was also used as bait for lobster fishing. It should be noted that the Payor did not specify the length of time that the Worker spent performing this task;
+(vi) every Sunday during the lobster fishing season, the Worker thoroughly cleaned the vessel (which required approximately two hours of work) and prepared the bait for Monday's fishing;
+(vii) immediately after the end of the lobster fishing season, the Worker painted the 118 buoys and repaired the 300 lobster traps belonging to the Payor. The Payor explained that the Worker spent from seven to 10 days (at eight hours per day) carrying out these duties;
+(viii) the Worker rendered few services to the Payor outside the relevant periods. The Payor explained that the services rendered by the Worker outside the relevant periods required approximately 10 hours of work by her;
+(ix) during the lobster fishing season, the Payor left his home at about 2:00 a.m. (except on Sunday) to go fishing, and usually returned at about 6:00 p.m., which represents approximately 16 hours of work per day;
+(x) in 2007 and 2008, the duties carried out by the Worker during the previous years (which, I note, required approximately 60 hours of work per week) were carried out by the Payor (at 40 hours per week) and by his 15‑year‑old son (at 20 hours per week). Thus, during the 2007 and 2008 lobster fishing season, the Payor allegedly worked approximately 136 hours per week, that is, more than 19 hours per day.
+Testimony of the Worker
+[4] Essentially, the Worker testified to the same effect as the Payor.
+Documentary evidence
+[5] As well, the evidence has established that the document describing the Worker's duties (Exhibit I‑1) sent by Gaétan Cousineau (an employee of Mouvement Action Chômage, whose services the Worker retained at the outset to represent her in the instant case) to Lyne Courcy (an employee of the Canada Customs and Revenue Agency) was prepared jointly by the Payor and the Worker and typed by the Worker. It should be noted that this document was signed by the Payor and the Worker. Given the importance of this document in reaching my decision, I consider it helpful to reproduce it in its entirety:
+[TRANSLATION]
+Below you will find the duties carried out as a fisher's helper on land.
+- Preparing the statistics on the lobster catches; preparing the invoices for the accountant and taking them to the accountant's office; reading all the Fisheries and Oceans reports and highlighting the important points (two and one‑half hours per day = 15 hours per week).
+- Telephoning and travelling to the cold storage room in order to pick up the bait for the following day; cutting the bait and placing it in the bins for Paul to place in other bins to take aboard the vessel (three hours per day = 18 hours per week).
+- When the vessel arrived, doing light cleaning (sweeping, washing the windows) (one hour per day); on Sunday, doing a thorough cleaning (four hours per day) (= 10 hours per week).
+- Preparing lunches (baking); purchasing groceries for the vessel; washing fishing clothing (two and one‑half hours per day = 15 hours per week).
+- Washing the interior of the truck once a week in order to remove the fish odour, and then washing the exterior in order to remove the salt (four hours per week).
+BANKED TIME WORKED FOR FISHING
+- At the end of the fishing season, painting and numbering the buoys (one and one‑half weeks = 90 hours).
+- In the spring, preparing the vessel; scraping the paint; cleaning the interior, while Paul looked after the mechanical maintenance (two 40‑hour weeks).
+- In the autumn after the fishing season, cleaning and preparing for winter; picking up the electronic equipment with Paul (one 60‑hour week).
+- After the end of the fishing season, helping Paul pick up the lines and buoys; picking up and straightening them all out (one 60‑hour week). I do not do any work with the lobster traps; they are too heavy for me.
+Please note that I did not work aboard the vessel because of the numerous hours I was required to work on land, and also because our son Paul did not want me to in case something happened to us aboard the vessel.
+Hours worked per week: 62.
+Hours banked for the following season: 290.
+[6] This document, which, I reiterate, was prepared and signed by the Worker and the Payor, clearly indicates that outside the relevant periods during each year in issue, the Worker worked for 290 hours without being paid. I note that the Payor and the Worker testified that the Worker rendered few services outside the relevant periods; their testimony explaining this contradiction was simply incomprehensible. In fact, the Payor and the Worker wanted me to believe that they had made a mistake in indicating in the document that the Worker worked for 290 hours outside each of the relevant periods during each of the years in issue. Their testimony explaining this contradiction was simply not very credible. I emphasize that, with regard to the duties carried out by the Worker during the relevant periods as well and the hours required to do so, the document and the testimony of the Worker and the Payor are rather different.
+[7] In addition, I note that the Worker's testimony and her statutory declaration, adduced in evidence as Exhibit A‑1, are rather different in the description of the duties she carried out, particularly with regard to preparing, handling and transporting the bait. This fact only added to my doubts about the duties carried out by the Worker during the relevant periods and particularly about the number of hours (60 hours per week) she allegedly spent doing so.
+[8] I note that the Respondent determined that this employment was not insurable under paragraph 5(2)(i) and subsection 5(3) of the Act, because he was satisfied that it was not reasonable to conclude, in light of all the circumstances, that the Worker and the Payor would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[9] On a number of occasions, the Federal Court of Appeal has delineated the role entrusted by the Act to a judge of the Tax Court of Canada. This role does not allow the judge to substitute his or her assessment for that of the Minister; rather, this person must "verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, ... must decide whether the conclusion with which the Minister was 'satisfied' still seems reasonable".[1]
+[10] In other words, before deciding whether the Minister's conclusion still seems reasonable to me, I must, in light of the evidence available to me, verify whether the Minister's conclusions are well‑founded, according to the factors set out in paragraph 5(3)(b) of the Act. At issue, then, is whether the Payor and the Worker would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[11] In the instant case, the onus was on the Worker to establish, on a balance of probabilities, that the facts inferred or relied on by the Minister were not real or were incorrectly assessed having regard to the context in which they occurred. Essentially, in the instant case, the Worker needed to satisfy me that:
+(i) all the duties assigned to her justified the 62 hours of work, on average, for which the Payor paid her;
+(ii) she did not render services (at 290 hours per year) outside the relevant periods.
+[12] The Worker simply has not discharged the onus resting on her. Her evidence was based on her testimony and that of the Payor, to which I attribute little probative force in view of the distortions and the contradictions between these persons' testimony and their declarations forming part of the documentary evidence, particularly with regard to the duties carried out by the Worker during the relevant periods, the number of hours spent carrying out those duties and, lastly, the services rendered outside the relevant periods.
+[13] In light of the evidence available to me, after considering the factors set out in paragraph 5(3)(b) of the Act, and after verifying whether the Minister's conclusions are well‑founded, I find the conclusions with which the Minister was satisfied to be reasonable.
+[14] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 24th day of October 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 5th day of December 2008.
+Brian McCordick, Translator
+CITATION: 2008 TCC 574
+COURT FILE NO.: 2007-4694(EI)
+STYLE OF CAUSE: MARIELLE ARSENEAU AND M.N.R.
+PLACE OF HEARING: Îles-de-la-Madeleine, Quebec
+DATE OF HEARING: July 25, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: October 24, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Vlad Zolia
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jérôme Carrier
+Attorneys
+Firm: Lévis, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Légaré v. Canada, [1999] F.C.J. No. 878 (QL), para. 4.

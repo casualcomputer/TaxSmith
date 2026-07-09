@@ -1,0 +1,278 @@
+Title: Singh Sandhu c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29250/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-175-29250-singh-sandhu-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-04-15
+
+# Singh Sandhu c. La Reine
+
+- Citation: 2009 CCI 175
+- Decision date: 2009-04-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6990, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Singh Sandhu c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-15
+Référence neutre
+2009 CCI 175
+Numéro de dossier
+2006-1310(GST)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2009 CCI 175
+Date : 20090326
+Dossiers : 2006-1310(GST)G
+2006-1312(GST)G
+ENTRE :
+AJMER SINGH SANDHU,
+SATNAM SINGH SANDHU,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+La question en litige
+[1] Ces deux appels ont été entendus sur preuve commune. Il s’agit de cotisations d’administrateurs en vertu de l’article 323 de la Loi sur la taxe d’accise (la « LTA »). Les deux cotisations sont en date du 8 septembre 2004. D’après les avis de cotisation, le début de la première période où il y a eu défaut de la part de la société de verser la taxe nette est le 1er janvier 1997 et la fin de la dernière période est le 31 mars 1999. Plus précisément, il s’agit de trois périodes de trois mois, c’est-à-dire les mois de janvier, de février et de mars de chaque année (voir les pièces A-12, page 2, et I-1, onglet 1, page 2).
+[2] La position des appelants est la suivante :
+a) Ajmer Singh Sandhu (ci-après « Ajmer ») n’était pas administrateur après le 25 septembre 2000 et, en conséquence, sa cotisation a été établie après le délai de deux ans prévu au paragraphe 323(5) de la LTA.
+b) Satnam Singh Sandhu (ci-après « Satnam ») n’était pas administrateur au moment où la société a fait défaut de verser la taxe nette et, en conséquence, il ne peut être responsable du défaut de la société de remettre la taxe nette en vertu du paragraphe 323(1) de la LTA. Satnam n’est devenu administrateur que le 25 septembre 2000.
+[3] Subsidiairement, les deux appelants ont plaidé dans leur avis d’appel le moyen de défense de la diligence raisonnable.
+Les faits
+[4] Les deux appelants ont témoigné, ainsi que Me Jules Brossard qu’Ajmer a consulté, et Michel Hachey, un agent de recouvrement du ministère du Revenu du Québec. Les pièces A-1 à A-18 et I-1 à I-4 ont été produites.
+[5] La société 9033-0010 Québec inc. (la « société ») a été constituée le 22 mars 1996. Ajmer et Satnam étaient pendant toute la période en litige propriétaires de 60 % et de 40 % des actions respectivement. La société exploitait le bar « Brasserie des variétés ». Le bar avait également des appareils de loterie vidéo.
+[6] Selon les états financiers de la société pour l’exercice se terminant le 31 mars 1999, la société avait un revenu avant impôt de 7 237 $ en 1998 et de 2 799 $ en 1999 (voir la pièce I-1, onglet 14).
+[7] Ajmer est l’oncle de Satnam.
+[8] La documentation déposée en preuve est souvent contradictoire quant à savoir si Ajmer ou Satnam était directeur à un moment donné. Le tableau suivant résume les documents :
+Administrateur(s) de 9033-0010 Québec inc. ― selon les documents
+Date
+Administrateur
+Document
+Signé
+Pièce
+1996
+1996-03-22
+è Ajmer et Satnam
+documents constitutifs
+Ajmer
+A-2
+1996-03-29
+è Ajmer
+procès-verbaux
+Ajmer
+A-3
+1996-03-30
+è Ajmer
+procès-verbaux
+Ajmer et Satnam
+A-3
+1996-04-18
+è Satnam
+déclaration initiale
+Ajmer
+A-4
+1996-05-02
+è Ajmer et Satnam
+formulaires bancaires
+Satnam
+I-1 et I-2, onglet 6, p. 5
+1996-12-09
+è Satnam
+déclaration annuelle de 1996
+Ajmer
+A-5
+1997
+1997-10-15
+è Satnam
+déclaration annuelle de 1997
+Ajmer
+A-6
+1998
+1998-12-03
+è Satnam
+déclaration annuelle de 1998
+Ajmer
+A-7
+1999
+1999-03-31 (ou après)
+è Ajmer
+états financiers*
+Ajmer
+I-1 et I-2, onglet 14
+*Signés par Ajmer « on behalf of the Board of Directors » à la page intitulée « Balance Sheet ».
+2000
+2000-05-15 (ou après)
+è Ajmer
+états financiers*
+Ajmer
+I-1 et I-2, onglet 15
+*Signés par Ajmer « on behalf of the Board of Directors » à la page intitulée « Balance Sheet ».
+2000-09-25
+è Satnam*
+procès-verbaux
+Ajmer et Satnam
+A-1 et A-3
+*Démission d’Ajmer en même temps.
+2000-11-01 (1)
+è Ajmer
+déclaration annuelle de 1999
+Ajmer
+A-9
+2000-11-01 (2)
+è Ajmer
+déclaration annuelle de 2000
+Ajmer
+A-10
+2000-11-01 (3)
+è Ajmer
+Déclaration correctiveu
+Ajmer
+A-11
+uSelon cette déclaration corrective, la déclaration initiale ainsi que les déclarations annuelles de 1996, de 1997 et de 1998 étaient erronées et c’est Ajmer et non Satnam qui aurait dû être indiqué comme administrateur dans ces quatre déclarations.
+2001
+2001-08-16 (ou après)
+è Ajmer
+états financiers*
+Ajmer
+I-1 et I-2, onglet 16
+*Signés par Ajmer « on behalf of the Board of Directors » à la page intitulée « Balance Sheet ».
+2001-09-24
+è Satnam
+déclaration annuelle de 2001
+Satnam
+A-14
+2002
+2002-07-16
+(ou après)
+è Ajmer
+états financiers*
+Ajmer
+I-4
+*Signés par Ajmer « on behalf of the Board of Directors » à la page intitulée « Balance Sheet ». Bien que la déclaration de revenus à laquelle les états financiers sont joints soit datée du 9 juillet, la lettre du comptable au début des états financiers est datée du 16 juillet, de sorte qu’il serait difficile pour Ajmer de signer les états financiers avant le 16 juillet.
+2002-09-23
+è Satnam
+déclaration annuelle de 2002
+Satnam
+A-15
+[9] Les appelants n’ont pas contesté la cotisation de la société. La société a fait opposition à la cotisation, mais n’a pas porté sa cotisation en appel.
+[10] La société a fait faillite le 11 octobre 2002. Les gouvernements étaient les seuls créanciers.
+[11] Me Brossard a témoigné qu’Ajmer est venu le voir relativement à un problème de TPS et de TVQ à la fin juin 2000.
+[12] Son adjointe a préparé les documents qui sont la pièce A-1, la démission d’Ajmer comme administrateur, président et secrétaire de la société, et l’élection de Satnam comme administrateur.
+[13] Bien qu’il ne puisse l’affirmer, Me Brossard croit qu’il est fort probable qu’Ajmer ait signé la démission en sa présence. Me Brossard a témoigné qu’il avait ouvert un sous-dossier intitulé « Démission de l’administrateur » le 26 juin 2000.
+Témoignage d’Ajmer Singh Sandhu
+[14] Ajmer est arrivé au Canada en 1988 et avait à peu près 30 ans à l’époque. Il a complété la dixième année en Inde. De 1988 à 1995, il a travaillé comme cuisinier. Avant d’arriver au Canada, il a travaillé à la ferme de son père.
+[15] Tous les trois mois, Ajmer donnait au comptable, Mongiat Bernucci, tous les renseignements sur les ventes, la TPS, la TVQ, etc. Le comptable faisait les remises de TPS (voir la transcription, question 81).
+[16] Revenu Québec a fait une vérification de la société en 2000 relativement à la TPS et à la TVQ.
+[17] Par la suite, le comptable a dit à Ajmer qu’il n’avait pas déclaré suffisamment de TPS.
+[18] Ajmer a témoigné que le comptable lui avait dit qu’il ne fallait déclarer que les montants nets et jamais les promotions comme, par exemple, la période où l’on offrait « 2 pour 1 ». Dans son témoignage, il a fait une distinction entre les ventes brutes et les ventes nettes.
+[19] Il a donné comme exemple que pendant un mois il pouvait y avoir des ventes de boisson d’une valeur de 25 000 $, dont 5 000 $ en promotion et 20 000 $ net. Selon ce qu’il a compris du comptable, il ne devait déclarer que le montant net et non les promotions ― le montant net des ventes enregistrées à la caisse. Les consommations en promotion étaient gratuites pour le client.
+[20] Toutefois, quand j’ai voulu m’assurer d’avoir bien compris comment l’appelant comptabilisait les ventes, j’ai eu la réponse suivante :
+MONSIEUR LE JUGE :
+121. Q. Si j’ai bien compris, disons que vous donniez 2 pour 1...
+R. Oui.
+122. Q. .... et c’était quoi le prix typique d’une bière?
+R. C’est comme 4 $ la bière.
+123. Q. O.K. Si vous donniez 2 pour 1 et...
+R. Tombe le 2 $ de bière. Je donne 4 $, ça fait deux bières, tomber 2 $ par bière.
+124. Q. Et dans votre caisse, vous indiquiez ça comment?
+R. Pour le cinquante pour cent (50 %) comme 2 pour 1, deux fois cinquante pour cent (50 %), 2 $, 2 $.
+125. Q. O.K. Et donc, il y avait 4 $ brut?
+R. 4 $ brut, oui.
+126. Q. Et 2 $ net?
+R. 2 $ net, oui.
+D’après cette réponse, il semble que lors de la vente des deux bières en promotion « 2 pour 1 », le client paye 4 $ et la transaction est inscrite comme 4 $ brut et 2 $ net. Toutefois, la réponse n’est pas sans ambiguïté et il est possible que le témoin ait dit qu’il inscrivait 4 $ brut pour chaque bière et 2 $ net pour chaque bière, bien qu’il soit difficile de comprendre pourquoi il inscrirait des ventes de 8 $ s’il ne recevait que 4 $.
+[21] Le comptable n’a pas témoigné.
+[22] Quand on a demandé à Ajmer s’il pouvait expliquer pourquoi Satnam et lui étaient tous deux indiqués comme administrateurs dans les documents constitutifs de la société (pièce A-2), mais que quelques jours plus tard seul Ajmer apparaissait comme administrateur (pièce A-3), il n’avait pas vraiment d’explication.
+[23] Selon Ajmer, il était l’administrateur du début jusqu’en septembre 2000 (voir la transcription, questions 300 à 303).
+[24] Quand on a demandé à Ajmer pourquoi, à la suite de la déclaration initiale (pièce A-4), il est indiqué que seul Satnam était administrateur, il a répondu qu’il pensait que le président de la société était plus important, qu’il ne connaissait pas vraiment la différence entre un administrateur et d’autres postes, et qu’il devait s’agir d’une erreur.
+[25] Quant aux déclarations annuelles suivantes pour 1996, 1997 et 1998 qui indiquent Satnam comme seul administrateur, il a expliqué que les formulaires étaient reçus déjà remplis.
+[26] Par la suite, après être allé voir Me Brossard relativement à la vérification de la société, il a démissionné comme administrateur et Satnam a été élu administrateur (pièces A-1 et A-3).
+[27] Après avoir parlé à Me Brossard, il s’est aperçu qu’il y avait erreur et, le 1er novembre 2000, il a signé des déclarations annuelles pour 1999 et 2000, indiquant qu’il était le seul administrateur, ainsi qu’une déclaration corrective qui remplaçait la déclaration initiale et les déclarations de 1996, de 1997 et de 1998 pour indiquer que c’était lui et non Satnam qui était l’administrateur (pièces A-9, A-10 et A-11).
+[28] Selon Ajmer, Satnam aidait dans le bar. Entre autres, il faisait le ménage et il remplissait le réfrigérateur.
+[29] Ajmer a témoigné qu’après septembre 2000, il ne faisait plus rien dans la société sauf pour donner un coup de main (voir la transcription, questions 314 à 319). C’est son neveu qui s’occupait de la société.
+[30] Il a quand même signé certains documents de la société après le 25 septembre 2000. Il s’agissait de chèques et d’états financiers que son neveu lui avait demandé de signer parce qu’il ne connaissait pas trop cela (voir la transcription, question 323). Ajmer a signé des chèques de la société le 15 octobre 2000, le 31 octobre 2000, le 15 novembre 2000, le 31 janvier 2001 et le 31 juillet 2001.
+[31] En contre-interrogatoire, Ajmer a dit qu’il était au bar de façon continuelle, que le bar ouvrait vers 11 heures le matin et fermait à 3 heures du matin. Il y avait trois ou quatre employés. Ajmer habitait en haut du bar. Le bar était ouvert tous les jours, sauf les 24 et 25 décembre.
+[32] Ajmer gérait le commerce. Il faisait les commandes de vin et de bière, et il payait les factures. Ajmer et Satnam étaient les signataires du compte en banque. Ajmer s’occupait de la caisse, compilait les ventes de vin et de bière et faisait l’inventaire de boisson. Ajmer s’occupait aussi des appareils de loterie vidéo.
+[33] Il a reconnu que Satnam et lui étaient allés ensemble à la banque en 1996 et qu’ils avaient signé en même temps les documents bancaires (pièce I-1, onglet 6).
+Témoignage de Satnam Singh Sandhu
+[34] Satnam est arrivé au Canada en 1994 à l’âge de 17 ans. Il a commencé la onzième année, le début du collège en Inde, mais n’a pas fini. Dès son arrivée jusqu’au moment où il a travaillé à la société, il occupait un emploi aux mêmes endroits qu’Ajmer. Il faisait de l’entretien, y compris le nettoyage.
+[35] À la société, il faisait du travail manuel tel que l’entretien, le nettoyage et le remplissage des réfrigérateurs avec de la bière le matin.
+[36] Il ne s’occupait pas de gestion, de comptabilité ou de remises de taxes. C’est toujours Ajmer qui s’occupait de cela, ainsi que des déclarations annuelles (voir la transcription, question 803). Ajmer s’occupait de la vérification avec le comptable.
+[37] Selon Satnam, c’est par erreur qu’il apparaissait comme administrateur dans la déclaration initiale et les déclarations annuelles de 1996 à 1998.
+[38] De 1996 à 2000, et même au moment du procès, il ne comprenait pas vraiment la différence entre l’administrateur d’une société et un dirigeant.
+[39] Quand on lui a demandé si son rôle dans la société avait changé après que son oncle a démissionné comme administrateur le 25 septembre 2000, il a répondu qu’il a continué de faire la même chose qu’avant la démission de son oncle (voir la transcription, questions 763, 764, et 857 à 874).
+[40] Selon Satnam, c’est lui qui a décidé de faire une cession de biens. Ajmer était d’accord avec la décision.
+[41] D’après Satnam, c’est la seule décision qu’il a prise entre 1996 et la faillite en octobre 2002 (voir la transcription, questions 789 à 797 et 820 à 843).
+[42] À l’époque où la société a été créée, Satnam ne parlait pas le français, et ne le lisait que très peu.
+Analyse
+Satnam était-il administrateur avant le 25 septembre 2000?
+[43] Au début des périodes en question, Satnam avait environ 20 ans et il ne faisait qu’un peu plus de deux ans qu’il était arrivé au pays. Son témoignage et celui d’Ajmer ne laissent aucun doute qu’à part une exception, le rôle de Satnam était de faire du travail manuel.
+[44] L’exception est que Satnam aurait pris la décision de faire la cession des biens de la société. Puisqu’il faisait du travail manuel le reste du temps et qu’il a témoigné que c’est toujours Ajmer qui s’occupait de la gestion, des taxes et de la comptabilité, et que rien n’a changé après que son oncle est devenu actionnaire, je n’accepte pas que c’est Satnam qui a pris la décision de faire la cession, la seule décision qu’il aurait prise de 1996 à la faillite. Je conclus que la décision de faire faillite a été prise par Ajmer ou par Ajmer conjointement avec Satnam.
+[45] En conséquence, je conclus que Satnam n’a jamais exercé, en fait, le rôle d’administrateur ou, s’il a exercé ce rôle, il ne l’a fait qu’une fois, conjointement avec Ajmer, au moment de la faillite.
+[46] Il est admis que Satnam était, en droit, administrateur à partir du 25 septembre 2000. Quelle est la situation avant cette date?
+[47] La Loi sur la publicité légale des entreprises individuelles, des sociétés et des personnes morales, L.R.Q., ch. P-45, prévoit à l’article 62 que « [l]es informations relatives à chaque assujetti font preuve de leur contenu en faveur des tiers de bonne foi à compter de la date où elles sont inscrites à l'état des informations […] ». Je suis persuadé toutefois que quelqu’un qui aurait été indiqué comme administrateur, mais qui ne l’était pas en réalité, n’est pas lié par une déclaration déposée par la société et peut prouver qu’il n’était pas administrateur (voir Commission de la construction du Québec c. Colette Légaré et Guylaine Légaré, C.Q. 200‑22‑002270-973, 16 avril 1998, Cour du Québec, chambre civile; voir aussi l’article 82 de cette même loi).
+[48] D’après les procès-verbaux des 29 et 30 mars 1996 de la société, il est clair qu’Ajmer a été élu administrateur.
+[49] La société a été constituée le 22 mars 1996. Les documents constitutifs, tous signés par Ajmer, indiquent qu’Ajmer et Satnam sont administrateurs. Même si les documents constitutifs ont un effet, ils ne peuvent avoir d’effet après les décisions prises par la société quelques jours plus tard, soit les 29 et 30 mars.
+[50] En conséquence, Ajmer est l’administrateur après le 29 mars 1996. Quel est l’effet sur la déclaration initiale, les déclarations annuelles de 1996 à 1998 et les formulaires bancaires du 2 mai 1996?
+[51] Il n’y a aucun document où Satnam accepte d’être administrateur avant le 25 septembre 2000 et le seul document signé par Satnam avant 2000 où il est indiqué comme administrateur est le formulaire bancaire du 2 mai 1996. Il n’y a aucun élément de preuve qui démontre que Satnam a agi comme administrateur avant 2000.
+[52] J’accepte les témoignages d’Ajmer et de Satnam selon lesquels il s’agit d’une erreur dans la déclaration initiale et les déclarations annuelles de 1996 à 1998. D’autre part, quel que soit l’effet du formulaire bancaire entre la banque et Satnam, étant donné le reste de la preuve, ce formulaire ne me mène pas à la conclusion que Satnam était administrateur.
+[53] En conséquence, je conclus que Satnam n’était pas administrateur avant le 25 septembre 2000. Puisqu’il n’était pas administrateur au moment où il y a eu défaut de la part de la société, son appel sera accueilli.
+Ajmer était-il administrateur après le 25 septembre 2000?
+[54] Ajmer ne conteste pas le fait qu’il était administrateur avant le 25 septembre 2000.
+[55] Malgré sa démission le 25 septembre 2000, je conclus qu’Ajmer a continué d’être administrateur de fait après le 24 septembre 2000 pour les raisons suivantes :
+a) D’après les témoignages, il est évident que c’était Ajmer qui dirigeait la société et que Satnam n’était pas en mesure de le faire.
+b) Ajmer a signé les états financiers du 16 août 2001 et du 16 juillet 2002 « on behalf of the Board of Directors » avec le titre de « Director » à côté de sa signature (voir la pièce I-4 et les pièces I-1 et I-2, onglet 16).
+c) Comme je l’ai déjà mentionné, j’ai conclu que c’est Ajmer (ou Ajmer conjointement avec Satnam) qui a pris (ont pris) la décision de déclarer faillite en octobre 2002, moins de deux ans avant la cotisation du 8 septembre 2004.
+[56] Pour résumer, Ajmer a toujours été administrateur soit en droit, soit en fait, pendant toute période pertinente à ce litige.
+Diligence raisonnable
+[57] Ajmer a-t-il fait preuve de diligence raisonnable au sens du paragraphe 323(3) de la LTA?
+[58] Ajmer prétend qu’il a établi la diligence au sens du paragraphe 323(3) de la LTA parce qu’il a tout donné à son comptable, revenus bruts, revenus nets, et a laissé au comptable le soin de faire les remises. Selon l’argument d’Ajmer, il ne pouvait faire plus, car il n’aurait pas pu connaître le fait que s’il faisait une promotion de deux bières pour le prix d’une ― donc deux bières pour, disons, 4 $ au lieu de 8 $ ― il devait quand même payer la TPS sur la somme de 8 $.
+[59] Je peux accepter que l’obligation de remettre la taxe nette en TPS peut dans certaines situations être plus complexe pour un administrateur que l’obligation de remettre les montants des retenues à la source d’impôt ou d’assurance-emploi. Je peux également accepter que dans une situation où il y a une question difficile qui se pose dans le calcul de la taxe nette, un contribuable qui fait des efforts diligents pour choisir un conseiller compétent, des efforts diligents pour examiner le travail de ce conseiller et des efforts diligents pour remettre tous les renseignements au conseiller puisse faire preuve de diligence raisonnable au sens du paragraphe 323(3) de la LTA.
+[60] Toutefois, le contribuable n’a pas démontré cela dans ce cas.
+[61] Pour rester avec l’exemple déjà utilisé, la preuve n’a pas établi qu’il y a eu une cotisation de TPS sur une vente de 8 $ quand il y a eu un revenu de 4 $ au cours d’une promotion de deux bières pour le prix d’une (voir la transcription, questions 121 à 126 citées précédemment). D’ailleurs, on ne m’a pas cité de dispositions de la LTA qui auraient pour effet de rendre le montant de 8 $ taxable et non le montant de 4 $ reçu dans l’exemple de la promotion « 2 pour 1 ».
+[62] Même si je suppose que, dans l’exemple de la promotion, le contribuable ait déclaré à son comptable une vente brute de 8 $ et une vente nette de 4 $ et que la société ait versé la taxe nette en utilisant 4 $ comme prix de vente, il n’est pas suffisant que l’appelant dise, en fait, qu’il a donné tous les renseignements au comptable qui lui avait dit de payer la taxe sur les ventes nettes. Une preuve de diligence raisonnable exige plus que cela. S’il s’agissait d’une erreur du comptable dont on ne peut raisonnablement s’attendre qu’un administrateur soit capable de la percevoir, il faudrait, entre autres, que l’appelant ait établi clairement la nature de l’erreur et la façon dont le comptable a fait l’erreur s’il avait reçu tous les renseignements.
+[63] Cela est encore plus vrai dans l’exemple s’il a déclaré à son comptable une vente brute de 4 $ et une vente nette de 2 $.
+[64] Dans ce cas, le témoignage du comptable aurait été indispensable à l’appelant.
+[65] À part ces considérations, il y a une autre raison qui me mène à conclure que la diligence raisonnable n’a pas été démontrée. Bien que le bar ait été exploité 363 jours par année pendant la période du 1er janvier 1997 au 31 mars 1999, la cotisation ne porte que sur des défauts pendant trois périodes de trois mois ― du 1er janvier 1997 au 31 mars 1997, du 1er janvier 1998 au 31 mars 1998 et du 1er janvier 1999 au 31 mars 1999. Il s’agit de neuf mois au cours d’une période de 27 mois (voir les pièces A-12 et I‑1, onglet 1, deuxièmes pages).
+[66] Je ne peux accepter que l’appelant a été diligent et que les promotions auraient été la cause du défaut qu’il ne pouvait prévenir en janvier, en février et en mars, mais que les promotions n’ont pas causé de défaut d’avril à décembre.
+[67] Je dois conclure qu’Ajmer n’a pas fourni de preuve qu’il a exercé la diligence raisonnable au sens du paragraphe 323(3) de la LTA.
+[68] Vu mes conclusions de fait, il n’est pas nécessaire que j’examine la question de savoir si la décision de la Cour suprême du Canada dans Magasins à rayons Peoples inc. (Syndic de) c. Wise, 2004 CSC 68, a modifié le test élaboré par la Cour d’appel fédérale dans Soper c. Canada, [1998] 1 C.F. 124. Il n’y a pas de diligence raisonnable, que le test soit celui élaboré dans Soper ou dans Peoples. J’ajouterais que les circonstances ici sont très différentes de celles dans David Mosier c. La Reine, décision no 96-3504(GST)G, 10 octobre 2001 (CCI).
+[69] Pour ces motifs :
+a) l’appel de Satnam Singh Sandhu est accueilli, et la cotisation est annulée;
+b) l’appel d’Ajmer Singh Sandhu est rejeté.
+[70] Quant aux frais, je vais demander aux parties de communiquer avec le greffe si elles veulent faire des observations à ce sujet. Je signerai le jugement par la suite.
+Signé à Ottawa, Canada, ce 26e jour de mars 2009.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE : 2009 CCI 175
+NOS DES DOSSIERS DE LA COUR : 2006-1310(GST)G, 2006-1312(GST)G
+INTITULÉS DES CAUSES : AJMER SINGH SANDHU c. SA MAJESTÉ LA REINE, SATNAM SINGH SANDHU c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 8 novembre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Gaston Jorré
+DATE DES MOTIFS DU
+JUGEMENT : Le 26 mars 2009
+COMPARUTIONS :
+Avocat des appelants :
+Me Daniel Bourgeois
+Avocate de l'intimée :
+Me Jocelyne Mailloux Martin
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Me Daniel Bourgeois
+Cabinet : De Grandpré Chait
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

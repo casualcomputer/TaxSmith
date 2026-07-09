@@ -1,0 +1,236 @@
+---
+title: "Netolitzky v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28611/index.do"
+last_modified: "2006-04-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 172"
+citation2: ""
+neutral_citation: "2006 CCI 172"
+decision_date: "2006-04-18"
+language: "fr"
+item_id: "28611"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1143
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:41:23.348000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "819a030c720e7ca266917374a1ed332d88c31d54f2ee93cd23d583b7744b0871"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Netolitzky v. The Queen
+
+- Citation: 2006 CCI 172
+- Decision date: 2006-04-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1143, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Netolitzky v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-18
+Référence neutre
+2006 CCI 172
+Numéro de dossier
+2001-3596(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+No de dossier : 2001-3596(IT)G
+ENTRE :
+RONALD NETOLITZKY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Ronald Netolitzky (2002-1645(IT)G) le 19 janvier 2006, à Vancouver (Colombie‑Britannique).
+Devant : Mme la juge G. Sheridan
+Comparutions
+Avocats de l’appelant :
+Me Steven Cook et
+Me Richard Wong
+Avocate de l’intimée :
+Me Margaret Clare
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1996 a été retiré à l’audience et il est rejeté.
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1997 est accueilli, avec dépens, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour qu’il l’examine à nouveau et établisse une nouvelle cotisation compte tenu du fait que l’appelant a droit à une perte déductible au titre d’un placement d’entreprise de 1,65 million de dollars en 1997 relativement à la créance que la Chintz and Company Decorative Furnishings Inc. doit à l’appelant, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 18e jour d’avril 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 7e jour d’avril 2008.
+Mario Lagacé, jurilinguiste
+No de dossier : 2002-1645(IT)G
+ENTRE :
+RONALD NETOLITZKY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Ronald Netolitzky (2001-3596(IT)G) le 19 janvier 2006, à Vancouver (Colombie‑Britannique).
+Devant : Mme la juge G. Sheridan
+Comparutions
+Avocats de l’appelant :
+Me Stephen Cook et
+Me Richard Wong
+Avocate de l’intimée :
+Me Margaret Clare
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1998 et 1999 sont accueillis, avec dépens, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour qu’il les examine à nouveau et établisse de nouvelles cotisations compte tenu du fait que l’appelant a droit à une perte déductible au titre d’un placement d’entreprise se chiffrant :
+(1) en 1998, à 1,5 million de dollars relativement à la créance que la Chintz and Company Decorative Furnishings Inc. doit à l’appelant;
+(2) en 1999, à 3 millions de dollars relativement à la créance que la C.H. Golf Ltd. doit à l’appelant,
+conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour d’avril 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 7e jour d’avril 2008.
+Mario Lagacé, jurilinguiste
+Référence : 2006CCI172
+Date : 20060418
+Nos de dossiers : 2001-3596(IT)G
+2002-1645(IT)G
+ENTRE :
+RONALD NETOLITZKY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Ronald Netolitzky, interjette appel de la nouvelle cotisation établie relativement à des pertes déductibles au titre d’un placement d’entreprise déduites en 1996, en 1997, en 1998 et en 1999[1]. L’appel visant 1996 a été retiré à l’audience et il est rejeté. Le ministre du Revenu national a refusé le montant des pertes déductibles au titre d’un placement d’entreprise (« PDTPE ») parce que les sommes avancées ne sont jamais devenues des créances « irrécouvrables » pendant aucune des années en cause et, dans le cas de 1999 seulement, parce que les fonds ont été avancés à la société débitrice non par M. Netolitzky, mais par sa société de portefeuille.
+[2] Ces appels intéressent les placements effectués par M. Netolitzky dans deux sociétés différentes, soit la Chintz and Company Decorative Furnishings Inc. (« Chintz ») et la C.H. Golf Ltd. ( « Golf »). Une troisième entreprise, la Keewatin Consultants Inc. (« Keewatin »), est une société de portefeuille appartenant à cent pour cent à M. Netolitzky et n’est mentionnée que dans l’appel afférant à 1999.
+[3] M. Netolitzky a le fardeau de prouver que sont erronées les hypothèses sur lesquelles le ministre s’est appuyé pour établir les nouvelles cotisations en vertu de la Loi de l’impôt sur le revenu. Lui et deux de ses conseillers financiers, MM. John Barclay et Bob Matthews, ont témoigné à l’audience. J’ai apprécié le caractère direct de leurs témoignages, en particulier celui de M. Netolitzky. Les trois témoins connaissaient les événements et les opérations à l’origine des présents appels; ils ont tous témoigné de façon réfléchie et ouverte. À mon avis, leur témoignage était totalement digne de foi. Aucun témoin n’a été appelé par la Couronne.
+Analyse
+Le prêt à la Chintz (1997, 1998)
+[4] M. Netolitzky, géologue, a entrepris sa carrière en Alberta au milieu des années 70, époque où il préparait des rapports et des évaluations géologiques. Au fil des ans, il a étendu ses activités de conseil à l’acquisition et à la cession de droits miniers. Au début des années 80, il conseillait diverses sociétés exploitantes de ressources et sociétés minières dans lesquelles il plaçait des fonds à titre personnel. À la fin de la décennie, certaines découvertes minières particulièrement intéressantes faites en Colombie‑Britannique ont fait de lui un homme « assez riche »; à un moment donné, son compte REER s’élevait à plus de 40 millions de dollars. Vers cette époque, M. Netolitzky a commencé à rechercher des possibilités d’affaires à l’étranger et, entre 1996 et 1998, il se rendait souvent en Asie et en Afrique pour s’occuper de ces nouvelles activités. Il a poursuivi (quoiqu’à une échelle réduite) ses activités de conseil dans le domaine de la géologie tout en continuant à placer de l’argent dans diverses entreprises et divers projets.
+[5] Ses propres activités minières et activités de conseil étant en plein essor, M. Netolitzky a mis sur pied la société Chintz, en 1986, avec son épouse Nicole. Cette société est une entreprise d’aménagement intérieur et d’étoffes située à Calgary, où Nicole exploitait déjà sa propre entreprise de décoration avant de rencontrer M. Netolitzky. Tous deux étaient actionnaires de la Chintz. Nicole se chargeait de la gestion de l’entreprise tandis que M. Netolitzky s’occupait du financement. En 1998, la Chintz devait quelque huit millions de dollars au titre d’emprunts à des actionnaires; 90 pour 100 de cette somme avait été avancée à l’entreprise par M. Netolitzky. Ce dernier a déduit des pertes déductibles au titre d’un placement d’entreprise de 1,65 million de dollars et de 1,5 million de dollars[2] pour 1997 et 1998, respectivement.
+[6] Les parties conviennent que ces sommes ne sont pas en litige; cependant, le ministre a fait valoir qu’elles ne sont pas déductibles, suivant l’alinéa 50(1)a), puisque les créances de la Chintz n’étaient pas « irrécouvrables » pendant les années en cause. L’alinéa 50(1)a) est ainsi rédigé :
+Créances reconnues comme irrécouvrables et actions d’une société en faillite
+(1) Pour l’application de la présente sous‑section, lorsque, selon le cas :
+a) un contribuable établit qu’une créance qui lui est due à la fin d’une année d’imposition (autre qu’une créance qui lui serait due du fait de la disposition d’un bien à usage personnel) s’est révélée être au cours de l’année une créance irrécouvrable; [...]
+[7] Selon l’argumentation de la Couronne, M. Netolitzky a conclu de façon prématurée que les créances étaient irrécouvrables : il aurait pu prendre de plus amples mesures pour recouvrer la créance et pour redresser l’entreprise, et il aurait dû demander un avis impartial sur la valeur des stocks et de l’entreprise elle‑même. La Couronne a également soutenu qu’en raison de la participation de l’épouse de M. Netolitzky dans l’entreprise, des considérations personnelles plutôt que purement commerciales avaient infléchi la décision de ce dernier. Pour toutes ces raisons, la Couronne a affirmé que M. Netolitzky avait omis de prendre une décision en tant qu’« homme d’affaires prudent », contrairement à ce qu’exige la Cour d’appel fédérale dans l’arrêt Flexi-Coil Ltd. v. The Queen, 96 DTC 6350, à la page 6351 :
+Pour ce qui est de savoir quand une créance doit être considérée comme irrécouvrable, cela relève du jugement du contribuable lui‑même en tant qu’homme d’affaires prudent. Dans la décision Hogan v. M.N.R., 56 DTC 183, à la page 193, Me Fisher a expliqué comment cette détermination devrait se faire :
+[TRADUCTION]
+Par conséquent, pour l’application de la Loi de l’impôt sur le revenu, une mauvaise créance peut être désignée comme étant la totalité ou une partie d’une créance à l’égard de laquelle le créancier, après avoir personnellement tenu compte des facteurs pertinents susmentionnés, pour autant qu’ils s’appliquent à chaque créance particulière, conclut en toute honnêteté et d’une façon raisonnable qu’elle est irrécouvrable à la fin de l’exercice au cours duquel la détermination doit se faire, même si, par la suite, il peut se produire des événements par suite desquels la créance peut en fait être recouvrée en totalité ou en partie. [...]
+[8] Lorsqu’il a contesté les arguments de la Couronne, l’avocat de l’appelant a renvoyé la Cour à l’arrêt Rich v. The Queen[3], décision plus récente de la Cour d’appel fédérale dans laquelle le juge Rothstein (tel était alors son titre) a également renvoyé à la décision Hogan dans son examen des exigences que doit remplir un contribuable suivant l’alinéa 50(1)a) :
+[12] Pour savoir si une créance est irrécouvrable, il faut considérer les faits à une date donnée, par exemple le 31 décembre 1995 [la fin de l’année d’imposition au cours de laquelle la PDTPE est déduite]. La Loi de l’impôt sur le revenu ne précise pas les facteurs à prendre en compte pour savoir si une créance est ou non recouvrable. Cependant, les jugements rendus par la Commission d’appel de l’impôt dans l’affaire Hogan c. Le Ministre du Revenu national, 56 D.T.C. 183 et dans l’affaire No. 81 c. Le Ministre du Revenu national, 53 D.T.C. 98, indiquent certains des facteurs dont il convient de tenir compte. Après que le créancier a considéré lui‑même les facteurs à retenir, il s’agit de savoir s’il a honnêtement et avec raison décidé que la créance était irrécouvrable.
+[13] Je résumerais ainsi les facteurs qui, à mon sens, devraient en général être pris en compte lorsqu’on veut savoir si une créance est devenue irrécouvrable :
+1. l’historique et l’âge de la créance;
+2. la situation financière du débiteur, ses revenus et ses dépenses, gagne‑t‑il un revenu ou essuie‑t‑il des pertes?, sa trésorerie et son actif, son passif et les liquidités dont il dispose;
+3. l’évolution du chiffre d’affaires total par rapport aux années antérieures;
+4. l’encaisse, les comptes clients et autres disponibilités du débiteur à l’époque pertinente et par rapport aux années antérieures;
+5. les comptes fournisseurs et autres exigibilités du débiteur à l’époque pertinente et par rapport aux années antérieures;
+6. les conditions économiques générales ayant cours dans le pays, parmi l’ensemble des débiteurs et dans la branche d’activités du débiteur; et
+7. l’expérience antérieure du contribuable en matière de radiation de créances irrécouvrables.
+Cette liste n’est pas limitative et, selon les circonstances, un facteur ou un autre pourra prendre une importance accrue.
+[9] À mon avis, la preuve étaye l’argument de l’appelant selon lequel M. Netolitzky s’est acquitté, comme il se doit, des obligations qui lui incombent selon la Loi et la jurisprudence connexe. En 1994, en 1995 et en 1996, les bilans de la société[4] montraient des pertes d’exploitation de 951 000 $, de 447 500 $ et de 31 000 $[5], respectivement. En 1997, un modeste revenu d’exploitation de 109 000 $ a été déclaré[6]. En 1998, malgré l’injection d’un gain réalisé lors de la vente de titres négociables[7] pour une somme de 619 000 $ (la plus grande partie de cet argent a servi à réduire la dette bancaire et l’emprunt à des actionnaires), la Chintz a encore subi une perte d’exploitation de 103 000 $[8]. Dans l’intervalle, de 1994 à 1998, la dette de la Chintz envers ses actionnaires est passée de 5 900 000 $ à 8 200 000 $[9]. Rien de ce qui précède n’est compatible avec l’argument de la Couronne, qualifiant de « saine » la situation financière de la Chintz.
+[10] Lorsqu’il a analysé ses chances de recouvrer les sommes avancées, M. Netolitzky a tenu compte du fait que la société n’avait pas obtenu les résultats souhaités. Au lieu de connaître une croissance progressive de son résultat net, la Chintz perdait de l’argent pratiquement tous les ans. Diverses raisons expliquent cette situation. L’expansion de son entreprise installée à Calgary, de manière à l’étendre à trois autres villes (Edmonton, Vancouver et Victoria), et de ses activités commerciales, de façon à englober le mobilier et les tissus d’ameublement, rideaux et tapis, s’est révélée exagérément ambitieuse. En 1994, un incendie (risque pour lequel, a‑t‑on finalement découvert, la Chintz n’était pas suffisamment assurée) a temporairement mis la boutique d’Edmonton sur la touche. La conversion de son système informatique a englouti plus de ressources que prévu et les retards occasionnés par cette mesure ont, dans l’intervalle, exacerbé les difficultés éprouvées par la Chintz sur le plan de la gestion de ses stocks. Dans le domaine versatile du design haut de gamme, la Chintz a été ruinée par sa marchandise « à la mode » et ses propres pratiques d’achat déficientes : elle achetait, des mois à l’avance, les chargements de conteneurs de fournisseurs étrangers et ses stocks étaient souvent invendables avant d’atteindre la salle d’exposition. Cette marchandise, qualifiée de stocks « périmés », restait là tel un éléphant blanc nécessitant de coûteuses aires d’entreposage. Bien qu’elle ait été consciente de la valeur comptable gonflée de ses stocks, la Chintz hésitait à les réduire (les stocks constituant son unique élément d’actif véritable) de peur de mettre en péril l’entente de financement conclu avec la banque, son autre créancier principal. Dans une telle situation gênante, la modeste augmentation des ventes de la Chintz ne lui permettait pas de suivre la cadence de ses frais d’exploitation croissants et encore moins de rembourser ses dettes.
+[11] À cette époque difficile, M. Netolitzky s’est adressé à son conseiller financier de longue date, John Barclay. Leurs relations professionnelles remontent au début des années 70, époque où M. Barclay, comptable général licencié, préparait les déclarations de revenus personnelles de M. Netolitzky ainsi que celles de sa société. En 1976, il est entré au cabinet d’experts‑conseils de M. Netolitzky à titre de directeur financier, poste qu’il a occupé jusqu’à ce que M. Netolitzky travaille dans des sociétés du secteur public. À la suite du succès obtenu dans le cadre de ses entreprises minières, M. Netolitzky a recruté M. Barclay en 1990 pour qu’il devienne directeur financier de la Keewatin, sa nouvelle société d’experts‑conseils.
+[12] Même s’il ne faisait pas officiellement partie de la Chintz, M. Barclay en connaissait bien les activités : il savait que les stocks étaient désuets puisqu’il l’avait lui‑même constaté lors de visites des magasins et entrepôts et qu’il avait discuté de la situation avec des membres du personnel et examiné les états financiers de la société établis par ses experts‑comptables. Il était au courant des diverses stratégies déployées sans succès pour améliorer le rendement de la Chintz – comme le fait de casser le prix des stocks, d’effectuer des rénovations et d’explorer les possibilités offertes par le franchisage.
+[13] Malgré la qualification professionnelle de M. Barclay et sa vaste expérience au sein de la société, l’avocate de l’intimée a soutenu que M. Netolitzky aurait dû obtenir une appréciation indépendante du montant des pertes de la société et de son éventuelle valeur de revente. Il s’agit là d’un élargissement injustifié de l’obligation que l’alinéa 50(1)a) de la Loi impose au contribuable. Dans l’arrêt Flexi‑Coil, le juge MacGuigan a renvoyé à la décision Hogan pour affirmer que « [...] [l]a détermination devrait être faite par le créancier lui‑même (ou par son employé), car il est personnellement parfaitement au courant des faits et des circonstances se rapportant non seulement à chaque créance particulière, mais aussi, si possible, à chaque débiteur individuel [...] ». Dans l’arrêt Rich, le juge Rothstein fait écho à ces propos lorsqu’il déclare que « le créancier […] lui‑même[10] » doit considérer les facteurs permettant de conclure à l’existence d’une créance irrécouvrable.
+[14] C’est ce que M. Netolitzky a fait. En qualité d’homme d’affaires chevronné dans son propre domaine et connaissant bien la situation de la Chintz, il a pris la décision définitive. Même s’il n’était pas tenu de demander l’avis d’un tiers, il a néanmoins pris soin de consulter M. Barclay, conseiller professionnel averti en qui il avait à juste titre mis sa confiance à cette époque. Je suis convaincue que M. Netolitzky a, « en toute honnêteté et d’une façon raisonnable », conclu à l’impossibilité de recouvrer une partie de la dette de la Chintz. Il ressort sans équivoque de la jurisprudence que, suivant l’alinéa 50(1)a), toute ou partie de la créance peut être considérée comme irrécouvrable.
+[15] Quant à l’argument de la Couronne voulant que M. Netolitzky ait pu faire davantage pour recouvrer la créance avant de la déclarer irrécouvrable, il est difficile d’imaginer comment cela aurait été possible. Il y a des limites à ce qu’on est en droit d’exiger du contribuable. La Cour d’appel fédérale a conclu qu’il n’est pas :
+[...] nécessaire non plus pour un créancier d’épuiser tous les moyens possibles de recouvrement. Ce qu’il faut, c’est une évaluation honnête et raisonnable. D’ailleurs, lorsqu’une créance irrécouvrable est par la suite recouvrée en totalité ou en partie, la somme recouvrée est considérée comme un revenu de l’année du recouvrement[11].
+[16] Ces derniers propos permettent d’affirmer que, même lorsqu’une entreprise en difficulté parvient finalement à redresser sa situation financière, ce fait en soi n’a pas pour effet d’empêcher son créancier, à un moment antérieur et plus précaire, de déclarer légitimement irrécouvrables des sommes avancées à cette époque. M. le juge Rothstein poursuit en ces termes, au paragraphe 29 : « […] le contribuable ne sera pas tenu d’envisager mille et un moyens imaginables et de montrer qu’aucun d’eux ne donnera de résultat. Il lui suffira de prouver la situation financière du débiteur et l’incapacité de celui‑ci, à la date pertinente, de rembourser le prêt en totalité ou en partie. C’est la preuve qui a été produite ici[12]. » Et, à mon avis, c’est également la preuve qui a été produite en l’espèce. Les nombreuses stratégies envisagées avaient pour objectif d’améliorer le rendement de la Chintz pour en faire une entreprise rentable ou, à tout le moins, intéressante pour un éventuel acquéreur.
+[17] Enfin, la Couronne a allégué que la « passion » de l’épouse de M. Netolitzky pour l’entreprise l’avait exagérément influencé et qu’il s’était laissé infléchir par les souhaits de Nicole au point de ne pas agir en « homme d’affaires prudent » en concluant que la créance était « irrécouvrable ». En ce qui a trait à la pertinence d’une relation de dépendance entre le créancier et le débiteur, M. le juge Rothstein a déclaré qu’une telle relation « pourra justifier un examen plus attentif qu’une relation sans lien de dépendance. Mais l’existence d’une relation de dépendance ne permet pas à elle seule, sans plus, d’affirmer que le créancier n’a pas décidé honnêtement et avec raison que la créance était irrécouvrable[13]. » Même si on l’examine de manière plus approfondie, la preuve étaye la conclusion voulant que la décision prise par M. Netolitzky soit fondée sur l’analyse financière qu’il a effectuée en collaboration avec M. Barclay.
+[18] Pour les motifs susmentionnés, je suis convaincue que M. Netolitzky a décidé, en toute honnêteté et de façon raisonnable, qu’une partie des dettes de la Chintz était « irrécouvrable » et qu’il a donc droit à une perte déductible au titre d’un placement d’entreprise de 1,65 million de dollars et de 1,5 million de dollars pour 1997 et 1998, respectivement, relativement au prêt consenti à la Chintz.
+Le prêt à la Golf (1999)
+[19] L’appel visant la nouvelle cotisation relative à l’année 1999 ne touche que la créance due par la seconde société, la Golf. Avant de se demander si la créance était devenue irrécouvrable, il faut décider si les avances ont été consenties par M. Netolitzky à titre personnel ou par sa société de portefeuille à cent pour cent, la Keewatin.
+Qui a avancé les fonds d’emprunt?
+[20] La société Golf a été mise sur pied en Colombie‑Britannique en 1990 pour aménager et vendre certains lots situés en bordure du lac Okanagan. Au cours des années 90, un ancien collègue s’est adressé à M. Netolitzky pour lui demander de placer des fonds dans l’entreprise Golf. Compte tenu des succès antérieurs de cette personne et de la façon dont le projet lui avait été présenté, M. Netolitzky a décidé d’investir dans le projet. Il ne détenait aucune action dans la Golf. Sa société de portefeuille, la Keewatin, détenait 35 pour 100 des actions de la Golf. À cette époque, M. Netolitzky utilisait la Keewatin notamment pour ses activités de consultation géologique. M. Barclay était directeur financier de la Keewatin et il fut décidé qu’il se chargerait aussi des finances de la Golf. M. Barclay était signataire autorisé à la fois pour les comptes de la Golf et ceux de la Keewatin.
+[21] Le projet Golf a initialement été financé par l’entremise de la Banque Royale, mais moins d’un an après le démarrage de l’entreprise, la banque a retiré sa participation financière. M. Netolitzky a soudainement dû se débrouiller, avec d’autres, pour trouver des sources de financement de rechange[14]. Cela s’est révélé difficile en grande partie à cause de la gestion inepte de son ancien collègue et des explications inexactes qu’il lui avait données au sujet du projet. Même après que M. Netolitzky eut obtenu l’aide d’investisseurs individuels au sein de ses propres milieux d’affaires, la société a dû s’adresser à des investisseurs institutionnels, lesquels lui ont accordé du financement à court terme à des taux ruineux. En fin de compte, le projet est allé à la dérive. En 1999, M. Netolitzky a demandé une PDTPE de trois millions de dollars, soit une partie de la créance totale que lui devait cette société.
+[22] Le ministre fait valoir que la Keewatin, à titre d’entité juridique distincte, a avancé les fonds à la Golf. L’argument de la Couronne se fonde particulièrement sur la façon dont on a décrit les principales activités commerciales de la Keewatin, à savoir [TRADUCTION] « le crédit‑bail, la location, l’aménagement et la vente de biens immobiliers ». Ces termes figurent dans une lettre du 5 juin 2002 que le cabinet d’experts‑comptables Smythe Ratcliffe, spécialisé en matière fiscale, a adressée à l’Agence du revenu du Canada. À cette date, M. Netolitzky avait retenu les services de ce cabinet pour qu’il examine les documents et établisse les mesures à prendre, le cas échéant, pour corriger les erreurs et les omissions de M. Barclay[15]. Par suite de cet examen, M. Netolitzky a produit une divulgation volontaire et a versé en totalité le montant d’impôt payable selon ses déclarations modifiées. Pour ce faire, le cabinet Smythe Ratcliffe a établi certains documents et joint la lettre d’accompagnement du 5 juin 2002 dans laquelle se trouve le passage suivant d’où les termes reproduits plus haut sont tirés :
+[TRADUCTION] « Pour établir ces annexes, lesquelles servent de fondement aux déclarations modifiées, nous nous appuyons sur l’argumentation selon laquelle les activités principales de la société [Keewatin] consistaient dans le crédit‑bail, la location, l’aménagement et la vente de biens immobiliers, comme il est énoncé dans les règlements d’application de la Loi. »
+[23] Il m’est impossible d’accorder à la description faite par Smythe Ratcliffe l’importance que l’avocate de l’intimée tente de lui donner. Tout d’abord, même s’ils ont été écrits en son nom, ces termes ne sont pas ceux de M. Netolitzky. La Cour ignore les circonstances dans lesquelles ils ont été employés et le soin avec lequel ils ont été choisis; la description était toutefois accessoire au principal objectif de Smythe Ratcliffe, à savoir fournir des documents dans le cadre de la divulgation volontaire. Enfin, la description de Smythe Ratcliffe est conforme aux précisions données par M. Netolitzky à cet égard, soit qu’elle reflétait les propres avoirs immobiliers de la Keewatin : l’édifice patrimonial acheté, en grande partie rénové et loué à la Chintz par l’entremise de sa société de portefeuille, à Victoria; les immeubles que la Keewatin a dû hypothéquer et qui ont été loués à la Chintz, en Alberta. La Keewatin a loué les locaux à la Chintz qui payait le loyer à un tarif d’entreprise.
+[24] Le fait que la Keewatin n’avait tout simplement pas les ressources pour financer le projet joue également contre l’argumentation de la Couronne. J’accepte le témoignage de M. Netolitzky voulant que le solde du compte de la Keewatin n’excède habituellement pas 200 000 $. En réalité, les paiements faits à la Golf provenaient du compte REER bien garni que M. Netolitzky détenait chez RBC Dominion Valeurs mobilières Inc.[16]. La preuve montre comment les fonds de ce compte étaient acheminés au compte bancaire de la Golf : comme il était souvent à l’étranger, M. Netolitzky autorisait M. Barclay à effectuer des retraits sur son compte REER (celui de M. Netolitzky) et il lui avait remis à cette fin des formules de remboursement de REER signées en blanc[17]. M. Barclay était également autorisé à envoyer, signées de sa main, des lettres[18] donnant instructions à RBC Dominion Valeurs mobilières Inc. de lui faire parvenir les fonds remboursés pour qu’ils soient déposés au compte personnel de M. Netolitzky. Enfin, il avait l’autorisation de donner instructions à la Banque de Montréal de transférer l’argent du compte personnel de M. Netolitzky au compte de la Keewatin. À aucun moment pertinent aux présents appels M. Netolitzky n’a‑t‑il autorisé M. Barclay à transférer des fonds du compte personnel de l’appelant à un quelconque autre compte que celui de la Keewatin.
+[25] Pour des raisons inconnues de la Cour ou qui ne sont pas pertinentes en l’espèce, à un moment donné en 1997 ou en 1998, la compétence professionnelle jadis irréprochable de M. Barclay a commencé à se détériorer. On a plus tard[19] découvert qu’il avait outrepassé le pouvoir, qui lui avait été dûment délégué, de transférer des fonds du compte personnel de M. Netolitzky, par l’entremise de la Golf, au compte de la Keewatin. À l’audience, il a admis qu’il s’était servi de la Keewatin pour se faciliter la tâche. Bien qu’il ait toujours eu l’intention d’apporter les redressements nécessaires aux documents respectifs des sociétés, M. Barclay n’a pas réussi à le faire avant de succomber à ses difficultés personnelles.
+[26] Enfin, j’accepte les témoignages de MM. Netolitzky et Barclay selon lesquels l’intention, depuis le début, était que M. Netolitzky investisse à titre personnel dans la Golf.
+[27] Pour toutes ces raisons, je suis convaincue, selon la prépondérance des probabilités, que M. Netolitzky a avancé les fonds à la Golf et donc que la créance était exigible par M. Netolitzky en 1999.
+La créance était‑elle « irrécouvrable »?
+[28] Je me penche maintenant sur le point de savoir si la dette de la Golf est devenue une créance irrécouvrable. La Couronne n’a pas contesté le bien‑fondé du projet Golf ni allégué que l’opération intervenue entre la Golf et M. Netolitzky constituait une opération fictive. Nul n’a laissé entendre que M. Netolitzky avait une quelconque intention autre que celle d’obtenir un rendement du capital qu’il avait investi dans le projet d’aménagement de terrains et aucun élément de preuve ne permet de le penser.
+[29] Si l’on applique les facteurs énoncés dans l’arrêt Rich[20] et examinés en détail plus haut, M. Netolitzky était tenu par la loi de prendre sa décision à la fin de l’année d’imposition 1999. Il était alors au courant de la confusion grandissante qui régnait sur place. Même s’il n’y était nullement obligé, M. Netolitzky a entrepris de trouver des investisseurs privés et d’obtenir du financement institutionnel abordable. Il a personnellement subi les conséquences décevantes de ces mesures. De concert avec M. Barclay (encore son conseiller de confiance à ce moment-là), il a commencé à croire qu’il serait chanceux s’il réussissait à recouvrer ne serait‑ce qu’une partie de son investissement. Lorsqu’il a commencé à perdre confiance dans le jugement de M. Barclay, M. Netolitzky a demandé conseil à M. Matthews, ancien directeur financier chez MacMillan Bloedel, avec lequel il avait été membre du conseil d’administration d’entreprises fructueuses[21]. L’analyse de M. Matthews l’a convaincu que le projet Golf était un désastre colossal.
+[30] À la lumière de tous ces actes, je ne vois pas ce qu’on aurait pu raisonnablement attendre d’autre de la part de M. Netolitzky. En 1999, il était manifeste que la Golf n’avait pas les moyens de rembourser la totalité de ses dettes envers lui. De fait, d’autres personnes s’adresseraient à M. Netolitzky pour qu’il prenne exactement les mêmes mesures relativement aux dettes de la Golf envers eux[22]. Bien que la Golf ait continué d’exister après 1999, ce fait en soi ne rend pas invalide la décision relative au caractère « irrécouvrable » de la créance. Je reprends à mon compte la mise en garde suivante qu’a faite M. le juge Rothstein dans l’arrêt Rich, précité, au paragraphe 14 :
+Les perspectives de la société débitrice peuvent présenter un intérêt dans certains cas, mais les considérations premières seraient en général liées au passé ou au présent. S’il est établi qu’un événement se produira probablement dans l’avenir et que cet événement donne à penser que la créance sera recouvrable lorsqu’il surviendra, alors l’événement en question devra être pris en compte. Si les considérations futures ne sont que des conjectures, elles n’interviendront pas lorsqu’on se demandera si une créance exigible est recouvrable.
+Dans le cas de la Golf, la vraisemblance d’un redressement futur aurait si fortement tenu de la conjecture qu’elle « n[e serait pas] interv[enue] [...] lorsqu’on se [serait] demand[é] si [la] créance [était] recouvrable[23] ».
+[31] Examinée à la lumière des principes énoncés dans l’arrêt Rich et exposés plus haut, la preuve me convainc que M. Netolitzky a conclu en toute honnêteté et de façon raisonnable qu’une partie du prêt consenti à la Golf était irrécouvrable en 1999. Il n’est pas loisible au ministre de profiter d’une évaluation a posteriori pour contester l’appréciation objective faite de bonne foi par le contribuable au moment pertinent. M. Netolitzky peut donc déclarer pour 1999 une perte déductible au titre d’un placement d’entreprise de trois millions de dollars relativement au prêt consenti à la Golf.
+[32] Les présents appels sont accueillis, avec dépens, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour qu’il les examine à nouveau et établisse de nouvelles cotisations.
+Signé à Ottawa, Canada, ce 18e jour d’avril 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 7e jour d’avril 2008.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2006CCI172
+Nos DE DOSSIERS DE LA COUR : 2001-3596(IT)G; 2002-1645(IT)G
+INTITULÉ DE LA CAUSE : RONALD NETOLITZKY ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 19 janvier 2006
+MOTIFS DU JUGEMENT PAR : Mme la juge G. Sheridan
+DATE DU JUGEMENT : Le 18 avril 2006
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Steven Cook et Me Richard Wong
+Avocate de l’intimée :
+Me Margaret Clare
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom : Me Steven Cook et Me Richard Wong
+Cabinet : Thorsteinssons, LLP
+Vancouver (Colombie-Britannique)
+Pour l’intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les présents appels ont été entendus sur preuve commune. Les parties ont présenté un recueil conjoint de documents déposé sous les cotes A‑1, A‑2 et A‑3.
+[2] Réplique à la demande d’aveux, paragraphe 1.
+[3] 2003 DTC 5115, paragraphes 13 à 15 (juge Evans, motifs dissidents).
+[4] Pièce A-3, onglet 1; réponse à l’avis d’appel, paragraphe 6(k).
+[5] Chiffres arrondis.
+[6] Pièce A-3, onglet 1; réponse à l’avis d’appel, paragraphe 6(k).
+[7] Pièce A-3, onglet 1.
+[8] Pièce A-3, onglet 1; réponse à l’avis d’appel, paragraphe 6(k).
+[9] Réplique à la demande d’aveux, paragraphe 1; réponse à l’avis d’appel, paragraphe 6(k).
+[10] Précité, au paragraphe 8 des motifs du jugement.
+[11] Rich, précité.
+[12] Rich, précité.
+[13] Rich, précité, au paragraphe 16.
+[14] Pièce A-3, onglet 10.
+[15] Cette question est examinée plus en détail un peu plus loin.
+[16] Pièce A-3, onglet 9.
+[17] Pièce A-1.
+[18] Pièce A-1.
+[19] La mesure dans laquelle les difficultés de M. Barclay ont influé sur la Keewatin et la Golf n’a été pleinement mise au jour que le 6 décembre 2000.
+[20] Paragraphe 16 des motifs du jugement.
+[21] L’examen effectué par M. Matthew incitera par la suite M. Netolitzky à obtenir de plus amples conseils éclairés en matière de comptabilité fiscale, à procéder à une divulgation volontaire des inexactitudes figurant dans les déclarations et à payer la totalité du montant d’impôt supplémentaire occasionné par les erreurs et les omissions de M. Barclay.
+[22] Pièce A-3, onglets 2 et 3.
+[23] Rich, précité, au paragraphe 14.

@@ -1,0 +1,170 @@
+---
+title: "Veinot v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29662/index.do"
+last_modified: "2010-02-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 112"
+citation2: ""
+neutral_citation: "2010 TCC 112"
+decision_date: "2010-02-25"
+language: "en"
+item_id: "29662"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6230
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:37:13.181000+00:00"
+cases_cited_count: 2
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "05aacf6b6b07cefdd9b63d12f598e9ef373943cc967612f45d2d7a9bcae5a322"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Veinot v. The Queen
+
+- Citation: 2010 TCC 112
+- Decision date: 2010-02-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6230, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Veinot v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-02-25
+Neutral citation
+2010 TCC 112
+File numbers
+2009-1272(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1272(IT)I
+BETWEEN:
+SHAWN VEINOT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 15, 2010 at Halifax, Nova Scotia
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+Sharon Slauenwhite
+Counsel for the Respondent:
+Jill Chisholm
+___________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2005 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that motor vehicle expenses in the amount of $6,155.71 are deductible in computing income.
+The appeal with respect to a disallowance of a goods and service tax rebate under section 253 of the Excise Tax Act is allowed, and the matter is referred back to the Minister of National Revenue for reconsideration on the basis that motor vehicle expenses in the amount of $11,625 are eligible for purposes of the rebate.
+Each party shall bear their own costs.
+Signed at Ottawa, Canada this 25th day of February 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 112
+Date: 20100225
+Docket: 2009-1272(IT)I
+BETWEEN:
+SHAWN VEINOT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, Shawn Veinot, was employed in Nova Scotia as a forestry equipment operator with Looke Cancut Limited for a period of seven years.
+[2] The terms of employment required that the appellant travel to remote cutting sites with a vehicle suitable for such travel and for the transportation of equipment. This appeal concerns motor vehicle expenses incurred by the appellant, most of which relate to traveling between the appellant’s home and the cutting sites. It was not unusual for the daily round trip between home and the work sites to be in the neighbourhood of 150 to 250 kilometers.
+[3] In the 2005 taxation year, the employer paid to the appellant an allowance in the amount of $5,470.71 to assist with the motor vehicle expenses. The allowance, which was based on 16,577 kilometers traveled, took into account the distance between the appellant’s home and the cutting sites, subject to a deduction of 50 kilometers for each round trip.
+[4] In the appellant’s income tax return, the allowance was not included in computing income and a deduction was claimed for the full amount of expenses related to the vehicle. The deduction initially claimed was $15,328, and the appellant later sought to increase this amount to $18,888.
+[5] Included with the income tax return was an application for a goods and services tax rebate related to these expenses. The rebate is provided for in section 253 of the Excise Tax Act.
+[6] An income tax reassessment was issued for the 2005 taxation year which disallowed the entire amount of the deduction. The Minister also disallowed the GST rebate.
+[7] The representative of the appellant did not seek to justify the entire amount of the deduction claimed. She indicated that the appellant only seeks a deduction for the difference between the actual expenses incurred ($18,670) and the amount of the allowance ($5,470.71).
+[8] The issues are whether the appellant is entitled to a deduction for motor vehicle expenses and the GST rebate.
+Analysis
+[9] Under the relevant legislative scheme in the Income Tax Act, if a taxpayer receives a reasonable allowance from an employer in respect of motor vehicle expenses for traveling in the course of employment, the allowance is not required to be included in computing income and the taxpayer is not permitted a deduction for his expenses.
+[10] If, on the other hand, the allowance received was not reasonable, the allowance is required to be included in income and a deduction may be taken for the actual employment-related motor vehicle expenses.
+[11] The relevant provisions, subsection 6(1) and paragraph 8(1)(h.1), provide:
+6(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable
+[…]
+(b) all amounts received by the taxpayer in the year as an allowance for personal or living expenses or as an allowance for any other purpose, except
+[…]
+(vii.1) reasonable allowances for the use of a motor vehicle received by an employee (other than an employee employed in connection with the selling of property or the negotiating of contracts for the employer) from the employer for travelling in the performance of the duties of the office or employment,
+[…]
+and, for the purposes of subparagraphs 6(1)(b)(v), 6(1)(b)(vi) and 6(1)(b)(vii.1), an allowance received in a taxation year by a taxpayer for the use of a motor vehicle in connection with or in the course of the taxpayer's office or employment shall be deemed not to be a reasonable allowance
+(x) where the measurement of the use of the vehicle for the purpose of the allowance is not based solely on the number of kilometres for which the vehicle is used in connection with or in the course of the office or employment, or
+(xi) where the taxpayer both receives an allowance in respect of that use and is reimbursed in whole or in part for expenses in respect of that use (except where the reimbursement is in respect of supplementary business insurance or toll or ferry charges and the amount of the allowance was determined without reference to those reimbursed expenses);
+8(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto
+[…]
+(h.1) where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for motor vehicle expenses that was, because of paragraph 6(1)(b), not included in computing the taxpayer's income for the year, or
+(iv) claims a deduction for the year under paragraph 8(1)(f);
+[12] Counsel for the respondent submits that the appellant is not entitled to a deduction for motor vehicle expenses because he received a reasonable allowance and the expenses related to travel between home and cutting sites are personal expenses. The judicial authorities provided in support are four decisions of this Court: O’Neil v. The Queen, 2000 DTC 2409, St-Laurent v. The Queen, [2000] TCJ No. 163, Royer v. The Queen, 99 DTC 683, and Champaigne v. The Queen, 2006 DTC 2368.
+[13] The representative of the appellant submits that the appellant usually reported to work at the head office of the employer before traveling to cutting sites. That office, which was located in the home of the owner of the employer, was located one kilometer from the appellant’s home. It is suggested that this one kilometer was the only personal element of the travel.
+[14] The appellant testified that he went to the head office almost on a daily basis before going to the cutting sites in order to pick up supplies, maps etc. This testimony was not corroborated by Mrs. Looke, who was the bookkeeper for Looke Cancut Limited and the spouse of the owner.
+[15] I was not satisfied with the appellant’s testimony in a number of areas and I am not convinced that he went to the Looke head office as often as he suggested. However, in my view nothing turns on this testimony.
+[16] The principle by which travel to work has been considered to be a personal expense has generally been restricted to situations in which the taxpayer regularly reports to one or more places of business: McDonald v. The Queen, 98 DTC 5151 (TCC).
+[17] That is not the case here. The appellant’s employment required him to travel to different cutting locations and none of these could be considered a regular place of business.
+[18] Travel to the cutting sites was in the course of the appellant’s employment in my view and not a personal expense. None of the judicial decisions provided by the respondent are inconsistent with this view.
+[19] The respondent also submits that a deduction is not permitted under s. 8(1)(h.1) because a reasonable allowance for motor vehicle expenses was provided.
+[20] I disagree with this submission because the allowance was not a reasonable allowance for the employment-related expenses.
+[21] The first reason for this conclusion is subparagraph 6(1)(b)(x). It provides that an allowance is deemed not to be reasonable if the allowance is not based solely on kilometers. In this case, Mrs. Looke testified that the allowance was a per kilometer rate but that the rate did vary depending on things such as whether parts or equipment were being transported. The deeming rule is applicable here.
+[22] Second, the evidence as a whole suggests that the allowance was not intended to reimburse all employment-related costs. It was only to provide some assistance.
+[23] Third, the allowance excluded 50 kilometers for each round trip. Mrs. Looke testified that this was on the basis that 50 kilometers would be allocated to personal expenditures, based on a hypothetical distance between an employee’s home and the Looke head office. This was an arbitrary deduction which was not based on the facts of any particular case. For example, it was not suggested that the deduction was made because employees generally reported to the Looke head office before going to cutting sites.
+[24] There is no principled basis to allocate 50 kilometers to personal travel.
+[25] I conclude, then, that the appellant did not receive a reasonable allowance and that he is entitled to a deduction for his actual employment-related motor vehicle expenses. In order to avoid a double claim, the deduction should take into account the allowance that should have been included in income, but was not.
+[26] The next issue is to determine the amount of employment-related expenses that were incurred. There is no dispute about the total vehicle expenses, but if the vehicle was used for both personal and employment purposes, a reasonable allocation of expenses should be made.
+[27] The appellant testified that the motor vehicle was only used for employment purposes, and that it was suitable only for this purpose.
+[28] The problem that I have with this testimony is that it is inconsistent with the mileage log that was prepared by Mrs. Looke based on records provided by the appellant. That log indicates considerably more mileage on this vehicle than what was claimed by the appellant. The explanations provided by the appellant for the discrepancies were not satisfactory.
+[29] In the circumstances, the appellant has not established to my satisfaction the amount of vehicle expenses that are reasonably allocable to employment.
+[30] That would be sufficient to justify a dismissal of the appeal, but in my view that would not be an appropriate result here.
+[31] Counsel for the respondent suggested that 62 percent is a rough allocation of employment use of the vehicle based on the limited information that is available.
+[32] This approach would result in a deduction in the amount of $6,155.71, after taking into account the allowance. In my view, that is a sensible approach here.
+[33] As for the GST rebate, the respondent suggests that the rebate should be disallowed because the rebate application did not contain a statement by the employer as required by section 253 of the Excise Tax Act. This argument was not mentioned in the reply and I think it would be unfair for the respondent to raise it for the first time during argument. The GST rebate should be allowed to take into account employment-related motor vehicle expenses. This amount is $11,625, which is the aggregate of the allowance received and the deduction that has been allowed here.
+[34] Each party shall bear their own costs.
+Signed at Ottawa, Canada this 25th day of February 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 112
+COURT FILE NO.: 2009-1272(IT)I
+STYLE OF CAUSE: SHAWN VEINOT and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: February 15, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: February 25, 2010
+APPEARANCES:
+Agent for the Appellant:
+Sharon Slauenwhite
+Counsel for the Respondent:
+Jill Chisholm
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

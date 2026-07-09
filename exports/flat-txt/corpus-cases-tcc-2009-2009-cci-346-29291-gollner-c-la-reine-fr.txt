@@ -1,0 +1,169 @@
+Title: Gollner c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29291/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-346-29291-gollner-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-06-26
+
+# Gollner c. La Reine
+
+- Citation: 2009 CCI 346
+- Decision date: 2009-06-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7092, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gollner c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-06-26
+Référence neutre
+2009 CCI 346
+Numéro de dossier
+2009-549(IT)APP
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-549(IT)APP
+ENTRE :
+HELMUT GOLLNER,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 9 juin 2009 et motifs de l’ordonnance rendus par voie d’appel téléphonique le 24 juin 2009, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge L. M. Little
+Comparutions :
+Pour le requérant :
+Le requérant lui‑même
+Avocat de l’intimée :
+Me Matthew Canzer
+____________________________________________________________________
+ORDONNANCE
+Vu la demande d’ordonnance de prorogation du délai imparti pour interjeter appel de cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003;
+Vu l’affidavit de Julisa Cheng, lequel a été déposé;
+Et vu les allégations des parties;
+La requête est rejetée conformément aux motifs de l’ordonnance ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 26e jour de juin 2009.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 21e jour de juillet 2009.
+Alya Kaddour‑Lord, traductrice
+Référence : 2009 CCI 346
+Date : 20090626
+Dossier : 2009-549(IT)APP
+ENTRE :
+HELMUT GOLLNER,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Little
+A. Les faits
+[1] Le requérant est un coiffeur pour hommes retraité. Il a déclaré qu’après avoir pris sa retraite, il a continué de vendre du shampooing.
+[2] Le requérant a expliqué son problème fiscal de la manière suivante :
+a) Le requérant a reçu une lettre de l’Agence du revenu du Canada (l’« ARC ») l’avisant que celle‑ci procéderait à une vérification de sa situation fiscale pour les années d’imposition 2001, 2002 et 2003.
+b) Le requérant a retenu les services d’un comptable et a fourni aux fonctionnaires de l’ARC les renseignements qu’ils avaient demandés relativement aux années d’imposition 2001, 2002 et 2003.
+c) Environ trois mois après avoir fourni les renseignements financiers aux fonctionnaires de l’ARC, le requérant a été informé que la vérification de sa situation fiscale serait effectuée au moyen d’une analyse de la valeur nette.
+d) Le 1er mai 2006, le ministre du Revenu national (le « ministre ») a envoyé des avis de nouvelle cotisation au requérant pour les années d’imposition 2002 et 2003.
+e) Le 20 juin 2006, le requérant a déposé des avis d’opposition aux nouvelles cotisations établies à son égard pour les années d’imposition 2002 et 2003.
+f) Après que les avis d’opposition eurent été déposés, le comptable du requérant, M. Werner Rohrlack, a parlé à Tina Tingson et à Ron H. Brass de la section des appels de l’ARC. Leurs discussions ont porté sur les nouvelles cotisations d’impôt sur le revenu ainsi que sur les nouvelles cotisations de taxe sur les produits et services (la « TPS »).
+g) Le 14 novembre 2007, le ministre a envoyé au requérant un avis de ratification pour l’année d’imposition 2002.
+h) Le 18 décembre 2007, le ministre a établi un avis de nouvelle cotisation à l’égard du requérant pour l’année d’imposition 2003. Dans cette nouvelle cotisation, le ministre a diminué le revenu du requérant pour l’année d’imposition 2003, le faisant passer de 133 183 $ à 31 359 $, ce qui représente une diminution de 101 824 $.
+i) Le 10 juillet 2008, le requérant a déposé un avis d’opposition à la nouvelle cotisation établie à son égard pour l’année d’imposition 2003.
+j) Le 16 février 2009, le requérant a présenté une demande en vue d’obtenir une ordonnance prorogeant le délai pour déposer un avis d’appel pour les années d’imposition 2002 et 2003.
+k) Le 7 mai 2009, l’intimée a déposé une réponse à la demande de prorogation de délai. On peut y lire les commentaires suivants :
+[traduction]
+1. Le ministre du Revenu national (le « ministre ») ne s’oppose pas à la requête déposée en vue d’obtenir une ordonnance prorogeant le délai pour déposer un avis d’appel à la nouvelle cotisation établie pour l’année d’imposition 2003.
+2. Le ministre s’oppose à la requête déposée en vue d’obtenir une ordonnance prorogeant le délai pour déposer un avis d’appel à la nouvelle cotisation établie pour l’année d’imposition 2002.
+l) En plus de la question d’impôt sur le revenu, la situation du requérant soulevait également une question de TPS. Le 8 avril 2009, le juge McArthur a rendu une ordonnance qui est en partie rédigée ainsi :
+[traduction]
+La Cour ordonne que le délai pour interjeter appel soit prorogé jusqu’à la date de la présente ordonnance et que l’avis d’appel, reçu en même temps que la présente requête, soit réputé être un avis d’appel valable ayant été déposé à la date de la présente ordonnance, sous réserve du fait que le droit de dépôt approprié soit payé au greffe au plus tard le 11 mai 2009.
+B. LA QUESTION EN LITIGE
+[3] La question en litige est de savoir si la Cour canadienne de l’impôt a le pouvoir de rendre une ordonnance prorogeant le délai accordé au requérant pour déposer un avis d’appel à la nouvelle cotisation établie à son égard pour l’année d’imposition 2002.
+C. ANALYSE ET DÉCISION
+[4] L’avocat de l’intimée a déclaré que l’avis d’appel concernant l’avis de ratification relatif à l’année d’imposition 2002 aurait dû être déposé dans les 90 jours suivant le 14 novembre 2007, c’est‑à‑dire le 12 février 2008 au plus tard.
+[5] L’avocat du ministre a fait valoir que le délai d’un an qui est imparti afin de demander une prorogation du délai pour déposer un avis d’appel expirerait le 12 février 2009. La requête en prorogation du délai pour interjeter appel a été déposée par le requérant le 16 février 2009, soit quatre jours après la date limite.
+[6] Les dispositions pertinentes de la Loi de l’impôt sur le revenu (la « Loi ») sont les suivantes :
+Le paragraphe 169(1) de la Loi prévoit qu’un contribuable souhaitant interjeter appel d’une cotisation devrait le faire dans les 90 jours suivant la date à laquelle l’avis de ratification lui a été expédié par la poste. En l’espèce, ledit avis a été envoyé le 14 novembre 2007, et par conséquent, l’avis d’appel aurait dû être déposé au plus tard le 12 février 2008.
+L’alinéa 167(5)a) de la Loi prévoit qu’il est possible de demander une prorogation du délai à condition que cette demande ait été déposée pendant l’année suivant l’expiration de la période de 90 jours. Autrement dit, le délai d’un an prendrait fin le 12 février 2009.
+[7] Comme je l’ai mentionné, la demande de prorogation du délai a été déposée le 16 février 2009, soit quatre jours après l’expiration du délai.
+[8] La Cour a rendu de nombreuses décisions affirmant qu’elle n’avait pas le pouvoir de proroger la limite de 90 jours et un an afin de conférer à un contribuable le droit de déposer un avis d’appel concernant un avis de ratification.
+[9] Je n’ai pas d’autre choix que d’accueillir la requête du ministre et de rejeter la demande de prorogation du délai pour déposer un avis d’appel concernant l’avis de ratification pour l’année d’imposition 2002. Je n’ai pas le pouvoir de proroger le délai imparti pour déposer un avis d’appel au‑delà de la période de 90 jours et un an.
+[10] Avant de conclure, je souhaiterais formuler quelques commentaires et observations :
+1. Quand le requérant a comparu devant la Cour, il a déclaré que pendant la période où l’ARC a effectué la vérification, il était soigné pour un cancer.
+2. Le requérant a ajouté que ses anciens conseillers financiers lui avaient donné des conseils erronés au sujet de sa situation fiscale.
+3. Le requérant a déclaré avoir retenu les services de M. W. P. Rohrlack du cabinet W. R. Accounting & Consulting Services. Le requérant a déposé la pièce A-1, qui contient plusieurs lettres que M. Rohrlack a envoyées à des fonctionnaires de l’ARC. Dans une lettre datée du 17 janvier 2007, M. Rohrlack a déclaré : [traduction] « Je suis comptable depuis 40 ans et je me trouve avoir également exercé les fonctions de vérificateur de l’impôt, mais je n’ai jamais vu ce genre de confusion dans les chiffres. » D’après la preuve que j’ai examinée, il semble que les fonctionnaires de l’ARC n’étaient pas au courant de tous les faits pertinents concernant le requérant.
+4. Pendant l’audience, l’avocat du ministre a déposé les pièces R-5 et R-6.
+a) La déclaration suivante apparaît dans la pièce R-5 :
+[traduction]
+Objet : Avis d’opposition relatif aux années d’imposition 2001, 2002 et 2003 daté du 24 juillet 2008, le cachet de la poste faisant foi.
+Observation : D’après la preuve qui a été produite, l’avis d’opposition relatif à l’année d’imposition 2003 a été déposé le 10 juillet 2008. L’avis d’opposition relatif à l’année d’imposition 2002 a été déposé le 20 juin 2006.
+Voici un extrait de la lettre envoyée par l’ARC :
+[traduction]
+Vous n’avez pas signifié votre avis d’opposition dans les 90 jours suivant la date à laquelle les avis de nouvelles cotisations pour les années d’imposition 2001 et 2002 vous ont été expédiés par la poste, soit le 5 mai 2007 […]
+Observation : L’avis de nouvelle cotisation relatif à l’année d’imposition 2002 a été envoyé le 1er mai 2006, et non le 5 mai 2007.
+b) La pièce R-6 est ainsi rédigée :
+[traduction]
+Nous avons commis une erreur dans la lettre datée du 9 octobre 2008 que nous vous avons envoyée au sujet de votre avis d’opposition pour 2002 et 2003.
+Vous aviez déjà déposé des avis d’opposition pour les années d’imposition 2002 et 2003. Le 9 octobre 2008, nous vous avons envoyé un avis de ratification en réponse à l’avis d’opposition pour 2002. […]
+Remarque : La référence à l’avis d’opposition relatif à l’année 2002 daté du 9 octobre 2008 semble incorrecte. La preuve indique que l’avis de ratification de la nouvelle cotisation établie à l’égard du requérant pour l’année d’imposition 2002 a été envoyé le 14 novembre 2007, et non le 9 octobre 2008, comme le montre la pièce R-6.
+Observation additionnelle : Les informations incorrectes contenues dans la lettre datée du 9 octobre 2008 (pièce R-5) et dans la lettre datée du 12 novembre 2008 (pièce R‑6) ont, j’en suis certaine, beaucoup dérouté le requérant.
+[11] En me fondant sur les observations susmentionnées, je suis parvenu aux conclusions suivantes :
+A. Il faut espérer que le requérant pourra régler les questions d’impôt impayé pour l’année d’imposition 2002 quand il donnera suite à l’avis d’appel qu’il a déposé pour l’année d’imposition 2003.
+B. Étant donné que la question de TPS découle du revenu reçu par le requérant pendant la période allant du 1er juillet 2001 au 31 décembre 2003, il est également possible que le requérant soit en mesure de régler certaines questions d’impôt impayé pour l’année d’imposition 2002 quand il s’occupera des questions de TPS.
+C. Étant donné que le requérant était soigné pour un cancer pendant la période de la vérification et que les fonctionnaires de l’ARC ont commis un certain nombre d’erreurs de dates (voir les pièces R-5 et R-6), il se peut qu’on se trouve dans une situation où le ministre devrait appliquer les dispositions d’équité de l’article 220 de la Loi afin d’accorder au requérant une certaine forme de réparation. Je ne peux exercer le pouvoir conféré par ces dispositions. Ce pouvoir discrétionnaire appartient au ministre et à ses représentants.
+D. Si les questions fiscales relatives à l’année d’imposition 2002 demeurent non résolues, il pourrait s’avérer convenable que le ministre applique le paragraphe 23(2) de la Loi sur la gestion des finances publiques, lequel est ainsi rédigé :
+(2) Sur recommandation du ministre compétent, le gouverneur en conseil peut faire remise de toutes taxes ou pénalités, ainsi que des intérêts afférents, s’il estime que leur perception ou leur exécution forcée est déraisonnable ou injuste ou que, d’une façon générale, l’intérêt public justifie la remise.
+Seul le Cabinet fédéral, sur recommandation du ministre, a le pouvoir de faire remise de taxes.
+[12] Pour finir, je voudrais renvoyer aux commentaires formulés par l’avocat du ministre au cours de l’audience qui s’est tenue le 9 juin 2009.
+[13] Au cours de l’audience, Me Canzer a déclaré :
+[traduction]
+Je peux également dire à la Cour que pas plus tard que ce matin, j’ai conversé à plusieurs reprises avec un fonctionnaire de l’Agence du revenu du Canada, qui a été en mesure de me dire que l’Agence – sans rien promettre ou faire quelque représentation que ce soit – qu’elle n’écarte pas totalement la possibilité de recourir au paragraphe 169(3) de la Loi, qui traite du règlement d’un appel après consentement.
+[14] La requête du ministre est accueillie et la demande du requérant est rejetée.
+Signé à Vancouver (Colombie‑Britannique), ce 26e jour de juin 2009.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 21e jour de juillet 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE :
+2009 CCI 346
+NO DU DOSSIER DE LA COUR :
+2009-549(IT)APP
+INTITULÉ :
+Helmut Gollner et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+DÉCISION :
+Le 9 juin 2009
+Le 24 juin 2009
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge L. M. Little
+DATE DE L’ORDONNANCE :
+Le 26 juin 2009
+COMPARUTIONS :
+Pour le requérant :
+Le requérant lui‑même
+Avocat de l’intimée :
+Me Matthew Canzer
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

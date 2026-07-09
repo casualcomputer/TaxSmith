@@ -1,0 +1,297 @@
+Title: Ruremesha v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/307674/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-57-307674-ruremesha-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-03-20
+
+# Ruremesha v. The Queen
+
+- Citation: 2018 TCC 57
+- Decision date: 2018-03-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7566, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ruremesha v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-03-20
+Neutral citation
+2018 CCI 57
+File numbers
+2015-5483(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-5483(IT)(I)
+BETWEEN:
+JAMES SYMBAH RUREMESHA,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on October 19, 2017, at Calgary, Alberta
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Grégoire Cadieux
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act on March 10, 2011, with respect to the 2007, 2008 and 2009 taxation years, on July 4, 2011, with respect to the 2006 taxation year, on September 30, 2013, with respect to the 2010 and 2011 taxation years, and on July 16, 2015, with respect to the 2012 taxation year is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 20th day of March 2018.
+“Real Favreau”
+Favreau J.
+Citation: 2018 TCC 57
+Date: 20180320
+Docket: 2015-5483(IT)I
+BETWEEN:
+JAMES SYMBAH RUREMESHA,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from the reassessments made by the Minister of National Revenue (the “Minister”) under the Income Tax Act, R.S.C. (1985), c. 1 (5th Supp.), as amended, (the “Act”) with respect to the Appellant’s 2006 to 2012 taxation years.
+[2] The reassessments in dispute are those dated:
+- March 10, 2011, with respect to the 2007, 2008 and 2009 taxation years;
+- July 4, 2011, with respect to the 2006 taxation year;
+- September 30, 2013, with respect to the 2010 and 2011 taxation years; and
+- July 16, 2015, with respect to the 2012 taxation year.
+[3] The amounts in question in the reassessments are as follows:
+[BLANK]
+2006
+$
+2007
+$
+2008
+$
+2009
+$
+2010
+$
+2011
+$
+2012
+$
+Charitable donations disallowed
+10,650
+13,870
+10,560
+8,870
+1,480
+2,250
+1,220
+Other employment expenses disallowed
+−
+−
+6,124
+8,683
+14,435
+−
+3,250
+Employee GST/HST rebate disallowed
+−
+−
+228
+322
+−
+−
+−
+Business expenses disallowed
+−
+−
+−
+−
+−
+17,973
+−
+Unreported RRSP income
+−
+−
+−
+4,500
+4,200
+−
+−
+Tuition disallowed
+−
+−
+−
+−
+−
+−
+1,386
+Education amount disallowed
+−
+−
+−
+−
+−
+−
+2,325
+Late-filing penalty
+102
+−
+16
+81
+152
+−
+−
+Repeated failure to report income penalty
+−
+−
+−
+−
+420
+−
+−
+[4] At the hearing, the appellant indicated to the Court that only the charitable donations for the 2006 to 2010 taxation years were in dispute.
+[5] The Minister determined the tax payable by the appellant for the 2016 to 2012 taxation years by taking into account the following facts regarding the charitable donations, as described in paragraphs 12 a) to i) of the Response to the Notice of Appeal:
+[Translation]
+a) In filing his income tax returns for the taxation years in dispute, the appellant claimed the following amounts as charitable donations in cash or assets that he allegedly made for the 2006, 2007, 2008, 2009, 2010, 2011 and 2012 taxation years:
+Charity
+2006
+$
+2007
+$
+2008
+$
+2009
+$
+2010
+$
+2011
+$
+2012
+$
+Revival Time Ministries
+4,800
+−
+−
+−
+−
+−
+−
+Operation Save Canada Teens
+−
+8,950
+7,800
+8,870
+−
+Unknown organization
+5,850
+4,920
+2,760
+−
+1,480
+2,250
+1,220
+TOTAL
+10,650
+13,870
+10,560
+8,870
+1,480
+2,250
+1,220
+Revival Time Ministries (“RTM”) and Operation Save Canada Teens (“OSCT”)
+b) RTM and OSCT were registered charities in the 2006, 2007, 2008 and 2009 taxation years.
+c) RTM and OSCT did not keep adequate books and records.
+d) RTM and OSCT did not use their funds solely for charitable purposes.
+e) The charity status of RTM and OSCT was revoked for failing to comply with the requirements of the Act on January 8, 2011 and January 15, 2011, respectively.
+f) The donation receipts issued to the appellant by RTM and OSCT for the 2006, 2007, 2008 and 2009 taxation years did not contain the following information:
+i) The Canadian address of RTM and OSCT did not correspond to the address recorded with the Minister
+ii) The dates on which the receipts were issued
+iii) The place or locality where the receipts were issued
+g) The appellant did not submit receipts for the donations of $5,820, $4,920, $2,760, $1,480, $2,250, or $1,220 that he allegedly made to the unknown organizations in the 2006, 2007, 2008, 2010, 2011 and 2012 taxation years.
+h) The appellant earned net incomes of $44,006, $44,864, $47,739, $57,465, $56,676, $47,882 and $28,399 for the 2006, 2007, 2008, 2009, 2010, 2011 and 2012 taxation years, respectively.
+i) The amounts of the alleged donations represent 24%, 31%, 22%, 15%, 3%, 5% and 4% of the appellant’s net income for the 2006, 2007, 2008, 2009, 2010, 2011 and 2012 taxation years, respectively.
+[6] Only the appellant testified at the hearing. He acknowledged that he had no receipts for the donations to various unknown organizations. He was unable to provide the names of those organizations at the hearing, or to confirm that those organizations were registered charities for the purposes of the Act. He explained that the amount of donations made in 2010 was significantly lower because he had stopped being an active member of Revival Time Ministries (“RTM”) and Operation Save Canada Teens (“OSCT”), and because he had married, thus increasing his financial obligations.
+[7] The appellant explained that he retained the services of the accounting firm Raoul Services Canada to prepare and file his income tax returns. That accounting firm was apparently known in the African community from Rwanda. The accounting firm prepared the appellant’s income tax returns and filed them electronically. For those services, the firm charged 10% to 15% of the tax refunds received. The firm took care of obtaining tax receipts for the charitable donations. When he signed his income tax returns, the appellant did not see the receipts issued by the registered charities. Moreover, he did not see the charitable donation receipts until October 2015, after the Canada Revenue Agency (the “CRA”) sent them to him. The appellant acknowledged that the donation amounts claimed each year were arbitrary, but that those amounts seemed reasonable to him, at approximately $800 per month. According to the appellant, he donated $100 to $200 per week in cash during religious services and other RTM church activities. In principle, he was supposed to donate in the form of a tithe of 10% of his gross annual income.
+[8] The appellant also indicated that the organization OSCT was in fact the same church, operated under another name. He did not know what distinguished the two organizations.
+[9] The appellant acknowledged that he learned that the registered charity status of RTM and OSCT had been revoked in 2011 due to errors on receipts, deficient record-keeping, and incorrect use of donations. According to the appellant, those status revocations led to the retroactive cancellation of donations made from 2006 to 2010.
+[10] The appellant claims that the CRA failed in its duty by not checking the organizations RTM and OSCT before registering them and by issuing tax refund cheques that he must now repay with interest because the CRA did not apply the amount of those refunds to the $45,000 in taxes and interest now owed by the appellant.
+[11] The appellant assumed that RTM and OSCT were registered charities and that the receipts issued by those organizations complied with the Act because the CRA issued tax refund cheques in relation to the donations made to those organizations.
+Legislative and Regulatory Provisions
+[12] Paragraph 118.1(2)(a) of the Act states that a charitable donation must be proven by presenting a receipt for the donation that contains the prescribed information. The paragraph reads as follows:
+118.1(2) An eligible amount of a gift is not to be included in the total charitable gifts, total cultural gifts or total ecological gifts of an individual unless the making of the gift is evidenced by filing with the Minister
+a) a receipt for the gift that contains prescribed information;
+[…]
+[13] Section 3500 of the Income Tax Regulations, CRC, 1977, c. 945 (the “Regulations”) reads in part as follows:
+“official receipt” means a receipt for the purposes of subsection 110.1(2) or (3) or 118.1(2), (6) or (7) of the Act, containing information as required by section 3501 or 3502;
+[14] The prescribed information that a receipt must contain is set forth in section 3501 of the Regulations, which reads as follows:
+(1) Every official receipt issued by a registered organization shall contain a statement that it is an official receipt for income tax purposes and shall show clearly in such a manner that it cannot readily be altered,
+(a) the name and address in Canada of the organization as recorded with the Minister;
+(b) the registration number assigned by the Minister to the organization;
+(c) the serial number of the receipt;
+(d) the place or locality where the receipt was issued;
+(e) where the gift is a cash gift, the date on which or the year during which the gift was received;
+(e.1) where the gift is of property other than cash
+(i) the date on which the gift was received,
+(ii) a brief description of the property, and
+(iii) the name and address of the appraiser of the property if an appraisal is done;
+(f) the date on which the receipt was issued;
+(g) the name and address of the donor including, in the case of an individual, the individual’s first name and initial;
+(h) the amount that is
+(i) the amount of a cash gift, or
+(ii) if the gift is of property other than cash, the amount that is the fair market value of the property at the time that the gift is made;
+(h.1) The amount of the advantage, if any, in respect of the gift;
+(h.2) the eligible amount of the gift;
+(i) the signature, as provided in subsection (2) or (3), of a responsible individual who has been authorized by the organization to acknowledge gifts; and
+(j) the name and Internet website of the Canada Revenue Agency.
+Analysis
+[15] The Minister assumed that, in 2006, the appellant did not make a cash donation of $4,800 to RTM and that, in 2007, 2008 and 2009, the appellant did not make cash donations of $8,950, $7,800 and $8,870, respectively to OSCT.
+[16] In my view, the appellant did not demonstrate that the Minister’s assumption was incorrect. The appellant did not keep a record of the amounts and dates of his donations and did not submit as evidence his bank statements, his withdrawal slips or other personal documents to support the alleged cash donations. No one testified on behalf of RTM or OSCT to attest to the donations made by the appellant and no record of donations received by those organizations from the appellant was submitted. The appellant’s accountant was not called to testify to show how the amounts of the receipts issued to the appellant had been determined by RTM and OSCT.
+[17] The appellant bore the burden of demonstrating that he made the cash donations and his testimony by itself in that regard is not enough.
+[18] For the purposes of the Act, a charitable donation must be attested to by providing a receipt, which must contain the information prescribed under section 3501 of the Regulations.
+[19] In this case, the receipts issued to the appellant by RTM and OSCT did not comply with the requirements set forth in section 3501 of the Regulations in several regards.
+[20] Contrary to the requirements set out in paragraph 3501(1)(a) of the Regulations, the address of the charity indicated on each of the receipts did not correspond to the address of each charity that was recorded with the Minister. The address appearing on the receipts issued by RTM and OSCT was “415 Oakdale Rd. Suite 224, Toronto, M3N 1W7”, while the address recorded with the Minister for each organization was “3612A Dufferin Street, Toronto, Ontario, M3K 1N7”.
+[21] Contrary to the requirement set out in paragraph 3501(1)(d) of the Regulations, the receipts issued to the appellant by RTM and OSCT do not indicate the place or locality where the receipts were issued.
+[22] Contrary to the requirement set out in paragraph 3501(1)(f) of the Regulations, the receipts issued to the appellant by RTM and OSCT do not indicate the dates on which the receipts were issued.
+[23] I will not retain here the arguments put forth by the appellant with respect to the CRA’s responsibilities concerning the registration of charities, the verification of charities’ activities, the issuance of tax refund cheques without compensating for amounts owed by taxpayers because those procedures are administrative measures that are not under the jurisdiction of this Court.
+[24] Our system is based on self-assessment and it is up to taxpayers to ensure that the amounts that they claim as deductions or tax credits are consistent with the requirements of the Act.
+[25] The appellant cannot cite his own turpitude to blame the CRA. The appellant had a fraudulent accountant prepare his income tax returns, he asked the accountant to obtain the receipts for charitable donations from RTM and OSCT, and he agreed to pay the accountant based on a percentage of the tax refunds obtained. The appellant’s actions show significant negligence in the organization of his affairs.
+[26] For all these reasons, the appellant’s appeal is dismissed.
+Signed at Ottawa, Canada, this 20th day of March 2018.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2018 TCC 57
+COURT FILE NO.:
+2015-5483(IT)I
+STYLE OF CAUSE:
+James Symbah Ruremesha and Her Majesty the Queen
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+October 19, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGEMENT:
+March 20, 2018
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Grégoire Cadieux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+[BLANK]
+Firm:
+[BLANK]
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

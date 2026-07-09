@@ -1,0 +1,143 @@
+---
+title: "Edgelow v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30397/index.do"
+last_modified: "2011-06-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 309"
+citation2: ""
+neutral_citation: "2011 TCC 309"
+decision_date: "2011-06-21"
+language: "en"
+item_id: "30397"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7857
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:30:11.032000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c3dd6ccfd1ef82c263e34a38db5cd101446b9ad797fbecfbc35e8dbb0fd5f612"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Edgelow v. The Queen
+
+- Citation: 2011 TCC 309
+- Decision date: 2011-06-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7857, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Edgelow v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-21
+Neutral citation
+2011 TCC 309
+File numbers
+2011-525(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-525(IT)G
+BETWEEN:
+GEOFFREY SCOTT EDGELOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on May 16, 2011, at Calgary, Alberta and
+continuation of motion heard by telephone conference
+on June 10, 2011 at Ottawa, Ontario.
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Robert Neilson
+____________________________________________________________________
+ORDER
+After hearing both parties and upon consent of the appellant, it is ordered that Top Edge Investments Ltd be struck out from the style of cause of action in the notice of appeal as Top Edge Investments Ltd is not an appellant in this matter.
+It is also ordered that paragraphs (c) ii), iii), (v), (vi), (vii) and (d) i), ii), iii) of the notice of appeal be struck out from the notice of appeal and the appellant has until July 22, 2011 to file an amended notice of appeal. The respondent shall have 60 days after service of the amended notice of appeal to file an amended reply. The respondent is entitled to costs which I fix at $300.
+Signed at Ottawa, Canada, this 21st day of June 2011.
+"François Angers"
+Angers J.
+Citation: 2011 TCC 309
+Date: 20110621
+Docket: 2011-525(IT)G
+BETWEEN:
+GEOFFREY SCOTT EDGELOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Angers J.
+[1] The Respondent brings a motion for an order striking out the notice of appeal pursuant to Rule 58(1)(b) of the Tax Court of Canada Rules (General Procedure) (GPR) on the basis that it discloses no reasonable grounds for appeal and therefore an order dismissing the appeal. In the alternative, the respondent seeks an order striking out all or part of the notice of appeal pursuant to Rule 53 of the GPR as all or part of the notice of appeal is scandalous, frivolous or vexatious, or is an abuse of the process of the Court. In a third alternative, the respondent seeks an order from this Court dismissing the appeal pursuant to Rule 58(3)(a) of the GPR as this Court has no jurisdiction over the subject matter of the appeal. In case the motion should fail, the respondent seeks an order to extend the time to file his reply to the notice of appeal and finally costs of this motion.
+[2] The respondent was also seeking an order striking out Top Edge Investments Ltd from the style of cause of action in the notice of appeal. The appellant is in agreement that Top Edge Investments Ltd is not an appellant and consents to the removal from the style of cause in the notice of appeal. It is so ordered.
+[3] The test for the application of section 58 or 53 of the GPR is that a pleading will be struck if it is plain and obvious it will not succeed. The test was established in the case of Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959 at page 980. It reads as follows:
+Thus, the test in Canada governing the application of provisions like Rule 19(24)(a) of the British Columbia Rules of Court is the same as the one that governs an application under R.S.C. O. 18, r. 19: assuming that the facts as stated in the statement of claim can be proved, is it "plain and obvious" that the plaintiff's statement of claim discloses no reasonable cause of action? As in England, if there is a chance that the plaintiff might succeed, then the plaintiff should not be "driven from the judgment seat". Neither the length and complexity of the issues, the novelty of the cause of action, nor the potential for the defendant to present a strong defence should prevent the plaintiff from proceeding with his or her case. Only if the action is certain to fail because it contains a radical defect ranking with the others listed in Rule 19(24) of the British Columbia Rules of Court should the relevant portions of a plaintiff's statement of claim be struck out under Rule 19(24)(a).
+[4] I also bear in mind that the power to strike must be exercised with great care particularly so, when the appellant is acting on his own behalf without the benefit of legal counsel. Justice C. Miller of our Court in Gauthier v. The Queen, [2006] 4 C.T.C. 2403 at paragraphs 7 and 8 has referred to the rules of pleadings and as to when it is appropriate to strike out a pleading. It reads:
+A court can also strike out a pleading where it is so deficient in material facts that it does not raise a ground of appeal, or where the facts set out are irrelevant, or where the Respondent cannot know how to answer.
+The Appellants referred me to Justice Rip's analysis in Gee v. R., in which he quoted the principles of pleading as set forth in Holmsted and Watson:
+This is the rule of pleading: all of the other pleading rules are essentially corollaries or qualifications to this basic rule that the pleader must state the material facts relied upon for his or her claim or defence. The rule involves four separate elements: (1) every pleading must state facts, not mere conclusions of law; (2) it must state material facts and not include facts which are immaterial; (3) it must state facts and not the evidence by which they are to be proved; (4) it must state facts concisely in a summary form.
+Justice Rip proceeded to rely on such principles in addressing whether the pleadings were so irrelevant and improper as to prejudice or delay the fair hearing of the appeal. He then struck out portions of the Reply to the Notice of Appeal but granted the Respondent 21 days to file an Amended Reply. I distinguish this type of tidying up of inadequate pleadings, from the full-out striking of a separate and distinct basis for relief, as I am faced with in this application. I will, however, bear in mind these fundamental principles set forth in Holmsted and Watson.
+[5] In this case, the material facts as pleaded at paragraphs (c), (d), and (e) of the notice of appeal are as follows with the relief sought by the appellant.
+(c) The material facts are as follows:
+i) Appellant sold shares of what they thought was a Canadian controlled corporation which would qualify for a capital gains provision reducing corporate taxes to approximately $95,000.
+ii) Appellant went through a divorce and was charged with tax evasion and materials filed by CRA were materially altered.
+iii) Appellant has been subjected to malicious and vindictive actions of his ex spouse and her lawyer in his opinion.
+iv) Appellant was assessed to pay taxes on lump sum matrimonial payment contrary to law.
+v) Appellant his family (sic) have been subjected to harassment and unfair actions by CRA.
+vi) CRA took 50% of gross salary contrary to law.
+vii) CRA is now claiming taxes on amounts which should have been used to pay taxes.
+(d) i) Were documents presented and used in tax evasion trial falsified and/or altered legal documents?
+ii) Did the CRA auditor use all legal acts to enforce taxes owing?
+iii) Do laws and legislation ensure the Appellant should pay taxes and Court Orders prior to collection payments?
+(e) The Appellant prayerfully seeks an Order to allow appropriate laws to be applied to reassessment.
+[6] It is plain and obvious from the reading of the above notice of appeal that the facts relied upon by the appellant, with the exception of paragraphs (c) i) and (c) iv), will not succeed for the simple reason that this Court has no jurisdiction to address the issues raised by the appellant and they do not disclose any reasonable grounds for the appeal of a tax reassessment.
+[7] The facts pleaded in paragraph (c) i) and (c) iv) on the other hand do raise a probable ground of appeal in the appeal process of a tax reassessment and I do not find that they should be struck in these circumstances. The notice of appeal also mentions the date of the notice of reassessment being appealed which is August 23, 2010. Although the tax year being reassessed is not mentioned per se, the notice of reassessment would indicate the tax year. The pleading though do need additional facts and particulars to make them complete and I believe that it be achieved by an amendment to the notice of appeal.
+[8] I therefore strike out paragraphs (c) ii), iii), (v), (vi), (vii) and (d) i), ii), iii) of the notice of appeal and give leave to the appellant to amend his notice of appeal by no later than July 22, 2011. The respondent shall have 60 days to file a reply to the amended notice of appeal. The respondent is entitled to costs which I fix at $300.
+Signed at Ottawa, Canada, this 21st day of June 2011.
+"François Angers"
+Angers J.
+CITATION: 2011 TCC 309
+COURT FILE NO.: 2011-525(IT)G
+STYLE OF CAUSE: Geoffrey Scott Edgelow and Her Majesty the Queen
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: May 16, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: June 21, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Robert Neilson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

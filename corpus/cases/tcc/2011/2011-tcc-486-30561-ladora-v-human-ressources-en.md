@@ -1,0 +1,152 @@
+---
+title: "Ladora v. Human Ressources"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30561/index.do"
+last_modified: "2011-10-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 486"
+citation2: ""
+neutral_citation: "2011 TCC 486"
+decision_date: "2011-10-18"
+language: "en"
+item_id: "30561"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7302
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:13:25.627000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "45f81c1c6c71b13ba8e0cb3bedefd1422496e78153a234760f8fdcdeb8260c7f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ladora v. Human Ressources
+
+- Citation: 2011 TCC 486
+- Decision date: 2011-10-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7302, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ladora v. Human Ressources
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-10-18
+Neutral citation
+2011 TCC 486
+File numbers
+2010-1858(OAS)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Old Age Security Act
+Decision Content
+Docket: 2010-1858(OAS)
+BETWEEN:
+MARGUERITE LADORA,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES
+AND SKILLS DEVELOPMENT
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 15, 2011, at Montréal, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Grégoire Cadieux
+____________________________________________________________________
+JUDGMENT
+Whereas the parties agree that the decision rendered in the file of Raymond Dupuis (2010-1844(OAS)) is the same.
+The appeal of the decision made by the Minister of Human Resources and Skills Development concerning the determination of income for the purposes of the Income Supplement under subsection 28(2) of the Old Age Security Act, R.S.C. 1985, c O-9, is dismissed, and the decision is confirmed, in accordance with the attached Reasons for Judgment as well as those in the file of Raymond Dupuis (2010‑1844(OAS)).
+Signed at Ottawa, Canada, this 18th day of October 2011.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 22nd day of November 2011
+Margarita Gorbounova, Translator
+Citation: 2011 TCC 486
+Date: 20111018
+Docket: 2010-1858(OAS)
+BETWEEN:
+MARGUERITE LADORA,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES
+AND SKILLS DEVELOPMENT
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] The appellant is appealing from a decision of the Minister of Human Resources and Skills Development (the Minister) concerning the determination of the amount of the monthly Guaranteed Income Supplement (the supplement) under the Old Age Security Act (OASA).[1]
+[2] The decision under appeal was made based on the facts assumed in the following subparagraphs:
+[Translation]
+(a) The appellant has been receiving a disability pension from the CSST since 1967;
+(b) The appellant has been receiving guaranteed income supplement benefits since 2003;
+(c) The form entitled "Application for the Old Age Security Pension" received on January 28, 2003, as submitted by the appellant;
+(d) The T5007 statements issued by the CSST in the appellant's name for 2007 and 2008, which indicate in box 10 the amount of the disability pension received by the appellant that has to be included in her income and, therefore, considered as such for the purposes of calculating her GIS.
+(e) The appellant's request to the Minister not to take into account her disability pension from the CSST for the purposes of calculating her GIS.
+[3] Paragraphs 1, 2, 4 to 13, and 14 show the history behind as well as the path leading up to the decision that gave rise to this appeal. I believe it would be useful to reproduce the paragraphs in question:
+[Translation]
+1. As for the Notice of Appeal, he admitted that the appellant's monthly Guaranteed Income Supplement (GIS) payments had been decreased starting in July 2009.
+2. He also admitted that the appellant's disability pension payments from Quebec's Commission de la Santé et Sécurité du Travail (CSST) were considered to be income for the purposes of calculating her guaranteed income supplement benefits starting in July 2009.
+4. The appellant became eligible for old age security and the Guaranteed Income Supplement in August 2003, the month following her 65th birthday.
+5. During the 2006 taxation year, the appellant produced a T5007 statement indicating an income of $0 from the CSST.
+6. For the payment period starting in July 2006, her Guaranteed Income Supplement benefits were therefore calculated on the basis that no amounts were paid to the appellant as income by the CSST.
+7. When the Guaranteed Income Supplement payments were renewed for the period starting in July 2009, the Canada Revenue Agency confirmed to the respondent that the appellant's income for the 2007 and 2008 taxation years included income of $5,617.00 for 2007 and $5,730.00 for 2008 from the CSST.
+8. The fact that the appellant's CSST income was never considered for the purposes of calculating the appellant's benefits resulted in an overpayment of $2,808.00.
+9. On July 29, 2009, the respondent informed the appellant that this Guaranteed Income Supplement overpayment for the payment period from July 2008 to June 2009 in the amount of $2,808.00 would never be claimed from her because of an administrative error.
+10. However, the respondent informed the appellant that the calculation of her Guaranteed Income Supplement for the period starting in July 2009 included the amount of $5,730.00 paid to the appellant by the CSST in 2008, as prescribed by the Act.
+11. On December 4, 2009, the appellant asked the respondent to reconsider that decision.
+12. On December 8, 2009, the Minister confirmed his decision dated July 29, 2009.
+13. On December 29, 2009, the appellant submitted her appeal to the Office of the Commissioner of Review Tribunals.
+14. On June 2, 2010, the appeal was referred to the Tax Court of Canada.
+[4] The appellant was present at the hearing. When the appellant learned that a file with the same issue was before the Court, she agreed that the decision to be rendered in that matter, namely, that of Raymond Dupuis (2010-1844(OAS)), would be the same in her case.
+[5] Accordingly, the appeal is dismissed because, in fact, the decision under appeal is indeed well founded under the Act, and the parties agreed that the decision in Raymond Dupuis (2010-1844(OAS)), a copy of which is attached to this judgment, applies to this case.
+Signed at Ottawa, Canada, this 18th day of October 2011.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 22nd day of November 2011
+Margarita Gorbounova, Translator
+CITATION: TCC 2011
+COURT FILE NO.: 2010-1858(OAS)
+STYLE OF CAUSE: MARGUERITE LADORA AND M.H.R.S.D.C
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: August 15, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: October 18, 2011
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Grégoire Cadieux
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Old Age Security Act, R.S.C., 1985, c. O-9, section 11.

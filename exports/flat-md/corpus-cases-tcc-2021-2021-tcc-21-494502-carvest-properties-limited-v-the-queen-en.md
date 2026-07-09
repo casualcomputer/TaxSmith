@@ -1,0 +1,576 @@
+---
+title: "Carvest Properties Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/494502/index.do"
+last_modified: "2021-03-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 TCC 21"
+citation2: ""
+neutral_citation: "2021 TCC 21"
+decision_date: "2021-03-18"
+language: "en"
+item_id: "494502"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4633
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:22:19.008000+00:00"
+cases_cited_count: 7
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "32cd5525a2e3a7f5ceac17087a032c09a72d1295ba6803b8e0f8d76b0a84e247"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Carvest Properties Limited v. The Queen
+
+- Citation: 2021 TCC 21
+- Decision date: 2021-03-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4633, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carvest Properties Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-03-18
+Neutral citation
+2021 TCC 21
+File numbers
+2017-345(GST)G
+Judges and Taxing Officers
+Gabrielle St-Hilaire
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2017-345(GST)G
+BETWEEN:
+CARVEST PROPERTIES LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 9, 10, 11 and 12, 2019, at London, Ontario and on October 20 and 21, 2020, at Ottawa, Ontario; final submissions received December 7, 2020.
+Before: The Honourable Justice Gabrielle St-Hilaire
+Appearances:
+Counsel for the Appellant:
+David D. Robertson
+Steven Raphael (2019 hearing dates)
+Maude Lussier-Bourque (2020 hearing dates)
+Brittany Rossler (October 20, 2020)
+Counsel for the Respondent:
+Martin Beaudry
+Alexander Nguyen (2019 hearing dates)
+Judith Lemieux (2020 hearing dates)
+JUDGMENT
+The appeal from the reassessments of goods and services tax made under Part IX of the Excise Tax Act for reporting periods between December 1, 2008 and June 30, 2009 is dismissed.
+In light of the concessions made at the beginning of the hearing:
+i) The matter is referred back to the Minister of National Revenue for reassessment on the basis that the reassessments for reporting periods between July 1, 2009 and July 31, 2011, including the reassessments of the new residential rental property rebate applications, are vacated; and
+ii) The appeal for the reporting period beginning December 1, 2011 and ending on December 31, 2011, is dismissed.
+Costs are awarded to the Respondent. The parties shall have 30 days from the date of this Judgment to reach an agreement on costs and to so advise the Court, failing which the Respondent shall have a further 30 days to serve and file written submissions on costs and the Appellant shall have a further 30 days to serve and file a written response. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the applicable time limits, costs shall be awarded to the Respondent in accordance with the Tariff.
+Signed at Ottawa, Canada, this 18th day of March 2021.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+Table of contents
+I. Introduction 1
+II. Preliminary Matters 2
+III. Issue 2
+IV. Background 3
+V. Analysis 4
+A. Legislative Framework – Self-supply Rules 4
+B. Recognized Approaches to Valuation 10
+C. Valuation of the Richmond Property 11
+(1) Carvest’s approach to valuation – the cost plus 6% approach 11
+(2) Independent expert, Mr. Grant Uba’s approach to valuation – the income approach 18
+(3) CRA’s approach to valuation – the direct comparison approach 21
+(4) Parties’ submissions on CRA’s valuation and findings 24
+i) Valuation method 25
+ii) Comparables 31
+iii) Absorption discount 33
+VI. Conclusion 35
+VII. Costs 36
+Citation: 2021 TCC 21
+Date: 20210318
+Docket: 2017-345(GST)G
+BETWEEN:
+CARVEST PROPERTIES LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+St-Hilaire J.
+I. Introduction
+[1] This is an appeal by Carvest Properties Limited (hereinafter referred to as Carvest or the Appellant) from reassessments under Part IX of the Excise Tax Act [1] (ETA) for reporting periods between December 1, 2008 and December 31, 2011.
+[2] Carvest, an Ontario corporation founded in 1986 by Mr. Joseph Carapella, is in the business of real estate development and residential leasing in southern Ontario. Over the years, Carvest built over fifty residential apartment buildings and seven or eight condominium projects.
+[3] Ultimately, this case is about the fair market value (FMV) of leased apartments registered as condominium units in a residential complex that is subject to the self-supply rules in section 191 of the ETA.
+[4] In filing its goods and services tax/harmonized sales tax (GST/HST) returns for the periods in issue in this appeal, Carvest self-assessed GST/HST based on the FMV of the entire building as determined by what will be referred to as the cost plus 6% method of valuation. The Minister reassessed Carvest for additional GST/HST based on the FMV as determined by using the direct comparison method of valuation applied to the individual condominium units.
+II. Preliminary Matters
+[5] At the beginning of the hearing, the parties advised the Court that some of the periods were no longer in issue. In light of the concessions made by the Respondent, the reassessments for GST/HST for periods ranging from July 1, 2009 to July 31 2011 (periods numbered 8 to 32 in Appendix A) are vacated. The reassessments of the new residential rental property rebate applications for these periods are also vacated.
+[6] For efficiency reasons, the Appellant abandoned its appeal for the reporting period from December 1, 2011 to December 31, 2011 (period numbered 33 in Appendix A). Hence, the appeal for this period is dismissed.
+[7] In light of the concessions made at the beginning of the hearing, the reassessments in issue before the Court are the reassessments for GST for reporting periods between December 1, 2008 and June 30, 2009 (see Appendix B). The result of the paring down of the reporting periods under appeal is that, out of the 675 units in four residential apartment buildings originally at issue, there are now 89 units in one building at issue.
+III. Issue
+[8] The core issue before the Court is whether the Minister correctly determined the FMV of the condominium units situated at 1985 Richmond Street in London, Ontario in assessing the GST for the reporting periods from December 1, 2008 to June 30, 2009 (hereinafter the relevant periods). More specifically, the issue concerns the proper valuation methodology to be applied in determining the FMV of units, registered as condominium units, in a residential apartment building when applying the self-supply rules in section 191 of the ETA.
+[9] In self-assessing using the cost plus 6% method of valuation, Carvest established the FMV of the entire building, inclusive of all 137 units, to be $22,043,071.65. [2] The Canada Revenue Agency (CRA), using the direct comparison approach, determined the combined value of the 137 units to be $33,850,000. [3]
+IV. Background
+[10] In the course of six days of hearings, the Court heard from seven witnesses, four for the Appellant and three for the Respondent. There was a significant amount of time spent on testimony the purpose of which appeared to be to establish a persistent approach, [4] a pattern of behaviour by CRA officials as it pertained to properties that were not the subject of the appeal. Some of those properties had been the subject of prior objections, appeals, and settlements. More importantly, others were properties that were currently under audit, documentary and oral evidence of which was not allowed. As expressed during the hearing, it is my view that such evidence is not particularly helpful in determining the issue in this appeal as the conduct of the Minister or of CRA officials is not relevant to the fair market value of the relevant property nor to the appropriate valuation method to be applied in this particular case.
+[11] According to Carvest’s founder and president, Mr. Joseph Carapella, Carvest has been in the business of developing, owning and renting out apartment buildings in southern Ontario for over 30 years.
+[12] The building at issue in this appeal is a 12-storey apartment building containing 137 units situated at 1985 Richmond Street in London, Ontario. Carvest started the first steps in developing this project, acquiring permits and purchasing the land in two stages between 2003 and 2005. The building was ready for occupancy by the end of 2008.
+[13] Carvest is part of the Tricar Group. [5] Tricar entered into tenancy agreements for the Richmond property and the first lease, dated October 19, 2008, was for occupancy of unit 101 for a one-year term beginning December 1, 2008. [6]
+[14] For many years, landlords in London, Ontario and other surrounding municipalities, registered their apartment buildings under condominium plans to ensure that they were assessed for municipal taxes at the residential rate rather than at the commercial rate. This continued until 2017 when the government of Ontario amended the relevant legislation to prohibit municipalities from assessing tax on multi-residential apartment buildings at a higher municipal tax rate than residential properties. [7]
+[15] Through its bare trustee, 1967 Richmond London Limited, Carvest registered the condominium plan for the Richmond property on May 7, 2009. [8] Mr. Carapella testified that he never intended to sell the individual units but that he registered them as condominiums to attract the municipal tax at the residential rate which was about half that of the commercial rate.
+V. Analysis
+A. Legislative Framework – Self-supply Rules
+[16] This case involves the application of the self-supply rules in section 191 of the ETA.
+[17] Generally, self-supply rules are intended to ensure that GST/HST attaches to the construction or the substantial renovation of a residential complex that is builder-occupied or rented out by the builder. The ETA accomplishes this by deeming a sale to have occurred: the builder is deemed to have made a taxable supply by way of a sale of the residential complex and is deemed to have repurchased the residential complex. The builder is deemed to have paid the GST/HST as a recipient of the supply and to have collected the GST/HST as the supplier. To put it bluntly, the builder is deemed to have sold the complex to themself or itself. The amount of tax deemed to have been paid and collected is calculated on the FMV of the complex and is included in net tax calculated under section 225 of the ETA and must be remitted to the CRA.
+[18] In Polygon Southampton Development Ltd. v R, [9] Justice Malone, writing for the Federal Court of Appeal, commented on the purpose of the self-supply rules as follows:
+23 In my analysis, these rules for new homes were implemented in order to create a level playing field as between builder lessors and non-builder lessors, as well as between builder occupiers and non-builder occupiers. As noted above, when a builder builds a new home and sells it, GST is payable on the sale. Thus, a non-builder who wants to purchase a new home and lease it to another person, or occupy it himself, would have to pay GST on his purchase. Hence, absent the self-supply rules, a builder who leases or occupies a new home would have a competitive advantage over the non-builder through the realization of tax savings, as such occupation would not create a taxable supply, and the lease of the home to another would be exempt from GST, as residential leases are exempt under Schedule V, Part 1, section 6. […] Another purpose of these provisions is to ensure that a new home is taxed at its full fair market value as soon as it is occupied as a new home, so that a lease or personal occupancy cannot postpone or exempt the application of the GST. [10]
+[19] Section 191 of the ETA reads, in part, as follows:
+191 (1) For the purposes of this Part, where
+(a) the construction or substantial renovation of a residential complex that is a single unit residential complex or a residential condominium unit is substantially completed,
+(b) the builder of the complex
+(i) gives possession or use of the complex to a particular person under a lease, licence or similar arrangement (other than an arrangement, under or arising as a consequence of an agreement of purchase and sale of the complex, for the possession or occupancy of the complex until ownership of the complex is transferred to the purchaser under the agreement) entered into for the purpose of its occupancy by an individual as a place of residence,
+(ii) gives possession or use of the complex to a particular person under an agreement for
+(A) the supply by way of sale of the building or part thereof in which the residential unit forming part of the complex is located, and
+(B) the supply by way of lease of the land forming part of the complex or the supply of such a lease by way of assignment,
+other than an agreement for the supply of a mobile home and a site for the home in a residential trailer park, or
+(iii) where the builder is an individual, occupies the complex as a place of residence, and
+(c) the builder, the particular person, or an individual who has entered into a lease, licence or similar arrangement in respect of the complex with the particular person, is the first individual to occupy the complex as a place of residence after substantial completion of the construction or renovation,
+the builder shall be deemed
+(d) to have made and received, at the later of the time the construction or substantial renovation is substantially completed and the time possession or use of the complex is so given to the particular person or the complex is so occupied by the builder, a taxable supply by way of sale of the complex, and
+(e) to have paid as a recipient and to have collected as a supplier, at the later of those times, tax in respect of the supply calculated on the fair market value of the complex at the later of those times.
+[…]
+Self-supply of multiple unit residential complex
+(3) For the purposes of this Part, where
+(a) the construction or substantial renovation of a multiple unit residential complex is substantially completed,
+(b) the builder of the complex
+(i) gives, to a particular person who is not a purchaser under an agreement of purchase and sale of the complex, possession or use of any residential unit in the complex under a lease, licence or similar arrangement entered into for the purpose of the occupancy of the unit by an individual as a place of residence,
+(i.1) gives possession or use of any residential unit in the complex to a particular person under an agreement for
+(A) the supply by way of sale of the building or part thereof forming part of the complex, and
+(B) the supply by way of lease of the land forming part of the complex or the supply of such a lease by way of assignment, or
+(ii) where the builder is an individual, occupies any residential unit in the complex as a place of residence, and
+(c) the builder, the particular person, or an individual who has entered into a lease, licence or similar arrangement in respect of a residential unit in the complex with the particular person, is the first individual to occupy a residential unit in the complex as a place of residence after substantial completion of the construction or renovation,
+the builder shall be deemed
+(d) to have made and received, at the later of the time the construction or substantial renovation is substantially completed and the time possession or use of the unit is so given to the particular person or the unit is so occupied by the builder, a taxable supply by way of sale of the complex, and
+(e) to have paid as a recipient and to have collected as a supplier, at the later of those times, tax in respect of the supply calculated on the fair market value of the complex at the later of those times.
+[20] Subsection 191(1) of the ETA applies to a residential complex that is a single unit residential complex or a residential condominium unit. Subsection 191(3) of the ETA applies to a multiple unit residential complex (MURC) defined in subsection 123(1) as “a residential complex that contains more than one residential unit, but does not include a condominium complex.” Hence, in simple terms as relevant for the purposes of this matter, subsection 191(3) applies to apartment buildings while subsection 191(1) applies to residential condominium units.
+[21] Although both provisions contain a self-supply rule that requires the builder to self-assess tax on the FMV of the property, there is an important distinction. Subsection 191(3) requires that the builder of an apartment building self-assess on the FMV of the entire building at the time the first unit is rented out while subsection 191(1) requires that the builder of condominium units self-assess on the FMV of each condominium unit as each unit is rented out.
+[22] The Explanatory Notes issued by the Minister of Finance in May 1990 confirm the above general statements and read as follows:
+Subsection 191(1) Self-supply of single unit residential complex or residential condominium unit
+This subsection applies the self-supply rule to newly constructed or substantially renovated single unit residential complexes (detached houses, semi-detached houses and rowhouse units) and residential condominium units. It treats the builder of a substantially completed complex or unit as having made a taxable supply of the complex or unit either if it is rented out or, if the builder is an individual, it is occupied by the builder as a place of residence. Where this occurs, the builder is liable to pay GST at the later of the time the construction or renovation is substantially completed and the time possession is given to another person under the rental agreement or the builder moves in. The GST is to be calculated on the fair market value of the complex or unit at that later time.
+Subsection 191(3) Self-supply of multiple unit residential complex
+In the case of a substantially completed multiple unit residential complex, such as an apartment building, the subsection treats the builder/landlord as having made a taxable supply of the entire complex at the time the first unit is rented out or, if the builder is an individual, occupied by the builder. The builder is required to remit GST on the fair market value of the complex as of that time. Where units are rented out before the complex is substantially complete, the self-supply rule applies at the time of substantial completion. [11]
+[23] Both parties agree that subsection 191(1) of the ETA applies to the units in the Richmond property. What appears to complicate matters is the fact that Carvest built the Richmond property as a rental apartment building but registered it as a condominium for municipal tax reasons. Subsection 191(3), which applies to a MURC, requires the builder to self-assess for GST on the entire building; hence, the builder must determine the FMV of the entire building at that time. However, subsection 191(1), which applies to condominium units, requires the builder to self-assess for GST for each unit when it is first leased; hence, the builder must determine the FMV of each unit as it is rented out.
+[24] Assessing the FMV of condominium units under subsection 191(1) of the ETA by trying to treat the property as an apartment building built for rental purposes, normally self-assessed as a MURC under subsection 191(3), is like trying to put square pegs in round holes. Had the property been a MURC, the self-supply rules would have required that Carvest self-assess and report GST on the FMV of the entire building at once and not on the FMV of each unit as it was leased over a period of approximately 16 months. However, the property that is the subject of this appeal is not a MURC.
+[25] As noted earlier, Carvest registered the units in the Richmond property under a condominium plan, albeit for municipal tax reasons. I find on the evidence submitted at the hearing that Carvest intended to register and did register the units under a condominium plan such that they meet the definition of residential condominium unit provided in subsection 123(1) of the ETA. [12]
+[26] Given that the conditions of application found in paragraphs 191(1)(a), (b) and (c) are met, paragraphs (d) and (e) are triggered and the builder, is deemed:
+i) to have made and received a taxable supply, by way of sale of the complex, at the later of the time the construction is substantially completed and the time possession or use is given to the particular person; and
+ii) to have paid and collected tax in respect of the supply calculated on the fair market value of the complex at the later of those times.
+[27] These latter provisions deem a sale to have occurred and oblige the builder, to self-assess tax on the FMV of the condominium units as each unit is leased.
+[28] Hence, this case is about the FMV of the condominium units in the Richmond property for the purposes of the application of the self-supply rule in subsection 191(1) of the ETA. In turn, it is about the appropriate approach that should be used to establish that FMV.
+B. Recognized Approaches to Valuation
+[29] Both parties agree, and it is the testimony of CRA appraiser Mr. Ron Duda and appraiser and independent expert Mr. Grant Uba, that there are three generally recognized approaches to the valuation of property: i) the direct comparison approach; ii) the cost approach; and iii) the income approach. In their appraisal reports of the Richmond property, both Mr. Duda and Mr. Uba describe the three approaches. [13]
+[30] In Southpark Estates Inc. v Canada, [14] Justice Pelletier, writing for the Federal Court of Appeal, provided the following short summary describing the three valuation approaches:
+14 … To obtain an assessment of fair market value under the Income approach, one calculates the property's potential to earn a profit, and capitalizes that profit on the basis of the desired rate of return. Simply put, if a property generates a profit of $100,000 per year, an investor who wishes to earn a 10% return on his investment would be willing to pay $1,000,000 for the property. The Cost approach attempts to determine the value of the property by the cost of replacing it with new construction and accounting for the “new for old” factor by means of depreciation. The Comparison approach seeks to establish fair market value by comparing the subject property to other market transactions of similar properties subject to adjustment to reflect differences in circumstances. [15]
+[Emphasis added]
+[31] At the hearing, the parties introduced evidence on the approach to the valuation of the Richmond property applied by i) Carvest (the cost plus 6% approach); ii) Carvest’s independent expert, Mr. Uba (the income approach); and iii) CRA appraiser, Mr. Duda (the direct comparison approach). I hasten to add that, although the Appellant asked the Court to qualify Mr. Uba as an expert “to provide his expert opinion with respect to the fair market value of the 89 units in question in this appeal,” [16] the Appellant now submits that the FMV of the Richmond property as self-assessed by Carvest is reasonable, regardless of Mr. Uba’s opinion of a higher FMV. [17] The Respondent submits that Mr. Uba valued the wrong property and used the wrong approach to the valuation and asks this Court to disregard Mr. Uba’s appraisal report.
+C. Valuation of the Richmond Property
+(1) Carvest’s approach to valuation – the cost plus 6% approach
+[32] In self-assessing and reporting for GST, Carvest determined the FMV of the units in the Richmond property by using the cost plus 6% method. I note that the Appellant is asking this Court to find that the FMV it established using the cost plus 6% approach is to be favoured over the FMV established by its own independent expert, Mr. Uba. For reasons explained below, I also reject Mr. Uba’s valuation. Carvest argues that the cost plus 6% method is the appropriate approach to determining the FMV of the units in the Richmond property. For the following reasons, I disagree.
+[33] In applying the cost plus 6% method, Carvest determined the cost of each unit by aggregating the construction costs of the entire building, adding a notional builder’s profit of 6%, adding the FMV of the land evaluated using the direct comparison approach, and dividing the total by the number of units. [18] Hence, it appears to be a unique method different from the three generally recognized approaches to valuation discussed above.
+[34] In self-assessing, Carvest used the same FMV for each unit regardless of its size and regardless of the time at which the unit was leased although the 137 units in the Richmond property were leased over the reporting periods commencing on December 1, 2008, through April 1, 2010. [19] In cross-examination, Mr. Joseph Carapella acknowledged that the units varied in size, attracted varying rents and did not have the same value.
+[35] In support of its position that the cost plus 6% approach is appropriate in the circumstances, Carvest makes the following arguments:
+i) as the Appellant relied on guidance specifically provided in writing by the CRA to use the cost plus 6% approach, the Respondent is estopped from reassessing the Appellant in a manner inconsistent with its earlier factual representations; [20] and
+ii) because of the unique timing of the self-assessment of 1985 Richmond – being December 2008 to June 2009 [21] during the height of the global financial crisis – the cost plus 6% approach used by the Appellant reasonably reflected the FMV of the units in question at the time. [22]
+[36] In rejecting the cost plus 6% approach, the Respondent argues that:
+i) the Appellant cannot rely on the estoppel doctrine, inter alia, because: [23]
+a) the Appellant did not raise this ground in its pleadings;
+b) the Richmond property does not fall within the scope of the Shannon letter;
+c) even if the Richmond property fell within the scope of the Shannon letter, it would not be binding on the Minister or on the Court; and
+ii) the Appellant should be precluded from relying on this approach as it is inadequate and no evidence was submitted as to the validity of this method. [24]
+[37] I will address the Appellant’s estoppel argument first. In doing so, it is helpful to set out what first led Carvest to use the cost plus 6% approach.
+[38] Mr. Carapella testified that he had disagreements with the CRA with respect to the FMV of two other properties for GST purposes around 1999. One of these properties was a townhouse rental project (20 Chapman Court) and the other, a townhouse student rental project (190 Fleming Drive), both in London, Ontario and both registered as condominiums. As these projects were income-producing properties, Carvest used an income approach to determine their FMV for the purposes of self-assessing for GST. According to two 1999 appraisal reports, [25] the CRA’s predecessor, Revenue Canada, established the FMV of these properties based on a direct comparison approach, which produced higher values than those determined by Carvest.
+[39] Clearly, these properties are not the subject of this appeal. However, they are relevant insofar as the Appellant argues that the Minister is estopped from assessing the Richmond property in a manner that differs from the approach agreed to for the purposes of settling the dispute involving the Chapman Court and Fleming Drive properties.
+[40] After receiving the two appraisal reports, Mr. Donald S. Bryant, Mr. Carapella’s lawyer at the time, set up a meeting with Mr. Warren Shannon, the head of Real Estate Appraisals at Revenue Canada in London. After the meeting on September 2, 1999, Mr. Bryant sent Mr. Shannon a letter outlining the basis for their position that the appraisals done using a direct comparison approach were inappropriate. [26] Mr. Bryant stated that the projects in question had been constructed for rental purposes but had been registered as condominium units for municipal tax purposes.
+[41] Unable to resolve the dispute about the Chapman Court and Fleming Drive properties, Carvest objected to the reassessments and the Minister confirmed them. However, after further meetings and discussions with Mr. Shannon, Carvest came to an agreement that is reflected in a letter from Mr. Shannon (the Shannon letter) dated February 15, 2001, which reads in part as follows: [27]
+This will confirm our discussion of February 14, 2001 regarding the fair market value for GST self supply purposes of multi-family residential properties.
+In the instance of a building constructed for long term rental purposes, the fair market value of the building would be represented by cost, as defined by the Agency Audit and would be directly related to the Input Tax Credits claimed. An amount of 6% will be added to this cost for builder’s overhead/profit etc.
+Land value would be added at fair market value, determined by an appraisal using the Direct Comparison Approach. In the instance of sites purchased at a reasonably current date to construction, with approvals in place, the purchase price may well represent fair market value.
+These guidelines would apply to your Chapman and Fleming projects, which I understand have been confirmed by our Appeals Division. It would be your responsibility to initiate any further action on these files.
+The projects you have under or nearing construction, intended for long term rental, would be viewed as described above. …
+[Emphasis added]
+[42] Mr. Carapella testified that he was very happy with this result and self-assessed the buildings he built for long-term rental, although registered as condominium units, using the method he now referred to as the “cost plus 6%” valuation method. Mr. Carapella found that this method was even better than the income approach to valuation as it took all the guesswork out of determining FMV. He gave the letter from Mr. Shannon to Carvest’s controller and told him to file Carvest’s GST returns based on Mr. Shannon’s direction. Carvest agues that the Minister is now estopped from assessing the Richmond property using a method other than the cost plus 6% method.
+[43] The Respondent contends that the Appellant cannot rely on the estoppel in pais doctrine because it was not invoked in the pleadings. Although it could be argued that the Appellant can argue estoppel on the basis of its pleadings, it is my view that the estoppel argument fails on several grounds. Most importantly, it fails because the evidence clearly shows that the CRA agreed to apply the cost plus 6% approach for the purposes of settling the dispute involving the Chapman Court and Fleming Drive properties, two properties that are not the subject of this appeal. Further, the Shannon letter dated February 15, 2001, explicitly provides that this approach will apply to Carvest projects “under or nearing construction, intended for long-term rental.” Under cross-examination, Mr. Joseph Carapella acknowledged, and the evidence shows, that the Richmond property was not “under or nearing construction” in 2001. I find that the Shannon letter providing that the FMV would be determined by the cost plus 6% approach did not cover the Richmond property.
+[44] The Appellant argues that the principle of estoppel should apply to prevent the Minister from reassessing “in a manner contrary to its official’s representations of fact that the Appellant relied on to its detriment.” In support of this position, the Appellant referred to the Federal Court of Appeal’s decision in Wilchar Construction Limited v The Queen, [28] wherein the Court summarized the elements of estoppel as follows:
+The essential elements of an estoppel have often been stated as follows:
+(1) a representation intended to induce a course of conduct on the part of the person to whom the representation is made;
+(2) an act resulting from the representation by the person to whom the representation was made; and
+(3) detriment to such person as a consequence of the act. [29]
+[45] I find that there was no “representation intended to induce a course of conduct,” related to the Richmond property. On the contrary, the Shannon letter expressly limits the application of the cost plus 6% approach to the two properties that are the subject of dispute at the time and to projects under or nearing construction. The Appellant knew that those projects did not include the Richmond property. The Appellant cannot now argue that it acted to its detriment on the basis of the representations made by the Minister’s officials.
+[46] Estoppel cannot override the law. In Goldstein v R, Justice Bowman expressed the view that estoppel in pais does not apply “where a particular interpretation of a statute has been communicated to a subject by an official of the government, relied upon by that subject to his or her detriment and then withdrawn or changed by the government.” [30] It is not that estoppel does not lie against the crown but rather no estoppel can arise where such representations are not in accordance with the law. [31] The Minister is not bound by Mr. Shannon’s interpretation of the ETA. It is an established principle that the Minister has a duty to assess tax on the facts as she finds them in accordance with her understanding and interpretation of the law. Further, if the Minister errs in assessing a taxpayer, “she is not bound to repeat that error in perpetuity.” [32] For all these reasons, the Appellant’s estoppel argument must fail.
+[47] Having dismissed the estoppel argument, the Court must now address the Appellant’s argument that the cost plus 6% approach is nonetheless an appropriate method in the circumstances. I agree with the Respondent’s submission that there was no evidence regarding the validity of this approach, which differs from the cost approach that is one of the three generally accepted methods of valuation.
+[48] The Appellant’s expert witness, Mr. Grant Uba, testified about the traditional cost approach as follows:
+Q. First, could you describe to the court or explain to the court as a professional appraiser and accredited appraiser the approach, how you determined the fair market value of a real property or residential real property.
+A. Madam Justice, there are three traditional approaches that may be applied in valuation. There's the cost approach, and in a nutshell, the cost approach is first estimating the market value of the land as vacant. The next step in the cost approach is to estimate what the replacement cost or the reproduction cost of the structures and site improvements might be.
+The determination of use as replacement cost or reproduction cost is depende[nt] upon the nature of the assignment, but once that cost has been determined, it's a matter of determining what the depreciation is to the structure and site improvements for such items as wear and tear, functional obsolescence, and possibly -- and function obsolescence would be, as an example, where a residence -- for example, the market requires having two four-piece bathrooms. A subject property might only have one-and-a-half bathrooms. So that may be functional obsolescence that has to be addressed.
+And the other thing that would be considered is external obsolescence. So if you were located next to a railway line, for example, that may have diminishment in value. So the total of the physical wear and tear, any functional obsolescence and external obsolescence represents the accrued depreciation to the property. That subtracted from the replacement cost or reproduction cost of the structures and site to determine the value or the cost less depreciation. The sum of that cost plus depreciation plus the land value represents the indicated market value by the cost approach. It just -- the cost approach is least used for any improvements that are of age. Older buildings. Cost approach is typically used for special purpose-type structures. Might be a church or could be an arena, those types of assets that don't sell on a regular basis. [33]
+[49] Keeping in mind that Mr. Uba was valuating the Richmond property building (and not the individual units), he did explain why he did not use the cost approach as follows:
+Q. So now understanding the three approaches, which approaches did you choose to use in your valuation of the units at 1985 Richmond Street?
+A. Didn't utilize the costs approach because the cost approach would not realize the increase in value for renting out the subject property. So the cost approach would recognize or would result in the lowest value for the subject property. [34]
+[50] In his appraisal report for the Richmond property, Mr. Uba wrote that “the cost approach is applied to estimate the market value of property types that are not frequently exchanged in the market.” [35] He added that “[s]ince the application of the Cost Approach provides a value estimate for the fee-simple interest of a property, the Cost Approach does not consider how rental income affects the value of an income producing asset”. [36] I would add that both CRA appraisers, Mr. Ron Duda and Mr. James Rokeby, testified that the traditional cost approach was inappropriate in the circumstances. [37] Further, Mr. Uba, Mr. Duda and Mr. Rokeby all agreed that the income approach is the method used by the industry to determine the FMV of income producing apartment buildings.
+[51] I find that none of the witnesses who conducted appraisals – none of the CRA witnesses, nor the Appellant’s independent expert witness – provided testimony on the validity, in any circumstances, of the cost plus 6% approach applied by the Appellant. In my view, this was a modified version of a cost approach applied in, and limited to, a negotiated settlement.
+[52] According to the evidence introduced at trial, it is clear that the cost plus 6% approach had been accepted by the CRA to establish the value of some Carvest properties for settlement purposes. It is also clear that the Respondent took the view that the cost plus 6% approach was not a valuation method and that, although the Appellant had used that approach since the settlement based on the Shannon Letter, the CRA did not agree with that position. [38] I conclude that the cost plus 6% is not an appropriate method to establish the FMV of the Richmond property. I would add that Carvest incorrectly self-assessed FMV on a single date, December 1, 2008, while subsection 191(1) of the ETA requires that Carvest self-assess on the FMV of each unit as it is rented out, and it is clear that not all the units were rented out on December 1, 2008. Further, Carvest incorrectly valued all units, irrespective of size, at the same amount.
+(2) Independent expert, Mr. Grant Uba’s approach to valuation – the income approach
+[53] I found Mr. Uba’s testimony to be professional, straightforward and credible. The Court qualified Mr. Uba as an independent expert in the appraisal of real property. I note that the Respondent did not raise any issues regarding Mr. Uba’s qualification as an expert. However, like both parties, I have also rejected Mr. Uba’s determination of the FMV of the Richmond property for the reasons set out below.
+[54] Mr. Grant Uba is a professional real estate appraiser. He held various designations over the years and has been accredited by the Appraisal Institute of Canada (AIC) since 2003. Mr. Uba was a member of the board of directors of the AIC for 6 years and he is currently a member of the adjudicating committee that investigates complaints against members for violations of the appraisal standards and the AIC’s bylaws. He was retained by the Appellant to complete an appraisal of the Richmond property. [39] Mr. Uba had also been retained by the Appellant in 2013-2014 to appraise the property at 335 Southdale Road West in London, which was the subject of a settlement referred to further below.
+[55] Mr. Uba gave an overview of the Canadian Uniform Standards of Professional Appraisal Practice (CUSPAP standards) [40] and testified about the process he followed in determining the FMV of the Richmond property.
+[56] As referenced earlier, Mr. Uba explained that he did not use the cost method because it does not consider how rental income affects the value. Mr. Uba also explained that he did not use the direct comparison method in determining the FMV of the Richmond property because there were no sales of comparable properties, i.e. high-end purpose-built rental buildings, in London in 2008. [41] Under cross-examination, Mr. Uba testified that he would use the direct comparison approach if he were evaluating the FMV of a condominium unit that the owner was leasing but wanted to sell.
+[57] Mr. Uba used the income valuation methodology to appraise the Richmond property. In a letter accompanying his report, Mr. Uba described the purpose of his appraisal as follows:
+The purpose of the appraisal is to estimate the retrospective market value of the subject property [the Richmond property] as at December 1, 2008, for the intended use of assisting you and the Tax Court of Canada in accounting for the Goods and Services Tax (GST) on the self-supply of residential units in the multiple-unit residential apartment building of which the first unit was supplied by way of lease dated December 1, 2008. [42]
+[58] Mr. Uba used the data from six apartment building sales that occurred in southern Ontario prior to the effective date of December 1, 2008, to determine the overall capitalization rate. [43] Applying a capitalization rate of 7% [44] to the estimated net operating income of $1,696,220 resulted in a value of $24,230,000 or $176,861 per suite. [45] Mr. Uba then determined the value of each unit based on its square footage.
+[59] The Appellant submits that because the self-assessment on the condominium units occurred at the height of the financial crisis, the cost plus 6% reasonably reflected the FMV of the units in the Richmond property. Acknowledging that Mr. Uba opined that the income approach was the primary method of valuation used by investors for income-producing properties, the Appellant submitted that the income approach would have been appropriate under normal market conditions. However, the Appellant expressed the view that, since market conditions were not normal in December 2008, it was reasonable to use the cost plus 6% approach to determine FMV.
+[60] The Respondent submits that Mr. Uba’s appraisal report is of no assistance because Mr. Uba appraised the wrong property rights in the wrong subject property. The Respondent further submits that the appraisal report is flawed because Mr. Uba relied on data received from Carvest without verifying its accuracy and derived net operating income and a capitalization rate from sales related to entire buildings.
+[61] I find that the most compelling argument for rejecting Mr. Uba’s appraisal report is that he appraised the wrong property by appraising the entire building as if he was appraising the property for the purposes of subsection 191(3) of the ETA. Under cross-examination, and referring to his report, Mr. Uba testified that he was asked to complete an appraisal of the property located at 1985 Richmond Street and that he had established the value as at December 1, 2008, the date having been selected at the direction of Appellant’s counsel who had requested the appraisal. He confirmed that he had not used the direct comparison approach because there were no sales of comparable buildings. I also note that Mr. Uba testified that he did not know the difference between appraising property for the purposes of subsections 191(1) and (3) of the ETA. There is no dispute about the applicability of subsection 191(1) in the circumstances of this case. As explained earlier in these reasons, the result is that what must be determined for the application of this provision is the FMV of each condominium unit as it was leased and not that of the entire building at 1985 Richmond Street, which is what Mr. Uba appraised.
+(3) CRA’s approach to valuation – the direct comparison approach
+[62] In reassessing Carvest, the CRA determined the FMV of each condominium unit as of their initial dates of first occupancy, [46] by applying the direct comparison method of valuation.
+[63] Carvest argues that the CRA erred in relying exclusively on the direct comparison method and further argues that, even if this method could be supported, the CRA appraiser incorrectly applied it because he failed to use the relevant market.
+[64] The Respondent submits that the CRA’s appraisal of the units is accurate because they applied the most appropriate valuation method for appraising individual condominium units, used relevant comparables, and applied a reasonable volume discount. For the following reasons, I agree.
+[65] Mr. George Suntres, a CRA auditor, was tasked with performing an audit of Carvest involving several complexes in August 2015. He testified that Carvest was assessed under subsection
+[66] 191(1), not subsection 191(3) of the ETA because each unit was registered as a condominium unit. Mr. Suntres indicated that there were extensive meetings during the last audit by Mr. Stone and that the CRA did not agree with Carvest’s cost plus 6% approach. [47]
+[67] Mr. Duda is a retired real estate appraiser. He received the AACI designation around 2002 and worked in private practice for a few years before working with the CRA where he spent the last 16 years of his career until his retirement in 2018. Mr. Duda performed several hundred appraisals with between 10 and 20 appraisals involving the self-supply provisions of the ETA. Mr. Duda testified as a litigant expert.
+[68] Mr. Duda confirmed that he prepared the appraisal report dated July 29, 2013 [48] for the Richmond property, at the request of CRA auditor Mr. Anthony Stone. Mr. Duda explained that the effective dates of his report were from December 1, 2008 to April 1, 2010, the dates when the first and last of the 137 units in the Richmond property were rented out. Using the direct comparison approach, Mr. Duda determined the FMV of the units for values ranging from $119,845 to $417,586. [49]
+[69] Mr. Duda stated that he did not use the cost approach nor the income approach as these methods are not used in the marketplace for individual condominium units. He explained that he did not use the income approach because he was asked to appraise the value of 137 condominium units and individual condominium units are not typically traded based on their income-generating potential.
+[70] Regarding his decision not to use the cost approach, Mr. Duda testified as follows: [50]
+Q. … Why didn't you use the cost approach?
+A. Well, in valuing individual condominium apartment suites, you can't construct one. So, you can't construct a 12[th] floor apartment suite and say it would cost me an X-amount of dollars, and therefore, the one I'm valuing is going to be the same or something like that number. You can't construct an individual condominium apartment in isolation. There's a lot of supporting structures that's extra cost to the unit in question. So, it's really a far reach and not an accurate depiction of value at all. It just can't be done practically speaking.
+[71] Mr. Duda acknowledged that in his report he described the purpose of his appraisal as follows: “[t]o estimate the retrospective value of the fee-simple interest in the condominium apartments in the subject building.” [51] Under cross-examination, he stated that it would have been better to say “condominium interest” and that it is different from fee-simple interest because it carries with it rights of ownership in the common elements of the building given that it was registered as a condominium.
+[72] Mr. Duda made two “extraordinary assumptions” [52] in appraising the property. First, that there were no major changes to the property between the date of the inspection and the effective date. Second, that as of the effective date of the appraisal, a condominium application was pending and it was ultimately approved in May 2009.
+[73] Mr. Duda stated that he did not perform an interior inspection of the Richmond building as it had been sold to a third party. His inspection was limited to viewing an online video of a model suite offered for rent at the time he was completing his report, as well as an inspection from the street. In his report, Mr. Duda described the property and the finishes in the unit viewed on the video. [53] Mr. Duda testified that in doing his research, he gathered information from various sources including the land registry, GeoWarehouse, the London Real Estate Board and the Municipal Property Assessment Corporation.
+[74] In applying the direct comparison approach, Mr. Duda sought and easily found roughly 200 individual sales in three buildings in the London market area, which he used as comparables. The three buildings were situated at 353 Commissioners Road West, 250 Pall Mall Street, and 435 Colborne Street. I note that all three buildings were built for the sale of condominium units to individuals and further, the first two buildings were built by Carvest. Mr. Duda did not view the interior of the units. He testified that detailed knowledge of the comparables would be “rather immaterial” given that he had not seen the units in the Richmond property. In his report, Mr. Duda stated that the Commissioners Road building and the Colborne Street building were inferior while the Pall Mall building was superior to the Richmond property. He provided examples of the finishes that supported his conclusions but acknowledged that these were based on a virtual tour of some units. [54]
+[75] Mr. Duda organized the comparables in 5 groups according to size and estimated a per-square-foot range for each group. [55] He estimated the price per unit by comparing the Richmond property units to units in his comparables and he adjusted for differences in quality of the buildings and price changes in the market. Because market prices had increased during the latter part of the effective dates range, Mr. Duda established estimated prices for February 28, 2009, and August 31, 2009. [56] He then applied a 6% absorption rate discount to account for the introduction of 137 units to the market in a 16-month period. He testified that he considered the 27 Cardigan case, [57] in which the Federal Court of Appeal applied a 10% discount. He pointed out that there was not a lot of research behind this but that his colleague, Mr. James Rokeby, had made a study and concluded that 0-6% was an appropriate absorption rate discount. In his report, Mr. Duda wrote, “[b]ased on market evidence contained in the Rokeby analysis and taking into account the specific circumstances of the subject property an absorption rate of 6% was determined to be reasonable.” [58]
+[76] Under cross-examination, Mr. Duda asserted that had the building been an apartment building and not a building registered as a condominium, he would not have approached the appraisal problem in the same way. Mr. Duda testified that he “would have applied an income approach and probably a direct comparison approach if comparable sales were available.” [59] Mr. Duda explained that he would have applied an income approach because the Richmond property would have been a single-entity property that was an income-producing commodity, sold based on its potential to earn income to its investor owner.
+(4) Parties’ submissions on CRA’s valuation and findings
+[77] In arguing that the CRA’s determination of FMV cannot be supported, the Appellant takes an approach whereby much of the submissions are made on the basis of what Mr. Rokeby did in appraising two properties which are not the subject of this appeal. I note that the properties involved were 335 Southdale Road in London and 100 Eagle Street in Cambridge and further that the appeals from these assessments were the subject of a settlement. Not only was Mr. Rokeby not the appraiser for the units in the Richmond property, neither was he the appraiser for any of the other three buildings that were originally part of this appeal.
+[78] Although the Appellant appears to have chosen this line of reasoning on the basis of its view that Mr. Duda followed the same approach as Mr. Rokeby, it runs the risk of confusing matters. In the end, what matters is what Mr. Duda did in appraising the units in the Richmond property, regardless of whether he applied a valuation approach used by other appraisers appraising other complexes at other moments in time. The only property that is the subject of this appeal are condominium units in the 1985 Richmond Street building. I understand that the Appellant has been at odds with the CRA over many years and involving many properties, some of which were the subject of appeals that were settled, and apparently not all on the same basis. I understood from the testimony at trial that the owners of Carvest are frustrated with the process but I reiterate the only issue before the Court concerns the FMV of units in one building, units that were appraised by Mr. Duda.
+[79] I will address the parties’ submissions on the CRA’s valuation in three parts, more specifically, by addressing the appropriateness of i) the valuation method; ii) the comparables; and iii) the absorption discount.
+i) Valuation method
+[80] Earlier in these reasons, I concluded that the income approach used by Mr. Uba and the cost plus 6% approach used by Carvest were inappropriate methods of valuation in the circumstances. All appraiser witnesses agreed that the cost approach was not appropriate in this case. This leaves the Court with one approach, the direct comparison approach, to consider.
+[81] In its written submissions, the Appellant stated that the ETA does not define or provide any direction on how FMV is to be determined for the purposes of section 191. Subsection 123(1) of the ETA does contain a definition of FMV which applies to all of Part IX, including section 191, and reads as follows:
+“fair market value” of property or a service supplied to a person means the fair market value of the property or services without reference to any tax excluded by section 154 from the consideration for the supply.”
+[82] As lamented by the Appellant, the ETA definition of FMV provides little direction on how to determine the FMV of property for the purposes of section 191 such that we must turn to the oft-quoted definition provided in Henderson Estate v Canada, [60] and quoted with approval by the Federal Court of Appeal in Canada v Nash as follows: [61]
+8 The well-accepted definition of fair market value is found in the decision of Cattanach J. in Henderson v. Minister of National Revenue (1973), 73 D.T.C. 5471 at 5476:
+The statute does not define the expression “fair market value”, but the expression has been defined in many different ways depending generally on the subject matter which the person seeking to define it had in mind. I do not think it necessary to attempt an exact definition of the expression as used in the statute other than to say that the words must be construed in accordance with the common understanding of them. That common understanding I take to mean the highest price an asset might reasonably be expected to bring if sold by the owner in the normal method applicable to the asset in question in the ordinary course of business in a market not exposed to any undue stresses and composed of willing buyers and sellers dealing at arm's length and under no compulsion to buy or sell. I would add that the foregoing understanding as I have expressed it in a general way includes what I conceive to be the essential element which is an open and unrestricted market in which the price is hammered out between willing and informed buyers and sellers on the anvil of supply and demand.
+[Emphasis added]
+[83] After observing that the Henderson definition is now considered the working definition of FMV, the Federal Court of Appeal commented on its application as follows:
+In applying the Henderson definition of fair market value, the first step is to accurately identify the asset whose fair market value is to be ascertained. It is only once the asset is identified that the market in which the asset is normally sold in the ordinary course of business can be determined. [62]
+[84] The Appellant submits that Mr. Rokeby, and by analogy I presume, Mr. Duda, incorrectly identified the asset “as being the fee simple interest of each apartment as opposed to the leased fee interest as required by section 191.” [63] As I understand the Appellant’s argument, it is that the CRA appraisers incorrectly identified the asset because they ignored the fact that “each unit and the entire building was designed and built for rental purposes and all units were owned by a single owner.” [64] This in turn resulted, in the Appellant’s view, in the Respondent’s failure to identify the correct market in which the asset is sold.
+[85] The Appellant argues there are “clearly two separate and distinct markets in London, Ontario for condominium units,” one being the sale/resale market. [65] The Appellant does not spell out what the second market is but it appears to be the market for apartments in rental buildings. Hence the two markets would be: i) a market for the sale/resale of condominium units built for sale; and ii) a market for the sale of apartments built for lease.
+[86] Since the assets in question are condominium units and not apartments in rental buildings, I do not understand how we can speak of two markets. The apartments in a rental building cannot be sold on a unit-by-unit basis, the entire building would have to be sold hence, there is no market for these individual apartments. The second market the Appellant appears to refer to, the market for the sale of apartments built for lease, hence for the sale of apartment buildings, simply does not apply in the circumstances.
+[87] The Appellant criticizes Mr. Rokeby for having chosen units in “three purpose-built condominium buildings” ignoring the other income-producing rental apartment buildings when appraising the Southdale and Eagle properties. However, this ignores the fact that Mr. Rokeby could not look for comparables of sales of units in the rental buildings, as these are not for sale as individual units in any market. Presumably, the Appellant levels the same criticism of the comparables chosen by Mr. Duda in appraising the units in the Richmond property.
+[88] The Appellant submits that “[i]t is the intended and actual use of the residential complex that defines the market into which it is sold.” [66] The Appellant asserts that, in Nash, the Federal Court of Appeal concluded that the Tax Court Judge made a palpable and overriding error when he accepted evidence based on the retail market for individual prints when there was a normal market for the group of prints. [67] The Appellant referred to the decision in McCuaig Balkwill v The Queen, [68] a case about the FMV of wine donated to a charity for the purposes of the Income Tax Act. [69] In McCuaig, Justice Boyle wrote: “it is similarly hard to imagine circumstances in which one would dismiss real, functioning, available markets and create a proxy market that is a virtual, single seller monopoly that uses a monopolistic pricing structure.” [70] I hasten to add that Justice Boyle referred to the Federal Court of Appeal’s words in Nash wherein Justice Rothstein wrote: “[b]ut where there is a market in which assets of the description of the asset being valued are traded, there is no need for the use of a proxy.” [71] I agree with the view expressed in Nash and in McCuaig that there is no reason to create a proxy market when a real, functioning market exists. In this case, there simply is no real, functioning, normal market for the sale of individual apartment units in a rental apartment building but there is a real, functioning, normal market for individual condominium units, the type of property being valued in this case.
+[89] In its submissions, the Appellant cited Marall Homes Ltd. v Canada [72] as illustrative of circumstances where the Court criticized a CRA appraiser for having assessed the property as condominium units and having failed to apply the income approach. I note that in Marall, the Court concluded that the building was “built for rental purposes and was a multiple unit residential complex within the meaning of subsection 191(3) of the Excise Tax Act.” [73] Unlike in Marall, in the circumstances of this case, I found that the units in the Richmond property met the definition of condominium units and I further found, and the parties agreed, that subsection 191(1) of the ETA applied. I would add that the Appellant also seeks to distance itself from its independent expert’s valuation, which was based on the income approach.
+[90] The Respondent submits that as the condominium units are excluded from the definition of a MURC, subsection 191(1) of the ETA applies and subsection 191(3) is irrelevant. The Respondent noted that the Appellant agrees that subsection 191(1) is the applicable provision in the circumstances. The Respondent submits that in spite of that, the Appellant’s position is essentially that the units should nonetheless be valued as apartment units in an apartment building, a MURC, as this was their intended and actual use.
+[91] The Respondent noted that the leasing of a condominium unit triggers the self-supply rule, but the legislation deems a sale to have occurred.
+[92] Subsection 123(1) of the ETA defines “sale” as follows:
+“sale” in respect of property, includes any transfer of ownership of the property and a transfer of the possession of the property under an agreement to transfer ownership of the property.
+[93] The Respondent submits that although the word “sale” could be interpreted as referring to a transfer of the leased fee interest or to the transfer of the fee-simple interest, a purposive interpretation of “sale” commands that subsection 191(1) be interpreted to mean that what is being sold is the fee simple interest. In support of its view, the Respondent refers to the purpose of the provision which is to put a builder landlord in the same position as the non-builder landlord. Since “a non-builder landlord acquiring the property for the purpose of renting it would be purchasing the fee simple interest in the property, not the leased fee interest”, [74] the provision must be interpreted as referring to the transfer of the fee-simple interest. The Respondent also refers to Policy Statement P-165R, wherein the CRA states as follows:
+Generally, when the ETA uses the word “sold”, the Department interprets that to mean a transfer of the ownership with all the possible rights or estates in the property or a transfer of the ownership with the greatest possible interest in the property that is possible in our system.
+…
+Under subsection 191(1), where a builder makes a supply of property by way of a lease, the builder is deemed to have made a taxable supply by way of sale. In this instance, the Department’s position is that the deemed sale refers to the transfer of full ownership of the property. Therefore, the object is deemed to be sold even though it may, in fact, be leased. [75]
+[94] Relying on the Tax Court of Canada decision in 27 Cardigan, the Respondent argues that the only appropriate method to determine the FMV of the condominium units is the direct comparison method. [76] The Respondent submits that, in the very similar factual circumstances of 27 Cardigan, the Tax Court of Canada and Federal Court of Appeal found, respectively, that:
+i) when valuating a residential condominium unit for the purposes of subsection 191(1) of the Act, the direct comparison approach is the best valuation method; and
+ii) an appropriate volume discount should be considered and subsequently applied to the FMV obtained by relying on the direct comparison approach. [77]
+[95] In 27 Cardigan, the issue concerned the FMV of condominium units leased over a period of approximately three years for the purposes of the self-supply rule under subsection 191(1) of the ETA, hence a case not unlike the present one. Regarding the valuation method, the late Justice Bowie wrote as follows: “I have no doubt that the most appropriate method of valuation of the units is by direct comparison to sales of similar units in the same neighborhood during the [same] period.” [78]
+[96] I agree with the Respondent that, in 27 Cardigan, the Tax Court of Canada found that the direct comparison approach was the most appropriate method. However, I note, as did the Appellant, that the issue of the appropriate valuation method to establish the FMV of the units was not before the Federal Court of Appeal. The Federal Court of Appeal addressed only the issue concerning the appropriateness of applying a market absorption discount. Nonetheless, the Tax Court of Canada’s finding that the most appropriate method of valuation of the units was by direct comparison to sales of similar units was not disturbed and the Federal Court of Appeal applied an absorption discount to the FMV as established by the direct comparison method. [79]
+[97] I find that the property to be evaluated in this case is a condominium unit and the relevant, ‘normal’ market is the market for the sale of condominium units. I further find that the direct comparison method is the appropriate valuation approach in the circumstances of this case. None of the evidence submitted in this appeal persuades me otherwise. I find support for this approach in the Tax Court’s decision in 27 Cardigan, which was not disturbed by the Federal Court of Appeal on this aspect. [80] I find further support for this finding in the AIC’s book on the appraisal of real estate which provides as follows:
+To value individual condominium units (residential, office, industrial, or other property types), appraisers generally use the direct comparison approach. Recent sales of units of comparable size, location, and quality are the best indicators of value.
+…
+The cost approach is usually not applicable in the appraisal of any type of condominium unit because it is difficult to estimate site value and the contributory value of common elements.
+…
+The valuation of individual condominium units is distinct from the valuation of an entire condominium project. The aggregate of individual unit values does not reflect the market value of the overall project, as the aggregate sum does not reflect carrying or holding costs, marketing expense, or the timing of cash flows. It is improper to represent the sum of the individual unit values as the market value of the entire project. Likewise, individual units are not valued by appraising the entirety and then allocating the total value to individual units. Each assignment has separate and distinct considerations. [81]
+[98] Thus the issue that must be addressed is whether the CRA appraiser, Mr. Duda, applied the method correctly, and more specifically, whether he used the appropriate comparables and made the proper adjustments.
+ii) Comparables
+[99] As mentioned earlier, Mr. Duda testified that he found about 200 individual sales in three buildings, which he used as comparables. He organized the comparables in 5 groups according to size and estimated a per-square-foot range for each group. He estimated the price per unit by comparing the Richmond property units to units in his comparables and he adjusted for price changes in the market.
+[100] In his appraisal report, Mr. Duda acknowledged that he needed to make adjustments to the FMV to reflect the differences between the units in the Richmond property and the comparables. He wrote as follows:
+In making comparisons, differences between the subject and each comparable property should be recognized and the appropriate adjustments made. The comparable properties that are most similar to the subject property require the fewest adjustments and are usually the best indicators of market value for the property being appraised. [82]
+[101] Carvest submits that the comparables used by the appraiser were not “true comparables” because they were units built to be sold to individual buyers and included upgraded and customized finishes.
+[102] Adam Carapella, Mr. Joseph Carapella’s son and vice-president of Carvest, testified that it typically cost more to build condominium projects as opposed to apartment buildings. He described the additional costs related to registering with Tarion, [83] managing the change orders and repairs that buyers of condominium units can request as well as the additional costs related to amenities (lounges, golf simulators, theatre rooms) and heating and cooling systems. Adam Carapella explained that condominiums require upgraded features and finishes and more choices from which different buyers could select according to their taste. In a rental building, the builder would pick more cost effective and durable finishes for all units.
+[103] The Appellant submits that the Respondent overlooked the characteristics of the units including that they were built for rental purposes using standardized lower quality materials and could not be sold because they were not registered with Tarion. [84]
+[104] The Respondent argues that the comparables were appropriate because they were sales of condominium units, in similar high-rise buildings, situated in the same London market and constructed around the same time as the Richmond property.
+[105] I note that Mr. Uba testified that he was able to secure a visit of two units in the Richmond Street property through an agent for Killam, the company that had purchased the building in 2010. In his report, Mr. Uba provided a description of the finishes in the units. [85] Mr. Uba considered the building to be a high-end apartment building. I further note that when Killam announced the acquisition of the Richmond property, in the “View Investor News,” it described it as a “luxury apartment building.” [86]
+[106] I am prepared to acknowledge that the finishes in the condominium units in the Richmond property were standardized while the units used as comparables likely contained finishes customized to the individual owner’s choices, but it does not necessarily follow that the finishes in the Richmond property were of a lower quality. In addition, I note that Mr. Duda concluded that two of the comparable buildings were of inferior quality while the third was of superior quality. Mr. Duda testified that he appraised the quality of the units based on the quality of the buildings and their location and amenities and on the basis of the finishes as determined from virtual tours of some units. Mr. Duda testified that he made some adjustments to the estimated value to reflect that.
+[107] The Appellant did not provide any evidence to support a view that these adjustments were not adequate, nor did the Appellant argue that other adjustments would have been more appropriate. This leaves the Court with no evidence to challenge the CRA’s estimate of the value of the Richmond property units on the basis of the comparables used.
+iii) Absorption discount
+[108] As indicated earlier, after determining the FMV of the units on the basis of the comparables found in the London market, Mr. Duda applied an absorption discount of 6%. In his report, Mr. Duda wrote that the market was active [87] but he recognized that the introduction of 137 units over a 16-month period was “sizeable.” He wrote that based on “the market evidence contained in the Rokeby analysis and taking into account the specific circumstances of the subject property an absorption rate of 6% was determined to be reasonable.” [88]
+[109] The only evidence introduced by the Appellant regarding volume discounts was through the testimony of Mr. John Stein and his letter to the CRA (EY letter) regarding the Southdale and Eagle properties. [89] Mr. Stein is a chartered professional accountant who continued to assist Carvest in its GST/HST appeal related to the Southdale and Eagle properties after his retirement from Ernst & Young. Mr. Stein said that in light of the number of units that would enter the market commencing in 2007, it would take 73 years and 54 years respectively for the market to absorb the units and thus a 90% discount would be required. As noted earlier in these reasons, these properties, one in the London market, the other in the Cambridge market, were the subject of a settlement that did not appear to involve the application of an absorption discount. The Appellant did not explain how the absorption discount proposed for the Southdale and Eagle properties could or should guide the Court in the circumstances of this appeal. The Respondent submitted that there were a number of flaws with the Ernst and Young analysis.
+[110] At the hearing, Mr. Rokeby testified about the memorandum he wrote in reply to the Appellant’s EY letter. In his memorandum, he stated that the actual market data for volume sales of condominium units in southern Ontario showed that little or no discount actually occurred in the real market in the relevant timeframe. [90] Mr. Rokeby wrote that despite the reported introduction of 1,841 units into the London market, there was little evidence of a reduction in market value levels of condominium units. [91] He noted that during the market meltdown in 2008, the units in one of the comparable buildings continued to sell but at a slower pace. [92] In the end, Mr. Rokeby determined that a 6% volume discount was appropriate for the Southdale building while a 2% discount would be sufficient for the Eagle property. [93]
+[111] In 27 Cardigan, the Federal Court of Appeal found that to the extent that the addition of 187 units over a period of approximately 2.5 years “would have a depressive effect on the price of each Unit, this must be reflected in its respective FMV.” [94] The Federal Court of Appeal went on to reject the 45% discount proposed by the Appellants and accepted the 10% discount that the Tax Court judge had concluded would be appropriate if it was proper to apply one. [95] I note that Mr. Rokeby testified that the ‘Cardigan market’ was a much less active market than the 2008-2009 market in this case.
+[112] Mr. Duda acknowledged that a discount should be applied and, based on the market evidence in the Rokeby analysis and taking into account the circumstances of the Richmond property, concluded that 6% was an appropriate discount. The Appellant did not present any evidence to challenge this rate nor did the Appellant make any submissions on this issue. Mr. Duda’s assertion that he considered the market evidence contained in the Rokeby analysis and took into account the specific circumstances of the Richmond property was not successfully challenged. I therefore find that a volume discount of 6% is appropriate in the circumstances.
+VI. Conclusion
+[113] I find that the Appellant has not persuaded the Court that the cost plus 6% approach it applied in determining the value of the condominium units in the Richmond property is an appropriate method in the circumstances. I further find that the direct comparison method is the most appropriate method to determine the value of condominium units in the Richmond property for the purposes of the self-supply rule in subsection 191(1) of the ETA. I conclude that, in applying this method, the Respondent selected the appropriate comparables and made the appropriate adjustments. The Appellant did not provide the Court with any evidence to support a finding that the absorption discount ought to have been other than that fixed by the Respondent at 6%.
+[114] Based on all the above, the appeal from the reassessments of GST made under Part IX of the Excise Tax Act for the periods commencing December 1, 2008 and ending June 30, 2009, is dismissed.
+[115] In light of the concessions made at the beginning of the hearing:
+i) The matter is referred back to the Minister of National Revenue for reassessment on the basis that the reassessments for reporting periods from July 1, 2009 to July 31, 2011, including the reassessments of the new residential rental property rebate applications, are vacated; and
+ii) The appeal for the reporting period from December 1, 2011 to December 31, 2011, is dismissed.
+VII. Costs
+[116] Costs are awarded to the Respondent. The parties shall have 30 days from the date of this Judgment to reach an agreement on costs and to so advise the Court, failing which the Respondent shall have a further 30 days to serve and file written submissions on costs and the Appellant shall have a further 30 days to serve and file a written response. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the applicable time limits, costs shall be awarded to the Respondent in accordance with the Tariff.
+Signed at Ottawa, Canada, this 18th day of March 2021.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+APPENDIX A
+Number
+Reporting Period
+(Re)assessment Reference #
+1
+12/1/2008 - 12/31/2008
+09037008212310005
+2
+1/1/2009 - 1/31/2009
+09070006512310001
+3
+2/1/2009 - 2/28/2009
+09097004812310086
+4
+3/1/2009 - 3/31/2009
+09127007712310086
+5
+4/1/2009 - 4/30/2009
+09155013012310003
+6
+5/1/2009 - 5/31/2009
+09187003812310016
+7
+6/1/2009 - 6/30/2009
+09222004512310001
+8
+7/1/2009 - 7/31/2009
+09247001312310009
+9
+8/1/2009 - 8/31/2009
+09286007512310030
+10
+9/1/2009 - 9/30/2009
+09307010412310076
+11
+10/1/2009 - 10/31/2009
+09342011612310030
+12
+11/1/2009 - 11/30/2009
+10012003312310019
+13
+12/1/2009 - 12/31/2009
+10035009912310011
+14
+1/1/2010 - 1/31/2010
+10070004512310096
+15
+2/1/2010 - 2/28/2010
+10111001512310001
+16
+3/1/2010 - 3/31/2010
+10127011712310008
+17
+4/1/2010 - 4/30/2010
+10159002612310006
+18
+5/1/2010 - 5/31/2010
+10179000412310008
+19
+6/1/2010 - 6/30/2010
+10217009412310091
+20
+7/1/2010 - 7/31/2010
+10242000132310069
+21
+8/1/2010 - 8/31/2010
+10265000232310005
+22
+9/1/2010 - 9/30/2010
+10300000232310689
+23
+10/1/2010 - 10/31/2010
+10327000132310179
+24
+11/1/2010 - 11/30/2010
+10357000132310059
+25
+12/1/2010 - 12/31/2010
+11026000232310212
+26
+1/1/2011 - 1/31/2011
+11054000132310919
+27
+2/1/2011 - 2/28/2011
+11087000332310094
+28
+3/1/2011 - 3/31/2011
+11117000432310829
+29
+4/1/2011 - 4/30/2011
+11146000132310258
+30
+5/1/2011 -05/31/2011
+11174000132310716
+31
+6/1/2011-06/30/2011
+11203000132310301
+32
+7/1/2011 - 7/31/2011
+11236000532310303
+33
+12/1/2011 - 12/31/2011
+12025000332310425
+APPENDIX B
+Assessments at issue after concessions were made by the parties at the hearing
+89 units in building situated at 1985 Richmond Street in London, Ontario
+CITATION:
+2021 TCC 21
+COURT FILE NO.:
+2017-345(GST)G
+STYLE OF CAUSE:
+CARVEST PROPERTIES LIMITED V HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+London, Ontario
+Ottawa, Ontario
+DATE OF HEARING:
+September 9, 10, 11 and 12, 2019
+October 20 and 21, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gabrielle St-Hilaire
+DATE OF JUDGMENT:
+March 18, 2021
+APPEARANCES:
+Counsel for the Appellant:
+David D. Robertson
+Steven Raphael (2019 hearing dates)
+Maude Lussier-Bourque (2020 hearing dates)
+Brittany Rossler (October 20, 2020)
+Counsel for the Respondent:
+Martin Beaudry
+Alexander Nguyen (2019 hearing dates)
+Judith Lemieux (2020 hearing dates)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David D. Robertson
+Steven Raphael (2019 hearing dates)
+Maude Lussier-Bourque (2020 hearing dates)
+Brittany Rossler (October 20, 2020)
+Firm:
+EY LAW LLP
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Excise Tax Act, RSC 1985, c E-15.
+[2] Exhibit AR-1, Tab 61, T2020 by George Suntres at 956 [Suntres T2020]; Transcript at 585–86.
+[3] Transcript at 673; Exhibit AR-1, Tab 24, Appraisal Report 1985 Richmond Street by Ron Duda [Duda Appraisal]. According to Mr. Duda’s testimony, there was a mathematical error in the FMV of $32,409,909 presented in his appraisal report at 505; absent the mathematical error, the FMV would have been $33,850,000.
+[4] Transcript at 172, 306–07.
+[5] The Tricar group is comprised of the following: Carvest Properties Ltd., which is the rental arm of the Tricar Group; Tricar Properties Ltd., which develops and sells condominium buildings; and Tricar Developments Inc., which is the constructor of both types of buildings.
+[6] Exhibit AR-1, Tab 20, Tenancy Agreement at 439. The name of the landlord on the tenancy agreements is Tricar.
+[7] Transcript at 57. Ontario government documents confirm that the municipal property tax burden on multi-residential apartment buildings was more than double that of residential properties. See Ministry of Finance, Building Ontario Up for Everyone (Ontario Economic Outlook and Fiscal Review), 2016, by the Honourable Charles Sousa at 178.
+[8] Exhibit AR-1, Tab 18, Middlesex Standard Condominium Plan No 726.
+[9] Polygon Southampton Development Ltd. v R, 2003 FCA 193.
+[10] Ibid at para 23.
+[11] Department of Finance Canada, Goods and Services Tax, Explanatory Notes to Bill C-62 as passed by the House of Commons on April 10, 1990.
+[12] The definition of “residential condominium unit” in subsection 123(1) reads as follows: “residential condominium unit” means a residential complex that is, or is intended to be, a bounded space in a building designated or described as a separate unit on a registered condominium or strata lot plan or description, or a similar plan or description registered under the laws of a province, and includes any interest in land pertaining to ownership of the unit. For comments on this definition, see for example Stafford, Stafford and Jakeman v Canada, [1995] TCJ No 89 at para 9 (TCC): I think that the better view is that, notwithstanding the fact that the registration of strata plans had not been completed at the effective date, the units fell within the definition of “residential condominium unit” in subsec. 123(1) of the Act. The words “or is intended to be” in that definition are, in my view, apt to describe an apartment complex for which strata plans have been prepared and have been submitted for registration. I think that those words are intended to qualify all of the words that follow them in the definition. See also Beau Rivage Apartments v Canada, [1994] TCJ No 1137 (TCC).
+[13] Duda Appraisal, supra note 3; Exhibit A-8, Appraisal Report 1985 Richmond Street by Grant Uba [Uba Appraisal]. See also the Respondent’s Book of Authorities, Tab 55B, The Appraisal of Real Estate, chapter 7 at 7.12–7.13 wherein the Appraisal Institute of Canada refers to the direct comparison approach, the cost approach and the income approach as three distinct methods of data analysis used by appraisers to develop an opinion of property value.
+[14] Southpark Estates Inc. v Canada, 2006 FCA 153 [Southpark Estates].
+[15] Ibid at para 14.
+[16] Transcript at 326.
+[17] Appellant’s Written Submissions at para 21.
+[18] Ibid at para 10; Transcript at 104–06.
+[19] Respondent’s Written Submissions at para 18. See also Transcript at 123–124, 129; Exhibit AR-1, Tab 12, Richmond Floor Plans.
+[20] Appellant’s Written Submissions at para 13.
+[21] Only the reassessments of 89 of the 137 units remain in issue as these were first occupied during the periods between December 31, 2008, and June 30, 2009. However, when Carvest applied the cost plus 6% approach, it applied it to the entire building, inclusive of the 137 units which were leased over the period of December 2008 to April 2010. See Respondent’s Written Submissions at para 18.
+[22] Appellant’s Written Submissions at para 17.
+[23] Respondent’s Written Submissions at paras 81–84.
+[24] Ibid at paras 85–86.
+[25] Exhibit A-1, Appraisal Report 20 Chapman Court; Exhibit A-2, Appraisal Report 190 Fleming Drive. I note that, for each of these reports, the appraiser wrote that their intended use was for the administration of the Income Tax Act and not the Excise Tax Act.
+[26] Exhibit A-3, DS Bryant Letter.
+[27] Exhibit AR-1, Tab 46, Shannon Letter.
+[28] Wilchar Construction Ltd v The Queen, [1982] 2 FC 489. The three factors that give rise to an estoppel were defined by the Supreme Court of Canada in Canadian Superior Oil v Hambly, [1970] SCR 932 at 939–40.
+[29] Ibid at para 10.
+[30] Goldstein v R, 1995 2 CTC 2036 at para 23.
+[31] Harris v Canada, [2000] 4 FC 37 at paras 37–38, leave to appeal to SCC refused.
+[32] Manotas v The Queen, 2011 TCC 408 at para 12.
+[33] Transcript at 398–99.
+[34] Transcript at 402.
+[35] Uba Appraisal, supra note 13 at 48.
+[36] Ibid.
+[37] Transcript at 655–56 [Duda Testimony]; Transcript at 870–72 [Rokeby Testimony].
+[38] Suntres T2020, supra note 2 at 956, 959, 961.
+[39] Uba Appraisal, supra note 13.
+[40] Exhibit AR-1, Tab 6, Canadian Uniform Standards of Professional Appraisal Practice. See also Transcript at 366–70. Mr. Uba explained that he performed the appraisal of the Richmond property under the updated 2018 standards but asserted there were no material changes to the 2008 standards that would have affected his appraisal.
+[41] Transcript at 374.
+[42] Uba Appraisal, supra note 13 at 1.
+[43] Ibid at 48. In his report, Mr. Uba wrote that there were no sales of newly built multiple-unit properties in London that occurred prior to the effective date of December 1, 2008. CUSPAP requires that comparables be sales within 3 years prior to the effective date. See Transcript at 428–429.
+[44] Ibid at 74; Appellant’s Written Submissions at paras 18–21. The Appellant sought to substitute its view of the appropriate capitalization rate, 7.7%, for that used by Mr. Uba, 7%. The Appellant argued that if Mr. Uba had used a capitalization rate of 7.7%, he would have come to a determination of FMV virtually equal to that of the Appellant.
+[45] Ibid at 75, 79.
+[46] Reply at Schedule C1.
+[47] Suntres T2020, supra note 2 at 956; Transcript, at 578–79. Under cross-examination about the notes he made in the T2020, Mr. Suntres testified that he reviewed the prior audit and had a copy of the 2001 Shannon letter advising that the cost plus 6% method could be used to determine the FMV of two complexes (Chapman and Fleming) and that Carvest had used that method to determine the FMV of each project built since 2001.
+[48] Duda Appraisal, supra note 3 at 459.
+[49] Ibid at 501–505.
+[50] Transcript at 655–56.
+[51] Duda Appraisal, supra note 3 at 471.
+[52] Uba Appraisal, supra note 13 at 5. CUSPAP Definition 2.19 defines “extraordinary assumption” as “an assumption, directly related to a specific assignment, which if found to be false, could materially alter the opinions or conclusions.”
+[53] Duda Appraisal, supra note 3 at 480.
+[54] Ibid at 494, 496, 498.
+[55] Ibid at 499.
+[56] Ibid at 499-500. Mr. Duda chose two benchmark dates. Because sales were flat between June 2008 and June 2009, he chose February 28, 2009, as the benchmark date for that period; sales between June 2008 and June 2009 were used to estimate the values effective December 1, 2008 to May 2009. Prices rose after June 2009 and into 2010, hence he chose a second benchmark date, August 31, 2009, for units with effective dates between June 2009 and April 2010.
+[57] 27 Cardigan Inc. v R, 2005 FCA 100, leave to appeal to SCC refused [27 Cardigan].
+[58] Duda Appraisal, supra note 3 at 501. See also Transcript at 758–61 for Mr. Duda’s testimony under cross-examination on his consideration of Mr. Rokeby’s market analysis and what “specific circumstances” he considered.
+[59] Transcript at 705.
+[60] Henderson Estate v Canada, [1973] FCJ No 800 (FCTD).
+[61] Canada v Nash, 2005 FCA 386 at para 8 [Nash].
+[62] Ibid at para 17.
+[63] Appellant’s Written Submissions at para 124.
+[64] Ibid at para 125.
+[65] Ibid at paras 128–129.
+[66] Appellant’s Written Submissions at para 133.
+[67] Nash, supra note 61 at para 37.
+[68] McCuaig Balkwill v the Queen, 2018 TCC 99 [McCuaig].
+[69] Income Tax Act, RSC 1985, c 1 (5th Supp).
+[70] McCuaig, supra note 68 at para 25.
+[71] Ibid at para 19, citing Nash, supra note 61 at para 24.
+[72] Marall Homes Ltd. v Canada, [1995] TCJ No 1494 (TCC) [Marrall].
+[73] Ibid at para 6.
+[74] Respondent’s Written Submissions at para 46.
+[75] Respondent’s Book of Authorities, Tab 54, Policy Statement P-165R – Fair Market Value for Purposes of Part IX of the Excise Tax Act at 901–02.
+[76] Respondent’s Written Submissions at 13.
+[77] Ibid at para 51.
+[78] 27 Cardigan Inc. v The Queen, 2004 TCC 448 at para 11.
+[79] 27 Cardigan, supra note 57 at paras 33–35.
+[80] See also Southpark Estates, supra note 14 at para 58. This case serves as an example of a case in which the Federal Court of Appeal did not hesitate to expressly indicate that it did not wish its decision to be read as approving the underlying assumption of both appraisers’ valuation, which appears to have been accepted by the Tax Court Judge.
+[81] Respondent’s Book of Authorities, Tab 55D, The Appraisal of Real Estate, chapter 29 at 971–972.
+[82] Duda Appraisal, supra note 3 at 487.
+[83] In its written submissions, the Appellant noted that the units in the Richmond property were not registered under the Ontario New Home Owners Warranties Plan Act, RSO 1990, c O.31, now managed by a program called Tarion.
+[84] Appellant’s Reply to the Respondent’s Written Submissions at para 28.
+[85] Uba Appraisal, supra note 13 at 18–19.
+[86] Exhibit A-23, View Investors News, Killam described the property as follows: The 12-storey concrete apartment building, completed in 2009, is located at 1985 Richmond Street, close to hospitals, shopping and the University of Western Ontario. The building's average rent of $1,588 per month reflects its modern, spacious units, with 9-foot ceilings and units up to 2,300 square feet, and includes granite countertops and six appliances. The building's amenities include a fitness centre, guest suite, air conditioning and 183 underground parking spaces.
+[87] Duda Appraisal, supra note 3 at 485. In his report, Mr. Duda stated, “[w]ith the active marketplace in London in late 2008 through early 2010, and evidence from competing unit sales, the exposure time relating to the market value estimate sought in this report was estimated to be up to 100 days assuming a reasonable offering price and competent marketing. … It is important to note that rather large numbers of apartment condominiums were being purchased. In 2008, about 111 units closed in all three comparable buildings, and in 2009, 84 closed. In those two years that represents an average of over 8 units per month in these three buildings.”
+[88] Ibid at 501.
+[89] Exhibit AR-1, Tab 49, EY Letter at 669.
+[90] Exhibit AR-1, Tab 54, Rokeby Memorandum at 937. Under cross-examination, Mr. Rokeby testified that there was significant market data supporting his opinion.
+[91] Ibid at 940.
+[92] Ibid at 941.
+[93] In Mr. Rokeby’s view, this would account for a 5% discount in price to encourage purchasers, plus a 3% discount for the incentive in the form of free condominium fees over the marketing period, minus 2% for the fact that the value of the units increased over the marketing period. Mr. Rokeby determined that a 2% volume discount would be sufficient for the Eagle property, in particular because it was the only new condominium building in the Cambridge market at the time.
+[94] 27 Cardigan, supra note 57 at para 22.
+[95] Ibid at paras 29–30.

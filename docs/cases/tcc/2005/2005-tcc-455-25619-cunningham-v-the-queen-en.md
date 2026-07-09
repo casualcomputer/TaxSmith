@@ -1,0 +1,126 @@
+---
+title: "Cunningham v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25619/index.do"
+last_modified: "2005-07-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 455"
+citation2: ""
+neutral_citation: "2005 TCC 455"
+decision_date: "2005-07-22"
+language: "en"
+item_id: "25619"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2426
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:33:12.593000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cc892d9092cdb521ae7042d4cbe4a92438b3da7c9f3f45aeb9b0575ce83a0198"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cunningham v. The Queen
+
+- Citation: 2005 TCC 455
+- Decision date: 2005-07-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2426, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cunningham v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-07-22
+Neutral citation
+2005 TCC 455
+File numbers
+2004-4409(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2005TCC455
+Date: 20050722
+Docket: 2004-4409(IT)I
+BETWEEN:
+MUI YEAH MARGARET CUNNINGHAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(delivered orally from the Bench on June 6, 2005
+at Vancouver, British Columbia)
+Woods J.
+[1] This is an appeal by Margaret Cunningham in respect of an assessment under the Income Tax Act for the 2002 taxation year. The assessment disallowed Mrs. Cunningham’s claim for an education tax credit in respect of her enrollment in a program leading to a Masters of Science in Nursing at the University of British Columbia.
+[2] The relevant section is section 118.6(2) of the Act. In general, it allows a tax credit of a specified amount for each month during the taxation year that the taxpayer is enrolled in a qualifying educational program. Mrs. Cunningham claimed the credit for 12 months in 2002.
+[3] There are a number of conditions that must be satisfied in order to qualify for the credit. The Crown takes issue with only one of these and that is the exclusion described in clause (b) of the definition of qualifying educational program. I have assumed that the other conditions are satisfied and that clause (b) is the only issue.
+[4] The taxpayer obtained a nursing diploma in Singapore in 1983 and practiced as a nurse in that jurisdiction before coming to Canada in 1990. In 1995 she attended university in a Bachelor of Nursing program which she successfully completed in 1999. Immediately after that, the taxpayer enrolled in a program leading to a Masters of Science in Nursing which was granted in 2004. So the taxpayer attended a Canadian university from 1995 to 2004.
+[5] At the beginning of 2002, the taxpayer was a nurse practicing at St. Pauls Hospital in Vancouver. In February of that year, she took a two-month secondment from St. Pauls to become a clinical teacher at the University of British Columbia. During this time, the taxpayer continued to be paid by St. Pauls Hospital and the hospital was reimbursed by the University.
+[6] After the secondment, the taxpayer became employed as a clinical instructor by another college, the Vancouver Community College. This job lasted from mid May until the end of July and during this time, the taxpayer took a leave of absence from St. Pauls.
+[7] At the end of the summer, the taxpayer accepted a one year contract as a clinical instructor with the University of British Columbia. She continued her leave of absence from St. Pauls during this time.
+[8] The job of clinical instructor involves in the main the supervision of students in hospitals. It also involves a few lectures and supervision of labs in which students practice basic nursing skills.
+[9] The taxpayer testified that she took the undergraduate and graduate degrees for her own personal and professional development and that her university work was not related to any employment.
+[10] I turn now to an analysis of whether the exclusion in clause (b) applies so as to deny the credit in these circumstances.
+[11] Clause (b) contains a two-part test and both parts must be satisfied in order for the tax credit to be denied. The first part is that the program must be taken during a period in respect of which the student receives income from an office or employment. The second part is that the program must be taken in connection with, or as part of the duties of, that office or employment.
+[12] I have concluded that clause (b) does not apply on the facts of this case. I find that the taxpayer took the program for personal and professional development generally and not in connection with any particular employment. My reasons are as follows.
+[13] First, I would note that the focus of the inquiry is on the program as a whole. Either the program is a qualifying educational program or it is not. Further, the definition distinguishes between the program as a whole and courses within the program. Accordingly, the question is whether the masters program as a whole qualifies – and not whether a particular course qualifies. The question, then, is whether the masters program taken by the taxpayer from 1999 to 2004 is taken in connection with an employment.
+[14] I note that clause (b) uses the word “taken”, a program taken in connection with an office or employment. This suggests that an important consideration in determining whether the program qualifies is the reason that the taxpayer enrolled in the program in the first place. Typically if a program is taken in connection with an employment, the employment would exist at the time the student enrolls. The starting point of the inquiry, then, should be to look at why the taxpayer entered the program in the first place.
+[15] In this case, the taxpayer enrolled in the program in 1999. I do not recall any evidence regarding whether the taxpayer was employed in 1999 as the focus at the hearing was on the 2002 taxation year. In the absence of this evidence, there is nothing to suggest that taking the masters program was originally connected with a particular employment.
+[16] Even if the taxpayer were employed as a practising nurse in 1999, in my view clause (b) would not apply to that employment because the masters program was not related to the practice of nursing to any significant degree. The taxpayer’s evidence regarding the courses taken seems to suggest that the program was not designed to teach nursing skills per se. It was geared more to the academic study of nursing rather than the practical.
+[17] I turn now to considering whether the masters program was taken in connection with the taxpayer’s teaching jobs that commenced in 2002, some three years after she started the masters program. As I noted previously, I think it would be unusual for clause (b) to apply if the employment commences after the educational program started. It is unlikely that the program in these circumstances is “taken” in connection with the employment.
+[18] Further, on the facts of this particular case, there is very little connection between the masters program and the teaching jobs. The taxpayer no doubt would have continued to take the masters program regardless of whether she obtained a teaching position. Similarly, she might have been hired to teach without being enrolled in the masters program. Further, the clinical instruction is concerned with the practice of nursing and that is quite removed from most of the academic subjects in the masters program. I agree with counsel for the Crown that the words “in connection with” are broad but in my view an insubstantial connection is not sufficient.
+[19] The Crown suggests that its interpretation of “in connection with” is consistent with the purpose of the legislation which is to provide an incentive for education in a new field of endeavour. I do not agree.
+[20] The general purpose of the education tax credit seems to be to encourage higher education. The legislative purpose appears to be quite broad. In my view, the exclusions in clauses (a) and (b) suggest a legislative intent to deny the credit when a taxpayer receives financial support for the program. Clause (a) refers to direct financial support and clause (b) suggests indirect financial support. I note that it is not sufficient to have a connection to a field of endeavour or profession. The connection must be to a particular office or employment. In addition, clause (b) has a rather unusual reference to “income” from employment. This suggests a tie between the income and the educational program. For these reasons, I am not satisfied that the legislative intent is as broad as the Crown suggests.
+[21] For all these reasons, I would conclude that the education tax credit claimed by the taxpayer for the 2002 taxation year should be allowed. In addition, the taxpayer should have such costs as are permitted by the applicable rules.
+Signed at Toronto, Ontario this 22nd day of July, 2005.
+“J. Woods”
+Woods J.
+CITATION:
+2005TCC455
+COURT FILE NO.:
+2004-4409(IT)I
+STYLE OF CAUSE:
+Mui Yeah Margaret Cunningham v. Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+May 30, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+June 8, 2005
+APPEARANCES:
+Agent for the Appellant:
+Robert Quicke
+Counsel for the Respondent:
+Amy Francis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

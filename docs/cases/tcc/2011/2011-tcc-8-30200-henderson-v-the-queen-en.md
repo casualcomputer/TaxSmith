@@ -1,0 +1,140 @@
+---
+title: "Henderson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30200/index.do"
+last_modified: "2011-01-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 8"
+citation2: ""
+neutral_citation: "2011 TCC 8"
+decision_date: "2011-01-07"
+language: "en"
+item_id: "30200"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7721
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:58:53.307000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4433830d2059489c00c29acce7bcfd19d6d104f986884684ef6ad66810a49601"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Henderson v. The Queen
+
+- Citation: 2011 TCC 8
+- Decision date: 2011-01-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7721, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Henderson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-01-07
+Neutral citation
+2011 TCC 8
+File numbers
+2009-2807(GST)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2009-2807(GST)I
+BETWEEN:
+ROSS HENDERSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on 7 May 2010, at Nanaimo, British Columbia.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Max Matas
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated 10 October 2008 and bears number 08238509412370002, is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Ontario, this 7th day of January 2011.
+"Gaston Jorré"
+Jorré J.
+Citation: 2011 TCC 8
+Date: 20110107
+Docket: 2009-2807(GST)I
+BETWEEN:
+ROSS HENDERSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+[1] The appellant applied for the 1% GST transitional rebate pursuant to subsection 256.74(5) of the Excise Tax Act (ETA). On the assessment the Minister denied the rebate. The appellant elected to proceed under the informal procedure.
+[2] The factual circumstances of this matter are somewhat unusual. The appellant wished to acquire a new house, yet to be constructed, in Courtenay, British Columbia. On 7 May 2007 he signed a contract with Benco Ventures (BC) Ltd.[1]
+[3] The terms and conditions of that contract are those of a construction contract save for one exception. For example, the contract states that the appellant, referred to as the “purchaser”, wishes to construct a project on lot 24. Among other terms the contract refers to plans and specifications, a payment schedule, a completion date, possession of the structure and warranties.
+[4] The only term of the contract which suggests that it is for anything other than a construction contract is one of the terms of the payment schedule. This term provides that the appellant is to pay “$132,500 plus GST and PTT to purchase lot by June 28, 2007”. The amount of $132,500 was part of the $415,000 total price of the contract.
+[5] The appellant never entered into a contract with anyone else to purchase lot 24 nor did the appellant ever pay anyone else for lot 24. He did pay the $132,500 to Benco and in August 2007 title to lot 24 was transferred from Silverado Land Corp. to the appellant.[2]
+[6] The exterior of the house was completed in 2007.[3]
+[7] Benco completed the house in 2008 and the appellant took possession in 2008.
+[8] The evidence also showed that there was a contract of purchase and sale dated 8 May 2006 wherein Benco agreed to purchase certain lots including lot 24 from Silverado.[4]
+[9] Although title to lot 24 was never transferred from Silverado to Benco, a law firm prepared a statement of adjustments for the sale of lot 24 from Silverado to Benco as of 1 August 2007. The same law firm also prepared a statement of adjustments for the sale of lot 24 from Benco to the appellant as of 1 August 2007.
+[10] From the exhibits one can see that the appellant ultimately paid 6% GST on payments totalling $415,000 that he made to Benco pursuant to the contract of 7 May 2007. He paid 5% GST on a much smaller invoice of $12,326.08 relating to certain upgrades.[5]
+[11] The appellant also tendered into evidence an agreement between himself and Benco entitled “Offer to Purchase” with respect to the property at lot 24.[6] The appellant was quite forthright in his direct examination and stated that although this document was dated 7 May 2007 it was in fact prepared later after the Canada Revenue Agency questioned his claim for the transitional rebate. Accordingly, I have not accorded any weight to the “Offer to Purchase”.
+[12] Among other conditions, subsection 256.74(5) of the ETA requires:
+(a) that the supply be by way of sale pursuant to a contract of purchase and sale and
+(b) that the ownership and possession of the residential complex, in this case the home and underlying land, be transferred to the appellant after 2007.
+[13] Given that the appellant never contracted with anyone else other than Benco to buy lot 24, that the Appellant paid Benco the $132,500, given the one provision in the contract between the appellant and Benco (Exhibit A-4) regarding the due date for the $132,500 and given the statement of adjustments between Benco and the appellant, I conclude that the appellant bought lot 24 from Benco.
+[14] However, the appellant fails to meet the two conditions enumerated in paragraph 12 above. First, the contract between the appellant and Benco entered into on 7 May 2007 is not a contract for the purchase of a house. It is a contract for the construction of a house on a lot which Benco also sold to the appellant and which lot the appellant acquired prior to the start of construction.
+[15] Secondly, while the appellant did not have possession of the house until 2008, he acquired ownership of the land, as well as the house, to the extent that it had been built, in 2007. As a result ownership and possession of the residential complex were not transferred after 2007.
+[16] I regret that I must dismiss the appeal.[7]
+Signed at Ottawa, Ontario, this 7th day of January 2011.
+"Gaston Jorré"
+Jorré J.
+CITATION: 2011 TCC 8
+COURT FILE NO.: 2009-2807(GST)I
+STYLE OF CAUSE: ROSS HENDERSON v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Nanaimo, British Columbia
+DATE OF HEARING: 7 May 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: 7 January 2011
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Max Matas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Exhibit A-4.
+[2] See the documents from the Victoria Land Title Office, Exhibits R-1 and R-2.
+[3] One can see from invoice H-001 dated 10 December 2007 that the house had reached the “lock-up stage” (Exhibit A-6, first page). It is also clear from item 5 of the payment schedule on page 2 of the contract of 7 May 2007 (Exhibit A-4) that the “lock-up stage” means that the exterior walls are complete as well as the roof, windows and exterior doors.
+[4] Exhibit A-1.
+[5] One can see that, on Exhibit A-8, the statement of adjustments as of 1 August 2007, the appellant paid 6% GST on $132,500, the price of the land. Although Benco charged 5% GST on invoice H-001 dated 10 December 2007 and 6% on invoice H-002 dated 18 April 2008 (both of these invoices are in Exhibit A-6), one can also see on the first page of the statement (Exhibit A-7) that Benco charged 6% GST on the entire price of $282,500 remaining after payment of $132,500; given that the $148,312.50 amount paid by the appellant after receipt of invoice H-001 is subtracted from the total of $299,450 to produce the total outstanding of $165,217.08, it is clear that the total outstanding is $1,412.50 greater than the total of $163,804.58 which is shown as being the sum of invoice H-002, invoice H-003 and invoice X-001. This amount of $1,412.50 is exactly 1% of $141,250 and is equal to the difference between 5% GST invoiced on 10 December 2007 and 6% GST. Invoice H-003 for the upgrades is dated 15 April 2008 and the GST is charged at 5% (Exhibit A-6, third page). It is not clear from the evidence what the rate of GST was on invoice X-001.
+[6] Exhibit A-5.
+[7] It appears from the evidence before me that what should have happened is that the builder should have only collected 5% GST on the amounts invoiced in 2008. This would have reduced the total amount of GST paid by the appellant although not by an amount as great as the amount of the rebate claimed by the appellant.

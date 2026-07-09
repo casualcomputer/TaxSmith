@@ -1,0 +1,218 @@
+Title: Sutter Salmon Club Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26470/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-443-26470-sutter-salmon-club-ltd-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-07-08
+
+# Sutter Salmon Club Ltd. v. The Queen
+
+- Citation: 2004 CCI 443
+- Decision date: 2004-07-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3154, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sutter Salmon Club Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-08
+Référence neutre
+2004 CCI 443
+Numéro de dossier
+2002-4404(GST)G
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002-4404(GST)G
+ENTRE :
+SUTTER SALMON CLUB LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 20 mai 2004 à Saint John (Nouveau-Brunswick)
+Devant : L'honorable juge T. E. Margeson
+Comparutions :
+Avocate de l'appelante :
+Me Nicole L. Gallant
+Avocat de l'intimée :
+Me Marcel Prevost
+____________________________________________________________________
+JUGEMENT
+L'appel à l'encontre de l'avis de cotisation no 01EE0102530, établi en vertu de la partie IX de la Loi sur la taxe d'accise en date du 27 février 2002 pour la période allant du 1er janvier 1998 au 31 décembre 2000, est accueilli avec dépens, et l'affaire est renvoyée au ministre du Revenu national pour que celui-ci l'examine de nouveau et établisse une nouvelle cotisation en conformité avec les motifs du jugement ci-joints.
+Signé à New Glasgow (Nouvelle-Écosse), ce 8e jour de juillet 2004.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+Suzanne M. Gauthier, trad. a., LL.L.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2004CCI443
+Date : 20040708
+Dossier : 2002-4404(GST)G
+ENTRE :
+SUTTER SALMON CLUB LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Margeson
+[1] Le ministre du Revenu national (le « ministre » ) a établi l'avis de cotisation no 01EE0102530 en date du 27 février 2002 à l'égard de l'appelante. Selon cet avis, l'appelante devait payer un montant de taxe de 33 676,19 $, des intérêts de 4 682,68 $ et une pénalité de 5 724,91 $ au titre de la taxe sur les produits et services (la « TPS » ) pour la période allant du 1er janvier 1998 au 31 décembre 2000. L'avis était fondé sur le paragraphe 123(1) de la Loi sur la taxe d'accise, Lois révisées du Canada (1985), chapitre 15 (la « Loi » ).
+[2] Le ministre prétendait que les apports de capital faits par les actionnaires étaient réputés constituer la contrepartie de la fourniture d'un droit d'adhésion visée à l'article 140 de la Loi. Or, la fourniture d'un droit d'adhésion est taxable en vertu de l'article 165 de la Loi. Selon le ministre, le droit des actionnaires d'utiliser le camp de pêche était un « droit d'adhésion » au sens du paragraphe 123(1) de la Loi.
+[3] Les parties se sont entendues sur l'exposé des faits suivant :
+[TRADUCTION]
+b) l'appelante est un inscrit aux fins de la TPS, dont le numéro de compte TPS est 139863260;
+c) l'appelante est une société extra-provinciale faisant affaire dans la province du Nouveau-Brunswick;
+d) l'appelante possédait et exploitait un camp de pêche au Nouveau-Brunswick à tous les moments pertinents en l'espèce;
+e) pendant la période faisant l'objet du présent appel, l'appelante avait neuf actionnaires; un actionnaire possédait 20 p. 100 des actions et les huit autres, 10 p. 100 chacun;
+f) tous les actionnaires étaient des résidents américains pendant la période en question;
+g) les actionnaires ont acheté les actions au prix de 50 000 $ l'action lors de leur investissement initial dans l'appelante;
+h) une convention unanime des actionnaires (la « convention » ) a été conclue le 1er janvier 1997;
+i) la convention prévoyait notamment :
+i) que le conseil d'administration était formé de tous les actionnaires et que les droits de vote de chacun étaient proportionnels à leur part dans l'appelante;
+ii) que le transfert des actions de l'appelante était assujetti à des restrictions;
+iii) que les actionnaires étaient tenus de contribuer au fonds d'administration ou au fonds d'investissement;
+j) [...] la convention exigeait de chaque actionnaire qu'il verse à l'appelante un montant proportionnel à sa participation afin de combler tout déficit éventuel du fonds d'administration ou du fonds d'investissement de l'appelante (l' « apport de capital » );
+k) la convention prévoyait également que si un actionnaire ne faisait pas l'apport de capital exigé sa participation serait diluée en faveur des autres actionnaires ayant rempli leur obligation;
+l) trois actions ont été envoyées à chaque actionnaire (et six à l'actionnaire possédant 20 p. 100 des actions) en 1997 : une action relative à l'apport initial de 50 000 $, une pour l'apport fait en 1996 et une autre pour l'apport fait en 1997;
+m) aucune action n'a été émise relativement aux apports de capital après 1997;
+n) chaque actionnaire avait le droit d'utiliser le camp de pêche moyennant un droit de 6 800 $US par personne;
+o) cette somme incluait, pour une période de sept jours :
+- l'utilisation du camp, lequel comportait trois chambres à coucher, un salon, une salle à manger et une cuisine,
+- l'utilisation de deux cabines, chacune comportant une ou deux chambres à coucher et une salle de bain,
+- les repas, la cuisine, le ménage, les services d'un guide et l'utilisation de trois véhicules : un Blazer 1991, un Suburban 1989 et un Suburban 1999;
+p) le camp était loué à des tiers aux tarifs du marché quand il n'était pas utilisé par les actionnaires;
+q) l'appelante n'a pas perçu la TVH sur les droits payés par les actionnaires ou sur leurs apports de capital;
+r) l'appelante avait pour raison d'être d'offrir des avantages récréatifs à ses actionnaires en leur permettant d'utiliser le camp de pêche;
+s) le tableau ci-dessous montre les apports de capital faits par les actionnaires en 1998, en 1999 et en 2000, et les montants de taxe que l'appelante a omis de percevoir et de remettre :
+Apport de capital
+TVH de 15 p. 100
+1998
+37 702,36 $
+4 905,35 $
+1999
+24 961,44 $
+3 744,22 $
+2000
+25 616,25 $
+3 842,44 $
+12 492,01 $
+Questions en litige
+[4] La Cour doit statuer sur les questions suivantes :
+1. Les apports de capital étaient-ils des droits d'adhésion taxables au sens du paragraphe 123(1) de la Loi?
+2. Les apports de capital étaient-ils réputés constituer la contrepartie de la fourniture d'un droit d'adhésion visée à l'article 140 de la Loi?
+3. La fourniture du droit d'adhésion était-elle taxable en vertu de l'article 165 de la Loi?
+Prétentions de l'appelante
+[5] L'appelante a exposé ce qui suit dans ses observations écrites :
+[TRADUCTION]
+15. L'appelante soutient que les apports de capital ne sont pas assujettis à la TVH.
+16. Dans sa réponse, l'intimée a indiqué qu'elle se fondait notamment sur l'article 140 de la Loi sur la taxe d'accise, L.R.C. (1985), ch. E-15, qui prévoit :
+Pour l'application de la présente partie, la fourniture d'un titre - action, obligation ou autre titre, sauf une part du capital social d'une caisse de crédit ou d'une coopérative autre que celle dont le principal objet consiste à offrir des installations pour les repas, les loisirs ou les sports, - qui fait partie du capital ou des créances d'une organisation est réputée être la fourniture d'un droit d'adhésion, et non la fourniture d'un service financier, dans le cas où l'obtention, par l'acquéreur de la fourniture ou par une autre personne, d'un droit d'adhésion à l'organisation ou à une autre organisation qui lui est liée, ou du droit d'acquérir un tel droit, requiert que l'acquéreur soit propriétaire du titre.
+17. L'intimée a aussi indiqué qu'elle se fondait sur la définition de « droit d'adhésion » figurant au paragraphe 123(1) de la Loi. Cette définition se lit comme suit :
+« droit d'adhésion » Est assimilé au droit d'adhésion le droit conféré par une personne par lequel le titulaire du droit peut obtenir des services fournis par la personne ou faire usage d'installations gérées par elle, lesquels ne sont pas mis à la disposition de personnes non titulaires d'un tel droit ou, s'ils le sont, ne le sont pas dans la même mesure ou au même coût. Y est également assimilé un tel droit dont l'obtention requiert qu'une personne soit propriétaire ou acquéreur d'une action, d'une obligation ou d'un autre titre.
+18. L'appelante soutient que, pour que l'article 140 s'applique, il faut qu'il y ait eu fourniture d'une action, d'une obligation ou d'un autre titre. Or, l'intimée a reconnu qu'aucune action n'a été émise par l'appelante relativement aux apports de capital faits par les actionnaires pendant les années en question. Par conséquent, la première partie de l'article 140 ne s'applique pas.
+19. Les deux parties de l'article 140 étant conjonctives, il n'est pas nécessaire d'aller plus loin si la première partie ne s'applique pas. L'appelante prétend de toute façon que la deuxième partie de la disposition ne s'applique pas non plus puisque les apports de capital faits par les actionnaires n'étaient pas une condition de l'obtention d'un droit d'adhésion à l'appelante.
+20. L'appelante est une société par actions. Elle fait valoir qu'elle n'a pas de « membres » , mais des actionnaires. En outre, si les actionnaires doivent être considérés comme des « membres » - ce à quoi s'oppose l'appelante - il ne fait aucun doute qu'ils étaient déjà des membres avant les années en question. Par conséquent, les apports de capital faits dans les années 1998, 1999 et 2000 n'étaient pas une condition de l'obtention d'un droit d'adhésion ou du droit d'acquérir un tel droit, contrairement à ce qu'exige la deuxième partie de l'article 140.
+21. L'appelante soutient que, pour savoir si les actionnaires étaient des « membres » au sens du paragraphe 123(1), il faut déterminer s'ils avaient le « droit » d'obtenir des services fournis par elle ou d'utiliser les installations, lesquels n'étaient pas mis à la disposition de personnes non titulaires d'un tel droit ou, s'ils l'étaient, ne l'étaient pas dans la même mesure ou au même coût.
+22. Selon le Black's Law Dictionary, 6e édition, un « droit » est :
+[TRADUCTION]
+Un intérêt ou un titre relatif à un objet ou à un bien, permettant notamment à une personne de le détenir, de l'utiliser, de le transférer, d'en faire don ou d'en jouir légalement, à sa convenance.
+Une réclamation légalement exécutoire contre une autre personne selon laquelle cette dernière est tenue d'exécuter ou de ne pas exécuter un acte donné.
+23. Il faut, pour savoir si un tel « droit » existait, examiner la preuve documentaire pertinente. Le fait que, selon une pratique de l'appelante, chaque actionnaire utilisait les installations une semaine par année ne signifie pas que les actionnaires avaient un droit légalement exécutoire de le faire. L'appelante soutient qu'une pratique est clairement différente d'un droit légalement exécutoire.
+24. L'appelante prétend que ses documents constitutifs, ses règlements administratifs et la convention unanime des actionnaires sont pertinents aux fins de la détermination des droits des actionnaires. Or, aucun des ces documents n'indique que les actionnaires ont le droit d'obtenir des services fournis par l'appelante ou d'utiliser les installations. En outre, il n'est indiqué nulle part que les actionnaires ont le droit de payer moins que les non-actionnaires pour obtenir les services de l'appelante ou pour utiliser les installations.
+25. Dans Riverside Country Club c. Canada, [2002] A.C.I. no 424, la Cour a examiné l'article 140 et la définition de « droit d'adhésion » du paragraphe 123(1) de la Loi au regard de certains membres d'un club de golf qui avaient consenti un prêt au club afin que celui-ci apporte des améliorations à ses immobilisations. Le prêt s'ajoutait à la cotisation du membre. Le juge suppléant Rowe a mentionné ce qui suit au paragraphe 11 :
+Il est évident que le prêt, soit le terme utilisé par l'appelante, ou le paiement forfaitaire, soit l'expression privilégiée par l'avocate de l'intimée, ne représentait pas une action, une obligation ou un autre titre; même si tel était le cas, la preuve indique clairement que l'exercice de l'option de prêt n'était pas une condition de l'obtention de l'adhésion ou du droit d'adhésion au Club.
+26. L'appelante soutient qu'il en est tout autant en l'espèce. Les actionnaires n'ont pas reçu d'actions en échange de leurs apports de capital, et ceux-ci n'étaient pas une condition de l'obtention du droit d'adhésion à l'appelante.
+27. L'appelante affirme de plus que l'intimée n'a pas expliqué ce qu'est une « fourniture taxable » ou comment elle en arrive à la conclusion que la fourniture d'un droit d'adhésion est taxable. La thèse de l'intimée telle qu'elle la comprend est la suivante :
+· les apports de capital sont réputés constituer la contrepartie de la fourniture d'un droit d'adhésion visée à l'article 140 de la Loi;
+· les actionnaires ayant reçu une « fourniture taxable » , ils doivent payer la taxe conformément au paragraphe 165(1) de la Loi;
+· l'appelante ayant effectué une « fourniture taxable » , elle doit percevoir la taxe en question conformément au paragraphe 221(1) de la Loi.
+28. L'intimée n'a pas établi de lien entre les hypothèses du ministre et la « fourniture taxable » . En conséquence, l'appelante fait valoir que son appel devrait être accueilli.
+[6] L'avocate a ajouté que, même s'il y avait un droit d'adhésion, il faut se demander si celui-ci est taxable. La question à se poser devrait donc être la suivante : [TRADUCTION] « S'agissait-il d'une « fourniture taxable » ? »
+Prétentions de l'intimée
+[7] L'avocat de l'intimée a prétendu que le droit des actionnaires d'utiliser le camp de pêche était un « droit d'adhésion » au sens du paragraphe 123(1) de la Loi. Selon lui, les actionnaires avaient l'obligation de faire des apports de capital et le statut d'actionnaire était une condition du droit d'utiliser le camp de pêche. Par conséquent, les apports de capital sont réputés constituer la contrepartie de la fourniture du droit d'adhésion visée à l'article 140 de la Loi. L'avocat de l'intimée a prétendu en outre que la fourniture du droit d'adhésion est taxable en vertu de l'article 165 de la Loi.
+[8] Dans sa plaidoirie devant la Cour, l'avocat a dit que les membres de Sutter Salmon Club Ltd. avaient le droit d'utiliser le camp pendant les meilleures périodes de l'année lorsqu'ils le voulaient, alors que les non-membres n'avaient pas ce droit et ne pouvaient utiliser le camp que pendant les périodes qui n'avaient pas été choisies par les membres.
+[9] Il a dit que les actionnaires avaient ce droit en vertu des documents constitutifs de la société. En fait, les actionnaires versaient des capitaux afin d'avoir le droit de choisir. Pourquoi, s'ils n'avaient pas ce droit, verseraient-ils de l'argent?
+[10] Pour quelle autre raison feraient-ils des apports de capital? L'avocat a dû reconnaître que rien n'était prévu à cet effet dans les documents constitutifs de la société ou dans une entente, mais qu'il s'agissait d'une pratique de la société. Il a rappelé les présomptions contenues à l'alinéa 5p) de la réponse :
+[TRADUCTION] le camp était loué à des tiers aux tarifs du marché quand il n'était pas utilisé par les actionnaires;
+et à l'alinéa r) :
+[TRADUCTION] l'appelante avait pour raison d'être d'offrir des avantages récréatifs à ses actionnaires en leur permettant d'utiliser le camp de pêche;
+Il a dit que ces présomptions n'ont pas été réfutées. Il a rappelé l'article 5 de la convention unanime des actionnaires, qui traite du versement de fonds additionnels. Cette disposition prévoyait :
+[TRADUCTION]
+5.1 Les actionnaires conviennent qu'ils devront effectuer des contributions additionnelles au fonds d'administration ou au fonds d'investissement ou apporter toute autre aide financière nécessaires pour répondre aux besoins de la société en proportion de leur participation actuelle dans la société.
+5.2 Si un actionnaire omet d'apporter les fonds ou l'aide financière dont la société a besoin, la participation en actions ordinaires de celle-ci sera diluée proportionnellement en faveur des autres actionnaires qui auront satisfait à leur obligation à cet égard; cette dilution sera fondée sur une comparaison du montant total de l'aide sous forme de sûretés et de prêts consentis à la société par chaque actionnaire.
+[11] Ce mécanisme devait inciter les actionnaires à continuer d'effectuer des apports de capital, à défaut de quoi leur participation serait diluée.
+[12] Les actionnaires étaient ainsi encouragés à faire leurs apports de capital s'ils voulaient toujours avoir le droit d'utiliser le camp de manière préférentielle.
+[13] Si les actionnaires ne continuaient pas de verser leurs capitaux, ils risquaient de perdre leur statut de membre et de ne plus pouvoir utiliser le camp moyennant un droit annuel.
+[14] Les apports de capital en question étaient en fait une cotisation déguisée. Les actionnaires n'auraient pas versé ces capitaux uniquement pour pouvoir exercer des droits à une réunion. L'avocat a fait également référence au paragraphe 1.1 de la convention unanime des actionnaires, intitulé [TRADUCTION] « Dispositions administratives et générales » , qui conférait à chaque actionnaire le droit d'être administrateur ou de désigner un administrateur.
+[15] Dans sa réplique, l'avocate de l'appelante a dit que, si les actionnaires ne continuaient pas à faire leurs apports de capital, ils perdraient leur pouvoir, mais en partie seulement puisqu'ils seraient toujours actionnaires.
+[16] Elle a aussi laissé entendre que d'autres raisons que celle invoquée par l'avocat de l'intimée pouvaient inciter une personne à investir dans la société. Cette personne pouvait, par exemple, vouloir obtenir des dividendes ou une part des profits si le bien était vendu.
+[17] Elle a aussi indiqué que le fait qu'aucune action n'a été émise pendant les années en cause était important. Rien n'ayant été émis en contrepartie des apports de capital, aucune taxe ne devrait être payable. L'avocate a fait référence à la première partie de l'article 140 de la Loi à cet égard.
+Analyse et décision
+[18] Les dispositions suivantes de la Loi s'appliquent en l'espèce :
+la définition de « droit d'adhésion » du paragraphe 123(1) de la Loi :
+Est assimilé au droit d'adhésion le droit conféré par une personne par lequel le titulaire du droit peut obtenir des services fournis par la personne ou faire usage d'installations gérées par elle, lesquels ne sont pas mis à la disposition de personnes non titulaires d'un tel droit ou, s'ils le sont, ne le sont pas dans la même mesure ou au même coût. Y est également assimilé un tel droit dont l'obtention requiert qu'une personne soit propriétaire ou acquéreur d'une action, d'une obligation ou d'un autre titre.
+l'article 140 :
+Pour l'application de la présente partie, la fourniture d'un titre -action, obligation ou autre titre, sauf une part du capital social d'une caisse de crédit ou d'une coopérative autre que celle dont le principal objet consiste à offrir des installations pour les repas, les loisirs ou les sports, - qui fait partie du capital ou des créances d'une organisation est réputée être la fourniture d'un droit d'adhésion, et non la fourniture d'un service financier, dans le cas où l'obtention, par l'acquéreur de la fourniture ou par une autre personne, d'un droit d'adhésion à l'organisation ou à une autre organisation qui lui est liée, ou du droit d'acquérir un tel droit, requiert que l'acquéreur soit propriétaire du titre.
+le paragraphe 165(1) :
+Sous réserve des autres dispositions de la présente partie, l'acquéreur d'une fourniture taxable effectuée au Canada est tenu de payer à Sa Majesté du chef du Canada une taxe calculée au taux de 7 % sur la valeur de la contrepartie de la fourniture.
+le paragraphe 221(1) :
+La personne qui effectue une fourniture taxable doit, à titre de mandataire de Sa Majesté du chef du Canada, percevoir la taxe payable par l'acquéreur en vertu de la section II.
+[19] L'appelante n'est assujettie à la taxe pour les années en question que si elle a effectué une « fourniture taxable » . Selon l'intimée, la fourniture taxable était le droit d'adhésion et le coût de celui-ci correspondait aux apports de capital faits au cours des années en question. Toujours selon l'intimée, ces apports de capital devraient être réputés constituer la contrepartie de la fourniture du droit d'adhésion visée à l'article 140 de la Loi. En effet, les apports de capital ont été faits dans le but d'obtenir un droit. Les non-membres ne disposaient pas de ce droit, ou n'en disposaient pas dans la même mesure ou au même coût que les membres. Le droit en question permettait aux membres d'utiliser en priorité les installations au moment où ils le voulaient. Les bailleurs de fonds étaient ainsi visés par la définition de « droit d'adhésion » figurant au paragraphe 123(1) de la Loi.
+[20] En d'autres termes, ce qu'on a appelé des apports de capital était en fait des frais d'adhésion. Si les bailleurs de fonds cessaient de payer (apports de capital ou frais d'adhésion), ils pouvaient perdre leur statut de membre et le droit d'utiliser le camp au moment de leur choix en contrepartie du droit annuel. Ce mécanisme n'avait qu'un seul but : inciter les membres à faire leurs apports de capital.
+[21] Il fallait faire les apports de capital pour être actionnaire et il fallait être actionnaire pour avoir le droit d'utiliser le camp de pêche. En conséquence, les apports de capital sont réputés constituer la contrepartie de la fourniture d'un droit d'adhésion visée à l'article 140.
+[22] Toutefois, la taxe n'est payable que s'il y a une fourniture taxable. L'avocat de l'intimée a présumé que la fourniture d'un droit d'adhésion était une fourniture taxable. L'avocate de l'appelante n'est pas de cet avis, et elle fait valoir que la réponse de l'intimée ne contient aucun fait ou présomption permettant à la Cour de conclure qu'il s'agissait d'une fourniture taxable.
+[23] La Cour est convaincue que, si le contribuable a obtenu un droit d'adhésion en contrepartie des apports de capital, ce droit d'adhésion est une fourniture taxable, à moins que l'on prouve qu'il s'agit plutôt d'une fourniture exonérée ou détaxée. La Cour conclurait qu'il s'agit d'une fourniture taxable si elle était convaincue que ce que les contribuables ont reçu en contrepartie de leurs apports de capital dans les années en question équivalait à un droit d'adhésion visé à l'article 140 ou au paragraphe 123(1).
+[24] L'intimée a un peu de difficulté à convaincre la Cour à cet égard parce qu'il faut, pour que l'article 140 s'applique, qu'il y ait eu « la fourniture d'un titre - action, obligation ou autre titre » . Il semblerait raisonnable de conclure qu'une contrepartie doit avoir été payée pour la fourniture de cette action et que cette contrepartie, sur laquelle la taxe s'appliquerait, doit avoir été le montant des apports de capital.
+[25] Il est admis qu'aucune action n'a été émise par l'appelante en contrepartie des apports de capital faits par les actionnaires pendant les années en question. En conséquence, la Cour ne voit pas de quelle façon la première partie de l'article 140 a été respectée en l'espèce.
+[26] En outre, la Cour convient avec l'avocate de l'appelante que les deux parties de l'article 140 sont conjonctives, de sorte que l'intimée ne peut avoir gain de cause si l'une ou l'autre de ces parties n'est pas respectée.
+[27] De toute façon, la Cour est convaincue que la deuxième partie de l'article 140 ne s'applique pas parce que rien n'indique que les apports de capital des actionnaires étaient une condition de l'obtention d'un droit d'adhésion à l'appelante.
+[28] De plus, la preuve présentée à la Cour ne démontre pas que ces bailleurs de fonds étaient considérés comme des membres. En fait, ils ont toujours été considérés comme des actionnaires. S'ils étaient des membres, ils l'étaient avant les années en question. Dans ce cas, les apports de capital faits en 1998, en 1999 et en 2000 n'étaient pas une condition de l'obtention d'un droit d'adhésion ou du droit d'obtenir un tel droit, contrairement à ce qu'exige la deuxième partie de l'article 140.
+[29] La définition de « droit d'adhésion » figurant au paragraphe 123(1) de la Loi complique davantage la thèse de l'intimée. Comme l'avocate de l'appelante l'a fait valoir, rien dans la preuve n'indiquait que les bailleurs de fonds avaient le « droit » d'obtenir des services fournis par l'appelante ou d'utiliser les installations, lesquels n'étaient pas mis à la disposition de personnes non titulaires d'un tel droit ou, s'ils l'étaient, ne l'étaient pas dans la même mesure ou au même coût, contrairement à ce qu'exige la disposition. Tout ce qu'on peut dire, c'est qu'il existait une pratique permettant à chacun des actionnaires d'utiliser les installations pendant une semaine par année (de toute évidence en priorité sur les non-actionnaires). Mais il n'y a rien dans les documents constitutifs de la société ou dans la convention unanime des actionnaires qui convainc la Cour qu'une telle pratique équivalait à un [TRADUCTION] « droit légalement exécutoire » .
+[30] Dans Riverside Country Club c. Canada, [2001] A.C.I. no 424, le juge suppléant Rowe a examiné l'article 140 et a conclu qu'un paiement forfaitaire ou un prêt n'était pas une action, une obligation ou un autre titre visé au paragraphe 123(1) de la Loi et que, même si c'était le cas, l'exercice de l'option de prêt n'était pas une condition de l'obtention d'un droit d'adhésion au club ou du droit d'acquérir un tel droit.
+[31] Cette affaire est semblable à l'affaire dont la Cour est saisie en l'espèce puisque la Cour est convaincue que les actionnaires n'ont pas reçu d'actions en échange de leurs apports de capital et que, bien que le versement ou le non-versement de ceux-ci comportât des répercussions financières pour les actionnaires, les apports de capital ne constituaient pas une condition de l'obtention du droit d'adhésion à l'appelante, et ce, même si la Cour conclurait qu'ils avaient acquis un tel droit. Ce droit d'adhésion existait avant les années en question.
+[32] Par conséquent, l'appel sera accueilli, avec dépens. Les trois questions en litige reçoivent des réponses négatives, et l'affaire est renvoyée au ministre pour qu'il l'examine de nouveau et établisse une nouvelle cotisation en tenant compte du fait que les apports de capital ne sont pas assujettis à la taxe de vente harmonisée (la « TVH » ).
+Signé à New Glasgow (Nouvelle-Écosse), ce 8e jour de juillet 2004.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+Suzanne M. Gauthier, trad. a., LL.L.
+RÉFÉRENCE :
+2004CCI443
+NUMÉRO DU DOSSIER
+DE LA COUR :
+2002-4404(GST)G
+INTITULÉ :
+Sutter Salmon Club Ltd. c. La Reine
+LIEU DE L'AUDIENCE :
+Saint John (Nouveau-Brunswick)
+DATE DE L'AUDIENCE :
+Le 20 mai 2004
+MOTIFS DU JUGEMENT :
+L'honorable juge T. E. Margeson
+DATE DU JUGEMENT :
+Le 8 juillet 2004
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Nicole L. Gallant
+Avocat de l'intimée :
+Me Marcel Prevost
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me Nicole L. Gallant
+Cabinet :
+Patterson Palmer
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

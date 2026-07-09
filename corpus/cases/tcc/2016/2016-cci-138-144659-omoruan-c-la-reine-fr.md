@@ -1,0 +1,168 @@
+---
+title: "Omoruan c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/144659/index.do"
+last_modified: "2016-06-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 138"
+citation2: ""
+neutral_citation: "2016 CCI 138"
+decision_date: "2016-06-01"
+language: "fr"
+item_id: "144659"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3095
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:00:56.714000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "da8f524fcd7e126b8f5a7029334e994ec48f58faf94512f9628ef701f99f6c01"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Omoruan c. La Reine
+
+- Citation: 2016 CCI 138
+- Decision date: 2016-06-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3095, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Omoruan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-06-01
+Référence neutre
+2016 CCI 138
+Numéro de dossier
+2015-4814(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-4814(IT)I
+ENTRE :
+MILLY OMORUAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appels entendus le 20 mai 2016 à Toronto (Ontario)
+Par : L’honorable juge Campbell J. Miller
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Peter Swanstrom
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004, 2005 et 2006 sont rejetés.
+Signé à Ottawa, Canada, ce 1er jour de juin 2016.
+« Campbell J. Miller »
+Juge C. Miller
+Référence : 2016 CCI 138
+Date : 20160601
+Dossier : 2015-4814(IT)I
+ENTRE :
+MILLY OMORUAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Juge C. Miller
+[1] Mme Milly Omoruan demande des crédits pour des dons de bienfaisance de 9 533 $, 15 700 $, 12 360 $ et 8 033 $, pour les années d’imposition 2003, 2004, 2005 et 2006, respectivement.
+[2] Mme Omoruan et son mari ont tous deux témoigné. Ils ont quitté le Royaume-Uni pour venir s’établir au Canada en 1998. Dans son témoignage, Mme Omoruan a indiqué qu’elle était membre de l’Église apostolique en Angleterre et qu’elle avait essayé de trouver cette église au Canada. N’y parvenant pas, elle était devenue membre de Redemption Power International Ministry en 2003 et l’est demeurée jusqu’en 2004. Au procès, elle a expliqué qu’elle avait quitté l’organisme parce qu’elle n’aimait pas la façon dont le pasteur animait le service religieux. Toutefois, dans une lettre envoyée à l’Agence du revenu du Canada (« ARC ») en 2013, elle a informé celle-ci qu’elle avait quitté Redemption Power International Ministry parce qu’elle était préoccupée par la manière dont le pasteur, dont elle ne se souvient pas du nom, gérait les finances. De plus, elle soutient que ce n’est que sept ans après son arrivée au Canada, soit en 2004, qu’elle a pu trouver une section de l’Église apostolique. Elle a précisé avoir fait des dons en espèces à Redemption Power International Ministry, à savoir 7 500 $ en 2003 et 7 165 $ en 2004. Elle a consulté M. Olaheinde pour la préparation de ses déclarations de revenus pour les années 2003 et 2004. En effet, elle connaissait des membres de l’Église qui avaient fait appel à M. Olaheinde, qui a préparé ses déclarations de revenus. Elle a examiné les déclarations avec lui avant de les signer. Elle a déclaré avoir fourni à M. Olaheinde un feuillet T4 et les reçus qu’elle a obtenus des églises.
+[3] Mme Omoruan a aussi déclaré avoir fait un don de 2 500 $ à Celestial Church of Christ en 2003, et un don de 8 535 $ en 2004. Celestial Church of Christ est une église où son mari était évangéliste; en sa qualité de responsable, il était un membre respecté. Mme Omoruan et son mari soutiennent que celle-ci se rendait à l’occasion à Celestial Church of Christ, même s’il ne s’agissait pas de son église.
+[4] Selon M. et Mme Omoruan, les dons faits à ces deux œuvres de bienfaisance (Redemption Power International Ministry et Celestial Church of Christ) en 2003 et en 2004 ont été faits en espèces tout au long de l’année, et non sous forme de paiement forfaitaire. Mme Omoruan a également affirmé que son argent était celui de son mari, et vice versa. Étant donné que M. Omoruan était étudiant, c’était à Mme Omoruan de déclarer le don puisqu’elle avait touché le revenu le plus élevé, soit environ 54 000 $, en 2004.
+[5] Pour les années qui ont précédé 2003, Mme Omoruan ne se rappelait pas le montant qu’elle avait déclaré lorsqu’on lui a soutenu qu’il n’était pas très élevé. En ce qui concerne les années 2008 à 2013, elle s’est montrée évasive dans sa réponse quand on lui a demandé si elle pouvait confirmer qu’elle avait seulement déclaré des dons de bienfaisance de 500 $ pour toutes ces années.
+[6] Pour 2005 et 2006, Mme Omoruan a déclaré avoir fait des dons respectifs de 6 150 $ et 4 468 $ à son église, l’Église apostolique internationale du Canada. Elle a ajouté qu’elle avait donné des biens (vêtements, jouets et chaussures) à la Hope Economic Relief Organization (« HERO »), une organisation dont le président, M. Williams, était membre de son église. M. Omoruan a indiqué que les vêtements et les chaussures donnés étaient principalement des biens usagés appartenant à sa femme. Par exemple, en ce qui concerne les chaussures, il a soutenu qu’elles ne lui allaient tout simplement plus. Il n’a pas pu déterminer la nature des jouets donnés. Dans son témoignage, Mme Omoruan a ajouté qu’elle avait recueilli une partie des biens auprès de ses collègues.
+[7] HERO a fourni deux lettres datées du 12 décembre 2007, signées par M. Williams. Les lettres décrivent simplement les dons en nature, soit une grande quantité de chemises, de chemisiers, de chaussures, de baskets, de vêtements pour enfants, de vêtements assortis et de jouets, en plus d’en préciser la valeur. Par exemple, pour ce qui est des chaussures, HERO a indiqué que, pour les deux années, un don de 100 chaussures pour femmes avait été fait. Selon M. Omoruan il s’agissait de 100 paires de chaussures. HERO a évalué les chaussures à 25 $, 15,10 $ ou 30 $ la paire.
+[8] Les Omoruan n’ont pas fourni de relevés bancaires démontrant des retraits susceptibles de concorder avec les dons qui, selon eux, ont été faits tout au long de l’année. Leurs réponses aux questions qui leur ont été posées au cours du contre‑interrogatoire étaient évasives et défensives.
+[9] Les reçus suivants ont été présentés lors du procès :
+- reçu du Redemption Power International Ministry pour un don de 7 500 $ fait durant l’année ayant pris fin le 31 décembre 2003;
+- reçu de Celestial Church of Christ daté du 10 février 2004 pour un don de 2 000 $;
+- reçu du Redemption Power International Ministry pour un don de 7 165 $ fait durant l’année ayant pris fin le 31 décembre 2004;
+- reçu de Celestial Church of Christ daté du 15 janvier 2005 pour un don de 8 535 $;
+- reçu de l’Église apostolique internationale pour un don de 6 150 $ fait durant l’année ayant pris fin le 31 décembre 2005;
+- reçu de HERO pour un don de 6 210 $ fait durant l’année ayant pris fin le 31 décembre 2005;
+- reçu de HERO daté de décembre 2006 pour un don de 8 565 $ fait durant l’année ayant pris fin le 31 décembre 2006;
+- reçu de l’Église apostolique internationale non daté pour un don de 4 467,92 $.
+[10] Mme Omoruan a fait l’objet d’avis de nouvelle cotisation concomitants datés du 10 décembre 2007 pour les années d’imposition 2003, 2004, 2005 et 2006. Le ministre du Revenu national (le « ministre ») a refusé tous les montants des dons de bienfaisance qui avaient précédemment été approuvés. Le ministre a confirmé les nouvelles cotisations au moyen d’un avis de confirmation daté du 6 août 2015.
+[11] Le statut enregistré d’organisme de bienfaisance de Redemption Power International Ministry a fait l’objet d’une révocation motivée le 12 mai 2007. Celui de Celestial Church of Christ a également fait l’objet d’une révocation motivée le 26 janvier 2008. Enfin, celui de HERO a aussi fait l’objet d’une révocation motivée le 29 décembre 2007.
+[12] Deux questions sont soulevées dans les présents appels :
+1) Mme Omoruan a-t-elle fait des dons de bienfaisance s’élevant aux montants déclarés, lui donnant droit à des crédits?
+2) Le ministre peut-il établir une cotisation pour l’année d’imposition 2003, étant donné que la cotisation était établie après la période de prescription de trois ans?
+[13] L’intimée a présenté deux arguments pour conclure que Mme Omoruan n’était pas admissible aux crédits demandés. D’abord, les éléments de preuve font valoir que Mme Omoruan n’a jamais fait les dons qu’elle a déclarés. Ensuite, les reçus fournis étaient incomplets. Il est inutile pour moi de me pencher sur le deuxième argument puisque j’ai conclu que Mme Omoruan n’a pas fait les dons déclarés.
+[14] Les facteurs suivants m’ont amené à conclure que le récit de M. et Mme Omoruan n’est tout simplement pas crédible :
+- l’attitude défensive et évasive de M. et Mme Omoruan lorsqu’ils ont répondu aux questions lors du contre-interrogatoire;
+- l’écart entre les années en question et les années d’après et d’avant relativement aux montants des dons;
+- l’allégation selon laquelle Mme Omoruan a donné 100 paires de chaussures usagées en deux ans;
+- l’importance des dons présumés par rapport au revenu de Mme Omoruan;
+- l’absence d’évaluation indépendante des biens qui auraient été donnés;
+- l’absence de relevés bancaires (à ce sujet, je tire une conclusion défavorable selon laquelle de tels relevés n’auraient pas aidé M. et Mme Omoruan)[1];
+- le récit différent qu’a présenté Mme Omoruan au procès par rapport à sa lettre précédente expliquant pourquoi elle avait quitté Redemption Power International Ministry;
+- l’incapacité à se souvenir du nom d’un pasteur;
+- l’incapacité à décrire les jouets donnés;
+- le don important qu’aurait fait Mme Omoruan à une église dont elle n’était pas membre, alors qu’elle a déclaré, d’une part, qu’elle ne se rendait pas à l’église régulièrement, et d’autre part, qu’il s’agissait d’un don fait sous forme de petits montants tout au long de l’année.
+[15] Je ne crois tout simplement pas le récit de M. et Mme Omoruan. Ils n’ont pas prouvé, selon la prépondérance des probabilités, que Mme Omoruan a bel et bien fait les dons qu’elle prétend avoir faits. Mme Omoruan n’a droit à aucun crédit.
+[16] Puisque le ministre a établi une cotisation à l’égard de l’année d’imposition 2003 de Mme Omoruan après l’expiration de la période normale de nouvelle cotisation, il doit se fonder sur le paragraphe 152(4) de la Loi de l’impôt sur le revenu (la « Loi ») pour valider la nouvelle cotisation. Le paragraphe 152(4) de la Loi est libellé comme suit :
+Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenus pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+(ii) soit a présenté au ministre une renonciation, selon le formulaire prescrit, au cours de la période normale de nouvelle cotisation applicable au contribuable pour l’année.
+[17] Par conséquent, il y a deux questions à trancher concernant la déclaration de revenus de 2003 de Mme Omoruan :
+1) Une fausse déclaration a-t-elle été faite?
+2) Le cas échéant, cette déclaration était-elle attribuable à une négligence, à une inattention ou à une omission volontaire?
+[18] Il y a certainement eu fausse déclaration. Mme Omoruan a déclaré des dons s’élevant à des montants qu’elle n’a pas donnés. Je conclus qu’elle savait, ou qu’elle aurait assurément dû savoir, qu’un montant de 9 500 $ en 2003, dépassait largement tout don en espèces ayant été fait, le cas échéant. Mme Omoruan a examiné ses déclarations de revenus qui avaient été préparées par M. Olaheinde avant qu’elle les signe. Elle ne s’est fiée qu’aux reçus fournis par deux églises, sans mettre en doute les montants importants. C’était plus que de la simple insouciance. À tout le moins, Mme Omoruan s’est montrée négligente lorsqu’elle a signé une déclaration de revenus en sachant que les montants indiqués sur les reçus étaient supérieurs aux dons réellement faits.
+[19] Le ministre était en droit de se fonder sur le paragraphe 152(4) de la Loi pour établir une nouvelle cotisation après la période normale. Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 1er jour de juin 2016.
+« Campbell J. Miller »
+Juge C. Miller
+RÉFÉRENCE :
+2016 CCI 138
+No DU DOSSIER DE LA COUR :
+2015-4814(IT)I
+INTITULÉ :
+MILLY OMORUAN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 20 mai 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 1er juin 2016
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Peter Swanstrom
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Se reporter aux commentaires formulés par notre Cour dans les arrêts Afovia c. La Reine, 2012 CCI 391, et Patel c. La Reine, 2011 CCI 555.

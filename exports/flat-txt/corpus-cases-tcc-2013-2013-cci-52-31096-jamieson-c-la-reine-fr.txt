@@ -1,0 +1,130 @@
+Title: Jamieson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31096/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-52-31096-jamieson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-02-18
+
+# Jamieson c. La Reine
+
+- Citation: 2013 CCI 52
+- Decision date: 2013-02-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4682, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jamieson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-02-18
+Référence neutre
+2013 CCI 52
+Numéro de dossier
+2011-3994(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3994(IT)I
+ENTRE :
+WILLIAM DAVID JAMIESON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 9 janvier 2013, à Fredericton (Nouveau-Brunswick)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Jan Jensen
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009 est rejeté.
+Signé à Ottawa, Canada, ce 18e jour de février 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 25e jour de mars 2013.
+M.-C. Gervais
+Référence : 2013CCI52
+Date : 20130218
+Dossier : 2011-3994(IT)I
+ENTRE :
+WILLIAM DAVID JAMIESON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] L’appelant interjette appel de la nouvelle cotisation établie relativement à son année d’imposition 2009, dans laquelle le ministre du Revenu national (le « ministre ») a refusé les dépenses suivantes, qui s’élèvent à 8 242 $ :
+Dépenses
+Montant
+Cours de formation juridique permanente
+1 741 $
+Déplacement
+5 697
+Repas
+238
+Bureau
+171
+Fournitures
+83
+Téléphone
+312
+Total
+8 242 $
+[2] Dans sa déclaration de revenus pour 2009, l’appelant a déclaré n’avoir gagné aucun revenu d’entreprise et a déduit des dépenses d’entreprise de 10 520 $. Une déduction de 2 278 $ lui a été accordée pour des cotisations à une association professionnelle. Au stade de la vérification de l’appel, l’appelant a présenté un reçu additionnel et une déduction supplémentaire de 228 $ lui a été accordée pour des cotisations à une association professionnelle, de sorte qu’une déduction totale de 2 506 $ lui a été accordée pour des cotisations à une association professionnelle.
+[3] L’appelant est avocat et membre des barreaux de l’Ohio, de New York et du Massachusetts, depuis 1969. Il a été embauché par J.D. Irving Limited (« J.D. Irving ») en décembre 1979; et, en 2009, il était vice-président administratif de J.D. Irving et secrétaire général de plusieurs sociétés affiliées de J.D. Irving.
+[4] L’appelant explique qu’il était obligé de suivre au moins douze heures de cours de formation juridique permanente (« FJP ») pour conserver son accréditation professionnelle d’avocat; en 2009, il a pu suivre de tels cours à l’occasion des réunions tenues par l’Association du Barreau américain à Chicago et à Vancouver.
+[5] En ce qui a trait à ses frais de déplacement et de repas, l’appelant prétend les avoir payés pour suivre des cours de FJP et assister à des réunions du National Council de la Moritz Law School de l’Université de l’État de l’Ohio, à Colombus (Ohio) (le « National Council de Moritz »). Il allègue être obligé, en tant que membre du barreau, de fournir des services à titre bénévole pour soutenir la profession. Son appartenance au National Council de Moritz lui permet de s’acquitter de cette obligation. L’appelant soutient que les frais afférents à sa présence aux réunions du National Council de Moritz étaient des dépenses d’entreprise, mais que, si je n’étais pas d’accord, ils devraient alors être admis à titre de dons de bienfaisance à une université visée par règlement.
+[6] La position de l’appelant est qu’il était une personne dont l’entreprise consistait à pratiquer le droit et qu’il gagnait des honoraires en sa qualité d’avocat pour ses services d’administrateur dans divers conseils d’administration, et de fiduciaire, dans plusieurs fiducies. En 2009, il a gagné des honoraires en sa qualité d’administrateur dans le conseil d’administration de J.D. Irving et de deux sociétés affiliées. Il affirme avoir reçu et déclaré, en 2010 et en 2011, des revenus d’entreprise pour ses services de fiduciaire de la fiducie testamentaire Susan E. Quagliata. Dans ses arguments verbaux, l’appelant a fait valoir que le paragraphe 53 de l’arrêt Stewart c. R., 2002 CSC 46, résumait sa position. Sur ce fondement, il fait valoir qu’il avait un [traduction] « cabinet d’avocat » et qu’on ne devrait même pas mettre en question le fait que son [traduction] « cabinet d’avocat » constituait une source de revenus. Le paragraphe 53 de l’arrêt Stewart est rédigé ainsi :
+53 Nous soulignons que ce critère de l’existence d’une source « en vue de réaliser un profit » ne doit faire l’objet d’une analyse que dans les situations où l’activité en cause comporte un aspect personnel ou récréatif. En toute déférence, nous estimons que les tribunaux ont commis une erreur, dans le passé, en appliquant le critère de l’ERP à des activités comme l’exercice du droit et la restauration qui ne comportent aucun aspect personnel de cette nature : voir, par exemple, Landry, précité; Sirois, précité; Engler c. Canada, [1994] A.C.F. no 483 (QL) (1re inst.). Lorsqu’une activité est clairement de nature commerciale, il n’est pas nécessaire d’analyser les décisions commerciales du contribuable. De telles démarches comportent nécessairement la recherche d’un profit. Il existe donc par définition une source de revenu et il n’est pas nécessaire de pousser l’examen plus loin.
+[7] L’intimée soutient qu’en 2009, l’appelant était un employé de J.D. Irving et qu’à ce titre, il ne pouvait que déduire les dépenses déductibles en vertu de l’article 8 de la Loi de l’impôt sur le revenu (la « Loi »). L’avocat de l’intimée fait en outre valoir que l’appelant n’avait pas un cabinet d’avocat et qu’il n’a pas tiré un revenu d’une entreprise.
+Analyse
+[8] Avec tout le respect que je dois à l’appelant, le fait d’être avocat ne constitue pas en soi une entreprise. Une personne doit pratiquer le droit dans le contexte d’une entreprise pour pouvoir être considérée comme une personne dont l’entreprise consiste à pratiquer le droit. Aucune preuve ne m’a été présentée qui pourrait me permettre de conclure que l’appelant avait un cabinet d’avocat.
+[9] Les postes que l’appelant occupait à titre d’administrateur étaient des charges. Le paragraphe 248(1) de la Loi définit clairement une charge comme comprenant « le poste d’administrateur de société » et un fonctionnaire ou cadre est une personne détenant une telle charge. Les fonctionnaires et les cadres sont des employés. Les allocations de présence que l’appelant a reçues pour son poste d’administrateur en 2009 ont été considérées comme des revenus tirés d’une charge et ont dûment été incluses dans le T4 qu’il a reçu de J.D. Irving.
+[10] L’appelant n’était pas une personne dont l’entreprise consistait à fournir des services de fiduciaire. Selon la preuve, il a refusé plus d’une fois d’être fiduciaire parce qu’il est très occupé en sa qualité de vice-président administratif et de secrétaire général de J.D. Irving.
+[11] Je note que l’appelant était un fiduciaire de la fiducie testamentaire Susan E. Quagliata et que Susan E. Quagliata était sa belle‑sœur. Je suis d’avis que les honoraires qu’il a reçus en sa qualité de fiduciaire en 2010 et en 2011 constituaient une rémunération provenant d’une charge.
+[12] Comme j’ai conclu qu’en 2009, l’appelant n’avait pas un cabinet d’avocat, mais qu’il remplissait les charges d’administrateur et de fiduciaire, il ne peut demander que des déductions permises par l’article 8 de la Loi.
+[13] Aucune disposition de l’article 8 ne permet à l’appelant de déduire de ses revenus tirés de ses charges et emplois les coûts de ses cours de FJP et les frais de voyages et de repas y afférents.
+[14] L’appelant a fourni ses services et donné son temps de manière bénévole pour être membre du National Council de Moritz. Il a déclaré qu’il était membre du National Council à titre bénévole. Les frais qu’il a supportés pour fournir ses services à titre bénévole ne sont pas déductibles et ne devraient pas non plus l’être. Les contribuables du Canada ne devraient pas avoir à assumer les frais afférents aux services à titre bénévole de l’appelant. Je souscris au commentaire suivant du juge Campbell Mille, au paragraphe 16 de la décision Furman c. R., 2003 CCI 298 :
+[…] On peut espérer de manière altruiste que les avocats participent à des activités bénévoles, caritatives, sportives ou autres parce qu’ils s’intéressent sincèrement à contribuer à la promotion de ces organismes, que ce soit comme bénévole, comme administrateur, comme entraîneur, comme professeur, peu importe. Suggérer que de telles activités s’inscrivent dans « l’exercice des fonctions de l’emploi d’un avocat » n’est franchement pas la manière dont je voudrais que le public perçoive l’implication sociale d’un avocat.
+[15] En 2011, l’appelant a fait parvenir à l’Agence de revenu du Canada (l’« ARC ») une « Déclaration des conditions de travail » (formulaire T2200) pour l’année d’imposition 2009. Selon le formulaire T2200, l’appelant n’était pas tenu en vertu de son contrat d’emploi d’avoir un bureau hors de l’établissement de son employeur. Il n’était pas obligé d’acheter des fournitures ou de payer pour l’usage d’un téléphone cellulaire. Par conséquent, les frais supportés pour le bureau, les fournitures et le téléphone ne sont pas déductibles.
+[16] Pour tous ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 18e jour de février 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 25e jour de mars 2013.
+M.-C. Gervais
+RÉFÉRENCE : 2013 CCI 52
+NO DU DOSSIER DE LA COUR : 2011-3994(IT)I
+INTITULÉ : WILLIAM DAVID JAMIESON c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Fredericton (Nouveau-Brunswick)
+DATE DE L’AUDIENCE : Le 9 janvier 2013
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 18 février 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Jan Jensen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

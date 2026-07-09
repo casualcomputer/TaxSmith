@@ -1,0 +1,264 @@
+---
+title: "Germain Automobiles Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27532/index.do"
+last_modified: "2005-06-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 339"
+citation2: ""
+neutral_citation: "2005 TCC 339"
+decision_date: "2005-06-28"
+language: "en"
+item_id: "27532"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 93
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:35:46.723000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "481397d97cae26b14f8cfc0f5304c95b30446a6d225f3215f8a08d775192aa8f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Germain Automobiles Inc. v. M.N.R.
+
+- Citation: 2005 TCC 339
+- Decision date: 2005-06-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 93, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Germain Automobiles Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-28
+Neutral citation
+2005 TCC 339
+File numbers
+2005-9(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-9(EI)
+BETWEEN:
+GERMAIN AUTOMOBILES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+PIERRE MOISAN,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 3, 2005, at Québec, Quebec
+Before: The Honourable Judge Alain Tardif
+Appearances:
+Agent for the Appellant:
+Alain Savoie
+Counsel for the Respondent:
+Benoit Mandeville
+Agent for the Intervener:
+Alain Savoie
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed, and the determination made by the Minister of National Revenue on October 1, 2004, for the period from January 1, 2003, to February 10, 2004, is confirmed.
+Signed at Ottawa, Canada, this 28th day of June 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 15th day of February, 2006.
+Garth McLeod, Translator
+Citation: 2005TCC339
+Date: 20050628
+Docket: 2005-9(EI)
+BETWEEN:
+GERMAIN AUTOMOBILES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+PIERRE MOISAN,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a decision by the Minister of National Revenue ("Minister") dated October 1, 2004. The period concerned by the determination is from January 1, 2003, to February 10, 2004. The work in issue was performed by Pierre Moisan for Germain Automobiles Inc.
+[2] The Minister relied on the following assumptions of fact in making his decision:
+[TRANSLATION]
+(a) the Appellant, which was incorporated on January 1, 1993, operates a GM automobile dealership; (admitted)
+(b) the Appellant operates its business year-round and provides work to approximately 30 persons; (admitted)
+(c) the worker rendered services to the Appellant year-round; (admitted)
+(d) the worker's main duties can be summarized as follows: (admitted)
+-director of new vehicle sales;
+-person responsible for new vehicle orders;
+-person responsible for new vehicle inventory;
+-person responsible for five salespersons;
+-performed the general administration of the business;
+-replaced Louis Moisan, his brother, the president of the business, when he was absent;
+(e) the worker is also a shareholder and director of the Appellant and holds the position of vice-president of the business; (admitted)
+(f) the other two shareholders and directors of the Appellant also worked for the Appellant; (admitted)
+(g) the three directors consulted each other every day and made decisions together; (denied)
+(h) they met every month to determine sales objectives and to discuss the Appellant's affairs; (denied)
+(i) the worker used a car provided by the Appellant in the context of his work, and he was reimbursed for his travelling expenses; (admitted)
+(j) like the other employees of the Appellant, the worker had drug insurance and life insurance; (denied as drafted)
+(k) during the period in issue, the worker received fixed weekly remuneration of $1,000; (admitted)
+(l) as an employee of the Appellant, the worker had no risk of loss; (denied as drafted)
+(m) in his work, the worker used all materials and equipment belonging to the Appellant. (admitted)
+6. The Appellant and the payor are related persons within the meaning of the Income Tax Act because:
+(a) the shareholders holding the voting shares of the Appellant were: (admitted)
+- the Appellant, with 40 percent of the shares,
+- Louis Moisan, with 40 percent of the shares,
+- Gilles Jobin, with 20 percent of the shares;
+(b) Louis Moisan is the brother of the Appellant, and Gilles Jobin his brother-in-law; (admitted)
+(c) the Appellant was part of a group that controlled the Appellant. (admitted)
+7. The Minister also determined that the Appellant and the payor were deemed to deal with each other at arm's length in the context of this employment because he was satisfied that it was reasonable to conclude that the Appellant and the payor would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length, having regard to the following circumstances:
+(a) having regard to the position occupied by the worker with the Appellant corporation (sales manager), his responsibilities and his experience, the salary paid to him by the Appellant was reasonable; (denied)
+(b) by the nature of his duties, the worker had leeway in acting with the Appellant, but he had to consult the other shareholders regularly in order to make any important decisions concerning the Appellant's activities; (denied)
+(c) the worker's duties and responsibilities were necessary for the smooth operation of the Appellant's affairs. (denied)
+[3] The agent of the Appellant, Germain Automobiles Inc., and of the Intervener, Pierre Moisan, made a certain number of admissions. The admissions of the assumptions of fact are noted in subparagraphs 5(a), (b), (c), (d), (e), (f), (i), (k) and (m), as well as subparagraphs 6(a), (b) and (c).
+[4] Two assumptions of fact were denied as drafted; they appear in paragraphs 5(j) and (l). The other assumptions that were simply denied are noted in subparagraphs 5(g) and (h), as well as subparagraphs 7(a), (b) and (c).
+[5] In support of the evidence, the burden of proof of which was on the Appellant, the Appellant and the Intervener called as witnesses the corporation's comptroller, Michel Pépin, and the two shareholders who each held 40 percent of the capital stock, that is the Intervener and his brother, Louis Moisan.
+[6] The corporation's economic purpose was the sale of new and used cars and after-sales service. The corporation was a GM automobile dealership. The business employed approximately 35 persons. The evidence also revealed that the corporation had acquired another GM dealership elsewhere.
+[7] The Intervener, Pierre Moisan, had important responsibilities within the business. In particular, he handled new car purchases and sales and all the administration. When he was sworn in, he described himself as the owner of the business.
+[8] He testified that only he, his brother and his brother-in-law, the other two shareholders, signed the cheques. He was covered by an insurance plan paid for by the corporation that provided more generous compensation than the one available to employees who were not shareholders. He explained that he had a great deal of independence in performing his work.
+[9] He could be absent without permission and decide to extend leave originally planned for a few days. As an example, he cited the hunting trip on which he had not been able to kill his game within the time period provided, in which case he was able to decide to extend his hunting trip until fortune smiled on him, even though that was to take a few more days.
+[10] He explained that his work schedule was very flexible and could range from 20 to 70 hours a week during weeks when the business was doing a sales promotion. To explain his numerous absences, he said that he was involved in snowmobiling, a recreational activity in which he invested a great deal of time and money. He also said he was an ardent builder; he devoted a lot of time to building cottages, together with his brothers.
+[11] He also mentioned that he was a shareholder in a real estate company, and he said that he often had to be absent to address various problems related to the renting of apartments, some of which were outdated, which often required him to take action as a result of various breakdowns.
+[12] The corporation's comptroller, Michel Pépin, explained the various aspects of his work. In particular, he explained the kind of relationship that existed between the corporation and the Intervener. During his testimony, he filed the following four exhibits in evidence:
+· proof that the shareholders had personally guaranteed repayment of a $200,000 loan necessary for the activities of the business;
+· a cheque for $7,400 showing that the Intervener had received a loan from the Appellant corporation;
+· a copy of a T4 slip confirming the salaries of the Appellant and the other two shareholders;
+· a copy of the record of the various bonuses that the corporation had paid to its shareholders in 2002, 2003 and 2004.
+[13] Michel Pépin stated in his testimony that the Appellant corporation was a business in which precise rules governed the activities and divisions within the business between natural persons and Germain Automobiles Inc.
+[14] As an example, he explained that Pierre Moisan, the Intervener, held a credit card for business-related expenses. However, if he incurred a personal expense, he was to repay the business.
+[15] Without prior authorization, Pierre Moisan obtained advances of funds, which were recorded as a shareholder loan that he eventually had to repay.
+[16] Mr. Pépin also explained that certain key employees and executives, including himself, had received bonuses over the years based on the profitability of their respective departments.
+[17] The evidence showed that Pierre Moisan had better working conditions than the other employees, in particular that he enjoyed more independence than those who were not shareholders.
+[18] Louis Moisan, the Intervener's brother, who also held 40 percent of the capital stock of the corporation, also testified. He essentially confirmed the various facts and explanations submitted by his brother and by the comptroller.
+[19] The evidence clearly established the following facts with respect to the Intervener, Pierre Moisan:
+· considerable leeway in the way in which the work was done;
+· guiding spirit of the business;
+· considerable flexibility with regard to his work schedule;
+· lack of records or accounting of hours worked;
+· greater social benefits than those of employees who were not shareholders; and
+· bonuses paid to the three shareholders based on the percentage of shares held in the corporation.
+[20] To facilitate a reading of the reasons, I will address the assumptions of fact that were denied or denied as drafted.
+(g) the three directors consulted each other every day and made decisions together; (denied)
+(h) they met every month to determine sales objectives and to discuss the Appellant's affairs; (denied)
+(j) like the other employees of the Appellant, the worker had drug insurance and life insurance; (denied as drafted)
+(l) as an employee of the Appellant, the worker had no risk of loss; (denied as drafted)
+7. The Minister also determined that the Appellant and the payor were deemed to deal with each other at arm's length in the context of this employment because he was satisfied that it was reasonable to conclude that the Appellant and the payor would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length, having regard to the following circumstances:
+(a) having regard to the position occupied by the worker with the Appellant corporation (sales manager), his responsibilities and his experience, the salary paid to him by the Appellant was reasonable;
+(b) by the nature of his duties, the worker had leeway in acting with the Appellant, but he had to consult the other shareholders regularly in order to make any important decisions concerning the Appellant's activities;
+(c) the worker's duties and responsibilities were necessary for the smooth operation of the Appellant's affairs.
+(denied in full)
+[21] With respect to consultation and joint decision-making, the evidence shows that this statement was entirely consistent with the actual situation. The consultation issue was raised a few times, in particular with regard to the decision to pay a bonus each year.
+[22] In addition, there was no clear reply to a question by the Court at the end of Louis Moisan's testimony as to whether the third shareholder had taken part in the various decisions; the witness expressly admitted that the three shareholders had taken part in the corporation's affairs, in particular through consultation and discussion.
+[23] As to insurance, the shareholders, including the Intervener obviously, were covered by a life insurance policy. The other employees of the business also had life insurance, but with narrower coverage.
+[24] As for the risk of loss, which was denied, the evidence did not establish how the Intervener had a risk of loss. I would recall that the determination resulting from the analysis of the case is essentially related to the Intervener's work as a manager, not as a shareholder.
+[25] The question as to whether the salary was reasonable was also raised, and was disputed at subparagraph 7(a).
+[26] With respect to consultation and the leeway allowed in performing the work, the evidence showed that Pierre Moisan enjoyed the esteem, respect and great confidence of the other two shareholders, thus resulting in a harmonious working atmosphere.
+[27] Lastly, with respect to the importance of the Intervener's work and the strategic role he played in the corporation, the evidence leaves no doubt on the subject.
+[28] If the question were essentially whether the assumptions of fact were, on the whole or in large part, consistent with the actual situation, the answer would be a ready yes.
+[29] The only criticism that can be made of the assumptions of fact is that they lack nuance. The person who analyzed the file could have made a constructive contribution through his or her testimony, but the Respondent elected not to call that person as a witness.
+[30] The parties filed an impressive number of decisions from this Court and the Federal Court of Appeal in support of their respective claims.
+[31] All insurability cases stand on their own merits. It is extremely difficult, if not impossible, to find a decision involving identical facts. It is accordingly inappropriate to rely essentially on passages from cases, while completely disregarding their context.
+[32] The insurability of employment is a complex matter. There is no magic formula for determining whether or not an employment is insurable; all the facts must be checked and analyzed to determine whether there is a power of control.
+[33] Although a certain number of tests have been identified in the case law, only one is essential and utterly indispensable, and that is the test of the power of control, which results from a relationship of subordination and which is the cornerstone of a genuine contract of service.
+[34] The traditional approach to deciding whether there is a relationship of subordination between worker and corporation generally consists in determining whether:
+· the hours worked were counted and noted in a record;
+· all the hours worked were paid;
+· the salary paid was reasonable and consistent with the work performed;
+· overtime was paid;
+· absences and vacation had to be authorized;
+· the duration of vacation was consistent with that of similar employments;
+· the work was supervised;
+· independence and flexibility in the performance of the work was the rule; and
+· whether or not the worker could be replaced.
+These are only a few statements; the list could easily be extended.
+[35] At one time, all these factors were common, and it was very easy to identify them. Although this kind of relationship still exists, a number of changes have appeared and continue to appear in the labour market, to the extent that it is becoming increasingly difficult to determine the nature of a contract of employment.
+[36] An increasing number of businesses make their employees accountable. Some even characterize them as associates. Reference is made to joint management, profit-sharing, collaboration, flexibility and so on. In addition to these realities are all the changes brought about by computers.
+[37] In recent years, time clocks have tended to disappear from a number of plants, and employees have much better knowledge of the work to be done than those who employ or manage them.
+[38] Work is often done from the private residence of the worker, who, as a result, is shielded from observation by the payor and from the physical setting of the work place. Some enjoy considerable independence and flexibility, with their employer's consent. Businesses provide all kinds of increasingly numerous and sophisticated arrangements to enable their employees to share in profits.
+[39] In other words, working relationships have evolved, been modernized and adapted to the computer age. Despite numerous and profound changes in the labour relations world, work can still be performed under a contract of service characterized by a relationship of subordination. A relationship of subordination is still the essential factor in assessing the nature of the contract.
+[40] In view of these new realities, the signs of a relationship of subordination are very subtle and very often hard to identify. The provincial assembly of the Province of Quebec has codified the contract of employment, which it has defined as follows:
+2085. A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+[41] Thus, in analyzing an employment relationship, there is no need to seek out actual situations in which an employer has exercised his power of control, thereby clearly establishing the relationship of subordination. It is sufficient for that power of control to exist and for the employer not to have expressly or tacitly waived it. If he has, then no relationship of subordination is obviously possible.
+[42] Neither the investigation that led to the determination nor the evidence adduced has established that the shareholders waived the rights inherent in the shares they held in Germain Automobiles Inc.
+[43] On the contrary, the director Louis Moisan, on the one hand, admitted that he did not object to his brother's borrowing money from the company without telling the other shareholders about it, since he trusted him completely.
+[44] However, he admitted that he could have intervened in cases of abuse. He also admitted that the three shareholder-directors participated in the management of the affairs of the business and consulted one another. In particular, they discussed the amount of the bonuses that were to be awarded at the end of each year.
+[45] When a business is doing well and is well managed, it is not unusual for there to be no formal meetings and for each person to act as though he were the owner of the business. However, that does not mean that, at some point, when a problem arises, measures will not be taken to correct the situation, and then there will be actual signs of authority.
+[46] I would recall that the determination here in appeal also refers to paragraph 5(2)(i) of the Act, which reads as follows:
+5.(2) Insurable employment does not include
+[...]
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+5.(3) Arm's length dealing -- For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[47] The analysis consisting in verifying whether the work is reasonable on the basis of comparisons with similar situations must be based on actually similar facts. Comparing the working conditions of a person who holds shares and occupies a director's position in a corporation with those of a person who holds no shares is an unsatisfactory and invalid approach, despite the fact that a clear distinction must be drawn in the analysis between the status of shareholder and that of worker.
+[48] The matter would be quite different if a comparison were made with another business in which shareholder-directors dealing with each other at arm's length perform work for the corporation in which they hold shares or as co-owners of the business.
+[49] A contract of employment is an expression of the will of the parties to have work performed for remuneration under the direction or control of another natural or legal person.
+[50] In the context of a business corporation, the shareholder-directors of the corporation who have agreed to do work that has nothing to do with the management of corporate affairs, but essentially with activities related to the corporation's economic purpose, can agree with the corporation as to the nature of the work to be performed, the terms and conditions and the method of remuneration, while being subject to the power of control of the corporation in which they hold shares. Such work constitutes a contract of service as a result of the fact that there is a relationship of subordination between them.
+[51] The working conditions may be particular. The method of remuneration may also be particular. However, this does not mean that the work was not performed under a genuine contract of service. When three or more persons decide to invest in a corporation with capital stock and, in addition to their responsibilities as shareholders or directors, work in the corporation as workers at various duties that may range from being ordinary labourers to general manager, there may be a contract of service, even though the working conditions are very particular. It is sufficient that three essential conditions be met: that there be work performed, remuneration and a relationship of subordination.
+[52] Salary may vary to the point where it is not comparable to that paid for similar work, and there may be an independence and freedom of action that are also not comparable, all depending on the objectives adopted by the shareholders acting as a group, as an entity holding the authority that underlies the power of control.
+[53] As noted above, the power of control is a decisive factor, the presence or absence of which makes it possible to characterize the nature of the working relationship between the parties.
+[54] Where the party for whom the work is performed has a power of control and intervention over the person or persons who perform the work, it may be concluded that there is a genuine contract of service.
+[55] In the instant case, the Moisan brothers and their brother-in-law, Gilles Jobin, worked in a harmonious and mutually respectful manner, to the point where, in actual fact, there did not appear to be any separation between the two roles that all three played, as workers performing specific and defined work for the corporation and as shareholder-directors of that same corporation.
+[56] The fact that these two roles merged does not strip Germain Automobiles Inc. of its legal personality.
+[57] The fact that the corporation did not establish formal rules for managing the work performed by natural persons, that is to say its shareholders, does not mean that it waived the opportunity to exercise its power of control.
+[58] Furthermore, the evidence, and the burden of proof that was on the Appellant, did not establish that there was de facto or de jure control by one of the shareholders over the others. Nor was it established that the Intervener had such ascendancy over either of the other two that he had de facto control over more than 40 percent of the shares of the corporation. The comparison of the Intervener's status with that of the Appellant corporation's other employees is irrelevant.
+[59] In conclusion, it appears from the evidence that the person handling the Appellant's case considered all the relevant facts and that the result of that person's analysis is entirely reasonable.
+[60] The Appellant's main allegations, in particular that Pierre Moisan enjoyed considerable flexibility and independence and that he was engaged in a number of activities, such as construction, hunting, snowmobiling and administration, were neither relevant nor determinative.
+[61] Based on the number of shares they held, Pierre Moisan's brother and brother-in-law could have intervened at any time to correct the situation, if it had not been consistent with the expectations of the corporation they controlled.
+[62] The fact that they did not intervene does not in any way mean that they had waived that power conferred on them by their shares. Independence and flexibility, in particular, did not follow from the relationship of dependence, but from harmony, respect and competence, qualities generally found in most SMEs where co-owners participate in the economic activities of the business.
+[63] For all these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 28th day of June 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 15th day of February 2006.
+Garth McLeod, Translator
+CITATION: 2005TCC339
+DOCKET NO.: 2005-9(EI)
+STYLE OF CAUSE: GERMAIN AUTOMOBILES INC. AND
+M.N.R. AND PIERRE MOISAN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: May 3, 2005
+REASONS FOR JUDGMENT BY: The Honourable Judge Alain Tardif
+DATE OF JUDGMENT: June 28, 2005
+APPEARANCES:
+Agent for the Appellant:
+Alain Savoie
+Counsel for the Respondent:
+Benoit Mandeville
+Agent for the Intervener:
+Alain Savoie
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

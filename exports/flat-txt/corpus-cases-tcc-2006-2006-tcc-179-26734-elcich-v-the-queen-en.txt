@@ -1,0 +1,133 @@
+Title: Elcich v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26734/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-179-26734-elcich-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-04-05
+
+# Elcich v. The Queen
+
+- Citation: 2006 TCC 179
+- Decision date: 2006-04-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3415, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Elcich v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-04-05
+Neutral citation
+2006 TCC 179
+File numbers
+2005-3069(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC179
+Date: 20060405
+Docket: 2005-3069(IT)I
+BETWEEN:
+STEVEN P. ELCICH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Agent for the Appellant: Janice Parker Counsel for the Respondent: Jocelyn Espejo-Clarke
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Toronto, Ontario, on February 14, 2006)
+BowieJ.
+[1] This case concerns the deductibility of certain support payments made by the Appellant to his former common-law spouse during the taxation years 1998 to 2003 inclusive. The appeal was heard at Toronto under the Court's informal procedure.
+[2] The Appellant's common-law relationship began in the early 1980s and in 1985, a child was born. The relationship broke down in 1997, and on April 2, 1997, the Honourable Madam Justice E.I. MacDonald of the Ontario Court - General Division made an interim interim Order requiring the Appellant to pay to his former common-law spouse, whom I shall call the mother, $425 per week for the support of herself and of the child, who continued to reside with her. There was no allocation of that amount between spousal and child support.
+[3] Two further Orders were made in the same proceeding before the Ontario Court under the Family Law Act of Ontario. On June 26, 1998, the Honourable Mr. Justice Marshall made an Order that included the following provision:
+Madam Justice MacDonald's unallocated support order dated April 2, 1997 is varied and increased to $600 per week retroactive to January 12, 1998.
+[4] The next Order was made on December 12, 2002 by the Honourable Mr. Justice M.P. Forestell who gave judgment in the Family Law Act action. That judgment included the following provisions:
+(i) custody of the child was given to the mother.
+(ii) Mr. Elcich was required to pay child support of $600 per month, adjusted annually for the cost of living; and
+(iii) Mr. Elcich was required to pay spousal support of $500 per month adjusted annually for the cost of living.
+In other words, for the first time child support and spousal support were separately specified.
+[5] In the course of giving judgment, Mr. Justice Forestell asked the parties to file material permitting him to make a determination as to the extent of the arrears of child support outstanding. On April 25, 2003, he issued Reasons determining that the outstanding child support arrears balance was $57,184, and that there was $9,784 held in trust, which he ordered to be paid against those arrears, leaving a balance of $47,400 - all of it arrears of unallocated child and spousal support amounts. According to Exhibit A-1, some $41,517 remained outstanding at the end of 2003, the last of the years under appeal before me. In either event, it is not disputed that when the last payment was made by the Appellant in 2003, it was still being applied, at least for purposes of the Income Tax Act, to arrears of unallocated child and spousal support.
+[6] The Appellant has sought to deduct support amounts from his income for the years 1998 to 2003 as follows:
+1998
+$15,431.67
+1999
+$15,155.17
+2000
+$21,380.37
+2001
+$19,526.22
+2002
+$31,200.00
+2003
+$14,200.00
+These amounts were initially allowed as deductions in the 1998 to 2003 taxation years. The Appellant has, however, since been reassessed to disallow all of those amounts, and has appealed against those reassessments. He claims that he is entitled to deduct the amounts that I have outlined above.
+[7] Until April 1997, amounts paid for child support or for spousal support were deductible in computing the income of the payor for the year in which the payments were made, provided that certain conditions (which are not relevant here) were met. This was provided for in section 60 of the Act. Section 56 of the Act required the recipient of any such payments to include those payments in computing income for the year. This was the old regime of inclusion and deduction of support payments.
+[8] Amendments to the Act that took effect at the end of April 1997 left the treatment of spousal support as it had been, but provided that child support would be neither deductible nor includable when the payments were made "on or after a commencement day". "Commencement day" is defined in subsection 56.1(4) of the Act, and one of those situations specified as a commencement day is the day on which a child support amount is varied by a subsequent Order. For purposes of the present case, there is a commencement day of January 12, 1998, which is the date on which the first payment of the varied amount provided for in the Order of Mr. Justice Marshall was to be made.
+[9] As I have said, the first two Orders, that of Justice MacDonald and Justice Marshall, did not separate child support and spousal support. In the case of the first Order, it preceded the amendments of April 1997, and so the entire unallocated amount was therefore required to be included in income by the recipient, and the payor was entitled to deduct all of it. In the case of the second Order, that of Mr. Justice Marshall, if it had been separated or allocated into an amount of spousal support and an amount of child support, then the spousal support would have been deducible by the Appellant and includable in the income of the recipient. However, it was not so allocated, and that brings into play the definition of "child support amount," which is found in subsection 56.1(4) of the Act.
+"Child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner, or former spouse or common-law partner of the payor, or who is the parent of a child of whom the payor is a natural parent.
+In other words, when an amount is left unallocated, whether by an agreement or an Order of the court, for purposes of taxation, the Income Tax Act deems all of it to be child support, and it is therefore treated for purposes of the Income Tax Act as child support, which is to say that the entire unallocated amount is neither includable by the recipient nor deductible by the payor.
+[10] This applies to all amounts paid by the Appellant in this case, up to the first payment of a spousal support amount under the Order of Mr. Justice Forestell of December 12, 2002, which, as I have previously said, was not made until after the end of 2003. It follows from that, that if the provisions of the Income Tax Act, and specifically subsection 56.1(4), which the Appellant impugns, are not invalid for constitutional reasons, then the assessments under appeal are correct, and the appeals must be dismissed.
+[11] I should add for the sake of completeness and clarity that the definition of child support to which I referred appears in subsection 56.1(4), and is adopted for purposes of section 60, which is the section that permits deductions from income, by subsection 60.1(4), which simply reads:
+The definitions in subsection 56.1(4) apply in this section and section 60.
+[12] The Appellant's position in these appeals, as argued by his agent, is that he is discriminated against by subsection 56.1(4), because he is treated in a less advantageous way than somebody paying the same amount of support, but allocated as between spousal and child support. The Appellant's agent put it this way: The comparator group is those who have their support Orders made correctly, which is to say by allocating support between spousal support and child support.
+[13] It is certainly true that a person paying support for a spouse and child pursuant to an Order, or a variation of an Order, arising after the end of April 1997 is treated more favourably if the support is allocated between spousal support and child support than if the Order or agreement (because the same provisions apply to separation agreements) simply fixes an allocated global amount for both spousal and child support. The words of subsection 56.1(4) are perfectly clear in that regard. There is no ambiguity, and there is no room, therefore, to read them in any way other than as treating those two categories of persons differently for the purposes of taxation.
+[14] The Appellant's agent argues that it is very unfair that the Appellant should suffer because Mr. Justice Marshall did not allocate the support between spousal and child support. She argues, too, that this was contrary to the Family Law Act of Ontario, and as I understood her argument, she invited me, in effect, to disregard the non-allocation by Mr. Justice Marshall. To deal with the latter point first, my powers under the Tax Court of Canada Act, and under the Income Tax Act are limited to ascertaining the facts of the case before me and applying the provisions of the Income Tax Act to them, interpreting those provisions if they are ambiguous, and if they are not ambiguous, simply applying the plain meaning of the words of the Act. As I have said, there is no ambiguity in the section that is impugned in the present case.
+[15] I, of course, also have the power under the Constitution Act 1982, to determine that a law is unconstitutional, and to give an appropriate remedy where that is found. In the present case, however, there is no ambiguity and there is no unconstitutionality. The Supreme Court of Canada, in Law v. Canada,[1] considered at great length and depth the application of the equality provision found in section 15 of the Canadian Charter of Rights and Freedoms. At paragraph 88, Mr. Justice Iacobucci, speaking for the full Court, summarized the approach to be taken in determining whether or not legislative provisions are offensive for purposes of section 15. About midway through that paragraph under the heading "General Approach" he said this:
+(1) It is inappropriate to attempt to confine analysis under s. 15(1) of the Charter to a fixed and limited formula. A purposive and contextual approach to discrimination analysis is to be preferred, in order to permit the realization of the strong remedial purpose of the equality guarantee, and to avoid the pitfalls of a formalistic or mechanical approach.
+(2) The approach adopted and regularly applied by this Court to the interpretation of s. 15(1) focuses upon three central issues:
+(A) whether a law imposes differential treatment between the claimant and others, in purpose or effect;
+(B) whether one or more enumerated or analogous grounds of discrimination are the basis for the differential treatment; and
+(C) whether the law in question has a purpose or effect that is discriminatory within the meaning of the equality guarantee.
+The first issue is concerned with the question of whether the law causes differential treatment. The second and third issues are concerned with whether the differential treatment constitutes discrimination in a substantive sense intended by s. 15(1).
+(3) Accordingly, a court that is called upon to determine a discrimination claim under s. 15(1) should make the following three broad inquiries:
+(A) Does the impugned law (a) draw a formal distinction between the claimant and others on the basis of one or more personal characteristics, or (b) fail to take into account the claimant's already disadvantaged position within Canadian society, resulting in substantively differential treatment between the claimant and others on the basis of one or more personal characteristics?
+(B) Is the claimant subject to differential treatment based on one or more enumerated and analogous grounds?
+and
+(C) Does the differential treatment discriminate, by imposing a burden upon or withholding a benefit from the claimant in a manner which reflects the stereotypical application of presumed group or personal characteristics, or which otherwise has the effect of perpetuating or promoting the view that the individual is less capable or worthy of recognition or value as a human being or as a member of Canadian society, equally deserving of concern, respect, and consideration?
+[16] Applying those three general inquiries to the present case, there is no formal distinction drawn between this claimant and others (the comparator group, whose support orders or agreements allocate support between child support and spousal support), on the basis of a personal characteristic. Certainly they are treated differently, but the differentiation is made not on the basis of personal characteristics at all, but on the basis of what is written in the support order, or, in certain cases, in the support agreement.
+[17] Second, is the claimant subject to differential treatment based on one or more enumerated or analogous grounds? The enumerated grounds of discrimination found in section 15 of the Charter are specifically race, national or ethnic origin, colour, religion, sex, age or mental or physical disability. Other grounds have been found to apply where they are analogous, the obvious example being sexual orientation. But these are grounds that are personal characteristics of an individual, and are generally immutable. They are not such grounds as that advanced here, which is to say grounds based upon the specific terms of a court Order or an agreement.
+[18] Thirdly, does the differential treatment discriminate by imposing a burden or withholding a benefit in a manner reflecting stereotypical application of a group or personal characteristic, and if so, does it perpetuate or promote the view that the individual is less capable or worthy of recognition or value as a human being? Clearly that, too, has no application in the present case. Nobody is thought less of by virtue of the fact that the judge failed to make the allocation between spousal and child support, than if the judge had made that allocation. It is certainly true that it operates to the Appellant's great financial disadvantage, but it does not, even were it widely known in the community, affect the way in which he is regarded as a person.
+[19] I am not unsympathetic to the Appellant's position in this case. There is no doubt that the failure of Mr. Justice Marshall to allocate the support payments between spousal and child support when he varied Justice MacDonald's Order has operated to the considerable detriment of the Appellant from a financial point of view. Exactly what took place in the action under the Family Law Act of Ontario was a matter of some evidence, but not strictly speaking, a matter into which this Court has any right to inquire. Certain Orders were made, and I have to take those Orders at face value. If they were wrongly made, and I do not purport to make any finding one way or the other as to whether any of them were, the only place that a remedy for that lies is in the Ontario Court of Appeal. Mr. Justice Marshall's Order was appealed to the Court of Appeal. That appeal was abandoned, the Appellant says without his consent, by his lawyer acting without instructions. I have no right to make any inquiry into that. It is far beyond my jurisdiction to do so, and I do not pretend to make any finding with respect to it. I would say only that there were remedies available that, had they been pursued to their ultimate conclusion, might very well have left the Appellant in a much more satisfactory position than he finds himself in today.
+[20] As I said, I am not unsympathetic to his position, but my mandate from Parliament is limited to determining the constitutionality of the Income Tax Act, and the applicability of the Income Tax Act to facts which are not really in dispute at all. I have made that determination and I have no alternative but to dismiss these appeals.
+Signed at Ottawa, Canada, this 5th day of April, 2006.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2006TCC179
+COURT FILE NO.:
+2005-3069(IT)I
+STYLE OF CAUSE:
+Stephen P. Elcich and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 27 and February 14, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT:
+February 15, 2006
+APPEARANCES:
+Agent for the Appellant:
+Janice Parker
+Counsel for the Respondent:
+Jocelyn Espejo-Clarke
+COUNSEL OF RECORD:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1999] 1 S.C.R. 497.

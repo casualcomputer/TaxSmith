@@ -1,0 +1,140 @@
+Title: Whittall v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/236484/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-212-236484-whittall-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-10-24
+
+# Whittall v. The Queen
+
+- Citation: 2017 TCC 212
+- Decision date: 2017-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2160, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Whittall v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-10-24
+Neutral citation
+2017 TCC 212
+File numbers
+2016-511(GST)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-511(GST)I
+BETWEEN:
+ROBIN WHITTALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on June 13, 2017, at Nanaimo, British Columbia
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Agent for the Appellant:
+Sean Leitenberg
+Counsel for the Respondent:
+Bruce Senkpiel
+JUDGMENT
+IN ACCORDANCE with the Reasons for Judgment attached, the appeal in respect of the GST/HST new housing rebate contained in the application dated February 19, 2014 is dismissed without costs.
+Signed at Ottawa, Canada, this 24th day of October 2017.
+“R.S. Bocock”
+Bocock J.
+Citation: 2017 TCC 212
+Date: 20171024
+Docket: 2016-511(GST)I
+BETWEEN:
+ROBIN WHITTALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Issues [1] Robin Whittall appeals the decision of the Minister of National Revenue (the “Minister”) to reject his claim for a GST new housing rebate. The denied GST rebate concerns “substantial renovation” to a residential property. The sole issue is whether Mr. Whittall, as an owner, made sufficient works to the property to constitute “substantial renovation” of “all or substantially all of the building” that existed prior to the renovation.
+II. Mr. Whittall’s Works to the Property [2] At the hearing, Mr. Whittall and his spouse outlined the renovations they made to the residential property located at 960 Woodpecker Place in Parksville, British Columbia.
+[3] There is no doubt considerable renovations were made to the property. No room was left untouched. There is little dispute factually as to what renovations were carried out. Sketched diagrams of the “before” and “after” were produced at the hearing. The house was originally built in 1991. The renovations were made over four and one-half years culminating with completion in 2014. The building is a one-level ranch style house with no basement. Its liveable area is approximately 1800 square feet (or 167.23 square meters).
+[4] The renovations were mostly internal, but did include new external windows and doors. The walls between the kitchen, dining area and living room were removed in their entirety. These three rooms effectively became one contiguous, combined “great room”. This required new drywall, flooring, electrical, cabinetry and the like. Excluding the garage, which was not changed, such completely renovated space comprised just under one-half of the liveable floor space within the house.
+[5] The balance of the renovations concerned the three bedrooms (one with ensuite), a bathroom and an internal garage entry-way (which functions as a mud room and laundry room). Aside from extensive repairs and partial lower area replacement of drywall, the drywall in these rooms was not altered, removed or replaced. Nonetheless, full repairs, remodeling, repainting and re-fixturing was undertaken in all of these rooms. Overall, all windows, floors or coverings, plumbing fixtures and electrical switch and outlet covers were replaced.
+III. What the Statute, Regulations and Bulletins Say a) Definition of “substantial renovation” [6] In subsection 123(1) of the Excise Tax Act, RSC 1985, c. E-15, as amended (the “ETA”) provides :
+substantial renovation of a residential complex means the renovation or alteration of the whole or that part of a building, […] to such an extent that all or substantially all of the building […] other than the foundation, external walls, interior supporting walls, floors, roof, staircases …, that existed immediately before the renovation or alteration was begun has been removed or replaced …,
+b) Rebate For Owner-Built Homes 256(1) Definitions – In this section,
+(2) where
+(a) a particular individual…substantially renovates, … a single unit residential complex …,
+(b) the fair market value … is less than $450,000,
+(c) the … individual has paid tax …,
+… and
+(i) the first individual to occupy the complex after … renovation … is the … individual …
+The Minister shall … pay a rebate to the … individual … .
+c) Technical Information Bulletin B-092 [7] The Minister through the Canada Revenue Agency (the “CRA”) has not been silent regarding the words renovation to “all or substantially all”. Within Technical Information Bulletin B-092 (“Bulletin B-092”), three methods are enumerated as non-exhaustive examples of fair and reasonable determinative approaches to a calculation of such a degree of renovation. These typical methods are listed as:
+(1) square footage of floor space of the areas renovated compared to the total floor space of the building; (2) square footage of floor and wall space of the areas renovated compared to the total floor and wall space of the building; and/or (3) number of rooms renovated compared to the total number of rooms in the building. [8] Similarly, in terms of what “must be removed or replaced” the Minister through Bulletin B-092 extensively (of much length, but considerable relevance) has published the following:
+In a major renovation project, the interior of a building is essentially gutted. For example, the interior walls (other than supporting walls) are completely removed and the ceilings and floors are replaced; the heating, electrical and plumbing systems are replaced, including the ductwork; and the wiring and plumbing connections and all fixtures (e.g., plumbing and lighting fixtures and fixed appliances) are replaced as are the kitchen counters and cabinets. This type of renovation project constitutes a substantial renovation.
+The following addresses what, at a minimum, must be removed or replaced to meet the requirements of the definition of substantial renovation. Generally, all interior walls (e.g., drywall) throughout the subject area (at least 90% of the building) would have to be removed or replaced (i.e., the walls stripped to the studs and refinished and replaced with drywall). In the case of older homes with plaster walls, covering the walls with new drywall would suffice. However, it would not be sufficient to remove or replace only the walls. The removal or replacement of the walls together with the removal or replacement of either the ceiling or floors throughout the subject area would be sufficient to meet the minimum requirement. It would not be necessary to replace the entire heating, electrical or plumbing systems to meet the minimum requirements for a substantial renovation.
+“Removing or replacing” does not include repairing. For instance, patching drywall, painting surface areas, sanding a hardwood floor, or adding varnish or a plastic coating would not qualify as removing or replacing. Repairs are not taken into consideration in determining whether a substantial renovation has taken place and may not be included in a new housing rebate claim.
+The renovations required to meet the minimum requirements of the definition of substantial renovation may vary depending on the type of room being renovated. As noted above, removing or replacing the walls together with either the ceilings or floors would qualify, regardless of the room being considered. For particular rooms, however, other possibilities may lead to a determination that a room has been substantially renovated. For example:
+• In a typical kitchen, a large part of the wall area may be covered by cupboards and cabinets (i.e. cabinetry). The removal or replacement of the cabinetry (without removing the walls behind it) as well as the ceiling or floor and remaining wall area would generally be sufficient.
+• In a typical bathroom, removing or replacing the walls and the fixtures (the toilet, tub, vanity) would be sufficient. Since the requirement is to remove or replace, it may be sufficient to remove and then reinstall the same fixtures in the bathroom in addition to removing or replacing the walls.
+• In a typical bedroom or hallway, removing or replacing the drywall (or covering the plaster with drywall) and either the floor or the ceiling would usually be sufficient.
+IV. What the Authorities Say [9] The degree of renovation has been set at the high threshold. Justice Hershfield in Erickson v. HMQ, at paragraph 16 stated:
+… The Act does not permit a rebate on a renovation, significant or otherwise, unless virtually all of the existing premises is gutted. …
+[10] Similarly, the Tax Court has held that while an absolute numeric threshold does not exist (Cousineau v. HMQ, [2001] GSTC 135 at paragraph 2), “90 per cent” is, unless circumstances warrant otherwise, the minimum quantum of renovation necessary to achieve the level of “substantially all” and thereby fall within the definition: Cousineau at paragraph 3. This coincides with Bulletin B-092 reproduced above.
+[11] Frequently upheld as a contrary view is a statement in Lair v. HMQ, 2003 TCC 929 at paragraph 14 where, Justice Rip, as he then was, said:
+On the facts then before me if a reasonable and neutral observer of the building, before and after construction of the interior and exterior of the building, can conclude that the degree of renovation and alternation was substantial, the definition of "substantial renovation" is satisfied.
+[12] Subsequent authorities have grappled with reconciling these two apparently divergent schools. The necessity and degree of renovation is relevant, if refraining from doing so would fail to remedy collapse: Colosimo v. HMQ, 2005 TCC 584 at paragraph 9. The question has been posed as to whether renovations are largely cosmetic designed primarily to freshen or modernize the appearance: King v. HMQ, 2006 TCC 374 at paragraph 11 and Blades v. HMQ, 2012 TCC 227 at paragraph 14. Moreover, the review must look at all of the evidence in the context of the whole building that existed before the work: Baby v. HMQ, 2013 TCC 39.
+[13] In short, a common theme throughout the case utilizes the connotative, old English word “gutted”: Erickson at paragraph 15, King at paragraph 11 and Goulet v. HMQ, 2013 TCC 225 at paragraph 15.
+V. The Appellant’s Arguments a) Renovations were substantial enough to render building “like new” [14] The Appellant’s agent submitted that the building was renovated to such a degree that it rendered it a new house. Nothing within it appeared similar to its previous form. The concept of the 90% measurable quantum of renovation should be discarded. Instead, as in Lair, use should be made of whether a reasonable and neutral observer would conclude, before and after, that a substantial renovation had occurred.
+b) The CRA’s methodology and analyses were flawed [15] The Appellant’s agent asserts that, through cross-examination, it was revealed that at both audit and appeal, the CRA failed to give credit for various renovations or included irrelevant, excluded improvements on a room by room basis because of a slavish adherence to the mathematical analysis rejected in Shotlander v. HMQ, 2005 TCC 502 at paragraph 14.
+c) Drywall should be excluded as a component considered in the calculation of renovation [16] The Appellant’s agent took much time to argue before the Court that the non-removal and/or non-replacement of entire walls of drywall in the building were irrelevant; drywall is critical to the safety, integrity and strength of a building. In short, drywall is inextricably connected to interior supporting walls and possibly the exterior walls of a building. Within Bulletin B-092, such walls are to be excluded from calculation for the determination of substantial renovation. Therefore, the issue of removal and replacement of drywall anywhere in the building is not to be considered.
+[17] In support of this argument, the Appellant’s agent offered text diagrams of exterior wall descriptions, recent building code specification requirements for drywall in British Columbia and materials citing the difference between partition and load-bearing walls.
+VI. Analysis and Decision a) The Building “looked like new” [18] The test is not the appearance of the building after renovation. The test is whether based upon the totality of the renovations, after a careful listing of those elements to be included, but excluding those not to be considered, substantial renovation to the building has occurred. In short, may one say that the building was renovated sufficiently enough that all or substantially all of the building has been removed or replaced: Camiré v. HMQ, 2008 TCC 82 at paragraph 11.
+[19] The appearance of the buildings to the naked eye, given what is to be included or excluded, is not necessarily relevant. This is also confirmed by Justice Rip in Lair, frequently held up as a lesser test, when he references the works completed by the owner: raised the dwelling several feet, constructed a basement, constructed entirely new useable rooms in the basement, “gutted” the first floor, installed a new septic system, enlarged the footprint of the building, replaced the entire roof and radically altered the exterior. In short, Justice Rip, stated the house, before renovation, was “ready to collapse”. Further, the substantially renovated residence “bore no resemblance to the residence before the construction started”. Admittedly, a number of the elements listed are to be otherwise excluded: roofs, floors and additions. Quite consistently, three concepts utilized by Justice Rip are common to the jurisprudence: gutting the old building, necessity of renovation and renewed functionality versus appearance. In testimony in this appeal, none of Mr. Whittall, Mrs. Whittall nor their daughter suggested the house was “gutted”.
+[20] Even when applying the test in Lair, widely viewed as the most favourable to the granting of rebates, the renovations carried out by Mr. and Mrs. Whittall do not match up. At best, only half the rooms were substantially renovated. Most walls, unless torn down permanently or newly constructed, were “re-smoothed” and not removed, largely due to disposal costs, but nonetheless suggesting replacement was not a necessity.
+[21] Moreover, within the authorities, the case of Blades is strikingly similar: a new island in the kitchen, upgraded electrical, new floors and ceilings in the public rooms, removed partitions, reconstructed walls, walls refinished, but not necessarily removed to the studs. Factually, that residence also looked like new, but the building was not transformed beyond resemblance from its original state. That appeal failed on that basis. Regrettably, so must this one.
+b) CRA’s analysis flawed [22] While it is not necessary for the Court to comment on this point since the Court has made its own assessment above, the methodologies followed by the CRA were sound. They were also quite generous and fair. Ms. Wharram of the CRA testified she used both the room by room and square area analysis, whereas the initial examiner on the file used the surfaces analyses. On that basis, all three methodologies outlined in Bulletin B-092 were deployed by the CRA at one time or another in the process concerning the Whittall rebate application. The examiner concluded that 52.5% of the surfaces had been renovated. Ms. Wharram concluded on a room by room basis the figure was approximately 60% and by square area 63%. She gave the Appellants the benefit of the most favourable calculation. She also used her discretion to include certain surfaces otherwise excluded by definition within the definition and Bulletin B-092. Still, she felt the building had not been substantially renovated. So does this Court.
+c) Drywall to be excluded from consideration/calculation [23] Despite the valiant effort, the Court cannot abide the assertion that drywall should be excluded from the “renovation calculation” because, as asserted, drywall is integral to “interior supporting walls” or “external walls”. Drywall is a wall covering or cladding for the supporting studs connected to the trusses of a roof. Drywall is the modern equivalent of plaster and lath. It is simply less expensive, more efficient and easily constructed and applied. No doubt modern building codes prescribe among methods for production, construction and installation to afford greater safety, strength and integrity. Common sense dictates that such enhanced and more recent characteristics are ancillary to its initial and primary function: the cladding placed upon vertical studs to be painted, papered or cover decoratively. From any of the perspectives of intuition, logic or common sense, emerges a simple conclusion: the primary purpose of gypsum wallboard is to provide a flat, stable and smooth surface for decoration. Panelling, ceiling tile and tile board are not different. Whatever load bearing strength or fire retardation qualities they contain are collateral to their main purpose. No jurisprudence, CRA legislation or bulletin directly suggests otherwise.
+[24] Further, the case of Cowan and Talbot v. HMQ, an unreported oral decision of Justice Sommerfeldt was identified by the Appellant’s agent as authority for the exclusion of drywall from the “renovation calculation”. Specifically within the transcript, Justice Sommerfeldt said of “drywall” the following:
+It still becomes necessary to go through and conduct an analysis of whether there was a substantial renovation or there wasn’t. One of the issues that came up in the hearing is this question of dry walling. It is my understanding that the Canada Revenue Agency has some policies which seem to consider or require that drywall, original drywall, be completely removed from a wall and then replaced with new gyprock, or sheetrock.
+I didn’t find any reference to such a requirement in the case law that was brought to my attention. I have read some cases apart from the ones that were referred to me during the hearing. I haven’t seen any case law authority for that requirement that there be new drywall installed. I do take the point made by Mr. Leitenberg that in a typical situation drywall is screwed into the studs. In other words, it’s affixed on a fairly permanent basis. In earlier days, that drywall was sometimes affixed by nailing, special drywall nails, maybe not quite so permanent as the screwing. Even there, screws can be easily removed. So, it’s not absolutely permanent, but I would consider once the drywall is affixed to the wall it becomes part of the wall.
+The definition of “substantial renovation” in subsection 123(1) of the Excise Tax Act does indicate that external walls and interior supporting walls are excluded from the requirement for removal and replacement, and therefore I would think that for the most part the question of whether drywall is removed or not is not one that I see as being an essential element of the analysis of whether there’s a substantial renovation or not.
+[25] This Court’s finding is fully reconcilable with Justice Sommerfeldt’s. Firstly, Justice Sommerfeldt states that an analysis of whether substantial renovation occurred is necessary. Secondly, it was recognized by the judge that CRA and certain authorities suggest it is a good indication, but not one he sees as mandatory in all cases in the calculation. Further, this conclusion of the judge is obiter to his decision in Cowan and Talbot. Justice Sommerfeldt decided the pre-existing condition of the residence was pernicious to its very survival. The presence of rampant insects, bio-hazardous mould and resident wildlife (beyond garden variety vermin) prompted and necessitated substantial renovation to such a degree that it was described by Mr. Talbot as “gutted”.
+[26] No directly, conclusive finding was made by the Court regarding drywall being “part” of interior supporting walls or exterior walls, but merely not necessarily an “essential element” in the calculation. Therefore, whatever finding was made concerning drywall’s mandatory inclusion in the calculation was obiter to the ultimate decision of the Court made by Justice Sommerfeldt who embraced, as the basis for his decision, the three concepts outlined above of “gutting” the old building, the necessity of the renovation and the renewed or revived functionality versus appearance of the renovated building.
+VII. Conclusion [27] For these reasons, the appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 24th day of October 2017.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2017 TCC 212
+COURT FILE NO.:
+2016-511(GST)I
+STYLE OF CAUSE:
+ROBIN WHITTALL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Nanaimo, British Columbia
+DATE OF HEARING:
+June 13, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+October 24, 2017
+APPEARANCES:
+Agent for the Appellant:
+Sean Leitenberg
+Counsel for the Respondent:
+Bruce Senkpiel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

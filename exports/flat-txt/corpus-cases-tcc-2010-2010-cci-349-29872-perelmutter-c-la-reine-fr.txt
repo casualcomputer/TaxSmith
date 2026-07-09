@@ -1,0 +1,205 @@
+Title: Perelmutter c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29872/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-349-29872-perelmutter-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-06-23
+
+# Perelmutter c. La Reine
+
+- Citation: 2010 CCI 349
+- Decision date: 2010-06-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6429, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perelmutter c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-23
+Référence neutre
+2010 CCI 349
+Numéro de dossier
+2009-3208(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3208(IT)I
+ENTRE :
+LEWIS PERELMUTTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 8 juin 2010, à Ottawa (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentant de l’appelant :
+K.E. Koshy, c.a.
+Avocate de l’intimée :
+Me Mélanie Sauriol
+____________________________________________________________________
+JUGEMENT
+L’appel relatif à l’année d’imposition 2005 est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte de ce qui suit :
+La part de l’appelant de la perte finale est de 8 039 $ et sa part de la perte en capital est de 1 524 $.
+L’appelant a le droit de déduire la moitié des dépenses courantes afférentes à l’immeuble Burnley, c’est‑à‑dire 3 305 $.
+L’appel relatif à l’année d’imposition 2006 est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en partant du principe que l’appelant peut déduire une somme de 17 488 $ au titre de perte en capital.
+Signé à Ottawa, Canada, ce 23e jour de juin 2010.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 12e jour d’août 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2010 CCI 349
+Date : 20100623
+Dossier : 2009-3208(IT)I
+ENTRE :
+LEWIS PERELMUTTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] L’appelant a interjeté appel des nouvelles cotisations établies à son égard pour les années d’imposition 2005 et 2006 et par lesquelles ses demandes de déduction au titre de pertes en capital de 42 930 $ et de 8 627 $, respectivement, avaient été refusées. Dans ces nouvelles cotisations, le ministre du Revenu national (le « ministre ») a accordé une déduction de 1 552 $ au titre de perte en capital pour 2005 et n’a accordé aucune déduction à ce titre pour 2006. Dans la réponse à l’avis d’appel, le ministre a reconnu que l’appelant avait droit à une déduction de 8 627 $ au titre de perte en capital pour l’année d’imposition 2006.
+[2] En l’espèce, les questions en litige sont les suivantes :
+2005
+a) L’appelant et Drupatty Rupnarain ont‑ils exploité une entreprise au moyen d’une société de personnes pour acquérir l’immeuble situé au 34, rue Burnley, à Nepean (l’« immeuble Burnley »)?
+b) La perte ayant résulté de la disposition de l’immeuble Burnley était‑elle une perte finale ou une perte en capital?
+c) Quel était le montant de la perte ayant résulté de la disposition de l’immeuble Burnley?
+2006
+a) L’appelant a‑t‑il droit à une déduction au titre de perte d’entreprise ou au titre de perte en capital relativement à la propriété située sur la rue Lucinda Palm, en Floride (la « propriété située en Floride »)?
+2005 – L’immeuble Burnley
+[3] L’appelant, Drupatty Rupnarain et Robert Taylor – un représentant de l’Agence du revenu du Canada – ont tous trois témoigné à l’audience.
+[4] En 1999 ou en 2000, l’appelant a engagé Mme Rupnarain, une infirmière auxiliaire, pour s’occuper de son épouse, qui était alitée parce qu’elle souffrait de la maladie de Parkinson.
+[5] L’appelant et Mme Rupnarain ont expliqué la nature de leur relation et comment ils sont devenus propriétaires conjoints de l’immeuble Burnley.
+[6] Mme Rupnarain a témoigné qu’elle entretenait le projet de posséder et d’exploiter une résidence pour personnes âgées parce qu’elle aimait travailler avec les personnes âgées. Elle a dit qu’elle avait parlé de son projet à l’appelant et que celui‑ci lui avait proposé de s’associer pour lancer l’entreprise puisqu’il n’aurait rien à faire après la mort de son épouse. Mme Rupnarain a accepté l’offre de l’appelant et ils ont commencé à chercher un immeuble convenable. Ils ont fait appel à un agent immobilier, et ce dernier a trouvé l’immeuble Burnley.
+[7] L’appelant et Mme Rupnarain ont acheté conjointement l’immeuble Burnley le 7 janvier 2005. Ils ont fait de la publicité pour leur résidence pour personnes âgées en affichant des dépliants à divers endroits, en parlant à des médecins et à des travailleurs sociaux et en se rendant dans des maisons de retraite et des hôpitaux.
+[8] L’appelant et Mme Rupnarain croyaient tous deux que l’immeuble Burnley était adapté à leurs besoins, car il était doté d’un ascenseur. Cependant, l’immeuble était en piètre état. Mme Rupnarain et son époux ont fait eux‑mêmes toutes les rénovations dans l’immeuble Burnley. Au sous‑sol, ils ont construit deux salles de bains et une chambre à coucher supplémentaire et posé du revêtement de sol stratifié et du plancher en carrelage. À l’étage, ils ont arraché le vieux tapis et posé du revêtement de sol stratifié. Ils ont nettoyé la cour arrière. Mme Rupnarain a aussi fait faire des tentures pour l’immeuble.
+[9] Mme Rupnarain a témoigné qu’elle avait payé toutes les dépenses afférentes à la rénovation de l’immeuble Burnley. Elle avait remis tous les reçus à l’appelant, car ils avaient convenu que l’appelant s’occuperait de la tenue des comptes de l’entreprise.
+[10] L’immeuble Burnley était situé dans une zone résidentielle. L’appelant et Mme Rupnarain n’ont pas réussi à faire modifier ce zonage, ce qui était nécessaire à l’exploitation d’une résidence pour personnes âgées. Ils ont donc vendu l’immeuble Burnley le 15 juillet 2005.
+[11] L’appelant a soutenu qu’il ne s’était pas associé à Mme Rupnarain. Il a dit qu’il n’avait jamais eu l’intention d’exploiter l’immeuble Burnley au moyen d’une société de personnes, car il avait payé toutes les dépenses, sauf une somme de 5 000 $ qui avait été déboursée par Mme Rupnarain.
+[12] L’appelant a affirmé qu’il avait seulement fait inscrire le nom de Mme Rupnarain sur l’acte translatif de propriété de l’immeuble Burnley par bienveillance.
+[13] La preuve documentaire contredit le témoignage de l’appelant. Selon la promesse de prêt hypothécaire, la Banque Scotia avait donné pour instruction à l’avocat chargé de la conclusion de la transaction que l’appelant et Mme Rupnarain devaient tous deux [traduction] « être inscrits sur le titre de propriété ».
+[14] L’expression « société de personnes » n’est pas définie dans la Loi de l’impôt sur le revenu (la « Loi »)[1]. La Cour suprême du Canada a conclu que « société de personne » est une expression juridique et que le législateur a dû vouloir que ce terme ait le sens juridique qui lui est donné dans diverses lois provinciales et territoriales portant sur les sociétés de personnes[2].
+[15] L’article 2 de la Loi sur les sociétés en nom collectif [3] de l’Ontario définit la société en nom collectif comme la « relation qui existe entre des personnes qui exploitent une entreprise en commun en vue de réaliser un bénéfice ».
+[16] Dans l’arrêt Backman[4], la Cour suprême du Canada a traité de certains des facteurs pertinents que les tribunaux doivent analyser lorsque vient le temps de statuer sur l’existence de sociétés de personnes :
+[19] En droit, le sens de l’expression « exploiter une entreprise » peut varier selon le contexte dans lequel cette expression est utilisée. Dans les lois provinciales sur les sociétés en nom collectif, les mots « entreprise » ou « affaires » sont généralement définis comme visant également les « commerces, occupations et professions ». Les facteurs susceptibles d’être pertinents pour statuer sur l’existence d’une entreprise se trouvent dans les définitions juridiques existantes. L’ouvrage Black’s Law Dictionary (6e éd. 1990) donne, à la p. 214, une définition simple de l’expression « carrying on trade or business » ([traduction] « exploiter une entreprise »), à savoir : [traduction « Se présenter à autrui comme faisant la vente de biens ou services ». Une autre définition requiert la présence d’au moins trois éléments : (1) un apport sous forme de temps, d’attention et de travail; (2) le fait de contracter des obligations envers d’autres personnes; (3) l’objectif de gagner sa vie ou de réaliser un bénéfice : voir Gordon c. La Reine, [1961] R.C.S. 592, le juge Cartwright, dissident mais non sur ce point, p. 603.
+[20] L’existence d’une société de personnes valable ne dépend pas de la création d’une nouvelle entreprise, car il suffit qu’une entreprise qui existait déjà ait été maintenue. Une telle société peut être formée lorsque deux parties conviennent d’exploiter ensemble l’entreprise que l’une d’elles possède déjà. Il n’est pas nécessaire d’établir que les associés ont exploité une entreprise pendant une longue période. Une société de personnes peut être créée en vue d’une seule opération. Comme l’a souligné notre Cour dans l’arrêt Continental Bank, précité, par. 48, « [t]ant que les parties ne créent pas l’équivalent d’une coquille vide qui n’exploite dans les faits aucune entreprise, le fait que la société en nom collectif ait été créée pour une seule opération est sans conséquence. » En outre, pour établir qu’il y avait exploitation d’une entreprise, il n’est pas nécessaire de démontrer que les parties tenaient des réunions, faisaient de nouvelles opérations ou prenaient des décisions : Continental Bank, précité, par. 31-33. […]
+[21] Pour déterminer si une entreprise est exploitée « en commun », il faut se rappeler qu’une société de personnes naît d’un contrat. L’objectif commun nécessaire à l’établissement d’une société de personnes sera habituellement présent lorsque les parties auront conclu un contrat de société valide énonçant leurs droits et obligations respectifs en tant qu’associés. Comme il a été souligné dans l’arrêt Continental Bank, précité, par. 34-35, la reconnaissance du pouvoir de tout associé de lier la société est certes pertinente, mais le fait que la gestion de celle-ci ait été confiée à un seul associé n’oblige pas à conclure que l’entreprise n’était pas exploitée en commun. Cette constatation est confirmée dans Lindley & Banks on Partnership (17e éd. 1995), p. 9, où l’on mentionne qu’une ou plusieurs parties peuvent, dans les faits, gérer l’entreprise pour leur propre compte et celui des autres parties sans pour autant menacer le statut juridique de l’arrangement. Ce fait peut être pertinent si les parties se sont présentées à des tiers comme étant des associés, tout comme peut l’être le fait pour les parties de ne pas se présenter comme tel. Parmi les autres éléments de preuve qui sont compatibles avec l’intention d’exploiter l’entreprise en commun, mentionnons les suivants : apport à l’entreprise commune sous forme d’habiletés, de connaissances ou de biens, propriété conjointe de l’objet de l’entreprise, partage des profits et des pertes, production de déclarations de revenus à titre de société de personnes, existence d’états financiers et de comptes bancaires conjoints et échange de correspondance avec des tiers : voir Continental Bank, précité, par. 24 et 36.
+[17] J’ai considéré ces facteurs et conclu que l’appelant et Mme Rupnarain avaient créé une société de personnes relativement à l’immeuble Burnley. Ils exploitaient une résidence pour personnes âgées comme associés à parts égales. Pour arriver à cette conclusion, je me suis fondée sur les faits suivants :
+a) L’appelant et Mme Rupnarain se sont présentés à des tiers comme des associés qui exploitaient une résidence pour personnes âgées.
+b) Ils ont acheté l’immeuble Burnley comme propriétaires conjoints et ils étaient responsables conjointement du prêt hypothécaire consenti par la Banque Scotia.
+c) Ils ont tous deux fait de la publicité pour la résidence pour personnes âgées. Mme Rupnarain m’a convaincue qu’elle avait utilisé sa voiture pour se rendre aux divers endroits où ils faisaient de la publicité pour la résidence pour personnes âgées.
+d) Ils ont ouvert un compte bancaire conjoint à la Banque TD. Ils ont aussi demandé et obtenu un compte‑carte de crédit Visa conjoint à la Banque TD.
+e) Mme Rupnarain avait donné de l’argent à l’appelant et celui‑ci l’avait déposé dans leur compte bancaire conjoint. L’appelant a affirmé que Mme Rupnarain lui avait remis 5 000 $, alors qu’elle dit lui avoir donné 4 000 $.
+f) L’appelant a payé le versement initial et certaines des dépenses relatives à l’immeuble Burnley. Mme Rupnarain et son époux ont fait eux‑mêmes la rénovation de l’immeuble et ont payé les matériaux nécessaires à cette rénovation.
+g) Les branchements au gaz et à l’électricité pour l’immeuble Burnley étaient enregistrés aux noms de l’appelant et de Mme Rupnarain.
+h) Je prête foi au témoignage de Mme Rupnarain selon lequel ils avaient convenu que l’appelant s’occuperait de la tenue de comptes de l’entreprise et que Mme Rupnarain gérerait l’entreprise en vivant dans l’immeuble et en s’occupant des personnes âgées 24 heures sur 24, 7 jours sur 7.
+i) L’appelant a affirmé que les bénéfices tirés de l’entreprise devaient être partagés également entre lui et Mme Rupnarain.
+[18] M. Koshy, le représentant de l’appelant, a soutenu que, comme l’appelant avait payé la plupart des sommes relatives à l’immeuble Burnley, il n’existait pas de société de personnes. Il a affirmé que l’appelant avait fait le versement initial de 34 750 $ et les paiements hypothécaires. Selon M. Koshy, l’appelant était responsable de l’hypothèque grevant l’immeuble Burnley. Il a aussi affirmé qu’en cas de défaut, Mme Rupnarain aurait été incapable de faire les paiements hypothécaires. Il a insinué que la Banque Scotia n’avait pas mené de vérification de la solvabilité à l’égard de Mme Rupnarain.
+[19] Je ne suis pas d’accord avec le représentant de l’appelant et je trouve ses déclarations condescendantes. L’appelant et Mme Rupnarain ont tous deux signé l’acte d’hypothèque et ils étaient conjointement responsables du prêt hypothécaire. Je note que, sur la promesse de prêt hypothécaire (pièce R‑5), Mme Rupnarain était tenue de fournir une attestation de ses revenus pour les années d’imposition 2003 et 2004. Selon ce document, la Banque Scotia avait donné pour instructions à l’avocat représentant l’appelant et Mme Rupnarain de s’assurer que ceux‑ci possédaient leurs résidences respectives « libre et quitte de toute charge », que leurs deux noms soient inscrits sur le titre de propriété et que seule Mme Rupnarain occupe l’immeuble Burnley.
+[20] En conclusion, l’appelant et Mme Rupnarain ont bel et bien exploité une entreprise en commun en vue de réaliser un bénéfice et ils étaient associés relativement à l’immeuble Burnley.
+[21] Entre le 7 janvier et le 15 juillet 2005, l’appelant et Mme Rupnarain ont détenu l’immeuble Burnley à titre d’immobilisation dans le cadre de leur entreprise. Ils ont subi une perte lorsqu’ils ont vendu l’immeuble Burnley. Comme l’immeuble était un bien amortissable, sa disposition a entraîné une perte finale, alors que la disposition du terrain – un bien non amortissable – a entraîné une perte en capital.
+[22] Le ministre a présumé que le prix d’achat et le produit de la disposition de l’immeuble Burnley doivent être répartis à raison de 25 % pour le terrain et de 75 % pour l’immeuble. Le représentant de l’appelant a accepté cette répartition pour le prix d’achat. Par contre, il a soutenu que le produit de la disposition devait être attribué entièrement à l’immeuble, car la valeur du terrain n’avait pas changé. L’appelant n’a présenté aucun élément de preuve pour étayer cette position. J’ai conclu que cet argument est erroné parce que, même si la valeur du terrain était restée la même, le produit de la disposition ne serait pas complètement attribuable à l’immeuble.
+[23] Aux fins du calcul de la perte finale subie à l’égard de l’immeuble et de la perte en capital subie à l’égard du terrain, j’ai tenu pour acquis – en me fondant sur les pièces déposées – que la rénovation de l’immeuble avait duré trois mois. La perte finale et la perte en capital sont donc les suivantes :
+Prix d’achat
+347 500 $
++ Frais de clôture
+5 081 $
+352 581 $
+Immeuble (75 %)
+Terrain (25 %)
+264 436 $
+88 145 $
+Rénovations
+2 709 $
+Intérêts hypothécaires
+2 551 $
+Taxes foncières
+983 $
+Gaz
+584 $
+Électricité
+108 $
+Coût total :
+271 371 $
+Prix de disposition
+361 014 $
+Moins :
+Commission de courtage
+15 494 $
+Frais juridiques
+724 $
+Mainlevée hypothécaire
+4 405 $
+20 623 $
+340 391 $
+Immeuble (75 %)
+Terrain (25 %)
+255 293 $
+85 098 $
+Perte finale
+16 078 $
+Perte en capital
+3 047 $
+La part de l’appelant de la perte finale est de 8 039 $ et sa part de la perte en capital est de 1 524 $.
+[24] L’appelant a aussi le droit de déduire la moitié des dépenses courantes afférentes à l’immeuble Burnley. Selon mes calculs, sa part de ces dépenses s’élève à 3 305 $.
+2006 – La propriété située en Floride
+[25] En 2005, l’appelant et Steven Smith ont décidé d’acheter un terrain situé en Floride. Ils avaient l’intention d’y faire construire une maison unifamiliale. Ils ont fait un dépôt de 29 244,27 $US relativement au lot no 107C du domaine Carlsberg, à Lake Wales, en Floride. Le prix d’achat de la maison qui devait être construite sur le terrain était de 194 961,80 $.
+[26] L’appelant et M. Smith n’ont jamais clos la transaction d’achat de la propriété située en Floride. L’appelant a témoigné qu’ils n’avaient pas acquis le terrain parce que l’ouragan Katrina venait de balayer la région et que le marché immobilier résidentiel américain était en repli. Pour limiter leurs pertes, l’appelant et M. Smith ont décidé de ne pas clore la transaction et de renoncer à leur dépôt.
+[27] Steven Smith vivait en Floride et il était un collègue et un ami de l’appelant. Chaque hiver, l’appelant passait quatre mois en Floride.
+[28] L’appelant soutient que l’acquisition d’un intérêt dans la propriété située en Floride était un projet comportant un risque de caractère commercial. Il a affirmé qu’il avait l’intention de conserver la propriété pendant un certain temps, puis de la revendre.
+[29] Dans l’arrêt Canada Safeway Limited c. La Reine[5], le juge Nadon s’est ainsi exprimé :
+[43] J’abonde dans le sens des auteurs de Principles of Canadian Income Tax Law, précité, lorsqu’ils disent, à la page 334, que bien que les tribunaux appliquent divers facteurs, à savoir ceux qui sont énumérés dans le bulletin d’interprétation IT‑218R, pour déterminer si une opération constitue un projet comportant un risque de caractère commercial ou une opération en capital, le facteur le plus déterminant est l’intention qu’avait le contribuable au moment de l’acquisition du bien. Si cette intention révèle l’existence d’un plan visant la réalisation d’un bénéfice, le tribunal conclura que l’opération répond à la définition de projet comportant un risque de caractère commercial.
+[30] L’appelant n’a présenté aucun élément de preuve pour appuyer son assertion selon laquelle cette transaction était un projet commercial comportant un risque de caractère commercial. Lorsqu’il a été contre‑interrogé, l’appelant a admis qu’il n’avait jamais vu la propriété située en Floride, mais il a dit que M. Smith avait visité une maison‑modèle dans le projet immobilier. L’avocate de l’intimée a demandé à l’appelant de préciser les intentions qu’il avait quand il avait signé la convention d’achat‑vente. Il a dit ne pas en être certain – il allait peut‑être louer la maison, mais rien n’était décidé. L’appelant n’avait pas fait d’étude de marché quant à la faisabilité de louer ou de vendre la propriété située en Floride. J’ai conclu qu’il n’y a pas la moindre preuve de l’existence d’un plan visant la réalisation d’un bénéfice relativement à la propriété située en Floride.
+[31] Il ne suffit pas qu’un contribuable affirme avoir eu l’intention – qu’elle ait été principale ou secondaire – de revendre une propriété quand il l’avait acheté, encore faut‑il qu’il fournisse des preuves orales ou documentaires pour appuyer ses dires. Je ne suis pas convaincue que l’appelant menait un projet comportant un risque de caractère commercial à l’égard de la propriété située en Floride.
+[32] Le représentant de l’appelant a calculé que la part de l’appelant du dépôt était de 17 488 $CAN. J’accepte ce calcul. Pour 2006, l’appelant peut déduire ce montant‑là au titre de perte en capital.
+[33] L’appel est accueilli, conformément aux présents motifs.
+Signé à Ottawa, Canada, ce 23e jour de juin 2010.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 12e jour d’août 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2010 CCI 349
+No DU DOSSIER DE LA COUR :
+2009-3208(IT)I
+INTITULÉ :
+Lewis Perelmutter c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 8 juin 2010
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 23 juin 2010
+COMPARUTIONS :
+Représentant de l’appelant :
+K.E. Koshy, c.a.
+Avocate de l’intimée :
+Me Mélanie Sauriol
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Backman c. Canada, [2001] CSC 10, paragraphe 17.
+[2] Idem, paragraphe 17.
+[3] L.R.O. 1990, ch. P.5.
+[4] Précité, note en bas de page 1.
+[5] 2008 CAF 24.

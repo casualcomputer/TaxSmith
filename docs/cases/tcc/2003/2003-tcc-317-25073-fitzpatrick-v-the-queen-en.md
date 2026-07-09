@@ -1,0 +1,148 @@
+---
+title: "Fitzpatrick v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25073/index.do"
+last_modified: "2003-05-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 317"
+citation2: ""
+neutral_citation: "2003 TCC 317"
+decision_date: "2003-05-27"
+language: "en"
+item_id: "25073"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2483
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:07:01.903000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ee6e1e4bff9ab928e79ae7ab0963c4bd8c809671e662308c68d6b9e2026f683c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fitzpatrick v. The Queen
+
+- Citation: 2003 TCC 317
+- Decision date: 2003-05-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2483, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fitzpatrick v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-27
+Neutral citation
+2003 TCC 317
+File numbers
+2002-53(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-53(IT)I
+BETWEEN:
+WILLIAM FITZPATRICK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 20, 2003 at Fort McMurray, Alberta
+Before: The Honourable Judge J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dawn Taylor
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1999 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 27th day of May 2003.
+"J.E. Hershfield"
+J.T.C.C.
+Citation: 2003TCC317
+Date: 20030527
+Docket: 2002-53(IT)I
+BETWEEN:
+WILLIAM FITZPATRICK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hershfield, J.
+[1] This appeal relates to the Appellant's 1999 taxation year. The issue is whether he may deduct certain maintenance payments made in accordance with a paternity agreement entered into in 1986. The agreement was made pursuant to provisions of Part II of the Maintenance and Recovery Act of Alberta.[1]
+[2] The parties to the paternity agreement are: the Appellant (who admitted to being the father of a child (the "child"), in respect of whom maintenance payments were to be made under the agreement); the child's mother; and, the Director of the Maintenance and Recovery Department of Social Services and Community Health of Alberta to whom I will refer to in these Reasons as the Director of Social Services of Alberta. Under the agreement the Appellant, as the father, agreed to pay to the Director of Social Services of Alberta $300.00 per month for the maintenance and education of the child until the child was 16, or, 18 if the child was still in school. There is no dispute that the mother is the beneficial recipient of the maintenance payments.
+[3] The Appellant testified at the hearing and I accept his testimony that he never denied his responsibility for the pregnancy of the child's mother and that he readily accepted his responsibility for the child's maintenance. At no point did the child's mother require court intervention. He has never been in arrears in payments under the agreement. The Respondent does not dispute that the maintenance payments were made under and in accordance with the paternity agreement which, in respect of the subject year, 1999, totalled $3,600.00. The Appellant deducted such amount in his 1999 tax return. The Respondent disallowed it.
+[4] The basis for the Respondent's disallowance of the subject maintenance payments is that it was not a "support amount" as defined in subsection 56.1(4) of the Income Tax Act (the "Act"). There is no question that the deduction will only be allowed if the subject maintenance payments are a "support amount" as defined in this subsection. This requirement is set out in paragraph 60(b) of the Act.
+[5] The definition of "support amount" in subsection 56.1(4) is as follows:
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or former spouse of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[6] Since the Appellant admitted that he and the child's mother never married and never lived as common-law partners, the Appellant can only qualify under paragraph (b).
+[7] It is the Respondent's position, however, that the requirement in paragraph (b) of the definition of "support amount", that the maintenance amount be receivable by the mother "under an order made by a competent tribunal in accordance with the laws of a province" has not been met since the subject payments were made under an "agreement", not an "order".
+[8] The Appellant relies on certain provisions of the Statutes of Alberta that deem paternity agreements entered into by the Director of Social Services of Alberta to be an "order".[2] That being the case, the Appellant argues that all of the requirements of paragraph (b) of the definition of "support amount" have been met such that the deduction of his maintenance payments must be allowed.
+[9] This Court has heard similar appeals dealing with maintenance payments under paternity agreements in Alberta in five other cases, the most recent being William A. Mullen v. The Queen, [2003] T.C.J. No. 182. In this case Judge Mogan dealt with virtually identical facts in an identical legislative setting. In his Reasons for Judgment, Judge Mogan reviews the provisions of the relevant Alberta legislation as well as the four other cases of this Court on point. The other cases on point are:
+1. Fantini v. The Queen, [1998] 2 C.T.C. 2256. In this case the mother was the Appellant. She had received maintenance payments for her child under a paternity agreement signed by her, the child's father and the Director of Social Services of Alberta. Judge Bowman found that the provincial legislation, deeming such an agreement to be an "order", could not deem it to be an "order" for the purposes of the Act. Accordingly, he found that the requirement in the definition of "support amount" in the Act that the maintenance payments be made by "order" was not met and that the maintenance payments received by the mother were thereby not taxable. The corollary to this would be that the payments would not be deductible to the father. I think it is fair to say that the principal reason for Judge Bowman's decision was that he concluded, at paragraph 15 of his Reasons, that something that was deemed to be something that it was not for the purposes of a provincial statute would not thereby have that artificial meaning apply for the purposes of the Act.
+2. Hollands v. The Queen, [2001] 4 C.T.C. 2755. In this case the father was the Appellant. Revenue Canada had denied the deduction of maintenance payments made by him under a paternity agreement to which the Director of Social Services of Alberta was a party. Judge Teskey allowed the appeal, finding that the Alberta legislative deeming provision, deeming a paternity agreement signed by the Director of Social Services of Alberta to be an "order", was an "order" satisfying the requirements of paragraph (b) of the definition of "support amount". Accordingly, Judge Teskey allowed the deduction of the maintenance payments in this case.
+3. Fraser v. The Queen, [2002] T.C.J. No. 569.
+4. Hewko v. The Queen, [2002] T.C.J. No. 570. Fraser and Hewko involved similar facts and were both heard by Judge Bowie. His decisions with Reasons were delivered together. As in Hollands and the present appeal, the fathers in these two cases had been denied the deduction of maintenance payments made by them under their respective paternity agreements to which the Director of Social Services of Alberta had been a party. Judge Bowie considered both the Fantini and Hollands cases and found against the Appellants. That is, it was his view that, in context, the Alberta deeming provision could not be regarded as making a paternity agreement an "order" for the purposes of the Act. In examining the express language of the Alberta deeming provision he found that paternity agreements signed by the Director of Social Services of Alberta were deemed to be an "order" for limited purposes. He acknowledged that it was open for provinces to deem a thing to be that which in reality it is not, provided it does not intrude upon a legislative power granted to Parliament. Where it does not so intrude, a province can legislate a deeming provision that alters the status of a thing for both provincial and federal purposes provided it intends to do so. Judge Bowie found no such intention in respect of the subject Alberta deeming provisions. Accordingly, he found maintenance payments under Alberta paternity agreements were not payments pursuant to an "order" for the purposes of the Act and thereby were not deductible.
+[10] In Mullen, Judge Mogan sided with Judge Teskey on this difficult issue. Judge Mogan found that it was within the competence of the Alberta Legislature to deem a paternity agreement to be an "order". At paragraph 15 he found that it was desirable that a paternity agreement be conclusively regarded as a maintenance order to fulfil the purposes of the subject Alberta enactments.
+[11] Judge Mogan relied upon principles in Dale v. The Queen, 97 DTC 5252. Paraphrasing the Reasons in Dale, Judge Mogan stated at paragraph 16 as follows:
+... If the legislature of a province deems a particular agreement to be a court order, it is not for the Minister of National Revenue to undermine the provincial legislation by refusing to recognize the agreement as an order of a competent tribunal.
+[12] I agree with the outcome in both Hollands and Mullen. However in doing so I think it helpful to add a few comments as to why I am not persuaded in these cases by the analysis of Judges Bowman and Bowie. Their analyses in focusing on what a province should not be able to do so as not to intrude on the scope of the Income Tax Act fails to focus on what Parliament has done in this instance. Paragraph (b) of the definition of "support amount" is an express acknowledgement by Parliament of the provinces' jurisdiction over the question of how maintenance payments are to be dealt with in paternity matters. Unlike a case like Dale, the scope of which Judge Bowman sought to narrow, Parliament has in this case expressly deferred determination of this question to the provinces it being in their exclusive legislative domain. Under Alberta legislative authority, the Director of Social Services of Alberta has been enabled to perform a function in these cases generally reserved for the courts. It is a function akin to that of a tribunal passing judgment on paternity and on terms of maintenance. In becoming a party to a prescribed form of paternity agreement in Alberta, the Director of Social Services of Alberta gives a stamp of approval that results in that agreement being deemed to be an "order" under Alberta legislation. The Director's signature is accepted in lieu of a court order and is given by the deeming provision the status of an "order" to ensure that it is so treated in Alberta and extra provincially should reciprocal enforcement be required. This is not simply a question of making a thing into something that it is not. It ensures that something is what it was intended to be albeit for provincial purposes.
+[13] Judge Bowie found that this limitation prevented the "order" from being an "order" for the purposes of the Act. Such analysis, in the context of the Act, puts too much emphasis on the legislative intent of the deeming provision in this case. The question the Act asks is whether the maintenance payments are under an "order" of a competent tribunal in accordance with the laws of the province. Was there an "order" of a competent tribunal in accordance with the laws of Alberta in these cases? I think the answer to this question is "yes" regardless that the Alberta Legislature did not have in mind that the deeming provision would apply for the purposes of the Act. The Act asks what the provincial law respecting paternity orders is, not what the province intended it to be for tax purposes. The provincial law respecting maintenance in paternity cases in Alberta is that paternity agreements signed by the Director of Social Services of Alberta are "orders" for provincial purposes and that is all that is required in paragraph (b) of the definition of "support amount" in the Act. To accept a narrow purpose of the deeming provision in these circumstances as a means of shutting out, for tax purposes, the exercise of provincial legislative authority invited by the Act is to negate the invitation that Parliament gave to the provinces to deal with this issue as they see fit.
+[14] Accordingly, I allow the appeal in the case at bar with costs. I note that although I indicated at the hearing of this matter that I was likely to reserve my decision pending a judicial review application of the Fraser decision, I have been encouraged by Judge Mogan's recent decision in Mullen to express my concurrence with his views.
+Signed at Ottawa, Canada, this 27th day of May 2003.
+"J.E. Hershfield"
+J.T.C.C.
+CITATION:
+2003TCC317
+COURT FILE NO.:
+2002-53(IT)I
+STYLE OF CAUSE:
+William Fitzpatrick and
+Her Majesty the Queen
+PLACE OF HEARING:
+Fort McMurray, Alberta
+DATE OF HEARING:
+January 20, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge J.E. Hershfield
+DATE OF JUDGMENT:
+May 27, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dawn Taylor
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.A. 1970, c. 223, s. 10(1).
+[2] In 1985 when the subject paternity agreement was entered into, the deeming provision was contained in the Maintenance Enforcement Act, R.A. 1985, c. M-0.5. Subsection 1(2) specifically deemed agreements under section 10 of the Maintenance and Recovery Act to be "orders". In 1991 the Parentage and Maintenance Act, S.A. 1990, c. P-0.7 came into force and section 6 of that Act replaced section 10 of the Maintenance and Recovery Act. Section 28 of the Parentage and Maintenance Act amended subsection 1(2) of the Maintenance Enforcement Act by striking out the reference to section 10 and replacing it with section 6 of the Parentage and Maintenance Act. Although the transitional provisions seem somewhat wanting, the Respondent does not take issue with the position that the agreement in the case at bar is to be properly regarded as an agreement deemed by subsection 1(2) of the Maintenance Enforcement Act to be a maintenance order.
